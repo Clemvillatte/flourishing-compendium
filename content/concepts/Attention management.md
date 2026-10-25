@@ -7,7 +7,7 @@ file: "Attention management"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Attention management is the practice of governing where attention goes: choosing what receives it, protecting it from capture, and handling what switching between tasks costs. My seed evidence for the switching cost is Sophie Leroy's 2009 finding that attention does not transfer cleanly from one task to the next; cognitions about the first task persist into the second, and the second task's performance suffers while they do.
+Attention management is the practice of governing where attention goes: choosing what receives it, protecting it from capture, and handling what switching between tasks costs. The evidence for the switching cost is Sophie Leroy's 2009 finding that attention does not transfer cleanly from one task to the next; cognitions about the first task persist into the second, and the second task's performance suffers while they do.
 
 > Time pressure is needed on a completed task to reduce attention residue when people switch to a next task. — Leroy, ["Why is it so hard to do my work? The challenge of attention residue when switching between work tasks" (2009), Organizational Behavior and Human Decision Processes 109(2), 168-181](https://www.scribd.com/document/856551539/c-Coek-Info-Why-is-It-So-Hard-to-Do-My-Work-the-Challenge-of-a-1)
 

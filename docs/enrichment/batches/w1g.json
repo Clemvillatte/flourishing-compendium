@@ -63,14 +63,14 @@
   "Acquired Needs Theory (McClelland)",
   "Anger reappraisal",
   "Attachment security",
-  "Attention management",
   "Attentional bias theory MacLeod",
   "Autistic cognition: detail-focused processing",
   "State-matched emotion regulation",
   "The analysis of experience into elements",
   "The quiet craftsman's life",
   "The rehearsal of virtue",
-  "The right amount of effort"
+  "The right amount of effort",
+  "Attention management"
  ],
  "in_progress": null,
  "flagged": {
@@ -122,12 +122,13 @@
   "Unconditional positive regard": "RESOLVED by worker-w1g-1025b 2026-10-25 (per-item verification): QC round-7 repairs confirmed — the proposal framing, blockquote attribution, facets citation and trailing-fragments cleanup repaired per the ledger. No page edit needed this session; source verification not repeated; evidence in sources/w1g/ledger.md; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: QC round 7: proposal framing, blockquote attribution, facets citation, trailing fragments cleanup]",
   "Weekly-review implementation intentions": "RESOLVED by worker-w1g-1025b 2026-10-25 (per-item verification): QC round-7 repairs confirmed — the RePEc record title, bounded argument framing, application label, locators and gloss citations repaired per the ledger. No page edit needed this session; source verification not repeated; evidence in sources/w1g/ledger.md; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: QC round 7: RePEc record title, bounded argument framing, application label, locators, gloss citations]",
   "Work engagement": "RESOLVED by worker-w1g-1025b 2026-10-25 (per-item verification): QC round-7 repairs confirmed — the excerpt-only CFA details and origin claim removed, the causal contrast deleted and the Burnout gloss fixed per the ledger. No page edit needed this session; source verification not repeated; evidence in sources/w1g/ledger.md; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: QC round 7: remove excerpt-only CFA details and origin claim, delete causal contrast, fix Burnout gloss, facet cleanup, blockquote locator]",
-  "Workability": "RESOLVED by worker-w1g-1025b 2026-10-25 (per-item verification): advisor round-2 repairs confirmed — the correctness contrast removed (checked this session: 0 matches) and the inherited references section handled per the ledger. No page edit needed this session; source verification not repeated; evidence in sources/w1g/ledger.md; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: advisor round-2 repairs (correctness contrast removed, inherited references section)]"
+  "Workability": "RESOLVED by worker-w1g-1025b 2026-10-25 (per-item verification): advisor round-2 repairs confirmed — the correctness contrast removed (checked this session: 0 matches) and the inherited references section handled per the ledger. No page edit needed this session; source verification not repeated; evidence in sources/w1g/ledger.md; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: advisor round-2 repairs (correctness contrast removed, inherited references section)]",
+  "Attention management": "Reopened for QC: QC: routed jargon cleanup — 'My seed evidence' reworded to plain reader voice"
  },
  "missing_concepts": [],
  "sources_checked": 24,
- "updated": "2026-10-22T08:22:19+00:00",
- "band_done": true,
+ "updated": "2026-10-25T01:53:59+00:00",
+ "band_done": false,
  "notes": {
   "band_completion": "2026-10-22 worker-sup-flourish-1022b: all 5 w1g concepts closed at fast-track bar. Four already carried verbatim quotes (Gross/Bonanno, SEP Phenomenology, Legge Zhuangzi 19, Ross NE + Sona Sutta); 'The rehearsal of virtue' rewritten from the opened Seneca L94 Gummere text (Virtue depends partly upon training and partly upon practice + mind-metamorphosis sentence verbatim)."
  }
