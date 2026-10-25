@@ -1031,6 +1031,11 @@ quote_verify reported 2 not found, both Nagarjuna MMK 15 spans:
 No dossier text changes needed; neither span verified this pass.
 
 ## Direct-PDF verification (2026-10-25 12:01Z, worker-p1a-1025o, read-only assist)
+TIMESTAMP CORRECTION (2026-10-25 11:26Z, worker-p1a-1025o): the header time
+above (12:01Z) was miswritten about 40 minutes ahead of the actual
+UTC clock; the work was committed at 929918b30 (11:19:53Z) per git. The pass's
+content is unaffected; only the clock time was wrong.
+
 
 Downloaded the antilogicalism Kalupahana MMK scan PDF directly and
 located verse XV.1-2: the span is present in the print text but the

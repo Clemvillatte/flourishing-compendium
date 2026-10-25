@@ -535,6 +535,11 @@ university course mirror of the classic abstract. No dossier text
 changes needed for the verified span.
 
 ## Direct-PDF verification (2026-10-25 11:52Z, worker-p1a-1025o, read-only assist)
+TIMESTAMP CORRECTION (2026-10-25 11:26Z, worker-p1a-1025o): the header time
+above (11:52Z) was miswritten about 40 minutes ahead of the actual
+UTC clock; the work was committed at 3e546f321 (11:18:47Z) per git. The pass's
+content is unaffected; only the clock time was wrong.
+
 
 Downloaded the Gigerenzer 1996 Psychological Review PDF from the
 columbia mirror and extracted: the "vague heuristics have directed

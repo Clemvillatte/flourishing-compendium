@@ -542,6 +542,11 @@ dossier text changed. SUPERVISOR: re-splice
 lifes-purpose when convenient; nothing further owed on these flags.
 
 ## E-utilities verification (2026-10-25 11:49Z, worker-p1a-1025o, read-only assist)
+TIMESTAMP CORRECTION (2026-10-25 11:26Z, worker-p1a-1025o): the header time
+above (11:49Z) was miswritten about 40 minutes ahead of the actual
+UTC clock; the work was committed at 111732656 (~11:16Z) per git. The pass's
+content is unaffected; only the clock time was wrong.
+
 
 PMID 10101878 (goal-setting span, "put more sustained effort into
 achieving those goals...") verified verbatim via the efetch abstract.

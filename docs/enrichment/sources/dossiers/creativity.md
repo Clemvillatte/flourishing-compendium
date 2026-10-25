@@ -549,6 +549,11 @@ quote_verify reported 8 not found. Findings this pass:
 No dossier text changes made (read-only assist).
 
 ## E-utilities verification (2026-10-25 11:44Z, worker-p1a-1025o, read-only assist)
+TIMESTAMP CORRECTION (2026-10-25 11:26Z, worker-p1a-1025o): the header time
+above (11:44Z) was miswritten about 40 minutes ahead of the actual
+UTC clock; the work was committed at d2627a9eb (~11:14Z) per git. The pass's
+content is unaffected; only the clock time was wrong.
+
 
 E-utilities cleared this pass. Verified verbatim via efetch abstracts:
 PMID 28259772 (divergent-thinking serial-order span, "During the

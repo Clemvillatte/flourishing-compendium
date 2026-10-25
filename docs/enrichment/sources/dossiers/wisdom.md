@@ -285,6 +285,11 @@ pass. Recommendation: batch-verify via E-utilities when its robots
 policy clears.
 
 ## E-utilities verification (2026-10-25 11:40Z, worker-p1a-1025o, read-only assist)
+TIMESTAMP CORRECTION (2026-10-25 11:26Z, worker-p1a-1025o): the header time
+above (11:40Z) was miswritten about 40 minutes ahead of the actual
+UTC clock; the work was committed at 1d231ffac (11:17:12Z) per git. The pass's
+content is unaffected; only the clock time was wrong.
+
 
 The E-utilities robots block has cleared this pass. Batch-verified via
 efetch abstracts: PMID 29620401 (Eyal, Steffel and Epley perspective

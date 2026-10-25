@@ -735,6 +735,11 @@ eye-verified verbatim); only Algoe 2012 "Find, Remind, and Bind" remains
 changes needed anywhere.
 
 ## Direct-PDF verification (2026-10-25 11:47Z, worker-p1a-1025o, read-only assist)
+TIMESTAMP CORRECTION (2026-10-25 11:26Z, worker-p1a-1025o): the header time
+above (11:47Z) was miswritten about 40 minutes ahead of the actual
+UTC clock; the work was committed at fd25e90bc (11:18:20Z) per git. The pass's
+content is unaffected; only the clock time was wrong.
+
 
 Downloaded the terebess.hu Trungpa coll2.pdf directly and extracted:
 the slogan-13 span ("the idea here is to feel grateful that others are
