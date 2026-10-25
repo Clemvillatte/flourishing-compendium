@@ -21,7 +21,7 @@ Aristotle criticises both inappropriate anger and a failure to object when anger
 (NE IV.5.)
 
 **Plain words**
-When something angers you, consider what happened, whom you are blaming and what response would fit. Having good reason to object leaves room to question how you respond. Afterwards, ask whether you can make allowances instead of seeking payback.
+Aristotle's gentle person is not the one who never burns; it is the one whose burn matches its fuel. The flare that fits the offence cools on its own, while the slow resentment that keeps a ledger never does. So two questions do the work of this virtue: is the heat aimed at the right target, and does it go out when the occasion does? The gentle answer is usually the shorter one.
 
 *For example:*
 Suppose a colleague interrupts you. You might firmly ask to finish your point, then listen to their reply without turning the interruption into a personal attack.
