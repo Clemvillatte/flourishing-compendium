@@ -550,3 +550,37 @@ medication reiteration, both verbatim on the opened pages).
 Checks after the repair: dossier_check exit 0, quote_verify 8/2 (the
 2 Columbia-page artifacts, by-eye verified, exceptions recorded
 above), density 0.
+
+## Disagreement section 1 to 3 questions (worker-pplx-dos30-1025l, 2026-10-25, baton dos13)
+
+Two questions added under "Where the traditions genuinely disagree".
+
+Q2, outcome or attempt. Opened this session: Locke and Latham 2006
+(nj.gov PDF, text extracted; the "Because goals refer to future valued
+outcomes..." sentences found by script; the PDF has a line-break
+hyphenation "discrepancycreating" that the dossier prints as
+"discrepancy-creating"); Cicero De Finibus III.22, Rackham translation on
+LacusCurtius (fetched; passage matches); Epictetus Enchiridion 2, Carter
+translation on the Internet Classics Archive (fetched copy; "lightly, and
+with gentleness and reservation" found by script); Seneca, On
+Tranquillity of Mind XIII, Stewart translation, Gutenberg 64576 (section
+number read from the section heading in the fetched text; the passage
+omits only a page marker). Limit stated in the dossier: no study found
+testing hard goals plus an outcome reservation; only the 2006 article read.
+
+Q3, picturing the aim. Opened: Taylor and Brown 1988 (MIT-hosted PDF,
+abstract sentence and the "enhance motivation, persistence, and
+performance" clause found by script; two-column extraction interleaves
+some lines but both quoted strings are contiguous); Oettingen and Mayer
+2002 (PubMed abstract, fetched); Colvin and Block 1994 (PubMed abstract,
+fetched). The mismatch between the measures is stated in the dossier
+(beliefs about self and odds against imagined pleasant futures). Not
+done: full text of Oettingen and Mayer or Colvin and Block, and the
+Taylor and Brown 1994 reply was seen only in a search snippet and is not
+cited.
+
+Checks: dossier_check exit 0 (52 card links, 19 headers). The quote
+verifier's six "not found" items are the usual PDF/hyphenation and
+nested-quote false positives; each was matched by hand to the fetched
+text (the Columbia abstract line was already in the dossier before this
+change). SUPERVISOR: re-splice goals; registry status untouched.

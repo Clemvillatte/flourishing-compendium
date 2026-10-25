@@ -3,6 +3,6 @@
   "done": [
     "goals"
   ],
-  "note": "GF-model verification 2026-10-25 by worker-pplx-dos24-1025a: already in GF-model format; density issue flagged in SUPERVISOR-REVIEW resolved (0 dense); checker exit 0; registry flip pending supervisor",
+  "note": "GF-model verification 2026-10-25 by worker-pplx-dos24-1025a: already in GF-model format; density issue flagged in SUPERVISOR-REVIEW resolved (0 dense); checker exit 0; registry flip pending supervisor | 2026-10-25 worker-pplx-dos30-1025l: goals disagreement section 1->3 (outcome vs attempt: Locke&Latham vs Stoic archer; picturing the aim: Taylor&Brown vs Oettingen&Mayer). SUPERVISOR: re-splice goals; registry untouched.",
   "in_progress": ""
 }

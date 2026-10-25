@@ -92,6 +92,36 @@ Locke and Latham, the theory's founders, replied in the same issue. [CBS News](h
 
 What the disagreement turns on is the standing of the critics' case: they hold that goal setting's benefits have been oversold relative to its harms, and the founders' reported rejoinder challenges the case's evidential basis. The report does not establish the rejoinder's full answer to the critics' concerns. My provisional lean: the critics' prescription wording is usable at face value, and the founders' own conditions (commitment, ability, no conflict) are where a reader would start.
 
+### Should an aim be set on the outcome or on the attempt?
+
+The shared question: when you commit to an aim, what exactly are you committed to, the result or your own conduct in pursuing it? Locke and Latham's account of goals puts the result first:
+
+> "Because goals refer to future valued outcomes, the setting of goals is first and foremost a discrepancy-creating process. It implies discontent with one's present condition and the desire to attain an object or outcome." ([Locke and Latham, Current Directions in Psychological Science 2006](https://www.nj.gov/highereducation/documents/pdf/NewAdvancesinGoalSettingTheory-Locke_Latham2006.pdf))
+
+Cicero's Cato gives the Stoic archer, whose end is the aiming and not the hit:
+
+> "For though if a man were to make it his purpose to take a true aim with a spear or arrow at some mark, his ultimate end, corresponding to the ultimate good as we pronounce it, would be to do all he could to aim straight: the man in this illustration would have to do everything to aim straight, and yet, although he did everything to attain his purpose, his 'ultimate End,' so to speak, would be what corresponded to what we call the Chief Good in the conduct of life, whereas the actual hitting of the mark would be in our phrase 'to be chosen' but not 'to be desired.'" ([Cicero, De Finibus III.22, Rackham translation](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Finibus/3*.html))
+
+Epictetus and Seneca turn the same stance into a way of holding plans. Epictetus advises "Use only the appropriate actions of pursuit and avoidance; and even these lightly, and with gentleness and reservation." ([Epictetus, Enchiridion 2, Carter translation](https://classics.mit.edu/Epictetus/epicench.html)) Seneca names the habit:
+
+> "I will set sail unless anything happens to prevent me, I shall be praetor, if nothing hinders me, my financial operations will succeed, unless anything goes wrong with them." ([Seneca, On Tranquillity of Mind XIII, Stewart translation](https://www.gutenberg.org/files/64576/64576-0.txt))
+
+The two stances answer different questions, so the page does not call one of them refuted. Locke and Latham report what raises task performance, and the passage above is about what a goal is. Cato is describing where the good of a life sits, and the archer's hit is still something to be chosen. They meet on a practical point: whether a person who wants the outcome hard, as hard goals require, can also hold it lightly. My lean, which is mine and not a finding of either source, is that a demanding goal and a reservation about the result can be held together, with the reservation doing work only when the result stops being in the person's reach. What I did not find is any study that tests that combination directly, and I did not read Locke and Latham's longer statements of the theory, only the 2006 article.
+
+### Does picturing the aim help the one who pursues it?
+
+The shared question: does a hopeful view of the future you are aiming at feed the effort or drain it? Taylor and Brown's 1988 review held that hopeful distortions serve effort:
+
+> "Moreover, these illusions appear to promote other criteria of mental health, including the ability to care about others, the ability to be happy or contented, and the ability to engage in productive and creative work." ([Taylor and Brown, Psychological Bulletin 1988](https://web.mit.edu/curhan/www/docs/Articles/biases/Taylor_Brown_Illusion_and_Well-Being.pdf))
+
+Their text adds that these illusions "enhance motivation, persistence, and performance." Oettingen and Mayer's four studies found a split inside positive thinking:
+
+> "Positive expectations (judging a desired future as likely) predicted high effort and successful performance, but the reverse was true for positive fantasies (experiencing one's thoughts and mental images about a desired future positively)." ([Oettingen and Mayer, Journal of Personality and Social Psychology 2002, abstract](https://pubmed.ncbi.nlm.nih.gov/12416922/))
+
+The review itself was challenged. Colvin and Block examined its logic and evidence and concluded that the case "failed to substantiate Taylor and Brown's thesis" ([Colvin and Block, Psychological Bulletin 1994, abstract](https://pubmed.ncbi.nlm.nih.gov/8078973/)).
+
+The sources measure different things. Taylor and Brown review overly positive self-views, exaggerated control and unrealistic optimism, which are beliefs about the self and the odds. Oettingen and Mayer separate a judgment of likelihood from the experience of imagining a pleasant future, and only the imagining predicted lower effort. I do not read the two as a direct contradiction, and neither abstract settles whether an unrealistic belief about the odds helps effort. My lean, which is mine, is that the practical advice differs more than the evidence does: the goals literature on this page treats the hopeful image as a place to start and the obstacle as the thing to plan around. Limits: I read the abstracts of Oettingen and Mayer and Colvin and Block, not the full articles, and I did not open Taylor and Brown's 1994 reply.
+
 ## Practice: choosing, steering, letting go
 
 ::Variation:: What tends to need varying is the form of the goal and the way it is held. The look-alikes of commitment are rigidity and a list of things to be seen to do. The adaptive moves are to plan the situation as well as the aim, to check whose goal it is, and to notice early when it is no longer reachable.
