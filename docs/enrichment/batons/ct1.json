@@ -1,7 +1,7 @@
 {
  "baton": "ct1",
  "agent": "worker-pplx-ct1-1025aa",
- "clocked_in": "2026-10-25T12:19:39+00:00",
+ "clocked_in": "2026-10-25T12:20:22+00:00",
  "takeovers": [
   {
    "by": "worker-sup-1022c",
