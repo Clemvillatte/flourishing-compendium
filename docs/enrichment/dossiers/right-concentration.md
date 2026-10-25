@@ -107,6 +107,18 @@ Shankman's reading of the same family of terms holds a wider option inside the s
 
 The disagreement is real and live: the article's Criticism section reports that the one-pointed interpretation "has become a matter of debate." What remains unresolved is whether ekaggata is exclusive fixation or unified stillness; the practice instructions differ, a single fixed object on one reading, a steady awareness of the wide field on the other, and my own pages hold both.
 
+### Is absorption entered by withdrawal or by engagement?
+
+The shared question: what is the door into full absorption? The first jhana's entry, in the Samaññaphala Sutta's own words, is withdrawal:
+
+> "Quite withdrawn from sensuality, withdrawn from unskillful mental qualities, he enters and remains in the first jhana: rapture and pleasure born from withdrawal, accompanied by directed thought and evaluation." ([Thanissaro, DN 2](https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html))
+
+The jhana line's door is a stepping back from sensory engagement and from the unskillful qualities that come with it. Flow's door runs the other way. [Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow) is entered from inside a demanding activity, and its three stated conditions are conditions of the task, not of withdrawal: clear goals and visible progress, immediate feedback, and a perceived balance between the challenge of the task and the performer's skill. The jhana is entered by pulling back from the senses; flow is entered by leaning into a challenge that matches the skill brought to it.
+
+The two accounts give the practitioner different work to do at the threshold. The contemplative instruction is to withdraw from sensuality and the unskillful qualities that follow it, and the pleasure that comes is born from that withdrawal. The flow instruction is to arrange the challenge, the goals and the feedback so the engagement holds, and the reward is intrinsic to the doing. Each tradition knows the other's state exists and does not claim to produce it: the jhana literature does not promise absorption in a chess game, and the flow literature does not promise rapture born of withdrawal.
+
+I lean toward keeping the doors distinct rather than choosing between them. A person whose day is made of tasks needs flow's engineering, and a person whose day is made of stimulation needs the jhana's withdrawal; the two needs are different, and calling one state by the other's name leaves both undescribed.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the scatter and the strain: attention divided across tabs and tasks, the switching costs paid as residue, and the white-knuckle forcing that the lute-string teaching names as the first failure mode. The adaptive direction is the tuned middle: one object, one task, one protected block, with the return counted as the practice rather than as failure, and the effort checked against the two failure modes the sutta names, restless over-effort and slack neglect.

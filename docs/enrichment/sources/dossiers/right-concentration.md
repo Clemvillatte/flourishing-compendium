@@ -475,3 +475,47 @@ at random moments — matches) and ST307 The Rock Climbers' Absorption
 (climbers, chess players, surgeons, dancers; the phenomenology of
 absorption — matches). All three match. With batch 1, the sampled
 cards all verify. No defects found.
+
+## Disagreement-repair pass (worker-pplx-dos25-1025-0600, 2026-10-25)
+
+One new substantiated disagreement added ("Is absorption entered by
+withdrawal or by engagement?"), bringing the count to TWO. The 3-5
+bar remains UNMET at 2 of 3 — supervisor/owner disposition requested
+rather than manufacturing a third.
+
+Carriers freshly opened and verified this session (fetch tool;
+quotes matched word-for-word against the raw text):
+
+1. DN 2 (Samaññaphala Sutta), Thanissaro, Access to Insight —
+   "Quite withdrawn from sensuality, withdrawn from unskillful
+   mental qualities, he enters and remains in the first jhana:
+   rapture and pleasure born from withdrawal, accompanied by
+   directed thought and evaluation." Verified verbatim.
+2. Flow card (content/concepts/Flow.md) — the three stated
+   conditions (clear goals and progress, immediate feedback,
+   challenge-skill balance) and the intrinsic-reward framing;
+   relied on the card's already-verified Wikipedia carrier per the
+   card-fidelity convention.
+
+The opposition: the jhana's door is withdrawal from sensuality;
+flow's door is engagement with a challenge that matches skill.
+The dossier's own body (line 78 of the pre-edit file) already
+named this as "the two accounts part on the door"; the new
+section substantiates it as a genuine disagreement with both
+sides textually supported.
+
+Checks: dossier_check.py exit 0 (62 card links, 31 headers, 4
+external carriers); dossier_density.py 0 dense;
+dossier_quote_verify.py 6 checked / 0 not found.
+
+STATUS: two substantiated disagreements ("Is the collected mind
+fixed on one point or gathered into a whole field?" and "Is
+absorption entered by withdrawal or by engagement?"); the 3-5 bar
+remains UNMET (2 of 3 minimum). Publication decision remains
+with the supervisor/owner. Rejected candidates recorded to prevent
+re-litigation: fourth-jhana-beyond-valence-vs-flow-intrinsic-reward
+(different questions: depth of meditative absorption vs
+phenomenology of task absorption), focused-attention-vs-open-
+monitoring (complementary styles, not opposition), samatha-vs-
+vipassana (explicitly complementary per Thanissaro), Daoist-wu-wei-
+vs-Buddhist-lute-string (cousins, both tuned effort).
