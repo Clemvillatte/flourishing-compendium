@@ -19,6 +19,8 @@ Chapter 3 states the principle the parables then illustrate:
 
 > "Have I not told thee before, Sâriputra, that the Tathâgata, &c., preaches the law by able devices, varying directions and indications, fundamental ideas, interpretations, with due regard to the different dispositions and inclinations of creatures whose temperaments are so various?" (Lotus of the True Law, ch. 3, [Sacred Texts](https://sacred-texts.com/bud/lotus/lot03.htm))
 
+The concept turns teaching into a fit rather than a delivery. The same law is stated differently to hearers whose dispositions differ, and the variation is not a change in the law but a change in the form the hearer can take in. The concept puts a demand on the teacher rather than the learner: read the room, or the teaching lands as noise.
+
 ### Here
 
 - [[D003 — Act through wu wei — non-forcing]] — a comparison I draw: the Daoist mode of non-forcing action

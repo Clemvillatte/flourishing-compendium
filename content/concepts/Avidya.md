@@ -13,7 +13,7 @@ In Buddhist literature, where the Pali form is avijjā, the word is commonly tra
 
 > "The Buddha teaches that there is one defilement which gives rise to all the others, one root which holds them all in place. This root is ignorance (avijja). Ignorance is not mere absence of knowledge, a lack of knowing particular pieces of information. Ignorance can co-exist with a vast accumulation of itemized knowledge, and in its own way it can be tremendously shrewd and resourceful. As the basic root of dukkha, ignorance is a fundamental darkness shrouding the mind." (Bhikkhu Bodhi, [The Noble Eightfold Path, ch. I, "The Causes of Suffering" (Access to Insight)](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html))
 
-In the Theravada Abhidharma teachings the equivalent is moha, delusion ([Wikipedia, Avidya (Buddhism)](https://en.wikipedia.org/wiki/Avidya_(Buddhism))).
+Bodhi continues: "Sometimes this ignorance operates in a passive manner, merely obscuring correct understanding. At other times it takes on an active role: it becomes the great deceiver, conjuring up a mass of distorted perceptions and conceptions which the mind grasps as attributes of the world, unaware that they are its own deluded constructs" ([Bhikkhu Bodhi, The Noble Eightfold Path, ch. I (Access to Insight)](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)). The word is therefore not a name for a missing fact but for a mind that mis-reads what it sees, and does so while looking. In the Theravada Abhidharma teachings the equivalent is moha, delusion ([Wikipedia, Avidya (Buddhism)](https://en.wikipedia.org/wiki/Avidya_(Buddhism))).
 
 ## Related concepts
 
@@ -31,3 +31,4 @@ In the Theravada Abhidharma teachings the equivalent is moha, delusion ([Wikiped
 - [Bhikkhu Bodhi, The Noble Eightfold Path (Access to Insight)](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html) — the blockquote on ignorance as the root
 
 ## Cited in philosophy parallels
+
