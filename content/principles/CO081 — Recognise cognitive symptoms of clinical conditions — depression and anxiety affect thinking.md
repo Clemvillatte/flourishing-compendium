@@ -30,7 +30,7 @@ Anxiety has its own signature, documented across many studies: "A wealth of rese
 
 The bias is a feature of the state. It does not settle whether any particular thought is accurate; it tells you which way the search is pointed.
 
-**Plain words** In anxiety, questions read as dangers; in depression, answers read as failures. The move is the same in both: before treating a thought as a fact, ask what state you are in today.
+**Plain words** A mind in a state has a habit of finding what the state is looking for. The anxious one scans for what could go wrong and finds it; the low one scans for what was always going to be wrong and finds that instead. The thought feels like news either way. So before believing the day's darkest conclusion, one cheap check: what mood was I in when I reached it?
 
 *For example:* Someone with social anxiety reads a friend's short reply as anger. The same reply, on a calm day, reads as a friend in a hurry. The message did not change; the search did.
 
