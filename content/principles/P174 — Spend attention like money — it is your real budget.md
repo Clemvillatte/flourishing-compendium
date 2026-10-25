@@ -12,15 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 174** — Spend attention like money: it is your real budget
 
-James's formulation is the founding text of attention economics: "My experience is what I agree to attend to. Only those items which I notice shape my mind" ([James 1890, ch. XI, Gutenberg](https://www.gutenberg.org/ebooks/57628)). Millions of items are present to your senses at any moment and never enter your experience, because they have no interest for you. The world that reaches you is already the result of a selection you did not notice making.
+William James opens his chapter on attention with a fact that is easy to overlook: most of what reaches your senses never becomes part of your experience.
 
-This is the whole reason the principle is framed as a budget rather than a character trait. If experience were simply the world as it is, attention would not matter; you would just receive it. But because experience is the filtered version, whatever you spend your attention on is not a sample of your life; it is your life. Csikszentmihalyi's later work on flow is built on the same foundation; the quality of experience is the quality of what attention is invested in ([Csikszentmihalyi 1990, Flow](https://psycnet.apa.org/record/1990-98234-000)).
+> "Millions of items of the outward order are present to my senses which never properly enter into my experience. Why? Because they have no interest for me. My experience is what I agree to attend to. Only those items which I notice shape my mind - without selective interest, experience is an utter chaos." (William James, *The Principles of Psychology*, 1890, ch. XI, p. 402)
 
-> "My experience is what I agree to attend to. Only those items which I notice shape my mind - without selective interest, experience is an utter chaos." (William James, The Principles of Psychology, 1890, ch. XI, [Gutenberg](https://www.gutenberg.org/ebooks/57628))
+If experience is what you attend to, each choice of attention decides what your life contains. James also describes what a choice costs. Attention, he writes, "implies withdrawal from some things in order to deal effectively with others" (ch. XI, p. 404).
 
-**Plain words** You have about sixteen waking hours a day, and a very small number of things you can actually be present for. Every one of those slots you give to a feed is a slot not given to something you could later remember. This is not a moral complaint about phones; it is an accounting observation. Look at your screen-time report and your stated priorities side by side and one of them is lying.
+The money comparison belongs to this principle. James supplies the selectivity and the cost of withdrawal that make the comparison fit: the supply is limited, and every use of it is paid for with whatever you did not attend to.
 
-*For example:* A person complains for a year that they have no time to learn guitar. A screen-time audit shows three hours a day on a feed. The time existed. It was spent. The complaint was not about time; it was about where the time went without anyone deciding.
+**Plain words** What you pay attention to, day after day, is what your life is made of. Attention is limited, so an hour given to one thing is an hour taken from the others. Many phones show a screen-time report. Set it beside what you say matters to you and see where the two differ.
+
+*For example:* Imagine someone who says they want to learn guitar but never has time, and whose screen-time report shows three hours a day on a social feed. They move thirty minutes of that to practice, check after two weeks whether the change held, and keep or adjust it. This is my illustration of treating attention as a budget.
+
+## Sources
+
+- [William James, The Principles of Psychology (1890), ch. XI "Attention", Classics in the History of Psychology](https://psychclassics.yorku.ca/James/Principles/prin11.htm): the quotation on p. 402 and the sentence on p. 404.
 
 ## Practice kernels
 
@@ -36,19 +42,7 @@ This is the whole reason the principle is framed as a budget rather than a chara
 - **My world is what I attend to** (James, The Principles of Psychology)
 - **[[Attention|Attention as prayer]]** (Weil, Waiting for God)
 
-## Primary source (verbatim)
 
-> "Millions of items of the outward order are present to my senses which never properly enter into my experience. Why? Because they have no interest for me. My experience is what I agree to attend to. Only those items which I notice shape my mind."
-> — William James, The Principles of Psychology, vol. I (Henry Holt, 1890).
-> Locator: Ch. XI "Attention", p. 402.
-> Open-access source: https://www.gutenberg.org/ebooks/57628
-
-## Primary source (verbatim)
-
-> "Millions of items of the outward order are present to my senses which never properly enter into my experience. Why? Because they have no interest for me. My experience is what I agree to attend to. Only those items which I notice shape my mind - without selective interest, experience is an utter chaos."
-> — William James, The Principles of Psychology, vol. I (Henry Holt, 1890).
-> Locator: Ch. XI "Attention", p. 402.
-> Open-access source: https://psychclassics.yorku.ca/James/Principles/prin11.htm
 
 ## Related thinkers
 
