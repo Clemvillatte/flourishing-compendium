@@ -13,7 +13,7 @@ The ethics of care is a moral theory that locates moral significance in relation
 
 ### What care means here
 
-The IEP entry gives the normative aim: "care ethics seeks to maintain relationships by contextualizing and promoting the well-being of care-givers and care-receivers in a network of social relations". The tradition runs from Milton Mayeroff's On Caring through psychologist Carol Gilligan and philosopher Nel Noddings in the mid-1980s; the entry names Annette Baier, Virginia Held, Eva Feder Kittay, Sara Ruddick and Joan Tronto among the influential later contributors. Critics have charged the theory with essentialism, parochialism and ambiguity, charges the entry records alongside the theory's spread into political theory and public policy.
+The IEP entry gives the normative aim: "care ethics seeks to maintain relationships by contextualizing and promoting the well-being of care-givers and care-receivers in a network of social relations". The tradition runs from Milton Mayeroff's On Caring through psychologist Carol Gilligan and philosopher Nel Noddings in the mid-1980s; the entry names Annette Baier, Virginia Held, Eva Feder Kittay, Sara Ruddick and Joan Tronto among the influential later contributors. Critics have charged the theory with essentialism, parochialism and ambiguity, charges the entry records alongside the theory's spread into political theory and public policy. The practice kernels below make the contextualizing concrete, since a network of relations has to be enumerated before anyone can deliberate from inside it.
 
 ### Here
 
