@@ -8,35 +8,19 @@ The theme asks a double question: what other people do to a person's mind and fl
 
 [Friendship](https://clemvillatte.github.io/flourishing-compendium/#card=Friendship) and [Compassion](https://clemvillatte.github.io/flourishing-compendium/#card=Compassion) are treated inside this dossier, and their cards carry the tradition-specific detail. Related themes handled elsewhere: gratitude has its own dossier; forgiveness and the repair of injury are mapped in the Anger dossier; habit formation and behaviour change belong to the Behaviour dossier; the self-concept belongs to the Self dossier.
 
-## The map: the entries on others
+## Where others sit in a life
 
 ### What other people do to a person
 
-[Social baseline](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20baseline): the human brain treats the company of trusted others as its default condition, so managing alone costs metabolic and neural resources.
+The claim that the human brain treats the company of trusted others as its default condition, so managing alone costs metabolic and neural resources, is the [social baseline](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20baseline). Butler's temporal framework, in which partners in a close relationship regulate each other's affect across repeated interactions, each partner's state managed between them, is [co-regulation in relationships](https://clemvillatte.github.io/flourishing-compendium/#card=Co-regulation%20in%20relationships), and the precise version of the claim that relationship maintenance is a shared regulatory task is [co-regulation of affect in relationships](https://clemvillatte.github.io/flourishing-compendium/#card=Co-regulation%20of%20affect%20in%20relationships).
 
-[Co-regulation in relationships](https://clemvillatte.github.io/flourishing-compendium/#card=Co-regulation%20in%20relationships): Butler's temporal framework: partners in a close relationship regulate each other's affect across repeated interactions, each partner's state managed between them.
+My name for Fredrickson's positivity resonance, the brief shared positive states that constitute love as a day-to-day biological event, is [micro-moments of connection](https://clemvillatte.github.io/flourishing-compendium/#card=Micro-moments%20of%20connection). My label for the findings in which people's ties to others travel with how well their lives go (Diener and Seligman, 2002) is [connectedness in well-being research](https://clemvillatte.github.io/flourishing-compendium/#card=Connectedness%20in%20well-being%20research).
 
-[Co-regulation of affect in relationships](https://clemvillatte.github.io/flourishing-compendium/#card=Co-regulation%20of%20affect%20in%20relationships): the precise version of the claim: relationship maintenance is a shared regulatory task.
+The classic review distinguishing two proposed relationships between support and health is [social support theory](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20support%20theory%20Cohen%20Wills), and the competing account that support blunts the stress response itself, so its health benefit shows up mainly under stress, is [the stress-buffering model](https://clemvillatte.github.io/flourishing-compendium/#card=The%20stress-buffering%20model).
 
-[Micro-moments of connection](https://clemvillatte.github.io/flourishing-compendium/#card=Micro-moments%20of%20connection): my name for Fredrickson's positivity resonance: the brief shared positive states that constitute love as a day-to-day biological event.
+Baumeister and Leary's claim that belonging is a need built in prior to choice is [social embeddedness](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20embeddedness). The subjective, distressing gap between desired and actual social relationships, distinct from objective solitude, is [loneliness](https://clemvillatte.github.io/flourishing-compendium/#card=Loneliness), and the account of loneliness as an aversive biological signal that evolved to protect the social body, the way pain protects the physical one, is [the evolutionary account of loneliness](https://clemvillatte.github.io/flourishing-compendium/#card=The%20evolutionary%20account%20of%20loneliness).
 
-[Connectedness in well-being research](https://clemvillatte.github.io/flourishing-compendium/#card=Connectedness%20in%20well-being%20research): my label for the findings in which people's ties to others travel with how well their lives go (Diener and Seligman, 2002).
-
-[Social support theory Cohen Wills](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20support%20theory%20Cohen%20Wills): the classic review distinguishing two proposed relationships between support and health.
-
-[The stress-buffering model](https://clemvillatte.github.io/flourishing-compendium/#card=The%20stress-buffering%20model): the competing account: support blunts the stress response itself, so its health benefit shows up mainly under stress.
-
-[Social embeddedness](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20embeddedness): Baumeister and Leary's claim that belonging is a need built in prior to choice.
-
-[Loneliness](https://clemvillatte.github.io/flourishing-compendium/#card=Loneliness): the subjective, distressing gap between desired and actual social relationships, distinct from objective solitude.
-
-[The evolutionary account of loneliness](https://clemvillatte.github.io/flourishing-compendium/#card=The%20evolutionary%20account%20of%20loneliness): loneliness as an aversive biological signal that evolved to protect the social body, the way pain protects the physical one.
-
-[Social contagion](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20contagion): the spread of affect and behaviour from person to person through observation and induction.
-
-[Social attention](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20attention): attention guided by where other people are attending, most clearly through gaze.
-
-[Social determinants of well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20determinants%20of%20well-being): how people rate their lives depends heavily on the surrounding social conditions, not only on traits or income.
+The spread of affect and behaviour from person to person through observation and induction is [social contagion](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20contagion). Attention guided by where other people are attending, most clearly through gaze, is [social attention](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20attention). The finding that how people rate their lives depends heavily on the surrounding social conditions, not only on traits or income, is [social determinants of well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20determinants%20of%20well-being).
 
 Beckes and Coan's statement of the social baseline is direct:
 
