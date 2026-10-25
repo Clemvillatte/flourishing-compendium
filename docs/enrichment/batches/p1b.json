@@ -73,7 +73,8 @@
   "E012",
   "K008",
   "AF025",
-  "D021"
+  "D021",
+  "PP018"
  ],
  "in_progress": null,
  "flagged": {
@@ -93,6 +94,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 110,
- "updated": "2026-10-25T11:04:56+00:00",
+ "updated": "2026-10-25T11:05:15+00:00",
  "band_done": false
 }
