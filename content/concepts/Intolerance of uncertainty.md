@@ -25,8 +25,8 @@ The revision test came back mixed: "the original conceptualization of the model,
 
 ## Facets
 
-- **scale**
-- **as a risk factor**
+- **scale** — the original IUS (Freeston et al., 1994) and the IUS-12 (Carleton et al., 2007), "a 12-item self-report measure" whose items "were derived from the original IUS" (Bottesi et al. 2016)
+- **as a risk factor** — the key role the IUM gives IU in the development and maintenance of worry (Bottesi et al. 2016)
 - **as a transdiagnostic risk factor** — Bottesi et al., 2016
 
 ## Related concepts
