@@ -52,9 +52,9 @@
   "Will as multi-faceted",
   "Zhuangzi's laughter",
   "Zhi zu (knowing sufficiency)",
-  "Worry research",
   "Workaholism research",
-  "World-historical individual"
+  "World-historical individual",
+  "Worry research"
  ],
  "in_progress": null,
  "flagged": {
@@ -71,10 +71,11 @@
   "The vainglorious man": "compendium heading for Oronte; body grounded in Misanthrope I.2 verbatim (Page trans.); owner decision: keep heading or fold toward the esteem-hunger teaching",
   "The via negativa of appetite": "compendium heading; the appetite application is an analogy with Dionysius's sculptor image, not his prescription; body grounded in Mystic Theology Caput II/V verbatim; owner decision: keep heading or fold toward the subtraction teaching",
   "Trustworthiness": "seed locator IV.3 does not match the passage: Chase's truthfulness chapter is Book IV (Bekker 1127a); the IV.3 heading cannot be verified in the opened carrier; owner/supervisor correction requested for the seed line",
-  "To kalon": "RESOLVED by worker-w1af-1025b 2026-10-25 (per-item verification): the milestone QC round-4 repairs were applied and pushed in commit 91867f4d5 (2026-10-23) per the w1af evidence — the aischron sentence, whose source em dash had been silently changed to a comma inside quotation marks, is now paraphrased with the SEP text's dash left intact unquoted; the follow-up verification pass (90a6d75a1) confirmed the To kalon quotes verbatim and a quote-mark normalization pass (004bf28e2) ran after. The inherited Wikipedia Kalon link resolving to a Tajik village page was already flagged in concept-namespace-audit.md for supervisor correction (kept per the keep-original-citation-lines rule). No page edit needed this session; source verification not repeated; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: milestone QC repairs round 4]"
+  "To kalon": "RESOLVED by worker-w1af-1025b 2026-10-25 (per-item verification): the milestone QC round-4 repairs were applied and pushed in commit 91867f4d5 (2026-10-23) per the w1af evidence — the aischron sentence, whose source em dash had been silently changed to a comma inside quotation marks, is now paraphrased with the SEP text's dash left intact unquoted; the follow-up verification pass (90a6d75a1) confirmed the To kalon quotes verbatim and a quote-mark normalization pass (004bf28e2) ran after. The inherited Wikipedia Kalon link resolving to a Tajik village page was already flagged in concept-namespace-audit.md for supervisor correction (kept per the keep-original-citation-lines rule). No page edit needed this session; source verification not repeated; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: milestone QC repairs round 4]",
+  "Worry research": "Reopened for QC: QC: routed jargon cleanup — 'seed line's' and 'my P024' narration reworded"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T00:29:47+00:00",
- "band_done": true
+ "updated": "2026-10-25T01:56:00+00:00",
+ "band_done": false
 }
