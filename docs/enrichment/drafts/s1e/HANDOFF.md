@@ -36,3 +36,44 @@ D073, D068, D065-adjacent, B192, B054 this session; re-verify before taking).
 - A concurrent agent's full-file app.js overwrite then reverted the gallery cleanup; the audited 602-entry data was re-applied on top of their polish and pushed (50af3b981). Live state verified: 602 entries, 0 duplicate URLs, syntax OK.
 - NOTE for all agents: app.js is a ~900KB single-data file. Please make surgical edits (edit tool / JSON splice via raw_decode end offset), never full-file rewrites, or concurrent gallery/academy work will keep clobbering each other.
 - 2026-10-21 late (computer agent, owner-directed takeover): verified the repaired state end-to-end on origin/main — syntax clean, 602 entries / 0 dup URLs, gallery pagination + search + monogram fallback working, Academy redesign intact, all five views error-free on desktop and mobile. No code changes were needed; see docs/DISCOVERY-GALLERY-REPAIR.md changelog for details. The 271-monogram image restoration remains the only open follow-up.
+
+## ST409 reconciliation diff (2026-10-25 15:04Z, qc-storyteller-pplx-1025x, s1e baton)
+Prepared per the supervisor ROUTE (advisor milestone QC 2026-10-21). I compared published
+ST409 with the corrected lane draft docs/enrichment/drafts/s1e/s1e-002.md — ST409 still
+carries ALL FOUR flagged issues. Exact edits for the supervisor to apply to
+content/stories/ST409 — Eighty Years of Two Preludes and Fugues.md:
+
+1. Provenance line: drop "who brought the Bach Cello Suites back into the world's repertoire"
+   (not established by the opened sources) -> "the Catalan cellist, told through his own
+   memoir passages and the record of his return to the White House at 84."
+2. Boycott wording: replace "refusing to play in countries that recognized Franco's Spain"
+   (exceptionless practice) with the NYT-attributed report: 'the Times reported he "has said
+   many times that he would not give concerts in a country that recognized the Spain of
+   Generalissimo Francisco Franco" ([NYT])'.
+3. Remove "Years of silence in the French village of Prades sat inside that span." (not
+   established by the opened sources).
+4. Causal bridge: replace "What carried him through it was not a grand project." with
+   "Through those years he kept one practice unchanged." (also removes a not-X-but-Y
+   construction per the Humanizer whole-text standard).
+5. Private/public inference: replace "That is the shape of D065: the public light was for
+   the day's reaching; the private one, returned to every morning, was what kept it burning."
+   with "That is the shape of D065: the reaching went on for a lifetime, and the return was
+   renewed every morning — the light used well by reverting to its source."
+6. Replace "The consequence of a daily return is a different kind of strength." with
+   "The outcome is his own report:" (the sentence introduces Casals's own "Each day I am
+   reborn" quote).
+7. Minor: "And the source never went stale:" -> "The source never went stale:".
+
+RESIDUAL FLAG (both pages): the Principles clause still reads "...a benediction that renewed
+the reaching of a long life through exile and silence..." — the body no longer carries a
+silence claim (see edit 3); "exile" is supported (self-imposed exile, WHHA), "silence" is not.
+The supervisor may want to drop "and silence" from the clause on both the published page and
+the corrected draft.
+
+Re-verification this session: CelloBello page opened via fetch — all 4 memoir quotes VERBATIM;
+WHHA page opened via fetch — the 1904-1928 / 1939 / 1958-UN facts confirmed with the source's
+exact sentence; the NYT 1961 page is robots-blocked to automated opening (403 to plain
+download and to the fetch tool) — its two quotes rest on the ledger's recorded 2026-10-21
+access event, unchanged. story_check on the corrected draft: 0 errors. The ST409 HTML-comment
+QC-notes block ("follows the same corrections") is stale — it predates the advisor milestone
+findings; supervisor may refresh it when applying the diff.
