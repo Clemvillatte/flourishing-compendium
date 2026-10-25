@@ -15,6 +15,8 @@ Analytical psychology is Carl Jung's school of psychology; the term was introduc
 
 The school's goal concept is individuation: "a specifically human task that leads personality, previously centered in the power of the ego complex, to the wider horizon of the self". The same chapter reads it as "aimed at the realization of an integrated and mature personality", unfolding through "the continuous transformation of individual consciousness as it integrates the contents of the unconscious".
 
+The framing puts the work of a life at the level of the psyche's own organisation rather than at the level of any one symptom. A personality centered in the ego complex is a narrower thing than a life, and the chapter's word for the wider horizon is the self, a term it treats as something a person moves toward rather than something they already hold. The practical reading is that integration is not a settling of accounts with the unconscious but a continuous transformation, which is why the school treats development as work that does not finish.
+
 ### Here
 
 - [[CO002 — Recognise the two systems (or modes) of thinking — fast intuition and slow analysis]]
