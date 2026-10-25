@@ -234,3 +234,6 @@ The page read "like earth which is to nourish the original entry"; both [Ross on
 
 ## Audit: Internet Archive full texts
 Compared quotes against the archive.org full texts of Woods's Yoga System of Patanjali, Muller's Upanishads (two volumes), James's Principles of Psychology, Jaspers's Way to Wisdom, Wilhelm and Jung's Secret of the Golden Flower and Dewey's Art as Experience. Differences were only OCR artefacts and bracketed translator insertions; no wording errors on Y-, E-, P055 or other pages. No page changes.
+
+## Audit: remaining archive.org texts
+Extended the check to all 49 archive.org item IDs cited (Dewey, Peirce, Bergson, Jaspers and others). Only OCR artefacts differed; no wording errors, no page changes.
