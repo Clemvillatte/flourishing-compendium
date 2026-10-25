@@ -1319,3 +1319,16 @@ sense of a life" (the reading), Frankl's verbatim "Man is not fully
 conditioned and determined but rather determines himself" (quote), and
 the Skinner paragraph's position summary. No text changed in this pass.
 - 2026-10-25 11:04:10Z — repair, self-checked, pushed. Two of five flagged spans fixed: both Camus (The Rebel) spans are verbatim in the item's plain-text derivative (_djvu.txt, fetched and opened this session). The archive.org/download redirect URL fails the verifier's urllib fetch with an SSL handshake error, so the carrier uses the direct archive.org node URL (dn710701.ca.archive.org), which fetches cleanly. Remaining flagged: the tandfonline/doi.org spans (bot-walled) and the PMC4542587 span (the eutils PMC record for that article is citation-only, and the live PMC page served a JavaScript shell to the verifier's fetcher this session). quote_verify 44 checked, 3 not found, all documented above.
+
+## QC sample — partial (2026-10-25 11:12Z, worker-pplx-dossiers-1025bb, dossiers baton; read-only assist — dossier untouched)
+
+quote_verify reported 2 not found. Verified this pass:
+- Conner, DeYoung & Silvia, "Everyday creative activity as a path to
+  flourishing" (doi.org 10.1080/17439760.2016.1257049): span VERBATIM
+  ("Lagged multilevel models revealed that people felt higher activated
+  PA and flourishing following days when they reported more creative
+  activity than usual."). The doi.org landing serves the abstract to
+  plain fetches; the tdm.tandfonline.com carrier may bot-wall.
+Handoff: the craftsmanship span on tandfonline.com full-text
+(10.1080/13549839.2021.1939289) — T&F bot-wall class. No dossier text
+changes needed for the verified span.

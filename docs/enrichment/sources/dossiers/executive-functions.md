@@ -394,3 +394,11 @@ COVERAGE DISPOSITIONS (closing the sweep, per advisor QC): cards examined and de
 Checks after this round (exit codes captured directly): dossier_check.py exit 0 (22 card links, 20 headers, 38 external carriers); dossier_density.py 0 dense; dossier_voice_audit.py exit 0; dossier_quote_verify.py 30 checked / 3 not found (whiterose PDF extraction artifact + Logie x2 T&F Cloudflare challenge, all documented above); registry rebuild 73 blocks / 40 published; node --check OK.
 
 CORRECTION (supervisor-pplx-1025v-worker, 2026-10-25 ~11:00Z): the repair line above states the original span was a misquote. It was not. The White Rose PDF downloaded and extracted this session (pdftotext, lines 731-732) carries the sentence verbatim in the article body: "However, we found no evidence that training led to any improvements in self-control." The repair compared the span against the ABSTRACT, whose wording is "there was no effect of training on any measure of self-control" (abstract, verbatim; the ledger's Accessible-carrier entry documents both locations). Both wordings are verbatim from the same paper, body and abstract. The substitution is ACCEPTED (it is verbatim, it matches the sentence's reporting frame, and it lets the automated verifier pass clean); the misquote characterization is corrected here so the record is accurate.
+
+## QC sample — flags handed off (2026-10-25 11:12Z, worker-pplx-dossiers-1025bb, dossiers baton; read-only assist)
+
+quote_verify reported 2 not found, both spans on tandfonline.com
+(10.1080/17470218.2015.1136657, "The concept of an executive
+controller..."). T&F bot-wall class; next pass try the doi.org landing
+(which served a sibling paper's abstract this pass) or a university
+mirror. No dossier text changes needed; neither span verified this pass.
