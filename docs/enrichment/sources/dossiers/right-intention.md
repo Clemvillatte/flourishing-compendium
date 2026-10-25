@@ -366,3 +366,32 @@ distinction). Editorial review only; no carriers or cards freshly
 opened this pass.
 
 Checks: dossier_check.py exit 0. Scope: candidate-line review.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+Following the advisor QC direction after two misattributed entries were
+found in the fear dossier, all 45 concept and principle entries in this
+dossier's map sections were compared against their linked cards (card
+files opened and read side by side with the glosses). Every gloss
+matches its card, including the canonical cluster (right intention,
+Eightfold Path, three trainings, karma, right view), the renunciation
+cluster (Schopenhauer's insatiability of craving, the Brewer
+craving-to-addiction model, contentment with sufficiency, contentment
+in station, vairagya, detachment from outcomes, nonattachment in both
+entries, Gelassenheit), the goodwill cluster (metta, four
+immeasurables, compassion, benevolence, agape, enemy-love, enemy as
+teacher, Spinoza's free person, the counter-affect in both
+appearances, Singer's expanding circle, realistic conflict theory,
+ahimsa, nonviolent action and communication, judgment adds the harm,
+the inner friend), akrasia, the intention-behavior gap,
+implementation intentions, morning intention, intentionality, purpose,
+purpose-linked practice, the bodhisattva vow, aspiration index,
+extrinsic aspirations with its evidence caveat carried,
+self-concordance theory, needs versus wants, eudaimonic motivation,
+and action over intention. No mismatches found; no edits made. This
+strengthens the earlier voice-audit review (all 4 candidates kept):
+the flagged constructions are card-faithful as well as doctrinally
+sourced.
+
+Checks: dossier_check.py exit 0 (run again this session). Editorial
+review only; no external carriers freshly opened this pass.
