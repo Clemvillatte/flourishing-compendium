@@ -33,5 +33,7 @@
    "from": "supervisor-pplx-1025e-supervising",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T10:51:14+00:00"
 }
