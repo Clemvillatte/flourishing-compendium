@@ -34,7 +34,6 @@
     "Non-seeking",
     "Non-striving",
     "Noogenic neurosis",
-    "Not-one-not-two",
     "Novelty research",
     "Nudge theory Thaler",
     "Nunc fluens",
@@ -68,7 +67,8 @@
     "One koan",
     "One principle at a time",
     "Organismic trust",
-    "Moral dilemmas"
+    "Moral dilemmas",
+    "Not-one-not-two"
   ],
   "in_progress": null,
   "flagged": {
@@ -107,11 +107,12 @@
     "Participation": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carrier opened = SEP Marcel; quotes verbatim; secondary-reflection clause verified against opened SEP text (QC round 2)",
     "Perfectionism research": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carriers opened = PubMed 2027080 + 29283599; all quotes verbatim; survey-label concept over the Hewitt-Flett line",
     "Person-role fit research": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carrier opened = author-hosted DeRue & Morgeson 2007 PDF; quotes verbatim; QC round 2 repairs applied (D086 clause separated from study application, general vs creative self-efficacy distinguished)",
-    "Moral dilemmas": "Reopened for QC: QC correction: below 150-word prose floor (supervisor concept-stub backlog 2026-10-25)"
+    "Moral dilemmas": "Reopened for QC: QC correction: below 150-word prose floor (supervisor concept-stub backlog 2026-10-25)",
+    "Not-one-not-two": "Reopened for QC: QC correction: below 150-word prose floor (supervisor concept-stub backlog 2026-10-25)"
   },
   "missing_concepts": [],
   "sources_checked": 0,
-  "updated": "2026-10-25T12:10:41+00:00",
+  "updated": "2026-10-25T12:10:52+00:00",
   "band_done": false,
   "new_concepts": [
     {
@@ -132,6 +133,14 @@
       "quotation": "SEP: 'The crucial features of a moral dilemma are these...'; 'Ethicists as diverse as Kant (1971/1797), Mill (1979/1861), and Ross (1930, 1939)...'; 'phenomenological' argument; 'either remorse or guilt is appropriate only if...'; 'An agent can appropriately experience regret even when she does not believe that she has done something wrong.' Haidt abstract in full",
       "locator": "SEP Moral Dilemmas (McConnell); Haidt 2001 Psych Rev 108(4)",
       "url": "https://plato.stanford.edu/entries/moral-dilemmas/ ; https://pubmed.ncbi.nlm.nih.gov/11699120/",
+      "limitations": "None",
+      "qc": "Verification pass; page above floor (sweep count stale); no defects found"
+    },
+    "Not-one-not-two": {
+      "claims": "MMK 10.1, 10.14, 10.15 re-verified verbatim this session against the live Wisdom Library page",
+      "quotation": "'If firewood were fire, actor and act would be one. If fire were other than wood, it would occur even without wood.' (10.1); 'Wood itself is not fire; fire is also not something other than wood...' (10.14); 'Through fire and wood is explained without exception all the stages of self and the grasped and at the same time jugs, cloth and so on.' (10.15)",
+      "locator": "Mulamadhyamakakarika ch.10, Wisdom Library translation",
+      "url": "https://www.wisdomlib.org/buddhism/book/mulamadhyamaka-karika-english/d/doc79724.html",
       "limitations": "None",
       "qc": "Verification pass; page above floor (sweep count stale); no defects found"
     }
