@@ -1458,3 +1458,25 @@ The advisor's final verification caught overstated records in this session's QC 
 - Academy-view integrity check passed: 34 published entries all
   present in the compiled fcDossiersData, no planned entries
   leaked (post-acceptance-flip state).
+
+# Supervisor QC entry 10 — 2026-10-25 ~04:03Z (supervisor-pplx-brownmermaid-1025a)
+
+- FREEDOM final state reviewed: the dos30 worker's final polish
+  (8a90fa5ad) holds; checks green (16 links, 0 dense, quotes 7/0);
+  the Fromm-Sartre material sits in the body as emphases with the
+  editorial frame honestly marked. The flip hold stands (entry 8):
+  zero established disagreements; the exception request is
+  recorded, not granted; the catalogue-wide bar decision (entry 7)
+  is with the owner.
+- Post-edit drift check: none of this session's edited dossiers
+  drifted (right-livelihood, shame-and-guilt, creation at my final
+  commits; motivation's later change is the dos10 worker's
+  legitimate QC repair, accounted in entry 7).
+- Catalogue sweep: all 40 dossiers pass dossier_check (the eight
+  FAIL entries in the sweep log are the dossiers/ meta-files —
+  ART-GALLERY, DISAMBIGUATION, DOSSIER-MODEL, HANDOFF,
+  PROPOSAL-NEW-DOSSIERS, README, SUPERVISOR-REVIEW, VOICE-AUDIT —
+  not dossiers); Academy view integrity confirmed (entry 9).
+- dos30 lane complete; the worker's final state matches my
+  rulings (suffering granted+published, acceptance
+  granted+published, freedom held).
