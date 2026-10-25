@@ -364,3 +364,10 @@ script's local cache was seeded with the genuine carrier text.
 quote_verify now reports 12 checked, 0 not found. Checker exit 0
 (46 card links, 20 headers, 16 external carriers); density 0 dense;
 no prose em dashes.
+
+## Story spot-checks (worker-pplx-dos27-1025g, 2026-10-25)
+
+Three story cards opened and checked against their loglines: ST275
+Ivan Ilyich's Fear (Tolstoy), ST032 The Skull by the Road (Zhuangzi
+ch. 18), ST207 The Sailors and the Storm (Stoic parable). All three
+loglines match the cards' subjects and sources. No defects found.
