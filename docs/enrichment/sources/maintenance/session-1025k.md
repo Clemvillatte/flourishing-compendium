@@ -48,3 +48,6 @@
 
 ## P060 Admit there is no spectator self
 - Verified Dewey 'From knowing as an outside beholding...' in archive.org questforcertaint029410mbp text: it is in ch. XI 'The Copernican Revolution' (running header p. 277 in that scan), not ch. IX as the page said. Chapter and carrier link corrected; poor-OCR carrier 032529mbp (quote not findable in it) replaced.
+
+## P069 Believe at the living edge
+- Carrier opened: James, The Will to Believe, Gutenberg pg26659.txt. Thesis (sec. IV) and climber passage verified verbatim. Removed the unsupported startup-founders example and 'a belief...is why you are entitled' gloss; replaced with James's own climber plus labelled illustration.
