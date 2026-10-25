@@ -8,9 +8,10 @@ CANDIDATE DRAFT, UNPUBLISHED. Registry entry stays "planned"; batch in_progress 
 
 ## Verification record (rerun 2026-10-25 ~05:10Z)
 
-dossier_quote_verify: 15 checked, 4 not found.
-- Hagger 2016 (x2 spans) and Muraven 1999 (x1): PubMed challenge-page pattern (the verifier's cached response for PubMed URLs is a JavaScript challenge page with no abstract; both abstracts opened independently and spans verified verbatim by eye).
-- Miles 2016 (x1): the quote is verbatim in the opened PDF; the miss is a verifier extraction artifact, now precisely diagnosed: the verifier's HTML-tag-stripping regex (re.sub(r'<[^>]+>',' ',s)) swallows a 16,451-character span running from a "< .001" statistic to a later ">" in the pdftotext output, removing the sentence containing the quote. Verified by direct pdftotext extraction ("we found no evidence that training led to any improvements in self-control" present verbatim).
+dossier_quote_verify (rerun 2026-10-25 ~05:10Z after nested-factor addition): 19 checked, 5 not found.
+- PubMed challenge-page pattern (x4): Hagger 2016 (x2 spans), Muraven 1999 (x1), and the verifier's fetch of PubMed URLs returns a JavaScript challenge page with no abstract; all three abstracts opened independently and spans verified verbatim by eye.
+- Miyake & Friedman 2012 (PMC3388901, x1): PMC blocked-fetch pattern for automated verification; all three quoted spans verified verbatim by eye against the opened article.
+- Miles 2016 (x1): the quote is verbatim in the opened PDF; the miss is a verifier extraction artifact, now precisely diagnosed: the verifier's HTML-tag-stripping regex (re.sub(r'<[^>]+>',' ',s)) swallows a 16,451-character span running from a "< .001" statistic to a later ">" in the pdftotext output, removing the sentence containing the quote. Verified by direct pdftotext extraction.
 - Baddeley 2021 (PMC): PASSED the automated run; no exception needed.
 ## Sources opened this session (all quotes verified from these carriers)
 
@@ -26,6 +27,7 @@ dossier_quote_verify: 15 checked, 4 not found.
 - Vohs et al. 2021, "A Multisite Preregistered Paradigmatic Test of the Ego-Depletion Effect", Psychological Science 32(10):1566-1581. Carrier (Carlson School PDF, opened): https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2021-psci-ego-depletion.pdf — k=36, N=3,531, confirmatory d=0.06 nonsignificant. Cited in the dossier.
 - Baddeley 2021, "Developing the Concept of Working Memory: The Role of Neuropsychology", Archives of Clinical Neuropsychology. Carrier (PMC, opened): https://pmc.ncbi.nlm.nih.gov/articles/PMC11979773/ — homunculus criticism accepted; "a convenient reminder of the problem area, not an explanation"; "the homunculus would be able to retire". Quoted in the dossier.
 - Muraven, Baumeister & Tice 1999, "Longitudinal improvement of self-regulation through practice: building self-control strength through repeated exercise", Journal of Social Psychology 139(4):446-457. Carrier (PubMed abstract, opened): https://pubmed.ncbi.nlm.nih.gov/10457761/ — "showed significant improvement in self-regulatory capacity". Quoted in the dossier.
+- Miyake & Friedman 2012, "The nature and organization of individual differences in executive functions: Four general conclusions", Current Directions in Psychological Science 21(1):8-14. Carrier (PMC, opened): https://pmc.ncbi.nlm.nih.gov/articles/PMC3388901/ — nested-factors model quotes (Common EF; no inhibition-specific variance; Common EF as goal maintenance biasing lower-level processing). Quoted in the dossier.
 - Miles, Sheeran, Baird, Macdonald, Webb & Harris 2016, "Does self-control improve with practice? Evidence from a six-week training program", Journal of Experimental Psychology: General 145(8):1075-1091. Carrier (White Rose PDF, opened): https://eprints.whiterose.ac.uk/id/eprint/107549/3/Does%20Self-Control%20Improve%20With%20Practice%20Final%20Manuscript%20with%20Supp%20Refs.pdf — "we found no evidence that training led to any improvements in self-control"; "training self-control through repeated practice does not result in generalized improvements in self-control". Quoted in the dossier.
 
 ## Documented disputes (advisor QC round 5 scoping)
