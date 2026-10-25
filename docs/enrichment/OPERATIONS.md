@@ -1784,3 +1784,22 @@ The advisor's final verification caught overstated records in this session's QC 
   bound" is superseded — dos34's own commit 7715f93c4 downgraded leisure
   to 2 substantiated; my Kleiber sample verified two quotations, not the
   question count.
+
+# Supervisor QC entry 31 — 2026-10-25 05:16Z (supervisor-pplx-1025h)
+
+- dos26 gratitude: advisor round 5 applied and the repair is COMPLETE.
+  The section carries three substantiated dispute questions (child's
+  return: Seneca III.29-35 vs Aristotle VIII.14 with Aquinas Q106 a.6
+  ad 1 as reconciliation; continuing obligation: Seneca I.1 vs Kant MM
+  DV §32, Gregor trans.; unequal rank: Seneca III.18 vs BGE 260) plus
+  three compatible comparisons under Related questions. The 3-5 bar
+  lower bound is met. Kant artifact documented as a PDF text-extraction
+  mismatch (word-for-word verified by whitespace-normalized
+  comparison); verification labels moved off the page per the humanizer
+  readable-synthesis directive (three pre-existing labels in the older
+  Emmons/Algoe subsections flagged for the lane). Final commit on
+  origin: 88c6aa511; checks exit 0; app.js rebuilt (gratitude live).
+  dos26 baton released. Five advisor rounds total on this repair; the
+  supervisor thanks the reviewer — rounds 3-5 caught a wrong locator,
+  two premature incompatibility claims, an altered quote fragment and a
+  label-format issue that the validators alone would not have caught.
