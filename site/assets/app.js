@@ -15699,7 +15699,11 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "Collectedness is the gathering of the mind, the way an instrument is tuned rather than forced. The traditions treat it as trainable, protectable and available inside ordinary activity, not a rare condition reserved for hermits. The modern attention economy trains the opposite, a scattered, forced, white-knuckle focus that exhausts what it uses, and the counterweight is practice: a capacity tuned like an instrument and reachable inside ordinary life."
+          "x": "Collectedness is the gathering of the mind, the way an instrument is tuned rather than forced. The traditions treat it as trainable, protectable and available inside ordinary activity, not a rare condition reserved for hermits. The counter-image is the scattered, forced focus of everyday distraction, and the counterweight the traditions propose is practice: a capacity tuned like an instrument and reachable inside ordinary life."
+        },
+        {
+          "t": "p",
+          "x": "I came to this dossier with the tuning question: whether the gathered mind is something I force or something I tune, and every thread below keeps that question open. The path's own account comes first, then the Yoga account of staging absorption, then what the practices train and by what mechanics, the double sense of one-pointedness, absorption in activity, and the modern conditions the practice meets."
         },
         {
           "t": "h2",
@@ -15731,260 +15735,163 @@ window.fcDossiersData = {
         },
         {
           "t": "h",
-          "x": "The map: the entries on right concentration"
-        },
-        {
-          "t": "h2",
           "x": "The path's own account"
         },
         {
-          "t": "n",
-          "i": 1,
-          "x": "[Right concentration](card:Right%20concentration): the eighth factor; DN 2's four jhanas, each quieter than the last, from rapture-and-pleasure born of withdrawal to \"purity of equanimity and mindfulness, neither-pleasure nor stress\"."
-        },
-        {
-          "t": "n",
-          "i": 2,
-          "x": "[Eightfold Path](card:Eightfold%20Path): the SN 56.11 listing, where \"right\" (sammā) reads as complete or whole: a skill to develop, not a rule to obey."
-        },
-        {
-          "t": "n",
-          "i": 3,
-          "x": "[B028 — Develop right concentration (samadhi)](card:B028%20%E2%80%94%20Develop%20right%20concentration%20%28samadhi%29): the training instruction from MN 118's breath steps, steadying the mind on the in-breath and the out-breath, with the Dhammapada's pairing of concentration and insight."
-        },
-        {
-          "t": "n",
-          "i": 4,
-          "x": "[B020 — Train ethics, concentration, and wisdom together (the threefold training)](card:B020%20%E2%80%94%20Train%20ethics%2C%20concentration%2C%20and%20wisdom%20together%20%28the%20threefold%20training%29): the Dhammapada's one-verse curriculum, avoid evil, do the skillful, cleanse the mind, in which concentration is one third of a single training."
-        },
-        {
-          "t": "n",
-          "i": 5,
-          "x": "[B095 — Collect the mind (samadhi as gathering)](card:B095%20%E2%80%94%20Collect%20the%20mind%20%28samadhi%20as%20gathering%29): samadhi read as gathering rather than blankness, one step in MN 118's sequence that also senses, gladdens and releases the mind."
-        },
-        {
-          "t": "n",
-          "i": 6,
-          "x": "[Equanimity](card:Equanimity): the fourth jhana's tone: even-mindedness regardless of valence, with the research definition and the near-enemy warning against indifference."
-        },
-        {
           "t": "h2",
+          "x": "What does the eighth factor train the mind into?"
+        },
+        {
+          "t": "p",
+          "x": "The path's own account of what the eighth factor trains is DN 2's four jhanas, each quieter than the last, from rapture-and-pleasure born of withdrawal to \"purity of equanimity and mindfulness, neither-pleasure nor stress\", held on [Right concentration](card:Right%20concentration). [Eightfold Path](card:Eightfold%20Path) places it in the SN 56.11 listing, where \"right\" (sammā) reads as complete or whole: a skill to develop, not a rule to obey."
+        },
+        {
+          "t": "p",
+          "x": "The training instruction is [B028 — Develop right concentration (samadhi)](card:B028%20%E2%80%94%20Develop%20right%20concentration%20%28samadhi%29): MN 118's breath steps, steadying the mind on the in-breath and the out-breath, with the Dhammapada's pairing of concentration and insight. [B020 — Train ethics, concentration, and wisdom together (the threefold training)](card:B020%20%E2%80%94%20Train%20ethics%2C%20concentration%2C%20and%20wisdom%20together%20%28the%20threefold%20training%29) reads it inside the Dhammapada's one-verse curriculum, avoid evil, do the skillful, cleanse the mind, in which concentration is one third of a single training."
+        },
+        {
+          "t": "p",
+          "x": "[B095 — Collect the mind (samadhi as gathering)](card:B095%20%E2%80%94%20Collect%20the%20mind%20%28samadhi%20as%20gathering%29) renders samadhi as gathering rather than blankness, one step in MN 118's sequence that also senses, gladdens and releases the mind. The fourth jhana's tone is [Equanimity](card:Equanimity): even-mindedness regardless of valence, with the research definition and the near-enemy warning against indifference."
+        },
+        {
+          "t": "h",
           "x": "The tuning teaching, and its two failure modes"
         },
         {
-          "t": "n",
-          "i": 7,
-          "x": "[B036 — Tune, don't force: the lute string](card:B036%20%E2%80%94%20Tune%2C%20don%27t%20force%20%E2%80%94%20the%20lute%20string): the Sona Sutta's craftsman's question, neither taut nor slack, with over-aroused persistence leading to restlessness and overly slack persistence to laziness."
-        },
-        {
-          "t": "n",
-          "i": 8,
-          "x": "[Restlessness as weather](card:Restlessness%20as%20weather): the Gita's wind-simile for the restless mind, the Pali hindrance of restlessness-and-worry, and calm (samatha) as the tradition's own remedy."
-        },
-        {
-          "t": "n",
-          "i": 9,
-          "x": "[Y021 — Diagnose the mind's state before choosing a practice](card:Y021%20%E2%80%94%20Diagnose%20the%20mind%27s%20state%20before%20choosing%20a%20practice): Vyasa's five states of mind, from restless to arrested, with the fitness rule that samadhi belongs to the one-pointed mind."
-        },
-        {
           "t": "h2",
+          "x": "How is effort tuned rather than forced?"
+        },
+        {
+          "t": "p",
+          "x": "[B036 — Tune, don't force: the lute string](card:B036%20%E2%80%94%20Tune%2C%20don%27t%20force%20%E2%80%94%20the%20lute%20string) carries the Sona Sutta's craftsman's question, neither taut nor slack, with over-aroused persistence leading to restlessness and overly slack persistence to laziness. That is the tuning teaching this dossier's question names, and it comes with a diagnosis step: [Y021 — Diagnose the mind's state before choosing a practice](card:Y021%20%E2%80%94%20Diagnose%20the%20mind%27s%20state%20before%20choosing%20a%20practice) holds Vyasa's five states of mind, from restless to arrested, with the fitness rule that samadhi belongs to the one-pointed mind."
+        },
+        {
+          "t": "p",
+          "x": "[Restlessness as weather](card:Restlessness%20as%20weather) gives the Gita's wind-simile for the restless mind, the Pali hindrance of restlessness-and-worry, and calm (samatha) as the tradition's own remedy. I take the simile as a practice reminder of my own, not the tradition's instruction: weather is tuned around, not shouted down."
+        },
+        {
+          "t": "h",
           "x": "The Yoga account: three steps to absorption"
         },
         {
-          "t": "n",
-          "i": 10,
-          "x": "[Samadhi](card:Samadhi): the Yoga Sutras' culminating step, where the object fills awareness and the sense of a separate onlooker falls away (III.3 in Johnston's translation)."
-        },
-        {
-          "t": "n",
-          "i": 11,
-          "x": "[Y073 — Bind attention to one place](card:Y073%20%E2%80%94%20Bind%20attention%20to%20one%20place): dhāraṇā, the binding of consciousness to a region, with the commentary's named supports and its rule that fixing needs something to fix on."
-        },
-        {
-          "t": "n",
-          "i": 12,
-          "x": "[Y074 — Let absorption come from continuity](card:Y074%20%E2%80%94%20Let%20absorption%20come%20from%20continuity): dhyāna as the unbroken stream of one kind of idea on the same object; holding, not forcing."
-        },
-        {
-          "t": "n",
-          "i": 13,
-          "x": "[Y075 — Let the object fill the field](card:Y075%20%E2%80%94%20Let%20the%20object%20fill%20the%20field): samadhi defined by what happens to the object: shining forth in consciousness as the intended object and nothing more."
-        },
-        {
-          "t": "n",
-          "i": 14,
-          "x": "[Y076 — Combine the three into one skill](card:Y076%20%E2%80%94%20Combine%20the%20three%20into%20one%20skill): the three stages given a single name, samyama, the combined tool Book III then uses for everything that follows."
-        },
-        {
-          "t": "n",
-          "i": 15,
-          "x": "[Y078 — Distinguish settling with and without seed](card:Y078%20%E2%80%94%20Distinguish%20settling%20with%20and%20without%20seed): the seeded settling that has an object, and the seedless state that follows when the impressions cease."
-        },
-        {
-          "t": "n",
-          "i": 16,
-          "x": "[T041 — Patanjali](card:T041%20%E2%80%94%20Patanjali): the compiler of the 196 sutras, with the system's heart in two lines, union through control of the versatile psychic nature."
-        },
-        {
-          "t": "n",
-          "i": 17,
-          "x": "[Yoga — union of body, breath, and mind](card:Yoga%20%E2%80%94%20union%20of%20body%2C%20breath%2C%20and%20mind): the stilling of the citta's fluctuations (YS I.2) that the three inner steps serve."
-        },
-        {
           "t": "h2",
+          "x": "How does the Yoga tradition stage absorption?"
+        },
+        {
+          "t": "p",
+          "x": "[Samadhi](card:Samadhi) is the Yoga Sutras' culminating step, where the object fills awareness and the sense of a separate onlooker falls away (III.3 in Johnston's translation), and [Yoga — union of body, breath, and mind](card:Yoga%20%E2%80%94%20union%20of%20body%2C%20breath%2C%20and%20mind) is the stilling of the citta's fluctuations (YS I.2) that the inner steps serve. [T041 — Patanjali](card:T041%20%E2%80%94%20Patanjali) compiled the 196 sutras, with the system's heart in two lines, union through control of the versatile psychic nature."
+        },
+        {
+          "t": "p",
+          "x": "The staging itself is three moves. [Y073 — Bind attention to one place](card:Y073%20%E2%80%94%20Bind%20attention%20to%20one%20place) is dhāraṇā, the binding of consciousness to a region, with the commentary's named supports and its rule that fixing needs something to fix on. [Y074 — Let absorption come from continuity](card:Y074%20%E2%80%94%20Let%20absorption%20come%20from%20continuity) is dhyāna as the unbroken stream of one kind of idea on the same object; holding, not forcing. [Y075 — Let the object fill the field](card:Y075%20%E2%80%94%20Let%20the%20object%20fill%20the%20field) defines samadhi by what happens to the object: shining forth in consciousness as the intended object and nothing more."
+        },
+        {
+          "t": "p",
+          "x": "The three stages then receive a single name and a final distinction. [Y076 — Combine the three into one skill](card:Y076%20%E2%80%94%20Combine%20the%20three%20into%20one%20skill) gives them samyama, the combined tool Book III then uses for everything that follows, and [Y078 — Distinguish settling with and without seed](card:Y078%20%E2%80%94%20Distinguish%20settling%20with%20and%20without%20seed) separates the seeded settling that has an object from the seedless state that follows when the impressions cease."
+        },
+        {
+          "t": "h",
           "x": "The concentration practices, and their mechanics"
         },
         {
-          "t": "n",
-          "i": 18,
-          "x": "[Focused-attention meditation](card:Focused-attention%20meditation): the Lutz-group definition, notice the wandering, release the distraction, return to the object, with the research limits the review itself names."
+          "t": "h2",
+          "x": "What are the two styles of practice?"
         },
         {
-          "t": "n",
-          "i": 19,
-          "x": "[Anchors in focused attention meditation](card:Anchors%20in%20focused%20attention%20meditation): the return is the practice, not the object; the definition leaves the object open."
-        },
-        {
-          "t": "n",
-          "i": 20,
-          "x": "[Anapanasati (mindfulness of breathing)](card:Anapanasati%20%28mindfulness%20of%20breathing%29): MN 118's sixteen steps on the breath as the portable anchor, from plain observation to relinquishment."
-        },
-        {
-          "t": "n",
-          "i": 21,
-          "x": "[Shamatha (calm abiding)](card:Shamatha%20%28calm%20abiding%29): the settling of the mind comfortably in the present, with Thanissaro's pairing of calm and insight as complementary, not rival techniques."
-        },
-        {
-          "t": "n",
-          "i": 22,
-          "x": "[B035 — Balance calming and insight (samatha-vipassana; zhiguan)](card:B035%20%E2%80%94%20Balance%20calming%20and%20insight%20%28samatha-vipassana%3B%20zhiguan%29): the Mohe Zhiguan's account of the pair as one thing: putting an end to deluded thoughts and attachments attains calm serenity, and contemplating things as they are attains clear insight."
-        },
-        {
-          "t": "n",
-          "i": 23,
-          "x": "[B042 — Develop calm (samatha)](card:B042%20%E2%80%94%20Develop%20calm%20%28samatha%29): MN 118's repeated breath instruction, in which calming is trained with each in-breath and out-breath, and serenity becomes an awakening factor once body and mind have grown calm."
-        },
-        {
-          "t": "n",
-          "i": 24,
-          "x": "[AT047 — Learn focused attention meditation — concentration on a single object](card:AT047%20%E2%80%94%20Learn%20focused%20attention%20meditation%20%E2%80%94%20concentration%20on%20a%20single%20object): the principle form of the same training: attending to a chosen object in a sustained fashion, with the training in the return."
-        },
-        {
-          "t": "n",
-          "i": 25,
-          "x": "[AT048 — Learn open monitoring meditation — awareness without narrow focus](card:AT048%20%E2%80%94%20Learn%20open%20monitoring%20meditation%20%E2%80%94%20awareness%20without%20narrow%20focus): the other style in the Lutz typology: non-reactive monitoring of the content of experience, moment to moment."
-        },
-        {
-          "t": "n",
-          "i": 26,
-          "x": "[D048 — Guard the One (shouyi)](card:D048%20%E2%80%94%20Guard%20the%20One%20%28shouyi%29): the Neiye's instruction, 'Hold fast to the One; do not lose it, and you will be able to master the myriad things,' with a recipe that aligns the body before it unifies the awareness."
-        },
-        {
-          "t": "n",
-          "i": 27,
-          "x": "[Sustained attention theory](card:Sustained%20attention%20theory): why the detection-ready state degrades with time on task, and the two accounts, fatigue and boredom, between which the meta-analysis declines to choose."
-        },
-        {
-          "t": "n",
-          "i": 28,
-          "x": "[AT025 — Build concentration capacity through practice — attention is like a muscle](card:AT025%20%E2%80%94%20Build%20concentration%20capacity%20through%20practice%20%E2%80%94%20attention%20is%20like%20a%20muscle): the capacity claim, with the randomized-trial framing."
-        },
-        {
-          "t": "n",
-          "i": 29,
-          "x": "[AT031 — Cultivate attentional endurance — build capacity gradually](card:AT031%20%E2%80%94%20Cultivate%20attentional%20endurance%20%E2%80%94%20build%20capacity%20gradually): the deliberate-practice finding that full-attention practice is limited in daily duration, starts at an hour or less, and separates skill levels by years of accumulation rather than heroic sessions."
-        },
-        {
-          "t": "n",
-          "i": 30,
-          "x": "[AT042 — Recognise the role of sleep in attention — sleep deprivation destroys concentration](card:AT042%20%E2%80%94%20Recognise%20the%20role%20of%20sleep%20in%20attention%20%E2%80%94%20sleep%20deprivation%20destroys%20concentration): the bodily base the tuning teaching cannot tune around."
+          "t": "p",
+          "x": "The research typology names two. [Focused-attention meditation](card:Focused-attention%20meditation) is the Lutz-group definition, notice the wandering, release the distraction, return to the object, with the research limits the review itself names; its principle form is [AT047 — Learn focused attention meditation — concentration on a single object](card:AT047%20%E2%80%94%20Learn%20focused%20attention%20meditation%20%E2%80%94%20concentration%20on%20a%20single%20object), attending to a chosen object in a sustained fashion, with the training in the return. [AT048 — Learn open monitoring meditation — awareness without narrow focus](card:AT048%20%E2%80%94%20Learn%20open%20monitoring%20meditation%20%E2%80%94%20awareness%20without%20narrow%20focus) is the other style, non-reactive monitoring of the content of experience, moment to moment."
         },
         {
           "t": "h2",
+          "x": "What do the anchors and the calm train?"
+        },
+        {
+          "t": "p",
+          "x": "[Anchors in focused attention meditation](card:Anchors%20in%20focused%20attention%20meditation) holds that the return is the practice, not the object, and that the definition leaves the object open. [Anapanasati (mindfulness of breathing)](card:Anapanasati%20%28mindfulness%20of%20breathing%29) is MN 118's sixteen steps on the breath as the portable anchor, from plain observation to relinquishment. [Shamatha (calm abiding)](card:Shamatha%20%28calm%20abiding%29) is the settling of the mind comfortably in the present, with Thanissaro's pairing of calm and insight as complementary, not rival techniques."
+        },
+        {
+          "t": "p",
+          "x": "[B035 — Balance calming and insight (samatha-vipassana; zhiguan)](card:B035%20%E2%80%94%20Balance%20calming%20and%20insight%20%28samatha-vipassana%3B%20zhiguan%29) gives the Mohe Zhiguan's account of the pair as one thing, and [B042 — Develop calm (samatha)](card:B042%20%E2%80%94%20Develop%20calm%20%28samatha%29) is MN 118's repeated breath instruction, in which calming is trained with each in-breath and out-breath, and serenity becomes an awakening factor once body and mind have grown calm."
+        },
+        {
+          "t": "h2",
+          "x": "What does the Daoist counterpart gather around?"
+        },
+        {
+          "t": "p",
+          "x": "[D048 — Guard the One (shouyi)](card:D048%20%E2%80%94%20Guard%20the%20One%20%28shouyi%29) is the Neiye's instruction, 'Hold fast to the One; do not lose it, and you will be able to master the myriad things,' with a recipe that aligns the body before it unifies the awareness, a stillness-based counterpart to the binding of attention."
+        },
+        {
+          "t": "h2",
+          "x": "What limits the capacity, and what builds it?"
+        },
+        {
+          "t": "p",
+          "x": "[Sustained attention theory](card:Sustained%20attention%20theory) explains why the detection-ready state degrades with time on task, and the two accounts, fatigue and boredom, between which the meta-analysis declines to choose. [AT025 — Build concentration capacity through practice — attention is like a muscle](card:AT025%20%E2%80%94%20Build%20concentration%20capacity%20through%20practice%20%E2%80%94%20attention%20is%20like%20a%20muscle) is the capacity claim, with the randomized-trial framing."
+        },
+        {
+          "t": "p",
+          "x": "[AT031 — Cultivate attentional endurance — build capacity gradually](card:AT031%20%E2%80%94%20Cultivate%20attentional%20endurance%20%E2%80%94%20build%20capacity%20gradually) holds the deliberate-practice finding that full-attention practice is limited in daily duration, starts at an hour or less, and separates skill levels by years of accumulation rather than heroic sessions. And the bodily base the tuning teaching cannot tune around is [AT042 — Recognise the role of sleep in attention — sleep deprivation destroys concentration](card:AT042%20%E2%80%94%20Recognise%20the%20role%20of%20sleep%20in%20attention%20%E2%80%94%20sleep%20deprivation%20destroys%20concentration)."
+        },
+        {
+          "t": "h",
           "x": "One-pointedness, and its double sense"
         },
         {
-          "t": "n",
-          "i": 31,
-          "x": "[One-pointedness](card:One-pointedness): citt'ekaggata rendered two ways at once: one-pointedness, fixated on a single object, and unification of mind, still but not merged, able to observe the changing flow."
-        },
-        {
-          "t": "n",
-          "i": 32,
-          "x": "[Attention residue](card:Attention%20residue): Leroy's name for what switching leaves behind: part of the thinking stays with the task left, and the next task suffers while it does."
-        },
-        {
           "t": "h2",
+          "x": "Is the gathered mind fixed or unified?"
+        },
+        {
+          "t": "p",
+          "x": "[One-pointedness](card:One-pointedness) renders citt'ekaggata two ways at once: one-pointedness, fixated on a single object, and unification of mind, still but not merged, able to observe the changing flow."
+        },
+        {
+          "t": "h",
           "x": "Absorption in activity: flow and its cousins"
         },
         {
-          "t": "n",
-          "i": 33,
-          "x": "[Flow](card:Flow): Csikszentmihalyi's absorption in activity, energized focus, full involvement, autotelic, with the three conditions and the founder's own caution about the addictive side. Set beside the jhana's entry, entered \"quite withdrawn from sensuality\" ([DN 2, Thanissaro](https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html)), the two accounts part on the door: withdrawal versus challenge-skill engagement. I keep them as cousins and do not collapse them."
+          "t": "h2",
+          "x": "What does absorption in activity look like?"
         },
         {
-          "t": "n",
-          "i": 34,
-          "x": "[AT026 — Learn to enter flow — the state of full attentional absorption](card:AT026%20%E2%80%94%20Learn%20to%20enter%20flow%20%E2%80%94%20the%20state%20of%20full%20attentional%20absorption): attention as the finite medium of consciousness, and what that bound places on experience."
+          "t": "p",
+          "x": "[Flow](card:Flow) is Csikszentmihalyi's absorption in activity, energized focus, full involvement, autotelic, with the three conditions and the founder's own caution about the addictive side. Set beside the jhana's entry, entered \"quite withdrawn from sensuality\" ([DN 2, Thanissaro](https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html)), the two accounts part on the door: withdrawal versus challenge-skill engagement. I keep these terms distinct because the passages compared here do not establish that they describe the same state; the two are cousins, not a demonstrated disagreement."
         },
         {
-          "t": "n",
-          "i": 35,
-          "x": "[P118 — Engineer flow — match challenge to skill](card:P118%20%E2%80%94%20Engineer%20flow%20%E2%80%94%20match%20challenge%20to%20skill): the challenge-skill match, checked against the meta-analysis that followed."
+          "t": "p",
+          "x": "The engineering side of flow is carried by its principles. [P118 — Engineer flow — match challenge to skill](card:P118%20%E2%80%94%20Engineer%20flow%20%E2%80%94%20match%20challenge%20to%20skill) is the challenge-skill match, checked against the meta-analysis that followed; [P119 — Give flow clear goals and immediate feedback](card:P119%20%E2%80%94%20Give%20flow%20clear%20goals%20and%20immediate%20feedback) is the other two conditions, engineered rather than awaited."
         },
         {
-          "t": "n",
-          "i": 36,
-          "x": "[P119 — Give flow clear goals and immediate feedback](card:P119%20%E2%80%94%20Give%20flow%20clear%20goals%20and%20immediate%20feedback): the other two conditions, engineered rather than awaited."
+          "t": "p",
+          "x": "[P173 — Engineer absorption](card:P173%20%E2%80%94%20Engineer%20absorption) is Nakamura and Csikszentmihalyi's conditions, perceived challenges that stretch existing skills, clear nearby goals, and immediate feedback about progress. [AT026 — Learn to enter flow — the state of full attentional absorption](card:AT026%20%E2%80%94%20Learn%20to%20enter%20flow%20%E2%80%94%20the%20state%20of%20full%20attentional%20absorption) reads attention as the finite medium of consciousness, and what that bound places on experience."
         },
         {
-          "t": "n",
-          "i": 37,
-          "x": "[PP019 — Protect absorption](card:PP019%20%E2%80%94%20Protect%20absorption): the state found is not the state kept; protection is its own principle."
-        },
-        {
-          "t": "n",
-          "i": 38,
-          "x": "[P173 — Engineer absorption](card:P173%20%E2%80%94%20Engineer%20absorption): Nakamura and Csikszentmihalyi's conditions: perceived challenges that stretch existing skills, clear nearby goals, and immediate feedback about progress."
-        },
-        {
-          "t": "n",
-          "i": 39,
-          "x": "[MO060 — Recognise the role of flow in motivated well-being](card:MO060%20%E2%80%94%20Recognise%20the%20role%20of%20flow%20in%20motivated%20well-being): flow as one of the most studied optimal motivational states, associated with intrinsic reward and high well-being."
-        },
-        {
-          "t": "n",
-          "i": 40,
-          "x": "[D057 — Enter flow](card:D057%20%E2%80%94%20Enter%20flow): the Daoist entry point: Cook Ding's blade that needs no sharpening because it moves through the joints."
-        },
-        {
-          "t": "n",
-          "i": 41,
-          "x": "[Wu wei](card:Wu%20wei): non-forcing as the Daoist cousin of tuned effort, from the Daodejing's doing-nothing line."
-        },
-        {
-          "t": "n",
-          "i": 42,
-          "x": "[Effortless action through long effort](card:Effortless%20action%20through%20long%20effort): the nineteen-year blade: the effortlessness that long practice, not abstention from effort, produces."
+          "t": "p",
+          "x": "What happens to a state once found has its own principles. [PP019 — Protect absorption](card:PP019%20%E2%80%94%20Protect%20absorption) holds that the state found is not the state kept, and protection is its own principle; [MO060 — Recognise the role of flow in motivated well-being](card:MO060%20%E2%80%94%20Recognise%20the%20role%20of%20flow%20in%20motivated%20well-being) reads flow as one of the most studied optimal motivational states, associated with intrinsic reward and high well-being."
         },
         {
           "t": "h2",
+          "x": "What is the Daoist version of effortless absorption?"
+        },
+        {
+          "t": "p",
+          "x": "[D057 — Enter flow](card:D057%20%E2%80%94%20Enter%20flow) is the Daoist entry point, Cook Ding's blade that needs no sharpening because it moves through the joints; [Wu wei](card:Wu%20wei) is non-forcing as the Daoist cousin of tuned effort, from the Daodejing's doing-nothing line; [Effortless action through long effort](card:Effortless%20action%20through%20long%20effort) is the nineteen-year blade: the effortlessness that long practice, not abstention from effort, produces."
+        },
+        {
+          "t": "h",
           "x": "Single-tasking, and the modern conditions"
         },
         {
-          "t": "n",
-          "i": 43,
-          "x": "[AT016 — Cultivate single-tasking — do one thing at a time](card:AT016%20%E2%80%94%20Cultivate%20single-tasking%20%E2%80%94%20do%20one%20thing%20at%20a%20time): the Monsell switching costs, principle form."
+          "t": "h2",
+          "x": "What are the modern conditions the practice meets?"
         },
         {
-          "t": "n",
-          "i": 44,
-          "x": "[AT027 — Recognise the conditions for deep work — environment, time, and energy](card:AT027%20%E2%80%94%20Recognise%20the%20conditions%20for%20deep%20work%20%E2%80%94%20environment%2C%20time%2C%20and%20energy): the environment side of the protected block."
+          "t": "p",
+          "x": "[AT016 — Cultivate single-tasking — do one thing at a time](card:AT016%20%E2%80%94%20Cultivate%20single-tasking%20%E2%80%94%20do%20one%20thing%20at%20a%20time) is the Monsell switching costs, principle form: the gathered mind's everyday answer. [Attention residue](card:Attention%20residue) is Leroy's name for the cost itself, what switching leaves behind: part of the thinking stays with the task left, and the next task suffers while it does."
         },
         {
-          "t": "n",
-          "i": 45,
-          "x": "[AT063 — Recognise attentional costs of media multitasking — heavy multitaskers have worse attention](card:AT063%20%E2%80%94%20Recognise%20attentional%20costs%20of%20media%20multitasking%20%E2%80%94%20heavy%20multitaskers%20have%20worse%20attention): the scatter the single-tasking principle answers."
+          "t": "p",
+          "x": "[AT027 — Recognise the conditions for deep work — environment, time, and energy](card:AT027%20%E2%80%94%20Recognise%20the%20conditions%20for%20deep%20work%20%E2%80%94%20environment%2C%20time%2C%20and%20energy) is the environment side of the protected block, and [AT063 — Recognise attentional costs of media multitasking — heavy multitaskers have worse attention](card:AT063%20%E2%80%94%20Recognise%20attentional%20costs%20of%20media%20multitasking%20%E2%80%94%20heavy%20multitaskers%20have%20worse%20attention) is the scatter the single-tasking principle answers."
         },
         {
           "t": "h",
@@ -16005,11 +15912,32 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Shankman's reading of the same family of terms holds a wider option inside the same word. Samadhi \"basically means 'undistractedness'\"; it may be viewed as \"an exclusive focus on a single object,\" but also as \"a broader state of awareness in which the mind remains steady and unmoving, yet aware of a wide range of phenomena around the meditation object.\" The same source renders citt'ekaggata both as \"one-pointedness,\" fixated on a single object, and as \"unification of mind,\" in which mind becomes very still but does not merge with the object of attention, and is thus able to observe and gain insight into the changing flow of experience. ([Wikipedia, Samadhi, quoting Richard Shankman](https://en.wikipedia.org/wiki/Samadhi)): Secondary; the passages were checked against the raw HTML of the article."
+          "x": "Shankman's reading of the same family of terms holds a wider option inside the same word. Samadhi \"basically means 'undistractedness'\"; it may be viewed as \"an exclusive focus on a single object,\" but also as \"a broader state of awareness in which the mind remains steady and unmoving, yet aware of a wide range of phenomena around the meditation object.\" The same source renders citt'ekaggata both as one-pointedness, a mind fixated on a single object, and as unification of mind, in which mind becomes very still but does not merge with the object of attention, and is thus able to observe and gain insight into the changing flow of experience. ([Wikipedia, Samadhi, quoting Richard Shankman](https://en.wikipedia.org/wiki/Samadhi)): Secondary; the passages were checked against the raw HTML of the article."
         },
         {
           "t": "p",
           "x": "The disagreement is real and live: the article's Criticism section reports that the one-pointed interpretation \"has become a matter of debate.\" What remains unresolved is whether ekaggata is exclusive fixation or unified stillness; the practice instructions differ, a single fixed object on one reading, a steady awareness of the wide field on the other, and my own pages hold both."
+        },
+        {
+          "t": "h2",
+          "x": "Does the mind fade with use, or drift from boredom?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question is the one the capacity section names from the research side: why does a detection-ready state degrade with time on task? A 2013 meta-analytic review of vigilant attention describes competing explanations of that decrement:"
+        },
+        {
+          "t": "q",
+          "x": "\"There is ample empirical evidence for both the fatigue/resource-depletion and the boredom/absentmindedness accounts, but neither is consistent with all the available data.\" ([Langner and Eickhoff, Psychological Bulletin, 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3627747/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The two accounts locate the failure in different places. The resource-depletion account, which the review reports as strongly supported, holds that the decline results from a depletion of attentional resources under continuous allocation: sustaining attention to a simple task is effortful and demanding, and the available attentional resources decline. The boredom account, which the review reports others arguing, holds that cognitively more challenging and interesting tasks can pose similar or even higher demands and still fail to elicit strain or deterioration, and reads the decline in monotonous tasks as boredom, with the mind-wandering it brings, redirecting processing resources away from the task at hand."
+        },
+        {
+          "t": "p",
+          "x": "Langner and Eickhoff propose a synthesis: maintaining attention on an unrewarding task requires continuing self-regulation, whose decline could contribute both to reduced attention and to mind-wandering. They treat sustained attentional demand as necessary but insufficient for the typical decrement. In 2013, they described direct evidence for this proposal as sparse. I find the synthesis worth considering, while keeping that evidential limit in view."
         },
         {
           "t": "h",
@@ -16027,38 +15955,38 @@ window.fcDossiersData = {
         },
         {
           "t": "n",
-          "i": 46,
+          "i": 1,
           "x": "[K100 — Breath anchoring](card:K100%20%E2%80%94%20Breath%20anchoring): rest attention on the breath's physical sensation; note where it went; return. The return is the practice, not a failure."
         },
         {
           "t": "n",
-          "i": 47,
+          "i": 2,
           "x": "[K105 — Single-tasking](card:K105%20%E2%80%94%20Single-tasking): one task with its next concrete step chosen in advance, protected for a defined block of forty-five to ninety minutes."
         },
         {
           "t": "n",
-          "i": 48,
+          "i": 3,
           "x": "[K190 — Flow block](card:K190%20%E2%80%94%20Flow%20block): the protected block assembled from flow's own conditions: clear goal, feedback signal, notifications cleared."
         },
         {
           "t": "n",
-          "i": 49,
+          "i": 4,
           "x": "[K392 — The Three-minute Breathing Space](card:K392%20%E2%80%94%20The%20Three-minute%20Breathing%20Space): the three-step mini-practice that narrows to the breath and widens back to the whole body: the double sense of collectedness in one exercise."
         },
         {
           "t": "n",
-          "i": 50,
+          "i": 5,
           "x": "[K417 — Shouyi (guarding the One)](card:K417%20%E2%80%94%20Shouyi%20%28guarding%20the%20One%29): the Daoist guarding of the One, a stillness-based counterpart to the binding of attention, one of the oldest named Daoist meditations on the card's account."
         },
         {
           "t": "n",
-          "i": 51,
+          "i": 6,
           "x": "[K391 — Bring raisin mind to one routine activity](card:K391%20%E2%80%94%20Bring%20raisin%20mind%20to%20one%20routine%20activity): one daily activity done for a week with full attention: the single-tasking taught in the small."
         },
         {
           "t": "vs",
           "l": "Retention",
-          "x": "Retention is what people keep because it works for them. A reader who keeps one breath anchor, one protected block, or the tuning feel itself has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
+          "x": "What I would retain from this theme is a matter of fit between the practice and the life it enters: one breath anchor, one protected block, or the tuning feel itself. Any one of the three, kept, carries what the theme offered."
         },
         {
           "t": "h",
