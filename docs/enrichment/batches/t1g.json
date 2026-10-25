@@ -1,6 +1,14 @@
 {
  "batch": "t1g",
- "done": [],
- "in_progress": "T057 thinker page drafting (research: Wikipedia bio + SCAN 2017 abstract opened)",
- "flagged": {}
+ "done": [
+  {
+   "slug": "T057 thinker page",
+   "worker": "worker-p1a-1025o",
+   "state": "done: T057 Lisa Feldman Barrett thinker page minted per PROTOCOL-THINKERS.md (Wikipedia bio + SCAN 2017 abstract opened; Stanford text copy opened for HEAM quotes; T056 format); 28 reciprocal backlinks with per-page reader-facing glosses added; validator clean; build ok",
+   "verification": "pass 1: Wikipedia bio, SCAN 2017 PMC abstract, Stanford HEAM text copy all opened; wikilinks resolve; validator 28 ok; build 5945 entries"
+  }
+ ],
+ "in_progress": "",
+ "flagged": {},
+ "note": "t1g complete (T057 minted + 28 backlinks); band release next"
 }
