@@ -17,17 +17,17 @@ Epictetus opens the Enchiridion with this distinction:
 > "Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions. Things not in our control are body, property, reputation, command, and, in one word, whatever are not our own actions."
 > (Ench. 1, [Elizabeth Carter's translation](https://classics.mit.edu/Epictetus/epicench.html))
 
-He asks students to examine a troubling appearance by distinguishing what is their own from what belongs to others ([Ench. 1](https://classics.mit.edu/Epictetus/epicench.html)). This is an ethical distinction, not a measure of how much influence someone has over an outcome: Margaret Graver explains that Epictetus locates a person's good in the use of their capacity for choice, while allowing vigorous, careful action concerning external things ([Stanford Encyclopedia of Philosophy, §§4.3–4.4](https://plato.stanford.edu/entries/epictetus/)).
+He asks students to examine a troubling appearance by distinguishing what is their own from what belongs to others ([Ench. 1](https://classics.mit.edu/Epictetus/epicench.html)). Margaret Graver explains the ethical point: Epictetus locates a person's good in how they use their capacity for choice, while allowing vigorous, careful action concerning external things ([Stanford Encyclopedia of Philosophy, §§4.3–4.4](https://plato.stanford.edu/entries/epictetus/)). An outcome can matter enough to work for while remaining vulnerable to events beyond that choice.
 
-His account also requires training and repeated correction of judgments; even the wise person may tremble at sudden danger ([Graver, §§4.5 and 4.7](https://plato.stanford.edu/entries/epictetus/)). I would not turn this demanding philosophical ideal into an accusation that someone ought to be able to stop feeling distressed immediately.
+His account also requires training and repeated correction of judgments; even the wise person may tremble at sudden danger ([Graver, §§4.5 and 4.7](https://plato.stanford.edu/entries/epictetus/)). In applying this, I leave room for mistakes, distress and help from other people.
 
 ### Plain words
 
-Your decision and its eventual result are different things. You can deliberate about how to act without owning another person's answer or guaranteeing success. Take care over what you do; leave room to respond when events turn out differently from what you hoped.
+Take care over your actions without treating them as a guarantee of the result.
 
 ### For example
 
-Suppose you are preparing for an exam whose questions have already been set. Choose what to review and how to use the time available, without treating preparation as a guarantee of a particular result. Afterwards, examine the choices you made and adjust your next study plan. This is my application of the distinction.
+Suppose you are preparing for an exam whose questions have already been set. Choose what to review and how to use the time available. If the result disappoints you, ask a teacher which mistakes came from gaps in understanding and consider how to study next time. The distinction leaves you with something to do after the result arrives.
 
 ## Related concepts
 

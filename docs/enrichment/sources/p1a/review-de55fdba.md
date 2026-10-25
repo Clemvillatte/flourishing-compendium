@@ -127,3 +127,12 @@ Opened through search and fetch:
 - [Medin and Bennis, *Weirdness Is in the Eye of the Beholder*, commentary manuscript](https://groups.psych.northwestern.edu/medin/documents/BBS_commentary_MedinBennis.pdf). Read the full commentary. The authors endorse broader sampling while challenging the stronger outlier interpretation through methodological/calibration concerns. The principle preserves that disagreement instead of treating the original review's interpretation as uncontested.
 
 Changes: one-sentence Plain words and a concrete essay-writing example that separates an offer measured in a game from a population-wide character judgment. The two checks are explicitly my synthesis. Retained front matter, seed, primary quote, source links and all lower sections. Legacy parallels below Sources were preserved and were not independently reverified in this body pass.
+
+## S001: Distinguish what is up to you from what is not
+
+Opened through search and fetch:
+
+- [Epictetus, *Enchiridion*, Elizabeth Carter translation, §1](https://classics.mit.edu/Epictetus/epicench.html). Read the full text and checked the opening quotation against the source, including its lists and punctuation. The distinction concerns one's own actions and how appearances are examined; it is not presented here as a scale of probabilistic influence over outcomes.
+- [Margaret Graver, “Epictetus,” Stanford Encyclopedia of Philosophy, §§4.3–4.7](https://plato.stanford.edu/entries/epictetus/). Read choice/volition, value and care for externals, sudden trembling, and ethical training. Retained careful action toward externals and the need for training. No claim that distressed readers can instantly regulate every response follows from these passages.
+
+Changes: stated the ethical account affirmatively, retained the wise person's possible trembling, and personally located the practical application. Plain words is one sentence. The exam example now includes asking for help and learning after a disappointing result, without a success or symptom-control guarantee. Preserved front matter, original blockquote, all original links and lower sections.
