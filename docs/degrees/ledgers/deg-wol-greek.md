@@ -872,3 +872,30 @@ present-day lecture on practical Epicureanism). Both records' status
 remains verified-video (optional role); identity, access, credentials
 and durations unchanged. Module production stays behind the Phase 0
 stop-gate; no attachments are made this session.
+
+## Correction: transcript reads were duplicate verification (2026-10-25, worker-pplx-greek-1025y)
+
+The eight transcript-read entries above (ST-03, AR-05, ST-01, M05-XP-01,
+M05-XP-02, SRC-M25-001, SRC-M25-002, SRC-M25-003, SRC-M25-004 — nine
+records in total) duplicated verification work the deg-verify-b
+verifier had already completed and recorded in
+docs/degrees/verify/deg-wol-greek.md (latest commit 276fe34fc; the
+verifier's own entries state "content coverage (from the transcript,
+read 2026-10-25)" for each of these records, read before this session's
+fetches). The band note's earlier framing ("the environment-blocked
+transcript gap is closed for the whole harvest manifest") overstated
+what this session added: the transcripts were already read by the
+verifier; this session's reads are an independent confirmation, not a
+gap closure.
+
+No content discrepancy was found between this session's reads and the
+verifier's records: the verbatim quotes recorded above match the
+verifier's classifications (M05-XP-01's ethics focus and atomism; M05-
+XP-02's epochē and ataraxia with the modes not covered; AR-05's
+continuation framing; ST-01's virtue-as-sufficient; ST-03's three
+parts; SRC-M25-001's cross-tradition animal-difference argument; SRC-
+M25-002's Sextus-to-Descartes reception; SRC-M25-003's Hellenistic
+Stoicism; SRC-M25-004's practical Epicureanism). The ledger entries are
+retained as independent confirmation with this correction noted; they
+do not supersede the verifier's records, which remain the evidence of
+record per the manifest correction's convention.
