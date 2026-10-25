@@ -2,7 +2,7 @@
 
 > What moves a person to act, and what keeps that movement their own?
 
-Motivation is the difference between a value held and a value acted on. The research asks what moves a person and what keeps the movement their own, and the answer has less to do with willpower than with whether the goals meet real needs. The classical worry is older and sharper: motives that are borrowed, imposed or performative drain the very life they are meant to serve.
+Motivation is the difference between a value held and a value acted on. The research asks what moves a person and what keeps the movement their own, and the self-determination tradition's answer has less to do with willpower than with whether the goals meet real needs. The classical worry is older and sharper, on the traditions' own accounts: motives that are borrowed, imposed or performative drain the very life they are meant to serve.
 
 I came to this dossier with the ownership question: whether a motive can be mine while I am moved by it, and the threads below keep that question in front of the research. The self-determination family comes first, then the belief-and-expectation accounts, the brain of wanting, interest and curiosity, what people actually pursue and for whom, and desire itself.
 
@@ -24,21 +24,17 @@ The distinction the family runs on is [Intrinsic motivation](https://clemvillatt
 
 [Self-determination](https://clemvillatte.github.io/flourishing-compendium/#card=Self-determination) is the claim that people do best when their motivation is their own, at the centre of self-determination theory, and [Autonomy](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomy) names the self-governance at stake: acting from one's own endorsement rather than from external pressure.
 
-The needs behind that claim are held on [Psychological needs theory](https://clemvillatte.github.io/flourishing-compendium/#card=Psychological%20needs%20theory), the Deci and Ryan account of the needs whose satisfaction predicts well-being, autonomy, competence and relatedness, with [Distinguishing needs from wants (SDT)](https://clemvillatte.github.io/flourishing-compendium/#card=Distinguishing%20needs%20from%20wants%20%28SDT%29) drawing the line between needs and wants that my principles rely on.
+The needs behind that claim are held on [Psychological needs theory](https://clemvillatte.github.io/flourishing-compendium/#card=Psychological%20needs%20theory), the Deci and Ryan account of the needs whose satisfaction predicts well-being, autonomy, competence and relatedness, with [Distinguishing needs from wants (SDT)](https://clemvillatte.github.io/flourishing-compendium/#card=Distinguishing%20needs%20from%20wants%20%28SDT%29) drawing the line between needs and wants that my principles rely on. [Competence motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Competence%20motivation) is Robert White's proposal for the motive behind exploration and mastery.
 
-### How does a rule become a want?
+The self-determination tradition also states where it thinks the emphasis belongs: "that the type of motivation is generally more important than the amount in predicting life's important outcomes" ([Deci and Ryan, Canadian Psychology 2008](https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf)). They define the two types as follows: "Autonomous motivation involves behaving with a full sense of volition and choice, whereas controlled motivation involves behaving with the experience of pressure and demand toward specific outcomes that comes from forces perceived to be external to the self" ([Deci and Ryan, 2008](https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf)). The older needs-based and expectancy accounts that I also hold treat motivation chiefly as a matter of strength or of expected payoff; the practices here lean on the SDT reading and flag where other cards disagree in emphasis.
+
+### How does a rule become an endorsed want?
 
 [Autonomous motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomous%20motivation) includes intrinsic motivation and forms of extrinsic regulation that a person accepts as their own; [Controlled motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Controlled%20motivation) is motivation sourced in pressure, external demands and rewards, or internally felt guilt, anxiety and pride. The two halves of the distinction are compared on [Autonomous versus controlled motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomous%20versus%20controlled%20motivation).
 
-The carrying inside is the interesting part: [Identified versus introjected motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Identified%20versus%20introjected%20motivation) gives two ways of carrying a rule inside, one owned and one swallowed. The question of how a rule becomes a want is what the whole family turns on.
+[Identified versus introjected motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Identified%20versus%20introjected%20motivation) gives two ways of carrying a rule inside: introjection takes in a regulation without fully accepting it as one's own, performed to avoid guilt or anxiety or to attain pride, while identification reflects a conscious valuing of a behavioral goal or regulation, such that the action is accepted or owned as personally important. On the card's own contrast, an introjected motive behaves like an inner policeman; an identified motive behaves like a chosen project.
 
-### Can rewards reach into the ownership?
-
-[Motivation crowding theory](https://clemvillatte.github.io/flourishing-compendium/#card=Motivation%20crowding%20theory) holds that external intervention via monetary incentives or punishments may undermine, and under identifiable conditions strengthen, intrinsic motivation. What those conditions are is the live dispute, and it has its own section below.
-
-### Where does competence fit?
-
-[Competence motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Competence%20motivation) is Robert White's proposal for the motive behind exploration and mastery, the felt capacity side of the family's competence need.
+[Motivation crowding theory](https://clemvillatte.github.io/flourishing-compendium/#card=Motivation%20crowding%20theory) holds that external intervention via monetary incentives or punishments may undermine, and under identifiable conditions strengthen, intrinsic motivation. The rewards debate below examines one related question.
 
 ## Beliefs, expectations and goals
 
@@ -60,7 +56,7 @@ The carrying inside is the interesting part: [Identified versus introjected moti
 
 [Hierarchy of Needs Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Hierarchy%20of%20Needs%20Theory) is Maslow's 1943 claim that human needs arrange themselves in hierarchies of pre-potency. [Drive-reduction theory](https://clemvillatte.github.io/flourishing-compendium/#card=Drive-reduction%20theory) is Hull's account, in which drive reduction provides reinforcement while drive activates learned behavioural potentials into performance.
 
-The modern neuroscience of wanting splits reward in two: [Incentive salience theory](https://clemvillatte.github.io/flourishing-compendium/#card=Incentive%20salience%20theory), where Berridge and Robinson separate two parts of reward, and [Reward prediction error (Schultz)](https://clemvillatte.github.io/flourishing-compendium/#card=Reward%20prediction%20error%20%28Schultz%29), the difference between the reward received and the reward predicted. The wanting there is not the liking, which is why the wanting-versus-liking kernel below exists.
+The modern neuroscience of wanting splits reward in two: [Incentive salience theory](https://clemvillatte.github.io/flourishing-compendium/#card=Incentive%20salience%20theory), where Berridge and Robinson separate two parts of reward, wanting and liking, and [Reward prediction error (Schultz)](https://clemvillatte.github.io/flourishing-compendium/#card=Reward%20prediction%20error%20%28Schultz%29), the difference between the reward received and the reward predicted.
 
 ## Interest and curiosity
 
@@ -68,7 +64,7 @@ The modern neuroscience of wanting splits reward in two: [Incentive salience the
 
 [Curiosity](https://clemvillatte.github.io/flourishing-compendium/#card=Curiosity), in the information-gap account, arises when a person becomes aware of a gap in their knowledge that information could fill. [Interest as motive](https://clemvillatte.github.io/flourishing-compendium/#card=Interest%20as%20motive) is Dewey's claim that interest is not a garnish on learning but its engine.
 
-The state interest feeds is [Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow), the mental state of being fully immersed in an activity, with energized focus and full involvement; its opposite is [Boredom](https://clemvillatte.github.io/flourishing-compendium/#card=Boredom), the aversive experience of wanting, but being unable, to engage in satisfying activity.
+[Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow) is the mental state of being fully immersed in an activity, with energized focus and full involvement. [Boredom](https://clemvillatte.github.io/flourishing-compendium/#card=Boredom) is the aversive experience of wanting, but being unable, to engage in satisfying activity.
 
 ## What people pursue, and for whom
 
@@ -86,7 +82,7 @@ The other half of the finding is [Extrinsic aspirations](https://clemvillatte.gi
 
 ### Can a want be wanted?
 
-[Desire](https://clemvillatte.github.io/flourishing-compendium/#card=Desire) is the directed movement of being toward what it lacks or seeks; the traditions divide on whether to purify it, order it or understand it. [Second-order desires](https://clemvillatte.github.io/flourishing-compendium/#card=Second-order%20desires) is Frankfurt's term for wanting what you want, the question of ownership raised to the second power.
+[Desire](https://clemvillatte.github.io/flourishing-compendium/#card=Desire) is the directed movement of being toward what it lacks or seeks; the traditions divide on whether to purify it, order it or understand it. [Second-order desires](https://clemvillatte.github.io/flourishing-compendium/#card=Second-order%20desires) is Frankfurt's term for wanting what you want: wanting to have a certain desire, or wanting a certain desire to be one's will.
 
 ## Where the traditions genuinely disagree
 
@@ -96,19 +92,11 @@ The shared question: when a person is paid or praised for something they already
 
 > "As predicted, engagement-contingent, completion-contingent, and performance-contingent rewards significantly undermined free-choice intrinsic motivation (d = -0.40, -0.36, and -0.28, respectively), as did all rewards, all tangible rewards, and all expected rewards." ([Deci, Koestner and Ryan, Psychological Bulletin 1999, abstract](https://pubmed.ncbi.nlm.nih.gov/10589297/?dopt=Abstract))
 
-A competing meta-analysis reached the opposite bottom line:
+A competing meta-analysis, Cameron, Banko and Pierce's, reached the opposite bottom line:
 
-> "Our results suggest that in general, rewards are not harmful to motivation to perform a task." ([abstract of a later meta-analysis, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2731358/))
+> "Our results suggest that in general, rewards are not harmful to motivation to perform a task." ([Cameron, Banko & Pierce, The Behavior Analyst](https://pmc.ncbi.nlm.nih.gov/articles/PMC2731358/))
 
-A third paper compared the reviews and noted that "despite their common focus, these reviews have offered dramatically opposed bottom-line conclusions" ([comment on the three meta-analyses, PubMed](https://pubmed.ncbi.nlm.nih.gov/10589298/)). The comment's authors judged that Deci's review and Tang and Hall's captured the literature more accurately than Cameron and Pierce's. A reader should hold the issue as contested in the literature, with the SDT side supported by my own cards, and with that later meta-analysis adding that "Rewards given for low-interest tasks enhance free-choice intrinsic motivation."
-
-### Is it how much motivation, or what kind?
-
-The shared question: does the quantity of a person's drive predict how they do, or does its source? Deci and Ryan state the self-determination answer:
-
-> "that the type of motivation is generally more important than the amount in predicting life's important outcomes." ([Deci and Ryan, Canadian Psychology 2008](https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf))
-
-They define the two types as follows: "Autonomous motivation involves behaving with a full sense of volition and choice, whereas controlled motivation involves behaving with the experience of pressure and demand toward specific outcomes that comes from forces perceived to be external to the self." The older needs-based and expectancy accounts that I also hold treat motivation chiefly as a matter of strength or of expected payoff; the practices here lean on the SDT reading and flag where other cards disagree in emphasis.
+A reader should hold the issue as contested in the literature, with the SDT side supported by my own cards, and with the Cameron, Banko and Pierce meta-analysis adding that "Rewards given for low-interest tasks enhance free-choice intrinsic motivation" ([Cameron, Banko & Pierce](https://pmc.ncbi.nlm.nih.gov/articles/PMC2731358/)).
 
 ### Do needs line up in a hierarchy of prepotency?
 

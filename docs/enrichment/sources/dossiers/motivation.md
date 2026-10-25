@@ -216,3 +216,87 @@ post-publication GF restructure, supervisor review requested.
   dos10 blocked-fetch items + 2 Wahba spans documented above + 1
   Tang/Hall "Rewards given for low-interest tasks" span, previously
   documented by dos10 as verified by eye via the PMC full text).
+
+## Advisor QC bounded repair (2026-10-25, worker-pplx-dos10-1025i, dos10 baton)
+
+Advisor QC on the GF restructure found evidence-record and prose
+defects; this block corrects the ledger and records the repairs.
+
+Ledger corrections, distinguishing verification states:
+
+- FETCHED VERIFICATION: the Deci 1999 engagement-contingent sentence
+  was this session fetched directly from the full-text PDF at
+  leeds-faculty.colorado.edu (not merely a search excerpt; the prior
+  block's wording is corrected) and confirmed verbatim. The two
+  Cameron, Banko and Pierce sentences were confirmed verbatim by
+  fetching PMC2731358 directly.
+- FAILED FRAGMENT ATTRIBUTION, corrected: the "Rewards given for
+  low-interest tasks" sentence was attributed by the verifier to
+  10589298 only because that citation was missing; it belongs to the
+  Cameron, Banko and Pierce paper, and the dossier now cites
+  PMC2731358 directly after both quotations.
+- HISTORICAL LEDGER ASSERTION, withdrawn from the dossier: the
+  Eisenberger, Pierce and Cameron 1999 comment-paper quotation
+  ("despite their common focus...") and the accompanying Tang-and-Hall
+  judgment rested on the build session's ledger entry; a fresh fetch
+  of PubMed 10589298 failed and no alternate carrier was found, so
+  the quotation and the judgment were REMOVED from the dossier per QC
+  direction. The directly supported Deci-versus-Cameron comparison
+  remains.
+- RETENTION CHANGED this pass: acknowledged; it was rewritten as my
+  editorial recommendation per the house pattern.
+
+Repairs applied to the dossier:
+
+- "Is it how much motivation, or what kind?" moved out of the
+  disagreement section into the body (one sourced position plus my
+  characterization of the older accounts does not establish
+  incompatible answers). The Deci and Ryan 2008 type-versus-amount
+  quote and the autonomous/controlled definitions now sit in the
+  self-determination thread, with the definitions cited directly to
+  the 2008 PDF.
+- Disagreement count corrected: ONE documented dispute (rewards);
+  TWO additional questions needed for the model minimum of three;
+  not manufactured.
+- Competing meta-analysis named: Cameron, Banko and Pierce (authors
+  confirmed from the fetched PMC record; journal The Behavior
+  Analyst).
+- Prose: the intro verdicts attributed to their traditions; the
+  identified/introjected gloss rewritten from the card's own
+  distinction (inner policeman / chosen project, the card's
+  sentence) under the heading "How does a rule become an endorsed
+  want?"; the crowding bridge narrowed to "The rewards debate below
+  examines one related question"; the wanting-versus-liking
+  provenance claim deleted and the incentive-salience and
+  prediction-error constructs kept separate; White's competence motive
+  merged into the needs paragraph without the "felt capacity side"
+  bridge; the interest-feeds-flow and boredom-as-opposite bridges
+  deleted; Frankfurt's definition grounded in the card's wording
+  (wanting to have a certain desire, or wanting a certain desire to
+  be one's will) and "raised to the second power" removed; the
+  isolated competence subsection merged away.
+
+Checks after repair: dossier_check.py exit 0 (50 card links, 23
+headers, 5 external carriers); density 0; voice audit clean; zero
+prose em dashes; card-link set identical to the previous revision
+(50 links, diffed). quote_verify: 5 checked, 1 not found (Deci 1999
+via PubMed, verified by eye against the directly fetched PDF). The
+disagreement shortfall is stated unambiguously: ONE supported
+question; TWO additional needed. Released as a REVIEW HANDOFF, not
+fully GF-compliant and not fully source-reverified.
+
+## Post-merge note (2026-10-25, worker-pplx-dos10-1025i)
+
+This pass was rebased onto the supervisor's concurrent close-out
+(entry above). The merge preserves the supervisor's third
+disagreement section (hierarchy of prepotency) and applies my QC
+repairs on top of it. One consequence needs the supervisor's
+attention: my QC repair moved "Is it how much motivation, or what
+kind?" out of the disagreement section into the body, on the
+advisor's ruling that it supplies one sourced position plus my own
+characterization of the older accounts, not two incompatible
+sourced answers. The merged dossier therefore holds TWO documented
+disagreement questions (rewards; the supervisor's hierarchy
+section), and the 3-of-3 count recorded in the close-out above no
+longer holds as stated. Flagged for the supervisor's re-review;
+nothing manufactured.
