@@ -50,6 +50,9 @@ def norm(s):
 # were inflating the phantom unmatched-concept count (36 -> 39 in one day).
 # A real page title never carries a session date-stamp.
 WORK_NOTE_RE = re.compile(r'\b\d{4}-\d{2}-\d{2}\b\s+\d{4}[a-z]')
+# done-array entries that are work-note strings, not page titles (e.g.
+# 'affect-gf-rewrite', 'affect-3-5-bar-repair' in batches/dos2.json)
+WORK_NOTE_SUFFIX_RE = re.compile(r'^[a-z0-9]+(-[a-z0-9]+)*-(gf-rewrite|bar-repair)$')
 
 def reconcile(done_ids, done_titles, principles, concepts, kernels, thinkers,
                 maintenance_notes):
@@ -100,7 +103,8 @@ def reconcile(done_ids, done_titles, principles, concepts, kernels, thinkers,
                           and norm_title(t) not in kernel_norm
                           and norm_title(t) not in thinker_norm
                           and t not in maintenance_notes
-                          and not WORK_NOTE_RE.search(t))
+                          and not WORK_NOTE_RE.search(t)
+                          and not WORK_NOTE_SUFFIX_RE.search(t))
     return pr_done, co_done, pr_unmatched, co_unmatched
 
 
