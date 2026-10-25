@@ -309,14 +309,15 @@ reports NOT FOUND) prints the abstract sentence WITHOUT the correlative:
 with their wishes (primary control) and by bringing themselves into line
 with environmental forces (secondary control)."
 (2) The OpenAlex record for the same DOI (api.openalex.org, fetched raw;
-abstract reconstructed from the inverted index locally) digitizes the
-PUBLISHED abstract and carries the correlative: "People attempt to gain
+abstract reconstructed from the inverted index locally) carries the
+correlative: "People attempt to gain
 control not only by bringing the environment into line with their wishes
 (primary control) but also by bringing themselves into line with
-environmental forces (secondary control)." The OpenAlex text shows print
-digitization artifacts (hyphen joins like "re-linquish"), consistent with
-transcription from the article itself; the APA PsycInfo record is a
-condensed editorial transcription.
+environmental forces (secondary control)." The two records disagree on
+the correlative: two opened records carry the two variants (APA database
+record without it, OpenAlex with it); why they differ is not established
+by anything opened this session, and no claim about the records' textual
+history is made here.
 Resolution: the dequote to plain prose (10:52:34Z entry) was the right
 call, and its "confirmed against search results" basis is now upgraded to
 an opened carrier (OpenAlex). The dossier's plain-prose wording matches

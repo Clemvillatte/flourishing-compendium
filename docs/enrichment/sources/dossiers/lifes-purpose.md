@@ -505,12 +505,16 @@ verification path:
    verbatim; the carrier is a Word .doc, which the checker cannot extract
    (a checker limitation, not a carrier fault).
 7. McAdams, "Narrative Identity and the Redemptive Self" (erudit PDF,
-   bot-walled live; the Wayback Machine copy of the same PDF opened raw and
-   text-extracted): "that what Erikson called an identity is really an inner
+   automated nonmatch; independently verified using the Wayback Machine
+   copy of the same erudit PDF,
+   https://web.archive.org/web/2024id_/https://www.erudit.org/en/journals/nw/2022-v11-nw09057/1108951ar.pdf
+   opened raw, 291,305 bytes, PDF-1.4, 19 pages; span on PDF page 4, article
+   pages 6-23): "that what Erikson called an identity is really an inner
    story or personal myth that integrates a person's life in time (past,
-   present, and future) and social space" — verbatim, the only difference
-   being the PDF's curly apostrophe in "person's" versus the dossier's
-   straight one.
+   present, and future) and social space" — verbatim; the only difference
+   is typographic, the PDF prints a curly apostrophe in "person's" where the
+   dossier uses a straight one (an apostrophe-normalized substring match;
+   the wording is identical).
 8. Taleb 2007 as quoted in Kunst and Van de Wiel 2016 (PMC5045839, opened via
    the fetch tool's raw mode; ncbi.nlm.nih.gov form 403s, the pmc form
    serves): "Where this propensity can go wrong is when it increases our
@@ -518,9 +522,21 @@ verification path:
    passage.
 
 Gates re-run this pass: dossier_check OK, density 0 dense, quote_verify
-31 checked / 7 not found (one of the eight spans above now also passes
-mechanically against its live carrier; the seven standing NOT FOUNDs are
-blocked or non-HTML carriers) — every flagged span is now an individually
-documented exception with raw verification above. No dossier text
-changed. SUPERVISOR: re-splice
+31 checked / 7 not found. The seven standing NOT FOUNDs, captured from the
+checker output immediately before this push, map one-to-one onto items
+1, 2, 3, 4, 5, 7 and 8 above (Steger, Ostafin, Wrzesniewski,
+Sheldon-Elliot, Yaden, McAdams, Taleb); the Heidegger span (item 6) now
+passes mechanically against its live carrier, so it no longer appears in
+the checker output. For the standing seven the checker's automated
+fetches did not match; where the checker's own response was not inspected
+this session the cause is not asserted, and the disposition is
+"automated nonmatch; independently verified using" the opened alternative
+carriers above (raw page HTML for the OUP, Taylor and Francis, Semantic
+Scholar and PMC carriers; PubMed eutils at
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=10101878&rettype=abstract
+for Sheldon and Elliot; the OpenAlex work record
+https://api.openalex.org/works/doi:10.1037/gpr0000102 for Yaden; the
+Wayback erudit PDF above for McAdams). Every flagged span is now an
+individually documented exception with raw verification above. No
+dossier text changed. SUPERVISOR: re-splice
 lifes-purpose when convenient; nothing further owed on these flags.
