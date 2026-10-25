@@ -20,7 +20,7 @@ There is a version of this that sounds like resignation, and another that sounds
 
 ## What passes, and what that does to a life
 
-### The fact stated plainly
+### What is actually passing?
 
 The [Dhammapada](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html) gives the compressed form: all conditioned things are impermanent, and seeing this with wisdom is the path to purification. Everything conditioned that arises will pass, including moods, plans, bodies, relationships, and this very thought. I want to resist two readings of that at the start, because both flatten it.
 
@@ -28,13 +28,13 @@ One reading treats it as a claim about objects: statues fall, dynasties end. Tha
 
 The other reading treats it as advice to detach, to want nothing that can be lost. That is a real tradition, and I take it up below, but it is not the only reading. Heraclitus's [everything flows](https://plato.stanford.edu/entries/heraclitus/) and the Daoist [return](https://www.gutenberg.org/files/216/216-h/216-h.htm) of Daodejing 16 are also in this family, and they do not say the same thing.
 
-### Why the body is the hardest case
+### What does the passing do to the body I am living in?
 
 There is a way of talking about impermanence that stays abstract, and a way that does not. The body forces the concrete version, because ageing is not a metaphor. My [cognitive ageing](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20ageing) card records the pattern from Hartshorne and Germine's large-sample study: the abilities do not rise and fall together, so there is no single moment at which a person crosses from sharp to not. The change is asynchronous and distributed, which makes it easy to ignore until it is not.
 
 This is where I find [wabi-sabi](https://clemvillatte.github.io/flourishing-compendium/#card=Wabi-sabi) useful rather than decorative. The Japanese aesthetic attends to [austere beauty, age and the imperfect or passing](https://plato.stanford.edu/entries/japanese-aesthetics/), which is a way of training the eye to find something other than loss in the weathered. Must a life look complete to be worth cherishing? I ask that seriously, not rhetorically, because the answer changes what I do with the years I have.
 
-### The Stoic practice: keeping death in view
+### How do the Stoics meet it: keep the ending in view
 
 The Stoic thread is the most directive. [Seneca](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_101) treats death as the thing most avoided, and the practice is to keep it in view:
 
@@ -44,7 +44,7 @@ The mechanism, in my reading, is contrast rather than fear: against the backgrou
 
 What I take from the Stoics is the insistence that the practice be deliberate, a kept reminder rather than a passing thought. The [memento mori](https://clemvillatte.github.io/flourishing-compendium/#card=Memento%20mori) kernel works by making the reminder physical: a skull on the desk, a coin in the pocket, something in reach.
 
-### The psychological evidence, and its limits
+### What does the experimental evidence actually show?
 
 Psychology has its own version of the question, and its findings are more mixed than the philosophical confidence suggests. Terror management theory's [mortality salience](https://clemvillatte.github.io/flourishing-compendium/#card=Mortality%20salience) hypothesis says that making death-thought accessible increases worldview and self-esteem defence. Burke, Martens and Faucher's 2010 meta-analysis covered 164 articles and 277 experiments and reported moderate effects, r = .35, with the usual moderator caveats ([Burke et al. 2010](https://pubmed.ncbi.nlm.nih.gov/20097885/)).
 
@@ -56,7 +56,7 @@ I hold both facts together: a large body of theory and results, and a failed rep
 
 There is a sharper construct, though. [Death reflection](https://clemvillatte.github.io/flourishing-compendium/#card=Death%20reflection) distinguishes a specific, vivid contemplation of one's own death from abstract mortality salience. Cozzolino's dual-existential-systems proposal is that we process our existence either via a specific and personalized system or via an abstract and categorical one, with growth-oriented or defense-oriented results ([Cozzolino 2006](https://repository.essex.ac.uk/12454/)). In the studies, mortality salience led highly extrinsic participants to manifest greed, whereas death reflection generated intrinsic, unselfish behaviour, and on gratitude the death-reflection induction showed the greatest increase in state gratitude ([Frias et al. 2011](https://greatergood.berkeley.edu/images/uploads/Frias-DeathGratitude.pdf)). I scope these findings to the studies that produced them.
 
-### The Heideggerian analysis: finitude as a condition of ownership
+### What does finitude do to the shape of a life?
 
 Heidegger's [being-toward-death](https://clemvillatte.github.io/flourishing-compendium/#card=Being-toward-death) takes the question out of the management of feelings and puts it into the structure of a life. Heidegger calls a human life Dasein, and death, in his analysis, is the possibility of the absolute impossibility of Dasein: the one possibility that is mine alone, that no one can take over for me, and that isolates me as the one living my life ([SEP Heidegger](https://plato.stanford.edu/entries/heidegger/)).
 
@@ -66,7 +66,7 @@ The payoff is freedom. In anticipating death, one can authentically understand a
 
 [Finitude](https://clemvillatte.github.io/flourishing-compendium/#card=Finitude) as a concept extends beyond the mortal case. It is the condition of being limited in time, in possibilities open to us, and in how we can know things. I take that as the theme's core structure: the limits are what give the choices their shape.
 
-### The acceptance research: what attitudes actually vary
+### What is acceptance of death accepting?
 
 Paul Wong's research programme gives the most granular answer to the question of what attitudes toward death are available. The Death Attitude Profile-Revised measures five dimensions, and three of them are types of acceptance:
 
@@ -74,7 +74,7 @@ Paul Wong's research programme gives the most granular answer to the question of
 
 The three differ in what makes death acceptable: its status as biology, a belief about what follows it, or relief from suffering. I find that distinction useful because it shows that acceptance is not one thing. The [death acceptance](https://clemvillatte.github.io/flourishing-compendium/#card=Death%20acceptance) construct distinguishes attitudes toward death, which is useful when asking what a given practice is actually training.
 
-### Zhuangzi and the grief question
+### What happens when grief is allowed to be grief?
 
 The Chinese material complicates the Stoic-Buddhist frame. Zhuangzi's [drumming on the tub](https://plato.stanford.edu/archives/sum2012/entries/zhuangzi/), chapter 18, centres on the acceptance of death as part of the natural processes of Heaven and Earth. The chapter holds the story of Huishi's visit, in which Zhuangzi grieves and then drums on a tub after his wife's death. The SEP entry records the chapter's theme as acceptance of death as part of the natural processes; the narrative itself I do not paraphrase beyond that, because the one sentence I verified does not establish how grief and acceptance relate over time.
 
