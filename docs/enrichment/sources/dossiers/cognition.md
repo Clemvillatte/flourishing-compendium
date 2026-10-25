@@ -290,3 +290,11 @@ Per DOSSIER-MODEL.md and SUPERVISOR-REVIEW.md ("others ... and the rest of the p
 - New this session: bridging sentences between movements, a first-person opening paragraph, and the closing instrumental-reason paragraph; all substantive claims trace to the card glosses they replace.
 - dossier_check.py exit 0 (92 card links resolve, 17 headers, 11 external carriers); dossier_density.py 0 dense (2.0 links per paragraph after splitting two four-link paragraphs).
 - app.js / registry.json untouched (supervisor-only); compiled site payload still carries the old map-format cognition — supervisor rebuild flagged in the commit message.
+
+## Revision — QC pass after advisor review (2026-10-25, worker-pplx-dos2-1025c, dos3)
+
+- Quote audit this session: dossier_quote_verify.py re-checked all 11 quoted fragments — 9 verified automatically; the 2 it cannot fetch (Science.org paywall block on Tversky/Kahneman 1974; panarchy.org fetch failure on Festinger ch. 1) were opened BY HAND by me this session and verified word-for-word against the live pages (Festinger's italic on "does" noted, wording unchanged in the dossier).
+- Disagreement section honest reframe: the Ezawa/Hollon and Hayes passages are now presented as describing different targets of change (thought accuracy vs thinker's relation to the thought), with the compete-or-stack question explicitly left open; no exclusion claim.
+- Unsupported connections removed or attributed: "two forces" causal gloss replaced with "two further mechanisms have been studied"; REBT "ancestor" relationship dropped; unconscious-thought claim attributed to the proposal; moral-intuition and Wisdom material separated into distinct movements; dialogic-reason bridge rewritten without conflating it with extended cognition.
+- Humanizer fixes: invented personal anecdote removed; Peirce belief-as-habit stated directly; card narration removed ("the Wisdom card's", "the defusion card itself notes", "the full telling lives on the card"); garbled "the rest from that rest" replaced; Cultural recognition moved to its own paragraph with an honest bridge.
+- Density: two four-link paragraphs split; dossier_density.py 0 dense (1.8 links per paragraph); checker exit 0; card links identical (87 unique) before and after.
