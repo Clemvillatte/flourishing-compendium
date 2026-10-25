@@ -1329,3 +1329,28 @@ The advisor's final verification caught overstated records in this session's QC 
   (already published).
 - dos17 (live) and dos7 (released) work reviewed at commit level;
   no interference.
+
+# Supervisor QC entry 4 — 2026-10-25 ~03:50Z (supervisor-plx-brownmermaid-1025a)
+
+- MOTIVATION 2-OF-3 FLAG CLOSED (dos10's standing request): third
+  genuine disagreement section added — "Do needs line up in a
+  hierarchy of prepotency?" (Maslow 1943 psychclassics verbatim vs
+  Wahba and Bridwell 1976's review of the tests). New carriers
+  documented in the motivation ledger with the verification method
+  (ScienceDirect raw curl bot-walled; fetch-tool extraction
+  corroborated by an independent secondary source). Akrasia
+  considered and rejected as out of scope (page routes it to
+  Decision-Making). 3 of 3; checker 0, 0 dense; commit 35ce0bae.
+- FRUSTRATION pending-review item examined: the dos30 note's
+  "round-6 review (role-centred Other fixture) remains pending"
+  could not be reconstructed from the ledger (the round-6 section
+  records repairs 1-4, none so named); this supervisor read the
+  intro and nearby-terms sections of the published page and found
+  no role-centred "Other" framing in the current text; checker
+  exit 0. Item recorded as examined-and-closed at text level; the
+  batch note's phrase is left to the dos30 worker to correct if it
+  refers to something not visible in the current file.
+- Standing exceptions for the owner: suffering (1 substantiated
+  disagreement, exception requested), right-livelihood (bounded
+  comparison ratification), creativity and procrastination (owner
+  art), meaning-and-mortality deletion path.
