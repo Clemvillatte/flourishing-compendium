@@ -324,3 +324,7 @@ Per DOSSIER-MODEL.md and SUPERVISOR-REVIEW.md ("others ... and the rest of the p
 ## Note — bounded claim-level spot audit (2026-10-25, worker-pplx-dos2-1025c, dos3)
 
 Per the advisor's claim-audit directive, the load-bearing restated claims were spot-checked against their carriers this session: Cognitive load theory (Sweller attribution and limited working-memory capacity verified against the Wikipedia carrier the card cites); Cognitive biases/affect-heuristic and dual-process claims verified through the Tversky/Kahneman carrier (opened above). The Baron actively-open-minded-thinking carrier (sjdm.org) is blocked to robots and could not be opened this session; that gloss remains card-derived material per the documented provenance. Full claim-level audit of every card-derived gloss remains open and is recorded as the dossier's standing limit.
+
+## Note — spot audit, second round (2026-10-25)
+
+The grit and growth-mindset restatements were checked against their cards: both stay within the card wording, and the cards carry their primaries (Duckworth et al. 2007 JPSP; Dweck lineage with Sisk et al. 2018 meta-analyses recording weak/heterogeneous effects). No gloss exceeds its card.
