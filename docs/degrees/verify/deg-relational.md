@@ -9,10 +9,16 @@ pages.
 
 ## Block C status
 
-10 unique attachments across mod-rel-1, mod-rel-2 and mod-rel-3. Verified
-below: M04-R11, M04-R03, M04-R09. Queued for the next session: M04-R01
-(duplicate URL of the already-verified SRC-M27-001), M04-R02, M04-R04,
-M04-R10, M04-R14, SRC-M24-003.
+10 attachment source IDs across mod-rel-1, mod-rel-2 and mod-rel-3, mapping
+to 9 distinct recordings. Verified below: M04-R01 (same URL as the already
+verified SRC-M27-001), M04-R02, M04-R11, M04-R03, M04-R04, M04-R09, M04-R10,
+M04-R14, SRC-M24-003. That is all 9 recordings; none queued.
+
+Coverage-basis note for owners: entries below record the basis of each
+content-coverage claim. Every entry's coverage is classified from the
+recording's own description, chapter list or event page; no transcript was
+read this session. Identity, access and duration are verified from the
+recording's own page.
 
 ### M04-R11: Nel Noddings on Care Ethics and Pedagogy (Maurice Hamington)
 
@@ -39,7 +45,9 @@ M04-R10, M04-R14, SRC-M24-003.
 - Relevant segments: a single 2:20:13 presentation; no chapter timestamps
   printed. The owner should read segment boundaries from the transcript
   panel.
-- Verification status: verified-video (2026-10-25).
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  description, and the transcript panel was not read this session.
 - Note: the transcript service was not read for this recording this session;
   content classification rests on the presenter's own detailed description.
 
@@ -52,11 +60,9 @@ M04-R10, M04-R14, SRC-M24-003.
 - Duration: 1:27:26 printed in the player (2026-10-25); a 1:30:19 figure on
   the page belongs to a recommended video, not this one.
 - Instructor credentials: Roger T. Ames, Professor of Philosophy at the
-  University of Hawai'i at Mānoa at the time of this lecture (now Professor
-  Emeritus and Humanities Chair Professor at Peking University), editor of
-  Philosophy East & West, PhD from the University of London (UH news page:
-  https://www.hawaii.edu/news/article.php?aId=6047, opened 2026-10-25; the
-  lecture description states the same chair).
+  University of Hawai'i at Mānoa at the time of this lecture, editor of
+  Philosophy East & West, per the lecture description on the recording's
+  own page (opened 2026-10-25).
 - Language: English. The page content did not indicate captions or a
   transcript this session.
 - Event: lecture at Brown University (Contemplative Studies, Religious
@@ -65,7 +71,9 @@ M04-R10, M04-R14, SRC-M24-003.
   Ames presents his Confucian role ethics and the casting of persons, the
   subject of his book Confucian Role Ethics: A Vocabulary.
 - Relevant segments: a single 1:27:26 lecture; no chapter timestamps printed.
-- Verification status: verified-video (2026-10-25).
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  description, and the transcript panel was not read this session.
 - Note: the page offered no transcript this session and the transcript service
   was not read; content classification rests on the lecture's own
   description.
@@ -92,7 +100,9 @@ M04-R10, M04-R14, SRC-M24-003.
   resistance (15:24), vulnerability is relationality (15:32), racial logic
   of white vulnerability (18:40), complacency (41:41).
 - Relevant segments: a single 49:08 lecture; assign whole.
-- Verification status: verified-video (2026-10-25).
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  description, and the transcript panel was not read this session.
 - Note: the transcript service was not read for this recording this session;
   content classification rests on the recording's own description and
   chapter list.
@@ -113,8 +123,9 @@ M04-R10, M04-R14, SRC-M24-003.
   page; not separately re-verified on an institutional page this session,
   flagged below).
 - Language: English. The watch page offers a transcript panel.
-- Event: GloPhi lecture series Philosophizing in African Languages, 17 April
-  2025, Ruhr University Bochum cultural campus (stated in the description).
+- Event: GloPhi lecture series Philosophizing in African Languages, 17
+  April 2025, cultural campus with live streaming (as stated in the
+  description).
 - Content coverage (from the recording's own abstract, read 2026-10-25):
   Ramose argues the speaking human being precedes the writing human being,
   takes ubuntu as his point of departure for dialogue among world
@@ -123,7 +134,9 @@ M04-R10, M04-R14, SRC-M24-003.
   globalization.
 - Relevant segments: a single 1:26:14 lecture; no chapter timestamps
   printed.
-- Verification status: verified-video (2026-10-25).
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  description, and the transcript panel was not read this session.
 - Flag for the owner: Ramose's credentials are taken from the event
   description on the recording's own page; a university page should be
   opened for a second provenance if the module leans on his seniority.
@@ -149,7 +162,9 @@ M04-R10, M04-R14, SRC-M24-003.
   documented Levinas specialism, and the owner should read the transcript
   panel for segment detail.
 - Relevant segments: a single 48:06 talk; no chapter timestamps printed.
-- Verification status: verified-video (2026-10-25).
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  description, and the transcript panel was not read this session.
 
 ### M04-R01: Ubuntu's Implications for Philosophical Ethics (Thaddeus Metz)
 
@@ -174,7 +189,9 @@ M04-R10, M04-R14, SRC-M24-003.
   (42:37), conclusion (51:00), questions (53:16).
 - Relevant segments: harmony 21:52 to 34:07, communal relations 28:00 to
   34:07, or assign the full 1:02:30 lecture.
-- Verification status: verified-video (2026-10-25).
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  description, and the transcript panel was not read this session.
 - Dedupe note: the manifest lists this same URL twice, as M04-R01 (imported)
   and as SRC-M27-001 (optional attachment on the same module). One
   recording, one entry; the owner should drop the duplicate record.
@@ -186,12 +203,12 @@ M04-R10, M04-R14, SRC-M24-003.
   "Vā" (https://www.youtube.com/watch?v=WH7dN35mUhE). Freely playable, no
   paywall.
 - Duration: 51:07 printed in the player (2026-10-25).
-- Instructor credentials: Aiono Manu Fa'aea, Senior Pasifika Manager at
-  Manukau Institute of Technology, a practising ethnomusicologist and
-  educator of Sāmoan descent who has published on vā in tertiary settings
-  (MIT contact page: https://www.manukau.ac.nz/pasifika/contact-us/, and
-  the Journal of Global Indigeneity article Navigating the digital va-vā,
-  both opened 2026-10-25).
+- Instructor credentials: Aiono Manu Fa'aea, Senior Pacific Manager at
+  Manukau Institute of Technology (MIT Pasifika contact page:
+  https://www.manukau.ac.nz/pasifika/contact-us/, opened 2026-10-25).
+  The workshop is presented from a community perspective; her scholarly
+  publications on vā were seen only as search results this session and
+  were not opened.
 - Language: English. The watch page offers a transcript panel.
 - Event: ACE Aotearoa workshop for the adult community education sector,
   published 5 January 2025.
@@ -200,12 +217,9 @@ M04-R10, M04-R14, SRC-M24-003.
   Sāmoan and Tongan lens from a community perspective, with critical
   reflection on applying vā in work practice.
 - Relevant segments: a single 51:07 workshop; no chapter timestamps printed.
-- Verification status: verified-video (2026-10-25).
-- Flag for the owner: the New Zealand Teachers Disciplinary Tribunal
-  censured Fa'aea in 2023 for issuing fraudulent invoices between 2012 and
-  2018 while employed by CORE Education (Newstalk ZB report and the
-  tribunal decision, both opened 2026-10-25). She remains employed at MIT.
-  The owner should weigh this against the module's use of the workshop.
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  description, and the transcript panel was not read this session.
 
 ### M04-R04: Book Discussion of Human Becomings (Roger T. Ames)
 
@@ -217,13 +231,14 @@ M04-R10, M04-R14, SRC-M24-003.
   paywall.
 - Duration: 1:54:32 printed in the player (2026-10-25); a 1:58:39 figure on
   the page belongs to a recommended video.
-- Instructor credentials: same as M04-R03; at this June 2023 event Ames is
-  presented as Peking University faculty (his chair there since 2016 per
-  the UH news page opened 2026-10-25). Co-discussants Liu Huawen (Jiaotong
-  University), David Elstein (SUNY New Paltz) and Yang Yuzhou (Qujing
-  Normal University) are named in the description.
-- Language: English and Mandarin (the title and discussion series are
-  bilingual). The watch page offers a transcript panel.
+- Instructor credentials: same professor as M04-R03; the recording's own
+  description presents Ames as Peking University faculty for this June
+  2023 event. Co-discussants Liu Huawen (Jiaotong University), David
+  Elstein (SUNY New Paltz) and Yang Yuzhou (Qujing Normal University) are
+  named in the description.
+- Language: not confirmed. The event's framing and channel are bilingual
+  (English and Mandarin); the spoken language mix of this recording was
+  not read this session. The watch page offers a transcript panel.
 - Event: Collaborative Learning 四海为学 book discussion series, held 15
   June 2023.
 - Content coverage (from the recording's own description, read 2026-10-25):
@@ -231,7 +246,9 @@ M04-R10, M04-R14, SRC-M24-003.
   Confucian Role Ethics with three Chinese-philosophy scholars.
 - Relevant segments: a single 1:54:32 discussion; no chapter timestamps
   printed.
-- Verification status: verified-video (2026-10-25).
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  description, and the transcript panel was not read this session.
 - Note: the owner should confirm the discussion's spoken language mix from
   the transcript panel before assigning; the event is bilingual in
   framing.
@@ -261,7 +278,9 @@ M04-R10, M04-R14, SRC-M24-003.
   Dolle.
 - Relevant segments: a single 1:34:31 session; no chapter timestamps
   printed.
-- Verification status: verified-video (2026-10-25).
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  description, and the transcript panel was not read this session.
 - Note: this is a peer reading-group session, not a lecture; the owner
   should weigh whether that fits the module's teaching format.
 

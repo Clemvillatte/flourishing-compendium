@@ -12,12 +12,13 @@ evidence on file.
 
 ## Block D status
 
-25 unique attachments. Verified below: M06-AF09, M06-CO04, M06-AF01,
-M06-AF03. Already verified in the manifest: SRC-M28-001 through
-SRC-M28-007 and M06-AT02 (same recording as SRC-M28-002). Queued for the
-next session: M06-AF03's sibling recordings, M06-AF04, M06-AF05, M06-AF06,
-M06-CO05, M06-CO02, M06-AT01, SRC-M07-001, SRC-M07-004, SRC-M07-005,
-SRC-M07-007, SRC-M07-008, SRC-M07-019.
+25 unique attachments (10 source IDs on mod-mind-1 and mod-mind-2 map to
+these recordings). Verified below: M06-AF09, M06-CO04, M06-AF01, M06-AF03.
+Already verified in the manifest: SRC-M28-001 through SRC-M28-007;
+M06-AT06 is the same recording as SRC-M28-002. Queued for the next
+session: M06-AF04, M06-AF05, M06-AF06, M06-CO05, M06-CO02, M06-AT01,
+M06-AT02, SRC-M07-001, SRC-M07-004, SRC-M07-005, SRC-M07-007, SRC-M07-008,
+SRC-M07-019.
 
 ### M06-AF09: How Positive Emotions Work and Why (Barbara L. Fredrickson)
 
@@ -28,10 +29,10 @@ SRC-M07-007, SRC-M07-008, SRC-M07-019.
   no paywall.
 - Duration: 1:47:18 printed in the player (2026-10-25).
 - Instructor credentials: Barbara L. Fredrickson, Kenan Distinguished
-  Professor of Psychology and Neuroscience at the University of North
-  Carolina at Chapel Hill, director of the Positive Emotions and
-  Psychophysiology Laboratory (UNC faculty page:
-  https://socialpsych.unc.edu/faculty/, opened 2026-10-25).
+  Professor at the University of North Carolina at Chapel Hill, listed
+  among the core faculty of the UNC social psychology graduate program
+  (UNC faculty page: https://socialpsych.unc.edu/faculty/, opened
+  2026-10-25).
 - Language: English. The watch page offers a transcript panel.
 - Event: guest lecture at Aalto University, 21 June 2010, archived and
   published 8 February 2019.
@@ -44,10 +45,10 @@ SRC-M07-007, SRC-M07-008, SRC-M07-019.
   practical application (1:00:30) and discussion of resilience (1:07:05).
 - Relevant segments: broaden and build 8:31 to 20:13; vagal tone and
   meditation 38:57 to 44:42; flourishing 52:24 to 1:00:30.
-- Verification status: verified-video (2026-10-25).
-- Note: the 3:1 positivity ratio chapter presents Fredrickson's own
-  then-current research; the owner should treat that segment as
-  historical, as later work revised the ratio claim.
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  description and chapter list, and the transcript panel was not read
+  this session.
 
 ### M06-CO04: Feeling and Knowing (Antonio Damasio)
 
@@ -73,7 +74,10 @@ SRC-M07-007, SRC-M07-008, SRC-M07-019.
   conclusion (58:36).
 - Relevant segments: homeostatic feelings 13:46 to 23:05; sensing versus
   feeling 39:17 to 42:21.
-- Verification status: verified-video (2026-10-25).
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  description and chapter list, and the transcript panel was not read
+  this session.
 
 ### M06-AF01: Evolution, Emotion, and Reason, Emotions Part I (Paul Bloom)
 
@@ -100,7 +104,10 @@ SRC-M07-007, SRC-M07-008, SRC-M07-019.
   fear (32:22), social emotions and altruism (36:29).
 - Relevant segments: Phineas Gage 9:06 to 15:45; smiles 15:45 to 32:22;
   social emotions and altruism 36:29 to end.
-- Verification status: verified-video (2026-10-25).
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  description and chapter list, and the transcript panel was not read
+  this session.
 
 ### M06-AF03: The Good Life, Happiness (Paul Bloom)
 
@@ -121,7 +128,10 @@ SRC-M07-007, SRC-M07-008, SRC-M07-019.
   positive psychology (11:16), getting used to happiness (18:58) and
   closing remarks (42:41).
 - Relevant segments: happiness and positive psychology 11:16 to 42:41.
-- Verification status: verified-video (2026-10-25).
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  description and chapter list, and the transcript panel was not read
+  this session.
 
 ## Block I batch (verified 2026-10-25)
 Coverage-basis note for owners: entries in this section record the basis of each

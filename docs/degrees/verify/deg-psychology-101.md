@@ -11,8 +11,9 @@ opening the app itself.
 - Identity: the app at https://the-psychology-lab.vercel.app/ opens
   directly and identifies itself as The Psychology Lab, a learning app
   with missions aligned to Psychology: Themes and Variations, 12e
-  (Weiten & Gurung, 2027) (opened 2026-10-25). No paywall, no login, no
-  account required to view content.
+  (Weiten & Gurung, 2027) (opened 2026-10-25). No paywall or login was
+  encountered for the visible content; whether every mission is reachable
+  without an account was not tested this session.
 - Duration: the manifest prints "Full course, 411 missions"; the app's own
   page does not print a mission count. Flagged below.
 - Instructor credentials: the manifest lists the textbook authors (Wayne
@@ -29,7 +30,9 @@ opening the app itself.
   source-grounded.
 - Relevant segments: chapter-level missions keyed to textbook sections;
   the owner should map missions from the app's chapter list.
-- Verification status: verified-web (2026-10-25).
+- Verification status: partially verified (2026-10-25): the app's
+  identity and free access to visible content are confirmed; instructor
+  credentials are unresolved because the app's author is unidentified.
 - Flags for the owner: (1) the 411-mission count is manifest data, not
   printed on the site; (2) the app is an original companion, not content by
   the textbook authors, so instructor credentialing needs the app author's

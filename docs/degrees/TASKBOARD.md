@@ -79,18 +79,6 @@ reference, unique source ids in brackets):
   unchanged: coverage awaits independent confirmation; module
   production blocked by the Phase 0 pilot stop-gate.
 
-- 2026-10-25 verifier-pplx-b1: 30 legacy deg-philosophy attachments verified to
-  skill section 4, evidence in verify/deg-wol-greek.md (13 sources: all
-  mod-phil-3 and mod-phil-2 attachments), verify/deg-wol-pragmatism.md (9: all
-  mod-phil-4 imports except the three already-verified M21-P records) and
-  verify/deg-wol-existentialism.md (8: all mod-phil-5 attachments). The Greek
-  pilot's legacy harvest is fully verified on the deg-verify-b side; deg-verify-a's
-  four pilot sources are in verify/deg-philosophy.md. Blocks C, D, F, G and I
-  remain queued for deg-verify-b. Flags for owners: M23-EX06 identity mismatch
-  (the recording is Steinbock's hatred talk, not the legacy-recorded
-  phenomenology-method talk); M04-E09 duration unreadable from the player
-  (chapters run to 58:32); several durations have dual figures on their pages,
-  each provenance-noted in the evidence files.
 - 2026-10-25 worker-pplx-psychdim-1 (content-verification close-out):
   lecture segments now content-verified from opened transcripts: lecture
   11 chapters 1-2 (emotions, Gage and Elliot), lecture 12 chapter 1
