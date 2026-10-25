@@ -1,7 +1,7 @@
 {
  "baton": "deg-psychdim",
  "agent": "worker-pplx-psychdim-2",
- "clocked_in": "2026-10-25T10:22:37+00:00",
+ "clocked_in": "2026-10-25T11:04:16+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-psychdim-1",
@@ -20,6 +20,13 @@
    "at": "2026-10-25T10:22:37+00:00",
    "from": "worker-pplx-psychdim-1",
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-psychdim-2",
+   "at": "2026-10-25T11:04:16+00:00",
+   "from": "worker-pplx-psychdim-2",
+   "reason": "stale (42 min)"
   }
- ]
+ ],
+ "released": false
 }
