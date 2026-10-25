@@ -1,11 +1,12 @@
 # Impermanence — evidence ledger
 
-Dossier: docs/enrichment/dossiers/impermanence.md (GF-model, validated exemplar form).
-Minted 2026-10-25 by worker-pplx-impermanence-1025 (baton impermanence). The
-registry entry is PRESENT and status is "planned" (owner decision 2026-10-25,
-replaces the standalone Meaning & Mortality dossier; scope: impermanence and
-mortality as one theme, meaning-making to Life's Purpose, the fear of death to
-Fear, the uncertainty reading to Uncertainty). Supervisor flips to published.
+Dossier: docs/enrichment/dossiers/impermanence.md (GF-model, validated exemplar
+form; QC round 1 applied, see below). Minted 2026-10-25 by
+worker-pplx-impermanence-1025 (baton impermanence). The registry entry is
+PRESENT and status is "planned" (owner decision 2026-10-25, replaces the
+standalone Meaning & Mortality dossier; scope: impermanence and mortality as
+one theme, meaning-making to Life's Purpose, the fear of death to Fear, the
+uncertainty reading to Uncertainty). Supervisor flips to published.
 
 ## Boundary requirements (tested)
 
@@ -35,6 +36,12 @@ Kernels: K222, K226, K230, K316. Principles: M037, T014 (via thinker card,
 not used as a link), B066. Stories: ST272, ST035, ST277.
 
 ## External carriers verified word-for-word this session
+
+Verification method: targeted phrase extraction against each carrier's
+published text, not full-passage comparison of every quotation's surrounding
+argument. The quotations below were confirmed verbatim at the phrase level.
+This is a narrower check than a full raw-text comparison, and the ledger
+records it as such.
 
 1. Dhammapada 277, Acharya Buddharakkhita translation, AccessToInsight:
    https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html —
@@ -105,6 +112,58 @@ not used as a link), B066. Stories: ST272, ST035, ST277.
 - Banned meta-text: none (checker exit 0).
 - Voice: first person, direct statements, no AI vocabulary, no workflow
   language on the page.
+
+
+## QC round 1 (advisor, 2026-10-25) — revisions applied
+
+1. Fabricated autobiographical detail removed ("a house I lived in is someone
+   else's kitchen" replaced with "a season ends").
+2. False disagreement "detachment or engagement" deleted; replaced with a
+   genuine Seneca-vs-Spinoza opposition about the place of deliberate death
+   attention in living well. The Buddhist "more honest about equanimity"
+   judgment removed as unsupported.
+3. "Does awareness of impermanence improve a life?" moved out of
+   disagreements (evidence question, not a tradition disagreement) and
+   replaced with "What does the practice train: acceptance, urgency, or
+   watchfulness?"
+4. "Death is the least bad case" (my editorial addition) replaced with "a
+   special case, the one change I will not be present for" (Epicurus's own
+   reasoning).
+5. Spinoza's position no longer presented as a counter-practice to the whole
+   remembrance family; presented as a claim about attention and its objects.
+6. "Everything that arises will pass" narrowed to "everything conditioned
+   that arises will pass" (source qualification preserved).
+7. "The paradigm's central effect" / "signature effect" narrowed to "the
+   specific 1994 finding" (Greenberg et al. 1994, the target of Many Labs 4).
+8. "Gratitude the best-attested outcome" removed (no comparative review
+   performed). "Small studies" replaced with "I scope these findings to the
+   studies that produced them" (samples not read).
+9. Claims that practices were "never tested directly or at scale" removed
+   pending a literature search.
+10. Zhuangzi narrative paraphrase bounded to the verified sentence; the
+    "neither cancels the other" interpretation removed.
+11. DAP-R over-readings removed ("a person can... still be unable to grieve",
+    "which a practice is actually training" as a test).
+12. "Ontological", "factical", "individualizes" explained in ordinary
+    language (Dasein glossed as "a human life").
+13. "Heaviest available training weight", "urgency without hurry", "That is
+    not a lament" recast or removed; repeated "the point is not... but..."
+    constructions removed.
+14. "A dossier on it needs its own room", "This dossier holds", "I take it up
+    in the disagreements section", "I want the disagreement on the page"
+    removed as public process narration.
+15. B066 kept as a numbered practice (it is a principle card; the link target
+    is correct; the label is the card's own title).
+16. "A reflection that changes nothing has been defended against" removed
+    (unsupported psychological diagnosis).
+17. "Give it a month" blanket instruction removed.
+18. Each numbered practice rewritten as action + what to notice.
+19. Sisyphus story removed (impermanence connection not established);
+    "audit" and "defiance" interpretive packaging removed from loglines.
+20. Link misrepresentations fixed: "my Fear page" replaced with "my Fear
+    material"; "Sadness & Grief" replaced with "grief for what passes";
+    "Life's Purpose" replaced with "existential meaning"; "not knowing what
+    will happen" replaced with "intolerance of uncertainty".
 
 ## Open points for the supervisor
 
