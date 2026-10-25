@@ -12651,6 +12651,1516 @@ window.fcDossiersData = {
       "group": "eightfold-path",
       "status": "published",
       "art": "assets/dossier-art/right-view.jpg"
+    },
+    {
+      "id": "right-intention",
+      "title": "Right Intention",
+      "question": "What is worth resolving on, and what does a resolved life look like?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Intention is where a life's autopilot gets interrupted: renunciation instead of craving, goodwill instead of ill will, harmlessness instead of cruelty. The resolve is a standing direction rather than a mood, and the traditions are honest that it fights the current of wanting, disliking and harming. A life cannot be lived without aims; which aims deserve my commitment is the question this page holds."
+        },
+        {
+          "t": "h",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "Right resolve, right thought: other renderings of the same Pali factor, sammā saṅkappa; my card is [Right intention](card:Right%20intention), and nothing is split between the names."
+        },
+        {
+          "t": "p",
+          "x": "Intention: the general material on intending, and on the gap between intending and doing, lives in the sections below ([The intention-behavior gap](card:The%20intention-behavior%20gap), [Implementation intentions](card:Implementation%20intentions)); the factor is the path's own discipline of aim, not intending in general."
+        },
+        {
+          "t": "p",
+          "x": "Aspiration: the measured family of life goals ([Aspiration index](card:Aspiration%20index), [Extrinsic aspirations](card:Extrinsic%20aspirations)) answers what people aim at; it sits on the aim side of this page."
+        },
+        {
+          "t": "p",
+          "x": "Renunciation: the first resolve's material; the boundary against the Motivation and Goals dossiers is that those hold the general science of wanting and pursuing, while this page holds the path's discipline of aim."
+        },
+        {
+          "t": "h",
+          "x": "What the factor is"
+        },
+        {
+          "t": "p",
+          "x": "The [Magga-vibhanga Sutta](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html) states the definition plainly:"
+        },
+        {
+          "t": "q",
+          "x": "\"And what is right resolve? Being resolved on renunciation, on freedom from ill will, on harmlessness: This is called right resolve.\" ([SN 45.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Right intention](card:Right%20intention) is the second factor of the [Eightfold Path](card:Eightfold%20Path), and [the three trainings](card:The%20three%20trainings) group it with [right view](card:Right%20view) under wisdom — SN 45.8 names right view, then right resolve, then [right speech](card:Right%20speech) and [right action](card:Right%20action). Translations differ (right resolve, right intention, right thought), but the three components are the same across them."
+        },
+        {
+          "t": "p",
+          "x": "The factor is also where practice touches what [karma](card:Karma) is, because the Buddha's definition of karma makes intention the hinge of action. The [Nibbedhika Sutta](https://www.accesstoinsight.org/tipitaka/an/an06/an06.063.than.html) says it directly:"
+        },
+        {
+          "t": "q",
+          "x": "\"Intention, I tell you, is kamma. Intending, one does kamma by way of body, speech, & intellect.\" ([AN 6.63, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/an/an06/an06.063.than.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "And like right view, the resolve is graded in two forms. The [Mahācattārīsaka Sutta](https://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html) separates a resolve with effluents from a transcendent one:"
+        },
+        {
+          "t": "q",
+          "x": "\"And what is the right resolve with effluents, siding with merit, resulting in acquisitions? Resolve for renunciation, resolve for freedom from ill will, resolve for harmlessness. This is the right resolve with effluents... And what is the right resolve that is noble, without effluents, transcendent, a factor of the path? The thinking, directed thinking, resolve, mental fixity, mental transfixion, focused awareness, & verbal fabrications in one developing the noble path whose mind is noble, whose mind is without effluents, who is fully possessed of the noble path.\" ([MN 117, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html))",
+          "s": null
+        },
+        {
+          "t": "h",
+          "x": "The first resolve: renunciation"
+        },
+        {
+          "t": "p",
+          "x": "My positive rendering of the first resolve is simplicity. The first thing the resolve puts in question is what happens to wanting itself, and two accounts answer from different sides. [The insatiability of craving](card:The%20insatiability%20of%20craving) is Schopenhauer's structural claim about desire: wanting does not end with getting, because wanting keeps regenerating itself. [The craving-to-addiction model](card:The%20craving-to-addiction%20model) reads craving as a learned trigger-response loop that mindfulness can unwind (Brewer)."
+        },
+        {
+          "t": "p",
+          "x": "What replaces the wanting is answered differently. [Contentment with sufficiency](card:Contentment%20with%20sufficiency) is the Daodejing's teaching on knowing when enough is enough; its chapter 44 prices the question against life itself. Epictetus contributes [contentment in station](card:Contentment%20in%20station), the role-playing counsels from the Discourses."
+        },
+        {
+          "t": "p",
+          "x": "The Indian traditions add release rather than contentment. [Vairagya](card:Vairagya) is dispassion in Patañjali's Yoga Sūtra, the release of the grip on outcomes once they are seen as impermanent; [detachment from outcomes](card:Detachment%20from%20outcomes) is the Bhagavad Gita's instruction to act from duty while releasing ownership of the results (2.47). Psychology has its own construct for release: [nonattachment](card:Nonattachment) names release from mental fixations, a flexible relationship with experience; [Sahdra, Shaver and Brown](card:Non-attachment) built the measure for the Buddhist concept, distinguished from interpersonal attachment styles. In the Christian mystical register, [Gelassenheit](card:Gelassenheit) is Eckhart's releasement, something a person actively cultivates."
+        },
+        {
+          "t": "p",
+          "x": "The standard the renunciation-thought is held to comes from the Buddha's own account in the Two Sorts of Thinking discourse:"
+        },
+        {
+          "t": "q",
+          "x": "\"And as I remained thus heedful, ardent, & resolute, thinking imbued with renunciation arose in me. I discerned that 'Thinking imbued with renunciation has arisen in me; and that leads neither to my own affliction, nor to the affliction of others, nor to the affliction of both. It fosters discernment, promotes lack of vexation, & leads to Unbinding.\" ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html))",
+          "s": null
+        },
+        {
+          "t": "h",
+          "x": "The second resolve: freedom from ill will"
+        },
+        {
+          "t": "p",
+          "x": "My positive rendering is goodwill, and here the Buddhist practice has a name of its own. [Metta (loving-kindness)](card:Metta%20%28loving-kindness%29) is the first of the [four immeasurables](card:Four%20immeasurables): loving-kindness, [compassion](card:Compassion), sympathetic joy and equanimity."
+        },
+        {
+          "t": "p",
+          "x": "The neighbors give goodwill different foundations. For Hume, [benevolence](card:Benevolence) is a natural sentiment treated in the second Enquiry. The Christian materials are [agape](card:Agape), the Pauline love given without regard to worth or return, and [enemy-love](card:Enemy-love), the Gospel's instruction to love the enemy (Matthew 5). Śāntideva's argument turns the enemy into an occasion: [enemy as teacher](card:Enemy%20as%20teacher) is his case that the adversary provides the practice of forbearance. [The free person loves all](card:The%20free%20person%20loves%20all) is Spinoza's version, the person living by reason desiring the good for everyone."
+        },
+        {
+          "t": "p",
+          "x": "For an unskillful state that has taken hold, [the counter-affect](card:The%20counter-affect) is the early discourses' own method: attention directed toward a theme or quality that counters the state (MN 20). In ethics, [the expanding circle](card:The%20expanding%20circle) is Singer's name for the history and task of widening moral concern. The social science of where ill will between groups comes from is [realistic conflict theory](card:Realistic%20conflict%20theory), and the finding that structured [intergroup contact](card:Intergroup%20contact) reduces it."
+        },
+        {
+          "t": "p",
+          "x": "The training the discourse prescribes for the ill-will-thought is stated plainly, it is abandoned:"
+        },
+        {
+          "t": "q",
+          "x": "\"Whenever thinking imbued with ill will had arisen, I simply abandoned it, dispelled it, wiped it out of existence.\" ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html))",
+          "s": null
+        },
+        {
+          "t": "h",
+          "x": "The third resolve: harmlessness"
+        },
+        {
+          "t": "p",
+          "x": "My positive rendering is refusing to add suffering. The Stoic and modern entries here are grouped by editorial connection: the path factor names a resolve, the neighbors answer kindred questions about harm, and I link them without claiming equivalence."
+        },
+        {
+          "t": "p",
+          "x": "[Ahimsa](card:Ahimsa) is the Indic principle of non-harm; I read it as a starting floor: whatever else a practice does, it begins by doing no injury. Two modern practices take non-harm as their subject: [nonviolent action](card:Nonviolent%20action) is Gene Sharp's theory of power and his documented methods, and [nonviolent communication](card:Nonviolent%20communication) is Rosenberg's process for reducing conflict in everyday interactions."
+        },
+        {
+          "t": "p",
+          "x": "The Stoic contribution is a claim about disturbance rather than harm itself: [judgment adds the harm](card:Judgment%20adds%20the%20harm), the position that events do not disturb people, the opinions about the events do (Enchiridion 5) — a claim I connect editorially to the harmlessness resolve. And [the inner friend](card:The%20inner%20friend) is Hecato's line via Seneca on making peace with oneself."
+        },
+        {
+          "t": "h",
+          "x": "How the resolve is trained"
+        },
+        {
+          "t": "p",
+          "x": "The factor is a resolve, and the discourses train it as a discipline of thought, which is what the translation \"right thought\" is reaching for. The Buddha's own method, before his awakening, was to sort his thinking:"
+        },
+        {
+          "t": "q",
+          "x": "\"So I made thinking imbued with sensuality, thinking imbued with ill will, & thinking imbued with harmfulness one sort, and thinking imbued with renunciation, thinking imbued with non-ill will, & thinking imbued with harmlessness another sort.\" ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The mechanism the discourse names is practice bending the mind:"
+        },
+        {
+          "t": "q",
+          "x": "\"Whatever a monk keeps pursuing with his thinking & pondering, that becomes the inclination of his awareness.\" ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The counter-affect has its own instruction in MN 20: attend to another theme, apart from the unskillful one, connected with what is skillful."
+        },
+        {
+          "t": "p",
+          "x": "The modern research on intention is less about training the thought than about closing the gap between aim and act. [Akrasia (weakness of will)](card:Akrasia%20%28weakness%20of%20will%29) is the standing problem that knowing the aim does not secure acting on it. [The intention-behavior gap](card:The%20intention-behavior%20gap) is Sheeran's measurement of how little intentions predict what people then do, and [implementation intentions](card:Implementation%20intentions) are Gollwitzer's if-then plans, advance decisions that link a situation to a response. The everyday scale of the discipline is [morning intention](card:Morning%20intention), the daily setting of one sentence of aim. [Intentionality](card:Intentionality) is Brentano's revival of the scholastic term for the mind's directedness at its objects — a different sense of intention from the aiming of a resolve."
+        },
+        {
+          "t": "h",
+          "x": "What a resolved life aims at"
+        },
+        {
+          "t": "p",
+          "x": "The resolve needs an object, and the traditions and the research both ask what. [Purpose](card:Purpose) is Frankl's account of purpose as the thing that lets a person bear almost any how. [Purpose-linked practice](card:Purpose-linked%20practice) is the self-transcendent purpose research on why people keep working at tedious tasks that matter (Yeager and colleagues). The Mahayana extension is [the bodhisattva vow](card:The%20bodhisattva%20vow), the commitment to work for the liberation of all beings rather than one's own alone."
+        },
+        {
+          "t": "p",
+          "x": "The measurement side asks the same question with instruments. The [Aspiration index](card:Aspiration%20index) measures what people aim at, intrinsic versus extrinsic, and [extrinsic aspirations](card:Extrinsic%20aspirations) is the finding that wealth, fame and image goals relate to lower well-being, and that a one-year study found attaining them showed no benefit and some links to ill-being."
+        },
+        {
+          "t": "p",
+          "x": "The fit of aim and person has its own theory: [self-concordance theory](card:Self-concordance%20theory) holds that goals fitting developing interests and core values sustain effort and make attaining more rewarding. Self-determination theory draws the line between the few innate needs whose satisfaction grows a person and the wants that can crowd them out in [distinguishing needs from wants](card:Distinguishing%20needs%20from%20wants%20%28SDT%29), and [eudaimonic motivation, intrinsic goals](card:Eudaimonic%20motivation%2C%20intrinsic%20goals) is my label for the pull toward intrinsic aspirations, affiliation, growth and contribution; the source paper frames the distinction as intrinsic versus extrinsic aspirations."
+        },
+        {
+          "t": "p",
+          "x": "The path itself then moves from resolve to conduct, which is where this page ends: [action over intention](card:Action%20over%20intention) is the label for the right action factor, which comes fourth on the path, after right speech."
+        },
+        {
+          "t": "h",
+          "x": "Related questions and parallels"
+        },
+        {
+          "t": "p",
+          "x": "The passages below are held side by side; whether the traditions disagree about them is an open research question. MN 19 commends renunciation-thinking; the Bhagavad Gita says abstention and renunciation alone do not attain perfection, and directs action without entitlement to its fruits:"
+        },
+        {
+          "t": "q",
+          "x": "\"Not by merely abstaining from work can one achieve freedom from reaction, nor by renunciation alone can one attain perfection.\" ([Bhagavad Gita 3.4](https://www.bhagavad-gita.us/bhagavad-gita-3-4/))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"You have a right to perform your prescribed duty, but you are not entitled to the fruits of action.\" ([Bhagavad Gita 2.47](https://www.bhagavad-gita.us/bhagavad-gita-2-47/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "These excerpts do not establish whether the traditions disagree about leaving household life: the MN 19 passage affirms renunciation-thinking without prescribing the abandonment of duties, and the Gita passages deny that renunciation is sufficient, not that it is beneficial. The three questions below gather further passages held side by side. The first two remain open, their carriers readable either way; the third carries a stated disagreement."
+        },
+        {
+          "t": "h2",
+          "x": "Is the resolve an abstention or a cultivation?"
+        },
+        {
+          "t": "p",
+          "x": "The proposition: freedom from ill will is the whole of the second resolve. The Magga-vibhanga Sutta states the resolve as an absence, being resolved on freedom from ill will. The Karaṇīya Metta Sutta describes goodwill as something cultivated without limit:"
+        },
+        {
+          "t": "q",
+          "x": "\"As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings. With good will for the entire cosmos, cultivate a limitless heart: Above, below, & all around, unobstructed, without enmity or hate.\" ([Sutta Nipāta 1.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Whether the two suttas disagree is the open question. Each can be read as answering the other's need: the resolve names the absence, the metta instruction names the cultivation, and nothing in either text rejects the other. The Two Sorts of Thinking discourse sits between them, treating non-ill will as a thought that is cultivated and kept; which reading the factor itself commits to is left open."
+        },
+        {
+          "t": "h2",
+          "x": "Less wanting or better wanting?"
+        },
+        {
+          "t": "p",
+          "x": "The proposition: wanting is best cured by aiming it better. The path's instruction contrasts the sensuality-thought with the renunciation-thought, and warns that pursuing the former bends the mind:"
+        },
+        {
+          "t": "q",
+          "x": "\"If a monk keeps pursuing thinking imbued with sensuality, abandoning thinking imbued with renunciation, his mind is bent by that thinking imbued with sensuality.\" ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The motivation science studies what people aim at and what aiming does to them. Ryan and Deci, summarising Kasser and Ryan's aspiration studies:"
+        },
+        {
+          "t": "q",
+          "x": "\"They found, first, that placing strong relative importance on intrinsic aspirations was positively associated with well-being indicators such as self-esteem, self-actualization, and the inverse of depression and anxiety, whereas placing strong relative importance on extrinsic aspirations was negatively related to these well-being indicators.\" ([Ryan & Deci 2000, Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The two findings run alongside each other: the aspiration studies report associations between what people emphasise and their well-being, and the path grades the aims it names. The question whether the resolve calls for less wanting or better wanting has a direct comparison inside the tradition's own commentary. Bodhi, writing on the renunciation resolve, marks desire for abandonment:"
+        },
+        {
+          "t": "q",
+          "x": "\"The Buddha's message of renunciation states exactly the opposite: the pull of desire is to be resisted and eventually abandoned. Desire is to be abandoned not because it is morally evil but because it is a root of suffering.\" ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Thanissaro, writing on the effort the path requires, marks desire as its working part:"
+        },
+        {
+          "t": "q",
+          "x": "\"It's worth noting here the centrality of desire in right effort. As AN 10:58 observes, all phenomena are rooted in desire. This observation applies to skillful as well as to unskillful phenomena. Without skillful desire, it would be impossible to develop the path (SN 51:15).\" ([Thanissaro Bhikkhu, Right Mindfulness](https://accesstoinsight.org/lib/authors/thanissaro/rightmindfulness.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The word desire is doing different work in the two passages. Bodhi's target is the desire that runs toward gratification, which he names a root of suffering; his own chapter on right effort distinguishes the energy behind practice from that pull, writing that the same factor \"fuels desire, aggression, violence, and ambition on the one hand, and generosity, self-discipline, kindness, concentration, and understanding on the other\" ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)). Thanissaro's skillful desire is the wish that moves practice. Read together, the two passages mark the same divide from two sides, craving to be abandoned and skillful wanting to be trained. What neither passage settles is whether the skillful wanting is itself relinquished when the work is done; that question stays open."
+        },
+        {
+          "t": "h2",
+          "x": "Is anger ever fitting?"
+        },
+        {
+          "t": "p",
+          "x": "Aristotle includes appropriate anger in good temper and criticizes its absence when warranted. The chapter on good temper praises the man angry at the right things, and counts those who never anger at what should anger them as fools, the endurance of insult as slavish:"
+        },
+        {
+          "t": "q",
+          "x": "\"The man who is angry at the right things and with the right people, and, further, as he ought, when he ought, and as long as he ought, is praised.\" ([Aristotle, Nicomachean Ethics IV.5, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"For those who are not angry at the things they should be angry at are thought to be fools... and to endure being insulted and put up with insult to one's friends is slavish.\" ([Aristotle, Nicomachean Ethics IV.5, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The Akkosa Sutta depicts the liberated person as free from anger even under insult ([SN 7.2](https://www.accesstoinsight.org/tipitaka/sn/sn07/sn07.002.than.html)). A brahman insults the Buddha to his face; the Buddha replies that the insult belongs to its giver:"
+        },
+        {
+          "t": "q",
+          "x": "\"In the same way, brahman, that with which you have insulted me, who is not insulting; that with which you have taunted me, who is not taunting; that with which you have berated me, who is not berating: that I don't accept from you. It's all yours, brahman. It's all yours.\" ([SN 7.2, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn07/sn07.002.than.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The Buddha then asks:"
+        },
+        {
+          "t": "q",
+          "x": "\"Whence is there anger for one free from anger, tamed, living in tune — one released through right knowing, calmed & Such.\" ([SN 7.2, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn07/sn07.002.than.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Their ideals differ over whether excellent character includes appropriate anger ([Aristotle, Nicomachean Ethics IV.5](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html); [SN 7.2](https://www.accesstoinsight.org/tipitaka/sn/sn07/sn07.002.than.html)). The passages leave unresolved whether a firm, anger-free response can perform the protective role Aristotle associates with anger."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying on this theme is the aim's default setting: wanting inherited rather than chosen, ill will rehearsed until it feels like seeing, harm done by habit rather than decision. The adaptive direction is the resolve itself, aims examined and chosen, ill will noticed as a thought that can be abandoned, harmlessness kept as a floor under whatever else is undertaken."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels I have selected as sources of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[K156 — Morning intention](card:K156%20%E2%80%94%20Morning%20intention): write or speak one sentence of intention for the day: what you want to stand for, what you want to practice, what matters today."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[K149 — Values clarification](card:K149%20%E2%80%94%20Values%20clarification): what you want your life to stand for, written in three to five domains, values as directions rather than goals."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[K150 — Values card-sort](card:K150%20%E2%80%94%20Values%20card-sort): a deck of values sorted by importance until the top ten stand out."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[K153 — Implementation intentions](card:K153%20%E2%80%94%20Implementation%20intentions): the if-then plan that specifies situation and response in advance, reducing reliance on in-the-moment decision-making."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[K154 — Mental contrasting (WOOP)](card:K154%20%E2%80%94%20Mental%20contrasting%20%28WOOP%29): wish, best outcome, main obstacle, plan; the contrast that links aspiration to resistance."
+        },
+        {
+          "t": "n",
+          "i": 6,
+          "x": "[K155 — Enough lines](card:K155%20%E2%80%94%20Enough%20lines): sufficiency defined in advance for each domain, while the judgment is still cold."
+        },
+        {
+          "t": "n",
+          "i": 7,
+          "x": "[K161 — Loving-kindness meditation](card:K161%20%E2%80%94%20Loving-kindness%20meditation): phrases of goodwill extended from yourself to a difficult person and all beings."
+        },
+        {
+          "t": "n",
+          "i": 8,
+          "x": "[K247 — Motivational interviewing (self-directed)](card:K247%20%E2%80%94%20Motivational%20interviewing%20%28self-directed%29): the ruler question asked of a change you are ambivalent about."
+        },
+        {
+          "t": "n",
+          "i": 9,
+          "x": "[K227 — Time-affluence audit](card:K227%20%E2%80%94%20Time-affluence%20audit): a periodic review of whether the trades of time for money can be reversed."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "A resolve proves itself in what a life starts doing differently, not in how the sentence of intention reads. The morning sentence, the enough line or the goodwill phrase has earned its place when, a week on, the aim still names what you actually did; what stays is a matter of fit between the resolve and the life it enters."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "The three resolves in narrative"
+        },
+        {
+          "t": "p",
+          "x": "[Meghiya Finds the Right Grove and the Wrong Thoughts](card:ST376%20%E2%80%94%20Meghiya%20Finds%20the%20Right%20Grove%20and%20the%20Wrong%20Thoughts): Meghiya gets the grove he wanted and, alone under the tree, meets thoughts of sensuality, ill will and harm; wanting the place to practise was not the same as knowing what to cultivate."
+        },
+        {
+          "t": "p",
+          "x": "[The Cowherd After the Harvest](card:ST352%20%E2%80%94%20The%20Cowherd%20After%20the%20Harvest): the Buddha's own two pictures of watching the mind, the cowherd guarding ripening crops with a stick, then resting in the shade simply mindful of the cows."
+        },
+        {
+          "t": "h2",
+          "x": "Choosing what to aim at"
+        },
+        {
+          "t": "p",
+          "x": "[The Aspiration Index](card:ST301%20%E2%80%94%20The%20Aspiration%20Index): Kasser and Ryan measure what people value and find the relative priority of money, image and fame, controlling for actual income, predicts worse outcomes."
+        },
+        {
+          "t": "h2",
+          "x": "Testing the aim"
+        },
+        {
+          "t": "p",
+          "x": "[The Kālāmas Test It](card:ST066%20%E2%80%94%20The%20K%C4%81l%C4%81mas%20Test%20It): teachers contradict each other in the Kālāmas' town, and the Buddha tells them to know for themselves which qualities, adopted and carried out, lead to harm and suffering and which to welfare and happiness."
+        },
+        {
+          "t": "h2",
+          "x": "Ill will and its costs"
+        },
+        {
+          "t": "p",
+          "x": "[The Quarrel at Kosambī](card:ST085%20%E2%80%94%20The%20Quarrel%20at%20Kosamb%C4%AB): monks at Kosambī quarrel over a point of monastic rule and harden into two factions; the Buddha's attempts to reconcile them fail and he leaves, and the episode's teaching is the founder's limits, reconciliation could not be imposed."
+        },
+        {
+          "t": "h2",
+          "x": "Harmlessness at the far end"
+        },
+        {
+          "t": "p",
+          "x": "[The Bodhisattva and the Tigress](card:ST086%20%E2%80%94%20The%20Bodhisattva%20and%20the%20Tigress): the bodhisattva finds a tigress too weak from hunger to feed her cubs and lies down where she can reach him. The tradition places this extreme case at the edge of the map as the far end of harmlessness; it is a story of what compassion can cost, not an instruction to readers."
+        }
+      ],
+      "group": "eightfold-path",
+      "status": "published",
+      "art": "assets/dossier-art/right-intention.jpg"
+    },
+    {
+      "id": "right-speech",
+      "title": "Right Speech",
+      "question": "What makes speech right, and when is silence the better part of it?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Words do most of their damage before anyone has decided anything about them, which is why the disciplines gathered here test words for truth, benefit and timing before releasing them. Silence has its own place in the account, and so do the lie that buys ease and the advice that burdens its hearer. The practice is taking words off autopilot."
+        },
+        {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "Truthful speech: held in the truth-telling group below."
+        },
+        {
+          "t": "p",
+          "x": "Right communication and speech ethics: the modern relatives, spread through the groups below."
+        },
+        {
+          "t": "p",
+          "x": "Idle talk and gossip: the abstentions group below."
+        },
+        {
+          "t": "p",
+          "x": "Listening: its own group below; listening is the other half of speech and I treat it as a practice in its own right."
+        },
+        {
+          "t": "h",
+          "x": "The path's own account"
+        },
+        {
+          "t": "p",
+          "x": "The path definition, in the Buddha's own words:"
+        },
+        {
+          "t": "q",
+          "x": "\"And what is right speech? Abstaining from lying, abstaining from divisive speech, abstaining from abusive speech, abstaining from idle chatter: This, monks, is called right speech.\" ([Thanissaro, SN 45.8](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Right speech](card:Right%20speech) is the third factor of the [Eightfold Path](card:Eightfold%20Path), the fourth Noble Truth's summary of the training, with the [Four Noble Truths](card:Four%20Noble%20Truths) as the diagnosis the whole path answers. [The three trainings](card:The%20three%20trainings) place the speech abstentions under virtue, alongside concentration and wisdom. The sibling factors each have their own card and dossier in this programme: [right intention](card:Right%20intention), [right action](card:Right%20action) and [right livelihood](card:Right%20livelihood)."
+        },
+        {
+          "t": "p",
+          "x": "Two dispositions run beneath the abstentions. [Ahimsa](card:Ahimsa) is the principle of non-harm that runs through the Indic traditions, the floor under the speech abstentions: whatever else speech does, it begins by doing no injury. And [metta (loving-kindness)](card:Metta%20%28loving-kindness%29), the Buddhist practice of goodwill and the first of the four brahmaviharas, is the disposition the [Right speech](card:Right%20speech) card pairs with the timing rule; the sutta's own word for its reason is sympathy for living beings."
+        },
+        {
+          "t": "h",
+          "x": "The abstentions, and what each one guards"
+        },
+        {
+          "t": "p",
+          "x": "The [Right speech](card:Right%20speech) card pairs the four abstentions with what each guards: truth against the lie, relation against the wedge, dignity against the insult, and attention against the noise."
+        },
+        {
+          "t": "p",
+          "x": "The lie has its own research programme. [Deception research](card:Deception%20research) studies how often people lie, why, and how well others detect it; its everyday finding is that lying is common and mostly minor. [Interpersonal Deception Theory](card:Interpersonal%20Deception%20Theory) is Buller and Burgoon's 1996 account treating deception as an interaction rather than a one-way act: it unfolds between people who send and read suspicious behaviors. The inward case is [self-deception](card:Self-deception), Sartre's bad faith: consciousness's permanent possibility of being what it is not and not being what it is, the lie told to oneself and half-known to be one."
+        },
+        {
+          "t": "p",
+          "x": "Two further findings complicate the truth side. [Fluency-driven illusory truth](card:Fluency-driven%20illusory%20truth) is repetition's subtle force, strong enough that people tend to believe what is easy to hear. And the insult turned inward has a clinical record: [harsh self-criticism](card:Harsh%20self-criticism) goes with psychopathology, an association rather than a prediction."
+        },
+        {
+          "t": "p",
+          "x": "The noise the fourth abstention guards against has its philosophical and Daoist accounts. [Idle talk (Gerede)](card:Idle%20talk%20%28Gerede%29) is Heidegger's account of everyday conversation as chatter: the ambiguous way people talk without engagement, the gossip's interpretation of the world. [Sparse speech](card:Sparse%20speech) is the Daoist discipline of saying little, on Daodejing 23's meteorological image: nature's loudest events are brief."
+        },
+        {
+          "t": "h",
+          "x": "Truth-telling, and its risks"
+        },
+        {
+          "t": "p",
+          "x": "The positive side of the first abstention is a virtue with its own classical treatment. [Truthfulness](card:Truthfulness) is Aristotle's account in Nicomachean Ethics IV.7: the truthful person calls a thing by its own name, the mean between the boaster and the mock-modest, inclined to understate. The formation rules that follow from it are [A019 — practice truthfulness (aletheia)](card:A019%20%E2%80%94%20Practice%20truthfulness%20%28aletheia%29), describing yourself and your standing accurately, and [A030 — practice integrity](card:A030%20%E2%80%94%20Practice%20integrity%20%E2%80%94%20consistency%20between%20thought%2C%20word%2C%20and%20deed), the word that matches the thought and the deed."
+        },
+        {
+          "t": "p",
+          "x": "Truth-telling that knows its cost has an ancient name: [parrhesia (frank speech)](card:Parrhesia%20%28frank%20speech%29) is the Greek term for frank truth-telling that knows it may cost the speaker; Foucault traced the word from Euripides through the Greco-Roman world. The Christian tradition's freedom claim has its card in [the truth sets you free](card:The%20truth%20sets%20you%20free), the John 8:32 saying."
+        },
+        {
+          "t": "p",
+          "x": "The modern findings complicate a simple truth-at-all-costs rule. [Prosocial honesty research](card:Prosocial%20honesty%20research) is Levine and Schweitzer's finding that receivers weight benevolence: a lie told to benefit the listener can raise trust more than a truth told at the listener's expense. And [partial truths in every opinion](card:Partial%20truths%20in%20every%20opinion) is Mill's argument in On Liberty that a prevailing opinion usually holds part of the truth, and the missing part tends to sit in the opinion it opposes."
+        },
+        {
+          "t": "p",
+          "x": "The boundary card is [correspondence theory of truth](card:Correspondence%20theory%20of%20truth): the old question of what makes a statement true, which a speech ethics has to borrow an answer from."
+        },
+        {
+          "t": "p",
+          "x": "Two witness traditions complete the group. [B145 — be truthful](card:B145%20%E2%80%94%20Be%20truthful) is the Cunda Kammaraputta Sutta's witness scene: if you don't know, say I don't know; no conscious lie for your own sake, for another's sake, or for the sake of any reward. [M028 — guard your speech; it is your face's edge](card:M028%20%E2%80%94%20Guard%20your%20speech%3B%20it%20is%20your%20face%27s%20edge) is the Florentine Codex's father-to-son advice: carry your words moderately, improve and soften your voice, for hurried or loud speech changes how others describe you."
+        },
+        {
+          "t": "h",
+          "x": "The benefit and timing tests"
+        },
+        {
+          "t": "p",
+          "x": "The abstentions name what to avoid; the positive demand is that speech be true, timely and beneficial. [Beneficial speech](card:Beneficial%20speech) is speech that is true and useful to the hearer rather than merely pleasing; the Gita names such words the austerity of speech, and the Abhaya Sutta's rule states only what is factual, true and beneficial, with a sense of the proper time."
+        },
+        {
+          "t": "p",
+          "x": "The popular three-question test — is it true, is it necessary, is it kind — is [the three gates of speech](card:The%20three%20gates%20of%20speech), with the attribution problem the card records: credited to Rumi but never to a specific work, and possibly a misquote. My own name for the Buddhist check run before speaking is the [speech gate](card:Speech%20gate), in its canonical Abhaya Sutta form, including the baby-on-the-lap image of why the gate exists. The six-case test the Buddha gave Prince Abhaya is the [wise speech criteria](card:Wise%20speech%20criteria), which holds truth and benefit apart from agreeableness and adds the time-sense."
+        },
+        {
+          "t": "p",
+          "x": "The Abhaya Sutta's own case list, with the timing rule in the middle of it:"
+        },
+        {
+          "t": "q",
+          "x": "\"[3] In the case of words that the Tathagata knows to be factual, true, beneficial, but unendearing & disagreeable to others, he has a sense of the proper time for saying them... [6] In the case of words that the Tathagata knows to be factual, true, beneficial, and endearing & agreeable to others, he has a sense of the proper time for saying them. Why is that? Because the Tathagata has sympathy for living beings.\" ([Thanissaro, MN 58](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "And the prince's answer, when the Buddha asks what he would do if the child took a stick or a pebble into its mouth, gives the image for why the gate exists at all:"
+        },
+        {
+          "t": "q",
+          "x": "\"If I couldn't get it out right away, then holding its head in my left hand and crooking a finger of my right, I would take it out, even if it meant drawing blood. Why is that? Because I have sympathy for the young boy.\" ([Thanissaro, MN 58](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The five-factor version the tradition also carries:"
+        },
+        {
+          "t": "q",
+          "x": "\"It is spoken at the right time. It is spoken in truth. It is spoken affectionately. It is spoken beneficially. It is spoken with a mind of good-will.\" ([Thanissaro, AN 5.198](https://www.accesstoinsight.org/tipitaka/an/an05/an05.198.than.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The kernel forms of the gate are [K208 — speech gate](card:K208%20%E2%80%94%20Speech%20gate), running the words through the gate before they leave, [K044 — speak slowly, and let speech be timely](card:K044%20%E2%80%94%20Speak%20slowly%2C%20and%20let%20speech%20be%20timely), slowing the utterance down enough for the gate to open and close, [B146 — test speech before it leaves](card:B146%20%E2%80%94%20Test%20speech%20before%20it%20leaves), the four questions before the words leave, and [B148 — speak lovingly](card:B148%20%E2%80%94%20Speak%20lovingly), the Dhammapada's counsel that hard truths can be spoken so the listener can receive them: speak not harshly to anyone, for those thus spoken to might retort."
+        },
+        {
+          "t": "h",
+          "x": "The listening side"
+        },
+        {
+          "t": "p",
+          "x": "Listening is the other half of the discipline. In the dialogical tradition, [listening](card:Listening) is the act by which another person becomes more than noise: Buber's genuine conversation as acceptance of otherness, with Levinas beside it. The Buddhist counterpart is [right listening](card:Right%20listening), the receiving half of the same discipline."
+        },
+        {
+          "t": "p",
+          "x": "The practice forms are various. [Active listening](card:Active%20listening) is the 1957 Rogers and Farson practice: restate the speaker's meaning in your own words, getting inside the speaker's point of view and conveying that you see it. [Deep listening](card:Deep%20listening) is listening with the sole intention of understanding, and its kernel is [K207](card:K207%20%E2%80%94%20Deep%20listening), the twenty-minute practice. [Hermeneutic listening](card:Hermeneutic%20listening) is Gadamer's hermeneutics making listening central to understanding: understanding has its own rigour, that of uninterrupted listening."
+        },
+        {
+          "t": "p",
+          "x": "The interactive kernels are [K366 — reflective listening: guess the meaning](card:K366%20%E2%80%94%20Reflective%20listening%3A%20guess%20the%20meaning), the Motivational Interviewing move of guessing at the meaning underneath and saying the guess out loud, so the correction is information, [K288 — voice-inclusion check](card:K288%20%E2%80%94%20Voice-inclusion%20check), before a decision affecting a group, and [K402 — listen to the storyteller for thirty seconds](card:K402%20%E2%80%94%20Listen%20to%20the%20storyteller%20for%20thirty%20seconds), the inner-speech variant: listening to your own mind's narration the way you would listen to a radio in another room, long enough to tell fact from commentary."
+        },
+        {
+          "t": "p",
+          "x": "Three research programmes round out the group. [Communication Accommodation Theory](card:Communication%20Accommodation%20Theory) is Howard Giles's account of how speakers adjust toward or away from each other, converging in accent, pace and posture to close social distance, or diverging to mark it. [Spiral of Silence Theory](card:Spiral%20of%20Silence%20Theory) is Noelle-Neumann's claim that the perception of being in a minority silences people. And [different voice](card:Different%20voice) is Gilligan's claim that the moral voice scored lowest by the justice tests is a different logic of care; a psychology that cannot hear it will mistake it for immaturity."
+        },
+        {
+          "t": "h",
+          "x": "Words that build or break the relation"
+        },
+        {
+          "t": "p",
+          "x": "How can a need be said without becoming a demand? [Nonviolent communication](card:Nonviolent%20communication) is Rosenberg's four-step structure — observation, feeling, need, request — aimed at giving conflict a shared language instead of a counterattack; its practice form is [K216](card:K216%20%E2%80%94%20Nonviolent%20communication), including the rule that a request is askable and refusable. [BE051 — learn to use I statements](card:BE051%20%E2%80%94%20Learn%20to%20use%20I%20statements%20%E2%80%94%20own%20your%20experience) is the assertion-training rule of owning the experience instead of assigning the blame, and [BE052 — learn assertiveness](card:BE052%20%E2%80%94%20Learn%20assertiveness%20%E2%80%94%20express%20needs%20and%20boundaries%20directly) is saying the need and the boundary without the aggression or the disappearance. The research behind it is [assertiveness research](card:Assertiveness%20research), Ames and Flynn's curvilinear finding: leaders markedly low or markedly high in assertiveness both rated less effective than those in the middle, with [assertiveness training](card:Assertiveness%20training) as the structured teaching and [K215 — assertiveness and boundaries](card:K215%20%E2%80%94%20Assertiveness%20and%20boundaries), the Bowers' DESC script, as the practice."
+        },
+        {
+          "t": "p",
+          "x": "What helps when someone is distressed? [AF075 — learn emotional validation](card:AF075%20%E2%80%94%20Learn%20emotional%20validation%20%E2%80%94%20acknowledging%20a%20feeling%20reduces%20its%20intensity) rests on a theory that treats acknowledging someone's feeling as understandable in their situation as itself a form of regulation; the study the card cites qualifies the effect as emotion-specific and dependent on the person's level of emotion dysregulation (Kuo and colleagues, 2022). Its companion is [AF074 — recognise co-rumination](card:AF074%20%E2%80%94%20Recognise%20co-rumination%20%E2%80%94%20sharing%20distress%20can%20amplify%20it): talking it over can also mean both people replaying it and rehearsing the grievance. And [K380 — the Two Teachers: change the tone, keep the lesson](card:K380%20%E2%80%94%20The%20Two%20Teachers%3A%20change%20the%20tone%2C%20keep%20the%20lesson) is the correction practice: same information, different tone, and the body can tell the difference; the contempt is the removable part."
+        },
+        {
+          "t": "p",
+          "x": "What does repairing harm require? [K338 — restorative conversation](card:K338%20%E2%80%94%20Restorative%20conversation) gives the four stations of the repair conversation for harm done: acknowledge what you did, describe the impact as you understand it, express regret, ask what repair would look like. The [Integrative Theory of Communication Work](card:Integrative%20Theory%20of%20Communication%20Work), Donovan and Hazlett's account of communication as effortful labour, was developed for the exchanges a health stressor demands. And the research-side check on speaking about other people's worlds is [conversation as method](card:Conversation%20as%20method), Jane Addams's precaution: take a neighbor with you when addressing an audience about their world, so any hasty generalization is curbed by an auditor who knows the conditions more intimately."
+        },
+        {
+          "t": "p",
+          "x": "What words do when they work is the philosophers' question. [Speech Act Theory](card:Speech%20Act%20Theory) is Austin's How to Do Things with Words: words do things, promising, warning and apologising are acts, not descriptions, and some utterances fail to be statements at all. [Dialogue](card:Dialogue) is the exchange in which each person turns to the other as a Thou rather than treating them as an It, with Buber, Gadamer and Marcel as the classic statements; [authentic communication](card:Authentic%20communication) is Buber's I-Thou, the direct address in which the other is met as a Thou rather than observed and described as an It."
+        },
+        {
+          "t": "p",
+          "x": "[Existential communication](card:Existential%20communication) is Jaspers's term for the exchange in which two people address each other as selves rather than as cases, with his claim that the authentic self does not exist prior to the exchange: I am only in communication with another. The empirical companion is [conversational research](card:Conversational%20research), Matthias Mehl's program recording everyday talk as it happens: in the original study higher well-being went with more substantive conversations and less small talk, and the 2018 replication held the substantive-conversation link but not the small-talk half."
+        },
+        {
+          "t": "h",
+          "x": "Plain words, slow words, and silence"
+        },
+        {
+          "t": "p",
+          "x": "The Daoist counsel runs against ornament. [Plain words over beautiful](card:Plain%20words%20over%20beautiful) is Laozi's counsel, in several translations, that true words are not beautiful and beautiful words are not true, with [D122 — prefer plain words to beautiful ones](card:D122%20%E2%80%94%20Prefer%20plain%20words%20to%20beautiful%20ones) as its formation rule. [The sage teaches without words](card:The%20sage%20teaches%20without%20words) is the Daodejing 2 companion piece, with [D135 — teach without words](card:D135%20%E2%80%94%20Teach%20without%20words), the paradoxical chapter 43 and 73 counsel, beside it. The chapter 5 counsel is [D119 — keep to the center](card:D119%20%E2%80%94%20Keep%20to%20the%20center%20%E2%80%94%20excess%20words%20exhaust): many words are exhausting and the useful response is not more words; [D118 — speak rarely (guayan)](card:D118%20%E2%80%94%20Speak%20rarely%20%28guayan%29) is the Daoist rule of rare speech, as distinct from muteness."
+        },
+        {
+          "t": "p",
+          "x": "The Buddhist and Christian silences answer from other places. [Thundering silence](card:Thundering%20silence) is the Vimalakirti Sutra's most famous moment: asked for his account of nonduality, Vimalakirti answers with nothing, and the silence is the answer. [B172 — value silence](card:B172%20%E2%80%94%20Value%20silence) is the MN 122 measure for talk: not engaging in talk that is base, vulgar, common, ignoble, unbeneficial; silence as the standard that sorts the kinds of talk. And [the word hidden in the heart](card:The%20word%20hidden%20in%20the%20heart) is the Psalm 119.11 entry on the word kept inward as formation, speech internalised rather than merely spoken."
+        },
+        {
+          "t": "p",
+          "x": "Silence has its own research and its own warning. [Silence as evidence](card:Silence%20as%20evidence) is Peirce's warning in The Fixation of Belief: agreement produced by force is not agreement at all; let all men who reject the established belief be terrified into silence. [Silence in negotiation research](card:Silence%20in%20negotiation%20research) is Curhan and colleagues' experiments on extended silence: pauses of at least three seconds, dyad-level, correlate with value creation in bargaining."
+        },
+        {
+          "t": "p",
+          "x": "The inner register of speech closes the group. [Distanced self-talk (Kross)](card:Distanced%20self-talk%20%28Kross%29) is referring to yourself by name or non-first-person pronouns while reflecting on something stressful; Kross's studies found it enhances self-distancing, and Moser's brain-marker evidence suggests it may be a relatively effortless form of self-control, a claim the card holds as possibility. [Self-talk research](card:Self-talk%20research) is the study of what people say to themselves, its content and its effects; Hardy, Hall and Hardy's finding is that athletes' self-talk is generally positive, covert and abbreviated."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Must right words be pleasing?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: when speech is true and useful, must it also be agreeable to its hearer? The Bhagavad Gita's definition of the austerity of speech folds the hearer's ease into the definition:"
+        },
+        {
+          "t": "q",
+          "x": "\"Speaking words that cause no agitation and that are truthful, pleasing and beneficial, as well as reciting the Vedas, are all said to be austerities of speech.\" ([Bhagavad Gita 17.15, Wisdom Library](https://www.wisdomlib.org/hinduism/book/shrimad-bhagavad-gita/d/doc420281.html)). Edwin Arnold's rendering of the same verse, in [The Song Celestial on Project Gutenberg](https://www.gutenberg.org/cache/epub/2388/pg2388.txt), reads \"Words causing no man woe, words ever true, / Gentle and pleasing words\".",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The Abhaya Sutta's case list, by contrast, in its third case, admits words that are factual, true, beneficial, and unendearing, to be said at the proper time, and the reason given is sympathy, not its absence. In the passages cited, the two definitions answer that question differently: the Gita verse folds pleasantness into the definition of the austerity of speech, while the Abhaya Sutta's third case admits unendearing words said at the proper time, with sympathy as the reason. Whether the broader traditions part over pleasantness is not established by these two passages alone. What remains unresolved is where the line falls in the hard case: a truth that is beneficial, unendearing, and whose hearer is not ready for it."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying on this theme is the rush from impression to utterance: the volume mistaken for truth, the venting mistaken for honesty, the advice that relieves the speaker and burdens the hearer, and the fluency of a repeated claim mistaken for its being so. The adaptive direction is the gap between the stir and the saying: the words run through the gate of true, timely, beneficial, and kind, the listening done before the verdict, and the plain word preferred to the beautiful one."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The practices I have selected as sources of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[K208 — Speech gate](card:K208%20%E2%80%94%20Speech%20gate): run the waiting words through the gate: factual, beneficial, timely, kind, in that order of refusal."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[K216 — Nonviolent communication](card:K216%20%E2%80%94%20Nonviolent%20communication): the four steps, observation without evaluation first, the request askable and refusable."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[K044 — Speak slowly, and let speech be timely](card:K044%20%E2%80%94%20Speak%20slowly%2C%20and%20let%20speech%20be%20timely): slow the utterance down enough for the gate to operate."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[K207 — Deep listening](card:K207%20%E2%80%94%20Deep%20listening): twenty minutes of listening with the sole intention of understanding, no advice and no rebuttal."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[K366 — Reflective listening: guess the meaning](card:K366%20%E2%80%94%20Reflective%20listening%3A%20guess%20the%20meaning): guess at the meaning underneath and say the guess as a statement; the correction is information."
+        },
+        {
+          "t": "n",
+          "i": 6,
+          "x": "[K288 — Voice-inclusion check](card:K288%20%E2%80%94%20Voice-inclusion%20check): before a decision closes, the check that the affected parties have been heard, and that the hearing is on the record."
+        },
+        {
+          "t": "n",
+          "i": 7,
+          "x": "[K380 — The Two Teachers: change the tone, keep the lesson](card:K380%20%E2%80%94%20The%20Two%20Teachers%3A%20change%20the%20tone%2C%20keep%20the%20lesson): rewrite the corrective sentence in the voice of a teacher who is on your side; the contempt is the removable part."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "The review question is practical: which conversations went differently, and which of these practices was in play when they did? A gate or a listening rule stays when you can name the exchange it changed; what stays is a matter of fit between the practice and the life it enters."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "Words examined before they are believed"
+        },
+        {
+          "t": "p",
+          "x": "[The Kālāmas Test It](card:ST066%20%E2%80%94%20The%20K%C4%81l%C4%81mas%20Test%20It): teachers pass through the town contradicting each other, each claiming sole truth, and the Buddha tells the Kālāmas to test teachings in their own conduct and know for themselves which things lead to welfare."
+        },
+        {
+          "t": "p",
+          "x": "[Juror 8 Just Wants to Talk](card:ST131%20%E2%80%94%20Juror%208%20Just%20Wants%20to%20Talk): eleven jurors vote guilty at once and one says only that he does not know and wants to talk."
+        },
+        {
+          "t": "h2",
+          "x": "The one sentence that holds"
+        },
+        {
+          "t": "p",
+          "x": "[Ciñcā Accuses the Buddha Before the Assembly](card:ST387%20%E2%80%94%20Ci%C3%B1c%C4%81%20Accuses%20the%20Buddha%20Before%20the%20Assembly): a woman fakes pregnancy and accuses the Buddha before the crowd, and his one sentence, whether her words are true or false is known only to her and to him, is the whole defense; the deception unmasks itself."
+        },
+        {
+          "t": "p",
+          "x": "[The Buddha's Last Words](card:ST343%20%E2%80%94%20The%20Buddha%27s%20Last%20Words): on the final journey he three times invites the assembled monks to raise any doubt or perplexity about the Buddha, the Dhamma, the Sangha, the path or the practice, three times the monks sit silent, and the sentence the sutta records as his last follows between the sal trees."
+        },
+        {
+          "t": "h2",
+          "x": "The friends who talk too much"
+        },
+        {
+          "t": "p",
+          "x": "[Job and the Whirlwind](card:ST290%20%E2%80%94%20Job%20and%20the%20Whirlwind): Job's three friends arrive to comfort him and instead explain at length that his suffering must be punishment, and God's answer from the whirlwind is a series of questions, with the friends rebuked for not speaking of God what is right."
+        },
+        {
+          "t": "h2",
+          "x": "Silence that answers"
+        },
+        {
+          "t": "p",
+          "x": "[Thomas More Keeps Silence](card:ST225%20%E2%80%94%20Thomas%20More%20Keeps%20Silence): the Lord Chancellor refuses to sign the oath recognising Henry VIII's supremacy and refuses to say why: his silence, he argues, is the law's, and his conscience his own; he is executed, and his final words on the scaffold are that he dies the king's good servant, but God's first."
+        },
+        {
+          "t": "p",
+          "x": "[Fayan Carries a Stone and Runs Out of Words](card:ST359%20%E2%80%94%20Fayan%20Carries%20a%20Stone%20and%20Runs%20Out%20of%20Words): a month of new views and new reasons, each met with the same refusal, until Fayan says he has exhausted his stock of words and reason, and the awakening comes after the words run out."
+        },
+        {
+          "t": "h2",
+          "x": "What speech does when it cannot"
+        },
+        {
+          "t": "p",
+          "x": "[Alice Loses the Words](card:ST276%20%E2%80%94%20Alice%20Loses%20the%20Words): a linguistics professor loses her words to early-onset Alzheimer's, and the film ends with her daughter reading to her, Alice unable to follow the plot but following the sentence."
+        },
+        {
+          "t": "h2",
+          "x": "Speech as public architecture"
+        },
+        {
+          "t": "p",
+          "x": "[Tutu and the Truth Commission](card:ST227%20%E2%80%94%20Tutu%20and%20the%20Truth%20Commission): the commission offers amnesty in exchange for full public disclosure of political crimes; perpetrators testify in public, victims testify, and the two streams are recorded in the same archive."
+        },
+        {
+          "t": "h2",
+          "x": "Whose voice counts as reasoning"
+        },
+        {
+          "t": "p",
+          "x": "[Gilligan's Different Voice](card:ST246%20%E2%80%94%20Gilligan%27s%20Different%20Voice): working in Kohlberg's moral-development research programme, Gilligan notices that the tests systematically scored women lower, and asks whether the fault is in the women or the instrument."
+        }
+      ],
+      "group": "eightfold-path",
+      "status": "published",
+      "art": "assets/dossier-art/right-speech.jpg"
+    },
+    {
+      "id": "right-action",
+      "title": "Right Action",
+      "question": "What restraints on the body make a life livable with itself?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Right action is the fourth factor of the Eightfold Path: what the body does when it does no harm. The precepts are short, and the life they point to is not: a floor of non-harm under conduct, with the counterparts practised above that floor. A life whose conduct keeps the floor is livable with itself in a way a life of unexamined habit is not."
+        },
+        {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "Right conduct, ethical action: other renderings of the same Pali factor, sammā kammanta; my card is [Right action](card:Right%20action), and nothing is split between the names."
+        },
+        {
+          "t": "p",
+          "x": "Non-harm: the floor this factor rests on. The harmlessness resolve as an intention belongs to the Right Intention page; this page holds the bodily restraints that resolve issues in."
+        },
+        {
+          "t": "p",
+          "x": "Behaviour: the general science of habit formation stays there; this page holds the path's ethical restraints on bodily conduct."
+        },
+        {
+          "t": "p",
+          "x": "Right speech and right livelihood: the neighbouring conduct factors, each with its own page and dossier."
+        },
+        {
+          "t": "p",
+          "x": "Spontaneous right action: Wang Yangming's doctrine that knowing the good already issues in acting; it returns in the question of whether knowledge can coexist with failure to act."
+        },
+        {
+          "t": "h",
+          "x": "What the factor is"
+        },
+        {
+          "t": "p",
+          "x": "The definition is stated in one breath. The [Magga-vibhanga Sutta](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html) gives it:"
+        },
+        {
+          "t": "q",
+          "x": "\"And what, monks, is right action? Abstaining from taking life, abstaining from stealing, abstaining from unchastity: This, monks, is called right action.\" ([SN 45.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Right action](card:Right%20action) is the fourth factor of the [Eightfold Path](card:Eightfold%20Path), and [the three trainings](card:The%20three%20trainings) group it under the ethics training, with wisdom and concentration as the other two. The conduct factors sit together on the path — speech first, then action, then livelihood — and each has its own page and dossier."
+        },
+        {
+          "t": "p",
+          "x": "[Action over intention](card:Action%20over%20intention) is my label for this factor, marking where the path moves from resolve to conduct. The resolves were trained first, and here they have to show up in what the hands do, which is where most intentions meet their test."
+        },
+        {
+          "t": "p",
+          "x": "The factor is also where conduct touches what [karma](card:Karma) is, because intentional conduct through body, speech or mind is what sets results going, and this factor holds the bodily side of it. The precepts name three abstentions and leave the positive side to be inferred; Bhikkhu Bodhi's study of the path supplies the counterparts. For taking life:"
+        },
+        {
+          "t": "q",
+          "x": "\"The positive counterpart to abstaining from taking life, as the Buddha indicates, is the development of kindness and compassion for other beings. The disciple not only avoids destroying life; he dwells with a heart full of sympathy, desiring the welfare of all beings.\" ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "And for the third abstention:"
+        },
+        {
+          "t": "q",
+          "x": "\"The positive virtue corresponding to the abstinence is, for laypeople, marital fidelity. Husband and wife should each be faithful and devoted to the other, content with the relationship, and should not risk a breakup to the union by seeking outside partners.\" ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "So the factor is a floor with practices above it: abstain from three things, cultivate compassion, honesty, contentment, generosity and fidelity. [Spontaneous right action](card:Spontaneous%20right%20action) — Wang Yangming's doctrine that knowing the good already issues in acting — waits with the question of whether knowledge can fail to act."
+        },
+        {
+          "t": "h",
+          "x": "The first restraint: taking life"
+        },
+        {
+          "t": "p",
+          "x": "The first abstention is taking life, and the traditions around it agree on a floor before they disagree about the ceiling. [Ahimsa](card:Ahimsa) is the Indic principle of non-harm; I read it as the starting floor of this factor: whatever else a practice does, it begins by doing no injury. The counterpart Bodhi names first is [compassion](card:Compassion), being moved by suffering and motivated to act, and [courage — action despite fear](card:Courage%20%E2%80%94%20action%20despite%20fear) is the courage the counterparts can demand, acting for the sake of something despite fear."
+        },
+        {
+          "t": "p",
+          "x": "The modern practices built on refusing harm while still acting have their own cards. [Nonviolent action](card:Nonviolent%20action) is Gene Sharp's theory of power and his documented methods of nonviolent action; [nonviolent communication](card:Nonviolent%20communication) is Rosenberg's process for reducing conflict in everyday interactions. Both take non-harm as a working method rather than a rule to keep."
+        },
+        {
+          "t": "p",
+          "x": "Two neighbouring claims about harm belong here by editorial connection rather than equivalence. [Harm principle](card:Harm%20principle) is Mill's principle for when society may coerce an adult, the boundary question of harm done to others; [judgment adds the harm](card:Judgment%20adds%20the%20harm) is the Stoic claim that events do not disturb people, the opinions about the events do — a claim about disturbance rather than harm done. The ceiling question, whether taking life can ever be right action, is where the Christian tradition answers differently — [conduct even in just war](card:Conduct%20even%20in%20just%20war) is Aquinas's three requirements for a just war, with the warning that a war can meet two of them and still be rendered unlawful through a wicked intention — and it is the first genuine disagreement below."
+        },
+        {
+          "t": "h",
+          "x": "The second restraint: taking what is not given"
+        },
+        {
+          "t": "p",
+          "x": "The second abstention is taking what is not given, and its positive side is a cluster rather than one virtue. Bodhi's study names them together:"
+        },
+        {
+          "t": "q",
+          "x": "\"The positive counterpart to abstaining from stealing is honesty, which implies respect for the belongings of others and for their right to use their belongings as they wish. Another related virtue is contentment, being satisfied with what one has without being inclined to increase one's wealth by unscrupulous means. The most eminent opposite virtue is generosity, giving away one's own wealth and possessions in order to benefit others.\" ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Generosity](card:Generosity) is Aristotle's liberality, the mean with regard to wealth, concerned especially with giving; [truthfulness](card:Truthfulness) is his account in Nicomachean Ethics IV.7, the character of a person true in word and in life where nothing is at stake. The research on truth-telling that hurts — [prosocial honesty research](card:Prosocial%20honesty%20research) — belongs with the speech factor's honesty question; I group it here by editorial connection, because it is about honesty rather than bodily conduct."
+        },
+        {
+          "t": "h",
+          "x": "The third restraint: sexual misconduct"
+        },
+        {
+          "t": "p",
+          "x": "The third abstention is sexual misconduct, and its positive counterpart for laypeople is fidelity. [Fidelity](card:Fidelity) is Gabriel Marcel's treatment of fidelity as more than keeping a promise: the problem of constancy. The abstention states a boundary; the counterpart names what has to be kept alive inside it, which is why the tradition treats the pairing as a standing practice rather than a line not to cross."
+        },
+        {
+          "t": "h",
+          "x": "How conduct is trained"
+        },
+        {
+          "t": "p",
+          "x": "The restraints state what not to do; the training question is how a person comes to do them. The traditions answer with rules, with character, and with situations, and they do not agree about which does the work."
+        },
+        {
+          "t": "h2",
+          "x": "The rule answer"
+        },
+        {
+          "t": "p",
+          "x": "[The categorical imperative](card:The%20categorical%20imperative) is Kant's supreme principle of morality, binding regardless of what a person wants: the restraint stated as a universal law. Its companion on the motivational side is [the courage to act against impulse](card:The%20courage%20to%20act%20against%20impulse), Kant's account of acting from duty against inclination, my own heading for it. The rule answer is the purest form of the training: decide once, universally, and let the decision carry the moment."
+        },
+        {
+          "t": "p",
+          "x": "The character answer instead asks what kind of person is doing the acting. [Natural virtue](card:Natural%20virtue) is Aristotle's name for the dispositions people seem to have from birth, set against virtue in the strict sense where the difference is practical wisdom; [the catalogue of virtues](card:The%20catalogue%20of%20virtues) is his table of the character virtues as means between vices of excess and deficiency; [cardinal virtues](card:Cardinal%20virtues) are the four hinge virtues — prudence, justice, fortitude and temperance — on which the classical tradition says the whole of moral life turns."
+        },
+        {
+          "t": "p",
+          "x": "[Virtue ethics](card:Virtue%20ethics) is the normative approach that puts character first, contrasted with deontology and consequentialism; [the unity of the virtues](card:The%20unity%20of%20the%20virtues) is the thesis, argued by Socrates in the Protagoras and reworked by Aristotle in Nicomachean Ethics VI, that the virtues come together rather than standing as separate talents. If the virtues unify, training one trains the others; the catalogue is not a menu."
+        },
+        {
+          "t": "h2",
+          "x": "How character forms"
+        },
+        {
+          "t": "p",
+          "x": "Aristotle's account of virtue of character holds that character is formed by doing:"
+        },
+        {
+          "t": "q",
+          "x": "\"men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.\" ([Aristotle, Nicomachean Ethics II.1, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The habituation ordering runs through several traditions. [Action before feeling](card:Action%20before%20feeling) is my application of Aristotle's habituation ordering: the Ethics itself teaches habituation, and II.4 distinguishes performing a just action from acting as a just person. [Action precedes feeling](card:Action%20precedes%20feeling) is the same act-first claim from Epictetus's counsels to William James's habit essay. [The rehearsal of virtue](card:The%20rehearsal%20of%20virtue) is the Stoic practice of running doctrine through action until the mind takes its shape, Seneca's defense of precepts in Letter 94."
+        },
+        {
+          "t": "p",
+          "x": "Two further formations widen the road. [Moral cultivation (xiushen)](card:Moral%20cultivation%20%28xiushen%29) is the Confucian practice of building moral character; the term literally reads as body-fixing, and the body in the phrase is the one this factor restrains. [Effortless action through long effort](card:Effortless%20action%20through%20long%20effort) is the far end of the same road: effortlessness in action as skill matured until the act stops feeling like an act."
+        },
+        {
+          "t": "p",
+          "x": "The clinical and commitment-based versions translate the same insight. [Opposite action (Linehan)](card:Opposite%20action%20%28Linehan%29) is the DBT skill of acting against the action urge that comes with an emotion; [action commitment](card:Action%20commitment) is ACT's committed action, one act consistent with a chosen value, however small. [Self-constitution through action](card:Self-constitution%20through%20action) is Kierkegaard's Judge Vilhelm: choosing shapes personality, and a life that keeps choice at arm's length loses definition."
+        },
+        {
+          "t": "p",
+          "x": "The traditions also ask what the formed person is acting for. [Svadharma, one's own duty](card:Svadharma%2C%20one%27s%20own%20duty) is the Bhagavad Gita's teaching that one's own duty, however imperfect, is better than another's done well; [the bodhisattva vow](card:The%20bodhisattva%20vow) is the Mahayana commitment to work for the liberation of all beings, conduct undertaken for everyone's sake; [skillful means (upaya)](card:Skillful%20means%20%28upaya%29) is the Lotus Sutra's flexible application of the teaching to the situation."
+        },
+        {
+          "t": "h2",
+          "x": "The situation answer"
+        },
+        {
+          "t": "p",
+          "x": "[The moral situation](card:The%20moral%20situation) is Dewey's term for where morality actually happens: the concrete meeting of a person's dispositions with an environment, beyond both the rule and the inner self. [Moral situation research](card:Moral%20situation%20research) is the situationist literature behind the claim that context dominates in real moral choice: Doris's Lack of Character, the hurrying seminarians, Milgram's obedience findings. If situations do that much of the work, the training is not only inward."
+        },
+        {
+          "t": "p",
+          "x": "The design answer follows from the situation answer. [Designing for virtue](card:Designing%20for%20virtue) is the design-research idea that products and environments can support virtuous behaviour, the third ingredient of the Positive Design Framework; [designing the environment for virtue](card:Designing%20the%20environment%20for%20virtue) is arranging the settings of action, from laws and institutions down to the room one works in, so that virtuous acts become the ones a person repeatedly performs. [Ethics as foundation](card:Ethics%20as%20foundation) is Johnston's reading of Yoga Sūtra II.29 — the Commandments, non-injury, truthfulness, abstention from stealing — placed before the Rules, conduct as the foundation of practice."
+        },
+        {
+          "t": "h2",
+          "x": "How moral reasoning develops"
+        },
+        {
+          "t": "p",
+          "x": "[Kohlberg's theory of moral development](card:Kohlberg%27s%20theory%20of%20moral%20development) and [moral development research](card:Moral%20development%20research) are the research tradition on how moral reasoning develops, from stage theory to the intuition approaches that followed; the tradition measures whether reasoning leads conduct, not only what conduct is right."
+        },
+        {
+          "t": "p",
+          "x": "[Social cognitive theory of morality](card:Social%20cognitive%20theory%20of%20morality) is Bandura's account of moral conduct through the interaction of personal standards, self-regulation and social circumstances; [moral disengagement research](card:Moral%20disengagement%20research) is his account of how moral self-sanctions are selectively disengaged from inhumane conduct. The disengagement finding matters for this factor directly: the abstentions fail most often not by decision but by the quiet rearrangement of what counts."
+        },
+        {
+          "t": "h2",
+          "x": "The relational accounts"
+        },
+        {
+          "t": "p",
+          "x": "The relational traditions hold that conduct is answerable to particular others rather than to a rule or a character alone. [Care ethics](card:Care%20ethics) and [Gilligan's ethics-of-care theory](card:Gilligan%27s%20ethics-of-care%20theory) are moral reasoning with more than one voice, the relationship-oriented ethic of care contrasted with the ethic of justice; [role ethics](card:Role%20ethics) is the family of views on which a person's roles and relationships are central to what is morally required and to who the person is."
+        },
+        {
+          "t": "p",
+          "x": "[Confucian role ethics](card:Confucian%20role%20ethics) holds the Analects material — the role-ethics card keeps Confucius's Analects and MacIntyre's After Virtue apart. [The call of conscience](card:The%20call%20of%20conscience) and [conscience (Gewissen)](card:Conscience%20%28Gewissen%29) are Heidegger's account of Dasein summoned out of its lostness in the \"they\": conscience as the call."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "May taking life ever be right action?"
+        },
+        {
+          "t": "p",
+          "x": "The path's definition states the restraint without exception:"
+        },
+        {
+          "t": "q",
+          "x": "\"Abstaining from taking life, abstaining from stealing, abstaining from unchastity: This, monks, is called right action.\" ([SN 45.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The Christian tradition codifies the other answer, that taking up the sword of war can be lawful conduct. Aquinas asks whether it is always sinful to wage war, and the reply opens by giving what makes a war just:"
+        },
+        {
+          "t": "q",
+          "x": "\"In order for a war to be just, three things are necessary. First, the authority of the sovereign by whose command the war is to be waged.\" ([Aquinas, Summa Theologiae II-II, q.40, a.1](https://www.newadvent.org/summa/3040.htm)).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The permission is bounded, not an endorsement of harm for its own sake; the same article condemns the passion for inflicting harm and the cruel thirst for vengeance in war. The two answers to the same question are incompatible: the definition of right action names abstaining from taking life, and the just-war tradition names the conditions under which a sovereign may rightly command it. I hold both sides, the non-harm floor on one side and the just-war card on the other, and do not reconcile them."
+        },
+        {
+          "t": "h2",
+          "x": "Can knowledge coexist with failure to act?"
+        },
+        {
+          "t": "p",
+          "x": "In Aristotle's report, Socrates denies that someone can knowingly act against what they judge best."
+        },
+        {
+          "t": "q",
+          "x": "\"Socrates in fact contended generally against the theory, maintaining there is no such state as that of Imperfect Self-Control, for that no one acts contrary to what is best conceiving it to be best but by reason of ignorance what is best.\" ([Aristotle, Nicomachean Ethics VII.2, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Wang Yangming's doctrine of the unity of knowledge and action holds the same shape, that genuinely knowing already issues in acting:"
+        },
+        {
+          "t": "q",
+          "x": "\"There have never been people who know but do not act. Those who are supposed to know but do not act simply do not yet know.\" ([Internet Encyclopedia of Philosophy, \"Wang Yangming (1472—1529)\"](https://iep.utm.edu/wangyang/)).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Aristotle, in the same discussion, calls the plain facts against him:"
+        },
+        {
+          "t": "q",
+          "x": "\"With all due respect to Socrates, his account of the matter is at variance with plain facts, and we must enquire with respect to the affection, if it be caused by ignorance what is the nature of the ignorance: for that the man so failing does not suppose his acts to be right before he is under the influence of passion is quite plain.\" ([Aristotle, Nicomachean Ethics VII.2, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Aristotle's resolution, later in Book VII, moves part of the way back toward Socrates:"
+        },
+        {
+          "t": "q",
+          "x": "\"the result which Socrates was seeking comes out, that is to say, the affection does not take place in the presence of that which is thought to be specially and properly Knowledge, nor is this dragged about by reason of the affection, but in the presence of that Knowledge which is conveyed by Sense.\" ([Aristotle, Nicomachean Ethics VII.3, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Wang's knowledge, as the reference article presents it, is knowing how to respond rather than grasping information:"
+        },
+        {
+          "t": "q",
+          "x": "\"For Wang, knowledge means knowing how to respond to a given situation and action is responding to a given situation.\" ([Internet Encyclopedia of Philosophy, \"Wang Yangming (1472—1529)\"](https://iep.utm.edu/wangyang/)).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Socrates, as Aristotle reports him, denies the state exists, and Aristotle calls the plain facts against him, then moves part of the way back with the resolution above. The fit between the two sides' terms can be argued from both texts. Wang's own account of the failure state supplies his side. His disciple Xu Ai records the exchange in Instructions for Practical Living:"
+        },
+        {
+          "t": "q",
+          "x": "\"The Teacher said, \"The knowing and acting you refer to are already separated by selfish desires and are no longer knowing and acting in their original substance. There have never been people who know but do not act. Those who are supposed to know but do not act simply do not yet know. When sages and worthies taught people about knowing and acting, it was precisely because they wanted them to restore this original substance, and not just to have them behave like that and be satisfied.\"\" ([Wang Yangming, Instructions for Practical Living, in Wm. Theodore de Bary and Irene Bloom (comps.), Sources of Chinese Tradition, via Columbia University Asia for Educators](https://afe.easia.columbia.edu/main_pop/ps/ps_china-wang-yangming-knowing-acting.htm)).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The knowing that fails to act is, in Wang's terms, already separated by selfish desires; the original substance of knowing and acting does not fail. Aristotle's resolution in Book VII makes a parallel qualification: the affection does not take place in the presence of Knowledge proper, only in the presence of the sense-conveyed knowing that passion can drag about. Both accounts qualify what counts as knowing when action fails to follow it; the precise relation between Wang's original substance and Aristotle's Knowledge proper remains open."
+        },
+        {
+          "t": "p",
+          "x": "The two accounts also differ in emphasis. Aristotle's chapter on virtue of character forms the agent through practice, becoming just by doing just acts; Wang's instruction points to restoring the original substance, removing the selfish desires that did the separating. Whether character formed through practice and knowing restored by clearing are one work or two is not settled by the passages."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying on this theme is the default setting of bodily conduct: harm done by convenience, giving governed by mood, fidelity held only while feeling holds, courage postponed until the moment passes. The adaptive direction is the factor's own shape, the non-harm floor kept under whatever else is undertaken, and the counterparts, compassion, generosity, fidelity, practiced above it."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels I have selected as sources of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[K250 — Virtue rehearsal](card:K250%20%E2%80%94%20Virtue%20rehearsal): pick one virtue and practise it in small daily acts that get written down, drawing on Aristotle's habituation teaching and Franklin's chart."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[K255 — Virtue journaling](card:K255%20%E2%80%94%20Virtue%20journaling): each evening, one sentence, the virtue, the situation, the action; a training log rather than a diary."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[K263 — Post-action phronesis review](card:K263%20%E2%80%94%20Post-action%20phronesis%20review): after a significant action, four questions, the intention, the outcome, the gap, the revision."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[K266 — Impression-judgement-action log](card:K266%20%E2%80%94%20Impression-judgement-action%20log): a three-column log for one week, the impression, the judgement, the action, training the gap Epictetus puts at the root of disturbance."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[K184 — Opposite action](card:K184%20%E2%80%94%20Opposite%20action): when an emotion urges a behaviour that runs counter to your values, do the opposite; the action does not deny the emotion, it refuses to let it drive."
+        },
+        {
+          "t": "n",
+          "i": 6,
+          "x": "[K152 — Committed action](card:K152%20%E2%80%94%20Committed%20action): one action today consistent with a chosen value, however small; the action matters more than the feeling."
+        },
+        {
+          "t": "n",
+          "i": 7,
+          "x": "[K290 — Prosocial courage drill](card:K290%20%E2%80%94%20Prosocial%20courage%20drill): a standing weekly slot for speaking up where unfairness would normally be met with silence, converting the act from a decision under pressure into a decision already made."
+        },
+        {
+          "t": "n",
+          "i": 8,
+          "x": "[K216 — Nonviolent communication](card:K216%20%E2%80%94%20Nonviolent%20communication): the four-step structure for conflict, observation, feeling, need, request, giving dispute a shared language instead of a counterattack."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them. A reader who keeps the evening sentence, or the weekly slot, or the three-column log has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "The stopped harm"
+        },
+        {
+          "t": "p",
+          "x": "[ST405 — Angulimala Is Told to Bear the Stones](card:ST405%20%E2%80%94%20Angulimala%20Is%20Told%20to%20Bear%20the%20Stones): Angulimala, the bandit wearing a garland of fingers, cannot catch the Buddha walking at normal pace, hears the explanation that the Buddha has stopped \"once & for all\" having cast off violence toward all living beings, and throws his sword over a cliff; the clod, stone and potsherd thrown at him on his alms round are met with the Buddha telling him to bear it as the fruit of karma now experienced in the here-&-now."
+        },
+        {
+          "t": "h2",
+          "x": "Harm discovered late"
+        },
+        {
+          "t": "p",
+          "x": "[ST087 — Schindler's List](card:ST087%20%E2%80%94%20Schindler%27s%20List): Schindler arrives in Kraków as a profiteer and ends with his entire fortune spent buying lives; the card's own reading is that the film does not depict him as having become good, it depicts him discovering too late what the money had been for all along."
+        },
+        {
+          "t": "h2",
+          "x": "Taking for others"
+        },
+        {
+          "t": "p",
+          "x": "[ST295 — Prometheus Steals](card:ST295%20%E2%80%94%20Prometheus%20Steals): Prometheus steals fire from the gods and gives it to humanity, and is chained to a rock with his liver eaten daily; the card reads the theft as the creative act and the punishment as its permanent cost, an editorial juxtaposition with this factor's second restraint rather than the myth's own framing."
+        },
+        {
+          "t": "h2",
+          "x": "Rules and situations"
+        },
+        {
+          "t": "p",
+          "x": "[ST384 — The Tree Is Spared; the Goose Is Killed](card:ST384%20%E2%80%94%20The%20Tree%20Is%20Spared%3B%20the%20Goose%20Is%20Killed): a tree is spared because its wood is good for nothing and a goose is killed because it cannot cackle; asked which condition he would prefer, Zhuangzi smiles that he would rest halfway between the two, and that even that position cannot avoid trouble. The card reads this as a warning that a rule which protects in one setting may fail in another."
+        }
+      ],
+      "group": "eightfold-path",
+      "status": "published",
+      "art": "assets/dossier-art/right-action.jpg"
+    },
+    {
+      "id": "right-effort",
+      "title": "Right Effort",
+      "question": "Where should effort go, and how much is the right amount?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Effort has two dimensions the traditions are careful to separate: where it goes, and how much of it. Straining at practice is a recognised failure, and so is the laziness that calls itself ease. The question of how hard to try has real answers, and they are not one-size-fits-all: energy aroused and applied at the right objects, in the right dose, is what the factor actually asks for."
+        },
+        {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "Diligence and persistence: the four-efforts group below, and the grit research beside it."
+        },
+        {
+          "t": "p",
+          "x": "Energy: its seasons have their own entry below; the motivation behind effort is held by the Motivation dossier, not duplicated here."
+        },
+        {
+          "t": "p",
+          "x": "Habit formation: held by the Behaviour dossier; this page keeps to the aiming and the amount of effort, not to the machinery of habit."
+        },
+        {
+          "t": "p",
+          "x": "Rest: held by Right Livelihood's rest group and the rest entries cited there; recovery is included here only as effort's other half."
+        },
+        {
+          "t": "h",
+          "x": "The map: the entries on right effort"
+        },
+        {
+          "t": "h2",
+          "x": "The path's own account"
+        },
+        {
+          "t": "p",
+          "x": "[Right effort](card:Right%20effort): the sixth factor of the Noble Eightfold Path: energy aimed at the mind itself, defined by four directions rather than by quantity."
+        },
+        {
+          "t": "p",
+          "x": "[Eightfold Path](card:Eightfold%20Path): the fourth Noble Truth: the Buddha's summary of the training, right view through right concentration, with right effort sixth among the eight factors."
+        },
+        {
+          "t": "p",
+          "x": "[The three trainings](card:The%20three%20trainings): the Buddhist path in its most compressed form: virtue, concentration and wisdom, with right effort inside the concentration division alongside mindfulness and concentration."
+        },
+        {
+          "t": "p",
+          "x": "[Right speech](card:Right%20speech), [Right action](card:Right%20action) and [Right livelihood](card:Right%20livelihood): the sibling factors, each with its own dossier in this programme."
+        },
+        {
+          "t": "p",
+          "x": "[The middle path](card:The%20middle%20path): the calibration the lute-string image belongs to: neither the indulgence nor the mortification the Buddha tried first."
+        },
+        {
+          "t": "p",
+          "x": "The four efforts, in the sutta's own words:"
+        },
+        {
+          "t": "q",
+          "x": "\"There is the case where a monk generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the non-arising of evil, unskillful qualities that have not yet arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the abandonment of evil, unskillful qualities that have arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the arising of skillful qualities that have not yet arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the maintenance, non-confusion, increase, plenitude, development, & culmination of skillful qualities that have arisen: This, monks, is called right effort.\" ([Thanissaro, SN 45.8](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)). The four directions: preventing, abandoning, arousing, maintaining.",
+          "s": null
+        },
+        {
+          "t": "h2",
+          "x": "The four directions for one energy"
+        },
+        {
+          "t": "p",
+          "x": "[Right effort](card:Right%20effort): effort aimed at particular movements of the mind, in a particular direction, at a particular moment; the first verb is generates desire, so effort begins as wanting the result, before any gritting of teeth."
+        },
+        {
+          "t": "p",
+          "x": "[B065 — Guard the mind at the source (mind precedes all)](card:B065%20%E2%80%94%20Guard%20the%20mind%20at%20the%20source%20%28mind%20precedes%20all%29): the preventing effort: the guarding done before the quality arises, the Dhammapada's claim that mind precedes all states."
+        },
+        {
+          "t": "p",
+          "x": "[B116 — Catch irritation early — sparks before fires](card:B116%20%E2%80%94%20Catch%20irritation%20early%20%E2%80%94%20sparks%20before%20fires): the abandoning effort at its smallest: the spark caught before it is a fire."
+        },
+        {
+          "t": "p",
+          "x": "[Self-control training](card:Self-control%20training): the caution on the general-capacity hope: Miles and colleagues' six-week program of small self-control tasks found no effect on any measure of self-control, and the authors' conclusion is stated without hedging."
+        },
+        {
+          "t": "p",
+          "x": "[Grit](card:Grit): Duckworth's trait, defined by what it sustains: perseverance and passion for long-term goals, effort and interest kept up over years, through failure, adversity and plateaus; the published abstract puts grit at an average of 4% of the variance in success outcomes, a small share."
+        },
+        {
+          "t": "p",
+          "x": "[Goal adjustment capacity](card:Goal%20adjustment%20capacity): Wrosch, Scheier, Miller, Schulz and Carver's construct for the other side of a stalled pursuit: the withdrawal of behavioral efforts and psychological commitment from a goal that has become unattainable, and the taking up of another; the findings credit disengagement with ameliorating distress and protecting health."
+        },
+        {
+          "t": "h2",
+          "x": "The tuning, not the forcing"
+        },
+        {
+          "t": "p",
+          "x": "[The right amount of effort](card:The%20right%20amount%20of%20effort): Aristotle's mean: to feel and to act at the right times, with reference to the right objects, towards the right people, with the right motive and in the right way."
+        },
+        {
+          "t": "p",
+          "x": "[ST064 — The Lute String](card:ST064%20%E2%80%94%20The%20Lute%20String): the Buddha's tuning image for the monk Soṇa, the vina strung neither too taut nor too loose."
+        },
+        {
+          "t": "p",
+          "x": "The Sutta's own statement of the calibration:"
+        },
+        {
+          "t": "q",
+          "x": "\"In the same way, Sona, over-aroused persistence leads to restlessness, overly slack persistence leads to laziness. Thus you should determine the right pitch for your persistence, attune [2] the pitch of the [five] faculties [to that], and there pick up your theme.\" ([Thanissaro, AN 6.55](https://www.accesstoinsight.org/tipitaka/an/an06/an06.055.than.html)). The bracketed glosses are the translator's.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Effort-recovery cycles](card:Effort-recovery%20cycles): Sonnentag and Fritz's recovery research: four recovery experiences, psychological detachment from work, relaxation, mastery and control; effort's other half."
+        },
+        {
+          "t": "p",
+          "x": "[The seasons of energy](card:The%20seasons%20of%20energy): the acceptance that capacities are not constant: Ecclesiastes' time to every purpose under the heaven, the low times not defects in a steady machine."
+        },
+        {
+          "t": "p",
+          "x": "[Effortless action through long effort](card:Effortless%20action%20through%20long%20effort): the Zhuangzi's resolution of the paradox: wu wei can look like doing nothing, but the stories that define it are stories of training, Cook Ding's three years of oxen."
+        },
+        {
+          "t": "p",
+          "x": "[Effortless attention](card:Effortless%20attention): Bruya's volume on attention and action experienced as effortless: meeting an increase in demand with sustained efficacy without an increase in felt effort."
+        },
+        {
+          "t": "p",
+          "x": "[Non-striving](card:Non-striving): the Daoist refusal of forcing, the attitude the Daodejing places in the Dao itself: the Tao in its regular course does nothing for the sake of doing it, and so there is nothing which it does not do."
+        },
+        {
+          "t": "p",
+          "x": "[Flow](card:Flow): Csikszentmihalyi's absorbed engagement, the modern comparison the Right effort card itself offers: challenge matched to skill, effort felt as effortless."
+        },
+        {
+          "t": "p",
+          "x": "[ST030 — Federer's Effortlessness](card:ST030%20%E2%80%94%20Federer%27s%20Effortlessness): Wallace, watching Federer at Wimbledon, reaches for a metaphysical explanation: one of those rare, preternatural athletes who appear to be exempt, at least in part, from certain physical laws; the approaching ball hangs, for him, a split-second longer than it ought to."
+        },
+        {
+          "t": "h2",
+          "x": "The disciplines that aim effort"
+        },
+        {
+          "t": "p",
+          "x": "[The three disciplines](card:The%20three%20disciplines): Epictetus' curriculum, stated in Discourses 3.2: three areas of study in which a person must train; Hadot named them the disciplines of desire, action and assent, the lived versions of Stoic physics, ethics and logic."
+        },
+        {
+          "t": "p",
+          "x": "[The discipline of assent](card:The%20discipline%20of%20assent): the Stoic training in treating every impression as a candidate for judgment rather than a judgment already made."
+        },
+        {
+          "t": "p",
+          "x": "[The discipline of non-response](card:The%20discipline%20of%20non-response): the Stoic practice of not adding a reflexive answer to an impression: between the impression and the response there is a judgment, and the judgment is the only movable part."
+        },
+        {
+          "t": "p",
+          "x": "[The discipline of attention](card:The%20discipline%20of%20attention): Simone Weil's account of attention in her essay on the right use of school studies, collected in Waiting for God: studies as the exercise of attention."
+        },
+        {
+          "t": "p",
+          "x": "[Spiritual exercises](card:Spiritual%20exercises): Hadot's name for the practice side of ancient philosophy: the daily, repeated work by which a student worked toward the complete reversal of our usual ways of looking at things, its exercises including practices of attention, self-mastery and the therapy of the passions."
+        },
+        {
+          "t": "p",
+          "x": "[The effort of attention](card:The%20effort%20of%20attention): William James's claim that the faculty of voluntarily bringing back a wandering attention, over and over, is the very root of judgment, character and will."
+        },
+        {
+          "t": "p",
+          "x": "[The disciplined body](card:The%20disciplined%20body): Foucault's term for what modern power makes of flesh: bodies trained, timed and arranged until the body itself carries the discipline; the caution that training and domination can look alike."
+        },
+        {
+          "t": "h2",
+          "x": "The stories"
+        },
+        {
+          "t": "p",
+          "x": "The theme comes in narrative form too:"
+        },
+        {
+          "t": "p",
+          "x": "[ST112 — Edison Burns the Filaments](card:ST112%20%E2%80%94%20Edison%20Burns%20the%20Filaments): the filament search tests thousands of materials, platinum, carbonised cotton thread, bamboo from a Japanese fan, and the notebooks record the failures as data; the insight was not in any single test, it was the refusal to stop generating variants until one survived."
+        },
+        {
+          "t": "p",
+          "x": "[ST376 — Meghiya Finds the Right Grove and the Wrong Thoughts](card:ST376%20%E2%80%94%20Meghiya%20Finds%20the%20Right%20Grove%20and%20the%20Wrong%20Thoughts): Meghiya asks three times to practise in a mango grove that looks ideal, and alone beneath the tree is troubled by thoughts of sensuality, ill will and harm; wanting to exert oneself is not yet knowing what to cultivate."
+        },
+        {
+          "t": "h",
+          "x": "Where the research genuinely disagrees"
+        },
+        {
+          "t": "h2",
+          "x": "Does self-control practice strengthen a general capacity?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: the Self-control training card holds both sides of it. Does the repeated practice of self-control exercises build a general capacity, or does it only rehearse the exercises themselves? The exercise-programme study was read by its authors as the capacity building:"
+        },
+        {
+          "t": "q",
+          "x": "\"Relative to the control phase, participants who exercised showed significant improvement in self-regulatory capacity... The uptake and maintenance of an exercise programme over a 2-month period produced significant improvements in a wide range of regulatory behaviours.\" ([Oaten & Cheng 2006, British Journal of Health Psychology](https://pubmed.ncbi.nlm.nih.gov/17032494/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The six-week training study, built with active control conditions and real-world measures to answer the same question, did not detect improvements on its self-control measures:"
+        },
+        {
+          "t": "q",
+          "x": "\"Despite high levels of adherence to the training tasks, there was no effect of training on any measure of self-control... The implication is that training self-control through repeated practice does not result in generalized improvements in self-control.\" ([Miles et al. 2016, Journal of Experimental Psychology: General](https://eprints.whiterose.ac.uk/id/eprint/107549/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The disagreement turns on method: the earlier gains came against passive control phases, and the later study was built to rule exactly that out; its own text names the suspicion that the wide-ranging benefits observed after self-control training could be attributable to confounds such as Hawthorne effects, placebo effects, and demand characteristics. The meta-analysis that followed finds a small effect whose mechanism remains poorly understood, with the critical role of repeatedly overriding responses still unestablished ([Friese et al. 2017](https://pubmed.ncbi.nlm.nih.gov/28846503/)). What remains unresolved is whether some forms of practice, a maintained exercise programme against small laboratory tasks, build something the others do not."
+        },
+        {
+          "t": "p",
+          "x": "For the four directions of the path factor, nothing here changes the aiming. What the disagreement questions is the hope of a general capacity built by rehearsal."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying on this theme is the undifferentiated push: effort aimed at everything at once and therefore at nothing, the over-aroused persistence that arrives as restlessness, the slack persistence that arrives as its own diagnosis, and the effort held at full pitch through seasons that call for a lower one. The adaptive direction is the aiming and the tuning: the four directions picked one at a time, the pitch checked against restlessness and laziness rather than against the calendar, and the effort sized to the season the body is actually in."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The practices I have selected as sources of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[K199 — Energy matching](card:K199%20%E2%80%94%20Energy%20matching): match the intervention to the state: dull or lethargic, straighten the posture and take sharp breaths; restless or agitated, lengthen the exhale and slow the movements."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[K242 — Daily architecture](card:K242%20%E2%80%94%20Daily%20architecture): a morning intention, cue-based micro-practices through the day, an evening review; the architecture is the retention system for everything else."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[K193 — Weekly habit review](card:K193%20%E2%80%94%20Weekly%20habit%20review): a weekly look at which cued behaviors fired and which did not, run as a design review rather than a willpower audit."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[B058 — Sit daily — consistency over intensity](card:B058%20%E2%80%94%20Sit%20daily%20%E2%80%94%20consistency%20over%20intensity): the small, repeatable start: five minutes on a low-energy morning counts, and the repetition is what trains the skill."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[MO046 — Learn to start — the hardest part is beginning](card:MO046%20%E2%80%94%20Learn%20to%20start%20%E2%80%94%20the%20hardest%20part%20is%20beginning): Laozi's arithmetic, whatever is large was assembled from something small, with Masicampo and Baumeister's finding that a specific plan quiets the interference from unfulfilled goals: only the first piece has to be faced at once."
+        },
+        {
+          "t": "n",
+          "i": 6,
+          "x": "[B036 — Tune, don't force — the lute string](card:B036%20%E2%80%94%20Tune%2C%20don%27t%20force%20%E2%80%94%20the%20lute%20string): the Sona image as the check: when the effort produces restlessness or laziness, retune rather than push."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them. A reader who keeps the energy matching, or the weekly review, or the tuning check has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "The pitch found"
+        },
+        {
+          "t": "p",
+          "x": "[ST064 — The Lute String](card:ST064%20%E2%80%94%20The%20Lute%20String): Soṇa strains so hard in meditation that he considers giving up; the Buddha asks the former lute player whether strings sound best too tight or too slack, and says the energy is the same."
+        },
+        {
+          "t": "h2",
+          "x": "Wanting to exert, and knowing what to cultivate"
+        },
+        {
+          "t": "p",
+          "x": "[ST376 — Meghiya Finds the Right Grove and the Wrong Thoughts](card:ST376%20%E2%80%94%20Meghiya%20Finds%20the%20Right%20Grove%20and%20the%20Wrong%20Thoughts): Meghiya finds a mango grove that looks ideal for meditation and asks three times to practise there; alone beneath a tree he is troubled by thoughts of sensuality, ill will and harm, and returns to ask the Buddha about them; the episode distinguishes wanting to exert oneself from knowing what to cultivate."
+        },
+        {
+          "t": "h2",
+          "x": "Effortlessness on the far side of training"
+        },
+        {
+          "t": "p",
+          "x": "[ST030 — Federer's Effortlessness](card:ST030%20%E2%80%94%20Federer%27s%20Effortlessness): Wallace, watching Federer at Wimbledon, reaches for a metaphysical explanation: one of those rare, preternatural athletes who appear to be exempt, at least in part, from certain physical laws; the approaching ball hangs, for him, a split-second longer than it ought to."
+        },
+        {
+          "t": "h2",
+          "x": "The failures kept as data"
+        },
+        {
+          "t": "p",
+          "x": "[ST112 — Edison Burns the Filaments](card:ST112%20%E2%80%94%20Edison%20Burns%20the%20Filaments): the filament search tests thousands of materials, platinum, carbonised cotton thread, bamboo from a Japanese fan, and the notebooks record the failures as data; the insight was not in any single test, it was the refusal to stop generating variants until one survived."
+        }
+      ],
+      "group": "eightfold-path",
+      "status": "published",
+      "art": "assets/dossier-art/right-effort.jpg"
     }
   ],
   "groups": [
@@ -12682,28 +14192,8 @@ window.fcDossiersData = {
   ],
   "roadmap": [
     {
-      "id": "right-intention",
-      "title": "Right Intention",
-      "group": "eightfold-path"
-    },
-    {
-      "id": "right-speech",
-      "title": "Right Speech",
-      "group": "eightfold-path"
-    },
-    {
-      "id": "right-action",
-      "title": "Right Action",
-      "group": "eightfold-path"
-    },
-    {
       "id": "right-livelihood",
       "title": "Right Livelihood",
-      "group": "eightfold-path"
-    },
-    {
-      "id": "right-effort",
-      "title": "Right Effort",
       "group": "eightfold-path"
     },
     {
