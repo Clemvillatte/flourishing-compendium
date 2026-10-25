@@ -1,0 +1,15 @@
+{
+ "band": "t1h",
+ "source_queue": "owner priority directive 2026-10-25 (Sartre/Camus/Beauvoir, no prior cards exist)",
+ "thinkers": [
+  "Jean-Paul Sartre",
+  "Albert Camus",
+  "Simone de Beauvoir"
+ ],
+ "ids": [
+  "T058",
+  "T059",
+  "T060"
+ ],
+ "selection": "owner-directed intake 2026-10-25; three cards to mint per PROTOCOL-THINKERS.md"
+}
