@@ -1282,8 +1282,9 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   the transcendence-immanence distinction applied to transformations of
   ritual and bodily space and perceptions of time.
 - Relevant segment: whole lecture, 1:34:21.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage rests on the uploader description and credentials
+  are pending institutional confirmation.
 
 ### SRC-M18-K01: Taking Buddhist Philosophy Seriously — Symposium in Honor of Jay L. Garfield, part 3 of 6 (Smith College)
 
@@ -1300,8 +1301,9 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   "Naturalizing Buddhism: Karma, Rebirth, and the Practice of
   Intercultural Philosophy"; Rahlwes on "Buddhist Coherentism."
 - Relevant segment: whole session, 59:18.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional pages pending.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage rests on the uploader description and credentials
+  are pending institutional confirmation.
 
 ### SRC-M22-YV03: Yoga Sutra Lecture Series — Dr. K. S. Balasubramanian (Western Washington University)
 
@@ -1320,8 +1322,9 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   system as the foundation of classical yoga, influential on modern
   Hatha yoga.
 - Relevant segment: whole lecture, 1:03:26.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage rests on the uploader description and credentials
+  are pending institutional confirmation.
 
 ### M05-YV-05: Patanjali's Yoga Sutras — 22, New Course (Swami Tattwamayananda, San Francisco Vedanta Society)
 

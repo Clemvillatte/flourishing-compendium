@@ -430,8 +430,9 @@ standard.
   opening (karakia at 0:00, mihimihi at 4:11) before the talk proper at
   6:38.
 - Relevant segment: talk proper 6:38-53:26 (about 46 minutes).
-- Verification status: verified-video (2026-10-25); dual-figure duration
-  flagged; credentials from the description, institutional page pending.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage rests on the uploader description and credentials
+  are pending institutional confirmation; dual-figure duration flagged.
 
 ### M04-R12: Beyond Autonomy — a Relational Perspective on an Ethics of Care (Elisabeth Conradi, Oxford Institute of Population Ageing)
 

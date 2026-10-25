@@ -1487,8 +1487,9 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
   of Aristotle's Nicomachean Ethics — different answers to "What is
   Happiness?", means, ends and disciplines.
 - Relevant segment: whole lecture, 1:01:15.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage rests on the uploader description and credentials
+  are pending institutional confirmation.
 
 ### SRC-M19-ST01: Stoic Ethics — Epictetus' Enchiridion and Discourses (Gregory B. Sadler)
 
@@ -1505,8 +1506,9 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
   his moral theory — choice, rationality, desires and emotions, the good
   for human beings, and duties arising from social roles.
 - Relevant segment: whole lecture, 1:32:05.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage rests on the uploader description and credentials
+  are pending institutional confirmation.
 
 ### M04-E03: Dreyfus on Heidegger — the Berkeley Lectures (restored web edition)
 

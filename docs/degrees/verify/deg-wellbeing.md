@@ -536,9 +536,9 @@ standard.
   watch page opened 2026-10-25. INDEPENDENT-CHANNEL FLAG with named
   institutional speaker.
 - Duration: 1:12:41 (watch page, 2026-10-25).
-- Instructor credentials: Dr. Kendall Cotton Bronk, purpose researcher
-  (Claremont Graduate University, per the channel context; institutional
-  page not opened this session).
+- Instructor credentials: Dr. Kendall Cotton Bronk, purpose
+  researcher (per the uploader description; affiliation and
+  institutional page not substantiated this session — pending).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): research on
   the importance of purpose in life and its critical role in well-being,
@@ -622,9 +622,9 @@ standard.
   opened 2026-10-25. Recorded 22 April 2019 at the SAGE Center for the
   Study of the Mind, University of California, Santa Barbara.
 - Duration: 1:15:17 (watch page, 2026-10-25).
-- Instructor credentials: Hazel Rose Markus, Stanford cultural
-  psychologist (per the event description; university page not opened
-  this session).
+- Instructor credentials: Hazel Rose Markus (speaker named on the event
+  page; affiliation and institutional page not substantiated this
+  session — pending).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): cultural
   divides, models of self and agency, multicultural identity, East Asian
