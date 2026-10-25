@@ -18,19 +18,11 @@ Meta-awareness: knowing that one is aware; I pair the capacity with sati, and th
 
 ### What the factor is
 
-[Right mindfulness](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20mindfulness): the seventh factor of the Eightfold Path; its root text, the Satipatthana Sutta, calls the four establishments the direct path.
+[Right mindfulness](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20mindfulness) is the seventh factor of the [Eightfold Path](https://clemvillatte.github.io/flourishing-compendium/#card=Eightfold%20Path), the fourth Noble Truth's summary of the training, and it sits inside [the three trainings](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20trainings) as their most compressed form: virtue, concentration and wisdom.
 
-[Eightfold Path](https://clemvillatte.github.io/flourishing-compendium/#card=Eightfold%20Path): the fourth Noble Truth, the Buddha's summary of the training; the factor's umbrella hub.
+The Pali word behind the factor is sati, and its root is memory. [Sati](https://clemvillatte.github.io/flourishing-compendium/#card=Sati) is the remembering of what the attention is for: keeping something in mind vividly, without commentary.
 
-[The three trainings](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20trainings): the path in its most compressed form, virtue, concentration and wisdom; every practice placed under one of the three.
-
-[Sati](https://clemvillatte.github.io/flourishing-compendium/#card=Sati): the Pali word for mindfulness, keeping something in mind vividly, without commentary.
-
-[Anapanasati (mindfulness of breathing)](https://clemvillatte.github.io/flourishing-compendium/#card=Anapanasati%20%28mindfulness%20of%20breathing%29): the flagship practice, mindfulness established on the breath.
-
-[The returning practice](https://clemvillatte.github.io/flourishing-compendium/#card=The%20returning%20practice): my name for the central move of meditation, noticing that the mind has wandered and bringing it back, until the returning rather than unbroken attention is understood as the practice.
-
-[Vipassana (insight)](https://clemvillatte.github.io/flourishing-compendium/#card=Vipassana%20%28insight%29): clear-seeing, treated by Thanissaro as a quality of mind rather than a technique, the ability to see events clearly.
+The practice the factor trains has one flagship form, [anapanasati (mindfulness of breathing)](https://clemvillatte.github.io/flourishing-compendium/#card=Anapanasati%20%28mindfulness%20of%20breathing%29), mindfulness established on the breath. The central move is what I call [the returning practice](https://clemvillatte.github.io/flourishing-compendium/#card=The%20returning%20practice): noticing that the mind has wandered and bringing it back, until the returning rather than unbroken attention is understood as the practice. What the returning builds toward is [vipassana (insight)](https://clemvillatte.github.io/flourishing-compendium/#card=Vipassana%20%28insight%29), clear-seeing, which Thanissaro treats as a quality of mind rather than a technique, the ability to see events clearly.
 
 The Satipatthana Sutta opens by naming what the practice is for:
 
@@ -46,47 +38,33 @@ The refrain names three qualities at work together. "Ardent" brings the effort; 
 
 The fourth phrase, "putting aside greed & distress with reference to the world", is the removal half of the training. The practitioner is not merely observing; the observing itself releases what would pull it into wanting or into hurt. [Meta-awareness](https://clemvillatte.github.io/flourishing-compendium/#card=Meta-awareness) names the wider capacity the refrain trains, knowing that one is aware, and [metacognitive awareness](https://clemvillatte.github.io/flourishing-compendium/#card=Metacognitive%20awareness) is the reportable part of the same skill.
 
-The clinical family gives the same posture other names. [Mindful attention](https://clemvillatte.github.io/flourishing-compendium/#card=Mindful%20attention), Kabat-Zinn's operational definition, is attention deliberately trained on present experience; [mindful presence](https://clemvillatte.github.io/flourishing-compendium/#card=Mindful%20presence) is the attended presence itself. [Present-moment awareness theory](https://clemvillatte.github.io/flourishing-compendium/#card=Present-moment%20awareness%20theory) holds that contact with the current moment, rather than the remembered past or imagined future, underpins wellbeing. [Decentering](https://clemvillatte.github.io/flourishing-compendium/#card=Decentering) and [cognitive defusion](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20defusion) describe the capacity to see thoughts as mental events rather than as the world or the self, and [acceptance](https://clemvillatte.github.io/flourishing-compendium/#card=Acceptance) adds the willingness to let unwanted experience stay as it is.
+The clinical family gives the same posture other names. [Mindful attention](https://clemvillatte.github.io/flourishing-compendium/#card=Mindful%20attention), Kabat-Zinn's operational definition, is attention deliberately trained on present experience; [mindful presence](https://clemvillatte.github.io/flourishing-compendium/#card=Mindful%20presence) is the attended presence itself. [Present-moment awareness theory](https://clemvillatte.github.io/flourishing-compendium/#card=Present-moment%20awareness%20theory) holds that contact with the current moment, rather than the remembered past or imagined future, underpins wellbeing.
+
+[Decentering](https://clemvillatte.github.io/flourishing-compendium/#card=Decentering) and [cognitive defusion](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20defusion) describe the capacity to see thoughts as mental events rather than as the world or the self, and [acceptance](https://clemvillatte.github.io/flourishing-compendium/#card=Acceptance) adds the willingness to let unwanted experience stay as it is.
 
 Two further qualities sit beside the refrain without being named in it. [Beginner's mind](https://clemvillatte.github.io/flourishing-compendium/#card=Beginner%27s%20mind), the Zen practice of meeting experience as if for the first time, describes the freshness the training preserves; [clarity of mind](https://clemvillatte.github.io/flourishing-compendium/#card=Clarity%20of%20mind) is the unclouded state the contemplative traditions converge on. [The lived body](https://clemvillatte.github.io/flourishing-compendium/#card=The%20lived%20body) is the first frame's home, the body as experienced from within rather than only the body one has.
 
 ### The modern family
 
-[Mindfulness](https://clemvillatte.github.io/flourishing-compendium/#card=Mindfulness): my entry for the modern practice family.
+The clinical adaptations carried the path factor into the laboratory, and that is where the family grew. [Mindfulness](https://clemvillatte.github.io/flourishing-compendium/#card=Mindfulness) is my entry for the modern practice family, and [mindfulness-based stress reduction](https://clemvillatte.github.io/flourishing-compendium/#card=Mindfulness-based%20stress%20reduction) is Kabat-Zinn's clinical programme, its first formal practice the [body scan](https://clemvillatte.github.io/flourishing-compendium/#card=Body%20scan%20in%20MBSR%20%28Kabat-Zinn%29), attention moved systematically through the body.
 
-[Mindfulness-based stress reduction](https://clemvillatte.github.io/flourishing-compendium/#card=Mindfulness-based%20stress%20reduction): Kabat-Zinn's clinical programme.
+[Mindfulness-based cognitive therapy](https://clemvillatte.github.io/flourishing-compendium/#card=Mindfulness-based%20cognitive%20therapy) was developed for relapse prevention in depression, and [mindful self-compassion programme](https://clemvillatte.github.io/flourishing-compendium/#card=Mindful%20self-compassion%20programme) is the family's kindness branch.
 
-[Mindfulness-based cognitive therapy](https://clemvillatte.github.io/flourishing-compendium/#card=Mindfulness-based%20cognitive%20therapy): the programme developed for relapse prevention in depression.
+The family also carries the practice off the cushion. [Walking meditation](https://clemvillatte.github.io/flourishing-compendium/#card=Walking%20meditation) is deliberate awareness brought to walking itself, the contact of feet with ground, the movement of the body, the flow of breath. [Dispositional mindfulness](https://clemvillatte.github.io/flourishing-compendium/#card=Dispositional%20mindfulness) is the trait version of the capacity, as it varies between people, and [mindfulness's clarity mechanism](https://clemvillatte.github.io/flourishing-compendium/#card=Mindfulness%27s%20clarity%20mechanism), the Bishop et al. operational definition, is seeing mental events accurately rather than dimly.
 
-[Dispositional mindfulness](https://clemvillatte.github.io/flourishing-compendium/#card=Dispositional%20mindfulness): the trait version of the capacity, as it varies between people.
-
-[Mindfulness's clarity mechanism](https://clemvillatte.github.io/flourishing-compendium/#card=Mindfulness%27s%20clarity%20mechanism): seeing mental events accurately rather than dimly, the Bishop et al. operational definition.
-
-[Mindful self-compassion programme](https://clemvillatte.github.io/flourishing-compendium/#card=Mindful%20self-compassion%20programme): the practice family's kindness branch.
-
-[Body scan in MBSR (Kabat-Zinn)](https://clemvillatte.github.io/flourishing-compendium/#card=Body%20scan%20in%20MBSR%20%28Kabat-Zinn%29): the first formal practice taught in MBSR, attention moved systematically through the body.
-
-[Walking meditation](https://clemvillatte.github.io/flourishing-compendium/#card=Walking%20meditation): deliberate awareness brought to walking itself, the contact of feet with ground, the movement of the body, the flow of breath.
-
-A 2014 review of 47 randomized trials with 3,320 participants found moderate evidence of improvement in anxiety, depression and pain with mindfulness meditation programs. It found no evidence that meditation programs outperformed active treatments such as drugs, exercise or other behavioral therapies ([Goyal et al. 2014, JAMA Internal Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/)). The reviewers' own conclusion was measured:
+The evidence has its own shape, and it is smaller than the path factor's own claim. A 2014 review of 47 randomized trials with 3,320 participants found moderate evidence of improvement in anxiety, depression and pain with mindfulness meditation programs. It found no evidence that meditation programs outperformed active treatments such as drugs, exercise or other behavioral therapies ([Goyal et al. 2014, JAMA Internal Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/)). The reviewers' own conclusion was measured:
 
 > "Clinicians should be aware that meditation programs can result in small to moderate reductions in multiple negative dimensions of psychological stress." ([Goyal et al. 2014, JAMA Internal Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/)).
 
 ### The attention traditions
 
-[The craft of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20craft%20of%20attention) and [The discipline of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20discipline%20of%20attention): Weil's account of attention as the trained capacity to suspend one's own thought so that what is in front of one can appear.
+The factor has neighbours outside its own tradition, and the neighbours give the same skill other names. [The craft of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20craft%20of%20attention) and [the discipline of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20discipline%20of%20attention) hold Weil's account of attention as the trained capacity to suspend one's own thought so that what is in front of one can appear.
 
-[The effort of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20effort%20of%20attention): James's phrase from the Principles of Psychology, attention doing the work where a thought prevails with effort.
+[The effort of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20effort%20of%20attention) is James's phrase from the Principles of Psychology, attention doing the work where a thought prevails with effort, and [effortless attention](https://clemvillatte.github.io/flourishing-compendium/#card=Effortless%20attention), in Bruya's working definition, is attention or action experienced as effortless.
 
-[Effortless attention](https://clemvillatte.github.io/flourishing-compendium/#card=Effortless%20attention): attention or action experienced as effortless, in Bruya's working definition.
+[Focused-attention meditation](https://clemvillatte.github.io/flourishing-compendium/#card=Focused-attention%20meditation), in Lutz et al.'s account, is the closest parallel to the factor's own practice: directing and sustaining attention on a chosen object, noticing when it wanders, returning it. [Attention management](https://clemvillatte.github.io/flourishing-compendium/#card=Attention%20management) is the everyday version, the practice of governing where attention goes, choosing what receives it and protecting it from capture.
 
-[Focused-attention meditation](https://clemvillatte.github.io/flourishing-compendium/#card=Focused-attention%20meditation): directing and sustaining attention on a chosen object, noticing when it wanders, returning it; Lutz et al.'s account.
-
-[Attention management](https://clemvillatte.github.io/flourishing-compendium/#card=Attention%20management): the practice of governing where attention goes, choosing what receives it and protecting it from capture.
-
-[Epoché](https://clemvillatte.github.io/flourishing-compendium/#card=Epoch%C3%A9): suspension, the deliberate withholding of an automatic mental act, in Husserl's tradition the trained posture of attention.
-
-[Delight in the ordinary](https://clemvillatte.github.io/flourishing-compendium/#card=Delight%20in%20the%20ordinary): the capacity to find sufficiency and freshness in plain, repeated things, the food, clothes, work and people already at hand.
+[Epoché](https://clemvillatte.github.io/flourishing-compendium/#card=Epoch%C3%A9), suspension, is Husserl's trained posture of attention, the deliberate withholding of an automatic mental act. [Delight in the ordinary](https://clemvillatte.github.io/flourishing-compendium/#card=Delight%20in%20the%20ordinary) carries the freshness the training preserves: the capacity to find sufficiency and freshness in plain, repeated things, the food, clothes, work and people already at hand.
 
 ## Related questions and parallels
 
