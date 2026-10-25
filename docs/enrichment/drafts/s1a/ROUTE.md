@@ -307,3 +307,17 @@ Round applied to s1a-063 (already routed above) and to the two new drafts:
   so I cut the obituary subplot entirely. Reassign if you prefer.
 - s1a-065 (B179 Pang): carried; genre relabelled traditional teaching
   narrative, boat subplot cut, interpretation rewritten as a labelled reading.
+
+## Advisor round-2 QC 2026-10-25 (storyteller-pplx-s1a-1026a, T+19)
+
+All repairs applied and story_check ok on s1a-065 through s1a-069. Two more
+routed decisions for you:
+
+- s1a-068 (B034, Mara's armies): TARGET-FIT QUESTION. The opened Padhana
+  Sutta directly supports only three of the five hindrance correspondences
+  (sensual passions, sloth & drowsiness, uncertainty); Discontent and Terror
+  are left unclaimed. If you judge the fit too thin for B034, the draft
+  reassigns cleanly to a striving/persistence principle of your choosing.
+- s1a-065: the Pang verse wording was re-verified against a fresh fetch of
+  the WCP page ("In every place there is no hindrance, nor conflict.");
+  the draft and ledger now match it, and the QC note records the correction.
