@@ -54,3 +54,17 @@ same carrier), motivation (Iyengar and Lepper limited-array
 sentence, Deci and Ryan 2008 type-vs-amount sentence, and the Deci,
 Koestner and Ryan 1999 meta-analysis sentence, all exact). No
 corrections needed.
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos10 baton)
+
+Reviewed all 4 candidates against the current file (fresh audit run).
+No scaffolds removed; all 4 flagged constructions are the theories' own
+definitions: line 21 (intrinsic motivation: inherent satisfaction
+rather than separable consequence — the SDT definition), 41 (autonomy:
+one's own endorsement rather than external pressure — SDT's), 57
+(McClelland's acquired needs: learned rather than inborn), 79 (Dewey's
+interest as the engine rather than a garnish of learning — his actual
+argument against the sugar-coating view of interest). Editorial review
+only; no carriers or cards freshly opened this pass.
+
+Checks: dossier_check.py exit 0. Scope: candidate-line review.
