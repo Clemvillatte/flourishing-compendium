@@ -111,5 +111,7 @@
    "from": "launcher-pplx-dos19-1025n",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T10:57:01+00:00"
 }
