@@ -70,3 +70,10 @@ Worker: worker-pplx-dos34-1025j. Session 2026-10-25 ~04:46-05:45Z UTC.
 - Spelling: Csikszentmihalyi and LeFevre (the round-1 addendum misspelled it "LeFevere").
 - The 1989 abstract was fetched as a publisher database record (Europe PMC REST, JSON); it is the abstract, not the full article; the ledger records this limit. The page's paraphrase stays within the abstract's statements.
 - Quote verification is now a clean 13/13 with no documented exceptions (the PubMed carrier now backs paraphrase only).
+
+## QC round 3: two substantiated disagreements added
+
+- New subsection "Free time that is not free": Rojek's rejection of the Pieper-attributed work/free-time dichotomy, carried in Regi's open Anthropology Today 2012 essay (https://www.mursi.org/documents-and-texts/published-articles/regi-tamas/tourism-leisure-and-work/at_download/file). Carrier fetched with curl, PDF read; both quoted fragments are raw substring matches against the extracted text. The quote is Regi reporting Rojek; the page says so.
+- New subsection "Relaxation, or wholehearted action": Kleiber, "The Neglect of Relaxation", Journal of Leisure Research 2000, 32(1), 82-86 (https://www.nrpa.org/globalassets/journals/jlr/2000/volume-32/jlr-volume-32-number-1-pp-82-86.pdf). Carrier fetched with curl, PDF read; both quoted fragments raw substring matches. The section presents the Tinsley & Tinsley action-essence view as reported by Kleiber, and Kleiber's own dissent siding with Pieper; the Tinsley original was not opened and is cited second-hand through the opened carrier.
+- Page now carries THREE substantiated disagreements (Aristotle vs Russell on distribution; Rojek vs Pieper on the work/leisure dichotomy; action-essence vs relaxation-essence within leisure studies) plus FOUR bounded comparisons. The 3-5 substantiated-disagreement bar's lower bound is now met, subject to supervisor/owner ruling; flag stands.
+- Checks after the additions: dossier_check exit 0 (23 card links, 13 headers, 19 carriers); dossier_quote_verify 16/16 machine-verified, zero documented exceptions; dossier_density 0; dossier_voice_audit exit 0.

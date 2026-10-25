@@ -4,7 +4,7 @@
   {
    "slug": "leisure",
    "worker": "worker-pplx-dos34-1025j",
-   "state": "QC-blocked draft after rounds 1-2: ONE substantiated disagreement (Aristotle vs Russell, distribution of leisure) + FOUR bounded comparisons; 3-5 substantiated-disagreement bar NOT claimed met - supervisor/owner ruling flagged; artwork pending (owner action)",
+   "state": "QC round 3 applied: THREE substantiated disagreements on the page (Aristotle vs Russell distribution; Rojek vs Pieper work/leisure dichotomy via Regi Anthropology Today 2012; action-essence vs relaxation-essence via Kleiber JLR 2000) + FOUR bounded comparisons; 3-5 bar lower bound met subject to ruling; quotes 16/16 machine-verified zero exceptions; artwork still pending (owner action)",
    "verification": "all quotes raw-verified against freshly opened carriers (MIT Classics x3, Pieper iwcinsb PDF, Harper's 1932, Gutenberg Veblen, ETH Zhuangzi Legge PDF, Sonnentag&Fritz 2007 via PubMed/Europe PMC record); Idler 1935 extract opened and read but is JS-walled to automated fetch and backs paraphrase only (documented exception in the evidence ledger)",
    "flags": [
     "SUPERVISOR/OWNER: does the page as revised satisfy the 3-5 substantiated-disagreement bar (one genuine disagreement plus three bounded comparisons), or does it need further research into genuinely opposed positions?",

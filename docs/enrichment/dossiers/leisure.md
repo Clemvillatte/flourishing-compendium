@@ -58,6 +58,22 @@ Contemporary research on off-job time has a more modest aim than defining leisur
 
 The difference from the classical accounts is one of definition, and the two definitions can coexist. Aristotle calls relaxation a medicine, useful and not an end; Pieper says outright that leisure is not the absence of activity and not quiet, and his own text adds that the power to be at leisure can send a person back "renewed and alive again" into work ([Leisure: The Basis of Culture](https://iwcinsb.org/studygroups/2024%20readings/Leisure.pdf)). On the recovery account, leisure is defined by its relation to work. On Pieper's, it is defined by its relation to reality. The practical kernels below use the recovery findings, and the classical accounts warn against mistaking them for the whole story, because a life whose free hours are only maintenance is a life without leisure in the classical sense. [Attention that needs recovery](https://clemvillatte.github.io/flourishing-compendium/#card=AT037%20%E2%80%94%20Understand%20that%20attention%20needs%20recovery%20%E2%80%94%20directed%20attention%20is%20a%20depletable%20resource) and [attention restoration](https://clemvillatte.github.io/flourishing-compendium/#card=Attention%20restoration) sit on the maintenance side of the line, honestly.
 
+### Free time that is not free
+
+Pieper's account leans on a clean line between the world of work and the space of leisure. The sociologist Chris Rojek rejects exactly that line, and Tamas Regi reports the rejection in an open Anthropology Today essay:
+
+> "Rojek (1995, 2000, 2010) rejects the idea of the modernist 'work versus free time' relational dichotomy (mostly advocated by Pieper 1952 and Dumazedier 1974) to argue that leisure time is not freer than any other time that is not devoted to relaxation." ([Regi, Anthropology Today, 2012](https://www.mursi.org/documents-and-texts/published-articles/regi-tamas/tourism-leisure-and-work/at_download/file))
+
+The continuation is the sharper half: in Rojek's account "leisure often requires more planning, and more physical and mental effort, than work activities", and must conform to cultural and social expectations, since leisure is a politically and economically controlled activity ([Regi, 2012](https://www.mursi.org/documents-and-texts/published-articles/regi-tamas/tourism-leisure-and-work/at_download/file)). Anyone who has booked a family holiday knows the phenomenology. A Pieperian can answer that his leisure was never a schedule-free gap but a capacity of the soul, and that the objection lands on the sociologist's "free time", not on his. The disagreement that survives the exchange is about whether the work/leisure line tracks anything real, and it is a live one in the field.
+
+### Relaxation, or wholehearted action
+
+Leisure studies has its own version of the fight. Douglas Kleiber, writing in the Journal of Leisure Research, notes that the field's dominant view treats wholehearted investment in action as the essence of true leisure, following Tinsley and Tinsley, and that in this view relaxation "is clearly neglected and subordinated", taking appreciation, contemplation and peacefulness down with it. Kleiber dissents:
+
+> "I share Pieper's view that leisure is most essentially a position of relaxation, of faithful openness to immediate reality." ([Kleiber, The Neglect of Relaxation, 2000](https://www.nrpa.org/globalassets/journals/jlr/2000/volume-32/jlr-volume-32-number-1-pp-82-86.pdf))
+
+The two positions are directly opposed about one thing: whether receptivity or engaged effort is the essence of the best leisure. Kleiber adds a biographical detail that keeps the argument honest, that Pieper himself, asked thirty years on whether anything had changed his mind, answered no.
+
 ### Can uselessness be the point
 
 Zhuangzi ends a story about a huge useless tree with an invitation:
