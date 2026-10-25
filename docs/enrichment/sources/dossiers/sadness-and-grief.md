@@ -132,3 +132,56 @@ confirmed by eye against an opened carrier:
 Checks: dossier_check.py exit 0 (37 card links, 17 headers, 16
 external carriers); density 0; voice audit clean. Registry status
 left "planned" for the supervisor to flip and publish.
+
+## Advisor-QC correction pass (2026-10-25, worker-pplx-dos28-1025h, dos28 baton)
+
+Advisor QC on the first GF draft flagged source-integrity issues; all
+fixed and re-verified in this pass:
+
+- Disagreement section rebuilt. Two questions rejected by the advisor
+  as manufactured (Seneca proportion vs B108 no-deadline: proportion
+  and time are different axes and can coexist; Seneca proportion vs
+  Zhuangzi tracing: different approaches, not incompatible answers,
+  and "both traditions agree that grief ends" is not established by
+  the passages). The section now holds three questions with both sides
+  explicitly held: (1) detachment vs continued relationship (Freud-
+  1917-informed dominant view vs Klass et al. 1996, both documented on
+  the Continuing bonds card, conditioned by Stroebe 2012 and the 2023
+  79-study review "unable to confirm"); (2) deep persistent sorrow as
+  disorder vs depth (PGD thresholds vs Gibran valuation and the Aztec
+  co-presence, with impairment as the turn-on); (3) moderation vs
+  accompaniment (Seneca's bound vs the Cantares Mexicanos). The
+  unsupported psychological generalisation ("tends to go underground")
+  and the "writer's taste" overclaim were deleted.
+- Zhuangzi passage now verified against an actually fetched full-text
+  carrier: The Writings of Kwang-dze, Legge translation, full PDF at
+  https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf
+  (all three quoted excerpts confirmed verbatim by pdftotext match).
+  This supersedes the earlier search-excerpt confirmation; ctext
+  remains bot-walled from this sandbox.
+- The four PDF extraction mismatches (Stroebe & Schut fi-ligatures;
+  Cunsolo & Ellis superscripts and line-break hyphen) are confirmed
+  verbatim by eye in the fetched PDFs and are recorded separately from
+  the ctext case.
+- Verifier limitation recorded: dossier_quote_verify.py skips
+  quotation paragraphs whose only URLs are card links, so its pass does
+  not cover card-carried quotes (Dhammapada on B108, Epictetus on
+  S114); those remain card-carried per past-session verification.
+- Variation paragraph: the avoidance-prolongs claim is now anchored to
+  the R124 card's meta-analysis statement ("prolonged avoidance of
+  grief is associated with worse health outcomes and increased
+  emotional distress over time") instead of "the later empirical
+  literature". R124 kernel now uses R124's actual protocol (regular
+  emotional expression through writing, in a supportive setting);
+  the naming protocol stays attributed to K348.
+- Humanizer em-dash rule applied to prose in both dos27 and dos28
+  dossiers (fear.md and sadness-and-grief.md): zero prose em dashes
+  outside quoted matter and link titles (verified by scan).
+- Inventory wrappers reduced ("the family's cleanest treatment",
+  "the family's statement", "the other edge of the same cloth",
+  "the wisdom traditions" narrowed to Gibran and the Aztec songs).
+
+Checks re-run: dossier_check.py exit 0 both files (fear: 46 card
+links; sadness-and-grief: 38 card links, the Continuing bonds link
+added); density 0; voice audit clean. Registry status left "planned"
+for the supervisor.
