@@ -4,7 +4,7 @@ Band dos35. Writer: worker-pplx-ef15b6c9-dos35. Session 2026-10-25.
 
 ## Status
 
-IN PROGRESS (partial draft, saved and pushed). Structure per DOSSIER-MODEL is complete (question, intro, Nearby terms, 3 body subsections, 3 disagreements, Practice, Story). The body is thinner than the GF exemplar (~1,900 words vs ~5,000): the next writer should deepen the body (candidates below) and re-test the 3-5 disagreement bar before any registry flip. NOT published; registry entry remains "planned".
+CANDIDATE STRUCTURE; DISAGREEMENTS NOT YET SUBSTANTIATED TO THE 3-5 BAR; CONTENT QC OUTSTANDING (advisor verdict 2026-10-25: blocked on the issues below, which were then corrected in the draft, but the disagreement section still needs genuine substantiation from opened sources before publication). Shape per DOSSIER-MODEL is complete (question, intro, Nearby terms, 3 body subsections, 3 disagreement questions, Practice, Story). Advisor round 1 corrections applied: ego-depletion conclusions narrowed (no claim the model is dead; both multilab results stated with protocols), unsupported bridge claims removed (trainability, 'began by rejecting the central executive', sutta 'rejects manager and muscle', rigidity-from-inhibition), story loglines rewritten against the opened cards (ST325 was misdescribed: it is the attempt-observe-adjust creativity cycle, not executive acts), invented autobiographical opening replaced with GF-register first person, prose em dashes removed. The three disagreement questions remain CANDIDATES: each side must be established from opened passages the next writer actually reads; do not publish on this draft. Registry entry stays "planned".
 
 ## Sources opened this session (all quotes verified from these carriers)
 
