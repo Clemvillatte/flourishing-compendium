@@ -89,3 +89,8 @@ Worker: worker-pplx-dos34-1025j. Session 2026-10-25 ~04:46-05:45Z UTC.
 - Card bodies read in full before use as positions: M031 (Nahua counsel, card itself flags interpretation limits), Y112 (Gita 4.18 definition of the wise worker), D113 (Zhuangzi 6), D039 (Daodejing 26); the page's claims about these cards stay within what their bodies state. "each side can point at the other's wreckage" deleted.
 - Checks after round 4: dossier_check exit 0 (23 card links, 13 headers, 20 carriers); quotes 16/16; density 0; voice audit 0.
 - Status: QC-blocked draft remains. Publication blockers: (1) artwork assignment (owner action), (2) the 3-5 substantiated-disagreement ruling - the page carries 3 substantiated (Aristotle/Russell, Rojek-vs-Pieper-dichotomy as reported by Regi, Kleiber-vs-Tinsley-action contrast) + 4 bounded comparisons, all honestly labelled.
+
+## QC round 4 addendum: Tinsley verification
+
+- The Tinsley & Tinsley 1986 original (Leisure Sciences 8, 1-45) is paywalled; not opened. However, a second open carrier was fetched and read: Tuch, van Schaik and Hornbaek, "Leisure and Work, Good and Bad: The Role of Activity Domain and Valence in Modeling User Experience" (https://research.tees.ac.uk/ws/files/4260488/620108.pdf), which summarizes the Tinsley model and reports that its cognitive attributes include total absorption or concentration in the activity. This confirms the substance of Kleiber's attribution (leisure-as-absorbed-action rather than relaxation) at second hand. The page now cites both second-hand carriers and does not claim to quote Tinsley directly.
+- Checks remain green: 23 card links, 13 headers, 21 carriers, quotes 16/16, density 0, voice audit 0.

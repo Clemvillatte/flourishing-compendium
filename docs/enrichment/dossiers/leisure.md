@@ -72,7 +72,7 @@ Leisure studies has its own version of the fight. Douglas Kleiber, writing in th
 
 > "I share Pieper's view that leisure is most essentially a position of relaxation, of faithful openness to immediate reality." ([Kleiber, The Neglect of Relaxation, 2000](https://www.nrpa.org/globalassets/journals/jlr/2000/volume-32/jlr-volume-32-number-1-pp-82-86.pdf))
 
-As Kleiber reports it, the contrast is direct: whether receptivity or engaged effort is the essence of the best leisure. The Tinsley and Tinsley position is cited at second hand through Kleiber's essay. Kleiber adds a biographical detail that keeps the argument honest, that Pieper himself, asked thirty years on whether anything had changed his mind, answered no.
+As Kleiber reports it, the contrast is direct: whether receptivity or engaged effort is the essence of the best leisure. The Tinsley and Tinsley position reaches this page at second hand, through Kleiber's essay and through later summaries of the model, which list total absorption in the activity among its cognitive attributes ([Tuch, van Schaik and Hornbæk](https://research.tees.ac.uk/ws/files/4260488/620108.pdf)). Kleiber adds a biographical detail that keeps the argument honest, that Pieper himself, asked thirty years on whether anything had changed his mind, answered no.
 
 ### Can uselessness be the point
 
