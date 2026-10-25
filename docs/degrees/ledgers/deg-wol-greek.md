@@ -14,7 +14,7 @@ Agent: worker-pplx-greek-1. T0 recorded 2026-10-25T08:13:03Z (run clock,
 | https://www.youtube.com/watch?v=MuiazbyOSqQ | 2026-10-25T08:16Z | worker-pplx-greek-1 | AR-01 duration 55:11 (lengthSeconds 3311); published 2009-09-09; description and chapter list confirm content: Part One The Good Citizen (Aristotle, purpose of politics, Casey Martin golf case), Part Two Freedom vs. Fit (objections, Aristotle's defense of slavery) |
 | https://www.gresham.ac.uk/watch-now/aristotle | 2026-10-25T08:18Z | worker-pplx-greek-1 | AR-04 talk "Aristotle" by Prof. Edith Hall (Visiting Gresham Professor in Classics; Professor in the Department of Classics and Centre for Hellenic Studies, King's College London), event 4 March 2021, free to watch; page states the talk introduces eudaimonia, virtue, the mean; phronesis not mentioned on the page; page embeds YouTube ido9HCquCi0 |
 | https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=ido9HCquCi0&format=json | 2026-10-25T08:20Z | worker-pplx-greek-1 | AR-04 video exists: "Aristotle", author Gresham College |
-| https://www.youtube.com/watch?v=ido9HCquCi0 | 2026-10-25T08:19Z | worker-pplx-greek-1 | AR-04 duration 44:16 (lengthSeconds 2657); published 2021-03-10; description: lecture by Edith Hall analysing Nicomachean Ethics, Politics and Rhetoric |
+| https://www.youtube.com/watch?v=ido9HCquCi0 | 2026-10-25T08:19Z | worker-pplx-greek-1 | AR-04 duration 44:17 (lengthSeconds 2657; player display 44:16); published 2021-03-10; description: lecture by Edith Hall analysing Nicomachean Ethics, Politics and Rhetoric |
 | https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=jpjjhraoNGg&format=json | 2026-10-25T08:19Z | worker-pplx-greek-1 | AR-06 exists: "Aristotle's Nicomachean Ethics, book 1 | Ethics and Moral Theory | What Is Happiness?", author Gregory B. Sadler - That Philosophy Guy |
 | https://www.youtube.com/watch?v=jpjjhraoNGg | 2026-10-25T08:20Z | worker-pplx-greek-1 | AR-06 duration 1:01:15 (lengthSeconds 3675); published 2011-09-30; description: lecture from Sadler's Fall 2011 Ethics class at Marist College starting the Nicomachean Ethics, question "What is Happiness?", means, ends, disciplines |
 | https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=8Nz5nDXgLZw&format=json | 2026-10-25T08:19Z | worker-pplx-greek-1 | ST-03 exists: "Stoicon 2020 John Sellars", author Modern Stoicism |
@@ -30,10 +30,10 @@ Status vocabulary per the skill. Durations are printed on the source pages
 
 | source_id | status | evidence | date |
 |---|---|---|---|
-| AR-01 | verified-video | oembed confirms existence (Harvard University channel); watch page prints 55:11; content classified from the watch page description and chapter list: Aristotle's virtue-based justice and politics (Part One, 0:29 to 40:15), freedom-based objections (Part Two, from 40:15). Note: this episode does not stage a systematic deontology-versus-consequentialism comparison; it is used for Aristotle's teleology and the fairness-versus-purpose debate. Module instruction adjusted accordingly (module doc, mod-phil-1) | 2026-10-25 |
-| AR-04 | verified-video | Gresham College page (free, institutional host) embeds YouTube ido9HCquCi0; oembed confirms (Gresham College channel); watch page prints 44:16; speaker Edith Hall, credentials on the Gresham institutional page; talk introduces eudaimonia, virtue, the doctrine of the mean (per the Gresham page); phronesis not covered, so phronesis teaching is carried by wiki principle A043 | 2026-10-25 |
-| AR-06 | verified-video | oembed confirms (Gregory B. Sadler channel); watch page prints 1:01:15; content per description: close reading of Nicomachean Ethics book 1 from Sadler's Fall 2011 Ethics class at Marist College; credentials verified on his CV (PhD SIU Carbondale 2002; Marist instructor 2011-2018) | 2026-10-25 |
-| ST-03 | verified-video | oembed confirms (Modern Stoicism channel); watch page prints 28:04; chapters classify content as an introduction to the three parts of Stoicism (logic, ethics, physics); speaker John Sellars, Reader in History of Philosophy, Royal Holloway (institutional profile) | 2026-10-25 |
+| AR-01 | verified-video | oembed confirms existence (Harvard University channel); watch page prints duration (player display 55:07; structured data 55:08; a second in-session read returned 55:11/lengthSeconds 3311; all three figures recorded with provenance, the seconds-level difference does not affect workload); content classified from the watch page description and chapter list: Aristotle's virtue-based justice and politics, Casey Martin golf case, freedom based objections. The deg-verify Block A record (verify/deg-philosophy.md, 2026-10-25) independently confirms and flags that the episode does not stage a side-by-side deontology versus consequentialism treatment; the module assigns it for outcome 2 and the Casey Martin fairness-versus-purpose collision, with the three-way comparison taught in the module's worked example sequence. The page prints no part boundaries, so the whole episode is assigned | 2026-10-25 |
+| AR-04 | verified-video | Gresham College page (free, institutional host) embeds YouTube ido9HCquCi0; oembed confirms (Gresham College channel); duration 44:17 (lengthSeconds 2657; player display reads 44:16, 2657 seconds is 44:17); speaker Edith Hall, credentials on the Gresham institutional page; the Gresham transcript page (opened by deg-verify, verify/deg-philosophy.md) states the talk introduces eudaimonia as happiness/flourishing/living well, happiness as activity, and the excess/mean/deficiency table; phronesis not covered, so phronesis teaching is carried by wiki principle A043 | 2026-10-25 |
+| AR-06 | verified-video | oembed confirms (Gregory B. Sadler channel); watch page prints 1:01:15 (lengthSeconds 3675); content per description: close reading of Nicomachean Ethics book 1 from Sadler's Fall 2011 Ethics class at Marist College; credentials verified on his CV (PhD SIU Carbondale 2002; Marist instructor 2011-2018). deg-verify Block A confirms verified-video, whole lecture assigned | 2026-10-25 |
+| ST-03 | verified-video | oembed confirms (Modern Stoicism channel); duration 28:05 structured / 28:04 player display (both recorded with provenance); chapters classify content as an overview of the three parts of Stoicism (logic, ethics, physics); speaker John Sellars, Reader in History of Philosophy, Royal Holloway (institutional profile), founding member of Modern Stoicism. Optional in mod-phil-1 as the look-ahead to Stoicism; not an Aristotle resource | 2026-10-25 |
 
 ## Workload arithmetic conventions (module 1)
 
@@ -45,10 +45,11 @@ Status vocabulary per the skill. Durations are printed on the source pages
   plus index pages (Book I overview 356 w, Layer I 191, Layer II 243,
   Layer IV 179). Total 5935 words = 33 minutes raw reading, 99 minutes with
   study overhead (estimate).
-- Required video (measured): AR-04 44:16 + AR-01 assigned segment 0:00 to
-  40:15 (40:15) = 1:24:31.
+- Required video (measured): AR-04 44:17 + AR-01 whole episode 55:07
+  (player display; see verification outcomes for the recorded provenance
+  figures) = 1:39:24.
 - Optional video (measured, not counted in the required total): AR-06 1:01:15,
-  ST-03 28:04, AR-01 Part Two 14:52.
+  ST-03 28:05.
 
 ## Coverage matrix
 
@@ -61,3 +62,4 @@ progress).
 | gate | decision | by | date |
 |---|---|---|---|
 | scope | pending: scope doc is a strategist proposal awaiting benchmark against opened authoritative curricula (this session's benchmark work recorded below) | strategist (gate owner) | - |
+| resource-verification (mod-phil-1 sources) | Block A priority batch confirmed by deg-verify (verify/deg-philosophy.md, 2026-10-25): AR-01, AR-04, AR-06, ST-03 all verified-video; findings consumed into this ledger | deg-verify-a | 2026-10-25 |

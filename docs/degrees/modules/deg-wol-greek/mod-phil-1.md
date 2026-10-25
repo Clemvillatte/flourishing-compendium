@@ -56,23 +56,24 @@ reads the particular situation and finds the action that fits it.
   excess and deficiency. Phronesis is not covered here; that term is carried
   by principle A043 and checked in the rubric.
 - AR-01 Justice: What's The Right Thing To Do? Episode 10 "The Good Citizen",
-  Michael Sandel, Harvard University. Assigned segment 0:00 to 40:15 (40
-  minutes 15 seconds): Aristotle on the purpose of politics as cultivating
-  virtue, then the Casey Martin golf case, where fairness arguments collide
-  with the question of what the practice of golf is for. This segment is the
-  model comparison for Outcome 3: the fairness argument and the freedom
-  argument do work that the teleological argument does differently, and the
-  learner should watch for the collision. Part Two (40:15 to 55:11, freedom
-  based objections to Aristotle, including his defence of slavery) is
-  optional.
+  Michael Sandel, Harvard University, whole episode, 55:07 (player display;
+  the page's structured data reads 55:08, and a second in-session read
+  returned 55:11; the seconds-level difference does not change the workload
+  arithmetic). The episode presents Aristotle's view that politics should
+  cultivate virtue, then the Casey Martin golf cart debate about the purpose
+  of a practice, then freedom based objections to Aristotle. The Casey Martin
+  debate is the model comparison for Outcome 3: fairness arguments collide
+  with the question of what the practice of golf is for, and the learner
+  should watch for the collision. The page prints no part boundaries, so the
+  whole episode is assigned.
 
 Optional lectures, verified and linked for learners who want more:
 
 - AR-06 Aristotle's Nicomachean Ethics book 1, Gregory B. Sadler, 1:01:15, a
   close reading of the primary text (means, ends, and the question what
   happiness is).
-- ST-03 Stoicon 2020, John Sellars, 28:04, a first look at Stoicism, the
-  subject of the next module.
+- ST-03 Stoicon 2020, John Sellars, 28:05 (structured data; the player
+  displays 28:04), a first look at Stoicism, the subject of the next module.
 
 ### Step 3: worked example with fading (Outcome 3)
 
@@ -153,24 +154,25 @@ can self-check.
   the 238 wpm default adjusted down by purpose) that is 33 minutes of raw
   reading; with study overhead at three times raw reading, about 1 hour 40
   minutes (estimate, labelled).
-- Required video (measured): AR-04 44:16 plus AR-01 assigned segment 40:15,
-  total 1:24:31.
+- Required video (measured): AR-04 44:17 plus AR-01 whole episode 55:07,
+  total 1:39:24.
 - Retrieval activities: about 30 minutes (estimate).
 - Worked example study and the faded practice: about 30 minutes (estimate).
 - Graded activity including self-assessment: about 45 minutes (estimate).
 
-Total: about 4 hours 50 minutes. The legacy module claimed 4 hours with no
+Total: about 5 hours 5 minutes. The legacy module claimed 4 hours with no
 arithmetic behind it; the figure above is the computed total. Optional
-material (AR-06 1:01:15, ST-03 28:04, AR-01 Part Two 14:52) is not counted.
+material (AR-06 1:01:15, ST-03 28:05) is not counted.
 
 ## Verification status of attached sources
 
 All four attached sources are verified to the skill's standard with evidence
-and dates in ledgers/deg-wol-greek.md: AR-01 verified-video (55:11),
-AR-04 verified-video (44:16), AR-06 verified-video (1:01:15), ST-03
-verified-video (28:04). No imported labels remain on attached sources. The
-deg-verify band's Block A confirmation is still pending; the module may not
-clear the resource-verification gate until it lands.
+and dates in ledgers/deg-wol-greek.md: AR-01 verified-video (55:07),
+AR-04 verified-video (44:17), AR-06 verified-video (1:01:15), ST-03
+verified-video (28:05). The deg-verify band's Block A priority batch
+(verify/deg-philosophy.md, 2026-10-25) independently verified all four and
+its findings are consumed into the ledger; the resource-verification gate
+rests on that Block A confirmation.
 
 ## Alignment map
 
