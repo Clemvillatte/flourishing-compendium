@@ -13,3 +13,13 @@ Verification round on ready-unpublished drafts across lanes (mechanical + quote 
 - Earlier same session (s1a/s1c lanes): s1a-031, s1a-043, s1c-039 quotes verbatim;
   published-page samples ST466/ST469 verbatim; full mechanical sweep logged in
   s1c/QC-sweep-2026-10-25.md.
+
+## Round 3 (same session)
+
+- s1d-009 (The Man Who Carried His Raft, MN 22 Thanissaro via Access to Insight):
+  both quoted spans verbatim against the live page.
+- s1b-037 (The Vessel in the Zhou Temple, ctext.org Shuoyuan Jing Shen): the
+  source page is currently bot-walled to automated re-opening (broken_content_ip_block),
+  so an independent re-fetch was not possible this session; the ledger's access event
+  (2026-10-24, full-string verification recorded) stands as the teller's own
+  verification. No defect found; flagged for awareness only.
