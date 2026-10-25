@@ -715,3 +715,30 @@ changed; the first-person leanings stand. Flagged for the supervisor:
 body.md is published, so the Academy site data (site/assets/app.js) needs
 a rebuild to pick up this wording; that splice is supervisor-only and was
 not touched.
+
+## Y048 carrier verification (2026-10-25, worker-pplx-dos17-1025z)
+
+The Y048 principle card's quoted carrier, James Haughton Woods, The
+Yoga-System of Patanjali (1914), Internet Archive
+(https://archive.org/details/yogasystemofpata00wooduoft), was opened
+this session as the archive's plain-text extraction
+(yogasystemofpata00wooduoft_djvu.txt, fetched directly). The Sutra 1.34
+passage sits under the running header "[72", matching the card's page
+locator. Every quoted span in the card was matched in the extracted
+text, allowing for line-break hyphenation and two djvu OCR quirks noted
+below: "Or [he gains stability] by expulsion and retention of breath"
+(PASS, appears twice, sutra and commentary); "Expulsion is the ejection
+of the abdominal air through the apertures of the nose by a special kind
+of effort" (PASS; djvu renders "Retention" as "Betention" and splits
+"aper-tures", both OCR artifacts, the underlying words are unambiguous);
+"restraint of the breath" (PASS); "keeping of it outside" and "not
+allowing it to enter suddenly" (PASS, commentary gloss); "by these two,
+the expulsion and retention of wind, his body becomes light and his
+central organ gains the stable state" (PASS); "special kind of effort,
+described in books of Yoga" (PASS); and the "or" reading, "The word 'Or'
+signifies that there is a choice with regard to other means [now] to be
+stated, but not with regard to cultivation of friendliness" (PASS). The
+card's page citation (p. 72) is confirmed by the running header. The
+card's interpretive claim, that the "or" marks a choice among further
+means after 1.33, is the commentary's own statement. This closes the
+Y048 item left pending in the 1025h ledger entry.
