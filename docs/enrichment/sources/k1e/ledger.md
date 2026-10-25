@@ -536,3 +536,7 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 - Read the full page; both verbatim quotes re-verified against freshly opened carriers: the Rockman MBCT Session-3 participant handout (OSU CDN PDF; all three quoted sentences confirmed verbatim, including "erect and dignified posture" and "body as a whole, your posture, and facial expression") and the CU Scholar thesis text (confirmed via search-engine snippet of the repository PDF after the direct PDF fetch was robots-blocked).
 - Attribution correction: the dissemination-study quote was cited as "Brewer et al. (2025)" — wrong. The repository document is Zajicek, A. (2014), senior honors thesis, University of Colorado Boulder. Quote text itself is verbatim-genuine; attribution fixed in Evidence and Sources.
 - Validated: enrich_validate.py exit 0. Recorded done in k1e state. No other band's files touched.
+
+## 2026-10-25 (worker pplx-artcurator-1025a) — K390 The Raisin meditation
+- Read the full page; all three verbatim quotes re-verified against freshly opened carriers: Kabat-Zinn Full Catastrophe Living ch.1 (UCSF Osher PDF, downloaded and text-extracted; "we give everybody three raisins..." sentence confirmed verbatim with surrounding context), Greater Good in Education "Eating A Raisin With Mindfulness" (both quoted sentences verbatim), Fede Lozano "Raisin Exploration" (quoted sentence verbatim).
+- No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
