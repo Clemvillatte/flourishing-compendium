@@ -100,3 +100,19 @@ voice/style call.
 
 Checks: dossier_check.py exit 0 (run this session). Editorial review
 only; no external carriers freshly opened this pass.
+
+## Supervisor bounded full-text check (2026-10-25, supervisor-pplx-1024c)
+
+Per the open flag on the prefix-checked sweeps, ONE gloss is now
+compared in FULL TEXT against its COMPLETE linked card (scope: this
+item only; the rest of the sweep remains open): the Chronic pain
+acceptance entry. Result: MATCH — the dossier gloss ("engagement in
+activity with pain present, without restrictions by pain or
+attempts to avoid or control it; the McCracken and Vowles
+definition") is a faithful compression of the card's quoted
+definition (McCracken & Vowles 2008, p. 216, via Cook et al. 2015:
+"a behavior pattern of engagement in activity with pain present,
+but without restrictions by pain, or attempts to avoid or control
+pain"), with only "a behavior pattern of" compressed away and
+"but" dropped; the attribution is accurate. Card opened and read in
+full this pass.
