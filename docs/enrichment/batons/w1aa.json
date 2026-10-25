@@ -39,5 +39,7 @@
    "from": "Agent continuation, ",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T01:12:51+00:00"
 }
