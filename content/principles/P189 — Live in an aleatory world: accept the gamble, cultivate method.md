@@ -12,15 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 189** — Live in an aleatory world: accept the gamble, cultivate method
 
-Dewey's word for the world we actually live in is aleatory — dice-shaped, ruled by chance. "Man finds himself living in an aleatory world; his existence involves, to put it baldly, a gamble" ([Dewey 1925, Experience and Nature](https://archive.org/details/experiencenature00dewe)). The world is a scene of risk, its dangers irregular, inconstant, not to be counted upon. This is a description of the conditions, and the first move is to accept that description rather than fight it.
+Dewey borrows "aleatory" from the language of dice: an aleatory world is one where outcomes depend on chance. In *Experience and Nature* he treats this as the plain condition of human life, and he says it in one of his most quoted passages ([Dewey, Experience and Nature, ch. 2](https://archive.org/stream/in.ernet.dli.2015.188224/2015.188224.Experience-And-Nature-John-Dewey_djvu.txt)).
 
-The second move is the one that separates Dewey from fatalism: once the gamble is accepted, intelligence goes to work. Dewey explicitly endorses insurance, regulation and acknowledgment as intelligent responses — not advice to reject risk management, but to build methods that manage risk without pretending to eliminate it. Inquiry, planning, mutual aid: these are the moves you make with the dice already rolling.
+> "Man finds himself living in an aleatory world; his existence involves, to put it baldly, a gamble. The world is a scene of risk; it is uncertain, unstable, uncannily unstable. Its dangers are irregular, inconstant, not to be counted upon as to their times and seasons." (Dewey, *Experience and Nature*, ch. 2, "Existence as Precarious and as Stable")
 
-> "Man finds himself living in an aleatory world; his existence involves, to put it baldly, a gamble. The world is a scene of risk; it is uncertain, unstable, uncannily unstable." (John Dewey, Experience and Nature, 1925, [Internet Archive](https://archive.org/details/experiencenature00dewe))
+The gamble runs in both directions. A few lines later he writes that "Plague, famine, failure of crops, disease, death, defeat in battle, are always just around the corner, and so are abundance, strength, victory, festival and song."
 
-**Plain words** Every serious plan you make is a bet placed in a world that has not agreed to hold up its end. The dice-shaped quality of things is not a defect to be solved; it is the table you are playing on. What separates a person who flourishes here from one who does not is not the absence of risk; it is whether they sized the bet, kept reserves, and had people to call. Accepting the gamble does not mean liking it; it means stopping the argument with reality so the actual planning can begin.
+### Why the first move is to admit it
 
-*For example:* Two people move to a new city. One treats any setback — the bad job, the difficult year — as evidence the whole move was a mistake. The other names the same setback as the aleatory and asks what the method is now: reserves, contacts, next quarter's plan. Same setback, different relation to the dice. One of them is still arguing with the table; the other is playing.
+Dewey says our usual safeguard is made of words. Our "magical safeguard against the uncertain character of the world is to deny the existence of chance, to mumble universal and necessary law, the ubiquity of cause and effect, the uniformity of nature, universal progress, and the inherent rationality of the universe." Science and tools have given us real power of prediction and control, yet he judges that "the fundamentally hazardous character of the world is not seriously modified, much less eliminated."
+
+### What follows from admitting it
+
+Once the risk is admitted, the work is to put what is dependable in the world to use against what is not. Dewey calls this "the genuinely moral problem of mitigating and regulating the troublesome factor by active employment of the stable factor." Elsewhere in the chapter he calls "the striving to make stability of meaning prevail over the instability of events" the "main task of intelligent human effort." He also does not wish the risk away: "A world that was wholly risky would be a world in which adventure is impossible, and only a living world can include death."
+
+**Plain words** Every plan you make is a bet, because the future does not check with you first. Pretending otherwise leaves you unprepared when the bet goes wrong. Admit that things can go either way, then use what is reliable (tested knowledge, tools, a rule you set in advance) to make the bad outcomes smaller and the good ones likelier.
+
+*For example:* Imagine a sailor planning a day trip. She cannot control the wind, so she reads the forecast, checks her gear before leaving, and decides beforehand what wind strength will make her turn back. The forecast and the rule are the dependable part, put to work on the unpredictable part. The weather stays as chancy as before.
+
+## Sources
+
+- [John Dewey, Experience and Nature (Open Court text, copyright 1925 and 1929; First Indian Edition 1965), Internet Archive full text](https://archive.org/stream/in.ernet.dli.2015.188224/2015.188224.Experience-And-Nature-John-Dewey_djvu.txt): chapter 2, "Existence as Precarious and as Stable". All quotations on this page come from it.
 
 ## Stories
 
@@ -33,11 +45,13 @@ The second move is the one that separates Dewey from fatalism: once the gamble i
 
 ## Practice
 
-- When a plan fails or luck turns against you, do not read it as a verdict on your worth. Name it as the aleatory. Then ask: what method would help here?
+- When a plan fails or luck turns against you, name it as chance before reading it as a verdict on your worth (a change in Cognition). Then pick one small change that draws on something dependable, such as a checklist, a reserve or a rule made in advance. Try it, see whether the next outcome improved, and keep what helped.
 
 ## Limits
 
-- Dewey explicitly endorses insurance, regulation, and acknowledgment as intelligent responses. Not advice to reject risk management.
+- Dewey writes that "the concern is not with morals but with metaphysics". His chapter describes the world and does not offer a risk-management plan, so the practice above is my reading of his "main task of intelligent human effort", not his own list of steps.
+- He warns that comfort can also hide the problem: our attainments "are only devices for blurring the disagreeable recognition of a fact, instead of means of altering the fact itself."
+
 ## Philosophy parallels
 
 - **[[Intolerance of uncertainty]]**
