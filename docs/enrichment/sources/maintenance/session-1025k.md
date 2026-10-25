@@ -222,3 +222,6 @@ Parsed 184 PMC records for quotes on principle pages; the XML service returns fu
 
 ## Audit: remaining PMC quotes
 AF035 ([Petri et al. 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC10172524/)), AT047 ([Lutz et al. 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/)), BE039 ([Edinger et al. 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/)) and SP034 ([Tangney et al. 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3092296/)) quotes confirmed verbatim in the opened pages. Still unchecked: P163, PP083, SE011.
+
+## Audit: last PMC quotes
+SE011 (redemption and contamination sentence in [Sawatzki and Thomsen](https://pmc.ncbi.nlm.nih.gov/articles/PMC13359288/)) and P163 (creative hopelessness sentence in [Kanter, Baruch and Gaynor](https://pmc.ncbi.nlm.nih.gov/articles/PMC2223147/)) confirmed verbatim. Note for the supervisor: the Sawatzki and Thomsen record shows online publication 2025-11-20 while the PMC page header reads 2026; the page cites 2025.
