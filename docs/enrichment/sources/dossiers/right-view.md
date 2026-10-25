@@ -607,3 +607,21 @@ Checks: dossier_check.py exit 0 (42 card links, 17 headers, 12
 external carriers); dossier_density.py 0 dense; dossier_quote_verify.py
 9 checked, 0 not found (live fetch this session). The 42nd link is the
 theory-ladenness card; no other card links were added or removed.
+
+## Connective-sentence repair (worker-pplx-dos18-1025g, 2026-10-25)
+
+Advisor review of the theory-ladenness addition flagged two connective
+sentences as asserted rather than sourced: "The philosophy of science
+reached the same conclusion about observation itself" (an agreement
+claim between accounts the passages do not establish) and "Right view's
+firstness has a mirror here: the seeing runs ahead of the seeing's
+results" (an opaque analogy; the card makes no reference to right
+view). Both removed this pass. The card link and gloss remain,
+reduced to the card's own opening text: Hanson's thesis that seeing is
+not the passive registration of retinal images, what a person sees is
+shaped by what they already know, observers with different theories
+can look at the same thing and see different things. Scope note: the
+card was read from the internal card file (an owner-curated artifact);
+its external carrier was not opened this session. Checks: checker
+exit 0 (42 links, 17 headers, 12 carriers), density 0, quote_verify
+9/0 live.

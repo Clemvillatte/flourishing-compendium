@@ -77,7 +77,7 @@ The factor that follows view in the list is [right intention](https://clemvillat
 
 If seeing is a human act, it happens from somewhere. [The standpoint determines what appears](https://clemvillatte.github.io/flourishing-compendium/#card=The%20standpoint%20determines%20what%20appears) is Husserl's account of embodied seeing: things appear from one side, at a distance, from an angle, and there is no view from nowhere.
 
-The philosophy of science reached the same conclusion about observation itself. [The theory-ladenness of observation](https://clemvillatte.github.io/flourishing-compendium/#card=The%20theory-ladenness%20of%20observation) is Hanson's thesis that seeing is not the passive registration of retinal images: what a person sees is shaped by what they already know, and observers with different theories can look at the same thing and see different things. Right view's firstness has a mirror here: the seeing runs ahead of the seeing's results.
+[The theory-ladenness of observation](https://clemvillatte.github.io/flourishing-compendium/#card=The%20theory-ladenness%20of%20observation) is Hanson's thesis that seeing is not the passive registration of retinal images: what a person sees is shaped by what they already know, and observers with different theories can look at the same thing and see different things.
 
 On the psychological side, the attentional-bias principles stand as parallels of the view's obstruction: threat captures attention, and negative bias and rumination narrow it, in anxiety and depression.
 
