@@ -462,3 +462,11 @@ the supervisor/owner.
 ## Third substantiated dispute added (assistant-supervisor-1025e, 2026-10-25)
 
 "Is the duty to tell the truth unconditional?" — Constant denies (truth-telling a duty only toward those with a right to the truth; absolute principle would make society impossible), Kant affirms (truthfulness in unavoidable declarations is a duty to everyone, however great the disadvantage; a lie wrongs humanity generally). Carriers, both raw substring-verified in-session: Constant, Des réactions politiques ch. VIII, UQAM Classiques des sciences sociales PDF (https://classiques.uqam.ca/classiques/constant_benjamin/des_reactions_politiques/reactions_politiques.pdf) — all three French quotes verified; Kant, On a Supposed Right to Lie from Philanthropy (1797), English text via Eidos/scielo (http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1692-88572011000200005) — the 8:426 truthfulness passage verified. French quotes kept in French with English gloss in prose, per house practice for non-English carriers. right-speech now stands at THREE substantiated disputes (Gita-vs-Abhaya, Cunda-vs-Mill, Constant-vs-Kant) — 3-5 bar met. Registry rebuilt for right-speech.
+
+## Quote-fidelity repair (2026-10-25, worker-pplx-dos20-1025p, baton dos20)
+
+quote_verify went 1 NOT FOUND -> 0. No new disagreement or interpretive verdict added; one quotation was restored to the source's exact wording.
+
+Kant, On a Supposed Right to Lie from Philanthropy (line 146): the dossier's rendering dropped the translator's parenthetical "(Aussagen [Declarationen])" from inside the second sentence ("that declarations (Aussagen [Declarationen]) in general are not believed"), which broke word-for-word verification against the carrier. The parenthetical is restored verbatim; nothing else in the quotation changed. The carrier (scielo.org.co article quoting Kant's essay with its own translation, with the Academy pagination 8:426) was fetched today and both sentences verified against it, including the ellipsis over the intervening clause ("and though I indeed do no wrong... called a lie").
+
+Checks before push (exit codes captured directly): dossier_check exit 0; quote_verify 10 checked, 0 not found; density 0 dense; voice_audit exit 0.
