@@ -470,3 +470,27 @@ disagreement — an honest interpretive note). Editorial review only;
 no carriers or cards freshly opened this pass.
 
 Checks: dossier_check.py exit 0. Scope: candidate-line review.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+Following the advisor QC direction after two misattributed entries were
+found in the fear dossier, all 26 concept and principle entries in this
+dossier's map sections were compared against their linked cards (card
+files opened and read side by side with the glosses). Every gloss
+matches its card, including the canonical cluster (right view in both
+its appearances, Four Noble Truths, Eightfold Path, three trainings,
+karma, dependent origination, middle path, right intention, action over
+intention), distinguishing practice from theory via the MN 22 raft
+simile, the two-forms section from the Mahācattārīsaka Sutta, Beck's
+cognitive distortions, the coloured lens with its Gallegos caution,
+first impressions bias, appraisal theory, Husserl's standpoint entry,
+the Diamond Sutra four views, the Madhyamaka emptiness cluster
+(shunyata, emptiness of inherent nature, emptiness of emptiness),
+Dewey's ends-in-view, fixed views of self, Mill's partial truths,
+steelmanning, and the Stoic view from above. No mismatches found; no
+edits made. This strengthens the earlier voice-audit review (all 5
+candidates kept): the flagged constructions are card-faithful as well
+as doctrinally sourced.
+
+Checks: dossier_check.py exit 0 (run again this session). Editorial
+review only; no external carriers freshly opened this pass.
