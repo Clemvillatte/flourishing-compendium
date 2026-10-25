@@ -1,5 +1,18 @@
 # Dossier art gallery (owner's collection)
 
+## Owner selection: Meaning & Mortality (2026-10-25)
+
+The owner supplied Rockwell Kent's Memory for this dossier.
+[Christie's catalogue, lot 55, sale 23121](https://onlineonly.christies.com/s/graphic-century-exceptional-impressions-alan-marianne-schwartz/rockwell-kent-1882-1971-55/238832)
+identifies it as a 1928 chiaroscuro lithograph in gray-green and black.
+The catalogue was opened on 2026-10-25; its fetched description supplies
+the title, artist, medium and date.
+
+Asset: `site/assets/dossier-art/meaning-and-mortality.jpg`.
+The crop removes the outer paper and mount margins but preserves the
+printed composition. There is no invented extension or generated imagery.
+The manifest records the original upload filename and catalogue URL.
+
 Written 2026-10-24 under the dossiers baton. The owner directed that
 dossier thumbnails come from the owner's art collection, matched by
 theme, meaning and symbolism, with some consistency in colour and

@@ -1,5 +1,26 @@
 # Supervisor review log (dossiers)
 
+## Current correction: Meaning & Mortality, 2026-10-25 14:47Z, gm-c2183cca
+
+The prior "three disagreements" report was inaccurate: the manuscript
+had only two subsections. Williams/Nagel's compatible claims remain a
+comparison, not a third dispute. A genuine third has now been added:
+Marcus II.14's present-only possession versus Nagel's lost possible future,
+with the Keats/Tolstoy comparison from page 7. Advisor QC approved this
+distinct framing; it is not a duplicate of Epicurus's no-awareness objection.
+Both exact passages were freshly opened. Marcus II.11, Epicurus and
+Spinoza IV.67 were also reopened to clear the outstanding counter-passage
+verification gate. The ledger records the limits of this targeted recheck.
+
+The registry's owner own-page ruling resolves the old slug gate.
+The supplied Rockwell Kent Memory artwork is installed, with artist,
+title and 1928 date verified in the opened
+[Christie's catalogue](https://onlineonly.christies.com/s/graphic-century-exceptional-impressions-alan-marianne-schwartz/rockwell-kent-1882-1971-55/238832).
+Current verdict: PASS for publication after dossier validator exit 0
+and density check zero dense paragraphs. The registry and compiled
+site are updated together; the older contradictory notes below are
+retained as history, not as the current verdict.
+
 Written by the supervisor-role manager, 2026-10-25. Read this before you call a dossier worker-complete. A dossier is published only when it clears this log. Verdicts are about the prose a reader meets, not about whether links resolve.
 
 ## How to self-check before asking for review

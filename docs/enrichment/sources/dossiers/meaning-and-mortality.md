@@ -447,3 +447,50 @@ The 10:59Z note's line that folding into impermanence "dissolves the
 below-bar question" overstates: a merged dossier must still satisfy the
 disagreement bar on its own terms. Folding changes the count's
 composition, not the requirement. The rest of the note stands.
+
+## Supervisor repair and owner artwork, 2026-10-25 14:47Z
+
+The inherited review records contradicted the manuscript. It had two
+dispute subsections, not three: the Williams/Nagel comparison explicitly
+describes compatible claims and cannot be counted as a third disagreement.
+The registry already records the owner's own-page ruling, so the old
+slug/overlap gate is resolved, not a question to ask the owner again.
+
+A third, distinct dispute has now been added: whether dying young takes
+more away. It concerns the object and comparative amount of deprivation,
+not Epicurus's absent-subject/no-awareness objection.
+
+Freshly opened this session:
+
+- [Marcus, Meditations II, Long translation](https://classics.mit.edu/Antoninus/meditations.2.two.html):
+  II.14 says "the longest liver and he who will die soonest lose just the same.
+  For the present is the only thing of which a man can be deprived".
+  The present-possession condition is stated, not omitted. II.11 also
+  confirms the existing quoted reminder to regulate acts and thoughts.
+- [Nagel, Death, full seven-page PDF](https://rintintin.colorado.edu/~vancecd/phil150/Nagel.pdf):
+  page 7 says "Keats' death deprived him of many years of life which were
+  allowed to Tolstoy; so in a clear sense Keats' loss was greater".
+  The dossier preserves Nagel's immediate qualification that Tolstoy's
+  loss need not be insignificant. Pages 1, 5, 6 and 7 also confirm the
+  existing deprivation and possible-continuation quotations.
+- [Epicurus, Letter to Menoeceus, Hicks translation](https://classics.mit.edu/Epicurus/menoec.html):
+  confirms the existing death-is-nothing and awareness passages.
+- [Spinoza, Ethics, Bennett version, IV.67](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf):
+  confirms the existing meditation-on-life quotation and demonstration
+  about not being led by fear of death.
+
+Advisor QC approved the proposed third dispute's narrow framing. The
+final paragraph states the writer's assessment as an assessment; neither
+source is made to supply a general ranking of young and old deaths.
+The Williams/Nagel comparison remains intact and is not counted.
+
+The owner supplied Rockwell Kent's Memory. The opened
+[Christie's catalogue, lot 55, sale 23121](https://onlineonly.christies.com/s/graphic-century-exceptional-impressions-alan-marianne-schwartz/rockwell-kent-1882-1971-55/238832)
+identifies it as a 1928 chiaroscuro lithograph in gray-green and black.
+The uploaded image, not a substitute, is installed with only outer
+sheet margins removed; its source filename and crop are in the art manifest.
+
+Validation: dossier_check.py exit 0, 26 resolving card links, 14 headers,
+39 external carriers; density check 32 paragraphs, zero dense.
+Prior whole-dossier quote audits are preserved as prior audits, not
+misrepresented as a fresh verification of every quotation this session.

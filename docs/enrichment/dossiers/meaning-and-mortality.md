@@ -116,6 +116,20 @@ The proof opens by saying that such a man "isn't led by fear of death" ([Ethics 
 
 A bounded, scheduled reminder fits Marcus, and the rest of the month fits Spinoza; that compromise is my own, and neither author proposes it. I read one proposition from each. Spinoza's claim depends on his account of freedom and the affects, and I have not examined how the Stoics' wider doctrine on emotion shapes Marcus's use of the reminder.
 
+### Does dying young take more away?
+
+Marcus makes a stronger claim than the reminder to use the day. In Book II.14 he says that a long life and a short one lose the same thing at death:
+
+> "the longest liver and he who will die soonest lose just the same. For the present is the only thing of which a man can be deprived" ([Meditations II.14, Long trans.](https://classics.mit.edu/Antoninus/meditations.2.two.html))
+
+The condition matters: for Marcus, only the present is possessed, so a future not yet possessed cannot be taken away ([Meditations II.14](https://classics.mit.edu/Antoninus/meditations.2.two.html)). Nagel counts the possible continuation instead. Comparing Keats's death at twenty-four with Tolstoy's at eighty-two, he writes:
+
+> "Keats' death deprived him of many years of life which were allowed to Tolstoy; so in a clear sense Keats' loss was greater" ([Nagel, "Death", p. 7](https://rintintin.colorado.edu/~vancecd/phil150/Nagel.pdf))
+
+Nagel immediately adds that this does not make Tolstoy's loss insignificant ([Nagel, "Death", p. 7](https://rintintin.colorado.edu/~vancecd/phil150/Nagel.pdf)). The disagreement is about what can be lost and how losses compare, not about how long the dead remain nonexistent. Marcus restricts loss to present possession; Nagel includes valuable possibilities that death prevents.
+
+I find Nagel's account more convincing here. The fact that I do not yet possess tomorrow does not, to me, make its cancellation count for nothing. I can use Marcus's reminder to return to this day without accepting his equality claim as a measure of what a death takes away. I have compared one passage from each text, not established a general ranking of younger and older deaths.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the lived-as-immortal default; the practices meet it with deliberate, bounded confrontation rather than brooding, the direction the remembrance family above shares.
