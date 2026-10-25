@@ -82,7 +82,7 @@ His conclusion, however, grants Socrates a qualified victory: the position Socra
 
 The dispute bears directly on postponing an intended action: akrasia is broader than procrastination, and neither modern review settles this philosophical question.
 
-### Is delay by its nature self-defeating?
+### Is active procrastination procrastination, or purposeful delay?
 
 The shared question: does the word procrastination name a delay that costs the delayer, or can chosen delay work in the person's favour? The definition the field works with puts the cost inside the concept, as what the delayer expects, not what the outcome later shows. Sirois and Pychyl open their account with it:
 
@@ -100,13 +100,13 @@ Their abstract concludes that procrastination "appears to be a self-defeating be
 
 A construct-validity test of the new construct sides with the definition against it:
 
-> "correlational results revealed that active procrastination has been mislabeled as a type of procrastination that is more appropriately construed as purposeful delay with adaptive qualities." ([Chowdhury 2016, doctoral thesis, Carleton University, abstract via Semantic Scholar](https://www.semanticscholar.org/paper/f75c5c0d8c30510c44b74e99419e11c9599bc89f))
+> "correlational results revealed that active procrastination has been mislabeled as a type of procrastination that is more appropriately construed as purposeful delay with adaptive qualities." (Chowdhury 2016, thesis abstract via [Semantic Scholar](https://www.semanticscholar.org/paper/f75c5c0d8c30510c44b74e99419e11c9599bc89f))
 
-Expected harm is part of this definition of procrastination, not an exclusion from it: a person can procrastinate despite an unexpectedly good outcome if they anticipated harm when delaying, and purposeful delay undertaken without that expectation falls outside the definition. The disagreement concerns whether the word should carry that expectation at all, and it stays open. Chu and Choi's abstract reports a deliberate type with outcomes matching nonprocrastinators; the construct-validity thesis reports that the construct fails to replicate its nomological network and is better named purposeful delay; neither abstract settles whether "active procrastination" names a separate behaviour or planning that happens to look like delay, and both studies use student samples.
+Expected harm is part of the research definition: an unexpectedly good outcome does not establish that the original delay fell outside it. Chu and Choi nevertheless classify active procrastinators as a positive type; Chowdhury argues that this construct is mislabeled and better understood as purposeful delay. The disagreement concerns whether active procrastination belongs within procrastination or names a different form of delay, and neither abstract settles it.
 
 ### When judgment and action part, what gives way?
 
-The shared question: the procrastinator still judges the task worth starting, so what exactly fails when the starting does not happen? Davidson's answer, which set the modern terms of the debate, makes the failure one of judgment: the incontinent act is intentional action against the agent's all-things-considered better judgment.
+Is weakness of will action against one's current better judgment, or an over-ready revision of an intention? Davidson characterizes incontinent action in terms of the first; Holton argues that weakness of will is a different phenomenon.
 
 > "In doing b an agent acts incontinently if and only if: (a) the agent does b intentionally; (b) the agent believes there is an alternative action a open to him; and (c) the agent judges that, all things considered, it would be better to do a than to do b." (Davidson 1970, quoted in the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/weakness-will/))
 

@@ -612,17 +612,26 @@ gone); the Davidson-Holton application is bounded to what the sources
 say (no empirical generalisation about procrastinators' judgments, no
 prescriptive bridge to the if-then plan, no claim about what neither
 essay addresses); the active-delay opposition is now substantiated with
-a correctly identified carrier: Chowdhury 2016, doctoral thesis,
-Carleton University, DOI 10.22215/etd/2016-11554, abstract via
-Semantic Scholar (corpus 150847280). Bibliographic note: this is NOT
-the Chowdhury and Pychyl 2018 PAID article; it is the same author's
-2016 thesis carrying the same argument, and the dossier cites it under
-its own identity. Quote-verification exception (documented): the
-Semantic Scholar page is JS-rendered, so raw-curl matching fails
-(quote_verify reports 1 not found); the page was opened twice with
-rendered fetches this session and the abstract text confirmed
-identically by eye, per the HANDOFF's blocked-fetch rule. Corrected
-tally: two established philosophical disagreements (Socrates-Aristotle;
-Davidson-Holton) plus the active-delay opposition (Chu-Choi vs
-Chowdhury 2016 thesis, both sides verbatim from opened carriers),
-pending the focused final review.
+a correctly identified carrier: Chowdhury 2016, thesis, abstract via
+Semantic Scholar (corpus 150847280, DOI 10.22215/etd/2016-11554).
+Bibliographic note: this is NOT the Chowdhury and Pychyl 2018 PAID
+article; the page metadata establishes author, title, year and DOI but
+not the degree type or the relationship to the 2018 article, so the
+dossier cites it conservatively as "Chowdhury 2016, thesis abstract
+via Semantic Scholar".
+
+Quote-verification record for the Chowdhury sentence (corrected this
+round): the Semantic Scholar page is JS-rendered, so the raw-body
+matcher reports the quote as not found. The verification evidence is
+metadata-based: a raw-HTML fetch of the page shows the complete
+abstract verbatim in the og:description meta tag, including the quoted
+sentence, plus citation_title and citation_author tags. The earlier
+"confirmed by eye" wording overstated the method and is superseded by
+this record. Tally: two established philosophical disagreements
+(Socrates-Aristotle; Davidson-Holton) plus the active-delay opposition
+(Chu-Choi vs Chowdhury 2016), all sides verbatim from opened carriers.
+Round-4 repairs: heading and close of the active-delay dispute replaced
+with the classification-framed versions; the philosophical dispute's
+introduction replaced with the judgment-vs-intention-revision framing;
+"both studies use student samples" removed from that close (the
+thesis abstract does not establish its sample).
