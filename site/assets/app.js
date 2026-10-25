@@ -10011,7 +10011,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The other thing that finding leaves open is where the striving comes from. [Achievement motivation theory](card:Achievement%20motivation%20theory), the McClelland and Atkinson account, explains achievement behaviour as arising in situations with a standard of excellence, which locates the motive in meeting a standard rather than in the aim's content. Read together, these theories treat the aim as an instrument: chosen well, it organises effort rather than naming a wish."
+          "x": "The other thing that finding leaves open is where the striving comes from. [Achievement motivation theory](card:Achievement%20motivation%20theory), the McClelland and Atkinson account, explains achievement behaviour as arising in situations with a standard of excellence, which locates the motive in meeting a standard rather than in the aim's content. Read together, these theories treat the aim as an instrument: chosen well, it organises effort; the wanting is a separate thing."
         },
         {
           "t": "p",
@@ -10043,7 +10043,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Steering is a separate skill from choosing, and what steering consists in is a loop. [Self-regulation](card:Self-regulation) guides behaviour toward goals using feedback about current progress, and [control theory of self-regulation](card:Control%20theory%20of%20self-regulation) makes the loop explicit as feedback comparing current state to goals."
+          "x": "Steering is a separate skill from choosing, and it runs as a loop. [Self-regulation](card:Self-regulation) guides behaviour toward goals using feedback about current progress, and [control theory of self-regulation](card:Control%20theory%20of%20self-regulation) makes the loop explicit as feedback comparing current state to goals."
         },
         {
           "t": "p",
@@ -10051,7 +10051,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "What counts as steering at all has its own tests. [Goal-directed behavior theory](card:Goal-directed%20behavior%20theory), developed by Anthony Dickinson and Bernard Balleine, says an action counts as goal-directed only when it meets two: the belief criterion, knowledge of the relationship between the action and its consequences, and the desire criterion, the outcome's current motivational value. A habit that fires regardless of whether the outcome is still wanted fails the second test, which is why the same daily action can be pursuit in one case and habit in another."
+          "x": "Whether an action counts as steering at all can be tested. [Goal-directed behavior theory](card:Goal-directed%20behavior%20theory), developed by Anthony Dickinson and Bernard Balleine, says an action counts as goal-directed only when it meets two: the belief criterion, knowledge of the relationship between the action and its consequences, and the desire criterion, the outcome's current motivational value. A habit that fires regardless of whether the outcome is still wanted fails the second test, which is why the same daily action can be pursuit in one case and habit in another."
         },
         {
           "t": "p",
@@ -10063,7 +10063,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Progress, meanwhile, has its own psychology: [the progress principle](card:The%20progress%20principle), Amabile and Kramer's finding from knowledge workers' diaries, is that visible progress feeds a positive inner work life. The environment is not neutral either: [stimulus control theory](card:Stimulus%20control%20theory) arranges environmental cues so the target behaviour occurs in their presence, and [situation-sensitivity in self-regulation](card:Situation-sensitivity%20in%20self-regulation) is the research on matching strategy to context, since no lever fits every situation."
+          "x": "Progress itself is a psychological input: [the progress principle](card:The%20progress%20principle), Amabile and Kramer's finding from knowledge workers' diaries, is that visible progress feeds a positive inner work life. The environment is not neutral either: [stimulus control theory](card:Stimulus%20control%20theory) arranges environmental cues so the target behaviour occurs in their presence, and [situation-sensitivity in self-regulation](card:Situation-sensitivity%20in%20self-regulation) is the research on matching strategy to context, since no lever fits every situation."
         },
         {
           "t": "h2",
@@ -10079,7 +10079,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The research on exit has its own findings. [Goal disengagement](card:Goal%20disengagement) is withdrawing effort and commitment from a goal that cannot be reached. [Goal adjustment capacity](card:Goal%20adjustment%20capacity) is the broader ability, to let go of an aim that has become unattainable and take up another. The line between the two cases is attainability, and the two main literatures mark it differently."
+          "x": "Leaving, too, has been studied. [Goal disengagement](card:Goal%20disengagement) is withdrawing effort and commitment from a goal that cannot be reached. [Goal adjustment capacity](card:Goal%20adjustment%20capacity) is the broader ability, to let go of an aim that has become unattainable and take up another. The line between the two cases is attainability, and the two main literatures mark it differently."
         },
         {
           "t": "p",
@@ -10105,7 +10105,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The exit has its own motive correlates. In two studies of autonomous and controlled motives, autonomous motives positively predicted the cognitive ease of reengagement with an alternative goal when the current goal was perceived as unattainable, especially when participants realized the unattainability relatively early during goal striving, and were negative predictors of the cognitive ease of disengagement ([Ntoumanis, Healy, Sedikides, Smith and Duda, Self and Identity 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104823/)). The abstract's own summary is that \"When faced with failure, autonomously motivated individuals are better off realizing early the goal unattainability.\" These are associations from the studies' measures of cognitive ease, not effects of owning a goal; what they mark is that reengagement and disengagement were measured as two different responses."
+          "x": "Motives shape the exit. In two studies of autonomous and controlled motives, autonomous motives positively predicted the cognitive ease of reengagement with an alternative goal when the current goal was perceived as unattainable, especially when participants realized the unattainability relatively early during goal striving, and were negative predictors of the cognitive ease of disengagement ([Ntoumanis, Healy, Sedikides, Smith and Duda, Self and Identity 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104823/)). The abstract's own summary is that \"When faced with failure, autonomously motivated individuals are better off realizing early the goal unattainability.\" These are associations from the studies' measures of cognitive ease, not effects of owning a goal; what they mark is that reengagement and disengagement were measured as two different responses."
         },
         {
           "t": "h2",

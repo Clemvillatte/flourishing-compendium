@@ -805,3 +805,16 @@ artifact); no quote text was touched. Goals is published; the site
 data does not change until a supervisor rebuild, so this is flagged:
 re-splice goals when convenient.
 - 2026-10-25 10:52:34Z — repair, self-checked, pushed. The Locke and Latham 2006 block quote failed because PDF text extraction drops the hyphen in "discrepancy-creating" (extracted as "discrepancycreating"). The quote was restructured: the first sentence is now paraphrase, and the verbatim quote covers only "implies discontent with one's present condition and the desire to attain an object or outcome", which matches the extracted text of the nj.gov PDF (opened). quote_verify clean.
+
+## Voice-audit reader-level review (2026-10-25, worker-pplx-k1f-1025bb, dossiers baton)
+
+Complete reader-level review per VOICE-AUDIT.md (goals had zero detector matches; zero matches do not certify natural prose). No quotations, facts, links or qualifications were changed. Six scaffold recasts, all meaning-preserving, documented per line:
+
+- L25: "it organises effort rather than naming a wish" → "it organises effort; the wanting is a separate thing" (forced-contrast recast into a direct statement, distinction kept).
+- L41: "what steering consists in is a loop" → "it runs as a loop" (definitional scaffold recast).
+- L45: "What counts as steering at all has its own tests" → "Whether an action counts as steering at all can be tested" (removes the "has its own X" possessive cadence).
+- L51: "Progress, meanwhile, has its own psychology" → "Progress itself is a psychological input" (same cadence).
+- L59: "The research on exit has its own findings" → "Leaving, too, has been studied" (same cadence).
+- L71: "The exit has its own motive correlates" → "Motives shape the exit" (same cadence).
+
+Reader-level verdict: the remaining prose reads naturally; the honest first-person lean statements (L93, L109, L123) and the Limits disclosures are kept as-is. dossier_check.py exit 0 (52 card links, 19 headers, 23 external carriers); registry rebuilt.
