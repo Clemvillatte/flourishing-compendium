@@ -1,7 +1,7 @@
 {
  "baton": "deg-wol-greek",
- "agent": "worker-pplx-greek-1025m",
- "clocked_in": "2026-10-25T09:08:33+00:00",
+ "agent": "worker-pplx-greek-1025y",
+ "clocked_in": "2026-10-25T11:08:30+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-greek-1",
@@ -20,8 +20,12 @@
    "at": "2026-10-25T09:08:33+00:00",
    "from": "worker-pplx-greek-1",
    "reason": "stale (41 min)"
+  },
+  {
+   "by": "worker-pplx-greek-1025y",
+   "at": "2026-10-25T11:08:30+00:00",
+   "from": "worker-pplx-greek-1025m",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-25T09:13:20+00:00"
+ ]
 }
