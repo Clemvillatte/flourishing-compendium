@@ -44,7 +44,7 @@ The step-back close:
 > "Put the pen aside when you are finished, and step back a few paces. Look at the board or pad from some distance and say to yourself: These are just my thoughts. They are not me. I am much more than these thoughts. Feel the distance between yourself and the unhelpful thoughts. Then try to widen it even further."
 > — [same source](https://www.junfermann.de/_files_media/downloads/64399AE8B318CA64423C5B/arbeitsblaetter-zum-buch.pdf)
 
-The exercise belongs to the defusion family in ACT-based coaching. The values-conflict version is not this wiki's invention: the same German worksheet set carries a Values-Whiteboard worksheet (Arbeitsblatt 4.5) applying the move to a values conflict, down to the spoken line ("My mind really has a lot to say about this values conflict – how interesting") and the two-metre step-back. Only the example conflicts are the wiki's.
+The exercise belongs to the defusion family in ACT-based coaching. The values-conflict version is not this wiki's invention: the same German worksheet set carries a Values-Whiteboard worksheet (Arbeitsblatt 4.5) applying the move to a values conflict, down to the spoken line ("My mind really has a lot to say about this values conflict – how interesting") and the two-metre step-back.
 
 What the sources do not test: the worksheet is a defusion technique inside ACT-based coaching; no trial isolates the whiteboard form as its own intervention.
 
