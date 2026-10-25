@@ -27,7 +27,7 @@ Scope: the labelling studies measured affective states and evocative stimuli. Th
 (Torre and Lieberman, Emotion Review, 2018; Schooler et al., Trends in Cognitive Sciences, 2011.)
 
 **Plain words**
-The finding: naming an emotional state in words attenuates the experience, and the naming works without any intent to regulate. The studies measured affect; the extension of the practice to attentional states is the page's application. Name the state you catch, then decide what to do.
+There is a difference between being angry and noticing you are angry. The studies behind this principle looked at the noticing half, at what happens when a person puts a word on the feeling. The word takes some of the charge out of the feeling, and here is the strange part, the person did not have to be trying. Just saying it in their head did the work. The practice borrows that move for attention too: when you catch yourself drifting, do not fight the drifting, name it. "Drifting" is a smaller thing to face than a whole lost afternoon.
 
 *For example:*
 While scrolling, a reader says to herself, "I'm doomscrolling." She then decides whether to continue or close the app.
