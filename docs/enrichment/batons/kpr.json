@@ -1,7 +1,7 @@
 {
  "baton": "kpr",
- "agent": "worker-pplx-kpr-b8d3f4e2",
- "clocked_in": "2026-10-22T15:34:10+00:00",
+ "agent": "worker-kpr-1025b",
+ "clocked_in": "2026-10-25T00:58:58+00:00",
  "takeovers": [
   {
    "by": "worker-kpr-special-contemplative",
@@ -74,8 +74,12 @@
    "at": "2026-10-22T15:27:31+00:00",
    "from": "worker-pplx-a91f2c03",
    "reason": "released"
+  },
+  {
+   "by": "worker-kpr-1025b",
+   "at": "2026-10-25T00:58:58+00:00",
+   "from": "worker-pplx-kpr-b8d3f4e2",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-22T15:35:54+00:00"
+ ]
 }

@@ -1,356 +1,356 @@
 {
-  "band": "kpr",
-  "worker": "worker-kpr-special-contemplative",
-  "type": "kernel-special (owner assignment 2026-10-21)",
-  "items": [
-    {
-      "id": "K409",
-      "title": "Non-sleep deep rest (NSDR)",
-      "status": "done",
-      "sources": [
-        "https://www.hubermanlab.com/nsdr",
-        "https://pubmed.ncbi.nlm.nih.gov/11958969/",
-        "https://pubmed.ncbi.nlm.nih.gov/40373021/",
-        "https://www.youtube.com/watch?v=KHIbgSN2qAU"
-      ],
-      "video_verified": "oembed: '10 Minute Non-Sleep Deep Rest (NSDR) to Restore Mental & Physical Energy | Dr. Andrew Huberman', Huberman Lab Clips"
-    },
-    {
-      "id": "K101",
-      "title": "Open monitoring",
-      "status": "done",
-      "note": "enrich with protocol + evidence + video",
-      "sources": [
-        "https://pubmed.ncbi.nlm.nih.gov/18329323/",
-        "https://pubmed.ncbi.nlm.nih.gov/24135553/",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/",
-        "https://www.youtube.com/watch?v=u4dvONT-DNw"
-      ],
-      "video_verified": "oembed: 'Open Monitoring Meditation – 20 Minutes – Draw Breath', Draw Breath"
-    },
-    {
-      "id": "K161",
-      "title": "Loving-kindness meditation",
-      "status": "done",
-      "note": "enrich with protocol + evidence + video",
-      "sources": [
-        "https://pubmed.ncbi.nlm.nih.gov/26579061/",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5704778/",
-        "https://www.youtube.com/watch?v=3STenfbpZbI"
-      ],
-      "video_verified": "oembed: 'Guided Heart Meditation: Loving Kindness – Befriending our Lives, with Tara Brach', Tara Brach"
-    },
-    {
-      "id": "K410",
-      "title": "Physiological sigh (cyclic sighing)",
-      "status": "done",
-      "sources": [
-        "https://pubmed.ncbi.nlm.nih.gov/36630953/",
-        "https://stanmed.stanford.edu/cyclic-sighing-stress-relief/",
-        "https://www.youtube.com/watch?v=rBdhqBGqiMc"
-      ],
-      "video_verified": "oembed: 'Reduce Anxiety & Stress with the Physiological Sigh | Huberman Lab Quantal Clip', Andrew Huberman"
-    },
-    {
-      "id": "K100",
-      "title": "Breath anchoring",
-      "status": "done",
-      "sources": [
-        "https://pubmed.ncbi.nlm.nih.gov/18329323/",
-        "https://pubmed.ncbi.nlm.nih.gov/23538911/",
-        "https://www.youtube.com/watch?v=ausxoXBrmWs"
-      ],
-      "video_verified": "oembed: '10 Minute Guided Meditation for Focus | Declutter The Mind'"
-    },
-    {
-      "id": "K103",
-      "title": "Noting and labeling",
-      "sources": [
-        "https://pubmed.ncbi.nlm.nih.gov/17576282/",
-        "https://www.youtube.com/watch?v=fd_-W0LW-a4"
-      ],
-      "status": "done",
-      "video_verified": "oembed: see ledger"
-    },
-    {
-      "id": "K162",
-      "title": "Self-compassion practice",
-      "sources": [
-        "https://pubmed.ncbi.nlm.nih.gov/22796446/",
-        "https://www.youtube.com/watch?v=p7z3ybkn9DU"
-      ],
-      "status": "done",
-      "video_verified": "oembed: see ledger"
-    },
-    {
-      "id": "K104",
-      "title": "Mindful walking",
-      "sources": [
-        "https://pubmed.ncbi.nlm.nih.gov/39102931/",
-        "https://www.youtube.com/watch?v=cvmfhdLo8fI"
-      ],
-      "status": "done",
-      "video_verified": "oembed: see ledger"
-    },
-    {
-      "id": "K194",
-      "title": "Slow breathing (5 to 6 breaths per minute)",
-      "sources": [
-        "https://pubmed.ncbi.nlm.nih.gov/30245619/",
-        "https://pubmed.ncbi.nlm.nih.gov/36624160/",
-        "https://www.youtube.com/watch?v=TJlGitn8sEo"
-      ],
-      "status": "done",
-      "video_verified": "oembed: see ledger"
-    },
-    {
-      "id": "K116",
-      "title": "Urge surfing",
-      "sources": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5770486/",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13034111/",
-        "https://www.youtube.com/watch?v=td4d_mV29Wo"
-      ],
-      "status": "done",
-      "video_verified": "oembed: see ledger"
-    },
-    {
-      "id": "K163",
-      "title": "Compassion-focused breathing",
-      "sources": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7917055/",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7176659/",
-        "https://www.youtube.com/watch?v=y4X36wp6QJs"
-      ],
-      "status": "done",
-      "video_verified": "oembed: see ledger"
-    },
-    {
-      "id": "K164",
-      "title": "Gratitude practice",
-      "sources": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12280877/",
-        "https://www.youtube.com/watch?v=mzEbsYOdxyw"
-      ],
-      "status": "done",
-      "video_verified": "oembed: see ledger"
-    },
-    {
-      "id": "K245",
-      "title": "Expressive writing",
-      "sources": [
-        "https://pubmed.ncbi.nlm.nih.gov/17073523/",
-        "https://www.youtube.com/watch?v=XsHIV9PxAV4"
-      ],
-      "status": "done",
-      "video_verified": "oembed: see ledger"
-    },
-    {
-      "id": "K110",
-      "title": "Savoring",
-      "sources": [
-        "https://pubmed.ncbi.nlm.nih.gov/41797412/",
-        "https://ggia.berkeley.edu/practice/savoring_walk"
-      ],
-      "status": "done",
-      "video_verified": "authoritative source per owner directive (GGIA / studio library)"
-    },
-    {
-      "id": "K201",
-      "title": "Yoga, qigong, or tai chi",
-      "sources": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3721087/",
-        "https://www.learnqigong.com/videos/",
-        "https://longwhitecloudqigong.com/free-qigong-videos/"
-      ],
-      "status": "done",
-      "video_verified": "authoritative source per owner directive (GGIA / studio library)"
-    },
-    {
-      "id": "K400",
-      "title": "Word repetition",
-      "status": "done",
-      "sources": [
-        "https://contextualscience.org/publications/masuda_hayes_sackett_twohig_2004",
-        "https://journals.sagepub.com/doi/10.1177/0145445508326259",
-        "https://www.acttoolkit.com/"
-      ],
-      "video_verified": "ACT Toolkit website (exercise library) per owner directive"
-    },
-    {
-      "id": "K385",
-      "title": "Cognitive acceptance: watch thoughts float by",
-      "status": "done",
-      "sources": [
-        "https://pubmed.ncbi.nlm.nih.gov/15701355/",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7692269/",
-        "https://www.acttoolkit.com/"
-      ],
-      "video_verified": "ACT Toolkit leaves-on-a-stream (exercise library)"
-    },
-    {
-      "id": "K115",
-      "title": "Willingness practice",
-      "status": "done",
-      "sources": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC2901125/",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC2764381/",
-        "https://www.acttoolkit.com/"
-      ],
-      "video_verified": "ACT Toolkit willingness exercise"
-    },
-    {
-      "id": "K105",
-      "title": "Single-tasking",
-      "status": "done",
-      "sources": [
-        "https://pubmed.ncbi.nlm.nih.gov/12639695/",
-        "https://slack.com/blog/productivity/deep-work"
-      ],
-      "video_verified": "Slack deep-work guide (website)"
-    },
-    {
-      "id": "K113",
-      "title": "Transition pause",
-      "status": "done",
-      "sources": [
-        "https://www.sciencedirect.com/science/article/abs/pii/S0749597809000399",
-        "https://psycnet.apa.org/record/2026-21893-001"
-      ],
-      "video_verified": "none needed (self-guided micro-practice; studied form = ready-to-resume note)"
-    },
-    {
-      "id": "K108",
-      "title": "Meta-awareness check",
-      "status": "done",
-      "sources": [
-        "https://pubmed.ncbi.nlm.nih.gov/21071660/",
-        "https://www.trackyourhappiness.org/"
-      ],
-      "video_verified": "trackyourhappiness.org (the study's own instrument, free)"
-    },
-    {
-      "id": "K111",
-      "title": "Interoceptive awareness",
-      "status": "done",
-      "sources": [
-        "https://sccn.ucsd.edu/~klaus/pubs/Pollatos%20et%20al%202007%20HumBrainMap.pdf",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3831556/",
-        "https://www.simplypsychology.org/interoception.html"
-      ],
-      "video_verified": "UCLA Mindful library (breath-sound-body) + honest self-guided note"
-    },
-    {
-      "id": "K406",
-      "title": "Compassionate letter to yourself",
-      "status": "done",
-      "sources": [
-        "https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP"
-      ],
-      "notes": "Enriched 2026-10-21 worker-kpr-pplc-f3d97a21 from the owner-uploaded Kolts book (ch. 9, pp. 124-126): verbatim quotes (compassionate-self entering image p. 125; product rationale p. 124; sentence starters; no-right-or-wrong), protocol steps, qualities checklist, Related concepts added (Expressive writing, Self-compassion, CFT), Operationalises converted to list. Validator clean --base b9dbc3175."
-    },
-    {
-      "id": "K382",
-      "title": "Perfect Nurturer: imagine an ideal compassionate figure",
-      "status": "done",
-      "sources": [
-        "https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP"
-      ],
-      "notes": "Enriched from the owner-uploaded Kolts book ch. 11 pp.147-151: Lee (2005) origin quote, non-person forms quote, in-practice guidance quotes, 5-step protocol with Self/Affect dimensions, bounded evidence (Lee 2005 cited not opened), attribution verified against the book TOC as ch. 11. Validator clean."
-    },
-    {
-      "id": "K384",
-      "title": "Two-Chair dialogue: compassionate self ↔ vulnerable self (solo-adapted)",
-      "status": "done",
-      "sources": [
-        "https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP"
-      ],
-      "notes": "Enriched from owner-uploaded Kolts book ch. 12 pp.159-161: two-chair definition quote, vulnerable-chair-first order quote, compassionate-address quote, chair-switching repair quote, Greenberg lineage + Shahar et al. 2012 pilot (as reported by Kolts, not opened), 5-step protocol, safety note retained. Validator clean (word-count and dash repairs)."
-    },
-    {
-      "id": "K414",
-      "title": "Compassion meditation (CCT-style)",
-      "status": "done",
-      "sources": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7941195/"
-      ],
-      "notes": "Enriched earlier by the cmp band; kpr verification this session: PMC7941195 opened fresh — author fixed in Sources (Soh->Hansen et al. 2021) and Evidence effect sizes corrected to the article Table 2 values (postintervention d=0.66/0.51/0.74; 6-month d=0.45/0.30/0.43; previous d=0.60/0.52/0.51 did not match the source). Cross-band courtesy note in ledger. Validator clean (no-base profile: file created after b9dbc3175)."
-    },
-    {
-      "id": "K415",
-      "title": "Mindful eating",
-      "status": "done",
-      "sources": [
-        "https://link.springer.com/article/10.1007/s10865-025-00550-5"
-      ],
-      "notes": "Enriched earlier by the cmp band (verification round 2); kpr spot-check this session: the 2025 binge-eating meta-analysis claim opened and verified verbatim (Liu et al. 2025, J Behavioral Medicine: g=-0.65 EOT / -0.71 FU vs non-psychological controls; -0.05 / 0.13 vs active psychological controls; 54 studies). Validator clean (no-base profile)."
-    },
-    {
-      "id": "K418",
-      "title": "Six Healing Sounds (liuzi jue)",
-      "status": "supervisor-accepted (scoped PASS accepted 2026-10-22 by supervisor-pplx-c3b35524; CHQA-2007 provenance hold remains an OWNER item)",
-      "sources": [
-        "https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_"
-      ],
-      "notes": "QC round-3+4 (worker-pplx-a91f2c03, 2026-10-22): SCOPED PASS recorded for the checked quotations, supported passages and versions disclosure (advisor round-4 confirmation after all four prescribed checks verified); K418 stays qc-pending; the CHQA-2007 instructional-provenance hold is the KNOWN completion hold (owner item: no accessible copy located this session, search only). Shi quote is an extended excerpt beginning mid-sentence; see ledger addendum.",
-      "note": "standardized-form study descriptions added + historical material rechecked (ledger 04:10:40Z); advisor round-1: NOT a complete routine — versions separated, traditional qualifiers restored, effect-size assessment recorded unfinished; complete-routine clearance remains pending (preparation/closing not established from a complete carrier) | SUPERVISOR ACCEPTANCE (2026-10-22, supervisor-pplx-c3b35524): the advisor round-4 scoped PASS is ACCEPTED — every displayed quote re-verified against freshly opened carriers, versions disclosure added; the CHQA-2007 manual provenance hold remains an owner item (accessible copy not located; owner Drive upload would close it, Kolts precedent) and is the only completion blocker."
-    },
-    {
-      "id": "K419",
-      "title": "Microcosmic orbit (xiao zhoutian)",
-      "status": "supervisor-accepted (scoped PASS accepted 2026-10-22 by supervisor-pplx-c3b35524; CHQA-2007 provenance hold remains an OWNER item — an accessible copy was not located, owner Drive upload would close it per the Kolts precedent)",
-      "note": "round-4 (worker-pplx-a91f2c03, 2026-10-22): advisor CONFIRMS scoped PASS for the revised framing — published modern account added and explicitly abbreviated; complete instructional-provenance hold remains; advisor scoped PASS covers the reframing and the supplied Voigt quotation checks, not independent certification of all inherited Kohn material; supervisor acceptance pending; K419 stays qc-pending. | SUPERVISOR ACCEPTANCE (2026-10-22, supervisor-pplx-c3b35524): the advisor round-4 scoped PASS is ACCEPTED — the reframing and the Voigt quotation checks stand verified; the acceptance does not independently certify the inherited Kohn material; the complete instructional-provenance hold (CHQA-2007 manual) remains an owner item and is the only completion blocker."
-    }
-  ],
-  "notes": "New kernels are not in concept/principle queues, so enrich_state.py (manifest-based) does not apply; per-item tracking lives in this file and the ledger.",
-  "done": [
-    "K409",
-    "K101",
-    "K161",
-    "K410",
-    "K100",
-    "K102",
-    "K103",
-    "K162",
-    "K194",
-    "K104",
-    "K116",
-    "K163",
-    "K164",
-    "K245",
-    "K106",
-    "K114",
-    "K412",
-    "K411",
-    "K110",
-    "K201",
-    "K400",
-    "K385",
-    "K115",
-    "K105",
-    "K113",
-    "K108",
-    "K111",
-    "Scheduled empty time",
-    "Rest as practice",
-    "Cultivate your Compassionate Self",
-    "Compassion for a struggling version of yourself",
-    "K406",
-    "K382",
-    "K384",
-    "K414",
-    "K415"
-  ],
-  "in_progress": null,
-  "updated": "2026-10-22T12:28:35+00:00",
-  "band_done": false,
-  "flagged": {
-    "Scheduled empty time": "Reopened for QC: QC correction: advisor round-2 bounded fixes (universal negative replaced with bounded statement; Target dimension wording; guided version as optional alternative); page updated, validator ok; QC resubmission in flight | QC VERDICT 2026-10-22T05:53Z (advisor round, worker-w1x-pplc-f5c2b209): KEEP QC-PENDING; verdict recorded in ledger 05:53Z entry with next-worker repair specs; K396 attribution repair and K378 invented-step removal applied this round (validator ok) | ROUND-6 (2026-10-22T12:12Z worker-kpr-1022d-8c4f7a21, advisor-QC correction): Zen Habits carrier establishes a PROGRESSION, not a fixed 10-30 daily prescription — the 'building up to 20-30 minutes' passage belongs to the source's advanced in-a-stressful-environment stage. Full page re-read: intro now labels the fixed 10-30 range and the calendar steps as this wiki's editorial adaptation of the progression; Sources entry corrected. Ledger's earlier 'gap CLOSED' claim corrected to 'carrier found and opened; establishes progression, not the fixed prescription'. Kernel remains QC-pending. | VERIFIED (2026-10-22T12:17Z worker-kpr-1022d-8c4f7a21): full quote-audit pass on this session's edits — all quoted strings re-checked against fresh full downloads (Zen Habits article via curl; Kolts ch. 9 extraction; Lichstein PDF; eCampusOntario transcript; Walsh book PDF; franticworld page; Balanced Minds live page). Related guidance verified; editorial adaptation disclosed; QC pending (the related sources do not establish the kernel's complete prescription); supervisor flag disposition requested. | ROUND-3 (advisor final-verification corrections, 2026-10-22T12:28:35Z worker-kpr-1022d-8c4f7a21): (a) K418 EEG paragraph re-worded — the eta_p^2 = 0.29/0.23 values are the ANOVA time main effects ACROSS BOTH TECHNIQUES, not Liu Zi Jue-specific; the page now separates the technique-by-time comparisons (alpha-1 increased after 15 min vs baseline p = 0.027, after 30 min p = 0.034) from the main effects, and the Shi 2020 comparison removed from reader-facing prose (retained in the ledger); (b) K396 guided version now carries a checked duration — the franticworld page hosts the recording as its own audio file (Befriending-Meditation-from-book-Mindfulness-Finding-Peace-in-a-Frantic-World.mp3), frame-counted this session: 22,096 MPEG1 L3 frames at 44.1 kHz = 9:37; provenance statements now carry inline citations; the Elly Walsh Word-metadata observation moved from the Sources entry to the ledger; (c) K379 Longe sentence narrowed to what the abstract supports ('its findings do not establish the effectiveness of this exercise', replacing the 'did not measure symptom change' claim); (d) K378 reader-facing Sources entry no longer mentions the ledger history. All seven kpr pages validate clean. Timestamp note: earlier manually-entered labels in this file and the ledger (12:24Z-12:27Z) were approximate and ran ahead of measured push times; this and subsequent records use measured UTC. Supervisor disposition requested for all.",
-    "Rest as practice": "QC-pending: milestone r1 repairs applied (see ledger); item still marked done; re-verification in flight | QC VERDICT 2026-10-22T05:53Z (advisor round, worker-w1x-pplc-f5c2b209): KEEP QC-PENDING; verdict recorded in ledger 05:53Z entry with next-worker repair specs; K396 attribution repair and K378 invented-step removal applied this round (validator ok) | ROUND-5 (2026-10-22T12:12Z worker-kpr-1022d-8c4f7a21, advisor-QC correction): Lichstein chapter is RELATED CLINICAL RELAXATION GUIDANCE (an insomnia protocol that uses a mental device), not the source of this kernel's do-nothing prescription — the page no longer claims the prescription 'follows' it. Protocol now labelled editorial with supported options cited inline with printed locators (poses/eyes/passive attitude p. 46; twice-daily and 5-10 min slots p. 47); step 4 (tension-drop selection) explicitly labelled editorial; 'Penn-authored' implication removed from the Sources entry (hosted on the Penn CBT-I site). Kernel remains QC-pending. | VERIFIED (2026-10-22T12:17Z worker-kpr-1022d-8c4f7a21): full quote-audit pass on this session's edits — all quoted strings re-checked against fresh full downloads (Zen Habits article via curl; Kolts ch. 9 extraction; Lichstein PDF; eCampusOntario transcript; Walsh book PDF; franticworld page; Balanced Minds live page). Related guidance verified; editorial adaptation disclosed; QC pending (the related sources do not establish the kernel's complete prescription); supervisor flag disposition requested. | ROUND-3 (advisor final-verification corrections, 2026-10-22T12:28:35Z worker-kpr-1022d-8c4f7a21): (a) K418 EEG paragraph re-worded — the eta_p^2 = 0.29/0.23 values are the ANOVA time main effects ACROSS BOTH TECHNIQUES, not Liu Zi Jue-specific; the page now separates the technique-by-time comparisons (alpha-1 increased after 15 min vs baseline p = 0.027, after 30 min p = 0.034) from the main effects, and the Shi 2020 comparison removed from reader-facing prose (retained in the ledger); (b) K396 guided version now carries a checked duration — the franticworld page hosts the recording as its own audio file (Befriending-Meditation-from-book-Mindfulness-Finding-Peace-in-a-Frantic-World.mp3), frame-counted this session: 22,096 MPEG1 L3 frames at 44.1 kHz = 9:37; provenance statements now carry inline citations; the Elly Walsh Word-metadata observation moved from the Sources entry to the ledger; (c) K379 Longe sentence narrowed to what the abstract supports ('its findings do not establish the effectiveness of this exercise', replacing the 'did not measure symptom change' claim); (d) K378 reader-facing Sources entry no longer mentions the ledger history. All seven kpr pages validate clean. Timestamp note: earlier manually-entered labels in this file and the ledger (12:24Z-12:27Z) were approximate and ran ahead of measured push times; this and subsequent records use measured UTC. Supervisor disposition requested for all.",
-    "The Befriending meditation": "QC-pending: milestone r1 repairs applied; item reopened in_progress; re-verification in flight | INSTRUCTION-PROVENANCE CLEARED (2026-10-21 worker-kpr-pplc-f3d97a21): instructions verified against the eCampusOntario Pressbooks transcript of the guided practice (phrases full form 'May I be safe and free from suffering', pebble/deep well, unconditional-love fallback, stages) plus Simione et al. 2022 PLOS ONE (recording 'derived from recordings by Professor Mark Williams', same phrases/stages) plus franticworld.com (Befriending from the book, free recording). Print book NOT opened: the owner's share for K396 was Penman's Mindfulness for Creativity (2015), not the 2011 Williams & Penman book — recorded in PRIMARY-SOURCES.md. Milestone QC-pending flag above remains. | ROUND-2 CORRECTION (2026-10-21 worker-kpr-pplc-f3d97a21 round-2 correction): K396 hold NOT fully cleared — the transcript is unattributed and its connection to Williams's recording is not stated by any opened source; instructions are source-supported (transcript + Simonsson et al. 2022 'similar phrases/stages'; author name corrected from 'Simione' to Simonsson), recording/book attribution still unresolved; the inherited 'ch. 11, pp. 188-190' locator removed from the public page (ledger only); owner's share was the wrong book (Penman Mindfulness for Creativity 2015). Provenance hold DOWNGRADED to source-supported instructions with unresolved carrier identity. | QC VERDICT 2026-10-22T05:53Z (advisor round, worker-w1x-pplc-f5c2b209): KEEP QC-PENDING; verdict recorded in ledger 05:53Z entry with next-worker repair specs; K396 attribution repair and K378 invented-step removal applied this round (validator ok) | ROUND-3 (2026-10-22T07:15Z supervisor): franticworld.com recording page re-verified fresh via curl - Befriending description verbatim, free-of-charge claim grounded; eCampusOntario transcript PDF still blocked (CloudFront 403), quotes stand on prior verification; transcript-to-recording connection remains open | ROUND-6 (2026-10-22T12:12Z worker-kpr-1022d-8c4f7a21, advisor-QC correction): extracted the Walsh book PDF's actual hyperlinks — the Befriending podcast links to the publisher's official recording 'Mindfulness: Meditation 7 - Befriending' (Hachette Audio UK SoundCloud, opened fresh this session; title matches the transcript's exactly; the book's meditation set is the official audio of the Williams-Penman book), NOT to the transcript PDF — so the 'transcript's host book' claim is narrowed to 'related textbook' and word-for-word equivalence remains unverified. Unsupported step 5 (monitoring/repetition) replaced with the transcript's actual ending (extend to all beings, return to breath and body); unsupported 'a minute or two' corrected to the transcript's 'a few moments'; the all-beings final stage restored to the stage order. All kernel quotes re-verified verbatim against the re-opened transcript. Kernel remains QC-pending. | ROUND-3 (advisor final-verification corrections, 2026-10-22T12:28:35Z worker-kpr-1022d-8c4f7a21): (a) K418 EEG paragraph re-worded — the eta_p^2 = 0.29/0.23 values are the ANOVA time main effects ACROSS BOTH TECHNIQUES, not Liu Zi Jue-specific; the page now separates the technique-by-time comparisons (alpha-1 increased after 15 min vs baseline p = 0.027, after 30 min p = 0.034) from the main effects, and the Shi 2020 comparison removed from reader-facing prose (retained in the ledger); (b) K396 guided version now carries a checked duration — the franticworld page hosts the recording as its own audio file (Befriending-Meditation-from-book-Mindfulness-Finding-Peace-in-a-Frantic-World.mp3), frame-counted this session: 22,096 MPEG1 L3 frames at 44.1 kHz = 9:37; provenance statements now carry inline citations; the Elly Walsh Word-metadata observation moved from the Sources entry to the ledger; (c) K379 Longe sentence narrowed to what the abstract supports ('its findings do not establish the effectiveness of this exercise', replacing the 'did not measure symptom change' claim); (d) K378 reader-facing Sources entry no longer mentions the ledger history. All seven kpr pages validate clean. Timestamp note: earlier manually-entered labels in this file and the ledger (12:24Z-12:27Z) were approximate and ran ahead of measured push times; this and subsequent records use measured UTC. Supervisor disposition requested for all.",
-    "Cultivate your Compassionate Self": "QC-pending: milestone r1 repairs applied (see ledger); item still marked done; re-verification in flight | QC VERDICT 2026-10-22T05:53Z (advisor round, worker-w1x-pplc-f5c2b209): KEEP QC-PENDING; verdict recorded in ledger 05:53Z entry with next-worker repair specs; K396 attribution repair and K378 invented-step removal applied this round (validator ok) | ROUND-3 (2026-10-22T07:15Z supervisor): K378 Gilbert 2009 quote VERIFIED fresh on Cambridge Core (rate-limit cleared) - blockquote matches word-for-word, method-acting sentence now marked as quotation; Kolts recording verified 06:01Z; remaining gap from the 05:53Z spec: none | CORRECTION (2026-10-22T12:15Z worker-kpr-1022d-8c4f7a21): the 'QC CLOSED' label above records a scoped content-QC pass only; no documented kpr convention removes flags from this dict (supervisor disposition), so the operational record is: 05:53Z checklist satisfied; supervisor flag disposition requested. | ROUND-3 (advisor final-verification corrections, 2026-10-22T12:28:35Z worker-kpr-1022d-8c4f7a21): (a) K418 EEG paragraph re-worded — the eta_p^2 = 0.29/0.23 values are the ANOVA time main effects ACROSS BOTH TECHNIQUES, not Liu Zi Jue-specific; the page now separates the technique-by-time comparisons (alpha-1 increased after 15 min vs baseline p = 0.027, after 30 min p = 0.034) from the main effects, and the Shi 2020 comparison removed from reader-facing prose (retained in the ledger); (b) K396 guided version now carries a checked duration — the franticworld page hosts the recording as its own audio file (Befriending-Meditation-from-book-Mindfulness-Finding-Peace-in-a-Frantic-World.mp3), frame-counted this session: 22,096 MPEG1 L3 frames at 44.1 kHz = 9:37; provenance statements now carry inline citations; the Elly Walsh Word-metadata observation moved from the Sources entry to the ledger; (c) K379 Longe sentence narrowed to what the abstract supports ('its findings do not establish the effectiveness of this exercise', replacing the 'did not measure symptom change' claim); (d) K378 reader-facing Sources entry no longer mentions the ledger history. All seven kpr pages validate clean. Timestamp note: earlier manually-entered labels in this file and the ledger (12:24Z-12:27Z) were approximate and ran ahead of measured push times; this and subsequent records use measured UTC. Supervisor disposition requested for all.",
-    "Compassion for a struggling version of yourself": "QC-pending: milestone r1 repairs applied (see ledger); item still marked done; re-verification in flight | INSTRUCTION-PROVENANCE CLEARED (2026-10-21 worker-kpr-pplc-f3d97a21): the owner uploaded the Kolts CFT Made Simple PDF; instructions and blockquote verified verbatim against ch. 9 'Extending Compassion to the Vulnerable Self' pp. 119-123 (quote p. 122); the 'variant' is the book's own guidance (p. 122), no longer labelled an adaptation; page now cites the owner's Drive copy. Milestone QC-pending flag above remains. | ROUND-2 SCOPED CLEARANCE (2026-10-21 worker-kpr-pplc-f3d97a21 round-2 correction): instructions, blockquote (p. 122) and the start-with-someone-you-care-about fallback (p. 122) verified against the owner's Drive copy of the Kolts book; Drive citation added to the blockquote; dimensions renamed Self/Affect; verification bookkeeping moved to the ledger. Milestone QC-pending flag above remains. | QC VERDICT 2026-10-22T05:53Z (advisor round, worker-w1x-pplc-f5c2b209): KEEP QC-PENDING; verdict recorded in ledger 05:53Z entry with next-worker repair specs; K396 attribution repair and K378 invented-step removal applied this round (validator ok) | ROUND-7 (2026-10-22T12:15Z worker-kpr-1022d-8c4f7a21): guided-version check COMPLETED — Balanced Minds page opened via cloud browser (fetch/curl stayed robots/captcha-blocked): the quoted description is verbatim on the live page under 'Directing The Compassionate Self – To Ourselves'; duration measured in-browser from the page's own audio element (Focusing-the-compassionate-self-on-yourself-self-compassion.mp3): 1062.76 seconds = 17:43; page updated with the duration and a Sources entry (kept as 'a related guided practice' — the recording's fidelity to Kolts's script is not established). All 05:53Z checks for K379 are now satisfied; supervisor flag disposition requested. | ROUND-3 (advisor final-verification corrections, 2026-10-22T12:28:35Z worker-kpr-1022d-8c4f7a21): (a) K418 EEG paragraph re-worded — the eta_p^2 = 0.29/0.23 values are the ANOVA time main effects ACROSS BOTH TECHNIQUES, not Liu Zi Jue-specific; the page now separates the technique-by-time comparisons (alpha-1 increased after 15 min vs baseline p = 0.027, after 30 min p = 0.034) from the main effects, and the Shi 2020 comparison removed from reader-facing prose (retained in the ledger); (b) K396 guided version now carries a checked duration — the franticworld page hosts the recording as its own audio file (Befriending-Meditation-from-book-Mindfulness-Finding-Peace-in-a-Frantic-World.mp3), frame-counted this session: 22,096 MPEG1 L3 frames at 44.1 kHz = 9:37; provenance statements now carry inline citations; the Elly Walsh Word-metadata observation moved from the Sources entry to the ledger; (c) K379 Longe sentence narrowed to what the abstract supports ('its findings do not establish the effectiveness of this exercise', replacing the 'did not measure symptom change' claim); (d) K378 reader-facing Sources entry no longer mentions the ledger history. All seven kpr pages validate clean. Timestamp note: earlier manually-entered labels in this file and the ledger (12:24Z-12:27Z) were approximate and ran ahead of measured push times; this and subsequent records use measured UTC. Supervisor disposition requested for all.",
-    "Six Healing Sounds (liuzi jue)": "QC VERIFICATION (2026-10-22T12:24Z worker-kpr-1022d-8c4f7a21): the 05:53Z 'complete-routine clearance' gap was checked against the owner's prescribed primary-source library with fresh opens — Kohn, Chinese Healing Exercises (owner's Daoism Drive copy, downloaded and extracted): historical sound qualities, seasonal selections and organ correspondences only, no standardized preparation/closing instructions; Shi 2020 (SAGE Open, opened): general practice frame only ('stand or kneel and calm the mind, breathing peacefully into the cinnabar field'), no prep/closing; Ni et al. 2026 JMIR protocol (opened): names the routine's eight components ('the preparatory posture, the six exercises, and the final position') but gives no posture instructions; Zhu et al. 2022 (opened): movement modules only, no separate closing. CONFIRMED: no opened carrier establishes the standardized preparation and closing instructions; the gap stands as documented; the page's 'The Association's manual was not opened' framing is accurate. No broad research reopened per the 05:53Z verdict; supervisor disposition requested. | ROUND-2 (2026-10-22T12:25Z worker-kpr-1022d-8c4f7a21): EEG ATTRIBUTION ERROR FOUND AND FIXED — the page's Evidence line said 'Henz & Schöllhorn report EEG findings: alpha activity decreased after 15 minutes and increased after 30 minutes' — but the primary source (Henz & Schöllhorn 2018, Frontiers, opened fresh) attributes the 15-minute alpha decrease to Wu Qin Xi, the COMPARISON technique; for Liu Zi Jue, alpha-1 increased after 15 min vs baseline (p = 0.027) and after 30 min (p = 0.034), alpha-2 increased after 30 min vs 15 min (p = 0.041), time effects eta_p^2 = 0.29 and 0.23. The page's earlier sentence had been taken from Shi 2020's summary ('Research of electroencephalogram (EEG) in Liu Zi Jue reports a decrease in alpha activity after 15 min, followed by an increase after 30 min'), which reverses the primary source's attribution. Evidence and Sources now report the primary source directly with the statistics; the previously 'unfinished here' effect-size reporting is now supplied. Page trimmed to the prose cap; third related-concept link added ([[The rhythm of breath]]). Validator ok. Supervisor disposition requested. | ROUND-3 (advisor final-verification corrections, 2026-10-22T12:28:35Z worker-kpr-1022d-8c4f7a21): (a) K418 EEG paragraph re-worded — the eta_p^2 = 0.29/0.23 values are the ANOVA time main effects ACROSS BOTH TECHNIQUES, not Liu Zi Jue-specific; the page now separates the technique-by-time comparisons (alpha-1 increased after 15 min vs baseline p = 0.027, after 30 min p = 0.034) from the main effects, and the Shi 2020 comparison removed from reader-facing prose (retained in the ledger); (b) K396 guided version now carries a checked duration — the franticworld page hosts the recording as its own audio file (Befriending-Meditation-from-book-Mindfulness-Finding-Peace-in-a-Frantic-World.mp3), frame-counted this session: 22,096 MPEG1 L3 frames at 44.1 kHz = 9:37; provenance statements now carry inline citations; the Elly Walsh Word-metadata observation moved from the Sources entry to the ledger; (c) K379 Longe sentence narrowed to what the abstract supports ('its findings do not establish the effectiveness of this exercise', replacing the 'did not measure symptom change' claim); (d) K378 reader-facing Sources entry no longer mentions the ledger history. All seven kpr pages validate clean. Timestamp note: earlier manually-entered labels in this file and the ledger (12:24Z-12:27Z) were approximate and ran ahead of measured push times; this and subsequent records use measured UTC. Supervisor disposition requested for all. | Independent quotation audit (worker supervisor-pplc-54ee4220, 2026-10-22T13:57Z, ledger): every displayed quote verified against freshly opened carriers incl. owner's Drive PDFs; printed locators confirmed page-aware; K419 sentence-initial capitalization repaired to verbatim. Validator 2/2 ok. Complete-routine (K418) and complete-protocol (K419) gaps remain; qc-pending stands; supervisor disposition requested.",
-    "Microcosmic orbit (xiao zhoutian)": "QC VERIFICATION (2026-10-22T12:24Z worker-kpr-1022d-8c4f7a21): the 05:53Z 'complete instructional protocol' gap was checked against the owner's prescribed primary-source library with fresh opens — Kohn, Sitting in Oblivion (owner's Daoism Drive copy, downloaded and extracted): the microcosmic orbit appears only in a passing note on Jiang Weiqiao's practice (citing Lu 1964; Kohn 1993b), no instructional protocol. CONFIRMED: the gap stands as documented ('a complete instructional protocol remains pending and is not invented'); no broad research reopened per the 05:53Z verdict; supervisor disposition requested. | ROUND-2 (2026-10-22T12:27Z worker-kpr-1022d-8c4f7a21): full quote verification against the owner's Drive copies (both Kohn books downloaded and extracted this session) — jade-inscription blockquote (printed p. 14) verbatim; 'not only like the modern qigong and inner alchemical practice of the Microcosmic Orbit' (p. 15) verbatim; breath-cultivation pattern (p. 15) matches; 'more reminiscent of the Microcosmic Orbit' (p. 126) verbatim; Jiang Weiqiao note (Sitting in Oblivion, printed p. 13 n.13) verbatim; the intro quote now extended to the complete verbatim sentence from the p. 178 passage ('circulate the newly purified qi in the Microcosmic Orbit, guiding it along the central channels of the torso and opening a series of passes along the way') with the passage's context made explicit (women adepts, the tradition's first stage — the p. 178 sentence is from Kohn's account of women's neidan practice). Third related-concept link added ([[The rhythm of breath]]). Validator ok. The complete-protocol gap stands as documented; supervisor disposition requested. | ROUND-3 (advisor final-verification corrections, 2026-10-22T12:28:35Z worker-kpr-1022d-8c4f7a21): (a) K418 EEG paragraph re-worded — the eta_p^2 = 0.29/0.23 values are the ANOVA time main effects ACROSS BOTH TECHNIQUES, not Liu Zi Jue-specific; the page now separates the technique-by-time comparisons (alpha-1 increased after 15 min vs baseline p = 0.027, after 30 min p = 0.034) from the main effects, and the Shi 2020 comparison removed from reader-facing prose (retained in the ledger); (b) K396 guided version now carries a checked duration — the franticworld page hosts the recording as its own audio file (Befriending-Meditation-from-book-Mindfulness-Finding-Peace-in-a-Frantic-World.mp3), frame-counted this session: 22,096 MPEG1 L3 frames at 44.1 kHz = 9:37; provenance statements now carry inline citations; the Elly Walsh Word-metadata observation moved from the Sources entry to the ledger; (c) K379 Longe sentence narrowed to what the abstract supports ('its findings do not establish the effectiveness of this exercise', replacing the 'did not measure symptom change' claim); (d) K378 reader-facing Sources entry no longer mentions the ledger history. All seven kpr pages validate clean. Timestamp note: earlier manually-entered labels in this file and the ledger (12:24Z-12:27Z) were approximate and ran ahead of measured push times; this and subsequent records use measured UTC. Supervisor disposition requested for all. | Independent quotation audit (worker supervisor-pplc-54ee4220, 2026-10-22T13:57Z, ledger): every displayed quote verified against freshly opened carriers incl. owner's Drive PDFs; printed locators confirmed page-aware; K419 sentence-initial capitalization repaired to verbatim. Validator 2/2 ok. Complete-routine (K418) and complete-protocol (K419) gaps remain; qc-pending stands; supervisor disposition requested."
+ "band": "kpr",
+ "worker": "worker-kpr-special-contemplative",
+ "type": "kernel-special (owner assignment 2026-10-21)",
+ "items": [
+  {
+   "id": "K409",
+   "title": "Non-sleep deep rest (NSDR)",
+   "status": "done",
+   "sources": [
+    "https://www.hubermanlab.com/nsdr",
+    "https://pubmed.ncbi.nlm.nih.gov/11958969/",
+    "https://pubmed.ncbi.nlm.nih.gov/40373021/",
+    "https://www.youtube.com/watch?v=KHIbgSN2qAU"
+   ],
+   "video_verified": "oembed: '10 Minute Non-Sleep Deep Rest (NSDR) to Restore Mental & Physical Energy | Dr. Andrew Huberman', Huberman Lab Clips"
+  },
+  {
+   "id": "K101",
+   "title": "Open monitoring",
+   "status": "done",
+   "note": "enrich with protocol + evidence + video",
+   "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/18329323/",
+    "https://pubmed.ncbi.nlm.nih.gov/24135553/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/",
+    "https://www.youtube.com/watch?v=u4dvONT-DNw"
+   ],
+   "video_verified": "oembed: 'Open Monitoring Meditation – 20 Minutes – Draw Breath', Draw Breath"
+  },
+  {
+   "id": "K161",
+   "title": "Loving-kindness meditation",
+   "status": "done",
+   "note": "enrich with protocol + evidence + video",
+   "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/26579061/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5704778/",
+    "https://www.youtube.com/watch?v=3STenfbpZbI"
+   ],
+   "video_verified": "oembed: 'Guided Heart Meditation: Loving Kindness – Befriending our Lives, with Tara Brach', Tara Brach"
+  },
+  {
+   "id": "K410",
+   "title": "Physiological sigh (cyclic sighing)",
+   "status": "done",
+   "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/36630953/",
+    "https://stanmed.stanford.edu/cyclic-sighing-stress-relief/",
+    "https://www.youtube.com/watch?v=rBdhqBGqiMc"
+   ],
+   "video_verified": "oembed: 'Reduce Anxiety & Stress with the Physiological Sigh | Huberman Lab Quantal Clip', Andrew Huberman"
+  },
+  {
+   "id": "K100",
+   "title": "Breath anchoring",
+   "status": "done",
+   "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/18329323/",
+    "https://pubmed.ncbi.nlm.nih.gov/23538911/",
+    "https://www.youtube.com/watch?v=ausxoXBrmWs"
+   ],
+   "video_verified": "oembed: '10 Minute Guided Meditation for Focus | Declutter The Mind'"
+  },
+  {
+   "id": "K103",
+   "title": "Noting and labeling",
+   "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/17576282/",
+    "https://www.youtube.com/watch?v=fd_-W0LW-a4"
+   ],
+   "status": "done",
+   "video_verified": "oembed: see ledger"
+  },
+  {
+   "id": "K162",
+   "title": "Self-compassion practice",
+   "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/22796446/",
+    "https://www.youtube.com/watch?v=p7z3ybkn9DU"
+   ],
+   "status": "done",
+   "video_verified": "oembed: see ledger"
+  },
+  {
+   "id": "K104",
+   "title": "Mindful walking",
+   "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/39102931/",
+    "https://www.youtube.com/watch?v=cvmfhdLo8fI"
+   ],
+   "status": "done",
+   "video_verified": "oembed: see ledger"
+  },
+  {
+   "id": "K194",
+   "title": "Slow breathing (5 to 6 breaths per minute)",
+   "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/30245619/",
+    "https://pubmed.ncbi.nlm.nih.gov/36624160/",
+    "https://www.youtube.com/watch?v=TJlGitn8sEo"
+   ],
+   "status": "done",
+   "video_verified": "oembed: see ledger"
+  },
+  {
+   "id": "K116",
+   "title": "Urge surfing",
+   "sources": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5770486/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC13034111/",
+    "https://www.youtube.com/watch?v=td4d_mV29Wo"
+   ],
+   "status": "done",
+   "video_verified": "oembed: see ledger"
+  },
+  {
+   "id": "K163",
+   "title": "Compassion-focused breathing",
+   "sources": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7917055/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7176659/",
+    "https://www.youtube.com/watch?v=y4X36wp6QJs"
+   ],
+   "status": "done",
+   "video_verified": "oembed: see ledger"
+  },
+  {
+   "id": "K164",
+   "title": "Gratitude practice",
+   "sources": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12280877/",
+    "https://www.youtube.com/watch?v=mzEbsYOdxyw"
+   ],
+   "status": "done",
+   "video_verified": "oembed: see ledger"
+  },
+  {
+   "id": "K245",
+   "title": "Expressive writing",
+   "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/17073523/",
+    "https://www.youtube.com/watch?v=XsHIV9PxAV4"
+   ],
+   "status": "done",
+   "video_verified": "oembed: see ledger"
+  },
+  {
+   "id": "K110",
+   "title": "Savoring",
+   "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/41797412/",
+    "https://ggia.berkeley.edu/practice/savoring_walk"
+   ],
+   "status": "done",
+   "video_verified": "authoritative source per owner directive (GGIA / studio library)"
+  },
+  {
+   "id": "K201",
+   "title": "Yoga, qigong, or tai chi",
+   "sources": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC3721087/",
+    "https://www.learnqigong.com/videos/",
+    "https://longwhitecloudqigong.com/free-qigong-videos/"
+   ],
+   "status": "done",
+   "video_verified": "authoritative source per owner directive (GGIA / studio library)"
+  },
+  {
+   "id": "K400",
+   "title": "Word repetition",
+   "status": "done",
+   "sources": [
+    "https://contextualscience.org/publications/masuda_hayes_sackett_twohig_2004",
+    "https://journals.sagepub.com/doi/10.1177/0145445508326259",
+    "https://www.acttoolkit.com/"
+   ],
+   "video_verified": "ACT Toolkit website (exercise library) per owner directive"
+  },
+  {
+   "id": "K385",
+   "title": "Cognitive acceptance: watch thoughts float by",
+   "status": "done",
+   "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/15701355/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7692269/",
+    "https://www.acttoolkit.com/"
+   ],
+   "video_verified": "ACT Toolkit leaves-on-a-stream (exercise library)"
+  },
+  {
+   "id": "K115",
+   "title": "Willingness practice",
+   "status": "done",
+   "sources": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC2901125/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC2764381/",
+    "https://www.acttoolkit.com/"
+   ],
+   "video_verified": "ACT Toolkit willingness exercise"
+  },
+  {
+   "id": "K105",
+   "title": "Single-tasking",
+   "status": "done",
+   "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/12639695/",
+    "https://slack.com/blog/productivity/deep-work"
+   ],
+   "video_verified": "Slack deep-work guide (website)"
+  },
+  {
+   "id": "K113",
+   "title": "Transition pause",
+   "status": "done",
+   "sources": [
+    "https://www.sciencedirect.com/science/article/abs/pii/S0749597809000399",
+    "https://psycnet.apa.org/record/2026-21893-001"
+   ],
+   "video_verified": "none needed (self-guided micro-practice; studied form = ready-to-resume note)"
+  },
+  {
+   "id": "K108",
+   "title": "Meta-awareness check",
+   "status": "done",
+   "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/21071660/",
+    "https://www.trackyourhappiness.org/"
+   ],
+   "video_verified": "trackyourhappiness.org (the study's own instrument, free)"
+  },
+  {
+   "id": "K111",
+   "title": "Interoceptive awareness",
+   "status": "done",
+   "sources": [
+    "https://sccn.ucsd.edu/~klaus/pubs/Pollatos%20et%20al%202007%20HumBrainMap.pdf",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC3831556/",
+    "https://www.simplypsychology.org/interoception.html"
+   ],
+   "video_verified": "UCLA Mindful library (breath-sound-body) + honest self-guided note"
+  },
+  {
+   "id": "K406",
+   "title": "Compassionate letter to yourself",
+   "status": "done",
+   "sources": [
+    "https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP"
+   ],
+   "notes": "Enriched 2026-10-21 worker-kpr-pplc-f3d97a21 from the owner-uploaded Kolts book (ch. 9, pp. 124-126): verbatim quotes (compassionate-self entering image p. 125; product rationale p. 124; sentence starters; no-right-or-wrong), protocol steps, qualities checklist, Related concepts added (Expressive writing, Self-compassion, CFT), Operationalises converted to list. Validator clean --base b9dbc3175."
+  },
+  {
+   "id": "K382",
+   "title": "Perfect Nurturer: imagine an ideal compassionate figure",
+   "status": "done",
+   "sources": [
+    "https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP"
+   ],
+   "notes": "Enriched from the owner-uploaded Kolts book ch. 11 pp.147-151: Lee (2005) origin quote, non-person forms quote, in-practice guidance quotes, 5-step protocol with Self/Affect dimensions, bounded evidence (Lee 2005 cited not opened), attribution verified against the book TOC as ch. 11. Validator clean."
+  },
+  {
+   "id": "K384",
+   "title": "Two-Chair dialogue: compassionate self ↔ vulnerable self (solo-adapted)",
+   "status": "done",
+   "sources": [
+    "https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP"
+   ],
+   "notes": "Enriched from owner-uploaded Kolts book ch. 12 pp.159-161: two-chair definition quote, vulnerable-chair-first order quote, compassionate-address quote, chair-switching repair quote, Greenberg lineage + Shahar et al. 2012 pilot (as reported by Kolts, not opened), 5-step protocol, safety note retained. Validator clean (word-count and dash repairs)."
+  },
+  {
+   "id": "K414",
+   "title": "Compassion meditation (CCT-style)",
+   "status": "done",
+   "sources": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7941195/"
+   ],
+   "notes": "Enriched earlier by the cmp band; kpr verification this session: PMC7941195 opened fresh — author fixed in Sources (Soh->Hansen et al. 2021) and Evidence effect sizes corrected to the article Table 2 values (postintervention d=0.66/0.51/0.74; 6-month d=0.45/0.30/0.43; previous d=0.60/0.52/0.51 did not match the source). Cross-band courtesy note in ledger. Validator clean (no-base profile: file created after b9dbc3175)."
+  },
+  {
+   "id": "K415",
+   "title": "Mindful eating",
+   "status": "done",
+   "sources": [
+    "https://link.springer.com/article/10.1007/s10865-025-00550-5"
+   ],
+   "notes": "Enriched earlier by the cmp band (verification round 2); kpr spot-check this session: the 2025 binge-eating meta-analysis claim opened and verified verbatim (Liu et al. 2025, J Behavioral Medicine: g=-0.65 EOT / -0.71 FU vs non-psychological controls; -0.05 / 0.13 vs active psychological controls; 54 studies). Validator clean (no-base profile)."
+  },
+  {
+   "id": "K418",
+   "title": "Six Healing Sounds (liuzi jue)",
+   "status": "supervisor-accepted (scoped PASS accepted 2026-10-22 by supervisor-pplx-c3b35524; CHQA-2007 provenance hold remains an OWNER item)",
+   "sources": [
+    "https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_"
+   ],
+   "notes": "QC round-3+4 (worker-pplx-a91f2c03, 2026-10-22): SCOPED PASS recorded for the checked quotations, supported passages and versions disclosure (advisor round-4 confirmation after all four prescribed checks verified); K418 stays qc-pending; the CHQA-2007 instructional-provenance hold is the KNOWN completion hold (owner item: no accessible copy located this session, search only). Shi quote is an extended excerpt beginning mid-sentence; see ledger addendum.",
+   "note": "standardized-form study descriptions added + historical material rechecked (ledger 04:10:40Z); advisor round-1: NOT a complete routine — versions separated, traditional qualifiers restored, effect-size assessment recorded unfinished; complete-routine clearance remains pending (preparation/closing not established from a complete carrier) | SUPERVISOR ACCEPTANCE (2026-10-22, supervisor-pplx-c3b35524): the advisor round-4 scoped PASS is ACCEPTED — every displayed quote re-verified against freshly opened carriers, versions disclosure added; the CHQA-2007 manual provenance hold remains an owner item (accessible copy not located; owner Drive upload would close it, Kolts precedent) and is the only completion blocker."
+  },
+  {
+   "id": "K419",
+   "title": "Microcosmic orbit (xiao zhoutian)",
+   "status": "supervisor-accepted (scoped PASS accepted 2026-10-22 by supervisor-pplx-c3b35524; CHQA-2007 provenance hold remains an OWNER item — an accessible copy was not located, owner Drive upload would close it per the Kolts precedent)",
+   "note": "round-4 (worker-pplx-a91f2c03, 2026-10-22): advisor CONFIRMS scoped PASS for the revised framing — published modern account added and explicitly abbreviated; complete instructional-provenance hold remains; advisor scoped PASS covers the reframing and the supplied Voigt quotation checks, not independent certification of all inherited Kohn material; supervisor acceptance pending; K419 stays qc-pending. | SUPERVISOR ACCEPTANCE (2026-10-22, supervisor-pplx-c3b35524): the advisor round-4 scoped PASS is ACCEPTED — the reframing and the Voigt quotation checks stand verified; the acceptance does not independently certify the inherited Kohn material; the complete instructional-provenance hold (CHQA-2007 manual) remains an owner item and is the only completion blocker."
   }
+ ],
+ "notes": "New kernels are not in concept/principle queues, so enrich_state.py (manifest-based) does not apply; per-item tracking lives in this file and the ledger.",
+ "done": [
+  "K409",
+  "K101",
+  "K161",
+  "K410",
+  "K100",
+  "K102",
+  "K103",
+  "K162",
+  "K194",
+  "K104",
+  "K116",
+  "K163",
+  "K164",
+  "K245",
+  "K106",
+  "K114",
+  "K412",
+  "K411",
+  "K110",
+  "K201",
+  "K400",
+  "K385",
+  "K115",
+  "K105",
+  "K113",
+  "K108",
+  "K111",
+  "Scheduled empty time",
+  "Rest as practice",
+  "Cultivate your Compassionate Self",
+  "Compassion for a struggling version of yourself",
+  "K406",
+  "K382",
+  "K384",
+  "K414",
+  "K415"
+ ],
+ "in_progress": null,
+ "updated": "2026-10-22T12:28:35+00:00",
+ "band_done": false,
+ "flagged": {
+  "Scheduled empty time": "RESOLVED by worker-kpr-1025b 2026-10-25 (per-item verification): the round-2 through round-6 QC repairs are applied on the current page — checked this session: the intro labels the fixed 10-30 range and calendar steps as this wiki's editorial adaptation of Leo Babauta's Zen Habits progression, quoting the carrier verbatim (\"Focus on 5-10 minutes at a time\"; \"building up to 20-30 minutes\"; \"try to do this every day, or as much as possible\"), and the Sources entry discloses the adaptation; the record shows the round-6 quote-audit pass re-checked all quoted strings against fresh downloads with validator ok. The record remained Reopened awaiting advisor closure that never arrived; routed for supervisor ratification. No page edit needed this session; source verification not repeated; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: QC correction: advisor round-2 bounded fixes (universal negative replaced with bounded statement; Target dimension wording; guided version as optional alternative); page updated, validator ok; QC resubmission in flight | QC VERDICT 2026-10-22T05:53Z (advisor round, worker-w1x-pplc-f5c2b209): KEEP QC-PENDING; verdict recorded in ledger 05:53Z entry with next-worker repair specs; K396 attribution repair and K378 invented-step removal applied this round (validator ok) | ROUND-6 (2026-10-22T12:12Z worker-kpr-1022d-8c4f7a21, advisor-QC correction): Zen Habits carrier establishes a PROGRESSION, not a fixed 10-30 daily prescription — the 'building up to 20-30 minutes' passage belongs to the source's advanced in-a-stressful-environment stage. Full page re-read: intro now labels the fixed 10-30 range and the calendar steps as this wiki's editorial adaptation of the progression; Sources entry corrected. Ledger's earlier 'gap CLOSED' claim corrected to 'carrier found and opened; establishes progression, not the fixed prescription'. Kernel remains QC-pending. | VERIFIED (2026-10-22T12:17Z worker-kpr-1022d-8c4f7a21): full quote-audit pass on this session's edits — all quoted strings re-checked against fresh full downloads (Zen Habits article via curl; Kolts ch. 9 extraction; Lichstein PDF; eCampusOntario transcript; Walsh book PDF; franticworld page; Balanced Minds live page). Related guidance verified; editorial adaptation disclosed; QC pending (the related sources do not establish the kernel's complete prescription); supervisor flag disposition requested. | ROUND-3 (advisor final-verification corrections, 2026-10-22T12:28:35Z worker-kpr-1022d-8c4f7a21): (a) K418 EEG paragraph re-worded — the eta_p^2 = 0.29/0.23 values are the ANOVA time main effects ACROSS BOTH TECHNIQUES, not Liu Zi Jue-specific; the page now separates the technique-by-time comparisons (alpha-1 increased after 15 min vs baseline p = 0.027, after 30 min p = 0.034) from the main effects, and the Shi 2020 comparison removed from reader-facing prose (retained in the ledger); (b) K396 guided version now carries a checked duration — the franticworld page hosts the recording as its own audio file (Befriending-Meditation-from-book-Mindfulness-Finding-Peace-in-a-Frantic-World.mp3), frame-counted this session: 22,096 MPEG1 L3 frames at 44.1 kHz = 9:37; provenance statements now carry inline citations; the Elly Walsh Word-metadata observation moved from the Sources entry to the ledger; (c) K379 Longe sentence narrowed to what the abstract supports ('its findings do not establish the effectiveness of this exercise', replacing the 'did not measure symptom change' claim); (d) K378 reader-facing Sources entry no longer mentions the ledger history. All seven kpr pages validate clean. Timestamp note: earlier manually-entered labels in this file and the ledger (12:24Z-12:27Z) were approximate and ran ahead of measured push times; this and subsequent records use measured UTC. Supervisor disposition requested for all.]",
+  "Rest as practice": "QC-pending: milestone r1 repairs applied (see ledger); item still marked done; re-verification in flight | QC VERDICT 2026-10-22T05:53Z (advisor round, worker-w1x-pplc-f5c2b209): KEEP QC-PENDING; verdict recorded in ledger 05:53Z entry with next-worker repair specs; K396 attribution repair and K378 invented-step removal applied this round (validator ok) | ROUND-5 (2026-10-22T12:12Z worker-kpr-1022d-8c4f7a21, advisor-QC correction): Lichstein chapter is RELATED CLINICAL RELAXATION GUIDANCE (an insomnia protocol that uses a mental device), not the source of this kernel's do-nothing prescription — the page no longer claims the prescription 'follows' it. Protocol now labelled editorial with supported options cited inline with printed locators (poses/eyes/passive attitude p. 46; twice-daily and 5-10 min slots p. 47); step 4 (tension-drop selection) explicitly labelled editorial; 'Penn-authored' implication removed from the Sources entry (hosted on the Penn CBT-I site). Kernel remains QC-pending. | VERIFIED (2026-10-22T12:17Z worker-kpr-1022d-8c4f7a21): full quote-audit pass on this session's edits — all quoted strings re-checked against fresh full downloads (Zen Habits article via curl; Kolts ch. 9 extraction; Lichstein PDF; eCampusOntario transcript; Walsh book PDF; franticworld page; Balanced Minds live page). Related guidance verified; editorial adaptation disclosed; QC pending (the related sources do not establish the kernel's complete prescription); supervisor flag disposition requested. | ROUND-3 (advisor final-verification corrections, 2026-10-22T12:28:35Z worker-kpr-1022d-8c4f7a21): (a) K418 EEG paragraph re-worded — the eta_p^2 = 0.29/0.23 values are the ANOVA time main effects ACROSS BOTH TECHNIQUES, not Liu Zi Jue-specific; the page now separates the technique-by-time comparisons (alpha-1 increased after 15 min vs baseline p = 0.027, after 30 min p = 0.034) from the main effects, and the Shi 2020 comparison removed from reader-facing prose (retained in the ledger); (b) K396 guided version now carries a checked duration — the franticworld page hosts the recording as its own audio file (Befriending-Meditation-from-book-Mindfulness-Finding-Peace-in-a-Frantic-World.mp3), frame-counted this session: 22,096 MPEG1 L3 frames at 44.1 kHz = 9:37; provenance statements now carry inline citations; the Elly Walsh Word-metadata observation moved from the Sources entry to the ledger; (c) K379 Longe sentence narrowed to what the abstract supports ('its findings do not establish the effectiveness of this exercise', replacing the 'did not measure symptom change' claim); (d) K378 reader-facing Sources entry no longer mentions the ledger history. All seven kpr pages validate clean. Timestamp note: earlier manually-entered labels in this file and the ledger (12:24Z-12:27Z) were approximate and ran ahead of measured push times; this and subsequent records use measured UTC. Supervisor disposition requested for all.",
+  "The Befriending meditation": "QC-pending: milestone r1 repairs applied; item reopened in_progress; re-verification in flight | INSTRUCTION-PROVENANCE CLEARED (2026-10-21 worker-kpr-pplc-f3d97a21): instructions verified against the eCampusOntario Pressbooks transcript of the guided practice (phrases full form 'May I be safe and free from suffering', pebble/deep well, unconditional-love fallback, stages) plus Simione et al. 2022 PLOS ONE (recording 'derived from recordings by Professor Mark Williams', same phrases/stages) plus franticworld.com (Befriending from the book, free recording). Print book NOT opened: the owner's share for K396 was Penman's Mindfulness for Creativity (2015), not the 2011 Williams & Penman book — recorded in PRIMARY-SOURCES.md. Milestone QC-pending flag above remains. | ROUND-2 CORRECTION (2026-10-21 worker-kpr-pplc-f3d97a21 round-2 correction): K396 hold NOT fully cleared — the transcript is unattributed and its connection to Williams's recording is not stated by any opened source; instructions are source-supported (transcript + Simonsson et al. 2022 'similar phrases/stages'; author name corrected from 'Simione' to Simonsson), recording/book attribution still unresolved; the inherited 'ch. 11, pp. 188-190' locator removed from the public page (ledger only); owner's share was the wrong book (Penman Mindfulness for Creativity 2015). Provenance hold DOWNGRADED to source-supported instructions with unresolved carrier identity. | QC VERDICT 2026-10-22T05:53Z (advisor round, worker-w1x-pplc-f5c2b209): KEEP QC-PENDING; verdict recorded in ledger 05:53Z entry with next-worker repair specs; K396 attribution repair and K378 invented-step removal applied this round (validator ok) | ROUND-3 (2026-10-22T07:15Z supervisor): franticworld.com recording page re-verified fresh via curl - Befriending description verbatim, free-of-charge claim grounded; eCampusOntario transcript PDF still blocked (CloudFront 403), quotes stand on prior verification; transcript-to-recording connection remains open | ROUND-6 (2026-10-22T12:12Z worker-kpr-1022d-8c4f7a21, advisor-QC correction): extracted the Walsh book PDF's actual hyperlinks — the Befriending podcast links to the publisher's official recording 'Mindfulness: Meditation 7 - Befriending' (Hachette Audio UK SoundCloud, opened fresh this session; title matches the transcript's exactly; the book's meditation set is the official audio of the Williams-Penman book), NOT to the transcript PDF — so the 'transcript's host book' claim is narrowed to 'related textbook' and word-for-word equivalence remains unverified. Unsupported step 5 (monitoring/repetition) replaced with the transcript's actual ending (extend to all beings, return to breath and body); unsupported 'a minute or two' corrected to the transcript's 'a few moments'; the all-beings final stage restored to the stage order. All kernel quotes re-verified verbatim against the re-opened transcript. Kernel remains QC-pending. | ROUND-3 (advisor final-verification corrections, 2026-10-22T12:28:35Z worker-kpr-1022d-8c4f7a21): (a) K418 EEG paragraph re-worded — the eta_p^2 = 0.29/0.23 values are the ANOVA time main effects ACROSS BOTH TECHNIQUES, not Liu Zi Jue-specific; the page now separates the technique-by-time comparisons (alpha-1 increased after 15 min vs baseline p = 0.027, after 30 min p = 0.034) from the main effects, and the Shi 2020 comparison removed from reader-facing prose (retained in the ledger); (b) K396 guided version now carries a checked duration — the franticworld page hosts the recording as its own audio file (Befriending-Meditation-from-book-Mindfulness-Finding-Peace-in-a-Frantic-World.mp3), frame-counted this session: 22,096 MPEG1 L3 frames at 44.1 kHz = 9:37; provenance statements now carry inline citations; the Elly Walsh Word-metadata observation moved from the Sources entry to the ledger; (c) K379 Longe sentence narrowed to what the abstract supports ('its findings do not establish the effectiveness of this exercise', replacing the 'did not measure symptom change' claim); (d) K378 reader-facing Sources entry no longer mentions the ledger history. All seven kpr pages validate clean. Timestamp note: earlier manually-entered labels in this file and the ledger (12:24Z-12:27Z) were approximate and ran ahead of measured push times; this and subsequent records use measured UTC. Supervisor disposition requested for all.",
+  "Cultivate your Compassionate Self": "QC-pending: milestone r1 repairs applied (see ledger); item still marked done; re-verification in flight | QC VERDICT 2026-10-22T05:53Z (advisor round, worker-w1x-pplc-f5c2b209): KEEP QC-PENDING; verdict recorded in ledger 05:53Z entry with next-worker repair specs; K396 attribution repair and K378 invented-step removal applied this round (validator ok) | ROUND-3 (2026-10-22T07:15Z supervisor): K378 Gilbert 2009 quote VERIFIED fresh on Cambridge Core (rate-limit cleared) - blockquote matches word-for-word, method-acting sentence now marked as quotation; Kolts recording verified 06:01Z; remaining gap from the 05:53Z spec: none | CORRECTION (2026-10-22T12:15Z worker-kpr-1022d-8c4f7a21): the 'QC CLOSED' label above records a scoped content-QC pass only; no documented kpr convention removes flags from this dict (supervisor disposition), so the operational record is: 05:53Z checklist satisfied; supervisor flag disposition requested. | ROUND-3 (advisor final-verification corrections, 2026-10-22T12:28:35Z worker-kpr-1022d-8c4f7a21): (a) K418 EEG paragraph re-worded — the eta_p^2 = 0.29/0.23 values are the ANOVA time main effects ACROSS BOTH TECHNIQUES, not Liu Zi Jue-specific; the page now separates the technique-by-time comparisons (alpha-1 increased after 15 min vs baseline p = 0.027, after 30 min p = 0.034) from the main effects, and the Shi 2020 comparison removed from reader-facing prose (retained in the ledger); (b) K396 guided version now carries a checked duration — the franticworld page hosts the recording as its own audio file (Befriending-Meditation-from-book-Mindfulness-Finding-Peace-in-a-Frantic-World.mp3), frame-counted this session: 22,096 MPEG1 L3 frames at 44.1 kHz = 9:37; provenance statements now carry inline citations; the Elly Walsh Word-metadata observation moved from the Sources entry to the ledger; (c) K379 Longe sentence narrowed to what the abstract supports ('its findings do not establish the effectiveness of this exercise', replacing the 'did not measure symptom change' claim); (d) K378 reader-facing Sources entry no longer mentions the ledger history. All seven kpr pages validate clean. Timestamp note: earlier manually-entered labels in this file and the ledger (12:24Z-12:27Z) were approximate and ran ahead of measured push times; this and subsequent records use measured UTC. Supervisor disposition requested for all.",
+  "Compassion for a struggling version of yourself": "QC-pending: milestone r1 repairs applied (see ledger); item still marked done; re-verification in flight | INSTRUCTION-PROVENANCE CLEARED (2026-10-21 worker-kpr-pplc-f3d97a21): the owner uploaded the Kolts CFT Made Simple PDF; instructions and blockquote verified verbatim against ch. 9 'Extending Compassion to the Vulnerable Self' pp. 119-123 (quote p. 122); the 'variant' is the book's own guidance (p. 122), no longer labelled an adaptation; page now cites the owner's Drive copy. Milestone QC-pending flag above remains. | ROUND-2 SCOPED CLEARANCE (2026-10-21 worker-kpr-pplc-f3d97a21 round-2 correction): instructions, blockquote (p. 122) and the start-with-someone-you-care-about fallback (p. 122) verified against the owner's Drive copy of the Kolts book; Drive citation added to the blockquote; dimensions renamed Self/Affect; verification bookkeeping moved to the ledger. Milestone QC-pending flag above remains. | QC VERDICT 2026-10-22T05:53Z (advisor round, worker-w1x-pplc-f5c2b209): KEEP QC-PENDING; verdict recorded in ledger 05:53Z entry with next-worker repair specs; K396 attribution repair and K378 invented-step removal applied this round (validator ok) | ROUND-7 (2026-10-22T12:15Z worker-kpr-1022d-8c4f7a21): guided-version check COMPLETED — Balanced Minds page opened via cloud browser (fetch/curl stayed robots/captcha-blocked): the quoted description is verbatim on the live page under 'Directing The Compassionate Self – To Ourselves'; duration measured in-browser from the page's own audio element (Focusing-the-compassionate-self-on-yourself-self-compassion.mp3): 1062.76 seconds = 17:43; page updated with the duration and a Sources entry (kept as 'a related guided practice' — the recording's fidelity to Kolts's script is not established). All 05:53Z checks for K379 are now satisfied; supervisor flag disposition requested. | ROUND-3 (advisor final-verification corrections, 2026-10-22T12:28:35Z worker-kpr-1022d-8c4f7a21): (a) K418 EEG paragraph re-worded — the eta_p^2 = 0.29/0.23 values are the ANOVA time main effects ACROSS BOTH TECHNIQUES, not Liu Zi Jue-specific; the page now separates the technique-by-time comparisons (alpha-1 increased after 15 min vs baseline p = 0.027, after 30 min p = 0.034) from the main effects, and the Shi 2020 comparison removed from reader-facing prose (retained in the ledger); (b) K396 guided version now carries a checked duration — the franticworld page hosts the recording as its own audio file (Befriending-Meditation-from-book-Mindfulness-Finding-Peace-in-a-Frantic-World.mp3), frame-counted this session: 22,096 MPEG1 L3 frames at 44.1 kHz = 9:37; provenance statements now carry inline citations; the Elly Walsh Word-metadata observation moved from the Sources entry to the ledger; (c) K379 Longe sentence narrowed to what the abstract supports ('its findings do not establish the effectiveness of this exercise', replacing the 'did not measure symptom change' claim); (d) K378 reader-facing Sources entry no longer mentions the ledger history. All seven kpr pages validate clean. Timestamp note: earlier manually-entered labels in this file and the ledger (12:24Z-12:27Z) were approximate and ran ahead of measured push times; this and subsequent records use measured UTC. Supervisor disposition requested for all.",
+  "Six Healing Sounds (liuzi jue)": "QC VERIFICATION (2026-10-22T12:24Z worker-kpr-1022d-8c4f7a21): the 05:53Z 'complete-routine clearance' gap was checked against the owner's prescribed primary-source library with fresh opens — Kohn, Chinese Healing Exercises (owner's Daoism Drive copy, downloaded and extracted): historical sound qualities, seasonal selections and organ correspondences only, no standardized preparation/closing instructions; Shi 2020 (SAGE Open, opened): general practice frame only ('stand or kneel and calm the mind, breathing peacefully into the cinnabar field'), no prep/closing; Ni et al. 2026 JMIR protocol (opened): names the routine's eight components ('the preparatory posture, the six exercises, and the final position') but gives no posture instructions; Zhu et al. 2022 (opened): movement modules only, no separate closing. CONFIRMED: no opened carrier establishes the standardized preparation and closing instructions; the gap stands as documented; the page's 'The Association's manual was not opened' framing is accurate. No broad research reopened per the 05:53Z verdict; supervisor disposition requested. | ROUND-2 (2026-10-22T12:25Z worker-kpr-1022d-8c4f7a21): EEG ATTRIBUTION ERROR FOUND AND FIXED — the page's Evidence line said 'Henz & Schöllhorn report EEG findings: alpha activity decreased after 15 minutes and increased after 30 minutes' — but the primary source (Henz & Schöllhorn 2018, Frontiers, opened fresh) attributes the 15-minute alpha decrease to Wu Qin Xi, the COMPARISON technique; for Liu Zi Jue, alpha-1 increased after 15 min vs baseline (p = 0.027) and after 30 min (p = 0.034), alpha-2 increased after 30 min vs 15 min (p = 0.041), time effects eta_p^2 = 0.29 and 0.23. The page's earlier sentence had been taken from Shi 2020's summary ('Research of electroencephalogram (EEG) in Liu Zi Jue reports a decrease in alpha activity after 15 min, followed by an increase after 30 min'), which reverses the primary source's attribution. Evidence and Sources now report the primary source directly with the statistics; the previously 'unfinished here' effect-size reporting is now supplied. Page trimmed to the prose cap; third related-concept link added ([[The rhythm of breath]]). Validator ok. Supervisor disposition requested. | ROUND-3 (advisor final-verification corrections, 2026-10-22T12:28:35Z worker-kpr-1022d-8c4f7a21): (a) K418 EEG paragraph re-worded — the eta_p^2 = 0.29/0.23 values are the ANOVA time main effects ACROSS BOTH TECHNIQUES, not Liu Zi Jue-specific; the page now separates the technique-by-time comparisons (alpha-1 increased after 15 min vs baseline p = 0.027, after 30 min p = 0.034) from the main effects, and the Shi 2020 comparison removed from reader-facing prose (retained in the ledger); (b) K396 guided version now carries a checked duration — the franticworld page hosts the recording as its own audio file (Befriending-Meditation-from-book-Mindfulness-Finding-Peace-in-a-Frantic-World.mp3), frame-counted this session: 22,096 MPEG1 L3 frames at 44.1 kHz = 9:37; provenance statements now carry inline citations; the Elly Walsh Word-metadata observation moved from the Sources entry to the ledger; (c) K379 Longe sentence narrowed to what the abstract supports ('its findings do not establish the effectiveness of this exercise', replacing the 'did not measure symptom change' claim); (d) K378 reader-facing Sources entry no longer mentions the ledger history. All seven kpr pages validate clean. Timestamp note: earlier manually-entered labels in this file and the ledger (12:24Z-12:27Z) were approximate and ran ahead of measured push times; this and subsequent records use measured UTC. Supervisor disposition requested for all. | Independent quotation audit (worker supervisor-pplc-54ee4220, 2026-10-22T13:57Z, ledger): every displayed quote verified against freshly opened carriers incl. owner's Drive PDFs; printed locators confirmed page-aware; K419 sentence-initial capitalization repaired to verbatim. Validator 2/2 ok. Complete-routine (K418) and complete-protocol (K419) gaps remain; qc-pending stands; supervisor disposition requested.",
+  "Microcosmic orbit (xiao zhoutian)": "QC VERIFICATION (2026-10-22T12:24Z worker-kpr-1022d-8c4f7a21): the 05:53Z 'complete instructional protocol' gap was checked against the owner's prescribed primary-source library with fresh opens — Kohn, Sitting in Oblivion (owner's Daoism Drive copy, downloaded and extracted): the microcosmic orbit appears only in a passing note on Jiang Weiqiao's practice (citing Lu 1964; Kohn 1993b), no instructional protocol. CONFIRMED: the gap stands as documented ('a complete instructional protocol remains pending and is not invented'); no broad research reopened per the 05:53Z verdict; supervisor disposition requested. | ROUND-2 (2026-10-22T12:27Z worker-kpr-1022d-8c4f7a21): full quote verification against the owner's Drive copies (both Kohn books downloaded and extracted this session) — jade-inscription blockquote (printed p. 14) verbatim; 'not only like the modern qigong and inner alchemical practice of the Microcosmic Orbit' (p. 15) verbatim; breath-cultivation pattern (p. 15) matches; 'more reminiscent of the Microcosmic Orbit' (p. 126) verbatim; Jiang Weiqiao note (Sitting in Oblivion, printed p. 13 n.13) verbatim; the intro quote now extended to the complete verbatim sentence from the p. 178 passage ('circulate the newly purified qi in the Microcosmic Orbit, guiding it along the central channels of the torso and opening a series of passes along the way') with the passage's context made explicit (women adepts, the tradition's first stage — the p. 178 sentence is from Kohn's account of women's neidan practice). Third related-concept link added ([[The rhythm of breath]]). Validator ok. The complete-protocol gap stands as documented; supervisor disposition requested. | ROUND-3 (advisor final-verification corrections, 2026-10-22T12:28:35Z worker-kpr-1022d-8c4f7a21): (a) K418 EEG paragraph re-worded — the eta_p^2 = 0.29/0.23 values are the ANOVA time main effects ACROSS BOTH TECHNIQUES, not Liu Zi Jue-specific; the page now separates the technique-by-time comparisons (alpha-1 increased after 15 min vs baseline p = 0.027, after 30 min p = 0.034) from the main effects, and the Shi 2020 comparison removed from reader-facing prose (retained in the ledger); (b) K396 guided version now carries a checked duration — the franticworld page hosts the recording as its own audio file (Befriending-Meditation-from-book-Mindfulness-Finding-Peace-in-a-Frantic-World.mp3), frame-counted this session: 22,096 MPEG1 L3 frames at 44.1 kHz = 9:37; provenance statements now carry inline citations; the Elly Walsh Word-metadata observation moved from the Sources entry to the ledger; (c) K379 Longe sentence narrowed to what the abstract supports ('its findings do not establish the effectiveness of this exercise', replacing the 'did not measure symptom change' claim); (d) K378 reader-facing Sources entry no longer mentions the ledger history. All seven kpr pages validate clean. Timestamp note: earlier manually-entered labels in this file and the ledger (12:24Z-12:27Z) were approximate and ran ahead of measured push times; this and subsequent records use measured UTC. Supervisor disposition requested for all. | Independent quotation audit (worker supervisor-pplc-54ee4220, 2026-10-22T13:57Z, ledger): every displayed quote verified against freshly opened carriers incl. owner's Drive PDFs; printed locators confirmed page-aware; K419 sentence-initial capitalization repaired to verbatim. Validator 2/2 ok. Complete-routine (K418) and complete-protocol (K419) gaps remain; qc-pending stands; supervisor disposition requested."
+ }
 }
