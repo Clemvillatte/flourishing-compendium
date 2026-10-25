@@ -462,3 +462,19 @@ stronger consolidated pass. The nature candidate stays in the
 backlog pending an owner placement decision. Ledger certifications
 from this session were reviewed in three advisor QC rounds and
 corrected where they overstated.
+
+## Verification sweep (2026-10-25 02:10Z, worker-pplx-b65d2ee8)
+
+Corpus-wide mechanical sweep, no files edited (other bands' dossiers
+untouched; flags only): all 40 dossier markdown files pass
+dossier_check.py. dossier_density.py flags dense paragraphs in six:
+behaviour.md line 79 (5 links in 92 words), creation.md line 26 (4
+in 99), genuine-flourishing.md line 59 (4 in 63; includes external
+carrier links), right-intention.md line 74 (5 in 113), right-speech.md
+line 90 (6 in 106), sadness-and-grief.md line 54 (5 in 94). Read at
+reader level these are flowing reference paragraphs rather than
+catalogues, but they sit over the density bar the supervisor set;
+each is a small split-or-reasoning fix for its own band. Goals
+(dos13) released pending supervisor review: one-divergence exception
+requested, registry rebuild needed, supervisor-review row to re-read
+(ledger rev 4.6, commit c6156bb74).
