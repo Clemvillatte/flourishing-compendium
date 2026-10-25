@@ -178,12 +178,12 @@ The stories that best carry the theme's aspects, each retold in a line; the full
 
 ### Harm discovered late
 
-[ST087 — Schindler's List](https://clemvillatte.github.io/flourishing-compendium/#card=ST087%20%E2%80%94%20Schindler%27s%20List): Schindler arrives in Kraków as a profiteer and ends with his entire fortune spent buying lives; the card's own reading is that the film does not depict him as having become good, it depicts him discovering too late what the money had been for all along.
+[ST087 — Schindler's List](https://clemvillatte.github.io/flourishing-compendium/#card=ST087%20%E2%80%94%20Schindler%27s%20List): Schindler arrives in Kraków as a profiteer and ends with his entire fortune spent buying lives; the film does not depict him as having become good, it depicts him discovering too late what the money had been for all along.
 
 ### Taking for others
 
-[ST295 — Prometheus Steals](https://clemvillatte.github.io/flourishing-compendium/#card=ST295%20%E2%80%94%20Prometheus%20Steals): Prometheus steals fire from the gods and gives it to humanity, and is chained to a rock with his liver eaten daily; the card reads the theft as the creative act and the punishment as its permanent cost, an editorial juxtaposition with this factor's second restraint rather than the myth's own framing.
+[ST295 — Prometheus Steals](https://clemvillatte.github.io/flourishing-compendium/#card=ST295%20%E2%80%94%20Prometheus%20Steals): Prometheus steals fire from the gods and gives it to humanity, and is chained to a rock with his liver eaten daily; the myth makes the willingness to pay the cost part of the taking itself.
 
 ### Rules and situations
 
-[ST384 — The Tree Is Spared; the Goose Is Killed](https://clemvillatte.github.io/flourishing-compendium/#card=ST384%20%E2%80%94%20The%20Tree%20Is%20Spared%3B%20the%20Goose%20Is%20Killed): a tree is spared because its wood is good for nothing and a goose is killed because it cannot cackle; asked which condition he would prefer, Zhuangzi smiles that he would rest halfway between the two, and that even that position cannot avoid trouble. The card reads this as a warning that a rule which protects in one setting may fail in another.
+[ST384 — The Tree Is Spared; the Goose Is Killed](https://clemvillatte.github.io/flourishing-compendium/#card=ST384%20%E2%80%94%20The%20Tree%20Is%20Spared%3B%20the%20Goose%20Is%20Killed): a tree is spared because its wood is good for nothing and a goose is killed because it cannot cackle; asked which condition he would prefer, Zhuangzi smiles that he would rest halfway between the two, and that even that position cannot avoid trouble.
