@@ -2,11 +2,14 @@
  "batch": "k1f",
  "done": [
   "K115 Willingness practice",
-  "K159 Affect labeling"
+  "K159 Affect labeling",
+  "K371 Importance and confidence rulers"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "K372 The decisional-balance caution": "caution card \u2014 no protocol applicable; skipped by design (k1f worker, 2026-10-25)"
+ },
  "missing_concepts": [],
  "sources_checked": 5,
- "updated": "2026-10-25T12:17:00+00:00"
+ "updated": "2026-10-25T12:18:00+00:00"
 }

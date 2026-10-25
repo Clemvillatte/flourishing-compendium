@@ -12,6 +12,8 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 
 Pick a change you're considering. Two questions:
 
+### Protocol
+
 1. Importance: on a scale from 0 to 10, where 0 is "not at all important" and 10 is "the most important thing for me right now," how important would you say making this change is to you?
 2. Confidence: "How confident are you that you could do this if you decided to? On a scale from 0 to 10, where 0 is not at all confident and 10 is extremely confident, where would you say you are?" (the book's own confidence-ruler wording.)
 

@@ -18,3 +18,11 @@ QC: advisor review 12:15Z — invented "willingness rating of two" sentence remo
 - **Constantinou, Van Den Houte, Bogaerts, Van Diest & Van den Bergh, "Can words heal? Using affect labeling to reduce the effects of unpleasant cues on symptom reporting", Frontiers in Psychology 5:807, PMC4106456** — https://pmc.ncbi.nlm.nih.gov/articles/PMC4106456/ (fetched): "Affect labeling tasks typically include presentations of emotional stimuli, but instead of explicit instructions to down-regulate emotions, participants are asked to assign emotional labels to the stimuli."
 - **Lieberman et al. 2007 abstract via APS** — https://www.psychologicalscience.org/journals/psychological-science/j.1467-9280.2007.01916.x/ (fetched this session; abstract re-read, matches the card's inherited quote).
 - Facets section (three editorial instructions, kept as numbered steps) was pre-existing editorial text; only restructured under the Protocol heading with the Constantinou grounding line added.
+
+## K371 Importance and confidence rulers — Protocol heading
+
+- Structural only: the existing sourced protocol (ruler questions, key move, warning) was already complete; inserted the "### Protocol" heading to match the K100 exemplar. No text added or changed. Sources: Miller & Rollnick 3rd ed. PDF (archive.org) inherited quotes not re-fetched this pass.
+
+## K372 The decisional-balance caution — SKIPPED (format exemption)
+
+- Caution card, not a procedure: the intro + distinction structure is complete and sourced; a numbered protocol would be manufactured. Advisor QC (12:15Z) anticipated exactly this case. No edit made.
