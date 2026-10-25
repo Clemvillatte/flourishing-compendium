@@ -465,3 +465,14 @@ flagged from earlier rounds and still open: dead-video replacements (owner
 decision), the 0b2136614 pilot discrepancy (supervisor), routing re-attribution
 (supervisor), mod-wb-2 gate-3 verdict (supervisor), and the LeDoux/Newport
 institutional pages (verification gap, sources robots-blocked).
+
+### Checkpoint — deg-verify-a LeDoux/Newport + self-QC (13:53Z, 2026-10-25)
+
+Worker-pplx-degrees-1: LeDoux (Karolinska card) corroborated on the opened
+Wikipedia REST summary (Moses Professor of Science at NYU, EBI director) plus
+the archived NYU lab homepage — tertiary + archived-page, bounded, NYU faculty
+page still bot-walled; Newport verified on the opened Georgetown Center for
+Digital Ethics profile (Provost's Distinguished Professor of Computer Science).
+Self-QC pass run early per advisor: contradiction and reverse-stale scans clean
+across all session-touched verify files; Rosemont M04-R06/R07 credentials lines
+repaired to cite the opened IU ScholarWorks memorial (df1000b38).
