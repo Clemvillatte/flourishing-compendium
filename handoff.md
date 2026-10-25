@@ -2892,3 +2892,30 @@ Workers live: dos21 (right-action, fresh), dos31 (creation, fresh), w1y (concept
 ### Checkpoint 6 addendum — ~03:05Z actual (same supervisor session)
 
 After the checkpoint: publish 2/3/4 landed (right-mindfulness, fear, shame-and-guilt, right-concentration, gratitude, sadness-and-grief, frustration — registry now 31 published / 8 roadmap); ST428/ST390 + NEW ST392/ST430 duplicate story pairs flagged for the OWNER (byte-identical, retire the higher number in a deletion-capable window); the t1a thinker-backlink programme is fully reconciled (t2a/t2b/t2c marked band_done: 5 non-story records applied by supervisor, 57 story records audited — 55 already linked, 2 applied, 1 stale-by-renumbering); dos3 baton force-released (cognition complete); right-livelihood candidate-divergence researched and source-verified (AN 5.177 + Politics 1254b/1255b/1256b opened fresh, quotes verbatim in its ledger) but NOT published — the trade-vs-acquisition gap is real (advisor QC), the owner's call; w1y's Adaptive-planning citation fix confirmed (round 5).
+
+## Worker launch record (2026-10-25, session 74d5df60)
+
+Three worker agents launched via Path A (cloud browser, Add account flow for
+the 2nd/3rd, per the new AGENT-LAUNCHER.md Add account section):
+
+- Worker agent launched via Path A: account gregorym1971+jbhik@outlook.com
+  (display name gregorym1997823), task
+  https://www.perplexity.ai/computer/tasks/7c12f9d3-4e67-4952-85f9-990553ded505,
+  launched ~03:25 UTC. Standard worker prompt (PROMPT-WORKER.md verbatim,
+  token filled, DOS-band directive appended).
+- Worker agent launched via Path A (Add account): account
+  dallyscrapp9hl+wu3xj@outlook.com (display name dallyscrap39137), task
+  https://www.perplexity.ai/computer/tasks/f42d727c-72a7-48db-b8eb-ab3e4093220e,
+  launched ~03:30 UTC. Same prompt.
+- Worker agent launched via Path A (Add account): account
+  heathersanchez6780+eb1ss@outlook.com (display name heathersan65986), task
+  https://www.perplexity.ai/computer/tasks/c695644d-7a08-4dfe-a0b5-d6ce143556c0,
+  launched ~03:45 UTC. Same prompt.
+- A fourth account, princeryan5570+bruoi@outlook.com (display name
+  princeryan86652), was signed in via Add account as a live test of the
+  protocol (verified same speed, previous session preserved); no worker task
+  was launched on it in this session — the account is free for the next
+  launch if the owner supplies one.
+All three workers running server-side; workers self-assign batons per
+OPERATIONS.md. The owner directed new workers to DOS bands; each worker
+prompt includes that directive.
