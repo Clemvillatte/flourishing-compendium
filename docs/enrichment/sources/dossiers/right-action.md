@@ -975,3 +975,18 @@ links, 21 headers, 16 carriers), quote_verify 17 checked 0 not found
 --rebuild=right-action, node --check clean, pushed and verified on
 origin/main (b104c0689). FLAG for the supervisor: the review row can
 now record the content re-read as performed.
+
+## Rev — humanizer verification pass, zero repairs needed (worker-pplx-1025-launchb, baton dos21, 2026-10-25 11:06Z)
+
+The voice audit reported 6 structural candidates. All 6 were reviewed
+and kept: the harm-principle neighbours' "answer questions of their
+own rather than this one" (factor-scoping), the taking-what-is-not-
+given cluster "a cluster rather than one virtue" (content), prosocial
+honesty's "honesty in speech rather than conduct of the hands"
+(factor-scoping), the relational traditions' "answerable to particular
+others rather than to a rule or a character alone" (the doctrine),
+Wang's "knowing how to respond rather than grasping information" (the
+knowing-how distinction), and the virtue-journaling kernel's "the flat
+voice of a missed training session rather than a confession" (the
+card's own tone instruction). No text changed in this pass; the
+dossier's 6 audit candidates are all substantive content.
