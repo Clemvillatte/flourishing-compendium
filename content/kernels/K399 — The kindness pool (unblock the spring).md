@@ -26,7 +26,7 @@ Adapted from Williams and Penman, *Mindfulness*, 2011, ch. 11, printed p. 195; t
 
 Mark Williams's own account of what the meditation does, from a spoken interview:
 
-> "And he took one 10-minute meditation from that programme, which is called the Kindness, or Befriending Meditation, which involves the meta-meditation from Buddhism. And it involves, first of all, bringing kindness to yourself. May I be safe and protected. May I be happy and healthy. May I have ease of being."
+> "And so he took one 10-minute meditation from that programme, which is called the Kindness, or Befriending Meditation, which involves the meta-meditation from Buddhism. And it involves, first of all, bringing kindness to yourself. May I be safe and protected. May I be happy and healthy. May I have ease of being."
 > — [Mark Williams, interview transcript, Beshara Magazine](https://besharamagazine.org/podcast/marc-williams/)
 
 The extension to strangers and difficult people, from the same account:
