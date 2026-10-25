@@ -19,11 +19,11 @@ The same article presents the process model as "five families of emotion regulat
 
 ### What counts as deployment
 
-Because the situation itself is left alone, everything happens inside the span of attention: looking away from a hospital monitor toward a friend's face, replaying an argument instead of the drive ahead, narrowing onto breath or mantra. The article's own constructionist framing adds a second layer: regulation can happen even earlier: "the construction process itself can be regulated by directing the focus of goal-based attention, in that executive function plays a role in both affect regulation and knowledge development and use" (Gross & Barrett, 2011). On that view attentional deployment is not one trick among five but the lever that runs through them, since where attention lands shapes which situation, appraisal and response get built at all.
+Because the situation itself is left alone, everything happens inside the span of attention. Everyday illustrations: looking away from a hospital monitor toward a friend's face, replaying an argument instead of the drive ahead, narrowing onto breath or mantra. The article's constructionist discussion adds a further possibility on the generation side: "The construction process itself can be regulated by directing the focus of goal-based attention, in that executive function plays a role in both affect regulation and knowledge development and use" (Gross & Barrett, 2011). In the construction models the authors discuss, where attention lands shapes what gets built, which is why they treat attention as part of the regulation story rather than a separate faculty.
 
 ### Why it matters for practice
 
-Deployment is the family most available mid-event: situation selection needs forewarning and modification needs control of circumstances, but attention can be re-aimed in seconds, which is why so many contemplative practices, attention training and loving-kindness among them, are deployment exercises in this sense.
+Deployment is the family whose handle is the attention itself: situation selection needs forewarning and modification needs control of circumstances, while redirecting attention is an act available inside an ongoing situation. Contemplative practices such as attention training and loving-kindness are deployment exercises in this sense.
 
 ### Here
 

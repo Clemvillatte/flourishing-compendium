@@ -7,11 +7,32 @@
 "prose_words": 108
 },
 {
-"id": "Authentic versus hubristic pride",
-"title": "Authentic versus hubristic pride",
-"path": "content/concepts/Authentic versus hubristic pride.md",
-"degree": 19,
-"prose_words": 86
+"id": "Cognitive biases",
+"title": "Cognitive biases",
+"path": "content/concepts/Cognitive biases.md",
+"degree": 22,
+"prose_words": 135
+},
+{
+"id": "Autonomic nervous system (sympathetic vs parasympathetic)",
+"title": "Autonomic nervous system (sympathetic vs parasympathetic)",
+"path": "content/concepts/Autonomic nervous system (sympathetic vs parasympathetic).md",
+"degree": 21,
+"prose_words": 121
+},
+{
+"id": "Cognitive restructuring",
+"title": "Cognitive restructuring",
+"path": "content/concepts/Cognitive restructuring.md",
+"degree": 21,
+"prose_words": 130
+},
+{
+"id": "Belief as habit",
+"title": "Belief as habit",
+"path": "content/concepts/Belief as habit.md",
+"degree": 20,
+"prose_words": 148
 },
 {
 "id": "Cognitive distortions",
@@ -42,25 +63,11 @@
 "prose_words": 103
 },
 {
-"id": "Environmental psychology",
-"title": "Environmental psychology",
-"path": "content/concepts/Environmental psychology.md",
-"degree": 18,
-"prose_words": 106
-},
-{
 "id": "Akrasia",
 "title": "Akrasia",
 "path": "content/concepts/Akrasia.md",
 "degree": 17,
 "prose_words": 52
-},
-{
-"id": "Chronic pain acceptance",
-"title": "Chronic pain acceptance",
-"path": "content/concepts/Chronic pain acceptance.md",
-"degree": 17,
-"prose_words": 56
 },
 {
 "id": "Cognitive load theory",
@@ -91,11 +98,32 @@
 "prose_words": 73
 },
 {
+"id": "Cash value",
+"title": "Cash value",
+"path": "content/concepts/Cash value.md",
+"degree": 16,
+"prose_words": 142
+},
+{
+"id": "Collective efficacy",
+"title": "Collective efficacy",
+"path": "content/concepts/Collective efficacy.md",
+"degree": 16,
+"prose_words": 146
+},
+{
 "id": "Courage built gradually",
 "title": "Courage built gradually",
 "path": "content/concepts/Courage built gradually.md",
 "degree": 16,
 "prose_words": 81
+},
+{
+"id": "Cultural recognition",
+"title": "Cultural recognition",
+"path": "content/concepts/Cultural recognition.md",
+"degree": 16,
+"prose_words": 132
 },
 {
 "id": "Ego depletion",
@@ -119,6 +147,27 @@
 "prose_words": 95
 },
 {
+"id": "Connectedness in well-being research",
+"title": "Connectedness in well-being research",
+"path": "content/concepts/Connectedness in well-being research.md",
+"degree": 15,
+"prose_words": 122
+},
+{
+"id": "Coping flexibility",
+"title": "Coping flexibility",
+"path": "content/concepts/Coping flexibility.md",
+"degree": 15,
+"prose_words": 145
+},
+{
+"id": "Empiricism: experience over argument",
+"title": "Empiricism: experience over argument",
+"path": "content/concepts/Empiricism — experience over argument.md",
+"degree": 15,
+"prose_words": 133
+},
+{
 "id": "Gentleness (praotes)",
 "title": "Gentleness (praotes)",
 "path": "content/concepts/Gentleness (praotes).md",
@@ -140,11 +189,60 @@
 "prose_words": 84
 },
 {
+"id": "Natural virtue",
+"title": "Natural virtue",
+"path": "content/concepts/Natural virtue.md",
+"degree": 15,
+"prose_words": 147
+},
+{
 "id": "Stress cycle completion (Nagorski, Sapolsky)",
 "title": "Stress cycle completion (Nagorski, Sapolsky)",
 "path": "content/concepts/Stress cycle completion (Nagorski, Sapolsky).md",
 "degree": 15,
 "prose_words": 84
+},
+{
+"id": "Stress response (Lupien, McEwen)",
+"title": "Stress response (Lupien, McEwen)",
+"path": "content/concepts/Stress response (Lupien, McEwen).md",
+"degree": 15,
+"prose_words": 147
+},
+{
+"id": "The evening review",
+"title": "The evening review",
+"path": "content/concepts/The evening review.md",
+"degree": 15,
+"prose_words": 148
+},
+{
+"id": "The meaning of suffering",
+"title": "The meaning of suffering",
+"path": "content/concepts/The meaning of suffering.md",
+"degree": 15,
+"prose_words": 122
+},
+{
+"id": "The moral situation",
+"title": "The moral situation",
+"path": "content/concepts/The moral situation.md",
+"degree": 15,
+"prose_words": 149
+},
+{
+"id": "Two-process model of sleep",
+"title": "Two-process model of sleep",
+"path": "content/concepts/Two-process model of sleep.md",
+"degree": 15,
+"prose_words": 143
+},
+{
+"id": "Behavioral experiments in CBT",
+"title": "Behavioral experiments in CBT",
+"path": "content/concepts/Behavioral experiments in CBT.md",
+"degree": 14,
+"prose_words": 141
 },
 {
 "id": "Care as practice",
@@ -154,11 +252,46 @@
 "prose_words": 73
 },
 {
+"id": "Chronic pain research",
+"title": "Chronic pain research",
+"path": "content/concepts/Chronic pain research.md",
+"degree": 14,
+"prose_words": 138
+},
+{
+"id": "Citizen of the world",
+"title": "Citizen of the world",
+"path": "content/concepts/Citizen of the world.md",
+"degree": 14,
+"prose_words": 122
+},
+{
+"id": "Co-regulation of affect in relationships",
+"title": "Co-regulation of affect in relationships",
+"path": "content/concepts/Co-regulation of affect in relationships.md",
+"degree": 14,
+"prose_words": 133
+},
+{
 "id": "Collective responsibility",
 "title": "Collective responsibility",
 "path": "content/concepts/Collective responsibility.md",
 "degree": 14,
 "prose_words": 103
+},
+{
+"id": "Complete mental health model",
+"title": "Complete mental health model",
+"path": "content/concepts/Complete mental health model.md",
+"degree": 14,
+"prose_words": 135
+},
+{
+"id": "Confucian role ethics",
+"title": "Confucian role ethics",
+"path": "content/concepts/Confucian role ethics.md",
+"degree": 14,
+"prose_words": 146
 },
 {
 "id": "Constitution of meaning",
@@ -210,11 +343,25 @@
 "prose_words": 110
 },
 {
+"id": "The creative life",
+"title": "The creative life",
+"path": "content/concepts/The creative life.md",
+"degree": 14,
+"prose_words": 125
+},
+{
 "id": "The five pillars of practice",
 "title": "The five pillars of practice",
 "path": "content/concepts/The five pillars of practice.md",
 "degree": 14,
 "prose_words": 79
+},
+{
+"id": "The habit body",
+"title": "The habit body",
+"path": "content/concepts/The habit body.md",
+"degree": 14,
+"prose_words": 131
 },
 {
 "id": "The question of being (Seinsfrage)",
@@ -224,11 +371,39 @@
 "prose_words": 105
 },
 {
+"id": "Atman",
+"title": "Atman",
+"path": "content/concepts/Atman.md",
+"degree": 13,
+"prose_words": 121
+},
+{
+"id": "Bhavana (cultivation)",
+"title": "Bhavana (cultivation)",
+"path": "content/concepts/Bhavana (cultivation).md",
+"degree": 13,
+"prose_words": 123
+},
+{
 "id": "Character development",
 "title": "Character development",
 "path": "content/concepts/Character development.md",
 "degree": 13,
 "prose_words": 87
+},
+{
+"id": "Cognitive attentional syndrome Wells",
+"title": "Cognitive attentional syndrome Wells",
+"path": "content/concepts/Cognitive attentional syndrome Wells.md",
+"degree": 13,
+"prose_words": 127
+},
+{
+"id": "Cybernetic Big Five Theory",
+"title": "Cybernetic Big Five Theory",
+"path": "content/concepts/Cybernetic Big Five Theory.md",
+"degree": 13,
+"prose_words": 149
 },
 {
 "id": "Ecological self",
@@ -243,6 +418,13 @@
 "path": "content/concepts/Everyday creative activities.md",
 "degree": 13,
 "prose_words": 117
+},
+{
+"id": "Flexibility in coping",
+"title": "Flexibility in coping",
+"path": "content/concepts/Flexibility in coping.md",
+"degree": 13,
+"prose_words": 143
 },
 {
 "id": "Focus theory of attention",
@@ -266,6 +448,13 @@
 "prose_words": 99
 },
 {
+"id": "The free person loves all",
+"title": "The free person loves all",
+"path": "content/concepts/The free person loves all.md",
+"degree": 13,
+"prose_words": 120
+},
+{
 "id": "The inner friend",
 "title": "The inner friend",
 "path": "content/concepts/The inner friend.md",
@@ -280,11 +469,32 @@
 "prose_words": 87
 },
 {
+"id": "The moving body",
+"title": "The moving body",
+"path": "content/concepts/The moving body.md",
+"degree": 13,
+"prose_words": 121
+},
+{
+"id": "The question kept alive",
+"title": "The question kept alive",
+"path": "content/concepts/The question kept alive.md",
+"degree": 13,
+"prose_words": 133
+},
+{
 "id": "The rhythm of breath",
 "title": "The rhythm of breath",
 "path": "content/concepts/The rhythm of breath.md",
 "degree": 13,
 "prose_words": 90
+},
+{
+"id": "The standpoint determines what appears",
+"title": "The standpoint determines what appears",
+"path": "content/concepts/The standpoint determines what appears.md",
+"degree": 13,
+"prose_words": 139
 },
 {
 "id": "The three kinds of knowledge",
@@ -294,11 +504,25 @@
 "prose_words": 109
 },
 {
+"id": "The tripartite soul",
+"title": "The tripartite soul",
+"path": "content/concepts/The tripartite soul.md",
+"degree": 13,
+"prose_words": 129
+},
+{
 "id": "Alterity",
 "title": "Alterity",
 "path": "content/concepts/Alterity.md",
 "degree": 12,
 "prose_words": 94
+},
+{
+"id": "Context-dependent repetition (Lally)",
+"title": "Context-dependent repetition (Lally)",
+"path": "content/concepts/Context-dependent repetition (Lally).md",
+"degree": 12,
+"prose_words": 146
 },
 {
 "id": "Cosmopolitanism",
@@ -322,11 +546,25 @@
 "prose_words": 97
 },
 {
+"id": "Different voice",
+"title": "Different voice",
+"path": "content/concepts/Different voice.md",
+"degree": 12,
+"prose_words": 141
+},
+{
 "id": "Empathic concern",
 "title": "Empathic concern",
 "path": "content/concepts/Empathic concern.md",
 "degree": 12,
 "prose_words": 94
+},
+{
+"id": "Fading affect bias",
+"title": "Fading affect bias",
+"path": "content/concepts/Fading affect bias.md",
+"degree": 12,
+"prose_words": 148
 },
 {
 "id": "Interdependent self-construal",
@@ -341,6 +579,41 @@
 "path": "content/concepts/Means-end continuity.md",
 "degree": 12,
 "prose_words": 103
+},
+{
+"id": "Narrative repair",
+"title": "Narrative repair",
+"path": "content/concepts/Narrative repair.md",
+"degree": 12,
+"prose_words": 127
+},
+{
+"id": "Ordering the soul",
+"title": "Ordering the soul",
+"path": "content/concepts/Ordering the soul.md",
+"degree": 12,
+"prose_words": 125
+},
+{
+"id": "Posner's three-network model",
+"title": "Posner's three-network model",
+"path": "content/concepts/Posner's three-network model.md",
+"degree": 12,
+"prose_words": 136
+},
+{
+"id": "Right action",
+"title": "Right action",
+"path": "content/concepts/Right action.md",
+"degree": 12,
+"prose_words": 135
+},
+{
+"id": "Skillful means (upaya)",
+"title": "Skillful means (upaya)",
+"path": "content/concepts/Skillful means (upaya).md",
+"degree": 12,
+"prose_words": 128
 },
 {
 "id": "Sufficiency",
@@ -392,13 +665,6 @@
 "prose_words": 59
 },
 {
-"id": "Attentional deployment theory",
-"title": "Attentional deployment theory",
-"path": "content/concepts/Attentional deployment theory.md",
-"degree": 11,
-"prose_words": 69
-},
-{
 "id": "Benefit finding",
 "title": "Benefit finding",
 "path": "content/concepts/Benefit finding.md",
@@ -406,11 +672,25 @@
 "prose_words": 111
 },
 {
+"id": "Circadian science",
+"title": "Circadian science",
+"path": "content/concepts/Circadian science.md",
+"degree": 11,
+"prose_words": 125
+},
+{
 "id": "Cognitive distortions research",
 "title": "Cognitive distortions research",
 "path": "content/concepts/Cognitive distortions research.md",
 "degree": 11,
 "prose_words": 77
+},
+{
+"id": "Critique of the unencumbered self",
+"title": "Critique of the unencumbered self",
+"path": "content/concepts/Critique of the unencumbered self.md",
+"degree": 11,
+"prose_words": 140
 },
 {
 "id": "Cross-cultural variations in conceptions of happiness",
@@ -441,6 +721,13 @@
 "prose_words": 99
 },
 {
+"id": "Embodied emotion theory",
+"title": "Embodied emotion theory",
+"path": "content/concepts/Embodied emotion theory.md",
+"degree": 11,
+"prose_words": 132
+},
+{
 "id": "Empathic distress",
 "title": "Empathic distress",
 "path": "content/concepts/Empathic distress.md",
@@ -462,11 +749,25 @@
 "prose_words": 86
 },
 {
+"id": "Existential therapy",
+"title": "Existential therapy",
+"path": "content/concepts/Existential therapy.md",
+"degree": 11,
+"prose_words": 134
+},
+{
 "id": "Focused-attention meditation",
 "title": "Focused-attention meditation",
 "path": "content/concepts/Focused-attention meditation.md",
 "degree": 11,
 "prose_words": 99
+},
+{
+"id": "Hindsight bias",
+"title": "Hindsight bias",
+"path": "content/concepts/Hindsight bias.md",
+"degree": 11,
+"prose_words": 132
 },
 {
 "id": "Individual Psychology (Adlerian psychology)",
@@ -476,11 +777,25 @@
 "prose_words": 47
 },
 {
+"id": "Inflammatory theory of depression (Dantzer, Miller)",
+"title": "Inflammatory theory of depression (Dantzer, Miller)",
+"path": "content/concepts/Inflammatory theory of depression (Dantzer, Miller).md",
+"degree": 11,
+"prose_words": 142
+},
+{
 "id": "Learning by experience",
 "title": "Learning by experience",
 "path": "content/concepts/Learning by experience.md",
 "degree": 11,
 "prose_words": 111
+},
+{
+"id": "Life history theory",
+"title": "Life history theory",
+"path": "content/concepts/Life history theory.md",
+"degree": 11,
+"prose_words": 141
 },
 {
 "id": "Nature as teacher",
@@ -553,6 +868,13 @@
 "prose_words": 68
 },
 {
+"id": "The human condition",
+"title": "The human condition",
+"path": "content/concepts/The human condition.md",
+"degree": 11,
+"prose_words": 138
+},
+{
 "id": "The self dissolving in aesthetic contemplation",
 "title": "The self dissolving in aesthetic contemplation",
 "path": "content/concepts/The self dissolving in aesthetic contemplation.md",
@@ -586,6 +908,27 @@
 "path": "content/concepts/Congruence.md",
 "degree": 10,
 "prose_words": 106
+},
+{
+"id": "Conversation as method",
+"title": "Conversation as method",
+"path": "content/concepts/Conversation as method.md",
+"degree": 10,
+"prose_words": 132
+},
+{
+"id": "Cultural dimensions theory Hofstede",
+"title": "Cultural dimensions theory Hofstede",
+"path": "content/concepts/Cultural dimensions theory Hofstede.md",
+"degree": 10,
+"prose_words": 137
+},
+{
+"id": "Cultural fit theory",
+"title": "Cultural fit theory",
+"path": "content/concepts/Cultural fit theory.md",
+"degree": 10,
+"prose_words": 147
 },
 {
 "id": "Deliberate simplicity",
@@ -623,6 +966,13 @@
 "prose_words": 64
 },
 {
+"id": "Exercise neurobiology theory",
+"title": "Exercise neurobiology theory",
+"path": "content/concepts/Exercise neurobiology theory.md",
+"degree": 10,
+"prose_words": 122
+},
+{
 "id": "Expert intuition (Klein's recognition-primed decision model)",
 "title": "Expert intuition (Klein's recognition-primed decision model)",
 "path": "content/concepts/Expert intuition (Klein's recognition-primed decision model).md",
@@ -637,11 +987,25 @@
 "prose_words": 116
 },
 {
+"id": "Life lived forwards",
+"title": "Life lived forwards",
+"path": "content/concepts/Life lived forwards.md",
+"degree": 10,
+"prose_words": 123
+},
+{
 "id": "Mastery experiences",
 "title": "Mastery experiences",
 "path": "content/concepts/Mastery experiences.md",
 "degree": 10,
 "prose_words": 88
+},
+{
+"id": "Mattering",
+"title": "Mattering",
+"path": "content/concepts/Mattering.md",
+"degree": 10,
+"prose_words": 124
 },
 {
 "id": "Maximizing versus satisficing",
@@ -665,6 +1029,13 @@
 "prose_words": 96
 },
 {
+"id": "Original nature, nothing to add",
+"title": "Original nature, nothing to add",
+"path": "content/concepts/Original nature, nothing to add.md",
+"degree": 10,
+"prose_words": 126
+},
+{
 "id": "Phenomenology of the lifeworld",
 "title": "Phenomenology of the lifeworld",
 "path": "content/concepts/Phenomenology of the lifeworld.md",
@@ -677,6 +1048,13 @@
 "path": "content/concepts/Psychological detachment.md",
 "degree": 10,
 "prose_words": 86
+},
+{
+"id": "Resoluteness (Entschlossenheit)",
+"title": "Resoluteness (Entschlossenheit)",
+"path": "content/concepts/Resoluteness (Entschlossenheit).md",
+"degree": 10,
+"prose_words": 125
 },
 {
 "id": "Ritual",
@@ -693,11 +1071,25 @@
 "prose_words": 117
 },
 {
+"id": "Stimulus control theory",
+"title": "Stimulus control theory",
+"path": "content/concepts/Stimulus control theory.md",
+"degree": 10,
+"prose_words": 121
+},
+{
 "id": "Strength as virtue",
 "title": "Strength as virtue",
 "path": "content/concepts/Strength as virtue.md",
 "degree": 10,
 "prose_words": 79
+},
+{
+"id": "The criterion of experience",
+"title": "The criterion of experience",
+"path": "content/concepts/The criterion of experience.md",
+"degree": 10,
+"prose_words": 127
 },
 {
 "id": "The great poem of the body",
@@ -712,6 +1104,13 @@
 "path": "content/concepts/The natural rhythm of warmth and cool.md",
 "degree": 10,
 "prose_words": 68
+},
+{
+"id": "The same in all conditions",
+"title": "The same in all conditions",
+"path": "content/concepts/The same in all conditions.md",
+"degree": 10,
+"prose_words": 128
 },
 {
 "id": "The seer at rest in its own nature",
@@ -756,11 +1155,32 @@
 "prose_words": 87
 },
 {
+"id": "Unity of opposites",
+"title": "Unity of opposites",
+"path": "content/concepts/Unity of opposites.md",
+"degree": 10,
+"prose_words": 122
+},
+{
+"id": "Value pluralism",
+"title": "Value pluralism",
+"path": "content/concepts/Value pluralism.md",
+"degree": 10,
+"prose_words": 138
+},
+{
 "id": "Voluntary discomfort",
 "title": "Voluntary discomfort",
 "path": "content/concepts/Voluntary discomfort.md",
 "degree": 10,
 "prose_words": 92
+},
+{
+"id": "Aspiration index",
+"title": "Aspiration index",
+"path": "content/concepts/Aspiration index.md",
+"degree": 9,
+"prose_words": 143
 },
 {
 "id": "Authentic pride",
@@ -784,6 +1204,20 @@
 "prose_words": 93
 },
 {
+"id": "Biophilia",
+"title": "Biophilia",
+"path": "content/concepts/Biophilia.md",
+"degree": 9,
+"prose_words": 132
+},
+{
+"id": "Body memory",
+"title": "Body memory",
+"path": "content/concepts/Body memory.md",
+"degree": 9,
+"prose_words": 123
+},
+{
 "id": "Controlled motivation",
 "title": "Controlled motivation",
 "path": "content/concepts/Controlled motivation.md",
@@ -791,18 +1225,18 @@
 "prose_words": 103
 },
 {
+"id": "Developmental psychopathology framework",
+"title": "Developmental psychopathology framework",
+"path": "content/concepts/Developmental psychopathology framework.md",
+"degree": 9,
+"prose_words": 132
+},
+{
 "id": "Elaboration Likelihood Model",
 "title": "Elaboration Likelihood Model",
 "path": "content/concepts/Elaboration Likelihood Model.md",
 "degree": 9,
 "prose_words": 107
-},
-{
-"id": "Emotion differentiation",
-"title": "Emotion differentiation",
-"path": "content/concepts/Emotion differentiation.md",
-"degree": 9,
-"prose_words": 86
 },
 {
 "id": "Equipment revealed only in breakdown",
@@ -840,11 +1274,32 @@
 "prose_words": 93
 },
 {
+"id": "Maya (illusion)",
+"title": "Maya (illusion)",
+"path": "content/concepts/Maya (illusion).md",
+"degree": 9,
+"prose_words": 122
+},
+{
 "id": "Metacognitive monitoring",
 "title": "Metacognitive monitoring",
 "path": "content/concepts/Metacognitive monitoring.md",
 "degree": 9,
 "prose_words": 52
+},
+{
+"id": "Moral exemplar research",
+"title": "Moral exemplar research",
+"path": "content/concepts/Moral exemplar research.md",
+"degree": 9,
+"prose_words": 147
+},
+{
+"id": "Neuroplasticity",
+"title": "Neuroplasticity",
+"path": "content/concepts/Neuroplasticity.md",
+"degree": 9,
+"prose_words": 131
 },
 {
 "id": "Open-monitoring meditation",
@@ -966,6 +1421,13 @@
 "prose_words": 45
 },
 {
+"id": "Amour-propre",
+"title": "Amour-propre",
+"path": "content/concepts/Amour-propre.md",
+"degree": 8,
+"prose_words": 148
+},
+{
 "id": "Aristotelian friendship",
 "title": "Aristotelian friendship",
 "path": "content/concepts/Aristotelian friendship.md",
@@ -1001,6 +1463,13 @@
 "prose_words": 117
 },
 {
+"id": "Difference and repetition",
+"title": "Difference and repetition",
+"path": "content/concepts/Difference and repetition.md",
+"degree": 8,
+"prose_words": 128
+},
+{
 "id": "Discipline of rest",
 "title": "Discipline of rest",
 "path": "content/concepts/Discipline of rest.md",
@@ -1020,6 +1489,13 @@
 "path": "content/concepts/Dunning-Kruger effect.md",
 "degree": 8,
 "prose_words": 110
+},
+{
+"id": "Eigentlichkeit (authenticity)",
+"title": "Eigentlichkeit (authenticity)",
+"path": "content/concepts/Eigentlichkeit (authenticity).md",
+"degree": 8,
+"prose_words": 136
 },
 {
 "id": "Emodiversity theory",
@@ -1043,6 +1519,20 @@
 "prose_words": 80
 },
 {
+"id": "Food as medicine",
+"title": "Food as medicine",
+"path": "content/concepts/Food as medicine.md",
+"degree": 8,
+"prose_words": 123
+},
+{
+"id": "Gentleness as virtue",
+"title": "Gentleness as virtue",
+"path": "content/concepts/Gentleness as virtue.md",
+"degree": 8,
+"prose_words": 146
+},
+{
 "id": "Media multitasking",
 "title": "Media multitasking",
 "path": "content/concepts/Media multitasking.md",
@@ -1057,6 +1547,13 @@
 "prose_words": 116
 },
 {
+"id": "Mindful uncertainty",
+"title": "Mindful uncertainty",
+"path": "content/concepts/Mindful uncertainty.md",
+"degree": 8,
+"prose_words": 149
+},
+{
 "id": "Moral sentiments",
 "title": "Moral sentiments",
 "path": "content/concepts/Moral sentiments.md",
@@ -1069,6 +1566,20 @@
 "path": "content/concepts/Negative capability.md",
 "degree": 8,
 "prose_words": 54
+},
+{
+"id": "Obedience theory Milgram",
+"title": "Obedience theory Milgram",
+"path": "content/concepts/Obedience theory Milgram.md",
+"degree": 8,
+"prose_words": 149
+},
+{
+"id": "Optimistic explanatory style",
+"title": "Optimistic explanatory style",
+"path": "content/concepts/Optimistic explanatory style.md",
+"degree": 8,
+"prose_words": 131
 },
 {
 "id": "Parasocial contact hypothesis",
@@ -1090,6 +1601,13 @@
 "path": "content/concepts/Plan-then-adapt strategies outperform rigid plans.md",
 "degree": 8,
 "prose_words": 15
+},
+{
+"id": "Pleasant activities scheduling (Lewinsohn)",
+"title": "Pleasant activities scheduling (Lewinsohn)",
+"path": "content/concepts/Pleasant activities scheduling (Lewinsohn).md",
+"degree": 8,
+"prose_words": 130
 },
 {
 "id": "Pleasure-Arousal-Dominance Model",
@@ -1120,6 +1638,13 @@
 "prose_words": 58
 },
 {
+"id": "Process ecology",
+"title": "Process ecology",
+"path": "content/concepts/Process ecology.md",
+"degree": 8,
+"prose_words": 123
+},
+{
 "id": "Prohairesis (deliberate choice)",
 "title": "Prohairesis (deliberate choice)",
 "path": "content/concepts/Prohairesis (deliberate choice).md",
@@ -1148,6 +1673,13 @@
 "prose_words": 110
 },
 {
+"id": "Reappraisal's effectiveness depends on controllability",
+"title": "Reappraisal's effectiveness depends on controllability",
+"path": "content/concepts/Reappraisal's effectiveness depends on controllability.md",
+"degree": 8,
+"prose_words": 147
+},
+{
 "id": "Relational psychoanalysis",
 "title": "Relational psychoanalysis",
 "path": "content/concepts/Relational psychoanalysis.md",
@@ -1169,6 +1701,20 @@
 "prose_words": 81
 },
 {
+"id": "Social Judgment Theory",
+"title": "Social Judgment Theory",
+"path": "content/concepts/Social Judgment Theory.md",
+"degree": 8,
+"prose_words": 134
+},
+{
+"id": "Stage theories of development",
+"title": "Stage theories of development",
+"path": "content/concepts/Stage theories of development.md",
+"degree": 8,
+"prose_words": 123
+},
+{
 "id": "Svadharma, one's own duty",
 "title": "Svadharma, one's own duty",
 "path": "content/concepts/Svadharma, one's own duty.md",
@@ -1183,11 +1729,32 @@
 "prose_words": 95
 },
 {
+"id": "The insatiability of desire",
+"title": "The insatiability of desire",
+"path": "content/concepts/The insatiability of desire.md",
+"degree": 8,
+"prose_words": 128
+},
+{
 "id": "The mirror for others",
 "title": "The mirror for others",
 "path": "content/concepts/The mirror for others.md",
 "degree": 8,
 "prose_words": 119
+},
+{
+"id": "The unanswerable koan",
+"title": "The unanswerable koan",
+"path": "content/concepts/The unanswerable koan.md",
+"degree": 8,
+"prose_words": 135
+},
+{
+"id": "Transformational leadership theory",
+"title": "Transformational leadership theory",
+"path": "content/concepts/Transformational leadership theory.md",
+"degree": 8,
+"prose_words": 136
 },
 {
 "id": "Vocabularies as tools",
@@ -1202,6 +1769,13 @@
 "path": "content/concepts/Zuowang (sitting in forgetfulness).md",
 "degree": 8,
 "prose_words": 99
+},
+{
+"id": "Autonomy-supportive leadership",
+"title": "Autonomy-supportive leadership",
+"path": "content/concepts/Autonomy-supportive leadership.md",
+"degree": 7,
+"prose_words": 144
 },
 {
 "id": "Autonomy-supportive management research",
@@ -1239,6 +1813,20 @@
 "prose_words": 86
 },
 {
+"id": "Cultural resilience",
+"title": "Cultural resilience",
+"path": "content/concepts/Cultural resilience.md",
+"degree": 7,
+"prose_words": 132
+},
+{
+"id": "Cytokine theory sickness behavior",
+"title": "Cytokine theory sickness behavior",
+"path": "content/concepts/Cytokine theory sickness behavior.md",
+"degree": 7,
+"prose_words": 123
+},
+{
 "id": "Divergent and convergent thinking",
 "title": "Divergent and convergent thinking",
 "path": "content/concepts/Divergent and convergent thinking.md",
@@ -1267,6 +1855,13 @@
 "prose_words": 108
 },
 {
+"id": "Equity theory",
+"title": "Equity theory",
+"path": "content/concepts/Equity theory.md",
+"degree": 7,
+"prose_words": 122
+},
+{
 "id": "Eros",
 "title": "Eros",
 "path": "content/concepts/Eros.md",
@@ -1288,11 +1883,25 @@
 "prose_words": 83
 },
 {
+"id": "Expectancy Violations Theory",
+"title": "Expectancy Violations Theory",
+"path": "content/concepts/Expectancy Violations Theory.md",
+"degree": 7,
+"prose_words": 134
+},
+{
 "id": "Exposure processes",
 "title": "Exposure processes",
 "path": "content/concepts/Exposure processes.md",
 "degree": 7,
 "prose_words": 92
+},
+{
+"id": "Feedback intervention research",
+"title": "Feedback intervention research",
+"path": "content/concepts/Feedback intervention research.md",
+"degree": 7,
+"prose_words": 125
 },
 {
 "id": "Following nature's rhythms",
@@ -1351,11 +1960,25 @@
 "prose_words": 109
 },
 {
+"id": "Integrative complexity",
+"title": "Integrative complexity",
+"path": "content/concepts/Integrative complexity.md",
+"degree": 7,
+"prose_words": 146
+},
+{
 "id": "Magnanimity",
 "title": "Magnanimity",
 "path": "content/concepts/Magnanimity.md",
 "degree": 7,
 "prose_words": 54
+},
+{
+"id": "Metacognitive therapy (Wells)",
+"title": "Metacognitive therapy (Wells)",
+"path": "content/concepts/Metacognitive therapy (Wells).md",
+"degree": 7,
+"prose_words": 122
 },
 {
 "id": "Metanoia (transformation)",
@@ -1377,6 +2000,20 @@
 "path": "content/concepts/Nepantla.md",
 "degree": 7,
 "prose_words": 72
+},
+{
+"id": "Organizational research",
+"title": "Organizational research",
+"path": "content/concepts/Organizational research.md",
+"degree": 7,
+"prose_words": 124
+},
+{
+"id": "Passion theory Vallerand",
+"title": "Passion theory Vallerand",
+"path": "content/concepts/Passion theory Vallerand.md",
+"degree": 7,
+"prose_words": 136
 },
 {
 "id": "Personal projects",
@@ -1414,6 +2051,13 @@
 "prose_words": 60
 },
 {
+"id": "Problem-solving therapy",
+"title": "Problem-solving therapy",
+"path": "content/concepts/Problem-solving therapy.md",
+"degree": 7,
+"prose_words": 142
+},
+{
 "id": "Protection motivation theory",
 "title": "Protection motivation theory",
 "path": "content/concepts/Protection motivation theory.md",
@@ -1442,6 +2086,13 @@
 "prose_words": 99
 },
 {
+"id": "Reinforcement Sensitivity Theory",
+"title": "Reinforcement Sensitivity Theory",
+"path": "content/concepts/Reinforcement Sensitivity Theory.md",
+"degree": 7,
+"prose_words": 125
+},
+{
 "id": "Reinforcement-Affect Theory",
 "title": "Reinforcement-Affect Theory",
 "path": "content/concepts/Reinforcement-Affect Theory.md",
@@ -1454,6 +2105,13 @@
 "path": "content/concepts/Reinforcer Pathology Model.md",
 "degree": 7,
 "prose_words": 97
+},
+{
+"id": "Relational Developmental Systems Theory",
+"title": "Relational Developmental Systems Theory",
+"path": "content/concepts/Relational Developmental Systems Theory.md",
+"degree": 7,
+"prose_words": 136
 },
 {
 "id": "Relational Models Theory",
@@ -1484,11 +2142,46 @@
 "prose_words": 94
 },
 {
+"id": "Right association",
+"title": "Right association",
+"path": "content/concepts/Right association.md",
+"degree": 7,
+"prose_words": 137
+},
+{
+"id": "Self-validation theory",
+"title": "Self-validation theory",
+"path": "content/concepts/Self-validation theory.md",
+"degree": 7,
+"prose_words": 123
+},
+{
+"id": "The body schema",
+"title": "The body schema",
+"path": "content/concepts/The body schema.md",
+"degree": 7,
+"prose_words": 123
+},
+{
 "id": "The many selves",
 "title": "The many selves",
 "path": "content/concepts/The many selves.md",
 "degree": 7,
 "prose_words": 114
+},
+{
+"id": "The wanting/liking dissociation",
+"title": "The wanting/liking dissociation",
+"path": "content/concepts/The wantingliking dissociation.md",
+"degree": 7,
+"prose_words": 138
+},
+{
+"id": "Amor dei intellectualis",
+"title": "Amor dei intellectualis",
+"path": "content/concepts/Amor dei intellectualis.md",
+"degree": 6,
+"prose_words": 129
 },
 {
 "id": "Analytic vs holistic cognition",
@@ -1510,6 +2203,13 @@
 "path": "content/concepts/Attentional synchronisation in groups.md",
 "degree": 6,
 "prose_words": 112
+},
+{
+"id": "Being-toward",
+"title": "Being-toward",
+"path": "content/concepts/Being-toward.md",
+"degree": 6,
+"prose_words": 124
 },
 {
 "id": "Being-values (B-values)",
@@ -1568,6 +2268,13 @@
 "prose_words": 103
 },
 {
+"id": "Fluency-driven illusory truth",
+"title": "Fluency-driven illusory truth",
+"path": "content/concepts/Fluency-driven illusory truth.md",
+"degree": 6,
+"prose_words": 129
+},
+{
 "id": "Future self-continuity",
 "title": "Future self-continuity",
 "path": "content/concepts/Future self-continuity.md",
@@ -1575,11 +2282,53 @@
 "prose_words": 103
 },
 {
+"id": "Genuine doubt",
+"title": "Genuine doubt",
+"path": "content/concepts/Genuine doubt.md",
+"degree": 6,
+"prose_words": 122
+},
+{
+"id": "Grief's oscillation model",
+"title": "Grief's oscillation model",
+"path": "content/concepts/Grief's oscillation model.md",
+"degree": 6,
+"prose_words": 122
+},
+{
+"id": "HEXACO model of personality structure",
+"title": "HEXACO model of personality structure",
+"path": "content/concepts/HEXACO model of personality structure.md",
+"degree": 6,
+"prose_words": 134
+},
+{
+"id": "Helper's high",
+"title": "Helper's high",
+"path": "content/concepts/Helper's high.md",
+"degree": 6,
+"prose_words": 144
+},
+{
 "id": "Hubristic pride",
 "title": "Hubristic pride",
 "path": "content/concepts/Hubristic pride.md",
 "degree": 6,
 "prose_words": 79
+},
+{
+"id": "Illusion of explanatory depth",
+"title": "Illusion of explanatory depth",
+"path": "content/concepts/Illusion of explanatory depth.md",
+"degree": 6,
+"prose_words": 141
+},
+{
+"id": "Inattentional blindness",
+"title": "Inattentional blindness",
+"path": "content/concepts/Inattentional blindness.md",
+"degree": 6,
+"prose_words": 123
 },
 {
 "id": "Ironic process",
@@ -1659,6 +2408,13 @@
 "prose_words": 100
 },
 {
+"id": "Overtraining",
+"title": "Overtraining",
+"path": "content/concepts/Overtraining.md",
+"degree": 6,
+"prose_words": 145
+},
+{
 "id": "Philia",
 "title": "Philia",
 "path": "content/concepts/Philia.md",
@@ -1680,6 +2436,27 @@
 "prose_words": 52
 },
 {
+"id": "Re-authoring",
+"title": "Re-authoring",
+"path": "content/concepts/Re-authoring.md",
+"degree": 6,
+"prose_words": 124
+},
+{
+"id": "Redemption sequences",
+"title": "Redemption sequences",
+"path": "content/concepts/Redemption sequences.md",
+"degree": 6,
+"prose_words": 124
+},
+{
+"id": "Shravana, manana, nididhyasana",
+"title": "Shravana, manana, nididhyasana",
+"path": "content/concepts/Shravana, manana, nididhyasana.md",
+"degree": 6,
+"prose_words": 144
+},
+{
 "id": "Shu",
 "title": "Shu",
 "path": "content/concepts/Shu.md",
@@ -1694,11 +2471,46 @@
 "prose_words": 108
 },
 {
+"id": "Soft startup",
+"title": "Soft startup",
+"path": "content/concepts/Soft startup.md",
+"degree": 6,
+"prose_words": 149
+},
+{
+"id": "The Kalama principle",
+"title": "The Kalama principle",
+"path": "content/concepts/The Kalama principle.md",
+"degree": 6,
+"prose_words": 137
+},
+{
 "id": "The sacred",
 "title": "The sacred",
 "path": "content/concepts/The sacred.md",
 "degree": 6,
 "prose_words": 74
+},
+{
+"id": "The transcendental reduction",
+"title": "The transcendental reduction",
+"path": "content/concepts/The transcendental reduction.md",
+"degree": 6,
+"prose_words": 124
+},
+{
+"id": "Theory of valuation",
+"title": "Theory of valuation",
+"path": "content/concepts/Theory of valuation.md",
+"degree": 6,
+"prose_words": 136
+},
+{
+"id": "Affects",
+"title": "Affects",
+"path": "content/concepts/Affects.md",
+"degree": 5,
+"prose_words": 121
 },
 {
 "id": "Antidotes to afflictions",
@@ -1708,11 +2520,25 @@
 "prose_words": 97
 },
 {
+"id": "Apology research",
+"title": "Apology research",
+"path": "content/concepts/Apology research.md",
+"degree": 5,
+"prose_words": 139
+},
+{
 "id": "Arousal reinterpretation",
 "title": "Arousal reinterpretation",
 "path": "content/concepts/Arousal reinterpretation.md",
 "degree": 5,
 "prose_words": 104
+},
+{
+"id": "Ars memoriae (art of memory)",
+"title": "Ars memoriae (art of memory)",
+"path": "content/concepts/Ars memoriae (art of memory).md",
+"degree": 5,
+"prose_words": 140
 },
 {
 "id": "Assertiveness research",
@@ -1727,6 +2553,13 @@
 "path": "content/concepts/Authoritative parenting.md",
 "degree": 5,
 "prose_words": 91
+},
+{
+"id": "B-values",
+"title": "B-values",
+"path": "content/concepts/B-values.md",
+"degree": 5,
+"prose_words": 142
 },
 {
 "id": "Both-and",
@@ -1771,11 +2604,39 @@
 "prose_words": 96
 },
 {
+"id": "Ending as completion",
+"title": "Ending as completion",
+"path": "content/concepts/Ending as completion.md",
+"degree": 5,
+"prose_words": 138
+},
+{
+"id": "Engagement",
+"title": "Engagement",
+"path": "content/concepts/Engagement.md",
+"degree": 5,
+"prose_words": 144
+},
+{
 "id": "Equipollence",
 "title": "Equipollence",
 "path": "content/concepts/Equipollence.md",
 "degree": 5,
 "prose_words": 94
+},
+{
+"id": "Expression as construction",
+"title": "Expression as construction",
+"path": "content/concepts/Expression as construction.md",
+"degree": 5,
+"prose_words": 132
+},
+{
+"id": "Frugal plenty",
+"title": "Frugal plenty",
+"path": "content/concepts/Frugal plenty.md",
+"degree": 5,
+"prose_words": 130
 },
 {
 "id": "Fundamental stance",
@@ -1785,6 +2646,13 @@
 "prose_words": 108
 },
 {
+"id": "Gestalt perception",
+"title": "Gestalt perception",
+"path": "content/concepts/Gestalt perception.md",
+"degree": 5,
+"prose_words": 129
+},
+{
 "id": "Gut-brain axis (Cryan)",
 "title": "Gut-brain axis (Cryan)",
 "path": "content/concepts/Gut-brain axis (Cryan).md",
@@ -1792,11 +2660,32 @@
 "prose_words": 89
 },
 {
+"id": "Horizon",
+"title": "Horizon",
+"path": "content/concepts/Horizon.md",
+"degree": 5,
+"prose_words": 138
+},
+{
+"id": "Integrated information theory",
+"title": "Integrated information theory",
+"path": "content/concepts/Integrated information theory.md",
+"degree": 5,
+"prose_words": 122
+},
+{
 "id": "Interactive activation model",
 "title": "Interactive activation model",
 "path": "content/concepts/Interactive activation model.md",
 "degree": 5,
 "prose_words": 117
+},
+{
+"id": "Interoceptive inference",
+"title": "Interoceptive inference",
+"path": "content/concepts/Interoceptive inference.md",
+"degree": 5,
+"prose_words": 132
 },
 {
 "id": "Justice reasoning",
@@ -1827,11 +2716,25 @@
 "prose_words": 77
 },
 {
+"id": "Misinformation effect",
+"title": "Misinformation effect",
+"path": "content/concepts/Misinformation effect.md",
+"degree": 5,
+"prose_words": 146
+},
+{
 "id": "Nishkama karma",
 "title": "Nishkama karma",
 "path": "content/concepts/Nishkama karma.md",
 "degree": 5,
 "prose_words": 95
+},
+{
+"id": "Not-one-not-two",
+"title": "Not-one-not-two",
+"path": "content/concepts/Not-one-not-two.md",
+"degree": 5,
+"prose_words": 120
 },
 {
 "id": "Nunc fluens",
@@ -1848,11 +2751,32 @@
 "prose_words": 112
 },
 {
+"id": "Passive nihilism",
+"title": "Passive nihilism",
+"path": "content/concepts/Passive nihilism.md",
+"degree": 5,
+"prose_words": 147
+},
+{
+"id": "Peer influence",
+"title": "Peer influence",
+"path": "content/concepts/Peer influence.md",
+"degree": 5,
+"prose_words": 148
+},
+{
 "id": "Pranayama",
 "title": "Pranayama",
 "path": "content/concepts/Pranayama.md",
 "degree": 5,
 "prose_words": 58
+},
+{
+"id": "Pratyahara",
+"title": "Pratyahara",
+"path": "content/concepts/Pratyahara.md",
+"degree": 5,
+"prose_words": 148
 },
 {
 "id": "Pre-commitment as wisdom",
@@ -1883,6 +2807,27 @@
 "prose_words": 116
 },
 {
+"id": "Social facilitation theory Zajonc",
+"title": "Social facilitation theory Zajonc",
+"path": "content/concepts/Social facilitation theory Zajonc.md",
+"degree": 5,
+"prose_words": 149
+},
+{
+"id": "Social loafing theory Latane",
+"title": "Social loafing theory Latane",
+"path": "content/concepts/Social loafing theory Latane.md",
+"degree": 5,
+"prose_words": 126
+},
+{
+"id": "Spaced repetition",
+"title": "Spaced repetition",
+"path": "content/concepts/Spaced repetition.md",
+"degree": 5,
+"prose_words": 125
+},
+{
 "id": "The peace that passes understanding",
 "title": "The peace that passes understanding",
 "path": "content/concepts/The peace that passes understanding.md",
@@ -1902,6 +2847,34 @@
 "path": "content/concepts/The stimulus-response gap.md",
 "degree": 5,
 "prose_words": 77
+},
+{
+"id": "Unity in diversity",
+"title": "Unity in diversity",
+"path": "content/concepts/Unity in diversity.md",
+"degree": 5,
+"prose_words": 127
+},
+{
+"id": "Valuation as inquiry",
+"title": "Valuation as inquiry",
+"path": "content/concepts/Valuation as inquiry.md",
+"degree": 5,
+"prose_words": 138
+},
+{
+"id": "Verification in experience",
+"title": "Verification in experience",
+"path": "content/concepts/Verification in experience.md",
+"degree": 5,
+"prose_words": 135
+},
+{
+"id": "Attachment research on autonomy-granting",
+"title": "Attachment research on autonomy-granting",
+"path": "content/concepts/Attachment research on autonomy-granting.md",
+"degree": 4,
+"prose_words": 139
 },
 {
 "id": "Belief perseverance effect",
@@ -1946,6 +2919,13 @@
 "prose_words": 119
 },
 {
+"id": "Expressed humility",
+"title": "Expressed humility",
+"path": "content/concepts/Expressed humility.md",
+"degree": 4,
+"prose_words": 141
+},
+{
 "id": "External-locus-of-evaluation research",
 "title": "External-locus-of-evaluation research",
 "path": "content/concepts/External-locus-of-evaluation research.md",
@@ -1958,6 +2938,27 @@
 "path": "content/concepts/Facing the monster.md",
 "degree": 4,
 "prose_words": 116
+},
+{
+"id": "Firstfruits",
+"title": "Firstfruits",
+"path": "content/concepts/Firstfruits.md",
+"degree": 4,
+"prose_words": 137
+},
+{
+"id": "Focusing",
+"title": "Focusing",
+"path": "content/concepts/Focusing.md",
+"degree": 4,
+"prose_words": 121
+},
+{
+"id": "Frugality",
+"title": "Frugality",
+"path": "content/concepts/Frugality.md",
+"degree": 4,
+"prose_words": 122
 },
 {
 "id": "Homo faber: man the maker",
@@ -1974,11 +2975,60 @@
 "prose_words": 84
 },
 {
+"id": "Identity statuses (Marcia)",
+"title": "Identity statuses (Marcia)",
+"path": "content/concepts/Identity statuses (Marcia).md",
+"degree": 4,
+"prose_words": 122
+},
+{
 "id": "Incubation",
 "title": "Incubation",
 "path": "content/concepts/Incubation.md",
 "degree": 4,
 "prose_words": 103
+},
+{
+"id": "Interpersonal Deception Theory",
+"title": "Interpersonal Deception Theory",
+"path": "content/concepts/Interpersonal Deception Theory.md",
+"degree": 4,
+"prose_words": 124
+},
+{
+"id": "Interpersonal psychoanalysis",
+"title": "Interpersonal psychoanalysis",
+"path": "content/concepts/Interpersonal psychoanalysis.md",
+"degree": 4,
+"prose_words": 141
+},
+{
+"id": "Intra-action",
+"title": "Intra-action",
+"path": "content/concepts/Intra-action.md",
+"degree": 4,
+"prose_words": 149
+},
+{
+"id": "Krumboltz Learning Theory",
+"title": "Krumboltz Learning Theory",
+"path": "content/concepts/Krumboltz Learning Theory.md",
+"degree": 4,
+"prose_words": 147
+},
+{
+"id": "Lateral inhibition theory",
+"title": "Lateral inhibition theory",
+"path": "content/concepts/Lateral inhibition theory.md",
+"degree": 4,
+"prose_words": 127
+},
+{
+"id": "Life as laboratory",
+"title": "Life as laboratory",
+"path": "content/concepts/Life as laboratory.md",
+"degree": 4,
+"prose_words": 147
 },
 {
 "id": "Life-span theory of development",
@@ -2000,6 +3050,13 @@
 "path": "content/concepts/Locus of evaluation.md",
 "degree": 4,
 "prose_words": 108
+},
+{
+"id": "Machiavellianism",
+"title": "Machiavellianism",
+"path": "content/concepts/Machiavellianism.md",
+"degree": 4,
+"prose_words": 145
 },
 {
 "id": "Manaakitanga",
@@ -2037,11 +3094,25 @@
 "prose_words": 115
 },
 {
+"id": "New Fire ceremony",
+"title": "New Fire ceremony",
+"path": "content/concepts/New Fire ceremony.md",
+"degree": 4,
+"prose_words": 138
+},
+{
 "id": "Non-abiding",
 "title": "Non-abiding",
 "path": "content/concepts/Non-abiding.md",
 "degree": 4,
 "prose_words": 112
+},
+{
+"id": "One-pointedness",
+"title": "One-pointedness",
+"path": "content/concepts/One-pointedness.md",
+"degree": 4,
+"prose_words": 137
 },
 {
 "id": "Paideia",
@@ -2063,6 +3134,20 @@
 "path": "content/concepts/Pearls before swine.md",
 "degree": 4,
 "prose_words": 94
+},
+{
+"id": "Perfectionism research",
+"title": "Perfectionism research",
+"path": "content/concepts/Perfectionism research.md",
+"degree": 4,
+"prose_words": 134
+},
+{
+"id": "Person-role fit research",
+"title": "Person-role fit research",
+"path": "content/concepts/Person-role fit research.md",
+"degree": 4,
+"prose_words": 126
 },
 {
 "id": "Placebo effects",
@@ -2177,11 +3262,25 @@
 "prose_words": 60
 },
 {
+"id": "The taxonomy of desires",
+"title": "The taxonomy of desires",
+"path": "content/concepts/The taxonomy of desires.md",
+"degree": 4,
+"prose_words": 124
+},
+{
 "id": "The ten modes",
 "title": "The ten modes",
 "path": "content/concepts/The ten modes.md",
 "degree": 4,
 "prose_words": 98
+},
+{
+"id": "Things thinging",
+"title": "Things thinging",
+"path": "content/concepts/Things thinging.md",
+"degree": 4,
+"prose_words": 148
 },
 {
 "id": "Better-than-average effect / illusory superiority",
@@ -2212,6 +3311,41 @@
 "prose_words": 55
 },
 {
+"id": "Existential communication",
+"title": "Existential communication",
+"path": "content/concepts/Existential communication.md",
+"degree": 3,
+"prose_words": 130
+},
+{
+"id": "Experimental reform",
+"title": "Experimental reform",
+"path": "content/concepts/Experimental reform.md",
+"degree": 3,
+"prose_words": 147
+},
+{
+"id": "Fricker",
+"title": "Fricker",
+"path": "content/concepts/Fricker.md",
+"degree": 3,
+"prose_words": 121
+},
+{
+"id": "Galinsky et al",
+"title": "Galinsky et al",
+"path": "content/concepts/Galinsky et al.md",
+"degree": 3,
+"prose_words": 126
+},
+{
+"id": "Goal-directed attention",
+"title": "Goal-directed attention",
+"path": "content/concepts/Goal-directed attention.md",
+"degree": 3,
+"prose_words": 148
+},
+{
 "id": "Government of the people",
 "title": "Government of the people",
 "path": "content/concepts/Government of the people.md",
@@ -2226,6 +3360,13 @@
 "prose_words": 81
 },
 {
+"id": "Group affective synchronisation",
+"title": "Group affective synchronisation",
+"path": "content/concepts/Group affective synchronisation.md",
+"degree": 3,
+"prose_words": 121
+},
+{
 "id": "Leadership research",
 "title": "Leadership research",
 "path": "content/concepts/Leadership research.md",
@@ -2233,11 +3374,53 @@
 "prose_words": 106
 },
 {
+"id": "Levels of analysis",
+"title": "Levels of analysis",
+"path": "content/concepts/Levels of analysis.md",
+"degree": 3,
+"prose_words": 134
+},
+{
 "id": "Liberality",
 "title": "Liberality",
 "path": "content/concepts/Liberality.md",
 "degree": 3,
 "prose_words": 95
+},
+{
+"id": "Lokasangraha, the welfare of the world",
+"title": "Lokasangraha, the welfare of the world",
+"path": "content/concepts/Lokasangraha, the welfare of the world.md",
+"degree": 3,
+"prose_words": 149
+},
+{
+"id": "Meditation neurobiology theory Lazar",
+"title": "Meditation neurobiology theory Lazar",
+"path": "content/concepts/Meditation neurobiology theory Lazar.md",
+"degree": 3,
+"prose_words": 138
+},
+{
+"id": "Mindfulness's clarity mechanism",
+"title": "Mindfulness's clarity mechanism",
+"path": "content/concepts/Mindfulness's clarity mechanism.md",
+"degree": 3,
+"prose_words": 127
+},
+{
+"id": "Mysterium tremendum",
+"title": "Mysterium tremendum",
+"path": "content/concepts/Mysterium tremendum.md",
+"degree": 3,
+"prose_words": 149
+},
+{
+"id": "Nomadology",
+"title": "Nomadology",
+"path": "content/concepts/Nomadology.md",
+"degree": 3,
+"prose_words": 130
 },
 {
 "id": "Non-seeking",
@@ -2338,6 +3521,13 @@
 "prose_words": 105
 },
 {
+"id": "The daimon",
+"title": "The daimon",
+"path": "content/concepts/The daimon.md",
+"degree": 3,
+"prose_words": 141
+},
+{
 "id": "The power paradox",
 "title": "The power paradox",
 "path": "content/concepts/The power paradox.md",
@@ -2352,6 +3542,27 @@
 "prose_words": 81
 },
 {
+"id": "Appearances as indifferents",
+"title": "Appearances as indifferents",
+"path": "content/concepts/Appearances as indifferents.md",
+"degree": 2,
+"prose_words": 141
+},
+{
+"id": "Art in the ordinary",
+"title": "Art in the ordinary",
+"path": "content/concepts/Art in the ordinary.md",
+"degree": 2,
+"prose_words": 128
+},
+{
+"id": "Attentiveness",
+"title": "Attentiveness",
+"path": "content/concepts/Attentiveness.md",
+"degree": 2,
+"prose_words": 137
+},
+{
 "id": "Attribution research",
 "title": "Attribution research",
 "path": "content/concepts/Attribution research.md",
@@ -2359,11 +3570,32 @@
 "prose_words": 118
 },
 {
+"id": "Daily awe",
+"title": "Daily awe",
+"path": "content/concepts/Daily awe.md",
+"degree": 2,
+"prose_words": 148
+},
+{
+"id": "Endurance (hypomenein)",
+"title": "Endurance (hypomenein)",
+"path": "content/concepts/Endurance (hypomenein).md",
+"degree": 2,
+"prose_words": 127
+},
+{
 "id": "Granovetter",
 "title": "Granovetter",
 "path": "content/concepts/Granovetter.md",
 "degree": 2,
 "prose_words": 114
+},
+{
+"id": "Justice sensitivity",
+"title": "Justice sensitivity",
+"path": "content/concepts/Justice sensitivity.md",
+"degree": 2,
+"prose_words": 129
 },
 {
 "id": "Measure (mesure)",
@@ -2380,6 +3612,13 @@
 "prose_words": 92
 },
 {
+"id": "Objectless contemplation",
+"title": "Objectless contemplation",
+"path": "content/concepts/Objectless contemplation.md",
+"degree": 2,
+"prose_words": 136
+},
+{
 "id": "Perceptual learning",
 "title": "Perceptual learning",
 "path": "content/concepts/Perceptual learning.md",
@@ -2394,11 +3633,25 @@
 "prose_words": 72
 },
 {
+"id": "The comfort of warmth",
+"title": "The comfort of warmth",
+"path": "content/concepts/The comfort of warmth.md",
+"degree": 2,
+"prose_words": 130
+},
+{
 "id": "The six departures",
 "title": "The six departures",
 "path": "content/concepts/The six departures.md",
 "degree": 2,
 "prose_words": 114
+},
+{
+"id": "Thundering silence",
+"title": "Thundering silence",
+"path": "content/concepts/Thundering silence.md",
+"degree": 2,
+"prose_words": 139
 },
 {
 "id": "Generative model theory",
@@ -2413,5 +3666,12 @@
 "path": "content/concepts/Needs-based intervention sequencing.md",
 "degree": 1,
 "prose_words": 91
+},
+{
+"id": "Topophilia",
+"title": "Topophilia",
+"path": "content/concepts/Topophilia.md",
+"degree": 1,
+"prose_words": 128
 }
 ]
