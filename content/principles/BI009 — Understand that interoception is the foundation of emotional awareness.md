@@ -23,7 +23,7 @@ A paper on alexithymia (difficulty identifying and describing one's own emotions
 The authors' reading of the pattern is the principle's evidence base: "Alexithymia may, therefore, be characterized better by a general failure of interoception, rather than one of affective interoception alone." (§4. Discussion)
 
 **Plain words**
-Interoception means noticing internal bodily sensations. The authors of the study above discuss difficulty distinguishing emotional and other bodily states in alexithymia. In the exercise below, describe a sensation without deciding immediately what it means.
+The body runs a constant broadcast, heartbeat, breath, temperature, appetite, and most of it never reaches the announcer's desk. People who miss the broadcast have a hard time telling a feeling from a hunger or a fatigue, so the emotion reads as a nameless discomfort. The skill worth building is simpler than it sounds: notice the signal first, name it second.
 
 **For example**
 Sit still for two minutes and notice sensations in the chest, jaw or gut, without assuming what they mean about your emotional state. Notice what you find.
