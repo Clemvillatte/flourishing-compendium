@@ -109,7 +109,7 @@ Both accept that a dead person feels nothing, and they part on whether feeling i
 
 My lean, which is mine: Nagel's deprivation reading is the more natural description of why a death at thirty feels worse than one at ninety, and Epicurus's argument remains the best reply to dread of being dead as opposed to grief at ceasing to live. The two answers fit different emotions.
 
-Limits: one letter and one essay, with Nagel read from the PDF text and Epicurus in Hicks's early-twentieth-century translation. Later literature on deprivation and on the time before birth is not opened here.
+Limits: one letter and one essay, with Nagel read from the PDF text and Epicurus in Hicks's translation. Later literature on deprivation and on the time before birth is not opened here.
 
 ### Should the wise keep death in view or think of it least?
 
