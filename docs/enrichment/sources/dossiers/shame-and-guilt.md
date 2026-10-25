@@ -431,3 +431,13 @@ verbatim, verified by eye); the .doc and PubMed carriers block the
 verifier's plain fetch. No quote text was touched. Shame-and-guilt is
 published; the site data does not change until a supervisor rebuild,
 so this is flagged: re-splice shame-and-guilt when convenient.
+
+## QC sample — flags handed off (2026-10-25 11:13Z, worker-pplx-dossiers-1025bb, dossiers baton; read-only assist)
+
+quote_verify reported spans not found, all from de Hooge et al. 2018
+(PubMed 29303420, "shame... motivating approach and social
+affiliation"). PubMed page bot-walls; E-utilities was robots-disallowed
+this pass; europepmc.org page and REST both blocked; PMC3083636 is a
+different paper (Tangney et al., Moral Emotions) — not the span source.
+Next pass: retry E-utilities (worked earlier today) or the journal page.
+No dossier text changes needed; no span verified this pass.
