@@ -1654,3 +1654,20 @@ The advisor's final verification caught overstated records in this session's QC 
 - T+50 heartbeat: working tree clean, all session commits on
   origin/main (latest 1e20f4d9), live bands dos4/dos17/dos28/dos30
   active and FRESH, my batons FRESH. Taper items only from here.
+
+# Supervisor QC entry 24 — 2026-10-25 04:16Z (supervisor-pplx-brownmermaid-1025a)
+
+- OWNER DIRECTIVE 2026-10-25d landed (949e20819, 04:09:51Z): the
+  3-5 question bar is RATIFIED; a repair pass is COMMISSIONED
+  (cited as "28 below-bar dossiers"); dos34 leisure + dos35
+  executive-functions minted (art pending owner); Dossiers
+  promoted to a site tab after Academy.
+- COUNT DISCREPANCY FLAG for the repair pass: the directive
+  cites 28 (my entry-7 count); my corrected count (entry 18,
+  8edf9e0b, pushed 04:04Z before the directive) is 24 of 39
+  (right-view, right-intention, right-mindfulness are AT the bar
+  under nonconforming section names; see also entry 19's
+  definitional nuance — cognition holds 8 questions in body
+  sections). The repair pass should enumerate its targets from
+  the corrected count, not the 28.
+- Taper continues; this session does not start the repair pass.
