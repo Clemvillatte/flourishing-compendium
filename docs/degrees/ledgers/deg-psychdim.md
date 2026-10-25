@@ -91,10 +91,29 @@ strength of its title; in particular, lecture 14 (What Motivates Us: Sex)
 cannot be assumed to teach self-determination theory without checking its
 content.
 
+#### Fully verified recording: lecture 11 (end to end, 2026-10-25)
+
+Lecture 11 (Evolution, Emotion, and Reason: Emotions, Part I, 53:15) is
+verified end to end: identity and duration as above; the full transcript
+on the [OYC page](https://oyc.yale.edu/psychology/psyc-110/lecture-11)
+was opened and read. Content, classified from the transcript: an
+evolutionary-psychology account of the functions of emotions, opening
+from William James, then the Phineas Gage case on emotion and reason,
+facial expressions and smiles (with a question period), non-social
+emotions (fear) and social emotions and altruism. Chapter segments with
+timestamps from the page: The Different Functions of Emotions [00:00:00];
+Phineas Gage and the Loss of Emotional Capacity [00:09:06]; Facial
+Expressions and Smiles in Particular [00:15:45]; Question and Answer on
+Smiles [00:28:08]; Non-social Emotions: Fear [00:32:22]; Social Emotions
+and Altruism [00:36:29]. Planned use: the emotion-functions strand of M2
+(chapters 1, 5 and 6 serve the functions row; chapter 2 connects emotion
+to reason and could serve the framework discussion). Status:
+verified-video.
+
 | Lecture | Links | Duration | Planned use |
 |---|---|---|---|
 | 1. Introduction | [watch](https://www.youtube.com/watch?v=P3FKHH2RzjI), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=P3FKHH2RzjI&format=json), [OYC page](https://oyc.yale.edu/psychology/psyc-110) | 29:37 | M1 orientation |
-| 11. Emotions, Part I | [watch](https://www.youtube.com/watch?v=8UySWKNjw5Y), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=8UySWKNjw5Y&format=json), [OYC page](https://oyc.yale.edu/psychology/psyc-110) | 53:15 | M2 affective |
+| 11. Emotions, Part I | [watch](https://www.youtube.com/watch?v=8UySWKNjw5Y), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=8UySWKNjw5Y&format=json), [OYC page](https://oyc.yale.edu/psychology/psyc-110/lecture-11) | 53:15 | M2 affective; FULLY VERIFIED end to end (see below) |
 | 12. Emotions, Part II | [watch](https://www.youtube.com/watch?v=i5IrSEIPdwk), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=i5IrSEIPdwk&format=json), [OYC page](https://oyc.yale.edu/psychology/psyc-110) | 56:06 | M2 affective |
 | 14. What Motivates Us: Sex | [watch](https://www.youtube.com/watch?v=RCNgknc7Qv8), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=RCNgknc7Qv8&format=json), [OYC page](https://oyc.yale.edu/psychology/psyc-110) | 52:47 | M6 motivational |
 | 16. Self and Other, Part I | [watch](https://www.youtube.com/watch?v=jsrB5m3mL-A), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=jsrB5m3mL-A&format=json), [OYC page](https://oyc.yale.edu/psychology/psyc-110) | 58:15 | M5 self |
@@ -224,13 +243,13 @@ meta-analysis, run a functional analysis of one behaviour pattern).
 
 ## Gap register (blocking or open)
 
-- Video resources: eight Yale OYC lectures and three talks are candidates
-  with identity, duration, dates and instructor credentials checked (see
-  the two sections above); content classification from transcripts or
-  recordings and segment assignment are outstanding, so none is a verified
-  attachment yet. One candidate recording should be verified end to end
-  (transcript read, content classified, segments assigned) as the pattern
-  for the rest at module production.
+- Video resources: Yale OYC lecture 11 is fully verified end to end
+  (transcript read, content classified, chapter segments with timestamps;
+  see the ledger section). The other seven OYC lectures and the three
+  talks are candidates with identity, duration, dates and instructor
+  credentials checked; their content classification from transcripts or
+  recordings and segment assignment are outstanding, following the
+  lecture-11 pattern at module production.
 - Self-regulation breadth: Dang 2018 grounds the ego depletion debate and
   Alarcon-Espinoza et al. 2022 ground everyday emotional self-regulation
   (children and adolescents focus). A broader adult-focused

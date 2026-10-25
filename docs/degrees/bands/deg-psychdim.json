@@ -4,6 +4,6 @@
  "holder": "worker-pplx-psychdim-1",
  "phase": "milestone-1-v3",
  "modules": {},
- "notes": "2026-10-25 session (T0 08:14:17Z, 60 min cap): 26 sources opened across 8 fetch batches (all free access), one paywalled candidate rejected; coverage matrix v3 in ledgers/deg-psychdim.md with per-module entry competencies; scope doc benchmarked with cited compact matrix and exclusion proposals; 8 OYC lectures and 3 talks are CANDIDATES (identity, duration, dates, credentials checked; content classification from transcripts outstanding); Woolley effect sizes not yet extracted; advisor rounds 1-3 applied; Phase 0 pilot stop-gate blocks module production",
- "updated": "2026-10-25T08:32:53Z"
+ "notes": "2026-10-25 session (T0 08:14:17Z, 60 min cap): 26 sources opened across 8 fetch batches (all free access), one paywalled candidate rejected; coverage matrix v3 with per-module entry competencies in ledgers/deg-psychdim.md; scope doc benchmarked with cited compact matrix and exclusion proposals; OYC lecture 11 fully verified end to end (transcript read, classified, segments); 7 other OYC lectures and 3 talks remain candidates (classification outstanding); Woolley effect sizes not yet extracted; advisor rounds 1-3 applied; Phase 0 pilot stop-gate blocks module production",
+ "updated": "2026-10-25T08:33:20Z"
 }
