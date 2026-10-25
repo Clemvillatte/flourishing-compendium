@@ -11,15 +11,23 @@ Peirce's account of truth is defined by the eventual agreement of investigators 
 
 > "The opinion which is fated to be ultimately agreed to by all who investigate, is what we mean by the truth, and the object represented in this opinion is the real." (Peirce, "How to Make Our Ideas Clear," 1878, [peirce.org](https://www.peirce.org/writings/p119.html))
 
-The passage around the quote presents this convergence as the work of inquiry itself: researchers who begin with opposed views end up at the same conclusion, drawn there by the progress of the investigation rather than by where they started. ([Peirce, "How to Make Our Ideas Clear," 1878](https://www.peirce.org/writings/p119.html))
+The passage around the quote presents this convergence as the work of inquiry itself: researchers who begin with opposed views end up at the same conclusion, drawn there by the progress of the investigation rather than by where they started. In Peirce's formulation the community is simply everyone who investigates: truth is defined as the opinion "ultimately agreed to by all who investigate", and it is that agreement, not any individual's confidence, that the definition rests on. ([Peirce, "How to Make Our Ideas Clear," 1878](https://www.peirce.org/writings/p119.html))
 
 ### How the agreement comes about
 
-Peirce's fuller passage names the force at work: "Different minds may set out with the most antagonistic views, but the progress of investigation carries them by a force outside of themselves to one and the same conclusion." He extends the point to scientific measurement: "They may at first obtain different results, but, as each perfects his method and his processes, the results are found to move steadily together toward a destined centre. So with all scientific research." ([Peirce, 1878](https://www.peirce.org/writings/p119.html)) The claim is a definition, not a report: truth and reality are defined in terms of where perfected investigation tends, and no actual group has to have arrived yet for the definition to do its work.
+Peirce's fuller passage names the force at work:
+
+> "Different minds may set out with the most antagonistic views, but the progress of investigation carries them by a force outside of themselves to one and the same conclusion." — [Peirce, 1878](https://www.peirce.org/writings/p119.html)
+
+He extends the point to scientific measurement:
+
+> "They may at first obtain different results, but, as each perfects his method and his processes, the results are found to move steadily together toward a destined centre. So with all scientific research." — [Peirce, 1878](https://www.peirce.org/writings/p119.html)
+
+The passage describes an eventual convergence of perfected investigation; it does not report that any actual group of investigators has already agreed.
 
 ### What doubt has to do with it
 
-The same essay ties the whole process to doubt: "the action of thought is excited by the irritation of doubt, and ceases when belief is attained; so that the production of belief is the sole function of thought" ([Peirce, 1878](https://www.peirce.org/writings/p119.html)). Inquiry begins irritated and ends settled, and the community is where that movement runs. A single person's certainty carries no special weight in it, which is the point of defining truth by the agreement of investigators rather than by anyone's confidence.
+The same essay ties the process to doubt: "the action of thought is excited by the irritation of doubt, and ceases when belief is attained; so that the production of belief is the sole function of thought" ([Peirce, 1878](https://www.peirce.org/writings/p119.html)). Peirce describes thought as prompted by doubt and ending in belief. His account of truth appeals to the eventual agreement of investigators, rather than to any one person's confidence.
 
 ## Related concepts
 
