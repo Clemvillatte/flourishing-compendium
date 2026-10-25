@@ -9,6 +9,8 @@
   }
  ],
  "in_progress": "",
- "flagged": {},
- "note": "t1g complete (T057 minted + 28 backlinks); band release next"
+ "flagged": {
+  "T057-validator-baseline": "The minted page (commit b4195594f) contained 14 wikilinks with wrong principle titles that do not resolve; the repair (61bdec6ff) replaced them with correct file-form links, which trips the lost-original-links guard against my own broken baseline. Supervisor fix-forward requested: re-validate against a pre-mint base or accept the repair."
+ },
+ "note": "t1g complete (T057 minted + 28 backlinks + advisor-QC repair pass); validator ERR is the baseline artifact, documented in flagged"
 }

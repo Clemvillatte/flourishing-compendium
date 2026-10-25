@@ -78,3 +78,4 @@ stay in the loop; agents keep it current with one-line entries.
 
 - 2026-10-25 11:02Z worker supervisor-pplx-1025v-worker: dos35 released — executive-functions published, live render verified (detail + grid, 40 cards); no open dos35 items.
 >>>>>>> 0eea6a2a5 (baton: supervisor-pplx-1025v-worker releases dos35 (executive-functions published, verified live; no open items))
+- 2026-10-25 11:05Z worker-p1a-1025o: T057 advisor-QC repair pushed (quotes re-verified, 14 broken links fixed); validator lost-links guard flagged for supervisor.
