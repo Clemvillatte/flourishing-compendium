@@ -1840,19 +1840,19 @@
     {
       "id": "S0086",
       "family": "others",
-      "text": "What is the kindest thing someone did for you that you never said thank you for?",
+      "text": "Whose generosity is holding you up this week — and would they know you noticed?",
       "connections": [
         {
           "kind": "principle",
           "ref": "K053",
           "title": "Practice recognizing the kindness you have received",
-          "why": "Recognition is the practice; the unnamed kindness is the unit."
+          "why": "Recognition is the practice; the unnoticed giver is the unit."
         },
         {
           "kind": "principle",
           "ref": "A013",
           "title": "Practice generosity (eleutheriotes)",
-          "why": "Generosity received is also worth naming."
+          "why": "Generosity received is also worth naming out loud."
         }
       ],
       "dossier": "others",
@@ -1882,19 +1882,19 @@
     {
       "id": "S0088",
       "family": "attention",
-      "text": "What are you missing right now because you're reading this?",
+      "text": "Attention is somewhere right now — where did it just come back from?",
       "connections": [
         {
           "kind": "kernel",
           "ref": "K101",
           "title": "Open monitoring",
-          "why": "Open monitoring notices what attention is doing, including now."
+          "why": "Open monitoring notices the movement itself."
         },
         {
           "kind": "principle",
           "ref": "AT019",
           "title": "Learn to redirect attention after distraction — the return, not the absence of distraction, is the skill",
-          "why": "The return is the skill; this is one of them."
+          "why": "The return is the skill; name the road back."
         }
       ],
       "dossier": "attention",
@@ -5977,13 +5977,13 @@
     {
       "id": "S0283",
       "family": "others",
-      "text": "What is the support you can reach — and how would you have a say in how it's offered?",
+      "text": "When help last arrived, was it yours to shape — or only to receive?",
       "connections": [
         {
           "kind": "principle",
           "ref": "R025",
           "title": "Practise resilience through cultural strength",
-          "why": "Finding resources and negotiating for meaningful support are both part of coping."
+          "why": "Negotiating meaningful support is part of coping, not ingratitude."
         },
         {
           "kind": "principle",
@@ -6313,19 +6313,19 @@
     {
       "id": "S0299",
       "family": "wisdom",
-      "text": "What is your explanatory style — and what would change it?",
+      "text": "Take this morning's small setback: what story did you instantly tell about why?",
       "connections": [
         {
           "kind": "principle",
           "ref": "P171",
           "title": "Watch your explanatory style",
-          "why": "The style is the habit; watching is the start of the change."
+          "why": "The style shows up fastest in the small story."
         },
         {
           "kind": "principle",
           "ref": "CO016",
           "title": "Understand belief perseverance — beliefs persist after their evidence is discredited",
-          "why": "The style outlives the evidence; watch for that."
+          "why": "Watch whether the story outlives the evidence that made it."
         }
       ],
       "dossier": "cognition",
@@ -8728,19 +8728,19 @@
     {
       "id": "S0414",
       "family": "others",
-      "text": "What would you say at a pace and volume you can control — and what would it carry?",
+      "text": "Who in your life hears you best — and at what volume?",
       "connections": [
         {
           "kind": "principle",
           "ref": "M028",
           "title": "Guard your speech; it is your face's edge",
-          "why": "A point can be delivered without shouting or rushing."
+          "why": "Different hearers need different edges; guard the speech to the listener."
         },
         {
           "kind": "principle",
           "ref": "B148",
           "title": "Speak lovingly",
-          "why": "The loving version has a pace too."
+          "why": "The loving version has a volume too."
         }
       ],
       "dossier": "others",
@@ -8980,19 +8980,19 @@
     {
       "id": "S0426",
       "family": "suffering",
-      "text": "What present event is the past's grief — and what is in front of you?",
+      "text": "If the grief had a timestamp, what year is it standing in — and what year are you in?",
       "connections": [
         {
           "kind": "principle",
           "ref": "D181",
           "title": "Don't grieve over the past or chase the future",
-          "why": "Feeling it is not the error; living in it is."
+          "why": "Feeling it is not the error; the mismatch is the clue."
         },
         {
           "kind": "principle",
           "ref": "P161",
           "title": "Return to the present — contact what is here",
-          "why": "The return is the front of you."
+          "why": "The return is noticing which year your feet are in."
         }
       ],
       "dossier": "affect",
@@ -9022,19 +9022,19 @@
     {
       "id": "S0428",
       "family": "wisdom",
-      "text": "What is the twinge, the first skipped payment, the passed-over sentence — the small trouble now?",
+      "text": "Name the smallest signal you've been overriding — what is it the beginning of?",
       "connections": [
         {
           "kind": "principle",
           "ref": "D161",
           "title": "See the small",
-          "why": "Big troubles start small; look there first."
+          "why": "Big troubles start small; the override is the miss."
         },
         {
           "kind": "principle",
           "ref": "D061",
           "title": "Act before things arise",
-          "why": "The act-before is the small's advantage."
+          "why": "Acting before it arises starts with hearing the signal."
         }
       ],
       "dossier": "decision-making",
@@ -9064,13 +9064,13 @@
     {
       "id": "S0430",
       "family": "wisdom",
-      "text": "What is the pushing you could stop — and what condition would you change instead?",
+      "text": "Which of your battles is really a condition — something to tend, not to win?",
       "connections": [
         {
           "kind": "principle",
           "ref": "D177",
           "title": "Let heaven win your battles",
-          "why": "Write down the conditions; change one; watch without resuming the pushing."
+          "why": "Write down the conditions; tend one instead of fighting."
         },
         {
           "kind": "principle",
@@ -9106,19 +9106,19 @@
     {
       "id": "S0432",
       "family": "wisdom",
-      "text": "What have you verified — and what would 'I don't know, let's find out' open today?",
+      "text": "What question are you protecting yourself from asking out loud?",
       "connections": [
         {
           "kind": "principle",
           "ref": "D100",
           "title": "Rest in unknowing",
-          "why": "Curiosity is the treatment."
+          "why": "Unknowing protected becomes avoidance; rest is different."
         },
         {
           "kind": "principle",
           "ref": "E029",
           "title": "Practise curiosity (Neugier)",
-          "why": "Curiosity for its own sake is the drive, not the distraction."
+          "why": "Curiosity begins where the protection ends."
         }
       ],
       "dossier": "cognition",
