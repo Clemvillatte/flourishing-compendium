@@ -1,11 +1,12 @@
 {
  "band": "deg-wol-greek",
  "kind": "degree",
- "holder": "worker-pplx-greek-1025m",
+ "holder": "worker-pplx-greek-1025y",
  "phase": "phase-0-pilot-repair (advisor final review passed; formal gates and Phase 0 stop-gate remain)",
  "modules": {
-  "mod-phil-1": "rebuilt and repaired through advisor rounds 2-4; final advisor review passed the pedagogical design (positive independent design review recorded in pilots/mod-phil-1.md); status DRAFT NOT CLEARED pending the formal gate sequence; workload 5h06m"
+  "mod-phil-1": "rebuilt and repaired through advisor rounds 2-4; final advisor review passed the pedagogical design (positive independent design review recorded in pilots/mod-phil-1.md); status DRAFT NOT CLEARED pending the formal gate sequence; workload 5h06m",
+  "mod-phil-1s": "designed this session from the wiki's Socrates material and the two verified Sadler lectures (Apology 1:06:20, Crito 59:39, both transcript-classified); three outcomes, worked example with fading, community-of-inquiry check, assessment with three criteria, alignment map; workload 3h29m estimate; STATUS DRAFT NOT CLEARED (behind the Phase 0 stop-gate)"
  },
  "notes": "Owner directive 2026-10-25 band. Session 1 (worker-pplx-greek-1): mod-phil-1 rebuilt, passed the advisor's final pedagogical-design review (DRAFT NOT CLEARED pending formal gates); scope benchmarked; legacy harvest manifest recorded. Session 2 (worker-pplx-greek-1025m, stale takeover): watch pages read for the four required pending records (AR-05, ST-01, M05-XP-01, M05-XP-02 — all match their proposed topics; M05-XP-01 broader than the manifest label, broaden at rebuild; M05-XP-02 modes coverage unconfirmed from the description) AND the four optional records (SRC-M25-001 to 004 — all match; all classified from uploader descriptions read off live pages, one step short of the recordings; timedtext transcripts unavailable from this environment). Duration mismatches flagged to deg-verify-b: AR-05 page 1:15:33 vs file 1:15:00; ST-01 page 29:28 vs file 29:09; SRC-M25-002 page 1:18:03 vs file 1:18:04. ST-05 duration gap re-checked: still no duration printed anywhere, no static media URL, no YouTube mirror found — blocking gap for workload arithmetic stands. Remaining: Socratic-method module design and module production behind the Phase 0 stop-gate; pre-Socratics exclusion awaits the strategist's ruling; transcript-level classification for the four required records still open (environment-blocked).",
- "updated": "2026-10-25T09:28:00+00:00"
+ "updated": "2026-10-25T11:30:00+00:00"
 }

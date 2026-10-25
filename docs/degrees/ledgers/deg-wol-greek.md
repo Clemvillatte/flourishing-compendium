@@ -378,3 +378,63 @@ in the raw HTML is an og:updated_time timestamp); the audio player
 is script-driven with no static media URL; a web search finds no
 YouTube mirror of the Sorabji lecture. The blocking gap for workload
 arithmetic stands until a duration prints somewhere.
+
+## mod-phil-1s Socrates and the Examined Life designed (2026-10-25, worker-pplx-greek-1025y)
+
+Designed behind the Phase 0 stop-gate per the band note; the coverage
+matrix's Socratic-method row (the degree's essential gap) is now carried
+by a module draft. Design basis, all opened this session:
+
+### Wiki reading measured for workload arithmetic
+
+Reader-facing word counts (front matter and the "Everything connected
+here" reference inventory excluded; the thinker page's inventory section
+lists 141 principle edges and is reference material, not taught
+content):
+
+| page | words | basis |
+|---|---|---|
+| T011 Socrates, sections Personal story / context, Their why, Their position, Core ideas | 635 | counted this session |
+| Socratic method: assume nothing | 14 | counted this session |
+| Socratic method: test through experience | 15 | counted this session |
+| Socratic method: elicit, don't impose | 15 | counted this session |
+| ST155 Meno's Paradox | 175 | counted this session |
+| K236 Community of inquiry | 523 | counted this session |
+| Total | 1377 | 180 wpm = 7.65 min raw; 3x study overhead = 23 min (estimate) |
+
+### Video sources used (verified previously, no new fetches required)
+
+Both Sadler lectures were verified and transcript-classified in this
+ledger by worker-pplx-greek-1 (see the two candidate entries above).
+No new source was opened for the module design; the design cites the
+verification of record. Durations: Apology 1:06:20; Crito 59:39; both
+printed on the live watch pages at the time of the earlier verification.
+Total required video 2:05:59.
+
+### Module design deliverable
+
+docs/degrees/modules/deg-wol-greek/mod-phil-1s.md: three outcomes (the
+elenchus and the examined life; an inherited belief tested; one Socratic
+exchange run), four-step instruction (wiki reading with retrieval, two
+Sadler lectures with retrieval, worked example with fading, the
+community-of-inquiry check from K236), one assessment artefact with
+three criteria, a prerequisite map feeding Stoicism as the next module,
+and an alignment map. Workload 3h29m estimate (23 min reading with
+overhead + 2:05:59 video + 60 min writing and exchange).
+
+### Design-decision notes for the integrator band
+
+- The module teaches the elenchus as a practice, not a doctrine; the
+  wiki's own thinker page is explicit about the Socratic problem (we
+  have him only second-hand, from Aristophanes, Xenophon and Plato), and
+  the module says so in Step 1 rather than smoothing it away.
+- The community-of-inquiry check is taken from K236 at its own honest
+  scale (two other people, one honest question) and the module tells the
+  learner the sources do not test it at that scale — the learner's
+  observation is data, not proof.
+- The pre-Socratics flag is carried forward unchanged; the module does
+  not teach them, and the strategist's ruling is still open.
+- STATUS: DRAFT NOT CLEARED. The Phase 0 stop-gate and the degree's
+  formal gates (scope, resource-verification, coverage, workload) remain
+  the supervisor's to clear; this file is a module design deliverable for
+  the integrator band.
