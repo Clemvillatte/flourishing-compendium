@@ -38,7 +38,7 @@ The three steps in the same handout's own words:
 A dissemination study of the exercise summarises the same construct:
 
 > "The 3-Minute Breathing Space exercise is grounded in three essential concepts: awareness, gathering, and expanding (Segal, Williams, & Teasdale, 2012, p.184)."
-> — [Brewer et al. (2025), "Disseminating the 3-Minute Breathing Space", CU Scholar](https://scholar.colorado.edu/downloads/w9505077h)
+> — [Zajicek (2014), "The Dissemination of Mindfulness-based Therapies" (senior honors thesis), CU Scholar](https://scholar.colorado.edu/downloads/w9505077h)
 
 What the sources do not test: the exercise is one component of MBCT, whose programme-level outcomes (relapse prevention in recurrent depression) are well studied; the exercise's standalone effect as a brief decentering tool is an inference, not a separately tested outcome.
 
@@ -69,4 +69,4 @@ Free guided audio of the practice is carried in the MBCT tradition's Routledge r
 
 - [Williams, M., & Penman, D. (2011). *Mindfulness: An Eight-Week Plan for Finding Peace in a Frantic World*. Hachette Digital, ch. 8, printed pp. 130–132]
 - [Segal, Z., Williams, M., & Teasdale, J. (2012). *Mindfulness-Based Cognitive Therapy for Depression* (2nd ed.). Guilford, p. 184 — instructions carried in the [MBCT Session 3 handout (Rockman), OSU CDN](https://bpb-us-w2.wpmucdn.com/u.osu.edu/dist/a/113335/files/2025/08/MBCT-S3-Participant-Handout.pdf)]
-- [Brewer et al. (2025). "Disseminating the 3-Minute Breathing Space." CU Scholar](https://scholar.colorado.edu/downloads/w9505077h)
+- [Zajicek, A. (2014). *The Dissemination of Mindfulness-based Therapies: A Pilot Study Training Clinicians to use the 3-Minute Breathing Space Practice.* Senior honors thesis, University of Colorado Boulder, [CU Scholar](https://scholar.colorado.edu/downloads/w9505077h)]
