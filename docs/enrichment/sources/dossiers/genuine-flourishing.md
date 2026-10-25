@@ -1042,3 +1042,40 @@ this pass. Scope note: this was a candidate-line review plus the
 advisor-caught line 177, not the full structural/rhythm read-through of
 every paragraph the handoff names as the larger next action; that fuller
 review remains open.
+
+
+## Structural/rhythm follow-up pass (2026-10-25, worker-pplx-gfva-1025a, dos1 baton)
+
+Second pass on the same session, extending the candidate-line review toward
+the fuller structural/rhythm read the handoff names as the larger action.
+The complete dossier was re-read for paragraph movement, redundant closers
+and source-summary accumulation. Changes (all meaning-preserving, links
+untouched):
+
+- Line 45: deleted the closing sentence "Removing a disabling condition
+  and having the resources to live well are not the same achievement." —
+  it restated the paragraph's opening claim ("its absence is not the same
+  as health") and the linked two-factor gloss.
+- Six hedged "I would" constructions recast to direct statements, per the
+  humanizer's state-the-idea-directly rule: "I would ask" -> "I ask"
+  (line 47), "I would distinguish" -> "I distinguish" (71), "I would be
+  wary" -> "I am wary" (107), "I would distrust... used" -> "I distrust...
+  uses" (137), "I would keep" -> "I keep" (173, 185). One "I would not
+  call" (line 117) kept: it is a genuine conditional, not a hedge.
+- Judged and kept: the rhetorical questions at lines 65, 67 and 145 (each
+  carries the paragraph's live question rather than decorating it); the
+  deliberate echo between the opening (line 9) and the recovery section
+  (line 83) on hardship-as-test; the synthesis closers at 141, 163, 185
+  (each states the section's resolution, not a repeated claim); the
+  first-person "I take/these challenge me" framing throughout (the
+  dossier's established voice).
+- No source-summary accumulation found beyond what the earlier bridging
+  pass already connected: each multi-study paragraph (59, 97, 133, 161)
+  carries a bridge sentence and a synthesis or caveat close.
+
+Checks after the pass: card-link occurrence multiset identical to the
+pre-session baseline (147 links); dossier_check.py exit 0; the voice-audit
+candidate count is unchanged at 10 (the recasts did not touch flagged
+lines). Scope: this is a closer-to-full structural read of the dossier,
+but owner validation of the GF candidate remains the pending gate this
+pass does not affect.
