@@ -10,7 +10,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST 
 ---
 *Philosophical narrative · Greece, 4th century BCE · [Plato, Meno](https://en.wikipedia.org/wiki/Meno)*
 
-Meno asks Socrates whether virtue can be taught, and the inquiry hits a wall: how will you look for virtue if you do not know what it is? If you know what you are looking for, you need not look; if you do not, how will you recognise it when found? Socrates answers with the theory of recollection, demonstrated on an untutored slave boy who "recovers" a geometric truth under questioning.
+Meno asks [[T011 — Socrates|Socrates]] whether virtue can be taught, and the inquiry hits a wall: how will you look for virtue if you do not know what it is? If you know what you are looking for, you need not look; if you do not, how will you recognise it when found? Socrates answers with the theory of recollection, demonstrated on an untutored slave boy who "recovers" a geometric truth under questioning.
 
 The paradox is the classic statement of the problem any account of practical wisdom must solve. Aristotle's answer, that one becomes practically wise by doing wise acts, accepts the paradox's force for teaching while denying it for training: you can learn to recognise what you could not define, the way you learn to judge wine by drinking it.
 

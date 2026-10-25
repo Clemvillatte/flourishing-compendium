@@ -10,7 +10,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST 
 ---
 *Philosophical/mythological narrative · Greece, 4th century BCE · [Plato, Republic](https://en.wikipedia.org/wiki/Ring_of_Gyges)*
 
-Glaucon tells of a shepherd who finds a ring that makes him invisible. With it, he seduces the queen, kills the king, and takes the throne. Glaucon's challenge to Socrates: give such a ring to a just man and an unjust man, and their conduct will be identical, since justice is practised only under compulsion. Socrates spends the rest of the Republic answering.
+Glaucon tells of a shepherd who finds a ring that makes him invisible. With it, he seduces the queen, kills the king, and takes the throne. Glaucon's challenge to [[T011 — Socrates|Socrates]]: give such a ring to a just man and an unjust man, and their conduct will be identical, since justice is practised only under compulsion. Socrates spends the rest of the Republic answering.
 
 The thought experiment is the sharpest test of whether virtue is internal or instrumental. Aristotle's answer, that the just person finds the act of injustice itself repellent, makes the ring irrelevant: invisibility removes consequences, and if the virtue is a trained disposition rather than a calculation, that is all it removes.
 

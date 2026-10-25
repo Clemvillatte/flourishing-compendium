@@ -10,7 +10,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST 
 ---
 *Historical/biographical narrative · Greece, 5th century BCE · [Socrates](https://en.wikipedia.org/wiki/Socrates)*
 
-The oracle at Delphi says no one is wiser than Socrates. Puzzled, since he knows nothing, he spends years testing it: he questions politicians, poets, and craftsmen. Each believes they know what they do not. The craftsmen do know their craft, but their competence in one domain made them believe they knew in all. He concludes the oracle means his wisdom is this: he does not think he knows what he does not.
+The oracle at Delphi says no one is wiser than [[T011 — Socrates|Socrates]]. Puzzled, since he knows nothing, he spends years testing it: he questions politicians, poets, and craftsmen. Each believes they know what they do not. The craftsmen do know their craft, but their competence in one domain made them believe they knew in all. He concludes the oracle means his wisdom is this: he does not think he knows what he does not.
 
 The story is the origin of intellectual humility as a defined virtue rather than a mood. Its precision matters: Socrates does not claim to know nothing. He claims to track the boundary of his knowledge accurately, which is a skill, and the interlocutors' failures are boundary failures, not knowledge failures.
 

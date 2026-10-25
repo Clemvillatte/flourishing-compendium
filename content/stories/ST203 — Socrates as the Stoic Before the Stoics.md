@@ -9,7 +9,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST 
 ---
 *Historical/biographical narrative · Greece, 5th century BCE · [Epictetus](https://en.wikipedia.org/wiki/Epictetus)*
 
-Epictetus cites Socrates more than any other figure. The reason, stated throughout the Discourses: Socrates never delivered an opinion he had not examined, never assented to an impression without testing it, and treated the possibility of death as one more thing not in his power. His life, as Epictetus reads it, is the discipline of assent in its purest form, ending in the refusal to escape.
+Epictetus cites [[T011 — Socrates|Socrates]] more than any other figure. The reason, stated throughout the Discourses: Socrates never delivered an opinion he had not examined, never assented to an impression without testing it, and treated the possibility of death as one more thing not in his power. His life, as Epictetus reads it, is the discipline of assent in its purest form, ending in the refusal to escape.
 
 The Stoics' adoption of Socrates is deliberate and programmatic: they needed a sage, a person who actually lived the theory, and the historical Socrates, who wrote nothing and died as described, was available. The result is that the central figure of Stoicism is a man the Stoics never met, filtered through a Roman slave's lectures.
 
