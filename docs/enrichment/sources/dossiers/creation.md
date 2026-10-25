@@ -844,3 +844,66 @@ desire for self-fulfilment is compatible with attending to the work) is
 a synthesis comparison, not a disagreement. The next pass should open
 the candidate carrier FIRST and read what it actually asserts before
 drafting anything.
+
+### Pass 9 round-12 Bonnet-vs-Bergson: researched candidate, NOT published (worker-pplx-dos31-1025g, 2026-10-25)
+
+A candidate pairing was researched and source-verified this pass, then
+REMOVED from the manuscript before push, per the advisor round-5 QC
+verdict (scope blocker). Record for the next pass:
+
+- Bonnet side, carrier OPENED THIS PASS (raw HTML fetched; UNSW
+  embryology wiki page reproducing E. S. Russell, "The Interpretation
+  of Development and Heredity," 1930, quoting C. O. Whitman's
+  translation of Bonnet's Palingenesie philosophique, 1769):
+  https://embryology.med.unsw.edu.au/embryology/index.php?title=Russell1930_3
+  Quotation verified verbatim on the page: "...as a fundamental
+  principle, that nothing was generated; that everything was originally
+  preformed, and that what we call generation was but the simple
+  development of what preexisted under an invisible form and more or
+  less different from that which becomes manifest to our senses."
+  (The ellipsis start skips the page's OCR artifact "1" standing for
+  "I".) The page also carries Bonnet's reason: "If organized bodies are
+  not preformed, then they must be formed every day, in virtue of the
+  laws of a special mechanics. Now, I beg you to tell me what mechanics
+  will preside over the formation of a brain, a heart, a lung, and so
+  many other organs?" Carrier chain recorded: Bonnet 1769 French, trans.
+  Whitman, reproduced in Russell 1930, on the wiki page. The original
+  was NOT opened.
+- Bergson side, the already-opened Gutenberg Creative Evolution
+  carrier: "We claim, on the contrary, that the spontaneity of life is
+  manifested by a continual creation of new forms succeeding others."
+  (verbatim, ch. 3 argument against predetermination), plus "this
+  reality is undoubtedly creative, _i.e._ productive of effects in which
+  it expands and transcends its own being. These effects were therefore
+  not given in it in advance" (verbatim). Bergson's companion "all is
+  given" critique of mechanism and finalism was also read (radical
+  mechanism and radical finalism both suppose all is given; finalism
+  "is only inverted mechanism").
+- The scope blocker, per the advisor: Bonnet's passages concern organic
+  generation and development from pre-existing germs; Bergson's "new
+  forms" passage occurs in an argument about evolutionary variation.
+  What would put the opposition on common ground - either Bonnet
+  explicitly extending preformation to all future generations and forms
+  (the emboitment doctrine: the opened page does NOT carry it; probes
+  for "enclosed/encased/beginning of things/successive generations"
+  all failed), or Bergson explicitly rejecting preformation in
+  organismal development (his germ-plasm discussion in the opened text
+  partially CONCEDES Weismann's continuity: "life is like a current
+  passing from germ to germ") - is not established on the opened
+  carriers. The connection was my extrapolation and the section was
+  removed rather than published.
+- Next-pass evidence that would close the gap: a verbatim carrier of
+  Bonnet's own emboitment claim (e.g. EB1911's paraphrase "Nothing
+  really new is produced in the living world, but the germs which
+  develop have existed since the beginning of things" is a paraphrase,
+  not Bonnet's words - an original-text carrier would be needed), or a
+  Bergson passage explicitly rejecting germ-preformation for
+  development.
+- All three quotations were machine-verified before removal (31
+  checked, 2 unmatched - the established 403s); the manuscript is back to
+  its round-11 state (28 quotes, one candidate comparison heading in the
+  disagreement section).
+
+Standing verdict unchanged: no demonstrated disagreement confirmed; the
+model's three-to-five requirement unmet; flagged for the supervisor. The
+truthful WIP checkpoint stands as pushed in rounds 10-11.
