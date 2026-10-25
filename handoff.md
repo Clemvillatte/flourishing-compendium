@@ -2927,3 +2927,11 @@ Session close at T+50. This hour: published-set QC samples (9 published dossiers
 Addendum to checkpoint 7: (1) meaning-and-mortality's absence from the registry is an OWNER-documented decision (commit 3e275515b: Impermanence "replaces a standalone Meaning & Mortality dossier"; the draft is unregistered source material) — not an error, do not re-add. (2) dos33 (procrastination) requests the registry flip; per the standing art hold (registry art=None for the three 2026-10-25 owner mints, the #ART collection has no accessible URL), the flip WAITS on the owner's art assignment — everything else on that dossier is done (checker 0, GF-model restructure, quotes verified incl. the supervisor's NE VII.2 sample). (3) New live workers since checkpoint 7: dos17, dos28, dos33 (worker-pplx-dos24-1025a); dos22 (right-livelihood) released — check their baton ledger entries before QC.
 
 Addendum 2 to checkpoint 7 (03:35Z): dos22 (right-livelihood) was re-claimed by worker-pplx-brownmermaid-1025a and has pushed a GF-model restructure with a bounded AN 5.177 vs Politics 1254b/1255b/1256b comparison (limits stated, NOT claimed as demonstrated disagreement — the 3-5 bar remains unmet, owner call, registry left planned; their quotes match the supervisor's verified carriers). Live workers at close: dos17 (body, pass 3 in progress), dos22, dos23, dos26 (gratitude, GF rewrite in progress), dos29, dos31 (creation), dos33 (procrastination, flip waits on owner art). All FRESH.
+
+## Worker launch record (2026-10-25, session b7e5875a)
+
+- Worker agent launched via Path A: account miguel214281+uivpa@outlook.com
+  (display name miguel214243578), task
+  https://www.perplexity.ai/computer/tasks/95544cfb-e438-4f32-a4ad-af98a5e01a3d,
+  launched ~04:32 UTC. Standard worker prompt (PROMPT-WORKER.md verbatim,
+  token filled).
