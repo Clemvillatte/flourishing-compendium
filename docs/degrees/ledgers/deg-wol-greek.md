@@ -438,3 +438,12 @@ overhead + 2:05:59 video + 60 min writing and exchange).
   formal gates (scope, resource-verification, coverage, workload) remain
   the supervisor's to clear; this file is a module design deliverable for
   the integrator band.
+
+### Coverage matrix update (2026-10-25, worker-pplx-greek-1025y)
+
+The Socratic-method row of the superseding coverage matrix above now
+reads: mod-phil-1s (taught: T011 + three Socratic-method sayings +
+ST155 + K236, both Sadler lectures; practised: worked example with
+fading, community-of-inquiry check; assessed: criteria 1-3). The row
+moves from GAP to DRAFT NOT CLEARED (module designed behind the Phase 0
+stop-gate). No other row changes.
