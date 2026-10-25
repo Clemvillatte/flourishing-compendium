@@ -165,6 +165,32 @@ records it as such.
     "Life's Purpose" replaced with "existential meaning"; "not knowing what
     will happen" replaced with "intolerance of uncertainty".
 
+
+## QC round 2 (carrier re-verification, 2026-10-25) — corrections applied
+
+1. SEP Japanese aesthetics re-opened: the article does NOT use the compound
+   "wabi-sabi" and does NOT contain "austere beauty, age and the imperfect or
+   passing". The dossier's claim was rewritten to the article's own wording:
+   wabi = subdued, austere beauty; sabi = the rustic patina that makes old
+   things beautiful; implements with minor imperfections valued more highly
+   than ostensibly perfect ones.
+2. SEP Heraclitus re-opened: the article does NOT use "panta rhei" or
+   "everything flows". The dossier's link text was corrected from
+   "everything flows" to "doctrine of universal flux", with the SEP's own
+   reading of the river fragment (things stay the same only by changing)
+   stated.
+3. Daodejing 16 (Gutenberg Legge) re-opened: "we see them return (to their
+   original state)" and "we see each of them return to its root" confirmed;
+   the return-of-Daodejing-16 sentence now carries the article's wording.
+4. Hartshorne & Germine 2015 (PMC) re-opened: "Our results reveal
+   considerable heterogeneity in when cognitive abilities peak..." confirmed
+   verbatim; the carrier link was added to the body and the card-sourced
+   gloss replaced with the study's own summary.
+
+## QC round 2 open point for the supervisor
+
+None. All four corrections were applied and pushed.
+
 ## Open points for the supervisor
 
 1. Registry flip to "published" and dossier_registry_build.py (supervisor-only).
