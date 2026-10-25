@@ -118,7 +118,7 @@ Huizinga's Homo Ludens paradox, prosocial spending and behaviour, time
 affluence, mudita, Zhuangzi's laughter, the Nahuatl flower-and-song
 entry, Ryff's 1989 question, and Joshanloo's cross-cultural review. No
 mismatches found; no edits made. This strengthens the earlier
-voice-audit review (all 9 candidates kept): the flagged constructions
+voice-audit review (all 3 candidates kept, per the ledger's own review record): the flagged constructions
 are card-faithful as well as doctrinally sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
