@@ -211,6 +211,18 @@ long evidence records in the ledger, not in the public reading path.
   entries / fcAuthored 979 throughout; build.py validation clean after
   each batch. ST214 (Warren Schmidt) left for contextual review. The
   t2a/t2b flags from addendum 7 are CLOSED.
+- ADDENDUM 11 (~T+44): dos31 (creation) supervisor review PASS — the
+  Frankl/Nietzsche discovered-vs-created divergence is genuine and
+  honestly bounded (the worker's own reconciliation is marked as a
+  reading, not a settle-claim); quote spot-checks PASS (Frankl
+  'discovered in the world rather than within man' via pdftotext;
+  both Nietzsche Zarathustra fragments verbatim via Gutenberg raw).
+  Checker was exit 0 per the worker (51 links, 16 headers, 14
+  carriers). PUBLISHING BLOCKED on artwork like creativity and
+  procrastination: no creation art in the owner's collection; registry
+  left 'planned'. NOTE: dos31's baton went stale (worker gone); the
+  band state is complete so no takeover repair is needed — next
+  supervisor flips it when art is assigned.
 
 # Supervisor QC entry 4 — 2026-10-24, T+40 (stale-baton takeover, worker-pplx-dos24-1025a)
 
