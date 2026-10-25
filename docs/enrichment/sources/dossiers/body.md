@@ -112,7 +112,7 @@ HRV biofeedback), the breath cluster (Anapanasati, Zhuangzi's rhythm of
 breath, slow-paced breathing with caveats carried, the Balban
 physiological sigh, pranayama, qi, yoga, yangsheng), and the Yoga Sutra
 1.34 principle. No mismatches found; no edits made. This strengthens the
-earlier voice-audit review (all 4 candidates kept): the flagged
+earlier voice-audit review (all 3 candidates kept, per the ledger's own review record): the flagged
 constructions are card-faithful as well as doctrinally sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
