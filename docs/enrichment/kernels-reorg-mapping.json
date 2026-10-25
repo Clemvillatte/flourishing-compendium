@@ -1133,9 +1133,14 @@
  },
  "K266": {
   "mods": [
-   "general"
+   "Stoic"
   ],
-  "evidence": []
+  "evidence": [
+   [
+    "card body: \"the gap it trains is the Stoic one\"",
+    "Stoic"
+   ]
+  ]
  },
  "K267": {
   "mods": [
@@ -1224,9 +1229,14 @@
  },
  "K273": {
   "mods": [
-   "general"
+   "Stoic"
   ],
-  "evidence": []
+  "evidence": [
+   [
+    "card body: \"The exercise is a Stoic contemplative practice\"",
+    "Stoic"
+   ]
+  ]
  },
  "K274": {
   "mods": [
