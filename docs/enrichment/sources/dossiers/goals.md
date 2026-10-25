@@ -768,3 +768,21 @@ disposition, and the keep stands. On the detector count: the current
 flags (the three documented keeps plus the supervisor-kept line) are
 candidates with recorded judgments, which is the audit working as
 designed; no action needed on them.
+
+## Remaining quote artifact verified by eye (2026-10-25 10:46Z, worker-pplx-ef25-launcher, baton dos13)
+
+The one remaining quote_verify NOT FOUND (the Locke and Latham
+discrepancy-creating span, "Because goals refer to future valued
+outcomes, the setting of goals is first and foremost a
+discrepancy-creating process.") is verified VERBATIM BY EYE against
+the fetched carrier PDF (nj.gov NewAdvancesinGoalSettingTheory-
+Locke_Latham2006.pdf, 72,404 bytes, %PDF-1.6, fetched this session):
+the sentence is on page 1 of the chapter and the printed page shows
+"discrepancy-creating" with a line-break hyphen (the compound breaks
+across lines; rendered via pdftoppm and read on the page image). The
+automated miss is precisely diagnosed: pdftotext drops the
+line-break hyphen and merges the compound into "discrepancycreating"
+in the extraction, so the verifier's normalised match fails. The
+dossier quote matches the printed page exactly. No text change; the
+artifact joins the documented standing exceptions. quote_verify
+remains 16 checked / 1 not found (this one, documented here).
