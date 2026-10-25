@@ -13,9 +13,13 @@ Brian Little's unit of analysis for personality is the extended pursuit. His 200
 
 > "I propose that the quality of lives is contingent upon the sustainable pursuit of core personal projects. Project pursuit may occasionally require the suspension of biogenic fixed traits and the adoption of 'free traits', and I review some preliminary research on this recent topic. Free traits are culturally scripted patterns of conduct that are strategically crafted to advance projects about which a person cares deeply. Biogenic introverts, for example, may act as extraverts in order to advance projects requiring expressions of enthusiastic assertiveness." (Little 2008, abstract, [Wiley](https://onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2008.00106.x))
 
-The abstract carries a cost note: acting out of character "may also compromise well-being because of challenges to the autonomic nervous system," and "the costs of free-traited behavior can be mitigated by the provision and use of restorative resources."
+### What counts as a project
 
-### Here
+The unit is deliberately broad. Little defines personal projects as "extended sets of personally relevant action that range from daily chores (e.g., 'Order more USB keys, again') to defining life commitments (e.g., 'Be sensitive to my partner's needs, always')" ([Little, Personal Projects and Free Traits](https://www.brianrlittle.com/articles/%EF%BF%BCpersonal-projects-and-free-traits/)). The same article names the load-bearing cases: "These foundational, self-defining projects we call core projects." A grocery run and a lifelong devotion are the same kind of thing on this account, one carried lightly and one not.
+
+The abstract carries a cost note: acting out of character "may also compromise well-being because of challenges to the autonomic nervous system," and "the costs of free-traited behavior can be mitigated by the provision and use of restorative resources." Restorative resources are the counterweight to the performance: whatever returns the actor to the dispositions they started from.
+
+### In the compendium
 
 - [[E039 — Practise the choice of self]] — lists the concept among its psychology parallels.
 
@@ -29,6 +33,7 @@ The abstract carries a cost note: acting out of character "may also compromise w
 
 - Little, 2008
 - [Brian R. Little, "Personal Projects and Free Traits: Personality and Motivation Reconsidered," Social and Personality Psychology Compass 2 (2008), abstract, Wiley](https://onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2008.00106.x) — the carrier of the quotation above.
+- [Brian R. Little, "Personal Projects and Free Traits" (author's site)](https://www.brianrlittle.com/articles/%EF%BF%BCpersonal-projects-and-free-traits/) — the definition and the core-projects line quoted above.
 
 ## Cited in psychology parallels
 

@@ -19,7 +19,11 @@ The chapter carries the demand one step higher:
 
 > "You must become first all godlike and all beautiful if you intend to see God and beauty." (Enneads I.6.9, Armstrong, [Internet Archive, Loeb vol. 1](https://archive.org/details/plotinus-in-seven-volumes.-vol.-1-loeb-440))
 
-The chapter then describes the soul coming in its ascent to intellect, where it knows the Forms and recognises their beauty. Plotinus places the Good beyond this stage, holding beauty as a screen before it. His account connects the ability to perceive beauty with the condition of the soul doing the perceiving.
+The chapter then gives the preparation its most quoted image. The soul that does not yet see itself as beautiful is told to work like a sculptor:
+
+> "Go back into yourself and look; and if you do not yet see yourself beautiful, then, just as someone making a statue which has to be beautiful cuts away here and polishes there and makes one part smooth and clears another till he has given his statue a beautiful face, so you too must cut away excess and straighten the crooked and clear the dark and make it bright, and never stop 'working on your statue' till the divine glory of virtue shines out on you, till you see 'self-mastery enthroned upon its holy seat.'" (Enneads I.6.9, Armstrong, [Loeb LCL 440](https://www.loebclassics.com/view/plotinus-enneas/1966/pb_LCL440.259.xml))
+
+The image gives the light its working edge: what gets cut away is the soul's own excess, not the world's, and the polishing has no stated end point. The chapter then describes the soul coming in its ascent to intellect, where it knows the Forms and recognises their beauty. Plotinus places the Good beyond this stage, holding beauty as a screen before it. His account connects the ability to perceive beauty with the condition of the soul doing the perceiving.
 
 ### A Daoist cousin
 
@@ -31,7 +35,7 @@ The Daodejing closes chapter 52 with light and return imagery of its own, and th
 
 The pairing is the compendium's own reading: Plotinus works out what the seeing asks of the seer, while the Daodejing verse speaks of using the light and returning to its source. The two pages sit side by side in the compendium's Daoist and Plotinian principles rather than merging into one doctrine.
 
-### Here
+### In the compendium
 
 - [[D065 — Use the light, return to the insight]]
 - [[Y050 — Cultivate an inner luminous anchor]]
@@ -47,6 +51,7 @@ The pairing is the compendium's own reading: Plotinus works out what the seeing 
 - Plotinus, Enneads — cross-volume echo
 
 - [Plotinus, Ennead I.6.9, Armstrong translation, Loeb 440 (Internet Archive)](https://archive.org/details/plotinus-in-seven-volumes.-vol.-1-loeb-440)
+- [Plotinus, Enneads I.6.9, Loeb Classical Library LCL 440, pp. 258-259](https://www.loebclassics.com/view/plotinus-enneas/1966/pb_LCL440.259.xml)
 - [James Legge, The Tao Teh King, chapter 52 (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 
 [[D065 — Use the light, return to the insight]]
