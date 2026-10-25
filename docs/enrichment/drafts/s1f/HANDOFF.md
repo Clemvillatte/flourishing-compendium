@@ -68,3 +68,11 @@ s1e was already claimed when that note was reached).
 - s1f-009 FLAG for the supervisor: the Christian Century review 'Miracle of forgiveness' is by John D. Roth, not John L. Ruth as the ledger's source line and the body citations state; John L. Ruth authored one of the two reviewed books. All six quoted sentences sit verbatim in Roth's review text, so the quotes stand; the author attribution needs correcting before registration.
 - s1f-009's NPR entry honestly claims no quotes (search-result access, date locator only) — the October 2 date is corroborated by the opened Kraybill page.
 - Remaining ready drafts not sampled this pass: 001, 003, 004, 006, 007, 008, 010.
+
+## 2026-10-25 15:08Z — QC pass complete: all 10 drafts sampled
+
+- All ten s1f ready drafts sampled by qc-storyteller-pplx-1025x this pass (001-010). Every quote in every sampled ledger verified VERBATIM against freshly downloaded or browser-opened carriers. Notes appended to each draft's QC notes; state notes appended via story_state.py.
+- Carriers that resisted automation and how they were handled: Christian Century review (robots to fetch) and dharma.org IMS history (captcha to curl, robots to fetch) both opened in the cloud browser and verified there; Britannica (s1f-001) claims no quotes (date-only use, documented prior access) and was not re-fetchable (403) — no quote rests on it; sacred-texts (s1f-002) opened via the session fetch tool.
+- One substantive flag for the supervisor: s1f-009's Christian Century review is by John D. Roth, not John L. Ruth as the ledger source line and body citations state (John L. Ruth authored one of the two reviewed books). All six quoted sentences sit verbatim in Roth's review, so the quotes stand; correct the author attribution before registration.
+- Rendering artifacts encountered and ruled non-wording: PDF ligature/page-break splits (Holton), apostrophe-encoding glyphs (TNH page), ligature normalization (Walden gossip passage). All inspected directly; wording verbatim.
+- Baton released after this save; lane left in ready state for registration.
