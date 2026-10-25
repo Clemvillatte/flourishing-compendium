@@ -396,8 +396,27 @@ the end. All sources below are freely accessible, no paywalls or app gates found
   contemplative inquiry on the (im)possibility of Daoist medicine, covering
   conceptions of illness, earlier attempts to identify Daoist medical trajectories,
   and more viable frameworks for reconstructing pre-modern Daoist medicine.
+  Coverage-confirmation (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=wcSC8EkVoYE&current_language_code=en,
+  opened 2026-10-25; noted by the extraction to contain speech-to-text errors) confirms
+  the presentation's substance on the recording: the "contemplative inquiry and
+  maybe a public thought experiment" framing; the definitional questions
+  ("medicine created by Daoists", "medicine informed by Daoism", "medicine
+  practiced by Daoists"); the Baopuzi Neipian translation as the occasion; the
+  Kleinman illness/disease distinction ("Illness refers to the subjectively
+  perceived and experienced ailment"; "Disease refers to the culture specific
+  categorization and diagnosis"); explanatory frameworks (ancestral,
+  demonological, naturalistic/climatic, karmic); proposed Daoist medical
+  trajectories (the medicine of no medicine, cosmological, moralistic,
+  longevity, immortality, talismonic); Ge Hong and Tao Hongjing as overlap
+  figures; the reconstruction-and-evidence questions (sources, lineage,
+  clinical efficacy); the framework distinguishing retrievalist, lineal and lived
+  elements; and the modern authority questions. Caveats: third-party transcript
+  page, no timestamps in the retrieved text; playback itself not opened.
 - Relevant segment: whole talk, 1:14:23.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (2026-10-25); coverage confirmed against
+  a third-party transcript page (no timestamps); identity, access and duration
+  verified earlier.
 
 ### M02-K06: Osel Ling, Mahamudra Teachings, Day 1 (Tergar)
 
