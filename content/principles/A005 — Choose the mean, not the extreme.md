@@ -16,7 +16,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 (Nicomachean Ethics II.2 and II.6, trans. W. D. Ross, [Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html).)
 
-**Plain words** Courage between cowardice and recklessness, generosity between meanness and waste: Aristotle's examples are of aim, not arithmetic. The mean is not an average to calculate; the same six pounds may be too much for a beginner and too little for Milo. What counts is fit: the right amount, for this person, at this moment, toward this end. And a few acts have no fitting amount at all; with those, one is simply wrong.
+**Plain words** The halfway reading is the trap here. A mean sounds like a number sitting midway between two numbers, and the food example exists precisely to kill that reading: what nourishes the wrestler flattens the novice. So the hunt is for fit rather than midpoint, an amount that belongs to this person in this hour, and the amount can move when either moves. A short list of deeds stands outside the whole game, named by their badness, where moderation has no purchase.
 
 *For example:* Being honest with a grieving friend doesn't mean listing every flaw in the eulogy. The fitting amount of truth depends on who's in the room — and at some moments, for some people, the fitting amount is very little.
 
