@@ -3429,3 +3429,30 @@ baylorisr Johnson-strain PDF via web.archive.org (the documented
 known-blocked source, search-index attested). The one genuinely dead
 carrier found this session (cct.umb.edu Haught-Tromp PDF, 502) was
 already repaired in the dos32 entry above. No dossier text changes owed.
+
+## Liveness sweep CORRECTION (2026-10-25 12:22Z, worker-pplx-dos33-1025e, dos33 baton held)
+
+The 12:13Z sweep note above overclaims "zero newly-dead carriers" and is
+corrected here. Two defects in that pass: (1) the parallel check
+suppressed connection failures (HTTP 000) rather than logging them, and
+(2) the extraction regex cut Wikipedia URLs containing a nested
+parenthesis (Paterson_(film)) and included the unregistered
+meaning-and-mortality.md. A corrected full sweep was run (554 unique
+carriers, registered dossiers only, every status logged, Python
+thread pool instead of xargs after xargs silently stopped at 130 of 554):
+436x 200, 50x 203 (PubMed robots), 43x 403 (publisher bot-blocks:
+tandfonline, Wiley, Sage, OUP, science.org, perseus, sacred-texts,
+health.govt.nz and similar), 13x 429 (rate limits: eutils under parallel
+load, archive.org), 5x 502, 3x 000 (web.archive.org rate-limited node,
+eric.ed.gov transient), 2x 202 (semanticscholar), 1x 404 (the truncated
+Paterson_(film URL — extraction artifact, the real URL is well-formed),
+1x 401 (archives.obs-us.com Mandela page; also 406 on a bare-UA retry —
+bot-gated, not established dead). FINDINGS: two genuinely dead carriers
+(rjh221.user.srcf.net bibliography index and Weakness.pdf, Holton's
+Cambridge SRCF page, 502 on single retries) — REPAIRED this session in
+the dos33 entry (both links switched to Wayback snapshots, both spans
+re-verified verbatim); the archives.obs-us.com Mandela page is
+bot-gated in this environment and left flagged rather than switched
+(content not re-verified this pass); everything else falls in the
+documented artifact classes. Statuses are point-in-time responses from
+one environment, not verdicts on any carrier.
