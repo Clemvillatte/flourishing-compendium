@@ -508,6 +508,16 @@ second batch below (verifier-pplx-1025g, 2026-10-25).
   including Mead's reflected appraisals, objective self-awareness theory,
   Higgins's self-discrepancy theory and how self-focus can backfire in
   performance.
+  Corroboration (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=gjRrONiRoH0&current_language_code=en,
+  opened 2026-10-25) independently confirms each of these elements on the
+  recording (marshmallow task and delay of gratification; "our parents are
+  substitutes for your prefrontal cortex" on the social development of
+  self-regulation; Mead and the generalized other; objective self-awareness
+  theory; the actor-observer effect and attribution; Higgins's ideal/ought/real
+  selves; and self-focus disrupting skilled performance). Caveat: the transcript
+  does not confirm the "Lecture 8" numbering itself, which remains the host
+  description's statement.
 - Relevant segment: whole lecture, 1:14:51.
 - Verification status: verified-video.
 
@@ -722,12 +732,28 @@ paths (see the access note).
 - Instructor credentials: as M06-AF04 (Northeastern profile, opened
   2026-10-25).
 - Language: English.
-- Content coverage: no description on the page; the coverage basis is the title
-  only (Day 2, "Constructing the Mind"). CONTENT BASIS FLAG: confirm against the
-  recording or transcript before scheduling.
+- Content coverage: no description on the page; the coverage basis was the title
+  only (Day 2, "Constructing the Mind"). Coverage-confirmation (2026-10-25): a
+  third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=jKZbuvS3_Mk&current_language_code=en,
+  opened 2026-10-25) confirms the lecture's substance on the recording: the
+  brain's primary job as body regulation ("regulating your very, very, very
+  complicated body"); allostasis and the body-budget metaphor distinguished from
+  homeostasis; interoception and affect as a "quick and dirty summary" of
+  allostatic status that "is not emotion"; the distributed anatomy involved
+  (intrinsic networks, hippocampus, cerebellum, periaqueductal grey);
+  prediction, category construction and prediction error ("your brain is a
+  category generator"); constructivist examples (thirst, ambiguous images);
+  emotion construction as "anticipatory regulation"; meaning as relational
+  ("The psychological meaning of physical signals is not in the signals
+  themselves"); and Q&A discussion of depression, chronic pain and relational
+  realism. Caveats: third-party transcript page, no timestamps in the retrieved
+  text; playback itself not opened.
 - Relevant segment: whole lecture, 1:42:41.
-- Verification status: verified-partial (identity, access, duration; coverage
-  basis is the title only).
+- Verification status: verified-video (2026-10-25); coverage confirmed against
+  a third-party transcript page (no timestamps); identity, access and duration
+  verified earlier. The title-only CONTENT BASIS FLAG is resolved by this
+  confirmation.
 
 ### M06-AF06: LeDoux — What Fearful Rats Can Tell Us About Treating Psychiatric Disorders
 
