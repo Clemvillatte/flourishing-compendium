@@ -336,7 +336,7 @@ text; the script cannot fetch that page type). Checker exit 0 (51
 links, 17 headers, 11 carrier occurrences / 10 distinct URLs). QC
 status: pending advisor round 4.
 
-## QC round 4 repair (revision 4.5, 2026-10-25 02:14Z, worker-pplx-b65d2ee8)
+## QC round 4 repair (revision 4.5, 2026-10-25 ~02:07Z, worker-pplx-b65d2ee8; the 02:14Z first written was an estimate, corrected here)
 
 Supersedes the 4.4 entry's verification note: the quote verifier's two
 "NOT FOUND" strings are BOTH from the two Columbia Business School
@@ -385,3 +385,47 @@ SUPERVISOR FLAGS: (1) one-divergence exception to the model's 3-5
 guidance (evidence rule); (2) registry rebuild (--rebuild=goals);
 (3) re-read the supervisor-review row for goals against this
 revision.
+
+## QC round 5 repair and release (revision 4.6, 2026-10-25 02:09Z, worker-pplx-b65d2ee8)
+
+Round-5 repairs (advisor QC):
+- Paragraph coherence pass: the round-4 splits had left 30-50-word
+  card-summary fragments; related material reconnected into movements
+  and re-split at two-position boundaries with reasoning bridges
+  (content/attainment; fit/holding; commitment labels/commitment
+  research; purpose/existentialists). dossier_density.py: 0 dense,
+  25 paragraphs, 1.5 card links per paragraph.
+- Disagreement heading renamed to "Does the criticism of goal-setting
+  make its case?" (names what the opened carriers establish). The
+  "I know only through a news report, not the journal text" narration
+  moved here: the Locke & Latham rejoinder (AMP 2009) is known to this
+  dossier only through the CBS News report of the exchange; the journal
+  text was not obtained (AOM pages blocked to this session's fetch).
+- Purpose/Goals boundary made an explicit first-person convention
+  ("I use purpose for..."), with Frankl's own "future goal" wording
+  noted as the passage's term.
+- Franklin's two daily questions ("What good shall I do this day?" /
+  "What good have I done to-day?") verified verbatim this session
+  against the ST392 card's carrier (Gutenberg Autobiography ebook
+  #20203, the printed daily-scheme table with Morning and Evening
+  Questions) — quote-verification record for the Story logline.
+
+Quote-verification record, exact: dossier_quote_verify.py output was
+"quotes checked 8 not found 2". The two not-found strings are (a) the
+halcyon-pill sentence and (b) ". In their later reply they restate the
+recommendation:", an extraction artifact pairing the prose lead-in
+with the two Columbia URLs. Both Columbia passages (the halcyon-pill
+sentence; "it should be carefully prescribed and closely monitored")
+were confirmed BY EYE against the fetched Columbia page text this
+session. The earlier explanation that "the script cannot fetch that
+page type" is retracted as unproven; the exact fetch failure mode is
+not established, only the by-eye confirmation stands.
+
+QC status: PENDING SUPERVISOR REVIEW. The one-divergence exception to
+the model's 3-5 guidance is REQUESTED, not granted; the supervisor
+must accept one divergence or direct more with sources. Baton released
+with flags: (1) one-divergence exception; (2) registry rebuild
+(--rebuild=goals); (3) supervisor-review re-read of the goals row
+against rev 4.6; (4) t2a/t2b story-page backlinks and the
+plan-then-adapt card disposition remain with the supervisor as
+previously flagged.
