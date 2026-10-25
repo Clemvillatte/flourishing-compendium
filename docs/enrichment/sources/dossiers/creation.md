@@ -7,8 +7,9 @@ PP022, The will to meaning; M039 Nezahualcóyotl flower-and-song read against
 its card; the Ricoeur SEP carrier noted; the procreation-cluster thinness
 flagged). Dossier: docs/enrichment/dossiers/creation.md, rev 2 (rev 1 pushed
 as 5e9e5fd88; rev 2 applies the advisor QC round-1 repairs, listed below).
-Checker: exit 0 (45 card links resolve, 15 headers, 11 external carrier link
-occurrences; 8 distinct external carriers, one page linked twice).
+Checker: exit 0 (47 card links resolve, 15 headers, 11 external carrier link
+occurrences across 9 distinct URLs; the Nietzsche page and the Bergson lecture
+are each linked twice).
 
 ## Verification method
 
@@ -173,6 +174,46 @@ change" passage was grep-verified against the raw Gutenberg text (line 611).
    card exactly (Yoshikazu, 50, has not taken over); ST456's logline now
    carries the card's actual "make one teacher" content; ST247 now includes
    blue-gum poles and drops the invented "junkyard parts" compression.
+
+## Advisor QC round 2 — repairs applied in rev 3
+
+1. Raw-text comparison completed for every remaining prompted-only carrier:
+   Frankl (raw PDF download + pdftotext, unprompted), Conner 2018 (raw HTML
+   of the DOI landing page; the abstract sentences appear in the page's own
+   JSON-LD metadata, unprompted), Whitehead (raw HTML, tags stripped),
+   Bergson lecture (raw HTML, tags stripped), Sennett via Jones (raw HTML
+   of the tandfonline page; raw curl is bot-blocked, the fetch tool's raw
+   HTML return was used without LLM extraction), Rubinstein PMC (raw HTML).
+   TWO MORE EXTRACTION RECONSTRUCTIONS WERE CAUGHT AND FIXED:
+   (a) the Whitehead blockquote followed the P006 card's wording ("enter
+   into the unity which is the universe conjunctively") where the raw
+   Garland page reads "become the one actual occasion, which is the universe
+   conjunctively"; corrected to the raw wording. The inline Creative
+   advance fragment now matches the raw page too ("the many become one and
+   are thereby increased by one"). (b) the Rubinstein seven-facet blockquote
+   was a reconstruction; the raw PMC page reads "McAdams and de St. Aubin
+   described generativity as an arrangement of seven empirically grounded
+   facets including desire, cultural demand, concern, belief, commitment,
+   action, and narration. Accordingly, cultural demand in combination with
+   inner desire (for agentic immortality and communal nurturance) fosters a
+   conscious concern for future generations. Concern for future generations
+   is strengthened by a belief in the goodness of humankind." Both replaced.
+2. The comparison section is now explicitly a bounded comparison with an
+   open question ("Can these aims conflict, and what should take priority
+   if they do?"); the asserted opening disagreement and the final
+   trade-off paragraph were removed. The GENUINE-DIVERGENCE REQUIREMENT
+   remains PENDING for supervisor disposition: no pair of opened carriers
+   was found that answers one concrete question with opposed positions.
+3. "either collapses or inflates" deleted; the procreation Nearby-terms
+   entry no longer narrates the sweep; the "the principle on/carried"
+   catalogue formula replaced with content-led glosses; "the passages
+   quoted above and below answer differently" removed.
+4. Coverage: Creative impulse (Dewey) added to the map; Verum factum
+   (Vico) added after a full-text sweep for homo faber mentions; a
+   full-text search for procreation across content/ found NO card carrying
+   the word, so the qualified Nearby-terms phrasing stands. HUMANIZER-SKILL
+   was read before this pass (first 200 lines: owner directives on whole-
+   text standards, not-X-but-Y, first-person voice, customer-facing bans).
 
 ## Open points for any revision pass
 
