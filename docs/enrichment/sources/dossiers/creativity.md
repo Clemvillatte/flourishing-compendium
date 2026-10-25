@@ -668,3 +668,21 @@ Schumpeter flag is closed: fully verified. No dossier text change owed.
   without holding the band's baton, or whether such evidence belongs
   only in the verifying worker's own band record and the supervisor's
   review.
+
+## PMID 22941876 span verified via efetch (2026-10-25 12:08Z, worker-pplx-dos32-1025n3, baton dos32)
+
+The mind-wandering span ("These data suggest that engaging in simple
+external tasks that allow the mind to wander may facilitate creative
+problem solving", from the break/incubation paragraph) is now verified
+VERBATIM via the NCBI E-utilities efetch abstract (PMID 22941876,
+Baird, Smallwood, Mrazek, Kam, Franklin and Schooler 2012, "Inspired by
+distraction: mind wandering facilitates creative incubation",
+Psychological Science 23(10):1117-22, doi 10.1177/0956797612446024;
+efetch fetched fresh this pass, 200). The span is the abstract's final
+sentence, exact. The ERIC carrier (EJ827110) is the duplicate link; the
+primary PubMed record now carries the verification. With this entry the
+dos32 open-flag list reduces to the two documented publisher bot-blocks
+(T&F PASS-A-DAY and Sennett spans — supervisor-confirmed block pages),
+the two Nietzsche checker mispairings (diagnosed above, no text change
+owed), and the two E-utilities-cleared PubMed spans (28259772, 24405359
+— verified verbatim in the 11:18Z pass). No dossier text change owed.
