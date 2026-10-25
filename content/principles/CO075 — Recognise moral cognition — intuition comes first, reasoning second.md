@@ -14,7 +14,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 
 The social intuitionist model of moral judgment is Jonathan Haidt's alternative to rationalist models, and its abstract states the hypothesis plainly, verbatim:
 
-> "The author gives 4 reasons for considering the hypothesis that moral reasoning does not cause moral judgment; rather, moral reasoning is usually a post hoc construction, generated after a judgment has been reached. The model is an intuitionist model in that it states that moral judgment is generally the result of quick, automatic evaluations (intuitions)." (Haidt, 2001, Psychological Review 108(4), 814-834, [PubMed record](https://pubmed.ncbi.nlm.nih.gov/11699120/))
+> "The author gives 4 reasons for considering the hypothesis that moral reasoning does not cause moral judgment; rather, moral reasoning is usually a post hoc construction, generated after a judgment has been reached. [...] The model is an intuitionist model in that it states that moral judgment is generally the result of quick, automatic evaluations (intuitions)." (Haidt, 2001, Psychological Review 108(4), 814-834, [PubMed record](https://pubmed.ncbi.nlm.nih.gov/11699120/))
 
 The model is also social, verbatim: it "deemphasizes the private reasoning done by individuals and emphasizes instead the importance of social and cultural influences." Note the shape of the claim: reasoning is usually post-hoc, not always; and this is a hypothesis about moral judgment in general, not a finding that every judgment precedes every reason. Moral reasoning is not useless; understanding its usual role is the point.
 

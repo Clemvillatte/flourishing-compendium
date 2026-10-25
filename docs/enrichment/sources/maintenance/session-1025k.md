@@ -207,3 +207,9 @@ Fetched the 60 distinct [Access to Insight](https://www.accesstoinsight.org/) su
 
 ## Audit: SEP and IEP quotes
 Fetched the 53 distinct [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) entries and 19 distinct [Internet Encyclopedia of Philosophy](https://iep.utm.edu/) entries cited on principle pages and compared every double-quoted passage on the pages that link to them. No wording errors found (differences were nested-quote markers and bracketed insertions). E050 (Kierkegaard) quotes re-matched verbatim in [SEP Kierkegaard](https://plato.stanford.edu/entries/kierkegaard/). No page changes.
+
+## CO075 — Haidt 2001 abstract
+Compared with the PubMed record ([Haidt 2001](https://pubmed.ncbi.nlm.nih.gov/11699120/)): the quote joined two sentences that are separated in the abstract by "The social intuitionist model is presented as an alternative to rationalist models. The model is a social model in that it deemphasizes the private reasoning done by individuals..." Marked the omission with [...].
+
+## Audit: PubMed abstracts
+Retrieved 397 PubMed records through the NCBI E-utilities service and compared every double-quoted passage on pages linking to them. Besides CO075, only formatting differences (bracketed confidence intervals, punctuation in titles). No other page changes.
