@@ -22,7 +22,7 @@ He defines the result by what others can do with it: "Self-constancy is for each
 
 Marcel, whom the principle cites, gives the same act a first-person angle. "When I commit myself, I grant in principle that the commitment will not again be put into question." He calls this "a rudimentary form of creative fidelity", and adds the paradox: "to commit myself I must know myself, but the fact is I really only know myself when I have committed myself" (Marcel 1964, pp. 162-163, quoted in the Stanford Encyclopedia of Philosophy).
 
-**Plain words** A promise is a way of staying who you said you would be when you no longer feel like it. Ricoeur does not say the self is made only of kept promises. He says the promise is where selfhood shows most clearly, because it does not lean on habit. Others plan around you, and that is part of what it is to be someone.
+**Plain words** Character is the part of you others can predict: same habits, same reactions. A promise is different in kind. It is a bet on yourself that holds while your inclinations move, and Ricoeur treats it as the clearest showing of selfhood for exactly that reason. The other side is social: because people count on you, you become someone they can plan around.
 
 *For example:* you promised to help a friend move on Saturday, then a better offer comes in. Keeping the promise tells your friend, and you, that your word does not depend on your mood.
 

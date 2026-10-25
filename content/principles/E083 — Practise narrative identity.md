@@ -22,7 +22,7 @@ The central line is "The narrative constructs the identity of the character, wha
 
 Ricoeur finds two ways of lasting in time: character, and keeping one's word. "The perseverance of character is one thing, the perseverance of faithfulness to a word that has been given is something else again", and "keeping one's word expresses a self-constancy which cannot be inscribed, as character was, within the dimension of something in general but solely within the dimension of who?" (Oneself as Another, p. 123, as quoted in Truc, 2008). Narrative sits between the two poles. In Halsema's reading, a story can be "told differently on different occasions", so the self is not fixed to its character.
 
-**Plain words** You are not a fixed list of traits, and not a blank to rewrite at will. Ricoeur says a life holds together through the story you can tell about it, and that story has to fit what happened and still leave room for change.
+**Plain words** Ricoeur splits identity in two: sameness, the traits by which others recognise you, and selfhood, the keeping-going of a person through change. What holds the two together is not a trait but a story. The story has to answer to what happened, and it is retellable, which is where change gets in.
 
 *For example:* after a failed business, someone tells it as "the year I wasted". Retelling it as "the year I learned to price my work" does not erase the loss. It changes which promises they are willing to make next.
 

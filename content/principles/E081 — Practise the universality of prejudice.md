@@ -22,7 +22,7 @@ He does not tell you to keep every prejudice. The aim is to "fundamentally rehab
 
 The prejudices "that occupy the interpreter's consciousness are not at his free disposal" (p. 295). You cannot lift them off in one move. You can notice them when something surprises you.
 
-**Plain words** You never come to a person or a text with an empty head. You come with expectations, and they are what let you understand anything at all. The risk is not having them but not seeing them. Gadamer's answer is to let the other person or text push back and to change your reading when it does.
+**Plain words** Gadamer's case is that understanding starts from prejudgments, so the dream of a clean slate is not humility but a mistake about how reading works. The work is not deleting your expectations; it is catching them working. Surprise is the tell: when the text contradicts you, that is your fore-meaning showing. Let the reading be revised by what emerges.
 
 *For example:* you read a letter from a relative and hear it as cold. A second reading, with the thought that you expected coldness, lets you see a nervous attempt to be careful. Neither reading was prejudice-free; the second one knew what it was bringing.
 

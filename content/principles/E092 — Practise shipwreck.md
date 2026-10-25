@@ -26,7 +26,7 @@ Some people sense in failure something beyond the world: "Even despair, by the v
 
 The German is Scheitern. In a note to his study of Jaspers, Jean Wahl records that Gabriel Marcel and Paul-Louis Landsberg thought "failure" misses the sense of "stranding, the fact of being beached, the shipwreck" (Wahl, 1938, note 67, in the 2016 translation).
 
-**Plain words** Jaspers says hard limits, such as death, guilt and chance, always bring some failure. What changes is how you stand to it. You can hide from it and be hit later, or you can look at it and see what it shows. He does not promise that a shipwreck turns into a gift. He says the way you meet it shapes who you become.
+**Plain words** Shipwreck is Jaspers' word for the failure nobody's plan prevents: death, guilt, chance. His question is not how to avoid it but how to hold it. Hidden, it arrives as a shock at the end; faced, it becomes a standing limit you can think from. He is careful about consolation, and more careful still about despair: even despair, he says, points beyond the world.
 
 *For example:* a business you built collapses. One person spends years blaming others. Another, after months of grief, asks what the collapse showed about what they were actually after.
 
