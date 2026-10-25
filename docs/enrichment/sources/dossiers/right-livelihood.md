@@ -458,3 +458,11 @@ Checks: dossier_check.py exit 0 (62 card links, 17 headers, 14
 external carriers); dossier_density.py 0 dense (36 paragraphs,
 1.2 card links per paragraph); dossier_quote_verify.py 13
 checked / 0 not found.
+
+## Third substantiated dispute (worker-pplx-dos30-1025l, dos22 claimed after release, 2026-10-25)
+
+"Does being paid wear down interest in the work itself?" Deci, Koestner and Ryan 1999 (PubMed 10589297 abstract; opened)
+vs Cameron, Banko and Pierce 2001 (PMC2731358 abstract; opened). Direct affirm/deny on one proposition: tangible/expected rewards
+undermine intrinsic motivation (Deci: significant undermining; Cameron: "rewards are not harmful to motivation to perform a task" in general,
+negative only under named conditions). Abstract-level only; limits stated in the section. Replaces the demoted money-rules pairing for the bar.
+Count under the standard heading: 2 -> 3. SUPERVISOR: re-splice right-livelihood.

@@ -126,6 +126,24 @@ Pieper calls that outlook an inversion and sets Aristotle's "We work in order to
 
 I lean with Pieper here. A livelihood is one of the places a life's hours go, and the hours are for something; I want a livelihood to leave room for things worth doing for their own sake.
 
+### Does being paid wear down interest in the work itself?
+
+The shared question: whether tangible rewards for doing a task reduce the person's own interest in it. This bears on a livelihood directly, since a wage is the standard reward for work a person might otherwise do for its own sake.
+
+Deci, Koestner and Ryan pooled 128 experiments and reported that they did:
+
+> "As predicted, engagement-contingent, completion-contingent, and performance-contingent rewards significantly undermined free-choice intrinsic motivation (d = -0.40, -0.36, and -0.28, respectively), as did all rewards, all tangible rewards, and all expected rewards." ([Deci, Koestner and Ryan 1999, Psychological Bulletin abstract](https://pubmed.ncbi.nlm.nih.gov/10589297/))
+
+Cameron, Banko and Pierce re-examined the same literature in a new meta-analysis and reached the opposite headline:
+
+> "Our results suggest that in general, rewards are not harmful to motivation to perform a task." ([Cameron, Banko and Pierce 2001, The Behavior Analyst](https://pmc.ncbi.nlm.nih.gov/articles/PMC2731358/))
+
+Both sets of authors agree on some of the conditions. The 2001 abstract reports negative effects "on high-interest tasks when the rewards are tangible, expected (offered beforehand), and loosely tied to level of performance", and finds that rewards linked to performance level increase intrinsic motivation or leave it unchanged. The 1999 abstract reports that positive feedback enhanced both free-choice behaviour and self-reported interest. They split on the headline reading: whether reward contingencies carry a pervasive cost, or a cost confined to particular conditions and avoidable in practice. Cameron and colleagues frame their paper as an attempt to resolve differences between the two earlier meta-analyses, so the dispute is explicit on their side.
+
+My lean, which is mine: for someone choosing work, the conditional reading is the safer one to plan around. Pay for a task already loved, offered in advance and loosely tied to how well it is done, is the case both abstracts flag as risky. A clean average effect is less useful to a person than knowing which of those conditions their own job meets.
+
+Limits: abstracts only. I have not opened either full paper, the replies that accompanied the 1999 article, or later work. The studies are mostly short laboratory tasks with children and students, which is far from a decades-long working life.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the drift into work that is only endured: the trade chosen for its wage and never revisited, the burnout read as a personal failing rather than a failed exchange, the rest postponed until it collapses into illness, and the having-mode relation to work in which the job is a possession to be guarded rather than a use of the person's faculties. The adaptive direction is the periodic revisiting of the livelihood against the floor and the growth standard: does the trade do harm, and does the work still grow the person doing it, with rest kept inside the rhythm rather than deferred.
