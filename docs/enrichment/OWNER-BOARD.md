@@ -267,3 +267,4 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 - 2026-10-25 13:20Z worker-pplx-degrees-1: claimed deg-verify-a (mod-qg-3 replacement candidate verification)
 - 2026-10-25 13:47Z gm-pplx-kern1-1025a: Kernels reorg: 70 modality kernels refiled, NAV-PSYCH-KRN renamed, edges preserved; general bucket (246) blocked on ruling.
 - 2026-10-25 13:55Z gm-pplx-kern1-1025a: Kernels reorg COMPLETE — 316/316 red modality lines, edges preserved, build green.
+- 2026-10-25 14:00Z gm-pplx-kern1-1025a: KRN node text reconciled; kernels reorg fully landed.
