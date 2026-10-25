@@ -126,3 +126,6 @@
 
 ## B175, B197 Thich Nhat Hanh
 - bps.lk Wheel 234 link is 404. B175 quote was Wheel 234 wording; replaced with Miracle of Mindfulness day-of-mindfulness wording, verified in PDF copy (truthbrary.mpaq.org; third-party copy, flag for supervisor: prefer a publisher/library link if one is found). B197 dishwashing quote verified verbatim in same PDF; dead source line swapped.
+
+## A049, R012, A077, A029, M006 link audit
+- A049: Aristotle NE VI.11 quote began 'Hence'; Ross (MIT Classics and Oxford 2009 PDF at archive.org) reads 'Therefore'; corrected. A077 NE IX.11 quote verified verbatim in the Oxford PDF. A029 NE IV.5 quote verified. R012 Tutu quote and 'diminished' sentence verified verbatim in the archive.org scan (earlier 404 flag was a truncated-URL artefact); example labelled as illustration. M006: Villasenor Black wording confirmed through search excerpt of chicano.ucla.edu/files/s7.pdf, but that URL returns 404 to a direct fetch from my environment (may be bot-blocking); flag for supervisor.

@@ -31,7 +31,7 @@ Tutu's test is behavioural, not sentimental. The person with ubuntu "is diminish
 **Plain words**
 The practice shows up in how you correct, refuse and disagree. Address what someone did without treating them as beneath respectful attention: the drunk at 4 a.m. gets the same unhurried care as the elder at noon. Tutu's test runs both ways — you are diminished when you treat someone as less than they are.
 
-*For example:* The manager who rejects the request in one sentence, says exactly what would change the answer, and thanks the person for raising it — conduct addressed, without belittling the person.
+*For example (my illustration, not Tutu's):* The manager who rejects the request in one sentence, says exactly what would change the answer, and thanks the person for raising it — conduct addressed, without belittling the person.
 
 ## Sources
 
