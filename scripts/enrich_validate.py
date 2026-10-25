@@ -62,7 +62,14 @@ def protected_errors(body_old, body_new, typ, path=''):
         # target is still linked elsewhere in the new body. Covers duplicate-alias
         # cleanup, e.g. the stale 'K354 The absurd practice' alias (E012/A010/E011/S007)
         # whose target K318 was already correctly linked on the same page.
-        targets_new = {m.split('|')[0].strip() for m in markup(body_new)}
+        # Restrict the allowance to links whose target is linked PLAINLY
+        # (no alias pipe) in the new body: covers duplicate-alias cleanup
+        # (e.g. the stale 'K354 The absurd practice' alias whose target K318
+        # was already correctly linked on the same page). An alias CHANGE
+        # (same target, different alias) must still be flagged — the target
+        # is linked only via the modified markup, not via a plain link.
+        plain_new = {m for m in markup(body_new) if '|' not in m}
+        targets_new = {m[2:-2].strip() for m in plain_new}
         lost = {m for m in removed if m.split('|')[0].strip() not in targets_new}
         lost = {m for m in lost
                 if (os.path.basename(path), m[2:-2].split('|')[0].strip())
