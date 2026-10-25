@@ -18,3 +18,7 @@ MacIntyre's claim is that this has already happened to moral discourse, and the 
 
 **Principles:** [[R101 — Practise relational autonomy|R101 Practise relational autonomy]], [[R104 — Practise recognition|R104 Practise recognition]]
 **Resonates:** [[A001 — Make eudaimonia the organising end of your life|A001 Make eudaimonia the organising end of your life]], [[D001 — Align your life with the Dao|D001 Align your life with the Dao]]
+
+## Related concepts
+
+- [[T052]] — the burned-library thought experiment from After Virtue: virtue as practice, tradition and community

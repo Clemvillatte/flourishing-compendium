@@ -41,7 +41,9 @@ It is not contempt or dissociation. The exercise ends back on the ground. Distan
 
 ## Related concepts
 
+
 - [[K273]] — The kernel is the concept's practice page: Marcus Aurelius IX.29 for the ascent and Kross & Ayduk 2011 for the self-distancing mechanism, both quoted verbatim.
+- [[T036]] — Hadot's reading of the exercise as common to the ancient schools: cosmic perspective against the scale self-interest assigns to episodes
 
 ## Sources
 

@@ -18,3 +18,7 @@ The structure's interest is its refusal of the general other. Where universalist
 
 **Principles:** [[R056 — Practise zhengming (rectification of names)|R056 Practise zhengming (rectification of names)]], [[R057 — Practise the five relationships|R057 Practise the five relationships]], [[R062 — Practise harmony (he)|R062 Practise harmony (he)]]
 **Resonates:** [[A063 — Recognise that friendship is necessary for flourishing|A063 Recognise that friendship is necessary for flourishing]], [[S011 — Recognise the three topoi — the three disciplines|S011 Recognise the three topoi: the three disciplines]]
+
+## Related concepts
+
+- [[T055]] — Mencius's correction inside the five relationships: rulers who fail their duties forfeit the mandate

@@ -23,6 +23,10 @@ I pair this Huayan demonstration with B143 because the displayed images depend o
 **Principles:**
 - [[B143 — Emptiness is relational fullness|B143 Emptiness is relational fullness]] — the mirror hall shows the displayed images depending on the statue, the light, and the mirrors, and each mirror reflecting the other mirrors and their Buddha images while the room stays full, which is my cross-tradition reading of the principle's dependence set-up, tracing operation, and fullness. ([Hamar](https://www.harrassowitz-verlag.de/dzo/artikel/201/4_201.pdf); [Leighton](https://www.upaya.org/wp-content/uploads/2022/10/Flower-Ornament-Sutra-Taigen-D-L.pdf))
 
+## Related concepts
+
+- [[T050]] — the contrast the story draws: Huayan interpenetration set beside Nagarjuna's argument for emptiness
+
 ## Sources
 - [Imre Hamar, introduction, Harrassowitz DZO article 201/4_201.pdf](https://www.harrassowitz-verlag.de/dzo/artikel/201/4_201.pdf): fetched and read 2026-10-22; all Hamar quotations compared against the fetched PDF text.
 - [Taigen Dan Leighton, "The Phenomenal Universe of the Flower Ornament Sutra," Upaya-hosted PDF](https://www.upaya.org/wp-content/uploads/2022/10/Flower-Ornament-Sutra-Taigen-D-L.pdf): fetched and read 2026-10-22; the hall-of-mirrors passage quoted verbatim from the fetched text.

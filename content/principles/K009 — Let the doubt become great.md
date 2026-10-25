@@ -22,6 +22,10 @@ Great doubt is not indecision. It is a question about your life that you cannot 
 **For example**
 Suppose a long-held belief about yourself ("I am the reliable one") stops fitting. Rather than adopting a new label by Friday, you carry the question for weeks.
 
+## Related concepts
+
+- [[T056]] — nihility traversed as passage, not obstacle: the collapse of meaning his work makes the route to this question
+
 ## Sources
 
 - [Sheng Yen, Hoofprint of the Ox: Principles of the Chan Buddhist Path (Oxford University Press, 2001)](https://drive.google.com/file/d/12WsTxNn3dhgpLRCZy5r5GRKJ5s3ziqTl/view): owner's library, opened; p. 118 in the running head

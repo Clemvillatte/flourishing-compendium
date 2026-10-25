@@ -38,10 +38,13 @@ A ten-minute daily round of gentle movement, a few slow breaths, plain food and 
 
 ## Related concepts
 
+
 - [[BI053]] — pairs this body-cultivation tradition (Neiye) with its noticing practice
 - [[D145]] — D145's locator line names the yangsheng literature as its home tradition, and the principle is a core yangsheng conservation teaching drawn from the Neiye
 - [[D149]] — D149's locator line links the yangsheng literature as its home tradition; the moderation instruction the page quotes is a body-regulation passage from that tradition
 - [[D147]] — D147 locates guarding shen in the Neiye's cultivation account, including bodily regulation and quieting the heart-mind.
+- [[T009]] — his art of nourishing life: Cook Ding's skill with the grain as the alternative to excessive striving
+
 ## Sources
 
 - [Britannica, Yangsheng](https://www.britannica.com/topic/yangsheng) — the three treasures and the aim of the practices

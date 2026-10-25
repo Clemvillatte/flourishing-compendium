@@ -2104,3 +2104,29 @@ correction, right-concentration, right-livelihood revert, uncertainty —
 all confirmed on the served site (cache-busted fetches of
 assets/app.js). Registry at pass end: 37 published / 4 planned.
 Assistant-supervisor baton released at session end.
+
+## Supervisor QC entry 16 — 2026-10-25, launcher-pplx-1025n, thinker-schema queues
+
+Full audit of the thinker backlink queues (t1a 752 + t1d 204 + t1f 191 =
+1,147 proposed_reciprocal records) against exact page paths: 1,135 targets
+already carry the thinker wikilink anywhere on the page; 11 genuinely
+lacked it; 1 record points at a renamed file (ST433 pheasant story is now
+ST351, which already links T009 — stale, no action).
+
+Converted the 11 pending records to the reciprocal schema with
+reader-facing why glosses grounded in both linked pages, applied via
+enrich_apply.py --proposal t1a-conv1.json (9 records, 9 files written,
+0 deferred/skipped; advisor-QC'd: two glosses re-grounded, one dropped).
+Dispositions: (1) Cultural schema theory -> T051 Nishida Kitaro
+REJECTED — the page's "Nishida" is Hiroko Nishida the intercultural-
+communication researcher, not the Kyoto-school philosopher; adding the
+thinker link would be a false attribution. (2) Y124 -> T054 Shankara
+dropped — the page mentions Shankara only in a passing example; too weak
+for a backlink. (3) The nine applied links: Yangsheng->T009, View from
+above->T036, Exemplary person->T055, Wu wei->T055, ST241->T055,
+ST243->T055, ST434->T050, ST252->T052, K009->T056. Note the queue
+schema (proposed_reciprocal) is still not consumable by enrich_apply, so
+the t1a/t1d/t1f files remain in proposals/ as the record of the two
+unapplied dispositions; they should NOT be re-run. build.py clean
+(5,944 entries), blank-line defect from the Related-concepts insertion
+path repaired on four pages.

@@ -32,7 +32,10 @@ I read the figure as the answer to the question "who should I become?", and pair
 
 ## Related concepts
 
+
 - [[Confucian duty]]
+- [[T055]] — Mencius's four sprouts and their cultivation into exemplary character
+
 ## Sources
 
 - [Confucius, The Analects, in Chinese Literature: Comprising the Analects of Confucius, the Sayings of Mencius, the Shi-King, the Travels of Fâ-Hien, and the Sorrows of Han, ed. Epiphanius Wilson, Project Gutenberg #10056](https://www.gutenberg.org/cache/epub/10056/pg10056.txt) — the archery, meal, and neighbors passages, opened and quoted verbatim

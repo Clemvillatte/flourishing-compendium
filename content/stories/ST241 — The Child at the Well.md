@@ -18,3 +18,7 @@ The passage is the founding text of Confucian moral psychology, and its claim is
 
 **Principles:** [[R056 — Practise zhengming (rectification of names)|R056 Practise zhengming (rectification of names)]], [[R057 — Practise the five relationships|R057 Practise the five relationships]], [[R062 — Practise harmony (he)|R062 Practise harmony (he)]]
 **Resonates:** [[B097 — Wish well, starting with yourself|B097 Wish well, starting with yourself]], [[A063 — Recognise that friendship is necessary for flourishing|A063 Recognise that friendship is necessary for flourishing]]
+
+## Related concepts
+
+- [[T055]] — the source parable: the spontaneous reaction to the child as evidence that human nature is good
