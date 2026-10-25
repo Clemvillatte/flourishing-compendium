@@ -580,19 +580,25 @@ Block A, fcAcademyData records for deg-philosophy modules.
   opened in-session (2026-10-25). The video could not be confirmed accessible.
   The degree owner must re-check the URL, find the replacement (the surviving
   2.3.2.1 is titled "version 2", suggesting earlier uploads were replaced), or
-  drop the attachment from mod-phil-3.
+  drop the attachment from mod-phil-3. INDEPENDENT CONFIRMATION (2026-10-25):
+  a direct oembed retrieval from a second network path also returned Not
+  Found, so the video is gone from YouTube, not merely fetcher-blocked.
 
 ### M23-EX05: Hellenistic Philosophy 2.3.3.1
 
 - NOT VERIFIED, BLOCKING: the oembed endpoint returns a client error for
   https://www.youtube.com/watch?v=ADaSJaXm8pU and the watch page could not be
-  opened in-session (2026-10-25). Same action needed as M23-EX02.
+  opened in-session (2026-10-25). Same action needed as M23-EX02. INDEPENDENT CONFIRMATION
+  (2026-10-25): a direct oembed retrieval from a second network path also
+  returned Not Found.
 
 ### M23-EX06: Hellenistic Philosophy 2.3.3.2
 
 - NOT VERIFIED, BLOCKING: the oembed endpoint returns a client error for
   https://www.youtube.com/watch?v=Pl13Wtm47lQ and the watch page could not be
-  opened in-session (2026-10-25). Same action needed as M23-EX02.
+  opened in-session (2026-10-25). Same action needed as M23-EX02. INDEPENDENT CONFIRMATION
+  (2026-10-25): a direct oembed retrieval from a second network path also
+  returned Not Found.
 
 ## Block I, unattached records (deg-verify-a hash half, verified 2026-10-25)
 Coverage-basis note for owners: entries in this section record the basis of each
