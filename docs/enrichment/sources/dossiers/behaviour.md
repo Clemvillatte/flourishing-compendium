@@ -402,3 +402,13 @@ carriers). Content review: PASS.
   no verification notes. Checker exit 0; density 0; voice audit 0; quote verify all found.
 - Registry status for behaviour remains 'published'; no registry edit was made.
 
+### Addendum (same session, rev 2)
+
+- A second dense paragraph was found once the first was fixed (the scan tool had shown
+  only the last dense line): the classical-side paragraph (4 card links in 89 words,
+  habituation, second nature, effortless action, excellence as habit). Split at the
+  sentence boundary between the Aristotle pair and the Daoist-plus-paraphrase pair.
+- Same constraints as the first repair: no links, quotes or claims changed; the 68-link
+  set is identical before and after. Checker exit 0; density 0; voice audit 0. Registry
+  remains 'published'.
+

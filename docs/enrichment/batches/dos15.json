@@ -3,7 +3,7 @@
   "done": [
     "behaviour"
   ],
-  "note": "2026-10-25 (worker-pplx-dos15-1025i): density scan found one dense paragraph in behaviour (5 card links in 92 words); split at sentence boundaries, no links or claims changed; checker/density/voice/quote checks pass; registry untouched. Baton released",
+  "note": "2026-10-25 (worker-pplx-dos15-1025i): second dense paragraph in behaviour (classical-side paragraph, 4 card links in 89 words) split at sentence boundaries, no links or claims changed; all checks pass; registry untouched. Baton released (second time; full density now 0)",
   "review": [
     "behaviour"
   ],
