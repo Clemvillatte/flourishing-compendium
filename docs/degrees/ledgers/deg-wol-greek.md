@@ -737,3 +737,46 @@ Transcript-level classification closes the "transcript still unread"
 gap for M05-XP-02. Status remains verified-video; identity, access,
 credentials and durations unchanged. Module production stays behind the
 Phase 0 stop-gate; no attachment is made this session.
+
+## SRC-M25-001 transcript read (2026-10-25, worker-pplx-greek-1025y)
+
+The SRC-M25-001 record (2025 Terry Lectures, Peter Adamson, Yale
+University channel; verified earlier in this ledger, 1:31:08 with the
+record mismatch already flagged) now carries a transcript-level content
+classification, superseding the uploader-description-only basis.
+Transcript read this session via
+https://youtubetotranscript.com/transcript?v=6iLpGOkOx0A (rendered
+page; direct raw fetch is Cloudflare-walled).
+
+Content confirmed from the transcript:
+
+- Introduction by the Terry Lecture Committee chair; this is Adamson's
+  third and final Terry lecture 2025.
+- Topic stated by Adamson: "With this third lecture, I'm going to be
+  moving to look at a very specific skeptical argument"; "basically,
+  what we're going to be talking about is animals"; the lecture's own
+  title as spoken: "Skepticism across borders. arguments from animal
+  difference in Chinese Greek and Arabic philosophy".
+- Zhuangzi (transcript renders the name phonetically): "One of the
+  earliest philosophical texts to engage deeply with this question is
+  the Dowist [Daoist] classic, the Schwangsu [Zhuangzi] named for a
+  sage who lived in the 4th century BC".
+- Sextus Empiricus: "this sort of strategy to lay down a skeptical
+  objection to dogmatic knowledge claims and then add a further
+  objection in case the first objection is somehow overcome is familiar
+  from this history of skepticism in other cultures not least in the
+  work of the great 2n century CE pyonist [Pyrrhonist] [Sextus]
+  Empiricus".
+- Brethren of Purity: "something we can find in an extraordinary text
+  from the Islamic world produced by the mysterious figures who called
+  themselves Safa, meaning brethren of purity... Probably active in the
+  10th century, they were a collective of anonymous philosophers".
+- The transcript runs through the lecture, Q&A and closing [Applause].
+
+Content matches the manifest's proposed topic "skepticism across
+traditions" (the lecture compares Chinese, Greek and Arabic/Islamic
+skepticism via the animal-difference argument). Transcript-level
+classification closes the content-check gap for SRC-M25-001. Status
+remains verified-video (optional role); identity, access, credentials
+and durations unchanged. Module production stays behind the Phase 0
+stop-gate; no attachment is made this session.
