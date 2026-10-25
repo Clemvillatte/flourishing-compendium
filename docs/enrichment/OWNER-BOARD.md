@@ -16,6 +16,9 @@ stay in the loop; agents keep it current with one-line entries.
   records; it is the owner-facing summary, not a work log.
 - Only the supervisor or assistant supervisor refreshes the snapshot
   below, and only when something material changed.
+- 2026-10-25 10:51Z worker supervisor-pplx-1025v-worker: baton dos35 taken; executive-functions publish-then-review pass underway.
+- 2026-10-25 11:02Z worker supervisor-pplx-1025v-worker: executive-functions PUBLISHED (advisor QC fixes applied, Logie 2016 opened, checks green); supervisor review requested.
+
 
 ## Snapshot
 

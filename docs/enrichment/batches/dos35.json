@@ -2,12 +2,13 @@
  "batch": "dos35",
  "done": [
   "executive-functions",
-  "2026-10-25 1025w carrier repair: eutils links for ego-depletion quotes; quote_verify 4->1 (whiterose PDF rendering artifact, flagged); no wording change"
+  "2026-10-25 1025w carrier repair: eutils links for ego-depletion quotes; quote_verify 4->1 (whiterose PDF rendering artifact, flagged); no wording change",
+  "2026-10-25 publish-then-review pass: advisor QC fixes applied (unsupported opposition removed, resource-account framing neutralized, Logie 2016 original opened and quoted, 5 on-theme cards linked), checks green, published"
  ],
  "in_progress": null,
  "flagged": {
-  "executive-functions": "Third disagreement added 2026-10-25T06:16:00Z (central executive retain vs retire, Hitch Allen Baddeley 2024 + Baddeley 2021, advisor QC applied). 3/3 substantiated disagreements - bar met. QC repair round 2026-10-25 ~10:35Z (worker-pplx-ef25-launcher, baton dos35): four prose repairs per advisor QC (opening reframe, Miles conclusion narrowed, ADHD passage trimmed, practice observations made observational), ledger PMID identities corrected, remaining quote miss freshly re-diagnosed as a checker artifact (quote verbatim in opened PDF). All checks green (check/density/quote_verify/voice_audit exit 0). Owner reader gate outstanding; supervisor to flip registry from planned."
+  "executive-functions": "RESOLVED 2026-10-25 ~11:00Z (supervisor-pplx-1025v-worker, baton dos35): advisor QC fixes applied; Logie 2016 original opened (T&F abstract, Cloudflare exception documented); coverage sweep done, 5 cards added; quotes spot-checked first-hand (Hagger eutils, Miles PDF). Published per the owner publish-then-review directive; supervisor post-publication review requested."
  },
  "comment": "Minted 2026-10-25 by owner directive: Executive Functions dossier (registry planned, The Mind's Life section). Art assigned by curator in 0ed6d1c: Le Pho, Les joueuses de cartes (already in assets). Exemplars: genuine-flourishing.md, wisdom.md, the-self.md, anger.md. The 3-5 substantiated-disagreement bar applies in full. Draft v2 complete 2026-10-25; three substantiated disputes since 06:16Z; QC repair rounds 10:35Z (advisor rounds applied; see sources ledger). Owner reader gate outstanding; supervisor to flip registry.",
- "updated": "2026-10-25T10:35:26+00:00"
+ "updated": "2026-10-25T11:00:00Z"
 }
