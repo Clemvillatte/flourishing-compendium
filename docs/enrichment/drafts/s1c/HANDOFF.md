@@ -59,10 +59,13 @@ Notes for the supervisor: no ST ids, backlinks or principle edits by this lane. 
 - s1c-002 bot-wall flag: RESOLVED for the primary carrier — Brill re-opened this session, all 6
   Knechtges quotes string-verified verbatim; silkqin secondary (no retained quotes) still 429.
   Note: s1c-002 is published (ST357-364) so this only clears the re-verification flag.
-- s1c-027/s1c-028 single-translation flags: CONFIRMED GENUINE — Thanissaro's SN 3.13 and MN 21
-  both return 404 on Access to Insight (both URL patterns tried); the primary Sujato carriers
-  (suttacentral) open fine. If a second translation is wanted, dhammatalks.org is the likely
-  Thanissaro home — upgrade path, not a defect.
+- s1c-027/s1c-028 single-translation flags: OBSERVATION, NOT A PROVEN ABSENCE — the tried ATI
+  URL patterns (mn.021.than.html, mn.021.xor.html, sn.03.13.than.html, sn03.013.than.html) all
+  returned 404 this session; a title+translator search for a Thanissaro SN 3.13 / MN 21 on ATI
+  was NOT run. The SuttaCentral URLs return an application shell to plain download (content
+  loads via browser/JS), so the 200s do not by themselves evidence readable text. If a second
+  translation is ever needed for a repair, search by discourse title and translator and open
+  the canonical result. Upgrade path, not a defect.
 - s1c-039: no new teller-level action — two independent verifications and the ST430 overlap
   analysis already stand in the draft's QC notes; supervisor disposition requested (reject or
   retell with genuinely different narrative material). Third pass adds nothing.
