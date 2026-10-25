@@ -1268,8 +1268,12 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
   page opened 2026-10-25. AUDIO RECORDING FLAG: the description identifies
   it as an audio recording of a lecture, not a video.
 - Duration: 1:01:07 (watch page, 2026-10-25).
-- Instructor credentials: Ken Gemes, lecturer (per the description;
-  institutional page not opened this session).
+- Instructor credentials: Ken Gemes, Professor Emeritus of Philosophy at
+  Birkbeck, University of London, currently Visiting Professor of
+  Philosophy at King's College London; Nietzsche and philosophy of
+  science (Wikipedia page content retrieved 2026-10-25 via the
+  Wikipedia REST summary endpoint,
+  https://en.wikipedia.org/api/rest_v1/page/summary/Ken_Gemes).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): the first of
   two Gemes lectures on Nietzsche — Nietzsche as the philosopher of the
