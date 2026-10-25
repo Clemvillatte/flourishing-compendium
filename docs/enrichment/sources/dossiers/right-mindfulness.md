@@ -515,3 +515,26 @@ The lived body cards opened and read; glosses match their cards.
 
 Checks: dossier_check.py exit 0 unchanged. Scope: candidate-line review
 plus spot-checks; not a full structural pass.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+Following the advisor QC direction after two misattributed entries were
+found in the fear dossier, all 35 concept and principle entries in this
+dossier's map sections were compared against their linked cards (card
+files opened and read side by side with the glosses). Every gloss
+matches its card, including the Satipatthana Sutta framing, the
+Anapanasati Sutta practice, the returning-practice definition, Thanissaro
+Bhikkhu's quality-of-mind account of vipassana, Nyanaponika Thera's bare
+attention, the Wells detached-mindfulness and Bernstein decentering
+entries, the ACT acceptance and defusion entries, Suzuki's beginner's
+mind, the Kabat-Zinn MBSR lineage (including the body scan), the
+Segal-Teasdale MBCT entry, Brown and Ryan's dispositional mindfulness,
+the Bishop et al. two-part operational definition, the Weil and James
+attention entries, Lutz et al.'s focused-attention meditation, and the
+Daodejing 80 delight-in-the-ordinary entry. No mismatches found; no
+edits made. This strengthens the earlier voice-audit review (all 9
+candidates kept): the flagged constructions are card-faithful as well
+as doctrinally sourced.
+
+Checks: dossier_check.py exit 0 (run again this session). Editorial
+review only; no external carriers freshly opened this pass.
