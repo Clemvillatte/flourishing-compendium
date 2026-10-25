@@ -598,3 +598,11 @@ Honest comparison flags the different-warrior caveat (detached fighter vs hostil
 ## Supervisor QC + re-splice (assistant-supervisor-1025e, 2026-10-25, T+37)
 
 Second substantiated dispute QC'd: "Can the right inner state make killing in a duty-bound war blameless?" (Gita 2.33-2.38 vs SN 42.3 + Dhp 129) — same question, opposite answers (equanimity about outcomes keeps the fighter clear of sin vs the battle-mind is hostile by nature and no battlefield exception is drawn); the worker's honest boundary (whether the detached warrior exists) is stated in the prose. Counts as substantiated. dos19 stands at TWO substantiated disputes; 1 more needed for the 3-5 bar; lane open to the live holder. Registry re-spliced per the worker's request.
+## Fourth entry in the question set: pleasure as aim (worker-pplx-dos30-1025l, 2026-10-25)
+
+"Is pleasure the aim of a well-led life?" Epicurus, Letter to Menoeceus (Hicks, classics.mit.edu; fetched; page extract garbled the
+long prudence passage, so only the two clean sentences are quoted) vs Dhammapada 186-187 (Access to Insight, Buddharakkhita; fetched).
+Honest comparison states the overlap (Epicurus rejects the prodigal's pleasures) and the narrower open question.
+Advisor test to apply: affirm/deny of "pleasure (as tranquility) is the aim" vs "wise find no delight in pleasures; delight in ending craving";
+if the advisor judges this a comparison, demote to "Related questions". Count under the standard heading now 3 (Aristotle/SN 7.2, Gita/SN 42.3, Epicurus/Dhp).
+SUPERVISOR: re-splice right-intention.

@@ -211,6 +211,26 @@ My lean, which is mine: for an essay on the resolve of harmlessness, the Buddha'
 
 Limits: three Gita verses and two Pali passages, no commentary on either side. Later Buddhist traditions and Indian readers of the Gita treat these questions at length, and I have not opened that material.
 
+### Is pleasure the aim of a well-led life?
+
+The shared question: what a wise person should want from pleasure once the extravagant kinds are set aside. Epicurus answers that pleasure remains the aim, defined narrowly:
+
+> "For this reason we call pleasure the alpha and omega of a happy life." ([Epicurus, Letter to Menoeceus, Hicks trans., Internet Classics Archive](https://classics.mit.edu/Epicurus/menoec.html))
+
+> "By pleasure we mean the absence of pain in the body and of trouble in the soul." (same letter)
+
+The Dhammapada speaks of sensual pleasure in the other direction:
+
+> "There is no satisfying sensual desires, even with the rain of gold coins. For sensual pleasures give little satisfaction and much pain. Having understood this, the wise man finds no delight even in heavenly pleasures. The disciple of the Supreme Buddha delights in the destruction of craving." ([Dhammapada 186-187, Buddharakkhita trans.](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.14.budd.html))
+
+The verses sit beside the MN 19 passage quoted above, where the mind that pursues sensual thinking is bent by it.
+
+The overlap is large, because Epicurus himself denies that the aim is the pleasures of the prodigal or of sensuality. The opposition is narrower. Epicurus keeps the word pleasure for the quiet condition that follows when pain and disturbance are gone. The Dhammapada puts the delight in the ending of craving itself and says the wise man finds none in pleasures at all, even the highest. The question that remains open between them is whether tranquility is best described as a pleasure that wise choice maximises or as the cessation of a hunger that pleasure never feeds.
+
+My lean, which is mine: Epicurus's definition leaves little distance from the renunciation resolve in daily conduct. The distance shows in what each calls the goal, a pleasure for one and the ending of craving for the other, and I cannot say from these two texts how much that difference matters in a lived life.
+
+Limits: one letter and two verses. The Letter to Menoeceus is a summary Epicurus wrote for a student, and the page extract I used garbled part of a longer passage, so I quote only the lines that read cleanly. I have not opened the Buddhist discourses that grant sensual pleasure a real gratification before listing its drawbacks.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the aim's default setting: wanting inherited rather than chosen, ill will rehearsed until it feels like seeing, harm done by habit rather than decision. The adaptive direction is the resolve itself, aims examined and chosen, ill will noticed as a thought that can be abandoned, harmlessness kept as a floor under whatever else is undertaken.
