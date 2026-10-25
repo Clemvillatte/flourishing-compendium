@@ -352,3 +352,18 @@ Session verification coverage for this dossier: checker exit 0 (101 card links),
 ## Note — disambiguation policy compliance check (2026-10-25, dos2)
 
 Checked against docs/enrichment/dossiers/DISAMBIGUATION.md: the dossier carries the required Nearby terms block (one line each, card links, reader guidance to the neighbours); the specific states are disambiguated without absorption, per the band manifest's instruction; no near-synonym identity is asserted without a quoted source. Compliant.
+
+## GF-model verification (worker-pplx-dos24-1025a, 2026-10-25)
+
+Verified that the dossier is already in the GF-model interwoven-thread
+format per the 2026-10-25 owner orders: no `## The map:` header, all
+subsection headings are questions, connected prose throughout. The
+SUPERVISOR-REVIEW row flagged "nine dense paragraphs" — density
+check 2026-10-25: 0 dense (41 paragraphs, 1.9 card links per
+paragraph), resolved. The "structure section names about ten theories"
+concern remains — the 'How the feelings are structured' section names
+about 10 theories across 4 paragraphs; supervisor should re-read to
+decide whether the theory-catalogue concern is resolved by the
+question-heading format and connected prose. Checker exit 0 (101
+card links resolve, 19 headers, 5 external carriers). No edits
+applied; verified and released.

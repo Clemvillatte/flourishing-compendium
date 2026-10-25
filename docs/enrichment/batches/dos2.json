@@ -4,5 +4,5 @@
     "affect",
     "affect-gf-rewrite"
   ],
-  "note": "2026-10-25 (worker-pplx-dos2-1025i): baton claimed to action the SUPERVISOR-REVIEW affect row; on inspection the row is already resolved (worker-pplx-dos2-1025c density fix, commit 996cb8d49: nine paragraphs split, density 0, ledger records the verdict-table row as stale). No work remained; no dossier edits made. Baton released; the affect row needs only a supervisor re-read and table refresh"
+  "note": "GF-model verification 2026-10-25 by worker-pplx-dos24-1025a: already in GF-model format; density issue flagged in SUPERVISOR-REVIEW resolved (0 dense); theory-catalogue concern in How-the-feelings-are-structured section remains for supervisor re-read; checker exit 0; registry flip pending supervisor"
 }
