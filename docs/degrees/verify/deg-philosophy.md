@@ -126,6 +126,104 @@ Block A, fcAcademyData records for deg-philosophy modules.
 - Relevant segment: whole talk, 28:05 (structured figure above).
 - Verification status: verified-video.
 
+## mod-phil-2 batch (verified 2026-10-25)
+
+### AR-05: Stoicism, Marcus Aurelius's Meditations (Adam Rosenfeld)
+
+- Identity and access: oembed confirms "23) Stoicism - Marcus Aurelius's "Meditations"" on
+  Adam Rosenfeld's channel (https://www.youtube.com/watch?v=YbAY_xNLReE). Freely
+  playable, no paywall.
+- Duration: 1:15:00 (player display, watch page opened 2026-10-25).
+- Instructor credentials: Adam Rosenfeld, Senior Lecturer in Philosophy at the
+  University of North Carolina Greensboro, PhD in Philosophy from Stony Brook
+  University (UNCG employee directory, https://www.uncg.edu/employees/adam-rosenfeld/).
+  The recording is a session of his own UNCG course PHI 251, History of Ancient
+  Philosophy, per the uploader description.
+- Language: English.
+- Content coverage: the uploader (the instructor) describes the session as a
+  continuation of the Stoicism discussion through the writings of Marcus Aurelius,
+  including questions about how Stoic thinking yields a theory of how to effect
+  change in the world. Classification rests on the instructor's own description of
+  the recording; the owner may quote the transcript for tighter provenance.
+- Relevant segment: whole lecture, 1:15:00.
+- Verification status: verified-video.
+
+### ST-01: Stoicon 2016, Julia Annas (optional)
+
+- Identity and access: oembed confirms "STOICON '16 : Julia Annas - Is Stoic Virtue as
+  Off-Putting as it Seems?" on the Modern Stoicism channel
+  (https://www.youtube.com/watch?v=WoDGgj_cfKE). Freely playable, no paywall.
+- Duration: 0:29:09 (watch page opened 2026-10-25).
+- Instructor credentials: Julia Annas, Regents Professor of Philosophy, Emerita,
+  University of Arizona (department directory,
+  https://philosophy.arizona.edu/faculty).
+- Language: English.
+- Content coverage: the channel description states this is Annas's Stoicon 2016 talk
+  on Stoic virtue ethics, held 15 October 2016 in New York. Fits mod-phil-2's
+  Stoicism module.
+- Relevant segment: whole talk, 29:09.
+- Verification status: verified-video.
+
+### ST-02: Stoicon 2018, Tony Long, "Stoicism Ancient and Modern" (optional)
+
+- Identity and access: oembed confirms the video on the Modern Stoicism channel
+  (https://www.youtube.com/watch?v=_xuQ4i46K_M). Freely playable, no paywall.
+- Duration: 49:57 (player display; the page offered no structured figure, watch
+  page opened 2026-10-25).
+- Instructor credentials: A. A. Long, Irving Stone Professor of Literature Emeritus
+  and Chancellor's Distinguished Professor Emeritus of Classics, UC Berkeley
+  (Berkeley philosophy department page,
+  https://philosophy.berkeley.edu/people/detail/119).
+- Language: English.
+- Content coverage: the page offers no uploader description; the watch page's
+  transcript markers give the talk's own structure: why study Stoicism,
+  Stoicism ancient and modern, Stoic voices, ancient Stoicism, virtue, Epictetus,
+  beauty, public philosophy, shame, social utility, cosmic connectedness. An
+  overview of Stoicism ancient and modern, consistent with its title.
+- Relevant segment: whole talk, 49:57.
+- Verification status: verified-video.
+
+### ST-04: Happiness and Tranquility (Myles Burnyeat, UC Berkeley)
+
+- Identity and access: oembed confirms "Happiness and Tranquility" on the UC Berkeley
+  Graduate Division channel (https://www.youtube.com/watch?v=ZX0gcziEmpM). Freely
+  playable, no paywall.
+- Duration: 1:01:00 (player display, watch page opened 2026-10-25).
+- Instructor credentials: Myles Burnyeat (1939 to 2019), Laurence Professor of
+  Ancient Philosophy at Cambridge 1984 to 1996, then Senior Research Fellow in
+  Philosophy at All Souls College, Oxford; Fellow of the British Academy; CBE
+  (All Souls College profile, https://www.asc.ox.ac.uk/person/myles-burnyeat).
+- Language: English.
+- Content coverage: the uploader description identifies Burnyeat's standing; the
+  watch page transcript discusses ancient views of happiness and tranquility,
+  including Aristotle, Democritus, Pyrrho and Epicurus. The talk is a scholarly
+  lecture on eudaimonia and tranquility in ancient philosophy, which suits
+  mod-phil-2's Stoicism module only via its Epicurean and Skeptic context; the
+  module owner should confirm the fit against the transcript.
+- Relevant segment: whole lecture, 1:01:00.
+- Verification status: verified-video.
+
+### ST-05: Facing Things Stoically (Richard Sorabji, Gresham College)
+
+- Identity and access: the Gresham watch-now page
+  (https://www.gresham.ac.uk/watch-now/facing-things-stoically-stoic-recipe-remaining-calm)
+  hosts the recording, free.
+- Duration: NOT PRINTED on the Gresham page (checked 2026-10-25). Blocking gap for
+  workload arithmetic: the degree owner needs a printed duration from the Gresham
+  player or a Gresham YouTube upload of this talk before the module can schedule
+  it.
+- Instructor credentials: Professor Richard Sorabji, CBE, FBA (stated on the Gresham
+  lecture page).
+- Language: English. A transcript is referenced on the page.
+- Content coverage: per the Gresham page summary, the lecture covers Stoic ideas and
+  practices for remaining calm: emotions as examinable judgments, techniques for
+  challenging judgments about harm and benefit, the limits and unacceptable face of
+  Stoicism (indifferents), Stoic exercises, the reserve clause ("if God wills"),
+  emotions, motivation and compassion, Admiral Stockdale's use of Stoicism, and
+  links to Socrates' ethics.
+- Relevant segment: unknown until a duration prints.
+- Verification status: verified-video, with the duration gap flagged.
+
 ## Block A remainder
 
 (in progress: verifier-pplx-a1)
