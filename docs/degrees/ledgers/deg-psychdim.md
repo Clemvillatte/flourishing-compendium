@@ -100,6 +100,20 @@ timestamps happens at module production.
 | 7. Conscious of the Present; Conscious of the Past: Language | DmWrOUK2zgA | 59:43 | M3 cognitive |
 | 13. Why Are People Different?: Differences | piDznzrNymE | 65:49 | M5 self (personality) |
 
+### Verified state-of-the-art talks (2026-10-25, batch 8)
+
+Current talks found through the recency strategy, verified per the skill's
+standard: existence via YouTube oembed, duration via the watch page's
+lengthSeconds field, instructor credentials on opened institutional or
+biography pages. Content classification from the recording or transcript
+happens at module production before any module attaches them.
+
+| Talk | YouTube id | Duration | Channel | Instructor credential (verified on) | Planned use |
+|---|---|---|---|---|---|
+| You aren't at the mercy of your emotions: your brain creates them | 0gks6ceq4eQ | 18:29 | TED | Lisa Feldman Barrett, University Distinguished Professor of Psychology, Northeastern University (lisafeldmanbarrett.com/about) | M2 affective (constructed emotion) |
+| The secret habits that control your life | Ywec1MbeQDk | 6:18 | Big Think | Wendy Wood, Provost Professor Emerita of Psychology and Business, USC (dornsife.usc.edu/wendy-wood) | M7 overt behavioural (habits) |
+| Inaugural Lecture: Unravelling Early Self Regulation | 2ZS_f1cbrKk | 58:54 | Department of Education, University of Oxford | Steven Howard, Senior Academic Research Leader in Child Development and Education, Oxford (education.ox.ac.uk/person/professor-steven-howard) | M7 self-regulation strand |
+
 ## Coverage matrix (v3, current; supersedes v1, v2 and v2.1)
 
 Module plan (proposal, pending advisor review; module ids are placeholders
@@ -183,11 +197,11 @@ distinguishing mechanisms from outcomes.
 
 ## Gap register (blocking or open)
 
-- Verified video lectures: six Yale OYC PSYC 110 lectures verified to the
-  standard (see Verified lecture candidates above) and available for module
-  attachment; segment-level assignment with timestamps happens at module
-  production. Current state-of-the-art talks per dimension are still to be
-  sourced during production.
+- Verified video lectures: eight Yale OYC PSYC 110 lectures and three
+  current state-of-the-art talks verified to the standard (see the two
+  sections above) and available for module attachment; segment-level
+  assignment with timestamps and classification from transcripts happens
+  at module production.
 - Self-regulation beyond the ego depletion debate: Dang 2018 grounds the
   debate and Alarcon-Espinoza et al. 2022 ground everyday emotional
   self-regulation (children and adolescents focus); a broader adult
