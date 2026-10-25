@@ -108,6 +108,24 @@ The Stoic [memento mori](https://clemvillatte.github.io/flourishing-compendium/#
 
 These are not the same practice, and the traditions do not agree about which one to train. The Stoic version can collapse into apathy if misused; the Buddhist version can be read as detachment from things that can be lost; the acceptance research shows that the target itself is plural. I hold that the disagreement is real and not settled by the available evidence, and that a reader choosing a practice should know which of the three they are actually training.
 
+### Can anything be known if everything passes?
+
+Plato's Socrates, in the [Cratylus](https://www.gutenberg.org/cache/epub/1616/pg1616.txt) in Jowett's translation, takes the flux seriously enough to follow it to its cost. Near the end he tells Cratylus:
+
+> "Nor can we reasonably say, Cratylus, that there is knowledge at all, if everything is in a state of transition and there is nothing abiding; for knowledge too cannot continue to be knowledge unless continuing always to abide and exist."
+
+He adds that if the knower and the known exist always, "then I do not think that they can resemble a process or flux," and he leaves open whether things have "this eternal nature" or whether the truth is what Heraclitus says. [Socrates also reports](https://classics.mit.edu/Plato/cratylus.html) that Heraclitus is supposed to say that all things are in motion and nothing at rest, and that you cannot go into the same water twice.
+
+The Dhammapada, in the [Buddharakkhita translation](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html), treats the same fact as the ground of the path:
+
+> "'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering. This is the path to purification."
+
+The disagreement turns on what knowing requires. In Plato's argument knowledge needs an object that abides, so a pure flux would leave nothing to know. In the Dhammapada verse the knowledge in question is seeing that conditioned things are impermanent, and the verses that follow add that all things are not-self. Flux does not undermine that seeing; seeing it clearly is the whole point of the verse.
+
+My lean, which is mine, is that the two are answering different questions. Plato asks what the objects of knowledge must be like; the Dhammapada asks what seeing change clearly does to a person. I am more persuaded by the second for a dossier about living, though Plato's worry stays alive for anyone who wants stable truths about what a life is.
+
+Limits: Socrates in the Cratylus does not commit to either side and calls the question hard to determine. The Dhammapada verse is read in one translation, and neither text is a direct reply to the other.
+
 ## Practice: what to do with the fact
 
 ::Variation:: If the fact of passing has become either a source of low-grade dread or an excuse for not investing in things that can be lost, begin with the aim. Ask what you would still care about doing if you knew the specific thing you were building would end, and what your present way of living is doing with the time it has.

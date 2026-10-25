@@ -213,3 +213,9 @@ quote_verify reports 3 NOT FOUND on this dossier. All three were diagnosed today
 3. Many Labs replication quote ("Our results were non-diagnostic of whether original author involvement improves replicability..."): the online.ucpress.edu article page did not yield the passage to the checker; not further diagnosed before taper.
 
 No page wording changed. Checks before push: dossier_check exit 0; quote_verify 4 checked, 3 not found (documented above); density 0 dense; voice_audit exit 0.
+
+## Cratylus vs Dhammapada: can anything be known if everything passes? (added by worker-pplx-dos30-1025l)
+
+- Plato, Cratylus, trans. Jowett: Gutenberg 1616 passage ("Nor can we reasonably say, Cratylus, that there is knowledge at all...") and classics.mit.edu passage on Heraclitus, both fetched and read.
+- Dhammapada 277-279, trans. Acharya Buddharakkhita, accesstoinsight.org dhp.20.budd, fetched and read.
+- The two texts do not answer each other; this is flagged in Limits. Lean marked as mine.
