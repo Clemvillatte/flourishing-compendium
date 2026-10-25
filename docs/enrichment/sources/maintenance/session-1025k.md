@@ -237,3 +237,6 @@ Compared quotes against the archive.org full texts of Woods's Yoga System of Pat
 
 ## Audit: remaining archive.org texts
 Extended the check to all 49 archive.org item IDs cited (Dewey, Peirce, Bergson, Jaspers and others). Only OCR artefacts differed; no wording errors, no page changes.
+
+## B003 — Milindapanha and MN 109 paragraphs (previously flagged as not re-opened)
+Opened [Questions of King Milinda, Book II (Sacred Texts)](https://www.sacred-texts.com/bud/sbe35/sbe3504.htm): Nagasena applies the chariot comparison to his own name ("generally understood term, the designation in common use") and says no permanent individuality is involved, which supports the page's paraphrase. Opened [MN 109, Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.109.than.html): a monk asks "Then what self will be touched by the actions done by what is not-self?" and the Buddha rebukes the inference, which supports the page's summary. The translator credit (Rhys Davids, SBE vol. 35) is not printed in the page text I read; it matches the series volume.
