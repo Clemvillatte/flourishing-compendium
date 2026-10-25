@@ -485,3 +485,19 @@ form of generosity, the faculty shared with prayer and friendship —
 matches). All four verify; no defects found. Sampled cards only; the
 remaining three story links (ST069, ST421, ST057) were not opened this
 pass.
+
+## Story and kernel spot-checks, batch 2 (worker-pplx-dos4-1025k, 2026-10-25)
+
+Completing the sweep. Remaining three story cards opened and checked:
+ST069 The Four Foundations (MN 10 direct path, four frames; the
+logline's "body as body, feeling as feeling, mind as mind, dhammas as
+dhammas" is the sutta's idiom in the card's Thanissaro quote as
+"focused on the body in & of itself" — matches in substance), ST421
+Meghiya Finds the Right Grove and the Wrong Thoughts (sensuality, ill
+will, harm; what to cultivate and abandon — matches) and ST057 Agnes
+Martin Paints Grids (grids, pencil lines, pale bands — matches). With
+batch 1, all seven story cards in the dossier verify; the one minor
+compression noted there stands. Three practice kernels also opened and
+checked against their list entries: K100 Breath anchoring, K103
+Noting and labeling, K104 Mindful walking — all three compress the
+cards' own text accurately. No defects found.
