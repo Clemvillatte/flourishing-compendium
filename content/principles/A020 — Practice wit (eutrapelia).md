@@ -22,9 +22,9 @@ The mean is named and described:
 
 The buffoon "is the slave of his sense of humour, and spares neither himself nor others if he can raise a laugh"; the boor of the passage "contributes nothing and finds fault with everything." The discussion closes with the note that "relaxation and amusement are thought to be a necessary element in life", so the question is not whether to jest but how: Aristotle adds that the jest is "a sort of abuse", and that while lawgivers forbid some things to be abused, "they should, perhaps, have forbidden us even to make a jest of such."
 
-My exercise: over a week, note jokes that raised a laugh and jokes that gave pain, and compare the notes with the buffoon and boor descriptions.
+The page's exercise: over a week, note jokes that raised a laugh and jokes that gave pain, and compare the notes with the buffoon and boor descriptions.
 
-**Plain words** Aristotle says good humour is a virtue of character. The buffoon jokes at any cost to get a laugh. The boor can neither make nor take a joke. The witty person considers what suits the company and which jokes to leave unsaid.
+**Plain words** Aristotle files joking under character, between two failures: the buffoon, who will pay any price for the laugh, and the boor, who cannot make a joke or take one. The mean is a readiness, a quickness of turn. And since he treats rest and play as part of a life, the question is not whether to jest, but what suits the company and what to leave unsaid.
 
 *For example:* A host leaves a joke about a guest's recent loss unsaid and joins the banter about the overcooked dinner instead.
 

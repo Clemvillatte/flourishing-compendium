@@ -18,9 +18,9 @@ The Rhetoric defines the emotions by their effect on judgment:
 
 The book's working examples show the shaping at work: "When people are feeling friendly and placable, they think one sort of thing; when they are feeling angry or hostile, they think either something totally different or the same thing with a different intensity", and "when they feel friendly to the man who comes before them for judgement, they regard him as having done little wrong, if any; when they feel hostile, they take the opposite view." Hope and annoyance bend expectation the same way: people eager and hopeful "think that it certainly will happen and be good for them", whereas "if they are indifferent or annoyed, they do not think so."
 
-My exercise: before a decision, name the feeling present and write what it makes more or less likely; keep both lists in view.
+The page's exercise: before a decision, name the feeling present and write what it makes more or less likely; keep both lists in view.
 
-**Plain words** [[T002 — Aristotle|Aristotle]] defines emotions as feelings that change how you judge, carrying pain or pleasure with them. A friendly mood makes the person before you seem to have done little wrong; a hostile one makes the same facts read the other way.
+**Plain words** The definition is functional: an emotion is whatever feeling changes your judgment, with pain or pleasure riding along. [[T002 — Aristotle|Aristotle]]'s courtroom example makes the mechanism plain — friendly judges rate the offence small, hostile ones rate the same facts severely. Before deciding anything, it is worth writing down the feeling present and what it is pressing you to conclude.
 
 *For example:* Someone feels uneasy before signing and writes down what the unease points to, next to the reasons for signing.
 

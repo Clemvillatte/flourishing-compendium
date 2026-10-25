@@ -20,9 +20,9 @@ The grasp of the last, variable fact is even called a kind of perception: "of th
 
 The Greek word behind Ross's "perception" here is aisthesis. The practically wise see the situation's requirement in a form that is not yet demonstration; the eye is given by experience.
 
-My exercise: after a meeting or meal, write down one thing that mattered in the room that no one said aloud, and check it later against what proved to matter.
+The page's exercise: after a meeting or meal, write down one thing that mattered in the room that no one said aloud, and check it later against what proved to matter.
 
-**Plain words** Wise action starts with seeing what matters in a situation. Aristotle's word for this seeing is aisthesis: perception. The wise are not those with more rules but those with a trained eye for the particular case, an eye that experience gives.
+**Plain words** The doctor example carries the whole idea: knowing that light meats are wholesome produces nothing, knowing that chicken is produces health. The last variable fact is grasped by something Aristotle calls aisthesis, and he credits the experienced with an eye because of it. Rules stay general; the case is where the health is.
 
 *For example:* A host notices a quiet guest has not been included and draws her into the conversation.
 

@@ -20,9 +20,9 @@ And of the seer:
 
 > "The Seer is pure vision. Though pure, he looks out through the vesture of the mind." ([YS 2.20](https://www.gutenberg.org/ebooks/2526))
 
-I use these passages for an attention exercise without deciding what the seer ultimately is. Its cue, several times a day: what in this moment is content, and what is the noticing of it?
+The page uses these passages for an attention exercise without deciding what the seer ultimately is. Its cue, several times a day: what in this moment is content, and what is the noticing of it?
 
-**Plain words** Distinguish an experience, such as anger, from noticing that experience. Try naming what you notice without using the exercise to settle what the seer ultimately is.
+**Plain words** The sutra's diagnosis is that trouble comes from the seer getting absorbed in what is seen. The exercise the page draws from it is a sorting question, asked a few times a day: in this moment, what is content, and what is the noticing of it? The answer is not needed; the sorting is the practice.
 
 *For example:* Mid-argument, attention shifts from the anger to the fact of watching it. What that does to the anger varies; the shift itself is the practice.
 ## Psychology parallels
