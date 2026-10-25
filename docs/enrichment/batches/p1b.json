@@ -70,7 +70,8 @@
   "AF036",
   "AT070",
   "D114",
-  "E012"
+  "E012",
+  "K008"
  ],
  "in_progress": null,
  "flagged": {
@@ -90,6 +91,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 110,
- "updated": "2026-10-22T14:14:50+00:00",
+ "updated": "2026-10-25T11:04:26+00:00",
  "band_done": false
 }
