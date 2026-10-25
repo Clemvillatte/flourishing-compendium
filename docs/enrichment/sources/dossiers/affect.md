@@ -302,3 +302,15 @@ Per DOSSIER-MODEL.md (owner decision 2026-10-25: GF is the model; map format ret
 - ST185 story logline recast as a direct Aristotelian doctrine statement (per this ledger's earlier defect note), keeping the fourfold right-way phrasing.
 - checker: python3 scripts/dossier_check.py docs/enrichment/dossiers/affect.md → OK, 101 card links resolve, 19 headers, 5 external carriers.
 - app.js / registry.json NOT touched (dossier workers must not edit app.js per HANDOFF.md; the compiled site payload still carries the old map-format affect — supervisor rebuild flagged in the commit message).
+
+## Revision — QC pass after advisor review (2026-10-25, worker-pplx-dos2-1025c, dos2)
+
+Advisor QC flagged: inherited evidence, a straw-man risk in the Ekman comparison, an unsupported reconciliation, and humanizer defects. Fixes applied and carriers opened BY ME this session:
+
+- James carrier re-opened live (psychclassics.yorku.ca/James/emotion.htm): the blockquote and the shortened fragment both verified verbatim; the fragment now opens lowercase ("the more rational statement...") to match the page exactly.
+- Ekman carrier re-opened live (cl.cam.ac.uk/~pr10/iui/ekman93.pdf): all three quoted passages verified verbatim, including the corrected framing sentence taken from the raw PDF text.
+- Posner/Russell/Peterson carrier re-opened live (pmc.ncbi.nlm.nih.gov/articles/PMC2367156/): both quoted passages verified verbatim.
+- Second disagreement reframed as rival identifications of what an emotion is (bodily-change feeling vs evaluative judgment); the temporal-priority framing and my "surge/shape" reconciliation removed; the practice consequence is now stated as a direct implication of each identification.
+- Ekman comparison narrowed: the neural-systems framing is now attributed to the circumplex authors' characterization of their rivals; Ekman's own passage is described as arguing from cross-cultural expression agreement.
+- Humanizer fixes: page narration, card narration and remaining contrast scaffolds removed; ST185 recast confirmed; counter-affect attribution confirmed against its card text (MN 20 carrier).
+- checker: exit 0; card links identical (96 unique) before and after this pass.
