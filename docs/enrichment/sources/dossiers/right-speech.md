@@ -363,3 +363,23 @@ Findings:
    dossier, so the gap cannot be closed here. The ST283 gap is a
    separate dossier's work item (this is recorded as a pointer, not
    as a finding).
+
+## Session: 2026-10-25 — Density repair (worker-pplx-dos20-1025i, rev 5)
+
+- Change type: paragraph splits only, after the supervisor's map-format density flag was
+  largely closed and the SUPERVISOR-REVIEW table carried stale rows. A full-corpus density
+  scan found five dense paragraphs (lines 20, 64, 70, 78, 90; 4 to 7 card links each).
+- The five paragraphs were split at sentence boundaries: the path-definition intro (right
+  speech / Eightfold Path / Four Noble Truths / three trainings / sibling factors), the
+  speech-gate kernels (K208 and K044 kept together, B146 and B148 moved to their own
+  paragraph), the practice forms (Active and Deep listening with K207 kept together,
+  Hermeneutic listening moved), the need-and-demand paragraph (NVC with K216, BE051 with
+  BE052, assertiveness research with training and K215), and the Daoist counsel paragraph
+  (plain words with D122 and the sage teaching, D135 with the chapter 5 counsels).
+- No links, quotes or claims were added, removed or altered; the card-link set was
+  extracted before and after the repair and is identical (96 links). No new carriers were
+  opened, so no verification notes. Checker exit 0; density 0; voice audit 0; quote
+  verify 6 checked, 0 not found.
+- Registry status for right-speech remains 'published'; no registry edit was made. Flagged
+  for the supervisor's next review pass: the SUPERVISOR-REVIEW verdict-table rows for
+  affect (dos2), goals (dos13) and creativity (dos32) are stale and need only a re-read.

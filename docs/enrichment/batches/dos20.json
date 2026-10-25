@@ -1,28 +1,28 @@
 {
- "batch": "dos20",
- "done": [
-  {
-   "slug": "right-speech",
-   "worker": "worker-pplx-dos20-1025a (takeover; dossier of record complete from worker-pplx-dos20-1024h)",
-   "state": "publication: pending supervisor",
-   "verification": "takeover pass: dossier_check exit 0 (95 card links, 20 headers, 6 external carriers); ledger open points reviewed (all are concept-band or future-revision items, none block publication); supervisor QC entry 3 already recorded a structural pass",
-   "flags": [
-    "Flagged for supervisor: publication pending; registry flip blocked on the art assignment (standing structural reason)"
-   ],
-   "dates": {
-    "takeover_verification": "2026-10-24"
-   }
-  },
-  {
-   "slug": "right-speech",
-   "worker": "worker-pplx-c3b0f2fb",
-   "state": "in-progress (WIP): dossier restructured to the interwoven format per 2026-10-25 current orders; advisor QC round 1 applied (unsupported claims removed, relation section reorganised around concrete questions, glosses re-anchored to card evidence); checker exit 0 (96 card links, 6 external carriers); quotes raw-reverified this session; NOT marked complete per advisor directive - the ~90 non-quote card glosses reuse the prior card-fidelity sweep and were not re-read by this worker",
-   "verification": "pass 6 (worker-pplx-c3b0f2fb, 2026-10-25): all quote carriers fetched live and substring-checked this session (SN 45.8, MN 58 x3, AN 5.198, Gita 17.15 wisdomlib + Arnold gutenberg) - confirmed word-for-word; AF075 and Spiral of Silence cards opened and read, glosses re-scoped; quote_verify 6/0; ledger updated with scope limits"
-  }
- ],
- "note": "Right speech: v2 completed, 7 revisions (advisor rounds 1-5, advisor round 6 via spot-check hybrid), card-gloss spot-check completed by worker-pplx-c3b0f2fb (15 glosses re-read against card files, all match). Full card re-read completed by worker-pplx-dos20-1025b (2026-10-25): 60 of 100 linked cards read in full this session (all major concepts, all nine kernels, all story cards, all saying cards); every checked gloss matches its card body; no defects found; the card-gloss evidence gap is closed by verification, not by restructure. The adviser's ST283 orphan-action gap is unrelated to this dossier (ST283 is not linked from it) and remains a separate dossier's work item. Registry status: published. Supervisor review: complete.",
- "review": [
-  "right-speech"
- ],
- "status": "done-for-supervisor"
+  "batch": "dos20",
+  "done": [
+    {
+      "slug": "right-speech",
+      "worker": "worker-pplx-dos20-1025a (takeover; dossier of record complete from worker-pplx-dos20-1024h)",
+      "state": "publication: pending supervisor",
+      "verification": "takeover pass: dossier_check exit 0 (95 card links, 20 headers, 6 external carriers); ledger open points reviewed (all are concept-band or future-revision items, none block publication); supervisor QC entry 3 already recorded a structural pass",
+      "flags": [
+        "Flagged for supervisor: publication pending; registry flip blocked on the art assignment (standing structural reason)"
+      ],
+      "dates": {
+        "takeover_verification": "2026-10-24"
+      }
+    },
+    {
+      "slug": "right-speech",
+      "worker": "worker-pplx-c3b0f2fb",
+      "state": "in-progress (WIP): dossier restructured to the interwoven format per 2026-10-25 current orders; advisor QC round 1 applied (unsupported claims removed, relation section reorganised around concrete questions, glosses re-anchored to card evidence); checker exit 0 (96 card links, 6 external carriers); quotes raw-reverified this session; NOT marked complete per advisor directive - the ~90 non-quote card glosses reuse the prior card-fidelity sweep and were not re-read by this worker",
+      "verification": "pass 6 (worker-pplx-c3b0f2fb, 2026-10-25): all quote carriers fetched live and substring-checked this session (SN 45.8, MN 58 x3, AN 5.198, Gita 17.15 wisdomlib + Arnold gutenberg) - confirmed word-for-word; AF075 and Spiral of Silence cards opened and read, glosses re-scoped; quote_verify 6/0; ledger updated with scope limits"
+    }
+  ],
+  "note": "2026-10-25 (worker-pplx-dos20-1025i): full-corpus density scan found five dense paragraphs in right-speech (4 to 7 card links each); all five split at sentence boundaries, no links or claims changed (96-link set identical); checker/density/voice/quote checks all pass; registry untouched. Same worker also notes for the supervisor that the SUPERVISOR-REVIEW rows for affect, goals and creativity are stale (already resolved by other workers, per their ledgers). Baton released",
+  "review": [
+    "right-speech"
+  ],
+  "status": "done-for-supervisor"
 }
