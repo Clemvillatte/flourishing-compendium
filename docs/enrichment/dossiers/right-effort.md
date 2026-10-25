@@ -11,85 +11,51 @@ Effort has two dimensions the traditions are careful to separate: where it goes,
 - Habit formation: held by the Behaviour dossier; this page keeps to the aiming and the amount of effort, not to the machinery of habit.
 - Rest: held by Right Livelihood's rest group and the rest entries cited there; recovery is included here only as effort's other half.
 
-## The map: the entries on right effort
+## Where the effort goes
 
-### The path's own account
+### What the factor asks for
 
-[Right effort](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20effort): the sixth factor of the Noble Eightfold Path: energy aimed at the mind itself, defined by four directions rather than by quantity.
+[Right effort](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20effort) is the sixth factor of the [Eightfold Path](https://clemvillatte.github.io/flourishing-compendium/#card=Eightfold%20Path), the fourth Noble Truth's summary of the training. It sits inside [the three trainings](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20trainings) in the concentration division alongside mindfulness and concentration, and it is energy aimed at the mind itself, defined by four directions rather than by quantity.
 
-[Eightfold Path](https://clemvillatte.github.io/flourishing-compendium/#card=Eightfold%20Path): the fourth Noble Truth: the Buddha's summary of the training, right view through right concentration, with right effort sixth among the eight factors.
+The sibling factors [right speech](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20speech), [right action](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20action) and [right livelihood](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20livelihood) each carry their own dossier in this programme.
 
-[The three trainings](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20trainings): the Buddhist path in its most compressed form: virtue, concentration and wisdom, with right effort inside the concentration division alongside mindfulness and concentration.
-
-[Right speech](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20speech), [Right action](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20action) and [Right livelihood](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20livelihood): the sibling factors, each with its own dossier in this programme.
-
-[The middle path](https://clemvillatte.github.io/flourishing-compendium/#card=The%20middle%20path): the calibration the lute-string image belongs to: neither the indulgence nor the mortification the Buddha tried first.
+The calibration the factor belongs to is [the middle path](https://clemvillatte.github.io/flourishing-compendium/#card=The%20middle%20path): neither the indulgence nor the mortification the Buddha tried first.
 
 The four efforts, in the sutta's own words:
 
 > "There is the case where a monk generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the non-arising of evil, unskillful qualities that have not yet arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the abandonment of evil, unskillful qualities that have arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the arising of skillful qualities that have not yet arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the maintenance, non-confusion, increase, plenitude, development, & culmination of skillful qualities that have arisen: This, monks, is called right effort." ([Thanissaro, SN 45.8](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)). The four directions: preventing, abandoning, arousing, maintaining.
 
-### The four directions for one energy
+### What the four directions train
 
-[Right effort](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20effort): effort aimed at particular movements of the mind, in a particular direction, at a particular moment; the first verb is generates desire, so effort begins as wanting the result, before any gritting of teeth.
+The factor is effort aimed at particular movements of the mind, in a particular direction, at a particular moment, and the first verb is generates desire, so effort begins as wanting the result, before any gritting of teeth. The preventing effort is [B065 — Guard the mind at the source (mind precedes all)](https://clemvillatte.github.io/flourishing-compendium/#card=B065%20%E2%80%94%20Guard%20the%20mind%20at%20the%20source%20%28mind%20precedes%20all%29): the guarding done before the quality arises, the Dhammapada's claim that mind precedes all states. The abandoning effort at its smallest is [B116 — Catch irritation early — sparks before fires](https://clemvillatte.github.io/flourishing-compendium/#card=B116%20%E2%80%94%20Catch%20irritation%20early%20%E2%80%94%20sparks%20before%20fires): the spark caught before it is a fire.
 
-[B065 — Guard the mind at the source (mind precedes all)](https://clemvillatte.github.io/flourishing-compendium/#card=B065%20%E2%80%94%20Guard%20the%20mind%20at%20the%20source%20%28mind%20precedes%20all%29): the preventing effort: the guarding done before the quality arises, the Dhammapada's claim that mind precedes all states.
+The general-capacity hope has a caution attached. Miles and colleagues' six-week program of small self-control tasks found no effect on any measure of self-control, and the authors' conclusion is stated without hedging, carried on [self-control training](https://clemvillatte.github.io/flourishing-compendium/#card=Self-control%20training).
 
-[B116 — Catch irritation early — sparks before fires](https://clemvillatte.github.io/flourishing-compendium/#card=B116%20%E2%80%94%20Catch%20irritation%20early%20%E2%80%94%20sparks%20before%20fires): the abandoning effort at its smallest: the spark caught before it is a fire.
+Duckworth's [grit](https://clemvillatte.github.io/flourishing-compendium/#card=Grit) is defined by what it sustains: perseverance and passion for long-term goals, effort and interest kept up over years, through failure, adversity and plateaus; the published abstract puts grit at an average of 4% of the variance in success outcomes, a small share. The other side of a stalled pursuit is [goal adjustment capacity](https://clemvillatte.github.io/flourishing-compendium/#card=Goal%20adjustment%20capacity): Wrosch, Scheier, Miller, Schulz and Carver's construct for the withdrawal of behavioral efforts and psychological commitment from a goal that has become unattainable, and the taking up of another, with the findings crediting disengagement with ameliorating distress and protecting health.
 
-[Self-control training](https://clemvillatte.github.io/flourishing-compendium/#card=Self-control%20training): the caution on the general-capacity hope: Miles and colleagues' six-week program of small self-control tasks found no effect on any measure of self-control, and the authors' conclusion is stated without hedging.
+### How much is enough
 
-[Grit](https://clemvillatte.github.io/flourishing-compendium/#card=Grit): Duckworth's trait, defined by what it sustains: perseverance and passion for long-term goals, effort and interest kept up over years, through failure, adversity and plateaus; the published abstract puts grit at an average of 4% of the variance in success outcomes, a small share.
+Aristotle's mean is [the right amount of effort](https://clemvillatte.github.io/flourishing-compendium/#card=The%20right%20amount%20of%20effort): to feel and to act at the right times, with reference to the right objects, towards the right people, with the right motive and in the right way. The Buddha's tuning image for the monk Soṇa is [ST064 — The Lute String](https://clemvillatte.github.io/flourishing-compendium/#card=ST064%20%E2%80%94%20The%20Lute%20String), the vina strung neither too taut nor too loose.
 
-[Goal adjustment capacity](https://clemvillatte.github.io/flourishing-compendium/#card=Goal%20adjustment%20capacity): Wrosch, Scheier, Miller, Schulz and Carver's construct for the other side of a stalled pursuit: the withdrawal of behavioral efforts and psychological commitment from a goal that has become unattainable, and the taking up of another; the findings credit disengagement with ameliorating distress and protecting health.
-
-### The tuning, not the forcing
-
-[The right amount of effort](https://clemvillatte.github.io/flourishing-compendium/#card=The%20right%20amount%20of%20effort): Aristotle's mean: to feel and to act at the right times, with reference to the right objects, towards the right people, with the right motive and in the right way.
-
-[ST064 — The Lute String](https://clemvillatte.github.io/flourishing-compendium/#card=ST064%20%E2%80%94%20The%20Lute%20String): the Buddha's tuning image for the monk Soṇa, the vina strung neither too taut nor too loose.
-
-The Sutta's own statement of the calibration:
+The sutta's own statement of the calibration:
 
 > "In the same way, Sona, over-aroused persistence leads to restlessness, overly slack persistence leads to laziness. Thus you should determine the right pitch for your persistence, attune [2] the pitch of the [five] faculties [to that], and there pick up your theme." ([Thanissaro, AN 6.55](https://www.accesstoinsight.org/tipitaka/an/an06/an06.055.than.html)). The bracketed glosses are the translator's.
 
-[Effort-recovery cycles](https://clemvillatte.github.io/flourishing-compendium/#card=Effort-recovery%20cycles): Sonnentag and Fritz's recovery research: four recovery experiences, psychological detachment from work, relaxation, mastery and control; effort's other half.
+Effort's other half is recovery. [Effort-recovery cycles](https://clemvillatte.github.io/flourishing-compendium/#card=Effort-recovery%20cycles) carries Sonnentag and Fritz's four recovery experiences, psychological detachment from work, relaxation, mastery and control. [The seasons of energy](https://clemvillatte.github.io/flourishing-compendium/#card=The%20seasons%20of%20energy) accepts that capacities are not constant: Ecclesiastes' time to every purpose under the heaven, the low times not defects in a steady machine.
 
-[The seasons of energy](https://clemvillatte.github.io/flourishing-compendium/#card=The%20seasons%20of%20energy): the acceptance that capacities are not constant: Ecclesiastes' time to every purpose under the heaven, the low times not defects in a steady machine.
+The paradox of effortlessness has its own resolutions. [Effortless action through long effort](https://clemvillatte.github.io/flourishing-compendium/#card=Effortless%20action%20through%20long%20effort) is the Zhuangzi's: wu wei can look like doing nothing, but the stories that define it are stories of training, Cook Ding's three years of oxen. [Effortless attention](https://clemvillatte.github.io/flourishing-compendium/#card=Effortless%20attention) is Bruya's volume on attention and action experienced as effortless: meeting an increase in demand with sustained efficacy without an increase in felt effort.
 
-[Effortless action through long effort](https://clemvillatte.github.io/flourishing-compendium/#card=Effortless%20action%20through%20long%20effort): the Zhuangzi's resolution of the paradox: wu wei can look like doing nothing, but the stories that define it are stories of training, Cook Ding's three years of oxen.
+The Daoist refusal of forcing is [non-striving](https://clemvillatte.github.io/flourishing-compendium/#card=Non-striving), the attitude the Daodejing places in the Dao itself: the Tao in its regular course does nothing for the sake of doing it, and so there is nothing which it does not do. Csikszentmihalyi's absorbed engagement is [flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow), the modern comparison the Right effort card itself offers: challenge matched to skill, effort felt as effortless.
 
-[Effortless attention](https://clemvillatte.github.io/flourishing-compendium/#card=Effortless%20attention): Bruya's volume on attention and action experienced as effortless: meeting an increase in demand with sustained efficacy without an increase in felt effort.
+### What the disciplines aim effort at
 
-[Non-striving](https://clemvillatte.github.io/flourishing-compendium/#card=Non-striving): the Daoist refusal of forcing, the attitude the Daodejing places in the Dao itself: the Tao in its regular course does nothing for the sake of doing it, and so there is nothing which it does not do.
+Epictetus' curriculum, stated in Discourses 3.2, is [the three disciplines](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20disciplines): three areas of study in which a person must train; Hadot named them the disciplines of desire, action and assent, the lived versions of Stoic physics, ethics and logic. [The discipline of assent](https://clemvillatte.github.io/flourishing-compendium/#card=The%20discipline%20of%20assent) is the Stoic training in treating every impression as a candidate for judgment rather than a judgment already made. [The discipline of non-response](https://clemvillatte.github.io/flourishing-compendium/#card=The%20discipline%20of%20non-response) is the practice of not adding a reflexive answer to an impression: between the impression and the response there is a judgment, and the judgment is the only movable part.
 
-[Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow): Csikszentmihalyi's absorbed engagement, the modern comparison the Right effort card itself offers: challenge matched to skill, effort felt as effortless.
+Simone Weil's account of attention in her essay on the right use of school studies, collected in Waiting for God, is [the discipline of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20discipline%20of%20attention): studies as the exercise of attention. Hadot's name for the practice side of ancient philosophy is [spiritual exercises](https://clemvillatte.github.io/flourishing-compendium/#card=Spiritual%20exercises): the daily, repeated work by which a student worked toward the complete reversal of our usual ways of looking at things. William James's claim, carried on [the effort of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20effort%20of%20attention), is that the faculty of voluntarily bringing back a wandering attention, over and over, is the very root of judgment, character and will.
 
-[ST030 — Federer's Effortlessness](https://clemvillatte.github.io/flourishing-compendium/#card=ST030%20%E2%80%94%20Federer%27s%20Effortlessness): Wallace, watching Federer at Wimbledon, reaches for a metaphysical explanation: one of those rare, preternatural athletes who appear to be exempt, at least in part, from certain physical laws; the approaching ball hangs, for him, a split-second longer than it ought to.
+Foucault's term for what modern power makes of flesh is [the disciplined body](https://clemvillatte.github.io/flourishing-compendium/#card=The%20disciplined%20body): bodies trained, timed and arranged until the body itself carries the discipline; the caution that training and domination can look alike.
 
-### The disciplines that aim effort
-
-[The three disciplines](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20disciplines): Epictetus' curriculum, stated in Discourses 3.2: three areas of study in which a person must train; Hadot named them the disciplines of desire, action and assent, the lived versions of Stoic physics, ethics and logic.
-
-[The discipline of assent](https://clemvillatte.github.io/flourishing-compendium/#card=The%20discipline%20of%20assent): the Stoic training in treating every impression as a candidate for judgment rather than a judgment already made.
-
-[The discipline of non-response](https://clemvillatte.github.io/flourishing-compendium/#card=The%20discipline%20of%20non-response): the Stoic practice of not adding a reflexive answer to an impression: between the impression and the response there is a judgment, and the judgment is the only movable part.
-
-[The discipline of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20discipline%20of%20attention): Simone Weil's account of attention in her essay on the right use of school studies, collected in Waiting for God: studies as the exercise of attention.
-
-[Spiritual exercises](https://clemvillatte.github.io/flourishing-compendium/#card=Spiritual%20exercises): Hadot's name for the practice side of ancient philosophy: the daily, repeated work by which a student worked toward the complete reversal of our usual ways of looking at things, its exercises including practices of attention, self-mastery and the therapy of the passions.
-
-[The effort of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20effort%20of%20attention): William James's claim that the faculty of voluntarily bringing back a wandering attention, over and over, is the very root of judgment, character and will.
-
-[The disciplined body](https://clemvillatte.github.io/flourishing-compendium/#card=The%20disciplined%20body): Foucault's term for what modern power makes of flesh: bodies trained, timed and arranged until the body itself carries the discipline; the caution that training and domination can look alike.
-
-### The stories
-
-The theme comes in narrative form too:
-
-[ST112 — Edison Burns the Filaments](https://clemvillatte.github.io/flourishing-compendium/#card=ST112%20%E2%80%94%20Edison%20Burns%20the%20Filaments): the filament search tests thousands of materials, platinum, carbonised cotton thread, bamboo from a Japanese fan, and the notebooks record the failures as data; the insight was not in any single test, it was the refusal to stop generating variants until one survived.
-
-[ST376 — Meghiya Finds the Right Grove and the Wrong Thoughts](https://clemvillatte.github.io/flourishing-compendium/#card=ST376%20%E2%80%94%20Meghiya%20Finds%20the%20Right%20Grove%20and%20the%20Wrong%20Thoughts): Meghiya asks three times to practise in a mango grove that looks ideal, and alone beneath the tree is troubled by thoughts of sensuality, ill will and harm; wanting to exert oneself is not yet knowing what to cultivate.
+The theme comes in narrative form too. [ST112 — Edison Burns the Filaments](https://clemvillatte.github.io/flourishing-compendium/#card=ST112%20%E2%80%94%20Edison%20Burns%20the%20Filaments) is the filament search testing thousands of materials, platinum, carbonised cotton thread, bamboo from a Japanese fan, with the notebooks recording the failures as data. [ST376 — Meghiya Finds the Right Grove and the Wrong Thoughts](https://clemvillatte.github.io/flourishing-compendium/#card=ST376%20%E2%80%94%20Meghiya%20Finds%20the%20Right%20Grove%20and%20the%20Wrong%20Thoughts) is Meghiya asking three times to practise in a mango grove that looks ideal, and alone beneath the tree being troubled by thoughts of sensuality, ill will and harm; wanting to exert oneself is not yet knowing what to cultivate.
 
 ## Where the research genuinely disagrees
 
