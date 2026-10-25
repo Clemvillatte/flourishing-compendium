@@ -17564,7 +17564,7 @@ window.fcDossiersData = {
         }
       ],
       "group": "minds-life",
-      "status": "published",
+      "status": "planned",
       "art": "assets/dossier-art/freedom.jpg"
     }
   ],
@@ -17615,6 +17615,11 @@ window.fcDossiersData = {
       "id": "procrastination",
       "title": "Procrastination",
       "group": "challenges"
+    },
+    {
+      "id": "freedom",
+      "title": "Freedom",
+      "group": "minds-life"
     },
     {
       "id": "leisure",
