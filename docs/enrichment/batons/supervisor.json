@@ -585,5 +585,7 @@
    "from": "launcher-pplx-1025n",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T12:00:31+00:00"
 }
