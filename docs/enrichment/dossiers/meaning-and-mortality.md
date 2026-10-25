@@ -71,6 +71,68 @@ Why keep Spinoza at the edge? Because the map's honest shape includes a traditio
 
 Where does the fear end? At the boundary drawn in the opening: the Epicurean argument, the clinical study of death anxiety and Ivan Ilyich's dying belong to Fear; what death does to meaning, gratitude and choice belongs here. The two dossiers share cards and cite each other's territory rather than duplicating it.
 
+## Where the traditions genuinely disagree
+
+### Does death give life its meaning?
+
+The shared question: whether a life that never ended would be better, or whether its ending is part of what makes it worth living. Both sides accept that people can want to go on living; they split on whether endless living stays desirable.
+
+Bernard Williams takes the second view, using Karel Čapek's play about Elina Makropulos, who has lived 342 years on an elixir:
+
+> "Immortality, or a state without death, would be meaningless, I shall suggest; so, in a sense, death gives the meaning to life." ([Williams, "The Makropulos Case: Reflections on the Tedium of Immortality"](https://123philosophy.wordpress.com/wp-content/uploads/2019/08/williams-immortality.pdf))
+
+His diagnosis of her state is boredom, "a boredom connected with the fact that everything that could happen and make sense to one particular human being of 42 had already happened to her" (same essay). Thomas Nagel reasons from the opposite end:
+
+> "Viewed in this way, death, no matter how inevitable, is an abrupt cancellation of indefinitely extensive possible goods." ([Nagel, "Death"](https://rintintin.colorado.edu/~vancecd/phil150/Nagel.pdf))
+
+He adds that we can conceive of what it would be for a person "to go on existing indefinitely", and that this possibility "is still that of the continuation of a good for him, if life is the good we take it to be" (same essay).
+
+Put side by side, the two are answering different questions. Nagel asks whether losing future goods harms the person who dies, and says yes. Williams asks whether an unending life of one character could stay worth wanting, and says it could not. Both can be partly right, since a death can be a loss and an endless life can still be a trap. The disagreement bites on the claim that mortality is itself the source of meaning, which Nagel's essay does not argue and Williams argues in a qualified form.
+
+My lean, which is mine and not a finding: Williams's point about boredom persuades me for a single fixed character, and Nagel's point persuades me for any actual death I am likely to meet. The dossier treats them as two answers to what the remembrance practices below are for.
+
+Limits: Williams argues from one fictional case and says explicitly that he is not claiming we should stop fearing death. Nagel's essay is about harm, not meaning. The cards in this dossier do not carry either argument.
+
+### Should the wise keep death in view or think of it least?
+
+The shared question: whether turning attention to one's own death makes action better, given that neither thinker wants fear to rule.
+
+Marcus Aurelius makes the reminder a rule for each act:
+
+> "Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly. But to go away from among men, if there are gods, is not a thing to be afraid of" ([Marcus Aurelius, Meditations II.11, Long trans.](https://classics.mit.edu/Antoninus/meditations.2.two.html))
+
+Spinoza gives the opposite instruction in a proposition about the free man:
+
+> "A free man thinks about death less than he thinks about anything else; his wisdom is a meditation on life, not on death." ([Spinoza, Ethics IV P67, Bennett trans.](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf))
+
+The proof opens by saying that such a man "isn't led by fear of death" (same text). So they agree that fear should not govern. Marcus holds that death is not to be feared and so can be kept in mind as a lever. Spinoza holds that a mind guided by reason has no need to dwell on it. The map holds the first as [Remember that you will die](https://clemvillatte.github.io/flourishing-compendium/#card=S089%20%E2%80%94%20Remember%20that%20you%20will%20die) and the second as [Think least of death](https://clemvillatte.github.io/flourishing-compendium/#card=SP068%20%E2%80%94%20Think%20least%20of%20death%3B%20wisdom%20meditates%20on%20life).
+
+My lean, which is mine: a bounded, scheduled reminder (the monthly reflection in the practice section) fits Marcus, and the rest of the month fits Spinoza. That is a compromise of my own, and neither author proposes it.
+
+Limits: I read one proposition from each. Spinoza's claim depends on his account of freedom and the affects, and I have not examined how the Stoics' wider doctrine on emotion shapes Marcus's use of the reminder.
+
+### Do reminders of death make people defensive or grateful?
+
+The shared question: what happens to ordinary people when they are made to think about dying.
+
+The terror-management programme predicted defence of worldview and self-esteem, and its meta-analysis reported exactly that:
+
+> "MS yielded moderate effects (r = .35) on a range of worldview- and self-esteem-related dependent variables (DVs)" ([Burke, Martens and Faucher 2010](https://pubmed.ncbi.nlm.nih.gov/20097885/))
+
+The meta-analysis pooled 164 articles with 277 experiments. A 2022 attempt across 17 labs and 1,550 participants to repeat one classic result from the same theory did not reproduce it:
+
+> "Our results were non-diagnostic of whether original author involvement improves replicability because we were unable to replicate the finding under any conditions." ([Klein et al., Many Labs 4](https://online.ucpress.edu/collabra/article/8/1/35271/186959/Many-Labs-4-Failure-to-Replicate-Mortality-Salience))
+
+Against the defensive reading, a 2011 study randomly assigned people to death reflection, a traditional mortality-salience task or a control:
+
+> "Participants in the death reflection and the mortality salience conditions showed enhanced gratitude compared to individuals in the control condition" ([Frias et al. 2011](https://greatergood.berkeley.edu/images/uploads/Frias-DeathGratitude.pdf))
+
+The two literatures measure different outcomes, so they do not strictly contradict each other. The tension is that Frias found gratitude after the traditional mortality-salience task too, where the terror-management account would lead one to expect defence. The map holds this as [Mortality salience](https://clemvillatte.github.io/flourishing-compendium/#card=Mortality%20salience) beside [Death reflection](https://clemvillatte.github.io/flourishing-compendium/#card=Death%20reflection).
+
+My lean, which is mine: for an essay on flourishing, I would rely on the gratitude finding only as a lead for a practice, given how small one study is, and on the defensive finding only as a reason for caution about the whole paradigm.
+
+Limits: one meta-analysis, one failed replication of a single effect, and one gratitude study. I have not read the replication's full method or the wider death-reflection literature.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the lived-as-immortal default; the practices meet it with deliberate, bounded confrontation rather than brooding, the direction the remembrance family above shares.

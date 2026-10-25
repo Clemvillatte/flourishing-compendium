@@ -160,3 +160,19 @@ decision there is purely a voice/style call.
 
 Checks: dossier_check.py exit 0 (run this session). Editorial review
 only; no external carriers freshly opened this pass.
+
+## 2026-10-25 — disagreement section added (dos27, worker-pplx-dos30-1025l)
+
+Added "## Where the traditions genuinely disagree" with three questions (0 -> 3).
+Carriers opened this pass and quotes checked against extracted text:
+- Williams, "The Makropulos Case" (123philosophy PDF; OCR text, spacing/typo noise,
+  quotes checked space-insensitively against the opening and the Makropulos boredom passage).
+- Nagel, "Death" (rintintin.colorado.edu PDF): "abrupt cancellation..." and "continuation of a good" passages.
+- Marcus Aurelius, Meditations II.11 (classics.mit.edu, Long trans.).
+- Spinoza, Ethics IV P67 and the opening of its demonstration (earlymoderntexts Bennett PDF).
+- Burke, Martens and Faucher 2010 abstract (PubMed 20097885); Klein et al. Many Labs 4 abstract
+  (Collabra page: 17 labs, 1,550 participants); Frias et al. 2011 abstract (PDF).
+Flags: Williams PDF is OCR text; Frias abstract says gratitude rose in both the death reflection
+and the mortality salience conditions, which sits slightly differently from the card framing
+(vivid vs abstract) and is stated as written in Q3. The existing "Related questions and parallels"
+section is left as is. SUPERVISOR: re-splice meaning-and-mortality.
