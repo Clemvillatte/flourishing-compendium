@@ -1892,6 +1892,11 @@
      "t": "2026-10-25T14:50:07+00:00",
      "to": "qc_pending",
      "note": "draft complete; story_check ok"
+    },
+    {
+     "t": "2026-10-25T15:25:48+00:00",
+     "to": "qc_pending",
+     "note": "ledger paraphrase replaced with page's own sentence; quotes re-verified; story_check ok"
     }
    ]
   },
@@ -1962,6 +1967,11 @@
      "t": "2026-10-25T15:22:44+00:00",
      "to": "qc_pending",
      "note": "D124 withdrawn, D083 proposed (page uses this passage); DO NOT REGISTER under D124; story_check ok"
+    },
+    {
+     "t": "2026-10-25T15:25:48+00:00",
+     "to": "qc_pending",
+     "note": "D124 withdrawn, D083 proposed (page uses this passage; possible existing-emblem duplicate flagged); story_check ok"
     }
    ]
   },
@@ -2071,5 +2081,5 @@
    ]
   }
  },
- "updated": "2026-10-25T15:22:44+00:00"
+ "updated": "2026-10-25T15:25:48+00:00"
 }

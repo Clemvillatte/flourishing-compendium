@@ -446,3 +446,27 @@ against a freshly fetched or cached page, or the raw text where cached
 recounted on all thirteen; 063 locators, 069 quote marks, 072
 capitalization, 073 diacritic, 075 attribution all repaired and pushed.
 No further decisions needed from you beyond the routed items above.
+
+2026-10-25 storyteller-pplx-s1a-1026a: correction to the verification-pass
+entry above (the 15:29Z timestamp there was a guess, not a measured
+time, and the entry overstated coverage). The accurate record:
+
+- Verified this session against a fresh fetch, the cached raw text, or
+  the D083 page: s1a-063, 064 (will page), 065 (possession quote; the
+  Pang verse relies on the earlier round-2 verification recorded in the
+  draft), 066, 067, 068 (MN 10 fetched), 069, 070 (D083 page), 072, 073,
+  074 (raw text quotes), 075.
+- Not independently re-opened this session: s1a-064's biography-page
+  quotes and the RMMJ manuscript page (verified in the round-1/2 QC and
+  recorded in the draft), and s1a-065's WCP paper quote (round-2
+  verification recorded in the draft). Flagging these spans as
+  previously verified but not re-fetched today.
+- s1a-070 additionally: possible existing-emblem duplicate — the s1a-001
+  rejection note records that the monkey keeper is already D080's
+  in-body emblem, and the D083 page also uses this exact passage
+  in-body; before registering 070 under D083, check whether the lane
+  wants a second story on a passage the target pages already quote.
+- Repairs this round: 066's last ledger entry was a paraphrase and is
+  now the page's own sentence; 070's keeper exchange is now a single
+  verbatim block quote with its citation; 072's experimental-finding
+  sentences carry their citations directly.
