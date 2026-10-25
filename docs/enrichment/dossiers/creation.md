@@ -107,13 +107,19 @@ On the maker: Bergson's joy passages:
 
 The diary study found a lagged association: days with more reported creative activity than usual were followed by higher activated positive affect and flourishing, the reverse was not supported, and the observational design does not establish causation. And on Bergson's account the making changes the maker: "we are, to a certain extent, what we do, and that we are creating ourselves continually."
 
-A comparison on the maker's fulfilment, kept here rather than in the disagreements because the passages do not oppose each other on one proposition: Maslow, naming the need he called self-actualization in 1943, gives the maker's own completion as the stake — "A musician must make music, an artist must paint, a poet must write, if he is to be ultimately happy. What a man can be, he must be." ([Maslow, "A Theory of Human Motivation", 1943](https://psychclassics.yorku.ca/Maslow/motivation.htm))
+Maslow and Frankl give the maker's fulfilment different directions. Maslow, naming the need he called self-actualization in 1943, gives the maker's own completion as the stake — "A musician must make music, an artist must paint, a poet must write, if he is to be ultimately happy. What a man can be, he must be." ([Maslow, "A Theory of Human Motivation", 1943](https://psychclassics.yorku.ca/Maslow/motivation.htm))
 
 Frankl keeps the observation and reads the attainment differently — "In other words, self-actualization is possible only as a side-effect of self-transcendence." ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)) An artist could need to paint, as Maslow says, while finding the fulfilment Frankl describes, by attending to the work rather than the self; Maslow's own satisfaction condition, doing what one is fitted for, already puts the work in the foreground. I read the two as different angles on one restlessness, and the sources do not settle it.
 
+Freud and Frankl give the maker's motive different directions. Freud, in his 1908 essay on creative writers and day-dreaming, explains how a writer's wishes can take literary form — "The motive forces of phantasies are unsatisfied wishes, and every single phantasy is the fulfilment of a wish, a correction of unsatisfying reality." — and the work itself, he says, runs from "a wish which finds its fulfilment in the creative work" ([Freud, "Creative Writers and Day-Dreaming", 1908](https://archive.org/download/the-adolescent-fyodor-dostoevsky-novel/Creative%20Writers%20and%20Daydreaming%20%28Sigmund%20Freud%20Essay%29.pdf)). The account reaches the reader's side too: "In my opinion, all the aesthetic pleasure which a creative writer affords us has the character of a fore-pleasure of this kind, and our actual enjoyment of an imaginative work proceeds from a liberation of tensions in our minds." ([Freud, "Creative Writers and Day-Dreaming", 1908](https://archive.org/download/the-adolescent-fyodor-dostoevsky-novel/Creative%20Writers%20and%20Daydreaming%20%28Sigmund%20Freud%20Essay%29.pdf))
+
+Frankl rejects reducing the search for meaning to instinctual drives: "Man's search for meaning is the primary motivation in his life and not a 'secondary rationalization' of instinctual drives." ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))
+
+These claims need not conflict: a work could fulfil a wish and still answer a meaning beyond its author. Freud offers the wish formula as a first approach — the essay says so itself — and gives the account for the day-dream-like work. I find Frankl's emphasis the more useful one when deciding what to make, and that preference is mine; it does not show Freud's account of wish-fulfilment false. The sources do not settle how much of any maker's work is one or the other.
+
 On the work itself: Sennett's craftsman wants to do a job well for its own sake, with objective standards, on the thing itself. Zhuangzi's bell-stand maker loses thought of reward and praise before he touches the tree. Arendt's homo faber erects a world and asks whether the machines still serve it.
 
-A contrast I keep here rather than in the disagreements, because the passages do not oppose each other on one proposition: Arendt's toolmaker "invented tools and implements in order to erect a world, not—at least, not primarily—to help the human life process" ([Arendt, The Human Condition, excerpt](https://kortina.nyc/notes/the-human-condition/)), while Bergson's creation runs on the vital side of that line — joy "always announces that life has succeeded, gained ground, conquered", and his example of a creator is the mother beholding her child ([Bergson, Life and Consciousness](https://www.anthologialitt.com/post/henri-bergson-life-and-consciousness)).
+Arendt and Bergson differ in what they watch making for: Arendt's toolmaker "invented tools and implements in order to erect a world, not—at least, not primarily—to help the human life process" ([Arendt, The Human Condition, excerpt](https://kortina.nyc/notes/the-human-condition/)), while Bergson's creation runs on the vital side of that line — joy "always announces that life has succeeded, gained ground, conquered", and his example of a creator is the mother beholding her child ([Bergson, Life and Consciousness](https://www.anthologialitt.com/post/henri-bergson-life-and-consciousness)).
 
 The two lives named here are not the same thing — Arendt's life process is the biological cycle of labour, Bergson's life is the creative thrust — and neither passage denies what the other affirms. I read it as a difference of emphasis about the same making: the thing may serve a durable world and still be, for the maker, one more form that life takes.
 
@@ -136,34 +142,6 @@ Nietzsche says created. The significance of things is human, assigned, and nothi
 These accounts give making different roles: responding to a meaning already in the world for Frankl, assigning value for Nietzsche. What the two sources leave unresolved is whether they are incompatible accounts of the same meaning or different aspects of one act of making, the usefulness of a made thing being there to be found while its worth is conferred.
 
 I lean toward the second reading, because the two passages do not address the same proposition: Frankl speaks of the meaning of a life, Nietzsche of the significance of things, and a maker can plausibly find the one and confer the other. But that is my reading, and the sources themselves do not settle it.
-
-### Does the work rise from the maker's wishes, or answer a meaning?
-
-Freud's account of the creative writer, in his 1908 essay on creative writers and day-dreaming, puts the maker's own wish at the source of the work. The motive force of the writer's imaginative world is the unsatisfied wish:
-
-> "The motive forces of phantasies are unsatisfied wishes, and every single phantasy is the fulfilment of a wish, a correction of unsatisfying reality." ([Freud, "Creative Writers and Day-Dreaming", 1908](https://archive.org/download/the-adolescent-fyodor-dostoevsky-novel/Creative%20Writers%20and%20Daydreaming%20%28Sigmund%20Freud%20Essay%29.pdf))
-
-> "The creative writer does the same as the child at play. He creates a world of phantasy which he takes very seriously" ([Freud, "Creative Writers and Day-Dreaming", 1908](https://archive.org/download/the-adolescent-fyodor-dostoevsky-novel/Creative%20Writers%20and%20Daydreaming%20%28Sigmund%20Freud%20Essay%29.pdf))
-
-And the work itself, he says, runs from a wish:
-
-> "A strong experience in the present awakens in the creative writer a memory of an earlier experience (usually belonging to his childhood) from which there now proceeds a wish which finds its fulfilment in the creative work." ([Freud, "Creative Writers and Day-Dreaming", 1908](https://archive.org/download/the-adolescent-fyodor-dostoevsky-novel/Creative%20Writers%20and%20Daydreaming%20%28Sigmund%20Freud%20Essay%29.pdf))
-
-The essay closes on the reader's side of the same account:
-
-> "In my opinion, all the aesthetic pleasure which a creative writer affords us has the character of a fore-pleasure of this kind, and our actual enjoyment of an imaginative work proceeds from a liberation of tensions in our minds." ([Freud, "Creative Writers and Day-Dreaming", 1908](https://archive.org/download/the-adolescent-fyodor-dostoevsky-novel/Creative%20Writers%20and%20Daydreaming%20%28Sigmund%20Freud%20Essay%29.pdf))
-
-Freud offers the wish formula as a first approach — the sentence after it says so — but the essay's direction is a reduction: the motive of the imaginative work is the wish, the work fulfils it, and the pleasure the work gives is a fore-pleasure on the way to a deeper tension-release.
-
-Frankl explicitly contrasts his account of primary human motivation with the pleasure principle, and denies that the search for meaning is drive-derived:
-
-> "That is why I speak of a will to meaning in contrast to the pleasure principle" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))
-
-> "Man's search for meaning is the primary motivation in his life and not a 'secondary rationalization' of instinctual drives." ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))
-
-The disagreement turns on what motivates the making, and the two sides state it directly, each within a scope the section has to carry. Freud affirms it for the imaginative writer: the motive forces of the writer's phantasies are unsatisfied wishes, and the work proceeds from a wish and fulfils it. Frankl denies it for the primary motivation of a life, its making included: the search for meaning is the primary motivation, not a rationalization of instinctual drives. Where the scopes overlap — on what moves a person to make — one passage affirms the wish as the mover and the other denies that drives are the mover at all.
-
-I find Frankl's emphasis the more useful one when deciding what to make, and that preference is mine; it does not show Freud's account of wish-fulfilment false. Freud's account is offered for a kind of work, the day-dream-like work, and the sources do not settle how much of any maker's work is one or the other.
 
 ## Practice: variation, selection, retention
 

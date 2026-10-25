@@ -669,3 +669,59 @@ stated). The model's three-to-five requirement is still short; the
 remaining gap is flagged for the supervisor rather than filled. Checks:
 dossier_check.py exit 0 (51 card links, 17 headers, 24 external
 carriers); dossier_quote_verify.py 31 checked, 3 unmatched (see item 4).
+
+### Pass 9 round-8 advisor round-3 corrections — SUPERSEDES rounds 6-7 labels (worker-pplx-dos31-1025g, 2026-10-25)
+
+Advisor round-3 verdict: the Freud-vs-Frankl pairing is a bounded
+comparison, not a demonstrated disagreement; the earlier "demonstrated"
+labels recorded in the round-6 and round-7 entries are superseded. The
+corrected state, per the advisor: two comparative questions, NO
+demonstrated disagreement confirmed by this QC; the model's substantive
+three-to-five requirement remains unmet.
+
+Applied this pass:
+1. The Freud-Frankl material moved out of "## Where the traditions
+   genuinely disagree" into the synthesis, as a bounded comparison
+   alongside the Maslow-Frankl and Arendt-Bergson comparisons. The
+   non-contradiction is stated in the reader-facing text: "These claims
+   need not conflict: a work could fulfil a wish and still answer a
+   meaning beyond its author." The three strongest Freud quotations
+   (motive forces; the wish that proceeds into the creative work; the
+   fore-pleasure sentence) and the Frankl sentence are kept, all
+   verbatim against the complete carrier. The sentence "Frankl denies it
+   for the primary motivation of a life, its making included" and the
+   "denies that drives are the mover at all" phrasing were removed
+   (overstatements of what the Frankl passage establishes), and so was
+   the reduction framing ("the essay's direction is a reduction") and
+   the QC-category commentary ("the two sides state it directly, each
+   within a scope the section has to carry"; the "kept here rather than
+   in the disagreements" openers on all three comparison paragraphs).
+   Freud's own hedge is carried in prose ("offers the wish formula as a
+   first approach").
+2. Carrier citation record: the Freud essay is cited from the complete
+   carrier at
+   https://archive.org/download/the-adolescent-fyodor-dostoevsky-novel/Creative%20Writers%20and%20Daydreaming%20%28Sigmund%20Freud%20Essay%29.pdf
+   (this entry records the URL contiguously; the round-7 entry's
+   line-broken rendering is a display artifact, not a different URL).
+3. Verification reporting, per the advisor: 27 quotes checked this pass,
+   3 unmatched in the automatic run. The unmatched cause was NOT
+   established this pass; what is on record: for the Jones et al.
+   (Sennett) and McAdams/de St. Aubin (PMC) quotations, the fetch
+   tool's page extraction showed the sentences verbatim this session;
+   for the Conner et al. quotation, no inspection this session, raw
+   verification inherited from earlier ledger entries. These three
+   remain the open verification items for a browser-based pass.
+
+Section state after round 8: "## Where the traditions genuinely
+disagree" holds one heading, the Frankl-Nietzsche candidate comparison
+(marked in the text as passages that do not address the same
+proposition). Three bounded comparisons (Maslow-Frankl, Freud-Frankl,
+Arendt-Bergson) live in the synthesis with the non-conflicts stated.
+The model's three-to-five demonstrated-divergence requirement is unmet
+and flagged for the supervisor; the compendium's demonstrated-
+disagreement bar (one opened passage affirms a proposition, another
+denies it) has not been met by any pairing found in the opened carriers
+for this theme in passes 8-9.
+
+Checks: dossier_check.py exit 0 (51 card links, 16 headers, 21 external
+carriers); dossier_quote_verify.py 27 checked, 3 unmatched (see item 3).
