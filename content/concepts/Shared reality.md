@@ -27,7 +27,7 @@ The same paper states: "Shared reality lies at the intersection of two motives: 
 ## Related concepts
 
 
-- [[Intersubjectivity]]
+- [[Intersubjectivity]] — the philosophical account of the shared world that perceived commonality of inner states presupposes
 - [[K357]] — attending to the same thing is one everyday setting where perceived commonality of inner states shows up
 ## Sources
 

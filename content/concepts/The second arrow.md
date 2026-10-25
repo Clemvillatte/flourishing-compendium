@@ -22,7 +22,7 @@ Hofmann and colleagues' 2010 meta-analysis examined mindfulness-based therapies 
 ## Related concepts
 
 
-- [[Judgment adds the harm]]
+- [[Judgment adds the harm]] — the Stoic form of the same claim: the judgment about the event, not the event, supplies the suffering
 - [[K117]] — staying in the feared situation is the refusal to shoot the second arrow
 ## Sources
 

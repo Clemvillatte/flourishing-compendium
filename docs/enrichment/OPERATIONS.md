@@ -101,6 +101,19 @@ long evidence records in the ledger, not in the public reading path.
   reason recorded in QC entry 4; the registry flips wait on GF-model
   rewrites (the rewrite-order lanes in dossiers/HANDOFF.md are the
   vehicle).
+- ADDENDUM 2 (~T+19): MIRROR-GLOSS DEFECT CLASS found in the applied
+  proposals: some w1ad-style whys were written from the linked card's
+  perspective and land verbatim on the target page, where they describe
+  the TARGET page instead of the linked card (e.g. "Spiritual joy — the
+  hedonic treadmill finding" on the Hedonic adaptation page). Six
+  instances repaired card-faithfully in 9b99a59f (Hedonic adaptation,
+  Contingent self-esteem, Complicated grief research, Ecological grief,
+  Confirmation bias, Courage — action despite fear). The class is open:
+  the remaining ~130 unreviewed glosses may hold more; future proposals
+  should write target-side glosses. Correction to the 9b99a59f commit
+  message: "validators ok" is wrong — 4 of the 6 pages FAIL validation
+  on their PRE-EXISTING prose-short seeds (documented above); the
+  repairs themselves touched only Related-concepts lines.
 
 # Supervisor QC entry 4 — 2026-10-24, T+40 (stale-baton takeover, worker-pplx-dos24-1025a)
 
