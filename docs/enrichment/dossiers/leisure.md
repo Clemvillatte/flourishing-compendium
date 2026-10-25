@@ -66,6 +66,14 @@ Pieper's account leans on a clean line between the world of work and the space o
 
 The continuation is the sharper half: in Rojek's account "leisure often requires more planning, and more physical and mental effort, than work activities", and must conform to cultural and social expectations, since leisure is a politically and economically controlled activity ([Regi, 2012](https://www.mursi.org/documents-and-texts/published-articles/regi-tamas/tourism-leisure-and-work/at_download/file)). Anyone who has booked a family holiday knows the phenomenology. As Regi presents it, the rejection lands on the dichotomy as Pieper is standardly read, and what it targets is free time rather than Pieper's capacity of the soul. Whether the two still quarrel after that correction is a question a reader can take to an actual week, and it is a live one in the field.
 
+### The line drawn for someone else
+
+The classical line between work and leisure was drawn by men whose meals appeared. Feminist leisure research found that the line does not describe the lives it was never drawn for. Green, Hebron and Woodward's study of women's leisure is titled with the question, and an open survey of the field quotes its conclusion:
+
+> "A woman's right to freedom in leisure is circumscribed by her employment status and income level, her family situation and …her lack of status as a woman in a patriarchal society." ([Green, Hebron and Woodward, 1990, quoted in Veal](https://opus.lib.uts.edu.au/bitstream/10453/39506/8/2015_Human_Rights_Leisure_Studies_WLJ_Accepted_Veal.pdf))
+
+The same survey records the empirical finding behind the school: for many women "their everyday lives tend to be holistic; work and leisure may coexist and be difficult to distinguish" ([Henderson et al., 1996, quoted in Veal](https://pmc.ncbi.nlm.nih.gov/articles/PMC10071223/)). The disagreement with the classical tradition is direct. Aristotle's leisure presupposes that someone else carries the duties, and Russell universalized the leisure without asking who still carries them. Feminist scholarship asks that question, and it indicts the dichotomy itself, not only the distribution: for a life in which work and leisure interleave, the question of what free time is for has no clean subject to address.
+
 ### Relaxation, or wholehearted action
 
 Leisure studies has its own version of the fight. Douglas Kleiber, writing in the Journal of Leisure Research, reports a view in the field that treats wholehearted investment in action as the essence of true leisure, following Tinsley and Tinsley, and that in this view relaxation "is clearly neglected and subordinated", taking appreciation, contemplation and peacefulness down with it. Kleiber dissents:
