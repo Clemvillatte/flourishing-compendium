@@ -488,3 +488,30 @@ rev-6.2 and rev-6.3 story-only scope is closed.
 
 Checker after rev 6.4: exit 0 (41 card links resolve, 17 headers, 7
 external carrier link occurrences across 5 distinct URLs).
+
+## GF-model restructuring revision (2026-10-25, worker-pplx-dos24-1025a, dos33 baton)
+
+Following the 2026-10-25 owner-validated orders and the supervisor review
+table row for procrastination ("Still the old map format... Rewrite the
+main body as a thread with question headings, as the model dossiers do"),
+the main body was dissolved:
+
+- The "## The map: the entries on procrastination" header replaced with
+  "## Where the delay comes from", and its four subsections given
+  question-style headings ("Can we act against what we know?", "What the
+  reviews say the delay is" kept, "What makes starting unpleasant",
+  "The levers that start the starting").
+- Each subsection's one-line gloss lists rewritten into connected
+  interwoven prose; every card link and every verified fact preserved
+  verbatim; no quotes changed.
+- The Nearby terms section converted from page-self-description ("This
+  page takes only what is specific to delay") to a bullet list, per the
+  owner's meta-text ban clarification.
+
+The PubMed quote-verification NOT FOUND results are the known blocked
+fetch (recorded in the HANDOFF); both quotes were opened and verified
+by eye this session (Steel 2007 abstract first sentence and title
+matched exactly against the PubMed record).
+
+dossier_check.py exit 0 (40 card links, 17 headers, 7 external
+carriers). dossier_density.py: 0 dense paragraphs.
