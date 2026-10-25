@@ -16802,11 +16802,11 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "When something hurts, I am usually hurt twice. The oldest text I know on this gives the image: an uninstructed person touched by a painful feeling sorrows, grieves and laments, and so feels two pains, physical and mental, while a well-instructed one feels a single pain, physical only ([SN 36.6, Thanissaro translation, dhammatalks.org](https://www.dhammatalks.org/suttas/SN/SN36_6.html)). [The second arrow](card:The%20second%20arrow) is what I add to the event: the story about why me, the rehearsal of what comes next, the war against the fact. The sutta is careful about what it claims. It does not say the first arrow is unreal. It says the second one is manufactured, and the manufacturing is optional. That is where a person has room to move."
+          "x": "When something hurts, I am usually hurt twice. The Sallatha Sutta gives the image: an uninstructed person touched by a painful feeling sorrows, grieves and laments, and so feels two pains, physical and mental, while a well-instructed one feels a single pain, physical only ([SN 36.6, Thanissaro translation, dhammatalks.org](https://www.dhammatalks.org/suttas/SN/SN36_6.html)). [The second arrow](card:The%20second%20arrow) is the distress that grows around the hurt: the story about why me, the rehearsal of what comes next. The sutta does not say the first arrow is unreal, and it does not present the second as a free choice either; it describes what trained and untrained minds do with the same event, and its teaching is addressed to the training. I use the distinction without treating grief or persistent distress as a failure of will."
         },
         {
           "t": "p",
-          "x": "Some suffering is not added. Jaspers's [limit situations](card:Limit%20situations%20%28Grenzsituationen%29), death, chance, guilt and struggle, are structures of a life that cannot be solved, only clarified; Job's loss of his children, his property and his health is not a story about a second arrow anyone chose to shoot. Frankl's camps are the same territory: the question there was not how to drop an added arrow but what a person can still do inside one that cannot be removed ([The meaning of suffering](card:The%20meaning%20of%20suffering)). So the theme splits in two, and the split is the practical question. When the suffering is added, the work is to stop adding it. When it is not, the work changes into something else: meaning, clarification, endurance."
+          "x": "Some situations do not fit the image of an added layer. Jaspers's [limit situations](card:Limit%20situations%20%28Grenzsituationen%29) are, in the words of the Stanford Encyclopedia of Philosophy, moments usually accompanied by dread, guilt or acute anxiety in which the mind confronts the restrictions of its own forms ([SEP, Karl Jaspers](https://plato.stanford.edu/entries/jaspers/)). Inside such a situation the distinction between the event and my response to it still holds; what is missing is the suggestion that the suffering could be dropped with the right technique. So the theme holds two different questions. When the distress is the added layer, the question is how the addition works and whether it can wear out. When the wound is the situation itself, the question is what a person can still do inside it."
         },
         {
           "t": "p",
@@ -16830,7 +16830,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Pain: the first arrow, the physical event. Its sciences sit at the end of this page because they explain the arrow, not the story about it."
+          "x": "Pain: the physical event, the first arrow, kept distinct here from everything the mind does with it."
         },
         {
           "t": "h",
@@ -16855,15 +16855,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "What is the ache made of? The second truth names craving, [tanha](card:Tanha), reaching for pleasure, for becoming, for non-becoming. [Stuckness as suffering](card:Stuckness%20as%20suffering) reads the origination formula as a mind that cannot stop reaching for what feeds the sticking: the reaching is the engine, the stuckness is the exhaust. This is why the tradition treats [the avoidance of suffering](card:The%20avoidance%20of%20suffering) as part of the machinery rather than its cure: aversion is one of the unwholesome roots, and fleeing the unpleasant is still reaching, in the other direction."
+          "x": "What is the ache made of? The second truth names craving, [tanha](card:Tanha), reaching for sensuality, for becoming, for non-becoming. [Stuckness as suffering](card:Stuckness%20as%20suffering) reads the origination formula as a mind that cannot stop reaching for what feeds the sticking, and the reaching is what keeps the sticking alive. This is why the tradition treats [the avoidance of suffering](card:The%20avoidance%20of%20suffering) as part of the machinery rather than its cure: aversion is one of the unwholesome roots, and fleeing the unpleasant is still reaching, in the other direction."
         },
         {
           "t": "p",
-          "x": "The practical forms of the second-arrow distinction are already principles in this wiki. [B069 — Don't shoot the second arrow (pain vs. suffering)](card:B069%20%E2%80%94%20Don%27t%20shoot%20the%20second%20arrow%20%28pain%20vs.%20suffering%29) states the sutta's own rule, and [B001 — Face suffering directly](card:B001%20%E2%80%94%20Face%20suffering%20directly) carries the task. Between the rule and the task sits the engine: [B006 — Craving is the engine of suffering (tanha)](card:B006%20%E2%80%94%20Craving%20is%20the%20engine%20of%20suffering%20%28tanha%29) names it as principle."
+          "x": "The distinction also has practical rules attached to it. One says not to fire the second arrow at the moment of pain ([B069 — Don't shoot the second arrow](card:B069%20%E2%80%94%20Don%27t%20shoot%20the%20second%20arrow%20%28pain%20vs.%20suffering%29)); one says to face suffering directly instead of fleeing it ([B001 — Face suffering directly](card:B001%20%E2%80%94%20Face%20suffering%20directly)); one names the engine that keeps the loop running, craving itself ([B006 — Craving is the engine of suffering](card:B006%20%E2%80%94%20Craving%20is%20the%20engine%20of%20suffering%20%28tanha%29))."
         },
         {
           "t": "p",
-          "x": "The rule is worth having in a daily form, because the arrows of an ordinary week are small enough to practise on. [B182 — Separate pain from suffering — daily](card:B182%20%E2%80%94%20Separate%20pain%20from%20suffering%20%E2%80%94%20daily) is that form: a habit of naming, run on stubbed toes and hard conversations, so that it exists before a crisis asks for it."
+          "x": "The daily form matters because the arrows of an ordinary week are small enough to practise on. [B182 — Separate pain from suffering — daily](card:B182%20%E2%80%94%20Separate%20pain%20from%20suffering%20%E2%80%94%20daily) runs the naming on stubbed toes and hard conversations, so the habit exists before a crisis asks for it."
         },
         {
           "t": "h2",
@@ -16871,16 +16871,16 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The Stoics arrived at the same line from the other side of the world. [Judgment adds the harm](card:Judgment%20adds%20the%20harm) is Epictetus, Enchiridion 5, and the wording is worth having exactly:"
+          "x": "The Stoics drew the same line. [Judgment adds the harm](card:Judgment%20adds%20the%20harm) is Epictetus, Enchiridion 5, and the wording is worth having exactly:"
         },
         {
           "t": "q",
-          "x": "\"Men are disturbed, not by things, but by the principles and notions which they form concerning things. Death, for instance, is not terrible, else it would have appeared so to Socrates. But the terror consists in our notion of death that it is terrible.\" (Epictetus, [Enchiridion 5, Long translation, MIT Classics](https://classics.mit.edu/Epictetus/epicench.html))",
+          "x": "\"Men are disturbed not by the things which happen, but by the opinions about the things: for example, death is nothing terrible, for if it were, it would have seemed so to Socrates; for the opinion about death, that it is terrible, is the terrible thing.\" (Epictetus, [Enchiridion 5, Perseus translation](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0557.tlg002.perseus-eng3:5/?right=perseus-eng4))",
           "s": null
         },
         {
           "t": "p",
-          "x": "I would not lean on the convergence as evidence of anything more than the line itself; two traditions drawing it is a reason to take the line seriously. What the Stoic version adds is the location of the lever. If the disturbance is in the notion, the work is on assent, the moment I sign off on the reading of the event. The Buddhist version works on craving and the reflexes of the mind; the Stoic version works on judgment and the signature I put under it. A person can choose which handle suits their hand."
+          "x": "The two traditions agree on the line and differ on the work. The Buddhist version works on craving and the reflexes of the mind; the Stoic version works on assent, the moment I sign off on the reading of an event. A person can try each and keep the one that fits their case."
         },
         {
           "t": "h2",
@@ -16888,15 +16888,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Then the diagnosis runs out. Some of what happens cannot be traced to my opinions about it, and pretending otherwise is its own cruelty: telling someone whose child has died that their grief is a judgment problem. Jaspers's term for these is [limit situations (Grenzsituationen)](card:Limit%20situations%20%28Grenzsituationen%29): moments of dread, guilt or acute anxiety in which the mind confronts the restrictions of its own forms. His claim is careful. These situations cannot be resolved; the response to them is not a solution but an illumination, a clarification of what life is. [ST289 — Jaspers's Shipwreck](card:ST289%20%E2%80%94%20Jaspers%27s%20Shipwreck) holds the image: we are always in situations, we cannot live without struggling against them, and we cannot fundamentally change them."
+          "x": "Then the diagnosis runs out. Some of what happens cannot be traced to opinions about it, and pretending otherwise is its own cruelty: telling someone whose child has died that their grief is a judgment problem. Jaspers called the remaining territory [limit situations (Grenzsituationen)](card:Limit%20situations%20%28Grenzsituationen%29), and his account of the response is not a solution but a new self-consciousness beyond the old forms ([SEP, Karl Jaspers](https://plato.stanford.edu/entries/jaspers/)). [ST289 — Jaspers's Shipwreck](card:ST289%20%E2%80%94%20Jaspers%27s%20Shipwreck) gives Jaspers's own metaphor: we are always in situations, we cannot live without struggling against them, and we cannot fundamentally change them."
         },
         {
           "t": "p",
-          "x": "The oldest version of the same honesty is [Job](card:ST290%20%E2%80%94%20Job%20and%20the%20Whirlwind). Job loses everything, refuses his friends' explanations, and demands an answer; God answers from the whirlwind with questions, not explanations, and the friends are the book's real targets. What a person does inside that silence is Frankl's subject. In the camps, [Frankl](card:T019%20%E2%80%94%20Frankl%2C%20Viktor) held that the last of the human freedoms is the choosing of one's attitude in a situation from which everything else has been taken, so that life's meaning includes the potential meaning of unavoidable suffering ([The meaning of suffering](card:The%20meaning%20of%20suffering))."
+          "x": "Job's story holds the same refusal of easy explanation. Job loses everything, refuses his friends' explanations, and demands an answer; God answers from the whirlwind with questions, and the friends are the book's real targets. What a person does inside that silence is [Frankl](card:T019%20%E2%80%94%20Frankl%2C%20Viktor)'s subject ([The meaning of suffering](card:The%20meaning%20of%20suffering)). His own line is careful: meaning is available even through suffering, provided the suffering is unavoidable; if it is avoidable, the meaningful thing to do is to remove its cause; when a person cannot change the situation, he can still choose his attitude ([Frankl, The Case for a Tragic Optimism](http://fabian.ca/sites/default/files/Frankl%20-%20Search%20for%20Meaning%20%28excerpt%29.pdf))."
         },
         {
           "t": "p",
-          "x": "[Tragic optimism](card:Tragic%20optimism) is his name for the yes to life in spite of the tragic triad of pain, guilt and death. [E064 — Practise meaning through the attitude toward suffering](card:E064%20%E2%80%94%20Practise%20meaning%20through%20the%20attitude%20toward%20suffering) is the practice form, and [ST311 — Frankl's Why](card:ST311%20%E2%80%94%20Frankl%27s%20Why) carries the caution I would keep attached to it: meaning does not remove suffering, it changes the relation to it."
+          "x": "[Tragic optimism](card:Tragic%20optimism) is his name for the stance: saying yes to life in spite of the tragic triad of pain, guilt and death. The stance is not a command; Frankl explicitly bars commanding optimism, in oneself or in others. [E064 — Practise meaning through the attitude toward suffering](card:E064%20%E2%80%94%20Practise%20meaning%20through%20the%20attitude%20toward%20suffering) is the practice form, and [ST311 — Frankl's Why](card:ST311%20%E2%80%94%20Frankl%27s%20Why) carries the caution I would keep attached to it: meaning does not remove suffering, it changes the relation to it."
+        },
+        {
+          "t": "p",
+          "x": "[Amor fati](card:Amor%20fati) is the other stance toward the necessary: \"a man wishes nothing to be different, either in front of him or behind him, or for all eternity. Not only must the necessary be borne... but it must also be loved\" ([Ecce Homo, Gutenberg](https://www.gutenberg.org/files/52190/52190-h/52190-h.htm)). The Buddhist path takes the same fact from the other side: the second Noble Truth names craving, wanting, for sensuality, for becoming, for non-becoming, as the origin of suffering and sets abandoning it as the task ([SN 56.11](https://www.dhammatalks.org/suttas/SN/SN56_11.html)). I read the two as different emphases rather than rivals: the loving helps where a person is at war with what has already happened, and the abandoning helps where the wanting itself is the wound. Whether the two combine, love of fate together with the end of craving, the sources gathered here do not settle."
         },
         {
           "t": "h2",
@@ -16908,11 +16912,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The clinical counterpart of the second-arrow distinction is acceptance, and the research definition is behavior, not mood. [Chronic pain acceptance](card:Chronic%20pain%20acceptance) means engagement in activity with pain present, without restrictions by pain or attempts to avoid or control it (the McCracken and Vowles definition the card carries). What follows the event is [meaning-making](card:Meaning-making), Park's model of the response to events that violate belief: either the event's meaning is revised, or the global meaning it violated is."
+          "x": "The clinical counterpart of the second-arrow distinction is acceptance, and the research definition is behavior, not mood. [Chronic pain acceptance](card:Chronic%20pain%20acceptance) means, in McCracken and Vowles's definition, a behavior pattern of engagement in activity with pain present, without restrictions by pain or attempts to avoid or control it ([definition quoted in the chronic-pain literature](https://pmc.ncbi.nlm.nih.gov/articles/PMC5032639/)). What follows the event is [meaning-making](card:Meaning-making), Park's model: distress arises from the gap between the meaning an event carries and the global meaning it violated, and the work goes to one side of the gap or the other ([Park's meaning-making model](https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v15.i2.p40/1041))."
         },
         {
           "t": "p",
-          "x": "The findings here are descriptive, not a promise. [Post-traumatic growth](card:Post-traumatic%20growth) names positive changes some people report after struggling with crisis, and the card's own boundary is the one I would keep in front of every reader: growth is not inevitable, and reporting it must never become an expectation laid on the injured. [Benefit finding](card:Benefit%20finding) is the narrower cousin, finding good in adversity, distinguished on its card from benefit received from a giver."
+          "x": "The findings here are descriptive, not a promise. [Post-traumatic growth](card:Post-traumatic%20growth) names positive change experienced as a result of the struggle with highly challenging life circumstances, and Tedeschi and Calhoun, who coined the term, are explicit that growth is not inevitable and that virtually everyone reporting it also acknowledges distress ([their conceptual foundations](https://ptgi.uncc.edu/wp-content/uploads/sites/9/2013/01/PTG-Conceptual-Foundtns.pdf)). [Benefit finding](card:Benefit%20finding) is the narrower cousin: finding good in adversity, as distinct from benefit received from a giver."
         },
         {
           "t": "p",
@@ -16920,7 +16924,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Two principles hold the edges of the whole territory: [M020 — Accept suffering as a teacher, without seeking it](card:M020%20%E2%80%94%20Accept%20suffering%20as%20a%20teacher%2C%20without%20seeking%20it) (the caution is in the title) and [SP095 — Convert suffering into understanding at the moment of loss](card:SP095%20%E2%80%94%20Convert%20suffering%20into%20understanding%20at%20the%20moment%20of%20loss) (a moment's work, not a life plan). The preventive side, [Y011 — Prevent suffering before it arrives](card:Y011%20%E2%80%94%20Prevent%20suffering%20before%20it%20arrives), closes the loop: some suffering is forestalled by ordinary care, and refusing to romanticize what remains is not fatalism."
+          "x": "Two principles hold the edges of the territory. [M020 — Accept suffering as a teacher, without seeking it](card:M020%20%E2%80%94%20Accept%20suffering%20as%20a%20teacher%2C%20without%20seeking%20it) carries its own caution in its second half. [SP095 — Convert suffering into understanding at the moment of loss](card:SP095%20%E2%80%94%20Convert%20suffering%20into%20understanding%20at%20the%20moment%20of%20loss) is a moment's work, not a life plan. The preventive side, [Y011 — Prevent suffering before it arrives](card:Y011%20%E2%80%94%20Prevent%20suffering%20before%20it%20arrives), closes the loop: some suffering is forestalled by ordinary care, and refusing to romanticize what remains is not fatalism."
         },
         {
           "t": "h2",
@@ -16928,43 +16932,20 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The first arrow has its own science, and it does not say what folk wisdom expects. [Gate control theory of pain](card:Gate%20control%20theory%20of%20pain), Melzack and Wall, holds that spinal gates regulated by descending signals and touch determine how much pain reaches the brain; the mental story about the arrow is not separate from the traffic. Melzack's later [neuromatrix theory of pain](card:Neuromatrix%20theory%20of%20pain) goes further: pain as a multidimensional experience produced by neurosignature patterns of a widely distributed network, sometimes generated independently of sensory input. Neither theory makes pain imaginary; both make it a product of the whole system rather than a simple wire from injury to feeling."
+          "x": "The first arrow has its own science. Melzack and Wall's [gate control theory of pain](card:Gate%20control%20theory%20of%20pain) changed the field's picture: the brain is an active system that filters, selects and modulates inputs, and the dorsal horns are sites of inhibition, excitation and modulation, not passive relay stations ([Melzack's own retrospective](https://pubmed.ncbi.nlm.nih.gov/10491980/)). His later [neuromatrix theory of pain](card:Neuromatrix%20theory%20of%20pain) goes further: a widely distributed neural network whose output pattern evokes pain, integrating sensory, cognitive and emotional inputs. Neither theory makes pain imaginary; both make it a product of the whole system rather than a simple wire from injury to feeling."
         },
         {
           "t": "p",
-          "x": "That is why the meditation tradition has an instrument for it. [The pain curve](card:The%20pain%20curve) is the practice of watching a painful sensation long enough to see it arrive, change and pass, instead of treating it as a fixed wall. Montaigne made the same observation from illness rather than doctrine: [the body-mind unity in pain](card:The%20body-mind%20unity%20in%20pain), the suffering of pain bound up with apprehension, expectation and attachment shaping how illness is borne. The sciences of the arrow and the practices of the story meet in the same place."
+          "x": "That is why the meditation tradition has an instrument for it. The [pain curve](card:The%20pain%20curve) instruction: when pain arises in sitting, observe it a few times, return to the breath, and watch it objectively, knowing it arises from causes and vanishes when they disappear ([Dhammasami's instruction](https://www.wisdomlib.org/buddhism/article/mindfulness-meditation-made-easy/d/doc1640.html)). Montaigne made the same observation from illness rather than doctrine ([the body-mind unity in pain](card:The%20body-mind%20unity%20in%20pain)):"
         },
         {
-          "t": "h",
-          "x": "Where the traditions genuinely disagree"
-        },
-        {
-          "t": "h2",
-          "x": "Does suffering have a purpose?"
+          "t": "q",
+          "x": "\"Suffering itself less afflicts the senses than the apprehension of suffering.\" (An old author's saying, quoted in [Montaigne, Essays, Gutenberg vol. 18](https://www.gutenberg.org/cache/epub/3598/pg3598.html))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "Picture two people in hospital beds with the same injury. One is asked to find what her pain is teaching her; the other is asked what would help her most tonight. Are they being given the same task?"
-        },
-        {
-          "t": "p",
-          "x": "The traditions answer different questions here, and their answers do not exclude each other, which is why the disagreement is easy to miss. Frankl's material holds that meaning is available in unavoidable suffering: a claim about what a person can still do inside it. The Buddhist material holds that much suffering is manufactured by clinging: a claim about how part of it arises. Job's story holds that the reason for it is not given: a claim about explanation. I find the three positions most useful when kept separate, because each has been used to do the others' jobs badly. Frankl's claim, stretched, becomes an instruction to find meaning in what should be relieved; the Buddhist claim, stretched, becomes a verdict on those who did not manage to drop their second arrow; Job's, stretched, becomes a general refusal to look for causes."
-        },
-        {
-          "t": "h2",
-          "x": "Is acceptance the same as resignation?"
-        },
-        {
-          "t": "p",
-          "x": "The word acceptance invites the suspicion, and the traditions that used it hardest all built the distinction into their definitions. The chronic-pain acceptance definition is engagement in activity with pain present: a behavior pattern, observable in what a person does, not a mood of giving up. The Stoic material separates assent to a judgment from approval of an event: one can assent that a thing happened without ruling that it should have. Both literatures hold the line, and I hold it with them. What resignation looks like, in the observable sense, is withdrawal from activity and from people; what acceptance looks like is the same life, carried with the pain in it rather than around it."
-        },
-        {
-          "t": "h2",
-          "x": "Can suffering be prevented?"
-        },
-        {
-          "t": "p",
-          "x": "Here the disagreement is real and not resolvable by picking a side. Y011's preventive principle says yes, some suffering yields to ordinary care before it arrives: safety, health, relationships maintained. The limit-situation material says some of it does not: death, guilt and struggle are not design flaws to be engineered away. The two claims meet on the honest boundary, and the boundary is where the practical judgment lives. My own working rule is to act as if the suffering in front of me is preventable until the evidence says otherwise, and to stop treating the unpreventable remainder as a failure of technique."
+          "x": "The clinical line of the same question is [chronic pain research](card:Chronic%20pain%20research): what beside the pain itself is associated with disability and distress. In McCracken's 1998 study of 160 adults with chronic pain, greater acceptance of pain came with lower pain intensity, less pain-related anxiety and avoidance, less depression, less physical and psychosocial disability, more daily uptime, and better work status, and the low correlation between acceptance and pain intensity showed acceptance is not simply a function of having little pain. The catastrophizing line studies the mental set a person brings to the pain, an exaggerated negative mental set during actual or anticipated painful experience, with rumination, magnification and helplessness as its parts."
         },
         {
           "t": "h",
@@ -16978,7 +16959,7 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Selection",
-          "x": "Choose one exercise from below and run it for a week at the moments of ordinary pain: stubbed toes, headaches, hard conversations. The point is practice on small arrows, so the skill exists before a large one arrives."
+          "x": "Choose one exercise from below and run it at the moments of ordinary pain: stubbed toes, headaches, hard conversations. The point is practice on small arrows, so the skill exists before a large one arrives."
         },
         {
           "t": "h2",
@@ -16987,39 +16968,35 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 1,
-          "x": "[B182 — Separate pain from suffering — daily](card:B182%20%E2%80%94%20Separate%20pain%20from%20suffering%20%E2%80%94%20daily): at the moment of pain, name the first arrow in one plain sentence, then look for the second. Notice whether naming the second one loosens it, and do not force the loosening."
+          "x": "[B182 — Separate pain from suffering — daily](card:B182%20%E2%80%94%20Separate%20pain%20from%20suffering%20%E2%80%94%20daily): at the moment of pain, name the first arrow in one plain sentence, then look for the second. Notice whether naming the second one loosens it."
         },
         {
           "t": "n",
           "i": 2,
-          "x": "[The pain curve](card:The%20pain%20curve): when a painful sensation arrives, watch it long enough to see it change or pass, instead of treating it as a wall. Notice what changes in the suffering when the sensation is watched rather than fled."
+          "x": "[K397 — Approach, don't avoid (the mouse in the maze)](card:K397%20%E2%80%94%20Approach%2C%20don%27t%20avoid%20%28the%20mouse%20in%20the%20maze%29): when you notice bracing against a task, a conversation or a feeling, ask which direction you are facing, toward or away. If the answer is away, rewrite the same act in the direction of what you want, do it once, and notice whether the mind feels wider or narrower after."
         },
         {
           "t": "h2",
-          "x": "Watch what relief costs"
+          "x": "Accept what cannot change"
         },
         {
           "t": "n",
           "i": 3,
-          "x": "[AF035 — Recognise that avoidance is negatively reinforcing](card:AF035%20%E2%80%94%20Recognise%20that%20avoidance%20is%20negatively%20reinforcing%20%E2%80%94%20it%20works%20short-term%20and%20maintains%20suffering%20long-term): for one week, notice each time relief is being bought by avoidance, in procrastination, distraction or withdrawal. Notice what the purchase leaves behind the next day."
-        },
-        {
-          "t": "h2",
-          "x": "Work where the situation cannot be chosen"
+          "x": "[K123 — Radical acceptance](card:K123%20%E2%80%94%20Radical%20acceptance): accept the reality of a situation you cannot change, as acknowledgment rather than approval. Notice the difference in the body between fighting the fact and admitting it."
         },
         {
           "t": "n",
           "i": 4,
-          "x": "[E064 — Practise meaning through the attitude toward suffering](card:E064%20%E2%80%94%20Practise%20meaning%20through%20the%20attitude%20toward%20suffering): where the situation cannot be changed, ask what is still choosable in it, starting with the attitude taken toward the day. Notice whether the question opens anything, and drop it if it only produces guilt."
+          "x": "[K319 — Non-avoidant grief work](card:K319%20%E2%80%94%20Non-avoidant%20grief%20work): when grief arises, allow it without rushing to resolve it, and name what has been lost. Keep the engagement time-limited; the practice is deliberate approach, not open-ended rumination."
         },
         {
           "t": "h2",
-          "x": "Break the isolation"
+          "x": "Keep the question open"
         },
         {
           "t": "n",
           "i": 5,
-          "x": "[SE026 — Recognise common humanity](card:SE026%20%E2%80%94%20Recognise%20common%20humanity%20%E2%80%94%20your%20suffering%20is%20not%20unique%20or%20isolating): when suffering feels like a verdict on you alone, look for one person, living or historical, who has carried something like it. Notice whether the isolation survives the recognition."
+          "x": "[K351 — The meaning question](card:K351%20%E2%80%94%20The%20meaning%20question): where the situation cannot be changed, put the question of what this life is for in writing, without answering it, and note what the question does to the day that asks it. If the search turns into rumination, the same movement repeated with no change in living, stop and take the question for a walk instead."
         },
         {
           "t": "vs",
@@ -17040,7 +17017,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST078 — The Two Arrows](card:ST078%20%E2%80%94%20The%20Two%20Arrows): a well-taught person struck by one arrow feels one; the untaught, struck by the same arrow, feels two. The sutta notes drily that the first arrow is not optional."
+          "x": "[ST078 — The Two Arrows](card:ST078%20%E2%80%94%20The%20Two%20Arrows): the well-taught person struck by one arrow feels one; the untaught, struck by the same arrow, feels two. The first arrow, on the sutta's own telling, is not optional."
         },
         {
           "t": "p",
@@ -17052,7 +17029,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST289 — Jaspers's Shipwreck](card:ST289%20%E2%80%94%20Jaspers%27s%20Shipwreck): death, chance, guilt and struggle as the structures that cannot be avoided or changed; the response is an illumination, not a solution."
+          "x": "[ST289 — Jaspers's Shipwreck](card:ST289%20%E2%80%94%20Jaspers%27s%20Shipwreck): Jaspers, a psychiatrist excluded from his university post by the Nazis, describes limit situations as the structures that cannot be avoided or changed, death, chance, guilt and struggle; the response is an illumination, not a solution."
         },
         {
           "t": "p",
@@ -17064,7 +17041,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST311 — Frankl's Why](card:ST311%20%E2%80%94%20Frankl%27s%20Why): the line that he who has a why to live can bear almost any how, carried with Frankl's own caution that meaning changes the relation to suffering rather than removing it."
+          "x": "[ST311 — Frankl's Why](card:ST311%20%E2%80%94%20Frankl%27s%20Why): the camps memoir grounds its account of survival in the Nietzschean line, he who has a why to live can bear almost any how, and Frankl's use of it is careful: meaning does not remove suffering, it changes the relation to it."
         }
       ],
       "group": "challenges",
