@@ -227,3 +227,21 @@ chapters 3 to 6 verified but unassigned; lecture 1 orientation assignment (no ma
 it); the stereotypes/IAT row PROPOSED pending the scope decision; Howard transcript retrieval.
 Coverage and pedagogical gates remain pending independent confirmation; the Phase 0 pilot stop-
 gate still blocks module production.
+- 2026-10-25 strategist-pplx-1025-launch-c (degrees-strategist, stale-baton
+  takeover): practice pilot mod-qg-3 taken through advisor QC rounds 2 to 4.
+  Round 4 finding of record: QG-M03-01 (https://videos.yoqi.com/video/959)
+  FAILS the skill's accessibility standard on page-level evidence - the
+  page's own video metadata marks the video accessible:false, public:false
+  (purchases and rentals not allowed), a VIDEO ON DEMAND LOGIN is present
+  and the page HTML contains no playable source; an anonymous visitor
+  cannot play it. Removed from the pilot's required sequence; the
+  5-minute gallery tier candidate in verify/deg-cmp.md is the SAME
+  resource and fails with it. Replacement candidate S0ZqKo0KQvA
+  (Stillness Studio Sanctuary, 5-minute guided standing) oembed-verified;
+  duration and recording-level content unverified from this session
+  (watch page JS-blocked, innertube LOGIN_REQUIRED, cloud-browser stream
+  not loading) and left open for the verification band. Pilot remains
+  DRAFT NOT CLEARED. Owner flags: YoQi VOD access ruling; the earlier
+  "no paywall visible" note in the pilot is superseded by the metadata
+  reading. Phase 0: theory pilot passed; practice pilot one verification
+  round from closure.

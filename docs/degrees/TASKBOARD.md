@@ -64,6 +64,24 @@ reference, unique source ids in brackets):
 
 ## Degree checkpoints
 
+- 2026-10-25 strategist-pplx-1025-launch-c (degrees-strategist, stale-baton
+  takeover): practice pilot mod-qg-3 pushed through four advisor QC rounds
+  this session. QG-M03-01 found FAILING the accessibility standard (page
+  metadata accessible:false, public:false, VOD login, no playable source
+  in the page) and removed from the required sequence; the 5-minute
+  gallery tier candidate identified as the SAME resource. Replacement
+  candidate located and oembed-verified (S0ZqKo0KQvA, Stillness Studio
+  Sanctuary, 5-minute guided standing tree meditation); duration and
+  recording-level content NOT verified (watch page blocked from this
+  environment) - verification band item. Pilot now carries coherent
+  fictional worked example, self-assessment checklist, aligned
+  14-week schedule with four assessed 15-minute stands, workload 799
+  minutes with no required-recording time. Pilot remains DRAFT NOT
+  CLEARED pending final advisor verification; flags for the owner:
+  YoQi VOD access ruling (QG-M03-01 and its gallery twin). Phase 0
+  pilot condition: theory pilot passed, practice pilot one
+  verification round from closure.
+
 - 2026-10-25 worker-pplx-psychdim-2 (deg-psychdim): deg-psychdim content-verification push COMPLETE,
 QC PENDING INDEPENDENT CONFIRMATION (advisor ran seven content-QC rounds; the last five rounds'
 corrections are applied and the final round found no further blocker in the inspected batches 24 to
