@@ -8,7 +8,7 @@ CANDIDATE DRAFT, UNPUBLISHED. Registry entry stays "planned"; batch in_progress 
 
 ## Verification record (rerun 2026-10-25 ~05:10Z)
 
-dossier_quote_verify (rerun 2026-10-25 ~05:10Z after nested-factor addition): 19 checked, 5 not found.
+dossier_quote_verify (rerun 2026-10-25 ~05:12Z after ADHD subsection addition): 23 checked, 5 not found (same five documented patterns; the DeWitt 2020 UPenn PDF quotes passed the automated run).
 - PubMed challenge-page pattern (x4): Hagger 2016 (x2 spans), Muraven 1999 (x1), and the verifier's fetch of PubMed URLs returns a JavaScript challenge page with no abstract; all three abstracts opened independently and spans verified verbatim by eye.
 - Miyake & Friedman 2012 (PMC3388901, x1): PMC blocked-fetch pattern for automated verification; all three quoted spans verified verbatim by eye against the opened article.
 - Miles 2016 (x1): the quote is verbatim in the opened PDF; the miss is a verifier extraction artifact, now precisely diagnosed: the verifier's HTML-tag-stripping regex (re.sub(r'<[^>]+>',' ',s)) swallows a 16,451-character span running from a "< .001" statistic to a later ">" in the pdftotext output, removing the sentence containing the quote. Verified by direct pdftotext extraction.
