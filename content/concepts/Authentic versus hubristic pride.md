@@ -12,6 +12,10 @@ Tracy and Robins's two-facet model splits pride into two components with differe
 
 > "Authentic pride is the more socially desirable, achievement-oriented facet, associated with accomplishment and confidence. Hubristic pride is the more narcissistic facet, associated with arrogance and conceit." (Tracy, Cheng, Robins and Trzesniewski, [Authentic and Hubristic Pride: The Affective Core of Self-esteem and Narcissism](https://scispace.com/pdf/authentic-and-hubristic-pride-the-affective-core-of-self-4b4lave9ch.pdf), Self and Identity 8(2):196-213, 2009)
 
+### What the studies found
+
+The 2009 paper's abstract states the core result: "when narcissistic and genuine self-esteem are empirically distinguished, genuine self-esteem (along with authentic pride) is positively related to successful social relationships and mental health, whereas narcissistic self-aggrandizement (along with hubristic pride) is positively related to aggression and other antisocial behaviors" (Tracy et al. 2009). A follow-up study of 936 undergraduates traced the divergence into goal regulation: "Only Authentic Pride related to Life Engagement (the sense of purpose in life) and Goal Reengagement (the tendency to take on a new goal after a loss)" (Carver and Johnson 2011). The same study found the facets mirror each other on control: "Authentic pride related positively to Conscientiousness, Self-Control, and Attention Control, and inversely to emotional impulsiveness. Hubristic pride also related significantly to the same measures, but in each case in the opposite direction" (Carver and Johnson 2011). The authors' closing caution: "Although pride might intuitively be considered a positive emotion, convergent findings suggest the importance of a more nuanced conceptualization of the positive and negative aspects of pride" (Carver and Johnson 2011).
+
 ### Here
 
 - [[AF068 — Cultivate pride (authentic, not hubristic) — it consolidates achievement]] — uses the two-facet distinction directly
@@ -30,6 +34,7 @@ Tracy and Robins's two-facet model splits pride into two components with differe
 - Tracy & Robins, 2007
 - Tracy, Cheng, Robins and Trzesniewski, 2009
 - [Tracy, Cheng, Robins and Trzesniewski, "Authentic and Hubristic Pride: The Affective Core of Self-esteem and Narcissism" (Self and Identity 8(2):196-213, 2009, open PDF)](https://scispace.com/pdf/authentic-and-hubristic-pride-the-affective-core-of-self-4b4lave9ch.pdf) — source for the facet definitions, the attributional account and the correlates
+- [Carver and Johnson, "Authentic and Hubristic Pride: Differential Relations to Aspects of Goal Regulation, Affect, and Self-Control", Journal of Research in Personality, 2011 (PMC full text)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3137237/) — the goal-regulation, self-control and aggression findings
 
 ## Cited in psychology parallels
 
