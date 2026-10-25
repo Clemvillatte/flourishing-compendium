@@ -52,7 +52,7 @@
    ]
   },
   "s1e-003": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "B176 present moment as miracle: Brother Lawrence - the kitchen where business and prayer became the same thing; the straw picked up for love",
    "history": [
     {
@@ -78,6 +78,11 @@
      "t": "2026-10-25T13:28:08+00:00",
      "to": "qc_pending",
      "note": "advisor milestone QC (2026-10-25) returned item for repairs: humanizer contrast scaffolds, unverified claims, or record correction"
+    },
+    {
+     "t": "2026-10-25T13:41:30+00:00",
+     "to": "ready",
+     "note": "advisor QC round 4 cleared: opening restructured, skillet removed, quotes verbatim; ready"
     }
    ]
   },
@@ -143,7 +148,7 @@
   },
   "s1e-006": {
    "status": "qc_pending",
-   "angle": "B075 thinker is another thought: Ramana's death-drama at sixteen - the self-inquiry search for the one who dies, run on his own person, finds the I-thought persisting through the dying body; the teaching made it a method",
+   "angle": "B075 thinker is another thought: Ramana's death-drama at sixteen - the self-inquiry search for the one who dies, run on his own person, finds the 'I' (the Spirit, in his conclusion) persisting through the dying body; the teaching made it a method",
    "history": [
     {
      "t": "2026-10-21T12:48:15+00:00",
@@ -242,5 +247,5 @@
    ]
   }
  },
- "updated": "2026-10-25T13:38:24+00:00"
+ "updated": "2026-10-25T13:41:30+00:00"
 }
