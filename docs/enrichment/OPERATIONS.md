@@ -1892,3 +1892,12 @@ The advisor's final verification caught overstated records in this session's QC 
   card links, 20 headers, 18 carriers), 0 dense, quote_verify 30
   checked / 7 not found, all 7 misses ledger-documented (Wiley
   paywalls, Kant PDF extraction mismatch, Trungpa PDF).
+
+# Supervisor QC entry 38 — 2026-10-25 05:29Z (supervisor-pplx-1025h)
+
+- the-self dossier (published exemplar): QC sample — the
+  self-categorization theory span ("was developed by John Turner and
+  colleagues, and along with social identity theory it is a
+  constituent part of the social identity approach") verified
+  verbatim against the cited Wikipedia article's extract. No edits
+  required.

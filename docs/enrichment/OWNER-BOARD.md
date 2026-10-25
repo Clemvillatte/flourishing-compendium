@@ -73,3 +73,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 ~05:27Z supervisor-pplx-1025h: QC sample wisdom dossier PASS (Aristotle NE VI.7 + Plato Apology verbatim); worker health check clean.
 - 2026-10-25 ~05:28Z supervisor-pplx-1025h: QC sample anger dossier PASS (Seneca De Ira verbatim modulo apostrophe encoding); gratitude checks green.
 - 2026-10-25 ~05:26Z supervisor-pplx-1025h RULING (sadness-and-grief rebuild, from the 04:57Z flag): no rebuild — the cited uwosh.edu carrier is live again (HTTP 200, per the 05:01Z recheck); production keeps the live original, and the archived-carrier swap stays available to the owner if preferred.
+- 2026-10-25 ~05:29Z supervisor-pplx-1025h: QC sample the-self PASS (SCT span verbatim vs Wikipedia).
