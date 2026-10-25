@@ -31,6 +31,7 @@ For example: saving for retirement feels abstract. A target of "first $10,000 sa
 
 - **[[Temporal discounting|Temporal discounting]]**, people's pacing reflects a hyperbolic curve (Steel et al., 2018); Frederick et al. (2002) not verified here
 - **[[Temporal motivation theory|Temporal motivation theory]]**, motivation decreases with delay and increases with immediacy (Steel & König, 2006)
+- **[[Delay reduction hypothesis|Delay reduction hypothesis]]**, the animal-learning mechanism behind the immediacy effect: stimuli that signal a shorter wait to reinforcement become stronger conditioned reinforcers (Fantino 1969, via Zentall et al. 2018)
 - **Procrastination as temporal failure**, procrastinators are more susceptible to the proximity of temptation and to the gap between intention and the planned act (Steel et al., 2018); the mood-repair claim (Sirois & Pychyl, 2013) is not verified here
 
 ## Philosophy parallels

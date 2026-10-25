@@ -23,7 +23,7 @@ My earlier note credits "Chung, Herrnstein" and says immediacy is the powerful v
 
 ### Here
 
-- [[SO046 — Guard against in-group bias]] is the principle this concept was filed under. Nothing on that principle's page mentions delay or reinforcement, so the connection is not supported by the pages themselves.
+- [[MO005 — Recognise that motivation is temporal — delay reduces motivation]] is the principle this concept is filed under: it supplies a mechanism, on the animal-learning evidence, for why delay reduces the pull of a reward.
 - [[Temporal discounting]] — the wider study of how delay lowers the value of rewards
 - [[Temporal motivation theory]] — a human-motivation model in which delay also matters
 
