@@ -3358,3 +3358,38 @@ supervisor because queue files are normally supervisor-minted):
   unsupported "grounds all the other ngā" claim removed (it rested on the dead
   citation). Prose expanded past the 150-word floor; enrich_validate passes
   (warning: fewer than 3 related-concepts lines — pre-existing).
+
+## Repair-pass enumeration (supervisor-pplx-1025h, 2026-10-25 05:20Z)
+
+Method: count of `###` question headings inside "Where the traditions
+genuinely disagree" per `docs/enrichment/dossiers/<slug>.md`
+(grep-reproducible; a heading is a proxy for one dispute question, not
+a substantiation audit — the owner bar is 3-5 SUBSTANTIATED disputes
+per dossier).
+
+Below the 3-question lower bound (28 dossiers):
+- No disagreement section at all (0): frustration, leisure,
+  meaning-and-mortality, right-effort, right-intention,
+  right-mindfulness, right-view, suffering
+- One question: acceptance, agency, anger, cognition, creation, goals,
+  others, procrastination, right-concentration, right-livelihood,
+  right-speech
+- Two questions: affect, attention, executive-functions, motivation,
+  overload-overwhelm, right-action, sadness-and-grief, the-self,
+  uncertainty
+
+Caveats for the next supervisor/worker:
+1. The prior supervisor's QC-label count listed six targets
+   (frustration, right-effort, passion, acceptance, envy, leisure);
+   `passion` and `envy` have no dossier files (different slugs or
+   pending) — resolve the slug mapping before assigning.
+2. Live workers may already be on some of these: right-view (dos18
+   was live this session), executive-functions (dos35 minted
+   2026-10-25). Check `scripts/baton.py status` before claiming.
+3. Anger and the-self are exemplars and still show 1-2 question
+   headings — confirm with the owner whether the 3-5 bar applies
+   retroactively to the exemplars before repairing them.
+4. Highest priority for the next 3-5-bar repair worker: the
+   no-section dossiers (frustration, leisure, meaning-and-mortality,
+   right-effort, right-intention, right-mindfulness, suffering),
+   avoiding live bands.
