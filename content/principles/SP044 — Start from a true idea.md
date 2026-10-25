@@ -19,7 +19,7 @@ Method, for Spinoza, is "reflective knowledge, or the idea of an idea", and "the
 No external mark of truth is needed: "for the certitude of truth, no further sign is necessary beyond the possession of a true idea" (§35). The tools analogy guards against an infinite regress of methods: to work iron you need a hammer, but the first tools came from what nature supplied, and likewise "a true idea must necessarily first of all exist in us as a natural instrument" (§39). The work the treatise sets is reflecting on an idea already possessed, examining how understanding it differs from a guess.
 
 **Plain words**
-You can know an answer before explaining how you know it. Spinoza calls method the work of reflecting on that knowledge. Start with something you understand and examine how that understanding differs from a guess.
+Spinoza's method starts from a truth you already hold, not from doubt. The work he calls method is looking back at how a genuine understanding differs from a guess, so the difference can be repeated. Practically: take something you actually understand, and study what makes the knowing feel different from merely asserting.
 
 *For example:* a learner works through and checks a calculation, then explains the reasoning used to establish the result.
 

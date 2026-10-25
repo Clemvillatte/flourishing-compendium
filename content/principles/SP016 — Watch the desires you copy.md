@@ -21,7 +21,7 @@ The explanation attached to that definition distinguishes emulation from imitati
 As an examination prompt rather than a verdict, the definition suggests asking, when a wish appears alongside other people's enthusiasm, what appeals about the thing itself.
 
 **Plain words**
-When someone else's enthusiasm starts a wish of your own, look at what appeals about the thing. Would you enjoy using it? Does it fit something you want to do? The questions are for examining a shared desire, not for rejecting it automatically; a want that others share can still be yours.
+A borrowed enthusiasm is still an enthusiasm; the exam question is what the thing itself would do for you. Name the use you would make of it before following anyone's recommendation. The test is not whether others want it, but whether the want survives being asked what it is for. It sometimes does.
 
 *For example:* Imagine wanting a camera after a colleague describes theirs. Before buying the same model, name the photographs you would take and whether the camera you already own would serve them.
 
