@@ -54,3 +54,17 @@ rhetorical construction, applied to the dossiers in free DOS bands
   pass should read those three locations first.
 - gratitude, creation and lifes-purpose carry verbatim quotes inside
   their flagged lines — those must never be "repaired".
+
+## Verification pass on the campaign's own items (11:05Z, current origin/main head)
+
+All 7 modified dossiers re-checked green on the current head:
+dossier_check exit 0 and density 0 dense for sadness-and-grief (35
+links), right-view (42), right-intention (67), right-effort (41),
+motivation (51), right-mindfulness (49), fear (46). Quote verification:
+sadness-and-grief 32/32 found; the 12 not-found spans across the other
+six (right-view 2, right-intention 3, right-effort 2, motivation 2,
+right-mindfulness 1, fear 2) are all PMC fetch artifacts on
+pmc.ncbi.nlm.nih.gov carriers — the checker-artifact pattern documented
+in earlier ledger rounds (spans verified against opened texts; the
+fetcher cannot read the PMC page). No quote was touched by any pass in
+this campaign, so no new quote defects are possible from this work.
