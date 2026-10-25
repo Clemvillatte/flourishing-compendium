@@ -91,3 +91,29 @@ the predictive-coding account IS this claim).
 
 Checks: dossier_check.py exit 0. Editorial review only; no carriers or
 cards freshly opened this pass. Scope: candidate-line review.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+Following the advisor QC direction after two misattributed entries were
+found in the fear dossier, all 31 concept and principle entries in this
+dossier's map sections were compared against their linked cards (card
+files opened and read side by side with the glosses). Every gloss
+matches its card, including the phenomenological cluster (lived body,
+Merleau-Ponty embodiment, Beauvoir's situated embodiment, Head-Holmes
+body schema, Gallagher body representation, Fuchs body memory, Barsalou
+grounded cognition, Damasio's somatic marker hypothesis, the habit
+body), the interoception cluster (Craig's definition, interoceptive
+awareness, Seth's interoceptive inference, Barlow's interoceptive
+exposure, somatic psychotherapy, Levine's somatic experiencing with
+pendulation), the physiological cluster (autonomic nervous system, HPA
+axis, cortisol awakening response, McEwen's allostatic load, Porges's
+polyvagal theory held as theory, Thayer-Lane neurovisceral integration,
+HRV biofeedback), the breath cluster (Anapanasati, Zhuangzi's rhythm of
+breath, slow-paced breathing with caveats carried, the Balban
+physiological sigh, pranayama, qi, yoga, yangsheng), and the Yoga Sutra
+1.34 principle. No mismatches found; no edits made. This strengthens the
+earlier voice-audit review (all 4 candidates kept): the flagged
+constructions are card-faithful as well as doctrinally sourced.
+
+Checks: dossier_check.py exit 0 (run again this session). Editorial
+review only; no external carriers freshly opened this pass.
