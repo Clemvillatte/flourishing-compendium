@@ -336,3 +336,7 @@ Two earlier spot-audit entries overstated coverage and are corrected here. (1) T
 ## Note — hand-verified quotes re-verified against fresh fetches (2026-10-25, dos3)
 
 The two quotes the automated verifier cannot fetch were re-verified against freshly opened carriers this session, replacing verification claims inherited from compaction. Festinger (panarchy.org, opened): both sentences verbatim; they are non-contiguous in the source, and the dossier quote now marks the splice with an ellipsis. Tversky/Kahneman (Science.org bot-blocked; verified via the PubMed record, PMID 17835457, eutils text abstract): the passage matches verbatim, with the single spelling variant "judgements" in the PubMed rendering against "judgments" in the dossier and the Cognitive biases card, which follows the Science original's spelling.
+
+## Note — spot audit, third round (2026-10-25, dos3)
+
+Further attribution restatements checked against their card bodies: System 1/System 2 (Kahneman's names, borrowed from Stanovich and West), Cognitive-Experiential Self-Theory (Epstein's two systems), motivated reasoning (Kunda 1990), rumination (Nolen-Hoeksema, response styles theory), and need for cognition (Cacioppo and Petty 1982) — each stays within its card's wording, with the cards carrying their own sources. No gloss exceeds its card. The full claim-level audit of every prose gloss remains open.
