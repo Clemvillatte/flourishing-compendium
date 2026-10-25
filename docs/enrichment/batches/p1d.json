@@ -69,9 +69,10 @@
   "AT062",
   "D017",
   "D095",
-  "D133"
+  "D133",
+  "P057"
  ],
- "in_progress": "P057",
+ "in_progress": null,
  "flagged": {
   "D017": "RESOLVED: exact DDJ57/64 quotations, narrowed reward comparison, source QC and voice corrections from independent advisor; pre-repair-baseline validator PASS",
   "BI012": "Supervisor repair independently PASS: Carter exact; Bode association limits; NHS assessment advice; causal anecdote and medical-first rule removed (2026-10-19)",
@@ -87,10 +88,10 @@
   "D071": "reflections comment carries inherited 'frozen-stone' wording not in the opened Legge dialogue (source has stump-of-broken-trunk/branch-of-rotten-tree); reflections are protected so not edited here — supervisor to arbitrate",
   "D107": "inherited Nietzsche/Deleuze comparison block in Philosophy parallels (Colebrook 2002 source note, earlier agent) untouched and unverified in this takeover — supervisor to re-check if desired",
   "B129": "RESOLVED by worker-p1d-1025b 2026-10-25 (per-item verification): repairs confirmed on the current page — the unsourced Zen-tradition claims and the finger/moon image were removed from editable prose at the item-5 milestone QC and the association survives only in the protected reflections comment (checked this session: line 57 sits inside the fc:reflections block); both Bāhiya Sutta blockquotes are verbatim and contiguous against the opened Thanissaro carrier per sources/p1d/B129.md (raw fetch; the closing verse not quoted, no conflation); the exercise is scoped to \"describe one current experience before adding commentary\" with advisor round-2 wording; the evidence file records advisor PASS on the revised body. No page edit needed this session; source verification not repeated; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: QC correction (item-5 milestone): unsourced Zen claims removed; compendium-reading labels applied; advisor PASS on revised body]",
-  "P057": "Reopened for QC: Source-check Mead role-taking and remove reductive Plain words and fabricated child observation"
+  "P057": "RESOLVED: Mead18 quote and p141 scene checked; baseball/generalized-other from20; self-construal theory framed as proposal; original links preserved; validator PASS"
  },
  "missing_concepts": [],
  "sources_checked": 82,
- "updated": "2026-10-25T06:00:39+00:00",
+ "updated": "2026-10-25T06:02:04+00:00",
  "band_done": false
 }

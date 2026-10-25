@@ -12,21 +12,28 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 57** — Your self is social through and through
 
-Mead's core claim, in his own words:
+How can I become someone I can think about? Mead answers through social experience:
 
 > "The self is something which has a development; it is not initially there, at birth, but arises in the process of social experience and activity, that is, develops in the given individual as a result of his relations to that process as a whole and to other individuals within that process." (Mead, Mind, Self and Society, §18, [Mead Project edition](https://brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_18.html))
 
-The mechanism is role-taking. "The individual experiences himself as such, not directly, but only indirectly, from the particular standpoints of other individual members of the same social group, or from the generalized standpoint of the social group as a whole to which he belongs" ([§18, ibid.](https://brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_18.html)). You see yourself through others' eyes first: "he becomes an object to himself only by taking the attitudes of other individuals toward himself within a social environment or context of experience and behavior in which both he and they are involved" ([ibid.](https://brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_18.html)). Hence the child playing doctor and patient: the game is the workshop where borrowed viewpoints get organized into a "me." Markus and Kitayama offer a related account of cultural differences in self-construal: "People in different cultures have strikingly different construals of the self, of others, and of the interdependence of the 2. These construals can influence, and in many cases determine, the very nature of individual experience, including cognition, emotion, and motivation" ([Markus & Kitayama 1991](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf)). On Mead's account, the social construction reaches down to what feels like basic experience; my account is [[The social self]].
+He gives "self" a particular meaning: someone who can become an object to themselves, taking the standpoint of others toward their own conduct ([section 18](https://brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_18.html)). I follow that question through [[The social self]].
+
+His baseball example develops the account. A player has to anticipate how the other positions fit together in a shared activity; Mead calls the organised community's standpoint the "generalized other" ([section 20](https://brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_20.html)). Learning whose response to expect becomes part of learning how to act.
+
+Markus and Kitayama offer a companion account: independent and interdependent construals of self, with proposed consequences for cognition, emotion and motivation ([1991 abstract](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf)).
+
+For my own reflection, the question becomes whose judgement I hear when I judge myself. I can value what I learned from someone while reconsidering a verdict I have carried for too long.
 
 **Plain words**
-On Mead's account, you did not build yourself in private. The voice you argue with in your head uses other people's words; the standards you fail by came off someone's face. That is how the equipment works. The self is a social achievement, which also makes it a social maintenance problem: the company you keep is the material the self is made from, and new viewpoints can still be added.
+When I think about myself, I can ask whose way of seeing me I have taken in. I can also ask which of those judgements I still endorse.
 
-*For example:* The child talking to herself while playing both doctor and patient — rehearsing the looking-glass. That's not cute; that's self-construction, live.
+*For example:* Mead describes someone beginning an unpleasant remark, recognising its cruelty and stopping. The speaker's response to their own words changes what they say next ([section 18, p. 141](https://brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_18.html)).
 
 ## Sources
 
 - [Mead, Mind, Self and Society (1934), §18, The Mead Project, Brock University](https://brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_18.html) — verbatim quotes on self-development and role-taking
-- [Markus & Kitayama, "Culture and the Self: Implications for Cognition, Emotion, and Motivation," Psychological Review 98 (1991) (PDF, MIT)](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf) — opening claim, verbatim
+- [Mead, Mind, Self and Society, section 20, The Mead Project](https://brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_20.html): the baseball illustration and the organised community's standpoint.
+- [Markus & Kitayama, "Culture and the Self: Implications for Cognition, Emotion, and Motivation," Psychological Review 98 (1991) (PDF, MIT)](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf): the proposed self-construal framework.
 
 ## Practice kernels
 
@@ -39,12 +46,12 @@ On Mead's account, you did not build yourself in private. The voice you argue wi
 
 ## Psychology parallels
 
-- **Social self-construal and the looking-glass dynamics**, self-concept is relationally regulated (Markus and Kitayama, 1991; Cross et al., 2000)
+- Independent and interdependent self-construal: Markus and Kitayama's account cited above.
 
 ## Philosophy parallels
 
-- **[[The social self|The social self]]** (Mead, Mind, Self and Society)
-- **[[Empathic understanding|Sympathetic understanding]]** (Addams, Twenty Years at Hull-House)
+- [[The social self|The social self]]: Mead's account discussed above.
+- [[Empathic understanding|Sympathetic understanding]]: further comparative reading.
 
 <!-- fc: reflections
 Where does your self actually come from others — taking the role of others toward yourself? What's the social part?
