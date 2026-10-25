@@ -208,3 +208,59 @@ glosses were recast from the prior map text, whose card fidelity is documented i
 2026-10-25 full-card sweep entries above; the new wording was NOT independently
 re-checked against every card body this session. QC status: revision 4.1 pushed
 pending supervisor review; the registry rebuild flag stands.
+
+## QC round 2 repair (revision 4.2, 2026-10-25 ~02:07Z, worker-pplx-b65d2ee8)
+
+Supersedes the kernel-card claim in the 4.1 entry: at 4.1 time only the
+card-body PREFIXES (first ~1100 characters) had been read; the "read in
+full this session" wording was wrong then. All six kernel cards have now
+actually been read in full this session (K153: Sheeran & Orbell 2000
+screening attendance, 92% vs 69%, mechanism not tested; K154: Wang et
+al. 2021 meta-analysis, g = 0.336, publication-bias caveat; K179: Ericsson
+1993 with Macnamara 2014 domain variance; K182: Jakubiak & Feeney 2016,
+association not effect of writing; K219: Matthews Dominican study, 7.6
+vs 4.28, 4-week limit; K223: Sheldon et al. 2004 reason questions,
+audit-as-intervention untested). Each practice entry was re-checked
+against its card's protocol and evidence limits; all six are
+card-faithful.
+
+Repairs applied in revision 4.2 (advisor QC round 2):
+- Divergence 1 rebuilt: it now opens with the genuine shared question (a
+  pursuit that has become hard with attainability unclear), states both
+  sides, names the variable the disagreement turns on, and closes with a
+  first-person judgment. The Wrosch framing quote now begins with the
+  source's capital ("The notion that persistence is essential...").
+- Divergence 2 ("Does owning a goal help...?") MOVED into the main body
+  ("Letting go as a skill") as the measured cost of self-concordance;
+  the findings are stated as associations (predicted cognitive ease),
+  the three PMC quotes kept verbatim, and the causal overreach
+  ("made switching easier") removed.
+- NEW divergence 2: the published Goals Gone Wild exchange — Ordóñez,
+  Schweitzer, Galinsky & Bazerman 2009 (Academy of Management
+  Perspectives 23(1), 6-16) vs Locke & Latham 2009, "Has Goal Setting
+  Gone Wild, or Have Its Attackers Abandoned Good Scholarship?" (same
+  issue, 17-23). Carriers opened this session: the Columbia Business
+  School abstract page (the "halcyon pill" sentence verbatim; the "go
+  wild" sentence) and the CBS News report of the exchange (the L&L
+  "axe to grind" sentence verbatim; the Ordóñez et al. rebuttal
+  sentence read but not quoted). The AOM journal pages and the full
+  PDFs were paywalled or blocked; the divergence quotes only what these
+  two opened carriers carry. First-person judgment included.
+- Catalogue restructured: the three-framework theory paragraph split
+  into two one-position paragraphs with reasoning bridges; the
+  practical-translations paragraph split by distinct problems; the
+  fallacy/progress/environment paragraph split; decorative transitions
+  removed ("The instrument then outgrows single pursuits", "The
+  existentialists give the structure a sharper edge", "a plan aimed
+  at the real obstacle is worth more than confidence aimed at
+  nothing").
+- Nearby terms: each bullet now carries a source link per the model;
+  the Commitment bullet's editorial placement clause removed.
+- Selection: "large" corrected to "medium-to-large" (the carrier's own
+  wording).
+
+Two divergences total; the model's 3-5 guidance remains superseded by
+the evidence rule — FLAGGED FOR SUPERVISOR (accept two, or direct a
+third with sources). Checker exit 0: 51 card links, 18 headers, 10
+external carriers. QC status: pending advisor round 3; registry rebuild
+flag stands.
