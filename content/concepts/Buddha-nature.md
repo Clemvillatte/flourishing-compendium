@@ -23,7 +23,7 @@ and with the sutra's statement of permanence:
 
 > "Sons of good families, the Dharma of all Buddhas is thus: whether a Buddha arises or not in the world, the Tathagatagarbha in all sentient beings exists eternally and without change, but it is covered with defilements." (Tathagatagarbha Sutra, [Wisdomlib translation](https://www.wisdomlib.org/buddhism/essay/buddha-nature-lankavatara-sutra/d/doc1145037.html))
 
-The sutra conveys the doctrine through nine similes: grain covered by the husk, a treasure buried under the ground, a Buddha statue wrapped in a rag, and so on, where the defilements are the husk, the ground, the rag, whatever covers or conceals that which is precious.
+The sutra conveys the doctrine through nine similes: grain covered by the husk, a treasure buried under the ground, a Buddha statue wrapped in a rag, and so on, where the defilements are the husk, the ground, the rag, whatever covers or conceals that which is precious. The practice reading follows from the similes rather than the metaphysics, since if the precious thing is covered rather than absent, the work is uncovering rather than acquiring, and the kernels below take that as their starting assumption about the person practicing them.
 
 ### Here
 
