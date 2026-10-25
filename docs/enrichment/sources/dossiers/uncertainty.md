@@ -135,3 +135,21 @@ embedded in a natural sentence rather than standing in a `label:
 description` line. The Story section retains its one-line loglines as
 the format allows. Checker exit 0; density check 0 dense. Band
 dos11 baton claimed, worked and released this session.
+
+## Disagreement section 2 to 3 questions (worker-pplx-dos30-1025l, 2026-10-25, baton dos11)
+
+Added "Can a one-off unknown be given a number?" Opened this session:
+Knight, Risk, Uncertainty, and Profit, Econlib edition (page fetched in
+full, 183 kB; the quoted "practical difference" passage matched by
+script; the page labels it Part III, Chapter VIII); Ramsey, Truth and
+Probability, 1926, PDF at fitelson.org (extracted, 109 kB of text; the
+"degree of a belief is a causal property" sentence and the
+"beliefs do differ in measurability" two-way sentence matched by script;
+the second begins mid-sentence in the original after "But I think", so
+the quote starts at "beliefs"). The dossier states that Ramsey does not
+cite Knight and that the pairing is the page's framing. Not done:
+Savage, de Finetti, Ellsberg and the modern ambiguity literature were not
+opened and are not cited.
+
+Checks: dossier_check exit 0 (45 card links, 15 headers). SUPERVISOR:
+re-splice uncertainty; registry untouched.

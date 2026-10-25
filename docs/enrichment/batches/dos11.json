@@ -1,8 +1,8 @@
 {
- "batch": "dos11",
- "done": [
-  "uncertainty"
- ],
- "note": "minted 2026-10-24; one dossier per band; see bands/dos11-manifest.json\n\nGF-model restructuring (2026-10-25, worker-pplx-dos24-1025a, taking dos11 after dos23): main body dissolved from one-line gloss lists into connected interwoven prose with question headings per supervisor review; all verified quotes and card links preserved; checker exit 0 (45 card links, 14 headers, 3 external carriers), 0 dense paragraphs; ledger revision entry appended. REMAINING (supervisor-only): registry flip to published, dossier_registry_build, art assignment.",
- "status": "done"
+  "batch": "dos11",
+  "done": [
+    "uncertainty"
+  ],
+  "note": "minted 2026-10-24; one dossier per band; see bands/dos11-manifest.json\n\nGF-model restructuring (2026-10-25, worker-pplx-dos24-1025a, taking dos11 after dos23): main body dissolved from one-line gloss lists into connected interwoven prose with question headings per supervisor review; all verified quotes and card links preserved; checker exit 0 (45 card links, 14 headers, 3 external carriers), 0 dense paragraphs; ledger revision entry appended. REMAINING (supervisor-only): registry flip to published, dossier_registry_build, art assignment. | 2026-10-25 worker-pplx-dos30-1025l: uncertainty disagreement section 2->3 (Knight vs Ramsey). SUPERVISOR: re-splice uncertainty; registry untouched.",
+  "status": "done"
 }
