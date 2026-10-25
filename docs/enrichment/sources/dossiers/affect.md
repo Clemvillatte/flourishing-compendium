@@ -238,3 +238,34 @@ The James 1884 bear-passage quotation was re-checked against the
 carrier opened this session (psychclassics.yorku.ca/James/emotion.htm,
 lowercase): both the "Common sense says" opening and the "afraid
 because we tremble" close match the carrier word-for-word.
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+Reviewed all 10 candidates against the current file (fresh audit run;
+persisted line numbers had shifted). No carriers freshly opened;
+dispositions are editorial judgements resting on card texts and
+inherited verification. All 10 judged KEEP:
+
+- Line 29 (Nietzsche GS §290 reading — worked vs merely undergone is the
+  point of the give-style-to-character passage), 73 (Spinoza's laetitia:
+  a change rather than a state IS Spinoza's definition, the transition to
+  greater perfection), 75 (self-conscious emotions grouped by entry
+  requirement vs feel — the taxonomy's actual principle), 109 (affective
+  dynamics: time series vs score is the framework's claim), 167
+  (state-matched regulation: matching vs one-strategy is the construct's
+  definition), 187 (co-regulation: each other's affect vs only one's own
+  is the dyadic concept), 201 and 237 (affect labeling — "not 'stressed'
+  but 'tight chest, dread, buzzing'" is the technique's own instruction
+  with its concrete before/after example; a practitioner would write
+  exactly this; the same line legitimately appears in map and practice),
+  261 (Achilles: origin-right/measure-wrong is the Iliad's actual
+  structure, stated as two claims), 269 (the gentle person's anger —
+  nearly verbatim Aristotle NE IV.5, praised for anger at the right
+  things in the right way).
+
+The divergence section was also read: its categorical-vs-dimensional
+contrast is carried by the sources' own quoted words (Ekman; Posner,
+Russell and Peterson), which is the format the audit inventory
+encourages. No edits were made to the dossier body; dossier_check.py
+exit 0 unchanged. Scope: candidate-line review plus divergence-section
+read; not a full structural pass.
