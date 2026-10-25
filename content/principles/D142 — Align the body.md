@@ -17,7 +17,7 @@ Before settling into a task, I can notice how I am sitting and make an adjustmen
 > Once the four limbs are properly aligned,
 > Once blood and Qi are still : ([Linnell's translation, passage beginning with the four limbs](https://www.gutenberg.org/cache/epub/38585/pg38585.txt))
 
-The next line calls for unifying intent and consolidating the heart/mind ([Neiye, same passage](https://www.gutenberg.org/cache/epub/38585/pg38585.txt)). Alignment also has an interpretive complication: Linnell says he reads several references to form as the form of the heart/mind ([translator's introduction](https://www.gutenberg.org/cache/epub/38585/pg38585.txt)).
+The next line calls for unifying intent and consolidating the heart/mind ([Neiye, same passage](https://www.gutenberg.org/cache/epub/38585/pg38585.txt)). Linnell's introduction reads the work primarily as aligning the heart/mind; he explicitly favours this interpretation over physical-body alignment and treats several references to form accordingly ([translator's introduction](https://www.gutenberg.org/cache/epub/38585/pg38585.txt)).
 
 My modern application is modest: attend to how I am supported before demanding concentration. I would seek a comfortable position that I can change as needed.
 
