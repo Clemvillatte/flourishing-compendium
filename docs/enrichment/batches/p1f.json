@@ -43,7 +43,6 @@
     "SO002",
     "SO018",
     "A013",
-    "A030",
     "A047",
     "A057",
     "A079",
@@ -61,7 +60,8 @@
     "AT053",
     "AT059",
     "A046",
-    "K005"
+    "K005",
+    "A030"
   ],
   "in_progress": null,
   "flagged": {
@@ -84,7 +84,7 @@
     "SO002": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived (look-past-innermost-layer framing); first-person 'I recommend' removed; validator PASS",
     "SO018": "supervisor disposition (2026-10-22 04:19Z, worker-sup-flourish-1022, corrected after advisor QC): repair verified \u2014 the strong/weak verdict is carried in Boroditsky's own quoted words; quotes re-verified vs the uvic PDF and the one quote whose em-dash spacing differed from the carrier is normalized to the carrier's exact punctuation (recorded in the ledger, not on the page).",
     "A013": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived (fit-and-yardstick framing); body 'I present' reworded; validator PASS",
-    "A030": "supervisor disposition (2026-10-22 04:07Z, worker-sup-flourish-1022): repair verified \u2014 the compendium application is explicitly distinguished from Aristotle's own discussion ('The compendium applies that discussion here as an exercise...'); the NE VI fragments re-verified verbatim vs the Perseus Rackham text.",
+    "A030": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)",
     "A046": "RESOLVED by assistant-supervisor supervisor-pplx-c3b0f2fb-1025b 2026-10-25 12:50Z: the Plain-words replicate allegation is STALE \u2014 the 2026-10-25 11:10Z refresh of plain-words-replicates.md absorbed the register; a fresh 5-gram overlap check run this session on the current page scores 0.00%. No rewrite needed.",
     "A047": "supervisor disposition (2026-10-22 04:07Z, worker-sup-flourish-1022): repair verified \u2014 the unity claim is now quoted from Aristotle rather than asserted by the compendium ('For if a man have the one virtue of Prudence he will also have all the Moral Virtues together with it', re-verified verbatim vs Perseus NE VI); no pairwise declarations remain.",
     "A057": "supervisor disposition (2026-10-22 04:07Z, worker-sup-flourish-1022): repair verified \u2014 the page distinguishes the profligate (uncurable, vice-like) from the unrestrained (curable, aware of infirmity) and reports Aristotle's habit-vs-nature remark without a reform recommendation in the prose; fragments re-verified as verbatim substrings vs the Perseus Rackham NE VII text; formatting repair applied (list newline).",
@@ -99,8 +99,8 @@
   },
   "missing_concepts": [],
   "sources_checked": 22,
-  "updated": "2026-10-25T12:39:09+00:00",
-  "band_done": true,
+  "updated": "2026-10-25T12:40:20+00:00",
+  "band_done": false,
   "notes": {
     "AT053": {
       "qc": "Plain-words replicate replaced (0.65 -> ~0.10); re-derivation written; validator ok; 2026-10-25T12:24Z worker-pplx-eae0d414: validator repair \u2014 prose 301->299 (scope-sentence trim \"of them\", examples kept), validator ok; found during independent verification pass; concurrent remote fix (example-drop) superseded in favour of example-keeping trim",
@@ -125,6 +125,12 @@
       "claims": "n/a",
       "limitations": "Image is not clinical evidence",
       "url": "https://www.berzinarchives.com/bodhisattvacharyavatara/5-2-3-elephant-mind.html"
+    },
+    "A030": {
+      "qc": "Plain-words replicate replaced (~0.5 -> ~0.1), first-person defect fixed; validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6"
     }
   }
 }

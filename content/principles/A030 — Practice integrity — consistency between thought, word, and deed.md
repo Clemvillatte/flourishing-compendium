@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 30** — Practice integrity: consistency between thought, word, and deed
 
-[[T002 — Aristotle|Aristotle]] links prudence and moral virtue in an argument about the [[The unity of the virtues|unity of the virtues]]. ([Nicomachean Ethics VI.13, trans. H. Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) I apply that discussion here as an exercise in comparing professed commitments with conduct.
+[[T002 — Aristotle|Aristotle]] links prudence and moral virtue in an argument about the [[The unity of the virtues|unity of the virtues]]. ([Nicomachean Ethics VI.13, trans. H. Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) The discussion serves here as an exercise in comparing professed commitments with conduct.
 
 (NE I.8, X.9; EE VIII.3; NE VI.12-13.)
 
@@ -21,7 +21,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 The chapter's unity claim is explicit: "For if a man have the one virtue of Prudence he will also have all the Moral Virtues together with it." ([NE VI.13, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) Aristotle also states that "we cannot be prudent without being good." ([NE VI.12, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6))
 
 **Plain words**
-Aristotle argues that goodness in the full sense and prudence require one another. ([NE VI.13, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) For this exercise, compare what you profess with what you do, and describe any mismatch.
+Aristotle's knot ties two threads together so neither can hold a shape alone: the eye that sees what is good here, and the character that wants it. Cleverness without virtue drifts into strategy; virtue without sense cannot find its own way to act. So a professed value is only half a value until conduct finishes the sentence, and the midnight email is the confession the mission statement never makes.
 
 *For example:* A manager who criticises long hours and then sends emails at midnight is giving mixed signals. One who logs off on time is saying and doing the same thing.
 
