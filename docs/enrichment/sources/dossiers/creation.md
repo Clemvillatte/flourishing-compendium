@@ -995,3 +995,31 @@ is complete.
   bar STILL UNMET; two more genuine disagreements still needed for
   publication; NOT manufactured here). Remaining blockers unchanged
   otherwise: art None (owner call), registry flip supervisor-only.
+
+### Second demonstrated disagreement (same takeover pass)
+
+- NEW CARRIER: Marx, Estranged Labour (Economic and Philosophic
+  Manuscripts of 1844), marxists.org/archive/marx/works/1844/
+  manuscripts/labour.htm. Opened via fetch tool AND raw curl; all
+  three quoted spans verified verbatim in the raw page text: "The
+  worker becomes all the poorer the more wealth he produces..."; the
+  alien-product sentence ("confronts it as something alien, as a
+  power independent of the producer"); and the external-labour
+  sentence ("labor is external to the worker, i.e., it does not
+  belong to his intrinsic nature..."). Italics in the source
+  (something alien / power independent) not marked on the page;
+  words exact.
+- Disagreement: "Does the making belong to the maker, or confront
+  them?" — Sennett's craftsmanship definition (carrier already in
+  the dossier, quoted in the body, documented as one of the three
+  bot-blocked carriers) vs Marx's estrangement passages. Same
+  question (does the making belong to the maker's nature?),
+  incompatible answers (enduring basic impulse vs external to the
+  worker's nature). Honest scoping kept: Marx describes making under
+  the wage relation, Sennett the craft done for its own sake; the
+  reach of Marx's diagnosis is marked as not settled by the texts.
+- Count after this pass: 2 of the 3-5 bar. ONE more genuine
+  disagreement still needed; NOT manufactured. Ledger for the two
+  bot-blocked carriers (Sennett via T&F) unchanged — the Sennett
+  span is quoted in the section exactly as verified by eye in the
+  earlier pass.

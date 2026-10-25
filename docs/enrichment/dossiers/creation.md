@@ -151,6 +151,22 @@ Nietzsche had said created, about things rather than about the self. The signifi
 
 Nietzsche's claim is narrower than Sartre's: he speaks of the significance of things, not of what a person is, so Frankl can find the meaning of a life while still conferring significance on things. That reading is mine; the sources do not make it. The Sartre passage above is the demonstrated disagreement on this page: it and Frankl answer the same question with incompatible answers.
 
+### Does the making belong to the maker, or confront them?
+
+The shared question: when a person makes a thing, does the work realize the maker, or stand over against them? [Craftsmanship research](https://clemvillatte.github.io/flourishing-compendium/#card=Craftsmanship%20research) gives the realization answer, in Sennett's charter definition:
+
+> "Craftsmanship names an enduring, basic human impulse, the desire to do a job well for its own sake." ([Sennett 2008, quoted in Jones et al. 2021](https://www.tandfonline.com/doi/full/10.1080/13549839.2021.1939289))
+
+Marx, writing about making under the wage relation, gives the opposite answer:
+
+> "The worker becomes all the poorer the more wealth he produces, the more his production increases in power and size."
+>
+> "This fact expresses merely that the object which labor produces – labor's product – confronts it as something alien, as a power independent of the producer."
+>
+> "First, the fact that labor is external to the worker, i.e., it does not belong to his intrinsic nature; that in his work, therefore, he does not affirm himself but denies himself, does not feel content but unhappy, does not develop freely his physical and mental energy but mortifies his body and ruins his mind." ([Marx, Estranged Labour, 1844](https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm))
+
+The collision is direct on one question: does the making belong to the maker's nature? For Sennett the desire to do a job well is an enduring basic human impulse, the maker's own; for Marx the labor does not belong to the worker's intrinsic nature, and the thing made confronts its maker as an alien power. What the passages do not settle is the reach of Marx's diagnosis: he describes making under another's command, Sennett the craft done for its own sake, and whether every making under command estranges its maker, or only some, is not decided by these texts.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the direction of the energy: consuming without contributing, waiting to feel like making before making, making only for display, or treating the finished thing as the only point, so that the maker is left out of the account. The adaptive direction is making that is small, regular, connected to someone beyond the maker, and allowed to be imperfect.
