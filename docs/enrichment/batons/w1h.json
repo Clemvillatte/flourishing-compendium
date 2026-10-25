@@ -1,7 +1,7 @@
 {
  "baton": "w1h",
- "agent": "worker-w1h-promptskill-1024",
- "clocked_in": "2026-10-24T15:08:10+00:00",
+ "agent": "worker-w1h-1025b",
+ "clocked_in": "2026-10-25T00:52:44+00:00",
  "takeovers": [
   {
    "by": "worker-w1h-7c3e5b0f",
@@ -44,8 +44,12 @@
    "at": "2026-10-24T15:08:10+00:00",
    "from": "worker-pplx-p1b-oct23",
    "reason": "released"
+  },
+  {
+   "by": "worker-w1h-1025b",
+   "at": "2026-10-25T00:52:44+00:00",
+   "from": "worker-w1h-promptskill-1024",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-24T15:15:08+00:00"
+ ]
 }
