@@ -88,7 +88,7 @@ The shared question: if a person knowingly puts a task off, does the delay cost 
 
 Their abstract concludes that procrastination "appears to be a self-defeating behavior pattern marked by short-term benefits and long-term costs." Chu and Choi proposed a different kind of delayer, one who chooses the delay:
 
-> "Active procrastinators are a 'positive' type of procrastinator. They prefer to work under pressure, and they make deliberate decisions to procrastinate." ([Chu and Choi, Journal of Social Psychology 2005, abstract](https://pubmed.ncbi.nlm.nih.gov/15959999/))
+> "Active procrastinators are a 'positive' type of procrastinator. They prefer to work under pressure, and they make deliberate decisions to procrastinate." ([Chu and Choi, Journal of Social Psychology 2005, abstract](https://pubmed.ncbi.nlm.nih.gov/15959999/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=15959999&rettype=abstract&retmode=text))
 
 Their results, in the abstract's words, were that "although active procrastinators procrastinate to the same degree as passive procrastinators, they are more similar to nonprocrastinators than to passive procrastinators in terms of purposive use of time, control of time, self-efficacy belief, coping styles, and outcomes including academic performance."
 
@@ -98,7 +98,7 @@ The two papers can both be right if they sample different people. Tice and Baume
 
 The shared question: what is going wrong when someone postpones what they meant to do? Both opened reviews call procrastination a failure of self-regulation, and both say so in their abstracts:
 
-> "Procrastination is a prevalent and pernicious form of self-regulatory failure that is not entirely understood." (Steel, "The Nature of Procrastination", Psychological Bulletin 133(1), 2007, [abstract](https://pubmed.ncbi.nlm.nih.gov/17201571/))
+> "Procrastination is a prevalent and pernicious form of self-regulatory failure that is not entirely understood." (Steel, "The Nature of Procrastination", Psychological Bulletin 133(1), 2007, [abstract](https://pubmed.ncbi.nlm.nih.gov/17201571/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=17201571&rettype=abstract&retmode=text))
 
 > "In this paper, we argue that as a form of self-regulation failure, procrastination has a great deal to do with short-term mood repair and emotion regulation." (Sirois and Pychyl 2013, author manuscript, [White Rose eprints PDF](https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf))
 

@@ -551,3 +551,11 @@ dense. SUPERVISOR: re-splice procrastination; registry untouched. The
 earlier divergence-requirement flag in the batch note is now met with
 three questions (Socrates vs Aristotle, delay as loss vs method, timing vs
 mood).
+
+## Carrier repair (2026-10-25, worker-pplx-dos33-1025q, baton dos33)
+
+quote_verify went 3 NOT FOUND -> 0. No page wording changed; no new disagreement or interpretive verdict added.
+
+pubmed.ncbi.nlm.nih.gov serves a bot-challenge page from this network, so the three PubMed-linked quotes (Chu and Choi 2005 active procrastination; Steel 2007 "The Nature of Procrastination" title and abstract sentence) failed live fetch. All three re-verified today in the NCBI eutils plain-text abstracts (efetch.fcgi for IDs 15959999 and 17201571), and each affected paragraph now carries the plain-text link alongside the PubMed citation.
+
+Checks before push (exit codes captured directly): dossier_check exit 0; quote_verify 9 checked, 0 not found; density 0 dense; voice_audit exit 0.
