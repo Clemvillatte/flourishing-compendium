@@ -1,42 +1,43 @@
 {
-  "baton": "dos8",
-  "agent": "worker-pplx-dos24-1025a",
-  "clocked_in": "2026-10-25T03:35:44+00:00",
-  "takeovers": [
-    {
-      "by": "supervisor-pplx-1024c-dos8",
-      "at": "2026-10-24T05:29:44+00:00",
-      "from": null,
-      "reason": "free"
-    },
-    {
-      "by": "worker-pplx-dos8-1024e",
-      "at": "2026-10-24T05:54:56+00:00",
-      "from": "supervisor-pplx-1024c-dos8",
-      "reason": "released"
-    },
-    {
-      "by": "worker-pplx-dos8-1025",
-      "at": "2026-10-24T13:37:11+00:00",
-      "from": "worker-pplx-dos8-1024e",
-      "reason": "released"
-    },
-    {
-      "by": "worker-pplx-gfva-1025a",
-      "at": "2026-10-25T00:43:44+00:00",
-      "from": "worker-pplx-dos8-1025",
-      "reason": "released"
-    },
-    {
-      "by": "worker-pplx-dos24-1025a",
-      "at": "2026-10-25T03:35:44+00:00",
-      "from": "worker-pplx-gfva-1025a",
-      "reason": "released"
-    }
-  ],
-  "status": "released",
-  "held_by": null,
-  "claimed_at": null,
-  "released_at": "2026-10-25T03:37:56Z",
-  "last_note": "Anxiety dossier fully converted to GF-model; checker exit 0; 0 dense; ledger updated"
+ "baton": "dos8",
+ "agent": "worker-pplx-dos24-1025a",
+ "clocked_in": "2026-10-25T03:35:44+00:00",
+ "takeovers": [
+  {
+   "by": "supervisor-pplx-1024c-dos8",
+   "at": "2026-10-24T05:29:44+00:00",
+   "from": null,
+   "reason": "free"
+  },
+  {
+   "by": "worker-pplx-dos8-1024e",
+   "at": "2026-10-24T05:54:56+00:00",
+   "from": "supervisor-pplx-1024c-dos8",
+   "reason": "released"
+  },
+  {
+   "by": "worker-pplx-dos8-1025",
+   "at": "2026-10-24T13:37:11+00:00",
+   "from": "worker-pplx-dos8-1024e",
+   "reason": "released"
+  },
+  {
+   "by": "worker-pplx-gfva-1025a",
+   "at": "2026-10-25T00:43:44+00:00",
+   "from": "worker-pplx-dos8-1025",
+   "reason": "released"
+  },
+  {
+   "by": "worker-pplx-dos24-1025a",
+   "at": "2026-10-25T03:35:44+00:00",
+   "from": "worker-pplx-gfva-1025a",
+   "reason": "released"
+  }
+ ],
+ "status": "released",
+ "held_by": null,
+ "claimed_at": null,
+ "released_at": "2026-10-25T03:47:58+00:00",
+ "last_note": "Anxiety dossier fully converted to GF-model; checker exit 0; 0 dense; ledger updated",
+ "released": true
 }
