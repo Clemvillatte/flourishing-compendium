@@ -10217,7 +10217,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The classical traditions add what the science tends to leave alone: whether the aim deserves the wanting, and how to loosen the grip when the aim stops serving the life. Stoic teaching puts the pursuit itself inside a person's control and the outcome outside it, which changes what commitment is for. I want an account of goals that survives contact with failure, because failure is where the holding of an aim is actually tested."
+          "x": "The classical traditions add what the science tends to leave alone: whether the aim deserves the wanting, and how to loosen the grip when the aim stops serving the life. Stoic teaching puts the pursuit itself inside a person's control and the outcome outside it, which changes what commitment is for. I want an account of goals that still works when pursuit fails, because failure is where the holding of an aim is tested."
         },
         {
           "t": "h2",
@@ -10293,7 +10293,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "What counts as steering at all has its own tests. [Goal-directed behavior theory](card:Goal-directed%20behavior%20theory), developed by Anthony Dickinson and Bernard Balleine, says an action counts as goal-directed only when it meets two: the belief criterion, knowledge of the relationship between the action and its consequences, and the desire criterion, the outcome's current motivational value. A habit that fires regardless of whether the outcome is still wanted fails the second test, which is why the same daily action can be either pursuit or mere motion."
+          "x": "What counts as steering at all has its own tests. [Goal-directed behavior theory](card:Goal-directed%20behavior%20theory), developed by Anthony Dickinson and Bernard Balleine, says an action counts as goal-directed only when it meets two: the belief criterion, knowledge of the relationship between the action and its consequences, and the desire criterion, the outcome's current motivational value. A habit that fires regardless of whether the outcome is still wanted fails the second test, which is why the same daily action can be pursuit in one case and routine in another."
         },
         {
           "t": "p",
@@ -10301,7 +10301,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The plan also has to be aimed at something real. [WOOP](card:WOOP%20%28Wish%2C%20Outcome%2C%20Obstacle%2C%20Plan%29), Gabriele Oettingen's four steps, pairs the wish with the obstacle before the plan, because the obstacle is what the difficult moment will actually be made of. Overconfidence has its own named failure: the [planning fallacy](card:Planning%20fallacy), the confident belief that a project will run as planned."
+          "x": "The plan also has to be aimed at something real. [WOOP](card:WOOP%20%28Wish%2C%20Outcome%2C%20Obstacle%2C%20Plan%29), Gabriele Oettingen's four steps, pairs the wish with the obstacle before the plan, because the difficult moment is where that obstacle shows up. Overconfidence has its own named failure: the [planning fallacy](card:Planning%20fallacy), the confident belief that a project will run as planned."
         },
         {
           "t": "p",
@@ -10379,11 +10379,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "A published exchange puts the theory's founders against four of its critics. Ordóñez, Schweitzer, Galinsky and Bazerman argue that the very characteristics that make goals work are the ones that make them dangerous: \"For decades, goal setting has been promoted as a halcyon pill for improving employee motivation and performance in organizations\" ([Columbia Business School, abstract](https://business.columbia.edu/faculty/research/goals-gone-wild-systematic-side-effects-overprescribing-goal-setting)), and in their view it is often these same characteristics that cause goals to go wild."
+          "x": "A published exchange puts the theory's founders against four of its critics. Ordóñez, Schweitzer, Galinsky and Bazerman argue that the very characteristics that make goals work are the ones that make them dangerous: \"For decades, goal setting has been promoted as a halcyon pill for improving employee motivation and performance in organizations\" ([Columbia Business School, abstract](https://business.columbia.edu/faculty/research/goals-gone-wild-systematic-side-effects-overprescribing-goal-setting), [open copy](http://acornlab.azurewebsites.net/web%20articles/goals%20gone%20wild.pdf)), and in their view it is often these same characteristics that cause goals to go wild."
         },
         {
           "t": "p",
-          "x": "In their later reply they restate the recommendation: \"We reiterate our original claim that goal setting, like a potent medication, can produce both beneficial effects and systematic, negative outcomes, and as a result, it should be carefully prescribed and closely monitored\" ([On Good Scholarship, abstract](https://business.columbia.edu/faculty/research/good-scholarship-goal-setting-and-scholars-gone-wild))."
+          "x": "In their later reply they restate the recommendation: \"We reiterate our original claim that goal setting, like a potent medication, can produce both beneficial effects and systematic, negative outcomes... and as a result, it should be carefully prescribed and closely monitored\" ([On Good Scholarship, abstract](https://business.columbia.edu/faculty/research/good-scholarship-goal-setting-and-scholars-gone-wild), [open copy](https://www.hbs.edu/ris/Publication%20Files/09-122.pdf))."
         },
         {
           "t": "p",
@@ -10392,6 +10392,71 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "What the disagreement turns on is the standing of the critics' case: they hold that goal setting's benefits have been oversold relative to its harms, and the founders' reported rejoinder challenges the case's evidential basis. The report does not establish the rejoinder's full answer to the critics' concerns. My provisional lean: the critics' prescription wording is usable at face value, and the founders' own conditions (commitment, ability, no conflict) are where a reader would start."
+        },
+        {
+          "t": "h2",
+          "x": "Should an aim be set on the outcome or on the attempt?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: when you commit to an aim, what exactly are you committed to, the result or your own conduct in pursuing it? Locke and Latham's account of goals puts the result first:"
+        },
+        {
+          "t": "q",
+          "x": "\"Because goals refer to future valued outcomes, the setting of goals is first and foremost a discrepancy-creating process. It implies discontent with one's present condition and the desire to attain an object or outcome.\" ([Locke and Latham, Current Directions in Psychological Science 2006](https://www.nj.gov/highereducation/documents/pdf/NewAdvancesinGoalSettingTheory-Locke_Latham2006.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Cicero's Cato gives the Stoic archer, whose end is the aiming and not the hit:"
+        },
+        {
+          "t": "q",
+          "x": "\"For though if a man were to make it his purpose to take a true aim with a spear or arrow at some mark, his ultimate end, corresponding to the ultimate good as we pronounce it, would be to do all he could to aim straight: the man in this illustration would have to do everything to aim straight, and yet, although he did everything to attain his purpose, his 'ultimate End,' so to speak, would be what corresponded to what we call the Chief Good in the conduct of life, whereas the actual hitting of the mark would be in our phrase 'to be chosen' but not 'to be desired.'\" ([Cicero, De Finibus III.22, Rackham translation](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Finibus/3*.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Epictetus and Seneca turn the same stance into a way of holding plans. Epictetus advises \"Use only the appropriate actions of pursuit and avoidance; and even these lightly, and with gentleness and reservation.\" ([Epictetus, Enchiridion 2, Carter translation](https://classics.mit.edu/Epictetus/epicench.html)) Seneca names the habit:"
+        },
+        {
+          "t": "q",
+          "x": "\"I will set sail unless anything happens to prevent me, I shall... be praetor, if nothing hinders me, my financial operations will succeed, unless anything goes wrong with them.\" ([Seneca, On Tranquillity of Mind XIII, Stewart translation](https://www.gutenberg.org/files/64576/64576-0.txt))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The two stances answer different questions, so the page does not call one of them refuted. Locke and Latham report what raises task performance, and the passage above is about what a goal is. Cato is describing where the good of a life sits, and the archer's hit is still something to be chosen. They meet on a practical point: whether a person who wants the outcome hard, as hard goals require, can also hold it lightly. My lean, which is mine and not a finding of either source, is that a demanding goal and a reservation about the result can be held together, with the reservation doing work only when the result stops being in the person's reach. What I did not find is any study that tests that combination directly, and I did not read Locke and Latham's longer statements of the theory, only the 2006 article."
+        },
+        {
+          "t": "h2",
+          "x": "Does picturing the aim help the one who pursues it?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: does a hopeful view of the future you are aiming at feed the effort or drain it? Taylor and Brown's 1988 review held that hopeful distortions serve effort:"
+        },
+        {
+          "t": "q",
+          "x": "\"Moreover, these illusions appear to promote other criteria of mental health, including the ability to care about others, the ability to be happy or contented, and the ability to engage in productive and creative work.\" ([Taylor and Brown, Psychological Bulletin 1988](https://web.mit.edu/curhan/www/docs/Articles/biases/Taylor_Brown_Illusion_and_Well-Being.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Their text adds that these illusions \"enhance motivation, persistence, and performance.\" Oettingen and Mayer's four studies found a split inside positive thinking:"
+        },
+        {
+          "t": "q",
+          "x": "\"Positive expectations (judging a desired future as likely) predicted high effort and successful performance, but the reverse was true for positive fantasies (experiencing one's thoughts and mental images about a desired future positively).\" ([Oettingen and Mayer, Journal of Personality and Social Psychology 2002, abstract](https://pubmed.ncbi.nlm.nih.gov/12416922/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=12416922&rettype=abstract&retmode=text))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The review itself was challenged. Colvin and Block examined its logic and evidence and concluded that the case \"failed to substantiate Taylor and Brown's thesis\" ([Colvin and Block, Psychological Bulletin 1994, abstract](https://pubmed.ncbi.nlm.nih.gov/8078973/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=8078973&rettype=abstract&retmode=text))."
+        },
+        {
+          "t": "p",
+          "x": "The sources measure different things. Taylor and Brown review overly positive self-views, exaggerated control and unrealistic optimism, which are beliefs about the self and the odds. Oettingen and Mayer separate a judgment of likelihood from the experience of imagining a pleasant future, and only the imagining predicted lower effort. I do not read the two as a direct contradiction, and neither abstract settles whether an unrealistic belief about the odds helps effort. My lean, which is mine, is that the practical advice differs more than the evidence does: the goals literature on this page treats the hopeful image as a place to start and the obstacle as the thing to plan around. Limits: I read the abstracts of Oettingen and Mayer and Colvin and Block, not the full articles, and I did not open Taylor and Brown's 1994 reply."
         },
         {
           "t": "h",
@@ -10464,7 +10529,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Pursuit and release change shape once endings are in the picture. These stories hold both, without promising that the right choice is the same in every life."
+          "x": "Pursuit and release read differently when an ending is involved. These stories hold both, without promising that the right choice is the same in every life."
         },
         {
           "t": "h2",

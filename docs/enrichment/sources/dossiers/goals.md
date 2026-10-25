@@ -598,3 +598,46 @@ Repaired (all verified against sources fetched today):
 REMAINING 1 NOT FOUND, flagged for the supervisor: the Locke and Latham "New Directions in Goal-Setting Theory" quote ("Because goals refer to future valued outcomes, the setting of goals is first and foremost a discrepancy-creating process") fails only as a rendering artifact: the live nj.gov PDF (fetched today, correct document) renders the hyphenated line break "discrepancy-creating" as "discrepancycreating" in pdftotext, so the checker's normalised substring match fails. The passage was read on the page of the fetched PDF and the quote matches the printed text. A copy that renders without the hyphen break would clear the check.
 
 Checks before push (exit codes captured directly): dossier_check exit 0; quote_verify 16 checked, 1 not found (documented above); density 0 dense; voice_audit exit 0.
+
+## Reader-level voice review (2026-10-25, worker-pplx-sup-1025y, supervisor baton; dos13 released)
+
+The 2026-10-24 inventory left goals with zero detector matches and a
+standing note that zero matches do not certify natural prose; this entry
+is the complete read the note asked for. Every line of the manuscript
+was read at reader level against the owner's defect list (This-is-not-X
+scaffolds, decorative metaphors, forced contrasts, generic
+tradition-agreement claims, card-gloss catalogues).
+
+Recasts, four lines, reword-only, no facts, quotes, links or scoping
+changed:
+1. Opening (was: "an account of goals that survives contact with
+   failure"): decorative metaphor (Clausewitz echo). Recast to "still
+   works when pursuit fails".
+2. Goal-directed behavior theory paragraph (was: "either pursuit or
+   mere motion"): alliterative flourish contrast. Recast to "pursuit in
+   one case and routine in another".
+3. WOOP paragraph (was: "the obstacle is what the difficult moment will
+   actually be made of"): decorative "made of" metaphor. Recast to "the
+   difficult moment is where that obstacle shows up".
+4. Story section opening (was: "change shape once endings are in the
+   picture"): idiom + metaphor. Recast to "read differently when an
+   ending is involved".
+
+Kept with reasons, five candidates:
+- "organises effort rather than naming a wish" (engineering-of-aims
+  paragraph): an X-rather-than-Y construction, but it carries the
+  theories' substantive claim, not a rhetorical flourish.
+- "the person is at stake" (existentialist paragraph): carries the
+  Sartre/Heidegger content rather than decorating it.
+- "hold it lightly" (archer disagreement): the Stoic reservation in its
+  own idiom, matching the quoted sources.
+- "Steering is a separate skill from choosing": control theory's own
+  technical vocabulary, used by the cited sources.
+- "The look-alikes of commitment are rigidity and a list of things to be
+  seen to do" (Variation): substantive contrast, not scaffold.
+
+No generic tradition-agreement claims found (each comparison is
+source-scoped); no card-gloss catalogue runs found (each card link is
+embedded in an argument); detector re-run after the recasts: zero
+matches. No quotation was touched; the four recast lines carry no
+quotes.

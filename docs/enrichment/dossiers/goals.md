@@ -4,7 +4,7 @@
 
 I keep two questions in view whenever I take on an aim: is this worth wanting, and does the way I hold it help or hinder the life around it. The research on goal pursuit is unusually practical. It says what makes aims motivating, what makes them attainable, and what makes their attainment hollow.
 
-The classical traditions add what the science tends to leave alone: whether the aim deserves the wanting, and how to loosen the grip when the aim stops serving the life. Stoic teaching puts the pursuit itself inside a person's control and the outcome outside it, which changes what commitment is for. I want an account of goals that survives contact with failure, because failure is where the holding of an aim is actually tested.
+The classical traditions add what the science tends to leave alone: whether the aim deserves the wanting, and how to loosen the grip when the aim stops serving the life. Stoic teaching puts the pursuit itself inside a person's control and the outcome outside it, which changes what commitment is for. I want an account of goals that still works when pursuit fails, because failure is where the holding of an aim is tested.
 
 ### Nearby terms
 
@@ -42,11 +42,11 @@ Steering is a separate skill from choosing, and what steering consists in is a l
 
 A second formalisation describes the same loop in engineering terms. [Behavioral self-regulation theory](https://clemvillatte.github.io/flourishing-compendium/#card=Behavioral%20self-regulation%20theory) treats goals as reference values with a comparator measuring the gap, so the aim is the reference point and behaviour is steered against the measured distance from it.
 
-What counts as steering at all has its own tests. [Goal-directed behavior theory](https://clemvillatte.github.io/flourishing-compendium/#card=Goal-directed%20behavior%20theory), developed by Anthony Dickinson and Bernard Balleine, says an action counts as goal-directed only when it meets two: the belief criterion, knowledge of the relationship between the action and its consequences, and the desire criterion, the outcome's current motivational value. A habit that fires regardless of whether the outcome is still wanted fails the second test, which is why the same daily action can be either pursuit or mere motion.
+What counts as steering at all has its own tests. [Goal-directed behavior theory](https://clemvillatte.github.io/flourishing-compendium/#card=Goal-directed%20behavior%20theory), developed by Anthony Dickinson and Bernard Balleine, says an action counts as goal-directed only when it meets two: the belief criterion, knowledge of the relationship between the action and its consequences, and the desire criterion, the outcome's current motivational value. A habit that fires regardless of whether the outcome is still wanted fails the second test, which is why the same daily action can be pursuit in one case and routine in another.
 
 The loop needs its decisions made before the moment arrives. [Implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=Implementation%20intentions) are if-then plans that link a critical situation to a goal-directed response, carrying the decision into the moment where it would otherwise be made fresh. Reflection has the same structure: [weekly-review implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=Weekly-review%20implementation%20intentions) puts the review on the calendar, so it does not depend on remembering to review.
 
-The plan also has to be aimed at something real. [WOOP](https://clemvillatte.github.io/flourishing-compendium/#card=WOOP%20%28Wish%2C%20Outcome%2C%20Obstacle%2C%20Plan%29), Gabriele Oettingen's four steps, pairs the wish with the obstacle before the plan, because the obstacle is what the difficult moment will actually be made of. Overconfidence has its own named failure: the [planning fallacy](https://clemvillatte.github.io/flourishing-compendium/#card=Planning%20fallacy), the confident belief that a project will run as planned.
+The plan also has to be aimed at something real. [WOOP](https://clemvillatte.github.io/flourishing-compendium/#card=WOOP%20%28Wish%2C%20Outcome%2C%20Obstacle%2C%20Plan%29), Gabriele Oettingen's four steps, pairs the wish with the obstacle before the plan, because the difficult moment is where that obstacle shows up. Overconfidence has its own named failure: the [planning fallacy](https://clemvillatte.github.io/flourishing-compendium/#card=Planning%20fallacy), the confident belief that a project will run as planned.
 
 Progress, meanwhile, has its own psychology: [the progress principle](https://clemvillatte.github.io/flourishing-compendium/#card=The%20progress%20principle), Amabile and Kramer's finding from knowledge workers' diaries, is that visible progress feeds a positive inner work life. The environment is not neutral either: [stimulus control theory](https://clemvillatte.github.io/flourishing-compendium/#card=Stimulus%20control%20theory) arranges environmental cues so the target behaviour occurs in their presence, and [situation-sensitivity in self-regulation](https://clemvillatte.github.io/flourishing-compendium/#card=Situation-sensitivity%20in%20self-regulation) is the research on matching strategy to context, since no lever fits every situation.
 
@@ -152,7 +152,7 @@ The cards carry their own evidence notes. Several of these are proposals built o
 
 ## Story: aims, endings, beginnings
 
-Pursuit and release change shape once endings are in the picture. These stories hold both, without promising that the right choice is the same in every life.
+Pursuit and release read differently when an ending is involved. These stories hold both, without promising that the right choice is the same in every life.
 
 ### Which aims are worth having
 
