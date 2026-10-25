@@ -424,7 +424,7 @@ effortless action through long effort, designing for virtue and the
 environment for virtue, Dewey's moral situation and its situationist
 research, and ethics as foundation in Johnston's Yoga Sutra reading.
 No mismatches found; no edits made. This strengthens the earlier
-voice-audit review (all 4 candidates kept): the flagged constructions
+voice-audit review (all 5 candidates kept, per the ledger's own review record): the flagged constructions
 are card-faithful as well as doctrinally sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
