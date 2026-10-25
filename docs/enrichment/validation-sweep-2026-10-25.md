@@ -1,7 +1,8 @@
 # Final strong-gate validation sweep — per-page evidence
 
-Run: 2026-10-25T02:06:57Z (epoch 1792894017, session T+3004 seconds)
+Run: 2026-10-25T02:10:50Z (epoch 1792894250, session T+3237 seconds)
 Gate: explicit ok line + '1 checked, 0 failed' + no FAIL/ERR in combined stdout/stderr; exit status recorded.
+Note: run after the last content edits of the session (Erikson and Naive realism round-7 prose repairs).
 
 PASS rc=0 Attention management.md
     ok   content/concepts/Attention management.md
