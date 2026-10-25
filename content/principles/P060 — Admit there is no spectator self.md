@@ -18,7 +18,7 @@ James gives the interest half. In The Principles of Psychology, attention is not
 
 (James, The Principles of Psychology, 1890; Dewey, The Quest for Certainty, 1929.)
 
-> "From knowing as an outside beholding to knowing as an active participant in the drama of an on-moving world is the historical transition whose record we have been following." (Dewey, The Quest for Certainty, ch. IX, [full text at Internet Archive](https://archive.org/download/questforcertaint032529mbp/questforcertaint032529mbp_djvu.txt))
+> "From knowing as an outside beholding to knowing as an active participant in the drama of an on-moving world is the historical transition whose record we have been following." (Dewey, The Quest for Certainty, ch. XI "The Copernican Revolution", [full text at Internet Archive](https://archive.org/stream/questforcertaint029410mbp/questforcertaint029410mbp_djvu.txt))
 
 My extension: the statement's "your looking changes the scene" goes beyond James's claim that interest shapes what shows up in experience; the scene-changing claim belongs to the observer-effect parallel, not to the two opened texts.
 
@@ -30,7 +30,7 @@ The anthropologist changes the village by being in it. Before you trust your own
 ## Sources
 
 - [The Principles of Psychology, Vol. 1, William James, Project Gutenberg](https://www.gutenberg.org/ebooks/57628) — "The Psychologist's Fallacy" (ch. VII) and Attention (ch. XI)
-- [The Quest for Certainty, John Dewey (1929), full text at Internet Archive](https://archive.org/download/questforcertaint032529mbp/questforcertaint032529mbp_djvu.txt) — chapters I and IX
+- [The Quest for Certainty, John Dewey (1929), full text at Internet Archive](https://archive.org/stream/questforcertaint029410mbp/questforcertaint029410mbp_djvu.txt) — chapters I and XI
 
 ## Psychology parallels
 

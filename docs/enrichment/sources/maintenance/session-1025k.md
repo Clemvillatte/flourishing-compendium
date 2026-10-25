@@ -45,3 +45,6 @@
 - Carrier opened: James, Talks to Teachers on Psychology, Gutenberg pg16287.txt, "Talks to Students" I. The Gospel of Relaxation. Four quotes verified verbatim.
 - Repair: the page cited Gutenberg 7442, which is Verne's Michel Strogoff (wrong book). Corrected to 16287. Removed "The whole argument turns on one word", "feeling is caught by the action", and the "that is the whole mechanism" example claims.
 - FLAG for supervisor: a wrong Gutenberg ID suggests other pages may cite wrong carriers; running a bulk quote-vs-carrier check (see verify results in this ledger when posted).
+
+## P060 Admit there is no spectator self
+- Verified Dewey 'From knowing as an outside beholding...' in archive.org questforcertaint029410mbp text: it is in ch. XI 'The Copernican Revolution' (running header p. 277 in that scan), not ch. IX as the page said. Chapter and carrier link corrected; poor-OCR carrier 032529mbp (quote not findable in it) replaced.
