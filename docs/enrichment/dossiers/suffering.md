@@ -50,6 +50,8 @@ Job's story holds the same refusal of easy explanation. Job loses everything, re
 
 [Tragic optimism](https://clemvillatte.github.io/flourishing-compendium/#card=Tragic%20optimism) is his name for the stance: saying yes to life in spite of the tragic triad of pain, guilt and death. The stance is not a command; Frankl explicitly bars commanding optimism, in oneself or in others. [E064 — Practise meaning through the attitude toward suffering](https://clemvillatte.github.io/flourishing-compendium/#card=E064%20%E2%80%94%20Practise%20meaning%20through%20the%20attitude%20toward%20suffering) is the practice form, and [ST311 — Frankl's Why](https://clemvillatte.github.io/flourishing-compendium/#card=ST311%20%E2%80%94%20Frankl%27s%20Why) carries the caution I would keep attached to it: meaning does not remove suffering, it changes the relation to it.
 
+[Amor fati](https://clemvillatte.github.io/flourishing-compendium/#card=Amor%20fati) is the other stance toward the necessary: "a man wishes nothing to be different, either in front of him or behind him, or for all eternity. Not only must the necessary be borne... but it must also be loved" ([Ecce Homo, Gutenberg](https://www.gutenberg.org/files/52190/52190-h/52190-h.htm)). The Buddhist path takes the same fact from the other side: the second Noble Truth names craving, wanting, for sensuality, for becoming, for non-becoming, as the origin of suffering and sets abandoning it as the task ([SN 56.11](https://www.dhammatalks.org/suttas/SN/SN56_11.html)). I read the two as different emphases rather than rivals: the loving helps where a person is at war with what has already happened, and the abandoning helps where the wanting itself is the wound. Whether the two combine, love of fate together with the end of craving, the sources gathered here do not settle.
+
 ### The reflex that keeps it going
 
 Between the two halves sits a mechanism the clinical tradition has measured. Avoidance works, briefly: it removes the unpleasant feeling, and the relief reinforces the avoidance, which removes the chance to learn that the feeling was survivable. [AF035 — Recognise that avoidance is negatively reinforcing](https://clemvillatte.github.io/flourishing-compendium/#card=AF035%20%E2%80%94%20Recognise%20that%20avoidance%20is%20negatively%20reinforcing%20%E2%80%94%20it%20works%20short-term%20and%20maintains%20suffering%20long-term) is the principle: short-term relief, long-term maintenance. The suffering is fed by the very reflex that promises to manage it.
@@ -69,18 +71,6 @@ The first arrow has its own science. Melzack and Wall's [gate control theory of 
 That is why the meditation tradition has an instrument for it. The [pain curve](https://clemvillatte.github.io/flourishing-compendium/#card=The%20pain%20curve) instruction: when pain arises in sitting, observe it a few times, return to the breath, and watch it objectively, knowing it arises from causes and vanishes when they disappear ([Dhammasami's instruction](https://www.wisdomlib.org/buddhism/article/mindfulness-meditation-made-easy/d/doc1640.html)). Montaigne made the same observation from illness rather than doctrine ([the body-mind unity in pain](https://clemvillatte.github.io/flourishing-compendium/#card=The%20body-mind%20unity%20in%20pain)):
 
 > "Suffering itself less afflicts the senses than the apprehension of suffering." (An old author's saying, quoted in [Montaigne, Essays, Gutenberg vol. 18](https://www.gutenberg.org/cache/epub/3598/pg3598.html))
-
-## Where the traditions genuinely disagree
-
-### Should the necessary be loved, or should wanting itself end?
-
-Two stances face the same situation: something cannot be changed. One asks me to want it fully. The other asks wanting itself to stop.
-
-Nietzsche's formula for greatness is [amor fati](https://clemvillatte.github.io/flourishing-compendium/#card=Amor%20fati): that "a man wishes nothing to be different, either in front of him or behind him, or for all eternity. Not only must the necessary be borne... but it must also be loved" ([Ecce Homo, Gutenberg](https://www.gutenberg.org/files/52190/52190-h/52190-h.htm)). The second Noble Truth takes the same fact from the other side: it names craving, wanting, for sensuality, for becoming, for non-becoming, as the origin of suffering, and sets abandoning it as the task ([SN 56.11](https://www.dhammatalks.org/suttas/SN/SN56_11.html)).
-
-The disagreement turns on the will itself. Nietzsche's stance refines wanting into love and asks for more of it: to wish nothing different is still to wish. The Buddhist stance treats the wishing as the disease, including the craving for non-becoming, the wish that the whole show stop. One prescription points the will at what happens; the other points at the will.
-
-I lean toward thinking they answer different sufferings: the loving helps where a person is at war with what has already happened, and the abandoning helps where the wanting itself is the wound. But the two ideals do not combine. I cannot both love my fate and bring craving to an end without quietly redefining one of them, and the choice between those redefinitions is a real one.
 
 ## Practice: separating the arrows
 

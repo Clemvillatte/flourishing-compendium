@@ -359,3 +359,21 @@ is the documented junction material, inherited from the mint maps.
 
 Prose em dashes outside quotes and card-title link text: zero
 (same result for suffering.md and freedom.md, checked together).
+
+## Corrections from the final advisor round (2026-10-25)
+
+1. ST188 logline: the earlier logline compressed the card's
+   two-step sequence (a warning while the leg was being broken,
+   then "I told you so" when it did) into a retrospective remark
+   during the breaking. Fixed: the logline now gives the warning
+   during the breaking and the confirmation after. The earlier
+   spot-check note calling the compression faithful was wrong;
+   this entry supersedes it.
+2. Coverage record corrected: "Complicated grief research" IS
+   mapped by sadness-and-grief.md (verified explicitly this
+   session). "Chronic pain research" is NOT mapped in any dossier
+   — an UNRESOLVED CANDIDATE flagged for the supervisor, not a
+   deliberate exclusion. The earlier "coverage check" entry
+   described a concept-title keyword screen as if it were proof
+   that every family exclusion was deliberate; this entry
+   narrows the claim to what was performed.

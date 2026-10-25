@@ -333,3 +333,23 @@ ST289's logline checked against the reopened card: psychiatrist
 excluded by the Nazis, limit situations as death, chance, guilt,
 struggle, illumination not solution — all match the card text.
 No defects found; no edits needed.
+
+## DISAGREEMENT SECTION RETRACTED (2026-10-25, final advisor round)
+
+The closing advisor round found the amor-fati-vs-cessation
+opposition's bridge unsupported: the section moved from SN 56.11's
+specified craving (sensuality, becoming, non-becoming) to "all
+wishing," then concluded that loving fate cannot coexist with
+ending craving, and no opened source establishes that bridge. The
+earlier two advisor rounds had accepted the section; the final
+round did not, and the final round governs. REVISION APPLIED: the
+"Where the traditions genuinely disagree" section is REMOVED; the
+comparison is folded into "The suffering that is not added" as a
+body paragraph stating the two stances, my reading of them as
+different emphases, and the explicit note that whether the two
+combine is not settled by the sources gathered here. CORRECTED
+COUNT: suffering has ZERO substantiated disagreements. The
+supervisor exception request now covers a zero-count dossier, and
+supervisor QC entry 7's count of this dossier (one question) is
+superseded by this entry. "Final" below means the editing pass
+has ended, not publication readiness.

@@ -70,6 +70,6 @@ The difference is in the direction of the happening, not in the acceptance of it
 
 ## Story: the stories that carry the theme
 
-[ST188 — Epictetus and the Leg](https://clemvillatte.github.io/flourishing-compendium/#card=ST188%20%E2%80%94%20Epictetus%20and%20the%20Leg): born a slave, Epictetus is reported by later sources to have been lamed by his master, saying as the leg was being broken that he had told him it would break.
+[ST188 — Epictetus and the Leg](https://clemvillatte.github.io/flourishing-compendium/#card=ST188%20%E2%80%94%20Epictetus%20and%20the%20Leg): born a slave, Epictetus is reported by later sources to have been lamed by his master, warning as the leg was being broken that he had told him it would break, and saying when it did that he had told him so.
 
 [ST293 — The Three Metamorphoses](https://clemvillatte.github.io/flourishing-compendium/#card=ST293%20%E2%80%94%20The%20Three%20Metamorphoses): Zarathustra's spirit becomes camel, lion and child; the child is the sacred yes-saying, a new beginning and a self-propelled wheel, and only the child creates. I read the sequence as the story the amor fati material leans on: bearing, then destroying, then affirming, in that order.

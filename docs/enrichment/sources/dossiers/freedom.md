@@ -280,3 +280,14 @@ defects; no edits.
 
 Prose em dashes outside quotes and card-title link text: zero
 (same result for suffering.md and acceptance.md, checked together).
+
+## Ledger accuracy correction (2026-10-25, final advisor round)
+
+The earlier "final verification round" entry said the short quote
+introductions were merged with following substantive paragraphs;
+only two were, and one join was a comma-splice of a short
+paragraph onto another short one. This pass: the standalone "The
+broader frame..." paragraph is merged into the waiter paragraph
+that follows it, producing one substantive paragraph. Visible-text
+word counts checked; "density 0" is not paragraph-length
+validation and is not claimed as one here.
