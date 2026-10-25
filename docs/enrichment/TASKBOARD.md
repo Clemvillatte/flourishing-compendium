@@ -3730,3 +3730,28 @@ REMAINING BLOCKERS (unchanged from the 15:06Z note): (1) one-repository requirem
 ## KERNELS REORG — RED COLOUR VERIFIED (gm-pplx-kern1-1025a, 2026-10-25 15:14Z)
 
 The red #E34234 requirement is now verified end-to-end in a live browser: `site/assets/app.js` mdToHtml now tags blockquotes whose markdown source starts with `**Therapeutic approach:` with class `modality`; `site/assets/style.css` adds `.art blockquote.modality` with `border-left:#E34234`, `color:#E34234`, `font-style:normal` (non-italic, distinct from ordinary gold blockquotes). Live browser test on the deployed site: injected the class and read `getComputedStyle` — `color: rgb(227, 66, 52)` (exact #E34234), `borderLeftColor: rgb(227, 66, 52)`, `italic: normal`. The GitHub Pages rebuild will pick this up automatically. REMAINING BLOCKER: only the one-repository owner ruling.
+
+## PER-CARD REVIEW PASS — general bucket audit (gm-pplx-kern1-1025a, 2026-10-25 15:20Z)
+
+Ran the per-card review the advisor demanded (regex alone is weaker than "no clear modality under the permitted evidence rule"). Sampled 95 general cards across 3 rounds, manual-read every hit:
+
+**Reclassified (5):**
+- K305 Bracketing interpretation → Stoic ("The Stoic ground is compatible...")
+- K284 The-what-does-this-role-require practice → Stoic ("The Stoic ground is quoted above")
+- K266 Impression-judgement-action log → Stoic ("the gap it trains is the Stoic one")
+- K273 The view from above → Stoic ("The exercise is a Stoic contemplative practice")
+- K127 Cognitive reappraisal → CBT ("Cognitive reappraisal is a form of cognitive change...")
+
+**Confirmed false positives (kept general, with reasons):**
+- K215: "positive psychology" is in a journal citation, not the method
+- K413: "Mindfully Stoic" is a YouTube channel name
+- K243: "Gilbert" is Daniel Gilbert (mind-wandering researcher), not Paul Gilbert (CFT)
+- K310: "Seligman" is the learned-helplessness researcher, not positive-psychology method grounding
+- K111: "reappraisal" is in a citation title (Füstös et al. on interoception), not the card's method
+
+**FLAGGED for owner decision (no matching modality node exists):**
+- K417 Shouyi (guarding the One) and K419 Microcosmic orbit: both genuinely Daoist ("one of the oldest named Daoist meditations"; "a Daoist energy-circulation practice") — needs a NAV-PSYCH-DAOIST node if the owner wants Daoist as a modality folder
+- K263 Post-action phronesis review: genuinely Aristotelian (Aristotle's NE Book VI phronesis definition quoted with MIT Classics carrier) — needs a NAV-PSYCH-ARISTOTELIAN node if the owner wants one
+- K222 Mortality reflection and K167 Equanimity under the eight worldly winds: both have Buddhist-tradition references in their Evidence sections, but the practices themselves are generic — marginal, needs owner ruling on whether Buddhist counts as a modality
+
+Current modality distribution after repairs: ACT 14, MI 14, CBT 15, CFT 9, MBCT 11, Stoic 9, DBT 2, BA 2 = 76 modality-tagged; 240 general (down from 246).
