@@ -315,3 +315,18 @@ disagreement and removing unsupported claims. REVISIONS APPLIED:
    three-part gloss is corroborated; the earlier-removed "the
    measure does not rank the three" claim stays removed (the
    carrier does not explicitly state non-ranking).
+
+## Final verification round (2026-10-25, same session)
+
+Advisor final round applied: approach acceptance reworded to the
+opened DAP-R article's wording (looking forward to a blessed
+afterlife) with the Jansen et al. carrier link added beside the
+body claim; the Liezi corroboration link (Giles translation,
+thedaobums reproduction) added beside the disagreement-section
+claim; the Linehan cautions re-attributed from Linehan's own words
+to the card that adapts her handout steps, because BOTH K123
+carriers (irp.cdn-website.com handouts PDF, NICABM transcript PDF)
+are robots-blocked to automated fetch and could not be opened;
+the paraphrase of the cautions stands as the card's account.
+Checks re-passed: checker exit 0 (26 links, 6 external carriers),
+density 0, quote_verify 2/0, card-target diff clean.

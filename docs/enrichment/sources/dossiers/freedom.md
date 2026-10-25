@@ -255,3 +255,16 @@ determine one inevitable response. REVISION APPLIED this pass:
   the card's own correction, and the Fromm-vs-Sartre candidate was
   rejected on this review. Publishing readiness remains blocked
   pending supervisor decision, consistent with suffering.
+
+## Final verification round (2026-10-25, same session)
+
+Advisor final round applied: "the difference is in the emphasis,
+not a contradiction" replaced with "These passages do not
+establish a contradiction between the accounts"; the Rousseau-Cynic
+bridge reworded to drop the "harder version" comparative and the
+progression implication ("the ancient form of the same question");
+the short Fromm and radical-freedom quote introductions merged
+with their following substantive paragraphs; the Fromm mechanism
+sentence moved before the quote. Checks re-passed: checker exit 0
+(16 links, 6 external carriers), density 0, quote_verify 7/0,
+card-target diff clean.
