@@ -114,9 +114,9 @@ Is weakness of will action against one's current better judgment, or an over-rea
 
 Holton denies that this is what the ordinary cases are, and moves the failure from judgment to intention:
 
-> "Philosophical orthodoxy identifies weakness of will with akrasia: the weak willed person is someone who intentionally acts against their better judgement. It is argued that this is a mistake. Weakness of will consists in a quite different failing, namely an over-ready revision of one's intentions." ([Holton 1999, abstract](https://rjh221.user.srcf.net/bibliography/))
+> "Philosophical orthodoxy identifies weakness of will with akrasia: the weak willed person is someone who intentionally acts against their better judgement. It is argued that this is a mistake. Weakness of will consists in a quite different failing, namely an over-ready revision of one's intentions." ([Holton 1999, abstract](https://web.archive.org/web/20251008071239/https://rjh221.user.srcf.net/bibliography/))
 
-> "Weakness of will arises, I shall suggest, when agents are too ready to reconsider their intentions." ([Holton 1999, author-hosted paper](https://rjh221.user.srcf.net/bibliography/pubs/Weakness.pdf))
+> "Weakness of will arises, I shall suggest, when agents are too ready to reconsider their intentions." ([Holton 1999, author-hosted paper](https://web.archive.org/web/20210804160248/http://rjh221.user.srcf.net/bibliography/pubs/Weakness.pdf))
 
 The disagreement changes what a case of delay must establish. Davidson's characterization asks whether someone intentionally acted against their current better judgment; Holton's asks whether they reconsidered an intention too readily. These are different questions, and either may help distinguish cases of postponement. The philosophical disagreement does not itself establish which intervention reduces procrastination.
 

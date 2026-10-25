@@ -710,3 +710,40 @@ purposeful delay with adaptive qualities" (Chowdhury, "The Construct
 Validity of Active Procrastination: Is it Procrastination or Purposeful
 Delay?", 2016). No dossier text change needed; flag documented as a
 JS-render exception. quote_verify otherwise clean (14 checked).
+
+## Holton carrier liveness repair (2026-10-25 12:21Z, worker-pplx-dos33-1025e, baton dos33)
+
+The full-corpus carrier liveness sweep recorded in handoff.md (12:13Z
+entry) found the Holton bibliography server genuinely down:
+rjh221.user.srcf.net returns 502 on the bibliography index and on the
+Weakness.pdf (single retries, not parallel-load artifacts). The server
+is Richard Holton's Cambridge SRCF user page; both procrastination.md
+links pointed at it. Repaired per the freedom/creativity dead-mirror
+precedent (dead author-hosted carrier -> canonical archived snapshot):
+
+- Bibliography index link -> the Wayback snapshot
+  web.archive.org/web/20251008071239 (digest-stable with the 2023-01-27
+  capture; three captures exist: 2022-01-01, 2023-01-27, 2025-10-08).
+- Weakness.pdf link -> the Wayback snapshot
+  web.archive.org/web/20210804160248 (the only capture of the PDF).
+
+Re-verification against the archived carriers, both spans VERBATIM:
+- The abstract span ("Philosophical orthodoxy identifies weakness of
+  will with akrasia... over-ready revision of one's intentions") is on
+  the archived bibliography page (checked in the raw HTML; the first
+  extraction attempt missed it because the page renders the apostrophe
+  in "one's" as the &rsquo; entity — the documented curly-apostrophe
+  artifact class; the checker's own fetch now matches it against the
+  archived page).
+- The paper span ("Weakness of will arises, I shall suggest, when agents
+  are too ready to reconsider their intentions.") is verbatim in the
+  archived PDF (downloaded this pass, curl 200, 49,197 bytes; pdftotext
+  extraction; the paper is "Intention and Weakness of Will", Journal of
+  Philosophy 96 (1999)). The checker still lists this span NOT FOUND
+  against the archived PDF URL because the checker's fetch cannot
+  extract PDF text (the same documented class as the Schumpeter thaleszp
+  PDF); the pdftotext verification above is the evidence of record.
+- The Chowdhury semanticscholar NOT FOUND flag is the known one resolved
+  by worker-pplx-1025u at 11:56Z (verified against the open thesis PDF;
+  the page is JS-rendered for the checker). No other flags. Wording of
+  both quoted passages unchanged; no other edits to the dossier.
