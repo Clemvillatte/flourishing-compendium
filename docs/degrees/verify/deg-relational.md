@@ -235,3 +235,32 @@ M04-R10, M04-R14, SRC-M24-003.
 - Note: the owner should confirm the discussion's spoken language mix from
   the transcript panel before assigning; the event is bilingual in
   framing.
+
+### SRC-M24-003: Decolonization, Neocolonialism and Human Rights (Anzaldúa reading group)
+
+- Legacy attachment: mod-rel-3 optional media.
+- Identity: oembed confirms the video on the ILAS Columbia channel, title
+  "Decolonization, Neocolonialism and Human Rights: Gloria Anzaldúa"
+  (https://www.youtube.com/watch?v=wMxx5-IRaKw). Freely playable, no paywall.
+- Duration: 1:34:31 printed in the player (2026-10-25); the page also
+  prints 1:24:12 beside a related listing of the series name, which is not
+  this video's duration.
+- Instructor credentials: Prof. Dr. Verena Dolle, Professor of Spanish,
+  Portuguese and Latin American Literatures and Cultures at Justus-Liebig
+  University Giessen since 2009, Vice-President for Teaching and Studies
+  2015 to 2021 (JLU Giessen institute page:
+  https://www.uni-giessen.de/de/fbz/fb05/romanistik/team/litkult, opened
+  2026-10-25).
+- Language: English. The watch page offers a transcript panel.
+- Event: Columbia University Institute of Latin American Studies
+  interdisciplinary reading group, held on Zoom, published 23 March 2021.
+- Content coverage (from the recording's own description, read 2026-10-25):
+  a colloquium among peers on intersectional discrimination, inequality,
+  human rights and colonial history in Latin America, this session
+  discussing Anzaldúa's Borderlands/La Frontera, led by Prof. Dr. Verena
+  Dolle.
+- Relevant segments: a single 1:34:31 session; no chapter timestamps
+  printed.
+- Verification status: verified-video (2026-10-25).
+- Note: this is a peer reading-group session, not a lecture; the owner
+  should weigh whether that fits the module's teaching format.
