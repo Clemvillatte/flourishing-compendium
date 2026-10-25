@@ -28,6 +28,11 @@
      "t": "2026-10-21T12:19:34+00:00",
      "to": "published",
      "note": "supervisor registration ST357-364 this session; story_check 0 errors each"
+    },
+    {
+     "t": "2026-10-25T15:19:00+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:19:00: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
     }
    ]
   },
@@ -1187,5 +1192,5 @@
    ]
   }
  },
- "updated": "2026-10-25T15:18:46+00:00"
+ "updated": "2026-10-25T15:19:00+00:00"
 }
