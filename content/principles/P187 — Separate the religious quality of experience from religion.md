@@ -12,19 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 187** — Separate the religious quality of experience from religion
 
-Dewey's A Common Faith makes a distinction that is easy to miss and worth carrying: religion is a noun, a system of doctrines and institutions; the religious is an adjective, a quality of experience. He argues that the quality is real and cultivable without requiring assent to any supernatural claim. The adjective, he says, "denotes attitudes that may be taken toward every object and every proposed end or ideal" (*A Common Faith*, LW 9.8, as quoted in [Muse](https://muse.jhu.edu/pub/93/oa_monograph/chapter/2262824)).
+In *A Common Faith* (1934) Dewey separates two things people usually run together. The key sentence, as Hauptli's lecture notes quote it, reads: "The heart of my point... is that there is a difference between religion... and the religious; between anything that may be denoted by a noun substantive and the quality of experience that is designated by an adjective" ([Hauptli's lecture supplement on *A Common Faith*, quoting Dewey](https://faculty.fiu.edu/~hauptli/Dewey'sACommonFaith.htm)). In the same book he says that the people on both sides of the usual argument share one assumption: "There is one idea held in common by these two opposite groups: identification of the religious with the supernatural." His proposal is "another conception of the nature of the religious phase of experience, one that separates it from the supernatural and the things that have grown up about it" ([Dewey, *A Common Faith*, as excerpted at Harvard Square Library](https://www.harvardsquarelibrary.org/theology-philosophy/john-dewey-a-common-faith/)).
 
-This is Dewey's naturalistic proposal, not the position of all Buddhism or Daoism, and it is contested from both traditional-religious and atheist-materialist sides. The move is not anti-religious; it is a proposal that the experience — connection to something larger, harmonizing of the self through allegiance to inclusive ideal ends — can be had directly, without a membership card.
+This is Dewey's own naturalistic proposal. It does not speak for Buddhism, Daoism or any religious tradition.
 
-> Any activity pursued in behalf of an ideal end against obstacles and in spite of threats of personal loss because of conviction of its general and enduring value is religious in quality. ([Dewey, A Common Faith, 1934, as excerpted at Harvard Square Library](https://www.harvardsquarelibrary.org/theology-philosophy/john-dewey-a-common-faith/))
+> "Any activity pursued in behalf of an ideal end against obstacles and in spite of threats of personal loss because of conviction of its general and enduring value is religious in quality." (Dewey, *A Common Faith*, 1934, as excerpted at [Harvard Square Library](https://www.harvardsquarelibrary.org/theology-philosophy/john-dewey-a-common-faith/))
 
-**Plain words** Two people can have the same moment — the sunset, the symphony, the birth, the stillness after — and one of them will call it religious and the other will not. The difference is not the experience. Dewey's point is that the experience does not require the doctrine in order to be had; the doctrine is one delivery mechanism among several. If the mechanism that carried the experience for you has stopped working, you have not lost the experience; you have lost a specific container.
+Near the end of the same excerpt he describes what such a faith draws on: "The things in civilization we most prize are not of ourselves. They exist by grace of the doings and sufferings of the continuous human community in which we are a link."
 
-*For example:* A person who has left their childhood tradition is often told they have lost something. The honest inventory is different: what they actually had were moments of awe, gratitude and moral seriousness. Those were the goods. The doctrines were the wrapping. Once the wrapping is gone, the goods still exist, and can be cultivated directly — through art, nature, service, silence.
+**Plain words** Dewey gives "religious" a job as an adjective. It describes a way of acting, with steady commitment to an ideal you value, even at a cost to yourself. Anyone can do that, inside a religion or outside one.
+
+*For example:* Imagine a nurse who keeps training junior colleagues on an under-funded ward because she thinks the work matters, though it costs her evenings and leave. By Dewey's sentence her activity is religious in quality, whatever she believes about God. This is my illustration of his definition.
 
 ## Sources
 
-- [Muse](https://muse.jhu.edu/pub/93/oa_monograph/chapter/2262824)
+- [Lecture Supplement on Dewey's A Common Faith, Hauptli, Florida International University](https://faculty.fiu.edu/~hauptli/Dewey'sACommonFaith.htm): the religion/religious sentence, as quoted from Dewey.
 - [Dewey, A Common Faith, 1934, as excerpted at Harvard Square Library](https://www.harvardsquarelibrary.org/theology-philosophy/john-dewey-a-common-faith/)
 
 ## Stories

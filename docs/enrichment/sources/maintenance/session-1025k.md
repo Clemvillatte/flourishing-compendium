@@ -28,3 +28,7 @@
 ## P127 Treat democracy as a way of life
 - Carrier opened: Dewey, Democracy and Education, Gutenberg pg852.txt, ch. VII. Block quote ("A democracy is more than a form of government...") verified verbatim; added the two criterion questions, "common interest in plunder" and family example (all verified in same chapter).
 - Repair: removed "each counts as one" (not in the text), "ballot box is the tail; dinner table is the dog", "Dewey's test is the number of contacts" overreading, and the duplicate citation line. Example now a labelled illustration of Dewey's own family criterion.
+
+## P187 Separate the religious quality of experience from religion
+- Carriers: Harvard Square Library excerpt of A Common Faith (search excerpt of page; "Any activity pursued...", "identification of the religious with the supernatural", "another conception...", "things in civilization we most prize" quoted verbatim) and Hauptli FIU lecture supplement (search excerpt; "heart of my point" sentence). Note: the HSL page returned an empty body to direct curl, so quotes rely on the search excerpt text of the page; locators (page numbers) not given because editions disagree (Yale 2013 p. 27/30; LW9:19).
+- Repair: dropped the Muse "LW 9.8" citation (never opened), the "contested from both ... sides" claim, and the "delivery mechanism / wrapping / membership card" scaffolding.
