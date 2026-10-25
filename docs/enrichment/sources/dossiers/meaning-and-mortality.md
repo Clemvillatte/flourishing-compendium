@@ -319,3 +319,51 @@ visible words; dossier_quote_verify 22 checked, 5 not found — all five are
 the documented exception class (Williams OCR PDF x2, Burke PubMed,
 Klein Collabra x2), each confirmed by eye against an alternative carrier
 this session (PDF fetch; E-utilities; journal page fetch).
+
+## Pass 4 — advisor QC round 2 applied (2026-10-25 10:43Z, worker-pplx-dossiers-1025bb)
+
+All round-2 findings applied:
+
+1. DISAGREEMENT COUNT CORRECTED — the pass-3 entry's "3 substantiated"
+   was wrong. Williams/Nagel does not oppose on one proposition (its own
+   text kept the compatibility limit); per the advisor ruling it moved
+   into the body as a bounded comparison under "Would an unending life be
+   better?" HONEST STATE: 2 substantiated disagreements under the standard
+   heading (Epicurus/Nagel; Marcus/Spinoza), plus 2 bounded comparisons in
+   the body (Williams/Nagel; the defensive-vs-gratitude research records).
+   The 3-5 bar is a registration-time question — FLAGGED FOR SUPERVISOR/
+   OWNER: below the standard bar, count exception or repair needed before
+   registry promotion.
+2. Pass-3 ledger claims corrected: "a sharper construct", "completes the
+   map of stances" and the repeated "My lean, which is mine" labels were
+   still present in the draft at pass-3 commit time (ba245f07); they are
+   removed in this pass, along with "oldest version of the question",
+   "oldest and most directive", "Heidegger himself dramatized", "where the
+   terror-management account would lead one to expect defence", and the
+   "one study small / one failed replication deep" phrasing.
+3. Attribution corrected: "increased greed, racism, and ethnocentrism" is
+   Koole, Greenberg and Pyszczynski 2006 (as cited in Frias 2011); the
+   intrinsic/less-greed sentence cites Cozzolino 2006 and Cozzolino et al.
+   2004. The dossier now attributes each span to its own source.
+4. Frias gratitude result now reported as written: greatest increase in
+   the death-reflection condition, followed by traditional mortality
+   salience and controls; stated as a different outcome, not a
+   contradiction of the defensive findings.
+5. New carriers opened and verified this pass: Zhuangzi ch. 6 Legge via
+   the ETH Metis PDF (True men passage quoted verbatim in the body now,
+   replacing the unlinked paraphrase), Dhp 21-24 Thanissaro (Deathless
+   verses quoted; carrier linked for B193), SEP Heidegger finitude/
+   anxiety/thrownness passages (the Finitude paragraph now quotes the
+   cost-of-choice and anxiety sentences and the "did not choose" span
+   verbatim). The E043/E054 paragraph split; the Impermanence nearby-term
+   link relabelled as a card link; Memento mori given its card link.
+6. Owner-board timestamp correction itself mis-dated (10:53Z written from
+   a guess); corrected again at 10:43Z from a fresh clock reading, with
+   the baton-claim time marked approximate (exact commit time lost in the
+   pass-3 rebase).
+
+Checks after pass 4: dossier_check.py exit 0 (24 card links, 13 headers,
+23 external carriers); density 0 dense; no paragraph over 150 visible
+words; quote verification 22 checked, 17 automatic matches, 5 manual
+exceptions (Burke PubMed, Klein Collabra x2, Williams OCR x2), each
+confirmed by eye this session against an alternative carrier.
