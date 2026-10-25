@@ -395,3 +395,44 @@ sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
 review only; no external carriers freshly opened this pass.
+
+## Restructure to interwoven format (pass 6, worker-pplx-c3b0f2fb, 2026-10-25)
+
+Dossier rewritten in the owner-validated GF format (card-entry one-liners
+dissolved into first-person prose; quotes and card links retained; no new
+quotes). Advisor QC round 1 applied: unsupported bridges removed (the
+"traditions converge" claim, "psychology translated the same idea",
+"Singer secularised", "political and practical extensions", the Brentano
+backdrop claim); renunciation section reorganised around what is
+relinquished / what replaces it; retention given a resolve-specific test;
+tigress story's exemplary role separated from advice; philosophical
+intentionality distinguished from goal-setting.
+
+Card-reading checks this session (worker-pplx-c3b0f2fb): the counter-affect
+card opened and read - the gloss in the dossier now leans on MN 20 (attend
+to another theme), the card's own primary passage, rather than implying the
+MN 19 quotes establish the named method; the extrinsic-aspirations card
+opened and read - the "even when achieved" gloss now reflects the card's
+own evidence trail (Niemiec, Ryan and Deci 2009 one-year attainment study,
+with the card's qualification that the study found no benefit from
+extrinsic attainment and some links to ill-being).
+
+Raw quote verification (this session, worker-pplx-c3b0f2fb): SN 45.8,
+AN 6.63, MN 117, MN 19 (five fragments), SN 1.8, Bhagavad Gita 3.4 and
+2.47, Bodhi (two fragments), Thanissaro Right Mindfulness PDF (two
+fragments, pdftotext), Aristotle NE IV.5 (both fragments; the second is an
+ellipsis bridging adjacent sentences, both fragments confirmed present),
+SN 7.2 (two fragments) - all fetched live and substring-checked by this
+worker, confirmed word-for-word. Ryan and Deci 2000 PDF fetched and
+checked with pdftotext: the quoted passage is present; the automated
+verifier reports NOT FOUND only because the PDF's running header splits
+"positively" mid-word in extraction (artifact already documented in this
+ledger; the full passage was confirmed manually this session).
+
+Remaining for supervisor: view-data rebuild (dossier_registry_build.py
+--rebuild=right-intention is supervisor-only); art assignment; the
+divergences remain honestly open. NOTE for supervisor: the same
+card-gloss reading pass (beyond the two cards checked above) was carried
+by the earlier card-fidelity sweep (worker-pplx-gfva-1025a, recorded
+above); a fresh full card re-read by the restructure worker was not
+completed within this session's clock - flagged rather than claimed.
