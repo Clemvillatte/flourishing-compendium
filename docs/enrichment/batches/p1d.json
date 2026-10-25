@@ -46,7 +46,6 @@
     "A054",
     "A069",
     "A074",
-    "A111",
     "AF005",
     "AF007",
     "AF012",
@@ -71,7 +70,8 @@
     "S048",
     "P002",
     "A015",
-    "P101"
+    "P101",
+    "A111"
   ],
   "in_progress": null,
   "flagged": {
@@ -96,11 +96,12 @@
     "S048": "RESOLVED: I28 philosophical account attributed; Ench45 evaluation scope corrected, assent/action distinguished, Dugas model comparison bounded; validator PASS",
     "P002": "RESOLVED: technical Whitehead ontology separated from everyday process illustration; exact secondary-carrier quotes and developmental research/qualification sourced; validator PASS",
     "R116": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived (two-directions framing); body 'my addition' reworded; validator PASS",
-    "A015": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.78)"
+    "A015": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.78)",
+    "A111": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)"
   },
   "missing_concepts": [],
   "sources_checked": 82,
-  "updated": "2026-10-25T12:43:03+00:00",
+  "updated": "2026-10-25T12:47:34+00:00",
   "band_done": false,
   "notes": {
     "A015": {
@@ -114,6 +115,12 @@
       "claims": "n/a",
       "limitations": "Rests on SEP wording",
       "url": "https://plato.stanford.edu/entries/deleuze/"
+    },
+    "A111": {
+      "qc": "Plain-words replicate replaced (~0.6 -> ~0.1); validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://classics.mit.edu/Aristotle/politics.7.seven.html"
     }
   }
 }

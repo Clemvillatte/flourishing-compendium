@@ -29,7 +29,7 @@ The Politics adds that "the enjoyment of good fortune and the leisure which come
 
 (Politics VII.14-15; NE X.6-7.)
 
-**Plain words** For Aristotle, work and business are for the sake of leisure, not the reverse. Leisure is not rest or entertainment. It is time for activity worth doing for its own sake, and using it well takes character.
+**Plain words** The modern week is arranged as if leisure were the recovery bay for work, a machine shop closed for maintenance. Aristotle flips the arrangement: the shop exists for the sake of what the freed hours hold, and those hours are not for slumping either, since his scholē is activity that carries its own point, conversation, study, things done well because they are worth doing. This is why the free Saturday can be wasted more thoroughly than the working Tuesday, since nothing is harder to spend well than open time, and character is what the spending reveals.
 
 *For example:* Imagine spending a Saturday cooking with friends and talking. That fits the spirit of the idea. Clicking through shopping apps for the same hours does not.
 
