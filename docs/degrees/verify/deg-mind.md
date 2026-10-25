@@ -1158,3 +1158,121 @@ against the recording or transcript before the record is attached to a module.
   chapters: welcome 0:00, Ryan presentation 6:17.
 - Relevant segment: presentation from 6:17 to end.
 - Verification status: verified-video (2026-10-25).
+
+### SRC-M07-010: Master Your Sleep and Be More Alert When Awake (Huberman Lab)
+
+- Identity and access: the episode page
+  (https://www.hubermanlab.com/episode/master-your-sleep-and-be-more-alert-
+  when-awake) opened 2026-10-25; no paywall or login encountered on the page
+  (Premium is offered for transcripts).
+- Duration: no total duration printed; chapter timestamps run to 1:20:00
+  (Office Hours). DURATION FLAG as with the other Huberman records.
+- Instructor credentials: Andrew Huberman (per the page; an institutional
+  page was not opened this session).
+- Language: English.
+- Content coverage (page text, read 2026-10-25): what makes people sleepy,
+  how sleep and wakefulness relate, and tools for falling asleep, sleep
+  quality, sleep timing and alertness — adenosine and caffeine, light
+  exposure and circadian timing, food and exercise timing, naps and
+  non-sleep deep rest, drugs and supplements.
+- Relevant segment: whole episode (duration to reconcile from the player).
+- Verification status: verified-page (2026-10-25), duration gap flagged.
+
+### SRC-M07-011: How to Breathe Correctly for Optimal Health (Huberman Lab)
+
+- Identity and access: the episode page
+  (https://www.hubermanlab.com/episode/how-to-breathe-correctly-for-
+  optimal-health-mood-learning-and-performance) opened 2026-10-25; no
+  paywall or login encountered on the page.
+- Duration: no total duration printed; chapter timestamps run to 2:16:19.
+  DURATION FLAG.
+- Instructor credentials: Andrew Huberman (per the page; institutional page
+  not opened this session).
+- Language: English.
+- Content coverage (page text, read 2026-10-25): mechanics and chemistry
+  of breathing; nasal versus mouth breathing, overbreathing, sleep apnea,
+  breathing at altitude; practices including physiological sighing, box
+  breathing, cyclic hyperventilation and the Wim Hof Method, with
+  applications for stress, mood, sleep, heart rate and performance.
+- Relevant segment: whole episode (duration to reconcile).
+- Verification status: verified-page (2026-10-25), duration gap flagged.
+
+### SRC-M07-012: How to Optimize Your Brain-Body Function and Health (Huberman Lab)
+
+- Identity and access: the episode page
+  (https://www.hubermanlab.com/episode/how-to-optimize-your-brain-body-
+  function-and-health) opened 2026-10-25; no paywall or login encountered.
+- Duration: no total duration printed; chapter timestamps run to 1:50:40.
+  DURATION FLAG.
+- Instructor credentials: Andrew Huberman (per the page; institutional page
+  not opened this session).
+- Language: English.
+- Content coverage (page text, read 2026-10-25): interoception — mechanical
+  and chemical organ-to-brain communication affecting mood, performance,
+  inflammation, immune function and recovery; eleven protocols including
+  breathing techniques, fermented foods, fasting, sugar-craving and nausea
+  approaches, temperature regulation, and heartbeat sensing.
+- Relevant segment: whole episode (duration to reconcile).
+- Verification status: verified-page (2026-10-25), duration gap flagged.
+
+### SRC-M07-013: Dr. Andy Galpin — How to Assess and Improve All Aspects of Your Fitness (Huberman Lab guest series)
+
+- Identity and access: the episode page
+  (https://www.hubermanlab.com/episode/dr-andy-galpin-how-to-assess-
+  improve-all-aspects-of-your-fitness) opened 2026-10-25; the page
+  describes the podcast information as zero-cost to the consumer; no
+  payment or login encountered.
+- Duration: no total duration printed; chapter timestamps run to 1:59:58.
+  DURATION FLAG.
+- Instructor credentials: Dr. Andy Galpin, guest (per the page;
+  institutional page not opened this session).
+- Language: English.
+- Content coverage (page text, read 2026-10-25): nine exercise-induced
+  adaptations; assessing movement, power, strength, hypertrophy, muscular
+  endurance, anaerobic and aerobic capacity and long-duration endurance,
+  with testing methods, benchmarks and assessment organization.
+- Relevant segment: whole episode (duration to reconcile).
+- Verification status: verified-page (2026-10-25), duration gap flagged.
+
+### SRC-M07-016: Essentials — Master Your Sleep (Huberman Lab)
+
+- Identity and access: the episode page
+  (https://www.hubermanlab.com/episode/essentials-master-your-sleep-be-
+  more-alert-when-awake) opened 2026-10-25; no payment or login
+  encountered.
+- Duration: the page describes Essentials episodes as approximately 30
+  minutes and prints no total runtime; chapter timestamps run to 24:31.
+  Approximate-duration FLAG (not a printed total).
+- Instructor credentials: Andrew Huberman (per the page; institutional page
+  not opened this session).
+- Language: English.
+- Content coverage (page text, read 2026-10-25): what influences
+  sleepiness, sleep quality and wakefulness — adenosine, circadian
+  rhythms, cortisol and melatonin, light exposure at different times of
+  day, morning and evening light, naps, non-sleep deep rest and
+  supplements.
+- Relevant segment: whole episode.
+- Verification status: verified-page (2026-10-25), approximate duration
+  only.
+
+### SRC-M07-017: Essentials — Tools for Managing Stress and Anxiety (Huberman Lab)
+
+- Identity and access: the episode page
+  (https://www.hubermanlab.com/episode/essentials-tools-for-managing-
+  stress-anxiety) opened 2026-10-25; no payment or login encountered
+  (Premium is offered for transcripts).
+- Duration: the page describes Essentials episodes as approximately 30
+  minutes; chapter timestamps run to 31:19. Not a printed total —
+  approximate-duration FLAG.
+- Instructor credentials: Andrew Huberman (per the page; institutional page
+  not opened this session).
+- Language: English.
+- Content coverage (page text, read 2026-10-25): how the mind and body
+  respond to stress — short-, medium- and long-term stress, potential
+  benefits of acute stress; tools including physiological sighs,
+  deliberate hyperventilation, broadened visual focus, social connection,
+  and supplements (L-theanine, ashwagandha), with a caution about
+  melatonin. Dated 16 January 2025.
+- Relevant segment: whole episode.
+- Verification status: verified-page (2026-10-25), approximate duration
+  only.
