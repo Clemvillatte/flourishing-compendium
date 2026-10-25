@@ -187,3 +187,16 @@ Finds the Playground (bureaucrat, cancer, petitioned playground,
 death on the swing — matches). Both match. Combined with batch 1
 (ST005 body, ST277 and ST215 headers), all sampled cards verify.
 No defects found.
+
+## Full-set quote sweep, spot-verification (2026-10-25 10:44Z, launcher-pplx-dos7-1025n2)
+
+A published-set quote_verify sweep flagged the Spinoza Ethics III
+pleasure-definition span ("Pleasure is the transition of a man from a
+less to a greater perfection.", sacred-texts eth03.htm). Eye-checked
+this pass against the live page: the span is VERBATIM (the page
+prints "II. Pleasure is the transition of a man from a less to a
+greater perfection." / "III. Pain is the transition of a man from a
+greater to a less perfection."). The checker's NOT FOUND is a fetch
+artifact on the sacred-texts carrier, not a source failure. The other
+happiness flags in the sweep (PubMed, Sage spans) are the documented
+bot-wall exception class. No dossier edits.
