@@ -1,5 +1,37 @@
 # LIVE GF EXEMPLAR HANDOFF — supervisor-11878a6c, 2026-10-24
 
+## SESSION CHECKPOINT (2026-10-25 ~01:12Z, supervisor-pplx-1024c, pass 6)
+
+The 2026-10-24 voice-audit inventory is now FULLY SWEPT (all 23 dossiers
+with flagged lines carry documented candidate reviews; goals and
+overload-overwhelm have zero detector matches but still need full
+reader-level reviews per VOICE-AUDIT.md). The supervisor personally
+reviewed the two exemplars: anger (6 candidates, all recast to direct
+statements) and the-self (14 candidates, 12 recast, 2 kept — the ACT
+context/content formula and the Anattalakkhana Sutta's own quoted
+negation), with per-line dispositions in both ledgers, checker exit 0,
+registries rebuilt, node OK. Earlier passes this session: health check
++ PROGRESS.md refresh; QC samples dos27 fear (Epicurus verbatim vs
+opened MIT Classics carrier) and dos6 Mandela (18/13 quarry years vs
+freshly opened LA Times 1995-02-11); ST033 story card repaired and
+followed through (LA Times URL on the card, mislabeled Wikipedia link
+fixed, unsupported 'rather than overthrowing it' contrast removed);
+dos30 frustration quotation-check PASS (8 extracts verified against
+opened carriers); dos5 Tangney keep and dos9 Ariely-retraction claim
+corroborated (retraction confirmed against the Europe PMC record,
+PMID 42684323). CORRECTIONS issued after advisor milestone QC,
+including a RETRACTION of an earlier 'no pending proposals' claim — the
+accurate inventory is ~254 applyable-schema pending records + 1,147
+thinker-schema records blocked by the deliberate enrich_apply guard
+(see TASKBOARD pass-5 note). ROUTED to live owners: dos6 (dossier
+'rather than overthrowing it' line), dos30 (Schnitker gloss narrowing;
+open-question field-claim rewording), next dos9 worker (decorative-
+metaphor flag on 'the world's refusal to guarantee anything'). OPEN
+for the owner: the exemplar art assignment + registry flips for the
+remaining unpublished dossiers (dos30 frustration verified, art
+pending); the goals/overload-overwhelm full reader reviews; the voice-
+validation pass over the recasts.
+
 ## SESSION CHECKPOINT (2026-10-25 ~00:45Z, supervisor-pplx-1024c, takeover of the RELEASED supervisor baton)
 
 Voice-audit coordination state at takeover: workers (gfva-1025a and parallel
