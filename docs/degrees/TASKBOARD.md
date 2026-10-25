@@ -495,7 +495,7 @@ status lines correctly scope verification to the named speaker. No defects
 found in the sample; no repairs needed beyond the Rosemont credentials-line
 fix already pushed (df1000b38) and the taskboard timestamp corrections.
 
-### Checkpoint — deg-verify-a transcript coverage round (13:58Z, 2026-10-25)
+### Checkpoint — deg-verify-a transcript coverage round (13:56Z, 2026-10-25)
 
 Worker-pplx-degrees-1: third-party transcript route used to confirm content
 coverage on 10 deg-mind cards — Fredrickson M06-AF12 and Brach M06-AF13
