@@ -4,7 +4,7 @@
 
 Collectedness is the gathering of the mind, the way an instrument is tuned rather than forced. The traditions treat it as trainable, protectable and available inside ordinary activity, not a rare condition reserved for hermits. The counter-image is the scattered, forced focus of everyday distraction, and the counterweight the traditions propose is practice: a capacity tuned like an instrument and reachable inside ordinary life.
 
-I came to this dossier with the tuning question: whether the gathered mind is something I force or something I tune, and every thread below keeps that question open. The path's own account comes first, then the Yoga account of staging absorption, then what the practices train and by what mechanics, the double sense of one-pointedness, absorption in activity, and the modern conditions the practice meets.
+I began with the tuning question: whether the gathered mind is something I force or something I tune.
 
 ### Nearby terms
 
@@ -12,8 +12,8 @@ I came to this dossier with the tuning question: whether the gathered mind is so
 - One-pointedness and collectedness: the renderings of the same Pali term, in their own group below.
 - Absorption: the English word under which the jhanas and flow meet; the research construct is held at the Attention boundary above.
 - Flow: the psychological cousin, in its own group below.
-- Right effort: the lute-string tuning is the factor this page shares with [right effort](right-effort.md); the two dossiers quote the same sutta for different reasons.
-- The sibling factors: [right view](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20view), [right intention](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20intention) and [right mindfulness](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20mindfulness) each have their own card, and each factor has a dossier written or in progress; right view's is still in draft on its band. Right mindfulness carries the sati side of the collected mind, and this page keeps the samadhi side.
+- Right effort: the lute-string tuning is the factor shared with [right effort](right-effort.md); the two dossiers quote the same sutta for different reasons.
+- The sibling factors: [right view](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20view), [right intention](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20intention) and [right mindfulness](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20mindfulness) each have their own card, and each factor has a dossier of its own. Right mindfulness carries the sati side of the collected mind, and I keep the samadhi side.
 
 ## The path's own account
 
@@ -29,7 +29,7 @@ The training instruction is [B028 — Develop right concentration (samadhi)](htt
 
 ### How is effort tuned rather than forced?
 
-[B036 — Tune, don't force: the lute string](https://clemvillatte.github.io/flourishing-compendium/#card=B036%20%E2%80%94%20Tune%2C%20don%27t%20force%20%E2%80%94%20the%20lute%20string) carries the Sona Sutta's craftsman's question, neither taut nor slack, with over-aroused persistence leading to restlessness and overly slack persistence to laziness. That is the tuning teaching this dossier's question names, and it comes with a diagnosis step: [Y021 — Diagnose the mind's state before choosing a practice](https://clemvillatte.github.io/flourishing-compendium/#card=Y021%20%E2%80%94%20Diagnose%20the%20mind%27s%20state%20before%20choosing%20a%20practice) holds Vyasa's five states of mind, from restless to arrested, with the fitness rule that samadhi belongs to the one-pointed mind.
+[B036 — Tune, don't force: the lute string](https://clemvillatte.github.io/flourishing-compendium/#card=B036%20%E2%80%94%20Tune%2C%20don%27t%20force%20%E2%80%94%20the%20lute%20string) carries the Sona Sutta's craftsman's question, neither taut nor slack, with over-aroused persistence leading to restlessness and overly slack persistence to laziness. That is the tuning teaching the opening question names, and it comes with a diagnosis step: [Y021 — Diagnose the mind's state before choosing a practice](https://clemvillatte.github.io/flourishing-compendium/#card=Y021%20%E2%80%94%20Diagnose%20the%20mind%27s%20state%20before%20choosing%20a%20practice) holds Vyasa's five states of mind, from restless to arrested, with the fitness rule that samadhi belongs to the one-pointed mind.
 
 [Restlessness as weather](https://clemvillatte.github.io/flourishing-compendium/#card=Restlessness%20as%20weather) gives the Gita's wind-simile for the restless mind, the Pali hindrance of restlessness-and-worry, and calm (samatha) as the tradition's own remedy. I take the simile as a practice reminder of my own, not the tradition's instruction: weather is tuned around, not shouted down.
 

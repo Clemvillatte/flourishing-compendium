@@ -603,3 +603,34 @@ FLAG for the supervisor: the published Academy data (fcDossiersData in
 site/assets/app.js) does not contain the fourth question — the re-splice
 requested after its addition was never executed. Supervisor-only action;
 the markdown of record is the source of truth.
+
+Humanizer pass (2026-10-25, worker-pplx-dos25-1025m): targeted wording
+pass, six edits, reader-level repair of page/dossier
+self-description. (1) Opening: "I came to this dossier with the tuning
+question" became "I began with the tuning question"; the roadmap
+sentence ("The path's own account comes first, then the Yoga account
+of staging absorption, then...") was deleted (the section headers
+carry the order); and "every thread below keeps that question open"
+was cut per advisor QC (page-structure commentary making a sweeping
+unresolvedness claim). (2) Nearby terms Right effort bullet: "the
+factor this page shares with" became "the factor shared with".
+(3) Sibling factors bullet: "this page keeps the samadhi side" became
+"I keep the samadhi side"; and the stale worker-status commentary
+"each factor has a dossier written or in progress; right view's is
+still in draft on its band" became "each factor has a dossier of its
+own" — right view, right intention and right mindfulness are all
+published in the registry (checked this session), so the draft claim
+was stale. (4) Body: "the tuning teaching this dossier's question
+names" became "the tuning teaching the opening question names". Quote
+text and citations unchanged; the three quote_verify misses are the
+documented checker artifacts above (Yoga Sutras "1.2." numbering
+false positives), covered by prior ledger verification, not newly
+verified quotations.
+
+Checks: dossier_check exit 0 (61 card links, 33 headers);
+dossier_density 0 dense; dossier_quote_verify 12 checked, 3 not
+found (standing documented artifacts). Right-concentration is
+published; the site data does not change until a supervisor rebuild,
+so this is flagged: re-splice right-concentration when convenient
+(also outstanding from the dos25 launcher's 10:55Z flag: app.js
+lacks the 4th question).
