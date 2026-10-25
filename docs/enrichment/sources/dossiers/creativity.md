@@ -562,3 +562,40 @@ reinterpretation span). Two of the flagged PubMed spans are now
 machine-verified; the remaining flags (ERIC carrier, Schumpeter PDF,
 Nietzsche Gutenberg ellipsis spans) are the documented artifact
 classes.
+
+## Haught-Tromp carrier re-verification + public-path URL fix (2026-10-25 12:12Z, worker-pplx-dos32-1025n3, baton dos32)
+
+The supervisor review row's open item ("The Haught-Tromp carrier is
+unopened: open it or remove every claim that depends on it") was already
+answered by the worker's rev-3 fifth pass (row 23 above); this entry adds an
+INDEPENDENT re-verification and closes the liveness defect that remained.
+
+- Re-verification: the exact cited cct.umb.edu URL is dead to direct fetch
+  (502 this pass, the known block), but the Wayback Machine holds six
+  snapshots of that exact URL (2022-2026) with one shared digest
+  (FUWCJXUHCR4LBNFA4BAO6OCRNL6UOBKO). The 2026-08-24 snapshot was
+  downloaded fresh this pass (curl, 200) and text-extracted with pdftotext:
+  it is the published Psychology of Aesthetics, Creativity, and the Arts
+  2017 Vol. 11 No. 1 pp. 10-17 article. All three load-bearing claims in
+  the dossier paragraph are supported by the abstract verbatim: "Two
+  experiments tested the hypothesis that constraints imposed on a common
+  writing task yield more creative outputs"; "an interaction with order
+  of presentation, which suggests a carryover effect: Mere practice with
+  constraints can stimulate creativity"; "Dr. Seuss's best-seller, written
+  using only 50 words". The two-line-rhyme method limit is visible in the
+  abstract's method description. VERBATIM.
+- Public-path fix: the dossier's inline citation pointed at the dead
+  cct.umb.edu URL (a liveness-sweep flag in the rev-3 handoff); it now
+  points at the live Wayback snapshot of the same PDF
+  (web.archive.org/web/20260824144015/...), following the freedom-dossier
+  precedent (dead mirror -> canonical archive.org carrier) and the
+  archived-snapshot practice noted for Schnitker in frustration. Wording of
+  the paragraph unchanged; no other edits.
+- Gates after the edit: dossier_check exit 0; density 0 dense; quote_verify
+  unchanged (the paragraph is prose with a citation link, not a quoted
+  span; the 29 checked / 7 not-found flags are the documented artifact
+  classes, none touched by this edit).
+- For the supervisor: the SUPERVISOR-REVIEW row for creativity can be
+  updated — the open item is resolved and independently re-verified; the
+  goals row's six-dense-paragraphs note is also stale (current file: 36
+  paragraphs, 0 dense).
