@@ -95,10 +95,10 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/17615391/"
     },
     "AT030": {
-      "qc": "Plain-words replicate replaced (~0.6 -> ~0.1); validator ok",
+      "qc": "Plain-words replicate replaced (~0.6 -> ~0.1); validator ok after prose trim",
       "claims": "n/a",
       "limitations": "None",
-      "url": "https://en.wikipedia.org/wiki/Anchoring"
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/"
     }
   }
 }
