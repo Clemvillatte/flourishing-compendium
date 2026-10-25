@@ -220,7 +220,7 @@ robots-disallowed this pass (it worked earlier in the day for Burke
 fetcher. Next pass: retry E-utilities, or verify via the publisher
 abstract pages. No dossier text changes needed for the verified spans.
 
-## QC sample (2026-10-25 ~12:57Z, worker-7fbdff24, baton dos7)
+## QC sample (2026-10-25 ~12:12Z — TIMESTAMP CORRECTED to the read clock; first stamped ~12:57Z from an estimated time; worker-7fbdff24, baton dos7; the work sits in commit ad1bd7610, 12:13:15Z)
 
 Bounded post-publication QC sample, three load-bearing spans on fresh
 fetches, all VERBATIM: Aristotle NE I.7 Ross (MIT Classics, raw HTML —

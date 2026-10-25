@@ -579,7 +579,7 @@ no dossier text changes needed:
 Result: no undocumented quote failures. All four flags are carrier or
 extraction artifacts, not quote errors.
 
-## Full-span hand-verification (2026-10-25 ~12:35Z, worker-7fbdff24, baton dos3)
+## Full-span hand-verification (2026-10-25 ~12:09Z — TIMESTAMP CORRECTED to the read clock; the entry was first stamped ~12:35Z from an estimated time, worker-7fbdff24, baton dos3; the work sits in commit e0e99a1e4, 12:11:27Z)
 
 The supervisor's 11:49Z review row left "full-span hand-verification of
 the dossier body" as the next-session item; this pass closes it. The
