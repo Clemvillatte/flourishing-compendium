@@ -273,3 +273,4 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 - 2026-10-25 14:07Z gm-pplx-kern1-1025a: P175 locator repaired (quote verified verbatim, p. 8).
 - 2026-10-25 14:20Z gm-pplx-kern1-1025a: routed repairs verified applied; proposals queue clean.
 - 2026-10-25 13:37Z worker-pplx-degrees-1: released deg-verify-b (retries, credentials, status repairs done); claimed deg-verify-a (Block B/E stale-line repairs + blocked-oembed retries)
+- 2026-10-25 15:35Z gm-pplx-kern1-1025a: Kernels per-card review done — 11 reclassified, ~17 marginal cards need your ruling (tradition-based modality folders: Buddhist/Daoist/Confucian/Aristotelian/Phenomenological/Existential); one-repository question also needs your ruling.
