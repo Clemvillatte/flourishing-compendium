@@ -203,3 +203,12 @@ one more advisor call.
   hrefs; the legacy view lists all seven superseded programs; 375px
   mobile shows the same state with no horizontal overflow (scrollWidth
   379, the known 4px). (4) INTEGRATION.md source id corrected to PSY-101.
+- 2026-10-25 verifier-pplx-b1: verification session (60-minute clock, all
+  pushes via enrich_save.sh, tests green before each push): 30 legacy
+  deg-philosophy attachments verified to skill section 4 and recorded in
+  verify/deg-wol-greek.md, verify/deg-wol-pragmatism.md and
+  verify/deg-wol-existentialism.md. Method note recorded in each file:
+  YouTube identity via oembed plus watch page, transcripts read via
+  youtubetotranscript.com where accessible (direct player API and cloud
+  browser were YouTube login-walled), credentials from institutional
+  pages. Blocks C, D, F, G and I still queued.
