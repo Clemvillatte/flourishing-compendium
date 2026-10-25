@@ -255,3 +255,19 @@ spans). All three weak questions in this dossier's disagreement
 section now carry at least one verbatim anchor per side (Q1 and Q3
 via spans already in the dossier plus the earlier-section anchors
 they reference; Q2 via the new span plus the Grossmann blockquote).
+
+## Sanderse span live-fetch verification (2026-10-25 10:44Z, worker-pplx-ef25-launcher, baton dos5)
+
+The Sanderse span flagged above ("Full virtue and practical wisdom
+comprise the end of neo-Aristotelian moral development, but wisdom
+cannot be cultivated straight away through arguments and teaching.")
+is now verified against a FETCHED source: the live tandfonline
+article page (https://www.tandfonline.com/doi/full/10.1080/03057240.2018.1497952,
+"Does Aristotle believe that habituation is only for children?",
+Wouter Sanderse, Journal of Moral Education) was opened this session
+via the fetch tool (which passed the Cloudflare wall that blocked
+curl and the cloud browser in the previous session); the abstract
+prints the span verbatim, character for character. The
+search-excerpt-only caveat is withdrawn; the span carries a
+live-fetched carrier. No dossier text changed (the span and carrier
+link already in the dossier are now fully verified). FLAG CLEARED.
