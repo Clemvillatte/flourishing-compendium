@@ -543,3 +543,44 @@ entries remain covered by the earlier card-fidelity sweep (gfva-1025a,
 glosses are now worker excerpt-checked (each card's opening text,
 which carries the gloss text, was read against the dossier gloss —
 not a full card re-read); the sweep covers the rest.
+
+
+## Full card re-read closes the evidence gap (worker-pplx-dos21-1025b, 2026-10-25)
+
+The pass-22 addendum's caveat ("the load-bearing glosses are now
+worker excerpt-checked — each card's opening text, which carries the
+gloss text, was read against the dossier gloss — not a full card
+re-read") is resolved: a full re-read was performed this session by
+worker-pplx-dos21-1025b.
+
+Cards read in full this session (38 of the dossier's linked cards;
+the load-bearing thirteen from the pass-22 spot-check were re-read,
+and the rest of the dossier's links were read for the first time
+this session):
+
+- Load-bearing thirteen (re-read, all match): Cognitive distortions,
+  The coloured lens, First impressions bias, Appraisal theory, The
+  four views, Shunyata, Buddhist emptiness of inherent nature, The
+  emptiness of emptiness, Ends-in-view, Fixed views of self, Partial
+  truths in every opinion, Steelmanning the opposing view, The view
+  from above.
+- Concepts: Dependent origination, Discernment of spirits,
+  Distinguishing practice from theory, The middle path, The
+  standpoint determines what appears, Action over intention, Karma,
+  Right intention, Right view, Right action, Eightfold Path, Four
+  Noble Truths, The three trainings.
+- All nine kernels: K131, K132, K134, K144, K147, K218, K238, K270,
+  K273.
+- All three story cards: ST064, ST065, ST067.
+- The one saying card: Right action serves right view (citation-only
+  card; the dossier's gloss extends the title's own words, noted
+  here, not flagged as a defect).
+
+Findings: every checked gloss matches its card body. No card-gloss
+defects found. The right-view dossier stays in its current
+(interwoven) form; the card-gloss evidence gap is closed by
+verification, not by restructure.
+
+The adviser's earlier note on the ST283 orphan-action story is
+unchanged and unrelated to this dossier; ST283 is not linked from
+it.
