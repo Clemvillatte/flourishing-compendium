@@ -76,3 +76,13 @@ not this session's output.)
   verified verbatim against the live NPR transcript (the correct carrier per the
   ledger — an initial check against the Reason interview was the wrong carrier, not
   a defect). Child sample COMPLETE: 6/6 items verified clean against live carriers.
+
+## Full quote review s1b-035 (2026-10-25, same teller)
+
+All four English-language ledger quotes verified verbatim against the live
+suntzu-artofwar.org Fan Li page ("soaring birds... hunting dog is boiled", "a man you
+can share hardship with but not ease", the small-boat sentence, and Wen Zhong's
+fate). The two Chinese spans from ctext.org (Shiji 129) cannot be independently
+re-opened this session (source bot-walled); the ledger's recorded access event
+stands. D066 has no story backlinks; entity sweep found no existing Fan Li page.
+VERDICT: clean on all checked dimensions, ready for registration.
