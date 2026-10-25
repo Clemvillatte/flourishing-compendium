@@ -4,13 +4,11 @@
 
 The gap between intending and doing is ordinary. What makes procrastination a problem is its shape: on the mood-repair account, the delay buys a present mood at the price of a future self's time, and the buyer and the payer are the same person. Socrates and Aristotle ask how knowledge relates to action; the modern reviews call procrastination a failure of self-regulation; the practice traditions work on the design of the moment. The question I would put to both reviews is which end deserves the intervention first: what makes the outcome worth pursuing, or what makes starting unpleasant.
 
-## Nearby terms
+### Nearby terms
 
-Akrasia is the oldest name on this territory: the lived problem of acting against one's own better judgment, and the positions taken on whether that is possible at all. Socrates denied the possibility; Aristotle's realism about it grounds his ethics of practice; the modern debate refines what exactly is betrayed, a judgment or a plan.
-
-Habit and behaviour change hold the neighbouring mechanics; the Behaviour dossier carries them. This page takes only what is specific to delay: what the delay protects, and what it costs.
-
-Self-forgiveness concerns how a person responds after an offense. Its application to procrastination appears in the two-exam study described below, where forgiveness for earlier delay was associated with less subsequent procrastination.
+- Akrasia: the oldest name on this territory, the lived problem of acting against one's own better judgment. Socrates denied the possibility; Aristotle's realism about it grounds his ethics of practice; the modern debate refines what exactly is betrayed, a judgment or a plan.
+- Habit and behaviour change: the neighbouring mechanics of what the delay sits inside. What is specific to delay is what the delay protects, and what it costs.
+- Self-forgiveness: how a person responds after an offense. Its application to procrastination appears in the two-exam study described below, where forgiveness for earlier delay was associated with less subsequent procrastination.
 
 ## Where the delay comes from
 
