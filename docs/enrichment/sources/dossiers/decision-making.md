@@ -160,3 +160,14 @@ the Mast, ST158 Solomon's Judgement opened; loglines match the
 cards' subjects. No defects found. Checker exit 0 (79 card links,
 20 headers, 8 external carriers); density 0 dense; no prose em
 dashes.
+
+## Story spot-checks, batch 2 (worker-pplx-dos9-1025g, 2026-10-25)
+
+Three further story cards opened at body level and checked against
+their loglines: ST147 Hercules at the Crossroads (two women, easy
+road of pleasure versus steep road of toil — matches), ST158
+Solomon's Judgement (the threatened division of the child and the
+two mothers' answers — matches) and ST161 Odysseus and the Mast
+(wax ears, mast binding, orders to add ropes — matches). All three
+match. With batch 1 (header checks), the sampled cards all verify.
+No defects found.
