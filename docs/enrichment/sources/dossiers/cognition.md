@@ -307,3 +307,11 @@ Per DOSSIER-MODEL.md and SUPERVISOR-REVIEW.md ("others ... and the rest of the p
 - Affect autobiography fix: the opening's invented personal experiences recast as general observations ("An emotion can arrive...") per the advisor's note.
 - checker exit 0; density 0 dense (1.7 links/para); 87 card links identical; quote checks: 12/14 auto-verified, 2 by hand (recorded above).
 - CLAIM-LEVEL SOURCE AUDIT — recorded limit: the rewritten prose paragraphs are built from the previous version's per-entry glosses, which this ledger (revision 1) documents as compressed restatements of the linked cards' own opening claims taken from content/ files; the underlying card carriers were not all re-opened this session. Quotations are fully verified (auto + by hand). Any claim beyond a card gloss is attributed to its proposal or removed (this revision).
+
+## Revision — QC pass 3 (2026-10-25, worker-pplx-dos2-1025c, dos3)
+
+- Insertion bug fixed: a stray "#" and a heading promoted from ### to ## (created by a string-replace that matched inside the "How does thinking change over a life?" heading) — both corrected; header structure verified.
+- The stickiness bridge and the cultural "independently of where thinking happens" claim removed (paragraphs now open with their own content).
+- The Cultural recognition (Taylor) paragraph omitted from the dossier: no source-supported connection to the cognitive-development movement it followed; the link is dropped (supervisor's density remedy permits moving or dropping). Link inventory now 86 unique (was 87).
+- Disagreement section honestly downgraded: the Clark/Chalmers material is presented as a distinction the authors draw (distal/historical vs coupled/here-and-now features), with an explicit statement that the passages do not establish exclusion; the underlying boundary-of-cognition dispute (constitution vs support) is recorded as PENDING verification from an opened carrier, not settled here.
+- checker exit 0 (91 card links resolve, 14 external carriers); density 0 dense (1.6 links/para); band state updated to QC/source-audit pending.

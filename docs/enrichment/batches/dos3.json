@@ -4,5 +4,5 @@
   "cognition",
   "cognition-gf-rewrite"
  ],
- "note": "minted 2026-10-24; one dossier per band; see bands/dos3-manifest.json. 2026-10-25 (worker-pplx-dos2-1025c): cognition rewritten in the GF model per DOSSIER-MODEL.md — map format dissolved into question-driven thread; all 87 card links preserved; quotes reused per ledger verification record (no new carriers opened); checker exit 0; density 0 dense. Worker-complete pending supervisor: registry.json and app.js untouched (supervisor-only); compiled payload still old format, needs dossier_registry_build rebuild."
+ "note": "minted 2026-10-24; one dossier per band; see bands/dos3-manifest.json. 2026-10-25 (worker-pplx-dos2-1025c): cognition rewritten in the GF model per DOSSIER-MODEL.md — map format dissolved into question-driven thread; quotes re-verified (12 auto + 2 by hand); three advisor QC rounds applied (attribution, synthesis, humanizer, density, disagreement honesty); checker exit 0; density 0 dense. STATUS: QC/source-audit PENDING — the required genuine-disagreement section records its boundary-of-cognition dispute as pending (verified distinction offered, no exclusion claimed); claim-level audit of prose glosses remains open (recorded in ledger). registry.json and app.js untouched (supervisor-only); compiled payload still old format, needs dossier_registry_build rebuild."
 }

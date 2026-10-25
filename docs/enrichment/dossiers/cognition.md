@@ -41,7 +41,7 @@ The environment does part of the work. [Situated cognition theory](https://clemv
 
 The same outward move applies to people. [Dialogic reason](https://clemvillatte.github.io/flourishing-compendium/#card=Dialogic%20reason) treats understanding and good judgement as arising between people in exchange, rather than inside a single isolated mind — Buber and Habermas.
 
-Cognitive styles also differ across cultures, independently of where thinking happens: [Analytic vs holistic cognition](https://clemvillatte.github.io/flourishing-compendium/#card=Analytic%20vs%20holistic%20cognition) documents two habits of attention and explanation across cultures, in Nisbett's group's account, and [Dialectical thinking](https://clemvillatte.github.io/flourishing-compendium/#card=Dialectical%20thinking) carries the account of naïve dialecticism — lay beliefs about how the world works, found more strongly in East Asian cultures. One more variation belongs here as a strength rather than a deficit: [Autistic cognition — detail-focused processing](https://clemvillatte.github.io/flourishing-compendium/#card=Autistic%20cognition%20%E2%80%94%20detail-focused%20processing), the weak coherence account, describes strength in detail and pattern where the typical style pulls for gist and global form.
+Cognitive styles also differ across cultures: [Analytic vs holistic cognition](https://clemvillatte.github.io/flourishing-compendium/#card=Analytic%20vs%20holistic%20cognition) documents two habits of attention and explanation across cultures, in Nisbett's group's account, and [Dialectical thinking](https://clemvillatte.github.io/flourishing-compendium/#card=Dialectical%20thinking) carries the account of naïve dialecticism — lay beliefs about how the world works, found more strongly in East Asian cultures. One more variation belongs here as a strength rather than a deficit: [Autistic cognition — detail-focused processing](https://clemvillatte.github.io/flourishing-compendium/#card=Autistic%20cognition%20%E2%80%94%20detail-focused%20processing), the weak coherence account, describes strength in detail and pattern where the typical style pulls for gist and global form.
 
 The dialecticism definition is Spencer-Rodgers and colleagues':
 
@@ -61,7 +61,7 @@ Beliefs also cohere, and the pressure of incoherence is felt. [Cognitive dissona
 
 > "These two elements are in a dissonant relation if, considering these two alone, the obverse of one element would follow from the other. If, considering a pair of elements, either one does follow from the other, then the relation between them is consonant." ([Festinger, A Theory of Cognitive Dissonance, ch. 1](https://www.panarchy.org/festinger/dissonance.html))
 
-The clinical and lay accounts of belief each take a position on its stickiness. [Implicit theories of intelligence](https://clemvillatte.github.io/flourishing-compendium/#card=Implicit%20theories%20of%20intelligence) are people's lay beliefs about what intelligence is: a fixed quantity one is born with, or a quality that can be grown, in Dweck's model. [Belief evaluation in CBT](https://clemvillatte.github.io/flourishing-compendium/#card=Belief%20evaluation%20in%20CBT) examines what a thought does, not only whether it is true — cognitive therapy evaluates the content, acceptance-based therapies the context. And [Cognitive bias modification theory](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20bias%20modification%20theory) targets the biases that confer vulnerability to anxiety, working on attention bias and interpretation bias directly.
+Belief also has its lay theories. [Implicit theories of intelligence](https://clemvillatte.github.io/flourishing-compendium/#card=Implicit%20theories%20of%20intelligence) are people's lay beliefs about what intelligence is: a fixed quantity one is born with, or a quality that can be grown, in Dweck's model. [Belief evaluation in CBT](https://clemvillatte.github.io/flourishing-compendium/#card=Belief%20evaluation%20in%20CBT) examines what a thought does, not only whether it is true — cognitive therapy evaluates the content, acceptance-based therapies the context. And [Cognitive bias modification theory](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20bias%20modification%20theory) targets the biases that confer vulnerability to anxiety, working on attention bias and interpretation bias directly.
 
 ### When does thinking itself hurt?
 
@@ -83,7 +83,7 @@ Wells's programme makes the same move clinically: [Detached mindfulness theory W
 
 The strategy already met in the affect dossier also belongs here: [Cognitive reappraisal](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20reappraisal) changes an emotional event's meaning so that the feeling that follows changes. And change can happen at the level of a life's direction, not only a thought: [Cognitive transformation theory of desistance](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20transformation%20theory%20of%20desistance) is Giordano and colleagues' account of how people stop offending — cognitive shifts that recognise new possibilities and reinterpret one's past.
 
-#The two therapeutic traditions differ in what they take as the target of change. Cognitive therapy's line works on the thought's accuracy, per the meta-analytic review of its core technique:
+The two therapeutic traditions differ in what they take as the target of change. Cognitive therapy's line works on the thought's accuracy, per the meta-analytic review of its core technique:
 
 > "One method that is hypothesized to play a role in the process of change across many psychotherapies is cognitive restructuring (CR), which refers to a set of techniques used to help clients identify, evaluate and correct inaccurate beliefs... Rather than being defined as a single method, CR refers to the collection of therapeutic techniques aimed at helping clients identify, challenge, and correct biased and maladaptive automatic interpretations of events." ([Ezawa and Hollon 2023, Psychotherapy](https://pmc.ncbi.nlm.nih.gov/articles/PMC10440210/))
 
@@ -93,13 +93,11 @@ The acceptance-and-commitment tradition keeps the thought and moves the observer
 
 Whether the two treatments compete or stack is a question the passages leave open. The defusion practice has exact cross-tradition cognates: Anatta and Self-as-context as the Buddhist and ACT accounts of the observing perspective, Right concentration as the practice of watching thoughts arise and pass.
 
-## How does thinking change over a life?
+### How does thinking change over a life?
 
 The abilities do not rise and fall together. [Cognitive ageing](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20ageing) is the finding that some abilities peak at high-school graduation and some plateau in early adulthood. Development has its own account: [Information-processing theory of cognitive development](https://clemvillatte.github.io/flourishing-compendium/#card=Information-processing%20theory%20of%20cognitive%20development) describes how children represent, transform and use information.
 
 Moral thinking was long treated as a fixed staircase. [Cognitive-developmental theory of moral reasoning](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive-developmental%20theory%20of%20moral%20reasoning) is Kohlberg's fixed sequence of stages, built on Dewey's and Piaget's levels, with [Justice reasoning](https://clemvillatte.github.io/flourishing-compendium/#card=Justice%20reasoning) — justice-as-fairness — as the central moral concept of the program.
-
-A life's thinking is also held by others. [Cultural recognition](https://clemvillatte.github.io/flourishing-compendium/#card=Cultural%20recognition) is Taylor's classic statement of the demand at the centre of multicultural politics: that identities be acknowledged rather than demeaned.
 
 ### What can thinking do, and what watches it?
 
@@ -139,7 +137,7 @@ The Putnam/Burge side is characterized here by Clark and Chalmers, not by its ow
 
 > "If, as we confront some task, a part of the world functions as a process which, *were it done in the head*, we would have no hesitation in recognizing as part of the cognitive process, then that part of the world *is* (so we claim) part of the cognitive process." ([Clark and Chalmers, The Extended Mind](https://consc.net/papers/extended.html))
 
-What the disagreement turns on is which external features count as cognitive: the distal and historical features of the passive variety, or the coupled, here-and-now features of the active one. The boundary question — where the mind stops and the rest of the world begins — is decided by that choice, and the passages state it without settling it.
+The passages establish a distinction the authors draw between their view and Putnam and Burge's: distal, historical features against coupled, here-and-now features. They do not establish that accepting one view excludes the other, and I do not claim more than the passages support. The boundary question behind the section's heading — whether external processes constitute cognition or merely support it — has a live dispute in the literature that I have not verified from an opened carrier this session; it is recorded as pending in the dossier ledger rather than settled here with a manufactured incompatibility.
 
 ## Practice: variation, selection, retention
 
