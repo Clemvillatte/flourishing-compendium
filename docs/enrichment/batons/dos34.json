@@ -45,5 +45,7 @@
    "from": "worker-pplx-1025u",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T12:13:30+00:00"
 }
