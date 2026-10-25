@@ -21,7 +21,7 @@ The same abstract gives the response's role:
 
 ### What the finding adds up to
 
-The design matters as much as the result, because the effect survived controls for the positive event itself, which means the benefit came from the sharing rather than the luck. The response classification is where the practice lives: the enthusiastic response is the one that enhances, while a passive or destructive response forfeits the benefit that was sitting there for the taking. The mudita kernels below are the Buddhist training for exactly that response, since rejoicing in another's good is a skill that runs dry under envy and can be rebuilt by repetition, one piece of good news at a time.
+The abstract reports that sharing positive events was associated with greater daily positive affect and well-being, above and beyond the positive events themselves, so the sharing carried its own association with well-being in these studies. The response classification is where the practice lives, because the same abstract reports that benefits were further enhanced when others were perceived to respond actively and constructively rather than passively or destructively. The mudita kernels below are the compendium's editorial pairing of that finding with a Buddhist training for the same response; the study measured responses as they naturally occurred, not a training regime, so the pairing is an interpretation rather than a tested claim.
 
 ### Here
 
