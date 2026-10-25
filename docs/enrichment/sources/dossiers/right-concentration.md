@@ -316,3 +316,58 @@ synthesis. Left as-is (a published-dossier wording change would need a
 supervisor --rebuild for no gain in accuracy); noted here for the next
 full revision. Flag CLOSED: the card-fidelity sweep is verified at
 full-text level.
+
+## GF-model restructuring pass (2026-10-25, worker-pplx-dos25-1025i, dos25 baton)
+
+Per the 2026-10-25 owner-validated orders (same instruction under which
+right-mindfulness received its pass 18), the dossier's map section was
+restructured into the GF interwoven format.
+
+What was done:
+
+- The "## The map: the entries on right concentration" heading and
+  its numbered entry-lists were removed. The seven former map
+  subsections became question-headed threads under theme headings:
+  the path's own account (What does the eighth factor train the mind
+  into? / What is samadhi gathering?), the tuning teaching (How is
+  effort tuned rather than forced? / What is the mind's weather when
+  it will not gather?), the Yoga account (How does the Yoga tradition
+  stage the same gathering?), the practices and mechanics (What are
+  the two styles of practice? / What do the anchors and the calm
+  train? / What does the Daoist counterpart gather around? / What
+  limits the capacity, and what builds it?), one-pointedness (Is the
+  gathered mind fixed or unified?), absorption in activity (What does
+  absorption in activity look like? / What is the Daoist version of
+  effortless absorption?), and the modern conditions (What are the
+  modern conditions the practice meets?).
+- A second, first-person intro paragraph was added stating the
+  organizing question and the thread order.
+- Card-link set identical to the previous revision: 61 links, diff of
+  extracted #card= targets before and after (saved /tmp/rc_old.txt vs
+  /tmp/rc_new.txt, identical).
+- No new quotes. No changes to the disagreement section, the VSR
+  practice section, the Nearby terms, or the Story section, all of
+  which were already in GF form and previously verified.
+- Three paragraphs that came out dense on the first pass were split
+  (anchors/calm; capacity; flow engineering); dossier_density.py now
+  reports 0 dense.
+
+Verification this pass: the three Wikipedia Samadhi passages quoted in
+the disagreement section (Buddhaghosa definition, Shankman
+renderings, "matter of debate") were re-verified verbatim by fetching
+the article this session; the DN 2 "quite withdrawn from sensuality"
+carrier remains as documented in the current-use table above; all
+card glosses are the previous revision's glosses, whose full-text
+card-fidelity comparison the supervisor closed (entry above).
+dossier_quote_verify.py: 6 checked, 1 not found (the Shankman
+fragment; the verifier cannot fetch Wikipedia; verified by eye
+against the fetched article, see above).
+
+Checks: dossier_check.py exit 0 (61 card links, 32 headers, 3
+external carriers); density 0; voice audit clean; zero prose em
+dashes; banned-word scan clean. The 3-question disagreement minimum
+remains UNRESOLVED at 1 (the section was reduced to the single
+documented disagreement by advisor direction in revision 3; no new
+disagreements were manufactured this pass). Registry status remains
+'published' (this was a post-publication GF restructure, as with
+right-mindfulness pass 18); flagged for supervisor review.
