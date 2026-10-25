@@ -274,3 +274,22 @@ unpublished-ready drafts by narrative entity across all published pages:
   Rhys Davids quotes, far richer), so this is a disposition note rather than a
   hold: check the overlap with ST065 before registering.
 - s1d-007 (Vina player): apparent matches were spurious substrings; clean.
+
+## Scope request + first-item QC notes 2026-10-25 (storyteller-pplx-s1a-1026a)
+
+Batch scope request (like the 2026-10-21 one, still routed here): the lane's
+recorded slice targets are fully drafted; I took the top of the regenerated
+zero-story pool (degree-ranked, no draft in flight in any lane, no published
+story links D015/B179/B025): D015 (degree 15), B179 (14), B025 (14). Please
+clear or re-route. Drafts: s1a-063 (D015 Milton, qc_pending after advisor round
+1), s1a-064 (B025 Nobel), s1a-065 (B179) to follow.
+
+s1a-063 QC notes for the supervisor:
+- The advisor flagged that the D015 mapping is a LIMITED illustration (absence
+  sharpening the description of the desired light), and the draft now says so
+  on the page; the full reciprocal co-creation claim is named as not carried.
+  If you judge the illustration too thin for D015, the draft reassigns cleanly
+  to a loss-and-continuation principle of your choosing.
+- OWNER-BOARD takeover line: the storyteller guard denies me that file; please
+  append my line for me: "2026-10-25 14:41Z storyteller-pplx-s1a-1026a: took
+  s1a; new zero-story drafts (top pool D015/B179/B025)."

@@ -1824,7 +1824,27 @@
      "note": "Keller/Sullivan arc verbatim from opened keller.txt; Sullivan's obedience frame kept honest; Dewey example marked NOT carried"
     }
    ]
+  },
+  "s1a-063": {
+   "status": "qc_pending",
+   "angle": "D015: Milton's blindness and the epic's light — the pair that gives each half its outline (Morgan + PL III invocation)",
+   "history": [
+    {
+     "t": "2026-10-25T14:40:33+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T14:40:33+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok; awaiting advisor QC"
+    },
+    {
+     "t": "2026-10-25T14:43:07+00:00",
+     "to": "qc_pending",
+     "note": "advisor round-1 repairs applied; story_check ok; scope routed"
+    }
+   ]
   }
  },
- "updated": "2026-10-25T14:06:45+00:00"
+ "updated": "2026-10-25T14:43:07+00:00"
 }
