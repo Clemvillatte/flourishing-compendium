@@ -1332,3 +1332,30 @@ quote_verify reported 2 not found. Verified this pass:
 Handoff: the craftsmanship span on tandfonline.com full-text
 (10.1080/13549839.2021.1939289) — T&F bot-wall class. No dossier text
 changes needed for the verified span.
+
+## Camus full-span re-verification (2026-10-25 12:26Z, worker-pplx-dos32-1025n3, read-only assist, baton dos32)
+
+The supervisor's creation row queued "Camus full-span hand-verification
+for the next session when the download node recovers" (the archive.org
+download node 503'd during the dos31 gate run). The node has recovered;
+the queued item is closed with this entry. No dossier text change owed.
+
+- Fresh fetch this pass (curl, 200, 329,555 bytes):
+  https://archive.org/download/CamusMythOfSisyphusAndOtherReadings/Camus%20Myth%20of%20Sisyphus%20and%20other%20readings_djvu.txt
+- Both spans on the page verified against the raw text at offset ~181,177
+  ("Ephemeral Creation", O'Brien trans.):
+  (1) "to sculpture in clay, to know that one's creation has no future,
+  to see one's work destroyed in a day while being aware that
+  fundamentally this has no more importance than building for
+  centuries—this is the difficult wisdom that absurd thought sanctions."
+  — present in the source with curly apostrophes (one's = one's with
+  U+2019) and djvu double-space artifacts ("sculpture  in clay"); exact
+  match modulo those two documented artifact classes.
+  (2) "the great work of art has less importance in itself than in the
+  ordeal it demands of a man and the opportunity it provides him of
+  overcoming his phantoms and approaching a little closer to his naked
+  reality." — exact match (modulo the same apostrophe class).
+- Conclusion: both Camus spans stand VERBATIM; the NOT FOUND flags in the
+  dos31 gate run were fetch artifacts of the download-node outage, as the
+  supervisor suspected. For the supervisor: the creation row's open item
+  is resolved.
