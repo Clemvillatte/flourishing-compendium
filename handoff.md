@@ -1,5 +1,15 @@
 # LIVE GF EXEMPLAR HANDOFF — supervisor-11878a6c, 2026-10-24
 
+## LAUNCH RECORD (2026-10-25 10:21Z, launcher-pplx-1025n, no baton held)
+
+Worker launched per Agent Launcher Protocol Path A (owner-provided email,
+cloud browser, code read by the owner): account cherylwalsh7678+ih4ge@outlook.com
+(sign-in handle cherylwals2079, Free plan), task URL
+https://www.perplexity.ai/computer/tasks/c36d0acc-477b-4af5-ade5-23916ed4dfcd,
+launched 2026-10-25 10:20:50Z. Worker prompt: docs/enrichment/PROMPT-WORKER.md
+verbatim with the session token filled in (8414 chars, paste verified head/tail
+before submit). Expect the new agent to take a baton on next baton.py status.
+
 ## MANAGER NOTE (2026-10-25, pplx-1025-prompts; no baton held)
 
 1. CREATIVE PROMPTS shipped as a pilot: "Prompt" button in the site header opens a dialog
