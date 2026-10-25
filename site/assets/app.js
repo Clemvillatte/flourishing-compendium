@@ -1591,6 +1591,18 @@ window.fcWiki = {
     }
   }
 
+  // Derived collections: a group node with derived:'kernel' contains ALL entries of type 'kernel'
+  // regardless of their own primaryPath (owner work order: ONE Psychological Kernels repository).
+  for (const [gid, grp] of GROUP_NODES) {
+    if (!grp.node) continue;
+    const navMeta = (grp.node._navigation || {});
+    const derivedType = navMeta.derived || (grp.node.derived);
+    if (derivedType === 'kernel') {
+      grp.cards = DATA.filter(e => e.type === 'kernel');
+      grp.isDerived = true;
+    }
+  }
+
   // Map track name → track node id
   const TRACK_NAME_TO_ID = {
     'philosophy': 'NAV-PHILOSOPHY',
