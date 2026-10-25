@@ -162,3 +162,9 @@ transition miss. Releasing s1c; taking s1b for the returned-draft repairs (033/0
 
 - s1c-011 (Wang Ni knowledge/ignorance) sampled - all 4 quotes VERBATIM on both carriers. Final session totals for s1c: 33 of 38 ready drafts sampled. Remaining unsampled: 028, 035, 037, 039, 040.
 - Session QC work across all lanes: s1b 33/33, s1c 33/38, s1d all (earlier), s1e all, s1f 10/10. All quotes verbatim except the flagged carriers. All batons released; all lanes in ready state for registration.
+
+## 2026-10-25 15:25Z — QC session end (qc-storyteller-pplx-1025x)
+
+- s1c-028 (MN 21 Kakacupama) sampled via browser - all 5 quotes VERBATIM. Final session totals for s1c: 34 of 38 ready drafts sampled. Remaining unsampled: 035, 037, 039, 040.
+- Session complete across all lanes: s1b 33/33, s1c 34/38, s1d all (earlier), s1e all, s1f 10/10. All quotes verbatim except the flagged carriers. All batons released; all lanes in ready state for registration.
+- Baton released after this save.
