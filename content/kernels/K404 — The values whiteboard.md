@@ -18,7 +18,7 @@ The exercise is not a verdict on the conflict. It is a way of seeing everything 
 
 ### Protocol
 
-Adapted from Blonna, *Stress Less, Live More* (2010), as presented in Blonna, *Maximize Your Coaching Effectiveness with ACT* (2015), pp. 80–81; the underlying worksheet (Whiteboard defusion) is published with the book's German edition.
+Adapted from Blonna, *Stress Less, Live More* (2010), as presented in Blonna, *Maximize Your Coaching Effectiveness with ACT* (2015), pp. 80–81; the underlying worksheets (Whiteboard defusion and Values-Whiteboard defusion) are published with the book's German edition.
 
 1. When you catch your mind stuck in a thinking trap, get a whiteboard or a large pad and pens.
 2. Write the heading: "Unhelpful thoughts my mind gives me about ____", filling in whatever you are stuck on.
@@ -44,7 +44,7 @@ The step-back close:
 > "Put the pen aside when you are finished, and step back a few paces. Look at the board or pad from some distance and say to yourself: These are just my thoughts. They are not me. I am much more than these thoughts. Feel the distance between yourself and the unhelpful thoughts. Then try to widen it even further."
 > — [same source](https://www.junfermann.de/_files_media/downloads/64399AE8B318CA64423C5B/arbeitsblaetter-zum-buch.pdf)
 
-The exercise belongs to the defusion family in ACT-based coaching. The values-conflict framing (honesty against kindness, ambition against family) is this wiki's application of the same whiteboard move to a values conflict rather than a single stuck thought.
+The exercise belongs to the defusion family in ACT-based coaching. The values-conflict version is not this wiki's invention: the same German worksheet set carries a Values-Whiteboard defusion worksheet (Arbeitsblatt 4.5) that applies the move to a values conflict, down to the spoken line ("My mind really has a lot to say about this values conflict – how interesting") and the two-metre step-back. The specific conflicts named above (honesty against kindness, ambition against family) are this wiki's examples.
 
 What the sources do not test: the worksheet is a defusion technique inside ACT-based coaching; no trial isolates the whiteboard form as its own intervention.
 
@@ -73,4 +73,4 @@ The exercise is written and read at a distance; no recording is needed.
 ## Sources
 
 - [Blonna, R. (2010). *Stress Less, Live More*. New Harbinger — as presented in Blonna, *Maximize Your Coaching Effectiveness with ACT* (2015), pp. 80–81]
-- [Blonna worksheets — "Defusion Exercise: The Whiteboard", *Effektiver Coachen mit ACT* (German edition), Junfermann 2013, PDF](https://www.junfermann.de/_files_media/downloads/64399AE8B318CA64423C5B/arbeitsblaetter-zum-buch.pdf)
+- [Blonna worksheets — "Defusion Exercise: The Whiteboard" (Arbeitsblatt 2.1) and "Defusion Exercise: The Values-Whiteboard" (Arbeitsblatt 4.5), *Effektiver Coachen mit ACT* (German edition), Junfermann 2013, PDF](https://www.junfermann.de/_files_media/downloads/64399AE8B318CA64423C5B/arbeitsblaetter-zum-buch.pdf)
