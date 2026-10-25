@@ -666,6 +666,11 @@
      "t": "2026-10-24T14:25:40+00:00",
      "to": "ready",
      "note": "advisor round 2 applied: transcript-accurate wording, interpretation narrowed to creative fulfillment, quote placement verified against opened transcript"
+    },
+    {
+     "t": "2026-10-25T15:09:36+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:09:35: sample verified — all quotes VERBATIM (see QC notes)"
     }
    ]
   },
@@ -896,9 +901,14 @@
      "t": "2026-10-24T14:54:12+00:00",
      "to": "ready",
      "note": "advisor repairs applied: authorship/lifetime claims removed, motive removed, quote location corrected to Legge introduction, acceptance facet marked"
+    },
+    {
+     "t": "2026-10-25T15:09:35+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:09:35: sample verified — all quotes VERBATIM (see QC notes)"
     }
    ]
   }
  },
- "updated": "2026-10-25T15:09:20+00:00"
+ "updated": "2026-10-25T15:09:36+00:00"
 }
