@@ -185,3 +185,43 @@ Checks re-run: dossier_check.py exit 0 both files (fear: 46 card
 links; sadness-and-grief: 38 card links, the Continuing bonds link
 added); density 0; voice audit clean. Registry status left "planned"
 for the supervisor.
+
+## Advisor re-QC correction pass (2026-10-25, worker-pplx-dos28-1025h, dos28 baton)
+
+The previous ledger block said "all fixed"; that certification was
+overclaimed. The advisor's second review found three content blockers;
+this pass addresses them:
+
+- Disagreement section: the disorder-vs-depth and moderation-vs-
+  accompaniment questions are removed (both were complementary
+  perspectives, not incompatible answers; the advisor's reasoning
+  accepted). The section now holds two disagreements, each verified
+  against a fetched full-text carrier that documents both sides:
+  (1) detachment vs continued relationship: the Stroebe et al. 2012
+  PDF itself documents the dominant Freudian view ("worked through"
+  energy withdrawal, complications tied to inability to relinquish
+  ties) and the Klass et al. 1996 challenge, plus the Field, Gal Oz
+  and Bonanno 2003 worse-adjustment finding. The APA Dictionary
+  contrast is no longer relied on (the dictionary page is a JS app;
+  unverifiable statically). (2) Must grief be confronted, or is
+  avoidance part of the work: the Stroebe & Schut 1999 PDF documents
+  the grief work hypothesis it argues against and its own grounds
+  (no sound evidence that confrontation predicts adaptation;
+  intervention possibly counterproductive for some).
+- The 3-to-5-question requirement of DOSSIER-MODEL.md is therefore NOT
+  met at 2 questions; this is flagged for the supervisor rather than
+  filled with a manufactured third.
+- Removed the 2023 T&F review quote and 79-study count (T&F is
+  Cloudflare-blocked from this sandbox; claim unverifiable here).
+- Removed the R124 "meta-analysis" claim from the Variation paragraph
+  (the R124 card cites no source for it).
+- Fixed the remaining joint attribution: the naming protocol is now
+  credited to K348 only; R124 carries its own protocol (regular
+  emotional expression through writing, in a supportive setting).
+- Removed "the bound has no way to read the grief it is bounding" and
+  "the constitutive accounts say keep it" per the advisor.
+
+Checks re-run: dossier_check.py exit 0 (35 card links, 16 headers,
+18 external carriers); density 0; voice audit clean; card-link set
+still identical to the pre-rewrite dossier. Registry status left
+"planned" for the supervisor.
