@@ -50,9 +50,7 @@ Rousseau frames the double question. [Natural liberty versus the chains](https:/
 
 > "for the mere impulse of appetite is slavery, while obedience to a law which we prescribe to ourselves is liberty." ([Rousseau, The Social Contract, Book I, ch. 8, Cole trans., Project Gutenberg](https://www.gutenberg.org/files/46333/46333-h/46333-h.htm))
 
-The chains are not all removed at once, and the liberty restored is a self-binding one, obedience to law one prescribes to oneself.
-
-[The Cynic's freedom](https://clemvillatte.github.io/flourishing-compendium/#card=The%20Cynic%27s%20freedom) is the ancient, harder version: freedom in three forms, eleutheria, autarkeia and parrhesia, with the poverty that frees one from having to pay court to a ruler. The exchange that carries the whole stance runs two lines: "Ask of me any boon you like." "Stand out of my sunlight." ([Diogenes, quoted at Philoscopia](https://www.philoscopia.com/en/quotes/diogenes/))
+The chains are not all removed at once, and the liberty restored is a self-binding one, obedience to law one prescribes to oneself. [The Cynic's freedom](https://clemvillatte.github.io/flourishing-compendium/#card=The%20Cynic%27s%20freedom) is the ancient, harder version: freedom in three forms, eleutheria, autarkeia and parrhesia, with the poverty that frees one from having to pay court to a ruler. The exchange that carries the whole stance runs two lines: "Ask of me any boon you like." "Stand out of my sunlight." ([Diogenes, quoted at Philoscopia](https://www.philoscopia.com/en/quotes/diogenes/))
 
 Beauvoir widens the exercise past the single person. [The interdependence of freedoms](https://clemvillatte.github.io/flourishing-compendium/#card=The%20interdependence%20of%20freedoms) argues that a project has meaning only in a world other people have taken up, so the wish to be free already contains the wish that others be free:
 
