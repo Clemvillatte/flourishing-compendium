@@ -341,3 +341,16 @@ ST293's camel-lion-child sequence, sacred yes-saying and
 only-the-child-creates match the card verbatim. The editorial
 connection to amor fati is presented as my reading, not the
 card's claim. No defects; no edits.
+
+## Coverage check (2026-10-25, same session)
+
+Family scan of unlinked candidates across the three lane-4
+dossiers: Technology acceptance model (unrelated TAM construct,
+correctly excluded); the Freedom concept card (held by Agency per
+the documented boundary); the grief family (Grief's oscillation
+model, Grief for what passes, Ecological grief, Chronic pain
+research, Complicated grief research — held by
+sadness-and-grief.md). No wrongly-unlinked family cards; no edits.
+The five-card suffering/acceptance overlap (Amor fati, Chronic
+pain acceptance, Judgment adds the harm, K123, The second arrow)
+is the documented junction material, inherited from the mint maps.
