@@ -316,3 +316,86 @@ the fetched dhspriory text). Released as a REVIEW HANDOFF, not full
 model compliance: 1 of 3 disagreement questions remains, the
 DOSSIER-MODEL 3-question minimum is UNRESOLVED and flagged for the
 supervisor. Registry left "planned".
+
+## Supervisor close-out of the 3-question gap — 2026-10-25 (supervisor-pplx-brownmermaid-1025a)
+
+- The dos29 flag (1 of 3 disagreement questions, model minimum unmet on
+  a published page) closed by supervisor pass, not by manufacturing.
+  Two new disagreement sections added to "Where the traditions
+  genuinely disagree":
+  (1) "Is shame constituted by others' judgment or by one's own?" —
+  Spinoza's Ethics III definition (carrier already in the dossier,
+  previously verified) vs Miceli and Castelfranchi 2018 (NEW CARRIER,
+  Europe's Journal of Psychology, PMC6143989), who question the
+  public-versus-private criterion: audience typical but not
+  constitutive; shame possible in strict privacy.
+  (2) "Is the difference between shame and guilt the target — whole
+  self or single act?" — Tangney/Lewis (PMC3083636, already a carrier)
+  vs Miceli and Castelfranchi 2018 contesting the self-versus-behavior
+  criterion and proposing instead inadequacy vs harmfulness.
+- NEW CARRIER VERIFICATION: PMC6143989 fetched RAW via curl
+  (browser UA, 266KB HTML) and all five quoted spans confirmed
+  verbatim in the page text: "We question that shame coincides with
+  being afraid of others' disapproval"; "One can even be certain that
+  nobody will ever know about one's own fault, and still experience
+  shame"; "guilt is not necessarily circumscribed to one's behavior—it
+  may imply blaming one's self; and shame does not necessarily imply a
+  global negative self-view"; "Thus, the self-versus-behavior view
+  appears to be questionable"; "Whereas shame implies a
+  self-evaluation of inadequacy, guilt implies a self-evaluation of
+  harmfulness". dossier_quote_verify reports these NOT FOUND — a TOOL
+  PARSING ARTIFACT (same class as the documented Gutenberg/de Hooge
+  cases): the tool cannot parse the PMC page; the raw curl text
+  contains each span. Spacing around the em dash in the raw text
+  ("behavior —it") is an HTML tag-stripping artifact; the rendered
+  article reads "behavior—it".
+- The pre-existing 4 misses (Heidegger .doc carrier, de Hooge via
+  PubMed) remain as documented by dos29 (verified by eye against the
+  Tilburg record; ledger records the method).
+- The dos29 QC ruling that Spinoza-vs-Nietzsche does not pass the
+  same-question test was NOT overruled; it stays in the body as an
+  unresolved comparison. The two new questions were built to pass the
+  same-question/incompatible-answer test: both sides answer one
+  question from opened carriers.
+- Checks after edit: dossier_check exit 0 (39 card links, 25 headers,
+  33 external carriers); density 0 (31 paragraphs, 0.8 links/para);
+  quote_verify 34 checked / 9 not found (5 new = documented artifact
+  above, 4 = pre-existing documented). Registry untouched (already
+  published). Disagreement questions now 3 of 3.
+
+### Advisor QC round (supervisor, same pass) — revision applied before push
+
+- The advisor blocked the first draft. Corrections applied:
+  (a) Section A narrowed from "others' judgment or one's own"
+  (false dichotomy; fearing disapproval is not believed blame) to
+  "Must shame involve others' real or imagined blame?" — the explicit
+  M&C sentence "In the same vein, one does not need to imagine a
+  judging audience" added as a third verbatim quote (verified in the
+  raw curl text); the speculative "full-strength or weakened
+  relative" closer deleted (no source introduces it).
+  (b) Section B closer replaced: the claims that the sources "do not
+  disagree about what proneness to shame correlates with" and that
+  the withdrawal-and-repair findings "stand as correlations whatever
+  the definitional question settles" were withdrawn as unestablished
+  (the M&C excerpt also questions action-tendency and adaptive
+  distinctions); replaced with a scoped non-adjudication sentence.
+  (c) Body definitions re-attributed ("On that account, guilt
+  is...") with a forward pointer that the criterion is contested in
+  the disagreement section.
+- Spinoza and Tangney carriers REOPENED by this supervisor from raw
+  fetches: Ethics III Def. XXXI verified verbatim on the Gutenberg
+  carrier (definition makes believed blame by others part of what the
+  pain is; explanation checked); PMC3083636 verified verbatim (the
+  Lewis sentence and the action-tendencies sentence).
+- quote_verify discrepancy recorded without an asserted cause: the
+  tool reports the five M&C spans NOT FOUND; a raw curl fetch of the
+  same URL contains each span; the cause of the tool miss is not
+  diagnosed here (same observed pattern as the documented de
+  Hooge/PubMed and Gutenberg cases in this ledger).
+- Authority basis: supervisor baton (claimed from released state this
+  session); the dos29 band note flagged the 3-question gap "for
+  supervisor"; the dossier was published with the gap outstanding.
+  dos29's QC ruling on Spinoza-vs-Nietzsche was NOT overruled.
+- FINAL STATE after revision: 3 of 3 disagreement questions, all
+  passing the same-question/incompatible-answer test on opened
+  carriers; checker exit 0; 0 dense; ledger and dossier consistent.

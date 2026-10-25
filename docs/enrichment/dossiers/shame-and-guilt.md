@@ -21,7 +21,7 @@ The family umbrella is [Self-conscious emotions](https://clemvillatte.github.io/
 
 > "According to Lewis (1971), shame involves a negative evaluation of the global self; guilt involves a negative evaluation of a specific behavior." ([Tangney, Stuewig & Mashek, 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/))
 
-[Guilt](https://clemvillatte.github.io/flourishing-compendium/#card=Guilt) is the negative evaluation of a specific behaviour, its adaptive form moving toward confession, apology and undoing, its chronic form toward rumination and self-blame. [Shame](https://clemvillatte.github.io/flourishing-compendium/#card=Shame) is the negative evaluation of the global self, the feeling that the whole person is defective. The difference is not fine-grained psychology for its own sake: one evaluation points at an act that confession, apology and undoing can reach; the other at the whole self rather than the particular action.
+On that account, [guilt](https://clemvillatte.github.io/flourishing-compendium/#card=Guilt) is the negative evaluation of a specific behaviour, its adaptive form moving toward confession, apology and undoing, its chronic form toward rumination and self-blame, and [shame](https://clemvillatte.github.io/flourishing-compendium/#card=Shame) is the negative evaluation of the global self, the feeling that the whole person is defective. The difference is not fine-grained psychology for its own sake: one evaluation points at an act that confession, apology and undoing can reach; the other at the whole self rather than the particular action. The criterion itself is contested below, where the traditions genuinely disagree.
 
 ### What does each move a person to do?
 
@@ -128,6 +128,36 @@ The clinical skill for the hiding is [Opposite action (Linehan)](https://clemvil
 The two research findings give opposing answers to the same question, and the de Hooge paper frames them as competing interpretations being tested. The Tangney review's action tendencies hold that "shame corresponds with attempts to deny, hide, or escape the shame-inducing situation" ([Tangney et al., 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/)). De Hooge and colleagues' induced-state experiments found the opposite preference: people experiencing shame preferred "to be together with others (social approach) over being alone (social withdrawal)" ([de Hooge et al., 2018](https://pubmed.ncbi.nlm.nih.gov/29303420/)).
 
 These passages do not settle when shame is associated with withdrawal and when with a preference for company. I take these experiments as a reason not to treat withdrawal as inevitable. They do not establish that every episode of shame produces a preference for company, nor do they explain away the withdrawal findings. When I have caused harm and repair remains possible, I would choose the next step by what repair requires, rather than by the feeling alone; shame does not always attach to a reparable wrong.
+
+### Must shame involve others' real or imagined blame?
+
+The shared question: is believed blame by others part of what makes the pain shame? Spinoza's definition builds it in:
+
+> "Shame is pain accompanied by the idea of some action of our own, which we believe to be blamed by others." ([Spinoza, Ethics III, Definitions of the Affects XXXI, Elwes translation](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm))
+
+Miceli and Castelfranchi, reviewing the public-versus-private criterion, deny that the audience is necessary:
+
+> "We question that shame coincides with being afraid of others' disapproval."
+>
+> "One can even be certain that nobody will ever know about one's own fault, and still experience shame."
+>
+> "In the same vein, one does not need to imagine a judging audience." ([Miceli and Castelfranchi, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6143989/))
+
+In their view, shared with Deonna and colleagues and with Tangney and Tracy, a real or imagined audience is typical of shame, but not constitutive of it; what is constitutive is a negative self-evaluation against one's own standards. The two sources give incompatible answers to one question: for Spinoza, pain over an action not believed blamed by others would not be shame; for Miceli and Castelfranchi, shame survives the certain absence of any knower.
+
+### Is the difference between shame and guilt the target — whole self or single act?
+
+The shared question: is the distinction between the two feelings a difference of target, the whole person versus one deed? Tangney's review reports Lewis's account of it, and treats it as the distinction the research runs on:
+
+> "According to Lewis (1971), shame involves a negative evaluation of the global self; guilt involves a negative evaluation of a specific behavior." ([Tangney, Stuewig and Mashek, 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/))
+
+Miceli and Castelfranchi contest the criterion itself:
+
+> "However, we suggest that guilt is not necessarily circumscribed to one's behavior—it may imply blaming one's self; and shame does not necessarily imply a global negative self-view."
+>
+> "Thus, the self-versus-behavior view appears to be questionable." ([Miceli and Castelfranchi, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6143989/))
+
+Their alternative is a difference of evaluative kind rather than target: "Whereas shame implies a self-evaluation of inadequacy, guilt implies a self-evaluation of harmfulness" ([Miceli and Castelfranchi, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6143989/)). The disagreement concerns whether the self-versus-behavior contrast adequately distinguishes the emotions; these passages alone do not adjudicate the competing accounts.
 
 ## Practice: variation, selection, retention
 
