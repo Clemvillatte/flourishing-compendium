@@ -1994,7 +1994,22 @@
      "note": "draft complete; story_check ok; fit note routed"
     }
    ]
+  },
+  "s1a-074": {
+   "status": "qc_pending",
+   "angle": "D060: the Great Fire as the cautionary inversion — the small skipped",
+   "history": [
+    {
+     "t": "2026-10-25T14:59:31+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T14:59:31+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok; inversion named and routed"
+    }
+   ]
   }
  },
- "updated": "2026-10-25T14:58:45+00:00"
+ "updated": "2026-10-25T14:59:31+00:00"
 }

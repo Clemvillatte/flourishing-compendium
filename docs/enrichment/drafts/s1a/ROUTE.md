@@ -337,3 +337,10 @@ burning context with his own humbler reason kept in; the sutta's graded
 right-time logic is named as not carried. If you judge the mapping too
 loose, the draft reassigns to an engaged-response principle of your
 choosing.
+
+## s1a-074 note 2026-10-25 (T+26)
+
+D060 target fit: the Great Fire story is the principle's CAUTIONARY
+INVERSION (the small skipped, the cost paid), named as such in the draft.
+If you prefer only positive illustrations on D060, the draft reassigns to
+a consequences-of-inattention principle of your choosing.
