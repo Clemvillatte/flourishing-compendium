@@ -60,53 +60,29 @@ The finding that more options degrade satisfaction and decision quality (Iyengar
 
 The two decision-making styles that Schwartz and colleagues set against each other in their 2002 studies of choice are [maximizing versus satisficing](https://clemvillatte.github.io/flourishing-compendium/#card=Maximizing%20versus%20satisficing).
 
-### Designing the choice
+### How choices are designed
 
-[Choice architecture](https://clemvillatte.github.io/flourishing-compendium/#card=Choice%20architecture): seeks to influence decisions by designing their physical, social or psychological context while preserving freedom of choice.
+The practice of seeking to influence decisions by designing their physical, social or psychological context while preserving freedom of choice is [choice architecture](https://clemvillatte.github.io/flourishing-compendium/#card=Choice%20architecture). Thaler and Sunstein's account of how small changes in choice architecture steer behaviour while preserving freedom to choose is [nudge theory](https://clemvillatte.github.io/flourishing-compendium/#card=Nudge%20theory%20Thaler).
 
-[Nudge theory Thaler](https://clemvillatte.github.io/flourishing-compendium/#card=Nudge%20theory%20Thaler): Thaler and Sunstein's account of how small changes in choice architecture steer behaviour while preserving freedom to choose.
+Procedures for counteracting systematic errors of judgment, as sorted by Larrick in 2004, are [debiasing techniques](https://clemvillatte.github.io/flourishing-compendium/#card=Debiasing%20techniques). The finding that imagining future failure improves identification of risks and reduces overconfidence is the [pre-mortem technique](https://clemvillatte.github.io/flourishing-compendium/#card=Pre-mortem%20technique).
 
-[Debiasing techniques](https://clemvillatte.github.io/flourishing-compendium/#card=Debiasing%20techniques): procedures for counteracting systematic errors of judgment, as sorted by Larrick in 2004.
+Shaping choices with the people who must live with them, not doing things to or for them, is [participatory decision-making](https://clemvillatte.github.io/flourishing-compendium/#card=Participatory%20decision-making).
 
-[Pre-mortem technique](https://clemvillatte.github.io/flourishing-compendium/#card=Pre-mortem%20technique): imagining future failure improves identification of risks and reduces overconfidence.
+### Where deliberation meets the will
 
-[Participatory decision-making](https://clemvillatte.github.io/flourishing-compendium/#card=Participatory%20decision-making): shaping choices with the people who must live with them, not doing things to or for them.
+Aristotle's reasoned choice, joining desire for a goal with deliberation about action, is [prohairesis (deliberate choice)](https://clemvillatte.github.io/flourishing-compendium/#card=Prohairesis%20%28deliberate%20choice%29). Aristotle's term for wish, the desire that aims at what is seen as good as opposed to appetite and spirit, is [boulesis (rational desire)](https://clemvillatte.github.io/flourishing-compendium/#card=Boulesis%20%28rational%20desire%29). Aristotle's practical wisdom, phronesis, a capacity for good deliberation connected with ethical virtue, is [prudence](https://clemvillatte.github.io/flourishing-compendium/#card=Prudence).
 
-### Deliberation, will and weakness of will
+Dewey's account that when action is blocked, competing habits and impulses are tried out in imagination instead of overt fact, is [deliberation as rehearsal](https://clemvillatte.github.io/flourishing-compendium/#card=Deliberation%20as%20rehearsal). In the modern discussion, action contrary to one's present better judgment is [akrasia (weakness of will)](https://clemvillatte.github.io/flourishing-compendium/#card=Akrasia%20%28weakness%20of%20will%29), and the classical treatment of acting against one's better judgment, "knowing the better and doing the worse", which Aristotle treats as curable, a failure of habituation, is [akrasia](https://clemvillatte.github.io/flourishing-compendium/#card=Akrasia).
 
-[Prohairesis (deliberate choice)](https://clemvillatte.github.io/flourishing-compendium/#card=Prohairesis%20%28deliberate%20choice%29): Aristotle's reasoned choice, joining desire for a goal with deliberation about action.
+Seneca's counsel on timing, that an emotion is weak at the threshold and strong once it has entered, so the wise act happens early, is [pre-commitment as wisdom](https://clemvillatte.github.io/flourishing-compendium/#card=Pre-commitment%20as%20wisdom). My label for a pattern in Seneca and Epictetus, that hope is a thing to weigh because it travels with fear, is [hope tempered by prudence](https://clemvillatte.github.io/flourishing-compendium/#card=Hope%20tempered%20by%20prudence).
 
-[Boulesis (rational desire)](https://clemvillatte.github.io/flourishing-compendium/#card=Boulesis%20%28rational%20desire%29): Aristotle's term for wish: the desire that aims at what is seen as good, as opposed to appetite and spirit.
+Milkman's method of pairing an instantly gratifying want with a valuable but effortful should is [temptation bundling](https://clemvillatte.github.io/flourishing-compendium/#card=Temptation%20bundling%20%28Milkman%29). The practice of doing small, regular self-control tasks in the hope of building a general capacity is [self-control training](https://clemvillatte.github.io/flourishing-compendium/#card=Self-control%20training).
 
-[Prudence](https://clemvillatte.github.io/flourishing-compendium/#card=Prudence): here Aristotle's practical wisdom, phronesis: a capacity for good deliberation connected with ethical virtue.
+### How choice makes a person
 
-[Deliberation as rehearsal](https://clemvillatte.github.io/flourishing-compendium/#card=Deliberation%20as%20rehearsal): Dewey: when action is blocked, competing habits and impulses are tried out in imagination instead of overt fact.
+In Jaspers's account of existential freedom, [decision](https://clemvillatte.github.io/flourishing-compendium/#card=Decision) involves considering possibilities and committing to a choice. Sartre's claim that a person is not a thing with a ready-made essence but a project, a stance kept taking toward the world, is [choice of self](https://clemvillatte.github.io/flourishing-compendium/#card=Choice%20of%20self), and his account of what holds a person together, that beneath particular decisions lies one original choice of how to be, is [the originary choice](https://clemvillatte.github.io/flourishing-compendium/#card=The%20originary%20choice).
 
-[Akrasia (weakness of will)](https://clemvillatte.github.io/flourishing-compendium/#card=Akrasia%20%28weakness%20of%20will%29): in the modern discussion, action contrary to one's present better judgment.
-
-[Akrasia](https://clemvillatte.github.io/flourishing-compendium/#card=Akrasia): acting against one's better judgment, "knowing the better and doing the worse"; Aristotle treats it as curable, a failure of habituation.
-
-[Pre-commitment as wisdom](https://clemvillatte.github.io/flourishing-compendium/#card=Pre-commitment%20as%20wisdom): Seneca's counsel on timing: an emotion is weak at the threshold and strong once it has entered, so the wise act happens early.
-
-[Hope tempered by prudence](https://clemvillatte.github.io/flourishing-compendium/#card=Hope%20tempered%20by%20prudence): my label for a pattern in Seneca and Epictetus: hope is a thing to weigh, because it travels with fear.
-
-[Temptation bundling (Milkman)](https://clemvillatte.github.io/flourishing-compendium/#card=Temptation%20bundling%20%28Milkman%29): Milkman's method of pairing an instantly gratifying want with a valuable but effortful should.
-
-[Self-control training](https://clemvillatte.github.io/flourishing-compendium/#card=Self-control%20training): the practice of doing small, regular self-control tasks in the hope of building a general capacity.
-
-### Choice and who one is
-
-[Decision](https://clemvillatte.github.io/flourishing-compendium/#card=Decision): in Jaspers's account of existential freedom, decision involves considering possibilities and committing to a choice.
-
-[Choice of self](https://clemvillatte.github.io/flourishing-compendium/#card=Choice%20of%20self): Sartre: a person is not a thing with a ready-made essence but a project, a stance kept taking toward the world.
-
-[The originary choice](https://clemvillatte.github.io/flourishing-compendium/#card=The%20originary%20choice): Sartre's account of what holds a person together: beneath particular decisions lies one original choice of how to be.
-
-[Moral dilemmas](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20dilemmas): the Stanford Encyclopedia's definition: the agent is required to do each of two actions and cannot do both.
-
-[Moral dilemma research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20dilemma%20research): the study of judgment in cases where moral requirements conflict.
-
-[Choice Theory (William Glasser)](https://clemvillatte.github.io/flourishing-compendium/#card=Choice%20Theory%20%28William%20Glasser%29): Glasser's proposal that behaviour is chosen to satisfy five basic needs.
+The Stanford Encyclopedia's definition of the agent being required to do each of two actions and not being able to do both is [moral dilemmas](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20dilemmas), and the study of judgment in cases where moral requirements conflict is [moral dilemma research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20dilemma%20research). Glasser's proposal that behaviour is chosen to satisfy five basic needs is [Choice Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Choice%20Theory%20%28William%20Glasser%29).
 
 ## Where the traditions genuinely disagree
 
