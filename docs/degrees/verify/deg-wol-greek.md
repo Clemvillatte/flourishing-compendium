@@ -204,6 +204,134 @@ entry.
   session and works as revision.
 - Verification status: verified-video (2026-10-25).
 
+### ST-04: Happiness and Tranquility (Myles Burnyeat, UC Berkeley Howison Lecture)
+
+- Legacy attachment: mod-phil-2 required media (also attached to mod-phil-3).
+- Identity: oembed confirms the video on the UC Berkeley Graduate Division
+  channel, title "Happiness and Tranquility"
+  (https://www.youtube.com/watch?v=ZX0gcziEmpM). Freely playable, no paywall.
+- Duration: the watch page's structured metadata prints PT61M0S (61
+  minutes), read 2026-10-25.
+- Instructor credentials: Myles Burnyeat, Laurence Professor of Ancient
+  Philosophy at the University of Cambridge, formerly a Fellow of the British
+  Academy and President of the Aristotelian Society (Berkeley Graduate
+  Lectures page for this talk:
+  https://gradlectures.berkeley.edu/lecture/happiness-and-tranquility/,
+  opened 2026-10-25; the same credentials appear in the video description,
+  but the Berkeley page is the institutional source).
+- Language: English. The watch page offers a transcript panel.
+- Event: Howison Lectures in Philosophy at UC Berkeley, 26 September 1996
+  (stated on the Berkeley Graduate Lectures page).
+- Content coverage (from the transcript, read 2026-10-25): Burnyeat sets
+  up his aims "to give you an idea of the contrast between ancient
+  eudaimonia and ataraxia" and "to try and say something about how the
+  Stoics, Epicureans and skeptics talk about happiness as tranquility".
+  He opens by contrasting Aristotle's view of happiness as an active life
+  of virtue with the ancient Greek medical thought he says psychologists
+  have drawn from for their definition of happiness. The talk covers
+  Epicureans and Stoics as dogmatists against the skeptics, and asks "what
+  should we take from this history?".
+- Relevant segments for the Greek walk: a single 61-minute talk; assign
+  whole. The watch page prints no chapter timestamps.
+- Verification status: verified-video (2026-10-25).
+
+### ST-05: Facing Things Stoically, the Stoic recipe for remaining calm (Richard Sorabji, Gresham College)
+
+- Legacy attachment: mod-phil-2 required media.
+- Identity and access: the Gresham watch-now page
+  (https://www.gresham.ac.uk/watch-now/facing-things-stoically-stoic-recipe-remaining-calm)
+  hosts the recording, free, with a downloadable PDF transcript
+  (https://www.gresham.ac.uk/sites/default/files/transcript/Facing%20Things%20Stoically.pdf),
+  consistent with Gresham College's free public lecture mission.
+- Duration: 1:01:13, printed beside this lecture in Gresham's own watch
+  listings on the site (read 2026-10-25 via search snippets of two other
+  gresham.ac.uk pages; the lecture's own page does not print a duration).
+  The owner should treat 1:01:13 as the printed figure with this
+  provenance.
+- Instructor credentials: Richard Sorabji CBE, FBA, Gresham Professor of
+  Rhetoric 2000 to 2003, previously Professor of Philosophy at King's
+  College London 1970 to 2000 (Gresham speaker page:
+  https://www.gresham.ac.uk/speakers/professor-richard-sorabji-fba,
+  opened 2026-10-25).
+- Language: English. A full PDF transcript is provided by Gresham.
+- Event: Gresham College lecture, 15 May 2002.
+- Content coverage (from the lecture's own transcript, read 2026-10-25):
+  the lecture asks what it is to face things Stoically, argues Stoic
+  serenity was meant to pass beyond inner struggle, explains the Stoic
+  view of emotions as evaluative judgments that can be revised by rational
+  means, and works through Stoic methods for revising the two judgments
+  behind an emotion (re-labelling a traffic jam as a festival, comparing
+  your suffering with others, asking whether a situation is bad or only
+  unexpected). It closes by asking whether the Stoics were too calm.
+- Relevant segments: the PDF transcript prints no timestamps; assign whole.
+- Verification status: verified-video (2026-10-25).
+
+### SRC-M25-001: 2025 Terry Lectures, Peter Adamson, Skepticism and Borders (lecture 3)
+
+- Legacy attachment: mod-phil-3 required media.
+- Identity: oembed confirms the video on the Yale University channel,
+  title "2025 Terry Lectures-Skepticism / Borders: Arguments from Animal
+  Difference in China, Greece, & Islam"
+  (https://www.youtube.com/watch?v=6iLpGOkOx0A). Freely playable, no paywall.
+- Duration: the watch page's structured metadata prints PT91M8S (1:31:08),
+  read 2026-10-25; one extraction also read 1:03:34 elsewhere on the page,
+  unconfirmed against the metadata.
+- Instructor credentials: Peter Adamson, Chair of Late Ancient and Arabic
+  Philosophy at LMU Munich, part-time professor at King's College London
+  since 2012, and 2024 to 2025 Dwight H. Terry Lecturer at Yale University
+  (LMU directory page:
+  https://www.philosophie.lmu.de/en/directory-of-persons/contact-page/peter-adamson-28339046.html,
+  opened 2026-10-25).
+- Language: English. The watch page offers a transcript panel.
+- Content coverage (from the watch page description of the recording
+  itself, 2026-10-25): the third and final Terry lecture examines the
+  Daoist text Zhuangzi, the Greek Skeptic Sextus Empiricus, and the
+  Epistles of the Brethren of Purity, on the skeptical argument from
+  animal difference. The auto chapter list prints: skepticism in the
+  Zhuangzi (3:49), debating animal experience (8:52), Sextus Empiricus's
+  modes (18:33), Montaigne's perspective (30:01), the Brethren of Purity
+  (34:24), conclusion and discussion (43:44), Q&A (52:23).
+- Relevant segments for the Greek walk: the Greek-skepticism core is 18:33
+  to 30:01 (Sextus Empiricus's modes) plus the comparative frame around
+  it; the lecture is cross-traditional by design, so the owner may assign
+  the whole talk for comparison or just the Sextus stretch for the
+  Hellenistic module.
+- Verification status: verified-video (2026-10-25).
+- Note: the transcript service returned no transcript for this recording
+  this session, so the content classification rests on the recording's own
+  description and chapter list, which the page labels auto-generated.
+
+### SRC-M25-002: Curious Researches, Reflections on Skepticism Ancient and Modern, from Sextus to Descartes (Michael Williams, UCD)
+
+- Legacy attachment: mod-phil-3 required media.
+- Identity: oembed confirms the video on the UCD (University College
+  Dublin) channel, title "Curious Researches: Reflections on Skepticism,
+  Ancient and Modern - From Sextus to Descartes"
+  (https://www.youtube.com/watch?v=Dss98-rTl6Q). Freely playable, no paywall.
+- Duration: 1:18:03 printed in the player (2026-10-25).
+- Instructor credentials: Michael Williams, Krieger-Eisenhower Professor
+  of Philosophy at Johns Hopkins University, PhD from Princeton, Fellow
+  of the American Academy of Arts and Sciences, chair of the department
+  2001 to 2013 (JHU Philosophy directory:
+  https://philosophy.jhu.edu/directory/michael-williams/, opened
+  2026-10-25; the JHU page notes he is currently working on Curious
+  Researches: Reflections on Skepticism Ancient and Modern, the lecture's
+  own title).
+- Language: English. The watch page offers a transcript panel.
+- Content coverage (from the recording's own description, read 2026-10-25):
+  the first Agnes Cuming Lecture for 2025/26, hosted by the UCD School of
+  Philosophy, in which Williams explores ancient and modern scepticism,
+  tracing how philosophical doubt evolved from ancient Pyrrhonism (Sextus
+  Empiricus) through Descartes, Kant, Hegel and Rorty, and what the
+  limits of scepticism in everyday life mean for contemporary thought.
+- Relevant segments for the Greek walk: no chapter timestamps printed; the
+  ancient-skepticism portion (Sextus and Pyrrhonism) is the opening ground
+  of the talk, and the owner should read segment times from the
+  transcript panel if they want only that part. The talk as a whole is
+  modern-focused, so it serves mod-phil-3 as a reception and comparison
+  resource rather than a core Hellenistic teaching.
+- Verification status: verified-video (2026-10-25).
+
 ### ST-01: STOICON '16, Julia Annas, Is Stoic Virtue as Off-Putting as it Seems?
 
 - Legacy attachment: mod-phil-2 required media.
