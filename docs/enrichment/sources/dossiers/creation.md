@@ -291,3 +291,28 @@ Round 7 (also rev 7, final): per advisor round 7, the divergence framing
   procreation cluster: Bergson's example is the closest the opened
   carriers come to procreation-as-creation; a future owner-directed pass
   could build on it.
+
+## Restructure to interwoven format (pass 9, worker-pplx-c3b0f2fb, 2026-10-25)
+
+Per the dossiers/HANDOFF.md current orders ("Already-drafted creation (rev 7)
+... in the old map shape: restructure them, do not just polish"), the dossier
+was restructured from the map format to the GF interwoven thread. All card
+links and quotations from rev 7 were reused verbatim; the link inventory is
+unchanged (51 card links incl. Value creation, restored after a first-pass
+drop was caught by link-set diff against HEAD). Prose sections re-threaded:
+The map's list-style entries (Life itself as creation; The maker and the made
+world; Creating people and what outlasts you; Creating as identity) became
+flowing sections with connective prose (The making that life is; The maker
+and the made world; What outlasts the maker; Making as identity). The
+disagreement material (Is the meaning of making discovered or created?; Where
+the meaning of making lands) moved under the required "## Where the
+traditions genuinely disagree" heading as subsections. Practice and Story
+sections were already in shape and are unchanged. dossier_check.py exit 0
+(51 card links, 16 headers, 14 external carriers). dossier_quote_verify.py:
+16 quotes checked, 2 NOT FOUND — both the known bot-blocked Taylor & Francis
+carriers (Conner et al. DOI landing; Jones et al. tandfonline), whose raw
+verification is on record in this ledger (items above; fetch-tool raw HTML,
+no LLM extraction, VERBATIM) and whose wording was reused unchanged, so the
+prior verification stands. New prose was written this pass without opening
+new carriers: every claim in new words restates material already verified in
+this ledger; no new claims were added.

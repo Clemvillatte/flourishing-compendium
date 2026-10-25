@@ -2,7 +2,9 @@
 
 > Why does making things (objects, connections, children, a life) feel like it means something, and what kind of meaning is that?
 
-A life spends itself making things: meals, sentences, friendships, children, institutions, a character. Frankl counts creating a work or doing a deed among the three ways a life finds meaning. Bergson goes further and reads joy itself as the sign that creation has happened. Arendt gives the maker a world to erect. The accounts put the emphasis in different places.
+A life spends itself making things: meals, sentences, friendships, children, institutions, a character. Frankl counts creating a work or doing a deed among the three ways a life finds meaning. Bergson goes further and reads joy itself as the sign that creation has happened. Arendt gives the maker a world to erect. The accounts put the emphasis in different places, and this page follows each emphasis where it leads.
+
+The question underneath all of them is what the making does: whether it delivers a meaning the maker finds, or confers one, or both, and where the meaning lands when the thing is made.
 
 ## Nearby terms
 
@@ -13,111 +15,83 @@ The family around creation overlaps easily, so I keep apart what can be kept apa
 - Procreation: the nearest things to it in this material are generativity's concern for future generations and Bergson's mother beholding her child in the joy passage below.
 - Meaning-making: Park's process tradition on how people reinterpret events that violate their wants and beliefs, and Ricoeur's narrative work on composing a life.
 
-## The map: the entries on creation
-
-### Making as a route to meaning
+## Making as a route to meaning
 
 Frankl's logotherapy puts creating a work or doing a deed first among the three routes to meaning:
 
 > "According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering." ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))
 
-Frankl's own name for that first route is [Creative values](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20values): what a person gives to the world through a work or a deed. The [will to meaning](https://clemvillatte.github.io/flourishing-compendium/#card=The%20will%20to%20meaning) behind the route is his primary motivational force, built against Freud's pleasure principle and Adler's striving for superiority: the striving to find meaning, not to restore equilibrium. [Meaning-centred therapy](https://clemvillatte.github.io/flourishing-compendium/#card=Meaning-centred%20therapy) is the account's clinical descendant, Breitbart's short-term treatment for people with advanced cancer, and [E062 — Practise meaning through creative work](https://clemvillatte.github.io/flourishing-compendium/#card=E062%20%E2%80%94%20Practise%20meaning%20through%20creative%20work) carries the route into work as an ongoing contribution to others, with what calling research says about how people get drawn into it.
+Frankl's own name for that first route is [Creative values](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20values): what a person gives to the world through a work or a deed. The [will to meaning](https://clemvillatte.github.io/flourishing-compendium/#card=The%20will%20to%20meaning) behind the route is his primary motivational force, built against Freud's pleasure principle and Adler's striving for superiority: the striving to find meaning, not to restore equilibrium. The clinical descendant is [Meaning-centred therapy](https://clemvillatte.github.io/flourishing-compendium/#card=Meaning-centred%20therapy), Breitbart's short-term treatment for people with advanced cancer, and [E062 — Practise meaning through creative work](https://clemvillatte.github.io/flourishing-compendium/#card=E062%20%E2%80%94%20Practise%20meaning%20through%20creative%20work) carries the route into work as an ongoing contribution to others, with what calling research says about how people get drawn into it.
 
-The diary study asks a different question, an empirical one. [Everyday creative activities](https://clemvillatte.github.io/flourishing-compendium/#card=Everyday%20creative%20activities) and [Creative activities](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20activities) report Conner, DeYoung and Silvia's 13-day diary study of 658 young adults, which asked how reported creative activity related to the following day's positive affect (PA) and flourishing, and the abstract words the association carefully:
+Is there evidence that making does anything for the maker? The diary study asks the question empirically. [Everyday creative activities](https://clemvillatte.github.io/flourishing-compendium/#card=Everyday%20creative%20activities) and [Creative activities](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20activities) report Conner, DeYoung and Silvia's 13-day diary study of 658 young adults, which asked how reported creative activity related to the following day's positive affect and flourishing, and words the association carefully:
 
 > "Lagged multilevel models revealed that people felt higher activated PA and flourishing following days when they reported more creative activity than usual. The other direction – PA predicting next-day creative activity – was not supported, suggesting that the cross-day effect was specific to creative activity predicting well-being." ([Conner, DeYoung and Silvia 2018, abstract](https://doi.org/10.1080/17439760.2016.1257049))
 
-[BE059 — Engage in creative behaviour — making is well-being](https://clemvillatte.github.io/flourishing-compendium/#card=BE059%20%E2%80%94%20Engage%20in%20creative%20behaviour%20%E2%80%94%20making%20is%20well-being) carries the finding into practice, with the study's own limits stated on it. [Meaning-making](https://clemvillatte.github.io/flourishing-compendium/#card=Meaning-making) and [Narrative as meaning-making](https://clemvillatte.github.io/flourishing-compendium/#card=Narrative%20as%20meaning-making) mark the boundary: Park's process tradition revises the meaning of events, and Ricoeur's narrative work composes a life out of them, where Frankl's route is about giving something to the world.
+[BE059 — Engage in creative behaviour — making is well-being](https://clemvillatte.github.io/flourishing-compendium/#card=BE059%20%E2%80%94%20Engage%20in%20creative%20behaviour%20%E2%80%94%20making%20is%20well-being) carries the finding into practice, with the study's own limits stated on it. The boundary of the route matters too: [Meaning-making](https://clemvillatte.github.io/flourishing-compendium/#card=Meaning-making) and [Narrative as meaning-making](https://clemvillatte.github.io/flourishing-compendium/#card=Narrative%20as%20meaning-making) hold Park's process tradition revising the meaning of events and Ricoeur's narrative work composing a life out of them, where Frankl's route is about giving something to the world.
 
-### Life itself as creation
+## The making that life is
 
-[Creative advance](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20advance): Whitehead's name for the universe's ongoing production of novelty, the becoming by which the many become one and are thereby increased by one.
-
-[P006 — Creativity is the ultimate principle](https://clemvillatte.github.io/flourishing-compendium/#card=P006%20%E2%80%94%20Creativity%20is%20the%20ultimate%20principle): the Process and Reality category of the ultimate:
+The metaphysical accounts read the making outward, onto life itself. [Creative advance](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20advance) is Whitehead's name for the universe's ongoing production of novelty, the becoming by which the many become one and are thereby increased by one. His [P006 — Creativity is the ultimate principle](https://clemvillatte.github.io/flourishing-compendium/#card=P006%20%E2%80%94%20Creativity%20is%20the%20ultimate%20principle) states the category at full strength:
 
 > "'Creativity' is the universal of universals characterizing ultimate matter of fact. It is that ultimate principle by which the many, which are the universe disjunctively, become the one actual occasion, which is the universe conjunctively." ([Whitehead, Process and Reality, quoted in the Garland Encyclopedia of Whiteheadian Thought](https://encyclopedia.whiteheadresearch.org/entries/thematic/metaphysics/the-mystery-of-creativity/))
 
-[Creative evolution](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20evolution): Bergson's 1907 account of life as genuinely new. The élan vital is a shared thrust, and mechanism and finalism both make real creation impossible: mechanism reads an impulse of thought backward into inherited suppositions, finalism assumes a conceptual arrangement of means to ends, and both, he says, fail for the same reason.
+Bergson's [Creative evolution](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20evolution) makes the same claim biologically: life as genuinely new, carried by the élan vital, a shared thrust. Mechanism and finalism both make real creation impossible — mechanism reads an impulse of thought backward into inherited suppositions, finalism assumes a conceptual arrangement of means to ends — and both, he says, fail for the same reason.
 
-[P102 — Trust the creative thrust of life](https://clemvillatte.github.io/flourishing-compendium/#card=P102%20%E2%80%94%20Trust%20the%20creative%20thrust%20of%20life): making modifies the maker. The passage, from Creative Evolution:
+And the making runs both ways: life makes, and the making remakes the maker. Bergson's [P102 — Trust the creative thrust of life](https://clemvillatte.github.io/flourishing-compendium/#card=P102%20%E2%80%94%20Trust%20the%20creative%20thrust%20of%20life) says it in a sentence:
 
 > "It is then right to say that what we do depends on what we are; but it is necessary to add also that we are, to a certain extent, what we do, and that we are creating ourselves continually." ([Bergson, Creative Evolution, ch. 1, Mitchell trans., Project Gutenberg](https://www.gutenberg.org/files/26163/26163-h/26163-h.htm))
 
-[Creative selection](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20selection): Bergson on self-remaking: "for a conscious being, to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly."
+[Creative selection](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20selection) compresses the same point: for a conscious being, to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly. Dewey's [Creative impulse](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20impulse) grounds the two-way movement in ordinary experience: a raw germ of an idea, given shape through emotion, then needing arduous formative work before it becomes art.
 
-[Creative impulse](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20impulse): Dewey's account of the raw germ of an idea, given shape through emotion and then needing arduous formative work before it becomes art.
+Bergson gives the making its felt signature. Joy, on his account, announces that life has succeeded, and [P191 — Joy is the felt signature of creation; distinct from pleasure](https://clemvillatte.github.io/flourishing-compendium/#card=P191%20%E2%80%94%20Joy%20is%20the%20felt%20signature%20of%20creation%3B%20distinct%20from%20pleasure) keeps the signature distinct from pleasure. His [P195 — Creative emotion (émotion créatrice) is generative of thought, not a byproduct of it](https://clemvillatte.github.io/flourishing-compendium/#card=P195%20%E2%80%94%20Creative%20emotion%20%28%C3%A9motion%20cr%C3%A9atrice%29%20is%20generative%20of%20thought%2C%20not%20a%20byproduct%20of%20it) goes further: an emotion that generates representations rather than only following them, the musician's emotion giving rise to the symphony and its score.
 
-[P191 — Joy is the felt signature of creation; distinct from pleasure](https://clemvillatte.github.io/flourishing-compendium/#card=P191%20%E2%80%94%20Joy%20is%20the%20felt%20signature%20of%20creation%3B%20distinct%20from%20pleasure): Bergson's joy, creation's felt signature, distinct from pleasure.
+The Nahua [Flower and song](https://clemvillatte.github.io/flourishing-compendium/#card=Flower%20and%20song) — the difrasismo in xochitl in cuicatl — puts art and metaphor as the world's own activity, on a metaphysics in which the cosmos is the ongoing self-expression of teotl, nature and art the same activity. One entry marks the boundary of the person-level claim: [Creative destruction](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20destruction) is Schumpeter's term for capitalism renewing itself by displacing the old from within — renewal that destroys, and the creation there is the system's, not the person's.
 
-[P195 — Creative emotion (émotion créatrice) is generative of thought, not a byproduct of it](https://clemvillatte.github.io/flourishing-compendium/#card=P195%20%E2%80%94%20Creative%20emotion%20%28%C3%A9motion%20cr%C3%A9atrice%29%20is%20generative%20of%20thought%2C%20not%20a%20byproduct%20of%20it): Bergson's émotion créatrice, an emotion that generates representations rather than only following them, as the musician's emotion gives rise to the symphony and its score.
+## The maker and the made world
 
-[Flower and song](https://clemvillatte.github.io/flourishing-compendium/#card=Flower%20and%20song): the Nahua difrasismo in xochitl in cuicatl, art and metaphor as the world's own activity, on a metaphysics in which the cosmos is the ongoing self-expression of teotl, nature and art the same activity.
-
-[Creative destruction](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20destruction): Schumpeter's term for capitalism renewing itself by displacing the old from within. Renewal that destroys, and the creation here is the system's, not the person's.
-
-### The maker and the made world
-
-[Homo faber — man the maker](https://clemvillatte.github.io/flourishing-compendium/#card=Homo%20faber%20%E2%80%94%20man%20the%20maker): Arendt's toolmaker. Where the laborer tends the cycle of life, the maker builds things that endure:
+Arendt gives the maker a world. Where the laborer tends the cycle of life, [Homo faber — man the maker](https://clemvillatte.github.io/flourishing-compendium/#card=Homo%20faber%20%E2%80%94%20man%20the%20maker) invents tools and implements in order to erect one:
 
 > "homo faber, the toolmaker, invented tools and implements in order to erect a world, not—at least, not primarily—to help the human life process. The question therefore is not so much whether we are the masters or the slaves of our machines, but whether machines still serve the world and its things, or if, on the contrary, they and the automatic motion of their processes have begun to rule and even destroy world and things." ([Arendt, The Human Condition, excerpt](https://kortina.nyc/notes/the-human-condition/))
 
-[Verum factum](https://clemvillatte.github.io/flourishing-compendium/#card=Verum%20factum): Vico's principle that the true and the made are one, verum et factum convertuntur: we know the human world fully because we made it, and the mind does not make itself as it gets to know itself.
+Vico's [Verum factum](https://clemvillatte.github.io/flourishing-compendium/#card=Verum%20factum) makes the knowledge claim: the true and the made are one, verum et factum convertuntur — we know the human world fully because we made it, and the mind does not make itself as it gets to know itself. The [pontifex, bridge-maker](https://clemvillatte.github.io/flourishing-compendium/#card=The%20pontifex%2C%20bridge-maker) holds the sociology of mediation: the Roman high priest's title, pons plus facere, the one who makes the bridge between the community and the gods, connection as something built with a social status to go with it — though ancient scholars contested the etymology from the start.
 
-[The pontifex, bridge-maker](https://clemvillatte.github.io/flourishing-compendium/#card=The%20pontifex%2C%20bridge-maker): the Roman high priest's title, pons plus facere, the one who makes the bridge between the community and the gods. The word holds a whole sociology of mediation: connection as something built, and the person who builds it, with a social status to go with it, even though ancient scholars contested the etymology from the start.
+Connection between people can be made too: [Micro-moments of connection](https://clemvillatte.github.io/flourishing-compendium/#card=Micro-moments%20of%20connection) is Fredrickson's account of positivity resonance, shared positive emotions, biobehavioral synchrony and mutual care, swelling and subsiding in moments. And connection between ideas is made visible: on [Conceptual metaphor theory](https://clemvillatte.github.io/flourishing-compendium/#card=Conceptual%20metaphor%20theory%20Lakoff%20Johnson), metaphor structures one domain through another, love spoken of in terms of travel, time in terms of space, importance in terms of weight, with systematic correspondences rather than stray figures of speech. [Insight research](https://clemvillatte.github.io/flourishing-compendium/#card=Insight%20research) adds the sudden-comprehension mode: Kounios and Beeman define insight as a sudden reinterpretation that produces a nonobvious, nondominant reading of a stimulus, situation or event, counting comprehension of a joke or metaphor among its forms.
 
-[Micro-moments of connection](https://clemvillatte.github.io/flourishing-compendium/#card=Micro-moments%20of%20connection): connection as something made between people, on Fredrickson's account of positivity resonance: shared positive emotions, biobehavioral synchrony and mutual care, swelling and subsiding in moments.
+The Stoic [interconnected good](https://clemvillatte.github.io/flourishing-compendium/#card=The%20interconnected%20good) is the boundary to this cluster: Marcus Aurelius's sympatheia holds that all things are implicated with one another and the bond is holy — a connection the world already has rather than one a person makes.
 
-[Conceptual metaphor theory Lakoff Johnson](https://clemvillatte.github.io/flourishing-compendium/#card=Conceptual%20metaphor%20theory%20Lakoff%20Johnson): connection between ideas made visible. On Lakoff and Johnson's proposal, metaphor structures one domain through another, love spoken of in terms of travel, time in terms of space, importance in terms of weight, with systematic correspondences between the two domains rather than stray figures of speech.
-
-[Insight research](https://clemvillatte.github.io/flourishing-compendium/#card=Insight%20research): the sudden-comprehension mode. Kounios and Beeman's review defines insight as a sudden reinterpretation that produces a nonobvious, nondominant reading of a stimulus, situation or event, and counts comprehension of a joke or metaphor among its forms.
-
-[The interconnected good](https://clemvillatte.github.io/flourishing-compendium/#card=The%20interconnected%20good): the Stoic boundary to the cluster. Marcus Aurelius's sympatheia holds that all things are implicated with one another and the bond is holy, a connection the world already has rather than one a person makes.
-
-[Value creation](https://clemvillatte.github.io/flourishing-compendium/#card=Value%20creation): Nietzsche's account of valuing as creating, in the Common translation:
+Nietzsche's maker makes values: [Value creation](https://clemvillatte.github.io/flourishing-compendium/#card=Value%20creation) is his account of valuing as creating, in the Common translation:
 
 > "Values did man only assign to things in order to maintain himself—he created only the significance of things, a human significance!" ([Nietzsche, Thus Spake Zarathustra, "The Thousand and One Goals"](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm))
 
-[E107 — Practise the creation of values](https://clemvillatte.github.io/flourishing-compendium/#card=E107%20%E2%80%94%20Practise%20the%20creation%20of%20values): a value was once given and bestowed, and it was we who gave and bestowed it, with the demand to become what we are, making laws for ourselves and creating ourselves.
+[E107 — Practise the creation of values](https://clemvillatte.github.io/flourishing-compendium/#card=E107%20%E2%80%94%20Practise%20the%20creation%20of%20values) carries it into practice: a value was once given and bestowed, and it was we who gave and bestowed it, with the demand to become what we are, making laws for ourselves and creating ourselves.
 
-[A035 — Cultivate art and craft (techne)](https://clemvillatte.github.io/flourishing-compendium/#card=A035%20%E2%80%94%20Cultivate%20art%20and%20craft%20%28techne%29): Aristotle's techne, a rational quality concerned with making that reasons truly. The maker knows why the method works, so the method can be varied, repaired and taught.
-
-[Craftsmanship research](https://clemvillatte.github.io/flourishing-compendium/#card=Craftsmanship%20research) and [PP022 — Pursue craftsmanship](https://clemvillatte.github.io/flourishing-compendium/#card=PP022%20%E2%80%94%20Pursue%20craftsmanship): the line of work around Sennett's The Craftsman, and its charter definition:
+Aristotle gives the maker's competence its shape: [A035 — Cultivate art and craft (techne)](https://clemvillatte.github.io/flourishing-compendium/#card=A035%20%E2%80%94%20Cultivate%20art%20and%20craft%20%28techne%29) is techne, a rational quality concerned with making that reasons truly; the maker knows why the method works, so the method can be varied, repaired and taught. Sennett's line of work, on [Craftsmanship research](https://clemvillatte.github.io/flourishing-compendium/#card=Craftsmanship%20research) and [PP022 — Pursue craftsmanship](https://clemvillatte.github.io/flourishing-compendium/#card=PP022%20%E2%80%94%20Pursue%20craftsmanship), gives the impulse its charter definition:
 
 > "Craftsmanship names an enduring, basic human impulse, the desire to do a job well for its own sake." ([Sennett 2008, quoted in Jones et al. 2021](https://www.tandfonline.com/doi/full/10.1080/13549839.2021.1939289))
 
-Sennett extends the impulse well past skilled manual labour, to programming, medicine and parenting, and holds that in all these domains craftsmanship focuses on objective standards, on the thing itself.
+Sennett extends the impulse well past skilled manual labour, to programming, medicine and parenting, and holds that in all these domains craftsmanship focuses on objective standards, on the thing itself. The contemplative versions of that focus are Zhuangzi's [quiet craftsman's life](https://clemvillatte.github.io/flourishing-compendium/#card=The%20quiet%20craftsman%27s%20life) — Qing's bell-stands look like the work of spirits because his fasting loses thought of reward by the third day, praise by the fifth, and his own body by the seventh — and Weil's [craft of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20craft%20of%20attention), attention as the trained suspension of one's own thought so the thing or person in front of one can appear.
 
-[The quiet craftsman’s life](https://clemvillatte.github.io/flourishing-compendium/#card=The%20quiet%20craftsman%27s%20life): the Zhuangzi ideal of skilled, quiet work away from display. Qing's bell-stands look like the work of spirits because his fasting loses thought of reward by the third day, praise by the fifth, and his own body by the seventh.
+## What outlasts the maker
 
-[The craft of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20craft%20of%20attention): Weil's attention as the trained suspension of one's own thought so the thing or person in front of one can appear.
+Erikson's generativity — the adult concern for guiding and providing for the next generation, set against stagnation — became a measurable research programme. [Generativity theory](https://clemvillatte.github.io/flourishing-compendium/#card=Generativity%20theory) records the arrangement:
 
-### Creating people and what outlasts you
+> "McAdams and de St. Aubin's approach described generativity as an arrangement of seven empirically grounded facets including desire, cultural demand, concern, belief, commitment, action, and narration ( McAdams & de St. Aubin, 1992 ; McAdams, Hart, & Maruna, 2004). Accordingly, cultural demand in combination with inner desire (for agentic immortality and communal nurturance) fosters a conscious concern for future generations. Concern for future generations is strengthened by a belief in the goodness of humankind." ([Rubinstein et al. 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4542587/))
 
-[Generativity theory](https://clemvillatte.github.io/flourishing-compendium/#card=Generativity%20theory): Erikson's generativity turned into a measurable research programme:
+[Legacy motivation research](https://clemvillatte.github.io/flourishing-compendium/#card=Legacy%20motivation%20research) picks the concern up as a motive measurable in the lab: Fox, Tost and Wade-Benzoni on the legacy motive as a link between life-meaning and prosocial motivation, developed from intergenerational decision making, generativity and terror management theory, and measured by what participants endorse across a list of ends beyond themselves.
 
-> "McAdams and de St. Aubin’s approach described generativity as an arrangement of seven empirically grounded facets including desire, cultural demand, concern, belief, commitment, action, and narration ( McAdams & de St. Aubin, 1992 ; McAdams, Hart, & Maruna, 2004). Accordingly, cultural demand in combination with inner desire (for agentic immortality and communal nurturance) fosters a conscious concern for future generations. Concern for future generations is strengthened by a belief in the goodness of humankind." ([Rubinstein et al. 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4542587/))
+The practices are concrete. [K224 — Legacy letter](https://clemvillatte.github.io/flourishing-compendium/#card=K224%20%E2%80%94%20Legacy%20letter) is the letter to be read after your death, to one named person, covering what you learned, what you love and what you left unfinished; the value is in the writing. [K225 — Service and creation](https://clemvillatte.github.io/flourishing-compendium/#card=K225%20%E2%80%94%20Service%20and%20creation) is the weekly kernel: one act of service or creation that outlasts the week, with the test of whether a trace of it will still exist next month.
 
-[Legacy motivation research](https://clemvillatte.github.io/flourishing-compendium/#card=Legacy%20motivation%20research): the same concern picked up as a motive measurable in the lab. Fox, Tost and Wade-Benzoni on the legacy motive as a link between life-meaning and prosocial motivation, developed from intergenerational decision making, generativity and terror management theory, and measured by what participants endorse across a list of ends beyond themselves.
+## Making as identity
 
-[K224 — Legacy letter](https://clemvillatte.github.io/flourishing-compendium/#card=K224%20%E2%80%94%20Legacy%20letter): the practice kernel: write a letter to be read after your death, to one named person, covering what you learned, what you love and what you left unfinished. The value is in the writing.
+Whether a person sees themselves as a maker is itself studied. [Creative identity](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20identity) is Beghetto's line of work on seeing oneself as someone who makes things, with what the 2006 study of two middle schools actually measured: creative self-efficacy, self-judgments of creative ability. [Creative self-efficacy](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20self-efficacy) is Tierney and Farmer's construct, extended from Bandura's self-efficacy to creative work: the belief that one can produce creative outcomes.
 
-[K225 — Service and creation](https://clemvillatte.github.io/flourishing-compendium/#card=K225%20%E2%80%94%20Service%20and%20creation): the weekly kernel: one act of service or creation that outlasts the week. Plant, help, make, teach, and apply the test of whether a trace of it will still exist next month.
+Nietzsche's [creative life](https://clemvillatte.github.io/flourishing-compendium/#card=The%20creative%20life) is a mode of existence rather than a career: one must still have chaos in oneself to give birth to a dancing star, and the spirit's three metamorphoses end in the child, "a new beginning, a game, a self-rolling wheel, a first movement, a holy Yea." ([Thus Spake Zarathustra, Common trans.](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)) Kant's [dignity of self-expression](https://clemvillatte.github.io/flourishing-compendium/#card=The%20dignity%20of%20self-expression) gives the identity its moral floor: saying what one needs and where one stands treats the speaker as an end, not a mere means; whatever has value can be replaced, and what is above value has dignity.
 
-### Creating as identity
+Maslow's [P114 — Create as growth — creation is the evidence of growth](https://clemvillatte.github.io/flourishing-compendium/#card=P114%20%E2%80%94%20Create%20as%20growth%20%E2%80%94%20creation%20is%20the%20evidence%20of%20growth) reads creativeness as an open, spontaneous way of approaching ordinary activities, with his own caution that producing something does not by itself prove psychological health. And Prigogine's [P149 — Use instability creatively](https://clemvillatte.github.io/flourishing-compendium/#card=P149%20%E2%80%94%20Use%20instability%20creatively) reads the unstable periods of a life as raw material: non-equilibrium as a source of order rather than decay, and reorganization as what instability can become.
 
-[Creative identity](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20identity): Beghetto's line of work on seeing oneself as someone who makes things, with what the 2006 study of two middle schools actually measured: creative self-efficacy, self-judgments of creative ability.
+## Where the traditions genuinely disagree
 
-[Creative self-efficacy](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20self-efficacy): Tierney and Farmer's construct, extended from Bandura's self-efficacy to creative work: the belief that one can produce creative outcomes.
-
-[The creative life](https://clemvillatte.github.io/flourishing-compendium/#card=The%20creative%20life): Nietzsche's creative life as a mode of existence rather than a career. One must still have chaos in oneself to give birth to a dancing star, and the spirit's three metamorphoses end in the child, "a new beginning, a game, a self-rolling wheel, a first movement, a holy Yea." ([Thus Spake Zarathustra, Common trans.](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm))
-
-[The dignity of self-expression](https://clemvillatte.github.io/flourishing-compendium/#card=The%20dignity%20of%20self-expression): Kant's application to speech: saying what one needs and where one stands treats the speaker as an end, not a mere means. Whatever has value can be replaced; what is above value has dignity.
-
-[P114 — Create as growth — creation is the evidence of growth](https://clemvillatte.github.io/flourishing-compendium/#card=P114%20%E2%80%94%20Create%20as%20growth%20%E2%80%94%20creation%20is%20the%20evidence%20of%20growth): Maslow's creativeness of self-actualizing people, an open, spontaneous way of approaching ordinary activities, with his own caution that producing something does not by itself prove psychological health.
-
-[P149 — Use instability creatively](https://clemvillatte.github.io/flourishing-compendium/#card=P149%20%E2%80%94%20Use%20instability%20creatively): Prigogine's non-equilibrium as a source of order rather than decay, with unstable periods of a life as the raw material for reorganization.
-
-## Is the meaning of making discovered or created?
+### Is the meaning of making discovered or created?
 
 A tension runs through the sources: when a maker finds meaning in the making, is the meaning there to be found, or does the maker put it there?
 
@@ -131,23 +105,23 @@ Nietzsche says created. The significance of things is human, assigned, and nothi
 
 These accounts give making different roles: responding to a meaning already in the world for Frankl, assigning value for Nietzsche. What the two sources leave unresolved is whether they are incompatible accounts of the same meaning or different aspects of one act of making, the usefulness of a made thing being there to be found while its worth is conferred.
 
-## Where the meaning of making lands
+### Where does the meaning of making land?
 
-When a person makes something, where does the meaning land?
+When a person makes something, the sources put the meaning in three different places, and they do not rank them.
 
 On the work and the ones who receive it: Frankl's creative values route puts the meaning in what the work gives, and the generativity researchers put the adult's concern in guiding and contributing to the welfare of the next generation. The legacy researchers ask people to weigh ends that reach beyond their own lifetime.
 
-On the maker: Bergson's joy passage:
+On the maker: Bergson's joy passages:
 
 > "Pleasure is only a contrivance devised by nature to obtain for the creature the preservation of its life, it does not indicate the direction in which life is thrusting. But joy always announces that life has succeeded, gained ground, conquered." ([Bergson, "Life and Consciousness"](https://www.anthologialitt.com/post/henri-bergson-life-and-consciousness))
 
 > "wherever there is joy, there is creation; the richer the creation, the deeper the joy. The mother beholding her child is joyous, because she is conscious of having created it, physically and morally." ([Bergson, "Life and Consciousness"](https://www.anthologialitt.com/post/henri-bergson-life-and-consciousness))
 
-The diary study found a lagged association: days with more reported creative activity than usual were followed by higher activated positive affect and flourishing. The reverse association was not supported. The observational design does not establish causation. And on Bergson's account the making changes the maker: "we are, to a certain extent, what we do, and that we are creating ourselves continually."
+The diary study found a lagged association: days with more reported creative activity than usual were followed by higher activated positive affect and flourishing, the reverse was not supported, and the observational design does not establish causation. And on Bergson's account the making changes the maker: "we are, to a certain extent, what we do, and that we are creating ourselves continually."
 
 On the work itself: Sennett's craftsman wants to do a job well for its own sake, with objective standards, on the thing itself. Zhuangzi's bell-stand maker loses thought of reward and praise before he touches the tree. Arendt's homo faber erects a world and asks whether the machines still serve it.
 
-The three emphases are not exclusive, and the sources do not rank them. Can these aims conflict, and what should take priority if they do?
+Can these aims conflict, and what should take priority if they do? The passages quoted here do not settle it.
 
 ## Practice: variation, selection, retention
 
