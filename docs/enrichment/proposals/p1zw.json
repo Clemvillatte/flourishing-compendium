@@ -2,9 +2,26 @@
  "batch": "p1zw",
  "agent": "worker-pplx-92251348",
  "reciprocal": [
-  {"into": "K017", "link": "Absolute nothingness", "why": "the Kyoto School's own name for the ground of emptiness this practice rests on"},
-  {"into": "K017", "link": "Pure experience", "why": "Nishida's earlier account of experience before the subject-object split"},
-  {"into": "K017", "link": "Non-attachment", "why": "the unattached half of the practice this page pairs with full engagement"}
+  {
+   "into": "K017",
+   "link": "Absolute nothingness",
+   "why": "the Kyoto School's own name for the ground of emptiness this practice rests on"
+  },
+  {
+   "into": "K017",
+   "link": "Pure experience",
+   "why": "Nishida's earlier account of experience before the subject-object split"
+  },
+  {
+   "into": "K017",
+   "link": "Non-attachment",
+   "why": "the unattached half of the practice this page pairs with full engagement"
+  },
+  {
+   "into": "K054",
+   "link": "Bodhicitta",
+   "why": "the vow this principle turns into a daily frame"
+  }
  ],
  "inline": [],
  "notes": "Tier-2 plain-words repair pass (K017 K054 K055 K067). Records proposed per PROTOCOL-PRINCIPLES step 6 after mention-sweep of Kyoto School / Nishida / emptiness terms; concepts opened and read on the corpus."
