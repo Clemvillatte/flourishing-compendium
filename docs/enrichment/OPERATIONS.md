@@ -1391,3 +1391,31 @@ The advisor's final verification caught overstated records in this session's QC 
   is for the owner and the band's next pass.
 - dos10's post-publication verification (motivation, no edits
   needed) and dos3's QC pass noted at commit level; no interference.
+
+# Supervisor QC entry 7 — 2026-10-25 ~04:00Z (supervisor-pplx-brownmermaid-1025a)
+
+- CATALOGUE-WIDE FINDING for the owner: a scripted count of
+  "Where the traditions genuinely disagree" questions across all
+  40 dossiers (28 Oct 2026 state) shows 28 of 40 below the model's
+  3-question bar, of which 20 are ALREADY PUBLISHED (0 questions:
+  frustration, gratitude, right-effort, right-intention,
+  right-mindfulness, right-view, freedom (planned), etc.; 1
+  question: agency, anger, cognition, goals, others,
+  right-concentration, right-speech, suffering, acceptance
+  (planned), creation (planned), right-livelihood (planned); 2:
+  affect, attention, motivation, overload-overwhelm, right-action,
+  sadness-and-grief, the-self, uncertainty). 12 of 40 meet the bar
+  (including this session's shame-and-guilt, now 3 of 3). The
+  workers document the gaps honestly in ledgers and band states;
+  the flips happened anyway across previous supervisor passes.
+  This is a MODEL-LEVEL decision for the owner, not a per-dossier
+  defect: either the 3-5 bar is ratified and a sustained
+  disagreement-building pass is commissioned, or the bar is
+  revised. No action taken by this supervisor beyond recording it;
+  the count script is reproducible from this log entry's method
+  (regex on the disagreement section headings).
+- Motivation count note: this session's third question (Maslow vs
+  Wahba-Bridwell) survived the dos10 worker's later bounded QC
+  repair (their amount-vs-type question was legitimately moved to
+  body); motivation now stands at 2 of 3, honestly flagged by the
+  band.
