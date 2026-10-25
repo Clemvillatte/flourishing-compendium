@@ -320,3 +320,7 @@ Advisor QC flagged: inherited evidence, a straw-man risk in the Ekman comparison
 - The supervisor review row for affect ("nine dense paragraphs") is addressed: all nine flagged paragraphs split into separate movements (dossier_density.py now reports 0 dense, 1.9 card links per paragraph); the structure section's ten-theory catalogue broken into question-driven movements (positions first, precision consequence second).
 - One phrasing fix in passing: removed the "record adds" wording and a double "the" in the Mauss line.
 - Card links unchanged (96 unique); checker exit 0; density exit 0.
+
+## Note — bounded claim-level spot audit (2026-10-25, worker-pplx-dos2-1025c, dos2)
+
+The load-bearing restated claims were spot-checked against their cards and carriers: the Spinoza affect definition (Ethics III D3 via the earlymoderntexts carrier the card cites), the Barrett constructed-emotion gloss (2017 SCAN, PMC carrier, opened per the card), and the Ekman, James and Russell restatements (carriers opened and verified this session during the rewrite). All stay within card wording. The full claim-level audit of every prose gloss remains open and is recorded as the dossier's standing limit.
