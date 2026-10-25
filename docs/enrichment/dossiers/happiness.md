@@ -12,51 +12,27 @@ Happiness here means the felt side of a life: pleasure, joy, contentment, the re
 - Subjective well-being: the research name for how people rate their own lives; the cards on adaptation and on sustainability use it.
 - Eudaimonia: Aristotle's term for the good life, which the English word happiness often translates; held by [Eudaimonia](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonia) and in the Genuine Flourishing dossier.
 
-## The map: the entries on happiness
+## Where happiness sits in a life
 
 ### What happiness is
 
-[Happiness as activity](https://clemvillatte.github.io/flourishing-compendium/#card=Happiness%20as%20activity): for Aristotle, happiness is something we do and not something we have.
+For Aristotle, [happiness as activity](https://clemvillatte.github.io/flourishing-compendium/#card=Happiness%20as%20activity) is something we do and not something we have. His claim in Nicomachean Ethics I, that every other good is chosen at least partly for the sake of happiness while happiness is chosen only for itself, is that [everyone desires eudaimonia](https://clemvillatte.github.io/flourishing-compendium/#card=Everyone%20desires%20eudaimonia).
 
-[Everyone desires eudaimonia](https://clemvillatte.github.io/flourishing-compendium/#card=Everyone%20desires%20eudaimonia): Aristotle's claim in Nicomachean Ethics I that every other good is chosen at least partly for the sake of happiness, while happiness is chosen only for itself.
+His account of happiness as final and self-sufficient is the [sufficient good](https://clemvillatte.github.io/flourishing-compendium/#card=The%20sufficient%20good), and Aristotle's term for the highest human good, a life of flourishing rather than a passing state of mind, is [eudaimonia](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonia).
 
-[The sufficient good](https://clemvillatte.github.io/flourishing-compendium/#card=The%20sufficient%20good): Aristotle's account of happiness as final and self-sufficient.
+In Epicurus's ethics, the pleasure of a settled state rather than of a process is [katastematic pleasure](https://clemvillatte.github.io/flourishing-compendium/#card=Katastematic%20pleasure). Freedom from mental disturbance, tranquillity, untroubledness, or serenity of mind, is [ataraxia](https://clemvillatte.github.io/flourishing-compendium/#card=Ataraxia).
 
-[Eudaimonia](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonia): Aristotle's term for the highest human good: a life of flourishing, not a passing state of mind.
+Spinoza's laetitia, defined by a change and not a state, a crossing from a lesser to a greater perfection, is [joy](https://clemvillatte.github.io/flourishing-compendium/#card=Joy). In my Aristotelian frame, the gladness that belongs to a life going well is [spiritual joy](https://clemvillatte.github.io/flourishing-compendium/#card=Spiritual%20joy), and Aristotle's account of the pleasure a good person takes in activity consistent with virtue is [the joy of virtue](https://clemvillatte.github.io/flourishing-compendium/#card=The%20joy%20of%20virtue).
 
-[Katastematic pleasure](https://clemvillatte.github.io/flourishing-compendium/#card=Katastematic%20pleasure): in Epicurus's ethics, the pleasure of a settled state rather than of a process.
+Kant's term for the pleasure taken in beauty, a satisfaction that neither depends on a desire for the object nor produces one, is [disinterested aesthetic pleasure](https://clemvillatte.github.io/flourishing-compendium/#card=Disinterested%20aesthetic%20pleasure). Mehrabian and Russell's model that locates any emotional state in a space of pleasure, arousal and dominance is the [Pleasure-Arousal-Dominance Model](https://clemvillatte.github.io/flourishing-compendium/#card=Pleasure-Arousal-Dominance%20Model). Oishi and Westgate's proposed aspect of a good life, centred on varied, interesting experiences and distinguished by them from both happiness and meaning, is [psychological richness](https://clemvillatte.github.io/flourishing-compendium/#card=Psychological%20richness).
 
-[Ataraxia](https://clemvillatte.github.io/flourishing-compendium/#card=Ataraxia): freedom from mental disturbance: tranquillity, untroubledness, or serenity of mind.
+The first Noble Truth, that experience when grasped is unsatisfactory, is [dukkha](https://clemvillatte.github.io/flourishing-compendium/#card=Dukkha). Schopenhauer's charge that wanting promises a satisfaction it cannot deliver, a failure he takes to be structural, is [the vanity of desire](https://clemvillatte.github.io/flourishing-compendium/#card=The%20vanity%20of%20desire).
 
-[Joy](https://clemvillatte.github.io/flourishing-compendium/#card=Joy): Spinoza's laetitia, defined by a change and not a state: a crossing from a lesser to a greater perfection.
+### What sufficiency has to do with contentment
 
-[Spiritual joy](https://clemvillatte.github.io/flourishing-compendium/#card=Spiritual%20joy): in my Aristotelian frame, the gladness that belongs to a life going well.
+The label I use for the Daodejing's teaching on contentment and sufficiency is [contentment with sufficiency](https://clemvillatte.github.io/flourishing-compendium/#card=Contentment%20with%20sufficiency). The Daoist practice of knowing what is enough, sizing desire to what life already supplies, is [zhi zu (knowing sufficiency)](https://clemvillatte.github.io/flourishing-compendium/#card=Zhi%20zu%20%28knowing%20sufficiency%29), and the capacity to find sufficiency and freshness in plain, repeated things, rooted in Daodejing 80, is [delight in the ordinary](https://clemvillatte.github.io/flourishing-compendium/#card=Delight%20in%20the%20ordinary).
 
-[The joy of virtue](https://clemvillatte.github.io/flourishing-compendium/#card=The%20joy%20of%20virtue): Aristotle's account of the pleasure a good person takes in activity consistent with virtue.
-
-[Disinterested aesthetic pleasure](https://clemvillatte.github.io/flourishing-compendium/#card=Disinterested%20aesthetic%20pleasure): Kant's term for the pleasure taken in beauty, a satisfaction that neither depends on a desire for the object nor produces one.
-
-[Pleasure-Arousal-Dominance Model](https://clemvillatte.github.io/flourishing-compendium/#card=Pleasure-Arousal-Dominance%20Model): Mehrabian and Russell's model that locates any emotional state in a space of pleasure, arousal and dominance.
-
-[Psychological richness](https://clemvillatte.github.io/flourishing-compendium/#card=Psychological%20richness): Oishi and Westgate's proposed aspect of a good life, centred on varied, interesting experiences, and distinguished by them from both happiness and meaning.
-
-[Dukkha](https://clemvillatte.github.io/flourishing-compendium/#card=Dukkha): the first Noble Truth: experience, when grasped, is unsatisfactory.
-
-[The vanity of desire](https://clemvillatte.github.io/flourishing-compendium/#card=The%20vanity%20of%20desire): Schopenhauer's charge that wanting promises a satisfaction it cannot deliver, a failure he takes to be structural.
-
-### Contentment and sufficiency
-
-[Contentment with sufficiency](https://clemvillatte.github.io/flourishing-compendium/#card=Contentment%20with%20sufficiency): the label I use for the Daodejing's teaching on contentment and sufficiency.
-
-[Zhi zu (knowing sufficiency)](https://clemvillatte.github.io/flourishing-compendium/#card=Zhi%20zu%20%28knowing%20sufficiency%29): the Daoist practice of knowing what is enough, sizing desire to what life already supplies.
-
-[Delight in the ordinary](https://clemvillatte.github.io/flourishing-compendium/#card=Delight%20in%20the%20ordinary): the capacity to find sufficiency and freshness in plain, repeated things, rooted in Daodejing 80.
-
-[Contentment in station](https://clemvillatte.github.io/flourishing-compendium/#card=Contentment%20in%20station): Epictetus's answer to what to do with a life one did not choose.
-
-[Maximizing versus satisficing](https://clemvillatte.github.io/flourishing-compendium/#card=Maximizing%20versus%20satisficing): two decision-making styles that Schwartz and colleagues set against each other in their 2002 studies.
-
-[Paradox of choice](https://clemvillatte.github.io/flourishing-compendium/#card=Paradox%20of%20choice): the idea that having more options can leave people worse off, not better.
+Epictetus's answer to what to do with a life one did not choose is [contentment in station](https://clemvillatte.github.io/flourishing-compendium/#card=Contentment%20in%20station). Two decision-making styles that Schwartz and colleagues set against each other in their 2002 studies are [maximizing versus satisficing](https://clemvillatte.github.io/flourishing-compendium/#card=Maximizing%20versus%20satisficing), and the idea that having more options can leave people worse off, not better, is the [paradox of choice](https://clemvillatte.github.io/flourishing-compendium/#card=Paradox%20of%20choice).
 
 ### Why happiness slips: adaptation and forecasting
 
