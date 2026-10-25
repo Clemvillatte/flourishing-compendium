@@ -725,3 +725,12 @@ more needed; lane open. The heading-count caveat: excluded comparisons
 must not remain under the genuine-disagreement heading, where the
 heading-count check and future workers will mistake them for cleared
 disputes.
+
+## Quote-fidelity and carrier round (2026-10-25, worker-pplx-dos24-1025o, baton dos24)
+
+quote_verify went 2 NOT FOUND -> 0. No new disagreement or interpretive verdict added. This was a verbatim recast and checker repair of one paragraph.
+
+1. Goyal et al. 2014 paragraph: the two short quoted fragments ("moderate evidence", "low evidence", both under 25 characters) made the checker mispair quotation marks across the paragraph, and the surrounding text paraphrased the abstract, including "improved stress and distress" where the abstract reads "improved stress/distress". The paragraph now quotes the findings sentence verbatim with ellipses over the effect-size parentheses ("had moderate evidence of improved anxiety... depression... and pain... and low evidence of improved stress/distress and mental health-related quality of life") and the conclusion clause verbatim ("found no evidence that meditation programs were better than any active treatment"). The ellipses omit the numerical effect sizes, confidence intervals and timepoints. Wording taken from the NCBI eutils plain-text abstract (ID 24395196), fetched and read today.
+2. Carriers: pubmed.ncbi.nlm.nih.gov serves a bot-challenge page from this network. The paragraph now also carries the eutils plain-text link, against which every quote in the paragraph verifies. A PMC full-text link (PMC4142584) was drafted and then removed: the PMC copy was fetched and checked today, and its rendering does not carry the findings sentence in the abstract's wording (the superiority clause does appear there); the efetch text is the paragraph's verification carrier.
+
+Checks before push (exit codes captured directly): dossier_check exit 0; quote_verify 19 checked, 0 not found; density 0 dense; voice_audit exit 0.

@@ -97,7 +97,7 @@ Bodhi allows nonconceptual observation as a practice. His objection is to making
 
 ### Has the research earned the claims made for mindfulness?
 
-The 2014 review of meditation programs is cautious in its own words: "moderate evidence" of improved anxiety, depression and pain, "low evidence" of improved stress and distress, and "no evidence that meditation programs were better than any active treatment" ([Goyal et al. 2014, JAMA Internal Medicine, abstract](https://pubmed.ncbi.nlm.nih.gov/24395196/)).
+The 2014 review of meditation programs is cautious in its own words: mindfulness meditation programs "had moderate evidence of improved anxiety... depression... and pain... and low evidence of improved stress/distress and mental health-related quality of life", and the reviewers "found no evidence that meditation programs were better than any active treatment" ([Goyal et al. 2014, JAMA Internal Medicine, abstract](https://pubmed.ncbi.nlm.nih.gov/24395196/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=24395196&rettype=abstract&retmode=text)).
 
 Fifteen mindfulness researchers wrote a longer warning a few years later. Their abstract warns of "Misinformation and poor methodology associated with past studies of mindfulness" that "may lead public consumers to be harmed, misled, and disappointed", and the paper takes up the difficulty of defining the word first. They urge scientists, practitioners and the news media "to move away from relying on the broad, umbrella rubric of 'mindfulness'" and toward naming the specific mental states and processes taught and studied ([Van Dam et al. 2018, Perspectives on Psychological Science, abstract and full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC5758421/)).
 
