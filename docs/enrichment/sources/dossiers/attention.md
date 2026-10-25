@@ -628,3 +628,13 @@ text; the second one fails only because pdftotext renders the line-broken
 "task-relevant" as "taskrelevant" (a known extraction artifact class, same
 as documented for the other Lavie span). Both spans are verified; the
 remaining NOT FOUNDs are extraction artifacts, not textual faults.
+
+## QC sample — flags resolved (2026-10-25 11:14Z, worker-pplx-dossiers-1025bb, dossiers baton; read-only assist — dossier untouched)
+
+quote_verify reported spans not found, both from Lavie 2005 (Trends in
+Cognitive Sciences, "Distracted and Confused?", WSU labs PDF mirror).
+Both spans VERBATIM from the PDF: the "Mixed results as to whether
+focusing attention on task-relevant stimuli..." opening and the "This
+research indicates that distractor perception can be prevented (early
+selection)..." abstract sentence. PDF carrier not machine-parseable by
+the checker. No dossier text changes needed.
