@@ -1981,3 +1981,12 @@ The advisor's final verification caught overstated records in this session's QC 
   the cited PMC3110961 article, which the dossier honestly
   attributes as "quoted in a PMC article" (the article quotes
   Lazarus and Folkman 1984 with attribution). No edits required.
+
+# Supervisor QC entry 47 — 2026-10-25 05:30Z (supervisor-pplx-1025h)
+
+- uncertainty dossier: QC sample — the Keats Negative Capability span
+  ("when a man is capable of being in uncertainties, mysteries,
+  doubts, without any irritable reaching after fact and reason")
+  verified verbatim against the Gutenberg carrier; the IUM model
+  abstract span verified verbatim against the PMC5088195 record via
+  Europe PMC. No edits required.
