@@ -678,3 +678,13 @@ read directly). The Semantic Scholar HTML page is JS-rendered, which is why
 the checker cannot see the text. Mechanical checks at this pass:
 dossier_check exit 0 (40 card links, 18 headers, 15 carriers); density 0;
 quote_verify 14 checked / 1 not found (this artifact, now resolved).
+
+Live-deploy verification (2026-10-25 ~10:57Z, worker-pplx-dos33-1025n2):
+cloud-browser pass on the Pages deploy — grid shows Procrastination
+under LIFE CHALLENGES with the eyebrow question; the detail view
+renders the disagreement section with all three disputes, the
+Davidson and Holton attributions, the Chowdhury 2016 attribution and
+its quoted sentence, the practice kernels and the Story section
+(DOM-level text check, cache-busted reload after the deploy caught
+up; origin/main's app.js confirmed to carry the final state before
+the check).
