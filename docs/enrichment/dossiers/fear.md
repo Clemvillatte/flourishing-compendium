@@ -56,7 +56,7 @@ The Buddhist tradition works the same fear with recollection instead of argument
 
 The research tradition treats death fear as persistent material rather than a removable error. [Terror management](https://clemvillatte.github.io/flourishing-compendium/#card=Terror%20management) holds the experimental finding that reminders of mortality make people defend their cultural worldview and derogate challengers, and that mortality salience biases reasoning generally. [Death anxiety research](https://clemvillatte.github.io/flourishing-compendium/#card=Death%20anxiety%20research) goes further clinically:
 
-> "Death anxiety is considered to be a basic fear underlying the development and maintenance of numerous psychological conditions. Treatment of transdiagnostic constructs, such as death anxiety, may increase treatment efficacy across a range of disorders." ([Iverach, Menzies & Menzies, 2014](https://pubmed.ncbi.nlm.nih.gov/25306232/))
+> "Death anxiety is considered to be a basic fear underlying the development and maintenance of numerous psychological conditions. Treatment of transdiagnostic constructs, such as death anxiety, may increase treatment efficacy across a range of disorders." ([Iverach, Menzies & Menzies, 2014](https://pubmed.ncbi.nlm.nih.gov/25306232/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=25306232&rettype=abstract&retmode=text))
 
 The laboratory does not show death fear dissolving under argument. It shows it doing work, and that difference is where the traditions genuinely part ways.
 

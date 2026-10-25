@@ -14999,7 +14999,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Death anxiety is considered to be a basic fear underlying the development and maintenance of numerous psychological conditions. Treatment of transdiagnostic constructs, such as death anxiety, may increase treatment efficacy across a range of disorders.\" ([Iverach, Menzies & Menzies, 2014](https://pubmed.ncbi.nlm.nih.gov/25306232/))",
+          "x": "\"Death anxiety is considered to be a basic fear underlying the development and maintenance of numerous psychological conditions. Treatment of transdiagnostic constructs, such as death anxiety, may increase treatment efficacy across a range of disorders.\" ([Iverach, Menzies & Menzies, 2014](https://pubmed.ncbi.nlm.nih.gov/25306232/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=25306232&rettype=abstract&retmode=text))",
           "s": null
         },
         {
