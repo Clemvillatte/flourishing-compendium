@@ -33,6 +33,7 @@ Suppose you offer to help a friend move without checking when they need you or w
 
 - [[T011 — Socrates]]: the Crito story (ST141) the page lists: the examined life refusing the easy exit.
 - [[T052 — MacIntyre, Alasdair]]: the tradition-as-lived-practice account of the good that the page's story link carries.
+- [[T012 — Laozi]]: the Daodejing 25 chain of models the page's principle statement is drawn from.
 
 ## Sources
 
