@@ -12,9 +12,9 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 13** — Cultivate accurate self-knowledge: know your traits, values, and patterns
 
-Accurate self-knowledge needs the views of others. Vazire's model of self-other knowledge asymmetry predicts that the self is more accurate for traits low in observability, such as neuroticism, and others are more accurate for highly evaluative traits, such as intellect. In a study of 165 participants rated by four friends and up to four strangers, the self was the best judge of neuroticism-related traits, friends were the best judges of intellect-related traits, and all perspectives were equally good for extraversion-related traits ([Vazire 2010, PubMed](https://pubmed.ncbi.nlm.nih.gov/20085401/)). An earlier study found that close others were as accurate as the self in predicting daily behaviour measured over four days, and concluded that "there is no single perspective from which a person is known best" ([Vazire and Mehl 2008](https://oamonitor.ireland.openaire.eu/national/search/publication?pid=10.1037/a0013314)).
+Vazire's model predicts the self is more accurate for traits low in observability, such as neuroticism, and others for evaluative traits, such as intellect. In a study of 165 participants rated by friends and strangers, the self judged neuroticism-related traits best, friends judged intellect-related traits best, with extraversion-related traits judged equally from every angle ([Vazire 2010, PubMed](https://pubmed.ncbi.nlm.nih.gov/20085401/)). An earlier study found close others as accurate as the self in predicting daily behaviour over four days, concluding "there is no single perspective from which a person is known best" ([Vazire and Mehl 2008](https://oamonitor.ireland.openaire.eu/national/search/publication?pid=10.1037/a0013314)).
 
-Vazire and Carlson describe the model's proposed asymmetry:
+Vazire and Carlson describe the asymmetry:
 
 > "Specifically, Vazire (2010) proposed that the self has better information than others do for judging internal traits—traits defined primarily by thoughts and feelings, such as being anxious or optimistic—but that others have better information than the self for judging external traits—traits defined primarily by overt behavior, such as being boisterous or charming."
 
@@ -24,10 +24,10 @@ Introspection has limits too. Eurich describes internal self-awareness, which is
 
 ### Scope
 
-The Eurich findings come from an interview, not an opened paper. The original entry's link between accurate self-assessment and wellbeing or better decisions (Sedikides 2004) was not checked against an source. Vazire's samples are personality-rating studies, not studies of decision quality.
+The Eurich findings come from an interview, not a paper. The original link between accurate self-assessment and wellbeing or decisions (Sedikides 2004) was not checked against a source. Vazire's samples are personality-rating studies, not decision-quality studies.
 
 **Plain words**
-Split what a person is into two piles. One pile is what happens inside them, the worries and hopes nobody else can watch; you hold the only key to that. The other pile is what the world sees, the charm or the noise you make in a room; on that, the room votes, and the room is right more often than you are. Nobody has the whole file, so the honest move is to collect both.
+Split a person into two piles. One pile is what happens inside, the worries and hopes nobody else can watch; you alone hold that key. The other pile is what the world sees, the charm or the noise you make in a room; on that the room votes, and it is right more often than you are. Nobody has the whole file, so collect both.
 
 **For example**
 Pick one trait you have rated yourself on and ask two close friends to rate it independently. Compare the answers.
