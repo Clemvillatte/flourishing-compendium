@@ -8,34 +8,36 @@ tags: ["affect-science", "topic/emotion"]
 discipline: "Affect Science"
 ---
 
-Lisa Feldman Barrett is the psychologist who made the case that emotions are constructed rather than discovered. Her research program overturned the classical view of emotions as universal modules with fixed bodily and brain signatures, replacing it with a constructionist account: your brain builds instances of emotion on the spot from core affect, [[Interoception|interoceptive]] signals and learned [[Conceptual repertoire|concepts]].
+Lisa Feldman Barrett is a psychologist whose research program argued, against the classical view of emotions, that instances of emotion are constructed rather than discovered. On her account the brain builds each instance from core affect, [[Interoception|interoceptive]] signals and learned [[Theory of constructed emotion|concepts]] — feelings arrive as concepts applied to a body's state, not as pre-packaged modules.
 
 ## Their why
 
-Barrett began in clinical psychology and trained to find the fingerprint — a distinct signature for each emotion category. Her data kept refusing. That failure became the program: she turned from treating emotion to studying what emotions actually are, and the result was a theory in which feelings are made, not delivered ([Northeastern University News](https://news.northeastern.edu/2012/09/05/professor-recognized-for-changing-the-field-of-affective-neuroscience/); [Wikipedia, Lisa Feldman Barrett](https://en.wikipedia.org/wiki/Lisa_Feldman_Barrett)).
+Barrett began in clinical psychology, trained to find the fingerprint — a distinct bodily or brain signature for each emotion category — and her data kept refusing to show one. That failure became the program: she turned from treating emotion to studying what emotions actually are ([Northeastern University News](https://news.northeastern.edu/2012/09/05/professor-recognized-for-changing-the-field-of-affective-neuroscience/); [Wikipedia, Lisa Feldman Barrett](https://en.wikipedia.org/wiki/Lisa_Feldman_Barrett)).
 
 ## Their position
 
-The classical view treats emotion as something that happens to you; Barrett's account treats it as something your brain does. The practical lever moves with the theory: from "control the feeling" to cultivating the faculties that build feelings — [[Emotion differentiation|granularity]], [[Affect (core feeling)|affect literacy]] and [[Interoception|interoceptive accuracy]].
+The classical view treats emotion as something that happens to you; Barrett's account treats it as something your brain does. Her definition of the substrate, verbatim from the scholarly statement:
 
-Her theory, verbatim, from the scholarly statement:
+> "The answer is a brain-based, computational account called the theory of constructed emotion." (Barrett, "The theory of constructed emotion: an active inference account of interoception and categorization," *Social Cognitive and Affective Neuroscience* 12(1), 2017, [PMC5390700](https://pmc.ncbi.nlm.nih.gov/articles/PMC5390700/) — abstract opened; full text cited at second hand beyond the abstract.)
 
-> "The theory of constructed emotion (TCE) hypothesizes that the brain constructs instances of emotion by combining [[Interoception|interoceptive]] sensations with sensory input from the world in a way that is guided by prior experience and shaped by [[Conceptual repertoire|concepts]]" (Barrett, "The theory of constructed emotion: an active inference account of interoception and categorization," *Social Cognitive and Affective Neuroscience* 12(1), 2017, [PMC5390700](https://pmc.ncbi.nlm.nih.gov/articles/PMC5390700/)).
+And the popular statement of the same substrate, verbatim from the opened text:
 
-And the moral she draws from it:
+> "Affect is the general sense of feeling that you experience throughout each day. It is not emotion but a much simpler feeling with two features." (Barrett, *How Emotions Are Made*, 2017, ch. 4; [text copy](https://web.stanford.edu/class/cs379c/resources/inverted/content/Books_and_Journal_Articles_on_Consciousness/How_Emotions_are_Made_by_Lisa_Feldman_Barrett/How_Emotions_are_Made_by_Lisa_Feldman_Barrett.txt) — opened directly and verified.)
 
-> "Affect is your brain's best guess about the state of your body budget" (Barrett, *How Emotions Are Made*, 2017, ch. 4; [text copy](https://web.stanford.edu/class/cs379c/resources/inverted/content/Books_and_Journal_Articles_on_Consciousness/How_Emotions_are_Made_by_Lisa_Feldman_Barrett/How_Emotions_are_Made_by_Lisa_Feldman_Barrett.txt)).
+Her practical corollary, same source:
+
+> "Affect is your brain's best guess about the state of your body budget." (Barrett, *How Emotions Are Made*, 2017, ch. 4; same text copy, opened.)
 
 ## Core ideas
 
-- **Constructed emotion** — instances built from affect + interoception + concepts, not delivered as universal modules. See [[Theory of constructed emotion]], [[AF009 — Understand that affect is constructed, not discovered|Understand that affect is constructed, not discovered]].
-- **Affect as body budget** — the background feeling is the brain's running account of the body's resources. See [[Affect (core feeling)]], [[AF003 — Learn the structure of your affect — valence and arousal|Learn the structure of your affect: valence and arousal]].
-- **Emotional granularity** — making fine distinctions among your own feelings is a trainable skill, not a fixed trait. See [[Emotional granularity]], [[AF004 — Cultivate emotional granularity — name feelings precisely|Cultivate emotional granularity: name feelings precisely]].
-- **Interoception as raw material** — reading the body's signals feeds the construction; accuracy here pays downstream. See [[Interoception]], [[AF005 — Learn to read your own body — interoception|Learn to read your own body: interoception]].
+- **Constructed emotion** — the theory of constructed emotion: instances built from affect + interoception + concepts rather than delivered as universal modules. See [[Theory of constructed emotion]], [[AF009 — Understand that affect is constructed, not discovered|Understand that affect is constructed, not discovered]].
+- **Affect as body budget** — the background feeling is the brain's running account of the body's resources. See [[Affect as information]], [[AF003 — Learn the structure of your affect — valence and arousal|Learn the structure of your affect: valence and arousal]].
+- **Emotional granularity** — making fine distinctions among your own feelings; her lab tied it to self-regulation and coping. See [[Emotional granularity]], [[AF004 — Cultivate emotional granularity — name feelings precisely|Cultivate emotional granularity: name feelings precisely]].
+- **Interoception as raw material** — reading the body's signals is the input stream the constructionist account depends on. See [[Interoception]], [[AF005 — Learn to read your own body — interoception|Learn to read your own body: interoception]].
 
-## Everything connected here
+## Everything connected in the wiki
 
-Kept to the pages that substantively carry or apply Barrett's work: affect science, interoception, constructed emotion and emotional granularity.
+Generated by `scripts/thinker_links.py -t "Lisa Feldman Barrett" --aliases "Barrett,Lisa Feldman"`.
 
 ### Principles (17)
 - [[AF003 — Learn the structure of your affect — valence and arousal|Learn the structure of your affect: valence and arousal]]
@@ -43,18 +45,18 @@ Kept to the pages that substantively carry or apply Barrett's work: affect scien
 - [[AF005 — Learn to read your own body — interoception|Learn to read your own body: interoception]]
 - [[AF009 — Understand that affect is constructed, not discovered|Understand that affect is constructed, not discovered]]
 - [[B056 — Note lightly (noting)|Note lightly (noting)]]
-- [[B067 — Cool the reactivity of grief|Cool the reactivity of grief]]
-- [[B078 — Meet aversion gently|Meet aversion gently]]
-- [[B120 — Use naming to change the relationship|Use naming to change the relationship]]
-- [[BI009 — Track the body's budget of energy and sleep|Track the body's budget of energy and sleep]]
-- [[BI053 — Notice affect before it becomes emotion|Notice affect before it becomes emotion]]
-- [[BI055 — Use interoceptive exposure|Use interoceptive exposure]]
-- [[CO001 — Construct emotions deliberately|Construct emotions deliberately]]
-- [[CO078 — Challenge emotional essentialism|Challenge emotional essentialism]]
-- [[D150 — Reduce valence pressure in the body|Reduce valence pressure in the body]]
-- [[SE006 — Read the body before acting on a feeling|Read the body before acting on a feeling]]
-- [[SP002 — Notice the feeling behind the avoidance|Notice the feeling behind the avoidance]]
-- [[Y001 — Welcome unpleasant affect|Welcome unpleasant affect]]
+- [[B067 — Notice feeling tone first (vedana)|Notice feeling tone first (vedana)]]
+- [[B078 — Name the poison on contact|Name the poison on contact]]
+- [[B120 — Experience is five streams (the aggregates)|Experience is five streams (the aggregates)]]
+- [[BI009 — Understand that interoception is the foundation of emotional awareness|Understand that interoception is the foundation of emotional awareness]]
+- [[BI053 — Cultivate interoceptive awareness — notice internal signals|Cultivate interoceptive awareness: notice internal signals]]
+- [[BI055 — Learn to notice body signals — hunger, fatigue, tension, emotion|Learn to notice body signals: hunger, fatigue, tension, emotion]]
+- [[CO001 — Understand that cognition is predictive, not passive|Understand that cognition is predictive, not passive]]
+- [[CO078 — Understand the role of language in thinking — words shape thought|Understand the role of language in thinking: words shape thought]]
+- [[D150 — Balance the emotions to protect the body|Balance the emotions to protect the body]]
+- [[SE006 — Know that the self is embodied — the body is part of who you are|Know that the self is embodied: the body is part of who you are]]
+- [[SP002 — See everything as one system|See everything as one system]]
+- [[Y001 — See experience as constructed before reacting to it|See experience as constructed before reacting to it]]
 
 ### Concepts (10)
 - [[Attentional deployment theory]]
@@ -74,9 +76,10 @@ Kept to the pages that substantively carry or apply Barrett's work: affect scien
 ## Sources
 
 - [Wikipedia, "Lisa Feldman Barrett"](https://en.wikipedia.org/wiki/Lisa_Feldman_Barrett) — the biography (University of Waterloo PhD 1992, Northeastern University Distinguished Professor, Interdisciplinary Affective Science Laboratory, National Academy of Sciences).
-- [Barrett, "The theory of constructed emotion," SCAN 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5390700/) — the scholarly statement; abstract opened and quoted.
-- [Barrett, *How Emotions Are Made* (2017) text copy](https://web.stanford.edu/class/cs379c/resources/inverted/content/Books_and_Journal_Articles_on_Consciousness/How_Emotions_are_Made_by_Lisa_Feldman_Barrett/How_Emotions_are_Made_by_Lisa_Feldman_Barrett.txt) — the popular synthesis; affect and body-budget quotes verified against the opened text.
+- [Barrett, "The theory of constructed emotion," SCAN 2017, PMC5390700](https://pmc.ncbi.nlm.nih.gov/articles/PMC5390700/) — abstract opened; one sentence quoted verbatim; full text not opened.
+- [Barrett, *How Emotions Are Made* (2017) text copy](https://web.stanford.edu/class/cs379c/resources/inverted/content/Books_and_Journal_Articles_on_Consciousness/How_Emotions_are_Made_by_Lisa_Feldman_Barrett/How_Emotions_are_Made_by_Lisa_Feldman_Barrett.txt) — the popular synthesis; the affect and body-budget quotes are verbatim from this text.
+- [Northeastern University News, 2012](https://news.northeastern.edu/2012/09/05/professor-recognized-for-changing-the-field-of-affective-neuroscience/) — her move from clinical psychology to affective neuroscience.
 
 ## Related concepts
-- [[T001 — Csikszentmihalyi, Mihaly]]: the exemplar for this page's format, and the other modern scientist the corpus already builds on.
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]: the other modern scientist the corpus builds on; his flow and her constructed affect both make feeling a skill rather than a given.
 

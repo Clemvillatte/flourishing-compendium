@@ -25,7 +25,7 @@ For example: You browse a shop after an upsetting conversation and name what you
 
 ## Related thinkers
 
-- [[T057 — Barrett, Lisa Feldman|Barrett]] — meeting aversion gently gives the constructed brain material to work with rather than a fixed trigger to fight.
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — Barrett: naming at contact is her granularity practice applied to aversion.
 
 ## Sources
 

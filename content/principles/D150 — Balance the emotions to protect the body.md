@@ -30,7 +30,7 @@ Later Chinese medicine carried the idea further. The *Basic Questions* (Suwen), 
 
 ## Related thinkers
 
-- [[T057 — Barrett, Lisa Feldman|Barrett]] — reducing valence pressure in the body is regulating the budget her theory describes.
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — Barrett: the body budget she theorizes is what balance here protects.
 
 ## Sources
 

@@ -26,7 +26,7 @@ The sutta says what follows from seeing this: "the well-instructed disciple of t
 
 ## Related thinkers
 
-- [[T057 — Barrett, Lisa Feldman|Barrett]] — naming to change the relationship is her granularity practice in kernel form.
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — Barrett: the streams include interoception — the body-signal stream her constructionist account builds affect from.
 
 ## Sources
 

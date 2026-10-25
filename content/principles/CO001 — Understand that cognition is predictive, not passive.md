@@ -36,7 +36,7 @@ On the framework's standing: "The scientific story of predictive processing is s
 
 ## Related thinkers
 
-- [[T057 — Barrett, Lisa Feldman|Barrett]] — deliberately constructing an emotion is her theory used as a lever.
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — Barrett: predictive processing is the machinery her constructed-emotion theory runs on.
 
 ## Sources
 

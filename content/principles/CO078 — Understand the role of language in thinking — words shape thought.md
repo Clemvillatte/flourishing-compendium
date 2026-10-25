@@ -24,7 +24,7 @@ Someone who says "stressed" about everything tries one precise word each evening
 
 ## Related thinkers
 
-- [[T057 — Barrett, Lisa Feldman|Barrett]] — challenging emotional essentialism is her case against the classical view, stated as a practice.
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — the affect-labeling and granularity findings this principle leans on come from her research program.
 
 ## Sources
 

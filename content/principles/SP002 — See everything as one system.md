@@ -26,7 +26,7 @@ The practical reading comes from the Preface to Part III, where Spinoza refuses 
 
 ## Related thinkers
 
-- [[T057 — Barrett, Lisa Feldman|Barrett]] — the feeling behind the avoidance is the core affect her account puts upstream of emotion.
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — Barrett: the system includes the body budget — affect as the brain's account of the whole organism's resources.
 
 ## Sources
 

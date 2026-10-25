@@ -33,7 +33,7 @@ For this exercise, ask how an experience feels while it is happening. Is the fee
 
 ## Related thinkers
 
-- [[T057 — Barrett, Lisa Feldman|Barrett]] — cooling reactivity is easier once the feeling is seen as built — her account's practical dividend.
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — Barrett: feeling tone is her core affect — the valence/arousal stream that runs ahead of emotion.
 
 ## Related concepts
 

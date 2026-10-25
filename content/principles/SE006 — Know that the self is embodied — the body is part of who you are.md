@@ -48,7 +48,7 @@ On James's account the body is the innermost part of what you count as yours. So
 
 ## Related thinkers
 
-- [[T057 — Barrett, Lisa Feldman|Barrett]] — reading the body before acting is checking the construction inputs she identified.
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — her interoceptive account is one route by which the body is part of who you are.
 
 ## Related concepts
 
