@@ -1522,7 +1522,9 @@ window.fcWiki = {
   open(target) {
     if (!target) return false;
     navPushCurrent();
-    switchView('wiki');
+    // Use the patched dispatcher so a card opened from a dossier also exits
+    // academy-mode; otherwise the selected Library card remains CSS-hidden.
+    window.fcSwitchView('wiki');
     const e = byId.get(target) || byFile.get(target);
     if (!e) return false;
     const path = revealPath(e);

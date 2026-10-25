@@ -8,3 +8,4 @@
 - Academy: degree cards and navigation remain available.
 - Dossiers: Meaning & Mortality opens with the supplied artwork and working contents navigation.
 - Responsive: check reading at desktop and 375px, no horizontal overflow.
+- Cross-view card routing: open a #card=K136 link from Dossiers at 375px; Library must be visible with no stale academy-mode class.
