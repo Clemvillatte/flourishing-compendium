@@ -28,6 +28,11 @@
      "t": "2026-10-21T12:45:26+00:00",
      "to": "published",
      "note": "supervisor registration ST433"
+    },
+    {
+     "t": "2026-10-25T15:00:08+00:00",
+     "to": "ready",
+     "note": "QC sample 1025x: 1/1 quote verbatim vs fresh METIS PDF; ready stands"
     }
    ]
   },
@@ -376,6 +381,11 @@
      "t": "2026-10-22T15:31:43+00:00",
      "to": "ready",
      "note": "Independent advisor review complete; requested corrections applied; direct book locators verified"
+    },
+    {
+     "t": "2026-10-25T15:00:08+00:00",
+     "to": "ready",
+     "note": "QC sample 1025x: DEAD CARRIER — docx returns HTTP 410; sole quote no longer re-verifiable at recorded URL; flagged for supervisor (hold registration or re-source)"
     }
    ]
   },
@@ -860,5 +870,5 @@
    ]
   }
  },
- "updated": "2026-10-25T14:58:00+00:00"
+ "updated": "2026-10-25T15:00:08+00:00"
 }
