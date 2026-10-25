@@ -69,9 +69,10 @@
   "The bondage of desire",
   "The chain of virtue",
   "Skepticism about the obvious",
-  "Situation-sensitivity in self-regulation"
+  "Situation-sensitivity in self-regulation",
+  "Socioemotional wisdom"
  ],
- "in_progress": "Socioemotional wisdom",
+ "in_progress": null,
  "flagged": {
   "Self-constitution through action": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): advisor QC rounds applied; page validates ok vs session baseline 2b5e69c2; see sources/w1ad/Self-constitution through action.md",
   "Self-cultivation": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): advisor QC rounds applied; page validates ok vs session baseline 2b5e69c2; see sources/w1ad/Self-cultivation.md",
@@ -122,6 +123,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T03:13:49+00:00",
+ "updated": "2026-10-25T03:13:54+00:00",
  "band_done": false
 }
