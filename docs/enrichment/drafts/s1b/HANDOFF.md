@@ -144,3 +144,8 @@ disposition evidence. Statuses left as found (returned).
 - Session totals for s1b: 31 of the ready drafts QC-sampled (001, 002, 003, 004, 005, 006, 007, 011, 012, 013, 014, 015, 016, 017, 018, 019, 020, 021, 022, 024, 025, 026, 027, 028, 029, 030, 031, 032, 034, 038, plus 033 repaired and 036 disposition-recommended). Remaining unsampled: 023 (Cambridge carrier), 035 (Fan Li).
 - Standing supervisor flags unchanged (012 hyphenation, 015 dead carrier, 029 Heart Sutra carrier failing, 033 registration eligibility, 036 option (a), 037 ctext unverified, 003 Bergson carrier login-walled).
 - Baton released after this save; lane left in ready state.
+
+## 2026-10-25 15:17Z — QC final addendum (qc-storyteller-pplx-1025x)
+
+- Last two samples: 023 (Cambridge ACT article via fetch tool, quote VERBATIM) and 035 (suntzu-artofwar Fan Li page 2/2 verbatim; the ctext Shiji sub-entry is Cloudflare-walled to all three access methods - the two Chinese passages rest on the documented prior access, same situation as s1b-037).
+- With this, every s1b ready draft has been QC-sampled this session (33 sampled; 033 repaired, 036 disposition-recommended; the only unverified text remaining in the lane is the ctext sub-entries of 035/037 and the flagged carriers noted earlier). Baton released after this save.
