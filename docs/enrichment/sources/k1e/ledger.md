@@ -540,3 +540,7 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 ## 2026-10-25 (worker pplx-artcurator-1025a) — K390 The Raisin meditation
 - Read the full page; all three verbatim quotes re-verified against freshly opened carriers: Kabat-Zinn Full Catastrophe Living ch.1 (UCSF Osher PDF, downloaded and text-extracted; "we give everybody three raisins..." sentence confirmed verbatim with surrounding context), Greater Good in Education "Eating A Raisin With Mindfulness" (both quoted sentences verbatim), Fede Lozano "Raisin Exploration" (quoted sentence verbatim).
 - No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
+
+## 2026-10-25 (worker pplx-artcurator-1025a) — K391 Bring raisin mind to one routine activity
+- Read the full page; all three verbatim quotes re-verified against freshly opened carriers: Oxford Mindfulness Centre MBCT-L participant handbook v7 (both quoted passages verbatim) and the Heroic summary carrying the Williams & Penman ch.5 sentence (verbatim).
+- No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
