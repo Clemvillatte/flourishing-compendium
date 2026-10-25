@@ -117,6 +117,26 @@ The two accounts locate the failure in different places. The resource-depletion 
 
 Langner and Eickhoff propose a synthesis: maintaining attention on an unrewarding task requires continuing self-regulation, whose decline could contribute both to reduced attention and to mind-wandering. They treat sustained attentional demand as necessary but insufficient for the typical decrement. In 2013, they described direct evidence for this proposal as sparse. I find the synthesis worth considering, while keeping that evidential limit in view.
 
+### Is concentration for stilling the mind or for seeing what it does?
+
+The shared question: what the gathered mind is for once it is gathered. Patanjali's opening definition, as rendered on the Sacred Texts transcription of the Yoga Sutras, puts the weight on restraint:
+
+> "Union is restraining the thought-streams natural to the mind." (Yoga Sutras I.2) "Then the seer dwells in his own nature." (I.3) ([Yoga Sutras of Patanjali, Sacred Texts](https://www.sacred-texts.com/hin/yogasutr.htm))
+
+The same page gives I.4 as "Otherwise he is of the same form as the thought-streams." On this reading the mind's activity is the obstacle and its quieting is the result.
+
+A discourse in the Pali collection uses immersion for a different job:
+
+> "Mendicants, develop immersion. A mendicant who has immersion truly understands. What do they truly understand? The origin and ending of form, feeling, perception, choices, and consciousness." ([SN 22.5, Sujato trans.](https://suttacentral.net/sn22.5/en/sujato))
+
+Here the gathered mind is the condition for seeing how the five aggregates arise and cease. Sujato's note to the passage adds that mendicants are similarly enjoined to develop immersion to understand the six senses and the four noble truths (same page).
+
+Both treat collectedness as trainable and as a means, so the two do not oppose each other on whether to practise it. They differ on where the practice ends. In the Yoga line, as I read these three aphorisms, the endpoint is the seer abiding in its own nature once the thought-streams are restrained. In the Pali line the endpoint is knowledge of arising and ending, which requires that the mind stay active enough to observe. The dossier's earlier question about one-pointedness versus a wide field bears on this, since a wide field gives the observer more to watch.
+
+My lean, which is mine: for an essay on alleviating suffering, the Pali framing is the more usable, because it ties concentration to a change in how experience is understood. I hold the Yoga framing as the cleaner account of what deep stillness is like.
+
+Limits: I read three aphorisms of the Yoga Sutras and one Pali discourse. The Yoga Sutras also describe stages of absorption that include discernment, and I have not opened them, so the contrast above may be sharper than the full texts support. The Sacred Texts page does not name its translator.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the scatter and the strain: attention divided across tabs and tasks, the switching costs paid as residue, and the white-knuckle forcing that the lute-string teaching names as the first failure mode. The adaptive direction is the tuned middle: one object, one task, one protected block, with the return counted as the practice rather than as failure, and the effort checked against the two failure modes the sutta names, restless over-effort and slack neglect.

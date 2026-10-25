@@ -555,3 +555,11 @@ passages verified verbatim against the full text.
 Checks: dossier_check.py exit 0 (61 card links, 31 headers, 4
 external carriers); dossier_density.py 0 dense;
 dossier_quote_verify.py 6 checked / 0 not found.
+
+## 2026-10-25 — third disagreement question (dos25, worker-pplx-dos30-1025l)
+
+Added "### Is concentration for stilling the mind or for seeing what it does?" (2 -> 3 under the standard heading).
+Carriers opened: sacred-texts.com/hin/yogasutr.htm (YS I.2-I.4; translator not named on page; wording read through the page extract);
+SuttaCentral bilara API for SN 22.5 (Sujato; translation lines 1.4-1.7 and Sujato's note on SN 35.99, SN 35.160, SN 56.1).
+Flags: Yoga side is limited to three aphorisms (samprajnata stages not opened), stated in Limits.
+SUPERVISOR: re-splice right-concentration.
