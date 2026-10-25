@@ -148,6 +148,27 @@ opened event page.
 | The secret habits that control your life | [watch](https://www.youtube.com/watch?v=Ywec1MbeQDk), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=Ywec1MbeQDk&format=json), [credential](https://dornsife.usc.edu/wendy-wood/) | 6:18 | 2022-05-26 (watch page) | Wendy Wood, Provost Professor Emerita of Psychology and Business, USC | M7 overt behavioural (habits) |
 | Inaugural Lecture: Unravelling Early Self Regulation | [watch](https://www.youtube.com/watch?v=2ZS_f1cbrKk), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=2ZS_f1cbrKk&format=json), [event page](https://www.education.ox.ac.uk/event/inaugural-lecture-unravelling-early-self-regulation-professor-steven-howard/), [credential](https://www.education.ox.ac.uk/person/professor-steven-howard/) | 58:54 | not stated on the opened pages | Steven Howard, Senior Academic Research Leader in Child Development and Education, Oxford | M7 self-regulation; the opened event page describes the lecture as discussing why early self-regulation interventions often have small effects, and a research program on the nature, development and mechanisms of self-regulation |
 
+Additional inspections (2026-10-25, batch 12): lecture 12 (Emotions, Part
+II, 56:06) had its chapter outline recorded (Emotional Responses to
+Caregivers and Kin [00:00:00]; Q&A on Kin [00:15:44]; Evolutionary
+Explanations for Emotional Responses [00:18:16]; Cooperative Behavior
+and the Prisoner's Dilemma [00:25:20]; The Ultimatum Game [00:40:44];
+Cultures of Honor [00:49:21]) and the opening of chapter 1 read: Bloom
+continues the emotions theme, answering a question on nonhuman primate
+smiles (they correspond almost entirely to appeasement smiles; no
+equivalent of the greeting or Duchenne smile), reviewing the functions of
+emotions and turning to social emotions towards kin. Lecture 13 (Why Are
+People Different, 65:49) had its chapter outline recorded (Personality,
+Intelligence and Determining Difference [00:00:00]; Measuring
+Personality with The Big Five [00:13:53]; Defining and Measuring
+Intelligence [00:19:47]; Q&A [00:30:29]; The Roles of Genes and
+Environment [00:36:33]; Genes, Environment and Intelligence [00:51:16])
+and the opening of chapter 1 read: Bloom shifts from human universals to
+differences, framing how and why people differ. Both remain candidates;
+the Big Five chapter of lecture 13 (from 00:13:53) is the likely segment
+for the M5 personality row and needs its transcript read before
+attachment.
+
 Additional inspection (2026-10-25, batch 11): lecture 16 (Self and Other,
 Part I, 58:15) had its chapter outline recorded (Social Psychology and
 Connections between People [00:00:00]; The Spotlight and Transparency
