@@ -374,3 +374,22 @@ cogito yields knowledge of the self as a thinking substance. the-self stands
 at THREE substantiated disputes: SN22.59-vs-Advaita (inherited),
 Descartes-vs-Hume (introspection), Descartes-vs-Kant (knowledge of substance)
 — plus one bounded comparison. Bar met. Registry re-spliced.
+
+## Nearby terms section added (2026-10-25, worker-pplx-dos36-1025z)
+
+The the-self dossier was missing the DOSSIER-MODEL Nearby terms
+section (QC entry 18, 2026-10-24, listed the-self among the
+dossiers needing it). A five-bullet Nearby terms section was added
+between the introductory material and "## The map: the entries on
+the self", each bullet grounded in a concept card that resolves in
+the content directory: Narrative as meaning-making, Identity, Ego
+dissolution, Locus of evaluation, and Anxiety about the future. No
+body text, existing card link or carrier was changed (187 card
+links resolve, 12 external carriers, 0 dense paragraphs).
+PRE-EXISTING, NOT CAUSED BY THIS EDIT, flagged for the supervisor:
+dossier_quote_verify.py reports 3 of 13 quotes not found; these
+were not found before the edit either (verified against the
+pre-edit file) and are a separate carrier-verification item. Also
+flagged: the-self is published, so the Academy site data
+(site/assets/app.js) needs a rebuild to pick up the new section;
+that splice is supervisor-only and was not touched.

@@ -6,6 +6,16 @@ The self is the one thing everyone has and no one can point to. The traditions d
 
 Two essay angles the material supports. First, the two great examinations of experience, SN 22.59’s aggregate analysis and Advaita Vedānta’s, both take up identity and suffering together, and where they part is what the examination finds. Second, a question the research makes testable: can changing the perspective from which we consider our problems change our reasoning? Across three experiments with 693 participants, people reasoned more wisely about another person’s problems than about their own, and in Studies 2 and 3, instructing people to self-distance eliminated the asymmetry ([Grossmann and Kross 2014](https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/grossmann_kross_-_exploring_solomons_paradox_-_article_proof.pdf)).
 
+### Nearby terms
+
+- [Narrative as meaning-making](https://clemvillatte.github.io/flourishing-compendium/#card=Narrative%20as%20meaning-making) — the self as told; this dossier holds the one doing the telling and the paradox of the observer.
+- [Identity](https://clemvillatte.github.io/flourishing-compendium/#card=Identity) — the broader construct; the self is the one who has it, identity the thing had.
+- [Ego dissolution](https://clemvillatte.github.io/flourishing-compendium/#card=Ego%20dissolution) — the contemplative endpoint; where the self is defended, this is the practice of letting the defence go.
+- [Locus of evaluation](https://clemvillatte.github.io/flourishing-compendium/#card=Locus%20of%20evaluation) — where judgments of worth are taken from; the self is the one being judged, this names who is doing the judging.
+- [Anxiety about the future](https://clemvillatte.github.io/flourishing-compendium/#card=Anxiety%20about%20the%20future) — the agitation the defended self lives in; the self is the thing defended, this the weather of the defending.
+
+These are the nearest entries, not the scope.
+
 ## The map: the entries on the self
 
 ### What the self is taken to be
