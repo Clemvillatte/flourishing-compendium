@@ -18,7 +18,7 @@ Cognitive load: held under the load group below; attention capture and multitask
 
 [Information overload research](https://clemvillatte.github.io/flourishing-compendium/#card=Information%20overload%20research): studies on how excessive information input degrades decision quality, increases stress, and paradoxically reduces knowledge.
 
-[Choice overload](https://clemvillatte.github.io/flourishing-compendium/#card=Choice%20overload): more options degrade satisfaction and decision quality.
+[Choice overload](https://clemvillatte.github.io/flourishing-compendium/#card=Choice%20overload): more options degrade satisfaction and decision quality, though later meta-analytic work finds the overload only under certain conditions.
 
 [Heavy media multitasking](https://clemvillatte.github.io/flourishing-compendium/#card=Heavy%20media%20multitasking): the media-use pattern studied by Ophir, Nass and Wagner.
 
