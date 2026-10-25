@@ -57,5 +57,7 @@
    "from": "worker-pplx-dos12-1025g",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T04:11:02+00:00"
 }
