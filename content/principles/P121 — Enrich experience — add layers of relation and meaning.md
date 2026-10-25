@@ -12,35 +12,36 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 121** — Enrich experience: add layers of relation and meaning
 
-The difference between thin and rich experience is integration: connections felt, meanings seen, history and future present. Enrich your experiences by connecting them — to others, to your past, to your projects.
+I can give an activity room to develop: try something, attend to what happens and let that response guide what I do next. Dewey's account of experience helps me ask whether those moments belong together.
 
-Dewey's own framing, from the book's opening chapter:
+In chapter III of Art as Experience, he says:
 
-> "This task is to restore continuity between the refined and intensified forms of experience that are works of art and the everyday events, doings, and sufferings that are universally recognized to constitute experience." (Dewey, Art as Experience, ch. 1, [scan](https://archive.org/details/deweyjohnartasanexperience))
+> "we have an experience when the material experienced runs its course to fulfillment." ([university-hosted chapter excerpt, second paragraph](https://people.wou.edu/~girodm/670/having_an_experience.pdf))
 
-The book's third chapter names the complete episode: "Experience in this vital sense is defined by those situations and episodes that we spontaneously refer to as being 'real experiences'; those things of which we say in recalling them, 'that was an experience.'" What the principle draws from this is offered as a labeled application: connecting an experience to others, to your past, and to your projects is the practice, and it is something a person does.
+His examples include finishing work, solving a problem, a meal and a conversation; later he locates meaning in perceiving the relation between what we do and what we undergo ([chapter III](https://people.wou.edu/~girodm/670/having_an_experience.pdf)). I take this as a reason to attend to how an activity unfolds and what its consequences teach me.
 
-(Dewey, Art as Experience, 1934.)
+Dewey also allows that an experience with aesthetic quality can be harmful to the world ([chapter III, discussion of practical activity](https://people.wou.edu/~girodm/670/having_an_experience.pdf)). For me, asking whether an experience hangs together leaves the ethical question alive: what does it ask of other people?
 
 **Plain words**
-A concrete exercise rather than a formula: after something you would call a good experience, write three links, one to a person, one to something earlier in your life, one to something it is for. The links are what the principle points at; whether they are felt as richness is for the person doing it to notice.
+Stay with an activity long enough to notice what your actions change. Let what you discover affect your next step, and consider who else is involved.
 
 **For example**
-The same song — background noise while cleaning, versus the one that was playing during the road trip. Connected experience is denser. Same sound waves, different life.
+Imagine cooking for a friend. You taste the soup, adjust it and discover what the change did. As you serve it, the meal includes your friend's response. This invented scene gives the practical question a setting.
 
 ## Sources
 
-- [John Dewey, Art as Experience (scan, Internet Archive)](https://archive.org/details/deweyjohnartasanexperience) — quotations verified against the scanned text (chs. 1 and 3).
+- [Dewey, Art as Experience (1934), chapter III, Having an Experience](https://people.wou.edu/~girodm/670/having_an_experience.pdf): university-hosted excerpt; the quotation comes from its opening definition.
+- [Oishi and Westgate, A psychologically rich life: Beyond happiness and meaning (2022), PubMed](https://pubmed.ncbi.nlm.nih.gov/34383524/): abstract.
 
 ## Psychology parallels
 
-- **[[Psychological richness|Psychological richness as a distinct component of a good life]]** (Oishi and Westgate, 2022)
-- **[[Savoring|Savoring]]** (Bryant and Veroff, 2007)
+- [[Psychological richness|Psychological richness as a distinct component of a good life]]: Oishi and Westgate propose a dimension of a good life characterised by varied, interesting, perspective-changing experiences, related to happiness and meaning ([2022 abstract](https://pubmed.ncbi.nlm.nih.gov/34383524/)). I place this account of a life beside Dewey's account of an unfolding experience.
+- [[Savoring|Savoring]]: a further comparison to explore.
 
 ## Philosophy parallels
 
-- **[[Enriched experience|Enriched experience]]** (Dewey, Art as Experience)
-- **[[Conjunctive relations|Conjunctive relations]]** (James, Essays in Radical Empiricism)
+- [[Enriched experience|Enriched experience]]: the Deweyan question discussed above.
+- [[Conjunctive relations|Conjunctive relations]]: another philosophical comparison.
 
 <!-- fc: reflections
 What experience in your life is currently thin — connections unfelt, meanings unseen — that could actually be enriched? What's the enrichment?
