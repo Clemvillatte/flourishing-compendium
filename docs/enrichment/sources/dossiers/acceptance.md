@@ -116,3 +116,65 @@ but without restrictions by pain, or attempts to avoid or control
 pain"), with only "a behavior pattern of" compressed away and
 "but" dropped; the attribution is accurate. Card opened and read in
 full this pass.
+
+## Carrier-verification groundwork (2026-10-25, worker-pplx-dos30-1025i, baton dos30 held for lane 4)
+
+Prepared for the GF-model rewrite of this dossier (lane 4, next item
+after suffering). No body edits were made this pass; this section
+records carriers opened and read this session so the next writer
+does not redo the fetches:
+
+1. Hayes et al. 2006 acceptance definition
+   (https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf)
+   — opened and verified word-for-word this session: "Acceptance
+   involves the active and aware embrace of those private events
+   occasioned by one's history without unnecessary attempts to
+   change their frequency or form, especially when doing so would
+   cause psychological harm." The old draft's open point (carrier
+   not re-fetched at mint) is CLOSED.
+2. Enchiridion 8, MIT Classics
+   (https://classics.mit.edu/Epictetus/epicench.html) — opened:
+   "Don't demand that things happen as you wish, but wish that they
+   happen as they do happen, and you will go on well." (Long
+   translation wording; the scaife.perseus.org chapter-8 URL is
+   robots-blocked to automated fetch, while the chapter-5 URL
+   fetched with rendering in the suffering session.)
+3. Enchiridion 5 wording, Perseus (verified by eye in the
+   suffering session this same run; see the suffering ledger)
+   applies to the Judgment adds the harm entry here.
+4. ST188 (Epictetus and the Leg) and ST293 (The Three
+   Metamorphoses) story cards read in full this session; ST188's
+   own note that the anecdote's historicity is uncertain is part
+   of the card and belongs in any logline. ST293's child is
+   "a sacred yes-saying... only the child creates" per the card.
+5. K385 (Cognitive acceptance) kernel read in full: five-minute
+   cloud-watching protocol, 24-hour noticing, the aim stated as
+   "not to make the thought go away — it's to stop adding the
+   struggle on top of it". K123 (Radical acceptance) read in full
+   in the suffering session this run, including Linehan's caution
+   that telling someone to accept is invalidating ("Practice.").
+6. Death acceptance card: DAP-R three acceptance types quote with
+   carrier https://pmc.ncbi.nlm.nih.gov/articles/PMC6740004/
+   (Jansen et al. 2019) on the card; the carrier was NOT opened
+   this session (still an open point for the next writer).
+7. D098 (li ming) principle body read; the Liezi 6 quotes carry
+   the Scribd Graham-translation carrier, which was NOT opened
+   this session (Scribd fetches are unreliable; the next writer
+   should open it or find an alternate carrier before quoting).
+
+WARNING for the next writer, from the suffering session: the
+"related questions" in the old map (passivity, approval, boundary)
+are compatible clarifications, NOT genuine disagreements; the
+DOSSIER-MODEL requires substantiated oppositions (see the
+suffering ledger's re-review pass for the standard applied there,
+including the supervisor exception requested when only one could
+be substantiated). For acceptance, candidate oppositions worth
+probing with opened sources: Linehan's "you cannot make yourself
+accept" caution vs the Stoic demand of Enchiridion 8 (practice vs
+imperative; check whether the sources state them as rivals);
+Nietzsche's amor fati "must also be loved" (Ecce Homo, opened this
+session, exact wording in the suffering ledger) vs Hayes's
+"willingness without unnecessary attempts to change" (one
+prescribes a feeling of love, the other a behavior of non-meddling;
+whether that is opposition or layers is the question to test
+against the sources before writing it as one).
