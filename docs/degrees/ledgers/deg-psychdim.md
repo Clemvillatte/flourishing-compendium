@@ -161,8 +161,19 @@ recursion properties, and turns to animal communication (animals have
 communication systems; language in the technical narrow sense, almost
 certainly no). This serves M3 (cognitive) as elective material, and the
 perception, expectation, attention and memory chapters (from 00:18:06)
-are the likely segments for the M4 attentional row, needing their
-transcripts read before attachment. Lecture 7 remains a candidate.
+are the likely segments for the M4 attentional row. Lecture 7's chapter
+5 (00:39:15 to 00:58:04) was then read in full: Bloom treats attention
+and memory together, distinguishing sensory, short-term (working) and
+long-term memory, implicit and explicit memory, semantic and episodic
+memory, encoding, storage and retrieval, and recall versus recognition;
+presents attention as a spotlight that determines what gets into memory;
+demonstrates the Stroop effect (involuntary capture by reading), the
+gorilla demonstration (about half of viewers counting passes miss the
+person in the gorilla suit), and change blindness (Dan Simons's work,
+including the door study in which people do not notice the
+experimenter being switched). This serves the M4 attentional row
+directly. Status for the chapter-5 segment: verified-video; the
+remaining segments are candidates until their transcripts are read.
 
 Additional inspection (2026-10-25, batch 14): lecture 14 (What Motivates
 Us: Sex, 52:47) had its chapter outline recorded (Addressing Morality and
@@ -292,7 +303,7 @@ blocking gaps on the register, not quiet omissions.
 | self | Self-esteem: definition and its distinction from self-concept clarity (essential: a core self-evaluation construct explicitly distinguished in the opened SCC review) | [Manchiraju 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/) | M5 | reading | distinction exercise between SCC and self-esteem | short written distinction |
 | cognitive | Rumination and repetitive negative thinking: features, transdiagnostic evidence (essential: a current transdiagnostic literature grounded in an opened World Psychiatry review) | [Ehring 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/) | M3 | reading | analyse an RNT episode against the defining features | rubric-checked analysis |
 | cognitive | Appraisal of experimental evidence: rumination induction studies (essential: trains the owner's critical-reading exit capability) | [Ehring 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/) | M3 | reading plus study appraisal | appraisal of a rumination induction study | appraisal rubric |
-| attentional | The three attention networks with anatomy and modulators (essential: the three-network framework used by the opened attention reviews) | [Posner et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/); [Posner 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/) | M4 | reading plus lecture | network-to-symptom mapping exercise | mapping rubric |
+| attentional | The three attention networks with anatomy and modulators (essential: the three-network framework used by the opened attention reviews) | [Posner et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/); [Posner 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/); verified OYC lecture 7 chapter 5 (00:39:15 to 00:58:04, attention and memory) | M4 | reading plus lecture | network-to-symptom mapping exercise | mapping rubric |
 | attentional | Attention measurement (ANT), development, links to disorders and affect regulation (essential: connects the dimension to evidence and to affect) | [Posner et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/); [Posner 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/) | M4 | reading | interpret sample network scores | interpretation exercise |
 | attentional | Contemplative training as attentional evidence (essential: one attentional training paradigm among others; doctrine stays in the practica) | [Lippelt et al. 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/pdf/fpsyg-05-01083.pdf) | M4 | reading | compare practice types by attentional mechanism | comparison table |
 | self | Self-concept clarity: definition, measurement, development, evidence limits (essential: a comprehensive recent review of a well-defined structural account of the self, selected as the self-dimension anchor) | [Manchiraju 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/) | M5 | reading | self-assessment with the SCCS framing and limits discussion | reflective write-up |
