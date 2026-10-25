@@ -66,39 +66,21 @@ The training research separates two states a person can bring to another's pain.
 
 ### Compassion, kindness and care
 
-[Compassion](https://clemvillatte.github.io/flourishing-compendium/#card=Compassion): the wish to relieve suffering when it is seen, trainable as a capacity.
-
-[Karuna](https://clemvillatte.github.io/flourishing-compendium/#card=Karuna): the second brahmavihara: where metta wishes all beings well, karuna responds to their pain.
-
-[Metta (loving-kindness)](https://clemvillatte.github.io/flourishing-compendium/#card=Metta%20%28loving-kindness%29): the first immeasurable: goodwill for all beings without limit.
+The wish to relieve suffering when it is seen, trainable as a capacity, is [compassion](https://clemvillatte.github.io/flourishing-compendium/#card=Compassion). The second brahmavihara, in which metta wishes all beings well and karuna responds to their pain, is [karuna](https://clemvillatte.github.io/flourishing-compendium/#card=Karuna). The first immeasurable, goodwill for all beings without limit, is [metta (loving-kindness)](https://clemvillatte.github.io/flourishing-compendium/#card=Metta%20%28loving-kindness%29).
 
 The Karaṇīya Metta Sutta gives the instruction its measure:
 
 > "As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings." ([Karaṇīya Metta Sutta, Sn 1.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html))
 
-[Mudita (sympathetic joy)](https://clemvillatte.github.io/flourishing-compendium/#card=Mudita%20%28sympathetic%20joy%29): the third immeasurable: gladness at another's good fortune as if it were one's own.
+The third immeasurable, gladness at another's good fortune as if it were one's own, is [mudita (sympathetic joy)](https://clemvillatte.github.io/flourishing-compendium/#card=Mudita%20%28sympathetic%20joy%29). Underwood's construct of love centred on the good of another person is [compassionate love](https://clemvillatte.github.io/flourishing-compendium/#card=Compassionate%20love), and Gilbert's integrated approach for people with high shame and self-criticism is [compassion-focused therapy](https://clemvillatte.github.io/flourishing-compendium/#card=Compassion-focused%20therapy).
 
-[Compassionate love](https://clemvillatte.github.io/flourishing-compendium/#card=Compassionate%20love): Underwood's construct of love centred on the good of another person.
+Noddings's analysis of the practice of responding to need, in which attention, feeling and action bend toward the well-being of a particular other, is [care](https://clemvillatte.github.io/flourishing-compendium/#card=Care). Tronto's account of caring as a species activity with phases, from caring about to care receiving, is [care as practice](https://clemvillatte.github.io/flourishing-compendium/#card=Care%20as%20practice). The normative theory that moral action centers on relationships and benevolence is [care ethics](https://clemvillatte.github.io/flourishing-compendium/#card=Care%20ethics).
 
-[Compassion-focused therapy](https://clemvillatte.github.io/flourishing-compendium/#card=Compassion-focused%20therapy): Gilbert's integrated approach for people with high shame and self-criticism.
+Held's version, in which moral significance is located in relationships and dependencies, with universal rules considered in the abstract as the comparison class, is [the ethics of care](https://clemvillatte.github.io/flourishing-compendium/#card=The%20ethics%20of%20care). Gilligan's claim that moral reasoning has more than one voice is [Gilligan's ethics-of-care theory](https://clemvillatte.github.io/flourishing-compendium/#card=Gilligan%27s%20ethics-of-care%20theory).
 
-[Care](https://clemvillatte.github.io/flourishing-compendium/#card=Care): the practice of responding to need: attention, feeling and action bent toward the well-being of a particular other, in Noddings's analysis.
+Confucius's cardinal virtue, the humane disposition toward others, is [ren](https://clemvillatte.github.io/flourishing-compendium/#card=Ren), and Hume's sentiment grounding the social virtues is [benevolence](https://clemvillatte.github.io/flourishing-compendium/#card=Benevolence).
 
-[Care as practice](https://clemvillatte.github.io/flourishing-compendium/#card=Care%20as%20practice): Tronto's account of caring as a species activity with phases, from caring about to care receiving.
-
-[Care ethics](https://clemvillatte.github.io/flourishing-compendium/#card=Care%20ethics): the normative theory that moral action centers on relationships and benevolence.
-
-[The ethics of care](https://clemvillatte.github.io/flourishing-compendium/#card=The%20ethics%20of%20care): Held's version: moral significance is located in relationships and dependencies, with universal rules considered in the abstract as the comparison class.
-
-[Gilligan's ethics-of-care theory](https://clemvillatte.github.io/flourishing-compendium/#card=Gilligan%27s%20ethics-of-care%20theory): the claim that moral reasoning has more than one voice.
-
-[Ren](https://clemvillatte.github.io/flourishing-compendium/#card=Ren): Confucius's cardinal virtue: the humane disposition toward others.
-
-[Benevolence](https://clemvillatte.github.io/flourishing-compendium/#card=Benevolence): Hume's sentiment grounding the social virtues.
-
-[Acts of kindness (Lyubomirsky)](https://clemvillatte.github.io/flourishing-compendium/#card=Acts%20of%20kindness%20%28Lyubomirsky%29): the deliberate kind acts used in positive psychology interventions.
-
-[Helper's high](https://clemvillatte.github.io/flourishing-compendium/#card=Helper%27s%20high): Post's label for the pleasurable state many people report after helping someone.
+The deliberate kind acts used in positive psychology interventions are [acts of kindness](https://clemvillatte.github.io/flourishing-compendium/#card=Acts%20of%20kindness%20%28Lyubomirsky%29), and Post's label for the pleasurable state many people report after helping someone is the [helper's high](https://clemvillatte.github.io/flourishing-compendium/#card=Helper%27s%20high).
 
 ### Love and friendship
 
