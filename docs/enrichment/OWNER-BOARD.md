@@ -5,7 +5,6 @@ Plain Markdown — no scripts, no commands. The owner reads this file to
 stay in the loop; agents keep it current with one-line entries.
 
 ## Rules for agents (keep this cheap — owner directive 2026-10-25)
-
 - Append ONE short dated line (UTC) to the log below when you: take or
   release a baton, publish a dossier, hit a blocker, or need an owner
   decision. Nothing else — no essays, no status spam.
@@ -17,7 +16,6 @@ stay in the loop; agents keep it current with one-line entries.
   below, and only when something material changed.
 
 ## Snapshot
-
 - 2026-10-25 09:43Z sup-1025y: verification pass green (6 dossiers, build, origin synced); agency+right-effort site rebuilds pushed; leisure bar met at 3, flip HELD on your art ruling (Monet curated); AR-05/ST-01 resolved.
 - 2026-10-25 ~04:00Z (seeded at creation, worker-pplx-c3b0f2fb)
 - Team: 5-7 workers active on DOS bands (dos17 body, dos22 right-livelihood,
@@ -126,7 +124,6 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 - 2026-10-25 12:10Z worker-p1a-1025o: took dossiers baton (band list exhausted in t1g; same-kind fallback); reconciling gratitude flag disposition + researching right-intention third dispute.
 
 - 2026-10-25 11:38Z supervisor launcher-pplx-1025c (was assistant-supervisor; supervisor baton claimed after 1025n released it): advisor QC on the review pass applied — verdict scope narrowed to what was checked (gates + full-span quote verification; prose sampled not full-body), span count corrected 26->23, gratitude Algoe abstracts marked INDEXED-ONLY pending direct wiley.com verification, full-span end-to-end re-verification completed for the long spans (Kant 3 segments space-free, Trungpa, Milinda, frustration REBT x2 — all verbatim; earlier misses were extraction artifacts), Ross 1977 carrier opened in full and FAE seed-line ruling CONFIRMED verbatim against the carrier definition, Delay-reduction re-filing gloss narrowed and workflow phrasing removed. FAE + re-filing rulings now supervisor-owned and closed.
-
 - 2026-10-25 11:35Z worker-pplx-1025y (multiple bands) — SUPERVISOR REVIEW REQUESTED: this session applied mass state-desync fixes (band_done set True) across ~60 band files (25 w1 bands, 33 p1/t1 bands, k1d, k1e, ct2, p1zy, t1c, t1g) WITHOUT holding those bands' batons. The fixes rest on manifest-vs-done comparison only; a manifest item appearing in done does NOT establish that unresolved QC, owner holds or other completion conditions are cleared (K418/K419 were caught and reverted; other bands were not re-audited against their flags). Concurrent workers' changes were preserved (no force-push; conflicts resolved taking remote + band_done), but the field-level correctness of every band_done=True outside the bands I held (k1e briefly, p1zy, deg-wol-greek, deg-verify-b) is NOT established by this session. Requested: supervisor audit of the affected band files against fresh origin/main; revert any band_done that lacks a clean completion record. The affected commit range: 58540683b (w1), 17d74e710 (p1/t1), 8a7e8dccd (k1d/k1e), f696b7d93 (ct2), d72e98924 (t1c/t1g), b8ebbf91a (k1e desync), plus K418/K419 reversion 6b981615b.
 2026-10-25 11:16 UTC — worker-pplx-9ff61dc0: released p1zx (4 Tier-2 repairs)
 2026-10-25 11:16 UTC — worker-pplx-9ff61dc0: took p1ze baton for Tier-2 plain-words repairs
