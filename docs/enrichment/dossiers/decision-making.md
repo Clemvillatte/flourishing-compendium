@@ -14,51 +14,27 @@ Heuristics: held under the heuristics group below; the Cognition dossier holds r
 
 Akrasia: acting against one's own better judgment, held under its own group below.
 
-## The map: the entries on decision-making
+## Where choosing sits in a life
 
 ### How people actually choose
 
-[Decision-making research](https://clemvillatte.github.io/flourishing-compendium/#card=Decision-making%20research): the study of how people actually choose: what they search through, when they stop, and how they feel about what they picked.
+The study of how people actually choose, what they search through, when they stop, and how they feel about what they picked, is [decision-making research](https://clemvillatte.github.io/flourishing-compendium/#card=Decision-making%20research). The distinction between autonomous Type 1 processing and Type 2 processing that depends on working memory and supports hypothetical reasoning is [dual-process theory](https://clemvillatte.github.io/flourishing-compendium/#card=Dual-process%20theory), and Kahneman's names for fast, automatic, intuitive thought and slow, effortful, deliberate thought are [System 1 and System 2](https://clemvillatte.github.io/flourishing-compendium/#card=System%201%20and%20System%202).
 
-[Dual-process theory](https://clemvillatte.github.io/flourishing-compendium/#card=Dual-process%20theory): distinguishes autonomous Type 1 processing from Type 2 processing that depends on working memory and supports hypothetical reasoning.
+Stanovich's programme, in which intelligence and rationality come apart so a person can be smart and still reason badly, is [rationality research](https://clemvillatte.github.io/flourishing-compendium/#card=Rationality%20research). Kahneman and Tversky's 1979 descriptive model of choice under risk, a critique of expected utility theory, is [prospect theory](https://clemvillatte.github.io/flourishing-compendium/#card=Prospect%20theory). Loomes and Sugden's account, in which anticipated regret enters decisions and people pay to avoid it, is [Regret Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Regret%20Theory).
 
-[System 1 and System 2](https://clemvillatte.github.io/flourishing-compendium/#card=System%201%20and%20System%202): Kahneman's names for fast, automatic, intuitive thought and slow, effortful, deliberate thought.
+### What heuristics do, and when they err
 
-[Rationality research](https://clemvillatte.github.io/flourishing-compendium/#card=Rationality%20research): Stanovich's programme: intelligence and rationality come apart, so a person can be smart and still reason badly.
+Gigerenzer's simple decision rules that ignore part of the available information and can still judge well under uncertainty are the [fast-and-frugal heuristics](https://clemvillatte.github.io/flourishing-compendium/#card=Decision-making%20under%20uncertainty%20%28Gigerenzer%27s%20fast-and-frugal%20heuristics%29). The claim that a simple decision rule is good or bad only relative to the environment it is used in is [ecological rationality](https://clemvillatte.github.io/flourishing-compendium/#card=Ecological%20rationality).
 
-[Prospect theory](https://clemvillatte.github.io/flourishing-compendium/#card=Prospect%20theory): Kahneman and Tversky's 1979 descriptive model of choice under risk, a critique of expected utility theory.
+The systematic, predictable errors produced by the mind's shortcuts are [cognitive biases](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20biases). The finding that positive or negative feelings about an object drive judgments of its risk and benefit is the [affect heuristic](https://clemvillatte.github.io/flourishing-compendium/#card=Affect%20heuristic), and the use of ease of recall as a proxy for frequency is the [availability heuristic](https://clemvillatte.github.io/flourishing-compendium/#card=Availability%20heuristic).
 
-[Regret Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Regret%20Theory): Loomes and Sugden: anticipated regret enters decisions, and people pay to avoid it.
+The substitution of similarity for likelihood in probability judgment is the [representativeness heuristic](https://clemvillatte.github.io/flourishing-compendium/#card=Representativeness%20heuristic), and judging by how well a case matches a stereotype while overlooking how common the categories are is [base rate neglect](https://clemvillatte.github.io/flourishing-compendium/#card=Base%20rate%20neglect%20representativeness%20heuristic).
 
-### Heuristics: shortcuts and their errors
+The pulling of a judgment toward a reference point, even when the reference point has no business near the judgment, is the [anchoring effect](https://clemvillatte.github.io/flourishing-compendium/#card=Anchoring%20effect). The finding that different descriptions of the same fact produce different decisions is [framing effects](https://clemvillatte.github.io/flourishing-compendium/#card=Framing%20effects). The raising of what a thing is worth to its owner by owning it is the [endowment effect](https://clemvillatte.github.io/flourishing-compendium/#card=Endowment%20effect).
 
-[Decision-making under uncertainty (Gigerenzer's fast-and-frugal heuristics)](https://clemvillatte.github.io/flourishing-compendium/#card=Decision-making%20under%20uncertainty%20%28Gigerenzer%27s%20fast-and-frugal%20heuristics%29): simple decision rules that ignore part of the available information and can still judge well under uncertainty.
+The tendency to stick with a current or previous choice more often than a neutral comparison would predict is [status quo bias](https://clemvillatte.github.io/flourishing-compendium/#card=Status%20quo%20bias). The finding that people are more likely to pick an option that is already selected for them is [default effect theory](https://clemvillatte.github.io/flourishing-compendium/#card=Default%20effect%20theory).
 
-[Ecological rationality](https://clemvillatte.github.io/flourishing-compendium/#card=Ecological%20rationality): a simple decision rule is good or bad only relative to the environment it is used in.
-
-[Cognitive biases](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20biases): the systematic, predictable errors produced by the mind's shortcuts.
-
-[Affect heuristic](https://clemvillatte.github.io/flourishing-compendium/#card=Affect%20heuristic): positive or negative feelings about an object drive judgments of its risk and benefit.
-
-[Availability heuristic](https://clemvillatte.github.io/flourishing-compendium/#card=Availability%20heuristic): ease of recall is used as a proxy for frequency.
-
-[Representativeness heuristic](https://clemvillatte.github.io/flourishing-compendium/#card=Representativeness%20heuristic): similarity stands in for likelihood in probability judgment.
-
-[Base rate neglect representativeness heuristic](https://clemvillatte.github.io/flourishing-compendium/#card=Base%20rate%20neglect%20representativeness%20heuristic): judging by how well a case matches a stereotype while overlooking how common the categories are.
-
-[Anchoring effect](https://clemvillatte.github.io/flourishing-compendium/#card=Anchoring%20effect): the pulling of a judgment toward a reference point, even when the reference point has no business near the judgment.
-
-[Framing effects](https://clemvillatte.github.io/flourishing-compendium/#card=Framing%20effects): different descriptions of the same fact produce different decisions.
-
-[Endowment effect](https://clemvillatte.github.io/flourishing-compendium/#card=Endowment%20effect): owning a thing raises what it is worth to its owner.
-
-[Status quo bias](https://clemvillatte.github.io/flourishing-compendium/#card=Status%20quo%20bias): the tendency to stick with a current or previous choice more often than a neutral comparison would predict.
-
-[Default effect theory](https://clemvillatte.github.io/flourishing-compendium/#card=Default%20effect%20theory): people are more likely to pick an option that is already selected for them.
-
-[Negativity bias](https://clemvillatte.github.io/flourishing-compendium/#card=Negativity%20bias): bad events have more psychological impact than good ones of similar size.
-
-[Survivorship bias](https://clemvillatte.github.io/flourishing-compendium/#card=Survivorship%20bias): drawing conclusions from what made it through a selection process while overlooking what did not.
+The finding that bad events have more psychological impact than good ones of similar size is [negativity bias](https://clemvillatte.github.io/flourishing-compendium/#card=Negativity%20bias). Drawing conclusions from what made it through a selection process while overlooking what did not is [survivorship bias](https://clemvillatte.github.io/flourishing-compendium/#card=Survivorship%20bias).
 
 ### Overconfidence and holding on
 
