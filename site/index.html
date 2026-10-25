@@ -22,7 +22,6 @@
       <button id="tabRand" class="vtab" type="button">Randomiser</button>
       <button id="tabWiki" class="vtab" type="button">Library</button>
       <button id="tabGraph" class="vtab" type="button" title="Knowledge graph — principles, kernels and concepts linked together">Graph</button>
-      <button id="tabEdit" class="vtab" type="button">Editor</button>
       <button id="tabAcademy" class="vtab" type="button" aria-label="Academy — Degrees, modules and curated media">Academy</button>
       <button id="tabDossiers" class="vtab" type="button" aria-label="Dossiers — one theme at a time, in depth">Dossiers</button>
     </nav>
@@ -34,8 +33,10 @@
     </div>
     <div class="spacer"></div>
     <div class="topbar-utils">
-      <button id="essayExportBtn" type="button" title="Export essay outline (Ctrl/Cmd+Shift+S)">Essay <span id="essayCountBadge">0</span></button>
-      <button id="essayClearBtn" type="button" title="Clear the essay collection (reset to 0)" aria-label="Clear essay collection"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M18 6L6 18M6 6l12 12"/></svg></button>
+      <button id="tabEdit" class="vtab" type="button" title="Writing Editor (Ctrl/Cmd+E) — essay collection and drafting" aria-label="Open writing editor">
+        <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z"/><line x1="16" y1="8" x2="2" y2="22"/><line x1="17.5" y1="15" x2="9" y2="15"/></svg>
+        Editor
+      </button>
       <!-- soundscape player launcher: docks into the header (between the Essay
            control and the help/backup cluster; on phones it sits between the
            title and the theme toggle — the header keeps only those visible) -->

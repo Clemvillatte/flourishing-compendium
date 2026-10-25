@@ -297,17 +297,21 @@ document.addEventListener('keydown', function(ev){
     ev.preventDefault(); exportEssayOutline();
   }
 });
-// wire the visible export button + clear button
+// wire the visible export button + clear button (delegated: the buttons now
+// live inside the Writing Editor sidebar built by app.js, which may run after
+// this parse — delegation keeps the wiring order-independent)
 (function(){
-  const btn = document.getElementById('essayExportBtn');
-  if (btn) btn.addEventListener('click', exportEssayOutline);
-  const clr = document.getElementById('essayClearBtn');
-  if (clr) clr.addEventListener('click', function(){
+  function clearEssay(){
     if (!getEssayCollection().length) { return; }
     saveEssayCollection([]);
     updateEssayCountBadge();
     if (typeof window.__toast === 'function') window.__toast('Essay collection cleared');
     else if (typeof window.toast === 'function') window.toast('Essay collection cleared');
+  }
+  document.addEventListener('click', function(ev){
+    if (!ev.target || !ev.target.closest) return;
+    if (ev.target.closest('#essayExportBtn')) { ev.preventDefault(); exportEssayOutline(); }
+    else if (ev.target.closest('#essayClearBtn')) { ev.preventDefault(); clearEssay(); }
   });
   // update badge on load
   setTimeout(updateEssayCountBadge, 100);

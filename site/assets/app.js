@@ -81,6 +81,10 @@ window.__editorHTML = "data:text/html;base64,PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc
       '<div id="editorSidebarHead">' +
         '<span class="editorSidebarTitle">Writing Editor</span>' +
         '<span class="editorSidebarSub" id="editorSidebarSub">Autosaves to this browser</span>' +
+        '<span id="editorSidebarEssay">' +
+          '<button id="essayExportBtn" type="button" title="Export essay outline (Ctrl/Cmd+Shift+S)">Essay <span id="essayCountBadge">0</span></button>' +
+          '<button id="essayClearBtn" type="button" title="Clear the essay collection (reset to 0)" aria-label="Clear essay collection"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M18 6L6 18M6 6l12 12"/></svg></button>' +
+        '</span>' +
         '<button id="editorSidebarExpand" type="button" title="Expand to a full writing workspace (keeps your text, caret and undo)" aria-label="Expand editor">⤢ Expand</button>' +
         '<button id="editorSidebarClose" type="button" title="Close editor (⌘E)" aria-label="Close editor">×</button>' +
       '</div>' +
@@ -20236,7 +20240,13 @@ window.fcDossiersData = {
       "label": "The Noble Eightfold Path"
     }
   ],
-  "roadmap": []
+  "roadmap": [
+    {
+      "id": "meaning-and-mortality",
+      "title": "Meaning & Mortality",
+      "group": "challenges"
+    }
+  ]
 };
 
 function renderDossiers(){
