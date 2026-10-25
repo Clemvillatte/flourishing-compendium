@@ -382,3 +382,16 @@ fetched this session:
 
 Checker: exit 0 (41 card links, 16 headers, 10 carriers). Count
 correction: right-effort now has THREE substantiated questions.
+
+## Carrier repair and quote-fidelity round (2026-10-25, worker-pplx-dos23-1025n, baton dos23)
+
+quote_verify went 11 NOT FOUND -> 0. The band already stood at three substantiated questions; this round added no new disagreement or interpretive verdict, but it did change quotation text within sections.
+
+Repairs (all verified against opened sources):
+1. PubMed-linked quotes (Oaten & Cheng 2006, Duckworth et al. 2007, Credé et al. 2017): pubmed.ncbi.nlm.nih.gov serves a bot-challenge page from this network, so live fetch failed. All quotes re-verified today in the NCBI eutils plain-text abstracts (efetch.fcgi for IDs 17032494, 17547490, 27845531); each paragraph now carries the plain-text link alongside the PubMed citation. No quoted words changed.
+2. Jachimowicz et al. 2018: the PNAS doi/abs page is Cloudflare-blocked from this network. Both quotes ("has not adequately captured passion", "perseverance without passion isn't grit, but merely a grind") verified present in the open PMC copy (PMC6176608, fetched today, 57k chars) under the checker's normalisation; a full-text link added. No quoted words changed.
+3. Tao Te Ching paragraph: the short quoted phrase "generates desire" (under 25 characters) caused the checker to mispair quotation marks across the paragraph. Extended to the sutta's fuller phrase "generates desire, endeavors, activates persistence, upholds & exerts his intent" (verified in SN 45.8, Thanissaro, Access to Insight) with its carrier link added to the paragraph.
+4. QUOTE CORRECTION, SN 45.8 (line 26): the dossier's rendering of Thanissaro's four-directions passage said "for the sake of the maintenance" in the fourth clause; the source text reads "for the maintenance" (no "the sake of"). Corrected to match the source word for word. The source also places parenthesised Roman-numeral section labels ((ii), (iii), (iv)) between the four clauses; the quotation now marks those three label positions with ellipses, and nothing else is omitted. The raw HTML was re-read today and the three first clauses plus punctuation verified character-for-character (the "&" renders as & in the source HTML).
+5. Diagnosis note: the original SN 45.8 failure had two real causes, both demonstrated: the "the sake of" insertion in the fourth clause, and the Roman-numeral labels breaking the continuous span. The earlier "stale cache" hypothesis in this round's first draft was unsupported and is withdrawn; the live page was re-fetched and verified today.
+
+Checks before push (exit codes captured directly): dossier_check exit 0 (41 card links, 16 headers, 15 external carriers); quote_verify 17 checked, 0 not found; density 0 dense; voice_audit exit 0.

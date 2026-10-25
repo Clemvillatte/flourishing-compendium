@@ -1,7 +1,8 @@
 {
  "batch": "dos23",
  "done": [
-  "right-effort"
+  "right-effort",
+  "2026-10-25 1025n carrier-repair + quote-fidelity round: PubMed/PNAS carriers supplemented with eutils and PMC open copies; SN 45.8 quote corrected (sake-of in 4th clause, ellipses at section markers); quote_verify 11->0; band stays at 3 substantiated"
  ],
  "note": "rev8 closes the divergence requirement. Dossier and ledger are on record; publication (registry flip, fcDossiersData rebuild, artwork) is supervisor-only. The dossier must not be pushed to production data by this worker; the supervisor runs --rebuild=right-effort after the flip, per the standing pipeline.\n\nTakeover audit (worker-pplx-dos24-1025a, 2026-10-24 ~T+18): the stale baton\nwas taken over, verified, and released. rev8 commit 818969f8d is pushed; the\nright-effort dossier passes dossier_check (41 links, 15 headers, 5 external\ncarriers); the ledger is on record. No worker-level work remains. Supervisor:\nregistry flip + --rebuild=right-effort when the art assignment unblocks it.\n\nGF-model restructuring (2026-10-25, worker-pplx-dos24-1025a, taking dos23 after dos26): main body dissolved from one-line gloss lists into connected interwoven prose with question headings per supervisor review; all verified quotes and card links preserved; checker exit 0 (39 card links, 14 headers, 5 external carriers), 0 dense paragraphs; ledger revision entry appended. REMAINING (supervisor-only): registry flip to published, dossier_registry_build, art assignment.",
  "review": [
