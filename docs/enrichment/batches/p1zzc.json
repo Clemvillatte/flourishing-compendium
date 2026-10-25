@@ -40,9 +40,10 @@
   "SP086": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived (shared-good framing); validator PASS",
   "SP094": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived (calendar-is-the-philosophy framing); validator PASS",
   "X002": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived (self-cancelling formula framing); validator PASS",
-  "SP096": "QC pass 2 2026-10-25 (worker-pplx-9ff61dc0): advisor fixes — unsupported 'relation to the whole' gloss removed; conception/duration distinction kept; validator PASS"
+  "SP096": "QC pass 2 2026-10-25 (worker-pplx-9ff61dc0): advisor fixes \u2014 unsupported 'relation to the whole' gloss removed; conception/duration distinction kept; validator PASS"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T11:23:12+00:00"
+ "updated": "2026-10-25T11:23:12+00:00",
+ "band_done": true
 }

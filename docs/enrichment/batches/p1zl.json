@@ -37,11 +37,12 @@
   "K036": "original list of six items was wrong (not the slogan's six); body rebuilt from Chodron 2007 / Lief; locator corrected to slogan 52, point seven",
   "K043": "mother-of-only-child simile not found in ch.5; replaced with 5.108, 5.33 and injured-arm image; owner to confirm source if it exists",
   "E018": "reversibility is 'always imminent and never realized in fact' (VI 147); original example removed",
-  "CO054": "QC pass 2 2026-10-25 (worker-pplx-9ff61dc0): advisor fixes — 'firmer finding' and superlative removed, replication caveat kept; life-review advice labelled page suggestion; validator PASS",
+  "CO054": "QC pass 2 2026-10-25 (worker-pplx-9ff61dc0): advisor fixes \u2014 'firmer finding' and superlative removed, replication caveat kept; life-review advice labelled page suggestion; validator PASS",
   "E028": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived (borrowedness framing, non-moralizing reading kept); validator PASS",
   "E023": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived (shape-before-mood framing, fable kept attributed); validator PASS"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T11:23:11+00:00"
+ "updated": "2026-10-25T11:23:11+00:00",
+ "band_done": true
 }
