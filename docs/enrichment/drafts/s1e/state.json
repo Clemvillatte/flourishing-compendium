@@ -177,7 +177,7 @@
    ]
   },
   "s1e-008": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "P191 joy as creation's signature: Wiles on September 19, 1994 - the joy arrived with the thing created, before any recognition, while the world still believed the proof broken",
    "history": [
     {
@@ -193,9 +193,14 @@
      "t": "2026-10-21T12:52:45+00:00",
      "to": "qc_pending",
      "note": "quotes verified from opened NOVA transcript"
+    },
+    {
+     "t": "2026-10-25T13:25:55+00:00",
+     "to": "ready",
+     "note": "verification pass: NOVA transcript re-opened; all quotes exact except one word ('night' for 'first night' restored to source); story_check ok"
     }
    ]
   }
  },
- "updated": "2026-10-25T13:25:32+00:00"
+ "updated": "2026-10-25T13:25:55+00:00"
 }
