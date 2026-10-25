@@ -57,5 +57,7 @@
    "from": "worker-pplx-dos23-1025n",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T09:29:17+00:00"
 }

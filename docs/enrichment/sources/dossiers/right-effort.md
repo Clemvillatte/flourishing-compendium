@@ -395,3 +395,17 @@ Repairs (all verified against opened sources):
 5. Diagnosis note: the original SN 45.8 failure had two real causes, both demonstrated: the "the sake of" insertion in the fourth clause, and the Roman-numeral labels breaking the continuous span. The earlier "stale cache" hypothesis in this round's first draft was unsupported and is withdrawn; the live page was re-fetched and verified today.
 
 Checks before push (exit codes captured directly): dossier_check exit 0 (41 card links, 16 headers, 15 external carriers); quote_verify 17 checked, 0 not found; density 0 dense; voice_audit exit 0.
+
+## Disagreement-section heading conformance (2026-10-25, worker-pplx-dos23-1025z)
+
+The right-effort dossier used "Where the research genuinely
+disagrees" as its disagreement-section heading. The DOSSIER-MODEL
+example heading is "Where the traditions genuinely disagree", and
+the published dossier check (QC entry 18, 2026-10-24) listed
+right-effort among the dossiers needing the rename. The heading was
+conformed to "Where the traditions genuinely disagree"; no body text,
+card link or carrier was changed (41 card links, 15 external
+carriers, 0 dense paragraphs, all 17 quotes verified before and
+after). Flagged for the supervisor: right-effort is published, so the
+Academy site data (site/assets/app.js) needs a rebuild to pick up the
+new heading; that splice is supervisor-only and was not touched.
