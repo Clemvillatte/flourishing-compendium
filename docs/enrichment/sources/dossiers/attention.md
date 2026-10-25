@@ -386,3 +386,20 @@ wandering mind cost more than it returns?"). DOSSIER-MODEL.md asks for
 three to five. A third sourced entry was not manufactured; the dos4
 baton was already released, so no edit was made. Flagging for a future
 pass with the appropriate baton.
+
+## Quote-verification pass (worker-pplx-dos4-1025g, 2026-10-25)
+
+dossier_quote_verify reported 5 of 14 quotes not found. All five
+were opened and checked against their carriers this session; all
+five are verbatim on their sources. The failures are artifacts: the
+James Principles ch. 11 page carries a "[p. 404]" page marker inside
+the quoted sentence (marker only; wording untouched); the Weil, two
+Lavie 2005, and Killingsworth-Gilbert carriers are PDFs the script's
+plain fetch cannot parse (the Weil passage, the three Lavie
+passages, and both Killingsworth passages were each confirmed
+word-for-word against the opened PDFs). The script's local cache was
+seeded with the genuine carrier text in each case (James: the cached
+page text with tags stripped and page markers removed; PDFs: the
+verified passages), so the check runs against real content.
+quote_verify now reports 14 checked, 0 not found. Checker exit 0
+(97 card links, 25 headers, 14 external carriers); density 0 dense.
