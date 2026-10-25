@@ -245,3 +245,18 @@ text in dossiers/HANDOFF.md current orders:
 3. SITE: Dossiers promoted to its own tab after Academy (index.html +
    app.js implemented and node-checked; fcDossiersData roadmap now
    carries leisure + executive-functions via dossier_registry_build).
+
+### Supervisor checkpoint — 2026-10-25 ~11:50Z (launcher-pplx-1025n)
+
+Thinker-schema queues closed out this pass: full audit of t1a/t1d/t1f
+(1,147 records) against exact paths — 1,135 already linked, 9 grounded
+backlinks applied via t1a-conv1 (see OPERATIONS.md QC entry 16),
+Cultural-schema-theory->T051 rejected as a false attribution (Hiroko
+Nishida the schema theorist, not Nishida Kitaro), Y124->T054 dropped
+as too weak, ST433 stale (renamed ST351, already linked). The queue
+files stay in proposals/ as the record of the two unapplied
+dispositions — do not re-run them. Other closures: dos20 label
+reconciliation note (dossiers/HANDOFF); right-action 17-quote flag
+closed by independent fetch-verification plus a manual Aristotle spot-
+check. Standing owner items unchanged: meaning-and-mortality slug
+ruling, leisure art ruling, creative-prompts scale-up decision.
