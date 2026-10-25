@@ -353,3 +353,17 @@ supervisor exception request now covers a zero-count dossier, and
 supervisor QC entry 7's count of this dossier (one question) is
 superseded by this entry. "Final" below means the editing pass
 has ended, not publication readiness.
+
+## Unmapped-candidate recommendation (2026-10-25, same session)
+
+Chronic pain research is not mapped in any dossier (verified by
+explicit search this session). Card read in full: McCracken's
+1998 acceptance-of-pain study and the catastrophizing line
+(Sullivan et al. 2001), with "Here" links to B069 (the
+second-arrow principle) and the pain/mood principles. It is the
+evidence base for the pain-versus-suffering distinction this
+dossier maps. RECOMMENDATION for the supervisor: it belongs in
+this dossier's "What the body does with the first arrow"
+section's family, or with the body dossier if that is the
+intended holder; the mapping decision is supervisor-only and no
+edit was made.
