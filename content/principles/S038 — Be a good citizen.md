@@ -22,7 +22,7 @@ Seneca does not give one answer on public office. In Letter 73 he describes a ma
 
 The psychology parallel is also mixed. A systematic review of 53 articles on young adults found that "civic engagement demonstrates a heterogeneous relationship to well-being" ([Taylor & Francis, 2022](https://www.tandfonline.com/doi/full/10.1080/13676261.2022.2156779), abstract opened). The entry's Putterman (2018) citation could not be located and was not used. Claims in the original about Seneca advising Nero and Musonius's exile were not checked, and Bandura, Dewey and Kant are cited at second hand.
 
-**Plain words** Marcus grounds it in reason: if reason is common, we are fellow-citizens, and the world is in a manner a state. On office-holding, Seneca is genuinely divided — one letter praises the man who retires from affairs to nobler ones, another postpones the question of politics entirely. The modern research, a review of 53 studies, found no single answer either: civic engagement and wellbeing move together in some studies and not others.
+**Plain words** Marcus grounds it in reason: if reason is common, we are fellow-citizens, and the world is in a manner a state. The cited Seneca passages do not establish a universal duty to hold office — one discusses withdrawal from affairs, while another leaves political participation unresolved. The modern review reports mixed associations between civic engagement and wellbeing; that does not decide the Stoic question of civic duty.
 
 *For example:* Someone attends a local planning meeting about clinic funding, and speaks up because the outcome affects neighbours they will never meet.
 

@@ -20,7 +20,7 @@ In the model the chapter presents, the wellbeing of individuals, families and co
 
 (Aboriginal SEWB framework; Social Health Reference Group, 2004.)
 
-**Plain words** The framework treats a life as a set of connections: body, mind and emotions, family and kinship, community, culture, Country, spirituality. One of them can thin out while the others hold, and they change shape across a lifetime. So when mood and sleep go bad, one early question is which connection has gone quiet.
+**Plain words** The framework treats a life as a set of connections: body, mind and emotions, family and kinship, community, culture, Country, spirituality and ancestors. One of them can thin out while the others hold, and they change shape across a lifetime. As a reflection exercise, the page suggests asking whether any of these connections needs attention, without assuming that this explains a sleep or mood difficulty.
 
 *For example:* Imagine someone whose mood and sleep have gone bad and whose first thought is another app or supplement. Before that, a check of the connections is worth a look: when did they last eat with people, spend time on land they love, do something that felt like theirs? A missing connection is one place the trouble might be living.
 ## Psychology parallels

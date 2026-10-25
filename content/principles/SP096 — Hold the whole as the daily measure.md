@@ -20,7 +20,7 @@ The Fifth Part explains what the form amounts to. Things are conceived as actual
 
 The page's application, kept distinct from that doctrine: as a reflection exercise, once a day take the most annoying or painful event of the day and ask what larger process it belongs to. The exercise borrows the shape of the two conceptions; it is not Spinoza's account of eternity and claims no guaranteed relief.
 
-**Plain words** An event can be placed two ways: at a time and place, or inside the necessity that Spinoza says things follow from. The second way is what he calls eternity, and he is explicit that it is not duration — not a longer stretch of time, but a different relation to the whole. The page's reflection borrows only the shape: take the day's most annoying event once a day and ask what larger process it belongs to. No relief is guaranteed by the exercise.
+**Plain words** Spinoza contrasts locating things in time and place with conceiving them through the necessity of God's nature. Conceiving things under eternity does not mean extending their duration. The page's reflection borrows only the shape: take the day's most annoying event once a day and ask what larger process it belongs to. No relief is guaranteed by the exercise.
 
 *For example:* The evening question, what one process was this whole day part of? Asking it is the practice.
 ## Psychology parallels
