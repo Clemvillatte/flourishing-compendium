@@ -14,7 +14,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 
 The research supports the benefits and complicates the label "skill". In debiasing experiments, "perspective-taking decreased stereotypic biases on both a conscious and a nonconscious task" and "reduced evidence of in-group bias in the minimal group paradigm by increasing evaluations of the out-group" ([Galinsky and Moskowitz 2000](https://pubmed.ncbi.nlm.nih.gov/10794375/)). In negotiation, "perspective taking increased individuals' ability to discover hidden agreements and to both create and claim resources at the bargaining table" ([Galinsky et al. 2008, Psychological Science](https://www.psychologicalscience.org/journals/psychological-science/j.1467-9280.2008.02096.x/)).
 
-Two cautions follow from the same literature. First, the 2008 abstract adds that "empathy did not prove nearly as advantageous and at times was detrimental", so thinking about what the other person thinks differs from feeling what they feel. Second, accuracy is hard. Epley and colleagues propose that "people adopt others' perspectives by serially adjusting from their own", that adjustments "tend to be insufficient", and that egocentric bias "increased under time pressure" and "decreased with accuracy incentives" ([Epley et al. 2004](https://pubmed.ncbi.nlm.nih.gov/15382983/)). Perspective-taking can also change your own behaviour: in a prisoner's dilemma, those who took the perspective of an African-American target "defected more" than controls ([SSRN abstract](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=729145)).
+Two cautions follow from the same literature. The 2008 abstract adds that "empathy did not prove nearly as advantageous and at times was detrimental", so thinking about what another thinks differs from feeling what they feel. Second, accuracy is hard. Epley and colleagues propose that "people adopt others' perspectives by serially adjusting from their own", that adjustments "tend to be insufficient", and that egocentric bias "increased under time pressure" and "decreased with accuracy incentives" ([Epley et al. 2004](https://pubmed.ncbi.nlm.nih.gov/15382983/)). Perspective-taking can also change behaviour: in a prisoner's dilemma, those taking the perspective of an African-American target "defected more" than controls ([SSRN abstract](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=729145)).
 
 
 
@@ -23,7 +23,7 @@ Two cautions follow from the same literature. First, the 2008 abstract adds that
 No study here trains perspective-taking over weeks and measures the gain, so "learnable skill" rests on the effects of instructions and incentives. Todd et al. 2011, Ku et al. 2015, Ames 2004 and Mor et al. 2013 are cited at second hand.
 
 **Plain words**
-The picture is not a warm one. Thinking your way into another person's position works better than feeling warm about them; it wins deals and softens bias. But the mind builds the guess starting from itself and stops adjusting too early, so under time pressure the guess gets worse, and accuracy goes up when someone pays for it.
+The picture is not a warm one. Thinking your way into another person's position works better than feeling warm about them; it wins deals and softens bias. But the mind builds the guess from itself and stops adjusting too early, so under time pressure the guess gets worse, and accuracy goes up when someone pays for it.
 
 **For example**
 Before a hard conversation, write down what you think the other person wants. Then ask them to tell you, and note where you were wrong.
