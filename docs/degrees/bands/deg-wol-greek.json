@@ -2,10 +2,10 @@
  "band": "deg-wol-greek",
  "kind": "degree",
  "holder": "worker-pplx-greek-1",
- "phase": "phase-1-production (theory pilot first)",
+ "phase": "phase-0-pilot-repair (advisor round 2 repairs applied, review pending)",
  "modules": {
-  "mod-phil-1": "rebuilt to the skill (modules/deg-wol-greek/mod-phil-1.md); sources verified in ledgers/deg-wol-greek.md; advisor pilot review in progress"
+  "mod-phil-1": "rebuilt and repaired per advisor round 2 (modules/deg-wol-greek/mod-phil-1.md); outcome 2 now assessed; AR-01 classified from transcript; SEP introductions added; status DRAFT NOT CLEARED, advisor re-review pending"
  },
- "notes": "Owner directive 2026-10-25 band. Session 1 (worker-pplx-greek-1): baton claimed; mod-phil-1 rebuilt to the skill; four attached sources verified (AR-01, AR-04, AR-06, ST-03); scope benchmarking against opened curricula in progress. Legacy deg-philosophy modules 2-3 harvest pending.",
- "updated": "2026-10-25T08:21:08+00:00"
+ "notes": "Owner directive 2026-10-25 band. Session 1 (worker-pplx-greek-1): baton claimed; mod-phil-1 rebuilt then repaired per advisor round 2 (outcome 2 assessment, three-framework introduction, transcript-based AR-01 classification, workload recomputed to 4h41m from reader-facing word counts); deg-verify Block A findings consumed. Scope benchmarking against opened curricula in progress.",
+ "updated": "2026-10-25T08:26:18+00:00"
 }

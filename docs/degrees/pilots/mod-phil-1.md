@@ -95,17 +95,23 @@ Verification status of attached sources (from fcAcademyData, checked
 
 ## Rebuild (deg-wol-greek owner, 2026-10-25)
 
-The open items above are addressed: all four attached sources verified by
-the degree owner (oembed plus watch page, durations printed, credentials
-from institutional or CV pages, evidence in ledgers/deg-wol-greek.md);
-AR-06 and ST-03 content classified from their watch pages; the Sandel
-episode was confirmed to centre on Aristotle's teleology rather than a
-systematic three-way comparison, so the rebuilt module assigns it
-accordingly and carries the comparison teaching in a faded worked
-example. The complete rebuilt module, with instruction sequence, segments,
-retrieval activities, observable rubric and workload arithmetic, is at
-modules/deg-wol-greek/mod-phil-1.md. Status remains DRAFT NOT CLEARED
-until the pilot review (advisor) and the deg-verify Block A confirmation.
+The open items above are addressed as follows: all four attached sources
+verified (oembed plus watch page, durations printed, credentials from
+institutional pages; AR-01 additionally classified from the recording's
+transcript, evidence in ledgers/deg-wol-greek.md); AR-06 and ST-03
+classified and kept as optional material; the Sandel episode does not
+stage a side-by-side deontology-versus-consequentialism treatment, so the
+module assigns it to outcome 2 and the fairness-versus-purpose
+comparison, and teaches the three-way analysis through a faded worked
+example plus two Stanford Encyclopedia of Philosophy introductions. The
+complete rebuilt module is at modules/deg-wol-greek/mod-phil-1.md.
+Advisor round 2 found further defects (outcome 2 taught but never
+assessed; the worked example's exemplar sentence rewarding an unsupported
+exclusion; navigation errors in the wiki reading list; workload counts
+including markup) and the repairs are applied in the module; status
+remains DRAFT NOT CLEARED pending advisor re-review and the deg-verify
+Block A gate confirmation (Block A priority batch landed and was
+consumed; the full block is still in progress).
 
 ## What this pilot demonstrates
 

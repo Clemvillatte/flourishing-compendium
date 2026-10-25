@@ -63,3 +63,46 @@ progress).
 |---|---|---|---|
 | scope | pending: scope doc is a strategist proposal awaiting benchmark against opened authoritative curricula (this session's benchmark work recorded below) | strategist (gate owner) | - |
 | resource-verification (mod-phil-1 sources) | Block A priority batch confirmed by deg-verify (verify/deg-philosophy.md, 2026-10-25): AR-01, AR-04, AR-06, ST-03 all verified-video; findings consumed into this ledger | deg-verify-a | 2026-10-25 |
+
+## Corrections and additions (2026-10-25T08:48Z, worker-pplx-greek-1)
+
+Appended after advisor round 2; earlier entries above stand as history.
+
+- AR-01 duration record corrected: the second raw watch-page read returned
+  lengthSeconds 3308, player display 55:07, structured data 55:08. The
+  earlier "55:11 / lengthSeconds 3311" figure came from a prompt-processed
+  extraction and is withdrawn; the recording's duration is 55:07 (player) or
+  55:08 (structured), both printed on the watch page.
+- AR-01 content now classified from the recording's transcript, not the
+  uploader description: the signed timedtext URL returned 403 (IP-bound), and
+  the caption track was read through a transcript rendering service
+  (https://youtubetotranscript.com/transcript?v=MuiazbyOSqQ, opened
+  2026-10-25T08:40Z). The transcript shows: teleological justice (best
+  flutes to best flute players), politics as cultivating virtue toward the
+  good life, the Casey Martin golf cart case with fairness arguments
+  (carts for all, unfair advantage), Scalia's dissent (sports as
+  practices that honour excellences), Aristotle's defence of slavery,
+  the fit objection, and closing contrasts with Kant and Rawls. This
+  confirms the module's use of the episode for outcome 2 and the
+  fairness-versus-purpose comparison, and confirms it does not stage a
+  utilitarian-versus-deontologist dilemma analysis; that teaching is
+  carried by the module's worked examples and two Stanford Encyclopedia
+  of Philosophy introductions.
+- Sadler credential evidence corrected: the miad.academia.edu CV entry in
+  the sources table came from a search snippet, not an opened page. The
+  credential evidence of record is the deg-verify Block A file
+  (verify/deg-philosophy.md), whose author opened the MIAD biography page
+  (PhD Philosophy, Southern Illinois University Carbondale 2002; Instructor
+  of Philosophy and Religious Studies, Marist College 2011-2018).
+- Opened-time precision: the "opened (UTC)" stamps in the sources table
+  are minute-precision reconstructions from the session clock, not exact
+  per-fetch clock reads; treat them as approximate to within two minutes.
+- Opened for the module's three-framework introduction (and as framework
+  anchors): https://plato.stanford.edu/entries/ethics-deontological/ and
+  https://plato.stanford.edu/entries/consequentialism/ (both opened
+  2026-10-25T08:44Z, free, Stanford Encyclopedia of Philosophy).
+- Wiki principle dossiers opened and read in-session for the module
+  redesign: A001, A002, A003, A004, A005, A042, A043 (with A006 skimmed
+  for the optional reflection), plus the layer indexes; reader-facing word
+  counts measured with front matter and markup excluded (4015 words of
+  principles, 622 words of indexes).
