@@ -1,8 +1,12 @@
 {
- "batch": "dos31",
- "done": [],
- "note": "minted 2026-10-25 (owner-directed in-session); one dossier per band; see bands/dos31-manifest.json",
- "in_progress": "creation",
- "flagged": {},
- "notes": "Owner-directed mint 2026-10-25: registry entry added as planned; supervisor review of the mint requested (precedent: Hypo-egoic owner-directed intake). Registry flip and Academy splice remain supervisor-only."
+  "batch": "dos31",
+  "done": [
+    "creation"
+  ],
+  "note": "rev 1 (worker-pplx-dos31-1025c, 2026-10-25): creation.md written and checker-validated (exit 0, 46 card links, 9 external carriers); ledger docs/enrichment/sources/dossiers/creation.md records per-quote verification against carriers opened this session (Frankl antilogicalism PDF, Conner 2018 DOI page, Whitehead Garland entry, Bergson pg26163 raw download, Bergson Life and Consciousness reprint, Arendt kortina excerpt, Sennett via Jones et al. 2021, Rubinstein PMC4542587); boundary vs Creativity (dos32) held per DISAMBIGUATION; procreation cluster thin on wiki, flagged in dossier and here; one developed divergence (what is the making for, three positions); VSR practice with K324/E062/K225/K224; five story loglines from opened cards",
+  "in_progress": "",
+  "flagged": {
+    "procreation": "the wiki holds no card treating having children as making; nearest material is generativity/legacy research; owner-visible gap (prior worker flagged it too, confirmed by this sweep)"
+  },
+  "notes": "Owner-directed mint 2026-10-25: registry entry added as planned; supervisor review of the mint requested (precedent: Hypo-egoic owner-directed intake). Registry flip and Academy splice remain supervisor-only."
 }
