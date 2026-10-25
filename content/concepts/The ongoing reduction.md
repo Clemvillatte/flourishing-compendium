@@ -13,7 +13,7 @@ Husserl's late work, the Crisis of European Sciences and Transcendental Phenomen
 
 ### What the reduction involves
 
-The same entry notes that in the Crisis Husserl "can compare the performance of the epoché to the transition from a two-dimensional to a three-dimensional life (Hua 6/121 [1970: 119])", and that the reduction is a "more prolonged analysis that leads from the natural sphere back to (re-ducere) its transcendental foundation (Hua 1/21)". The Crisis grounds this in the lifeworld, "the world we live and feel at home in", which for Husserl remains the basis and meaning-foundation for scientific research.
+The same entry notes that in the Crisis Husserl "can compare the performance of the epoché to the transition from a two-dimensional to a three-dimensional life (Hua 6/121 [1970: 119])", and that the reduction is a "more prolonged analysis that leads from the natural sphere back to (re-ducere) its transcendental foundation (Hua 1/21)". The Crisis grounds this in the lifeworld, "the world we live and feel at home in", which for Husserl remains the basis and meaning-foundation for scientific research. The prolongation is why the page's practice is a returning rather than a one-time setting aside, since the natural attitude reasserts itself and the analysis has to be taken up again.
 
 ### Here
 
