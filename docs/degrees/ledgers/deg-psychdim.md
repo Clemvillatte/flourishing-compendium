@@ -148,6 +148,20 @@ opened event page.
 | The secret habits that control your life | [watch](https://www.youtube.com/watch?v=Ywec1MbeQDk), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=Ywec1MbeQDk&format=json), [credential](https://dornsife.usc.edu/wendy-wood/) | 6:18 | 2022-05-26 (watch page) | Wendy Wood, Provost Professor Emerita of Psychology and Business, USC | M7 overt behavioural (habits) |
 | Inaugural Lecture: Unravelling Early Self Regulation | [watch](https://www.youtube.com/watch?v=2ZS_f1cbrKk), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=2ZS_f1cbrKk&format=json), [event page](https://www.education.ox.ac.uk/event/inaugural-lecture-unravelling-early-self-regulation-professor-steven-howard/), [credential](https://www.education.ox.ac.uk/person/professor-steven-howard/) | 58:54 | not stated on the opened pages | Steven Howard, Senior Academic Research Leader in Child Development and Education, Oxford | M7 self-regulation; the opened event page describes the lecture as discussing why early self-regulation interventions often have small effects, and a research program on the nature, development and mechanisms of self-regulation |
 
+Additional inspection (2026-10-25, batch 13): lecture 1 (Introduction
+to Psychology, 29:37) had its chapter outline recorded (Introduction to
+and Requirements for the Course [00:03:40]; General Goals for the Course
+[00:10:03]; Examples of Materials Covered in the Course [00:13:08]) and
+chapter 1 read in full: Bloom opens the course as a comprehensive
+introduction to the study of the human mind, listing the range of topics
+(brains, children, language, sex, memory, madness, disgust, racism,
+love) and the questions the course addresses (why some people get
+depressed and others do not, whether childhood memories can be trusted,
+and others), plus course logistics (Peter Gray's Psychology textbook,
+Norton Reader, exams). This serves the M1 orientation row. Status for
+the chapter-1 segment: verified-video; the remaining segments are
+candidates until their transcripts are read.
+
 Additional inspections (2026-10-25, batch 12): lecture 12 (Emotions, Part
 II, 56:06) had its chapter outline recorded (Emotional Responses to
 Caregivers and Kin [00:00:00]; Q&A on Kin [00:15:44]; Evolutionary
