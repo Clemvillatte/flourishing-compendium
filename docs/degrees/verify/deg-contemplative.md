@@ -842,8 +842,26 @@ attach them with evidence on file.
 - Content coverage: the host's description states the 9 April 2025 lecture
   explores how Daoism shaped Chinese Buddhism in the second to sixth centuries CE,
   with Daoist scripture, ritual and monastic forms developing on Buddhist models.
+  Coverage-confirmation (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=5yaKnhPVq8s&current_language_code=en,
+  opened 2026-10-25; noted by the extraction to contain transcription glitches)
+  confirms the lecture's substance on the recording: Daoist scriptures, ritual
+  practices, a professional priesthood and monasteries "all on Buddhist models",
+  with the two religions growing "in tandem"; Daoist texts incorporating Buddhist
+  terms, tales and ideas (time, space, afterlife, the wider world) and thereby
+  spreading Buddhism through Chinese society; Daoist writings "self-suppressed
+  or altered" erasing traces of Buddhist influence; the Lingbao scriptures' use
+  of Buddhist material including the "Secret Language of the Great Brahma"
+  celestial writing; the Daoist body of "36,000 spirits" contrasted with
+  Buddhist conceptions of self; the Dunhuang/Tao Hongjing transmigration case
+  (a "Grand Spirit" from outside the body responsible for rebirth); and the
+  methodological argument against treating Daoism as "a weird and isolated set
+  of superstitions". Caveats: third-party transcript page, no timestamps in the
+  retrieved text; playback itself not opened.
 - Relevant segment: whole lecture, 57:21.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (2026-10-25); coverage confirmed against
+  a third-party transcript page (no timestamps); identity, access and duration
+  verified earlier.
 
 ### M02-B03: Buddhist Spirituality and the Contemplation of Nature (Charles Hallisey, Brown)
 
