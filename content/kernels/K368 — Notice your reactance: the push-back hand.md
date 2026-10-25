@@ -14,7 +14,7 @@ Try this with a friend: put your palms together and start gently pushing. Usuall
 
 The same thing happens in conversations. When someone tells you what to change, notice whether your first thought is *why they're wrong*. That's the push-back hand. It happens inside you too: "You should exercise" often meets "No, I'm too tired." Once you notice the push-back, you have a choice — keep pushing (and keep getting pushed back), or stop pushing and let the reasons for change come from your side instead.
 
-The palm-pushing demonstration was attributed in the original seed to Burke, Lundahl & Arkowitz (Eds.), Motivational Interviewing in the Treatment of Psychological Problems (3rd ed., Guilford Press, 2025), ch. 1, printed p. 1. The publisher's page confirms the volume itself — third edition, those editors, 330 pages — but the demo's chapter and page could not be verified against the book's text. The demonstration is a teaching illustration, not an empirical claim.
+The palm-pushing demonstration was attributed to Burke, Lundahl & Arkowitz (Eds.), Motivational Interviewing in the Treatment of Psychological Problems (3rd ed., Guilford Press, 2025), ch. 1, printed p. 1. The publisher's page confirms the volume itself — third edition, those editors, 330 pages — but the demo's chapter and page could not be verified against the book's text. The demonstration is a teaching illustration, not an empirical claim.
 
 ### Protocol
 

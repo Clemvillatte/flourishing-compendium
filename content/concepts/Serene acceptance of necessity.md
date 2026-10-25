@@ -7,7 +7,7 @@ file: "Serene acceptance of necessity"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Serene acceptance of necessity is the Stoic discipline of wanting what happens rather than demanding that what happens match one's wishes. Its seed text is chapter 8 of Epictetus's Enchiridion; the original entry notes an echo in Spinoza's Ethics Part Five.
+Serene acceptance of necessity is the Stoic discipline of wanting what happens rather than demanding that what happens match one's wishes. Its source text is chapter 8 of Epictetus's Enchiridion; the original entry notes an echo in Spinoza's Ethics Part Five.
 
 > "Don't demand that things happen as you wish, but wish that they happen as they do happen, and you will go on well" (Epictetus, Enchiridion 8, [MIT Classics](https://classics.mit.edu/Epictetus/epicench.html)).
 

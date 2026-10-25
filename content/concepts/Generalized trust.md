@@ -44,7 +44,7 @@ A study of perceived inequality found, in a mediation analysis, that "perception
 - [Mental health and social trust: age and religiosity as moderators among young people in Croatia and Slovenia, Taylor & Francis, 2025](https://www.tandfonline.com/doi/full/10.1080/21515581.2025.2456270)
 - [On Rule of Law, Civic Virtues, Trust, and Happiness, Springer](https://link.springer.com/article/10.1007/s11482-023-10163-2)
 - [Power or opportunity? Perceived inequality on life satisfaction, Asian Journal of Social Psychology, Wiley](https://onlinelibrary.wiley.com/doi/full/10.1111/ajsp.12617)
-- Seed references: Putnam, 2000; Uslaner, 2002, The Moral Foundations of Trust
+- References: Putnam, 2000; Uslaner, 2002, The Moral Foundations of Trust
 
 ## Cited in psychology parallels
 

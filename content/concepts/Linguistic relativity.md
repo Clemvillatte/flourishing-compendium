@@ -30,7 +30,7 @@ My principles carry the finding across tracks: language as cultural practice, th
 ## Sources
 
 - [Boroditsky, L. (2011). How Language Shapes Thought. Scientific American 304(2), 62-65 — full text PDF (University of Victoria)](https://web.uvic.ca/~dbub/Cognition_Action/SpecialTopicsEssays_files/How%20Language%20Shapes%20Thought.pdf)
-- [Lupyan et al., 2020 — see seed source list; citation details pending verification]
+- Lupyan et al., 2020
 - Boroditsky, 2001
 - Lupyan, 2012
 

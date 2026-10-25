@@ -25,7 +25,7 @@ For depression the authors suggest that the style "may so intensify the experien
 
 ### Scope
 
-These findings are correlations from questionnaires, mostly in Japan and Australia and with university students. The seed phrase "predicts distress and interpersonal dysfunction" goes further than the review, which did not combine the effect sizes and calls for studies in Western samples. It also notes one exception to the pattern, a link with emotional intelligence that disappeared once coping was included.
+These findings are correlations from questionnaires, mostly in Japan and Australia and with university students. The phrase "predicts distress and interpersonal dysfunction" goes further than the review, which did not combine the effect sizes and calls for studies in Western samples. It also notes one exception to the pattern, a link with emotional intelligence that disappeared once coping was included.
 
 ### Here
 

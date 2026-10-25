@@ -33,7 +33,7 @@ My use is a reading practice: a great statement can be taken as a doctrine to be
 ## Sources
 
 - Sanatana Rahasya, "Tat tvam asi: three readings" (Shankara, Ramanuja, Madhva). [Article](https://www.sanatanarahasya.com/philosophy/darshanas/tat-tvam-asi-three-readings/)
-- Shankara's tradition on Chandogya 6.8.7 (kept from seed; see correction note above)
+- Shankara's tradition on Chandogya 6.8.7 (see correction note above)
 
 ## Cited in philosophy parallels
 

@@ -31,6 +31,6 @@ Thanissaro's essay presses the definition toward practice: "As one world falls a
 
 - Thanissaro Bhikkhu, "Samsara" (2002). [Access to Insight](https://accesstoinsight.org/lib/authors/thanissaro/samsara.html)
 - SN 15.11, Duggata Sutta, tr. Thanissaro Bhikkhu. [Access to Insight](https://accesstoinsight.org/tipitaka/sn/sn15/sn15.011.than.html)
-- [Wikipedia Saṃsāra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra) (kept from seed)
+- [Wikipedia Saṃsāra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra)
 
 ## Cited in philosophy parallels

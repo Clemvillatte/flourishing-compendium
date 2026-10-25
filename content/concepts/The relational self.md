@@ -38,7 +38,7 @@ R001, R026 and R040 ground it in Ubuntu and Māori practice, and R130 extends it
 
 
 
-- [[I and Thou]] — Buber's dialogue, named in this page's seed as its source
+- [[I and Thou]] — Buber's dialogue, the entry's named source
 - [[The Between]] — Buber's name for the shared space of relation, which R099 treats as ontological
 - [[Being-with (Mitsein)]] — the Heideggerian parallel I pair via E026
 - [[Ubuntu]] — personhood constituted through others, the parallel R001 carries

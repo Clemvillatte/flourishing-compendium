@@ -40,7 +40,7 @@ Damen and colleagues tested whether a deliberate focus on the other person's poi
 
 - [Epley, Keysar, Van Boven and Gilovich, "Perspective taking as egocentric anchoring and adjustment", Journal of Personality and Social Psychology 87(3), 2004, 327-339 (PubMed abstract)](https://pubmed.ncbi.nlm.nih.gov/15382983/): serial adjustment from one's own perspective
 - [Damen, van der Wijst, van Amelsvoort and Krahmer, "Can the curse of knowing be lifted?", Journal of Experimental Psychology: Learning, Memory, and Cognition 46(8), 2020, 1407-1423 (Tilburg University record)](https://research.tilburguniversity.edu/en/publications/can-the-curse-of-knowing-be-lifted-the-influence-of-explicit-pers): the description of egocentric projection and the attention-instruction result
-- Further reading, not drawn on above: Holmes, 1968 (classic projection research named in the original seed)
+- Further reading, not drawn on above: Holmes, 1968 (classic projection research)
 
 
 ## Cited in psychology parallels

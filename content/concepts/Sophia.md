@@ -24,6 +24,6 @@ The object of sophia is the highest by nature, not the most useful to us: "From 
 ## Sources
 
 - Aristotle, Nicomachean Ethics, Book VI, tr. W. D. Ross. [Text of Book VI](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)
-- [Wikipedia Sophia](https://en.wikipedia.org/wiki/Sophia) (kept from seed)
+- [Wikipedia Sophia](https://en.wikipedia.org/wiki/Sophia)
 
 ## Cited in philosophy parallels

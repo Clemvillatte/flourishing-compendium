@@ -21,7 +21,7 @@ Van Dongen and colleagues restricted 48 healthy adults to 4, 6 or 8 hours in bed
 
 ### Limits
 
-Yoo's report is a short two-group fMRI study, and its authors say "the implication of our finding remain speculative." It tested one night of total deprivation and passive viewing of pictures, not everyday sleep restriction. Alhola and Polo-Kantola (2007), the third seed source, is cited at second hand.
+Yoo's report is a short two-group fMRI study, and its authors say "the implication of our finding remain speculative." It tested one night of total deprivation and passive viewing of pictures, not everyday sleep restriction. Alhola and Polo-Kantola (2007) is cited at second hand.
 
 ### Here
 

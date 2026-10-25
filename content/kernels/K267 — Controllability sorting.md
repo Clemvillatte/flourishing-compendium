@@ -10,7 +10,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K267** — Controllability sorting
 
-Take a current concern and sort it into two columns: what is within your power (opinion, aim, desire, effort) and what is not (outcomes, others' opinions, the body, reputation, events). Then spend your energy on the first column. The exercise operationalises the Stoic dichotomy of control, and the psychological literature on locus of control gives the sorting an empirical cousin worth knowing about, with weaker and more mixed findings than the seed text suggests. Reach for it when a concern has become a knot of both columns at once.
+Take a current concern and sort it into two columns: what is within your power (opinion, aim, desire, effort) and what is not (outcomes, others' opinions, the body, reputation, events). Then spend your energy on the first column. The exercise operationalises the Stoic dichotomy of control, and the psychological literature on locus of control gives the sorting an empirical cousin worth knowing about, though its findings are weaker and more mixed. Reach for it when a concern has become a knot of both columns at once.
 
 ### Protocol
 

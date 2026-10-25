@@ -32,6 +32,6 @@ Sociocultural · Psychological science
 ## Sources
 
 - Latané, Bibb. "The psychology of social impact." American Psychologist 36(4), 1981, 343-356. [Abstract](https://scispace.com/papers/the-psychology-of-social-impact-rmbkpyfw8x)
-- Latané, American Psychologist 36(4) 343-356 (kept from seed)
+- Latané, American Psychologist 36(4) 343-356
 
 ## Cited in philosophy parallels

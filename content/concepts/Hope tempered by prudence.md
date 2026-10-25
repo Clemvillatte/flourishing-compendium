@@ -25,7 +25,7 @@ Enchiridion 2 states what desire and aversion each assume: "desire contains in i
 
 ### Scope
 
-I did not locate a Stoic passage that says "hope tempered by realism" in those words, which the earlier seed attributed to Epictetus. Treat the phrase as my paraphrase.
+I did not locate a Stoic passage that says "hope tempered by realism" in those words, which an earlier version of the entry attributed to Epictetus. Treat the phrase as my paraphrase.
 
 ## Related concepts
 - [[T013 — Seneca]]: the practice the page names from the Stoic side.

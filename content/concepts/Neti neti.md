@@ -31,7 +31,7 @@ According to Wikipedia, Shankara reads neti neti as negating all empirical attri
 - [Neti Neti (Asivana Yoga)](https://asivanayoga.com/blogs/yoga-mantras/neti-neti)
 - [Source and Meaning of Neti Neti (Vedaboys)](https://www.vedaboys.com/what-is-the-meaning-of-neti-neti/)
 - [Brihadaranyaka Upanishad (Wikipedia)](https://en.wikipedia.org/wiki/Brihadaranyaka_Upanishad)
-- Seed reference: [Neti neti (Wikipedia)](https://en.wikipedia.org/wiki/Neti_neti)
+- [Neti neti (Wikipedia)](https://en.wikipedia.org/wiki/Neti_neti)
 
 ## Cited in philosophy parallels
 

@@ -7,7 +7,7 @@ file: "Keystone habits"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-K"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter K", "parent": ""}
 ---
-Keystone habits are habits whose effects spill past their own domain: change one, and unrelated behaviors tend to shift with it. The term comes from Charles Duhigg's The Power of Habit (2012); James Clear, whose Atomic Habits (2018) is this page's seed source, gives the compact definition:
+Keystone habits are habits whose effects spill past their own domain: change one, and unrelated behaviors tend to shift with it. The term comes from Charles Duhigg's The Power of Habit (2012); James Clear gives the compact definition:
 
 > "We have habits everywhere in our lives, but certain routines — keystone habits — lead to a cascade of other actions because of them." ([James Clear](https://jamesclear.com/keystone-habits))
 
