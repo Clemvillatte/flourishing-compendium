@@ -474,9 +474,7 @@ chapter 1 (00:00:00 to 00:13:53) was read in full in the batch 23 raw re-fetch,
 substantiating the all-six-chapters status from the raw page text.
 
 Provenance correction (batch 23): the fetch used for this entry carried a return-as-is
-prompt rather than being fully unprompted; the entry was re-verified against a raw
-unprompted re-fetch of the same page in the batch 23 pass, which returned the identical
-transcript text.
+prompt rather than being fully unprompted; the entry was re-verified in the batch 23 pass against a raw unprompted re-fetch of the same page: the word-level comparison of the transcript bodies returned 84 differences (in the inspected sample, sentence-boundary spacing joins), and the ASCII-alphanumeric sequences, with punctuation, whitespace and case removed, are two identical strings of 43,710 characters; no claim of exact punctuation or quotation equality is made.
 
 Additional inspection (2026-10-25, worker-pplx-psychdim-2, batch 22): lecture 11 (Evolution,
 Emotion, and Reason: Emotions, Part I, 53:15) chapters 4 to 6 read in full from the
@@ -610,21 +608,16 @@ fetch (prompt omitted, the batch 23 standard); chapters 4 and 5 were verified pr
 00:09:16): follow-ups on newborns favoring their own language (auditory exposure beginning
 in utero) and the Let Him Have It court case (tried and found guilty, executed 1957,
 pardoned 1988); nonhuman communication systems contrasted with human language (vervet monkey
-calls, the honeybee waggle dance as a continuous analog signal, variable birdsong); the
-claim that no nonhuman system has phonology, morphology, syntax, combinatoriality or
-arbitrary technical names; the trained-ape controversy (Kanzi; Nim Chimpsky) with Bloom's
+calls, the honeybee waggle dance as a continuous analog signal, variable birdsong); the claim that no nonhuman system in any real sense has phonology, morphology, syntax, combinatorial systems or arbitrary names, with Bloom's almost-certainly qualification; the trained-ape controversy (Kanzi; Nim Chimpsky) with Bloom's
 assessment (against the Gray textbook's more credulous view: a handful of word-like signs
 after years of training, utterances without recursion and largely repetitive, citing the
-Nim-eat samples; Gleitman's remark that one of the subjects was a neurologist who could not
-produce a grammatical sentence); why apes failing language is unsurprising given the
+Nim-eat samples; Gleitman's remark that if any normally developing child spoke like these sampled utterances, his parents would rush him screaming to a neurologist); why apes failing language is unsurprising given the
 evolutionary split; and Bloom's opinion that teaching apes sign language is misguided, with
 wild systems the interesting study. Serves the M3 cognitive elective. Chapter 2 (The
 Relationship between Language and Thought, 00:09:16 to 00:12:39): the skipped subfields
 (language in the brain, aphasias, specific language impairment, dyslexia, perception and
 production, reading as a cultural invention versus language as an instinct); and the two
-language-and-thought questions framed for the next course segment: is language necessary for
-abstract thought (Bloom's no: prelinguistic babies and nonlinguistic animals reason) and
-does language structure thought (linguistic relativity, English versus Korean). Serves the
+language-and-thought questions framed for the next course segment: is language necessary for abstract thought (framed as an open question, to be studied by looking at creatures without language such as babies and chimpanzees and how smart they are) and does language structure thought (linguistic relativity, English versus Korean). Serves the
 M3 cognitive elective. Chapter 3 (Question and Answer on Language, 00:12:39 to 00:18:06):
 individual differences in language learning (Bloom's Einstein-did-not-speak-until-age-four anecdote, explicitly flagged by Bloom as not a true story; slight female advantage; large
 genetic factor; hemispheric bases); bilingual children distinguishing and learning both
