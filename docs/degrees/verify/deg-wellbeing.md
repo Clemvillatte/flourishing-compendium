@@ -449,3 +449,13 @@ standard.
 - Relevant segment: whole colloquium, 1:18:27.
 - Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
+
+### SRC-M08-S27: Belonging — the Science and Solace of Good Relationships (positiveorgs.bus.umich.edu) — NOT VERIFIED
+
+- Identity and access: NOT VERIFIED. The catalog page
+  https://positiveorgs.bus.umich.edu/videos/belonging-the-science-and-solace-of-good-relationships/
+  returned an HTTP client error on a single fetch attempt (2026-10-25);
+  no retry was made per the no-retry rule for blocked pages. Identity
+  rests on the catalog title only.
+- Verification status: unverified (page blocked, 2026-10-25) — retry
+  permitted in a later session.

@@ -1322,3 +1322,32 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
 - Relevant segment: whole lecture, 1:03:26.
 - Verification status: verified-video (2026-10-25); credentials from the
   description, institutional page pending.
+
+### M05-YV-05: Patanjali's Yoga Sutras — 22, New Course (Swami Tattwamayananda, San Francisco Vedanta Society)
+
+- Identity and access: page opened 2026-10-25 at
+  https://sfvedanta.org/patanjalis-yoga-sutras-22-new-course/; whether
+  viewing requires login is not stated on the page. Part of a series
+  co-hosted by the Stanford Hindu Students Association and the South Bay
+  Lecture Series on Vedic Scriptures.
+- Duration: 01:18:16 (printed on the opened page).
+- Instructor credentials: Swami Tattwamayananda, San Francisco Vedanta
+  Society (per the opened page).
+- Language: English.
+- Content coverage: the opened page identifies this as lecture 22,
+  "Vibhuti Pada Verses 5-6 | Samyama 3" — matching the Patanjali Yoga
+  Sutra series; no further description of the lecture's content is given
+  on the page, so coverage rests on the title.
+- Relevant segment: whole lecture, 01:18:16.
+- Verification status: verified-page (2026-10-25); coverage is
+  title-only, flagged for confirmation against the recording.
+
+### M05-YV-04: The Yoga Sutras of Patanjali — Prof. Ed Bailey (yoga.org) — NOT VERIFIED
+
+- Identity and access: NOT VERIFIED. The catalog page
+  https://yoga.org/videos/the-yoga-sutras-of-patanjali-prof-ed-bailey/
+  returned an HTTP client error on a single fetch attempt
+  (2026-10-25); no retry was made per the no-retry rule for blocked
+  pages. Identity rests on the catalog title only.
+- Verification status: unverified (page blocked, 2026-10-25) — retry
+  permitted in a later session.
