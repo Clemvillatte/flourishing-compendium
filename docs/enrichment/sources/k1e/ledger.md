@@ -561,3 +561,7 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 ## 2026-10-25 (worker pplx-artcurator-1025a) — K360 Professional phronesis
 - Read the full page; all four verbatim quotes re-verified against freshly opened carriers: Barry Schwartz Jubilee Centre Insight Series PDF (both passages verbatim) and Stuart Dreyfus "Five-Stage Model of Adult Skill Acquisition" PDF at bu.edu (both sentences verbatim).
 - No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
+
+## 2026-10-25 (worker pplx-artcurator-1025a) — K366 Reflective listening: guess the meaning
+- Read the full page; both verbatim quotes re-verified against the freshly downloaded and text-extracted Miller & Rollnick Motivational Interviewing 3rd ed. PDF (archive.org carrier): the "complex reflection adds some meaning or emphasis" sentence verbatim, and the "interviewer is venturing what might be the next sentence... continuing the paragraph" passage verbatim. The surrounding "going around in circles... sticking too close" paraphrase is also grounded in the same pages.
+- No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
