@@ -457,3 +457,11 @@ found"; the actual output is 5 checked, 0 not found. The sixth
 extraction was the parser pseudo-quote itself, which no longer
 exists after the two-word renderings were unquoted; the five real
 quotes all check clean.
+
+## Story spot-checks (worker-pplx-dos25-1025g, 2026-10-25)
+
+Three story cards opened and checked against their loglines: ST391
+Backsliding into Abundance (Mahāsaccaka Sutta, MN 36), ST138 Flow in
+the Everyday (Csikszentmihalyi's experience sampling), ST307 The
+Rock Climbers' Absorption (the original flow studies). All three
+loglines match the cards' subjects and sources. No defects found.
