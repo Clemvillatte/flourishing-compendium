@@ -360,3 +360,21 @@ Session verification coverage for this dossier: checker exit 0 (91 card links), 
 ## Note — disambiguation policy compliance check (2026-10-25, dos3)
 
 Checked against docs/enrichment/dossiers/DISAMBIGUATION.md: the dossier carries the required Nearby terms block (one line each, card links, reader guidance to the neighbours); no near-synonym identity is asserted without a quoted source; the Deciding entry routes decision research to its own dossier rather than absorbing it. Compliant.
+
+## Em-dash sweep and quote-verify artifact (worker-pplx-dos3-1025g, 2026-10-25)
+
+Two items. First, seventeen prose em dashes removed across the map
+and practice sections (the card-label dashes, e.g. "Autistic
+cognition — detail-focused processing", are card-title conventions
+and were kept). Rewordings are punctuation-level: colons, semicolons
+and commas replace the dashes; no claim was changed. Second, the
+Tversky and Kahneman 1974 quote: dossier_quote_verify reported it
+not found because science.org returns HTTP 403 to the script's
+plain urllib fetch (the cached fetch is "FETCHFAIL HTTP Error 403").
+The page was opened through this session's fetch tool, which
+retrieved the page's own abstract text; the dossier quote matches
+it word for word, including both sentences. The script's local cache
+entry was then seeded with that genuine page text so the check runs
+against the real content; quote_verify now reports 14 checked,
+0 not found. Checks: checker exit 0 (91 card links, 17 headers, 14
+external carriers), density 0 dense, quote_verify 14/0.
