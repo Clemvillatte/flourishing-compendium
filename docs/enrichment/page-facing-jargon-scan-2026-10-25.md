@@ -86,4 +86,9 @@ remaining hits, all legitimate source language (MacIntyre's "inherited debts and
 obligations" x2 in Role ethics; "worry session" in Worry research). Four short pages
 were expanded from their own verified page quotes to clear the 150-word prose bar
 (Ready-to-hand, Recovery science, Erikson's psychosocial theory, Naive realism).
-Supervisor: no further routing needed for this diagnostic.
+Supervisor: the workflow-language cleanup is complete and needs no further routing. This
+record claims only that — page-facing workflow jargon is gone from the 55 pages and
+validators pass. It is not a claim of scholarly source-fidelity or prose approval;
+advisor QC rounds 2-4 repaired over-readings, unsupported claims and provenance errors
+found during review, and the Aristotle NE II citation on Competence stands unverified
+(flagged for supervisor: a carrier check or removal is an owner decision).
