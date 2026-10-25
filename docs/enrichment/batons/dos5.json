@@ -51,5 +51,7 @@
    "from": "worker-pplx-1025i-wis",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T10:43:27+00:00"
 }
