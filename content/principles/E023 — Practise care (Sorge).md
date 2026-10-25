@@ -22,7 +22,7 @@ The structure has three parts: being ahead of oneself, being already in a world,
 
 Heidegger then gives an old fable in which Care first shaped a creature of clay, and Saturn judges that "since 'Care' first shaped this creature, she shall possess it as long as it lives" (§42).
 
-**Plain words** Care, for Heidegger, is the shape of a human life, not a mood. You are always leaning toward what is coming, you are always already placed in a situation you did not pick, and you are always dealing with things. Heidegger says care is concern and solicitude "even if only privatively", so a carefree attitude is not an exit from it.
+**Plain words** A human life has a shape before it has a mood: it is already underway in a situation it did not pick, busy with what is at hand, and leaning toward what is next. Heidegger calls that shape care. His fable makes the possession lifelong, since Care shaped the creature and Saturn ruled she keeps it. The attitude version — worry, or carefreeness — sits on top of the shape and does not replace it.
 
 *For example:* Choosing what to eat for dinner already looks ahead (to hunger tomorrow), starts from where you are (this kitchen, this budget) and deals with things (the pan, the food).
 

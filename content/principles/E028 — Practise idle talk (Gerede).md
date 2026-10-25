@@ -20,7 +20,7 @@ Heidegger opens the section by saying that the expression "is not to be used her
 
 So the entry's question, "am I saying what I mean, or repeating what they say?", is a use of the idea and not Heidegger's own advice. His own claim is that idle talk is unavoidable, because "in it, out of it, and against it, all genuine understanding, interpreting, and communicating, all re-discovering and appropriating anew, are performed." What he warns of is its closing-off effect: it "discourages any new inquiry and any disputation."
 
-**Plain words** Most of what we know, we know because someone said it. That is not a fault. The risk is that repeating it feels like understanding it. A quick test: can you say where the claim comes from and what would show it wrong?
+**Plain words** Heidegger's target is not gossip as a vice. His point is structural: nearly everything a person understands, they got from others, and the borrowedness is unavoidable — the understanding genuinely happens in it, out of it, and against it. The danger he names is that the borrowed version discourages inquiry. So the question the page draws from it: can you say where the claim comes from, and what would show it wrong? If not, you may be fluent rather than knowing.
 
 *For example:* In a meeting everyone says the reorganisation is a disaster. One person asks who has read the plan itself. The room's certainty had been passed along, and the question reopens the inquiry that idle talk tends to close.
 

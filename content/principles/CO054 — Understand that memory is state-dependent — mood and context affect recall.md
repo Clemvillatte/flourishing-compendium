@@ -20,7 +20,7 @@ The second is mood. Eich's 1995 overview of his own research notes that "events 
 
 So the principle holds in a careful form. Your mood at the moment of recall shapes which memories come easily, and in depression this bias is well documented. That it holds for anxiety and threatening memories is plausible but is not shown in these sources.
 
-**Plain words** The mood you are in while remembering tilts which memories come easily. In depression the pull toward sad memories is well documented, and positive ones are the harder to reach. A memory search done while low is a biased sample. Judge the whole of your life on a different day from the worst one.
+**Plain words** Memory is not a neutral filing system. The classic diving experiment pointed one way — where you learned, there you recalled best — though a 2021 replication could not reproduce it, so hold that part loosely. The firmer finding is mood congruence: what you remember is tilted toward what you are feeling now. In depression the tilt is well documented, and positive memories are the hardest to reach. Judge the whole of your life on a different day from the worst one.
 
 *For example:* After a bad week you list everything that has gone wrong in your career and the list looks damning. That list was made by a mood that favours the negative entries. Write it down, then reread it in a steadier hour before treating it as the verdict.
 
