@@ -82,15 +82,19 @@ reference, unique source ids in brackets):
   SRC-M09-005, M08-P07, M08-S26; blocked web pages: M05-YV-04 (yoga.org),
   SRC-M08-S27 (umich positiveorgs); dual-figure durations: M04-R15 (catalog
   1:00:40 vs watch page 53:26), M08-P11 (46:08 vs 44:02), M06-AT06, Gilbert
-  workshop parts; title-only coverage: M08-P05, M08-P14, M08-S10, M04-R12,
-  M05-YV-05; Dreyfus restored edition (M04-E03) is only 3 lectures
-  restored — incomplete resource. Many speakers' institutional credential
-  pages remain pending (noted per entry; institutional pages were
-  robots-blocked or rate-limited for Hewstone,
-  Kitayama, D. S. Wilson, Bronk, Cacioppo, Neff; resolved on opened pages
-  since: Sherman, Meinert, Balasubramanian, Peng, Gopnik, De Moor,
-  Christakis, Fredrickson, Markus, Nakamura, Goldman, Turner, Sadler
-  (supplementary), Niemiec (partial), Shabane, Grigoletto, Mika, Haslam). Addendum: the supervisor's routed
+  workshop parts; title-only coverage: M04-R12,
+  M05-YV-05 (page gives no description of content); M08-P05, M08-P14,
+  M08-S10, M08-S21 were title-only at first read but have since been
+  upgraded to chapter-list coverage read from their watch pages
+  (re-fetch, 2026-10-25); Dreyfus restored edition (M04-E03) is only 3
+  lectures restored — incomplete resource. Many speakers' institutional
+  credential pages remain pending (noted per entry; institutional pages
+  were robots-blocked or rate-limited for Bronk and Neff; resolved on
+  opened pages since: Sherman, Meinert, Balasubramanian, Peng, Gopnik,
+  De Moor, Christakis, Fredrickson, Markus, Nakamura, Goldman, Turner,
+  Sadler (supplementary), Niemiec (partial), Shabane, Grigoletto, Mika,
+  Haslam, Kitayama, Hewstone, D. S. Wilson (both entries), Cacioppo —
+  the last four via Wikipedia REST retrieval). Addendum: the supervisor's routed
   AR-05/ST-01 duration flag is RESOLVED — AR-05 watch page re-read 1:14:59
   (catalog 1:15:33 rejected); ST-01 is dual-figure on the page itself
   (player 29:09 vs listing 29:28, catalog matches the listing). Vocabulary
