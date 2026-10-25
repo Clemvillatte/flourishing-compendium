@@ -124,6 +124,20 @@ A last warning belongs to the whole theme. [Instrumental reason](https://clemvil
 
 ## Where the traditions genuinely disagree
 
+### Is deviation from the rational norm a defect?
+
+The heuristics and biases program gives the mind's shortcuts a double verdict in its founding abstract:
+
+> "These heuristics are highly economical and usually effective, but they lead to systematic and predictable errors." ([Tversky and Kahneman 1974, Science](https://www.science.org/doi/10.1126/science.185.4157.1124))
+
+Gigerenzer's programme states the disagreement between the two readings in one passage, describing the view it argues against:
+
+> "The heuristics and biases program of Kahneman and Tversky used the term with a negative connotation: Reasoning errors reveal human biases that, if overcome, would result in better decisions. In this view, a bias is defined as the difference between human judgment and a ‘‘rational’’ norm, often taken as a law of logic or probability, such as statistical independence. In contrast to this negative use of bias, simple heuristics are perhaps best understood from the perspective of pattern recognition and machine learning, where there are many examples of how a biased induction algorithm can predict more accurately than an unbiased one." ([Gigerenzer and Brighton 2009, Topics in Cognitive Science](https://pure.mpg.de/rest/items/item_2099728_9/component/file_2563980/content))
+
+That last clause is the programme's central finding, and its summary definition runs in the same direction: "Heuristics are efficient cognitive processes that ignore information", with "less information, computation, and time can in fact improve accuracy" as the less-is-more result ([Gigerenzer and Brighton 2009](https://pure.mpg.de/rest/items/item_2099728_9/component/file_2563980/content)). The two sides also disagree on method: the fast-and-frugal programme wants heuristics studied as testable models, and records that "Gigerenzer (1996) argued that they should be replaced by models, whereas Kahneman and Tversky (1996, p. 585) insisted that this is not necessary because ‘representativeness (like similarity) can be assessed empirically; hence it need not be defined a priori.’" ([Gigerenzer and Brighton 2009](https://pure.mpg.de/rest/items/item_2099728_9/component/file_2563980/content), quoting the exchange).
+
+What the dispute turns on is the measuring stick. If the standard is a law of logic or probability, the shortcuts deviate, and the deviation is the finding; the heuristics review names the conditions, low predictability and small samples, where ignoring part of the information can beat weighting and adding all of it ([Gigerenzer and Gaissmaier 2011](https://pubmed.ncbi.nlm.nih.gov/21126183/)). On the defect reading the errors are to be overcome; on the tool reading the simplicity is the skill, and [Ecological rationality](https://clemvillatte.github.io/flourishing-compendium/#card=Ecological%20rationality) holds a rule good or bad only relative to the environment it is used in. I hold the less-is-more findings and the bias catalogue together, which the two measures permit. What I cannot yet do from these sources is say in advance which measure a given judgment should be held to; both programmes are still building that theory.
+
 ### Does cognition extend into the world, or only embed itself in it?
 
 Clark and Chalmers's criterion for their side of the boundary question:
@@ -139,6 +153,22 @@ Clark's side of the answer, in the same exposition:
 > "Similarly, Clark would deny Rupert's claim that the hypothesis of embedded cognition can equally well save the phenomena that the hypothesis of extended cognition was intended to capture and do so while requiring less revision of existing ideas about how cognitive systems operate." ([Shapiro and Spaulding, SEP "Embodied Cognition", §5.2](https://plato.stanford.edu/entries/embodied-cognition/))
 
 The two positions answer the same question, whether the notebook functions as part of the cognitive system or as a tool the system uses, with opposing answers, each stated above. What the dispute turns on is whether parity of function is enough for constitution, or whether constitution demands more than a tool's usefulness; nothing here adjudicates between them.
+
+### Does reasoning cause moral judgments, or explain them afterwards?
+
+Haidt's abstract opens by naming the tradition he is attacking: "Research on moral judgment has been dominated by rationalist models, in which moral judgment is thought to be caused by moral reasoning" ([Haidt 2001, Psychological Review](https://pubmed.ncbi.nlm.nih.gov/11699120/)). [Cognitive-developmental theory of moral reasoning](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive-developmental%20theory%20of%20moral%20reasoning) is that tradition's developmental programme: moral judgment develops through a fixed sequence of stages of reasoning, in Kohlberg's own summary of the stages:
+
+> "Stages form an invariant sequence. Under all conditions except extreme trauma, movement is always forward, never backward. Individuals never skip stages, movement is always to the next stage up. This is true in all cultures." ([Kohlberg, Moral Education for a Society in Moral Transition](https://files.ascd.org/staticfiles/ascd/pdf/journals/ed_lead/el_197510_kohlberg.pdf))
+
+[Moral intuition research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20intuition%20research) is the challenge. Haidt's case against the rationalist models, in his own summary:
+
+> "The author gives 4 reasons for considering the hypothesis that moral reasoning does not cause moral judgment; rather, moral reasoning is usually a post hoc construction, generated after a judgment has been reached." ([Haidt 2001, Psychological Review](https://pubmed.ncbi.nlm.nih.gov/11699120/))
+
+On the social intuitionist model the judgment is generally the result of quick, automatic evaluations, and the reasoning arrives afterward to justify it ([Haidt 2001](https://pubmed.ncbi.nlm.nih.gov/11699120/)). The challenge has been answered in kind, from inside the same literature. Pizarro and Bloom's commentary on the model:
+
+> "The social intuitionist model (J. Haidt, 2001) posits that fast and automatic intuitions are the primary source of moral judgments. Conscious deliberations play little causal role; they are used mostly to construct post hoc justifications for judgments that have already occurred. In this article, the authors present evidence that fast and automatic moral intuitions are actually shaped and informed by prior reasoning." ([Pizarro and Bloom 2003, Psychological Review](https://pubmed.ncbi.nlm.nih.gov/12529062/))
+
+The dispute turns on the causal role of reasoning: Haidt's model gives it little, mostly post hoc justification; the commentary's evidence has intuitions shaped by prior reasoning, and its authors conclude that these facts "limit the strong claims of the social intuitionist model concerning the irrelevance of conscious deliberation" ([Pizarro and Bloom 2003](https://pubmed.ncbi.nlm.nih.gov/12529062/)). Haidt's own wording is hedged, usually and generally, so the disagreement is about how much causal work reasoning does rather than whether it ever does any. I lean toward Haidt for the first moments of a judgment and toward the commentary for where the intuitions were formed; the open question is how much independent work reasoning does once a judgment already stands, when it is genuinely reconsidering and when it is only defending.
 
 ## Practice: variation, selection, retention
 

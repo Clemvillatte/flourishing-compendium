@@ -402,3 +402,66 @@ Signature (hallucinated characters, the unaging girl as diagnostic
 devaluation — matches) and ST415 The Blind Men and the Elephant
 (the Ud 6.4 frame and parable — matches). All four match. With
 batch 1, the sampled cards all verify. No defects found.
+
+## Note — 3-5 question bar repair pass (worker-pplx-dos3-1025k, 2026-10-25, revision in progress)
+
+Owner directive 2026-10-25 (d): every dossier must carry three to five
+genuine disagreement questions. Cognition had one (Clark vs Rupert).
+This session drafts two additions; an advisor QC round rejected the
+first framing (see below) and the section was rewritten to the
+oppositions the carriers themselves state. Status: WIP pending advisor
+re-clearance; not certified complete until that lands.
+
+Verification record for the two added subsections:
+
+1. "Is deviation from the rational norm a defect?" — carriers opened this
+   session: Tversky and Kahneman 1974 (Science abstract; science.org 403s
+   both urllib and curl, so the text was retrieved through the session
+   fetch tool and the quote-verify cache seeded with that page text, same
+   documented class as the 1025g note above; the sentence was already
+   in-dossier and previously verified), Gigerenzer and Brighton 2009
+   (MPG full-text PDF, curl + pdftotext): the bias-norm passage, the
+   summary definition, the less-is-more clause and the Gigerenzer 1996 /
+   Kahneman and Tversky 1996 p. 585 exchange quote are all exact
+   substring matches against the raw PDF text; Gigerenzer and Gaissmaier
+   2011 (PubMed, opened via fetch tool; the low-predictability /
+   small-samples clause matches the abstract).
+2. "Does reasoning cause moral judgments, or explain them afterwards?" —
+   carriers opened this session: Haidt 2001 (PubMed abstract; page
+   fetched via fetch tool, curl receives a challenge page; the three
+   quoted/paraphrased sentences match), Kohlberg 1975 (ASCD open PDF,
+   curl + pdftotext: the invariant-sequence passage is an exact substring
+   match), Pizarro and Bloom 2003 (Europe PMC REST API raw JSON record
+   for PMID 12529062: both quoted fragments exact matches; the PubMed
+   page itself blocks curl, cache seeded from the Europe PMC record,
+   provenance recorded here).
+
+Framing corrections applied after advisor QC round 1 (the advisor
+rejected the first draft): the heuristics subsection no longer claims
+the two programmes answer with "opposite emphases" on their own; the
+opposition is now stated in Gigerenzer and Brighton's own words (the
+bias-as-norm-defect view vs biased algorithms predicting more
+accurately), plus the labels-vs-models method dispute quoted from the
+opened PDF. The moral subsection no longer claims Kohlberg and Haidt
+give "opposite arrows" on one question; the question is now the causal
+role of reasoning, with Haidt's own framing sentence naming the
+rationalist tradition, Kohlberg quoted only for what his stages claim
+(development through invariant sequence), and the direct counter from
+Pizarro and Bloom's commentary carrying the opposition. Page-narration
+openers and the repeated "What the dispute turns on" closer were
+varied; the second Haidt block quote was demoted to prose.
+
+Bounded candidate screen (not an exhaustive search; the search for
+further candidates was bounded by this session's scope): the CBT
+restructuring vs ACT defusion contrast sits in the body's "Can thinking
+be changed?" section with verified quotes and an explicit "compete or
+stack is left open" line; it is a candidate for a fourth question on a
+future pass. Dual-process single-process critiques (Kruglanski and
+colleagues) and the unconscious-thought-theory replication dispute were
+named as candidates and not investigated this session; no disagreement
+was manufactured to reach the count.
+
+Checks after rewrite: dossier_check exit 0 (94 card links, 19 headers,
+25 external carriers), density 0 dense, dossier_quote_verify 24
+checked 0 not found (two bot-blocked carriers documented above with
+cache provenance). Grep of changed files for workflow words: clean.
