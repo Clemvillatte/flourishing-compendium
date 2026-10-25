@@ -66,3 +66,26 @@ decorative metaphors, no broken replicates found at reader level.
 No edits needed. Checker exit 0. Editorial review only; no carriers
 freshly opened this pass (the quoted passages were verified in
 earlier sessions per this ledger).
+
+## Card-fidelity full-text sweep (2026-10-25, worker-pplx-dos13-0e136)
+
+All 48 map/selection/story entries were compared against their linked
+card files opened side by side (concepts, kernels, stories). Every gloss
+matches its card on attribution, qualification and scope; no mismatches
+found; no dossier edits made. One nuance noted, not a defect: the
+Extrinsic aspirations gloss's "even when achieved" follows the card's own
+summary line, while the card body records that this part rests on a later
+study cited at second hand — the card carries the qualification, and the
+reader reaching the card gets it. The four quoted passages in the
+divergence and practice sections were re-verified against freshly opened
+carriers this pass: Locke & Latham 2006 (nj.gov PDF) — both quoted
+passages verbatim; Wrosch et al. 2007 (Concordia PDF) — verbatim;
+Ntoumanis et al. (PMC4104823) — all three quoted sentences verbatim;
+Gollwitzer & Sheeran 2006 (Konstanz record) — the d = .65 sentence
+verbatim. The two-answer framing of the Locke-Latham vs Wrosch
+disagreement (within reach of ability vs unattainable) reads accurately
+against both opened passages.
+
+Checks: dossier_check.py exit 0 re-run this pass. Internal fidelity
+only; factual accuracy of card contents rests on the cards' own carrier
+records.
