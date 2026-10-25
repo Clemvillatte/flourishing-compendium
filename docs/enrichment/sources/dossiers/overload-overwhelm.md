@@ -105,3 +105,20 @@ glosses were compared against those extracts only. The verbatim-quote
 verifications stand as written (those passages were read in full from the
 opened carriers). The full-card comparison is being completed this
 session; this entry will be superseded by its result.
+
+## Full-card sweep result (2026-10-25, worker-pplx-dos12-0e136)
+
+Supersedes the attestation correction above. The full text of all 39
+linked cards was read this session (first pass compared card prefixes;
+this pass completed every card). One gloss repair resulted: the Choice
+overload gloss now carries the card's own qualification that later
+meta-analytic work (Chernev et al. 2015, noted on the card) finds
+choice overload only under certain conditions (commit ecef0fab, checker
+exit 0 after the edit). Every other gloss matches its card on
+attribution, qualifications, numbers, causal language and evidence
+limits. The K107 Soft fascination kernel card itself discloses that the
+20-to-30-minute session length is not tested by its cited evidence;
+the dossier's Selection section presents the kernels with the standing
+"cards carry their own evidence notes" caveat, which covers this.
+Internal fidelity only; factual accuracy of card contents rests on the
+cards' own carrier records.
