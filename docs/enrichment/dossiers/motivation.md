@@ -62,7 +62,7 @@ The modern neuroscience of wanting splits reward in two: [Incentive salience the
 
 ### What is interest for?
 
-[Curiosity](https://clemvillatte.github.io/flourishing-compendium/#card=Curiosity), in the information-gap account, arises when a person becomes aware of a gap in their knowledge that information could fill. [Interest as motive](https://clemvillatte.github.io/flourishing-compendium/#card=Interest%20as%20motive) is Dewey's claim that interest is not a garnish on learning but its engine.
+[Curiosity](https://clemvillatte.github.io/flourishing-compendium/#card=Curiosity), in the information-gap account, arises when a person becomes aware of a gap in their knowledge that information could fill. [Interest as motive](https://clemvillatte.github.io/flourishing-compendium/#card=Interest%20as%20motive) is Dewey's claim that learning runs on interest.
 
 [Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow) is the mental state of being fully immersed in an activity, with energized focus and full involvement. [Boredom](https://clemvillatte.github.io/flourishing-compendium/#card=Boredom) is the aversive experience of wanting, but being unable, to engage in satisfying activity.
 

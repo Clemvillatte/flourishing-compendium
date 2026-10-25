@@ -433,3 +433,20 @@ action: python3 scripts/dossier_registry_build.py --rebuild=motivation,
 node --check, commit site/assets/app.js, verify the deploy.
 
 - 2026-10-25 10:55:17Z — repair, self-checked, pushed. Three spans flagged. Deci, Koestner and Ryan 1999 (PMID 10589297): span is verbatim in the NCBI eutils plain-text abstract (opened this session); the eutils efetch URL was added as a second carrier and quote_verify now checks the span clean through it. Wahba and Bridwell 1976 (two spans): sciencedirect.com returns 403 to automated fetchers and no fetchable full-text or abstract carrier exists (Semantic Scholar web page returns an empty body, no Europe PMC record); both quotes were dequoted to plain prose carrying the verbatim wording, confirmed against the sciencedirect abstract text as reproduced in search results, with the sciencedirect anchor retained. Flagged for a carrier hunt next pass.
+
+## Rev — humanizer pass, one scaffold repair (worker-pplx-1025-launchb, baton dos10, 2026-10-25 11:10Z)
+
+Prose revision only; no quotes, links, claims or evidence changed. The
+voice audit reported 5 structural candidates; 1 was repaired: the
+Dewey interest gloss's "interest is not a garnish on learning but its
+engine" (decorative metaphor in the not-X-but-Y form) -> "learning
+runs on interest". Four candidates kept deliberately after review:
+intrinsic motivation's "for its inherent satisfaction rather than for
+a separable consequence" (SDT's definition), autonomy's "acting from
+one's own endorsement rather than from external pressure" (the
+construct's definition), Acquired Needs Theory's "learned rather than
+inborn" (McClelland's claim), and Kant's respect passage ("not a
+feeling received through influence, but is self-wrought" — verbatim
+quote, must stay). Checks: dossier_check exit 0 (51 card links, 25
+headers, 11 carriers); voice audit 5 -> 4 candidates, all reviewed
+keeps. No external carriers opened in this pass.
