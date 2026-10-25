@@ -330,3 +330,11 @@ the script's plain urllib fetch); the script's local cache was
 seeded with the genuine carrier text in each case. quote_verify now
 reports 9 checked, 0 not found. Checker exit 0 (51 card links, 24
 headers, 7 external carriers); density 0 dense; no prose em dashes.
+
+## Story spot-checks (worker-pplx-dos10-1025g, 2026-10-25)
+
+Three story cards opened and checked against their loglines: ST300
+Three Basic Needs (Deci and Ryan; the card body matches the logline
+directly), ST026 Woodcarver Qing Makes a Bell-Stand (Zhuangzi ch.
+19), ST311 Frankl's Why. All three loglines match the cards'
+subjects and sources. No defects found.
