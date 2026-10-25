@@ -734,13 +734,23 @@ standard.
   Psychology, University of Queensland (UQ Experts page opened
   2026-10-25, https://about.uq.edu.au/experts/1946).
 - Language: English.
-- Content coverage (host description, read 2026-10-25): social identity
-  and the new psychology of mental health — no further description of
-  the talk's content is given on the watch page, so coverage rests
-  largely on the title — FLAGGED title-only coverage.
+- Content coverage (watch page chapters, read 2026-10-25 on a re-fetch
+  of the page): the recording carries chapter markers — Intro; What does
+  it mean to be human; Self categorization; Social connection; Social
+  identities under threat; Social identity in mental health; Group
+  dynamics; The spillover effect; The clinical effects; Horizontal
+  epidemiology; Predicting relapse; Social identification and depression;
+  Social identification and mental health; The power of groups;
+  Understanding mental health suffering; Self Categorisation; Summary;
+  Groups for Help; Study results — matching the talk's title. Coverage
+  basis is the chapter list; the talk's substance within each chapter
+  still rests on the title and chapters — confirm against the
+  recording before scheduling.
 - Relevant segment: whole talk, 50:21.
 - Verification status: verified-partial: identity, access and duration
-  verified; coverage is title-only on the watch page — flagged.
+  verified; coverage basis is the watch page's chapter list (title and
+  chapters, not a prose description) — flagged for confirmation against
+  the recording.
 
 ### M08-S11: Impact of Diversity on Intergroup Relations (Miles Hewstone, CASBS)
 
