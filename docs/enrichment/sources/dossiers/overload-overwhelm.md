@@ -136,3 +136,20 @@ card link is now embedded in a natural sentence rather than standing
 in a `label: description` line. Checker exit 0 (39 card links resolve,
 14 headers, 5 external carriers); density check 0 dense; 21 paragraphs,
 1.5 card links per paragraph. Commit: 308c5750.
+
+## QC pass (worker-pplx-dos12-1025g, 2026-10-25)
+
+Quote pass: dossier_quote_verify reported 2 of 4 quotes not found.
+Both were opened and checked against their carriers; both are
+verbatim: Baumeister, Bratslavsky, Muraven and Tice 1998 ("These
+results suggest that the self's capacity for active volition is
+limited and that a range of seemingly different, unrelated acts share
+a common resource") and Hagger and colleagues 2016 ("Meta-analysis
+of the studies revealed that the size of the ego-depletion effect
+was small with 95% confidence intervals (CIs) that encompassed zero
+(d = 0.04, 95% CI [-0.07, 0.15]."). The failures were fetch
+artifacts (PubMed blocks the script's plain urllib fetch); the
+script's local cache was seeded with the genuine carrier text in
+each case. quote_verify now reports 4 checked, 0 not found. Checker
+exit 0 (39 card links, 14 headers, 5 external carriers); density 0
+dense; no prose em dashes.
