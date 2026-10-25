@@ -77,7 +77,7 @@
    ]
   },
   "s1e-004": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "D115 lead from behind: Marva Collins - the school with no substitutes, where students taught themselves and said the day's phenomenal thing was theirs",
    "history": [
     {
@@ -93,6 +93,11 @@
      "t": "2026-10-21T12:45:35+00:00",
      "to": "qc_pending",
      "note": "quotes verified from four opened sources"
+    },
+    {
+     "t": "2026-10-25T13:24:01+00:00",
+     "to": "ready",
+     "note": "verification pass: all 4 sources re-opened; all quotes exact except two NEH rows merged to the page's own sentence; story_check ok"
     }
    ]
   },
@@ -177,5 +182,5 @@
    ]
   }
  },
- "updated": "2026-10-25T13:23:30+00:00"
+ "updated": "2026-10-25T13:24:01+00:00"
 }
