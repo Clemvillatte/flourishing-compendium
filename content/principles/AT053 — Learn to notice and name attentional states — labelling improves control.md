@@ -22,7 +22,7 @@ The review's central claim is that labelling works as regulation even when it do
 
 The noticing side comes from the meta-awareness account already opened in this compendium: "meta-awareness directly aids in the identification of mind-wandering lapses, and the subsequent re-engagement of the primary task" ([Schooler et al. 2011](https://metalab.psych.ucsb.edu/sites/default/files/2025-12/perceptual-decoupling.pdf)).
 
-Scope: the studies measured affective states, not attention; extending the practice to labelling a caught state ("focused", "distracted", "wandering") is this card's application of them.
+Scope: the studies measured affective states, not attention; extending the practice to labelling a caught state is this card's application of them.
 
 (Torre and Lieberman, Emotion Review, 2018; Schooler et al., Trends in Cognitive Sciences, 2011.)
 
