@@ -2834,3 +2834,16 @@ Verification pass (T+25): all 30 actual dossiers pass dossier_check.py; the chec
   confirmed live independently; if one is a duplicate launch, the baton system
   will reconcile (only one can hold a given band).
 
+## Agent launch record (2026-10-25, launcher session current)
+
+- Owner requested Path A. Account: ouakninek+0001@gmail.com (Perplexity
+  account ouakninek09302, Free plan).
+- Task URL: https://www.perplexity.ai/computer/tasks/8bfca04d-0c89-412f-8284-d631f0f32c9f
+- Launched at 2026-10-25 01:43 UTC with PROMPT-WORKER.md verbatim (token filled
+  from the owner's message, never stored in the repo). Paste verified against
+  the prepared file before submission (8123 chars + browser trailing newline;
+  head and tail matched exactly). Standard worker prompt — per its bands annex
+  it will take a free principle band first while the principles queue is
+  untouched, else a concept or dos band via scripts/baton.py.
+- Session confirmed running server-side (URL moved to computer/tasks/<uuid>).
+  No coordination needed post-launch; the baton system governs.
