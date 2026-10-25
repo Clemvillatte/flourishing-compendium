@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 30** — Learn to use attentional anchors: objects that stabilise focus
 
-Lutz and colleagues describe focused attention meditation as "the voluntary focusing of attention on a chosen object". They say the practice develops three skills: a monitoring faculty that stays vigilant to distractions without destabilising the intended focus, the ability to disengage from a distracting object without further involvement, and the ability to redirect focus promptly to the chosen object ([Lutz et al. 2008, PDF copy](https://www.wisebrain.org/media/Papers/AttentionRegulationMeditation.pdf)). A methods review adds that the usual object is breath sensations, and that on noticing the mind has wandered the practitioner gently shifts attention back "without self-judgment" ([PMC review](https://pmc.ncbi.nlm.nih.gov/articles/PMC4627495/)).
+Lutz and colleagues describe focused attention meditation as "the voluntary focusing of attention on a chosen object". They say the practice develops three skills: a monitoring faculty that stays vigilant to distractions without destabilising the intended focus, the ability to disengage from a distracting object without further involvement, and the ability to redirect focus promptly to the chosen object ([Lutz et al. 2008, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/)). A methods review adds that the usual object is breath sensations, and that on noticing the mind has wandered the practitioner gently shifts attention back "without self-judgment" ([PMC review](https://pmc.ncbi.nlm.nih.gov/articles/PMC4627495/)).
 
 Hasenkamp and colleagues modelled the experience as a cycle of four phases: mind wandering, awareness of mind wandering, shifting attention, and sustained attention. In their imaging study, default-mode regions were active during mind wandering, salience-network regions during awareness of it, and executive-network regions during shifting and sustained attention, with the pattern modulated by lifetime meditation experience ([Hasenkamp et al. 2012, summary](https://github.com/buddhist-uni/buddhist-uni.github.io/blob/main/_content/articles/mind-wandering-and-attention-during_hasenkamp-wendy-et-al.md)). The wandering is thus part of the practice, and the return is where the training happens.
 
@@ -28,7 +28,7 @@ Choose one anchor, such as the feeling of breath at the nostrils, and each time 
 
 ## Sources
 
-- [Lutz et al. 2008, Attention regulation and monitoring in meditation (PDF copy)](https://www.wisebrain.org/media/Papers/AttentionRegulationMeditation.pdf)
+- [Lutz et al. 2008, Attention regulation and monitoring in meditation (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/)
 - [Conceptual and Methodological Issues in Research on Mindfulness and Meditation (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4627495/)
 - [Hasenkamp et al. 2012, Mind wandering and attention during focused meditation (summary)](https://github.com/buddhist-uni/buddhist-uni.github.io/blob/main/_content/articles/mind-wandering-and-attention-during_hasenkamp-wendy-et-al.md)
 

@@ -129,3 +129,6 @@
 
 ## A049, R012, A077, A029, M006 link audit
 - A049: Aristotle NE VI.11 quote began 'Hence'; Ross (MIT Classics and Oxford 2009 PDF at archive.org) reads 'Therefore'; corrected. A077 NE IX.11 quote verified verbatim in the Oxford PDF. A029 NE IV.5 quote verified. R012 Tutu quote and 'diminished' sentence verified verbatim in the archive.org scan (earlier 404 flag was a truncated-URL artefact); example labelled as illustration. M006: Villasenor Black wording confirmed through search excerpt of chicano.ucla.edu/files/s7.pdf, but that URL returns 404 to a direct fetch from my environment (may be bot-blocking); flag for supervisor.
+
+## R124, AT030 dead-link repair
+- R124: Cunsolo and Ellis 2018 PDF moved to uwosh.edu/sirt/wp-content/uploads/sites/86/...; definition and 'natural response' sentences confirmed against the text. AT030: wisebrain.org copy 404; swapped to the PMC version of Lutz et al. 2008 (PMC2693206), where the focused-attention definition and the three-skills sentences were confirmed verbatim. Wording unchanged.

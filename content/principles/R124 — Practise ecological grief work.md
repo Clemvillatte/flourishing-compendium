@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 386** — Practise ecological grief work
 
-Cunsolo and Ellis define ecological grief as "the grief felt in relation to experienced or anticipated ecological losses, including the loss of species, ecosystems and meaningful landscapes due to acute or chronic environmental change". They argue it is "a natural response to ecological losses, particularly for people who retain close living, working and cultural relationships to the natural environment" ([Cunsolo and Ellis 2018, Nature Climate Change](https://www.uwosh.edu/sirt/wp-content/uploads/2020/04/Cunsolo-and-Ellis-2018.pdf)). They call the topic "an underdeveloped area of inquiry" ([abstract](https://www.nature.com/articles/s41558-018-0092-2)).
+Cunsolo and Ellis define ecological grief as "the grief felt in relation to experienced or anticipated ecological losses, including the loss of species, ecosystems and meaningful landscapes due to acute or chronic environmental change". They argue it is "a natural response to ecological losses, particularly for people who retain close living, working and cultural relationships to the natural environment" ([Cunsolo and Ellis 2018, Nature Climate Change](https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf)). They call the topic "an underdeveloped area of inquiry" ([abstract](https://www.nature.com/articles/s41558-018-0092-2)).
 
 Glenn Albrecht's related term, solastalgia, is "the distress that is produced by environmental change impacting on people while they are directly connected to their home environment" ([Albrecht et al. 2007, PubMed](https://pubmed.ncbi.nlm.nih.gov/18027145/)). A later review notes he never intended it as a psychiatric diagnosis ([Cambridge](https://www.cambridge.org/core/journals/transnational-environmental-law/article/solastalgia-a-new-type-of-harm-for-a-more-sustainable-environmental-liability-framework/D2C31EB61850CCFCCDC5737D278F76DB)).
 
@@ -30,7 +30,7 @@ Write down one place that has changed and what you valued in it. Then look for a
 
 ## Sources
 
-- [Cunsolo and Ellis 2018, full text](https://www.uwosh.edu/sirt/wp-content/uploads/2020/04/Cunsolo-and-Ellis-2018.pdf)
+- [Cunsolo and Ellis 2018, full text](https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf)
 - [Cunsolo and Ellis 2018, Nature Climate Change abstract](https://www.nature.com/articles/s41558-018-0092-2)
 - [Albrecht et al. 2007, Solastalgia, PubMed](https://pubmed.ncbi.nlm.nih.gov/18027145/)
 - [Solastalgia as a form of grief, Transnational Environmental Law](https://www.cambridge.org/core/journals/transnational-environmental-law/article/solastalgia-a-new-type-of-harm-for-a-more-sustainable-environmental-liability-framework/D2C31EB61850CCFCCDC5737D278F76DB)
