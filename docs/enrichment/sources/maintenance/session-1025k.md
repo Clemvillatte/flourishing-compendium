@@ -117,3 +117,6 @@
 
 ## D137 Don't press people to rebellion
 - Legge ch. 72 (Gutenberg 216) says 'Let them not thoughtlessly indulge themselves'; the page described it as 'not hemmed in'. Page reading matches D. C. Lau ('Do not constrict their living space'), verified on Terebess. Page rewritten to quote Lau and give Legge as the alternative; invented parent/manager anecdotes removed or labelled. Flag: translations of DDJ 72 diverge, supervisor may want other Daodejing pages that quote Legge for a 'constrict' style reading checked.
+
+## P101 Repeat with difference
+- Broken-link audit of all 2622 principle-page URLs found plato.stanford.edu/entries/repetition-identity/ (404; no such SEP entry) used as the source for two Deleuze 'quotes' that do not appear in the SEP Deleuze entry. Replaced with two verified SEP Deleuze sentences (section 3.1); stated that Deleuze is not quoted directly; labelled application and illustration. Flag: Difference and Repetition itself not opened; a primary-source quote (Patton translation) would be a real plus.
