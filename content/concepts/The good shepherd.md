@@ -22,7 +22,7 @@ That is why I pair the image with attachment research: SE048 uses it for secure-
 ## Sources
 
 - [King James Bible, Psalm 23:1-6 and John 10:11-12 (Project Gutenberg ebook #10)](https://www.gutenberg.org/files/10/10-0.txt) — verbatim KJV text of both passages
-- Christian tradition, Psalm 23 (original seed line)
+- Christian tradition, Psalm 23
 
 ## Cited in philosophy parallels
 
