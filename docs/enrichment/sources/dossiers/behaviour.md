@@ -137,3 +137,32 @@ compared character-by-character against a rendered source page.
 Counts refer to quotation blocks, not distinct passages (blocks can
 overlap or join excerpts with ellipses). Any prior verification
 record in this ledger is not displaced by this pass.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton; read-only — dossier unowned)
+
+This dossier is unowned and flagged for supervisor disposition, so this
+pass made no edits; it records the check result for the supervisor.
+All 37 concept and principle entries in the map were compared against
+their linked cards: the habit cluster (James's umbrella card, Wood and
+Neal's context-cuing model, Lally's 18-to-254-day finding, habit
+maintenance, Aristotle's habituation in both translations, second
+nature with the Durant-paraphrase flag carried, context-dependent
+behaviour, the Dickinson-Balleine goal-directed tests, wu wei through
+long effort), the Skinner cluster (operant conditioning, Ferster-
+Skinner schedules, shaping, chaining), ego depletion with its
+contested history, the Miles self-control-training caution, the Dewey
+cluster (plasticity, obstruction as stimulus, deliberation as
+rehearsal), Merleau-Ponty's habit body, excellence-as-habit labelled
+as paraphrase, habit discontinuity (Verplanken-Roy), habit reversal
+(Azrin-Nunn), relapse prevention (Marlatt), stimulus control
+(Bootzin), implementation intentions (Gollwitzer), the Fogg cluster
+(tiny habits, habit stacking), keystone habits with the
+tendency-not-guarantee caveat, behavioural activation, Carver-Scheier
+self-regulation, the Prochaska-DiClemente stages, the Michie COM-B
+wheel, nudge theory, situation selection, situational strategies
+(Duckworth-Gendler-Gross), self-monitoring, the Gardner 2021
+tracking review, and behavioural rehearsal. Every gloss matches its
+card. No mismatches found; no edits made.
+
+Checks: dossier_check.py exit 0 (run this session). Editorial review
+only; no external carriers freshly opened this pass.

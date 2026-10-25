@@ -81,3 +81,22 @@ and does not itself state the historicity caution; the caution lives
 on the story card. The logline follows the story format (describe
 events); the caution is available to the reader through the card
 link, not through the logline's own words.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton; read-only — dossier unowned)
+
+This dossier is unowned and flagged for supervisor disposition, so this
+pass made no edits; it records the check result for the supervisor.
+All 12 concept entries in the map were compared against their linked
+cards: the Hayes 2006 ACT definition of acceptance with its
+not-resignation note, experiential avoidance theory, ACT and its six
+processes, acceptance alongside values-based action, Linehan's radical
+acceptance, chronic pain acceptance (McCracken-Vowles), the Enchiridion
+8 serene acceptance with its Spinoza echo, amor fati (Gay Science
+§276), equanimity with indifference as the named error, Wong's death
+acceptance types, the second arrow, and Enchiridion 5. Every gloss
+matches its card. No mismatches found; no edits made. The voice-audit
+candidates here are card-faithful; the keep-or-recast decision is a
+voice/style call.
+
+Checks: dossier_check.py exit 0 (run this session). Editorial review
+only; no external carriers freshly opened this pass.
