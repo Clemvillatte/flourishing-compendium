@@ -1474,12 +1474,12 @@
  },
  "K305": {
   "mods": [
-   "Stoic"
+   "general"
   ],
   "evidence": [
    [
-    "card body: \"The Stoic ground is compatible: it is not the sensation that disturbs, but the precipitate judgement about it\" (Epictetian ground, verified in per-card review)",
-    "Stoic"
+    "ADVISOR CORRECTION: card names phenomenological method as the core move, Stoicism as compatible ground only; Stoic-only filing was a secondary-affiliation error; reverted to general",
+    "general"
    ]
   ]
  },

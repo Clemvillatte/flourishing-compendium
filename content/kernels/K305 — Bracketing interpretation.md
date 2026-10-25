@@ -5,7 +5,7 @@ type: "kernel"
 title: "Bracketing interpretation"
 file: "K305 — Bracketing interpretation"
 tags: ["applied-practice"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.09 — 9. Phenomenological Embodiment", "parent": ""}
 ---
 > **Kernel K305** — Bracketing interpretation
@@ -35,7 +35,7 @@ What the studies do not test: the amygdala finding concerns emotion words in a l
 
 No official recording exists. Two worked guides walk the bracket on paper. The [Groningen phenomenology textbook exercise](https://opentextbooks.rug.nl/philpolarization/chapter/phenomenology/) has you pick a short scene, describe what you see, hear or feel, then "check whether there are assumptions present in your description, and literally bracket these if applicable". The [Rutgers qualitative-research bracketing prompts](https://openpub.libraries.rutgers.edu/qualgo2/chapter/__unknown__-6/) ask in writing: "What are my beliefs and attitudes about this topic or phenomenon? What assumptions am I making?"
 
-> **Therapeutic approach: Stoic**
+> **Therapeutic approach: general**
 
 ## Operationalises
 
