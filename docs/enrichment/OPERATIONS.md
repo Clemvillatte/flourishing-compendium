@@ -18,6 +18,34 @@ findings or quotations. Require a clear thought, an intelligible connection
 and a reason the distinction matters. Put verification-status labels and
 long evidence records in the ledger, not in the public reading path.
 
+# Assistant-supervisor QC entry — 2026-10-25, T+17–T+29 (supervisor-pplx-1025e)
+
+- dos24 right-mindfulness: merged with the live worker's in-flight edits
+  after a baton-claim mid-air collision (claim had not reached origin);
+  advisor QC demoted my bare-attention pairing (unsupported "denies… at
+  all" sentence) — correction routed to the live holder via the ledger and
+  batch state, bar honestly at 1 of 3.
+- the-self (no dos band): TWO substantiated disputes added (Descartes-vs-Hume
+  on introspection; second pairing rebuilt after advisor QC as
+  Descartes-vs-Kant on substance from the Paralogisms). All quotes
+  raw-verified; carrier links added; registry spliced; verified live on
+  Pages. Bar met at 3.
+- dos20 right-speech: third substantiated dispute added (Constant-vs-Kant on
+  unconditional truthfulness; French quotes kept with gloss). Raw-verified
+  carriers (UQAM Constant PDF; scielo Kant VRL). Bar met at 3; verified
+  live on Pages.
+- dos22 right-livelihood: third substantiated dispute added (vinaya money
+  rule vs Sigalovada four parts — intra-Buddhist, both sides the Buddha's
+  own). Raw-verified. Bar met at 3; flipped planned -> published and
+  spliced. Deploy pending at time of log.
+- dos31 creation: worker pass 11 QC'd (3 substantiated disputes meet the
+  affirm/deny test: Frankl-vs-Sartre, Skinner-vs-Frankl, Sartre-vs-Camus);
+  flipped to published and spliced. Deploy pending.
+- dos11 uncertainty: supervisor re-splice per worker request (Knight 1921
+  vs Ramsey 1926); verified live on Pages.
+- Fleet note: two fresh workers (dos20, dos22) released at 2-of-3 and were
+  dispositioned by this pass; dos34 leisure continues at 2-of-3.
+
 # Supervisor QC entry 5 — 2026-10-25, T+16 (stale-baton takeover, supervisor-margauth1839068)
 
 - Taken over from supervisor-pplx-1024c (stale, 21 min) while five DOS
