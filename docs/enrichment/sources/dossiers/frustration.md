@@ -330,9 +330,14 @@ failing). Results, every fact from a page opened this session:
   search-engine index of the same URL returns the GST sentence
   verbatim ("GST posits that strain generates negative emotions that
   provide motivation for deviance as a coping strategy because such
-  emotional forces create pressure for corrective action"), so the
-  first span is attested via the index of the carrier; the "most
-  critical emotional reaction" span (Agnew 1992 p. 59 as quoted by
-  Jang and Johnson) is not attested by this session's reads. The
-  honest status for both spans stays: attested earlier, direct fetch
-  still blocked; flagged to the supervisor.
+  emotional forces create pressure for corrective action"), and a
+  second index read of the same PDF returns the Agnew span too: "For
+  Agnew (1992, p. 59), anger is the 'most critical emotional
+  reaction' to strain, but 'strain increases the likelihood that
+  individuals will experience one or more of a range of negative
+  emotions.'" Both spans are therefore attested via the search index
+  of the carrier URL; the direct fetch is still blocked (HTML
+  interstitial). Honest status: both spans attested via the carrier's
+  index, direct fetch still blocked from this environment; flagged to
+  the supervisor for a fetch from an unblocked environment or an
+  owner ruling that the index attestation suffices.
