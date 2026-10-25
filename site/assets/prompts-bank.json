@@ -9501,6 +9501,1056 @@
       ],
       "dossier": "genuine-flourishing",
       "sensitive": false
+    },
+    {
+      "id": "S0451",
+      "family": "courage",
+      "text": "What would you start this week that a burst of inspiration would not have produced?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "Y038",
+          "title": "Make self-study a discipline",
+          "why": "The discipline lives in the calendar, not the mood."
+        },
+        {
+          "kind": "principle",
+          "ref": "D060",
+          "title": "Do the great while it is small",
+          "why": "The two-minute version is the start inspiration is waiting for."
+        }
+      ],
+      "dossier": "agency",
+      "sensitive": false
+    },
+    {
+      "id": "S0452",
+      "family": "wisdom",
+      "text": "What did you learn by doing that reading alone could not have taught?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "K020",
+          "title": "Know by doing",
+          "why": "The knowing is in the doing's grain."
+        },
+        {
+          "kind": "principle",
+          "ref": "D072",
+          "title": "Learn by doing, not only by reading",
+          "why": "The reading is the map; the doing is the territory."
+        }
+      ],
+      "dossier": "wisdom",
+      "sensitive": false
+    },
+    {
+      "id": "S0453",
+      "family": "suffering",
+      "text": "What is the felt difficulty — and what would resolve it?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P046",
+          "title": "Treat problems as invitations",
+          "why": "The stuck feeling is step one of a process that needs it."
+        },
+        {
+          "kind": "principle",
+          "ref": "D097",
+          "title": "Don't fear what you can't act on",
+          "why": "Sort it: is there anything to do today?"
+        }
+      ],
+      "dossier": "overload-overwhelm",
+      "sensitive": false
+    },
+    {
+      "id": "S0454",
+      "family": "meaning",
+      "text": "What would you make this week that matters to someone — including you?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E062",
+          "title": "Practise meaning through creative work",
+          "why": "Making something or doing something that matters is the first route."
+        },
+        {
+          "kind": "principle",
+          "ref": "P114",
+          "title": "Create as growth — creation is the evidence of growth",
+          "why": "The evidence is the thing made."
+        }
+      ],
+      "dossier": "lifes-purpose",
+      "sensitive": false
+    },
+    {
+      "id": "S0455",
+      "family": "identity",
+      "text": "Who could you become — and what strategy, not image, would get you there?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "SE039",
+          "title": "Cultivate possible selves — who could you become",
+          "why": "It was the students with strategies, not just images, who moved."
+        },
+        {
+          "kind": "principle",
+          "ref": "MO055",
+          "title": "Recognise that goal progress predicts well-being — pursuing goals is good for you",
+          "why": "The strategy is measured in weekly progress."
+        }
+      ],
+      "dossier": "goals",
+      "sensitive": false
+    },
+    {
+      "id": "S0456",
+      "family": "others",
+      "text": "What would the I-Thou meeting be — and who have you been treating as an It?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "R081",
+          "title": "Practise I-Thou",
+          "why": "The meeting is between wholes, not uses."
+        },
+        {
+          "kind": "principle",
+          "ref": "E077",
+          "title": "Practise the liberation of others",
+          "why": "The other's freedom is the meeting's condition."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0457",
+      "family": "suffering",
+      "text": "What would the considered response be — and could the first movement wait for it?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "S049",
+          "title": "Replace first movements with considered responses",
+          "why": "The surge is not yet anger; anger needs your agreement."
+        },
+        {
+          "kind": "principle",
+          "ref": "B183",
+          "title": "Ride strong emotions without acting",
+          "why": "The riding is the waiting's other name."
+        }
+      ],
+      "dossier": "anger",
+      "sensitive": false
+    },
+    {
+      "id": "S0458",
+      "family": "silence",
+      "text": "What would you hear in ten minutes of quiet that busyness has been keeping at bay?",
+      "connections": [
+        {
+          "kind": "kernel",
+          "ref": "K112",
+          "title": "Scheduled empty time",
+          "why": "Empty time is where what you're avoiding shows up."
+        },
+        {
+          "kind": "principle",
+          "ref": "E045",
+          "title": "Practise conscience (Gewissen)",
+          "why": "The interruption is easy to drown out; leave enough quiet."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0459",
+      "family": "wisdom",
+      "text": "What is the relation you keep turning over in your mind — and what is the earliest catchable step?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "Y056",
+          "title": "Interrupt the chain from stimulus to ruin",
+          "why": "The chain starts with turning an object over in the mind."
+        },
+        {
+          "kind": "principle",
+          "ref": "B070",
+          "title": "Stop the proliferation (papanca)",
+          "why": "The turning-over is the proliferation's first gear."
+        }
+      ],
+      "dossier": "behaviour",
+      "sensitive": false
+    },
+    {
+      "id": "S0460",
+      "family": "decision",
+      "text": "What would you decide if the deliberation had to end today?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A045",
+          "title": "Deliberate well",
+          "why": "The doctor asks how, never whether; deliberation ends in a conclusion."
+        },
+        {
+          "kind": "principle",
+          "ref": "CO043",
+          "title": "Recognise the limits of analysis — overthinking can be worse than deciding",
+          "why": "The stopping point is part of the skill."
+        }
+      ],
+      "dossier": "decision-making",
+      "sensitive": false
+    },
+    {
+      "id": "S0461",
+      "family": "meaning",
+      "text": "What is the value that never touches a Tuesday — and what one action would it ask for?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P162",
+          "title": "Take committed action — behavior is where values become real",
+          "why": "The value exists in the doing."
+        },
+        {
+          "kind": "principle",
+          "ref": "BE062",
+          "title": "Engage in meaning-driven behaviour — act on values",
+          "why": "Choose one manageable action rather than stopping at the list."
+        }
+      ],
+      "dossier": "goals",
+      "sensitive": false
+    },
+    {
+      "id": "S0462",
+      "family": "suffering",
+      "text": "What feeling would pass if you stopped returning to it — and how many revisits today?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "AF045",
+          "title": "Learn to let affect pass — feelings are impermanent",
+          "why": "The retelling is checkable: count the revisits."
+        },
+        {
+          "kind": "principle",
+          "ref": "S046",
+          "title": "Do not add to the impression",
+          "why": "The revisit is usually an addition, not the event."
+        }
+      ],
+      "dossier": "affect",
+      "sensitive": false
+    },
+    {
+      "id": "S0463",
+      "family": "wisdom",
+      "text": "What would the wise reasoning look like — trained, not fixed?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "CO065",
+          "title": "Cultivate wise reasoning — wisdom is a trainable skill, not a fixed trait",
+          "why": "The trainability is the good news."
+        },
+        {
+          "kind": "principle",
+          "ref": "A047",
+          "title": "Let practical wisdom unify the virtues",
+          "why": "The unification is the training's shape."
+        }
+      ],
+      "dossier": "wisdom",
+      "sensitive": false
+    },
+    {
+      "id": "S0464",
+      "family": "others",
+      "text": "What would sympathetic joy be — and whose good fortune could you practice enjoying?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "B053",
+          "title": "Practice sympathetic joy (mudita)",
+          "why": "The joy in another's joy is a practice, not a mood."
+        },
+        {
+          "kind": "principle",
+          "ref": "A077",
+          "title": "Honour friendship in prosperity as well as adversity",
+          "why": "Being glad is the hard part."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0465",
+      "family": "identity",
+      "text": "What is the story you're in — and who is telling it?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E084",
+          "title": "Practise emplotment",
+          "why": "The plot is the story's spine; you have a hand in it."
+        },
+        {
+          "kind": "principle",
+          "ref": "R105",
+          "title": "Practise narrative identity",
+          "why": "The identity is the narrative, and the narrative is revisable."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0466",
+      "family": "time",
+      "text": "What would the thick present hold — and what are you hunting in the point between?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P092",
+          "title": "Live in a thick present",
+          "why": "The present you perceive is a duration, not a point."
+        },
+        {
+          "kind": "principle",
+          "ref": "B176",
+          "title": "Treat the present moment as the miracle",
+          "why": "The span is where the miracle lives."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0467",
+      "family": "suffering",
+      "text": "What is the shame about — the act, or the self it seems to indict?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "AF053",
+          "title": "Work with shame — it is about the self, not the act",
+          "why": "The working edge is the distinction."
+        },
+        {
+          "kind": "principle",
+          "ref": "BE034",
+          "title": "Learn approach behaviours for shame — show up, do not hide",
+          "why": "The approach is the shame's countermove."
+        }
+      ],
+      "dossier": "affect",
+      "sensitive": false
+    },
+    {
+      "id": "S0468",
+      "family": "courage",
+      "text": "What would you do with the fear's energy if it were preparation and not paralysis?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "AF047",
+          "title": "Understand fear's function — it prepares you for threat",
+          "why": "The preparation is the fear's job description."
+        },
+        {
+          "kind": "principle",
+          "ref": "PP037",
+          "title": "Cultivate courage",
+          "why": "Courage is fear's energy, spent well."
+        }
+      ],
+      "dossier": "agency",
+      "sensitive": false
+    },
+    {
+      "id": "S0469",
+      "family": "wisdom",
+      "text": "What is the word you keep using — and what would each person's cases show it means?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "SP046",
+          "title": "Watch words; they are not ideas",
+          "why": "Ask what each person means and which cases they include."
+        },
+        {
+          "kind": "principle",
+          "ref": "CO078",
+          "title": "Understand the role of language in thinking — words shape thought",
+          "why": "The word shapes the thought; check the shape."
+        }
+      ],
+      "dossier": "cognition",
+      "sensitive": false
+    },
+    {
+      "id": "S0470",
+      "family": "meaning",
+      "text": "What would you do with the last of the day's attention — and what does it deserve?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "AT037",
+          "title": "Understand that attention needs recovery — directed attention is a depletable resource",
+          "why": "The depletion is real; the recovery is earned."
+        },
+        {
+          "kind": "principle",
+          "ref": "B186",
+          "title": "Practice the art of resting",
+          "why": "The art is what the last attention deserves."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0471",
+      "family": "others",
+      "text": "What would a secure-base behaviour be — for yourself, and for the people you hold?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "SE048",
+          "title": "Learn secure-base behaviour — be a safe place for yourself and others",
+          "why": "The safety is a behaviour, not a feeling."
+        },
+        {
+          "kind": "principle",
+          "ref": "R085",
+          "title": "Practise availability (disponibilité)",
+          "why": "The availability is the base's other name."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0472",
+      "family": "suffering",
+      "text": "What is the panic's content — and is it fear of the fear itself?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "AF049",
+          "title": "Learn to work with panic — panic is fear of fear",
+          "why": "The loop is the content."
+        },
+        {
+          "kind": "principle",
+          "ref": "S115",
+          "title": "Handle anxiety by returning to the present",
+          "why": "The return breaks the loop."
+        }
+      ],
+      "dossier": "anxiety",
+      "sensitive": false
+    },
+    {
+      "id": "S0473",
+      "family": "wisdom",
+      "text": "What is the question you are carrying that deserves a better question?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "Y097",
+          "title": "Keep the question alive",
+          "why": "The aliveness is the practice."
+        },
+        {
+          "kind": "principle",
+          "ref": "E099",
+          "title": "Practise the question of being",
+          "why": "Some questions are the practice, not the obstacle."
+        }
+      ],
+      "dossier": "wisdom",
+      "sensitive": false
+    },
+    {
+      "id": "S0474",
+      "family": "identity",
+      "text": "What would you give style to — and what would the style reveal?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "SE081",
+          "title": "Give style to one's character",
+          "why": "The style is the character, made deliberate."
+        },
+        {
+          "kind": "principle",
+          "ref": "P101",
+          "title": "Repeat with difference — never pure repetition",
+          "why": "The style is the difference, repeated."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0475",
+      "family": "meaning",
+      "text": "What is the work's grain — and what would respecting it change?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P112",
+          "title": "Respect the material — work with its grain",
+          "why": "The material has a grain; the work is with, not against."
+        },
+        {
+          "kind": "principle",
+          "ref": "P111",
+          "title": "Do art as experience, not as object",
+          "why": "The experience is in the working-with."
+        }
+      ],
+      "dossier": "lifes-purpose",
+      "sensitive": false
+    },
+    {
+      "id": "S0476",
+      "family": "time",
+      "text": "What would the ceremony do — transform a natural end into an infinite task?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E505",
+          "title": "The ceremony transforms natural ends into infinite tasks (Deleuze)",
+          "why": "The transformation is the ceremony's work."
+        },
+        {
+          "kind": "principle",
+          "ref": "P122",
+          "title": "Turn maintenance into art",
+          "why": "The ceremony and the maintenance are cousins."
+        }
+      ],
+      "dossier": "lifes-purpose",
+      "sensitive": false
+    },
+    {
+      "id": "S0477",
+      "family": "suffering",
+      "text": "What would the mourning heart bring to the conflict — and what would reluctance protect?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "D076",
+          "title": "Enter conflict reluctantly — with a mourning heart",
+          "why": "The reluctance is part of the entering well."
+        },
+        {
+          "kind": "principle",
+          "ref": "D132",
+          "title": "If you must fight, grieve — never gloat",
+          "why": "The grief is the fight's honest cost."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0478",
+      "family": "attention",
+      "text": "What is the flame you return to — and how few are the returns becoming?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "Y074",
+          "title": "Let absorption come from continuity",
+          "why": "The returns are the earlier stage; work on that."
+        },
+        {
+          "kind": "principle",
+          "ref": "AT047",
+          "title": "Learn focused attention meditation — concentration on a single object",
+          "why": "A session full of returns is a session full of practice."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0479",
+      "family": "meaning",
+      "text": "What is worth transmitting — and who is it for?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "M050",
+          "title": "Transmit what you master",
+          "why": "The transmission is the mastery's completion."
+        },
+        {
+          "kind": "principle",
+          "ref": "X012",
+          "title": "Make friendship the load-bearing wall",
+          "why": "The friendship is often who the transmission is for."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0480",
+      "family": "wisdom",
+      "text": "What is the both-and that the either-or is hiding?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P124",
+          "title": "Practice both-and where you can",
+          "why": "The both-and is usually available where the either-or is loud."
+        },
+        {
+          "kind": "principle",
+          "ref": "D007",
+          "title": "Hold yin and yang together",
+          "why": "The holding-together is the wisdom's shape."
+        }
+      ],
+      "dossier": "wisdom",
+      "sensitive": false
+    },
+    {
+      "id": "S0481",
+      "family": "others",
+      "text": "What would the repair's small signal be — and what would it say that a long speech couldn't?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "PP033",
+          "title": "Repair ruptures promptly",
+          "why": "The small signal, offered early, matters more than the long speech given late."
+        },
+        {
+          "kind": "principle",
+          "ref": "B163",
+          "title": "Reconcile quickly — don't let conflict fester",
+          "why": "The quickly is the promptness's content."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0482",
+      "family": "suffering",
+      "text": "What is the verdict the rough year keeps asking for — and what would weather look like instead?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P164",
+          "title": "Judge your life as a direction, not a destination",
+          "why": "Moving-questions make a rough year weather on a road."
+        },
+        {
+          "kind": "principle",
+          "ref": "Y061",
+          "title": "Take obstacles as information, not verdicts",
+          "why": "The information is the weather's data."
+        }
+      ],
+      "dossier": "genuine-flourishing",
+      "sensitive": false
+    },
+    {
+      "id": "S0483",
+      "family": "identity",
+      "text": "What is the working hypothesis of you — and what would test it?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "Y009",
+          "title": "Treat identity as a working hypothesis",
+          "why": "The hypothesis is testable; the fixed self is not."
+        },
+        {
+          "kind": "principle",
+          "ref": "SE062",
+          "title": "Cultivate growth orientation — see self as developable",
+          "why": "The developable is the hypothesis's growth-curve."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0484",
+      "family": "meaning",
+      "text": "What is the thing you would do even if the book never sells — and could you do it tomorrow morning?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "PP021",
+          "title": "Value the process over the outcome",
+          "why": "Writing every morning because you like it, whether or not it sells."
+        },
+        {
+          "kind": "principle",
+          "ref": "P120",
+          "title": "Make activities autotelic — worth doing for their own sake",
+          "why": "The doing still recommends itself with the benefits set aside."
+        }
+      ],
+      "dossier": "lifes-purpose",
+      "sensitive": false
+    },
+    {
+      "id": "S0485",
+      "family": "wisdom",
+      "text": "What would the mirror-mind show — and what would it not add?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "D050",
+          "title": "Keep a mirror-mind",
+          "why": "The mirror reflects without adding; the adding is the diagnosis."
+        },
+        {
+          "kind": "principle",
+          "ref": "E011",
+          "title": "Practise phenomenological description",
+          "why": "Describe before interpreting; the mirror is the description."
+        }
+      ],
+      "dossier": "cognition",
+      "sensitive": false
+    },
+    {
+      "id": "S0486",
+      "family": "time",
+      "text": "What is the rhythm of activity and receptivity — and which half is starved?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P089",
+          "title": "Ride the rhythm of activity and receptivity",
+          "why": "The plan needs the pause as much as the press."
+        },
+        {
+          "kind": "principle",
+          "ref": "B186",
+          "title": "Practice the art of resting",
+          "why": "The receptivity is the rest, practiced."
+        }
+      ],
+      "dossier": "overload-overwhelm",
+      "sensitive": false
+    },
+    {
+      "id": "S0487",
+      "family": "others",
+      "text": "What would the human behind the position say — and could you see them first?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "B159",
+          "title": "See the human behind the position",
+          "why": "The position is the costume; the human is the wearer."
+        },
+        {
+          "kind": "principle",
+          "ref": "M044",
+          "title": "Treat every person as another you",
+          "why": "The standpoint is the human's address."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0488",
+      "family": "suffering",
+      "text": "What would the returned-to breath carry — and what would it set down?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "K028",
+          "title": "Practice sending and taking on the breath",
+          "why": "Take in the bad, send out the good; the breath is the carrier."
+        },
+        {
+          "kind": "principle",
+          "ref": "Y048",
+          "title": "Use the breath to steady attention",
+          "why": "The steadying is the carrying's other face."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0489",
+      "family": "wisdom",
+      "text": "What is the enough — and what would the knowing of it free you for?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "D019",
+          "title": "Know what is enough (zhizu)",
+          "why": "Enough is a knowable number, not a feeling."
+        },
+        {
+          "kind": "principle",
+          "ref": "D030",
+          "title": "Contentment is the greatest wealth",
+          "why": "The contentment is the knowing, enjoyed."
+        }
+      ],
+      "dossier": "motivation",
+      "sensitive": false
+    },
+    {
+      "id": "S0490",
+      "family": "courage",
+      "text": "What would you do if you trusted the mind's trainability — and where would you start?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "B013",
+          "title": "Trust that the mind is trainable",
+          "why": "The trust is the premise of every practice."
+        },
+        {
+          "kind": "principle",
+          "ref": "AT006",
+          "title": "Recognise that attention is trainable — it can be cultivated",
+          "why": "The cultivation is agriculture, not magic."
+        }
+      ],
+      "dossier": "wisdom",
+      "sensitive": false
+    },
+    {
+      "id": "S0491",
+      "family": "meaning",
+      "text": "What is the thing you would regret not beginning — and what is its two-minute version?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "M037",
+          "title": "Number your days; we only borrow our time",
+          "why": "The arithmetic makes the waiting expensive."
+        },
+        {
+          "kind": "principle",
+          "ref": "D060",
+          "title": "Do the great while it is small",
+          "why": "The sprout is the version you can still pull with two fingers."
+        }
+      ],
+      "dossier": "lifes-purpose",
+      "sensitive": false
+    },
+    {
+      "id": "S0492",
+      "family": "suffering",
+      "text": "What would the inner citadel hold — and what does the storm not reach?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "S064",
+          "title": "Build the inner citadel",
+          "why": "The citadel is what the storm cannot govern."
+        },
+        {
+          "kind": "principle",
+          "ref": "S020",
+          "title": "Remember that nothing can harm you except your own judgement",
+          "why": "The harm is in the judgement, and the judgement has an address."
+        }
+      ],
+      "dossier": "affect",
+      "sensitive": false
+    },
+    {
+      "id": "S0493",
+      "family": "others",
+      "text": "What would the community's practice be — and who is practicing with you?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "B153",
+          "title": "Practice in community (sangha)",
+          "why": "The community is the practice's container."
+        },
+        {
+          "kind": "principle",
+          "ref": "X012",
+          "title": "Make friendship the load-bearing wall",
+          "why": "The wall bears what the practice loads."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0494",
+      "family": "wisdom",
+      "text": "What is the emergence you could trust — and what would you stop managing to see it?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "D017",
+          "title": "Trust emergent order",
+          "why": "The order emerges without the hand."
+        },
+        {
+          "kind": "principle",
+          "ref": "P007",
+          "title": "Expect emergence — wholes exceed their parts",
+          "why": "Treat the rearrangement as something to investigate."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0495",
+      "family": "time",
+      "text": "What would the evening's tally of gratitude hold — and what specifics?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "X011",
+          "title": "Bank gratitude for past pleasures, and draw on it in need",
+          "why": "Keep specific past good things written down."
+        },
+        {
+          "kind": "principle",
+          "ref": "B192",
+          "title": "Begin the day with intention; end it with review",
+          "why": "The review is where the tally is taken."
+        }
+      ],
+      "dossier": "affect",
+      "sensitive": false
+    },
+    {
+      "id": "S0496",
+      "family": "suffering",
+      "text": "What would the co-regulation be — and whose presence regulates you?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "AF073",
+          "title": "Learn co-regulation — affect is regulated with others, not just within",
+          "why": "The with-others is the mechanism's half."
+        },
+        {
+          "kind": "principle",
+          "ref": "BE053",
+          "title": "Learn to give and receive support — social support behaviours",
+          "why": "The support is the co-regulation's deliberate form."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0497",
+      "family": "wisdom",
+      "text": "What is the availability — and what would you be present to?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "R085",
+          "title": "Practise availability (disponibilité)",
+          "why": "The availability is a practice with an object."
+        },
+        {
+          "kind": "principle",
+          "ref": "AT057",
+          "title": "Cultivate attentional presence in relationships — attend to others",
+          "why": "The attending is the availability's content."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0498",
+      "family": "meaning",
+      "text": "What is the contribution beyond yourself — and what does it ask of Tuesday?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "PP026",
+          "title": "Contribute beyond yourself",
+          "why": "The contribution is the meaning's larger room."
+        },
+        {
+          "kind": "principle",
+          "ref": "P162",
+          "title": "Take committed action — behavior is where values become real",
+          "why": "The Tuesday is the behavior's address."
+        }
+      ],
+      "dossier": "lifes-purpose",
+      "sensitive": false
+    },
+    {
+      "id": "S0499",
+      "family": "suffering",
+      "text": "What would the tragic optimism hold — and what would it refuse to call good?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E061",
+          "title": "Practise tragic optimism",
+          "why": "The optimism that includes the tragic, not the one that denies it."
+        },
+        {
+          "kind": "principle",
+          "ref": "E105",
+          "title": "Practise amor fati",
+          "why": "The refusal to call the diagnosis good is part of the love."
+        }
+      ],
+      "dossier": "affect",
+      "sensitive": false
+    },
+    {
+      "id": "S0500",
+      "family": "wisdom",
+      "text": "What is the final principle — and what would never-arriving make possible?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P180",
+          "title": "Accept the final principle — you never arrive — and that is the good news",
+          "why": "The road is the good news; arrival isn't the point."
+        },
+        {
+          "kind": "principle",
+          "ref": "P116",
+          "title": "Pursue becoming, not arrival",
+          "why": "The becoming is the arrival's replacement, and better."
+        }
+      ],
+      "dossier": "genuine-flourishing",
+      "sensitive": false
     }
   ]
 }
