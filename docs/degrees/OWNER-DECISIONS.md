@@ -19,10 +19,9 @@ work, but each item blocks the gate named beside it.
    videos and lectures, and the owner trusts the speakers to have
    carefully designed their teachings. Workers do not add safety caveats
    or disclaimers beyond what a source itself says.
-4. OPEN: "Final" status on the two practica is inherited from the
-   single-agent era; re-approval after the rework gates is the owner's
-   call. The site must present them as a PRACTICUM section, not degrees
-   (schema migration queued for the integrator band).
+4. RESOLVED (owner, 2026-10-25, round 3): the practica are UNTOUCHED for
+   now (no rework, no gates); the only work is presentation: practica
+   first, then a divider, then the degrees (integrator band).
 5. RESOLVED (owner, 2026-10-25): NO paywalled content anywhere in the
    degrees or practica. Curate from the large body of free, authoritative
    teaching available online. (Also: a legacy link in the footer keeps the

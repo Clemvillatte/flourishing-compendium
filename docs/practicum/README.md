@@ -55,7 +55,10 @@ bar and gates (docs/degrees/README.md), operations rules
 (docs/degrees/WORKER-PROMPT.md), with "degree" read as "program" where it
 appears. Owner decisions live in docs/degrees/OWNER-DECISIONS.md.
 
-Status (2026-10-25): practicum split created by owner directive; scope docs
-moved from the degrees ecosystem; bands migrated. The practicum owners
-verify their scope docs against opened sources and the practice galleries
-(academy/QG1.md and academy/CMP1.md are the verified session libraries).
+Status (2026-10-25, owner directive round 3): DO NOT TOUCH the practica.
+No rework, no scope verification, no module production: the qigong and cmp
+programs stay exactly as they are. The only practicum work is PRESENTATION,
+owned by the integrator band: the Academy lists the practica first, then a
+divider, then the degrees, with the psychology-101 bridge entry presenting
+a direct link to the Psychology Lab site. Practicum owner bands are
+therefore NOT staffed in round 1.
