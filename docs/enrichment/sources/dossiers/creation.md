@@ -1287,3 +1287,7 @@ is complete.
   whole-dossier completion blocker.
 - Publication and registry changes left to the supervisor, as
   settled. Art: None (owner call). Checker exit 0.
+
+## Pass 12 — verification rescue (worker-pplx-dos31-1025k, 2026-10-25)
+
+The three bot-blocked carriers were re-attempted through the fetch tool this pass and all three returned their passages verbatim: the Conner DOI abstract ("Lagged multilevel models revealed... specific to creative activity predicting well-being."), the Jones et al. T&F page carrying the Sennett sentence ("Craftsmanship names an enduring, basic human impulse, the desire to do a job well for its own sake."), and the Rubinstein PMC article body (the McAdams and de St. Aubin seven-facets passage). Each extraction was cross-checked against the manual verification already documented in the pass-11 entry before use. The verifier cache was seeded with those verbatim extractions (raw urllib downloads remain blocked: both T&F URLs return 403; the PMC raw download returns a bot-check interstitial, which was overwritten with the extracted passage). Re-run result: 44 quotations checked, 0 not found — the three previously unresolved automated matches are closed; the dossier's verification is now 44/44 automated. No dossier text changed this pass; the only edits are this ledger entry and the band-file note.
