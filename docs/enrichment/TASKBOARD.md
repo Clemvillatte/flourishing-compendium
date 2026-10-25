@@ -3489,3 +3489,15 @@ next writer — two citation corrections to the routing above:
   dossier's questions sit under its own disagreement-heading family
   (per the Correction 2 note); a count below the bar may only appear
   after that family-level audit.
+
+- Family-level audit done (same worker, T+40): all nine checked
+  dossiers carry at least 3 question headings under their own
+  disagreement-family headings — frustration 3, leisure 3,
+  meaning-and-mortality 4, right-effort 3, right-intention 7,
+  right-mindfulness 6, suffering 3, right-speech 3, right-view 3
+  (under "Where the traditions genuinely disagree" — the dos18 worker
+  appears to have moved it since Correction 2 counted 2; the
+  owner-exception dependency may now be resolved). No 3-5-bar repair
+  is needed on the question count for these dossiers; the "no-section
+  dossiers" repair list looks stale on this axis and should be
+  re-scoped before the next writer is assigned to it.
