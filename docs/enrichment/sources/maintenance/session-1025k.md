@@ -219,3 +219,6 @@ BI048 (Foster and Sheel 2005 sentence on facial cold receptors) is not in the ab
 
 ## Audit: PMC full-text quotes
 Parsed 184 PMC records for quotes on principle pages; the XML service returns full text for only some articles, so the unmatched quotes were checked on the live pages: AF054 (three quotes, [Tangney et al. 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/)), R076 ([Maslach and Leiter 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC4911781/)), AT071 ([Ehring 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/)), BI005/MO010 ([Dantzer et al. 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC2919277/)). All verbatim. Not re-checked (no full text in the service): AF035, AT047, BE039, P163, PP083, SE011, SP034.
+
+## Audit: remaining PMC quotes
+AF035 ([Petri et al. 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC10172524/)), AT047 ([Lutz et al. 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/)), BE039 ([Edinger et al. 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/)) and SP034 ([Tangney et al. 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3092296/)) quotes confirmed verbatim in the opened pages. Still unchecked: P163, PP083, SE011.
