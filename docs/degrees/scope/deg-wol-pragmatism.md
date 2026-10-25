@@ -36,6 +36,25 @@ Elective branches:
 
 deg-philosophy module 4 (Pragmatism and Process) plus its 3 attachments.
 
+## Benchmark against opened authoritative curricula (Gate-1 groundwork)
+
+Anchors opened by the strategist, 2026-10-25 (ledger: docs/degrees/ledgers/deg-wol-pragmatism.md):
+
+1. Georgetown PHIL 351, American Pragmatism (Blattner) — https://faculty.georgetown.edu/blattnew/prag/index.shtml. Classical pragmatist organism-environment-meaning-action themes, theories of truth and knowledge, James's utilitarian theory of value against Dewey's criticism, fact/value, applications to philosophy of religion, free will and law. Required texts: James (McDermott), Dewey (Essential Dewey vol. 2), Peirce (Essential Writings), Putnam, Rorty. Assessed entirely by two papers.
+2. Duke PHIL 333, American Philosophy (Hoover, Fall 2016) — https://public.econ.duke.edu/~kdh9/Courses/Pragmatism/$American%20Philosophy%20Syllabus%20Fall%202016.pdf. Full reading schedule: Peirce on belief and the pragmatic maxim (Fixation of Belief, How to Make Our Ideas Clear), James (Will to Believe, Pragmatism, truth), Dewey (Darwinism, truth, inquiry, aesthetics, the Construction of the Good, Philosophy and Democracy), then Hook, Putnam, Price and two-plus weeks of Rorty. Assessed by weekly short assignments, participation and a final.
+3. University of Houston, American Philosophy (Freelan) — https://www.uh.edu/~cfreelan/courses/americanphil/american.html. Survey from Emerson and Thoreau roots through Peirce, James and Dewey, structured by Cornel West's genealogy, ending in West's prophetic pragmatism. Texts: West, Thayer's two readers, Goodman's contemporary reader.
+
+Comparison:
+
+- Classical core: all three anchors centre Peirce, James and Dewey; the scope's classical core matches directly. The scope's exit capability — place James, Dewey and Peirce in relation to each other — is exactly what Duke's arc (Peirce's maxim → James's truth → Dewey's inquiry) and Georgetown's fact/value debate do.
+- The pragmatist method as belief/habit revision: Peirce's Fixation of Belief and How to Make Our Ideas Clear (both anchors' first readings) are the canonical source of the scope's lived-method framing. The scope's habit-revision emphasis is faithful to the anchors; the "walk" framing (applying the method to one's own habits) is a curricular choice, not an anchor divergence — Duke assesses weekly engagement with primary texts, which the walk's habit exercises parallel.
+- Process thought: the scope includes process thought in its bounded domain and cites it in exit capabilities. None of the three anchors mentions process philosophy (Whitehead); the HSE and scribd results from the search do pair Pragmatism with Process Philosophy, but those are not opened anchors. Recorded as a gap: process thought is the scope's own addition beyond the opened anchor set, defensible on the raw-material basis (deg-philosophy module 4 is titled Pragmatism and Process) but not anchor-verified by these three. The owner may want one process-philosophy anchor opened before Gate 1 signs off.
+- Neopragmatism: Georgetown and Duke both teach Putnam and Rorty; the scope holds Rorty as an elective. That is a modest divergence — the anchors treat neopragmatism as mainstream core, the scope defers it. Defensible for a first walk (classical core first), but recorded: a learner finishing the walk meets Rorty only if they take the elective.
+- Dewey's ethics and education: Duke teaches Dewey's Construction of the Good and Philosophy and Democracy; Georgetown's required Dewey volume is the Ethics one. The scope's Dewey-ethics-and-education elective is therefore anchor-supported core material held as elective. Recorded as a divergence, not silently.
+- Exclusions: the scope excludes analytic philosophy of language beyond the pragmatic maxim; the anchors' later weeks (Putnam, Price, Brandom at Duke) lean that way, so the exclusion trims anchor tail material only. Existentialism and Greek virtue ethics exclusions are untouched by these anchors.
+
+Strategist's note (non-binding): the classical core and the lived-method framing are anchor-solid. Two items for the owner's eye: process thought has no support among the three opened anchors (a Whitehead-anchored syllabus should be opened before the scope gate if the owner wants it verified), and Rorty is core at the anchors but elective in the scope.
+
 ## Owner items
 
 See docs/degrees/OWNER-DECISIONS.md (legacy degrees and their fate).
