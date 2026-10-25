@@ -28,7 +28,7 @@ These are associations from observational studies, not proof that wealth or reco
 
 (Kasser and Ryan, 1996; Niemiec et al., 2009.)
 
-**Plain words** The two lists are short. One runs money, image, status; the other runs growth, connection, contribution. In the 1996 studies people weighted toward the first reported more symptoms and less vitality; in the 2009 follow-up, attaining extrinsic goals was not associated with better psychological health, while attaining intrinsic ones was, with need satisfaction reported as the mediator. The claim is not that money ruins you; it is that the lists are not interchangeable.
+**Plain words** People want things for two kinds of reasons. Some wants — having money, looking good, being known — are wanted because of what they get you from others. Others — growing, belonging, giving something — are wanted for their own sake. The studies keep landing on the same split: people whose want-list leans to the first kind report feeling worse; people whose list leans to the second kind report feeling better; and getting the first kind does not seem to help. The useful move is not moralising about money. It is noticing which list an ambition actually sits on, because the two lists are not interchangeable, and your week gets built around whichever one wins.
 
 *For example:* Imagine someone who starts a company to help farmers. Two years in, every decision is about valuation, and the farmers rarely come up. In the studies' terms, the centre of their goals has moved.
 
