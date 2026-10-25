@@ -650,3 +650,13 @@ their loglines: ST065 Nagasena and the Chariot (Milindapañha), ST064
 The Lute String (Soṇa Sutta, AN 6.55), ST067 Fletcher's Classroom
 (Whiplash, 2014). All three loglines compress the cards' subjects
 accurately. No defects found.
+
+## Story spot-checks, batch 2 (worker-pplx-dos18-1025g, 2026-10-25)
+
+Three story cards opened at body level and checked against their
+loglines: ST065 Nagasena and the Chariot (the chariot dismantled
+part by part — matches), ST064 The Lute String (the bleeding feet,
+the too-tight or too-slack strings — matches) and ST067 Fletcher's
+Classroom (bleeding hands, the car crash, the final scene —
+matches). All three match. With batch 1, the sampled cards all
+verify. No defects found.
