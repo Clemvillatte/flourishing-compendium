@@ -82,3 +82,48 @@ Findings for the scope gate (strategist owns the gate):
   are not guides for living in the walk's sense) or add an elective row.
 - The Cynics elective is consistent with the anchors (none of the three
   requires them).
+
+## Legacy harvest manifest (deg-wol-greek owner, 2026-10-25)
+
+Preparatory mapping for legacy deg-philosophy modules 2-3 into the Greek
+walk. Verification status is from fcAcademyData and the deg-verify Block A
+evidence file (verify/deg-philosophy.md) at the time of writing; durations
+blank where the record still carries none. Full production stays behind
+the Phase 0 stop-gate.
+
+### mod-phil-2 Stoicism, ancient and modern (maps to the walk's Stoicism module)
+
+| source | role | title and URL | proposed topic | status |
+|---|---|---|---|---|
+| AR-05 | required | Stoicism, Marcus Aurelius's Meditations, https://www.youtube.com/watch?v=YbAY_xNLReE | Marcus Aurelius as practical text | imported; deg-verify evidence (32:47, content flagged third-party documentary) |
+| ST-01 | required | STOICON '16: Julia Annas, Is Stoic Virtue as Off-Putting as...?, https://www.youtube.com/watch?v=WoDGgj_cfKE | Stoic virtue and its critics | verified-video per deg-verify (16:29) |
+| ST-02 | required | Stoicon 2018: Tony Long, Stoicism Ancient and Modern, https://www.youtube.com/watch?v=_xuQ4i46K_M | ancient versus modern Stoicism | verified-video per deg-verify (11:11) |
+| ST-04 | required | Happiness and Tranquility, https://www.youtube.com/watch?v=ZX0gcziEmpM | Stoic tranquility | imported, duration empty, verification pending |
+| ST-05 | optional | Facing Things Stoically (Gresham), https://www.gresham.ac.uk/watch-now/facing-things-stoically-stoic-recipe-remaining-calm | practical Stoic recipe | imported, verification pending |
+| wiki S | reading | Book II Classical Stoicism (site wiki) | Stoic ethics, passions | available |
+
+Legacy module defects to repair at rebuild: level labels mixed
+(Intermediate and Advanced on one module); prerequisite names a module
+title only; 5-hour claim with no arithmetic; activity and rubric present
+but outcome coverage unverified.
+
+### mod-phil-3 Hellenistic Alternatives (maps to the walk's Hellenistic module)
+
+| source | role | title and URL | proposed topic | status |
+|---|---|---|---|---|
+| M05-XP-01 | required | Epicurus (PHI 251 History of Ancient Philosophy, UNC), https://www.youtube.com/watch?v=2u6Z-NaUDAs | Epicurean pleasure doctrine | imported, verification pending |
+| M05-XP-02 | required | Pyrrhonic Skepticism (PHI 251, UNC), https://www.youtube.com/watch?v=jaFcOp_bPME | Pyrrhonian skepticism and the modes | imported, verification pending |
+| M05-XP-03 | required | Cicero, On the Nature of Gods book 1 (Introduction to Philosophy), https://www.youtube.com/watch?v=hMSDzBicGKw | Hellenistic theology as practical rival | imported, verification pending |
+| SRC-M25-001 | optional | 2025 Terry Lectures, Skepticism/Borders (Peter Adamson), https://www.youtube.com/watch?v=6iLpGOkOx0A | skepticism across traditions | imported, 1:31:07, content check pending |
+| SRC-M25-002 | optional | Curious Researches: Skepticism from Sextus to Descartes (Michael Williams), https://www.youtube.com/watch?v=Dss98-rTl6Q | later reception | imported, 1:18:03, content check pending |
+| SRC-M25-003 | optional | Philosophy Masterclass 2023, Stoics (James Warren), https://www.youtube.com/watch?v=j5QVMN2chOI | Stoicism masterclass | imported, 1:02:57, content check pending |
+| SRC-M25-004 | optional | Epicurus for Today (Kurt Lampe), https://www.youtube.com/watch?v=AZZ5G8KGM2E | modern reception | imported, 49:36, content check pending |
+| SRC-M25-005 | optional | Hellenistic Philosophy, Diogenes of Sinope and Cynicism, https://www.youtube.com/watch?v=YL_b5hUNaIQ | Cynic elective | verified (45:57) |
+| wiki X | reading | Book X Extra Principles (Hellenistic material via extra principles; site wiki) | Hellenistic schools | available |
+
+Legacy module defects to repair at rebuild: Mastery labels on optional
+media (label inflation); the Cynic outcome can be served by SRC-M25-005
+as an elective; 4-hour claim with no arithmetic.
+
+Candidate carried from mod-phil-1 work: ST-03 Stoicon 2020, John Sellars
+(28:05 structured), a first look at Stoicism, pending a transcript read.
