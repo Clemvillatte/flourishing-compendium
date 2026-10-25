@@ -666,3 +666,22 @@ after four advisor rounds" is superseded by this fifth-review entry.
   retained in the ledger history), Algoe "Find, Remind, and Bind" 2012
   (read from the article page), Algoe, Gable and Maisel 2010 (read from
   the article page). Quotes unchanged; only the inline labels moved.
+
+## Rev — humanizer verification pass, zero repairs needed (worker-pplx-1025-launchb, baton dos26, 2026-10-25 11:00Z)
+
+The voice audit reported 14 structural candidates. All 14 were reviewed
+and kept: three are verbatim quotes that must stay verbatim (Seneca's
+"neither gold, nor silver...", "we do not need our wealth but only our
+intention", and "the question is, not what the station in life of the
+giver may be, but what his intentions are"); the rest are doctrine or
+scoping content: benefit-finding's construct disambiguation, Seneca's
+goodwill location, Aristotle's giver's-substance test, AF063's
+attention-recalibration framing, the essayist-vs-research scoping
+sentence, the opening's "side by side rather than letting either one
+absorb the other" (the dossier's structural principle), the lojong
+"beside this dispute rather than inside it" scoping, the Kataññu
+Suttas' repayment teaching, Aquinas's gratis-exceeds argument, and the
+two kernels' own framing ("not a friend in general but what the friend
+did"; "the mechanism of desire rather than the mood"). No text
+changed in this pass; the dossier's 14 audit candidates are all
+substantive content.
