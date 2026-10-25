@@ -1,12 +1,5 @@
 [
 {
-"id": "Eudaimonic well-being",
-"title": "Eudaimonic well-being",
-"path": "content/concepts/Eudaimonic well-being.md",
-"degree": 31,
-"prose_words": 110
-},
-{
 "id": "Bare attention in mindfulness practice",
 "title": "Bare attention in mindfulness practice",
 "path": "content/concepts/Bare attention in mindfulness practice.md",
@@ -14,25 +7,11 @@
 "prose_words": 108
 },
 {
-"id": "Resilience",
-"title": "Resilience",
-"path": "content/concepts/Resilience.md",
-"degree": 21,
-"prose_words": 106
-},
-{
 "id": "Authentic versus hubristic pride",
 "title": "Authentic versus hubristic pride",
 "path": "content/concepts/Authentic versus hubristic pride.md",
 "degree": 19,
 "prose_words": 86
-},
-{
-"id": "Autonomous versus controlled motivation",
-"title": "Autonomous versus controlled motivation",
-"path": "content/concepts/Autonomous versus controlled motivation.md",
-"degree": 19,
-"prose_words": 105
 },
 {
 "id": "Cognitive distortions",
@@ -159,13 +138,6 @@
 "path": "content/concepts/Load theory of attention.md",
 "degree": 15,
 "prose_words": 84
-},
-{
-"id": "Self-concordant goals",
-"title": "Self-concordant goals",
-"path": "content/concepts/Self-concordant goals.md",
-"degree": 15,
-"prose_words": 94
 },
 {
 "id": "Stress cycle completion (Nagorski, Sapolsky)",
@@ -420,6 +392,13 @@
 "prose_words": 59
 },
 {
+"id": "Attentional deployment theory",
+"title": "Attentional deployment theory",
+"path": "content/concepts/Attentional deployment theory.md",
+"degree": 11,
+"prose_words": 69
+},
+{
 "id": "Benefit finding",
 "title": "Benefit finding",
 "path": "content/concepts/Benefit finding.md",
@@ -560,13 +539,6 @@
 "prose_words": 66
 },
 {
-"id": "The community of inquiry",
-"title": "The community of inquiry",
-"path": "content/concepts/The community of inquiry.md",
-"degree": 11,
-"prose_words": 75
-},
-{
 "id": "The dream of the butterfly",
 "title": "The dream of the butterfly",
 "path": "content/concepts/The dream of the butterfly.md",
@@ -607,13 +579,6 @@
 "path": "content/concepts/Three kinds of friendship.md",
 "degree": 11,
 "prose_words": 79
-},
-{
-"id": "Attentional deployment theory",
-"title": "Attentional deployment theory",
-"path": "content/concepts/Attentional deployment theory.md",
-"degree": 10,
-"prose_words": 69
 },
 {
 "id": "Congruence",
@@ -831,6 +796,13 @@
 "path": "content/concepts/Elaboration Likelihood Model.md",
 "degree": 9,
 "prose_words": 107
+},
+{
+"id": "Emotion differentiation",
+"title": "Emotion differentiation",
+"path": "content/concepts/Emotion differentiation.md",
+"degree": 9,
+"prose_words": 86
 },
 {
 "id": "Equipment revealed only in breakdown",
@@ -1055,13 +1027,6 @@
 "path": "content/concepts/Emodiversity theory.md",
 "degree": 8,
 "prose_words": 116
-},
-{
-"id": "Emotion differentiation",
-"title": "Emotion differentiation",
-"path": "content/concepts/Emotion differentiation.md",
-"degree": 8,
-"prose_words": 86
 },
 {
 "id": "Episodic future thinking",
@@ -1825,13 +1790,6 @@
 "path": "content/concepts/Gut-brain axis (Cryan).md",
 "degree": 5,
 "prose_words": 89
-},
-{
-"id": "Hermeneutic listening",
-"title": "Hermeneutic listening",
-"path": "content/concepts/Hermeneutic listening.md",
-"degree": 5,
-"prose_words": 98
 },
 {
 "id": "Interactive activation model",

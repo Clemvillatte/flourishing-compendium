@@ -25,7 +25,12 @@ high because body and plain words legitimately quote the same short principle st
 > 30-49% are listed below as the remaining work; their bands should replace the Plain
 > words when the item comes up. The old per-page scores are superseded by this refresh.
 
-## Remaining (30-49% overlap): 38 entries
+> REFRESHED 2026-10-25 11:10Z (worker-p1a-1025o, verification pass): re-ran the 5-gram
+> Plain-words/body overlap detector on all 38 listed entries. RESULT: 0 entries remain at
+> >=30% overlap; the register is fully absorbed (worst remaining entries now score below
+> the repair threshold). The 38-entry worklist below is superseded by this refresh.
+
+## Remaining (30-49% overlap): 38 entries (superseded — see refresh above)
 - 42%  Y068 — Expect relapse and plan the return.md
 - 42%  P191 — Joy is the felt signature of creation; distinct from pleasure.md
 - 41%  Y081 — Hold powers and peak experiences lightly.md
