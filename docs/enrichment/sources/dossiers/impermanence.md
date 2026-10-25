@@ -203,3 +203,13 @@ None. All four corrections were applied and pushed.
    in Uncertainty's practice; Being-toward-death and Impermanence in Genuine
    Flourishing; Death reflection in Wisdom): absorb, cross-reference or leave
    is a registry decision for the supervisor.
+
+## Carrier diagnosis round, no repairs landed (2026-10-25, worker-pplx-dos33-1025v, baton dos33)
+
+quote_verify reports 3 NOT FOUND on this dossier. All three were diagnosed today; none could be repaired before the run taper, and each is flagged for the next worker.
+
+1. Epicurus, Letter to Menoeceus ("Death, therefore, the most awful of evils, is nothing to us..."): the carrier epicurus.net is unreachable from this network (fetch fails; the checker cache holds the failure). Alternate hosts tried and also failing: history.hanover.edu, attalus.org, mikrosapoplous.gr (all returned error pages). The letter is widely mirrored; a working open mirror would restore the check.
+2. DAP-R subscales quote ("Neutral Acceptance (accepting death as a natural process of life)..."): the PMC6740004 page fetches cleanly (21k chars, no failure marker) but the passage does not appear in its rendered text; the subscale definitions may sit in a table or figure that does not extract. A carrier whose text extraction includes the definitions is needed.
+3. Many Labs replication quote ("Our results were non-diagnostic of whether original author involvement improves replicability..."): the online.ucpress.edu article page did not yield the passage to the checker; not further diagnosed before taper.
+
+No page wording changed. Checks before push: dossier_check exit 0; quote_verify 4 checked, 3 not found (documented above); density 0 dense; voice_audit exit 0.
