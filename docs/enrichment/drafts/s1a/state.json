@@ -104,7 +104,7 @@
    "stid": "ST411"
   },
   "s1a-004": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "D156: the pagoda sways like a willow — Hōryū-ji flexibility vs rigidity",
    "history": [
     {
@@ -140,6 +140,11 @@
      "t": "2026-10-23T11:48:59+00:00",
      "to": "qc_pending",
      "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T13:57:28+00:00",
+     "to": "ready",
+     "note": "verification pass: both NIPPONIA pages re-opened via alternate fetch, all ten quotes verbatim; ready"
     }
    ],
    "stid": "ST412"
@@ -1736,5 +1741,5 @@
    ]
   }
  },
- "updated": "2026-10-25T13:57:07+00:00"
+ "updated": "2026-10-25T13:57:28+00:00"
 }
