@@ -139,14 +139,15 @@ three times with the guidance faded:
    analysis: the wallet is not yours, keeping it treats the owner merely
    as a means to your ends, and honesty is a norm that holds whatever the
    consequences. A classical act-utilitarian analysis: compare the
-   likely consequences of returning versus keeping this wallet for
-   everyone affected; the owner loses 200 dollars and her cards and her
-   week if you keep it, you gain 200 dollars once, and returning it
-   costs you an hour of delivery; on any reasonable weighting of those
-   effects, returning produces more good overall. (Whether a rule of
-   wallet-returning makes the world go better is a further, rule-based
-   comparison; it is noted here so the learner can tell the two apart,
-   and it reaches the same answer here.) A virtue ethics analysis: what
+   expected consequences of returning versus keeping this wallet for
+   everyone affected, under stated assumptions: assume the owner loses
+   200 dollars, her cards and several days of hassle if you keep it, you
+   gain 200 dollars once, and returning it costs you an hour of delivery.
+   Under those assumptions, returning has the better expected
+   consequences for everyone affected taken together. (A rule-based
+   comparison, asking whether a rule of wallet-returning makes the world
+   go better, is a further question; the learner should be able to tell
+   the two comparisons apart.) A virtue ethics analysis: what
    would an honest and just person do here, and what does each act train
    in you; keeping it would rehearse rationalisation, returning it
    rehearses the honesty you want as your default. All three reach the
@@ -212,14 +213,14 @@ can self-check.
    life, virtue acquired by doing the acts. Strong (sample): "Aristotle
    starts from what a thing does uniquely well: a knife cuts, and a good
    knife cuts well. Human beings reason and choose, so the human good is
-   reasoning and choosing well, sustained across a whole life; that is
-   eudaimonia, and it is activity rather than a mood. Because it is
-   activity, you get it by doing it: you become honest by doing honest
-   acts, as builders become builders by building. So virtue is not a rule
-   you follow once but a settled capacity you build, and flourishing is
-   what a life of that building adds up to." Rejection: "Aristotle
-   thought being good makes you happy" (no function argument, no
-   habituation, no connection between them).
+   reasoning and choosing well. Other goods we pursue for the sake of
+   something further, and eudaimonia is the end we pursue for its own
+   sake, the final end that a whole life of good activity adds up to.
+   Habituation is how the virtues get built: you become honest by doing
+   honest acts, as builders become builders by building; the activity
+   itself, done well over a life, is what flourishing is." Rejection:
+   "Aristotle thought being good makes you happy" (no function argument,
+   no habituation, no connection between them).
 3. The dilemma analysis names the framework it is using at each step and
    applies it accurately on the learner's own case: the duty analysis
    identifies the relevant norm and justifies it, the consequentialist
@@ -229,10 +230,12 @@ can self-check.
    "Duty: I promised to support her, but a reference also owes the
    employer truth, and a promise cannot license a lie; so the letter must
    be truthful, which may mean writing a warm letter that states her real
-   gaps. Consequences: the employer staffs a role badly if the letter
-   misleads, she loses the job later and worse if she cannot do it, and I
-   lose future referees' trust if I am known to inflate; the honest
-   letter risks her disappointment now but harms least overall.
+   gaps. Consequences: a possible outcome of the inflated letter is that
+   the employer staffs the role badly and she loses the job later when
+   she cannot do it; another is that I lose future referees' trust if I
+   become known to inflate; compared with the honest letter's risk of
+   her disappointment now, the inflated letter's possible harms are
+   larger and fall on more people.
    Virtue: an honest advocate neither puffs nor damns; writing the
    truthful-warm letter trains me to be useful without being deceptive."
    Rejection (sample): "Utilitarian: the letter helps me because she

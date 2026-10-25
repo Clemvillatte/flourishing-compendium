@@ -158,7 +158,11 @@ is the verifier file:
   SRC-M25-004: 49:36 verified. SRC-M25-005: 45:56 verified (record
   prints 45:57; one-second mismatch noted).
 
-Implication for the harvest: the material for the Stoicism and
-Hellenistic modules is verified and schedulable except ST-05 (duration
-gap); the module rebuilds can proceed to design once the Phase 0
-stop-gate lifts.
+Implication for the harvest: identity, access, credentials and
+durations are verified for every mapped source except ST-05 (duration
+not printed). Content classification still rests on uploader or
+instructor descriptions for AR-05, ST-01, M05-XP-01 and M05-XP-02 (the
+verifier's entries say so explicitly), so recording or transcript reads
+remain outstanding before those four carry module instruction; the
+module rebuilds can proceed to design once the Phase 0 stop-gate lifts,
+with that content check inside the rebuild.
