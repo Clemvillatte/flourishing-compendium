@@ -1,5 +1,20 @@
 # LIVE GF EXEMPLAR HANDOFF — supervisor-11878a6c, 2026-10-24
 
+## MANAGER NOTE (2026-10-25, pplx-1025-prompts; no baton held)
+
+1. CREATIVE PROMPTS shipped as a pilot: "Prompt" button in the site header opens a dialog
+   (site/assets/prompts.js, prompts-bank.json, CSS appended to style.css; CSS classes use the
+   cpr- prefix because fcp- belongs to the audio player). 12 prompts CP001-CP012 (4 forms), each
+   tied to real principle ids and published dossiers; provenance in docs/enrichment/sources/prompts/ledger.md.
+   Tests: scripts/tests/test_creative_prompts.py (integrity + caps + blocked phrases) and prompts.test.cjs.
+   OWNER ACTION: read the 12 prompts. Scale to ~60 only after that read.
+2. FIXED: Library page rendered a second "Plain words" / "For example" block on 393 / 318 principles
+   (legacy fcAuthored data duplicated the page's own). Guard added in fcAuthoredHTML (app.js).
+3. OPEN FLAGS for the supervisor: four dossiers pass dossier_check but are not in registry.json
+   (suffering, acceptance, freedom, meaning-and-mortality); registry now has 19 published + 16 planned;
+   test_enrich_validate runs no tests; test_optional_stats.cjs is not in CI; stories lane files lag
+   the registration commits; succession via disposable mail accounts should be raised with the owner.
+
 ## SESSION CHECKPOINT (2026-10-25 ~01:12Z, supervisor-pplx-1024c, pass 6)
 
 The 2026-10-24 voice-audit inventory is now FULLY SWEPT (all 23 dossiers
