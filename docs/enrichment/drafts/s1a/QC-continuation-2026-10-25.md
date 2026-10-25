@@ -26,17 +26,23 @@ All eight drafts checked (031, 032, 035, 036, 037, 039, 042, 043) pass
 confirmed ALREADY PUBLISHED (ST488/ST490/ST491 — see ROUTE continuation); the
 unpublished ones are 031, 032, 042, 043 (036 was later found published as ST489 — the "36." title prefix defeated title-based matching; see ROUTE). Front matter reconciled with lane state.
 All 26 s1a-origin published pages pass `--context published` except ST432 (1 word over
-cap) and ST184 (upgrade body below the word floor, no Sources URL) — both routed in
-ROUTE.md for supervisor repair.
+cap) and ST184 — CORRECTED 2026-10-25: ST184 is an unmodified legacy-format page
+(the 2026-10-18 import; the s1a-028 upgrade was never applied), failing by
+construction plus the word floor; the prepared replacement body remains available to
+the supervisor. ST432 routed in ROUTE for a one-word trim.
 
-## End-to-end review s1a-032 (2026-10-25, same teller)
+## Review s1a-032 (2026-10-25, same teller — scope: quotes + principle/overlap, not a full narrative read)
 
-Quotes: the clinical-description span and the caravan-fire/recovery sentences verified
-verbatim against the live University of Michigan Press chapter PDF (Givan 2010);
-the source's own caveat ("the view of some authors that two of his digits were
-'useless' or 'paralyzed' is misleading") is handled in the draft's ledger. Principle
-P192 has no story backlinks (zero-story); no existing page tells the Django story
-(entity sweep clean). VERDICT: clean, ready for registration as-is.
+Quotes: the clinical-description span re-extracted character-for-character from the
+live University of Michigan Press chapter PDF (Givan 2010) — it reads "the third and
+fourth fingers of his left hand were bent backward at their base at an abnormal
+angle, and the upper joints were partially flexed", matching the draft exactly; the
+caravan-fire/recovery sentences and the source's "useless or paralyzed... misleading"
+caveat confirmed on the same carrier. Principle P192 has no story backlinks
+(zero-story); no existing page tells the Django story (entity sweep clean). The
+draft's full narrative prose was written and QC'd by its original teller (advisor
+rounds recorded in its QC notes); this session's check covers quotations, principle
+mapping and overlap only. VERDICT: clean on the checked dimensions.
 
 ## Quote re-verification s1a-042 (2026-10-25, same teller)
 
@@ -45,9 +51,14 @@ Milindapañha Book II, Rhys Davids): the name disclaimer, "no chariot... mere em
 sound", the "I have spoken no untruth" reply, "Very good! Your Majesty has rightly
 grasped", the "And just even so" application, and the Vajira-verse closing. The
 page carries a [28] page-number marker inside the "just even so" sentence — page
-furniture, correctly omitted from the draft's quoted span. Two earlier NOT FOUND
-results in my own probing were artifacts of quote-mark style in the probe, not page
-defects; passages confirmed verbatim on re-examination. s1a-042: quotes clean.
+furniture, correctly omitted from the draft's quoted span. Resolution accounting for
+all six ledger quotes: the name disclaimer, the "no chariot" line and the Vajira-verse
+close ("Just as it is by the condition precedent...") returned VERBATIM on the first
+comparison pass; the three middle passages ("I have spoken no untruth", "Very good!
+Your Majesty has rightly grasped", "And just even so") were returned NOT FOUND on
+that pass due to quote-mark style in my probe, and were recovered verbatim on a
+directed re-examination of the same page. No quote remains unresolved. s1a-042:
+quotes clean.
 
 ## Cross-lane verification note (2026-10-25, logged from s1a)
 
