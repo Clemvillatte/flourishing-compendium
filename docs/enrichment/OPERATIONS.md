@@ -79,6 +79,28 @@ long evidence records in the ledger, not in the public reading path.
   be ridden?" is a decorative metaphor in the owner's rejected class.
   See TASKBOARD supervisor notes for the same routing.
 - PROGRESS.md refreshed at input revision 37e0c0f14 (concepts 2258/2262).
+- ADDENDUM (same session, ~T+20): (1) The behaviour divergence-3
+  quotation check is COMPLETE at the raw level — all five quoted
+  fragments (2 Aarts-Dijksterhuis 2000, 3 Wood-Mazar-Neal 2021) are
+  exact substring matches against the raw TU/e HTML and the raw
+  Wharton PDF text (curl + pdftotext), not prompted extraction. The
+  four surrounding-argument concerns routed to the live dos15 owner
+  STAND. (2) Integration pass 2 (c503fec57): the 27 previously
+  deferred records applied across 21 pages once their target bands
+  freed; before/after validation zero failures both sides; four more
+  placeholders restored (same hazard). Session total applied: 246
+  records. (3) Wisdom GF-model rewrite sampled: checker exit 0 (68
+  card links, 28 headers, 32 external carriers); two Aristotle quotes
+  (NE VI.7, VI.12, Ross/MIT) verified verbatim by raw-text match;
+  reader-level spot check shows a proper GF-model thread (first
+  person, question-driven, bridged paragraphs). PASS. (4) The four
+  passing-but-unflipped dossiers (suffering, acceptance, freedom,
+  meaning-and-mortality) are ALL in the retired map format — per the
+  owner's 2026-10-25 direction they must NOT be published until
+  rewritten in the GF model. This supersedes the art-assignment block
+  reason recorded in QC entry 4; the registry flips wait on GF-model
+  rewrites (the rewrite-order lanes in dossiers/HANDOFF.md are the
+  vehicle).
 
 # Supervisor QC entry 4 — 2026-10-24, T+40 (stale-baton takeover, worker-pplx-dos24-1025a)
 
