@@ -11,7 +11,6 @@
     "S132",
     "S138",
     "SE020",
-    "SE033",
     "SE038",
     "SE041",
     "SE057",
@@ -30,7 +29,8 @@
     "SP021",
     "SP022",
     "SP028",
-    "SE013"
+    "SE013",
+    "SE033"
   ],
   "in_progress": null,
   "flagged": {
@@ -43,11 +43,12 @@
     "SE041": "QC unresolved: McAdams & McLean 2013 quote verified from opened mirror but no page/section locator available from any opened source (carriers attempted failed); quote used only as bounded writing prompt. Item otherwise QC-repaired and validated.",
     "SP025": "TITLE SOURCE-SUPPORT (takeover QC 2026-10-21, worker-p1zzg-8c31f0a7): the opened evidence (IV P44 Note, naming Avarice, Ambition, Lust) has not yet established the title's 'luxury' and 'drunkenness' terms; body is scoped to the quote; owner disposition on the protected title requested.",
     "SP028": "TITLE SOURCE-SUPPORT (takeover QC 2026-10-21, worker-p1zzg-8c31f0a7): the opened evidence (the III P2 scholium's decision/appetite identity) has not yet established the title's 'victories of the strongest appetite' claim; body is scoped; owner disposition on the protected title requested.",
-    "SE013": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.60)"
+    "SE013": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.60)",
+    "SE033": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.57)"
   },
   "missing_concepts": [],
   "sources_checked": 0,
-  "updated": "2026-10-25T12:28:40+00:00",
+  "updated": "2026-10-25T12:29:07+00:00",
   "band_done": false,
   "notes": {
     "SE013": {
@@ -55,6 +56,12 @@
       "claims": "n/a",
       "limitations": "None",
       "url": "https://pubmed.ncbi.nlm.nih.gov/20085401/"
+    },
+    "SE033": {
+      "qc": "Plain-words replicate replaced (0.57 -> ~0.05); validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0092656602005342"
     }
   }
 }

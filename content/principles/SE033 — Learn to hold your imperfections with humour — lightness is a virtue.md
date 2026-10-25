@@ -21,7 +21,7 @@ So laughing at your flaws is not one thing. Joking at your own expense to win ap
 The original entry's "lightness is a virtue" is my judgement; the sources measure correlations. Kuiper 1992, Dozois 2009 and Martin 2007 are listed as further reading, not summarized here.
 
 **Plain words**
-Seeing your own flaws as funny can help when it keeps perspective. Joking at your own expense to win approval is a different habit with worse associations.
+Two jokes look alike from the outside and pull in opposite directions. One keeps you company in trouble, the kind of outlook that greets a bad week with a shrug and a good line. The other performs for the room, offering yourself as the price of a laugh. The first travels with self-respect; the second, in the studies so far, does not.
 
 **For example**
 After a mistake, ask whether the joke you are about to make cheers you up or just buys approval.
