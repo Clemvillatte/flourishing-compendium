@@ -23,7 +23,7 @@ The compendium reads the finding through its simplicity and rest principles.
 
 ### Why the three-way split helps
 
-The three-way split is the theory's practical gift. Because the loads have different sources, they have different fixes: intrinsic load belongs to the material and is met with time and segmentation, extraneous load belongs to the presentation and is met with design, and germane load is the learner's own effort aimed at the essential information rather than the clutter. The simplicity principle attacks the second kind, and the rest principle concedes the first: the container is small, and there is a bottom to it.
+The three-way split is the theory's practical gift. Because the loads have different sources, they have different fixes: intrinsic load belongs to the material and is met with time and segmentation, extraneous load belongs to the presentation and is met with design, and germane load is the learner's own effort aimed at the essential information rather than the clutter. The simplicity principle attacks the second kind, and the rest principle concedes the first: working memory holds only a small number of items at a time.
 
 ### In the compendium
 

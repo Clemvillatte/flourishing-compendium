@@ -21,7 +21,7 @@ The chapter locates gentleness between two failures, both blamed. The deficiency
 
 The excess comes in two tempers:
 
-> "Now hot-tempered people get angry quickly and with the wrong persons and at the wrong things and more than is right, but their anger ceases quickly-which is the best point about them. By reason of excess choleric people are quick-tempered and ready to be angry with everything and on every occasion; whence their name." (Aristotle, [Nicomachean Ethics IV.5, translated by W. D. Ross, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
+> "Now hot-tempered people get angry quickly and with the wrong persons and at the wrong things and more than is right, but their anger ceases quickly-which is the best point about them. [...] By reason of excess choleric people are quick-tempered and ready to be angry with everything and on every occasion; whence their name." (Aristotle, [Nicomachean Ethics IV.5, translated by W. D. Ross, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
 
 Both extremes fail at the same job, knowing what is worth defending and when: the slavish person cannot defend it, the choleric defends everything at once, and the good-tempered person is praised for the fit of the anger to its occasion rather than for its smallness. The chapter's hesitation about the deficiency's name is itself instructive. The excess had a ready name in choleric, while the absence of anger at insults was so far from a virtue that the vocabulary barely covered it, and the slavish tag does the moral work the missing name would have done.
 

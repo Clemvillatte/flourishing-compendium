@@ -22,7 +22,7 @@ Chapter 44 opens by asking the reader to weigh life against fame and wealth, the
 
 ### What the two chapters share
 
-Both chapters refuse the arithmetic of more. Chapter 33 names sufficiency a form of wealth that does not compound, and chapter 44 makes the same move with a question: keeping life and losing the rest, or keeping the rest and losing life, which brings sorrow nearer? The contentment at issue is an active measurement: knowing what the living actually requires and stopping there, and the shame the verse says contentment fears none of is the comparison that would restart the count. The measure is taken in advance rather than after the loss, since chapter 44 asks its question while the reader still holds all three things, and that timing is what makes the answer practical instead of elegiac.
+Both chapters refuse the arithmetic of more. Chapter 33 names sufficiency a form of wealth that does not compound, and chapter 44 makes the same move with a question: keeping life and losing the rest, or keeping the rest and losing life, which brings sorrow nearer? The contentment at issue is the practical judgment the chapters give concrete advice about: knowing what the living requires and stopping there, and the shame the verse says contentment fears none of is the comparison that would restart the count. The measure is taken in advance rather than after the loss, since chapter 44 asks its question while the reader still holds all three things, and that timing is what makes the answer practical instead of elegiac.
 
 ## Sources
 - [[T012 — Laozi]]: the Daodejing 33 and 44 passages the page opens with.
