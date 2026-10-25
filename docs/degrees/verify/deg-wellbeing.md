@@ -304,8 +304,8 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
   contagion and position. Fits mod-wb-3's social networks strand.
 - Relevant segment: whole seminar, 1:01:11.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified; status was already verified-video before this pass.
-  FRESH CORROBORATION, NO STATUS CHANGE (worker-pplx-degfin-1, deg-verify-a,
-  2026-10-25, batched pass; written before the 14:58:43Z save): the third-party
+  FRESH CORROBORATION, NO STATUS CHANGE (worker-pplx-degfin-1, deg-verify-a;
+  evidence pass 2026-10-25; no-upgrade correction by QC revision, 2026-10-25): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=PR21oQpeKZM&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the seminar's substance: how social network structure

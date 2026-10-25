@@ -1163,7 +1163,7 @@ attach them with evidence on file.
   substance, attributes and modes; God as nature; necessity and human
   freedom (Ergo). SEPARATE-BASES NOTE: the retrieved text does not
   explicitly identify the lecturer as Noa Lahav Ayalon (the speaker
-  says "I am Noah" during an example, apparently a garbled rendering);
+  says "I am Noah" during an example);
   the speaker's identity rests on the identity basis already recorded in
   this entry (the opened host record for the Ergo series), and the
   transcript establishes coverage. Status upgraded verified-partial to
