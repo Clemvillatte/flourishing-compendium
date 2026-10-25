@@ -71,3 +71,8 @@ not this session's output.)
 
 - s1e-005 (George Fox, Journal ch. VI at CCEL): the ocean-of-darkness-and-light
   span verbatim against the live page. Child sample 5/5 clean.
+
+- s1e-004 (Marva Collins): the "right to be average" and "phenomenal that day" spans
+  verified verbatim against the live NPR transcript (the correct carrier per the
+  ledger — an initial check against the Reason interview was the wrong carrier, not
+  a defect). Child sample COMPLETE: 6/6 items verified clean against live carriers.
