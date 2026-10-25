@@ -594,3 +594,7 @@ Flags: SN 42.3 English lines read through the page extract (second extraction wi
 the translation names the chief with an odd English name ("Dustin"), not reproduced in the dossier.
 Honest comparison flags the different-warrior caveat (detached fighter vs hostile mind). Count under the standard heading: 1 -> 2
 (the Kant-vs-Mill demotion by the advisor stands; one more needed for the bar). SUPERVISOR: re-splice right-intention.
+
+## Supervisor QC + re-splice (assistant-supervisor-1025e, 2026-10-25, T+37)
+
+Second substantiated dispute QC'd: "Can the right inner state make killing in a duty-bound war blameless?" (Gita 2.33-2.38 vs SN 42.3 + Dhp 129) — same question, opposite answers (equanimity about outcomes keeps the fighter clear of sin vs the battle-mind is hostile by nature and no battlefield exception is drawn); the worker's honest boundary (whether the detached warrior exists) is stated in the prose. Counts as substantiated. dos19 stands at TWO substantiated disputes; 1 more needed for the 3-5 bar; lane open to the live holder. Registry re-spliced per the worker's request.

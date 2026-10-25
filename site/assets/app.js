@@ -12667,7 +12667,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Right intention](card:Right%20intention) is the second factor of the [Eightfold Path](card:Eightfold%20Path), and [the three trainings](card:The%20three%20trainings) group it with [right view](card:Right%20view) under wisdom — SN 45.8 names right view, then right resolve, then [right speech](card:Right%20speech) and [right action](card:Right%20action). Translations differ (right resolve, right intention, right thought), but the three components are the same across them."
+          "x": "[Right intention](card:Right%20intention) is the second factor of the [Eightfold Path](card:Eightfold%20Path)."
+        },
+        {
+          "t": "p",
+          "x": "[The three trainings](card:The%20three%20trainings) group it with [right view](card:Right%20view) under wisdom."
+        },
+        {
+          "t": "p",
+          "x": "SN 45.8 names right view, then right resolve, then [right speech](card:Right%20speech) and [right action](card:Right%20action). Translations differ (right resolve, right intention, right thought), but the three components are the same across them."
         },
         {
           "t": "p",
@@ -12701,7 +12709,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The Indian traditions add release rather than contentment. [Vairagya](card:Vairagya) is dispassion in Patañjali's Yoga Sūtra, the release of the grip on outcomes once they are seen as impermanent; [detachment from outcomes](card:Detachment%20from%20outcomes) is the Bhagavad Gita's instruction to act from duty while releasing ownership of the results (2.47). Psychology has its own construct for release: [nonattachment](card:Nonattachment) names release from mental fixations, a flexible relationship with experience; [Sahdra, Shaver and Brown](card:Non-attachment) built the measure for the Buddhist concept, distinguished from interpersonal attachment styles. In the Christian mystical register, [Gelassenheit](card:Gelassenheit) is Eckhart's releasement, something a person actively cultivates."
+          "x": "The Indian traditions add release rather than contentment. [Vairagya](card:Vairagya) is dispassion in Patañjali's Yoga Sūtra, the release of the grip on outcomes once they are seen as impermanent; [detachment from outcomes](card:Detachment%20from%20outcomes) is the Bhagavad Gita's instruction to act from duty while releasing ownership of the results (2.47)."
+        },
+        {
+          "t": "p",
+          "x": "Psychology has its own construct for release: [nonattachment](card:Nonattachment) names release from mental fixations, a flexible relationship with experience; [Sahdra, Shaver and Brown](card:Non-attachment) built the measure for the Buddhist concept, distinguished from interpersonal attachment styles. In the Christian mystical register, [Gelassenheit](card:Gelassenheit) is Eckhart's releasement, something a person actively cultivates."
         },
         {
           "t": "p",
@@ -12722,11 +12734,23 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The neighbors give goodwill different foundations. For Hume, [benevolence](card:Benevolence) is a natural sentiment treated in the second Enquiry. The Christian materials are [agape](card:Agape), the Pauline love given without regard to worth or return, and [enemy-love](card:Enemy-love), the Gospel's instruction to love the enemy (Matthew 5). Śāntideva's argument turns the enemy into an occasion: [enemy as teacher](card:Enemy%20as%20teacher) is his case that the adversary provides the practice of forbearance. [The free person loves all](card:The%20free%20person%20loves%20all) is Spinoza's version, the person living by reason desiring the good for everyone."
+          "x": "The neighbors give goodwill different foundations. For Hume, [benevolence](card:Benevolence) is a natural sentiment treated in the second Enquiry."
         },
         {
           "t": "p",
-          "x": "For an unskillful state that has taken hold, [the counter-affect](card:The%20counter-affect) is the early discourses' own method: attention directed toward a theme or quality that counters the state (MN 20). In ethics, [the expanding circle](card:The%20expanding%20circle) is Singer's name for the history and task of widening moral concern. The social science of where ill will between groups comes from is [realistic conflict theory](card:Realistic%20conflict%20theory), and the finding that structured [intergroup contact](card:Intergroup%20contact) reduces it."
+          "x": "The Christian materials are [agape](card:Agape), the Pauline love given without regard to worth or return, and [enemy-love](card:Enemy-love), the Gospel's instruction to love the enemy (Matthew 5)."
+        },
+        {
+          "t": "p",
+          "x": "Śāntideva's argument turns the enemy into an occasion: [enemy as teacher](card:Enemy%20as%20teacher) is his case that the adversary provides the practice of forbearance. [The free person loves all](card:The%20free%20person%20loves%20all) is Spinoza's version, the person living by reason desiring the good for everyone."
+        },
+        {
+          "t": "p",
+          "x": "For an unskillful state that has taken hold, [the counter-affect](card:The%20counter-affect) is the early discourses' own method: attention directed toward a theme or quality that counters the state (MN 20). In ethics, [the expanding circle](card:The%20expanding%20circle) is Singer's name for the history and task of widening moral concern."
+        },
+        {
+          "t": "p",
+          "x": "The social science of where ill will between groups comes from is [realistic conflict theory](card:Realistic%20conflict%20theory), and the finding that structured [intergroup contact](card:Intergroup%20contact) reduces it."
         },
         {
           "t": "p",
@@ -12751,7 +12775,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The Stoic contribution is a claim about disturbance rather than harm itself: [judgment adds the harm](card:Judgment%20adds%20the%20harm), the position that events do not disturb people, the opinions about the events do (Enchiridion 5) — a claim I connect editorially to the harmlessness resolve. And [the inner friend](card:The%20inner%20friend) is Hecato's line via Seneca on making peace with oneself."
+          "x": "The Stoic contribution is a claim about disturbance rather than harm itself: [judgment adds the harm](card:Judgment%20adds%20the%20harm), the position that events do not disturb people, the opinions about the events do (Enchiridion 5), a claim I connect editorially to the harmlessness resolve. And [the inner friend](card:The%20inner%20friend) is Hecato's line via Seneca on making peace with oneself."
         },
         {
           "t": "h",
@@ -12781,7 +12805,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The modern research on intention is less about training the thought than about closing the gap between aim and act. [Akrasia (weakness of will)](card:Akrasia%20%28weakness%20of%20will%29) is the standing problem that knowing the aim does not secure acting on it. [The intention-behavior gap](card:The%20intention-behavior%20gap) is Sheeran's measurement of how little intentions predict what people then do, and [implementation intentions](card:Implementation%20intentions) are Gollwitzer's if-then plans, advance decisions that link a situation to a response. The everyday scale of the discipline is [morning intention](card:Morning%20intention), the daily setting of one sentence of aim. [Intentionality](card:Intentionality) is Brentano's revival of the scholastic term for the mind's directedness at its objects — a different sense of intention from the aiming of a resolve."
+          "x": "The modern research on intention is less about training the thought than about closing the gap between aim and act. [Akrasia (weakness of will)](card:Akrasia%20%28weakness%20of%20will%29) is the standing problem that knowing the aim does not secure acting on it. [The intention-behavior gap](card:The%20intention-behavior%20gap) is Sheeran's measurement of how little intentions predict what people then do, and [implementation intentions](card:Implementation%20intentions) are Gollwitzer's if-then plans, advance decisions that link a situation to a response."
+        },
+        {
+          "t": "p",
+          "x": "The everyday scale of the discipline is [morning intention](card:Morning%20intention), the daily setting of one sentence of aim. [Intentionality](card:Intentionality) is Brentano's revival of the scholastic term for the mind's directedness at its objects, a different sense of intention from the aiming of a resolve."
         },
         {
           "t": "h",
@@ -12809,21 +12837,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The passages below are held side by side; whether the traditions disagree about them is an open research question. MN 19 commends renunciation-thinking; the Bhagavad Gita says abstention and renunciation alone do not attain perfection, and directs action without entitlement to its fruits:"
-        },
-        {
-          "t": "q",
-          "x": "\"Not by merely abstaining from work can one achieve freedom from reaction, nor by renunciation alone can one attain perfection.\" ([Bhagavad Gita 3.4](https://www.bhagavad-gita.us/bhagavad-gita-3-4/))",
-          "s": null
-        },
-        {
-          "t": "q",
-          "x": "\"You have a right to perform your prescribed duty, but you are not entitled to the fruits of action.\" ([Bhagavad Gita 2.47](https://www.bhagavad-gita.us/bhagavad-gita-2-47/))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "These excerpts do not establish whether the traditions disagree about leaving household life: the MN 19 passage affirms renunciation-thinking without prescribing the abandonment of duties, and the Gita passages deny that renunciation is sufficient, not that it is beneficial. The three questions below gather further passages held side by side. The first two remain open, their carriers readable either way; the third carries a stated disagreement."
+          "x": "The questions below gather passages that sit side by side; whether the traditions disagree about them is an open research question. The last two hold the strongest pairings I could substantiate from opened carriers, and both stop short of a stated disagreement; what would settle each is a source on one side affirming what a source on the other denies."
         },
         {
           "t": "h2",
@@ -12888,6 +12902,100 @@ window.fcDossiersData = {
         },
         {
           "t": "h2",
+          "x": "Is a good intention worth anything on its own?"
+        },
+        {
+          "t": "p",
+          "x": "Kant's answer is that the good will is good in itself, whatever it manages to do:"
+        },
+        {
+          "t": "q",
+          "x": "\"A good will is good not because of what it performs or effects, not by its aptness for the attainment of some proposed end, but simply by virtue of the volition; that is, it is good in itself.\" ([Kant, Fundamental Principles of the Metaphysic of Morals, Abbott translation](https://www.gutenberg.org/files/5682/5682-h/5682-h.htm))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"Even if it should happen that, owing to special disfavour of fortune, or the niggardly provision of a step-motherly nature, this will should wholly lack power to accomplish its purpose... then, like a jewel, it would still shine by its own light, as a thing which has its whole value in itself.\" ([Kant, Fundamental Principles of the Metaphysic of Morals, Abbott translation](https://www.gutenberg.org/files/5682/5682-h/5682-h.htm))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The path's texts test a thought by what it does. In MN 19 the Buddha grades each thought as it arises by its fruit:"
+        },
+        {
+          "t": "q",
+          "x": "\"Thinking imbued with sensuality has arisen in me; and that leads to my own affliction or to the affliction of others or to the affliction of both. It obstructs discernment, promotes vexation, & does not lead to Unbinding.\" ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"Thinking imbued with renunciation has arisen in me; and that leads neither to my own affliction, nor to the affliction of others, nor to the affliction of both. It fosters discernment, promotes lack of vexation, & leads to Unbinding.\" ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The two passages are held side by side; whether they disagree is open. Kant asks what makes a will worthy of esteem, the sutta asks which thoughts to cultivate on a path, and neither addresses the other; a person could hold both answers without contradiction. What differs is where each looks for an intention's worth: for Kant inside the willing itself, in the sutta in what the thought does."
+        },
+        {
+          "t": "p",
+          "x": "Mill adds a third position that helps mark the boundary. He locates the rightness of an act in what it tends to do, not in the purity of the will:"
+        },
+        {
+          "t": "q",
+          "x": "\"The creed which accepts as the foundation of morals, Utility, or the Greatest Happiness Principle, holds that actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness.\" ([Mill, Utilitarianism, chapter II](https://www.gutenberg.org/files/11224/11224-h/11224-h.htm))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"He who saves a fellow creature from drowning does what is morally right, whether his motive be duty, or the hope of being paid for his trouble.\" ([Mill, Utilitarianism, chapter II](https://www.gutenberg.org/files/11224/11224-h/11224-h.htm))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "For Mill the act's rightness is decided by its tendency and the agent's worth by the motive — a division of the question rather than an answer to it, which is why this stands as a parallel rather than a dispute."
+        },
+        {
+          "t": "h2",
+          "x": "Must the holy life mean leaving the household's duties?"
+        },
+        {
+          "t": "p",
+          "x": "MN 36 has the Buddha recall the reflection that started his path:"
+        },
+        {
+          "t": "q",
+          "x": "\"Household life is confining, a dusty path. Life gone forth is the open air. It isn't easy, living in a home, to practice the holy life totally perfect, totally pure, a polished shell. What if I, having shaved off my hair & beard and putting on the ochre robe, were to go forth from the household life into homelessness?\" ([MN 36, Thanissaro translation](https://www.dhammatalks.org/suttas/MN/MN36.html))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"So at a later time, when I was still young, black-haired, endowed with the blessings of youth in the first stage of life, having shaved off my hair & beard—though my parents wished otherwise and were grieving with tears on their faces—I put on the ochre robe and went forth from the home life into homelessness.\" ([MN 36, Thanissaro translation](https://www.dhammatalks.org/suttas/MN/MN36.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The Bhagavad Gita, for its part, tells a warrior who wants to lay down his weapons that abstaining from the allotted work attains nothing:"
+        },
+        {
+          "t": "q",
+          "x": "\"Not by merely abstaining from work can one achieve freedom from reaction, nor by renunciation alone can one attain perfection.\" ([Bhagavad Gita 3.4](https://www.bhagavad-gita.us/bhagavad-gita-3-4/))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"You have a right to perform your prescribed duty, but you are not entitled to the fruits of action.\" ([Bhagavad Gita 2.47](https://www.bhagavad-gita.us/bhagavad-gita-2-47/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The two passages sit on either side of the question whether the holy life requires walking out of the duties a life was born into, and neither addresses the other: one tells of a departure that grieves a household, the other of a refusal to let a warrior abandon his. Whether the traditions disagree turns on a difference of target: the Gita's renunciation is the abandonment of action, the Buddhist going-forth is the abandonment of the home, and each could say the other has misdescribed what it is renouncing. The question left to the reader is whether the duties of a life are obstacles to be left behind or the very material of the practice."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
           "x": "Is anger ever fitting?"
         },
         {
@@ -12925,6 +13033,53 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "Their ideals differ over whether excellent character includes appropriate anger ([Aristotle, Nicomachean Ethics IV.5](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html); [SN 7.2](https://www.accesstoinsight.org/tipitaka/sn/sn07/sn07.002.than.html)). The passages leave unresolved whether a firm, anger-free response can perform the protective role Aristotle associates with anger."
+        },
+        {
+          "t": "h2",
+          "x": "Can the right inner state make killing in a duty-bound war blameless?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: whether a warrior who fights because duty requires it, and who is killed or kills, has done wrong and faces a bad destination. Krishna answers no, and says so twice in the second chapter of the Gita. A warrior who refuses the fight is the one who sins:"
+        },
+        {
+          "t": "q",
+          "x": "\"If, however, you do not perform your religious duty of fighting, then you will certainly incur sins for neglecting your duties and thus lose your reputation as a fighter.\" ([Bhagavad Gita 2.33](https://www.bhagavad-gita.us/bhagavad-gita-2-33/))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"O son of Kunti, either you will be killed on the battlefield and attain the heavenly planets, or you will conquer and enjoy the earthly kingdom. Therefore get up and fight with determination.\" ([Bhagavad Gita 2.37](https://www.bhagavad-gita.us/bhagavad-gita-2-37/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The next verse names the inner condition: \"Do thou fight for the sake of fighting, without considering happiness or distress, loss or gain, victory or defeat—and by so doing you shall never incur sin\" ([Bhagavad Gita 2.38](https://www.bhagavad-gita.us/bhagavad-gita-2-38/)). All three quotes come from one English rendering on the same site, so the wording is the translator's, and I have not compared it with the Sanskrit beyond the verse transliterations printed beside it."
+        },
+        {
+          "t": "p",
+          "x": "In the Pali collection, a warrior chief asks the Buddha about the claim that a warrior killed while striving in battle is reborn among the gods of the fallen. The Buddha declines twice and answers on the third request:"
+        },
+        {
+          "t": "q",
+          "x": "\"When a warrior strives and struggles in battle, their mind is already low, degraded, and misdirected as they think: 'May these sentient beings be killed, slaughtered, slain, destroyed, or annihilated!' ... when his body breaks up, after death, he's reborn in the hell called 'The Fallen'.\" ([SN 42.3, Sujato trans.](https://suttacentral.net/sn42.3/en/sujato))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "He calls the heaven claim \"your wrong view\" (same sutta). The Dhammapada states the rule without a battlefield exception: \"Putting oneself in the place of another, one should not kill nor cause another to kill\" ([Dhammapada 129, Buddharakkhita trans.](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.10.budd.html))."
+        },
+        {
+          "t": "p",
+          "x": "Both sides ask what a soldier's inner state does to the moral weight of the act. The Gita holds that equanimity about outcomes keeps the fighter clear of sin. The Pali discourse holds that the state of mind in battle is hostile by its nature, so the heaven the old teachers promised is a mistaken view. Strictly, the two may be describing different warriors: Krishna's fighter has dropped attachment to results, while the Buddha's thinks of others as things to be destroyed. The disagreement that survives is whether such a detached fighter exists and whether detachment settles the question, and the Dhammapada verse draws no exception for it."
+        },
+        {
+          "t": "p",
+          "x": "My lean, which is mine: for an essay on the resolve of harmlessness, the Buddha's answer is the stronger one, because the dossier's concern is what the intention does to the person holding it. I hold the Gita's position as the best statement of the opposing case, and I do not claim to have settled whether its detached warrior is psychologically possible."
+        },
+        {
+          "t": "p",
+          "x": "Limits: three Gita verses and two Pali passages, no commentary on either side. Later Buddhist traditions and Indian readers of the Gita treat these questions at length, and I have not opened that material."
         },
         {
           "t": "h",
