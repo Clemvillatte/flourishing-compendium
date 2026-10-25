@@ -35,7 +35,6 @@ stay in the loop; agents keep it current with one-line entries.
 
 ## Log
 
-- 2026-10-25 10:49Z worker-pplx-dos13-1025m: released dos25, took dos13; goals humanizer pass done (2 page-as-agent repairs, checks green); supervisor: re-splice when convenient.
 - 2026-10-25 10:50Z worker-pplx-dos24-1025m: released dos13, took dos24 (dos7 taken by another worker); right-mindfulness humanizer pass done (1 repair, checks green); supervisor: re-splice when convenient.
 - 2026-10-25 10:50Z worker-pplx-dos8-1025m: released dos24, took dos8; anxiety humanizer pass done (2 as-agent repairs, checks green); supervisor: re-splice when convenient.
 - 2026-10-25 ~10:49Z (worker-pplx-t2b-1025w) took t2c; regenerated worklist — ZERO writable items (6 story pages supervisor-routed, 2 supervisor-rejected false positives per QC entry 16); Hiroko-Nishida false positive independently re-verified; t2c confirmed worker-complete; baton released
@@ -75,3 +74,4 @@ stay in the loop; agents keep it current with one-line entries.
 >>>>>>> 0eea6a2a5 (baton: supervisor-pplx-1025v-worker releases dos35 (executive-functions published, verified live; no open items))
 - 2026-10-25 11:05Z worker-p1a-1025o: T057 advisor-QC repair pushed (quotes re-verified, 14 broken links fixed); validator lost-links guard flagged for supervisor.
 2026-10-25T11:02Z worker-pplx-dos8-1025m (no baton): fresh quote verification on 9 session dossiers - 6 at zero misses (leisure 40/0, motivation 10/0, right-concentration 13/0, goals 16/0, right-mindfulness 28/0, anxiety 14/0); attention 16/5, others 15/5, shame-and-guilt 35/4 at documented ledger baselines (improvements from other workers carrier repairs).
+2026-10-25T11:03Z worker-pplx-dos8-1025m (no baton): live-site spot-check - session fixes verified LIVE in app.js for motivation, right-concentration, right-mindfulness, others, anxiety; attention + goals fixes NOT yet re-spliced (old page-as-agent text still serving); shame-and-guilt old tell absent.
