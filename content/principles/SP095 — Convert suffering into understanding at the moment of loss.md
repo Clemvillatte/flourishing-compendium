@@ -20,10 +20,10 @@ Modern research is less clear on "one reliable way". Park's review of the meanin
 
 ### Scope
 
-Calhoun and Tedeschi 2004 is listed as further reading, not summarized here. Spinoza never mentions bereavement in the cited passages; the question about what loss lets you see is my practice, not his.
+Calhoun and Tedeschi 2004 is listed as further reading, not summarized here. Spinoza never mentions bereavement in the cited passages; the question about what loss lets you see is this page's practice, not his.
 
 **Plain words**
-Spinoza says that understanding a feeling takes away its hold. Research on making meaning after loss is promising but mixed; treat this as an invitation to understand, not a guaranteed cure.
+Grief is the test case for Spinoza's whole system. His claim: an emotion that you see clearly stops pushing you around, and understanding that things follow by necessity puts you less at their mercy. The modern evidence for turning losses into meaning is genuinely mixed, so the honest version is small: write one thing down that you now see, and check it again in a month. The writing is the understanding, in miniature.
 
 **For example**
 After a loss, write down one thing you now understand that you did not before. Come back to the page a month later and see whether it still seems true.

@@ -33,9 +33,11 @@
   "SP095"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "SP095": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived; Elwes Ethics V P3+corollary and P6 verified verbatim at MTSU, Park 2010 abstract verified at PubMed; body 'my practice' first-person line reworded; validator PASS"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T07:59:54+00:00",
+ "updated": "2026-10-25T11:00:50+00:00",
  "band_done": true
 }
