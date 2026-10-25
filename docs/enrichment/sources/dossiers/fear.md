@@ -250,3 +250,17 @@ examination-of-fear card cites epicurus.net for the same letter; the
 classification card cites the MIT Classics Hicks text; both are the
 same letter, and the entry now follows the Hicks wording actually
 verified here.
+
+## Verification pass on own rewrites (2026-10-25, worker-pplx-gfva-1025a, dos27 baton)
+
+Final-session verification of the two rewritten entries. L36 (The
+examination of fear) was read in full against its card: the method
+phrasing, the death case, and the Hicks quotation ("seeing that, when
+we are, death is not come, and, when death is come, we are not") all
+match the card's text verbatim. L38 (The classification of fears) was
+read in full against its card: the editorial-label framing, the two
+main fears (gods and death), the desire sorting, and the explicit
+no-ranked-taxonomy caveat all match the card's own statements. Both
+rewrites stand.
+
+Checks: dossier_check.py exit 0 (run again this session).
