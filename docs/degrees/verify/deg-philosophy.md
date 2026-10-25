@@ -1153,7 +1153,22 @@ attach them with evidence on file.
   the Ethics' architecture of definitions, substance, attributes and modes, causa
   sui, the identity of God and nature, and Spinoza's determinism.
 - Relevant segment: whole lecture, 0:54:12.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified (identity basis: opened host record — the retrieved transcript text does not explicitly name the speaker).
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; evidence pass 2026-10-25): the third-party transcript route
+  (https://youtubetotranscript.com/transcript?v=UpGhFvYfows&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the lecture's substance: Spinoza's life and
+  intellectual context; his geometrical method and the concepts of
+  substance, attributes and modes; God as nature; necessity and human
+  freedom (Ergo). SEPARATE-BASES NOTE: the retrieved text does not
+  explicitly identify the lecturer as Noa Lahav Ayalon (the speaker
+  says "I am Noah" during an example, apparently a garbled rendering);
+  the speaker's identity rests on the identity basis already recorded in
+  this entry (the opened host record for the Ergo series), and the
+  transcript establishes coverage. Status upgraded verified-partial to
+  verified-video per the house convention, with the no-timestamps and
+  no-playback caveats carried.
 
 ### SRC-M10-011: Love as an Expansion of Self, Spinoza's Theory of Love Lecture 4 (Noa Lahav Ayalon, Ergo)
 
@@ -1187,7 +1202,21 @@ attach them with evidence on file.
   Proposition 4 and the claim that nothing can destroy itself, drawing on
   Spinoza's Dutch-scholastic context and Huygens's pendulum clocks.
 - Relevant segment: whole lecture, 1:46:43.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; evidence pass 2026-10-25): the third-party transcript route
+  (https://youtubetotranscript.com/transcript?v=JfWv8sY3ERg&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened; the route's page title names Hao Dong) confirms the
+  lecture's substance: Spinoza's doctrine that everything strives to
+  preserve itself, focusing on the claim that nothing can destroy
+  itself; the individual as a composite whose essence is a stable
+  pattern of causal interactions, connected to the science of pendulums
+  and their synchronization; suicide, self-harm, human nature and how
+  individuals relate to larger systems, followed by a question-and-answer
+  discussion (IU Philosophy). Status upgraded verified-partial to
+  verified-video per the house convention, with the no-timestamps and
+  no-playback caveats carried.
 
 ### PHR-01: A Romp Through Ethics for Complete Beginners, Part 3 of 7 (Marianne Talbot, Oxford)
 

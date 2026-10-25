@@ -75,18 +75,18 @@ reference, unique source ids in brackets):
   worker-pplx-degfin-1 (deg-verify-a): BATCHED TRANSCRIPT PASSES 2-5 + QC
   REPAIRS — LEDGER (commits 5dbf41e8f, 0295b5030, c8849acf7, 46923f9b0,
   3864101ca, fd4410dea, 450ce7480, 7b210f70d, plus the final saves). 31
-  description-basis cards evidenced (27 upgrades + 2 corroborations +
+  description-basis cards evidenced (29 upgrades + 2 corroborations +
   3 coverage-evidence records still partial) plus 4 unsuccessful probes,
   via the third-party transcript route. The upgrade count is MECHANICALLY
   AUDITED: a git comparison of the Verification status fields between
   b6aa42884 and HEAD shows the PARTIAL→VIDEO changes across the
-  five verify files, matching this ledger. 27 UPGRADED
+  five verify files, matching this ledger. 29 UPGRADED
   verified-partial→verified-video with the coverage basis in the status
   line: deg-wellbeing M08-S04/S06/S08/S17/S18/S22/S24 (7); deg-relational
   M04-R05/R08/R13/R15/R16 (5; Mika's dual-duration flag retained);
   deg-philosophy Warren, Kaag, Clayton, Segall x2, Bergson roundtable
   (partial-speaker note), Herring, Misak, Moran (title-only speaker
-  caveat), Nadler, Mikics, Lampe, Kloppenberg, Buis, Talbot (15; Lampe,
+  caveat), Nadler, Mikics, Lampe, Kloppenberg, Buis, Talbot, Lahav Ayalon, Hao Dong (17; Lampe,
   Kloppenberg, Buis and Talbot upgraded on the separate-bases principle —
   the transcript need not name the speaker; identity basis remains the
   opened host record as already recorded in each entry).
