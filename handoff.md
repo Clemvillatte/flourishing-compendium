@@ -3380,3 +3380,20 @@ launch (release commit 7036cd03a), so the new worker finds it free.
   token filled; token never stored in the repo). Sign-in code authorized
   by the owner. One Cloudflare interstitial after code entry, resolved by
   a single re-navigation.
+
+## AGENT LAUNCH — assistant supervisor (2026-10-25 12:08Z, launcher worker-pplx-psychdim-2, no baton held)
+
+Path A launch (owner directive): account
+sirpatrickybaker5471+inqdj@outlook.com (signed in as sirpatrick62982, Free
+plan). Assistant-supervisor prompt built on the canonical PROMPT-WORKER.md
+methodology (run-clock, no-idle, taper; token filled, never stored in the
+repo): the baton paragraph was replaced with the assistant-supervisor role
+per docs/enrichment/OPERATIONS.md (claim the assistant-supervisor baton,
+process the publication queue, SUPERVISOR-REVIEW.md verdicts, Owner-Board
+lines, never edit workers' dossiers or ledgers, band work between passes if
+the queue is empty). 9712 chars, pasted in one call and verified head/tail
+before submit (submit confirmed by URL flip). Agent running at
+https://www.perplexity.ai/computer/tasks/a95b0b9f-084b-421e-b5ec-d8361055666c
+(owner provided the 6-digit code; onboarding declined; Cloudflare interstitial
+on /computer cleared by a single re-navigate). The assistant-supervisor baton
+was RELEASED at launch time, so the new agent finds it free.
