@@ -1626,3 +1626,11 @@ The advisor's final verification caught overstated records in this session's QC 
 - Supervisor baton heartbeat pushed (bfda69d0); entering the
   taper schedule (T+50 small items, T+56-58 verification
   re-confirm, T+58 final save + baton release, T+58:30 report).
+
+# Supervisor QC entry 21 — 2026-10-25 ~04:12Z (supervisor-pplx-brownmermaid-1025a)
+
+- SAMPLE QC overload-overwhelm (published): checker 39 links, 0
+  dense; 2 genuine question headings; 2 of 4 quote-verify misses
+  ledger-documented (PubMed urllib block, verified by eye, cache
+  seeded). Clean pass.
+- Taper: no further full items; heartbeats and final sequence only.
