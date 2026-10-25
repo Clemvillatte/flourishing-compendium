@@ -1074,3 +1074,45 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
 - Relevant segment: whole session, 1:48:23.
 - Verification status: verified-video (2026-10-25); credentials from the
   description, institutional page pending.
+
+### M05-YV-02: Isha Upanishad (1 of 8) Taught by Swami Tadatmananda
+
+- Identity and access: oembed confirms the class on the ArshaBodha -
+  Swami Tadatmananda channel
+  (https://www.youtube.com/watch?v=d0TI8Nlu090); watch page opened
+  2026-10-25. Eight-part series; the classes were originally taught at
+  Arsha Bodha Center in 2011, with volunteer-produced videos displaying
+  the Sanskrit text, Roman transliteration and translation.
+- Duration: 1:26:41 (watch page, 2026-10-25).
+- Instructor credentials: Swami Tadatmananda, teacher at Arsha Bodha
+  Center (per the channel and description; institutional page not opened
+  this session).
+- Language: English (Sanskrit text with transliteration and translation).
+- Content coverage (uploader description, read 2026-10-25): the Isha
+  Upanishad (Sukla Yajurveda), one of the shortest of the 10 major
+  Upanishads; teachings of Advaita Vedanta imparted by the ancient Indian
+  rishis.
+- Relevant segment: whole class, 1:26:41.
+- Verification status: verified-video (2026-10-25); credentials from the
+  channel/description, institutional page pending.
+
+### SRC-M10-007: Anicca — The Buddhist Theory of Impermanence (Ego podcast)
+
+- Identity and access: oembed confirms the episode on the Ego (buddhism
+  podcast) channel (https://www.youtube.com/watch?v=9a4u8oYHNfU); watch
+  page opened 2026-10-25. INDEPENDENT-CHANNEL FLAG: a podcast channel, not
+  an institutional uploader.
+- Duration: 48:00 (watch page, 2026-10-25).
+- Instructor credentials: the podcast host is unnamed on the page;
+  SPEAKER-IDENTITY FLAG.
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): anicca
+  presented through a Buddhist exchange on whether the eye, shape and
+  visual consciousness are permanent or impermanent, whether what is
+  impermanent is anguish or happiness, and whether what is impermanent,
+  anguishing and liable to alteration should be regarded as "mine" or
+  "my self."
+- Relevant segment: whole episode, 48:00.
+- Verification status: verified-partial (identity, access, duration;
+  independent channel, unnamed host; coverage basis is the uploader
+  description).

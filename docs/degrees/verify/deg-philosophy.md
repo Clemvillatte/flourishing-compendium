@@ -1416,3 +1416,38 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
 - Relevant segment: whole conversation, 1:31:13.
 - Verification status: verified-video (2026-10-25); credentials from the
   description, institutional pages pending.
+
+### M05-SP-04: Spinoza's Theology and Politics — Dr. Yitzhak Melamed (Torah in Motion)
+
+- Identity and access: oembed confirms the episode on the Torah in Motion
+  channel (https://www.youtube.com/watch?v=JiFkd_4c8Iw); watch page opened
+  2026-10-25. Second episode of a three-part series on Spinoza.
+- Duration: 1:05:41 (watch page, 2026-10-25).
+- Instructor credentials: Yitzhak Melamed, Charlotte Bloomberg Professor of
+  Philosophy, Johns Hopkins University (per the uploader description; see
+  also M05-SP-02).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): Spinoza's
+  Tractatus Theologico-Politicus and the religiosity of its author, "a
+  supposed atheist."
+- Relevant segment: whole episode, 1:05:41.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.
+
+### M-15-003: Happiness as Eudaimonia — Aristotle's Virtue Ethics (Mark Thorsby)
+
+- Identity and access: oembed confirms the lecture on the Mark Thorsby
+  channel (https://www.youtube.com/watch?v=D0wRT1coJh8); watch page opened
+  2026-10-25. INDEPENDENT-CHANNEL FLAG: personal teaching channel.
+- Duration: DUAL FIGURES — the page prints 1:32:54 while the player
+  displays 1:11:15 (2026-10-25); the owner should reconcile before
+  workload arithmetic.
+- Instructor credentials: Professor Thorsby (per the description; an
+  institutional page was not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): a survey of
+  central elements in Aristotle's virtue ethics — eudaimonia, virtue and
+  character, the golden mean, practical wisdom, friendship and habits.
+- Relevant segment: whole lecture (duration to reconcile).
+- Verification status: verified-video (2026-10-25), dual-figure duration
+  flagged; independent channel noted.
