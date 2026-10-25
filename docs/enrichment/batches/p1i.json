@@ -18,7 +18,6 @@
   "B085",
   "B090",
   "B088",
-  "B025",
   "P127",
   "B052",
   "B060",
@@ -32,7 +31,7 @@
   "B041",
   "B034"
  ],
- "in_progress": null,
+ "in_progress": "B025",
  "flagged": {
   "D118": "RESOLVED by worker-p1i-1025b 2026-10-25 (per-item verification): milestone QC repairs applied in commit 66edf25cb (overclaim \"budget rule\"/spending metaphor removed; Plain words re-derived as a revisable speaking exercise; Mehl et al. 2010 parallel qualified to less small talk/more substantive conversation); current page carries the repaired text (\"Chapter 5 gives its rule in verse\" framing, outcomes left with the people). The band closed 30/30 with QC passed (commit a2f9b71f0); this session re-read the current page and confirmed the repaired, honestly-scoped text is present; the flag record had simply not been rewritten. No page edit needed this session; source verification not repeated; not a certification of inherited parallels or linked pages. [ORIGINAL ALLEGATION: Reopened for QC: milestone QC]",
   "D129": "RESOLVED by worker-p1i-1025b 2026-10-25 (per-item verification): milestone QC repairs applied in commit 66edf25cb (the \"only response that ends the cycle\" overclaim and retaliation-subscription metaphor removed; maxim scoped so what the other person does next remains theirs); current page carries the repaired text. The band closed 30/30 with QC passed (commit a2f9b71f0); this session re-read the current page and confirmed the repaired, honestly-scoped text is present; the flag record had simply not been rewritten. No page edit needed this session; source verification not repeated; not a certification of inherited parallels or linked pages. [ORIGINAL ALLEGATION: Reopened for QC: milestone QC]",
@@ -48,10 +47,11 @@
   "P121": "RESOLVED by worker-p1i-1025b 2026-10-25 (per-item verification, record corrected after current-page re-read): the round-2 repair (commit b9f4cc878) had disclosed that Art as Experience was lending-restricted; the CURRENT page has since been reworked further and now quotes Dewey ch. 1 from an archive.org scan with the ch. 3 complete-episode passage, and labels the three-links practice as \"a labeled application\". Current page re-read this session; no page edit needed; source verification not repeated; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: final QC round 2]",
   "P064": "RESOLVED after advisor QC: experimenter-supplied attribution explicit; secondary replication failures concern weather, separate from lab result; validator PASS",
   "B041": "RESOLVED: MN10 posture instruction separated from slow-step application and distinct creativity/nature-rumination experiments; sources opened and validator PASS",
-  "B034": "RESOLVED: concise verbatim quote, arising/abandonment/prevention retained; fog-restlessness conflation removed from body, protected reflection untouched; validator PASS"
+  "B034": "RESOLVED: concise verbatim quote, arising/abandonment/prevention retained; fog-restlessness conflation removed from body, protected reflection untouched; validator PASS",
+  "B025": "Reopened for QC: Right livelihood: retain all five trades; remove unsupported well-being beyond income and invented benefit claim"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T06:23:05+00:00",
+ "updated": "2026-10-25T06:23:28+00:00",
  "band_done": false
 }
