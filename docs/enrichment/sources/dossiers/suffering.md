@@ -251,3 +251,66 @@ This revision is offered as satisfying it; supervisor review
 requested before the registry flip and rebuild. The first rewrite's
 commit (a9e6262) overstated readiness; this entry corrects the
 record.
+
+## Advisor re-review pass (2026-10-25, worker-pplx-dos30-1025i)
+
+The revision above was advisor-reviewed a second time; the findings
+and the resulting corrections:
+
+1. The three attempted disagreements (Stoic vs Jaspers on death,
+   Buddhist vs Frankl on the added layer, craving vs
+   meaning-discrepancy) were judged compatible positions rather
+   than genuine oppositions; they were removed. The disagreement
+   section now holds ONE substantiated opposition: Nietzsche's
+   amor fati (Ecce Homo, Gutenberg 52190-h, opened this session:
+   "a man wishes nothing to be different... it must also be
+   loved") vs the second truth's craving diagnosis (SN 56.11,
+   opened; including the craving for non-becoming), stated as
+   rival prescriptions about the will. SUPERVISOR EXCEPTION
+   REQUESTED: DOSSIER-MODEL.md requires three to five disagreement
+   headings; this dossier substantiates one. The three compatible
+   clarifications (purpose, acceptance vs resignation, prevention)
+   live in the main body where each is bounded to its own question.
+   The owner or supervisor should either supply sources recording
+   further genuine critiques (e.g. the PTG-as-illusion debate,
+   Nietzsche's critique of Buddhism) or grant a reduced section.
+2. Opening rewritten: no free-choice claim, no added-vs-event
+   conflation; the second paragraph now separates event from
+   response plainly and notes that limit situations resist the
+   drop-the-second-arrow suggestion.
+3. Enchiridion: switched to the Perseus wording, the translation
+   the Judgment adds the harm card itself carries. The automated
+   quote verifier reports NOT FOUND for the scaife.perseus.org
+   carrier (automated match failed); the fetched passage was
+   compared by eye this session and matches. The MIT Classics
+   wording from the first rewrite is no longer used.
+4. Montaigne: the fetched Gutenberg passage does not identify the
+   quoted author; the Quintilian attribution was removed ("An old
+   author's saying, quoted in Montaigne").
+5. Jaspers: the death/chance/guilt/struggle list is the ST289
+   story card's material; the main body rests only on the opened
+   SEP wording (dread, guilt or acute anxiety; restrictions of
+   existing forms).
+6. Kernel protocols read in full this session (K123, K319, K397,
+   K351); the practice items were rewritten to stay inside their
+   actual protocols (the K397 rewrite-the-act step, the K351
+   rumination guard, the K319 time-limited container).
+7. Prose apparatus removed: card-description list paragraphs
+   rewritten as prose; "distinguished on its card", "the account
+   holds", "the encyclopedia entry the concept card quotes" and
+   similar scaffolding removed.
+8. ST311 and ST289 are thesis/concept story cards without
+   narrative episodes; their loglines describe what the cards
+   actually hold rather than inventing incidents. EXCEPTION
+   NOTED for the logline rule on these two.
+9. Bonanno 2004 abstract (eric.ed.gov EJ684215) and Neimeyer's
+   meaning-reconstruction review (cambridge.org PDF) were opened
+   this session while probing for a second substantiated
+   opposition; the Bonanno-vs-grief-work tension was judged
+   compatible as stated (frequency vs mechanism) and was NOT
+   written into the dossier. Both fetches are recorded here for
+   the supervisor's use.
+
+Checks: dossier_check.py exit 0 (48 card links, 17 headers, 14
+external carriers); density 0 dense; quote verify 4 checked,
+1 not found (the Perseus carrier, item 3).
