@@ -438,3 +438,11 @@ operational holds — DO NOT REGISTER WITH CURRENT TARGET:
   yours as routed (notably the D083 choice between s1a-070 and s1a-075).
 - s1a-075: sentence-level citation added to the "quarrel is about water"
   answer.
+
+2026-10-25 15:29Z storyteller-pplx-s1a-1026a: verification pass complete
+across the whole batch (s1a-063..075): every ledger quote re-checked
+against a freshly fetched or cached page, or the raw text where cached
+(Gutenberg #20, #135, #4200); story_check 0 errors and word counts
+recounted on all thirteen; 063 locators, 069 quote marks, 072
+capitalization, 073 diacritic, 075 attribution all repaired and pushed.
+No further decisions needed from you beyond the routed items above.

@@ -1842,6 +1842,11 @@
      "t": "2026-10-25T14:43:07+00:00",
      "to": "qc_pending",
      "note": "advisor round-1 repairs applied; story_check ok; scope routed"
+    },
+    {
+     "t": "2026-10-25T15:22:44+00:00",
+     "to": "qc_pending",
+     "note": "locators verified against raw text (III.40-46, III.52); story_check ok"
     }
    ]
   },
@@ -1932,6 +1937,11 @@
      "t": "2026-10-25T14:51:43+00:00",
      "to": "qc_pending",
      "note": "draft complete; story_check ok"
+    },
+    {
+     "t": "2026-10-25T15:22:44+00:00",
+     "to": "qc_pending",
+     "note": "quotes re-verified character-level against raw text; speech-tag elisions marked; story_check ok"
     }
    ]
   },
@@ -1947,6 +1957,11 @@
      "t": "2026-10-25T14:57:02+00:00",
      "to": "qc_pending",
      "note": "draft complete; story_check ok"
+    },
+    {
+     "t": "2026-10-25T15:22:44+00:00",
+     "to": "qc_pending",
+     "note": "D124 withdrawn, D083 proposed (page uses this passage); DO NOT REGISTER under D124; story_check ok"
     }
    ]
   },
@@ -1982,6 +1997,11 @@
      "t": "2026-10-25T14:58:44+00:00",
      "to": "qc_pending",
      "note": "draft complete; story_check ok"
+    },
+    {
+     "t": "2026-10-25T15:22:44+00:00",
+     "to": "qc_pending",
+     "note": "quotes re-verified against clean page fetch; hydrology narrowed to paper finding; story_check ok"
     }
    ]
   },
@@ -2002,6 +2022,11 @@
      "t": "2026-10-25T15:03:55+00:00",
      "to": "qc_pending",
      "note": "reassigned B094->B156 proposed per advisor round 3; final call routed"
+    },
+    {
+     "t": "2026-10-25T15:22:44+00:00",
+     "to": "qc_pending",
+     "note": "motivation removed (interviews not opened); rests on performance narrative; B156 proposal final call routed; story_check ok"
     }
    ]
   },
@@ -2017,6 +2042,11 @@
      "t": "2026-10-25T14:59:31+00:00",
      "to": "qc_pending",
      "note": "draft complete; story_check ok; inversion named and routed"
+    },
+    {
+     "t": "2026-10-25T15:22:44+00:00",
+     "to": "qc_pending",
+     "note": "D060 mapping withdrawn; narrative held for supervisor decision; DO NOT REGISTER under D060; story_check ok"
     }
    ]
   },
@@ -2032,9 +2062,14 @@
      "t": "2026-10-25T15:05:05+00:00",
      "to": "qc_pending",
      "note": "draft complete; story_check ok"
+    },
+    {
+     "t": "2026-10-25T15:22:44+00:00",
+     "to": "qc_pending",
+     "note": "attribution verified on page; broader re-pricing illustration vs s1a-070; fit routed; story_check ok"
     }
    ]
   }
  },
- "updated": "2026-10-25T15:05:05+00:00"
+ "updated": "2026-10-25T15:22:44+00:00"
 }
