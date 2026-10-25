@@ -455,3 +455,18 @@ next action recorded above stands. Public section renamed "Related
 questions and contrasts"; the opener's chronological-training claim
 ("the root the path works on first") dropped and the long two-forms
 sentence split per the owner's readability bar.
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos18 baton)
+
+Reviewed all 4 candidates against the current file (fresh audit run).
+No scaffolds removed; all 4 flagged constructions are honest scoping or
+quoted framing: line 12 (the wiki's discernment card is Ignatian rather
+than Buddhist — a disambiguation note), 76 (right action defined by
+abstentions rather than states of mind — the sutta's definition), 124
+(the SEP's Madhyamaka framing quoted: "not some kind of primordial
+reality ante rem but a corrective" — the not-X-but-Y sits inside the
+quoted SEP text), 130 (MN 117's two forms as a grading rather than a
+disagreement — an honest interpretive note). Editorial review only;
+no carriers or cards freshly opened this pass.
+
+Checks: dossier_check.py exit 0. Scope: candidate-line review.
