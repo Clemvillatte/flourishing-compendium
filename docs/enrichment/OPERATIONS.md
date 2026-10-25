@@ -1911,3 +1911,14 @@ The advisor's final verification caught overstated records in this session's QC 
   Classics carrier. No edits required. Session QC coverage now
   includes all four published exemplars (anger, the-self, wisdom,
   genuine-flourishing) plus the active bands (dos34, dos35, k1e).
+
+# Supervisor QC entry 40 — 2026-10-25 05:28Z (supervisor-pplx-1025h)
+
+- gratitude dossier (final independent re-verification of the
+  suttas comparison): all three AN 2.31-32 Thanissaro spans verified
+  against the accesstoinsight carrier — "you would not in that way
+  pay or repay your parents" verbatim; the "rouses his unbelieving
+  mother & father..." and "To this extent one pays & repays one's
+  mother & father" spans verbatim in rendered form (the carrier
+  source encodes the ampersands as HTML entities; no wording
+  difference).
