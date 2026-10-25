@@ -473,10 +473,11 @@ standard.
 - Duration: 1:24:27 (watch page, 2026-10-25).
 - Instructor credentials: Barbara L. Fredrickson, Ph.D., Kenan
   Distinguished Professor of Psychology and Director of the Positive
-  Emotions and Psychophysiology Lab (PEP Lab), UNC Chapel Hill (PEP Lab
-  site opened 2026-10-25, https://peplab.web.unc.edu/, confirming her
-  professorship at UNC Chapel Hill; the Kenan chair title per the
-  uploader description).
+  Emotions and Psychophysiology Lab (PEP Lab), UNC Chapel Hill (CCARE
+  event page for this lecture opened 2026-10-25,
+  https://ccare.stanford.edu/events/meng-wu-lecture-barbara-l-fredrickson-ph-d-2/,
+  confirming the chair title and PEP Lab directorship; the PEP Lab site
+  https://peplab.web.unc.edu/ also opened 2026-10-25).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): a Meng-Wu
   Lecture; the description names her positive-emotions work and books
