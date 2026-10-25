@@ -491,3 +491,27 @@ Goyal evidence paragraph, the Gunaratana/Bodhi disagreement section
 (framing and unresolved statement intact), the Practice and Story
 sections. No issues found; no changes made beyond the ST074
 humanizer fix recorded above.
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos24 baton)
+
+Reviewed all 10 candidates against the current file (fresh audit run).
+No scaffolds removed; all 10 flagged constructions carry real doctrinal
+or definitional contrasts: line 5 (sati: the actual rather than the
+assumed), 31 (the returning rather than unbroken attention is the
+practice — the pedagogical point), 33 (Thanissaro treats vipassana as
+a quality of mind, his stated position), 57 (present-moment awareness
+theory: current moment vs remembered past/imagined future — the
+theory's claim, card text identical), 61 (decentering's standard
+definition), 63 (defusion's standard definition), 71 (the lived body:
+Leib/Körper, the phenomenological distinction the card quotes SEP on),
+83 (Bishop et al. clarity mechanism), 135 (the flagged not-X-but-Y sits
+inside the verbatim Thanissaro quote — "They're not automatically a
+part of sati, but you should bring them along" — source text, exempt),
+183 (the sutta instruction: know the hindrances, not fight them).
+
+Card-fidelity spot-checks (after the fear dossier's two misattributed
+entries): The returning practice, Present-moment awareness theory and
+The lived body cards opened and read; glosses match their cards.
+
+Checks: dossier_check.py exit 0 unchanged. Scope: candidate-line review
+plus spot-checks; not a full structural pass.
