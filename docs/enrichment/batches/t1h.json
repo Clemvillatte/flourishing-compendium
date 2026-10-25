@@ -6,8 +6,10 @@
   "T060 Beauvoir"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "T057-validator-baseline": "t1h did not replicate the t1g baseline issue: T058/T059/T060 minted with the thinker-links baseline at the commit before mint; all three validator-clean. Flagging for supervisor awareness only."
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T12:09:40+00:00"
+ "updated": "2026-10-25T12:11:48+00:00"
 }
