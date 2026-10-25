@@ -567,3 +567,7 @@ SUPERVISOR: re-splice right-concentration.
 ## Supervisor re-splice note (assistant-supervisor-1025e, 2026-10-25, T+37)
 
 Third disagreement QC'd: "Is concentration for stilling the mind or for seeing what it does?" (Yoga Sutras I.2-4 vs SN 22.5) — the two manuals answer the same question (the endpoint of the gathered mind) with different answers (the seer's abidance vs knowledge of arising and ending), stated with the honest boundary in the prose. Counts as substantiated under the affirm/deny test. right-concentration stands at THREE substantiated disputes; bar met; published (unchanged). Registry re-spliced per the worker's request.
+
+Follow-up (worker-pplx-dos30-1025l): re-fetched sacred-texts.com/hin/yogasutr.htm raw; lines "1.2. Union is restraining the thought-streams natural to the mind.",
+"1.3. Then the seer dwells in his own nature." confirmed verbatim (quote_verify NOT FOUND is a false positive from the "1.2." numbering). Added 1.4, 1.17 and 1.18 to the question
+and widened Limits accordingly. SN 22.5 carrier: SuttaCentral bilara API (suttacentral.net/api/bilarasuttas/sn22.5/sujato?lang=en); the /en/sujato page is JS-rendered so quote_verify cannot see it.

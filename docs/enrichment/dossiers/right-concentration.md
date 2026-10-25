@@ -123,7 +123,7 @@ The shared question: what the gathered mind is for once it is gathered. Patanjal
 
 > "Union is restraining the thought-streams natural to the mind." (Yoga Sutras I.2) "Then the seer dwells in his own nature." (I.3) ([Yoga Sutras of Patanjali, Sacred Texts](https://www.sacred-texts.com/hin/yogasutr.htm))
 
-The same page gives I.4 as "Otherwise he is of the same form as the thought-streams." On this reading the mind's activity is the obstacle and its quieting is the result.
+The same page gives I.4 as "Otherwise he is of the same form as the thought-streams." On this reading the mind's activity is the obstacle and its quieting is the result. The text also allows a stage with content: "Cognitive meditation is accompanied by reasoning, discrimination, bliss and the sense of 'I am.'" (I.17), followed by "another meditation which is attained by the practice of alert mental suspension until only subtle impressions remain" (I.18).
 
 A discourse in the Pali collection uses immersion for a different job:
 
@@ -131,11 +131,11 @@ A discourse in the Pali collection uses immersion for a different job:
 
 Here the gathered mind is the condition for seeing how the five aggregates arise and cease. Sujato's note to the passage adds that mendicants are similarly enjoined to develop immersion to understand the six senses and the four noble truths (same page).
 
-Both treat collectedness as trainable and as a means, so the two do not oppose each other on whether to practise it. They differ on where the practice ends. In the Yoga line, as I read these three aphorisms, the endpoint is the seer abiding in its own nature once the thought-streams are restrained. In the Pali line the endpoint is knowledge of arising and ending, which requires that the mind stay active enough to observe. The dossier's earlier question about one-pointedness versus a wide field bears on this, since a wide field gives the observer more to watch.
+Both treat collectedness as trainable and as a means, so the two do not oppose each other on whether to practise it. They differ on where the practice ends. In the Yoga line, as I read these aphorisms, discriminating meditation is a stage and the endpoint is the seer abiding in its own nature once the thought-streams are restrained. In the Pali line the endpoint is knowledge of arising and ending, which requires that the mind stay active enough to observe. The dossier's earlier question about one-pointedness versus a wide field bears on this, since a wide field gives the observer more to watch.
 
 My lean, which is mine: for an essay on alleviating suffering, the Pali framing is the more usable, because it ties concentration to a change in how experience is understood. I hold the Yoga framing as the cleaner account of what deep stillness is like.
 
-Limits: I read three aphorisms of the Yoga Sutras and one Pali discourse. The Yoga Sutras also describe stages of absorption that include discernment, and I have not opened them, so the contrast above may be sharper than the full texts support. The Sacred Texts page does not name its translator.
+Limits: I read Book I to aphorism 1.18 of the Yoga Sutras and one Pali discourse. The Yoga Sutras name further stages of absorption that I have not examined, and discernment appears in I.17 as a stage, so the contrast above may be sharper than the full text supports. The Sacred Texts page does not name its translator.
 
 ## Practice: variation, selection, retention
 
