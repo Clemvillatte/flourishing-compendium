@@ -643,9 +643,10 @@ SRC-M07-019 has free and paid access paths (see the access note).
   (https://www.youtube.com/watch?v=rgXUQuQQXBo); watch page opened 2026-10-25.
   Pufendorf Lectures, Lund University, 2024.
 - Duration: 1:50:04 (watch page, 2026-10-25).
-- Instructor credentials: Lisa Feldman Barrett — institutional page pending this
-  session (see the credential note below; owner should attach her Northeastern
-  University profile when scheduling).
+- Instructor credentials: Lisa Feldman Barrett, University Distinguished
+  Professor of Psychology and Director of the Interdisciplinary Affective
+  Science Laboratory at Northeastern University (Northeastern profile:
+  https://nubic.northeastern.edu/profile/barrett-lisa/, opened 2026-10-25).
 - Language: English (title in English; lecture series hosted by a Swedish
   faculty body).
 - Content coverage: the page carries no description; the coverage basis is the
@@ -662,7 +663,8 @@ SRC-M07-019 has free and paid access paths (see the access note).
   channel (https://www.youtube.com/watch?v=jKZbuvS3_Mk); watch page opened
   2026-10-25.
 - Duration: 1:42:41 (watch page, 2026-10-25).
-- Instructor credentials: as M06-AF04 (pending this session).
+- Instructor credentials: as M06-AF04 (Northeastern profile, opened
+  2026-10-25).
 - Language: English.
 - Content coverage: no description on the page; the coverage basis is the title
   only (Day 2, "Constructing the Mind"). CONTENT BASIS FLAG: confirm against the
@@ -679,7 +681,8 @@ SRC-M07-019 has free and paid access paths (see the access note).
   Karolinska Institutet by Prof. Joseph LeDoux, New York University.
 - Duration: 51:41 (watch page, 2026-10-25).
 - Instructor credentials: Joseph LeDoux, New York University (per the talk
-  description; institutional page pending this session — see credential note).
+  description; NYU faculty pages and Wikipedia were blocked from this
+  session's fetcher — institutional page still pending, see credential note).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): chapters on
   Pavlovian fear conditioning, amygdala and fear circuitry, extinction and
@@ -716,9 +719,10 @@ SRC-M07-019 has free and paid access paths (see the access note).
 - Duration: 1:06:42 (watch page, 2026-10-25). Printed chapters: introduction by
   Ernst Fehr 0:00; Kahneman lecture 6:50.
 - Instructor credentials: Daniel Kahneman, Nobel laureate in economics (2002);
-  at the time of the lecture Eugene Higgins Professor of Psychology and
-  Professor of Public Affairs Emeritus, Princeton University (institutional
-  page pending this session — see credential note).
+  at the time of the 2002 prize Eugene Higgins Professor of Psychology and
+  Professor of Public Affairs, Princeton University (Nobel Prize
+  biographical page: https://www.nobelprize.org/prizes/economic-sciences/
+  2002/kahneman/biographical/, opened 2026-10-25).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): a public lecture on
   Thinking, Fast and Slow at the University of Zurich; the chapter structure is
@@ -735,10 +739,10 @@ SRC-M07-019 has free and paid access paths (see the access note).
   opened 2026-10-25.
 - Duration: 1:38:34 (watch page, 2026-10-25).
 - Instructor credentials: Keith Stanovich, adjunct professor of human
-  development and applied psychology at the University of Toronto, Canada
-  Research Chair in Applied Cognitive Science (U of T record; institutional
-  page opened via search extracts 2026-10-25 — the OISE graduate bulletin lists
-  him as Professor, status only, Human Development and Applied Psychology).
+  development and applied psychology at the University of Toronto (U of T
+  Magazine, Kurt Kleiner:
+  https://magazine.utoronto.ca/research-ideas/culture-society/
+  why-people-are-irrational-kurt-kleiner/, opened 2026-10-25).
 - Language: English.
 - Content coverage: the page states "No description has been added to this
   video"; the coverage basis is the title only (a Portland State talk by Keith
@@ -772,9 +776,10 @@ SRC-M07-019 has free and paid access paths (see the access note).
   opened 2026-10-25. SmithGroup Lecture, Beckman Institute, University of
   Illinois Urbana-Champaign, 15 April 2016.
 - Duration: 59:40 (watch page, 2026-10-25).
-- Instructor credentials: Michael I. Posner, Professor Emeritus of Psychology
-  (per the uploader description; institutional page pending this session —
-  see credential note).
+- Instructor credentials: Michael I. Posner, Professor Emeritus of Psychology,
+  University of Oregon (U of O College of Arts and Sciences directory:
+  https://cas.uoregon.edu/directory/psychology/all/mposner, opened
+  2026-10-25).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): his work examining
   the mechanisms of change in white matter resulting from various forms of
@@ -826,9 +831,10 @@ SRC-M07-019 has free and paid access paths (see the access note).
   opened 2026-10-25. An online summer course in Social Psychology at Eureka
   College, Eureka, Illinois.
 - Duration: 51:37 (watch page, 2026-10-25).
-- Instructor credentials: Alexander Swan, Ph.D., course instructor (per the
-  uploader description; institutional page pending this session — see
-  credential note).
+- Instructor credentials: Alexander Swan, Associate Professor of Psychology,
+  Eureka College (PhD, Psychological & Brain Sciences, UC Santa Barbara,
+  2016; Eureka College directory:
+  https://www.eureka.edu/directory/staff/alexander-swan, opened 2026-10-25).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): the self, origins
   of self-knowledge, self-perception, self-regulation and self-control,
@@ -848,8 +854,10 @@ SRC-M07-019 has free and paid access paths (see the access note).
   should reconcile the catalog title at integration time.
 - Duration: 2:16:42 (watch page, 2026-10-25).
 - Instructor credentials: Edward Deci and Richard Ryan, co-founders of
-  self-determination theory, University of Rochester (institutional page
-  pending this session — see credential note).
+  self-determination theory; at the University of Rochester, Deci was Helen
+  F. and Fred H. Gowen Professor in the Social Sciences and Ryan professor
+  of clinical and social sciences in psychology (selfdeterminationtheory.org
+  records, opened 2026-10-25).
 - Language: English.
 - Content coverage: the page carries no description; the page's listed key
   moments cover intrinsic motivation, neuroscience, psychological needs,
@@ -866,9 +874,11 @@ SRC-M07-019 has free and paid access paths (see the access note).
   Series channel (https://www.youtube.com/watch?v=vHQV4NSeORE); watch page
   opened 2026-10-25. Darwin College Lecture Series, Cambridge.
 - Duration: 51:25 (watch page, 2026-10-25).
-- Instructor credentials: Terrie Moffitt, Associate Director of the Dunedin
-  Longitudinal Study and professor at Duke University (per the description;
-  institutional page pending this session — see credential note).
+- Instructor credentials: Terrie Moffitt, Nannerl O. Keohane University
+  Distinguished Professor of Psychology and Neuroscience at Duke University
+  and Associate Director of the Dunedin Longitudinal Study (Duke Psychiatry
+  profile: https://psychiatry.duke.edu/profile/terrie-e-moffitt, opened
+  2026-10-25).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): "Young Children's
   Self-control: Foreseeing Health and Wealth" — how childhood self-control
@@ -885,9 +895,11 @@ SRC-M07-019 has free and paid access paths (see the access note).
   (https://www.youtube.com/watch?v=Lda81_Mq7Es); watch page opened 2026-10-25.
   Leading Voices in Higher Education lecture, Dartmouth, 27 March 2012.
 - Duration: 54:22 (watch page, 2026-10-25).
-- Instructor credentials: Roy F. Baumeister, social psychologist (per the
-  description "one of the world's leading social psychologists"; institutional
-  page pending this session — see credential note).
+- Instructor credentials: Roy F. Baumeister, Emeritus Professor, School of
+  Psychology, University of Queensland (UQ profile:
+  https://psychology.uq.edu.au/profile/3505/roy-baumeister, opened
+  2026-10-25; his affiliation at the time of the 2012 lecture was Florida
+  State University, not stated on the recording's page).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): his lecture
   "Understanding Self-Control and the Limits of Willpower" — how people can
@@ -917,13 +929,11 @@ SRC-M07-019 has free and paid access paths (see the access note).
 - Verification status: verified-page (2026-10-25), with the registration
   nuance on the Coursera path recorded for the owner.
 
-## Credential note (pending pages, to be completed by the next verifier or owner)
+## Credential note (one page still pending)
 
-The following speakers' credentials are currently recorded from the
-recordings' own descriptions or the search-result extracts of institutional
-pages, not yet from an opened institutional page: Lisa Feldman Barrett
-(M06-AF04/05), Joseph LeDoux (M06-AF06), Daniel Kahneman (M06-CO05),
-Michael Posner (M06-AT02), Alexander Swan (SRC-M07-004), Deci and Ryan
-(SRC-M07-005), Terrie Moffitt (SRC-M07-007), Roy Baumeister (SRC-M07-008),
-Keith Stanovich (M06-CO02, U of T extracts only). Identity, access, duration
-and coverage for these records are otherwise verified above.
+All Block D speaker credentials are now verified on opened pages except
+Joseph LeDoux (M06-AF06): the NYU faculty pages and Wikipedia were blocked
+from this session's fetcher (robots/rate limits), so his affiliation (New
+York University) still rests on the recording's own description. The next
+verifier or the owner should open an NYU or equivalent institutional page
+for him. Every other credential line above cites an opened page.
