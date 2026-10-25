@@ -820,6 +820,76 @@ attach them with evidence on file.
 - Relevant segment: whole talk, 0:59:43.
 - Verification status: verified-video.
 
+### SRC-M18-B03: Back to the Roots, Mapping the Mind through Abhidharma (Bhikkhu Bodhi, Tergar)
+
+- Identity and access: oembed confirms the teaching on the Tergar Meditation
+  Community channel (https://www.youtube.com/watch?v=jhGRIjlpIuk).
+- Duration: 1:45:00 (watch page, 2026-10-25).
+- Instructor credentials: Venerable Bhikkhu Bodhi, renowned scholar-monk and
+  teacher of Buddhist philosophy (per the host description); the page links his
+  publications including A Comprehensive Manual of Abhidhamma.
+- Language: English.
+- Content coverage: the host's description states the teaching guides participants
+  through the topography of consciousness and core principles of the Abhidharma,
+  covering the classification of states of consciousness, planes and kinds of
+  consciousness, wholesome and unwholesome states, and the relation of the
+  Abhidharma's analysis to practice and liberation.
+- Relevant segment: whole teaching, 1:45:00.
+- Verification status: verified-video.
+
+### SRC-M18-B04: Buddhist Studies Podcast Ep. 2, Buddhist Philosophy and Ecological Activism (Karin Meyers, BDG)
+
+- Identity and access: oembed confirms the episode on the BDG: Buddhistdoor Global
+  channel (https://www.youtube.com/watch?v=IhWsL_sELRY).
+- Duration: 1:15:14 (watch page, 2026-10-25).
+- Instructor credentials: Dr Karin Meyers, Academic Director at Mangalam Research
+  Center, Berkeley, PhD from the University of Chicago Divinity School; hosted by
+  Dr Kate Hartman, assistant professor of Buddhist Studies at the University of
+  Wyoming (per the host description).
+- Language: English.
+- Content coverage: the host's description states the episode covers Dr Meyers's
+  path to Buddhist Studies, teaching in the US and Nepal, relating Buddhist
+  philosophy to contemporary engagement with social issues, and staying motivated
+  to tackle the ecological crisis.
+- Relevant segment: whole episode, 1:15:14.
+- Verification status: verified-video.
+
+### SRC-M18-B05: Buddhism and the Senses, Lecture 7, Conclusion (Donald Lopez, HKU)
+
+- Identity and access: oembed confirms the lecture on the HKUCBS channel
+  (https://www.youtube.com/watch?v=32nRdizli0U).
+- Duration: 0:45:43 (watch page, 2026-10-25).
+- Instructor credentials: Professor Donald Lopez, 10th MaMa Charitable Foundation
+  Visiting Professor in Buddhist Studies at HKU and Arthur E. Link Distinguished
+  University Professor of Buddhist and Tibetan Studies, University of Michigan
+  (per the host description); March 18, 2023.
+- Language: English.
+- Content coverage: the host's description states this concluding lecture of the
+  Buddhism and the Senses series considers the role of the senses in death and
+  rebirth, drawing on Tibetan Buddhist tantric traditions: the body's channels and
+  winds, the stages of dissolution at death, the intermediate state and its visions,
+  rebirth into the Buddha's three bodies, and the mind as Buddhism's sixth sense.
+- Relevant segment: whole lecture, 0:45:43.
+- Verification status: verified-video.
+
+### SRC-M18-K02: Rebirth, A Guide to Mind, Karma and Cosmos in the Buddhist World (Roger Jackson, Tibet House)
+
+- Identity and access: oembed confirms the lecture on the Tibet House, New Delhi
+  channel (https://www.youtube.com/watch?v=O9Nx9XTOzuk); recorded at the India
+  International Centre, November 20, 2024.
+- Duration: 2:22:25 (watch page displayed duration, 2026-10-25).
+- Instructor credentials: Prof. Roger R. Jackson, Professor Emeritus of Asian
+  Studies and Religion at Carleton College (per the host description).
+- Language: English.
+- Content coverage: the host's description states the lecture situates the Buddhist
+  idea of rebirth within world and South Asian cultures, analyzes the historical
+  Buddha's attitude toward rebirth, outlines the classical Indian Buddhist account
+  of the realms and causes of rebirth and the relation between karma and rebirth,
+  presents traditional arguments in favor of rebirth including Dharmakirti's, and
+  reflects on the place of rebirth within modern Buddhism.
+- Relevant segment: whole lecture, 2:22:25.
+- Verification status: verified-video.
+
 ## Block B status
 
 All 33 unique attached sources for deg-contemplative have now been verified: 15
