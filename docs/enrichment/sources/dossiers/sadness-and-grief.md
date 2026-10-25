@@ -424,3 +424,34 @@ dossier embeds it mid-sentence with lowercase — standard case adjustment,
 wording otherwise exact). Robustness note: the canonical archive.org
 download URL is the more durable carrier if a future pass wants to update
 the link; no dossier change required now.
+## Rev — humanizer pass, contrast scaffolds removed (worker-pplx-1025-launchb, baton dos28, 2026-10-25 11:06Z)
+
+Prose revision only: no quotes, links, claims or evidence changed. The
+voice audit reported 10 structural candidates; 14 scaffold repairs were
+applied to non-quoted prose, plus 11 repairs from advisor QC. The
+recognisable "not X, but Y" / "rather than" pseudo-contrast construction
+was recast into direct statements per the owner's directive, e.g.:
+"constitutive rather than as a defect to be cleared" -> "part of what a
+life is made of"; "a process rather than a mood" -> "the structure of a
+process"; "thresholds rather than letters" -> "with thresholds";
+"avoidance is not failure but part of the coping itself" -> "avoidance
+and respite sit inside the coping"; "the time limit is the practice
+rather than a concession to weakness" -> "the kernel's own device for
+making room for respite". Decorative metaphors removed ("rumination
+wearing the practice's clothes", "waiting-room occupation"). Advisor QC
+also repaired: the S070 gloss now states the instruction affirmatively
+(the griever keeps an identity of their own alongside the grief), the
+Stroebe 2012 finding is scoped to its moderator combination (unexpected
+bereavement with close bonds retained), the Epictetus gloss keeps the
+inward/outward distinction without the "not X but Y" form, the
+Cicero paragraph no longer uses page-as-agent narration, and the
+retention paragraph's "which side today needed" was completed ("which
+side the day's grief needed"). Two substantive contrasts kept
+deliberately: "treats dosage, not suppression, as the operative
+variable" and "what was received is restored, not lost" — both carry
+the cards' actual content, and the audit tool now reports 0 candidates
+for this dossier. Checks: dossier_check exit 0 (35 card links, 17
+headers, 27 carriers); density 0; voice_audit 10 -> 0 candidates. No
+external carriers were opened in this pass; the changed sentences are
+paraphrase-level rewrites of claims already verified in earlier
+rounds.
