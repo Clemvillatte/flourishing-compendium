@@ -2,10 +2,10 @@
  "band": "deg-wol-greek",
  "kind": "degree",
  "holder": "worker-pplx-greek-1",
- "phase": "phase-0-pilot-repair (advisor round 2 repairs applied, review pending)",
+ "phase": "phase-0-pilot-repair (advisor final review passed the pedagogical design; formal gates and Phase 0 stop-gate remain)",
  "modules": {
-  "mod-phil-1": "rebuilt and repaired through advisor round 3 (modules/deg-wol-greek/mod-phil-1.md); links validated, workload 5h06m (supersedes earlier 4h41m/4h50m figures); status DRAFT NOT CLEARED pending advisor re-review of the resulting text"
+  "mod-phil-1": "rebuilt and repaired through advisor rounds 2-4; final advisor review passed the pedagogical design (positive independent design review recorded in pilots/mod-phil-1.md); status DRAFT NOT CLEARED pending the formal gate sequence; workload 5h06m"
  },
- "notes": "Owner directive 2026-10-25 band. Session 1 (worker-pplx-greek-1): baton claimed; mod-phil-1 rebuilt and repaired through three advisor rounds (all attached sources verified, AR-01 and AR-06 transcript-classified, ST-03 held as unattached candidate); scope benchmarked against MIT OCW 24.200, Yale PHIL S125E, Stanford PHIL100 (pre-Socratics exclusion flagged to strategist/owner); superseding coverage matrix in the ledger; Socratic-method row a gap. Next: legacy modules 2-3 harvest manifest; full production closed behind the Phase 0 stop-gate.",
- "updated": "2026-10-25T08:33:27+00:00"
+ "notes": "Owner directive 2026-10-25 band. Session 1 (worker-pplx-greek-1): baton claimed; mod-phil-1 rebuilt, repaired through four advisor rounds and passed the advisor's final pedagogical-design review (all attached sources verified, AR-01 and AR-06 transcript-classified, ST-03 held as unattached candidate); scope benchmarked against MIT OCW 24.200, Yale PHIL S125E, Stanford PHIL100 (pre-Socratics exclusion flagged to strategist/owner); superseding coverage matrix in the ledger; Socratic-method row a gap; legacy modules 2-3 harvest manifest recorded with a correction against the verifier file (AR-05/ST-01/M05-XP-01/M05-XP-02 content classification pending; ST-05 duration unprinted, blocking gap; ST-05 and description-only recordings not transcript-readable from this session's environment). Full production closed behind the Phase 0 stop-gate.",
+ "updated": "2026-10-25T08:43:00+00:00"
 }

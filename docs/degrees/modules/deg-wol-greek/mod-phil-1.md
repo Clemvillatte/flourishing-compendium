@@ -5,7 +5,9 @@ mod-phil-1 (see the pilot audit in pilots/mod-phil-1.md). Source
 verification evidence is in ledgers/deg-wol-greek.md. This file is the
 module design deliverable for the integrator band; the pilot review status
 is recorded in pilots/mod-phil-1.md. STATUS: DRAFT, NOT CLEARED (advisor
-rounds 2 and 3 repairs applied; re-review pending).
+rounds 2 to 4 repairs applied; final advisor review passed the pedagogical
+design on 2026-10-25; the degree's formal gates and the Phase 0 stop-gate
+remain, so the module stays DRAFT NOT CLEARED).
 
 ## Level and placement
 

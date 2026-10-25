@@ -118,3 +118,29 @@ consumed; the full block is still in progress).
 The skill catches real defects: mixed level labels, unverified required
 media, an unassessed outcome, and a workload total with no arithmetic
 behind it. The fixes are mechanical once verification returns durations.
+
+## Advisor final review (deg-wol-greek owner, 2026-10-25)
+
+After the round-3 repairs, two further review rounds examined the changed
+passages. The round-4 review found the structural blockers resolved and
+asked for two source-fidelity fixes in the new exemplars (the criterion 2
+sample to include the final end and separate habituation from the
+constitutive activity; the worked example's consequence analysis to be
+conditional on stated assumptions rather than asserting an answer) plus a
+softer harvest conclusion (content classification still pending for AR-05,
+ST-01, M05-XP-01 and M05-XP-02). All three are applied and pushed. The
+final review then passed the module's pedagogical design and asked that a
+positive independent pedagogical-design review be recorded here. Recorded:
+the advisor confirms the rebuilt module meets the curriculum-design skill
+(outcomes, aligned instruction, faded worked examples, retrieval
+activities, an observable rubric, workload arithmetic) as a theory pilot
+design.
+
+DRAFT NOT CLEARED is retained overall. This review does not clear the
+degree's formal gates or the global Phase 0 stop-gate: the resource gate
+for the attached sources rests on the deg-verify Block A evidence (Block A
+priority batch consumed into the ledger; the full block is still in
+progress), the scope gate awaits the strategist's review of the benchmark,
+and the pedagogical gate above is an independent design review, not the
+degree's own gate. mod-phil-1 is not yet attached in fcAcademyData and
+carries no "imported" label.

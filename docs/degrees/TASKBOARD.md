@@ -154,3 +154,20 @@ reference, unique source ids in brackets):
   Alarcon-Espinoza et al. 2022). The coverage gate is not cleared by the
   degree owner: it awaits independent confirmation. Phase 0 pilot
   stop-gate still blocks module production.
+- 2026-10-25 worker-pplx-greek-1 (advisor final review passed, module
+  still DRAFT NOT CLEARED): mod-phil-1 passed the advisor's final
+  pedagogical-design review after four repair rounds (positive
+  independent design review recorded in pilots/mod-phil-1.md); the
+  degree's formal gates and the Phase 0 stop-gate remain, so the module
+  stays DRAFT NOT CLEARED and is not attached in fcAcademyData. Harvest
+  manifest for legacy modules 2-3 recorded in the scope doc with a
+  correction against the verifier file; the manifest status column's
+  unsupported durations and AR-05 content flag withdrawn this session
+  (ledger corrections round 3). Open gaps flagged for the strategist or
+  owner: ST-05 duration not printed anywhere (blocking workload
+  arithmetic); content classification for AR-05, ST-01, M05-XP-01 and
+  M05-XP-02 still rests on uploader or instructor descriptions (recording
+  or transcript reads blocked from this session's environment: YouTube
+  bot-wall, transcript services failing); Socratic method and the
+  examined life remain an essential coverage gap with no module; the
+  pre-Socratics exclusion from the scope awaits the strategist's ruling.
