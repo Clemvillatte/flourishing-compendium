@@ -40,7 +40,7 @@ Aristotle's leisure was bought with other people's labour. He is explicit that t
 
 > "The morality of work is the morality of slaves, and the modern world has no need of slavery." ([Bertrand Russell, In Praise of Idleness, Harper's, 1932](https://harpers.org/archive/1932/10/in-praise-of-idleness/))
 
-Russell's case is distributive ([In Praise of Idleness, 1935 text](https://www.idler.co.uk/article/book-of-the-week-in-praise-of-idleness/)). The labours that once bought leisure for the few were valuable, he argues, not because work is good but because leisure is good, and a decent economy would spread that good justly. He adds the sociological sting:
+Russell's case is distributive ([In Praise of Idleness, 1935 text](https://www.idler.co.uk/article/book-of-the-week-in-praise-of-idleness/)). The labours that once bought leisure for the few were valuable, he argues, for the sake of the leisure they bought and for nothing else, and a decent economy would spread that good justly. He adds the sociological sting:
 
 > "The idea that the poor should have leisure has always been shocking to the rich." ([In Praise of Idleness, Harper's, 1932](https://harpers.org/archive/1932/10/in-praise-of-idleness/))
 
