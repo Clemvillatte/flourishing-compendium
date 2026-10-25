@@ -1089,7 +1089,7 @@
    "stid": "ST401"
   },
   "s1a-025": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "D045: Deshan and the old woman's rice cakes — the full cart of commentaries emptied by one question, the candle, and the burning",
    "history": [
     {
@@ -1120,6 +1120,11 @@
      "t": "2026-10-23T11:48:59+00:00",
      "to": "qc_pending",
      "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T14:05:37+00:00",
+     "to": "ready",
+     "note": "verification pass: PDF re-downloaded (6/6 essay quotes), Wikipedia wikitext re-fetched (2/2 quotes); ready"
     }
    ],
    "stid": "ST431"
@@ -1806,5 +1811,5 @@
    ]
   }
  },
- "updated": "2026-10-25T14:05:01+00:00"
+ "updated": "2026-10-25T14:05:37+00:00"
 }
