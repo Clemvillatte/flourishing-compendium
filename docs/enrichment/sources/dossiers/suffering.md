@@ -326,3 +326,10 @@ case verified by eye and recorded above). No edits were needed;
 the file stands as finalized. The ST311/ST289 logline exception
 noted above (thesis/concept story cards whose loglines describe
 what the cards hold) remains in force.
+
+## Story-logline spot check (2026-10-25, same session)
+
+ST289's logline checked against the reopened card: psychiatrist
+excluded by the Nazis, limit situations as death, chance, guilt,
+struggle, illumination not solution — all match the card text.
+No defects found; no edits needed.

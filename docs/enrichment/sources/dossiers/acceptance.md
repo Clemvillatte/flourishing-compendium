@@ -330,3 +330,14 @@ are robots-blocked to automated fetch and could not be opened;
 the paraphrase of the cautions stands as the card's account.
 Checks re-passed: checker exit 0 (26 links, 6 external carriers),
 density 0, quote_verify 2/0, card-target diff clean.
+
+## Story-logline spot check (2026-10-25, same session)
+
+ST188 and ST293 loglines checked against the reopened cards:
+ST188's reported-by-later-sources lameness and spoken warning
+match the card's account (the card adds the post-break "I told
+you so," which the logline's compression fairly represents);
+ST293's camel-lion-child sequence, sacred yes-saying and
+only-the-child-creates match the card verbatim. The editorial
+connection to amor fati is presented as my reading, not the
+card's claim. No defects; no edits.

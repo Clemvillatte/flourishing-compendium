@@ -268,3 +268,10 @@ with their following substantive paragraphs; the Fromm mechanism
 sentence moved before the quote. Checks re-passed: checker exit 0
 (16 links, 6 external carriers), density 0, quote_verify 7/0,
 card-target diff clean.
+
+## Story-logline spot check (2026-10-25, same session)
+
+ST269's logline checked against the reopened card: Paris 1943,
+too exact too quick too waiter-like, playing at being a waiter,
+the table-is-a-table comparison — all match the card text. No
+defects; no edits.
