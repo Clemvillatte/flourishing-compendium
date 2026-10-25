@@ -12,21 +12,28 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 2** — Treat the world as events and doings, not things and substances
 
-Whitehead's ontology in one line:
+Whitehead's process philosophy begins from a demanding picture of reality:
 
-> "how an actual entity becomes constitutes what that actual entity is." (Whitehead, Process and Reality [1985: 23], [quoted in the SEP entry](https://plato.stanford.edu/entries/whitehead/))
+> "actual entities are drops of experience, complex and interdependent" (Process and Reality, 1985 edition, p. 18, quoted in [Desmet and Irvine's Stanford Encyclopedia account, section 6](https://plato.stanford.edu/entries/whitehead/))
 
-Process philosophy takes the fundamental units of the world to be happenings rather than stuff: "actual entities are drops of experience, complex and interdependent" ([P&R 1985: 18, quoted in SEP](https://plato.stanford.edu/entries/whitehead/)), and each is what its becoming makes it. The principle's own illustration: a "thing" is a name for a pattern that recurs slowly enough to seem permanent, the marriage, not the certificate; the health, not the body; the house, not the deed. Whitehead's named target was the abstraction habit, "the error of mistaking the abstract for the concrete" ([Science and the Modern World, 1925 (1967 ed., p. 51), quoted in SEP](https://plato.stanford.edu/entries/whitehead/)): treating the noun as the reality and the doings as incidental. The correction changes what you attend to. A certificate can be framed; a marriage has to be maintained. My psychology parallel is [[Dynamic systems theory]].
+The technical units in this account are elementary processes called actual occasions; larger events comprise networks of them ([SEP, section 6](https://plato.stanford.edu/entries/whitehead/)). A house or friendship is an everyday illustration I bring to the principle, with none of that theory settled by the example.
+
+Another part of Whitehead's argument concerns misplaced concreteness, "the error of mistaking the abstract for the concrete" (Science and the Modern World, 1967 edition, p. 51, quoted in [SEP, section 4](https://plato.stanford.edu/entries/whitehead/)). I take this as a question to put to my descriptions. What has a label helped me notice, and what has it left out?
+
+When I say that a relationship is "strong", I can ask what happens between the people: who makes time, who listens, how a disagreement gets addressed. I am using a process perspective to direct attention to those activities. Whether they suffice to explain a relationship, or Whitehead's metaphysics explains reality, requires a larger inquiry.
+
+[[Dynamic systems theory]] offers a comparison to pursue in psychology, where a proposed process account can face a particular experimental test.
 
 **Plain words**
-A thing is a slow event. The chair is wood fibres holding a shape this year; the friendship is a history of Tuesdays; your health is what your days are doing lately. Naming the pattern is useful, but the pattern is the happenings, and if the happenings stop, the thing stops. That is why a marriage cannot be stored in a certificate: the paper is a snapshot, and the marriage is the exposure.
+Try asking what is happening whenever a familiar label makes something sound finished. With a friendship, I can look at the conversations, invitations and repairs that I would otherwise take for granted.
 
-*For example:* The house isn't the deed — it's the repairs, the dinners, the arguments resolved, twenty years of small doings holding a shape.
+*For example:* Two friends keep calling their friendship close while cancelling every meeting. As an imagined writing scene, it invites a question about what they still do together, leaving the answer for the story to explore.
 
 ## Sources
 
-- [Whitehead, Process and Reality (1929), verbatim quotes with page references in the Stanford Encyclopedia of Philosophy entry on Whitehead](https://plato.stanford.edu/entries/whitehead/) — "how an actual entity becomes"; "drops of experience"; "the many become one"
-- [Whitehead, Science and the Modern World (1925; 1967 ed., p. 51), quoted in the SEP entry](https://plato.stanford.edu/entries/whitehead/) — "the error of mistaking the abstract for the concrete"
+- [Ronald Desmet and Andrew David Irvine, Alfred North Whitehead, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/whitehead/): sections 4 and 6; the two short Whitehead quotations above are cited through this carrier.
+- [Smith, Thelen, Titzer and McLin, Knowing in the Context of Acting: The Task Dynamics of the A-Not-B Error (1999)](https://web.stanford.edu/class/psych205/papers/SmithThelen1999.pdf): proposed dynamic account and six experiments.
+- [Lew and colleagues, Postural change effects on infants' AB task performance: visual, postural, or spatial? (2007), PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/17336320/): the later reach-planning qualification.
 
 ## Stories
 
@@ -38,12 +45,11 @@ A thing is a slow event. The chair is wood fibres holding a shape this year; the
 - [[ST101 — Lauren Olamina Organises Around Change|101. Lauren Olamina Organises Around Change]]
 ## Psychology parallels
 
-- **[[Dynamic systems theory|Dynamic systems views of behavior]]**, patterns, not essences, as units of analysis (Thelen and Smith, 1994)
+- [[Dynamic systems theory|Dynamic systems views of behavior]]: Smith and colleagues proposed an account of infants' perseverative reaching involving body-centred spatial coding, earlier reaches and looking–reaching coupling, supported by six experiments ([1999 paper](https://web.stanford.edu/class/psych205/papers/SmithThelen1999.pdf)). Lew and colleagues later separated spatial from postural changes and favoured a reach-planning explanation of that effect ([2007 abstract](https://pubmed.ncbi.nlm.nih.gov/17336320/)). This is a specific research question I place beside a metaphysical account.
 
 ## Philosophy parallels
 
-- **Becoming over being** (Nietzsche, The Gay Science)
-- **[[Difference and repetition|Difference and repetition]]** (Deleuze, Difference and Repetition)- **Process** (Pragmatism)
+- [[Difference and repetition|Difference and repetition]]: further comparative reading.
 
 
 <!-- fc: reflections

@@ -18,7 +18,7 @@ What matters here is being able to describe a difficulty and find appropriate he
 
 The title's "fragmented" is descriptive language. A diagnosis requires a thorough discussion of symptoms and personal and family history with a qualified mental health professional; a medical examination can help rule out other causes ([NIMH](https://www.nimh.nih.gov/health/publications/borderline-personality-disorder)).
 
-For an assessment of possible BPD, NICE asks clinicians to consider functioning, coping strategies, strengths, vulnerabilities, other mental disorders and social problems ([CG78, 1.3.1.2](https://www.nice.org.uk/guidance/cg78/chapter/Recommendations)). That breadth matters to me: a person seeking help brings a life and capacities as well as difficulties.
+For an assessment of possible BPD in community mental health services, NICE asks clinicians to fully assess functioning, coping strategies, strengths, vulnerabilities, other mental disorders and social problems, among other needs ([CG78, 1.3.1.2](https://www.nice.org.uk/guidance/cg78/chapter/Recommendations)). That breadth matters to me: a person seeking help brings a life and capacities as well as difficulties.
 
 NIMH identifies psychotherapy as BPD's primary treatment and describes approaches that teach emotional and relationship skills ([treatment guidance](https://www.nimh.nih.gov/health/publications/borderline-personality-disorder)). NICE also asks clinicians to discuss treatment with hope, explaining that "recovery is possible and attainable" ([CG78, 1.1.3.1](https://www.nice.org.uk/guidance/cg78/chapter/Recommendations)). Those are grounds for seeking care without making a diagnosis from a phrase on a page.
 
