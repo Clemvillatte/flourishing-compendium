@@ -21,7 +21,7 @@ Yoga Sūtra 1.47 describes an internal undisturbed calm that comes with clarity 
 > Patañjali, Yoga Sūtra 1.48, translated by James Haughton Woods (1914), [reprinted text](https://www.theessentialway.org/yoga-sutras/).
 
 **Plain words**
-An insight that shows up during practice can still be wrong about your life. Before you let one change a big decision, write down what would prove it mistaken, then go look for that evidence and talk the plan through with someone who will push back.
+The verses grant the calm insight a high title, truth-bearing, and titles have a way of going to the head. A realisation that arrives with deep peace can still be wrong about your job, your marriage, your savings, and nothing in the calm itself will tell you which. So the tradition's own caution is procedural: treat the insight as a hypothesis with a career, and make it run the same gauntlet as any other, disconfirming facts, a skeptic's ear, and a slow hand on the resignation letter.
 
 **For example**
 Someone returns from retreat wanting to resign. They review their finances, discuss the plan with a person they trust to push back, and only then give notice.

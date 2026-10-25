@@ -25,12 +25,12 @@
     "Y022",
     "Y029",
     "Y036",
-    "Y080",
     "Y085",
     "Y086",
     "Y091",
     "Y093",
-    "SP054"
+    "SP054",
+    "Y080"
   ],
   "in_progress": null,
   "flagged": {
@@ -43,11 +43,12 @@
     "SP060": "Prior flag: renewal-sentence locator corrected to III.55. Takeover reconciliation (2026-10-20): locator present in file; validator ok. Supervisor acceptance not re-performed by this worker.",
     "SP067": "Prior flag: milestone QC round 2 scope repairs. Takeover reconciliation (2026-10-20): repairs present (unsupported causal claim absent, Proof locator verified per ledger); validator ok. Claim accuracy not re-verified against primary source by this worker.",
     "SP072": "Prior flag: milestone QC round 2 scope repairs. Takeover reconciliation (2026-10-20): repairs present (Appendix XXXII condition paraphrased in body, locators added, duplicate quote removed); validator ok. Claim accuracy not re-verified against primary source by this worker.",
-    "SP087": "Prior flag: milestone QC round 2 scope repairs. Takeover reconciliation (2026-10-20): repairs present (deleted paragraph absent, advisor-supplied wording in); validator ok. Claim accuracy not re-verified against primary source by this worker."
+    "SP087": "Prior flag: milestone QC round 2 scope repairs. Takeover reconciliation (2026-10-20): repairs present (deleted paragraph absent, advisor-supplied wording in); validator ok. Claim accuracy not re-verified against primary source by this worker.",
+    "Y080": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)"
   },
   "missing_concepts": [],
   "sources_checked": 0,
-  "updated": "2026-10-25T12:30:56+00:00",
+  "updated": "2026-10-25T12:42:42+00:00",
   "band_done": false,
   "notes": {
     "SP054": {
@@ -55,6 +56,12 @@
       "claims": "n/a",
       "limitations": "None",
       "url": "https://monadnock.net/spinoza/ethics-5.html"
+    },
+    "Y080": {
+      "qc": "Plain-words replicate replaced (~0.55 -> ~0.1); validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://www.gutenberg.org/files/2383/2383-h/2383-h.htm"
     }
   }
 }
