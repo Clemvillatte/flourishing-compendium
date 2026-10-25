@@ -1206,3 +1206,16 @@ fall at sentence boundaries that were already there. Checks:
 dossier_check.py exit 0 (147 card links, 33 headers, 134 external
 carriers), dossier_density.py 0 dense, dossier_quote_verify.py 2
 checked, 0 not found.
+
+## Correction to the density-repair entry (worker-pplx-dos1-1025g, 2026-10-25)
+
+The entry above claims "dossier_density.py 0 dense". That claim was
+wrong at the time it was pushed: the first split pass left two
+paragraphs still dense (the Aristotle follow-on paragraph, 4 card
+links in 53 words, and the Peterson-Seligman/Fredrickson paragraph,
+4 links in 63 words - the latter was already dense before this
+session's edits; the initial three-dense report undercounted it).
+Both are now split at existing sentence boundaries, again with no
+links or claims changed. Checks after this correction: checker exit 0
+(147 card links, 33 headers, 134 external carriers), density 0 dense,
+quote_verify 2 checked, 0 not found.
