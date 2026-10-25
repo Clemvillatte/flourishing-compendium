@@ -2,7 +2,7 @@
 
 > What is frustration telling the person about the gap between effort and outcome, and when is the right move to push harder rather than change course?
 
-Frustration is what a blocked path feels like from inside. The goal is set, the effort is spent, and the world will not cooperate: the code will not compile, the child will not sleep, the career will not move. What the feeling is, and what it asks of the person who has it, is where the accounts split. The aggression researchers treat it as an event that generates its own pressure toward hostile action; the self-regulation researchers treat it as information about the rate of progress; the clinical tradition that studies low frustration tolerance treats its sting as something the person partly manufactures; and the contemplative traditions ask whether the feeling is ever useful at all. Each account changes what counts as a wise response: pushing harder makes sense if the feeling is pace information, and makes nothing but trouble if it is fuel for retaliation.
+Frustration is what a blocked path feels like from inside. The goal is set, the effort is spent, and the world will not cooperate: the code will not compile, the child will not sleep, the career will not move. What the feeling is, and what it asks of the person who has it, is where the accounts split. The aggression researchers treat it as an event that generates its own pressure toward hostile action; the self-regulation researchers treat it as information about the rate of progress; the clinical tradition that studies low frustration tolerance asks how much of the sting the person's belief adds; and the contemplative traditions ask whether the feeling is ever useful at all. What each account changes is the response: whether to read the feeling as data about the path, to defuse it as fuel, or to question the goal itself.
 
 ## Nearby terms
 
@@ -12,7 +12,7 @@ The words around frustration are used loosely, so I keep them apart unless a sou
 
 > "the first confusion of a man’s mind when struck by what seems an injury is no more anger than the apparent injury itself: it is the subsequent mad rush, which not only receives the impression of the apparent injury, but acts upon it as true, that is anger, being an exciting of the mind to revenge, which proceeds from choice and deliberate resolve." ([Seneca, De Ira II.III, trans. Aubrey Stewart](https://www.gutenberg.org/files/64576/64576-0.txt))
 
-Seneca's line is about how anger develops, not a definition of frustration, and I do not treat it as one: whether the felt blockage of a goal and his first confusion are the same state is a question the passages I can quote do not settle. Anger has its own dossier.
+Seneca's line is about how anger develops, not a definition of frustration, and I do not treat it as one. Anger has its own dossier.
 
 - Irritation and annoyance: everyday words here, their boundary with frustration left as loose as ordinary usage leaves it.
 - Patience: the counter-capacity, Schnitker's propensity to wait calmly in the face of frustration or adversity, held in its own group in the map.
@@ -43,15 +43,13 @@ Schopenhauer's line on desire, from the encyclopedia entry on him:
 
 ### The blocked paths
 
-The blockage itself comes in kinds, and the family is held by member.
-
 [ERG Theory](https://clemvillatte.github.io/flourishing-compendium/#card=ERG%20Theory): Alderfer's frustration-regression: when needs in a higher category are frustrated, effort is invested in the lower categories, existence and relatedness.
 
 [Effort-reward imbalance](https://clemvillatte.github.io/flourishing-compendium/#card=Effort-reward%20imbalance): Siegrist's model of the high cost, low gain condition, where continued failed reciprocity at work frustrates basic reward expectations; the model's own summary reports prospective studies tying the imbalance to risk of depressive disorders.
 
 [Autonomy](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomy): self-determination research lists autonomy among three basic needs whose satisfaction and frustration track wellness.
 
-[Social embeddedness](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20embeddedness): the belongingness drive, which on the card's review frustrates like a need: its absence damages and its restoration restores.
+[Social embeddedness](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20embeddedness): the belongingness drive, which the review behind the card treats as a need rather than a preference for company.
 
 [Noogenic neurosis](https://clemvillatte.github.io/flourishing-compendium/#card=Noogenic%20neurosis): Frankl's existential frustration, the will to meaning with nowhere to put itself: a blockage at the level of purpose, which he insisted is misdiagnosed when read as a drive conflict.
 
@@ -59,11 +57,11 @@ The blockage itself comes in kinds, and the family is held by member.
 
 ### What frustration turns into
 
-The blockage has to go somewhere, and the accounts map the exits.
+The accounts also map where the pressure goes.
 
 [Frustration–aggression hypothesis](https://clemvillatte.github.io/flourishing-compendium/#card=Frustration%E2%80%93aggression%20hypothesis): the original exit: aggression, revised by Berkowitz into inclinations rather than acts, with the reformulation quoted in the section below.
 
-[General strain theory](https://clemvillatte.github.io/flourishing-compendium/#card=General%20strain%20theory): Agnew's criminology of the same pressure: strain generates negative emotions that press for corrective action, with anger the most critical, and coping resources deciding who offends.
+[General strain theory](https://clemvillatte.github.io/flourishing-compendium/#card=General%20strain%20theory): Agnew's criminology of the same pressure: strain generates negative emotions that press for corrective action, with anger the most critical reaction, and delinquent coping may not result if the person has other coping resources.
 
 [Anger](https://clemvillatte.github.io/flourishing-compendium/#card=Anger): the neighbouring state, held in its own dossier, with the Seneca line drawn in Nearby terms above.
 
@@ -89,21 +87,21 @@ That list joins the two failure modes this theme keeps meeting: the hostile exit
 
 [The "is this up to me?" check](https://clemvillatte.github.io/flourishing-compendium/#card=K271%20%E2%80%94%20The%20is%20this%20up%20to%20me%20check): Epictetus's portable test, run at the moment a concern appears: what is up to you gets an action, what is not gets released.
 
-## The open question: does the sting live in the event or the belief?
+## Affect and appraisal in one episode
 
-Two of the accounts above could be read as rivals, and whether they are is not settled by the passages I can quote. Berkowitz's reformulation of the 1939 model, from the abstract of the review that set it out:
+The accounts of what frustration does can be read as rivals, and they need not be. Berkowitz's reformulation of the 1939 model, from the abstract of the review that set it out:
 
 > "A proposed revision of the 1939 model holds that frustrations generate aggressive inclinations to the degree that they arouse negative affect." ([Berkowitz 1989, Psychological Bulletin, abstract](https://pubmed.ncbi.nlm.nih.gov/2667009/))
 
-Read alone, that puts the pressure in the event: the frustration does its work by arousing affect, and the person's reading matters less. The REBT line could be read as denying exactly that, since on its account the sting is largely manufactured by the belief that the discomfort is unbearable, and the same blockage met with a different belief produces a different pressure. But Berkowitz's own abstract supplies a bridge between them:
+That puts the affect in the middle of the chain: the blockage does its work by arousing negative affect, and the aggressive inclinations follow the affect. The same abstract keeps the person's reading in the picture:
 
 > "Interpretations and attributions can be understood partly in terms of the original analysis but they can also influence the unpleasantness of the thwarting." ([Berkowitz 1989, abstract](https://pubmed.ncbi.nlm.nih.gov/2667009/))
 
-With that sentence in view, the two accounts can be read as layers of one episode, the affective arousal and the amplification a belief adds, rather than rivals. Whether an opposition exists here is an open research question, and I state its test rather than manufacture a disagreement: one opened passage must affirm a proposition about where frustration's sting lives, and another must deny that same proposition. The passages quoted here do not meet that test, so the section stays a question.
+The REBT line works at the other end of the chain. It does not ask what the blockage arouses; it asks what the person believes about the discomfort, and it treats the belief that the discomfort is unbearable as one of its four core irrational beliefs. Read together, the two accounts describe different layers of one episode: the affect a blockage arouses, and the belief that can make the affect worse. Whether they ever conflict, case by case, is a question the passages quoted here do not answer.
 
 ## Practice: variation, selection, retention
 
-::Variation:: What tends to need varying on this theme is the jump from blockage to response, in either direction: the rush forward into hostility or retaliation, or the collapse into the conviction that the situation cannot be stood, which shows up as avoidance, procrastination and self-medication. The adaptive direction is the gap between the blockage and the response: the frustration read as information about the path, the belief examined before it is obeyed, and the question asked of the blockage itself, whether it calls for more effort, different effort, or no effort.
+::Variation:: What tends to need varying on this theme is the jump from blockage to response, in either direction: the rush forward into hostility or retaliation, or the collapse into the conviction that the situation cannot be stood, which shows up as avoidance, procrastination and addictive behaviour. The adaptive direction is the gap between the blockage and the response: the frustration read as information about the path, the belief examined before it is obeyed, and the question asked of the blockage itself, whether it calls for more effort, different effort, or no effort.
 
 ::Selection:: The kernels I have selected as sources of that variation:
 
@@ -111,7 +109,7 @@ With that sentence in view, the two accounts can be read as layers of one episod
 
 2. [Anger dissection](https://clemvillatte.github.io/flourishing-compendium/#card=K169%20%E2%80%94%20Anger%20dissection): take the anger apart, bodily sensation, trigger, story, value, action urge; its appraisal step asks whether a goal is being blocked, which is the question a frustration-borne anger most needs answered.
 
-3. [Challenge-skill calibration](https://clemvillatte.github.io/flourishing-compendium/#card=K189%20%E2%80%94%20Challenge-skill%20calibration): when the blockage is a mismatch between difficulty and skill, adjust one of the two axes; on Csikszentmihalyi's account, boredom and frustration are both calibration readings, not verdicts on the person.
+3. [Challenge-skill calibration](https://clemvillatte.github.io/flourishing-compendium/#card=K189%20%E2%80%94%20Challenge-skill%20calibration): when the blockage is a mismatch between difficulty and skill, adjust one of the two axes; the model's markers are boredom on one side and anxiety on the other, and Csikszentmihalyi notes that doing the same thing at the same level for long grows boring or frustrating.
 
 ::Retention:: Retention is what people keep because it works for them. A reader who keeps the check, the dissection or the calibration, and finds the same blockage met differently a month later, has what the theme offered; what stays is a matter of fit between the practice and the life it enters.
 
