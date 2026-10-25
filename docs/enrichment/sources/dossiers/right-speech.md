@@ -228,3 +228,34 @@ merely spoken).
 Checks: dossier_check.py exit 0; the fresh audit count for this
 dossier fell from 9 to 8. Editorial review only; no carriers or cards
 freshly opened this pass.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+Following the advisor QC direction after two misattributed entries were
+found in the fear dossier, all 52 concept and principle entries in this
+dossier's map sections were compared against their linked cards (card
+files opened and read side by side with the glosses). Every gloss
+matches its card, including the canonical cluster (right speech,
+Eightfold Path, three trainings, Four Noble Truths, right intention,
+ahimsa, metta), the deception cluster (DePaulo lying frequency,
+Buller-Burgoon IDT, Sartre bad faith, fluency-driven illusory truth),
+the honesty cluster (parrhesia, John 8:32, Levine-Schweitzer prosocial
+honesty, Mill partial truths, correspondence theory), the
+speech-discipline cluster (Florentine Codex M028, beneficial speech,
+the three gates with its Rumi-attribution problem carried, the speech
+gate, MN 58 wise speech criteria), the listening cluster (Buber,
+Rogers-Farson active listening, deep listening, Gadamer, Giles
+communication accommodation, Noelle-Neumann spiral of silence,
+Gilligan's different voice, Rosenberg NVC, Austin speech acts,
+dialogue, Addams conversation as method, Mehl conversational research,
+Ames-Flynn assertiveness, Donovan-Hazlett communication work, Buber
+authentic communication, Jaspers existential communication), and the
+silence cluster (Daodejing plain words and teaching without words,
+Vimalakirti thundering silence, Psalm 119.11, Peirce silence as
+evidence, Curhan silence in negotiation, Kross distanced self-talk,
+Hardy self-talk). No mismatches found; no edits made. This strengthens
+the earlier voice-audit review (all 8 candidates kept): the flagged
+constructions are card-faithful as well as doctrinally sourced.
+
+Checks: dossier_check.py exit 0 (run again this session). Editorial
+review only; no external carriers freshly opened this pass.
