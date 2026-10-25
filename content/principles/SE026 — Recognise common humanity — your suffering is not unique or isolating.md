@@ -21,7 +21,7 @@ Neff's scale paper defines [[Self-compassion|self-compassion]] with this compone
 The same page frames the component as acknowledging that suffering, failure and inadequacies are part of the human condition (p. 224). The principle statement carries the second component on its own: the suffering is not a private defect but shared material.
 
 **Plain words**
-When reflecting on a failure, notice whether you are treating it as proof that something is wrong with you alone. Consider how another person might describe a similar difficulty.
+Shame has a signature move: it takes a private collapse and edits out everyone else who has ever collapsed the same way. The lonely verdict "only I am this much of a mess" survives only in a sealed room, and the second component of self-compassion is a window. The simple check is whether the room has been sealed by assumption or by evidence, since the mothers' group down the hall has been describing the same night feed for a century.
 
 *For example:* Imagine a new mother convinced she is the only one failing at it, and the mothers' group where other members describe the same struggles.
 
