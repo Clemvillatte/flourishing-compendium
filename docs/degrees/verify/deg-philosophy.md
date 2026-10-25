@@ -1378,3 +1378,41 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
 - Relevant segment: whole talk, 1:26:09.
 - Verification status: verified-partial (identity, access, duration;
   coverage basis is the title only).
+
+### M16-P04: Stoic Philosophy and Practice — The Basics: The Virtue of Wisdom (Gregory Sadler)
+
+- Identity and access: oembed confirms the lecture on the Gregory B.
+  Sadler - That Philosophy Guy channel
+  (https://www.youtube.com/watch?v=m_wc_-dmxyk); watch page opened
+  2026-10-25. Monthly live-streaming series on Stoicism basics.
+- Duration: 1:08:03 (watch page, 2026-10-25).
+- Instructor credentials: Gregory B. Sadler, lecturer (per the
+  description; institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): wisdom as one
+  of the four virtues central to Stoic human happiness — alongside
+  justice, courage and temperance — drawing on Seneca, Epictetus, Cicero,
+  Diogenes Laertes and Arius Didymus; presentation followed by questions
+  and comments.
+- Relevant segment: whole session, 1:08:03.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.
+
+### M23-EX03: Dan Zahavi in Conversation with Anthony Steinbock (Northwestern University Press)
+
+- Identity and access: oembed confirms the conversation on the
+  Northwestern University Press channel
+  (https://www.youtube.com/watch?v=L_LH6BiOdK8); watch page opened
+  2026-10-25. Discussion recorded 9 October 2020.
+- Duration: 1:31:13 (watch page, 2026-10-25).
+- Instructor credentials: Dan Zahavi and Anthony Steinbock, the book's
+  author and interlocutor (per the uploader description; institutional
+  pages not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): Zahavi's
+  Self-Awareness and Alterity — the argument that Husserlian phenomenology
+  can make a decisive contribution to discussions of self-awareness,
+  engaging debates in analytic and German philosophy.
+- Relevant segment: whole conversation, 1:31:13.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional pages pending.

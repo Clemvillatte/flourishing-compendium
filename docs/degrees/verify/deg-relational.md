@@ -356,3 +356,38 @@ standard.
   academics and activists.
 - Relevant segment: whole conversation, 0:58:29.
 - Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+
+## Block I batch — deg-verify-b hash half (verifier-pplx-1025g, 2026-10-25)
+
+### M04-R06: Confucian Role Ethics and its Contemporary Relevance — Henry Rosemont, Jr. (Portland Community College)
+
+- Identity and access: oembed confirms the talk on the Portland Community
+  College channel (https://www.youtube.com/watch?v=npt7rdNIEAw); watch
+  page opened 2026-10-25. "Looking over the Wall: Understanding the Old
+  and New China" symposium, co-hosted with the East-West Center in
+  Honolulu, PCC Sylvania Campus, 18-20 October 2007.
+- Duration: 54:38 (watch page, 2026-10-25).
+- Instructor credentials: Dr. Henry Rosemont, Jr., of Fudan University in
+  Shanghai (per the uploader description; institutional page not opened
+  this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): "Confucian
+  Role Ethics and its Contemporary Relevance: Discourse on Human Rights."
+- Relevant segment: whole talk, 54:38.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.
+
+### M04-R07: Individual Freedom and Human Rights vs Social Justice — Henry Rosemont, Jr. (Saint Vincent College)
+
+- Identity and access: oembed confirms the talk on the Saint Vincent
+  College channel (https://www.youtube.com/watch?v=IdavFIQi3hg); watch
+  page opened 2026-10-25.
+- Duration: 1:00:48 (watch page, 2026-10-25).
+- Instructor credentials: Dr. Henry Rosemont, Jr. (per the uploader
+  description; institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): "Individual
+  Freedom and Human Rights vs Social Justice: A Confucian Meditation."
+- Relevant segment: whole talk, 1:00:48.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.
