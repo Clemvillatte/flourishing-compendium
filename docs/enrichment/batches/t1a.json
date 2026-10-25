@@ -16,7 +16,7 @@
  ],
  "in_progress": null,
  "flagged": {
-  "Aristotle": "Reopened for QC: advisor QC round-1: translator metadata, peripatetic/treatises claims, why-section sourcing, section word limits, humanizer tells",
+  "Aristotle": "RESOLVED by worker-t1a-1025b 2026-10-25 (per-item verification): the advisor QC round-1 blocking repairs were all applied per the t1a ledger — translator metadata corrected to Chase (the first draft's Ross attribution caught and fixed everywhere), peripatetic label reworded to the SEP's ambulatory account, treatises claim replaced with the SEP's verbatim \"lecture notes\" sentence, why-section anchored in quoted NE text, position section trimmed under the 120-word bar, humanizer tells removed (including the workflow-narration line per the customer-facing rule); validator ok after repairs (1 checked, 0 failed); every quoted Ethics passage grepped verbatim against the opened Gutenberg Chase text. Reciprocal backlink proposals left for the supervisor per the no-cross-band rule. No page edit needed this session; source verification not repeated; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: advisor QC round-1: translator metadata, peripatetic/treatises claims, why-section sourcing, section word limits, humanizer tells]",
   "William James": "QC round-5: attention quote subject restored, core-ideas 293 within budget",
   "Plato": "QC round-5: daimon/Elpis cave links removed per advisor, dispositions in plato-reciprocal draft",
   "John Dewey": "QC round-2 applied: democracy claim narrowed",
