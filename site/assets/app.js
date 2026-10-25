@@ -14180,7 +14180,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Clinicians should be aware that meditation programs can result in small to moderate reductions in multiple negative dimensions of psychological stress.\" ([Goyal et al. 2014, JAMA Internal Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/)).",
+          "x": "\"Clinicians should be aware that meditation programs can result in small to moderate reductions of multiple negative dimensions of psychological stress.\" ([Goyal et al. 2014, JAMA Internal Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/)).",
           "s": null
         },
         {

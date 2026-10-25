@@ -858,3 +858,15 @@ opened in this pass.
   clinical definition vs Bodhi/Thanissaro). Limits paragraphs honest (MN 117
   read in Bodhi's wording not the sutta; single-sentence 2003 definition; no
   direct exchange between the Pali scholars and Kabat-Zinn on these passages).
+
+## Repair: Goyal blockquote one-word fix (worker-7fbdff24)
+
+- 2026-10-25 12:46:04Z read clock: repaired the Goyal et al. 2014 blockquote flagged in the
+  hand-verification entry above — "reductions in multiple" corrected to the
+  published abstract's "reductions of multiple" (one word; eutils 24395196 is
+  the verification carrier; the PMC page remains bot-walled to the sandbox
+  fetcher, documented exception class). No other line touched. Gates after
+  the edit: dossier_check exit 0 (49 card links, 19 headers, 20 carriers),
+  density 0, quote_verify 28 checked / 4 not found — all four the same PMC
+  bot-wall flags documented and resolved in the entry above. Registry rebuilt
+  (--rebuild=right-mindfulness) so the published site reflects the fix.
