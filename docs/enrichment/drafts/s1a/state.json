@@ -1934,7 +1934,37 @@
      "note": "draft complete; story_check ok"
     }
    ]
+  },
+  "s1a-070": {
+   "status": "qc_pending",
+   "angle": "D124: Zhuangzi monkey keeper — three in the morning",
+   "history": [
+    {
+     "t": "2026-10-25T14:57:02+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T14:57:02+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok"
+    }
+   ]
+  },
+  "s1a-071": {
+   "status": "qc_pending",
+   "angle": "B072: Ralston — the shift from freeing to releasing",
+   "history": [
+    {
+     "t": "2026-10-25T14:57:02+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T14:57:02+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok; register difference routed"
+    }
+   ]
   }
  },
- "updated": "2026-10-25T14:51:43+00:00"
+ "updated": "2026-10-25T14:57:02+00:00"
 }
