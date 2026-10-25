@@ -316,3 +316,62 @@ inherited from the card-fidelity sweep and were not reopened against
 carriers this session. Checks after these repairs: checker exit 0,
 0 dense, card set unchanged (52 unique, 0 missing, 0 added), Husserl
 quote found.
+
+## Advisor QC round 4: disagreements rebuilt from the SEP entry (2026-10-25, worker-pplx-dos17-1025h)
+
+A fourth advisor review ruled that the two remaining disagreement
+entries paired the wrong opponents: the SEP passages about
+Merleau-Ponty do not establish that body representation or
+interoceptive inference make the claims he rejects, and Seth's
+statement that prior accounts do not identify emotional states with
+inference does not establish that they reject that identification. The
+disagreements section was rebuilt from positions the SEP entry actually
+describes Merleau-Ponty disputing, with the full context of each
+dispute verified by opening the entry this pass:
+
+1. "Can behavior be explained as responses to stimuli?" — the reflex
+   program (stimulus-reaction; Pavlov's conditioned reflexes extended
+   to learning) versus Merleau-Ponty's objections: the organism is not
+   passive but "imposes its own conditions between the given stimulus
+   and the expected response, so that behavior remains inexplicable in
+   purely anatomical or atomistic terms"; conditioned-reflex accounts
+   "rely on gratuitous hypotheses lacking experimental justification";
+   learning is "a general aptitude with respect to typical structures of
+   situations."
+2. "Is perception built from sensory atoms?" — empiricism (sensation
+   as "determinate atoms," the constancy hypothesis, association and
+   projection of memory) versus Merleau-Ponty's claim that "the basic
+   level of perceptual experience is the gestalt, the meaningful whole
+   of figure against ground," with the indeterminate and contextual as
+   "positive phenomena."
+3. "Does judgment or attention assemble experience?" — intellectualism
+   (judgment or attention as "mental activities that synthesize
+   experience from the sensory givens") versus Merleau-Ponty's
+   objection that it "adopts empiricism's starting point in dispersed,
+   atomic sensations," and that both approaches read the results of
+   perception back into perceptual experience.
+
+Each entry now carries the first-person lean the model requires. The
+Seth-versus-Craig contrast was moved into the main exposition ("What
+the signals carry"), preserving the paper's qualifier that the
+anterior insula is emphasized in some, not all, of the accounts
+discussed, and the bridge sentence calling it a genuine disagreement
+was removed. Carrier links were added beside the carrier-derived
+assertions: three to the SEP Merleau-Ponty entry
+(https://plato.stanford.edu/entries/merleau-ponty/) and one to Seth's
+paper (https://www.fil.ion.ucl.ac.uk/~karl/Interoceptive%20inference%20emotion%20and%20the%20embodied%20self..pdf);
+the file now carries five external carriers. The main-exposition
+Embodiment gloss was corrected to the SEP's exact wording ("neither in
+terms of third-person causal interactions nor by explicit judgments or
+representations"), and the cortisol sentence simplified to the
+abstract's own qualifier ("appears to be a distinct feature").
+
+Verification scope: the three disputes above were verified against the
+opened SEP entry this pass; the Seth passage against the opened PDF;
+the cortisol passage against the opened Europe PMC record (Fries,
+Dettenborn & Kirschbaum 2009, PMID 18854200). The remaining glosses are
+inherited from the card-fidelity sweep and were not reopened this
+session. Checks after this round: checker exit 0, 0 dense, card set
+unchanged (52 unique, 0 missing, 0 added), Husserl quote found, 5
+external carriers. The section now meets the model's three-heading
+minimum. Still IN PROGRESS pending supervisor review.
