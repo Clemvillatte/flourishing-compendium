@@ -13,7 +13,16 @@ Huineng's teaching in the Platform Sutra: the mind's own nature (self-nature, be
 
 (Huineng, Platform Sutra, "Number One: Account of Origins," McRae translation, quoted at [e-Buddhism, The Platform Sutra of the Sixth Patriarch](https://e-buddhism.com/platform-sutra/))
 
-The famous verse carries the same point. In the received Zongbao text, Huineng's third line reads "Fundamentally there is not a single thing—" (McRae); the earlier Dunhuang manuscript reads instead "Buddha nature is always clean and pure;" (Yampolsky). Both lines render one claim: nothing needs to be added to the mind, because nothing is missing from it. I pair this with B061 (trust original purity, nothing to attain).
+The famous verse carries the same point:
+
+> Bodhi is fundamentally without any tree;
+> The bright mirror is also not a stand.
+> Fundamentally there is not a single thing—
+> Where could any dust be attracted?
+
+(Huineng, Platform Sutra, "Number One: Account of Origins," McRae translation, quoted at [e-Buddhism, The Platform Sutra of the Sixth Patriarch](https://e-buddhism.com/platform-sutra/))
+
+In the received Zongbao text, Huineng's third line reads "Fundamentally there is not a single thing—" (McRae); the earlier Dunhuang manuscript reads instead "Buddha nature is always clean and pure;" (Yampolsky). Both lines render one claim: nothing needs to be added to the mind, because nothing is missing from it. The teaching does not say the mind has no work to do; it says the work is not about adding anything. A person acting on this stops looking for the thing they already have and starts looking at the thing they already are. I pair this with B061 (trust original purity, nothing to attain).
 
 ## Sources
 

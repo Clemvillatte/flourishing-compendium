@@ -13,7 +13,9 @@ My name for a pattern the motivation sciences keep rediscovering: large goals ar
 
 (Karl Weick, "Small Wins: Redefining the Scale of Social Problems," American Psychologist, 1984, p. 43, quoted in [The Open Science Challenge (Springer)](https://link.springer.com/article/10.1007/s10869-022-09806-2))
 
-Weick's setting was social problems: recast an overwhelming issue into outcomes of moderate size and people act instead of freezing. My principles use the same lever closer to home. MO024 breaks goals into subgoals, MO039 starts habits tiny, and BE016 lowers the barrier to starting. The vision stays large; the unit of action stays small.
+Weick's setting was social problems: recast an overwhelming issue into outcomes of moderate size and people act instead of freezing. He suggested that large, intractable problems can be solved by many actors doing something small, and that a naive-looking willingness to see problems as solvable has value of its own ([The Open Science Challenge (Springer)](https://link.springer.com/article/10.1007/s10869-022-09806-2)).
+
+The reasoning is not that small steps are easier; it is that a small step is the unit a person can actually finish, and finishing is what a motivation can feed on. The vision names where the steps are going; the step is what moves a person there. My principles use the same lever closer to home. MO024 breaks goals into subgoals, MO039 starts habits tiny, and BE016 lowers the barrier to starting. The vision stays large; the unit of action stays small.
 
 ## Sources
 
