@@ -605,3 +605,67 @@ Freud-Frankl on the direction of the explanation). The model's
 three-to-five heading requirement is met; the round-5 flag about
 manufactured opposition is closed by two genuinely demonstrated
 divergences, not by count-filling.
+
+### Pass 9 round-7 advisor round-2 corrections (worker-pplx-dos31-1025g, 2026-10-25)
+
+Advisor round-2 QC blocked the round-6 "demonstrated" labels. Corrections
+applied this pass:
+
+1. Maslow-vs-Frankl RECLASSIFIED from a demonstrated disagreement to a
+   marked comparison inside the synthesis ("Where the meaning of making
+   lands", "On the maker" block). Advisor ground: a desire for
+   self-fulfilment does not establish self-focused attention or exclude
+   fulfilment through serving something beyond oneself; an artist could
+   need to paint, as Maslow says, while finding the fulfilment Frankl
+   describes. The comparison paragraph carries the two quotations (Maslow
+   1943; Frankl side-effect sentence), states the compatibility
+   explicitly, and is marked as my reading, not the sources' quarrel.
+2. Freud-vs-Frankl STRENGTHENED per the advisor's prescribed bounded
+   check: a COMPLETE carrier of the essay was opened this pass —
+   https://archive.org/download/the-adolescent-fyodor-dostoevsky-novel/
+   Creative%20Writers%20and%20Daydreaming%20%28Sigmund%20Freud%20Essay%29.pdf
+   (full Strachey text, PDF downloaded and pdftotext grepped, no LLM
+   extraction for matching; replaces the garrygillard.net excerpt page as
+   the cited carrier). Four quotations matched verbatim against the raw
+   text: "The motive forces of phantasies are unsatisfied wishes, and
+   every single phantasy is the fulfilment of a wish, a correction of
+   unsatisfying reality."; "The creative writer does the same as the
+   child at play. He creates a world of phantasy which he takes very
+   seriously"; the wish-proceeds-into-the-work sentence; and "In my
+   opinion, all the aesthetic pleasure which a creative writer affords us
+   has the character of a fore-pleasure of this kind, and our actual
+   enjoyment of an imaginative work proceeds from a liberation of
+   tensions in our minds." The essay's own hedge is carried in the prose
+   (the wish formula offered as "a first approach to the true state of
+   affairs", present in the carrier at the sentence after the formula).
+   The "Frankl built logotherapy against exactly this direction of
+   explanation" sentence was replaced with the narrower supported
+   statement (Frankl explicitly contrasts his account of primary human
+   motivation with the pleasure principle; no claim that he answers this
+   essay). The lean is bounded per the advisor: a stated preference that
+   does not show Freud's account of wish-fulfilment false. The scopes are
+   stated in the text: Freud affirms the wish-motive for the imaginative
+   writer; Frankl denies drive-reduction for the primary motivation of a
+   life; the section locates the overlap (what moves a person to make)
+   rather than claiming the passages refute each other outright.
+3. "His clearest case" (Bergson's mother) replaced with "his example of
+   a creator": the opened passage does not establish a ranking.
+4. Quotation-check reporting, corrected per the advisor: 31 quotes
+   checked, 3 unmatched in the automatic run — all three the known
+   bot-blocked carriers (Conner et al. DOI landing; Jones et al. Taylor
+   and Francis; McAdams and de St. Aubin PMC). The Jones and McAdams
+   reconfirmations this session were made by reading the fetched page
+   content through the fetch tool's extraction (the sentences were
+   visible verbatim in it), which is not raw-HTML or visual confirmation;
+   Conner is inherited raw verification from earlier ledger entries. All
+   three remain flagged for a supervisor or owner pass with a browser if
+   the project wants raw reconfirmation.
+
+Section state after round 7: two headings under "## Where the traditions
+genuinely disagree" — one candidate comparison (Frankl-Nietzsche, marked
+as such) and one claimed demonstrated disagreement (Freud-Frankl, now
+resting on the complete carrier's strongest sentences with scopes
+stated). The model's three-to-five requirement is still short; the
+remaining gap is flagged for the supervisor rather than filled. Checks:
+dossier_check.py exit 0 (51 card links, 17 headers, 24 external
+carriers); dossier_quote_verify.py 31 checked, 3 unmatched (see item 4).
