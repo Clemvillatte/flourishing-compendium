@@ -133,6 +133,10 @@ Arendt and Bergson differ in what they watch making for: Arendt's toolmaker "inv
 
 The two lives named here are not the same thing — Arendt's life process is the biological cycle of labour, Bergson's life is the creative thrust — and neither passage denies what the other affirms. I read it as a difference of emphasis about the same making: the thing may serve a durable world and still be, for the maker, one more form that life takes.
 
+Camus adds the darker case: the making that expects nothing. The absurd creator, on his account, is asked "to sculpture in clay, to know that one's creation has no future, to see one's work destroyed in a day while being aware that fundamentally this has no more importance than building for centuries—this is the difficult wisdom that absurd thought sanctions." ([Camus, The Myth of Sisyphus, 1942](https://archive.org/download/CamusMythOfSisyphusAndOtherReadings/Camus%20Myth%20of%20Sisyphus%20and%20other%20readings_djvu.txt)) The work's worth sits less in the thing than in what it demands: "the great work of art has less importance in itself than in the ordeal it demands of a man and the opportunity it provides him of overcoming his phantoms and approaching a little closer to his naked reality."
+
+The account leaves Frankl's route intact, because nothing in creating a work requires the work to last, and Camus's lucidity about the work's fate still allows the maker a concrete meaning in the making. What the absurd adds is a question the other accounts leave open: whether the making would still be worth the afternoon if nothing of it survived the day.
+
 Can these aims conflict, and what should take priority if they do? The passages quoted here do not settle it.
 
 ## Where the traditions genuinely disagree
@@ -157,7 +161,17 @@ Nietzsche had said created, about things rather than about the self. The signifi
 
 > "Valuing is creating: hear it, ye creating ones!" ([Nietzsche, Thus Spake Zarathustra](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm))
 
-Nietzsche's claim is narrower than Sartre's: he speaks of the significance of things, not of the sense of a life, so Frankl's discovered meaning and Nietzsche's conferred significance can both hold. That reading is mine; the sources do not make it. The Sartre passage above is the demonstrated disagreement on this page: it and Frankl answer the same question with incompatible answers.
+Nietzsche's claim is narrower than Sartre's: he speaks of the significance of things, not of the sense of a life, so Frankl's discovered meaning and Nietzsche's conferred significance can both hold. That reading is mine; the sources do not make it. The Sartre passage above is one demonstrated disagreement on this page: it and Frankl answer the same question with incompatible answers.
+
+### Can a maker choose beyond his conditioning?
+
+The maker's freedom is itself disputed. Skinner's behavioural science puts the case against the originator: in the scientific view, "a person's behaviour is determined by a genetic endowment traceable to the evolutionary history of the species and by the environmental ... to which as an individual he has been exposed", and "as we learn more about the effects of the environment, we have less reason to attribute any part of human behaviour to an autonomous controlling agent." ([Skinner, Beyond Freedom and Dignity, 1971](https://archive.org/download/Beyond_Freedom_and_Dignity/Beyond%20Freedom%20%26%20Dignity%20-%20Skinner.pdf)) The autonomous man of the traditional account is, in his own sentence, "a device used to explain what we cannot explain in any other way."
+
+Frankl names the position he is answering, "pan-determinism": "the view of man which disregards his capacity to take a stand toward any conditions whatsoever. Man is not fully conditioned and determined but rather determines himself whether he gives in to conditions or stands up to them. In other words, man is ultimately self-determining." The basis of prediction, he concedes, "would be represented by biological, psychological or sociological conditions. Yet one of the main features of human existence is the capacity to rise above such conditions, to grow beyond them." ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))
+
+The disagreement turns on one exact question: whether genetic and environmental conditions exhaust what determines a person's response. Skinner affirms that they do; Frankl affirms that they do not. Both passages are about human conduct in general; neither mentions making, and the bearing on this page is mine. If Skinner is right, the will to meaning that Frankl puts behind creating a work goes with the autonomous man he is abolishing: the making still happens, and the decision to make was never the maker's. Skinner does not deny that people intend things or pursue purposes; his claim is that the inner originator explains less than the consequences that selected the conduct.
+
+I lean with Frankl on the experience of making, because an afternoon's decisions are lived as decisions. I lean with Skinner on how much of what I call my choice was arranged before I noticed it. The sources do not settle it, and Skinner says so himself: "Neither view can be proved, but it is in the nature of scientific inquiry that the evidence should shift in favour of the second." ([Skinner, Beyond Freedom and Dignity, 1971](https://archive.org/download/Beyond_Freedom_and_Dignity/Beyond%20Freedom%20%26%20Dignity%20-%20Skinner.pdf))
 
 ## Practice: variation, selection, retention
 

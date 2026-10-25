@@ -1,22 +1,30 @@
 {
- "batch": "dos31",
- "done": false,
- "note": "creation: supervisor takeover pass 3 (advisor QC round 2 applied): Frankl-vs-Sartre REPAIRED into the one demonstrated disagreement (new verbatim Sartre passage: 'there is no sense in life a priori... yours to make sense of' \u2014 collides with Frankl's discovered-in-the-world meaning on one proposition; marxists.org carrier raw-verified); Sennett-vs-Marx MOVED to body as complementary comparison (advisor ruled it a scope difference, not a disagreement). Disagreement count: 1 of 3-5 \u2014 TWO more still needed, NOT manufactured, flagged. Art: None (owner call). Registry flip: supervisor-only, NOT done (bar unmet). Checker exit 0, 0 dense. BATON RELEASED 2026-10-25 (supervisor takeover pass complete): resume point = two more genuine disagreements needed (see ledger advisor rounds), art owner call, flip supervisor-only.",
- "in_progress": "creation-restructure-pass9",
- "flagged": {
-  "divergence-requirement": "Developed and raw-verified: Frankl ('the true meaning of life is to be discovered in the world rather than within man or his own psyche', grep-verified against the raw PDF text) vs Nietzsche (created significance + Valuing is creating, Gutenberg raw). Rev 5 per the advisor acceptance test, corrected and strengthened through rev 7; supervisor review of the divergence itself requested",
-  "procreation": "full-text search across content/ finds no card carrying the word \"procreation\"; the nearest material is generativity, legacy research and Bergson's mother-and-child passage; possible owner-visible gap"
- },
- "notes": "Owner-directed mint 2026-10-25: registry entry added as planned; supervisor review of the mint requested (precedent: Hypo-egoic owner-directed intake). Registry flip and Academy splice remain supervisor-only.",
- "items": [
-  {
-   "id": "creation-restructure-pass9",
-   "done": false,
-   "date": "2026-10-25",
-   "worker": "worker-pplx-c3b0f2fb",
-   "note": "Pass 9 (worker-pplx-c3b0f2fb, 2026-10-25): restructured from old map shape to GF interwoven thread per current orders; links/quotes reused verbatim. Advisor QC rounds 1-3 applied (evidence bridges fixed/narrowed; disagreement section now holds ONE CANDIDATE comparison, ZERO demonstrated disagreements, count requirement unmet and flagged; where-it-lands moved to body synthesis; opening/shape fixes; banned institutional-voice phrase removed). Evidence this pass: Frankl PDF and Nietzsche Gutenberg reopened and matched verbatim with context read; both T&F quotes reconfirmed against the fetch-tool RAW HTML (not the generated extraction) this pass; P149 card read in full and the prose aligned to the card own hedge. Checker exit 0 (51 links, 16 headers, 14 carriers). Known gaps left flagged: practice entries run 3+ sentences where the model specifies two (the extra sentences are earlier advisor-round caveats; trimming would regress that QC \u2014 flagged for the supervisor), and the broader paraphrase verification is inherited from rev 1-7 except where recorded this pass. STATUS: WIP \u2014 not QC-passed; disagreement count blocks completion/publication.",
-   "status": "WIP"
-  }
- ],
- "worker": "worker-pplx-dos31-1025g"
+  "batch": "dos31",
+  "done": false,
+  "note": "creation: worker pass 10 (2026-10-25): SECOND demonstrated disagreement added \u2014 Skinner vs Frankl, new heading \"Can a maker choose beyond his conditioning?\", shared proposition per advisor: whether genetic and environmental conditions exhaust what determines a person's response; four Skinner spans + the Frankl pan-determinism span raw-verified in opened carriers. Camus added to the synthesis as a bounded comparison per advisor ruling (Ephemeral Creation spans, complete archive.org text). Two rejected pairings documented in the ledger with full rulings (Camus-Frankl as demonstrated disagreement REJECTED twice; Marx-Arendt REJECTED twice; German Ideology + Arendt HC carriers documented for future attempts). Disagreement count: 2 of the 3-5 bar \u2014 ONE more genuine disagreement still needed, NOT manufactured, flagged for the supervisor; it remains the completion blocker. Checker exit 0; quote check 40 spans / 3 not-found (the three pre-existing bot-blocked carriers, unchanged). Art: None (owner call). Registry flip: NOT done; creation remains planned (supervisor flip pending; publish-then-review orders in force).",
+  "in_progress": "creation-restructure-pass10",
+  "flagged": {
+    "divergence-requirement": "Developed and raw-verified: Frankl ('the true meaning of life is to be discovered in the world rather than within man or his own psyche', grep-verified against the raw PDF text) vs Nietzsche (created significance + Valuing is creating, Gutenberg raw). Rev 5 per the advisor acceptance test, corrected and strengthened through rev 7; supervisor review of the divergence itself requested",
+    "procreation": "full-text search across content/ finds no card carrying the word \"procreation\"; the nearest material is generativity, legacy research and Bergson's mother-and-child passage; possible owner-visible gap"
+  },
+  "notes": "Owner-directed mint 2026-10-25: registry entry added as planned; supervisor review of the mint requested (precedent: Hypo-egoic owner-directed intake). Registry flip and Academy splice remain supervisor-only.",
+  "items": [
+    {
+      "id": "creation-restructure-pass9",
+      "done": false,
+      "date": "2026-10-25",
+      "worker": "worker-pplx-c3b0f2fb",
+      "note": "Pass 9 (worker-pplx-c3b0f2fb, 2026-10-25): restructured from old map shape to GF interwoven thread per current orders; links/quotes reused verbatim. Advisor QC rounds 1-3 applied (evidence bridges fixed/narrowed; disagreement section now holds ONE CANDIDATE comparison, ZERO demonstrated disagreements, count requirement unmet and flagged; where-it-lands moved to body synthesis; opening/shape fixes; banned institutional-voice phrase removed). Evidence this pass: Frankl PDF and Nietzsche Gutenberg reopened and matched verbatim with context read; both T&F quotes reconfirmed against the fetch-tool RAW HTML (not the generated extraction) this pass; P149 card read in full and the prose aligned to the card own hedge. Checker exit 0 (51 links, 16 headers, 14 carriers). Known gaps left flagged: practice entries run 3+ sentences where the model specifies two (the extra sentences are earlier advisor-round caveats; trimming would regress that QC \u2014 flagged for the supervisor), and the broader paraphrase verification is inherited from rev 1-7 except where recorded this pass. STATUS: WIP \u2014 not QC-passed; disagreement count blocks completion/publication.",
+      "status": "WIP"
+    },
+    {
+      "id": "creation-restructure-pass10",
+      "done": true,
+      "date": "2026-10-25",
+      "worker": "worker-pplx-dos31-1025k",
+      "note": "Pass 10 (worker-pplx-dos31-1025k, 2026-10-25): added the second demonstrated disagreement (Skinner vs Frankl, advisor-cleared in round 1 with caveats all carried: narrow proposition, both-passages-general-conduct caveat, Skinner allows intention/purpose, \"Neither view can be proved\" quoted) and the Camus bounded-comparison paragraph in the synthesis per the advisor's ruling and constraints. Ledger updated with the two new carriers (Skinner BFFD archive.org full text; Camus complete text) and two research-only carriers (Marx German Ideology; Arendt HC) plus all advisor rulings. STATUS: WIP \u2014 not QC-passed; the third genuine disagreement still blocks completion; count 2 of 3-5.",
+      "status": "done"
+    }
+  ],
+  "worker": "worker-pplx-dos31-1025k"
 }
