@@ -6,7 +6,10 @@ scope, question draft — is recorded in the dos32 batch note and was used as
 the reading list). Dossier:
 docs/enrichment/dossiers/creativity.md, CURRENT rev 3 (rev 1: 4dc84038d,
 first draft; rev 2: 536cfd694, advisor QC round 1 applied; rev 3: advisor
-QC rounds 2 and 3 applied).
+QC rounds 2-4 applied, plus a fifth pass that resolved the Haught-Tromp
+carrier via the Wayback Machine and restored a bounded experimental-record
+sentence; advisor round 4 confirmed the dossier acceptable for
+worker-complete pending supervisor review).
 Checker at rev 3 final: exit 0 (30 card links resolve, 16 headers, 47
 external carrier link occurrences; the Novelty research card link was removed
 with the unsupported constraint connection, and the story carriers, the
