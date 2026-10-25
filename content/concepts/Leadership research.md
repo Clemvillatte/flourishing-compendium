@@ -11,11 +11,11 @@ Leadership research is the social-scientific study of leading: what leaders do, 
 
 > "We begin by examining authentic leadership and its development, followed by work that takes a cognitive science approach. We then examine new-genre leadership theories, complexity leadership, and leadership that is shared, collective, or distributed." ([Avolio, Walumbwa and Weber 2009, abstract](https://www.annualreviews.org/content/journals/10.1146/annurev.psych.60.110707.163621))
 
-### What the field agrees and argues about
+### Scope of the 2009 review
 
 The review also covers "the role of relationships through our review of leader member exchange and the emerging work on followership", plus "substitutes for leadership, servant leadership, spirituality and leadership, cross-cultural leadership, and e-leadership" ([same review, abstract](https://www.annualreviews.org/content/journals/10.1146/annurev.psych.60.110707.163621)). The review surveys several approaches and identifies questions for further research in each.
 
-The scope the abstract lists is a map of theory families rather than a definition of the thing they are theories of. Authentic leadership, cognitive-science approaches, new-genre theories, complexity leadership, and shared, collective or distributed leadership are surveyed in turn, and the later sections add relationships, followership and the rest. A reader can take from the list what the field currently treats as its parts, and the list is the review's own account of that.
+The topics this 2009 review covers are listed rather than argued for: authentic leadership and its development, work that takes a cognitive science approach, new-genre leadership theories, complexity leadership, leadership that is shared, collective or distributed, then leader member exchange, followership, and the further topics named above.
 
 ### Here
 

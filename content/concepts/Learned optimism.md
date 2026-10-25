@@ -7,7 +7,7 @@ file: "Learned optimism"
 tags: ["theory", "psych/affect"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-AFFECT"], "alternatePaths": []}
 ---
-Learned optimism is Martin Seligman's name for the approach he set out in his 1990 book of that title: the claim that the way people explain setbacks to themselves can be shifted. The book grew out of his learned helplessness research, whose reformulated model says:
+Learned optimism is Martin Seligman's name for the approach he set out in his book of that title: the claim that the way people explain setbacks to themselves can be shifted. The book grew out of his learned helplessness research, whose reformulated model says:
 
 > "Individuals who habitually construe the causes of bad events as internal, stable, and global ('it's my fault, it's going to last forever, and it's going to undermine everything I do') should, when they experience bad events, be more susceptible to helplessness deficits than those with the opposite style." ([Seligman and Schulman, Journal of Personality and Social Psychology 50 (1986): 832-838, introduction, UPenn PDF](https://ppc.sas.upenn.edu/sites/default/files/predictproductivity.pdf))
 
@@ -15,7 +15,7 @@ Learned optimism is Martin Seligman's name for the approach he set out in his 19
 
 The book's practical program is the publisher's one-line summary: simple techniques for breaking an "I–give–up" habit and developing "a more constructive explanatory style for interpreting your behavior" ([Vintage Books, 2006 edition](https://www.penguinrandomhouse.com/books/163862/learned-optimism-by-martin-e-p-seligman-phd/)). The dimensions come from the reformulated learned helplessness model ([Seligman and Schulman 1986](https://ppc.sas.upenn.edu/sites/default/files/predictproductivity.pdf)).
 
-The three dimensions of the model are named in the quotation's parenthetical gloss: internal, stable and global, with the pessimistic version spelled out as "it's my fault, it's going to last forever, and it's going to undermine everything I do". The habit the book takes as its subject is the one that gloss describes, and the program the publisher summarizes names the two halves of the work: breaking the habit, and developing a more constructive explanatory style for interpreting one's own behavior. The claim the title carries is that the style is something a person can learn rather than something a person is given.
+The three dimensions of the model are named in the quotation's parenthetical gloss: internal, stable and global, with the pessimistic version spelled out as "it's my fault, it's going to last forever, and it's going to undermine everything I do". The habit the book takes as its subject is the one that gloss describes, and the program the publisher summarizes names the two halves of the work: breaking the habit, and developing a more constructive explanatory style for interpreting one's own behavior. The publisher's summary describes techniques, which is the claim the program carries: methods for changing explanatory style.
 
 ### Here
 

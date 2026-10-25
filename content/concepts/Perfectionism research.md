@@ -7,15 +7,15 @@ file: "Perfectionism research"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-The research line begun by Paul Hewitt and Gordon Flett in 1991: perfectionism is not one trait but three, aimed at the self, at others, or felt as demanded by others. Four studies in the founding article showed the dimensions "can be assessed in a reliable and valid manner", and the research field it opened now runs from psychiatric samples to birth-cohort trends.
+The research line begun by Paul Hewitt and Gordon Flett in 1991 distinguishes three dimensions of perfectionism, aimed at the self, at others, or felt as demanded by others. Four studies in the founding article showed the dimensions "can be assessed in a reliable and valid manner", and the research field it opened now runs from psychiatric samples to birth-cohort trends.
 
 ### Three dimensions
 
 > "We describe three dimensions of perfectionism: self-oriented perfectionism, other-oriented perfectionism, and socially prescribed perfectionism. Four studies confirm the multidimensionality of the construct and show that these dimensions can be assessed in a reliable and valid manner." — [Hewitt & Flett (1991), abstract (PubMed, PMID 2027080)](https://pubmed.ncbi.nlm.nih.gov/2027080/)
 
-The dimensions carry clinical weight: in the study with 77 psychiatric patients, the three related differentially to personality-disorder and maladjustment indices, and the authors concluded that "a multidimensional approach to the study of perfectionism is warranted, particularly in terms of the association between perfectionism and maladjustment" ([Hewitt & Flett, 1991](https://pubmed.ncbi.nlm.nih.gov/2027080/)). Later work in the same tradition found each dimension rising over the 1989-2016 cohorts ([Curran & Hill, 2019, meta-analysis, PubMed 29283599](https://pubmed.ncbi.nlm.nih.gov/29283599/)).
+The dimensions carry clinical weight: in the study with 77 psychiatric patients, the three related differentially to personality-disorder and maladjustment indices, and the authors concluded that "a multidimensional approach to the study of perfectionism is warranted, particularly in terms of the association between perfectionism and maladjustment" ([Hewitt & Flett, 1991](https://pubmed.ncbi.nlm.nih.gov/2027080/)). Later work in the same tradition, a meta-analysis of birth cohort differences from 1989 to 2016, found each dimension rising over that period ([Curran & Hill, 2019, Psychological Bulletin 145(4): 410-429, PubMed 29283599](https://pubmed.ncbi.nlm.nih.gov/29283599/)).
 
-The founding claim has two parts, and the distinction between them matters. One part is the multidimensionality itself, three named dimensions rather than a single score; the other is the measurement claim, that each dimension can be assessed in a reliable and valid manner. The four studies carry both claims at once, which is why the abstract reports them together.
+The founding claim has two parts. One is the multidimensionality itself: three named dimensions. The other is the measurement claim, that each dimension can be assessed in a reliable and valid manner.
 
 ### Here
 

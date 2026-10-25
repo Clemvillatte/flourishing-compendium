@@ -7,15 +7,15 @@ file: "Organizational research"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-O"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter O", "parent": ""}
 ---
-A survey label for a research field: studies of how characteristics of people and workplaces match, and what that match predicts. The flagship result for the fit side is Kristof-Brown, Zimmerman and Johnson's 2005 meta-analysis of person-job, person-organization, person-group and person-supervisor fit.
+One strand of organizational research examines person-environment fit: studies of how characteristics of people and workplaces match, and what that match predicts. The flagship result for the fit side is Kristof-Brown, Zimmerman and Johnson's 2005 meta-analysis of person-job, person-organization, person-group and person-supervisor fit.
 
 ### What the fit studies found
 
 > "This meta-analysis investigated the relationships between person–job (PJ), person–organization (PO), person–group, and person–supervisor fit with preentry (applicant attraction, job acceptance, intent to hire, job offer) and postentry individual-level criteria (attitudes, performance, withdrawal behaviors, strain, tenure)." — [Kristof-Brown, Zimmerman & Johnson (2005), abstract](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1744-6570.2005.00672.x)
 
-The synthesis pulled together 172 usable studies with 836 effect sizes, and its credibility intervals nearly all excluded zero, which the authors read as "the broad generalizability of the relationships across situations" ([Kristof-Brown et al., 2005](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1744-6570.2005.00672.x)). Fit was studied both before joining, attraction and offers, and after joining, where it tracked attitudes, performance, withdrawal, strain and tenure. A second line of research in this field, autonomy predicting well-being (Deci and Ryan, 2000), belongs to the self-determination tradition surveyed separately under autonomous motivation.
+The synthesis pulled together 172 usable studies with 836 effect sizes, and its credibility intervals nearly all excluded zero, which the authors read as "the broad generalizability of the relationships across situations" ([Kristof-Brown et al., 2005](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1744-6570.2005.00672.x)).
 
-The two halves of the meta-analysis give the field its shape. The preentry half covers what happens before a person joins: attraction to an organization, acceptance of a job, intent to hire, job offers. The postentry half covers what the match tracks after joining: attitudes, performance, withdrawal behaviors, strain and tenure. The abstract reports both, and the breadth is the finding: the fit relationships are reported as generalizing across situations rather than holding in one kind of workplace.
+The meta-analysis covers preentry and postentry outcomes. The preentry half covers what happens before a person joins: attraction to an organization, acceptance of a job, intent to hire, job offers. The postentry half covers what the match tracks after joining: attitudes, performance, withdrawal behaviors, strain and tenure. The fit relationships are reported in the abstract as generalizing across situations.
 
 ### Here
 
