@@ -225,5 +225,7 @@
    "from": "worker-maint-1025b",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T06:41:45+00:00"
 }
