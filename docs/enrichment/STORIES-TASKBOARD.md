@@ -1,5 +1,11 @@
 # STORIES-TASKBOARD — lane registry for the stories pipeline
 
+## ROUTE (2026-10-25/26, strategist-pplx-1026a): FINISH THE STARTED STORIES
+Priority: the 19 qc_pending and 3 returned items across lanes s1a-s1f (the
+started stories). Work them to `ready` per PROTOCOL-STORIES.md. ~148 drafts are
+already `ready` — registration and backlinks are SUPERVISOR-ONLY; do not run
+story_register.py. Plan: `docs/enrichment/PIPELINE-2026-10-26.md`.
+
 Maintained by the **Supervisor**. Storytellers read it to claim a lane; they never edit
 it directly (a ROUTE note in handoff.md reaches the supervisor). Protocol: `PROTOCOL-STORIES.md`.
 

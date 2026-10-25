@@ -7,6 +7,15 @@
 
 # Degrees ecosystem taskboard
 
+## EXECUTION ORDER (2026-10-25/26, owner directive: one by one, in order)
+ONE production worker at a time, sequence: deg-verify-b closes the verification
+queue first, then deg-wol-greek (theory pilot), deg-wol-daoism,
+deg-wol-buddhism, deg-wol-pragmatism, deg-wol-existentialism, deg-wol-positive,
+deg-psychdim, practicum-cmp (designated agent only), deg-psychology-101 (bridge),
+deg-integrate (schema migration as degrees complete). Full table and worker
+count: `docs/enrichment/PIPELINE-2026-10-26.md`. Do not start degree N+1 before
+degree N passes its gates.
+
 Routing for the Degree Rework. Workers append checkpoints at the top of
 their section; supervisors append routed notes. Bands and mechanics are in
 OPERATIONS.md.

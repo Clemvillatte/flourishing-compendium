@@ -1,5 +1,12 @@
 # Dossiers band handoff — read this first
 
+## ROUTE (2026-10-25/26, strategist-pplx-1026a, supervisor): REPAIR BANDS
+The 28-item disagreement repair pass + 3 old-map restructures are chunked into
+bands dosr1-dosr7 (batons minted, free). Band contents, rules and the worker
+count: `docs/enrichment/PIPELINE-2026-10-26.md`. Take a band with
+`python3 scripts/baton.py clock-in dosr<N> <your-id>`. Everything else below
+still applies.
+
 ## CURRENT ORDERS (2026-10-25, owner validated; supersedes everything below that conflicts)
 
 OWNER DIRECTIVE 2026-10-25 (d) — repair ruling, new mints, site tab:

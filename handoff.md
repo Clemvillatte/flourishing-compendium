@@ -16,6 +16,16 @@ changes for you. Follow-up (routed, not done): legacy docs-root handoffs
 (ENRICHMENT-HANDOFF, MOBILE-HANDOFF etc.) still to be archived once their
 band-file pointers retire.
 
+PIPELINE (same session, owner directive 2026-10-26): finish-the-projects plan
+written to docs/enrichment/PIPELINE-2026-10-26.md. Priority: Degrees one by one
+in order (deg-verify-b first, then deg-wol-greek, daoism, buddhism, pragmatism,
+existentialism, positive, psychdim, cmp, psych-101 bridge, integrate); Dossier
+repair bands dosr1-dosr7 minted and free (28 below-bar repairs + 3 old-map
+restructures); Stories: finish the 19 qc_pending + 3 returned items, ~148 ready
+drafts await SUPERVISOR registration. Recommended: 8 workers (2 degrees, 4
+dossiers, 2 storytellers) + one supervisor session. ROUTE notes added to
+degrees/TASKBOARD, dossiers/HANDOFF, STORIES-TASKBOARD.
+
 ## AGENT LAUNCH 10 (2026-10-25 ~11:10Z, launcher pplx-1025-launch-c, no baton held)
 
 ## AGENT LAUNCH (2026-10-25 ~13:30Z, storyteller-pplx-s1a-1025z, holding s1a)
