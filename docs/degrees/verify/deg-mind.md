@@ -47,8 +47,7 @@ These are unattached records from the Block I hash half for deg-verify-a, verifi
   of Washington, D.C. channel (https://www.youtube.com/watch?v=MRLaqqnhwKs).
 - Duration: 1:01:39 (watch page, 2026-10-25).
 - Instructor credentials: Tara Brach, Insight Meditation Community of Washington,
-  D.C. teacher (per the host description and her IMCW teacher page linked from
-  it); dana-based, freely viewable.
+  D.C. teacher (per the host description).
 - Language: English.
 - Content coverage: the host's description states the class includes a welcome, a
   meditation from 0:20 and a talk from 21:28 on Radical Acceptance, exploring the
