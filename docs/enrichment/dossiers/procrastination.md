@@ -7,8 +7,8 @@ The gap between intending and doing is ordinary. What makes procrastination a pr
 ### Nearby terms
 
 - Akrasia: the oldest name on this territory, the lived problem of acting against one's own better judgment. Socrates denied the possibility; Aristotle's realism about it grounds his ethics of practice; the modern debate refines what exactly is betrayed, a judgment or a plan. The compendium carries the territory on both [Akrasia](https://clemvillatte.github.io/flourishing-compendium/#card=Akrasia) and [Akrasia (weakness of will)](https://clemvillatte.github.io/flourishing-compendium/#card=Akrasia%20%28weakness%20of%20will%29).
-- Habit and behaviour change: the neighbouring mechanics of what the delay sits inside. What is specific to delay is what the delay protects, and what it costs.
-- Self-forgiveness: how a person responds after an offense. Its application to procrastination appears in the two-exam study described below, where forgiveness for earlier delay was associated with less subsequent procrastination.
+- Habit and behaviour change: the neighbouring mechanics of what the delay sits inside, carried on the compendium's [Habit](https://clemvillatte.github.io/flourishing-compendium/#card=Habit) card and its family. What is specific to delay is what the delay protects, and what it costs.
+- Self-forgiveness: how a person responds after an offense, carried on the [Self-forgiveness](https://clemvillatte.github.io/flourishing-compendium/#card=Self-forgiveness) card. Its application to procrastination appears in the two-exam study described below, where forgiveness for earlier delay was associated with less subsequent procrastination.
 
 ## Where the delay comes from
 
