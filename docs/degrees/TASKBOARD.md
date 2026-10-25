@@ -74,7 +74,7 @@ reference, unique source ids in brackets):
 - 2026-10-25 (passes 2-5 plus QC repairs; latest save see below)
   worker-pplx-degfin-1 (deg-verify-a): BATCHED TRANSCRIPT PASSES 2-5 + QC
   REPAIRS — LEDGER (commits 5dbf41e8f, 0295b5030, c8849acf7, 46923f9b0,
-  3864101ca, fd4410dea, 450ce7480, 7b210f70d, plus the final saves). 31
+  3864101ca, fd4410dea, 450ce7480, 7b210f70d, plus the final saves). 34
   description-basis cards evidenced (29 upgrades + 2 corroborations +
   3 coverage-evidence records still partial) plus 4 unsuccessful probes,
   via the third-party transcript route. The upgrade count is MECHANICALLY
