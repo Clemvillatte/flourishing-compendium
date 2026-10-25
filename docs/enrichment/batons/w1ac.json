@@ -75,5 +75,7 @@
    "from": "supervisor-pplx-c3b35524",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T00:55:12+00:00"
 }
