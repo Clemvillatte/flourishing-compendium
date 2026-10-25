@@ -22,7 +22,7 @@ Sutra 4.34, the last of the work, reads: "Isolation is the inverse generation of
 
 None of these passages mentions a lake settling, and none says that striving is only a means to be put down, or prescribes a closing minute of non-doing at the end of a sitting. The closing minute is the principle's own practical rule, and Arnold's verses are unnumbered, so the reference is to the chapter rather than a verse.
 
-**Plain words** The texts describe the aim as the Seer resting in itself, the mind like a lamp that does not flicker, and a state Arnold calls peace. They describe the destination, not a way of ending a daily practice. Closing each sitting with a minute of quiet is a modern addition.
+**Plain words** The finish line, in these texts, is not an achievement but a settling. The Seer simply abides in himself, like a crystal that has stopped borrowing colours from the flower next to it; the Gita's lamp burns steady because the wind of the senses has been shut out. Practice is the windbreak. Nothing in the passages tells you how to close a sitting, so the extra minute of doing nothing at the end is this principle's invention.
 
 *For example:* after a sitting, you leave the timer running for one extra minute and do nothing. The minute is your own addition.
 
