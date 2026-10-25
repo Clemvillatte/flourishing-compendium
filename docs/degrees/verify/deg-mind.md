@@ -14,10 +14,10 @@ evidence on file.
 
 25 unique attachments (10 source IDs on mod-mind-1 and mod-mind-2 map to
 these recordings). Verified below: M06-AF09, M06-CO04, M06-AF01, M06-AF03, M06-AT01,
-M06-AF06, M06-CO02, M06-AF04, M06-AF05, M06-AT02.
+M06-AF06, M06-CO02, M06-AF04, M06-AF05, M06-AT02, M06-CO05.
 Already verified in the manifest: SRC-M28-001 through SRC-M28-007;
 M06-AT06 is the same recording as SRC-M28-002. Queued for the next
-session: M06-CO05,
+session:
 SRC-M07-001, SRC-M07-004, SRC-M07-005, SRC-M07-007, SRC-M07-008,
 SRC-M07-019.
 
@@ -294,6 +294,30 @@ SRC-M07-019.
   (2026-10-25); content coverage is classified from the recording's own
   description and chapter list, and the transcript panel was not read
   this session.
+
+### M06-CO05: Thinking, Fast and Slow (Daniel Kahneman)
+
+- Legacy attachment: mod-mind-2 required media.
+- Identity: the watch page confirms the video on the University of Zurich
+  Economics for Society channel, title "Thinking, fast and slow by Daniel
+  Kahneman" (https://www.youtube.com/watch?v=qzJxAmJmj8w, checked
+  2026-10-25). Freely playable, no paywall.
+- Duration: 1:06:42 printed in the player (2026-10-25).
+- Instructor credentials: Prof. Daniel Kahneman, per the recording's own
+  page (opened 2026-10-25). His institutional affiliation (Princeton,
+  professor emeritus, and Nobel laureate in economics) was not opened on
+  an institutional page this session; flagged for a second provenance.
+- Language: English. The watch page offers a transcript panel.
+- Event: public lecture at the Aula, University of Zurich, 16 April 2013,
+  published 18 April 2013.
+- Content coverage: the description names the topic (Thinking, fast and
+  slow) and prints only two chapters, introduction by Ernst Fehr (0:00)
+  and the lecture (6:50). The transcript panel was not read this session;
+  the owner should read it before scheduling segments.
+- Relevant segments: lecture proper starts at 6:50.
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage unclassified beyond the title this
+  session, transcript not read.
 
 ## Block I batch (verified 2026-10-25)
 Coverage-basis note for owners: entries in this section record the basis of each
