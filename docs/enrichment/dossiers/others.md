@@ -38,27 +38,15 @@ The two ways cultures teach people to be a self are [independent vs interdepende
 
 Tajfel and Turner's account of how the part of self-image that comes from group membership drives intergroup behaviour is [social identity theory](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20identity%20theory). Social identity lived through the body, anchored in Fanon's account of Blackness under the white gaze, is [embodied social identity](https://clemvillatte.github.io/flourishing-compendium/#card=Embodied%20social%20identity). The lifespan stages whose central conflicts are relational, from trust versus mistrust to intimacy versus isolation and generativity, are [Erikson's psychosocial theory](https://clemvillatte.github.io/flourishing-compendium/#card=Erikson%27s%20psychosocial%20theory).
 
-### Empathy: feeling with, and understanding
+### How empathy works, and where it fails
 
-[Empathy](https://clemvillatte.github.io/flourishing-compendium/#card=Empathy): the capacity to feel with and understand another; the umbrella the rest of these entries divide.
+The capacity to feel with and understand another, the umbrella the rest of these entries divide, is [empathy](https://clemvillatte.github.io/flourishing-compendium/#card=Empathy). Batson's other-oriented warmth, feeling for a person in need with that person's welfare as the aim, is [empathic concern](https://clemvillatte.github.io/flourishing-compendium/#card=Empathic%20concern). Affective resonance with another's pain that turns self-oriented and leads to withdrawal is [empathic distress](https://clemvillatte.github.io/flourishing-compendium/#card=Empathic%20distress).
 
-[Empathic concern](https://clemvillatte.github.io/flourishing-compendium/#card=Empathic%20concern): Batson's other-oriented warmth: feeling for a person in need, with that person's welfare as the aim.
+Ickes's construct for how well one person infers what another is actually thinking and feeling is [empathic accuracy](https://clemvillatte.github.io/flourishing-compendium/#card=Empathic%20accuracy). Rogers's condition, understanding another's experience from inside their frame of reference, is [empathic understanding](https://clemvillatte.github.io/flourishing-compendium/#card=Empathic%20understanding), and the therapist's perception and communication of that understanding, with the research on whether it helps, is [therapeutic empathy](https://clemvillatte.github.io/flourishing-compendium/#card=Therapeutic%20empathy).
 
-[Empathic distress](https://clemvillatte.github.io/flourishing-compendium/#card=Empathic%20distress): affective resonance with another's pain that turns self-oriented and leads to withdrawal.
+The extension of the macaque premotor finding to human feeling-with is the [mirror neuron theory of empathy](https://clemvillatte.github.io/flourishing-compendium/#card=Mirror%20neuron%20theory%20of%20empathy). The sharing of feeling and perspective that comes through stories, in Mar and Oatley's account, is [narrative empathy](https://clemvillatte.github.io/flourishing-compendium/#card=Narrative%20empathy).
 
-[Empathic accuracy](https://clemvillatte.github.io/flourishing-compendium/#card=Empathic%20accuracy): Ickes's construct for how well one person infers what another is actually thinking and feeling.
-
-[Empathic understanding](https://clemvillatte.github.io/flourishing-compendium/#card=Empathic%20understanding): Rogers's condition: understanding another's experience from inside their frame of reference.
-
-[Therapeutic empathy](https://clemvillatte.github.io/flourishing-compendium/#card=Therapeutic%20empathy): the therapist's perception and communication of that understanding, and the research on whether it helps.
-
-[Mirror neuron theory of empathy](https://clemvillatte.github.io/flourishing-compendium/#card=Mirror%20neuron%20theory%20of%20empathy): the extension of the macaque premotor finding to human feeling-with.
-
-[Narrative empathy](https://clemvillatte.github.io/flourishing-compendium/#card=Narrative%20empathy): the sharing of feeling and perspective that comes through stories, in Mar and Oatley's account.
-
-[Egocentric projection in social inference](https://clemvillatte.github.io/flourishing-compendium/#card=Egocentric%20projection%20in%20social%20inference): the habit of reading another person's mind from one's own.
-
-[Confirming the other](https://clemvillatte.github.io/flourishing-compendium/#card=Confirming%20the%20other): Buber's term for what the other person does in a dialogic relation.
+The habit of reading another person's mind from one's own is [egocentric projection in social inference](https://clemvillatte.github.io/flourishing-compendium/#card=Egocentric%20projection%20in%20social%20inference). Buber's term for what the other person does in a dialogic relation is [confirming the other](https://clemvillatte.github.io/flourishing-compendium/#card=Confirming%20the%20other).
 
 The training research separates two states a person can bring to another's pain. In Klimecki and colleagues' study, one group was trained first in empathic resonance and then in compassion; the resonance training raised negative affect and the brain activations associated with empathy for pain, and the compassion training reversed it:
 
