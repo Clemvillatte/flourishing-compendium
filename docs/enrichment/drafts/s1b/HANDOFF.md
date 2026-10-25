@@ -130,3 +130,10 @@ disposition evidence. Statuses left as found (returned).
   - s1b-029: Beal 11/11 verbatim (OCR artifacts only); FLAG — the Heart Sutra Red Pine carrier (oaks.nvg.org) now fails (connection refused / server error); its two quotes rest on the 2026-10-24 documented access. Re-source or accept.
   - s1b-037: NOT VERIFIED — ctext.org carrier Cloudflare-walled to curl, fetch, and the cloud browser; quotes rest on the prior documented access. No fault found either way.
 - Combined with the earlier pass, s1b now has 16 of its ready drafts QC-sampled. Remaining unsampled: 002, 003, 013, 014, 016-026, 035.
+
+## 2026-10-25 15:14Z — QC third pass (qc-storyteller-pplx-1025x)
+
+- Two final samples: s1b-002 (MN 19 inclination quote, VERBATIM) and s1b-003 (Gutenberg James-on-Bergson quote VERBATIM; Bergson Introduction-to-Metaphysics carrier at dl1.cuni.cz now serves a university LOGIN page — the p. 47 'intuition places itself in mobility' quote rests on the 2026-10-21 ledger access, which carries a date but no access-event description; re-source or accept).
+- Running totals for s1b this session: 19 ready drafts QC-sampled (001, 002, 003, 004, 005, 006, 007, 011, 012, 013, 015, 027, 028, 029, 030, 031, 032, 034, 038, plus 033 repaired and 036 disposition-recommended). All quotes verbatim except the flagged carriers noted below.
+- Supervisor flags from the s1b passes: 012 hyphenation ('pre-occupation' vs source 'preoccupation'); 015 dead carrier (armour docx HTTP 410); 027 wisdomlib footnote/verse-break structure (wording verbatim); 029 Heart Sutra carrier (oaks.nvg.org) now failing; 033 repaired, registration eligibility is supervisor's; 036 recommend option (a); 037 ctext Cloudflare-walled, unverified this pass; 003 Bergson carrier login-walled.
+- Baton released after this save; lane left in ready state.
