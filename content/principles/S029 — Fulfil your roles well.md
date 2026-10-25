@@ -16,7 +16,7 @@ Epictetus devotes Discourses II.10 to exactly this question, "How we may discove
 
 > "…if you are a senator of any state, remember that you are a senator: if a youth, that you are a youth: if an old man, that you are an old man; for each of such names, if it comes to be examined, marks out the proper duties." (Epictetus, Discourses II.10, Long)
 
-Marcus uses the same image from the body: "As long as the foot doth that which belongeth unto it to do, and the hand that which belongs to it, their labour, whatsoever it be, is not unnatural" (Med. VI.31, Casaubon). The failure mode has a name for Epictetus: "But if you go and blame your brother, I say to you, You have forgotten who you are and what is your name" (Disc. II.10). The instruction follows: ask what this role requires of me, right now, then do it.
+Marcus uses the same image from the body: "As long as the foot doth that which belongeth unto it to do, and the hand that which belongs unto it, their labour, whatsoever it be, is not unnatural" (Med. VI.31, Casaubon). The failure mode has a name for Epictetus: "But if you go and blame your brother, I say to you, You have forgotten who you are and what is your name" (Disc. II.10). The instruction follows: ask what this role requires of me, right now, then do it.
 
 (Disc. II.10, III.7, III.23; Med. VI.30; Seneca, Letters 44, 71, 95.)
 

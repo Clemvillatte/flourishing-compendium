@@ -195,3 +195,6 @@ Compared with the Elwes text in [Gutenberg 3800](https://www.gutenberg.org/cache
 
 ## SP015 — Ethics III, P27 quote
 The quote (labelled Elwes, Gutenberg 3800) mixed in wording from another translation ("hitherto regarded with no emotion", "affectu simili"). Replaced with the Elwes text in [Gutenberg 3800](https://www.gutenberg.org/cache/epub/3800/pg3800.txt): "which we have not regarded with any emotion ... (affectus)". Ran a prefix-divergence check on all pages citing Gutenberg 3800; this was the only other mismatch beyond SP082.
+
+## S029 — Marcus Aurelius VI.31 (Casaubon)
+Matched against [Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680/pg2680.txt): Casaubon reads "the hand that which belongs unto it"; the page had "belongs to it". Corrected. A divergence check across every page citing a single Gutenberg text found only formatting differences (verse line breaks, paragraph numbers, capitals) elsewhere, plus SP015, SP082 and this one.
