@@ -1,281 +1,296 @@
 {
-  "lane": "s1f",
-  "items": {
-    "s1f-001": {
-      "status": "ready",
-      "angle": "P193: Gogol's Overcoat - the cloak months as the stretch of the copy clerk's life densest with chosen acts; the narrator marks him livelier; honest limits kept (the copying was loved; after the theft he acts with energy); fiction labelled as fiction",
-      "history": [
-        {
-          "t": "2026-10-21T12:36:46+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-21T12:36:46+00:00",
-          "to": "qc_pending",
-          "note": "draft complete; story_check ok; first-item advisor QC due"
-        },
-        {
-          "t": "2026-10-21T12:51:57+00:00",
-          "to": "qc_pending",
-          "note": "round-2 advisor repairs applied: sentence-final period restored, the two official visits separated, acquisition bridge restored, narrator quote shortened to exact fragment, opening rephrased around livelier, Britannica article opened for the 1842 date, duplicate Principles labels removed, state angle and HANDOFF synced; all body quotes re-verified against the raw file; story_check ok"
-        },
-        {
-          "t": "2026-10-21T12:54:55+00:00",
-          "to": "ready",
-          "note": "round-3 advisor verdict: substantive narrative and P193 mapping pass; release-gate repairs applied (year removed for nineteenth-century provenance, dangling construction fixed, rule check run and recorded); all body quotes verbatim vs the raw file; frozen ready for supervisor integration"
-        }
-      ]
+ "lane": "s1f",
+ "items": {
+  "s1f-001": {
+   "status": "ready",
+   "angle": "P193: Gogol's Overcoat - the cloak months as the stretch of the copy clerk's life densest with chosen acts; the narrator marks him livelier; honest limits kept (the copying was loved; after the theft he acts with energy); fiction labelled as fiction",
+   "history": [
+    {
+     "t": "2026-10-21T12:36:46+00:00",
+     "to": "researching"
     },
-    "s1f-002": {
-      "status": "ready",
-      "angle": "P187: Einstein's 1929 telegram reply - religious feeling without an anthropomorphic God; the reply rejects a God concerned with human fate, the later essay names cosmic religious feeling, Goldstein reads it differently, the silence establishes no further rejection",
-      "history": [
-        {
-          "t": "2026-10-21T12:55:15+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-21T12:58:48+00:00",
-          "to": "qc_pending",
-          "note": "round-1 advisor repairs applied: institutional-formula claim removed, comparison narrowed, April date removed, reply identified as Holton's English rendering, citations per sentence, lint spacing findings fixed; story_check ok"
-        },
-        {
-          "t": "2026-10-21T13:04:10+00:00",
-          "to": "qc_pending",
-          "note": "round-2 advisor repairs applied: HANDOFF synced, cross-source connection kept interpretive (In his 1930 essay...), final opening sentence cited, lint outcome recorded accurately with named exceptions, terminal punctuation restored; story_check ok"
-        },
-        {
-          "t": "2026-10-21T13:06:12+00:00",
-          "to": "ready",
-          "note": "round-3 advisor verdict: scoped PASS; frozen ready for supervisor integration"
-        }
-      ]
+    {
+     "t": "2026-10-21T12:36:46+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok; first-item advisor QC due"
     },
-    "s1f-003": {
-      "status": "ready",
-      "angle": "B037 kalyanamitta: find a story that carries the companions-as-practice angle, not the chariot/self angle",
-      "history": [
-        {
-          "t": "2026-10-23T06:04:20+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-23T06:05:09+00:00",
-          "to": "drafting",
-          "note": ""
-        },
-        {
-          "t": "2026-10-23T06:06:11+00:00",
-          "to": "qc_pending",
-          "note": "first advisor QC"
-        },
-        {
-          "t": "2026-10-23T06:09:32+00:00",
-          "to": "qc_pending",
-          "note": "advisor round 1 repairs applied; awaiting round 2"
-        },
-        {
-          "t": "2026-10-23T06:11:09+00:00",
-          "to": "qc_pending",
-          "note": "advisor round 2 repairs applied; awaiting round 3"
-        },
-        {
-          "t": "2026-10-23T06:13:05+00:00",
-          "to": "ready",
-          "note": ""
-        }
-      ]
+    {
+     "t": "2026-10-21T12:51:57+00:00",
+     "to": "qc_pending",
+     "note": "round-2 advisor repairs applied: sentence-final period restored, the two official visits separated, acquisition bridge restored, narrator quote shortened to exact fragment, opening rephrased around livelier, Britannica article opened for the 1842 date, duplicate Principles labels removed, state angle and HANDOFF synced; all body quotes re-verified against the raw file; story_check ok"
     },
-    "s1f-004": {
-      "status": "ready",
-      "angle": "B011 sati: Bhante G Mindfulness in Plain English — a monk who made the satipatthana instructions workable for ordinary people; carries the master-tool claim as a life's work of translation, not as a sutta quote",
-      "history": [
-        {
-          "t": "2026-10-23T06:15:13+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-23T06:15:14+00:00",
-          "to": "drafting",
-          "note": ""
-        },
-        {
-          "t": "2026-10-23T06:15:37+00:00",
-          "to": "qc_pending",
-          "note": "first advisor QC"
-        },
-        {
-          "t": "2026-10-23T06:19:02+00:00",
-          "to": "ready",
-          "note": ""
-        }
-      ]
-    },
-    "s1f-005": {
-      "status": "ready",
-      "angle": "B190 breath: the bell of mindfulness in Plum Village — any sound as the bell, telephone rings, breathing in and out; carries breath as always available through the bell practice",
-      "history": [
-        {
-          "t": "2026-10-23T06:19:25+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-23T06:19:26+00:00",
-          "to": "drafting",
-          "note": ""
-        },
-        {
-          "t": "2026-10-23T06:20:06+00:00",
-          "to": "qc_pending",
-          "note": "first advisor QC"
-        },
-        {
-          "t": "2026-10-23T06:22:17+00:00",
-          "to": "qc_pending",
-          "note": "advisor round 1 repairs applied; awaiting round 2"
-        },
-        {
-          "t": "2026-10-23T06:23:39+00:00",
-          "to": "ready",
-          "note": ""
-        }
-      ]
-    },
-    "s1f-006": {
-      "status": "ready",
-      "angle": "B039 satipatthana: Anathapindika's deathbed instruction (MN 143) — Sariputta's non-clinging instruction through the whole range of experience; a deathbed case, not a formula",
-      "history": [
-        {
-          "t": "2026-10-23T06:24:10+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-23T06:24:11+00:00",
-          "to": "drafting",
-          "note": ""
-        },
-        {
-          "t": "2026-10-23T06:24:25+00:00",
-          "to": "qc_pending",
-          "note": "first advisor QC"
-        },
-        {
-          "t": "2026-10-23T06:26:34+00:00",
-          "to": "qc_pending",
-          "note": "advisor round 1 repairs applied; retargeted to B073; awaiting round 2"
-        },
-        {
-          "t": "2026-10-23T06:28:02+00:00",
-          "to": "qc_pending",
-          "note": "advisor round 2 repairs applied; awaiting round 3"
-        },
-        {
-          "t": "2026-10-23T06:28:59+00:00",
-          "to": "ready",
-          "note": ""
-        }
-      ]
-    },
-    "s1f-007": {
-      "status": "ready",
-      "angle": "P134 solitude and community: find a narrative object with a primary source that carries both phases of growth — a person or fictional account where solitary practice and community practice are both scheduled",
-      "history": [
-        {
-          "t": "2026-10-23T06:29:35+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-23T06:29:54+00:00",
-          "to": "drafting",
-          "note": ""
-        },
-        {
-          "t": "2026-10-23T06:30:09+00:00",
-          "to": "qc_pending",
-          "note": "first advisor QC"
-        },
-        {
-          "t": "2026-10-23T06:31:45+00:00",
-          "to": "ready",
-          "note": ""
-        }
-      ]
-    },
-    "s1f-008": {
-      "status": "ready",
-      "angle": "B039 satipatthana: need a genuine four-foundations narrative object; search for a modern practitioner account that names all four domains",
-      "history": [
-        {
-          "t": "2026-10-23T06:31:54+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-23T06:31:54+00:00",
-          "to": "researching",
-          "note": ""
-        },
-        {
-          "t": "2026-10-23T06:32:20+00:00",
-          "to": "drafting",
-          "note": ""
-        },
-        {
-          "t": "2026-10-23T06:32:36+00:00",
-          "to": "qc_pending",
-          "note": "first advisor QC"
-        },
-        {
-          "t": "2026-10-23T06:34:11+00:00",
-          "to": "ready",
-          "note": ""
-        }
-      ]
-    },
-    "s1f-009": {
-      "status": "ready",
-      "angle": "B162 second angle: Nickel Mines Amish forgiveness 2006 — a real-world case where the community did not return hatred; need a primary source (Amish own words or a direct documented account)",
-      "history": [
-        {
-          "t": "2026-10-23T06:34:26+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-23T06:35:11+00:00",
-          "to": "drafting",
-          "note": ""
-        },
-        {
-          "t": "2026-10-23T06:35:29+00:00",
-          "to": "qc_pending",
-          "note": "first advisor QC"
-        },
-        {
-          "t": "2026-10-23T06:37:21+00:00",
-          "to": "ready",
-          "note": ""
-        }
-      ]
-    },
-    "s1f-010": {
-      "status": "ready",
-      "angle": "rung 4: upgrade an existing published story with a verbatim quote from a source I actually opened",
-      "history": [
-        {
-          "t": "2026-10-23T06:38:23+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-23T06:39:21+00:00",
-          "to": "qc_pending",
-          "note": "rung 4: ST004 upgrade drafted as a lane item; verbatim Legge quote from tianmu.org (Legge 1891 Texts of Taoism) added; the change to the published page itself is flagged for the supervisor"
-        },
-        {
-          "t": "2026-10-23T06:39:31+00:00",
-          "to": "ready",
-          "note": ""
-        }
-      ]
+    {
+     "t": "2026-10-21T12:54:55+00:00",
+     "to": "ready",
+     "note": "round-3 advisor verdict: substantive narrative and P193 mapping pass; release-gate repairs applied (year removed for nineteenth-century provenance, dangling construction fixed, rule check run and recorded); all body quotes verbatim vs the raw file; frozen ready for supervisor integration"
     }
+   ]
   },
-  "updated": "2026-10-23T06:40:05+00:00"
+  "s1f-002": {
+   "status": "ready",
+   "angle": "P187: Einstein's 1929 telegram reply - religious feeling without an anthropomorphic God; the reply rejects a God concerned with human fate, the later essay names cosmic religious feeling, Goldstein reads it differently, the silence establishes no further rejection",
+   "history": [
+    {
+     "t": "2026-10-21T12:55:15+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:58:48+00:00",
+     "to": "qc_pending",
+     "note": "round-1 advisor repairs applied: institutional-formula claim removed, comparison narrowed, April date removed, reply identified as Holton's English rendering, citations per sentence, lint spacing findings fixed; story_check ok"
+    },
+    {
+     "t": "2026-10-21T13:04:10+00:00",
+     "to": "qc_pending",
+     "note": "round-2 advisor repairs applied: HANDOFF synced, cross-source connection kept interpretive (In his 1930 essay...), final opening sentence cited, lint outcome recorded accurately with named exceptions, terminal punctuation restored; story_check ok"
+    },
+    {
+     "t": "2026-10-21T13:06:12+00:00",
+     "to": "ready",
+     "note": "round-3 advisor verdict: scoped PASS; frozen ready for supervisor integration"
+    },
+    {
+     "t": "2026-10-25T15:05:34+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x verified 15:12Z (see qc-verification-runs-new)"
+    }
+   ]
+  },
+  "s1f-003": {
+   "status": "ready",
+   "angle": "B037 kalyanamitta: find a story that carries the companions-as-practice angle, not the chariot/self angle",
+   "history": [
+    {
+     "t": "2026-10-23T06:04:20+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-23T06:05:09+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-23T06:06:11+00:00",
+     "to": "qc_pending",
+     "note": "first advisor QC"
+    },
+    {
+     "t": "2026-10-23T06:09:32+00:00",
+     "to": "qc_pending",
+     "note": "advisor round 1 repairs applied; awaiting round 2"
+    },
+    {
+     "t": "2026-10-23T06:11:09+00:00",
+     "to": "qc_pending",
+     "note": "advisor round 2 repairs applied; awaiting round 3"
+    },
+    {
+     "t": "2026-10-23T06:13:05+00:00",
+     "to": "ready",
+     "note": ""
+    }
+   ]
+  },
+  "s1f-004": {
+   "status": "ready",
+   "angle": "B011 sati: Bhante G Mindfulness in Plain English — a monk who made the satipatthana instructions workable for ordinary people; carries the master-tool claim as a life's work of translation, not as a sutta quote",
+   "history": [
+    {
+     "t": "2026-10-23T06:15:13+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-23T06:15:14+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-23T06:15:37+00:00",
+     "to": "qc_pending",
+     "note": "first advisor QC"
+    },
+    {
+     "t": "2026-10-23T06:19:02+00:00",
+     "to": "ready",
+     "note": ""
+    }
+   ]
+  },
+  "s1f-005": {
+   "status": "ready",
+   "angle": "B190 breath: the bell of mindfulness in Plum Village — any sound as the bell, telephone rings, breathing in and out; carries breath as always available through the bell practice",
+   "history": [
+    {
+     "t": "2026-10-23T06:19:25+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-23T06:19:26+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-23T06:20:06+00:00",
+     "to": "qc_pending",
+     "note": "first advisor QC"
+    },
+    {
+     "t": "2026-10-23T06:22:17+00:00",
+     "to": "qc_pending",
+     "note": "advisor round 1 repairs applied; awaiting round 2"
+    },
+    {
+     "t": "2026-10-23T06:23:39+00:00",
+     "to": "ready",
+     "note": ""
+    },
+    {
+     "t": "2026-10-25T15:05:34+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x verified 15:12Z (see qc-verification-runs-new)"
+    }
+   ]
+  },
+  "s1f-006": {
+   "status": "ready",
+   "angle": "B039 satipatthana: Anathapindika's deathbed instruction (MN 143) — Sariputta's non-clinging instruction through the whole range of experience; a deathbed case, not a formula",
+   "history": [
+    {
+     "t": "2026-10-23T06:24:10+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-23T06:24:11+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-23T06:24:25+00:00",
+     "to": "qc_pending",
+     "note": "first advisor QC"
+    },
+    {
+     "t": "2026-10-23T06:26:34+00:00",
+     "to": "qc_pending",
+     "note": "advisor round 1 repairs applied; retargeted to B073; awaiting round 2"
+    },
+    {
+     "t": "2026-10-23T06:28:02+00:00",
+     "to": "qc_pending",
+     "note": "advisor round 2 repairs applied; awaiting round 3"
+    },
+    {
+     "t": "2026-10-23T06:28:59+00:00",
+     "to": "ready",
+     "note": ""
+    }
+   ]
+  },
+  "s1f-007": {
+   "status": "ready",
+   "angle": "P134 solitude and community: find a narrative object with a primary source that carries both phases of growth — a person or fictional account where solitary practice and community practice are both scheduled",
+   "history": [
+    {
+     "t": "2026-10-23T06:29:35+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-23T06:29:54+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-23T06:30:09+00:00",
+     "to": "qc_pending",
+     "note": "first advisor QC"
+    },
+    {
+     "t": "2026-10-23T06:31:45+00:00",
+     "to": "ready",
+     "note": ""
+    }
+   ]
+  },
+  "s1f-008": {
+   "status": "ready",
+   "angle": "B039 satipatthana: need a genuine four-foundations narrative object; search for a modern practitioner account that names all four domains",
+   "history": [
+    {
+     "t": "2026-10-23T06:31:54+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-23T06:31:54+00:00",
+     "to": "researching",
+     "note": ""
+    },
+    {
+     "t": "2026-10-23T06:32:20+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-23T06:32:36+00:00",
+     "to": "qc_pending",
+     "note": "first advisor QC"
+    },
+    {
+     "t": "2026-10-23T06:34:11+00:00",
+     "to": "ready",
+     "note": ""
+    }
+   ]
+  },
+  "s1f-009": {
+   "status": "ready",
+   "angle": "B162 second angle: Nickel Mines Amish forgiveness 2006 — a real-world case where the community did not return hatred; need a primary source (Amish own words or a direct documented account)",
+   "history": [
+    {
+     "t": "2026-10-23T06:34:26+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-23T06:35:11+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-23T06:35:29+00:00",
+     "to": "qc_pending",
+     "note": "first advisor QC"
+    },
+    {
+     "t": "2026-10-23T06:37:21+00:00",
+     "to": "ready",
+     "note": ""
+    },
+    {
+     "t": "2026-10-25T15:05:34+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x verified 15:12Z (see qc-verification-runs-new)"
+    }
+   ]
+  },
+  "s1f-010": {
+   "status": "ready",
+   "angle": "rung 4: upgrade an existing published story with a verbatim quote from a source I actually opened",
+   "history": [
+    {
+     "t": "2026-10-23T06:38:23+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-23T06:39:21+00:00",
+     "to": "qc_pending",
+     "note": "rung 4: ST004 upgrade drafted as a lane item; verbatim Legge quote from tianmu.org (Legge 1891 Texts of Taoism) added; the change to the published page itself is flagged for the supervisor"
+    },
+    {
+     "t": "2026-10-23T06:39:31+00:00",
+     "to": "ready",
+     "note": ""
+    }
+   ]
+  }
+ },
+ "updated": "2026-10-25T15:05:34+00:00"
 }
