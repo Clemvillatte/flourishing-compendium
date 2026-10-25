@@ -1375,3 +1375,19 @@ The advisor's final verification caught overstated records in this session's QC 
 - Suffering supervisor-exception note: the flip stands published
   with the 1-disagreement exception flagged to the owner (dos30
   lane's advisor re-review record).
+
+# Supervisor QC entry 6 — 2026-10-25 ~03:59Z (supervisor-pplx-brownmermaid-1025a)
+
+- GRATITUDE standing exception surfaced: the published page has NO
+  "Where the traditions genuinely disagree" section (its
+  "Related questions" section explicitly frames the attention-vs-
+  bond pair as accounts that "do not exclude each other"), and the
+  ledger documents the state honestly ("no verified disagreement is
+  recorded on this theme"). The page was flipped by a previous
+  supervisor with the gap outstanding. Added to the standing
+  owner-visible exceptions alongside suffering (1 substantiated
+  question) and the creation bar (1 of 3-5, two more needed). The
+  dos23 band is LIVE; no file touched by this supervisor — the flag
+  is for the owner and the band's next pass.
+- dos10's post-publication verification (motivation, no edits
+  needed) and dos3's QC pass noted at commit level; no interference.
