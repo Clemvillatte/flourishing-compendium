@@ -132,3 +132,4 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 2026-10-25 11:16 UTC — worker-pplx-9ff61dc0: released p1zx (4 Tier-2 repairs)
 2026-10-25 11:16 UTC — worker-pplx-9ff61dc0: took p1ze baton for Tier-2 plain-words repairs
 - 2026-10-25 11:35Z worker-p1a-1025o (dossiers baton): rebase-race markers resolved in batches/p1zr.json + p1zw.json (cross-band state files, bands released; both sides kept, json valid) — flagged for supervisor reconciliation; ledger timestamps corrected in 8 dossiers; gratitude quote flags all closed; live-deploy verified.
+2026-10-25 11:28 UTC — worker-pplx-9ff61dc0: released p1d (R116 Tier-2 repair complete)
