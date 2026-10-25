@@ -13,10 +13,11 @@ evidence on file.
 ## Block D status
 
 25 unique attachments (10 source IDs on mod-mind-1 and mod-mind-2 map to
-these recordings). Verified below: M06-AF09, M06-CO04, M06-AF01, M06-AF03, M06-AT01.
+these recordings). Verified below: M06-AF09, M06-CO04, M06-AF01, M06-AF03, M06-AT01,
+M06-AF06.
 Already verified in the manifest: SRC-M28-001 through SRC-M28-007;
 M06-AT06 is the same recording as SRC-M28-002. Queued for the next
-session: M06-AF04, M06-AF05, M06-AF06, M06-CO05, M06-CO02, M06-AT02,
+session: M06-AF04, M06-AF05, M06-CO05, M06-CO02, M06-AT02,
 SRC-M07-001, SRC-M07-004, SRC-M07-005, SRC-M07-007, SRC-M07-008,
 SRC-M07-019.
 
@@ -158,6 +159,34 @@ SRC-M07-019.
   training forms (1:00:15) and mindfulness of breath practice (1:15:08).
 - Relevant segments: vulnerability of attention 15:46 to 30:37; training
   the mind 46:38 to 1:00:15.
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  chapter list, and the transcript panel was not read this session.
+
+### M06-AF06: What Fearful Rats Can Tell Us about Treating Psychiatric Disorders (Joseph LeDoux)
+
+- Legacy attachment: mod-mind-1 required media.
+- Identity: oembed and the watch page confirm the video on the
+  PsychiatryLectures channel, title "LeDoux: What fearful rats can tell us
+  about treating psychiatric disorders" (https://www.youtube.com/watch?v=9_IIgXWdF-w,
+  checked 2026-10-25). Freely playable, no paywall.
+- Duration: 51:41 printed in the player (2026-10-25).
+- Instructor credentials: Prof. Joseph LeDoux of New York University, per
+  the recording's own description (opened 2026-10-25). His detailed NYU
+  titles (Henry and Lucy Moses Professor of Science, University Professor,
+  now Professor Emeritus of Neural Science) were seen only in search
+  results this session; the NYU faculty page was robots-blocked and was
+  not opened.
+- Language: English. The watch page offers a transcript panel.
+- Event: Stockholm Psychiatry Lecture, Karolinska Institutet, 2 February
+  2011, published 9 February 2011.
+- Content coverage (from the recording's own chapter list, read
+  2026-10-25): Pavlovian fear conditioning (0:00), amygdala and fear
+  circuitry (3:58), extinction and therapy (7:23), memory reconsolidation
+  (13:36), combining extinction (25:32), extinction without fear (29:42),
+  active versus passive coping (32:50), individual differences (42:21).
+- Relevant segments: extinction and therapy 7:23 to 13:36; reconsolidation
+  13:36 to 25:32.
 - Verification status: verified-video for identity, access and duration
   (2026-10-25); content coverage is classified from the recording's own
   chapter list, and the transcript panel was not read this session.
