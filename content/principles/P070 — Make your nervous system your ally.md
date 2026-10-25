@@ -12,15 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 70** — Make your nervous system your ally
 
-James's habit chapter closes with a maxim that has been quoted for a century because it is unusually concrete: "Keep the faculty of effort alive in you by a little gratuitous exercise every day" ([James 1890, ch. IV, Gutenberg](https://www.gutenberg.org/files/55262/55262-h/55262-h.htm)). The word to notice is gratuitous. Not useful, not necessary, not efficient. The exercise does nothing for the task at hand; it keeps a capacity alive that would otherwise atrophy.
+James ends his chapter on habit with a practical maxim. His reason for it is physiological. He writes that "if we often flinch from making an effort, before we know it the effort-making capacity will be gone", and that attention and effort "seem in some degree subject to the law of habit, which is a material law" ([James, *The Principles of Psychology*, ch. IV "Habit", psychclassics](https://psychclassics.yorku.ca/James/Principles/prin4.htm)). If effort is partly a brain habit, it can be kept in shape or allowed to lapse.
 
-James's argument runs through physiology, not moralism. If we often flinch from making an effort, the effort-making capacity will be gone before we know it; attention and effort are subject to the law of habit, which is a material law ([James 1890, ch. IV, Gutenberg](https://www.gutenberg.org/files/55262/55262-h/55262-h.htm)). The capacity is like a muscle that shrinks when unused, or like insurance that pays nothing on the day you buy it.
+> "Keep the faculty of effort alive in you by a little gratuitous exercise every day. That is, be systematically ascetic or heroic in little unnecessary points, do every day or two something for no other reason than that you would rather not do it, so that when the hour of dire need draws nigh, it may find you not unnerved and untrained to stand the test." (William James, *The Principles of Psychology*, 1890, ch. IV, [Classics in the History of Psychology](https://psychclassics.yorku.ca/James/Principles/prin4.htm))
 
-> "Keep the faculty of effort alive in you by a little gratuitous exercise every day. That is, be systematically ascetic or heroic in little unnecessary points, do every day or two something for no other reason than that you would rather not do it, so that when the hour of dire need draws nigh, it may find you not unnerved and untrained to stand the test." (William James, The Principles of Psychology, 1890, ch. IV, [Gutenberg](https://www.gutenberg.org/files/55262/55262-h/55262-h.htm))
+James then offers an image: "Asceticism of this sort is like the insurance which a man pays on his house and goods. The tax does him no good at the time, and possibly may never bring him a return. But if the fire does come, his having paid it will be his salvation from ruin" (same chapter).
 
-**Plain words** There is a version of you that gives up easily and a version that does not, and the difference is not character. It is training. The small unnecessary discomfort — the cold, the stairs, the message you do not want to send — is not about the discomfort itself. It is a deposit into a capacity that has no other way of being maintained. Skip it for a year and the day you actually need it, it will not be there. The practice does nothing today; it is the reason you are still capable of something on the day that counts.
+**Plain words** Willpower, on James's account, is something you can keep fit or let go slack. The small hard things you choose to do, with no other reason than that you would rather not, are the practice that keeps it fit. They are a premium paid in advance for a day you cannot predict.
 
-*For example:* Two colleagues both face the same hard conversation. One has spent years avoiding small discomforts — the escalator, the hard message, the extra two degrees of cold. The other has a small standing practice of doing one unnecessary hard thing a week. The conversation is equally hard for both. One of them has a nervous system that has been in training for it.
+*For example (my illustration, not James's):* Take the stairs when the lift is free, or send the awkward email first thing on a day you would rather leave it. Neither matters in itself. Each is a small repetition of choosing the harder option.
+
+## Sources
+
+- [William James, *The Principles of Psychology* (1890), ch. IV "Habit", Classics in the History of Psychology](https://psychclassics.yorku.ca/James/Principles/prin4.htm): all three quotations, including the insurance passage. The page previously linked a Gutenberg edition of the 1892 Briefer Course, where the same text appears in a different chapter.
 
 ## Psychology parallels
 

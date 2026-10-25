@@ -66,3 +66,6 @@
 
 ## D097 Don't fear what you can't act on
 - Carrier opened: Wiktionary 杞人憂天 (Liezi 1, English adapted from A. C. Graham). Old page quote ('There was a man in Qi who worried... He couldn't eat or sleep.') did not match the carrier text; replaced with verbatim passage, all fragments checked programmatically. Invented 'friend' framing and 'groundless fear' gloss removed. Flag: Wiktionary text is adapted from Graham, not Graham verbatim; supervisor may want a print Graham/Lieh-tzu check.
+
+## P070 Make your nervous system your ally
+- Carrier opened: James Principles ch. IV 'Habit' (psychclassics). Gratuitous-exercise maxim, effort/habit sentences, and James's own insurance passage verified verbatim. Old page linked Gutenberg 55262 (Briefer Course) under a Principles ch. IV label and invented a two-colleagues example; replaced with labelled illustration.

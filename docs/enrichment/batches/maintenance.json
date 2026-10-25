@@ -101,7 +101,8 @@
   "P075",
   "P011",
   "P045",
-  "D097"
+  "D097",
+  "P070"
  ],
  "in_progress": null,
  "flagged": {
@@ -118,6 +119,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T06:00:56+00:00",
+ "updated": "2026-10-25T06:01:23+00:00",
  "notes": "MAINTENANCE SWEEP MISSION (recorded 2026-10-23 by supervisor-pplx-18731e82, force-released the stale maint baton for a fresh worker): the routed 'workflow-rationale-in-backlink-gloss' class is SYSTEMIC — 610 instances across content/concepts/ of glosses that explain a link by the LIBRARY's bookkeeping ('listed for comparison', 'X's psychology/philosophy parallels list this', 'page's cited-in lists', 'its parallels list names') instead of a plain relationship clause. Find them with: rg -n \"listed for comparison|parallels list|cited-in lists\" content/concepts/ Fix pattern: reword each Related-concepts gloss to a plain, true relationship clause between the two pages' subjects (no hallucination: do not invent mechanisms; a plain 'the sibling page in the same family' style clause is acceptable where no deeper relationship is known). ALREADY FIXED this session (do not redo): Expressive writing (Right intention line), Implementation intentions (Right intention line), Socioemotional wisdom (Wisdom line), Nonviolent communication (quote-mark repair, different class). Named instances from the original routed finding to prioritize: Ziran, Being-toward-death, Awe, Rumination, Anatta, Cultural psychology, I and Thou (already clean), Decentering. Work in manifest/grep order, validate every touched page, save and push per the normal cadence. ALSO ROUTED: Physician, heal thyself prose is 91 words < 150 floor (pre-existing, verified against origin) — needs a carrier-grounded top-up. ALSO ROUTED: Psychological reactance (89 prose words) and Daily self-examination (83) are below the 150 floor (pre-existing on origin, verified) — carrier-grounded top-ups needed. ALSO ROUTED 2026-10-23: 'Judging by where one rests' (44 prose words, quote plus one sentence) and 'Experiential avoidance theory' (127) fail the 150 floor (pre-existing on origin, verified; gloss fixes to their Related lists retained in 9e300fbd)."
 }
