@@ -351,3 +351,18 @@ Card-title em dashes (K156 — Morning intention etc.) are the cards'
 own names and were left as they are; Thanissaro's "not automatically
 a part of sati, but..." stays inside its quotation. All three checkers
 exit 0.
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos19 baton)
+
+Reviewed all 4 candidates against the current file (fresh audit run).
+No scaffolds removed; all 4 flagged constructions carry the sources'
+own contrasts: line 5 (the resolve as a standing direction rather than
+a mood — the factor's framing; the "instead of" list is the sutta's
+threefold definition of right intention), 143 (the bodhisattva vow:
+liberation of all beings rather than one's own alone — the Mahayana
+distinction), 215 (the Variation's inherited-vs-chosen contrast), 221
+(values as directions rather than goals — the ACT tradition's own
+distinction). Editorial review only; no carriers or cards freshly
+opened this pass.
+
+Checks: dossier_check.py exit 0. Scope: candidate-line review.
