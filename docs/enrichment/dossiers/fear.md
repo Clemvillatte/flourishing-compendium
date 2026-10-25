@@ -33,7 +33,7 @@ The same review proposes a fear module with four characteristics: preferential a
 
 ### How fear is examined and classified
 
-[The examination of fear](https://clemvillatte.github.io/flourishing-compendium/#card=The%20examination%20of%20fear): Epicurus's method in the Letter to Menoeceus — take a fear, hold it up to reasoning, and watch it dissolve or shrink to its real size; his case is death, which is nothing to us, since when we are, death is not come, and when death is come, we are not.
+[The examination of fear](https://clemvillatte.github.io/flourishing-compendium/#card=The%20examination%20of%20fear): Epicurus's method in the Letter to Menoeceus — take a fear, hold it up to reasoning, and watch it dissolve or shrink to its real size; his case is death, which is nothing to us, “seeing that, when we are, death is not come, and, when death is come, we are not”.
 
 [The classification of fears](https://clemvillatte.github.io/flourishing-compendium/#card=The%20classification%20of%20fears): the card's editorial label for the Letter to Menoeceus — its two main fears, of the gods and of death, and its sorting of desires so the groundless ones can be dropped; the letter supplies no ranked taxonomy.
 

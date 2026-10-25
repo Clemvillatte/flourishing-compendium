@@ -224,3 +224,29 @@ glosses would be prudent.
 
 Checks: dossier_check.py exit 0. Scope: candidate-line review plus
 card-fidelity check of the flagged entries' cards.
+
+## Verification addendum after advisor QC (2026-10-25, worker-pplx-gfva-1025a, dos27 baton)
+
+The two rewritten entries were re-verified this session against the
+freshly opened carrier itself: Epicurus, Letter to Menoeceus, Robert
+Drew Hicks translation, https://classics.mit.edu/Epicurus/menoec.html
+(opened in full; the classification card cites the same translation).
+- Line 36: the entry's closing words now match the carrier verbatim
+  within quotation marks ("seeing that, when we are, death is not come,
+  and, when death is come, we are not" — the carrier's sentence reads
+  "Death, therefore, the most awful of evils, is nothing to us, seeing
+  that, when we are, death is not come, and, when death is come, we are
+  not"). An earlier note in this session's review section said the death
+  case was "quoted verbatim from the card's epicurus.net text"; that was
+  inaccurate at the time (the wording was a close paraphrase) and is
+  superseded by this addendum.
+- Line 38: the letter does address the fear of the gods and the fear of
+  death, and sorts desires into natural/groundless and
+  necessary/natural-only ("of desires some are natural, others are
+  groundless..."); "the letter supplies no ranked taxonomy" matches the
+  card's scope note. Entry confirmed as written.
+dossier_check.py exit 0. Disambiguation note for the supervisor: the
+examination-of-fear card cites epicurus.net for the same letter; the
+classification card cites the MIT Classics Hicks text; both are the
+same letter, and the entry now follows the Hicks wording actually
+verified here.
