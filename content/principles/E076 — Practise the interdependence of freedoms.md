@@ -35,3 +35,4 @@ Suppose you coordinate a volunteer project. You could invite disagreement over i
 
 - **[[The interdependence of freedoms|The interdependence of freedoms]]** (de Beauvoir, The Ethics of Ambiguity)
 - **[[Recognition|Recognition]]** (Hegel, Phenomenology of Spirit; Honneth, The Struggle for Recognition)
+- **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.

@@ -37,3 +37,4 @@ Her ethics rests on separating ambiguity from absurdity:
 ## Cited in philosophy parallels
 
 - [[E070 — Practise the ethics of ambiguity]]
+- **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.

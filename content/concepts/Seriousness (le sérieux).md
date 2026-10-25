@@ -28,3 +28,4 @@ The mechanism is a trade: security for freedom. "The serious man gets rid of his
 ## Cited in philosophy parallels
 
 - [[E071 — Practise avoiding the serious man]]
+- **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.

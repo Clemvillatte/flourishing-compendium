@@ -38,3 +38,4 @@ On her account the nihilist is close to the spirit of seriousness: unable to be 
 ## Cited in philosophy parallels
 
 - [[E072 — Practise avoiding the nihilist]]
+- **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.

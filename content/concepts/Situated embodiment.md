@@ -32,3 +32,4 @@ My [[E078 — Practise situated embodiment and gender]] reads the structure as a
 ## Cited in philosophy parallels
 
 - [[E078 — Practise situated embodiment and gender]]
+- **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.

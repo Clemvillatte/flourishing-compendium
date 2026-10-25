@@ -54,3 +54,4 @@ Merleau-Ponty offers a related account of consciousness and existence:
 - **[[The ethics of ambiguity|The ethics of ambiguity]]** (de Beauvoir, The Ethics of Ambiguity)
 - **[[Ambiguity|Ambiguity]]** (Merleau-Ponty, Phenomenology of Perception)
 - **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist who carried this into the twentieth century; his bad faith and radical freedom are the practical companion to this principle.
+- **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.

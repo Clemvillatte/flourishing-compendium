@@ -43,3 +43,4 @@ Ridgeway (2011), Connell (2002) and Butler (1990), named in this entry, are cite
 ## Practice
 
 - In gender relations, notice norms and their enforcement (see principle 32). In identity work, treat your gender identity as a legitimate form of self. In health, recognize gender differences in help-seeking and diagnosis.
+- **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.

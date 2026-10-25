@@ -54,3 +54,4 @@ The practice family this concept sits in treats the dodge as catchable in the mo
 - [[E033 — Practise avoiding bad faith (mauvaise foi)]]
 - [[E071 — Practise avoiding the serious man]]
 - 
+- **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.

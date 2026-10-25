@@ -39,3 +39,4 @@ The paper continues that commitment mediates the effects on persistence of the t
 
 - [Rusbult, C. E., Martz, J. M., & Agnew, C. R. (1998), "The Investment Model Scale: Measuring commitment level, satisfaction level, quality of alternatives, and investment size", Personal Relationships 5, 357-391 — PDF at Northwestern (Finkel lab)](https://faculty.wcas.northwestern.edu/eli-finkel/documents/60_RusbultMartzAgnew1998_PersonalRelationships.pdf) — the commitment definition, the dependence claim, the scale item and the behavioural-consequence passage
 - References carried forward: Rusbult et al. 2001; Hayes et al. 2006; Aristotle, Nicomachean Ethics VIII; Buber, I and Thou; Sartre; de Beauvoir
+- **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.

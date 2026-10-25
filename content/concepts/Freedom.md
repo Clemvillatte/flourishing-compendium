@@ -59,3 +59,4 @@ Freedom is the hub the family pages break into faces, and the principle tracks c
 - [Wikipedia, The Concept of Anxiety](https://en.wikipedia.org/wiki/The_Concept_of_Dread) — Kierkegaard's dizziness of freedom
 
 ## Cited in philosophy parallels
+- **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.

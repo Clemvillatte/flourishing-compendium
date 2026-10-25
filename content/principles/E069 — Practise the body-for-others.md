@@ -42,3 +42,4 @@ Merleau-Ponty says the encounter need not turn me into an object: "the positing 
 - **[[The body-for-others|The body-for-others]]** (Sartre, Being and Nothingness)
 - **The second sex** (de Beauvoir, The Second Sex)
 - **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist who carried this into the twentieth century; his bad faith and radical freedom are the practical companion to this principle.
+- **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.

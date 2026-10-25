@@ -37,3 +37,4 @@ For example: someone who says "that is just what a good employee does" about eve
 - **[[Seriousness (le sérieux)|Seriousness (le sérieux)]]** (de Beauvoir, The Ethics of Ambiguity)
 - **[[Bad faith|Bad faith]]** (Sartre, Being and Nothingness)
 - **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist who carried this into the twentieth century; his bad faith and radical freedom are the practical companion to this principle.
+- **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.

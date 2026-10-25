@@ -42,3 +42,4 @@ Two people lose the same job in the same town. For one, the job market is a wall
 - **The situation** (Sartre, Being and Nothingness; de Beauvoir, The Ethics of Ambiguity)
 - **[[Situated freedom|Situated freedom]]** (Merleau-Ponty, Phenomenology of Perception)
 - **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist who carried this into the twentieth century; his bad faith and radical freedom are the practical companion to this principle.
+- **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.

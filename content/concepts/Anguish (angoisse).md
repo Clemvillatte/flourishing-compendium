@@ -39,3 +39,4 @@ Sartre holds the experience as informative rather than pathological. The anguish
 ## Cited in philosophy parallels
 
 - [[E041 — Practise anguish (angoisse)]]
+- **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.

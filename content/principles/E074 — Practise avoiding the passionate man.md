@@ -37,3 +37,4 @@ A founder works through every weekend and cancels on friends again and again. Af
 
 - **[[The passionate man|The passionate man]]** (de Beauvoir, The Ethics of Ambiguity)
 - **[[Obsessive attachment|Obsessive attachment]]** (Plato, Symposium; Augustine, Confessions)
+- **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.

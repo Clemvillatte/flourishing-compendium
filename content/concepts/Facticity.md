@@ -34,3 +34,4 @@ Here the concept pairs with [[E022 — Practise thrownness (Geworfenheit)]] and 
 ## Cited in philosophy parallels
 
 - [[E022 — Practise thrownness (Geworfenheit)]]
+- **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.

@@ -34,3 +34,4 @@ My E070 principle practises this as a check on self-demands: the parent who insi
 ## Cited in philosophy parallels
 
 - [[E070 — Practise the ethics of ambiguity]]
+- **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.

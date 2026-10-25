@@ -40,3 +40,4 @@ For example: two people walking the same street at night may read it differently
 
 - **[[Situated embodiment|Situated embodiment]]** (de Beauvoir, The Second Sex)
 - **[[The lived body|The lived body and social position]]** (Merleau-Ponty, Phenomenology of Perception; Fanon, Black Skin, White Masks)
+- **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.

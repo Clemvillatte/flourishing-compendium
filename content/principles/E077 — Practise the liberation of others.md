@@ -41,3 +41,4 @@ In the Conclusion of The Second Sex the same idea becomes social. She does not w
 - **[[The liberation of others|The liberation of others]]** (de Beauvoir, The Ethics of Ambiguity)
 - **[[Solidarity|Solidarity]]** (Camus, The Rebel; Rorty, Contingency, Irony, and Solidarity)
 - **[[T059 — Camus, Albert|Camus]]** — the French existentialist whose absurd-revolt triptych is the companion to this idea.
+- **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.

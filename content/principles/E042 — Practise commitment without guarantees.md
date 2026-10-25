@@ -39,3 +39,4 @@ For example: someone weighing a job offer in another city lists every risk, then
 - **[[Commitment|Commitment without certainty]]** (Sartre, Existentialism Is a Humanism; de Beauvoir, The Ethics of Ambiguity)
 - **[[The leap of faith|The leap of faith]]** (Kierkegaard, Fear and Trembling)
 - **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist who carried this into the twentieth century; his bad faith and radical freedom are the practical companion to this principle.
+- **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.

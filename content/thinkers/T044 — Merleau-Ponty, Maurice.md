@@ -76,3 +76,4 @@ Gated per the t1e mint rule (own tradition plus what the page teaches); the scri
 
 ## Sources
 - [Stanford Encyclopedia of Philosophy, "Maurice Merleau-Ponty"](https://plato.stanford.edu/entries/merleau-ponty/) — the biography (ENS, agrégation, the 1945 theses, Les Temps Modernes and the Sartre rift, Collège de France, the death with Descartes' Optics open) and all verbatim quotations above (being-toward-the-world, "I can", inhabits space, intentional arc, the flesh and chiasm passages, Cézanne's Doubt).
+- **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.

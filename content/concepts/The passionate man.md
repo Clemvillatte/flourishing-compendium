@@ -28,3 +28,4 @@ The failure is not in the caring but in the possession: "The passionate man seek
 ## Cited in philosophy parallels
 
 - [[E074 — Practise avoiding the passionate man]]
+- **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.

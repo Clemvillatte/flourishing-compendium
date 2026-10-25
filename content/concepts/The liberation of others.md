@@ -39,3 +39,4 @@ Two points distinguish the page. First, the work is other-directed but not self-
 ## Cited in philosophy parallels
 
 - [[E077 — Practise the liberation of others]]
+- **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.
