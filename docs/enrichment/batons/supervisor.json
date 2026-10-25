@@ -1,7 +1,7 @@
 {
  "baton": "supervisor",
- "agent": "launcher-pplx-1025c",
- "clocked_in": "2026-10-25T11:45:52+00:00",
+ "agent": "gm-pplx-1025b",
+ "clocked_in": "2026-10-25T12:04:09+00:00",
  "takeovers": [
   {
    "by": "AgentA",
@@ -584,8 +584,12 @@
    "at": "2026-10-25T11:24:24+00:00",
    "from": "launcher-pplx-1025n",
    "reason": "released"
+  },
+  {
+   "by": "gm-pplx-1025b",
+   "at": "2026-10-25T12:04:09+00:00",
+   "from": "launcher-pplx-1025c",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-25T12:00:31+00:00"
+ ]
 }
