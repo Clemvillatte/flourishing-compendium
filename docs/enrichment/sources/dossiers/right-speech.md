@@ -201,3 +201,30 @@ Restored three missing sentence periods after source citations (the
 pre-existing ")) Capital" gaps flagged in commit 25e13407): right-effort
 SN 45.8 and AN 6.55 blockquotes, right-speech Bhagavad Gita 17.15
 blockquote. No quoted text, links, or content changed. Checker passes.
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos20 baton)
+
+Reviewed all 9 candidates against the current file (fresh audit run).
+One recast applied:
+
+- Line 5 (intro): removed the closing not-X-but-Y scaffold ("The
+  practice is not talking less; it is taking words off autopilot") —
+  the "not talking less" clause was redundant with the preceding
+  sentence ("Silence has its own place in the account"), which already
+  tells the reader the practice is not a vow of silence. Now closes
+  directly: "The practice is taking words off autopilot."
+
+Kept: line 42 (Interpersonal Deception Theory's own claim: deception as
+interaction rather than one-way act), 48 (evidence caveat:
+association rather than prediction), 78 (the Abhaya Sutta / Gita rule:
+true and useful rather than merely pleasing), 130 (Gilligan's actual
+claim — the "different voice" is her title; "not a lower stage but a
+different logic of care" states her argument against Kohlberg's
+scoring), 150 and 166 (Buber's Thou-rather-than-It distinction, the
+concept itself), 168 (Jaspers's selves-rather-than-cases), 178 (the
+Psalm 119.11 entry: the word hidden in the heart as formation, not
+merely spoken).
+
+Checks: dossier_check.py exit 0; the fresh audit count for this
+dossier fell from 9 to 8. Editorial review only; no carriers or cards
+freshly opened this pass.

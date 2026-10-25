@@ -2,7 +2,7 @@
 
 > What makes speech right, and when is silence the better part of it?
 
-Speech is where most harm is done and most can be prevented, at very little cost: the traditions converge on testing words for truth, benefit and timing before releasing them. Silence has its own place in the account, and so do the lie that buys ease and the advice that burdens its hearer. The practice is not talking less; it is taking words off autopilot.
+Speech is where most harm is done and most can be prevented, at very little cost: the traditions converge on testing words for truth, benefit and timing before releasing them. Silence has its own place in the account, and so do the lie that buys ease and the advice that burdens its hearer. The practice is taking words off autopilot.
 
 ### Nearby terms
 
