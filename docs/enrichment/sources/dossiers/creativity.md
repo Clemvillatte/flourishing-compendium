@@ -7,10 +7,10 @@ the reading list). Dossier:
 docs/enrichment/dossiers/creativity.md, CURRENT rev 3 (rev 1: 4dc84038d,
 first draft; rev 2: 536cfd694, advisor QC round 1 applied; rev 3: advisor
 QC rounds 2 and 3 applied).
-Checker at rev 3 final: exit 0 (30 card links resolve, 16 headers, 46
+Checker at rev 3 final: exit 0 (30 card links resolve, 16 headers, 47
 external carrier link occurrences; the Novelty research card link was removed
-with the unsupported constraint connection, and the story carriers and inline
-citations were added).
+with the unsupported constraint connection, and the story carriers, the
+Haught-Tromp carrier and inline citations were added).
 
 ## Verification method (per quote, no blanket claim)
 
@@ -387,7 +387,9 @@ not necessarily whole files. The relied-on passages are inside those ranges.
     stimulate creativity", and "written using only 50 words".
     Carrier: https://www.cct.umb.edu/630/files/HaughtTromp2017-GreenEggsandHam.pdf
     (original URL robots-blocked; retrieved via the Wayback Machine copy of
-    the same PDF, raw download + pdftotext, all spans substring-verified;
+    the same PDF:
+    https://web.archive.org/web/2024id_/https://www.cct.umb.edu/630/files/HaughtTromp2017-GreenEggsandHam.pdf,
+    raw download + pdftotext, all spans substring-verified;
     the two-line-rhyme scope limit is the card's own stated limit and is
     visible in the paper's method). VERBATIM.
 
