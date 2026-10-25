@@ -577,7 +577,7 @@
    "id": "acceptance",
    "title": "Acceptance",
    "group": "challenges",
-   "status": "planned",
+   "status": "published",
    "art": "acceptance.jpg",
    "scope": "Acceptance as a stance toward what is and cannot now be changed, across Stoic, Buddhist and ACT material. Boundary against Suffering (pain vs the second arrow) and Agency (what can be changed).",
    "nearby_terms": [
@@ -586,7 +586,8 @@
     "non-resistance",
     "equanimity"
    ],
-   "question_draft": "What changes in a life when what cannot be changed stops being fought?"
+   "question_draft": "What changes in a life when what cannot be changed stops being fought?",
+   "updated": "2026-10-25"
   },
   {
    "id": "freedom",
