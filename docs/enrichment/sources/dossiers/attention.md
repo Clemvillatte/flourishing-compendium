@@ -315,43 +315,64 @@ review only; no external carriers freshly opened this pass.
 ## GF-model rewrite (2026-10-25, worker-pplx-dos4-1025h, dos4 baton)
 
 Attention rewritten from the map format into the one-thread shape per
-DOSSIER-MODEL.md and the validated genuine-flourishing exemplar. What
-changed: the map sections and their entry lists were dissolved into
-question-led subsections under one body heading ("What attention asks of
-a life"), each paragraph carrying one thought with reasoning bridges; the
+DOSSIER-MODEL.md and the validated genuine-flourishing exemplar, in two
+passes with advisor QC between them. What changed in the first pass: the
+map sections and their entry lists were dissolved into question-led
+subsections under one body heading ("What attention asks of a life"),
+each paragraph carrying one thought with reasoning bridges; the
 introduction was rebuilt in the first person from the theme's own
-material; a third genuine disagreement was added (depletion vs
-strengthening: Kaplan's directed-attention fatigue and the vigilance
-decrement vs Oaten and Cheng's vigilance theory and the
-progressive-overload analogy, with the citation gap carried and the
-unresolved question stated); the practice and story sections were kept
-from the previous published version (kernel list, VSR structure, story
-loglines unchanged except one em-dash repair in kernel 4). What did not
-change: every card link (97 links, all 90 unique cards from the previous
-version retained, none added), every quotation, and every factual gloss,
-which stayed within the wording previously verified against the cards in
-the card-fidelity sweep above.
+material. What changed in the QC pass: the third disagreement
+(depletion vs strengthening) was removed as manufactured, because the
+fatigue findings concern a within-task state and the strengthening
+findings concern a cross-week capacity, and no opened source advances
+incompatible accounts of the same phenomenon (the two questions stay in
+the map sections, honestly separated); several bridges that overstated
+the inherited glosses were repaired or deleted (a universal claim about
+what attention admits into a life, "takes over the processing", "a
+capacity with parts", "the other face of the same relief", a causal
+gloss on process focus, a Weil ownership claim); Right concentration was
+moved out of the clinical paragraph into the first training family;
+regulatory focus and compassion-focused therapy were given separate
+homes; the story intro was replaced with one free of page narration; and
+the practice section was rebuilt in the model's two-sentence form with
+four thematic groups (train the return, protect the budget, restore and
+receive, prepare for absorption), with each kernel entry re-read against
+its card file before rewriting.
+
+What did not change: the card set (all 90 unique cards from the previous
+version retained, none added; 97 links) and the factual claims, which
+stayed within the wording previously verified against the cards in the
+card-fidelity sweep. Quotations: 14 of the previous 18 block quotations
+retained verbatim; four converted to linked paraphrase carried by their
+opened sources (Lavie's central prediction, James's essential-
+achievement sentence, the Lutz open-monitoring extract, Weil's prayer
+passage).
 
 Quote verification this session: dossier_quote_verify.py reported 14
-checked, 5 not found (James ch. 11 x2, Weil, Lavie x3, Killingsworth x2);
-all five carriers were then opened fresh and confirmed by eye. James
-ch. 11 (psychclassics HTML, opened via the fetch tool): both quotes
+checked, 5 not found, all five on carrier URLs that plain scripted
+fetches cannot read; each was then opened fresh and confirmed by eye:
+James ch. 11 (psychclassics HTML, via the fetch tool; both quotes
 verbatim, the carrier printing "mind - without" with a hyphen where the
-dossier prints an em dash (recorded previously in the ledger; the
-carrier's own typography differs). Lavie 2005 (WSU lab PDF, fetched with
-a browser user-agent after the plain fetch 403ed, as previously recorded;
-pdftotext): the debate sentence, the research-indication summary and the
-frontal-load contrast all verbatim, the carrier printing typographic
-quotes where the dossier has straight ones. Weil (Matheson Trust PDF,
-curl + pdftotext): the suspending-attention passage verbatim ("obj ect"
-in extraction is a pdftotext artifact). Killingsworth and Gilbert 2010
-(Greater Good PDF, curl + pdftotext): the 46.9% sentence and the closing
-unhappy-mind sentence verbatim. The remaining nine quotations were found
-and matched automatically by the script (James vol. 2 ch. XXVI, Langner
-and Eickhoff 2012, Lutz et al. 2008, Hasenkamp et al. 2012, Mooneyham
-and Schooler 2013 x2, Lavie prediction).
+dossier prints an em dash), Lavie 2005 (WSU lab PDF fetched with a
+browser user-agent after the plain fetch 403ed, as previously recorded;
+pdftotext; the debate sentence, the research-indication summary and the
+frontal-load contrast verbatim, typographic quotes in the carrier), Weil
+(Matheson Trust PDF, curl + pdftotext; the suspending-attention passage
+verbatim; "obj ect" in extraction is a pdftotext artifact), Killingsworth
+and Gilbert 2010 (Greater Good PDF, curl + pdftotext; the 46.9% sentence
+and the closing unhappy-mind sentence verbatim). The remaining nine
+quotations were found and matched automatically by the script (James
+vol. 2 ch. XXVI, Langner and Eickhoff 2012, Lutz et al. 2008, Hasenkamp
+et al. 2012, Mooneyham and Schooler 2013 x2). Scope honestly stated:
+the verification compares the quotation wording against the opened
+carrier text; the rewritten prose glosses were checked against the card
+files and the previous published version, not against the external
+carriers.
 
-Checks: dossier_check.py exit 0 (97 card links resolve, 22 headers, 14
-external carriers); dossier_density.py 0 dense paragraphs (was 7 on first
-draft; four catalogues split with reasoning bridges); card set diff
-against the previous version: 0 missing, 0 added.
+Checks: dossier_check.py exit 0; dossier_density.py 0 dense paragraphs
+(first draft had 7; catalogues split with reasoning bridges); card set
+diff against the previous version: 0 missing, 0 added. Band state stays
+in progress: remaining known work is a full cold-read of the rewritten
+body against the exemplar's voice, and the supervisor's registry rebuild
+(--rebuild=attention) to carry the new body into the compiled payload;
+registry.json and app.js were not touched (supervisor-only).
