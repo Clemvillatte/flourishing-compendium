@@ -4,7 +4,7 @@
 
 Motivation is the difference between a value held and a value acted on. The research asks what moves a person and what keeps the movement their own, and the self-determination tradition's answer has less to do with willpower than with whether the goals meet real needs. The classical worry is older and sharper, on the traditions' own accounts: motives that are borrowed, imposed or performative drain the very life they are meant to serve.
 
-I began with the ownership question: whether a motive can be mine while I am moved by it. The research below keeps the question in front of the reader rather than settling it.
+I began with the ownership question: whether a motive can be mine while I am moved by it.
 
 ### Nearby terms
 
@@ -12,7 +12,7 @@ Drive: held under [Drive-reduction theory](https://clemvillatte.github.io/flouri
 
 Desire: held in the last group below, where the traditions disagree on whether to purify it, order it or understand it.
 
-Willpower: I hold self-control and weakness of will with the Decision-Making dossier, under akrasia; what I hold here is the sources of motives, not the strength of will.
+Willpower: self-control and weakness of will belong with the Decision-Making dossier, under akrasia. Here the concern is the sources of motives, not the strength of will.
 
 Goals: goal-setting and goal conflict belong to the Goals dossier; I list only the goal cards that bear on why a person pursues the goal.
 
@@ -126,7 +126,7 @@ Kant, in the first section of the Groundwork, describes an action whose worth li
 
 > "an action done from duty derives its moral worth, not from the purpose which is to be attained by it, but from the maxim by which it is determined, and therefore does not depend on the realization of the object of the action, but merely on the principle of volition by which the action has taken place, without regard to any object of desire." ([Kant, Fundamental Principles of the Metaphysic of Morals, Section I, Abbott translation](https://www.gutenberg.org/cache/epub/5682/pg5682.txt))
 
-Kant also anticipates the Humean reply that a feeling must be doing the work. His note says "although respect is a feeling, it is not a feeling received through influence, but is self-wrought by a rational concept" (same source). So the dispute is narrower than the headlines make it. Hume says no conclusion of reasoning moves the will unless a passion is present, and Kant says that the will can be determined by the thought of a law, while granting that a feeling of respect comes with it and arises from the thought. Nothing in either passage settles whether a feeling that is produced by a rational concept counts as the passion Hume requires.
+Kant also anticipates the Humean reply that a feeling must be doing the work. His note says "although respect is a feeling, it is not a feeling received through influence, but is self-wrought by a rational concept" (same source). So the dispute is narrower than the headlines make it. Hume says no conclusion of reasoning moves the will unless a passion is present, and Kant says that the will can be determined by the thought of a law, while granting that a feeling of respect comes with it and arises from the thought. I leave open whether a feeling produced by a rational concept counts as the passion Hume requires.
 
 My lean, which is mine, is that the two descriptions can be reconciled on the facts of motivation, since Kant's respect is a feeling in Hume's sense, and that the live disagreement is over the source of the feeling and over what makes an act praiseworthy. Limits: I read these passages in English translations, I did not open the secondary literature on Hume's motivational claim or on Kant's incentive of respect, and neither author wrote about motivation in the psychologist's sense of drive, goal pursuit or reward.
 

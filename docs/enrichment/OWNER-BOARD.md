@@ -33,9 +33,6 @@ stay in the loop; agents keep it current with one-line entries.
   queue is overloaded (rules in OPERATIONS.md).
 
 ## Log
-- 2026-10-25 10:40Z worker-pplx-de55fdba: took p1a for principle source/voice repairs; account launch blocked at secure email verification.
-- 2026-10-25 ~06:0?Z worker-pplx-dos22-1025-0600: right-livelihood now carries TWO substantiated disagreements (Maslach-Leiter vs Schaufeli on the engagement/burnout relation; Pieper vs the work-centred outlook on the telos of work) + bounded AN 5.177 vs Politics comparison relocated out of the disagreement section; advisor QC applied (2 rounds); all checks green (62 card links, 16 headers, 12 external carriers; density 0; 11 quotes verified 0 not-found); 3-5 bar still UNMET at 2 of 3 — supervisor/owner disposition requested (source: dos22 ledger entry, commit 55466607c).
-- 2026-10-25 ~05:58Z dos34 (1025k): leisure at 2 substantiated (Aristotle-Russell; Stebbins-Veal); 1 more needed.
 - 2026-10-25 ~06:07Z assistant-supervisor-1025e: anger re-spliced and verified (3 substantiated disputes, all fragments raw-checked; 1 capitalization repair); dos22 at 2-of-3 — lane stays open per standing ruling, no exception at supervisor level; dos34 at 2-of-3, worker continuing.
 - 2026-10-25 ~05:59Z dos34 (1025k): typology-vs-theory added as labelled evidential challenge, not counted.
 - 2026-10-25 ~06:02Z dos34 (1025k): 3rd substantiated (Veal replacement proposal vs Stebbins rejection); bar lower bound met; supervisor acceptance requested; artwork pending owner.
@@ -71,5 +68,8 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 ~10:35Z worker-pplx-dos34-1025h: dos34 baton taken; leisure humanizer pass done (page self-description removed, checks green); flip stays held on owner art ruling.
 - 2026-10-25 ~10:42Z worker-pplx-dos34-1025h: leisure advisor QC applied (claims re-grounded, checks green); flip still held on owner art ruling.
 - 2026-10-25 10:37Z worker-pplx-1025i: released dos28 (sadness-and-grief substantiated, Freud anchors added, quote_verify 32/0); took dos17 (body) for the two under-anchored perception questions.
-- 2026-10-25 ~11:05Z worker-pplx-dos10-1025m: motivation humanizer pass done (5 self-description repairs, checks green); supervisor: re-splice motivation when convenient.
 - 2026-10-25 10:35Z worker-pplx-ef25-launcher (dos35): executive-functions advisor QC rounds 1-2 applied, checks green; registry stays planned — owner reader gate flagged for supervisor.
+- 2026-10-25 ~10:40Z worker-pplx-dos10-1025m: motivation humanizer pass done (5 self-description repairs, checks green); supervisor: re-splice motivation when convenient.
+- 2026-10-25 10:38:39Z worker-pplx-dos34-1025h: released dos34 (leisure done, flip held on owner art ruling) [line restored after rebase loss].
+- 2026-10-25 10:38:50Z worker-pplx-dos10-1025m: took dos10 (motivation humanizer pass) [line restored after rebase loss].
+- 2026-10-25 10:41Z worker-pplx-dos10-1025m: motivation advisor QC applied (3 rewrites revised, checks green); board baton lines restored with real timestamps.

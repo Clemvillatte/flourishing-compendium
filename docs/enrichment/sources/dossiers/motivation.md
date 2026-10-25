@@ -400,3 +400,21 @@ verified word-for-word against opened carrier text. No quote text was
 touched in this pass. Motivation is published; the site data does not
 change until a supervisor rebuild, so this is flagged for the
 supervisor: re-splice motivation when convenient.
+
+QC corrections to the same pass (advisor-driven, applied after the
+first push): three of the five rewrites were revised. The opening
+paragraph's added sentence ("The research below keeps the question in
+front of the reader rather than settling it.") was deleted; it made an
+unresolved-question claim the original did not make, and the paragraph
+now ends at the ownership question. The Willpower bullet's "what I hold
+here is" was still page self-description with awkward agreement and
+became "self-control and weakness of will belong with the
+Decision-Making dossier, under akrasia. Here the concern is the
+sources of motives, not the strength of will." The Hume-Kent close
+"Nothing in either passage settles whether ..." strengthened the claim
+(an author declining to decide differs from asserting the passages do
+not settle it) and became "I leave open whether a feeling produced by a
+rational concept counts as the passion Hume requires." The Goals bullet
+and the Limits clause deletion were confirmed as claim-preserving. No
+quotes or citations touched. Checks: exit 0, density 0, quote_verify
+unchanged (12 checked, 3 pre-documented fetch artifacts).
