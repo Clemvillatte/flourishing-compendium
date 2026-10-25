@@ -8,3 +8,7 @@
 ## P174 Spend attention like money
 - Carrier opened: James, Principles of Psychology ch. XI, psychclassics.yorku.ca/James/Principles/prin11.htm. Quotes p. 402 ("Millions of items...") and p. 404 ("withdrawal from some things...") verified verbatim.
 - Repair: removed unsupported "founding text of attention economics" claim, invented sixteen-waking-hours figure, unverified Csikszentmihalyi flow sentence, and two duplicate "Primary source" blocks; removed AI contrast scaffolds. Money metaphor now labelled as the principle's own.
+
+## P021 Treat ideas as tools, not mirrors
+- Carrier opened: Dewey, Quest for Certainty, archive.org questforcertaint029410mbp djvu text. Ch. V ("sound if the operations they direct give us the results which are required") and ch. X ("tool and only a tool") verified verbatim.
+- Repair: the "knives and forks" metaphor attributed to Dewey is not in the Quest text; it appears in Hauptli's lecture notes (FIU) as Rorty-style paraphrase, so it was removed. The SEP block quote was not re-opened and was dropped. Fixed a run-together Philosophy parallels line (no link lost).
