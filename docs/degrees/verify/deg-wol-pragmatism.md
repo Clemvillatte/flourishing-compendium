@@ -96,9 +96,9 @@ pages.
 - Relevant segments: a single 41:01 lecture; assign whole.
 - Verification status: verified-video (2026-10-25).
 
-### M01-P12: Conceptualizing Metaphors on Charles Peirce's Marginalia (Ivan Mladenov, Balıkesir University)
+### M21-P02: Conceptualizing Metaphors on Charles Peirce's Marginalia (Ivan Mladenov, Balıkesir University)
 
-- Legacy attachment: mod-phil-4 required media.
+- Legacy attachment: mod-phil-4 optional media.
 - Identity: oembed confirms the video on the Balıkesir Üniversitesi
   channel, title "Conceptualizing Metaphors On Charles Peirce's Marginalia
   | Prof. Dr. Ivan MLADENOV" (https://www.youtube.com/watch?v=te7f9VvENXQ).
@@ -122,6 +122,73 @@ pages.
 - Relevant segments: a single 1:24:08 seminar session; no chapter
   timestamps printed.
 - Verification status: verified-video (2026-10-25).
+
+### M01-P07: William James and Josiah Royce, James's Pragmatism and American Social Thought 1907-2007 (James T. Kloppenberg)
+
+- Legacy attachment: mod-phil-4 optional media.
+- Identity: oembed confirms the video on the Harvard Divinity School channel,
+  title "William James and Josiah Royce - James's Pragmatism & American
+  Social Thought 1907-2007" (https://www.youtube.com/watch?v=Yp5PIqGefJ0).
+  Freely playable, no paywall.
+- Duration: 58:12 printed in the player (2026-10-25).
+- Instructor credentials: James T. Kloppenberg, Charles Warren Research
+  Professor of American History, Emeritus, at Harvard University, PhD from
+  Stanford, formerly David Woods Kemper '41 Professor of American History
+  at Harvard, which is the chair the 2007 lecture description names
+  (Harvard History page:
+  https://history.fas.harvard.edu/people/james-t-kloppenberg, opened
+  2026-10-25).
+- Language: English. The watch page offers a transcript panel.
+- Event: lecture delivered 26 May 2007 (centenary series on James's
+  Pragmatism and American social thought), stated in the description.
+- Content coverage (from the recording's own description, read 2026-10-25):
+  Kloppenberg's lecture on James and Royce and the fate of James's
+  pragmatism in American social thought. The auto chapter list prints:
+  anti-imperialism (3:21), progressive politics (9:24), democracy and
+  science (14:18), Wilson's pragmatism (20:31), Jane Addams's pacifism
+  (24:38), W.E.B. Du Bois (28:44), cultural pluralism (30:34), fluid
+  identity (37:26), New Deal era (44:12), modern challenges (47:40),
+  conclusion (54:21).
+- Relevant segments: a single 58:12 lecture; assign whole.
+- Verification status: verified-video (2026-10-25).
+- Note: the transcript service was not read for this recording this
+  session; content classification rests on the recording's own description
+  and chapter list.
+
+### M01-P12: William James and the Sick Soul (John Kaag, William James Lectures)
+
+- Legacy attachment: mod-phil-4 optional media.
+- Identity: oembed confirms the video on the Harvard Divinity School
+  channel, title "William James and the Sick Soul"
+  (https://www.youtube.com/watch?v=Z80EnEs-4oI). Freely playable, no
+  paywall.
+- Duration: 1:25:53 printed in the player (2026-10-25).
+- Instructor credentials: John Kaag, Professor of Philosophy at UMass
+  Lowell, PhD from the University of Oregon, Visiting Professor on
+  Nineteenth-Century American Transcendentalism at Harvard Divinity
+  School, author of Sick Souls, Healthy Minds: How William James Can
+  Save Your Life (HDS profile page:
+  https://www.hds.harvard.edu/people/john-kaag, opened 2026-10-25).
+- Language: English. The watch page offers a transcript panel, and the
+  description links a full transcript on the HDS site.
+- Event: Harvard Divinity School's William James Lectures on Religious
+  Experience, 2 February 2023 (stated in the description).
+- Content coverage (from the recording's own description, read
+  2026-10-25): Kaag's lecture on William James's 1895 lecture Is Life
+  Worth Living, drawing on James's own existential crisis and
+  contemplating suicide a quarter-century earlier, arguing the founder of
+  pragmatism speaks directly to anyone struggling to make a life worth
+  living. The auto chapter list prints: is life worth living (8:10),
+  madness and genius (10:44), the problem of the sick soul (14:18), James
+  on suicide (19:14), American pragmatism (23:00), free will (29:53),
+  finding meaning (32:57), religious experience (44:54), transcendent
+  (52:41).
+- Relevant segments: a single 1:25:53 lecture plus responses; assign
+  whole.
+- Verification status: verified-video (2026-10-25).
+- Note: the transcript service was not read for this recording this
+  session; content classification rests on the recording's own detailed
+  description and chapter list.
 
 ### M01-P03: Philosophy Talk, American Pragmatism (John Perry, Ken Taylor, guest John McDermott)
 
