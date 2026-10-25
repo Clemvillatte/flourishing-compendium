@@ -701,8 +701,10 @@ paths (see the access note).
   therapy, memory reconsolidation, extinction without fear, active versus
   passive coping, and individual differences.
 - Relevant segment: whole talk, 51:41.
-- Verification status: verified-video (2026-10-25); credentials from the
-  recording's own description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials basis is
+  the Wikipedia REST summary (tertiary source) — the NYU faculty pages
+  were fetcher-blocked and remained so on a 2026-10-25 retry by
+  deg-verify-b; institutional-page basis still pending.
 
 ### M06-CO04: Antonio Damasio, "Feeling & Knowing: Making Minds Conscious"
 
@@ -798,8 +800,9 @@ paths (see the access note).
   training; how mental operations — particularly attention — are carried out
   by neural networks, using cognitive, imaging and genetic methods.
 - Relevant segment: whole lecture, 59:40.
-- Verification status: verified-video (2026-10-25); credentials from the
-  uploader description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials verified
+  on the University of Oregon College of Arts and Sciences directory
+  (opened 2026-10-25, as cited above).
 
 ### M06-AT06: Spring 2025 Quinn Memorial Lecture with Dr. Anna C. Nobre
 
@@ -871,8 +874,8 @@ paths (see the access note).
   of self-knowledge, self-perception, self-regulation and self-control,
   ego-depletion theory, and Walter Mischel's marshmallow study.
 - Relevant segment: whole lecture, 51:37.
-- Verification status: verified-video (2026-10-25); credentials from the
-  uploader description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials verified
+  on the Eureka College directory (opened 2026-10-25, as cited above).
 
 ### SRC-M07-005: Self-Determination Theory — Deci and Ryan (SDT2019 plenary)
 
@@ -917,8 +920,8 @@ paths (see the access note).
   use, retirement savings, physical health and illness, drawing on a New
   Zealand cohort and a UK twin-sibling cohort.
 - Relevant segment: whole talk, 51:25.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials verified
+  on the Duke Psychiatry profile (opened 2026-10-25, as cited above).
 
 ### SRC-M07-008: Leading Voices in Higher Education — Roy F. Baumeister (Dartmouth)
 
@@ -936,8 +939,8 @@ paths (see the access note).
   "Understanding Self-Control and the Limits of Willpower" — how people can
   influence important aspects of individual and societal wellbeing.
 - Relevant segment: whole lecture, 54:22.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials verified
+  on the UQ profile (opened 2026-10-25, as cited above).
 
 ### SRC-M07-019: The Science of Well-Being (Laurie Santos, Yale)
 
@@ -1040,8 +1043,11 @@ against the recording or transcript before the record is attached to a module.
   Digital Minimalism — being more selective about personal technologies to
   cultivate a focused life in a noisy world.
 - Relevant segment: whole talk, 1:02:29.
-- Verification status: verified-video (2026-10-25); credentials from the
-  uploader description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials basis is
+  the Wikipedia REST summary plus the recording's own description — the
+  Georgetown faculty page was fetcher-blocked and remained so on a
+  2026-10-25 retry by deg-verify-b; institutional-page basis still
+  pending.
 
 ### M06-AT04: "Attention: Perspectives from Neuroscience, Art, and Literature" (Oregon Humanities Center)
 
@@ -1157,7 +1163,10 @@ against the recording or transcript before the record is attached to a module.
   theory, and erratic stock price variations.
 - Relevant segment: whole lecture, 1:05:09.
 - Verification status: verified-video (2026-10-25); Shiller credentials
-  from the uploader description, institutional page pending.
+  verified on the Yale Department of Economics faculty page (opened
+  2026-10-25: Sterling Professor Emeritus of Economics and Professor
+  Emeritus of Management, Yale University), which also names ECON 252
+  in his teaching; https://economics.yale.edu/people/robert-shiller.
 
 ### SRC-M07-006: Prof Richard Ryan on Motivation and Wellness in School (Aalto, Faculty of Education)
 
