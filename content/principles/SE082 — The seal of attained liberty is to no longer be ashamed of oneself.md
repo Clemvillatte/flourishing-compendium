@@ -12,12 +12,24 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 82** — The seal of attained liberty is to no longer be ashamed of oneself
 
-Nietzsche places this aphorism after two remarks about shame. Section 273 condemns someone who always wants to shame others; §274 calls sparing a person shame the most humane thing. Section 275 turns to shame about oneself and identifies its cessation as the seal of attained liberty. ([Common translation, sections 273-275](https://www.gutenberg.org/ebooks/52124))
+In The Joyful Wisdom (The Gay Science), Book Third, Nietzsche places this aphorism after two remarks about shame:
+
+> 273. Whom dost thou call Bad? — Him who always wants to put others to shame.
+> 274. What dost thou think most humane? — To spare a person shame.
+> 275. What is the Seal of Attained Liberty? — To be no longer ashamed of oneself.
+>
+> (Nietzsche, The Joyful Wisdom, §§273-275, Levy edition, [Project Gutenberg ebook 52124](https://www.gutenberg.org/cache/epub/52124/pg52124.txt))
+
+The first condemns the person who always wants to shame others, and the second calls sparing a person shame the most humane thing. The third turns to shame about oneself and names its end as the seal of attained liberty.
 
 **Plain words**
 I draw a question from this line: can you consider something you regret without treating your whole life as a disgrace? Consider this alongside whatever you owe anyone affected.
 
-*For example:* a founder describes a failed venture, acknowledges her mistakes and considers what she owes former colleagues, without treating the failure as a verdict on her entire life.
+*For example (my illustration):* a founder describes a failed venture, acknowledges her mistakes and considers what she owes former colleagues, without treating the failure as a verdict on her entire life.
+
+## Sources
+
+- [Friedrich Nietzsche, The Joyful Wisdom (La Gaya Scienza), Project Gutenberg ebook 52124](https://www.gutenberg.org/cache/epub/52124/pg52124.txt): §§273-275, quoted word for word. The ebook's title page names Thomas Common as translator, while Project Gutenberg's catalogue record names Paul V. Cohn; the translator is therefore left unnamed here.
 
 ## Psychology parallels
 

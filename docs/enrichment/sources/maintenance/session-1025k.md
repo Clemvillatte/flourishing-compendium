@@ -150,3 +150,6 @@
 
 ## M004, AT070 verbatim quotes added
 - M004: Maffie (IEP Aztec Philosophy) sentences on tlamatiliztli as know-how and on moderation quoted verbatim from the opened page. AT070: Bar-Haim et al. 2007 abstract sentences (172 studies, d = 0.45, not observed in nonanxious individuals) quoted verbatim from PubMed. Cisler 2009 and Eysenck 2007 paragraph not re-opened.
+
+## SE082 verbatim Nietzsche
+- GS §§273-275 quoted word for word from Gutenberg 52124. Translator ambiguity flagged (title page: Thomas Common; Gutenberg record: Paul V. Cohn). Note the same ambiguity probably affects other pages citing 52124/52881 as 'Common' or 'Cohn'. Example labelled.
