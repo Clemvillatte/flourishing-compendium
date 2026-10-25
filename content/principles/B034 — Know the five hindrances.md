@@ -12,32 +12,30 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 34** — Know the five hindrances
 
-Sensory desire, ill will, sloth-and-torpor, restlessness-and-worry, and doubt: these five are the classic obstacles to a [[Clarity of mind|clear mind]]. Learn to recognize each on contact: the sutta treats them as conditions to watch, not as personal failings.
+When an old argument keeps taking over my attention, naming the difficulty gives me somewhere to begin. In MN 10, the five hindrances are sensual desire, ill will, sloth and drowsiness, restlessness and anxiety, and uncertainty ([Thanissaro, mental qualities section D.1](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)).
 
-MN 10 makes the hindrances the first category of mental qualities to watch, and gives a noticing formula rather than a suppression order:
+The instruction for desire includes this:
 
-> "There is the case where, there being sensual desire present within, a monk discerns that 'There is sensual desire present within me.' Or, there being no sensual desire present within, he discerns that 'There is no sensual desire present within me.' He discerns how there is the arising of unarisen sensual desire. And he discerns how there is the abandoning of sensual desire once it has arisen. And he discerns how there is no future arising of sensual desire that has been abandoned. (The same formula is repeated for the remaining hindrances: ill will, sloth & drowsiness, restlessness & anxiety, and uncertainty.)" (MN 10, [Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html))
+> "He discerns how there is the abandoning of sensual desire once it has arisen." ([MN 10, D.1](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html))
 
-The hindrance is treated as an object of observation: note it present or absent, watch it arise, watch it be abandoned, watch for its return. That is why the sutta files them under mindfulness, as qualities to be watched.
+The passage also asks the monk to discern presence, absence, arising and the prevention of future arising; it repeats the formula for the other four hindrances ([MN 10, D.1](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)).
 
-(MN 10; SN 46.)
+I understand this as a practical inquiry into what is happening and how it changes. When I want a [[Clarity of mind|clear mind]], I can begin by distinguishing tiredness from agitation or resentment. Those names are useful to me only if I return to the experience and investigate it.
 
 **Plain words**
-The formula the sutta gives for each hindrance is a set of questions: is it present, is it absent, how did it arise, how was it abandoned, what would keep it from coming back. Notice you are rehearsing a quarrel, name the ill will, then investigate what brought it on and what would help you let it go.
+Notice which obstacle is present. Ask how it began, what helps it subside and what might prevent its return. I would use the list to guide attention to the difficulty I am actually having.
 
 **For example**
-'Restlessness again' — recognizing the 3pm fog as the same fog as yesterday turns an enemy into a known commuter.
+Imagine sitting down to read while silently composing a cutting reply. I recognise ill will, notice what keeps restarting the argument and explore whether I can leave the reply unsent. This is my application of the inquiry.
 
 ## Sources
 
-- [MN 10 Satipatthana Sutta, trans. Thanissaro Bhikkhu (Access to Insight)](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html) — the five hindrances section
-
-## Psychology parallels
+- [MN 10 Satipatthana Sutta, trans. Thanissaro Bhikkhu (Access to Insight)](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html): mental qualities, D.1, the five hindrances.
 
 ## Philosophy parallels
 
-- **[[The taxonomy of passions|The taxonomy of passions]]** (Spinoza, Ethics III)
-- **[[The taxonomy of vices|The catalog of vices]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
+- [[The taxonomy of passions|The taxonomy of passions]]: a comparative reading link.
+- [[The taxonomy of vices|The catalog of vices]]: a separate comparison with [[T002 — Aristotle|Aristotle]].
 
 <!-- fc: reflections
 Which of the five hindrances is currently your dominant one — sensory desire, ill will, sloth, restlessness, or doubt? What's it producing?
