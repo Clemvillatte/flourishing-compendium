@@ -706,7 +706,7 @@
    "stid": "ST423"
   },
   "s1a-017": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "D068: Han Xin crawls beneath the butcher's youth — yielding measured against the whole future, closed without revenge",
    "history": [
     {
@@ -752,6 +752,11 @@
      "t": "2026-10-23T11:48:59+00:00",
      "to": "qc_pending",
      "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T13:59:30+00:00",
+     "to": "ready",
+     "note": "verification pass: Wikisource raw text re-fetched, all three Chinese quotes character-verified, paraphrase probes confirmed; ready"
     }
    ],
    "stid": "ST424"
@@ -1756,5 +1761,5 @@
    ]
   }
  },
- "updated": "2026-10-25T13:59:17+00:00"
+ "updated": "2026-10-25T13:59:30+00:00"
 }
