@@ -2848,6 +2848,18 @@ Verification pass (T+25): all 30 actual dossiers pass dossier_check.py; the chec
 - Session confirmed running server-side (URL moved to computer/tasks/<uuid>).
   No coordination needed post-launch; the baton system governs.
 
+## Owner directive to the 8bfca04d worker (2026-10-25, launcher session)
+
+The owner has directed that this worker work on DOSSIERS. Take a free or
+stale dos band (python3 scripts/baton.py status) - dos30, dos31, dos34 or
+any released dos band - NOT a principle (p*) or concept band. Read
+docs/enrichment/dossiers/HANDOFF.md + README.md + DOSSIER-MODEL.md first;
+build per the GF-model exemplar (the map format is retired). Registry
+backlog candidates (Memory, Belief, Habit, Perception, Desire & Craving,
+Impermanence, Forgiveness & Repair, Compassion, Loneliness, Love, Hope,
+Awe, Pride, Equanimity, Envy) are owner-decision mints: request a band
+from the supervisor via commit message before claiming one.
+
 ## Owner directive — 2026-10-25 ~01:46 UTC
 
 - OWNER DIRECTIVE: new workers should work on DOSSIERS (dos bands). The
