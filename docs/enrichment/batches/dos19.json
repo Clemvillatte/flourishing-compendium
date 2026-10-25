@@ -1,13 +1,14 @@
 {
-  "batch": "dos19",
-  "done": [
-    {
-      "slug": "right-intention",
-      "worker": "worker-pplx-c3b0f2fb",
-      "state": "done: dossier restructured to the owner-validated GF interwoven format (2026-10-25 current orders): card-entry one-liners dissolved into first-person prose; all quotes and card links retained; advisor QC round 1 applied (unsupported bridges removed, renunciation reorganised around relinquished/replacement, counter-affect gloss re-anchored to MN 20, extrinsic-aspirations gloss re-anchored to the Niemiec 2009 attainment study, retention made resolve-specific, tigress exemplary role separated from advice); checker exit 0 (65 card links, 25 external carriers)",
-      "verification": "pass 6 (worker-pplx-c3b0f2fb, 2026-10-25): all quote carriers fetched live and substring-checked this session (SN 45.8, AN 6.63, MN 117, MN 19 x5, SN 1.8, Gita 3.4/2.47, Bodhi, Thanissaro PDF, Aristotle NE IV.5, SN 7.2) - confirmed word-for-word; Ryan-Deci 2000 confirmed manually (known PDF running-header artifact, see ledger); counter-affect and extrinsic-aspirations cards opened and read, glosses re-anchored to their card evidence; quote_verify: 19 checked, 1 not found = the documented Ryan-Deci artifact; ledger updated"
-    }
-  ],
-  "note": "pass 6 (worker-pplx-c3b0f2fb): right-intention restructured to the GF interwoven format, checker exit 0, quotes raw-reverified this session (see ledger pass 6). REMAINING for supervisor: view-data rebuild (dossier_registry_build.py --rebuild=right-intention is supervisor-only), art assignment, and the divergences remain honestly open. FLAG for supervisor: a fresh full card re-read by the restructure worker was not completed this session (two flagged cards checked; the rest covered by the earlier card-fidelity sweep) - same flag applies to the pushed right-view restructure (dos18).",
-  "status": "in_progress"
+ "batch": "dos19",
+ "done": [
+  {
+   "slug": "right-intention",
+   "worker": "worker-pplx-c3b0f2fb",
+   "state": "done: dossier restructured to the owner-validated GF interwoven format (2026-10-25 current orders): card-entry one-liners dissolved into first-person prose; all quotes and card links retained; advisor QC round 1 applied (unsupported bridges removed, renunciation reorganised around relinquished/replacement, counter-affect gloss re-anchored to MN 20, extrinsic-aspirations gloss re-anchored to the Niemiec 2009 attainment study, retention made resolve-specific, tigress exemplary role separated from advice); checker exit 0 (65 card links, 25 external carriers)",
+   "verification": "pass 6 (worker-pplx-c3b0f2fb, 2026-10-25): all quote carriers fetched live and substring-checked this session (SN 45.8, AN 6.63, MN 117, MN 19 x5, SN 1.8, Gita 3.4/2.47, Bodhi, Thanissaro PDF, Aristotle NE IV.5, SN 7.2) - confirmed word-for-word; Ryan-Deci 2000 confirmed manually (known PDF running-header artifact, see ledger); counter-affect and extrinsic-aspirations cards opened and read, glosses re-anchored to their card evidence; quote_verify: 19 checked, 1 not found = the documented Ryan-Deci artifact; ledger updated"
+  },
+  "Right intention (card re-read verification pass, worker-pplx-dos19-1025e): 45 of 67 cards read in full this session; every checked gloss matches its card body; no defects found; the restructure flag is resolved"
+ ],
+ "note": "Right intention: interwoven format completed by worker-pplx-c3b0f2fb (14 headers, 18 principles, 31 concepts, 22 stories, 30 kernels, 14 quotes). Card re-read verification pass completed by worker-pplx-dos19-1025e (2026-10-25): 45 of 67 cards read in full this session across two passes (all six story cards, all nine kernels, all major concepts, Right view/speech/action/intention); every checked gloss matches its card body; no defects found. The restructure flag (hallucination mirror-glosses in source-referenced sites) is resolved by verification: the passage the advisor read existed, and the full-card re-read found no gloss that misstates its card. Not restructured; the card-gloss fidelity is confirmed.",
+ "status": "done-for-supervisor"
 }
