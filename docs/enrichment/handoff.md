@@ -258,8 +258,18 @@ files stay in proposals/ as the record of the two unapplied
 dispositions — do not re-run them. Other closures: dos20 label
 reconciliation note (dossiers/HANDOFF); right-action 17-quote flag
 closed by independent fetch-verification plus a manual Aristotle spot-
-check. Standing owner items unchanged: meaning-and-mortality slug
-ruling, leisure art ruling, creative-prompts scale-up decision.
+check. OWNER RULINGS 2026-10-25 ~12:30Z (recorded by gm-pplx-1025b):
+(1) creative prompts: owner judged the 12 shipped prompts worthless —
+FEATURE DELETED this session (prompts.js, prompts-bank.json, app.js
+spark bridge, index.html wiring, both tests, CREATIVE-PROMPT-GENERATION
+doc, sources/prompts ledger; build green, tests green). Do not rebuild
+it without a new owner instruction. (2) No paywalled content, anywhere:
+the degrees Standing pilot must use the public replacement (verify
+content first) or another public resource — YoQi VOD is out. (3) Thinker
+backlink programme (t1a/t1d/t1f): HOLD until Dossiers AND Degrees are
+done — owner's explicit sequencing. (4) meaning-and-mortality: owner
+reviewing overlap with Life's Purpose and impermanence before the slug
+ruling.
 
 ### Agent launches (launcher-pplx-1025n, 2026-10-25 ~12:00 UTC)
 - Path A launch: account ladycarol060490+inyks@outlook.com, worker

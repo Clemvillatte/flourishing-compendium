@@ -1498,61 +1498,6 @@ function stepEntry(d) {
 
 /* ================= view switching & randomiser bridge ================= */
 
-/* Spark panel bridge: the Writing Editor iframe asks the parent compendium for a
-   card (principle, kernel or published dossier); we look it up in wikiData /
-   fcDossiersData and reply with a title plus a fragment the parent can navigate to.
-   The reverse message ('spark-navigate') jumps the parent to the card the writer asked about. */
-(function(){
-  var lastFrame = null;
-  window.__fcSparkSetFrame = function(f){ lastFrame = f; };
-  function reply(frame, want, card){
-    try { frame.contentWindow.postMessage({ type: 'spark-card', for: want, card: card }, '*'); } catch (e) {}
-  }
-  window.addEventListener('message', function (ev){
-    var d = ev.data;
-    if (!d || !ev.source) return;
-    if (d.type === 'spark-card-lookup') {
-      var want = d.kind + ':' + d.ref;
-      if (d.kind === 'dossier') {
-        var list = ((window.fcDossiersData || {}).dossiers) || [];
-        for (var i = 0; i < list.length; i++) {
-          if (list[i].id === d.ref && list[i].status === 'published') {
-            reply({ contentWindow: ev.source }, want, { title: list[i].title, fragment: '#dossier=' + encodeURIComponent(list[i].id) });
-            return;
-          }
-        }
-        reply({ contentWindow: ev.source }, want, null);
-        return;
-      }
-      var data = window.wikiData || [];
-      for (var j = 0; j < data.length; j++) {
-        var e = data[j];
-        if (e && (e.type === d.kind) && (e.id === d.ref)) {
-          reply({ contentWindow: ev.source }, want, { title: e.title || e.id, fragment: '#card=' + encodeURIComponent(e.file || e.id) });
-          return;
-        }
-      }
-      reply({ contentWindow: ev.source }, want, null);
-      return;
-    }
-    if (d.type === 'spark-navigate' && d.fragment) {
-      var hash = String(d.fragment).replace(/^#/, '');
-      if (hash.indexOf('card=') === 0) {
-        var cardId = decodeURIComponent(hash.slice(5));
-        if (window.fcWiki && window.fcWiki.open) window.fcWiki.open(cardId);
-        return;
-      }
-      if (hash.indexOf('dossier=') === 0) {
-        var dossierId = decodeURIComponent(hash.slice(8));
-        if (window.__fcRoute) window.__fcRoute.set('#dossier=' + dossierId);
-        return;
-      }
-      /* Last-resort: hash navigation. */
-      window.location.hash = d.fragment;
-    }
-  });
-})();
-
 function switchView(v) {
   document.body.classList.remove('lib-browse-open');
   const rand = v === 'rand';

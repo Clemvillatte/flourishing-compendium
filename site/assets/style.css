@@ -2062,4 +2062,3 @@ html:not([data-theme='dark']) .principle-text .wlink:hover {
 @media (max-width:920px) { .rand-toolbar .rand-tools { order:3; justify-content:flex-start; } }
 
 
-/* Creative sparks now live inside the Writing Editor iframe (2026-10-25 rework). The old #promptBtn / #fcPromptPanel header dialog is gone. */
