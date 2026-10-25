@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 150** — Accept incompleteness as constitutive
 
-Terrence Deacon's Incomplete Nature is listed here as a possible modern parallel to the point below. This page does not quote or summarise Deacon; his argument is on [his book's page](https://terrencedeacon.com/incomplete-nature).
+Terrence Deacon's Incomplete Nature is listed here as a possible modern parallel to the point below. This page does not quote or summarise Deacon; his argument is on [the publisher's publisher book page](https://wwnorton.com/books/Incomplete-Nature).
 
 Dewey's version of the point is moral: growth is something a person is doing, and never something a person completes. There is no state at which the growing person arrives and stops, which Dewey puts as "it has no end beyond itself" (quoted below). The two claims meet in a practical instruction: stop treating your current unfinished state as a temporary defect that must be fixed before life can begin.
 
@@ -25,7 +25,7 @@ Dewey's version of the point is moral: growth is something a person is doing, an
 ## Sources
 
 - [John Dewey, *Democracy and Education* (1916), ch. 4 "Education as Growth", Project Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt): the quoted sentence, checked against the text.
-- [Terrence Deacon, *Incomplete Nature*, book page](https://terrencedeacon.com/incomplete-nature): listed only as a possible parallel; this page does not quote or summarise it.
+- [Terrence Deacon, *Incomplete Nature*, publisher book page](https://wwnorton.com/books/Incomplete-Nature): listed only as a possible parallel; this page does not quote or summarise it.
 
 ## Psychology parallels
 
