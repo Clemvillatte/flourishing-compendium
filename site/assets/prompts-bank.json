@@ -1,237 +1,686 @@
 {
- "schemaVersion": 1,
- "edition": "pilot-2026-10-25",
- "prompts": [
-  {
-   "id": "CP001",
-   "genre": "fiction",
-   "target": "pain and the story about it",
-   "title": "The toothache at the bus stop",
-   "text": "A character is waiting at a bus stop with a tooth that has started to ache. Write the scene in 400 to 700 words so that a reader can feel two separate things: the ache itself, and the story the character begins telling about what it means. Leave out the word \"pain\", the dentist and the cost. A stranger interrupts once, and the interruption must neither ease the ache nor answer the story.",
-   "done_when": "You can quote one passage that is only the ache and another that is only the story.",
-   "anchor": "bus stop",
-   "move": "two separate layers: the ache, and the story about it",
-   "principles": [
-    "B069"
-   ],
-   "dossiers": [
-    "affect",
-    "body"
-   ],
-   "sensitive": false,
-   "why": "B069 separates a painful sensation from the extra suffering added by reacting to it. The scene keeps those layers apart on the page and leaves the writer to decide what the story does to the ache."
-  },
-  {
-   "id": "CP002",
-   "genre": "fiction",
-   "target": "help, and who gets a say",
-   "title": "The mended gate",
-   "text": "Someone has fixed their neighbour's gate without being asked. Write 500 to 800 words that begin the first time the neighbour tries to open it. Each of them has a good reason for wanting the gate to work a certain way, and neither may state that reason in a speech. Let the argument happen through the latch, the hinges and what their hands do. Stop on a question one of them asks that the other cannot yet answer.",
-   "done_when": "Both reasons can be inferred from action alone, and the last line is an unanswered question.",
-   "anchor": "gate",
-   "move": "argue through the latch, the hinges and the hands",
-   "principles": [
-    "B099",
-    "R077"
-   ],
-   "dossiers": [
-    "others",
-    "agency"
-   ],
-   "sensitive": false,
-   "why": "B099 asks what help the other person would actually welcome; R077 treats a person's say over their own life as formed in relationships. A repaired gate puts a kind act and someone's autonomy in the same doorway."
-  },
-  {
-   "id": "CP003",
-   "genre": "fiction",
-   "target": "not knowing how events will turn out",
-   "title": "Three people and a changed timetable",
-   "text": "Overnight, someone has altered a bus timetable. Write three short scenes, 600 to 900 words in all, each following a different person who relies on it. In the first, the change looks like good luck; in the second it wrecks a plan; the third person cannot tell which it is. Nothing in the telling may rank the three. End in the middle of the third person's decision.",
-   "done_when": "Three people are affected differently, nothing ranks them, and the last decision is still open.",
-   "anchor": "bus timetable",
-   "move": "three scenes, three different readings of the same change",
-   "principles": [
-    "D110",
-    "CO068"
-   ],
-   "dossiers": [
-    "uncertainty",
-    "decision-making"
-   ],
-   "sensitive": false,
-   "why": "D110 retells the old story in which every event is judged from the middle of a longer chain. CO068 asks where a belief runs out of evidence. Three partial views give the writer room to stay inside not-knowing."
-  },
-  {
-   "id": "CP004",
-   "genre": "poetry",
-   "target": "returning attention",
-   "title": "Worn smooth",
-   "text": "Pick the nearest thing that has been worn smooth by use. Write a twelve-line poem that leaves it three times, once for a memory, once for a plan, once for a worry, and comes back each time through a different physical detail of the object: a weight, a temperature, an edge. Do not use the words \"attention\", \"focus\" or \"mind\".",
-   "done_when": "Count three departures and three returns, each return through a new physical detail.",
-   "anchor": "an object worn smooth by use",
-   "move": "leave and return three times",
-   "principles": [
-    "AT019"
-   ],
-   "dossiers": [
-    "attention"
-   ],
-   "sensitive": false,
-   "why": "AT019 treats the return, not the absence of distraction, as the skill. The poem builds that cycle into its shape and never has to name it."
-  },
-  {
-   "id": "CP005",
-   "genre": "poetry",
-   "target": "enough",
-   "title": "Packing for one night",
-   "text": "Write a poem as the packing list for one night away. Each line names an item and the need it meets. Somewhere past the middle the list quietly starts to include things nobody needs. Do not announce the change; let only the items show it. The final line must be something that weighs nothing.",
-   "done_when": "A reader can find the line where need turns into want by the items alone.",
-   "anchor": "a packing list",
-   "move": "show the shift through the items, not through comment",
-   "principles": [
-    "D019"
-   ],
-   "dossiers": [
-    "happiness",
-    "goals"
-   ],
-   "sensitive": false,
-   "why": "D019 reads contentment as knowing when a need is met and stopping there. A list makes sufficiency concrete, and it leaves open whether the extra items are folly, comfort or love."
-  },
-  {
-   "id": "CP006",
-   "genre": "poetry",
-   "target": "rest",
-   "title": "When the machine switches off",
-   "text": "A machine in the building you are in has just switched off: a fridge, a lift motor, a fan. Write ten to eighteen lines that begin with what you hear stop, then move to something in your own body that was braced without your knowing, then outward again to a thing in the room you had not noticed. Leave out \"silence\" and \"quiet\", and keep the machine's name out until the last line, if it appears at all.",
-   "done_when": "The poem goes room, body, room, and the last detail is new.",
-   "anchor": "a machine switching off",
-   "move": "move from the room to the body and back out",
-   "principles": [
-    "B186"
-   ],
-   "dossiers": [
-    "body",
-    "overload-overwhelm"
-   ],
-   "sensitive": false,
-   "why": "B186 treats rest as part of the work rather than its failure. The poem looks for the moment when rest is noticed, not for a claim that stillness is always restful."
-  },
-  {
-   "id": "CP007",
-   "genre": "essay",
-   "target": "what a measure leaves out",
-   "title": "The number you check",
-   "text": "Choose a number you check about yourself: steps, savings, hours, followers, words written. In 600 to 900 words, describe one day it told you something true about how you were doing and another day it hid something. Then argue for what the number cannot count by describing one hour that left no trace in it. End on the question you would now write next to the number.",
-   "done_when": "Two particular days, one uncounted hour, and a closing question that is about how you use the number.",
-   "anchor": "a number you check",
-   "move": "argue for what the number cannot count",
-   "principles": [
-    "BE011",
-    "D079"
-   ],
-   "dossiers": [
-    "genuine-flourishing",
-    "behaviour"
-   ],
-   "sensitive": false,
-   "why": "BE011 reports that tracking tends to help behaviour; D079 questions conventional measures of success. Holding both lets the essay take the number seriously and still ask what a good life includes that it misses."
-  },
-  {
-   "id": "CP008",
-   "genre": "essay",
-   "target": "envy",
-   "title": "What the sting wanted",
-   "text": "Think of someone whose good fortune made you wince. In 500 to 800 words, first set down what you actually know about their situation, then what you only imagine. Next, say what the sting was pointing at, naming the want as an object or an activity, not a rank or a status. End with what you would do this week if the want deserved to be taken seriously, and what you would do if it did not.",
-   "done_when": "Knowledge and imagination are in separate paragraphs, and the want is named without any rank or status words.",
-   "anchor": "a stranger's good fortune",
-   "move": "name the want as an object or activity",
-   "principles": [
-    "AF055"
-   ],
-   "dossiers": [
-    "affect"
-   ],
-   "sensitive": false,
-   "why": "AF055 describes research on benign and malicious envy as differing in the motivation they produce. The prompt asks what the feeling points toward and leaves open whether following it is wise."
-  },
-  {
-   "id": "CP009",
-   "genre": "essay",
-   "target": "purpose as direction",
-   "title": "A direction you cannot finish",
-   "text": "Begin with the words \"For the next ten years I am walking toward\" and complete them with a direction, not a destination: something you could never finish arriving at. In 600 to 900 words, bring in one concrete thing from last week that was on that route and one that was not but felt as if it were. Close with what you would have to stop doing to stay on the route.",
-   "done_when": "The opening names a direction that cannot be completed, and the ending names something you would give up.",
-   "anchor": "last week",
-   "move": "sort one real event onto the route and one off it",
-   "principles": [
-    "PP025",
-    "MO058"
-   ],
-   "dossiers": [
-    "lifes-purpose",
-    "goals"
-   ],
-   "sensitive": false,
-   "why": "PP025 treats purpose as a direction to pursue, not a goal to reach; MO058 looks at letting go of goals that cannot be reached. Together they ask what a chosen direction costs."
-  },
-  {
-   "id": "CP010",
-   "genre": "memoir",
-   "target": "care received",
-   "title": "The practical thing",
-   "text": "Recall a time someone came to you in a bad stretch and did something small and practical instead of saying anything wise. In 300 to 500 words, say what they did, in order, with the objects involved. Hold back how it felt until the last two sentences; there, say what the act did that words could not, or admit it did nothing you can name. If no memory fits, write the scene for an invented person and label it fiction.",
-   "done_when": "The act is in order with its objects, and feeling is held to the last two sentences.",
-   "anchor": "objects used in a small practical act",
-   "move": "postpone feeling to the last two sentences",
-   "principles": [
-    "A068",
-    "B099"
-   ],
-   "dossiers": [
-    "others"
-   ],
-   "sensitive": true,
-   "why": "A068 holds that friendship shows in presence during misfortune; B099 asks what help is actually welcome. Remembering a practical act keeps care concrete and avoids a speech about it."
-  },
-  {
-   "id": "CP011",
-   "genre": "memoir",
-   "target": "who you were",
-   "title": "A stranger with your name",
-   "text": "Find something you wrote or signed at least ten years ago. In 400 to 700 words, read it as if it came from a stranger who shares your name: what does the document seem to want? Then say one thing the stranger got right about you, and one thing you would not recognise in yourself now. Write about the document first and bring yourself in only in the final paragraph. If nothing like it survives, skip this prompt or write it as clearly labelled fiction.",
-   "done_when": "One thing the stranger got right, one you no longer recognise, and yourself absent until the final paragraph.",
-   "anchor": "an old signed or written document",
-   "move": "read your own document as a stranger",
-   "principles": [
-    "E083",
-    "CO010"
-   ],
-   "dossiers": [
-    "the-self"
-   ],
-   "sensitive": false,
-   "why": "E083 holds identity as both continuity and change, and CO010 treats thinking as story-making. An old document tests the story against something written before the story was settled."
-  },
-  {
-   "id": "CP012",
-   "genre": "memoir",
-   "target": "a grievance, re-examined",
-   "title": "What a camera would have caught",
-   "text": "Recall a small quarrel in which you were fairly sure you were right. In 300 to 500 words, write only what a camera could have recorded: what was said and who stood where. Then add one paragraph listing three assumptions you made in that moment that no camera could have shown. Leave who was right unsettled. Choose a low-stakes memory; if none comes, hand the quarrel to two invented people and say that you did.",
-   "done_when": "A camera-only account, then exactly three assumptions in a separate paragraph, and no verdict.",
-   "anchor": "a small quarrel",
-   "move": "separate the recordable from the assumed",
-   "principles": [
-    "B140",
-    "A060"
-   ],
-   "dossiers": [
-    "anger",
-    "cognition"
-   ],
-   "sensitive": false,
-   "why": "B140 asks what has actually been heard and what the listener supplied; A060 turns on whether someone acted knowingly. The exercise separates what happened from what was assumed about it, before any question of forgiving."
-  }
- ]
+  "schemaVersion": 2,
+  "edition": "2.0-editor-v1",
+  "families": [
+    {
+      "id": "suffering",
+      "label": "Suffering & Alleviation"
+    },
+    {
+      "id": "wisdom",
+      "label": "Wisdom & Discernment"
+    },
+    {
+      "id": "attention",
+      "label": "Attention & Presence"
+    },
+    {
+      "id": "decision",
+      "label": "Decision & Agency"
+    },
+    {
+      "id": "identity",
+      "label": "Identity & Self"
+    },
+    {
+      "id": "time",
+      "label": "Time & Impermanence"
+    },
+    {
+      "id": "meaning",
+      "label": "Meaning & Purpose"
+    },
+    {
+      "id": "others",
+      "label": "Others & Relationship"
+    },
+    {
+      "id": "uncertainty",
+      "label": "Uncertainty & Change"
+    },
+    {
+      "id": "desire",
+      "label": "Desire & Appetite"
+    },
+    {
+      "id": "courage",
+      "label": "Courage & Fear"
+    },
+    {
+      "id": "silence",
+      "label": "Silence, Stillness, Rest"
+    }
+  ],
+  "prompts": [
+    {
+      "id": "S0001",
+      "family": "time",
+      "text": "When does accepting a limit become giving up?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A008",
+          "title": "Accept that flourishing takes a whole life",
+          "why": "Aristotle's test is the whole life, not the season — try writing the limit against that longer ledger."
+        },
+        {
+          "kind": "principle",
+          "ref": "S115",
+          "title": "Handle anxiety by returning to the present",
+          "why": "Marcus's return-to-the-present move can be read as either wisdom or avoidance — the essay is deciding which."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0002",
+      "family": "suffering",
+      "text": "Can paying attention be an act of care?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "Y073",
+          "title": "Bind attention to one place",
+          "why": "The sutra says attention needs somewhere to land; who or what it lands on is your question."
+        },
+        {
+          "kind": "principle",
+          "ref": "A018",
+          "title": "Practice friendliness (philia)",
+          "why": "Aristotle's friendliness is a reading of the room — attention is how you read it."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0003",
+      "family": "meaning",
+      "text": "What makes a life worthwhile when feeling good isn't possible?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A001",
+          "title": "Make eudaimonia the organising end of your life",
+          "why": "Aristotle separates living well from feeling pleasant; write from the far side of that line."
+        },
+        {
+          "kind": "principle",
+          "ref": "A010",
+          "title": "Recognise that fortune can overturn happiness",
+          "why": "Aristotle admits fortune can wreck a good life — write about what survives that admission."
+        }
+      ],
+      "dossier": "genuine-flourishing",
+      "sensitive": false
+    },
+    {
+      "id": "S0004",
+      "family": "uncertainty",
+      "text": "Is there a difference between hoping and preparing?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P163",
+          "title": "Practice creative hopelessness — let go of what isn't working",
+          "why": "The Kanter paper defines creative hopelessness as contact with the futility of avoidance — write your own hope/prepare line against that discovery."
+        },
+        {
+          "kind": "principle",
+          "ref": "S115",
+          "title": "Handle anxiety by returning to the present",
+          "why": "Marcus's return to what can be done now is preparation, not optimism."
+        }
+      ],
+      "dossier": "uncertainty",
+      "sensitive": false
+    },
+    {
+      "id": "S0005",
+      "family": "identity",
+      "text": "Who would you be without the thing you're most proud of?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "PP024",
+          "title": "Build narrative coherence",
+          "why": "The McAdams research codes redemption and contamination sequences — try your story against both codes."
+        },
+        {
+          "kind": "principle",
+          "ref": "A025",
+          "title": "Practice proper pride (kaucha)",
+          "why": "Aristotle's proud person claims exactly what they've earned; test the claim without the pride."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0006",
+      "family": "desire",
+      "text": "What do you want when you're not being watched?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "MO018",
+          "title": "Recognise the difference between needs and wants — not all desires are equal",
+          "why": "Epicurus sorts desires into natural-necessary, natural-but-unecessary, and empty — where does yours fall?"
+        },
+        {
+          "kind": "principle",
+          "ref": "A012",
+          "title": "Practice temperance (sophrosyne)",
+          "why": "Aristotle's temperate person's appetite 'harmonizes with the rational principle' — try writing the disharmony."
+        }
+      ],
+      "dossier": "motivation",
+      "sensitive": false
+    },
+    {
+      "id": "S0007",
+      "family": "attention",
+      "text": "What are you training your attention to want?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "Y073",
+          "title": "Bind attention to one place",
+          "why": "The sutra defines binding attention to a place — the interesting question is what your attention is bound to."
+        },
+        {
+          "kind": "kernel",
+          "ref": "K103",
+          "title": "Noting and labeling",
+          "why": "Noting is the practice of seeing where attention goes — run it on yourself for a paragraph."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0008",
+      "family": "decision",
+      "text": "What is the smallest choice you keep not making?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "B022",
+          "title": "Set right intention",
+          "why": "SN 45.8 puts resolve before speech and action — what aim is stuck behind the undone choice?"
+        },
+        {
+          "kind": "principle",
+          "ref": "A003",
+          "title": "Make virtue your primary investment",
+          "why": "Virtue is 'made perfect by habit', Aristotle says — the small undone choice is the habit in rehearsal."
+        }
+      ],
+      "dossier": "decision-making",
+      "sensitive": false
+    },
+    {
+      "id": "S0009",
+      "family": "wisdom",
+      "text": "When is being smart worse than being kind?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A040",
+          "title": "Practise the unity of the virtues",
+          "why": "Aristotle says Socrates was half right — the virtues imply practical wisdom — write the case for the other half."
+        },
+        {
+          "kind": "principle",
+          "ref": "A019",
+          "title": "Practice truthfulness (aletheia)",
+          "why": "Aristotle's truthful person 'calls a thing by its own name' — name the thing kindness would soften."
+        }
+      ],
+      "dossier": "wisdom",
+      "sensitive": false
+    },
+    {
+      "id": "S0010",
+      "family": "silence",
+      "text": "What are you avoiding by staying busy?",
+      "connections": [
+        {
+          "kind": "kernel",
+          "ref": "K112",
+          "title": "Scheduled empty time",
+          "why": "Empty time is scheduled on purpose — write what shows up when you do."
+        },
+        {
+          "kind": "principle",
+          "ref": "S115",
+          "title": "Handle anxiety by returning to the present",
+          "why": "Marcus says return 'as soon as may be' — write whether your busyness is that return or a postponement of it."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0011",
+      "family": "others",
+      "text": "Who taught you how to love, and were they any good at it?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A018",
+          "title": "Practice friendliness (philia)",
+          "why": "Aristotle's middle is between agreeing with everything and objecting to everything — who taught you which side you're on?"
+        },
+        {
+          "kind": "principle",
+          "ref": "D031",
+          "title": "Treasure 1 — compassion (ci)",
+          "why": "Laozi's first treasure is gentleness that can still be bold — write where you learned that combination, or didn't."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0012",
+      "family": "courage",
+      "text": "What would you do if you weren't afraid of looking foolish?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A021",
+          "title": "Practice shame (aidos)",
+          "why": "Aristotle says shame is for the still-training — write the flush you haven't outgrown."
+        },
+        {
+          "kind": "principle",
+          "ref": "AF049",
+          "title": "Learn to work with panic — panic is fear of fear",
+          "why": "Clark's model separates the sensation from the catastrophe you predict — write the gap."
+        }
+      ],
+      "dossier": "agency",
+      "sensitive": false
+    },
+    {
+      "id": "S0013",
+      "family": "time",
+      "text": "What is one thing you'd regret not starting this year?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "M037",
+          "title": "Number your days; we only borrow our time",
+          "why": "The Cantares poem does arithmetic with a shrinking balance — write what this month's share should go to."
+        },
+        {
+          "kind": "principle",
+          "ref": "A008",
+          "title": "Accept that flourishing takes a whole life",
+          "why": "A whole life is made of years — write the one you're inside of."
+        }
+      ],
+      "dossier": "lifes-purpose",
+      "sensitive": false
+    },
+    {
+      "id": "S0014",
+      "family": "suffering",
+      "text": "Whose suffering are you tired of hearing about — and why that one?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "B099",
+          "title": "Respond to suffering with the wish to relieve it (karuna in action)",
+          "why": "The sutta's image is a mother's protectiveness — write where yours runs out."
+        },
+        {
+          "kind": "principle",
+          "ref": "A026",
+          "title": "Practice patience with others' faults",
+          "why": "Aristotle warns against the person who never gets angry at what deserves it — write your line."
+        }
+      ],
+      "dossier": "affect",
+      "sensitive": false
+    },
+    {
+      "id": "S0015",
+      "family": "meaning",
+      "text": "What would you do even if no one ever knew?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A019",
+          "title": "Practice truthfulness (aletheia)",
+          "why": "Truthfulness is owning what you have, 'neither more nor less' — write what you'd do if no one checked."
+        },
+        {
+          "kind": "principle",
+          "ref": "A009",
+          "title": "Pursue kalokagathia — nobility-and-goodness as a unified ideal",
+          "why": "The noble-and-good possess the virtues 'for themselves' — write the act that needs no witness."
+        }
+      ],
+      "dossier": "lifes-purpose",
+      "sensitive": false
+    },
+    {
+      "id": "S0016",
+      "family": "decision",
+      "text": "What does 'enough' look like for you?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "Y036",
+          "title": "Train contentment as a skill",
+          "why": "Patañjali ties contentment to 'superlative pleasure' — try describing your enough."
+        },
+        {
+          "kind": "principle",
+          "ref": "A024",
+          "title": "Practice liberality with your resources",
+          "why": "The liberal person gives 'the right amounts... on the right objects' — the question is how you know."
+        }
+      ],
+      "dossier": "goals",
+      "sensitive": false
+    },
+    {
+      "id": "S0017",
+      "family": "wisdom",
+      "text": "What do you know that you don't act on?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A003",
+          "title": "Make virtue your primary investment",
+          "why": "Character is 'made perfect by habit' — the gap between knowing and doing is where the habit forms or doesn't."
+        },
+        {
+          "kind": "principle",
+          "ref": "B008",
+          "title": "Treat the truths as tasks, not beliefs",
+          "why": "The sutta assigns each truth a duty — what would count as having done this one?"
+        }
+      ],
+      "dossier": "wisdom",
+      "sensitive": false
+    },
+    {
+      "id": "S0018",
+      "family": "attention",
+      "text": "What is the hour of your day that's most yours?",
+      "connections": [
+        {
+          "kind": "kernel",
+          "ref": "K112",
+          "title": "Scheduled empty time",
+          "why": "Empty time is a slot you defend — which hour is yours?"
+        },
+        {
+          "kind": "kernel",
+          "ref": "K113",
+          "title": "Transition pause",
+          "why": "The transition pause is the hinge between two activities — write the hinge of your day."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0019",
+      "family": "identity",
+      "text": "Which of your beliefs is actually someone else's?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "PP024",
+          "title": "Build narrative coherence",
+          "why": "Narrative coherence is a story with sequence — write the belief that arrived without one."
+        },
+        {
+          "kind": "principle",
+          "ref": "SE037",
+          "title": "Recognise identity foreclosure — premature commitment blocks growth",
+          "why": "Marcia's foreclosure subject can't tell where their parents' goals end and theirs begin — write the belief that never got explored."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0020",
+      "family": "uncertainty",
+      "text": "What would you do differently if you knew you couldn't fail — and what does that tell you?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P163",
+          "title": "Practice creative hopelessness — let go of what isn't working",
+          "why": "Creative hopelessness is the discovery that avoidance is what isn't working — write what you'd do without it."
+        },
+        {
+          "kind": "principle",
+          "ref": "AF049",
+          "title": "Learn to work with panic — panic is fear of fear",
+          "why": "Clark's model separates the bodily sensation from the catastrophic prediction — apply that separation to your own fear."
+        }
+      ],
+      "dossier": "agency",
+      "sensitive": false
+    },
+    {
+      "id": "S0021",
+      "family": "others",
+      "text": "What is the kindest thing someone did for you that you never thanked them for?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "K053",
+          "title": "Practice recognizing the kindness you have received",
+          "why": "The Bo-do-wa teaching is recognizing kindness already received — write the one you never named."
+        },
+        {
+          "kind": "principle",
+          "ref": "D031",
+          "title": "Treasure 1 — compassion (ci)",
+          "why": "Compassion (ci) is Laozi's first treasure — write the kindness that arrived without a note."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0022",
+      "family": "desire",
+      "text": "What did you want that you got — and it wasn't what you thought?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "MO018",
+          "title": "Recognise the difference between needs and wants — not all desires are equal",
+          "why": "Epicurus's empty desires are 'due to illusory opinion' — write the one you held and what was actually there."
+        },
+        {
+          "kind": "principle",
+          "ref": "Y036",
+          "title": "Train contentment as a skill",
+          "why": "Contentment is trained by recording both — write the want that survived getting."
+        }
+      ],
+      "dossier": "motivation",
+      "sensitive": false
+    },
+    {
+      "id": "S0023",
+      "family": "courage",
+      "text": "Where in your life are you brave in small ways every day?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A011",
+          "title": "Practice courage (andreia)",
+          "why": "Aristotle's battlefield case is the noble death — write the small modern trade you make daily and price it honestly."
+        },
+        {
+          "kind": "principle",
+          "ref": "A003",
+          "title": "Make virtue your primary investment",
+          "why": "Brave acts make brave people, Aristotle says — write the small ones you already do."
+        }
+      ],
+      "dossier": "agency",
+      "sensitive": false
+    },
+    {
+      "id": "S0024",
+      "family": "silence",
+      "text": "What does it feel like to sit with someone and say nothing?",
+      "connections": [
+        {
+          "kind": "kernel",
+          "ref": "K101",
+          "title": "Open monitoring",
+          "why": "Open monitoring is watching what's there without chasing it — write sitting still with someone."
+        },
+        {
+          "kind": "principle",
+          "ref": "A018",
+          "title": "Practice friendliness (philia)",
+          "why": "Friendliness is a middle disposition — silence can be its own version."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0025",
+      "family": "time",
+      "text": "What is the moment you'd live again if you could?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A008",
+          "title": "Accept that flourishing takes a whole life",
+          "why": "The swallow doesn't make the summer — write the moment you'd count as one swallow."
+        },
+        {
+          "kind": "kernel",
+          "ref": "K110",
+          "title": "Savoring",
+          "why": "Savoring is the practice of staying with something good — write the moment you'd stay in."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0026",
+      "family": "suffering",
+      "text": "What is the cost of pretending you're fine?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A019",
+          "title": "Practice truthfulness (aletheia)",
+          "why": "Truthfulness is owning your part 'neither more nor less' — write the cost of the false picture."
+        },
+        {
+          "kind": "principle",
+          "ref": "S115",
+          "title": "Handle anxiety by returning to the present",
+          "why": "Marcus says be troubled and return 'as soon as may be' — write the pretending in between."
+        }
+      ],
+      "dossier": "affect",
+      "sensitive": false
+    },
+    {
+      "id": "S0027",
+      "family": "meaning",
+      "text": "What is the smallest thing that makes a day feel worth living?",
+      "connections": [
+        {
+          "kind": "kernel",
+          "ref": "K106",
+          "title": "Five-senses grounding",
+          "why": "Five-senses grounding is attention to what's actually here — write the smallest good thing in the room."
+        },
+        {
+          "kind": "principle",
+          "ref": "A001",
+          "title": "Make eudaimonia the organising end of your life",
+          "why": "Eudaimonia is activity over a life — write the small activity that carries the whole."
+        }
+      ],
+      "dossier": "happiness",
+      "sensitive": false
+    },
+    {
+      "id": "S0028",
+      "family": "wisdom",
+      "text": "What do you believe that you'd be embarrassed to defend out loud?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A019",
+          "title": "Practice truthfulness (aletheia)",
+          "why": "Aristotle's boaster is the worse character, but mock-modesty has its own contempt — write the belief you understate."
+        },
+        {
+          "kind": "principle",
+          "ref": "P033",
+          "title": "Let truth change its face",
+          "why": "Putnam separates changing descriptions from changing facts — write the belief you'd re-describe."
+        }
+      ],
+      "dossier": "wisdom",
+      "sensitive": false
+    },
+    {
+      "id": "S0029",
+      "family": "attention",
+      "text": "What are you missing right now because you're reading this?",
+      "connections": [
+        {
+          "kind": "kernel",
+          "ref": "K101",
+          "title": "Open monitoring",
+          "why": "Open monitoring notices what attention is doing — including right now."
+        },
+        {
+          "kind": "principle",
+          "ref": "Y073",
+          "title": "Bind attention to one place",
+          "why": "The sutra says attention needs a place — this prompt is one of them."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0030",
+      "family": "others",
+      "text": "What is the thing you'd forgive someone for, but only if they asked?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A026",
+          "title": "Practice patience with others' faults",
+          "why": "Aristotle's gentle person still objects on the right grounds — write the forgiveness that needs asking."
+        },
+        {
+          "kind": "principle",
+          "ref": "A017",
+          "title": "Practice gentleness (praotes)",
+          "why": "Praotes is anger at the right things, in the right way — write the limit you'd hold gently."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    }
+  ]
 }
