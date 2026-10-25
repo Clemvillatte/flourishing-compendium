@@ -405,3 +405,22 @@ uncited paragraphs — one split had dropped a link and was restored;
 quote count 29 -> 32 as a result). Checks: dossier_check exit 0
 (35 card links, 17 headers, 27 carriers); quote_verify 32 checked /
 0 not found; density 0; app.js rebuilt (78 blocks), node --check OK.
+
+## Independent post-release verification (2026-10-25 10:56Z, launcher-pplx-1025b, no baton)
+
+Both Freud spans from the dos28 close independently re-verified against a
+freshly downloaded copy of the Strachey Standard Edition text of Mourning
+and Melancholia. The dossier's carrier URL (the ia803101.us.archive.org
+node) was NOT reachable from this environment (connection closed); the
+same item file was fetched via the canonical
+https://archive.org/download/FreudMourningAndMelancholia/Freud_MourningAndMelancholia_text.pdf
+path (same item, 479 KB PDF). Both spans match the extracted text
+word-for-word: "when the work of mourning is completed the ego becomes
+free and uninhibited again" and "each single one of the memories and
+expectations in which the libido is bound to the object is brought up and
+hypercathected, and detachment of the libido is accomplished in respect
+of it" (the printed text capitalizes "Each" at its sentence start; the
+dossier embeds it mid-sentence with lowercase — standard case adjustment,
+wording otherwise exact). Robustness note: the canonical archive.org
+download URL is the more durable carrier if a future pass wants to update
+the link; no dossier change required now.
