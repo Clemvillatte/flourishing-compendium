@@ -683,3 +683,44 @@ State: batch file left at in_progress; the final advisor verification
 remains open for the next pass. No carriers newly opened this pass; all
 quote carriers were opened in prior sessions per this ledger and
 live-matched by dossier_quote_verify.py this session.
+
+## Takeover rethreading pass (2026-10-25, worker-pplx-dos21-1025g, commits dc8676d62 b0a47dd9a)
+
+The prior QC flagged the character-answer block (lines 65-67, 75-81,
+95-101 of the pre-takeover text) as card-enumeration paragraphs. This
+pass rethreaded them, in order of the file, with every change bounded
+by the cards' own glosses (the 2026-10-25 gfva-1025a card-fidelity
+sweep verified all 47 map glosses):
+
+- "How conduct is trained" intro: the three answers now introduced by
+  the question each asks (what to do / where the doing happens / who is
+  doing it); no ranking asserted between them.
+- Character answer: Natural virtue now stands on its own (the born-
+  with-it puzzle); the catalogue/cardinal/unity cluster opens with
+  "For those not born with the disposition, the tradition tables the
+  character virtues" (the bridge the cards' own content supplies);
+  Virtue ethics, the normative-approach card, moved out of the body
+  prose (its gloss is carried by the unity entry; the card remains
+  linked from the Nearby-terms scope where it was already named).
+- Habituation paragraph: the three act-first claims (Action before
+  feeling, Action precedes feeling, The rehearsal of virtue) kept
+  together as the tradition-spanning cluster; Confucian xiushen moved
+  to its own paragraph with Effortless action through long effort,
+  the body-fixing reading of the term as the bridge between them.
+- Situation answer: Dewey's term stated first; the situationist
+  findings named as backing Dewey's placement; the "If the setting
+  carries that much of the outcome" bridge left as the reader's
+  inference to draw, with the design and Yoga Sutra entries following
+  it; the "The training that follows need not be only inward" and
+  "The situations these studies describe carry much of the effect in
+  their designs" claims removed (both were inferences the cards do
+  not state).
+- Care/justice: the gloss restored as the card's own contrast, with
+  the two questions stated side by side (what the relation asks /
+  what anyone in that position owes).
+
+No carriers newly opened this pass. All changes stay inside the
+card-fidelity-swept glosses. Checks: dossier_check exit 0 (63 card
+links, 20 headers, 14 carriers); density 0; the Virtue ethics card
+link count change (65 -> 63) is the moved card plus the prior ST384
+gloss removal, both recorded above.
