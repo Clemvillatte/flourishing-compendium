@@ -321,3 +321,11 @@ routed decisions for you:
 - s1a-065: the Pang verse wording was re-verified against a fresh fetch of
   the WCP page ("In every place there is no hindrance, nor conflict.");
   the draft and ledger now match it, and the QC note records the correction.
+
+## s1a-071 register note 2026-10-25 (T+20)
+
+B072 (vossagga) target fit: the Ralston story carries relinquishment at the
+physical register (the shift from freeing the arm to releasing it); the
+page's MN 118 practice is breath-paced and mental, and the draft names that
+facet as not carried. If you judge the register gap too wide, the draft
+reassigns to a decision-under-extremity principle of your choosing.
