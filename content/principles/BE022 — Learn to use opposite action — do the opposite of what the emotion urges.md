@@ -20,7 +20,7 @@ The skill is conditional, not universal. The teaching notes state the condition 
 
 The demand is completeness, verbatim: "When you do opposite action, do it all the way. This means opposite posture, facial expression, thinking, what you say, and how you say it. 'Halfway' opposite action does not work."
 
-**Plain words** A feeling comes with a ready-made next move. The manual's warning is that the ready move is only worth following when the feeling fits the facts. Its traffic example: fear of a child in the road fits — the fear stays. When the fit is off, and knowing the facts does not change the emotion, the instruction is to act opposite to the urge, all the way, repeatedly. "'Halfway' opposite action does not work" is the manual's own line.
+**Plain words** Every emotion arrives with a next move attached: fear says avoid, shame says hide, anger says attack. The DBT skill is to check the move against the facts first, and only when the feeling is off-key to run the move in reverse — posture, face, thoughts, words and tone included, since the manual insists half-measures do nothing. When the feeling fits the facts, like fear of a child in traffic, you keep the feeling and drop the skill.
 
 *For example:* Suppose the urge after a conflict is to withdraw and wait to be pursued. Whether opposite action fits depends on the facts: if the fear of abandonment does not fit them, the opposite action might be a message that says you are still in this. The skill is conditional, not automatic, and it does not imply renewed contact is appropriate after every conflict.
 
