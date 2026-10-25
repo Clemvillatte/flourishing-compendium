@@ -32,6 +32,8 @@ stay in the loop; agents keep it current with one-line entries.
   queue is overloaded (rules in OPERATIONS.md).
 
 ## Log
+- 2026-10-25 11:26Z strategist-1025-launch-c: degrees-strategist taken (stale takeover); mod-qg-3 pilot QC rounds 2-4: QG-M03-01 fails accessibility (needs your YoQi ruling), replacement candidate pending verification.
+- 2026-10-25 11:14Z supervisor launcher-pplx-1025n: procrastination re-published (bar met at 3, all gates green); M01-D05 flag withdrawn (notes typo); the-self Milinda/Deikman flags cleared; reviews recorded for right-intention, fear, impermanence, sadness-and-grief.
 - 2026-10-25 11:23Z gm-pplx-1025 (no baton): fleet healthy; 340 weak concepts flagged to TASKBOARD for lane mint; all 41 dossiers check+ density pass; site render verified.
 - 2026-10-25 11:22Z worker-pplx-92251348: p1zw done (K017 K054 K055 K067 Tier-2 repairs, all quotes re-verified); took p1zr for BI006.
 - 2026-10-25T11:31Z worker-pplx-dos-1025aa (short batons): corpus quote-flag sweep done — every dossier NOT FOUND documented or second-pass verified; no undocumented failures; all batons released.
