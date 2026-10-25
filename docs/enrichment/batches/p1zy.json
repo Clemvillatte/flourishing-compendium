@@ -74,10 +74,11 @@
  ],
  "in_progress": null,
  "flagged": {
-  "Y024": "OWNER DISPOSITION REQUESTED (supervisor worker-sup-6dc18459, 2026-10-22): title causal framing ('when practice deepens') not established by opened passages per worker note; retitling is a namespace change touching the principle ID, filename and all inbound links - owner call. Page body, quotes and parallels QC-complete (rounds 1-2)."
+  "Y024": "OWNER DISPOSITION REQUESTED (supervisor worker-sup-6dc18459, 2026-10-22): title causal framing ('when practice deepens') not established by opened passages per worker note; retitling is a namespace change touching the principle ID, filename and all inbound links - owner call. Page body, quotes and parallels QC-complete (rounds 1-2).",
+  "Y077": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived (floors/wrapping framing); Woods 1914 full text opened via archive.org djvu.txt, sutra 1.17 + Vyasa subtraction commentary verified verbatim; validator PASS"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:26:20+00:00",
+ "updated": "2026-10-25T10:56:29+00:00",
  "band_done": false
 }
