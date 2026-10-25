@@ -258,3 +258,64 @@ artifacts (immortaliry, merged spacing) were normalized for the comparison.
 REGISTRATION: still an open owner question (impermanence-replaces-it vs its
 own slug) — recorded in the supervisor note at handoff.md; the file is
 publication-ready once that ruling lands.
+## Pass 3 — advisor QC round 1 applied (2026-10-25, worker-pplx-dossiers-1025bb)
+
+The advisor reviewed the pass-2 restructure and found the paragraph bridges
+weak, the practice-kernel sentences evidence-shaped, and the claim evidence
+thin for claims inherited from the old map. All findings applied:
+
+1. Carriers opened and read this pass (each supporting a retained or newly
+   linked claim): AN 5.57 Thanissaro (accesstoinsight; intoxication and five
+   facts sentences quoted verbatim), Wikipedia "Heideggerian terminology"
+   (E043's "old enough to die" line, verbatim), dhspriory BeingTime07.doc
+   (E054's "ownmost possibility—non-relational, certain and as such
+   indefinite, not to be outstripped", verbatim), Gutenberg 15877 Long
+   Meditations IV.17 (quoted in full in the body now), Maffie IEP "Aztec
+   Philosophy" (Cantares poem, fol. 17r, León-Portilla trans., verbatim),
+   Jansen et al. 2019 PMC6740004 (DAP-R three acceptance types, verbatim),
+   Nagel PDF (three inline fragments), Epicurus MIT ("good and evil imply
+   awareness"), Spinoza Bennett ("isn't led by fear of death" +
+   demonstration), Frias PDF (Cozzolino contrast + apartment fire),
+   E-utilities PubMed 20097885 (Burke figures).
+2. The Cozzolino greed claim reworded: the old framing ("extrinsic
+   participants shifted toward greed") was the Death reflection card's
+   reading of Cozzolino et al. 2004; the Sage page is bot-blocked and was
+   NOT opened this pass. The dossier now carries Frias 2011's own verbatim
+   summary of that contrast ("increased greed, racism, and ethnocentrism" /
+   "salubrious results, such as increased intrinsic behavior and less
+   greed") with the Frias carrier, so every quoted span traces to an opened
+   carrier. Sage NOT-OPENED documented here.
+3. Disagreement count made honest, per the advisor ruling: "Do reminders of
+   death make people defensive or grateful?" is NOT substantiated (its own
+   text said the two literatures "do not strictly contradict each other");
+   it moved into the body ("What reminders of dying do to people") as a
+   bounded comparison with the writer's lean folded in. Count under the
+   standard heading: 3 (Epicurus/Nagel; Marcus/Spinoza; Williams/Nagel,
+   reframed so the opposition is on one proposition — would an unending life
+   be better for the person living it? — with the compatibility limit kept
+   explicit). SUPERVISOR: this dossier is unregistered, so the 3-5 bar is a
+   registration-time question; 3 substantiated + 1 documented bounded
+   comparison is the honest state.
+4. Prose repairs: opening triad dissolved; "Heideggerian machinery" /
+   "a sharper construct" / "completes the map of stances" removed; the
+   "My cards do not record" self-narration removed; the repeated "The
+   shared question / My lean / Limits" labels woven into ordinary
+   paragraphs; "Put side by side" opener removed; practice kernels K222/K226
+   given real "what to notice" second sentences; story intro rewritten.
+5. Card bodies read this pass for claim fidelity: Being-toward-death,
+   Finitude, Death reflection, Death acceptance, B055, B193, S089, S104,
+   M037, P106, D090, SP068, E043, E054, K222, K226, K316, ST272. All
+   retained glosses match their cards.
+6. Corrections to the pass-2 ledger entry: "all quotes verified" now
+   precise — blockquotes verified by script or by eye; the inline fragments
+   listed in item 1 verified by eye against opened carriers. The pass-2
+   entry's implicit "cards read" claim is superseded by item 5 (the pass-2
+   rewrite reused old-map glosses without opening the cards; this pass
+   opened them).
+
+Checks after pass 3: dossier_check.py exit 0 (25 card links, 13 headers,
+20 external carriers); dossier_density.py 0 dense; no paragraph over 150
+visible words; dossier_quote_verify 22 checked, 5 not found — all five are
+the documented exception class (Williams OCR PDF x2, Burke PubMed,
+Klein Collabra x2), each confirmed by eye against an alternative carrier
+this session (PDF fetch; E-utilities; journal page fetch).
