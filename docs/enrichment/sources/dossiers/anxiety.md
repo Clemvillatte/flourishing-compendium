@@ -73,3 +73,22 @@ Concept of Anxiety) was re-opened this session. The "dizziness of
 freedom" passage is verbatim, including the ellipsis. The dossier
 correctly labels it as a secondary source quoting the primary text.
 No discrepancy found. Other carriers were not re-opened this session.
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos8 baton)
+
+Reviewed all 5 candidates against the current file (fresh audit run).
+No scaffolds removed; all 5 flagged constructions state their sources'
+actual doctrines, with real foils on both sides: line 55 (Aristotle's
+brave person does not lack fear but fears the right things — the
+courage doctrine itself), 259 (Kierkegaard's Adam: anxiety not about
+the apple but about the possibility of possibility — The Concept of
+Anxiety's actual claim), 261 (Heidegger: death not an event at the end
+of a life but the possibility each person is — the being-toward-death
+doctrine), 265 (Ivan Ilyich: fear not of death in the abstract but of
+the wrongness of a life — Tolstoy's narrative point), 273 (the monkey
+simile: the training not to cage the mind but to give it a post worth
+staying near — the caging worry is a real objection to concentration
+practice, and the simile's ranging-then-staying carries the contrast).
+
+Checks: dossier_check.py exit 0. Editorial review only; no carriers or
+cards freshly opened this pass. Scope: candidate-line review.
