@@ -946,7 +946,7 @@
    "stid": "ST428"
   },
   "s1a-022": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "MN 36 austerities pivot B026",
    "history": [
     {
@@ -977,6 +977,11 @@
      "t": "2026-10-23T11:48:59+00:00",
      "to": "qc_pending",
      "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T14:01:10+00:00",
+     "to": "ready",
+     "note": "verification pass: all eight ledger quotes plus three body strings matched verbatim in the re-opened MN 36 page; ready"
     }
    ],
    "stid": "ST429"
@@ -1781,5 +1786,5 @@
    ]
   }
  },
- "updated": "2026-10-25T14:00:56+00:00"
+ "updated": "2026-10-25T14:01:10+00:00"
 }
