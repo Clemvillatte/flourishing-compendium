@@ -49,7 +49,7 @@ Schopenhauer's line on desire, from the encyclopedia entry on him:
 
 [ERG Theory](https://clemvillatte.github.io/flourishing-compendium/#card=ERG%20Theory): Alderfer's frustration-regression: when needs in a higher category are frustrated, effort is invested in the lower categories, existence and relatedness.
 
-[Effort-reward imbalance](https://clemvillatte.github.io/flourishing-compendium/#card=Effort-reward%20imbalance): Siegrist's model of the high cost, low gain condition, where continued failed reciprocity at work frustrates basic reward expectations; the model's own summary reports prospective studies tying the imbalance to risk of depressive disorders.
+[Effort-reward imbalance](https://clemvillatte.github.io/flourishing-compendium/#card=Effort-reward%20imbalance): Siegrist's model of the high cost, low gain condition, where continued failed reciprocity at work frustrates basic reward expectations; the model's own summary reports associations of failed reciprocity with reduced mental health, measured by depressive symptoms, including one prospective link two years on.
 
 [Autonomy](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomy): self-determination research lists autonomy among three basic needs whose satisfaction and frustration track wellness.
 
