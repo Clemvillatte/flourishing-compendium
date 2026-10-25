@@ -163,3 +163,7 @@ Framework entry. No mismatches found; no edits made.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
 review only; no external carriers freshly opened this pass.
+
+## Rewrite in the validated model (2026-10-25)
+
+Quotes re-opened for this rewrite and matched against the wording on the page: Analects 2.10 (Legge, Gutenberg 3330, sentences split across numbered lines), Baltes and Staudinger 2000 (PubMed 11392856 abstract), Eyal, Steffel and Epley 2018 (PubMed 29620401), Kounios and Beeman 2014 (PubMed 24405359), Sanderse 2020 (Taylor and Francis abstract), Erikson via Javed and Kakul 2023 (MDPI, quote of Erikson as printed there), Grossmann 2021 (SAGE abstract), Grossmann and Kross 2014 (SAGE abstract). Erikson is quoted at second hand through Javed and Kakul and is labelled as such in the text.

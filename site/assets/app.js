@@ -3579,7 +3579,15 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "Wisdom is what everyone wants to be credited with, and its look-alikes are everywhere: cleverness, accumulated years, confident opinion. The classical accounts make it a capacity of judgment, seeing what is best in the particular case, and the research that tries to measure it mostly measures its neighbours. Whether wisdom can be cultivated or only matured is the open question, and the practices cluster around the answer."
+          "x": "I want to understand what we mean when we call a person wise. Everyone wants the credit, and the look-alikes are easy to find: cleverness, long experience, a confident opinion offered with great calm. I care about the difference because the decisions that shape a life are rarely settled by facts alone. They are settled by judgment, and judgment can be good or bad in ways that intelligence does not predict."
+        },
+        {
+          "t": "p",
+          "x": "I use wisdom here as a name for the capacity to see what a particular situation calls for and to act on it. That is close to what the classical accounts say, and it is a narrower claim than the research literature often makes. Much of the research measures wisdom's neighbours, such as knowledge, humility and perspective, and I want to keep asking how each of them bears on the judging itself."
+        },
+        {
+          "t": "p",
+          "x": "The question that organises everything else is whether this capacity can be built or only ripens with time. I do not think the sources settle it, and the practices at the end of this dossier are my attempt to take both possibilities seriously."
         },
         {
           "t": "h2",
@@ -3587,307 +3595,251 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "- Judgement and insight: held here under the map's judgement and insight groups; the closest anchors are [Reflective thinking](card:Reflective%20thinking) and [Insight research](card:Insight%20research). - Practical wisdom and phronesis: the same Aristotelian capacity under its English and Greek names, held by [Practical wisdom](card:Practical%20wisdom) and [Phronesis](card:Phronesis). - Flourishing: the life wisdom serves; the Genuine Flourishing dossier holds that question, and this one holds the capacity that steers toward it."
+          "x": "- Intelligence and cleverness: skill at reaching a goal, whatever the goal is. Aristotle separates [practical wisdom](card:Practical%20wisdom) from cleverness, and I follow him in the first section. - Knowledge: wisdom is often described as knowledge, but [Ryle's distinction](card:Knowing-how%20versus%20knowing-that) between ability and stored fact shows how much of it lives in what a person can do. - Humility: the stance toward one's own beliefs that [Leary and colleagues](card:Intellectual%20humility) define as recognising a belief may be wrong, which most accounts treat as part of wisdom. - Insight: the sudden reinterpretation that [Kounios and Beeman](card:Insight%20research) study. It can feed good judgment, and it is a different event. - Flourishing: the life that wisdom steers toward. The Genuine Flourishing dossier holds that question; this one holds the capacity that steers."
         },
         {
           "t": "h",
-          "x": "The map: every entry the wiki holds on wisdom"
+          "x": "What wise judgment asks of us"
         },
         {
           "t": "h2",
-          "x": "What wisdom is"
+          "x": "Two things called wisdom"
         },
         {
           "t": "p",
-          "x": "[Wisdom](card:Wisdom): the knowledge and judgment that experience is supposed to leave behind; the Berlin paradigm treats it as expertise in the fundamental pragmatics of life, and the wise-reasoning programme as metacognitive capacities people apply to social conflict."
+          "x": "Aristotle uses two words where English has one. [Sophia](card:Sophia) is knowledge of the highest and unchanging things:"
+        },
+        {
+          "t": "q",
+          "x": "\"Therefore wisdom must be intuitive reason combined with scientific knowledge-scientific knowledge of the highest objects which has received as it were its proper completion.\" ([Aristotle, Nicomachean Ethics VI.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "[Phronesis](card:Phronesis): Aristotle's virtue of practical wisdom: the capacity to deliberate well about what is good for oneself and for living well in general."
+          "x": "[Phronesis](card:Phronesis), the second kind, works on what to do. It is the capacity to deliberate well about what is good for oneself and for living well in general. The two answer different questions, and the rest of this dossier is mostly about the second."
         },
         {
           "t": "p",
-          "x": "[Practical wisdom](card:Practical%20wisdom): Aristotle's Book VI account, set beside Confucius: practical wisdom is not knowledge of general principles only, because action is concerned with particular details."
+          "x": "What makes phronesis hard is that it cannot stop at principles. Aristotle says it must reach the particular case:"
+        },
+        {
+          "t": "q",
+          "x": "\"Nor again does Practical Wisdom consist in a knowledge of general principles only, but it is necessary that one should know also the particular details, because it is apt to act, and action is concerned with details.\" ([Aristotle, Nicomachean Ethics VI, Chase translation](https://www.gutenberg.org/cache/epub/8438/pg8438.txt))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "[Sophia](card:Sophia): Aristotle's theoretical wisdom, a union of intuitive reason and scientific knowledge of the highest objects."
-        },
-        {
-          "t": "p",
-          "x": "[Prudence](card:Prudence): here Aristotle's practical wisdom, phronesis: a capacity for good deliberation connected with ethical virtue."
-        },
-        {
-          "t": "p",
-          "x": "[Prohairesis (deliberate choice)](card:Prohairesis%20%28deliberate%20choice%29): Aristotle's reasoned choice, joining desire for a goal with deliberation about action."
-        },
-        {
-          "t": "p",
-          "x": "[Wisdom theory Berlin paradigm](card:Wisdom%20theory%20Berlin%20paradigm): Baltes's account of wisdom as expert knowledge about the fundamental pragmatics of life: life planning, management and review."
-        },
-        {
-          "t": "p",
-          "x": "[Wise reasoning](card:Wise%20reasoning): Grossmann's programme: wisdom as a set of reasoning strategies people use, or fail to use, situation by situation, and not as a personality type."
-        },
-        {
-          "t": "p",
-          "x": "[Socioemotional wisdom](card:Socioemotional%20wisdom): the strength Erikson places at the end of the life cycle, won from the crisis of integrity versus despair."
-        },
-        {
-          "t": "p",
-          "x": "[Knowing-how versus knowing-that](card:Knowing-how%20versus%20knowing-that): Ryle's contrast between knowledge that shows in ability and knowledge that something is the case."
-        },
-        {
-          "t": "p",
-          "x": "[Knowing-how](card:Knowing-how): the kind of knowledge that shows in ability, in Ryle's The Concept of Mind (1949)."
-        },
-        {
-          "t": "p",
-          "x": "[Knowing-that](card:Knowing-that): the propositional side of Ryle's contrast, knowledge that can be true or false, stated and imparted."
-        },
-        {
-          "t": "p",
-          "x": "[Knowing by acquaintance](card:Knowing%20by%20acquaintance): direct knowledge by standing in the experience of a thing, not by holding a description of it."
+          "x": "[Ryle's distinction](card:Knowing-how) gives the same thought a modern shape. Some knowledge shows in ability and cannot be reduced to a list of true statements. A person can know every rule of good conduct and still be unable to apply one to a friend in trouble. That gap is where wisdom does its work."
         },
         {
           "t": "h2",
-          "x": "Knowing the limits of what you know"
+          "x": "Cleverness is not enough"
         },
         {
           "t": "p",
-          "x": "[Socratic wisdom](card:Socratic%20wisdom): the wisdom Plato's Apology gives Socrates after the Delphic oracle: knowing that you do not know."
+          "x": "If wisdom is skill at particulars, what separates it from plain skill? Aristotle's answer is the aim. A clever person can reach any goal; a wise one chooses a worthwhile goal first:"
+        },
+        {
+          "t": "q",
+          "x": "\"Now if the mark be noble, the cleverness is laudable, but if the mark be bad, the cleverness is mere smartness; hence we call even men of practical wisdom clever or smart.\" ([Aristotle, Nicomachean Ethics VI.12](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "[Socratic ignorance](card:Socratic%20ignorance): Socrates's profession at his trial that he does not know the things that matter most and, unlike others, does not think he does."
+          "x": "He then binds the two together in both directions. There is no strict goodness without practical wisdom, and no practical wisdom without moral virtue. [Natural virtue](card:Natural%20virtue), the dispositions to courage or self-control that people seem to have from birth, is not enough either, because without reason such dispositions can be harmful. The tradition that lists [prudence beside justice, courage and temperance](card:Cardinal%20virtues) keeps the same thought: judgment is one of the things a good character is made of."
         },
         {
           "t": "p",
-          "x": "[Intellectual humility](card:Intellectual%20humility): the recognition that one's beliefs might be wrong, in Leary and colleagues' 2017 paper."
-        },
-        {
-          "t": "p",
-          "x": "[Epistemic humility](card:Epistemic%20humility): the disposition psychology usually calls intellectual humility: treating one's own beliefs as possibly wrong."
-        },
-        {
-          "t": "p",
-          "x": "[Humility](card:Humility): in Tangney's review, not self-deprecation but an accurate assessment of one's characteristics."
-        },
-        {
-          "t": "p",
-          "x": "[Expressed humility](card:Expressed%20humility): humility as other people can see it and rate it, in organizations (Owens, Johnson and Mitchell)."
-        },
-        {
-          "t": "p",
-          "x": "[Relational humility](card:Relational%20humility): Davis and colleagues' model of humility as a judgment other people make about someone."
-        },
-        {
-          "t": "p",
-          "x": "[Leader humility](card:Leader%20humility): expressed humility improves team performance and psychological safety (Owens and Hekman, 2016)."
-        },
-        {
-          "t": "p",
-          "x": "[Openness and not knowing in skilled practice](card:Openness%20and%20not%20knowing%20in%20skilled%20practice): Ericsson: the key challenge for aspiring experts is to avoid the arrested development associated with automaticity."
-        },
-        {
-          "t": "p",
-          "x": "[The veil of ignorance](card:The%20veil%20of%20ignorance): Rawls's device in A Theory of Justice for a fair choice of first principles: the parties sit in an original position, stripped of knowledge of their own situation."
+          "x": "The Berlin research programme takes a different route to a related place. It defines wisdom as [an expert knowledge system](card:Wisdom%20theory%20Berlin%20paradigm) about the conduct and meaning of life, which keeps the focus on practical matters and, for the moment, sets the contemplative ideal aside. I come back to that choice in the disagreements below."
         },
         {
           "t": "h2",
-          "x": "Wisdom in other traditions"
+          "x": "Seeing what this case needs"
         },
         {
           "t": "p",
-          "x": "[The portrait of the sage](card:The%20portrait%20of%20the%20sage): the Bhagavad Gita's chapter-twelve description of the person dear to Krishna, as a working checklist of dispositions."
+          "x": "The doctrine of the mean is often read as advice to be moderate, and that misses what Aristotle is saying. [The mean](card:The%20doctrine%20of%20the%20mean) is relative to us: the response that fits this situation, this person, this moment. Courage lies between rashness and cowardice, and finding the right point on that line is a matter of judgment, not arithmetic. Several of the stories that carry this theme make the same point from different angles. In [The Doctor and the Dose](card:ST157%20%E2%80%94%20The%20Doctor%20and%20the%20Dose), what heals the athlete may harm the convalescent. In [The Navigator Reads the Sea](card:ST156%20%E2%80%94%20The%20Navigator%20Reads%20the%20Sea), the wise person cannot command the wind and reads it instead."
         },
         {
           "t": "p",
-          "x": "[Sameness of the sage](card:Sameness%20of%20the%20sage): Zhuangzi's Inner Chapters: the sage who sees past the quarrels of schools, each denying what the others affirm."
+          "x": "Judging people is part of the same skill. Confucius gives a three-part method:"
+        },
+        {
+          "t": "q",
+          "x": "\"See what a man does. Mark his motives. Examine in what things he rests.\" ([Confucius, Analects 2.10, Legge translation](https://www.gutenberg.org/cache/epub/3330/pg3330.html))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "[Timing as wisdom](card:Timing%20as%20wisdom): Daodejing 64 on when to act: at rest things are easy to maintain, and situations not yet emerged are easy to plan for."
+          "x": "The third look is the deepest, since conduct can be performed and motives can be narrated kindly. What a person settles into when nothing is pressing is harder to arrange. That is the reading given on the page for [judging by where one rests](card:Judging%20by%20where%20one%20rests), and it shows how much of wisdom is attention."
         },
         {
           "t": "p",
-          "x": "[Zhi zu (knowing sufficiency)](card:Zhi%20zu%20%28knowing%20sufficiency%29): the Daoist practice of knowing what is enough, from Daodejing 46."
+          "x": "Timing belongs here too. The Daodejing locates the cheap moment to act:"
+        },
+        {
+          "t": "q",
+          "x": "\"Deal with things before they occur; order things before they are disordered.\" ([Laozi, Daodejing 64, Eno translation](https://terebess.hu/english/tao/Daodejing-Eno.pdf))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "[Klesha transmuted into wisdom](card:Klesha%20transmuted%20into%20wisdom): the Tibetan Buddhist teaching that the afflictive emotions, the five poisons, can be turned into forms of wisdom."
+          "x": "If seeing the case is the first difficulty, the second is seeing it while one's own feelings are in the way."
         },
         {
-          "t": "p",
-          "x": "[Vipassana (insight)](card:Vipassana%20%28insight%29): clear-seeing; for Thanissaro Bhikkhu a quality of mind, not a technique."
-        },
-        {
-          "t": "p",
-          "x": "[Wise speech criteria](card:Wise%20speech%20criteria): the Buddha's test in MN 58 for what is worth saying: whether it is true, beneficial and pleasing."
-        },
-        {
-          "t": "p",
-          "x": "[Judging by where one rests](card:Judging%20by%20where%20one%20rests): Confucius, Analects 2.10: see what a man does, mark his motives, examine in what things he rests."
-        },
-        {
-          "t": "p",
-          "x": "[The wise man's indifference to reputation](card:The%20wise%20man%27s%20indifference%20to%20reputation): the Stoic claim that what others say is not among the things worth governing a life by."
-        },
-        {
-          "t": "p",
-          "x": "[Flexibility as virtue](card:Flexibility%20as%20virtue): the compendium's label for two aphorisms in Nietzsche's The Gay Science."
-        },
-        {
-          "t": "p",
-          "x": "[Discernment of spirits](card:Discernment%20of%20spirits): Ignatius's practice of reading one's inner movements to tell which lead toward the good."
+          "t": "h",
+          "x": "What gets in the way"
         },
         {
           "t": "h2",
-          "x": "Judgement, deliberation and insight"
+          "x": "Not knowing the limits of what you know"
         },
         {
           "t": "p",
-          "x": "[Reflective thinking](card:Reflective%20thinking): Dewey's How We Think: belief whose grounds are deliberately sought and examined."
+          "x": "The most persistent obstacle is confidence that outruns knowledge. Plato's Apology gives the classic picture. After the oracle declares no one wiser than Socrates, he reads it this way:"
+        },
+        {
+          "t": "q",
+          "x": "\"He, O men, is the wisest, who, like Socrates, knows that his wisdom is in truth worth nothing.\" ([Plato, Apology, Jowett translation](https://classics.mit.edu/Plato/apology.html))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "[Experience plus reflection](card:Experience%20plus%20reflection): the compendium's label for Dewey's pairing: each is incomplete without the other."
+          "x": "[Socratic ignorance](card:Socratic%20ignorance) is a stance toward what one knows, not a lack of knowledge, and the [story of the oracle](card:ST152%20%E2%80%94%20Socrates%20and%20the%20Oracle) shows him testing it by questioning those with a reputation for wisdom, who each believed they knew what they did not. The Daodejing names the opposite error a disease:"
+        },
+        {
+          "t": "q",
+          "x": "\"To know and yet (think) we do not know is the highest (attainment); not to know (and yet think) we do know is a disease.\" ([Laozi, Daodejing 71, Legge translation](https://www.gutenberg.org/files/216/216-h/216-h.htm))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "[Deliberation as rehearsal](card:Deliberation%20as%20rehearsal): Dewey in Human Nature and Conduct: when action is blocked, competing habits and impulses are tried out in imagination before overt action."
+          "x": "Psychology gives this stance a measurable form. Leary and colleagues define [intellectual humility](card:Intellectual%20humility) as recognising that a belief may be fallible, with attention to the limits of the evidence for it, and found that it goes with openness, curiosity and low dogmatism ([Leary et al., 2017](https://dukespace.lib.duke.edu/server/api/core/bitstreams/c55d87f1-2f28-408d-9f2c-efbc4da85990/content)). Tangney's review adds a point I find useful: [humility](card:Humility) is an accurate assessment of oneself, not self-deprecation ([Tangney's review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11745895/))."
         },
         {
           "t": "p",
-          "x": "[Immediate and reflective value](card:Immediate%20and%20reflective%20value): Dewey's distinction between value that simply occurs and value that survives inquiry."
-        },
-        {
-          "t": "p",
-          "x": "[Judgment adds the harm](card:Judgment%20adds%20the%20harm): the Stoic claim, from Enchiridion 5, that people are disturbed by their opinions about events, not by the events."
-        },
-        {
-          "t": "p",
-          "x": "[Emotions as judgments](card:Emotions%20as%20judgments): the cognitivist theory, following the Stoics, that an emotion is a judgment: anger at someone is the judgment that one has been wronged by them."
-        },
-        {
-          "t": "p",
-          "x": "[Pre-commitment as wisdom](card:Pre-commitment%20as%20wisdom): Seneca's counsel on timing: an emotion is weak at the threshold and strong once it has entered, so the wise act happens early."
-        },
-        {
-          "t": "p",
-          "x": "[Hope tempered by prudence](card:Hope%20tempered%20by%20prudence): the wiki's label for a pattern in Seneca and Epictetus: hope is something to weigh, because it travels with fear."
-        },
-        {
-          "t": "p",
-          "x": "[Perspective-taking](card:Perspective-taking): the effort to see a situation from another person's point of view; the card treats it as a trainable skill and weighs it against Eyal, Steffel and Epley's study."
-        },
-        {
-          "t": "p",
-          "x": "[Perspective-getting](card:Perspective-getting): obtaining another person's perspective directly by asking and listening."
-        },
-        {
-          "t": "p",
-          "x": "[Insight research](card:Insight%20research): Kounios and Beeman's review: insight is a sudden reinterpretation that produces a nonobvious, nondominant interpretation."
-        },
-        {
-          "t": "p",
-          "x": "[Insight problem-solving](card:Insight%20problem-solving): solving by sudden reinterpretation instead of step-by-step search."
-        },
-        {
-          "t": "p",
-          "x": "[The wisdom of crowds](card:The%20wisdom%20of%20crowds): the finding that a group's aggregated judgment can beat most of its individual members."
+          "x": "Expertise carries its own version of the risk. Ericsson's warning is that experts must avoid [arrested development through automaticity](card:Openness%20and%20not%20knowing%20in%20skilled%20practice) ([Ericsson](https://www.ida.liu.se/~nilda08/Anders_Ericsson/Ericsson_delib_pract.pdf)). A skilled person can stop learning at exactly the point where fluency makes learning feel unnecessary. If that is right, years of practice alone cannot produce wisdom, because practice can also lock in a way of seeing."
         },
         {
           "t": "h2",
-          "x": "Virtue and character"
+          "x": "When the judgment is about me"
         },
         {
           "t": "p",
-          "x": "[Virtue](card:Virtue): excellence of character, a stable disposition to feel, choose and act well, acquired through habituation."
+          "x": "A person can reason well about one problem and badly about another. The difference is often whether the problem is their own. Grossmann's review states it plainly: wise thinking \"varies from one situation to another, with self-focused contexts inhibiting wise thinking\" ([Grossmann 2017, abstract](https://www.psychologicalscience.org/journals/perspectives/1745691616672066/)). Grossmann and Kross studied the pattern under the name Solomon's paradox: people reason more wisely about other people's problems than their own ([Grossmann and Kross 2014](https://journals.sagepub.com/doi/abs/10.1177/0956797614535400))."
         },
         {
           "t": "p",
-          "x": "[Cardinal virtues](card:Cardinal%20virtues): the four hinge virtues of the classical and scholastic tradition: prudence, justice, fortitude and temperance."
+          "x": "The Stoics located the trouble earlier, in the step between event and feeling. [Epictetus's claim](card:Judgment%20adds%20the%20harm) is that people are disturbed by their opinions about events, not by the events. The modern cognitive theory of emotion, which [follows the Stoics](card:Emotions%20as%20judgments), treats an emotion as a judgment: anger at someone is the judgment that they have wronged me. If that is right, then wise judgment has to include judging my own judgments, and that is hard in the heat of the moment."
         },
         {
           "t": "p",
-          "x": "[The doctrine of the mean](card:The%20doctrine%20of%20the%20mean): the claim, shared by Aristotle and the Confucian tradition, that virtue aims at the intermediate between excess and deficiency."
+          "x": "Seneca's practical advice is about timing. An emotion is easier to refuse at the threshold than to evict once it is inside:"
+        },
+        {
+          "t": "q",
+          "x": "\"Every emotion at the start is weak. Afterwards, it rouses itself and gains strength by progress; it is more easy to forestall it than to forgo it.\" ([Seneca, Letters 116, Gummere translation](https://monadnock.net/seneca/116.html))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "[The catalogue of virtues](card:The%20catalogue%20of%20virtues): Aristotle's table in Nicomachean Ethics II.7 of the character virtues as means between two vices."
-        },
-        {
-          "t": "p",
-          "x": "[The unity of the virtues](card:The%20unity%20of%20the%20virtues): the thesis, from Plato's Protagoras and reworked by Aristotle, that the virtues come together and are not separate talents."
-        },
-        {
-          "t": "p",
-          "x": "[Natural virtue](card:Natural%20virtue): Aristotle's name for dispositions people seem to have from birth, set against virtue in the strict sense."
+          "x": "His image for it is [Ulysses at the mast](card:Pre-commitment%20as%20wisdom), who arranged to be unable to follow the song before he heard it. Hope needs the same care: [hope travels with fear](card:Hope%20tempered%20by%20prudence), and a wise person weighs it."
         },
         {
           "t": "h2",
-          "x": "How wisdom is built"
+          "x": "Seeing from somewhere else"
         },
         {
           "t": "p",
-          "x": "[Virtue development research](card:Virtue%20development%20research): how stable virtuous traits are acquired; Sanderse on the neo-Aristotelian mechanism of habituation."
+          "x": "If the obstacle is standing too close, the remedy is to change position. The research gives this a precise form. Grossmann's four components of wise reasoning are [intellectual humility, appreciation of perspectives broader than the issue at hand, sensitivity to the possibility of change in social relations, and compromise or integration of different opinions](card:Wise%20reasoning) ([Grossmann 2017](https://cs.uwaterloo.ca/~jhoey/teaching/cogsci600/papers/Grossmann_PPS_2017.pdf)). Three of the four are ways of leaving one's own seat."
         },
         {
           "t": "p",
-          "x": "[The rehearsal of virtue](card:The%20rehearsal%20of%20virtue): how Stoic practice turns understanding into character by running it through action, from Seneca's Letter 94."
+          "x": "But changing position is not as easy as it sounds. Eyal, Steffel and Epley tested the common belief that imagining another person's view makes us more accurate, in 25 experiments, and did not find consistent evidence that it does. Their conclusion:"
+        },
+        {
+          "t": "q",
+          "x": "\"Understanding the mind of another person is therefore enabled by getting perspective, not simply taking perspective.\" ([Eyal, Steffel and Epley, 2018](https://pubmed.ncbi.nlm.nih.gov/29620401/))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "[Deliberate practice](card:Deliberate%20practice): Ericsson's term for activities designed to improve current performance, with specific goals and immediate feedback."
+          "x": "That is a caution about [perspective-taking](card:Perspective-taking), and a reason to value [asking](card:Perspective-getting). A group can sometimes do what a single mind cannot. [The wisdom of crowds](card:The%20wisdom%20of%20crowds) depends on conditions such as diversity and independence, and a crowd that fails them is only a crowd."
         },
         {
           "t": "p",
-          "x": "[Reflective practice](card:Reflective%20practice): the ability to reflect on one's thoughts, actions, decisions and assumptions in order to improve one's own practice and judgment."
+          "x": "Older traditions describe a wider view. The [blind men and the elephant](card:ST370%20%E2%80%94%20The%20Blind%20Men%20and%20the%20Elephant) each describe the whole animal from the part they touch, and the quarrel that follows is what partial views produce. Zhuangzi's [sage](card:Sameness%20of%20the%20sage) rejects the distinctions the quarrelling schools insist on. I am cautious about borrowing that last picture as a method, because it describes an ideal state more than a procedure. It still names what the other accounts are reaching for, which is a view not captured by any single position."
         },
         {
-          "t": "p",
-          "x": "[Journaling as self-reflection](card:Journaling%20as%20self-reflection): the expressive-writing tradition Pennebaker began, with a meta-analysis of 146 randomized studies."
-        },
-        {
-          "t": "p",
-          "x": "[Death reflection](card:Death%20reflection): the construct distinguishing a vivid contemplation of one's own death from abstract mortality salience."
-        },
-        {
-          "t": "p",
-          "x": "[Future time perspective](card:Future%20time%20perspective): the habit of orienting attention toward the future, from Zimbardo and Boyd's 1999 paper."
-        },
-        {
-          "t": "p",
-          "x": "[Designing for virtue](card:Designing%20for%20virtue): the design-research idea that products and environments can support virtuous behaviour."
+          "t": "h",
+          "x": "How judgment forms"
         },
         {
           "t": "h2",
-          "x": "The thinkers"
+          "x": "Reflection and insight"
         },
         {
           "t": "p",
-          "x": "[Aristotle](card:T002%20%E2%80%94%20Aristotle): Greek philosopher and author of the Nicomachean Ethics, whose Book VI holds the standard account of phronesis and sophia."
+          "x": "Judgment forms through some kind of thinking about experience. Dewey defines [reflective thinking](card:Reflective%20thinking) as belief examined in the light of the grounds that support it and the conclusions it leads to. He also gives [a reason imagination matters](card:Deliberation%20as%20rehearsal):"
+        },
+        {
+          "t": "q",
+          "x": "\"An act overtly tried out is irrevocable, its consequences cannot be blotted out. An act tried out in imagination is not final or fatal. It is retrievable.\" ([Dewey, Human Nature and Conduct](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "[Socrates](card:T011%20%E2%80%94%20Socrates): the philosopher whose profession of ignorance at his trial gave the West its best-known picture of wisdom as awareness of limits."
+          "x": "So deliberation is a way of making mistakes cheaply, in thought, before they are made in the world. The Deweyan pairing of [experience and reflection](card:Experience%20plus%20reflection) says that neither is enough alone: experience without reflection stays fragmentary, and reflection without experience has nothing to organise."
         },
         {
           "t": "p",
-          "x": "[Dewey](card:T005%20%E2%80%94%20Dewey%2C%20John): the pragmatist whose accounts of reflective thinking and deliberation recur in the judgement group."
+          "x": "Insight works differently. Kounios and Beeman describe it as a sudden reinterpretation:"
+        },
+        {
+          "t": "q",
+          "x": "\"Insight occurs when a person suddenly reinterprets a stimulus, situation, or event to produce a nonobvious, nondominant interpretation.\" ([Kounios and Beeman, 2014, abstract](https://pubmed.ncbi.nlm.nih.gov/24405359/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "I would not call insight wisdom, since a clever solution can serve a bad aim. What it may add is the ability to reframe a situation that deliberation has left stuck. [Vipassana](card:Vipassana%20%28insight%29), which Thanissaro Bhikkhu describes as a quality of mind and not a technique, is the contemplative version: the ability to see events clearly as they happen."
         },
         {
           "t": "h2",
-          "x": "The stories"
+          "x": "Habit, practice and character"
         },
         {
           "t": "p",
-          "x": "[152. Socrates and the Oracle](card:ST152%20%E2%80%94%20Socrates%20and%20the%20Oracle): the oracle's verdict that no one is wiser than Socrates, and what he made of it."
+          "x": "Reflection alone does not build character. Aristotle's view is that virtue develops through repeated action, and Sanderse's reading of it is exact about what that means for wisdom:"
+        },
+        {
+          "t": "q",
+          "x": "\"Full virtue and practical wisdom comprise the end of neo-Aristotelian moral development, but wisdom cannot be cultivated straight away through arguments and teaching.\" ([Sanderse, Journal of Moral Education, abstract](https://www.tandfonline.com/doi/full/10.1080/03057240.2018.1497952))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "[158. Solomon's Judgement](card:ST158%20%E2%80%94%20Solomon%27s%20Judgement): two women claim one infant, and Solomon's order to divide the child reveals which of them is the mother; the canonical case of judgement."
+          "x": "The abstract goes on to say that wisdom builds on habituation. Seneca says something close in Letter 94, using the same logic of action. A person who has learned what to do and avoid \"is not a wise man until his mind is metamorphosed into the shape of that which he has learned\" ([Seneca, Letter 94, Gummere translation](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_94)). [Rehearsal](card:The%20rehearsal%20of%20virtue) is the step that does that."
+        },
+        {
+          "t": "p",
+          "x": "Modern research on skill points the same way. Ericsson's [deliberate practice](card:Deliberate%20practice) means work designed to improve current performance, with specific goals and immediate feedback, and [reflective practice](card:Reflective%20practice) adds the habit of thinking back on one's own actions and assumptions. Neither is a claim about wisdom directly. I read them as the nearest tested methods for what Aristotle describes, and the link is interpretation, not a demonstrated result."
+        },
+        {
+          "t": "h2",
+          "x": "Wisdom across a life"
+        },
+        {
+          "t": "p",
+          "x": "Some of what we call wisdom depends on how much life has been lived. Erikson places it at the end of the life cycle and describes it as \"an informed and detached concern with life itself in the face of death itself\" ([Javed and Kakul, quoting Erikson](https://www.mdpi.com/2499-6564/71/2/109)). On his account it is won from the crisis between integrity and despair, which makes it a way of accepting one's life as it was lived, and is the strength of [socioemotional wisdom](card:Socioemotional%20wisdom)."
+        },
+        {
+          "t": "p",
+          "x": "The evidence on age is mixed, and I want to be exact about it. Grossmann and Kross found \"no age differences in wise reasoning about personal conflicts\" in their measures ([Psychological Science 2014, abstract](https://journals.sagepub.com/doi/abs/10.1177/0956797614535400)), and that result is about those conflicts and those measures. It does not show that experience adds nothing in general. It does mean that the old saying, \"with age comes wisdom,\" cannot be assumed."
+        },
+        {
+          "t": "p",
+          "x": "Time shapes judgment in other ways. [Future time perspective](card:Future%20time%20perspective) is the habit of orienting toward what comes later, and Zimbardo and Boyd's own caveat is that fixing on any single horizon, even the future one, is maladaptive. [Death reflection](card:Death%20reflection) studies how specific, vivid contemplation of one's own death differs from abstract mortality awareness. And Solon's answer to Croesus in [the old story](card:ST143%20%E2%80%94%20Solon%20and%20Croesus) is a reminder that a life may not be judged happy before its end."
         },
         {
           "t": "h",
@@ -3899,25 +3851,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The shared question: is the wisdom of the contemplative the same excellence as the wisdom of the person who acts well in a hard situation? Aristotle splits them. Sophia knows the highest and unchanging things:"
-        },
-        {
-          "t": "q",
-          "x": "\"Therefore wisdom must be intuitive reason combined with scientific knowledge-scientific knowledge of the highest objects which has received as it were its proper completion.\" ([Aristotle, Nicomachean Ethics VI.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)): Primary text; quoted passage checked.",
-          "s": null
+          "x": "Is the wisdom of the contemplative the same excellence as the wisdom of the person who acts well in a hard situation? Aristotle splits them. Sophia knows the highest and unchanging things, and phronesis deals with the changing particulars of conduct."
         },
         {
           "t": "p",
-          "x": "Practical wisdom works on a different object, and Aristotle uses a plain contrast to say so:"
-        },
-        {
-          "t": "q",
-          "x": "\"any one would say that what is wise is the same but what is practically wise is different\" ([Aristotle, Nicomachean Ethics VI.7](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)): Primary text; quoted passage checked.",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "Modern psychology sides with the practical branch. The Berlin paradigm defines wisdom as \"an expert knowledge system concerning the fundamental pragmatics of life\", covering \"knowledge and judgment about the meaning and conduct of life\" ([Baltes and Staudinger, American Psychologist 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/)): Secondary source; quoted passage checked. The classical contemplative ideal of wisdom, knowledge of the highest things, drops out of the research definition. What stays open is whether a life needs both kinds, and whether the contemplative kind steadies the practical one or competes with it for a person's time. The sources above do not settle it."
+          "x": "Modern psychology sides with the practical branch. The Berlin paradigm defines wisdom as \"an expert knowledge system concerning the fundamental pragmatics of life\", covering \"knowledge and judgment about the meaning and conduct of life\" ([Baltes and Staudinger, American Psychologist 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/)). The contemplative ideal drops out of the research definition. What stays open is whether a life needs both, and whether the contemplative kind steadies the practical one or competes with it for a person's time. The sources held here do not settle it."
         },
         {
           "t": "h2",
@@ -3925,51 +3863,23 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The shared question: is wisdom a skill for reaching goals, or does it include choosing good goals? Aristotle separates wisdom from mere skill at getting what one aims at:"
-        },
-        {
-          "t": "q",
-          "x": "\"Now if the mark be noble, the cleverness is laudable, but if the mark be bad, the cleverness is mere smartness; hence we call even men of practical wisdom clever or smart.\" ([Aristotle, Nicomachean Ethics VI.12](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)): Primary text; quoted passage checked.",
-          "s": null
+          "x": "Is wisdom a skill for reaching goals, or does it include choosing good ones? Aristotle ties the two together, as quoted above: it is not possible \"to be good in the strict sense without practical wisdom, nor practically wise without moral virtue\" ([Aristotle, Nicomachean Ethics VI.13](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html))."
         },
         {
           "t": "p",
-          "x": "He then ties the two together in both directions:"
-        },
-        {
-          "t": "q",
-          "x": "\"It is clear, then, from what has been said, that it is not possible to be good in the strict sense without practical wisdom, nor practically wise without moral virtue.\" ([Aristotle, Nicomachean Ethics VI.13](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)): Primary text; quoted passage checked.",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "Baltes and Staudinger keep the link in their own phrase: wisdom as a metaheuristic \"that organizes and orchestrates knowledge toward human excellence in mind and virtue, both individually and collectively\" ([Baltes and Staudinger 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/)): Secondary source; quoted passage checked. Grossmann's account of wise thinking, in contrast, names aspects of thinking: \"intellectual humility, recognition of uncertainty and change\" ([Grossmann 2017, abstract](https://www.psychologicalscience.org/journals/perspectives/1745691616672066/)): Secondary source; quoted passage checked. Whether a person who reasons that way but chooses badly would count as wise is a question these abstracts leave open."
+          "x": "Baltes and Staudinger keep the link in their own phrase, describing wisdom as a metaheuristic \"that organizes and orchestrates knowledge toward human excellence in mind and virtue, both individually and collectively\" ([Baltes and Staudinger 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/)). Grossmann's account, by contrast, names aspects of thinking: \"intellectual humility, recognition of uncertainty and change\" ([Grossmann 2017, abstract](https://www.psychologicalscience.org/journals/perspectives/1745691616672066/)). Whether a person who reasons that way but chooses badly would count as wise is a question these abstracts leave open. I lean toward Aristotle here, because a definition of wisdom that a manipulative person can satisfy has stopped doing the job."
         },
         {
           "t": "h2",
-          "x": "Is wisdom something you have, or knowing that you lack it?"
+          "x": "Is wisdom what you have, or knowing that you lack it?"
         },
         {
           "t": "p",
-          "x": "The shared question: does a wise person hold a large store of knowledge, or hold a particular stance toward what they know? Socrates puts the stance first. In Jowett's rendering of the oracle's meaning:"
-        },
-        {
-          "t": "q",
-          "x": "\"He, O men, is the wisest, who, like Socrates, knows that his wisdom is in truth worth nothing.\" ([Plato, Apology, Jowett translation](https://classics.mit.edu/Plato/apology.html)): Primary text; quoted passage checked.",
-          "s": null
+          "x": "Does a wise person hold a large store of knowledge, or hold a particular stance toward what they know? Socrates puts the stance first, as above. The Berlin paradigm builds uncertainty into its definition as one of five criteria: \"recognition and management of uncertainty\" ([Baltes and Staudinger 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/))."
         },
         {
           "t": "p",
-          "x": "The Daodejing says something close, and names the opposite error a disease:"
-        },
-        {
-          "t": "q",
-          "x": "\"To know and yet (think) we do not know is the highest (attainment); not to know (and yet think) we do know is a disease.\" ([Laozi, Daodejing 71, Legge translation](https://www.gutenberg.org/files/216/216-h/216-h.htm)): Primary text; quoted passage checked.",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "The Berlin paradigm builds uncertainty into the definition as one of five criteria: \"recognition and management of uncertainty\" ([Baltes and Staudinger 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/)): Secondary source; quoted passage checked. The traditions and the research agree that knowing one's limits belongs to wisdom. They differ on weight. For Socrates it is close to the whole of human wisdom; for the expertise model it is one criterion beside rich factual and procedural knowledge."
+          "x": "The traditions and the research agree that knowing one's limits belongs to wisdom. They differ on its weight. For Socrates it is close to the whole of human wisdom; for the expertise model it is one criterion beside rich factual and procedural knowledge."
         },
         {
           "t": "h2",
@@ -3977,16 +3887,16 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The shared question: when we call a person wise, are we describing them or their circumstances? The Berlin tradition measured it as a feature of the person, scored from think-aloud answers to life problems. Grossmann's review argues the evidence points elsewhere:"
+          "x": "When we call someone wise, are we describing them or their circumstances? The Berlin tradition measured wisdom as a feature of the person, scored from think-aloud answers to life problems. Grossmann's review argues the evidence points elsewhere:"
         },
         {
           "t": "q",
-          "x": "\"Empirical evidence indicates that people's ability to think wisely varies dramatically across experiential contexts that they encounter over the life span. Moreover, wise thinking varies from one situation to another, with self-focused contexts inhibiting wise thinking.\" ([Grossmann, Wisdom in Context, Perspectives on Psychological Science 2017, abstract](https://www.psychologicalscience.org/journals/perspectives/1745691616672066/)): Secondary source; quoted passage checked.",
+          "x": "\"Empirical evidence indicates that people's ability to think wisely varies dramatically across experiential contexts that they encounter over the life span. Moreover, wise thinking varies from one situation to another, with self-focused contexts inhibiting wise thinking.\" ([Grossmann, Wisdom in Context, Perspectives on Psychological Science 2017, abstract](https://www.psychologicalscience.org/journals/perspectives/1745691616672066/))",
           "s": null
         },
         {
           "t": "p",
-          "x": "A specific finding: across three experiments (N = 693), participants reasoned more wisely about another person's problems than their own, and self-distancing removed the gap. The authors add that \"contrary to the adage 'with age comes wisdom,' our findings suggest that there are no age differences in wise reasoning about personal conflicts\" ([Grossmann and Kross, Psychological Science 2014, abstract](https://journals.sagepub.com/doi/abs/10.1177/0956797614535400)): Secondary source; quoted passage checked. That result concerns reasoning about personal conflicts, in the measures used, and does not show that life experience adds nothing to wisdom in general. What it does show is that the same person reasons differently in different positions, which is a reason to treat wisdom as partly a matter of where one stands when one thinks."
+          "x": "In three experiments (N = 693), participants reasoned more wisely about another person's problems than their own, and self-distancing removed the gap ([Grossmann and Kross, Psychological Science 2014, abstract](https://journals.sagepub.com/doi/abs/10.1177/0956797614535400)). The same person reasons differently from different positions. That is a reason to treat wisdom as partly a matter of where one stands when one thinks."
         },
         {
           "t": "h2",
@@ -3994,16 +3904,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The shared question: if wisdom matters, what builds it? The neo-Aristotelian answer starts with character:"
-        },
-        {
-          "t": "q",
-          "x": "\"Full virtue and practical wisdom comprise the end of neo-Aristotelian moral development, but wisdom cannot be cultivated straight away through arguments and teaching.\" ([Sanderse, Journal of Moral Education, abstract](https://www.tandfonline.com/doi/full/10.1080/03057240.2018.1497952)): Secondary source; quoted passage checked.",
-          "s": null
+          "x": "If wisdom matters, what builds it? The neo-Aristotelian answer starts with character, as quoted above. The experimental answer is that a brief, structured practice can raise wise reasoning. In two preregistered experiments (total N = 555), people who reflected in the third person in a month-long diary showed \"a significant increase in wise reasoning about interpersonal challenges\" ([Grossmann and colleagues, Psychological Science 2021, abstract](https://journals.sagepub.com/doi/abs/10.1177/0956797620969170)). An earlier two-experiment study found that cueing people to reason about personal issues from a distanced perspective enhanced wise reasoning, attitudes and behavior ([Kross and Grossmann, JEP: General 2012, abstract](https://pubmed.ncbi.nlm.nih.gov/21728454/))."
         },
         {
           "t": "p",
-          "x": "The abstract goes on to say wisdom \"is integrated with, and builds upon, habituation\". The experimental answer is that a brief, structured practice can raise wise reasoning. In two preregistered experiments (total N = 555), people who reflected in the third person in a month-long diary showed \"a significant increase in wise reasoning about interpersonal challenges\" compared with before the intervention ([Grossmann and colleagues, Psychological Science 2021, abstract](https://journals.sagepub.com/doi/abs/10.1177/0956797620969170)): Secondary source; quoted passage checked. In the earlier two-experiment study, cueing people to reason about personal issues from a distanced perspective enhanced wise reasoning, attitudes and behavior ([Kross and Grossmann, Journal of Experimental Psychology: General 2012, abstract](https://pubmed.ncbi.nlm.nih.gov/21728454/)): Secondary source; quoted passage checked. The two claims are about different things. One concerns the formation of a person's character over years; the other concerns scores on a reasoning measure after a short practice. Neither abstract says the other is wrong."
+          "x": "The two claims are about different things. One concerns how character forms over years; the other concerns scores on a reasoning measure after a short practice. Neither abstract says the other is wrong."
         },
         {
           "t": "h2",
@@ -4011,16 +3916,16 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The shared question: could wisdom be written down as a procedure? Aristotle defines virtue by a standard that involves the wise person:"
+          "x": "Could wisdom be written down as a procedure? Aristotle defines virtue by a standard that involves the wise person:"
         },
         {
           "t": "q",
-          "x": "\"Virtue, then, is a state of character concerned with choice, lying in a mean, i.e. the mean relative to us, this being determined by a rational principle, and by that principle by which the man of practical wisdom would determine it.\" ([Aristotle, Nicomachean Ethics II.6](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)): Primary text; quoted passage checked.",
+          "x": "\"Virtue, then, is a state of character concerned with choice, lying in a mean, i.e. the mean relative to us, this being determined by a rational principle, and by that principle by which the man of practical wisdom would determine it.\" ([Aristotle, Nicomachean Ethics II.6](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))",
           "s": null
         },
         {
           "t": "p",
-          "x": "The definition leans on the person of practical wisdom to say what the mean is, so it cannot serve as a rule applied from outside. In Book VI he adds that wisdom is not a craft: \"Plainly, then, practical wisdom is a virtue and not an art\" ([Aristotle, Nicomachean Ethics VI.5](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)): Primary text; quoted passage checked. Readers sometimes treat the circle in the definition as a flaw. It can also be read as the point: judgment of this kind has no procedure behind it that could stand in for it. How far that is true, and how much of practical judgment can be supported by checklists and prompts, is open in the sources held here."
+          "x": "The definition leans on the person of practical wisdom to say what the mean is, so it cannot serve as a rule applied from outside. In Book VI he adds that \"practical wisdom is a virtue and not an art\" ([Aristotle, Nicomachean Ethics VI.5](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). Readers sometimes treat the circle in the definition as a flaw. It can also be read as the point: judgment of this kind has no procedure behind it that could stand in for it. How far that holds, and how much practical judgment can be supported by checklists and prompts, is open in the sources held here."
         },
         {
           "t": "h",
@@ -4034,12 +3939,16 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Selection",
-          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+          "x": "Choose the one that matches the difficulty you actually have. The kernels below are grouped by what they work on."
+        },
+        {
+          "t": "h2",
+          "x": "Seeing the situation from elsewhere"
         },
         {
           "t": "n",
           "i": 1,
-          "x": "[Wise-reasoning prompts](card:K260%20%E2%80%94%20Wise-reasoning%20prompts): four questions for a troubling situation: how it could unfold, what the perspectives are, how your own interests might bias the view, what a wise friend would advise."
+          "x": "[Wise-reasoning prompts](card:K260%20%E2%80%94%20Wise-reasoning%20prompts): for a troubling situation, ask how it could unfold, what the perspectives are, how your own interests might bias the view, and what a wise friend would advise."
         },
         {
           "t": "n",
@@ -4049,7 +3958,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 3,
-          "x": "[Perspective-taking](card:K131%20%E2%80%94%20Perspective-taking): step into another position and see what the others conceal."
+          "x": "[Perspective-taking](card:K131%20%E2%80%94%20Perspective-taking): step into another position and notice what the others conceal."
         },
         {
           "t": "n",
@@ -4057,68 +3966,76 @@ window.fcDossiersData = {
           "x": "[Perspective-getting](card:K218%20%E2%80%94%20Perspective-getting): when you assume you know what someone thinks, ask."
         },
         {
+          "t": "h2",
+          "x": "Slowing the decision"
+        },
+        {
           "t": "n",
           "i": 5,
-          "x": "[Deliberation timeout](card:K264%20%E2%80%94%20Deliberation%20timeout): a mandatory wait of one to three days on decisions above a set threshold."
+          "x": "[Deliberation timeout](card:K264%20%E2%80%94%20Deliberation%20timeout): a mandatory wait of one to three days on decisions above a threshold you set."
         },
         {
           "t": "n",
           "i": 6,
-          "x": "[Impression-judgement-action log](card:K266%20%E2%80%94%20Impression-judgement-action%20log): a one-week three-column log separating what appeared, what you judged, and what you did."
+          "x": "[Impression-judgement-action log](card:K266%20%E2%80%94%20Impression-judgement-action%20log): for one week, separate what appeared, what you judged and what you did."
         },
         {
           "t": "n",
           "i": 7,
-          "x": "[Post-action phronesis review](card:K263%20%E2%80%94%20Post-action%20phronesis%20review): after a significant action, ask what you intended, what happened, where the gap came from, and what you would do differently."
-        },
-        {
-          "t": "n",
-          "i": 8,
-          "x": "[The mean calibration](card:K253%20%E2%80%94%20The%20mean%20calibration): for one virtue, track the excess and the deficiency and rate where each situation landed."
-        },
-        {
-          "t": "n",
-          "i": 9,
-          "x": "[The unity-of-virtue drill](card:K256%20%E2%80%94%20The%20unity-of-virtue%20drill): take a decision from this week and ask whether expressing one virtue required suppressing another."
-        },
-        {
-          "t": "n",
-          "i": 10,
           "x": "[Role-conflict deliberation](card:K283%20%E2%80%94%20Role-conflict%20deliberation): when two roles conflict, write down what each demands and ask what a person of practical wisdom would do."
         },
         {
           "t": "n",
+          "i": 8,
+          "x": "[The deliberative practice](card:K363%20%E2%80%94%20The%20deliberative%20practice): in a group decision, hear every voice before the verdict."
+        },
+        {
+          "t": "h2",
+          "x": "Learning from what you did"
+        },
+        {
+          "t": "n",
+          "i": 9,
+          "x": "[Post-action phronesis review](card:K263%20%E2%80%94%20Post-action%20phronesis%20review): after a significant action, ask what you intended, what happened, where the gap came from and what you would do differently."
+        },
+        {
+          "t": "n",
+          "i": 10,
+          "x": "[The mean calibration](card:K253%20%E2%80%94%20The%20mean%20calibration): for one virtue, track the excess and the deficiency and rate where each situation landed."
+        },
+        {
+          "t": "n",
           "i": 11,
-          "x": "[Professional phronesis](card:K360%20%E2%80%94%20Professional%20phronesis): for a recurring decision, ask when following the rule would produce a worse outcome than using judgement."
+          "x": "[The unity-of-virtue drill](card:K256%20%E2%80%94%20The%20unity-of-virtue%20drill): take a decision from this week and ask whether expressing one virtue required suppressing another."
         },
         {
           "t": "n",
           "i": 12,
-          "x": "[The deliberative practice](card:K363%20%E2%80%94%20The%20deliberative%20practice): in a group decision, hear every voice before the verdict."
-        },
-        {
-          "t": "n",
-          "i": 13,
           "x": "[Virtue journaling](card:K255%20%E2%80%94%20Virtue%20journaling): one sentence each evening on the virtue you practised and how."
         },
         {
           "t": "n",
-          "i": 14,
+          "i": 13,
           "x": "[Deliberate practice](card:K179%20%E2%80%94%20Deliberate%20practice): structured practice with a clear goal and immediate feedback."
         },
         {
           "t": "n",
+          "i": 14,
+          "x": "[Professional phronesis](card:K360%20%E2%80%94%20Professional%20phronesis): for a recurring decision, ask when following the rule would produce a worse outcome than using judgment."
+        },
+        {
+          "t": "n",
           "i": 15,
-          "x": "[Life review](card:K232%20%E2%80%94%20Life%20review): review the life in chapters, noting turning points and what each taught."
+          "x": "[Life review](card:K232%20%E2%80%94%20Life%20review): review your life in chapters, noting turning points and what each taught."
         },
         {
           "t": "p",
-          "x": "The evidence limits are uneven across the list. The life review (K232) borrows a method tested mostly with older adults and guided by trained facilitators, and its chapter layout is an adaptation. The distancing practices (K261, K260) lean on the experiments quoted above; the prompts in K260 are, by the card's own note, editorial questions informed by the research and not the instrument itself; the professional and role-conflict exercises are proposals and not tested protocols. Each card carries its own evidence note, and those notes are worth reading before relying on any of them."
+          "x": "The evidence behind these is uneven. The distancing practices lean on the experiments quoted above, though the prompts in K260 are, by the card's own note, editorial questions informed by that research and not the research instrument. Life review borrows a method tested mostly with older adults and guided by trained facilitators. The professional and role-conflict exercises are proposals and not tested protocols. Each card carries its own evidence note, and those notes are worth reading before relying on any of them."
         },
         {
           "t": "vs",
           "l": "Retention",
-          "x": "Retention is what people keep because it works for them. A reader who keeps the evening look back, or the habit of asking before assuming, or the three-day wait, has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
+          "x": "What lasts is what fits the life it enters. A reader who keeps the evening look-back, the habit of asking before assuming or the three-day wait has taken from this theme what it offered. The rest can wait until the situation calls for it."
         },
         {
           "t": "h",
@@ -4126,7 +4043,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card."
+          "x": "The stories below each carry one aspect of the theme, retold in a line. The full telling lives on the card."
         },
         {
           "t": "h2",
@@ -4154,7 +4071,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST158 — Solomon's Judgement](card:ST158%20%E2%80%94%20Solomon%27s%20Judgement): two women claim one infant; Solomon orders it cut in two, one woman says give it to her and do not kill it, and he awards the child to her."
+          "x": "[ST158 — Solomon's Judgement](card:ST158%20%E2%80%94%20Solomon's%20Judgement): two women claim one infant; Solomon orders it cut in two, one woman says give it to her and do not kill it, and he awards the child to her."
         },
         {
           "t": "p",
@@ -4166,7 +4083,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST153 — Aristotle's Craftsman](card:ST153%20%E2%80%94%20Aristotle%27s%20Craftsman): the doctor does not apply a rule to a body; he brings together knowledge of the patient, the disease, the season and the means, and adjusts."
+          "x": "[ST153 — Aristotle's Craftsman](card:ST153%20%E2%80%94%20Aristotle's%20Craftsman): the doctor does not apply a rule to a body; he brings together knowledge of the patient, the disease, the season and the means, and adjusts."
         },
         {
           "t": "p",
