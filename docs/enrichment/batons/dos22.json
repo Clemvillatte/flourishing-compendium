@@ -57,5 +57,7 @@
    "from": "pplx-dos22-1025-0600",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T06:12:13+00:00"
 }
