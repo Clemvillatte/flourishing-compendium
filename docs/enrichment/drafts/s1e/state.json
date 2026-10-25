@@ -83,6 +83,11 @@
      "t": "2026-10-25T13:41:30+00:00",
      "to": "ready",
      "note": "advisor QC round 4 cleared: opening restructured, skillet removed, quotes verbatim; ready"
+    },
+    {
+     "t": "2026-10-25T15:04:25+00:00",
+     "to": "ready",
+     "note": "QC sample 1025x: 8/8 quotes verbatim vs fresh downloads; paraphrase ledger entry replaced with verbatim sentences; ready stands"
     }
    ]
   },
@@ -153,6 +158,11 @@
      "t": "2026-10-25T13:43:18+00:00",
      "to": "ready",
      "note": "advisor QC rounds 3-5 applied and cleared: quotes verbatim, mappings bounded, humanizer pass, YAML valid"
+    },
+    {
+     "t": "2026-10-25T15:04:25+00:00",
+     "to": "ready",
+     "note": "QC sample 1025x: 5/5 quotes verbatim vs fresh downloads (4 CCEL + 1 Quakers in Britain); ready stands"
     }
    ]
   },
@@ -267,5 +277,5 @@
    ]
   }
  },
- "updated": "2026-10-25T13:43:18+00:00"
+ "updated": "2026-10-25T15:04:25+00:00"
 }
