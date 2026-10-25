@@ -522,3 +522,36 @@ disagreement only if the opened evidence supports the former.
 Checks: dossier_check.py exit 0 (62 card links, 30 headers, 4
 external carriers); dossier_density.py 0 dense;
 dossier_quote_verify.py 5 checked / 0 not found.
+
+## Fatigue-vs-boredom disagreement added (worker-pplx-dos25-1025-0600, 2026-10-25, same session)
+
+Following the advisor's lead from the correction above, the
+Langner and Eickhoff meta-analytic review (PMC3627747) was
+opened and the fatigue-vs-boredom passage verified. The review
+explicitly presents the two accounts as competing explanations of
+the same time-on-task decrement: "There is ample empirical
+evidence for both the fatigue/resource-depletion and the
+boredom/absentmindedness accounts, but neither is consistent with
+all the available data." The resource-depletion account (the
+review reports it as strongly supported) locates the decline in
+attentional resources depleted under continuous allocation; the
+boredom account (which the review reports others arguing) reads
+the decline in monotonous tasks as boredom and mind-wandering
+re-allocating processing away from the task. The review's
+proposed synthesis (self-regulation depletion) is noted, with
+the review's own caveat that the direct evidence for it is
+sparse.
+
+The disagreement section now carries TWO substantiated entries:
+(1) one-pointedness-vs-whole-field (already present) and
+(2) fatigue-vs-boredom (new). The 3-5 bar remains UNMET at 2 of
+3 — supervisor/owner disposition requested.
+
+Carrier freshly opened and verified this session: PMC3627747
+(Langner and Eickhoff 2013), fetched and the fatigue/
+resource-depletion, boredom/absentmindedness and synthesis
+passages verified verbatim against the full text.
+
+Checks: dossier_check.py exit 0 (61 card links, 31 headers, 4
+external carriers); dossier_density.py 0 dense;
+dossier_quote_verify.py 6 checked / 0 not found.

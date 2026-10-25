@@ -107,6 +107,16 @@ Shankman's reading of the same family of terms holds a wider option inside the s
 
 The disagreement is real and live: the article's Criticism section reports that the one-pointed interpretation "has become a matter of debate." What remains unresolved is whether ekaggata is exclusive fixation or unified stillness; the practice instructions differ, a single fixed object on one reading, a steady awareness of the wide field on the other, and my own pages hold both.
 
+### Does the mind fade with use, or drift from boredom?
+
+The shared question is the one the capacity section names from the research side: why does a detection-ready state degrade with time on task? A 2013 meta-analytic review of vigilant attention describes competing explanations of that decrement:
+
+> "There is ample empirical evidence for both the fatigue/resource-depletion and the boredom/absentmindedness accounts, but neither is consistent with all the available data." ([Langner and Eickhoff, Psychological Bulletin, 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3627747/))
+
+The two accounts locate the failure in different places. The resource-depletion account, which the review reports as strongly supported, holds that the decline results from a depletion of attentional resources under continuous allocation: sustaining attention to a simple task is effortful and demanding, and the available attentional resources decline. The boredom account, which the review reports others arguing, holds that cognitively more challenging and interesting tasks can pose similar or even higher demands and still fail to elicit strain or deterioration, and reads the decline in monotonous tasks as boredom, with the mind-wandering it brings, redirecting processing resources away from the task at hand.
+
+Langner and Eickhoff propose a synthesis: maintaining attention on an unrewarding task requires continuing self-regulation, whose decline could contribute both to reduced attention and to mind-wandering. They treat sustained attentional demand as necessary but insufficient for the typical decrement. In 2013, they described direct evidence for this proposal as sparse. I find the synthesis worth considering, while keeping that evidential limit in view.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the scatter and the strain: attention divided across tabs and tasks, the switching costs paid as residue, and the white-knuckle forcing that the lute-string teaching names as the first failure mode. The adaptive direction is the tuned middle: one object, one task, one protected block, with the return counted as the practice rather than as failure, and the effort checked against the two failure modes the sutta names, restless over-effort and slack neglect.
