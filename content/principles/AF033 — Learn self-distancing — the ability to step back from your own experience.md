@@ -26,7 +26,7 @@ The studies asked whether the language people use to refer to the self during in
 
 ### Plain words
 
-When you say "I'm dreading this," you speak from inside the dread. Say "Sarah is dreading this" and the same fact becomes something a person is going through, something that can be watched and questioned while it is being lived. The research found that this small shift in wording helped people reflect on stressful events with less distress and better reasoning. The gap your own name opens is small, but it is real, and stepping back starts there. Try it on one live worry: write the sentence both ways and notice which version is easier to think about.
+When you say "I'm dreading this," you speak from inside the dread. Say "Sarah is dreading this" and the same fact becomes something a person is going through, something that can be watched and questioned while it is being lived. In the studies, people who reflected on a stressful event in the third person showed less distress and, in the two performance studies, were rated as performing better by objective raters ([Kross et al., 2014](https://sites.lsa.umich.edu/emotion-selfcontrol-psych/wp-content/uploads/sites/1322/2024/07/KrossJ_Pers_Soc_Psychol2014Self-talk_as_a_regulatory_mechanism_How_you_do_it_matters.pdf)). Whether the shift helps any given person is an empirical question about that person: try it on one live worry, write the sentence both ways, and notice which version is easier to think about, including no difference.
 
 For example: the sentence "I'm dreading the meeting" rewritten as "Sarah is dreading the meeting"; the exercise is writing both sentences and noting any difference. (An invented illustration.)
 ## Psychology parallels
