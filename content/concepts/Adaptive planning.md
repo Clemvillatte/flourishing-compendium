@@ -28,7 +28,7 @@ Implement as three layers: name the commitment (what stays fixed), the trigger (
 ### Sources
 
 - Kwakkel, J. H., & Haasnoot, M., "Supporting DMDU: A Taxonomy of Approaches and Tools," ch. 15 in Marchau, V. A. W. J., Walker, W. E., Bloemen, P. J. T. M., & Popper, S. W., eds., *Decision Making under Deep Uncertainty*, Springer, 2019, pp. 355–374 — [TU Delft repository PDF](https://repository.tudelft.nl/file/File_b12e7e51-2d7b-4741-9508-c58dcda02c4a)
-- Masicampo, E. J., & Baumeister, R. F., "When making a specific plan for a goal hinders its pursuit," *Social Cognition* 30(4), 2012, pp. 415–424 — [author PDF](https://users.wfu.edu/masicaej/MasicampoBaumeister2012SocialCognition.pdf)
+- Masicampo, E. J., & Baumeister, R. F., "Committed but Closed-Minded: When Making a Specific Plan for a Goal Hinders Success," *Social Cognition* 30(1), 2012, pp. 37–55 — [author PDF](https://users.wfu.edu/masicaej/MasicampoBaumeister2012SocialCognition.pdf)
 
 ## Related principles (psychology parallels)
 
