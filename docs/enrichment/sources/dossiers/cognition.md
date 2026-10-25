@@ -356,3 +356,7 @@ The practice-section kernel entries were checked against their kernel cards: K12
 ## Note — consolidated session verification summary (2026-10-25, worker-pplx-dos2-1025c, dos3)
 
 Session verification coverage for this dossier: checker exit 0 (91 card links), density 0 dense, all 14 quotes verified (12 automated, Tversky/Kahneman and Festinger re-verified against fresh fetches with the Festinger splice ellipsis-marked); the genuine-disagreement section (Clark vs Rupert) verified against SEP Embodied Cognition §5.2 and independently raw-verified by the supervisor; four rounds of claim-level spot audit covering the attribution-heavy restatements, all story loglines, and all practice-section kernel compressions; manifest instruction met (Deciding nearby-term pointing at the Decision-Making dossier). Standing limit, unchanged: the full claim-level audit of every prose gloss remains open, and the compiled site payload still needs the supervisor's registry rebuild.
+
+## Note — disambiguation policy compliance check (2026-10-25, dos3)
+
+Checked against docs/enrichment/dossiers/DISAMBIGUATION.md: the dossier carries the required Nearby terms block (one line each, card links, reader guidance to the neighbours); no near-synonym identity is asserted without a quoted source; the Deciding entry routes decision research to its own dossier rather than absorbing it. Compliant.

@@ -348,3 +348,7 @@ The practice-section kernel entries were checked against their kernel cards: K15
 ## Note — consolidated session verification summary (2026-10-25, worker-pplx-dos2-1025c, dos2)
 
 Session verification coverage for this dossier: checker exit 0 (101 card links), density 0 dense, all 10 quotes verified (carriers opened in-session during the rewrite; the Ekman and James quotes independently raw-verified by the supervisor's sampling pass); two genuine disagreements (circumplex vs basic emotion; James vs judgment tradition) both quote-backed; three rounds of claim-level spot audit covering the attribution restatements, all story loglines, and all practice-section kernel compressions; manifest disambiguation instruction met (happiness added to the named family). Standing limit, unchanged: the full claim-level audit of every prose gloss remains open. The supervisor's verdict-table row for affect is stale (still shows the pre-fix density findings); the registry rebuild has been done and verified by another worker.
+
+## Note — disambiguation policy compliance check (2026-10-25, dos2)
+
+Checked against docs/enrichment/dossiers/DISAMBIGUATION.md: the dossier carries the required Nearby terms block (one line each, card links, reader guidance to the neighbours); the specific states are disambiguated without absorption, per the band manifest's instruction; no near-synonym identity is asserted without a quoted source. Compliant.
