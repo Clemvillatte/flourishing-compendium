@@ -75,5 +75,7 @@
    "from": "worker-pplx-dos30-1025l",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T06:26:53+00:00"
 }
