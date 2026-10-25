@@ -57,7 +57,7 @@ Foucault's term for what modern power makes of flesh is [the disciplined body](h
 
 The theme comes in narrative form too. [ST112 — Edison Burns the Filaments](https://clemvillatte.github.io/flourishing-compendium/#card=ST112%20%E2%80%94%20Edison%20Burns%20the%20Filaments) is the filament search testing thousands of materials, platinum, carbonised cotton thread, bamboo from a Japanese fan, with the notebooks recording the failures as data. [ST376 — Meghiya Finds the Right Grove and the Wrong Thoughts](https://clemvillatte.github.io/flourishing-compendium/#card=ST376%20%E2%80%94%20Meghiya%20Finds%20the%20Right%20Grove%20and%20the%20Wrong%20Thoughts) is Meghiya asking three times to practise in a mango grove that looks ideal, and alone beneath the tree being troubled by thoughts of sensuality, ill will and harm; wanting to exert oneself is not yet knowing what to cultivate.
 
-## Where the research genuinely disagrees
+## Where the traditions genuinely disagree
 
 ### Does self-control practice strengthen a general capacity?
 
