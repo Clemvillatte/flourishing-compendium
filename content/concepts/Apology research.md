@@ -15,7 +15,7 @@ Apology research is the experimental study of what makes an apology work. The an
 
 The study defined six components from prior research: expression of regret, explanation of what went wrong, acknowledgment of responsibility, declaration of repentance, offer of repair, and request for forgiveness. In the authors' summary, "the most important component is an acknowledgment of responsibility. Say it is your fault, that you made a mistake," with "the second most important element" an offer of repair, and "the least effective element" a request for forgiveness ([OSU news release](https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/)).
 
-The ranking is worth reading twice, since it is not the order most apologies arrive in. Asking the injured person to forgive is the component a person apologising is most likely to reach for first, and the study found it carried the least weight; naming the fault as one's own, which is the component most likely to be softened, carried the most. The findings do not say the other components do not matter, only that they are not substitutes for the one that names who is responsible.
+The ranking is worth reading twice, and what it compares is the weight each component carried in the ratings rather than the order in which people usually say them. The study does not report which component apologisers reach for first or soften most, so those behavioural patterns are not findings. What the study does report is that acknowledgment of responsibility mattered most and a request for forgiveness mattered least among the six components, and the other four fell between them.
 
 ## Sources
 

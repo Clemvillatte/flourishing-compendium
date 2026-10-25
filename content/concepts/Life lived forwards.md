@@ -15,7 +15,7 @@ Kierkegaard's journal entry from 1843: understanding looks backward, living goes
 
 The line usually quoted, that life can only be understood backwards but must be lived forwards, is a shortened paraphrase of this entry. The entry's own twist is the closing move: life never becomes fully understandable even in retrospect, because the backward view is taken from inside a life that is still moving. A person who wants the finished picture before acting is asking for a vantage the situation does not offer, since the vantage keeps moving too.
 
-The Danish original runs: "Livet skal forstaas baglaens, men leves forlaens" (Kierkegaard, Journalen JJ:167, [University of Iowa](https://homepage.divms.uiowa.edu/~jorgen/kierkegaardquotesource.html)). My D181 pairs it with not grieving the past or chasing the future, and the narrative principles read lives backward exactly as Kierkegaard says they are read.
+The Danish source page notes that the saying is "often shortened" to "Livet skal forstaas baglaens, men leves forlaens" — a shortened formulation of the entry, distinct from the fuller Danish text quoted above ([University of Iowa](https://homepage.divms.uiowa.edu/~jorgen/kierkegaardquotesource.html)). My D181 pairs it with not grieving the past or chasing the future, and the narrative principles read lives backward exactly as Kierkegaard says they are read.
 
 ## Sources
 

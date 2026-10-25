@@ -14,7 +14,7 @@ Arousal reinterpretation is an "alternative strategy: reappraising anxiety as ex
 
 Brooks reports that brief self-talk such as saying "I am excited" helped participants adopt an opportunity mindset and improve their performance ([Brooks, 2014](https://www.hbs.edu/faculty/Pages/item.aspx?num=45869)). She interprets the findings as suggesting the importance of arousal congruency during the emotional reappraisal process ([Brooks, 2014](https://www.hbs.edu/faculty/Pages/item.aspx?num=45869)).
 
-The mechanism is not a denial of the arousal but a relabelling of it, and the relabelling works because anxiety and excitement are physiologically near-identical states that differ mainly in what the person takes them to mean. Trying to calm down asks the body to do something it cannot do on demand; calling the state excitement asks only that the interpretation change. The concept puts the leverage on the label rather than the feeling, which is why it costs so little to try.
+The mechanism the paper names is arousal congruency, and the report frames the finding in terms of mindset rather than of suppression. The comparison is between reappraising anxious arousal as excitement and attempting to calm down, and the paper's result is that the reappraisal group felt more excited and performed better. The concept puts the leverage on the label rather than on the feeling, and the label is the part of the state a person can change without changing the state itself. What the study does not establish is that the two states are physiologically identical, so the finding should be read as about the effect of the reinterpretation rather than as a claim about the underlying arousal.
 
 ## Related concepts
 

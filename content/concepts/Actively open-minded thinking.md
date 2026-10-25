@@ -14,6 +14,12 @@ Actively open-minded thinking is a reasoning style that Jonathan Baron (1993) de
 
 In this study, AOT predicted persistence in information acquisition and the accuracy and calibration of estimates ([Haran et al. 2013, §6.2, Concluding remarks](https://sjdm.org/~baron/journal/13/13124a/jdm13124a.html)).
 
+The three components of the style are worth reading as a set rather than as a list of virtues, since each names a specific place where thinking tends to stop. Weighing new evidence against a favoured belief is a description of the moment a belief is on trial, and the trial is what most people avoid rather than what they fail at; spending sufficient time before giving up is a description of the moment the search has become uncomfortable; considering the opinions of others carefully is a description of the moment a view has arrived from outside and can be used as data rather than as a rival.
+
+The word "actively" is the part of the name doing the work, since an open-mindedness that merely does not object is a passive state that anyone can claim. The style Baron describes is something a person does with evidence, and the doing is what the study measured: persistence in information acquisition is a behaviour rather than an attitude, and the finding that it predicts accuracy and calibration is a finding about what the behaviour buys.
+
+A person applying the concept can read their own favoured beliefs as things currently on trial rather than as possessions, and the reading is available without having to change any belief in particular. The style is also not a demand for endless reconsideration, since weighing evidence against a belief is compatible with the belief surviving the weighing, which is what the word "actively" is there to keep open.
+
 ## Other formulations in this library
 
 - updating beliefs against evidence (Baron, 1985; Tetlock, 2005)
