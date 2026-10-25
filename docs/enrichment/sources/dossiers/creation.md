@@ -8,7 +8,7 @@ its card; the Ricoeur SEP carrier noted; the procreation-cluster thinness
 flagged). Dossier: docs/enrichment/dossiers/creation.md, CURRENT rev 7
 (rev 1: 5e9e5fd88; rev 2: f985c5d4b, advisor round 1; rev 3: 23937d248,
 advisor round 2; rev 4: f849f81c1, advisor round 3; rev 5: 946b8d262,
-advisor round 4; rev 7: this entry, advisor rounds 5-6).
+advisor round 4; rev 7: this entry, advisor rounds 5-7).
 Checker at rev 7: exit 0 (51 card links resolve, 16 headers, 14 external
 carrier link occurrences across 9 distinct URLs; the Nietzsche page is
 linked four times and the Bergson lecture twice).
@@ -264,6 +264,17 @@ present-tense certification contradicts the current state.
    connections; Connectionism is the neural-network modelling tradition
    (weighted links between units), a technical sense of connection. Both
    exclusions stand.
+
+Round 7 (also rev 7, final): per advisor round 7, the divergence framing
+   narrowed to the tension the passages demonstrate — the categorical
+   openers ("the sources answer in opposite ways", "The clash is real")
+   replaced with the differing-roles framing (responding to a meaning
+   already in the world vs assigning value), the repeated three-routes
+   fragment removed from the divergence (the full quotation stands in
+   the map), and the reconciliation kept as the unresolved question,
+   attributed to neither author. Batch state moved to worker-complete,
+   pending supervisor review and registry flip; the registry status stays
+   'planned' per the dossier workflow.
 
 ## Open points for any revision pass
 
