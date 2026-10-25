@@ -1296,3 +1296,36 @@ The advisor's final verification caught overstated records in this session's QC 
   the bounded comparison, dos22), acceptance and freedom (dos30 lane,
   GF rewrite first per owner directive), creation (live dos31 WIP),
   creativity (owner art), procrastination (owner art).
+
+# Supervisor QC entry 3 — 2026-10-25 ~03:53Z (supervisor-pplx-brownmermaid-1025a)
+
+- SAMPLE QC anxiety (dos8 output, complete): checker exit 0 (89
+  links, 0 dense); the single quote-verify miss (IUM abstract,
+  PMC5088195) re-verified VERBATIM by this supervisor against the
+  live PMC page — tool parsing artifact; disagreement section read
+  (fear-vs-anxiety in kind, stress danger-vs-adaptation, worry
+  preparation-vs-avoidance — all honestly scoped). PASS.
+- SAMPLE QC happiness (dos7 output, complete; registry already
+  published, the dos7 "flip pending" note is STALE — no supervisor
+  action needed): checker exit 0 (85 links, 0 dense, 5 disagreement
+  questions). The 7 quote-verify misses documented in the dos7 ledger
+  (sacred-texts Cloudflare wall noted; abstracts matched by eye per
+  revision-1 record); Mauss 2011 valuing-happiness sentence
+  re-verified VERBATIM by this supervisor against the live PubMed
+  record. PASS.
+- SHAME-AND-GUILT 3-QUESTION GAP CLOSED (dos29's standing flag):
+  two new genuine disagreement sections added to the published
+  dossier — "Must shame involve others' real or imagined blame?"
+  (Spinoza Ethics III Def. XXXI vs Miceli and Castelfranchi 2018)
+  and "Is the difference between shame and guilt the target —
+  whole self or single act?" (Tangney/Lewis vs M&C 2018). New
+  carrier PMC6143989 fetched raw and all six quoted spans verified
+  verbatim; Spinoza and Tangney carriers re-opened by this
+  supervisor; advisor QC round applied (section A narrowed to the
+  blame-necessity question, speculative closer deleted, section B
+  closer replaced, body definitions re-attributed). 3 of 3
+  questions; checker 0, 0 dense; commit a1a96f8f. dos29's QC
+  ruling on Spinoza-vs-Nietzsche NOT overruled. Registry untouched
+  (already published).
+- dos17 (live) and dos7 (released) work reviewed at commit level;
+  no interference.
