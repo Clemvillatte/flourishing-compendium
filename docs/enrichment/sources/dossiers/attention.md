@@ -283,3 +283,32 @@ conventions vs tested doses).
 
 Checks: dossier_check.py exit 0; the fresh audit count for this dossier
 fell from 10 to 8. Scope: candidate-line review only.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+Following the advisor QC direction after two misattributed entries were
+found in the fear dossier, all 65 concept and principle entries in this
+dossier's map sections were compared against their linked cards (card
+files opened and read side by side with the glosses). Every gloss
+matches its card, including the James classic definition, Posner's
+spotlight and three-network models, Navon's global-local basis,
+Corbetta and Shulman's two-systems account, Broadbent's filter model,
+Lavie's load theory, the Simons-Chabris invisible-gorilla entry, the
+Fan et al. Attention Network Test, Graziano's Attention Schema Theory,
+the Kaplan directed-attention-fatigue and restoration entries, Leroy's
+attention residue, the Langner-Eickhoff sustained-attention and
+vigilance-decrement entries, MacLeod's dot-probe paradigm, Eysenck's
+attentional control theory, Wells's cognitive attentional syndrome,
+Hasenkamp's noticing-wandering-returning cycle, the
+progressive-overload entry (whose citation-gap caveat is faithfully
+carried in the gloss), Csikszentmihalyi's flow, the Ward et al.
+smartphone-presence entry (with its contested-finding caveat carried),
+Stothart et al.'s notification study, the Ophir-Nass-Wagner media
+multitasking entry, the Weil craft-and-discipline pair, and Hadot's
+spiritual vigilance with prosoche. No mismatches found; no edits made.
+This strengthens the earlier voice-audit review (all 10 candidates
+kept): the flagged constructions are card-faithful as well as
+doctrinally sourced.
+
+Checks: dossier_check.py exit 0 (run again this session). Editorial
+review only; no external carriers freshly opened this pass.
