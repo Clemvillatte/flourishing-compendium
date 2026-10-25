@@ -42,7 +42,6 @@
     "SE008",
     "SO002",
     "SO018",
-    "A013",
     "A047",
     "A057",
     "A079",
@@ -61,7 +60,8 @@
     "AT059",
     "A046",
     "K005",
-    "A030"
+    "A030",
+    "A013"
   ],
   "in_progress": null,
   "flagged": {
@@ -83,7 +83,7 @@
     "SE008": "supervisor disposition (2026-10-22 04:19Z, worker-sup-flourish-1022, corrected after advisor QC): repair verified \u2014 the therapeutic overreach is absent from the current page; its single quotation (the social-selves passage from Principles ch. X) re-verified verbatim vs the psychclassics.org ch. X carrier; the page frames the exercise as a compendium reflection, not therapy.",
     "SO002": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived (look-past-innermost-layer framing); first-person 'I recommend' removed; validator PASS",
     "SO018": "supervisor disposition (2026-10-22 04:19Z, worker-sup-flourish-1022, corrected after advisor QC): repair verified \u2014 the strong/weak verdict is carried in Boroditsky's own quoted words; quotes re-verified vs the uvic PDF and the one quote whose em-dash spacing differed from the carrier is normalized to the carrier's exact punctuation (recorded in the ledger, not on the page).",
-    "A013": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived (fit-and-yardstick framing); body 'I present' reworded; validator PASS",
+    "A013": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)",
     "A030": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)",
     "A046": "RESOLVED by assistant-supervisor supervisor-pplx-c3b0f2fb-1025b 2026-10-25 12:50Z: the Plain-words replicate allegation is STALE \u2014 the 2026-10-25 11:10Z refresh of plain-words-replicates.md absorbed the register; a fresh 5-gram overlap check run this session on the current page scores 0.00%. No rewrite needed.",
     "A047": "supervisor disposition (2026-10-22 04:07Z, worker-sup-flourish-1022): repair verified \u2014 the unity claim is now quoted from Aristotle rather than asserted by the compendium ('For if a man have the one virtue of Prudence he will also have all the Moral Virtues together with it', re-verified verbatim vs Perseus NE VI); no pairwise declarations remain.",
@@ -99,7 +99,7 @@
   },
   "missing_concepts": [],
   "sources_checked": 22,
-  "updated": "2026-10-25T12:40:20+00:00",
+  "updated": "2026-10-25T12:43:28+00:00",
   "band_done": false,
   "notes": {
     "AT053": {
@@ -131,6 +131,12 @@
       "claims": "n/a",
       "limitations": "None",
       "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6"
+    },
+    "A013": {
+      "qc": "Plain-words replicate replaced (~0.55 -> ~0.1); validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=4"
     }
   }
 }
