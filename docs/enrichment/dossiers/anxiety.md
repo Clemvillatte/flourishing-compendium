@@ -32,25 +32,9 @@ Facing the basic conditions of human life, death, freedom, isolation and meaning
 
 ### Fear and courage
 
-[Fear](https://clemvillatte.github.io/flourishing-compendium/#card=Fear): the emotion that mobilizes defense against threat; for Öhman and Mineka, the central motive state of an evolved module.
+The emotion that mobilizes defense against threat is [fear](https://clemvillatte.github.io/flourishing-compendium/#card=Fear); for Öhman and Mineka, the central motive state of an evolved module. Epicurus's Letter to Menoeceus addresses the two fears he treats as the main sources of disturbance, fear of the gods and fear of death, on [the classification of fears](https://clemvillatte.github.io/flourishing-compendium/#card=The%20classification%20of%20fears). His method is [the examination of fear](https://clemvillatte.github.io/flourishing-compendium/#card=The%20examination%20of%20fear): take a fear, hold it up to reasoning, and watch it dissolve or shrink to its real size. The [Epicurean argument against the fear of death](https://clemvillatte.github.io/flourishing-compendium/#card=Epicurean%20argument%20against%20the%20fear%20of%20death) holds that death is the privation of all sentience, so it cannot harm the person who no longer exists, and fearing it is a groundless pain.
 
-[The classification of fears](https://clemvillatte.github.io/flourishing-compendium/#card=The%20classification%20of%20fears): Epicurus's Letter to Menoeceus addresses the two fears he treats as the main sources of disturbance: fear of the gods and fear of death.
-
-[The examination of fear](https://clemvillatte.github.io/flourishing-compendium/#card=The%20examination%20of%20fear): Epicurus's method: take a fear, hold it up to reasoning, and watch it dissolve or shrink to its real size.
-
-[Epicurean argument against the fear of death](https://clemvillatte.github.io/flourishing-compendium/#card=Epicurean%20argument%20against%20the%20fear%20of%20death): death is the privation of all sentience, so it cannot harm the person who no longer exists, and fearing it is a groundless pain.
-
-[Courage](https://clemvillatte.github.io/flourishing-compendium/#card=Courage): one of the four cardinal virtues: acting well in the face of fear.
-
-[Courage — action despite fear](https://clemvillatte.github.io/flourishing-compendium/#card=Courage%20%E2%80%94%20action%20despite%20fear): Aristotle's definition: the brave person does not lack fear but fears the right things.
-
-[Authentic courage without props](https://clemvillatte.github.io/flourishing-compendium/#card=Authentic%20courage%20without%20props): Aristotle's distinction between courage proper and the things that merely look like it.
-
-[Courage built gradually](https://clemvillatte.github.io/flourishing-compendium/#card=Courage%20built%20gradually): Aristotle describes courage as formed through habituation.
-
-[Moral courage research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20courage%20research): Hannah, Avolio and Walumbwa's working definition of the research field.
-
-[The fearless mind](https://clemvillatte.github.io/flourishing-compendium/#card=The%20fearless%20mind): the composure the Buddha shows in the Abhayaraja-kumara Sutta (MN 58).
+One of the four cardinal virtues, acting well in the face of fear, is [courage](https://clemvillatte.github.io/flourishing-compendium/#card=Courage). Aristotle's definition, carried on [courage — action despite fear](https://clemvillatte.github.io/flourishing-compendium/#card=Courage%20%E2%80%94%20action%20despite%20fear), is that the brave person does not lack fear but fears the right things. His distinction between courage proper and the things that merely look like it is [authentic courage without props](https://clemvillatte.github.io/flourishing-compendium/#card=Authentic%20courage%20without%20props), and his description of courage as formed through habituation is [courage built gradually](https://clemvillatte.github.io/flourishing-compendium/#card=Courage%20built%20gradually). Hannah, Avolio and Walumbwa's working definition of the research field is [moral courage research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20courage%20research), and the composure the Buddha shows in the Abhayaraja-kumara Sutta (MN 58) is [the fearless mind](https://clemvillatte.github.io/flourishing-compendium/#card=The%20fearless%20mind).
 
 ### Worry, rumination and uncertainty
 
