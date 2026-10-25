@@ -560,3 +560,22 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   confirm the intended romanization and, if '(fu)' is an error, rename the page to the
   corrected form (candidate per the flag: 'Reversal (fan)'). Evidence trail: w1ac ledger
   flagged entry; no page edit was made.
+
+- **Anxiety about the future** (2026-10-25, supervisor launcher-pplx-1025c, from the w1i
+  milestone-QC TITLE-SCOPE HOLD): the seed title names a subset (anxiety about the future)
+  while the verified body treats Kierkegaard's general account of anxiety as possibility
+  (The Concept of Anxiety, with the SEP carrier). Content passed QC; only the title-scope
+  relation is open. Owner disposition requested: (a) accept the title as the compendium's
+  folk-facing label for the possibility account, or (b) rename to a scope-matching title
+  (candidate: 'Anxiety as possibility'). Evidence trail: w1i ledger.
+
+- **Plain words over beautiful** (2026-10-25, supervisor launcher-pplx-1025c, from the w1b
+  namespace review): the page is now a descriptive account of the Daodejing 81 preference
+  (Legge quote, opened-text claims verified, quote fidelity passed), but the title carries
+  a normative shape (a preference 'X over Y') that rule 2 reserves for principles, and
+  principle D122 already carries the normative preference. The body's DDJ-81 content is
+  distinct from D122's practice framing and worth keeping. Owner disposition requested:
+  (a) keep the page and rename to a descriptive title (candidate: 'Sincere words are not
+  fine (Daodejing 81)'), or (b) retire the page in favor of D122 with the DDJ-81 material
+  folded into D122's sources. Evidence trail: w1b ledger; deferred reciprocal proposals in
+  drafts/w1b/plain-words-proposals-deferred.md.
