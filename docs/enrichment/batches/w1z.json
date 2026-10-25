@@ -35,7 +35,6 @@
   "Defiance",
   "Dialogism",
   "Dichotomous (black-and-white) thinking",
-  "Dynamic Skill Theory",
   "Divided attention theory",
   "Encoding strategies",
   "Delay reduction hypothesis",
@@ -65,7 +64,8 @@
   "Ecological spirituality",
   "Ego strength",
   "Expectation fulfilment theory of dreaming",
-  "Deconditioning of learned self-concepts"
+  "Deconditioning of learned self-concepts",
+  "Dynamic Skill Theory"
  ],
  "in_progress": null,
  "flagged": {
@@ -75,7 +75,7 @@
   "Emergence": "seed cites Morgan Emergent Evolution; not opened, SEP entry lacks Morgan; page sourced to SEP Emergent Properties only",
   "Effort-recovery cycles": "inherited seed claim (well-being depends on oscillation) not stated in Sonnentag&Fritz 2007 abstract; page states scope",
   "Dichotomous (black-and-white) thinking": "Seed claim 'predicts distress and interpersonal dysfunction' is stronger than the scoping review (correlational, modest r); page states real scope.",
-  "Dynamic Skill Theory": "Seed 'predictable growth spurts' only holds for optimal-level skill under high support; PP018 is flow-based and does not cite Fischer.",
+  "Dynamic Skill Theory": "Reopened for QC: QC: routed jargon cleanup — 'seed line' narration reworded",
   "Encoding strategies": "Seed lists organisation as a Craik & Lockhart 1972 claim; the paper supports depth/elaboration, organisation not found in checked passages.",
   "Delay reduction hypothesis": "Filed under SO046 (in-group bias) but SO046 never mentions delay/reinforcement; Chung & Herrnstein attribution unverified (hypothesis is Fantino 1969).",
   "Deconstruction of essences": "Seed cites Garfield, Engaging Buddhism (not opened); SEP says svabhava-as-essence is NOT the main Madhyamaka target (substance is). B010 title 'nothing has a fixed essence' is looser than SEP.",
@@ -106,5 +106,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T16:08:00+00:00"
+ "updated": "2026-10-25T01:55:07+00:00",
+ "band_done": false
 }

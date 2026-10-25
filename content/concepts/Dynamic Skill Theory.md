@@ -25,7 +25,7 @@ In the authors' summary, activity varies "from moment to moment up and down a de
 
 ### Scope
 
-The seed line "skills develop in predictable growth spurts" needs the qualification above: spurts are the signature of optimal-level skill under strong support, and ordinary everyday skill grows more smoothly and slowly. Most of the evidence shown here concerns children's social and cognitive skills, and the page does not claim it carries over unchanged to adult wisdom practice.
+The phrase "skills develop in predictable growth spurts" needs the qualification above: spurts are the signature of optimal-level skill under strong support, and ordinary everyday skill grows more smoothly and slowly. Most of the evidence shown here concerns children's social and cognitive skills, and the page does not claim it carries over unchanged to adult wisdom practice.
 
 ### Here
 
