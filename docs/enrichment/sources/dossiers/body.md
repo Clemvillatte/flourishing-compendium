@@ -623,3 +623,26 @@ Still pending, for a future pass: pranayama and yangsheng glosses
 not reopened), the phantom-hand clause, and the ST047 card correction
 flagged above. Checks re-run after the corrections in the previous
 entry: checker exit 0, 0 dense, Husserl quote found.
+
+## Phantom-hand clause verified (2026-10-25, worker-pplx-dos17-1025h)
+
+The ST263 logline's clause ("the body schema does not dissolve when
+a part is lost") — previously recorded as the card's framing, pending
+— was corroborated this pass against an opened carrier: the Landes
+translation excerpts of Phenomenology of Perception hosted by the
+Topological Media Lab
+(topologicalmedialab.net/xinwei/classes/readings/Merleau-Ponty/Merleau-Ponty_Phenomenology_of_Perception_Landes_000_lxix.pdf).
+The excerpt quotes Merleau-Ponty: "To have a phantom limb is to
+remain open to all of the actions of which the arm alone is capable
+and to stay within the practical field that one had prior to the
+mutilation," and: "After the amputation, objects simply continue to
+appeal to 'a hand that I no longer have.'" The card's compression of
+this analysis is fair; the clause stands as verified against the
+opened excerpt. Note: the exact phrase "a modality of the body
+schema" does not appear in the excerpt; it appears in secondary
+literature citing Phenomenology of Perception (1962, p. 101 n.2) via
+search results, not an opened page. Remaining pending list unchanged
+otherwise: pranayama and yangsheng (card-level), Yoga Sutra 1.34
+(Woods carrier named), Barsalou PDF (server unavailable), Qi IEP
+carrier, Zhuangzi direct fetch (IP-blocked), and the ST047 card
+correction flagged for the supervisor.
