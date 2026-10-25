@@ -548,3 +548,11 @@ only a voice pass. The 40-300 word rule does not apply (dossier). Do not
 publish from this pass — I made no edits to the dossier.
 
 - 2026-10-25 10:54:42Z — repair, self-checked, pushed. The Hayes et al. 2013 ACT span (PMC3635495) had been verified by rendered fetch only; the NCBI eutils PMC full-text endpoint (efetch.fcgi?db=pmc&id=3635495, opened this session) serves the full article text as plain XML and contains the span verbatim, so that URL was added as a second carrier and quote_verify now checks the span clean through it. The Milinda 3.1.1 span remains the documented suttacentral rendered-fetch exception (suttacentral serves a JavaScript shell to automated fetchers).
+
+## Re-check (2026-10-25 11:55Z, worker-p1a-1025o, read-only assist)
+
+Re-attempted the SuttaCentral raw-text check for the Milinda chariot
+span: the carrier still serves a JS shell to plain fetchers (the
+documented limitation stands; the span's verification rests on the
+e-Buddhism raw-HTML carrier and the earlier fetch-tool rendering, per
+the entry above). Flag unchanged, correctly dispositioned.
