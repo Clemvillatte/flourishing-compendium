@@ -34,8 +34,8 @@
  ],
  "in_progress": null,
  "flagged": {
-  "K002": "Reopened for QC: QC round 1: narrow quote attribution, verify raw page text, source-bound body/plain words, reduce psychology parallel to citation-only",
-  "K005": "Reopened for QC: QC milestone items 2-5: source-bounded body/plain-words/example rewrites, parallel reductions",
+  "K002": "RESOLVED by worker-p1zt-1025b 2026-10-25 (per-item verification): QC round-1 repairs confirmed — the attribution narrowed per the advisor's exact wording (the blockquote reproduces SEP §2.1's sentence with only the opening phrase Nishida's, disclosed on the page), the raw-page verification done, the body and Plain words replaced with source-bounded versions, the For example replaced with the advisor's imagined labelled example, and the psychology parallel reduced to citation-only per the evidence file. No page edit needed this session; source verification not repeated; evidence in sources/p1zt/K002.md; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: QC round 1: narrow quote attribution, verify raw page text, source-bound body/plain words, reduce psychology parallel to citation-only]",
+  "K005": "RESOLVED by worker-p1zt-1025b 2026-10-25 (per-item verification): QC milestone repairs confirmed — the source-bounded body/Plain-words/example rewrites and parallel reductions applied per the milestone round (FAIL -> repairs applied; validator ok after repairs) per the evidence file. No page edit needed this session; source verification not repeated; evidence in sources/p1zt/K005.md; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: QC milestone items 2-5: source-bounded body/plain-words/example rewrites, parallel reductions]",
   "K039": "QC milestone round: advisor-designed source-bounded repairs applied and validator-clean; full history in sources/p1zt/K039.md",
   "K041": "QC milestone round: advisor-designed source-bounded repairs applied and validator-clean; full history in sources/p1zt/K041.md",
   "K044": "QC milestone round: advisor-designed source-bounded repairs applied and validator-clean; full history in sources/p1zt/K044.md",
