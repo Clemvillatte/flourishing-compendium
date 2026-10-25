@@ -100,3 +100,6 @@
 
 ## BE048 Dive reflex
 - Foster & Sheel 2005 (Wiley full text) opened: the 'facial cold receptors... augments' sentence and the definition verified verbatim. Removed 'shared with diving mammals' and 'through the vagus nerve' (not in the passages checked); labelled the cold-cloth use as my inference and not tested by the source.
+
+## AF009 Affect is constructed
+- Page had no source link. Opened a full-text copy of Barrett, How Emotions Are Made (Stanford course folder) and verified all six quoted sentences; removed unverified 'chs. 4, 6' locator; rewrote body as prose with block quote; Sources added. Flag: the text copy is a copyrighted-book copy on a university course server; supervisor may prefer a different citation form.
