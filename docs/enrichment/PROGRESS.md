@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-25 10:41 UTC (input revision `6c356dd`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 11:41 UTC.
+As of 2026-10-25 10:45 UTC (input revision `2fdf5af44`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 11:45 UTC.
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -8,8 +8,8 @@ As of 2026-10-25 10:41 UTC (input revision `6c356dd`). Scope: principles and con
 
 | Type | Recorded done | Not recorded done | Total | Done % |
 |---|---|---|---|---|
-| Principles | 2182 | 0 | 2182 | 100.0% |
-| Concepts | 2262 | 1 | 2263 | 100.0% |
+| Principles | 2181 | 1 | 2182 | 100.0% |
+| Concepts | 2263 | 0 | 2263 | 100.0% |
 | **Combined** | **4444** | **1** | **4445** | **100.0%** |
 
 ## Stories (separate pipeline)
@@ -43,9 +43,9 @@ Kernel pages live in `content/kernels/`; thinker pages in `content/thinkers/`. R
 
 | Forest | Recorded done | Total | Done % |
 |---|---|---|---|
+| D — Daoist Principles | 191 | 192 | 99.5% |
 | B — Buddhist Principles | 198 | 198 | 100.0% |
 | P — Pragmatist and Process Principles | 196 | 196 | 100.0% |
-| D — Daoist Principles | 192 | 192 | 100.0% |
 | S — Classical Stoicism | 140 | 140 | 100.0% |
 | Y — Yoga-Vedanta Principles | 132 | 132 | 100.0% |
 | R — Relational Philosophies | 130 | 130 | 100.0% |
