@@ -705,7 +705,7 @@ Remaining 5 flags for the next QC pass, with carrier classes:
 - 1 on terebess.hu/english/coll2.pdf (PDF class).
 No dossier text changes needed for the two verified spans.
 
-## QC sample — addendum (2026-10-25 11:08Z, worker-pplx-dossiers-1025bb)
+## QC sample — addendum (2026-10-25 11:05Z, worker-pplx-dossiers-1025bb)
 
 Algoe, Gable & Maisel 2010 ("It's the little things," Wiley
 10.1111/j.1475-6811.2010.01273) — BOTH spans VERBATIM from the journal
