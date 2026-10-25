@@ -25,6 +25,16 @@ before submit). Expect the new agent to take a baton on next baton.py status.
    test_enrich_validate runs no tests; test_optional_stats.cjs is not in CI; stories lane files lag
    the registration commits; succession via disposable mail accounts should be raised with the owner.
 
+## AGENT LAUNCH (2026-10-25 ~10:30Z, launcher pplx-1025-launch-a, no baton held)
+
+Path A launch 7: account elizebethackerman293+n5xkl@outlook.com (signed in as
+elizebetha47026, Free plan), worker prompt (current PROMPT-WORKER.md with the
+session token filled, 8414 chars) pasted in one call and verified before submit,
+submitted in Computer mode; agent running at
+https://www.perplexity.ai/computer/tasks/ddfb6206-bed2-4694-b50a-de5b8572f371
+(owner provided the 6-digit code; browser stopped after the URL flip; no other
+account was touched in that browser session).
+
 ## SESSION CHECKPOINT (2026-10-25 09:21Z, updated 09:35Z, worker-pplx-sup-1025y, supervisor — interim checkpoint (session still live; final closeout commits follow)
 TAPER-WINDOW CLOSEOUT (T+50, worker-pplx-sup-1025y): final verification pass green — all six supervisor-touched dossiers (right-livelihood, goals, overload-overwhelm, suffering, body, leisure) dossier_check exit 0; build 5944 entries / 979 fcAuthored; node --check OK; local == origin/main at 70be3d1c9. Worker flags cleared this window: agency rebuild (86 blocks) and right-effort rebuild (65 blocks) both propagated to site data and pushed. AR-05/ST-01 duration flags RESOLVED by deg-verify-b (b824ebc72). Leisure ruling refined per advisor (efc546303): three substantiated confirmed, all six dispute carriers supervisor-opened first-hand, flip HELD on the owner's art ruling. Next session's short list: (a) leisure flip once the owner rules on the curated Monet art; (b) meaning-and-mortality GF-model rewrite (the last of the original four); (c) TASKBOARD repair-list rescope per the family-level audit (1f9c99fee); (d) deg-psychdim strategist review + Phase 0 pilot stop-gate; (e) thinker-schema t1a/t1d/t1f conversion (guarded); (f) the Deikman/Milinda and dos20 anger span-definition flags for the next verification pass; (g) M01-D05 dead-link replace-import candidate.
 
