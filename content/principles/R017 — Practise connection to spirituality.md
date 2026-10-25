@@ -20,10 +20,10 @@ A Queensland Health guide describing the domain says that "stories, rituals, cer
 
 ### Scope
 
-The Working Together chapter text could not be opened, so the original entry's statements about the Dreaming being "a living reality" cannot be confirmed. Aboriginal and Torres Strait Islander peoples are many, with different traditions, so this entry describes a framework, not one belief. Anyone applying it should follow guidance from the relevant community.
+The Working Together chapter could not be opened, so the original entry's statements about the Dreaming being "a living reality" cannot be confirmed. Aboriginal and Torres Strait Islander peoples are many, with different traditions, so this entry describes a framework, not one belief; anyone applying it should follow the relevant community's guidance.
 
 **Plain words**
-Where a clinic might hand you a leaflet, this tradition hands you a web: everything that exists, people, land, the dead, the stories, held together by ties that run both ways. When participants were asked what the spiritual strand of wellbeing meant, the answer that came back most often was that web itself. One caution travels with it: the source chapter could not be opened directly, and no single framework speaks for every nation, so the practice belongs to each community.
+Where a clinic hands you a leaflet, this tradition hands you a web: everything that exists, people, land, the dead, the stories, tied together both ways. Asked what the spiritual strand meant, participants most often named that web itself. One caution: the source chapter could not be opened directly, no single framework speaks for every nation, and the practice belongs to each community.
 
 **For example**
 If you belong to an Aboriginal or Torres Strait Islander community, ask an Elder or a community health service about the stories, ceremony or knowledge you can take part in.
