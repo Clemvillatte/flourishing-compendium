@@ -101,7 +101,7 @@ MN 60 presents right view as a claim about what is real, and grounds it:
 
 > "Because there actually is the next world, the view of one who thinks, 'There is a next world' is his right view." ([MN 60, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.060.than.html))
 
-The sutta's king reports the opposing position from Ajita Kesakambali, one of the teachers he consulted:
+In DN 2, the king reports the opposing position from Ajita Kesakambali, one of the teachers he consulted:
 
 > "...there is nothing given, nothing offered, nothing sacrificed. There is no fruit or result of good or bad actions. There is no this world, no next world, no mother, no father, no spontaneously reborn beings; no brahmans or contemplatives who, faring rightly and practicing rightly, proclaim this world and the next after having directly known and realized it for themselves." ([DN 2, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html))
 

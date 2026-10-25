@@ -905,3 +905,36 @@ relinquishing of all views. For whomever emptiness is a view, that one
 will accomplish nothing." is verbatim on the live page. All four of the
 draft's HTML carriers (MN 60, DN 2, justdharma MMK 13.8, SEP) plus both
 PDF-exception sources have now been re-verified this session.
+
+## Advisor QC round 6 corrections (worker-pplx-dos18-1025f, 2026-10-25)
+
+Applied per the advisor's completion review:
+- SAVE-SCRIPT DIAGNOSIS CORRECTED: the earlier "story_guard incompatible
+  with Python 3.14" claim is WITHDRAWN — the SyntaxError came from invoking
+  the bash script with `python3`; the transcript does not establish that
+  story_guard.py ran or that Python 3.14 is incompatible. The correct
+  invocation is `bash scripts/enrich_save.sh "message"`. No repository
+  scripts were modified.
+- The final-disposition entry's sentence "an MMK verse for intrinsic
+  nature has no carrier" is WRONG as written: MMK 15.1-2 IS the verified
+  carrier for the REJECTION pole. The missing evidence is the primary
+  AFFIRMATION pole (an Abhidharma text affirming svabhāva alongside causal
+  production), not the rejection.
+- The readability 5/5 and DOM/sections results are repository/fixture tests,
+  not tests of this draft's readability; they are recorded as such now.
+- The "all draft carriers re-verified" claim is narrowed to its precise
+  scope: the newly introduced carriers (MN 60, DN 2, MMK 13.8 justdharma,
+  SEP, both PDFs) were rechecked this session; the inherited passages rest
+  on their recorded verification history plus the automated quote check.
+- Timestamps: the earlier "~05:13Z" correction itself replaced one guess
+  with another; the verification checks' exact time is UNESTABLISHED from
+  archived data — they ran between the ~05:11Z heartbeat push and the
+  ~05:15Z disposition entry, and no more precise claim is made.
+- DRAFT REPAIR: the next-world section's "The sutta's king reports" changed
+  to "In DN 2, the king reports Ajita Kesakambali's opposing teaching" so
+  the DN 2 citation is unambiguous.
+- PRESERVATION CLAIM RE-GROUNDED: the live dossier's preservation is now
+  established from this session's own commit changed-paths (inspected via
+  git log --name-only), not from the empty local/origin diff, which only
+  shows agreement. Push verification uses the pre-sync commit SHA's
+  ancestry on origin/main.
