@@ -646,3 +646,23 @@ otherwise: pranayama and yangsheng (card-level), Yoga Sutra 1.34
 (Woods carrier named), Barsalou PDF (server unavailable), Qi IEP
 carrier, Zhuangzi direct fetch (IP-blocked), and the ST047 card
 correction flagged for the supervisor.
+
+## Pranayama and yangsheng carriers verified (2026-10-25, worker-pplx-dos17-1025h)
+
+Two more pending items closed with opened carriers. (1) Pranayama:
+the Pranayama card's block quote was confirmed verbatim against the
+wisdomlib page it cites (Sūtra 2.49: "Regulation-of-breath
+(prāṇāyāma) is the stoppage of the inspiratory and expiratory
+movements (of breath) which follows, when that has-been-secured,"
+with Vyāsa's commentary and Vācaspatimiśra's gloss repeating it);
+the dossier's one-line framing ("the Indian branch of the family")
+rests on the card's definition. (2) Yangsheng: the Britannica
+article was opened and confirms the card's sentence verbatim
+("yangsheng, in Chinese medicine and religion (particularly Daoism),
+various self-cultivation practices aimed at personal health and
+longevity"); the dossier's compression ("the Chinese art of
+nurtishing life") is a fair rendering of the card's own gloss
+("nourishing life"). Remaining pending, unchanged: Yoga Sutra 1.34
+(Woods carrier named, not reopened), Barsalou PDF (server
+unavailable), Qi IEP carrier, Zhuangzi direct fetch (IP-blocked),
+and the ST047 card correction flagged for the supervisor.
