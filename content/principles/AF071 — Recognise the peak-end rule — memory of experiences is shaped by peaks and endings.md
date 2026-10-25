@@ -21,7 +21,7 @@ The claim that you do not remember the average needs one correction. A meta-anal
 [[T022 — Kahneman, Daniel|Kahneman]]'s 1993 full text and the Redelmeier and Kahneman 1996 paper are cited at second hand, and the evidence concerns ratings of specific episodes, such as pain, films and workdays. No study of family holidays was found, so the original entry's holiday example is dropped.
 
 **Plain words**
-When you look back on an experience, its worst or best moment and its last moments weigh heavily, along with the overall average. Duration counts for little.
+Memory keeps two souvenirs from every experience: the moment that hurt or thrilled most, and the moment it ended. Everything else, including how long it went on, is mostly thrown away. This is why a longer ordeal can be remembered as the better one, if it faded out gently, and why the last minute of anything matters more than fairness says it should.
 
 **For example**
 When you plan a long meeting or a hard task, decide in advance how it will end, and let the last few minutes be the gentlest.
