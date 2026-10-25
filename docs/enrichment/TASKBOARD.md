@@ -3457,3 +3457,13 @@ next writer — two citation corrections to the routing above:
   reframe the question so the Buddhist side genuinely denies the
   Weberian claim (e.g. wealth as result of initiative/effort vs
   evidence of election).
+
+- Candidate (b) source also verified live: Vanijja Sutta AN 5.177,
+  "Business (Wrong Livelihood)", Thanissaro trans.,
+  https://www.accesstoinsight.org/tipitaka/an/an05/an05.177.than.html —
+  the five trades print verbatim as "Business in weapons, business in
+  human beings, business in meat, business in intoxicants, and
+  business in poison." Note for the writer: the sutta is a bare
+  prohibition with no stated reasons — any dispute built on it needs
+  the reasons supplied from other sources (commentarial or
+  contemporary), flagged as such.
