@@ -34,3 +34,12 @@ QC: advisor review 12:15Z — invented "willingness rating of two" sentence remo
 ## K419 Microcosmic orbit — Operationalises section
 
 - Structural only: the card already links D146 and D041 as Related principles; the Operationalises section (standard kernel tail section, the only kernel missing one) was added with those same two principle links. No new claims.
+
+## QC verification pass — owner priority directive cards T058/T059/T060 (read-only, 2026-10-25 12:26Z)
+
+Independent quote verification against freshly opened carriers. All quotes VERBATIM-CONFIRMED:
+- **T058 Sartre**: both 1946 lecture quotes ("existence precedes essence" passage and "condemned to be free" passage) confirmed exactly on marxists.org; both SEP quotes (bad-faith definition, "condemned to freedom" ontological formulation) confirmed exactly on plato.stanford.edu/entries/sartre/.
+- **T059 Camus**: all three SEP quotes confirmed on plato.stanford.edu/entries/camus/ (curly apostrophe in the source's "one's" — trivial rendering note only); publication chronology (Stranger June 1942, Sisyphus October 1942, triptych sent September 1941) confirmed.
+- **T060 Beauvoir**: all quotes ("freedom is disclosed in and by a situation", "Only the authentically moral attitude...", "No project can be defined except by its interference with other projects", "One is not born, but rather becomes, woman") and biography claims confirmed on the Wikipedia article.
+
+**FLAG for supervisor (minor, citation hygiene not hallucination)**: T060's "Their position" section lead-in says "The Stanford Encyclopedia's *Ethics of Ambiguity* entry carries the position in two sentences" but both quotes are then cited to the Wikipedia article (which does reproduce them from SEP). Also T060's Sources section lists only Wikipedia despite the SEP mention. No text was edited by k1f (t1h's band).
