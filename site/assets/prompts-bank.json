@@ -3201,6 +3201,1056 @@
       ],
       "dossier": "genuine-flourishing",
       "sensitive": false
+    },
+    {
+      "id": "S0151",
+      "family": "meaning",
+      "text": "What are your days for — and when do you reach for comfort because that question went unanswered?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E066",
+          "title": "Practise the will to meaning",
+          "why": "Pleasure and status are what people reach for when the reason is missing."
+        },
+        {
+          "kind": "principle",
+          "ref": "BE062",
+          "title": "Engage in meaning-driven behaviour — act on values",
+          "why": "Naming a value leaves the question: what will you do this week?"
+        }
+      ],
+      "dossier": "lifes-purpose",
+      "sensitive": false
+    },
+    {
+      "id": "S0152",
+      "family": "others",
+      "text": "Who did something helpful today that you haven't told yet?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "B185",
+          "title": "Water the good seeds",
+          "why": "Tell them exactly what you appreciated — the exercise is the telling."
+        },
+        {
+          "kind": "principle",
+          "ref": "PP013",
+          "title": "Practise gratitude with specificity",
+          "why": "What happened, who helped, why it mattered."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0153",
+      "family": "identity",
+      "text": "What style have you mastered that your next work has to break?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E103",
+          "title": "Practise self-overcoming (Selbstüberwindung)",
+          "why": "The old work is not worthless, but it is what the new work has to get past."
+        },
+        {
+          "kind": "principle",
+          "ref": "P101",
+          "title": "Repeat with difference — never pure repetition",
+          "why": "The repetition that changes you is never pure."
+        }
+      ],
+      "dossier": "lifes-purpose",
+      "sensitive": false
+    },
+    {
+      "id": "S0154",
+      "family": "decision",
+      "text": "What choice has you going back and forth — and what are both sentences?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "SP024",
+          "title": "Expect fluctuation, and read it as structure",
+          "why": "Finish both sentences: what you want and what you're avoiding — they describe the same choice."
+        },
+        {
+          "kind": "principle",
+          "ref": "P126",
+          "title": "Respect genuine value conflict",
+          "why": "The back-and-forth may be a real conflict, not indecision."
+        }
+      ],
+      "dossier": "decision-making",
+      "sensitive": false
+    },
+    {
+      "id": "S0155",
+      "family": "attention",
+      "text": "What are you working on right now — the action or the result it serves?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "PP021",
+          "title": "Value the process over the outcome",
+          "why": "Notice whether the activity itself interests you and attention stays on carrying it out."
+        },
+        {
+          "kind": "principle",
+          "ref": "AT026",
+          "title": "Learn to enter flow — the state of full attentional absorption",
+          "why": "Flow is attention on the carrying-out."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0156",
+      "family": "suffering",
+      "text": "What has already happened that you are still at war with?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E105",
+          "title": "Practise amor fati",
+          "why": "Not fighting what has happened: no war on the ugly, no accusing."
+        },
+        {
+          "kind": "principle",
+          "ref": "P157",
+          "title": "Accept what cannot be changed while committing to what can",
+          "why": "The serenity split, stated as love rather than endurance."
+        }
+      ],
+      "dossier": "affect",
+      "sensitive": false
+    },
+    {
+      "id": "S0157",
+      "family": "silence",
+      "text": "What thought keeps arriving — and could you be the room it passes through?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "B044",
+          "title": "Just sit (zazen, shikantaza)",
+          "why": "The move is to stop commenting, not to stop thinking."
+        },
+        {
+          "kind": "principle",
+          "ref": "K059",
+          "title": "Let thoughts arise and dissolve, like waves on water",
+          "why": "The wave metaphor is the whole instruction."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0158",
+      "family": "attention",
+      "text": "How many times did your mind leave the breath — and is the coming back the practice?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "AT047",
+          "title": "Learn focused attention meditation — concentration on a single object",
+          "why": "A session full of returns is a session full of practice."
+        },
+        {
+          "kind": "principle",
+          "ref": "AT019",
+          "title": "Learn to redirect attention after distraction — the return, not the absence of distraction, is the skill",
+          "why": "The return is the skill; the drift is just the occasion."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0159",
+      "family": "suffering",
+      "text": "What condition are you in — and what does that condition need?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "B084",
+          "title": "Use antidotes skillfully",
+          "why": "Restlessness gets a walk, anger gets a pause, craving gets a delay."
+        },
+        {
+          "kind": "principle",
+          "ref": "BI055",
+          "title": "Learn to notice body signals — hunger, fatigue, tension, emotion",
+          "why": "The condition is often simpler than the moralist's question."
+        }
+      ],
+      "dossier": "body",
+      "sensitive": false
+    },
+    {
+      "id": "S0160",
+      "family": "others",
+      "text": "Whose pain are you near — and could you breathe in their fear, breathe out something steady?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "K028",
+          "title": "Practice sending and taking on the breath",
+          "why": "Tonglen works in hospital corridors, not only on the cushion."
+        },
+        {
+          "kind": "principle",
+          "ref": "AF060",
+          "title": "Recognise compassion fatigue — empathy has limits",
+          "why": "Taking in the pain is imagining, not absorbing; the limit is real."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0161",
+      "family": "courage",
+      "text": "What does your freedom cost other people — and does it depend on someone staying down?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E077",
+          "title": "Practise the liberation of others",
+          "why": "De Beauvoir: your choices only mean something when other free people can answer them."
+        },
+        {
+          "kind": "principle",
+          "ref": "S030",
+          "title": "Act for the common good",
+          "why": "The test is whether the people behind you get more room to choose."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0162",
+      "family": "decision",
+      "text": "Where would easing your grip help more than pushing harder?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "D003",
+          "title": "Act through wu wei — non-forcing",
+          "why": "Check whether you are helping before pushing harder."
+        },
+        {
+          "kind": "principle",
+          "ref": "B091",
+          "title": "Tune effort without strain (relaxed diligence)",
+          "why": "Effort tuned without strain is still effort."
+        }
+      ],
+      "dossier": "agency",
+      "sensitive": false
+    },
+    {
+      "id": "S0163",
+      "family": "time",
+      "text": "What is unfolding across this present's span — and what are you hunting in the point between?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P092",
+          "title": "Live in a thick present",
+          "why": "The present you perceive is a duration, not a point."
+        },
+        {
+          "kind": "principle",
+          "ref": "B176",
+          "title": "Treat the present moment as the miracle",
+          "why": "The span is where the miracle is, not the instant."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0164",
+      "family": "others",
+      "text": "Whose account have you heard — and what can you not yet judge?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "M010",
+          "title": "Let the in-between soften your judgments of both sides",
+          "why": "Hear each account; notice what you cannot yet judge."
+        },
+        {
+          "kind": "principle",
+          "ref": "P136",
+          "title": "Recognize your blindness — others live in worlds you cannot see",
+          "why": "The not-yet-judgeable is the blindness you can name."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0165",
+      "family": "identity",
+      "text": "Whose edited two minutes are you measuring your life against?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "SO031",
+          "title": "Treat social comparison as a double-edged sword",
+          "why": "A peer slightly ahead on the same road teaches; a stranger's edit doesn't measure."
+        },
+        {
+          "kind": "principle",
+          "ref": "SE056",
+          "title": "Recognise self and social media — curated selves distort self-perception",
+          "why": "The curated self is the edited two minutes."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0166",
+      "family": "courage",
+      "text": "What work could you present plainly — and does the checking carry the jade?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "D163",
+          "title": "Carry jade in coarse cloth",
+          "why": "The checked work is the jade; presenting it plainly is the coarse cloth."
+        },
+        {
+          "kind": "principle",
+          "ref": "D122",
+          "title": "Prefer plain words to beautiful ones",
+          "why": "Plain words are the cloth that fits."
+        }
+      ],
+      "dossier": "wisdom",
+      "sensitive": false
+    },
+    {
+      "id": "S0167",
+      "family": "time",
+      "text": "What would a Sunday slot, twenty minutes, three questions, hold after a year?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "Y038",
+          "title": "Make self-study a discipline",
+          "why": "The discipline lives in the calendar, not the mood."
+        },
+        {
+          "kind": "principle",
+          "ref": "B192",
+          "title": "Begin the day with intention; end it with review",
+          "why": "Attendance, not inspiration, is the unit."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0168",
+      "family": "attention",
+      "text": "What are you collecting to see instead of seeing any of it?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E029",
+          "title": "Practise curiosity (Neugier)",
+          "why": "Curiosity in Heidegger's sense is always moving to the next thing."
+        },
+        {
+          "kind": "principle",
+          "ref": "AT062",
+          "title": "Learn to manage social media attention — infinite scroll and variable rewards",
+          "why": "The scroll is curiosity's industrial form."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0169",
+      "family": "meaning",
+      "text": "What value of yours never touches a Tuesday?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P162",
+          "title": "Take committed action — behavior is where values become real",
+          "why": "A value that never touches a Tuesday is a mood about the value."
+        },
+        {
+          "kind": "principle",
+          "ref": "BE012",
+          "title": "Understand that behaviour is ultimately about values — action should serve what matters",
+          "why": "The doing is where the value exists."
+        }
+      ],
+      "dossier": "goals",
+      "sensitive": false
+    },
+    {
+      "id": "S0170",
+      "family": "meaning",
+      "text": "What is one manageable action your values ask for this week?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "BE062",
+          "title": "Engage in meaning-driven behaviour — act on values",
+          "why": "Choose one manageable action rather than stopping at the list."
+        },
+        {
+          "kind": "principle",
+          "ref": "MO039",
+          "title": "Learn to make habits small — start tiny",
+          "why": "Manageable is a size, not a compromise."
+        }
+      ],
+      "dossier": "goals",
+      "sensitive": false
+    },
+    {
+      "id": "S0171",
+      "family": "wisdom",
+      "text": "What would 'done' mean before you start — and could you define it?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "MO053",
+          "title": "Learn to manage perfectionism — good enough enables action",
+          "why": "The move is not lower standards but defining done before you start."
+        },
+        {
+          "kind": "principle",
+          "ref": "PP021",
+          "title": "Value the process over the outcome",
+          "why": "The criteria are the process's, not the outcome's."
+        }
+      ],
+      "dossier": "decision-making",
+      "sensitive": false
+    },
+    {
+      "id": "S0172",
+      "family": "courage",
+      "text": "What worthwhile, doable step could you take before you feel ready?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "AF036",
+          "title": "Learn to regulate through action — affect follows behaviour",
+          "why": "You don't have to feel ready before taking a small step."
+        },
+        {
+          "kind": "principle",
+          "ref": "BE027",
+          "title": "Learn to use graded exposure — start small, build up",
+          "why": "The graded start is the same move against fear."
+        }
+      ],
+      "dossier": "agency",
+      "sensitive": false
+    },
+    {
+      "id": "S0173",
+      "family": "wisdom",
+      "text": "What would count against your explanation — and did you check what was actually observed?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "Y017",
+          "title": "Catch distortion early",
+          "why": "A convincing explanation may depend on a mistaken observation."
+        },
+        {
+          "kind": "principle",
+          "ref": "S050",
+          "title": "Test your impressions against reality",
+          "why": "The Stoic test, stated as a research method."
+        }
+      ],
+      "dossier": "cognition",
+      "sensitive": false
+    },
+    {
+      "id": "S0174",
+      "family": "others",
+      "text": "What help are you asking for — and does the other person have enough to decide?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "D111",
+          "title": "Keep your intentions transparent",
+          "why": "Give them enough information to decide, and room to decline."
+        },
+        {
+          "kind": "principle",
+          "ref": "BE052",
+          "title": "Learn assertiveness — express needs and boundaries directly",
+          "why": "Plain asking is assertiveness's minimum."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0175",
+      "family": "suffering",
+      "text": "What are you expressing — and is it by shaping, or by venting?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P113",
+          "title": "Express by shaping, not venting",
+          "why": "The distinction is the craft question."
+        },
+        {
+          "kind": "principle",
+          "ref": "AF037",
+          "title": "Recognise the costs of over-regulation — you can try too hard",
+          "why": "Shaping is not suppression either."
+        }
+      ],
+      "dossier": "affect",
+      "sensitive": false
+    },
+    {
+      "id": "S0176",
+      "family": "identity",
+      "text": "What restriction have you protected in its early, unstable repetitions?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "Y023",
+          "title": "Build the upward spiral on purpose",
+          "why": "Protect the early repetitions; they are the least stable."
+        },
+        {
+          "kind": "principle",
+          "ref": "MO036",
+          "title": "Learn to use context-dependent repetition — same context, same behaviour",
+          "why": "The context is what carries the early reps."
+        }
+      ],
+      "dossier": "behaviour",
+      "sensitive": false
+    },
+    {
+      "id": "S0177",
+      "family": "others",
+      "text": "What did you lift yourself with today — and what did you pull yourself down with?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "Y069",
+          "title": "Make your own self your ally",
+          "why": "Krishna's line: the mind can serve you or work against you."
+        },
+        {
+          "kind": "principle",
+          "ref": "SE027",
+          "title": "Practise self-kindness over self-judgment — kindness is more motivating than cruelty",
+          "why": "The gentler voice is also the more effective one."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0178",
+      "family": "uncertainty",
+      "text": "What are you being carried along by — and is knowing it's worse enough?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "SP029",
+          "title": "Understand bondage as being determined from outside",
+          "why": "Knowing the action would be worse doesn't always give you the power to resist."
+        },
+        {
+          "kind": "principle",
+          "ref": "A056",
+          "title": "Recognise akrasia — weakness of will",
+          "why": "Aristotle and Spinoza diagnose the same gap differently."
+        }
+      ],
+      "dossier": "behaviour",
+      "sensitive": false
+    },
+    {
+      "id": "S0179",
+      "family": "wisdom",
+      "text": "What would you see if you stayed with one thing long enough to be amazed by it?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E029",
+          "title": "Practise curiosity (Neugier)",
+          "why": "Curiosity moves on; staying-with is its opposite and its cure."
+        },
+        {
+          "kind": "principle",
+          "ref": "A050",
+          "title": "Practise perceptiveness (aisthesis)",
+          "why": "The trained eye comes from staying, not from scanning."
+        }
+      ],
+      "dossier": "wisdom",
+      "sensitive": false
+    },
+    {
+      "id": "S0180",
+      "family": "meaning",
+      "text": "What would you not change about your life, backwards or forwards?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E105",
+          "title": "Practise amor fati",
+          "why": "The wish is that you would not change what had to be."
+        },
+        {
+          "kind": "principle",
+          "ref": "E104",
+          "title": "Practise the eternal recurrence",
+          "why": "The recurrence question is amor fati's stress test."
+        }
+      ],
+      "dossier": "lifes-purpose",
+      "sensitive": false
+    },
+    {
+      "id": "S0181",
+      "family": "courage",
+      "text": "What conversation are you rehearsing instead of having?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P162",
+          "title": "Take committed action — behavior is where values become real",
+          "why": "The rehearsal is where the value goes to hide."
+        },
+        {
+          "kind": "principle",
+          "ref": "B163",
+          "title": "Reconcile quickly — don't let conflict fester",
+          "why": "The rehearsal is the festering in disguise."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0182",
+      "family": "suffering",
+      "text": "What coal are you holding — and for whom is the release?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "B107",
+          "title": "Forgive — release the coal",
+          "why": "The image is the whole teaching: the coal is yours."
+        },
+        {
+          "kind": "principle",
+          "ref": "S074",
+          "title": "Forgive those who wrong you",
+          "why": "The Stoic line agrees on the mechanism, not the sentiment."
+        }
+      ],
+      "dossier": "affect",
+      "sensitive": false
+    },
+    {
+      "id": "S0183",
+      "family": "silence",
+      "text": "What is the state of your mind right now — and could you name it without a verdict?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "B066",
+          "title": "Watch states arise and pass",
+          "why": "The naming is the watching; the verdict is extra."
+        },
+        {
+          "kind": "principle",
+          "ref": "B056",
+          "title": "Note lightly (noting)",
+          "why": "One word, at the moment, and back."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0184",
+      "family": "meaning",
+      "text": "What is the work you would do even if the book never sells?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "PP021",
+          "title": "Value the process over the outcome",
+          "why": "Writing every morning because you like it, whether or not it sells."
+        },
+        {
+          "kind": "principle",
+          "ref": "P120",
+          "title": "Make activities autotelic — worth doing for their own sake",
+          "why": "The external benefits set aside, the doing still recommends itself."
+        }
+      ],
+      "dossier": "lifes-purpose",
+      "sensitive": false
+    },
+    {
+      "id": "S0185",
+      "family": "decision",
+      "text": "Where are you trying to convince — and where would dropping the need work better?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "D120",
+          "title": "Drop the need to convince",
+          "why": "The need to convince is often the obstacle to being heard."
+        },
+        {
+          "kind": "principle",
+          "ref": "E088",
+          "title": "Practise critical distance",
+          "why": "Distance from your own position is where the convincing ends."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0186",
+      "family": "wisdom",
+      "text": "What are you a peer slightly ahead of someone on — and could you be taught by the one ahead of you?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "SO031",
+          "title": "Treat social comparison as a double-edged sword",
+          "why": "A peer slightly ahead on the same road is a comparison that can teach."
+        },
+        {
+          "kind": "principle",
+          "ref": "A013",
+          "title": "Practice generosity (eleutheriotes)",
+          "why": "Being the one ahead carries its own duty."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0187",
+      "family": "attention",
+      "text": "What one thing could you give your full attention to for its own duration?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "B170",
+          "title": "Wash the dishes to wash the dishes",
+          "why": "One act at a time is the whole instruction."
+        },
+        {
+          "kind": "principle",
+          "ref": "AT016",
+          "title": "Cultivate single-tasking — do one thing at a time",
+          "why": "Single-tasking is the attentional form of the same."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0188",
+      "family": "others",
+      "text": "Whose trouble did you sit with today without fixing?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "K028",
+          "title": "Practice sending and taking on the breath",
+          "why": "The direction is deliberate: take in the bad, send out the good."
+        },
+        {
+          "kind": "principle",
+          "ref": "A017",
+          "title": "Practice gentleness (praotes)",
+          "why": "Gentleness is often the not-fixing."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0189",
+      "family": "time",
+      "text": "What is the thing you do at a set time whether or not insight shows up?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "Y038",
+          "title": "Make self-study a discipline",
+          "why": "Attendance, not inspiration."
+        },
+        {
+          "kind": "principle",
+          "ref": "P038",
+          "title": "Make habit your flywheel",
+          "why": "The flywheel doesn't ask for the mood."
+        }
+      ],
+      "dossier": "behaviour",
+      "sensitive": false
+    },
+    {
+      "id": "S0190",
+      "family": "wisdom",
+      "text": "What are you seeing in your friend that you are not seeing in yourself?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "SE024",
+          "title": "Recognise the self-serving bias — you take credit for success and blame failure on circumstances",
+          "why": "The bias runs opposite directions for self and other."
+        },
+        {
+          "kind": "principle",
+          "ref": "P136",
+          "title": "Recognize your blindness — others live in worlds you cannot see",
+          "why": "The blindness is structural, not personal."
+        }
+      ],
+      "dossier": "cognition",
+      "sensitive": false
+    },
+    {
+      "id": "S0191",
+      "family": "desire",
+      "text": "What do you want from the promotion — and what are you trying to avoid?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "SP024",
+          "title": "Expect fluctuation, and read it as structure",
+          "why": "Both sentences describe the same choice; neither is the answer alone."
+        },
+        {
+          "kind": "principle",
+          "ref": "MO020",
+          "title": "Recognise mastery vs performance goals — learning vs proving",
+          "why": "The promotion can be either, depending on the sentence."
+        }
+      ],
+      "dossier": "motivation",
+      "sensitive": false
+    },
+    {
+      "id": "S0192",
+      "family": "suffering",
+      "text": "What restlessness in you needs a walk rather than a judgment?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "B084",
+          "title": "Use antidotes skillfully",
+          "why": "Restlessness gets a walk; the moralist's question is the wrong one."
+        },
+        {
+          "kind": "principle",
+          "ref": "BI030",
+          "title": "Learn that walking is underrated — simple, accessible, effective",
+          "why": "The walk is both the antidote and the evidence."
+        }
+      ],
+      "dossier": "body",
+      "sensitive": false
+    },
+    {
+      "id": "S0193",
+      "family": "meaning",
+      "text": "What did you make this week that a burst of inspiration wouldn't have produced?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "Y038",
+          "title": "Make self-study a discipline",
+          "why": "The notebook holds a year of the mind; no burst would have."
+        },
+        {
+          "kind": "principle",
+          "ref": "P114",
+          "title": "Create as growth — creation is the evidence of growth",
+          "why": "The evidence is the output, not the feeling."
+        }
+      ],
+      "dossier": "lifes-purpose",
+      "sensitive": false
+    },
+    {
+      "id": "S0194",
+      "family": "others",
+      "text": "What did you say yes to that you would rather have declined — and did they have room?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "D111",
+          "title": "Keep your intentions transparent",
+          "why": "Ask plainly and leave them room to decline — including yourself."
+        },
+        {
+          "kind": "principle",
+          "ref": "BE052",
+          "title": "Learn assertiveness — express needs and boundaries directly",
+          "why": "Declining is assertiveness too."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0195",
+      "family": "attention",
+      "text": "What distraction did you catch today — and was the catch the practice?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "AT018",
+          "title": "Practise deliberate distraction management — know what pulls your attention",
+          "why": "Knowing what pulls is the first catch."
+        },
+        {
+          "kind": "principle",
+          "ref": "AT019",
+          "title": "Learn to redirect attention after distraction — the return, not the absence of distraction, is the skill",
+          "why": "The catch is the return, not the absence."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0196",
+      "family": "courage",
+      "text": "What would you do if you trusted that the mind is trainable?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "B013",
+          "title": "Trust that the mind is trainable",
+          "why": "The trust is the premise of every practice here."
+        },
+        {
+          "kind": "principle",
+          "ref": "AT006",
+          "title": "Recognise that attention is trainable — it can be cultivated",
+          "why": "Cultivation is the claim; the rest is agriculture."
+        }
+      ],
+      "dossier": "wisdom",
+      "sensitive": false
+    },
+    {
+      "id": "S0197",
+      "family": "suffering",
+      "text": "What feeling are you having — rather than being?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "SE002",
+          "title": "Recognise the observing self — you are not only the contents of awareness",
+          "why": "'There is panic' instead of 'I am panic' — grammar-sized, freedom-large."
+        },
+        {
+          "kind": "principle",
+          "ref": "AF045",
+          "title": "Learn to let affect pass — feelings are impermanent",
+          "why": "The feeling is a weather report, not an identity."
+        }
+      ],
+      "dossier": "affect",
+      "sensitive": false
+    },
+    {
+      "id": "S0198",
+      "family": "wisdom",
+      "text": "What do you believe that you have never asked for the cash value of?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P020",
+          "title": "Ask for the cash value of your beliefs",
+          "why": "Peirce's question: what would the belief do differently?"
+        },
+        {
+          "kind": "principle",
+          "ref": "P012",
+          "title": "An idea's meaning is its practical effects",
+          "why": "The meaning is the effects, not the statement."
+        }
+      ],
+      "dossier": "cognition",
+      "sensitive": false
+    },
+    {
+      "id": "S0199",
+      "family": "time",
+      "text": "What is enough for today — and what would 'enough' look like written down?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "D019",
+          "title": "Know what is enough (zhizu)",
+          "why": "Enough is a knowable number, not a feeling."
+        },
+        {
+          "kind": "principle",
+          "ref": "MO053",
+          "title": "Learn to manage perfectionism — good enough enables action",
+          "why": "Define done before starting; ship at that threshold."
+        }
+      ],
+      "dossier": "decision-making",
+      "sensitive": false
+    },
+    {
+      "id": "S0200",
+      "family": "meaning",
+      "text": "What would you do with the last day of a life you were not wishing were different?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E105",
+          "title": "Practise amor fati",
+          "why": "Not wishing the life that includes it were a different life."
+        },
+        {
+          "kind": "principle",
+          "ref": "S036",
+          "title": "Do not postpone living well",
+          "why": "Postponement is the wish in action."
+        }
+      ],
+      "dossier": "lifes-purpose",
+      "sensitive": false
     }
   ]
 }
