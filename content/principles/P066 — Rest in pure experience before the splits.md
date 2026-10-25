@@ -23,7 +23,7 @@ In the collection's opening essay, "Does 'Consciousness' Exist?" (p. 23), James 
 (James, Essays in Radical Empiricism, 1912.)
 
 **Plain words**
-The sorting of a moment into what I thought and what happened is a second act; the moment itself arrives unsorted. The instruction to return to the pre-split layer is a return to what is already there before the filing starts, an exercise rather than a claim about what experience ultimately is. A practical handle: catch any moment before you name it, the light on the desk, the sound arriving, and stay a beat with it before the labels land.
+James's babies have it, and the sleepwalker has it, and everyone else has it too for a fraction of each second: the raw stream before the filing clerk wakes up and stamps everything as "me" or "not me". The practice is a deliberate visit to that stream, holding a nameless moment, the lamp light, the arriving sound, a half-second longer than habit allows. The visit is not a metaphysical verdict on what reality is made of; it is a small holiday from the sorting.
 
 **For example**
 An illustration of attending rather than a report on experience itself: absorbed in swimming, you notice the activity only afterward, when the mind files it into 'me' and 'pool.'

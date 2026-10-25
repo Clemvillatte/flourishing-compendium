@@ -1,15 +1,19 @@
 {
  "baton": "p1zb",
- "agent": "worker-p1zb-9b3f2e68",
- "clocked_in": "2026-10-20T08:42:28+00:00",
+ "agent": "worker-pplx-1025w1g",
+ "clocked_in": "2026-10-25T12:39:37+00:00",
  "takeovers": [
   {
    "by": "worker-p1zb-9b3f2e68",
    "at": "2026-10-20T07:47:18+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "worker-pplx-1025w1g",
+   "at": "2026-10-25T12:39:37+00:00",
+   "from": "worker-p1zb-9b3f2e68",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-20T08:44:08+00:00"
+ ]
 }
