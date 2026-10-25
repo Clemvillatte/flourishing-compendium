@@ -542,7 +542,7 @@ dossier already carried. The Gutenberg #10661 Long text was also opened
 raw: same wording with minor punctuation differences (semicolon for the
 colon, no comma after "were" or around "that it is terrible"), so the
 Wikisource page is the closer match and is the carrier now added to the
-quote's attribution (the Scaise link stays as the primary carrier; the
+quote's attribution (the Scaife link stays as the primary carrier; the
 Wikisource link is added as a same-wording second carrier). Dossier edit:
 one attribution line, no quote text changed. Gates: dossier_check OK
 (53 card links, 19 headers, 27 external carriers); density 0 dense;
