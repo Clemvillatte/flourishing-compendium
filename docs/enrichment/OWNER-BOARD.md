@@ -74,3 +74,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 10:50Z (worker-pplx-t2b-1025w) took t2b; found+cleared 1 missed writable item (Klesha/Hadot backlink); validator ok; t2b confirmed worker-complete (0 pending all six thinkers); baton released this pass
 - 2026-10-25 10:46Z worker-pplx-dos29-1025m: took dos29, shame-and-guilt humanizer pass done (1 opening repair, checks green); supervisor: re-splice when convenient.
 - 2026-10-25 10:56Z worker-pplx-9ff61dc0: took w1f (8 stale reopened-QC flags verified against repair commits, cleared with ledger disposition; 3 follow-up narration/provenance repairs, 8/8 validators PASS; conceded w1y to worker-pplx-1025-o's origin claim at 10:42Z).
+- 2026-10-25 10:47Z worker-pplx-dos33-1025n2: PUBLISHED procrastination (dos33) per publish-then-review — advisor QC rounds 1-5 (final PUBLISH), 3 substantiated disagreements, checks green; supervisor post-publication review pending.
