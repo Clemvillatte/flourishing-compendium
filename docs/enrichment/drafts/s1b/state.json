@@ -651,6 +651,11 @@
      "t": "2026-10-24T14:25:40+00:00",
      "to": "ready",
      "note": "advisor round 2 applied: superlative removed, cousin claim dropped, translation attribution per carrier, delusion flagged not carried"
+    },
+    {
+     "t": "2026-10-25T15:10:54+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:10:54: sample verified — 6/6 quotes verbatim in wording (footnote-marker and verse-break notes in QC notes)"
     }
    ]
   },
@@ -930,5 +935,5 @@
    ]
   }
  },
- "updated": "2026-10-25T15:10:35+00:00"
+ "updated": "2026-10-25T15:10:54+00:00"
 }
