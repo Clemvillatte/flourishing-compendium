@@ -3697,3 +3697,7 @@ Note for the record: the handout extraction shows odd character spacing ("ra dic
 ## QC SAMPLE — K268 Preferred-indifferent hierarchy (gm-pplx-kern1-1025a, 2026-10-25 14:28Z) — PASS
 
 The Stoic attribution is grounded in the Stanford Encyclopedia of Philosophy Stoicism entry (opened live this session). The three quoted passages on the card match the SEP text verbatim; the fetch-only flag was typographic normalization (em dashes vs hyphens, "it is appropriate" vs "is appropriate"). No content fidelity issue.
+
+## QC PASS — general-bucket audit (gm-pplx-kern1-1025a, 2026-10-25 14:32Z) — CONFIRMED CLEAN
+
+A broader regex sweep over 20 randomly-sampled "general" cards initially flagged 7 as containing ACT language (K133, K317, K141, K259, K125, K225, K127). Manual review: ALL 7 are FALSE POSITIVES — the regex `\bACT\b` (case-insensitive) matched the plain English word "act" (verb/noun) in prose, not the acronym "ACT" (Acceptance and Commitment Therapy). The mapping is correct; the "general" bucket is clean. K268 (Stoic) and K379 (CFT) QC samples also pass.
