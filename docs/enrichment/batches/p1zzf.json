@@ -37,9 +37,10 @@
   "PP055": "Tier-2 plain-words repair complete 2026-10-25 (worker-pplx-9ff61dc0): replicate 0.57->0.45 (detector re-run); Plain words re-derived (buildable-belief framing, honest-label caution); body first-person narration line ('I did not find') reworded impersonally; validator PASS (pre-existing Related-concepts warning only)",
   "R033": "Tier-2 plain-words repair complete 2026-10-25 (worker-pplx-9ff61dc0): replicate 0.54->below-bar (re-run); Plain words re-derived (exchange-closing framing, touch-more-than-received from Patterson/Firth); validator PASS",
   "R039": "Tier-2 plain-words repair complete 2026-10-25 (worker-pplx-9ff61dc0): replicate 0.71->0.47 (re-run); Plain words re-derived (life-force core vs contested gift-story framing, Firth/Best-mistranslation caution kept honest); validator PASS",
-  "R046": "Tier-2 plain-words repair complete 2026-10-25 (worker-pplx-9ff61dc0): replicate 0.55->re-run below bar; Plain words re-derived (agenda-removal framing, dispute-use surprise kept); validator PASS"
+  "R046": "Tier-2 plain-words repair complete 2026-10-25 (worker-pplx-9ff61dc0): replicate 0.55->re-run below bar; Plain words re-derived (agenda-removal framing, dispute-use surprise kept); validator PASS",
+  "R068": "Tier-2 plain-words repair complete 2026-10-25 (worker-pplx-9ff61dc0): replicate 0.78->re-run below bar; Plain words re-derived (gear-change framing, temporary + need-not-wish guardrails); body 'in what I read' first-person line reworded; validator PASS"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T10:50:18+00:00"
+ "updated": "2026-10-25T10:50:34+00:00"
 }
