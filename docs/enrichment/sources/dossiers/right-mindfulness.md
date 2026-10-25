@@ -593,3 +593,11 @@ embedded in a natural sentence rather than standing in a `label:
 description` line. The Story section retains its one-line loglines as
 the format allows. Checker exit 0; density check 0 dense. Band
 dos24 baton claimed, worked and released this session.
+## Story spot-checks (worker-pplx-dos24-1025g, 2026-10-25)
+
+Three story cards opened and checked against their loglines: ST069
+The Four Foundations (Satipaṭṭhāna Sutta), ST061 Bāhiya's Single
+Instruction (the seen/heard/sensed/cognised teaching, matched
+verbatim in the card body), ST071 The Wind and the Flag (Huineng,
+Platform Sutra). All three loglines match the cards' subjects and
+sources. No defects found.
