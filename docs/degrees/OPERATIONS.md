@@ -174,6 +174,28 @@ one more advisor call.
   (5) ST-04 Burnyeat lecture fits mod-phil-2 only via context, owner should confirm fit;
   (6) Spanish-language flags on SRC-M24-005/006 (deg-contemplative). All verified sources: free
   access, no paywalls found. One third-party upload flagged: M02-B06 (BBC documentary).
+- [QC-32] 2026-10-25 deg-verify-a (verifier-pplx-a1): continuation run that finished the
+  Block I verify-a hash half. All 81 records now verified or flagged; TASKBOARD updated.
+  Findings this run: (1) ST-06 canonical URL (learn.modernstoicism.com .../lectures/124)
+  is dead, 404; the talk (Pigliucci, Stoicon 2019, 87:25) lives in course 688494 at
+  lecture 12430467, free enrollment but account-gated media, owner should re-point the
+  record (YouTube playlist exists in the course); (2) Huberman SRC-M07-014 page prints
+  no duration, closed via the official channel upload IAnhFUUCq6c (3:31:28);
+  SRC-M07-018 Essentials edit still has no printed duration, full-length source
+  rW9QKc-iFoY (1:52:44) verified as a pointer; (3) Yale OYC pages print no durations,
+  measured from the pages' own hosted mp3s: AR-02 40:10, SRC-M07-002 1:04:41; (4) two
+  independent/third-party channels flagged: SRC-M12-006 (Ames Daoism 1/6, 9:35, one
+  segment of six) and Russon SRC-M20-C01 (credential provenance to be attached);
+  (5) Portuguese-language flag on M01-P13 (UNIVESP Dewey, Hickman segment at 49:17);
+  (6) PHR-12 mentioned in an earlier run does not exist in the manifest (only PHR-01/02,
+  both verified), the earlier note was a phantom ID; (7) Neff Greater Good video TRT
+  1:21:48 printed on page, but page gives no topic breakdown, owner should confirm
+  coverage against the video. New evidence files: deg-mind, deg-therapeutic. QC:
+  repaired literal-escape formatting in deg-relational (M04-R08/R13), removed two
+  affiliation claims written from memory rather than sources (Kristjansson, Zahavi),
+  integrity check confirms all 66 queue records have matching entries and canonical
+  URLs. ST-05 Gresham duration still not printable from any public page, blocking
+  flag stands.
 - 2026-10-25 worker-pplx-integrate-1 (deg-integrate), LIVE VERIFICATION
   RECORDED (08:38 UTC): the Pages deploy run for efa18ed3d completed
   success at 08:36:33 UTC and contains the full migration chain (verified
