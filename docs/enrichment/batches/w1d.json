@@ -4,7 +4,6 @@
   "Escape from freedom",
   "Eternal recurrence",
   "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence",
-  "Family systems theory",
   "Fixed views of self",
   "Four immeasurables",
   "Fusion of horizons",
@@ -13,7 +12,6 @@
   "Graded exposure / systematic desensitisation (Wolpe)",
   "Graded task assignment (Beck, BA)",
   "Guilt motivates reparative behaviour",
-  "Hope",
   "Implicit theories of intelligence",
   "Judgment adds the harm",
   "Learning by doing",
@@ -32,7 +30,6 @@
   "Phenomenological psychology",
   "Procedural justice",
   "Progressive muscle relaxation (Jacobson)",
-  "Prosocial behaviour",
   "Reflective practice",
   "Regulatory flexibility theory",
   "Reward prediction error (Schultz)",
@@ -70,7 +67,10 @@
   "Attention Network Test (ANT)",
   "Attention restoration",
   "Attentional bias research",
-  "Attentional control theory (Eysenck)"
+  "Attentional control theory (Eysenck)",
+  "Family systems theory",
+  "Hope",
+  "Prosocial behaviour"
  ],
  "in_progress": null,
  "flagged": {
@@ -82,11 +82,14 @@
   "The capacity to be alone": "supervisor disposition (2026-10-23 ~06:40Z, worker-pplx-sup-0b6f3a91): KEEP BOTH, merge DEFERRED to owner — the pair ('Capacity to be alone (Winnicott)', 'The capacity to be alone') is a true duplicate on the same Winnicott 1958 content, but a merge is a namespace change touching ~11 files' inbound links across bands (Y024 precedent: owner call); differentiation routed to the owning bands per the S104 keep-both precedent.",
   "The smallest complete practice": "supervisor disposition (2026-10-23 ~06:40Z, worker-pplx-sup-0b6f3a91): keep as concept — the coinage is disclosed in the first sentence ('the compendium's name for...'), the 'eternal contribution' precedent; both halves carry classical ground (MN 118, DDJ 64) with the pairing labelled the compendium's own; no action.",
   "Working memory capacity limits": "RESOLVED 2026-10-20: advisor closure round scoped prose PASS; Cowan 2001 PDF opened; validated vs seed baseline b20024da^ (1 ok); full record in docs/enrichment/sources/w1d/ledger.md",
-  "Attentional control theory (Eysenck)": "RESOLVED 2026-10-20: advisor scoped PASS at round 15b-close second review; repairs (citation URL, bare link, ledger chronology) applied and remotely verified; full record in docs/enrichment/sources/w1d/ledger.md"
+  "Attentional control theory (Eysenck)": "RESOLVED 2026-10-20: advisor scoped PASS at round 15b-close second review; repairs (citation URL, bare link, ledger chronology) applied and remotely verified; full record in docs/enrichment/sources/w1d/ledger.md",
+  "Family systems theory": "Reopened for QC: QC: routed jargon cleanup — 'My seed' narration reworded; '(opened)' suffixes removed",
+  "Hope": "Reopened for QC: QC: routed jargon cleanup — 'My seed' narration reworded; '(opened)' suffixes removed",
+  "Prosocial behaviour": "Reopened for QC: QC: routed jargon cleanup — 'My seed' narration reworded; '(opened)' suffixes removed"
  },
  "missing_concepts": [],
  "sources_checked": 153,
- "updated": "2026-10-21T14:53:08+00:00",
+ "updated": "2026-10-25T01:48:18+00:00",
  "qc_log": {
   "Escape from freedom": "approved after 4 advisor QC rounds: quotes verified against opened sources (panarchy ch. V excerpt, Wikipedia, IEP Totalitarianism 2.d, SEP Critical Theory 1.4); Simondon Individuation and The having mode removed from Related; cross-tradition links labelled comparisons; sources_checked: 4",
   "Eternal recurrence": "milestone advisor QC applied: practical-reading attribution qualified; AF069 described as the compendium's separate comparison; Panta rhei, Corsi e ricorsi and Three thousand realms claims externally verified; 'Thou art a God' capitalisation matches primary text",
@@ -120,7 +123,7 @@
  "incidents": [
   "2026-10-19: enriched content/concepts/The eternal contribution.md by mistake (not in w1d manifest; belongs to w1ae). Content file reverted to seed in this commit; validated draft preserved at docs/enrichment/drafts/w1d/The eternal contribution.md for the w1ae agent. Reciprocal proposals for it removed from proposals/w1d.json."
  ],
- "band_done": true,
+ "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
   "at": "2026-10-19T13:16:28.913930+00:00",

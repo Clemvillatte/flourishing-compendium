@@ -7,7 +7,7 @@ file: "Hope"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-H"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter H", "parent": ""}
 ---
-Hope is the forward-facing emotion: expectation of a good that has not arrived and is not guaranteed. My seed names its two poles, the psychological one in Snyder's hope theory and the philosophical one in Bloch's The Principle of Hope and Marcel's Mystery of Being, and the principle that carries it, R087, draws the line that organises both: hope is not optimism, and it is the refusal to despair while staying honest about the odds.
+Hope is the forward-facing emotion: expectation of a good that has not arrived and is not guaranteed. The idea has two poles, the psychological one in Snyder's hope theory and the philosophical one in Bloch's The Principle of Hope and Marcel's Mystery of Being, and the principle that carries it, R087, draws the line that organises both: hope is not optimism, and it is the refusal to despair while staying honest about the odds.
 
 ### Snyder's theory: goals, pathways, agency
 

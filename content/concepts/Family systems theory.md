@@ -8,7 +8,7 @@ tags: ["psych/clinical", "psych/developmental", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-DEVELOPMENTAL"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter F", "parent": ""}
 ---
-Family systems theory treats the family as one emotional unit rather than a collection of individuals. The psychiatrist Murray Bowen originated it with eight interlocking concepts, and Salvador Minuchin's structural variant, in Families and Family Therapy (1974), added the vocabulary of subsystems, boundaries and hierarchies. My seed names both: Bowen, 1978; Minuchin, 1974 ([Bowen Center](https://www.thebowencenter.org/introduction-eight-concepts); [Minuchin 1974 excerpts](https://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=1103&context=csr)).
+Family systems theory treats the family as one emotional unit rather than a collection of individuals. The psychiatrist Murray Bowen originated it with eight interlocking concepts, and Salvador Minuchin's structural variant, in Families and Family Therapy (1974), added the vocabulary of subsystems, boundaries and hierarchies. The account draws on both: Bowen, 1978; Minuchin, 1974 ([Bowen Center](https://www.thebowencenter.org/introduction-eight-concepts); [Minuchin 1974 excerpts](https://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=1103&context=csr)).
 
 ### Bowen's view
 

@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Prosocial behavior is a family of voluntary, other-directed actions. A recent review defines the field this way: "Prosocial behavior, which refers to actions taken to help and benefit others, is vital in promoting cooperation and maintaining social bonds in both human and animal social groups" ([Rigney and Hong, Prosocial Helping Behavior, Biological Psychiatry 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12358107/)). The everyday catalogue runs "such as helping, sharing, donating, co-operating, and volunteering" ([Wikipedia, Prosocial behavior](https://en.wikipedia.org/wiki/Prosocial_behavior)). Motive is a separate question from the act: "a person might donate to a charity for genuinely altruistic reasons, or they might do so primarily for tax benefits or social recognition" ([Rigney and Hong 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12358107/)).
 
-My seed cites the finding that made the topic a fixture of well-being research: Dunn, Aknin and Norton's 2008 Science paper on prosocial spending, which reported that "spending more of one's income on others predicted greater happiness both cross-sectionally (in a nationally representative survey study) and longitudinally (in a field study of windfall spending)" ([Dunn, Aknin and Norton, 2008](https://greatergood.berkeley.edu/images/uploads/DunnAkninNorton2008.pdf)).
+The finding that made the topic a fixture of well-being research is Dunn, Aknin and Norton's 2008 Science paper on prosocial spending, which reported that "spending more of one's income on others predicted greater happiness both cross-sectionally (in a nationally representative survey study) and longitudinally (in a field study of windfall spending)" ([Dunn, Aknin and Norton, 2008](https://greatergood.berkeley.edu/images/uploads/DunnAkninNorton2008.pdf)).
 
 ### The flagship experiment
 
@@ -51,10 +51,10 @@ The registered replications produced different results across the three paradigm
 - Dunn, Aknin and Norton, 2008
 - Dunn, Aknin, and Norton, 2014, "Prosocial Spending..."
 
-- [Wikipedia, Prosocial behavior](https://en.wikipedia.org/wiki/Prosocial_behavior) — the everyday catalogue of acts (opened)
-- [Rigney and Hong, Prosocial Helping Behavior: Conceptual Issues and Neural Mechanisms, Biological Psychiatry 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12358107/) — the scholarly definition and the motive-independence nuance (opened)
-- [Dunn, Aknin and Norton, Spending Money on Others Promotes Happiness, Science 2008, full text](https://greatergood.berkeley.edu/images/uploads/DunnAkninNorton2008.pdf) — the cross-sectional, longitudinal and experimental findings verbatim (opened)
-- [Aknin, Dunn, Proulx, Lok and Norton, Does spending money on others promote happiness?: A registered replication report, JPSP 2020, PMID 32250135](https://pubmed.ncbi.nlm.nih.gov/32250135/) — the high-powered replication status (opened)
+- [Wikipedia, Prosocial behavior](https://en.wikipedia.org/wiki/Prosocial_behavior) — the everyday catalogue of acts
+- [Rigney and Hong, Prosocial Helping Behavior: Conceptual Issues and Neural Mechanisms, Biological Psychiatry 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12358107/) — the scholarly definition and the motive-independence nuance
+- [Dunn, Aknin and Norton, Spending Money on Others Promotes Happiness, Science 2008, full text](https://greatergood.berkeley.edu/images/uploads/DunnAkninNorton2008.pdf) — the cross-sectional, longitudinal and experimental findings verbatim
+- [Aknin, Dunn, Proulx, Lok and Norton, Does spending money on others promote happiness?: A registered replication report, JPSP 2020, PMID 32250135](https://pubmed.ncbi.nlm.nih.gov/32250135/) — the high-powered replication status
 
 ## Cited in psychology parallels
 
