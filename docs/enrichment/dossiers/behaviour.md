@@ -86,6 +86,16 @@ A response can also be rehearsed before it is needed. [Behavioural rehearsal rol
 
 ## Where the traditions genuinely disagree
 
+### Does a habit need an active goal to fire?
+
+Consider the cyclist who rides to campus every morning. When the lectures move online, does the bicycle still call to be ridden? The two research traditions answer differently, and each has run the experiments.
+
+Aarts and Dijksterhuis tested habits as goal-action links. In their travel studies, "the automaticity in habits is conditional on the presence of an active goal (cf., goal-dependent automaticity; J. A. Bargh, 1989), supporting the idea that habits are mentally represented as goal—action links" ([Aarts and Dijksterhuis, Journal of Personality and Social Psychology 78(1), 2000, abstract](https://research.tue.nl/en/publications/habits-as-knowledge-structures-automaticity-in-goal-directed-beha/)). The morning goal activates the ride; no goal, no automatic response. Their abstract adds a practical note: forming implementation intentions, a strong mental link between a goal and an action, may simulate goal-directed automaticity in habits.
+
+Wood, Mazar and Neal state the opposing view directly: "We found that habitual responses are activated regardless of goals, but they can be performed in concert with goal pursuit" ([Wood, Mazar and Neal, "Habits and Goals in Human Behavior: Separate but Interacting Systems", 2021](https://marketing.wharton.upenn.edu/wp-content/uploads/2022/02/Wood.Mazar_.Neal_.2021.pdf)). On their account, "habits are not goal dependent; they are activated directly by context cues without supporting goals", and "strong habits persist in memory regardless of whether they are consistent with current goals". The cyclist's morning might fire from the hallway and the helmet hook alone.
+
+The disagreement turns on what the trigger is, and it changes what a person should do about a pattern they no longer want. If habits are goal-conditioned, re-deciding the goal can loosen the habit; if they are context-direct, re-deciding changes nothing until the context changes, which is why the habit persists against the new intention. I lean toward the context-direct account, because it predicts the failure that matters most here: the pattern that survives its own rejection. The honest limit is that the two camps tested different behaviours, travel choices on one side and broad habit batteries on the other.
+
 ### Can self-control be strengthened by practice?
 
 The strength tradition says yes. Oaten and Cheng put participants through a two-month programme of regular physical exercise, chosen because keeping it up requires regulation, and found "significant improvement in self-regulatory capacity" together with reported decreases in perceived stress, emotional distress, smoking, alcohol and caffeine consumption, and improvements in healthy eating, emotional control, study habits and spending control ([Oaten and Cheng, British Journal of Health Psychology 11(4), 2006, abstract](https://pubmed.ncbi.nlm.nih.gov/17032494/)). Their conclusion was direct: "The idea that the capacity for self-regulation can be improved is therefore of vast practical importance."

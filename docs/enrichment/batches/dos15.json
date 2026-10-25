@@ -1,13 +1,12 @@
 {
  "batch": "dos15",
  "done": [],
- "note": "GF-model rewrite + advisor round 2 (worker-pplx-dos15-1025d, 2026-10-25): Behaviour rewritten in the GF model; TWO developed divergences on opened carriers (Oaten-Cheng vs Miles on training; strength model vs Hagger RRR on the resource, bounded to the standardized protocol). The James-vs-Hanh/MN36 pairing was ruled a manufactured opposition in advisor rounds 1 and 2 and removed from the disagreements section, folded into the body as compatible practice material. All 67 original card links preserved; checker exit 0; all ten story bodies read; Lally re-based on the opened Wiley abstract as model estimates. Registry left planned.",
+ "note": "GF-model rewrite + advisor round 2 (worker-pplx-dos15-1025d, 2026-10-25): Behaviour rewritten in the GF model; TWO developed divergences on opened carriers (Oaten-Cheng vs Miles on training; strength model vs Hagger RRR on the resource, bounded to the standardized protocol). The James-vs-Hanh/MN36 pairing was ruled a manufactured opposition in advisor rounds 1 and 2 and removed from the disagreements section, folded into the body as compatible practice material. All 67 original card links preserved; checker exit 0; all ten story bodies read; Lally re-based on the opened Wiley abstract as model estimates. Registry left planned. THIRD divergence added later in the same session: Aarts-Dijksterhuis (goal-dependent automaticity) vs Wood-Mazar-Neal (context-direct activation), carriers opened, quotes verbatim.",
  "review": [
   "behaviour"
  ],
- "in_progress": "behaviour (GF-model rewrite, advisor QC rounds 1-2 applied; checker exit 0; TWO divergences - the model's three-to-five requirement is NOT met, a third genuine disagreement is still to be built)",
+ "in_progress": "behaviour (GF-model rewrite, advisor QC rounds 1-2 applied; THIRD divergence added 2026-10-25: Aarts-Dijksterhuis goal-dependent automaticity vs Wood-Mazar-Neal context-direct activation, both carriers opened and quotes verified verbatim; checker exit 0; three divergences now meet the model's 3-5 requirement)",
  "flagged": {
-  "divergence-requirement": "PENDING: only two developed divergences stand (Oaten-Cheng vs Miles; strength model vs Hagger RRR). A third genuine, source-supported disagreement is still to be built; candidates from the corpus welcome. The James-vs-Hanh pairing is ruled out (advisor rounds 1 and 2: manufactured opposition).",
   "launched-worker-verification": "The launched agent (task 04c8493e) is confirmed by git evidence only: the account took the supervisor baton at 01:47 UTC and is directing dos-band work (handoff directive e39899dea, dos32/dos33 activity). Task-level inspection was not possible from this session (different account); recorded here for the supervisor."
  },
  "notes": []

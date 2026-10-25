@@ -316,3 +316,21 @@ rendered pages. Not every carrier underlying every card gloss was
 re-opened; the card bodies were re-read and the 2026-10-25
 card-fidelity sweep (worker-pplx-gfva-1025a, read-only) is relied on
 for gloss-card correspondence.
+
+## Third divergence built (2026-10-25, same session)
+
+A third genuine, source-supported disagreement was added: does a habit
+need an active goal to fire? Aarts and Dijksterhuis 2000 (goal-dependent
+automaticity: habits as goal-action links, the automaticity conditional
+on an active goal) vs Wood, Mazar and Neal 2021 (habits activated
+directly by context cues regardless of goals; strong habits persist
+regardless of current goals). Both carriers opened this session: the
+TU/e research portal abstract (research.tue.nl) and the Wharton PDF of
+Wood.Mazar_.Neal_.2021. All quoted sentences verified verbatim against
+those opened pages. The disagreement is explicitly framed as opposing
+views in the 2021 paper itself ("An opposing view is that habitual
+behaviors depend on goals... We found that habitual responses are
+activated regardless of goals"). The dossier now carries three
+developed divergences, meeting the model's three-to-five requirement.
+The divergence-requirement flag can be cleared by the supervisor after
+content review.
