@@ -14,10 +14,10 @@ evidence on file.
 
 25 unique attachments (10 source IDs on mod-mind-1 and mod-mind-2 map to
 these recordings). Verified below: M06-AF09, M06-CO04, M06-AF01, M06-AF03, M06-AT01,
-M06-AF06.
+M06-AF06, M06-CO02.
 Already verified in the manifest: SRC-M28-001 through SRC-M28-007;
 M06-AT06 is the same recording as SRC-M28-002. Queued for the next
-session: M06-AF04, M06-AF05, M06-CO05, M06-CO02, M06-AT02,
+session: M06-AF04, M06-AF05, M06-CO05, M06-AT02,
 SRC-M07-001, SRC-M07-004, SRC-M07-005, SRC-M07-007, SRC-M07-008,
 SRC-M07-019.
 
@@ -187,6 +187,33 @@ SRC-M07-019.
   active versus passive coping (32:50), individual differences (42:21).
 - Relevant segments: extinction and therapy 7:23 to 13:36; reconsolidation
   13:36 to 25:32.
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  chapter list, and the transcript panel was not read this session.
+
+### M06-CO02: What Intelligence Tests Miss (Keith Stanovich)
+
+- Legacy attachment: mod-mind-2 required media.
+- Identity: oembed confirms the video on the Portland State University
+  channel, title "PSU's Dr. Keith Stanovich - What Intelligence Tests
+  Miss" (https://www.youtube.com/watch?v=IhwovFgur-E, checked 2026-10-25).
+  Freely playable, no paywall.
+- Duration: 1:38:34 printed in the player (2026-10-25).
+- Instructor credentials: Keith E. Stanovich, Emeritus Professor of Applied
+  Psychology and Human Development at the University of Toronto, author of
+  the book the lecture presents (his own bio page:
+  http://www.keithstanovich.com/Site/Bio.html, opened 2026-10-25).
+- Language: English. The watch page offers a transcript panel.
+- Event: lecture at Portland State University, published 1 November 2010.
+  The page prints no description.
+- Content coverage (from the recording's own chapter list, read
+  2026-10-25): why rationality and intelligence are not the same
+  (25:33), impulsively associative thinking (36:14), the gambler's
+  fallacy (39:42), tests of rationality (47:38), conceptual structure of
+  rational thought (49:22), instrumental rationality (1:13:54), bias blind
+  spot (1:15:50), overconfidence (1:23:40).
+- Relevant segments: rationality versus intelligence 25:00 to 47:38; tests
+  of rationality 47:38 to 1:13:54.
 - Verification status: verified-video for identity, access and duration
   (2026-10-25); content coverage is classified from the recording's own
   chapter list, and the transcript panel was not read this session.
