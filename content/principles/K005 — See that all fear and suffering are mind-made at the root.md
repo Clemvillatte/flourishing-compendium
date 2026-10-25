@@ -12,13 +12,13 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 5** — See that all fear and suffering are mind-made at the root
 
-In V.2-3, Shantideva compares an unguarded mind to a dangerous elephant and presents mindfulness as its restraint. I use this image as a prompt to examine one's response to difficulty. These verses should not be presented as clinical evidence that every kind of suffering can be changed through interpretation.
+In V.2-3, Shantideva compares an unguarded mind to a dangerous elephant and presents mindfulness as its restraint. The image serves here as a prompt to examine one's response to difficulty. These verses should not be presented as clinical evidence that every kind of suffering can be changed through interpretation.
 
 (Shantideva, Bodhicharyavatara, ch. 5.)
 
 > Left to run loose, the elephant of my mind can ravage me with (a joyless realm of) unrelenting pain. Untamed, rutting elephants in this (world) can't cause me such harm. But, if the elephant of my mind is firmly bound by the rope of mindfulness on every side, all fears will vanish and everything constructive will come into my hands. (Shantideva, Bodhicharyavatara V.2-3, Alexander Berzin translation, 2004)
 
-**Plain words** During a difficult moment, ask what you are thinking and what you are about to do. This exercise draws attention to your response while leaving room to address the external problem too.
+**Plain words** Shantideva's elephant is a picture of what a mind does when nobody is holding the rope. The animal is not the world; the world is only the ground it stamps on. So the first move in a bad hour is not to fix the ground but to notice the stamping, since the noticing is what the rope is made of. The verses are a teacher's image, not a clinic's finding, and the external trouble still deserves its own repair.
 
 *For example:* after receiving a message asking to talk, someone distinguishes the message's actual words from their own guess that it means bad news.
 
