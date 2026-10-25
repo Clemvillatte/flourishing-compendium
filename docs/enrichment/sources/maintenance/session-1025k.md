@@ -243,3 +243,6 @@ Opened [Questions of King Milinda, Book II (Sacred Texts)](https://www.sacred-te
 
 ## P150 — dead Deacon link
 terrencedeacon.com no longer resolves (DNS failure). Replaced with the publisher's page for [Incomplete Nature (W. W. Norton)](https://wwnorton.com/books/Incomplete-Nature), which I opened; the page still only lists the book as a possible parallel and does not quote it.
+
+## Flag resolved: translator credit for Gutenberg 52124 and 52881 (The Joyful Wisdom)
+The Gutenberg header lists the translators as Paul V. Cohn, Thomas Common and Maude Dominica Petre, edited by Oscar Levy ([Gutenberg 52124](https://www.gutenberg.org/ebooks/52124), [Gutenberg 52881](https://www.gutenberg.org/ebooks/52881)). Pages citing "Common" or "Cohn" alone are therefore both partly right; "trans. Common, ed. Levy" is the safest short form. No page changes.
