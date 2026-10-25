@@ -279,8 +279,26 @@ the end. All sources below are freely accessible, no paywalls or app gates found
 - Content coverage: the host's description states the illustrated lecture pays
   tribute to Miguel León-Portilla, covering his work on Nahuatl philosophy and
   archaeology, cultural justice for indigenous peoples, and The Broken Spears.
+  Coverage-confirmation (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=wFVQtyXtNVc&current_language_code=en,
+  opened 2026-10-25) confirms the lecture's substance on the recording: the
+  tribute framing ("the great Mexican scholar Miguel León-Portilla", "the
+  work of eternal return. Philosophy, visions, and justice"); La filosofía
+  náhuatl as presenting Nahua people as capable of philosophical thought ("they
+  got thought. And they got culture"); the Bergsonian duration connection
+  ("to be part of the duration of their creativity"); Visión de los vencidos /
+  The Broken Spears bringing "the indigenous consciousness into the story of
+  the conquest", translated into 15 languages; indigenous justice (quoting
+  Matos Moctezuma: "how much longer do we need to wait until finally justice
+  is achieved for indigenous people?"); archaeology and heritage (Templo
+  Mayor, UNESCO ambassadorship and World Heritage status for Teotihuacan and
+  other sites); the 1992 commemoration debate; and the Nahuatl-language
+  seminar. Caveats: third-party transcript page, no timestamps in the retrieved
+  text; playback itself not opened.
 - Relevant segment: whole lecture, 1:31:04.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (2026-10-25); coverage confirmed against
+  a third-party transcript page (no timestamps); identity, access and duration
+  verified earlier.
 
 ## Block B optional batch 1 (verified 2026-10-25)
 
