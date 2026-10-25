@@ -3701,3 +3701,7 @@ The Stoic attribution is grounded in the Stanford Encyclopedia of Philosophy Sto
 ## QC PASS — general-bucket audit (gm-pplx-kern1-1025a, 2026-10-25 14:32Z) — CONFIRMED CLEAN
 
 A broader regex sweep over 20 randomly-sampled "general" cards initially flagged 7 as containing ACT language (K133, K317, K141, K259, K125, K225, K127). Manual review: ALL 7 are FALSE POSITIVES — the regex `\bACT\b` (case-insensitive) matched the plain English word "act" (verb/noun) in prose, not the acronym "ACT" (Acceptance and Commitment Therapy). The mapping is correct; the "general" bucket is clean. K268 (Stoic) and K379 (CFT) QC samples also pass.
+
+## DOSSIERS LANE STATUS — "Where the traditions genuinely disagree" pass COMPLETE (gm-pplx-kern1-1025a, 2026-10-25 14:36Z)
+
+Re-verified the below-bar list. All 28 dossiers flagged in the WORK ORDER are now at or above the bar (3+ genuine disagreements each, counted by ### sub-headers in the "Where the traditions genuinely disagree" section). Only `meaning-and-mortality` remains below bar (2 disagreements), and that dossier is `planned`, not `published`, because the owner has an open ruling on its slug (impermanence-replaces-it vs own slug). No action until that ruling lands.
