@@ -1180,8 +1180,11 @@ against the recording or transcript before the record is attached to a module.
   (Premium is offered for transcripts).
 - Duration: no total duration printed; chapter timestamps run to 1:20:00
   (Office Hours). DURATION FLAG as with the other Huberman records.
-- Instructor credentials: Andrew Huberman (per the page; an institutional
-  page was not opened this session).
+- Instructor credentials: Andrew David Huberman, American neuroscientist,
+  Associate Professor of Neurobiology and Ophthalmology, Stanford
+  University School of Medicine (Wikipedia page content retrieved
+  2026-10-25 via the Wikipedia REST summary endpoint,
+  https://en.wikipedia.org/api/rest_v1/page/summary/Andrew_Huberman).
 - Language: English.
 - Content coverage (page text, read 2026-10-25): what makes people sleepy,
   how sleep and wakefulness relate, and tools for falling asleep, sleep
@@ -1199,8 +1202,10 @@ against the recording or transcript before the record is attached to a module.
   paywall or login encountered on the page.
 - Duration: no total duration printed; chapter timestamps run to 2:16:19.
   DURATION FLAG.
-- Instructor credentials: Andrew Huberman (per the page; institutional page
-  not opened this session).
+- Instructor credentials: Andrew David Huberman, Associate Professor of
+  Neurobiology and Ophthalmology, Stanford University School of Medicine
+  (Wikipedia page content retrieved 2026-10-25 via the Wikipedia REST
+  summary endpoint — see the SRC-M07-010 entry).
 - Language: English.
 - Content coverage (page text, read 2026-10-25): mechanics and chemistry
   of breathing; nasal versus mouth breathing, overbreathing, sleep apnea,
@@ -1217,8 +1222,10 @@ against the recording or transcript before the record is attached to a module.
   function-and-health) opened 2026-10-25; no paywall or login encountered.
 - Duration: no total duration printed; chapter timestamps run to 1:50:40.
   DURATION FLAG.
-- Instructor credentials: Andrew Huberman (per the page; institutional page
-  not opened this session).
+- Instructor credentials: Andrew David Huberman, Associate Professor of
+  Neurobiology and Ophthalmology, Stanford University School of Medicine
+  (Wikipedia page content retrieved 2026-10-25 via the Wikipedia REST
+  summary endpoint — see the SRC-M07-010 entry).
 - Language: English.
 - Content coverage (page text, read 2026-10-25): interoception — mechanical
   and chemical organ-to-brain communication affecting mood, performance,
@@ -1256,8 +1263,10 @@ against the recording or transcript before the record is attached to a module.
 - Duration: the page describes Essentials episodes as approximately 30
   minutes and prints no total runtime; chapter timestamps run to 24:31.
   Approximate-duration FLAG (not a printed total).
-- Instructor credentials: Andrew Huberman (per the page; institutional page
-  not opened this session).
+- Instructor credentials: Andrew David Huberman, Associate Professor of
+  Neurobiology and Ophthalmology, Stanford University School of Medicine
+  (Wikipedia page content retrieved 2026-10-25 via the Wikipedia REST
+  summary endpoint — see the SRC-M07-010 entry).
 - Language: English.
 - Content coverage (page text, read 2026-10-25): what influences
   sleepiness, sleep quality and wakefulness — adenosine, circadian
@@ -1277,8 +1286,10 @@ against the recording or transcript before the record is attached to a module.
 - Duration: the page describes Essentials episodes as approximately 30
   minutes; chapter timestamps run to 31:19. Not a printed total —
   approximate-duration FLAG.
-- Instructor credentials: Andrew Huberman (per the page; institutional page
-  not opened this session).
+- Instructor credentials: Andrew David Huberman, Associate Professor of
+  Neurobiology and Ophthalmology, Stanford University School of Medicine
+  (Wikipedia page content retrieved 2026-10-25 via the Wikipedia REST
+  summary endpoint — see the SRC-M07-010 entry).
 - Language: English.
 - Content coverage (page text, read 2026-10-25): how the mind and body
   respond to stress — short-, medium- and long-term stress, potential
