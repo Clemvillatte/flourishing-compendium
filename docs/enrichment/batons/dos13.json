@@ -93,5 +93,7 @@
    "from": "worker-pplx-dos13-1025m",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T12:05:19+00:00"
 }
