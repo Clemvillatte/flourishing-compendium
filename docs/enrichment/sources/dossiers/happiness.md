@@ -82,3 +82,17 @@ same carrier), motivation (Iyengar and Lepper limited-array
 sentence, Deci and Ryan 2008 type-vs-amount sentence, and the Deci,
 Koestner and Ryan 1999 meta-analysis sentence, all exact). No
 corrections needed.
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos7 baton)
+
+Reviewed all 3 candidates against the current file (fresh audit run).
+No scaffolds removed; all 3 flagged constructions are the sources' own
+distinctions: line 27 (katastematic pleasure as the pleasure of a
+settled state rather than a process — Epicurus's actual contrast with
+kinetic pleasure), 37 (Kant's disinterested satisfaction: neither
+depending on nor producing a desire for the object — the Critique of
+Judgment doctrine), 259 (evidence-honesty note: the acts-of-kindness
+study counted rather than weighed).
+
+Checks: dossier_check.py exit 0. Editorial review only; no carriers or
+cards freshly opened this pass. Scope: candidate-line review.
