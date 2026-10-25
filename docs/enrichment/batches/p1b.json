@@ -71,7 +71,8 @@
   "AT070",
   "D114",
   "E012",
-  "K008"
+  "K008",
+  "AF025"
  ],
  "in_progress": null,
  "flagged": {
@@ -91,6 +92,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 110,
- "updated": "2026-10-25T11:04:26+00:00",
+ "updated": "2026-10-25T11:04:43+00:00",
  "band_done": false
 }
