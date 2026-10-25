@@ -224,6 +224,119 @@ Block A, fcAcademyData records for deg-philosophy modules.
 - Relevant segment: unknown until a duration prints.
 - Verification status: verified-video, with the duration gap flagged.
 
+## mod-phil-3 batch (verified 2026-10-25)
+
+### M05-XP-01: Epicurus (Adam Rosenfeld, PHI 251)
+
+- Identity and access: oembed confirms "21) Epicurus" on Adam Rosenfeld's channel
+  (https://www.youtube.com/watch?v=2u6Z-NaUDAs). Freely playable, no paywall.
+- Duration: 1:15:39 (displayed duration, watch page opened 2026-10-25).
+- Instructor credentials: as AR-05 above (Senior Lecturer, Philosophy, UNCG).
+- Language: English.
+- Content coverage: the instructor's own description identifies the session as part
+  of his PHI 251 History of Ancient Philosophy course at UNCG, discussing Epicurus
+  and Epicurean natural philosophy and ethics. Fits mod-phil-3's Hellenistic
+  Alternatives module.
+- Relevant segment: whole lecture, 1:15:39.
+- Verification status: verified-video.
+
+### M05-XP-02: Pyrrhonic Skepticism (Adam Rosenfeld, PHI 251)
+
+- Identity and access: oembed confirms "24) Pyrrhonic Skepticism" on Adam
+  Rosenfeld's channel (https://www.youtube.com/watch?v=jaFcOp_bPME). Freely
+  playable, no paywall.
+- Duration: 1:15:32 (displayed duration, watch page opened 2026-10-25).
+- Instructor credentials: as AR-05 above.
+- Language: English.
+- Content coverage: the instructor's own description identifies the session as PHI
+  251 at UNCG, a somewhat skeptical look at Pyrrhonic Skepticism.
+- Relevant segment: whole lecture, 1:15:32.
+- Verification status: verified-video.
+
+### M05-XP-03: Cicero, On the Nature of the Gods, book 1 (Gregory B. Sadler)
+
+- Identity and access: oembed confirms the video on the Gregory B. Sadler channel
+  (https://www.youtube.com/watch?v=hMSDzBicGKw). Freely playable, no paywall.
+- Duration: 1:02:42 (watch page opened 2026-10-25).
+- Instructor credentials: as AR-06 above (PhD Philosophy, SIUC; Adjunct Professor,
+  MIAD; recorded while teaching at Marist College).
+- Language: English.
+- Content coverage: the instructor's own description identifies the session as a
+  Spring 2013 Introduction to Philosophy class at Marist College starting Cicero's
+  On the Nature of the Gods: structure and characters of the dialogue, the three
+  schools (Epicurean, Stoic, Academic), Epicurean criticisms of other positions,
+  arguments for the gods' existence and human-like forms, and Academic criticisms.
+  Fits the module's comparison of Hellenistic schools.
+- Relevant segment: whole lecture, 1:02:42.
+- Verification status: verified-video.
+
+### SRC-M25-001: 2025 Terry Lectures, Peter Adamson (optional)
+
+- Identity and access: oembed confirms the lecture on the Yale University channel
+  (https://www.youtube.com/watch?v=6iLpGOkOx0A). Freely playable, no paywall.
+- Duration: 1:31:08 (watch page, 2026-10-25). NOTE the fcAcademyData record prints
+  1:31:07, a one-second mismatch with the watch page the owner should reconcile.
+- Instructor credentials: Peter Adamson, Professor of Late Ancient and Arabic
+  Philosophy, LMU Munich (LMU directory,
+  https://www.philosophie.lmu.de/en/directory-of-persons/contact-page/peter-adamson-28339046.html).
+- Language: English.
+- Content coverage: the Yale description states this is the third of his 2025 Terry
+  Lectures, examining the Zhuangzi, Sextus Empiricus, and the Epistles of the Brethren
+  of Purity, on the skeptical argument from animal difference. Fits the module's
+  skepticism strand, with a comparative dimension beyond Greece.
+- Relevant segment: whole lecture, 1:31:08.
+- Verification status: verified-video, with the duration mismatch flagged.
+
+### SRC-M25-002: Curious Researches, Michael Williams (optional)
+
+- Identity and access: oembed confirms the lecture on the University College Dublin
+  channel (https://www.youtube.com/watch?v=Dss98-rTl6Q). Freely playable, no
+  paywall.
+- Duration: 1:18:04 (watch page, 2026-10-25). The record prints 1:18:03, a
+  one-second mismatch to reconcile.
+- Instructor credentials: Michael Williams, Krieger-Eisenhower Professor of
+  Philosophy, Johns Hopkins University, a leading figure in epistemology (stated in
+  the UCD School of Philosophy event description on the watch page).
+- Language: English.
+- Content coverage: per the UCD description, an Agnes Cuming Lecture tracing
+  scepticism from ancient Pyrrhonism (Sextus Empiricus) through Descartes to modern
+  epistemology. Fits the module's skepticism strand.
+- Relevant segment: whole lecture, 1:18:04.
+- Verification status: verified-video, with the duration mismatch flagged.
+
+### SRC-M25-003: Philosophy Masterclass 2023, James Warren (optional)
+
+- Identity and access: oembed confirms the talk on the Corpus Christi, Cambridge
+  channel (https://www.youtube.com/watch?v=j5QVMN2chOI). Freely playable, no
+  paywall.
+- Duration: 1:02:57 (watch page, 2026-10-25, matches the record).
+- Instructor credentials: James Warren, Professor of Ancient Philosophy, University
+  of Cambridge, and Fellow of Corpus Christi College (Cambridge Faculty of Classics
+  page, https://www.classics.cam.ac.uk/people/professor-james-warren).
+- Language: English.
+- Content coverage: the channel description states Warren gives a masterclass on
+  Stoicism for prospective Cambridge philosophy applicants. Classification rests on
+  the host description; the owner may quote the transcript for tighter provenance.
+- Relevant segment: whole talk, 1:02:57.
+- Verification status: verified-video.
+
+### SRC-M25-004: Epicurus for Today, Kurt Lampe (optional)
+
+- Identity and access: oembed confirms the lecture on the North Staffs Classical
+  Association channel (https://www.youtube.com/watch?v=AZZ5G8KGM2E). Freely
+  playable, no paywall.
+- Duration: 0:49:36 (watch page, 2026-10-25, matches the record).
+- Instructor credentials: Dr Kurt Lampe, University of Bristol, as stated by the
+  lecture's host (the classical association's page). Provenance note: credentials
+  are stated by the hosting association rather than a Bristol page.
+- Language: English.
+- Content coverage: the host description states the lecture considers practical
+  Epicureanism today without assuming prior knowledge: Epicurean pleasure as
+  contentment and satisfaction, the classification of desires as necessary,
+  unnecessary and extravagant, and the value of friendship. Fits the module.
+- Relevant segment: whole lecture, 49:36.
+- Verification status: verified-video.
+
 ## Block A remainder
 
 (in progress: verifier-pplx-a1)
