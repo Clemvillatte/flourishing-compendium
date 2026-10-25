@@ -243,6 +243,15 @@ long evidence records in the ledger, not in the public reading path.
   so the next supervisor should still apply t1a/t1d deliberately in
   bounded selections, and re-check the remaining placeholder set
   (ct2/maintenance/p1t/ct3/k1c/k1d/w1ad) before any unrestricted run.
+- ADDENDUM 14 (~T+46, CORRECTION): the right-view publish commit
+  (ef057762) claims 'routes QA ok' — that is WRONG as stated: the
+  routes.qa run in that chain crashed (exit 2, ERR_CONNECTION_REFUSED;
+  no local server running) and the && chain continued through tail.
+  The publication itself is independently verified (Right View live in
+  the deployed app.js and wikiData, checked against Pages directly).
+  Re-run properly with a local server at T+45.7: ALL PASS, zero JS
+  errors. Lesson for all publish chains: routes.qa REQUIRES a local
+  server on :8765; check its exit code, not the tail.
 
 # Supervisor QC entry 4 — 2026-10-24, T+40 (stale-baton takeover, worker-pplx-dos24-1025a)
 
