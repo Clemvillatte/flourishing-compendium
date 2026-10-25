@@ -677,20 +677,20 @@ read in full at reader level; the detector was re-run on the current
 file (6 flagged lines before this review, 4 after the revert below). No quotes were
 changed; every edit preserves the facts, qualifications and links.
 
-RECAST (3, plus 1 applied then reverted — see the correction below):
+RECAST (3, plus 1 applied then reverted — see the correction below;
+all three recasts tightened after an advisor QC round):
 - Nearby terms, Commitment: "a condition for difficult goals to work
-  rather than a feeling in its own right" → "the condition that lets
-  difficult goals work". The contrast with feelings was the writer's
-  addition; the Locke & Latham source supports commitment as a
-  condition for difficult goals to work, and says nothing about
-  feelings.
+  rather than a feeling in its own right" → "a condition for
+  difficult goals to work". The writer-added contrast with feelings
+  removed; the L&L-supported claim kept as it stood.
 - "What happens when the unit is not one aim but a life of aims?" →
-  "The theories above take one aim at a time. The unit can also be a
-  life of aims." Rhetorical not-X-but-Y question recast as direct
-  statement.
+  "How do several aims fit into one life?" Rhetorical not-X-but-Y
+  question recast as a plain question (advisor-suggested form).
 - "staying the course can be the problem rather than the solution" →
-  "staying the course can itself be the failure". Forced contrast
-  recast; the closing "which raises the question of when leaving is
+  "staying the course can be a problem". Forced contrast recast;
+  "problem" kept rather than strengthened (advisor note: persistence
+  causing difficulty is not identical to persistence constituting
+  failure); the closing "which raises the question of when leaving is
   the better skill" kept.
 
 REVERTED (1): "Read together, these theories treat the aim as an
@@ -704,11 +704,13 @@ restored verbatim. The keep stands; if the owner wants it revisited,
 that is a supervisor decision.
 
 Note on scope: this session's review is a second pass over the
-detector-flagged lines (the detector currently flags 6 on goals; the
-supervisor's review recorded zero after its recasts, so the pattern
-set has likely been extended since). It does not re-open the
-supervisor's four recasts, five keeps, or the advisor-QC corrections —
-those all stand.
+detector-flagged lines. The supervisor's review of 2026-10-25
+recorded zero detector matches after its recasts; the detector run
+this session reports 6 flagged lines on the current file. The two
+recorded outputs disagree; the cause of the difference is not
+established by this review (recorded as-is, no cause assigned). This
+pass does not re-open the supervisor's four recasts, five keeps, or
+the advisor-QC corrections — those all stand.
 
 KEPT with reasons (3, all still flagged by the detector):
 - Line 11, Intrinsic motivation: "for its inherent satisfactions
@@ -732,10 +734,12 @@ recast "instrument"; no link underlining; no generic
 traditions-agree claims (the classical material is scoped to Stoic
 teaching and named sources).
 
-Post-review checks: dossier_check.py exit 0 (52 card links, 19
-headers, 23 carriers); dossier_density.py 0 dense; voice audit
-detector 6 → 4 flagged lines after the revert (the three keeps below,
-plus the supervisor-kept "organises effort" line). Registry untouched (goals is published;
+Post-review checks (re-run after the final edits, measured):
+dossier_check.py exit 0 (52 card links, 19 headers, 23 carriers);
+dossier_density.py 0 dense; voice audit detector 6 flagged lines → 3
+flagged lines (line 25 now carries two retained constructions: the
+McClelland/Atkinson distinction and the supervisor-kept "organises
+effort" line). Registry untouched (goals is published;
 a rebuild is only needed if the supervisor wants the recasts live on
 the served site — the dossier file is the source of record).
 ## Map-structure check (2026-10-25 09:21Z, worker-pplx-sup-1025y, supervisor baton)
