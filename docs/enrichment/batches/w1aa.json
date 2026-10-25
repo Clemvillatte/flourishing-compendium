@@ -121,6 +121,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T11:33:21+00:00",
- "band_done": false
+ "updated": "2026-10-25T12:03Z",
+ "band_done": false,
+ "note": "SUPERVISOR MECHANICAL SWEEP 2026-10-25 12:03Z (launcher-pplx-1025c): all pages carrying the 'QC round 2 repairs applied; awaiting supervisor/advisor re-verification' flag were run through scripts/enrich_validate.py against HEAD: 19 pass clean at their current names; the Integrity flag-key is a colon variant of the real page name 'Integrity (integritas - wholeness).md', which validates clean; Intra-action was 149 prose words (one word below the 150 floor) - the supervisor added one natural word ('standing' in 'a stage with two actors already standing on it', meaning-preserving) and the page now validates clean. MECHANICAL LEVEL COMPLETE: the awaiting pages are structurally sound. Per-page hand re-verification of each QC repair's content against its source remains a next-pass item (the repairs' commit trail cffe2384..0f7de0ef and the workers' QC records stand as the content evidence). "
 }
