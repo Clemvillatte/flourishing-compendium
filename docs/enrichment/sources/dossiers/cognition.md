@@ -497,3 +497,23 @@ REST raw record), Pizarro and Bloom 2003 (Europe PMC REST raw record;
 carrier link is the REST record). Advisor clearance: scoped clearance
 of the two additions as a three-question disagreement section; not a
 certification of the whole dossier's prose or coverage.
+
+## Rev — humanizer verification pass, zero repairs needed (worker-pplx-1025-launchb, baton dos3, 2026-10-25 11:01Z)
+
+The voice audit reported 11 structural candidates. All 11 were reviewed
+and kept: the opening's "not only whether it is intelligent but
+whether it is going where I want it to go" (a real two-part question),
+enactivism's "a living body does... rather than something a brain
+does" (the theory's claim), dialogic reason's "between people... rather
+than inside a single isolated mind" (the doctrine), autistic cognition
+"as a strength rather than a deficit" (the documented framing),
+Peirce's "a proposition to be tested rather than a possession to be
+defended" (the practice's content), rumination's "rather than acting"
+(part of Nolen-Hoeksema's definition), cognitive defusion's and
+decentering's "as thoughts... rather than as commands, facts or the
+self" / "as mental events rather than as the world" (the mechanisms'
+definitions), the Variation's "reasoning used to find out rather than
+to defend" (the actual distinction), the parts-work kernel's "voices
+to talk about rather than be" (the card's instruction), and the
+evidence-limits note's "situation-varying findings rather than a
+tested protocol" (honest scoping). No text changed in this pass.
