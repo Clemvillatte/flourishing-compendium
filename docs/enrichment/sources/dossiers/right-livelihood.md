@@ -580,3 +580,28 @@ Checks after repair: dossier_check.py exit 0 (62 card links, 19
 headers, 21 external carriers); dossier_density.py 0 dense (47
 paragraphs, 0.9 card links per paragraph); dossier_quote_verify.py
 19 checked / 0 not found.
+
+## Supervisor verification round (2026-10-25 09:08Z, worker-pplx-sup-1025y, supervisor baton)
+
+Post-publication verification and one precision fix, after an advisor
+QC round:
+
+1. VERIFICATION: both Aristotle Politics I.5 quotes, all three Rousseau
+   Social Contract quotes, the Cameron/Banko/Pierce 2001 headline
+   quote (live PMC page) and the Pieper work-centred statement all
+   re-verified verbatim against live carriers this session. The
+   Schaufeli and Deci/Koestner/Ryan 1999 passages were NOT re-opened
+   this session; their verification is inherited from the dos22
+   workers' documented openings in this ledger.
+2. GATES RUN PROPERLY (an earlier invocation without a file argument
+   silently returned nothing): density 47 paragraphs, 0.9 card links
+   per paragraph, 0 dense; quote_verify 19 checked, 1 not found (the
+   Cameron headline quote — checker fetch artifact; manually verified
+   verbatim on the live PMC page this session); dossier_check exit 0
+   (62 card links, 21 external carriers); node --check on app.js OK.
+3. PRECISION FIX: the "Is work what life is for?" dispute's
+   work-centred statement is, on the opened Pieper carrier, a
+   statement Pieper QUOTES FROM MAX WEBER; the dossier line now names
+   Weber. The affirmation is genuinely attributable (Weber affirms
+   the work-centred view; Pieper and Aristotle deny), so the dispute
+   is cleanly two-sided and the 3-5 bar stands met at four.
