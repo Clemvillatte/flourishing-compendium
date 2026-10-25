@@ -18,7 +18,7 @@ The despite is explicit. The chapter says the brave person feels the pain and fa
 
 > death and wounds will be painful to the brave man and against his will, but he will face them because it is noble to do so or because it is base not to do so. — Aristotle, Nicomachean Ethics III, Ross translation, [Internet Classics Archive (opened)](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)
 
-The chapter adds that it is the mark of a brave man to face things that are, and seem, terrible for a man, because it is noble to do so and disgraceful not to do so. I build its approach-despite-discomfort practices on this ground. The pairing with the exposure kernels is deliberate rather than decorative: Aristotle's brave person still feels the pain, which is the same fact the avoidance research works from, and both traditions treat the feeling as something to be carried into the act rather than removed before it.
+The chapter adds that it is the mark of a brave man to face things that are, and seem, terrible for a man, because it is noble to do so and disgraceful not to do so. I build its approach-despite-discomfort practices on this ground. The pairing with the exposure kernels is deliberate rather than decorative: Aristotle's brave person still feels the pain, which is the same fact the avoidance research works from, and both traditions treat the feeling as something to be carried into the act rather than removed before it, which is what makes courage trainable instead of a temperament.
 
 ### Here
 
