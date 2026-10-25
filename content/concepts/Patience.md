@@ -13,7 +13,13 @@ Patience is a disposition toward calm waiting under difficulty in Schnitker's ps
 
 ### Buddhist forbearance
 
-Śāntideva's perfection of patience, kṣānti, concerns confronting adversity and anger; Thupten Jinpa's account distinguishes accepting hardship, reflecting on reality and responding to injuries from others ([Tsadra, Cultivating Patience, introduction](https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience)). Its ethical training and the psychological scale are different accounts, so findings about one should not be treated as tests of the other ([Schnitker, abstract](https://www.tandfonline.com/doi/abs/10.1080/17439760.2012.697185); [Tsadra](https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience)).
+Śāntideva's perfection of patience, kṣānti, concerns confronting adversity and anger; Thupten Jinpa's account distinguishes accepting hardship, reflecting on reality and responding to injuries from others ([Tsadra, Cultivating Patience, introduction](https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience)). Jinpa renders the Tibetan soe-pa as "a resolute response against adversity stemming from a settled temperament unperturbed by either external or internal disturbance," and notes that this is an active approach rather than a passive submission ([Perfecting Patience, p. xviii, quoted at Tsadra](https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience)).
+
+Śāntideva's own argument runs on a comparison rather than a rule:
+
+> "To cover all the earth with sheets of leather— / Where could such amounts of skin be found? / But with the leather soles of just my shoes / It is as though I cover all the earth!" (Śāntideva, The Way of the Bodhisattva 5.13, [Tsadra](https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience))
+
+The chapter's opening verse sets the stake: "All the good works gathered in a thousand ages... A single flash of anger shatters them" (Śāntideva, The Way of the Bodhisattva 6.1, [Tsadra](https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience)). Its ethical training and the psychological scale are different accounts, so findings about one should not be treated as tests of the other ([Schnitker, abstract](https://www.tandfonline.com/doi/abs/10.1080/17439760.2012.697185); [Tsadra](https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience)).
 
 ### Here
 

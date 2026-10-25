@@ -17,6 +17,8 @@ Smith's Theory of Moral Sentiments opens with the sentiment he builds on, sympat
 
 > "How selfish soever man may be supposed, there are evidently some principles in his nature, which interest him in the fortune of others, and render their happiness necessary to him, though he derives nothing from it, except the pleasure of seeing it." (Smith, [The Theory of Moral Sentiments, I.i.1, Project Gutenberg](https://www.gutenberg.org/files/67363/old/67363-h/67363-h.htm))
 
+The Scots' claim is not that reason has no role in moral life, but that the role is not the one the textbooks gave it. Reason can show what a situation contains; what moves a person to act is the sentiment the situation stirs, and the sentiment arrives whether or not it was asked for. The concept names those sentiments as the working parts of moral life, and treats a morality that does not engage them as a system that runs on paper.
+
 ### Here
 
 - [[D017 — Trust emergent order]]
