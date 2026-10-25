@@ -1306,3 +1306,75 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
 - Relevant segment: whole lecture, 1:23:22.
 - Verification status: verified-video (2026-10-25); credentials from the
   description, institutional page pending.
+
+### M04-E11: Gabriel Marcel — Existentialism and Human Freedom (Gregory B. Sadler)
+
+- Identity and access: oembed confirms the lecture on the Gregory B. Sadler
+  - That Philosophy Guy channel
+  (https://www.youtube.com/watch?v=0j_wfce0WBU); watch page opened
+  2026-10-25. Existentialist Philosophy and Literature series.
+- Duration: 1:25:51 (watch page, 2026-10-25; the page also lists 1:25:50
+  elsewhere — a one-second listing discrepancy).
+- Instructor credentials: Gregory B. Sadler, lecturer (per the description;
+  institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): Marcel's
+  critical examination of Sartre in the essay "Existentialism and Human
+  Freedom" — Sartre's works from Nausea and Being and Nothingness to No
+  Exit and The Age of Reason, distinguishing what Marcel regards as valid
+  in Sartre from blind alleys and mistaken generalizations.
+- Relevant segment: whole lecture, 1:25:51.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.
+
+### M04-E12: Nietzsche's Eternal Recurrence and Nihilism (Johannes Achill Niederhauser)
+
+- Identity and access: oembed confirms the lecture on the Dr. Johannes
+  Achill Niederhauser channel
+  (https://www.youtube.com/watch?v=CSX-P68X0DU); watch page opened
+  2026-10-25.
+- Duration: 1:11:19 (watch page, 2026-10-25).
+- Instructor credentials: Dr. Johannes Achill Niederhauser, independent
+  scholar (per the uploader description; institutional page not opened
+  this session). INDEPENDENT-SCHOLAR FLAG.
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): the argument
+  that Nietzsche's eternal recurrence of the same is a response to
+  nihilism while also being deeply nihilistic itself.
+- Relevant segment: whole lecture, 1:11:19.
+- Verification status: verified-video (2026-10-25); independent-scholar
+  basis noted.
+
+### M04-E14: Husserl — Phenomenology and the Methods of Reduction (NPTEL, IIT Madras)
+
+- Identity and access: oembed confirms the lecture on the nptelhrd channel
+  (https://www.youtube.com/watch?v=jJfhtvRwYYc); watch page opened
+  2026-10-25. Aspects of Western Philosophy, NPTEL, IIT Madras.
+- Duration: 52:43 (watch page, 2026-10-25).
+- Instructor credentials: Dr. Sreekumar Nellickappilly, Department of
+  Humanities and Social Sciences, IIT Madras (per the uploader
+  description; institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): Husserl's
+  phenomenology, the methods of reduction, and the principle of
+  intentionality.
+- Relevant segment: whole lecture, 52:43.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.
+
+### M16-P03: Christian Miller (Wake Forest University) — Flirting with Skepticism about Practical Wisdom
+
+- Identity and access: oembed confirms the talk on the Mind&Ethics Roma
+  Tre channel (https://www.youtube.com/watch?v=VvnZRdd44sc); watch page
+  opened 2026-10-25.
+- Duration: 1:26:09 (watch page, 2026-10-25).
+- Instructor credentials: Christian Miller, Wake Forest University (per the
+  title; institutional page not opened this session).
+- Language: English.
+- Content coverage: no description on the page; the coverage basis is the
+  title only — skepticism about practical wisdom, by Christian Miller of
+  Wake Forest University. CONTENT BASIS FLAG: confirm against the recording
+  or transcript before scheduling.
+- Relevant segment: whole talk, 1:26:09.
+- Verification status: verified-partial (identity, access, duration;
+  coverage basis is the title only).
