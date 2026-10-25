@@ -123,3 +123,45 @@ module's upper ladder rungs; count 10:29 (not 12:00) in workload
 arithmetic. The von Plitt 13:38 candidate above remains pending
 credentials and is superseded by this one for the top tier. The 8-minute
 tier gap stands as documented above.
+
+## Block I batch — deg-verify-b hash half (verifier-pplx-1025g, 2026-10-25)
+
+### QI-02: Lim Lecture — Air/Qi Connections (Ruth Rogaski, UC Berkeley)
+
+- Identity and access: oembed confirms the lecture on the UC Berkeley
+  Events channel (https://www.youtube.com/watch?v=8nlZXZH0nUA); watch page
+  opened 2026-10-25. Elvera Kwang Siam Lim Memorial Lecture.
+- Duration: DUAL FIGURES — the listing prints 56:50 while the player shows
+  1:39:50 (2026-10-25); the owner should reconcile (the listing figure may
+  cover only the lecture portion) before workload arithmetic.
+- Instructor credentials: Ruth Rogaski, History, Vanderbilt University
+  (per the uploader description; institutional page not opened this
+  session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): the
+  historical relationship between the air people breathe (kongqi) and qi
+  in Chinese medicine, how that connection informs understandings of
+  health and environment in China, and reflections on qi and air today,
+  where enthusiasm for qigong's health benefits coexists with an
+  increasingly unbreathable atmosphere.
+- Relevant segment: whole lecture (duration to reconcile).
+- Verification status: verified-video (2026-10-25), dual-figure duration
+  flagged; credentials from the description, institutional page pending.
+
+### QI-03: The Fundamentals of Traditional Chinese Medicine — Three Treasures, Four Levels, Five Elements (Asian Art Museum)
+
+- Identity and access: oembed confirms the talk on the Asian Art Museum
+  channel (https://www.youtube.com/watch?v=YOugTb9KU-c); watch page opened
+  2026-10-25.
+- Duration: 1:34:38 (watch page, 2026-10-25).
+- Instructor credentials: Amy Petrarca, MS, RN, LAc, Bay Area practitioner
+  (per the uploader description; institutional page not opened this
+  session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): the
+  fundamentals of Traditional Chinese Medicine — three treasures, four
+  levels, five elements — introduced via the search for eternal youth
+  from Qin Shihuang's mercury consumption to modern anti-aging practices.
+- Relevant segment: whole talk, 1:34:38.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.

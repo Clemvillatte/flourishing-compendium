@@ -1244,3 +1244,19 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
 - Relevant segment: whole module, 1:38:32.
 - Verification status: verified-video (2026-10-25); credentials from the
   description, institutional page pending.
+
+### M-15-005: Impermanence (Anicca) — Ajahn Brahmali (Buddhist Society of Western Australia)
+
+- Identity and access: oembed confirms the talk on the Buddhist Society of
+  Western Australia channel (https://www.youtube.com/watch?v=_pGZQaTMxfk);
+  watch page opened 2026-10-25. Streamed live 29 March 2024, recorded at
+  Dhammaloka Buddhist Centre, Perth.
+- Duration: 1:03:30 (watch page, 2026-10-25).
+- Instructor credentials: Ajahn Brahmali, teacher (per the uploader
+  description; institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): the
+  importance of spiritual practice and how everything is impermanent.
+- Relevant segment: whole talk, 1:03:30.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.

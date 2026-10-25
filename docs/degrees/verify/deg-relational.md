@@ -391,3 +391,21 @@ standard.
 - Relevant segment: whole talk, 1:00:48.
 - Verification status: verified-video (2026-10-25); credentials from the
   description, institutional page pending.
+
+### M14-U-02: Ubuntu and Inclusive Epistemology in Higher Education — Professor Mogobe Ramose (UKZN)
+
+- Identity and access: oembed confirms the lecture on the University of
+  KwaZulu-Natal South Africa channel
+  (https://www.youtube.com/watch?v=BoljcIlOyW4); watch page opened
+  2026-10-25. College of Humanities Transformation and Leadership Lecture
+  Series.
+- Duration: 2:34:02 (watch page, 2026-10-25).
+- Instructor credentials: Professor Mogobe Ramose, African philosopher
+  (per the uploader description; institutional page not opened this
+  session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): inclusive
+  epistemology in higher education, framed by Ubuntu.
+- Relevant segment: whole lecture, 2:34:02.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.
