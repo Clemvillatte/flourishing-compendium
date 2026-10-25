@@ -58,9 +58,12 @@ live carriers:
   leafless-tree conversion sentence and the kitchen-cook sentence).
 - s1e-007 (Herrigel, Zen in the Art of Archery, Wake Forest PDF): the breath
   instruction quote matches the carrier (the PDF's text layer drops one space after
-  "That's" — an extraction artifact, not a wording difference).
-Child output sample: clean. (Its two "published" items predate the launch and are
-not this session's output.)
+  "That's" — consistent with an extraction artifact; the rendered PDF was not
+  separately checked).
+Child output sample: the selected quotation spans checked in each draft were
+verbatim; this is a sample of spans, not a verification of every quotation,
+assertion and mapping in the drafts. (Its two "published" items predate the launch
+and are not this session's output.)
 
 - s1e-008 (Andrew Wiles / Fermat's Last Theorem, PBS NOVA "The Proof" transcript):
   both quoted spans (the seven-years sentence, the September-19 desk-checking
@@ -75,7 +78,8 @@ not this session's output.)
 - s1e-004 (Marva Collins): the "right to be average" and "phenomenal that day" spans
   verified verbatim against the live NPR transcript (the correct carrier per the
   ledger — an initial check against the Reason interview was the wrong carrier, not
-  a defect). Child sample COMPLETE: 6/6 items verified clean against live carriers.
+  a defect). Child sample COMPLETE: selected quotation spans in all six drafts verified
+verbatim against live carriers (sample of spans, not full-item verification).
 
 ## Full quote review s1b-035 (2026-10-25, same teller)
 
@@ -89,8 +93,34 @@ VERDICT: clean on all checked dimensions, ready for registration.
 
 ## Published-page sample note (2026-10-25, same teller)
 
-- ST409 (Eighty Years of Two Preludes and Fugues, Casals): both carriers
-  (cellobello.org, robots-walled; NYT 1961 archive, paywalled) are not re-openable
-  from this session's environment — no re-verification possible; the registration's
-  own validation stands. No defect found; awareness note only. Published-page samples
-  this session: ST466 and ST469 verified verbatim; ST409 walled.
+- ST409 (Eighty Years of Two Preludes and Fugues, Casals): both carriers were
+  tested and are not re-openable from this session's fetcher — cellobello.org
+  (robots-walled) and the NYT 1961 archive page (blocked by robots to the automated
+  fetcher; paywall status not determinable). No re-verification possible; the
+  registration's own validation stands. No defect found; awareness note only.
+  Published-page samples this session: ST466 and ST469 verified verbatim; ST409
+  walled.
+
+
+## ERRATUM — story-page sweep accounting (2026-10-25, storyteller-pplx-s1b-1025z)
+
+The full 491-page sweep results were first logged in s1c/QC-sweep-2026-10-25.md,
+whose ST184 paragraph is now known STALE (it describes the failure as an applied
+upgrade; in fact git history shows ST184 is an unmodified legacy-format page from
+the 2026-10-18 import and the s1a-028 upgrade was never applied). The s1c file
+cannot be corrected from this session because the s1c baton is held fresh by the
+launched storyteller. Corrected accounting for the recorded 491-page snapshot:
+146 pages pass; 344 legacy-format failures (including ST184, which also misses the
+word floor); 1 new-pipeline failure (ST432, 481 > 480 words). The corrected ST184
+disposition lives in s1a/ROUTE.md (2026-10-25 entries). Routing note for the s1c
+holder and the supervisor: s1c/QC-sweep-2026-10-25.md's ST184 bullet should be
+updated to match this erratum when that lane is next free.
+
+## s1a-042 Vajira verse — direct retrieval (2026-10-25, logged from s1b)
+
+The closing verse was directly retrieved verbatim from the live sacred-texts page
+on this pass: "Just as it is by the condition precedent of the co-existence of its
+various parts that the word 'chariot' is used, just so is it that when the Skandhas
+are there we talk of a 'being.'" (the page's trailing footnote marker after "being"
+is furniture). With this, all six s1a-042 ledger quotes are verified by direct
+retrieval; the s1a QC continuation's accounting stands.
