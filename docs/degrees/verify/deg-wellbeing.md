@@ -23,7 +23,20 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
   for Happiness event at Friends House, London, on 9 May 2016, with Seligman sharing
   ideas to help people flourish as individuals and contribute to a happier world.
 - Relevant segment: whole talk, 1:20:13.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the ~15:00Z save): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=HH0sssQzQGg&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the talk's substance: Seligman on future-oriented thinking and learned
+  helplessness, the PERMA well-being model, and measuring and building
+  well-being through individual exercises, education, workplaces and
+  public policy, with research examples involving social-media data,
+  schools, the U.S. Army, and audience questions (Action for Happiness).
+  The coverage basis is upgraded from description-only to third-party
+  transcript; status upgraded verified-partial to verified-video per the
+  house convention, with the no-timestamps and no-playback caveats
+  carried.
 
 ### M08-P01: Positive Psychology and Beyond (Martin Seligman, Dickinson College)
 
@@ -43,6 +56,19 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
   module.
 - Relevant segment: whole lecture, 1:21:01.
 - Verification status: verified-video.
+  INDEPENDENT CORROBORATION (worker-pplx-degfin-1, deg-verify-a,
+  2026-10-25, batched pass; written before the ~15:00Z save): the
+  third-party transcript route was fetched FRESH this session
+  (https://youtubetotranscript.com/transcript?v=GK1DB9AAo3M&current_language_code=en;
+  no timestamps; playback not opened) and confirms the talk's
+  substance: psychology aiming beyond alleviating suffering to
+  build well-being; PERMA; well-being linked with future health,
+  longevity, productivity, resilience and citizenship; applications in
+  relationships, the military, education and psychotherapy; AI for
+  coaching and therapy; audience questions (Dickinson College).
+  Consistent with the entry's standing status; no change claimed
+  beyond the fresh corroboration.
+
 
 ### M08-P15: How To Find Meaning (Michael Steger, Action for Happiness)
 
@@ -59,7 +85,20 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
   chaos: the purpose crisis, burnout, what brings direction to life, and how purpose
   guides people forward. Fits mod-wb-1's meaning strand.
 - Relevant segment: whole talk, 57:59.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the ~15:00Z save): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=E-s4hG0BWS8&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the talk's substance: Steger distinguishing meaning IN life from the
+  abstract meaning OF life; three pathways to meaning (significance/
+  mattering, coherence, purpose); modern challenges to meaning;
+  cultivating it through appreciation, connection, reflection and action;
+  supporting others with healthy boundaries (Action for Happiness).
+  The coverage basis is upgraded from description-only to third-party
+  transcript; status upgraded verified-partial to verified-video per the
+  house convention, with the no-timestamps and no-playback caveats
+  carried.
 
 ### M08-P02: 2010 Tanner Lecture, Martin Seligman (optional)
 
@@ -76,6 +115,18 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
   mod-wb-1.
 - Relevant segment: whole lecture, 1:29:43.
 - Verification status: verified-video.
+  INDEPENDENT CORROBORATION (worker-pplx-degfin-1, deg-verify-a,
+  2026-10-25, batched pass; written before the ~15:00Z save): the
+  third-party transcript route was fetched FRESH this session
+  (https://youtubetotranscript.com/transcript?v=g6d-5FlhOpM&current_language_code=en;
+  no timestamps; playback not opened) and confirms the talk's
+  substance: the 2010 Tanner Lecture substance — PERMA,
+  well-being research and interventions in individuals, schools, the
+  U.S. Army and potentially nations; governments measuring and
+  promoting flourishing alongside economic growth.
+  Consistent with the entry's standing status; no change claimed
+  beyond the fresh corroboration.
+
 
 ## mod-wb-2 batch (verified 2026-10-25)
 
@@ -148,6 +199,18 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
   Howarth. Fits mod-wb-3's sociocultural flourishing module.
 - Relevant segment: whole talk, 1:05:38.
 - Verification status: verified-video.
+  INDEPENDENT CORROBORATION (worker-pplx-degfin-1, deg-verify-a,
+  2026-10-25, batched pass; written before the ~15:00Z save): the
+  third-party transcript route was fetched FRESH this session
+  (https://youtubetotranscript.com/transcript?v=ZC-p6SxMqXw&current_language_code=en;
+  no timestamps; playback not opened) and confirms the talk's
+  substance: independent versus interdependent ways of being;
+  the culture cycle; East Asian/European American, social-class and
+  race clashes; reducing conflict by recognising differences and
+  changing environments (LSE).
+  Consistent with the entry's standing status; no change claimed
+  beyond the fresh corroboration.
+
 
 ### M08-S12: Loneliness: Human Nature and the Need for Social Connection (John Cacioppo, University of Chicago)
 
@@ -164,6 +227,20 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
   isolation. Fits mod-wb-3's social connection strand.
 - Relevant segment: whole talk, 1:12:48.
 - Verification status: verified-video.
+  INDEPENDENT CORROBORATION (worker-pplx-degfin-1, deg-verify-a,
+  2026-10-25, batched pass; written before the ~15:00Z save): the
+  third-party transcript route was fetched FRESH this session
+  (https://youtubetotranscript.com/transcript?v=tYnCSd-KV78&current_language_code=en;
+  no timestamps; playback not opened) and confirms the talk's
+  substance: loneliness as an evolved signal of threatened
+  social connection; intimate, relational and collective connection;
+  perceived-isolation effects on social attention and behaviour,
+  sleep, cognition, stress, immunity, blood pressure and health;
+  social-network effects and the limits of group-based approaches
+  (University of Chicago).
+  Consistent with the entry's standing status; no change claimed
+  beyond the fresh corroboration.
+
 
 ### M08-S13: GRCC Diversity Lecture, John Cacioppo on Loneliness and Brain Health
 
@@ -251,7 +328,22 @@ standard.
   employee motivation in organizational success and creativity in competitive
   environments, and how to lead employee engagement to unleash human potential.
 - Relevant segment: whole keynote, 0:56:32.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the ~15:00Z save): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=ww4QGMV94A8&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the talk's substance: Ryan on self-determination theory: autonomy,
+  competence and relatedness supporting employees' motivation,
+  performance and well-being; the continuum from amotivation and
+  controlled motivation to autonomous and intrinsic motivation;
+  autonomy-supportive management linked to engagement, job
+  satisfaction, performance, lower burnout and turnover intentions;
+  mindfulness and leadership (Aalto University).
+  The coverage basis is upgraded from description-only to third-party
+  transcript; status upgraded verified-partial to verified-video per the
+  house convention, with the no-timestamps and no-playback caveats
+  carried.
 
 ### M08-P10: Ordinary Magic on the Developmental Road to Resilience (Ann Masten, UMass Amherst)
 
@@ -268,7 +360,22 @@ standard.
   childhood experiences, adoption in relation to risk and resilience, and recent
   advances in resilience science and their applications in practice.
 - Relevant segment: whole keynote, 1:16:56.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the ~15:00Z save): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=JR_K4x3naLQ&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the talk's substance: Masten on resilience as the capacity of individuals
+  and other systems to adapt successfully to adversity; the history
+  and findings of resilience research; protective factors including
+  caregiving, family attachment, effective schools and self-regulation;
+  case examples and developmental-pathways research, with recovery
+  opportunities in early childhood and emerging adulthood (Rudd
+  Adoption, University of Minnesota).
+  The coverage basis is upgraded from description-only to third-party
+  transcript; status upgraded verified-partial to verified-video per the
+  house convention, with the no-timestamps and no-playback caveats
+  carried.
 
 ### M08-P12: Play, How it Shapes the Brain, Opens the Imagination and Invigorates the Soul (Stuart Brown, Microsoft Research)
 
@@ -284,7 +391,22 @@ standard.
   on research on three-dimensional-object play and animal studies of play
   deprivation.
 - Relevant segment: whole talk, 1:11:12.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the ~15:00Z save): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=CnoAVnupfbo&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the talk's substance: Brown on play as a biological and evolutionary
+  need continuing throughout life; forms including body, object,
+  exploratory, social, imaginative, rough-and-tumble, game,
+  storytelling, celebratory and aesthetic play; play's relation to
+  brain development, social skills, emotional regulation, creativity,
+  adaptability and well-being; play-deprivation research; play in
+  parenting, screens, education and adult life (Microsoft Research).
+  The coverage basis is upgraded from description-only to third-party
+  transcript; status upgraded verified-partial to verified-video per the
+  house convention, with the no-timestamps and no-playback caveats
+  carried.
 
 ### M08-P13: Social Connection and Happiness (Robert Waldinger, Osher Center)
 
@@ -300,7 +422,21 @@ standard.
   examining what actually helps people thrive rather than wealth, fame and
   achievement.
 - Relevant segment: whole lecture, 0:56:08.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the ~15:00Z save): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=Dvxl7EVELJ8&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the talk's substance: Waldinger on Harvard Study of Adult Development
+  findings on relationships and social connection as related to
+  happiness, physical health and cognitive health; loneliness;
+  well-being factors; how relationships change over a lifetime;
+  practical ways to strengthen social connections (Cogan Endowed
+  Lecture, Osher Center).
+  The coverage basis is upgraded from description-only to third-party
+  transcript; status upgraded verified-partial to verified-video per the
+  house convention, with the no-timestamps and no-playback caveats
+  carried.
 
 ### M08-S04: Our Cultures, Our Selves, The Sources of Belonging (Hazel Markus, University of Missouri)
 
