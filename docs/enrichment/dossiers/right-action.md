@@ -148,6 +148,20 @@ The knowing that fails to act is, in Wang's terms, already separated by selfish 
 
 The two accounts also differ in emphasis. Aristotle's chapter on virtue of character forms the agent through practice, becoming just by doing just acts; Wang's instruction points to restoring the original substance, removing the selfish desires that did the separating. Whether character formed through practice and knowing restored by clearing are one work or two is not settled by the passages.
 
+### How robust is moral character across situations?
+
+The character answer and the situation answer meet on the same question: how reliably does a settled character trait show up in conduct? The virtue tradition's account of a virtue is dispositional through and through:
+
+> "A virtue is an excellent trait of character. It is a disposition, well entrenched in its possessor—something that, as we say, goes all the way down, unlike a habit such as being a tea-drinker—to notice, expect, value, feel, desire, choose, act, and react in certain characteristic ways." ([Hursthouse and Pettigrove, Stanford Encyclopedia of Philosophy, "Virtue Ethics"](https://plato.stanford.edu/entries/ethics-virtue/))
+
+The situationist challenge reads the experimental tradition against that robustness. The encyclopedia's entry on moral character gives Doris's target and the challenge:
+
+> "The ancient moralists assumed that virtues are, in John Doris's description, 'robust traits: if a person has a robust trait, they can be confidently expected to display trait-relevant behavior across a wide variety of trait-relevant situations, even where some or all of these situations are not optimally conducive to such behavior' (2002, 18). Doris and others argue that traits are not robust in this sense. They are not stable or consistent and are wrongly invoked to explain why people act as they do. Rather, these philosophers argue, and as the experimental tradition indicates, much of human behavior is attributable to seemingly trivial features of the situations in which persons find themselves." ([Homiak, Stanford Encyclopedia of Philosophy, "Moral Character"](https://plato.stanford.edu/entries/moral-character/))
+
+The disagreement is a dispute about what the studies show: the virtue tradition's definition makes a virtue a well-entrenched disposition; the situationist reading of the experiments holds that traits are not robust in that sense and that much of what a person does is attributable to features of the situations they are in. What remains open is the weight: how much of a person's conduct the settled character explains, and how much the room it happens in.
+
+I favour retaining character cultivation while taking situational pressure seriously. I want my practice to include noticing the settings where I repeatedly fail.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the default setting of bodily conduct: harm done by convenience, giving governed by mood, fidelity held only while feeling holds, courage postponed until the moment passes. The adaptive direction is the factor's own shape, the non-harm floor kept under whatever else is undertaken, and the counterparts, compassion, generosity, fidelity, practiced above it.

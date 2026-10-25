@@ -843,3 +843,66 @@ d3c5abeac (round 8: readability repairs), a23f3f794 (dense
 paragraph split), 905e7aaa7 (ledger rounds 7-9, now corrected by
 this entry), plus the batch state update (eff07162e) and the baton
 claim (e937638b1).
+
+## Disagreement-repair pass (worker-pplx-dos21-1025-0600, 2026-10-25)
+
+One new substantiated disagreement added ("How robust is moral
+character across situations?"), bringing the count to THREE.
+The 3-5 bar is MET (3 substantiated disagreements), subject to
+supervisor/owner ratification.
+
+Carriers freshly opened and verified this session (fetch tool;
+quotes matched word-for-word against the raw text):
+
+1. SEP, "Moral Character" (Homiak) — Doris's robust-traits
+   definition and the situationist challenge verified verbatim:
+   "The ancient moralists assumed that virtues are, in John
+   Doris's description, 'robust traits: if a person has a robust
+   trait, they can be confidently expected to display
+   trait-relevant behavior across a wide variety of
+   trait-relevant situations, even where some or all of these
+   situations are not optimally conducive to such behavior' (2002,
+   18). Doris and others argue that traits are not robust in this
+   sense. They are not stable or consistent and are wrongly
+   invoked to explain why people act as they do. Rather, these
+   philosophers argue, and as the experimental tradition
+   indicates, much of human behavior is attributable to seemingly
+   trivial features of the situations in which persons find
+   themselves."
+2. SEP, "Virtue Ethics" (Hursthouse & Pettigrove) — the virtue
+   definition verified verbatim: "A virtue is an excellent trait
+   of character. It is a disposition, well entrenched in its
+   possessor—something that, as we say, goes all the way down,
+   unlike a habit such as being a tea-drinker—to notice, expect,
+   value, feel, desire, choose, act, and react in certain
+   characteristic ways." The multi-track-disposition reply is
+   carried on the Virtue ethics card and its SEP carrier was NOT
+   independently re-fetched for that specific passage this session
+   (noted; the reply is not used in the dossier body).
+
+The opposition: the virtue tradition's definition makes a virtue
+a well-entrenched disposition; the situationist reading of the
+experiments holds that traits are not robust in that sense and
+that much of what a person does is attributable to features of
+the situations they are in. The dispute is about what the studies
+show, stated as a dispute rather than as an established finding.
+
+Advisor QC applied before push (2 rounds): the either/or framing
+removed (heading now "How robust is moral character across
+situations?"); "the tradition's own response" corrected to not
+overstate consensus (the multi-track reply is carried on the
+Virtue ethics card but is not used in the dossier body this
+session); the study anecdotes and the trait-psychologists'
+interactionist reply removed (not freshly verified); the
+phronesis-as-trained-attention lean replaced with a plainly
+editorial preference per the advisor's direction.
+
+Checks: dossier_check.py exit 0 (65 card links, 21 headers, 16
+external carriers); dossier_density.py 0 dense;
+dossier_quote_verify.py 17 checked / 0 not found.
+
+STATUS: THREE substantiated disagreements (May taking life ever be
+right action?; Can knowledge coexist with failure to act?; How
+robust is moral character across situations?). The 3-5 bar is
+MET, subject to supervisor/owner ratification. Publication
+decision remains with the supervisor/owner.
