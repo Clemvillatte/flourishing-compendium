@@ -42,3 +42,12 @@ ruling — the child respected the hold). Holds s1c + s1e batons fresh at close.
 ## Batons at close
 I release s1b on the final save; s1a/s1d already released; s1c/s1e held by the
 child (fresh); s1f untouched this session.
+
+## Independent read of the s1c-039 vs ST430 flag (2026-10-25)
+ST430 (Franklin's Speckled Axe) is wired to B192 (daily review) and built around
+the Autobiography's speckled-axe passage; s1c-039 (Franklin's Little Book of
+Virtues) targets A108 (habituation) and A042 (virtue as hexis) around the
+thirteen-week rotation. Same source narrative, distinct principle targets — the
+s1a-042 vs ST065 "distinct angle" pattern. The child's qc_pending hold is the
+right call; ruling belongs to the supervisor (publish, or fold into ST430 as an
+upgrade with the A108/A042 wiring).
