@@ -146,7 +146,7 @@ Stebbins rejects Veal's case for replacement. He records the challenge as the mo
 
 The disagreement is direct. Veal proposes a broader successor that combines features of the SLP with other research traditions ([Veal, 2017](https://opus.lib.uts.edu.au/bitstream/10453/45585/4/ABFBC890-A526-452D-9A94-02E3528ED6AE%20am.pdf)); Stebbins rejects the grounds offered for that replacement, arguing that Veal overlooks central concepts and the framework's theoretical foundations ([Stebbins, 2018](https://www.seriousleisure.net/uploads/8/3/3/8/8338986/leisure_reflections_no._47__the_serious_leisure_perspective__past_present_and_future___leisure_studie.pdf)). Their disagreement concerns what leisure research should build on, a different question from whether serious and casual leisure form distinct categories.
 
-My own judgment is that I would not replace it yet. Veal's case is that the framework is untested as theory, and an untested framework is still a live programme of research, which is close to how Stebbins presents the perspective himself, as a theoretic framework rather than a settled theory; the reading I would defend is that the framework organises the field and the testing is still owed.
+My own judgment is that I would retain the framework provisionally and use Veal's criticism to guide further comparative testing. His case is that the framework is untested as theory, and that is a case for testing rather than for discarding; the reading I would defend is that the framework organises the field and the testing is still owed.
 
 ## Practice: variation, selection, retention
 

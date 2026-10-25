@@ -690,8 +690,9 @@ correction flagged for the supervisor.
 
 The three disputes in "Where the traditions genuinely disagree" previously
 carried paraphrase only. Four short verbatim spans across the three
-subsections were substituted for the closest paraphrase (one in the first,
-one in the second, two in the third before the third was trimmed to one), taken from the
+subsections were substituted for the closest paraphrase (two in the first
+subsection, one in the second, one in the third after the third was trimmed
+from two to one), taken from the
 already-cited carrier (Ted Toadvine, "Maurice Merleau-Ponty", Stanford
 Encyclopedia of Philosophy, https://plato.stanford.edu/entries/merleau-ponty/),
 with the secondary attribution named in the prose ("as Ted Toadvine's SEP
