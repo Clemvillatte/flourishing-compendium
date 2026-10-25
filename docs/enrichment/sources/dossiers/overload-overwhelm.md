@@ -173,3 +173,36 @@ exhausted — matches) and ST088 Paṭācārā Washes Her Feet (the
 losses, the instruction drawn from washing the feet — matches). All
 three match. With batch 1 (header checks), the sampled cards all
 verify. No defects found.
+
+## Reader-level review complete (supervisor-pplx-ef15b6c9, 2026-10-25)
+
+The standing item from the 2026-10-25 pass-5 note (goals and
+overload-overwhelm "still need complete reader-level review") is now
+closed for overload-overwhelm as well. Full read-through at reader
+level this session. Findings: the opening frames the experience and
+its trap in natural prose; the two disagreement headings are genuine
+and honestly carried (ego-depletion replication record with both
+quotes verbatim against the PubMed carriers; Aristotle's two answers
+from Nicomachean Ethics X with the Ross-translation carrier); the
+practice section follows the variation/selection/retention model; no
+scaffolds or decorative metaphors found. One note for the record: the
+Hagger et al. 2016 abstract quote ends "(d = 0.04, 95% CI [-0.07,
+0.15]." with an unmatched opening parenthesis - that is the PubMed
+record's own typography (verified against a fresh fetch of the
+PubMed page this session); the quote is verbatim to its carrier and
+is left exactly as the carrier prints it. The mid-section card-catalog
+paragraphs are short, topically grouped and were already accepted
+through earlier QC rounds; no mechanical splits were found at reader
+level. Checks this session: dossier_check exit 0, quote_verify
+(clean), density 0.
+
+Quote-verification record for this session: the two not-found spans
+are the PubMed pages (the tool cannot fetch PubMed page type); both
+were verified by eye against fresh fetches this session - the
+Baumeister et al. 1998 final sentence ("These results suggest that
+the self's capacity for active volition is limited and that a range
+of seemingly different, unrelated acts share a common resource.") and
+the Hagger et al. 2016 meta-analysis sentence (verbatim including
+the carrier's own unmatched-parenthesis typography). Both exceptions
+are on the record; the tool failures are fetch artifacts, not quote
+defects.
