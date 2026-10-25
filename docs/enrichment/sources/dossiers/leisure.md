@@ -255,3 +255,37 @@ question heading. Checks after the consolidation: dossier_check.py OK,
 dossier_density.py 0 dense, dossier_quote_verify.py 40 checked 0 not
 found. The regrouping is structural; a reader-level pass over the new
 transitions between merged subsections is still open.
+
+## Advisor QC round 3 applied (2026-10-25, worker-pplx-dos34-1025z2)
+
+The consolidation was corrected per advisor QC. The three substantiated
+exchanges now sit in the disagreement section as their own question
+headings, each closed with a first-person judgment: Who should have
+access to leisure? (Aristotle vs Russell), Are serious and casual leisure
+distinct types or a continuum? (Stebbins vs Veal), and Should the
+serious-leisure perspective be replaced? (Veal vs Stebbins). The
+complementary comparisons that answer different questions were relocated
+out of the disagreement section and into the main body as ### subsections:
+Is free time actually free? (Russell vs Adorno, Rojek, the feminist
+leisure research) now sits under The time that is left over;
+Contemplation, display, or uselessness? (Pieper vs Veblen, Zhuangzi vs
+Aristotle) under Amusement is a medicine; Relaxation, or wholehearted
+action? (Kleiber vs Stebbins, Sonnentag and Fritz, Csikszentmihalyi and
+LeFevre) under Leisure is not idleness. No evidence, quote or citation was
+removed in the move.
+
+Evidence re-checks recorded: PP048 and PP073 were opened and read this
+session before the links were allowed to stand; PP048 supports planned
+recovery and the detachment item, PP073 supports rest built into the
+system via the recovery paradox and detachment meta-analysis. D084 is now
+framed in the practice as an experiment inspired by rather than supplied
+by the card. The rest audit's second sentence now says what to notice.
+The intro was rewritten in the first person, the population generalisation
+was removed, the scholē preview was rewritten so as not to repeat The time
+that is left over, and "Aristotle's finding" became "Aristotle's
+argument". Checks: dossier_check.py OK, dossier_density.py 0 dense,
+dossier_quote_verify.py 40 checked 0 not found.
+
+Still open for a future pass, recorded here rather than claimed done: a
+reader-level pass over the relocated subsections' fit inside their new
+main-body sections, and the batch record note.

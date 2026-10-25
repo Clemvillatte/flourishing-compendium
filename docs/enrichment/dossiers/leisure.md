@@ -153,9 +153,9 @@ I would not replace it yet. Veal's case is that the framework is untested as the
 
 ::Selection:: The practices I have selected as sources of that variation:
 
-1. The unmeasured evening: for two weeks, spend some free hours with every metric off, no step count, no streak, no monetisable output, in the spirit of [valuing the useless](https://clemvillatte.github.io/flourishing-compendium/#card=D084%20%E2%80%94%20Value%20the%20useless). Notice which activities hold attention for their own sake and which need a feed to keep going.
+1. The unmeasured evening: for two weeks, spend some free hours with every metric off, no step count, no streak, no monetisable output, an experiment inspired by rather than supplied by [valuing the useless](https://clemvillatte.github.io/flourishing-compendium/#card=D084%20%E2%80%94%20Value%20the%20useless). Notice which activities hold attention for their own sake and which need a feed to keep going.
 
-2. The rest audit: for one week, each evening note whether you actually detached from work or only changed rooms while continuing to think about it, which is the detachment item of [recovery as a skill](https://clemvillatte.github.io/flourishing-compendium/#card=PP048%20%E2%80%94%20Practise%20recovery%20as%20a%20skill). Keep the conditions that produced detachment, an end time, a walk, a device boundary.
+2. The rest audit: for one week, each evening note whether you actually detached from work or only changed rooms while continuing to think about it, the detachment item of [recovery as a skill](https://clemvillatte.github.io/flourishing-compendium/#card=PP048%20%E2%80%94%20Practise%20recovery%20as%20a%20skill). Notice which of the week's conditions, an end time, a walk, a device boundary, were present on the evenings that produced real detachment.
 
 3. One standing sabbath: put a weekly block of some hours where work and its tools are out of reach and nothing productive is allowed, the boundary form of [rest built into the system](https://clemvillatte.github.io/flourishing-compendium/#card=PP073%20%E2%80%94%20Build%20rest%20into%20the%20system). See what fills it when nothing useful is permitted.
 
