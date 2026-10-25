@@ -134,3 +134,16 @@ explicitly unverified; story loglines repaired against full card
 re-reads; the Dewey "research keeps confirming" synthesis and the
 staged opener removed; the repeated "the say" mannerism reduced in
 prose.
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos14 baton)
+
+Reviewed both candidates against the current file (fresh audit run).
+No scaffolds removed: line 95 (autonomous versus controlled motivation:
+motivation sorted by its reasons rather than its strength — SDT's own
+comparison), 123 (participatory decision-making: with the people who
+must live with the choices rather than doing things to or for them —
+the participation tradition's own framing, on Bandura's collective
+agency).
+
+Checks: dossier_check.py exit 0. Editorial review only; no carriers or
+cards freshly opened this pass. Scope: candidate-line review.
