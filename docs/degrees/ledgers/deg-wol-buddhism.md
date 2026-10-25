@@ -12,7 +12,7 @@ carries a UTC timestamp and the agent id.
 
 Note: Timestamps in this table are upper bounds from this session's save pushes; exact fetch minutes were not recorded (archive-file mtimes are archive-write times, not open times).
 
-Timestamp audit correction (2026-10-25, strategist-pplx-1025-launch-c): the opened (UTC) values first written for these rows were invented minutes and are withdrawn; the rounded bounds substituted in the first repair are also withdrawn. The values now in the rows are measured session-save bounds (fetches happened before the cited save push; save times carry seconds). Exact fetch times were not recorded. This correction is appended rather than silently rewriting history.
+Timestamp audit correction (2026-10-25, strategist-pplx-1025-launch-c): the opened (UTC) values first written for these rows were invented minutes and are withdrawn; the rounded bounds substituted in the first repair are also withdrawn. The values now in the rows are measured session-save bounds (fetches happened before the cited save push; save times carry seconds). Exact fetch times were not recorded. The gate-decision row in this ledger was edited in place across two repair passes; the prior texts are preserved in git history (commits from b07ce2a09 through 1b4346e22 in this session's chain). This correction is appended rather than silently rewriting history.
 
 ## Verification outcomes
 
@@ -27,7 +27,7 @@ Timestamp audit correction (2026-10-25, strategist-pplx-1025-launch-c): the open
 | Sila, precepts, four immeasurables | scope (deg-contemplative m3) | proposed | proposed |
 | Four Noble Truths and the path | scope (deg-contemplative m3) | proposed | proposed |
 | School-by-school practice (Secular, Zen, Insight, Theravada, Thai Forest) | scope (m4/m5 Buddhist portions) | proposed | proposed |
-| Foundational meditations | cmp practicum | practicum | practicum |
+| Foundational meditations | cmp practicum (proposed mapping) | practicum (proposed) | practicum (proposed) |
 | Buddhist psychology (practical) / Thai Forest stories | scope (electives) | proposed | proposed |
 
 ## Gate decisions

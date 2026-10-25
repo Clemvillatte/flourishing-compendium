@@ -14,7 +14,7 @@ carries a UTC timestamp and the agent id.
 
 Note: Timestamps in this table are upper bounds from this session's save pushes; exact fetch minutes were not recorded (archive-file mtimes are archive-write times, not open times).
 
-Timestamp audit correction (2026-10-25, strategist-pplx-1025-launch-c): the opened (UTC) values first written for these rows were invented minutes and are withdrawn; the rounded bounds substituted in the first repair are also withdrawn. The values now in the rows are measured session-save bounds (fetches happened before the cited save push; save times carry seconds). Exact fetch times were not recorded. This correction is appended rather than silently rewriting history.
+Timestamp audit correction (2026-10-25, strategist-pplx-1025-launch-c): the opened (UTC) values first written for these rows were invented minutes and are withdrawn; the rounded bounds substituted in the first repair are also withdrawn. The values now in the rows are measured session-save bounds (fetches happened before the cited save push; save times carry seconds). Exact fetch times were not recorded. The gate-decision row in this ledger was edited in place across two repair passes; the prior texts are preserved in git history (commits from b07ce2a09 through 1b4346e22 in this session's chain). This correction is appended rather than silently rewriting history.
 
 ## Verification outcomes
 
@@ -27,7 +27,7 @@ Timestamp audit correction (2026-10-25, strategist-pplx-1025-launch-c): the open
 
 | essential topic | taught in | practised in | assessed in |
 | Freedom, responsibility, death, absurd (Kierkegaard to Camus) | scope (deg-philosophy m5) | proposed | proposed |
-| Application to own life structure | scope (walk framing; anchor-supported by Stanford/UNO "hands-on"/activities) | proposed | proposed |
+| Application to own life structure | scope (walk framing; anchored by UNO's documented activities alone among the philosophy anchors) | proposed | proposed |
 | Existential therapy (Yalom, May, Frankl) | scope (to be newly curated); theorists/methods anchored by USFQ + HUJI syllabi | proposed | proposed; evidence-base-and-limits clause unanchored |
 | Logotherapy / meaning-centred work (Frankl) | scope (to be newly curated); anchored by USFQ logotherapy spine | proposed | proposed |
 | Phenomenology (technical) | excluded by scope | — | — |
@@ -35,4 +35,4 @@ Timestamp audit correction (2026-10-25, strategist-pplx-1025-launch-c): the open
 ## Gate decisions
 
 | gate | decision | by | date |
-| Gate 1 (scope benchmark) | groundwork done: five anchors opened (three philosophy, two therapy), benchmark section written in docs/degrees/scope/deg-wol-existentialism.md; therapy half now anchored (theorists and methods), evidence-and-limits clause and Binswanger/Boss elective still unanchored; Gate-1 sign-off not yet given (the strategist's gate; owner directives outrank); groundwork only, no gate cleared | strategist-pplx-1025-launch-c | 2026-10-25 |
+| Gate 1 (scope benchmark) | groundwork done: five anchors opened (three philosophy, two therapy), benchmark section written in docs/degrees/scope/deg-wol-existentialism.md; therapy half now anchored (theorists and methods), evidence-and-limits clause and Binswanger/Boss elective still unanchored; Gate 1 remains open; independent review required (no gate-1 assignment was located in the repo instructions this session); groundwork only, no gate cleared | strategist-pplx-1025-launch-c | 2026-10-25 |
