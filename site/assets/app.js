@@ -19975,7 +19975,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The synthesis DeWitt draws from the evidence is direct: \"we could therefore describe ADHD as a deficit of interest, meaning that when interest is low, ADHD traits tend to be high, but when interest is high, ADHD traits tend to be low\" ([DeWitt 2020](https://repository.upenn.edu/server/api/core/bitstreams/e85d5911-7c45-41b2-8377-2bb30cec785a/content)). The design implication is environmental: \"the brain of an individual with ADHD needs stimulation and interest in order to ameliorate some ADHD traits\" ([DeWitt 2020](https://repository.upenn.edu/server/api/core/bitstreams/e85d5911-7c45-41b2-8377-2bb30cec785a/content); [AT069 — Recognise ADHD — interest-based attention, not a deficit](card:AT069%20%E2%80%94%20Recognise%20ADHD%20%E2%80%94%20interest-based%20attention%2C%20not%20a%20deficit))."
+          "x": "The synthesis DeWitt draws from the evidence is direct: \"we could therefore describe ADHD as a deficit of interest, meaning that when interest is low, ADHD traits tend to be high, but when interest is high, ADHD traits tend to be low\" ([DeWitt 2020](https://repository.upenn.edu/server/api/core/bitstreams/e85d5911-7c45-41b2-8377-2bb30cec785a/content)). The interest framing has a measured base: meta-analyses report that those diagnosed with ADHD show a moderate tendency to favour small immediate rewards over large delayed ones ([MO067 — Recognise ADHD and motivation — interest-based, not importance-based](card:MO067%20%E2%80%94%20Recognise%20ADHD%20and%20motivation%20%E2%80%94%20interest-based%2C%20not%20importance-based)). The design implication is environmental: \"the brain of an individual with ADHD needs stimulation and interest in order to ameliorate some ADHD traits\" ([DeWitt 2020](https://repository.upenn.edu/server/api/core/bitstreams/e85d5911-7c45-41b2-8377-2bb30cec785a/content); [AT069 — Recognise ADHD — interest-based attention, not a deficit](card:AT069%20%E2%80%94%20Recognise%20ADHD%20%E2%80%94%20interest-based%20attention%2C%20not%20a%20deficit))."
         },
         {
           "t": "h2",
@@ -20033,7 +20033,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "In a six-week program (N = 174) of daily cognitive or behavioral self-control tasks, Miles and colleagues report that \"we found no evidence that training led to any improvements in self-control\", and conclude that \"training self-control through repeated practice does not result in generalized improvements in self-control\" ([Miles et al. 2016](https://eprints.whiterose.ac.uk/id/eprint/107549/3/Does%20Self-Control%20Improve%20With%20Practice%20Final%20Manuscript%20with%20Supp%20Refs.pdf); [White Rose abstract page](https://eprints.whiterose.ac.uk/id/eprint/107549/))."
+          "x": "In a six-week program (N = 174) of daily cognitive or behavioral self-control tasks, Miles and colleagues report that \"there was no effect of training on any measure of self-control\", and conclude that \"training self-control through repeated practice does not result in generalized improvements in self-control\" ([Miles et al. 2016](https://eprints.whiterose.ac.uk/id/eprint/107549/3/Does%20Self-Control%20Improve%20With%20Practice%20Final%20Manuscript%20with%20Supp%20Refs.pdf); [White Rose abstract page](https://eprints.whiterose.ac.uk/id/eprint/107549/))."
         },
         {
           "t": "p",
@@ -20121,7 +20121,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 4,
-          "x": "Deliberately switch frames, a route, an interpretation, a plan, while a task is live, so that shifting stays a capacity and not a threat ([CO045 — Cultivate cognitive flexibility — the capacity to switch between modes](card:CO045%20%E2%80%94%20Cultivate%20cognitive%20flexibility%20%E2%80%94%20the%20capacity%20to%20switch%20between%20modes)). Notice: the difference between abandoning an aim and abandoning one route to it."
+          "x": "When a task has you stuck on one approach, deliberately switch frames, a route, an interpretation, a plan, so that shifting stays a capacity and not a threat ([CO045 — Cultivate cognitive flexibility — the capacity to switch between modes](card:CO045%20%E2%80%94%20Cultivate%20cognitive%20flexibility%20%E2%80%94%20the%20capacity%20to%20switch%20between%20modes)). Notice: the difference between abandoning an aim and abandoning one route to it."
         },
         {
           "t": "vs",
