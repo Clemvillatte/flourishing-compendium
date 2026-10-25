@@ -669,6 +669,36 @@ attach them with evidence on file.
 - Relevant segment: whole lecture, 1:21:59.
 - Verification status: verified-video.
 
+### M02-K01: Absolute Critique in Tanabe Hajime's Philosophy as Metanoetics (Gregory Moss, Edinburgh)
+
+- Identity and access: oembed confirms the talk on the Philosophy at the
+  University of Edinburgh channel (https://www.youtube.com/watch?v=28N4lGq0_MQ).
+- Duration: 0:49:25 (watch page, 2026-10-25).
+- Instructor credentials: Gregory Moss, Chinese University of Hong Kong, speaking
+  at a Japanese Philosophy Workshop at Edinburgh (per the host description).
+- Language: English.
+- Content coverage: the host's description states the talk explains absolute
+  critique in the second chapter of Tanabe's Philosophy as Metanoetics, as a
+  systematic development of Kant's Critique of Pure Reason and its transcendence
+  via trans-rational faith in Other-Power.
+- Relevant segment: whole talk, 49:25.
+- Verification status: verified-video.
+
+### M02-K07: Shantideva's Guide, Lesson 6, Patience (Ringu Tulku Rinpoche, The Buddhist Society)
+
+- Identity and access: oembed confirms the lesson on The Buddhist Society channel
+  (https://www.youtube.com/watch?v=BnyOzT1A-5E).
+- Duration: 1:13:07 (watch page, 2026-10-25).
+- Instructor credentials: H.E. Ringu Tulku Rinpoche, Tibetan Buddhist Master of the
+  Kagyu Order, trained under the 16th Karmapa and Dilgo Khyentse Rinpoche, formerly
+  Professor of Tibetology in Sikkim (per the host description).
+- Language: English.
+- Content coverage: the host's description identifies this as lesson 6 of a ten-
+  lesson online course on the Bodhicaryavatara, covering the patience chapter. The
+  classes were free and open to non-members.
+- Relevant segment: whole lesson, 1:13:07.
+- Verification status: verified-video.
+
 ## Block B status
 
 All 33 unique attached sources for deg-contemplative have now been verified: 15
