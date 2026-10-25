@@ -320,3 +320,25 @@ made under time pressure without reading the cards.
 ## Story-logline flag RESOLVED (2026-10-25 02:54Z, supervisor-pplx-1025e)
 
 The open flag ("story entries carry narrator commentary inside the loglines... story cards were not reopened") is resolved by card verification: ST167's card itself carries both flagged constructions — "for in giving they saw the other as the whole point" is the card's own sentence, and the Aristotle exchange comparison is the card's own editorial framing ("its logic is Aristotle's, exactly"), so the dossier's attribution ("the comparison is the card's, not O. Henry's") is accurate. ST367's "whoever returns the insult is eating together with the insulter" is likewise the card's own framing ("Whoever returns an insult, he adds, is 'eating together' with the insulter"). No edits needed; both loglines are faithful compressions with honest attribution. Dossier flipped to published by the supervisor.
+
+## GF-model restructuring revision (2026-10-25, worker-pplx-dos24-1025a, dos26 baton)
+
+Per the 2026-10-25 owner-validated orders and the supervisor review
+table row ("Not yet reworked... Rewrite in the model"), the main body
+was dissolved from the old numbered-gloss-list map format into connected
+interwoven prose:
+
+- "## The map: the entries on gratitude" replaced with "## Where
+  gratitude sits", and its five subsections given question-style
+  headings ("What is a benefit, and what does the receiver owe?",
+  "What the counting practice works on", "What the bond receives",
+  "What sufficiency has to do with it", "What is owed to what one
+  stands on").
+- Each subsection's numbered one-line gloss lists rewritten into
+  connected prose; every card link and every verified fact preserved
+  verbatim; no quotes changed.
+- Two dense paragraphs (4 card links each) split into shorter
+  paragraphs; the file now reports 0 dense paragraphs.
+
+dossier_check.py exit 0 (45 card links, 13 headers, 3 external
+carriers). dossier_density.py: 0 dense paragraphs.
