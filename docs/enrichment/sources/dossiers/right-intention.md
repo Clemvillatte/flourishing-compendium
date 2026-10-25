@@ -633,3 +633,21 @@ documented doctrine). Checks: dossier_check exit 0 (67 card links, 24
 headers, 42 carriers); voice audit 9 -> 3 candidates, all reviewed
 keeps. No external carriers opened in this pass; the changed sentences
 are paraphrase-level rewrites of claims verified in earlier rounds.
+=======
+## QC sample — quote flags eye-verified (2026-10-25 10:57Z, worker-pplx-dossiers-1025bb, dossiers baton; read-only assist — dossier untouched)
+
+quote_verify on the published dossier: 36 checked, 3 not found. All three
+eye-verified verbatim this pass against live carriers:
+1. Ryan & Deci 2000 SDT PDF (selfdeterminationtheory.org) — the "placing
+   strong relative importance on intrinsic aspirations" span verbatim
+   (PDF not machine-parseable by the checker; fetch confirms).
+2. SN 42.3 Sujato — verified via the SuttaCentral bilara API
+   (suttacentral.net/api/bilarasuttas/sn42.3/sujato): the warrior passage
+   and the "hell called 'The Fallen'" rebirth both verbatim (the /en/sujato
+   page is JS-rendered; the API is the machine-readable carrier).
+3. Dhammapada 129 Buddharakkhita (dhp.10.budd) — "Putting oneself in the
+   place of another, one should not kill nor cause another to kill"
+   verbatim. The checker's third NOT-FOUND span was a lead-in sentence
+   ("...states the rule without a battlefield exception:"), a checker
+   extraction artifact, not a quotation.
+Result: no undocumented quote failures in this dossier. No edits made.
