@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 192** — Life is freedom inserting itself into necessity
 
-Matter, for Bergson, is inertia, geometry, necessity. Consciousness is memory, anticipation, and choice. The two are antagonistic; life is what reconciles them. Life is precisely freedom inserting itself into necessity and turning it to its profit. Freedom does not abolish necessity — it works through it, like water finding a crack in rock.
+Bergson sets life against matter. Matter is "necessity itself", and consciousness is "freedom itself", yet consciousness "cannot pass through matter without settling on it" (Creative Evolution, ch. III, quoted below). The principle's wording, life as freedom inserting itself into necessity and turning it to its profit, is a paraphrase of that picture. The water-in-rock image is mine and not Bergson's.
 
 This is a metaphysical framing of agency, not a claim that every difficulty is freely chosen or freely redeemable.
 
@@ -24,9 +24,9 @@ The principle's phrasing paraphrases a passage Mitchell renders this way:
 
 The paradox is spelled out in the same chapter: the enterprise was "to create with matter, which is necessity itself, an instrument of freedom, to make a machine which should triumph over mechanism, and to use the determinism of nature to pass through the meshes of the net which this very determinism had spread". And consciousness, though "freedom itself", "cannot pass through matter without settling on it, without adapting itself to it" (ch. III).
 
-**Plain words** Take a constraint you did not choose: the piano's mechanism, a chronic condition, a rent payment. The mechanistic story says the outcome follows from the parts. Bergson's counter is that a living thing adds something the parts do not contain: a bit of play in the system, an option where the mechanism has a gap. That is what freedom looks like from inside — not an escape from the machine but a use of it that the machine did not dictate. So the question to ask of a necessity is not how to be rid of it but where the play in it is: the smallest place a choice still fits.
+**Plain words** Take a constraint you did not choose: the piano's mechanism, a chronic condition, a rent payment. The mechanistic story says the outcome follows from the parts. Bergson's counter is that a living thing adds something the parts do not contain: a bit of play in the system, an option where the mechanism has a gap. That is what freedom looks like from inside: not an escape from the machine but a use of it that the machine did not dictate. So the question to ask of a necessity is not how to be rid of it but where the play in it is: the smallest place a choice still fits.
 
-*For example:* The pianist bound by the piano's mechanism, the score's structure, the hand's anatomy — and somehow Chopin. Necessity everywhere; freedom running through every crack in it. That's the model: not escaping the rock, finding the fissure.
+*For example (my illustration, not Bergson's):* a pianist is bound by the piano's mechanism, the score's structure and the hand's anatomy, and still plays differently each time. The aim is to find the fissure in the rock and not to escape it.
 
 ## Sources
 

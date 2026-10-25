@@ -174,3 +174,6 @@
 
 ## M006 Nepantla
 - Opened chicano.ucla.edu/files/s7.pdf through the page reader (it returns 404 to plain command-line requests but opens normally in the reader, so earlier '404' flag for this URL is a false alarm). Durán/Olmos/Molina material and the convert's words verified. The Anzaldúa and Keating 2002 quote was reworded from a secondary journal article ('lacking boundaries'); replaced by the wording Villaseñor Black gives ('lacking clear boundaries'). Example labelled as illustration. The Heidelberg HeLix 'very awkward, uncomfortable' quote not re-opened.
+
+## P192 Bergson
+- Creative Evolution quotes (Mitchell, Gutenberg 26163) verified verbatim. Opening paragraph attributed to Bergson an unquoted 'inertia, geometry' claim and a 'precisely' phrasing; rewritten around verified phrases ('necessity itself', 'freedom itself', 'cannot pass through matter without settling on it'); water image and pianist example labelled mine. P193 (same author, 7 em-dashes) not checked.
