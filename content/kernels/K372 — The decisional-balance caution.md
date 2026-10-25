@@ -18,7 +18,14 @@ The source's distinction:
 
 The caution is narrow: don't use a decisional balance to *create* motivation for a change you already want. And note: the more a helper is personally invested in the outcome, the more carefully they should stay neutral rather than pushing one side.
 
-Adapted from Miller & Rollnick, *Motivational Interviewing* (4th ed.), ch. 6, p. 92 (Box 6.1); the helper-investment caution at p. 106.
+### Protocol
+
+Adapted from Miller & Rollnick, *Motivational Interviewing* (4th ed.), ch. 6, p. 92 (Box 6.1); the helper-investment caution at p. 106. The practice moves the Self and Motivation dimensions: which side of yourself you give airtime to, and what you do with the ambivalence.
+
+1. Name the situation: have you already chosen the direction, or are you genuinely undecided between two options?
+2. If already decided: explore the reasons-for, without suppressing real risks or uncertainty. Do not build a full four-square balance sheet for a decision already made.
+3. If genuinely undecided: build the full balance sheet, giving all four squares equal attention, so that whichever choice you make is one you can stand behind.
+4. If you are helping someone: check your own investment. The more you want a particular outcome, the more carefully you stay neutral.
 
 ## Operationalises
 
