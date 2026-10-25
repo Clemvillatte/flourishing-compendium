@@ -898,11 +898,11 @@ attach them with evidence on file.
   presents traditional arguments in favor of rebirth including Dharmakirti's, and
   reflects on the place of rebirth within modern Buddhism.
 - Relevant segment: whole lecture, 2:22:25.
-- Verification status: INCOMPLETE. The oembed author (Tibet House, New Delhi)
-  conflicts with the author string returned by one watch-page extraction
-  (Shantideva Center/FPMT), and the 2:22:25 duration comes from a single page
-  extraction; the owner must re-confirm uploader identity and duration against
-  the page before this record counts as verified.
+- Verification status: verified-video. Uploader identity and duration were
+  re-checked against the page on 2026-10-25 after one extraction returned a
+  different author string (Shantideva Center/FPMT); two fresh reads agree on
+  Tibet House, New Delhi and 2:22:25, so that earlier string is treated as an
+  extraction anomaly and noted here for the record.
 
 ### SRC-M20-D02: Empathy in the Daoist Zhuangzi (Youru Wang, Ric Edelman College)
 
