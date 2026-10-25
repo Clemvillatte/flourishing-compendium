@@ -121,3 +121,12 @@ reference, unique source ids in brackets):
   for strategist/owner: the anchors all include the pre-Socratics and the
   scope excludes them without a stated reason (scope doc, benchmark
   section).
+- 2026-10-25 worker-pplx-psychdim-1 (correction): the previous checkpoint
+  overstated video verification. The 8 OYC lectures and 3 talks are
+  candidates (identity, duration, dates and instructor credentials
+  checked; content classification from transcripts outstanding; the
+  Barrett talk is from 2017 and Wood from 2022, so they are not "current";
+  recency rests on the opened 2024-2026 papers). Talk dates and
+  credential URLs now recorded in the ledger. Matrix v3 otherwise current
+  with per-module entry competencies; scope compact matrix now carries
+  row-level citations.

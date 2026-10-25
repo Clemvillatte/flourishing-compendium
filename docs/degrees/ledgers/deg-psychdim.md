@@ -55,9 +55,9 @@ round; batch 3: Noba and recency round; batch 4: gap-family round).
 | https://nobaproject.com/modules/personality-traits | batch 3 | worker-pplx-psychdim-1 | Diener and Lucas, Personality Traits (Noba): trait consistency and stability, the lexical hypothesis and factor analysis, the Five-Factor Model and facets, Eysenck and HEXACO, the person-situation debate |
 | https://pmc.ncbi.nlm.nih.gov/articles/PMC9298910/ | batch 4 | worker-pplx-psychdim-1 | Branje, de Moor, Spitzer and Becht 2021, Journal of Research on Adolescence: identity development 2010 to 2020; dual-cycle models of exploration and commitment; identity domains (educational, vocational, relational, gender, ethnic, religious, illness); daily identity processes; narrative identity; links to adjustment |
 | https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf | batch 1 | worker-pplx-psychdim-1 | Ryan and Deci 2020, Contemporary Educational Psychology: intrinsic and extrinsic motivation from a self-determination theory perspective; autonomy, competence and relatedness; the four extrinsic regulations (external, introjected, identified, integrated) and amotivation |
-| https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/ | batch 6 | worker-pplx-psychdim-1 | Singh et al. 2024, Healthcare: meta-analysis of health-behaviour habit formation time (20 studies, 2601 participants); median 59 to 66 days (2 to 5 months); range 4 to 335 days across studies; findings reject the 21-day myth; smaller habits form faster than larger ones |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/ | batch 6 | worker-pplx-psychdim-1 | Singh et al. 2024, Healthcare: meta-analysis of health-behaviour habit formation time (20 studies, 2601 participants); median habit formation times of 59 to 66 days, which the paper's summary also expresses as two to five months; individual times ranged from 4 to 335 days across studies; findings reject the 21-day myth; smaller habits form faster than larger ones |
 | https://pmc.ncbi.nlm.nih.gov/articles/PMC9171140/ | batch 6 | worker-pplx-psychdim-1 | Alarcon-Espinoza, Grigera and Berra 2022, Frontiers in Psychology: systematic review of emotional self-regulation in everyday life; family influences, with a focus on children and adolescents |
-| https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/ | batches 3 and 7 | worker-pplx-psychdim-1 | Woolley, Giurge and Fishbach 2025, Psychological Science: across its studies, intrinsic motivation (enjoyment, positive experience, engagement) predicted stronger adherence than extrinsic motivation (usefulness, importance, future benefits); intrinsic motivation predicted New Year's resolution adherence in the United States over a year and in China over a month, predicted objectively measured walking steps over two weeks, and experimentally increasing intrinsic (versus extrinsic) motivation increased health-app use; participants rated their goals as more extrinsic than intrinsically motivating; extrinsic motivation was more strongly associated with choosing goals, intrinsic motivation with following through |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/ | batches 3 and 7 | worker-pplx-psychdim-1 | Woolley, Giurge and Fishbach 2025, Psychological Science: across its studies, intrinsic motivation (enjoyment, positive experience, engagement) predicted stronger adherence than extrinsic motivation (usefulness, importance, future benefits); intrinsic motivation predicted New Year's resolution adherence in the United States over a year and in China over a month, predicted objectively measured walking steps over two weeks, and experimentally increasing intrinsic (versus extrinsic) motivation increased health-app use; participants rated their goals as more extrinsic than intrinsically motivating; extrinsic motivation was more strongly associated with choosing goals, intrinsic motivation with following through; effect sizes and nulls were not extracted and must be read from the paper before any module makes claims based on them |
 | https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf | batch 1 | worker-pplx-psychdim-1 | Carden and Wood 2018, Current Opinion in Behavioral Sciences: habit formation and change; context cues and learned associations; habits versus effortful self-control; change strategies (implementation intentions, reminders, rewards); environment disruption and technology in habit research |
 | https://nobaproject.com/modules/conditioning-and-learning | batch 3 | worker-pplx-psychdim-1 | Bouton, Conditioning and Learning (Noba): classical and instrumental conditioning, prediction error, blocking, extinction, spontaneous recovery, renewal, reinforcement and punishment |
 | https://pmc.ncbi.nlm.nih.gov/articles/PMC6013521/ | batch 4 | worker-pplx-psychdim-1 | Dang 2018 (journal issue dated 2018), Psychological Research: updated meta-analysis of the ego depletion effect; 142 effect sizes; overall Hedges g of 0.38 (95 percent CI 0.31 to 0.45), 0.24 after trim-and-fill adjustment for publication bias, heterogeneity I squared of 60.67 percent; effects varied by task (emotion video g of 0.48; attention video not significant after adjustment); the author calls the restricted analysis tentative |
@@ -77,42 +77,50 @@ independent review). One candidate was rejected during the source strategy:
 |---|---|---|---|
 | springer s41465-022-00254-7 (Lodha and Gupta, mindfulness and attentional networks review) | rejected | the Springer page describes subscription content with purchase options, so it fails the owner's no-paywall ruling (2026-10-25); replaced in the strategy by PMC6430178, PMC10301152 and PMC4171985 | 2026-10-25 |
 
-### Verified lecture candidates (2026-10-25, batch 5)
+### Lecture candidates (2026-10-25, batch 5; identity, duration and instructor checked; content classification from transcripts outstanding)
 
-Yale Open Courses PSYC 110 lectures, verified per the skill's standard:
-existence via YouTube oembed, duration via the watch page (lecture 17 via
-the watch page's lengthSeconds field), instructor via the institutional
-OYC course page (Paul Bloom, Brooks and Suzanne Ragen Professor Emeritus
-of Psychology, Yale), free access, transcripts available on the OYC pages
-(lecture 11's page was opened and shows a transcript section). Content
-classification rests on the OYC course page's lecture descriptions and
-the available transcripts; segment-level assignment with start and end
-timestamps happens at module production.
+Yale Open Courses PSYC 110 lectures. What is checked so far: existence
+via YouTube oembed, duration via the watch page (lecture 17 via the watch
+page's lengthSeconds field), instructor via the institutional OYC course
+page (Paul Bloom, Brooks and Suzanne Ragen Professor Emeritus of
+Psychology, Yale), free access, and transcripts exist on the OYC pages
+(lecture 11's page was opened and shows a transcript section). What is
+outstanding: reading each transcript or recording to classify its content
+and assign segments. No lecture may be attached to a module outcome on the
+strength of its title; in particular, lecture 14 (What Motivates Us: Sex)
+cannot be assumed to teach self-determination theory without checking its
+content.
 
-| Lecture | YouTube id | Duration | Planned use |
+| Lecture | Links | Duration | Planned use |
 |---|---|---|---|
-| 1. Introduction | P3FKHH2RzjI | 29:37 | M1 orientation |
-| 11. Emotions, Part I | 8UySWKNjw5Y | 53:15 | M2 affective |
-| 12. Emotions, Part II | i5IrSEIPdwk | 56:06 | M2 affective |
-| 14. What Motivates Us: Sex | RCNgknc7Qv8 | 52:47 | M6 motivational |
-| 16. Self and Other, Part I | jsrB5m3mL-A | 58:15 | M5 self |
-| 17. Self and Other, Part II | S6OfFaBWtx4 | 64:53 | M5 self |
-| 7. Conscious of the Present; Conscious of the Past: Language | DmWrOUK2zgA | 59:43 | M3 cognitive |
-| 13. Why Are People Different?: Differences | piDznzrNymE | 65:49 | M5 self (personality) |
+| 1. Introduction | [watch](https://www.youtube.com/watch?v=P3FKHH2RzjI), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=P3FKHH2RzjI&format=json), [OYC page](https://oyc.yale.edu/psychology/psyc-110) | 29:37 | M1 orientation |
+| 11. Emotions, Part I | [watch](https://www.youtube.com/watch?v=8UySWKNjw5Y), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=8UySWKNjw5Y&format=json), [OYC page](https://oyc.yale.edu/psychology/psyc-110) | 53:15 | M2 affective |
+| 12. Emotions, Part II | [watch](https://www.youtube.com/watch?v=i5IrSEIPdwk), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=i5IrSEIPdwk&format=json), [OYC page](https://oyc.yale.edu/psychology/psyc-110) | 56:06 | M2 affective |
+| 14. What Motivates Us: Sex | [watch](https://www.youtube.com/watch?v=RCNgknc7Qv8), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=RCNgknc7Qv8&format=json), [OYC page](https://oyc.yale.edu/psychology/psyc-110) | 52:47 | M6 motivational |
+| 16. Self and Other, Part I | [watch](https://www.youtube.com/watch?v=jsrB5m3mL-A), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=jsrB5m3mL-A&format=json), [OYC page](https://oyc.yale.edu/psychology/psyc-110) | 58:15 | M5 self |
+| 17. Self and Other, Part II | [watch](https://www.youtube.com/watch?v=S6OfFaBWtx4), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=S6OfFaBWtx4&format=json), [OYC page](https://oyc.yale.edu/psychology/psyc-110) | 64:53 | M5 self |
+| 7. Conscious of the Present; Conscious of the Past: Language | [watch](https://www.youtube.com/watch?v=DmWrOUK2zgA), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=DmWrOUK2zgA&format=json), [OYC page](https://oyc.yale.edu/psychology/psyc-110) | 59:43 | M3 cognitive |
+| 13. Why Are People Different?: Differences | [watch](https://www.youtube.com/watch?v=piDznzrNymE), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=piDznzrNymE&format=json), [OYC page](https://oyc.yale.edu/psychology/psyc-110) | 65:49 | M5 self (personality) |
 
-### Verified state-of-the-art talks (2026-10-25, batch 8)
+### Talk candidates (2026-10-25, batch 8; identity, duration and instructor credential checked; content classification outstanding)
 
-Current talks found through the recency strategy, verified per the skill's
-standard: existence via YouTube oembed, duration via the watch page's
-lengthSeconds field, instructor credentials on opened institutional or
-biography pages. Content classification from the recording or transcript
-happens at module production before any module attaches them.
+Talks found through the recency strategy. What is checked so far: existence
+via YouTube oembed, duration via the watch page's lengthSeconds field,
+upload or publication date where the opened pages state one, and instructor
+credentials on opened institutional or biography pages. What is outstanding:
+classification from the recording or transcript, and segment assignment.
+They are candidates, not verified attachments, until that is done. Recency
+note: the Barrett talk was published in December 2017 (uploaded 2018-01-23
+per the YouTube watch page) and the Wood talk on 2022-05-26, so neither is
+"current"; the degree's recency for those strands rests on the opened 2025
+and 2024 papers instead. The Howard lecture's date was not stated on the
+opened event page.
 
-| Talk | YouTube id | Duration | Channel | Instructor credential (verified on) | Planned use |
+| Talk | Links | Duration | Upload or publication date | Instructor credential (verified on) | Planned use |
 |---|---|---|---|---|---|
-| You aren't at the mercy of your emotions: your brain creates them | 0gks6ceq4eQ | 18:29 | TED | Lisa Feldman Barrett, University Distinguished Professor of Psychology, Northeastern University (lisafeldmanbarrett.com/about) | M2 affective (constructed emotion) |
-| The secret habits that control your life | Ywec1MbeQDk | 6:18 | Big Think | Wendy Wood, Provost Professor Emerita of Psychology and Business, USC (dornsife.usc.edu/wendy-wood) | M7 overt behavioural (habits) |
-| Inaugural Lecture: Unravelling Early Self Regulation | 2ZS_f1cbrKk | 58:54 | Department of Education, University of Oxford | Steven Howard, Senior Academic Research Leader in Child Development and Education, Oxford (education.ox.ac.uk/person/professor-steven-howard) | M7 self-regulation strand |
+| You aren't at the mercy of your emotions: your brain creates them | [watch](https://www.youtube.com/watch?v=0gks6ceq4eQ), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=0gks6ceq4eQ&format=json), [TED page](https://www.ted.com/talks/lisa_feldman_barrett_you_aren_t_at_the_mercy_of_your_emotions_your_brain_creates_them), [credential](https://lisafeldmanbarrett.com/about/) | 18:29 | December 2017 (TED page); uploaded 2018-01-23 (watch page) | Lisa Feldman Barrett, University Distinguished Professor of Psychology, Northeastern University | M2 affective (constructed emotion); the TED page describes her explaining how we may have more control over our emotions than we think |
+| The secret habits that control your life | [watch](https://www.youtube.com/watch?v=Ywec1MbeQDk), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=Ywec1MbeQDk&format=json), [credential](https://dornsife.usc.edu/wendy-wood/) | 6:18 | 2022-05-26 (watch page) | Wendy Wood, Provost Professor Emerita of Psychology and Business, USC | M7 overt behavioural (habits) |
+| Inaugural Lecture: Unravelling Early Self Regulation | [watch](https://www.youtube.com/watch?v=2ZS_f1cbrKk), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=2ZS_f1cbrKk&format=json), [event page](https://www.education.ox.ac.uk/event/inaugural-lecture-unravelling-early-self-regulation-professor-steven-howard/), [credential](https://www.education.ox.ac.uk/person/professor-steven-howard/) | 58:54 | not stated on the opened pages | Steven Howard, Senior Academic Research Leader in Child Development and Education, Oxford | M7 self-regulation; the opened event page describes the lecture as discussing why early self-regulation interventions often have small effects, and a research program on the nature, development and mechanisms of self-regulation |
 
 ## Coverage matrix (v3, current; supersedes v1, v2 and v2.1)
 
@@ -133,26 +141,28 @@ blocking gaps on the register, not quiet omissions.
 | framework | Levels of analysis: biophysiological and sociocultural as context, idiographic multilevel assessment (essential: the EEMM is multilevel; see the context proposal in the scope doc) | [Hofmann and Hayes 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11303929/) | M1 | reading | identify levels of analysis in a case study | level-labelling exercise |
 | framework | Research literacy: falsifiability, design, NHST, Type I and II errors, replication, theories (essential: the owner's exit capability requires critical reading of current research) | [Smith, Thinking like a Psychological Scientist](https://nobaproject.com/modules/thinking-like-a-psychological-scientist) | M1 | reading plus worked appraisal | appraisal of one study | appraisal rubric |
 | affective | What emotions are and do: functions across intrapersonal, interpersonal and cultural levels (essential: the affective dimension's core content) | [Hwang and Matsumoto](https://nobaproject.com/modules/functions-of-emotions) | M2 | reading plus lecture | function-spotting in a personal episode | episode analysis rubric |
-| affective | Emotion generation versus regulation; strategy families and goals of regulation (essential: the state-of-the-art debate on regulation) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M2 | reading plus verified OYC lectures 11 and 12 | apply the process model to a personal episode | case analysis rubric |
+| affective | Emotion generation versus regulation; strategy families and goals of regulation (essential: the current debate the opened 2024 review maps) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M2 | reading plus verified OYC lectures 11 and 12 | apply the process model to a personal episode | case analysis rubric |
 | affective | Theories of emotion construction: allostasis, constructed emotion, the prediction debate (essential: how emotions arise is the dimension's foundational question) | [Barrett et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12164598/) | M2 | reading | compare constructionist and basic-emotion accounts | comparison essay |
 | affective | Difficulties in emotion regulation and regulatory flexibility (essential: links affect to adaptation) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M2 | reading | compare rigid versus flexible regulation in a case | written comparison |
 | affective | Affective neuroscience (elective: the degree aims at process knowledge at the psychological level; neural evidence is supporting depth, offered as an elective branch) | [Harmon-Jones and Harmon-Jones](https://nobaproject.com/modules/affective-neuroscience) | M2 | reading | map emotional systems to the dimension's processes | mapping exercise |
 | cognitive | Core cognitive families: conditioning and learning, memory, judgment and decision making (essential: the cognitive dimension's standard families per the Yale syllabus and OpenStax contents) | [Bouton](https://nobaproject.com/modules/conditioning-and-learning); [McDermott and Roediger](https://nobaproject.com/modules/memory-encoding-storage-retrieval); [Bazerman](https://nobaproject.com/modules/judgment-and-decision-making) | M3 | reading plus worked examples | apply each family to a personal example | application rubric |
-| cognitive | Rumination and repetitive negative thinking: features, transdiagnostic evidence (essential: the best-grounded state-of-the-art strand of the dimension) | [Ehring 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/) | M3 | reading | analyse an RNT episode against the defining features | rubric-checked analysis |
+| cognitive | Language (elective: psycholinguistics is a distinct field with its own curricula; the Yale syllabus covers it in one introductory class and the OYC lecture 7 candidate covers it at introductory level) | [Yale 2026 syllabus](https://summer.yale.edu/sites/default/files/uploaded-files/syllabi/2026/psyc-s1100.pdf) | M3 | optional OYC lecture 7 segment | optional | not assessed unless elected |
+| self | Self-esteem: definition and its distinction from self-concept clarity (essential: a core self-evaluation construct explicitly distinguished in the opened SCC review) | [Manchiraju 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/) | M5 | reading | distinction exercise between SCC and self-esteem | short written distinction |
+| cognitive | Rumination and repetitive negative thinking: features, transdiagnostic evidence (essential: a current transdiagnostic literature grounded in an opened World Psychiatry review) | [Ehring 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/) | M3 | reading | analyse an RNT episode against the defining features | rubric-checked analysis |
 | cognitive | Appraisal of experimental evidence: rumination induction studies (essential: trains the owner's critical-reading exit capability) | [Ehring 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/) | M3 | reading plus study appraisal | appraisal of a rumination induction study | appraisal rubric |
-| attentional | The three attention networks with anatomy and modulators (essential: the field's organising framework) | [Posner et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/); [Posner 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/) | M4 | reading plus lecture | network-to-symptom mapping exercise | mapping rubric |
+| attentional | The three attention networks with anatomy and modulators (essential: the three-network framework used by the opened attention reviews) | [Posner et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/); [Posner 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/) | M4 | reading plus lecture | network-to-symptom mapping exercise | mapping rubric |
 | attentional | Attention measurement (ANT), development, links to disorders and affect regulation (essential: connects the dimension to evidence and to affect) | [Posner et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/); [Posner 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/) | M4 | reading | interpret sample network scores | interpretation exercise |
 | attentional | Contemplative training as attentional evidence (essential: one attentional training paradigm among others; doctrine stays in the practica) | [Lippelt et al. 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/pdf/fpsyg-05-01083.pdf) | M4 | reading | compare practice types by attentional mechanism | comparison table |
-| self | Self-concept clarity: definition, measurement, development, evidence limits (essential: the best-reviewed structural account of the self) | [Manchiraju 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/) | M5 | reading | self-assessment with the SCCS framing and limits discussion | reflective write-up |
+| self | Self-concept clarity: definition, measurement, development, evidence limits (essential: a comprehensive recent review of a well-defined structural account of the self, selected as the self-dimension anchor) | [Manchiraju 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/) | M5 | reading | self-assessment with the SCCS framing and limits discussion | reflective write-up |
 | self | Identity development: exploration and commitment, identity domains, narrative identity (essential: how the self develops over time) | [Branje et al. 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC9298910/) | M5 | reading | chart an identity domain over time | domain-chart rubric |
 | self | Personality and traits: Five-Factor Model, person-situation debate (essential: stable individual differences in self and behaviour) | [Diener and Lucas](https://nobaproject.com/modules/personality-traits) | M5 | reading | trait-description exercise with the person-situation caveat | written trait account |
 | self | Self as an EEMM dimension; the FAP target (specification of the stimuli controlling the verbal response "I") as one FAP-specific application (essential: ties the dimension back to the framework) | [Maitland 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/) Table 1 | M5 | reading | apply the EEMM self dimension to one personal pattern | written synthesis |
-| motivational | Intrinsic and extrinsic motivation; the autonomy continuum and basic needs (essential: the field's dominant framework) | [Ryan and Deci 2020](https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf) | M6 | reading plus verified OYC lecture 14 | classify personal motivations on the continuum | classification with reasons |
+| motivational | Intrinsic and extrinsic motivation; the autonomy continuum and basic needs (essential: a comprehensive recent statement of the field's major motivation framework, selected as the motivational anchor) | [Ryan and Deci 2020](https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf) | M6 | reading plus verified OYC lecture 14 | classify personal motivations on the continuum | classification with reasons |
 | motivational | Goals of regulation and motivation: hedonic, instrumental, eudaimonic; control-value theory (essential: links motivation to affect) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M6 | reading | link emotion-regulation goals to motivational states in a case | written link analysis |
 | motivational | Goal pursuit and adherence: intrinsic versus extrinsic reasons (essential: the current state-of-the-art question on sticking with goals) | [Woolley et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/) | M6 | reading | design an adherence analysis for one own goal | analysis rubric |
 | overt behavioural | Habit formation and change: context cues, learned associations, habits versus self-control, change strategies (essential: the dimension's central evidence) | [Carden and Wood 2018](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf); [Singh et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/) | M7 | reading | habit diary with cue analysis | diary rubric |
 | overt behavioural | Conditioning and learning as the substrate of behaviour change (essential: the basic learning science behind change) | [Bouton](https://nobaproject.com/modules/conditioning-and-learning) | M7 | reading | identify conditioning processes in daily behaviour | identification exercise |
-| overt behavioural | Self-regulation and self-control: the ego depletion debate with effect sizes and replication status (essential: the field's most instructive replication case; effect sizes and nulls included per the binding rules) | [Dang 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6013521/) | M7 | reading | appraise the meta-analysis against the replication literature | appraisal rubric |
+| overt behavioural | Self-regulation and self-control: the ego depletion debate with effect sizes and replication status (essential: a well-documented contested literature that trains evidence appraisal; effect sizes and nulls included per the binding rules) | [Dang 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6013521/) | M7 | reading | appraise the meta-analysis against the replication literature | appraisal rubric |
 | overt behavioural | Overt behaviour in the EEMM; the FAP target (clinically relevant behaviour) as one FAP-specific application (essential: ties the dimension back to the framework) | [Maitland 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/) Table 1 | M7 | reading | functional analysis of one behaviour pattern | analysis rubric |
 | integrative | Apply all six dimensions to one real behavioural pattern, distinguishing mechanisms from outcomes (essential: the owner's capstone requirement) | all dimension sources | M8 | synthesis guidance | sustained self-analysis project | public rubric with self-assessment |
 
@@ -173,6 +183,23 @@ replication status), and adapt a framework to their own pattern with
 reasons. M8 exit (L4): can design, execute and self-assess an integrative
 capstone applying all six dimensions to one real behavioural pattern,
 distinguishing mechanisms from outcomes.
+
+Per-module entry competencies (each is the preceding module's exit,
+observable): M2 entry is the M1 exit (define the six dimensions and the
+change processes in their own words, appraise a simple study with a worked
+model, state the degree's scope). M3 entry is the M2 exit (apply the
+process model of emotion regulation to a new case, compare two accounts
+of emotion naming their disagreement). M4 entry is the M3 exit (apply
+conditioning, memory and judgment frameworks to a new case, analyse an
+RNT episode against its defining features). M5 entry is the M4 exit (map
+symptoms to attention networks, interpret network scores, compare two
+attentional training mechanisms). M6 entry is the M5 exit (assess
+self-concept clarity with its limits, chart an identity domain, write a
+trait account with the person-situation caveat). M7 entry is the M6 exit
+(classify motivations on the autonomy continuum, analyse a goal's
+adherence with intrinsic and extrinsic reasons). M8 entry is the M7 exit
+(keep a habit diary with cue analysis, appraise the ego depletion
+meta-analysis, run a functional analysis of one behaviour pattern).
 
 ## Exclusion review (proposed, for independent challenge at the coverage gate)
 
@@ -197,15 +224,19 @@ distinguishing mechanisms from outcomes.
 
 ## Gap register (blocking or open)
 
-- Verified video lectures: eight Yale OYC PSYC 110 lectures and three
-  current state-of-the-art talks verified to the standard (see the two
-  sections above) and available for module attachment; segment-level
-  assignment with timestamps and classification from transcripts happens
-  at module production.
-- Self-regulation beyond the ego depletion debate: Dang 2018 grounds the
-  debate and Alarcon-Espinoza et al. 2022 ground everyday emotional
-  self-regulation (children and adolescents focus); a broader adult
-  self-regulation review is still open if module production needs one.
+- Video resources: eight Yale OYC lectures and three talks are candidates
+  with identity, duration, dates and instructor credentials checked (see
+  the two sections above); content classification from transcripts or
+  recordings and segment assignment are outstanding, so none is a verified
+  attachment yet. One candidate recording should be verified end to end
+  (transcript read, content classified, segments assigned) as the pattern
+  for the rest at module production.
+- Self-regulation breadth: Dang 2018 grounds the ego depletion debate and
+  Alarcon-Espinoza et al. 2022 ground everyday emotional self-regulation
+  (children and adolescents focus). A broader adult-focused
+  self-regulation review is an open gap on the M7 row, to be resolved
+  before the pedagogical gate; if unresolved it is a blocking gap, not an
+  optional extra.
 - SDT (2020) remains the field's core synthesis and stays; the habits
   anchor is refreshed with Singh et al. 2024. Ryan and Deci 2020 predates
   2021, so a newer SDT review or talk is still welcome at production.
