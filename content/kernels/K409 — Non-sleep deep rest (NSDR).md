@@ -10,7 +10,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K409** — Non-sleep deep rest (NSDR)
 
-Non-sleep deep rest is an umbrella term coined by Stanford neuroscientist Andrew Huberman for guided practices that take the brain and body into a state of deep relaxation while you stay awake. The form examined in the studies below is yoga nidra, an ancient Indian practice of guided rest. Huberman presents it as deliberate restoration: a way to restore mental and physical energy without sleeping. You can use it as a midday recharge, as recovery after a poor night, or as a way to drift back to sleep when you wake in the night.
+Non-sleep deep rest is an umbrella term coined by Dr. Andrew Huberman for guided practices that take the brain and body into a state of deep relaxation while you stay awake. The form examined in the studies below is yoga nidra, a practice of guided rest. Huberman presents it as deliberate restoration: a way to restore mental and physical energy without sleeping. You can use it as a midday recharge, as recovery after a poor night, or as a way to drift back to sleep when you wake in the night.
 
 ### Protocol
 
