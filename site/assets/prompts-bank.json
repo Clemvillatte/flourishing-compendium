@@ -681,6 +681,636 @@
       ],
       "dossier": "others",
       "sensitive": false
+    },
+    {
+      "id": "S0031",
+      "family": "decision",
+      "text": "What is the fitting amount of honesty for the person in front of you?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A005",
+          "title": "Choose the mean, not the extreme",
+          "why": "Aristotle says the middle shifts with the situation and the person — name the fitting amount for this room."
+        },
+        {
+          "kind": "principle",
+          "ref": "A019",
+          "title": "Practice truthfulness (aletheia)",
+          "why": "Truthfulness calls things by their own name; the mean asks what fits here."
+        }
+      ],
+      "dossier": "decision-making",
+      "sensitive": false
+    },
+    {
+      "id": "S0032",
+      "family": "others",
+      "text": "Who did you give to, and was it the right amount at the right time?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A013",
+          "title": "Practice generosity (eleutheriotes)",
+          "why": "Aristotle's liberal person gives to the right people, the right amount, at the right time."
+        },
+        {
+          "kind": "principle",
+          "ref": "A024",
+          "title": "Practice liberality with your resources",
+          "why": "Liberality measures against your means, not the gift's size."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0033",
+      "family": "suffering",
+      "text": "When have you borne misfortune with patience instead of insensibility?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A028",
+          "title": "Practice resilience in adversity",
+          "why": "Aristotle distinguishes patient endurance from not feeling it at all."
+        },
+        {
+          "kind": "principle",
+          "ref": "A010",
+          "title": "Recognise that fortune can overturn happiness",
+          "why": "Fortune can wreck circumstances; character decides how you carry them."
+        }
+      ],
+      "dossier": "affect",
+      "sensitive": false
+    },
+    {
+      "id": "S0034",
+      "family": "decision",
+      "text": "What did you deliberate too long about — and what too little?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A032",
+          "title": "Cultivate good deliberation (euboulia)",
+          "why": "Euboulia is aim, means, and timing together — write the one you got wrong."
+        },
+        {
+          "kind": "principle",
+          "ref": "A045",
+          "title": "Deliberate well",
+          "why": "Aristotle says you deliberate about means, never ends; check which you were turning over."
+        }
+      ],
+      "dossier": "decision-making",
+      "sensitive": false
+    },
+    {
+      "id": "S0035",
+      "family": "wisdom",
+      "text": "What do you know well enough to repeat but not well enough to explain?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A034",
+          "title": "Cultivate scientific knowledge (episteme)",
+          "why": "Episteme is knowing how a conclusion follows, not just repeating it."
+        },
+        {
+          "kind": "principle",
+          "ref": "A019",
+          "title": "Practice truthfulness (aletheia)",
+          "why": "Truthfulness includes saying what you can actually justify."
+        }
+      ],
+      "dossier": "wisdom",
+      "sensitive": false
+    },
+    {
+      "id": "S0036",
+      "family": "others",
+      "text": "When did a rule fit badly and you made the exception anyway?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A038",
+          "title": "Cultivate practical judgment (gnome)",
+          "why": "Gnome is judging what's equitable when the rule is written for the average case."
+        },
+        {
+          "kind": "principle",
+          "ref": "A105",
+          "title": "Recognise the limits of law",
+          "why": "Aristotle asks what the legislator would have added, had this case been considered."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0037",
+      "family": "identity",
+      "text": "What quality of yours was formed by repetition — and can you name the first rep?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A042",
+          "title": "Recognise that virtue is a hexis, not a feeling",
+          "why": "Virtue is a formed disposition, built by repeated acts."
+        },
+        {
+          "kind": "principle",
+          "ref": "A055",
+          "title": "Understand that you are responsible for your character",
+          "why": "Character is partly caused by your own repeated choices."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0038",
+      "family": "decision",
+      "text": "What are you rehearsing as a grievance that you should be working as a means?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A045",
+          "title": "Deliberate well",
+          "why": "Deliberation is a search for means, not a rehearsal of grievances."
+        },
+        {
+          "kind": "principle",
+          "ref": "A041",
+          "title": "Know that virtue aims at the beautiful (to kalon)",
+          "why": "Aristotle's check is to strip the audience and the reward out of a choice and see what reason is left standing."
+        }
+      ],
+      "dossier": "decision-making",
+      "sensitive": false
+    },
+    {
+      "id": "S0039",
+      "family": "attention",
+      "text": "What did you notice in the room that no one said aloud?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A050",
+          "title": "Practise perceptiveness (aisthesis)",
+          "why": "Aisthesis is the trained eye for what matters in a situation."
+        },
+        {
+          "kind": "principle",
+          "ref": "A018",
+          "title": "Practice friendliness (philia)",
+          "why": "Friendliness is partly noticing who isn't being included."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0040",
+      "family": "identity",
+      "text": "What are you punishing yourself for that was outside your control — and excusing that you chose?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A060",
+          "title": "Forgive but do not excuse",
+          "why": "Aristotle asks where the moving principle of an act sits."
+        },
+        {
+          "kind": "principle",
+          "ref": "A021",
+          "title": "Practice shame (aidos)",
+          "why": "Aidos is for what you chose, not what happened to you."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0041",
+      "family": "others",
+      "text": "Do you want your friend's good, or what they give you?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A065",
+          "title": "Wish good for your friend for their own sake",
+          "why": "Aristotle makes wanting the other's good the test of true friendship."
+        },
+        {
+          "kind": "principle",
+          "ref": "A018",
+          "title": "Practice friendliness (philia)",
+          "why": "Friendliness is a middle disposition between pleasing everyone and objecting to everything."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0042",
+      "family": "others",
+      "text": "What are you still listing as a debt that you should have let stay a gift?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A070",
+          "title": "Understand the asymmetry of benefaction",
+          "why": "The giver is usually more attached than the receiver — that's the mechanism, not a betrayal."
+        },
+        {
+          "kind": "principle",
+          "ref": "A013",
+          "title": "Practice generosity (eleutheriotes)",
+          "why": "Generosity gives for the nobility of giving, not as a loan."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0043",
+      "family": "time",
+      "text": "Which friendship ended because its floor went — and is it a failure or a season?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A075",
+          "title": "Recognise that friendships change over time",
+          "why": "Most friendships have a floor: the project, the neighborhood, the life stage."
+        },
+        {
+          "kind": "principle",
+          "ref": "A065",
+          "title": "Wish good for your friend for their own sake",
+          "why": "Friendships built on who you are, not what you exchange, last longer."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0044",
+      "family": "meaning",
+      "text": "What do you do for its own sake — and does the pleasure sit inside it or after it?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A080",
+          "title": "Choose activities for their completeness",
+          "why": "Aristotle says pleasure completes an activity like the bloom of youth, not a prize after."
+        },
+        {
+          "kind": "principle",
+          "ref": "A001",
+          "title": "Make eudaimonia the organising end of your life",
+          "why": "Eudaimonia is activity over a life, not a feeling to be chased."
+        }
+      ],
+      "dossier": "happiness",
+      "sensitive": false
+    },
+    {
+      "id": "S0045",
+      "family": "desire",
+      "text": "Which pleasure do you arrange your week around — and is it enjoyed to excess?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A085",
+          "title": "Practise moderation in pleasure",
+          "why": "Aristotle says excess marks the bad man; the temperate feel moderate pain when pleasant things are absent."
+        },
+        {
+          "kind": "principle",
+          "ref": "A012",
+          "title": "Practice temperance (sophrosyne)",
+          "why": "Temperance is appetite's order, not appetite's absence."
+        }
+      ],
+      "dossier": "motivation",
+      "sensitive": false
+    },
+    {
+      "id": "S0046",
+      "family": "wisdom",
+      "text": "Are you living the second-best life — and is that okay?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A090",
+          "title": "Recognise that the theoretical life is not for everyone",
+          "why": "Aristotle calls the second life still happy, its acts typically human."
+        },
+        {
+          "kind": "principle",
+          "ref": "A001",
+          "title": "Make eudaimonia the organising end of your life",
+          "why": "Eudaimonia is available in more than one form of life."
+        }
+      ],
+      "dossier": "genuine-flourishing",
+      "sensitive": false
+    },
+    {
+      "id": "S0047",
+      "family": "silence",
+      "text": "What could you build a capacity for that would make you harder to disturb?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A095",
+          "title": "Practise self-sufficiency (autarkeia)",
+          "why": "Aristotle says thinking and study depend least on others and on money."
+        },
+        {
+          "kind": "kernel",
+          "ref": "K112",
+          "title": "Scheduled empty time",
+          "why": "Empty time is a slot you defend and fill with what you can do alone."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0048",
+      "family": "others",
+      "text": "What is a fitting return for something that was given to you?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A100",
+          "title": "Practise reciprocity (antapodosis)",
+          "why": "A return is matched to what was given, not like-for-like."
+        },
+        {
+          "kind": "principle",
+          "ref": "A013",
+          "title": "Practice generosity (eleutheriotes)",
+          "why": "Generosity and reciprocity are both about proportion, not accounting."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0049",
+      "family": "others",
+      "text": "What is one rule that misfits a situation you know — and what would the legislator add?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A105",
+          "title": "Recognise the limits of law",
+          "why": "Aristotle corrects the omission by asking what the law would have said."
+        },
+        {
+          "kind": "principle",
+          "ref": "A038",
+          "title": "Cultivate practical judgment (gnome)",
+          "why": "Gnome takes the particulars seriously when the rule is for the average."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0050",
+      "family": "meaning",
+      "text": "What does a work of art invite you to enjoy, admire, or dislike — and how do you judge that?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A110",
+          "title": "Use music and the arts for moral education",
+          "why": "Aristotle ties art to character formation through what it invites you to feel."
+        },
+        {
+          "kind": "principle",
+          "ref": "A019",
+          "title": "Practice truthfulness (aletheia)",
+          "why": "Truthfulness extends to your own responses — what you actually felt."
+        }
+      ],
+      "dossier": "happiness",
+      "sensitive": false
+    },
+    {
+      "id": "S0051",
+      "family": "suffering",
+      "text": "What is the difference between feeling pain and being destroyed by it?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A028",
+          "title": "Practice resilience in adversity",
+          "why": "Aristotle holds that virtue means acting nobly within the circumstances fortune leaves."
+        },
+        {
+          "kind": "principle",
+          "ref": "S115",
+          "title": "Handle anxiety by returning to the present",
+          "why": "Marcus says be troubled and return — the returning is the whole work."
+        }
+      ],
+      "dossier": "affect",
+      "sensitive": false
+    },
+    {
+      "id": "S0052",
+      "family": "decision",
+      "text": "What is the end you've settled — and are you still deliberating about it?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A045",
+          "title": "Deliberate well",
+          "why": "The doctor asks how to heal, never whether to."
+        },
+        {
+          "kind": "principle",
+          "ref": "B022",
+          "title": "Set right intention",
+          "why": "Intention is the aim behind the act; if you're still weighing the aim, you haven't started."
+        }
+      ],
+      "dossier": "goals",
+      "sensitive": false
+    },
+    {
+      "id": "S0053",
+      "family": "attention",
+      "text": "What is the trained eye you've built — and where did you get it?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A050",
+          "title": "Practise perceptiveness (aisthesis)",
+          "why": "Aristotle says experience gives elders an eye for things."
+        },
+        {
+          "kind": "principle",
+          "ref": "A038",
+          "title": "Cultivate practical judgment (gnome)",
+          "why": "Gnome comes with age and use — it is not learned from a book."
+        }
+      ],
+      "dossier": "wisdom",
+      "sensitive": false
+    },
+    {
+      "id": "S0054",
+      "family": "identity",
+      "text": "What disposition have you repeated into being — and would you choose it again?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A055",
+          "title": "Understand that you are responsible for your character",
+          "why": "Character is partly caused by your own repeated acts."
+        },
+        {
+          "kind": "principle",
+          "ref": "A042",
+          "title": "Recognise that virtue is a hexis, not a feeling",
+          "why": "A hexis is a formed state, not a mood that shows up on a good day."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0055",
+      "family": "courage",
+      "text": "What would patience look like in your current difficulty — not insensibility, patience?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A028",
+          "title": "Practice resilience in adversity",
+          "why": "Aristotle quotes the line about nobility shining through in adversity."
+        },
+        {
+          "kind": "principle",
+          "ref": "A011",
+          "title": "Practice courage (andreia)",
+          "why": "Courage is fear doing its job without running the show."
+        }
+      ],
+      "dossier": "agency",
+      "sensitive": false
+    },
+    {
+      "id": "S0056",
+      "family": "others",
+      "text": "Who is the friend you'd be glad for, even if their good took them away?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A065",
+          "title": "Wish good for your friend for their own sake",
+          "why": "The test is wanting their good even when it costs you something."
+        },
+        {
+          "kind": "principle",
+          "ref": "A075",
+          "title": "Recognise that friendships change over time",
+          "why": "Some friendships end because the floor went — that's mechanism, not betrayal."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0057",
+      "family": "meaning",
+      "text": "What activity would you do even if no one were watching — and what does that say about the rest of your week?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A080",
+          "title": "Choose activities for their completeness",
+          "why": "Aristotle's test is whether there's an answer beyond the doing."
+        },
+        {
+          "kind": "principle",
+          "ref": "A095",
+          "title": "Practise self-sufficiency (autarkeia)",
+          "why": "Self-sufficiency is building capacities that depend on less."
+        }
+      ],
+      "dossier": "happiness",
+      "sensitive": false
+    },
+    {
+      "id": "S0058",
+      "family": "desire",
+      "text": "What is the pleasure you can't enjoy in moderation — and what does that cost?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A085",
+          "title": "Practise moderation in pleasure",
+          "why": "Aristotle says excess marks the bad man, not the pleasure itself."
+        },
+        {
+          "kind": "principle",
+          "ref": "A012",
+          "title": "Practice temperance (sophrosyne)",
+          "why": "Temperance is about appetite's order; disorder is what it corrects."
+        }
+      ],
+      "dossier": "motivation",
+      "sensitive": false
+    },
+    {
+      "id": "S0059",
+      "family": "time",
+      "text": "What is the choice you keep repeating — and what is it forming?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A042",
+          "title": "Recognise that virtue is a hexis, not a feeling",
+          "why": "Virtue results from repeated acts; the repetition is the formation."
+        },
+        {
+          "kind": "principle",
+          "ref": "A055",
+          "title": "Understand that you are responsible for your character",
+          "why": "You acquire a quality by constantly acting in a particular way."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0060",
+      "family": "wisdom",
+      "text": "What is something an elder told you that you dismissed — and how do you see it now?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "A050",
+          "title": "Practise perceptiveness (aisthesis)",
+          "why": "Aristotle says experience gives the eye; elders see aright."
+        },
+        {
+          "kind": "principle",
+          "ref": "A038",
+          "title": "Cultivate practical judgment (gnome)",
+          "why": "Gnome is judging what's equitable in the particular case."
+        }
+      ],
+      "dossier": "wisdom",
+      "sensitive": false
     }
   ]
 }
