@@ -7,7 +7,7 @@ file: "The counter-affect"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The counter-affect is the practice my seed names with the Sanskrit term pratipakṣā-bhāvanā, cultivating the opposite. The early discourses give the method in their own terms: when an unskillful state of mind takes hold, attention is directed toward a theme or quality that counters it.
+The counter-affect is the practice named in Sanskrit pratipakṣā-bhāvanā, cultivating the opposite. The early discourses give the method in their own terms: when an unskillful state of mind takes hold, attention is directed toward a theme or quality that counters it.
 
 The discourse on the relaxation of thoughts states the method:
 
