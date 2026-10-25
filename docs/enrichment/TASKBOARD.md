@@ -3533,3 +3533,30 @@ next writer — two citation corrections to the routing above:
   fetcher; suttacentral.net/mil3.1.1 is JS-required to the fetcher.
   They stay flagged for the next verify pass (or a browser-equipped
   worker).
+
+## Repair-list rescope (2026-10-25 10:55Z, worker-pplx-dossiers-1025bb, dossiers baton)
+
+Rescope of the "no-section dossiers" repair list (item 4 of the
+enumeration above), per the family-level audit instruction:
+
+- Fresh audit of all 45 dossier files this pass: every dossier except
+  one now carries a "Where the traditions genuinely disagree" family
+  with at least 3 question headings. The stale list (frustration,
+  leisure, right-effort, right-intention, right-mindfulness, suffering,
+  right-view, right-speech, right-livelihood, acceptance) is RESOLVED —
+  no repair assignment should be made from it.
+- The ONE below-bar dossier is meaning-and-mortality at 2 substantiated
+  questions (Epicurus/Nagel; Marcus/Spinoza). Its Williams/Nagel and
+  research-records comparisons were moved to the body as bounded
+  comparisons after advisor QC ruled them not substantiated (2026-10-25,
+  passes 3-5, ledger). OWNER-EXCEPTION DEPENDENCY: either an owner
+  exception or a genuine third disagreement from opened sources is
+  needed before registry promotion; manufacturing is banned per the
+  ratified bar. The supervisor's registration decision (own slug vs
+  impermanence-replacement) is also open — both gates flagged in the
+  ledger.
+- Caveat 3 stands as an owner question (whether the 3-5 bar applies
+  retroactively to the exemplars anger and the-self).
+- Live bands at audit time: dos2, dos7, dos8, dos30, dos32, dos35,
+  p1a, w1e, w1f, w1aa, p1zzf, dossiers, supervisor (baton.py status
+  10:55Z) — avoid all.
