@@ -60,18 +60,6 @@ The smallest start is [K185 — The two-minute rule](https://clemvillatte.github
 
 [K188 — Friction audit](https://clemvillatte.github.io/flourishing-compendium/#card=K188%20%E2%80%94%20Friction%20audit) is the chain walk: time each step from intention to action, remove the costliest, add friction to the unwanted chain, and re-run. The if-then plan is [K153 — Implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=K153%20%E2%80%94%20Implementation%20intentions), written once for one foreseeable moment, and its principle form [MO025 — Learn to use implementation intentions — if-then plans](https://clemvillatte.github.io/flourishing-compendium/#card=MO025%20%E2%80%94%20Learn%20to%20use%20implementation%20intentions%20%E2%80%94%20if-then%20plans) carries the meta-analysis of 94 independent tests, medium-to-large, d = 0.65, on goal attainment, with the component processes the review reports support for.
 
-## Where the two reviews stand
-
-Both opened reviews call procrastination a failure of self-regulation, and both say so in their abstracts:
-
-> "Procrastination is a prevalent and pernicious form of self-regulatory failure that is not entirely understood." (Steel, "The Nature of Procrastination", Psychological Bulletin 133(1), 2007, [abstract](https://pubmed.ncbi.nlm.nih.gov/17201571/))
-
-> "In this paper, we argue that as a form of self-regulation failure, procrastination has a great deal to do with short-term mood repair and emotion regulation." (Sirois and Pychyl 2013, author manuscript, [White Rose eprints PDF](https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf))
-
-Steel's meta-analysis of 691 correlations found the strong and consistent predictors to be task aversiveness, task delay, self-efficacy and impulsiveness, with the conscientiousness facets behind them, and the effects, the abstract says, prove consistent with temporal motivation theory. Sirois and Pychyl emphasize short-term mood repair within that same self-regulation failure.
-
-The two accounts need not compete. A devalued future and an aversive present can be one mechanism seen from two ends, and the mood-repair review itself does not claim to be the whole story. I would ask which intervention to try first: changing what makes starting unpleasant, or changing the timing and attractiveness of the outcome.
-
 ## Where the traditions genuinely disagree
 
 ### Can we act against our better judgment?
@@ -91,6 +79,32 @@ Aristotle objects that the denial cannot be squared with conduct anyone can watc
 His conclusion, however, grants Socrates a qualified victory: the position Socrates sought to establish actually seems to result, because incontinence does not arise in the presence of what is thought to be knowledge proper, but of perceptual knowledge ([Nicomachean Ethics VII.3, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). The disagreement concerns what kind of knowing is present when judgment and action part.
 
 I connect that dispute to postponing an intended action. Akrasia is broader than procrastination, and neither modern review settles this philosophical question.
+
+### Is delay always a loss, or can it be a method?
+
+The shared question: if a person knowingly puts a task off, does the delay cost them, or can it work in their favour? Tice and Baumeister followed students across a semester and reported a trade between early ease and later cost:
+
+> "Procrastinators reported lower stress and less illness than nonprocrastinators early in the semester, but they reported higher stress and more illness late in the term, and overall they were sicker. Procrastinators also received lower grades on all assignments." ([Tice and Baumeister, Psychological Science 1997, abstract](https://www.psychologicalscience.org/journals/psychological-science/j.1467-9280.1997.tb00460.x/))
+
+Their abstract concludes that procrastination "appears to be a self-defeating behavior pattern marked by short-term benefits and long-term costs." Chu and Choi proposed a different kind of delayer, one who chooses the delay:
+
+> "Active procrastinators are a 'positive' type of procrastinator. They prefer to work under pressure, and they make deliberate decisions to procrastinate." ([Chu and Choi, Journal of Social Psychology 2005, abstract](https://pubmed.ncbi.nlm.nih.gov/15959999/))
+
+Their results, in the abstract's words, were that "although active procrastinators procrastinate to the same degree as passive procrastinators, they are more similar to nonprocrastinators than to passive procrastinators in terms of purposive use of time, control of time, self-efficacy belief, coping styles, and outcomes including academic performance."
+
+The two papers can both be right if they sample different people. Tice and Baumeister's students were measured with a trait scale and graded on a set assignment, and Chu and Choi sorted people by whether the delay was deliberate. That leaves open a question I cannot answer from these sources: whether "active procrastination" names a separate behaviour or just describes planning that happens to look like delay. My lean, which is mine, is that the word should require the person to expect to be worse off for the delay, in which case the active group is not procrastinating. I did not check the later work that tests the active-procrastination scale, I read the abstracts, not the full papers, and the studies use student samples.
+
+### Is the delay mainly about timing or about mood?
+
+The shared question: what is going wrong when someone postpones what they meant to do? Both opened reviews call procrastination a failure of self-regulation, and both say so in their abstracts:
+
+> "Procrastination is a prevalent and pernicious form of self-regulatory failure that is not entirely understood." (Steel, "The Nature of Procrastination", Psychological Bulletin 133(1), 2007, [abstract](https://pubmed.ncbi.nlm.nih.gov/17201571/))
+
+> "In this paper, we argue that as a form of self-regulation failure, procrastination has a great deal to do with short-term mood repair and emotion regulation." (Sirois and Pychyl 2013, author manuscript, [White Rose eprints PDF](https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf))
+
+Steel's meta-analysis of 691 correlations found the strong and consistent predictors to be task aversiveness, task delay, self-efficacy and impulsiveness, with the conscientiousness facets behind them, and the effects, the abstract says, prove consistent with temporal motivation theory. Sirois and Pychyl emphasize short-term mood repair within that same self-regulation failure.
+
+The two accounts need not compete. A devalued future and an aversive present can be one mechanism seen from two ends, and the mood-repair review itself does not claim to be the whole story. I would ask which intervention to try first: changing what makes starting unpleasant, or changing the timing and attractiveness of the outcome.
 
 ## Practice: variation, selection, retention
 

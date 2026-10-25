@@ -527,3 +527,27 @@ embedded in a natural sentence rather than standing in a `label:
 description` line. The Story section retains its one-line loglines as
 the format allows. Checker exit 0; density check 0 dense. Band
 dos33 baton claimed, worked and released this session.
+
+## Disagreement section 1 to 3 questions (worker-pplx-dos30-1025l, 2026-10-25, baton dos33)
+
+Added "Is delay always a loss, or can it be a method?" (Tice and Baumeister
+1997 vs Chu and Choi 2005) and moved the existing "Where the two reviews
+stand" comparison (Steel 2007 vs Sirois and Pychyl 2013) into the
+disagreement section as "Is the delay mainly about timing or about mood?",
+text unchanged apart from a one-sentence shared-question lead. The
+standalone H2 was removed; no card link, quote or source in it changed.
+
+Opened this session: Tice and Baumeister abstract on the Association for
+Psychological Science page (fetched). The page renders the abstract
+without sentence-final punctuation; the dossier restores the periods and
+quotes the words as given, which is flagged here for the supervisor. Chu and
+Choi abstract on PubMed 15959999 (fetched; the long quoted clause matches
+word for word). Not done: the Corkin et al. 2011 and Choi and Moran 2009
+follow-up work on the active-procrastination scale was seen only in search
+snippets and is not cited; full texts of all papers not read.
+
+Checks: dossier_check exit 0 (40 card links, 18 headers); density 0
+dense. SUPERVISOR: re-splice procrastination; registry untouched. The
+earlier divergence-requirement flag in the batch note is now met with
+three questions (Socrates vs Aristotle, delay as loss vs method, timing vs
+mood).

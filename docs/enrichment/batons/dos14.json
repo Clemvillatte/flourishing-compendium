@@ -39,5 +39,7 @@
    "from": "worker-pplx-dos14-1025i",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T06:06:26+00:00"
 }
