@@ -773,7 +773,22 @@ attach them with evidence on file.
   on environmental ethics and eco-theology, and Segall's work on imagination in
   Schelling and Whitehead.
 - Relevant segment: whole episode, 58:25.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 15:01:47Z save): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=FmYOx-WxsOQ&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the episode's substance: the Center for Process
+  Studies' 50th-anniversary conference; why Whitehead's work has faced
+  barriers to wider academic attention; emerging research applying
+  process thought across ecology, science and religion; the future and
+  increasing international reach of Whitehead studies; Segall's book
+  Crossing the Threshold: Etheric Imagination in the Post-Kantian
+  Process Philosophy of Schelling and Whitehead (Yale Forum on Religion
+  and Ecology). The coverage basis is upgraded from description-only to
+  third-party transcript; status upgraded verified-partial to
+  verified-video per the house convention, with the no-timestamps and
+  no-playback caveats carried.
 
 ### M01-P13: O Pragmatismo de John Dewey (Cassiano Terra Rodrigues and Larry Hickman, UNIVESP)
 
@@ -829,7 +844,23 @@ attach them with evidence on file.
   James in particular, and the continuing influence of Bergson's concepts of
   temporality, life, difference and novelty.
 - Relevant segment: whole roundtable, 1:21:27.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 15:01:47Z save): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=NV41n96bRM4&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the roundtable's substance: Bergson's 1913
+  Columbia visit, the arrangements for his lectures and their reception
+  in the press; how ideas presented there later appeared in his work on
+  knowledge, ethics and politics; Bergson's relationship with William
+  James and John Dewey (Columbia Maison Française). PARTIAL-SPEAKER
+  NOTE: the retrieved text names Larry McGrath and Manzel Maness and
+  introduces another speaker as Frederic without clearly preserving his
+  surname; the full participant list still rests on the host page. The
+  coverage basis is upgraded from description-only to third-party
+  transcript; status upgraded verified-partial to verified-video per
+  the house convention, with the no-timestamps and no-playback caveats
+  carried.
 
 ### M01-P17: How French Philosopher Henri Bergson Helped 20th-century Biologists Get Creative About Evolution (Emily Herring, Linda Hall Library)
 
@@ -843,7 +874,21 @@ attach them with evidence on file.
   of Bergson among the biologists of his time and the relationship between science
   and philosophy, in 20th-century biology and in the present state of the humanities.
 - Relevant segment: whole talk, 1:00:02.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 15:01:47Z save): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=FNrJbhY55yE&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the talk's substance: how Bergson's philosophy
+  influenced the biologists Julian Huxley, Edward Stuart Russell and
+  Arthur Darbishire; Bergson's life and ideas about duration, the
+  limits of human intelligence, the historical character of organisms
+  and creative evolution; how the three biologists incorporated those
+  ideas; the relationship between science and philosophy, with a
+  question-and-answer session (The Linda Hall Library). The coverage
+  basis is upgraded from description-only to third-party transcript;
+  status upgraded verified-partial to verified-video per the house
+  convention, with the no-timestamps and no-playback caveats carried.
 
 ### M01-P20: Cheryl Misak Lecture, Pragmatism and the Law (Centre for Constitutional Studies)
 
@@ -858,7 +903,21 @@ attach them with evidence on file.
   by John Dewey and C.I. Lewis, drawing on the founders of pragmatism's thinking
   about norms.
 - Relevant segment: whole lecture, 1:00:34.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 15:01:47Z save): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=C_-tE-alXI8&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened; Misak is named in the retrieved text) confirms the
+  lecture's substance: pragmatism traced from Charles Sanders Peirce
+  and Oliver Wendell Holmes through Frank Ramsey, John Dewey and C. I.
+  Lewis, focusing on belief, truth, inquiry and law as evolving,
+  experience-driven practices; how pragmatism understands legal
+  authority and democracy; audience questions on contemporary legal
+  theory and reform (Centre for Constitutional Studies). The coverage
+  basis is upgraded from description-only to third-party transcript;
+  status upgraded verified-partial to verified-video per the house
+  convention, with the no-timestamps and no-playback caveats carried.
 
 ### AR-02: PHIL 181, Lecture 9, Virtue and Habit I (Tamar Gendler, Open Yale Courses)
 
