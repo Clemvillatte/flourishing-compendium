@@ -1399,6 +1399,28 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   affiliation at the time of the 2018 talk — recorded as opened
   supporting evidence for the credentials clause, not as
   institutional-page verification.
+  SECOND FOLLOW-UP (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  session clock ~14:55Z): the ENS affiliation is now CORROBORATED on an
+  OPENED peer-reviewed source — the European Journal of Japanese
+  Philosophy vol. 8 PDF (https://ejjp-journal.org/wp-content/uploads/2023/11/ejjp-8-tanabe-on-subject-jelby-urai.pdf,
+  opened 2026-10-25), which prints verbatim: "Morten E. Jelby,
+  Ecole Normale Supérieure, Paris" beside his translated Tanabe
+  Hajime article. Further independent printed corroboration located in
+  the same search (NOT opened this pass — robots/DNS blocks, recorded
+  as search-result snippets only): the Bergsoniana N°3 author note
+  ("PhD-student at ENS Paris, PSL"); the Journal of East Asian
+  Philosophy affiliation line ("Pays Germaniques - Archives Husserl
+  (UMR 8547), Ecole Normale Supérieure, PSL, Paris"); a Kyoto
+  University Japanese-philosophy page ("パリ高等師範学校博士課程", ENS
+  doctoral program); and an ENS PSL-hosted Translitterae archive page
+  listing his thesis project ("Le poétique dans la pensée de Tanabe
+  Hajime") — that ENS-hosted page returned a DNS resolution failure
+  this pass, so the ENS institutional page itself remains UNOPENED.
+  Credentials basis now: uploader description + company team page +
+  the opened peer-reviewed journal affiliation. The skill's
+  institutional-page verification remains pending (the ENS page is
+  unopenable from this environment); the clause is supported by the
+  opened journal source but not by an institutional page.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): the
   intersection of Jan Patočka's and Tanabe Hajime's philosophies —
