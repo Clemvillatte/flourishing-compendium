@@ -18,15 +18,15 @@ Chapter 26 of the Daodejing links movement with stillness through the image of a
 
 The prince is on the road all day; the chapter's contrast concerns the steadiness he maintains while travelling. It closes by warning the ruler against acting lightly and losing his root of gravity ([DDJ 26](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
 
-I draw a modest application to rest from this image: include pauses in the way you undertake a commitment. The chapter does not prescribe a sleep schedule or establish how much recovery a particular activity requires.
+Alan Chan cautions that quietude and emptiness in the *Laozi* describe a general ethical orientation rather than specific practices ([Stanford Encyclopedia of Philosophy, §7](https://plato.stanford.edu/entries/laozi/)). With that limit in view, I use the travelling-ruler image to ask where a commitment leaves room to pause. This is an interpretation for planning work, not a sleep schedule supplied by the chapter.
 
 ### Plain words
 
-Rest can be part of fulfilling a commitment, with a place in the plan from the outset. If you arrange a week as though every hour must be available for work, rest has no agreed place. Consider what you can leave uncommitted and what would make that possible.
+Plan time for rest before filling the remaining time with work.
 
 ### For example
 
-Imagine a musician planning a demanding rehearsal week. They could reserve an evening without rehearsals before accepting extra sessions, then discuss that limit with the ensemble. Afterwards, they can review how the arrangement served both the work and their need for rest, and adjust the next week's commitments. This is my illustration of the principle, not a regimen supplied by Laozi.
+A musician with some say over rehearsal times could mark one evening as unavailable before accepting extra sessions. If the ensemble needs that evening, discuss what other commitment would move rather than treating every hour as free. Review the arrangement after the week, including the work left undone.
 
 ## Sources
 - [[T012 — Laozi]]: the chapter 26 terms the principle takes: rest as the master of restlessness.

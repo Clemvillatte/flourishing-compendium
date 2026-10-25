@@ -94,3 +94,16 @@ Opened through search and fetch:
 - [Chad Hansen, “Zhuangzi,” *Stanford Encyclopedia of Philosophy*, Spring 2020 archive, §4.4, “Doubting Intuitionism”](https://plato.stanford.edu/archives/spr2020/entries/zhuangzi/). Opened the discussion of the relativity of usefulness and its explicit tree example. This is a philosophical interpretation, not evidence about recreation or health; it does not assert that uselessness is always superior.
 
 Changes: added an attributed scholarly reading instead of treating the story as a universal rule against productivity. Converted Plain words to one sentence and retained the walking exercise as an optional application, without adding health claims. Existing links, front matter, opening statement and reflection are preserved.
+
+Second milestone advisor QC: D055, D054 and D078 passed; D037 needed a single clarity correction. Applied the advisor's wording so Plain words asks whether an answer should change one's first account instead of assuming it must. Removed redundant closing disclaimers from the D054 and D078 examples; the bodies already identify the limits and applications. Retained D037's specific safety qualification. The advisor confirmed all four passed validation, remained within 40–300 prose words and preserved protected content and baseline links.
+
+## D039: Make rest the root of activity
+
+Opened through search and fetch:
+
+- [Laozi, *Tao Teh King*, Legge translation, chapter 26](https://www.gutenberg.org/files/216/216-h/216-h.htm). Verified the retained quotation against §§1–2 and read the final warning to the ruler. The text's stillness accompanies a day of travel; it does not specify sleep duration, breaks or a recovery regimen.
+- [Alan Chan, “Laozi,” *Stanford Encyclopedia of Philosophy*, §7](https://plato.stanford.edu/entries/laozi/). Read the explicit statement that quietude, emptiness and simplicity describe a general ethical orientation rather than specific practices. This is general context, not a commentary on chapter 26: the opened entry does not discuss that chapter directly.
+
+Changes: gave the modern rest-planning extension a clear interpretive boundary, added scholarly context, and replaced the replicated Plain words section with one sentence. The musician illustration recognises some control over schedules and the work that must move or remain undone. All baseline links, front matter, opening statement and reflection remain intact.
+
+Supervisor flag: the preserved Psychology parallels block below D039's body includes a legacy claim about psychological detachment predicting next-day engagement and long-term health attributed to Sonnentag and Fritz (2007). That claim was not used in the repaired body and was not independently verified in this pass. It needs a separate legacy-parallels evidence audit; do not treat this body repair as verification of every linked-section claim.

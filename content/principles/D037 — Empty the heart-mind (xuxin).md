@@ -22,7 +22,7 @@ My practical use of the passage is to notice an expectation before a conversatio
 
 ### Plain words
 
-Let the other person's answer change your first account of what is happening.
+Consider whether the other person's answer should change your first account of what is happening.
 
 ### For example
 

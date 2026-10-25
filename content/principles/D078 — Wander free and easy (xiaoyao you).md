@@ -24,7 +24,7 @@ You can enjoy something without having a useful result to show for it.
 
 ### For example
 
-On one short walk, try leaving the distance untracked and attending to what you encounter. Afterwards, ask what was worthwhile about being there, even if you have nothing to post or tick off. This is my application of the story.
+On one short walk, try leaving the distance untracked and attending to what you encounter. Afterwards, ask what was worthwhile about being there, even if you have nothing to post or tick off.
 
 ## Related concepts
 

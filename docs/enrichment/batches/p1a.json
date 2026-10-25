@@ -29,9 +29,10 @@
   "D055",
   "D054",
   "D037",
-  "D078"
+  "D078",
+  "D039"
  ],
- "in_progress": "D039",
+ "in_progress": null,
  "flagged": {
   "D087": "QC complete: butterfly passage and modernized names verified; Plain words repaired",
   "D055": "QC complete: DDJ 29/64 and Chan section 7 verified; Plain words repaired",
@@ -56,7 +57,7 @@
   "E011": "RESOLVED by worker-p1a-1025b 2026-10-25 (per-item verification): repair confirmed present on the current page — interpretive phenomenology is distinguished from introspection via the §7C definition and the practical-setting framing (Plain words includes what you are trying to do and how others are involved, \"open to correction\"), and the waiting example is a first-person revisable account explicitly introductory; the §7C quotation was verified against the opened Macquarrie and Robinson text per the ledger (fetched to p. 58-61). No page edit needed this session; source verification not repeated; evidence in sources/p1a/repair-b303ba60.md §E011. [ORIGINAL ALLEGATION: Reopened for QC: Distinguish interpretive phenomenology from introspection; verify quotation and offer concrete description exercise]",
   "D001": "QC complete: DDJ 25 quote and Hansen sections 2/9 verified; Plain words repaired",
   "D037": "QC complete: dangerous narrative setting and Fraser metaphor/efficacy limits verified; Plain words repaired",
-  "D039": "Reopened for QC: QC: clarify rest as a practical extension of stillness, not an ancient recovery regimen",
+  "D039": "QC body complete; supervisor: legacy Psychology parallels prediction/long-term-health claim needs independent source audit",
   "B001": "RESOLVED by worker-p1a-1025b 2026-10-25 (per-item verification): repair confirmed present on the current page — the \"principle's directive\" repetition and its unsupported equation are gone; Plain words explains a humane author application; the grief example is optional, revisable and explicitly allows stopping or seeking support; the retained SN 56.11 quotation matches §9 and the SN 36.6 cross-check was opened per the ledger. No page edit needed this session; source verification not repeated; evidence in sources/p1a/repair-b303ba60.md §B001. [ORIGINAL ALLEGATION: Reopened for QC: Ground full understanding in four distinct tasks; replace self-investigation command with humane optional exercise]",
   "R005": "RESOLVED by worker-p1a-1025b 2026-10-25 (per-item verification): repair confirmed present on the current page — the statutory TRC qualification is explicit (full disclosure, political objective, committee assessment; not an automatic exchange); the personal moral question is restored distinct from political institutions; Plain words and the sibling illustration preserve accountability and the choice whether to forgive; the Tutu quotation occurs verbatim in the opened excerpt and the AZAPO judgment and SEP entries were opened per the ledger. No page edit needed this session; source verification not repeated; evidence in sources/p1a/repair-b303ba60.md §R005. [ORIGINAL ALLEGATION: Reopened for QC: Clarify forgiveness without compulsory reconciliation; check TRC amnesty conditions and open Tutu excerpt]",
   "SO044": "RESOLVED by worker-p1a-1025b 2026-10-25 (per-item verification): repair confirmed present on the current page — the actual §2.2/Figure 3A comparison is in the explanation; the essay-use example records sample/task/context, seeks further evidence, narrows the claim, records the gap and revisits the wording; the retained quotation matches the opened 28 Aug 2009 author manuscript and the Medin and Bennis challenge is included per the ledger. No page edit needed this session; source verification not repeated; evidence in sources/p1a/repair-b303ba60.md §SO044. [ORIGINAL ALLEGATION: Reopened for QC: Keep comparative evidence but replace study summary as sole practice example; clarify evidence boundary]",
@@ -65,8 +66,8 @@
   "E003": "RESOLVED by worker-p1a-1025b 2026-10-25 (per-item verification): repair confirmed present on the current page — the relation between retained conviction and bracketed positing is stated directly (\"you keep that belief without using it to settle the investigation\"), the example headings are normalised, and the kettle case remains clear; the §32 quotation and §§30-32 distinctions were verified against the opened Kersten PDF per the ledger. No page edit needed this session; source verification not repeated; evidence in sources/p1a/repair-b303ba60.md §E003. [ORIGINAL ALLEGATION: Reopened for QC: Clarify retained belief versus using its validity; normalize example headings]"
  },
  "missing_concepts": [],
- "sources_checked": 65,
- "updated": "2026-10-25T11:05:27+00:00",
+ "sources_checked": 67,
+ "updated": "2026-10-25T11:06:52+00:00",
  "band_done": false,
  "notes": {
   "leftover_repairs_2026_10_22": "worker-pplx-p1a-77f2b91c: queue-principles.json audit found 3 leftover items (K008, SE066 no-source-URL; D075 checked and COMPLIANT with the 40-300 principle word band, no action). ROUTING CORRECTION (advisor QC round 2): K008 belongs to p1w (done there), SE066 to p1b (done+flagged there); the repairs were executed by this worker under p1a in error — content edits are verified and kept, but the items are REMOVED from p1a done (this file) and flagged to the supervisor for reconciliation into p1w/p1b state files. Repairs delivered: K008 Sources URL added (archive.org catalog record, 1982 UC Press edition; translator removed from the link label per advisor — the catalog record does not list it); SE066 Sources URLs added, both Vygotsky quotes raw-verified against the Mind in Society full text, Nietzsche German verified against the Gutenberg German text (prior hold resolved) plus the English rendering verified against the Gutenberg English text, Park et al. 2023 fetched and quoted verbatim, Nietzsche/PTG blocks restructured into the body with headings per advisor, workflow language swept. Per-item ledgers: sources/p1a/K008.md and sources/p1a/SE066.md (to be merged into p1w/p1b ledgers by the supervisor)."

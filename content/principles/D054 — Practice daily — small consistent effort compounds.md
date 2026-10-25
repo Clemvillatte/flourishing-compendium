@@ -32,7 +32,7 @@ Choose a useful action small enough to repeat, and return to it after a missed d
 
 ### For example
 
-Suppose you want to read a demanding philosophical text. Try one paragraph after breakfast and write down a question it raises. If you miss a morning, return at the next suitable opportunity. After several attempts, ask whether the arrangement helps you understand the book, rather than treating an unbroken streak as the whole point. This is a suggested reading routine, not a tested method for developing wisdom.
+Suppose you want to read a demanding philosophical text. Try one paragraph after breakfast and write down a question it raises. If you miss a morning, return at the next suitable opportunity. After several attempts, ask whether the arrangement helps you understand the book, rather than treating an unbroken streak as the whole point.
 
 ## Sources
 - [[T036 — Hadot, Pierre]]: the spiritual-exercises parallel (Philosophy as a Way of Life) the page lists.
