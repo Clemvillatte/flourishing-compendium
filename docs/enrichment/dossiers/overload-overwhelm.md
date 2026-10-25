@@ -12,81 +12,47 @@ Burnout: held under the demands and resources group; the stress response itself 
 
 Cognitive load: held under the load group below; attention capture and multitasking are shared with the Attention dossier.
 
-## The map: the entries on overload and overwhelm
+## Where overload sits in a life
 
-### Too much input
+### What too much input does
 
-[Information overload research](https://clemvillatte.github.io/flourishing-compendium/#card=Information%20overload%20research): studies on how excessive information input degrades decision quality, increases stress, and paradoxically reduces knowledge.
+Studies on how excessive information input degrades decision quality, increases stress, and paradoxically reduces knowledge are [information overload research](https://clemvillatte.github.io/flourishing-compendium/#card=Information%20overload%20research). The finding that more options degrade satisfaction and decision quality, though later meta-analytic work finds the overload only under certain conditions, is [choice overload](https://clemvillatte.github.io/flourishing-compendium/#card=Choice%20overload).
 
-[Choice overload](https://clemvillatte.github.io/flourishing-compendium/#card=Choice%20overload): more options degrade satisfaction and decision quality, though later meta-analytic work finds the overload only under certain conditions.
+The media-use pattern studied by Ophir, Nass and Wagner is [heavy media multitasking](https://clemvillatte.github.io/flourishing-compendium/#card=Heavy%20media%20multitasking), and the simultaneous use of multiple information streams, with the question of whether heavy users differ in cognitive control, is [media multitasking](https://clemvillatte.github.io/flourishing-compendium/#card=Media%20multitasking). Research on whether smartphone notifications and infinite feeds pull attention away from what a person is doing is [notification and feed research on attention capture](https://clemvillatte.github.io/flourishing-compendium/#card=Notification%20and%20feed%20research%20on%20attention%20capture).
 
-[Heavy media multitasking](https://clemvillatte.github.io/flourishing-compendium/#card=Heavy%20media%20multitasking): the media-use pattern studied by Ophir, Nass and Wagner.
+The impact digital technologies have on a life that is good for a human being is [digital well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Digital%20well-being).
 
-[Media multitasking](https://clemvillatte.github.io/flourishing-compendium/#card=Media%20multitasking): the simultaneous use of multiple information streams, and the question of whether heavy users differ in cognitive control.
+### What load is, and where it hits limits
 
-[Notification and feed research on attention capture](https://clemvillatte.github.io/flourishing-compendium/#card=Notification%20and%20feed%20research%20on%20attention%20capture): research on whether smartphone notifications and infinite feeds pull attention away from what a person is doing.
+Sweller's theory of working-memory demands in learning and instruction is [cognitive load theory](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20load%20theory). Lavie's account of selective attention, offered as a resolution to the debate between early and late selection, is the [load theory of attention](https://clemvillatte.github.io/flourishing-compendium/#card=Load%20theory%20of%20attention).
 
-[Digital well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Digital%20well-being): the impact digital technologies have on a life that is good for a human being.
+Kaplan's name for mental fatigue affecting effortful, voluntarily controlled attention is [directed attention fatigue](https://clemvillatte.github.io/flourishing-compendium/#card=Directed%20attention%20fatigue). The proposal that self-control is a limited resource depleted after a period of exertion is [ego depletion](https://clemvillatte.github.io/flourishing-compendium/#card=Ego%20depletion), and the principle of raising the demand on a system in steps so that it keeps adapting is [progressive overload in attentional training](https://clemvillatte.github.io/flourishing-compendium/#card=Progressive%20overload%20in%20attentional%20training).
 
-### Load and its limits
+### What demands do, and how burnout arrives
 
-[Cognitive load theory](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20load%20theory): Sweller's theory of working-memory demands in learning and instruction.
+The WHO's name for a syndrome resulting from chronic workplace stress that has not been successfully managed is [burnout](https://clemvillatte.github.io/flourishing-compendium/#card=Burnout). The description of burnout through emotional exhaustion, depersonalization, and reduced personal accomplishment is the [Maslach burnout model](https://clemvillatte.github.io/flourishing-compendium/#card=Maslach%20burnout%20model).
 
-[Load theory of attention](https://clemvillatte.github.io/flourishing-compendium/#card=Load%20theory%20of%20attention): Lavie's account of selective attention, offered as a resolution to the debate between early and late selection.
+The model in which working conditions fall into two broad categories, job demands and job resources, is the [job demands-resources model](https://clemvillatte.github.io/flourishing-compendium/#card=The%20job%20demands-resources%20model). Hobfoll's 1989 model of stress, presented as an alternative to the phenomenological stress models, is [Conservation of Resources Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Conservation%20of%20Resources%20Theory).
 
-[Directed attention fatigue](https://clemvillatte.github.io/flourishing-compendium/#card=Directed%20attention%20fatigue): Kaplan's name for mental fatigue affecting effortful, voluntarily controlled attention.
+Emotional-labor research distinguishing surface acting from deep acting is [impression-management burnout research](https://clemvillatte.github.io/flourishing-compendium/#card=Impression-management%20burnout%20research). The caution from Klimecki and colleagues that excessive sharing of others' negative emotions may be maladaptive is [empathic distress](https://clemvillatte.github.io/flourishing-compendium/#card=Empathic%20distress).
 
-[Ego depletion](https://clemvillatte.github.io/flourishing-compendium/#card=Ego%20depletion): the proposal that self-control is a limited resource depleted after a period of exertion.
+McEwen's term for the cumulative wear the body takes when stress-mediating systems stay chronically over- or under-active is [allostatic load](https://clemvillatte.github.io/flourishing-compendium/#card=Allostatic%20load). The body's coordinated reaction to a perceived threat is the [stress response](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20response%20%28Lupien%2C%20McEwen%29), and Cohen and Wills's account of how social support touches health is [the stress-buffering model](https://clemvillatte.github.io/flourishing-compendium/#card=The%20stress-buffering%20model).
 
-[Progressive overload in attentional training](https://clemvillatte.github.io/flourishing-compendium/#card=Progressive%20overload%20in%20attentional%20training): raise the demand on a system in steps so that it keeps adapting.
+### How recovery works
 
-### Demands, resources and burnout
+The principle that work draws on a person, and time away from work lets that drain ease, is the [effort-recovery cycle](https://clemvillatte.github.io/flourishing-compendium/#card=Effort-recovery%20cycles). Four ways people recuperate from work during leisure time are [recovery experiences](https://clemvillatte.github.io/flourishing-compendium/#card=Recovery%20experiences).
 
-[Burnout](https://clemvillatte.github.io/flourishing-compendium/#card=Burnout): the WHO's name for a syndrome resulting from chronic workplace stress that has not been successfully managed.
+Sonnentag's research programme on how people unwind from work stress is [recovery research](https://clemvillatte.github.io/flourishing-compendium/#card=Recovery%20research), and the occupational-health psychology line on how people recuperate from demands is [recovery science](https://clemvillatte.github.io/flourishing-compendium/#card=Recovery%20science).
 
-[Maslach burnout model](https://clemvillatte.github.io/flourishing-compendium/#card=Maslach%20burnout%20model): burnout described through emotional exhaustion, depersonalization, and reduced personal accomplishment.
+Completing the stress cycle as a shift from stress toward relief is [stress cycle completion](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20cycle%20completion%20%28Nagorski%2C%20Sapolsky%29). The deliberate slowing of breath below the everyday rate is [slow-paced breathing](https://clemvillatte.github.io/flourishing-compendium/#card=Slow-paced%20breathing).
 
-[The job demands-resources model](https://clemvillatte.github.io/flourishing-compendium/#card=The%20job%20demands-resources%20model): working conditions fall into two broad categories: job demands and job resources.
+The perceived capacity to withstand aversive states, distinguished from the act of withstanding them, is [distress tolerance (DBT)](https://clemvillatte.github.io/flourishing-compendium/#card=Distress%20tolerance%20%28DBT%29). Meichenbaum's method for building coping capacity before stress arrives is [stress inoculation training](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20inoculation%20training).
 
-[Conservation of Resources Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Conservation%20of%20Resources%20Theory): Hobfoll's 1989 model of stress, presented as an alternative to the phenomenological stress models.
+### What the traditions say about rest
 
-[Impression-management burnout research](https://clemvillatte.github.io/flourishing-compendium/#card=Impression-management%20burnout%20research): emotional-labor research distinguishing surface acting from deep acting.
+Aristotle's argument that rest is what work is for is [the importance of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20importance%20of%20rest). His treatment of rest in Book X, answering the limit that no human being can work continuously, is [the completeness of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20completeness%20of%20rest).
 
-[Empathic distress](https://clemvillatte.github.io/flourishing-compendium/#card=Empathic%20distress): Klimecki and colleagues caution that excessive sharing of others' negative emotions may be maladaptive.
-
-[Allostatic load](https://clemvillatte.github.io/flourishing-compendium/#card=Allostatic%20load): McEwen's term for the cumulative wear the body takes when stress-mediating systems stay chronically over- or under-active.
-
-[Stress response (Lupien, McEwen)](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20response%20%28Lupien%2C%20McEwen%29): the body's coordinated reaction to a perceived threat.
-
-[The stress-buffering model](https://clemvillatte.github.io/flourishing-compendium/#card=The%20stress-buffering%20model): Cohen and Wills's account of how social support touches health.
-
-### Recovery and rest
-
-[Effort-recovery cycles](https://clemvillatte.github.io/flourishing-compendium/#card=Effort-recovery%20cycles): work draws on a person, and time away from work lets that drain ease.
-
-[Recovery experiences](https://clemvillatte.github.io/flourishing-compendium/#card=Recovery%20experiences): four ways people recuperate from work during leisure time.
-
-[Recovery research](https://clemvillatte.github.io/flourishing-compendium/#card=Recovery%20research): Sonnentag's research programme on how people unwind from work stress.
-
-[Recovery science](https://clemvillatte.github.io/flourishing-compendium/#card=Recovery%20science): the occupational-health psychology line on how people recuperate from demands.
-
-[Stress cycle completion (Nagorski, Sapolsky)](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20cycle%20completion%20%28Nagorski%2C%20Sapolsky%29): completing the stress cycle as a shift from stress toward relief.
-
-[Slow-paced breathing](https://clemvillatte.github.io/flourishing-compendium/#card=Slow-paced%20breathing): the deliberate slowing of breath below the everyday rate.
-
-[Distress tolerance (DBT)](https://clemvillatte.github.io/flourishing-compendium/#card=Distress%20tolerance%20%28DBT%29): the perceived capacity to withstand aversive states, distinguished from the act of withstanding them.
-
-[Stress inoculation training](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20inoculation%20training): Meichenbaum's method for building coping capacity before stress arrives.
-
-### Rest in the traditions
-
-[The importance of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20importance%20of%20rest): Aristotle's argument that rest is what work is for.
-
-[The completeness of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20completeness%20of%20rest): Aristotle's treatment of rest in Book X, answering the limit that no human being can work continuously.
-
-[Discipline of rest](https://clemvillatte.github.io/flourishing-compendium/#card=Discipline%20of%20rest): the monastic practice of regulating rest by rule.
-
-[The rhythm of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20rhythm%20of%20rest): in the Zhuangzi, nature supports the body through the stages of a life: toil, then ease, then rest at death.
+The monastic practice of regulating rest by rule is the [discipline of rest](https://clemvillatte.github.io/flourishing-compendium/#card=Discipline%20of%20rest). In the Zhuangzi, nature supports the body through the stages of a life, toil, then ease, then rest at death, in [the rhythm of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20rhythm%20of%20rest).
 
 ## Where the traditions genuinely disagree
 
