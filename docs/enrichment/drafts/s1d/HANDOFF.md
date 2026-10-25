@@ -94,3 +94,18 @@ session window is 12:58:56-13:57 UTC. The verifications and results are unaffect
   problem-grounds-test-criterion arc vs B160's question-authority framing), so this is
   a supervisor/owner call: register as a distinct-angle story or reject as duplicate.
   Same pattern as s1c-039 vs ST430 (Franklin), routed the same day.
+
+## End-to-end review s1d-006 (2026-10-25, storyteller-pplx-s1d-1025z)
+
+Full review, not a spot-check: all ledger quotes were previously raw-verified by the
+drafting teller (two carriers, variants noted); I independently re-verified the maxim
+and the habits span against the live peirce.org text (verbatim). The paraphrase of
+Peirce's answer to the diamond question ("Nothing would be false... only clumsy;
+the facts would be the same facts, arranged badly") checked against the source's
+actual sentences ("no falsity in such modes of speech... arrangements of facts which
+would be exceedingly maladroit") — faithful. Principle mapping checked against P012's
+body: the good-heart worked example is the principle's own, correctly named as not
+carried; P012 currently has no story backlinks, so the draft fills a zero-story
+principle. Overlap check: ST102 covers the maxim under P019/P027 — different
+principles and angle; no duplicate. Coverage gaps named. VERDICT: clean, ready for
+registration as-is.
