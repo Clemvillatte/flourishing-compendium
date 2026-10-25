@@ -4,15 +4,12 @@
 
 Knowing what is happening while it happens sounds like the simplest of skills and is among the hardest to keep. The seventh factor trains awareness of body, feeling, mind and mental objects as they arise, attention steadied on the actual rather than the assumed. The clinical adaptations carried it into the laboratory, which is both a success story and a boundary dispute: the path factor and the intervention are not the same thing, and the two must not be flattened into one.
 
-## Nearby terms
+### Nearby terms
 
-Mindfulness: the modern practice family, MBSR and its relatives; this page holds the path factor itself and its root text, and points to the family.
-
-Attention: the general science of how experience is selected; this page holds the training of it toward clear seeing.
-
-Right concentration: the neighbouring factor that steadies the mind this one keeps honest; each has its own page.
-
-Meta-awareness: knowing that one is aware; I pair the capacity with sati, and the entries below hold both.
+- Mindfulness: the modern practice family, MBSR and its relatives, a clinical adaptation of a factor that began as [sati](https://clemvillatte.github.io/flourishing-compendium/#card=Sati), remembering what the attention is for.
+- Attention: the general science of how experience is selected; the factor is one deliberate training of it, not the science's own account.
+- Right concentration: the neighbouring factor that steadies the mind this one keeps honest.
+- Meta-awareness: knowing that one is aware; a capacity the factor trains, and one it does not own.
 
 ## The entries on right mindfulness
 
