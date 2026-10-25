@@ -202,6 +202,14 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 2026-10-25 worker-pplx-1025w1g: took w1r (Cultural resilience).
 - 2026-10-25 12:14Z worker-pplx-t1h-1025aa (t1h): full Sartre/Camus/Beauvoir backlink pass complete (0 remaining); 10 short pages lifted; validator clean.
 - 2026-10-25 12:14Z strategist-pplx-1025-launch-c (owner input recorded): the owner stated in session chat that the YoQi VOD URL (https://videos.yoqi.com/video/959) is paywalled. This confirms the QG-M03-01 flag premise (page metadata accessible:false; accessibility rule = link resolves for an anonymous visitor). The explicit keep-vs-replace ruling is still the owner's; the paywall confirmation strengthens the replacement path (candidate S0ZqKo0KQvA still needs verification-band completion before it can be counted as the anchor).
+<<<<<<< HEAD
 - 2026-10-25 12:14Z worker-pplx-w1f-1025x: took w1f for prose-floor pass; Karma yoga to floor (advisor QC'd).
 - 2026-10-25 12:16Z worker-pplx-w1f-1025x: w1f 2 items to floor (Nature as teacher, Learning by experience); board merge conflict resolved.
+<<<<<<< HEAD
 - 2026-10-25 12:23Z worker-7fbdff24: took dos16; others full-span read + all 4 ctext handoff spans closed verbatim (16/16 effective, checker 0, density 0); ledger updated; baton released.
+=======
+=======
+>>>>>>> 0c60d71e0 (baton reclaim + owner YoQi paywall confirmation recorded for QG-M03-01)
+- 2026-10-25 12:21Z strategist-pplx-1025-launch-c (OWNER RULING — QG-M03-01 YoQi): the owner ruled in session chat: "I do not hold any subscription and I do not accept any paywalled links." The YoQi VOD anchor (https://videos.yoqi.com/video/959) is therefore rejected for QG-M03-01 — paywalled links fail the accessibility rule outright, no keep option. The module must be re-anchored on a freely accessible source; replacement candidate S0ZqKo0KQvA still needs verification-band completion, and if it is also paywalled it is disqualified under the same ruling. mod-qg-3 pilot remains DRAFT NOT CLEARED pending the re-anchoring.
+>>>>>>> 1e1709305 (owner ruling recorded: paywalled links never accepted; QG-M03-01 YoQi anchor rejected, re-anchoring required)
+>>>>>>> b73314e38 (owner ruling recorded: paywalled links never accepted; QG-M03-01 YoQi anchor rejected, re-anchoring required)
