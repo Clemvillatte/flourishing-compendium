@@ -27,11 +27,12 @@ Honour is the proud person's main concern, but "he will also bear himself with m
 
 ### Wording of the principle
 
-"Smallness of soul" is my term for the deficiency, which Ross calls being "unduly humble". The advice to cultivate a sense of your own worth is my.
+"Smallness of soul" is a term used here for the deficiency, which Ross calls being "unduly humble". The advice to cultivate a sense of your own worth is a practical addition, not Aristotle's.
 
 (NE IV.3, 1123b-1124a.)
 
-**Plain words** Aristotle's proud person claims great things and deserves them. Vanity claims more than it deserves, and false humility claims less. The test is accuracy. That also steadies the person against luck, good or bad.
+**Plain words**
+The vice is not thinking well of yourself; it is being wrong about the size of what you are. The vain person borrows a reputation too big for the collateral, the falsely humble one hides a fortune and calls it nothing, and Aristotle's great-souled figure fits the estimate to the deed exactly. Because the estimate does not depend on yesterday's luck, a run of bad luck cannot shake it loose.
 
 *For example:* Imagine a designer whose work is strong enough for a top studio. She applies, and if she is rejected she does not decide she was never any good.
 
