@@ -924,8 +924,26 @@ attach them with evidence on file.
 - Content coverage: the host's description states this 6 March 2007 lecture, third
   in the Buddhist Arts of Ministry and Leadership series, covers a Buddhist
   perspective on care of the dying.
+  Coverage-confirmation (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=8tvocWeEmBA&current_language_code=en,
+  opened 2026-10-25; noted by the extraction to contain speech-recognition errors)
+  confirms the lecture's substance on the recording: the speaker introduced as
+  Roshi Joan Halifax, abbot of Upaya Zen Center, directing the Project on Being
+  With Dying; the aim "to presence a person who is facing the end of their
+  life"; the Kisagotami story and "the bonds of suffering weave us all
+  together"; hospice and palliative care (hospice as "talking Buddhism" without
+  recognizing it); four areas of contemplative-care training (psycho-spiritual
+  dimensions; relationship-centered care; caregiver self-care; implementation);
+  fears around pain, capacity, identity and death itself, with mental training
+  not postponed to the end of life; the caution against imposing a "good
+  death" standard ("you've got to get rid of the bar"); caregiver boundaries
+  and relationships; and Q&A on presence, gratitude, anger and family
+  notification. Caveats: third-party transcript page, no timestamps in the
+  retrieved text; playback itself not opened.
 - Relevant segment: whole lecture, 1:21:59.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (2026-10-25); coverage confirmed against
+  a third-party transcript page (no timestamps); identity, access and duration
+  verified earlier.
 
 ### M02-K01: Absolute Critique in Tanabe Hajime's Philosophy as Metanoetics (Gregory Moss, Edinburgh)
 
