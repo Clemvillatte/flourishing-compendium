@@ -32,6 +32,8 @@ What this evidence does not test: the eulogy. The experiments used guided manipu
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D001 — Align your life with the Dao|D001 Align your life with the Dao]]

@@ -34,6 +34,8 @@ What this evidence does not test: the practice. The study measured recall of mov
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[E008 — Practise the structure of temporality|E008 Practise the structure of temporality]]

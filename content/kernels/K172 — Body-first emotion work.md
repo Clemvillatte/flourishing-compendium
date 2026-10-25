@@ -32,6 +32,8 @@ What this evidence does not test: the protocol. Two hundred three students repor
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D048 — Guard the One (shouyi)|D048 Guard the One (shouyi)]]

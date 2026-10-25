@@ -40,6 +40,8 @@ An uncontrolled proof-of-concept study examined app-based RAIN for emotional eat
 
 The Practice of RAIN, a 20:14 guided meditation led by Tara Brach on her own channel, [walks through all four steps](https://www.youtube.com/watch?v=W8e_tAEM80k); its description notes that "With practice, we can find our way home to open-hearted presence in the midst of whatever arises."
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[AF066 — Cultivate self-compassion — treat yourself as you would a good friend|AF066 Cultivate self-compassion: treat yourself as you would a good friend]]

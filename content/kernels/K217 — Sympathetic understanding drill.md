@@ -29,6 +29,8 @@ The carrier is a philosopher's prescription, not a trial: no study is cited for 
 
 Not applicable: the drill requires a live interlocutor who can confirm or correct the restatement; no recording can play that part.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D082 — Don't impose your frame on others|D082 Don't impose your frame on others]]

@@ -32,6 +32,8 @@ What this evidence does not test: the three breaths. In the studies, participant
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D042 — Guard the center|D042 Guard the center]]

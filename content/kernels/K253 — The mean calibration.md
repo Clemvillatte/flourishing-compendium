@@ -43,6 +43,8 @@ He also warns that the pleasant is the worst reference point, "because we are no
 
 Not applicable: the practice is a notebook and a repeated situation, not a recording.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[A005 — Choose the mean, not the extreme|A005 Choose the mean, not the extreme]]

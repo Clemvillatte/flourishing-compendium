@@ -30,6 +30,8 @@ The grief is real and documented: in the communities the authors studied, "grief
 
 What the research does not cover: the article documents grief in affected communities; it does not test the effects of naming that grief, and the claim that naming motivates stewardship is not established by this source. The practice here rests on what the source does say: the grief is real, mourning connects, and it questions what we value.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[R011 — Practise harmony|R011 Practise harmony]]

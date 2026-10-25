@@ -32,6 +32,8 @@ What this evidence does not test: the unity thesis. Across two studies with 623 
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[A040 — Practise the unity of the virtues|A040 Practise the unity of the virtues]]

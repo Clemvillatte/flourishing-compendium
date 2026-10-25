@@ -38,6 +38,8 @@ What this evidence does not test: the skull on the desk. In the trial, an interv
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D090 — Accept death as transformation|D090 Accept death as transformation]]

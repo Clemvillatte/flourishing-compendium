@@ -32,6 +32,8 @@ What this evidence does not test: your list. Participants freely chose between n
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D034 — Simplify your ecosystem|D034 Simplify your ecosystem]]

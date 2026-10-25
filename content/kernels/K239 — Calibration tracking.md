@@ -34,6 +34,8 @@ What this evidence does not test: the practice. In this study, "tracking" meant 
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D075 — Don't underestimate challenges|D075 Don't underestimate challenges]]

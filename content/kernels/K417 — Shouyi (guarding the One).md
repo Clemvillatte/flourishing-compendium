@@ -43,6 +43,8 @@ The passages cited here describe historical practice; they do not evaluate the e
 
 No guided recording from a Daoist lineage source was located for this practice; the protocol above follows the classical texts. For a separately identified comparison, see [[K100 — Breath anchoring]].
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D048 — Guard the One (shouyi)|D048 Guard the One (shouyi)]]

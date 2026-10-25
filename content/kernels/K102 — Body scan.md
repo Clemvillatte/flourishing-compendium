@@ -27,6 +27,8 @@ In a preregistered multi-site study with 2,239 adults across 37 sites, four stan
 
 A free, high-quality guided session is the [Body Scan (14 minutes) from UCLA Mindful](https://www.uclahealth.org/uclamindful/health-and-wellness-meditations), recorded by Diana Winston, director of mindfulness education at UCLA's Mindful Awareness Research Center; UCLA Mindful's [main guided-meditations page](https://www.uclahealth.org/uclamindful/guided-meditations) also offers a 3-minute short body scan.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D048 — Guard the One (shouyi)|D048 Guard the One (shouyi)]]

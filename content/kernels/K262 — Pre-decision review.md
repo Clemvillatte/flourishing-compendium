@@ -41,6 +41,8 @@ The premise that failure is easier to explain backward than to foresee has a mea
 - [Veinott, B., Klein, G. A., & Wiggins, S. (2010), "Evaluating the Effectiveness of the PreMortem Technique on Plan Confidence", Proceedings of the 7th International ISCRAM Conference](https://idl.iscram.org/files/veinott/2010/1049_Veinott_etal2010.pdf): verbatim abstract; 178 participants, five conditions, premortem reduced confidence most.
 - [Gandhi, L. (2022), "Problems with Premortems: Self-Serving Attribution Bias in a Popular Debiasing Strategy", Academy of Management Proceedings](https://journals.aom.org/doi/10.5465/AMBPP.2022.12186abstract): verbatim abstract sentence; attribution-bias caveat.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[A037 — Distinguish cleverness (deinotes) from practical wisdom|A037 Distinguish cleverness (deinotes) from practical wisdom]]

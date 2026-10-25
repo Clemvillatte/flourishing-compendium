@@ -28,6 +28,8 @@ The Finnish cohort prospectively followed 2315 middle-aged men for a median of 2
 
 Not applicable: the exposure is a physical stressor administered to the body, not a recording.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D141 — Care for life as the root of all endeavor|D141 Care for life as the root of all endeavor]]

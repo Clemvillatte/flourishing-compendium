@@ -32,6 +32,8 @@ What this evidence does not test: the audit. The paper is a conceptual review: i
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[E011 — Practise phenomenological description|E011 Practise phenomenological description]]

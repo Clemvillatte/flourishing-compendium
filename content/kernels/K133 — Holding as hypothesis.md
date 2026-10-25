@@ -30,6 +30,8 @@ The strategy's case: "In both experiments the induction of a consider-the-opposi
 
 What the research does not cover: the experiments tested instructions given to participants judging evidence about social issues and personality impressions, not a self-chosen suspension period on a personal belief. The timing window and the personal-belief framing are this practice's own; what the studies establish is that the opposite question, asked for real, does work that good intentions do not.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D080 — Dissolve rigid right and wrong (qiwu)|D080 Dissolve rigid right and wrong (qiwu)]]

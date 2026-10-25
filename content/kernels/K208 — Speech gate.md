@@ -29,6 +29,8 @@ The carrier here is scripture, not trials: no study tests a speech gate, and non
 
 Not applicable: the practice happens in the pause before speaking, not in a recording.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D114 — Don't contend (buzheng)|D114 Don't contend (buzheng)]]

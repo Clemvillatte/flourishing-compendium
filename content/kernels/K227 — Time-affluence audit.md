@@ -34,6 +34,8 @@ What this evidence does not test: the comparative claim that time affluence pred
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D019 — Know what is enough (zhizu)|D019 Know what is enough (zhizu)]]

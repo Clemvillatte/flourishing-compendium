@@ -42,6 +42,8 @@ The meta-analysis of cooperative decision making summarized the bias in one line
 - [Balliet, D., Wu, J., & De Dreu, C. K. W. (2014), "Ingroup favoritism in cooperation: a meta-analysis", Psychological Bulletin 140(6): 1556-1581](https://pubmed.ncbi.nlm.nih.gov/25222635/): verbatim abstract; d = 0.32 ingroup favoritism, stronger under interdependence, driven by ingroup favoritism rather than outgroup derogation.
 - [Goldin, C., & Rouse, C. (2000), "Orchestrating Impartiality: The Impact of 'Blind' Auditions on Female Musicians", American Economic Review 90(4): 715-741](https://www.aeaweb.org/articles?id=10.1257/aer.90.4.715): verbatim abstract; the screen increased the probability a woman advanced and was hired, with the authors' large-standard-errors caveat.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[A023 — Practice justice (dikaiosyne)|A023 Practice justice (dikaiosyne)]]

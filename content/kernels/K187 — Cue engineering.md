@@ -29,6 +29,8 @@ The base rate finding: in the diary studies, "between a third and a half of all 
 
 Not applicable: cue engineering is the rearrangement of a physical environment, not a recording.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D034 — Simplify your ecosystem|D034 Simplify your ecosystem]]

@@ -32,6 +32,8 @@ What this evidence does not test: the walk. Participants judged distances to tar
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[E003 — Practise the natural attitude and its suspension|E003 Practise the natural attitude and its suspension]]

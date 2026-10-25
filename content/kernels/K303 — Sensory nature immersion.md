@@ -30,6 +30,8 @@ The theory: "Directed attention plays an important role in human information pro
 
 What the research does not cover: the rumination result comes from one controlled experiment with healthy participants, and the paper's own Discussion states it plainly: "Our results indicate that nature experience reduced rumination and sgPFC activation" (p. 8568). The 20-to-30-minute sitting window is this practice's own; neither source tested it, and Kaplan's article is theory, not trial.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[R011 — Practise harmony|R011 Practise harmony]]

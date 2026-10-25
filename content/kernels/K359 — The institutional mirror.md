@@ -42,6 +42,8 @@ The gap the mirror looks for is well documented. In Meyer and Rowan's account, f
 - [Meyer, J. W., & Rowan, B. (1977), "Institutionalized Organizations: Formal Structure as Myth and Ceremony", American Journal of Sociology 83(2): 340-363](http://www.iot.ntnu.no/innovation/norsi-pims-courses/harrison/Meyer%20&%20Rowan%20(1977).PDF): verbatim quotes on decoupling, loosely coupled structures, and myths that confer legitimacy.
 - [Cameron, K. S. (2003), "Organizational Virtuousness and Performance", in Cameron, Dutton and Quinn (eds.), Positive Organizational Scholarship: 48-65](https://webuser.bus.umich.edu/cameronk/PDFs/POS/POS%20-%20CHAPTER%204.pdf): verbatim findings on virtuousness scores and performance, with the author's own small-sample and causality caveats.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[A037 — Distinguish cleverness (deinotes) from practical wisdom|A037 Distinguish cleverness (deinotes) from practical wisdom]]

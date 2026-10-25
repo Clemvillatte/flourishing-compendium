@@ -45,6 +45,8 @@ What this evidence does not test: the cited research concerns adaptation of happ
 
 Not applicable: the practice is a number written in advance, not a recording.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 - [[T012 — Laozi]]: the sufficiency teaching the kernel tests in one domain.
 

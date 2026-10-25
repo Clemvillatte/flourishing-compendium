@@ -30,6 +30,8 @@ The term for the grief: "the grief felt in relation to experienced or anticipate
 
 What the research does not cover: both papers are conceptual and qualitative. Cunsolo and Ellis synthesize fieldwork in Northern Canada and the Australian Wheatbelt; Albrecht's interviews were with Upper Hunter residents near open-cut mining. Neither evaluated this seasonal routine.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[R011 — Practise harmony|R011 Practise harmony]]

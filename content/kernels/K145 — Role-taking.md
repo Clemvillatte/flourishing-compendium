@@ -28,6 +28,8 @@ The mechanism is egocentric anchoring: "the authors propose that people adopt ot
 
 Not applicable: the practice is writing another's view of oneself, not a recording.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D082 — Don't impose your frame on others|D082 Don't impose your frame on others]]

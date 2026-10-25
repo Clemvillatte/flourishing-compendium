@@ -38,6 +38,8 @@ What this evidence does not test: the practice. The meta-analysis is correlation
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[R011 — Practise harmony|R011 Practise harmony]]

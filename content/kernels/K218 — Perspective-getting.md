@@ -33,6 +33,8 @@ What the research does not cover: the advantage is not guaranteed. In the first 
 
 - **perspective-taking** — Epley et al., 2004
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D082 — Don't impose your frame on others|D082 Don't impose your frame on others]]

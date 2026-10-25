@@ -32,6 +32,8 @@ What this evidence does not test: the walk. This meta-analysis combined 49 prosp
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D036 — Treasure your life and health as the vessel of everything|D036 Treasure your life and health as the vessel of everything]]

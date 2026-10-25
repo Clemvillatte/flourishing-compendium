@@ -30,6 +30,8 @@ What separates the couples is not the elegance of the attempts but whether they 
 
 What the research does not cover: the studies observe couples in conflict conversations in the Love Lab; the 48-hour window for addressing a rift is this practice's own, as is the example sentence. The evidence for early repair concerns minutes into a discussion, not days after one.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D068 — Yield in conflict to remain whole|D068 Yield in conflict to remain whole]]

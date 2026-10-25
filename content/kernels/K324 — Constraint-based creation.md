@@ -40,6 +40,8 @@ The proposed mechanism: "Focusing the creative energy on a narrower field of exp
 
 Not covered: the studies measured two-line rhymes rated for creativity, not long projects or wellbeing outcomes; the carryover was observed within the same task type; and the Dr. Seuss story is an illustration, not evidence.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[E010 — Practise the constitution of meaning|E010 Practise the constitution of meaning]]

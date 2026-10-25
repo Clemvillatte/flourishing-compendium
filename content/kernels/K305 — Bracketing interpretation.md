@@ -35,6 +35,8 @@ What the studies do not test: the amygdala finding concerns emotion words in a l
 
 No official recording exists. Two worked guides walk the bracket on paper. The [Groningen phenomenology textbook exercise](https://opentextbooks.rug.nl/philpolarization/chapter/phenomenology/) has you pick a short scene, describe what you see, hear or feel, then "check whether there are assumptions present in your description, and literally bracket these if applicable". The [Rutgers qualitative-research bracketing prompts](https://openpub.libraries.rutgers.edu/qualgo2/chapter/__unknown__-6/) ask in writing: "What are my beliefs and attitudes about this topic or phenomenon? What assumptions am I making?"
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[E003 — Practise the natural attitude and its suspension|E003 Practise the natural attitude and its suspension]]

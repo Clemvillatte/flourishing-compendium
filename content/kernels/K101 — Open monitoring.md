@@ -34,6 +34,8 @@ A calm 20-minute guided session, with a full transcript of the instructions, is 
 - [Lippelt et al. (2014), "Focused attention, open monitoring and loving kindness meditation: effects on attention, conflict monitoring, and creativity: a review", Frontiers in Psychology, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/)
 - [Bashmakova and Shcherbakova (2021), "Just Open Your Mind? A Randomized, Controlled Study on the Effects of Meditation on Creativity", Frontiers in Psychology, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8285115/)
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D046 — Practice fasting of the mind (xinzhai)|D046 Practice fasting of the mind (xinzhai)]]

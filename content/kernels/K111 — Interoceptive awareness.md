@@ -31,6 +31,8 @@ No recording is needed; the heartbeat check is silent and self-administered. A s
 
 - **training** — Mehling et al., 2009
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D048 — Guard the One (shouyi)|D048 Guard the One (shouyi)]]

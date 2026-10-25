@@ -42,6 +42,8 @@ The model comes from addiction treatment and is offered here as background for t
 
 Not covered: none of these studies tests a returning drill; the lapse research concerns drinking, the self-compassion experiments test performance and personal weaknesses.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D054 — Practice daily — small consistent effort compounds|D054 Practice daily: small consistent effort compounds]]

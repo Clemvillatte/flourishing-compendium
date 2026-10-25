@@ -46,6 +46,8 @@ The [Interests vs. Positions sheet from the University of Utah S.J. Quinney Coll
 - [Program on Negotiation, Harvard Law School, "Principled Negotiation: Focus on Interests to Create Value"](https://www.pon.harvard.edu/daily/negotiation-skills-daily/principled-negotiation-focus-interests-create-value/)
 - [Interests vs. Positions, S.J. Quinney College of Law, University of Utah](https://www.law.utah.edu/wp-content/uploads/2022/01/Interests_vs_Positions.pdf)
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[A023 — Practice justice (dikaiosyne)|A023 Practice justice (dikaiosyne)]]

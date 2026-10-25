@@ -28,6 +28,8 @@ The evidence is the addition-bias finding: "here we show that people systematica
 
 Not applicable: the practice is a decision to stop something, not a recording.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D022 — Subtract, don't add|D022 Subtract, don't add]]

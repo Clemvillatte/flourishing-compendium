@@ -32,6 +32,8 @@ What this evidence does not test: the story. In three experiments with 693 parti
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[A023 — Practice justice (dikaiosyne)|A023 Practice justice (dikaiosyne)]]

@@ -40,6 +40,8 @@ The empirical ground is quoted above: the self-concordance model holds that "the
 - [Sheldon, K. M., & Elliot, A. J. (1999), "Goal Striving, Need Satisfaction, and Longitudinal Well-Being: The Self-Concordance Model", Journal of Personality and Social Psychology (PDF)](https://www.scribd.com/document/904038670/sheldon-and-elliot-1999): definition and abstract quoted verbatim.
 - [Sartre, J.-P. (1946), Existentialism is a Humanism (trans. Philip Mairet)](https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm): passages quoted verbatim.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[E007 — Practise eidetic seeing|E007 Practise eidetic seeing]]

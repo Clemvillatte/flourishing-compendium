@@ -28,6 +28,8 @@ The bias the exercise counters is the impact bias: "people base many decisions o
 
 Not applicable: the practice is a set of questions answered in writing, not a recording.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D075 — Don't underestimate challenges|D075 Don't underestimate challenges]]

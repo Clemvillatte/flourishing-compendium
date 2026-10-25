@@ -30,6 +30,8 @@ The tournament results: five research groups competed over two years, and "Resul
 
 What the research does not cover: the tournaments scored geopolitical forecasts by trained volunteers on a scoring website, not personal beliefs and fears in a notebook. The calibration improvements came with the tournament's training, teaming, and tracking manipulations; a solo notebook is an adaptation with none of that machinery. The habit borrows the tournament's logic, not its results.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D075 — Don't underestimate challenges|D075 Don't underestimate challenges]]

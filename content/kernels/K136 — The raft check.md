@@ -37,6 +37,8 @@ What this evidence does not test: the check as a practice. The simile is a teach
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D022 — Subtract, don't add|D022 Subtract, don't add]]

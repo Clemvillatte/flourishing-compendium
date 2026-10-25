@@ -41,6 +41,8 @@ The empirical base is quoted above: those who analyze negative experiences from 
 - [Marcus Aurelius, Meditations, Book IX, chapter 29 (Project Gutenberg ebook 2680)](https://www.gutenberg.org/files/2680/2680-h/2680-h.htm): passage quoted verbatim.
 - [Kross, E., & Ayduk, O. (2011), "Making Meaning out of Negative Experiences by Self-Distancing", Current Directions in Psychological Science 20(3), 187-191 (PDF)](https://rascl.studentorg.berkeley.edu/assets/files/kross_ayduk_2011_cd.pdf): definition and findings quoted verbatim.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[S001 — Distinguish what is up to you from what is not|S001 Distinguish what is up to you from what is not]]

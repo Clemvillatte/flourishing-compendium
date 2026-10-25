@@ -32,6 +32,8 @@ What this evidence does not test: the architecture. The study followed ten parti
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D054 — Practice daily — small consistent effort compounds|D054 Practice daily: small consistent effort compounds]]

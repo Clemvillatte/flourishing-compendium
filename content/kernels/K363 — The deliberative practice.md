@@ -50,6 +50,8 @@ The [Round Robin sheet from the Brushy Fork Institute](https://legacy.berea.edu/
 - [Charlan J. Nemeth, research description, UC Berkeley Psychology](https://psychology.berkeley.edu/people/charlan-j-nemeth)
 - [Brushy Fork Institute, "Facilitation Techniques for Group Discussions"](https://legacy.berea.edu/brushy-fork-institute/wp-content/uploads/sites/38/2020/08/Facilitation-Techniques-for-Group-Discussions_June2020.pdf)
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[A023 — Practice justice (dikaiosyne)|A023 Practice justice (dikaiosyne)]]

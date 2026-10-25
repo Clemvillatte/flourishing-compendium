@@ -27,6 +27,8 @@ In a remote randomised controlled trial, more than one hundred volunteers perfor
 
 A short demonstration and explanation by Dr. Andrew Huberman is [Reduce Anxiety and Stress with the Physiological Sigh](https://www.youtube.com/watch?v=rBdhqBGqiMc).
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[BI046 — Learn the physiological sigh — an exhale-focused breathing practice|BI046 Learn the physiological sigh: an exhale-focused breathing practice]]

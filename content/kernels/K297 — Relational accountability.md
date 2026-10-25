@@ -43,6 +43,8 @@ What this evidence does not test: the cited research compared apology and denial
 
 Not applicable: the practice is a tracked commitment, not a recording.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[A023 — Practice justice (dikaiosyne)|A023 Practice justice (dikaiosyne)]]

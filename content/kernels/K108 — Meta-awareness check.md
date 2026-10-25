@@ -27,6 +27,8 @@ The best-motivating datum for this kernel comes from a large experience-sampling
 
 The study's own instrument is free to use: [Track Your Happiness](https://www.trackyourhappiness.org/) sends random probes to your phone, exactly as it did for the research participants, and shows you your own wandering statistics.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D050 — Keep a mirror-mind|D050 Keep a mirror-mind]]

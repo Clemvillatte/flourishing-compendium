@@ -48,6 +48,8 @@ The [Steel-Man Challenge Worksheet from Argumend for Educators](https://argumend
 - [Brown, E. (2003), "Rawls and the Duty of Civility", IWM Junior Visiting Fellows' Conferences Vol. XV/1 (carrying the Political Liberalism p. 217 passage)](https://files.iwm.at/uploads/jc-15-01.pdf)
 - [Argumend for Educators, Steel-Man Challenge Worksheet](https://argumend.org/for-educators/worksheets/steel-man-challenge)
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[A023 — Practice justice (dikaiosyne)|A023 Practice justice (dikaiosyne)]]

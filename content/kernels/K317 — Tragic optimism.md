@@ -40,6 +40,8 @@ Frankl names the three turnings verbatim: tragic optimism is "an optimism in the
 - [Frankl, V. E. (1984), "The Case for a Tragic Optimism", postscript to Man's Search for Meaning](https://www.scribd.com/document/533486014/Viktor-Frankl-The-Case-for-a-Tragic-Optimism): verbatim definitions of the tragic triad, the three turnings, and saying yes to life in spite of everything.
 - [Helgeson, V. S., Reynolds, K. A., & Tomich, P. L. (2006), "A Meta-analytic Review of Benefit Finding and Growth", Journal of Consulting and Clinical Psychology 74(5): 797-816](https://pubmed.ncbi.nlm.nih.gov/17032085/): verbatim abstract; 87 cross-sectional studies, benefit finding related to less depression and more positive well-being but also more intrusive and avoidant thoughts.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[E011 — Practise phenomenological description|E011 Practise phenomenological description]]

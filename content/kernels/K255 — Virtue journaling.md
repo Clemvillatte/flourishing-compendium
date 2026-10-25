@@ -32,6 +32,8 @@ What this evidence does not test: virtues. The review covered 22 studies of logg
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[A004 — Become virtuous by doing virtuous acts|A004 Become virtuous by doing virtuous acts]]

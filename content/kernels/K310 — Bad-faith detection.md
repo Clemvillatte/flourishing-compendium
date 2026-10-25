@@ -40,6 +40,8 @@ Sartre's ground for the diagnosis: if "existence precedes essence, one will neve
 - [Sartre, J.-P. (1946), Existentialism is a Humanism](https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm): verbatim passages on no determinism, being left without excuse, and being condemned to be free.
 - [Maier, S. F., & Seligman, M. E. P. (2016), "Learned Helplessness at Fifty: Insights From Neuroscience", Psychological Review 123(4): 349-367](https://ppc.sas.upenn.edu/sites/default/files/learnedhelplessnessat50.pdf): verbatim abstract; passivity as the default unlearned response, overcome by learning control.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[E007 — Practise eidetic seeing|E007 Practise eidetic seeing]]

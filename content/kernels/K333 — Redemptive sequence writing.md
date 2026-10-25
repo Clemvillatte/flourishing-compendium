@@ -41,6 +41,8 @@ The study that named the form reports an association directly: "in both samples,
 - [McAdams, D. P., Reynolds, J., Lewis, M., Patten, A. H., & Bowman, P. J. (2001), "When Bad Things Turn Good and Good Things Turn Bad: Sequences of Redemption and Contamination in Life Narrative and Their Relation to Psychosocial Adaptation in Midlife Adults and in Students", Personality and Social Psychology Bulletin 27(4): 474-485](https://www.beyondutopia.net/leadership-lectures/mcadams-1.pdf): verbatim abstract and definition; redemption sequences associated with well-being in both samples, contamination sequences with lower well-being in midlife adults.
 - [Pennebaker, J. W. (2018), "Expressive Writing in Psychological Science", Perspectives on Psychological Science 13(2)](https://journals.sagepub.com/doi/full/10.1177/1745691617707315): verbatim findings, including the .16 average effect size and the replication record.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[E008 — Practise the structure of temporality|E008 Practise the structure of temporality]]

@@ -46,6 +46,8 @@ The [Seeing Other People As Human Beings Rather Than Labels exercise at Mindfuln
 - [Senju, A., & Johnson, M. H. (2009), "The eye contact effect: mechanisms and development", Trends in Cognitive Sciences 13(3), 127–134 (PubMed)](https://pubmed.ncbi.nlm.nih.gov/19217822/)
 - [Seeing Other People As Human Beings Rather Than Labels, Mindfulness Exercises](https://mindfulnessexercises.com/seeing-other-people-as-human-beings/)
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[E003 — Practise the natural attitude and its suspension|E003 Practise the natural attitude and its suspension]]

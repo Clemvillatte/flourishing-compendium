@@ -49,6 +49,8 @@ The [Active Listening practice at Greater Good in Action](https://ggia.berkeley.
 - [Weger, H., Castle Bell, G., Minei, E. M., & Robinson, M. C. (2014), "The Relative Effectiveness of Active Listening in Initial Interactions", International Journal of Listening 28(1), 13–31 (UCF STARS record)](https://stars.library.ucf.edu/scopus2010/9657/)
 - [Greater Good in Action, Active Listening practice](https://ggia.berkeley.edu/practice/active_listening)
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[A063 — Recognise that friendship is necessary for flourishing|A063 Recognise that friendship is necessary for flourishing]]

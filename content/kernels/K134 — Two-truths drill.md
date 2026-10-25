@@ -28,6 +28,8 @@ The empirical ground is the consider-the-opposite strategy: "individuals who are
 
 Not applicable: the drill is an argument written for oneself, not a recording.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D080 — Dissolve rigid right and wrong (qiwu)|D080 Dissolve rigid right and wrong (qiwu)]]

@@ -36,6 +36,8 @@ Why action rather than argument: in the clinical model, "this experiential appro
 
 What the guide does not establish: it is clinical guidance for therapists delivering cognitive therapy for anxiety disorders and PTSD, drawn from the authors' treatment programs. It does not test self-run experiments by people treating their own ordinary beliefs, and the meetings example is this page's own.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D073 — Don't over-plan — act from presence|D073 Don't over-plan: act from presence]]

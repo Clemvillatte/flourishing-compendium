@@ -36,6 +36,8 @@ Outside the walk context, the awe walkers "reported greater increases in daily p
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D008 — See the oneness of things|D008 See the oneness of things]]

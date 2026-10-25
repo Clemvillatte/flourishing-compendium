@@ -32,6 +32,8 @@ What this evidence does not test: the letting-go. Thirty-one participants did an
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D008 — See the oneness of things|D008 See the oneness of things]]

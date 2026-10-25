@@ -32,6 +32,8 @@ What this evidence does not test: the pause. The diary studies asked participant
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D044 — Let the mud settle|D044 Let the mud settle]]

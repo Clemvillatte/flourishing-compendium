@@ -29,6 +29,8 @@ The CCT program itself has direct randomised-trial evidence. Jazaieri and collea
 
 A free guided compassion meditation with the same loved-one-to-difficult-person arc, produced by Eve Ekman of UC Berkeley's Greater Good Science Center, is available at [Compassion Meditation, Greater Good in Action](https://ggia.berkeley.edu/practice/compassion_meditation).
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D031 — Treasure 1 — compassion (ci)|D031 Treasure 1: compassion (ci)]]

@@ -30,6 +30,8 @@ The disposition research: "Seven samples revealed negative correlations between 
 
 What the research does not cover: the studies measure dispositions and everyday consumer decisions, not pre-written sufficiency lines in life domains. What the studies show is that the people who keep searching fare worse in regret and well-being, and the China result says the pattern is not universal.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D019 — Know what is enough (zhizu)|D019 Know what is enough (zhizu)]]

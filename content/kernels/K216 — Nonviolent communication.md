@@ -32,6 +32,8 @@ What this evidence does not test: your conflicts. The trial taught the four-step
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D068 — Yield in conflict to remain whole|D068 Yield in conflict to remain whole]]

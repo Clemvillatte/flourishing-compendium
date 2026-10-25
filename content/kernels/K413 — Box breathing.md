@@ -32,6 +32,8 @@ A 2026 PRISMA review of box-breathing randomised trials (Dujawara, Ali & Kumari,
 
 A clean metronome-paced guide, with the four counts spoken and then left to the bell, is [Box Breathing, a 5-minute guided meditation by Mindfully Stoic](https://www.youtube.com/watch?v=-kR9rWAhaX0).
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D038 — Keep stillness — stillness masters restlessness|D038 Keep stillness: stillness masters restlessness]]

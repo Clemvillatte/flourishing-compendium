@@ -40,6 +40,8 @@ The Stoic ground is quoted above, and the Confucian tradition addresses the same
 - [Epictetus, Enchiridion, Chapter 17 (Elizabeth Carter trans.)](https://classics.mit.edu/Epictetus/epicench.html): verbatim passage on acting well the character assigned.
 - [Confucius, The Analects, Book 12, passage 11 (James Legge trans., Chinese Text Project)](https://ctext.org/analects/yan-yuan): verbatim passage on the prince being prince and the father a father.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[S010 — Practise oikeiosis — appropriate self-love|S010 Practise oikeiosis: appropriate self-love]]

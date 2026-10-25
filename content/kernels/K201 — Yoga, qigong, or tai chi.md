@@ -27,6 +27,8 @@ A systematic review of meditative movement practices, the family that includes q
 
 A quiet gem for starting qigong at home is [Learn Qigong with Christopher Grant and Daniela Hess](https://www.learnqigong.com/videos/), a small studio operation with two decades of teaching behind it and a free video library: a 14-minute morning routine called the Magic 5, an 8-minute tension-release routine, a 24-minute class for a heavy heart, and longer beginner classes, each on its own page with notes. For a free structured course with theory, [Long White Cloud Qigong](https://longwhitecloudqigong.com/free-qigong-videos/) offers a complete introduction to qigong principles with follow-along videos. Both are the kind of local-studio-quality resource that is hard to find by search alone.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D141 — Care for life as the root of all endeavor|D141 Care for life as the root of all endeavor]]

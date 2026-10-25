@@ -28,6 +28,8 @@ The mechanism is the context-dependence of habits: "when usual contexts for perf
 
 Not applicable: the practice is a change made to one's own routines, not a recording.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D054 — Practice daily — small consistent effort compounds|D054 Practice daily: small consistent effort compounds]]

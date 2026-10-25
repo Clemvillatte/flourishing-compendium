@@ -32,6 +32,8 @@ What this evidence does not test: the ordering rule. In two experiments where pe
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[A063 — Recognise that friendship is necessary for flourishing|A063 Recognise that friendship is necessary for flourishing]]

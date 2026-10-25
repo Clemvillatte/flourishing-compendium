@@ -32,6 +32,8 @@ What this evidence does not test: the empty boat itself. In five studies, partic
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D088 — Don't take offense personally (the empty boat)|D088 Don't take offense personally (the empty boat)]]

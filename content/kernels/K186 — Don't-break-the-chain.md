@@ -26,6 +26,8 @@ The habit-formation evidence sits in tension with the technique's "never break i
 
 Not applicable: the practice is a calendar and a marker; there is nothing to be guided through.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D054 — Practice daily — small consistent effort compounds|D054 Practice daily: small consistent effort compounds]]

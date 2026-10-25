@@ -27,6 +27,8 @@ The construct behind this kernel is attention residue, defined by Sophie Leroy a
 
 No recording is needed; the three breaths are the guide. The studied written form is the one-line ready-to-resume note described in the protocol above.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D042 — Guard the center|D042 Guard the center]]

@@ -32,6 +32,8 @@ What this evidence does not test: the question itself. The article is a theoreti
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D050 — Keep a mirror-mind|D050 Keep a mirror-mind]]

@@ -32,6 +32,8 @@ What this evidence does not test: the practice. The study surveyed 1,775 visitor
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[R011 — Practise harmony|R011 Practise harmony]]

@@ -31,6 +31,8 @@ The review's logic is maintenance, not therapy: Allen's system treats the weekly
 
 What the research does not cover: the cited checklist does not establish efficacy, and this page claims none. The kernel-category sweep, the firing-or-starving language, and the feed-the-hungriest rule are this practice's own.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D054 — Practice daily — small consistent effort compounds|D054 Practice daily: small consistent effort compounds]]

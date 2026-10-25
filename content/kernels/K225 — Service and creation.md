@@ -30,6 +30,8 @@ The longitudinal panel (585 retirement-community elders, two waves three years a
 
 What the research does not cover: the studies measure helping among older adults and support given by parents to grown children; they do not test a weekly service-or-creation practice, and the timeline framing (outliving your mood, outlasting the week) is this page's own. The finding that helping tracks the positive indicators and not the negative ones is worth keeping in view: these studies speak to positive states and do not address what the practice might do for darker ones.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D001 — Align your life with the Dao|D001 Align your life with the Dao]]

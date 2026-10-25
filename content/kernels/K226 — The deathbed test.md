@@ -28,6 +28,8 @@ The research programme behind this kernel is Hal Hershfield's work on the future
 
 Not applicable: the test is a question asked of one's own judgment, not a recording.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D090 — Accept death as transformation|D090 Accept death as transformation]]

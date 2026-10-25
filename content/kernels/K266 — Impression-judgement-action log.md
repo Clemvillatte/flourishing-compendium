@@ -43,6 +43,8 @@ What this evidence does not test: the cited research did not evaluate a three-co
 
 Not applicable: the practice is a ruled page and a week of entries, not a recording.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 - [[T011 — Socrates]]: the source of the Enchiridion quote the page's log runs on.
 

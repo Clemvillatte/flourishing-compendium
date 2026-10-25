@@ -63,6 +63,8 @@ No clinical trial of the microcosmic orbit appears in the sources. Kohn presents
 - [Kohn, L. (2010), Sitting in Oblivion: The Heart of Daoist Meditation, Three Pines Press — owner's Drive copy of the book](https://drive.google.com/uc?export=download&id=1RO92-oZ64aGydm5IomYUC_XIqLnaN3Gc) — Jiang Weiqiao (Master Yinshi) described as moving from quiet sitting into "the circulation of qi in inner alchemical fashion, establishing the microcosmic orbit" (printed p. 13, note 13)
 - [Voigt, J., "Microcosmic Orbit", Qi Encyclopedia](https://qi-encyclopedia.com/article.php?&id=163) — the modern practice summary opened for this page: the rotating-ball preparation in the dantian, the point-by-point circuit (perineum and base of spine, Du Mai ascent through Mingmen, the T-8/T-9 point, the point between the shoulder blades, Dazhui, Naohu and Baihui, then Yintang, the tongue tip at the gum line, and the Ren Mai descent through the throat, Shanzhong, Zhongwan and Qihai back to the perineum), the about-nine-or-more cycles, the dantian storage and fifteen-minute cap, the rising-on-inhale breath guidance, and the unsupervised-practice warning ("Qi Deviations")
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D146 — Cultivate your qi — vitality|D146 Cultivate your qi — vitality]]

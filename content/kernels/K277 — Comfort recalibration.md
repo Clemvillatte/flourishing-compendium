@@ -52,6 +52,8 @@ What this evidence does not test: the cited work is an overview of a clinician-d
 
 Not applicable: the practice is a chosen discomfort and a question, not a recording.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 - [[T013 — Seneca]]: the Letter 18 practice of days with inexpensive food behind deliberate discomfort.
 

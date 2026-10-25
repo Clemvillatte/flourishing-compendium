@@ -28,6 +28,8 @@ In the randomised, placebo-controlled internet study, the gratitude visit produc
 
 Not applicable: the exercise is a letter delivered to a person, not a recording.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D030 — Contentment is the greatest wealth|D030 Contentment is the greatest wealth]]

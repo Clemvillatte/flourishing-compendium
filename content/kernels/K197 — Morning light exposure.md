@@ -28,6 +28,8 @@ The circadian system is "entrained to the 24-h light-dark cycle via light exposu
 
 Not applicable: the practice is standing in daylight, not a recording.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D141 — Care for life as the root of all endeavor|D141 Care for life as the root of all endeavor]]

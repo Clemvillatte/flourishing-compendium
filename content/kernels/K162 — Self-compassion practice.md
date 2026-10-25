@@ -27,6 +27,8 @@ A meta-analysis of 20 samples from 14 studies, all using Neff's Self-Compassion 
 
 The break is taught by its developer in [Self Compassion Break with Kristin Neff, from the Center for Mindful Self-Compassion](https://www.youtube.com/watch?v=p7z3ybkn9DU).
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D031 — Treasure 1 — compassion (ci)|D031 Treasure 1: compassion (ci)]]

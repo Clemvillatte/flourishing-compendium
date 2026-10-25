@@ -47,6 +47,8 @@ The [Moral Exemplars module at LibreTexts](https://biz.libretexts.org/Bookshelve
 - [Han, H., et al., "Considerations for Effective Use of Moral Exemplars in Education"](https://philarchive.org/archive/HANCFE)
 - [Moral Exemplars in Business and Professional Ethics, LibreTexts](https://biz.libretexts.org/Bookshelves/Management/Book%3A_Corporate_Governance_%28Frey_and_CruzCruz%29/01%3A_Ethical_Leadership/1.04%3A_Moral_Exemplars_in_Business_and_Professional_Ethics)
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[A004 — Become virtuous by doing virtuous acts|A004 Become virtuous by doing virtuous acts]]

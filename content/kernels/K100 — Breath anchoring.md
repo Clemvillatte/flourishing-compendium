@@ -49,6 +49,8 @@ A free, high-quality guided session is the [Breathing Meditation (5 minutes) fro
 - [Lutz et al. (2008), "Attention regulation and monitoring in meditation", Trends in Cognitive Sciences, PubMed](https://pubmed.ncbi.nlm.nih.gov/18329323/)
 - [Mrazek et al. (2013), "Mindfulness training improves working memory capacity and GRE performance while reducing mind wandering", Psychological Science, PubMed](https://pubmed.ncbi.nlm.nih.gov/23538911/)
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D037 — Empty the heart-mind (xuxin)|D037 Empty the heart-mind (xuxin)]]

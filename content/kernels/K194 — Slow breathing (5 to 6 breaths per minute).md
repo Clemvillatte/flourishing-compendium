@@ -27,6 +27,8 @@ A systematic review of slow breathing techniques, under ten breaths per minute, 
 
 A well-made pacing session is [Guided Breath Session, Coherent Breathing, 5 Breaths Per Minute, by BE Light TT](https://www.youtube.com/watch?v=TJlGitn8sEo).
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D038 — Keep stillness — stillness masters restlessness|D038 Keep stillness: stillness masters restlessness]]

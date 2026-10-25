@@ -32,6 +32,8 @@ What this evidence does not test: the Stoic form. In the trial, 95 undergraduate
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 - [[T013 — Seneca]]: the On Anger 3.36 nightly review the kernel's three questions descend from.
 

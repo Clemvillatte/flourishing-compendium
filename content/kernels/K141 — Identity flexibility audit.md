@@ -32,6 +32,8 @@ What this evidence does not test: the audit. The model proposes that the effects
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D087 — Hold identity lightly|D087 Hold identity lightly]]

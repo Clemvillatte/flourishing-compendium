@@ -32,6 +32,8 @@ What this evidence does not test: the practice. The paper is a theoretical revis
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[E011 — Practise phenomenological description|E011 Practise phenomenological description]]

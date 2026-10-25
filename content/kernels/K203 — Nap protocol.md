@@ -26,6 +26,8 @@ The duration rule traces to Brooks and Lack's comparison of short afternoon nap 
 
 Not applicable: a nap is inherently unguided; there is no instruction track beyond an alarm.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D039 — Make rest the root of activity|D039 Make rest the root of activity]]

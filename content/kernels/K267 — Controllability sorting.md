@@ -35,6 +35,8 @@ What the studies do not test: these are correlational, small-to-moderate effects
 
 Two exist. The [Circle of Control guided meditation by Michael Scott on Insight Timer](https://insighttimer.com/michaelscott/guided-meditations/circle-of-control) does the sorting in audio; its own description says it will "guide you to focus your energy on the things you can control". On paper, the Oxford MPLS [Circles of Concern, Influence and Control exercise](https://www.mpls.ox.ac.uk/files/training/circles-of-influence) has you list your concerns, sort them into the circles of concern, influence, and innermost control, and ask which could move inward.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[S001 — Distinguish what is up to you from what is not|S001 Distinguish what is up to you from what is not]]

@@ -30,6 +30,8 @@ The barista experiment randomized customers to be social or efficient: "Compared
 
 What the research does not cover: neither study tested greetings as such. The barista study tested brief conversations at a counter; the commuter studies tested whole conversations. A ten-day instruction to increase weak-tie interactions produced "increased flourishing over time" and a marginal drop in loneliness, but "Neither people in the strong tie condition nor people in the weak tie condition showed broad, sustained changes in subjective well-being or belonging" (Sandstrom, 2013, Study 6). Greeting neighbors on purpose sits between them.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D031 — Treasure 1 — compassion (ci)|D031 Treasure 1: compassion (ci)]]

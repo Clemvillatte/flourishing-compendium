@@ -40,6 +40,8 @@ The evidence is quoted above. The empirical ground is Tyler's synthesis of the p
 - [Rawls, J., A Theory of Justice (excerpts, University of Wisconsin course PDF)](https://wisc.pb.unizin.org/app/uploads/sites/26/2017/05/Rawls.pdf): opening of "The Role of Justice" and statement of the subject of justice quoted verbatim.
 - [Tyler, T. R. (2007-08), "Procedural Justice and the Courts", Court Review 44, 26-31 (UNC School of Government PDF)](https://www.sog.unc.edu/sites/default/files/course_materials/Procedural%20Justice%20in%20the%20Courts%20-%20Tyler.pdf): four principles and conflict-management sentence quoted verbatim.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[A023 — Practice justice (dikaiosyne)|A023 Practice justice (dikaiosyne)]]

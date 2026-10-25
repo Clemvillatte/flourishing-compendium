@@ -47,6 +47,8 @@ The same study's abstract records that over time people "disassociate the conten
 
 Not covered: these are experiments on opinion change after messages attributed to sources of differing credibility, not tests of a written self-examination drill, and Linji's instruction is a religious teaching, not a studied intervention.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D080 — Dissolve rigid right and wrong (qiwu)|D080 Dissolve rigid right and wrong (qiwu)]]

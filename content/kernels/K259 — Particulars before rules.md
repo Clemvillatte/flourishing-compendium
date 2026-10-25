@@ -38,6 +38,8 @@ The carrier here is the primary text, not trials. Aristotle's diagnosis of what 
 
 Not applicable: the practice is a written description of one situation, not a recording.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[A037 — Distinguish cleverness (deinotes) from practical wisdom|A037 Distinguish cleverness (deinotes) from practical wisdom]]

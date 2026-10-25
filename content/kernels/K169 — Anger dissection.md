@@ -31,6 +31,8 @@ The components come from two lines of work. The componential view of emotion hol
 
 What the research does not cover: neither work tested a dissection practice or its outcomes. Kuppens et al. collected descriptions of recalled situations, and the component framing is their reading of the field. The values question in step 6 is this practice's own wording, not study material.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D074 — Don't fight angry|D074 Don't fight angry]]

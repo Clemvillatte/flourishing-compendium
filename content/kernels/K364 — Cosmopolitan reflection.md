@@ -40,6 +40,8 @@ The contact evidence is quoted above: 515 studies, 713 independent samples, 250,
 - [Pettigrew, T. F., & Tropp, L. R. (2006), "A Meta-Analytic Test of Intergroup Contact Theory", Journal of Personality and Social Psychology 90(5), 751-783 (PDF, Stanford SPARQ)](https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/pettigrew_tropp_2006_-_intergroup_contact_theory.pdf): abstract and results quoted verbatim.
 - [Marcus Aurelius, Meditations, Book 6, chapter 44 (Project Gutenberg ebook 2680)](https://www.gutenberg.org/files/2680/2680-h/2680-h.htm): passage quoted verbatim.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[A063 — Recognise that friendship is necessary for flourishing|A063 Recognise that friendship is necessary for flourishing]]

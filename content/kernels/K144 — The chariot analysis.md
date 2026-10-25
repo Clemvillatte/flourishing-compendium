@@ -37,6 +37,8 @@ A separate comparison is research on self-distanced reasoning rather than on the
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D087 — Hold identity lightly|D087 Hold identity lightly]]

@@ -28,6 +28,8 @@ No randomised trial has tested the Inner Smile itself, so the honest framing is 
 
 A longtime Daoist teacher, who co-authored books with Mantak Chia, guides the full practice in [Inner Smile Meditation, by Kris Deva North](https://www.youtube.com/watch?v=eoZQB_Su4tA).
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D031 — Treasure 1 — compassion (ci)|D031 Treasure 1: compassion (ci)]]

@@ -44,6 +44,8 @@ What this evidence does not test: the cited research is an observational panel, 
 
 Not applicable: the practice is a monthly self-review, not a recording.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[S011 — Recognise the three topoi — the three disciplines|S011 Recognise the three topoi: the three disciplines]]

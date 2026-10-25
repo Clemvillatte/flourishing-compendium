@@ -34,6 +34,8 @@ A clear guided session for cravings and habits is [Urge Surfing, 20 Minute Mindf
 - **and the 90-second wave** — Bowen et al., 2011; Taylor, 2006
 - **in mindfulness-based relapse prevention** — Bowen et al., 2011
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D021 — Reduce desires (guayu)|D021 Reduce desires (guayu)]]

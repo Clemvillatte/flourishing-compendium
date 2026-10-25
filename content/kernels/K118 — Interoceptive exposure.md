@@ -28,6 +28,8 @@ The component-control meta-analysis of 72 studies with 4064 participants, review
 
 Not applicable as a recording: the exposure is the deliberate induction of sensations in the body, not a listening exercise.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D077 — Avoid unnecessary danger|D077 Avoid unnecessary danger]]

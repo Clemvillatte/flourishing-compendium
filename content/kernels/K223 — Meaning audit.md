@@ -33,6 +33,8 @@ On the activity side of the audit, an experience-sampling study of 62 students f
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D001 — Align your life with the Dao|D001 Align your life with the Dao]]

@@ -28,6 +28,8 @@ The practice is an instance of what Butler called the life review: "I conceive o
 
 Not applicable: the letter is itself the artefact; a recording would duplicate it.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D090 — Accept death as transformation|D090 Accept death as transformation]]

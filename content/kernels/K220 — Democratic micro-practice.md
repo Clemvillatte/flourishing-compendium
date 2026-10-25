@@ -28,6 +28,8 @@ In two studies with 699 people working in groups of two to five, a general colle
 
 Not applicable: the practice is the distribution of speaking turns in a live group, not a recording.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D114 — Don't contend (buzheng)|D114 Don't contend (buzheng)]]

@@ -37,6 +37,8 @@ Peirce's own worked example, on hardness: "There is absolutely no difference bet
 
 No public guided recording of the maxim exists. The nearest worked guide is the [Internet Encyclopedia of Philosophy's walkthrough of Peirce's method](https://iep.utm.edu/peircepr/): take a concept, derive its conditional expectations in the form "if X, then doing A will yield experience B" (their example: "if vinegar is acetic acid, then if I dip litmus paper into it, it will turn red"), and keep listing conditionals until the concept's practical content is exhausted. The list is the guide; there is nothing to listen to.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D016 — Distrust names and labels|D016 Distrust names and labels]]

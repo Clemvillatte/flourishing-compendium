@@ -35,6 +35,8 @@ The cited studies concern terminally ill patients in palliative care working wit
 
 For this everyday adaptation, use the prompts above.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[E011 — Practise phenomenological description|E011 Practise phenomenological description]]

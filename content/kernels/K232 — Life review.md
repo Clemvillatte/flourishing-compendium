@@ -30,6 +30,8 @@ The concept comes from Butler, who postulated "the universal occurrence of an in
 
 What the research does not cover: the trials tested life review as a structured intervention for older adults, mostly with depression as the outcome, not a self-administered chapter review for well-being. Butler's claim was about a naturally occurring process in older people, not a scheduled exercise. The chapter-review routine as laid out here has no direct test in either source.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D090 — Accept death as transformation|D090 Accept death as transformation]]

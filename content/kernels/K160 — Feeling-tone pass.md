@@ -28,6 +28,8 @@ The instruction descends from the second establishment of mindfulness in the Sat
 
 Not applicable: the pass is a moment of naming done in the course of a day, not a recording.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D050 — Keep a mirror-mind|D050 Keep a mirror-mind]]

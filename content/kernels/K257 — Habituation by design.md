@@ -33,6 +33,8 @@ The psychological mechanism, from the review of habit research: "habits form as 
 
 None located; the plan is a written scaffold rather than a guided exercise. The search's nearest neighbours turned out to train different mechanisms: exposure-habituation worksheets for anxiety (staying in a feared situation until the wave falls) and meditations for interrupting habitual reactions, neither of which is the daily repetition of a chosen act this page prescribes.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[A004 — Become virtuous by doing virtuous acts|A004 Become virtuous by doing virtuous acts]]

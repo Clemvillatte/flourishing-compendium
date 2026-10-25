@@ -40,6 +40,8 @@ The neural claim is quoted directly: "incentive salience or 'wanting', a form of
 
 - [Berridge, K. C., & Robinson, T. E. (2016), "Liking, Wanting, and the Incentive-Sensitization Theory of Addiction", American Psychologist 71(8): 670-679](https://sites.lsa.umich.edu/berridge-lab/wp-content/uploads/sites/743/2019/10/2016-Berridge-Robinson-Liking-wanting-IS-theory-of-addiction-Am-Psychol.pdf): verbatim dissociation of wanting and liking circuitry, dopamine dependence of wanting only, and the persistence of sensitized wanting in addiction.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[S006 — Remember that you are a citizen of the cosmos|S006 Remember that you are a citizen of the cosmos]]

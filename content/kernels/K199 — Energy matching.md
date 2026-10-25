@@ -32,6 +32,8 @@ What this evidence does not test: the match. The review pooled 15 studies of bre
 
 No guided version is supplied here.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D053 — Balance alertness and ease|D053 Balance alertness and ease]]

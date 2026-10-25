@@ -30,6 +30,8 @@ What the cited studies do not test: neither tests a directed rewrite of a painfu
 
 No official recording exists. The guided form of the same rewriting is the [Expressive Writing practice at Greater Good in Action](https://ggia.berkeley.edu/practice/expressive_writing), a step-by-step version of the Pennebaker protocol: twenty minutes a day for four days in a row, writing freely about your deepest thoughts and feelings around an emotionally challenging hurt, tying it to your childhood, relationships or career as it leads, without editing or judging, with an optional fifth move of rewriting from the perspective of a neutral observer or of the other people involved.
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D087 — Hold identity lightly|D087 Hold identity lightly]]

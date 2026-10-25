@@ -48,6 +48,8 @@ A research-team-designed exercise exists: the [prosocial spending teaching activ
 - **and volunteering effects**
 - **and acts of kindness** — Dunn, Aknin and Norton, 2008
 
+> **Therapeutic approach: general**
+
 ## Operationalises
 
 - [[D031 — Treasure 1 — compassion (ci)|D031 Treasure 1: compassion (ci)]]
