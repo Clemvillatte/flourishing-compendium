@@ -15,5 +15,7 @@
    "from": "worker-pplx-ef15b6c9-dos35",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T06:16:53+00:00"
 }
