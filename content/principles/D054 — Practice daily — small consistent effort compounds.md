@@ -19,20 +19,20 @@ The Daodejing describes large undertakings beginning with something small:
 
 Wilhelm's commentary on The Secret of the Golden Flower also urges continuity in its light-circulation practice. Its hundred-day instruction belongs to that specific spiritual setting, with qualifications about effort and bodily constitution ([commentary on sections 3 and 8](https://archive.org/stream/TheSecretOfTheGoldenFlowerByRichardWilhelmAndCarlJung/The+Secret+of+the+Golden+Flower+by+Richard+Wilhelm+and+Carl+Jung_djvu.txt)).
 
-A separate health-behaviour study recruited 96 volunteers for 12 weeks using self-reported automaticity. Eighty-two supplied sufficient data for analysis; 39 of the 62 fitted models showed a good fit. Modelled times to reach 95% of the automaticity plateau ranged from 18 to 254 days. The abstract reports:
+A separate 12-week study asked 96 volunteers to report how automatic their chosen health behaviour felt; 39 of the 62 fitted models showed a good fit ([Lally et al., 2010, abstract](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674)). Modelled times to reach 95% of the automaticity plateau ranged from 18 to 254 days, so the study supplies no single deadline for forming a habit ([same abstract](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674)). It also reports:
 
 > Missing one opportunity to perform the behaviour did not materially affect the habit formation process.
 > ([Lally et al., 2010, publisher's abstract](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674).)
 
-These observations concern eating, drinking and activity habits. They do not establish a timetable for meditation, spiritual attainment or wisdom.
+The behaviours studied involved eating, drinking or physical activity, not meditation or wisdom development ([Lally et al., 2010](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674)). I would use the finding to temper impatience with a routine, not to turn a spiritual text's hundred days into a scientific deadline.
 
 ### Plain words
 
-Repeated action in a consistent setting can become more automatic. That change develops over time, and one missed occasion need not erase it. Choose a cue you can realistically return to, while continuing to review whether the practice itself is useful.
+Choose a useful action small enough to repeat, and return to it after a missed day.
 
 ### For example
 
-Suppose you want to read a demanding philosophical text. You might read one paragraph after breakfast and write down a question it raises. If you miss a morning, return at the next suitable opportunity and reconsider the arrangement if it repeatedly fails.
+Suppose you want to read a demanding philosophical text. Try one paragraph after breakfast and write down a question it raises. If you miss a morning, return at the next suitable opportunity. After several attempts, ask whether the arrangement helps you understand the book, rather than treating an unbroken streak as the whole point. This is a suggested reading routine, not a tested method for developing wisdom.
 
 ## Sources
 - [[T036 — Hadot, Pierre]]: the spiritual-exercises parallel (Philosophy as a Way of Life) the page lists.

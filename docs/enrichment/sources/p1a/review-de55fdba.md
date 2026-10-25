@@ -62,3 +62,17 @@ Changes: converted Plain words to one direct sentence; personally owned the prac
 The owner requested release before the original run cap. Five principles were repaired and pushed: D031, D087, D019, D001 and D055. D054 had only been reopened for review; no changes were made to its principle file. Its pre-existing done status is restored with a deferred-review flag, not claimed as a sixth repair.
 
 The launched separate-account worker still requires a credential handoff and is not claimed as authenticated for repository writes. A further account reached onboarding but no task was submitted there; the latest requested account was not launched. No raw token was included in a worker message, repository file or log by this session.
+
+## Owner-authorized resumption
+
+The owner subsequently authorized resuming the work session. Refreshed origin/main, confirmed p1a remained released, reclaimed it and resumed D054 under the original clock rather than starting another hour. Account launches remain aside.
+
+## D054: Practice daily
+
+Opened through search and fetch:
+
+- [Laozi, *Tao Teh King*, Legge translation, chapter 64 §2](https://www.gutenberg.org/files/216/216-h/216-h.htm). Verified the retained sprout/tower/journey quotation, including the translator's parenthetical “small.”
+- [*The Secret of the Golden Flower*, Wilhelm/Baynes edition, sections 3 and 8 and their explanatory commentary](https://archive.org/stream/TheSecretOfTheGoldenFlowerByRichardWilhelmAndCarlJung/The+Secret+of+the+Golden+Flower+by+Richard+Wilhelm+and+Carl+Jung_djvu.txt). Read the relevant passages through targeted extraction and then fetched the longer OCR text for independent checking. The hundred-day instruction is in the translated spiritual text and restated in Wilhelm's commentary; the commentary on section 8 qualifies it by industry and physical constitution. It is not a modern finding about habit formation.
+- [Lally, van Jaarsveld, Potts and Wardle, “How are habits formed: Modelling habit formation in the real world,” *European Journal of Social Psychology* 40 (2010), 998–1009, publisher abstract](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674). Opened both the DOI landing page and this exact preserved link. Verified 96 volunteers, 12 weeks, self-reported automaticity, 62 fitted models with 39 good fits, the modelled 18–254-day range and the retained sentence about one missed opportunity. The fetched page provides the abstract, not the full study; no methods or causal claim beyond that abstract is inferred.
+
+Changes: made the modelled, self-reported character of the evidence explicit with sentence-level citations. Replaced the three-sentence Plain words section with one practical sentence. The reading example now checks usefulness rather than glorifying a streak; it is explicitly a suggested routine, not an evidence-based wisdom intervention. Preserved front matter, opening statement, all existing links and reflection. A separately opened exercise-habit abstract was not added because it would introduce a second population and a distracting six-week timetable.
