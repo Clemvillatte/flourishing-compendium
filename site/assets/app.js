@@ -3741,7 +3741,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"See what a man does. Mark his motives. Examine in what things he rests.\" ([Confucius, Analects 2.10, Legge translation](https://www.gutenberg.org/cache/epub/3330/pg3330.html))",
+          "x": "\"See what a man does. ... Mark his motives. ... Examine in what things he rests.\" ([Confucius, Analects 2.10, Legge translation](https://www.gutenberg.org/cache/epub/3330/pg3330.html))",
           "s": null
         },
         {

@@ -48,7 +48,7 @@ The doctrine of the mean is often read as advice to be moderate, and that misses
 
 Judging people is part of the same skill. Confucius gives a three-part method:
 
-> "See what a man does. Mark his motives. Examine in what things he rests." ([Confucius, Analects 2.10, Legge translation](https://www.gutenberg.org/cache/epub/3330/pg3330.html))
+> "See what a man does. ... Mark his motives. ... Examine in what things he rests." ([Confucius, Analects 2.10, Legge translation](https://www.gutenberg.org/cache/epub/3330/pg3330.html))
 
 The third look is the deepest, since conduct can be performed and motives can be narrated kindly. What a person settles into when nothing is pressing is harder to arrange. That is the reading given on the page for [judging by where one rests](https://clemvillatte.github.io/flourishing-compendium/#card=Judging%20by%20where%20one%20rests), and it shows how much of wisdom is attention.
 

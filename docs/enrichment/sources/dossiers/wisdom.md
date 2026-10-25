@@ -167,3 +167,76 @@ review only; no external carriers freshly opened this pass.
 ## Rewrite in the validated model (2026-10-25)
 
 Quotes re-opened for this rewrite and matched against the wording on the page: Analects 2.10 (Legge, Gutenberg 3330, sentences split across numbered lines), Baltes and Staudinger 2000 (PubMed 11392856 abstract), Eyal, Steffel and Epley 2018 (PubMed 29620401), Kounios and Beeman 2014 (PubMed 24405359), Sanderse 2020 (Taylor and Francis abstract), Erikson via Javed and Kakul 2023 (MDPI, quote of Erikson as printed there), Grossmann 2021 (SAGE abstract), Grossmann and Kross 2014 (SAGE abstract). Erikson is quoted at second hand through Javed and Kakul and is labelled as such in the text.
+
+## Fetch-blocked carrier verification pass (2026-10-25 10:52Z actual clock, worker-pplx-1025i, dos5)
+
+quote_verify on this dossier reported 11 NOT FOUND spans; one was a
+real span defect and is fixed, and the other ten are fetch-blocked
+carriers, now individually verified as follows:
+
+1. REPAIRED — Analects 2.10 (Legge, Gutenberg): the dossier quoted
+   "See what a man does. Mark his motives. Examine in what things he
+   rests." as one continuous span, but the Gutenberg page interleaves
+   the chapter's numbered sub-paragraphs between the sentences
+   ("See what a man does. 2. 'Mark his motives. 3. ..."), so the
+   continuous string does not exist on the carrier. The blockquote now
+   uses ellipsis separators ("See what a man does. ... Mark his
+   motives. ... Examine in what things he rests."), each part a
+   verbatim substring. quote_verify count for the dossier: 11 -> 10.
+
+2. VERIFIED VIA NCBI EUTILS — the PubMed abstract pages
+   (pubmed.ncbi.nlm.nih.gov) sit behind a JS cookie challenge for
+   both the sandbox fetcher and the cloud browser, so every span
+   carried on a PubMed link fails quote_verify mechanically. All such
+   spans were instead verified verbatim against NCBI's public eutils
+   endpoint (efetch, plain-text abstracts), which serves the same
+   records without the challenge:
+   - PMID 11392856 (Baltes & Staudinger 2000): all four spans verbatim
+     ("an expert knowledge system concerning the fundamental
+     pragmatics of life"; "knowledge and judgment about the meaning
+     and conduct of life"; "that organizes and orchestrates knowledge
+     toward human excellence in mind and virtue, both individually and
+     collectively"; "recognition and management of uncertainty").
+   - PMID 29620401: "Understanding the mind of another person is
+     therefore enabled by getting perspective, not simply taking
+     perspective" verbatim.
+   - PMID 24405359 (Kounios & Beeman 2014): "Insight occurs when a
+     person suddenly reinterprets a stimulus, situation, or event to
+     produce a nonobvious, nondominant interpretation" verbatim.
+   - PMID 24916084 (Grossmann & Kross 2014, Solomon's paradox): "no
+     age differences in wise reasoning about personal conflicts"
+     verbatim.
+   - PMID 33539229 (Grossmann et al. 2021 diary study): "a significant
+     increase in wise reasoning about interpersonal challenges"
+     verbatim. Note this span's dossier link is the Sage abstract
+     page (journals.sagepub.com), also JS-blocked for the fetcher; the
+     pubmed.ncbi.nlm.nih.gov/21728454/ link beside it is the 2012
+     paper, which does not carry this sentence — the eutils check
+     against the 2021 record (33539229) is the verification that
+     counts.
+
+3. VERIFIED IN BROWSER — the MDPI carrier (mdpi.com bot-walls curl
+   but renders in the cloud browser): "an informed and detached
+   concern with life itself in the face of death itself" verbatim on
+   the rendered page.
+
+4. SEARCH-EXCERPT ONLY, FLAGGED FOR NEXT PASS — the Sanderse span
+   ("Full virtue and practical wisdom comprise the end of
+   neo-Aristotelian moral development, but wisdom cannot be
+   cultivated straight away through arguments and teaching"): the
+   tandfonline page bot-walls every fetch route this session (curl
+   and cloud browser both). The publisher's own page, as indexed by
+   the search engine, prints the span as the paper's abstract; this
+   is search-excerpt confirmation only, weaker than a fetched source
+   by house precedent (cf. the Zhuangzi ledger note), and the span
+   should be re-verified against a fetched full-text or mirror when
+   one is reachable. Flagged for the next verification pass.
+
+The ten fetch-blocked spans remain NOT FOUND in quote_verify output
+by construction (the checker fetches the human-facing links); they
+are documented exceptions per this entry, not textual faults.
+
+CHECKS: dossier_check exit 0 (68 card links, 28 headers, 32
+carriers); quote_verify 26 checked / 10 not found (was 11; all ten
+documented above); density unchanged; app.js rebuilt via
+--rebuild=wisdom, node --check OK.
