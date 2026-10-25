@@ -1230,3 +1230,79 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
 - Relevant segment: whole talk, 51:13.
 - Verification status: verified-video (2026-10-25); independent-channel
   basis noted.
+
+### M04-E04: Hubert Dreyfus' Discussion of Hiroshima Mon Amour (re-upload)
+
+- Identity and access: oembed confirms the video on a personal channel
+  ("Ryan"; https://www.youtube.com/watch?v=ilCO5Lwe81Q); watch page opened
+  2026-10-25. RE-UPLOAD FLAG: a personal channel re-uploading a UC
+  Berkeley Philosophy 7 (Existentialism in Film and Literature) lecture by
+  Hubert Dreyfus; the catalog title and the lecture's provenance (Berkeley)
+  are not confirmed on the page beyond the uploader's description.
+- Duration: 1:14:58 (watch page, 2026-10-25); the description notes the
+  lecture starts in earnest at 6:18.
+- Instructor credentials: Hubert Dreyfus, the recorded lecturer (per the
+  description; institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): Philosophy 7:
+  Existentialism in Film and Literature — Dreyfus's discussion of
+  Hiroshima Mon Amour (title basis; the description adds no further
+  content).
+- Relevant segment: lecture proper from 6:18 to end.
+- Verification status: verified-partial (identity, access, duration; re-
+  upload provenance flag; coverage basis is the title and uploader note).
+
+### M04-E05: Nietzsche on Nihilism and the Death of God — Ken Gemes (audio)
+
+- Identity and access: oembed confirms the recording on the Philosophy
+  Overdose channel (https://www.youtube.com/watch?v=CHShypzrqGw); watch
+  page opened 2026-10-25. AUDIO RECORDING FLAG: the description identifies
+  it as an audio recording of a lecture, not a video.
+- Duration: 1:01:07 (watch page, 2026-10-25).
+- Instructor credentials: Ken Gemes, lecturer (per the description;
+  institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): the first of
+  two Gemes lectures on Nietzsche — Nietzsche as the philosopher of the
+  death of God, consequences of abandoning belief in God for values and
+  meaning, Nietzsche's prediction of nihilism, and moving beyond
+  nihilism toward affirmation of this world.
+- Relevant segment: whole recording, 1:01:07.
+- Verification status: verified-audio (2026-10-25); credentials from the
+  description, institutional page pending.
+
+### M04-E06: Nietzsche, the Death of God, the Future of Christianity, and Nihilism — Ken Gemes (Niederhauser channel)
+
+- Identity and access: oembed confirms the video on the Dr. Johannes
+  Achill Niederhauser channel
+  (https://www.youtube.com/watch?v=GuMDm25aIPc); watch page opened
+  2026-10-25. Streamed live 17 August 2023.
+- Duration: 1:00:24 (watch page, 2026-10-25).
+- Instructor credentials: Ken Gemes, featured scholar (per the
+  description; institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): Nietzsche, the
+  death of God, the future of Christianity and nihilism, tied to Gemes's
+  Nietzsche seminar and the channel's seven-lecture Nietzsche course.
+- Relevant segment: whole session, 1:00:24.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.
+
+### M04-E08: "Revolt in the Face of the Absurd" — Albert Camus (Gregory B. Sadler)
+
+- Identity and access: oembed confirms the lecture on the Gregory B.
+  Sadler - That Philosophy Guy channel
+  (https://www.youtube.com/watch?v=gmFLa6q9OBo); watch page opened
+  2026-10-25. Glimpses Into Existence lecture 11 of 12, hosted by the
+  historic Kingston Library.
+- Duration: 1:23:22 (watch page, 2026-10-25).
+- Instructor credentials: Gregory B. Sadler, lecturer (per the
+  description; institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): the life,
+  works and key themes of Albert Camus — his conception of absurdity,
+  criticisms of other existentialist thinkers, views on ethics, and
+  conception of revolt.
+- Relevant segment: whole lecture, 1:23:22.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.
