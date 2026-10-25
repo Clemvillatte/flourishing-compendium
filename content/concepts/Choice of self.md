@@ -22,6 +22,10 @@ Existential psychoanalysis seeks to understand the unity behind a person’s att
 
 > But if I am one, this cannot be in the mode of being-in-itself. I am a waiter in the mode of *being what I am not*. — Sartre, Being and Nothingness, 1956: 60, quoted in [SEP, §4.2](https://plato.stanford.edu/entries/sartre/)
 
+### What the project implies for practice
+
+If the fundamental project is experienced but not known, the work is to make it visible rather than to invent a new self. The kernels below take the SEP entry's cue that the meaning of past events is read off the present project, which makes the project something a person can examine and revise rather than merely undergo.
+
 ### Here
 
 - [[E039 — Practise the choice of self]] — the practice built on this concept.
