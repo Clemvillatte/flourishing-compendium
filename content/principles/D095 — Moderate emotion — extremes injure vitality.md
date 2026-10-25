@@ -12,23 +12,28 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 95** — Moderate emotion: extremes injure vitality
 
-An early Chinese manual on vitality, the Neiye, treats the vital essence as something that can be lost, and its loss has a list of causes:
+The Neiye sets a demanding condition for calm. Its third verse includes happiness and joy alongside sorrow, anger, desire and profit-seeking among the causes of losing vital essence ([Roth translation, reproduced by the Kongdan Foundation](https://thekongdanfoundation.com/nei-yeh-inward-training-and-the-unity-of-spirit/)). It continues:
 
-> "It is lost inevitably because of sorrow, happiness, joy, anger, desire, and profit-seeking. If you are able to cast off sorrow, happiness, joy, anger, desire and profit-seeking, your mind will just revert to equanimity." (Neiye III, Harold Roth's translation, [Original Tao, excerpted](https://thekongdanfoundation.com/nei-yeh-inward-training-and-the-unity-of-spirit/))
+> "If you are able to cast off sorrow, happiness, joy, anger, desire and profit-seeking, your mind will just revert to equanimity." ([Neiye III, Harold Roth translation](https://thekongdanfoundation.com/nei-yeh-inward-training-and-the-unity-of-spirit/))
 
-Equanimity there is a resting state the mind returns to once the disturbances are subtracted, and the point sits within the text's account of vitality. The Daodejing makes it with an infant: "All day long it will cry without its throat becoming hoarse;--showing the harmony (in its constitution)" ([DDJ 55, Legge](https://www.sacred-texts.com/tao/taote.htm)). Laozi's image is harmony of constitution, and the contrast case is the adult whose "mind makes the vital breath to burn," and whose strength is false ([ibid.](https://www.sacred-texts.com/tao/taote.htm)). A modern imaging study reports a related effect: "affect labeling, relative to other forms of encoding, diminished the response of the amygdala and other limbic regions to negative emotional images" ([Lieberman et al. 2007](https://pubmed.ncbi.nlm.nih.gov/17576282/)). Feeling fully without feeding it looks like precise naming; my kernel is [[Affect labeling]].
+This is stronger advice than simply avoiding rage. Chris Fraser places the text's account within early Daoist ideas about cultivating vital essence; across the sources he surveys, equanimity involves calm, alert responsiveness ([Deviations from the Way, sections 3 and 7](https://philarchive.org/archive/FRADFT-2)). I read the title's claim about vitality in that historical setting. A difficult emotion is no reason to blame myself for an illness.
+
+The Daodejing offers an infant as an image of harmony: "All day long it will cry without its throat becoming hoarse;--showing the harmony (in its constitution)." ([Chapter 55, Legge translation](https://www.sacred-texts.com/tao/taote.htm)) For my own practice, the useful question is how I might settle after being stirred up.
+
+[[Affect labeling]] offers a separate psychological comparison. In Lieberman and colleagues' imaging study, labeling negative emotional images reduced amygdala responses relative to other forms of encoding ([2007 abstract](https://pubmed.ncbi.nlm.nih.gov/17576282/)). That finding concerns a laboratory task. Whether naming a feeling helps me after an argument is something I can observe in my own life.
 
 **Plain words**
-The passage advises setting aside these emotions and desires so the mind can return to equanimity. Applied after an argument, that means naming what you feel and deciding whether anything needs action now, instead of repeatedly rehearsing the exchange. Moderation is letting the feeling make its visit without moving in.
+After an argument, I can pause long enough to name what I feel and decide what needs doing. I need room to respond without demanding that I never feel anger.
 
-*For example:* Replaying the argument for a week after it ended — the other person got one evening of your rage; you got seven.
+*For example:* Imagine drafting an angry reply, writing "hurt and embarrassed" beside it, then deciding to speak tomorrow. This is an illustration, not a tested treatment.
 
 ## Sources
-- [[T012 — Laozi]]: the equanimity-as-resting-state parallel the page draws from the Daodejing.
+- [[T012 — Laozi]]
 
 - [Neiye III (Inward Training), Harold Roth's translation, Original Tao (1999), excerpted at the Kongdan Foundation](https://thekongdanfoundation.com/nei-yeh-inward-training-and-the-unity-of-spirit/) — verbatim quote on the six disturbances
 - [Laozi, Dao De Jing 55 (James Legge, 1891), Sacred Texts Archive](https://www.sacred-texts.com/tao/taote.htm) — infant and harmony passage
 - [Lieberman et al., "Putting Feelings Into Words: Affect Labeling Disrupts Amygdala Activity in Response to Affective Stimuli," Psychological Science 18 (2007) (PubMed)](https://pubmed.ncbi.nlm.nih.gov/17576282/) — affect labeling and amygdala response
+- [Chris Fraser, Deviations from the Way, Failures of Virtue: Emotions in Early Daoist Thought, April 2022 preprint](https://philarchive.org/archive/FRADFT-2): sections 3 and 7 on vital essence and equanimity.
 
 ## Practice kernels
 
@@ -41,14 +46,15 @@ The passage advises setting aside these emotions and desires so the mind can ret
 
 ## Psychology parallels
 
-- **[[Emotion differentiation|Emotion differentiation]]**, finely granular emotional labels predict better regulation (Barrett et al., 2001; Kashdan et al., 2015)
-- **[[Affect labeling|Affect labeling]] reduces amygdala reactivity** (Lieberman et al., 2007)
+- [[Emotion differentiation|Emotion differentiation]]: further comparative reading.
+- [[Affect labeling|Affect labeling]]: the laboratory finding cited above.
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The mean]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
-- **[[Apatheia|Apatheia as freedom from destructive passion]]** (Stoics, Epictetus)
-- **Emotions made intelligible** (Spinoza, Ethics III-V)
+For comparison:
+
+- [[The doctrine of the mean|The mean]] ([[T002 — Aristotle|Aristotle]])
+- [[Apatheia|Apatheia as freedom from destructive passion]]
 
 <!-- fc: reflections
 Which emotion are you currently feeding that's burning your own house? What would feeling it without feeding it look like?

@@ -69,14 +69,15 @@
   "B129",
   "AT023",
   "AT062",
-  "D017"
+  "D017",
+  "D095"
  ],
- "in_progress": "D095",
+ "in_progress": null,
  "flagged": {
   "D017": "RESOLVED: exact DDJ57/64 quotations, narrowed reward comparison, source QC and voice corrections from independent advisor; pre-repair-baseline validator PASS",
   "BI012": "Supervisor repair independently PASS: Carter exact; Bode association limits; NHS assessment advice; causal anecdote and medical-first rule removed (2026-10-19)",
   "CO072": "Supervisor evidence repair independently PASS: no general-endurance or social-media causation claims remain. Protected title and old link label explicitly qualified; metadata exception needed for cleaner future naming.",
-  "D095": "Reopened for QC: Distinguish classical vitality theory from imaging findings and replace unsupported practice inference",
+  "D095": "RESOLVED: classical jing account distinguished from fMRI finding, Roth III and DDJ55 quotations checked, illness blame disclaimed; validator PASS; whole linked pages not certified",
   "D133": "QC round 5: grip-mechanism replaced with application question; example remains supervisor-flagged",
   "E014": "QC round 5: exclusive retraining claim removed; feeds example remains supervisor-flagged",
   "E068": "QC round 4: keyhole scene sourced to opened Porto review; frequency claims softened",
@@ -90,6 +91,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 82,
- "updated": "2026-10-25T05:57:27+00:00",
+ "updated": "2026-10-25T05:58:32+00:00",
  "band_done": false
 }
