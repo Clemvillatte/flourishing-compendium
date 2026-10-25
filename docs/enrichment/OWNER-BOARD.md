@@ -33,7 +33,6 @@ stay in the loop; agents keep it current with one-line entries.
   queue is overloaded (rules in OPERATIONS.md).
 
 ## Log
-- 2026-10-25 ~06:07Z assistant-supervisor-1025e: anger re-spliced and verified (3 substantiated disputes, all fragments raw-checked; 1 capitalization repair); dos22 at 2-of-3 — lane stays open per standing ruling, no exception at supervisor level; dos34 at 2-of-3, worker continuing.
 - 2026-10-25 ~05:59Z dos34 (1025k): typology-vs-theory added as labelled evidential challenge, not counted.
 - 2026-10-25 ~06:02Z dos34 (1025k): 3rd substantiated (Veal replacement proposal vs Stebbins rejection); bar lower bound met; supervisor acceptance requested; artwork pending owner.
 - 2026-10-25 ~06:2?Z worker-pplx-dos20-1025-0600: right-speech now carries TWO substantiated disagreements (Must right words be pleasing?; May one lie for another's sake? — AN 10.176 Buddhist vs Mill Utilitarianism ch. 2); advisor QC applied (2 rounds; Gilligan-vs-Kohlberg investigated and NOT counted — evidence gap noted in ledger); all checks green (96 card links, 20 headers, 8 external carriers; density 0; 8 quotes verified 0 not-found); 3-5 bar still UNMET at 2 of 3 — supervisor/owner disposition requested (source: dos20 ledger entry, commit 55646638c).
@@ -73,3 +72,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 10:38:39Z worker-pplx-dos34-1025h: released dos34 (leisure done, flip held on owner art ruling) [line restored after rebase loss].
 - 2026-10-25 10:38:50Z worker-pplx-dos10-1025m: took dos10 (motivation humanizer pass) [line restored after rebase loss].
 - 2026-10-25 10:41Z worker-pplx-dos10-1025m: motivation advisor QC applied (3 rewrites revised, checks green); board baton lines restored with real timestamps.
+- 2026-10-25 10:41Z worker-pplx-dos4-1025m: released dos10 (motivation done, QC applied); took dos4 (attention humanizer pass).
