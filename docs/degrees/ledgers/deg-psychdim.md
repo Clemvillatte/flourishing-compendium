@@ -193,15 +193,368 @@ emotion-functions row. Status for
 the chapter-3 segment: verified-video; the remaining segments are
 candidates until their transcripts are read.
 
-Additional inspection (2026-10-25, worker-pplx-psychdim-2, batch 18): lecture 12 (Emotions, Part II, 56:06) chapters 2 to 6 read in full from the transcript on the [OYC page](https://oyc.yale.edu/psychology/psyc-110/lecture-12). Chapter 2 (Q&A on Emotions towards Kin, 00:15:44 to 00:18:16): Bloom fields questions on whether orphanage children comfort each other (no known answer for that arrangement; the TA notes evidence that peer support helps young monkeys and children) and on middle-ground parenting (away from severe deprivation, effects are not dramatic and are hard to tease apart from genetics; "if there are effects they are not big and dramatic ones"). Serves the M2 emotion-functions row as boundary material on early emotional environments. Chapter 3 (Evolutionary Explanations for Emotional Responses, 00:18:16 to 00:25:20): Bloom presents kindness to non-kin as the evolutionary puzzle (grooming, warning cries, shared childcare, vampire bats sharing blood by regurgitation), introduces reciprocal altruism, the cheater/free-rider problem, and cheater detection as the requirement for reciprocal altruism to be evolutionarily stable (recognize, remember, punish cheaters), with the vampire-bat study in which bats that are prevented from sharing are later starved by the others. Serves the M2 emotion-functions row (social emotions and reciprocity). Chapter 4 (Cooperative Behavior and the Prisoner's Dilemma, 00:25:20 to 00:40:44): Bloom spells out the Prisoner's Dilemma (defection dominates in the one-shot game no matter what the other player does, while mutual defection gives each player less than mutual cooperation), gives the divorce-lawyer, nuclear-disarmament and drug-deal examples, runs the classroom one-shot and repeated card games, presents Axelrod's computer tournament (63 competitors; the winner was Tit-for-Tat, four lines of code, by Anatol Rappaport, recorded as printed in the transcript), and argues that emotions correspond to the game's cells: liking those who cooperate, anger and distrust towards betrayers, guilt when betraying a cooperator, with the chocolate-chips demonstration on his children. Serves the M2 emotion-functions row directly. Chapter 5 (The Ultimatum Game, Rationality and Irrationality, 00:40:44 to 00:49:21; the page's chapter 5 heading includes Rationality and Irrationality, the outline table above recorded only The Ultimatum Game): Bloom runs the classroom ultimatum game, notes that accepting one dollar is the rational response yet people reject unfair offers out of spite (with neuroeconomic evidence referenced), and develops the advantage-of-irrationality argument: a rational person is easily exploited, a temper deters harassment, head-over-heels love is more trustworthy than rational mate choice, and Daly and Wilson's account of murder as adaptive irrationality, with the lecture quoting their line as printed: "in chronically feuding and warring societies an essential manual — manly virtue is the capacity for violence. To turn the other cheek is not saintly, but stupid or contemptibly weak" (the transcript keeps Bloom's false start "manual —" before "manly virtue"; the Daly and Wilson original was not opened this session, so this is a lecture quotation, not an independent verification of their text). Serves the M2 emotion-functions row (emotion as commitment device). Chapter 6 (Cultures of Honor, 00:49:21 to end): Bloom defines cultures of honor (no reliance on law, easily taken resources; Scottish highlanders, Masai, Bedouin, Western cowboys, the American South), presents Nisbett and Cohen's evidence (more permissive gun laws, more approval of corporal and capital punishment, more positive military attitudes, higher rates of honor crimes but not overall street violence) and their Michigan undergraduate provocation experiment (a confederate bumping the participant and calling him "asshole"; southern white males showed higher testosterone and cortisol stress responses and more aggressive fill-in-the-blank completions), with Bloom's caveats (average differences; Nisbett, himself a southerner, noting northern rudeness; honor virtues of loyalty, courage and self-reliance not on their face bad), closing on emotions as motivational systems crafted by natural and social environments, and the D'Arcy Thompson line "everything is the way it is because it got that way". Serves the M2 emotion-functions row (cultural modulation of social emotions). Status for the chapter-2 to chapter-6 segments: verified-video (transcript-based content review; identity, duration and instructor metadata inherited from the previous worker's checks). Verification method, recorded honestly: the chapters were first read via a prompted extraction of the OYC page, then the read was completed against an unprompted full-text fetch of the same page; the two texts matched and every quoted span above was re-checked verbatim against the unprompted page text. This entry completes the lecture: all six chapters of lecture 12 are now content-verified. Advisor QC round 1 (first-item QC) was run on this entry; its four corrections (raw-text comparison, exact Daly-Wilson wording with the false start kept, the Rappaport spelling recorded as printed without an unsupported name correction, and the Prisoner's Dilemma dominance phrasing) are applied in this revision.
+Additional inspection (2026-10-25, worker-pplx-psychdim-2, batch 18): lecture 12 (Emotions,
+Part II, 56:06) chapters 2 to 6 read in full from the transcript on the [OYC
+page](https://oyc.yale.edu/psychology/psyc-110/lecture-12).
 
-Additional inspection (2026-10-25, worker-pplx-psychdim-2, batch 19): lecture 16 (Self and Other, Part I, 58:15) chapters 3 to 6 read in full from the transcript on the [OYC page](https://oyc.yale.edu/psychology/psyc-110/lecture-16), via an unprompted full-text fetch (no prompted extraction step this time); the remainder of chapter 1, which the previous worker had only opened, was also read in full in the same fetch. Chapter 1 remainder (from the Milgram package study onward): Bloom presents Milgram's small-world package study (160 Omaha residents sending to a Boston-area stockbroker, most succeeded, at most six links, about half through two hub people), Gladwell's connector test from The Tipping Point (250 Manhattan phone-book names; knowing requires being known back; college average about twenty-one), the Bacon-number average of 2.8 over the quarter-million movie-database actors, Rod Steiger as the most connected actor, and the sociologists' point that places like Yale pay in powerful acquaintances rather than close friends. Serves the M5 self row as orientation on social connection (individual differences in social natures). Chapter 3 (Aspects of the Self: You're Terrific!, 00:22:40 to 00:27:01): Bloom presents the better-than-average effect ("the Lake Wobegon effect", from Garrison Keillor's above-average town; strongest for driving), the candidate explanations (feedback arrives mainly when you do well; people rank themselves on their own best criterion; a motivation to feel good about yourself), and the self-serving bias (success credited to ability, failure to an unfair midterm, a conspiracy of reviewers, or bad luck; the asymmetry found in athletes, CEOs and accident reports). Serves the M5 self row (self-evaluation biases). Chapter 4 (Aspects of the Self: Cognitive Dissonance, 00:27:01 to 00:40:00): Bloom presents Festinger's cognitive dissonance theory (inconsistency causes an unpleasant state we act to reduce), confirmation bias in magazine choice, Louisa Egan's M&M experiment (people denigrate the option they turned down; the effect appears in four-year-olds and monkeys), the insufficient justification effect with Festinger's classic one-dollar versus twenty-dollar boring-task experiment (the one-dollar group rated the task more fun), When Prophecy Fails (the world-end cult whose failed prophecy strengthened commitment), hazing, unpaid political volunteers, the free-therapy point, and the children's drawing-reward finding (rewarded children later value the activity less), refining the theory at the end: we adjust beliefs to make ourselves look more moral and rational than we are. Serves the M5 self row (self-justification). Chapter 5 (Self and the Other, 00:40:00 to 00:50:03): Bloom introduces attribution and Heider's person bias, the fundamental attribution error (over-attributing behaviour to the person, under-weighting the situation), the quiz-show study (watchers rate the question-asker as smarter despite the coin flip), the actor-role confusion cases (Robert Young's Marcus Welby mail and the "I am not a doctor but I play one on TV" Sanka line; Stallone's Swiss boarding school versus Rambo; Nimoy's I Am Not Spock and I Am Spock), and the United States-India cross-cultural comparison (Western murder reports emphasise the person, Indian reports the situation; the error is not a human universal). Serves the M5 self row (self versus other in attribution). Chapter 6 (How We Think about Other People, 00:50:03 to end): Bloom presents the liking evidence: proximity (the Manhattan housing project: 90 percent of best friends in the same building, 50 percent on the same floor), the mere exposure effect (Cutting's flashed-paintings study; people prefer their own mirror image, friends prefer the true image), similarity (friends and spouses alike; similarity predicts marriage success; couples converge over time), and attractiveness with the Matthew effect (attractive people judged smarter and more competent; teachers rate attractive children higher; mock-trial judges give longer sentences to unattractive defendants), closing with Bloom's explicit discomfort endorsing the supermarket parking-lot study on parents and unattractive children as a good experiment. Serves the interpersonal elective branch named in the scope doc. Status for the chapter-1-remainder and chapter-3 to chapter-6 segments: verified-video (transcript-based content review; identity, duration and instructor metadata inherited from the previous worker's checks). This completes lecture 16: all six chapters are now content-verified.
+Chapter 2 (Q&A on Emotions towards Kin, 00:15:44 to 00:18:16): Bloom fields questions on
+whether orphanage children comfort each other (no known answer for that arrangement; the TA
+notes evidence that peer support helps young monkeys and children) and on middle-ground
+parenting (away from severe deprivation, effects are not dramatic and are hard to tease
+apart from genetics; "if there are effects they are not big and dramatic ones"). Serves the
+M2 emotion-functions row as boundary material on early emotional environments.
 
-Additional inspection (2026-10-25, worker-pplx-psychdim-2, batch 20): lecture 17 (Self and Other, Part II; Some Mysteries: Sleep, Dreams, and Laughter, 64:53) chapters 1 and 3 to 8 read in full from the transcript on the [OYC page](https://oyc.yale.edu/psychology/psyc-110/lecture-17), via an unprompted full-text fetch; chapter 2 was verified previously, so this completes the lecture. Note: the page's chapter table lists EIGHT chapters; the earlier outline recorded in this ledger stopped at chapter 7 (Dreams) and omitted chapter 8 (The True Mystery of Laughter, 00:51:31 to end). Chapter 1 (Introduction, 00:00:00 to 00:01:39): Bloom reviews where the social-psychology sequence left off (self biases, the fundamental attribution error, liking and the Matthew effect). Chapter 3 (Positive Uses and Negative Effects of Stereotypes, 00:11:15 to 00:27:19): Bloom frames stereotypes as category knowledge essential to survival (chairs, apples, dogs), notes people-stereotypes are collected the same way and are often accurate (the lawyer and height examples), then the failure modes: confirmation bias sustaining inaccurate stereotypes, unrepresentative media data (Sopranos and Shylock portrayals), the blind-audition finding that women are hired far more behind screens, moral limits on applying even accurate group generalizations (profiling versus the accepted young-driver insurance premium), Steele's stereotype threat (reminding a group of its negative stereotype in a domain immediately damages performance, shown with math tests), and the three levels (public, private, unconscious associations), with the public-attitude shift data (willingness to vote for an African American president moving from about half to near one hundred percent). Serves the interpersonal elective branch (perception of groups). Chapter 4 (Implicit Attitudes, 00:27:19 to 00:34:47): Bloom runs Banaji's Implicit Association Test as a classroom demonstration (implicit.harvard.edu; described as the biggest psychology experiment ever run by participation), explains the congruent-versus-incongruent reaction-time logic, its extensions (gender and math, age, obesity, sexual orientation), and why half-second differences matter: police shoot/don't-shoot reaction-time studies, race differences in bystander helping when others are present, and Dovidio's hiring studies where strong recommendations equalise hiring but ambiguous ones favour white applicants in 1989, 1999 and a recent replication; closing with Devine's automaticity theory (stereotypes are automatically activated and overriding them takes conscious work). Serves the interpersonal elective branch (implicit group attitudes). Chapter 5 (Question and Answer on Stereotypes, 00:34:47 to 00:38:09): Bloom gives the structural remedies (job searches that deliberately solicit names from disadvantaged groups because equally qualified people do not otherwise come to mind; blind reviewing) and the own-group-bias question, noting African Americans show much the same IAT effect as white Americans, so the effect does not reduce to in-group favoritism. Serves the same elective branch. Chapter 6 (The Minor Mystery of Sleep, 00:38:09 to 00:44:49): sleep as a motivation like food or drink; the EEG stages (I through IV, delta waves, REM; four to five cycles a night), REM versus slow-wave sleep, the restoration account (growth hormone, organ restoration, immune activity; stop sleeping and you die), the energy-preservation account, and sleep disorders including the Ambien sleep-eating and sleep-driving side effects. Chapter 7 (The Greater Mystery of Dreams, 00:44:49 to 00:51:31): real dreams versus sleep thought; everybody dreams three to four times a night and dream diaries work because dream memories fade; dream-content findings from collected reports (most dreams negative; tribal societies more physical aggression; men more aggressive dreams than women; Americans more than Europeans; about ten percent explicit sexual content; the most common dream is being chased); Freudian theories with little support; the memory-consolidation view of dreams as epiphenomena of the brain backing itself up. Chapter 8 (The True Mystery of Laughter, 00:51:31 to end): laughter as an evolutionary puzzle; the incongruity account quoted and rejected; Provine's mall observations (over a thousand laughter episodes, only about ten percent following anything humorous); laughter as social, loud, contagious (laugh tracks); primate parallels (monkeys laughing in attack, chimps in tickling); the mock-aggression theory; Plato's bonding-against-a-common-enemy view; the ingredients of humor (a target, harm not serious enough for fear or grief, surprise); and the self-tickling question. ASSIGNMENT NOTE: chapters 6 to 8 are content-verified but serve NO current matrix row — sleep, dreams and laughter are general introductory-biology material outside the six EEMM dimensions; flagged for the strategist or owner whether they belong in the degree at all (proposal: leave unassigned). Status for the chapter-1 and chapter-3 to chapter-8 segments: verified-video (transcript-based content review; identity, duration and instructor metadata inherited from the previous worker's checks). Lecture 17 is now fully content-verified across all eight chapters.
+Chapter 3 (Evolutionary Explanations for Emotional Responses, 00:18:16 to 00:25:20): Bloom
+presents kindness to non-kin as the evolutionary puzzle (grooming, warning cries, shared
+childcare, vampire bats sharing blood by regurgitation), introduces reciprocal altruism, the
+cheater/free-rider problem, and cheater detection as the requirement for reciprocal altruism
+to be evolutionarily stable (recognize, remember, punish cheaters), with the vampire-bat
+study in which bats that are prevented from sharing are later starved by the others. Serves
+the M2 emotion-functions row (social emotions and reciprocity).
 
-Additional inspection (2026-10-25, worker-pplx-psychdim-2, batch 21): lecture 13 (Why Are People Different, 65:49) chapters 3 to 6 read in full from the transcript on the [OYC page](https://oyc.yale.edu/psychology/psyc-110/lecture-13), via an unprompted full-text fetch; chapters 1 to 2 were verified previously, so this completes the lecture. Chapter 3 (Defining and Measuring Intelligence, 00:19:47 to 00:30:29): Bloom presents the difficulty of defining intelligence (an expert survey naming abstract reasoning, problem solving and the capacity to acquire knowledge), Spearman's distinction between S (specific subtest abilities) and G (general intelligence, illustrated with an athletic-testing analogy), Wechsler scoring (100 fixed as the average; 68 percent between 85 and 115; 95 percent between 70 and 130; above 145 about 0.13 percent of the population), the Herrnstein and Murray Bell Curve controversy, the APA task-force consensus that IQ is strongly related to educational, occupational, economic and social outcomes, and the self-fulfilling-prophecy objection (society makes IQ matter through the SAT and GRE; his height-based admissions analogy). Chapter 4 (Q&A, 00:30:29 to 00:36:33): faking on personality tests and the catch-question defences; emotional intelligence (Salovey's research; predictive power not as strong as for regular IQ; correlated with g); what makes a good test (reliability over time, validity against real-world outcomes); personality and IQ as more-or-less stable traits. Chapter 5 (The Roles of Genes and Environment, 00:36:33 to 00:51:16): the genes-plus-environment framing; the heritability misconception cleared (heritability is a claim about differences between people in a population, not about the origin of an individual's trait — height is heritable, number of legs is not); shared versus non-shared environment, with heredity plus shared plus non-shared summing to one; the behavioral-genetics toolkit (monozygotic twins at 100 percent shared genes, dizygotic at 50 percent, adoptive siblings with no special overlap; identical twins reared apart as the gold standard, including the Giggle Twins and similar brain scans); high heritability for almost everything; and the within-group versus between-group logic (Lewontin's differently fertilised wheat plots; the two-midterms classroom analogy) showing that within-group heritability implies nothing about between-group causes. Chapter 6 (Genes, Environment and Intelligence, 00:51:16 to end at 65:49): group differences correspond better to socially than genetically defined groups; the Flynn effect (tests renormed so the average stays 100; an average 1980 test-taker scores about 120 on the 1950 test), showing IQ can shift dramatically without genetic change; the surprising claim that almost everything not genetic is non-shared environment — the IQ correlation of genetically unrelated adults raised in the same family is about zero; the Newsweek "do parents matter?" debate around Judith Harris's The Nurture Assumption (including the George Miller award story, the Philip Larkin poem and Harris's rebuttal, and Oliver James's reply book); and Bloom's critique of a family-meals-and-teen-risk study for reverse causality, third-variable confounds and unfactored age, extended to reading-to-children and the cycle of violence. Status for all six chapters: verified-video (transcript-based content review; identity, duration and instructor metadata inherited from the previous worker's checks). This serves the M5 personality row, now extended to cover the full lecture; the intelligence-measurement and behavioral-genetics content sits within that row's stable-individual-differences concept rather than a separate row (flagged for the strategist in case a dedicated row is preferred). Lecture 13 is now fully content-verified across all six chapters.
+Chapter 4 (Cooperative Behavior and the Prisoner's Dilemma, 00:25:20 to 00:40:44): Bloom
+spells out the Prisoner's Dilemma (defection dominates in the one-shot game no matter what
+the other player does, while mutual defection gives each player less than mutual
+cooperation), gives the divorce-lawyer, nuclear-disarmament and drug-deal examples, runs the
+classroom one-shot and repeated card games, presents Axelrod's computer tournament (63
+competitors; the winner was Tit-for-Tat, four lines of code, by Anatol Rappaport, recorded
+as printed in the transcript), and argues that emotions correspond to the game's cells:
+liking those who cooperate, anger and distrust towards betrayers, guilt when betraying a
+cooperator, with the chocolate-chips demonstration on his children. Serves the M2 emotion-
+functions row directly.
 
-Additional inspection (2026-10-25, worker-pplx-psychdim-2, batch 22): lecture 11 (Evolution, Emotion, and Reason: Emotions, Part I, 53:15) chapters 4 to 6 read in full from the transcript on the [OYC page](https://oyc.yale.edu/psychology/psyc-110/lecture-11), via an unprompted full-text fetch; chapters 1 to 3 were verified previously, so this completes the lecture. Chapter 4 (Question and Answer on Smiles, 00:28:08 to 00:32:22): Bloom fields questions on whether nonhuman primates give the same human smile types (he does not know; promises to find out), why some people's smiles are better (some are better able to express true happiness), and teeth-versus-closed-lips smiling (probably a difference, likely varying cross-culturally, citing England versus United States findings), and demonstrates emotional contagion with a classroom smiling exercise (self-described as the worst class demo ever, but noting it is extremely difficult to face a genuinely smiling person and not smile, generalising to other emotions). Chapter 5 (Non-social Emotions: Fear, 00:32:22 to 00:36:29): fear as a basic, universal, nonsocial emotion with a distinctive facial expression (the Oswald-assassination photograph's detective); the universal fear elicitors (spiders, snakes, heights, storms, large animals, darkness, blood, strangers, humiliation, deep water, leaving home alone) versus the near-absent fears of guns, cars and electrical outlets, explained by ancestral-environment danger; the inner-city Chicago children study (biggest fears snakes and spiders despite never seeing them); and DeLoache's indirect-methods research finding babies' prepared fear of spiders and snakes (pre-potent stimuli). Serves the M2 emotion-functions row (fear as a case study). Chapter 6 (Social Emotions and Altruism, 00:36:29 to end, 53:15): the social emotions split into kin-directed and non-kin; altruism as the biologists' term; the gene-A-versus-gene-B thought experiment; the gene's-eye perspective (the cold virus and sneezing, toxoplasmosis rewiring rats' fear of cats, rabies and the syphilis-libido evidence; "a person is just a germ's way of making other germs"); Dawkins's selfish genes and the claim that selfish genes lead to altruistic animals; Haldane's joke about laying down his life for three brothers, five nephews or nine first cousins and the genetic-relatedness logic; lion infanticide and spontaneous abortions on pride takeover; infant distress calls as an evolutionary high-wire act; baby cuteness as brain-wiring (Gould's Mickey Mouse essay, the baby-face bias in adults including mock-trial verdicts); and the Cupboard Theory (Skinner, food and operant conditioning) versus Bowlby's comfort-and-stranger-wariness account, closing with the Harlow wire-mother versus cloth-mother films (to be explained next lecture). Serves the M2 emotion-functions row (social emotions towards kin, altruism's evolutionary basis) and connects to the lecture-12 kin-emotions segment already verified. Status for the chapter-4 to chapter-6 segments: verified-video (transcript-based content review; identity, duration and instructor metadata inherited from the previous worker's checks). Lecture 11 is now fully content-verified across all six chapters.
+Chapter 5 (The Ultimatum Game, Rationality and Irrationality, 00:40:44 to 00:49:21; the
+page's chapter 5 heading includes Rationality and Irrationality, the outline table above
+recorded only The Ultimatum Game): Bloom runs the classroom ultimatum game, notes that
+accepting one dollar is the rational response yet people reject unfair offers out of spite
+(with neuroeconomic evidence referenced), and develops the advantage-of-irrationality
+argument: a rational person is easily exploited, a temper deters harassment, head-over-heels
+love is more trustworthy than rational mate choice, and Daly and Wilson's account of murder
+as adaptive irrationality, with the lecture quoting their line as printed: "in chronically
+feuding and warring societies an essential manual — manly virtue is the capacity for
+violence. To turn the other cheek is not saintly, but stupid or contemptibly weak" (the
+transcript keeps Bloom's false start "manual —" before "manly virtue"; the Daly and Wilson
+original was not opened this session, so this is a lecture quotation, not an independent
+verification of their text). Serves the M2 emotion-functions row (emotion as commitment
+device).
+
+Chapter 6 (Cultures of Honor, 00:49:21 to end): Bloom defines cultures of honor (no reliance
+on law, easily taken resources; Scottish highlanders, Masai, Bedouin, Western cowboys, the
+American South), presents Nisbett and Cohen's evidence (more permissive gun laws, more
+approval of corporal and capital punishment, more positive military attitudes, higher rates
+of honor crimes but not overall street violence) and their Michigan undergraduate
+provocation experiment (a confederate bumping the participant and calling him "asshole";
+southern white males showed higher testosterone and cortisol stress responses and more
+aggressive fill-in-the-blank completions), with Bloom's caveats (average differences;
+Nisbett, himself a southerner, noting northern rudeness; honor virtues of loyalty, courage
+and self-reliance not on their face bad), closing on emotions as motivational systems
+crafted by natural and social environments, and the D'Arcy Thompson line "everything is the
+way it is because it got that way". Serves the M2 emotion-functions row (cultural modulation
+of social emotions).
+
+Status for the chapter-2 to chapter-6 segments: verified-video (transcript-based content
+review; identity, duration and instructor metadata inherited from the previous worker's
+checks).
+
+Verification method, recorded honestly: the chapters were first read via a prompted
+extraction of the OYC page, then the read was completed against an unprompted full-text
+fetch of the same page; the two texts matched and every quoted span above was re-checked
+verbatim against the unprompted page text. This entry completes the lecture: all six
+chapters of lecture 12 are now content-verified.
+
+Advisor QC round 1 (first-item QC) was run on this entry; its four corrections (raw-text
+comparison, exact Daly-Wilson wording with the false start kept, the Rappaport spelling
+recorded as printed without an unsupported name correction, and the Prisoner's Dilemma
+dominance phrasing) are applied in this revision.
+
+Provenance note (batch 23): the 'unprompted' full-text fetch recorded above carried a
+return-as-is prompt rather than being fully unprompted; every quoted span in this entry was
+re-checked in the batch 23 raw unprompted re-fetch of the same page and matched verbatim,
+including the Daly-Wilson false start and the Rappaport spelling.
+
+Additional inspection (2026-10-25, worker-pplx-psychdim-2, batch 19): lecture 16 (Self and
+Other, Part I, 58:15) chapters 3 to 6 read in full from the transcript on the [OYC
+page](https://oyc.yale.edu/psychology/psyc-110/lecture-16), via a full-text fetch returning
+the cleaned page text as-is (see the batch 23 provenance correction); the remainder of
+chapter 1, which the previous worker had only opened, was also read in full in the same
+fetch. Chapter 1 remainder (from the Milgram package study onward): Bloom presents Milgram's
+small-world package study (160 Omaha residents sending to a Boston-area stockbroker, most
+succeeded, at most six links, about half through two hub people), Gladwell's connector test
+from The Tipping Point (250 Manhattan phone-book names; knowing requires being known back;
+college average about twenty-one), the Bacon-number average of 2.8 over the quarter-million
+movie-database actors, Rod Steiger as the most connected actor, and the sociologists' point
+that places like Yale pay in powerful acquaintances rather than close friends. Serves the M5
+self row as orientation on social connection (individual differences in social natures).
+
+Chapter 3 (Aspects of the Self: You're Terrific!, 00:22:40 to 00:27:01): Bloom presents the
+better-than-average effect ("the Lake Wobegon effect", from Garrison Keillor's above-average
+town; strongest for driving), the candidate explanations (feedback arrives mainly when you
+do well; people rank themselves on their own best criterion; a motivation to feel good about
+yourself), and the self-serving bias (success credited to ability, failure to an unfair
+midterm, a conspiracy of reviewers, or bad luck; the asymmetry found in athletes, CEOs and
+accident reports). Serves the M5 self row (self-evaluation biases).
+
+Chapter 4 (Aspects of the Self: Cognitive Dissonance, 00:27:01 to 00:40:00): Bloom presents
+Festinger's cognitive dissonance theory (inconsistency causes an unpleasant state we act to
+reduce), confirmation bias in magazine choice, Louisa Egan's M&M experiment (people
+denigrate the option they turned down; the effect appears in four-year-olds and monkeys),
+the insufficient justification effect with Festinger's classic one-dollar versus twenty-
+dollar boring-task experiment (the one-dollar group rated the task more fun), When Prophecy
+Fails (the world-end cult whose failed prophecy strengthened commitment), hazing, unpaid
+political volunteers, the free-therapy point, and the children's drawing-reward finding
+(rewarded children later value the activity less), refining the theory at the end: we adjust
+beliefs to make ourselves look more moral and rational than we are. Serves the M5 self row
+(self-justification).
+
+Chapter 5 (Self and the Other, 00:40:00 to 00:50:03): Bloom introduces attribution and
+Heider's person bias, the fundamental attribution error (over-attributing behaviour to the
+person, under-weighting the situation), the quiz-show study (watchers rate the question-
+asker as smarter despite the coin flip), the actor-role confusion cases (Robert Young's
+Marcus Welby mail and the "I am not a doctor but I play one on TV" Sanka line; Stallone's
+Swiss boarding school versus Rambo; Nimoy's I Am Not Spock and I Am Spock), and the United
+States-India cross-cultural comparison (Western murder reports emphasise the person, Indian
+reports the situation; the error is not a human universal). Serves the M5 self row (self
+versus other in attribution).
+
+Chapter 6 (How We Think about Other People, 00:50:03 to end): Bloom presents the liking
+evidence: proximity (the Manhattan housing project: 90 percent of best friends in the same
+building, 50 percent on the same floor), the mere exposure effect (Cutting's flashed-
+paintings study; people prefer their own mirror image, friends prefer the true image),
+similarity (friends and spouses alike; similarity predicts marriage success; couples
+converge over time), and attractiveness with the Matthew effect (attractive people judged
+smarter and more competent; teachers rate attractive children higher; mock-trial judges give
+longer sentences to unattractive defendants), closing with Bloom's explicit discomfort with
+the supermarket parking-lot study on parents and unattractive children, which he says he is
+not comfortable with as an experiment and ends by calling not a good study. Serves the
+interpersonal elective branch named in the scope doc.
+
+Status for the chapter-1-remainder and chapter-3 to chapter-6 segments: verified-video
+(transcript-based content review; identity, duration and instructor metadata inherited from
+the previous worker's checks). This completes lecture 16: all six chapters are now content-
+verified.
+
+Provenance correction (batch 23): the fetch used for this entry carried a return-as-is
+prompt rather than being fully unprompted; the entry was re-verified against a raw
+unprompted re-fetch of the same page in the batch 23 pass, which returned the identical
+transcript text.
+
+Additional inspection (2026-10-25, worker-pplx-psychdim-2, batch 20): lecture 17 (Self and
+Other, Part II; Some Mysteries: Sleep, Dreams, and Laughter, 64:53) chapters 1 and 3 to 8
+read in full from the transcript on the [OYC
+page](https://oyc.yale.edu/psychology/psyc-110/lecture-17), via a full-text fetch returning
+the cleaned page text as-is (see the batch 23 provenance correction); chapter 2 was verified
+previously, so this completes the lecture. Note: the page's chapter table lists EIGHT
+chapters; the earlier outline recorded in this ledger stopped at chapter 7 (Dreams) and
+omitted chapter 8 (The True Mystery of Laughter, 00:51:31 to end).
+
+Chapter 1 (Introduction, 00:00:00 to 00:01:39): Bloom reviews where the social-psychology
+sequence left off (self biases, the fundamental attribution error, liking and the Matthew
+effect).
+
+Chapter 3 (Positive Uses and Negative Effects of Stereotypes, 00:11:15 to 00:27:19): Bloom
+frames stereotypes as category knowledge essential to survival (chairs, apples, dogs), notes
+people-stereotypes are collected the same way and are often accurate (the lawyer and height
+examples), then the failure modes: confirmation bias sustaining inaccurate stereotypes,
+unrepresentative media data (Sopranos and Shylock portrayals), the blind-audition finding
+that women are hired far more behind screens, moral limits on applying even accurate group
+generalizations (profiling versus the accepted young-driver insurance premium), Steele's
+stereotype threat (reminding a group of its negative stereotype in a domain immediately
+damages performance, shown with math tests), and the three levels (public, private,
+unconscious associations), with the public-attitude shift data (willingness to vote for an
+African American president moving from about half to near one hundred percent). Serves the
+interpersonal elective branch (perception of groups).
+
+Chapter 4 (Implicit Attitudes, 00:27:19 to 00:34:47): Bloom runs Banaji's Implicit
+Association Test as a classroom demonstration (implicit.harvard.edu; described as the
+biggest psychology experiment ever run by participation), explains the congruent-versus-
+incongruent reaction-time logic, its extensions (gender and math, age, obesity, sexual
+orientation), and why half-second differences matter: police shoot/don't-shoot reaction-time
+studies, race differences in bystander helping when others are present, and Dovidio's hiring
+studies where strong recommendations equalise hiring but ambiguous ones favour white
+applicants in 1989, 1999 and a recent replication; closing with Devine's automaticity theory
+(stereotypes are automatically activated and overriding them takes conscious work). Serves
+the interpersonal elective branch (implicit group attitudes).
+
+Chapter 5 (Question and Answer on Stereotypes, 00:34:47 to 00:38:09): Bloom gives the
+structural remedies (job searches that deliberately solicit names from disadvantaged groups
+because equally qualified people do not otherwise come to mind; blind reviewing) and the
+own-group-bias question, noting African Americans show much the same IAT effect as white
+Americans, so the effect does not reduce to in-group favoritism. Serves the same elective
+branch.
+
+Chapter 6 (The Minor Mystery of Sleep, 00:38:09 to 00:44:49): sleep as a motivation like
+food or drink; the EEG stages (I through IV, delta waves, REM; four to five cycles a night),
+REM versus slow-wave sleep, the restoration account (growth hormone, organ restoration,
+immune activity; stop sleeping and you die), the energy-preservation account, and sleep
+disorders including the Ambien sleep-eating and sleep-driving side effects.
+
+Chapter 7 (The Greater Mystery of Dreams, 00:44:49 to 00:51:31): real dreams versus sleep
+thought; everybody dreams three to four times a night and dream diaries work because dream
+memories fade; dream-content findings from collected reports (most dreams negative; tribal
+societies more physical aggression; men more aggressive dreams than women; Americans more
+than Europeans; about ten percent explicit sexual content; the most common dream is being
+chased); Freudian theories with little support; the memory-consolidation view of dreams as
+epiphenomena of the brain backing itself up.
+
+Chapter 8 (The True Mystery of Laughter, 00:51:31 to end): laughter as an evolutionary
+puzzle; the incongruity account quoted and rejected; Provine's mall observations (over a
+thousand laughter episodes, only about ten percent following anything humorous); laughter as
+social, loud, contagious (laugh tracks); primate parallels (monkeys laughing in attack,
+chimps in tickling); the mock-aggression theory; Plato's bonding-against-a-common-enemy
+view; the ingredients of humor (a target, harm not serious enough for fear or grief,
+surprise); and the self-tickling question. ASSIGNMENT NOTE: chapters 6 to 8 are content-
+verified but serve NO current matrix row — sleep, dreams and laughter have no current matrix
+outcome mapped; flagged for the strategist or owner whether they belong in the degree at all
+(proposal: leave unassigned).
+
+Status for the chapter-1 and chapter-3 to chapter-8 segments: verified-video (transcript-
+based content review; identity, duration and instructor metadata inherited from the previous
+worker's checks). Lecture 17 is now fully content-verified across all eight chapters.
+
+Provenance correction (batch 23): the fetch used for this entry carried a return-as-is
+prompt rather than being fully unprompted; the entry was re-verified against a raw
+unprompted re-fetch of the same page in the batch 23 pass. The raw text is identical in
+substance and additionally preserves Bloom's printed false starts (for example 'typical —
+typically' and 'what we expect and what we actually — what actually happens') that the
+earlier fetch had smoothed; no quoted span in this entry is affected, and the raw text is
+now the authority of record.
+
+Additional inspection (2026-10-25, worker-pplx-psychdim-2, batch 21): lecture 13 (Why Are
+People Different, 65:49) chapters 3 to 6 read in full from the transcript on the [OYC
+page](https://oyc.yale.edu/psychology/psyc-110/lecture-13), via a full-text fetch returning
+the cleaned page text as-is (see the batch 23 provenance correction); chapters 1 to 2 were
+verified previously, so this completes the lecture.
+
+Chapter 3 (Defining and Measuring Intelligence, 00:19:47 to 00:30:29): Bloom presents the
+difficulty of defining intelligence (an expert survey naming abstract reasoning, problem
+solving and the capacity to acquire knowledge), Spearman's distinction between S (specific
+subtest abilities) and G (general intelligence, illustrated with an athletic-testing
+analogy), Wechsler scoring (100 fixed as the average; 68 percent between 85 and 115; 95
+percent between 70 and 130; above 145 about 0.13 percent of the population), the Herrnstein
+and Murray Bell Curve controversy, the APA task-force consensus that IQ is strongly related
+to educational, occupational, economic and social outcomes, and the self-fulfilling-prophecy
+objection (society makes IQ matter through the SAT and GRE; his height-based admissions
+analogy).
+
+Chapter 4 (Q&A, 00:30:29 to 00:36:33): faking on personality tests and the catch-question
+defences; emotional intelligence (Salovey's research; predictive power not as strong as for
+regular IQ; correlated with g); what makes a good test (reliability over time, validity
+against real-world outcomes); personality and IQ as more-or-less stable traits.
+
+Chapter 5 (The Roles of Genes and Environment, 00:36:33 to 00:51:16): the genes-plus-
+environment framing; the heritability misconception cleared (heritability is a claim about
+differences between people in a population, not about the origin of an individual's trait —
+height is heritable, number of legs is not); shared versus non-shared environment, with
+heredity plus shared plus non-shared summing to one; the behavioral-genetics toolkit
+(monozygotic twins at 100 percent shared genes, dizygotic at 50 percent, adoptive siblings
+with no special overlap; identical twins reared apart as the gold standard, including the
+Giggle Twins and similar brain scans); high heritability for almost everything; and the
+within-group versus between-group logic (Lewontin's differently fertilised wheat plots; the
+two-midterms classroom analogy) showing that within-group heritability implies nothing about
+between-group causes.
+
+Chapter 6 (Genes, Environment and Intelligence, 00:51:16 to end at 65:49): group differences
+correspond better to socially than genetically defined groups; the Flynn effect (tests
+renormed so the average stays 100; an average 1980 test-taker scores about 120 on the 1950
+test), showing IQ can shift dramatically without genetic change; Bloom's surprising claim
+that almost everything not genetic is non-shared environment — the IQ correlation of
+genetically unrelated adults raised in the same family is about zero; the Newsweek "do
+parents matter?" debate around Judith Harris's The Nurture Assumption (including the George
+Miller award story, the Philip Larkin poem and Harris's rebuttal, and Oliver James's reply
+book); and Bloom's critique of a family-meals-and-teen-risk study for reverse causality,
+third-variable confounds and unfactored age, extended to reading-to-children and the cycle
+of violence.
+
+Status for all six chapters: verified-video (transcript-based content review; identity,
+duration and instructor metadata inherited from the previous worker's checks). The M5
+personality row keeps its existing personality segments only; the intelligence-measurement
+and behavioral-genetics chapters are content-verified but left unassigned, because
+intelligence is not an established matrix row and the assignment decision is flagged for the
+strategist or an independent review rather than made by this worker (see the gap register).
+Lecture 13 is now fully content-verified across all six chapters; the complete bounded
+chapter 1 (00:00:00 to 00:13:53) was read in full in the batch 23 raw re-fetch,
+substantiating the all-six-chapters status from the raw page text.
+
+Provenance correction (batch 23): the fetch used for this entry carried a return-as-is
+prompt rather than being fully unprompted; the entry was re-verified against a raw
+unprompted re-fetch of the same page in the batch 23 pass, which returned the identical
+transcript text.
+
+Additional inspection (2026-10-25, worker-pplx-psychdim-2, batch 22): lecture 11 (Evolution,
+Emotion, and Reason: Emotions, Part I, 53:15) chapters 4 to 6 read in full from the
+transcript on the [OYC page](https://oyc.yale.edu/psychology/psyc-110/lecture-11), via a
+full-text fetch returning the cleaned page text as-is (see the batch 23 provenance
+correction); chapters 1 to 3 were verified previously, so this completes the lecture.
+
+Chapter 4 (Question and Answer on Smiles, 00:28:08 to 00:32:22): Bloom fields questions on
+whether nonhuman primates give the same human smile types (he does not know; promises to
+find out), why some people's smiles are better (some are better able to express true
+happiness), and teeth-versus-closed-lips smiling (probably a difference, likely varying
+cross-culturally, citing England versus United States findings), and demonstrates emotional
+contagion with a classroom smiling exercise (self-described as the worst class demo ever,
+but noting it is extremely difficult to face a genuinely smiling person and not smile,
+generalising to other emotions).
+
+Chapter 5 (Non-social Emotions: Fear, 00:32:22 to 00:36:29): Bloom presents fear as a basic,
+universal, nonsocial emotion with a distinctive facial expression (the Oswald-assassination
+photograph's detective); the universal fear elicitors (spiders, snakes, heights, storms,
+large animals, darkness, blood, strangers, humiliation, deep water, leaving home alone) and
+his question of why so few people are afraid of guns, cars and electrical outlets, answered
+by ancestral-environment danger; the inner-city Chicago children study he cites (their
+biggest fears were snakes and spiders, many of them having, as Bloom says, probably never
+seen a snake outside a zoo); and DeLoache's indirect-methods research finding babies'
+prepared fear of spiders and snakes (pre-potent stimuli). Serves the M2 emotion-functions
+row (fear as a case study).
+
+Chapter 6 (Social Emotions and Altruism, 00:36:29 to end, 53:15): the social emotions split
+into kin-directed and non-kin; altruism as the biologists' term; the gene-A-versus-gene-B
+thought experiment; the gene's-eye perspective (the cold virus and sneezing, toxoplasmosis
+rewiring rats' fear of cats, rabies and the syphilis-libido evidence; "a person is just a
+germ's way of making other germs"); Dawkins's selfish genes and the claim that selfish genes
+lead to altruistic animals; Haldane's joke about laying down his life for three brothers,
+five nephews or nine first cousins and the genetic-relatedness logic; lion infanticide and
+spontaneous abortions on pride takeover; infant distress calls as an evolutionary high-wire
+act; baby cuteness as brain-wiring (Gould's Mickey Mouse essay, the baby-face bias in adults
+including mock-trial verdicts); and the Cupboard Theory (Skinner, food and operant
+conditioning) versus Bowlby's comfort-and-stranger-wariness account, closing with the Harlow
+wire-mother versus cloth-mother films (to be explained next lecture). Serves the M2 emotion-
+functions row (social emotions towards kin, altruism's evolutionary basis) and connects to
+the lecture-12 kin-emotions segment already verified.
+
+Status for the chapter-4 to chapter-6 segments: verified-video (transcript-based content
+review; identity, duration and instructor metadata inherited from the previous worker's
+checks). Lecture 11 is now fully content-verified across all six chapters.
+
+Provenance correction (batch 23): the fetch used for this entry carried a return-as-is
+prompt rather than being fully unprompted; the entry was re-verified against a raw
+unprompted re-fetch of the same page in the batch 23 pass, which returned the identical
+transcript text, including the Chicago-children and fear-elicitor phrasings as printed.
+
+QC pass (2026-10-25, worker-pplx-psychdim-2, batch 23; advisor round 2): the advisor
+withheld clearance on batches 19 to 22 with four repairs, all applied in this pass. (1)
+Provenance: the full-text fetches used for batches 18 to 22 carried a return-as-is prompt
+rather than being fully unprompted; every entry was re-verified in this pass against a raw
+unprompted re-fetch of the same OYC page (prompt omitted). Lectures 11, 12, 13 and 16
+returned the identical transcript text. Lecture 17's raw fetch additionally preserves
+Bloom's printed false starts (for example 'typical — typically' and 'what we expect and what
+we actually — what actually happens') that the earlier fetch had smoothed; no quoted span in
+the ledger is affected, and the raw text is now the authority of record. (2) Lecture 13's
+all-six-chapters status is now substantiated: the complete bounded chapter 1 (00:00:00 to
+00:13:53) was read in full from the raw page text (the universals-to-differences framing;
+reliability and validity; the superhero-test, Rorschach, Allport, Eysenck and Cattell
+measurement history). Lecture 7's chapter 1 remains unread and stays on the candidate list.
+(3) The whole-lecture assignment to the M5 personality row is undone: the row reverts to its
+personality segments (lecture 13 chapter 1's measurement history and chapter 2; lecture 16
+chapter 2; lecture 17 chapter 2), the incidental lecture 16 chapter 1 extension is reverted,
+and the intelligence and behavioral-genetics chapters are recorded as verified but
+unassigned pending scope review (gap register note added). The stereotypes/IAT row is marked
+PROPOSED pending the scope decision, and the lecture 17 chapters 6 to 8 flag now reads 'no
+current matrix outcome mapped' instead of asserting a scope conclusion. (4) Source
+qualifiers restored: the Chicago-children and fear-elicitor phrasings in batch 22 now record
+Bloom's hedges as printed, and the lecture 16 parking-lot-study phrasing records his
+discomfort and his final 'not a good study' judgement. The long single-line batch entries
+were also split into per-chapter paragraphs wrapped under 2,000 characters per line so the
+ledger can be inspected in full.
 
 Additional inspection (2026-10-25, batch 16): lecture 17 (Self and
 Other, Part II, 64:53) had its chapter outline recorded (Introduction
@@ -411,11 +764,11 @@ blocking gaps on the register, not quiet omissions.
 | attentional | Contemplative training as attentional evidence (essential: one attentional training paradigm among others; doctrine stays in the practica) | [Lippelt et al. 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/pdf/fpsyg-05-01083.pdf) | M4 | reading | compare practice types by attentional mechanism | comparison table |
 | self | Self-concept clarity: definition, measurement, development, evidence limits (essential: a comprehensive recent review of a well-defined structural account of the self, selected as the self-dimension anchor) | [Manchiraju 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/) | M5 | reading | self-assessment with the SCCS framing and limits discussion | reflective write-up |
 | self | Identity development: exploration and commitment, identity domains, narrative identity (essential: how the self develops over time) | [Branje et al. 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC9298910/) | M5 | reading | chart an identity domain over time | domain-chart rubric |
-| self | Personality and traits: Five-Factor Model, person-situation debate (essential: stable individual differences in self and behaviour) | [Diener and Lucas](https://nobaproject.com/modules/personality-traits); verified OYC lecture 13 (all six chapters, 00:00:00 to 01:05:49: Big Five, intelligence measurement, genes and environment, shared versus non-shared environment, the Flynn effect), lecture 16 chapters 1 to 2 (00:00:00 to 00:22:40, spotlight and transparency effects) and lecture 17 chapter 2 (00:01:39 to 00:11:15, impression formation and Pygmalion effect) | M5 | reading | trait-description exercise with the person-situation caveat | written trait account |
+| self | Personality and traits: Five-Factor Model, person-situation debate (essential: stable individual differences in self and behaviour) | [Diener and Lucas](https://nobaproject.com/modules/personality-traits); verified OYC lecture 13 chapter 1 (personality-test reliability and validity, the Rorschach critique, Allport, Eysenck, Cattell) and chapter 2 (00:13:53 to 00:19:47, Big Five), lecture 16 chapter 2 (00:15:56 to 00:22:40, spotlight and transparency effects) and lecture 17 chapter 2 (00:01:39 to 00:11:15, impression formation and Pygmalion effect) | M5 | reading | trait-description exercise with the person-situation caveat | written trait account |
 | self | Self-evaluation and self-justification: better-than-average effect, self-serving bias, cognitive dissonance (essential: how the self is judged and defended; added 2026-10-25 from the batch 19 verification) | verified OYC lecture 16 chapters 3 and 4 (00:22:40 to 00:40:00) | M5 | lecture segments | spot the biases in a written self-account | short written analysis |
 | self | Self versus other in attribution: the fundamental attribution error, actor-role confusion, cross-cultural limits (essential: the self-other asymmetry in explaining behaviour; added 2026-10-25 from the batch 19 verification) | verified OYC lecture 16 chapter 5 (00:40:00 to 00:50:03) | M5 | lecture segment | attribution exercise on one own versus another's behaviour | exercise rubric |
 | self | Liking and interpersonal attraction: proximity, mere exposure, similarity, attractiveness (elective: the scope's interpersonal elective branch; added 2026-10-25 from the batch 19 verification) | verified OYC lecture 16 chapter 6 (00:50:03 to 00:58:15) and chapter 1 remainder (Milgram small-world, connectors) | M5 | lecture segment (elective) | optional: map one own relationship to the four factors | not assessed unless elected |
-| self | How we think about groups: stereotypes' uses and errors, stereotype threat, implicit attitudes and the IAT (elective: the scope's interpersonal elective branch; added 2026-10-25 from the batch 20 verification; the scope's exclusion review names group perception as an open scope question) | verified OYC lecture 17 chapters 3 to 5 (00:11:15 to 00:38:09) | M5 | lecture segments (elective) | optional: take the IAT and write what it does and does not show | not assessed unless elected |
+| self | How we think about groups: stereotypes' uses and errors, stereotype threat, implicit attitudes and the IAT (elective, PROPOSED pending the scope decision: the scope's interpersonal elective branch and its exclusion review name group perception as an open question; added 2026-10-25 from the batch 20 verification) | verified OYC lecture 17 chapters 3 to 5 (00:11:15 to 00:38:09) | M5 | lecture segments (elective) | optional: take the IAT and write what it does and does not show | not assessed unless elected |
 | self | Self as an EEMM dimension; the FAP target (specification of the stimuli controlling the verbal response "I") as one FAP-specific application (essential: ties the dimension back to the framework) | [Maitland 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/) Table 1 | M5 | reading | apply the EEMM self dimension to one personal pattern | written synthesis |
 | motivational | Intrinsic and extrinsic motivation; the autonomy continuum and basic needs (essential: a comprehensive recent statement of the field's major motivation framework, selected as the motivational anchor) | [Ryan and Deci 2020](https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf) | M6 | reading (content check done: OYC lecture 14 covers sex and gender, not SDT, so it is not a segment for this row) | classify personal motivations on the continuum | classification with reasons |
 | motivational | Goals of regulation and motivation: hedonic, instrumental, eudaimonic; control-value theory (essential: links motivation to affect) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M6 | reading | link emotion-regulation goals to motivational states in a case | written link analysis |
@@ -478,6 +831,12 @@ feeding the next module's entry:
   pages state them) checked; their content classification from recordings
   or transcripts and segment assignment are outstanding, following the
   lecture-11 pattern at module production.
+- Intelligence and behavioral genetics (lecture 13 chapters 3 to 6):
+  content-verified but unassigned — intelligence is not an established
+  matrix row, and the assignment decision is flagged for the strategist
+  or an independent review; the personality row keeps its personality
+  segments only. Lecture 17 chapters 6 to 8 (sleep, dreams, laughter)
+  have the same status: verified, no current matrix outcome mapped.
 - Self-regulation breadth (essential, RESOLVED this session): the M7
   row is grounded by Werner and Berkman 2024 (a current conceptual review
   of self-control as a dynamic motivational process, covering adults
