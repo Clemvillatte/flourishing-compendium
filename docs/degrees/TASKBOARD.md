@@ -43,7 +43,7 @@ measured from fcAcademyData on 2026-10-25 (attachments counted per module
 reference, unique source ids in brackets):
 
 - Block A: deg-philosophy attached sources (39 attachments, 36 unique) — deg-verify-a (verified 2026-10-25 by verifier-pplx-a1, see docs/degrees/verify/deg-philosophy.md; 33 of 36 verified, 3 Cynicism-series optionals unconfirmed-accessible and flagged)
-- Block B: deg-contemplative attached sources (37, 33) — deg-verify-a (in progress: verifier-pplx-a1; 15 required sources verified 2026-10-25, see docs/degrees/verify/deg-contemplative.md; optionals pending)
+- Block B: deg-contemplative attached sources (37, 33) — deg-verify-a (verified 2026-10-25 by verifier-pplx-a1, see docs/degrees/verify/deg-contemplative.md; all 33 unique sources verified, Spanish-language flags on SRC-M24-005/006, duration mismatches on M02-K06, SRC-M24-001, SRC-M12-007)
 - Block C: deg-relational attached sources (12, 10) — deg-verify-b
 - Block D: deg-mind attached sources (31, 25) — deg-verify-b
 - Block E: deg-wellbeing attached sources (15, 13) — deg-verify-a (verified 2026-10-25 by verifier-pplx-a1, see docs/degrees/verify/deg-wellbeing.md; 12 of 12 imported records verified)

@@ -451,9 +451,78 @@ the end. All sources below are freely accessible, no paywalls or app gates found
 - Relevant segment: whole session, 1:34:32.
 - Verification status: verified-video.
 
-## Remainder
+## Block B optional batch 4 (verified 2026-10-25)
 
-Optional media still pending: SRC-M24-004, SRC-M24-005, SRC-M24-006, M05-MA-02
- and the capstone repeats.
+### SRC-M24-004: Archives of the Impossible Plenary, AnaLouise Keating (Rice University)
+
+- Identity and access: oembed confirms the lecture on the Rice Humanities channel
+  (https://www.youtube.com/watch?v=x0gfaHous4g).
+- Duration: 0:50:26 (watch page, 2026-10-25).
+- Instructor credentials: AnaLouise Keating, professor of Multicultural Women's and
+  Gender Studies at Texas Woman's University, author or editor of twelve books
+  (per the host description).
+- Language: English.
+- Content coverage: the host's description states the lecture, "Cultivating the
+  Impossible with Gloria Anzaldua: Towards a Transformational Politics of Spirit",
+  was given at the May 2023 Archives of the Impossible conference on
+  transnationalism, transdisciplinarity and transcendence.
+- Relevant segment: whole lecture, 50:26.
+- Verification status: verified-video.
+
+### SRC-M24-005: Pensamientos de Gloria Anzaldua (Stehn and Alessandri, UNAM FCPyS)
+
+- Identity and access: oembed confirms the session on the Videoconferencias FCPyS
+  channel, Facultad de Ciencias Politicas y Sociales, UNAM
+  (https://www.youtube.com/watch?v=rVxILGE-reI).
+- Duration: 1:58:50 (watch page, 2026-10-25).
+- Instructor credentials: Alex Stehn (University of Texas Rio Grande Valley) and
+  Mariana Alessandri, presenters, with Obed Frausto commenting and Jania Delgadillo
+  moderating (per the host description).
+- LANGUAGE: Spanish. Flag for the module owner: this is the only Spanish-language
+  source verified for this degree so far; the module must state that expectation to
+  learners.
+- Content coverage: the host's description states the session covers Anzaldua's
+  thought, Mexican sources in her philosophy, linguistic terrorism and linguistic
+  shame, and bilingual education.
+- Relevant segment: whole session, 1:58:50.
+- Verification status: verified-video, with the language flag noted.
+
+### SRC-M24-006: Reading of the Popol Wuj, Restoration or Rewriting (Carlos Lopez, OSU CLAS)
+
+- Identity and access: oembed confirms the talk on the CLAS at OSU channel
+  (https://www.youtube.com/watch?v=dfIlzJUZbjk).
+- Duration: 1:16:09 (watch page, 2026-10-25).
+- Instructor credentials: Carlos M. Lopez, professor and researcher in the
+  Department of Modern Languages at Marshall University, a leading scholar of the
+  Popol Wuj and academic director of the OSU-Newberry online edition (per the host
+  description).
+- LANGUAGE: Spanish. Same language flag for the module owner as SRC-M24-005.
+- Content coverage: the host's description states the talk explains ideas behind a
+  painting drawn from Popol Wuj narratives and raises the dilemma of restoration
+  versus rewriting for texts originating outside our cultural framework.
+- Relevant segment: whole talk, 1:16:09.
+- Verification status: verified-video, with the language flag noted.
+
+### M05-MA-02: Alumnus of the Year 2014 Lecture, David Carrasco (University of Chicago)
+
+- Identity and access: oembed confirms the lecture on The University of Chicago
+  channel (https://www.youtube.com/watch?v=SePyDwqN3IU).
+- Duration: 1:12:17 (watch page, 2026-10-25).
+- Instructor credentials: David Carrasco, Neil Rudenstine Professor of the Study of
+  Latin America at Harvard University, UChicago Divinity School Alumnus of the
+  Year 2014 (per the host description).
+- Language: English.
+- Content coverage: the host's description states the lecture, "From Axis Mundi to
+  Mappa Mundi: Great Temples and Sacred Bundles in Aztec Society", covers the Aztec
+  ceremonial center and Great Temple, the Mapa de Cuauhtinchan, and sacred bundles.
+- Relevant segment: whole lecture, 1:12:17.
+- Verification status: verified-video.
+
+## Block B status
+
+All 33 unique attached sources for deg-contemplative have now been verified: 15
+required and 16 optional entries verified in this pass, plus the two records that
+were already verified before it (SRC-M22-NG01 and M05-MA-04). Spanish-language flags
+on SRC-M24-005 and SRC-M24-006 go to the module owner.
 
 (in progress: verifier-pplx-a1)
