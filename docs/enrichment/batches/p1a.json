@@ -29,14 +29,15 @@
   "D087",
   "D019",
   "D001",
-  "D055"
+  "D055",
+  "D054"
  ],
- "in_progress": "D054",
+ "in_progress": null,
  "flagged": {
   "D087": "QC complete: butterfly passage and modernized names verified; Plain words repaired",
   "D055": "QC complete: DDJ 29/64 and Chan section 7 verified; Plain words repaired",
   "D080": "RESOLVED by worker-p1a-1025b 2026-10-25 (per-item verification): repair confirmed present on the current page — Plain words makes perspective and accommodation intelligible directly (different concerns can reveal a change both can accept) without flattening all judgments (\"take a preference seriously while still questioning claims that lack support\"), matching Hansen's circumstance-dependent-judgment reading per the ledger; the shift example includes a one-week trial and joint review. No page edit needed this session; source verification not repeated; evidence in sources/p1a/repair-b303ba60.md §D080. [ORIGINAL ALLEGATION: Reopened for QC: Make perspective and accommodation intelligible in Plain words without flattening all judgments]",
-  "D054": "Reopened for QC: QC: one-sentence Plain words and explicit model-based habit timeframe",
+  "D054": "Review deferred at owner-requested release; principle file unchanged; pre-existing done status restored",
   "D019": "QC complete: DDJ 44/46 quotation and SEP section 7 checked; one-sentence Plain words",
   "A053": "RESOLVED by worker-p1a-1025b 2026-10-25 (per-item verification): repair confirmed present on the current page — the QA-like \"supports ... condition\" phrasing is gone; Plain words states the voluntary/deliberate-choice distinction directly; the example includes acknowledgment, trying a different response and review; the retained NE III.1 quotation matches Ross and the captain/extreme-pressure qualifications are discussed per the ledger. No page edit needed this session; source verification not repeated; evidence in sources/p1a/repair-b303ba60.md §A053. [ORIGINAL ALLEGATION: Reopened for QC: Replace QA-like example wording and explain voluntary versus chosen directly]",
   "A091": "RESOLVED by worker-p1a-1025b 2026-10-25 (per-item verification): body verified unchanged with opened carriers per sources/p1a/repair-b303ba60.md §A091 (NE X Ross opened; retained quotation matches X.8 verbatim; Politics VII Jowett and Kraut opened) — the body preserves the contemplation/action tension and labels the combined-life proposal as its own; NOTE: the repair file referenced in the prior flag text (A091-repair-d9e5b9d0.md) is not present in the repo; the actual evidence location is repair-b303ba60.md. No page edit needed this session; source verification not repeated; scoped acceptance only. [ORIGINAL ALLEGATION: SCOPED BODY REPAIR COMPLETE; advisor QC recorded and applied. See sources/p1a/A091-repair-d9e5b9d0.md for opened evidence and limits. Not a certification of inherited unprovided parallels, concept pages or protected reflections.]",
@@ -66,7 +67,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 58,
- "updated": "2026-10-25T10:56:27+00:00",
+ "updated": "2026-10-25T10:57:07+00:00",
  "band_done": false,
  "notes": {
   "leftover_repairs_2026_10_22": "worker-pplx-p1a-77f2b91c: queue-principles.json audit found 3 leftover items (K008, SE066 no-source-URL; D075 checked and COMPLIANT with the 40-300 principle word band, no action). ROUTING CORRECTION (advisor QC round 2): K008 belongs to p1w (done there), SE066 to p1b (done+flagged there); the repairs were executed by this worker under p1a in error — content edits are verified and kept, but the items are REMOVED from p1a done (this file) and flagged to the supervisor for reconciliation into p1w/p1b state files. Repairs delivered: K008 Sources URL added (archive.org catalog record, 1982 UC Press edition; translator removed from the link label per advisor — the catalog record does not list it); SE066 Sources URLs added, both Vygotsky quotes raw-verified against the Mind in Society full text, Nietzsche German verified against the Gutenberg German text (prior hold resolved) plus the English rendering verified against the Gutenberg English text, Park et al. 2023 fetched and quoted verbatim, Nietzsche/PTG blocks restructured into the body with headings per advisor, workflow language swept. Per-item ledgers: sources/p1a/K008.md and sources/p1a/SE066.md (to be merged into p1w/p1b ledgers by the supervisor)."

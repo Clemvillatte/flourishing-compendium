@@ -56,3 +56,9 @@ Opened through search and fetch:
 - [Alan Chan, “Laozi,” *Stanford Encyclopedia of Philosophy*, §7](https://plato.stanford.edu/entries/laozi/). Read the discussion of wuwei through targeted extraction. Chan explicitly distinguishes it from total inaction and interprets it as a contrast to action driven by self-serving desire. He also warns against turning the ideal into a deliberate prescription to do less. His interpretation is not presented as scholarly consensus or as a proven interpersonal intervention.
 
 Changes: converted Plain words to one direct sentence; personally owned the practical question; revised the colleague example so a refusal remains genuinely possible rather than making postponement another tactic for assent. Preserved all existing links, front matter, opening statement and reflection. The modern conversation exercise is expressly suggested, not a procedure specified in the primary text.
+
+## Owner-requested release
+
+The owner requested release before the original run cap. Five principles were repaired and pushed: D031, D087, D019, D001 and D055. D054 had only been reopened for review; no changes were made to its principle file. Its pre-existing done status is restored with a deferred-review flag, not claimed as a sixth repair.
+
+The launched separate-account worker still requires a credential handoff and is not claimed as authenticated for repository writes. A further account reached onboarding but no task was submitted there; the latest requested account was not launched. No raw token was included in a worker message, repository file or log by this session.
