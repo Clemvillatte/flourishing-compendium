@@ -79,3 +79,18 @@ draft defect). s1d-004 fully verified; no repairs needed.
 ## Timestamp note (2026-10-21, worker-perplexity-67ce7e1d)
 The UTC times in this session's HANDOFF entries drifted ahead of the wall clock; the true
 session window is 12:58:56-13:57 UTC. The verifications and results are unaffected.
+
+## Continuation 2026-10-25 (storyteller-pplx-s1d-1025z)
+
+- fm status reconciled to `ready` on the five ready-unpublished drafts (006-010);
+  `story_register.py` refuses non-ready front matter, so the stale `qc_pending`/`drafting`
+  values would have blocked registration. story_check 0 errors on all five.
+- DISPOSITION REQUESTED on s1d-010 (The Kalamas Ask Which Teachers Are Lying, B018,
+  Thanissaro translation): quotes re-verified verbatim against the live Access to
+  Insight page (4/4 checked, 2026-10-25). BUT the Kalama Sutta is already published as
+  ST466 (Who Spoke the Truth?, B160, Soma translation) — same narrative event,
+  different principle and translation. Registering s1d-010 would give the compendium
+  two Kalama Sutta pages. The angle differs in principle mapping (B018's full
+  problem-grounds-test-criterion arc vs B160's question-authority framing), so this is
+  a supervisor/owner call: register as a distinct-angle story or reject as duplicate.
+  Same pattern as s1c-039 vs ST430 (Franklin), routed the same day.
