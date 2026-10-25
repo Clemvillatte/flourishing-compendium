@@ -13123,7 +13123,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Right speech](card:Right%20speech) is the third factor of the [Eightfold Path](card:Eightfold%20Path), the fourth Noble Truth's summary of the training, with the [Four Noble Truths](card:Four%20Noble%20Truths) as the diagnosis the whole path answers. [The three trainings](card:The%20three%20trainings) place the speech abstentions under virtue, alongside concentration and wisdom. The sibling factors each have their own card and dossier in this programme: [right intention](card:Right%20intention), [right action](card:Right%20action) and [right livelihood](card:Right%20livelihood)."
+          "x": "[Right speech](card:Right%20speech) is the third factor of the [Eightfold Path](card:Eightfold%20Path), the fourth Noble Truth's summary of the training, with the [Four Noble Truths](card:Four%20Noble%20Truths) as the diagnosis the whole path answers."
+        },
+        {
+          "t": "p",
+          "x": "[The three trainings](card:The%20three%20trainings) place the speech abstentions under virtue, alongside concentration and wisdom."
+        },
+        {
+          "t": "p",
+          "x": "The sibling factors each have their own card and dossier in this programme: [right intention](card:Right%20intention), [right action](card:Right%20action) and [right livelihood](card:Right%20livelihood)."
         },
         {
           "t": "p",
@@ -13183,7 +13191,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The popular three-question test — is it true, is it necessary, is it kind — is [the three gates of speech](card:The%20three%20gates%20of%20speech), with the attribution problem the card records: credited to Rumi but never to a specific work, and possibly a misquote. My own name for the Buddhist check run before speaking is the [speech gate](card:Speech%20gate), in its canonical Abhaya Sutta form, including the baby-on-the-lap image of why the gate exists. The six-case test the Buddha gave Prince Abhaya is the [wise speech criteria](card:Wise%20speech%20criteria), which holds truth and benefit apart from agreeableness and adds the time-sense."
+          "x": "The popular three-question test (is it true, is it necessary, is it kind) is [the three gates of speech](card:The%20three%20gates%20of%20speech), with the attribution problem the card records: credited to Rumi but never to a specific work, and possibly a misquote. My own name for the Buddhist check run before speaking is the [speech gate](card:Speech%20gate), in its canonical Abhaya Sutta form, including the baby-on-the-lap image of why the gate exists. The six-case test the Buddha gave Prince Abhaya is the [wise speech criteria](card:Wise%20speech%20criteria), which holds truth and benefit apart from agreeableness and adds the time-sense."
         },
         {
           "t": "p",
@@ -13214,7 +13222,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The kernel forms of the gate are [K208 — speech gate](card:K208%20%E2%80%94%20Speech%20gate), running the words through the gate before they leave, [K044 — speak slowly, and let speech be timely](card:K044%20%E2%80%94%20Speak%20slowly%2C%20and%20let%20speech%20be%20timely), slowing the utterance down enough for the gate to open and close, [B146 — test speech before it leaves](card:B146%20%E2%80%94%20Test%20speech%20before%20it%20leaves), the four questions before the words leave, and [B148 — speak lovingly](card:B148%20%E2%80%94%20Speak%20lovingly), the Dhammapada's counsel that hard truths can be spoken so the listener can receive them: speak not harshly to anyone, for those thus spoken to might retort."
+          "x": "The kernel forms of the gate are [K208 — speech gate](card:K208%20%E2%80%94%20Speech%20gate), running the words through the gate before they leave, [K044 — speak slowly, and let speech be timely](card:K044%20%E2%80%94%20Speak%20slowly%2C%20and%20let%20speech%20be%20timely), slowing the utterance down enough for the gate to open and close."
+        },
+        {
+          "t": "p",
+          "x": "[B146 — test speech before it leaves](card:B146%20%E2%80%94%20Test%20speech%20before%20it%20leaves) is the four questions before the words leave, and [B148 — speak lovingly](card:B148%20%E2%80%94%20Speak%20lovingly), the Dhammapada's counsel that hard truths can be spoken so the listener can receive them: speak not harshly to anyone, for those thus spoken to might retort."
         },
         {
           "t": "h",
@@ -13226,7 +13238,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The practice forms are various. [Active listening](card:Active%20listening) is the 1957 Rogers and Farson practice: restate the speaker's meaning in your own words, getting inside the speaker's point of view and conveying that you see it. [Deep listening](card:Deep%20listening) is listening with the sole intention of understanding, and its kernel is [K207](card:K207%20%E2%80%94%20Deep%20listening), the twenty-minute practice. [Hermeneutic listening](card:Hermeneutic%20listening) is Gadamer's hermeneutics making listening central to understanding: understanding has its own rigour, that of uninterrupted listening."
+          "x": "The practice forms are various. [Active listening](card:Active%20listening) is the 1957 Rogers and Farson practice: restate the speaker's meaning in your own words, getting inside the speaker's point of view and conveying that you see it. [Deep listening](card:Deep%20listening) is listening with the sole intention of understanding, and its kernel is [K207](card:K207%20%E2%80%94%20Deep%20listening), the twenty-minute practice."
+        },
+        {
+          "t": "p",
+          "x": "[Hermeneutic listening](card:Hermeneutic%20listening) is Gadamer's hermeneutics making listening central to understanding: understanding has its own rigour, that of uninterrupted listening."
         },
         {
           "t": "p",
@@ -13242,7 +13258,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "How can a need be said without becoming a demand? [Nonviolent communication](card:Nonviolent%20communication) is Rosenberg's four-step structure — observation, feeling, need, request — aimed at giving conflict a shared language instead of a counterattack; its practice form is [K216](card:K216%20%E2%80%94%20Nonviolent%20communication), including the rule that a request is askable and refusable. [BE051 — learn to use I statements](card:BE051%20%E2%80%94%20Learn%20to%20use%20I%20statements%20%E2%80%94%20own%20your%20experience) is the assertion-training rule of owning the experience instead of assigning the blame, and [BE052 — learn assertiveness](card:BE052%20%E2%80%94%20Learn%20assertiveness%20%E2%80%94%20express%20needs%20and%20boundaries%20directly) is saying the need and the boundary without the aggression or the disappearance. The research behind it is [assertiveness research](card:Assertiveness%20research), Ames and Flynn's curvilinear finding: leaders markedly low or markedly high in assertiveness both rated less effective than those in the middle, with [assertiveness training](card:Assertiveness%20training) as the structured teaching and [K215 — assertiveness and boundaries](card:K215%20%E2%80%94%20Assertiveness%20and%20boundaries), the Bowers' DESC script, as the practice."
+          "x": "How can a need be said without becoming a demand? [Nonviolent communication](card:Nonviolent%20communication) is Rosenberg's four-step structure (observation, feeling, need, request) aimed at giving conflict a shared language instead of a counterattack; its practice form is [K216](card:K216%20%E2%80%94%20Nonviolent%20communication), including the rule that a request is askable and refusable."
+        },
+        {
+          "t": "p",
+          "x": "[BE051 — learn to use I statements](card:BE051%20%E2%80%94%20Learn%20to%20use%20I%20statements%20%E2%80%94%20own%20your%20experience) is the assertion-training rule of owning the experience instead of assigning the blame, and [BE052 — learn assertiveness](card:BE052%20%E2%80%94%20Learn%20assertiveness%20%E2%80%94%20express%20needs%20and%20boundaries%20directly) is saying the need and the boundary without the aggression or the disappearance."
+        },
+        {
+          "t": "p",
+          "x": "The research behind it is [assertiveness research](card:Assertiveness%20research), Ames and Flynn's curvilinear finding: leaders markedly low or markedly high in assertiveness both rated less effective than those in the middle, with [assertiveness training](card:Assertiveness%20training) as the structured teaching and [K215 — assertiveness and boundaries](card:K215%20%E2%80%94%20Assertiveness%20and%20boundaries), the Bowers' DESC script, as the practice."
         },
         {
           "t": "p",
@@ -13266,7 +13290,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The Daoist counsel runs against ornament. [Plain words over beautiful](card:Plain%20words%20over%20beautiful) is Laozi's counsel, in several translations, that true words are not beautiful and beautiful words are not true, with [D122 — prefer plain words to beautiful ones](card:D122%20%E2%80%94%20Prefer%20plain%20words%20to%20beautiful%20ones) as its formation rule. [The sage teaches without words](card:The%20sage%20teaches%20without%20words) is the Daodejing 2 companion piece, with [D135 — teach without words](card:D135%20%E2%80%94%20Teach%20without%20words), the paradoxical chapter 43 and 73 counsel, beside it. The chapter 5 counsel is [D119 — keep to the center](card:D119%20%E2%80%94%20Keep%20to%20the%20center%20%E2%80%94%20excess%20words%20exhaust): many words are exhausting and the useful response is not more words; [D118 — speak rarely (guayan)](card:D118%20%E2%80%94%20Speak%20rarely%20%28guayan%29) is the Daoist rule of rare speech, as distinct from muteness."
+          "x": "The Daoist counsel runs against ornament. [Plain words over beautiful](card:Plain%20words%20over%20beautiful) is Laozi's counsel, in several translations, that true words are not beautiful and beautiful words are not true, with [D122 — prefer plain words to beautiful ones](card:D122%20%E2%80%94%20Prefer%20plain%20words%20to%20beautiful%20ones) as its formation rule. [The sage teaches without words](card:The%20sage%20teaches%20without%20words) is the Daodejing 2 companion piece."
+        },
+        {
+          "t": "p",
+          "x": "The paradoxical chapter 43 and 73 counsel is [D135 — teach without words](card:D135%20%E2%80%94%20Teach%20without%20words), beside that companion piece. The chapter 5 counsel is [D119 — keep to the center](card:D119%20%E2%80%94%20Keep%20to%20the%20center%20%E2%80%94%20excess%20words%20exhaust): many words are exhausting and the useful response is not more words; [D118 — speak rarely (guayan)](card:D118%20%E2%80%94%20Speak%20rarely%20%28guayan%29) is the Daoist rule of rare speech, as distinct from muteness."
         },
         {
           "t": "p",
@@ -13300,6 +13328,67 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "The Abhaya Sutta's case list, by contrast, in its third case, admits words that are factual, true, beneficial, and unendearing, to be said at the proper time, and the reason given is sympathy, not its absence. In the passages cited, the two definitions answer that question differently: the Gita verse folds pleasantness into the definition of the austerity of speech, while the Abhaya Sutta's third case admits unendearing words said at the proper time, with sympathy as the reason. Whether the broader traditions part over pleasantness is not established by these two passages alone. What remains unresolved is where the line falls in the hard case: a truth that is beneficial, unendearing, and whose hearer is not ready for it."
+        },
+        {
+          "t": "h2",
+          "x": "May one lie for another's sake?"
+        },
+        {
+          "t": "p",
+          "x": "The Cunda Kammaraputta Sutta's witness scene states the Buddhist floor without an exception clause:"
+        },
+        {
+          "t": "q",
+          "x": "\"Thus he doesn't consciously tell a lie for his own sake, for the sake of another, or for the sake of any reward.\" ([Thanissaro, AN 10.176, Cunda Kammaraputta Sutta](https://www.accesstoinsight.org/tipitaka/an/an10/an10.176.than.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Mill's Utilitarianism draws the line elsewhere. After calling the rule against lying one of transcendent expediency, whose violation weakens the trustworthiness of human assertion, he names its chief exception:"
+        },
+        {
+          "t": "q",
+          "x": "\"Yet that even this rule, sacred as it is, admits of possible exceptions, is acknowledged by all moralists; the chief of which is when the withholding of some fact (as of information from a malefactor, or of bad news from a person dangerously ill) would save an individual (especially an individual other than oneself) from great and unmerited evil, and when the withholding can only be effected by denial.\" ([Mill, Utilitarianism ch. 2](https://www.balliol.ox.ac.uk/sites/default/files/utilitarianism_chapter_2.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The two passages answer the same question with opposite rules. The Buddhist text's witness scene gives no exception for a conscious lie told for another person's sake. Mill expressly allows an exception when withholding information would prevent great and unmerited harm and the information can be withheld only through denial, and he asks that the exception's limits be marked so it does not spread beyond the need."
+        },
+        {
+          "t": "p",
+          "x": "I lean toward the sutta's strict rule because I distrust my own ability to distinguish a necessary protective lie from a convenient excuse. That preference is hardest to defend when deception would protect someone from grave harm."
+        },
+        {
+          "t": "h2",
+          "x": "Is the duty to tell the truth unconditional?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: does the duty to speak the truth bind everyone, always, or only toward those who have a right to the truth? Constant denies the unconditional reading, and offers the murderer as his proof case:"
+        },
+        {
+          "t": "q",
+          "x": "\"Le principe moral, par exemple, que dire la vérité est un devoir, s'il était pris d'une manière absolue et isolée, rendrait toute société impossible... Dire la vérité n'est donc un devoir qu'envers ceux qui ont droit à la vérité.\" ([Constant, Des réactions politiques, ch. VIII](https://classiques.uqam.ca/classiques/constant_benjamin/des_reactions_politiques/reactions_politiques.pdf)) — the moral principle that truth-telling is a duty, taken absolutely and in isolation, would make all society impossible; truth-telling is a duty only toward those who have a right to the truth.",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"Nous en avons la preuve dans les conséquences très directes qu'a tirées de ce principe un philosophe allemand, qui va jusqu'à prétendre qu'envers des assassins qui vous demanderaient si votre ami qu'ils poursuivent n'est pas réfugié dans votre maison, le mensonge serait un crime.\" (same source) — we have proof, he writes, in the German philosopher who pretends that toward murderers asking whether the friend they pursue is hiding in your house, the lie would be a crime.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Kant affirms the unconditional reading, and answers the murderer case directly:"
+        },
+        {
+          "t": "q",
+          "x": "\"Truthfulness in declarations (Aussagen) that one cannot avoid is a human being's duty to everyone, however great the disadvantage to him or to another that may result from it... I bring it about, as far as I can, that declarations in general are not believed, and so too that all rights which are based on contracts come to nothing and lose their force; and this is a wrong inflicted upon humanity generally.\" ([Kant, On a Supposed Right to Lie from Philanthropy](http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1692-88572011000200005))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The two passages answer the same question with opposite rules. Constant grounds the duty in the hearer's right: where the hearer intends murder, the right lapses, and the lie is what anyone would say. Kant grounds it in the practice of assertion itself: a lie harms not the murderer but humanity generally, because it corrodes the trust on which all contracts and rights rest. What remains unresolved is where the duty lives — in the hearer's claim, as Constant holds, or in the institution of truthful speech, as Kant holds — and the murderer at the door is the case that forces the choice."
         },
         {
           "t": "h",
