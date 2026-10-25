@@ -16,12 +16,12 @@ The mind at rest is not idle. Raichle's review describes the default mode networ
 
 > "The default mode network consistently decreases its activity when compared with activity during these relaxed nontask states." (Raichle, 2015, [Annual Review of Neuroscience 38:433-447](https://pubmed.ncbi.nlm.nih.gov/25938726/))
 
-What the mind does in that mode is reviewed by Mooneyham and Schooler: mind-wandering typically occurs at a significant cost to performance, its role is not entirely pernicious, and it may play a role in autobiographical planning and creative problem solving. (Mooneyham & Schooler, 2013.) Killingsworth and Gilbert's smartphone sampling found people thinking about what is not happening almost as often as about what is, and that doing so typically makes them unhappy. (Killingsworth & Gilbert, 2010.) My reading keeps both halves: the wandering is the mind's default, and neither its costs nor its possible uses settle how to treat it.
+What the mind does in that mode is reviewed by Mooneyham and Schooler: mind-wandering typically occurs at a significant cost to performance, its role is not entirely pernicious, and it may play a role in autobiographical planning and creative problem solving. (Mooneyham & Schooler, 2013.) Killingsworth and Gilbert's smartphone sampling found people thinking about what is not happening almost as often as about what is, and that doing so typically makes them unhappy. (Killingsworth & Gilbert, 2010.) The reading here keeps both halves: the wandering is the mind's default, and neither its costs nor its possible uses settle how to treat it.
 
 **Plain words**
-Left unengaged, the mind wanders. The research describes both costs (performance, mood) and possible uses (planning, creative problem solving). My reading matches the page's practice: notice where the mind went, rather than judging the wandering itself.
+Left with nothing to do, the mind drifts off, and the studies count both the costs and the uses of the drifting: it hurts focus and mood in the moment, and it may be where plans and creative rough drafts get their start. The practice is not to judge the drifting but to notice the destination. Where the mind went when it left is information about what it is working on.
 
-*For example:* Someone who fills every queue and walk with their phone has removed the unengaged moments the default mode runs in. My exercise is to leave one such interval unoccupied and notice where the mind goes.
+*For example:* Someone who fills every queue and walk with their phone has removed the unengaged moments the default mode runs in. The exercise is to leave one such interval unoccupied and notice where the mind goes.
 
 ## Sources
 
