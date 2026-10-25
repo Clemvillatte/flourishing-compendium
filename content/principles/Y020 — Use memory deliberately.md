@@ -22,7 +22,7 @@ Vyasa explains that a presented idea affected by the object known "gives a start
 
 The sutra defines memory by its fidelity to the original object, a definition about accuracy. The commentary stays with memory's accuracy; it says nothing about grievances, fears, replay, life review or learning. Scheduling a review of the day before sleep is the principle's practical advice, not a reading of the sutra.
 
-**Plain words** Patanjali's definition is short: memory is holding on to what was experienced, without adding to it. It comes from the stored impressions left by earlier experience. The idea of managing when and how you remember is the principle's own application.
+**Plain words** The definition is one line long: memory is keeping what you experienced, without smuggling anything in. It runs on stored traces, which surface when something calls them up, and it can run honestly or dishonestly. The discipline the principle adds is timing: catch the replay while you can still write down only what was said, and the trace gets an accurate refresh instead of a rewrite.
 
 *For example:* instead of replaying a conversation at 3 a.m., you write a few sentences about it after dinner. You note only what was said, then close the notebook.
 
