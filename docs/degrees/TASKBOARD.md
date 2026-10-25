@@ -78,7 +78,7 @@ M3 language row now cites chapters 1 to 3; lecture 1's M1-orientation assignment
 matrix row cites it). The three talks: Barrett and Wood content-verified from published transcripts
 and mapped to their existing rows (batches 25 and 26); the Howard inaugural lecture remains a
 candidate — no transcript retrieved through the routes tried (batch 27; timedtext empty, innertube
-403 under three clients, browser transcript panel renders zero segments; no Oxford Podcasts listing)
+403 under three clients, browser transcript panel renders zero segments; no matching episode was returned by the Oxford Podcasts search)
 — flagged for the supervisor. Provenance standard upgraded mid-session to raw unprompted fetches
 (prompt omitted); earlier fetches re-verified accordingly. Seven lectures and two of three talks now
 fully content-verified. No coverage or pedagogical gate is cleared; the Phase 0 pilot stop-gate
