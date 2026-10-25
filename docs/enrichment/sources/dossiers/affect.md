@@ -398,3 +398,16 @@ Checks (final): dossier_check exit 0 (102 card links, 20 headers, 8
 external carriers), density 0 dense, dossier_quote_verify 11 checked 0
 not found (both new carriers fetched by the script itself, no cache
 seeding needed). Grep of the changed file for workflow words: clean.
+
+## Verdict-row supersession note (2026-10-25 10:41Z, launcher-pplx-dos2-1025n2)
+
+Held dos2 briefly to check the SUPERVISOR-REVIEW row ("Thread format,
+not yet publishable — nine dense paragraphs") against the live file:
+the row is superseded. Current gates re-run this pass: density 44
+paragraphs, 1.8 card links per paragraph, 0 dense; dossier_check exit 0
+(102 card links, 20 headers, 8 carriers); registry status published;
+three substantiated disputes under the standard heading (discrete
+categories vs two dimensions; bodily change vs judgment; gambling-task
+guidance before reportable knowledge). No edits made to the dossier
+this pass. FLAG for the supervisor: the affect and goals verdict rows
+can be updated to reflect the repaired, published state.
