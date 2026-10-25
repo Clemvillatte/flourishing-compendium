@@ -584,3 +584,26 @@ verification, not by restructure.
 The adviser's earlier note on the ST283 orphan-action story is
 unchanged and unrelated to this dossier; ST283 is not linked from
 it.
+
+## Exhaustiveness addition (worker-pplx-dos18-1025g, 2026-10-25)
+
+The theory-ladenness of observation added to the Seeing-from-somewhere
+section. Verification: the card file was opened and read directly
+(content/concepts/The theory-ladenness of observation.md): the thesis
+is Hanson's, from Patterns of Discovery (1958), and the gloss used in
+the dossier (seeing is not the passive registration of retinal images;
+what a person sees is shaped by what they already know; observers
+with different theories can look at the same thing and see different
+things) is the card's own opening text. The bridge sentence ("Right
+view's firstness has a mirror here: the seeing runs ahead of the
+seeing's results") is framed as a mirror, not an equivalence: the
+card makes no reference to right view, and the mirror is the shared
+shape (seeing runs ahead of its results), stated as such.
+
+Also this pass: the four-views paragraph's unquoted em dash removed
+(the sentence now stands as two).
+
+Checks: dossier_check.py exit 0 (42 card links, 17 headers, 12
+external carriers); dossier_density.py 0 dense; dossier_quote_verify.py
+9 checked, 0 not found (live fetch this session). The 42nd link is the
+theory-ladenness card; no other card links were added or removed.
