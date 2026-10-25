@@ -20,9 +20,9 @@ The measure is the mind, not the ledger. Shantideva's verse on the same perfecti
 
 His argument that the perfection cannot mean that poverty has disappeared everywhere: "if the perfection of giving were that the poverty of wandering beings was all gone; then how could the Guardians of old have perfected it, since wandering beings have hunger still now?" (5.9). And Shantideva cautions against giving away the body before compassion is sufficiently developed: "I shall not give this body away while my thought of compassion is still not pure" (5.87) (translation carried on the [redzambala page](https://buddhism.redzambala.com/shantideva/bodhisattva-behaviour-by-shantideva-part-5.html)).
 
-This entry's exercise: give something small daily for a month, and watch the grip-meter rather than the ledger.
+My exercise: give something small daily for a month, and watch the grip-meter rather than the ledger.
 
-**Plain words** The everyday distinction the definition turns on: giving something and still counting what you are owed is one thing; giving without attachment is another. The three channels extend beyond money: stabilizing bodies, lives, minds. Shantideva locates the perfection in the mind that would give, and holds the body back until compassion is ripe.
+**Plain words** Generosity comes first on the Buddhist path because it is the cheapest place to see your own grip. Hand someone five minutes, five dollars, an evening — and watch the small flinch of "mine". The training the definition points at is the quieting of that flinch: you give, and the counting voice goes quiet sooner than it used to. The amount is not what gets perfected — Shantideva says the perfection lives in the mind that would give everything, and that the old masters still perfected it while the world stayed hungry. The caution travels with it: stretching yourself is the exercise; destroying yourself is not compassion, and the tradition holds the body back until the heart is actually in it.
 
 For example: Giving up an evening to help a friend move, when you'd rather rest, and noticing a small release.
 
