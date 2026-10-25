@@ -12256,6 +12256,345 @@ window.fcDossiersData = {
       "group": "eemm",
       "status": "published",
       "art": "assets/dossier-art/body.jpg"
+    },
+    {
+      "id": "right-view",
+      "title": "Right View",
+      "question": "What is it to see rightly, and what does that seeing do to a life?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "I keep noticing that the arguments I have about how to live are rarely arguments about feelings. They are arguments about what is real: whether effort changes anything, whether people can be trusted, whether what I give comes back in any form. The Buddhist path puts that noticing at the very front of its training and calls it [right view](card:Right%20view), the first of the eight factors of the [Eightfold Path](card:Eightfold%20Path)."
+        },
+        {
+          "t": "p",
+          "x": "The claim is not modest. In the [Mahācattārīsaka Sutta](https://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html), right view is the forerunner: get the seeing right and wrong view is abolished, and the skillful and unskillful qualities that follow track how the seeing was done. What a person takes to be real governs what they choose, which makes wrong seeing a matter of conduct and its consequences, not a private error."
+        },
+        {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "Right understanding: another rendering of the same factor (Pali sammā diṭṭhi); nothing is split between the two names, and the card is [Right view](card:Right%20view)."
+        },
+        {
+          "t": "p",
+          "x": "Discernment: MN 117's word for the transcendent form of the factor, the faculty of discernment in one developing the noble path; the wiki's dedicated card on discernment is Ignatian rather than Buddhist ([Discernment of spirits](card:Discernment%20of%20spirits)), a cousin practice in another tradition."
+        },
+        {
+          "t": "p",
+          "x": "View, perspective, standpoint: the general material on perspectivality, where seeing always happens from somewhere, is on-theme and lives in the sections below ([The standpoint determines what appears](card:The%20standpoint%20determines%20what%20appears), [The coloured lens](card:The%20coloured%20lens)); it is not a separate family."
+        },
+        {
+          "t": "p",
+          "x": "Wisdom: the bigger question of what seeing well amounts to across traditions has its own published dossier (Wisdom); the boundary is that this page holds the path's own account of the view, not wisdom in general."
+        },
+        {
+          "t": "h",
+          "x": "What the view is"
+        },
+        {
+          "t": "p",
+          "x": "The [Sammādiṭṭhi Sutta](https://www.accesstoinsight.org/tipitaka/mn/mn.009.than.html) describes right view through what a person of right view discerns:"
+        },
+        {
+          "t": "q",
+          "x": "\"When a disciple of the noble ones discerns stress, the origination of stress, the cessation of stress, and the way of practice leading to the cessation of stress, then he is a person of right view... who has arrived at this true Dhamma.\" ([MN 9, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.009.than.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The object of that discernment is the [Four Noble Truths](card:Four%20Noble%20Truths), and SN 56.11 assigns a task to each truth:"
+        },
+        {
+          "t": "q",
+          "x": "\"This noble truth of stress is to be comprehended... This noble truth of the origination of stress is to be abandoned... This noble truth of the cessation of stress is to be realized... This noble truth of the way of practice leading to the cessation of stress is to be developed.\" ([SN 56.11, Thanissaro translation](https://www.dhammatalks.org/suttas/SN/SN56_11.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "So the view sits first among eight factors, grouped with intention in the wisdom part of [the three trainings](card:The%20three%20trainings), alongside ethics and concentration. It is the seeing that the rest of the path is supposed to answer."
+        },
+        {
+          "t": "p",
+          "x": "There is even a warning against making the view itself a possession. The [raft simile](card:Distinguishing%20practice%20from%20theory) of MN 22 treats the Dhamma as a crossing device: the view is held for the crossing, not the carrying."
+        },
+        {
+          "t": "h",
+          "x": "The two forms of the view"
+        },
+        {
+          "t": "p",
+          "x": "The tradition does not treat right view as one thing. MN 117 grades it in two forms:"
+        },
+        {
+          "t": "q",
+          "x": "\"There is right view with effluents, siding with merit, resulting in acquisitions [of becoming]; there is right view that is noble, without effluents, transcendent, a factor of the path.\" ([MN 117, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The everyday form is a set of convictions: that there is what is given, offered and sacrificed, that there are fruits and results of good and bad actions, that there is this world and the next. The transcendent form is a discernment, noble and without effluents, that counts as a factor of the path."
+        },
+        {
+          "t": "p",
+          "x": "The conviction about fruits of actions has its own concept card, and it is worth pausing on, because it is the everyday form's backbone. [Karma](card:Karma) is action driven by intention and the results that follow; in the Buddha's definition intention itself is the karma, and the results sort into what arises now, later in this life, and following that."
+        },
+        {
+          "t": "h",
+          "x": "Between the two extremes"
+        },
+        {
+          "t": "p",
+          "x": "The [Kaccānagotta Sutta](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html) sets the view between the two existence extremes:"
+        },
+        {
+          "t": "q",
+          "x": "\"'Everything exists': That is one extreme. 'Everything doesn't exist': That is a second extreme. Avoiding these two extremes, the Tathagata teaches the Dhamma via the middle: From ignorance as a requisite condition come fabrications.\" ([SN 12.15, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "That middle is not a compromise averaged between two mistakes. It is [dependent origination](card:Dependent%20origination), the twelve-link chain of SN 12.1, the conditionality the view tracks: arising and cessation both. The [middle path](card:The%20middle%20path) is a way of practice with its own logic, not a midpoint between vices."
+        },
+        {
+          "t": "p",
+          "x": "And the same sutta gives the view its concrete test, which is where the teaching stops sounding like metaphysics and starts sounding like attention:"
+        },
+        {
+          "t": "q",
+          "x": "\"He has no uncertainty or doubt that just stress, when arising, is arising; stress, when passing away, is passing away. In this, his knowledge is independent of others. It's to this extent, Kaccayana, that there is right view.\" ([SN 12.15, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Watching stress arise and pass without a self fastened to it: that is the extent to which there is right view. The test is demanding in its own way. What it asks for is steady attention to experience; the question of whether everything exists is set aside."
+        },
+        {
+          "t": "h",
+          "x": "Wrong view and its parallels in the clinic"
+        },
+        {
+          "t": "p",
+          "x": "MN 9 names the roots of what is unskillful, and the passage covers unskillful qualities generally, not wrong view alone:"
+        },
+        {
+          "t": "q",
+          "x": "\"And what are the roots of what is unskillful? Greed is a root of what is unskillful, aversion is a root of what is unskillful, delusion is a root of what is unskillful.\" ([MN 9, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.009.than.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The modern study of distorted seeing reads like a cousin of this diagnosis. [Cognitive distortions](card:Cognitive%20distortions) are Beck's systematic errors in the thinking of depressed patients: arbitrary inference, selective abstraction, overgeneralization, with the re-examination method that checks them."
+        },
+        {
+          "t": "p",
+          "x": "The [coloured lens](card:The%20coloured%20lens) is the image of moods as tinted glass: Emerson's beads, each lens showing only what lies in its focus, with Gallegos's caution that the metaphor misleads in ways. [First impressions bias](card:First%20impressions%20bias) adds the speed: a hundred milliseconds for an impression to form (Willis and Todorov), and heavy weight on whatever information arrived first (Asch's order effects)."
+        },
+        {
+          "t": "p",
+          "x": "[Appraisal theory](card:Appraisal%20theory) rounds out the family: emotions arise from evaluations of what an event means, in Lazarus's terms of stakes and coping, so the same event yields different affect under different appraisals."
+        },
+        {
+          "t": "p",
+          "x": "I want to be honest about the status of this pairing. The modern cards sit beside the path's wrong view as parallels, not equations; the tradition does not equate them. The clinical findings describe measurable biases in mood disorders, while the path's wrong view is an account of the roots of unskillful action. Each can illuminate the other without being reduced to the other."
+        },
+        {
+          "t": "h",
+          "x": "The forerunner"
+        },
+        {
+          "t": "p",
+          "x": "Why put the view first at all? The Mahācattārīsaka Sutta's answer is that the qualities of a life hang on it:"
+        },
+        {
+          "t": "q",
+          "x": "\"Of those, right view is the forerunner. And how is right view the forerunner? In one of right view, wrong view is abolished. The many evil, unskillful qualities that come into play with wrong view as their condition are also abolished, while the many skillful qualities that have right view as their condition go to the culmination of their development.\" ([MN 117, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The factor that follows view in the list is [right intention](card:Right%20intention): the resolve toward renunciation, freedom from ill will and harmlessness. And the dependence runs on into conduct: [action over intention](card:Action%20over%20intention) names how the right action factor is defined by abstentions rather than states of mind, the path naming conduct its own factor beside the resolve that precedes it. The same dependence has a saying of its own: [right action serves right view](card:Right%20action%20serves%20right%20view)."
+        },
+        {
+          "t": "h",
+          "x": "Seeing from somewhere"
+        },
+        {
+          "t": "p",
+          "x": "If seeing is a human act, it happens from somewhere. [The standpoint determines what appears](card:The%20standpoint%20determines%20what%20appears) is Husserl's account of embodied seeing: things appear from one side, at a distance, from an angle, and there is no view from nowhere."
+        },
+        {
+          "t": "p",
+          "x": "On the psychological side, the attentional-bias principles stand as parallels of the view's obstruction: threat captures attention, and negative bias and rumination narrow it, in anxiety and depression."
+        },
+        {
+          "t": "h",
+          "x": "Holding views lightly"
+        },
+        {
+          "t": "p",
+          "x": "The Diamond Sutra names four ways a mind reifies itself: [the four views](card:The%20four%20views), views of a self, a person, a being and a life — the card calls them usable coordinates that become toxic when mistaken for the territory."
+        },
+        {
+          "t": "p",
+          "x": "Behind that caution stands the Madhyamaka family. [Shunyata](card:Shunyata) is the doctrine that all phenomena lack inherent existence; emptiness is always the emptiness of something, and is itself empty. The claim in full is that no phenomenon possesses [svabhāva](card:Buddhist%20emptiness%20of%20inherent%20nature), a nature it has independently; the rejected svabhāva is a superimposition projected onto objects, a cognitive default. And [the emptiness of emptiness](card:The%20emptiness%20of%20emptiness) is Nagarjuna's chapter thirteen turning the analysis on its own central term: the empty is defined only against the non-empty, so emptiness cannot stand as an independent metaphysical item."
+        },
+        {
+          "t": "p",
+          "x": "The worry about views is not only Buddhist, and the other accounts differ in what they distrust. Dewey's suspicion is of ends detached from activity. [Ends-in-view](card:Ends-in-view) is his name for the foreseen consequence that guides present action: an end belongs inside activity as a tool for directing it, not outside it as a fixed destination. [Fixed views of self](card:Fixed%20views%20of%20self) is the belief that who you are is a set quantity, Dweck's and Crocker's research lines carry the fragility prediction, and the failed-premises tests that checked it are part of the record."
+        },
+        {
+          "t": "p",
+          "x": "Mill's suspicion is of one-sidedness. [partial truths in every opinion](card:Partial%20truths%20in%20every%20opinion) is his argument that a prevailing opinion usually holds part of the truth and the missing part sits in the opinion it opposes. Its working counterpart is [steelmanning the opposing view](card:Steelmanning%20the%20opposing%20view), addressing the strongest form of the other person's argument, with Mill's ground that knowing only one's own side of the case is knowing little of that."
+        },
+        {
+          "t": "p",
+          "x": "The Stoics, finally, distrust scale rather than fixity or one-sidedness. Their contribution is a standing exercise rather than an argument: [the view from above](card:The%20view%20from%20above), picturing human affairs from a great height until their scale changes, Marcus Aurelius's herds and solemnities seen from above."
+        },
+        {
+          "t": "h",
+          "x": "Related questions and contrasts"
+        },
+        {
+          "t": "h2",
+          "x": "Is the work with views a cultivation or a non-establishment?"
+        },
+        {
+          "t": "p",
+          "x": "The strongest candidate pairs two passages that may not oppose each other. The early discourses cultivate right view as forerunner, in the MN 117 passage quoted above. The Mahāyāna passage that grounds the candidate instructs knowing and viewing dharmas without setting up the perception of a dharma:"
+        },
+        {
+          "t": "q",
+          "x": "\"That which has been taught by the Tathagata as 'view of self', as a no-view has that been taught by the Tathagata. Therefore is it called 'view of self'... someone who has set out in the Bodhisattva-vehicle should know all dharmas, view them, be intent on them. And he should know, view and be intent on them in such a way that he does not set up the perception of a dharma... 'Perception of dharma, perception of dharma,' Subhuti, as no-perception has this been taught by the Tathagata. Therefore is it called 'perception of dharma'.\" ([Diamond Sutra, section 31, Conze rendering, full text](http://www.nyx.net/~dbachman/texts/Diamond.txt))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The Stanford Encyclopedia frames the Madhyamaka move as a corrective rather than a new position, which is context for the comparison, not one of its poles: emptiness is \"not some kind of primordial reality ante rem but a corrective to a mistaken view of how the world exists\" ([SEP, Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/))."
+        },
+        {
+          "t": "p",
+          "x": "Whether this is a disagreement at all is what remains unresolved. MN 117 affirms a view whose holding culminates skillful qualities; the Diamond Sutra instructs knowing and viewing dharmas while not setting up the perception of a dharma. The Diamond Sutra's own wording both directs the viewing and dissolves the view's reification, so the two texts may be levels of one training, a view held for cultivation but not clung to, or genuinely opposed stances toward views."
+        },
+        {
+          "t": "h2",
+          "x": "Is the view a set of convictions or a direct discernment?"
+        },
+        {
+          "t": "p",
+          "x": "MN 117 presents the two forms within one discourse, which is a grading rather than a disagreement between traditions; the two-forms material stays in the body above. The open question is whether any tradition actually reads the conviction set as sufficient without the discernment."
+        },
+        {
+          "t": "h2",
+          "x": "Are the truths tasks or beliefs?"
+        },
+        {
+          "t": "p",
+          "x": "The sutta's own presentation assigns each truth a task, in the SN 56.11 passage quoted above. The propositional reading exists in summary sources; the tasks-not-beliefs principle is an editorial reading of the verbs, not a settled scholarly classification."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying on this theme is the way views are held: a fixed view of where happiness comes from, a view held as mine, a first impression taken for the whole person. The adaptive direction is the one the suttas give the view itself: watching stress arise and pass without a self fastened to it, and checking, before effort, what the plan assumes."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The practices I have selected as sources of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[Two-truths drill](card:K134%20%E2%80%94%20Two-truths%20drill): argue the strongest case for your position, then the strongest case against it; the consider-the-opposite studies behind the kernel found the structural act of constructing the opposing case had greater corrective effect than instructions to be fair, and did not test effects on belief strength or well-being over time."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[Perspective-taking](card:K131%20%E2%80%94%20Perspective-taking): when locked in a view, step into another position: the other person's, a neutral observer's, a future self's; each position reveals what the others conceal."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[Perspective-getting](card:K218%20%E2%80%94%20Perspective-getting): when you assume you know what someone thinks, ask instead; the research favours asking over guessing, with the caution that the advantage is real but not automatic, and most people ask less than they could."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[Kill-the-Buddha drill](card:K238%20%E2%80%94%20Kill-the-Buddha%20drill): for one belief you hold, argue from your own experience against your favorite authority; the drill tests whether the belief survives contact with lived evidence or is held on authority alone."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[\"I am becoming\" reframes](card:K147%20%E2%80%94%20I%20am%20becoming%20reframes): for a stuck identity, catch the fixed label and ask what it forecloses; the reframe works on the view of self as a set quantity, and the mindset literature behind it carries its own failed-premises caution."
+        },
+        {
+          "t": "n",
+          "i": 6,
+          "x": "[The pragmatic maxim](card:K132%20%E2%80%94%20The%20pragmatic%20maxim): take the belief doing the most work in your thinking and ask what conceivable practical difference it makes against its rival; if no difference can be found, the dispute is about a word, not a world."
+        },
+        {
+          "t": "n",
+          "i": 7,
+          "x": "[The chariot analysis](card:K144%20%E2%80%94%20The%20chariot%20analysis): when a self-image starts speaking as the whole self, the wounded child, the achiever, the critic, give it the chariot treatment; ask, part by part, where the designation lands, and watch it fail to land on any of them."
+        },
+        {
+          "t": "n",
+          "i": 8,
+          "x": "[Evidence-versus-interpretation drill](card:K270%20%E2%80%94%20Evidence-versus-interpretation%20drill): lay a distressing thought out and write the evidence for it, the evidence against it, and an alternative reading; the written version of Epictetus's question, which is the thing and which the notion."
+        },
+        {
+          "t": "n",
+          "i": 9,
+          "x": "[The view from above](card:K273%20%E2%80%94%20The%20view%20from%20above): picture your concerns from a great height, the city, then the country, then the planet; the self-distancing research trains a similar observer's stance and reports less distress, though it does not test the ascent itself."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them. A reader who keeps the question put to a plan before acting, or the opposite case written once, has what the theme offered; what stays is a matter of fit between the check and the life it enters."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "Three view-family stories carry the theme: the view of the self, the view of effort and the view of mastery."
+        },
+        {
+          "t": "h2",
+          "x": "The view of the self"
+        },
+        {
+          "t": "p",
+          "x": "[Nagasena and the Chariot](card:ST065%20%E2%80%94%20Nagasena%20and%20the%20Chariot): King Milinda pounces on the monk's name, and Nagasena dismantles the chariot part by part until the king concedes that \"chariot\" is a designation in common use for the assembled parts, and so is Nagasena."
+        },
+        {
+          "t": "h2",
+          "x": "The view of effort"
+        },
+        {
+          "t": "p",
+          "x": "[The Lute String](card:ST064%20%E2%80%94%20The%20Lute%20String): a monk's feet bleed from straining in meditation, and the Buddha asks the former lute player whether the strings sounded best too tight or too slack; neither, and so with the energy."
+        },
+        {
+          "t": "h2",
+          "x": "The view of mastery"
+        },
+        {
+          "t": "p",
+          "x": "[Fletcher's Classroom](card:ST067%20%E2%80%94%20Fletcher%27s%20Classroom): the drummer practices until his hands bleed, arrives bloodied from a car crash and is dismissed mid-performance; in the final scene he reclaims the drum kit and cuts the conductor off by cueing the band himself."
+        }
+      ],
+      "group": "eightfold-path",
+      "status": "published",
+      "art": "assets/dossier-art/right-view.jpg"
     }
   ],
   "groups": [
@@ -12286,11 +12625,6 @@ window.fcDossiersData = {
     }
   ],
   "roadmap": [
-    {
-      "id": "right-view",
-      "title": "Right View",
-      "group": "eightfold-path"
-    },
     {
       "id": "right-intention",
       "title": "Right Intention",
