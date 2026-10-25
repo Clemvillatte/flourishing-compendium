@@ -110,6 +110,22 @@ The shared question: does the quantity of a person's drive predict how they do, 
 
 They define the two types as follows: "Autonomous motivation involves behaving with a full sense of volition and choice, whereas controlled motivation involves behaving with the experience of pressure and demand toward specific outcomes that comes from forces perceived to be external to the self." The older needs-based and expectancy accounts that I also hold treat motivation chiefly as a matter of strength or of expected payoff; the practices here lean on the SDT reading and flag where other cards disagree in emphasis.
 
+### Do needs line up in a hierarchy of prepotency?
+
+The shared question: must one need be satisfied before the next can take over as the organizing motive? Maslow's theory, held on [Hierarchy of Needs Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Hierarchy%20of%20Needs%20Theory), says yes:
+
+> "Human needs arrange themselves in hierarchies of pre-potency."
+>
+> "That is to say, the appearance of one need usually rests on the prior satisfaction of another, more pre-potent need." ([Maslow, A Theory of Human Motivation, 1943](https://psychclassics.yorku.ca/Maslow/motivation.htm))
+
+Wahba and Bridwell's review of the studies that tested the theory found the hierarchy unconfirmed:
+
+> "A review of ten factor-analytic and three ranking studies testing Maslow's theory showed only partial support for the concept of need hierarchy."
+>
+> "This literature review shows that Maslow's Need Hierarchy Theory has received little clear or consistent support from the available research findings." ([Wahba and Bridwell, 1976](https://www.sciencedirect.com/science/article/pii/0030507376900386/pdf?md5=361b33861d510006d8ff7c6c8a4a0bb2&pid=1-s2.0-0030507376900386-main.pdf))
+
+The disagreement is between the theory's ordering claim and the record of its tests. The review addresses the testable propositions, the deprivation/domination and gratification/activation claims, not whether the needs themselves are real; the passages quoted do not adjudicate the later literature either way.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying is the source a person acts from. The look-alikes are effort, streaks and rewards that supply motion without ownership. The adaptive moves are to check whose reasons a goal rests on, to make the decision explicitly one's own, and to separate wanting from enjoying.

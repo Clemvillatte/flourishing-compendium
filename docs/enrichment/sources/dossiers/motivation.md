@@ -161,3 +161,58 @@ questions, both previously verified against opened carriers; the
 3-question minimum remains UNRESOLVED at 2 of 3, flagged for the
 supervisor, not manufactured. Registry status remains 'published';
 post-publication GF restructure, supervisor review requested.
+
+## Supervisor close-out of the 2-of-3 flag — 2026-10-25 (supervisor-pplx-brownmermaid-1025a)
+
+- The dos10 flag (disagreement minimum unresolved at 2 of 3,
+  supervisor review requested) closed with a third genuine
+  disagreement section: "Do needs line up in a hierarchy of
+  prepotency?" — Maslow 1943 (NEW CARRIER: psychclassics.yorku.ca,
+  A Theory of Human Motivation) vs Wahba and Bridwell 1976 (NEW
+  CARRIER: ScienceDirect full-text PDF, Maslow Reconsidered).
+- Carrier verification: both fetched this pass; the four quoted
+  spans confirmed verbatim by the fetch of each carrier — Maslow:
+  "Human needs arrange themselves in hierarchies of pre-potency";
+  "That is to say, the appearance of one need usually rests on the
+  prior satisfaction of another, more pre-potent need." Wahba and
+  Bridwell: the abstract's first sentence ("A review of ten
+  factor-analytic and three ranking studies testing Maslow's theory
+  showed only partial support for the concept of need hierarchy.")
+  and the conclusion's first sentence ("This literature review
+  shows that Maslow's Need Hierarchy Theory has received little
+  clear or consistent support from the available research
+  findings."). Note: the PDF's conclusion contains two print/OCR
+  typos ("totaly", "Clasification") in adjacent sentences; the two
+  sentences quoted on the page are clean.
+- Section follows the advisor's shame-and-guilt rulings: same
+  question (must one need be satisfied before the next organizes
+  behavior?), incompatible answers (theory yes, review of tests
+  no), honest scoping (the review tests the propositions, not the
+  reality of the needs; no adjudication of later literature), no
+  speculative closer. Akrasia (Socrates vs Aristotle) was
+  considered and REJECTED as out of scope: the page's Nearby-terms
+  note routes willpower/weakness of will to the Decision-Making
+  dossier.
+- 3 of 3 disagreement questions now; card link used: Hierarchy of
+  Needs Theory (already on the page's map). Checks after edit:
+  see the following entry.
+
+### Verification-method note for the Wahba and Bridwell carrier (same pass)
+
+- Raw curl of the ScienceDirect PDF URL returns an HTML challenge
+  page (11 challenge/captcha/robot markers in the returned bytes),
+  not the PDF. The carrier was opened and read via the fetch tool,
+  which returned the abstract and conclusion text; the two sentences
+  quoted on the page were taken from that extraction and are
+  corroborated verbatim by an independent secondary source quoting
+  the review's conclusion (td.org article on Maslow's hierarchy,
+  same session's search results). dossier_quote_verify reports the
+  two spans NOT FOUND — consistent with the tool's inability to
+  parse the PDF; cause not diagnosed further. Recorded per the
+  ledger's honest-method convention.
+- Checks after the edit: dossier_check exit 0 (51 card links, 27
+  headers, 6 external carriers); density 0 (27 paragraphs, 1.4
+  links/para); quote_verify 9 checked / 5 not found (2 documented
+  dos10 blocked-fetch items + 2 Wahba spans documented above + 1
+  Tang/Hall "Rewards given for low-interest tasks" span, previously
+  documented by dos10 as verified by eye via the PMC full text).
