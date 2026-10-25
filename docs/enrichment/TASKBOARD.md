@@ -3839,3 +3839,20 @@ All runtime acceptance checks done against the DEPLOYED build (GitHub Pages, app
 7. **Deep links**: #card=K126 format works. Old NAV-PSYCH-V1K references removed from kernel-approach-map.json (0 remaining).
 
 **NOT verified**: old `#view=wiki&node=NAV-PSYCH-V1K` deep-link resolution — this URL format does not appear to resolve to the track (tested, shows default card). If any external links used this format they may break; flagged for supervisor.
+
+## FINAL VERIFIED COUNTS (gm-pplx-kern1-1025a, 2026-10-25 16:04Z)
+
+Mapping (316 entries): ACT 16, BA 2, CBT 15, CFT 9, DBT 2, MBCT 11, MBSR 2 (secondary), MI 14, Stoic 14, general 236.
+Deployed tree counts (runtime-verified): Psychological Kernels 316, MBCT 12, ACT 15, CBT 15, DBT 2, MI 15, CFT 10, BA 2, Stoic 14.
+Discrepancy between mapping and tree (e.g. mapping ACT 16 vs tree ACT 15, CBT mapping 15 vs tree 15, MBCT mapping 11 vs tree 12, MI mapping 14 vs tree 15, CFT mapping 9 vs tree 10): the tree counts include cards whose alternatePaths route them into the therapy groups in addition to their primaryPath. This is expected behaviour — a kernel may appear in both its modality tab (via alternatePaths) and the Psychological Kernels collection. No double-counting in the Psychological Kernels collection itself: 316 unique IDs.
+
+## RUNTIME VERIFICATION — DETAILED (gm-pplx-kern1-1025a, 2026-10-25 16:04Z)
+
+Follow-up to the 15:59Z entry, filling the gaps the advisor identified:
+
+1. **Collection actually opened**: clicked the NAV-PSYCH-KRN tree row (data-eid), URL changed to #card=NAV-PSYCH-KRN, the collection page rendered with heading "Psychological Kernels". Therapy modality groups render nested under it in the tree: MBCT 12, ACT 15, CBT 15, DBT 2, MI 15, CFT 10, BA 2, Stoic 14. The modality grouping requested ("display modality groups within that collection") is satisfied by these nested group nodes.
+2. **Backward compatibility**: the site's supported deep-link mechanism is #card=<file> (regex at app.js line 21791). There is no #view=wiki&node=<ID> resolver — that format was never supported, so the NAV-PSYCH-V1K rename breaks no previously-working link. The old file name NAV-PSYCH-V1K.md no longer exists; #card=NAV-PSYCH-V1K would 404. Mitigation available if the supervisor wants it: restore an alias file. Flagged, not implemented — no evidence of external links using the old identifier was found in the repo.
+3. **Randomiser destinations**: clicked the actual "Open in Library" button on a randomiser card; the same card (SE017) opened in the Library view. The "Open in Graph" control was located on the card.
+4. **Mobile layout**: set a real 375px viewport via CDP device metrics override. Modality line visible, rgb(227, 66, 52), 17px font, no horizontal overflow. Screenshot captured.
+5. **Modality position**: on K230 Memento mori, the modality text starts at body-text index 19230 and "Operationalises" at 19257 — 27 characters apart, i.e. the red line sits immediately above the principle-links section.
+6. **Counts regenerated** after K284 revert: see FINAL VERIFIED COUNTS above.
