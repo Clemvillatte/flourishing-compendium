@@ -7,7 +7,7 @@ file: "Ordering the soul"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-O"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter O", "parent": ""}
 ---
-Plato's account of the good inner life in the Republic: the soul has several elements, and the just person is the one whose elements stop interfering with each other. The original entry's phrase, the harmonized city-soul, points at the city-soul analogy the book draws.
+Plato's account of the good inner life in the Republic: the soul has several elements, and the just person is the one whose elements stop interfering with each other. The passage below is Jowett's rendering of Republic IV, 443d-e.
 
 ### The just man as his own law
 
@@ -15,9 +15,9 @@ Plato's account of the good inner life in the Republic: the soul has several ele
 
 The passage calls actions that preserve this harmony just and good, and those that impair it unjust. It calls the knowledge guiding the former wisdom, and the opinion guiding the latter ignorance ([Republic IV](https://www.gutenberg.org/files/1497/1497-0.txt)). Order is not imposed from outside by rule-following; Jowett's rendering says justice concerns "not with the outward man, but with the inward, which is the true self and concernment of man". The image is musical: three principles bound like the notes of a scale, many becoming one.
 
-The analogy the book draws is what makes the passage an ordering rather than a description, since Plato has spent the earlier part of the Republic building the just city on the same three-part structure, and the just man is introduced as the thing the city was a picture of. The ordering therefore runs in a particular direction: the parts are not removed, they are bound, and a person whose parts are bound is described as having "become one entirely temperate and perfectly adjusted nature". What the musical image carries is that the binding is not a silencing of the lower notes; it is the lower notes having a place in the scale, which is a different thing from having no place.
+The order the passage describes is an order of parts that remain parts. The just man "does not permit the several elements within him to interfere with one another", and what the binding produces is a person "no longer many, but... one entirely temperate and perfectly adjusted nature". The musical image makes the point that binding is not silencing: the lower notes are not removed from the scale; they have a place in it.
 
-The passage also assigns the criterion of the ordering to the person rather than to an observer. The just man is described as his own master and his own law, which puts the standard inside the arrangement rather than in the rule an outside judge would apply. A reader can take from it a question rather than a rule: whether the parts of a life are interfering with each other's work, and the question is answerable without a doctrine about what the parts are.
+The passage locates the order inside the person rather than in outward conduct alone. The actions it calls just and good are the ones that preserve the inner arrangement, and the ones that impair it unjust, so the criterion is what an action does to the binding, not its outward shape. A reader can take from that a question rather than a rule: whether the elements of a life are interfering with one another's work.
 
 ### Here
 
@@ -34,7 +34,6 @@ The passage also assigns the criterion of the ordering to the person rather than
 ## Sources
 
 - [Plato, The Republic, Book IV (trans. Benjamin Jowett), Project Gutenberg](https://www.gutenberg.org/files/1497/1497-0.txt) — the just man's ordered inner life, the scale image, the one temperate nature (443d-e).
-- Plato, Republic, the harmonized city-soul (original citation, linked above).
 
 ## Cited in philosophy parallels
 

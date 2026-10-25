@@ -15,9 +15,9 @@ The article records the same double sense for samadhi itself, which "may be view
 
 ### What the term asks
 
-One-pointedness is not tunnel vision. The narrower reading, fixated on a single object, is the concentration half; the wider reading, unification that stays still and observes, is the insight half. The same word holds both, which is why the Buddhist tradition treats concentration and awareness as one trained capacity rather than two.
+One-pointedness is not tunnel vision on this rendering. The narrower sense fixes the mind on a single object; the wider sense describes a mind that becomes very still, does not merge with what it attends to, and observes the changing flow of experience. The same term carries both, which is why the rendering matters: a reader who takes only the first sense hears a narrowing, and a reader who takes the second hears an opening.
 
-The double sense matters for practice rather than for terminology, since the two readings ask different things of a meditator. A fixation on a single object is a narrowing, and a narrowing can be done by effort; an unification that stays still and observes is a settling, and a settling is not something a person can push for. The quoted passage's description of a mind that "does not merge with the object of attention" is what keeps the second reading distinct from absorption, since a mind that merges with its object has stopped observing it.
+The article's sentence about samadhi makes the same point at one remove: it describes the state either as "an exclusive focus on a single object", or as a steadiness of mind that remains "aware of a wide range of phenomena around the meditation object". A practice instruction built on the word can mean either of these, and the difference between them is the difference between a mind that is narrowed and a mind that is gathered.
 
 ### Here
 
