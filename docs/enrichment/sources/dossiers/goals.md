@@ -419,7 +419,10 @@ sentence; "it should be carefully prescribed and closely monitored")
 were confirmed BY EYE against the fetched Columbia page text this
 session. The earlier explanation that "the script cannot fetch that
 page type" is retracted as unproven; the exact fetch failure mode is
-not established, only the by-eye confirmation stands.
+not established; the record is: 8 strings matched by the script, the
+two Columbia-quoted sentences confirmed by eye against fetched page
+text, and one of the script's two failed strings was a prose artifact
+rather than a quotation.
 
 QC status: PENDING SUPERVISOR REVIEW. The one-divergence exception to
 the model's 3-5 guidance is REQUESTED, not granted; the supervisor
