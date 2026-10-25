@@ -127,8 +127,8 @@ retrieval; the s1a QC continuation's accounting stands.
 
 ## s1e published-page sample — ST408 (2026-10-25, logged from s1b)
 
-ST408 (The Material Told Her Where to Go, McClintock) — all three distinctive
-quotes verified verbatim by directed retrieval: the "time to look" passage and the
+ST408 (The Material Told Her Where to Go, McClintock) — three quotation
+spans checked, each verbatim by directed retrieval: the "time to look" passage and the
 "I don't feel I really know the story" sentence against the Keller excerpt PDF
 (epistemologies.wordpress.com, open); "The material just tells you where to go.
 The maize cases were so spectacular that I just had to follow them." against Wu

@@ -23,8 +23,10 @@ ruling — the child respected the hold). Holds s1c + s1e batons fresh at close.
   s1a-042 flagged vs ST065 (distinct angle, no hold).
 - s1d: fm reconciliation; end-to-end reviews of 006/009 (clean) and 008/010
   (duplicate holds).
-- s1e: child cross-check + published-page samples (ST408 clean; ST409
-  carrier-walled — cellobello and NYT both robots-blocked to this fetcher).
+- s1e: child cross-check + published-page samples (ST408: three quotation
+  spans checked, all verbatim on open carriers — Keller PDF and Wu 2024; the
+  second Keller quote's continuation past "all the way along" was not retrieved;
+  ST409 carrier-walled — cellobello and NYT both robots-blocked to this fetcher).
 
 ## Routed to the supervisor (details in lane ROUTE/QC files)
 - ST432: one-word trim needed (published page).
@@ -64,5 +66,10 @@ not in the way originally envisaged)." (Problem solved (probably)); "So the
 pool of potential collaborators was not as large as it might have been..." and
 "for me personally this has been one of the most exciting six weeks of my
 mathematical life." (Polymath1 and open collaborative mathematics). The
-restored leading "So" is correct on the carrier. The child's verification
-rounds hold up under independent sampling.
+restored leading "So" is correct on the carrier. One citation defect found
+and routed: the ledger's second evidence entry carries a single URL (the
+Polymath1 post) while its locator says "both March 10, 2009 posts" — the "So I
+hereby state" quote lives on the sibling post (problem-solved-probably), which
+needs its own evidence entry/URL. Routed to the s1c holder (the child) and the
+supervisor; the child's verification rounds otherwise hold up under independent
+sampling.
