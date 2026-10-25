@@ -335,8 +335,12 @@ window.fcReadingContent = function(src) {
     const a = (window.fcAuthored || {})[id];
     if (!a) return '';
     const out = [];
-    if (a.plainWords) out.push('<p class="fc-plain"><strong>Plain words.</strong> ' + escape(a.plainWords) + '</p>');
-    if (a.example) out.push('<p class="fc-example"><em>For example:</em> ' + escape(a.example) + '</p>');
+    /* A page that already carries its own Plain words / For example text wins over the legacy layer. */
+    const body = String(text || '');
+    const hasPlain = /(?:^|\n)\s*(?:#{1,6}\s+|\*\*)Plain words/i.test(body);
+    const hasExample = /(?:^|\n)\s*(?:#{1,6}\s+|\*\*|\*|_)?For example\b/i.test(body);
+    if (a.plainWords && !hasPlain) out.push('<p class="fc-plain"><strong>Plain words.</strong> ' + escape(a.plainWords) + '</p>');
+    if (a.example && !hasExample) out.push('<p class="fc-example"><em>For example:</em> ' + escape(a.example) + '</p>');
     return out.join('');
   };;
 })();
