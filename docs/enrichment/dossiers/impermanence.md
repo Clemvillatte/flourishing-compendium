@@ -2,7 +2,7 @@
 
 > What changes when we take seriously that everything we hold, ourselves included, passes?
 
-I lose things. Not grandly, and not only to death: a friendship thins, a habit fades, a season ends. The Buddhist tradition has a word for this, [anicca](https://clemvillatte.github.io/flourishing-compendium/#card=Anicca), and puts it first among the three marks of existence: [all conditioned things are impermanent](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html). My interest is in what follows from that fact, because almost everything I care about is conditioned.
+I lose things. Not grandly, and death is only one of the ways: a friendship thins, a habit fades, a season ends. The Buddhist tradition has a word for this, [anicca](https://clemvillatte.github.io/flourishing-compendium/#card=Anicca), and puts it first among the three marks of existence: [all conditioned things are impermanent](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html). My interest is in what follows from that fact, because almost everything I care about is conditioned.
 
 There is a version of this that sounds like resignation, and another that sounds like an aesthetic of falling petals. Both miss the working question, which is practical: given that the people, plans, bodies and moods I rely on will change, how should I hold them? The traditions I read answer this differently, and the differences are worth having in front of me rather than settled in advance.
 
