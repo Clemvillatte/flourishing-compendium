@@ -122,7 +122,7 @@ The Dhammapada, in the [Buddharakkhita translation](https://www.accesstoinsight.
 
 > "'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering. This is the path to purification."
 
-The disagreement turns on what knowing requires. In Plato's argument knowledge needs an object that abides, so a pure flux would leave nothing to know. In the Dhammapada verse the knowledge in question is seeing that conditioned things are impermanent, and the verses that follow add that all things are not-self. Flux does not undermine that seeing; seeing it clearly is the whole point of the verse.
+The disagreement turns on what knowing requires. In Plato's argument knowledge needs an object that abides, so a pure flux would leave nothing to know. In the Dhammapada verse the knowledge in question is seeing that conditioned things are impermanent, and the two verses that follow say the same of unsatisfactoriness and of not-self. Flux does not undermine that seeing; seeing it clearly is the whole point of the verse.
 
 My lean, which is mine, is that the two are answering different questions. Plato asks what the objects of knowledge must be like; the Dhammapada asks what seeing change clearly does to a person. I am more persuaded by the second for a dossier about living, though Plato's worry stays alive for anyone who wants stable truths about what a life is.
 
