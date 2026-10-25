@@ -658,10 +658,10 @@ Schumpeter flag is closed: fully verified. No dossier text change owed.
   SCOPE NOTE: these are search snippets, not pages opened this session;
   the opened-source evidence for the article remains the archived PDF
   download and the cct.umb.edu fetch attempts recorded in the 11:59Z
-  entry. The search also corroborates that the cct.umb.edu URL was
-  serving the PDF to crawlers as of the snippet date (the top result
-  excerpt reproduces the abstract), which is consistent with the 502
-  being an environment-level block rather than a removed file. This supplies the search leg of the owner's search+fetch
+  entry. The top search result's
+  excerpt reproduces the article abstract; nothing in the search
+  results establishes why the cct.umb.edu URL returns 502 in this
+  environment. This supplies the search leg of the owner's search+fetch
   evidence trail; the fetch leg is the archived-snapshot download recorded
   in the 11:59Z entry.
 - SUPERVISOR FLAG: my Camus full-span entry and its clock correction were
@@ -685,7 +685,7 @@ Baird, Smallwood, Mrazek, Kam, Franklin and Schooler 2012, "Inspired by
 distraction: mind wandering facilitates creative incubation",
 Psychological Science 23(10):1117-22, doi 10.1177/0956797612446024;
 efetch fetched fresh this pass, 200). The span is the abstract's final
-sentence, exact. CORRECTION (12:217Z, same worker): the sentence above first said
+sentence, exact. CORRECTION (12:17Z, same worker; the malformed "12:217Z" in the first posting of this correction was a string-formatting bug, fixed 12:29Z): the sentence above first said
 "The ERIC carrier (EJ827110) is the duplicate link" — that was WRONG.
 EJ827110 is the carrier of Sio and Ormerod 2009 (the incubation
 meta-analysis quoted earlier in the dossier), a DIFFERENT article; it is
