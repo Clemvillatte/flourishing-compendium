@@ -433,3 +433,14 @@ for them; the-self in particular carries the highest count in the
 corpus. Also flagged earlier this session: the ST033 card's "until his
 eyes were permanently damaged" is stronger than the carrier support
 recorded in the GF ledger.
+
+## Supervisor follow-up (2026-10-25, supervisor-pplx-1024c)
+
+Applied the fix routed on TASKBOARD pass-5: the ST033 logline no longer
+carries "rather than overthrowing it" — the verified facts (negotiation
+with the government that jailed him) are kept, the unverified contrast
+alternative is removed, matching the ST033 story card repair done the
+same session (see the anger/the-self voice-review entries and the
+OPERATIONS QC log). Checker exit 0; registry rebuilt; node OK. No
+carriers freshly opened; the removal only deletes an unsupported
+contrast, it adds no new claim.

@@ -7081,7 +7081,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST033 — Mandela's Twenty-Seven Years](card:ST033%20%E2%80%94%20Mandela%27s%20Twenty-Seven%20Years): twenty-seven years in prison, eighteen of them on Robben Island and thirteen of those spent working the lime quarry, studying his jailers' language and history; released, he negotiates with the government that jailed him rather than overthrowing it."
+          "x": "[ST033 — Mandela's Twenty-Seven Years](card:ST033%20%E2%80%94%20Mandela%27s%20Twenty-Seven%20Years): twenty-seven years in prison, eighteen of them on Robben Island and thirteen of those spent working the lime quarry, studying his jailers' language and history; released, he negotiates with the government that jailed him."
         },
         {
           "t": "p",

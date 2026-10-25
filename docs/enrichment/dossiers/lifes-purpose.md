@@ -272,7 +272,7 @@ The stories that best carry the theme's aspects, each retold in a line; the full
 
 ### Purposes beyond the self
 
-[ST033 — Mandela's Twenty-Seven Years](https://clemvillatte.github.io/flourishing-compendium/#card=ST033%20%E2%80%94%20Mandela%27s%20Twenty-Seven%20Years): twenty-seven years in prison, eighteen of them on Robben Island and thirteen of those spent working the lime quarry, studying his jailers' language and history; released, he negotiates with the government that jailed him rather than overthrowing it.
+[ST033 — Mandela's Twenty-Seven Years](https://clemvillatte.github.io/flourishing-compendium/#card=ST033%20%E2%80%94%20Mandela%27s%20Twenty-Seven%20Years): twenty-seven years in prison, eighteen of them on Robben Island and thirteen of those spent working the lime quarry, studying his jailers' language and history; released, he negotiates with the government that jailed him.
 
 [ST086 — The Bodhisattva and the Tigress](https://clemvillatte.github.io/flourishing-compendium/#card=ST086%20%E2%80%94%20The%20Bodhisattva%20and%20the%20Tigress): a bodhisattva finds a tigress too weak from hunger to feed her cubs, and lies down where she can reach him, ending his life so that hers and the cubs' continue.
 
