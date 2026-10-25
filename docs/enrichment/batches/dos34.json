@@ -50,6 +50,16 @@
     "SUPERVISOR: bar lower bound met at 3 substantiated (Aristotle-Russell; Stebbins-Veal continuum; Veal-Stebbins replacement) - acceptance requested",
     "OWNER: registry flip and rebuild still blocked on artwork assignment"
    ]
+  },
+  {
+   "slug": "leisure",
+   "worker": "worker-pplx-dos34-1025k",
+   "state": "QC round 13: verification pass complete - all six new carriers re-fetched fresh, all 17 session quotes raw re-verified PASS, all four checks green; OWNER-BOARD lines shortened to comply with the 20-word owner directive. State: 3 substantiated, bar lower bound met, supervisor acceptance requested, artwork pending owner.",
+   "verification": "fresh refetch of all six carriers; 17/17 quotes raw substring PASS; checks exit 0 / 40 of 40 / 0 dense / voice 0",
+   "flags": [
+    "SUPERVISOR: acceptance of 3-substantiated count requested",
+    "OWNER: artwork assignment still blocks registry flip"
+   ]
   }
  ],
  "in_progress": "",
