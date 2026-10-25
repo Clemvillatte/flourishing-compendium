@@ -197,3 +197,48 @@ needs a carrier-verification pass before publication; the body is left
 IN PROGRESS. (3) registry.json and app.js untouched; body remains
 status planned; registry rebuild --rebuild=body is needed after the
 verification pass and publication decision.
+
+## Carrier-verification pass (2026-10-25, worker-pplx-dos17-1025h)
+
+Follow-up to the flags above, same session. The key claims behind the
+rewritten disagreements and glosses were verified against freshly
+opened carriers: the Merleau-Ponty gloss ("explicable neither as
+third-person causation nor as representation") against the SEP
+Merleau-Ponty entry, which states the body's mode of existence is
+"explicable neither in terms of third-person causal interactions nor by
+explicit judgments or representations"; the Seth gloss against Seth's
+"Interoceptive inference, emotion, and the embodied self" PDF
+(fil.ion.ucl.ac.uk), which states interoceptive inference "conceives of
+subjective feeling states (emotions) as arising from actively-inferred
+generative (predictive) models of the causes of interoceptive
+afferents"; the cortisol awakening response gloss against the Feder et
+al. 2004 abstract (PMID 18854200, via Europe PMC), which describes the
+post-awakening increase as "a distinct feature of the
+hypothalamo-pituitary-adrenal (HPA) axis" influenced by health status
+and stress perception; the HRV self-regulation gloss against Park &
+Thayer 2014 (PMC4013470), which states cardiac vagal tone indexed by
+HRV "can indicate the functional integrity of the neural networks
+implicated in emotion-cognition interactions"; the allostatic load
+"wear and tear" gloss against McEwen's 1998 NEJM PDF, which defines
+allostatic load as "wear and tear that results from chronic
+overactivity or underactivity of allostatic systems"; and the
+pendulation gloss against the Epoché Clinical somatic experiencing
+page, which describes pendulation in nearly the dossier's own words.
+
+One correction from this pass: the draft had attributed a "James-Lange
+lineage" sentence to the interoception card, but the card carries no
+James-Lange language (that lineage lives on the "Action precedes
+feeling" card, which the body dossier does not link). The two
+disagreement passages and the signals section were rewritten to rest on
+the interoception card's actual Craig and Seth text (a "distinct
+cortical image of homeostatic afferent activity" that "engenders the
+body's highly resolved feelings"; feeling states arising from
+"actively-inferred generative models of the causes of interoceptive
+afferents"), both of which are the card's own sentences. The glosses
+inherited from the card-fidelity sweep were not otherwise reopened
+against their carriers this session. All checks re-run after the
+correction: checker exit 0, 0 dense, card set unchanged (52 unique, 0
+missing, 0 added), Husserl quote found. The body is left for the
+supervisor's review; registry.json and app.js untouched; body remains
+status planned; registry rebuild --rebuild=body needed after the
+publication decision.

@@ -1,8 +1,9 @@
 {
  "batch": "dos17",
- "done": [],
- "note": "minted under dos17 after the dos4 fallback. 2026-10-25 (worker-pplx-dos17-1025h): body rewritten in the GF model, two passes with advisor QC (third disagreement candidate removed as manufactured; unsupported bridges deleted; practice rebuilt in VSR two-sentence form from re-read kernel cards; Husserl quote auto-verified; all 52 cards retained; checker 0, density 0). IN PROGRESS: carrier-verification pass on the disagreements and glosses needed before publication. FLAGS: dos17 taken per fallback ladder rung 6 (redirect if the dos1-dos4 parenthetical was a cap); registry rebuild --rebuild=body after verification; registry.json/app.js untouched.",
- "in_progress": [
+ "done": [
+  "body",
   "body-gf-rewrite"
- ]
+ ],
+ "note": "2026-10-25 (worker-pplx-dos17-1025h): body rewritten in the GF model (two passes with advisor QC; third disagreement candidate removed as manufactured; unsupported bridges deleted; practice rebuilt in VSR two-sentence form from re-read kernel cards; all 52 cards retained; checker 0, density 0; Husserl quote auto-verified). Carrier-verification pass completed: Merleau-Ponty gloss vs SEP entry, Seth gloss vs Seth PDF, cortisol awakening response vs Feder et al. 2004 abstract, HRV gloss vs Park & Thayer 2014, allostatic load vs McEwen 1998 NEJM, pendulation vs Epoch\u00e9 Clinical page - all confirmed; one misattribution (James-Lange lineage assigned to the interoception card) corrected to the card's actual Craig/Seth text. FLAGS: dos17 taken per fallback ladder rung 6 (redirect if the dos1-dos4 parenthetical was a cap); registry rebuild --rebuild=body after supervisor review; registry.json/app.js untouched; body remains status planned.",
+ "in_progress": []
 }
