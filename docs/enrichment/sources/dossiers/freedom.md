@@ -140,3 +140,22 @@ card-faithful; the keep-or-recast decision is a voice/style call.
 
 Checks: dossier_check.py exit 0 (run this session). Editorial review
 only; no external carriers freshly opened this pass.
+
+## Supervisor cold-read (2026-10-25, supervisor-pplx-1024c)
+
+Full read of the manuscript. Findings: the opening states the two
+boundaries (Agency holds the capacity-side, Anxiety holds the felt
+side) and the dossier's own territory (the flight-and-will wing) in
+one paragraph — dense but every clause carries; the numbered map
+glosses are long but card-faithful; the Fromm, Rousseau and
+Beauvoir quotations sit inside their entries correctly; the
+"Related questions and parallels" section answers its own editorial
+questions honestly (including why the Kierkegaardian material is
+kept out); the single-kernel practice section is coherent and its
+Retention paragraph discloses the evidence limit ("the cards state
+the evidence for the direction, not for the exercise itself"). The
+page's structure varies from the standard template (numbered map,
+parallels section instead of a disagreements section) but the
+variation is deliberate and documented. No defects found at reader
+level; no edits. Checker exit 0. Editorial review only; no external
+carriers freshly opened this pass.
