@@ -1279,3 +1279,15 @@ sufficiency cards; A010 (fortune can overturn happiness) is carried
 by the Solon and Croesus story. No genuine straggler found; the map
 is exhaustive at concept coverage. No dossier changes made in this
 pass.
+
+## Story spot-checks, batch 3 (worker-pplx-dos1-1025g, 2026-10-25)
+
+Four further story cards opened at body level and checked against
+their loglines: ST001 Cook Ding and the Ox (the blade that follows
+the spaces between joints — matches), ST107 Jane Addams Moves In
+(Hull-House, the residence before the programme — matches), ST297
+Ryff's Six Dimensions (the six-dimensional model, hedonic versus
+eudaimonic — matches) and ST397 Hokusai Asks for Five More Years
+(the colophon, every dot and stroke alive at a hundred and ten —
+matches). All four match. Combined with batches 1 and 2, the
+sampled cards all verify. No defects found.
