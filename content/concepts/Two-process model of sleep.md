@@ -19,7 +19,7 @@ The homeostatic process is a debt that rises while awake and is paid down in sle
 
 The two processes are separable, and the article says how each is observed: NREM sleep EEG slow wave activity is the principal marker of S, while core body temperature and melatonin rhythms mark C; in animals whose circadian pacemaker was lesioned, sleep homeostasis kept running, which "indicates that the two processes are regulated separately" (same article).
 
-For the compendium's principles the model is useful less as physiology than as a picture of rhythm: the need for rest accumulates as a function of use, and a clock independent of that need shapes when rest can happen. The model's own marker list gives the practical check: sleep debt shows in slow-wave activity and the clock in temperature and melatonin rhythms, so a bad night has two separate places to start looking.
+For the compendium's principles the model is useful less as physiology than as a picture of rhythm: the need for rest accumulates as a function of use, and a clock independent of that need shapes when rest can happen. The article's marker list shows what each process is measured by: slow-wave activity for the sleep-debt process, temperature and melatonin rhythms for the circadian one.
 
 ## Field
 

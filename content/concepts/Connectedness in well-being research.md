@@ -18,7 +18,7 @@ The same abstract reports, for this sample:
 
 > No variable was sufficient for happiness, but good social relations were necessary. — Diener & Seligman, 2002, [PubMed record (opened)](https://pubmed.ncbi.nlm.nih.gov/11894851/)
 
-The study is about social ties. The compendium's principles extend the connectedness idea further, to land, Country, and the more-than-human world, and that extension is the compendium's reading rather than the paper's finding. The necessity finding carries the practical weight: good social relations did not by themselves guarantee happiness in this sample, but the unhappy groups were the ones without them, which is why connectedness is treated as a precondition to protect rather than a bonus to schedule.
+The study is about social ties. The compendium's principles extend the connectedness idea further, to land, Country, and the more-than-human world, and that extension is the compendium's reading rather than the paper's finding. The necessity finding carries the practical weight: in this sample no variable was sufficient for happiness, while good social relations were necessary, which is why connectedness is treated as a precondition to protect rather than a bonus to schedule.
 
 ### In the compendium
 
