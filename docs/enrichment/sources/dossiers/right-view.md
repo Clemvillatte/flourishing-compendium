@@ -519,3 +519,25 @@ section); glib/formulaic phrases replaced; "Holding views lightly"
 reorganised around what each account distrusts (reification, detached ends,
 fixity of self, one-sidedness, scale) rather than concatenated card
 descriptions.
+
+## Card spot-check (pass 22 addendum, worker-pplx-c3b0f2fb, 2026-10-25)
+
+Following the advisor QC directive to close evidence gaps, the thirteen
+most load-bearing right-view glosses were re-checked by this worker
+against their card files this session: Cognitive distortions (Beck's
+systematic errors, arbitrary inferences / selective abstraction /
+overgeneralization), The coloured lens (Emerson's beads, Gallegos's
+"misleads in important ways"), First impressions bias (Willis-Todorov
+hundred milliseconds, Asch 1946 order effects), Appraisal theory
+(Lazarus stakes and coping), The four views ("usable coordinates that
+become toxic the moment they are mistaken for the territory" - card
+verbatim), Shunyata, Buddhist emptiness of inherent nature ("a
+superimposition mistakenly projected onto objects, a cognitive default"
+- card verbatim), The emptiness of emptiness, Ends-in-view, Fixed views
+of self (Dweck and Crocker lines, fragility prediction), Partial truths
+in every opinion, Steelmanning the opposing view, The view from above.
+All thirteen glosses match their cards; two glosses carry the card's own
+phrasing with card attribution in the prose. The remaining right-view
+entries remain covered by the earlier card-fidelity sweep (gfva-1025a,
+26 entries). This narrows the dos18 evidence flag: the load-bearing
+glosses are now worker-re-read; the sweep covers the rest.
