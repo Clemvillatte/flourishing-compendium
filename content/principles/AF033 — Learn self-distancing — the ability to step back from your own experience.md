@@ -26,7 +26,7 @@ The studies asked whether the language people use to refer to the self during in
 
 ### Plain words
 
-Self-distancing means considering your experience from an observer's point of view. One way to try it is grammar: referring to yourself by name, as the studies did, rather than saying "I". Try it on one live worry — write the sentence both ways and notice whether the name version is easier to think about, including no difference.
+Self-distancing means focusing on yourself from a distanced perspective, not from inside your own head. One way the studies tested this is grammar: referring to yourself as "you" or by your own name when you think about a feeling, rather than saying "I". The researchers' instruction was to ask yourself, if your name were Jane, "Why did Jane feel this way?" — try it on one live worry and notice whether the name version is easier to think about.
 
 For example: the sentence "I'm dreading the meeting" rewritten as "Sarah is dreading the meeting"; the exercise is writing both sentences and noting any difference. (An invented illustration.)
 ## Psychology parallels
