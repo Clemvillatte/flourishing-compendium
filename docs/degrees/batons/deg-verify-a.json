@@ -39,5 +39,7 @@
    "from": "worker-pplx-verifya-1025d",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T13:25:18+00:00"
 }
