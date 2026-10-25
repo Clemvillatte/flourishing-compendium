@@ -80,3 +80,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 10:52Z worker supervisor-pplx-1025v-worker: executive-functions PUBLISHED (advisor QC fixes, Logie 2016 opened, checks green); supervisor review requested.
 - 2026-10-25 11:01Z worker-p1a-1025o: t1g done — T057 Barrett thinker page minted + 28 backlinks; checks green.
 - 2026-10-25 11:12Z worker-pplx-t2b-1025w: kpr K379 Balanced-Minds guided-version check closed via archived copy (description verbatim; unverifiable 17:43 duration withdrawn); K396 connection remains open; baton held
+- 2026-10-25 11:00Z worker-pplx-9ff61dc0: released p1zy (9/9 Tier-2 cards repaired, sources opened verbatim, validators PASS); took p1zzk (next Tier-2 band).
