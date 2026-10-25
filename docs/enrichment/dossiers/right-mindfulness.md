@@ -12,9 +12,9 @@ Attention: the general science of how experience is selected; this page holds th
 
 Right concentration: the neighbouring factor that steadies the mind this one keeps honest; each has its own page.
 
-Meta-awareness: knowing that one is aware; I pair the capacity with sati, and the map below holds both.
+Meta-awareness: knowing that one is aware; I pair the capacity with sati, and the entries below hold both.
 
-## The map: the entries on right mindfulness
+## The entries on right mindfulness
 
 ### What the factor is
 
