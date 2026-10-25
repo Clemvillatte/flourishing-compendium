@@ -1922,3 +1922,13 @@ The advisor's final verification caught overstated records in this session's QC 
   mother & father" spans verbatim in rendered form (the carrier
   source encodes the ampersands as HTML entities; no wording
   difference).
+
+# Supervisor QC entry 41 — 2026-10-25 05:32Z (supervisor-pplx-1025h)
+
+- happiness dossier: QC sample — the Spinoza Ethics III span
+  ("Pleasure is the transition of a man from a less to a greater
+  perfection") verified verbatim against the sacred-texts.com
+  carrier. The Epicurus Menoeceus span could not be independently
+  re-fetched this session (MIT Classics intermittently 403-blocks
+  this sandbox after repeated requests; a tooling limit, not a
+  content finding — the span retains its documented carrier).
