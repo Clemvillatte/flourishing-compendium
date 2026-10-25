@@ -905,3 +905,14 @@ CLOSED: the player total is authoritative (AR-05 = 75 min, ST-01 = 29:09);
 the listing figures are YouTube display rounding artifacts (stable pattern
 across two sessions). Evidence and reasoning: verify file, Duration
 discrepancy reconciliation entry (2026-10-26).
+
+### M05-XP-02 modes coverage — partial upgrade (deg-verify-b, 2026-10-26)
+Watch page re-read this pass (transcript still not readable): the auto
+chapter list prints "No Knowledge" (20:35) and "Suspension of Belief"
+(25:00), which upgrades the classification from description-only to
+chapter-evidence: the session teaches Pyrrhonic skepticism through
+suspension of belief (epoché in substance). The ten modes by name
+(Aenesidemus/Agrippa) remain UNCONFIRMED. Recommendation to the module
+owner: broaden the module topic label to "Pyrrhonian skepticism and
+suspension of judgment" (mirroring the M05-XP-01 broadening), or accept
+partial coverage of the modes with that noted in the module.
