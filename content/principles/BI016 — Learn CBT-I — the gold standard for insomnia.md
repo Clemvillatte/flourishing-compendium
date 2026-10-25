@@ -18,7 +18,7 @@ The insomnia guideline's definition, graded Standard:
 
 The medication comparison is the reason the treatment is called first-line: "short-term pharmacological treatments alone are effective during the course of treatment for chronic insomnia but do not provide sustained improvement following discontinuation, whereas cognitive behavioral treatments produce significant improvement of chronic insomnia in the short-term, and these improvements appear sustained at follow-up for up to two years." And the guideline's own component ranking: "Current data support the efficacy of stimulus control, relaxation training, and cognitive behavioral therapy (CBT-I)."
 
-**Plain words** CBT-I is the gold-standard insomnia programme: a package of sleep restriction, stimulus control, and cognitive work. The guideline's short version: pills help short-term and stop helping when you stop; the behavioural package keeps working at follow-up. If insomnia is chronic, this is the referral.
+**Plain words** The guideline grades it Standard and puts it first: a bundle of stimulus control, sleep restriction and cognitive therapy sold as one protocol. Its edge over pills is durability — medication works during treatment and loses the benefit on discontinuation, while the protocol's gains were still there at follow-up two years on. For chronic insomnia this is the referral to ask for.
 
 *For example:* the "I've tried everything" shelf, everything except the one structured protocol with the Standard grading. Pills rent sleep; CBT-I owns it. Different business models.
 

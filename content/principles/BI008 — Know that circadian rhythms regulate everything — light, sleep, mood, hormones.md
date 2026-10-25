@@ -18,7 +18,7 @@ The master clock sits in the hypothalamus, and light is what sets it:
 
 Artificial light changed the exposure pattern: "the availability of artificial light has substantially changed the light environment, especially during evening and night hours", which "may increase the risk of developing circadian rhythm sleep-wake disorders (CRSWD), which are often caused by a misalignment of endogenous circadian rhythms and external light-dark cycles." The mood connection is documented carefully: "relatively moderate changes in the timing of the sleep-wake cycle can significantly modulate mood." The review's summary is the principle in one line: "Light at the wrong time may disrupt circadian rhythms and sleep, but in the form of light therapy, light exposure can be used as an intervention for psychiatric and other medical conditions."
 
-**Plain words** Circadian rhythms run everything on a roughly 24-hour loop set mainly by light: sleep, mood, hormones, energy. Disrupt the loop, with shift work, jet lag, or evening screens, and everything downstream wobbles. Protect the rhythm; it is the spine of your day.
+**Plain words** The body keeps a clock, light winds it, and nearly everything hangs off its output: sleep, mood, hormones. Evening light is the modern hazard, pushing the whole cycle against the day it has to live in. The same lever works both ways, which is why light therapy is a psychiatric intervention and not just a lamp.
 
 *For example:* the night owl forced into morning meetings, the jet-lagged week of unexplained tears. The review's evidence supports the direction of the complaint: moderate changes in the timing of the sleep-wake cycle can significantly modulate mood.
 

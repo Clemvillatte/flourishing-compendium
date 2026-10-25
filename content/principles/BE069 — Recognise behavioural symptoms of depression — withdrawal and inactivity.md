@@ -18,7 +18,7 @@ The treatment paper's behavioural picture:
 
 Jacobson and colleagues describe inactivity, withdrawal and inertia as commonly observed behaviours in depression and discuss them as symptoms, citing APA (1994). From a BA perspective the paper pays particular attention to "the function of these behaviors in the context of an individual's life." The same passage explains the short-run relief and long-run cost: "these avoidance patterns often function to deny depressed people access or opportunity to contact potentially antidepressant sources of reinforcement in their lives", and they "tend to increasingly narrow the repertoire of behaviors in which an individual engages and often create secondary problems in an individual's life."
 
-**Plain words** Depression has behavioural fingerprints: withdrawal, inactivity, the cancelled plans, the curtains. In the paper's account they are symptoms with a function, and the function is what the treatment works on, through [[Behavioral activation|behavioural activation]].
+**Plain words** The signs are ordinary enough to miss: plans cancelled, curtains kept drawn, days losing their shape. The behavioural activation paper treats them not just as symptoms but as moves with a short-run payoff — the withdrawal relieves, and then narrows the life around you. The treatment's target is the function, not the mood: [[Behavioral activation|behavioural activation]] works on what the avoidance is doing.
 
 *For example:* a friend cancels every plan for two months. One possible reading, in the paper's terms, is avoidance behaviour; the observation alone does not diagnose.
 
