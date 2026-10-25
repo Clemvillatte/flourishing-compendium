@@ -48,3 +48,21 @@ same carrier), motivation (Iyengar and Lepper limited-array
 sentence, Deci and Ryan 2008 type-vs-amount sentence, and the Deci,
 Koestner and Ryan 1999 meta-analysis sentence, all exact). No
 corrections needed.
+
+## Full reader-level review (2026-10-25, supervisor-pplx-1024c)
+
+Per VOICE-AUDIT.md, zero detector matches do not certify natural
+prose, so the manuscript was read in full. Findings: the opening
+("a goal is a promise a person makes to a future self, and the
+promise can serve the life or quietly run it") is functional and
+direct; the two disagreement sections are the strongest part of the
+page — both positions quoted, the bridging sentence honest ("the
+sorting of the two cannot be done from outside"), and the
+self-concordance cost disclosed rather than hidden ("a goal that is
+truly yours is harder to put down", quoting the abstract's own
+summary); the map glosses are card-faithful in style; the practice
+and story sections read naturally. No not-X-but-Y scaffolds, no
+decorative metaphors, no broken replicates found at reader level.
+No edits needed. Checker exit 0. Editorial review only; no carriers
+freshly opened this pass (the quoted passages were verified in
+earlier sessions per this ledger).

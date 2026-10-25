@@ -48,3 +48,20 @@ results suggest that the self's capacity..."; the body now carries
 the carrier's full sentence. This ledger's earlier "all
 word-for-word; no corrections needed" claim was wrong about the
 Baumeister block and is superseded by this note.
+
+## Full reader-level review (2026-10-25, supervisor-pplx-1024c)
+
+Per VOICE-AUDIT.md, zero detector matches do not certify natural
+prose, so the manuscript was read in full. Findings: the opening's
+three-part framing (feeling, environmental fact, verdict on the self)
+is carried by direct statements; the ego-depletion section handles the
+replication crisis honestly (Baumeister's original claim quoted, the
+23-lab preregistered near-zero meta-analysis quoted, the later
+12-lab small effect cited, verdict "unsettled" stated plainly); the
+Aristotle rest section quotes both answers from the same book and
+explains each separately, exactly the pattern VOICE-AUDIT asks for;
+the practice and story sections read naturally. No not-X-but-Y
+scaffolds, no decorative metaphors, no broken replicates found at
+reader level. No edits needed. Checker exit 0. Editorial review only;
+no carriers freshly opened this pass (the quoted passages were
+verified in earlier sessions per this ledger).
