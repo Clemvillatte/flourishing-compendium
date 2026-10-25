@@ -148,6 +148,23 @@ opened event page.
 | The secret habits that control your life | [watch](https://www.youtube.com/watch?v=Ywec1MbeQDk), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=Ywec1MbeQDk&format=json), [credential](https://dornsife.usc.edu/wendy-wood/) | 6:18 | 2022-05-26 (watch page) | Wendy Wood, Provost Professor Emerita of Psychology and Business, USC | M7 overt behavioural (habits) |
 | Inaugural Lecture: Unravelling Early Self Regulation | [watch](https://www.youtube.com/watch?v=2ZS_f1cbrKk), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=2ZS_f1cbrKk&format=json), [event page](https://www.education.ox.ac.uk/event/inaugural-lecture-unravelling-early-self-regulation-professor-steven-howard/), [credential](https://www.education.ox.ac.uk/person/professor-steven-howard/) | 58:54 | not stated on the opened pages | Steven Howard, Senior Academic Research Leader in Child Development and Education, Oxford | M7 self-regulation; the opened event page describes the lecture as discussing why early self-regulation interventions often have small effects, and a research program on the nature, development and mechanisms of self-regulation |
 
+Additional inspection (2026-10-25, batch 14): lecture 14 (What Motivates
+Us: Sex, 52:47) had its chapter outline recorded (Addressing Morality and
+Inevitability on Evolution, Sex and Gender [00:00:00]; Basic Sex Ed
+[00:10:48]; Sex Differences among Humans [00:19:22]; Beauty: An Average
+Face [00:32:16]; Social Factors for Sex Differences [00:38:24]; Sexual
+Orientation [00:45:53]; Question and Answer on Sex and Gender
+[00:51:39]) and the opening of chapter 1 read: Bloom frames sex as
+centrally important despite little time spent on it, and sets up
+questions about how males and females differ. This resolves the standing
+caution about lecture 14: its title and content are about sex and
+gender, not self-determination theory, so it is NOT an M6 motivation
+segment and no M6 claim may rest on it. The M6 row rests on Ryan and
+Deci 2020 and Woolley et al. 2025. Lecture 14 remains a possible
+elective for M5 (sex differences as individual differences) or M2
+(attraction and culture) once its segments are read; it stays a
+candidate.
+
 Additional inspection (2026-10-25, batch 13): lecture 1 (Introduction
 to Psychology, 29:37) had its chapter outline recorded (Introduction to
 and Requirements for the Course [00:03:40]; General Goals for the Course
