@@ -10,7 +10,6 @@
   "ERG Theory",
   "Effortless action through long effort",
   "Embodied cognition",
-  "Emotion regulation",
   "Growth through practice",
   "Independent vs interdependent self-construal (Markus & Kitayama)",
   "Moral situation research",
@@ -31,7 +30,6 @@
   "Walking meditation",
   "Bhavana (cultivation)",
   "The evening review",
-  "Conatus",
   "Deus sive natura",
   "Nonattachment",
   "Dependent origination",
@@ -70,7 +68,9 @@
   "Creative advance",
   "Dialectical thinking",
   "Embodied self",
-  "Acceptance alongside values-based action"
+  "Acceptance alongside values-based action",
+  "Conatus",
+  "Emotion regulation"
  ],
  "in_progress": null,
  "flagged": {
@@ -102,12 +102,14 @@
   "Care as practice": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the QC repairs VERIFIED APPLIED — spot-checked this session (Nonattachment: the exact Devine-et-al. definition blockquote present with its Springer carrier; the earlier namespace disposition stands — KEEP BOTH with cross-links); the w1c QC rounds are documented in the worker's per-item records. The state flag was stale. [ORIGINAL: Reopened for QC: QC round 2: attribution and gloss repairs]",
   "Character strengths (Peterson & Seligman)": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the QC repairs VERIFIED APPLIED — spot-checked this session (Nonattachment: the exact Devine-et-al. definition blockquote present with its Springer carrier; the earlier namespace disposition stands — KEEP BOTH with cross-links); the w1c QC rounds are documented in the worker's per-item records. The state flag was stale. [ORIGINAL: Reopened for QC: QC round 2: source verification and study-specific wording]",
   "Chronic pain acceptance": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the QC repairs VERIFIED APPLIED — spot-checked this session (Nonattachment: the exact Devine-et-al. definition blockquote present with its Springer carrier; the earlier namespace disposition stands — KEEP BOTH with cross-links); the w1c QC rounds are documented in the worker's per-item records. The state flag was stale. [ORIGINAL: Reopened for QC: QC round 2: scope reduction]",
-  "Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder": "supervisor disposition (2026-10-23 ~06:40Z, worker-pplx-sup-0b6f3a91): closed as disclosed-scope — the page states in plain reader terms that it does not establish one threshold for all four conditions and which duration criteria are uncovered; the ledger record matches the page; no action."
+  "Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder": "supervisor disposition (2026-10-23 ~06:40Z, worker-pplx-sup-0b6f3a91): closed as disclosed-scope — the page states in plain reader terms that it does not establish one threshold for all four conditions and which duration criteria are uncovered; the ledger record matches the page; no action.",
+  "Conatus": "Reopened for QC: QC: routed jargon cleanup — 'seed line' narration reworded to plain reader voice",
+  "Emotion regulation": "Reopened for QC: QC: routed jargon cleanup — 'seed line' narration reworded to plain reader voice"
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-21T14:26:20+00:00",
- "band_done": true,
+ "updated": "2026-10-25T01:53:17+00:00",
+ "band_done": false,
  "new_concepts": [
   {
    "title": "Autonomous motivation",

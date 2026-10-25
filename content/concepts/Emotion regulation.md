@@ -16,7 +16,7 @@ The model's central comparison pits cognitive change against response modulation
 
 ### Timing and flexibility
 
-The page's seed line states the model's practical discovery: regulation works best early in the process, on situations and attention, before the full-blown response demands late, costly output control. The model's later extension adds stages before strategy choice — identifying the emotion, selecting a strategy, implementing it — and the research frontier has moved to flexibility: strategies help in context-specific ways, and the aim is a repertoire deployed to fit the situation (Gross, 2015).
+The model's practical discovery is that regulation works best early in the process, on situations and attention, before the full-blown response demands late, costly output control. The model's later extension adds stages before strategy choice — identifying the emotion, selecting a strategy, implementing it — and the research frontier has moved to flexibility: strategies help in context-specific ways, and the aim is a repertoire deployed to fit the situation (Gross, 2015).
 
 ### Here
 
