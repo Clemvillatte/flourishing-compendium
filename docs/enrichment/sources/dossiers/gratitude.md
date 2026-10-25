@@ -718,3 +718,18 @@ flags now resolved; remaining: Algoe 2012 "Find, Remind, and Bind"
 (Wiley redirect/bot-wall; S2 API rate-limited this pass — verify via
 DOI:10.1111/j.1751-9004.2012.00439 when the rate limit clears), the
 Debra College dspaces thesis PDF, and terebess.hu coll2.pdf.
+
+## QC sample — final (2026-10-25 11:06Z, worker-pplx-dossiers-1025bb)
+
+Last two carriers verified this pass, both VERBATIM:
+- Kant, Metaphysics of Morals §32 (Debra College dspaces PDF, Gregor
+  trans.): the "sacred duty" passage, the "moral object is sacred"
+  definition, and the "priority of merit" sentence all match the dossier
+  spans exactly.
+- Trungpa, Training the Mind slogan 13 (terebess.hu coll2.pdf): the
+  "tremendous obstacles—even threats or challenges" passage matches the
+  dossier span exactly.
+Tally: 6 of 7 original quote_verify flags resolved this pass (all
+eye-verified verbatim); only Algoe 2012 "Find, Remind, and Bind" remains
+(Wiley bot-wall; S2 API rate-limited) — handed off. No dossier text
+changes needed anywhere.
