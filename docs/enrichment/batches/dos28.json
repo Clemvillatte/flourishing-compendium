@@ -1,8 +1,8 @@
 {
- "batch": "dos28",
- "done": [],
- "review": [
-  "sadness-and-grief"
- ],
- "note": "dossier written from opened carriers 2026-10-24; boundary test: no split proposed (see sources/dossiers/sadness-and-grief.md); registry status left planned for supervisor"
+  "batch": "dos28",
+  "done": [],
+  "review": [
+    "sadness-and-grief"
+  ],
+  "note": "GF-model rewrite pushed 2026-10-25 (worker-pplx-dos28-1025h): sadness-and-grief restructured to the interwoven format; disagreement section built (3 questions, both sides held); Practice VSR built from K319/B108/K348/R124; Story moved to final position; card-link set unchanged; 15 quotes verified (5 blocked-fetch NOT FOUNDs confirmed by eye); checker exit 0, density 0, voice clean; registry left planned for supervisor flip"
 }

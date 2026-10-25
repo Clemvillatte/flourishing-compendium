@@ -83,3 +83,52 @@ cards. No mismatches found; no edits made.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
 review only; no external carriers freshly opened this pass.
+
+## GF-model rewrite (2026-10-25, worker-pplx-dos28-1025h, dos28 baton)
+
+Restructured docs/enrichment/dossiers/sadness-and-grief.md from the
+map format to the owner-validated GF interwoven format per
+docs/enrichment/dossiers/DOSSIER-MODEL.md (modeled on
+genuine-flourishing.md and wisdom.md), per CURRENT ORDERS.
+
+What was done:
+
+- Question added under the title ("What is grief asking of the person
+  grieving, and who sets when the work is done?"); first-person intro
+  written; Nearby terms kept (6 bullets).
+- Map entries rewoven into question-headed threads: state vs course of
+  work, what the work consists of, how long and by what measure, what
+  sorrow is made of, grief beyond death, when grief goes wrong.
+- Where-the-traditions-genuinely-disagree section built (3 questions,
+  each side held, turn-on stated, first-person lean): Should grieving
+  be limited by prescription (Seneca proportion vs B108 "sets no
+  deadline for feeling better")? Detachment or continued relationship
+  (older clinical picture vs continuing bonds, Stroebe 2012 condition)?
+  What brings grief to its stop: proportion or understanding (Seneca
+  vs Zhuangzi)?
+- Practice VSR section built from the four held practice cards (K319,
+  B108, K348, R124), each kernel's protocol taken from its card.
+- Story section moved to the final position (checker requirement);
+  the old Sources section was removed from the dossier (the ledger
+  carries the source list; exemplars carry no Sources section).
+- Card-link set identical to the previous revision (diff of extracted
+  #card= targets: identical).
+- Stroebe & Schut dosage sentence newly quoted verbatim (it was
+  previously paraphrased), with the same PDF carrier.
+
+Quote verification (this session): dossier_quote_verify.py checked 15
+quotes; 5 NOT FOUND, all blocked-or-extraction failures, each
+confirmed by eye against an opened carrier:
+- Stroebe & Schut 1999 summary + dosage sentences: present verbatim in
+  the fetched PDF (extraction drops fi-ligatures, which broke the
+  automatic match; confirmed by eye).
+- Cunsolo & Ellis 2018 Butler and value-questioning sentences: present
+  verbatim in the fetched PDF (superscript citation numbers and a
+  line-break hyphen broke the automatic match; confirmed by eye).
+- Zhuangzi 18 Legge passage: ctext returned a bot-wall page to this
+  sandbox; the passage confirmed verbatim against mirrors of the Legge
+  "Texts of Taoism" wording (opened via web search results).
+
+Checks: dossier_check.py exit 0 (37 card links, 17 headers, 16
+external carriers); density 0; voice audit clean. Registry status
+left "planned" for the supervisor to flip and publish.
