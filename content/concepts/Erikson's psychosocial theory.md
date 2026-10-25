@@ -15,11 +15,11 @@ Erikson's psychosocial theory is Erik Erikson's lifespan model of development: t
 
 The stages as the page renders them: trust vs. mistrust; autonomy vs. shame and doubt; initiative vs. guilt; industry vs. inferiority; identity vs. role confusion; intimacy vs. isolation; generativity vs. stagnation; ego integrity vs. despair.
 
-The eight stages share one structure. Each is marked by a central conflict, or psychosocial crisis, that must be resolved for healthy personality growth, and each is negotiated socially. The eight run from trust versus mistrust in infancy to ego integrity versus despair in old age, the ego growing by resolving each conflict in turn.
+The stages are "based on the epigenetic principle, which states that development occurs in a predetermined, sequential order, with each stage building upon the previous one" (McLeod, [Erikson's Stages of Development](https://www.simplypsychology.org/erik-erikson.html)). An unresolved conflict can weigh on later stages and on overall well-being, though the page notes that people can often resolve these issues later with appropriate support.
 
 ### Identity theory Erikson
 
-The fifth stage is adolescence. The focus is on discovering "Who am I?", and success there brings the virtue of fidelity.
+The fifth stage is adolescence. The focus is on discovering "Who am I?", and success there brings the virtue of fidelity: in McLeod's summary, "being able to commit oneself to others while still accepting people whose values differ from one's own". Teens who are free to experiment and receive guidance without pressure tend to develop a strong sense of identity; restriction and confusion produce role confusion instead.
 
 - [[D160 — Be patient with your own maturation]] — stages have their own timing
 - [[D043 — Hold to the constant]]
