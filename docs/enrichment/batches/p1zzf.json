@@ -3,7 +3,6 @@
   "done": [
     "PP053",
     "PP055",
-    "R033",
     "R034",
     "R036",
     "R039",
@@ -30,12 +29,13 @@
     "S040",
     "S062",
     "R038",
-    "R030"
+    "R030",
+    "R033"
   ],
   "in_progress": null,
   "flagged": {
     "PP055": "Tier-2 repair + advisor-QC corrections 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived; Haase 2018 meta-analysis opened (r=.39; self-report .53 vs performance .25), Springer 2025 opened (positive bias predicted by high CSE + low judged achievements); causal \"responds to finishing\" removed; validator PASS",
-    "R033": "Tier-2 repair + advisor-QC corrections 2026-10-25: Te Ara utu page and Ahu-Hoare 2010 PDF opened verbatim (utu = positive response to friendly acts; rather-more-than-received; dynamic balance); Plain words re-derived without transactional closing framing; validator PASS",
+    "R033": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)",
     "R039": "Tier-2 repair + advisor-QC corrections 2026-10-25: Te Aka hau entry opened (vital essence/vitality of person, place or object); Plain words re-derived using dictionary gloss, disputed gift-reading kept as scholarly dispute; validator PASS",
     "R046": "Tier-2 repair + advisor-QC corrections 2026-10-25: Vaioleti 2006 opened (tala/noa, no rigid framework), UNFCCC note opened (purpose: share stories, build empathy and trust), Fiji Times opened (settle difficulties and disputes; no finger pointing); Plain words re-derived, aims stated as aims; validator PASS",
     "R068": "Tier-2 repair + advisor-QC corrections 2026-10-25: Philopractice Noddings page opened (\"I do not relinquish myself\" verbatim), Noddings 2010 Abstracta opened (expressed needs quote); Plain words re-derived, Batson comparison removed from Plain words; validator PASS",
@@ -51,7 +51,7 @@
   },
   "missing_concepts": [],
   "sources_checked": 0,
-  "updated": "2026-10-25T12:38:19+00:00",
+  "updated": "2026-10-25T12:40:09+00:00",
   "band_done": false,
   "notes": {
     "R038": {
@@ -65,6 +65,12 @@
       "claims": "n/a",
       "limitations": "None",
       "url": "https://teara.govt.nz/en/kotahitanga-unity-movements/print"
+    },
+    "R033": {
+      "qc": "Plain-words replicate replaced (~0.5 -> ~0.1); validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://teara.govt.nz/en/traditional-maori-warfare-riri/print"
     }
   }
 }

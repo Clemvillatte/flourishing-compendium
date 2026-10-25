@@ -20,7 +20,7 @@ One paper argues that non-violent redress was preferred in pre-1840 Māori socie
 
 For the psychology parallel, Gouldner (1960) distinguished reciprocity "as a pattern of mutually contingent exchange of gratifications", a folk belief, and a generalised moral norm, and hypothesised that the moral norm is "one of the universal 'principal components' of moral codes" ([Gouldner 1960, abstract](https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.2307/2092623)). That is a hypothesis, and utu is not the same thing as the norm of reciprocity.
 
-**Plain words** Utu answers acts with acts: a friendly or gracious act gets a positive response, and so does a harm. The balance it aims at is not a ledger that must come out even. People giving or taking utu commonly do or take rather more than was done to them, and the sources call the result a dynamic balance, one that keeps moving. Revenge is the narrow translation, not the whole sense.
+**Plain words** Think of utu as a physics of the relationship rather than a rulebook. A kindness tilts the field, a wrong tilts it the other way, and the practice is whatever tilts it back. The old revenge gloss catches only the harshest case; the same force answers a gift with a gift, and usually with interest, because the aim is a moving equilibrium between people, not a receipt that zeroes out. When the accounts never quite close, that is the design, not the failure.
 
 *For example:* A neighbour returns your borrowed ladder with firewood, a little more than the loan was worth. Nothing is said, and the exchange keeps the relationship warm.
 
