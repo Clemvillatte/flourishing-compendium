@@ -379,3 +379,15 @@ edit was made.
   low-correlation finding; Sullivan catastrophizing definition,
   rumination/magnification/helplessness), no new carriers opened,
   no new claims. Checker and density re-run green.
+
+## Post-supervisor-edit verification (2026-10-25, same session)
+
+The supervisor accepted the chronic-pain-research placement
+recommendation (commit 32dd060, card-faithful paragraph added to
+the first-arrow section) and rebuilt the site body. Full check
+suite re-run on the edited file this session: checker exit 0
+(49 card links, 15 headers, 14 external carriers), density 0,
+quote_verify 4/1 (the standing Perseus by-eye case). The
+retracted disagreement section remains absent; the folded
+amor-fati body paragraph is intact at line 53. No conflict
+between the supervisor's addition and this session's edits.
