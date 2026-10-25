@@ -3,7 +3,11 @@ CACHE='/tmp/work/qcache'; os.makedirs(CACHE,exist_ok=True)
 def norm(s):
     s=html.unescape(s); s=unicodedata.normalize('NFKC',s).lower()
     s=s.replace('\u2019',"'").replace('\u2018',"'").replace('\u201c','"').replace('\u201d','"').replace('\u2014','-').replace('\u2013','-').replace('\u00a0',' ')
+<<<<<<< HEAD
     s=re.sub(r'\[\d+\]','',s); s=re.sub(r'<[a-zA-Z/][^<>]{0,200}>',' ',s)
+=======
+    s=re.sub(r'\[\d+\]','',s); s=re.sub(r'<[^>]{1,200}>',' ',s)  # bounded: a stray '<' (p-value) must not eat text up to a distant '>'
+>>>>>>> 8753062 (verifier fix: bounded tag-stripping regex in dossier_quote_verify (p-value stray-'<' bug, reproduced and fixed); board note added)
     s=re.sub(r'[^a-z0-9]+',' ',s); return ' '.join(s.split())
 def fetch(u):
     p=f'{CACHE}/{hashlib.md5(u.encode()).hexdigest()}'
