@@ -186,3 +186,36 @@ mid-item beyond the Owner-Board line.
 - Live bands observed this pass: dos21, dos23, dos26, dos29, dos30,
   dos31, dos33 (workers active, no interference from this supervisor;
   no worker output edited).
+
+### Supervisor checkpoint 2 — 2026-10-25 ~04:00Z (supervisor-pplx-brownmermaid-1025a)
+
+Session totals for the next supervisor/owner:
+- PUBLISHED this session: suffering (8ed41bdb5), impermanence
+  (8bc1a7f8), acceptance (55d22f22, exception granted per the
+  suffering precedent). Registry 34 published / 5 planned; app.js
+  rebuilt and integrity-checked (all published present, no
+  planned leaked).
+- CONTENT close-outs: shame-and-guilt 3-of-3 questions (a1a96f8f);
+  motivation third question added, then the dos10 worker's QC
+  legitimately moved one to body (now 2 of 3, flagged);
+  creation taken over from stale dos31: ONE confirmed
+  demonstrated disagreement (Frankl vs Sartre, discovered-vs-
+  conferred; advisor-blocked twice, repaired per its rulings;
+  87e6a350), Sennett-Marx moved to body as comparison; 2 more
+  questions still needed, NOT manufactured; dos31 released for a
+  fresh worker.
+- CATALOGUE FINDING (QC log entry 7, 5b4888bc): 28 of 40 dossiers
+  below the 3-question bar, 20 of them published. OWNER decision
+  required: ratify the bar + commission a disagreement-building
+  pass, or revise the bar.
+- FREEDOM flip HELD (QC entry 8): rewrite clean but 0 established
+  disagreements (only candidate retracted as manufactured by
+  advisor re-review). Await owner decision or a genuine
+  disagreement.
+- GRATITUDE: published with 0 questions (ledger-documented); band
+  free; needs a research pass for genuine disagreements (Emmons
+  load-bearing quote re-verified verbatim this session).
+- Standing owner items: right-livelihood bounded-comparison
+  ratification; creativity + procrastination + creation art
+  assignment; meaning-and-mortality deletion path; the catalogue
+  bar decision above.
