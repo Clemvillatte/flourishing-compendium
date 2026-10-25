@@ -118,3 +118,25 @@ Result: scoped v2 PASS per the advisor's round-7 instruction ("After these exact
 - Research status of the affect/appraisal relation (off the page since QC round 2): the page's synthesis ("two parts of one episode") is explicitly the writer's reading, flagged as such. Whether any opened passage AFFIRMS that the sting lives in the event and another DENIES that same proposition was not established this session; a future writer should either find the two passages (the dos19-style test) or leave the section as a neutral comparison.
 - The page presents no divergence claim; any future divergence claim for this theme must meet the dos19 standard before being stated on the page.
 - SP031 and B105 were fully read only in QC round 3; their quotes were used in the page from earlier partial reads, and the full reads confirmed the used passages.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton; read-only — dossier unowned)
+
+This dossier is unowned and flagged for supervisor disposition, so this
+pass made no edits; it records the check result for the supervisor.
+All 16 concept entries in the map were compared against their linked
+cards: the Dollard frustration-aggression hypothesis in both its
+appearances (including the Berkowitz revision), Carver and Scheier's
+rate-of-progress loop, Schnitker's patience construct, Peirce's
+irritation of doubt, Schopenhauer's insatiability of craving,
+Alderfer's ERG frustration-regression, Siegrist's effort-reward
+imbalance, autonomy as a basic need whose frustration tracks wellness,
+Baumeister-Leary social embeddedness, Frankl's noogenic neurosis and
+existential frustration, Cloninger's persistence dimension, Agnew's
+general strain theory, Seneca's anger line, positive attention training
+with the happy-faces study, and Leyro's distress-tolerance distinction.
+Every gloss matches its card. No mismatches found; no edits made. The
+voice-audit candidates here are card-faithful; the keep-or-recast
+decision is a voice/style call.
+
+Checks: dossier_check.py exit 0 (run this session). Editorial review
+only; no external carriers freshly opened this pass.
