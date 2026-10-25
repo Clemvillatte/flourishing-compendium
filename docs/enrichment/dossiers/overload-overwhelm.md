@@ -30,7 +30,7 @@ The limits those loads run into have names too. Kaplan's name for mental fatigue
 
 ### What demands do, and how burnout arrives
 
-When the demands are chronic, clinicians have a name for the outcome. The WHO's name for a syndrome resulting from chronic workplace stress that has not been successfully managed is [burnout](https://clemvillatte.github.io/flourishing-compendium/#card=Burnout), and its standard description through emotional exhaustion, depersonalization, and reduced personal accomplishment is the [Maslach burnout model](https://clemvillatte.github.io/flourishing-compendium/#card=Maslach%20burnout%20model).
+When the demands are chronic, the outcome is [burnout](https://clemvillatte.github.io/flourishing-compendium/#card=Burnout), the WHO's name for a syndrome resulting from chronic workplace stress that has not been successfully managed; its standard description through emotional exhaustion, depersonalization, and reduced personal accomplishment is the [Maslach burnout model](https://clemvillatte.github.io/flourishing-compendium/#card=Maslach%20burnout%20model).
 
 The conditions that produce it have been modelled too. The model in which working conditions fall into two broad categories, job demands and job resources, is the [job demands-resources model](https://clemvillatte.github.io/flourishing-compendium/#card=The%20job%20demands-resources%20model), and Hobfoll's 1989 model of stress, presented as an alternative to the phenomenological stress models, is [Conservation of Resources Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Conservation%20of%20Resources%20Theory).
 
@@ -40,13 +40,13 @@ Demand also writes itself into the body. McEwen's term for the cumulative wear t
 
 ### How recovery works
 
-Recovery, too, is studied. The principle that work draws on a person, and time away from work lets that drain ease, is the [effort-recovery cycle](https://clemvillatte.github.io/flourishing-compendium/#card=Effort-recovery%20cycles), and four ways people recuperate from work during leisure time are [recovery experiences](https://clemvillatte.github.io/flourishing-compendium/#card=Recovery%20experiences).
+The principle that work draws on a person, and time away from work lets that drain ease, is the [effort-recovery cycle](https://clemvillatte.github.io/flourishing-compendium/#card=Effort-recovery%20cycles), and four ways people recuperate from work during leisure time are [recovery experiences](https://clemvillatte.github.io/flourishing-compendium/#card=Recovery%20experiences).
 
 Sonnentag's research programme on how people unwind from work stress is [recovery research](https://clemvillatte.github.io/flourishing-compendium/#card=Recovery%20research), and the occupational-health psychology line on how people recuperate from demands is [recovery science](https://clemvillatte.github.io/flourishing-compendium/#card=Recovery%20science).
 
 Recovery can also be practised deliberately. Completing the stress cycle as a shift from stress toward relief is [stress cycle completion](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20cycle%20completion%20%28Nagorski%2C%20Sapolsky%29), and the deliberate slowing of breath below the everyday rate is [slow-paced breathing](https://clemvillatte.github.io/flourishing-compendium/#card=Slow-paced%20breathing).
 
-Where the relieving practices ease what is already here, withstanding is a separate skill: the perceived capacity to endure aversive states, distinguished from the act of withstanding them, is [distress tolerance (DBT)](https://clemvillatte.github.io/flourishing-compendium/#card=Distress%20tolerance%20%28DBT%29), and Meichenbaum's method for building coping capacity before stress arrives is [stress inoculation training](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20inoculation%20training).
+Where the relieving practices ease what is already here, [distress tolerance (DBT)](https://clemvillatte.github.io/flourishing-compendium/#card=Distress%20tolerance%20%28DBT%29) is the perceived capacity to endure aversive states, distinguished from the act of withstanding them, and Meichenbaum's method for building coping capacity before stress arrives is [stress inoculation training](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20inoculation%20training).
 
 ### What the traditions say about rest
 
@@ -92,7 +92,7 @@ The shared question: what is rest for? Aristotle gives both answers in the same 
 
 > "Relaxation, then, is not an end; for it is taken for the sake of activity." ([Aristotle, Nicomachean Ethics X.6, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html))
 
-A few paragraphs later, on contemplation, he reverses the order:
+A few paragraphs later, on contemplation, the order runs the other way:
 
 > "And happiness is thought to depend on leisure; for we are busy that we may have leisure, and make war that we may live in peace." ([Aristotle, Nicomachean Ethics X.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html))
 

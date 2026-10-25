@@ -351,3 +351,17 @@ Complete reader-level review per VOICE-AUDIT.md (overload-overwhelm had zero det
 - L49: "withstanding is its own capacity" → "withstanding is a separate skill" (same cadence).
 
 Reader-level verdict: the rest reads naturally; the honest lean statement (L87) with its Limits disclosure is kept as-is. dossier_check.py exit 0 (39 card links, 15 headers, 13 external carriers); registry rebuilt.
+
+## Advisor QC corrections (2026-10-25, worker-pplx-k1f-1025bb)
+
+Milestone advisor review narrowed or reversed three of the four first-pass recasts (meaning-preservation check, documented per line):
+
+- L33: "clinicians have a name for the outcome" → "the outcome is [burnout], the WHO's name for a syndrome..." (my recast introduced an actor the WHO attribution does not establish; the definition sentence now carries the framing).
+- L43: deleted "Recovery, too, is studied." (clipped filler; the paragraph now opens with the effort-recovery account).
+- L49: "withstanding is a separate skill" → the distress-tolerance definition now leads directly, preserving the source's own distinction between perceived capacity and the act of withstanding.
+
+Kept from the first pass: the redundant-opener deletion (L47), the "reverses the order" → "the order runs the other way" softening (L95). Clearance scope: full manuscript read; specified voice edits reviewed — NOT a factual clearance of the dossier.
+
+FLAG for supervisor (substantive, outside voice scope): the Aristotle section pairs NE X.6 ("Relaxation, then, is not an end") with X.7 ("we are busy that we may have leisure") as the two answers. The two passages use different terms (relaxation/amusement vs leisure/schole), so before presenting them as a genuine reversal it is worth verifying the surrounding context of each passage. No carrier was opened for this flag; it is routed, not settled.
+
+Ownership note: overload-overwhelm belongs to a released band (dos-manifests checked 12:27Z); no live band owns this manuscript; work done under the generic dossiers baton per VOICE-AUDIT.md coordination rule.

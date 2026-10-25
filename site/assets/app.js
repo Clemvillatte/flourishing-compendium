@@ -9747,7 +9747,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "When the demands are chronic, clinicians have a name for the outcome. The WHO's name for a syndrome resulting from chronic workplace stress that has not been successfully managed is [burnout](card:Burnout), and its standard description through emotional exhaustion, depersonalization, and reduced personal accomplishment is the [Maslach burnout model](card:Maslach%20burnout%20model)."
+          "x": "When the demands are chronic, the outcome is [burnout](card:Burnout), the WHO's name for a syndrome resulting from chronic workplace stress that has not been successfully managed; its standard description through emotional exhaustion, depersonalization, and reduced personal accomplishment is the [Maslach burnout model](card:Maslach%20burnout%20model)."
         },
         {
           "t": "p",
@@ -9767,7 +9767,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Recovery, too, is studied. The principle that work draws on a person, and time away from work lets that drain ease, is the [effort-recovery cycle](card:Effort-recovery%20cycles), and four ways people recuperate from work during leisure time are [recovery experiences](card:Recovery%20experiences)."
+          "x": "The principle that work draws on a person, and time away from work lets that drain ease, is the [effort-recovery cycle](card:Effort-recovery%20cycles), and four ways people recuperate from work during leisure time are [recovery experiences](card:Recovery%20experiences)."
         },
         {
           "t": "p",
@@ -9779,7 +9779,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Where the relieving practices ease what is already here, withstanding is a separate skill: the perceived capacity to endure aversive states, distinguished from the act of withstanding them, is [distress tolerance (DBT)](card:Distress%20tolerance%20%28DBT%29), and Meichenbaum's method for building coping capacity before stress arrives is [stress inoculation training](card:Stress%20inoculation%20training)."
+          "x": "Where the relieving practices ease what is already here, [distress tolerance (DBT)](card:Distress%20tolerance%20%28DBT%29) is the perceived capacity to endure aversive states, distinguished from the act of withstanding them, and Meichenbaum's method for building coping capacity before stress arrives is [stress inoculation training](card:Stress%20inoculation%20training)."
         },
         {
           "t": "h2",
@@ -9877,7 +9877,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "A few paragraphs later, on contemplation, he reverses the order:"
+          "x": "A few paragraphs later, on contemplation, the order runs the other way:"
         },
         {
           "t": "q",
@@ -10011,7 +10011,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The other thing that finding leaves open is where the striving comes from. [Achievement motivation theory](card:Achievement%20motivation%20theory), the McClelland and Atkinson account, explains achievement behaviour as arising in situations with a standard of excellence, which locates the motive in meeting a standard rather than in the aim's content. Read together, these theories treat the aim as an instrument: chosen well, it organises effort; the wanting is a separate thing."
+          "x": "The other thing that finding leaves open is where the striving comes from. [Achievement motivation theory](card:Achievement%20motivation%20theory), the McClelland and Atkinson account, explains achievement behaviour as arising in situations with a standard of excellence, which locates the motive in meeting a standard rather than in the aim's content. Read together, these theories treat a well-chosen aim as a way to organise effort."
         },
         {
           "t": "p",
@@ -10063,7 +10063,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Progress itself is a psychological input: [the progress principle](card:The%20progress%20principle), Amabile and Kramer's finding from knowledge workers' diaries, is that visible progress feeds a positive inner work life. The environment is not neutral either: [stimulus control theory](card:Stimulus%20control%20theory) arranges environmental cues so the target behaviour occurs in their presence, and [situation-sensitivity in self-regulation](card:Situation-sensitivity%20in%20self-regulation) is the research on matching strategy to context, since no lever fits every situation."
+          "x": "Amabile and Kramer's finding from knowledge workers' diaries is [the progress principle](card:The%20progress%20principle): visible progress feeds a positive inner work life. The environment is not neutral either: [stimulus control theory](card:Stimulus%20control%20theory) arranges environmental cues so the target behaviour occurs in their presence, and [situation-sensitivity in self-regulation](card:Situation-sensitivity%20in%20self-regulation) is the research on matching strategy to context, since no lever fits every situation."
         },
         {
           "t": "h2",
@@ -10079,7 +10079,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Leaving, too, has been studied. [Goal disengagement](card:Goal%20disengagement) is withdrawing effort and commitment from a goal that cannot be reached. [Goal adjustment capacity](card:Goal%20adjustment%20capacity) is the broader ability, to let go of an aim that has become unattainable and take up another. The line between the two cases is attainability, and the two main literatures mark it differently."
+          "x": "[Goal disengagement](card:Goal%20disengagement) is withdrawing effort and commitment from a goal that cannot be reached. [Goal adjustment capacity](card:Goal%20adjustment%20capacity) is the broader ability, to let go of an aim that has become unattainable and take up another. The line between the two cases is attainability, and the two main literatures mark it differently."
         },
         {
           "t": "p",
@@ -10105,7 +10105,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Motives shape the exit. In two studies of autonomous and controlled motives, autonomous motives positively predicted the cognitive ease of reengagement with an alternative goal when the current goal was perceived as unattainable, especially when participants realized the unattainability relatively early during goal striving, and were negative predictors of the cognitive ease of disengagement ([Ntoumanis, Healy, Sedikides, Smith and Duda, Self and Identity 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104823/)). The abstract's own summary is that \"When faced with failure, autonomously motivated individuals are better off realizing early the goal unattainability.\" These are associations from the studies' measures of cognitive ease, not effects of owning a goal; what they mark is that reengagement and disengagement were measured as two different responses."
+          "x": "In two studies of autonomous and controlled motives, autonomous motives positively predicted the cognitive ease of reengagement with an alternative goal when the current goal was perceived as unattainable, especially when participants realized the unattainability relatively early during goal striving, and were negative predictors of the cognitive ease of disengagement ([Ntoumanis, Healy, Sedikides, Smith and Duda, Self and Identity 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104823/)). The abstract's own summary is that \"When faced with failure, autonomously motivated individuals are better off realizing early the goal unattainability.\" These are associations from the studies' measures of cognitive ease, not effects of owning a goal; what they mark is that reengagement and disengagement were measured as two different responses."
         },
         {
           "t": "h2",

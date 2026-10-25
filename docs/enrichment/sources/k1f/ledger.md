@@ -35,7 +35,7 @@ QC: advisor review 12:15Z — invented "willingness rating of two" sentence remo
 
 - Structural only: the card already links D146 and D041 as Related principles; the Operationalises section (standard kernel tail section, the only kernel missing one) was added with those same two principle links. No new claims.
 
-## QC verification pass — owner priority directive cards T058/T059/T060 (read-only, 2026-10-25 12:26Z)
+## QC verification pass — owner priority directive cards T058/T059/T060 (read-only, 2026-10-25 12:22Z (stamp corrected from estimated 12:26Z))
 
 Independent quote verification against freshly opened carriers. All quotes VERBATIM-CONFIRMED:
 - **T058 Sartre**: both 1946 lecture quotes ("existence precedes essence" passage and "condemned to be free" passage) confirmed exactly on marxists.org; both SEP quotes (bad-faith definition, "condemned to freedom" ontological formulation) confirmed exactly on plato.stanford.edu/entries/sartre/.

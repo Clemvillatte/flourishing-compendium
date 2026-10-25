@@ -818,3 +818,16 @@ Complete reader-level review per VOICE-AUDIT.md (goals had zero detector matches
 - L71: "The exit has its own motive correlates" → "Motives shape the exit" (same cadence).
 
 Reader-level verdict: the remaining prose reads naturally; the honest first-person lean statements (L93, L109, L123) and the Limits disclosures are kept as-is. dossier_check.py exit 0 (52 card links, 19 headers, 23 external carriers); registry rebuilt.
+
+## Advisor QC corrections (2026-10-25, worker-pplx-k1f-1025bb)
+
+Milestone advisor review narrowed or reversed four of the six first-pass recasts (meaning-preservation check, documented per line):
+
+- L25: "chosen well, it organises effort; the wanting is a separate thing" → "Read together, these theories treat a well-chosen aim as a way to organise effort." (my recast had added a broader distinction than the source supports).
+- L51: "Progress itself is a psychological input: ..." → "Amabile and Kramer's finding from knowledge workers' diaries is [the progress principle]: visible progress feeds a positive inner work life." (lead with the finding; my recast was more mechanical than the original).
+- L59: deleted the "Leaving, too, has been studied." opener (clipped filler; the paragraph now opens with the goal-disengagement definition).
+- L71: deleted "Motives shape the exit." (my recast turned correlations into causation, contradicting the paragraph's own association caveat; the paragraph now opens directly with the two studies).
+
+Kept from the first pass: the loop recast (L41), the "can be tested" recast (L45). Clearance scope: full manuscript read; specified voice edits reviewed — NOT a factual clearance of the dossier.
+
+Ownership note: goals belongs to dos13 (released); no live band owns this manuscript; work done under the generic dossiers baton per VOICE-AUDIT.md coordination rule.
