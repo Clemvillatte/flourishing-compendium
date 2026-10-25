@@ -3253,3 +3253,22 @@ supervisor PASS), right-action full content re-read (verdict upgraded
 to PASS by the supervisor), affect/goals verdict-row supersessions
 flagged, render-freshness audit clean (0 dossiers edited after the
 last app.js rebuild).
+
+## Worker checkpoint — w1c normal-track completions and cross-band repairs (2026-10-25 11:12Z, worker-pplx-1025-o, w1c held)
+
+Completed the full reopened thin-page set in w1c to the normal-profile bar, all
+quotes verbatim from opened carriers, all validated (1 checked, 0 failed each)
+and pushed: Eudaimonic well-being, Friendship, Resilience (Masten 2001),
+Intolerance of uncertainty (Bottesi et al. 2016; bare facet labels also
+grounded), Autonomous versus controlled motivation (Ryan and Deci 2000 four
+grades; author-order slip fixed), Self-concordant goals (Cao and Ma 2024;
+banned-phrase failure caught and fixed), Chronic pain acceptance (Cook et al.
+2015), Authentic versus hubristic pride (Tracy et al. 2009 abstract +
+Carver and Johnson 2011), Environmental psychology (Gifford, Steg and Reser
+2011; history quote re-verified verbatim on a second fetch). w1c and w1g queues
+exhausted (todo 0); w1g released. Cross-band work, each under a claimed stale
+baton, released after: w1z re-review (Emergence and Default effect theory
+closures confirmed accurate against the actual pages), w1f FAE customer-facing
+repairs (first person removed, meta commentary rewritten; seed-line correction
+left for supervisor seed-preservation ruling), p1zc X015 reader-address repair.
+Board notes posted at 11:11Z. All work saved and verified on origin/main.
