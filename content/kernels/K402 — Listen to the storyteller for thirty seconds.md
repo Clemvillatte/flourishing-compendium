@@ -41,7 +41,7 @@ The distinction the listening trains:
 The exercise's own closing, in the Big Book's retelling:
 
 > "For the next thirty seconds, silently listen in to what your mind is saying. And if your thoughts stop, just keep listening until they start again. (Pause for thirty seconds.) So there you have it: there's a part of your mind that talks — the thinking self — and a part of your mind that listens — the observing self."
-> — [Harris (2009), "Talking and Listening", as retold in Stoddard & Afari, *The Big Book of ACT Metaphors* (2014), printed pp. 177–178, PDF](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf)
+> — [Harris (2009), "Talking and Listening", as retold in Stoddard & Afari, *The Big Book of ACT Metaphors* (2014), printed p. 112, PDF](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf)
 
 The Big Book's own framing of what the metaphor names:
 

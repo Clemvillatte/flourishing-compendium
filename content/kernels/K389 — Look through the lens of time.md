@@ -47,7 +47,7 @@ The mechanism the ratings walk toward is impermanence focus:
 > "Across studies, impermanence focus—that is, the extent to which participants focused on the transitory aspects of their stressors—helped to account for the affective benefits of temporal distancing."
 > — [same source](https://rascl.studentorg.berkeley.edu/assets/files/this_too_shall_pass.pdf)
 
-The paper also reports a boundary worth naming: temporal distancing did not affect longer-term academic functioning, which the authors read as suggesting the strategy does not undercut motivation to improve, at least within the academic domain ([same source](https://rascl.studentorg.berkeley.edu/assets/files/this_too_shall_pass.pdf)).
+The paper also reports a boundary worth naming: it found no evidence of an effect on longer-term academic functioning, which the authors read as suggesting the strategy does not undercut motivation to improve, at least within the academic domain ([same source](https://rascl.studentorg.berkeley.edu/assets/files/this_too_shall_pass.pdf)).
 
 What the studies do not test: the research cued reflection on real and hypothetical stressors with short prompts; the workbook's rating ladder, and this page's step-by-step protocol, are editorial adaptations of the finding, not the tested intervention itself.
 

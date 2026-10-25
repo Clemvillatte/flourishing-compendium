@@ -42,7 +42,7 @@ The clinical literature places the exercise under cognitive defusion: the strate
 A journal article for clinicians carries a widely reprinted short form of the exercise as a household bus:
 
 > "Imagine that your life is a bus. On the front of the bus is the route, which is your value. As you try to drive the bus in a valued direction, passengers jump on board and start to give you a hard time."
-> — [Bach & Moran (2008), "ACT for depression", *International Journal of Psychiatry in Clinical Practice*, Box 8](https://pmc.ncbi.nlm.nih.gov/articles/PMC2924769/)
+> — [Webster (2011), "Introduction to acceptance and commitment therapy", *Advances in Psychiatric Treatment*, Box 8](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introduction-to-acceptance-and-commitment-therapy/D67B44FDED4147CA35C1AA8FA9D3DDA5)
 
 What the sources do not test: the metaphor is an experiential ACT exercise, not an intervention with its own outcome trials; the broader ACT model it belongs to has a wider evidence base, but no study isolates the bus image as the active ingredient.
 

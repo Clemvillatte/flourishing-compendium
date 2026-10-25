@@ -29,7 +29,7 @@ Adapted from Polk, Schoendorff, Webster & Olaz, *The Essential Guide to the ACT 
 
 ### Evidence
 
-The official step-by-step guide's own framing:
+A step-by-step guide to the matrix (carried as an unattributed Scribd upload) frames it this way:
 
 > "The ACT Matrix is a diagram with two bisecting lines. The vertical line represents our experiences. We experience the outside, physical world with our five senses. We also have experiences that show up inside of us, like thoughts, feelings, sensations and memories. The horizontal line represents the direction of our behaviours. Behaviours can move us toward who or what's important to us or away from uncomfortable inner experiences (like anxiety, fear, sadness or worry)."
 > — ["A Step By Step Guide To The ACT Matrix", Scribd](https://www.scribd.com/document/752793718/Step-by-step-guide-1)
