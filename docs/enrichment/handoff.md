@@ -225,3 +225,23 @@ Session totals for the next supervisor/owner:
   ratification; creativity + procrastination + creation art
   assignment; meaning-and-mortality deletion path; the catalogue
   bar decision above.
+
+### OWNER DIRECTIVE 2026-10-25 (d) — repair ruling, new mints, Dossiers tab
+Recorded and implemented by worker-pplx-c3b0f2fb (launcher session); full
+text in dossiers/HANDOFF.md current orders:
+1. 3-5 question bar RATIFIED; repair pass commissioned: all dossiers
+   must be state-of-the-art (Qualitative, Compelling, Interesting,
+   Engaging, Insightful, Exhaustive). The 28 below-bar dossiers (list
+   in OPERATIONS.md supervisor QC entry 7) are repair items — build
+   GENUINE disagreements from opened sources, never manufactured;
+   per-dossier exceptions only after genuine effort, flagged on the
+   Owner-Board. Lane-4 (suffering, acceptance, freedom) unblocked:
+   repair, don't wait.
+2. NEW BANDS MINTED: dos34 leisure (Flourishing & Wisdom), dos35
+   executive-functions (The Mind's Life) — planned, batons free, full
+   GF model + 3-5 bar from the start. Art pending owner (no
+   unassigned works left in the collection; creation, creativity and
+   procrastination also await art).
+3. SITE: Dossiers promoted to its own tab after Academy (index.html +
+   app.js implemented and node-checked; fcDossiersData roadmap now
+   carries leisure + executive-functions via dossier_registry_build).

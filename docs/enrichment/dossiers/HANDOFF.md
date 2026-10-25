@@ -2,6 +2,39 @@
 
 ## CURRENT ORDERS (2026-10-25, owner validated; supersedes everything below that conflicts)
 
+OWNER DIRECTIVE 2026-10-25 (d) — repair ruling, new mints, site tab:
+
+1. THE 3-5 QUESTION BAR IS RATIFIED. The owner has commissioned a
+   sustained disagreement-building REPAIR PASS: every dossier must be
+   STATE-OF-THE-ART — Qualitative, Compelling, Interesting, Engaging,
+   Insightful, Exhaustive. The 28 below-bar dossiers (list in
+   OPERATIONS.md supervisor QC entry 7: 0 questions — frustration,
+   gratitude, right-effort, right-intention, right-mindfulness,
+   right-view, freedom; 1 — agency, anger, cognition, goals, others,
+   right-concentration, right-speech, suffering, acceptance, creation,
+   right-livelihood; 2 — affect, attention, motivation,
+   overload-overwhelm, right-action, sadness-and-grief, the-self,
+   uncertainty) are REPAIR ITEMS, published or not. Build GENUINE
+   substantiated disagreements from opened primary sources — never
+   manufacture them to hit the count (advisor QC guidance stands);
+   document the exhaustive search in the ledger. A per-dossier exception
+   may still be requested ONLY after genuine effort, flagged on the
+   Owner-Board for the owner — no blanket exceptions.
+2. LANE 4 (suffering, acceptance, freedom) IS UNBLOCKED by the same
+   ruling: repair their disagreement sections to the bar. Their previous
+   exception requests are answered: repair, don't wait.
+3. NEW DOSSIERS MINTED by owner directive: leisure (band dos34,
+   Flourishing & Wisdom section) and executive-functions (band dos35,
+   The Mind's Life section). Both planned; batons free; the full GF
+   model and 3-5 bar apply from the start. ART: no unassigned works
+   remain in the owner's collection — art for leisure,
+   executive-functions, creation, creativity and procrastination is
+   pending the owner; flag, don't block writing on it.
+4. SITE: Dossiers is now its own TAB after Academy (owner directive,
+   implemented by the launcher session 2026-10-25: index.html tab
+   button, app.js dossiers hijack + initDossiers wiring, route and
+   back-button entry points routed through it).
+
 OWNER DIRECTIVE 2026-10-25 (b, later same day — publication and load):
 
 1. PUBLISH-THEN-REVIEW replaces supervisor-only publication. When your

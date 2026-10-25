@@ -34,3 +34,7 @@ stay in the loop; agents keep it current with one-line entries.
 
 - 2026-10-25 — board created per owner directive; publication switched to
   publish-then-review; assistant-supervisor baton added (worker-pplx-c3b0f2fb).
+2026-10-25 ~05:10Z owner: 3-5 bar ratified; repair pass commissioned — all dossiers state-of-the-art; lane-4 unblocked, repair don't wait.
+2026-10-25 ~05:10Z owner: Leisure (dos34) + Executive Functions (dos35) minted; art pending owner — collection exhausted.
+2026-10-25 ~05:10Z owner: Dossiers promoted to site tab after Academy.
+2026-10-25 ~05:10Z launcher: directives implemented — registry+batons minted, tab wired (app.js node-check OK), orders recorded in handoffs.
