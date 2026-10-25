@@ -1,5 +1,11 @@
 # Agency
 
+> How much say does a person have over their own life, and what grows that say?
+
+Each tradition takes the question apart differently. The Stoics ask what is ever up to a person at all and answer: judgment, effort, and little else. Rotter asks where a person believes control sits, inside or outside, and traces what the belief does to learning. Bandura asks whether a person believes they can execute the act, and finds the belief governing effort and persistence. Self-determination theory asks whether the motivation is owned or imposed, and counts autonomy and competence among the needs a life runs on.
+
+### Nearby terms
+
 - [Narrative identity](https://clemvillatte.github.io/flourishing-compendium/#card=Narrative%20identity) — Ricoeur's self as told, an answer to the who question; agency asks what a person can run, this asks who is running it.
 - [Intrinsic motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Intrinsic%20motivation) — the doing of an activity for its inherent satisfaction; agency asks whether the doing is one's own, this names the doing that needs no further reason.
 - [Eudaimonic motivation, intrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20motivation%2C%20intrinsic%20goals) — the pull toward intrinsic aspirations, affiliation, growth and community contribution; the aims the acting is for, where this page holds the capacity to act.
@@ -7,10 +13,6 @@
 - [Wisdom](https://clemvillatte.github.io/flourishing-compendium/#card=Wisdom) — the judgment about where to spend the say; wisdom uses it, this page asks what it is.
 
 These are the nearest entries, not the scope.
-
-> How much say does a person have over their own life, and what grows that say?
-
-Each tradition takes the question apart differently. The Stoics ask what is ever up to a person at all and answer: judgment, effort, and little else. Rotter asks where a person believes control sits, inside or outside, and traces what the belief does to learning. Bandura asks whether a person believes they can execute the act, and finds the belief governing effort and persistence. Self-determination theory asks whether the motivation is owned or imposed, and counts autonomy and competence among the needs a life runs on.
 
 ## Where agency sits in a life
 
