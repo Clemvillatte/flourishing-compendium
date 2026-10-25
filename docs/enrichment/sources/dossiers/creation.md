@@ -278,15 +278,26 @@ Round 7 (also rev 7, final): per advisor round 7, the divergence framing
 
 ## Open points for any revision pass
 
-- The genuine-divergence requirement: developed and raw-verified (rev 5,
-  corrected rev 6, rev 7 argues the Frankl side with the book's own
-  discover-in-the-world sentence); supervisor review requested. The
-  remaining open research question, whether both accounts can hold of
-  different parts of one act of making, is stated as unresolved in the
-  dossier and attributed to neither author.
-- The Bangerter et al. generativity definition quoted on the K225 kernel
-  card was not verifiable against the cited carrier's abstract this
-  session; the dossier paraphrases it.
+- The genuine-divergence requirement: UNMET and flagged for the
+  supervisor (rounds 4-9, worker-pplx-dos31-1025g, 2026-10-25). No
+  pairing in the opened carriers met the demonstrated-disagreement bar
+  (one opened passage affirms a proposition, another denies it); three
+  bounded comparisons (Maslow-Frankl, Freud-Frankl, Arendt-Bergson)
+  live in the synthesis with the non-conflicts stated in the text, and
+  the disagreement section holds the Frankl-Nietzsche candidate
+  comparison only. The remaining open research question, whether both
+  accounts can hold of different parts of one act of making, is stated
+  as unresolved in the dossier and attributed to neither author.
+- The generativity definition quoted on the K225 kernel card ("a
+  concern for establishing, guiding, and contributing to the welfare of
+  future generations") was VERIFIED against the cited carrier this
+  session (PMC4592331 fetched raw; the article reads "generativity
+  refers to a concern for establishing, guiding, and contributing to
+  the welfare of future generations" - the card's quotation is a
+  verbatim substring). The open point is closed. NOTE for the kernel
+  band or supervisor, outside this band's files: the card's citation
+  renders as "[n et al., 2015]" with the first author's name missing -
+  the card file may want its author name repaired.
 - The meaning of the mother-beholding-her-child sentence for the
   procreation cluster: Bergson's example is the closest the opened
   carriers come to procreation-as-creation; a future owner-directed pass
