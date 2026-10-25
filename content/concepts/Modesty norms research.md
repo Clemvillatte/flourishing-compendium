@@ -17,6 +17,8 @@ The study tested whether compliance with the modesty norm can maintain self-este
 
 > "In Study 1, following the modesty norm (i.e., explicit self-effacement) led to decreased implicit self-esteem, however, this was only the case if mortality was salient. In Study 2, violating the modesty norm (i.e., explicit self-enhancement) increased implicit self-esteem - however - again, this was only the case when mortality was salient." ([same record](https://pubmed.ncbi.nlm.nih.gov/25346396/))
 
+The two studies divide the question along the norm's grain. Study 1 follows the norm, explicit self-effacement, and reports decreased implicit self-esteem when mortality is salient. Study 2 violates the norm, explicit self-enhancement, and reports increased implicit self-esteem under the same condition. Both findings are reported as conditional: only if mortality was salient, which is the abstract's own hedge on each result.
+
 The abstract's conclusion is direct: "These findings indicate that self-esteem cannot be maintained through compliance with the modesty norm." ([same record](https://pubmed.ncbi.nlm.nih.gov/25346396/)) The two studies were conducted with Chinese participants, and the effect appeared only when mortality was made salient, so the result is scoped to that collectivistic setting and that existential condition ([same record](https://pubmed.ncbi.nlm.nih.gov/25346396/)).
 
 ### Here
