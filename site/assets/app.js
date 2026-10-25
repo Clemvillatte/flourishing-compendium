@@ -20317,6 +20317,20 @@ function renderDossiers(){
     chipEls[g.id] = c;
     chips.appendChild(c);
   });
+  /* Owner request 2026-10-25: a small randomiser on the Dossiers page itself.
+     One tap opens one published dossier, chosen uniformly at random and
+     navigated exactly like a card click (same view state, same deep link). */
+  const randomBtn = el('button','dossier-chip dossier-random','Random dossier');
+  randomBtn.type = 'button';
+  randomBtn.title = 'Open a published dossier at random';
+  randomBtn.onclick = () => {
+    const pub = (data.dossiers||[]).filter(d=>d.status==='published');
+    if(!pub.length) return;
+    const pick = pub[Math.floor(Math.random()*pub.length)];
+    A.view='dossierDetail'; A.dossier=pick.id; renderAcademy();
+    if(window.__fcRoute) window.__fcRoute.set('#dossier='+pick.id);
+  };
+  chips.appendChild(randomBtn);
   wrap.appendChild(chips);
   /* Sections: cards grouped under labelled dividers, one grid per section.
      The filter counts cards inside visible section wrappers (never the dividers). */
@@ -20417,6 +20431,35 @@ function renderDossierDetail(id){
   const body = el('div','dossier-body');
   const toc = el('nav','dossier-toc');
   toc.appendChild(el('div','dossier-toc-title','On this page'));
+  /* The items live in an inner scrolling list; the nav itself stays static so
+     the bottom fade (a hint that more headers follow — headers like "Where the
+     traditions genuinely disagree" used to sit below the fold with no cue,
+     2026-10-25) can sit over the fold instead of scrolling away with the list. */
+  const tocList = el('div','dossier-toc-list');
+  toc.appendChild(tocList);
+  const syncTocFade = () => {
+    /* Mobile layout shows the TOC as a fully expanded wrap (no internal
+       scrolling, no fade) — the height cap must not clip it. */
+    if(window.matchMedia('(max-width: 900px)').matches){
+      toc.style.maxHeight = '';
+      toc.classList.remove('can-scroll','at-end');
+      return;
+    }
+    /* Fit: the sticky nav may start well below the fold top (below the title
+       band); cap its height to what fits between its current top and the
+       viewport bottom, so the list's bottom edge — and the fade — stay on
+       screen at every scroll position, not only once it pins. */
+    const r = toc.getBoundingClientRect();
+    const avail = window.innerHeight - r.top - 20;
+    toc.style.maxHeight = Math.max(200, Math.min(window.innerHeight - 40, avail)) + 'px';
+    const over = tocList.scrollHeight - tocList.clientHeight > 4;
+    toc.classList.toggle('can-scroll', over);
+    toc.classList.toggle('at-end', over && (tocList.scrollTop + tocList.clientHeight >= tocList.scrollHeight - 4));
+  };
+  tocList.addEventListener('scroll', syncTocFade, { passive:true });
+  const onWinScroll = () => { if(toc.isConnected) syncTocFade(); };
+  window.addEventListener('scroll', onWinScroll, { passive:true });
+  window.addEventListener('resize', onWinScroll, { passive:true });
   let tn = 0;
   (d.blocks||[]).forEach(b=>{
     if(b.t==='h'||b.t==='h2'){
@@ -20425,7 +20468,7 @@ function renderDossierDetail(id){
       a.href = '#dh'+tn;
       const target = 'dh'+tn;
       a.onclick = (e)=>{ e.preventDefault(); const h = document.getElementById(target); if(h) h.scrollIntoView({behavior:'smooth', block:'start'}); };
-      toc.appendChild(a);
+      tocList.appendChild(a);
     }
   });
   (d.intro||[]).forEach(p=>{ const pe = el('p','dossier-p'); pe.innerHTML = dossierRich(p); body.appendChild(pe); });
@@ -20458,8 +20501,12 @@ function renderDossierDetail(id){
       body.appendChild(holder);
     }
   });
-  if(toc.childElementCount > 1){ layout.appendChild(body); layout.appendChild(toc); wrap.appendChild(layout); }
+  if(tocList.childElementCount > 1){ layout.appendChild(body); layout.appendChild(toc); wrap.appendChild(layout); }
   else { wrap.appendChild(body); }
+  /* The fade classes need the layout measured, which only works once the
+     returned element is attached by the caller — hence the rAF (the caller
+     appends synchronously right after this return). */
+  requestAnimationFrame(syncTocFade);
   return wrap;
 }
 

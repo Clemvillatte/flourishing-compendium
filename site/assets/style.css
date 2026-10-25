@@ -1892,6 +1892,11 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
 .dossier-chip { font-family:'Fraunces',Georgia,serif; font-size:12.5px; letter-spacing:.03em; color:var(--muted); background:none; border:1px solid var(--line); border-radius:999px; padding:5px 14px; cursor:pointer; transition:color .15s, border-color .15s; }
 .dossier-chip:hover { color:var(--gold-ink); border-color:color-mix(in srgb, var(--gold) 45%, transparent); }
 .dossier-chip.on { color:var(--gold-ink); border-color:color-mix(in srgb, var(--gold) 60%, transparent); background:color-mix(in srgb, var(--gold) 8%, var(--bg)); }
+/* Dossiers page randomiser chip (owner request 2026-10-25): sits at the end
+   of the filter chips, pushed right, gold-tinted to read as an action rather
+   than a filter. */
+.dossier-random { margin-left:auto; color:var(--gold-ink); border-color:color-mix(in srgb, var(--gold) 35%, transparent); }
+.dossier-random:hover { border-color:var(--gold); }
 .dossier-eyebrow { font-size:11px; letter-spacing:.09em; text-transform:uppercase; color:var(--gold-ink); margin-bottom:6px; }
 .dossier-section { margin-top:30px; }
 .dossier-section:first-child { margin-top:0; }
@@ -1924,14 +1929,21 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
 .dossier-step .dossier-p { margin:0; }
 /* Dossiers v2 — side TOC + variation/selection/retention blocks */
 .dossier-layout { display:flex; gap:34px; align-items:flex-start; }
-.dossier-toc { position:sticky; top:20px; flex:0 0 216px; max-height:calc(100vh - 40px); overflow:auto; padding-top:6px; }
-.dossier-toc-title { font-size:11px; letter-spacing:.08em; text-transform:uppercase; color:var(--faint); margin-bottom:8px; }
+/* The nav is the sticky shell; the items live in .dossier-toc-list, which is
+   the part that scrolls. The bottom fade (::after on the shell) is the cue
+   that more headers follow — without it, headers below the fold (e.g. "Where
+   the traditions genuinely disagree" on long dossiers) looked absent. */
+.dossier-toc { position:sticky; top:20px; flex:0 0 216px; max-height:calc(100vh - 40px); padding-top:6px; display:flex; flex-direction:column; }
+.dossier-toc::after { content:''; position:absolute; left:0; right:0; bottom:0; height:36px; pointer-events:none; background:linear-gradient(to top, var(--bg), transparent); opacity:0; transition:opacity .15s; }
+.dossier-toc.can-scroll:not(.at-end)::after { opacity:1; }
+.dossier-toc-list { overflow:auto; flex:1 1 auto; min-height:0; }
+.dossier-toc-title { font-size:11px; letter-spacing:.08em; text-transform:uppercase; color:var(--faint); margin-bottom:8px; flex:none; }
 .dossier-toc-item { display:block; font-size:12.5px; line-height:1.5; color:var(--muted); text-decoration:none; padding:3px 0; border-left:2px solid transparent; padding-left:10px; }
 .dossier-toc-item.t { font-weight:600; color:var(--text); margin-top:8px; }
 .dossier-toc-item:hover { color:var(--gold-ink); border-left-color:color-mix(in srgb, var(--gold) 45%, transparent); }
 .dossier-vs { border:1px solid color-mix(in srgb, var(--gold) 35%, transparent); border-radius:10px; padding:14px 16px; margin:0 0 16px; background:color-mix(in srgb, var(--gold) 6%, var(--bg)); }
 .dossier-vs-label { display:block; font-size:11px; letter-spacing:.09em; text-transform:uppercase; color:var(--gold-ink); margin-bottom:6px; }
-@media (max-width: 900px){ .dossier-layout { flex-direction:column; } .dossier-toc { position:static; flex:auto; max-height:none; display:flex; flex-wrap:wrap; gap:4px 14px; } }
+@media (max-width: 900px){ .dossier-layout { flex-direction:column; } .dossier-toc { position:static; flex:auto; max-height:none; display:flex; flex-wrap:wrap; gap:4px 14px; } .dossier-toc::after { display:none; } .dossier-toc-list { overflow:visible; flex:none; display:contents; } }
 
 
 /* ═════════════════ RANDOMISER — calm layout, side rails, gold frame ═════════════════
