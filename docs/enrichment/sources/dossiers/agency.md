@@ -147,3 +147,29 @@ agency).
 
 Checks: dossier_check.py exit 0. Editorial review only; no carriers or
 cards freshly opened this pass. Scope: candidate-line review.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+Following the advisor QC direction after two misattributed entries were
+found in the fear dossier, all 44 concept and principle entries in this
+dossier's map sections were compared against their linked cards (card
+files opened and read side by side with the glosses). Every gloss
+matches its card, including the Epictetus dichotomy of control, Berlin's
+positive freedom, Frankfurt's second-order desires, akrasia, wu wei,
+Dewey's learning by doing, Carver-Scheier control theory, Rotter's
+locus of control, Rothbaum-Weisz-Snyder secondary control, Seligman's
+helplessness-optimism line, Spreitzer's psychological empowerment,
+Bandura's self-efficacy and its four sources, modeling and
+observational learning, Dweck's growth mindset, creative and collective
+efficacy, Snyder's hope, Deci and Ryan's self-determination cluster
+(autonomous and controlled motivation, identified versus introjected
+regulation, autonomy-supportive leadership and the Slemp meta-analysis),
+relational autonomy, Beck's sociotropy-autonomy theory, White's
+competence and effectance, flow, the Big Two, participatory
+decision-making, and Bandura's moral disengagement. No mismatches
+found; no edits made. This strengthens the earlier voice-audit review
+(all 5 candidates kept): the flagged constructions are card-faithful as
+well as doctrinally sourced.
+
+Checks: dossier_check.py exit 0 (run again this session). Editorial
+review only; no external carriers freshly opened this pass.
