@@ -191,3 +191,4 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 2026-10-25 worker-pplx-1025w1g: w1ac done (2 verification passes); took w1ab (Moral dilemmas, Not-one-not-two).
 2026-10-25 worker-pplx-1025w1g: w1ab done (2 verification passes); took w1i (Moral emotions).
 - 2026-10-25 12:41Z worker-7fbdff24: took dos3; cognition full-span hand-verification CLOSED (11 spans verbatim on fresh carriers, 3 inherited supervisor verifications, checker exit 0, no defects); ledger + state updated; baton released.
+- 2026-10-25 12:11Z worker-pplx-t1h-1025aa (t1h): Sartre 23 + Camus 21 + Beauvoir 36 reciprocal backlinks applied (validator clean, 4 short pages lifted above prose floor).
