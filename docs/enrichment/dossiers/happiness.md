@@ -64,27 +64,19 @@ The Daoist art of taking the world lightly, laughing at grandiosity from below, 
 
 The finding that how people rate their own lives depends heavily on the social conditions around them, and not only on their own traits or income, is [social determinants of well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20determinants%20of%20well-being). Ryff's 1989 question of what psychological well-being actually is is [holistic well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Holistic%20well-being), and Joshanloo's review of Western and Eastern accounts of happiness, identifying six fundamental differences in conceptions of the good life, is [cross-cultural variations in conceptions of happiness](https://clemvillatte.github.io/flourishing-compendium/#card=Cross-cultural%20variations%20in%20conceptions%20of%20happiness).
 
-### The thinkers
+### Who the thinkers are
 
-[Aristotle](https://clemvillatte.github.io/flourishing-compendium/#card=T002%20%E2%80%94%20Aristotle): Greek philosopher whose Nicomachean Ethics gives the lasting account of happiness as an activity of a whole life.
+The Greek philosopher whose Nicomachean Ethics gives the lasting account of happiness as an activity of a whole life is [Aristotle](https://clemvillatte.github.io/flourishing-compendium/#card=T002%20%E2%80%94%20Aristotle). The Dutch philosopher whose Ethics defines pleasure and joy by a change in a person's power is [Spinoza](https://clemvillatte.github.io/flourishing-compendium/#card=T007%20%E2%80%94%20Spinoza%2C%20Baruch).
 
-[Spinoza](https://clemvillatte.github.io/flourishing-compendium/#card=T007%20%E2%80%94%20Spinoza%2C%20Baruch): Dutch philosopher whose Ethics defines pleasure and joy by a change in a person's power.
+The psychologist who began with learned helplessness and, as president of the American Psychological Association in 1998, called for positive psychology is [Seligman](https://clemvillatte.github.io/flourishing-compendium/#card=T026%20%E2%80%94%20Seligman%2C%20Martin). The Hungarian-American psychologist, co-founder of positive psychology, who named and mapped flow is [Csikszentmihalyi](https://clemvillatte.github.io/flourishing-compendium/#card=T001%20%E2%80%94%20Csikszentmihalyi%2C%20Mihaly).
 
-[Seligman](https://clemvillatte.github.io/flourishing-compendium/#card=T026%20%E2%80%94%20Seligman%2C%20Martin): psychologist who began with learned helplessness and, as president of the American Psychological Association in 1998, called for positive psychology.
+### What the stories carry
 
-[Csikszentmihalyi](https://clemvillatte.github.io/flourishing-compendium/#card=T001%20%E2%80%94%20Csikszentmihalyi%2C%20Mihaly): Hungarian-American psychologist, co-founder of positive psychology, who named and mapped flow.
+The story in which Aristotle sorts the competing theories of the good life, where the many say pleasure and he does not dismiss them lightly, is [the Philosopher and the Hedonist](https://clemvillatte.github.io/flourishing-compendium/#card=ST169%20%E2%80%94%20The%20Philosopher%20and%20the%20Hedonist). The story of a shy waitress in Montmartre who keeps a catalogue of small pleasures is [Amélie's Small Pleasures](https://clemvillatte.github.io/flourishing-compendium/#card=ST305%20%E2%80%94%20Am%C3%A9lie%27s%20Small%20Pleasures).
 
-### The stories
+The story of a Tokyo bureaucrat with less than a year to live who tries the pleasures, and they do not work, is [Watanabe Finds the Playground](https://clemvillatte.github.io/flourishing-compendium/#card=ST215%20%E2%80%94%20Watanabe%20Finds%20the%20Playground). The study in which Csikszentmihalyi extends the climbers' finding to ordinary life, with participants paged at random moments, is [Flow in the Everyday](https://clemvillatte.github.io/flourishing-compendium/#card=ST138%20%E2%80%94%20Flow%20in%20the%20Everyday).
 
-[169. The Philosopher and the Hedonist](https://clemvillatte.github.io/flourishing-compendium/#card=ST169%20%E2%80%94%20The%20Philosopher%20and%20the%20Hedonist): Aristotle sorts the competing theories of the good life: the many say pleasure, and he does not dismiss them lightly.
-
-[305. Amélie's Small Pleasures](https://clemvillatte.github.io/flourishing-compendium/#card=ST305%20%E2%80%94%20Am%C3%A9lie%27s%20Small%20Pleasures): a shy waitress in Montmartre keeps a catalogue of small pleasures.
-
-[215. Watanabe Finds the Playground](https://clemvillatte.github.io/flourishing-compendium/#card=ST215%20%E2%80%94%20Watanabe%20Finds%20the%20Playground): a Tokyo bureaucrat with less than a year to live tries the pleasures, and they do not work.
-
-[138. Flow in the Everyday](https://clemvillatte.github.io/flourishing-compendium/#card=ST138%20%E2%80%94%20Flow%20in%20the%20Everyday): Csikszentmihalyi extends the climbers' finding to ordinary life, with participants paged at random moments.
-
-[304. Savoring](https://clemvillatte.github.io/flourishing-compendium/#card=ST304%20%E2%80%94%20Savoring): Fred Bryant's research distinguishes savoring from positive emotion itself.
+Fred Bryant's research that distinguishes savoring from positive emotion itself is [Savoring](https://clemvillatte.github.io/flourishing-compendium/#card=ST304%20%E2%80%94%20Savoring).
 
 ## Where the traditions genuinely disagree
 
