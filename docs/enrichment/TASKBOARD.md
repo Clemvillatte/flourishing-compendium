@@ -3693,3 +3693,7 @@ The "general" bucket is applied per the owner's own work-order wording ("if a ke
 Both quotes re-verified verbatim against live raw downloads: (1) "Radical acceptance means acceptance totally, from the top to the bottom" is in the NICABM Linehan interview transcript (extracted, PDF page with the phrase at line 442 of the raw extraction); (2) the handout definitions ("radical means all the way, complete and total"; "stop fighting reality, stop throwing tantrums...let go of bitterness"; "reality is as it is...") match the irp.cdn-website.com distress-tolerance handout PDF verbatim. The modality attribution (DBT) is sourced to Linehan's own handout/interview, not invented.
 
 Note for the record: the handout extraction shows odd character spacing ("ra dical acc eptance" from column-start initial caps), a known pypdf artifact, not a text fidelity issue — the on-card quotes match the semantic text exactly.
+
+## QC SAMPLE — K268 Preferred-indifferent hierarchy (gm-pplx-kern1-1025a, 2026-10-25 14:28Z) — PASS
+
+The Stoic attribution is grounded in the Stanford Encyclopedia of Philosophy Stoicism entry (opened live this session). The three quoted passages on the card match the SEP text verbatim; the fetch-only flag was typographic normalization (em dashes vs hyphens, "it is appropriate" vs "is appropriate"). No content fidelity issue.
