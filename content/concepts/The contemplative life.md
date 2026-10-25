@@ -14,6 +14,8 @@ The contemplative life, in [[T002 — Aristotle|Aristotle]]'s account in Nicomac
 
 Book X chapter 8 continues: "Now if you take away from a living being action, and still more production, what is left but contemplation? Therefore the activity of God, which surpasses all others in blessedness, must be contemplative; and of human activities, therefore, that which is most akin to this must be most of the nature of happiness" ([Aristotle, NE X.8, trans. W. D. Ross](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)).
 
+The argument turns on a subtraction rather than an ideal. Take away action, and still more production, from a living being, and what remains is contemplation; whatever activity is most akin to God's must be the most blessed available to a person. Book X also fixes the practical condition the ranking rests on: happiness is thought to depend on leisure, and we are busy that we may have leisure. Aristotle does not ask the reader to abandon action; the ranking tells them what the action is for.
+
 ### Here
 
 - [[A090 — Recognise that the theoretical life is not for everyone]]

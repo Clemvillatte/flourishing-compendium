@@ -3,12 +3,10 @@
  "done": [
   "The witness",
   "The still mirror",
-  "Following nature's rhythm",
   "The avoidance of suffering",
   "Variability in practice",
   "The seasons of the body",
   "The water metaphor",
-  "The contemplative life",
   "Throwing away the ladder",
   "Ritual",
   "Self-distancing",
@@ -70,7 +68,9 @@
   "Integrity as consistency",
   "Grace",
   "Timing as wisdom",
-  "Proper pride (megalopsychia)"
+  "Proper pride (megalopsychia)",
+  "Following nature's rhythm",
+  "The contemplative life"
  ],
  "in_progress": null,
  "flagged": {
@@ -113,10 +113,12 @@
   "Integrity as consistency": "Emerson Self-Reliance attacks foolish consistency; page separates surface vs character consistency; label is compendium summary",
   "Grace": "Reopened for QC: QC: prose 65 < 150-word bar (pre-existing); body to be expanded using the page's own verified Augustine passages, no new factual claims",
   "Timing as wisdom": "Reopened for QC: QC: prose 88 < 150 (pre-existing); expand from page's verified Eno ch.64 quotes",
-  "Proper pride (megalopsychia)": "Reopened for QC: QC: prose 98 < 150 (pre-existing); expand from page's verified Ross NE IV.3 quotes"
+  "Proper pride (megalopsychia)": "Reopened for QC: QC: prose 98 < 150 (pre-existing); expand from page's verified Ross NE IV.3 quotes",
+  "Following nature's rhythm": "Reopened for QC: QC: prose 100 < 150 (pre-existing); expand from page's verified Eno ch.25 material",
+  "The contemplative life": "Reopened for QC: QC: prose 111 < 150 (pre-existing); expand from page's verified Ross NE X quotes"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T01:34:38+00:00",
+ "updated": "2026-10-25T01:35:02+00:00",
  "band_done": false
 }
