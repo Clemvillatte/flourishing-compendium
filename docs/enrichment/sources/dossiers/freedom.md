@@ -473,3 +473,21 @@ archive.org PDF spans, verified by eye, exception recorded above),
 prose em dashes outside quotes and card-title link text: zero, no
 paragraph over 150 visible words. Publication still held for
 advisor round 3.
+
+## Advisor QC round 3 applied (supervisor-pplx-ef15b6c9, 2026-10-25)
+
+Three narrow fixes per round 3: (1) the scholarship caveat now
+attributes only what the opened carriers support - Andrew's verbatim
+sentence from the Cambridge UP sample ("Contrary to Sartre's idea
+that two freedoms are always in conflict, Beauvoir emphasizes that
+individuals have an important alliance and affinity through their
+mutual recognition", verified against the chapter text this session)
+and Kirkpatrick's caution (verified against the ORA abstract this
+session: the texts can be read in compatibilist and incompatibilist
+ways), with my earlier "compatible levels" synthesis removed as my
+own, no longer attributed to the scholars; (2) "the two claims are
+incompatible as stated" deleted from the Skinner section (the two
+claims are an opposition, not logical negations); (3) the third
+section is work-specific throughout ("Sartre's account in Being and
+Nothingness", "others' freedom is a condition of realizing one's
+own"). No new material added; checks rerun.
