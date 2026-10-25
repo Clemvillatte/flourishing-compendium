@@ -17,6 +17,16 @@ He distinguishes three kinds of friendship ([Nicomachean Ethics VIII, trans. W. 
 
 > "There are therefore three kinds of friendship, equal in number to the things that are lovable; for with respect to each there is a mutual and recognized love, and those who love each other wish well to each other in that respect in which they love one another." (Aristotle, [Nicomachean Ethics VIII, trans. W. D. Ross, Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.8.viii.html))
 
+### The three, and the one that lasts
+
+The same book runs the kinds through utility and pleasure to character:
+
+> "Now those who love each other for their utility do not love each other for themselves but in virtue of some good which they get from each other. So too with those who love for the sake of pleasure; it is not for their character that men love ready-witted people, but because they find them pleasant." (Aristotle, [Nicomachean Ethics VIII, trans. W. D. Ross, Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.8.viii.html))
+
+> "Perfect friendship is the friendship of men who are good, and alike in virtue; for these wish well alike to each other qua good, and they are good themselves." (Aristotle, [Nicomachean Ethics VIII, trans. W. D. Ross, Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.8.viii.html))
+
+The first two kinds are incidental: the friend is loved as useful or pleasant, and the friendship dissolves when the usefulness or the pleasure does. The third is loved as the person he is, which is why Aristotle calls it permanent, and why the page on love leans on him: love here is a steady wish for the good of the loved one, with the lover's own character as the thing that holds it up.
+
 ## Cited in philosophy parallels
 
 - [[R049 — Practise alofa]]

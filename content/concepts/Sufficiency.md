@@ -9,6 +9,8 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 In Daodejing 33, someone satisfied with their lot is called rich. Chapter 44 pairs contentment with knowing when to stop. ([Legge translation](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
+> "He who is satisfied with his lot is rich; he who goes on acting with energy has a (firm) will." (Daodejing 33.1, Legge translation, [Project Gutenberg ebook #216](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
 > "Who is content  
 > Needs fear no shame.  
 > Who knows to stop  
@@ -18,14 +20,15 @@ In Daodejing 33, someone satisfied with their lot is called rich. Chapter 44 pai
 
 Chapter 44 opens by asking the reader to weigh life against fame and wealth, then criticizes attachment to fame and large stores. ([Legge translation](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-- Brown and Kasser, 2005
-- Laozi, Daodejing 33, "he who knows he has enough is rich"
+### What the two chapters share
+
+Both chapters refuse the arithmetic of more. Chapter 33 names sufficiency a form of wealth that does not compound, and chapter 44 makes the same move with a question: keeping life and losing the rest, or keeping the rest and losing life, which brings sorrow nearer? The contentment at issue is not resignation. It is an active measurement, knowing what the living actually requires and stopping there, and the shame the verse says contentment fears none of is the comparison that would restart the count.
+
 ## Sources
 - [[T012 — Laozi]]: the Daodejing 33 and 44 passages the page opens with.
 
 - Laozi, Daodejing 33 and 44, Legge translation, [Tao Te Ching, Project Gutenberg ebook #216](https://www.gutenberg.org/cache/epub/216/pg216.txt) (opened)
-- Daoism, Daodejing 44
-
+- Brown and Kasser, 2005 — materialism and well-being, listed as a source for the sufficiency research line
 - Seneca, Letters from a Stoic
 
 ## Cited in philosophy parallels
