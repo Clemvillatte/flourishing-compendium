@@ -24,8 +24,43 @@ async function errs(page) { return await page.evaluate(() => window.__errs || ['
 
   /* ---- routes restore their page ---- */
   await go('#view=academy', '.acad-hall');
-  ok('#view=academy renders Academy home', await page.evaluate(() => document.querySelectorAll('.acad-hall').length === 9));
+  ok('#view=academy renders Academy home', await page.evaluate(() => document.querySelectorAll('.acad-hall').length === 10));
   ok('#view=academy bar mirrors', (await page.evaluate(() => location.hash)) === '#view=academy');
+
+  /* schema migration 2026-10-25: practica first, divider, then degrees */
+  const home = await page.evaluate(() => {
+    const secs = [...document.querySelectorAll('#academyRoot .acad-section-title')].map(s => s.textContent);
+    const grids = [...document.querySelectorAll('#academyRoot .acad-hall-grid')];
+    const first = grids[0] ? [...grids[0].querySelectorAll('.acad-hall-title')].map(t => t.textContent) : [];
+    const second = grids[1] ? [...grids[1].querySelectorAll('.acad-hall-title')].map(t => t.textContent) : [];
+    const bridge = document.querySelector('a.acad-hall');
+    return { secs, first, second, bridgeHref: bridge ? bridge.href : null, bridgeTarget: bridge ? bridge.target : null };
+  });
+  ok('home shows Practicum then Degrees sections',
+    home.secs.length === 2 && home.secs[0] === 'Practicum' && home.secs[1] === 'Degrees', JSON.stringify(home.secs));
+  ok('practicum section: qigong, cmp, psych-101 bridge in order',
+    home.first.length === 3 && home.first[0].includes('Qi Gong') && home.first[1].includes('Contemplative & Mental Practices') && home.first[2].includes('Psychology 101'),
+    JSON.stringify(home.first));
+  ok('degrees section: the seven new degrees in owner order',
+    home.second.length === 7 && home.second[0] === 'Psychological Dimensions' && home.second[6] === 'A Walk of Life: Positive Psychology',
+    JSON.stringify(home.second));
+  ok('psych-101 bridge card links straight to the Psychology Lab',
+    home.bridgeHref === 'https://the-psychology-lab.vercel.app/' && home.bridgeTarget === '_blank', JSON.stringify(home.bridgeHref));
+
+  /* legacy view: footer link, then every legacy degree reachable */
+  await page.click('.acad-colophon button');
+  await page.waitForSelector('.acad-hall-grid', { timeout: 15000 });
+  const legacy = await page.evaluate(() => ({
+    hash: location.hash,
+    cards: [...document.querySelectorAll('.acad-hall-grid .acad-hall-title')].map(t => t.textContent)
+  }));
+  ok('legacy link mirrors #view=legacy', legacy.hash === '#view=legacy');
+  ok('legacy view lists all seven superseded programs',
+    legacy.cards.length === 7 && legacy.cards.some(c => c.includes('Psychology 101')) && legacy.cards.some(c => c.includes('Practical Philosophy')),
+    JSON.stringify(legacy.cards));
+  await go('#view=legacy', '.acad-hall-grid');
+  ok('#view=legacy restores on fresh load', (await page.evaluate(() => location.hash)) === '#view=legacy');
+  await go('#view=academy', '.acad-hall');
 
   await go('#degree=deg-cmp', '.acad-detail');
   ok('#degree=deg-cmp renders degree', await page.evaluate(() => (document.querySelector('.acad-band-title') || {}).textContent === 'Contemplative & Mental Practices — A Year of Practice'));
@@ -121,7 +156,7 @@ async function errs(page) { return await page.evaluate(() => window.__errs || ['
   await page.click('#tabAcademy');
   await page.waitForSelector('.acad-hall', { timeout: 15000 });
   ok('Academy tab click mirrors #view=academy', (await page.evaluate(() => location.hash)) === '#view=academy');
-  await page.click('.acad-hall:nth-child(9)'); // Contemplative & Mental Practices is the 9th hall
+  await page.evaluate(() => { const cards=[...document.querySelectorAll('.acad-hall')]; const c=cards.find(x => x.textContent.includes('Contemplative & Mental Practices')); c.click(); });
   await page.waitForSelector('.acad-practice-gallery', { timeout: 15000 });
   ok('hall click mirrors #degree=deg-cmp', (await page.evaluate(() => location.hash)) === '#degree=deg-cmp');
   await page.click('#tabRand');
@@ -132,10 +167,13 @@ async function errs(page) { return await page.evaluate(() => window.__errs || ['
   ok('Library tab click mirrors #view=wiki', (await page.evaluate(() => location.hash)) === '#view=wiki');
   // card open keeps its address while in the wiki
   await page.click('#tabAcademy');
-  await page.waitForSelector('.acad-detail', { timeout: 15000 });
-  // the Academy tab re-renders the current Academy state (the degree page here);
-  // the address bar mirrors that state honestly
-  ok('back to Academy mirrors the degree still open', (await page.evaluate(() => location.hash)) === '#degree=deg-cmp');
+  await page.waitForSelector('.acad-hall', { timeout: 15000 });
+  // Entering the Academy from another main view renders the home under an
+  // ACADEMY highlight (2026-10-25 fix; the deep-page state does not survive
+  // a round-trip through the Randomiser and Library). The pre-migration
+  // expectation (degree still open) predates that fix and was already
+  // failing on origin/main.
+  ok('back to Academy mirrors the home', (await page.evaluate(() => location.hash)) === '#view=academy');
 
   /* ---- mobile 375px ---- */
   const mctx = await browser.newContext({ viewport: { width: 375, height: 700 } });
