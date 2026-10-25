@@ -36,7 +36,7 @@ Dewey's frame turns agency from a possession into a circuit: the seeing is alrea
 
 ### Where the say is believed to sit
 
-[Locus of control](https://clemvillatte.github.io/flourishing-compendium/#card=Locus%20of%20control): Rotter's generalized expectancy about where reinforcement comes from; the 1966 definition:
+Rotter's generalized expectancy about where reinforcement comes from, given in the 1966 definition, is [locus of control](https://clemvillatte.github.io/flourishing-compendium/#card=Locus%20of%20control):
 
 > "If the person perceives that the event is contingent upon his own behavior or his own relatively permanent characteristics, we have termed this a belief in internal control." ([Rotter, "Generalized expectancies for internal versus external control of reinforcement", Psychological Monographs 80(1), 1966](https://raw.githubusercontent.com/jjcurtin/arc_measures/main/LCS/Rotter1966.pdf))
 
@@ -48,7 +48,7 @@ Troy, Shallcross and Mauss's finding that reframing helps or harms depending on 
 
 ### The belief that one can act
 
-[Self-efficacy](https://clemvillatte.github.io/flourishing-compendium/#card=Self-efficacy): Bandura's construct for the belief that one can execute the behaviour the outcome requires. His summary of what the expectation governs:
+Bandura's construct for the belief that one can execute the behaviour the outcome requires is [self-efficacy](https://clemvillatte.github.io/flourishing-compendium/#card=Self-efficacy). His summary of what the expectation governs:
 
 > "Efficacy expectations determine how much effort people will expend and how long they will persist in the face of obstacles and aversive experiences." ([Bandura, "Self-efficacy: Toward a Unifying Theory of Behavioral Change", Psychological Review 84(2), 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf))
 
@@ -58,49 +58,29 @@ The Bandura line running through the 1961 experiments comparing children who wat
 
 Tierney and Farmer's extension of the efficacy construct to creative work, the belief one can produce creative outcomes, is [creative self-efficacy](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20self-efficacy). Bandura's extension of agency to groups, people's shared beliefs in their collective power to produce desired results, is [collective efficacy](https://clemvillatte.github.io/flourishing-compendium/#card=Collective%20efficacy). The forward-facing expectation of a good not yet arrived, which in Snyder's theory runs on agency and pathways together, is [hope](https://clemvillatte.github.io/flourishing-compendium/#card=Hope).
 
-### Autonomy and competence as needs
+### How autonomy and competence work as needs
 
-[Self-determination](https://clemvillatte.github.io/flourishing-compendium/#card=Self-determination): the claim that people do best when their motivation is their own; the centre of Deci and Ryan's framework.
+The claim that people do best when their motivation is their own, the centre of Deci and Ryan's framework, is [self-determination](https://clemvillatte.github.io/flourishing-compendium/#card=Self-determination). The SDT account of the needs whose satisfaction predicts well-being, autonomy, competence and relatedness, read as universal nutriments, is [psychological needs theory](https://clemvillatte.github.io/flourishing-compendium/#card=Psychological%20needs%20theory).
 
-[Psychological needs theory](https://clemvillatte.github.io/flourishing-compendium/#card=Psychological%20needs%20theory): the SDT account of the needs whose satisfaction predicts well-being, autonomy, competence and relatedness, read as universal nutriments.
+Self-governance, acting from one's own endorsement, Kant's courage to think for oneself and SDT's basic need in one entry, is [autonomy](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomy). The SDT half that includes intrinsic motivation and regulation the person has accepted as their own is [autonomous motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomous%20motivation), and the other half, motivation sourced in pressure, external demands and rewards, or internally felt guilt and pride, is [controlled motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Controlled%20motivation).
 
-[Autonomy](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomy): self-governance, acting from one's own endorsement; Kant's courage to think for oneself and SDT's basic need in one entry.
+The comparison page, motivation sorted by its reasons rather than its strength, is [autonomous versus controlled motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomous%20versus%20controlled%20motivation). The SDT distinction between two ways of carrying a rule inside, regulation accepted as one's own and regulation taken in but not accepted, performed to avoid guilt or anxiety, is [identified versus introjected motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Identified%20versus%20introjected%20motivation).
 
-[Autonomous motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomous%20motivation): the SDT half that includes intrinsic motivation and regulation the person has accepted as their own.
+In self-determination theory, the interpersonal style of a person in authority who nurtures others' autonomous motivation instead of pressing them toward outcomes is [autonomy-supportive leadership](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomy-supportive%20leadership). Slemp, Kern, Patrick and Ryan's meta-analysis of perceived leader autonomy support, correlated strongly with autonomous work motivation, is [autonomy-supportive management research](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomy-supportive%20management%20research).
 
-[Controlled motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Controlled%20motivation): the other half: motivation sourced in pressure, external demands and rewards, or internally felt guilt and pride.
+The undermining effect literature, rewards and controls that displace intrinsic motivation, creativity and well-being, is [autonomy-threat research](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomy-threat%20research). Assor, Roth and Deci on parental conditional regard, compliance bought at the price of internal compulsion and short-lived satisfaction, is [attachment research on autonomy-granting](https://clemvillatte.github.io/flourishing-compendium/#card=Attachment%20research%20on%20autonomy-granting).
 
-[Autonomous versus controlled motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomous%20versus%20controlled%20motivation): the comparison page: motivation sorted by its reasons rather than its strength.
+Barber's parenting construct, control that constrains, invalidates and manipulates the child's psychological experience, distinct from behavioural control, is [psychological control](https://clemvillatte.github.io/flourishing-compendium/#card=Psychological%20control). The feminist family of accounts revising the self-governing individual, in which care, recognition and social conditions are the media of autonomy, not its enemies, is [relational autonomy](https://clemvillatte.github.io/flourishing-compendium/#card=Relational%20autonomy).
 
-[Identified versus introjected motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Identified%20versus%20introjected%20motivation): the SDT distinction between two ways of carrying a rule inside: regulation accepted as one's own, and regulation taken in but not accepted, performed to avoid guilt or anxiety.
+Beck's two vulnerabilities in depression, sociotropy and autonomy, each sensitized to its own matching stressors, is [sociotropy-autonomy theory](https://clemvillatte.github.io/flourishing-compendium/#card=Sociotropy-autonomy%20theory). The capacity to interact effectively with one's environment, given its modern form by Robert White in 1959, is [competence](https://clemvillatte.github.io/flourishing-compendium/#card=Competence).
 
-[Autonomy-supportive leadership](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomy-supportive%20leadership): in self-determination theory, the interpersonal style of a person in authority who nurtures others' autonomous motivation instead of pressing them toward outcomes.
+White's proposal for the motive behind exploration and mastery, with effectance as the concept and a feeling of efficacy as its signature, is [competence motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Competence%20motivation). The immersed state of energized focus and full involvement in an activity, among whose conditions is the balance of perceived challenge and perceived skill, is [flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow).
 
-[Autonomy-supportive management research](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomy-supportive%20management%20research): Slemp, Kern, Patrick and Ryan's meta-analysis of perceived leader autonomy support, correlated strongly with autonomous work motivation.
+### How agency runs in the social world
 
-[Autonomy-threat research](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomy-threat%20research): the undermining effect literature: rewards and controls that displace intrinsic motivation, creativity and well-being.
+The two axes of social judgment, getting ahead and getting along, with agency as striving to individuate and expand the self, is the [Big Two model of agency and communion](https://clemvillatte.github.io/flourishing-compendium/#card=Big%20Two%20model%20of%20agency%20and%20communion). Shaping choices with the people who must live with them rather than doing things to or for them, whose backbone is Bandura's collective agency, is [participatory decision-making](https://clemvillatte.github.io/flourishing-compendium/#card=Participatory%20decision-making).
 
-[Attachment research on autonomy-granting](https://clemvillatte.github.io/flourishing-compendium/#card=Attachment%20research%20on%20autonomy-granting): Assor, Roth and Deci on parental conditional regard: compliance bought at the price of internal compulsion and short-lived satisfaction.
-
-[Psychological control](https://clemvillatte.github.io/flourishing-compendium/#card=Psychological%20control): Barber's parenting construct: control that constrains, invalidates and manipulates the child's psychological experience, distinct from behavioural control.
-
-[Relational autonomy](https://clemvillatte.github.io/flourishing-compendium/#card=Relational%20autonomy): the feminist family of accounts revising the self-governing individual: care, recognition and social conditions as the media of autonomy, not its enemies.
-
-[Sociotropy-autonomy theory](https://clemvillatte.github.io/flourishing-compendium/#card=Sociotropy-autonomy%20theory): Beck's two vulnerabilities in depression, sociotropy and autonomy, each sensitized to its own matching stressors.
-
-[Competence](https://clemvillatte.github.io/flourishing-compendium/#card=Competence): the capacity to interact effectively with one's environment, given its modern form by Robert White in 1959.
-
-[Competence motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Competence%20motivation): White's proposal for the motive behind exploration and mastery, with effectance as the concept and a feeling of efficacy as its signature.
-
-[Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow): the immersed state of energized focus and full involvement in an activity; among its conditions, the balance of perceived challenge and perceived skill.
-
-### Agency in the social world
-
-[Big Two model of agency and communion](https://clemvillatte.github.io/flourishing-compendium/#card=Big%20Two%20model%20of%20agency%20and%20communion): the two axes of social judgment, getting ahead and getting along; agency as striving to individuate and expand the self.
-
-[Participatory decision-making](https://clemvillatte.github.io/flourishing-compendium/#card=Participatory%20decision-making): shaping choices with the people who must live with them rather than doing things to or for them; its backbone is Bandura's collective agency.
-
-[Moral disengagement research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20disengagement%20research): Bandura's account of the psychosocial manoeuvres by which self-sanctions are switched off; agency's moral face.
+Bandura's account of the psychosocial manoeuvres by which self-sanctions are switched off, agency's moral face, is [moral disengagement research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20disengagement%20research).
 
 ## Where the traditions genuinely disagree
 
