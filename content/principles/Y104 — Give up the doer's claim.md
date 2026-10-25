@@ -20,7 +20,7 @@ The verse the entry cites for the guṇas reads: "When wise persons see that in 
 
 In both verses, the claim is that the actions of the body and senses belong to nature's processes. The wise person recognises this while acting. Neither verse tells the reader to leave "I" out of accomplishment stories or to credit collaborators and conditions. That bounded practice, one story per week, is the entry's own adaptation. The entry's phrase "the inner announcement of 'I do this'" is also its wording, not the translation's.
 
-The psychology parallel names the fundamental attribution error (Ross, 1977) as a bias toward over-crediting the self. That description was not checked against Ross, so it is worth verifying before it is relied on. The Buddhist parallel is cited at second hand.
+The psychology parallel names the fundamental attribution error (Ross, 1977), which Ross defined as the tendency "to underestimate the impact of situational factors and to overestimate the role of dispositional factors in controlling behavior" — a bias about explaining other people's behaviour, not about crediting the self. Over-crediting the self belongs to self-serving attribution, which the parallel now names separately. The Buddhist parallel is cited at second hand.
 
 **Plain words** The Gita says a wise person sees that the body, senses and natural forces do the acting, and that "I" is not the one doing it. As a modest exercise, tell one story of something you achieved without the word "I" and see how much of the credit belonged to other people and conditions.
 
@@ -33,7 +33,7 @@ The psychology parallel names the fundamental attribution error (Ross, 1977) as 
 
 ## Psychology parallels
 
-- **[[Fundamental attribution error|Fundamental attribution error]]**, the robust bias toward over-crediting the self (Ross, 1977); **self-serving attribution** and its reversal in depression research
+- **[[Fundamental attribution error|Fundamental attribution error]]**, the robust bias toward explaining other people's behaviour by disposition and underestimating the situation (Ross, 1977); **[[Self-serving attribution bias|self-serving attribution]]**, the related habit of crediting oneself for success — the closer counterpart of the doer's claim
 
 ## Philosophy parallels
 
