@@ -15,6 +15,10 @@ Plato's account of the good inner life in the Republic: the soul has several ele
 
 The passage calls actions that preserve this harmony just and good, and those that impair it unjust. It calls the knowledge guiding the former wisdom, and the opinion guiding the latter ignorance ([Republic IV](https://www.gutenberg.org/files/1497/1497-0.txt)). Order is not imposed from outside by rule-following; Jowett's rendering says justice concerns "not with the outward man, but with the inward, which is the true self and concernment of man". The image is musical: three principles bound like the notes of a scale, many becoming one.
 
+The analogy the book draws is what makes the passage an ordering rather than a description, since Plato has spent the earlier part of the Republic building the just city on the same three-part structure, and the just man is introduced as the thing the city was a picture of. The ordering therefore runs in a particular direction: the parts are not removed, they are bound, and a person whose parts are bound is described as having "become one entirely temperate and perfectly adjusted nature". What the musical image carries is that the binding is not a silencing of the lower notes; it is the lower notes having a place in the scale, which is a different thing from having no place.
+
+The passage also assigns the criterion of the ordering to the person rather than to an observer. The just man is described as his own master and his own law, which puts the standard inside the arrangement rather than in the rule an outside judge would apply. A reader can take from it a question rather than a rule: whether the parts of a life are interfering with each other's work, and the question is answerable without a doctrine about what the parts are.
+
 ### Here
 
 - [[SP053 — Connect affects to ordered thought]] — uses Spinoza's version of the same question, ordering the soul's passivity; I pair Spinoza with this Platonic ground as a cross-tradition parallel.
