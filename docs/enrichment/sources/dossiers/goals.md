@@ -482,3 +482,18 @@ recommendation:"). The paragraph is now split at that point and the
 two-word quoted fragment ("go wild") unquoted, so each line carries
 one clean quote with its link; no claim was changed. quote_verify
 now reports 8 checked, 0 not found, checker exit 0, density 0.
+
+## Commitment-devices addition and family sweep (worker-pplx-dos13-1025g, 2026-10-25)
+
+The goal-family sweep listed 20 unlinked cards; most belong elsewhere
+(ACT, eudaimonia-family, attention cards). One was genuinely
+on-theme: [Commitment devices (Ariely & Wertenbroch)], added to the
+"What a commitment is, and what it serves" section. The card file
+was opened and read; the gloss is the card's own plain-words text
+(a way of binding the future self, arranging in advance for the
+wrong choice to become costly or impossible, so the intention held
+now survives the weakness that will come later), with a lead-in
+("Commitment can also be engineered") that is a framing sentence,
+not a sourced claim. The remaining 19 unlinked cards are recorded as
+belonging elsewhere. Checks: checker exit 0 (52 card links, 17
+headers, 11 external carriers), density 0 dense, quote_verify 8/0.
