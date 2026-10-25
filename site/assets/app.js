@@ -6473,7 +6473,15 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "Attention is the place a life is lived; everything a person does with their hours passes through it first. It costs, it builds, and it can be pulled away, which makes it both a resource and a battleground. The contemplative traditions trained it long before the science measured it, and both agree it is trainable; what differs is what each thinks it is for."
+          "x": "Everything a person does with their hours passes through attention first. A conversation, a book, a worry, a feed: each takes up room in a life in proportion to the attention given it, and James put the experiential side of that plainly when he wrote that only the items we notice shape our minds. I want to understand this capacity: what it is, what it costs and how it recovers, where it goes when feeling leads it, and what it can build in a person."
+        },
+        {
+          "t": "p",
+          "x": "The capacity has a price. Holding attention on something difficult takes effort, the effortful kind tires with use, and much of the world is arranged to pull attention away from wherever a person has put it. The contemplative traditions trained attention long before the science measured it, and the two agree it is trainable; what differs is what each thinks it is for."
+        },
+        {
+          "t": "p",
+          "x": "The last question is also a moral one. Attention is what one person gives another, in conversation, in care, in the ordinary act of listening, and I want to know whether that giving can be trained."
         },
         {
           "t": "h2",
@@ -6481,11 +6489,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Concentration: the contemplative account of collectedness is held by [Right concentration](card:Right%20concentration), and the training territory sits inside this dossier's map, not in a separate one."
+          "x": "Concentration: collectedness in the contemplative sense is [Right concentration](card:Right%20concentration); it is treated here as the trained end of attention rather than a separate faculty."
         },
         {
           "t": "p",
-          "x": "Focus: the visual-metaphor side is [Focus theory of attention](card:Focus%20theory%20of%20attention) and the spotlight entries; Gendlin's practice of a different name is [Focusing](card:Focusing)."
+          "x": "Focus: the visual metaphor is held by [Focus theory of attention](card:Focus%20theory%20of%20attention) and the spotlight entries; [Focusing](card:Focusing) is Gendlin's practice of attending to a felt sense, a different thing under a near name."
         },
         {
           "t": "p",
@@ -6497,92 +6505,24 @@ window.fcDossiersData = {
         },
         {
           "t": "h",
-          "x": "The map: the entries on attention"
+          "x": "What attention asks of a life"
         },
         {
           "t": "h2",
-          "x": "What attention is taken to be"
+          "x": "What experience is made of"
         },
         {
           "t": "p",
-          "x": "[Attention](card:Attention): the selection and sustaining of awareness; William James's classic definition and the experiential weight he gave it."
-        },
-        {
-          "t": "p",
-          "x": "[Spotlight model of attention](card:Spotlight%20model%20of%20attention): Posner's 1980 account of covert orienting, attention as a beam that can be moved across the visual field."
-        },
-        {
-          "t": "p",
-          "x": "[Spotlight vs floodlight attention](card:Spotlight%20vs%20floodlight%20attention): the aperture metaphor: attention narrowed to a detail or broadened to the whole, with different consequences for what is seen."
-        },
-        {
-          "t": "p",
-          "x": "[Attentional breadth global vs local processing](card:Attentional%20breadth%20global%20vs%20local%20processing): the spatial extent over which attention is applied, from Goodhew's working definition."
-        },
-        {
-          "t": "p",
-          "x": "[Posner's three-network model](card:Posner%27s%20three-network%20model): Posner and Petersen's 1990 division of the brain's attention system into three anatomically distinct networks, alerting, orienting and executive, restated in their 2012 update."
-        },
-        {
-          "t": "p",
-          "x": "[Attentional flexibility (set-shifting)](card:Attentional%20flexibility%20%28set-shifting%29): the executive capacity to disengage from one mental set and take up another as demands change; Diamond's third core function, alongside inhibition and working memory."
-        },
-        {
-          "t": "p",
-          "x": "[Executive function theory Miyake](card:Executive%20function%20theory%20Miyake): the three functions tested in Miyake and Friedman's 2000 study, inhibition, shifting and updating, correlated yet separable."
-        },
-        {
-          "t": "p",
-          "x": "[Focus theory of attention](card:Focus%20theory%20of%20attention): the attended stimulus dominates awareness and processing; includes Eriksen and St. James's zoom-lens model."
-        },
-        {
-          "t": "p",
-          "x": "[Two modes of attentional control](card:Two%20modes%20of%20attentional%20control): Corbetta and Shulman's two partly separate brain systems, one goal-directed, one a circuit breaker for salient events."
-        },
-        {
-          "t": "p",
-          "x": "[Goal-directed attention](card:Goal-directed%20attention): the top-down half of selection, preparing and applying selection for stimuli and responses according to what you are trying to do."
-        },
-        {
-          "t": "p",
-          "x": "[Goal-directed attentional control](card:Goal-directed%20attentional%20control): the same division of labor stated for practice: attention steered by intention rather than pulled by whatever is loud, new or threatening."
-        },
-        {
-          "t": "p",
-          "x": "[Selective attention (Broadbent's filter model)](card:Selective%20attention%20%28Broadbent%27s%20filter%20model%29): the first influential account of how selection happens: a limited-capacity channel with a filter in front of it."
-        },
-        {
-          "t": "p",
-          "x": "[Load theory of attention](card:Load%20theory%20of%20attention): Lavie's resolution of the early-or-late selection debate, tying the filter's place to how loaded perception is."
-        },
-        {
-          "t": "p",
-          "x": "[Divided attention theory](card:Divided%20attention%20theory): what happens when a person tries to do two things at once; performance usually suffers, and researchers disagree about why."
-        },
-        {
-          "t": "p",
-          "x": "[Attentional blink](card:Attentional%20blink): the finding that attention briefly goes dark after it lands; probes are poorly detected in a window beginning 180 ms after a target."
-        },
-        {
-          "t": "p",
-          "x": "[Inattentional blindness](card:Inattentional%20blindness): the failure to perceive a fully visible but unexpected object when attention is engaged elsewhere; the invisible-gorilla experiment."
-        },
-        {
-          "t": "p",
-          "x": "[Attention Network Test (ANT)](card:Attention%20Network%20Test%20%28ANT%29): the computer task that measures the efficiency of three attentional networks, alerting, orienting and executive attention, in one sitting."
-        },
-        {
-          "t": "p",
-          "x": "[Attention Schema Theory](card:Attention%20Schema%20Theory): Graziano's account of awareness as the brain's simplified model of its own attention."
-        },
-        {
-          "t": "p",
-          "x": "William James gave the field its definition and its stakes, both in the Principles of Psychology:"
+          "x": "William James gave the field its definition and its stakes in the same chapter. [Attention](card:Attention) is the selection and sustaining of awareness, and he stated it in words that still hold the experiential weight:"
         },
         {
           "t": "q",
           "x": "\"Every one knows what attention is. It is the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought. Focalization, concentration, of consciousness are of its essence. It implies withdrawal from some things in order to deal effectively with others\" ([James, Principles of Psychology, ch. 11](https://psychclassics.yorku.ca/James/Principles/prin11.htm))",
           "s": null
+        },
+        {
+          "t": "p",
+          "x": "The withdrawal is the cost side of his definition, and the experiential side is just as direct:"
         },
         {
           "t": "q",
@@ -6591,56 +6531,47 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Lavie's load theory, in the review that states its central prediction:"
+          "x": "The metaphors that followed try to say what this selecting is like. [Spotlight model of attention](card:Spotlight%20model%20of%20attention) is Posner's 1980 account of covert orienting: attention as a beam that can be moved across the visual field. [Spotlight vs floodlight attention](card:Spotlight%20vs%20floodlight%20attention) widens the aperture: narrowed to a detail or broadened to the whole, with different consequences for what is seen. The same spatial idea, stated as a measure rather than a metaphor, is [Attentional breadth global vs local processing](card:Attentional%20breadth%20global%20vs%20local%20processing): the spatial extent over which attention is applied, from Goodhew's working definition."
         },
         {
-          "t": "q",
-          "x": "\"This led to the predictions that high perceptual load that engages full capacity in relevant processing would leave no spare capacity for perception of task-irrelevant stimuli. In situations of low perceptual load, however, any capacity not taken up in perception of task-relevant stimuli would involuntarily 'spill over' to the perception of task-irrelevant distractors.\" ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf))",
-          "s": null
+          "t": "p",
+          "x": "What the beam lands on then does something of its own. [Focus theory of attention](card:Focus%20theory%20of%20attention) adds that the attended stimulus dominates awareness and processing, in Eriksen and St. James's zoom-lens model."
+        },
+        {
+          "t": "p",
+          "x": "The systems view divides the machinery instead of the beam. [Posner's three-network model](card:Posner%27s%20three-network%20model) is Posner and Petersen's 1990 division of the brain's attention system into three anatomically distinct networks, alerting, orienting and executive, restated in their 2012 update. The [Attention Network Test (ANT)](card:Attention%20Network%20Test%20%28ANT%29) is the computer task that measures the efficiency of all three in one sitting."
+        },
+        {
+          "t": "p",
+          "x": "The executive network is where thinking meets selection. [Attentional flexibility (set-shifting)](card:Attentional%20flexibility%20%28set-shifting%29) is Diamond's third core function, the capacity to disengage from one mental set and take up another as demands change, alongside inhibition and working memory. [Executive function theory Miyake](card:Executive%20function%20theory%20Miyake) tested the three functions, inhibition, shifting and updating, and found them correlated yet separable."
+        },
+        {
+          "t": "p",
+          "x": "Selection also has a direction of control. [Two modes of attentional control](card:Two%20modes%20of%20attentional%20control) is Corbetta and Shulman's account of two partly separate brain systems, one goal-directed, one a circuit breaker for salient events. [Goal-directed attention](card:Goal-directed%20attention) is the top-down half, preparing and applying selection according to what a person is trying to do. [Goal-directed attentional control](card:Goal-directed%20attentional%20control) states the same division for practice: attention steered by intention rather than pulled by whatever is loud, new or threatening."
+        },
+        {
+          "t": "p",
+          "x": "One account steps back from the machinery to the awareness that reports it. [Attention Schema Theory](card:Attention%20Schema%20Theory) is Graziano's account of awareness as the brain's simplified model of its own attention. I keep it here as a reminder that the felt sense of attending, the sense everyone knows from the inside, is itself something the mind builds."
         },
         {
           "t": "h2",
-          "x": "What attention costs and how it recovers"
+          "x": "What happens to what is not selected"
         },
         {
           "t": "p",
-          "x": "[The effort of attention](card:The%20effort%20of%20attention): James's phrase from the chapter on will: where a thought prevails with effort, attention is doing the work."
+          "x": "Selection means some things are left out, and the oldest argument in the field concerns where the leaving out happens. [Selective attention (Broadbent's filter model)](card:Selective%20attention%20%28Broadbent%27s%20filter%20model%29) was the first influential account of how selection happens: a limited-capacity channel with a filter in front of it. [Load theory of attention](card:Load%20theory%20of%20attention) is Lavie's resolution of the early-or-late selection debate, tying the filter's place to how loaded perception is. Her review states the resolution plainly: under high perceptual load there is no spare capacity for task-irrelevant stimuli, while under low load any spare capacity involuntarily spills over to the perception of distractors. The disagreement that remains inside that resolution is taken up below."
         },
         {
           "t": "p",
-          "x": "[Directed attention fatigue](card:Directed%20attention%20fatigue): Kaplan's name for the fatigue of the effortful, voluntarily controlled kind of attention."
+          "x": "The limits show up even when selection succeeds. [Attentional blink](card:Attentional%20blink) is the finding that attention briefly goes dark after it lands: probes are poorly detected in a window beginning 180 ms after a target. [Inattentional blindness](card:Inattentional%20blindness) is the failure to perceive a fully visible but unexpected object when attention is engaged elsewhere, the invisible-gorilla experiment. And when a person tries to do two things at once, [Divided attention theory](card:Divided%20attention%20theory) records what happens: performance usually suffers, and researchers disagree about why."
+        },
+        {
+          "t": "h2",
+          "x": "The effort and its fatigue"
         },
         {
           "t": "p",
-          "x": "[Attention restoration](card:Attention%20restoration): Kaplan's framework that directed attention fatigues with use and that certain experiences and environments, natural ones above all, allow it to recover."
-        },
-        {
-          "t": "p",
-          "x": "[Effortless attention](card:Effortless%20attention): Bruya's term for attention or action experienced as effortless, or exertion with lower-than-normal subjective effort while effectiveness holds."
-        },
-        {
-          "t": "p",
-          "x": "[Ultradian rhythms in attention](card:Ultradian%20rhythms%20in%20attention): the roughly 90-minute basic rest-activity cycle Kleitman proposed, as fluctuations in alertness across the day."
-        },
-        {
-          "t": "p",
-          "x": "[Attention residue](card:Attention%20residue): Leroy's name for what remains of attention on a previous task after switching, degrading the next task while it persists."
-        },
-        {
-          "t": "p",
-          "x": "[Attention management](card:Attention%20management): the practice of governing where attention goes: choosing, protecting, and handling what switching costs."
-        },
-        {
-          "t": "p",
-          "x": "[Sustained attention theory](card:Sustained%20attention%20theory): how people hold a detection-ready state over time, and why that state degrades."
-        },
-        {
-          "t": "p",
-          "x": "[Vigilance decrement](card:Vigilance%20decrement): the decline in the ability to detect critical signals as time on a monitoring task increases; one of the most consistently replicated findings in attention research."
-        },
-        {
-          "t": "p",
-          "x": "James gave the effort its place in the will:"
+          "x": "James gave the effort its place in the will. [The effort of attention](card:The%20effort%20of%20attention) is his phrase from the chapter on will: where a thought prevails with effort, attention is doing the work. In his words, to attend to a difficult object and hold it fast before the mind is the essential achievement of the will when it is most voluntary, and:"
         },
         {
           "t": "q",
@@ -6648,13 +6579,8 @@ window.fcDossiersData = {
           "s": null
         },
         {
-          "t": "q",
-          "x": "\"The essential achievement of the will, in short, when it is most 'voluntary,' is to attend to a difficult object and hold it fast before the mind.\" ([James, Principles of Psychology, vol. 2, ch. XXVI](https://www.gutenberg.org/cache/epub/57634/pg57634.txt))",
-          "s": null
-        },
-        {
           "t": "p",
-          "x": "The degradation of attention over time on task, in the meta-analytic review's own terms:"
+          "x": "That effort runs down. [Directed attention fatigue](card:Directed%20attention%20fatigue) is Kaplan's name for the fatigue of the effortful, voluntarily controlled kind of attention. [Sustained attention theory](card:Sustained%20attention%20theory) asks how people hold a detection-ready state over time and why that state degrades. The [Vigilance decrement](card:Vigilance%20decrement), the decline in the ability to detect critical signals as time on a monitoring task increases, is one of the most consistently replicated findings in attention research. A meta-analytic review states the stakes in everyday terms:"
         },
         {
           "t": "q",
@@ -6662,104 +6588,52 @@ window.fcDossiersData = {
           "s": null
         },
         {
-          "t": "h2",
-          "x": "Attention and the emotional life"
-        },
-        {
           "t": "p",
-          "x": "[Attentional bias research](card:Attentional%20bias%20research): whether what attention selects toward threat contributes to emotional vulnerability or merely accompanies it; the field's question is causal."
-        },
-        {
-          "t": "p",
-          "x": "[Attentional bias theory MacLeod](card:Attentional%20bias%20theory%20MacLeod): anxiety maintained partly by where attention goes; the 1986 dot-probe study founded the paradigm."
-        },
-        {
-          "t": "p",
-          "x": "[Attentional control theory (Eysenck)](card:Attentional%20control%20theory%20%28Eysenck%29): what anxiety does to thinking, developing the processing efficiency account."
-        },
-        {
-          "t": "p",
-          "x": "[Cognitive attentional syndrome Wells](card:Cognitive%20attentional%20syndrome%20Wells): Wells's name, within his self-regulatory executive function model, for the perseverative, self-relevant, negatively loaded style of processing he treats as underlying most psychological disorders."
-        },
-        {
-          "t": "p",
-          "x": "[Avoidance versus attentional engagement](card:Avoidance%20versus%20attentional%20engagement): the behavioural activation model of what keeps depression going: withdrawal brings short-term relief while removing the experiences that could counter the low mood."
-        },
-        {
-          "t": "p",
-          "x": "[Attentional deployment theory](card:Attentional%20deployment%20theory): one of the five families in Gross's process model of emotion regulation: moving attention within a situation toward or away from emotional stimuli."
-        },
-        {
-          "t": "p",
-          "x": "[Positive attention training attentional deployment toward positive stimuli](card:Positive%20attention%20training%20attentional%20deployment%20toward%20positive%20stimuli): the laboratory methods that shift attention toward positive information and test whether emotional responses change."
-        },
-        {
-          "t": "p",
-          "x": "[Regulatory focus theory](card:Regulatory%20focus%20theory): Higgins's promotion and prevention foci; the same goal pursued under the two foci is a different pursuit."
-        },
-        {
-          "t": "p",
-          "x": "[Compassion-focused therapy](card:Compassion-focused%20therapy): Gilbert's approach for high shame and self-criticism, training soothing rhythms of attention among its three emotion-regulation systems."
+          "x": "The day also has a shape, and switches have a residue. [Ultradian rhythms in attention](card:Ultradian%20rhythms%20in%20attention) follow the roughly 90-minute basic rest-activity cycle Kleitman proposed, as fluctuations in alertness across the day. [Attention residue](card:Attention%20residue) is Leroy's name for what remains of attention on a previous task after switching, degrading the next task while it persists. [Attention management](card:Attention%20management) is the practice that answers those two facts: governing where attention goes, choosing, protecting, and handling what switching costs."
         },
         {
           "t": "h2",
-          "x": "The contemplative trainings"
+          "x": "Where it recovers"
         },
         {
           "t": "p",
-          "x": "[Focused-attention meditation](card:Focused-attention%20meditation): directing and sustaining attention on a chosen object, noticing wandering, disengaging, returning."
+          "x": "If effortful attention fatigues with use, the next question is what restores it. [Attention restoration](card:Attention%20restoration) is Kaplan's framework: directed attention fatigues with use, and certain experiences and environments, natural ones above all, allow it to recover. [Effortless attention](card:Effortless%20attention) is Bruya's term for attention or action experienced as effortless, exertion with lower-than-normal subjective effort while effectiveness holds. Restoration concerns recovering after effort; effortlessness concerns exertion that stays low from the start. Whether the two are states of one capacity is a question the sources leave open, and the trainings below take it seriously rather than resolving it."
+        },
+        {
+          "t": "h2",
+          "x": "Where feeling leads it"
         },
         {
           "t": "p",
-          "x": "[Anchors in focused attention meditation](card:Anchors%20in%20focused%20attention%20meditation): the chosen object as the stable point attention is brought back to."
+          "x": "Feeling has opinions about where attention goes. [Attentional bias research](card:Attentional%20bias%20research) asks whether what attention selects toward threat contributes to emotional vulnerability or merely accompanies it; the field's question is causal. [Attentional bias theory MacLeod](card:Attentional%20bias%20theory%20MacLeod) holds that anxiety is maintained partly by where attention goes, and the 1986 dot-probe study founded the paradigm. [Attentional control theory (Eysenck)](card:Attentional%20control%20theory%20%28Eysenck%29) develops the processing-efficiency account of what anxiety does to thinking."
         },
         {
           "t": "p",
-          "x": "[Open-monitoring meditation](card:Open-monitoring%20meditation): non-reactive awareness of moment-to-moment experience without a single object as its explicit focus."
+          "x": "The clinical reach of that question is wide. [Cognitive attentional syndrome Wells](card:Cognitive%20attentional%20syndrome%20Wells) is his name, within the self-regulatory executive function model, for the perseverative, self-relevant, negatively loaded style of processing he treats as underlying most psychological disorders. On the depression side, [Avoidance versus attentional engagement](card:Avoidance%20versus%20attentional%20engagement) carries the behavioural activation model of what keeps depression going: withdrawal brings short-term relief while removing the experiences that could counter the low mood."
         },
         {
           "t": "p",
-          "x": "[Bare attention in mindfulness practice](card:Bare%20attention%20in%20mindfulness%20practice): Nyanaponika Thera's way of observing experience without immediately answering it with action or commentary."
+          "x": "Attention can also be steered on purpose, within a situation. [Attentional deployment theory](card:Attentional%20deployment%20theory) is one of the five families in Gross's process model of emotion regulation: moving attention toward or away from emotional stimuli. [Positive attention training attentional deployment toward positive stimuli](card:Positive%20attention%20training%20attentional%20deployment%20toward%20positive%20stimuli) collects the laboratory methods that shift attention toward positive information and test whether emotional responses change."
         },
         {
           "t": "p",
-          "x": "[Mindful attention](card:Mindful%20attention): attention deliberately trained on present experience; Kabat-Zinn's operational definition is the field's touchstone."
+          "x": "Steering also works through the frame a person brings to a pursuit. [Regulatory focus theory](card:Regulatory%20focus%20theory) shows Higgins's promotion and prevention foci making the same goal a different pursuit."
         },
         {
           "t": "p",
-          "x": "[Anapanasati (mindfulness of breathing)](card:Anapanasati%20%28mindfulness%20of%20breathing%29): mindfulness of in-and-out breathing, the breath as the portable anchor."
+          "x": "Attention can additionally be trained toward safeness. [Compassion-focused therapy](card:Compassion-focused%20therapy), Gilbert's approach for high shame and self-criticism, trains soothing rhythms of attention among its three emotion-regulation systems."
+        },
+        {
+          "t": "h2",
+          "x": "The trainings"
         },
         {
           "t": "p",
-          "x": "[Walking meditation](card:Walking%20meditation): deliberate awareness brought to walking itself: contact, movement, breath."
+          "x": "The contemplative traditions built curricula for attention, and the first family trains selection on a single object. [Focused-attention meditation](card:Focused-attention%20meditation) is directing and sustaining attention on a chosen object, noticing wandering, disengaging, returning. [Anchors in focused attention meditation](card:Anchors%20in%20focused%20attention%20meditation) is the chosen object as the stable point attention is brought back to, and [Anapanasati (mindfulness of breathing)](card:Anapanasati%20%28mindfulness%20of%20breathing%29) makes the breath the portable anchor."
         },
         {
           "t": "p",
-          "x": "[Right concentration](card:Right%20concentration): the eighth factor of the Noble Eightfold Path; the four jhānas, each quieter than the last."
-        },
-        {
-          "t": "p",
-          "x": "[The noticing-wandering-returning cycle in meditation](card:The%20noticing-wandering-returning%20cycle%20in%20meditation): the repeating sequence inside a session of breath-focused meditation; the study behind it measured the cycle's brain signatures, and the training reading is my own framing."
-        },
-        {
-          "t": "p",
-          "x": "[Focusing](card:Focusing): Gendlin's method for attending to experience before it has words, the felt sense as its object."
-        },
-        {
-          "t": "p",
-          "x": "[Attentional control training and the role of repeated redirection](card:Attentional%20control%20training%20and%20the%20role%20of%20repeated%20redirection): practising the noticing of distraction and the return of attention to a chosen object."
-        },
-        {
-          "t": "p",
-          "x": "[Progressive overload in attentional training](card:Progressive%20overload%20in%20attentional%20training): the strength-training analogy applied to attention: raise the demand in steps so the system keeps adapting; the page records a citation gap behind the stronger versions of the claim."
-        },
-        {
-          "t": "p",
-          "x": "[Vigilance theory](card:Vigilance%20theory): Oaten and Cheng's account of self-control as a strength that practice can build."
-        },
-        {
-          "t": "p",
-          "x": "The FA/OM distinction, in the review that introduced it to the meditation-science literature:"
+          "x": "The same attention to a chosen object appears in movement and in collectedness. [Walking meditation](card:Walking%20meditation) brings deliberate awareness to walking itself, contact, movement, breath. [Right concentration](card:Right%20concentration), the eighth factor of the Noble Eightfold Path, holds the four jhānas, each quieter than the last. The review that introduced this family to the meditation-science literature describes the work inside a single sit:"
         },
         {
           "t": "q",
@@ -6767,13 +6641,8 @@ window.fcDossiersData = {
           "s": null
         },
         {
-          "t": "q",
-          "x": "\"One aims to remain only in the monitoring state, attentive moment by moment to anything that occurs in experience without focusing on any explicit object... the 'effortful' selection or 'grasping' of an object as primary focus is gradually replaced by the 'effortless' sustaining of an awareness without explicit selection.\" ([Lutz et al. 2008, Trends in Cognitive Sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/))",
-          "s": null
-        },
-        {
           "t": "p",
-          "x": "The laboratory study that gave the meditation cycle its four intervals:"
+          "x": "The laboratory study that measured the cycle gave it four intervals, and the repeating sequence has its own card in [The noticing-wandering-returning cycle in meditation](card:The%20noticing-wandering-returning%20cycle%20in%20meditation), where the training reading is mine:"
         },
         {
           "t": "q",
@@ -6781,96 +6650,64 @@ window.fcDossiersData = {
           "s": null
         },
         {
-          "t": "h2",
-          "x": "Absorption and its varieties"
+          "t": "p",
+          "x": "The second family trains the monitoring itself rather than the object. [Open-monitoring meditation](card:Open-monitoring%20meditation) is non-reactive awareness of moment-to-moment experience without a single object as its explicit focus; in the same review's terms, the effortful selection of an object is gradually replaced by the effortless sustaining of an awareness without explicit selection. [Bare attention in mindfulness practice](card:Bare%20attention%20in%20mindfulness%20practice) is Nyanaponika Thera's way of observing experience without immediately answering it with action or commentary."
         },
         {
           "t": "p",
-          "x": "[Flow](card:Flow): the state of full immersion in an activity, presented by Csikszentmihalyi in 1975."
+          "x": "The clinical programmes that carried these practices into modern settings gave them measurable form. [Mindful attention](card:Mindful%20attention) carries Kabat-Zinn's operational definition as the field's touchstone, and [Body scan in MBSR (Kabat-Zinn)](card:Body%20scan%20in%20MBSR%20%28Kabat-Zinn%29) is the first formal practice taught in mindfulness-based stress reduction: attention moved slowly through the body, lying on the back."
         },
         {
           "t": "p",
-          "x": "[Hyperfocus theory](card:Hyperfocus%20theory): complete absorption in a task to the point of tuning out everything else; poorly defined within the literature."
+          "x": "The trainings raise the question of what practice does to the capacity. [Attentional control training and the role of repeated redirection](card:Attentional%20control%20training%20and%20the%20role%20of%20repeated%20redirection) practises the noticing of distraction and the return of attention to a chosen object. [Progressive overload in attentional training](card:Progressive%20overload%20in%20attentional%20training) applies the strength-training analogy, raising the demand in steps so the system keeps adapting, and the page records a citation gap behind the stronger versions of the claim."
         },
         {
           "t": "p",
-          "x": "[Effortless attention](card:Effortless%20attention): the Bruya volume's subject: attention or action experienced as effortless, with effectiveness normal or elevated."
+          "x": "The strengthening evidence comes from a related capacity. [Vigilance theory](card:Vigilance%20theory) is Oaten and Cheng's account of self-control as a strength that practice can build."
         },
         {
           "t": "p",
-          "x": "[ADHD — interest-based attention](card:ADHD%20%E2%80%94%20interest-based%20attention): attention driven by strong personal interest or imminent unpleasantness rather than by the importance of the task, in Brown's account."
-        },
-        {
-          "t": "p",
-          "x": "[Autistic cognition — detail-focused processing](card:Autistic%20cognition%20%E2%80%94%20detail-focused%20processing): the weak coherence account: strength in detail and pattern where the typical style pulls for gist and global form."
+          "x": "One tradition works from the other side of words. [Focusing](card:Focusing) is Gendlin's method for attending to experience before it has words, the felt sense as its object."
         },
         {
           "t": "h2",
-          "x": "Attention in the social field"
+          "x": "When attention disappears into its object"
         },
         {
           "t": "p",
-          "x": "[Social attention](card:Social%20attention): the way one person's attention is guided by what others attend to, most clearly through where they look."
+          "x": "The trained end of attention can look like its absence. [Flow](card:Flow) is the state of full immersion in an activity, presented by Csikszentmihalyi in 1975. [Hyperfocus theory](card:Hyperfocus%20theory) names complete absorption in a task to the point of tuning out everything else, and the literature itself flags it as poorly defined. [Effortless attention](card:Effortless%20attention) is also the Bruya volume's subject: attention or action experienced as effortless, with effectiveness normal or elevated."
         },
         {
           "t": "p",
-          "x": "[Attentional synchronisation in groups](card:Attentional%20synchronisation%20in%20groups): group members converge in attentional focus; the gaze of conversational pairs is coupled across several seconds."
+          "x": "Absorption also has styles that differ by person, which keeps any single ideal of attention honest. [ADHD — interest-based attention](card:ADHD%20%E2%80%94%20interest-based%20attention) is Brown's account of attention driven by strong personal interest or imminent unpleasantness rather than by the importance of the task. [Autistic cognition — detail-focused processing](card:Autistic%20cognition%20%E2%80%94%20detail-focused%20processing) is the weak coherence account: strength in detail and pattern where the typical style pulls for gist and global form. A capacity with that much variation in how it engages is not well served by one prescription for how to use it."
         },
         {
           "t": "h2",
-          "x": "Attention in action: process, craft and the economy of the gaze"
+          "x": "Attention between people"
         },
         {
           "t": "p",
-          "x": "[Process focus research](card:Process%20focus%20research): whether attending to the means of a goal works better than attending to its desired result."
-        },
-        {
-          "t": "p",
-          "x": "[Process versus outcome focus](card:Process%20versus%20outcome%20focus): where attention rests while pursuing something: on the controllable actions of the moment, or on the desired result."
-        },
-        {
-          "t": "p",
-          "x": "[The attention economy](card:The%20attention%20economy): Herbert Simon's scarcity, commercialised; the page also carries the contested finding that mere smartphone presence reduces cognitive capacity."
-        },
-        {
-          "t": "p",
-          "x": "[Notification and feed research on attention capture](card:Notification%20and%20feed%20research%20on%20attention%20capture): whether smartphone notifications and infinite feeds pull attention away from what a person is doing; the notification study's distraction effects were comparable to actively using the device."
-        },
-        {
-          "t": "p",
-          "x": "[Heavy media multitasking](card:Heavy%20media%20multitasking): Ophir, Nass and Wagner's media-use pattern: chronic multitasking across incoming streams, studied as a challenge for human cognition."
+          "x": "Attention is also a social act. [Social attention](card:Social%20attention) is the way one person's attention is guided by what others attend to, most clearly through where they look. [Attentional synchronisation in groups](card:Attentional%20synchronisation%20in%20groups) extends this: group members converge in attentional focus, and the gaze of conversational pairs is coupled across several seconds. What one person attends to is partly set by what the people around them are attending to, which makes shared attention a small social fact with large consequences."
         },
         {
           "t": "h2",
-          "x": "The moral face of attention"
+          "x": "At work and under capture"
         },
         {
           "t": "p",
-          "x": "[The craft of attention](card:The%20craft%20of%20attention): Simone Weil's account: the trained capacity to suspend one's own thought so that the thing or person in front of one can appear."
+          "x": "Where attention rests while pursuing something is one of the choices inside the pursuit. [Process focus research](card:Process%20focus%20research) asks whether attending to the means of a goal works better than attending to its desired result. [Process versus outcome focus](card:Process%20versus%20outcome%20focus) names the two places attention can rest: on the controllable actions of the moment, or on the desired result."
         },
         {
           "t": "p",
-          "x": "[The discipline of attention](card:The%20discipline%20of%20attention): Weil's essay on school studies: prayer as attention, and attention to a sufferer as what she calls almost a miracle."
+          "x": "The environment around a person's attention is also engineered. [The attention economy](card:The%20attention%20economy) is Herbert Simon's scarcity, commercialised, and the page carries the contested finding that mere smartphone presence reduces cognitive capacity. [Notification and feed research on attention capture](card:Notification%20and%20feed%20research%20on%20attention%20capture) tests whether smartphone notifications and infinite feeds pull attention away from what a person is doing; in the notification study, the distraction effects were comparable to actively using the device. [Heavy media multitasking](card:Heavy%20media%20multitasking) is Ophir, Nass and Wagner's media-use pattern, chronic multitasking across incoming streams, studied as a challenge for human cognition."
+        },
+        {
+          "t": "h2",
+          "x": "What attention owes"
         },
         {
           "t": "p",
-          "x": "[Spiritual vigilance](card:Spiritual%20vigilance): Pierre Hadot's name for the watchful attention the ancient Stoic kept over his own mind, hour by hour; the Greek term is prosoche."
-        },
-        {
-          "t": "p",
-          "x": "[Body scan in MBSR (Kabat-Zinn)](card:Body%20scan%20in%20MBSR%20%28Kabat-Zinn%29): the first formal practice taught in mindfulness-based stress reduction: attention moved slowly through the body, lying on the back."
-        },
-        {
-          "t": "p",
-          "x": "The theme comes in narrative form too:"
-        },
-        {
-          "t": "p",
-          "x": "[ST023 — Simone Weil on Attention](card:ST023%20%E2%80%94%20Simone%20Weil%20on%20Attention): Weil's essay on school studies: every time we really attend to something, we exercise the same faculty that prayer and friendship require."
-        },
-        {
-          "t": "p",
-          "x": "Weil's own lines, from the essay collected in Waiting for God:"
+          "x": "Simone Weil gave the moral face its strongest statement. [The craft of attention](card:The%20craft%20of%20attention) is her account of the trained capacity to suspend one's own thought so that the thing or person in front of one can appear:"
         },
         {
           "t": "q",
@@ -6878,9 +6715,8 @@ window.fcDossiersData = {
           "s": null
         },
         {
-          "t": "q",
-          "x": "\"The key to a Christian conception of studies is the realization that prayer consists of attention. It is the orientation of all the attention of which the soul is capable toward God.\" ([Weil, Reflections on the Right Use of School Studies](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf))",
-          "s": null
+          "t": "p",
+          "x": "[The discipline of attention](card:The%20discipline%20of%20attention) is her essay on school studies, where prayer consists of attention and attention to a sufferer is what she calls almost a miracle. The ancient Stoics kept a watch of their own. [Spiritual vigilance](card:Spiritual%20vigilance) is Pierre Hadot's name for the watchful attention the Stoic kept over his own mind, hour by hour, the Greek term prosoche. I read Weil as saying that the way a person attends to others is part of how they treat them, and the trainings above as one way that capacity is built."
         },
         {
           "t": "h",
@@ -6901,7 +6737,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Her resolution ties the filter's place to how loaded perception is, in the passage quoted in the map above: under high perceptual load there is no spare capacity for distractors, and under low load capacity spills over to them. The review's own summary of where the research landed:"
+          "x": "Her resolution ties the filter's place to how loaded perception is. The review's own summary of where the research landed:"
         },
         {
           "t": "q",
@@ -6919,11 +6755,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "What remains unresolved is therefore the filter's behaviour under load: the question has been reframed from where selection happens to which kind of load is operating, and the two kinds move distractor processing in opposite directions. A reader managing distraction inherits that as a practical caution: filling perception with the task helps only while the load is perceptual; a mind loaded on control processes lets more in, not less."
+          "x": "What remains unresolved is the filter's behaviour under load: the question has been reframed from where selection happens to which kind of load is operating, and the two kinds move distractor processing in opposite directions. A reader managing distraction inherits that as a practical caution: filling perception with the task helps only while the load is perceptual; a mind loaded on control processes lets more in, not less."
         },
         {
           "t": "h2",
-          "x": "Under what conditions does a wandering mind cost more than it returns?"
+          "x": "Does a wandering mind cost more than it returns?"
         },
         {
           "t": "p",
@@ -6955,7 +6791,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The two papers do not contradict each other: one measures the average mood while wandering, the other proposes boundary conditions under which wandering serves a function. What remains unresolved is where the boundary sits — which tasks, moods and people get the insulation rather than the cost — and whether the contemplative trainings, which treat the noticing of wandering as the trainable moment, are suppressing the default or harvesting it."
+          "x": "The two papers do not contradict each other: one measures the average mood while wandering, the other proposes boundary conditions under which wandering serves a function. What remains unresolved is where the boundary sits, which tasks, moods and people get the insulation rather than the cost, and whether the contemplative trainings, which treat the noticing of wandering as the trainable moment, are suppressing the default or harvesting it."
         },
         {
           "t": "h",
@@ -6972,93 +6808,109 @@ window.fcDossiersData = {
           "x": "The kernels I have selected as sources of that variation:"
         },
         {
+          "t": "h2",
+          "x": "Train the return"
+        },
+        {
           "t": "n",
           "i": 1,
-          "x": "[Breath anchoring](card:K100%20%E2%80%94%20Breath%20anchoring): resting attention on the physical sensation of breathing, noting where it went, returning; the return is the practice, not a failure."
+          "x": "[Breath anchoring](card:K100%20%E2%80%94%20Breath%20anchoring): rest attention on the physical sensation of breathing at the nostrils or belly, and when it wanders, note where it went and return. The return is the practice, not a failure; ten minutes is a sound daily dose."
         },
         {
           "t": "n",
           "i": 2,
-          "x": "[Open monitoring](card:K101%20%E2%80%94%20Open%20monitoring): settling first, then widening attention to whatever arises in the field of awareness, letting it come and go without following or pushing."
+          "x": "[Noting and labeling](card:K103%20%E2%80%94%20Noting%20and%20labeling): silently name what is present, \"breathing,\" \"hearing,\" \"thinking,\" with the label a pointer, not a judgment. Keep the labels short and neutral, in meditation or in daily life."
         },
         {
           "t": "n",
           "i": 3,
-          "x": "[Body scan](card:K102%20%E2%80%94%20Body%20scan): moving attention slowly through the body, noticing sensations in each region without trying to change them."
+          "x": "[Mindful walking](card:K104%20%E2%80%94%20Mindful%20walking): walk at a natural or slightly slowed pace, attending to the sensations of lifting, moving, placing the foot. It is the useful form when the mind is too restless for seated practice."
         },
         {
           "t": "n",
           "i": 4,
-          "x": "[Noting and labeling](card:K103%20%E2%80%94%20Noting%20and%20labeling): silently naming what is present — \"breathing,\" \"hearing,\" \"thinking\" — the label a pointer, not a judgment."
+          "x": "[Body scan](card:K102%20%E2%80%94%20Body%20scan): move attention slowly through the body, noticing sensations in each region without trying to change them. Where there is no sensation, simply note the absence."
         },
         {
           "t": "n",
           "i": 5,
-          "x": "[Mindful walking](card:K104%20%E2%80%94%20Mindful%20walking): attending to the sensations of movement, lifting, moving, placing the foot; useful when the mind is too restless for seated practice."
+          "x": "[Open monitoring](card:K101%20%E2%80%94%20Open%20monitoring): after settling, widen attention to include whatever arises in the field of awareness, letting it come and go without following or pushing it away. Two to five minutes at the end of a sit."
+        },
+        {
+          "t": "h2",
+          "x": "Protect the budget"
         },
         {
           "t": "n",
           "i": 6,
-          "x": "[Single-tasking](card:K105%20%E2%80%94%20Single-tasking): one thing at a time with full attention, the current task protected from interruption for a defined period."
+          "x": "[Single-tasking](card:K105%20%E2%80%94%20Single-tasking): do one thing at a time with full attention, protecting the current task from interruption for a defined period. When you eat, eat; when you walk, walk."
         },
         {
           "t": "n",
           "i": 7,
-          "x": "[Five-senses grounding](card:K106%20%E2%80%94%20Five-senses%20grounding): five things seen, four heard, three touched, two smelled, one tasted; pulling attention out of rumination and into the present sensory field."
+          "x": "[Transition pause](card:K113%20%E2%80%94%20Transition%20pause): between activities, pause for three breaths, noticing the ending of one thing and the beginning of the next. The pause makes deliberate transitions in a day that might otherwise blur together."
         },
         {
           "t": "n",
           "i": 8,
-          "x": "[Soft fascination](card:K107%20%E2%80%94%20Soft%20fascination): time in an environment that gently engages attention without demanding it, letting attention rest and restore."
+          "x": "[Five-senses grounding](card:K106%20%E2%80%94%20Five-senses%20grounding): notice five things you see, four you hear, three you can touch, two you smell, one you taste. Useful for pulling attention out of rumination or anxiety loops and into the present sensory field."
         },
         {
           "t": "n",
           "i": 9,
-          "x": "[Meta-awareness check](card:K108%20%E2%80%94%20Meta-awareness%20check): the periodic question \"where is my attention right now?\", cued to transitions, meals or hourly alarms."
+          "x": "[Meta-awareness check](card:K108%20%E2%80%94%20Meta-awareness%20check): periodically through the day, ask where your attention is right now, noticing without judgment before redirecting. It can be cued to transitions, meals or hourly alarms."
+        },
+        {
+          "t": "h2",
+          "x": "Restore and receive"
         },
         {
           "t": "n",
           "i": 10,
-          "x": "[Quiet eye](card:K109%20%E2%80%94%20Quiet%20eye): before a skilled action, holding a steady final gaze on the target and beginning the movement from inside that stillness."
+          "x": "[Soft fascination](card:K107%20%E2%80%94%20Soft%20fascination): spend 20 to 30 minutes in an environment that gently engages attention without demanding it, water, clouds, trees, a garden. Effort is the one thing that cancels the effect; the restoration shows up later, on the next hard task."
         },
         {
           "t": "n",
           "i": 11,
-          "x": "[Savoring](card:K110%20%E2%80%94%20Savoring): when a pleasant moment occurs, deliberately extending it; building the capacity to receive good experience."
+          "x": "[Scheduled empty time](card:K112%20%E2%80%94%20Scheduled%20empty%20time): block ten to thirty minutes of unfilled time daily, with no agenda, no phone, no podcast. Let the mind wander, settle or do nothing, and protect the time as you would protect a meeting."
         },
         {
           "t": "n",
           "i": 12,
-          "x": "[Scheduled empty time](card:K112%20%E2%80%94%20Scheduled%20empty%20time): ten to thirty minutes of unfilled time daily, no agenda, no phone; the mind allowed to wander, settle or do nothing."
+          "x": "[Savoring](card:K110%20%E2%80%94%20Savoring): when a pleasant moment occurs, deliberately extend it, noticing the sensory details and resisting the urge to move on quickly. Savoring builds the capacity to receive good experience."
         },
         {
           "t": "n",
           "i": 13,
-          "x": "[Transition pause](card:K113%20%E2%80%94%20Transition%20pause): between activities, three breaths, noticing the ending of one thing and the beginning of the next."
+          "x": "[Aesthetic attention](card:K328%20%E2%80%94%20Aesthetic%20attention): spend ten minutes with a work of art, a piece of music, a natural scene or a crafted object, attending to how it appears rather than what it means. Reach for it when the day has become all means and no ends."
         },
         {
           "t": "n",
           "i": 14,
-          "x": "[Compassion-focused breathing](card:K163%20%E2%80%94%20Compassion-focused%20breathing): breathing at a soothing rhythm of roughly five to six breaths per minute while evoking warmth and safeness."
+          "x": "[Compassion-focused breathing](card:K163%20%E2%80%94%20Compassion-focused%20breathing): breathe at a soothing rhythm of roughly five to six breaths per minute while evoking a sense of warmth and safeness. The combination of slow breathing and affiliative affect activates the parasympathetic and soothes the threat system."
+        },
+        {
+          "t": "h2",
+          "x": "Prepare for absorption"
         },
         {
           "t": "n",
           "i": 15,
-          "x": "[Aesthetic attention](card:K328%20%E2%80%94%20Aesthetic%20attention): ten minutes with a work of art, music, scene or crafted object, attending to how it appears rather than what it means."
+          "x": "[Quiet eye](card:K109%20%E2%80%94%20Quiet%20eye): before a skilled action, hold a steady final gaze on the target and begin the movement from inside that stillness. The term is Joan Vickers', for the final fixation before the critical movement."
         },
         {
           "t": "n",
           "i": 16,
-          "x": "[Shared attention](card:K357%20%E2%80%94%20Shared%20attention): with another person, attending to the same thing — a view, music, food tasted together — with the talking left out; the practice takes its shape from joint attention, and from the laboratory finding that shared experiences are stronger than solitary ones."
+          "x": "[Flow block](card:K190%20%E2%80%94%20Flow%20block): protect 45 to 90 minutes for deep, single-tasked work, with notifications cleared, a clear goal and a feedback signal. The steps are my protocol; the conditions they assemble are Csikszentmihalyi's conditions for flow."
         },
         {
           "t": "n",
           "i": 17,
-          "x": "[Flow block](card:K190%20%E2%80%94%20Flow%20block): a block of 45 to 90 minutes protected for deep, single-tasked work, notifications cleared, goal named; the steps are my protocol, and the conditions they assemble are Csikszentmihalyi's conditions for flow."
+          "x": "[Shared attention](card:K357%20%E2%80%94%20Shared%20attention): with another person, attend to the same thing, a view, music, food tasted together, with the talking left out. Reach for it when something good stands in front of two people at once."
         },
         {
           "t": "p",
-          "x": "The evidence limits are uneven across the list, and the kernels say so where it matters: the soft-fascination kernel quotes the experiment behind its mechanism, the aesthetic-attention kernel carries Dewey's account of an experience that runs its course, and several durations (ten minutes for a sit, five to six breaths per minute for the soothing rhythm) are practice-guide conventions rather than tested doses. The general finding behind the family — that attention is trainable — is the AT006 principle, and the cards above carry its evidence."
+          "x": "The evidence limits are uneven across the list, and the kernels say so where it matters: the soft-fascination kernel quotes the experiment behind its mechanism, the aesthetic-attention kernel carries Dewey's account of an experience that runs its course, and several durations (ten minutes for a sit, five to six breaths per minute for the soothing rhythm) are practice-guide conventions rather than tested doses. The general finding behind the family, that attention is trainable, is the AT006 principle, and the cards above carry its evidence."
         },
         {
           "t": "vs",
@@ -7071,7 +6923,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
+          "x": "A cicada catcher, a marathoner, a painter of grids, a philosopher washing dishes: the trainings, the absorptions and the moral face of attention each have their stories."
         },
         {
           "t": "h2",
@@ -12100,7 +11952,7 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "The body is more than the shell the mind rides in. The scientific literatures give it three jobs: the signals it sends upward are part of how emotion is made, the rhythms of breath and heart are part of how calm is made, and the wear of chronic stress is written into the organs. I want to take those jobs seriously, because each one is a place where suffering accumulates or loosens."
+          "x": "The body is more than the shell the mind rides in. The scientific literatures give it three jobs: the signals it sends upward are part of how emotion is made, the rhythms of breath and heart are part of how calm is made, and the wear of chronic stress is written into the organs. I want to take those jobs seriously, because each one is a place where suffering can accumulate or ease."
         },
         {
           "t": "p",
@@ -12108,7 +11960,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Breath is where the theme becomes practical. The classical training traditions and the modern trials meet there, on the same object, and it is the lever most available in an ordinary day."
+          "x": "Breath is where the theme becomes practical. The classical training traditions and the modern trials meet there, on the same object, and it is a readily available entry in an ordinary day."
         },
         {
           "t": "h2",
@@ -12116,19 +11968,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Embodiment: [Embodiment](card:Embodiment) is the philosophical wing of the theme, together with the [lived body](card:The%20lived%20body) and the [body schema](card:Body%20schema)."
+          "x": "Embodiment: [Embodiment](card:Embodiment) names the philosophical wing of the theme, together with the [lived body](card:The%20lived%20body) and the [body schema](card:Body%20schema); where embodiment asks what the body is, this theme also asks what the body's signals and rhythms do."
         },
         {
           "t": "p",
-          "x": "Interoception: [Interoception](card:Interoception), the perception of the body's internal states, is the scientific wing."
+          "x": "Interoception: [Interoception](card:Interoception) is the perception of the body's internal states, one part of the theme, which also includes what is done with the perception, from breath practices to exposure."
         },
         {
           "t": "p",
-          "x": "Physiology: the stress systems and their measures run from the [autonomic nervous system](card:Autonomic%20nervous%20system%20%28sympathetic%20vs%20parasympathetic%29) to [allostatic load](card:Allostatic%20load)."
+          "x": "Physiology: the stress systems and their measures, from the [autonomic nervous system](card:Autonomic%20nervous%20system%20%28sympathetic%20vs%20parasympathetic%29) to [allostatic load](card:Allostatic%20load), are the measurable body; the theme also carries the lived body those systems are measured in."
         },
         {
           "t": "p",
-          "x": "Breath: the practical entry, from [anapanasati](card:Anapanasati%20%28mindfulness%20of%20breathing%29) to the [physiological sigh](card:Physiological%20sigh%20%28Balban%20et%20al.%2C%20Stanford%29)."
+          "x": "Breath: from [anapanasati](card:Anapanasati%20%28mindfulness%20of%20breathing%29) to the [physiological sigh](card:Physiological%20sigh%20%28Balban%20et%20al.%2C%20Stanford%29) is the practical entry, narrower than the theme, which runs from phenomenology to the organs."
         },
         {
           "t": "h",
@@ -12149,7 +12001,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[The lived body](card:The%20lived%20body) is the body one is, not only the body one has. Merleau-Ponty gives that distinction its working content. His [Embodiment](card:Embodiment) is the body's mode of existence as being-toward-the-world, pre-objective and explicable neither as third-person causation nor as representation. [T044 — Merleau-Ponty, Maurice](card:T044%20%E2%80%94%20Merleau-Ponty%2C%20Maurice) carries the same position at its root: perception as the living action of an embodied being already caught up in the world."
+          "x": "[The lived body](card:The%20lived%20body) is the body one is, not only the body one has. Merleau-Ponty gives that distinction its working content. His [Embodiment](card:Embodiment) is the body's mode of existence as being-toward-the-world, pre-objective and explicable neither in terms of third-person causal interactions nor by explicit judgments or representations. [T044 — Merleau-Ponty, Maurice](card:T044%20%E2%80%94%20Merleau-Ponty%2C%20Maurice) carries the same position at its root: perception as the living action of an embodied being already caught up in the world."
         },
         {
           "t": "p",
@@ -12177,7 +12029,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "A newer account changes what the signals are. [Interoceptive inference](card:Interoceptive%20inference) is Seth's predictive account, and the interoception card states it plainly: subjective feeling states arise from actively-inferred generative models of the causes of interoceptive afferents. On this reading, what the body sends is evidence, and the feeling is the brain's best current construction from it. What a feeling is made of, a reception or a construction, is one of the theme's genuine disagreements."
+          "x": "A newer account changes what the signals are. [Interoceptive inference](card:Interoceptive%20inference) is Seth's predictive account, and the interoception card states it plainly: subjective feeling states arise from actively-inferred generative models of the causes of interoceptive afferents. On this reading, what the body sends is evidence, and the feeling is the brain's best current construction from it. In Seth's own paper the proposal is drawn against the accounts of selfhood it discusses: those ground selfhood in representations of physiological condition, with the anterior insula emphasized in some of them, while his identifies emotional states with top-down inference of the causes of interoceptive signals, which, in the paper's words, none of the accounts he discusses do ([Seth 2013](https://www.fil.ion.ucl.ac.uk/~karl/Interoceptive%20inference%20emotion%20and%20the%20embodied%20self..pdf))."
         },
         {
           "t": "p",
@@ -12193,7 +12045,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The systems built for change pay for the accommodation. [Allostatic load](card:Allostatic%20load) is McEwen's wear and tear from chronic over- or under-activity of those systems: the price of adapting to stress that does not end. The [Cortisol awakening response](card:Cortisol%20awakening%20response%20theory), the sharp rise after waking, serves as an index of the system's health and load, which is why researchers read it."
+          "x": "The systems built for change pay for the accommodation. [Allostatic load](card:Allostatic%20load) is McEwen's wear and tear from chronic over- or under-activity of those systems: the price of adapting to stress that does not end. The [Cortisol awakening response](card:Cortisol%20awakening%20response%20theory), the sharp rise after waking, appears to be a distinct feature of the HPA axis; the review the card quotes reports it as influenced by health status and stress perception while its exact function remains unresolved, a research measure that reflects several things rather than a verdict on health or stress."
         },
         {
           "t": "p",
@@ -12209,7 +12061,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The early canon's breath manual is full. [Anapanasati (mindfulness of breathing)](card:Anapanasati%20%28mindfulness%20of%20breathing%29) is the MN 118 instruction: sitting upright in a quiet place, attending to inhalation and exhalation, discerning long from short. [ST068 — The Sixteen Steps of the Breath](card:ST068%20%E2%80%94%20The%20Sixteen%20Steps%20of%20the%20Breath) holds the full manual in four tetrads; the card calls it the most detailed in the early canon and the root text of every breath meditation taught today. [B038 — Practice mindfulness of breathing (anapanasati)](card:B038%20%E2%80%94%20Practice%20mindfulness%20of%20breathing%20%28anapanasati%29) carries the principle form of the same posture and instruction."
+          "x": "The early canon's breath manual is full. [Anapanasati (mindfulness of breathing)](card:Anapanasati%20%28mindfulness%20of%20breathing%29) is the MN 118 instruction: sitting upright in a quiet place, attending to inhalation and exhalation, discerning long from short. [ST068 — The Sixteen Steps of the Breath](card:ST068%20%E2%80%94%20The%20Sixteen%20Steps%20of%20the%20Breath) holds the full manual in four tetrads. [B038 — Practice mindfulness of breathing (anapanasati)](card:B038%20%E2%80%94%20Practice%20mindfulness%20of%20breathing%20%28anapanasati%29) carries the principle form of the same posture and instruction."
         },
         {
           "t": "p",
@@ -12233,19 +12085,27 @@ window.fcDossiersData = {
         },
         {
           "t": "h2",
-          "x": "Can the lived body be explained as an object among objects?"
+          "x": "Can behavior be explained as responses to stimuli?"
         },
         {
           "t": "p",
-          "x": "The phenomenological position is explicit about what it rejects. [Embodiment](card:Embodiment) is explicable neither as third-person causation nor as representation, and Husserl's distinction gives that rejection its terms: the body as lived is not the body as an object among others. The scientific accounts of the body use exactly those forms: [Body representation](card:Body%20representation) carries body information in internal structures, and [Interoceptive inference](card:Interoceptive%20inference) builds feelings from generative models. The disagreement turns on whether those explanations can capture the lived body, and the sources here do not settle it: the phenomenological gloss states what the lived body is not explicable as, and the scientific glosses state what they model. What remains unresolved is whether a first-person medium can be captured by third-person measures at all, and I keep the two literatures side by side rather than adjudicating between them."
+          "x": "The reflex tradition treated behavior as a relation between a stimulus and a reaction, and Pavlov's conditioned reflexes extended the program to learning. Merleau-Ponty's objection, as the SEP entry recounts it, is that the organism is not passive: it imposes its own conditions between the given stimulus and the expected response, so that behavior remains inexplicable in purely anatomical or atomistic terms; the conditioned-reflex accounts rely on gratuitous hypotheses lacking experimental justification, and learning is not the trial-and-error fixing of habitual reactions but an aptitude with respect to typical structures of situations ([SEP, Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/)). The disagreement concerns whether reflex and conditioning accounts suffice to explain organized behavior and learning. I lean with Merleau-Ponty: the passage's own contrast is between fixed reactions and an aptitude for typical situations, and a learned skill is the aptitude, not the stock of reactions."
         },
         {
           "t": "h2",
-          "x": "Are feelings read off the body or built from models of it?"
+          "x": "Is perception built from sensory atoms?"
         },
         {
           "t": "p",
-          "x": "The two readings sit on the same card. In the account [Interoception](card:Interoception) carries from Craig's review, a distinct cortical image of homeostatic afferent activity engenders the body's feelings, a reception of the body's signals. [Interoceptive inference](card:Interoceptive%20inference) recasts the process: subjective feeling states arise from actively-inferred generative models of the causes of interoceptive afferents. The disagreement is about what a feeling is made of, a reception or a construction. What remains unresolved is how much of emotional experience each account can carry."
+          "x": "Empiricism treated sensation as determinate atoms, held to a constancy hypothesis, and explained what perception delivers by association and the projection of memory. Merleau-Ponty's objection is that the basic level of perceptual experience is the gestalt, the meaningful whole of figure against ground, and that the indeterminate and contextual aspects of the perceived world are positive phenomena that cannot be eliminated from a complete account ([SEP, Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/)). The disagreement turns on what the units of experience are. I lean with Merleau-Ponty: what is given first is a whole, a room, a face, a path, and the atoms are what analysis finds afterward."
+        },
+        {
+          "t": "h2",
+          "x": "Does judgment or attention assemble experience?"
+        },
+        {
+          "t": "p",
+          "x": "Intellectualism proposed to fix empiricism's problems by introducing judgment or attention as mental activities that synthesize experience from the sensory givens. Merleau-Ponty's objection is that it adopts empiricism's starting point in dispersed, atomic sensations, and that both approaches read the results of perception, the objective world, back into perceptual experience, falsifying its structure: the spontaneous organization of perceived phenomena themselves ([SEP, Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/)). The disagreement turns on whether perception organizes itself or must be assembled. I find this objection persuasive because adding judgment leaves the disputed starting point, disconnected sensations, unchanged."
         },
         {
           "t": "h",
@@ -12268,7 +12128,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 1,
-          "x": "[Breath anchoring](card:K100%20%E2%80%94%20Breath%20anchoring): rest attention on the physical sensation of breathing at the nostrils or belly, and when it wanders, note where it went and return. The return is the practice, not a failure."
+          "x": "[Breath anchoring](card:K100%20%E2%80%94%20Breath%20anchoring): rest attention on the physical sensation of breathing at the nostrils or belly, and when it wanders, return. Notice where attention went before you return."
         },
         {
           "t": "n",
@@ -12282,17 +12142,17 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 3,
-          "x": "[Interoceptive awareness](card:K111%20%E2%80%94%20Interoceptive%20awareness): tune into subtle body signals, heartbeat, breathing, hunger, tension, temperature, starting with a brief daily check-in: what is my body telling me right now? It builds the bridge between bodily states and emotional awareness."
+          "x": "[Interoceptive awareness](card:K111%20%E2%80%94%20Interoceptive%20awareness): tune into subtle body signals, heartbeat, breathing, hunger, tension, temperature, starting with a brief daily check-in: what is my body telling me right now? Notice which of the signals is easiest to catch and which stays quiet."
         },
         {
           "t": "n",
           "i": 4,
-          "x": "[Body-first emotion work](card:K172%20%E2%80%94%20Body-first%20emotion%20work): when an emotion is hard to locate or name, start with the body: where is the tension, what is the temperature, what is the texture. The body often knows before the mind does."
+          "x": "[Body-first emotion work](card:K172%20%E2%80%94%20Body-first%20emotion%20work): when an emotion is hard to locate or name, start with the body. Notice where the tension sits, its temperature and its texture."
         },
         {
           "t": "n",
           "i": 5,
-          "x": "[Slow breathing (5 to 6 breaths per minute)](card:K194%20%E2%80%94%20Slow%20breathing%20%285%20to%206%20breaths%20per%20minute%29): breathe at approximately five to six breaths per minute for five minutes; the kernel states this frequency maximizes heart-rate variability and activates the parasympathetic nervous system, and that claim is the kernel's own. Useful before stressful events and as a daily reset."
+          "x": "[Slow breathing (5 to 6 breaths per minute)](card:K194%20%E2%80%94%20Slow%20breathing%20%285%20to%206%20breaths%20per%20minute%29): breathe at approximately five to six breaths per minute for five minutes, useful before stressful events and as a daily reset. Notice the breathing pace as you count."
         },
         {
           "t": "h2",
@@ -12301,7 +12161,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 6,
-          "x": "[Interoceptive exposure](card:K118%20%E2%80%94%20Interoceptive%20exposure): deliberately induce feared bodily sensations, spinning, rapid breathing, heart-rate elevation, in a safe context and remain with them. The technique is a named component of cognitive-behavioural treatment for panic disorder, and the component analyses put it among the strongest parts of that treatment."
+          "x": "[Interoceptive exposure](card:K118%20%E2%80%94%20Interoceptive%20exposure): deliberately induce feared bodily sensations, spinning, rapid breathing, heart-rate elevation, in a safe context and remain with them. Notice whether the sensation leads where the fear predicts."
         },
         {
           "t": "h2",
@@ -12310,12 +12170,12 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 7,
-          "x": "[Lived-body description](card:K304%20%E2%80%94%20Lived-body%20description): spend five minutes describing your body as you experience it from the inside, not as it appears from outside. The exercise is the phenomenological reduction in miniature; reach for it when you have become a spectator of your own body."
+          "x": "[Lived-body description](card:K304%20%E2%80%94%20Lived-body%20description): spend five minutes describing your body as you experience it from the inside, not as it appears from outside. Notice whether the description stays with felt experience or shifts to outward appearance."
         },
         {
           "t": "n",
           "i": 8,
-          "x": "[Body-schema noticing](card:K307%20%E2%80%94%20Body-schema%20noticing): throughout the day, notice the implicit sense of where your body ends and the world begins. It shifts in different contexts: larger when confident, smaller when anxious, blurred when absorbed."
+          "x": "[Body-schema noticing](card:K307%20%E2%80%94%20Body-schema%20noticing): throughout the day, notice the implicit sense of where your body ends and the world begins. Notice whether that implicit sense differs across contexts."
         },
         {
           "t": "p",
@@ -12344,7 +12204,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST046 — The Yellow Emperor Climbs Kongtong](card:ST046%20%E2%80%94%20The%20Yellow%20Emperor%20Climbs%20Kongtong): the sage refuses the emperor's question, sends him to sit in stillness for three months, then teaches him to guard the inner and quiet the hearing and sight."
+          "x": "[ST046 — The Yellow Emperor Climbs Kongtong](card:ST046%20%E2%80%94%20The%20Yellow%20Emperor%20Climbs%20Kongtong): the sage refuses the emperor's question; the emperor withdraws for three months and returns, and is then taught to guard the inner and quiet the hearing and sight."
         },
         {
           "t": "p",
@@ -12368,11 +12228,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST265 — Christy Brown's A](card:ST265%20%E2%80%94%20Christy%20Brown%27s%20A): cerebral palsy, one controllable foot, a letter A scraped on the kitchen floor; a body-subject constituted around the limb that answered."
+          "x": "[ST265 — Christy Brown's A](card:ST265%20%E2%80%94%20Christy%20Brown%27s%20A): cerebral palsy, one controllable foot, a letter A drawn on the floor with chalk; a body-subject constituted around the limb that answered."
         },
         {
           "t": "p",
-          "x": "[ST048 — Yayoi Kusama Paints the Hallucinations](card:ST048%20%E2%80%94%20Yayoi%20Kusama%20Paints%20the%20Hallucinations): Kusama has seen fields of dots since childhood, has lived voluntarily in a Tokyo psychiatric hospital since 1977, and paints the hallucinations at architectural scale in the Infinity Mirror Rooms."
+          "x": "[ST048 — Yayoi Kusama Paints the Hallucinations](card:ST048%20%E2%80%94%20Yayoi%20Kusama%20Paints%20the%20Hallucinations): Kusama has seen fields of dots since childhood and took up voluntary residence in a Tokyo psychiatric hospital in 1977."
         },
         {
           "t": "h2",
@@ -12380,7 +12240,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST047 — McCandless and the Bus](card:ST047%20%E2%80%94%20McCandless%20and%20the%20Bus): the Alaskan wilderness, four months, a journal's last legible line."
+          "x": "[ST047 — McCandless and the Bus](card:ST047%20%E2%80%94%20McCandless%20and%20the%20Bus): the Alaskan wilderness, a journal that counted a hundred and thirteen days, its last written entry reading only \"BEAUTIFUL BLUE BERRIES.\""
         }
       ],
       "group": "eemm",
