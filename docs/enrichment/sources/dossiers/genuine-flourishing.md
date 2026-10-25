@@ -1194,3 +1194,15 @@ opened raw). The two deletions (the L177 closer and the L45 redundant
 closer) carry no card dependence. All recasts stand.
 
 Checks: dossier_check.py exit 0 (run again this session).
+
+## Density repair (worker-pplx-dos1-1025g, 2026-10-25)
+
+The flagship dossier carried three dense paragraphs (Aristotle's
+opening, 6 card links in 65 words; the Maslow paragraph, 4 links in
+56 words; the Ryff paragraph, 4 links in 63 words). Each was split so
+no paragraph carries more than three card links; no links were added,
+removed, or reworded, and no prose claims were changed - the splits
+fall at sentence boundaries that were already there. Checks:
+dossier_check.py exit 0 (147 card links, 33 headers, 134 external
+carriers), dossier_density.py 0 dense, dossier_quote_verify.py 2
+checked, 0 not found.
