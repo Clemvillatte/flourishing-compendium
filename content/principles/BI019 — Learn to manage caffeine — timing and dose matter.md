@@ -17,7 +17,7 @@ In a randomised trial, 400 mg of caffeine taken at bedtime, 3 hours before or 6 
 The abstracts cited here do not cover the half-life figure or the effect of caffeine on anxiety, so this page does not make those claims.
 
 **Plain words**
-Caffeine can cut sleep even when you drink it many hours before bed. In the trial, a 400 mg dose six hours before bedtime still disrupted sleep, and the meta-analysis suggested stopping coffee about nine hours before bed. Count back from your bedtime, not from a fixed time of day. Your own tolerance will differ, so use your own sleep as the test.
+The body does not ask when you drank your coffee, only whether it is still holding it. That is the whole trick: the drink leaves slowly, and the hours you count from bedtime, not from the cup. The rule of thumb the research lands on is unfashionably early, roughly nine hours before you want to be asleep. If that sounds extreme, treat it as a starting bid and let your own sleep argue back: skip the afternoon cup for a week and see what changes.
 
 *For example:* If you go to bed at 10:30 p.m., your last coffee would be around 1:30 p.m. It follows the 8.8-hour estimate, and a personal check is to compare how you sleep after a week of earlier coffee.
 
