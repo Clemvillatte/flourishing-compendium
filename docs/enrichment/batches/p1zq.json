@@ -20,7 +20,6 @@
   "A102",
   "A114",
   "A119",
-  "AF004",
   "AF015",
   "AF020",
   "AF022",
@@ -30,7 +29,8 @@
   "AF041",
   "AF052",
   "AF053",
-  "AF057"
+  "AF057",
+  "AF004"
  ],
  "in_progress": null,
  "flagged": {
@@ -51,7 +51,7 @@
   "A102": "Advisor milestone QC repairs applied (2026-10-20, worker-p1zq-4db4ea8b): see ledger QC round 2. Validator ok. Supervisor acceptance pending.",
   "A114": "Advisor milestone QC repairs applied (2026-10-20, worker-p1zq-4db4ea8b): see ledger QC round 2. Validator ok. Supervisor acceptance pending.",
   "A119": "Advisor milestone QC repairs applied (2026-10-20, worker-p1zq-4db4ea8b): see ledger QC round 2. Validator ok. Supervisor acceptance pending.",
-  "AF004": "Advisor milestone QC repairs applied (2026-10-20, worker-p1zq-4db4ea8b): see ledger QC round 2. Validator ok. Supervisor acceptance pending.",
+  "AF004": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.58)",
   "AF015": "SUPERVISOR DISPOSITION 2026-10-25 11:46Z (launcher-pplx-1025c): ACCEPTABLE AS SCOPED under the w1g precedent (title is the compendium's normative principle framing; the body carries only opened, honestly-disclosed evidence and does not assert the title claim as a research finding). Page body re-read this session: the Plain words section itself discloses the exact evidence base (one researcher's proposal, Kuppens 2015, plus a cross-sectional association, Quoidbach et al. 2014); the title's 'fear its absence' imperative is not asserted in the body. inherited title 'fear its absence' not established by the opened sources (Kuppens proposal + cross-sectional emodiversity association); supervisor disposition needed",
   "AF020": "SUPERVISOR DISPOSITION 2026-10-25 11:46Z (launcher-pplx-1025c): ACCEPTABLE AS SCOPED under the w1g precedent (title is the compendium's normative principle framing; the body carries only opened, honestly-disclosed evidence and does not assert the title claim as a research finding). Page body re-read this session: the body presents the two source-grounded distinctions separately (Kahneman & Deaton's emotional vs evaluative well-being aspects; the Berridge & Robinson wanting/liking dissociation) and never asserts a single unified 'different systems' mechanism; the Plain words section frames it as two separate reports. inherited title's 'they are different systems' claim not established by the opened sources (two separate distinctions: well-being measures; wanting/liking); supervisor disposition needed",
   "AF022": "RESOLVED by worker-p1zq-1025b 2026-10-25 (per-item verification): QC milestone rounds 1-2 repairs confirmed — the transmission overstatement repaired (\"transferred to the rest of...\" claim bounded), the mine-or-picked-up binary removed and the example causal conclusion removed per the evidence file's QC history. No page edit needed this session; source verification not repeated; evidence in sources/p1zq/AF022.md; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: QC: transmission overstatement; mine-or-picked-up binary; example causal conclusion]",
@@ -65,6 +65,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T11:46Z",
- "band_done": true
+ "updated": "2026-10-25T12:29:48+00:00",
+ "band_done": false
 }

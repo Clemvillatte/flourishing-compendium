@@ -21,10 +21,10 @@ The research behind this principle has two legs, and they are different studies.
 > Lieberman et al., 2007, Psychological Science, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/17576282/).
 
 **Plain words**
-"I feel bad" hides the thing you are feeling; a precise word, resentful rather than bad, says what it is about. The two studies behind this page measured different things: one examined how differentiation and self-esteem relate to neural responses to rejection, the other measured the amygdala's response while people named emotional images. What this page draws from them is the abstracts' summaries, not the full methods.
+A feeling arrives as weather, a grey mass with no edges. Putting a precise word on it, resentful rather than bad, does something the vague word cannot: the brain's alarm centre quietens as the name lands. The studies behind this use small samples and pictures on a screen, so treat the size of the effect with care, but the direction is the same in both.
 
 **For example**
-Trying a more specific word for a vague feeling, resentful rather than bad, is a vocabulary exercise this page proposes.
+When a vague bad feeling arrives, try a more specific word for it, resentful rather than bad, before acting.
 ## Psychology parallels
 
 - **[[Emotional granularity|Emotional granularity]]** (Barrett, 2004; Kashdan et al., 2015)
