@@ -114,7 +114,9 @@ Plato's Socrates, in the [Cratylus](https://www.gutenberg.org/cache/epub/1616/pg
 
 > "Nor can we reasonably say, Cratylus, that there is knowledge at all, if everything is in a state of transition and there is nothing abiding; for knowledge too cannot continue to be knowledge unless continuing always to abide and exist."
 
-He adds that if the knower and the known exist always, "then I do not think that they can resemble a process or flux," and he leaves open whether things have "this eternal nature" or whether the truth is what Heraclitus says. [Socrates also reports](https://classics.mit.edu/Plato/cratylus.html) that Heraclitus is supposed to say that all things are in motion and nothing at rest, and that you cannot go into the same water twice.
+He adds, in the same [passage](https://www.gutenberg.org/cache/epub/1616/pg1616.txt), that if the knower and the known exist always, "then I do not think that they can resemble a process or flux," and he leaves open whether things have "this eternal nature" or whether the truth is what Heraclitus says.
+
+The flux doctrine itself reaches Socrates secondhand. [In the same dialogue](https://classics.mit.edu/Plato/cratylus.html) he reports that Heraclitus is supposed to say that all things are in motion and nothing at rest, and that you cannot go into the same water twice.
 
 The Dhammapada, in the [Buddharakkhita translation](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html), treats the same fact as the ground of the path:
 
