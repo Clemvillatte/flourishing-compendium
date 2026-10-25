@@ -9,11 +9,17 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Dewey's principle, from Experience and Education: genuine learning comes through experience, and the test of an experience is what it does to later experience. Doing is not enough; the experience has to grow.
 
-> The belief that all genuine education comes about through experience does not mean that all experiences are genuinely or equally educative. Experience and education cannot be directly equated to each other. For some experiences are mis-educative. Any experience is mis-educative that has the effect of arresting or distorting the growth of further experience.
+> The belief that all genuine education comes about through experience does not mean that all experiences are genuinely or equally educative. Experience and education cannot be directly equated to each other. For some experiences are miseducative. Any experience is miseducative that has the effect of arresting or distorting the growth of further experience.
 
 (John Dewey, Experience and Education, 1938, pp. 25-26, quoted in [ERIC EJ1122779](https://files.eric.ed.gov/fulltext/EJ1122779.pdf))
 
-The criterion Dewey sets is continuity: an experience is educative when it lives fruitfully in later experiences, and mis-educative when it narrows them, for example by engendering callousness or landing the learner in a rut. Enjoyable is not the same as educative. My learn-by-doing principles (P042, D072) inherit exactly this qualifier, and PP071 adds the retrieval side: the experience must be worked with, not just had.
+The criterion Dewey sets is continuity: an experience is educative when it lives fruitfully in later experiences, and miseducative when it narrows them, for example by engendering callousness or landing the learner in a rut. Enjoyable is not the same as educative.
+
+> Just as no man lives or dies to himself, so no experience lives and dies to itself. Wholly independent of desire or intent every experience lives on in further experiences. Hence the central problem of an education based upon experience is to select the kind of present experiences that live fruitfully and creatively in subsequent experiences.
+
+(John Dewey, Experience and Education, 1938, [archive.org full text](https://ia601605.us.archive.org/30/items/ExperienceAndEducation/dewey2.pdf))
+
+Dewey adds a direction qualifier: growth is not just any change, and the question for any line of growth is whether it creates conditions for further growth or shuts off avenues of development in other lines. My learn-by-doing principles (P042, D072) inherit exactly this qualifier, and PP071 adds the retrieval side: the experience must be worked with, not just had.
 
 ## Sources
 
