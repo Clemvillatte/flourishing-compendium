@@ -221,3 +221,55 @@ abstract verbatim.
 Checks: dossier_check.py exit 0 (39 card links, 25 headers, 26
 external carriers); density 0; voice audit clean; banned-word grep
 clean. Registry status left "planned" for the supervisor.
+
+## Advisor QC repair pass (2026-10-25, worker-pplx-dos29-1025h, dos29 baton)
+
+Advisor QC on the GF rewrite found a genuine quotation mismatch and
+several evidence issues; all repaired in this pass.
+
+Corrections applied:
+
+- Tangney action-tendencies blockquote had silently joined two
+  non-adjacent sentences (a physiological-research sentence sits
+  between them in the review). Split into two blockquotes; after the
+  split, both halves verify automatically against PMC3083636, which
+  confirms the mismatch diagnosis.
+- Ledger correction to the previous block: the blocked-fetch failure
+  list was one Tangney passage (the joined quote above) plus three de
+  Hooge quotation occurrences, not "Tangney x2 / de Hooge x2". The de
+  Hooge sentences were re-verified by eye against the Tilburg
+  University repository record of the article, fetched directly this
+  session (abstract quoted verbatim; Cognition & Emotion, 2018).
+- Disagreement section: Sartre-vs-appraisal and Spinoza-vs-Nietzsche
+  did not pass the same-question/incompatible-answer test and were
+  moved into the body as unresolved comparisons (Sartre passage in
+  "Being seen"; Spinoza/Nietzsche/Aristotle passage in the aidos
+  thread, with Aristotle labelled as my own lens). Tangney-vs-de Hooge
+  kept as the one documented disagreement, narrowed: the
+  proneness-vs-induced-state "resolution" was deleted (the review's
+  claim is not restricted to proneness) and the lean replaced with a
+  hedged reading that does not generalize the two studies.
+- 3-question disagreement minimum now UNRESOLVED at 1 of 3; flagged
+  for the supervisor, not manufactured.
+- Self-conscious emotions gloss corrected against the actual card
+  (Tracy & Robins family model: embarrassment, guilt, pride, shame;
+  self-evaluation as entry requirement), replacing the unsupported
+  "failures and social-exposure signs" gloss.
+- "Dasein is guilty before it has incurred any debt" (a secondary
+  paper's phrasing) replaced with Heidegger's own §58 wording "need
+  not first load a 'guilt' upon itself through its failures or
+  omissions", per the card's carrier.
+- Deterministic phrasing softened ("corresponds with" for guilt
+  outcomes; "which the feeling presents as beyond repair" for the
+  shame verdict); households/classrooms prevalence claim deleted and
+  replaced with an explicit practice choice; Grace equivalence
+  labelled as my reading; John 8:32 confession gloss grounded in the
+  practice card's own pairing; Retention made first-person;
+  "shame-fasting" typo fixed to "shamefastness"; intro made
+  first-person; inventory wrapper removed.
+
+Checks after repair: dossier_check.py exit 0 (39 card links, 23
+headers, 25 external carriers); density 0; voice clean; quote_verify
+26 checked, 3 not found (de Hooge via PubMed, verified by eye against
+the fetched Tilburg record). Registry left "planned" for the
+supervisor.
