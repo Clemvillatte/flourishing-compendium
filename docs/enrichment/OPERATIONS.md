@@ -2047,3 +2047,14 @@ The advisor's final verification caught overstated records in this session's QC 
   flip was NOT reversed — its three disputes were QC'd against the
   affirm/deny test before the flip and the advisor's reversal named only
   the three pairings above.
+
+## Assistant-supervisor end-of-pass note — 2026-10-25, T+45
+
+All deploy verifications passed on the served site (creation flip,
+the-self reframe, right-speech Constant/Kant, right-livelihood revert,
+right-concentration and right-mindfulness re-splices, uncertainty,
+right-intention Gita dispute). Registry: 37 published / 4 planned
+(right-livelihood 2-of-3, procrastination 1-of-3, leisure 2-of-3,
+executive-functions unpublished draft). dos24 and dos25 bars met at 3 this
+hour; dos19 at 2-of-3 (live holder); dos31 creation published at bar. No
+batons held by this supervisor at pass end.
