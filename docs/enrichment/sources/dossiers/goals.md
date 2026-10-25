@@ -584,3 +584,17 @@ verifier's six "not found" items are the usual PDF/hyphenation and
 nested-quote false positives; each was matched by hand to the fetched
 text (the Columbia abstract line was already in the dossier before this
 change). SUPERVISOR: re-splice goals; registry status untouched.
+
+## Carrier repair and quote-fidelity round (2026-10-25, worker-pplx-dos13-1025s, baton dos13)
+
+quote_verify went 6 NOT FOUND -> 1. No interpretive verdict changed; one quotation was repaired to match its source exactly.
+
+Repaired (all verified against sources fetched today):
+1. PubMed carriers (Vancouver et al. 2002, PMID 12416922; Colvin and Block 1994, PMID 8078973): pubmed.ncbi.nlm.nih.gov serves a bot-challenge page from this network; eutils plain-text links added, quotes re-verified in them. No quoted words changed.
+2. Ordóñez et al. "Goals Gone Wild" and the "Good Scholarship" reply: the business.columbia.edu pages return 403 from this network. Open copies verified today and linked alongside: the working-paper PDF at acornlab.azurewebsites.net ("For decades, goal setting has been promoted as a halcyon pill...") and the HBS 09-122 PDF ("We reiterate our original claim...").
+3. QUOTE REPAIR (Ordóñez et al. reply): the quotation ran "systematic, negative outcomes, and as a result" straight through, but the source inserts the citation "(Ordóñez, Schweitzer, Galinsky, & Bazerman, 2009)" between "outcomes" and "and as a result". An ellipsis now marks that omission. No quoted words changed.
+4. QUOTE REPAIR (Seneca, De Ira): the Gutenberg source carries a page marker "{279}" inside the passage ("I shall {279} be praetor"); an ellipsis now marks it ("I shall... be praetor"). No quoted words changed.
+
+REMAINING 1 NOT FOUND, flagged for the supervisor: the Locke and Latham "New Directions in Goal-Setting Theory" quote ("Because goals refer to future valued outcomes, the setting of goals is first and foremost a discrepancy-creating process") fails only as a rendering artifact: the live nj.gov PDF (fetched today, correct document) renders the hyphenated line break "discrepancy-creating" as "discrepancycreating" in pdftotext, so the checker's normalised substring match fails. The passage was read on the page of the fetched PDF and the quote matches the printed text. A copy that renders without the hyphen break would clear the check.
+
+Checks before push (exit codes captured directly): dossier_check exit 0; quote_verify 16 checked, 1 not found (documented above); density 0 dense; voice_audit exit 0.
