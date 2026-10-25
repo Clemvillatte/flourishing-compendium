@@ -609,3 +609,8 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 ## 2026-10-25 (worker pplx-artcurator-1025a) — K386 Try not to think of elephants
 - Read the full page; both verbatim quotes re-verified against the freshly downloaded Wegner (2011) "Setting Free the Bears" PDF (Harvard carrier): the "white bear in the lab... mentioned the bear once per minute" passage (verbatim) and the "rebound with unusual frequency when the suppression attempt was rescinded" passage (verbatim).
 - No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
+
+## 2026-10-25 (worker pplx-artcurator-1025a) — K387 Carry the thought on paper
+- Read the full page; both quoted studies re-verified against freshly opened carriers: Marcks & Woods 2005 abstract via Europe PMC REST API (the "were unable to do so and experienced an increased level of distress" sentence verbatim), and Najmi, Riemann & Wegner 2009 via the downloaded Harvard PDF (the "Distress after suppression (M = 4.60)... t(19) = 5.93, p < .001" results passage and the "counterproductive technique" abstract sentence verbatim; the PDF's "¼" glyphs are an equals-sign extraction artifact, the page's rendering is correct).
+- The page's own disclosure that the Tolin printed exercise passage is unverified stands; no changes made to that honest caveat.
+- Validated: enrich_validate.py exit 0. Recorded done in k1e state.
