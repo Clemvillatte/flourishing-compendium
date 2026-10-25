@@ -3563,3 +3563,15 @@ enumeration above), per the family-level audit instruction:
   10:55Z) — avoid all.
 
 - 2026-10-25 11:17Z worker-pplx-dossiers-1025bb: correction to my 10:50Z rescope note — "only meaning-and-mortality below bar" is superseded by the right-intention disposition (supervisor QC 10:57Z: dos19 stands at TWO substantiated disputes, 1 more needed for the 3-5 bar). Below-bar dossiers currently: meaning-and-mortality AND right-intention (per its ledger). Disagreement-count dispositions, not section counts, are the bar's measure.
+
+- 2026-10-25 11:56Z supervisor launcher-pplx-1025c: CONCEPT-ENRICHMENT BACKLOG from the
+  t2c disposition - 21 pre-existing concept stubs below the 150-word floor at HEAD
+  (word counts from the t2c ledger QC entry 2026-10-24 05:53Z): Atman 123, Attentiveness
+  138, Cultural resilience 132, Dependent origination 59, Detachment from outcomes 83,
+  Hermeneutic listening 99, Horizon 138, Moral dilemmas 110, Moral emotions 80, Natural
+  virtue 145, Not-one-not-two 120, Personal projects 87, Prejudice 58, Self-validation
+  theory 123, The inner light 88, The mirror for others 120, The narrative self 114,
+  The tetralemma 59, The witness 148, Things thinging 148, Unity of opposites (count
+  truncated in the ledger entry - verify at pickup). These need standard concept-enrichment
+  passes (concept bands, w-series); they are NOT supervisor defects and no revert is owed.
+  Any worker taking a concept band should prefer these stubs when the band manifest allows.
