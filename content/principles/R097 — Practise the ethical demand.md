@@ -18,7 +18,7 @@ Three parts of the original entry need adjusting. It is one-sided: "we will neve
 
 For psychology, Batson (2011) lists four forms of prosocial motivation: self-benefit (egoism), benefit another individual (altruism), benefit a group (collectivism), and "uphold a moral principle" (principlism) ([quoted in a PMC article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9426642/)). That is a motive to uphold a principle. Løgstrup's demand is a claim arising from the situation, so the match is loose. Levinas (1961) is cited at second hand.
 
-**Plain words** Løgstrup says that, simply by dealing with another person, you hold part of their life in your hands. The demand to care for that part comes without conditions, and it does not hand you a rule. You must judge what really serves the other. He called it unfulfillable.
+**Plain words** Trust is the everyday case: some part of another person's life is simply in your hands, and there is an unspoken demand to take care of it. The demand is one-sided, with no basis for a counterdemand, and it does not come with instructions. You are thrown back on judging what serves this person here, and Løgstrup calls the demand unfulfillable.
 
 *For example:* A driver stops for a stranger in a ditch. She cannot assume what help is wanted, so she asks and works out what would serve them.
 

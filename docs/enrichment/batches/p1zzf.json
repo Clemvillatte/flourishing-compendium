@@ -38,9 +38,11 @@
   "R033": "Tier-2 repair + advisor-QC corrections 2026-10-25: Te Ara utu page and Ahu-Hoare 2010 PDF opened verbatim (utu = positive response to friendly acts; rather-more-than-received; dynamic balance); Plain words re-derived without transactional closing framing; validator PASS",
   "R039": "Tier-2 repair + advisor-QC corrections 2026-10-25: Te Aka hau entry opened (vital essence/vitality of person, place or object); Plain words re-derived using dictionary gloss, disputed gift-reading kept as scholarly dispute; validator PASS",
   "R046": "Tier-2 repair + advisor-QC corrections 2026-10-25: Vaioleti 2006 opened (tala/noa, no rigid framework), UNFCCC note opened (purpose: share stories, build empathy and trust), Fiji Times opened (settle difficulties and disputes; no finger pointing); Plain words re-derived, aims stated as aims; validator PASS",
-  "R068": "Tier-2 repair + advisor-QC corrections 2026-10-25: Philopractice Noddings page opened (\"I do not relinquish myself\" verbatim), Noddings 2010 Abstracta opened (expressed needs quote); Plain words re-derived, Batson comparison removed from Plain words; validator PASS"
+  "R068": "Tier-2 repair + advisor-QC corrections 2026-10-25: Philopractice Noddings page opened (\"I do not relinquish myself\" verbatim), Noddings 2010 Abstracta opened (expressed needs quote); Plain words re-derived, Batson comparison removed from Plain words; validator PASS",
+  "R092": "Tier-2 repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived; sources opened verbatim (Jenny Mackness Buber quotes, Rogers-Farson 1957 PDF); body first-person lines (\"passages I found\", \"not a quotation I found\") reworded impersonally; validator PASS",
+  "R097": "Tier-2 repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived; sources opened verbatim (NDPR review, SDU Løgstrup basic-trust paper); one-sided/counterdemand and unspoken-demand claims verified against SDU paper; validator PASS"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T10:53:00+00:00"
+ "updated": "2026-10-25T10:56:00+00:00"
 }
