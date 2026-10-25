@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 the robust bias toward over-crediting the self (Ross, 1977); self-serving attribution and its reversal in depression research.
 
-The original entry's definition is wrong. The fundamental attribution error (FAE) is not a bias toward over-crediting the self. Ross (1977) named it as a bias about explaining other people's behavior, and the original entry's own second line states it correctly. Over-crediting the self belongs to a different idea, self-serving attribution, which I keep as a separate concept. The page below separates the two.
+The fundamental attribution error (FAE) is not a bias toward over-crediting the self. Ross (1977) named it as a bias about explaining other people's behavior. Over-crediting the self belongs to a different idea, self-serving attribution, which is kept as a separate concept. The sections below separate the two.
 
 ### What Ross described
 
@@ -23,11 +23,11 @@ In three experiments, participants estimated the "true" attitude of a person aft
 
 ### The related actor-observer claim
 
-Jones and Nisbett's actor-observer hypothesis says people explain their own behavior with situation causes and other people's with person causes. A meta-analysis of 173 studies found average effect sizes from d = -0.016 to d = 0.095. The asymmetry appeared only in some conditions, such as when the actor was highly idiosyncratic or when hypothetical events were explained. For negative events it held, and for positive events a reverse asymmetry held, which "may indicate a self-serving pattern in attribution, but across valence, no actor-observer asymmetry exists". ([Malle 2006, Psychological Bulletin 132:895-919, PubMed 17073526](https://pubmed.ncbi.nlm.nih.gov/17073526/)) My "others to disposition, self to situation" line is a version of that hypothesis and is not supported as a general rule.
+Jones and Nisbett's actor-observer hypothesis says people explain their own behavior with situation causes and other people's with person causes. A meta-analysis of 173 studies found average effect sizes from d = -0.016 to d = 0.095. The asymmetry appeared only in some conditions, such as when the actor was highly idiosyncratic or when hypothetical events were explained. For negative events it held, and for positive events a reverse asymmetry held, which "may indicate a self-serving pattern in attribution, but across valence, no actor-observer asymmetry exists". ([Malle 2006, Psychological Bulletin 132:895-919, PubMed 17073526](https://pubmed.ncbi.nlm.nih.gov/17073526/)) The "others to disposition, self to situation" line is a version of that hypothesis and is not supported as a general rule.
 
-### What was not checked
+### The depression-reversal claim
 
-The original entry's claim about a reversal of self-serving attribution in depression research was not checked for this page. The meta-analysis above covers valence only, and no depression source is cited.
+No source for a reversal of self-serving attribution in depression research is cited on this page; the meta-analysis above covers valence only.
 
 ### Here
 
