@@ -12,28 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 129** — Point directly at experience
 
-The Bāhiya Sutta gives the instruction this page works from, delivered as a training:
+The Bāhiya Sutta frames its instruction as something to train in:
 
-> "Then, Bāhiya, you should train yourself thus: In reference to the seen, there will be only the seen. In reference to the heard, only the heard. In reference to the sensed, only the sensed. In reference to the cognized, only the cognized. That is how you should train yourself."
+> "In reference to the seen, there will be only the seen. In reference to the heard, only the heard. In reference to the sensed, only the sensed. In reference to the cognized, only the cognized."
 >
 > (Bāhiya Sutta, Ud 1.10, [Thanissaro](https://www.accesstoinsight.org/tipitaka/kn/ud/ud.1.10.than.html))
 
-My reading of the training: it asks for experience with the additions left out, where the additions are the commentary, the self-reference, and the story about what it means. The discourse then states what the training is for:
+The instruction continues by undoing the listener's identification with that experience, ending, "This, just this, is the end of stress" ([Ud 1.10, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/kn/ud/ud.1.10.than.html)). The sutta presents a path to liberation. I borrow a smaller exercise from it: notice a sound, sight or thought, then notice what I have added about myself.
 
-> "When for you there will be only the seen in reference to the seen, only the heard in reference to the heard, only the sensed in reference to the sensed, only the cognized in reference to the cognized, then, Bāhiya, there is no you in connection with that. When there is no you in connection with that, there is no you there. When there is no you there, you are neither here nor yonder nor between the two. This, just this, is the end of stress."
->
-> (Bāhiya Sutta, Ud 1.10, Thanissaro)
+That distinction also asks for care about what I claim to know. Nisbett and Wilson argued that reports of the processes behind a judgement can draw on plausible causal theories rather than direct access to those processes ([Telling More Than We Can Know, p. 231](https://home.csulb.edu/~cwallis/382/readings/482/nisbett%20saying%20more.pdf)). Their argument concerns higher-order cognitive processes. It gives me a reason to distinguish noticing anger from claiming certainty about everything that caused it; [[The limits of introspection|The limits of introspection]] is the question to pursue.
 
-My exercise from these passages: take one current experience and describe it before adding commentary.
+Direct attention, as I use it here, calls for modest descriptions. I can hear a door close and notice the thought "they are angry with me" without treating the thought as evidence of the other person's state of mind.
 
 **Plain words**
-A teaching can tell you what to notice; it cannot do your noticing. When you read about a practice, you hold a description of an experience. When you do the practice, the experience is there to check. This principle asks you to make the comparison yourself: take one thing a teaching describes, and look directly at your own version of it.
+Notice what is happening, then notice the explanation you have given it. I can attend to a thought while leaving its truth open to checking.
 
-*For example:* Imagine you have read descriptions of mindfulness of breathing for months. Sit for ten minutes and attend to the breath itself; the described exercise and the felt breathing are different things, and the second is the one you can check.
+*For example:* Imagine hearing a neighbour's raised voice. You notice its volume, your tightening shoulders and the thought "this is about me". The first two observations leave that last question unanswered. This is an illustration.
 
 ## Sources
 
 - [Bāhiya Sutta, Ud 1.10 (Thanissaro), Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/ud/ud.1.10.than.html) — the direct-pointing instruction and its result
+- [Nisbett and Wilson, "Telling More Than We Can Know: Verbal Reports on Mental Processes," Psychological Review 84 (1977), pp. 231–259](https://home.csulb.edu/~cwallis/382/readings/482/nisbett%20saying%20more.pdf): their argument about access to higher-order cognitive processes.
 
 ## Practice kernels
 
@@ -44,12 +43,14 @@ A teaching can tell you what to notice; it cannot do your noticing. When you rea
 
 ## Psychology parallels
 
-- **[[The limits of introspection|The limits of introspection]]**, and its complement, first-person data as necessary (Nisbett and Wilson, 1977)
+- [[The limits of introspection|The limits of introspection]]: the bounded comparison discussed above.
 
 ## Philosophy parallels
 
-- **[[Showing versus saying|Showing versus saying]]** (Wittgenstein, Tractatus)
-- **[[Phenomenological seeing|Phenomenological seeing]]** (Husserl, Ideas I)
+For comparison:
+
+- [[Showing versus saying|Showing versus saying]]
+- [[Phenomenological seeing|Phenomenological seeing]]
 
 <!-- fc: reflections
 What are you currently reading about that you could verify in one bite — the taste of mangoes versus reading about mangoes? What's your bite?
