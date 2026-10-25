@@ -328,4 +328,14 @@ practices (e.g. a nap, which needs only an alarm) are exempt from the
 guided-recording requirement; the exemption must be recorded in the kpr
 ledger.
 
+Supervisor class ruling (2026-10-25 11:40Z): the exemption extends to
+self-directed written/analytical exercises as a class (thought records,
+audits, card-sorts, reviews, reframes, logs, drills and similar) — the
+numbered protocol is the guidance and no narrator exists by design; the
+kpr ledger entry of that date records the ruling and the nine practices
+still held to the requirement (PMR, witness practice, posture reset, awe
+practice, see-the-small, seasonal noticing, ecological reciprocity,
+sensory nature immersion, the weekly review). Workers on kernel bands
+should not re-flag the exempt class.
+
 QC-pending kernels (K418, K419, K200, K396, K378, K379 as of 2026-10-22) are held honestly at their stated gaps and are NOT exemplars until cleared. K112 was cleared by supervisor QC pass 2026-10-22 (claims verified against the Baird 2012 and Wilson 2014 full texts; ledger entry in kpr ledger). No kernel is yet a verified exemplar: K409 is the candidate awaiting its own verification round (Evidence quotations with locators; guided-version narrator confirmation).
