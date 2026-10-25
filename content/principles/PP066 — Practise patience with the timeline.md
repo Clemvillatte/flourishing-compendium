@@ -23,7 +23,7 @@ On timelines, Lally and colleagues followed 96 volunteers who repeated a daily b
 Sheldon et al. 2013 and Lyubomirsky 2008, which the original entry cites, are cited at second hand. The studies above cover positive psychology interventions and daily habits, not every well-being practice.
 
 **Plain words**
-Well-being practices tend to give small gains, and building a daily habit takes anywhere from weeks to many months. A missed day is not a reset.
+The habit data is kinder than folklore: a daily behaviour took eighteen days to eight months to form, and a missed day did not dent the process. The gains are small-coin, possibly inflated. So plan the miss, keep the streak loose, and judge the practice after a season.
 
 **For example**
 Choose one practice and one daily cue, such as after breakfast. Keep a tally for 12 weeks and do not restart the count after a missed day.

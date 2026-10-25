@@ -25,7 +25,7 @@ For dose, a cross-sectional survey of about 20,000 people in England found that 
 Evidence on stress physiology, and on whether a garden or street tree gives the same benefit as a park, is cited at second hand; "soft fascination" follows the secondary literature rather than Kaplan's original text. The original entry's second study was never named.
 
 **Plain words**
-Walking in nature for 90 minutes reduced rumination in one experiment, but the evidence for restored attention is mixed. People who spend two hours a week in nature report better health, though that does not prove cause.
+One experiment backs one narrow claim: a 90-minute nature walk dropped rumination; the city walk did nothing. Attention-restoration support is thinner, and two hours a week is a survey association, not a cause. Treat nature as a rumination breaker; the rest is plausible, not proven.
 
 **For example**
 Walk for 90 minutes in a park, phone away, and rate how much you ruminated before and after.
