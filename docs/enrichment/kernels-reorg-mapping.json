@@ -1429,9 +1429,14 @@
  },
  "K305": {
   "mods": [
-   "general"
+   "Stoic"
   ],
-  "evidence": []
+  "evidence": [
+   [
+    "card body: \"The Stoic ground is compatible: it is not the sensation that disturbs, but the precipitate judgement about it\" (Epictetian ground, verified in per-card review)",
+    "Stoic"
+   ]
+  ]
  },
  "K306": {
   "mods": [
