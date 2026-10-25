@@ -27,7 +27,7 @@ Implement as three layers: name the commitment (what stays fixed), the trigger (
 
 ### Sources
 
-- Kwakkel, J. H., & Haasnoot, M., "Supporting DMDU: A Taxonomy of Approaches and Tools," ch. 15 in Marchau, V. A. W. J., Walker, W. E., Bloemen, P. J. T. M., & Popper, S. W., eds., *Decision Making under Deep Uncertainty*, Springer, 2019, pp. 355–374 — [TU Delft repository PDF](https://repository.tudelft.nl/file/File_b12e7e51-2d7b-4741-9508-c58dcda02c4a)
+- Kwakkel, J. H., & Haasnoot, M., "Supporting DMDU: A Taxonomy of Approaches and Tools," ch. 15 in Marchau, V. A. W. J., Walker, W. E., Bloemen, P. J. T. M., & Popper, S. W., eds., *Decision Making under Deep Uncertainty*, Springer, 2019, pp. 355–374 — [TU Delft repository PDF](https://repository.tudelft.nl/file/File_b12e7e51-2d7b-4741-9508-c58dcda02c4a); open-access final published version — [Utrecht University repository PDF](https://research-portal.uu.nl/ws/portalfiles/portal/237168481/978-3-030-05252-2_15.pdf) (CC BY)
 - Masicampo, E. J., & Baumeister, R. F., "Committed but Closed-Minded: When Making a Specific Plan for a Goal Hinders Success," *Social Cognition* 30(1), 2012, pp. 37–55 — [author PDF](https://users.wfu.edu/masicaej/MasicampoBaumeister2012SocialCognition.pdf)
 
 ## Related principles (psychology parallels)
@@ -44,6 +44,8 @@ Implement as three layers: name the commitment (what stays fixed), the trigger (
 
 ## Related concepts
 
-- [[Coping flexibility]]
-- [[Implementation intentions]]
-- [[Planning fallacy]]
+- [[Coping flexibility]] — the person-level counterpart: switching strategy when the situation changes rather than holding one method
+- [[Implementation intentions]] — the if-then link is the fixed micro-structure of a plan; adaptive planning leaves the timing of revision open
+- [[Planning fallacy]] — the schedule bias that a plan built for revision is meant to survive
+- [[Outside view / reference class forecasting]] — sizes how often plans like this one fail; adaptive planning decides what to do when they do
+- [[Premeditatio malorum]] — the Stoic rehearsal names the misfortune in advance; adaptive planning names the trigger for switching
