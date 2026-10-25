@@ -684,9 +684,11 @@ standard.
   channel (https://www.youtube.com/watch?v=g3pX3msaA64); watch page
   opened 2026-10-25. Eminent Lecturer Series (2001).
 - Duration: 57:32 (watch page, 2026-10-25).
-- Instructor credentials: Professor John C. Turner, School of
-  Psychology, Australian National University (per the uploader
-  description; institutional page not opened this session).
+- Instructor credentials: Professor John C. Turner, British social
+  psychologist, professor at the Australian National University (1990,
+  retired 2008); co-developer of self-categorization theory (Wikipedia
+  page opened 2026-10-25,
+  https://en.wikipedia.org/wiki/John_C._Turner).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): the nature
   of prejudice and the "prejudice view" of social conflict — its
