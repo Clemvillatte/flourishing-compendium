@@ -18,6 +18,10 @@ The biopsychosocial model is George Engel's 1977 proposal for medicine: a model 
 
 The paper diagnoses the biomedical model as embracing both reductionism and mind-body dualism, and requiring "that disease be dealt with as an entity independent of social behavior". The boundaries between health and disease, Engel writes, "are far from clear and never will be clear, for they are diffused by cultural, social, and psychological considerations".
 
+The remedy Engel proposes is a blueprint rather than a theory, and the wording is worth noticing, since a blueprint is a thing one builds with rather than a claim one holds. The model does not say that the social and psychological dimensions are additional causes to be added to the biological ones; it says that illness has dimensions that the biomedical framework has no room for, and the lack of room is the thing being fixed. The proposal is therefore a change in what a clinician is willing to look at rather than a change in what is being looked at.
+
+The practical reading is that the diffused boundaries Engel names are not a problem waiting for better measurement. A boundary that is diffused by cultural, social and psychological considerations is one that will not become sharp, and the model treats this as a fact about illness rather than as a failure of the model. A person applying the concept can read their own health in more than one dimension without treating the dimensions as competing for the same space.
+
 ### Here
 
 - [[R018 — Practise connection to mind and emotions]]
