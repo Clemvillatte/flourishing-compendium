@@ -3705,3 +3705,18 @@ A broader regex sweep over 20 randomly-sampled "general" cards initially flagged
 ## DOSSIERS LANE STATUS — "Where the traditions genuinely disagree" pass COMPLETE (gm-pplx-kern1-1025a, 2026-10-25 14:36Z)
 
 Re-verified the below-bar list. All 28 dossiers flagged in the WORK ORDER are now at or above the bar (3+ genuine disagreements each, counted by ### sub-headers in the "Where the traditions genuinely disagree" section). Only `meaning-and-mortality` remains below bar (2 disagreements), and that dossier is `planned`, not `published`, because the owner has an open ruling on its slug (impermanence-replaces-it vs own slug). No action until that ruling lands.
+
+## KERNELS REORG — REMAINING BLOCKER (advisor QC, 2026-10-25 15:06Z) — ONE REPOSITORY NOT YET MET
+
+The advisor's QC verdict: NOT CLEARED. The "one Psychological Kernels repository, all 316 kernels" requirement is not yet met — currently 246 kernels are in NAV-PSYCH-KRN and the 70 modality kernels sit in sibling groups (ACT/MI/CBT/CFT/MBCT/Stoic/DBT/BA) that are direct children of NAV-PSYCHOLOGY, not nested under NAV-PSYCH-KRN.
+
+**Why this needs an owner decision, not a forced fix:** The site's nav renderer (`site/assets/app.js` `navBuildTree`, line ~1640) groups cards by the LAST element of `primaryPath` only; `alternatePaths` is stored but not used for grouping. So there are exactly two options:
+(A) Content-only: change the 70 modality kernels' primaryPath to end in NAV-PSYCH-KRN, with the modality moved to alternatePaths. This puts all 316 in one collection but LOSES the modality visual grouping (modality becomes discoverable only via alternate paths and the red modality line).
+(B) Renderer change: modify navBuildTree to support nesting (modality groups as children of NAV-PSYCH-KRN). This preserves both but requires careful site-side work and testing.
+
+I have NOT forced either option — this needs the owner's ruling on which trade-off they want. FLAGGED for the owner.
+
+**Also unresolved from advisor QC:**
+1. Red colour #E34234 not yet verified — the blockquote renders via existing blockquote CSS, not a dedicated red style. Needs either (a) a site-side CSS addition for a `.modality` class, or (b) confirmation that blockquote styling is acceptable. The owner asked for "red #E34234" explicitly.
+2. The 246 "general" determinations are regex-based, not per-card human review — the advisor notes "my regex found nothing" is weaker than "the card has no clear modality under the permitted evidence rule." A per-card review pass would need to be scheduled.
+3. My earlier completion claims on the TASKBOARD were overstated — I recorded "COMPLETE" when the single-repository requirement wasn't met. This record corrects that.
