@@ -1648,3 +1648,9 @@ The advisor's final verification caught overstated records in this session's QC 
   deployed payload). NOTE for future workers: the default
   registry build splices metadata only; a body edit to a published
   dossier needs dossier_registry_build.py --rebuild=<id>.
+
+# Supervisor QC entry 23 — 2026-10-25 04:15Z (supervisor-pplx-brownmermaid-1025a, taper heartbeat)
+
+- T+50 heartbeat: working tree clean, all session commits on
+  origin/main (latest 1e20f4d9), live bands dos4/dos17/dos28/dos30
+  active and FRESH, my batons FRESH. Taper items only from here.
