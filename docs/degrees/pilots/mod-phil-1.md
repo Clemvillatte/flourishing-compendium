@@ -1,9 +1,10 @@
 # Pilot (theory): mod-phil-1 Foundations of Virtue
 
 Phase 0 pilot applying the curriculum-design skill to one theory module.
-Purpose: test the standard, not to ship a final module. The module design
-below is what the deg-philosophy owner will produce for every module once
-this pilot passes advisor review.
+Purpose: test the standard, not to ship a final module. STATUS: DRAFT, NOT
+CLEARED: the advisor's first QC round found open items (recorded at the
+bottom); the module design below is the shape the deg-philosophy owner will
+produce once the pilot passes review.
 
 ## Audit of the current module (facts from fcAcademyData)
 
@@ -37,8 +38,10 @@ Instruction (each outcome taught):
 
 - Outcome 1: the wiki reading (Book I) plus AR-04 (Gresham Aristotle) as the
   definitional lecture, assigned as a whole talk once duration is printed.
-- Outcome 2: AR-01 (Sandel Justice episode 10) as the comparative lecture;
-  Sandel's format is exactly the three-way comparison the outcome needs.
+- Outcome 2: AR-01 (Sandel Justice episode 10) as the CANDIDATE comparative
+  lecture, pending deg-verify confirming from the recording that the episode
+  actually stages the comparison the outcome needs (title alone establishes
+  nothing).
 - Outcome 3: worked example in the module page itself (a short dilemma
    analysed all three ways, faded: the first analysis fully worked, the
    second with steps named, the third left to the learner).
@@ -70,12 +73,25 @@ Workload (honest arithmetic):
 - Current 4-hour claim is therefore unsupported arithmetic; the redesigned
   total will be computed once durations print.
 
-Verification status of attached sources:
+Verification status of attached sources (from fcAcademyData, checked
+2026-10-25):
 
-- AR-01, AR-04, AR-06, ST-03: all "imported", all routed to deg-verify
-  Block A with this module's needs noted (Sandel episode must actually
-  cover the three approaches; the Gresham talk must actually introduce
-  eudaimonia; classify from the recording, not the title).
+- AR-01, AR-04, AR-06 and ST-03 all carry verification_status "imported"
+  with empty durations. All four are routed to deg-verify Block A with this
+  module's needs noted (the Sandel episode must actually stage the three-way
+  comparison; the Gresham talk must actually introduce eudaimonia; classify
+  from the recording, not the title).
+
+## Advisor QC round 1 (open items, 2026-10-25)
+
+- The Sandel episode's content coverage is asserted, not verified: kept as
+  a candidate assignment above, blocked on deg-verify.
+- AR-06 and ST-03 were not inspected beyond their fcAcademyData records;
+  their content coverage is unknown and open.
+- The module needs a completed instruction sequence (assigned readings,
+  segments with printed durations, feedback guidance) before it can pass
+  the pilot review; that is blocked on the verification band returning
+  durations and content confirmation.
 
 ## What this pilot demonstrates
 

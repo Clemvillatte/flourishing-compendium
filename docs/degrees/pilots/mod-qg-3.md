@@ -2,6 +2,8 @@
 
 Phase 0 pilot applying the curriculum-design skill to one practice module
 (deg-qigong). Purpose: test the standard on a training-plan style module.
+STATUS: DRAFT, NOT CLEARED: the advisor's first QC round found open items
+(recorded at the bottom).
 
 ## Audit of the current module (facts from fcAcademyData)
 
@@ -37,28 +39,40 @@ Prerequisites rewritten as observable competencies:
 Instruction (each outcome taught):
 
 - Outcome 1: the single verified medium (QG-M03-01) as the guided
-  instruction, PLUS graduated guided standing sessions of 5, 8 and 12
-  minutes drawn from the verified practice gallery, so the learner always
-  has a guided option at their current standing time (this is the practice
-  degree's version of fading guidance).
+  instruction. Per fcAcademyData it is already verified-video with a
+  printed 5-minute duration (YoQi VOD, free trial access, so its access
+  condition must be labelled), which fills the 5-minute rung only.
+  Graduated guided standing sessions of 5, 8 and 12 minutes drawn from the
+  verified practice gallery would cover the later rungs, so the learner
+  always has a guided option at their current standing time (this is the
+  practice degree's version of fading guidance). Gallery selection and
+  verification is an open item, not done here.
 - Outcome 2: K114 (wiki kernel) for the checkpoint vocabulary, read once at
   module start and again mid-module (spaced retrieval).
 - Outcome 3: the module page teaches reading your own log: a worked example
    of one learner's four-week log with the adjustment reasoning shown.
 
-Practice (the module's spine):
+Practice (the module's spine, with an explicit schedule):
 
-- The weekly ladder stays (5 minutes, plus one minute per week to 15).
-- Week 1 and week 4 posture photograph or sketch (kept from the current
+- The weekly ladder: one rung per week, 5 minutes in week 1, adding one
+  minute per week to 15 minutes in week 11. That is 11 weekly rungs, and
+  at least one logged standing session per week is required, with three
+  sessions per week recommended (the practice-degree norm).
+- Recommended practice arithmetic, summed: three sessions per week at the
+  current rung gives 3 x (5 + 6 + ... + 15) = 3 x 110 = 330 minutes,
+  about 5.5 hours of standing across the 11 weeks. This is an explicit
+  schedule the learner can follow; the earlier draft's four-week evidence
+  window is dropped in favour of the full ladder.
+- Week 1 and week 11 posture photograph or sketch (kept from the current
   design, now feeding outcome 2's self-correction and the log).
 - Two minutes of recall at each session start: name the checkpoints before
   standing (retrieval practice).
 
 Assessment (rubric rewritten to observable criteria):
 
-- Practice log shows at least four weekly sessions with minutes recorded
-  (pass or redo).
-- The week 4 posture photograph is annotated with each checkpoint and a
+- Practice log shows at least one logged session per rung-week with
+  minutes recorded (pass or redo).
+- The week 11 posture photograph is annotated with each checkpoint and a
   correction (the learner marks what changed and why).
 - The final log entry states one adjustment made from log data with a
   reason.
@@ -67,23 +81,40 @@ Assessment (rubric rewritten to observable criteria):
 
 Workload (honest arithmetic):
 
-- Guided instruction: duration of QG-M03-01 plus the graduated sessions,
-  printed from the gallery (measured once the verification band prints
-  them).
-- Practice: 15 sessions across the ladder at 5 to 15 minutes each, about
-  2.5 hours of standing (computed from the ladder, labelled as practice
-  time), plus log writing.
-- The current 4-hour claim covers instruction and reading but not the
-  standing practice itself; the redesign separates the two in the printed
-  total.
+- Guided instruction: QG-M03-01 is 5 minutes (printed); gallery sessions
+  to be printed by the verification band when selected.
+- Practice: about 5.5 hours of standing at the recommended three sessions
+  per week across the 11-week ladder (computed above; minimum schedule,
+  one session per week, is about 110 minutes and still completes the
+  ladder).
+- Log writing and recall: about 15 minutes per week, about 2.75 hours
+  across the module (estimate, labelled).
+- The current 4-hour field is left as the module's legacy claim; the
+  redesigned total (instruction plus 5.5 hours practice plus log time) is
+  computed and printed as separate components per the skill.
 
 Verification status:
 
-- QG-M03-01: "imported"; routed to deg-verify with this module's needs
-  (the recording must actually guide standing practice, not just discuss
-  it; classify from the recording).
+- QG-M03-01: verification_status "verified-video" with a printed 5-minute
+  duration and gate evidence naming the YoQi VOD page (checked in
+  fcAcademyData 2026-10-25); its free-trial access condition must be
+  labelled on the module per the skill's accessibility rule. Content
+  coverage (it must guide standing practice, not only discuss it) was
+  checked by its original verifier per the qigong records; re-confirming
+  from the recording is a light item for the verification band.
 - Gallery sessions to be selected and verified by duration tier (5, 8, 12
   minutes) before attachment.
+
+## Advisor QC round 1 (open items, 2026-10-25)
+
+- The earlier draft wrongly called QG-M03-01 "imported"; corrected above to
+  verified-video with printed duration (the historical audit attributes
+  verified resources to the qigong and cmp sets).
+- The earlier draft's schedule was not reproducible (an 11-rung ladder
+  against four-week evidence); replaced with the explicit weekly schedule
+  above.
+- Gallery session selection remains open and is routed to deg-verify with
+  the module's tier needs.
 
 ## What this pilot demonstrates
 

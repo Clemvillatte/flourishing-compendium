@@ -15,9 +15,13 @@ metadata:
 # Curriculum Design: the binding standard for Academy degrees
 
 Every worker in the Degree Rework project designs and writes against this
-skill. It replaces personal taste with checkable rules. Where this skill and
-an older handoff disagree, this skill wins; flag the conflict in a commit
-message and keep going.
+skill. It replaces personal taste with checkable rules. STATUS: candidate
+standard, piloted but not yet independently validated; owner directives
+and the Phase 0 stop-gate outrank this skill wherever they conflict, and
+conflicts must be flagged in a commit message rather than resolved by
+silence. The research grounding for each rule, with opened sources, is in
+ledgers/design-research.md; rules without grounded support are marked as
+house conventions and stay open to challenge at the pedagogical gate.
 
 ## 1. Theme decomposition (coverage before modules)
 
@@ -69,11 +73,17 @@ Rules:
 - Entry criteria are the exit criteria of prerequisite modules. A module's
   prerequisites field lists observable competencies, not module titles alone.
 - Existing media level tags are legacy. Map them (Beginner and Foundations to
-  L1, Intermediate to L2, Advanced to L3, Mastery to L4) only as a first
-  guess, then re-derive each placement from the resource's actual content.
+  L1, Intermediate to L2, Advanced to L3, Mastery to L4) only as a migration
+  hint, never as evidence of level; re-derive each placement from the
+  resource's actual content.
 - Progression across a degree must increase conceptual complexity and learner
-  independence: L1 modules scaffold heavily, L3 modules withdraw scaffolding,
-  L4 removes it.
+  independence: early modules scaffold heavily, later modules fade the
+  scaffolding, paced by the task and the demonstrated competence of the
+  learner rather than by a fixed rule.
+- The exit criteria above are the house default. Each module may adapt them
+  to its discipline (a theory module's L3 is trial appraisal; a practice
+  module's L3 is adapting the practice from its own records), as long as the
+  adaptation is written into the module and checkable.
 
 ## 3. Module design (constructive alignment)
 

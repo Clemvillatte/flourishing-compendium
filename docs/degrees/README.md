@@ -106,9 +106,12 @@ No degree's author may clear their own coverage or pedagogical gates.
 
 ## Status of this rework (2026-10-25)
 
-Phase 0 in progress: scope docs drafted for all nine degrees, the
-curriculum-design skill authored, taxonomy designed, pilots drafted. The
-multi-agent launch (bands below) follows the plan in OPERATIONS.md. The
+Phase 0 in progress: scope docs drafted as proposals for all nine degrees,
+the curriculum-design skill authored with research grounding (see
+ledgers/design-research.md) and marked as a candidate standard, taxonomy
+designed, pilots drafted and marked DRAFT NOT CLEARED after advisor QC
+round 1. Full-degree curriculum production stays closed until the pilots
+pass independent review. The
 verified audit of the current Academy data (9 degrees, 54 modules, 353
 sources, mixed level labels, 291 unverified imports, 222 missing durations)
 is recorded in docs/DEGREE-REWORK-HANDOFF.md and must not be re-derived from

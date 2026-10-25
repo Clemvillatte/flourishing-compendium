@@ -1,7 +1,11 @@
 # Scope: deg-qigong — Qi Gong — A Year of Practice
 
-Status: draft by the strategist (2026-10-25), pending verification by the
-degree owner against opened sources and the scope gate.
+Status: PROPOSAL by the strategist (2026-10-25), derived largely from the
+existing module titles and the owner's mission; the degree owner must
+benchmark it against opened authoritative curricula and frameworks before
+the scope gate. An exclusion that merely points at a neighbouring degree
+covers that ground only if the prerequisite or elective route is actually
+specified there.
 
 ## Intended learner
 

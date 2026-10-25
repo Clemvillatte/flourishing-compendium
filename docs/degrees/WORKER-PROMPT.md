@@ -37,8 +37,10 @@ theme demands.
   docs/degrees/ and integration-ready patches; the integrator band splices
   the data block.
 - Shared bands: deg-arch (taxonomy, schema vocabulary, curriculum bar),
-  deg-verify (re-verify the imported sources and any new source to the
-  standard; take work from the shared verification queue in TASKBOARD.md),
+  deg-verify-a and deg-verify-b (re-verify the imported sources and any new
+  source to the standard; take a block from the shared verification queue in
+  TASKBOARD.md, write only to your evidence files under
+  docs/degrees/verify/; the two batons never overlap manifests),
   deg-integrate (the only band allowed to edit site/assets/app.js, using
   the safe-splice recipe: raw_decode boundaries, never find/replace the data
   line; node --check and referential validation after every splice).

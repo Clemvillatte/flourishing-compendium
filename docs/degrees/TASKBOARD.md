@@ -24,19 +24,29 @@ Phases: Phase 0 (setup, in progress by the strategist), Phase 1
 
 ## Shared verification queue (deg-verify)
 
-Re-verify the 291 "imported" sources to the skill's standard; each entry
-moves from the queue to the owning degree's ledger as it is verified or
-replaced. Claim a block of 10 by appending "(in progress: your-id)" beside
-it. Priority: sources attached to modules in active degree bands first.
+The verification band re-verifies the 291 "imported" source records to the
+skill's standard. Two parallel batons, deg-verify-a and deg-verify-b, each
+with a non-overlapping manifest; verifiers write ONLY to
+`docs/degrees/verify/<degree>.md` evidence files (their own paths), and
+degree owners consume those files into their ledgers. Each entry moves
+from the queue to the verify file as it is verified or replaced. Claim a
+block by appending "(in progress: your-id)" beside it. Priority: sources
+attached to modules in active degree bands first. Counts below are
+measured from fcAcademyData on 2026-10-25 (attachments counted per module
+reference, unique source ids in brackets):
 
-- Block A: deg-philosophy attached sources (12 items)
-- Block B: deg-contemplative attached sources (15)
-- Block C: deg-relational attached sources (11)
-- Block D: deg-mind attached sources (12)
-- Block E: deg-wellbeing attached sources (8)
-- Block F: deg-therapeutic attached sources (8)
-- Block G: deg-psychology-101 (1)
-- Block H: unattached or mission-page leftovers (remainder of 291)
+- Block A: deg-philosophy attached sources (39 attachments, 36 unique) — deg-verify-a
+- Block B: deg-contemplative attached sources (37, 33) — deg-verify-a
+- Block C: deg-relational attached sources (12, 10) — deg-verify-b
+- Block D: deg-mind attached sources (31, 25) — deg-verify-b
+- Block E: deg-wellbeing attached sources (15, 13) — deg-verify-a
+- Block F: deg-therapeutic attached sources (18, 16) — deg-verify-b
+- Block G: deg-psychology-101 (1, 1) — deg-verify-b
+- Block H: deg-qigong attached sources (21, 17) and deg-cmp (27, 27):
+  mostly already verified by their dedicated agents; re-check only the
+  records still labelled imported — deg-verify-a
+- Block I: remaining unattached "imported" records (the rest of the 291) —
+  split by canonical URL hash between the two batons at claim time
 
 ## Pilots (Phase 0)
 

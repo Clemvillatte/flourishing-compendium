@@ -1,0 +1,10 @@
+{
+ "band": "deg-verify-b",
+ "kind": "shared-verify",
+ "holder": null,
+ "phase": "awaiting-launch",
+ "manifest": "assigned blocks in TASKBOARD.md (never overlap with the other verify baton)",
+ "writes_only": "docs/degrees/verify/",
+ "notes": "See TASKBOARD.md",
+ "updated": "2026-10-25T07:19:45+00:00"
+}

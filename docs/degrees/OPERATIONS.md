@@ -15,9 +15,14 @@ rewrite others.
 - Bands: `deg-philosophy`, `deg-contemplative`, `deg-relational`, `deg-mind`,
   `deg-wellbeing`, `deg-therapeutic`, `deg-psychology-101`, `deg-qigong`,
   `deg-cmp` (one accountable owner per degree), plus shared bands
-  `deg-arch` (curriculum architecture), `deg-verify` (resource verification,
-  parallelisable), `deg-integrate` (the only band allowed to edit
-  site/assets/app.js).
+  `deg-arch` (curriculum architecture), `deg-verify-a` and `deg-verify-b`
+  (resource verification, two parallel batons with non-overlapping
+  manifests; they write only to `docs/degrees/verify/` evidence files,
+  which degree owners consume), `deg-integrate` (the only band allowed to
+  edit site/assets/app.js).
+- Precedence: owner directives and the Phase 0 stop-gate outrank every
+  document in this ecosystem, including the skill. Conflicts are flagged
+  in commit messages, never resolved silently.
 - A degree owner designs the curriculum, writes and repairs modules to the
   skill, and owns that degree's ledger and band file. The architecture band
   owns the shared taxonomy, the fcAcademyData schema vocabulary and the
@@ -61,7 +66,23 @@ one more advisor call.
 
 - 2026-10-25 strategist-pplx-1025: ecosystem created, separated from the
   enrichment and dossiers projects per owner directive. Superskill authored
-  at skill/curriculum-design/Skill.md; taxonomy (L1 to L4) designed;
-  scope docs drafted for all nine degrees; pilots drafted for one theory
-  module (mod-phil-1) and one practice module (mod-qg-3). Advisor QC
-  pending at time of first push; see TASKBOARD for the launch plan.
+  at skill/curriculum-design/Skill.md (research grounding recorded in
+  ledgers/design-research.md); taxonomy (L1 to L4) designed; scope docs
+  drafted as proposals for all nine degrees; pilots drafted for one theory
+  module (mod-phil-1) and one practice module (mod-qg-3).
+- 2026-10-25 strategist-pplx-1025, advisor QC round 1 APPLIED: pilots marked
+  DRAFT NOT CLEARED with open items recorded in each; the practice pilot's
+  wrong "imported" claim about QG-M03-01 corrected to verified-video (5
+  min, YoQi VOD free trial, from fcAcademyData); the practice pilot's
+  schedule made explicit and summed (11-rung ladder, 3 sessions a week,
+  about 5.5 hours standing); verification queue recount from measured
+  attachment data (philosophy 39 attachments, 36 unique, and so on);
+  verifier batons split into deg-verify-a and deg-verify-b with
+  non-overlapping manifests and verifier-owned evidence files; precedence
+  rewritten so owner directives outrank the skill; legacy level-label
+  mappings downgraded to migration hints; scope docs marked as proposals
+  pending benchmarking by degree owners. Open items carried forward:
+  Sandel episode content verification (deg-verify Block A), gallery tier
+  selection for mod-qg-3 (deg-verify), workload-rule research grounding
+  (deg-arch), capstone research grounding (deg-arch), skill-format validator
+  pass on the skill file (platform convention, not blocking in-repo use).
