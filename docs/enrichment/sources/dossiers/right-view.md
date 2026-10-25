@@ -898,3 +898,10 @@ that is made.") is present in the antilogicalism extraction (/tmp/mmk.txt)
 with the known OCR corruption ("self-oatnre", "auscs") — the rendered-page
 visual verification recorded above remains the primary check; this raw pass
 corroborates it. No change to the exceptions' documented status.
+
+The MMK 13.8 justdharma carrier (Garfield translation) was likewise
+re-opened: the verse "The victorious ones have said that emptiness is the
+relinquishing of all views. For whomever emptiness is a view, that one
+will accomplish nothing." is verbatim on the live page. All four of the
+draft's HTML carriers (MN 60, DN 2, justdharma MMK 13.8, SEP) plus both
+PDF-exception sources have now been re-verified this session.
