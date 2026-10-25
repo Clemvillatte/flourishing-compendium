@@ -23,10 +23,10 @@ His example is an Athenian boy, found self-contradictory because he could be "bo
 I use this distinction to ask whether apparent alternatives are incompatible or could hold in different respects.
 
 **Plain words**
-The Athenian boy was tall and short at once; the question "is he tall?" was badly drafted until it said tall for what. For my exercise, take one current either/or, write each side's respect underneath it, and check whether both alternatives can hold in their different respects.
+James's tall-boy puzzle is a lesson in drafting, not in physics. The lad is tall beside his schoolfellows and short beside his father, so the question that seemed to have one answer has two, and neither cancels the other. An either/or usually hides the same trick: behind the stable job and the passion sits a sentence that never said which respect each side was claiming. Write the respects in, and the cage often opens.
 
 *For example:*
-Consider "do I take the stable job or follow my passion?". A both-and draft names the respects: the stable job funds the pottery studio, and the studio makes the job livable. On my reading the original question was not answered but redrafted.
+Consider "do I take the stable job or follow my passion?". A both-and draft names the respects: the stable job funds the pottery studio, and the studio makes the job livable. Read this way, the original question was not answered but redrafted.
 
 ## Sources
 
