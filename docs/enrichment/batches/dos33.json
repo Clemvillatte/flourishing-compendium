@@ -1,8 +1,15 @@
 {
  "batch": "dos33",
  "done": [],
- "note": "minted 2026-10-25 (owner-directed in-session); one dossier per band; see bands/dos33-manifest.json",
  "in_progress": "procrastination",
+ "note": "Corpus-sweep prep recorded 2026-10-25 by worker-pplx-dos32-1025 (same session; dos32 handoff complete, remaining time used for this band's prep). The dossier itself is NOT drafted; this file records the sweep so the next writer can start immediately. No Procrastination.md concept card exists yet; the family is spread across akrasia, delay, temporal-motivation and self-forgiveness cards.",
+ "sweep_title_inventory": {
+  "concepts": ["Akrasia (weakness of will)", "Akrasia", "Delay plus reappraisal", "Delay reduction hypothesis", "Self-forgiveness", "Temporal discounting", "Temporal distancing", "Temporal dynamics of regulation", "Temporal motivation theory", "Temporal self-appraisal theory (Wilson & Ross)", "Temporal-difference reinforcement learning", "Temporality (Zeitlichkeit)"],
+  "kernels": ["K269 Assent delay"],
+  "principles_candidates": ["A056 Recognise akrasia — weakness of will", "A057 Know that akrasia is not invincible", "AF010 Affect has temporal structure", "AT010 Attention has a temporal structure", "E008 Practise the structure of temporality", "MO005 Motivation is temporal — delay reduces motivation", "MO028 Fresh start effect — temporal landmarks", "MO045 Procrastination as emotion regulation, not laziness", "MO049 Remove distractions — environment drives procrastination", "MO050 Self-compassion when procrastinating — guilt backfires", "MO051 Manage energy — procrastination often signals fatigue"],
+  "fulltext_sweep": "rg -il 'procrastinat' content/ returned 47 files (2026-10-25); NOT triaged - the title-sweep family above is the core starting set; a future writer must triage the 47 for stragglers and verify substance by reading each card."
+ },
+ "registry_scope": "Steel's definition (voluntary delay of an intended action despite expecting to be worse off for it); the emotion-regulation account (Sirois and Pychyl); temporal motivation theory and the intention-action gap; akrasia as the classical ancestor; self-forgiveness and self-compassion as evidence-backed repairs; the practice family (implementation intentions, temptation bundling, precommitment). Nearby terms: akrasia, delay, intention-action gap, temporal discounting. Question draft: Why does a person who knows better still postpone, and what actually closes the gap between intending and doing?",
  "flagged": {},
- "notes": "Owner-directed mint 2026-10-25: registry entry added as planned; supervisor review of the mint requested (precedent: Hypo-egoic owner-directed intake). Registry flip and Academy splice remain supervisor-only."
+ "notes": "Owner-directed mint 2026-10-25. Registry status remains planned; flip and Academy splice are supervisor-only. Exemplar dossiers: the-self.md, anger.md; read HANDOFF.md, README.md, DISAMBIGUATION.md, EXEMPLARS.md, HUMANIZER-SKILL.md before drafting. Every quote must be verified word-for-word against an opened carrier; the frustration dossier (dos30, scoped v2 PASS this session) sets the evidence bar: external carriers for every retained gloss or navigation-only links. The Sirois and Pychyl paper (Social and Personality Psychology Compass 2013) and Steel's The Nature of Procrastination meta-analysis (Psychological Bulletin 2007) are the two load-bearing external sources named in the scope; open them fresh before quoting."
 }
