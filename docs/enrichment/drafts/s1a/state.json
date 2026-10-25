@@ -910,7 +910,7 @@
    "stid": "ST427"
   },
   "s1a-021": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "Bunyan Grace Abounding P184 twice-born",
    "history": [
     {
@@ -941,6 +941,11 @@
      "t": "2026-10-23T11:48:59+00:00",
      "to": "qc_pending",
      "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T14:01:30+00:00",
+     "to": "ready",
+     "note": "verification pass: all 15 ledger quotes re-matched in the re-downloaded Gutenberg 654 text (one apostrophe-style difference noted); ready"
     }
    ],
    "stid": "ST428"
@@ -1786,5 +1791,5 @@
    ]
   }
  },
- "updated": "2026-10-25T14:01:10+00:00"
+ "updated": "2026-10-25T14:01:30+00:00"
 }
