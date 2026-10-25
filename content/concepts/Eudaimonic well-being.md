@@ -15,6 +15,14 @@ In Ryan and Deci's 2001 review, the eudaimonic approach to well-being focuses on
 
 The review traces the label to eudaimonism: "It lies instead in the actualization of human potentials. This view has been called eudaimonism (Waterman 1993), conveying the belief that well-being consists of fulfilling or realizing one's daimon or true nature." For measurement, the review records Ryff and Keyes's six aspects of psychological well-being as it summarizes them: "autonomy, personal growth, self-acceptance, life purpose, mastery, and positive relatedness" (all quotes: Ryan and Deci 2001).
 
+### The needs behind it
+
+Self-determination theory gives the eudaimonic approach its working mechanism: "SDT posits three basic psychological needs—autonomy, competence, and relatedness—and theorizes that fulfillment of these needs is essential for psychological growth (e.g. intrinsic motivation), integrity (e.g. internalization and assimilation of cultural practices), and well-being (e.g. life satisfaction and psychological health), as well as the experiences of vitality... and self-congruence" (Ryan and Deci 2001, [open PDF](https://selfdeterminationtheory.org/SDT/documents/2001_RyanDeci_Happiness.pdf)). On this account eudaimonic well-being is tied to need fulfillment rather than to positive feeling alone. The review's authors state the point directly: "We wholly concur that well-being consists in what Rogers (1963) referred to as being fully functioning, rather than as simply attaining desires" (Ryan and Deci 2001).
+
+### Where the pursuit goes wrong
+
+The review also names the failure mode: "placing too much priority on material goods (as well as goals such as fame and image), which in themselves do not satisfy basic psychological needs, can at best only partially satisfy the needs, and at worst can distract from foci that would yield need fulfillment" (Ryan and Deci 2001). The studies it summarizes suggest that progress toward intrinsic goals enhances well-being, while progress toward extrinsic goals such as money either does not enhance it or does so to a lesser extent (Ryan and Deci 2001).
+
 ## Cited in philosophy parallels
 
 
