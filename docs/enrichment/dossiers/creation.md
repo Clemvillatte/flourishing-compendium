@@ -105,7 +105,7 @@ On the maker: Bergson's joy passages:
 
 > "wherever there is joy, there is creation; the richer the creation, the deeper the joy. The mother beholding her child is joyous, because she is conscious of having created it, physically and morally." ([Bergson, "Life and Consciousness"](https://www.anthologialitt.com/post/henri-bergson-life-and-consciousness))
 
-The diary study found a lagged association: days with more reported creative activity than usual were followed by higher activated positive affect and flourishing, the reverse was not supported, and the observational design does not establish causation. And on Bergson's account the making changes the maker: "we are, to a certain extent, what we do, and that we are creating ourselves continually."
+The diary study found a lagged association: days with more reported creative activity than usual were followed by higher activated positive affect and flourishing, the reverse was not supported, and the observational design does not establish causation. And on Bergson's account the making changes the maker: "we are, to a certain extent, what we do, and that we are creating ourselves continually." ([Bergson, Creative Evolution, ch. 1](https://www.gutenberg.org/files/26163/26163-h/26163-h.htm))
 
 Maslow and Frankl give the maker's fulfilment different directions. Maslow, naming the need he called self-actualization in 1943, gives the maker's own completion as the stake — "A musician must make music, an artist must paint, a poet must write, if he is to be ultimately happy. What a man can be, he must be." ([Maslow, "A Theory of Human Motivation", 1943](https://psychclassics.yorku.ca/Maslow/motivation.htm))
 
