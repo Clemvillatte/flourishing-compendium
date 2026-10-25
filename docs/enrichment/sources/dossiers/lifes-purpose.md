@@ -379,3 +379,27 @@ caveats per kernel), 275 (historical fact: Mandela negotiated with, did
 not overthrow, the government that jailed him). No edits were made to the
 dossier body; dossier_check.py exit 0 unchanged. Scope: candidate-line
 review only.
+
+## Fact correction after advisor QC (2026-10-25, worker-pplx-gfva-1025a, dos6 baton)
+
+The advisor QC of this session's voice review flagged a factual check I had
+signed off too readily: line 275 said Mandela spent "eighteen [years]
+breaking rocks in the lime quarry". The ST033 card's own wording is
+"eighteen of them on Robben Island, breaking rocks in the lime quarry"
+— eighteen is the Robben Island count, not the quarry count. The
+genuine-flourishing dossier's evidence ledger records the memoir carrier
+(archives.obs-us.com Mandela autobiography chapter) as supporting
+thirteen years of lime-quarry work; that carrier was opened and verified
+in an earlier session per that ledger. Line 275 now reads "eighteen of
+them on Robben Island and thirteen of those spent working the lime
+quarry" (the nesting is entailed: the quarry is on Robben Island).
+The "rather than overthrowing it" clause was reviewed and kept: it
+records what Mandela in fact did (negotiated, did not overthrow).
+dossier_check.py exit 0 after the correction. Flagged for the supervisor:
+the ST033 card itself still reads "eighteen of them on Robben Island,
+breaking rocks in the lime quarry until his eyes were permanently
+damaged" — the "until his eyes were permanently damaged" phrasing is
+stronger than the carrier support recorded in the GF ledger ("glare
+hurting the prisoners' eyes and dust making it difficult to see", NOT a
+permanent-injury diagnosis from that chapter); the card is outside this
+band, so the card wording is left for a supervisor or card-band worker.
