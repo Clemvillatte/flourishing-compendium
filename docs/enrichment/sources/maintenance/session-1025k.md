@@ -36,3 +36,7 @@
 ## B015 Nothing exists alone (interbeing)
 - Carrier opened: Awakin.org "Clouds In Each Paper" (tid=222). All quotes verified verbatim.
 - Repair: the page attributed the passage to "The Sun My Heart"; Awakin gives no book, so attribution reduced to the reading title. Removed duplicate quotation, invented "4 a.m." / "three weeks" details and the spill example; added the sunshine, logger, wheat and parents steps that the text actually contains.
+
+## P048 Think reflectively
+- Carrier opened: Dewey, How We Think, Gutenberg pg37423.txt, ch. 1. Columbus passage, definition, and "To maintain the state of doubt..." verified verbatim.
+- Repair: "opens How We Think with Columbus" corrected to ch. 1 §1; removed invented "fifty small corrections / same month twelve times" example and "schedule" claim; Dewey's Columbus lines now quoted. Fixed run-together parallels line.
