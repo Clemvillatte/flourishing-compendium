@@ -271,7 +271,7 @@ registry stays "planned" per the worker dossier-band rules (the
 writer does not flip it). The owner reader gate remains the open
 question for the supervisor/owner.
 
-## QC repair round 2 (worker-pplx-ef25-launcher, baton dos35, 2026-10-25 ~10:40Z)
+## QC repair round 2 (worker-pplx-ef25-launcher, baton dos35, 2026-10-25 10:35Z)
 
 Advisor QC round 2 supplied further corrections; all applied:
 
@@ -316,7 +316,7 @@ an individual with ADHD needs stimulation and interest in order to
 ameliorate some ADHD traits." (p. 18) both present, supporting the
 interest-based-account attribution. PMID identities verified live
 against the NCBI eutils plain-text abstracts this session: PMID
-2747412 [27474142] = "A Multilab Preregistered Replication of the
+27474142 = "A Multilab Preregistered Replication of the
 Ego-Depletion Effect" (Hagger et al. 2016); PMID 10457761 =
 "Longitudinal improvement of self-regulation through practice:
 building self-control strength through repeated exercise" (Muraven,
@@ -333,3 +333,35 @@ STATUS: candidate ready for the supervisor's publication decision;
 registry stays "planned" per the worker dossier-band rules. The
 owner reader gate is an INHERITED UNRESOLVED FLAG from earlier dos35
 sessions, not a newly established owner ruling this session.
+
+## QC repair round 3 (worker-pplx-ef25-launcher, baton dos35, 2026-10-25 10:37Z)
+
+Advisor QC round 3 (final verification) supplied three further
+corrections; all applied:
+
+1. Remaining contrast scaffolds rewritten affirmatively: "not
+   summoning force but keeping the chosen object..." -> "keeping the
+   chosen object in possession of the field of thought..."; "of the
+   attending rather than a separate push" trimmed to "of the
+   attending"; "a failure mode, not a success with a cost" -> "a
+   failure mode in its own right"; "design around the executive
+   rather than exhort it" -> "design around the executive";
+   Retention's "the grip image... brief rather than heroic" -> "the
+   holding itself... so that the holding is brief"; Story intro's
+   "The stories below show... in lives rather than in tasks" -> "In
+   these stories the suite works, strains and tunes itself in
+   lives."; James intro's "and it is not a push" dropped (the
+   quotation carries it); "The controller question the opening
+   names" -> "The controller question" (page self-reference).
+2. Nearby terms Attention bullet: the page-description clauses
+   ("My attention page holds the general science; this one
+   follows...") replaced with an actual distinction between
+   attention and the executive suite.
+3. Ledger hygiene: the wrapped PMID line corrected to "PMID 27474142";
+   round-2 header and my board/batch timestamps corrected to the
+   captured clock readings (10:35Z).
+
+Checks after round 3 (exit codes captured directly, no pipes): see
+the commit message. STATUS unchanged: candidate ready for the
+supervisor's publication decision; registry stays "planned"; the
+owner reader gate remains an inherited unresolved flag.

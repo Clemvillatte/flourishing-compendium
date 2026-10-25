@@ -12,7 +12,7 @@ The question has two halves. The first is cost: holding a plan against distracti
 - **Working memory**: the holding part: keeping a plan active while other thoughts compete. A capacity with known limits, not a virtue ([Working memory model Baddeley](https://clemvillatte.github.io/flourishing-compendium/#card=Working%20memory%20model%20Baddeley)).
 - **Cognitive flexibility**: the switching part: releasing one frame when the situation has changed. In the triad below it is the Shifting factor ([Cognitive flexibility](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20flexibility)).
 - **Akrasia**: the classical name for knowing the better and doing the worse. The Greeks asked what kind of person fails this way ([A056 — Recognise akrasia — weakness of will](https://clemvillatte.github.io/flourishing-compendium/#card=A056%20%E2%80%94%20Recognise%20akrasia%20%E2%80%94%20weakness%20of%20will)).
-- **Attention**: on James's account, the substance of will itself. My attention page holds the general science; this one follows what happens when attention holds a plan.
+- **Attention**: on James's account, the substance of will itself. Attention is the wider capacity that selects and holds objects; the executive suite is what that holding draws on when the object is a plan competing against other pulls.
 
 ## The mind's management suite
 
@@ -60,11 +60,11 @@ The synthesis DeWitt draws from the evidence is direct: "we could therefore desc
 
 ### James: willing as effortful attention
 
-William James, reading his own volition from the inside, came to a conclusion that sits oddly well beside this controversy. What we call will, he argued, has one observable component, and it is not a push:
+William James, reading his own volition from the inside, came to a conclusion that sits oddly well beside this controversy. What we call will, he argued, has one observable component:
 
 > "The essential achievement of the will, in short, when it is most 'voluntary,' is to ATTEND to a difficult object and hold it fast before the mind." (James, [The Principles of Psychology, 1890, chapter XXVI](https://www.yorku.ca/pclassic/James/Principles/prin26.htm))
 
-On this account the hard part of keeping a resolution is not summoning force but keeping the chosen object in possession of the field of thought against whatever else is pulling at it. The motor consequences, James says, are a "physiological incident" of the attending rather than a separate push ([P068 — Will is the effort of attention](https://clemvillatte.github.io/flourishing-compendium/#card=P068%20%E2%80%94%20Will%20is%20the%20effort%20of%20attention)). Read this way, what holds a plan in place is a grip: attention holding the plan where action can find it.
+On this account the hard part of keeping a resolution is keeping the chosen object in possession of the field of thought against whatever else is pulling at it. The motor consequences, James says, are a "physiological incident" of the attending ([P068 — Will is the effort of attention](https://clemvillatte.github.io/flourishing-compendium/#card=P068%20%E2%80%94%20Will%20is%20the%20effort%20of%20attention)). Read this way, what holds a plan in place is a grip: attention holding the plan where action can find it.
 
 The Buddhist tradition approaches effort from a different angle. The Buddha's words to Soṇa, a former lute player straining in meditation, take an instrument as their whole psychology of effort:
 
@@ -86,11 +86,11 @@ The strength-model tradition treats self-control as trainable in bulk. In its la
 
 In a six-week program (N = 174) of daily cognitive or behavioral self-control tasks, Miles and colleagues report that "we found no evidence that training led to any improvements in self-control", and conclude that "training self-control through repeated practice does not result in generalized improvements in self-control" ([Miles et al. 2016](https://eprints.whiterose.ac.uk/id/eprint/107549/3/Does%20Self-Control%20Improve%20With%20Practice%20Final%20Manuscript%20with%20Supp%20Refs.pdf); [White Rose abstract page](https://eprints.whiterose.ac.uk/id/eprint/107549/)).
 
-Separately from the empirical dispute, the Sona Sutta gives effort advice rather than a measurement: over-aroused persistence produces restlessness, which is a failure mode, not a success with a cost ([Thanissaro, AN 6.55](https://www.accesstoinsight.org/tipitaka/an/an06/an06.055.than.html)). My practice cards mostly side with tuning: protect attention by design, and treat cognitive flexibility as the capacity that lets go of a dead frame ([CO045 — Cultivate cognitive flexibility — the capacity to switch between modes](https://clemvillatte.github.io/flourishing-compendium/#card=CO045%20%E2%80%94%20Cultivate%20cognitive%20flexibility%20%E2%80%94%20the%20capacity%20to%20switch%20between%20modes)).
+Separately from the empirical dispute, the Sona Sutta gives effort advice rather than a measurement: over-aroused persistence produces restlessness, which is a failure mode in its own right ([Thanissaro, AN 6.55](https://www.accesstoinsight.org/tipitaka/an/an06/an06.055.than.html)). My practice cards mostly side with tuning: protect attention by design, and treat cognitive flexibility as the capacity that lets go of a dead frame ([CO045 — Cultivate cognitive flexibility — the capacity to switch between modes](https://clemvillatte.github.io/flourishing-compendium/#card=CO045%20%E2%80%94%20Cultivate%20cognitive%20flexibility%20%E2%80%94%20the%20capacity%20to%20switch%20between%20modes)).
 
 ### Should working memory retain a separate executive component?
 
-The controller question the opening names has a documented dispute inside it: how should working memory represent control? The model's own architects give the retain side:
+The controller question has a documented dispute inside it: how should working memory represent control? The model's own architects give the retain side:
 
 > "We see the central executive as a separate set of control resources that can interact with the rest of the system in many ways" ([Hitch, Allen & Baddeley 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11783980/)).
 
@@ -106,7 +106,7 @@ I favour treating the executive as a working description whose component functio
 
 ::Variation:: Executive capacities vary, between people and within the same person across a day, a mood and a body state. A plan that held easily at nine in the morning can slip at eleven. The practices below are chosen so that the holding does not depend on feeling strong.
 
-::Selection:: I have kept the practices that design around the executive rather than exhort it, and the tuning checks that catch the two failure modes, restlessness and slackness, before they become self-blame.
+::Selection:: I have kept the practices that design around the executive, and the tuning checks that catch the two failure modes, restlessness and slackness, before they become self-blame.
 
 ### Design the field before the effort
 
@@ -124,11 +124,11 @@ I favour treating the executive as a working description whose component functio
 
 4. Deliberately switch frames, a route, an interpretation, a plan, while a task is live, so that shifting stays a capacity and not a threat ([CO045 — Cultivate cognitive flexibility — the capacity to switch between modes](https://clemvillatte.github.io/flourishing-compendium/#card=CO045%20%E2%80%94%20Cultivate%20cognitive%20flexibility%20%E2%80%94%20the%20capacity%20to%20switch%20between%20modes)). Notice: the difference between abandoning an aim and abandoning one route to it.
 
-::Retention:: What stays is the grip image: the work of will is the holding of the chosen object before the mind, and most of the rest, the environment, the pace, the plan's shape, can be arranged so that the holding is brief rather than heroic.
+::Retention:: What stays is the holding itself: the work of will is the holding of the chosen object before the mind, and most of the rest, the environment, the pace, the plan's shape, can be arranged so that the holding is brief.
 
 ## Story: the executive caught in the act
 
-The stories below show the suite working, straining and tuning itself in lives rather than in tasks.
+In these stories the suite works, strains and tunes itself in lives.
 
 ### Precommitment and the mast
 

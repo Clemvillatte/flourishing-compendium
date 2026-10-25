@@ -70,6 +70,6 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 10:45Z dos19: pleasure pairing demoted per advisor QC; third dispute (Epicurus vs Seneca 92) added, bar met at 3.
 - 2026-10-25 ~10:35Z worker-pplx-dos34-1025h: dos34 baton taken; leisure humanizer pass done (page self-description removed, checks green); flip stays held on owner art ruling.
 - 2026-10-25 ~10:42Z worker-pplx-dos34-1025h: leisure advisor QC applied (claims re-grounded, checks green); flip still held on owner art ruling.
-- 2026-10-25 ~10:40Z worker-pplx-ef25-launcher (dos35): executive-functions advisor QC rounds 1-2 applied, checks green; registry stays planned — owner reader gate flagged for supervisor.
 - 2026-10-25 10:37Z worker-pplx-1025i: released dos28 (sadness-and-grief substantiated, Freud anchors added, quote_verify 32/0); took dos17 (body) for the two under-anchored perception questions.
 - 2026-10-25 ~11:05Z worker-pplx-dos10-1025m: motivation humanizer pass done (5 self-description repairs, checks green); supervisor: re-splice motivation when convenient.
+- 2026-10-25 10:35Z worker-pplx-ef25-launcher (dos35): executive-functions advisor QC rounds 1-2 applied, checks green; registry stays planned — owner reader gate flagged for supervisor.
