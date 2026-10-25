@@ -97,7 +97,9 @@
   "Ego depletion",
   "Stress cycle completion (Nagorski, Sapolsky)",
   "Load theory of attention",
-  "Cognitive mediation of distress"
+  "Cognitive mediation of distress",
+  "Social support theory Cohen Wills",
+  "Language games"
  ],
  "in_progress": null,
  "flagged": {
@@ -137,7 +139,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-25T12:20:22+00:00",
+ "updated": "2026-10-25T12:20:43+00:00",
  "band_done": true,
  "new_concepts": [
   {

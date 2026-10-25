@@ -17,6 +17,10 @@ Cohen and Wills's account distinguishes two proposed relationships between socia
 
 Cohen reports that the review found buffering patterns when studies measured perceived availability of support, and main effects when they measured numbers of social relationships ([1992 retrospective](https://garfield.library.upenn.edu/classics1992/A1992JA16900001.pdf)). He interprets these measurement differences as reflecting different social and psychological processes ([same retrospective](https://garfield.library.upenn.edu/classics1992/A1992JA16900001.pdf)).
 
+### Two designs, not rivals
+
+The two hypotheses are less rivals than two designs. The main-effect model reads support as a standing good, like income or fitness, whose benefits show up across stress levels; the buffering model reads it as a reserve that matters where the stress lands. The measurement split Cohen reports gives the practical content: asking someone how many people they can count on and asking how many people they know are different questions, and they track different processes. The first, perceived availability, is the variable a person can build in advance of trouble; the second is a fact about a life's shape that changes slowly.
+
 ## Related concepts
 
 - [[BI050]] — experiments that placed physical warmth in the same prepared-safety category as supportive others

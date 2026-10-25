@@ -7,13 +7,17 @@ file: "Language games"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-L"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter L", "parent": ""}
 ---
-I use "Language games" for Wittgenstein's later concept. The Wikipedia article on the concept:
+The page uses "Language games" for Wittgenstein's later concept. The Wikipedia article on the concept:
 
 > "A language-game (German: Sprachspiel) is a philosophical concept developed by Ludwig Wittgenstein, referring to simple examples of language use and the actions into which the language is woven." ([Wikipedia, Language game (philosophy)](https://en.wikipedia.org/wiki/Language_game_(philosophy)))
 
 ### Meaning as use
 
 The article carries Wittgenstein's own formulation: the concept was intended "to bring into prominence the fact that the speaking of language is part of an activity, or a form of life" ([Wikipedia, Language game (philosophy)](https://en.wikipedia.org/wiki/Language_game_(philosophy))). It also quotes the term's designation: forms of language simpler than the entirety of a language itself, "consisting of language and the actions into which it is woven" and connected by family resemblance ([Wikipedia, Language game (philosophy)](https://en.wikipedia.org/wiki/Language_game_(philosophy))). The article's illustration: "Depending on the context, for example, the utterance 'Water!' could be an order, the answer to a question, or some other form of communication" ([Wikipedia, Language game (philosophy)](https://en.wikipedia.org/wiki/Language_game_(philosophy))).
+
+### What the game framing does
+
+The concept's work is deflationary. Where the Tractatus sought the essence of language, the later Wittgenstein teaches attention to the ordinary occasions on which words do their work, and the game in the name is deliberate: a game has rules, moves and a point, and learning it is learning to play rather than to theorize. The family-resemblance tie matters as much, since the games are not instances of one thing but kin to one another, which is why there is no single definition of language to give. The practical reading for self-work follows the Water! example: the same sentence can be an order or an answer depending on the surrounding game, so understanding a thought includes knowing which game it is a move in.
 
 ## Facets
 
