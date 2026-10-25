@@ -1,7 +1,7 @@
 {
  "baton": "dos15",
- "agent": "supervisor-margauth1839068",
- "clocked_in": "2026-10-25T02:08:49+00:00",
+ "agent": "worker-pplx-dos15-1025i",
+ "clocked_in": "2026-10-25T03:53:17+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-dos27-mint",
@@ -32,8 +32,12 @@
    "at": "2026-10-25T02:08:49+00:00",
    "from": "worker-pplx-dos15-1025d",
    "reason": "stale (23 min)"
+  },
+  {
+   "by": "worker-pplx-dos15-1025i",
+   "at": "2026-10-25T03:53:17+00:00",
+   "from": "supervisor-margauth1839068",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-25T02:10:32+00:00"
+ ]
 }
