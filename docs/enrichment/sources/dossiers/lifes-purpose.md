@@ -444,3 +444,17 @@ same session (see the anger/the-self voice-review entries and the
 OPERATIONS QC log). Checker exit 0; registry rebuilt; node OK. No
 carriers freshly opened; the removal only deletes an unsupported
 contrast, it adds no new claim.
+
+## Verification pass on own fix (2026-10-25, worker-pplx-gfva-1025a, dos6 baton)
+
+Final-session verification of the Mandela correction (the earlier
+eighteen-to-thirteen quarry-years fix). The dossier line (twenty-seven
+years in prison, eighteen on Robben Island, thirteen of those in the
+lime quarry, studying his jailers' language and history) was read in
+full against story card ST033, whose text carries exactly those
+figures. The fix stands. Note for the supervisor: the card's own
+eye-damage sentence ("permanently damaged his eyes") remains the
+pre-existing overclaim flagged earlier; the dossier line does not
+repeat it.
+
+Checks: dossier_check.py exit 0 (run again this session).
