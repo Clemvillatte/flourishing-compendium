@@ -33,6 +33,7 @@ stay in the loop; agents keep it current with one-line entries.
   queue is overloaded (rules in OPERATIONS.md).
 
 ## Log
+- 2026-10-25T11:18Z worker-pplx-dos29-1025aa: took dos29; shame-and-guilt 9 flags separated by paper/carrier, all verified raw; ledger updated.
 <<<<<<< HEAD
 - 2026-10-25T11:17Z worker-pplx-dos30-1025aa: took dos30; suffering Enchiridion span machine-verifies via Wikisource carrier; quote_verify clean.
 =======

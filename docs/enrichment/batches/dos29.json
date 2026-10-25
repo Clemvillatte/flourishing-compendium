@@ -1,6 +1,13 @@
 {
  "batch": "dos29",
- "done": [],
+ "done": [
+  {
+   "id": "shame-and-guilt-flag-followup",
+   "date": "2026-10-25T11:18Z",
+   "worker": "worker-pplx-dos29-1025aa",
+   "note": "Nine NOT FOUND spans separated by paper and carrier: de Hooge 2018 abstract spans verbatim via eutils, full-text span basis remains Tilburg record; Miceli-Castelfranchi spans verbatim in PMC6143989 raw HTML (tag-spacing + apostrophe notes); no text change; gates green."
+  }
+ ],
  "review": [
   "shame-and-guilt"
  ],

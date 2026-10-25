@@ -449,3 +449,33 @@ shame social-approach span, "Whereas psychology literature typically
 portrays shame...") verified verbatim in the efetch abstract. One of
 the flagged PubMed spans is now machine-verified; the remaining flags
 are the documented bot-wall/extraction-artifact classes.
+
+## Flag follow-up: carriers and spans separated (2026-10-25, worker-pplx-dos29-1025aa, baton dos29)
+
+Follow-up to the 11:13Z hand-off. The nine NOT FOUND spans span TWO
+papers, not one, and the carrier situation differs per span (all verified
+raw this session, no LLM in the path):
+(1) de Hooge et al. 2018, "The social side of shame: approach versus
+withdrawal" (PubMed 29303420): the opening span ("Whereas psychology
+literature typically portrays shame as being bad for social relations,
+motivating social avoidance and withdrawal...") and the social-approach
+span ("to be together with others (social approach) over being alone
+(social withdrawal)") are both VERBATIM in the PubMed abstract (eutils
+efetch, opened this session). The "Two studies (N = 148 and N = 133)"
+span is FULL-TEXT material, not in the abstract; its verification basis
+remains the previously-opened Tilburg record per the entry above, and
+the PubMed page can never machine-carry it.
+(2) Miceli and Castelfranchi 2018 (PMC6143989): "Whereas shame implies a
+self-evaluation of inadequacy, guilt implies a self-evaluation of
+harmfulness" and "We question that shame coincides with being afraid of
+others' disapproval" are both in the PMC page's server-rendered HTML
+(opened this session via the fetch tool's raw mode, self-grepped); the
+page prints the italics as markup, which leaves a space before the comma
+after "inadequacy" when tags are stripped, and uses a curly apostrophe in
+"others'" where the dossier uses a straight one — the wording is
+otherwise exact.
+Gates re-run: dossier_check OK, density 0 dense, quote_verify 35
+checked / 9 not found — the PubMed and PMC carriers are challenge-walled
+to the checker's plain fetch (documented above and in this entry). No
+dossier text changed. SUPERVISOR: re-splice shame-and-guilt when
+convenient; nothing further owed on these flags.
