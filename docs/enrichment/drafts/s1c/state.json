@@ -58,6 +58,11 @@
      "t": "2026-10-21T12:19:34+00:00",
      "to": "published",
      "note": "supervisor registration ST357-364 this session; story_check 0 errors each"
+    },
+    {
+     "t": "2026-10-25T14:45:05+00:00",
+     "to": "ready",
+     "note": "published ST357-364; bot-wall re-check: Brill primary re-opened, 6/6 quotes verbatim; silkqin secondary 429 but carries no retained quotes"
     }
    ]
   },
@@ -1102,5 +1107,5 @@
    ]
   }
  },
- "updated": "2026-10-25T13:29:46+00:00"
+ "updated": "2026-10-25T14:45:05+00:00"
 }
