@@ -5,7 +5,7 @@ type: "kernel"
 title: "Values card-sort"
 file: "K150 — Values card-sort"
 tags: ["applied-practice", "topic/meaning"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-VALUES"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-MI"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-VALUES"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.05 — 5. Values and Motivation", "parent": ""}
 ---
 > **Kernel K150** — Values card-sort
@@ -36,6 +36,8 @@ What this evidence does not test: the card sort as a standalone intervention. Th
 ### A guided version
 
 No guided version is supplied here.
+
+> **Therapeutic approach: MI**
 
 ## Operationalises
 

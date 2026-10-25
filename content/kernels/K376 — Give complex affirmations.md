@@ -67,6 +67,8 @@ What the sources do not test: the passages give the method's account of affirmin
 - [Miller, W. R., & Moyers, T. B. (2021). *Effective Psychotherapists: Clinical Skills That Improve Client Outcomes*. Guilford Press — excerpt carried on [Scribd](https://www.scribd.com/document/1022295432/Miller-Moyers-Effective-Psychotherapists-pp19-53)]
 - ["What's New in MI-4", motivationalinterviewing.org PDF](https://motivationalinterviewing.org/sites/default/files/what_new_in_mi-4.pdf)
 
+> **Therapeutic approach: MI**
+
 ## Operationalises
 
 - [[B112 — Practice gratitude — recognize your conditions|B112 Practice gratitude: recognize your conditions]] — **complement**: gratitude recognizes your conditions; complex affirmation names the quality someone else brought. Different moves, same direction.

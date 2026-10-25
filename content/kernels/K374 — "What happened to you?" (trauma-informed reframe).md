@@ -49,6 +49,8 @@ What the sources do not test: these passages describe the paradigm, not an evalu
 
 - [Wikipedia — Trauma-informed care](https://en.wikipedia.org/wiki/Trauma-informed_care)
 
+> **Therapeutic approach: MI**
+
 ## Operationalises
 
 - [[D080 — Dissolve rigid right and wrong (qiwu)|D080 Dissolve rigid right and wrong (qiwu)]] — **grounding**: dissolving the right/wrong frame in favor of history.

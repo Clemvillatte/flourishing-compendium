@@ -39,6 +39,8 @@ The same discussion warns against over-reliance on simple reflections: sticking 
 
 These passages describe reflective listening; they do not provide outcome evidence for the everyday exercise presented here.
 
+> **Therapeutic approach: MI**
+
 ## Operationalises
 
 - [[D082 — Don't impose your frame on others|D082 Don't impose your frame on others]] — **grounding**: guessing at the meaning is how you avoid installing your own frame.

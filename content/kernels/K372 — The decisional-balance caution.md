@@ -27,6 +27,8 @@ Adapted from Miller & Rollnick, *Motivational Interviewing* (4th ed.), ch. 6, p.
 3. If genuinely undecided: build the full balance sheet, giving all four squares equal attention, so that whichever choice you make is one you can stand behind.
 4. If you are helping someone: check your own investment. The more you want a particular outcome, the more carefully you stay neutral.
 
+> **Therapeutic approach: MI**
+
 ## Operationalises
 
 - [[D080 — Dissolve rigid right and wrong (qiwu)|D080 Dissolve rigid right and wrong (qiwu)]] — **practical application**: refusing to arm both sides equally when you've already chosen a direction.

@@ -45,6 +45,8 @@ What the sources do not test: the passage describes the reflex; it does not eval
 
 - [Miller, W. R. & Rollnick, S. (2012). Motivational Interviewing: Helping People Change (3rd ed.). Guilford Press — PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
 
+> **Therapeutic approach: MI**
+
 ## Operationalises
 
 - [[D082 — Don't impose your frame on others|D082 Don't impose your frame on others]] — **grounding**: noticing the urge to impose your solution is where non-imposition starts.

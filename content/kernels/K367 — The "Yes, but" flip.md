@@ -51,6 +51,8 @@ The rewrite keeps both sides of the ambivalence in the sentence. The MI findings
 
 What the sources do not test: the passages quoted are the MI background; the specific "but to and" move is attributed to Drapkin's workbook, cited at second hand, and the sources opened here do not evaluate it. The move's MI-tradition form is carried in published MI training materials (see the All Rise MI Toolkit quote above), and no trial cited on this page isolates the flip as an intervention.
 
+> **Therapeutic approach: MI**
+
 ## Operationalises
 
 - [[D080 — Dissolve rigid right and wrong (qiwu)|D080 Dissolve rigid right and wrong (qiwu)]] — **analogy**: qiwu in a sentence — not letting one side erase the other.

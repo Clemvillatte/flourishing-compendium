@@ -23,6 +23,8 @@ Do not ask "Why aren't you higher?" — that invites the reasons-against.
 
 Adapted from Drapkin, ch. 4, PDF pp. 1403–1404; and Miller & Rollnick (4th ed.), ch. 6, p. 92 (scaling questions).
 
+> **Therapeutic approach: MI**
+
 ## Operationalises
 
 - [[AF006 — Accept mixed feelings; do not force them to resolve|AF006 Accept mixed feelings; do not force them to resolve]] — **grounding**: the "why not 0?" question evokes the reasons-for without suppressing the reasons-against.

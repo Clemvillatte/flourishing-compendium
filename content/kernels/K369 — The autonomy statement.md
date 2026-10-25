@@ -39,6 +39,8 @@ The reactance passage quoted on K368 is this book's continuation of the same par
 
 What the sources do not test: the quoted passages explain autonomy support; they do not establish the effect of this exact script or its use as self-talk.
 
+> **Therapeutic approach: MI**
+
 ## Operationalises
 
 - [[D133 — Don't dominate — the world can't be controlled|D133 Don't dominate: the world can't be controlled]] — **analogy**: managing less and influencing more, in one sentence.

@@ -37,6 +37,8 @@ And its shape in practice:
 
 What the sources do not test: the quoted passages explain the sequence's rationale and shape; they do not establish the effect of this everyday lay version.
 
+> **Therapeutic approach: MI**
+
 ## Operationalises
 
 - [[D082 — Don't impose your frame on others|D082 Don't impose your frame on others]] — **grounding**: asking before offering is the frame-imposition check.
