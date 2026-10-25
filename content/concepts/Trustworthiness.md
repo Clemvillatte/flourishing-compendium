@@ -27,7 +27,7 @@ Aristotle marks the virtue's scope himself: "I call him Truthful, because we are
 ## Sources
 
 - Aristotle, Nicomachean Ethics, Book IV, the chapter on truthfulness, D.P. Chase translation, Project Gutenberg full text: [gutenberg.org/cache/epub/8438/pg8438.txt](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)
-- Aristotle, Nicomachean Ethics, Book IV, Chapter IX (the truthfulness chapter, Chase translation) — the seed line's 'IV.3' was a Bekker-numbering convention this carrier does not use; the chapter is IX in Chase's own headings
+- Aristotle, Nicomachean Ethics, Book IV, Chapter IX (the truthfulness chapter, Chase translation) — the seed line's 'IV.3' was an incorrect locator; the chapter is IX in Chase's own headings
 
 ## Cited in philosophy parallels
 
