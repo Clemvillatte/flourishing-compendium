@@ -280,3 +280,13 @@ are card-faithful as well as doctrinally sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
 review only; no external carriers freshly opened this pass.
+
+## Revision — GF-model rewrite (2026-10-25, worker-pplx-dos2-1025c, dos3)
+
+Per DOSSIER-MODEL.md and SUPERVISOR-REVIEW.md ("others ... and the rest of the published map-format set — Not yet reworked"), the map format is dissolved: the `## The map: the entries on cognition` body is rewritten as a continuous thread with question-driven subsection headings (two speeds; where thinking happens; how beliefs form and hold; when thinking hurts; can thinking be changed; thinking over a life; reach and limits). Ledger of this revision:
+
+- All quoted fragments kept verbatim; each was verified word-for-word against an opened carrier by the prior dos3 worker per this ledger's "Carriers opened and compared" record (revision 1). No new quotes added this session; no carrier re-opened. The new prose around them is drawn from the previous version's per-entry glosses, which this ledger records as compressed restatements of the linked cards' own opening claims.
+- Card-link inventory: 87 unique card links before, 87 after — LINKS-IDENTICAL (diff verified).
+- New this session: bridging sentences between movements, a first-person opening paragraph, and the closing instrumental-reason paragraph; all substantive claims trace to the card glosses they replace.
+- dossier_check.py exit 0 (92 card links resolve, 17 headers, 11 external carriers); dossier_density.py 0 dense (2.0 links per paragraph after splitting two four-link paragraphs).
+- app.js / registry.json untouched (supervisor-only); compiled site payload still carries the old map-format cognition — supervisor rebuild flagged in the commit message.
