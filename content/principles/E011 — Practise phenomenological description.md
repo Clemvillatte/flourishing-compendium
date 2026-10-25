@@ -64,7 +64,6 @@ While waiting for a delayed train, describe the experience: watching the clock, 
 - [[K351 — The meaning question|K351 The meaning question]]
 - [[K352 — Moral injury audit|K352 Moral injury audit]]
 - [[K353 — Values-based decision review|K353 Values-based decision review]]
-- [[K318 — Absurd-revolt practice|K354 The absurd practice]]
 ## Psychology parallels
 
 - **[[Phenomenological psychology|Phenomenological psychology]]** (Giorgi, 2009; Colaizzi, 1978)

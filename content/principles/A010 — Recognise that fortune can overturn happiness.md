@@ -43,7 +43,6 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 - [[K319 — Non-avoidant grief work|K319 Non-avoidant grief work]]
 - [[K321 — Dignity conversation|K321 Dignity conversation]]
 - [[K322 — Future-self dialogue|K322 Future-self dialogue]]
-- [[K318 — Absurd-revolt practice|K354 The absurd practice]]
 ## Psychology parallels
 
 - **[[Resilience|Resilience research]]**, the capacity to recover from adversity predicts well-being (Bonanno, 2021)

@@ -53,7 +53,6 @@ As a small exercise inspired by the method, describe how a familiar room appears
 - [[K336 — Contamination sequence audit|K336 Contamination sequence audit]]
 - [[K351 — The meaning question|K351 The meaning question]]
 - [[K352 — Moral injury audit|K352 Moral injury audit]]
-- [[K318 — Absurd-revolt practice|K354 The absurd practice]]
 ## Psychology parallels
 
 - **[[Mindfulness]]** (Kabat-Zinn, 1990; Baer et al., 2006)

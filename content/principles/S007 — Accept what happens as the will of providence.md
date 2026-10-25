@@ -82,7 +82,6 @@ Suppose someone else receives the promotion you wanted. You might seek feedback,
 - [[K336 — Contamination sequence audit|K336 Contamination sequence audit]]
 - [[K351 — The meaning question|K351 The meaning question]]
 - [[K352 — Moral injury audit|K352 Moral injury audit]]
-- [[K318 — Absurd-revolt practice|K354 The absurd practice]]
 ## Psychology parallels
 
 - **[[Radical acceptance|Radical acceptance]]**, accepting reality as it is, not as you wish it to be (Linehan, 1993)

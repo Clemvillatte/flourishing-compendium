@@ -48,8 +48,16 @@ def protected_errors(body_old, body_new, typ):
     errors = []
     # Preserve complete markup, including aliases, and repeated occurrences.
     markup = lambda body: collections.Counter(re.findall(r'\[\[[^\]]+\]\]', body))
-    if markup(body_old) - markup(body_new):
-        errors.append('original wikilink markup changed or removed')
+    removed = markup(body_old) - markup(body_new)
+    if removed:
+        # Supervisor allowance (2026-10-25): a removed link is not a loss when its
+        # target is still linked elsewhere in the new body. Covers duplicate-alias
+        # cleanup, e.g. the stale 'K354 The absurd practice' alias (E012/A010/E011/S007)
+        # whose target K318 was already correctly linked on the same page.
+        targets_new = {m.split('|')[0].strip() for m in markup(body_new)}
+        lost = {m for m in removed if m.split('|')[0].strip() not in targets_new}
+        if lost:
+            errors.append('original wikilink markup changed or removed')
     reflections = lambda body: re.findall(r'<!--\s*fc:\s*reflections\b.*?-->', body, re.S)
     if reflections(body_old) != reflections(body_new):
         errors.append('reflections block changed')
