@@ -37,3 +37,14 @@ the source's own caveat ("the view of some authors that two of his digits were
 'useless' or 'paralyzed' is misleading") is handled in the draft's ledger. Principle
 P192 has no story backlinks (zero-story); no existing page tells the Django story
 (entity sweep clean). VERDICT: clean, ready for registration as-is.
+
+## Quote re-verification s1a-042 (2026-10-25, same teller)
+
+All six ledger quotes verified against the live sacred-texts.com page (SBE 35,
+Milindapañha Book II, Rhys Davids): the name disclaimer, "no chariot... mere empty
+sound", the "I have spoken no untruth" reply, "Very good! Your Majesty has rightly
+grasped", the "And just even so" application, and the Vajira-verse closing. The
+page carries a [28] page-number marker inside the "just even so" sentence — page
+furniture, correctly omitted from the draft's quoted span. Two earlier NOT FOUND
+results in my own probing were artifacts of quote-mark style in the probe, not page
+defects; passages confirmed verbatim on re-examination. s1a-042: quotes clean.
