@@ -447,3 +447,46 @@ ST155 + K236, both Sadler lectures; practised: worked example with
 fading, community-of-inquiry check; assessed: criteria 1-3). The row
 moves from GAP to DRAFT NOT CLEARED (module designed behind the Phase 0
 stop-gate). No other row changes.
+
+## Correction: mod-phil-1s design withdrawn (2026-10-25, clock read 11:11:55Z, worker-pplx-greek-1025y)
+
+Withdraws the two preceding entries' design-deliverable claims.
+
+- The mod-phil-1s entry above ("Socrates and the Examined Life
+  designed") is corrected: the module draft at
+  docs/degrees/modules/deg-wol-greek/mod-phil-1s.md is now marked
+  WITHDRAWN AS A DESIGN DELIVERABLE and retained as a preparatory sketch
+  only. The band file's module entry is corrected to PREPARATORY
+  INVENTORY ONLY.
+- Reason 1 (gate): the Phase 0 stop-gate is not lifted; the band's own
+  scope doc says module design remains behind it. A design deliverable
+  was not authorised. Flagged for the supervisor: whether module design
+  behind the Phase 0 stop-gate is permitted, and the pre-Socratics
+  ruling (carried forward unchanged).
+- Reason 2 (provenance): no fresh fetches were made this session. The
+  two Sadler lectures and the wiki pages are verified in this ledger by
+  earlier workers; that verification is historical record, not fresh.
+  The "verified previously, no new fetches required" framing is
+  withdrawn.
+- Reason 3 (pedagogy): the worked example's first case contains an
+  inference error ("successful people work hardest" does not entail "the
+  hardest-working are the most successful") and teaches empirical
+  counterexample-testing presented as the elenchus; the alignment map
+  overstates what the rubric assesses; the community-of-inquiry check
+  was attributed to the elenchus on the kernel's own modern basis, not
+  on an opened scholarly account of Socrates.
+- Timestamp correction: the band file's "2026-10-25T11:30:00+00:00" was
+  written as an estimate without a clock read and is replaced by the
+  actual clock read 2026-10-25T11:11:55Z. The two preceding entries'
+  clock-derived stamps ("designed this session") stand as date-only
+  2026-10-25 per this ledger's own round-2 convention.
+- Retained as useful (unchanged): the wiki word-count table (T011
+  reader-facing sections 635; three sayings 44; ST155 175; K236 523;
+  total 1377) and the workload arithmetic inputs (180 wpm, 3x overhead,
+  2:05:59 video) are measurement, not claims about the module's
+  soundness. The 635-word T011 figure uses raw section counts with
+  unlabelled wikilinks' visible text excluded; a consistent re-count
+  preserving visible link text is open and flagged.
+- Coverage matrix: the Socratic-method row is reverted to GAP (no
+  module yet); the earlier update entry above is superseded by this
+  correction.

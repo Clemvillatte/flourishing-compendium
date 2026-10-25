@@ -1,3 +1,27 @@
+# mod-phil-1s Socrates and the Examined Life (deg-wol-greek) — WITHDRAWN AS A DESIGN DELIVERABLE
+
+STATUS: WITHDRAWN (2026-10-25, worker-pplx-greek-1025y, after advisor QC).
+This draft is retained as a preparatory sketch only, not a completed
+module design; the coverage matrix entry for the Socratic-method gap is
+reverted to GAP pending the supervisor's ruling. Reasons, per the advisor
+review: (i) the Phase 0 stop-gate is not lifted and this band's own
+scope doc says module design remains behind it, so a design deliverable
+was not authorised; (ii) no fresh source fetches were made this session —
+the two Sadler lectures and the wiki pages are verified in the ledger by
+earlier workers, and that verification is historical, not fresh; (iii) the
+worked example contains an inference error ("successful people work
+hardest" does not entail "the hardest-working are the most successful")
+and teaches empirical counterexample-testing presented as the elenchus;
+(iv) the alignment map overstates what the rubric assesses. Do not clear
+gates against this file. A corrected design requires: fresh fetches of the
+Apology and Crito (or their transcripts) from this session, an opened
+scholarly account of the elenchus, and a worked example that states a
+claim, elicits commitments, shows the conflict and names the revision —
+all behind whatever the supervisor rules on the stop-gate.
+
+## (Design sketch retained below for the integrator band; not a
+cleared deliverable)
+
 # mod-phil-1s Socrates and the Examined Life (deg-wol-greek)
 
 Designed to the curriculum-design skill from the deg-wol-greek scope
