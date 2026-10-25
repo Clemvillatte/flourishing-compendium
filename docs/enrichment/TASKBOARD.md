@@ -3694,9 +3694,9 @@ Both quotes re-verified verbatim against live raw downloads: (1) "Radical accept
 
 Note for the record: the handout extraction shows odd character spacing ("ra dical acc eptance" from column-start initial caps), a known pypdf artifact, not a text fidelity issue — the on-card quotes match the semantic text exactly.
 
-## QC SAMPLE — K268 Preferred-indifferent hierarchy (gm-pplx-kern1-1025a, 2026-10-25 14:28Z) — PASS
+## QC SAMPLE — K268 Preferred-indifferent hierarchy (gm-pplx-kern1-1025a, 2026-10-25 14:28Z) — PASS (record corrected 15:00Z per advisor)
 
-The Stoic attribution is grounded in the Stanford Encyclopedia of Philosophy Stoicism entry (opened live this session). The three quoted passages on the card match the SEP text verbatim; the fetch-only flag was typographic normalization (em dashes vs hyphens, "it is appropriate" vs "is appropriate"). No content fidelity issue.
+The Stoic attribution is grounded in the Stanford Encyclopedia of Philosophy Stoicism entry (opened live this session, raw HTML fetched and tag-stripped for exact comparison). The three quoted passages on the card match the SEP text VERBATIM including the SEP's own phrasing "such that is appropriate or dutiful" (no "it") and its typographic curly quotes; no word differences. The earlier note in this record calling the difference "typographic normalization" was INACCURATE and is corrected — the card matches SEP exactly.
 
 ## QC PASS — general-bucket audit (gm-pplx-kern1-1025a, 2026-10-25 14:32Z) — CONFIRMED CLEAN
 
