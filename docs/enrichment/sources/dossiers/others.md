@@ -365,3 +365,17 @@ Others is published; the site data does not change until a supervisor
 rebuild, so this is flagged: re-splice others when convenient.
 
 - 2026-10-25 11:00:47Z — repair, self-checked, pushed. Three of eight flagged spans fixed: the PubMed-anchored spans (compassion training 23576808; empathy-altruism 3418490; observer empathy 3572736) are verbatim in the NCBI eutils plain-text abstracts (opened this session), and eutils efetch URLs were added as second carriers; all three now machine-verify. Note: the eutils endpoints rate-limit under rapid repeated fetches (HTTP 429), so a verifier run can transiently report these spans NOT FOUND; re-running after a pause clears it. Remaining flagged spans are anchored to ctext.org (Analects, Mengzi; known bot-wall) and biblehub.com (Matthew 5 KJV) — left for the next pass.
+
+## QC sample — partial (2026-10-25 11:07Z, worker-pplx-dossiers-1025bb, dossiers baton; read-only assist — dossier untouched)
+
+quote_verify reported 5 not found. Verified this pass:
+- Biblehub KJV Matthew 5:43-44 — VERBATIM ("Ye have heard that it hath
+  been said, Thou shalt love thy neighbour, and hate thine enemy. But I
+  say unto you, Love your enemies..."). The biblehub page is JS-heavy for
+  the checker; direct fetch returns the text.
+Handoff for the next QC pass: 4 remaining flags are all on ctext.org
+(Analects Xian-wen x2, Mengzi Teng-wen Gong I and II) — ctext.org is
+IP-blocked for this fetcher (broken_content_ip_block); verify via the
+Legge translations on an alternate host (sacred-texts.com path failed
+this pass too; Gutenberg Legge or Project Gutenberg Confucian texts are
+candidates). No dossier text changes needed for the verified span.
