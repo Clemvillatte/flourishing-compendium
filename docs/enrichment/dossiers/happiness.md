@@ -50,41 +50,19 @@ The finding that making happiness one's goal can reduce it is the [valuing happi
 
 ### What research says helps
 
-[Positive psychology](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20psychology): a turn in the discipline toward studying the strengths and conditions that let a life go well, alongside its work on repairing damage.
+The turn in the discipline toward studying the strengths and conditions that let a life go well, alongside its work on repairing damage, is [positive psychology](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20psychology). Fredrickson's broaden-and-build programme is [positive emotions research](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20emotions%20research), and simple, intentional practices meant to raise a person's happiness, such as expressing gratitude or practicing kindness, are [positive activity interventions](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20activity%20interventions).
 
-[Positive emotions research](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20emotions%20research): Fredrickson's broaden-and-build programme.
+The felt recognition of a benefit received is [gratitude](https://clemvillatte.github.io/flourishing-compendium/#card=Gratitude). The capacity to attend to, appreciate, and amplify positive experience is [savoring](https://clemvillatte.github.io/flourishing-compendium/#card=Savoring), and the mental state of full immersion in an activity, with energized focus, full involvement, and enjoyment in the process, is [flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow).
 
-[Positive activity interventions](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20activity%20interventions): simple, intentional practices meant to raise a person's happiness, such as expressing gratitude or practicing kindness.
+Stuart Brown's study of what play does to the adults who keep doing it is [play research](https://clemvillatte.github.io/flourishing-compendium/#card=Play%20research), and his research programme on play as a biological state central to development, mood and adaptability is [the play ethos](https://clemvillatte.github.io/flourishing-compendium/#card=The%20play%20ethos). The paradox Johan Huizinga builds Homo Ludens around, that play is marked off from ordinary life as not serious yet absorbs the player intensely, is [seriousness about the play](https://clemvillatte.github.io/flourishing-compendium/#card=Seriousness%20about%20the%20play).
 
-[Gratitude](https://clemvillatte.github.io/flourishing-compendium/#card=Gratitude): the felt recognition of a benefit received.
+Spending money to benefit others, with the finding that how people spend their money may be at least as important as how much they earn, is [prosocial spending](https://clemvillatte.github.io/flourishing-compendium/#card=Prosocial%20spending). A family of voluntary, other-directed actions, helping, sharing, donating, co-operating and volunteering, is [prosocial behaviour](https://clemvillatte.github.io/flourishing-compendium/#card=Prosocial%20behaviour).
 
-[Savoring](https://clemvillatte.github.io/flourishing-compendium/#card=Savoring): the capacity to attend to, appreciate, and amplify positive experience.
+The subjective sense of having enough time, together with autonomy over its use, is [time affluence](https://clemvillatte.github.io/flourishing-compendium/#card=Time%20affluence). The third of the four brahmaviharas, the capacity to feel glad at another's good fortune as if it were one's own, is [mudita (sympathetic joy)](https://clemvillatte.github.io/flourishing-compendium/#card=Mudita%20%28sympathetic%20joy%29).
 
-[Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow): the mental state of full immersion in an activity, with energized focus, full involvement, and enjoyment in the process.
+The Daoist art of taking the world lightly, laughing at grandiosity from below, at oneself, and at the brevity that makes laughter precious, is [Zhuangzi's laughter](https://clemvillatte.github.io/flourishing-compendium/#card=Zhuangzi%27s%20laughter). The Nahuatl difrasismo for art, poetry and metaphor, and by extension the creative activity through which the world was understood, is [flower and song](https://clemvillatte.github.io/flourishing-compendium/#card=Flower%20and%20song).
 
-[Play research](https://clemvillatte.github.io/flourishing-compendium/#card=Play%20research): Stuart Brown's study of what play does to the adults who keep doing it.
-
-[The play ethos](https://clemvillatte.github.io/flourishing-compendium/#card=The%20play%20ethos): Stuart Brown's research programme on play as a biological state central to development, mood and adaptability.
-
-[Seriousness about the play](https://clemvillatte.github.io/flourishing-compendium/#card=Seriousness%20about%20the%20play): the paradox Johan Huizinga builds Homo Ludens around: play is marked off from ordinary life as not serious, yet absorbs the player intensely.
-
-[Prosocial spending](https://clemvillatte.github.io/flourishing-compendium/#card=Prosocial%20spending): spending money to benefit others, with the finding that how people spend their money may be at least as important as how much they earn.
-
-[Prosocial behaviour](https://clemvillatte.github.io/flourishing-compendium/#card=Prosocial%20behaviour): a family of voluntary, other-directed actions: helping, sharing, donating, co-operating and volunteering.
-
-[Time affluence](https://clemvillatte.github.io/flourishing-compendium/#card=Time%20affluence): the subjective sense of having enough time, together with autonomy over its use.
-
-[Mudita (sympathetic joy)](https://clemvillatte.github.io/flourishing-compendium/#card=Mudita%20%28sympathetic%20joy%29): the third of the four brahmaviharas: the capacity to feel glad at another's good fortune as if it were one's own.
-
-[Zhuangzi's laughter](https://clemvillatte.github.io/flourishing-compendium/#card=Zhuangzi%27s%20laughter): the Daoist art of taking the world lightly: laughing at grandiosity from below, at oneself, and at the brevity that makes laughter precious.
-
-[Flower and song](https://clemvillatte.github.io/flourishing-compendium/#card=Flower%20and%20song): the Nahuatl difrasismo for art, poetry and metaphor, and by extension the creative activity through which the world was understood.
-
-[Social determinants of well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20determinants%20of%20well-being): how people rate their own lives depends heavily on the social conditions around them, and not only on their own traits or income.
-
-[Holistic well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Holistic%20well-being): Ryff's 1989 question of what psychological well-being actually is.
-
-[Cross-cultural variations in conceptions of happiness](https://clemvillatte.github.io/flourishing-compendium/#card=Cross-cultural%20variations%20in%20conceptions%20of%20happiness): Joshanloo's review of Western and Eastern accounts of happiness, identifying six fundamental differences in conceptions of the good life.
+The finding that how people rate their own lives depends heavily on the social conditions around them, and not only on their own traits or income, is [social determinants of well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20determinants%20of%20well-being). Ryff's 1989 question of what psychological well-being actually is is [holistic well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Holistic%20well-being), and Joshanloo's review of Western and Eastern accounts of happiness, identifying six fundamental differences in conceptions of the good life, is [cross-cultural variations in conceptions of happiness](https://clemvillatte.github.io/flourishing-compendium/#card=Cross-cultural%20variations%20in%20conceptions%20of%20happiness).
 
 ### The thinkers
 
