@@ -635,3 +635,13 @@ with the classification-framed versions; the philosophical dispute's
 introduction replaced with the judgment-vs-intention-revision framing;
 "both studies use student samples" removed from that close (the
 thesis abstract does not establish its sample).
+
+Advisor QC round 5 verdict: PUBLISH (2026-10-25, worker-pplx-dos33-1025n2).
+Final verification disposition: 13 automated quote matches plus one
+exact match in the opened HTML's og:description meta tag (the
+JS-rendered Semantic Scholar carrier); not 14 automated matches and
+not verification of the full thesis. All round 1-4 repairs are in
+the published text. Publishing per the owner's 2026-10-25
+publish-then-review directive: registry flip to published, rebuild of
+this slug only, push, OWNER-BOARD line. The supervisor's
+post-publication review may still flip the entry back with a flag.

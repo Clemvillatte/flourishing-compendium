@@ -1,677 +1,677 @@
 {
-  "schemaVersion": 1,
-  "updated": "2026-10-25T05:05:00Z",
-  "note": "Section rules (owner-directed 2026-10-24): (1) Flourishing & Wisdom is the flagship first section - the eudaimonic trio. (2) The Extended Evolutionary Meta Model section holds EXACTLY the model's own dossiers: the six ACASMO dimensions (Affect, Cognition, Attention, Self, Motivation, Behaviour) plus its two levels of selection (Body = biophysiological, Others = sociocultural) - nothing else ever goes in it. (3) Themed sections are reader-facing life themes holding the SPECIFIC dossiers, not the EEMM umbrellas: The Affective Life (specific affective states), The Mind's Life (deciding, aiming, willing), Life Challenges (cross-cutting challenges). (4) A themed section must hold at least three dossiers a reader would expect together; a new theme is minted only when three or more planned dossiers cluster, otherwise the candidate sits in the backlog. (5) A family umbrella stays in the EEMM section; its specific family members live in the themed section (e.g. Affect is EEMM, Anger is The Affective Life). Owner-directed mint 2 (2026-10-24): new themed section The Noble Eightfold Path holds one planned dossier per path factor (right-view, right-intention, right-speech, right-action, right-livelihood, right-effort, right-mindfulness, right-concentration); four affective states minted as planned after card review (Gratitude, Fear, Sadness & Grief, Shame & Guilt); the remaining affective candidates sit in the backlog with scope-review questions. Artwork for the twelve new planned dossiers is pending supervisor assignment from the owner's collection. Owner-directed mint 3 (2026-10-25): Leisure (Flourishing & Wisdom) and Executive Functions (The Mind's Life) added as planned; artwork for both was assigned 2026-10-25 from the owner's Drive collection (dossiers baton, owner-directed curation pass; flagged for supervisor review).",
-  "groups": [
-    {
-      "id": "flourishing",
-      "label": "Flourishing & Wisdom",
-      "order": 1
-    },
-    {
-      "id": "eemm",
-      "label": "Extended Evolutionary Meta Model",
-      "order": 2,
-      "short": "EEMM"
-    },
-    {
-      "id": "affective-life",
-      "label": "The Affective Life",
-      "order": 3
-    },
-    {
-      "id": "minds-life",
-      "label": "The Mind's Life",
-      "order": 4
-    },
-    {
-      "id": "challenges",
-      "label": "Life Challenges",
-      "order": 5
-    },
-    {
-      "id": "eightfold-path",
-      "label": "The Noble Eightfold Path",
-      "order": 6
-    }
-  ],
-  "dossiers": [
-    {
-      "id": "genuine-flourishing",
-      "title": "Genuine Flourishing",
-      "group": "flourishing",
-      "status": "published",
-      "featured": true,
-      "art": "genuine-flourishing.jpg",
-      "scope": "The flagship dossier: what flourishing genuinely is (versus its counterfeit versions), across philosophy and psychological science. Must set out its boundary against Happiness (hedonic vs eudaimonic material) explicitly.",
-      "nearby_terms": [
-        "happiness",
-        "well-being",
-        "eudaimonia",
-        "thriving"
-      ],
-      "question_draft": "What does it actually take for a life to go well, and how is the genuine article told apart from its counterfeits?"
-    },
-    {
-      "id": "wisdom",
-      "title": "Wisdom",
-      "group": "flourishing",
-      "status": "published",
-      "featured": true,
-      "art": "wisdom.jpg",
-      "scope": "Phronesis, wise-reasoning research, the mean, practical judgement in the moment. Earlier working title 'Wisdom and Judgement'.",
-      "nearby_terms": [
-        "practical wisdom",
-        "phronesis",
-        "judgement",
-        "insight"
-      ],
-      "question_draft": "What is wisdom doing when it judges, and can it be cultivated or only matured?"
-    },
-    {
-      "id": "lifes-purpose",
-      "title": "Life's Purpose",
-      "group": "flourishing",
-      "status": "published",
-      "featured": true,
-      "art": "lifes-purpose.jpg",
-      "secondary_groups": [
-        "motivation"
-      ],
-      "scope": "Purpose and meaning in life: purpose research, Frankl, purpose as an orientation toward something beyond the self. Boundary against Meaning & Mortality (backlog) to be decided when both exist.",
-      "nearby_terms": [
-        "meaning",
-        "purpose",
-        "calling",
-        "vocation"
-      ],
-      "question_draft": "What is a life for, and where does a sense of purpose come from?"
-    },
-    {
-      "id": "affect",
-      "title": "Affect",
-      "group": "eemm",
-      "status": "published",
-      "art": "affect.jpg",
-      "scope": "The overarching dossier for affective states: affect as information, constructed emotion, affect regulation, valence and arousal. Umbrella that disambiguates the family (anger, anxiety, happiness...) without absorbing them.",
-      "nearby_terms": [
-        "emotion",
-        "feeling",
-        "mood",
-        "affective states"
-      ],
-      "question_draft": "What is an emotion made of, and what is it telling the person who feels it?"
-    },
-    {
-      "id": "anger",
-      "title": "Anger",
-      "group": "affective-life",
-      "status": "published",
-      "art": "anger.jpg",
-      "scope": "Published v2 dossier (2026-10-23). Its 'nearby terms' treatment of irritation/resentment/contempt is the pattern for the family.",
-      "nearby_terms": [
-        "irritation",
-        "resentment",
-        "contempt",
-        "rage",
-        "indignation"
-      ]
-    },
-    {
-      "id": "anxiety",
-      "title": "Anxiety",
-      "group": "affective-life",
-      "status": "published",
-      "art": "anxiety.jpg",
-      "scope": "First dossier of the disambiguation programme: an explicit 'Nearby terms' section must examine Stress, Worry and Angst from opened sources and state what I hold on each, before any split into separate dossiers is decided. See docs/enrichment/dossiers/DISAMBIGUATION.md.",
-      "nearby_terms": [
-        "stress",
-        "worry",
-        "angst",
-        "fear",
-        "dread",
-        "apprehension"
-      ],
-      "question_draft": "What is anxiety protecting or preparing us for, and when does it stop serving the person who carries it?"
-    },
-    {
-      "id": "happiness",
-      "title": "Happiness",
-      "group": "affective-life",
-      "status": "published",
-      "art": "happiness.jpg",
-      "scope": "Happiness as the affective state and its research (hedonic adaptation, subjective well-being), with an explicit boundary against Genuine Flourishing (eudaimonic material lives there).",
-      "nearby_terms": [
-        "joy",
-        "subjective well-being",
-        "contentment",
-        "pleasure"
-      ],
-      "question_draft": "What is happiness made of, and why does it slip away when it is chased?"
-    },
-    {
-      "id": "cognition",
-      "title": "Cognition",
-      "group": "eemm",
-      "status": "published",
-      "art": "cognition.jpg",
-      "scope": "Thinking styles, reasoning, belief formation, the limits of reason. Contains the 'thoughts' territory the owner named.",
-      "nearby_terms": [
-        "thinking",
-        "thoughts",
-        "reasoning",
-        "reason"
-      ],
-      "question_draft": "How does thinking work, and where does it reliably fail?"
-    },
-    {
-      "id": "decision-making",
-      "title": "Decision-Making",
-      "group": "minds-life",
-      "status": "published",
-      "art": "decision-making.jpg",
-      "scope": "Heuristics, biases, choice overload and architecture, fast-and-frugal models, akrasia. Overlaps with Cognition are resolved by pointing decision research here and reasoning styles at Cognition.",
-      "nearby_terms": [
-        "choice",
-        "judgement",
-        "heuristics",
-        "akrasia"
-      ],
-      "question_draft": "How does a person choose well under uncertainty, and what gets in the way?"
-    },
-    {
-      "id": "attention",
-      "title": "Attention",
-      "group": "eemm",
-      "status": "published",
-      "art": "attention.jpg",
-      "scope": "Focused-attention meditation, attention restoration, mind-wandering, flow, the economy of the gaze. Contains the 'concentration' territory the owner named.",
-      "nearby_terms": [
-        "concentration",
-        "focus",
-        "mind-wandering",
-        "absorption"
-      ],
-      "question_draft": "What is attention, what does it cost, and what does it build?"
-    },
-    {
-      "id": "the-self",
-      "title": "The Self",
-      "group": "eemm",
-      "status": "published",
-      "art": "the-self.jpg",
-      "scope": "Published v2 exemplar (2026-10-23). 140 concept cards + 16 kernels + 2 sayings across ten subthemes.",
-      "nearby_terms": [
-        "identity",
-        "ego",
-        "self-concept",
-        "selfhood"
-      ]
-    },
-    {
-      "id": "motivation",
-      "title": "Motivation",
-      "group": "eemm",
-      "status": "published",
-      "art": "motivation.jpg",
-      "scope": "Intrinsic and identified motivation, self-concordance, willpower, desire and craving. Umbrella distinct from Goals.",
-      "nearby_terms": [
-        "drive",
-        "desire",
-        "craving",
-        "willpower"
-      ],
-      "question_draft": "What moves a person, and which movements of the heart are worth trusting?"
-    },
-    {
-      "id": "goals",
-      "title": "Goals",
-      "group": "minds-life",
-      "status": "published",
-      "art": "goals.jpg",
-      "scope": "Goal setting, goal pursuit, goal conflict, attainment and disengagement. Kept separate from Motivation per advisor direction (owner asked for both).",
-      "nearby_terms": [
-        "goal setting",
-        "aspirations",
-        "aim",
-        "striving"
-      ],
-      "question_draft": "How do aims shape a life, and when is the right move to drop one?"
-    },
-    {
-      "id": "agency",
-      "title": "Agency",
-      "group": "minds-life",
-      "status": "published",
-      "art": "agency.jpg",
-      "scope": "Containing Autonomy and Competence: agency as effective power (Dewey), locus of control, self-efficacy, autonomy and competence as basic needs (SDT).",
-      "nearby_terms": [
-        "autonomy",
-        "competence",
-        "self-efficacy",
-        "locus of control"
-      ],
-      "question_draft": "How much say does a person have over their own life, and what grows that say?"
-    },
-    {
-      "id": "behaviour",
-      "title": "Behaviour",
-      "group": "eemm",
-      "status": "published",
-      "art": "behaviour.jpg",
-      "scope": "Overt behaviour and habit territory: habit formation, the habit body, discontinuity, returning after lapse. Habit may become a focused dossier later; Behaviour is the EEMM-named umbrella.",
-      "nearby_terms": [
-        "habit",
-        "action",
-        "conduct",
-        "practice"
-      ],
-      "question_draft": "How do repeated actions become a life, and how does a stuck pattern change?"
-    },
-    {
-      "id": "others",
-      "title": "Others",
-      "group": "eemm",
-      "status": "published",
-      "art": "others.jpg",
-      "scope": "The sociocultural lens: relationships, compassion for others, social baseline, interdependence. Replaces the EEMM 'Sociocultural' label per owner.",
-      "nearby_terms": [
-        "relationships",
-        "compassion",
-        "social connection",
-        "interdependence"
-      ],
-      "question_draft": "What do other people do to a person's mind and flourishing, and what does one person owe another?"
-    },
-    {
-      "id": "body",
-      "title": "Body",
-      "group": "eemm",
-      "status": "published",
-      "art": "body.jpg",
-      "scope": "The biophysiological lens: interoception, stress physiology, embodiment, breath. Replaces the EEMM 'Biophysiological' label per owner.",
-      "nearby_terms": [
-        "interoception",
-        "embodiment",
-        "physiology",
-        "breath"
-      ],
-      "question_draft": "What does the body know, and how does it participate in suffering and flourishing?"
-    },
-    {
-      "id": "uncertainty",
-      "title": "Uncertainty",
-      "group": "challenges",
-      "status": "published",
-      "art": "uncertainty.jpg",
-      "scope": "Living with uncertainty: tolerance of uncertainty, probabilistic thinking, impermanence, security vs groundlessness. Cross-cutting theme, deliberately not forced into one EEMM band.",
-      "nearby_terms": [
-        "uncertainty tolerance",
-        "impermanence",
-        "probability",
-        "risk"
-      ],
-      "question_draft": "Can a person live well without knowing what comes next?"
-    },
-    {
-      "id": "overload-overwhelm",
-      "title": "Overload & Overwhelm",
-      "group": "challenges",
-      "status": "published",
-      "art": "overload-overwhelm.jpg",
-      "scope": "The overwhelming world: information overload, cognitive load, burnout, demands and resources, saturation. Cross-cutting theme.",
-      "nearby_terms": [
-        "overwhelm",
-        "burnout",
-        "cognitive load",
-        "saturation",
-        "stress"
-      ],
-      "question_draft": "When the world gives more than a person can take in, what still works?"
-    },
-    {
-      "id": "right-view",
-      "title": "Right View",
-      "group": "eightfold-path",
-      "status": "published",
-      "scope": "The first path factor: accurate understanding of the Four Noble Truths, the worldly and transcendent forms of right view (MN 9 Sammaditthi, Kaccanagotta, Mahacatarisaka), and right view as the forerunner of skillful qualities. Boundary against Cognition and Wisdom: those hold thinking and judgement in general; this holds the path's own account of seeing rightly.",
-      "nearby_terms": [
-        "right understanding",
-        "view",
-        "discernment",
-        "perspective"
-      ],
-      "question_draft": "What does the path mean by seeing things as they are, and what does that seeing do to a life?",
-      "art": "right-view.jpg"
-    },
-    {
-      "id": "right-intention",
-      "title": "Right Intention",
-      "group": "eightfold-path",
-      "status": "published",
-      "scope": "The second path factor: resolve on renunciation, freedom from ill will and harmlessness (SN 45.8), the translation variants (right resolve, right thought), and my positive renderings (simplicity, goodwill, refusing to add suffering). Boundary against Motivation and Goals: those hold the general science of wanting and pursuing; this holds the path's discipline of aim.",
-      "nearby_terms": [
-        "right resolve",
-        "intention",
-        "aspiration",
-        "renunciation"
-      ],
-      "question_draft": "What is worth resolving on, and what does a resolved life look like?",
-      "art": "right-intention.jpg"
-    },
-    {
-      "id": "right-speech",
-      "title": "Right Speech",
-      "group": "eightfold-path",
-      "status": "published",
-      "scope": "The speech factor: the four abstentions (no lying, divisive, abusive or idle speech), the Abhaya Sutta timing test (factual, true, beneficial words, endearing or not, said at the proper time, out of sympathy for living beings; the writer re-checks the six-case formula against the opened MN 58), and the modern relatives (nonviolent communication, speech gates). Boundary against Others: relational material stays there; this holds the ethics of speaking.",
-      "nearby_terms": [
-        "truthful speech",
-        "right communication",
-        "speech ethics"
-      ],
-      "question_draft": "What makes speech right, and when is silence the better part of it?",
-      "art": "right-speech.jpg"
-    },
-    {
-      "id": "right-action",
-      "title": "Right Action",
-      "group": "eightfold-path",
-      "status": "published",
-      "scope": "The bodily-conduct factor: abstaining from killing, taking what is not given and sexual misconduct, with Bodhi's positive counterparts (compassion, honesty, fidelity). Boundary against Behaviour: habit science stays there; this holds the path's ethical restraints on bodily conduct.",
-      "nearby_terms": [
-        "right conduct",
-        "non-harm",
-        "ethical action"
-      ],
-      "question_draft": "What restraints on the body make a life livable with itself?",
-      "art": "right-action.jpg"
-    },
-    {
-      "id": "right-livelihood",
-      "title": "Right Livelihood",
-      "group": "eightfold-path",
-      "status": "published",
-      "scope": "The fifth path factor: earning without harm, the Vanijja Sutta's five prohibited trades (AN 5.177), the sila grouping with speech and action, and my values-alignment revisiting (B152). Boundary against Life's Purpose (calling) and Goals (work aims).",
-      "nearby_terms": [
-        "ethical work",
-        "vocation",
-        "earning"
-      ],
-      "question_draft": "Can a living be made without harm, and what does work do to the person who does it?",
-      "art": "right-livelihood.jpg"
-    },
-    {
-      "id": "right-effort",
-      "title": "Right Effort",
-      "group": "eightfold-path",
-      "status": "published",
-      "scope": "The sixth path factor: the four efforts (SN 45.8) - preventing, abandoning, arousing and maintaining qualities of mind - desire as the first verb, and the tuning-not-forcing calibration (Sona Sutta, AN 6.55). Boundary against Motivation and Behaviour.",
-      "nearby_terms": [
-        "diligence",
-        "persistence",
-        "energy"
-      ],
-      "question_draft": "Where should effort go, and how much is the right amount?",
-      "art": "right-effort.jpg"
-    },
-    {
-      "id": "right-mindfulness",
-      "title": "Right Mindfulness",
-      "group": "eightfold-path",
-      "status": "published",
-      "scope": "The seventh path factor: the four establishments of mindfulness (MN 10 satipatthana), the refrain (ardent, alert and mindful, putting aside greed and distress), the attention principles, with the boundary between the path factor and the clinical mindfulness-intervention evidence (Goyal et al. 2014) drawn explicitly rather than merged. Boundary against Attention: the general science of attention lives there; this holds the path's own mindfulness training.",
-      "nearby_terms": [
-        "sati",
-        "mindful awareness",
-        "present-moment attention"
-      ],
-      "question_draft": "What is being established when mindfulness is established, and what does it clear away?",
-      "art": "right-mindfulness.jpg"
-    },
-    {
-      "id": "right-concentration",
-      "title": "Right Concentration",
-      "group": "eightfold-path",
-      "status": "published",
-      "scope": "The eighth path factor: the four jhanas (DN 2), the Sona Sutta tuning (neither too taut nor too loose), samadhi as calibration rather than force, and the pairs with focused-attention meditation, flow and single-tasking. Boundary against Attention (absorption states).",
-      "nearby_terms": [
-        "samadhi",
-        "absorption",
-        "collectedness"
-      ],
-      "question_draft": "What is collectedness, and how is it tuned rather than forced?",
-      "art": "right-concentration.jpg"
-    },
-    {
-      "id": "gratitude",
-      "title": "Gratitude",
-      "group": "affective-life",
-      "status": "published",
-      "scope": "The felt recognition of benefit received: Seneca's On Benefits and Aristotle NE VIII.14 as classical anchors, the attention theory (Emmons and McCullough's counting-blessings work), the find-remind-and-bind relational theory (Algoe), the practice family (AF063, K164, K212, K280) and ecological gratitude. PROVISIONAL mint after card review; the writer re-tests the family from opened sources. Nearby terms: thankfulness, appreciation, indebtedness (the benefit's shadow).",
-      "nearby_terms": [
-        "thankfulness",
-        "appreciation",
-        "indebtedness"
-      ],
-      "question_draft": "What is gratitude actually about, and why does it resist being a self-help technique?",
-      "art": "gratitude.jpg"
-    },
-    {
-      "id": "fear",
-      "title": "Fear",
-      "group": "affective-life",
-      "status": "published",
-      "scope": "Defense against threat: the evolved fear module (Ohman and Mineka), the classification and examination of fears, courage as action despite fear, the Epicurean argument against the fear of death. FIRST TASK per DISAMBIGUATION.md: build the fear-versus-anxiety boundary matrix from opened sources before the map is written; the Anxiety dossier keeps fear as a map group until the split is settled.",
-      "nearby_terms": [
-        "dread",
-        "phobia",
-        "panic",
-        "courage"
-      ],
-      "question_draft": "What is fear protecting, and how much of it belongs to the person rather than the threat?",
-      "art": "fear.jpg"
-    },
-    {
-      "id": "sadness-and-grief",
-      "title": "Sadness & Grief",
-      "group": "affective-life",
-      "status": "published",
-      "scope": "Loss and mourning: grief's oscillation model (dual process), grief for what passes (Zhuangzi), complicated grief research, ecological grief, sorrow's fruit, and the sadness-versus-depression distinction (AF051). NOTE: 'Sadness & Grief' is an editorial grouping, not a settled equivalence; the writer tests the sadness-as-state versus grief-as-process boundary from opened sources and flags any split proposal with the matrix as evidence.",
-      "nearby_terms": [
-        "mourning",
-        "loss",
-        "sorrow",
-        "bereavement"
-      ],
-      "question_draft": "What is grief for, and how does a person mourn without being consumed?",
-      "art": "sadness-and-grief.jpg"
-    },
-    {
-      "id": "shame-and-guilt",
-      "title": "Shame & Guilt",
-      "group": "affective-life",
-      "status": "published",
-      "scope": "The moral self-conscious emotions: shame as global-self judgment versus guilt as act judgment (Tangney and colleagues), shamefastness (aidos) and the classical treatments, the adaptive-function principles (AF053, AF054) and the shame-versus-guilt signal distinction (SP034). PROVISIONAL mint after card review; the writer re-tests the family from opened sources. Nearby terms: embarrassment, remorse, humiliation.",
-      "nearby_terms": [
-        "embarrassment",
-        "remorse",
-        "humiliation",
-        "self-consciousness"
-      ],
-      "question_draft": "Which of the two moral emotions repairs a life, and which corrodes it?",
-      "art": "shame-and-guilt.jpg"
-    },
-    {
-      "id": "frustration",
-      "title": "Frustration",
-      "group": "affective-life",
-      "status": "published",
-      "scope": "The affect of blocked goals: frustration as the felt gap between effort and outcome (goal-blockage and frustration-tolerance research), frustration's place between irritation and anger, the Dollard frustration-aggression lineage and its failures, low frustration tolerance in REBT, and the compendium's practice family. FIRST TASK per DISAMBIGUATION.md: build the frustration-versus-anger boundary matrix from opened sources before the map is written. Owner-directed mint 2026-10-25.",
-      "nearby_terms": [
-        "irritation",
-        "annoyance",
-        "anger"
-      ],
-      "question_draft": "What is frustration telling the person about the gap between effort and outcome, and when is the right move to push harder rather than change course?",
-      "art": "frustration.jpg"
-    },
-    {
-      "id": "creation",
-      "title": "Creation",
-      "group": "flourishing",
-      "status": "published",
-      "scope": "Creation as an innate meaning in life (owner-directed scope, 2026-10-25): creating things that matter, creating things that feel good, creating links and connections between people and ideas, and procreating; life itself as creation. The dossier maps the wiki's material on making as a source of meaning (generativity, meaning-making through making, craftsmanship, the Creator archetype family) and holds the boundary against Creativity (the capacity and its psychology), which has its own dossier. Owner-directed mint 2026-10-25.",
-      "nearby_terms": [
-        "creativity",
-        "generativity",
-        "procreation",
-        "meaning-making"
-      ],
-      "question_draft": "Why does making things (objects, connections, children, a life) feel like it means something, and what kind of meaning is that?",
-      "art": "creation.jpg"
-    },
-    {
-      "id": "creativity",
-      "title": "Creativity",
-      "group": "minds-life",
-      "status": "published",
-      "scope": "The capacity to produce work that is both novel and appropriate: the standard definition (Runco, Sternberg), divergent thinking and its measurement debates, the four-C model, flow and creativity (Csikszentmihalyi), everyday creativity, blocks and fear of creating. Holds the boundary against Creation (meaning-in-life theme, its own dossier): this dossier is about the capacity and its process, not about what making means for a life. Owner-directed mint 2026-10-25.",
-      "nearby_terms": [
-        "divergent thinking",
-        "imagination",
-        "inspiration",
-        "creation"
-      ],
-      "question_draft": "What is the creative capacity actually for, and what does it need to work?",
-      "art": "creativity.jpg"
-    },
-    {
-      "id": "procrastination",
-      "title": "Procrastination",
-      "group": "challenges",
-      "status": "published",
-      "scope": "The voluntary delay of an intended action despite expecting to be worse off for it (Steel's definition): the emotion-regulation account (Sirois and Pychyl), temporal motivation theory and the intention-action gap, akrasia as the classical ancestor, self-forgiveness and self-compassion as evidence-backed repairs, and the compendium's practice family (implementation intentions, temptation bundling, precommitment). Owner-directed mint 2026-10-25.",
-      "nearby_terms": [
-        "akrasia",
-        "delay",
-        "intention-action gap",
-        "temporal discounting"
-      ],
-      "question_draft": "Why does a person who knows better still postpone, and what actually closes the gap between intending and doing?",
-      "art": "procrastination.jpg"
-    },
-    {
-      "id": "suffering",
-      "title": "Suffering",
-      "group": "challenges",
-      "status": "published",
-      "art": "suffering.jpg",
-      "scope": "Pain versus suffering, the second arrow, and what suffering asks of the person carrying it. Boundaries: Acceptance (the stance), Impermanence (why things pass), Anxiety/Sadness (specific states).",
-      "nearby_terms": [
-        "pain",
-        "dukkha",
-        "distress",
-        "affliction"
-      ],
-      "question_draft": "What is the difference between pain and suffering, and what does suffering ask of the person carrying it?"
-    },
-    {
-      "id": "acceptance",
-      "title": "Acceptance",
-      "group": "challenges",
-      "status": "published",
-      "art": "acceptance.jpg",
-      "scope": "Acceptance as a stance toward what is and cannot now be changed, across Stoic, Buddhist and ACT material. Boundary against Suffering (pain vs the second arrow) and Agency (what can be changed).",
-      "nearby_terms": [
-        "acceptance",
-        "allowing",
-        "non-resistance",
-        "equanimity"
-      ],
-      "question_draft": "What changes in a life when what cannot be changed stops being fought?",
-      "updated": "2026-10-25"
-    },
-    {
-      "id": "freedom",
-      "title": "Freedom",
-      "group": "minds-life",
-      "status": "published",
-      "art": "freedom.jpg",
-      "scope": "Freedom as inner and outer: choice, autonomy, liberation, constraint. Boundary against Agency (acting) and Decision-Making (choosing).",
-      "nearby_terms": [
-        "freedom",
-        "liberty",
-        "autonomy",
-        "liberation"
-      ],
-      "question_draft": "What is a person fleeing when she flees her own freedom, and what does she exercise when she takes it back?"
-    },
-    {
-      "id": "impermanence",
-      "title": "Impermanence",
-      "group": "challenges",
-      "status": "published",
-      "art": "impermanence.jpg",
-      "scope": "Owner decision 2026-10-25: replaces a standalone Meaning & Mortality dossier. Impermanence and mortality (memento mori, death-awareness, ageing, loss of what we hold) as one theme. Meaning-making belongs to Life's Purpose; the fear of death to Fear; the uncertainty reading to Uncertainty. Source material: the written meaning-and-mortality draft (not registered).",
-      "nearby_terms": [
-        "impermanence",
-        "mortality",
-        "memento mori",
-        "anicca",
-        "transience"
-      ],
-      "question_draft": "What changes when we take seriously that everything we hold, ourselves included, passes?"
-    },
-    {
-      "id": "leisure",
-      "title": "Leisure",
-      "group": "flourishing",
-      "status": "planned",
-      "scope": "What leisure genuinely is - rest, play and contemplative free time (schele/otium) - versus idleness and consumption; whether the capacity for leisure is a condition of flourishing or its by-product, with the psychology of recovery and restoration.",
-      "nearby_terms": [
-        "rest",
-        "play",
-        "recovery",
-        "free time",
-        "schele"
-      ],
-      "question_draft": "What is leisure for, and why does a life without it feel impoverished even when it is full?",
-      "art": "leisure.jpg"
-    },
-    {
-      "id": "executive-functions",
-      "title": "Executive Functions",
-      "group": "minds-life",
-      "status": "planned",
-      "scope": "The mind's management suite - inhibition, working memory, cognitive flexibility, planning - where virtue traditions and cognitive neuroscience agree and disagree on self-regulation; willpower as trainable skill versus depletable resource (ego depletion and its critics).",
-      "nearby_terms": [
-        "self-control",
-        "working memory",
-        "inhibition",
-        "cognitive flexibility",
-        "willpower"
-      ],
-      "question_draft": "What does it cost to hold a plan in mind against distraction, and who or what is doing the holding?",
-      "art": "executive-functions.jpg"
-    }
-  ],
-  "backlog": [
-    "Memory",
-    "Belief",
-    "Habit (focused, if Behaviour grows too large)",
-    "Perception",
-    "Desire & Craving (if Motivation grows too large)",
-    "Meaning & Mortality",
-    "Forgiveness & Repair",
-    "Compassion without self-abandonment",
-    "Envy (scope review: benign versus malicious envy cards exist; does the family answer a question the Anger and Compassion dossiers do not?)",
-    "Compassion (scope review: overlaps the Others dossier's compassion material; needs a boundary matrix first)",
-    "Loneliness (scope review: the signal account AF058/PP031/SO024; boundary against Others to be tested)",
-    "Love (scope review: compassionate love, enemy-love and proper self-love cards; boundary against Compassion and Others)",
-    "Hope (scope review: elpis and hope theory AF067; boundary against Uncertainty)",
-    "Awe (scope review: vastness and self-diminishment cards; boundary against Attention and The Self)",
-    "Pride (scope review: authentic versus hubristic pride; boundary against Shame & Guilt and Flourishing)",
-    "Equanimity (scope review: the eight worldly winds and upekkha cards; boundary against affect-regulation material)"
-  ]
+ "schemaVersion": 1,
+ "updated": "2026-10-25T05:05:00Z",
+ "note": "Section rules (owner-directed 2026-10-24): (1) Flourishing & Wisdom is the flagship first section - the eudaimonic trio. (2) The Extended Evolutionary Meta Model section holds EXACTLY the model's own dossiers: the six ACASMO dimensions (Affect, Cognition, Attention, Self, Motivation, Behaviour) plus its two levels of selection (Body = biophysiological, Others = sociocultural) - nothing else ever goes in it. (3) Themed sections are reader-facing life themes holding the SPECIFIC dossiers, not the EEMM umbrellas: The Affective Life (specific affective states), The Mind's Life (deciding, aiming, willing), Life Challenges (cross-cutting challenges). (4) A themed section must hold at least three dossiers a reader would expect together; a new theme is minted only when three or more planned dossiers cluster, otherwise the candidate sits in the backlog. (5) A family umbrella stays in the EEMM section; its specific family members live in the themed section (e.g. Affect is EEMM, Anger is The Affective Life). Owner-directed mint 2 (2026-10-24): new themed section The Noble Eightfold Path holds one planned dossier per path factor (right-view, right-intention, right-speech, right-action, right-livelihood, right-effort, right-mindfulness, right-concentration); four affective states minted as planned after card review (Gratitude, Fear, Sadness & Grief, Shame & Guilt); the remaining affective candidates sit in the backlog with scope-review questions. Artwork for the twelve new planned dossiers is pending supervisor assignment from the owner's collection. Owner-directed mint 3 (2026-10-25): Leisure (Flourishing & Wisdom) and Executive Functions (The Mind's Life) added as planned; artwork for both was assigned 2026-10-25 from the owner's Drive collection (dossiers baton, owner-directed curation pass; flagged for supervisor review).",
+ "groups": [
+  {
+   "id": "flourishing",
+   "label": "Flourishing & Wisdom",
+   "order": 1
+  },
+  {
+   "id": "eemm",
+   "label": "Extended Evolutionary Meta Model",
+   "order": 2,
+   "short": "EEMM"
+  },
+  {
+   "id": "affective-life",
+   "label": "The Affective Life",
+   "order": 3
+  },
+  {
+   "id": "minds-life",
+   "label": "The Mind's Life",
+   "order": 4
+  },
+  {
+   "id": "challenges",
+   "label": "Life Challenges",
+   "order": 5
+  },
+  {
+   "id": "eightfold-path",
+   "label": "The Noble Eightfold Path",
+   "order": 6
+  }
+ ],
+ "dossiers": [
+  {
+   "id": "genuine-flourishing",
+   "title": "Genuine Flourishing",
+   "group": "flourishing",
+   "status": "published",
+   "featured": true,
+   "art": "genuine-flourishing.jpg",
+   "scope": "The flagship dossier: what flourishing genuinely is (versus its counterfeit versions), across philosophy and psychological science. Must set out its boundary against Happiness (hedonic vs eudaimonic material) explicitly.",
+   "nearby_terms": [
+    "happiness",
+    "well-being",
+    "eudaimonia",
+    "thriving"
+   ],
+   "question_draft": "What does it actually take for a life to go well, and how is the genuine article told apart from its counterfeits?"
+  },
+  {
+   "id": "wisdom",
+   "title": "Wisdom",
+   "group": "flourishing",
+   "status": "published",
+   "featured": true,
+   "art": "wisdom.jpg",
+   "scope": "Phronesis, wise-reasoning research, the mean, practical judgement in the moment. Earlier working title 'Wisdom and Judgement'.",
+   "nearby_terms": [
+    "practical wisdom",
+    "phronesis",
+    "judgement",
+    "insight"
+   ],
+   "question_draft": "What is wisdom doing when it judges, and can it be cultivated or only matured?"
+  },
+  {
+   "id": "lifes-purpose",
+   "title": "Life's Purpose",
+   "group": "flourishing",
+   "status": "published",
+   "featured": true,
+   "art": "lifes-purpose.jpg",
+   "secondary_groups": [
+    "motivation"
+   ],
+   "scope": "Purpose and meaning in life: purpose research, Frankl, purpose as an orientation toward something beyond the self. Boundary against Meaning & Mortality (backlog) to be decided when both exist.",
+   "nearby_terms": [
+    "meaning",
+    "purpose",
+    "calling",
+    "vocation"
+   ],
+   "question_draft": "What is a life for, and where does a sense of purpose come from?"
+  },
+  {
+   "id": "affect",
+   "title": "Affect",
+   "group": "eemm",
+   "status": "published",
+   "art": "affect.jpg",
+   "scope": "The overarching dossier for affective states: affect as information, constructed emotion, affect regulation, valence and arousal. Umbrella that disambiguates the family (anger, anxiety, happiness...) without absorbing them.",
+   "nearby_terms": [
+    "emotion",
+    "feeling",
+    "mood",
+    "affective states"
+   ],
+   "question_draft": "What is an emotion made of, and what is it telling the person who feels it?"
+  },
+  {
+   "id": "anger",
+   "title": "Anger",
+   "group": "affective-life",
+   "status": "published",
+   "art": "anger.jpg",
+   "scope": "Published v2 dossier (2026-10-23). Its 'nearby terms' treatment of irritation/resentment/contempt is the pattern for the family.",
+   "nearby_terms": [
+    "irritation",
+    "resentment",
+    "contempt",
+    "rage",
+    "indignation"
+   ]
+  },
+  {
+   "id": "anxiety",
+   "title": "Anxiety",
+   "group": "affective-life",
+   "status": "published",
+   "art": "anxiety.jpg",
+   "scope": "First dossier of the disambiguation programme: an explicit 'Nearby terms' section must examine Stress, Worry and Angst from opened sources and state what I hold on each, before any split into separate dossiers is decided. See docs/enrichment/dossiers/DISAMBIGUATION.md.",
+   "nearby_terms": [
+    "stress",
+    "worry",
+    "angst",
+    "fear",
+    "dread",
+    "apprehension"
+   ],
+   "question_draft": "What is anxiety protecting or preparing us for, and when does it stop serving the person who carries it?"
+  },
+  {
+   "id": "happiness",
+   "title": "Happiness",
+   "group": "affective-life",
+   "status": "published",
+   "art": "happiness.jpg",
+   "scope": "Happiness as the affective state and its research (hedonic adaptation, subjective well-being), with an explicit boundary against Genuine Flourishing (eudaimonic material lives there).",
+   "nearby_terms": [
+    "joy",
+    "subjective well-being",
+    "contentment",
+    "pleasure"
+   ],
+   "question_draft": "What is happiness made of, and why does it slip away when it is chased?"
+  },
+  {
+   "id": "cognition",
+   "title": "Cognition",
+   "group": "eemm",
+   "status": "published",
+   "art": "cognition.jpg",
+   "scope": "Thinking styles, reasoning, belief formation, the limits of reason. Contains the 'thoughts' territory the owner named.",
+   "nearby_terms": [
+    "thinking",
+    "thoughts",
+    "reasoning",
+    "reason"
+   ],
+   "question_draft": "How does thinking work, and where does it reliably fail?"
+  },
+  {
+   "id": "decision-making",
+   "title": "Decision-Making",
+   "group": "minds-life",
+   "status": "published",
+   "art": "decision-making.jpg",
+   "scope": "Heuristics, biases, choice overload and architecture, fast-and-frugal models, akrasia. Overlaps with Cognition are resolved by pointing decision research here and reasoning styles at Cognition.",
+   "nearby_terms": [
+    "choice",
+    "judgement",
+    "heuristics",
+    "akrasia"
+   ],
+   "question_draft": "How does a person choose well under uncertainty, and what gets in the way?"
+  },
+  {
+   "id": "attention",
+   "title": "Attention",
+   "group": "eemm",
+   "status": "published",
+   "art": "attention.jpg",
+   "scope": "Focused-attention meditation, attention restoration, mind-wandering, flow, the economy of the gaze. Contains the 'concentration' territory the owner named.",
+   "nearby_terms": [
+    "concentration",
+    "focus",
+    "mind-wandering",
+    "absorption"
+   ],
+   "question_draft": "What is attention, what does it cost, and what does it build?"
+  },
+  {
+   "id": "the-self",
+   "title": "The Self",
+   "group": "eemm",
+   "status": "published",
+   "art": "the-self.jpg",
+   "scope": "Published v2 exemplar (2026-10-23). 140 concept cards + 16 kernels + 2 sayings across ten subthemes.",
+   "nearby_terms": [
+    "identity",
+    "ego",
+    "self-concept",
+    "selfhood"
+   ]
+  },
+  {
+   "id": "motivation",
+   "title": "Motivation",
+   "group": "eemm",
+   "status": "published",
+   "art": "motivation.jpg",
+   "scope": "Intrinsic and identified motivation, self-concordance, willpower, desire and craving. Umbrella distinct from Goals.",
+   "nearby_terms": [
+    "drive",
+    "desire",
+    "craving",
+    "willpower"
+   ],
+   "question_draft": "What moves a person, and which movements of the heart are worth trusting?"
+  },
+  {
+   "id": "goals",
+   "title": "Goals",
+   "group": "minds-life",
+   "status": "published",
+   "art": "goals.jpg",
+   "scope": "Goal setting, goal pursuit, goal conflict, attainment and disengagement. Kept separate from Motivation per advisor direction (owner asked for both).",
+   "nearby_terms": [
+    "goal setting",
+    "aspirations",
+    "aim",
+    "striving"
+   ],
+   "question_draft": "How do aims shape a life, and when is the right move to drop one?"
+  },
+  {
+   "id": "agency",
+   "title": "Agency",
+   "group": "minds-life",
+   "status": "published",
+   "art": "agency.jpg",
+   "scope": "Containing Autonomy and Competence: agency as effective power (Dewey), locus of control, self-efficacy, autonomy and competence as basic needs (SDT).",
+   "nearby_terms": [
+    "autonomy",
+    "competence",
+    "self-efficacy",
+    "locus of control"
+   ],
+   "question_draft": "How much say does a person have over their own life, and what grows that say?"
+  },
+  {
+   "id": "behaviour",
+   "title": "Behaviour",
+   "group": "eemm",
+   "status": "published",
+   "art": "behaviour.jpg",
+   "scope": "Overt behaviour and habit territory: habit formation, the habit body, discontinuity, returning after lapse. Habit may become a focused dossier later; Behaviour is the EEMM-named umbrella.",
+   "nearby_terms": [
+    "habit",
+    "action",
+    "conduct",
+    "practice"
+   ],
+   "question_draft": "How do repeated actions become a life, and how does a stuck pattern change?"
+  },
+  {
+   "id": "others",
+   "title": "Others",
+   "group": "eemm",
+   "status": "published",
+   "art": "others.jpg",
+   "scope": "The sociocultural lens: relationships, compassion for others, social baseline, interdependence. Replaces the EEMM 'Sociocultural' label per owner.",
+   "nearby_terms": [
+    "relationships",
+    "compassion",
+    "social connection",
+    "interdependence"
+   ],
+   "question_draft": "What do other people do to a person's mind and flourishing, and what does one person owe another?"
+  },
+  {
+   "id": "body",
+   "title": "Body",
+   "group": "eemm",
+   "status": "published",
+   "art": "body.jpg",
+   "scope": "The biophysiological lens: interoception, stress physiology, embodiment, breath. Replaces the EEMM 'Biophysiological' label per owner.",
+   "nearby_terms": [
+    "interoception",
+    "embodiment",
+    "physiology",
+    "breath"
+   ],
+   "question_draft": "What does the body know, and how does it participate in suffering and flourishing?"
+  },
+  {
+   "id": "uncertainty",
+   "title": "Uncertainty",
+   "group": "challenges",
+   "status": "published",
+   "art": "uncertainty.jpg",
+   "scope": "Living with uncertainty: tolerance of uncertainty, probabilistic thinking, impermanence, security vs groundlessness. Cross-cutting theme, deliberately not forced into one EEMM band.",
+   "nearby_terms": [
+    "uncertainty tolerance",
+    "impermanence",
+    "probability",
+    "risk"
+   ],
+   "question_draft": "Can a person live well without knowing what comes next?"
+  },
+  {
+   "id": "overload-overwhelm",
+   "title": "Overload & Overwhelm",
+   "group": "challenges",
+   "status": "published",
+   "art": "overload-overwhelm.jpg",
+   "scope": "The overwhelming world: information overload, cognitive load, burnout, demands and resources, saturation. Cross-cutting theme.",
+   "nearby_terms": [
+    "overwhelm",
+    "burnout",
+    "cognitive load",
+    "saturation",
+    "stress"
+   ],
+   "question_draft": "When the world gives more than a person can take in, what still works?"
+  },
+  {
+   "id": "right-view",
+   "title": "Right View",
+   "group": "eightfold-path",
+   "status": "published",
+   "scope": "The first path factor: accurate understanding of the Four Noble Truths, the worldly and transcendent forms of right view (MN 9 Sammaditthi, Kaccanagotta, Mahacatarisaka), and right view as the forerunner of skillful qualities. Boundary against Cognition and Wisdom: those hold thinking and judgement in general; this holds the path's own account of seeing rightly.",
+   "nearby_terms": [
+    "right understanding",
+    "view",
+    "discernment",
+    "perspective"
+   ],
+   "question_draft": "What does the path mean by seeing things as they are, and what does that seeing do to a life?",
+   "art": "right-view.jpg"
+  },
+  {
+   "id": "right-intention",
+   "title": "Right Intention",
+   "group": "eightfold-path",
+   "status": "published",
+   "scope": "The second path factor: resolve on renunciation, freedom from ill will and harmlessness (SN 45.8), the translation variants (right resolve, right thought), and my positive renderings (simplicity, goodwill, refusing to add suffering). Boundary against Motivation and Goals: those hold the general science of wanting and pursuing; this holds the path's discipline of aim.",
+   "nearby_terms": [
+    "right resolve",
+    "intention",
+    "aspiration",
+    "renunciation"
+   ],
+   "question_draft": "What is worth resolving on, and what does a resolved life look like?",
+   "art": "right-intention.jpg"
+  },
+  {
+   "id": "right-speech",
+   "title": "Right Speech",
+   "group": "eightfold-path",
+   "status": "published",
+   "scope": "The speech factor: the four abstentions (no lying, divisive, abusive or idle speech), the Abhaya Sutta timing test (factual, true, beneficial words, endearing or not, said at the proper time, out of sympathy for living beings; the writer re-checks the six-case formula against the opened MN 58), and the modern relatives (nonviolent communication, speech gates). Boundary against Others: relational material stays there; this holds the ethics of speaking.",
+   "nearby_terms": [
+    "truthful speech",
+    "right communication",
+    "speech ethics"
+   ],
+   "question_draft": "What makes speech right, and when is silence the better part of it?",
+   "art": "right-speech.jpg"
+  },
+  {
+   "id": "right-action",
+   "title": "Right Action",
+   "group": "eightfold-path",
+   "status": "published",
+   "scope": "The bodily-conduct factor: abstaining from killing, taking what is not given and sexual misconduct, with Bodhi's positive counterparts (compassion, honesty, fidelity). Boundary against Behaviour: habit science stays there; this holds the path's ethical restraints on bodily conduct.",
+   "nearby_terms": [
+    "right conduct",
+    "non-harm",
+    "ethical action"
+   ],
+   "question_draft": "What restraints on the body make a life livable with itself?",
+   "art": "right-action.jpg"
+  },
+  {
+   "id": "right-livelihood",
+   "title": "Right Livelihood",
+   "group": "eightfold-path",
+   "status": "published",
+   "scope": "The fifth path factor: earning without harm, the Vanijja Sutta's five prohibited trades (AN 5.177), the sila grouping with speech and action, and my values-alignment revisiting (B152). Boundary against Life's Purpose (calling) and Goals (work aims).",
+   "nearby_terms": [
+    "ethical work",
+    "vocation",
+    "earning"
+   ],
+   "question_draft": "Can a living be made without harm, and what does work do to the person who does it?",
+   "art": "right-livelihood.jpg"
+  },
+  {
+   "id": "right-effort",
+   "title": "Right Effort",
+   "group": "eightfold-path",
+   "status": "published",
+   "scope": "The sixth path factor: the four efforts (SN 45.8) - preventing, abandoning, arousing and maintaining qualities of mind - desire as the first verb, and the tuning-not-forcing calibration (Sona Sutta, AN 6.55). Boundary against Motivation and Behaviour.",
+   "nearby_terms": [
+    "diligence",
+    "persistence",
+    "energy"
+   ],
+   "question_draft": "Where should effort go, and how much is the right amount?",
+   "art": "right-effort.jpg"
+  },
+  {
+   "id": "right-mindfulness",
+   "title": "Right Mindfulness",
+   "group": "eightfold-path",
+   "status": "published",
+   "scope": "The seventh path factor: the four establishments of mindfulness (MN 10 satipatthana), the refrain (ardent, alert and mindful, putting aside greed and distress), the attention principles, with the boundary between the path factor and the clinical mindfulness-intervention evidence (Goyal et al. 2014) drawn explicitly rather than merged. Boundary against Attention: the general science of attention lives there; this holds the path's own mindfulness training.",
+   "nearby_terms": [
+    "sati",
+    "mindful awareness",
+    "present-moment attention"
+   ],
+   "question_draft": "What is being established when mindfulness is established, and what does it clear away?",
+   "art": "right-mindfulness.jpg"
+  },
+  {
+   "id": "right-concentration",
+   "title": "Right Concentration",
+   "group": "eightfold-path",
+   "status": "published",
+   "scope": "The eighth path factor: the four jhanas (DN 2), the Sona Sutta tuning (neither too taut nor too loose), samadhi as calibration rather than force, and the pairs with focused-attention meditation, flow and single-tasking. Boundary against Attention (absorption states).",
+   "nearby_terms": [
+    "samadhi",
+    "absorption",
+    "collectedness"
+   ],
+   "question_draft": "What is collectedness, and how is it tuned rather than forced?",
+   "art": "right-concentration.jpg"
+  },
+  {
+   "id": "gratitude",
+   "title": "Gratitude",
+   "group": "affective-life",
+   "status": "published",
+   "scope": "The felt recognition of benefit received: Seneca's On Benefits and Aristotle NE VIII.14 as classical anchors, the attention theory (Emmons and McCullough's counting-blessings work), the find-remind-and-bind relational theory (Algoe), the practice family (AF063, K164, K212, K280) and ecological gratitude. PROVISIONAL mint after card review; the writer re-tests the family from opened sources. Nearby terms: thankfulness, appreciation, indebtedness (the benefit's shadow).",
+   "nearby_terms": [
+    "thankfulness",
+    "appreciation",
+    "indebtedness"
+   ],
+   "question_draft": "What is gratitude actually about, and why does it resist being a self-help technique?",
+   "art": "gratitude.jpg"
+  },
+  {
+   "id": "fear",
+   "title": "Fear",
+   "group": "affective-life",
+   "status": "published",
+   "scope": "Defense against threat: the evolved fear module (Ohman and Mineka), the classification and examination of fears, courage as action despite fear, the Epicurean argument against the fear of death. FIRST TASK per DISAMBIGUATION.md: build the fear-versus-anxiety boundary matrix from opened sources before the map is written; the Anxiety dossier keeps fear as a map group until the split is settled.",
+   "nearby_terms": [
+    "dread",
+    "phobia",
+    "panic",
+    "courage"
+   ],
+   "question_draft": "What is fear protecting, and how much of it belongs to the person rather than the threat?",
+   "art": "fear.jpg"
+  },
+  {
+   "id": "sadness-and-grief",
+   "title": "Sadness & Grief",
+   "group": "affective-life",
+   "status": "published",
+   "scope": "Loss and mourning: grief's oscillation model (dual process), grief for what passes (Zhuangzi), complicated grief research, ecological grief, sorrow's fruit, and the sadness-versus-depression distinction (AF051). NOTE: 'Sadness & Grief' is an editorial grouping, not a settled equivalence; the writer tests the sadness-as-state versus grief-as-process boundary from opened sources and flags any split proposal with the matrix as evidence.",
+   "nearby_terms": [
+    "mourning",
+    "loss",
+    "sorrow",
+    "bereavement"
+   ],
+   "question_draft": "What is grief for, and how does a person mourn without being consumed?",
+   "art": "sadness-and-grief.jpg"
+  },
+  {
+   "id": "shame-and-guilt",
+   "title": "Shame & Guilt",
+   "group": "affective-life",
+   "status": "published",
+   "scope": "The moral self-conscious emotions: shame as global-self judgment versus guilt as act judgment (Tangney and colleagues), shamefastness (aidos) and the classical treatments, the adaptive-function principles (AF053, AF054) and the shame-versus-guilt signal distinction (SP034). PROVISIONAL mint after card review; the writer re-tests the family from opened sources. Nearby terms: embarrassment, remorse, humiliation.",
+   "nearby_terms": [
+    "embarrassment",
+    "remorse",
+    "humiliation",
+    "self-consciousness"
+   ],
+   "question_draft": "Which of the two moral emotions repairs a life, and which corrodes it?",
+   "art": "shame-and-guilt.jpg"
+  },
+  {
+   "id": "frustration",
+   "title": "Frustration",
+   "group": "affective-life",
+   "status": "published",
+   "scope": "The affect of blocked goals: frustration as the felt gap between effort and outcome (goal-blockage and frustration-tolerance research), frustration's place between irritation and anger, the Dollard frustration-aggression lineage and its failures, low frustration tolerance in REBT, and the compendium's practice family. FIRST TASK per DISAMBIGUATION.md: build the frustration-versus-anger boundary matrix from opened sources before the map is written. Owner-directed mint 2026-10-25.",
+   "nearby_terms": [
+    "irritation",
+    "annoyance",
+    "anger"
+   ],
+   "question_draft": "What is frustration telling the person about the gap between effort and outcome, and when is the right move to push harder rather than change course?",
+   "art": "frustration.jpg"
+  },
+  {
+   "id": "creation",
+   "title": "Creation",
+   "group": "flourishing",
+   "status": "published",
+   "scope": "Creation as an innate meaning in life (owner-directed scope, 2026-10-25): creating things that matter, creating things that feel good, creating links and connections between people and ideas, and procreating; life itself as creation. The dossier maps the wiki's material on making as a source of meaning (generativity, meaning-making through making, craftsmanship, the Creator archetype family) and holds the boundary against Creativity (the capacity and its psychology), which has its own dossier. Owner-directed mint 2026-10-25.",
+   "nearby_terms": [
+    "creativity",
+    "generativity",
+    "procreation",
+    "meaning-making"
+   ],
+   "question_draft": "Why does making things (objects, connections, children, a life) feel like it means something, and what kind of meaning is that?",
+   "art": "creation.jpg"
+  },
+  {
+   "id": "creativity",
+   "title": "Creativity",
+   "group": "minds-life",
+   "status": "published",
+   "scope": "The capacity to produce work that is both novel and appropriate: the standard definition (Runco, Sternberg), divergent thinking and its measurement debates, the four-C model, flow and creativity (Csikszentmihalyi), everyday creativity, blocks and fear of creating. Holds the boundary against Creation (meaning-in-life theme, its own dossier): this dossier is about the capacity and its process, not about what making means for a life. Owner-directed mint 2026-10-25.",
+   "nearby_terms": [
+    "divergent thinking",
+    "imagination",
+    "inspiration",
+    "creation"
+   ],
+   "question_draft": "What is the creative capacity actually for, and what does it need to work?",
+   "art": "creativity.jpg"
+  },
+  {
+   "id": "procrastination",
+   "title": "Procrastination",
+   "group": "challenges",
+   "status": "published",
+   "scope": "The voluntary delay of an intended action despite expecting to be worse off for it (Steel's definition): the emotion-regulation account (Sirois and Pychyl), temporal motivation theory and the intention-action gap, akrasia as the classical ancestor, self-forgiveness and self-compassion as evidence-backed repairs, and the compendium's practice family (implementation intentions, temptation bundling, precommitment). Owner-directed mint 2026-10-25.",
+   "nearby_terms": [
+    "akrasia",
+    "delay",
+    "intention-action gap",
+    "temporal discounting"
+   ],
+   "question_draft": "Why does a person who knows better still postpone, and what actually closes the gap between intending and doing?",
+   "art": "procrastination.jpg"
+  },
+  {
+   "id": "suffering",
+   "title": "Suffering",
+   "group": "challenges",
+   "status": "published",
+   "art": "suffering.jpg",
+   "scope": "Pain versus suffering, the second arrow, and what suffering asks of the person carrying it. Boundaries: Acceptance (the stance), Impermanence (why things pass), Anxiety/Sadness (specific states).",
+   "nearby_terms": [
+    "pain",
+    "dukkha",
+    "distress",
+    "affliction"
+   ],
+   "question_draft": "What is the difference between pain and suffering, and what does suffering ask of the person carrying it?"
+  },
+  {
+   "id": "acceptance",
+   "title": "Acceptance",
+   "group": "challenges",
+   "status": "published",
+   "art": "acceptance.jpg",
+   "scope": "Acceptance as a stance toward what is and cannot now be changed, across Stoic, Buddhist and ACT material. Boundary against Suffering (pain vs the second arrow) and Agency (what can be changed).",
+   "nearby_terms": [
+    "acceptance",
+    "allowing",
+    "non-resistance",
+    "equanimity"
+   ],
+   "question_draft": "What changes in a life when what cannot be changed stops being fought?",
+   "updated": "2026-10-25"
+  },
+  {
+   "id": "freedom",
+   "title": "Freedom",
+   "group": "minds-life",
+   "status": "published",
+   "art": "freedom.jpg",
+   "scope": "Freedom as inner and outer: choice, autonomy, liberation, constraint. Boundary against Agency (acting) and Decision-Making (choosing).",
+   "nearby_terms": [
+    "freedom",
+    "liberty",
+    "autonomy",
+    "liberation"
+   ],
+   "question_draft": "What is a person fleeing when she flees her own freedom, and what does she exercise when she takes it back?"
+  },
+  {
+   "id": "impermanence",
+   "title": "Impermanence",
+   "group": "challenges",
+   "status": "published",
+   "art": "impermanence.jpg",
+   "scope": "Owner decision 2026-10-25: replaces a standalone Meaning & Mortality dossier. Impermanence and mortality (memento mori, death-awareness, ageing, loss of what we hold) as one theme. Meaning-making belongs to Life's Purpose; the fear of death to Fear; the uncertainty reading to Uncertainty. Source material: the written meaning-and-mortality draft (not registered).",
+   "nearby_terms": [
+    "impermanence",
+    "mortality",
+    "memento mori",
+    "anicca",
+    "transience"
+   ],
+   "question_draft": "What changes when we take seriously that everything we hold, ourselves included, passes?"
+  },
+  {
+   "id": "leisure",
+   "title": "Leisure",
+   "group": "flourishing",
+   "status": "planned",
+   "scope": "What leisure genuinely is - rest, play and contemplative free time (schele/otium) - versus idleness and consumption; whether the capacity for leisure is a condition of flourishing or its by-product, with the psychology of recovery and restoration.",
+   "nearby_terms": [
+    "rest",
+    "play",
+    "recovery",
+    "free time",
+    "schele"
+   ],
+   "question_draft": "What is leisure for, and why does a life without it feel impoverished even when it is full?",
+   "art": "leisure.jpg"
+  },
+  {
+   "id": "executive-functions",
+   "title": "Executive Functions",
+   "group": "minds-life",
+   "status": "planned",
+   "scope": "The mind's management suite - inhibition, working memory, cognitive flexibility, planning - where virtue traditions and cognitive neuroscience agree and disagree on self-regulation; willpower as trainable skill versus depletable resource (ego depletion and its critics).",
+   "nearby_terms": [
+    "self-control",
+    "working memory",
+    "inhibition",
+    "cognitive flexibility",
+    "willpower"
+   ],
+   "question_draft": "What does it cost to hold a plan in mind against distraction, and who or what is doing the holding?",
+   "art": "executive-functions.jpg"
+  }
+ ],
+ "backlog": [
+  "Memory",
+  "Belief",
+  "Habit (focused, if Behaviour grows too large)",
+  "Perception",
+  "Desire & Craving (if Motivation grows too large)",
+  "Meaning & Mortality",
+  "Forgiveness & Repair",
+  "Compassion without self-abandonment",
+  "Envy (scope review: benign versus malicious envy cards exist; does the family answer a question the Anger and Compassion dossiers do not?)",
+  "Compassion (scope review: overlaps the Others dossier's compassion material; needs a boundary matrix first)",
+  "Loneliness (scope review: the signal account AF058/PP031/SO024; boundary against Others to be tested)",
+  "Love (scope review: compassionate love, enemy-love and proper self-love cards; boundary against Compassion and Others)",
+  "Hope (scope review: elpis and hope theory AF067; boundary against Uncertainty)",
+  "Awe (scope review: vastness and self-diminishment cards; boundary against Attention and The Self)",
+  "Pride (scope review: authentic versus hubristic pride; boundary against Shame & Guilt and Flourishing)",
+  "Equanimity (scope review: the eight worldly winds and upekkha cards; boundary against affect-regulation material)"
+ ]
 }

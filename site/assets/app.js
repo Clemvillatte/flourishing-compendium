@@ -19468,15 +19468,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The other end of the mechanism is time. [MO005 — Recognise that motivation is temporal — delay reduces motivation](card:MO005%20%E2%80%94%20Recognise%20that%20motivation%20is%20temporal%20%E2%80%94%20delay%20reduces%20motivation) carries Steel and König's formal model of motivation, and the 2018 test with N = 7,400 found pacing on a hyperbolic curve, susceptibility to proximity of temptation, and procrastination related to intention-action gaps but not to intentions. On the model, a distant reward motivates weakly, so the problem sits in the timing between deciding and doing more than in the deciding itself."
+          "x": "The other end of the mechanism is time. [MO005 — Recognise that motivation is temporal — delay reduces motivation](card:MO005%20%E2%80%94%20Recognise%20that%20motivation%20is%20temporal%20%E2%80%94%20delay%20reduces%20motivation) carries Steel and König's formal model of motivation, and the 2018 test with N = 7,400 found pacing on a hyperbolic curve, susceptibility to proximity of temptation, and procrastination related to intention-action gaps but not to intentions."
         },
         {
           "t": "p",
-          "x": "The model the Steel review found its effects consistent with is [temporal motivation theory](card:Temporal%20motivation%20theory), the hybrid of expectancy theory and hyperbolic discounting. [Temporal discounting](card:Temporal%20discounting) supplies its mechanism: the devaluing of rewards as receipt moves away, on a curve steep near the present and flatter further out. A task that is unpleasant to start now and a reward that is too far away to pull are one predicament seen from two ends, which is why the two reviews can agree on the facts while pulling the lever from different sides."
+          "x": "The model the Steel review found its effects consistent with is [temporal motivation theory](card:Temporal%20motivation%20theory), the hybrid of expectancy theory and hyperbolic discounting. [Temporal discounting](card:Temporal%20discounting) supplies its mechanism: the devaluing of rewards as receipt moves away, on a curve steep near the present and flatter further out. A task that is unpleasant to start now and a reward that is too far away to pull are one predicament seen from two ends. Steel's meta-analysis of 691 correlations found the strong and consistent predictors to be task aversiveness, task delay, self-efficacy and impulsiveness, with the conscientiousness facets behind them, and the effects, the abstract says, prove consistent with temporal motivation theory."
         },
         {
           "t": "p",
-          "x": "What follows the lapse has a measured shape. In the two-exam study of 119 first-year students, Wohl, Pychyl and Bennett found that self-forgiveness for procrastinating before the first exam went with less procrastination before the second, mediated by negative affect; the finding is carried on [MO050 — Learn to practise self-compassion when procrastinating — guilt backfires](card:MO050%20%E2%80%94%20Learn%20to%20practise%20self-compassion%20when%20procrastinating%20%E2%80%94%20guilt%20backfires). The self-compassion line is correlational, and neither line shows harshness helping."
+          "x": "Sirois and Pychyl build on the same correlations rather than disputing them. Their point is about what explains the pattern: \"While certainly an oversimplification, this summary statement highlights the correlational nature of this research. What is lacking is an explanation of the processes underlying these relations\" (Sirois and Pychyl 2013, author manuscript, [White Rose eprints PDF](https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf)). The process they propose is the mood: \"aversive tasks lead to anxiety and worry, and that task avoidance is a strategy to avoid this negative mood\" (same manuscript). The two accounts compose rather than compete: a devalued future and an aversive present can be one mechanism seen from two ends, and the mood-repair review itself does not claim to be the whole story."
+        },
+        {
+          "t": "p",
+          "x": "What follows the lapse has a measured shape. In the two-exam study of 119 first-year students, Wohl, Pychyl and Bennett found that self-forgiveness for procrastinating before the first exam went with less procrastination before the second, mediated by negative affect; the finding is carried on [MO050 — Learn to practise self-compassion when procrastinating — guilt backfires](card:MO050%20%E2%80%94%20Learn%20to%20practise%20self-compassion%20when%20procrastinating%20%E2%80%94%20guilt%20backfires). The self-forgiveness finding is correlational, and neither line shows harshness helping."
         },
         {
           "t": "p",
@@ -19504,11 +19508,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Making progress visible sustains the work itself. Amabile and Kramer's small wins are carried on [MO027 — Learn to make progress visible — feedback sustains motivation](card:MO027%20%E2%80%94%20Learn%20to%20make%20progress%20visible%20%E2%80%94%20feedback%20sustains%20motivation), and the 138-study meta-analysis in which monitoring prompts raised goal attainment, d+ = 0.40, larger when progress was physically recorded or made public, strongest for health goals."
+          "x": "Making progress visible sustains the work itself. Amabile and Kramer's small wins are carried on [MO027 — Learn to make progress visible — feedback sustains motivation](card:MO027%20%E2%80%94%20Learn%20to%20make%20progress%20visible%20%E2%80%94%20feedback%20sustains%20motivation): the principle of recording progress and letting the record feed the next step. A 138-study meta-analysis found monitoring prompts raised goal attainment, d+ = 0.40, larger when progress was physically recorded or made public, strongest for health goals."
         },
         {
           "t": "p",
-          "x": "Identity can carry the intention across the gap. In the voter experiments carried on [MO021 — Learn to connect goals to identity — I am a person who...](card:MO021%20%E2%80%94%20Learn%20to%20connect%20goals%20to%20identity%20%E2%80%94%20I%20am%20a%20person%20who...) the being-a-voter wording significantly increased interest in registering to vote, and voter turnout, assessed by official state records, in two statewide elections; the effect is direct support in one domain, not a general result about I-am-a-person-who statements, and the card says so."
+          "x": "The voter experiments measured one domain. In the studies carried on [MO021 — Learn to connect goals to identity — I am a person who...](card:MO021%20%E2%80%94%20Learn%20to%20connect%20goals%20to%20identity%20%E2%80%94%20I%20am%20a%20person%20who...) the being-a-voter wording significantly increased interest in registering to vote, and voter turnout, assessed by official state records, in two statewide elections. The card is explicit that this is direct support in one domain, not a general result about I-am-a-person-who statements; applying it to a person's own goals is by analogy."
         },
         {
           "t": "p",
@@ -19580,11 +19584,11 @@ window.fcDossiersData = {
         },
         {
           "t": "h2",
-          "x": "Is delay by its nature self-defeating?"
+          "x": "Is active procrastination procrastination, or purposeful delay?"
         },
         {
           "t": "p",
-          "x": "The shared question: does the word procrastination name a delay that costs the delayer, or can chosen delay work in the person's favour? The definition the field works with puts the cost inside the concept. Sirois and Pychyl open their account with it:"
+          "x": "The shared question: does the word procrastination name a delay that costs the delayer, or can chosen delay work in the person's favour? The definition the field works with puts the cost inside the concept, as what the delayer expects, not what the outcome later shows. Sirois and Pychyl open their account with it:"
         },
         {
           "t": "q",
@@ -19593,7 +19597,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Tice and Baumeister's semester data affirm the cost side:"
+          "x": "Tice and Baumeister's semester data are what the definition expects made visible:"
         },
         {
           "t": "q",
@@ -19611,42 +19615,52 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"although active procrastinators procrastinate to the same degree as passive procrastinators, they are more similar to nonprocrastinators than to passive procrastinators in terms of purposive use of time, control of time, self-efficacy belief, coping styles, and outcomes including academic performance.\"",
+          "x": "\"although active procrastinators procrastinate to the same degree as passive procrastinators, they are more similar to nonprocrastinators than to passive procrastinators in terms of purposive use of time, control of time, self-efficacy belief, coping styles, and outcomes including academic performance.\" ([Chu and Choi 2005, abstract, plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=15959999&rettype=abstract&retmode=text))",
           "s": null
         },
         {
           "t": "p",
-          "x": "The disagreement is definitional, and the data leave it live. On the definition that expects the delayer to be worse off, a person who profits by the delay is not procrastinating, and Chu and Choi's positive type falls outside the word; on Chu and Choi's construct, the word covers both harmful and chosen delay, and only the passive kind is the problem. Tice and Baumeister measured a trait scale against set assignments, and Chu and Choi sorted people by whether the delay was deliberate, so the two findings can both stand while the boundary question stays open. Whether \"active procrastination\" names a separate behaviour or planning that happens to look like delay is not settled by either abstract; the later work that tests the active-procrastination scale is not cited here, and both studies use student samples."
+          "x": "A construct-validity test of the new construct sides with the definition against it:"
+        },
+        {
+          "t": "q",
+          "x": "\"correlational results revealed that active procrastination has been mislabeled as a type of procrastination that is more appropriately construed as purposeful delay with adaptive qualities.\" (Chowdhury 2016, thesis abstract via [Semantic Scholar](https://www.semanticscholar.org/paper/f75c5c0d8c30510c44b74e99419e11c9599bc89f))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Expected harm is part of the research definition: an unexpectedly good outcome does not establish that the original delay fell outside it. Chu and Choi nevertheless classify active procrastinators as a positive type; Chowdhury argues that this construct is mislabeled and better understood as purposeful delay. The disagreement concerns whether active procrastination belongs within procrastination or names a different form of delay, and neither abstract settles it."
         },
         {
           "t": "h2",
-          "x": "What explains the delay: dispositions or the moment's mood?"
+          "x": "When judgment and action part, what gives way?"
         },
         {
           "t": "p",
-          "x": "The shared question: the correlations are agreed on both sides, so what kind of explanation does the delay need? Steel's meta-analysis of 691 correlations located the strong predictors in stable dispositions and task properties, and offered the timing account as the integrative explanation:"
+          "x": "Is weakness of will action against one's current better judgment, or an over-ready revision of an intention? Davidson characterizes incontinent action in terms of the first; Holton argues that weakness of will is a different phenomenon."
         },
         {
           "t": "q",
-          "x": "\"Strong and consistent predictors of procrastination were task aversiveness, task delay, self-efficacy, and impulsiveness, as well as conscientiousness and its facets of self-control, distractibility, organization, and achievement motivation. These effects prove consistent with temporal motivation theory, an integrative hybrid of expectancy theory and hyperbolic discounting.\" (Steel, \"The Nature of Procrastination\", Psychological Bulletin 133(1), 2007, [abstract](https://pubmed.ncbi.nlm.nih.gov/17201571/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=17201571&rettype=abstract&retmode=text))",
+          "x": "\"In doing b an agent acts incontinently if and only if: (a) the agent does b intentionally; (b) the agent believes there is an alternative action a open to him; and (c) the agent judges that, all things considered, it would be better to do a than to do b.\" (Davidson 1970, quoted in the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/weakness-will/))",
           "s": null
         },
         {
           "t": "p",
-          "x": "Sirois and Pychyl accept the correlations and deny that the predictor list explains them:"
+          "x": "Holton denies that this is what the ordinary cases are, and moves the failure from judgment to intention:"
         },
         {
           "t": "q",
-          "x": "\"While certainly an oversimplification, this summary statement highlights the correlational nature of this research. What is lacking is an explanation of the processes underlying these relations.\" (Sirois and Pychyl 2013, author manuscript, [White Rose eprints PDF](https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf))",
+          "x": "\"Philosophical orthodoxy identifies weakness of will with akrasia: the weak willed person is someone who intentionally acts against their better judgement. It is argued that this is a mistake. Weakness of will consists in a quite different failing, namely an over-ready revision of one's intentions.\" ([Holton 1999, abstract](https://rjh221.user.srcf.net/bibliography/))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"Weakness of will arises, I shall suggest, when agents are too ready to reconsider their intentions.\" ([Holton 1999, author-hosted paper](https://rjh221.user.srcf.net/bibliography/pubs/Weakness.pdf))",
           "s": null
         },
         {
           "t": "p",
-          "x": "Their process is the mood: \"aversive tasks lead to anxiety and worry, and that task avoidance is a strategy to avoid this negative mood\" (same manuscript)."
-        },
-        {
-          "t": "p",
-          "x": "The disagreement concerns what would count as understanding the delay: a temporal-devaluation mechanism that needs no reference to feelings, or a mood-repair process that gives the temporal pattern its motive force. The two mechanisms are compatible at the data level, an impulsive person may devalue distant rewards, feel the present mood more, or both, and neither abstract tests the difference, which is what keeps the question open rather than settled."
+          "x": "The disagreement changes what a case of delay must establish. Davidson's characterization asks whether someone intentionally acted against their current better judgment; Holton's asks whether they reconsidered an intention too readily. These are different questions, and either may help distinguish cases of postponement. The philosophical disagreement does not itself establish which intervention reduces procrastination."
         },
         {
           "t": "h",
@@ -19655,7 +19669,7 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Variation",
-          "x": "What tends to need varying on this theme is the response to the lapse. The moral framing, laziness, guilt, self-blame, is a candidate target on the mood-repair account: the proposed chain is that self-blame feeds the mood being escaped, and the studies behind the self-compassion line are correlational, so the chain is a proposed mechanism, not a demonstrated one. The schedule-first framing rearranges time and, on the mood-repair account, leaves the feeling unaddressed. The intention-first framing assumes the missing piece is deciding, when the intention-action gap is the measured problem. The adaptive direction is to treat the delay as information: how the task feels, how rested the person is, and how far away the reward sits."
+          "x": "What tends to need varying on this theme is the response to the lapse. The moral framing, laziness, guilt, self-blame, is a candidate target on the mood-repair account: the proposed chain is that self-blame feeds the mood being escaped, and the studies behind the self-forgiveness line are correlational, so the chain is a proposed mechanism, not a demonstrated one. The schedule-first framing rearranges time and, on the mood-repair account, leaves the feeling unaddressed. The intention-first framing assumes the missing piece is deciding, when the intention-action gap is the measured problem. The adaptive direction is to treat the delay as information: how the task feels, how rested the person is, and how far away the reward sits."
         },
         {
           "t": "vs",
