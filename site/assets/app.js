@@ -13856,7 +13856,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"And what, monks, is right action? Abstaining from taking life, abstaining from stealing, abstaining from unchastity: This, monks, is called right action.\" ([SN 45.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)).",
+          "x": "\"And what, monks, is right action? Abstaining from taking life, abstaining from stealing, abstaining from unchastity: This, monks, is called right action.\" ([SN 45.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html))",
           "s": null
         },
         {
@@ -13873,7 +13873,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"The positive counterpart to abstaining from taking life, as the Buddha indicates, is the development of kindness and compassion for other beings. The disciple not only avoids destroying life; he dwells with a heart full of sympathy, desiring the welfare of all beings.\" ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)).",
+          "x": "\"The positive counterpart to abstaining from taking life, as the Buddha indicates, is the development of kindness and compassion for other beings. The disciple not only avoids destroying life; he dwells with a heart full of sympathy, desiring the welfare of all beings.\" ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html))",
           "s": null
         },
         {
@@ -13882,7 +13882,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"The positive virtue corresponding to the abstinence is, for laypeople, marital fidelity. Husband and wife should each be faithful and devoted to the other, content with the relationship, and should not risk a breakup to the union by seeking outside partners.\" ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)).",
+          "x": "\"The positive virtue corresponding to the abstinence is, for laypeople, marital fidelity. Husband and wife should each be faithful and devoted to the other, content with the relationship, and should not risk a breakup to the union by seeking outside partners.\" ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html))",
           "s": null
         },
         {
@@ -13915,7 +13915,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"The positive counterpart to abstaining from stealing is honesty, which implies respect for the belongings of others and for their right to use their belongings as they wish. Another related virtue is contentment, being satisfied with what one has without being inclined to increase one's wealth by unscrupulous means. The most eminent opposite virtue is generosity, giving away one's own wealth and possessions in order to benefit others.\" ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)).",
+          "x": "\"The positive counterpart to abstaining from stealing is honesty, which implies respect for the belongings of others and for their right to use their belongings as they wish. Another related virtue is contentment, being satisfied with what one has without being inclined to increase one's wealth by unscrupulous means. The most eminent opposite virtue is generosity, giving away one's own wealth and possessions in order to benefit others.\" ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html))",
           "s": null
         },
         {
@@ -13968,7 +13968,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.\" ([Aristotle, Nicomachean Ethics II.1, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)).",
+          "x": "\"men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.\" ([Aristotle, Nicomachean Ethics II.1, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))",
           "s": null
         },
         {
@@ -14045,7 +14045,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Abstaining from taking life, abstaining from stealing, abstaining from unchastity: This, monks, is called right action.\" ([SN 45.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)).",
+          "x": "\"Abstaining from taking life, abstaining from stealing, abstaining from unchastity: This, monks, is called right action.\" ([SN 45.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html))",
           "s": null
         },
         {
@@ -14054,7 +14054,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"In order for a war to be just, three things are necessary. First, the authority of the sovereign by whose command the war is to be waged.\" ([Aquinas, Summa Theologiae II-II, q.40, a.1](https://www.newadvent.org/summa/3040.htm)).",
+          "x": "\"In order for a war to be just, three things are necessary. First, the authority of the sovereign by whose command the war is to be waged.\" ([Aquinas, Summa Theologiae II-II, q.40, a.1](https://www.newadvent.org/summa/3040.htm))",
           "s": null
         },
         {
@@ -14071,7 +14071,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Socrates in fact contended generally against the theory, maintaining there is no such state as that of Imperfect Self-Control, for that no one acts contrary to what is best conceiving it to be best but by reason of ignorance what is best.\" ([Aristotle, Nicomachean Ethics VII.2, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)).",
+          "x": "\"Socrates in fact contended generally against the theory, maintaining there is no such state as that of Imperfect Self-Control, for that no one acts contrary to what is best conceiving it to be best but by reason of ignorance what is best.\" ([Aristotle, Nicomachean Ethics VII.2, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt))",
           "s": null
         },
         {
@@ -14080,7 +14080,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"There have never been people who know but do not act. Those who are supposed to know but do not act simply do not yet know.\" ([Internet Encyclopedia of Philosophy, \"Wang Yangming (1472—1529)\"](https://iep.utm.edu/wangyang/)).",
+          "x": "\"There have never been people who know but do not act. Those who are supposed to know but do not act simply do not yet know.\" ([Internet Encyclopedia of Philosophy, \"Wang Yangming (1472—1529)\"](https://iep.utm.edu/wangyang/))",
           "s": null
         },
         {
@@ -14089,7 +14089,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"With all due respect to Socrates, his account of the matter is at variance with plain facts, and we must enquire with respect to the affection, if it be caused by ignorance what is the nature of the ignorance: for that the man so failing does not suppose his acts to be right before he is under the influence of passion is quite plain.\" ([Aristotle, Nicomachean Ethics VII.2, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)).",
+          "x": "\"With all due respect to Socrates, his account of the matter is at variance with plain facts, and we must enquire with respect to the affection, if it be caused by ignorance what is the nature of the ignorance: for that the man so failing does not suppose his acts to be right before he is under the influence of passion is quite plain.\" ([Aristotle, Nicomachean Ethics VII.2, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt))",
           "s": null
         },
         {
@@ -14098,7 +14098,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"the result which Socrates was seeking comes out, that is to say, the affection does not take place in the presence of that which is thought to be specially and properly Knowledge, nor is this dragged about by reason of the affection, but in the presence of that Knowledge which is conveyed by Sense.\" ([Aristotle, Nicomachean Ethics VII.3, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)).",
+          "x": "\"the result which Socrates was seeking comes out, that is to say, the affection does not take place in the presence of that which is thought to be specially and properly Knowledge, nor is this dragged about by reason of the affection, but in the presence of that Knowledge which is conveyed by Sense.\" ([Aristotle, Nicomachean Ethics VII.3, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt))",
           "s": null
         },
         {
@@ -14107,7 +14107,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"For Wang, knowledge means knowing how to respond to a given situation and action is responding to a given situation.\" ([Internet Encyclopedia of Philosophy, \"Wang Yangming (1472—1529)\"](https://iep.utm.edu/wangyang/)).",
+          "x": "\"For Wang, knowledge means knowing how to respond to a given situation and action is responding to a given situation.\" ([Internet Encyclopedia of Philosophy, \"Wang Yangming (1472—1529)\"](https://iep.utm.edu/wangyang/))",
           "s": null
         },
         {
@@ -14116,7 +14116,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"The Teacher said, \"The knowing and acting you refer to are already separated by selfish desires and are no longer knowing and acting in their original substance. There have never been people who know but do not act. Those who are supposed to know but do not act simply do not yet know. When sages and worthies taught people about knowing and acting, it was precisely because they wanted them to restore this original substance, and not just to have them behave like that and be satisfied.\"\" ([Wang Yangming, Instructions for Practical Living, in Wm. Theodore de Bary and Irene Bloom (comps.), Sources of Chinese Tradition, via Columbia University Asia for Educators](https://afe.easia.columbia.edu/main_pop/ps/ps_china-wang-yangming-knowing-acting.htm)).",
+          "x": "\"The Teacher said, \"The knowing and acting you refer to are already separated by selfish desires and are no longer knowing and acting in their original substance. There have never been people who know but do not act. Those who are supposed to know but do not act simply do not yet know. When sages and worthies taught people about knowing and acting, it was precisely because they wanted them to restore this original substance, and not just to have them behave like that and be satisfied.\"\" ([Wang Yangming, Instructions for Practical Living, in Wm. Theodore de Bary and Irene Bloom (comps.), Sources of Chinese Tradition, via Columbia University Asia for Educators](https://afe.easia.columbia.edu/main_pop/ps/ps_china-wang-yangming-knowing-acting.htm))",
           "s": null
         },
         {
@@ -14126,6 +14126,36 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "The two accounts also differ in emphasis. Aristotle's chapter on virtue of character forms the agent through practice, becoming just by doing just acts; Wang's instruction points to restoring the original substance, removing the selfish desires that did the separating. Whether character formed through practice and knowing restored by clearing are one work or two is not settled by the passages."
+        },
+        {
+          "t": "h2",
+          "x": "How robust is moral character across situations?"
+        },
+        {
+          "t": "p",
+          "x": "The character answer and the situation answer meet on the same question: how reliably does a settled character trait show up in conduct? The virtue tradition's account of a virtue is dispositional through and through:"
+        },
+        {
+          "t": "q",
+          "x": "\"A virtue is an excellent trait of character. It is a disposition, well entrenched in its possessor—something that, as we say, goes all the way down, unlike a habit such as being a tea-drinker—to notice, expect, value, feel, desire, choose, act, and react in certain characteristic ways.\" ([Hursthouse and Pettigrove, Stanford Encyclopedia of Philosophy, \"Virtue Ethics\"](https://plato.stanford.edu/entries/ethics-virtue/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The situationist challenge reads the experimental tradition against that robustness. The encyclopedia's entry on moral character gives Doris's target and the challenge:"
+        },
+        {
+          "t": "q",
+          "x": "\"The ancient moralists assumed that virtues are, in John Doris's description, 'robust traits: if a person has a robust trait, they can be confidently expected to display trait-relevant behavior across a wide variety of trait-relevant situations, even where some or all of these situations are not optimally conducive to such behavior' (2002, 18). Doris and others argue that traits are not robust in this sense. They are not stable or consistent and are wrongly invoked to explain why people act as they do. Rather, these philosophers argue, and as the experimental tradition indicates, much of human behavior is attributable to seemingly trivial features of the situations in which persons find themselves.\" ([Homiak, Stanford Encyclopedia of Philosophy, \"Moral Character\"](https://plato.stanford.edu/entries/moral-character/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The disagreement is a dispute about what the studies show: the virtue tradition's definition makes a virtue a well-entrenched disposition; the situationist reading of the experiments holds that traits are not robust in that sense and that much of what a person does is attributable to features of the situations they are in. What remains open is the weight: how much of a person's conduct the settled character explains, and how much the room it happens in."
+        },
+        {
+          "t": "p",
+          "x": "I favour retaining character cultivation while taking situational pressure seriously. I want my practice to include noticing the settings where I repeatedly fail."
         },
         {
           "t": "h",
@@ -14164,7 +14194,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 5,
-          "x": "[K184 — Opposite action](card:K184%20%E2%80%94%20Opposite%20action): when an emotion urges a behaviour that runs counter to your values, do the opposite act in the opposite direction, full-sized; sadness says withdraw, so reach out; anger says attack, so step back. Stay in the act, recording afterwards whether the intensity changed. The laboratory test behind the skill is small, sixteen people with borderline personality disorder over six laboratory sessions, and it favoured opposite action for sadness and guilt or shame while showing no advantage for anxiety or anger in that design."
+          "x": "[K184 — Opposite action](card:K184%20%E2%80%94%20Opposite%20action): when an emotion urges a behaviour that runs counter to your values, do the opposite act in the opposite direction, full-sized; sadness says withdraw, so reach out; anger says attack, so step back. Stay in the act, recording afterwards whether the intensity changed. The laboratory test behind the skill is small, sixteen people with borderline personality disorder over six laboratory sessions, acting consistent with an induced emotion in half and opposite in the other half; it favoured opposite action for sadness and guilt or shame while showing no advantage for anxiety or anger in that design."
         },
         {
           "t": "n",

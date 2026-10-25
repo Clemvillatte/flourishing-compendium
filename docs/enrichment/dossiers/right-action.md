@@ -18,7 +18,7 @@ I hold this factor close because conduct is where intentions meet their test. A 
 
 The definition is stated in one breath. The [Magga-vibhanga Sutta](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html) gives it:
 
-> "And what, monks, is right action? Abstaining from taking life, abstaining from stealing, abstaining from unchastity: This, monks, is called right action." ([SN 45.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)).
+> "And what, monks, is right action? Abstaining from taking life, abstaining from stealing, abstaining from unchastity: This, monks, is called right action." ([SN 45.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html))
 
 [Right action](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20action) is the fourth factor of the [Eightfold Path](https://clemvillatte.github.io/flourishing-compendium/#card=Eightfold%20Path), and [the three trainings](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20trainings) group it under the ethics training, with wisdom and concentration as the other two. The path lists the conduct factors in order: speech, then action, then livelihood.
 
@@ -26,11 +26,11 @@ The definition is stated in one breath. The [Magga-vibhanga Sutta](https://www.a
 
 The factor is also where conduct touches what [karma](https://clemvillatte.github.io/flourishing-compendium/#card=Karma) is, because intentional conduct through body, speech or mind is what sets results going, and this factor holds the bodily side of it. The precepts name three abstentions and leave the positive side to be inferred; Bhikkhu Bodhi's study of the path supplies the counterparts. For taking life:
 
-> "The positive counterpart to abstaining from taking life, as the Buddha indicates, is the development of kindness and compassion for other beings. The disciple not only avoids destroying life; he dwells with a heart full of sympathy, desiring the welfare of all beings." ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)).
+> "The positive counterpart to abstaining from taking life, as the Buddha indicates, is the development of kindness and compassion for other beings. The disciple not only avoids destroying life; he dwells with a heart full of sympathy, desiring the welfare of all beings." ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html))
 
 And for the third abstention:
 
-> "The positive virtue corresponding to the abstinence is, for laypeople, marital fidelity. Husband and wife should each be faithful and devoted to the other, content with the relationship, and should not risk a breakup to the union by seeking outside partners." ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)).
+> "The positive virtue corresponding to the abstinence is, for laypeople, marital fidelity. Husband and wife should each be faithful and devoted to the other, content with the relationship, and should not risk a breakup to the union by seeking outside partners." ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html))
 
 So the factor is a floor with practices above it: abstain from three things, cultivate compassion, honesty, contentment, generosity and fidelity. [Spontaneous right action](https://clemvillatte.github.io/flourishing-compendium/#card=Spontaneous%20right%20action), Wang Yangming's doctrine that knowing the good already issues in acting, waits with the question of whether knowledge can fail to act.
 
@@ -46,7 +46,7 @@ Two neighbouring claims about harm answer questions of their own rather than thi
 
 The second abstention is taking what is not given, and its positive side is a cluster rather than one virtue. Bodhi's study names them together:
 
-> "The positive counterpart to abstaining from stealing is honesty, which implies respect for the belongings of others and for their right to use their belongings as they wish. Another related virtue is contentment, being satisfied with what one has without being inclined to increase one's wealth by unscrupulous means. The most eminent opposite virtue is generosity, giving away one's own wealth and possessions in order to benefit others." ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)).
+> "The positive counterpart to abstaining from stealing is honesty, which implies respect for the belongings of others and for their right to use their belongings as they wish. Another related virtue is contentment, being satisfied with what one has without being inclined to increase one's wealth by unscrupulous means. The most eminent opposite virtue is generosity, giving away one's own wealth and possessions in order to benefit others." ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html))
 
 [Generosity](https://clemvillatte.github.io/flourishing-compendium/#card=Generosity) is Aristotle's liberality, the mean with regard to wealth, concerned especially with giving; [truthfulness](https://clemvillatte.github.io/flourishing-compendium/#card=Truthfulness) is his account in Nicomachean Ethics IV.7, the character of a person true in word and in life where nothing is at stake. The research on truth-telling that hurts, [prosocial honesty research](https://clemvillatte.github.io/flourishing-compendium/#card=Prosocial%20honesty%20research), is about honesty in speech rather than conduct of the hands, and belongs with the speech factor's honesty question.
 
@@ -72,7 +72,7 @@ A further thesis runs through the table: the virtues are not separate talents. [
 
 Aristotle's account of virtue of character holds that character is formed by doing:
 
-> "men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts." ([Aristotle, Nicomachean Ethics II.1, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)).
+> "men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts." ([Aristotle, Nicomachean Ethics II.1, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
 
 The habituation ordering runs through several traditions. [Action before feeling](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20before%20feeling) is my application of Aristotle's habituation ordering: the Ethics itself teaches habituation, and II.4 distinguishes performing a just action from acting as a just person. [Action precedes feeling](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20precedes%20feeling) is the same act-first claim from Epictetus's counsels to William James's habit essay. [The rehearsal of virtue](https://clemvillatte.github.io/flourishing-compendium/#card=The%20rehearsal%20of%20virtue) is the Stoic practice of running doctrine through action until the mind takes its shape, Seneca's defense of precepts in Letter 94.
 
@@ -110,11 +110,11 @@ The relational traditions hold that conduct is answerable to particular others r
 
 The path's definition states the restraint without exception:
 
-> "Abstaining from taking life, abstaining from stealing, abstaining from unchastity: This, monks, is called right action." ([SN 45.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)).
+> "Abstaining from taking life, abstaining from stealing, abstaining from unchastity: This, monks, is called right action." ([SN 45.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html))
 
 The other side is named: for [Aquinas](https://clemvillatte.github.io/flourishing-compendium/#card=Conduct%20even%20in%20just%20war), taking up the sword of war can be lawful conduct. He asks whether it is always sinful to wage war, and his reply opens by giving what makes a war just:
 
-> "In order for a war to be just, three things are necessary. First, the authority of the sovereign by whose command the war is to be waged." ([Aquinas, Summa Theologiae II-II, q.40, a.1](https://www.newadvent.org/summa/3040.htm)).
+> "In order for a war to be just, three things are necessary. First, the authority of the sovereign by whose command the war is to be waged." ([Aquinas, Summa Theologiae II-II, q.40, a.1](https://www.newadvent.org/summa/3040.htm))
 
 The permission is bounded, not an endorsement of harm for its own sake; the same article condemns the passion for inflicting harm and the cruel thirst for vengeance in war. The two answers to the same question are incompatible: the definition of right action names abstaining from taking life, and the just-war tradition names the conditions under which a sovereign may rightly command it. I hold both sides, the non-harm floor on one side and the just-war card on the other, and do not reconcile them.
 
@@ -122,27 +122,27 @@ The permission is bounded, not an endorsement of harm for its own sake; the same
 
 In Aristotle's report, Socrates denies that someone can knowingly act against what they judge best.
 
-> "Socrates in fact contended generally against the theory, maintaining there is no such state as that of Imperfect Self-Control, for that no one acts contrary to what is best conceiving it to be best but by reason of ignorance what is best." ([Aristotle, Nicomachean Ethics VII.2, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)).
+> "Socrates in fact contended generally against the theory, maintaining there is no such state as that of Imperfect Self-Control, for that no one acts contrary to what is best conceiving it to be best but by reason of ignorance what is best." ([Aristotle, Nicomachean Ethics VII.2, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt))
 
 Wang Yangming's doctrine of the unity of knowledge and action holds the same shape, that genuinely knowing already issues in acting:
 
-> "There have never been people who know but do not act. Those who are supposed to know but do not act simply do not yet know." ([Internet Encyclopedia of Philosophy, "Wang Yangming (1472—1529)"](https://iep.utm.edu/wangyang/)).
+> "There have never been people who know but do not act. Those who are supposed to know but do not act simply do not yet know." ([Internet Encyclopedia of Philosophy, "Wang Yangming (1472—1529)"](https://iep.utm.edu/wangyang/))
 
 Aristotle, in the same discussion, calls the plain facts against him:
 
-> "With all due respect to Socrates, his account of the matter is at variance with plain facts, and we must enquire with respect to the affection, if it be caused by ignorance what is the nature of the ignorance: for that the man so failing does not suppose his acts to be right before he is under the influence of passion is quite plain." ([Aristotle, Nicomachean Ethics VII.2, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)).
+> "With all due respect to Socrates, his account of the matter is at variance with plain facts, and we must enquire with respect to the affection, if it be caused by ignorance what is the nature of the ignorance: for that the man so failing does not suppose his acts to be right before he is under the influence of passion is quite plain." ([Aristotle, Nicomachean Ethics VII.2, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt))
 
 Aristotle's resolution, later in Book VII, moves part of the way back toward Socrates:
 
-> "the result which Socrates was seeking comes out, that is to say, the affection does not take place in the presence of that which is thought to be specially and properly Knowledge, nor is this dragged about by reason of the affection, but in the presence of that Knowledge which is conveyed by Sense." ([Aristotle, Nicomachean Ethics VII.3, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)).
+> "the result which Socrates was seeking comes out, that is to say, the affection does not take place in the presence of that which is thought to be specially and properly Knowledge, nor is this dragged about by reason of the affection, but in the presence of that Knowledge which is conveyed by Sense." ([Aristotle, Nicomachean Ethics VII.3, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt))
 
 Wang's knowledge, as the reference article presents it, is knowing how to respond rather than grasping information:
 
-> "For Wang, knowledge means knowing how to respond to a given situation and action is responding to a given situation." ([Internet Encyclopedia of Philosophy, "Wang Yangming (1472—1529)"](https://iep.utm.edu/wangyang/)).
+> "For Wang, knowledge means knowing how to respond to a given situation and action is responding to a given situation." ([Internet Encyclopedia of Philosophy, "Wang Yangming (1472—1529)"](https://iep.utm.edu/wangyang/))
 
 Socrates, as Aristotle reports him, denies the state exists, and Aristotle calls the plain facts against him, then moves part of the way back with the resolution above. The fit between the two sides' terms can be argued from both texts. Wang's own account of the failure state supplies his side. His disciple Xu Ai records the exchange in Instructions for Practical Living:
 
-> "The Teacher said, "The knowing and acting you refer to are already separated by selfish desires and are no longer knowing and acting in their original substance. There have never been people who know but do not act. Those who are supposed to know but do not act simply do not yet know. When sages and worthies taught people about knowing and acting, it was precisely because they wanted them to restore this original substance, and not just to have them behave like that and be satisfied."" ([Wang Yangming, Instructions for Practical Living, in Wm. Theodore de Bary and Irene Bloom (comps.), Sources of Chinese Tradition, via Columbia University Asia for Educators](https://afe.easia.columbia.edu/main_pop/ps/ps_china-wang-yangming-knowing-acting.htm)).
+> "The Teacher said, "The knowing and acting you refer to are already separated by selfish desires and are no longer knowing and acting in their original substance. There have never been people who know but do not act. Those who are supposed to know but do not act simply do not yet know. When sages and worthies taught people about knowing and acting, it was precisely because they wanted them to restore this original substance, and not just to have them behave like that and be satisfied."" ([Wang Yangming, Instructions for Practical Living, in Wm. Theodore de Bary and Irene Bloom (comps.), Sources of Chinese Tradition, via Columbia University Asia for Educators](https://afe.easia.columbia.edu/main_pop/ps/ps_china-wang-yangming-knowing-acting.htm))
 
 The knowing that fails to act is, in Wang's terms, already separated by selfish desires; the original substance of knowing and acting does not fail. Aristotle's resolution in Book VII makes a parallel qualification: the affection does not take place in the presence of Knowledge proper, only in the presence of the sense-conveyed knowing that passion can drag about. Both accounts qualify what counts as knowing when action fails to follow it; the precise relation between Wang's original substance and Aristotle's Knowledge proper remains open.
 
@@ -176,7 +176,7 @@ I favour retaining character cultivation while taking situational pressure serio
 
 4. [K266 — Impression-judgement-action log](https://clemvillatte.github.io/flourishing-compendium/#card=K266%20%E2%80%94%20Impression-judgement-action%20log): keep the three-column log for one week, the impression, the judgement, the action, one row per situation that stirred you. At the week's end, read the judgement column alone and notice the interpretations that recur; for each, ask what in the impression column supports it.
 
-5. [K184 — Opposite action](https://clemvillatte.github.io/flourishing-compendium/#card=K184%20%E2%80%94%20Opposite%20action): when an emotion urges a behaviour that runs counter to your values, do the opposite act in the opposite direction, full-sized; sadness says withdraw, so reach out; anger says attack, so step back. Stay in the act, recording afterwards whether the intensity changed. The laboratory test behind the skill is small, sixteen people with borderline personality disorder over six laboratory sessions, acting consistent with an induced emotion in half and opposite in the other half; it favoured opposite action for sadness and guilt or shame while showing no advantage for anxiety or anger in that design. (dos21: right-action final verification — K184 comparison condition added from the opened card (16 with BPD, 6 sessions, consistent vs opposite halves); ledger records passage-level evidence; registry flip flagged for supervisor)
+5. [K184 — Opposite action](https://clemvillatte.github.io/flourishing-compendium/#card=K184%20%E2%80%94%20Opposite%20action): when an emotion urges a behaviour that runs counter to your values, do the opposite act in the opposite direction, full-sized; sadness says withdraw, so reach out; anger says attack, so step back. Stay in the act, recording afterwards whether the intensity changed. The laboratory test behind the skill is small, sixteen people with borderline personality disorder over six laboratory sessions, acting consistent with an induced emotion in half and opposite in the other half; it favoured opposite action for sadness and guilt or shame while showing no advantage for anxiety or anger in that design.
 
 6. [K152 — Committed action](https://clemvillatte.github.io/flourishing-compendium/#card=K152%20%E2%80%94%20Committed%20action): take one action today consistent with a chosen value, however small, at a size you can actually do, especially when you do not feel like it. In the evening log, notice which actions happened and which stayed on the list; keep the sizes that get done and drop the ones that do not.
 
