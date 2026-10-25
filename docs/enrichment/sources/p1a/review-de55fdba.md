@@ -253,4 +253,14 @@ Read-only advisor passed S011, A063, A037 and S007 with no blocking edits, after
 
 Full twenty-item check against the pre-session baseline `05039606d666f26179b928bec051731eb5ba22ce^` returned twenty checked, zero failed. It verified front matter, original seed statements, complete repeated wikilink markup, reflection blocks, every distinct baseline external URL, 40–300 prose words, and exactly one Plain words sentence per item. Current counts range from 120 to 220; remaining validator warnings concern sparse/missing Related concepts, not failed preservation or source checks.
 
-Outstanding supervisor review points: inherited S001/S011 numbering inconsistencies; D141's categorical illness wording in a protected reflection; the linked Three disciplines concept's firm mapping versus Graver's caution; S007's inherited lower-section “the page” narration and the advisor's K318/K354 alias concern. These were not silently changed. R055's Aristotle locator and D039's recovery-evidence scope have been corrected rather than left outstanding.
+Outstanding supervisor review points: inherited S001/S011 numbering inconsistencies; D141's categorical illness wording in a protected reflection; the linked Three disciplines concept's firm mapping versus Graver's caution; S007's inherited lower-section “the page” narration. These were not silently changed by this worker. R055's Aristotle locator and D039's recovery-evidence scope have been corrected rather than left outstanding.
+
+## Closing verification
+
+Re-ran all twenty validations and the single-sentence/URL-preservation checks after the short fixes: twenty checked, zero failed, 120–220 prose words, no in-progress item and every reviewed ID recorded done. Working tree and whitespace checks were clean.
+
+The advisor's S007 K318/K354 alias concern no longer reproduces in the current page. A concurrent supervisor commit, `61fb3521c`, explicitly removed the stale K354 alias from S007 and other pages and updated the preservation guard for a duplicate alias whose target remains linked. Confirmed one K318 occurrence and no K354 alias in current S007. No duplicate-kernel issue from that note remains open; this worker did not make that cross-band change.
+
+Also opened the preserved [Wikiquote James Legge page](https://en.wikiquote.org/wiki/James_Legge) without extraction and confirmed that it reproduces “Hold faithfulness and sincerity as first principles.” as Book 1, chapter 8. The direct Analects source remains the stronger primary check; no biographical claims from Wikiquote were introduced.
+
+Reviewed IDs: A001, A037, A063, D001, D019, D031, D037, D039, D054, D055, D078, D087, D141, P073, P139, R055, S001, S007, S011, SO044. These are repairs/upgrades, not twenty newly created pages. Ten other pre-completed p1a entries were not reopened in this session.
