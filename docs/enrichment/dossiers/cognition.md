@@ -41,7 +41,7 @@ The environment does part of the work. [Situated cognition theory](https://clemv
 
 The same outward move applies to people. [Dialogic reason](https://clemvillatte.github.io/flourishing-compendium/#card=Dialogic%20reason) treats understanding and good judgement as arising between people in exchange, rather than inside a single isolated mind — Buber and Habermas.
 
-The where-of-thinking question also has a cultural answer: [Analytic vs holistic cognition](https://clemvillatte.github.io/flourishing-compendium/#card=Analytic%20vs%20holistic%20cognition) documents two habits of attention and explanation across cultures, in Nisbett's group's account, and [Dialectical thinking](https://clemvillatte.github.io/flourishing-compendium/#card=Dialectical%20thinking) carries the account of naïve dialecticism — lay beliefs about how the world works, found more strongly in East Asian cultures. One more variation belongs here as a strength rather than a deficit: [Autistic cognition — detail-focused processing](https://clemvillatte.github.io/flourishing-compendium/#card=Autistic%20cognition%20%E2%80%94%20detail-focused%20processing), the weak coherence account, describes strength in detail and pattern where the typical style pulls for gist and global form.
+Cognitive styles also differ across cultures, independently of where thinking happens: [Analytic vs holistic cognition](https://clemvillatte.github.io/flourishing-compendium/#card=Analytic%20vs%20holistic%20cognition) documents two habits of attention and explanation across cultures, in Nisbett's group's account, and [Dialectical thinking](https://clemvillatte.github.io/flourishing-compendium/#card=Dialectical%20thinking) carries the account of naïve dialecticism — lay beliefs about how the world works, found more strongly in East Asian cultures. One more variation belongs here as a strength rather than a deficit: [Autistic cognition — detail-focused processing](https://clemvillatte.github.io/flourishing-compendium/#card=Autistic%20cognition%20%E2%80%94%20detail-focused%20processing), the weak coherence account, describes strength in detail and pattern where the typical style pulls for gist and global form.
 
 The dialecticism definition is Spencer-Rodgers and colleagues':
 
@@ -55,13 +55,13 @@ The dialecticism definition is Spencer-Rodgers and colleagues':
 
 > "As it appeases the irritation of doubt, which is the motive for thinking, thought relaxes, and comes to rest for a moment when belief is reached." ([Peirce, How to Make Our Ideas Clear](https://peirce.org/writings/p119.html))
 
-That resting point is what makes beliefs hard to move. The [Belief perseverance effect](https://clemvillatte.github.io/flourishing-compendium/#card=Belief%20perseverance%20effect) is Ross, Lepper and Hubbard's demonstration that beliefs persist after their evidential basis has been removed. Two further mechanisms have been studied. [Motivated reasoning](https://clemvillatte.github.io/flourishing-compendium/#card=Motivated%20reasoning) is Ziva Kunda's 1990 proposal that motivation may affect reasoning through reliance on a biased set of cognitive processes; [Identity-protective cognition](https://clemvillatte.github.io/flourishing-compendium/#card=Identity-protective%20cognition) is Dan Kahan's research programme on reasoning in which "is this true?" is answered, unnoticed, by "does this mark me as one of us?"
+Beliefs can also outlive their evidence. The [Belief perseverance effect](https://clemvillatte.github.io/flourishing-compendium/#card=Belief%20perseverance%20effect) is Ross, Lepper and Hubbard's demonstration that beliefs persist after their evidential basis has been removed. Two further mechanisms have been studied. [Motivated reasoning](https://clemvillatte.github.io/flourishing-compendium/#card=Motivated%20reasoning) is Ziva Kunda's 1990 proposal that motivation may affect reasoning through reliance on a biased set of cognitive processes; [Identity-protective cognition](https://clemvillatte.github.io/flourishing-compendium/#card=Identity-protective%20cognition) is Dan Kahan's research programme on reasoning in which "is this true?" is answered, unnoticed, by "does this mark me as one of us?"
 
 Beliefs also cohere, and the pressure of incoherence is felt. [Cognitive dissonance](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20dissonance) is Festinger's theory of the mismatch between cognitions and the pressure to reduce it:
 
 > "These two elements are in a dissonant relation if, considering these two alone, the obverse of one element would follow from the other. If, considering a pair of elements, either one does follow from the other, then the relation between them is consonant." ([Festinger, A Theory of Cognitive Dissonance, ch. 1](https://www.panarchy.org/festinger/dissonance.html))
 
-The clinical and lay accounts of belief follow from its stickiness. [Implicit theories of intelligence](https://clemvillatte.github.io/flourishing-compendium/#card=Implicit%20theories%20of%20intelligence) are people's lay beliefs about what intelligence is: a fixed quantity one is born with, or a quality that can be grown, in Dweck's model. [Belief evaluation in CBT](https://clemvillatte.github.io/flourishing-compendium/#card=Belief%20evaluation%20in%20CBT) examines what a thought does, not only whether it is true — cognitive therapy evaluates the content, acceptance-based therapies the context. And [Cognitive bias modification theory](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20bias%20modification%20theory) targets the biases that confer vulnerability to anxiety, working on attention bias and interpretation bias directly.
+The clinical and lay accounts of belief each take a position on its stickiness. [Implicit theories of intelligence](https://clemvillatte.github.io/flourishing-compendium/#card=Implicit%20theories%20of%20intelligence) are people's lay beliefs about what intelligence is: a fixed quantity one is born with, or a quality that can be grown, in Dweck's model. [Belief evaluation in CBT](https://clemvillatte.github.io/flourishing-compendium/#card=Belief%20evaluation%20in%20CBT) examines what a thought does, not only whether it is true — cognitive therapy evaluates the content, acceptance-based therapies the context. And [Cognitive bias modification theory](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20bias%20modification%20theory) targets the biases that confer vulnerability to anxiety, working on attention bias and interpretation bias directly.
 
 ### When does thinking itself hurt?
 
@@ -83,7 +83,17 @@ Wells's programme makes the same move clinically: [Detached mindfulness theory W
 
 The strategy already met in the affect dossier also belongs here: [Cognitive reappraisal](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20reappraisal) changes an emotional event's meaning so that the feeling that follows changes. And change can happen at the level of a life's direction, not only a thought: [Cognitive transformation theory of desistance](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20transformation%20theory%20of%20desistance) is Giordano and colleagues' account of how people stop offending — cognitive shifts that recognise new possibilities and reinterpret one's past.
 
-### How does thinking change over a life?
+#The two therapeutic traditions differ in what they take as the target of change. Cognitive therapy's line works on the thought's accuracy, per the meta-analytic review of its core technique:
+
+> "One method that is hypothesized to play a role in the process of change across many psychotherapies is cognitive restructuring (CR), which refers to a set of techniques used to help clients identify, evaluate and correct inaccurate beliefs... Rather than being defined as a single method, CR refers to the collection of therapeutic techniques aimed at helping clients identify, challenge, and correct biased and maladaptive automatic interpretations of events." ([Ezawa and Hollon 2023, Psychotherapy](https://pmc.ncbi.nlm.nih.gov/articles/PMC10440210/))
+
+The acceptance-and-commitment tradition keeps the thought and moves the observer:
+
+> "to see thoughts and feelings for what they are (i.e., a verbally entangled process of minding) rather than what they advertise themselves to be (e.g., the world understood, structured reality)" ([Hayes, Strosahl and Wilson 1999, quoted in Bernstein et al. 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5103165/))
+
+Whether the two treatments compete or stack is a question the passages leave open. The defusion practice has exact cross-tradition cognates: Anatta and Self-as-context as the Buddhist and ACT accounts of the observing perspective, Right concentration as the practice of watching thoughts arise and pass.
+
+## How does thinking change over a life?
 
 The abilities do not rise and fall together. [Cognitive ageing](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20ageing) is the finding that some abilities peak at high-school graduation and some plateau in early adulthood. Development has its own account: [Information-processing theory of cognitive development](https://clemvillatte.github.io/flourishing-compendium/#card=Information-processing%20theory%20of%20cognitive%20development) describes how children represent, transform and use information.
 
@@ -115,17 +125,21 @@ A last warning belongs to the whole theme. [Instrumental reason](https://clemvil
 
 ## Where the traditions genuinely disagree
 
-### Should you argue with the thought, or step back from it?
+### Does cognition extend into the world, or only depend on it?
 
-The shared question: when a thought is hurting you, is the work to correct its content or to change your relationship to it? Cognitive therapy's answer, from the meta-analytic review of its core technique:
+The dispute is stated by its proponents. Clark and Chalmers's active externalism takes a position against the semantic externalism of Putnam and Burge, and they state the contrast themselves:
 
-> "One method that is hypothesized to play a role in the process of change across many psychotherapies is cognitive restructuring (CR), which refers to a set of techniques used to help clients identify, evaluate and correct inaccurate beliefs... Rather than being defined as a single method, CR refers to the collection of therapeutic techniques aimed at helping clients identify, challenge, and correct biased and maladaptive automatic interpretations of events." ([Ezawa and Hollon 2023, Psychotherapy](https://pmc.ncbi.nlm.nih.gov/articles/PMC10440210/))
+> "In the cases we describe, by contrast, the relevant external features are *active*, playing a crucial role in the here-and-now. Because they are coupled with the human organism, they have a direct impact on the organism and on its behavior. In these cases, the relevant parts of the world are *in the loop*, not dangling at the other end of a long causal chain. Concentrating on this sort of coupling leads us to an *active externalism*, as opposed to the passive externalism of Putnam and Burge." ([Clark and Chalmers, The Extended Mind](https://consc.net/papers/extended.html))
 
-The acceptance-and-commitment tradition's answer keeps the thought and moves the observer:
+Their charge against the rival position:
 
-> "to see thoughts and feelings for what they are (i.e., a verbally entangled process of minding) rather than what they advertise themselves to be (e.g., the world understood, structured reality)" ([Hayes, Strosahl and Wilson 1999, quoted in Bernstein et al. 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5103165/))
+> "In most of the Putnam/Burge cases, the immediate environment is irrelevant; only the historical environment counts. Debate has focused on the question of whether mind must be in the head, but a more relevant question in assessing these examples might be: is mind in the present?" ([Clark and Chalmers, The Extended Mind](https://consc.net/papers/extended.html))
 
-The two passages describe different targets of change: the thought's accuracy in one, the thinker's relation to the thought in the other. Whether the two treatments compete or stack is a question the passages leave open, and and I keep both without adjudicating which works when; The defusion practice has exact cross-tradition cognates: Anatta and Self-as-context as the Buddhist and ACT accounts of the observing perspective, Right concentration as the practice of watching thoughts arise and pass.
+The Putnam/Burge side is characterized here by Clark and Chalmers, not by its own defenders, and I do not put words in theirs beyond this characterization. The criterion Clark and Chalmers offer for their side:
+
+> "If, as we confront some task, a part of the world functions as a process which, *were it done in the head*, we would have no hesitation in recognizing as part of the cognitive process, then that part of the world *is* (so we claim) part of the cognitive process." ([Clark and Chalmers, The Extended Mind](https://consc.net/papers/extended.html))
+
+What the disagreement turns on is which external features count as cognitive: the distal and historical features of the passive variety, or the coupled, here-and-now features of the active one. The boundary question — where the mind stops and the rest of the world begins — is decided by that choice, and the passages state it without settling it.
 
 ## Practice: variation, selection, retention
 

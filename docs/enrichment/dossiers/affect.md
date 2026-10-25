@@ -2,7 +2,7 @@
 
 > What is an emotion made of, and what is it telling the person who feels it?
 
-Feelings are where a life registers itself. I notice mine in the chest before an email is opened, in the flatness of a week that looked fine on paper, in the lift a friend's good news gives me. When I ask what an emotion is made of, I am asking what is happening in me at those moments, and whether the feeling deserves the authority I tend to give it.
+Feelings are where a life registers itself. An emotion can arrive in the chest before an email is opened, in the flatness of a week that looked fine on paper, in the lift a friend's good news gives. When I ask what an emotion is made of, I am asking what is happening in those moments, and whether the feeling deserves the authority it tends to claim.
 
 The question has consequences. How I read a feeling decides whether I act on it, talk it down, name it, or let it pass. Get the reading wrong in either direction and something goes wrong with the action: a signal treated as a verdict, or a verdict ignored because it arrived as a mood.
 
