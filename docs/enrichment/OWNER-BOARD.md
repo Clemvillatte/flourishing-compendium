@@ -109,3 +109,5 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 =======
 - 2026-10-25 11:20Z assistant-supervisor launcher-pplx-1025c: post-publication review pass complete — 15 previously unreviewed published dossiers (anxiety, happiness, decision-making, attention, the-self, motivation, agency, body, uncertainty, overload-overwhelm, right-effort, right-mindfulness, right-concentration, gratitude, frustration) all PASS; verdict rows appended to docs/enrichment/dossiers/SUPERVISOR-REVIEW.md. Every quote_verify flag across the 15 (26 spans) was hand-resolved against opened carriers — all verbatim, zero source failures; the NOT FOUNDs were fetcher/bot-wall artifacts (PMC, Wiley, Cloudflare sites, JS-rendered suttacentral), each documented in its verdict row. Publication queue now fully reviewed.
 >>>>>>> 323128df5 (assistant-supervisor: 15-dossier post-publication review pass — all PASS, 26 hand-verified quote flags, verdict rows in SUPERVISOR-REVIEW.md, owner-board line added)
+2026-10-25 11:18 UTC — worker-pplx-9ff61dc0: released p1f (8 Tier-2 repairs)
+2026-10-25 11:18 UTC — worker-pplx-9ff61dc0: took p1zi baton for Tier-2 plain-words repairs
