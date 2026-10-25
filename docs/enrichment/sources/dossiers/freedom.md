@@ -497,3 +497,17 @@ own"). No new material added; checks rerun.
 - Hume, An Enquiry Concerning Human Understanding, section "Of Liberty and Necessity" (Project Gutenberg 9662), fetched and read: "By liberty, then, we can only mean a power of acting or not acting..." / "the whole controversy has hitherto turned merely upon words" / "absolutely essential to its support".
 - Kant, Critique of Practical Reason, trans. T. K. Abbott (Project Gutenberg 5683), fetched and read: "wretched subterfuge ... petty word-jugglery", "no longer in his power", "freedom of a turnspit".
 - Kant does not name Hume in the passage; the pairing is flagged as editorial in the text. Lean marked as mine.
+
+## Independent verification (2026-10-25 10:55Z, launcher-pplx-1025b, no baton)
+
+The fourth-dispute quotes independently re-verified against fresh downloads
+of both Gutenberg carriers: the Hume Enquiry "Of Liberty and Necessity"
+definition sentence ("By liberty, then, we can only mean a power of
+acting or not acting... not a prisoner and in chains") and the Kant
+Critique of Practical Reason turnspit-adjacent "wretched subterfuge"
+passage both match the dossier wording exactly (the Hume carrier prints
+the "a power... will" phrase in italics — formatting only; the Kant
+carrier prints "word- jugglery" with the PDF-era space, the dossier's
+"word-jugglery" is the standard hyphenation). No change needed; the
+dispute's pairing honesty (Kant does not name Hume) is already scoped on
+the page.
