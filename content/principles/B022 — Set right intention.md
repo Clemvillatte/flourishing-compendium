@@ -29,7 +29,7 @@ All three terms are stated as what you turn away from: renunciation, absence of 
 
 (SN 45.8.)
 
-**Plain words** The sutta names renunciation, freedom from ill will, and harmlessness as right resolve, and lists resolve straight after view and before speech and action. This page's exercise is to check those aims before a difficult conversation: settle what you are resolved on before you open your mouth.
+**Plain words** Most people walk into a hard conversation having rehearsed only the words. The path analysis puts a different item on the checklist first: the aim. Renunciation here means not grasping at what the exchange can win you, goodwill means wanting no injury to land, harmlessness means none even by accident, and these three sit upstream of speech, so the sentence you finally say inherits their shape. The practical form is to settle the aim before the phone is picked up, since an aim set mid-sentence is usually just the old aim wearing a costume.
 
 *For example:* Imagine you have to tell a colleague that their report missed the mark. Before you pick up the phone you fix the aim: say what is true, and don't try to wound. That aim then decides how you phrase the first sentence.
 

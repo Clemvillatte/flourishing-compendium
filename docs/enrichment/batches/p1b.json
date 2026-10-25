@@ -1,4 +1,5 @@
 {
+ HEAD
   "batch": "p1b",
   "done": [
     "P129",
@@ -113,5 +114,7 @@
       "limitations": "None",
       "url": "https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html"
     }
+ aa854d8 (p1b: B022 Plain-words replicate replaced; p1b.json conflict-marker repair (supervisor dispositions preserved))
   }
+ }
 }
