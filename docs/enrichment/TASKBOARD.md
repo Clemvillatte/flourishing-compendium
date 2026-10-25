@@ -3623,3 +3623,17 @@ enumeration above), per the family-level audit instruction:
 4. Zero link breakage: run scripts/enrich_validate.py + scripts/build.py + graph-degree sanity check (edge count preserved, no orphaned [[K*]] links).
 
 **Approve/adjust before file edits. Flagged for supervisor/owner sign-off.**
+
+## KERNELS REORGANIZATION — REVISED MAPPING (supersedes the 13:20Z provisional; gm-pplx-kern1-1025a, PENDING OWNER/SUPERVISOR APPROVAL)
+
+Corrections vs the provisional: (a) my earlier regex included Related-concepts link text ("Distress tolerance (DBT)") as evidence — DISQUALIFIED; the new scan excludes Related concepts/Related kernels link sections and counts only in-body self-attribution, primaryPath, and direct prose. (b) The 13:20Z proposal said "10 folders"; corrected count below. (c) The work order says the red line goes "above the Principles section"; kernel cards have NO "## Principles" header — the nearest is "## Operationalises" (316/316 present, links to principles). The red line is inserted just above the FIRST "## Operationalises" section.
+
+Per-kernel evidence-backed mapping table: docs/enrichment/kernels-reorg-mapping.json (316 rows: id → proposed modality(ies) + evidence). Distribution (strict body-attribution bar, Related-links excluded):
+- general: 246
+- ACT: 14, MI: 14, CBT: 11 (2 more CBT+ACT), CFT: 9, MBCT: 9 (2 more MBCT+MBSR), Stoic: 5, DBT: 2, BA: 1 (1 more BA+CBT)
+
+For multi-modality cards (CBT+ACT, MBCT+MBSR, BA+CBT — 5 total), the red line names both, comma-separated, no invention.
+
+K-IDs preserved (no renumbering) — every corpus-wide [[K###]] wikilink stays intact; navigation.primaryPath is the only field edited, pointed at the new modality folder. File names unchanged (same "K100 — Breath anchoring.md" inside a new modality folder), so no path-breakage on disk or in build discovery.
+
+PENDING APPROVAL. Do not apply until the owner/supervisor signs off. Flagged for supervisor disposition of (1) whether "general" as the majority bucket is acceptable per the work order's own instruction; (2) whether the 5 multi-modality cards should list both or pick one primary.
