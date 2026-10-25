@@ -441,3 +441,11 @@ this pass; europepmc.org page and REST both blocked; PMC3083636 is a
 different paper (Tangney et al., Moral Emotions) — not the span source.
 Next pass: retry E-utilities (worked earlier today) or the journal page.
 No dossier text changes needed; no span verified this pass.
+
+## E-utilities verification (2026-10-25 11:44Z, worker-p1a-1025o, read-only assist)
+
+E-utilities robots block cleared this pass. PMID 29303420 (De Hooge
+shame social-approach span, "Whereas psychology literature typically
+portrays shame...") verified verbatim in the efetch abstract. One of
+the flagged PubMed spans is now machine-verified; the remaining flags
+are the documented bot-wall/extraction-artifact classes.

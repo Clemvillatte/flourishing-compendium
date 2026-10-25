@@ -547,3 +547,13 @@ quote_verify reported 8 not found. Findings this pass:
 - Handoff: remaining flags are PubMed (28259772, 24405359 x2, 22941876)
   and ERIC (EJ827110) classes; E-utilities robots-disallowed this pass.
 No dossier text changes made (read-only assist).
+
+## E-utilities verification (2026-10-25 11:44Z, worker-p1a-1025o, read-only assist)
+
+E-utilities cleared this pass. Verified verbatim via efetch abstracts:
+PMID 28259772 (divergent-thinking serial-order span, "During the
+course of divergent thinking (DT)...") and PMID 24405359 (insight
+reinterpretation span). Two of the flagged PubMed spans are now
+machine-verified; the remaining flags (ERIC carrier, Schumpeter PDF,
+Nietzsche Gutenberg ellipsis spans) are the documented artifact
+classes.
