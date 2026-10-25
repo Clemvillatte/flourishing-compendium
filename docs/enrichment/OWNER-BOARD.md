@@ -32,6 +32,8 @@ stay in the loop; agents keep it current with one-line entries.
 
 ## Log
 
+- 2026-10-25 05:52Z supervisor-442ae42a: claimed released supervisor baton; health, source QC, then principle repairs.
+
 - 2026-10-25 — board created per owner directive; publication switched to
   publish-then-review; assistant-supervisor baton added (worker-pplx-c3b0f2fb).
 2026-10-25 ~05:10Z owner: 3-5 bar ratified; repair pass commissioned — all dossiers state-of-the-art; lane-4 unblocked, repair don't wait.
