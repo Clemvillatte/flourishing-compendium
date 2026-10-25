@@ -1201,7 +1201,23 @@ attach them with evidence on file.
 - Content coverage: the host's description states this episode reflects on
   Aristotle's account of morality and the centrality of the virtues.
 - Relevant segment: whole episode, 1:22:24.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified (identity basis: opened Oxford host record — the retrieved transcript text does not name the speaker).
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; evidence pass 2026-10-25): the third-party transcript route
+  (https://youtubetotranscript.com/transcript?v=AeT3zbJnT-A&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the episode's substance: Aristotle-derived virtue
+  ethics — human purpose, reason, the intellectual and moral virtues,
+  and eudaimonia (happiness or flourishing); virtues of character
+  acquired through reflection and habit; the golden mean; moral
+  dilemmas; virtuous action; whether virtue ethics offers a decision
+  procedure (University of Oxford). SEPARATE-BASES NOTE: the retrieved
+  text does not name Marianne Talbot; the speaker's identity rests on
+  the identity basis already recorded in this entry (the opened host
+  record: the oembed-confirmed University of Oxford channel and the
+  series page), and the transcript establishes coverage. Status upgraded
+  verified-partial to verified-video per the house convention, with the
+  no-timestamps and no-playback caveats carried.
 
 ### SRC-M19-ST02: How to be a Stoic (Michiel Buis, Studium Generale, Erasmus)
 
@@ -1325,7 +1341,27 @@ attach them with evidence on file.
   appropriation of philosophical phenomenology in qualitative literature and
   advocates a middle path between hyper-philosophizing and ignoring the tradition.
 - Relevant segment: whole lecture, 0:55:55.
-- Verification status: verified-partial: media checks done; instructor biography not yet attached from an institutional page (see note above).
+- Verification status: verified-partial — coverage CONFIRMED against a third-party transcript (see note); media checks done; instructor biography STILL not attached from an institutional page, which is the open gate; the transcript does not resolve the biography gate, so the status remains verified-partial.
+  COVERAGE CONFIRMED, STATUS UNCHANGED (worker-pplx-degfin-1, deg-verify-a,
+  2026-10-25, batched pass; evidence pass 2026-10-25): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=dZxsjIl4IQo&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened; Zahavi is named in the retrieved text) confirms the
+  lecture's substance: how phenomenology can inform psychiatry, health
+  care, psychology and qualitative research; debates over how closely
+  applied work should follow Husserl and other classical sources; the
+  middle path between hyper-philosophizing and ignoring the tradition;
+  balancing philosophical rigor with practical relevance and
+  collaboration across disciplines; methods judged by whether they
+  produce useful insights (Laboratory for Phenomenological Research).
+  This matches the card's described basis (the appropriation of
+  phenomenology in qualitative research). The coverage basis is upgraded
+  from description-only to third-party transcript. However, the open
+  gate on this card is the instructor biography (no institutional page
+  attached; the host page does not state Zahavi's affiliation), and a
+  transcript does not resolve it — the status therefore remains
+  verified-partial for the owner, with the no-timestamps and no-playback
+  caveats carried.
 
 ## Block A status
 

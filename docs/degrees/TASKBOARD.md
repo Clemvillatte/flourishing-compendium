@@ -74,27 +74,29 @@ reference, unique source ids in brackets):
 - 2026-10-25 (passes 2-5 plus QC repairs; latest save see below)
   worker-pplx-degfin-1 (deg-verify-a): BATCHED TRANSCRIPT PASSES 2-5 + QC
   REPAIRS — LEDGER (commits 5dbf41e8f, 0295b5030, c8849acf7, 46923f9b0,
-  3864101ca, fd4410dea, 450ce7480, plus this QC-repair save). 30
-  description-basis cards evidenced (26 upgrades + 2 corroborations +
-  2 coverage-evidence records still partial) plus 4 unsuccessful probes,
+  3864101ca, fd4410dea, 450ce7480, 7b210f70d, plus the final saves). 31
+  description-basis cards evidenced (27 upgrades + 2 corroborations +
+  3 coverage-evidence records still partial) plus 4 unsuccessful probes,
   via the third-party transcript route. The upgrade count is MECHANICALLY
   AUDITED: a git comparison of the Verification status fields between
-  b6aa42884 and HEAD shows exactly 26 PARTIAL→VIDEO changes across the
-  five verify files, matching this ledger. 26 UPGRADED
+  b6aa42884 and HEAD shows the PARTIAL→VIDEO changes across the
+  five verify files, matching this ledger. 27 UPGRADED
   verified-partial→verified-video with the coverage basis in the status
   line: deg-wellbeing M08-S04/S06/S08/S17/S18/S22/S24 (7); deg-relational
   M04-R05/R08/R13/R15/R16 (5; Mika's dual-duration flag retained);
   deg-philosophy Warren, Kaag, Clayton, Segall x2, Bergson roundtable
   (partial-speaker note), Herring, Misak, Moran (title-only speaker
-  caveat), Nadler, Mikics, Lampe, Kloppenberg, Buis (14; the last three
-  upgraded per the separate-bases QC ruling — the transcript need not
-  name the speaker; identity basis remains the opened host page).
+  caveat), Nadler, Mikics, Lampe, Kloppenberg, Buis, Talbot (15; Lampe,
+  Kloppenberg, Buis and Talbot upgraded on the separate-bases principle —
+  the transcript need not name the speaker; identity basis remains the
+  opened host record as already recorded in each entry).
   2 FRESH CORROBORATIONS with no status change: M08-S13, M08-S15
   (M08-S15 was already verified-video; an earlier note's upgrade claim
-  was corrected this pass). 2 COVERAGE-EVIDENCE RECORDS, STATUS STILL
-  verified-partial (duration gate unresolved — the earlier upgrade to
-  verified-video was WITHDRAWN per QC): deg-mind M06-AF07 Gross (raw
-  retrieval inspected at length), deg-therapeutic SRC-M09-005 Rollnick.
+  was corrected this pass). 3 COVERAGE-EVIDENCE RECORDS, STATUS STILL
+  verified-partial (open gate unresolved — the earlier upgrade to
+  verified-video was WITHDRAWN or never made, per QC): deg-mind M06-AF07
+  Gross (raw retrieval inspected at length), deg-therapeutic SRC-M09-005
+  Rollnick, deg-philosophy M23-EX04 Zahavi (biography gate).
   4 TRANSCRIPT-ROUTE FAILURES bounded after two attempts each, still
   open: M08-S01 (Markus Sage-CASBS), M05-XP-04 (Chittick), M05-SP-05
   (Beth Lord), M16-P01 (Kristjánsson). QC-repair pass also corrected
