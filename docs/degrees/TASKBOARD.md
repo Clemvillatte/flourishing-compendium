@@ -450,3 +450,16 @@ hours), recorded in the scope doc and ledger. Pragmatism: process thought is now
   existentialism and positive-psychology benchmark claims were
   narrowed the same way (anchor-set phrasing instead of per-anchor
   claims; effect-size instruction marked proposed, not established).
+
+### Checkpoint — deg-verify-a follow-up round (13:50Z, 2026-10-25)
+
+Worker-pplx-degrees-1: Brahmali's BSWA institutional biography opened via a
+Wayback Machine snapshot of the society's teacher page (M-15-005-B lead upgraded);
+Jelby's credentials corroborated on an opened current-employer team page (ENS
+Ph.D. Philosophy documented; the ENS institutional page itself remains
+unlocated — flagged for a supervisor with ENS-directory access); the Thompson
+8-minute practice boundary remains uploader-stated (transcript opened, no
+timestamps). All open institutional-biography leads in the assigned blocks are
+now swept to the extent this environment allows; remaining items are owner or
+supervisor decisions (dead-video replacements, the 0b2136614 pilot discrepancy,
+routing re-attribution, mod-wb-2 gate-3 verdict).

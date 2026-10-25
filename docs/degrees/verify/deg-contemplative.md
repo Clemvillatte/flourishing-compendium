@@ -1046,7 +1046,20 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
 - Duration: 45:57 (watch page, 2026-10-25).
 - Instructor credentials: Morten E. Jelby, École Normale Supérieure, Paris
   (per the uploader description; institutional page not opened this
-  session).
+  session). Follow-up (2026-10-25): the ENS and Kyoto University
+  institutional pages were not locatable via search (the Kyoto Faculty
+  of Letters directory does not list him; LinkedIn is a social-media
+  page the ethos disallows; the HAL archive API was returning errors),
+  but a current-employer team page was opened
+  (https://www.bespoke-english.jp/the-team, opened 2026-10-25) that
+  documents his education and roles: University of Copenhagen M.A.
+  Philosophy; École Normale Supérieure (Paris) Ph.D. Philosophy;
+  Kyoto University Visiting Researcher. This corroborates the
+  description's ENS Paris affiliation and the talk's Patočka and
+  Tanabe subject matter (his Kyoto School / phenomenology research
+  profile per the search-index lead on his ENS-hosted Academia.edu
+  profile), with the caveat that the opened page is an employer team
+  page documenting degrees, not the ENS institutional page itself.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): the
   intersection of Jan Patočka's and Tanabe Hajime's philosophies —
@@ -1056,6 +1069,13 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
 - Relevant segment: whole talk, 45:57.
 - Verification status: verified-video (2026-10-25); credentials from the
   description, institutional page pending.
+  Follow-up (2026-10-25): credentials corroborated on the opened
+  current-employer team page (Bespoke English, see above) — ENS
+  (Paris) Ph.D. Philosophy, University of Copenhagen M.A. Philosophy,
+  Kyoto University Visiting Researcher — so the description-basis is
+  upgraded to corroborated-on-opened-page; the ENS institutional page
+  itself remains unlocated and is flagged for a supervisor with
+  ENS-directory access.
 
 ### M02-K05: What is Lam Rim? — Robert A.F. Thurman (Tibet House US)
 
@@ -1317,17 +1337,30 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   opened) describes him as born in Norway in 1964, trained as an
   anagarika at Amaravati and Chithurst, at Bodhinyana Monastery since
   1994 with Higher Ordination under Ajahn Brahm, and second most
-  senior monk there — recorded as an UNVERIFIED LEAD, not credential
-  evidence; the description-basis stands until a BSWA page can be
-  opened.
+  senior monk there — recorded as an UNVERIFIED LEAD at that point;
+  a Wayback Machine snapshot of his BSWA teacher page
+  (http://web.archive.org/web/20260516234421/https://bswa.org/teachers/ajahn-brahmali/,
+  snapshot dated 2026-05-16, opened 2026-10-25) was then opened and
+  is the credential source: born in Norway in 1964; drawn to Buddhism
+  and meditation in his early 20s after a visit to Japan; degrees in
+  engineering and finance; monastic training as an anagarika at
+  Amaravati and Chithurst Buddhist Monastery in England; resident at
+  Bodhinyana Monastery since 1994; ordained as a Bhikkhu in 1996 with
+  Ajahn Brahm as preceptor; the title Maha Thera from his 20th Rains
+  Retreat in 2015; Pali and Sutta expertise acknowledged by Bhikkhu
+  Bodhi (Brahmali one of the major helpers on the translation of the
+  Numerical Discourses); author with Bhante Sujato of "The
+  Authenticity of the Early Buddhist Texts" (Buddhist Publication
+  Society); regular Sutta and Pali classes at Dhammaloka Centre,
+  Perth.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): the
   importance of spiritual practice and how everything is impermanent.
 - Relevant segment: whole talk, 1:03:30.
-- Verification status: verified-video (2026-10-25); credentials remain
-  description-basis — BSWA pages robots-blocked this session (retried
-  once each for the HTML page and the booklet PDF); a detailed BSWA
-  snippet is recorded above as an unverified lead.
+- Verification status: verified-video (2026-10-25); credentials now
+  verified on the opened archived BSWA teacher page (see the
+  instructor credentials entry above) — the earlier description-basis
+  is superseded.
 
 ### SRC-M18-B02: 2021 Khyentse Lecture — Carmen Meinert (UC Berkeley Numata Center)
 
