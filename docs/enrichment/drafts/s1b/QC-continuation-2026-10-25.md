@@ -68,3 +68,6 @@ not this session's output.)
 
 - s1e-006 (Ramana Maharshi, Arunachala Ashrama "Life" page): all three 1896
   death-experience spans verbatim against the live page. Child sample 4/4 clean.
+
+- s1e-005 (George Fox, Journal ch. VI at CCEL): the ocean-of-darkness-and-light
+  span verbatim against the live page. Child sample 5/5 clean.
