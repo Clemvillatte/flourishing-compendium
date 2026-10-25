@@ -23,7 +23,7 @@ The Pali canon describes the same tandem: "for him these two qualities occur in 
 (Zhiyi, Mohe Zhiguan; MN 149.)
 
 **Plain words**
-Two capacities, one practice. Calm is the settling that lets attention stay; insight is the looking that tells you what is actually going on. As a compendium exercise, spend part of a sitting just steadying on one object, and part examining what is present — noticing, without judgment, which half you default to.
+The Chinese master's image is a lake at night. Stilling the water is half the work, since a surface in turmoil shows nothing; but a perfectly still lake with no moon overhead is only a black mirror, and the other half is the moonlight, the seeing of what is actually there. Zhiyi's point is that the two halves are one craft, and meditators reliably overdevelop whichever half their temperament likes: the placid ones mistake their stillness for depth, the sharp ones mistake their analysis for freedom. A useful sitting gives both halves their shift, and watches which one the mind hands the keys to.
 
 *For example:* Meditators who get very calm but see nothing, and analysts who see everything but can't stop shaking — both halves, one practice.
 

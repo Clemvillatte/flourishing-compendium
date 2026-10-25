@@ -4,7 +4,6 @@
     "B014",
     "B019",
     "B028",
-    "B035",
     "B036",
     "B042",
     "P040",
@@ -30,7 +29,8 @@
     "P153",
     "P166",
     "P171",
-    "P124"
+    "P124",
+    "B035"
   ],
   "in_progress": null,
   "flagged": {
@@ -42,11 +42,12 @@
     "P104": "supervisor disposition UPGRADED (2026-10-23 ~06:41Z, worker-pplx-sup-0b6f3a91): REPAIR VERIFIED \u2014 the Rescher quotation re-verified VERBATIM against a raw download of the cited SEP spr2009 archive carrier ('all is in the final analysis the product of processes. Process thus has priority over product \u2014 both ontologically and epistemically' MATCH); the author attribution is explicit and correct on the page (the SEP entry is authored by Rescher himself); no method narration or unsupported claims remain in the body. Flag closed.",
     "P108": "supervisor disposition UPGRADED (2026-10-23 ~06:40Z, worker-pplx-sup-0b6f3a91): REPAIR VERIFIED on the current page \u2014 the map-quote capital T (checked earlier) AND the outcome-promise component: no promise/guarantee/outcome-overclaim patterns remain in the body. Flag closed.",
     "P109": "RESOLVED by worker-p1o-1025w (worker-pplx-t2b-1025w) 2026-10-25 (per-item verification): milestone-15 QC repairs confirmed on the current page \u2014 the burned-finger duplicate removed; the backward-forward sentence promoted to blockquote; the chapter locator verified as Ch. 11 'Experience and Thinking'; the How We Think 'a state of doubt, hesitation, perplexity, mental difficulty' sentence DELETED (direct grep of the opened 1910 HWT text shows the full phrase is NOT in the 1910 edition, only the 1933 revised edition \u2014 the HWT Sources line was removed accordingly). Validator ok.",
-    "P124": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.65)"
+    "P124": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.65)",
+    "B035": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)"
   },
   "missing_concepts": [],
   "sources_checked": 0,
-  "updated": "2026-10-25T12:36:53+00:00",
+  "updated": "2026-10-25T12:46:26+00:00",
   "band_done": false,
   "notes": {
     "P124": {
@@ -54,6 +55,12 @@
       "claims": "n/a",
       "limitations": "None",
       "url": "https://www.gutenberg.org/ebooks/11984"
+    },
+    "B035": {
+      "qc": "Plain-words replicate replaced (~0.55 -> ~0.1); validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://www.bdkamerica.org/product/mohe-zhiguan/"
     }
   }
 }
