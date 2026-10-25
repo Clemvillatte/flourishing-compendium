@@ -1611,7 +1611,10 @@ window.fcSwitchView = switchView;
 $('tabRand').addEventListener('click', () => switchView('rand'));
 $('tabWiki').addEventListener('click', () => switchView('wiki'));
 const _tabGraph = $('tabGraph');
-if (_tabGraph) _tabGraph.addEventListener('click', () => switchView('graph'));
+/* Routed through window.fcSwitchView (the patched dispatcher) so the
+   Academy- and Dossiers-side tab highlights are cleaned up too — calling
+   the raw switchView left DOSSIERS lit over the Graph (2026-10-25 fix). */
+if (_tabGraph) _tabGraph.addEventListener('click', () => window.fcSwitchView('graph'));
 
 function revealPath(e) {
   const path = [];
@@ -17619,6 +17622,20 @@ try { A.completed = new Set(JSON.parse(localStorage.getItem('acadWatched') || '[
 function saveWatched(){ try { localStorage.setItem('acadWatched', JSON.stringify([...A.completed])); } catch (e) {} }
 
 /* ---------- Navigation ---------- */
+/* Lights the DOSSIERS tab inside the academy-mode container without
+   touching the Academy-side state (A.view / A.dossier) — used both by the
+   Dossiers tab and by the #dossier=<id> deep link, which must show the
+   DOSSIERS tab lit, not ACADEMY. */
+function litDossiersTab(){
+  document.body.classList.remove('rand-mode','wiki-mode','graph-mode');
+  document.body.classList.add('academy-mode');
+  $('tabRand').classList.remove('active');
+  $('tabWiki').classList.remove('active');
+  const tgr3 = $('tabGraph'); if (tgr3) tgr3.classList.remove('active');
+  const tds3 = $('tabAcademy'); if (tds3) tds3.classList.remove('active');
+  const tg3 = $('tabGallery'); if (tg3) tg3.classList.remove('active');
+  const td3 = $('tabDossiers'); if (td3) td3.classList.add('active');
+}
 function switchView(v){
   // hijack for academy only when called with 'academy'
   if(v==='academy'){
@@ -17635,13 +17652,7 @@ function switchView(v){
   // hijack for the Dossiers tab (owner directive 2026-10-25: promoted to its
   // own tab after Academy; renders inside the academy-mode container)
   if(v==='dossiers'){
-    document.body.classList.remove('rand-mode','wiki-mode','graph-mode');
-    document.body.classList.add('academy-mode');
-    $('tabRand').classList.remove('active');
-    $('tabWiki').classList.remove('active');
-    const tgr3 = $('tabGraph'); if (tgr3) tgr3.classList.remove('active');
-    const tds3 = $('tabAcademy'); if (tds3) tds3.classList.remove('active');
-    const td3 = $('tabDossiers'); if (td3) td3.classList.add('active');
+    litDossiersTab();
     A.view='dossiers'; A.dossier=null;
     renderAcademy();
     return;
@@ -17661,7 +17672,12 @@ function switchView(v){
     renderGallery();
     return;
   }
-  if(v==='rand'||v==='wiki'||v==='edit'){ $('tabAcademy').classList.remove('active'); const tg = $('tabGallery'); if(tg) tg.classList.remove('active'); const tdz2 = $('tabDossiers'); if (tdz2) tdz2.classList.remove('active'); }
+  /* Any other view (rand, wiki, graph, edit) belongs to the main app:
+     delegate to the global dispatcher so the body mode and the tab
+     highlight follow. 2026-10-25 fix — this local shim used to only strip
+     academy-mode, which left the Randomiser reachable with NO tab lit
+     (re-clicking ACADEMY or DOSSIERS) and never highlighted the target. */
+  if (window.fcSwitchView) return window.fcSwitchView(v);
   document.body.classList.remove('academy-mode');
 }
 
@@ -17700,10 +17716,10 @@ function initDossiers(){
   const btn = document.getElementById('tabDossiers');
   if(!btn) return;
   btn.addEventListener('click', ()=>{
-    // Clicking DOSSIERS again while on the dossiers grid returns to the
-    // site home, mirroring the Academy tab's re-click behaviour.
+    /* Re-clicking DOSSIERS keeps you where you are: on the grid it is a
+       no-op; inside a dossier it returns to the grid. (2026-10-25 fix —
+       the old re-click jumped to the Randomiser with no tab lit.) */
     if (document.body.classList.contains('academy-mode') && A.view==='dossiers' && !A.dossier) {
-      switchView('rand');
       return;
     }
     switchView('dossiers');
@@ -17912,13 +17928,9 @@ function renderAcademyHome(){
   discoveryBtn.onclick = () => { switchView('gallery'); };
   actions.appendChild(discoveryBtn);
 
-  // Dossiers — theme compilations beside the study pathways
-  const dossiersBtn = el('button','acad-btn','DOSSIERS');
-  dossiersBtn.title = 'Theme dossiers: compilation, divergence, practice';
-  dossiersBtn.onclick = () => {
-    switchView('dossiers');
-  };
-  actions.appendChild(dossiersBtn);
+  /* DOSSIERS removed from the Academy actions row — promoted to its own
+     top-level tab (owner directive 2026-10-25); the duplicate here was
+     retired the same day. */
 
   top.appendChild(actions);
   wrap.appendChild(top);
@@ -18714,13 +18726,29 @@ function initAcademy(){
   btn.addEventListener('click', ()=>{
     // Clicking [ACADEMY] again: a deep Academy page (degree, module,
     // dossiers, dossier, gallery, explorer) returns to the Academy home;
-    // clicking again on the Academy home returns to the site home.
+    // clicking again on the Academy home is a no-op — the tab stays selected.
     if (document.body.classList.contains('academy-mode')) {
       const onHome = A.view === 'home' && !A.__gallery && !A.dossier;
-      if (!onHome) { A.__gallery = false; A.dossier = null; A.view = 'home'; renderAcademy(); return; }
-      switchView('rand');
+      if (!onHome) {
+        /* Returning from a deep page to the Academy home must also fix the
+           tab highlight — 2026-10-25 fix: the DOSSIERS tab used to stay lit. */
+        A.__gallery = false; A.dossier = null; A.view = 'home';
+        const tg = $('tabGallery'); if (tg) tg.classList.remove('active');
+        const tdz = $('tabDossiers'); if (tdz) tdz.classList.remove('active');
+        $('tabAcademy').classList.add('active');
+        renderAcademy(); return;
+      }
+      /* Already on the Academy home: a further click is a no-op — the tab
+         stays selected. (2026-10-25 fix — the old re-click jumped to the
+         Randomiser, landing there with no tab lit.) */
       return;
     }
+    /* Entering from another main view: clear any stale Academy-side state
+       (e.g. A.view still 'dossiers' after a Dossiers visit) so the Academy
+       home renders under an ACADEMY highlight. Deep-link routes set their
+       own state before rendering, so the reset lives here in the tab
+       handler, not in the renderer. */
+    A.__gallery = false; A.dossier = null; A.view = 'home';
     switchView('academy');
   });
   // Expose
@@ -18788,7 +18816,7 @@ if(document.readyState!=='loading') initGallery();
     explorer: function(){ A.view='sourceExplorer'; switchView('academy'); },
     gallery: function(){ switchView('gallery'); },
     dossiers: function(){ switchView('dossiers'); },
-    dossier: function(id){ if(!(((window.fcDossiersData||{}).dossiers)||[]).some(x=>x.id===id)) return false; A.view='dossierDetail'; A.dossier=id; switchView('academy'); return true; },
+    dossier: function(id){ if(!(((window.fcDossiersData||{}).dossiers)||[]).some(x=>x.id===id)) return false; A.view='dossierDetail'; A.dossier=id; litDossiersTab(); renderAcademy(); return true; },
     resync: function(){ syncRoute(); }
   };
 })();
