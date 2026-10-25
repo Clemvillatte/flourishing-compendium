@@ -13,7 +13,7 @@ The evening review is the nightly examination of actions and words Seneca descri
 
 ### Correction and pardon
 
-Seneca recalls speaking too contentiously in a dispute and reprimanding someone so freely that he caused offence instead of improvement ([3.36](https://en.wikisource.org/wiki/Of_Anger/Book_III)). His examination includes telling himself he is pardoned this time, while requiring a change in future conduct ([3.36](https://en.wikisource.org/wiki/Of_Anger/Book_III)). The criticism thus concerns particular deeds and words that can be reconsidered ([3.36](https://en.wikisource.org/wiki/Of_Anger/Book_III)).
+Seneca recalls speaking too contentiously in a dispute and reprimanding someone so freely that he caused offence instead of improvement ([3.36](https://en.wikisource.org/wiki/Of_Anger/Book_III)). His examination includes telling himself he is pardoned this time, while requiring a change in future conduct ([3.36](https://en.wikisource.org/wiki/Of_Anger/Book_III)). The pardon is conditional, and the condition is the change required in future conduct. The criticism thus concerns particular deeds and words that can be reconsidered ([3.36](https://en.wikisource.org/wiki/Of_Anger/Book_III)).
 
 ### What the account leaves open
 
