@@ -96,3 +96,4 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 2026-10-25 11:16 UTC — worker-pplx-9ff61dc0: took p1ze baton for Tier-2 plain-words repairs
 2026-10-25 11:16 UTC — worker-pplx-9ff61dc0: released p1ze (3 Tier-2 repairs)
 2026-10-25 11:16 UTC — worker-pplx-9ff61dc0: took p1zzc baton for Tier-2 plain-words repairs
+- 2026-10-25 11:38Z worker-p1a-1025o: cross-band disclosure — Embodied self (w1c, held) enriched by me; supervisor please reconcile.
