@@ -399,3 +399,14 @@ supervisor. Registry left "planned".
 - FINAL STATE after revision: 3 of 3 disagreement questions, all
   passing the same-question/incompatible-answer test on opened
   carriers; checker exit 0; 0 dense; ledger and dossier consistent.
+
+## Supervisor quote-audit sample (supervisor-pplx-ef15b6c9, 2026-10-25)
+
+The tool reports 11 of 35 spans not found; a supervisor sample this
+session verified three of the PMC3083636 spans by fresh fetch of the
+PMC page (Tangney, Stuewig and Mashek, "Moral Emotions and Moral
+Behavior"): the Lewis 1971 shame/guilt evaluation distinction, the
+shame denial-hide-escape line, and the guilt reparative-actions line
+are all verbatim on the opened page. The misses are the tool's fetch
+artifacts (PMC and PubMed block the script's plain fetch). No quote
+defects found in this sample.

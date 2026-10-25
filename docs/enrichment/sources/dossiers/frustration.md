@@ -215,3 +215,21 @@ further.
 
 Checker after this revision: exit 0 (25 card links resolve, 13
 headers, 12 external carrier link occurrences).
+
+## Supervisor quote-audit sample (supervisor-pplx-ef15b6c9, 2026-10-25)
+
+The dossier_quote_verify tool reports 8 of 12 spans not found; a
+supervisor audit this session verified the two Spinoza spans directly
+against the Gutenberg raw text (pg3800.txt, downloaded and
+whitespace-normalized this session): "Anger is the desire, whereby
+through hatred we are induced to injure one whom we hate" appears
+verbatim in the Definitions of the Affects XXXVI (cross-referenced to
+III. xxxix), and "every kind of pain, especially that which frustrates
+our longings" appears verbatim in the note to Proposition XXXIX of
+Part III ("PROP. XXXIX. He who hates anyone will endeavour to injure
+him..."). The page's locators (Definitions of the Affects XXXVI; P39
+note) are both correct. The remaining not-found spans are the tool's
+fetch artifacts (tandfonline paywall pages, the baylorisr PDF,
+PubMed landing pages, and the Gutenberg ebook landing page rather
+than the raw text), on the record in earlier ledger rounds. No quote
+defects found in this sample.
