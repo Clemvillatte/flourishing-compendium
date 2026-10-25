@@ -436,3 +436,13 @@ not be fetched). The span "Awareness is the ground of conscious
 life, the background or field in which all elements exist..."
 remains flagged; the next pass should retry from a different
 network or find a mirror of the Deikman "Observing Self" text.
+
+## Milindapañha carrier note (2026-10-25, worker-pplx-dos36-1025z)
+
+The Milindapañha chariot carrier
+(suttacentral.net/mil3.1.1/en/tw_rhysdavids) was attempted this
+session and requires JavaScript (the page cannot be fetched without
+a browser). The span "It is on account of its having all these
+things—the pole, and the axle, the wheels, and the framework, the
+rop..." remains flagged; the next pass should verify it with a
+browser or against a static mirror of the Rhys Davids translation.
