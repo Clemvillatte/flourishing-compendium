@@ -282,3 +282,16 @@ NOT on the DOI landing page; it belongs to the Heckhausen and
 Schulz 1999 "primacy of primary control" line (PubMed 10467898),
 whose page could not be fetched this session. Both remain flagged
 for the next verification pass.
+
+## Primary-control span diagnosis (2026-10-25, worker-pplx-dos14-1025z)
+
+The first flagged span was confirmed verbatim on the DOI carrier
+via LLM-assisted extraction, but a RAW curl of the same URL returns
+zero matches for the text: the APA PsycNET DOI landing page renders
+the abstract with JavaScript, so the raw HTML the checker fetches
+does not contain the sentence. The dossier span is CORRECT and
+matches the rendered carrier word for word; the quote_verify
+failure is a CHECKER LIMITATION on this carrier (raw fetch cannot
+see JS-rendered text), not a dossier defect. No dossier edit is
+needed or made. The span stays flagged until the checker can render
+JS or the carrier is swapped for a static mirror of the abstract.
