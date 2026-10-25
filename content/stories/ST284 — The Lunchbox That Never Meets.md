@@ -25,3 +25,4 @@ The film's intersubjective content is the medium: the two selves are constituted
 - [The Lunchbox (2013), dir. Ritesh Batra — Wikipedia entry opened for the dabbawala and plot details](https://en.wikipedia.org/wiki/The_Lunchbox)
 - [Beauvoir, The Ethics of Ambiguity (1947) — Wikipedia biography opened for the ethics-of-ambiguity framing](https://en.wikipedia.org/wiki/Simone_de_Beauvoir)
 - **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist whose ethics of ambiguity and situation frame the recognition structure the film holds open.
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

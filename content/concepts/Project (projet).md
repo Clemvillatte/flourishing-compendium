@@ -19,6 +19,10 @@ For Sartre the project is not something a person has but what a person is: a thr
 
 - [[E038 — Practise project]] — lists the concept among its philosophy parallels.
 
+### What to practise
+
+The word is doing double work, and that is the point. A project in the ordinary sense is something you have: a plan you can write down. A projet in Sartre's sense is what you are: the way your present choices are always thrown toward something, so that you can be read off your aims. The practical consequence is that you cannot get behind your projects to an uninvolved self who watches them happen; the only way to change your projects is to change them, by aiming at something else, which is exactly what principle E038 trains a reader to do.
+
 ## Related concepts
 
 - [[Projection (Entwurf)]] — the Heideggerian term Sartre's projet grows out of
@@ -32,3 +36,4 @@ For Sartre the project is not something a person has but what a person is: a thr
 ## Cited in philosophy parallels
 
 - [[E038 — Practise project]]
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

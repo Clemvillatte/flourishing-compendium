@@ -22,3 +22,4 @@ Being and Nothingness is built on examples like this, drawn from the Paris of th
 ## Sources
 
 - [Sartre, Being and Nothingness (1943), trans. Hazel E. Barnes, 1956, Part I, ch. 2 — full text, Internet Archive](https://archive.org/download/in.ernet.dli.2015.6651/2015.6651.Being-And-Nothingness_djvu.txt) — the waiter passage and the bad-faith definition; opened for E033.
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

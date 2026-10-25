@@ -15,7 +15,11 @@ Sartre's argument in the introduction to Being and Nothingness is that conscious
 >
 > It is very possible that I have no positional consciousness of counting them. Then I do not know myself as counting. Yet at the moment when these cigarettes are revealed to me as a dozen, I have a non-thetic consciousness of my adding activity. If anyone questioned me, indeed, if anyone should ask, 'What are you doing there?' I should reply at once, 'I am counting.'" (Sartre, Being and Nothingness, pp. 19–20 of the French original, Barnes translation p. liii, [as quoted in the Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/self-consciousness-phenomenological/))
 
-The consequence Sartre draws is that this pre-reflective awareness is what makes reflection possible: it is the condition of the Cartesian cogito, not its result.
+The consequence Sartre draws is that this pre-reflective awareness is what makes reflection possible: it is the condition of the Cartesian cogito, not its result. For a reader the use is diagnostic rather than speculative. The question to keep asking is whether you can answer what you are doing at once, without going back to look, since the inability to answer is the tell that the activity has stopped being yours and started being a role being performed for an audience, including your own.
+
+### What to practise
+
+The counting example is a test you can run on yourself in the middle of a working hour: stop and ask what you are doing, and see whether the answer is available without a pause for reconstruction. Where the answer is there, you have the absorbed engagement the flow literature studies. Where it is not, you have something closer to Sartre's waiter, and that is the E033 signal.
 
 ### Here
 
@@ -34,3 +38,4 @@ The consequence Sartre draws is that this pre-reflective awareness is what makes
 ## Cited in philosophy parallels
 
 - [[Y093 — Know your field and its knower]]
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

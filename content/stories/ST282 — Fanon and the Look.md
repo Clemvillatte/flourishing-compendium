@@ -22,3 +22,4 @@ Black Skin, White Masks is the century's central work on the phenomenology of co
 
 - [Fanon, Black Skin, White Masks (1952) — the "Look, a Negro!" passage; Wikipedia entry opened for the Fanon details](https://en.wikipedia.org/wiki/Black_Skin,_White_Masks)
 - [Sartre, Being and Nothingness (1943) — full text opened for the being-for-others analysis; Internet Archive](https://archive.org/download/in.ernet.dli.2015.6651/2015.6651.Being-And-Nothingness_djvu.txt)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

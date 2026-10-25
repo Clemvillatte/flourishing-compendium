@@ -13,6 +13,10 @@ Eigentlichkeit is Heidegger's word for ownedness in Being and Time — the mode 
 
 For Heidegger, "all possibilities of concrete understanding and action are made possible by a background of shared practices opened up by the social context in which we find ourselves, by what he calls the 'They' (*das Man*)". What breaks the drift is the encounter with one's "ownmost" possibility — "the possibility of death as the possible loss of all possibilities". Faced with that, authenticity becomes "standing up for and standing behind what one does—as *owning* and *owning up to* one's deeds as an agent in the world".
 
+### What to practise
+
+The useful distinction the word carries is between a self you own and a self you merely occupy. Heidegger's background point is that you cannot opt out of the shared practices that make you intelligible; you can only take a stance toward them. The practice E034 trains is exactly that: not the fantasy of a self outside all social roles, but the repeated act of standing behind a choice you could have made otherwise.
+
 ### Here
 
 - [[E034 — Practise authenticity (Eigentlichkeit)]] and [[SE043 — Cultivate authentic identity — be who you are, not who others want]] are this concept's philosophy parallels
@@ -38,3 +42,4 @@ Existential phenomenology · Philosophy
 [[D185 — Prefer being to seeming]]
 [[E034 — Practise authenticity (Eigentlichkeit)]]
 [[SE043 — Cultivate authentic identity — be who you are, not who others want]]
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

@@ -35,6 +35,10 @@ The same entry records the dyadic-conflict reading:
 
 > "Originally, human relations are typified by dyadic mode of conflict best captured in the look of the other, and the sort of scenario concerning the key-hole we just considered above." (Reynolds & Renaudie, [SEP: Jean-Paul Sartre](https://plato.stanford.edu/entries/sartre/))
 
+### What to practise
+
+The concept names a fact of structure rather than an emotion, and its practical use is a change of description rather than a change of feeling. When you notice that your self-description has just been supplied by someone else's gaze, the E036 and E068 move is to treat the shame as information about a relation, not as a verdict about a self, and to ask what you would choose to be if the look were not there. That question, not the elimination of the look, is the practice.
+
 ### Here
 
 - [[E035]] — sets out Sartre's keyhole example and his account of shame before the Other.
@@ -59,3 +63,4 @@ The same entry records the dyadic-conflict reading:
 
 - [[E036 — Practise shame as ontological]]
 - [[E068 — Practise being-for-others]]
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

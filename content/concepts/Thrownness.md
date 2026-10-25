@@ -25,7 +25,7 @@ In Heidegger's own scheme the two poles belong together: "Dasein confronts every
 
 ### Why it matters for flourishing
 
-For this compendium the distinction is between unchosen starting conditions and responsibility for how we inhabit them. Thrownness is not grounds for self-blame about the start, nor an excuse from what follows; note that Heidegger keeps the existential guilt and asks us to own it, not dissolve it. My principles [[E022 — Practise thrownness (Geworfenheit)]] and [[R106 — Practise situated freedom]] work the two halves. Heidegger's formulation of the payoff is practical: "I become myself by first owning the fact that I can escape neither from my thrownness, nor from the lack of justification for my existence that comes with that thrownness" ([Stanford Encyclopedia, Martin Heidegger](https://plato.stanford.edu/entries/heidegger/)). Ownership, not escape, is the move.
+The distinction here is between unchosen starting conditions and responsibility for how we inhabit them. Thrownness is not grounds for self-blame about the start, nor an excuse from what follows; Heidegger keeps the existential guilt and asks us to own it, not dissolve it. My principles [[E022 — Practise thrownness (Geworfenheit)]] and [[R106 — Practise situated freedom]] work the two halves. Heidegger's formulation of the payoff is practical: "I become myself by first owning the fact that I can escape neither from my thrownness, nor from the lack of justification for my existence that comes with that thrownness" ([Stanford Encyclopedia, Martin Heidegger](https://plato.stanford.edu/entries/heidegger/)). Ownership, not escape, is the move.
 
 ## Related concepts
 
@@ -52,3 +52,4 @@ For this compendium the distinction is between unchosen starting conditions and 
 
 - [[R106 — Practise situated freedom]]
 - [[E022 — Practise thrownness (Geworfenheit)]]
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

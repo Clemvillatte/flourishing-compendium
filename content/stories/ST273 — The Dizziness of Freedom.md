@@ -23,3 +23,4 @@ The book is the founding text of anxiety as a philosophical category rather than
 
 - [Kierkegaard, The Concept of Anxiety (1844) — Wikipedia entry opened for the dizziness-of-freedom formulation](https://en.wikipedia.org/wiki/The_Concept_of_Anxiety)
 - [Sartre, Existentialism is a Humanism (1946) — full text opened for the anguish sentence; Marxists.org](https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.
