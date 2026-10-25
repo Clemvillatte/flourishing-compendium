@@ -38,37 +38,17 @@ The Satipatthana Sutta opens by naming what the practice is for:
 
 ### The refrain that does the work
 
-What makes the practice right is less the objects than the posture toward them; for each of the four frames the instruction returns to the same refrain:
+For each of the four frames the instruction returns to the same sentence:
 
 > "There is the case where a monk remains focused on the body in & of itself — ardent, alert, & mindful — putting aside greed & distress with reference to the world." ([MN 10, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)).
 
-The observation is effortful and free of grasping. The map holds the capacities the refrain trains:
+The refrain names three qualities at work together. "Ardent" brings the effort; "alert" is sampajañño, clear comprehension of what the mind is doing as it does it; "mindful" is sati itself, the remembering that holds the observation in place. The sutta runs sati "to the extent of knowledge & remembrance", which is why the tradition glosses it as memory rather than as a blank noticing. [Bare attention in mindfulness practice](https://clemvillatte.github.io/flourishing-compendium/#card=Bare%20attention%20in%20mindfulness%20practice) carries the first half of that work: attending to what arises before commentary begins.
 
-[Bare attention in mindfulness practice](https://clemvillatte.github.io/flourishing-compendium/#card=Bare%20attention%20in%20mindfulness%20practice): the attending to what arises before commentary begins.
+The fourth phrase, "putting aside greed & distress with reference to the world", is the removal half of the training. The practitioner is not merely observing; the observing itself releases what would pull it into wanting or into hurt. [Meta-awareness](https://clemvillatte.github.io/flourishing-compendium/#card=Meta-awareness) names the wider capacity the refrain trains, knowing that one is aware, and [metacognitive awareness](https://clemvillatte.github.io/flourishing-compendium/#card=Metacognitive%20awareness) is the reportable part of the same skill.
 
-[Meta-awareness](https://clemvillatte.github.io/flourishing-compendium/#card=Meta-awareness): knowing that one is aware, the capacity I pair with sati.
+The clinical family gives the same posture other names. [Mindful attention](https://clemvillatte.github.io/flourishing-compendium/#card=Mindful%20attention), Kabat-Zinn's operational definition, is attention deliberately trained on present experience; [mindful presence](https://clemvillatte.github.io/flourishing-compendium/#card=Mindful%20presence) is the attended presence itself. [Present-moment awareness theory](https://clemvillatte.github.io/flourishing-compendium/#card=Present-moment%20awareness%20theory) holds that contact with the current moment, rather than the remembered past or imagined future, underpins wellbeing. [Decentering](https://clemvillatte.github.io/flourishing-compendium/#card=Decentering) and [cognitive defusion](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20defusion) describe the capacity to see thoughts as mental events rather than as the world or the self, and [acceptance](https://clemvillatte.github.io/flourishing-compendium/#card=Acceptance) adds the willingness to let unwanted experience stay as it is.
 
-[Metacognitive awareness](https://clemvillatte.github.io/flourishing-compendium/#card=Metacognitive%20awareness): the part of metacognition that can be reported and measured, what a person knows about their own thinking and how they manage it.
-
-[Mindful attention](https://clemvillatte.github.io/flourishing-compendium/#card=Mindful%20attention): attention deliberately trained on present experience, Kabat-Zinn's operational definition.
-
-[Mindful presence](https://clemvillatte.github.io/flourishing-compendium/#card=Mindful%20presence): the label I use for the attended presence itself; Kabat-Zinn, 1990.
-
-[Present-moment awareness theory](https://clemvillatte.github.io/flourishing-compendium/#card=Present-moment%20awareness%20theory): the claim that contact with the current moment, rather than the remembered past or imagined future, underpins wellbeing.
-
-[Detached mindfulness theory Wells](https://clemvillatte.github.io/flourishing-compendium/#card=Detached%20mindfulness%20theory%20Wells): the clinical cousin, watching thoughts without engaging them.
-
-[Decentering](https://clemvillatte.github.io/flourishing-compendium/#card=Decentering): the capacity to observe thoughts and feelings as mental events rather than as the world or the self.
-
-[Cognitive defusion](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20defusion): the ACT practice of seeing thoughts as thoughts, constructions passing through awareness, rather than as commands or facts.
-
-[Acceptance](https://clemvillatte.github.io/flourishing-compendium/#card=Acceptance): the willing embrace of unwanted inner experience, without trying to change its frequency or form.
-
-[Beginner's mind](https://clemvillatte.github.io/flourishing-compendium/#card=Beginner%27s%20mind): the Zen practice of meeting experience as if for the first time, many possibilities where the expert's mind holds few.
-
-[Clarity of mind](https://clemvillatte.github.io/flourishing-compendium/#card=Clarity%20of%20mind): the label I use for the unclouded mental state the contemplative traditions describe, Stoic assent, Daoist purity-and-stillness, Buddhist clear seeing.
-
-[The lived body](https://clemvillatte.github.io/flourishing-compendium/#card=The%20lived%20body): the body as experienced from within, the body one is rather than only the body one has; the first frame's home.
+Two further qualities sit beside the refrain without being named in it. [Beginner's mind](https://clemvillatte.github.io/flourishing-compendium/#card=Beginner%27s%20mind), the Zen practice of meeting experience as if for the first time, describes the freshness the training preserves; [clarity of mind](https://clemvillatte.github.io/flourishing-compendium/#card=Clarity%20of%20mind) is the unclouded state the contemplative traditions converge on. [The lived body](https://clemvillatte.github.io/flourishing-compendium/#card=The%20lived%20body) is the first frame's home, the body as experienced from within rather than only the body one has.
 
 ### The modern family
 
