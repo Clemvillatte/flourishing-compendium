@@ -13,9 +13,9 @@ Natural virtue (physikē aretē) is [[T002 — Aristotle|Aristotle]]'s name for 
 
 ### Why nature is not enough
 
-Aristotle's reason is that natural dispositions can mislead. In the same chapter he says that "both children and brutes have the natural dispositions to these qualities, but without reason these are evidently hurtful," and compares them to a strong body that moves without sight and stumbles badly. Once a person acquires reason, the state "while still like what it was, will then be virtue in the strict sense."
+Aristotle's reason is that natural dispositions can mislead. In the same chapter he says that "both children and brutes have the natural dispositions to these qualities, but without reason these are evidently hurtful," and compares them to a strong body that moves without sight and stumbles badly. The strong-body image is the chapter's own summary of the risk: force without sight. Once a person acquires reason, the state "while still like what it was, will then be virtue in the strict sense."
 
-### Here
+### In the compendium
 
 The principles listed below cite this concept. Read them as applications or neighbouring ideas rather than as Aristotle's own claims.
 

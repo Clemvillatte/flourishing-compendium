@@ -15,6 +15,8 @@ The definition the review endorses for the collective sense, quoting Healy (2006
 
 The move the concept makes is from resilience as an individual trait to resilience as something carried by structure and identity — language, kinship, storytelling, shared practices — that lets a community absorb disturbance without dissolving. That is close to the intuition in MacIntyre's After Virtue: practices and living traditions are what carry the resources a person draws on in misfortune, which is why the original entry source attached the term there.
 
+The review that fixed the term was written for a specific setting, research with Aboriginal communities, and the two-level distinction was meant for that setting: the resources a person draws on are often cultural, and the culture itself can be the thing under strain. The individual sense and the collective sense name the two ends of that exchange, and neither reduces to the other.
+
 ## Related concepts
 
 - [[Resilience]] — the broader capacity the concept specializes to cultures
