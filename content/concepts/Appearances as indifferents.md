@@ -13,7 +13,7 @@ The Stoics held that externals are neither good nor evil, and that appearances (
 
 ### What the indifference is for
 
-The point is not numbness. In the same chapter, Epictetus writes that "with respect to that which is neither good nor bad" the soul "feels indifferent", while the good and evil move desire and aversion. The indifference of externals clears the field so that the one thing in our power, the use of appearances, can be exercised well: "The business of the wise and good man is to use appearances conformably to nature" (same page).
+The point is not numbness. In the same chapter, Epictetus writes that "with respect to that which is neither good nor bad" the soul "feels indifferent", while the good and evil move desire and aversion. The indifference of externals clears the field so that the one thing in our power, the use of appearances, can be exercised well: "The business of the wise and good man is to use appearances conformably to nature" (same page). The training is therefore a daily practice rather than a doctrine to hold, since appearances arrive whether or not they were invited, and each arrival is a fresh occasion to make the judgment again.
 
 ## Sources
 
