@@ -189,3 +189,6 @@ Opened [Seneca, Letter 78, Gummere (Wikisource)](https://en.wikisource.org/wiki/
 
 ## S094 — Accept pain as part of nature
 Opened [Seneca, Letter 24, Gummere (Wikisource)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_24): the "Forsooth thou are naught but Pain..." quote (§14) matches verbatim, so the cite now points to Wikisource and states the translator. Marcus quote (Casaubon, Gutenberg 2680) re-matched in the local copy.
+
+## SP082 — Spinoza, Ethics V, P29 quote
+Compared with the Elwes text in [Gutenberg 3800](https://www.gutenberg.org/cache/epub/3800/pg3800.txt): P29 reads "present actual existence of the body"; the page had dropped "actual" inside quotation marks. Restored. Also re-matched the IV P62 proof quotes. S122 (Seneca, On Anger III.36, Stewart) re-matched against [Gutenberg 64576](https://www.gutenberg.org/cache/epub/64576/pg64576.txt).
