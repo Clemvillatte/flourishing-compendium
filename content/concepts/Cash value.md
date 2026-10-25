@@ -13,7 +13,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 >
 > (James, Pragmatism, Lecture VI, "Pragmatism's Conception of Truth", 1907, [Project Gutenberg #5116](https://www.gutenberg.org/ebooks/5116))
 
-In Lecture II, James uses the expression when asking what practical work a philosophical term can do in experience: "you cannot look on any such word as closing your quest. You must bring out of each word its practical cash-value, set it at work within the stream of your experience" (James 1907). A belief's cash value shows up in what it lets a person do and in what happens when they act on it. In Lecture VI, James answers the question in his own terms: "TRUE IDEAS ARE THOSE THAT WE CAN ASSIMILATE, VALIDATE, CORROBORATE AND VERIFY. FALSE IDEAS ARE THOSE THAT WE CANNOT."
+In Lecture II, James uses the expression when asking what practical work a philosophical term can do in experience: "you cannot look on any such word as closing your quest. You must bring out of each word its practical cash-value, set it at work within the stream of your experience" (James 1907). A belief's cash value shows up in what it lets a person do and in what happens when they act on it. The question travels with the believer: it asks what the idea does inside a particular life, and it is answered in experience rather than by definition, which is why James frames it in experiential terms. In Lecture VI, James answers the question in his own terms: "TRUE IDEAS ARE THOSE THAT WE CAN ASSIMILATE, VALIDATE, CORROBORATE AND VERIFY. FALSE IDEAS ARE THOSE THAT WE CANNOT."
 
 ## Related concepts
 

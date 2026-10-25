@@ -19,7 +19,7 @@ These results concern the standardized sequential-task protocol used in this rep
 
 ### What the null result settles
 
-The registered replication report is part of the concept rather than a footnote to it. The theory predicted a resource that depletes; the standardized protocol built to detect that depletion found, across 23 labs, an effect indistinguishable from zero. The honest summary is that the resource model, in its sequential-task form, is unconfirmed at scale, and any practice built on the fuel-tank picture of willpower inherits that uncertainty. The compendium's treatment keeps both halves on the table: the everyday experience of worn-down self-control, and the failure of the 23-lab standardized test of it.
+The registered replication report is part of the concept rather than a footnote to it. The theory predicted a resource that depletes; the standardized protocol built to detect that depletion found, across 23 labs, an effect indistinguishable from zero. The honest summary is that the model's prediction did not survive this standardized sequential-task protocol, and any practice built on the fuel-tank picture of willpower inherits that uncertainty. The compendium's treatment keeps both halves on the table: the everyday experience of worn-down self-control, and the failure of the 23-lab standardized test of it.
 
 ## Sources
 

@@ -12,9 +12,11 @@ Cultural recognition names the demand at the centre of multicultural politics: t
 > "The thesis is that our identity is partly shaped by recognition or its absence, often by the misrecognition of others, and so a person or group of people can suffer real damage, real distortion, if the people or society around them mirror back to them a confining or demeaning or contemptible picture of themselves. Nonrecognition or misrecognition can inflict harm, can be a form of oppression, imprisoning someone in a false, distorted, and reduced mode of being." (Taylor, [The Politics of Recognition, full PDF](https://mercaba.org/SANLUIS/Filosofia/autores/Contempor%C3%A1nea/Taylor,%20Charles/The%20politics%20of%20recognition.pdf), in Multiculturalism: Examining the Politics of Recognition, ed. Gutmann, Princeton UP, 1994)
 
 ### Why recognition is owed
-On Taylor's account the harm of misrecognition is not a lack of courtesy: it can imprison a person in a reduced mode of being, and so he writes that "Due recognition is not just a courtesy we owe people. It is a vital human need." The essay's political conclusion follows the same line: "Equal recognition is not just the appropriate mode for a healthy democratic society."
+On Taylor's account the harm of misrecognition runs deeper than discourtesy: it can imprison a person in a reduced mode of being, and so he writes that "Due recognition is not just a courtesy we owe people. It is a vital human need." The essay's political conclusion follows the same line: "Equal recognition is not just the appropriate mode for a healthy democratic society."
 
-### Here
+The demand is therefore political in Taylor's sense. Because the damage is done through what the surrounding people and society mirror back, the repair is social as well, living in the institutions and habits of regard a society keeps, which is what makes the essay an argument about policy and not only about manners.
+
+### In the compendium
 
 - [[R111 — Practise the recognition of difference]] — multicultural recognition as affirmative acknowledgment rather than mere tolerance; the principle cites Taylor 1992
 - [[R023 — Practise cultural safety]] — environments where people can be their full cultural selves without erasure
