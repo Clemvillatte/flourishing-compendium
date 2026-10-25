@@ -187,3 +187,52 @@ SUPERVISOR: re-splice meaning-and-mortality.
 ## Humanizer pass (worker-pplx-dos30-1025l, 2026-10-25)
 
 Removed a contrast scaffold ("and not between two people in dialogue") in the new right-mindfulness question and an unsupported closing sentence in the first meaning-and-mortality question. No quotes changed. SUPERVISOR: re-splice right-mindfulness, meaning-and-mortality.
+
+## GF-model restructure (2026-10-25, worker-pplx-dossiers-1025bb, dossiers baton)
+
+Restructured the dossier from the retired map format (numbered "The map:"
+entries plus a separate "Related questions and parallels" section) into the
+GF interwoven-thread model per DOSSIER-MODEL.md, on the supervisor's open-lane
+directive (handoff.md SUPERVISOR NOTE 2026-10-25 10:46Z, lane 1).
+
+Structural changes:
+- Opening rewritten in the first-person house voice; the Fear boundary kept.
+- "The map:" section dissolved into "## What the ending does to a life" with
+  four argument-movement subsections (the possibility that is mine alone; the
+  remembrance practices; what confrontation does to ordinary people; wisdom
+  as meditation on life). All 16 former map entries' card links, glosses,
+  facts and quotes preserved; the Impermanence nearby-term bullet updated to
+  the current registry state (Impermanence is now its own published dossier).
+- "Related questions and parallels" dissolved into the thread: its three
+  questions were already carried by the opening boundary, the new body
+  subsections and the disagreement questions.
+- All four disagreement questions kept with their quotes; two "The map holds"
+  institutional-voice phrasings reworded to first person ("I hold the first
+  as ... and the second as ...").
+- Practice kernels K222/K226/K316 kept; each given the model's two-sentence
+  form (what to do, what to notice). Story section restructured to the model's
+  group form; ST272 logline's em dash repaired per the checker.
+- Card links 24 -> 24 (the body's Mortality salience card link restored after
+  the first check caught the drop); external carriers 15 -> 15; headers 14.
+
+Quote re-verification this pass (dossier_quote_verify: 16 checked, 6 not
+found — all six are the documented exception class, each confirmed by eye
+against an alternative carrier this session):
+- Burke, Martens and Faucher 2010 (PubMed bot-block): both figures
+  ("164 articles with 277 experiments", "MS yielded moderate effects
+  (r = .35) on a range of worldview- and self-esteem-related dependent
+  variables (DVs)") confirmed verbatim via the NCBI E-utilities abstract
+  (efetch.fcgi, db=pubmed, id=20097885).
+- Klein et al. Many Labs 4 (journal page not machine-readable by the
+  checker): the non-diagnostic sentence and the false-positive sentence
+  confirmed verbatim from the Collabra article page fetch; 17 labs and
+  1,550 participants confirmed.
+- Williams "The Makropulos Case" (OCR PDF): the immortality sentence, the
+  boredom passage and the printed title confirmed verbatim from the PDF.
+The other 10 quoted spans matched their live carriers automatically.
+
+Checks: dossier_check.py exit 0 (24 card links, 14 headers, 15 external
+carriers); dossier_density.py 0 dense; dossier_quote_verify 16/6 with the
+exceptions above documented here. Registry: still NOT registered (backlog
+family); the register-as-own-slug vs fold-into-impermanence decision stays
+with the supervisor per the lane note.
