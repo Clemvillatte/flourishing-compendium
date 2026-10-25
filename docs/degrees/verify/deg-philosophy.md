@@ -672,6 +672,73 @@ attach them with evidence on file.
   49:17 per the uploader.
 - Verification status: verified-video, with the language flag noted.
 
+### M01-P14: Reality is a process (Matthew Segall, PhilosophyEAST, London Buddhist Centre)
+
+- Identity and access: oembed confirms the event on the London Buddhist Centre
+  channel (https://www.youtube.com/watch?v=3n9SHM3SLMU).
+- Duration: 1:28:45 (watch page displayed duration, 2026-10-25).
+- Instructor credentials: Matthew David Segall, process-relational philosopher whose
+  work builds on Whitehead's philosophy of organism (per the host description).
+  Note for the owner: Segall appears in several other Block I records (M01-P09,
+  M01-P11, M01-P18); the PhilosophyEAST conversation is the most Buddhism-adjacent
+  of them.
+- Language: English.
+- Content coverage: the host's description and the transcript material cover process
+  philosophy's relation to Buddhist ideas, including refuge and the Three Jewels,
+  Buddhist critiques of a fixed self, mechanistic views of mind and nature, and
+  Whitehead's account of the self, creativity, value, God and ecology.
+- Relevant segment: whole conversation, 1:28:45.
+- Verification status: verified-video.
+
+### M01-P16: Bergson at Columbia, Bergsonism and American Philosophy (Columbia Maison Française)
+
+- Identity and access: oembed confirms the roundtable on the Columbia Maison
+  Française channel (https://www.youtube.com/watch?v=NV41n96bRM4).
+- Duration: 1:21:27 (watch page, 2026-10-25).
+- Instructor credentials: Souleymane Bachir Diagne, Professor of French and
+  Philosophy at Columbia; Frédéric Worms, Professor of Philosophy at University of
+  Lille III and Director of the International Center for the Study of Contemporary
+  French Philosophy; Mathias Girel, Professor of Philosophy at the École Normale
+  Supérieure; Larry McGrath, PhD candidate, Johns Hopkins Humanities Center (all per
+  the host description). One panelist is described as a PhD candidate at the time
+  of the 2013 event.
+- Language: English.
+- Content coverage: the host's description states the roundtable evokes the
+  relationship between Bergsonism and American philosophy, pragmatism and William
+  James in particular, and the continuing influence of Bergson's concepts of
+  temporality, life, difference and novelty.
+- Relevant segment: whole roundtable, 1:21:27.
+- Verification status: verified-video.
+
+### M01-P17: How French Philosopher Henri Bergson Helped 20th-century Biologists Get Creative About Evolution (Emily Herring, Linda Hall Library)
+
+- Identity and access: oembed confirms the talk on The Linda Hall channel
+  (https://www.youtube.com/watch?v=FNrJbhY55yE).
+- Duration: 1:00:02 (watch page, 2026-10-25).
+- Instructor credentials: Emily Herring, historian of science (per the host
+  description); talk recorded November 29, 2018 at the Linda Hall Library.
+- Language: English.
+- Content coverage: the host's description states the talk explores the reception
+  of Bergson among the biologists of his time and the relationship between science
+  and philosophy, in 20th-century biology and in the present state of the humanities.
+- Relevant segment: whole talk, 1:00:02.
+- Verification status: verified-video.
+
+### M01-P20: Cheryl Misak Lecture, Pragmatism and the Law (Centre for Constitutional Studies)
+
+- Identity and access: oembed confirms the lecture on the Centre for Constitutional
+  Studies channel (https://www.youtube.com/watch?v=C_-tE-alXI8).
+- Duration: 1:00:34 (watch page, 2026-10-25).
+- Instructor credentials: Professor Cheryl Misak, University of Toronto (per the
+  host description).
+- Language: English.
+- Content coverage: the host's description states the lecture examines the view of
+  law and its legitimacy that originates in Oliver Wendell Holmes and is continued
+  by John Dewey and C.I. Lewis, drawing on the founders of pragmatism's thinking
+  about norms.
+- Relevant segment: whole lecture, 1:00:34.
+- Verification status: verified-video.
+
 ## Block A remainder
 
 (in progress: verifier-pplx-a1)
