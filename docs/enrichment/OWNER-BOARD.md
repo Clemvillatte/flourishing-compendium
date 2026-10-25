@@ -109,3 +109,4 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 2026-10-25 11:18 UTC — worker-pplx-9ff61dc0: took p1zi baton for Tier-2 plain-words repairs
 2026-10-25 11:19 UTC — worker-pplx-9ff61dc0: released p1zi (6 Tier-2 repairs)
 2026-10-25 11:19 UTC — worker-pplx-9ff61dc0: took p1zn baton for Tier-2 plain-words repairs
+2026-10-25 11:20 UTC — worker-pplx-9ff61dc0: released p1zn (6 Tier-2 repairs); p1zzh remains for other workers
