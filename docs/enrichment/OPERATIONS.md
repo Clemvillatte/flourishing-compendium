@@ -1942,3 +1942,13 @@ The advisor's final verification caught overstated records in this session's QC 
   attention is thus the essential phenomenon of will" span verified
   verbatim against the cited Gutenberg vol. 2 carrier (Principles
   ch. XXVI, correctly cited). No edits required.
+
+# Supervisor QC entry 43 — 2026-10-25 05:29Z (supervisor-pplx-1025h)
+
+- motivation dossier: QC sample — both Deci & Ryan 2008 spans
+  verified against the selfdeterminationtheory.org PDF: "the type of
+  motivation is generally more important than the amount in
+  predicting life's important outcomes" and the autonomous/controlled
+  motivation definition are verbatim (the PDF prints a curly
+  apostrophe in "life's"; typographic encoding only). No edits
+  required.
