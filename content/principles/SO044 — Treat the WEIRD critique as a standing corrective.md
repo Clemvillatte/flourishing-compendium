@@ -18,15 +18,15 @@ Henrich, Heine and Norenzayan's 2010 review challenged broad claims about human 
 
 One comparison illustrates the stakes: across 15 societies, the U.S. adult non-student sample made the highest mean Dictator Game offer, nearly twice the Hadza and Tsimane means ([§2.2, Figure 3A](https://www2.psych.ubc.ca/~ara/Manuscripts/Weird_People_BBS_Henrichetal.pdf)). The authors caution against generalizing without supportive evidence ([§2.6](https://www2.psych.ubc.ca/~ara/Manuscripts/Weird_People_BBS_Henrichetal.pdf)).
 
-Medin and Bennis endorse broader sampling while questioning the stronger outlier claim: tools and theories developed around one population may themselves help make that population appear unusual ([Weirdness Is in the Eye of the Beholder](https://groups.psych.northwestern.edu/medin/documents/BBS_commentary_MedinBennis.pdf)). The dispute adds a question about methods to the question about participants.
+Medin and Bennis endorse broader sampling while questioning the stronger outlier claim: tools and theories developed around one population may themselves help make that population appear unusual ([Weirdness Is in the Eye of the Beholder](https://groups.psych.northwestern.edu/medin/documents/BBS_commentary_MedinBennis.pdf)). I take two checks from this dispute: who was studied, and how the task might have shaped what could be observed.
 
 ### Plain words
 
-A study provides evidence about the people and circumstances examined. Applying its finding elsewhere requires reasons to expect it to hold there. A familiar result can be worth taking seriously while its reach remains uncertain; identifying that uncertainty improves the claim you can responsibly make.
+Check who was studied before applying a finding to other people.
 
 ### For example
 
-Before using a student study in an essay about flourishing, note who participated, what task they completed and where it happened. Look for evidence from other settings. If you cannot find it, narrow your claim and record the gap. When new evidence appears, revisit the wording. This is my illustration of the corrective, not a rule that every result must be independently retested for every reader.
+Suppose an essay turns the Dictator Game comparison into a claim that one society is more generous. Return to what was measured: the offers these participants made in this task. Say that, then explain what further evidence a broader judgment would need. A ranking in a game cannot, on its own, describe the character of a whole population.
 
 ## Sources
 

@@ -118,3 +118,12 @@ Opened through search and fetch:
 - [Chris Fraser, “Heart-Fasting, Forgetting, and Using the Heart Like a Mirror,” author manuscript, pp. 23–24](http://cjfraser.net/images/2013/08/Fraser_Heart-FastingForgetting.pdf). Read his explicit ethical challenge: practical efficacy at cutting up an ox does not establish that it is a fitting task. The principle attributes this challenge to Fraser rather than claiming that the primary text explicitly condemns the cook.
 
 Changes: retained both primary quotations, added the ethical question that skill alone leaves open, and broadened the practical reflection to lives affected by work. Converted Plain words to one sentence. The editor example names tradeoffs and negotiation rather than promising unchanged output or a health benefit. Preserved opening statement, front matter, every original link and reflection.
+
+## SO044: Treat the WEIRD critique as a standing corrective
+
+Opened through search and fetch:
+
+- [Henrich, Heine and Norenzayan, *The Weirdest People in the World?*, author manuscript, 28 August 2009 draft of the 2010 review](https://www2.psych.ubc.ca/~ara/Manuscripts/Weird_People_BBS_Henrichetal.pdf). Read the long abstract, §2.2 and Figure 3A, and §2.6. The retained quotation matches the long abstract. The fifteen-society comparison is the Dictator Game, with the U.S. adult nonstudent mean highest and nearly twice the Hadza and Tsimane means. No exact percentages were inferred from the figure.
+- [Medin and Bennis, *Weirdness Is in the Eye of the Beholder*, commentary manuscript](https://groups.psych.northwestern.edu/medin/documents/BBS_commentary_MedinBennis.pdf). Read the full commentary. The authors endorse broader sampling while challenging the stronger outlier interpretation through methodological/calibration concerns. The principle preserves that disagreement instead of treating the original review's interpretation as uncontested.
+
+Changes: one-sentence Plain words and a concrete essay-writing example that separates an offer measured in a game from a population-wide character judgment. The two checks are explicitly my synthesis. Retained front matter, seed, primary quote, source links and all lower sections. Legacy parallels below Sources were preserved and were not independently reverified in this body pass.
