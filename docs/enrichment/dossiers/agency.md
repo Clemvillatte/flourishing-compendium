@@ -116,9 +116,9 @@ My lean, which is mine, is that the dispute is less about whether conscious thou
 
 The shared question: when the world will not change, is adjusting yourself an exercise of agency or a retreat from it? Rothbaum, Weisz and Snyder argue that it is control of a second kind:
 
-> "People attempt to gain control not only by bringing the environment into line with their wishes (primary control) but also by bringing themselves into line with environmental forces (secondary control)." ([Rothbaum, Weisz and Snyder, Journal of Personality and Social Psychology 1982, abstract](https://scispace.com/papers/changing-the-world-and-changing-the-self-a-two-process-model-jo5n2dpgej))
+> "People attempt to gain control by bringing the environment into line with their wishes (primary control) and by bringing themselves into line with environmental forces (secondary control)." ([Rothbaum, Weisz and Snyder, Journal of Personality and Social Psychology 1982, abstract](https://doi.org/10.1037/0022-3514.42.1.5))
 
-They add that when both forms are recognised, "a broad range of inward behaviors can be seen as efforts to sustain rather than relinquish the perception of control." Heckhausen and Schulz keep the same pair of terms and rank them:
+Among the forms of secondary control they list is interpretive control, "in which the individual seeks to understand and derive meaning from otherwise uncontrollable events in order to accept them" (same abstract). Heckhausen and Schulz keep the same pair of terms and rank them:
 
 > "Secondary control helps the individual to cope with failure and fosters primary control by channeling motivational resources toward selected action goals throughout the life course. Primary control has functional primacy over secondary control." ([Heckhausen and Schulz, Psychological Review 1995, abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7740091&rettype=abstract&retmode=text))
 

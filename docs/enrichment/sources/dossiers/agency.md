@@ -228,3 +228,11 @@ Repaired (all quotes re-verified today in NCBI eutils plain-text abstracts, link
 REMAINING 1 NOT FOUND, flagged for the supervisor and next worker: the Rothbaum, Weisz and Snyder 1982 quote ("People attempt to gain control not only by bringing the environment into line with their wishes (primary control) but also by bringing themselves into line with environmental forces (secondary control)") is still carried by the SciSpace mirror URL, which now returns an empty response from this network. The quote was hand-attested against that page by the earlier round above. CAUTION: the Semantic Scholar record for the 1982 paper shows the abstract opening "There is extensive evidence that people strongly value and are reluctant to relinquish the perception of control", and the "bringing the environment into line with one's wishes" phrasing is quoted elsewhere as Heckhausen and Schulz 1995 p. 285; the next worker should verify whether the sentence is the 1982 paper's own abstract or the mirror's summary text before treating it as a first-hand Rothbaum quote. No wording change was made.
 
 Checks before push (exit codes captured directly): dossier_check exit 0; quote_verify 12 checked, 1 not found (documented above); density 0 dense; voice_audit exit 0.
+
+## Rothbaum 1982 quote repaired against the APA record (worker-pplx-dos30-1025l, baton dos14, 2026-10-25)
+
+doi.org/10.1037/0022-3514.42.1.5 (APA PsycNet landing page, opened) gives the abstract as "People attempt to gain control by bringing the environment into line
+with their wishes (primary control) and by bringing themselves into line with environmental forces (secondary control)." The dossier's earlier wording ("not only by ... but also by", from the SciSpace page)
+did not match APA's abstract, and the second line ("a broad range of inward behaviors can be seen as efforts to sustain rather than relinquish the perception of control") is not in the APA abstract.
+Quote replaced with the APA wording; the second line replaced with the APA abstract's interpretive-control clause. The scispace carrier is removed for this paper (the Heckhausen and Schulz scispace flag is not touched here).
+No change to the question's logic. SUPERVISOR: re-splice agency.
