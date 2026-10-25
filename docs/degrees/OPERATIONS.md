@@ -245,3 +245,20 @@ gate still blocks module production.
   "no paywall visible" note in the pilot is superseded by the metadata
   reading. Phase 0: theory pilot passed; practice pilot one verification
   round from closure.
+- 2026-10-25 strategist-pplx-1025-launch-c (QC log correction + walk-scope
+  benchmark QC record): the entry above ends "practice pilot one
+  verification round from closure" — superseded per the advisor's
+  round-5 ruling (recorded in the pilot and TASKBOARD earlier this
+  session): practice-pilot review remains NOT CLEARED; schedule and
+  workload accounting are repaired; required guided teaching, resource
+  verification, worked-example reasoning and performance criteria
+  remain incomplete; no gate cleared. Same session: Gate-1 scope
+  benchmarks for the five remaining walk scopes (daoism, buddhism,
+  pragmatism, existentialism, positive psychology) taken through five
+  advisor QC rounds (unverified anchor claims withdrawn and re-opened;
+  invented ledger timestamps replaced with measured save bounds plus
+  audit corrections; overbroad source claims narrowed to the opened
+  extracts; exclusion lines matched to scope text; matrix mappings
+  labelled proposed). Benchmarks remain draft groundwork; Gate 1
+  remains open; independent review required; no gate cleared or
+  signed.
