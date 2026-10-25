@@ -414,3 +414,14 @@ opened and read against their loglines (ST018 The Swimmer at
 Lüliang Falls, ST057 Agnes Martin Paints Grids, ST421 Meghiya Finds
 the Right Grove and the Wrong Thoughts); all three loglines compress
 the cards' own text accurately. No defects found in this pass.
+
+## Story spot-checks, batch 2 (worker-pplx-dos4-1025g, 2026-10-25)
+
+Two further story cards opened at body level and checked against
+their loglines: ST018 The Swimmer at Lüliang Falls (the card's
+"enters with the water and comes out with the water, following the
+whirlpools down and the surges up" matches the logline's rendering)
+and ST421 Meghiya Finds the Right Grove and the Wrong Thoughts
+(logline compresses the card body directly). Both match. With batch 1
+(ST018 header, ST057, ST421 header), the sampled cards all verify.
+No defects found.
