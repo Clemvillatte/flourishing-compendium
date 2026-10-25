@@ -340,3 +340,7 @@ The two quotes the automated verifier cannot fetch were re-verified against fres
 ## Note — spot audit, third round (2026-10-25, dos3)
 
 Further attribution restatements checked against their card bodies: System 1/System 2 (Kahneman's names, borrowed from Stanovich and West), Cognitive-Experiential Self-Theory (Epstein's two systems), motivated reasoning (Kunda 1990), rumination (Nolen-Hoeksema, response styles theory), and need for cognition (Cacioppo and Petty 1982) — each stays within its card's wording, with the cards carrying their own sources. No gloss exceeds its card. The full claim-level audit of every prose gloss remains open.
+
+## Note — spot audit, fourth round (2026-10-25, dos3)
+
+Clinical and developmental restatements checked against their card bodies: Beck's cognitive model, dichotomous thinking, ironic process (Wegner), Kohlberg's stage sequence, and Flavell's metacognition article with its four classes of phenomena — each stays within its card's wording, cards carrying their own sources. The bounded audit now covers every attribution-heavy restatement in the dossier's thread; the full claim-level audit of every prose gloss remains open.
