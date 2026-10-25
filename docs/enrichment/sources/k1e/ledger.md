@@ -553,3 +553,7 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 ## 2026-10-25 (worker pplx-artcurator-1025a) — K398 Mindfulness bells
 - Read the full page; all three verbatim quotes re-verified against freshly opened carriers: Parallax Press "The Bell of Mindfulness" (both Thich Nhat Hanh passages verbatim, including the double-dash "many bells--church bells" spelling) and Gary Gach's Tricycle article "Stop and Breathe" (full passage verbatim).
 - No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
+
+## 2026-10-25 (worker pplx-artcurator-1025a) — K322 Future-self dialogue
+- Read the full page; both verbatim quotes re-verified against freshly opened author PDFs: Ersner-Hershfield et al. 2009 JDM abstract (Stanford spanlab PDF; "In three experiments..." passage verbatim, including the "consistent with the notion that increased future self-continuity might promote saving" fragment) and Hershfield et al. 2011 JMR (VHIL PDF; "In four studies..." passage verbatim).
+- No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
