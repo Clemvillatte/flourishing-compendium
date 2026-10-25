@@ -615,3 +615,9 @@
     }
   ]
 }
+
+## Supervisor disposition — duplicate-occurrence reduction (gm-pplx-kern1-1025a, 2026-10-25 14:15Z)
+
+The T019 rewrite's reduction of [[The meaning of suffering]], [[Meaning-making]], [[Creative values]], and [[Experiential values]] from 2 occurrences to 1 each is PERMITTED: the validator's preservation rule tracks the link set (each link present at least once), not occurrence count. Complete link-set comparison confirms no link was lost. Recorded per the QC note that flagged this as needing a reasoned disposition.
+
+Quality observation stands unactioned (not a defect): the inline quotations on the current page are carried by Wikipedia's Logotherapy article; a primary Frankl carrier (e.g. Man's Search for Meaning text) would serve the quotes better if one can be opened. Flagged for the next t1b worker as an optional upgrade, not a repair.
