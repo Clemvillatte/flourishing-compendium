@@ -17,7 +17,7 @@ Beauvoir takes Sartre's freedom and asks what it means for someone whose situati
 
 ## Their position
 
-The Stanford Encyclopedia's *Ethics of Ambiguity* entry carries the position in two sentences. The first is the diagnosis:
+The Wikipedia biography carries the position in two sentences. The first is the diagnosis:
 
 > "Only the authentically moral attitude understands that the freedom of the self requires the freedom of others. To act alone or without concern for others is not to be free." ([Wikipedia, Simone de Beauvoir](https://en.wikipedia.org/wiki/Simone_de_Beauvoir))
 
