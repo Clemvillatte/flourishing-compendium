@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Marcus opens the book with a ledger of debts, section by section. The early entries are family:
 
-> "From my mother, piety and beneficence, and abstinence, not only from evil deeds, but even from evil thoughts; and further, simplicity in my way of living, far removed from the habits of the rich." ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations, Book I, section 3, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
+> "From my mother, piety and beneficence, and abstinence, not only from evil deeds, but even from evil thoughts; and further, simplicity in my way of living, far removed from the habits of the rich." ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations, Book I, section 3, [George Long translation](https://www.gutenberg.org/cache/epub/6920/pg6920.txt))
 
 Of Sextus he records "a benevolent disposition"; the same entry includes "to look carefully after the interests of friends, and to tolerate ignorant persons, and those who form opinions without consideration" (Meditations I.9). The list itself becomes an item of gratitude: "To the gods I am indebted for having good grandfathers, good parents, a good sister, good teachers, good associates, good kinsmen and friends, nearly everything good" (Meditations I.17).
 
@@ -27,7 +27,7 @@ As a practical exercise, keep the ledger Marcus kept: one line per person for wh
 
 ## Sources
 
-- [Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — Book I, sections 3, 9 and 17
+- [Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/6920/pg6920.txt) — Book I, sections 3, 9 and 17
 ## Psychology parallels
 
 - **[[Role model research|Role model research]]** (Lockwood and Kunda, 1997)

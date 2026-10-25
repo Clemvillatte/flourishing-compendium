@@ -81,3 +81,7 @@
 
 ## P178 Treat yourself as a process
 - Carriers opened: Rogers On Becoming a Person (p.17 confirmed; passage verbatim with following sentences), Neff 2003 PDF (self-compassion.org; three-component definition verbatim). Page cited PMC3743650 as 'Neff 2003': that PMC article is a heart-rate-variability study (wrong source); replaced. Removed unsupported garden/process claims and invented eating example.
+
+## Marcus Aurelius link fix (S075, S124, S126) and B185 source link
+- The three pages quote George Long's wording, which I found verbatim in Gutenberg 6920 ("Thoughts of Marcus Aurelius"), but linked Gutenberg 15877 where the wording does not appear. Links corrected to 6920 (quotes checked programmatically after normalisation). B185: replaced the unopened archive.org rar link with the TNH PDF I opened (all three quotes verified there; chapter attributions confirmed).
+- Note for supervisor: many older pages put a [[T0xx ...]] related-concept line under '## Sources' (e.g. B185, B183, D019); cosmetic but systemic.
