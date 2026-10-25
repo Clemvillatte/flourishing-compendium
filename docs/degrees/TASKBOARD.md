@@ -476,3 +476,21 @@ Digital Ethics profile (Provost's Distinguished Professor of Computer Science).
 Self-QC pass run early per advisor: contradiction and reverse-stale scans clean
 across all session-touched verify files; Rosemont M04-R06/R07 credentials lines
 repaired to cite the opened IU ScholarWorks memorial (df1000b38).
+
+### Checkpoint — deg-verify-a self-QC re-verification sample (13:50Z, 2026-10-25)
+
+Worker-pplx-degrees-1: independent re-verification of 8 upgraded cards by
+re-opening the cited sources — Fraser (HKU faculty page, live text matches
+card), Garfield (Smith page, matches), Zahavi (Copenhagen portal, matches),
+Steinbock (Stony Brook page, matches), Hicks (own bio, timeline 2002-2024
+Rockford / 2007-present CEE matches), Kraut (Northwestern Classics emeritus
+page prints "Professor Emeritus of Classics and Philosophy, PhD Princeton" —
+exactly the attributed claim; the Morrison title is correctly attributed to
+the Wikipedia REST route), Rollnick (ATTC page prints "co-founder of
+Motivational Interviewing (MI), Professor Stephen Rollnick" — matches), Sadler
+(MIAD page prints "Adjunct Professor" — matches). Contradiction scans
+(status-vs-credentials-line) run across all verify files: two regex hits
+(M02-B01, M-15-005) checked manually and both are false positives — the
+status lines correctly scope verification to the named speaker. No defects
+found in the sample; no repairs needed beyond the Rosemont credentials-line
+fix already pushed (df1000b38) and the taskboard timestamp corrections.
