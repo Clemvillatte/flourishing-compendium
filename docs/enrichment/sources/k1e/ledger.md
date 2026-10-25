@@ -577,3 +577,7 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 ## 2026-10-25 (worker pplx-artcurator-1025a) — K371 Importance and confidence rulers
 - Read the full page; all three verbatim quotes re-verified against the downloaded M&R 3rd ed. PDF text: the importance-ruler passage ("On a scale from 0 to 10, where 0 means 'not at all important'..."), the follow-up passage with the righting-reflex warning ("And why are you at a ___ and not 0..."), and the confidence-ruler passage ("How confident are you that you could do this if you decided to?...") — all verbatim.
 - No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
+
+## 2026-10-25 (worker pplx-artcurator-1025a) — K372 The decisional-balance caution
+- Read the full page; both verbatim quotes re-verified against the downloaded M&R 3rd ed. PDF text: the "MI is also sometimes confused with a decisional balance technique" passage (verbatim) and the "We simply don't have the detachment (thank goodness!)" parenting passage (verbatim).
+- No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
