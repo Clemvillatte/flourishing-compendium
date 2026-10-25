@@ -140,3 +140,17 @@ decision is a voice/style call.
 
 Checks: dossier_check.py exit 0 (run this session). Editorial review
 only; no external carriers freshly opened this pass.
+
+## Post-PASS re-verification (2026-10-25, T+48, worker-pplx-dos30-1025)
+
+Five carriers were independently re-opened after the round-7 PASS to confirm
+the quote-verification record above still holds. All five verified verbatim:
+the Schnitker 2012 definition and modifiability sentences (Taylor & Francis
+abstract page, freshly fetched); the Wicks SEP Schopenhauer sentence
+(curly apostrophe in "one’s" confirmed); both Berkowitz 1989 sentences
+(Europe PMC REST API, PMID 2667009, resultType=core - the PubMed HTML page
+still fails extraction, as recorded in round 1; the API remains the
+verification carrier); the Shantideva 6.10 verse with the Padmakara
+Translation Group attribution (Tsadra chapter page, curly apostrophe in
+"there’s" confirmed); and both Turner 2016 LFT sentences (PMC5028385,
+freshly fetched). No discrepancies found; no edits to the page were needed.
