@@ -1,7 +1,7 @@
 {
  "baton": "w1e",
  "agent": "worker-w1e-0e136",
- "clocked_in": "2026-10-25T01:53:27+00:00",
+ "clocked_in": "2026-10-25T01:58:07+00:00",
  "takeovers": [
   {
    "by": "Agent E (Computer)",
@@ -68,8 +68,12 @@
    "at": "2026-10-25T01:53:27+00:00",
    "from": "worker-p1zz-b81e3f52",
    "reason": "released"
+  },
+  {
+   "by": "worker-w1e-0e136",
+   "at": "2026-10-25T01:58:07+00:00",
+   "from": "worker-w1e-0e136",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-25T01:53:50+00:00"
+ ]
 }
