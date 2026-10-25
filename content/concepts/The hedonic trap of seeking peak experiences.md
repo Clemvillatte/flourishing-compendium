@@ -13,7 +13,7 @@ Iris Mauss and colleagues' 2011 paper asked whether wanting happiness too much c
 
 ### What the studies found
 
-In the paper's first study, female participants who valued happiness more reported lower happiness under conditions of low, but not high, life stress. In the second, participants induced to value happiness reacted less positively to a happy, but not a sad, emotion induction, an effect mediated by disappointment at their own feelings. The abstract states the mechanism plainly: "the more people value happiness, the more likely they will feel disappointed", particularly "in positive situations, in which people have every reason to be happy".
+In the paper's first study, female participants who valued happiness more reported lower happiness under conditions of low, but not high, life stress. In the second, participants induced to value happiness reacted less positively to a happy, but not a sad, emotion induction, an effect mediated by disappointment at their own feelings. The abstract states the mechanism plainly: "the more people value happiness, the more likely they will feel disappointed", particularly "in positive situations, in which people have every reason to be happy". The page's practice answer follows from the mechanism, since the trap is a monitoring effect rather than a fate, and the kernels below replace the monitoring with aims that are not felt states.
 
 ### Here
 
