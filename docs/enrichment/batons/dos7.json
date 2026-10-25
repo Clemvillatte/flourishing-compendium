@@ -1,7 +1,7 @@
 {
  "baton": "dos7",
  "agent": "worker-7fbdff24",
- "clocked_in": "2026-10-25T12:12:58+00:00",
+ "clocked_in": "2026-10-25T12:21:22+00:00",
  "takeovers": [
   {
    "by": "supervisor-pplx-1024c-dos7",
@@ -68,8 +68,12 @@
    "at": "2026-10-25T12:12:58+00:00",
    "from": "launcher-pplx-dos7-1025n2",
    "reason": "released"
+  },
+  {
+   "by": "worker-7fbdff24",
+   "at": "2026-10-25T12:21:22+00:00",
+   "from": "worker-7fbdff24",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-25T12:19:44+00:00"
+ ]
 }
