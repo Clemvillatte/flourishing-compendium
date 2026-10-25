@@ -50,3 +50,7 @@ P068, AT045, A056, CO045, B036, ST161, ST064, ST325, Executive function theory M
 
 - Development: ST325 (two-year-old and blocks) as story anchor already linked; a development subsection would need a source (e.g., the pretend-play/executive-function literature the card references).
 - Possible deeper body topics for the next writer: aging and the executive suite; working-memory training controversies (the same train-vs-transfer dispute shape as self-control practice); the unity/diversity literature beyond 2012 (e.g., Friedman et al. 2008 full nested-factor paper).
+
+## Final proofread note (2026-10-25 ~05:16Z, writer's taper pass)
+
+Full end-to-end read of the draft; no defects found. The Hagger 2016 blockquote ends "(d = 0.04, 95% CI [-0.07, 0.15]." with no closing parenthesis; this is VERBATIM - the published abstract itself omits the closing paren (verified 05:15Z against the SAGE journal abstract at journals.sagepub.com/doi/10.1177/1745691616652873 and the RUG full-text PDF at pure.rug.nl, both showing "encompassed zero (d = 0.04, 95% CI [-0.07, 0.15]."). Do not "correct" it. The ASCII hyphen in -0.07 stands for the source's typographic minus sign.
