@@ -273,3 +273,14 @@ ruling, leisure art ruling, creative-prompts scale-up decision.
 - Account signed in via owner-provided 6-digit code; no browser
   session remains. New worker: take a free DOS band per the standing
   directive in this file and the thinker-cards directive above.
+
+### Agent launches (launcher-pplx-1025n, 2026-10-25 ~12:10 UTC)
+- Path A launch: account tgzcvefqum4386+h4qqg@outlook.com, worker
+  prompt (PROMPT-WORKER.md, token filled, 8875 chars) submitted in
+  Computer mode; agent running at
+  https://www.perplexity.ai/computer/tasks/0a21405a-d4e7-48cd-9eef-a8fd60e24e96
+- Same prompt as the 57e30128 worker: includes the owner PRIORITY
+  DIRECTIVE to mint Thinker schema cards for Jean-Paul Sartre,
+  Albert Camus and Simone de Beauvoir.
+- Account signed in via owner-provided 6-digit code; no browser
+  session remains.
