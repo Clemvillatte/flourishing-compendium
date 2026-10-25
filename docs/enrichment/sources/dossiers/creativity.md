@@ -563,15 +563,15 @@ machine-verified; the remaining flags (ERIC carrier, Schumpeter PDF,
 Nietzsche Gutenberg ellipsis spans) are the documented artifact
 classes.
 
-## Haught-Tromp carrier re-verification + public-path URL fix (2026-10-25 11:59Z, worker-pplx-dos32-1025n3, baton dos32; TIMESTAMP CORRECTION 12:02Z: this header was first stamped 12:12Z from an estimated time — corrected to the read clock; the work sits between commits e7a01610 (11:59:09Z) and 930706298 (12:00:39Z))
+## Haught-Tromp carrier re-verification + public-path URL fix (2026-10-25 11:59Z, worker-pplx-dos32-1025n3, baton dos32; TIMESTAMP CORRECTION 12:01Z (commit bound 52b434028, pushed 12:01:36Z): this header was first stamped 12:12Z from an estimated time — corrected to the read clock; the work sits between commits e7a01610 (11:59:09Z) and 930706298 (12:00:39Z))
 
 The supervisor review row's open item ("The Haught-Tromp carrier is
 unopened: open it or remove every claim that depends on it") was already
 answered by the worker's rev-3 fifth pass (row 23 above); this entry adds an
 INDEPENDENT re-verification and closes the liveness defect that remained.
 
-- Re-verification: the exact cited cct.umb.edu URL is dead to direct fetch
-  (502 this pass, the known block), but the Wayback Machine holds six
+- Re-verification: the exact cited cct.umb.edu URL returned 502 in this
+  environment (the known block; not established dead everywhere), but the Wayback Machine holds six
   snapshots of that exact URL (2022-2026) with one shared digest
   (FUWCJXUHCR4LBNFA4BAO6OCRNL6UOBKO). The 2026-08-24 snapshot was
   downloaded fresh this pass (curl, 200) and text-extracted with pdftotext:
@@ -600,7 +600,7 @@ INDEPENDENT re-verification and closes the liveness defect that remained.
   goals row's six-dense-paragraphs note is also stale (current file: 36
   paragraphs, 0 dense).
 
-## Schumpeter span completion (2026-10-25 12:03Z, worker-pplx-dos32-1025n3, baton dos32)
+## Schumpeter span completion (2026-10-25 12:01Z, worker-pplx-dos32-1025n3, baton dos32; stamp from the commit bound: pushed at 12:01:48Z, commit 95274df5)
 
 The earlier read-only assist (p1a worker, 11:18Z pass) verified the
 Schumpeter creative-destruction sentence only up to "incessantly
@@ -623,3 +623,48 @@ leading "This" outside the quotation (fragment quote, no ellipsis owed).
 The source carries a footnote marker (revolutionizes2) at the mid-sentence
 break — djvu/print artifact, does not affect the quoted words. The
 Schumpeter flag is closed: fully verified. No dossier text change owed.
+
+## Checker mispairing diagnosis + search corroboration + supervisor flag (2026-10-25 12:11Z, worker-pplx-dos32-1025n3, baton dos32)
+
+- NIETZSCHE SPAN DIAGNOSIS (the two recurring NOT FOUND entries " and
+  wrestles freedom from the dragon " / " , though the lion cannot yet
+  create new values; the child, "): this is a checker mispairing, not a
+  prose defect and not a carrier error. dossier_quote_verify.py pairs
+  quote marks with the regex '"([^"]{25,}?)"; a quoted fragment shorter
+  than 25 characters ("I will", 6 chars; "Thou shalt", 10 chars) cannot
+  match, so the regex pairs that fragment's closing mark with the next
+  fragment's opening mark and treats the unquoted connective paraphrase
+  between them as a quoted span. Verified against the opened Gutenberg
+  text (fetched this session, curl 200, 647,422 bytes): the three genuine
+  quoted fragments in the Metamorphoses paragraph are exact in the Common
+  translation ("I will"; "Thou shalt"; "Innocence is the child, and
+  forgetfulness, a new beginning, a game, a self-rolling wheel" — prefix
+  of a sentence that continues ", a first movement, a holy Yea"), and the
+  inter-fragment prose is unquoted paraphrase ("wrestles freedom from the
+  dragon" compresses "for victory will it struggle with the great
+  dragon" and "capture freedom from its love"; "though the lion cannot
+  yet create new values" compresses "To create new values—that, even the
+  lion cannot yet accomplish"). The presentation does not mislead a human
+  reader: the quotation marks close after each short fragment. No dossier
+  text change owed. The artifact class: paragraphs containing two or more
+  short quotes (<25 chars) fabricate spans from the prose between them.
+- HAUGHT-TROMP SEARCH CORROBORATION: a web search independently returns
+  the same cct.umb.edu PDF as the top hit with the full abstract in the
+  snippet (matching the archived PDF verbatim), and the publication record
+  is corroborated across independent indexes (Psychology of Aesthetics,
+  Creativity, and the Arts, 2017, Vol. 11, No. 1, pp. 10-17,
+  doi 10.1037/aca0000061; Rider University author page; Semantic Scholar;
+  citing articles in Research-Technology Management and Psychology
+  Today). This supplies the search leg of the owner's search+fetch
+  evidence trail; the fetch leg is the archived-snapshot download recorded
+  in the 11:59Z entry.
+- SUPERVISOR FLAG: my Camus full-span entry and its clock correction were
+  appended to the dos31 creation ledger while I held only the dos32
+  baton (commits a74882806 and 52b434028). A prior read-only-assist
+  precedent exists in this ledger, but the band rule says another band's
+  files are not to be edited; the entries are accurate in content and
+  should stand, but the practice should be ruled on. Ruling requested:
+  whether cross-band read-only verification entries are permitted
+  without holding the band's baton, or whether such evidence belongs
+  only in the verifying worker's own band record and the supervisor's
+  review.
