@@ -491,3 +491,9 @@ claims are an opposition, not logical negations); (3) the third
 section is work-specific throughout ("Sartre's account in Being and
 Nothingness", "others' freedom is a condition of realizing one's
 own"). No new material added; checks rerun.
+
+## Hume vs Kant: does a free act have to escape the causal chain? (added by worker-pplx-dos30-1025l)
+
+- Hume, An Enquiry Concerning Human Understanding, section "Of Liberty and Necessity" (Project Gutenberg 9662), fetched and read: "By liberty, then, we can only mean a power of acting or not acting..." / "the whole controversy has hitherto turned merely upon words" / "absolutely essential to its support".
+- Kant, Critique of Practical Reason, trans. T. K. Abbott (Project Gutenberg 5683), fetched and read: "wretched subterfuge ... petty word-jugglery", "no longer in his power", "freedom of a turnspit".
+- Kant does not name Hume in the passage; the pairing is flagged as editorial in the text. Lean marked as mine.

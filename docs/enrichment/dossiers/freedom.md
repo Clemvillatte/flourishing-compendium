@@ -94,6 +94,26 @@ Andrew reads Beauvoir as departing from the conflictual account of relations bet
 
 My lean is Beauvoir's for the exercise wing, and the dossier's own interdependence card carries that lean; but Sartre's conflict thesis is not answered by it, because the Look is a real hazard, and any account of shared freedom has to say what it does with being seen.
 
+### Does a free act have to escape the causal chain?
+
+Hume's section "Of Liberty and Necessity" in the [Enquiry Concerning Human Understanding](https://www.gutenberg.org/cache/epub/9662/pg9662.txt) defines liberty so that it survives determinism. Liberty is the ability to act on one's will, and he treats the old quarrel as a verbal one:
+
+> "By liberty, then, we can only mean a power of acting or not acting, according to the determinations of the will; that is, if we choose to remain at rest, we may; if we choose to move, we also may. Now this hypothetical liberty is universally allowed to belong to every one who is not a prisoner and in chains."
+
+He adds that he hopes "to make it appear that all men have ever agreed in the doctrine both of necessity and of liberty, according to any reasonable sense, which can be put on these terms; and that the whole controversy has hitherto turned merely upon words."
+
+Kant, in the [Critique of Practical Reason](https://www.gutenberg.org/cache/epub/5683/pg5683.txt) (Abbott's translation), rejects the kind of move Hume makes. He describes the view that actions are free because their causes lie in the agent's own ideas and desires, and answers:
+
+> "This is a wretched subterfuge with which some persons still let themselves be put off, and so think they have solved, with a petty word- jugglery, that difficult problem, at the solution of which centuries have laboured in vain."
+
+His reason is that a cause which lies in the antecedent state is "no longer in his power" when the subject has to act. Such freedom, he says, would be "nothing better than the freedom of a turnspit, which, when once it is wound up, accomplishes its motions of itself." Kant does not name Hume in this passage, so the pairing is mine; the target is the general "comparative" notion of freedom, which Hume's definition fits.
+
+The disagreement turns on what freedom has to deliver. For Hume, acting as one chooses is all that the word can reasonably mean, and the rest is confusion; he even says the doctrines of necessity and liberty are "absolutely essential" to morality. For Kant, a moral law that holds people responsible needs independence from the time-series of causes, which he calls transcendental freedom, and anything weaker leaves "no room" for it.
+
+My lean, which is mine and not the sources', is that Hume's definition is the one the exercise wing can use, since a person's practice of choosing within constraint is what the dossier tracks. Kant's objection still stands as a question about responsibility that the practical definition does not answer by itself.
+
+Limits: Hume is read from one section and Kant from one passage. Neither translation is checked against the original language, and later compatibilist and incompatibilist literature is not covered here.
+
 ## Practice: the constraint, and what remains inside it
 
 ::Variation:: What tends to need varying on this theme is the lived-as-determined default, the reading of one's own situation as fixed fact end to end. The practices meet it by shrinking the frame to what is genuinely not up to you and enumerating what remains.
