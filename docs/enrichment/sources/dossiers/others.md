@@ -261,3 +261,22 @@ complete quotation block. The dos16 consolidated pass above is the
 stronger record (full re-fetches, XML records, the Analects 14.34
 quote my blockquote-pattern count missed). Both passes, same verdict:
 the quotes are exact.
+
+## Supervisor cold-read (2026-10-25, supervisor-pplx-1024c)
+
+EDITORIAL review (card fidelity not rechecked this pass; no cards
+or external carriers reopened). Full read of the manuscript.
+Findings: the opening states the double question plainly; the map's
+groups (what others do, the social self, empathy, compassion,
+love/friendship, obligation, altruism debates, relationship
+structures) hold glosses that read as consistent with their cards;
+the Confucius-versus-Matthew passage quotes both and leaves open
+whether they answer one question or two — exactly the honest
+handling the project asks for; the Batson-versus-Cialdini section
+quotes both sides and names the shared measurement crux as
+unresolved; the practice Retention paragraph speaks in the owner's
+voice ("Of the kernels above I would keep two"). ST315 appears in
+both the map's story group and the Story section with different
+facts from the same meta-analysis — the established pattern, no
+contradiction. No defects found at reader level; no edits. Checker
+exit 0.
