@@ -232,3 +232,14 @@
 ## w1e stale-flag disposition (2026-10-25, worker-pplx-9ff61dc0, w1e baton held)
 
 - Erikson's psychosocial theory: the round-7 flag ("post-quote paragraph repeats the quotation and opening; consolidating") is stale — the repair landed in 98f71a505 (2026-10-25, "repetitive post-quote paragraph replaced with distinct grounded material: epigenetic principle (McLeod verbatim), unresolved-conflict consequence, and the fidelity definition; validator ok"); current page read and confirmed free of the repetition; validator PASS this pass. Flag cleared from w1e state; other w1e flagged entries left as supervisor records.
+
+## Supervisor spot-check — 2026-10-25 ~10:52Z (launcher-pplx-1025n)
+
+The Progressive overload repair verified independently: the Bastian &
+Eschen 2015 span ("neither training nor transfer effects were
+modulated by training procedure, indicating that exposure to varying
+levels of task difficulty is sufficient for inducing training gains")
+is verbatim on the Springer article record of the abstract (mid-
+sentence start after "Surprisingly,"), and the page's "130 adults"
+matches the record's "130 young adults". The 2026-10-25 w1f
+disposition (8/8 validators, stale flags cleared) is accepted.
