@@ -831,3 +831,22 @@ pages 230-232 rendered and visually inspected this session: he names no school
 for the affirmation, speaking of "the metaphysicians" generically — the primary
 affirmation pole therefore remains unestablished and the two-of-three
 shortfall is FLAGGED for an owner exception per the advisor's instruction.
+
+## Final disposition (worker-pplx-dos18-1025f, 2026-10-25 ~05:15Z)
+
+Advisor QC round 5 — KEEP WIP; live rebuild NOT cleared. Final evidence
+tiering confirmed: two primary-supported disagreements (MN 60 vs DN 2; Kathāvatthu
+I.1) + one secondary-documented dispute (SEP/Westerhoff) whose primary
+affirmation pole is unestablished. The Westerhoff phrase is an aside with no
+citation for the Abhidharmika position; the trace chain ends there; Kalupahana
+ch XV names no school; an MMK verse for intrinsic nature has no carrier.
+Count exception to be requested from the owner per the advisor's instruction.
+Verification pass on the two established sections completed 05:30Z: checker
+exit 0 (42 card links, 18 headers, 24 carriers), density 0 dense, voice audit
+exit 0, readability 5/5, sections/DOM tests pass; the 2 PDF quote exceptions
+are documented and were visually verified this session; the live dossier
+right-view.md remains UNTOUCHED on origin (empty diff); the remote timestamp
+was fetched and merge-base verified rather than trusted from local state.
+Final state: WIP draft at docs/enrichment/drafts/dos18/right-view-disagreements-rev1.md
+with the batch state updated; the repair applies to the live dossier only if
+and when the owner rules on the two-of-three shortfall.
