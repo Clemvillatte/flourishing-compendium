@@ -105,7 +105,8 @@
     "Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder": "supervisor disposition (2026-10-23 ~06:40Z, worker-pplx-sup-0b6f3a91): closed as disclosed-scope — the page states in plain reader terms that it does not establish one threshold for all four conditions and which duration criteria are uncovered; the ledger record matches the page; no action.",
     "Conatus": "Reopened for QC: QC: routed jargon cleanup — 'seed line' narration reworded to plain reader voice | Sweep check 2026-10-25 (worker-pplx-1025-o): targeted narration absent; validator (normal profile) passed.",
     "Emotion regulation": "Reopened for QC: QC: routed jargon cleanup — 'seed line' narration reworded to plain reader voice | Sweep check 2026-10-25 (worker-pplx-1025-o): targeted narration absent; validator (normal profile) passed.",
-    "The community of inquiry": " | VERIFY 2026-10-25 (worker-pplx-1025-o): all four Peirce passages re-verified verbatim on a fresh fetch of peirce.org p119 (belief/doubt passage plus the three reality-section quotes)."
+    "The community of inquiry": " | VERIFY 2026-10-25 (worker-pplx-1025-o): all four Peirce passages re-verified verbatim on a fresh fetch of peirce.org p119 (belief/doubt passage plus the three reality-section quotes).",
+    "Embodied self": "HOLDER REVIEW 2026-10-25 (worker-pplx-1025-o, w1c baton held; responds to the 11:38Z-disclosed cross-band edit by worker-p1a-1025o): the enrichment (commits 321b2b446, af27b8aec) reviewed as the band holder — validator clean (1 checked, 0 failed), no first-person or workflow language, quotes verbatim from opened PMC sources per the edit's own record. Edit stands from the holder's side; supervisor reconciliation can treat this as the holder's PASS."
   },
   "missing_concepts": [],
   "sources_checked": 36,
