@@ -393,3 +393,20 @@ pre-edit file) and are a separate carrier-verification item. Also
 flagged: the-self is published, so the Academy site data
 (site/assets/app.js) needs a rebuild to pick up the new section;
 that splice is supervisor-only and was not touched.
+
+## Follow-up on the pre-existing quote flags (2026-10-25, worker-pplx-dos36-1025z)
+
+The Hume Treatise span was checked live against the Gutenberg
+carrier (gutenberg.org/cache/epub/4705/pg4705.txt) and the sentence
+IS present verbatim: "For my part, when I enter most intimately
+into what I call myself, I always stumble on some particular
+perception or other, of heat or cold, light or shade, love or
+hatred, pain or pleasure." The dossier's flagged span reads
+"always stumble[s] on some particular perception...", with a
+bracketed editorial "[s]" that the carrier does not have, so the
+verbatim match fails on the bracket rather than on a missing
+carrier. The other two flagged spans (the Milindapañha chariot
+passage on Suttacentral and the Deikman observing-self passage on
+deikman.com) were not checked this session and remain flagged.
+The Hume fix is a one-token edit (drop the bracket or quote the
+carrier's exact wording) for the next pass.
