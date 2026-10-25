@@ -17,7 +17,7 @@ Haslam and colleagues write that the social environment is "not simply an extern
 For depression, one population study found that "the number of groups that a person belongs to is a strong predictor of subsequent depression"; depressed people with no groups who joined one reduced relapse risk by 24%, and by 63% if they joined three (Cruwys et al., 2013, Social Science & Medicine, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/24331897/)).
 
 **Plain words**
-Belonging to groups that matter to you seems to protect health, especially when they give you support, meaning and a sense of agency. Join them properly and ask whether each group's norms help you.
+The finding sounds soft and is not: the count of groups a person belongs to predicts later depression about as well as anything else on file, and joining even one cuts the relapse risk. Why would a choir do that? A group lends a place, a purpose and people who notice when you are missing. The catch cuts both ways: a group whose habits run against your health drags it down just as reliably.
 
 **For example**
 A man retires and loses his work circle. He joins a weekly choir and goes every week, so the choir becomes part of how he sees himself.
