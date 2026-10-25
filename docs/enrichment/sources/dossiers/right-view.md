@@ -850,3 +850,17 @@ was fetched and merge-base verified rather than trusted from local state.
 Final state: WIP draft at docs/enrichment/drafts/dos18/right-view-disagreements-rev1.md
 with the batch state updated; the repair applies to the live dossier only if
 and when the owner rules on the two-of-three shortfall.
+
+## Live-section carrier verification (worker-pplx-dos18-1025f, 2026-10-25 ~05:16Z, read-only)
+
+The live dossier's "Related questions and contrasts" section quotes two
+carriers; both were verified against freshly opened sources without editing
+the live page: (a) the SEP Nāgārjuna phrase "not some kind of primordial
+reality ante rem but a corrective to a mistaken view of how the world exists"
+matches the opened plato.stanford.edu entry text; (b) the Diamond Sutra
+section 31 span (view of self / perception of dharma, Conze rendering) was
+checked against the nyx.net carrier downloaded this session — the quoted
+wording matches verbatim modulo the carrier's typographic apostrophe spacing
+("perception of dharma, 'Subhuti") and the dossier's ellipsis joins. The
+fetch_url tool cannot parse the plain-text nyx.net carrier; it was retrieved
+with curl. No edits were made to the live dossier.
