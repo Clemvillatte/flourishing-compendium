@@ -56,7 +56,6 @@
   "Relational ontology",
   "Self-sufficiency",
   "Situational strategies",
-  "Skepticism answered by life",
   "Skills training (DBT, CBT)",
   "Social baseline",
   "Social-network effects on behavior",
@@ -67,16 +66,17 @@
   "Reciprocity",
   "Meta-awareness",
   "Experiential avoidance theory",
-  "Compassion-focused therapy",
   "Leisure",
   "Contentment with sufficiency",
-  "Mindful self-compassion programme"
+  "Mindful self-compassion programme",
+  "Compassion-focused therapy",
+  "Skepticism answered by life"
  ],
  "in_progress": null,
  "flagged": {
   "Following nature's rhythms": "SUPERVISOR CONSOLIDATION 2026-10-21 (worker-p1abc): namespace/title question — the label is the compendium's phrasing, not a source-defined construct; consolidated in concept-namespace-audit.md for OWNER rename/merge decisions (the body grounding stands per the worker's opened sources). [ORIGINAL: namespace: imperative-verb title, opened Legge DDJ 25 does not define the phrase; flagged Category A in concept-namespace-audit.md at item-5 advisor QC; body left as labelled interim material; supervisor disposition requested]",
   "Cultural dimensions theory Hofstede": "title: garbled author-suffix title per the concept-verification queue; concept verified (Hofstede 6D model, geerthofstede.com URL added); rename to 'Cultural dimensions theory' is a metadata action routed to the supervisor",
-  "Compassion-focused therapy": "RESOLVED by worker-w1l-1025b 2026-10-25 (per-item verification): prose deficit repaired — the current page now carries 299 words (recounted this session), with the fear-of-compassion section added from the opened Cambridge APT article per the ledger. No page edit needed this session; source verification not repeated; evidence in sources/w1l/; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: prose 141<150 at canonical degree 22; fear-of-compassion section added from the opened Cambridge APT article]",
+  "Compassion-focused therapy": "Reopened for QC: QC: routed jargon cleanup — 'My seed line' narration reworded to plain reader voice",
   "Creative values": "RESOLVED by worker-w1l-1025b 2026-10-25 (per-item verification): prose deficit repaired — the current page now carries 334 words (recounted this session), upgraded to the normal bar with the opened carrier per the ledger. No page edit needed this session; source verification not repeated; evidence in sources/w1l/; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: supervisor band work: prose-short page (95 words) upgraded to normal bar with opened carrier (recorded here, its owner band; earlier w1ac entry was an ownership error, removed)]",
   "Right association": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the milestone advisor QC repairs VERIFIED APPLIED — spot-checked this session (Right association: the Sigalovada four-friends blockquote carries its KSW translation carrier and the verse rendered as the source's list; no mechanism claim found on the page); the w1l QC rounds are documented in the worker's records. The state flag was stale. [ORIGINAL: Reopened for QC: milestone-10 advisor QC: verse line breaks + mechanism claim]",
   "Delay plus reappraisal": "SUPERVISOR CONSOLIDATION 2026-10-21 (worker-p1abc): namespace/title question — the label is the compendium's phrasing, not a source-defined construct; consolidated in concept-namespace-audit.md for OWNER rename/merge decisions (the body grounding stands per the worker's opened sources). [ORIGINAL: namespace: label not a named construct in opened literature (advisor milestone-15); body reduced to supported interim material (extended process model + Gross p.15 tactics passage); supervisor disposition requested]",
@@ -103,7 +103,7 @@
   "Questioning inherited beliefs": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the milestone advisor QC repairs VERIFIED APPLIED — spot-checked this session (Right association: the Sigalovada four-friends blockquote carries its KSW translation carrier and the verse rendered as the source's list; no mechanism claim found on the page); the w1l QC rounds are documented in the worker's records. The state flag was stale. [ORIGINAL: Reopened for QC: QC repair round 3: source-bounded prose per advisor]",
   "REACH model of forgiveness": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the milestone advisor QC repairs VERIFIED APPLIED — spot-checked this session (Right association: the Sigalovada four-friends blockquote carries its KSW translation carrier and the verse rendered as the source's list; no mechanism claim found on the page); the w1l QC rounds are documented in the worker's records. The state flag was stale. [ORIGINAL: Reopened for QC: QC repair round 3: source-bounded prose per advisor]",
   "Reciprocity": "RESOLVED by worker-w1l-1025b 2026-10-25 (per-item verification): prose deficit repaired — the current page now carries 332 words (recounted this session), with the carrier-grounded top-up from the Gouldner 1960 full-text scan per the ledger. No page edit needed this session; source verification not repeated; evidence in sources/w1l/; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: prose 26<150 at degree 16 (normal profile); carrier-grounded top-up from the Gouldner 1960 full-text scan (opened this session)]",
-  "Skepticism answered by life": "fast-track enriched; seed says Enquiry XII but the backgammon passage is Treatise 1.4.7 (verified Gutenberg #4705); page states this; Enquiry XII.2 paras 126/128/129 verified Gutenberg #9662",
+  "Skepticism answered by life": "Reopened for QC: QC: routed jargon cleanup — 'My seed line' narration reworded to plain reader voice",
   "Solitude": "fast-track enriched; seed framing (self-recollection, hermit/sangha) unsupported by opened sources and removed; Tillich quote second-hand via Wikipedia footnote (stated on page)",
   "Meta-awareness": "RESOLVED by worker-w1l-1025b 2026-10-25 (per-item verification): prose deficit repaired — the current page now carries 342 words (recounted this session), with the carrier-grounded top-up from the Schooler et al. 2011 full text per the ledger. No page edit needed this session; source verification not repeated; evidence in sources/w1l/; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: prose 70<150 at canonical degree 17 (normal profile); carrier-grounded top-up from the Schooler et al. 2011 full text (META Lab copy, opened this session)]",
   "Leisure": "RESOLVED by worker-w1l-1025b 2026-10-25 (per-item verification): prose deficit repaired — the current page now carries 282 words (recounted this session), with the worship-link section added with the verbatim Pieper sentence from the cited carrier per the ledger. No page edit needed this session; source verification not repeated; evidence in sources/w1l/; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: prose 143<150 at canonical degree 16; worship-link section added with the verbatim Pieper sentence from the cited PDF (fetch-service extraction)]",
@@ -112,7 +112,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-23T14:21:53+00:00",
+ "updated": "2026-10-25T01:52:38+00:00",
  "band_done": false,
  "new_concepts": [
   {

@@ -15,7 +15,7 @@ The approach rests on a model of three emotion regulation systems, set out in th
 
 ### What the training targets
 
-My seed line, "building the affiliative soothing system", names the same target. The article holds that this system, linked to attachment and the opiates, "may be called 'social safeness'", and is "internally wired to act as a regulator of the threat protection and drive systems".
+The phrase "building the affiliative soothing system" names the same target. The article holds that this system, linked to attachment and the opiates, "may be called 'social safeness'", and is "internally wired to act as a regulator of the threat protection and drive systems".
 
 ### Fear of compassion
 
