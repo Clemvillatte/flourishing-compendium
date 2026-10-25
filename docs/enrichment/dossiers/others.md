@@ -132,57 +132,27 @@ The family of sayings that tell people to treat others as they would wish to be 
 
 ### Helping: altruism and its debates
 
-[Altruism](https://clemvillatte.github.io/flourishing-compendium/#card=Altruism): motivation aimed at another person's good for that person's sake, not as a means to one's own.
+Motivation aimed at another person's good for that person's sake, not as a means to one's own, is [altruism](https://clemvillatte.github.io/flourishing-compendium/#card=Altruism). The research program testing whether empathy produces genuinely other-directed motivation is [altruism theory Batson empathy](https://clemvillatte.github.io/flourishing-compendium/#card=Altruism%20theory%20Batson%20empathy), and the claim that empathic concern produces motivation with the ultimate goal of relieving the other's need is the [empathy-altruism hypothesis](https://clemvillatte.github.io/flourishing-compendium/#card=Empathy-altruism%20hypothesis).
 
-[Altruism theory Batson empathy](https://clemvillatte.github.io/flourishing-compendium/#card=Altruism%20theory%20Batson%20empathy): the research program testing whether empathy produces genuinely other-directed motivation.
+The family of voluntary actions taken to help and benefit others is [prosocial behaviour](https://clemvillatte.github.io/flourishing-compendium/#card=Prosocial%20behaviour). Grant and Berg's desire to protect and promote the well-being of others is [prosocial motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Prosocial%20motivation), and spending money to benefit others, where how people spend may matter as much as how much they earn, is [prosocial spending](https://clemvillatte.github.io/flourishing-compendium/#card=Prosocial%20spending).
 
-[Empathy-altruism hypothesis](https://clemvillatte.github.io/flourishing-compendium/#card=Empathy-altruism%20hypothesis): the claim that empathic concern produces motivation with the ultimate goal of relieving the other's need.
+The finding that brutal honesty often serves the speaker's discharge, not the listener's benefit, is [prosocial honesty research](https://clemvillatte.github.io/flourishing-compendium/#card=Prosocial%20honesty%20research). Trivers's model of helping between non-relatives as mutualism with a time lag is [reciprocal altruism research](https://clemvillatte.github.io/flourishing-compendium/#card=Reciprocal%20altruism%20research).
 
-[Prosocial behaviour](https://clemvillatte.github.io/flourishing-compendium/#card=Prosocial%20behaviour): the family of voluntary actions taken to help and benefit others.
-
-[Prosocial motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Prosocial%20motivation): Grant and Berg's desire to protect and promote the well-being of others.
-
-[Prosocial spending](https://clemvillatte.github.io/flourishing-compendium/#card=Prosocial%20spending): spending money to benefit others; how people spend may matter as much as how much they earn.
-
-[Prosocial honesty research](https://clemvillatte.github.io/flourishing-compendium/#card=Prosocial%20honesty%20research): the finding that brutal honesty often serves the speaker's discharge, not the listener's benefit.
-
-[Reciprocal altruism research](https://clemvillatte.github.io/flourishing-compendium/#card=Reciprocal%20altruism%20research): Trivers's model of helping between non-relatives as mutualism with a time lag.
-
-[Social value orientation](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20value%20orientation): the measurable difference between people in how much weight they give another person's outcomes.
-
-[Social influences on motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20influences%20on%20motivation): the ways other people, their norms and their support change what a person wants and how strongly.
+The measurable difference between people in how much weight they give another person's outcomes is [social value orientation](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20value%20orientation). The ways other people, their norms and their support change what a person wants and how strongly are [social influences on motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20influences%20on%20motivation).
 
 ### Relationships and communities as structures
 
-[Relationship categorisation](https://clemvillatte.github.io/flourishing-compendium/#card=Relationship%20categorisation): how people sort their relationships into kinds and where they draw the boundaries, in Fehr's research.
+How people sort their relationships into kinds and where they draw the boundaries, in Fehr's research, is [relationship categorisation](https://clemvillatte.github.io/flourishing-compendium/#card=Relationship%20categorisation). Duck's phase model of how relationships end is [relationship dissolution research](https://clemvillatte.github.io/flourishing-compendium/#card=Relationship%20dissolution%20research).
 
-[Relationship dissolution research](https://clemvillatte.github.io/flourishing-compendium/#card=Relationship%20dissolution%20research): Duck's phase model of how relationships end.
+The family of models for how relationships begin, continue and end is [social exchange theory](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20exchange%20theory). Thibaut and Kelley's account, in which relationship outcomes are judged by comparison level and comparison level for alternatives, is [Interdependence Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Interdependence%20Theory), and the research line on the interdependent construal of self anchored in Markus and Kitayama is [interdependence research](https://clemvillatte.github.io/flourishing-compendium/#card=Interdependence%20research).
 
-[Social exchange theory](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20exchange%20theory): the family of models for how relationships begin, continue and end.
+Altman and Taylor's account of relationships deepening through self-disclosure is [social penetration theory](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20penetration%20theory). Bowlby's account of love bonds, in which the child-caregiver bond is organized by an inborn behavioural system whose business is protection, and the system keeps running in adult relationships, is [attachment theory](https://clemvillatte.github.io/flourishing-compendium/#card=Attachment%20theory). The sense, built from experience with available and responsive caregivers and partners, that others will be available and supportive when needed, is [attachment security](https://clemvillatte.github.io/flourishing-compendium/#card=Attachment%20security).
 
-[Interdependence Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Interdependence%20Theory): Thibaut and Kelley: relationship outcomes judged by comparison level and comparison level for alternatives.
+The view that communities largely make the identities of their members is [communitarianism](https://clemvillatte.github.io/flourishing-compendium/#card=Communitarianism). MacIntyre's local form of life in which identity, roles and goods are constituted together with others is [community](https://clemvillatte.github.io/flourishing-compendium/#card=Community). McMillan and Chavis's felt experience of belonging and mattering to a group is [sense of community](https://clemvillatte.github.io/flourishing-compendium/#card=Sense%20of%20community).
 
-[Interdependence research](https://clemvillatte.github.io/flourishing-compendium/#card=Interdependence%20research): the research line on the interdependent construal of self anchored in Markus and Kitayama.
+The study of well-being at the level of settings and systems is [community psychology theory](https://clemvillatte.github.io/flourishing-compendium/#card=Community%20psychology%20theory), and implementation research in community settings is [community intervention research](https://clemvillatte.github.io/flourishing-compendium/#card=Community%20intervention%20research).
 
-[Social penetration theory](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20penetration%20theory): Altman and Taylor's account of relationships deepening through self-disclosure.
-
-[Attachment theory](https://clemvillatte.github.io/flourishing-compendium/#card=Attachment%20theory): Bowlby's account of love bonds: the child-caregiver bond is organized by an inborn behavioural system whose business is protection, and the system keeps running in adult relationships.
-
-[Attachment security](https://clemvillatte.github.io/flourishing-compendium/#card=Attachment%20security): the sense, built from experience with available and responsive caregivers and partners, that others will be available and supportive when needed.
-
-[Communitarianism](https://clemvillatte.github.io/flourishing-compendium/#card=Communitarianism): the view that communities largely make the identities of their members.
-
-[Community](https://clemvillatte.github.io/flourishing-compendium/#card=Community): MacIntyre's local form of life in which identity, roles and goods are constituted together with others.
-
-[Sense of community](https://clemvillatte.github.io/flourishing-compendium/#card=Sense%20of%20community): McMillan and Chavis's felt experience of belonging and mattering to a group.
-
-[Community psychology theory](https://clemvillatte.github.io/flourishing-compendium/#card=Community%20psychology%20theory): the study of well-being at the level of settings and systems.
-
-[Community intervention research](https://clemvillatte.github.io/flourishing-compendium/#card=Community%20intervention%20research): implementation research in community settings.
-
-[Parasocial interaction theory](https://clemvillatte.github.io/flourishing-compendium/#card=Parasocial%20interaction%20theory): Horton and Wohl's observation that mass media give the illusion of face-to-face relationship with the performer.
-
-[Parasocial contact hypothesis](https://clemvillatte.github.io/flourishing-compendium/#card=Parasocial%20contact%20hypothesis): the proposal that contact via media can reduce prejudice.
+Horton and Wohl's observation that mass media give the illusion of face-to-face relationship with the performer is [parasocial interaction theory](https://clemvillatte.github.io/flourishing-compendium/#card=Parasocial%20interaction%20theory). The proposal that contact via media can reduce prejudice is the [parasocial contact hypothesis](https://clemvillatte.github.io/flourishing-compendium/#card=Parasocial%20contact%20hypothesis).
 
 ### The stories and sayings
 
