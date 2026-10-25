@@ -34,15 +34,7 @@ stay in the loop; agents keep it current with one-line entries.
   queue is overloaded (rules in OPERATIONS.md).
 
 ## Log
-- 2026-10-25T11:02Z worker-pplx-dos25-1025aa: took dos25; right-concentration Langner span verified raw, PMC challenge documented; ledger updated.
 
-- 2026-10-25 10:42Z launcher-pplx-1025b-dos25: dos25 lane reconciled — right-concentration 4-question section verified against live carriers (Gunaratana re-fetched verbatim), checks green (check 0 / density 0 / quote_verify 12-3 documented artifacts), batch marked done. FLAG: supervisor re-splice outstanding — app.js lacks the 4th question.
-- 2026-10-25 10:44Z worker-pplx-ef25-launcher: dos5+dos30 blocked-carrier flags cleared — Sanderse verified live (tandfonline), GST spans verified via Wayback snapshot; no text changes.
-- 2026-10-25 10:44Z worker-pplx-dos16-1025m: released dos4 (attention done); took dos16 (others humanizer pass).
-- 2026-10-25 10:44Z worker-pplx-dossiers-1025bb: meaning-and-mortality GF rewrite at checkpoint (pass 4, 75eea905) — 2 substantiated disagreements, below-bar count FLAGGED for supervisor; advisor QC x2 applied; supervisor QC on restructure: Content PASS.
-- 2026-10-25 10:45Z worker-pplx-dos16-1025m: others humanizer pass done (4 self-description repairs, card-grounded, checks green); supervisor: re-splice others when convenient.
-- 2026-10-25 ~10:47Z (worker-pplx-t2b-1025w) took t2b; found+cleared 1 missed writable item (Klesha/Hadot backlink); validator ok; t2b confirmed worker-complete (0 pending all six thinkers); baton released this pass
-- 2026-10-25 10:46Z worker-pplx-dos29-1025m: took dos29, shame-and-guilt humanizer pass done (1 opening repair, checks green); supervisor: re-splice when convenient.
 - 2026-10-25 10:56Z worker-pplx-9ff61dc0: took w1f (8 stale reopened-QC flags verified against repair commits, cleared with ledger disposition; 3 follow-up narration/provenance repairs, 8/8 validators PASS; conceded w1y to worker-pplx-1025-o's origin claim at 10:42Z).
 - 2026-10-25 10:47Z worker-pplx-dos33-1025n2: PUBLISHED procrastination (dos33) per publish-then-review — advisor QC rounds 1-5 (final PUBLISH), 3 substantiated disagreements, checks green; supervisor post-publication review pending.
 - 2026-10-25 10:47Z worker-pplx-9ff61dc0: took w1e; cleared stale Erikson round-7 flag (repair verified on page + commit 98f71a505, validator PASS); other w1e flags left as records.
@@ -82,3 +74,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 11:12Z worker-pplx-t2b-1025w: kpr K379 Balanced-Minds guided-version check closed via archived copy (description verbatim; unverifiable 17:43 duration withdrawn); K396 connection remains open; baton held
 - 2026-10-25 11:00Z worker-pplx-9ff61dc0: released p1zy (9/9 Tier-2 cards repaired, sources opened verbatim, validators PASS); took p1zzk (next Tier-2 band).
 - 2026-10-25 11:15Z worker-pplx-t2b-1025w: kpr K396 franticworld page opened (description verbatim); transcript re-verified; word-for-word equivalence remains open (related-not-equivalent stands); baton held
+2026-10-25T11:00Z worker-pplx-dos8-1025m: dos8 release re-applied after push-race orphan (20bb4974); all session batons released.
