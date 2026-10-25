@@ -379,6 +379,29 @@ not necessarily whole files. The relied-on passages are inside those ranges.
     text; an earlier 'Zimmern' credit in this ledger and the third-pass
     commit message was wrong and is corrected here). VERBATIM.
 
+## Handoff self-check (rev 3, before worker-complete)
+
+- `dossier_check.py`: exit 0 (30 card links resolve, 16 headers, 46
+  external carrier link occurrences).
+- `dossier_density.py`: exit 0, 30 paragraphs, 0.6 card links per
+  paragraph, 0 dense (no paragraph with five or more card links, none with
+  four in under 120 words).
+- `dossier_quote_verify.py`: 29 quotes checked, 8 reported not found; all 8
+  opened by hand against raw text already on file: Conner, Wang, Kounios
+  (PubMed pages not fetchable as text by the script; verified via eutils
+  raw abstracts), Sio & Ormerod and Baird (same class), Schumpeter
+  (footnote marker interleaved in the carrier text; span verified by hand),
+  and two Zarathustra fragments which are the dossier's own connective
+  paraphrase between quotations, not quotations (the quoted spans
+  themselves passed).
+- Supervisor log row for creativity (dos32): 'The Haught-Tromp carrier is
+  unopened: open it or remove every claim that depends on it. Then run the
+  density check.' Both parts addressed: every claim depending on
+  Haught-Tromp was removed in rev 2 (see the boundary notes), and the density
+  check now passes. Recorded here and in the commit message for the
+  supervisor to re-read.
+- Format: thread with question headings; no `## The map:` section.
+
 ## Scope and boundary notes
 
 - Boundary with Creation (dos31): owner-given. Creativity = the capacity
