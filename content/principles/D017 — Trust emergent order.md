@@ -26,6 +26,7 @@ Give people room to work things out before telling them how. Keep watching what 
 *For example:* A writing-group organiser stops assigning the order of every discussion. Members choose the next piece themselves. When one writer keeps being passed over, the organiser raises it. This is my illustration, not a reported result.
 
 ## Sources
+- [[T012 — Laozi]]: the compendium's author page for the Daodejing.
 - [Laozi, Daodejing, James Legge translation, Sacred Texts](https://www.sacred-texts.com/tao/taote.htm): chapters 57 and 64, quoted above. This edition's wording is retained, including "(of purpose)".
 - [Deci, Koestner & Ryan (1999), A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation](https://pubmed.ncbi.nlm.nih.gov/10589297/): abstract checked for the limited psychology comparison; the full paper was not used.
 
@@ -35,12 +36,16 @@ Give people room to work things out before telling them how. Keep watching what 
 
 ## Psychology parallels
 
-- [[Motivation crowding-out]]: Deci, Koestner and Ryan's 1999 meta-analysis found that some contingent rewards reduced free-choice intrinsic motivation, while positive feedback enhanced it. This is a narrower finding about rewards, not evidence that all direction obstructs coordination ([PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/10589297/)).
+- Deci, Koestner and Ryan's 1999 meta-analysis found that some contingent rewards reduced free-choice intrinsic motivation, while positive feedback enhanced it. This is a narrower finding about rewards, not evidence that all direction obstructs coordination ([PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/10589297/)).
+- For separate comparative reading: [[Dynamic systems theory|Dynamic-systems accounts of development]]. This link does not establish the principle's political or ethical claims.
 
 ## Philosophy parallels
 
-- [[Spontaneous order]]: an interpretive comparison, not a claimed historical influence.
-- [[Dao]]: the setting of the counsel in the Daodejing.
+These are comparative reading links, not evidence that the accounts make the same claim or influenced one another:
+
+- [[The invisible hand|The invisible hand]]
+- [[Spontaneous order|Spontaneous order]]
+- [[Dao|The Dao — the way things work]]
 
 
 <!-- fc: reflections
