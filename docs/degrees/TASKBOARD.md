@@ -64,6 +64,31 @@ reference, unique source ids in brackets):
 
 ## Degree checkpoints
 
+- 2026-10-25 verifier-pplx-1025g (deg-verify-b): Block I-b COMPLETE —
+  md5-odd unattached half fully processed: 95 records from the original
+  enumeration plus SRC-M12-004 (GloPhi Ubuntu/Nepantla), found by an
+  end-of-band inventory audit (24 other md5-odd records without entries
+  are module-attached — qg-*, cmp-*, phil/mind optionalMedia — and
+  outside Block I-b scope). Entries with identity, access, duration,
+  credential basis and coverage basis in verify/deg-mind,
+  deg-therapeutic, deg-philosophy, deg-contemplative, deg-relational,
+  deg-wellbeing, deg-cmp. Statuses use verified-video / verified-page /
+  verified-partial (description-only coverage) per skill section 4, with
+  coverage-basis caveats in each file. Advisor QC round applied: oembed
+  evidence recorded for all 21 M08 records; wave 15-16 description-only
+  entries restated verified-partial; Fredrickson, Markus, Nakamura,
+  Goldman, Turner credentials upgraded on opened pages. Flags for owners:
+  identity-only (blocked pages, single attempt, retry permitted): M06-AF07,
+  SRC-M09-005, M08-P07, M08-S26; blocked web pages: M05-YV-04 (yoga.org),
+  SRC-M08-S27 (umich positiveorgs); dual-figure durations: M04-R15 (catalog
+  1:00:40 vs watch page 53:26), M08-P11 (46:08 vs 44:02), M06-AT06, Gilbert
+  workshop parts; title-only coverage: M08-P05, M08-P14, M08-S10, M04-R12,
+  M05-YV-05; Dreyfus restored edition (M04-E03) is only 3 lectures
+  restored — incomplete resource. Many speakers' institutional credential
+  pages remain pending (noted per entry; institutional pages were
+  robots-blocked or rate-limited for Meinert, Sherman, De Moor, Hewstone,
+  Peng, Kitayama, Niemiec, Christakis).
+
 - 2026-10-25 verifier-pplx-1025g (round 2): Block F COMPLETE — 12 of 13
   imported deg-therapeutic records verified in verify/deg-therapeutic.md
   (SRC-M09-005 Rollnick identity-only: watch page blocked from this
