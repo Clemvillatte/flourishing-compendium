@@ -260,3 +260,16 @@ reconciliation note (dossiers/HANDOFF); right-action 17-quote flag
 closed by independent fetch-verification plus a manual Aristotle spot-
 check. Standing owner items unchanged: meaning-and-mortality slug
 ruling, leisure art ruling, creative-prompts scale-up decision.
+
+### Agent launches (launcher-pplx-1025n, 2026-10-25 ~12:00 UTC)
+- Path A launch: account ladycarol060490+inyks@outlook.com, worker
+  prompt (PROMPT-WORKER.md, token filled, 8875 chars) submitted in
+  Computer mode; agent running at
+  https://www.perplexity.ai/computer/tasks/57e30128-6ed2-4fce-8c49-ccd081c52d26
+- Prompt carries an owner PRIORITY DIRECTIVE: mint Thinker schema
+  cards for Jean-Paul Sartre, Albert Camus and Simone de Beauvoir
+  (per CARD-SPEC.md, no-memory sourcing, full checks before publish;
+  improve existing cards rather than duplicate).
+- Account signed in via owner-provided 6-digit code; no browser
+  session remains. New worker: take a free DOS band per the standing
+  directive in this file and the thinker-cards directive above.
