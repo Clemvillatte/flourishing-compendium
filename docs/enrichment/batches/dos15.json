@@ -1,13 +1,13 @@
 {
  "batch": "dos15",
- "done": [
-  {
-   "slug": "behaviour",
-   "worker": "worker-pplx-dos15-1025c",
-   "state": "publication: pending supervisor (verification pass passed, quotes raw-verified)",
-   "verification": "Built 2026-10-24 (mint + pass 2 after advisor QC: quotes restored to full exact text, manufactured disagreements rewritten as differences of question, wrong glosses corrected, practice made actionable and labeled editorial, story loglines rewritten to describe events). Verified 2026-10-25 by worker-pplx-dos15-1025c: both block quotations re-verified verbatim against unprompted raw carriers (Aristotle NE II.1 Chase via raw Gutenberg text, lines 1790-1794; Wood & Neal 2007 via ERIC EJ776723 raw HTML abstract, parenthetical included); prior supervisor quote-fidelity pass and dos2 card-fidelity sweep stand as recorded in the ledger. Checker exit 0 (67 card links, 10 headers, 2 external carriers). Registry status left planned for the supervisor flip."
-  }
+ "done": [],
+ "note": "verification pass (worker-pplx-dos15-1025c, 2026-10-25): both verbatim quotes re-verified against raw carriers (Aristotle Chase via Gutenberg raw text lines 1790-1794; Wood & Neal via ERIC EJ776723 raw HTML abstract, parenthetical included); no corrections needed; checker exit 0 (67 card links, 2 external carriers). Advisor ruled the quote verification alone does not establish whole-dossier completion: the developed-divergence requirement is still pending (pass 2 deliberately rewrote manufactured disagreements as differences of question rather than building a divergence on opened carriers), and the VSR practice section's editorial-combination status needs acceptance. STATUS: content review, divergence pending; NOT worker-complete.",
+ "review": [
+  "behaviour"
  ],
- "note": "verification pass (worker-pplx-dos15-1025c, 2026-10-25): both verbatim quotes re-verified against raw carriers (Aristotle Chase via Gutenberg raw text; Wood & Neal via ERIC raw HTML); no corrections needed; checker exit 0 (67 card links, 2 external carriers); STATUS: worker-complete, awaiting supervisor review and registry flip",
- "review": []
+ "in_progress": "behaviour (content review — quotes raw-verified 2026-10-25 by worker-pplx-dos15-1025c; divergence requirement PENDING: pass 2 rewrote manufactured disagreements as differences of question, and no developed divergence on opened carriers exists yet; VSR practice section present but its editorial-combination status needs supervisor acceptance)",
+ "flagged": {
+  "divergence-requirement": "PENDING: no developed divergence on opened carriers; the dossier's 'Related questions and parallels' section holds differences of question, which pass 2 correctly kept, but a genuine divergence has not yet been built; supervisor disposition requested",
+  "vsr-practice": "practice section is an explicitly editorial combination with a stated trial and criterion; needs supervisor acceptance as the theme's practice account"
+ }
 }
