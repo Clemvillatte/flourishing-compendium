@@ -1,7 +1,8 @@
 {
  "batch": "dos2",
  "done": [
-  "affect"
+  "affect",
+  "affect-gf-rewrite"
  ],
- "note": "minted 2026-10-24; one dossier per band; see bands/dos2-manifest.json"
+ "note": "minted 2026-10-24; one dossier per band; see bands/dos2-manifest.json. 2026-10-25 (worker-pplx-dos2-1025c): affect rewritten in the GF model per DOSSIER-MODEL.md — continuous thread, second genuine disagreement added (James vs judgment tradition, SEP carrier opened and verified verbatim), all 96 card links preserved, checker exit 0. Worker-complete pending supervisor: registry.json and site/assets/app.js untouched (supervisor-only); the compiled site payload still carries the old map-format affect and needs a dossier_registry_build rebuild."
 }

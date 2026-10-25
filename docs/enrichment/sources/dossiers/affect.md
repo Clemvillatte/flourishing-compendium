@@ -290,3 +290,15 @@ card-faithful.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
 review only; no external carriers freshly opened this pass.
+
+## Revision — GF-model rewrite (2026-10-25, worker-pplx-dos2-1025c, dos2)
+
+Per DOSSIER-MODEL.md (owner decision 2026-10-25: GF is the model; map format retired) I rewrote the dossier as a continuous thread in the GF voice. Ledger of this revision:
+
+- All three previously verified verbatim blockquotes kept (James; Ekman ×3; Posner ×2). The Ekman framing paraphrase flagged earlier by this ledger's Prose review defects is replaced by the sentence the raw carrier actually uses: "The research on facial expressions has also shown the utility of conceiving of emotions as separate discrete states..." — text taken from this ledger's Ekman paragraph above (the wording recorded from the opened carrier).
+- ONE NEW carrier opened by me this session: Scarantino & de Sousa, SEP "Emotion" (https://plato.stanford.edu/entries/emotion/), section 5, fetched live and verified — the new judgment-side quote "On a common interpretation of their view, my anger at someone is the judgment that I have been wronged by that person..." is verbatim per my fetch of the page. This grounds a second genuine disagreement (bodily change vs judgment), pairing James (ledger-verified) with the cognitivist side.
+- Card-link inventory: 96 unique card links before, 96 after — LINKS-IDENTICAL (verified by diff of the #card= sets old vs new; the Ekman fix also restored the exact "Beware the moods of the many" URL that had drifted).
+- All claims in the new prose are drawn from the existing card glosses (card-compressed text in the previous version) and the ledger-verified passages above; the two "what the disagreement turns on" closing sentences in the new section are explicitly marked as my reading, with a note that the quoted passages do not settle it.
+- ST185 story logline recast as a direct Aristotelian doctrine statement (per this ledger's earlier defect note), keeping the fourfold right-way phrasing.
+- checker: python3 scripts/dossier_check.py docs/enrichment/dossiers/affect.md → OK, 101 card links resolve, 19 headers, 5 external carriers.
+- app.js / registry.json NOT touched (dossier workers must not edit app.js per HANDOFF.md; the compiled site payload still carries the old map-format affect — supervisor rebuild flagged in the commit message).
