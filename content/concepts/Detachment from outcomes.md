@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Detachment from outcomes is the Bhagavad Gita's instruction to act from duty while releasing ownership of the results. Verse 2.47 is the locus classicus, and it separates three things: the right to act, the fruits of action, and the doer's claim to be the cause of results.
 
-> "You have a right to perform your prescribed duty, but you are not entitled to the fruits of action. Never consider yourself the cause of the results of your activities, and never be attached to not doing your duty." (Bhagavad Gita 2.47, [translation and commentaries of Ramanuja, Madhva, Shankara and others](https://www.bhagavad-gita.us/bhagavad-gita-2-47/))
+> "You have a right to perform your prescribed duty, but you are not entitled to the fruits of action. Never consider yourself the cause of the results of your activities, and never be attached to not doing your duty." (Bhagavad Gita 2.47, [bhagavad-gita.us page carrying the verse; the site's translation is unattributed, with commentaries of Ramanuja, Madhva, Shankara and others listed alongside](https://www.bhagavad-gita.us/bhagavad-gita-2-47/))
 
 ### What the verse separates
 
@@ -21,7 +21,7 @@ Contemporary psychology uses the same word for a different thing. In recovery re
 
 > "Confirmatory factor analyses with a calibration and a cross-validation sample (total N=930) showed that four recovery experiences can be differentiated: psychological detachment from work, relaxation, mastery, and control (Study 2)." ([Sonnentag and Fritz 2007](https://pubmed.ncbi.nlm.nih.gov/17638488/))
 
-The two uses are distinct: the Gita concerns the actor's attachment to the results of action, while the questionnaire concerns how people recuperate from work during leisure time. They can support each other in practice, since an evening spent rehearsing the day's unfinished outcomes is an evening that neither acts nor recovers.
+The two uses are distinct: the Gita concerns the actor's attachment to the results of action, while the questionnaire concerns how people recuperate from work during leisure time. The page keeps the two as neighbors rather than merging them; the shared word is the only shared element the two cited texts establish.
 
 ### In the compendium
 
