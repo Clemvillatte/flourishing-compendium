@@ -133,6 +133,11 @@
      "t": "2026-10-20T14:47:18+00:00",
      "to": "ready",
      "note": "Fifth milestone substantive/source QC PASS; zero validator errors; full non-sentimental ending and universal-love limit preserved"
+    },
+    {
+     "t": "2026-10-25T15:08:52+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:08:52: sample verified — all quotes VERBATIM (see QC notes)"
     }
    ]
   },
@@ -686,6 +691,11 @@
      "t": "2026-10-24T14:33:57+00:00",
      "to": "ready",
      "note": "advisor round 1 applied: imagined-scene framing, split quote preserved verbatim, YAML repaired with block scalar, supervisor-routing language moved to QC notes"
+    },
+    {
+     "t": "2026-10-25T15:08:52+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:08:52: sample verified — all quotes VERBATIM (see QC notes)"
     }
    ]
   },
@@ -706,6 +716,11 @@
      "t": "2026-10-24T14:35:51+00:00",
      "to": "ready",
      "note": "advisor round 1 applied: embellishment cut, opening exchange added from opened page, reading narrowed to cautionary companion"
+    },
+    {
+     "t": "2026-10-25T15:08:52+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:08:52: sample verified — all quotes VERBATIM (see QC notes)"
     }
    ]
   },
@@ -870,5 +885,5 @@
    ]
   }
  },
- "updated": "2026-10-25T15:00:08+00:00"
+ "updated": "2026-10-25T15:08:52+00:00"
 }
