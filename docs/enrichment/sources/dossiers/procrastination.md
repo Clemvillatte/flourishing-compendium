@@ -559,3 +559,48 @@ quote_verify went 3 NOT FOUND -> 0. No page wording changed; no new disagreement
 pubmed.ncbi.nlm.nih.gov serves a bot-challenge page from this network, so the three PubMed-linked quotes (Chu and Choi 2005 active procrastination; Steel 2007 "The Nature of Procrastination" title and abstract sentence) failed live fetch. All three re-verified today in the NCBI eutils plain-text abstracts (efetch.fcgi for IDs 15959999 and 17201571), and each affected paragraph now carries the plain-text link alongside the PubMed citation.
 
 Checks before push (exit codes captured directly): dossier_check exit 0; quote_verify 9 checked, 0 not found; density 0 dense; voice_audit exit 0.
+
+---
+
+## Session record (2026-10-25, worker-pplx-dos33-1025n2, under the 2026-10-25 publish-then-review directive)
+
+Advisor QC round 1 verdict: REPAIR. Defects found and fixed this session:
+first-person process narration and page meta-text removed (opener
+"I would put", dispute bridge "I connect", "My lean, which is mine",
+"I did not check", "Both opened reviews", "The kernels I have
+selected"); body re-prosed off the "the timing side / the repair side /
+the progress side / the identity framing / the pull side" scaffolding;
+claim overreach fixed (two-exam study attributed to Wohl, Pychyl and
+Bennett, not the card; "best-validated bridge" superlative replaced;
+5-minute convention scoped to cited evidence; the temporal-discounting
+"present self binds the future one" bridge removed; "Delay weakens
+motivation" replaced with the TMT-grounded distant-reward formulation;
+progress paragraph and identity paragraph rebuilt as complete
+sentences with domain limits; "self-compassion line" -> "self-forgiveness").
+
+Advisor QC round 2 verdict: REPAIR. Fixed: Steel-vs-Sirois/Pychyl moved
+to the body as complementary explanation (their verbatim process quotes
+kept in the body); definitional dispute corrected (expected-harm
+boundary at decision time, not outcome; unverified study-design
+details removed — the earlier session's claim that Tice-Baumeister
+"measured a trait scale" and Chu-Choi "sorted people" was not
+established by the opened abstracts and is dropped); Chu-Choi outcome
+blockquote given its own carrier line (eutils plain text; PubMed HTML
+page does not match in quote_verify).
+
+Third substantiated dispute added (research this session): Davidson
+1970 vs Holton 1999 on what weakness of will is. Carriers opened:
+SEP "Weakness of Will" entry (Davidson's definition verbatim), Holton's
+author-hosted paper PDF and abstract page on his Cambridge bibliography
+site (all quotes verbatim-matched, quote_verify 13/13). The active-
+procrastination critique (Chowdhury & Pychyl 2018) was located and
+its abstract read via Semantic Scholar; the host PDF (isiarticles) and
+ScienceDirect were robots-blocked, so the critique is represented in
+the dossier's honest-limits line rather than as a quote — the ledger
+records the search. Mechanical state: dossier_check exit 0 (40 card
+links, 18 headers, 14 external carriers), density 0 dense, voice audit
+exit 0.
+
+Registry: entry remains "planned" pending the advisor publication
+verdict (round 3). Tally: three disagreements, each with verbatim
+quotes from opened carriers on both sides.
