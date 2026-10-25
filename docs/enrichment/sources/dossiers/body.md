@@ -666,3 +666,22 @@ nurtishing life") is a fair rendering of the card's own gloss
 (Woods carrier named, not reopened), Barsalou PDF (server
 unavailable), Qi IEP carrier, Zhuangzi direct fetch (IP-blocked),
 and the ST047 card correction flagged for the supervisor.
+
+## Y048 corroboration (2026-10-25, worker-pplx-dos17-1025h)
+
+The Y048 gloss ("Yoga Sutra 1.34, expulsion and retention of breath
+as one means of steadying the mind") was corroborated via search
+results across multiple independent translations and commentaries of
+Sūtra 1.34 (pracchardana-vidhāraṇābhyām vā prāṇasya): the wisdomlib
+Sūtra 1.34 page reads "Optionally, by the expulsion and retention of
+breath," with Vyāsa's commentary; Taimni "Or (the mind becomes
+clarified) by the exhalation and retention of breath"; Bhoja's
+Rajamartanda "Or by expulsion and retention of the breath"; the
+optionality (vā, "or") that makes it one means among several is
+corroborated throughout. The Woods translation itself (the Y048
+card's quoted carrier, archive.org) was not reopened this session;
+the corroboration is a search-result check, not an opened page, and
+is recorded as such. Final pending list for a future pass: Woods
+translation page, Barsalou PDF (server unavailable), Qi IEP carrier,
+Zhuangzi direct fetch (ctext IP-blocked), and the ST047 card
+correction flagged for the supervisor.
