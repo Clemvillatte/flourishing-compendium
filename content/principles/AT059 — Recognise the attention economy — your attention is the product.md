@@ -18,10 +18,10 @@ In his 1971 discussion, Herbert Simon argues that abundant information makes the
 >
 > (Simon, "Designing Organizations for an Information-Rich World", 1971, pp. 40-41)
 
-The cost falls on the receiver: "most of the cost of information is the cost incurred by the recipient. ... we must also know how much it costs, in terms of scarce attention, to receive it" (p. 41). I apply this accounting to digital media: a price of zero does not say how much time a service will take.
+The cost falls on the receiver: "most of the cost of information is the cost incurred by the recipient. ... we must also know how much it costs, in terms of scarce attention, to receive it" (p. 41). The entry applies this accounting to digital media: a price of zero does not say how much time a service will take.
 
 **Plain words**
-A service can cost you no money and still take an hour of your day. Count that hour when deciding whether it is worth using, and ask what you got during it.
+Simon's point, fifty years on, reads like a description of the phone in your pocket. When information became endless, the thing that ran out was the receiving of it, so companies stopped charging for the product and started charging you in it. A news feed is free the way a slot machine is free: the house is not being generous, it is being paid in minutes.
 
 *For example:*
 a reader spends twenty minutes each morning in a free news app and records the time for a week before deciding whether to keep it.
