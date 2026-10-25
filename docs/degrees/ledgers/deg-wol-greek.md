@@ -604,3 +604,37 @@ closes the "transcript still unread" gap for AR-05. Status remains
 verified-video; identity, access, credentials and durations unchanged.
 Module production stays behind the Phase 0 stop-gate; no attachment is
 made this session.
+
+## ST-01 transcript read (2026-10-25, worker-pplx-greek-1025y)
+
+The ST-01 record (STOICON '16, Julia Annas, "Is Stoic Virtue as
+Off-Putting as it Seems?"; Modern Stoicism channel; verified earlier in
+this ledger, 29:09 with the 19-second watch-page discrepancy already
+flagged to deg-verify-b) now carries a transcript-level content
+classification, superseding the uploader-description-only basis.
+Transcript read this session via
+https://youtubetotranscript.com/transcript?v=WoDGgj_cfKE (rendered page;
+direct raw fetch is Cloudflare-walled).
+
+Content confirmed from the transcript:
+
+- Main question: "why is it off-putting why did they do it in why did
+  they put their ideas in this particular way" — Annas asks why the
+  Stoics presented virtue in the off-putting way they did.
+- On Stoic virtue as sufficient: "for the Stoics notoriously virtue it's
+  not just necessary for happiness but it's sufficient"; "if you're
+  virtuous that's all you need to have a flourishing life".
+- On progress and the absence of degrees: "the idea that there aren't
+  any degrees of virtue doesn't mean that there are no degrees of
+  progress towards virtue"; "for a stoic there's never going to be a
+  point when we can say well that was hard work but I'm there finally
+  I've achieved it finally I'm brave or I'm as brave as I can be".
+- The transcript includes the talk and a Q&A and ends with "thank you".
+
+Content matches the manifest's proposed topic "Stoic virtue and its
+critics": Annas both presents the Stoic position (virtue as necessary
+and sufficient for happiness) and interrogates why it is off-putting.
+Transcript-level classification closes the "transcript still unread"
+gap for ST-01. Status remains verified-video; identity, access,
+credentials and durations unchanged. Module production stays behind the
+Phase 0 stop-gate; no attachment is made this session.
