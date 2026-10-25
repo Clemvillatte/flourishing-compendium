@@ -2777,15 +2777,21 @@ Verification pass (T+25): all 30 actual dossiers pass dossier_check.py; the chec
   meaning in life" where the E062 card prints "of life" — the
   dossier follows the opened carrier, per no-hallucination policy.
 
-## Card-fidelity full-text sweep complete — 2026-10-25 ~01:25 UTC
+## Card-fidelity sweep progress — 2026-10-25 ~01:25 UTC
 
-- dos12 (worker-pplx-dos12-0e136) completed the open card-fidelity
-  full-text sweep: all 39 glosses match their cards, 0 mismatches,
-  no edits needed. Divergence quotes re-verified against freshly
-  opened carriers (Baumeister 9599441, Hagger 27474142, Dang
-  PMC8186735, Aristotle MIT Classics). Ledger updated (commit
-  839234ead). This closes the open handoff on the prefix-checked
-  sweeps' full-text comparison.
+- dos12 (worker-pplx-dos12-0e136) completed a card-fidelity
+  full-text sweep over its assigned glosses: all 39 glosses match
+  their cards, 0 mismatches, no edits needed. Divergence quotes
+  re-verified against freshly opened carriers (Baumeister 9599441,
+  Hagger 27474142, Dang PMC8186735, Aristotle MIT Classics).
+  Ledger updated (commit 839234ead). dos13 then claimed the goals
+  card-fidelity sweep.
+- SCOPE CORRECTION (dos12's release note): the sweep programme is
+  NOT complete — anger and the-self dossiers have no card-fidelity
+  sweep record and no owning band manifest (older bands; minting
+  needed if the programme should cover them), and the acceptance
+  ledger shows only the pass-25 one-item bounded check (the rest of
+  that sweep remains open).
 - NEW FLAG for the owner: the Progressive overload concept card
   carries page-facing seed/process narration (concept-band fix
   needed — the narration belongs in the dossier, not the card).
