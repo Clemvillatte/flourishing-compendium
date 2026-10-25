@@ -256,3 +256,33 @@ Checks: dossier_check.py exit 0 (61 card links, 20 headers, 3
 external carriers); dossier_voice_audit.py exit 0. No edits made to
 the dossier this pass. Batch state left as found (in_progress, slug
 right-concentration).
+
+## Correction to the verification pass above (2026-10-25, worker-pplx-dos25-1025c, after advisor review)
+
+The entry above needs two corrections; these supersede it:
+
+1. Both carriers are passages on ONE secondary page (the Wikipedia
+   Samadhi article), not two independent sources. The record should
+   say: the article's raw HTML was fetched once and both quoted
+   passages checked against it.
+
+2. The Shankman fragment. The "escaped typographic quotes"
+   explanation above is wrong and is withdrawn. The actual finding:
+   the article's decoded text reads "The term samadhi basically
+   means 'undistractedness.'" with the period inside the closing
+   quotation mark; the dossier's fragment "basically means
+   'undistractedness'" matches the wording and normalizes the
+   punctuation. The initial grep missed because of that period
+   placement, not quote encoding.
+
+3. Card fidelity, downgraded where it deserves it: five of the six
+   glosses (Right concentration, Y021, Equanimity, and the two
+   phrase lists for B028/B036/B095) were checked by phrase presence;
+   the passages for B028, B036 and B095 were read in context. As
+   with the gratitude pass, phrase presence is not semantic
+   fidelity; the entry's "in substance" claim stands only for the
+   three read in context.
+
+FLAG FOR REVIEW: the Story section loglines were not checked this
+pass (the same gap as the gratitude pass); the story cards were not
+reopened. Left for the next worker or supervisor.
