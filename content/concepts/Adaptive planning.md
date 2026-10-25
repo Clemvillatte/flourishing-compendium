@@ -23,7 +23,7 @@ A specific plan is not automatically bad. In one experiment, participants with a
 
 ### Practice
 
-Implement as three layers: name the commitment (what stays fixed), the trigger (the observable condition that calls for revision) and the revision (the alternative you would switch to). An illustrative application on overt behaviour: suppose you plan to write before work. Choose a condition for reviewing that arrangement, such as repeated interruptions. If it occurs, try a lunchtime or evening slot. Compare how much uninterrupted writing each allows, keep the workable arrangement, and reconsider it when conditions change. This is an illustrative application, not a tested intervention.
+The design has three layers: a commitment (what stays fixed), a trigger (the observable condition that calls for revision) and a revision (the alternative arrangement). An illustrative application: a writer who plans to write before work can name repeated interruptions as the trigger for reviewing that arrangement, try a lunchtime or evening slot when it fires, compare how much uninterrupted writing each allows, and keep the workable arrangement until conditions change again. This is an illustrative application, not a tested intervention.
 
 ### Sources
 
@@ -44,8 +44,8 @@ Implement as three layers: name the commitment (what stays fixed), the trigger (
 
 ## Related concepts
 
-- [[Coping flexibility]] — the person-level counterpart: switching strategy when the situation changes rather than holding one method
-- [[Implementation intentions]] — the if-then link is the fixed micro-structure of a plan; adaptive planning leaves the timing of revision open
-- [[Planning fallacy]] — the schedule bias that a plan built for revision is meant to survive
-- [[Outside view / reference class forecasting]] — sizes how often plans like this one fail; adaptive planning decides what to do when they do
-- [[Premeditatio malorum]] — the Stoic rehearsal names the misfortune in advance; adaptive planning names the trigger for switching
+- [[Coping flexibility]] — the person-level capacity to match strategy to situation; adaptive planning builds the same expectation of change into the design of the plan itself
+- [[Implementation intentions]] — an if-then link fixes the response to a named cue in advance; adaptive planning designs the whole plan for revision as conditions unfold
+- [[Planning fallacy]] — the confident expectation that a project will run as planned; adaptive planning starts from the expectation that the plan will need revision
+- [[Outside view / reference class forecasting]] — a forecast that treats the case at hand as one member of a class of similar cases; adaptive planning is the plan-side answer to the same uncertainty
+- [[Premeditatio malorum]] — the Stoic rehearsal of future misfortunes in advance; adaptive planning names the observable conditions under which the course itself gets revised

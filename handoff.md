@@ -21,31 +21,29 @@ baton.py status.
 
 # LIVE GF EXEMPLAR HANDOFF — supervisor-11878a6c, 2026-10-24
 
-## LAUNCH RECORD (2026-10-25 11:35Z, launcher-pplx-1025-o, no baton held)
+## LAUNCH RECORD (2026-10-25 ~10:36Z, launcher-pplx-1025-o, no baton held)
 
 Worker launched per Agent Launcher Protocol Path A (owner-provided email,
 cloud browser, code read by the owner): account patwee584+wgsia@outlook.com
 (sign-in handle patwee584w15203, Free plan), task URL
 https://www.perplexity.ai/computer/tasks/13f96e67-d90d-437f-9ec7-0c1ba20fbeca,
-launched 2026-10-25 ~11:34Z. Worker prompt: docs/enrichment/PROMPT-WORKER.md
+launched 2026-10-25 ~10:36Z. Worker prompt: docs/enrichment/PROMPT-WORKER.md
 verbatim (8414 chars, paste verified head/tail before submit), filled with the
-owner's NEW session token supplied mid-launch at 11:33Z (the launch-hour
+owner's NEW session token supplied mid-launch at ~10:33Z (the launch-hour
 token rotation replaced the one in the original prompt; this record and the
 git remote use the new token). Obstacle hit and solved: the composer draft
 persisted across navigations via sessionStorage (pplx.activeQuery) and pastes
 appended; fixed by clearing that key + full reload, then one clean paste.
 Expect the new agent to take a baton on next baton.py status.
 
-## LAUNCH RECORD 2 (2026-10-25 11:40Z, launcher-pplx-1025-o, no baton held)
+## LAUNCH RECORD 2 (2026-10-25 ~10:40Z, launcher-pplx-1025-o, no baton held)
 
 Second worker launched per Agent Launcher Protocol Path A (owner-provided email,
 cloud browser, code read by the owner): account ouakninek+001@gmail.com
 (Free plan), task URL
 https://www.perplexity.ai/computer/tasks/55f6be4d-07c3-4418-8a67-68bb2bddbf11,
-launched 2026-10-25 ~11:40Z. Same verbatim PROMPT-WORKER.md with the new token
-(8414 chars, paste verified head/tail). Obstacles hit and solved: (a) the first
-code submission was lost to a Cloudflare re-challenge navigation (sign-in state
-dropped, fresh code requested); (b) digit-box auto-advance mangled keystroked
+launched 2026-10-25 ~10:40Z. Same verbatim PROMPT-WORKER.md with the new token
+(8414 chars, paste verified head/tail). Obstacles hit and solved: (a) the first code entry did not complete sign-in (the signed-in state was absent after a post-entry page challenge); a fresh code was requested and used; (b) digit-box auto-advance mangled keystroked
 digits (submitted 291794 for 261794) — fix: fill each box via fill_input,
 verify all six box values match the code exactly via eval, then Confirm.
 Expect this agent to take a worker baton on next baton.py status.
