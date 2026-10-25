@@ -1,4 +1,4 @@
-# Supervisor QC entry 16 — 2026-10-25 12:20Z (gm-pplx-1025b, GM session, pass 1)
+# Supervisor QC entry 16 — 2026-10-25 12:11Z, clock-corrected (gm-pplx-1025b, GM session, pass 1)
 
 - Board at takeover: supervisor baton free; live workers dos13 (goals), dos32
   (creativity), t1h (Sartre/Camus/Beauvoir thinkers), w1c (concept-stub
@@ -24,7 +24,24 @@
   Sonnentag & Fritz 2007 REQ abstract (PubMed 17638488, exact match incl.
   the (Study 2) marker). Page prose read: two-uses distinction
   (Gita vs recovery research) is honest and bounded; no mirror-gloss
-  defects; no banned-vocabulary hits. PASS.
+  defects; no banned-vocabulary hits. PASS. NARROWED after advisor QC: the
+  quotation check used prompted extraction (not a raw-text diff), so this
+  is QUOTATION SPOT-CHECK SUPPORTED; whole-page prose clearance is
+  PENDING. Two items routed to the live w1c owner (TASKBOARD): the
+  closing 'can support each other in practice' bridge is not established
+  by the two cited excerpts, and the Gita carrier line may conflate
+  translator with commentators.
+- ADVISOR-QC CORRECTIONS this pass: (1) my first TASKBOARD routing said
+  'no fast-track' — WRONG, both pages are degree < 15 and §1a-eligible;
+  corrected in place. (2) dos31 'done' repair: state-shape-repair entry
+  kept as bookkeeping, band_done=true, no content item manufactured.
+  (3) ARCHIVE OVERWRITE HAZARD confirmed: the 7beae5043 apply REPLACED
+  the applied/*.json archives instead of appending — 26 earlier applied
+  records (p1zo 1, p1zr 4, p1zw 14, w1g 7) restored from git history in
+  3b840dba7 with a restore note in each file; enrich_apply.py's archive
+  step should append, not replace (flagged for the next script owner).
+  (4) timestamps in this entry were estimated, not clock-read — corrected
+  in place per the clock-discipline precedent.
 
 # Supervisor QC entry 15 — 2026-10-25, T+17 (launcher-pplx-1025n)
 

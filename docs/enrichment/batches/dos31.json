@@ -3,9 +3,9 @@
  "done": [
   {
    "id": "state-shape-repair",
-   "date": "2026-10-25T12:16Z",
+   "date": "2026-10-25T12:10Z",
    "worker": "gm-pplx-1025b",
-   "note": "supervisor repair: 'done' was a bare bool (crashed enrich_progress_report.py); converted to list, added band_done=true; no content change"
+   "note": "supervisor repair (clock-corrected): 'done' was a bare bool (crashed enrich_progress_report.py); converted to list, added band_done=true; no content change"
   }
  ],
  "note": "creation: pass 11 (2026-10-25) — THIRD demonstrated disagreement added (Camus vs Sartre, \"Is there a human nature we do not make?\"), bar of 3-5 MET. All quotes verified against opened raw carriers (Rebel carrier = PDF edition; djvu.txt unusable for verification, documented). Final advisor QC passed after prose repairs. Verification: 44 checked / 41 raw automated / 3 retrieval exceptions, manually verified and corroborated by unprompted page extractions (pass-12b corrected accounting; see ledger). Supervisor flip pending (registry stays planned; publish-then-review orders in force; advisor ruled publication a supervisor decision).",
