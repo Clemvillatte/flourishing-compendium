@@ -81,5 +81,7 @@
    "from": "worker-w1ac-1025b",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T01:55:35+00:00"
 }
