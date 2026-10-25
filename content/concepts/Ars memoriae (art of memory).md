@@ -13,7 +13,7 @@ The art of memory is a trained method for holding facts in mind by placing image
 
 ### What the story argues
 
-Cicero frames the discovery as a truth about order rather than about imagery: "the best aid to clearness of memory consists in orderly arrangement" (same page). The places supply sequence, the images supply content, and the two together act as tablet and letters. I pair the method with modern retrieval practice rather than treating it as a curiosity: both claim that memory improves when the act of remembering is given structure.
+Cicero frames the discovery as a truth about order rather than about imagery: "the best aid to clearness of memory consists in orderly arrangement" (same page). The places supply sequence, the images supply content, and the two together act as tablet and letters. The Simonides story is therefore not an anecdote about a clever poet but a claim about what made the identification possible: the seating was already an arrangement, and the arrangement was what was left to work with. I pair the method with modern retrieval practice rather than treating it as a curiosity: both claim that memory improves when the act of remembering is given structure, and both put the structure in before the remembering rather than after it.
 
 ## Related concepts
 
