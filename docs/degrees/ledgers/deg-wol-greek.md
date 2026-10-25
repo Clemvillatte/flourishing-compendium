@@ -106,3 +106,26 @@ Appended after advisor round 2; earlier entries above stand as history.
   for the optional reflection), plus the layer indexes; reader-facing word
   counts measured with front matter and markup excluded (4015 words of
   principles, 622 words of indexes).
+
+## Scope benchmark anchors (opened 2026-10-25T08:57Z)
+
+| URL | what it grounded |
+|---|---|
+| https://ocw.mit.edu/courses/24-200-ancient-philosophy-fall-2004/pages/calendar/ | MIT 24.200 lecture calendar: Socrates/Sophists, Socratic method, Plato (soul, forms, why be moral, justice, happiness), Aristotle (happiness, virtue, weakness of will, friendship, contemplation), Epicureanism (atomism, morality, death) |
+| https://summer.yale.edu/sites/default/files/uploaded-files/syllabi/phil-s125e-updated.pdf | Yale PHIL S125E syllabus (2024): pre-Socratics, Sophists, Socrates, Plato dialogues, Aristotle (NE, De Anima, Physics), Epicurus, Seneca; themes include the good life, why be good, knowledge, nature |
+| https://bulletin.stanford.edu/courses/1221561 (search result opened 2026-10-25) | Stanford PHIL100 description: Plato, Aristotle, Hellenistic schools (Epicureans, Stoics, Skeptics) |
+
+## Coverage matrix (draft for the scope gate; module columns filled as modules are rebuilt)
+
+| Topic (anchor-grounded) | Status | Taught in / practised in / assessed in |
+|---|---|---|
+| Socrates and the examined life; Socratic method | essential | mod-phil-1 (partial, definitions) ; dedicated module pending harvest of legacy mod-phil-1 material |
+| Plato's practical dialogues (why be moral, justice) | essential | module pending (legacy harvest + design) |
+| Aristotle: eudaimonia, virtue, phronesis, akrasia, friendship, contemplation | essential | mod-phil-1 rebuilt (eudaimonia, virtue, phronesis); akrasia, friendship, contemplation pending modules |
+| Deontology and consequentialism as comparison points | essential (service topic) | mod-phil-1 (SEP introductions, worked examples) |
+| Stoicism ancient and modern as lived practice | essential | module pending (legacy mod-phil-2 harvest) |
+| Epicureanism (morality, death) | essential | module pending (legacy mod-phil-3 harvest) |
+| Skepticism as practical rival | essential | module pending |
+| Cynics | elective | pending |
+| Pre-Socratics | open question | flagged to strategist/owner (all three anchors include them; scope excludes without stated reason) |
+| Formal logic; academic metaphysics/epistemology | excluded (reason stated in scope) | none |

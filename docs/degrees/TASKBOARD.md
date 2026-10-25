@@ -104,3 +104,12 @@ reference, unique source ids in brackets):
   strategist: EEMM socio-cultural and biophysiological levels as context
   material (owner decision); attentional and other dimension gaps on the
   ledger's gap register.
+- 2026-10-25 worker-pplx-greek-1 (round 2): advisor round 2 repairs applied to
+  mod-phil-1 (outcome 2 now assessed; SEP three-framework introduction;
+  AR-01 classified from the recording transcript; reader-facing workload
+  4h41m); module remains DRAFT NOT CLEARED pending advisor re-review.
+  Scope benchmarked against three opened curricula (MIT OCW 24.200, Yale
+  PHIL S125E, Stanford PHIL100); coverage matrix draft in the ledger. Flag
+  for strategist/owner: the anchors all include the pre-Socratics and the
+  scope excludes them without a stated reason (scope doc, benchmark
+  section).
