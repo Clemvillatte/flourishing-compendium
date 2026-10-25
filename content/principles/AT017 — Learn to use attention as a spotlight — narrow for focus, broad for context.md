@@ -20,9 +20,9 @@ And the narrowing result:
 
 > "In Experiment 2, negative emotions, relative to a neutral state, narrowed thought-action repertoires." ([Fredrickson & Branigan, 2005, same abstract](https://pubmed.ncbi.nlm.nih.gov/21852891/))
 
-The study is about emotional states: in the abstract, positive emotions broadened the scope of attention in Experiment 1, and negative emotions narrowed thought-action repertoires in Experiment 2. It is not a study of deliberate focus. My zoom practice — narrow to inspect a detail, broaden to inspect context — is an exercise, not a finding from this study.
+The study is about emotional states: in the abstract, positive emotions broadened the scope of attention in Experiment 1, and negative emotions narrowed thought-action repertoires in Experiment 2. It is not a study of deliberate focus. The zoom practice — narrow to inspect a detail, broaden to inspect context — is an exercise, not a finding from this study.
 
-**Plain words** The study found that emotional states move the scope of attention and thought: positive emotions broadened it in one experiment, and negative emotions narrowed thought-action repertoires in another. The zoom practice takes that as a hint, not a proof: when you need a detail, narrow; when you need the context, broaden. The study does not test whether deliberately doing this works.
+**Plain words** Attention has a width, and the width is adjustable. Get close and one detail fills the view; step back and the detail takes its place among its surroundings. Most people let mood set the width for them: fear pulls it tight, cheer widens it. The skill here is setting it yourself, on purpose. Tight when the letterforms matter, wide when the page does. The catch is that neither width is the right one to live in, and the practice is the switching.
 
 *For example:* (Imagined case.) A proofreader reads a document letter by letter and misses that the header names the wrong client. The exercise is to schedule the zoom out: before the final pass, one look at the whole page, header included.
 
