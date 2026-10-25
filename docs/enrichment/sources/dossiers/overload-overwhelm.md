@@ -96,3 +96,12 @@ the ledger, not the page (customer-facing rule). The same card's
 Checks: dossier_check.py exit 0 re-run this pass (39 card links, 0
 unresolved). Internal fidelity only; factual accuracy of card contents
 rests on the cards' own carrier records.
+
+## Sweep attestation correction (2026-10-25, worker-p1y-0e136, advisor QC)
+
+The card-fidelity entry above over-claimed: the card comparison printed
+the card body's first 1000-1300 characters, not the full cards. The
+glosses were compared against those extracts only. The verbatim-quote
+verifications stand as written (those passages were read in full from the
+opened carriers). The full-card comparison is being completed this
+session; this entry will be superseded by its result.
