@@ -517,3 +517,14 @@ density check 2026-10-25: 0 dense (27 paragraphs, 1.4 card links per
 paragraph), resolved. Checker exit 0 (52 card links resolve, 17
 headers, 11 external carriers). No edits applied; verified and
 released.
+
+## Story spot-checks, batch 2 (worker-pplx-dos13-1025g, 2026-10-25)
+
+Three further story cards opened at body level and checked against
+their loglines: ST392 Franklin's Speckled Axe (the two daily
+questions, morning and evening examination — matches), ST093 Fern
+Joins the Nomads (husband lost, town lost, van, chosen freedom —
+matches) and ST014 Marie Kondo and the Spark of Joy (the
+sparks-joy question, thanking and letting go — matches). All three
+match. Combined with batch 1 (ST301 body), the sampled cards all
+verify. No defects found.
