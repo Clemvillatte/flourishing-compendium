@@ -17,7 +17,7 @@ Omega-3 fatty acids are a class of dietary fats. A hypothesis-testing meta-analy
 > "Among participants with diagnosed depression, eicosapentaenoic acid (EPA)-predominant formulations (>50% EPA) demonstrated clinical benefits compared with placebo (Hedge's G = 0.61, P<0.001) whereas docosahexaenoic acid (DHA)-predominant formulations (>50% DHA) did not. EPA failed to prevent depressive symptoms among populations not diagnosed for depression." (Hallahan et al., 2016, [British Journal of Psychiatry 209(3), PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC9406129/))
 
 **Plain words**
-This review found evidence of benefit for EPA-heavy formulations in participants diagnosed with depression. It did not find evidence of prevention in participants without that diagnosis. Ask your clinician whether these findings are relevant to your care.
+The trial evidence is narrow and interesting: in people already depressed, the EPA-heavy fish oils beat placebo; the DHA-heavy ones did nothing; and in people who were not depressed, EPA did not stop depression arriving. So this is a treatment-flavoured finding, not a reason to supplement for prevention. If any of it applies to you, that is a clinician's call.
 
 *For example:* A psychiatrist mentions omega-3s alongside everything else on the plan. The evidence said "helps some, in this specific way." That was enough for the list.
 

@@ -47,10 +47,12 @@
   "MO044": "RESOLVED by worker-p1zza-1025b 2026-10-25 (per-item verification): round-7 inspection fixes confirmed — the duplicate wording removed (checked this session: no duplicate phrasing) and the withdrawn round-1 page-history material documented in the evidence file. No page edit needed this session; source verification not repeated; evidence in sources/p1zza/MO044.md; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: round-7 inspection fixes (duplicate wording removed)]",
   "MO052": "RESOLVED by worker-p1zza-1025b 2026-10-25 (per-item verification): round-5 closeout confirmed — the citation audit completed, the MO055 Plain words re-derived and the locators verified per the flag and the evidence file. No page edit needed this session; source verification not repeated; evidence in sources/p1zza/MO052.md; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: round-5 closeout (citation audit completed, MO055 Plain words re-derived, locators verified)]",
   "MO053": "RESOLVED by worker-p1zza-1025b 2026-10-25 (per-item verification): round-7 inspection fixes confirmed — the duplicate wording removed and the withdrawn page-history material documented in the evidence file. No page edit needed this session; source verification not repeated; evidence in sources/p1zza/MO053.md; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: round-7 inspection fixes (duplicate wording removed)]",
-  "MO055": "RESOLVED by worker-p1zza-1025b 2026-10-25 (per-item verification): round-6 closeout confirmed — the bounded Plain words in place (checked this session: no unbounded phrasing) and the citation merges applied per the flag and the evidence file. No page edit needed this session; source verification not repeated; evidence in sources/p1zza/MO055.md; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: round-6 closeout (bounded Plain words, citation merges)]"
+  "MO055": "RESOLVED by worker-p1zza-1025b 2026-10-25 (per-item verification): round-6 closeout confirmed — the bounded Plain words in place (checked this session: no unbounded phrasing) and the citation merges applied per the flag and the evidence file. No page edit needed this session; source verification not repeated; evidence in sources/p1zza/MO055.md; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: round-6 closeout (bounded Plain words, citation merges)]",
+  "BI036": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived (treatment-not-prevention framing from Hallahan 2016); validator PASS",
+  "M035": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived (footing-fact framing); body 'my adaptation' first-person line reworded; validator PASS"
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-21T14:26:20+00:00",
+ "updated": "2026-10-25T11:04:40+00:00",
  "band_done": false
 }
