@@ -12,15 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 150** — Balance the emotions to protect the body
 
-The Neiye, the oldest Daoist text on inner cultivation, is the primary source for this principle, and its instruction is physiological rather than moral. Chapter 15 of the Neiye advises: "There is nothing that is not made by the mind. Worry makes the heart sad; joy makes the heart loose; anger makes the heart fixed... the body is harmed" ([Neiye, translation in Harold Roth, The Textual History of the Huainanzi, and the [[Yangsheng (cultivating vitality)|yangsheng]] tradition is accessible via Wikipedia's Neiye page](https://en.wikipedia.org/wiki/Neiye)). The claim is that specific emotional states damage specific functions; regulation is not about being calm for its own sake, but about not keeping the body in a state it cannot sustain.
+The *Neiye* ("Inward Training") is an early text of Daoist inner cultivation that Harold Roth dates no later than the mid-fourth century BCE, and it ties emotion to the body in plain terms. It sits at the root of the [[Yangsheng (cultivating vitality)|yangsheng]] tradition of nurturing life. In Roth's translation, one verse reads:
 
-Later Chinese medical and yangsheng traditions extend the same point into a full system: emotions map to organs — grief to the lungs, fear to the kidneys, anger to the liver — and the chronic emotion you feed is the organ you are billing later ([Yangsheng tradition, Livia Kohn, Chinese Healing Exercises](https://terebess.hu/daoism/kohn.html)). The body keeps the receipts the mouth never speaks.
+> "Worry and grief generate illness. When illness reaches a distressing degree, you die. When you think about something and don't let go of it, Internally you will be distressed, externally you will be weak." (*Neiye*, verse XX, trans. Harold D. Roth, *Original Tao*, 1999)
 
-> "Worry makes the heart sad; joy makes the heart loose; anger makes the heart fixed. The body is harmed." (Neiye, ch. 15, translation in [Roth and accessible via Wikipedia](https://en.wikipedia.org/wiki/Neiye))
+Another verse names what happens to the person who is pulled around by feeling:
 
-**Plain words** Every feeling is a physiological event, and the chronic ones are cumulative. The years of suppressed anger do not disappear; they get stored somewhere, and the somewhere has a name in a few years. Emotional regulation is not a wellness practice attached to your health; it is preventive medicine, and the reason is not spiritual — it is that the body has been running the same stress chemistry for years without a break.
+> "When anxious, you lose this guiding thread; When angry, you lose this basic point. When you are anxious or sad, pleased or angry, the Way has no place within you to settle." (*Neiye*, verse XXV, trans. Roth)
 
-*For example:* Two people go through the same difficult decade. One processes the emotions as they arise — the anger is named, expressed, and does not accumulate. The other suppresses everything for productivity reasons; the decade ends with a diagnosis that surprises no one who knew what was being suppressed. Same decade; only one of them was doing preventive medicine.
+Pleasure is on that list too, so the text is not asking for gloom. The remedy it gives is a plan to keep joy and anger within limits: "When joy and anger are not limited, you should make a plan [to limit them]" (verse XXI). The same verse describes the aim as breath that is "balanced and aligned", filling the chest.
+
+Later Chinese medicine carried the idea further. The *Basic Questions* (Suwen), chapter 5, pairs emotions with organs and with each other: "Anger hurts the liver; sadness overcomes anger", "Joy hurts the heart; fear overcomes joy", and so on through worry and the lung, fear and the kidney ([Emotion-focused therapy from a traditional Chinese medicine perspective, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC13268651/), quoting the Suwen).
+
+**Plain words** Two old Chinese traditions treat strong feeling as something that affects the body, and they advise keeping it within limits. The *Neiye* says prolonged worry and grief can make a person ill. It gives no timetable and no mechanism, so this page treats it as a classical claim about health and as a prompt to notice how long you carry a feeling.
+
+*For example:* Imagine someone who notices that after every tense week they sleep badly and snap at people. They start writing down what the tension was about on Friday afternoon, and after a month they look at whether the pattern has changed. This is my illustration, not a medical claim.
+
+## Sources
+
+- [Harold D. Roth, Original Tao: Inward Training (Nei-yeh) and the Foundations of Taoist Mysticism (Columbia University Press, 1999), Internet Archive full text](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt): verses XX, XXI and XXV, and the dating.
+- [Emotion-focused therapy: a perspective from traditional Chinese medicine, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC13268651/): the Basic Questions lines on emotion and organ.
 
 ## Psychology parallels
 

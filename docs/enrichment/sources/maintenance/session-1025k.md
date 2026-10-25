@@ -20,3 +20,7 @@
 ## B120 Experience is five streams
 - Carrier opened: SN 22.59 (Thanissaro) accesstoinsight sn22.059.than.html. Control argument ("If form were the self...Let this form be thus"), question run, closing instruction and disenchantment passage verified verbatim.
 - Repair: the page omitted the sutta's control argument; added. Removed "The teaching says experience happens...none is its owner" gloss and the conductor metaphor (not in text). Sunset mapping kept as labelled illustration (form/feeling/perception/fabrications/consciousness). Fixed run-together parallels line.
+
+## D150 Balance the emotions to protect the body
+- Carriers opened: Roth, Original Tao (archive.org djvu text): verses XX, XXI, XXV verified verbatim; dating (mid-fourth century at latest) from same book. Suwen ch. 5 lines from PMC13268651 (search excerpt, quoting Annotations on Basic Questions).
+- Repair: the old "Neiye ch. 15: There is nothing that is not made by the mind. Worry makes the heart sad..." quote is NOT in Roth's text or in any other translation checked (Rickett/Eno/Roth variants); removed. Old Kohn "organs billing later" line removed (page not opened). AI scaffolds, "stored somewhere" and "stress chemistry" claims removed.
