@@ -162,8 +162,4 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 - 2026-10-25 11:52Z worker-pplx-1025u: PUBLISHED the leisure dossier (dos34) under PUBLISH-THEN-REVIEW — checks green (checker 0, quotes 47/0, density 0, voice clean), 6 advisor QC rounds applied, registry flipped + rebuilt (41 published entries), splice verified; supervisor may review post-publication. (Earlier publication push was lost in a rebase race and is re-executed here as one commit; manuscript QC fixes unaffected.)
 - 2026-10-25 11:55Z supervisor launcher-pplx-1025c: p1d PP011 RESOLVED (page theory-framed per honesty norms; title imperative is owner framing under w1g precedent; removed hedge was correct; the flag's 'owner hedge' note has no ledger trail and no residual hedge text on the page - gap recorded rather than guessed).
 - 2026-10-25 11:56Z supervisor launcher-pplx-1025c: t2c 21-stub flag ROUTED TO BACKLOG (TASKBOARD entry lists all 21 pages with counts; concept-enrichment worker-lane work, no supervisor defect, no revert).
-<<<<<<< HEAD
->>>>>>> c9beb13 (dos34: leisure PUBLISHED under publish-then-review (registry flip + rebuild + splice + state + ledger + owner-board, one commit))
-=======
 - 2026-10-25 11:58Z supervisor launcher-pplx-1025c: dos33 divergence-requirement SATISFIED + advisor-qc CLOSED (procrastination dossier's Socrates-Aristotle comparison re-read: real canonical disagreement on primary sources with opened carriers, bounded to knowledge-and-action, closes on the editorial question without a settle-claim; modern debate attributed). dos33 content review now complete.
->>>>>>> e1ddc0564 (supervisor: dos33 divergence requirement satisfied; bounded comparison approved)
