@@ -91,7 +91,8 @@ round; batch 3: Noba and recency round; batch 4: gap-family round).
 ## Verification outcomes
 
 No sources are attached to modules yet (module production has not started;
-advisor review of the matrix is the gate before that, and the Phase 0 pilot
+the matrix has been through advisor review rounds 1 to 7, but the coverage
+gate still awaits independent confirmation, and the Phase 0 pilot
 stop-gate in README.md blocks full-degree production until the pilots pass
 independent review). One candidate was rejected during the source strategy:
 
