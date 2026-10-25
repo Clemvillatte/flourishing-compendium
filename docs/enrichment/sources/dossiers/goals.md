@@ -116,3 +116,38 @@ evidence does not test (K153, K154, K182), which the dossier's
 Selection section covers with the standing cards-carry-their-own-
 evidence-notes caveat. Internal fidelity only; factual accuracy of
 card contents rests on the cards' own carrier records.
+
+## GF-model rewrite (revision 4, 2026-10-25, worker-pplx-b65d2ee8)
+
+The dossier was rewritten from the retired map format into the validated
+GF model (DOSSIER-MODEL.md, owner validation 2026-10-25): one continuous
+thread, first person where a judgment is made, `###` movements of
+argument, the map section dissolved into flowing prose. All 36 concept
+card links, 6 kernel links and 4 story links were carried over; every
+gloss was recast in new words and kept card-faithful (the full-card
+sweep of 2026-10-25 stands behind the claims, including the qualified
+extrinsic-aspirations form). The two existing divergences were kept
+verbatim-verified; a third divergence (Is the outcome yours to commit
+to?) was added with a freshly opened carrier.
+
+Carriers opened and re-verified verbatim THIS session (2026-10-25
+~02:15Z): Locke & Latham 2006 (nj.gov PDF) — the specific-hard-goals
+sentence and the "so long as a person is committed" condition, both
+exact; Wrosch et al. 2007 (Concordia PDF) — the disengagement sentence,
+exact; Ntoumanis et al. (PMC4104823) — all three quoted abstract
+sentences, exact; Gollwitzer & Sheeran 2006 (Konstanz record) — the
+d = .65 sentence, exact; Epictetus, Enchiridion 1 (Carter translation,
+MIT Classics) — NEW carrier for divergence 3, the "Things in our control
+are opinion, pursuit, desire, aversion" sentence, exact.
+
+Reader test done (read end to end): removed two unverified flourishes
+("stable enough to anchor decades of applied work", "among the most
+replicated in the field"), two not-X-but-Y scaffolds, an exemplar-echoing
+story intro, and one over-claim about health evidence. Voice audit:
+2 rather-than lines, both legitimate comparisons retained after review.
+
+dossier_check.py exit 0 (52 card links, 16 headers, 6 external
+carriers). Registry status unchanged (published); the supervisor should
+run `python3 scripts/dossier_registry_build.py --rebuild=goals` to
+refresh the Academy view data from the rewritten markdown — FLAGGED FOR
+SUPERVISOR in the commit message.

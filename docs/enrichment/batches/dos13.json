@@ -1,5 +1,7 @@
 {
  "batch": "dos13",
- "done": ["goals"],
- "note": "minted 2026-10-24; one dossier per band; see bands/dos13-manifest.json"
+ "done": [
+  "goals"
+ ],
+ "note": "minted 2026-10-24; one dossier per band; see bands/dos13-manifest.json. 2026-10-25: goals rewritten into the GF model (revision 4) by worker-pplx-b65d2ee8 — checker exit 0, carriers re-verified, ledger updated. Registry stays published; supervisor to run dossier_registry_build.py --rebuild=goals."
 }

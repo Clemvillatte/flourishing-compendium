@@ -2,111 +2,61 @@
 
 > How does a person pursue what matters, and know when to hold on or let go?
 
-A goal is a promise a person makes to a future self, and the promise can serve the life or quietly run it. The research on goal pursuit is unusually practical: what makes goals motivating, what makes them attainable, and what makes their attainment hollow. The classical traditions add the question the science tends to leave alone, whether the aim is worth wanting in the first place, and how to loosen the grip when the aim stops serving the life.
+A goal is a promise made to a future self, and the promise can serve a life or quietly run it. I keep two questions in view whenever I take on an aim: is this worth wanting, and does the way I hold it help or hinder the life around it. The research on goal pursuit is unusually practical. It says what makes aims motivating, what makes them attainable, and what makes their attainment hollow.
+
+The classical traditions add what the science tends to leave alone: whether the aim deserves the wanting, and how to loosen the grip when the aim stops serving the life. Stoic teaching puts the pursuit itself inside a person's control and the outcome outside it, which changes what commitment is for. I want an account of goals that survives contact with failure, because most aims, somewhere on the way, fail.
 
 ### Nearby terms
 
-Motivation: why a person acts is held in the Motivation dossier; this page holds what they aim at and how they steer toward it.
+- [Intrinsic motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Intrinsic%20motivation): the why of action is the Motivation dossier's question, carried by cards like this one; this page holds what a person aims at and how they steer toward it.
 
-Purpose: held under its own group below, as the aim that outlasts any single goal.
+- [Purpose](https://clemvillatte.github.io/flourishing-compendium/#card=Purpose): an aim or reason for carrying on that outlasts any single goal, so a purpose can survive the death of a particular aim.
 
-Commitment: held under the commitment cards below; weakness of will and commitment devices belong with Decision-Making.
+- [Commitment](https://clemvillatte.github.io/flourishing-compendium/#card=Commitment): the intent to persist, studied close up in relationships and in therapy's committed action; the tricks for keeping resolutions belong with Decision-Making.
 
-## The map: the entries on goals
+- [Self-regulation](https://clemvillatte.github.io/flourishing-compendium/#card=Self-regulation): the machinery underneath, guiding behaviour with feedback about progress; goals are the reference points that machinery steers toward.
 
-### Setting goals
+## What aims do to a life
 
-[Goal setting theory (Locke & Latham)](https://clemvillatte.github.io/flourishing-compendium/#card=Goal%20setting%20theory%20%28Locke%20%26%20Latham%29): specific, difficult goals produce better performance than vague or easy goals.
+### The engineering of aims
 
-[Achievement goal theory (Dweck, Elliot)](https://clemvillatte.github.io/flourishing-compendium/#card=Achievement%20goal%20theory%20%28Dweck%2C%20Elliot%29): the framework that asks which goal a person adopts in an achievement situation.
+Most of what makes an aim work has been mapped. [Goal setting theory (Locke & Latham)](https://clemvillatte.github.io/flourishing-compendium/#card=Goal%20setting%20theory%20%28Locke%20%26%20Latham%29) found that specific, difficult goals produce better performance than vague or easy ones. [Achievement goal theory (Dweck, Elliot)](https://clemvillatte.github.io/flourishing-compendium/#card=Achievement%20goal%20theory%20%28Dweck%2C%20Elliot%29) moved the question one step back, asking which goal a person adopts in an achievement situation, since the adopted aim changes what success even means. [Achievement motivation theory](https://clemvillatte.github.io/flourishing-compendium/#card=Achievement%20motivation%20theory), the McClelland and Atkinson account, explains achievement behaviour as arising in situations with a standard of excellence. Read together, these theories treat the aim as an instrument: chosen well, it organises effort rather than naming a wish.
 
-[Achievement motivation theory](https://clemvillatte.github.io/flourishing-compendium/#card=Achievement%20motivation%20theory): the McClelland and Atkinson account of achievement behaviour in situations with a standard of excellence.
+The instrument then outgrows single pursuits. [Superordinate goals](https://clemvillatte.github.io/flourishing-compendium/#card=Superordinate%20goals), the remedy demonstrated in the Robbers Cave experiment, are aims that outrank a rivalry and cannot be met by one side alone. [Personal projects](https://clemvillatte.github.io/flourishing-compendium/#card=Personal%20projects), Brian Little's unit of analysis for personality, widen the lens to the extended pursuit a person actually cares about. A life holds many aims at once, and the shape of that collection is itself a choice.
 
-[Superordinate goals](https://clemvillatte.github.io/flourishing-compendium/#card=Superordinate%20goals): the remedy for intergroup hostility in the Robbers Cave experiment: goals that outrank the rivalry and cannot be met by one side alone.
+### Which aims deserve the wanting
 
-[Personal projects](https://clemvillatte.github.io/flourishing-compendium/#card=Personal%20projects): Brian Little's unit of analysis for personality: the extended pursuit.
+The content of an aim and its fit to the person both matter. On content, [intrinsic versus extrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Intrinsic%20versus%20extrinsic%20goals) is the standing distinction: intrinsic goals predict well-being. [Eudaimonic motivation, intrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20motivation%2C%20intrinsic%20goals) sorts goals into these two kinds with different consequences, and [extrinsic aspirations](https://clemvillatte.github.io/flourishing-compendium/#card=Extrinsic%20aspirations) carries the harder finding, stated carefully: one longitudinal study found their attainment brought no benefit and some links to ill-being. The [aspiration index](https://clemvillatte.github.io/flourishing-compendium/#card=Aspiration%20index) is the instrument that asks what people actually want, how likely they think success is, and how much they have attained.
 
-### Which goals are worth having
+On fit, a goal is [self-concordant](https://clemvillatte.github.io/flourishing-compendium/#card=Self-concordant%20goals) when it is consistent with the person's developing interests and core values, and such goals are pursued with more sustained [effort over time](https://clemvillatte.github.io/flourishing-compendium/#card=Self-concordant%20goal%20pursuit%20over%20time). [Values-concordant goals](https://clemvillatte.github.io/flourishing-compendium/#card=Values-concordant%20goals) name the same match from the values side. Even a fitting aim can be held too tightly: [the paradox of valuing a goal excessively](https://clemvillatte.github.io/flourishing-compendium/#card=The%20paradox%20of%20valuing%20a%20goal%20excessively) is that wanting something too much can cost the very thing wanted.
 
-[Intrinsic versus extrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Intrinsic%20versus%20extrinsic%20goals): intrinsic goals predict well-being.
+### From aim to action
 
-[Eudaimonic motivation, intrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20motivation%2C%20intrinsic%20goals): goals sort into two kinds with different well-being consequences.
+Steering is a separate skill from choosing. [Self-regulation](https://clemvillatte.github.io/flourishing-compendium/#card=Self-regulation) guides behaviour toward goals using feedback about current progress. Its engineering versions make the loop explicit: [control theory of self-regulation](https://clemvillatte.github.io/flourishing-compendium/#card=Control%20theory%20of%20self-regulation) has behaviour governed by feedback loops comparing current state to goals, [behavioral self-regulation theory](https://clemvillatte.github.io/flourishing-compendium/#card=Behavioral%20self-regulation%20theory) treats goals as reference values with a comparator measuring the gap, and [goal-directed behavior theory](https://clemvillatte.github.io/flourishing-compendium/#card=Goal-directed%20behavior%20theory) sets two tests an action must pass to count as goal-directed at all.
 
-[Extrinsic aspirations](https://clemvillatte.github.io/flourishing-compendium/#card=Extrinsic%20aspirations): wealth, fame and image goals correlate with lower well-being, and one longitudinal study found their attainment brought no benefit and some links to ill-being.
+The practical translations follow directly. [Implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=Implementation%20intentions) are if-then plans that link a critical situation to a goal-directed response, and their scheduled cousin, [weekly-review implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=Weekly-review%20implementation%20intentions), puts the reflection on the calendar. [WOOP](https://clemvillatte.github.io/flourishing-compendium/#card=WOOP%20%28Wish%2C%20Outcome%2C%20Obstacle%2C%20Plan%29), Gabriele Oettingen's four steps, pairs the wish with the obstacle before the plan. Under uncertainty, [plan-then-adapt strategies outperform rigid plans](https://clemvillatte.github.io/flourishing-compendium/#card=Plan-then-adapt%20strategies%20outperform%20rigid%20plans), a finding worth setting against the [planning fallacy](https://clemvillatte.github.io/flourishing-compendium/#card=Planning%20fallacy), the confident belief that a project will run as planned. Two further levers complete the kit: [the progress principle](https://clemvillatte.github.io/flourishing-compendium/#card=The%20progress%20principle), Amabile and Kramer's finding from knowledge workers' diaries that visible progress feeds a positive inner work life, and [stimulus control theory](https://clemvillatte.github.io/flourishing-compendium/#card=Stimulus%20control%20theory), arranging cues so the target behaviour occurs in their presence. None of these is one-size-fits-all: [situation-sensitivity in self-regulation](https://clemvillatte.github.io/flourishing-compendium/#card=Situation-sensitivity%20in%20self-regulation) is the research on matching strategy to context.
 
-[Aspiration index](https://clemvillatte.github.io/flourishing-compendium/#card=Aspiration%20index): assesses people's life goals.
+### When aims collide
 
-[Self-concordant goals](https://clemvillatte.github.io/flourishing-compendium/#card=Self-concordant%20goals): a goal is self-concordant when it is consistent with the person's developing interests and core values.
+Aims can fail from the outside or from each other. [Goal conflict research](https://clemvillatte.github.io/flourishing-compendium/#card=Goal%20conflict%20research) examines what happens when a person's own goals work against each other, and the interference goes beyond the practical: [unresolved-goal interference](https://clemvillatte.github.io/flourishing-compendium/#card=Unresolved-goal%20interference) is the attentional load open goals keep charging while they stay open. The failure mode with the longest history is [escalation of commitment](https://clemvillatte.github.io/flourishing-compendium/#card=Escalation%20of%20commitment), the tendency to keep investing in a course of action that is going badly. Each of these names a way that staying the course can be the problem rather than the solution, which raises the question of when leaving is the better skill.
 
-[Self-concordant goal pursuit over time](https://clemvillatte.github.io/flourishing-compendium/#card=Self-concordant%20goal%20pursuit%20over%20time): goals that fit a person's developing interests and core values are pursued with more sustained effort.
+### Letting go as a skill
 
-[Values-concordant goals](https://clemvillatte.github.io/flourishing-compendium/#card=Values-concordant%20goals): goals that match the person pursuing them.
+The research on exit is as developed as the research on entry. [Goal disengagement](https://clemvillatte.github.io/flourishing-compendium/#card=Goal%20disengagement) is withdrawing effort and commitment from a goal that cannot be reached. [Goal adjustment capacity](https://clemvillatte.github.io/flourishing-compendium/#card=Goal%20adjustment%20capacity) is the broader ability, to let go of an aim that has become unattainable and take up another. The health evidence behind letting go is serious enough that persistence cannot simply be the default answer, and the disagreement section below gives it a full hearing.
 
-[The paradox of valuing a goal excessively](https://clemvillatte.github.io/flourishing-compendium/#card=The%20paradox%20of%20valuing%20a%20goal%20excessively): wanting something too much can cost the very thing wanted.
+### What a commitment is, and what it serves
 
-### Steering toward the goal
+Underneath holding and letting go sits commitment itself. In relationship research, [commitment](https://clemvillatte.github.io/flourishing-compendium/#card=Commitment) is the intent to persist. [Action commitment](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20commitment) is the therapy-world label for what Acceptance and Commitment Therapy calls committed action, and [approach-oriented commitment research](https://clemvillatte.github.io/flourishing-compendium/#card=Approach-oriented%20commitment%20research) studies experimentally what commitments are made of. [Commitment-consistency dynamics](https://clemvillatte.github.io/flourishing-compendium/#card=Commitment-consistency%20dynamics), Cialdini's principle, warns the other way: people tend to behave in line with their previous actions and obligations, which makes an old commitment a quiet driver of present behaviour.
 
-[Self-regulation](https://clemvillatte.github.io/flourishing-compendium/#card=Self-regulation): guiding behavior toward goals using feedback about current progress.
-
-[Control theory of self-regulation](https://clemvillatte.github.io/flourishing-compendium/#card=Control%20theory%20of%20self-regulation): behaviour is governed by feedback loops comparing current state to goals.
-
-[Behavioral self-regulation theory](https://clemvillatte.github.io/flourishing-compendium/#card=Behavioral%20self-regulation%20theory): goals act as reference values and a comparator measures the gap.
-
-[Goal-directed behavior theory](https://clemvillatte.github.io/flourishing-compendium/#card=Goal-directed%20behavior%20theory): an action counts as goal-directed only when it meets two tests.
-
-[Implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=Implementation%20intentions): if-then plans that link a critical situation to a goal-directed response.
-
-[Weekly-review implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=Weekly-review%20implementation%20intentions): the evidence for scheduled reflection and if-then planning.
-
-[WOOP (Wish, Outcome, Obstacle, Plan)](https://clemvillatte.github.io/flourishing-compendium/#card=WOOP%20%28Wish%2C%20Outcome%2C%20Obstacle%2C%20Plan%29): a four-step goal strategy developed by Gabriele Oettingen.
-
-[Plan-then-adapt strategies outperform rigid plans](https://clemvillatte.github.io/flourishing-compendium/#card=Plan-then-adapt%20strategies%20outperform%20rigid%20plans): plans with built-in adaptation outperform rigid plans under uncertainty.
-
-[Planning fallacy](https://clemvillatte.github.io/flourishing-compendium/#card=Planning%20fallacy): the confident belief that your project will run as planned.
-
-[The progress principle](https://clemvillatte.github.io/flourishing-compendium/#card=The%20progress%20principle): Amabile and Kramer's analysis of knowledge workers' diaries on what contributes to a positive inner work life.
-
-[Stimulus control theory](https://clemvillatte.github.io/flourishing-compendium/#card=Stimulus%20control%20theory): arranging environmental cues so that a target behavior occurs in their presence.
-
-[Situation-sensitivity in self-regulation](https://clemvillatte.github.io/flourishing-compendium/#card=Situation-sensitivity%20in%20self-regulation): the research on matching regulatory strategy to context.
-
-### When goals collide or fail
-
-[Goal conflict research](https://clemvillatte.github.io/flourishing-compendium/#card=Goal%20conflict%20research): what happens when a person's own goals work against each other.
-
-[Unresolved-goal interference](https://clemvillatte.github.io/flourishing-compendium/#card=Unresolved-goal%20interference): the attentional load of open goals.
-
-[Goal disengagement](https://clemvillatte.github.io/flourishing-compendium/#card=Goal%20disengagement): withdrawing effort and commitment from a goal that cannot be reached.
-
-[Goal adjustment capacity](https://clemvillatte.github.io/flourishing-compendium/#card=Goal%20adjustment%20capacity): the ability to let go of a goal that has become unattainable and to take up another.
-
-[Escalation of commitment](https://clemvillatte.github.io/flourishing-compendium/#card=Escalation%20of%20commitment): the tendency to keep investing in a course of action that is going badly.
-
-### Commitment and purpose
-
-[Commitment](https://clemvillatte.github.io/flourishing-compendium/#card=Commitment): in the relationship-research sense, the intent to persist in a relationship.
-
-[Action commitment](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20commitment): the label for what Acceptance and Commitment Therapy calls committed action.
-
-[Approach-oriented commitment research](https://clemvillatte.github.io/flourishing-compendium/#card=Approach-oriented%20commitment%20research): the experimental literature on what commitments are made of.
-
-[Commitment-consistency dynamics](https://clemvillatte.github.io/flourishing-compendium/#card=Commitment-consistency%20dynamics): Cialdini's principle that people tend to behave in line with their previous actions and obligations.
-
-[Purpose](https://clemvillatte.github.io/flourishing-compendium/#card=Purpose): an aim or reason for carrying on.
-
-[Purpose-linked practice](https://clemvillatte.github.io/flourishing-compendium/#card=Purpose-linked%20practice): the self-transcendent purpose line of research.
-
-[Project (projet)](https://clemvillatte.github.io/flourishing-compendium/#card=Project%20%28projet%29): for Sartre, a throwing of oneself toward an end.
-
-[Projection (Entwurf)](https://clemvillatte.github.io/flourishing-compendium/#card=Projection%20%28Entwurf%29): Heidegger's throwing of Dasein ahead of itself onto its own possibilities.
+Above single aims sits purpose. [Purpose](https://clemvillatte.github.io/flourishing-compendium/#card=Purpose) is an aim or reason for carrying on, and [purpose-linked practice](https://clemvillatte.github.io/flourishing-compendium/#card=Purpose-linked%20practice) follows the self-transcendent purpose line of research. The existentialists give the structure a sharper edge: Sartre's [project (projet)](https://clemvillatte.github.io/flourishing-compendium/#card=Project%20%28projet%29) is a throwing of oneself toward an end, and Heidegger's [projection (Entwurf)](https://clemvillatte.github.io/flourishing-compendium/#card=Projection%20%28Entwurf%29) throws Dasein ahead of itself onto its own possibilities. On both accounts, having an aim is never a neutral fact; in pursuing it, the person is at stake.
 
 ## Where the traditions genuinely disagree
 
 ### Push higher, or let go?
 
-The shared question: when a goal is hard, is the right move to keep raising effort or to stop? Locke and Latham's summary of the goal-setting evidence supports pushing:
+When a goal is hard, is the right move to keep raising effort or to stop? Locke and Latham's summary of the goal-setting evidence supports pushing:
 
-> "specific, high (hard) goals lead to a higher level of task performance than do easy goals or vague, abstract goals such as the exhortation to ‘‘do one's best.’’" ([Locke and Latham, Current Directions in Psychological Science 2006](https://www.nj.gov/highereducation/documents/pdf/NewAdvancesinGoalSettingTheory-Locke_Latham2006.pdf))
+> "specific, high (hard) goals lead to a higher level of task performance than do easy goals or vague, abstract goals such as the exhortation to ''do one's best.''" ([Locke and Latham, Current Directions in Psychological Science 2006](https://www.nj.gov/highereducation/documents/pdf/NewAdvancesinGoalSettingTheory-Locke_Latham2006.pdf))
 
 They add a condition that matters here: the pattern holds "so long as a person is committed to the goal, has the requisite ability to attain it, and does not have conflicting goals". The research on goal disengagement answers from the other side:
 
@@ -116,7 +66,7 @@ The two answers describe different situations. The first applies while a goal is
 
 ### Does owning a goal help, or make it harder to leave?
 
-The shared question: if a goal expresses who you are, does that help you through failure? A study of autonomous and controlled motives found both effects:
+If a goal expresses who you are, does that help you through failure? A study of autonomous and controlled motives found both effects:
 
 > "Autonomous motives positively predicted the cognitive ease of reengagement with an alternative goal when the current goal was perceived as unattainable, especially when participants realized goal unattainability relatively early during goal striving." ([Self-regulatory responses to unattainable goals, PMC abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104823/))
 
@@ -124,11 +74,19 @@ The shared question: if a goal expresses who you are, does that help you through
 
 The abstract's own summary is that "when faced with failure, autonomously motivated individuals are better off realizing early the goal unattainability." So the preference for self-concordant goals comes with a cost that a reader should know about: a goal that is truly yours is harder to put down.
 
-## Practice: variation, selection, retention
+### Is the outcome yours to commit to?
+
+The goal-setting evidence ties performance to committed, specific, difficult outcome goals. Stoic teaching draws the line somewhere else entirely, before the outcome:
+
+> "Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions." ([Epictetus, Enchiridion 1, Carter translation](https://classics.mit.edu/Epictetus/epicench.html))
+
+For Epictetus, pursuit is ours and attainment is not, so committing the self to the result is a structural mistake, not a motivational one. The disagreement turns on what the commitment is made of: on the research side, commitment to the outcome is what makes effort specific and difficult aims work; on the Stoic side, that same commitment hands the person's equanimity to fortune. I lean toward holding both truths at once, with the Stoic warning doing most of its work exactly where the goal-setting research says commitment matters most, in difficult aims that can fail without any fault in the effort.
+
+## Practice: choosing, steering, letting go
 
 ::Variation:: What tends to need varying is the form of the goal and the way it is held. The look-alikes of commitment are rigidity and a list of things to be seen to do. The adaptive moves are to plan the situation as well as the aim, to check whose goal it is, and to notice early when it is no longer reachable.
 
-::Selection:: The kernels I have selected as sources of that variation:
+::Selection:: The kernels selected as sources of that variation:
 
 1. [Implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=K153%20%E2%80%94%20Implementation%20intentions): formulate a specific if-then plan. A meta-analysis of 94 independent tests found that such plans had "a positive effect of medium-to-large magnitude (d= .65) on goal attainment" ([Gollwitzer and Sheeran 2006, University of Konstanz record](https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f))
 
@@ -146,9 +104,9 @@ The cards carry their own evidence notes. Several of these are proposals built o
 
 ::Retention:: Retention is what people keep because it works for them. A reader who keeps the if-then plan for the one hard moment of the week, or the monthly check on whose goal it is, has what the theme offered; what stays is a matter of fit between the practice and the life it enters.
 
-## Story: the stories that carry the theme
+## Story: aims, endings, beginnings
 
-The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
+Pursuit and release change shape once endings are in the picture. These stories hold both, without promising that the right choice is the same in every life.
 
 ### Which aims are worth having
 
