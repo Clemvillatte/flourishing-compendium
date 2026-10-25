@@ -342,13 +342,16 @@ still blocks module production.
   therapy half (Frankl, Yalom, May) is unanchored by these three and
   needs one opened therapy-anchored syllabus before sign-off;
   Positive — the criticism emphasis exceeds two of three anchors
-  (anchored by Warwick alone) and flow is a full unit in one anchor
-  (Penn) only. deg-wol-greek was already benchmarked by its owner
-  agent. Also delivered the strategist ruling the Greek scope left
-  open: the pre-Socratics stay excluded (natural philosophy, not
-  guides for living; elective branch if the owner wants them). All
-  Gate-1 sign-offs remain with the degree owner; the strategist holds
-  the groundwork complete for all six walk scopes.
+  (anchored by Warwick's critical-evaluation outcomes alone; no
+  anchor names a criticisms-of-the-field unit) and flow is a full unit
+  in one anchor (Penn) only. deg-wol-greek was already benchmarked by
+  its owner agent. Also delivered the strategist ruling the Greek
+  scope left open: the pre-Socratics stay excluded (a curricular
+  prioritization; elective branch if the owner wants them). All
+  Gate-1 sign-offs remain open: Gate 1 is the strategist's gate per
+  the curriculum-design skill (owner directives outrank it), and this
+  session delivers benchmark groundwork only — no gate was cleared or
+  signed this session.
 - 2026-10-25 strategist-pplx-1025-launch-c (gap closures): the two
   anchor gaps flagged in the benchmarks above were closed the same
   hour. Existentialism: two therapy-anchored syllabi opened (USFQ

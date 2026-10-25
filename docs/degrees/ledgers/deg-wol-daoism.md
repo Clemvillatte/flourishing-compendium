@@ -6,9 +6,11 @@ carries a UTC timestamp and the agent id.
 ## Sources opened
 
 | URL | opened (UTC) | by | what it verified |
-| https://courses.warwick.ac.uk/modules/2021/PH387-15 | 2026-10-25T11:26 | strategist-pplx-1025-launch-c | Warwick PH387-15 aims and full outline syllabus; philosophical/political Daoism, no religious content |
-| https://wabashcenter.wabash.edu/storage/assets/syllabi/Daoism-Fischer.pdf | 2026-10-25T11:26 | strategist-pplx-1025-launch-c | Wabash RELS 318 Fischer syllabus; philosophy core plus Celestial Master and Quanzhen religious Daoism |
-| https://languages.ufl.edu/wp-content/uploads/sites/119/Fall22_CHT3513_Wang.pdf | 2026-10-25T11:33 | strategist-pplx-1025-launch-c | UF CHT3513 Wang Fall 2022 syllabus; full-spectrum tradition, readings and assessment structure |
+| https://courses.warwick.ac.uk/modules/2021/PH387-15 | 2026-10-25, no later than 11:25 UTC | strategist-pplx-1025-launch-c | Warwick PH387-15 aims and full outline syllabus; philosophical/political Daoism, no religious content |
+| https://wabashcenter.wabash.edu/storage/assets/syllabi/Daoism-Fischer.pdf | 2026-10-25, no later than 11:25 UTC | strategist-pplx-1025-launch-c | Wabash RELS 318 Fischer syllabus; philosophy core plus Celestial Master and Quanzhen religious Daoism |
+| https://languages.ufl.edu/wp-content/uploads/sites/119/Fall22_CHT3513_Wang.pdf | 2026-10-25, no later than 11:25 UTC | strategist-pplx-1025-launch-c | UF CHT3513 Wang Fall 2022 syllabus; full-spectrum tradition, readings and assessment structure |
+
+Note: Timestamps in this table are upper bounds from this session's save pushes; exact fetch minutes were not recorded (archive-file mtimes are archive-write times, not open times).
 
 ## Verification outcomes
 
@@ -29,4 +31,4 @@ carries a UTC timestamp and the agent id.
 ## Gate decisions
 
 | gate | decision | by | date |
-| Gate 1 (scope benchmark) | groundwork done: three anchors opened, benchmark section written in docs/degrees/scope/deg-wol-daoism.md; awaiting owner sign-off | strategist-pplx-1025-launch-c | 2026-10-25 |
+| Gate 1 (scope benchmark) | groundwork done: three anchors opened, benchmark section written in docs/degrees/scope/deg-wol-daoism.md; Gate-1 sign-off not yet given (the strategist's gate per the curriculum-design skill; owner directives outrank it); groundwork only, no gate cleared | strategist-pplx-1025-launch-c | 2026-10-25 |

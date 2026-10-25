@@ -46,12 +46,12 @@ Anchors opened by the strategist, 2026-10-25 (ledger: docs/degrees/ledgers/deg-w
 
 Comparison:
 
-- Core alignment: all three anchors treat the Daodejing and Zhuangzi as the core; the scope's core-text focus matches. The Zhuangzi skill stories and wu wei appear at Warwick as philosophical themes, consistent with the scope's pattern-level items.
-- Deliberate exclusion: two of the three anchors (Wabash, UF) devote substantial teaching to religious/ritual Daoism, which this scope excludes under the owner rule (practical, pragmatic content). Recorded as an anchor challenge, not silently. The exclusion stands on the owner rule; the crossover cost is that the religious-ritual weeks are the only place the anchors teach the living Daoist clergy/monastic tradition — the walk substitutes the qigong practicum and the Neiye elective for the practice side.
+- Core alignment: all three anchors treat the Daodejing and Zhuangzi as the core; the scope's core-text focus matches. The Zhuangzi skill stories and wu wei appear at Warwick as philosophical themes, consistent with the scope's core-text and ethics coverage.
+- Deliberate exclusion: two of the three anchors (Wabash, UF) devote substantial teaching to religious Daoist ritual and liturgy (Celestial Master, Quanzhen monasticism, Thunder Rites, festivals) — which is what this scope excludes under the owner rule (practical, pragmatic content). The exclusion is narrower than religious Daoism wholesale: the scope's bounded domain still covers "the living tradition's practices", so non-ritual religious Daoist material is not excluded by this line. Recorded as an anchor challenge, not silently. The exclusion stands on the owner rule; the crossover cost is that the religious-ritual weeks are the only place the anchors teach the living Daoist clergy/monastic tradition — the walk substitutes the qigong practicum and the Neiye elective for the practice side.
 - Warwick's political-reading angle (Hanfeizi, the Art of War, environmental ethics) is absent from this scope. Left out: the walk is aimed at a life-practice learner, not a political-philosophy student. If the owner wants the political Daodejing it can slot in as an elective branch; recorded here so the omission is a choice, not a blind spot.
 - The Neiye elective matches the contemplative strand the anchors teach as Daoist meditation; it is the scope's non-ritual bridge into that material.
 
-Strategist's note (non-binding): the benchmark supports the bounded domain as drawn; the two gaps worth the owner's eye are the exclusion of religious Daoism (owner rule, challenge recorded) and the absence of the political Daodejing strand (Warwick).
+Strategist's note (non-binding): the benchmark supports the bounded domain as drawn; the two gaps worth the owner's eye are the exclusion of religious Daoist ritual and liturgy (owner rule, challenge recorded) and the absence of the political Daodejing strand (Warwick).
 
 ## Owner items
 
