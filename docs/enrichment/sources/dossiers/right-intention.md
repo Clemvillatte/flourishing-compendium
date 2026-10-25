@@ -487,3 +487,18 @@ parse the PDF), and the script's local cache was seeded with the
 genuine carrier text. quote_verify now reports 19 checked, 0 not
 found. Checker exit 0 (67 card links, 18 headers, 25 external
 carriers); density 0 dense; no prose em dashes remain.
+
+## Family sweep, story spot-checks and duplicate-card flag (worker-pplx-dos19-1025g, 2026-10-25)
+
+Family sweep: 19 unlinked intention-family cards, inspected as
+belonging elsewhere (eudaimonia-family concepts; CBT thought-work
+kernels K385-K401 and K128, already carried in the cognition
+dossier's practice section; Motor intentionality, phenomenology of
+the body territory). Story spot-checks: ST376 Meghiya (logline
+matches the card body read this session) and ST352 The Cowherd
+After the Harvest. FLAG FOR SUPERVISOR: the story library contains
+two identical cards for the same Meghiya story, ST376 and ST421
+(same title, same legacy chapter ST-S02.02, identical bodies except
+the id/title metadata; verified by diff). The cognition dossier
+links ST421, this dossier links ST376. This is a content-library
+issue outside DOS dossier scope; no files were changed.
