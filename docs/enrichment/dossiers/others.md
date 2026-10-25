@@ -144,25 +144,13 @@ Horton and Wohl's observation that mass media give the illusion of face-to-face 
 
 ### The stories and sayings
 
-The theme comes in narrative form too:
+The theme comes in narrative form too. The Confucian wulun, five relationships each defined by reciprocal duties between the two parties, is [the Five Relationships](https://clemvillatte.github.io/flourishing-compendium/#card=ST243%20%E2%80%94%20The%20Five%20Relationships). The Metta Sutta's mother, willing to risk her life for her only child, made the measure of a boundless heart toward all beings in [the Mother's Protection](https://clemvillatte.github.io/flourishing-compendium/#card=ST077%20%E2%80%94%20The%20Mother%27s%20Protection).
 
-[ST243 — The Five Relationships](https://clemvillatte.github.io/flourishing-compendium/#card=ST243%20%E2%80%94%20The%20Five%20Relationships): the Confucian wulun: five relationships, each defined by reciprocal duties between the two parties.
+Fred Rogers' sign-off, an ordained minister's theology of the neighbourhood built into a children's show, is [Won't You Be My Neighbour](https://clemvillatte.github.io/flourishing-compendium/#card=ST079%20%E2%80%94%20Won%27t%20You%20Be%20My%20Neighbour). Levinas' encounter, in which the face addresses me and the address is a command, is [the Face of the Other](https://clemvillatte.github.io/flourishing-compendium/#card=ST267%20%E2%80%94%20The%20Face%20of%20the%20Other).
 
-[ST077 — The Mother's Protection](https://clemvillatte.github.io/flourishing-compendium/#card=ST077%20%E2%80%94%20The%20Mother%27s%20Protection): the Metta Sutta's mother, willing to risk her life for her only child, made the measure of a boundless heart toward all beings.
+The story in which a failed couple each pay to erase the other from memory, and inside the procedure Joel fights to keep her, is [Joel and Clementine Erase Each Other](https://clemvillatte.github.io/flourishing-compendium/#card=ST288%20%E2%80%94%20Joel%20and%20Clementine%20Erase%20Each%20Other). Holt-Lunstad's meta-analysis, in which across 148 studies stronger social relationships predicted higher survival odds (OR 1.50), a 50 per cent increased likelihood of survival in the authors' phrasing, is [Loneliness and Mortality](https://clemvillatte.github.io/flourishing-compendium/#card=ST315%20%E2%80%94%20Loneliness%20and%20Mortality).
 
-[ST079 — Won't You Be My Neighbour](https://clemvillatte.github.io/flourishing-compendium/#card=ST079%20%E2%80%94%20Won%27t%20You%20Be%20My%20Neighbour): Fred Rogers' sign-off, an ordained minister's theology of the neighbourhood built into a children's show.
-
-[ST267 — The Face of the Other](https://clemvillatte.github.io/flourishing-compendium/#card=ST267%20%E2%80%94%20The%20Face%20of%20the%20Other): Levinas' encounter: the face addresses me, and the address is a command.
-
-[ST288 — Joel and Clementine Erase Each Other](https://clemvillatte.github.io/flourishing-compendium/#card=ST288%20%E2%80%94%20Joel%20and%20Clementine%20Erase%20Each%20Other): a failed couple each pay to erase the other from memory; inside the procedure, Joel fights to keep her.
-
-[ST315 — Loneliness and Mortality](https://clemvillatte.github.io/flourishing-compendium/#card=ST315%20%E2%80%94%20Loneliness%20and%20Mortality): Holt-Lunstad's meta-analysis: across 148 studies, stronger social relationships predicted higher survival odds (OR 1.50), a 50 per cent increased likelihood of survival in the authors' phrasing.
-
-[ST313 — Jane Goodall's Two Careers](https://clemvillatte.github.io/flourishing-compendium/#card=ST313%20%E2%80%94%20Jane%20Goodall%27s%20Two%20Careers): the naturalist whose discoveries at Gombe redefined the boundary between human and animal, and who left fieldwork permanently after the 1986 conference on the chimpanzees' conditions.
-
-[ST262 — Georges Cares for Anne](https://clemvillatte.github.io/flourishing-compendium/#card=ST262%20%E2%80%94%20Georges%20Cares%20for%20Anne): Haneke's Amour: the feeding, the washing, the refusal of the hospital, and love that stays at the bedside to the end.
-
-[ST194 — Seneca Writes to His Mother](https://clemvillatte.github.io/flourishing-compendium/#card=ST194%20%E2%80%94%20Seneca%20Writes%20to%20His%20Mother): from exile, Seneca refuses to console his mother with the usuals, and keeps writing to her.
+The naturalist whose discoveries at Gombe redefined the boundary between human and animal, and who left fieldwork permanently after the 1986 conference on the chimpanzees' conditions, is [Jane Goodall's Two Careers](https://clemvillatte.github.io/flourishing-compendium/#card=ST313%20%E2%80%94%20Jane%20Goodall%27s%20Two%20Careers). Haneke's Amour, with the feeding, the washing, the refusal of the hospital, and love that stays at the bedside to the end, is [Georges Cares for Anne](https://clemvillatte.github.io/flourishing-compendium/#card=ST262%20%E2%80%94%20Georges%20Cares%20for%20Anne). From exile, Seneca refuses to console his mother with the usuals, and keeps writing to her, in [Seneca Writes to His Mother](https://clemvillatte.github.io/flourishing-compendium/#card=ST194%20%E2%80%94%20Seneca%20Writes%20to%20His%20Mother).
 
 ## Where the traditions genuinely disagree
 
