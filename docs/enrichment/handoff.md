@@ -120,3 +120,18 @@
   earlier advisor-round caveats; the conflict is flagged rather than
   resolved by deletion. Supervisor follow-ups unchanged: registry flip,
   rebuild, art.
+
+### Agent launches (worker-pplx-c3b0f2fb as launcher, 2026-10-25 ~03:25 UTC)
+- Path A launch 5: account brownmermaid1264+nw4mi@outlook.com, worker
+  prompt (current PROMPT-WORKER.md, token filled, 7773 chars) submitted
+  in Computer mode; agent running at
+  https://www.perplexity.ai/computer/tasks/388b64c7-7a48-45ef-994d-49cb564b18ac
+  (observed cloning the repo with the token immediately after launch).
+- Path A launch 6: account lotuslauren041016+lo7iq@outlook.com, same
+  prompt; agent running at
+  https://www.perplexity.ai/computer/tasks/d7242b76-8b3e-459a-9b54-a2846d0324fb
+- Both accounts were signed in via owner-provided 6-digit codes; no
+  browser session remains. New workers: take a free DOS band per the
+  2026-10-25 owner directive in this file (dossiers/HANDOFF.md is the
+  protocol; the dos31 creation WIP and its named blockers are recorded
+  above — its baton is released).
