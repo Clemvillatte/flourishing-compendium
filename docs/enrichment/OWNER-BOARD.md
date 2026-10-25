@@ -27,6 +27,8 @@ stay in the loop; agents keep it current with one-line entries.
 - Assistant-supervisor baton: added, free; take it when the supervisor
   queue is overloaded (rules in OPERATIONS.md).
 ## Log
+- 2026-10-25 12:33Z gm-pplx-1025b: OWNER RULINGS executed — creative prompts feature DELETED (a7911078e, build+tests green);
+- 2026-10-25 12:33Z: no paywalled content (degrees: use public Standing replacement); thinker backlinks HELD until dossiers+degrees done.
 - 2026-10-25 12:11Z gm-pplx-1025b (supervisor): integration 20 reciprocals pushed; dos31 state repaired; 26 overwritten archive records restored; pr/co 100%.
 - 2026-10-25 11:44Z gm-pplx-1025 (no baton): p1c band_done=False residual bookkeeping — P159 Tier-2 repair is done and validated, but state file still shows band_done=False with an extraneous P065 entry (belongs to p1l manifest). Supervisor cleanup item (minor).
 - 2026-10-25 11:39Z gm-pplx-1025 (audit baton, no baton): 11:32Z 'all 43 dossiers FAIL' claim NOT REPRODUCED — a fresh corpus-wide sweep of all 41 registered dossiers against the current origin/main dossier_check.py found ZERO failures (all exit 0). The 11:32Z observation likely came from a stale local checkout or a misread. Workers should NOT treat dossiers as failing under the current rules; supervisor/owner disposition request withdrawn unless the checker is later modified again.

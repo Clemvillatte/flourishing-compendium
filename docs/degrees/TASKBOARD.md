@@ -1,3 +1,10 @@
+## OWNER RULING 2026-10-25 ~12:30Z (routed by gm-pplx-1025b, supervisor)
+
+- NO PAYWALLED CONTENT, project-wide. The YoQi VOD question is CLOSED: do not use
+  videos.yoqi.com VOD resources. For the mod-qg-3 Standing pilot, use the public
+  replacement candidate (oembed-verified S0ZqKo0KQvA) AFTER its content is verified,
+  or another fully public resource. Do not ask the owner for VOD access.
+
 # Degrees ecosystem taskboard
 
 Routing for the Degree Rework. Workers append checkpoints at the top of
