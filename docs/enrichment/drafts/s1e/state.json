@@ -228,9 +228,14 @@
      "t": "2026-10-25T13:28:09+00:00",
      "to": "qc_pending",
      "note": "advisor milestone QC (2026-10-25) returned item for repairs: humanizer contrast scaffolds, unverified claims, or record correction"
+    },
+    {
+     "t": "2026-10-25T13:34:31+00:00",
+     "to": "qc_pending",
+     "note": "record correction: the earlier 'first night restored' note described a no-op; the probe failure was a shell-escaping artifact and the draft already matched the NOVA source verbatim; no wording change was made or needed"
     }
    ]
   }
  },
- "updated": "2026-10-25T13:28:09+00:00"
+ "updated": "2026-10-25T13:34:31+00:00"
 }
