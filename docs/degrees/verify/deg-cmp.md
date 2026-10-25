@@ -297,58 +297,71 @@ not loading). Findings this pass, from YouTube's own rendered metadata:
   supplies. Flagged, not decided — the verification band does not
   assign resources.
 
-## Qigong replacement candidate S0ZqKo0KQvA — recording-level classification COMPLETED; instructor credentials NOT verified (2026-10-25 13:40Z, worker-pplx-degrees-1, deg-verify-a)
+## Qigong replacement candidate S0ZqKo0KQvA — third-party transcript retrieved; content classification supported; access-playback, segment timing and instructor credentials unresolved (2026-10-25 13:25Z, worker-pplx-degrees-1, deg-verify-a)
 
 This pass supersedes the "RECORDING-LEVEL CLASSIFICATION: still open"
-line in the section above. Standard: skill section 4. Evidence below is
-from the recording's own auto-generated caption track, retrieved via
-youtubetotranscript.com (opened 2026-10-25), plus the oembed endpoint
-and the channel's public pages (opened 2026-10-25).
+line in the section above; it does NOT supersede that section's 11:02
+duration finding, which stands attributed to the prior pass. Standard:
+skill section 4. This is a bounded evidence update, not a passed
+section-4 verification, and no pilot gate is cleared by it.
 
-- IDENTITY AND CONTENT CLASSIFICATION (from the transcript, recording's
-  own captions): the recording IS a single continuous guided standing
-  tree meditation (zhan zhuang-style), beginner level. The narration
-  runs from a welcome through posture setup (feet about shoulder width,
-  knees softened and not locked, arms slowly raised "as if softly
-  hugging a large tree", hands relaxed, shoulders dropped, chest soft,
-  spine upright with the crown gently lifted, jaw relaxed, tongue
-  resting lightly on the roof of the mouth), breath awareness ("do not
-  change it, just notice"), root imagery for grounding, an invitation
-  to notice sensations and let thoughts pass, and a closing that offers
-  "end the practice here or remain standing for a little longer". The
-  narration states the practice "comes from traditional Chinese qigong
-  and tai chi where it has been used for centuries". This matches the
-  mod-qg-3 outcome-1 checkpoint vocabulary (feet, knees, posture,
-  breath, stillness). The caption track is auto-generated ("chiong" for
-  qigong), English, and was retrieved in full; no timestamps are printed
-  by the retrieval route, so segment boundaries inside the recording
-  are not timestamped.
-- DURATION: 11:02 total runtime (channel-listing metadata, YouTube's
-  own, recorded above by the prior pass; unchanged). The full guided
-  narration spans the whole recording — welcome to closing — so there is
-  no separate unguided remainder to assign a shorter segment from; the
-  transcript gives no evidence of a distinct 5-minute guided segment
-  inside the 11:02. The uploader's "5 minute" title/description claim
-  remains contradicted by the total runtime.
-- ACCESSIBILITY: oembed resolves the video publicly (no login, no
-  paywall; opened 2026-10-25). The watch page bot-walls automated
-  fetchers, an environment artifact, not a content gate.
-- INSTRUCTOR CREDENTIALS: NOT VERIFIED, and the flag is decisive for
-  assignment. The channel (Stillness Studio Sanctuary) is anonymous:
-  17 subscribers, 7 videos, joined 2024-08-27, no channel description,
-  no instructor named on the channel page or in the video description
-  (channel About page opened 2026-10-25). Web search (2026-10-25)
-  found no biography or institutional page tying the channel to a
-  named, credentialed teacher; same-name "Stillness Studio" sites are
-  unrelated entities and were not conflated. Skill section 4 requires
-  lineage, institution or documented teacher training verified on a
-  biography or institutional page — this resource fails that clause.
-- STATUS: verified-video for identity, access, duration and content
-  classification; the resource CANNOT be assigned as required module
-  media while the instructor-credentials clause fails. Bearing for the
-  module owner: as an OPTIONAL guided option (the pilot's lower-rung
-  tier), assignment is still blocked by the same credentials clause;
-  an owner ruling would be needed to waive it. The 11:02 runtime also
-  does not match the pilot's 5-minute lower rung as total runtime.
-  Flagged, not decided — the verification band does not assign
-  resources.
+- TRANSCRIPT (third-party, attributed to this video): a full-text
+  transcript attributed to this recording was retrieved from
+  https://youtubetotranscript.com/transcript?v=S0ZqKo0KQvA&current_language_code=en
+  (opened 2026-10-25, twice: once with an extraction prompt and once
+  raw; both reads returned the same text, not truncated). The service
+  is an independent third party (its own disclaimer: not associated or
+  affiliated with YouTube or Google), so the text is recorded here as
+  a third-party transcript attributed to this video; its caption-track
+  origin (auto-generated or uploader-supplied) is NOT established by
+  the page. The transcript prints NO timestamps, so nothing in it
+  locates any segment in time. The retrieved text describes a guided
+  standing meditation: a welcome; posture setup ("Place your feet
+  about shoulder width apart", "gently soften your knees just enough
+  so they are not locked", "Slowly raise your arms in front of you as
+  if you are softly hugging a large tree", "Let your shoulders drop
+  down. Your chest is soft.", "Your spine is upright as if the top of
+  your head is gently lifted upward", "your tongue rests lightly on the
+  roof of your mouth"); breath attention ("Bring your attention to
+  your breathing. Do not change it. Just notice the breath coming in
+  and going out."); imagery ("Imagine your feet growing roots slowly
+  sinking into the earth"); and a closing that offers "You may end the
+  practice here or ... remain standing for a little longer". The
+  narrator also states the practice "comes from traditional Chinese
+  chiong and tai chi" (transcript spelling) — a narrator claim
+  recorded, not endorsed. The instructional content described in the
+  transcript is consistent with the mod-qg-3 outcome-1 checkpoint
+  vocabulary (feet, knees, posture, breath, stillness). Because the
+  transcript carries no timestamps, the guided-practice segment's
+  start, end and duration remain UNKNOWN; the absence of a distinct
+  5-minute guided segment cannot be read out of it, and the uploader's
+  "5 minute" title claim is neither confirmed nor disproved by the
+  11:02 total runtime alone.
+- ACCESS: the oembed endpoint resolves the video's public metadata
+  (https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=S0ZqKo0KQvA&format=json,
+  opened 2026-10-25). This establishes metadata availability, NOT
+  anonymous playback: the watch page did not load for this session's
+  fetchers (JS-required), and playback was not confirmed in this
+  environment. No paywall or login is indicated by any opened page.
+- DURATION: unchanged from the prior pass — 11:02 total runtime from
+  the channel-listing metadata (attributed there); the watch-page
+  player lengthSeconds remains unread from this environment.
+- INSTRUCTOR CREDENTIALS: NOT ESTABLISHED. No named instructor or
+  qualifying credential evidence (lineage, institution or documented
+  teacher training on a biography or institutional page) was
+  established from the material examined this session: the channel's
+  public About page (https://www.youtube.com/@StillnessStudioSanctuary/about,
+  opened 2026-10-25) names no instructor, and a web search the same
+  day found no biography or institutional page tying the channel to a
+  named, credentialed teacher. Skill section 4's instructor-credentials
+  clause therefore remains UNMET on the evidence examined; the
+  requirement is recorded as unmet, not as disproved for all possible
+  sources.
+- STATUS: the section-4 verification is NOT passed for this resource.
+  Content classification is supported by the third-party transcript;
+  identity is supported by oembed; access-playback, segment timing and
+  instructor credentials remain unresolved. The candidate is NOT
+  cleared for module assignment (required or optional tier), and the
+  11:02 total runtime does not match the pilot's 5-minute lower rung
+  as total runtime. Flagged for the module owner and strategist; the
+  verification band does not assign resources.
