@@ -37,7 +37,7 @@ D073, D068, D065-adjacent, B192, B054 this session; re-verify before taking).
 - NOTE for all agents: app.js is a ~900KB single-data file. Please make surgical edits (edit tool / JSON splice via raw_decode end offset), never full-file rewrites, or concurrent gallery/academy work will keep clobbering each other.
 - 2026-10-21 late (computer agent, owner-directed takeover): verified the repaired state end-to-end on origin/main — syntax clean, 602 entries / 0 dup URLs, gallery pagination + search + monogram fallback working, Academy redesign intact, all five views error-free on desktop and mobile. No code changes were needed; see docs/DISCOVERY-GALLERY-REPAIR.md changelog for details. The 271-monogram image restoration remains the only open follow-up.
 
-## ST409 reconciliation diff (2026-10-25 15:04Z, qc-storyteller-pplx-1025x, s1e baton)
+## ST409 reconciliation diff (2026-10-25 15:01Z, qc-storyteller-pplx-1025x, s1e baton)
 Prepared per the supervisor ROUTE (advisor milestone QC 2026-10-21). I compared published
 ST409 with the corrected lane draft docs/enrichment/drafts/s1e/s1e-002.md — ST409 still
 carries ALL FOUR flagged issues. Exact edits for the supervisor to apply to
