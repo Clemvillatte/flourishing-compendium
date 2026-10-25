@@ -3,7 +3,6 @@
  "done": [
   "E068",
   "K006",
-  "P002",
   "P107",
   "P164",
   "PP011",
@@ -72,7 +71,7 @@
   "SE069",
   "S048"
  ],
- "in_progress": null,
+ "in_progress": "P002",
  "flagged": {
   "D017": "RESOLVED: exact DDJ57/64 quotations, narrowed reward comparison, source QC and voice corrections from independent advisor; pre-repair-baseline validator PASS",
   "BI012": "Supervisor repair independently PASS: Carter exact; Bode association limits; NHS assessment advice; causal anecdote and medical-first rule removed (2026-10-19)",
@@ -92,10 +91,11 @@
   "P141": "RESOLVED: sensorimotor theory distinguished from walking findings; convergent-task qualification added, example explicitly imagined; validator PASS",
   "A043": "RESOLVED: VI5/7/8/12/13 exact Ross source; cleverness and virtue distinguished, Berlin paradigm separately sourced, malformed parallel markup repaired; validator PASS",
   "SE069": "RESOLVED: Wikipedia replaced by official NIMH/NICE; symptom/assessment distinguished, no diagnosis or absolute self-help claim; validator PASS, advisor clinical scope review requested",
-  "S048": "RESOLVED: I28 philosophical account attributed; Ench45 evaluation scope corrected, assent/action distinguished, Dugas model comparison bounded; validator PASS"
+  "S048": "RESOLVED: I28 philosophical account attributed; Ench45 evaluation scope corrected, assent/action distinguished, Dugas model comparison bounded; validator PASS",
+  "P002": "Reopened for QC: Distinguish Whitehead technical ontology from everyday illustrative processes; remove rhetoric and source dynamic-systems comparison"
  },
  "missing_concepts": [],
  "sources_checked": 82,
- "updated": "2026-10-25T06:12:16+00:00",
+ "updated": "2026-10-25T06:12:21+00:00",
  "band_done": false
 }
