@@ -1094,8 +1094,27 @@ attach them with evidence on file.
   origins of the association of the Buddha with modern science, what is at stake in
   that association and new directions for the role of the Buddha in scientific
   research; this lecture addresses the problem with karma.
+  Coverage-confirmation (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=FVnEYpcYRFU&current_language_code=en,
+  opened 2026-10-25; noted by the extraction to contain garbled names and
+  speech-recognition mistakes) confirms the lecture's substance on the recording:
+  the third Terry Lecture continuing "a purified religion" and "building a
+  better Buddha"; the Western presentation of "Buddhism … compatible with
+  science"; karma as cause and effect ("Beings are owners of their actions,
+  heirs of their actions"); karma within the Buddhist natural order ("In
+  Buddhism the natural order extends into the moral realm"); the central
+  argument that "the Buddhist doctrines of Karma and rebirth correlate poorly
+  with the theory of natural selection"; nirvana contrasted with biological
+  extinction ("The goal of the Buddhist path is to stop it"); revisable
+  scientific knowledge versus remembered truth; the "materialist Buddhism"
+  option and what would be lost ("Perhaps we should allow the Buddha to remain
+  a counter evolutionary"); and Q&A on emptiness, causality, demythologizing
+  and the bodhisattva ideal. Caveats: third-party transcript page, no
+  timestamps in the retrieved text; playback itself not opened.
 - Relevant segment: whole lecture, 1:08:32.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (2026-10-25); coverage confirmed against
+  a third-party transcript page (no timestamps); identity, access and duration
+  verified earlier.
 
 ### M-15-008: Karma and Rebirth in Buddhism (John Cianciosi, Theosophical Society)
 
