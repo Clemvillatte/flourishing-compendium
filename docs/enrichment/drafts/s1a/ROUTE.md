@@ -482,3 +482,23 @@ s1a-064's RMMJ page (round-1/2 verification recorded in the draft).
 s1a-064's RMMJ quotes re-verified against a fresh fetch (both match the
 article's printed wording). Every source span across s1a-063..075 has
 now been verified this session. Batch complete for handoff.
+
+2026-10-25 storyteller-pplx-s1a-1026a: SESSION HANDOFF (s1a, 13 drafts,
+all qc_pending, all story_check clean, every source span verified this
+session; commits through 91e1a948 on origin/main):
+
+- REGISTRATION CANDIDATES: s1a-063 (D015, limited illustration, scope
+  request routed), s1a-064 (B025, target-fit question routed), s1a-065
+  (B179), s1a-066 (D110), s1a-067 (D135), s1a-068 (B034, fit routed),
+  s1a-069 (D125), s1a-072 (B015), s1a-073 (B156 PROPOSED, B094
+  withdrawn, final call routed), s1a-075 (D083, broader illustration vs
+  s1a-070, fit routed).
+- HELD NARRATIVES (DO NOT REGISTER WITH CURRENT TARGET): s1a-071 (B072
+  withdrawn; for your reassignment), s1a-074 (D060 withdrawn; for your
+  decision), s1a-070 (D083 PROPOSED, D124 withdrawn — also flagged as a
+  possible existing-emblem duplicate: D080's page and D083's page both
+  already use the monkey keeper in-body; your call whether the lane
+  wants a second story on the passage).
+- All decisions are yours; nothing has been self-marked ready. The
+  owner-board line for this session's baton take is requested via this
+  route (storytellers cannot edit OWNER-BOARD directly).
