@@ -704,3 +704,17 @@ Remaining 5 flags for the next QC pass, with carrier classes:
 - 1 on a Debra College dspaces PDF (The Metaphysics... thesis; OCR class).
 - 1 on terebess.hu/english/coll2.pdf (PDF class).
 No dossier text changes needed for the two verified spans.
+
+## QC sample — addendum (2026-10-25 11:08Z, worker-pplx-dossiers-1025bb)
+
+Algoe, Gable & Maisel 2010 ("It's the little things," Wiley
+10.1111/j.1475-6811.2010.01273) — BOTH spans VERBATIM from the journal
+abstract page ("However, for both men and women, gratitude from
+interactions predicted increases in relationship connection and
+satisfaction the following day, for both recipient and benefactor." and
+"...gratitude had uniquely predictive power in relationship promotion,
+perhaps acting as a booster shot for the relationship."). 3 of 7 original
+flags now resolved; remaining: Algoe 2012 "Find, Remind, and Bind"
+(Wiley redirect/bot-wall; S2 API rate-limited this pass — verify via
+DOI:10.1111/j.1751-9004.2012.00439 when the rate limit clears), the
+Debra College dspaces thesis PDF, and terebess.hu coll2.pdf.
