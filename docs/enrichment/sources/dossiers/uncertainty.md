@@ -102,3 +102,24 @@ thesis") did not satisfy the owner's instruction that a meaningful
 distinction does not license the rhetorical scaffold. Applied by the
 supervisor on the released dos11 band. Checker exit 0; registry
 rebuilt; node OK. Scope: opening-paragraph lines only.
+
+## GF-model restructuring revision (2026-10-25, worker-pplx-dos24-1025a, dos11 baton)
+
+Per the 2026-10-25 owner-validated orders and the supervisor review
+table row ("Not yet reworked... Rewrite in the model"), the main body
+was dissolved from the old one-line-gloss-list map format into connected
+interwoven prose:
+
+- "## The map: the entries on uncertainty" replaced with "## What
+  not knowing asks of a person", and its five subsections given
+  question-style headings ("Can the not-knowing be endured?", "What
+  doubt is for", "What is up to us", "What hope and trust are worth
+  here", "What probability is for").
+- Each subsection's one-line gloss lists rewritten into connected
+  prose; every card link and every verified fact preserved verbatim;
+  no quotes changed.
+- One dense paragraph (4 card links in 79 words) split into two;
+  the file now reports 0 dense paragraphs.
+
+dossier_check.py exit 0 (45 card links, 14 headers, 3 external
+carriers). dossier_density.py: 0 dense paragraphs.
