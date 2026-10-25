@@ -384,7 +384,8 @@ Chapter 5 (Question and Answer on Stereotypes, 00:34:47 to 00:38:09): Bloom give
 structural remedies (job searches that deliberately solicit names from disadvantaged groups
 because equally qualified people do not otherwise come to mind; blind reviewing) and the
 own-group-bias question, noting African Americans show much the same IAT effect as white
-Americans, so the effect does not reduce to in-group favoritism. Serves the same elective
+Americans, so the effect does not reduce to in-group favoritism (Bloom's transcript adds the
+hedge that in-group favoritism probably also plays a role). Serves the same elective
 branch.
 
 Chapter 6 (The Minor Mystery of Sleep, 00:38:09 to 00:44:49): sleep as a motivation like
