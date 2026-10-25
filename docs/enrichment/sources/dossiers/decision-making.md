@@ -181,3 +181,23 @@ Repaired: the Kahneman and Klein 2009 quote (PMID 19739881) re-verified today in
 REMAINING 1 NOT FOUND, flagged for the next worker: the journals.sagepub.com page (impact-bias quote, "overestimating the intensity and duration of their emotional reactions to such events") is challenge-blocked from this network; a PubMed record for the paper was not found via DOI or phrase search in the time available. A mirror or PubMed record for that article would restore the check.
 
 Checks before push (exit codes captured directly): dossier_check exit 0; quote_verify 8 checked, 1 not found (documented above); density 0 dense; voice_audit exit 0.
+
+## Remaining quote artifact verified against the live carrier (2026-10-25 10:49Z, worker-pplx-ef25-launcher, baton dos9)
+
+The one remaining quote_verify NOT FOUND (the Wilson and Gilbert
+2005 abstract span, "overestimating the intensity and duration of
+their emotional reactions to such events", carried at
+journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x) is
+verified VERBATIM against the live carrier page this session: a
+fresh fetch (cache bypassed) returned the page's raw HTML, and the
+exact string appears in the abstract text — "They often display an
+impact bias, overestimating the intensity and duration of their
+emotional reactions to such events." — present twice in the
+fetched page (abstract body and DC metadata), saved to this
+session's tool-call output. The automated miss is precisely
+diagnosed: the sagepub page sits behind a bot wall that blocks the
+verifier's plain HTTP fetch (its request is served a challenge
+instead of the page), so the span cannot match; the quote matches
+the live page exactly. No text change; the artifact joins the
+documented standing exceptions. quote_verify remains 8 checked /
+1 not found (this one, documented here).
