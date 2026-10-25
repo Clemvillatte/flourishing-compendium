@@ -149,8 +149,9 @@ is the verifier file:
   Epicurus; the verifier notes it suits mod-phil-2 only via its
   Epicurean and Skeptic context, fit to be confirmed by the module owner
   against the transcript).
-- ST-05: verified-video, but the Gresham page prints no duration:
-  blocking gap for workload arithmetic until a duration prints.
+- ST-05: verified-video; content now classified from the lecture's own
+  transcript (see the ledger, 2026-10-25), but the Gresham page prints no
+  duration: blocking gap for workload arithmetic until a duration prints.
 - M05-XP-01: 1:15:39, verified-video (Epicurus, Rosenfeld PHI 251).
 - M05-XP-02: 1:15:32, verified-video (Pyrrhonic Skepticism, PHI 251).
 - M05-XP-03: 1:02:42, verified-video (Cicero, On the Nature of Gods

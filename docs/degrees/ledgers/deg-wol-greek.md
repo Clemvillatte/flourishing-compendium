@@ -199,3 +199,24 @@ Adam Rosenfeld's own UNCG PHI 251 session, ST-01 29:09 and ST-02 49:57. The
 status column in the scope doc is corrected to defer to the manifest
 correction section, which quotes the verifier file; the unsupported figures
 are withdrawn. No other file in the band carries them.
+
+## ST-05 content classification (recorded 2026-10-25T08:47Z from the clock, worker-pplx-greek-1)
+
+ST-05 Facing Things Stoically (Richard Sorabji FBA, Gresham lecture,
+15 May 2002) is classified from the lecture's own transcript (PDF opened
+this session from the Gresham page's transcript link), superseding the
+uploader-description-only basis. The transcript confirms the proposed
+topic, a practical Stoic recipe for remaining calm: emotions as judgments
+with a judgment of harm or benefit plus a judgment of appropriate
+reaction; practical exercises (reconsidering harms by comparison with
+others' suffering, re-labelling a traffic jam as a festival, testing
+whether a situation is bad or merely unexpected, the 30-day
+anger-sacrifice exercise, rehearsing the mortality of a favourite pot and
+of loved ones, wanting with reservation); naturally preferred
+indifferents and Antipater's archery metaphor; Epictetus' training
+regime, which Sorabji calls unacceptable; the contrast with Aristotle on
+feeling the right emotions; links to modern cognitive therapy; and
+Stockdale's use of Epictetus in Vietnam captivity. Speaker identity:
+Richard Sorabji FBA per the transcript title page. The transcript prints
+no time markers and the Gresham page prints no duration: the duration
+gap for workload arithmetic remains open.
