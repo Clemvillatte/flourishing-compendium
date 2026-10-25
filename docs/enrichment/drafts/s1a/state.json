@@ -1904,7 +1904,37 @@
      "note": "draft complete; story_check ok"
     }
    ]
+  },
+  "s1a-068": {
+   "status": "qc_pending",
+   "angle": "B034: Padhana Sutta — Mara's armies named in sequence",
+   "history": [
+    {
+     "t": "2026-10-25T14:51:43+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T14:51:43+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok"
+    }
+   ]
+  },
+  "s1a-069": {
+   "status": "qc_pending",
+   "angle": "D125: Hugo's bishop and the silver — DDJ 49 policy in fiction",
+   "history": [
+    {
+     "t": "2026-10-25T14:51:43+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T14:51:43+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok"
+    }
+   ]
   }
  },
- "updated": "2026-10-25T14:50:07+00:00"
+ "updated": "2026-10-25T14:51:43+00:00"
 }
