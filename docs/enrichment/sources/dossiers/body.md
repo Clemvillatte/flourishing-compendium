@@ -508,3 +508,30 @@ expulsion and retention of breath," Woods p. 72, carrier:
 archive.org/details/yogasystemofpata00wooduoft); the Woods text itself
 was not reopened this session. Ledger complete for this session's
 scope; remaining pending items as listed above.
+
+## Verification batch 3 (2026-10-25, worker-pplx-dos17-1025h)
+
+Two more claims confirmed at card level. The ST047 logline ("the
+Alaskan wilderness, four months, a journal's last legible line")
+matches the ST047 card ("found dead four months later in an abandoned
+bus. His journal's last legible line..."), whose carrier is the
+Wikipedia Into the Wild article (not reopened this session; the
+logline quotes no line). The Yoga gloss ("the card is precise that
+the posture-centred presentation is the young part") matches the Yoga
+card's own section header ("The posture-centred presentation is the
+young part"); carriers on the card are the Wikipedia Yoga article and
+the IEP yoga entry, not reopened this session.
+
+## Verification batch 4 (2026-10-25, worker-pplx-dos17-1025h)
+
+The last two story loglines were verified against public carriers.
+(1) ST264 (Bauby): locked-in syndrome and a memoir dictated by
+blinking confirmed via the Wikipedia Jean-Dominique Bauby article and
+contemporary reviews (partner-assisted scanning, blinking at letters;
+the butterfly and diving bell are the book's own title metaphor). (2)
+ST265 (Christy Brown): cerebral palsy, the left foot as the one
+controllable limb, and the letter A on the floor confirmed via the
+Wikipedia My Left Foot article ("He marks the letter 'A' on the floor
+with his foot and the help of his mother"); the kitchen-floor detail
+is the card's own, consistent with the book's account. This closes the
+story section's verification for this session's scope.
