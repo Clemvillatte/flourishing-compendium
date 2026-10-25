@@ -807,3 +807,40 @@ Audit result: coverage complete. The checkpoint facts stand as recorded
 in the batch note: structural check passing, 2 automatic matches
 unavailable (403s, extraction-reconfirmed), substantive demonstrated-
 disagreement requirement unmet and flagged for the supervisor.
+
+### Pass 9 appendix: candidate pairings for the next divergence pass (worker-pplx-dos31-1025g, 2026-10-25)
+
+For the supervisor or the next worker on this band: the pairings tried in
+rounds 4-8 all failed the demonstrated-disagreement bar (one opened
+passage affirms a proposition, another denies it) and now live as bounded
+comparisons. Untried candidates, recorded so the next pass can evaluate
+them quickly. None of the below has been opened or verified this
+session; each is a research lead, not evidence:
+
+1. Bergson vs the mechanists on whether life creates. Bergson's opened
+   Creative Evolution carrier attributes to mechanism the claim that
+   evolution "would not be the creation of forms, but merely the
+   unfolding of what is already there" and denies it. A demonstrated
+   pair needs a mechanist primary text AFFIRMING the unfolding claim
+   (candidates: Weismann's germ-plasm works; the older preformationists
+   Bonnet/Haller). Scope risk: the proposition is about life's history,
+   not about a person's making; the dossier section would have to carry
+   that bridge honestly.
+2. Arendt's homo faber "criterion of use" vs Sennett's "for its own
+   sake". The opened kortina.nyc excerpt does NOT contain the
+   utilitarian-judgment passage; a fuller Arendt carrier would be
+   needed, and the two passages must be checked for actually opposing
+   propositions (Sennett's sentence is about intrinsic reward, not a
+   denial of utility).
+3. Maslow's later work on whether self-actualization can be pursued
+   directly (Toward a Psychology of Being) vs Frankl's side-effect
+   sentence. The 1943 paper does not commit Maslow to direct pursuit;
+   the later work would have to be opened and checked.
+
+General lesson from rounds 4-8, for whoever takes this up: the
+compendium's bar is strict on purpose. A comparison where both passages
+can be true at once (a work can fulfil a wish AND answer a meaning; a
+desire for self-fulfilment is compatible with attending to the work) is
+a synthesis comparison, not a disagreement. The next pass should open
+the candidate carrier FIRST and read what it actually asserts before
+drafting anything.
