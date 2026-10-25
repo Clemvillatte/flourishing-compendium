@@ -32,7 +32,7 @@ Pieper insists the stillness is not inactivity: leisure "is not the same as the 
 
 This matters for practice because it relocates the failure. In Pieper's account, the capacity for leisure involves more than arranging a schedule. [Resting deeply](https://clemvillatte.github.io/flourishing-compendium/#card=D113%20%E2%80%94%20Rest%20deeply) and [making rest the root of activity](https://clemvillatte.github.io/flourishing-compendium/#card=D039%20%E2%80%94%20Make%20rest%20the%20root%20of%20activity) both treat rest as something a person can approach deliberately, and Pieper calls the power to be at leisure one of the basic powers of the human soul.
 
-## Where the traditions differ
+## Where the traditions genuinely disagree
 
 ### Who gets to have leisure
 
