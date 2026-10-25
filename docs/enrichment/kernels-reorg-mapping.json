@@ -1154,9 +1154,14 @@
  },
  "K267": {
   "mods": [
-   "general"
+   "Stoic"
   ],
-  "evidence": []
+  "evidence": [
+   [
+    "card body: \"The Stoic ground, and its warning\" (Epictetian dichotomy-of-control sort)",
+    "Stoic"
+   ]
+  ]
  },
  "K268": {
   "mods": [

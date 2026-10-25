@@ -5,7 +5,7 @@ type: "kernel"
 title: "Controllability sorting"
 file: "K267 — Controllability sorting"
 tags: ["applied-practice"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.03 — 3. Stoic Assent and Judgement Training", "parent": ""}
 ---
 > **Kernel K267** — Controllability sorting
@@ -35,7 +35,7 @@ What the studies do not test: these are correlational, small-to-moderate effects
 
 Two exist. The [Circle of Control guided meditation by Michael Scott on Insight Timer](https://insighttimer.com/michaelscott/guided-meditations/circle-of-control) does the sorting in audio; its own description says it will "guide you to focus your energy on the things you can control". On paper, the Oxford MPLS [Circles of Concern, Influence and Control exercise](https://www.mpls.ox.ac.uk/files/training/circles-of-influence) has you list your concerns, sort them into the circles of concern, influence, and innermost control, and ask which could move inward.
 
-> **Therapeutic approach: general**
+> **Therapeutic approach: Stoic**
 
 ## Operationalises
 
