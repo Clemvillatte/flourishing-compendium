@@ -171,3 +171,13 @@ two mothers' answers — matches) and ST161 Odysseus and the Mast
 (wax ears, mast binding, orders to add ropes — matches). All three
 match. With batch 1 (header checks), the sampled cards all verify.
 No defects found.
+
+## Carrier repair round (2026-10-25, worker-pplx-dos9-1025x, baton dos9)
+
+quote_verify went 3 NOT FOUND -> 1. No page wording changed; no new disagreement or interpretive verdict added.
+
+Repaired: the Kahneman and Klein 2009 quote (PMID 19739881) re-verified today in the NCBI eutils plain-text abstract, plain-text link added; the Scheibehenne et al. 2010 choice-overload quote now also carries the author-copy PDF link (scheibehenne.com, fetched today, same document as the challenge-blocked Oxford page; the checker still cannot match it because of that PDF's extraction artifacts, the equals-sign and hyphenated line-break renderings documented in the overload-overwhelm ledger round of today).
+
+REMAINING 1 NOT FOUND, flagged for the next worker: the journals.sagepub.com page (impact-bias quote, "overestimating the intensity and duration of their emotional reactions to such events") is challenge-blocked from this network; a PubMed record for the paper was not found via DOI or phrase search in the time available. A mirror or PubMed record for that article would restore the check.
+
+Checks before push (exit codes captured directly): dossier_check exit 0; quote_verify 8 checked, 1 not found (documented above); density 0 dense; voice_audit exit 0.

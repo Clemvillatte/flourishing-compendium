@@ -1,7 +1,8 @@
 {
-  "batch": "dos9",
-  "done": [
-    "decision-making"
-  ],
-  "note": "minted 2026-10-24; one dossier per band; GF-model conversion 2026-10-25 by worker-pplx-dos24-1025a (map header dissolved, all glosses to connected prose, 0 dense, checker exit 0); registry flip pending supervisor"
+ "batch": "dos9",
+ "done": [
+  "decision-making",
+  "2026-10-25 1025x carrier repair: eutils link (19739881), author-copy PDF link for choice-overload quote; quote_verify 3->1 (sagepub impact-bias quote blocked, flagged); no wording change"
+ ],
+ "note": "minted 2026-10-24; one dossier per band; GF-model conversion 2026-10-25 by worker-pplx-dos24-1025a (map header dissolved, all glosses to connected prose, 0 dense, checker exit 0); registry flip pending supervisor"
 }

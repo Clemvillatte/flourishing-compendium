@@ -102,7 +102,7 @@ The two readings are tied to different settings. The error view is built on task
 
 The shared question: when a decision feels right, is that evidence? Kahneman, who made his name on the errors of intuition, and Klein, who studied how experts decide under pressure, spent years on the question and wrote up where they agree:
 
-> "evaluating the likely quality of an intuitive judgment requires an assessment of the predictability of the environment in which the judgment is made and of the individual's opportunity to learn the regularities of that environment." ([Kahneman and Klein, American Psychologist 2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19739881/))
+> "evaluating the likely quality of an intuitive judgment requires an assessment of the predictability of the environment in which the judgment is made and of the individual's opportunity to learn the regularities of that environment." ([Kahneman and Klein, American Psychologist 2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19739881/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=19739881&rettype=abstract&retmode=text))
 
 On the feeling of being right they are blunt: "Subjective experience is not a reliable indicator of judgment accuracy." The authors describe their starting point as the plain fact that "professional intuition is sometimes marvelous and sometimes flawed". The practical reading is that trust in a hunch depends on the field the hunch comes from, and that the sense of certainty cannot tell a skilled hunch from an overconfident one.
 
@@ -114,7 +114,7 @@ The shared question: does having more options help a chooser? Iyengar and Lepper
 
 A meta-analysis of the later literature found the general effect much weaker than the first studies suggested:
 
-> "we found a mean effect size of virtually zero but considerable variance between studies." ([Scheibehenne, Greifeneder and Todd, Journal of Consumer Research 2010, abstract](https://academic.oup.com/jcr/article/37/3/409/1827647))
+> "we found a mean effect size of virtually zero but considerable variance between studies." ([Scheibehenne, Greifeneder and Todd, Journal of Consumer Research 2010, abstract](https://academic.oup.com/jcr/article/37/3/409/1827647), [author copy](https://scheibehenne.com/ScheibehenneGreifenederTodd2010.pdf))
 
 The same abstract says that "some idiosyncratic moderators proposed in single studies may still explain when and why choice overload reliably occurs". So the fair summary is that large option sets sometimes hurt and sometimes help, and that the field has not found a reliable condition that predicts which.
 
