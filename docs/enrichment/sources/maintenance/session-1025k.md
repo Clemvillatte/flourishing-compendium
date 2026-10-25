@@ -141,3 +141,6 @@
 
 ## D003, B003 verbatim quotes added
 - Both pages had a paraphrase only. D003: Legge ch. 37 and 48 quoted word for word from Gutenberg 216; garden example labelled. B003: SN 22.59 (Thanissaro, Access to Insight) not-self and 'Is it fitting' passages quoted word for word; Milindapanha and MN 109 paragraphs not re-opened (flag).
+
+## D114 verbatim quotes added
+- Legge ch. 8, 22, 66 quoted word for word from Gutenberg 216 (previously paraphrase only); application labelled as the page's own. P068 audited: James Principles ch. XXVI quote verified verbatim at psychclassics; no change.

@@ -12,9 +12,11 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 114** — Don't contend (buzheng)
 
-Chapter 8 of the Daodejing pictures water benefiting things while occupying a low place. Chapter 22 connects the sage's lack of contention with freedom from self-display, boasting and self-satisfaction. ([James Legge's translation, chapters 8 and 22](https://www.sacred-texts.com/tao/taote.htm))
+Chapter 8 of the Daodejing pictures water: "The excellence of water appears in its benefiting all things, and in its occupying, without striving (to the contrary), the low place which all men dislike." It ends: "when (one with the highest excellence) does not wrangle (about his low position), no one finds fault with him" ([Legge's translation, ch. 8](https://www.gutenberg.org/cache/epub/216/pg216.txt)).
 
-Chapter 66 carries the image into leadership: rivers and seas receive the streams because they lie below them, and the ruler is asked to put himself below others in speech. ([Daodejing 66](https://www.sacred-texts.com/tao/taote.htm)) The practical reading offered here is to contribute without making every exchange a contest over who stands highest.
+Chapter 22 ties the sage's freedom from self-display to the absence of rivalry: "He is free from self-display, and therefore he shines; from self-assertion, and therefore he is distinguished; from self-boasting, and therefore his merit is acknowledged; from self-complacency, and therefore he acquires superiority. It is because he is thus free from striving that therefore no one in the world is able to strive with him" ([Legge, ch. 22](https://www.gutenberg.org/cache/epub/216/pg216.txt)).
+
+Chapter 66 carries the image into leadership: "the sage (ruler), wishing to be above men, puts himself by his words below them, and, wishing to be before them, places his person behind them" ([Legge, ch. 66](https://www.gutenberg.org/cache/epub/216/pg216.txt)). The practical reading offered here is mine and not Laozi's: contribute without making every exchange a contest over who stands highest.
 
 That leaves room for disagreement, fair credit and firm boundaries. Withholding your needs to make yourself harmless is a different proposal. Neither these images nor the modern application establishes that modest conduct will stop others behaving competitively.
 
