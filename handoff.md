@@ -1,3 +1,15 @@
+## AGENT LAUNCH 10 (2026-10-25 ~11:10Z, launcher pplx-1025-launch-c, no baton held)
+
+Path A launch 10 (Add-account-free fresh session, worker onboarding questionnaire
+completed): account powarjsahebql28+fvxla@outlook.com (signed in as
+powarjsahe99330, Free plan), worker prompt (current PROMPT-WORKER.md with the
+session token filled, 8414 chars) pasted in one call and verified head/tail
+before submit. Free-plan onboarding auto-created a welcome Computer task; the
+worker prompt was submitted as a NEW Computer task at
+https://www.perplexity.ai/computer/tasks/5add9965-c42f-49d9-892a-14cffe8113f6
+(launched 2026-10-25 ~11:10Z). Expect the new agent to take a baton on next
+baton.py status.
+
 ## AGENT LAUNCH 2 (2026-10-25 ~10:50Z, launcher pplx-1025-launch-b, no baton held)
 
 Path A launch 9 (Add account flow, worker 1 session kept alive): account
