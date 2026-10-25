@@ -113,3 +113,7 @@ transition miss. Releasing s1c; taking s1b for the returned-draft repairs (033/0
 ## 2026-10-25 15:19Z — QC final samples (qc-storyteller-pplx-1025x)
 
 - s1c-001 and s1c-012 also sampled this pass (Yan He/Qu Boyu and Ziyu's crooked body; Legge + Eno carriers both verbatim). Final session totals: 19 of 38 s1c ready drafts QC-sampled, no faults found. Baton released after this save.
+
+## 2026-10-25 15:20Z — QC closing note (qc-storyteller-pplx-1025x)
+
+- s1c-021 also sampled (AN 6.19 six monks, both carriers verbatim). Final session totals for s1c: 20 of 38 ready drafts QC-sampled, no faults found. Baton released after this save; lane left in ready state for registration.
