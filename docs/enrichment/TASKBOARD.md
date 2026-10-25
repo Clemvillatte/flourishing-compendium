@@ -3603,3 +3603,23 @@ enumeration above), per the family-level audit instruction:
   overgeneralized seed claim left it under the floor; not on the 2026-10-24 t2c list
   because the trim postdates it). Needs a standard concept-enrichment pass.
 - 2026-10-25 12:52Z supervisor worker-pplx-k1f-1025bb: THINKER-BACKLINK INTEGRATION PATH CLOSED. The 2026-10-23 inventory (~1,140 pending t1a/t1d/t1f backlinks) is fully satisfied: per-page [[T-thinker]] verification this session found all targets already carry reader-facing links (applied out-of-band by the t1d/t1f workers directly on pages). The guarded proposal files t1a/t1d/t1f are RETIRED — 1,146 records archived verbatim to proposals/applied/ (placeholders left per the api_push no-deletion constraint, empty proposed_reciprocal keys dropped since the guard checks key presence; enrich_apply.py --dry-run now passes). Exceptions: one T051→Cultural schema theory record REJECTED (name-conflation error: Hiroko Nishida the intercultural researcher is not Kitarō Nishida T051; evidence in t1f.json note) and the t1a T009 story-page record PENDING (ST433 — The Squirrel at the Camp genuinely lacks the T009 Zhuangzi link; story pipeline owner-blocked, storyteller review required — handoff item). Bulk-apply risk noted on 2026-10-23 is moot; no bulk apply happened.
+
+## KERNELS REORGANIZATION — MAPPING PROPOSAL (2026-10-25 13:20Z, supervisor gm-pplx-kern1-1025a, PENDING OWNER/SUPERVISOR APPROVAL)
+
+**Scope:** 316 kernel pages (content/kernels/*.md). Current distribution: 272 in NAV-PSYCH-V1K "Kernels" pool; 44 already in therapy tabs (MI 12, MBCT 11, CFT 8, CBT/COG 7, ACT 6).
+
+**Modality determination (high-confidence bar):** primaryPath (therapy tab) takes precedence; otherwise first body-line match for a high-confidence phrase (CBT/ACT/CFT/DBT/MI/MBCT/MBSR/ERP/BA/Stoicism). 228 of 316 kernels are **"general"** (no clear modality in the card's own content) — per the work order, marked "Therapeutic approach: general", no invention.
+
+**Proposed folder groups (one "Psychological Kernels" repository, sorted by therapeutic modality):**
+- CBT, ACT, DBT, CFT, MI, MBCT, MBSR, ERP, BA, Stoic, General
+- K-IDs are preserved (no renumbering — safer for zero link breakage; the work order allows renumbering but keeping IDs preserves every [[K123]] corpus-wide link with zero rewrite).
+
+**Red #E34234 modality line:** inserted just above the "## Principles" / "## Related concepts" section, as `Therapeutic approach: <modality>` — sourced from the card's own primaryPath/body evidence. "General" cards get the plain line "Therapeutic approach: general" (no invented modality).
+
+**Execution plan (multi-session, first session delivers mapping + first folder):**
+1. This mapping proposal (posted, awaiting owner approval) — DO NOT APPLY until approved.
+2. On approval: restructure content/kernels into one repository with modality folders; keep file names identical; only change `navigation.primaryPath` to point at the new modality folder; insert the red modality line above Principles.
+3. Rewrite nav-tree group node NAV-PSYCH-V1K → NAV-PSYCH-KRN (name "Psychological Kernels") with sub-folders by modality; therapy tabs keep their sub-folders as modality groups.
+4. Zero link breakage: run scripts/enrich_validate.py + scripts/build.py + graph-degree sanity check (edge count preserved, no orphaned [[K*]] links).
+
+**Approve/adjust before file edits. Flagged for supervisor/owner sign-off.**
