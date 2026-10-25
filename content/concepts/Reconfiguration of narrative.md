@@ -13,7 +13,7 @@ Ricoeur's thesis is a circle: narrative makes time human, and time keeps narrati
 
 > "Time becomes human time to the extent that it is organised after the manner of a narrative; narrative, in turn, is meaningful to the extent that it portrays the features of temporal experience." (Ricoeur, Time and Narrative vol. 1, p. 3, [quoted in Malan 2017](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0259-94222017000100003))
 
-The trilogy's arc runs from Augustine's puzzle about time to [[T002 — Aristotle|Aristotle]]'s plot, then out through history and fiction, arguing both are refigurations of lived time rather than escapes from it.
+The trilogy's arc runs from Augustine's puzzle about time to [[T002 — Aristotle|Aristotle]]'s plot, then out through history and fiction, arguing both are refigurations of lived time rather than escapes from it. The third stage is where the practice lives, since a plot that has been configured in a story does not stay on the page but comes back to rearrange the practical world of whoever took it in, which is why narrative repair is a real intervention rather than a reframing trick. The circle also explains what a bad telling does, since a story that distorts temporal experience gets its distortion returned to it as a distorted life.
 
 ### Here
 
