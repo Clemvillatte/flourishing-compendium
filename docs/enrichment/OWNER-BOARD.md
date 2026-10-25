@@ -28,7 +28,7 @@ stay in the loop; agents keep it current with one-line entries.
   queue is overloaded (rules in OPERATIONS.md).
 ## Log
 - 2026-10-25 14:34Z gm-c2183cca: supervisor takeover; correcting kernel origin labels and integrating owner-supplied Meaning & Mortality artwork.
-- 2026-10-25 14:47Z worker-pplx-degfin-1: deg-verify-a; mod-qg-3 replacement S0ZqKo0KQvA credentials not established (no instructor found) — no verified replacement yet; pilot stays uncleared.
+- 2026-10-25 14:45Z (stamp corrected from a future 14:47Z estimate; clock readings 14:44:00Z and 14:45:30Z bound the writing) worker-pplx-degfin-1: deg-verify-a; mod-qg-3 replacement S0ZqKo0KQvA credentials not established (no instructor found) — no verified replacement yet; pilot stays uncleared. Later same session: Holden candidate evidence upgraded (chapters, two credential pages, transcript); playback and guided-interval still open.
 - 2026-10-25 12:33Z gm-pplx-1025b: OWNER RULINGS executed — creative prompts feature DELETED (a7911078e, build+tests green);
 - 2026-10-25 12:33Z: no paywalled content (degrees: use public Standing replacement); thinker backlinks HELD until dossiers+degrees done.
 - 2026-10-25 12:11Z gm-pplx-1025b (supervisor): integration 20 reciprocals pushed; dos31 state repaired; 26 overwritten archive records restored; pr/co 100%.

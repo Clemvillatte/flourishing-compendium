@@ -537,20 +537,31 @@ FINDING: the opened pages identify no instructor, and qualifying
 credential evidence (lineage, institution or documented teacher
 training on a biography or institutional page) was not established in
 this pass, so section 4 has not passed for this resource. This
-supports the 13:38Z discrepancy note's point 1. IMPORTANT SCOPE
-CORRECTION (2026-10-25, post-QC): the CURRENT pilot file's addendum
-heading does NOT carry a "standard met" claim — the current pilot
-(pilots/mod-qg-3.md, read this session) is headed "PARTIAL:
+supports the 13:38Z discrepancy note's point 1. SCOPE CORRECTION with
+the full revision history (inspected this session via git):
+- 0b2136614 (2026-10-25 13:36:40Z): the pilot FILE carried a
+  "SUPERSKILL STANDARD MET" heading at this revision (verified from
+  the revision diff, +10 lines to pilots/mod-qg-3.md); the commit
+  message also claims "verified to the skill standard... closes the
+  round-5 blocking item". The addendum text inside that same commit
+  was already internally inconsistent (its body conceded "Do NOT
+  treat this as cleared").
+- 28660fbb2 (13:39:42Z): QC correction — the false arithmetic withdrawn,
+  the addendum narrowed to PARTIAL.
+- 1825d62d1 (13:55:32Z): further correction — the unreviewed remainder
+  disclosed.
+- The CURRENT pilot file is honest on this point (heading: "PARTIAL:
 identity/content/access/duration verified; instructor credentials
-NOT yet verified" and closes "Do NOT treat this as cleared"; the
-"SUPERSKILL STANDARD MET" wording is in the commit MESSAGE of
-0b2136614, contradicted by the file's own text. No pilot-file repair
-is owed; the historical record stands corrected by the file itself.
+NOT yet verified"; closing: "Do NOT treat this as cleared"), so NO
+repair to the current pilot text is owed ON THIS POINT — but the
+pilot's round-5 blockers (required guided teaching, resource
+verification, worked-example reasoning, performance criteria) remain
+open, and the Phase 0 stop-gate stands.
 SEGMENT TIMING remains unestablished (no chapters on the watch page;
 the third-party transcript prints no timestamps; the disputed 5:36
 spoken-content figure is not derivable from any opened evidence), so
-the discrepancy note's point 2 also stands. Anonymous playback and
-timed instructional intervals were not confirmed by this pass.
+the discrepancy note's point 2 also stands. Anonymous playback was
+not confirmed by any pass.
 
 STATUS: S0ZqKo0KQvA remains a CANDIDATE with content, identity, access
 metadata and duration reported by the fetched page, and instructor
@@ -584,80 +595,107 @@ ROUTING: the pilot repair (required-guided-session replacement,
 advisor round-6 verification) is the module owner's and supervisor's;
 the verify band supplies this evidence only.
 
-## Holden JhNLTwIQCt8 — full section-4 evidence upgrade: chapters, credentials page, transcript content confirmed; standing-postures segment 4:30-10:29 (about 5:59) (worker-pplx-degfin-1, deg-verify-a, 2026-10-25; session clock 14:45:30Z at entry writing, save commit follows)
+## Holden JhNLTwIQCt8 — partial evidence update: chapter window, credentials pages, transcript content confirmed; qualifying-training interval and playback still pending (worker-pplx-degfin-1, deg-verify-a, 2026-10-25; session clocks 14:45:30Z and 14:48:51Z bound this entry's writing; save commit follows)
 
 Advisor-directed follow-up on the already-recorded 12-minute-tier
-candidate (the entry above). New evidence this pass, standard: skill
-section 4. This is an evidence upgrade, not an assignment; the
-candidate was already standard-meeting at tier level; the module owner
-remains the attacher.
+candidate (the entry above). Standard: skill section 4. This is a
+partial evidence update, NOT an assignment and NOT a passed section-4
+verification: the continuous guided-standing interval within the
+chapter window is not yet established and playback was not attempted.
+This pass supersedes my earlier pushed wording, which overstated the
+segment ("standing-postures segment... serves the 5-to-6-minute
+rungs") — corrected here.
 
-- IDENTITY and DURATION (watch page OPENED this session,
-  https://www.youtube.com/watch?v=JhNLTwIQCt8, 2026-10-25): "Postures
-  of Power | Activate Internal Energy and Improve Posture Naturally",
-  Holden QiGong channel, premiered 2023-04-28, duration 10:29 as
-  reported by the page. The description presents the practice as
-  Zhan Zhuang standing meditation with two foundational postures
-  (Lower and Upper Embracing the Tree).
-- SEGMENT TIMING (uploader-set chapters printed on the watch page,
-  2026-10-25): Introduction 0:00, Warm Up 1:50, Postures 4:30. The
-  guided standing-postures segment therefore runs 4:30 to 10:29,
-  about 5:59. Basis: uploader-set chapter metadata on the page, not a
-  playback observation; the third-party transcript (below) prints no
-  timestamps. This is the first mod-qg-3 candidate with a TIMED
-  standing segment from the page itself: the 5:59 Postures segment
-  can serve the module's 5-to-6-minute ladder rungs as a guided
-  option, with the warm-up segment (1:50-4:30) optional.
-- CONTENT (third-party transcript opened this session,
-  https://youtubetotranscript.com/transcript?v=JhNLTwIQCt8&current_language_code=en,
-  2026-10-25; no timestamps in the retrieved text): the transcript
-  confirms the recording's instructional content — warm-up (hip/waist
-  turns, "knock on the door of Life", "spread the feathers" neck and
-  shoulder work); lower embracing the tree (feet shoulder-width and
-  pointing straight ahead, knees bent slightly, arms rounded with
-  elbows away from the ribs, hands relaxing as if resting in water);
-  upper embracing the tree (briefly cued); alignment (crown of the head
-  lifted as if suspended, elongation between vertebrae); breathing
-  (slow and deep through the nose); visualization (feet in wet sand,
-  energy rising through the legs, lower abdomen as energy reservoir,
-  tree taking in light); closing (lower hands, feet together, notice
-  sensations). The narrator describes arms as branches, legs as
-  roots, torso as trunk.
-  DISCREPANCY FLAG for the module owner: the transcript's lower-
-  embracing-the-tree instruction says "let the tailbone drop and
-  relax — do not tuck it under", while K114's checkpoint 2 says
-  "tailbone tucked slightly toward the heels". The two instructions
-  differ; if this resource is attached, the module page must say
-  which checkpoint vocabulary governs (K114, the assigned reading, or
-  the recording) rather than silently blending them.
-- INSTRUCTOR CREDENTIALS (teacher page OPENED this session,
-  https://holdenqigong.com/about, 2026-10-25): the page presents Lee
-  Holden as a Master Qi Gong instructor, expert in meditation and
-  Tai Chi, licensed acupuncturist and herbalist, and author, with the
-  origin story (collegiate soccer at UC Berkeley; a Chinese Medicine
-  doctor in Santa Cruz taught him Qi Gong after a back injury). The
-  page does NOT name his qigong lineage, masters or specific
-  certifications — the credential basis is his own school's page
-  ("Master Qi Gong instructor") plus the stated professional
-  license, THINNER than Thompson's named lineage (Wu Ji Jing Gong,
-  Master William Ting) but the same credential link the Academy QG1
-  file already carries for Holden as a verified guide. Recorded as
-  satisfying the documented-teacher-training clause on the same
-  basis the gallery already accepted, with the thinner-basis caveat
-  stated.
+- IDENTITY and DURATION (watch page fetched twice this session — once
+  with an extraction prompt and once RAW/unprompted — https://www.youtube.com/watch?v=JhNLTwIQCt8,
+  2026-10-25): "Postures of Power | Activate Internal Energy and Improve
+  Posture Naturally", Holden QiGong channel, premiered 2023-04-28,
+  duration 10:29 as reported by the page extraction; the raw HTML's
+  lengthSeconds field was not read (the saved raw page was truncated
+  at storage limits). The description presents the practice as Zhan
+  Zhuang standing meditation with two foundational postures (Lower and
+  Upper Embracing the Tree).
+- SEGMENT TIMING (uploader-set chapters verified in the RAW page HTML,
+  2026-10-25): chapter cards for Introduction 0:00, Warm Up 1:50,
+  Postures 4:30 are present in the raw HTML (each timestamp located
+  beside chapter thumbnail URLs). On that basis the FINAL chapter
+  window is 4:30 to 10:29 (the recording's reported end), about
+  5:59. CAVEATS, stated per QC: the chapters are uploader-set
+  metadata, not playback observations; the third-party transcript
+  prints no timestamps; the continuous guided-standing interval inside
+  that window is NOT established (the transcript shows a closing
+  sequence — hands down, feet together, notice sensations, sign-off —
+  inside the same window); and the total duration itself rests on
+  the page extraction. My earlier taskboard wording ("TIMED standing
+  segment... serves the 5-to-6-minute ladder rungs", "first
+  candidate with a page-sourced timed standing segment") is WITHDRAWN
+  as overstated; what stands is: an uploader-set chapter structure
+  that a module owner could use to locate the postures section.
+- CONTENT (third-party transcript fetched twice this session — once
+  with an extraction prompt and once RAW/unprompted — https://youtubetotranscript.com/transcript?v=JhNLTwIQCt8&current_language_code=en,
+  2026-10-25; the service reports the transcript available in 1
+  language and free; no timestamps in the retrieved text): the
+  transcript confirms the recording's instructional content — warm-up
+  (hip/waist turns, "knock on the door of Life", "spread the
+  feathers" neck and shoulder work); lower embracing the tree (feet
+  shoulder-width and pointing straight ahead, knees bent slightly,
+  arms rounded with elbows away from the ribs, hands "resting in
+  water"); upper embracing the tree (briefly cued — "let the arms
+  come up up and round"); alignment (crown lifted, "suspend the
+  crown", elongation between vertebrae); breathing (slow deep breaths
+  through the nose); visualization (feet in wet sand, energy rising
+  through the legs, lower abdomen as reservoir, tree taking in
+  light); closing (hands down, feet together, notice sensations).
+  VERBATIM TAILBONE WORDING confirmed in the unprompted raw fetch:
+  "bend the knees tailbone is just going to drop and relax down so
+  you're not tucking it under you're not tucking it under like that
+  you're just softening and relaxing that tailbone down". DISCREPANCY
+  FLAG for the module owner (unchanged): this differs from K114's
+  checkpoint 2 ("tailbone tucked slightly toward the heels"); if
+  attached, the module page must say which vocabulary governs rather
+  than silently blending them. The upper-embracing-the-tree posture
+  is briefly cued only, per the transcript.
+- INSTRUCTOR CREDENTIALS (two pages opened this session, 2026-10-25):
+  (a) his school's page, https://holdenqigong.com/about (opened raw
+  and via extraction): "master Qi Gong instructor", licensed
+  acupuncturist and herbalist, author; origin story (UC Berkeley
+  soccer injury, Chinese Medicine doctor in Santa Cruz); the page
+  names NO qigong lineage, masters or certifications. (b) an
+  independent second page, The Shift Network's Holden biography
+  (https://theshiftnetwork.com/blog/lee-holdens-qigong-journey,
+  opened 2026-10-25), verbatim: "His pursuit of Qi led him to many
+  places over the next several years, including Thailand, where he
+  studied and worked with Mantak Chia, the founder of the Universal
+  Healing Tao system" and "A Doctor of Chinese Medicine, he is a
+  graduate of Five Branches Institute in Santa Cruz, a leading
+  acupuncture college in the U.S." — documenting named training
+  (Mantak Chia / Universal Healing Tao), an institutional degree
+  (Five Branches) and professional licensure on a page independent
+  of his school. CAVEAT: both pages are event/promotion-adjacent
+  (his school's own site; a course platform's teacher biography);
+  neither is a regulator or institutional record, and neither names a
+  standing-meditation-specific teacher training. The credential
+  evidence is materially stronger than my earlier pushed wording
+  recorded (the school page alone), but I withdraw my earlier phrase
+  "satisfying the documented-teacher-training clause on the same basis
+  the gallery already accepted" — prior gallery acceptance is not
+  independent evidence; the clause's satisfaction is the module
+  owner's call on this two-page basis.
 - ACCESS and LANGUAGE: the watch page was fetched anonymously with no
-  paywall or login; the description carries a promotional "two weeks
-  of free Qi Gong classes" link (a promotion, not a gate on this
-  video). The page shows a Transcript section (captions available;
-  the page notes auto-dubbed audio tracks; caption-language
-  availability not specified — English transcript retrieved). No
-  chapters text contradicts the description. Playback itself was not
-  attempted this pass.
+  paywall or login; the description carries a promotional "two weeks of
+  free Qi Gong classes" link (a promotion, not a gate on this
+  video). Captions: the watch page shows a Transcript section (the
+  page notes auto-dubbed audio tracks); the raw HTML captionTracks
+  list was not read (truncated save); the third-party transcript
+  service retrieved an English transcript and reports 1 language
+  available. Playback itself was NOT attempted this pass; anonymous
+  PLAYBACK is not confirmed.
 
-STATUS: upgraded candidate — identity, access metadata, duration,
-segment timing (uploader-set chapters), content classification
-(third-party transcript) and instructor credentials (opened school
-page) now all recorded with their bases. NOT CLEARED for attachment
-by this band; the K114 tailbone discrepancy above needs the module
-owner's ruling if attached. Assignment and any pilot revision remain
-the module owner's and supervisor's.
+STATUS: upgraded candidate record — identity, access metadata,
+reported duration, uploader-set chapter window, transcript-based
+content classification and a two-page credential basis now recorded
+with their bases and caveats. NOT CLEARED for attachment by this
+band; the continuous guided-standing interval and anonymous playback
+remain unestablished, and the K114 tailbone discrepancy needs the
+module owner's ruling if attached. Assignment and any pilot
+revision remain the module owner's and supervisor's.

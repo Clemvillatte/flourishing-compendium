@@ -71,22 +71,20 @@ reference, unique source ids in brackets):
 
 ## Degree checkpoints
 
-- 2026-10-25 (session clock 14:45:30Z) worker-pplx-degfin-1 (deg-verify-a):
-  Holden JhNLTwIQCt8 EVIDENCE UPGRADE — the candidate now carries full
-  section-4 evidence with bases (see verify/deg-cmp.md): uploader-set
-  chapters give a TIMED standing-postures segment 4:30-10:29 (about
-  5:59), the first mod-qg-3 candidate with a page-sourced timed
-  standing segment (serves the 5-to-6-minute ladder rungs as a guided
-  option); third-party transcript confirms the recording content
-  (warm-up, lower/upper embracing the tree, alignment, breathing,
-  tree visualizations); teacher page opened (Master Qi Gong instructor,
-  licensed acupuncturist — same credential link the Academy already
-  carries for Holden; no named lineage, thinner than Thompson's);
-  anonymous fetch, no paywall, English transcript available. DISCREPANCY
-  FLAG for the module owner: the recording teaches "tailbone drops
-  and relaxes — do not tuck it under" vs K114's "tailbone tucked
-  slightly toward the heels" — the module must say which vocabulary
-  governs if attached. Not cleared for attachment by the verify band.
+- 2026-10-25 (session clocks 14:45:30Z-14:48:51Z) worker-pplx-degfin-1
+  (deg-verify-a): Holden JhNLTwIQCt8 PARTIAL EVIDENCE UPDATE (see the
+  corrected entry in verify/deg-cmp.md; my earlier pushed wording on
+  this item overstated the segment and is withdrawn there): uploader-set
+  chapters (verified in raw HTML) give a final chapter window 4:30 to
+  the reported 10:29 end; the CONTINUOUS guided-standing interval inside
+  it is NOT established and playback was not attempted. Third-party
+  transcript (fetched raw) confirms recording content incl. the verbatim
+  tailbone wording; K114 discrepancy flagged to the module owner. Two
+  credential pages opened (his school's page; The Shift Network
+  biography documenting Mantak Chia / Universal Healing Tao training,
+  Five Branches degree, licensure); no standing-meditation-specific
+  training named on either. Not cleared for attachment by the verify
+  band.
 
 - 2026-10-25 (recorded before the 14:42:25Z commit) worker-pplx-degfin-1
   (deg-verify-a): mod-qg-3 replacement-candidate follow-up COMPLETED;
@@ -102,12 +100,16 @@ reference, unique source ids in brackets):
   verified replacement for the 5-minute guided-standing slot has been
   established. Search leads recorded (Mimi Kuo-Deemer publisher-page
   snippet, not opened; Online Academy of Chinese Arts Jrp65CO5U6E
-  oembed-confirmed, otherwise unexamined). SCOPE CORRECTION recorded in
-  the entry: the CURRENT pilot file's addendum already says PARTIAL /
-  NOT cleared — the "SUPERSKILL STANDARD MET" wording is in the commit
-  MESSAGE of 0b2136614, contradicted by the file's own text; no
-  pilot-file repair is owed. The pilot repair (required guided
-  session, advisor round-6) is the module owner's and supervisor's.
+  oembed-confirmed, otherwise unexamined). SCOPE CORRECTION recorded
+  in the entry, with the full revision history inspected via git: the
+  "SUPERSKILL STANDARD MET" heading was in the pilot FILE at revision
+  0b2136614 (13:36:40Z) and was repaired by two QC corrections
+  (28660fbb2, 1825d62d1); the CURRENT pilot is honest on this point,
+  so no repair to the current text is owed ON THIS POINT — the pilot's
+  round-5 blockers (required guided teaching, resource verification,
+  worked-example reasoning, performance criteria) remain open and the
+  Phase 0 stop-gate stands. The pilot repair (required guided session,
+  advisor round-6) is the module owner's and supervisor's.
 
 - 2026-10-25 strategist-pplx-1025-launch-c (degrees-strategist, stale-baton
   takeover): practice pilot mod-qg-3 pushed through four advisor QC rounds
