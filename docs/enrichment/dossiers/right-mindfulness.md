@@ -94,7 +94,7 @@ He quotes SN 48.10, which describes the faculty of sati as "remembering & able t
 
 He holds that sati makes the object "stand forth vividly and distinctly before the mind", which takes the form of memory when the object is past and of lucid awareness when it is present (same paper).
 
-The two definitions differ on the core. In Kabat-Zinn's the present moment frames the practice, and in Thanissaro's the core is retaining what matters in mind across time. Bodhi sits between them, accepting both usages in the canon and tying them to one capacity. Thanissaro does not name Kabat-Zinn, so the opposition is between the two definitions and not between two people in dialogue.
+The two definitions differ on the core. In Kabat-Zinn's the present moment frames the practice, and in Thanissaro's the core is retaining what matters in mind across time. Bodhi sits between them, accepting both usages in the canon and tying them to one capacity. Thanissaro does not name Kabat-Zinn, so the contrast is between two definitions, with no direct exchange between the authors.
 
 My lean, which is mine: Bodhi's reading fits what I opened best, since SN 48.10 itself sets the memory definition beside the satipatthana formula. For essays on wisdom development, I would write "keeping the aim in mind while attending to what is present" and avoid making either half the whole.
 

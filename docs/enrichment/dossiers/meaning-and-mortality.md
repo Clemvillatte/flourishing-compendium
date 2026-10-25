@@ -89,7 +89,7 @@ He adds that we can conceive of what it would be for a person "to go on existing
 
 Put side by side, the two are answering different questions. Nagel asks whether losing future goods harms the person who dies, and says yes. Williams asks whether an unending life of one character could stay worth wanting, and says it could not. Both can be partly right, since a death can be a loss and an endless life can still be a trap. The disagreement bites on the claim that mortality is itself the source of meaning, which Nagel's essay does not argue and Williams argues in a qualified form.
 
-My lean, which is mine and not a finding: Williams's point about boredom persuades me for a single fixed character, and Nagel's point persuades me for any actual death I am likely to meet. The dossier treats them as two answers to what the remembrance practices below are for.
+My lean, which is mine and not a finding: Williams's point about boredom persuades me for a single fixed character, and Nagel's point persuades me for any actual death I am likely to meet.
 
 Limits: Williams argues from one fictional case and says explicitly that he is not claiming we should stop fearing death. Nagel's essay is about harm, not meaning. The cards in this dossier do not carry either argument.
 

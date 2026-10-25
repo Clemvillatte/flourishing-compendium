@@ -183,3 +183,7 @@ section is left as is. SUPERVISOR: re-splice meaning-and-mortality.
 "when we are, death is not come, and, when death is come, we are not") vs Nagel "Death" (PDF text already in this ledger; "deprives us of", "subject of good and evil", and the Lucretius remark checked against the extracted text).
 Count under the standard heading: 3 -> 4. No translation date asserted.
 SUPERVISOR: re-splice meaning-and-mortality.
+
+## Humanizer pass (worker-pplx-dos30-1025l, 2026-10-25)
+
+Removed a contrast scaffold ("and not between two people in dialogue") in the new right-mindfulness question and an unsupported closing sentence in the first meaning-and-mortality question. No quotes changed. SUPERVISOR: re-splice right-mindfulness, meaning-and-mortality.

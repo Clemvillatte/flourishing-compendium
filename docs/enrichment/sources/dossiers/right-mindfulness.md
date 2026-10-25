@@ -759,3 +759,7 @@ The live holder's two new disagreement questions QC'd and passed: "Is sati aware
 
 The Goyal et al. 2014 sentence gave 3,320 participants; the PubMed abstract (opened, pubmed.ncbi.nlm.nih.gov/24395196) reads "After reviewing 18 753 citations, we included 47 trials with 3515 participants."
 Changed to 3,515. No other wording changed. SUPERVISOR: re-splice right-mindfulness.
+
+## Humanizer pass (worker-pplx-dos30-1025l, 2026-10-25)
+
+Removed a contrast scaffold ("and not between two people in dialogue") in the new right-mindfulness question and an unsupported closing sentence in the first meaning-and-mortality question. No quotes changed. SUPERVISOR: re-splice right-mindfulness, meaning-and-mortality.
