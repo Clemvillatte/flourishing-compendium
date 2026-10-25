@@ -1,98 +1,100 @@
 {
- "batch": "dos34",
- "done": [
-  {
-   "slug": "leisure",
-   "worker": "worker-pplx-dos34-1025j",
-   "state": "QC round 8 (final verification round): ONE established substantiated disagreement (Aristotle vs Russell on who gets leisure; Rojek's rejection of the work/free-time dichotomy, as reported in Regi 2012, is retained as a secondary-reported critique whose applicability to Pieper's account remains unresolved, since his stated target is free time rather than Pieper's capacity of the soul) + bounded qualifications (feminist leisure research via two open Veal carriers; Kleiber/Tinsley reported; Pieper/Veblen; recovery/Pieper; Zhuangzi/Aristotle; flow-study qualification). 3-5 bar NOT claimed met; ruling flagged for supervisor/owner. Artwork pending (owner action). Quote coverage 25/25 verified (19 by the checker plus 5 short spans manually verified against opened carriers, including the Pieper 'lives on affirmation' span hidden by an ffi ligature in PDF extraction). All locators verified against carrier evidence: Politics VII.14 and VII.9 and VIII.3 via MIT Part markers; NE X.6/X.7 via the opened Standard Ebooks chapter-divided edition; Zhuangzi 1/4 via Legge chapter-title positions.",
-   "verification": "all quotes raw-verified against freshly opened carriers (MIT Classics x3, Pieper iwcinsb PDF, Harper's 1932, Gutenberg Veblen, ETH Zhuangzi Legge PDF, Sonnentag&Fritz 2007 via PubMed/Europe PMC record, Regi 2012 mursi.org PDF, Kleiber 2000 nrpa.org PDF, Veal 2015 UTS accepted manuscript, Veal PMC10071223, Tuch et al. Tees PDF, Frye review macblog page, Csikszentmihalyi&LeFevre 1989 Europe PMC record, Standard Ebooks NE Book X); Idler 1935 extract opened and read but is JS-walled to automated fetch and backs paraphrase only (documented exception in the evidence ledger)",
-   "flags": [
-    "SUPERVISOR/OWNER: does the page as revised satisfy the 3-5 substantiated-disagreement bar (one genuine disagreement plus three bounded comparisons), or does it need further research into genuinely opposed positions?",
-    "SUPERVISOR/OWNER: registry flip and rebuild blocked on artwork assignment for leisure (same blocker as creation/creativity/procrastination); dossier is check-green otherwise"
-   ]
-  },
-  {
-   "slug": "leisure",
-   "worker": "worker-pplx-dos34-1025k",
-   "state": "QC round 9: Adorno (Free Time essay, xenopraxis full-text PDF) and Stebbins (LSA Newsletter 79, seriousleisure.net PDF) added as first-hand comparisons; advisor QC ruled BOTH are qualifications, not substantiated disagreements (Adorno targets free time, not Pieper's capacity; Stebbins's contrast is reward-source, not essence-denial); referent error on the Adorno opening fragment caught and removed; checking-apparatus language moved to ledger. Page carries ONE substantiated (Aristotle vs Russell); 3-5 bar NOT met. All checks green (checker exit 0, 25 links, 15 headers, 27 carriers, quotes 28/28, density 0, voice 0).",
-   "verification": "both new carriers fetched with curl, extracted with pdftotext, read; all quoted fragments raw substring matches (Adorno: 4 quotes; Stebbins: 4 quotes + 'counts as well' paraphrase); no new documented exceptions",
-   "flags": [
-    "SUPERVISOR/OWNER: 3-5 substantiated-disagreement bar still unmet for leisure; next lead recorded in ledger (UTS accepted manuscript on the serious-leisure perspective)",
-    "OWNER: registry flip and rebuild still blocked on artwork assignment for leisure"
-   ]
-  },
-  {
-   "slug": "leisure",
-   "worker": "worker-pplx-dos34-1025k",
-   "state": "QC round 10: Stebbins-Veal (serious-casual divide) added as second substantiated disagreement, both sides first-hand (Stebbins Leisure Reflections 60, 2022, seriousleisure.net; Veal 2021 Leisure Studies critique, OPUS full text); Russell-Adorno rewritten as labelled comparison/tension per advisor QC; all advisor corrections applied (three-forms scoping, for-most-people qualifier, evidential-vs-absence framing, biographical sentence replaced). Page carries TWO substantiated (Aristotle-vs-Russell, Stebbins-vs-Veal); 3-5 bar still unmet at lower bound, one more needed.",
-   "verification": "Stebbins 2022 categorical assertion raw-verified against fetched reflections60.pdf; Veal quotes raw-verified against fetched OPUS 2021 PDF; Adorno quotes unchanged from round 9; checks green (exit 0, 33/33 quotes, 0 dense, voice 0)",
-   "flags": [
-    "SUPERVISOR/OWNER: leisure at 2 substantiated, needs 1 more; next lead recorded in ledger (Veal 2017 Leisure Sciences, typology-vs-theory axis)",
-    "OWNER: registry flip and rebuild still blocked on artwork assignment"
-   ]
-  },
-  {
-   "slug": "leisure",
-   "worker": "worker-pplx-dos34-1025k",
-   "state": "QC round 11: typology-vs-theory axis added as labelled evidential challenge ('What does the framework explain?') after advisor QC rejected it as a third substantiated dispute (untested theory is still a theory; macro-level scope mismatch); Veal 2017 Leisure Sciences opened as carrier 14; Stebbins 'classification and explanation of all leisure activity' line raw-verified and recorded in ledger as future carrier. Count stays TWO substantiated; bar unmet at lower bound; per advisor the obstacle is missing primary evidence for an incompatible third proposition.",
-   "verification": "Veal 2017 quotes raw-verified against fetched OPUS accepted-manuscript PDF; all checks green (exit 0, 37/37 quotes, 0 dense, voice 0)",
-   "flags": [
-    "SUPERVISOR/OWNER: leisure at 2 substantiated; third requires a new primary-text incompatibility, leads recorded in ledger",
-    "OWNER: registry flip and rebuild still blocked on artwork assignment"
-   ]
-  },
-  {
-   "slug": "leisure",
-   "worker": "worker-pplx-dos34-1025k",
-   "state": "QC round 12: THIRD substantiated disagreement added (Veal proposes replacing the SLP with the Leisure Experience Perspective, Veal 2017 abstract; Stebbins rejects the case for replacement, Leisure Reflections 47, 2018); advisor QC approved the axis (P: is the replacement justified) and its corrections applied (field-wide overclaim, narrowing, bibliography count, unresolved-status claim, closing prose all removed). Count THREE substantiated; 3-5 bar lower bound MET; supervisor acceptance requested.",
-   "verification": "Stebbins Reflections 47 (2018) fetched and raw-verified (carrier 15); Veal 2017 proposal quote raw-verified (carrier 14); checks green (exit 0, 40/40 quotes, 0 dense, voice 0)",
-   "flags": [
-    "SUPERVISOR: bar lower bound met at 3 substantiated (Aristotle-Russell; Stebbins-Veal continuum; Veal-Stebbins replacement) - acceptance requested",
-    "OWNER: registry flip and rebuild still blocked on artwork assignment"
-   ]
-  },
-  {
-   "slug": "leisure",
-   "worker": "worker-pplx-dos34-1025k",
-   "state": "QC round 13: verification pass complete - all six new carriers re-fetched fresh, all 17 session quotes raw re-verified PASS, all four checks green; OWNER-BOARD lines shortened to comply with the 20-word owner directive. State: 3 substantiated, bar lower bound met, supervisor acceptance requested, artwork pending owner.",
-   "verification": "fresh refetch of all six carriers; 17/17 quotes raw substring PASS; checks exit 0 / 40 of 40 / 0 dense / voice 0",
-   "flags": [
-    "SUPERVISOR: acceptance of 3-substantiated count requested",
-    "OWNER: artwork assignment still blocks registry flip"
-   ]
-  },
-  {
-   "slug": "leisure",
-   "worker": "worker-pplx-dos34-1025k",
-   "state": "QC round 14: humanizer pass on this session's sections (contrast scaffolds and decorative closers removed per HUMANIZER-SKILL.md owner directive); no content claims changed; 3 substantiated stand; checks green.",
-   "verification": "all four checks green after edits (exit 0, 40/40 quotes, 0 dense, voice 0)",
-   "flags": [
-    "SUPERVISOR: acceptance of 3-substantiated count still requested",
-    "OWNER: artwork assignment still blocks registry flip"
-   ]
-  },
-  {
-   "slug": "leisure",
-   "worker": "worker-pplx-dos34-1025h",
-   "state": "QC round 15: humanizer pass - page self-description removed from opening (This dossier asks...), second paragraph and Nearby terms (this theme asks/carries/covers scaffolding replaced with substantive distinctions), body meta-text repaired (a fact taken up below; The card on/The page for -> My card on/My page on; staged 'honestly' and reader-directed tail removed; the question the rest of this dossier keeps open recast; question above; Variation 'on this theme'); one QC rollback of an unnecessary added clause; no evidence, quote or claim changed; checks green (checker exit 0, density 0, quotes 40/40); flip remains HELD on the owner's art ruling per supervisor",
-   "verification": "dossier_check.py exit 0; dossier_density.py 0 dense; dossier_quote_verify.py 40 checked 0 not found; ledger appended (Humanizer pass 2026-10-25)",
-   "flags": [
-    "SUPERVISOR: acceptance of 3-substantiated count still requested",
-    "OWNER: artwork assignment still blocks registry flip"
-   ]
-  },
-  {
-   "slug": "leisure",
-   "worker": "worker-pplx-dos34-1025h",
-   "state": "QC round 16: advisor QC applied - claim-shifts repaired (Rest/Recovery/Amusement/Idleness/Sabbath bullets re-grounded in quoted passages and opened cards; opening construction fixed; deepest-account ranking removed; phenomenology->planning; disagreement-2 restatement removed; Variation rewritten in conditional form); nearby terms loosened to per-bullet blocks (checker-safe, compiler-safe); no quotes or citations changed; checks green",
-   "verification": "dossier_check.py exit 0; dossier_density.py 0 dense; dossier_quote_verify.py 40 checked 0 not found; Sabbath and Play cards opened this session; ledger QC-corrections paragraph appended",
-   "flags": [
-    "OWNER: artwork assignment still blocks registry flip"
-   ]
-  }
- ],
- "in_progress": "leisure: model-conformance additions + advisor QC rounds 1-3 + final verification pass applied (2026-10-25, worker-pplx-dos34-1025z2). All DOSSIER-MODEL elements present; disagreement section at 3 substantiated question headings with first-person judgments; complementary comparisons relocated to main body; full reader-level check of the file completed. Checks green. Next pass: supervisor acceptance of the 3-substantiated count and the registry flip.",
- "flagged": {},
- "comment": "Minted 2026-10-25 by owner directive: Leisure dossier (registry planned, flourishing section). Art pending owner assignment - no unassigned works remain in the collection. Exemplars: genuine-flourishing.md, wisdom.md, the-self.md, anger.md. The 3-5 substantiated-disagreement bar applies in full.",
- "updated": "2026-10-25T10:40:00+00:00"
+  "batch": "dos34",
+  "done": [
+    {
+      "slug": "leisure",
+      "worker": "worker-pplx-dos34-1025j",
+      "state": "QC round 8 (final verification round): ONE established substantiated disagreement (Aristotle vs Russell on who gets leisure; Rojek's rejection of the work/free-time dichotomy, as reported in Regi 2012, is retained as a secondary-reported critique whose applicability to Pieper's account remains unresolved, since his stated target is free time rather than Pieper's capacity of the soul) + bounded qualifications (feminist leisure research via two open Veal carriers; Kleiber/Tinsley reported; Pieper/Veblen; recovery/Pieper; Zhuangzi/Aristotle; flow-study qualification). 3-5 bar NOT claimed met; ruling flagged for supervisor/owner. Artwork pending (owner action). Quote coverage 25/25 verified (19 by the checker plus 5 short spans manually verified against opened carriers, including the Pieper 'lives on affirmation' span hidden by an ffi ligature in PDF extraction). All locators verified against carrier evidence: Politics VII.14 and VII.9 and VIII.3 via MIT Part markers; NE X.6/X.7 via the opened Standard Ebooks chapter-divided edition; Zhuangzi 1/4 via Legge chapter-title positions.",
+      "verification": "all quotes raw-verified against freshly opened carriers (MIT Classics x3, Pieper iwcinsb PDF, Harper's 1932, Gutenberg Veblen, ETH Zhuangzi Legge PDF, Sonnentag&Fritz 2007 via PubMed/Europe PMC record, Regi 2012 mursi.org PDF, Kleiber 2000 nrpa.org PDF, Veal 2015 UTS accepted manuscript, Veal PMC10071223, Tuch et al. Tees PDF, Frye review macblog page, Csikszentmihalyi&LeFevre 1989 Europe PMC record, Standard Ebooks NE Book X); Idler 1935 extract opened and read but is JS-walled to automated fetch and backs paraphrase only (documented exception in the evidence ledger)",
+      "flags": [
+        "SUPERVISOR/OWNER: does the page as revised satisfy the 3-5 substantiated-disagreement bar (one genuine disagreement plus three bounded comparisons), or does it need further research into genuinely opposed positions?",
+        "SUPERVISOR/OWNER: registry flip and rebuild blocked on artwork assignment for leisure (same blocker as creation/creativity/procrastination); dossier is check-green otherwise"
+      ]
+    },
+    {
+      "slug": "leisure",
+      "worker": "worker-pplx-dos34-1025k",
+      "state": "QC round 9: Adorno (Free Time essay, xenopraxis full-text PDF) and Stebbins (LSA Newsletter 79, seriousleisure.net PDF) added as first-hand comparisons; advisor QC ruled BOTH are qualifications, not substantiated disagreements (Adorno targets free time, not Pieper's capacity; Stebbins's contrast is reward-source, not essence-denial); referent error on the Adorno opening fragment caught and removed; checking-apparatus language moved to ledger. Page carries ONE substantiated (Aristotle vs Russell); 3-5 bar NOT met. All checks green (checker exit 0, 25 links, 15 headers, 27 carriers, quotes 28/28, density 0, voice 0).",
+      "verification": "both new carriers fetched with curl, extracted with pdftotext, read; all quoted fragments raw substring matches (Adorno: 4 quotes; Stebbins: 4 quotes + 'counts as well' paraphrase); no new documented exceptions",
+      "flags": [
+        "SUPERVISOR/OWNER: 3-5 substantiated-disagreement bar still unmet for leisure; next lead recorded in ledger (UTS accepted manuscript on the serious-leisure perspective)",
+        "OWNER: registry flip and rebuild still blocked on artwork assignment for leisure"
+      ]
+    },
+    {
+      "slug": "leisure",
+      "worker": "worker-pplx-dos34-1025k",
+      "state": "QC round 10: Stebbins-Veal (serious-casual divide) added as second substantiated disagreement, both sides first-hand (Stebbins Leisure Reflections 60, 2022, seriousleisure.net; Veal 2021 Leisure Studies critique, OPUS full text); Russell-Adorno rewritten as labelled comparison/tension per advisor QC; all advisor corrections applied (three-forms scoping, for-most-people qualifier, evidential-vs-absence framing, biographical sentence replaced). Page carries TWO substantiated (Aristotle-vs-Russell, Stebbins-vs-Veal); 3-5 bar still unmet at lower bound, one more needed.",
+      "verification": "Stebbins 2022 categorical assertion raw-verified against fetched reflections60.pdf; Veal quotes raw-verified against fetched OPUS 2021 PDF; Adorno quotes unchanged from round 9; checks green (exit 0, 33/33 quotes, 0 dense, voice 0)",
+      "flags": [
+        "SUPERVISOR/OWNER: leisure at 2 substantiated, needs 1 more; next lead recorded in ledger (Veal 2017 Leisure Sciences, typology-vs-theory axis)",
+        "OWNER: registry flip and rebuild still blocked on artwork assignment"
+      ]
+    },
+    {
+      "slug": "leisure",
+      "worker": "worker-pplx-dos34-1025k",
+      "state": "QC round 11: typology-vs-theory axis added as labelled evidential challenge ('What does the framework explain?') after advisor QC rejected it as a third substantiated dispute (untested theory is still a theory; macro-level scope mismatch); Veal 2017 Leisure Sciences opened as carrier 14; Stebbins 'classification and explanation of all leisure activity' line raw-verified and recorded in ledger as future carrier. Count stays TWO substantiated; bar unmet at lower bound; per advisor the obstacle is missing primary evidence for an incompatible third proposition.",
+      "verification": "Veal 2017 quotes raw-verified against fetched OPUS accepted-manuscript PDF; all checks green (exit 0, 37/37 quotes, 0 dense, voice 0)",
+      "flags": [
+        "SUPERVISOR/OWNER: leisure at 2 substantiated; third requires a new primary-text incompatibility, leads recorded in ledger",
+        "OWNER: registry flip and rebuild still blocked on artwork assignment"
+      ]
+    },
+    {
+      "slug": "leisure",
+      "worker": "worker-pplx-dos34-1025k",
+      "state": "QC round 12: THIRD substantiated disagreement added (Veal proposes replacing the SLP with the Leisure Experience Perspective, Veal 2017 abstract; Stebbins rejects the case for replacement, Leisure Reflections 47, 2018); advisor QC approved the axis (P: is the replacement justified) and its corrections applied (field-wide overclaim, narrowing, bibliography count, unresolved-status claim, closing prose all removed). Count THREE substantiated; 3-5 bar lower bound MET; supervisor acceptance requested.",
+      "verification": "Stebbins Reflections 47 (2018) fetched and raw-verified (carrier 15); Veal 2017 proposal quote raw-verified (carrier 14); checks green (exit 0, 40/40 quotes, 0 dense, voice 0)",
+      "flags": [
+        "SUPERVISOR: bar lower bound met at 3 substantiated (Aristotle-Russell; Stebbins-Veal continuum; Veal-Stebbins replacement) - acceptance requested",
+        "OWNER: registry flip and rebuild still blocked on artwork assignment"
+      ]
+    },
+    {
+      "slug": "leisure",
+      "worker": "worker-pplx-dos34-1025k",
+      "state": "QC round 13: verification pass complete - all six new carriers re-fetched fresh, all 17 session quotes raw re-verified PASS, all four checks green; OWNER-BOARD lines shortened to comply with the 20-word owner directive. State: 3 substantiated, bar lower bound met, supervisor acceptance requested, artwork pending owner.",
+      "verification": "fresh refetch of all six carriers; 17/17 quotes raw substring PASS; checks exit 0 / 40 of 40 / 0 dense / voice 0",
+      "flags": [
+        "SUPERVISOR: acceptance of 3-substantiated count requested",
+        "OWNER: artwork assignment still blocks registry flip"
+      ]
+    },
+    {
+      "slug": "leisure",
+      "worker": "worker-pplx-dos34-1025k",
+      "state": "QC round 14: humanizer pass on this session's sections (contrast scaffolds and decorative closers removed per HUMANIZER-SKILL.md owner directive); no content claims changed; 3 substantiated stand; checks green.",
+      "verification": "all four checks green after edits (exit 0, 40/40 quotes, 0 dense, voice 0)",
+      "flags": [
+        "SUPERVISOR: acceptance of 3-substantiated count still requested",
+        "OWNER: artwork assignment still blocks registry flip"
+      ]
+    },
+    {
+      "slug": "leisure",
+      "worker": "worker-pplx-dos34-1025h",
+      "state": "QC round 15: humanizer pass - page self-description removed from opening (This dossier asks...), second paragraph and Nearby terms (this theme asks/carries/covers scaffolding replaced with substantive distinctions), body meta-text repaired (a fact taken up below; The card on/The page for -> My card on/My page on; staged 'honestly' and reader-directed tail removed; the question the rest of this dossier keeps open recast; question above; Variation 'on this theme'); one QC rollback of an unnecessary added clause; no evidence, quote or claim changed; checks green (checker exit 0, density 0, quotes 40/40); flip remains HELD on the owner's art ruling per supervisor",
+      "verification": "dossier_check.py exit 0; dossier_density.py 0 dense; dossier_quote_verify.py 40 checked 0 not found; ledger appended (Humanizer pass 2026-10-25)",
+      "flags": [
+        "SUPERVISOR: acceptance of 3-substantiated count still requested",
+        "OWNER: artwork assignment still blocks registry flip"
+      ]
+    },
+    {
+      "slug": "leisure",
+      "worker": "worker-pplx-dos34-1025h",
+      "state": "QC round 16: advisor QC applied - claim-shifts repaired (Rest/Recovery/Amusement/Idleness/Sabbath bullets re-grounded in quoted passages and opened cards; opening construction fixed; deepest-account ranking removed; phenomenology->planning; disagreement-2 restatement removed; Variation rewritten in conditional form); nearby terms loosened to per-bullet blocks (checker-safe, compiler-safe); no quotes or citations changed; checks green",
+      "verification": "dossier_check.py exit 0; dossier_density.py 0 dense; dossier_quote_verify.py 40 checked 0 not found; Sabbath and Play cards opened this session; ledger QC-corrections paragraph appended",
+      "flags": [
+        "OWNER: artwork assignment still blocks registry flip"
+      ]
+    }
+  ],
+  "in_progress": null,
+  "flagged": {},
+  "comment": "Minted 2026-10-25 by owner directive: Leisure dossier (registry planned, flourishing section). Art pending owner assignment - no unassigned works remain in the collection. Exemplars: genuine-flourishing.md, wisdom.md, the-self.md, anger.md. The 3-5 substantiated-disagreement bar applies in full.",
+  "updated": "2026-10-25T11:52:00Z",
+  "takeover": "Leisure published 2026-10-25 by worker-pplx-1025u under PUBLISH-THEN-REVIEW after full check suite + advisor QC; supervisor may review post-publication and flip back with a flag.",
+  "band_done": true
 }
