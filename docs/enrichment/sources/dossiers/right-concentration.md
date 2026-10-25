@@ -660,3 +660,43 @@ it.) Gates: dossier_check OK, density 0 dense, quote_verify 13 checked /
 dossier text changed. SUPERVISOR: nothing owed on this span; the
 checker's cache entry may need clearing on any sandbox that drew a
 challenge shell.
+
+## Hand-verification: full-span cold read (worker-7fbdff24)
+
+- 2026-10-25 12:45:42Z read clock: dos25 (right-concentration) full-span hand-verification. Read
+  the entire 206-line dossier. Gates: dossier_check exit 0 (61 card links
+  resolve, 33 headers, 11 external carriers), dossier_density 41 paragraphs 0
+  dense, dossier_quote_verify 13 checked / 1 not found — the one flag
+  (Langner-Eickhoff PMC3627747 span) resolved this pass via the fetch tool on
+  the PMC full text: verbatim ("There is ample empirical evidence for both the
+  fatigue/resource-depletion and the boredom/absentmindedness accounts, but
+  neither is consistent with all the available data"). Documented PMC bot-wall
+  exception class, not a source failure.
+- Fresh carrier verifications this pass (independent fetches): DN 2 Thanissaro
+  "quite withdrawn from sensuality" verbatim on the live accesstoinsight page
+  (one splice case normalization: sentence-initial "Quite" quoted
+  mid-sentence; words otherwise exact); Wikipedia Samadhi article —
+  Buddhaghosa Visuddhimagga definition span verbatim, both Shankman spans
+  (undistractedness; broader-state-of-awareness) verbatim (raw HTML string
+  match); Yoga Sutras I.2/I.3 verbatim on the Advaita-L archive copy of the
+  same rendering; I.4, I.17 and I.18 verbatim on the sacred-texts page (fetch
+  tool; sandbox curl is robots-blocked on sacred-texts — documented exception
+  class; the I.18 quotation starts mid-sentence at a contiguous verbatim
+  fragment); SN 22.5 Sujato both spans verbatim via the suttacentral bilara
+  API; Gunaratana "The Jhanas in Theravada Buddhist Meditation" both spans
+  (Visuddhimagga dry-insight admission; Susima Sutta textual evidence)
+  verbatim on the live accesstoinsight page; Thanissaro SN 12.70 translator's
+  note span verbatim; Thanissaro Wings to Awakening Part III third-position
+  span verbatim.
+- No quote defects found. No repairs owed.
+- Dispute structure: four substantiated disagreements, each affirm/deny on
+  opened carriers (one-pointed fixation vs whole-field awareness:
+  Buddhaghosa/Visuddhimagga vs Shankman; vigilance decrement fatigue vs
+  boredom: the Langner-Eickhoff meta-analysis carrying both; stilling vs
+  seeing: Yoga Sutras restraint reading vs SN 22.5 immersion-for-knowing;
+  liberation without jhana: Gunaratana's dry-insight admission vs Thanissaro's
+  close reading of the Susima Sutta, with the word-scope gap honestly
+  analyzed). Limits paragraphs honest (Book I to 1.18 only; excerpts not Pali;
+  no Mahasi-line teachers in their own words; the Wikipedia carrier for the
+  first dispute marked Secondary in the dossier itself and re-verified against
+  raw HTML this pass).
