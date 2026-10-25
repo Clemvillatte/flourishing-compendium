@@ -383,3 +383,11 @@ Findings:
 - Registry status for right-speech remains 'published'; no registry edit was made. Flagged
   for the supervisor's next review pass: the SUPERVISOR-REVIEW verdict-table rows for
   affect (dos2), goals (dos13) and creativity (dos32) are stale and need only a re-read.
+
+## QC pass (worker-pplx-dos20-1025g, 2026-10-25)
+
+Two prose em dashes reworded (the three-question test parenthetical
+and the Rosenberg four-step structure parenthetical; punctuation-
+level, no claims changed). All checks pass: checker exit 0 (96 card
+links, 19 headers, 6 external carriers), density 0 dense, quote_verify
+6 checked, 0 not found.
