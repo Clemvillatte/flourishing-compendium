@@ -12,33 +12,25 @@ These are the nearest entries, not the scope.
 
 Each tradition takes the question apart differently. The Stoics ask what is ever up to a person at all and answer: judgment, effort, and little else. Rotter asks where a person believes control sits, inside or outside, and traces what the belief does to learning. Bandura asks whether a person believes they can execute the act, and finds the belief governing effort and persistence. Self-determination theory asks whether the motivation is owned or imposed, and counts autonomy and competence among the needs a life runs on.
 
-## The map: the entries on agency
+## Where agency sits in a life
 
 ### What is ever one's own to run
 
-[The dichotomy of control](https://clemvillatte.github.io/flourishing-compendium/#card=The%20dichotomy%20of%20control): Epictetus's division in Enchiridion 1 between what is up to us (opinion, pursuit, desire, aversion, our own actions) and what is not (body, property, reputation, command).
+Epictetus's division in Enchiridion 1 between what is up to us (opinion, pursuit, desire, aversion, our own actions) and what is not (body, property, reputation, command) is [the dichotomy of control](https://clemvillatte.github.io/flourishing-compendium/#card=The%20dichotomy%20of%20control). The capacity to act from one's own understanding, free of external compulsion and internal passion, gathering political liberty, autonomy, and liberation from craving or fear, is [freedom](https://clemvillatte.github.io/flourishing-compendium/#card=Freedom).
 
-[Freedom](https://clemvillatte.github.io/flourishing-compendium/#card=Freedom): the capacity to act from one's own understanding, free of external compulsion and internal passion; the word gathers political liberty, autonomy, and liberation from craving or fear.
+Berlin's second sense of liberty, the wish to be one's own master, a self in charge of its life which the mere absence of interference does not supply, is [positive freedom](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20freedom). Frankfurt's term for wanting what one wants, where the person is the one who can endorse or disown a first-order desire, is [second-order desires](https://clemvillatte.github.io/flourishing-compendium/#card=Second-order%20desires).
 
-[Positive freedom](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20freedom): Berlin's second sense of liberty: the wish to be one's own master; a self in charge of its life, which the mere absence of interference does not supply.
-
-[Second-order desires](https://clemvillatte.github.io/flourishing-compendium/#card=Second-order%20desires): Frankfurt's term for wanting what one wants; the person, on this account, is the one who can endorse or disown a first-order desire.
-
-[Akrasia](https://clemvillatte.github.io/flourishing-compendium/#card=Akrasia): acting against one's own better judgment; Aristotle treats it as a curable failure of habituation, not a fate.
-
-[Wu wei](https://clemvillatte.github.io/flourishing-compendium/#card=Wu%20wei): the Daodejing's way of acting that does not force, so that things take their own course; effectiveness without strain.
+Acting against one's own better judgment, which Aristotle treats as a curable failure of habituation, not a fate, is [akrasia](https://clemvillatte.github.io/flourishing-compendium/#card=Akrasia). The Daodejing's way of acting that does not force, so that things take their own course, effectiveness without strain, is [wu wei](https://clemvillatte.github.io/flourishing-compendium/#card=Wu%20wei).
 
 Epictetus draws the line the whole theme keeps returning to:
 
 > "Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions. Things not in our control are body, property, reputation, command, and, in one word, whatever are not our own actions." ([Epictetus, Enchiridion 1, Elizabeth Carter translation](https://classics.mit.edu/Epictetus/epicench.html))
 
-### The say as effective power
+### How the say works as power
 
-[Learning by doing](https://clemvillatte.github.io/flourishing-compendium/#card=Learning%20by%20doing): Dewey's claim that knowledge grows out of activity and its consequences; experience is an active and a passive element taken together, not the reception of information.
+Dewey's claim that knowledge grows out of activity and its consequences, where experience is an active and a passive element taken together rather than the reception of information, is [learning by doing](https://clemvillatte.github.io/flourishing-compendium/#card=Learning%20by%20doing). Carver and Scheier's feedback model of behaviour, in which loops compare the perceived state against a reference value and the mismatch itself drives the action, is the [control theory of self-regulation](https://clemvillatte.github.io/flourishing-compendium/#card=Control%20theory%20of%20self-regulation).
 
-[Control theory of self-regulation](https://clemvillatte.github.io/flourishing-compendium/#card=Control%20theory%20of%20self-regulation): Carver and Scheier's feedback model of behaviour: loops compare the perceived state against a reference value, and the mismatch itself drives the action.
-
-[Pragmatism](https://clemvillatte.github.io/flourishing-compendium/#card=Pragmatism): the tradition that, in the SEP's words, understands knowing the world as inseparable from agency within it; Peirce, James and Dewey, with the pragmatic maxim as its core.
+The tradition that, in the SEP's words, understands knowing the world as inseparable from agency within it, Peirce, James and Dewey with the pragmatic maxim as its core, is [pragmatism](https://clemvillatte.github.io/flourishing-compendium/#card=Pragmatism).
 
 Dewey's frame turns agency from a possession into a circuit: the seeing is already shaped by prior reaching, and the outcome reshapes the next seeing. On this view the capacity grows by the same route a skill grows, through conduct and its consequences.
 
@@ -48,17 +40,11 @@ Dewey's frame turns agency from a possession into a circuit: the seeing is alrea
 
 > "If the person perceives that the event is contingent upon his own behavior or his own relatively permanent characteristics, we have termed this a belief in internal control." ([Rotter, "Generalized expectancies for internal versus external control of reinforcement", Psychological Monographs 80(1), 1966](https://raw.githubusercontent.com/jjcurtin/arc_measures/main/LCS/Rotter1966.pdf))
 
-[Secondary control](https://clemvillatte.github.io/flourishing-compendium/#card=Secondary%20control): Rothbaum, Weisz and Snyder's two-process model: gaining control by changing the world, or by bringing the self into line with forces that will not change.
+Rothbaum, Weisz and Snyder's two-process model, gaining control by changing the world or by bringing the self into line with forces that will not change, is [secondary control](https://clemvillatte.github.io/flourishing-compendium/#card=Secondary%20control). Seligman and Maier's finding that uncontrollable events teach a lesson that outlasts them, that nothing one does matters so the escape goes untaken, is [Learned Helplessness Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Learned%20Helplessness%20Theory).
 
-[Learned Helplessness Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Learned%20Helplessness%20Theory): Seligman and Maier's finding that uncontrollable events teach a lesson that outlasts them: that nothing one does matters, so the escape goes untaken.
+Seligman's claim that the way people explain setbacks to themselves can be shifted, where the book grew directly out of the helplessness research, is [learned optimism](https://clemvillatte.github.io/flourishing-compendium/#card=Learned%20optimism). The habit that matters after a setback, bad events explained as temporary, specific and changeable, with permanence and pervasiveness as the pessimist's marks, is [optimistic explanatory style](https://clemvillatte.github.io/flourishing-compendium/#card=Optimistic%20explanatory%20style).
 
-[Learned optimism](https://clemvillatte.github.io/flourishing-compendium/#card=Learned%20optimism): Seligman's claim that the way people explain setbacks to themselves can be shifted; the book grew directly out of the helplessness research.
-
-[Optimistic explanatory style](https://clemvillatte.github.io/flourishing-compendium/#card=Optimistic%20explanatory%20style): the habit that matters after a setback: bad events explained as temporary, specific and changeable, with permanence and pervasiveness as the pessimist's marks.
-
-[Reappraisal's effectiveness depends on controllability](https://clemvillatte.github.io/flourishing-compendium/#card=Reappraisal%27s%20effectiveness%20depends%20on%20controllability): Troy, Shallcross and Mauss's finding that reframing helps or harms depending on whether the stressor can actually be changed; acceptance fits the unchangeable case.
-
-[Psychological empowerment theory](https://clemvillatte.github.io/flourishing-compendium/#card=Psychological%20empowerment%20theory): Spreitzer's construct of four cognitions about one's role, meaning, competence, self-determination and impact, as intrinsic task motivation.
+Troy, Shallcross and Mauss's finding that reframing helps or harms depending on whether the stressor can actually be changed, where acceptance fits the unchangeable case, is the [controllability of reappraisal](https://clemvillatte.github.io/flourishing-compendium/#card=Reappraisal%27s%20effectiveness%20depends%20on%20controllability). Spreitzer's construct of four cognitions about one's role, meaning, competence, self-determination and impact, as intrinsic task motivation, is [psychological empowerment theory](https://clemvillatte.github.io/flourishing-compendium/#card=Psychological%20empowerment%20theory).
 
 ### The belief that one can act
 
@@ -66,19 +52,11 @@ Dewey's frame turns agency from a possession into a circuit: the seeing is alrea
 
 > "Efficacy expectations determine how much effort people will expend and how long they will persist in the face of obstacles and aversive experiences." ([Bandura, "Self-efficacy: Toward a Unifying Theory of Behavioral Change", Psychological Review 84(2), 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf))
 
-[Mastery experiences](https://clemvillatte.github.io/flourishing-compendium/#card=Mastery%20experiences): the strongest of the four sources of efficacy belief: direct experience of succeeding at a task, alongside vicarious experience, persuasion and somatic states.
+The strongest of the four sources of efficacy belief, direct experience of succeeding at a task alongside vicarious experience, persuasion and somatic states, is [mastery experiences](https://clemvillatte.github.io/flourishing-compendium/#card=Mastery%20experiences). Learning by watching another person act and seeing what follows, where the observer acquires the behaviour the model performs, is [modeling](https://clemvillatte.github.io/flourishing-compendium/#card=Modeling).
 
-[Modeling](https://clemvillatte.github.io/flourishing-compendium/#card=Modeling): learning by watching another person act and seeing what follows; the observer acquires the behaviour the model performs.
+The Bandura line running through the 1961 experiments comparing children who watched aggressive and nonaggressive adult models is [observational learning](https://clemvillatte.github.io/flourishing-compendium/#card=Observational%20learning). Dweck's term for the belief that abilities can be developed, whose older technical name is an incremental implicit theory of ability, is [growth mindset](https://clemvillatte.github.io/flourishing-compendium/#card=Growth%20mindset).
 
-[Observational learning](https://clemvillatte.github.io/flourishing-compendium/#card=Observational%20learning): the Bandura line running through the 1961 experiments comparing children who watched aggressive and nonaggressive adult models.
-
-[Growth mindset](https://clemvillatte.github.io/flourishing-compendium/#card=Growth%20mindset): Dweck's term for the belief that abilities can be developed; the older technical name is an incremental implicit theory of ability.
-
-[Creative self-efficacy](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20self-efficacy): Tierney and Farmer's extension of the efficacy construct to creative work: the belief one can produce creative outcomes.
-
-[Collective efficacy](https://clemvillatte.github.io/flourishing-compendium/#card=Collective%20efficacy): Bandura's extension of agency to groups: people's shared beliefs in their collective power to produce desired results.
-
-[Hope](https://clemvillatte.github.io/flourishing-compendium/#card=Hope): the forward-facing expectation of a good not yet arrived; in Snyder's theory it runs on agency and pathways together.
+Tierney and Farmer's extension of the efficacy construct to creative work, the belief one can produce creative outcomes, is [creative self-efficacy](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20self-efficacy). Bandura's extension of agency to groups, people's shared beliefs in their collective power to produce desired results, is [collective efficacy](https://clemvillatte.github.io/flourishing-compendium/#card=Collective%20efficacy). The forward-facing expectation of a good not yet arrived, which in Snyder's theory runs on agency and pathways together, is [hope](https://clemvillatte.github.io/flourishing-compendium/#card=Hope).
 
 ### Autonomy and competence as needs
 
