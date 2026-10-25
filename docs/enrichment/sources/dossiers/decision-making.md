@@ -82,3 +82,32 @@ what is right for this person — the relativity-of-the-mean doctrine).
 Checks: dossier_check.py exit 0; the fresh audit count for this
 dossier fell from 6 to 5. Editorial review only; no carriers or cards
 freshly opened this pass.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+Following the advisor QC direction after two misattributed entries were
+found in the fear dossier, all 59 concept and principle entries in this
+dossier's map sections were compared against their linked cards (card
+files opened and read side by side with the glosses). Every gloss
+matches its card, including the descriptive-decision-science cluster
+(Schwartz satisficing-maximizing, Kahneman dual-process and System 1/2,
+Stanovich rationality, prospect theory, Loomes-Sugden regret theory,
+Gigerenzer's fast-and-frugal heuristics and ecological rationality),
+the bias catalogue (cognitive biases, affect and availability and
+representativeness heuristics, base rate neglect, anchoring, framing,
+endowment, status quo, default, negativity, survivorship, overconfidence,
+planning fallacy, optimism bias, hindsight, confirmation, bias blind
+spot, sunk cost, escalation of commitment, impact bias), the intuition
+cluster (Klein's RPD, Haidt's moral intuition and social intuitionist
+model, Bergson's intuition), risk literacy and perception, choice
+overload and paradox of choice, choice architecture and nudge, debiasing
+and pre-mortem, participatory decision-making, the Aristotle cluster
+(prohairesis, boulesis, prudence, akrasia in both entries), Dewey's
+deliberation as rehearsal, Seneca's pre-commitment and hope-tempered-
+by-prudence, Milkman temptation bundling, self-control training with
+its caution, Jaspers on decision, the Sartre cluster (choice of self,
+originary choice), moral dilemmas and dilemma research, and Glasser's
+Choice Theory. No mismatches found; no edits made.
+
+Checks: dossier_check.py exit 0 (run again this session). Editorial
+review only; no external carriers freshly opened this pass.
