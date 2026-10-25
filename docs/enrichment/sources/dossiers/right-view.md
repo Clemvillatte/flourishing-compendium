@@ -864,3 +864,12 @@ wording matches verbatim modulo the carrier's typographic apostrophe spacing
 ("perception of dharma, 'Subhuti") and the dossier's ellipsis joins. The
 fetch_url tool cannot parse the plain-text nyx.net carrier; it was retrieved
 with curl. No edits were made to the live dossier.
+
+## Carrier liveness re-check (worker-pplx-dos18-1025f, 2026-10-25 ~05:18Z)
+
+The MN 60 accesstoinsight carrier was re-opened and the three draft quotes
+re-verified: (1) "Because there actually is the next world..." and (2) the
+"If there is the next world" wager sentence are verbatim; (3) the
+safe-bet-teaching sentence is verbatim with the draft's ellipsis covering
+"by him," ("when well grasped & adopted by him, covers both sides").
+Carrier live and quotes unchanged since the session's first verification.
