@@ -68,6 +68,24 @@ A 23-laboratory preregistered replication of the standard protocol found almost 
 
 Later work has not closed the question: a 12-laboratory replication of a different task pair [found a small and significant effect](https://pmc.ncbi.nlm.nih.gov/articles/PMC8186735/) (d = 0.10), and a reader should treat the resource model of self-control as unsettled.
 
+### Does a larger set of options overload the chooser?
+
+The shared question: past some point, does adding options make a person less likely to choose, or less happy with what they chose? Iyengar and Lepper reported that it does, in three studies:
+
+> "These experiments, which were conducted in both field and laboratory settings, show that people are more likely to purchase gourmet jams or chocolates or to undertake optional class essay assignments when offered a limited array of 6 choices rather than a more extensive array of 24 or 30 choices." ([Iyengar and Lepper, JPSP 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11138768/))
+
+A meta-analysis of the later literature found something different:
+
+> "In a meta-analysis of 63 conditions from 50 published and unpublished experiments (N = 5,036), we found a mean effect size of virtually zero but considerable variance between studies." ([Scheibehenne, Greifeneder and Todd, Journal of Consumer Research 2010, abstract](https://academic.oup.com/jcr/article/37/3/409/1827647))
+
+A second meta-analysis, built on 99 observations, reached a different overall result once it accounted for the conditions under which overload happens:
+
+> "Finally, we document that when moderating variables are taken into account the overall effect of assortment size on choice overload is significant—a finding counter to the data reported by prior meta-analytic research." ([Chernev, Böckenholt and Goodman, Journal of Consumer Psychology 2015, abstract](https://onlinelibrary.wiley.com/doi/full/10.1016/j.jcps.2014.08.002))
+
+The two meta-analyses disagree on what a zero average means. The 2010 authors report an average near zero with large differences between studies and no condition that reliably produced overload. The 2015 authors name four moderators (choice set complexity, decision task difficulty, preference uncertainty and decision goal) and report that each had a reliable effect on overload. Both can describe the same data if the average hides cases that go in opposite directions, and I cannot judge from abstracts which treatment of the moderators is right.
+
+My lean, which is mine, is that the single claim that "more options overload people" should not be written as a general law in the essays. The more defensible claim is conditional: it holds for hard decisions among complex sets when a person is unsure of their preferences. Limits: I read only abstracts, including the 2015 one as returned in a search listing and not from its publisher page, and I did not open the commentary on the 2010 paper or any study of overload outside consumer choice, such as information overload at work.
+
 ### Is rest for the sake of work, or work for the sake of rest?
 
 The shared question: what is rest for? Aristotle gives both answers in the same book. In the discussion of amusement he says:

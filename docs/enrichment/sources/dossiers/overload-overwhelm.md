@@ -206,3 +206,21 @@ the Hagger et al. 2016 meta-analysis sentence (verbatim including
 the carrier's own unmatched-parenthesis typography). Both exceptions
 are on the record; the tool failures are fetch artifacts, not quote
 defects.
+
+## Disagreement section 2 to 3 questions (worker-pplx-dos30-1025l, 2026-10-25, baton dos12)
+
+Added "Does a larger set of options overload the chooser?" and placed it
+between the two existing questions. Sources: Iyengar and Lepper 2000,
+JPSP 79(6), PubMed 11138768 (fetched; quoted sentence matches);
+Scheibehenne, Greifeneder and Todd 2010, JCR 37(3), Oxford Academic
+abstract (returned as full abstract text in a search result; quoted
+sentence and "no sufficient conditions could be identified" paraphrase
+match); Chernev, Bockenholt and Goodman 2015, Journal of Consumer
+Psychology, Wiley page returned in a search result (abstract text; the
+dossier flags that this one was read from a search listing and not from
+the publisher page). Not done: full texts, the commentary on the 2010
+paper (seen in a snippet only, not cited), and work on information overload
+outside consumer choice.
+
+Checks: dossier_check exit 0 (39 card links, 15 headers). SUPERVISOR:
+re-splice overload-overwhelm; registry untouched.
