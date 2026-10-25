@@ -1053,7 +1053,7 @@
    "stid": "ST430"
   },
   "s1a-024": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "B043: Dipa Ma's own account of insight as watching — losses, heart failure, the course of practice, and anger/desire observed to arising and passing; distinct from ST095's daily-life angle",
    "history": [
     {
@@ -1079,6 +1079,11 @@
      "t": "2026-10-23T11:48:59+00:00",
      "to": "qc_pending",
      "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T14:05:01+00:00",
+     "to": "ready",
+     "note": "verification pass: 12 Tricycle quotes verbatim, 2 dipama quotes re-located on relocated instructions page; one coverage-matrix string not re-locatable (site restructured) - flagged; ready"
     }
    ],
    "stid": "ST401"
@@ -1801,5 +1806,5 @@
    ]
   }
  },
- "updated": "2026-10-25T14:03:15+00:00"
+ "updated": "2026-10-25T14:05:01+00:00"
 }
