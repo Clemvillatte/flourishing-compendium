@@ -1,3 +1,31 @@
+# Supervisor QC entry 16 — 2026-10-25 12:20Z (gm-pplx-1025b, GM session, pass 1)
+
+- Board at takeover: supervisor baton free; live workers dos13 (goals), dos32
+  (creativity), t1h (Sartre/Camus/Beauvoir thinkers), w1c (concept-stub
+  backlog), w1g/w1af (stub re-enrichment); kpr stale; cmp closed per owner
+  directive (untouched).
+- INTEGRATION (7beae5043): 20 reciprocal proposals applied from
+  p1zo/p1zr/p1zw/w1g/w1y across 16 content paths, 0 deferred, 0 skipped;
+  all 20 whys read before apply (reader-facing, no internal-audit notes);
+  before/after validation identical on the 2 failing paths (Coping
+  flexibility 145/150, Genuine doubt 122/150 — pre-existing prose-short
+  seeds, ROUTED to the live w1c owner via TASKBOARD note); build ok
+  (5945 entries, fcAuthored 979); applyable queue now clean except the
+  guarded thinker-schema files t1a/t1d/t1f (untouched per the standing
+  multi-session ruling).
+- HEALTH: enrich_progress_report.py was CRASHING (TypeError: bool not
+  iterable) on batches/dos31.json ('done': true bare bool) — repaired in
+  place (done -> list + band_done=true, no content change, 10efaffca);
+  dashboard refreshed: principles 2182/2182, concepts 2263/2263, unmatched
+  pr/co 1/20.
+- QC SAMPLE (w1c 'Detachment from outcomes', commit 3f739942c): both
+  quoted passages re-verified VERBATIM against the live cited carriers —
+  Gita 2.47 translation (bhagavad-gita.us, full-sentence match) and
+  Sonnentag & Fritz 2007 REQ abstract (PubMed 17638488, exact match incl.
+  the (Study 2) marker). Page prose read: two-uses distinction
+  (Gita vs recovery research) is honest and bounded; no mirror-gloss
+  defects; no banned-vocabulary hits. PASS.
+
 # Supervisor QC entry 15 — 2026-10-25, T+17 (launcher-pplx-1025n)
 
 - Publish-then-review pass: verdict rows recorded for right-intention (PASS,

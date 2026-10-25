@@ -11,8 +11,15 @@
    "into": "SP023",
    "link": "Self-esteem research",
    "why": "the level-versus-fragility distinction the exercise trains"
+  },
+  {
+   "into": "Capacity to be alone (Winnicott)",
+   "link": "SE053",
+   "why": "Winnicott's ego-relatedness offers a comparison: aloneness in the presence of support, read against this principle's autonomy-need",
+   "notes": "Concept page does not link SE053; labelled as a cross-tradition comparison, not an asserted identity of constructs. Evidence in sources/p1zo/SE053.md (Ryan & Deci 2000 + Winnicott 1958, both opened)."
   }
  ],
  "inline": [],
- "notes": "Tier-2 repair pass (SP023). Cards opened and read before proposing."
+ "notes": "Tier-2 repair pass (SP023). Cards opened and read before proposing.",
+ "archive_restore_note": "2026-10-25 supervisor restore: 1 earlier applied records overwritten by the 7beae5043 apply were merged back (git 7beae5043^); apply.py replaces rather than appends archives — known hazard, records recovered from git history."
 }

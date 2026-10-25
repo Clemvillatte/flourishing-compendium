@@ -36,8 +36,93 @@
    "into": "K067",
    "link": "Ubuntu",
    "why": "the Nguni maxim that a person is a person through other persons"
+  },
+  {
+   "into": "Anatta",
+   "link": "K069",
+   "why": "listed for comparison: the early-Buddhist analysis of no permanent self beside K069's Zen koan on every way of being.",
+   "notes": "Saturation scan 2026-10-20: Anatta page analyses the aggregates argument; K069 grounds Hisamatsu's formless self and fundamental koan. Distinct traditions and framings; comparison only; one-way link (K069's parallels already cover Pu and Identity)."
+  },
+  {
+   "into": "Pure experience",
+   "link": "K003",
+   "why": "listed for comparison: K003 applies Nishida's pure-experience opening to the unity of knowing and willing.",
+   "notes": "Saturation scan 2026-10-20: the concept's Nishida section quotes the Inquiry opening (via SEP) but does not link K003; K003's body now carries the same opening verbatim with page locators."
+  },
+  {
+   "into": "Amor fati",
+   "link": "K032",
+   "why": "listed for comparison: the embrace of one's fate beside K032's instruction to transform mishaps into the path of practice.",
+   "notes": "Saturation scan 2026-10-20: Amor fati links other adversity principles (B113, B180, D098, P157) but not K032; the two traditions treat the same material differently (acceptance vs transformation), which is the point of the comparison."
+  },
+  {
+   "into": "Taking the role of the other",
+   "link": "K046",
+   "why": "listed for comparison: the sociological account of role-taking beside K046's contemplative exchange drill.",
+   "notes": "Saturation scan 2026-10-20: Taking the role of the other links K028 but not K046; both traditions rehearse the other's view, one as social cognition, one as formal meditation."
+  },
+  {
+   "into": "Bodhicitta",
+   "link": "K054",
+   "why": "listed for comparison: the concept's Shantideva-based treatment of the awakening mind beside K054's Tsongkhapa-based frame of daily practice.",
+   "notes": "Saturation scan 2026-10-20: Bodhicitta concept cites Santideva's Bodhicharyavatara and does not link K054; K054 grounds the Tsongkhapa lamrim side (Three Principal Aspects v. 6, 8 + Dalai Lama commentary). Self-transcendence concept already links K054."
+  },
+  {
+   "into": "Generosity",
+   "link": "K055",
+   "why": "listed for comparison: the Aristotelian virtue of liberality beside K055's Buddhist perfection of giving, which locates the practice in the mind that would give.",
+   "notes": "Saturation scan 2026-10-20: Generosity concept treats Aristotle NE IV.1 and Seneca; K055 grounds Gampopa's Jewel Ornament ch. 12 and Shantideva 5.9-10; the two traditions differ on where the virtue lives (right-giving vs the giving mind), which is the comparison. Prosocial spending concept already links K055."
+  },
+  {
+   "into": "The polis",
+   "link": "K067",
+   "why": "listed for comparison: Aristotle's polis as the constitutive community beside K067's Tanabean mediation of the individual through sociopolitical identity.",
+   "notes": "Saturation scan 2026-10-20: The polis concept (Politics I.2) does not link K067; both traditions treat community as prior to the individual, Tanabe with a dialectical species-structure and a recorded nationalist lapse plus correction. Social identity theory and the Umuntu ngumuntu ngabantu saying already link K067."
+  },
+  {
+   "into": "CO037",
+   "link": "K033",
+   "why": "listed for comparison: the psychology of blaming persons over situations beside the lojong instruction to look for one's own part first.",
+   "notes": "Saturation scan 2026-10-21 (K033 item): CO037 documents the blame-the-person habit (Jones & Harris classic study quoted on its page) but does not link K033; K033 is the practice-side counterpart from the lojong tradition. Locus of control already links K033."
+  },
+  {
+   "into": "B113 — Be grateful to everyone (lojong)",
+   "link": "K034",
+   "why": "listed for comparison: the same thirteenth lojong slogan, treated through Shantideva's patience argument on B113 and through Trungpa's obstacles-as-material commentary on K034.",
+   "notes": "Saturation scan 2026-10-21 (K034 item): B113 and K034 cover the same slogan in different disciplines and neither links the other; B113's page quotes Shantideva Guide ch.6 v.111 (Batchelor) so the comparison is grounded on the target page's own sourced content."
+  },
+  {
+   "into": "BE027 — Learn to use graded exposure — start small, build up",
+   "link": "K049",
+   "why": "listed for comparison: two examples of stepwise training in different contexts, the clinical graded-exposure staircase (BE027) and the lamrim's graduated path (K049).",
+   "notes": "Saturation scan 2026-10-21 (K049 item): BE027's body describes Prolonged Exposure's step-by-step hierarchy with sourced PTSD-center material but does not link K049; K049 now quotes the lamrim staircase verse. The Gradual training concept already links K049."
+  },
+  {
+   "into": "Urge surfing",
+   "link": "K059",
+   "why": "listed for comparison: the relapse-prevention exercise of watching a craving crest and decline like a wave beside Tilopa's instruction to let thoughts arise and subside on their own, like ripples on water.",
+   "notes": "Saturation scan 2026-10-21 (K059 item): the Urge surfing concept describes the Larimer-Palmer-Marlatt observer exercise with sourced material but does not link K059; both use the same wave image in clinical and contemplative registers. The Ironic process concept already links K059."
+  },
+  {
+   "into": "SE006",
+   "link": "K021",
+   "why": "listed for comparison: James's body as the innermost part of the material self beside Nishida's historical body as co-creator of the world, two accounts of the body belonging to the self.",
+   "notes": "Saturation scan 2026-10-21 (K021 item): SE006's body quotes James's Principles of Psychology ch. X (sourced on its page) but does not link K021; K021 now quotes the SEP historical-body passage. The tool-being of equipment concept already links K021."
+  },
+  {
+   "into": "D036",
+   "link": "K042",
+   "why": "for comparison: Shantideva's body-as-vessel teaching, with bodily care directed toward benefiting others.",
+   "notes": "Saturation scan 2026-10-21 (K042 item): D036 quotes DDJ 44 on its page but does not link K042; the two principles take deliberately different stances on the same vessel image (treasure vs wages), which is the comparison's value. No concept pages found needing links."
+  },
+  {
+   "into": "Equanimity",
+   "link": "K052",
+   "why": "listed for comparison: the even-minded stance defined and sourced on the concept page beside K052's lamrim instruction to level bias toward friend, enemy and stranger before cultivating love.",
+   "notes": "Saturation scan 2026-10-21 (K052 item): the Equanimity concept carries the Desbordes 2014 definition and near-enemy warning but does not link K052; K052 quotes Tsongkhapa's impartiality passage. The Being and beings concept already links K052."
   }
  ],
  "inline": [],
- "notes": "Tier-2 plain-words repair pass (K017 K054 K055 K067). Records proposed per PROTOCOL-PRINCIPLES step 6 after mention-sweep of Kyoto School / Nishida / emptiness terms; concepts opened and read on the corpus."
+ "notes": "Tier-2 plain-words repair pass (K017 K054 K055 K067). Records proposed per PROTOCOL-PRINCIPLES step 6 after mention-sweep of Kyoto School / Nishida / emptiness terms; concepts opened and read on the corpus.",
+ "archive_restore_note": "2026-10-25 supervisor restore: 14 earlier applied records overwritten by the 7beae5043 apply were merged back (git 7beae5043^); apply.py replaces rather than appends archives — known hazard, records recovered from git history."
 }
