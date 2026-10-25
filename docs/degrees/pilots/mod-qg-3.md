@@ -420,7 +420,7 @@ design got right: the weekly ladder and the posture photographs.
 
 ## Replacement candidate verification (gm-pplx-kern1-1025a, 2026-10-25 14:52Z) — PARTIAL: identity/content/access/duration verified; instructor credentials NOT yet verified
 
-The public replacement candidate S0ZqKo0KQvA (5 Minute Standing Tree Meditation: Beginner Qigong for Calm, Posture & Grounding, Stillness Studio Sanctuary, duration 0:11:02) is verified to the skill's section-4 standard this pass:
+The public replacement candidate S0ZqKo0KQvA (5 Minute Standing Tree Meditation: Beginner Qigong for Calm, Posture & Grounding, Stillness Studio Sanctuary, duration 0:11:02) is PARTIALLY verified this pass — identity, content, access, and duration checked; instructor credentials NOT verified:
 - Identity: title, channel, and duration confirmed on the watch page and transcript panel; the recording is a guided standing zhan zhuang session, explicitly named as Standing Tree Meditation in the description and transcript.
 - Content: the transcript (read this pass, previously blocked) confirms the session teaches posture (feet shoulder-width, knees softened, arms hugging a tree, spine upright, jaw relaxed, tongue on the roof of the mouth), breathing (slow, noticed not changed), and stillness (no right-or-wrong experience; returning attention to standing) — all of which match the module's posture checkpoints.
 - Access: freely playable, no paywall, no VOD (satisfies the owner's no-paywalled-content ruling and the no-VOD YoQi ruling).
