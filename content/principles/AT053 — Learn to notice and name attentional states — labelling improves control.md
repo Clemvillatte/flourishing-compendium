@@ -22,12 +22,12 @@ The review's central claim is that labelling works as regulation even when it do
 
 The noticing side comes from the meta-awareness account already opened in this compendium: "meta-awareness directly aids in the identification of mind-wandering lapses, and the subsequent re-engagement of the primary task" ([Schooler et al. 2011](https://metalab.psych.ucsb.edu/sites/default/files/2025-12/perceptual-decoupling.pdf)).
 
-Scope: the labelling studies measured affective states and evocative stimuli. The page's application extends the same practice to attentional states, labelling a caught state ("focused", "distracted", "wandering") as the note-taking step that Schooler's account treats as the operative event.
+Scope: the studies measured affective states, not attention; extending the practice to labelling a caught state ("focused", "distracted", "wandering") is this card's application of them.
 
 (Torre and Lieberman, Emotion Review, 2018; Schooler et al., Trends in Cognitive Sciences, 2011.)
 
 **Plain words**
-There is a difference between being angry and noticing you are angry. The studies behind this principle looked at the noticing half, at what happens when a person puts a word on the feeling. The word takes some of the charge out of the feeling, and here is the strange part, the person did not have to be trying. Just saying it in their head did the work. The practice borrows that move for attention too: when you catch yourself drifting, do not fight the drifting, name it. "Drifting" is a smaller thing to face than a whole lost afternoon.
+There is a difference between being angry and noticing you are angry. The studies looked at the noticing half: putting a word on a feeling takes some of the charge out of it, and the person did not even have to be trying. The practice borrows that move for attention: catch yourself drifting, name it. "Drifting" is a smaller thing to face than a lost afternoon.
 
 *For example:*
 While scrolling, a reader says to herself, "I'm doomscrolling." She then decides whether to continue or close the app.
