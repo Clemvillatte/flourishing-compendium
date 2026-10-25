@@ -118,6 +118,11 @@
      "t": "2026-10-23T06:19:02+00:00",
      "to": "ready",
      "note": ""
+    },
+    {
+     "t": "2026-10-25T15:07:08+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:07: sample verified 5/5 quotes VERBATIM (MIPE chapter and MN 10 Thanissaro, both downloaded and string-matched)"
     }
    ]
   },
@@ -332,5 +337,5 @@
    ]
   }
  },
- "updated": "2026-10-25T15:06:59+00:00"
+ "updated": "2026-10-25T15:07:08+00:00"
 }
