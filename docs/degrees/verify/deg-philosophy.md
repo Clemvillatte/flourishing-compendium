@@ -337,6 +337,119 @@ Block A, fcAcademyData records for deg-philosophy modules.
 - Relevant segment: whole lecture, 49:36.
 - Verification status: verified-video.
 
+## mod-phil-4 required batch (verified 2026-10-25)
+
+### M01-P03: Philosophy Talk, American Pragmatism
+
+- Identity and access: oembed confirms "American Pragmatism" on the Philosophy Talk
+  channel (https://www.youtube.com/watch?v=ksLO4i5pIBM). Freely playable, no paywall.
+- Duration: 0:49:24 (watch page, 2026-10-25).
+- Instructor credentials: Philosophy Talk was founded and hosted by Stanford
+  philosophers Kenneth Taylor and John Perry (Stanford Department of Philosophy page,
+  https://philosophy.stanford.edu/public-philosophy/philosophy-talk); the episode's
+  guest is John McDermott, described in the episode as a distinguished professor of
+  philosophy at Texas A&M University and editor of the writings of Dewey, Royce and
+  James.
+- Language: English.
+- Content coverage: the episode description states it covers pragmatism as America's
+  most distinctive contribution to philosophy, from Peirce, Dewey and James: meaning
+  and truth as a function of practical outcome, rejection of absolutism, principles as
+  working hypotheses that must bear fruit in lived experience. Fits mod-phil-4.
+- Relevant segment: whole episode, 49:24.
+- Verification status: verified-video.
+
+### M01-P06: Cheryl Misak, Cambridge Pragmatism (Royal Institute of Philosophy)
+
+- Identity and access: oembed confirms the lecture on The Royal Institute of Philosophy
+  channel (https://www.youtube.com/watch?v=c_Nxr3ZQxqA). Freely playable, no paywall.
+- Duration: 0:51:57 (watch page, 2026-10-25).
+- Instructor credentials: Cheryl Misak, University Professor and Professor of
+  Philosophy, University of Toronto, DPhil Oxford, Fellow of the Royal Society of
+  Canada (Toronto department page,
+  https://philosophy.utoronto.ca/directory/cheryl-misak/).
+- Language: English.
+- Content coverage: the institute's description states the lecture traces pragmatism
+  from Peirce and James through Russell's and Moore's attacks, to Frank Ramsey's
+  Peirce-inspired work on truth and probability, arguing Ramsey held the best version
+  of pragmatism. Fits mod-phil-4's pragmatism module.
+- Relevant segment: whole lecture, 51:57.
+- Verification status: verified-video.
+
+### M01-P15: The Pragmatic Turn, Richard J. Bernstein (Beloit College)
+
+- Identity and access: oembed confirms the lecture on the Beloit College channel
+  (https://www.youtube.com/watch?v=gtc2SdIWErc). Freely playable, no paywall.
+- Duration: 1:34:17 (watch page, 2026-10-25).
+- Instructor credentials: Richard J. Bernstein (1932 to 2022), Vera List Professor
+  Emeritus of Philosophy, The New School for Social Research (New School faculty page,
+  https://www.newschool.edu/lang/faculty/richard-j-bernstein/), PhD Yale 1958.
+- Language: English.
+- Content coverage: the college's description states the 2013 Selzer Visiting
+  Philosopher lecture argues that many philosophical themes of the past 150 years
+  derive from the classical American pragmatists, matching his book The Pragmatic
+  Turn. Fits mod-phil-4.
+- Relevant segment: whole lecture, 1:34:17.
+- Verification status: verified-video.
+
+## mod-phil-5 required batch (verified 2026-10-25)
+
+### M04-E07: Sartre, Existentialism is a Humanism (Gregory B. Sadler)
+
+- Identity and access: oembed confirms the video on the Gregory B. Sadler channel
+  (https://www.youtube.com/watch?v=gBjJstjBJlw). Freely playable, no paywall.
+- Duration: 0:53:44 (watch page, 2026-10-25).
+- Instructor credentials: as AR-06 above.
+- Language: English.
+- Content coverage: the instructor's own description states the lecture explores key
+  themes of Sartre's Existentialism is a Humanism: existence preceding essence, radical
+  human freedom, criterionless choice made for all humanity, and the human being as a
+  project of freedom. Fits mod-phil-5.
+- Relevant segment: whole lecture, 53:44.
+- Verification status: verified-video.
+
+### M04-E09: Kierkegaard, Fear and Trembling (Gregory B. Sadler)
+
+- Identity and access: oembed confirms the video on the Gregory B. Sadler channel
+  (https://www.youtube.com/watch?v=aq4aIrNUbAw). Freely playable, no paywall.
+- Duration: 1:01:49 (watch page, 2026-10-25).
+- Instructor credentials: as AR-06 above.
+- Language: English.
+- Content coverage: the instructor's own description identifies it as the last session
+  of his Fall 2011 Introduction to Philosophy class at Marist, exploring several
+  themes of Kierkegaard's Fear and Trembling. Fits mod-phil-5.
+- Relevant segment: whole lecture, 1:01:49.
+- Verification status: verified-video.
+
+### M04-E01: Heidegger, Being and Time: Being-in-the-World (John Russon)
+
+- Identity and access: oembed confirms the video on the John Russon channel
+  (https://www.youtube.com/watch?v=nq7jLQnHQls). Freely playable, no paywall.
+- Duration: 0:32:13 (watch page, 2026-10-25).
+- Instructor credentials: John Russon, Professor of Philosophy, University of Guelph,
+  PhD Philosophy, University of Toronto (Guelph profile,
+  https://www.uoguelph.ca/profile/john-russon).
+- Language: English.
+- Content coverage: the uploader's own description identifies it as the first part of a
+  three-part lecture introducing being-in-the-world as treated in Division I Chapter 3
+  of Being and Time. Fits mod-phil-5. Note the module should schedule all three parts
+  of the lecture if it wants the complete treatment; only this part is attached.
+- Relevant segment: whole video, 32:13.
+- Verification status: verified-video.
+
+### M04-E02: Merleau-Ponty, Phenomenology of Perception 3: The Habit Body (John Russon)
+
+- Identity and access: oembed confirms the video on the John Russon channel
+  (https://www.youtube.com/watch?v=RR-Jzwyya4I). Freely playable, no paywall.
+- Duration: 1:40:15 (watch page, 2026-10-25).
+- Instructor credentials: as M04-E01 above.
+- Language: English.
+- Content coverage: the uploader's own description states the lecture covers Chapters 1
+  and 2 of Part I of Phenomenology of Perception, seventh in his phenomenology series
+  and third in his Merleau-Ponty series, with the Merleau-Ponty material starting at
+  9:50. Relevant segment: 9:50 to end for the Merleau-Ponty material, or the whole
+  video if the series context is wanted.
+- Verification status: verified-video.
+
 ## Block A remainder
 
 (in progress: verifier-pplx-a1)
