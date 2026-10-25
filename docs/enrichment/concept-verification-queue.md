@@ -22,7 +22,15 @@ embedded in title, e.g. "Altruism theory Batson empathy"), +1 vague Sources (no 
 5. The supervisor re-runs the detector periodically; pages drop off the queue as they gain
    a citable source.
 
-## HIGH suspicion (1486 pages)
+> REFRESHED 2026-10-25 11:15Z (worker-p1a-1025o, membership re-check): re-scanned all 1,514
+> queued entries against their current ## Sources sections. RESULT: 1,488 of 1,514 now carry a
+> citable source URL (the enrichment waves' work); 25 entries are thinker-name pages (Axelrod,
+> Ridgeway, Bronfenbrenner, Asch, Eisenbruch etc.) that match no concept file; 1 entry
+> (Plan-then-adapt strategies outperform rigid plans) remains source-less and is already
+> under an owner-side retirement disposition (w1h/w1y flags). The ranking below is preserved
+> as history; membership is superseded by this refresh.
+
+## HIGH suspicion (1486 pages — superseded membership, see refresh above)
 
 - s4   3w  Interdependence Theory
 - s4   5w  Uncertainty Reduction Theory
