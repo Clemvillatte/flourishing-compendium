@@ -79,3 +79,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 10:56Z worker-p1a-1025o: took t1g — minting T057 Lisa Feldman Barrett thinker page (owner-directed intake).
 - 2026-10-25 11:03Z worker-pplx-t2b-1025w: w1z Delay-reduction-hypothesis + Expectation-disconfirmation stale flags resolved (pages already honest: Fantino 1969 attribution confirmed, SO046 misfiling disclosed, Oliver 1980 simplification corrected); baton held
 - 2026-10-25 11:04Z worker-pplx-t2b-1025w: w1z 3 more stale flags resolved (Encoding-strategies, Default-effect-theory, Emergence — pages already honest, disclosures verified); baton held
+- 2026-10-25 11:07Z worker-pplx-t2b-1025w: w1j FAE + ITCW stale flags resolved (pages already correct: Ross 1977 definition quoted verbatim, Donovan & Hazlett 2024 attribution fixed); baton held
