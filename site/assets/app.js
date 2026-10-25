@@ -9904,7 +9904,7 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "Being overwhelmed is what happens when the world's demands outrun a person's capacity to hold them, and it is one of the few experiences that is at once a feeling, a fact about the environment, and a verdict on the self. The last part is the trap: more than one can hold reads as evidence of personal failure. The traditions and the research answer with rest, structure and steadiness, so that the overload becomes information about the environment instead of a verdict on the self."
+          "x": "Being overwhelmed is what happens when the world's demands outrun a person's capacity to hold them, and it is one of the few experiences that is at once a feeling, a fact about the environment, and a verdict on the self. The last part is the trap: more than one can hold reads as evidence of personal failure. The traditions gathered here answer with rest, structure and steadiness: held that way, the overload becomes information about the environment, something to read and act on."
         },
         {
           "t": "h2",
@@ -10220,11 +10220,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Most of what makes an aim work has been mapped. The core finding belongs to [Goal setting theory (Locke & Latham)](card:Goal%20setting%20theory%20%28Locke%20%26%20Latham%29): specific, difficult goals produce better performance than vague or easy ones. What the finding leaves open is the aim itself, since the theory takes the goal as given. [Achievement goal theory (Dweck, Elliot)](card:Achievement%20goal%20theory%20%28Dweck%2C%20Elliot%29) moved the question one step back, asking which goal a person adopts in an achievement situation, since the adopted aim changes what success even means."
+          "x": "The central finding of [Goal setting theory (Locke & Latham)](card:Goal%20setting%20theory%20%28Locke%20%26%20Latham%29) is that specific, difficult goals produce better performance than vague or easy ones. What the finding leaves open is the aim itself, since the theory takes the goal as given. [Achievement goal theory (Dweck, Elliot)](card:Achievement%20goal%20theory%20%28Dweck%2C%20Elliot%29) moved the question one step back, asking which goal a person adopts in an achievement situation, since the adopted aim changes what success even means."
         },
         {
           "t": "p",
-          "x": "The other thing the core finding leaves open is where the striving comes from. [Achievement motivation theory](card:Achievement%20motivation%20theory), the McClelland and Atkinson account, explains achievement behaviour as arising in situations with a standard of excellence, which locates the motive in meeting a standard rather than in the aim's content. Read together, these theories treat the aim as an instrument: chosen well, it organises effort rather than naming a wish."
+          "x": "The other thing that finding leaves open is where the striving comes from. [Achievement motivation theory](card:Achievement%20motivation%20theory), the McClelland and Atkinson account, explains achievement behaviour as arising in situations with a standard of excellence, which locates the motive in meeting a standard rather than in the aim's content. Read together, these theories treat the aim as an instrument: chosen well, it organises effort rather than naming a wish."
         },
         {
           "t": "p",
@@ -10264,7 +10264,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "What counts as steering at all has its own tests. [Goal-directed behavior theory](card:Goal-directed%20behavior%20theory), developed by Anthony Dickinson and Bernard Balleine, says an action counts as goal-directed only when it meets two: the belief criterion, knowledge of the relationship between the action and its consequences, and the desire criterion, the outcome's current motivational value. A habit that fires regardless of whether the outcome is still wanted fails the second test, which is why the same daily action can be pursuit in one case and routine in another."
+          "x": "What counts as steering at all has its own tests. [Goal-directed behavior theory](card:Goal-directed%20behavior%20theory), developed by Anthony Dickinson and Bernard Balleine, says an action counts as goal-directed only when it meets two: the belief criterion, knowledge of the relationship between the action and its consequences, and the desire criterion, the outcome's current motivational value. A habit that fires regardless of whether the outcome is still wanted fails the second test, which is why the same daily action can be pursuit in one case and habit in another."
         },
         {
           "t": "p",
@@ -10292,7 +10292,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The research on exit has its own findings. [Goal disengagement](card:Goal%20disengagement) is withdrawing effort and commitment from a goal that cannot be reached. [Goal adjustment capacity](card:Goal%20adjustment%20capacity) is the broader ability, to let go of an aim that has become unattainable and take up another. The distinction the whole field turns on is attainability, and the two main literatures mark it differently."
+          "x": "The research on exit has its own findings. [Goal disengagement](card:Goal%20disengagement) is withdrawing effort and commitment from a goal that cannot be reached. [Goal adjustment capacity](card:Goal%20adjustment%20capacity) is the broader ability, to let go of an aim that has become unattainable and take up another. The line between the two cases is attainability, and the two main literatures mark it differently."
         },
         {
           "t": "p",
@@ -19021,7 +19021,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The classical answer runs through Aristotle, and it is blunt: \"Happiness is thought to stand in perfect rest; for we toil that we may rest, and war that we may be at peace\" ([Aristotle, Nicomachean Ethics X.7, Chase translation](https://www.gutenberg.org/files/8438/8438-h/8438-h.htm)). [Pieper](card:Leisure), recovering the Greek scholē, gives the same claim its modern defence: the original meaning of leisure has been forgotten in the culture of total work, where \"One does not only work in order to live, but one lives for the sake of one's work\" ([Pieper, Leisure: The Basis of Culture](https://iwcinsb.org/studygroups/2024%20readings/Leisure.pdf))."
+          "x": "The classical answer runs through Aristotle, and it is blunt: \"Happiness is thought to stand in perfect rest; for we toil that we may rest, and war that we may be at peace\" ([Aristotle, Nicomachean Ethics X.7, Chase translation](https://www.gutenberg.org/files/8438/8438-h/8438-h.htm)). [Pieper](card:Leisure), recovering the Greek scholē, gives the same claim its modern defence: the original meaning of leisure has been forgotten in the culture of total work, where \"One does not only work in order to live, but one lives for the sake of one's work\" — a statement Pieper quotes from Max Weber ([Pieper, Leisure: The Basis of Culture](https://iwcinsb.org/studygroups/2024%20readings/Leisure.pdf))."
         },
         {
           "t": "p",

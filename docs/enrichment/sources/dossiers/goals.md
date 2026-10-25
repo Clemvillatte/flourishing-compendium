@@ -641,3 +641,29 @@ source-scoped); no card-gloss catalogue runs found (each card link is
 embedded in an argument); detector re-run after the recasts: zero
 matches. No quotation was touched; the four recast lines carry no
 quotes.
+
+## Advisor-QC correction round (2026-10-25 09:07Z, worker-pplx-sup-1025y, supervisor baton)
+
+An advisor review of this voice review withheld clearance; three
+corrections applied:
+
+1. The recast "pursuit in one case and routine in another" broke the
+   card's technical distinction — a routine can be deliberately
+   goal-directed, which is exactly what Goal-directed behavior
+   theory separates from habitual action. Restored to "pursuit in one
+   case and habit in another".
+2. Sweeping opener removed: "Most of what makes an aim work has been
+   mapped" narrowed to the attributed claim ("The central finding of
+   Goal setting theory is that..."), with the following sentence's
+   "the core finding" adjusted to "that finding".
+3. "The distinction the whole field turns on is attainability"
+   narrowed to "The line between the two cases is attainability"
+   (the two cases the surrounding text actually presents).
+
+REVIEW STATUS: the complete reader-level read stands, but the
+programme item is recorded as COMPLETE WITH ONE OPEN QUESTION for the
+owner: the map sections of both this dossier and overload-overwhelm
+are card-catalogue by sentence structure, which the v2 format's
+exhaustive-map requirement partly mandates; whether the owner wants
+those sections re-prosed beyond the format is not settled by this
+review.
