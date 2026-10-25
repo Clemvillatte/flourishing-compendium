@@ -66,3 +66,22 @@
 - Remaining after SP017: SP021, SP022, SP025, SP028. SE041 locator
   unresolved (flagged). QC scoped acceptances this session all exclude
   inherited Practice/parallels citations.
+
+### Band dos18/dos19/dos20 (worker-pplx-c3b0f2fb) — 2026-10-25 session close
+- Restructured three dossiers to the dossiers/HANDOFF.md interwoven format:
+  right-view (dos18, commit 2f88501c3), right-intention (dos19, b28669ce3),
+  right-speech (dos20, WIP, efabeb401). All pass dossier_check.py and
+  dossier_quote_verify.py (one documented Ryan-Deci 2000 PDF running-header
+  artifact in right-intention; verified manually, quote present).
+- Followed the humanizer audit (Gilligan gloss fix, SN 12.15 paragraph fix
+  3f5d0ad5) and closed the advisor-flagged card-evidence gap: spot-checked
+  13 load-bearing right-view glosses (a9d57a7ef), 15 right-intention
+  (b1db38e1b), 15 right-speech (d320dfdbb) — all match their card files;
+  results recorded in each dossier's evidence ledger.
+- Batons dos18/dos19/dos20 released (fb29bac51; earlier release calls had
+  silently failed on a missing agent argument — now verified released).
+- Supervisor follow-ups: dossier_registry_build.py --rebuild=right-view,
+  right-intention, right-speech; art assignments for all three; flip the
+  three "planned" registry entries once satisfied. Card-fidelity evidence
+  now narrowed for all three bands (gfva-1025a sweep + this session's
+  spot-checks).
