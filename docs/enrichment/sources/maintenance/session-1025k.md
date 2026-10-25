@@ -40,3 +40,8 @@
 ## P048 Think reflectively
 - Carrier opened: Dewey, How We Think, Gutenberg pg37423.txt, ch. 1. Columbus passage, definition, and "To maintain the state of doubt..." verified verbatim.
 - Repair: "opens How We Think with Columbus" corrected to ch. 1 §1; removed invented "fifty small corrections / same month twelve times" example and "schedule" claim; Dewey's Columbus lines now quoted. Fixed run-together parallels line.
+
+## P181 Regulate feeling by regulating expression
+- Carrier opened: James, Talks to Teachers on Psychology, Gutenberg pg16287.txt, "Talks to Students" I. The Gospel of Relaxation. Four quotes verified verbatim.
+- Repair: the page cited Gutenberg 7442, which is Verne's Michel Strogoff (wrong book). Corrected to 16287. Removed "The whole argument turns on one word", "feeling is caught by the action", and the "that is the whole mechanism" example claims.
+- FLAG for supervisor: a wrong Gutenberg ID suggests other pages may cite wrong carriers; running a bulk quote-vs-carrier check (see verify results in this ledger when posted).

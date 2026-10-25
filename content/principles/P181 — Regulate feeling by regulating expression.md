@@ -12,15 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 181** — Regulate feeling by regulating expression
 
-James's most-quoted paragraph on emotion is not a metaphor: "Action seems to follow feeling, but really action and feeling go together; and by regulating the action, which is under the more direct control of the will, we can indirectly regulate the feeling, which is not" ([James, "The Gospel of Relaxation", 1899, Gutenberg](https://www.gutenberg.org/files/7442/7442-h/7442-h.htm)). The whole argument turns on one word — indirect. You cannot command a feeling to change; feelings do not take instruction. You can, on most days, command a posture, a sentence, a hand extended.
+In the first of his "Talks to Students" in *Talks to Teachers on Psychology* (1899), William James argues that the surest way to manage a feeling is through what you do and express. The passage:
 
-The practical consequence is that "act confident" is not a cliché; it is the correct direction of causality for the parts you control. The feeling is caught by the action, the way a slow walk makes the walk actually slow.
+> "Action seems to follow feeling, but really action and feeling go together; and by regulating the action, which is under the more direct control of the will, we can indirectly regulate the feeling, which is not." (William James, "The Gospel of Relaxation", in *Talks to Teachers on Psychology*, 1899, [Project Gutenberg](https://www.gutenberg.org/cache/epub/16287/pg16287.txt))
 
-> "Action seems to follow feeling, but really action and feeling go together; and by regulating the action, which is under the more direct control of the will, we can indirectly regulate the feeling, which is not." (William James, "The Gospel of Relaxation", 1899, [Gutenberg](https://www.gutenberg.org/files/7442/7442-h/7442-h.htm))
+The key word is "indirectly". James goes on to say what he means in practice: "the sovereign voluntary path to cheerfulness, if our spontaneous cheerfulness be lost, is to sit up cheerfully, to look round cheerfully, and to act and speak as if cheerfulness were already there. If such conduct does not make you soon feel cheerful, nothing else on that occasion can." He applies it to fear and to dislike as well: "to feel brave, act as if we *were* brave", and to feel kindly toward someone we have been unfriendly to, "the only way is more or less deliberately to smile, to make sympathetic inquiries, and to force ourselves to say genial things."
 
-**Plain words** You cannot argue yourself out of a mood, because the mood is not listening. But you can almost always change what your body is doing — stand up, slow the breathing, say the first sentence out loud. The feeling may or may not follow, and that is the honest limit of the principle. What you can rely on is the direction of the lever: the action is the part you actually control, and the feeling is the part that sometimes catches up.
+**Plain words** You cannot order a mood to change, but you can usually change what your body and voice are doing: sit up, slow your breathing, say the first sentence. James claims the feeling tends to follow. He puts it as a likelihood ("will very likely replace the fit of fear"), so treat this as a bet that often pays, not a guarantee.
 
-*For example:* Two people are both dreading a difficult phone call. One waits for the courage to arrive; it does not, and the call is not made. The other dials the number with the same dread, and speaks the first sentence while still dreading it. The courage never arrived; the call got made anyway. That is the whole mechanism: the action was never waiting on the feeling.
+*For example:* Someone dreads a difficult phone call and waits to feel ready. The alternative is to dial the number and say the first sentence while still dreading it. This is my illustration of James's advice to act as if the feeling were already there.
+
+## Sources
+
+- [William James, Talks to Teachers on Psychology; and to Students on Some of Life's Ideals (1899), Project Gutenberg](https://www.gutenberg.org/cache/epub/16287/pg16287.txt): "Talks to Students", I. "The Gospel of Relaxation".
 
 ## Stories
 - [[ST386 — Duchenne's Two Kinds of Smile|386. Duchenne's Two Kinds of Smile]]
