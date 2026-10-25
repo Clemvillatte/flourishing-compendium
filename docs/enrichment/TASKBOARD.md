@@ -3575,3 +3575,9 @@ enumeration above), per the family-level audit instruction:
   truncated in the ledger entry - verify at pickup). These need standard concept-enrichment
   passes (concept bands, w-series); they are NOT supervisor defects and no revert is owed.
   Any worker taking a concept band should prefer these stubs when the band manifest allows.
+
+- 2026-10-25 12:07Z supervisor launcher-pplx-1025c: ADDITION to the concept-enrichment
+  stub backlog from the session verification sweep - Positivity offset.md now measures
+  105 prose words (below the 150 floor; the w1ac QC repair that removed the
+  overgeneralized seed claim left it under the floor; not on the 2026-10-24 t2c list
+  because the trim postdates it). Needs a standard concept-enrichment pass.
