@@ -1663,11 +1663,29 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   Yoga Sutra as Sanskrit aphorisms guiding self-knowledge; its eight-part
   system as the foundation of classical yoga, influential on modern
   Hatha yoga.
+  Coverage-confirmation (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=NeVOkbkksx0&current_language_code=en,
+  opened 2026-10-25; noted by the extraction to contain many speech-recognition
+  errors in names and Sanskrit terms) confirms the session's substance on the
+  recording: an opening prayer and salutation to Patanjali; yoga's references
+  in the Vedas, Upanishads and epics with Patanjali as having "codified all
+  the systems of yoga that were available before him"; the four padas with
+  the text "traditionally … consist[ing] of 195 sutras"; yoga defined as
+  "complete restraint of the modifications of the mind"; purusha, prakriti
+  and the three gunas; valid and false knowledge, sleep, memory and the
+  rope-for-a-snake example; meditation as "a state of complete balance and
+  equilibrium"; abhyasa and vairagya as means of calming the mind; Patanjali's
+  conception of God and meditation on pranava/Om ("Patanjali says meditate on
+  the term pranava or om"); and Q&A on asana as "a comfortable fixed posture",
+  Sankhya, practical meditation and supernatural powers. The session is mainly
+  a broad overview rather than a verse-by-verse sutra study. Caveats:
+  third-party transcript page, no timestamps in the retrieved text; playback
+  itself not opened.
 - Relevant segment: whole lecture, 1:03:26.
-- Verification status: verified-partial: identity, access and duration
-  verified; Balasubramanian's credentials verified on the opened WWU
-  Foundation event page; coverage rests on the uploader description —
-  confirm against the recording before scheduling.
+- Verification status: verified-video (2026-10-25); coverage confirmed against
+  a third-party transcript page (no timestamps); Balasubramanian's credentials
+  verified on the opened WWU Foundation event page; identity, access and
+  duration verified earlier.
 
 ### M05-YV-05: Patanjali's Yoga Sutras — 22, New Course (Swami Tattwamayananda, San Francisco Vedanta Society)
 
