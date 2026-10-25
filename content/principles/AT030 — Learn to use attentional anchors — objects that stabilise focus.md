@@ -21,7 +21,7 @@ Hasenkamp and colleagues modelled the experience as a cycle of four phases: mind
 These sources concern breath-focused meditation in trained practitioners. Direct support for objects other than the breath, such as feet on the floor in a meeting, was not found, and Bregman 1990 or Holmes 2018 on mantra is cited at second hand. One secondary source says expertise reduces the effort of sustaining focus, citing Lutz et al.; that claim was not read in the paper itself.
 
 **Plain words**
-An anchor is something you can return to. The practice is noticing that you drifted and coming back without blaming yourself.
+A mind settles the way a boat settles in a current, drifting within minutes of being left alone. Attentional anchors work like the buoy the mooring line runs to, a fixed point the drifting boat keeps swinging back toward. The craft is not in never drifting, since that is a goal no sailor reaches, but in the quickness of the return, the line is never cut. The quality being trained is the return itself, calm, unhurried, and free of any scolding, since a buoy that insulted the boat for drifting would be a strange aid to navigation.
 
 **For example**
 Choose one anchor, such as the feeling of breath at the nostrils, and each time you notice you have drifted, return to it once.

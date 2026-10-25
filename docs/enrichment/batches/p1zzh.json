@@ -16,7 +16,6 @@
     "X021",
     "AF038",
     "AF054",
-    "AT030",
     "BI025",
     "BI030",
     "BI042",
@@ -31,7 +30,8 @@
     "BI021",
     "AF071",
     "BE045",
-    "BI043"
+    "BI043",
+    "AT030"
   ],
   "in_progress": null,
   "flagged": {
@@ -56,11 +56,12 @@
     "BE045": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.55)",
     "BI024": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.67)",
     "BI021": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.57)",
-    "AF071": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.56)"
+    "AF071": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.56)",
+    "AT030": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)"
   },
   "missing_concepts": [],
   "sources_checked": 0,
-  "updated": "2026-10-25T12:32:41+00:00",
+  "updated": "2026-10-25T12:48:21+00:00",
   "band_done": false,
   "notes": {
     "BI024": {
@@ -92,6 +93,12 @@
       "claims": "n/a",
       "limitations": "None",
       "url": "https://pubmed.ncbi.nlm.nih.gov/17615391/"
+    },
+    "AT030": {
+      "qc": "Plain-words replicate replaced (~0.6 -> ~0.1); validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://en.wikipedia.org/wiki/Anchoring"
     }
   }
 }
