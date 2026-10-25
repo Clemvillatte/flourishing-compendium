@@ -16,3 +16,16 @@ Per-item verification pass on the p1a "Reopened for QC" flags, following the p1z
 - Current page: verbatim Zhuangzi 2 quotation present with both carriers linked; application marked "not a psychological finding".
 - Evidence: repair-b303ba60.md §D087 (Legge/METIS ch. 2 §14 and Silkqin opened; both reproduce the retained quotation).
 - Disposition: RESOLVED, no page edit needed; source verification not repeated.
+
+## A037 / A078 / A091: scoped body repairs
+
+- The prior flag texts referenced repair files (A037/A078/A091-repair-d9e5b9d0.md) that are NOT present in the repo; the actual evidence location is sources/p1a/repair-b303ba60.md, whose sections document the opened carriers (NE VI/VIII/X Ross, Politics VII Jowett, SEP Kraut/Helm) and the verified-unchanged dispositions.
+- Current pages re-read this session: all three retain their quotations and the dispositions described (distinction explained plainly; friendship not reduced to self-improvement; contemplation/action tension preserved with the combined-life proposal labelled as the page's own).
+- Disposition: RESOLVED as scoped acceptances; source verification not repeated; not a certification of inherited parallels, concept pages or protected reflections.
+
+## A063: Friendship and flourishing
+
+- Allegation: explain reciprocal care directly; make relocation deliberation include a trial/review.
+- Current page: Plain words explains reciprocal care directly ("mutual, recognised care and activities the people share"); the relocation example includes "Try a feasible arrangement, then review it together rather than assuming that contact will sustain itself".
+- Evidence: repair-b303ba60.md §A063 (NE VIII Ross opened; VIII.1 quotation matches; Holt-Lunstad et al. and Harvard Gazette annotations qualified).
+- Disposition: RESOLVED, no page edit needed; source verification not repeated.
