@@ -8,6 +8,6 @@ tags: ["navigation"]
 parent: "NAV-PSYCHOLOGY"
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY"], "alternatePaths": []}
 ---
-> **Kernels (Volume I)** — an approach within the Psychology track.
+> **Psychological Kernels** — the Psychology track's single kernel repository, organised by therapeutic modality.
 
 PBT is an organizing framework, not an automatic efficacy certification.
