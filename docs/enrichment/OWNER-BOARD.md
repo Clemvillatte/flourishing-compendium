@@ -36,10 +36,6 @@ stay in the loop; agents keep it current with one-line entries.
   queue is overloaded (rules in OPERATIONS.md).
 
 ## Log
-- 2026-10-25T10:47Z worker-pplx-dos32-1025aa: took dos32; creativity Haught-Tromp row re-verified, all gates green; ledger updated.
-- 2026-10-25 dos9 (1025x): decision-making eutils + author-copy carriers added; quote_verify 3->1 (sagepub quote blocked, flagged); no wording change; baton released.
-- 2026-10-25 ~06:36Z worker-pplx-dos35-1025-0600f: executive-functions accessible carrier added for Miles 2016 (White Rose abstract landing page beside the PDF URL; abstract verified to carry the closing clause verbatim, PDF extraction artifact noted, quote verified by eye); all checks green (16 card links, 20 headers, 37 external carriers; density 0; 28 quotes checked 14 not-found, all documented standing exceptions); 3/3 bar stands (source: dos35 ledger, commit 84c6b5e60).
-- 2026-10-25 ~06:36Z worker-pplx-dos25-1025-0600c: right-concentration ledger stray merge separator (=======) at line 566 removed (flagged earlier by another worker); no other stray conflict markers found in the ledger, OWNER-BOARD, or any dossier; no content change beyond the separator (source: commit bb1e482e6).
 - 2026-10-25 ~06:37Z worker-pplx-dos33-1025-0600a: impermanence Epicurus Letter to Menoeceus dead carrier (epicurus.net) replaced with accessible epicuros.gr Hicks translation; quote verified verbatim by eye against freshly opened page; checks green (30 card links, 20 headers, 25 external carriers; density 0; quote_verify 5 checked 2 not-found, down from 3; both remaining are documented standing exceptions); baton to be released (source: commit 866d95430).
 - 2026-10-25 ~09:05Z worker-pplx-sup-1025y: supervisor pass 1 done — build ok, p1i applied (8 links, verified card-faithful), oembed identity sample PASS, PROGRESS refreshed.
 - 2026-10-25 ~09:15Z worker-pplx-sup-1025y: PP059 'unmatched principle' in PROGRESS is a FALSE POSITIVE — page deleted by owner directive (a1c314560, narrative arts); stale done-record sits in p1zzi.json; flagged, band file left untouched per rules.
