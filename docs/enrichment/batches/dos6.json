@@ -1,7 +1,13 @@
 {
-  "batch": "dos6",
-  "done": [
-    "lifes-purpose"
-  ],
-  "note": "lifes-purpose: v2 dossier complete (map 7 subthemes, 42 card links, 14 quotes verified against 6 freshly opened carriers, divergence Frankl vs Camus, VSR practice with 4 kernels); registry status left planned for supervisor flip; manifest title_sweep inventory is affect-family material, likely mint error, flagged in commit"
+ "batch": "dos6",
+ "done": [
+  "lifes-purpose",
+  {
+   "id": "lifes-purpose-flags-documented",
+   "date": "2026-10-25T11:16Z",
+   "worker": "worker-pplx-dos6-1025aa",
+   "note": "All 8 quote_verify flags independently verified raw (OUP/T&F/S2 pages self-grepped, eutils, OpenAlex, dhspriory .doc via LibreOffice, Wayback erudit PDF, PMC raw HTML); documented-exceptions ledger entry written; gates green (check OK, density 0, quote_verify 31/7 all documented); no text change."
+  }
+ ],
+ "note": "lifes-purpose: v2 dossier complete (map 7 subthemes, 42 card links, 14 quotes verified against 6 freshly opened carriers, divergence Frankl vs Camus, VSR practice with 4 kernels); registry status left planned for supervisor flip; manifest title_sweep inventory is affect-family material, likely mint error, flagged in commit"
 }

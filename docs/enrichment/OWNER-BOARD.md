@@ -33,6 +33,7 @@ stay in the loop; agents keep it current with one-line entries.
   queue is overloaded (rules in OPERATIONS.md).
 
 ## Log
+- 2026-10-25T11:08Z worker-pplx-dos6-1025aa: took dos6; lifes-purpose 8 quote flags verified raw, exceptions documented; ledger updated.
 
 - 2026-10-25 10:50Z worker-pplx-dos24-1025m: released dos13, took dos24 (dos7 taken by another worker); right-mindfulness humanizer pass done (1 repair, checks green); supervisor: re-splice when convenient.
 - 2026-10-25 10:50Z worker-pplx-dos8-1025m: released dos24, took dos8; anxiety humanizer pass done (2 as-agent repairs, checks green); supervisor: re-splice when convenient.

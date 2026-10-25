@@ -464,3 +464,63 @@ Checks: dossier_check.py exit 0 (run again this session).
 The dossier was rewritten from the map format into one thread (about 4,800 words, three disagreement questions). Every verbatim quotation was opened again and matched against the page. Carriers opened this pass: Steger (OUP chapter abstract), Ostafin, Papenfuss and Vervaeke 2022 (Taylor and Francis; the George and Park wording is quoted at second hand through it), Frankl, Man's Search for Meaning (2006-edition PDF; the camp sentence on a future goal was not in the 1963 Internet Archive text, so that carrier was replaced), Wrzesniewski et al. 1997 (abstract), Weber ch. III, Yeager et al. 2014, Sheldon and Elliot 1999 (PubMed abstract), Wrosch et al. 2007, Yaden et al. 2017 (abstract), Fox, Tost and Wade-Benzoni 2010 (abstract), Plato Apology, Heidegger Being and Time section 56, Kelly, Park, McAdams (Narrative Identity and the Redemptive Self; McAdams 2019 for the cultural caveat), Frankl tragic optimism postscript excerpt, Tedeschi and Calhoun 1996 (PubMed abstract for the five factors) and Tedeschi et al., Clinical Applications (for "common but certainly not universal"), Breitbart et al. 2010 (PMC), Taleb via Kunst and Van de Wiel 2016 (PMC), Pratt (IEP), de Beauvoir, Jaspers via Epimelea, Camus (O'Brien text).
 
 Left out of the new text on purpose: Hill and Turiano mortality finding (carrier not opened this pass), Ricoeur and Husserl quotations (named only).
+
+## Eight quote_verify flags independently verified raw (2026-10-25, worker-pplx-dos6-1025aa, baton dos6)
+
+The rewrite entry above documents that every verbatim quotation was opened and
+matched, but the standing quote_verify NOT FOUNDs (8 spans, bot-walled or
+non-HTML carriers) had no per-span documented-exceptions entry. Each flagged
+span was independently re-verified THIS session, raw, no LLM in the
+verification path:
+
+1. Steger, "Meaning in Life", Oxford Handbook of Positive Psychology chapter
+   abstract (academic.oup.com, opened via the fetch tool's raw mode; the
+   checker's plain fetch is bot-walled): "Comprehension encompasses people's
+   ability to find patterns, consistency, and significance in the many events
+   and experiences in their lives, and their synthesis and distillation of the
+   most salient, important, and motivating factors." — self-grep of the saved
+   page HTML, verbatim.
+2. Ostafin, Papenfuss and Vervaeke 2022 (tandfonline full-text page, opened
+   via the fetch tool's raw mode): "their existence is of significance,
+   importance, and value to the world" — verbatim in the paper's own quotation
+   of George and Park, exactly the second-hand framing the dossier states
+   ("In the wording of Ostafin and colleagues, who quote them").
+3. Wrzesniewski et al. 1997 (Semantic Scholar paper page, opened via the
+   fetch tool's raw mode): "as either a Job (focus on financial rewards and
+   necessity rather than pleasure or fulfillment; not a major positive part of
+   life), a Career (focus on advancement), or a Calling (focus on enjoyment
+   of fulfilling, socially useful work)" — verbatim in the page's own record
+   text (the full sentence begins "We present evidence suggesting that most
+   people see their work...").
+4. Sheldon and Elliot 1999 (PubMed eutils raw abstract, PMID 10101878):
+   "put more sustained effort into achieving those goals and thus are more
+   likely to attain them" — verbatim.
+5. Yaden et al. 2017 (OpenAlex record for DOI 10.1037/gpr0000102, "The
+   Varieties of Self-Transcendent Experience", abstract reconstructed from
+   the inverted index locally): "transient mental states marked by decreased
+   self-salience and increased feelings of connectedness" — verbatim.
+6. Heidegger, Being and Time section 56, Macquarrie and Robinson (dhspriory
+   .doc, downloaded raw and converted to text locally with LibreOffice):
+   "discourses solely and constantly in the mode of keeping silent" —
+   verbatim; the carrier is a Word .doc, which the checker cannot extract
+   (a checker limitation, not a carrier fault).
+7. McAdams, "Narrative Identity and the Redemptive Self" (erudit PDF,
+   bot-walled live; the Wayback Machine copy of the same PDF opened raw and
+   text-extracted): "that what Erikson called an identity is really an inner
+   story or personal myth that integrates a person's life in time (past,
+   present, and future) and social space" — verbatim, the only difference
+   being the PDF's curly apostrophe in "person's" versus the dossier's
+   straight one.
+8. Taleb 2007 as quoted in Kunst and Van de Wiel 2016 (PMC5045839, opened via
+   the fetch tool's raw mode; ncbi.nlm.nih.gov form 403s, the pmc form
+   serves): "Where this propensity can go wrong is when it increases our
+   impression of understanding" — verbatim in the article's narrative-fallacy
+   passage.
+
+Gates re-run this pass: dossier_check OK, density 0 dense, quote_verify
+31 checked / 7 not found (one of the eight spans above now also passes
+mechanically against its live carrier; the seven standing NOT FOUNDs are
+blocked or non-HTML carriers) — every flagged span is now an individually
+documented exception with raw verification above. No dossier text
+changed. SUPERVISOR: re-splice
+lifes-purpose when convenient; nothing further owed on these flags.
