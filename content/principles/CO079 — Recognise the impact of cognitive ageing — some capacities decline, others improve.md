@@ -18,7 +18,7 @@ The rise side of the curve is just as specific. Across 48,537 online participant
 
 The application here: take stock of which of your abilities sit on the early-declining side of the record and which sit on the still-rising side, and design around that stock. Offloading search-heavy work to external systems that do not age with you is one such design; what counts as search-heavy for you is something to observe rather than assume.
 
-**Plain words** The record is two-sided. On one side, the measured losses start earlier than most people expect, are fairly large, and cut across ability types. On the other, abilities peak on different schedules: some right after high school, others not until the forties or later. The design move is to take stock of which side each of your abilities sits on, hand the search-heavy work to systems that do not age, and recheck the stock every few years as the mix shifts.
+**Plain words** Nobody is simply "losing it" with age; every mind is losing some things and still gaining others, on different clocks. Speed of search goes early; pattern-knowing arrives late and stays. Treating that as bad news is a category error. The useful response is bookkeeping, not mourning: know which of your abilities are on the falling side and which on the rising side, give the falling ones help from tools and younger colleagues, and keep counting, because the mix keeps moving.
 
 *For example:* The older engineer who can't out-debug the twenty-five-year-old on speed — and wins every time on pattern recognition and system knowledge — has stopped apologising for the split. The young ones search; the old ones recognise. Both are needed.
 
