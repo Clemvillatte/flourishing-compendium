@@ -56,7 +56,7 @@ The third abstention is sexual misconduct, and its positive counterpart for layp
 
 ## How conduct is trained
 
-The restraints state what not to do; the training question is how a person comes to do them. The traditions give different answers: a rule, a person's character, a situation.
+The rule answer and the situation answer address different questions. A rule tells a person what to do; a situation tells a person where the doing happens, and the two can be trained at once.
 
 ### The rule answer
 
@@ -82,9 +82,11 @@ The habituation ordering runs through several traditions. [Action before feeling
 
 ### The situation answer
 
-[The moral situation](https://clemvillatte.github.io/flourishing-compendium/#card=The%20moral%20situation) is Dewey's term for where morality actually happens: the concrete meeting of a person's dispositions with an environment, beyond both the rule and the inner self. [Moral situation research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20situation%20research) is the situationist literature behind the claim that context can dominate in real moral choice: Doris's Lack of Character, the hurrying seminarians, Milgram's obedience findings. The situations these studies describe carry much of the effect in their designs. The training that follows need not be only inward.
+The moral situation is Dewey's term for where morality actually happens: the concrete meeting of a person's dispositions with an environment, beyond both the rule and the inner self.
 
-The training can also be arranged rather than willed. [Designing for virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Designing%20for%20virtue) is the design-research idea that products and environments can support virtuous behaviour, the third ingredient of the Positive Design Framework; [designing the environment for virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Designing%20the%20environment%20for%20virtue) is arranging the settings of action, from laws and institutions down to the room one works in, so that virtuous acts become the ones a person repeatedly performs. [Ethics as foundation](https://clemvillatte.github.io/flourishing-compendium/#card=Ethics%20as%20foundation) is Johnston's reading of Yoga Sūtra II.29, the Commandments of non-injury, truthfulness and abstention from stealing, placed before the Rules, conduct as the foundation of practice.
+The situationist literature backs Dewey's placement with findings: [moral situation research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20situation%20research) gathers Doris's Lack of Character, the hurrying seminarians and Milgram's obedience findings.
+
+If the setting carries that much of the outcome, the training can be arranged rather than willed. [Designing for virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Designing%20for%20virtue) is the design-research idea that products and environments can support virtuous behaviour, the third ingredient of the Positive Design Framework; [designing the environment for virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Designing%20the%20environment%20for%20virtue) is arranging the settings of action, from laws and institutions down to the room one works in, so that virtuous acts become the ones a person repeatedly performs. [Ethics as foundation](https://clemvillatte.github.io/flourishing-compendium/#card=Ethics%20as%20foundation) is Johnston's reading of Yoga Sūtra II.29, the Commandments of non-injury, truthfulness and abstention from stealing, placed before the Rules, conduct as the foundation of practice.
 
 ### How moral reasoning develops
 
@@ -94,7 +96,7 @@ The training can also be arranged rather than willed. [Designing for virtue](htt
 
 ### The relational accounts
 
-The relational traditions hold that conduct is answerable to particular others rather than to a rule or a character alone. [Care ethics](https://clemvillatte.github.io/flourishing-compendium/#card=Care%20ethics) and [Gilligan's ethics-of-care theory](https://clemvillatte.github.io/flourishing-compendium/#card=Gilligan%27s%20ethics-of-care%20theory) are moral reasoning with more than one voice, the relationship-oriented ethic of care contrasted with the ethic of justice.
+The relational traditions hold that conduct is answerable to particular others rather than to a rule or a character alone. [Care ethics](https://clemvillatte.github.io/flourishing-compendium/#card=Care%20ethics) and [Gilligan's ethics-of-care theory](https://clemvillatte.github.io/flourishing-compendium/#card=Gilligan%27s%20ethics-of-care%20theory) are moral reasoning with more than one voice, the relationship-oriented ethic of care contrasted with the ethic of justice: the care ethic asks what the relation asks, the justice ethic asks what anyone in that position owes.
 
 [Role ethics](https://clemvillatte.github.io/flourishing-compendium/#card=Role%20ethics) makes the relation constitutive: on its family of views, a person's roles and relationships are central to what is morally required and to who the person is. [Confucian role ethics](https://clemvillatte.github.io/flourishing-compendium/#card=Confucian%20role%20ethics) is the Confucian branch of that family.
 
