@@ -585,3 +585,7 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 ## 2026-10-25 (worker pplx-artcurator-1025a) — K373 Notice the fixing reflex
 - Read the full page; the verbatim quote re-verified against the downloaded M&R 3rd ed. PDF text: the "these very same motives can lead to the overuse of a directing style" passage, including "Stop! Go back! Don't you see?" and the "righting reflex" naming sentence (verbatim).
 - No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
+
+## 2026-10-25 (worker pplx-artcurator-1025a) — K375 Setback, not relapse
+- Read the full page; the verbatim quote re-verified against the downloaded M&R 3rd ed. PDF text: the "absolute black-or-white perfection goal" passage through "perfection or relapse (Miller, 1996)" and "catch these setbacks early, normalize them" (verbatim; the PDF's own line-break hyphenation "black-orwhite" is a layout artifact, the page's rendering is correct).
+- No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
