@@ -75,7 +75,7 @@ The research typology names two. [Focused-attention meditation](https://clemvill
 
 ### What does absorption in activity look like?
 
-[Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow) is Csikszentmihalyi's absorption in activity, energized focus, full involvement, autotelic, with the three conditions and the founder's own caution about the addictive side. Set beside the jhana's entry, entered "quite withdrawn from sensuality" ([DN 2, Thanissaro](https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html)), the two accounts part on the door: withdrawal versus challenge-skill engagement. I keep them as cousins and do not collapse them.
+[Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow) is Csikszentmihalyi's absorption in activity, energized focus, full involvement, autotelic, with the three conditions and the founder's own caution about the addictive side. Set beside the jhana's entry, entered "quite withdrawn from sensuality" ([DN 2, Thanissaro](https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html)), the two accounts part on the door: withdrawal versus challenge-skill engagement. I keep these terms distinct because the passages compared here do not establish that they describe the same state; the two are cousins, not a demonstrated disagreement.
 
 The engineering side of flow is carried by its principles. [P118 — Engineer flow — match challenge to skill](https://clemvillatte.github.io/flourishing-compendium/#card=P118%20%E2%80%94%20Engineer%20flow%20%E2%80%94%20match%20challenge%20to%20skill) is the challenge-skill match, checked against the meta-analysis that followed; [P119 — Give flow clear goals and immediate feedback](https://clemvillatte.github.io/flourishing-compendium/#card=P119%20%E2%80%94%20Give%20flow%20clear%20goals%20and%20immediate%20feedback) is the other two conditions, engineered rather than awaited.
 
@@ -106,18 +106,6 @@ The shared question: what does collecting the mind do to the field of awareness?
 Shankman's reading of the same family of terms holds a wider option inside the same word. Samadhi "basically means 'undistractedness'"; it may be viewed as "an exclusive focus on a single object," but also as "a broader state of awareness in which the mind remains steady and unmoving, yet aware of a wide range of phenomena around the meditation object." The same source renders citt'ekaggata both as one-pointedness, a mind fixated on a single object, and as unification of mind, in which mind becomes very still but does not merge with the object of attention, and is thus able to observe and gain insight into the changing flow of experience. ([Wikipedia, Samadhi, quoting Richard Shankman](https://en.wikipedia.org/wiki/Samadhi)): Secondary; the passages were checked against the raw HTML of the article.
 
 The disagreement is real and live: the article's Criticism section reports that the one-pointed interpretation "has become a matter of debate." What remains unresolved is whether ekaggata is exclusive fixation or unified stillness; the practice instructions differ, a single fixed object on one reading, a steady awareness of the wide field on the other, and my own pages hold both.
-
-### Is absorption entered by withdrawal or by engagement?
-
-The shared question: what is the door into full absorption? The first jhana's entry, in the Samaññaphala Sutta's own words, is withdrawal:
-
-> "Quite withdrawn from sensuality, withdrawn from unskillful mental qualities, he enters and remains in the first jhana: rapture and pleasure born from withdrawal, accompanied by directed thought and evaluation." ([Thanissaro, DN 2](https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html))
-
-The jhana line's door is a stepping back from sensory engagement and from the unskillful qualities that come with it. Flow's door runs the other way. [Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow) is entered from inside a demanding activity, and its three stated conditions are conditions of the task, not of withdrawal: clear goals and visible progress, immediate feedback, and a perceived balance between the challenge of the task and the performer's skill. The jhana is entered by pulling back from the senses; flow is entered by leaning into a challenge that matches the skill brought to it.
-
-The two accounts give the practitioner different work to do at the threshold. The contemplative instruction is to withdraw from sensuality and the unskillful qualities that follow it, and the pleasure that comes is born from that withdrawal. The flow instruction is to arrange the challenge, the goals and the feedback so the engagement holds, and the reward is intrinsic to the doing. Each tradition knows the other's state exists and does not claim to produce it: the jhana literature does not promise absorption in a chess game, and the flow literature does not promise rapture born of withdrawal.
-
-I lean toward keeping the doors distinct rather than choosing between them. A person whose day is made of tasks needs flow's engineering, and a person whose day is made of stimulation needs the jhana's withdrawal; the two needs are different, and calling one state by the other's name leaves both undescribed.
 
 ## Practice: variation, selection, retention
 

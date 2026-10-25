@@ -476,46 +476,49 @@ at random moments — matches) and ST307 The Rock Climbers' Absorption
 absorption — matches). All three match. With batch 1, the sampled
 cards all verify. No defects found.
 
-## Disagreement-repair pass (worker-pplx-dos25-1025-0600, 2026-10-25)
+## Withdrawal-vs-engagement comparison corrected (worker-pplx-dos25-1025-0600, 2026-10-25)
 
-One new substantiated disagreement added ("Is absorption entered by
-withdrawal or by engagement?"), bringing the count to TWO. The 3-5
-bar remains UNMET at 2 of 3 — supervisor/owner disposition requested
-rather than manufacturing a third.
+A withdrawal-vs-engagement disagreement subsection was drafted and
+pushed, then REJECTED on advisor QC: the two sources describe entry
+into different states, and neither claims its method is the only
+route to every form of absorption. The subsection was REMOVED in
+full; the flow body paragraph now carries the bounded comparison
+with the advisor's qualification ("I keep these terms distinct
+because the passages compared here do not establish that they
+describe the same state; the two are cousins, not a demonstrated
+disagreement").
 
-Carriers freshly opened and verified this session (fetch tool;
-quotes matched word-for-word against the raw text):
+COUNT CORRECTED: this dossier has ONE substantiated disagreement
+(the one-pointedness-vs-whole-field entry, already present); the
+withdrawal-vs-engagement comparison is a bounded comparison, not
+a disagreement. The 3-5 bar remains UNMET at 1 of 3 —
+supervisor/owner disposition requested.
+
+Carriers opened this session (fetch tool):
 
 1. DN 2 (Samaññaphala Sutta), Thanissaro, Access to Insight —
-   "Quite withdrawn from sensuality, withdrawn from unskillful
-   mental qualities, he enters and remains in the first jhana:
-   rapture and pleasure born from withdrawal, accompanied by
-   directed thought and evaluation." Verified verbatim.
-2. Flow card (content/concepts/Flow.md) — the three stated
-   conditions (clear goals and progress, immediate feedback,
-   challenge-skill balance) and the intrinsic-reward framing;
-   relied on the card's already-verified Wikipedia carrier per the
-   card-fidelity convention.
+   the first-jhana entry verified verbatim ("Quite withdrawn from
+   sensuality, withdrawn from unskillful mental qualities...").
+2. Flow card (content/concepts/Flow.md) — read for the three
+   conditions and intrinsic-reward framing; the card's Wikipedia
+   carrier was NOT independently fetched this session (noted; the
+   comparison is bounded and does not rest on fresh external
+   verification of the flow side).
 
-The opposition: the jhana's door is withdrawal from sensuality;
-flow's door is engagement with a challenge that matches skill.
-The dossier's own body (line 78 of the pre-edit file) already
-named this as "the two accounts part on the door"; the new
-section substantiates it as a genuine disagreement with both
-sides textually supported.
+Repairs applied per the advisor's direction: "pulling back from
+the senses" broadening removed (not re-added); the mutual-
+awareness claim ("each tradition knows the other's state
+exists") removed; the literature-wide negatives removed; the
+prescriptive "needs" claim removed.
 
-Checks: dossier_check.py exit 0 (62 card links, 31 headers, 4
+NEXT LEAD for a future worker (from the advisor, unexamined): the
+fatigue-versus-boredom explanations of sustained-attention
+decline; read the Sustained attention theory card and open its
+cited review to check whether the review explicitly presents
+competing explanations with different predictions about the same
+vigilance decrement, or allows complementary mechanisms. Count a
+disagreement only if the opened evidence supports the former.
+
+Checks: dossier_check.py exit 0 (62 card links, 30 headers, 4
 external carriers); dossier_density.py 0 dense;
-dossier_quote_verify.py 6 checked / 0 not found.
-
-STATUS: two substantiated disagreements ("Is the collected mind
-fixed on one point or gathered into a whole field?" and "Is
-absorption entered by withdrawal or by engagement?"); the 3-5 bar
-remains UNMET (2 of 3 minimum). Publication decision remains
-with the supervisor/owner. Rejected candidates recorded to prevent
-re-litigation: fourth-jhana-beyond-valence-vs-flow-intrinsic-reward
-(different questions: depth of meditative absorption vs
-phenomenology of task absorption), focused-attention-vs-open-
-monitoring (complementary styles, not opposition), samatha-vs-
-vipassana (explicitly complementary per Thanissaro), Daoist-wu-wei-
-vs-Buddhist-lute-string (cousins, both tuned effort).
+dossier_quote_verify.py 5 checked / 0 not found.
