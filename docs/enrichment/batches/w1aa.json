@@ -31,7 +31,6 @@
     "HRV coherence research",
     "Hermeneutic circle",
     "Homo faber: man the maker",
-    "Horizon",
     "Halo effect",
     "Hostility research",
     "Hubris and nemesis",
@@ -71,7 +70,8 @@
     "Karasek",
     "Nondual awareness",
     "Insight research",
-    "Hermeneutic listening"
+    "Hermeneutic listening",
+    "Horizon"
   ],
   "in_progress": null,
   "flagged": {
@@ -117,11 +117,12 @@
     "Henrich et al": "bare author-year stub title; enriched as the WEIRD review (Henrich, Heine, Norenzayan 2010); suggest rename",
     "Hickman et al": "bare author-year stub title; enriched as Hickman 2021 Lancet Planet Health survey; suggest rename",
     "Janis": "bare author-year stub; enriched via Aldag & Fuller 1993 (opened) as model structure + evidence; Janis books not opened; suggest rename",
-    "Karasek": "bare author-year stub; enriched as Karasek 1979 job strain model; suggest rename"
+    "Karasek": "bare author-year stub; enriched as Karasek 1979 job strain model; suggest rename",
+    "Horizon": "Reopened for QC: QC correction: below 150-word prose floor (supervisor concept-stub backlog 2026-10-25)"
   },
   "missing_concepts": [],
   "sources_checked": 0,
-  "updated": "2026-10-25T12:07:25+00:00",
+  "updated": "2026-10-25T12:07:52+00:00",
   "band_done": false,
   "note": "SUPERVISOR MECHANICAL SWEEP 2026-10-25 12:03Z (launcher-pplx-1025c): all pages carrying the 'QC round 2 repairs applied; awaiting supervisor/advisor re-verification' flag were run through scripts/enrich_validate.py against HEAD: 19 pass clean at their current names; the Integrity flag-key is a colon variant of the real page name 'Integrity (integritas - wholeness).md', which validates clean; Intra-action was 149 prose words (one word below the 150 floor) - the supervisor added one natural word ('standing' in 'a stage with two actors already standing on it', meaning-preserving) and the page now validates clean. MECHANICAL LEVEL COMPLETE: the awaiting pages are structurally sound. Per-page hand re-verification of each QC repair's content against its source remains a next-pass item (the repairs' commit trail cffe2384..0f7de0ef and the workers' QC records stand as the content evidence). ",
   "notes": {
@@ -132,6 +133,14 @@
       "url": "https://web.archive.org/web/2023/https://apcz.umk.pl/SPI/article/download/SPI.2015.003/8246/23946",
       "limitations": "Primary journal site down for maintenance at time of verification; archived copy matches all quoted spans",
       "qc": "Verification pass; added unwitting/witting register definitions from the article; page above floor (210 prose words)"
+    },
+    "Horizon": {
+      "claims": "Repaired misattribution: 'back of the house / room behind you' example was NOT in the Moran lecture; replaced with the lecture's actual material (Amsterdam Lectures house noema; Ideas I Hintergrund/Umwelt; \u00a783 halo/background equivalence; Passive Syntheses emptiness quote)",
+      "quotation": "Ideas I \u00a744 'A horizon of determinable indeterminacy always remains in principle...' verified verbatim; \u00a783 'horizon has here the same value as did the terms halo and background' (Ideas I p.160); 'Every experience influences the (bright or dim) halo of further experiences' (\u00a783 p.161); Passive Syntheses 'an emptiness that is not a nothingness, but an emptiness to be filled out'",
+      "locator": "Moran 2019, J. Phenomenological Psychology 50, 1-41 (lecture PDF), pp. 30-33",
+      "url": "https://dermotmoran.com/wp-content/uploads/2020/05/A_2018_Husserl-and-Gurwitsch-on-Horizonal-Intentionality_-The-Gurwitch-Memorial-Lecture-.pdf",
+      "limitations": "None",
+      "qc": "Misattribution fixed with sourced replacements; page grounded in verified spans"
     }
   }
 }
