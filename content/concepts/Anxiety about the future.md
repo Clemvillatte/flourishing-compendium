@@ -20,6 +20,18 @@ The book's pseudonymous author is Vigilius Haufniensis ([Lippitt & Evans, "Søre
 
 > "Whoever has learned to be anxious in the right way has learned the ultimate" — Kierkegaard, The Concept of Anxiety (CA 155), as quoted in [Lippitt & Evans, SEP, §2](https://plato.stanford.edu/entries/kierkegaard/)
 
+### What the dizziness is about
+
+The dizziness is not a defect of the forecasting. The person looking into a possibility is not wrong about what the possibility is; the mind is pulled toward a thing it has not yet done and cannot yet hold. The SEP entry's own framing keeps both halves: the anxiety is "part of the human condition itself" and not a pathology, because the person who can look into the future is the person who has the freedom to act ([Lippitt & Evans, SEP, §2](https://plato.stanford.edu/entries/kierkegaard/)).
+
+### Learning to be anxious in the right way
+
+The book's own counsel is not to remove the anxiety but to learn its correct use. The quoted line, that whoever has learned to be anxious in the right way has learned the ultimate, treats anxiety as a form of attention that, trained, becomes the act of holding a possibility rather than being held by it ([Lippitt & Evans, SEP, §2](https://plato.stanford.edu/entries/kierkegaard/)). That is the page's bearing on flourishing: the freedom that produces the anxiety is the same freedom the practice is for.
+
+### The future-directed practice family
+
+The concept carries a family of practices aimed at the same pull: returning to the present, examining the fabrication as it forms, treating hope and fear as one system, and using the deathbed self as the perspective that cuts through the pull. Each treats the anxiety as information about what the freedom is pointed at, not as a symptom to be suppressed.
+
 ### Here
 
 - [[A116 — Understand fear (phobos)]] — [[T002 — Aristotle|Aristotle]]'s fear, with expectation of some destructive or painful evil in the future (Rhetoric II.5)
