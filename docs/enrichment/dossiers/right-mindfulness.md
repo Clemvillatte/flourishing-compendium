@@ -78,6 +78,44 @@ Bodhi, reading the canon and its commentaries against that claim, denies it:
 
 Bodhi allows nonconceptual observation as a practice. His objection is to making it sati's nature: the phrase bare attention, he argues, conflates sati with manasikāra, the mind's automatic turning to an object, and no act of cognition is ever entirely devoid of factors imparting orientation and meaning. What remains unresolved is where sati's home is: the preconceptual moment of awareness, or the wider field of trained attention, evaluation and recollection the canon gives it.
 
+### Is sati awareness of the present moment, or remembering?
+
+The shared question: whether the core of sati is attending to what is happening now. The clinical definition says yes:
+
+> "the awareness that emerges through paying attention, on purpose, in the present moment, and non-judgmentally to the unfolding of experience moment by moment." ([Jon Kabat-Zinn, quoted in Wikipedia, "Mindfulness"](https://en.wikipedia.org/wiki/Mindfulness))
+
+Thanissaro answers from the canon that the Buddha defined it differently:
+
+> "the Buddha himself defined sati as the ability to remember, illustrating its function in meditation practice with the four satipatthanas, or establishings of mindfulness." ([Thanissaro Bhikkhu, "Mindfulness Defined"](https://www.accesstoinsight.org/lib/authors/thanissaro/mindfulnessdefined.html))
+
+He quotes SN 48.10, which describes the faculty of sati as "remembering & able to call to mind even things that were done & said long ago", and he glosses being mindful of the breath as keeping the breath in mind (same essay). Bodhi starts from the same fact and refuses to leave it there:
+
+> "The word sati originally meant 'memory,' but the Buddha ascribed to this old term a new meaning determined by the aims of his teaching." ([Bhikkhu Bodhi, "What Does Mindfulness Really Mean?"](https://ibc-elibrary.thanhsiang.org/files/public/01_mindfulness_canonical_bhikku_bodhi.pdf))
+
+He holds that sati makes the object "stand forth vividly and distinctly before the mind", which takes the form of memory when the object is past and of lucid awareness when it is present (same paper).
+
+The two definitions differ on the core. In Kabat-Zinn's the present moment frames the practice, and in Thanissaro's the core is retaining what matters in mind across time. Bodhi sits between them, accepting both usages in the canon and tying them to one capacity. Thanissaro does not name Kabat-Zinn, so the opposition is between the two definitions and not between two people in dialogue.
+
+My lean, which is mine: Bodhi's reading fits what I opened best, since SN 48.10 itself sets the memory definition beside the satipatthana formula. For essays on wisdom development, I would write "keeping the aim in mind while attending to what is present" and avoid making either half the whole.
+
+Limits: I read one essay by each Pali scholar and the clinical definition through a secondary encyclopedia page. I have not opened Kabat-Zinn's own text or the Pali of SN 48.10, and Thanissaro's own translation of the passage is the only wording I have.
+
+### Is mindfulness a nonjudgmental awareness?
+
+The shared question: whether judging and evaluating belong inside mindfulness or sit outside it. The clinical definition above includes the word nonjudgmentally. Bodhi argues against that reading of sati by pointing to the way the path is built. In MN 117 right view, right effort and right mindfulness accompany each of the other path factors, and the sutta says "Mindfully one abandons wrong intention and mindfully one acquires and dwells in right intention" (as Bodhi quotes it). From this he concludes:
+
+> "This explanation makes problematic the common interpretation of mindfulness as a type of awareness intrinsically devoid of discrimination, evaluation, and judgment." ([Bhikkhu Bodhi, "What Does Mindfulness Really Mean?"](https://ibc-elibrary.thanhsiang.org/files/public/01_mindfulness_canonical_bhikku_bodhi.pdf))
+
+He concedes that "there are certainly occasions when the cultivation of mindfulness requires the practitioner to suspend discrimination, evaluation, and judgment" (same paper). Thanissaro goes further in practical terms:
+
+> "In other words, you don't abandon your powers of judgment as you develop mindfulness. You simply train them to be less judgmental and more judicious, so that they yield tangible results." ([Thanissaro Bhikkhu, "Mindfulness Defined"](https://www.accesstoinsight.org/lib/authors/thanissaro/mindfulnessdefined.html))
+
+Both scholars object to treating judgment as foreign to mindfulness. The disagreement with the clinical wording is about whether that attitude is the essence of mindfulness or one stance within a larger path that includes evaluation. A clinician can reply that nonjudgmental attitude is an instruction for how to relate to experience during practice, and Bodhi himself grants that suspending judgment is sometimes right.
+
+My lean, which is mine: both sides are right about their own settings. A person calming a spiral of self-criticism benefits from the clinical stance, and a person deciding what to do about a harmful habit needs the evaluating function Bodhi describes. The dossier's essays should say which setting they mean.
+
+Limits: Bodhi's MN 117 argument is read in his paper's wording, and I have not opened MN 117 itself. Neither Pali scholar addresses Kabat-Zinn by name in the passages I opened, and the clinical definition is again read secondhand.
+
 ## Related questions and parallels
 
 

@@ -738,3 +738,15 @@ Checks before push (exit codes captured directly): dossier_check exit 0; quote_v
 ## Supervisor applied the routed correction (assistant-supervisor-1025e, 2026-10-25, T+40)
 
 The live holder released the dos24 baton with the correction unapplied, so the supervisor applied it directly: (1) the unsupported sentence "Thanissaro denies that bare attention is part of sati at all" is replaced with the faithful reading (he distinguishes sati from the other mental functions; the named functions are not automatically part of sati but brought along where appropriate); (2) the two demoted subsections (research claims; bare-attention centrality) and the open "How do these definitions differ?" question are moved out from under the genuine-disagreement heading into a new "Related questions and parallels" section, per the advisor's ruling that excluded comparisons must not remain under the disagreement heading. HONEST BAR STATUS: ONE substantiated dispute (Gunaratana-vs-Bodhi); TWO more needed; lane OPEN.
+
+## Two more disagreement questions (worker-pplx-dos30-1025l, baton dos24, 2026-10-25)
+
+Standard heading count 1 -> 3. Added (a) "Is sati awareness of the present moment, or remembering?" (Kabat-Zinn definition via Wikipedia
+[secondary, as in the existing comparison section] vs Thanissaro "Mindfulness Defined" incl. SN 48.10 in his translation; Bodhi as bridging voice,
+abstract and section 2 of "What Does Mindfulness Really Mean?") and (b) "Is mindfulness a nonjudgmental awareness?" (Bodhi section 2 on MN 117 and
+the "devoid of discrimination, evaluation, and judgment" passage vs the clinical definition; Thanissaro "judgment...judicious" passage).
+Opened this pass: Bodhi PDF (ibc-elibrary.thanhsiang.org) and Thanissaro essay (accesstoinsight) through page extracts; quote_verify 26 checked, 0 not found.
+Flags: Kabat-Zinn quoted via Wikipedia, not his own paper; neither Pali scholar names Kabat-Zinn in the cited passages (stated in text); the
+overlap with the earlier "How do these definitions differ?" comparison is deliberate (that section stays under Related questions, unchanged).
+Advisor test: (a) is a definitional contrast with a bridging third voice; (b) has an explicit textual denial (Bodhi, "makes problematic").
+SUPERVISOR: re-splice right-mindfulness.
