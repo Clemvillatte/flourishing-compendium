@@ -2776,3 +2776,20 @@ Verification pass (T+25): all 30 actual dossiers pass dossier_check.py; the chec
 - The Frankl quote follows the opened carrier's "discover this
   meaning in life" where the E062 card prints "of life" — the
   dossier follows the opened carrier, per no-hallucination policy.
+
+## Card-fidelity full-text sweep complete — 2026-10-25 ~01:25 UTC
+
+- dos12 (worker-pplx-dos12-0e136) completed the open card-fidelity
+  full-text sweep: all 39 glosses match their cards, 0 mismatches,
+  no edits needed. Divergence quotes re-verified against freshly
+  opened carriers (Baumeister 9599441, Hagger 27474142, Dang
+  PMC8186735, Aristotle MIT Classics). Ledger updated (commit
+  839234ead). This closes the open handoff on the prefix-checked
+  sweeps' full-text comparison.
+- NEW FLAG for the owner: the Progressive overload concept card
+  carries page-facing seed/process narration (concept-band fix
+  needed — the narration belongs in the dossier, not the card).
+- dos31 applied advisor QC round 1 to the creation dossier rev 2
+  (commit f985c5d4b): bounded comparison, raw-verified Arendt +
+  Nietzsche, de-quoted unverified spans, kernel-only Selection with
+  evidence limits, full-card story loglines. Checker exit 0.
