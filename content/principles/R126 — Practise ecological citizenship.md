@@ -22,7 +22,7 @@ This differs from the entry in two ways. First, the entry speaks of being "a cit
 
 Eckersley's The Green State, where the more-than-human dimension is more likely to appear, and Clayton and Opotow (2003) are cited at second hand.
 
-**Plain words** On Dobson's account, ecological citizenship is a duty to keep your own footprint from narrowing other people's options, now and in the future. It mostly concerns the effect of how you live on people you will never meet. Voting and advocacy can support that, and the core is the impact of ordinary choices.
+**Plain words** The book turns citizenship upside down: membership measured not by city or state but by the ecological footprint, and the citizen's first question is whether their share of the world's ecological space leaves others — including distant strangers and future people — their options. The obligations are one-directional and they end when the imbalance does. What carries them is mostly the conduct of private, daily life rather than public activism.
 
 *For example:* A voter adds candidates' environmental records to their checklist, and also reviews their own energy use, travel and shopping, since Dobson locates the obligation in the footprint.
 

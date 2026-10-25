@@ -22,7 +22,7 @@ The same source adds a point the entry's last sentence needs. The mainstream Sto
 
 For the psychology, Sahdra, Shaver and Brown describe nonattachment as "based on insight into the constructed and impermanent nature of mental representations" and report evidence that it "is psychologically and socially adaptive" (Journal of Personality Assessment 92(2), 2010, abstract; [PubMed](https://pubmed.ncbi.nlm.nih.gov/20155561/)). That is a Buddhist-derived construct, so it is a parallel and not a Stoic finding. The Discourses and [[T014 — Marcus Aurelius|Marcus Aurelius]] passages cited in the entry, and Hayes et al. (2011), are cited at second hand.
 
-**Plain words** Epictetus says it is our judgements about things, not the things, that disturb us. For the Stoics wealth and poverty do not make a life good or bad, and only virtue does. They still treated health and money as worth choosing, and what changes is how much weight the outcome gets.
+**Plain words** The starting claim is about disturbance, not about events: what unsettles a person is the notion attached to the event, and the Enchiridion's example is death, which could not have frightened Socrates. On externals the rule is blunt — not in your control, therefore neither good nor evil. The subtlety is in the word indifferent: health, money and reputation are still worth choosing, only no longer the measure of whether your life is going well.
 
 *For example:* A freelancer loses a client and first feels it as a verdict on their worth. They then ask whether they dealt honestly, and answer yes. The loss still stings and is no longer a disaster.
 
