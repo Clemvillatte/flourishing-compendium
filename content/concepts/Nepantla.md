@@ -18,6 +18,10 @@ The same account extends the word to a borderland ([Maffie, The Centrality of Ne
 
 In Chicana feminist thought (Anzaldúa) it names the borderlands of identity ([Wikipedia Nepantla](https://en.wikipedia.org/wiki/Nepantla)).
 
+The two readings agree on where the interest of the word lies: neither treats being in the middle as a state to be resolved, and both treat it as a place where something is being made. Maffie's tertium quid is the part of the account that does the work, since a process that suspends fish and fowl between endpoints is also a process that produces something which is neither. The borderland reading names the same thing at the level of a person rather than of things: an identity formed in the middle is one whose well-defined status has already been given up.
+
+The practical reading runs against a habit of treating in-between states as provisional. A person between two cultures, two callings or two selves is often read as someone who has not yet decided, and the concept's claim is that the middle is not a waiting room. The mutuality and reciprocity Maffie names are not features of a difficulty being overcome but features of the thing being made, which is why the account does not end with a recommendation to exit the middle.
+
 ## Sources
 - Wikipedia Nepantla: https://en.wikipedia.org/wiki/Nepantla
 - [Maffie, The Centrality of Nepantla in Conquest-Era Nahua Philosophy, Nahua Newsletter 44 (November 2007)](https://nahuanewsletter.org/wp-content/uploads/2012/07/nahua-no-44.pdf) — both blockquotes

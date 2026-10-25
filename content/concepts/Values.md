@@ -15,6 +15,10 @@ In acceptance and commitment therapy, values are defined as qualities of ongoing
 
 The same article separates values from goals with an example: "investing in family life" is a value, while "Friday family movie night" is a goal, "a tangible outcome". Values-based living, it says, means living so that values "provide direction like a compass".
 
+The compass comparison carries a specific claim about the failure modes of each. A goal is the kind of thing that can be achieved and then finished, so a life built only of goals is one in which the reason for acting keeps expiring; a value is a way of travelling rather than a place to arrive, so it does not run out of occasions. The distinction is also why the concept is about qualities of ongoing action rather than about states of the world, since a direction has no completion condition and a state does.
+
+The practical reading is that the compass needs to be consulted rather than achieved. A person can spend a life working hard toward something without ever asking what direction the work adds up to, and the answer to that question is not another goal, since a direction cannot be met. Values clarification in the ACT tradition is therefore a naming exercise rather than a planning one, and what it names is what a person is already willing to be about, not what a person intends to have.
+
 ### Here
 
 - [[AF046 — Know that tolerance is not the goal; valued living is]] — ACT's acceptance skills serve chosen values
