@@ -481,3 +481,7 @@ not necessarily whole files. The relied-on passages are inside those ranges.
   are third-party PDF hosts; both opened cleanly this session.
 - The Taylor & Francis pages are fetch-tool readable but curl-bot-blocked;
   the ledger records the fetch-tool reads with card cross-checks above.
+
+### Card-gloss verification pass (this session, pre-taper)
+
+Every card summary in the dossier was checked against the linked card's own body. One defect found and fixed: the CO074 gloss claimed "doing them as separate passes is a skill, not a personality trait", which was the dossier's own phrasing rather than the card's; rewritten to the card's own terms ("try them as separate passes", without assuming generation and judgment must never overlap). All other glosses are card-backed, including PP051 ("without first deciding whether you are a creative person"), Insight problem-solving ("The definition is not settled"), Flow (clear goals, immediate feedback, challenge and skill), P086 ("possibility, not the assurance"), ST015 (secret notebook, publishes nothing), ST112, ST325, ST326, ST324, ST307, ST293, K323-K325, K327, K331, Creative values (Frankl), Four-C model (mini-c through Big-C), and the Bergson/Schumpeter cards.
