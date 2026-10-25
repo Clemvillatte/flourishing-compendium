@@ -3057,3 +3057,17 @@ Addendum 2 to checkpoint 7 (03:35Z): dos22 (right-livelihood) was re-claimed by 
 All 4 requested workers are running server-side; each takes its baton per
 OPERATIONS.md (worker prompts include the DOS-band directive). Launcher
 session b7e5875a complete.
+
+## Agent launch record (2026-10-25, Path A, email jensenakybart.ho.l.ome.u@gmail.com)
+
+- Owner requested Path A. Account: jensenakybart.ho.l.ome.u@gmail.com (Perplexity
+  account jensenakyb16, Free plan).
+- Task URL: https://www.perplexity.ai/computer/tasks/ba5d9385-5e93-4e93-b828-c7685b7989a9
+- Launched at 2026-10-25 10:20 UTC with PROMPT-WORKER.md verbatim (token filled from the owner's
+  message, never stored in the repo). Paste verified against the prepared file before
+  submission (8415 chars + browser trailing newline; head and tail matched exactly).
+  Standard worker prompt — per its bands annex it will take a free principle band first
+  while the principles queue is untouched, else a concept or dos band via
+  scripts/baton.py.
+- Session confirmed running server-side (URL moved to computer/tasks/<uuid>).
+  No coordination needed post-launch; the baton system governs.
