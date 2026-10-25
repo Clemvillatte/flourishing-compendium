@@ -154,3 +154,28 @@ waste, economy; full-text sweep for right livelihood, Vanijja, AN
 - Burnout research sits between this dossier and a possible future
   Stress dossier (proposed in the anxiety ledger); the burnout cluster
   is included here because work is its context.
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos22 baton)
+
+Reviewed all 10 candidates against the current file (fresh audit run).
+No scaffolds removed; all 10 flagged constructions carry doctrinal or
+definitional contrasts: line 28 (right action as its own path factor vs
+training intention), 94 (rest as practice vs remainder), 96 (rest
+complete in itself vs absence of work), 102 (Pieper's leisure:
+stillness, receptive understanding, affirmation vs a break between
+shifts — the card's own framing, verified by card read), 116 (Wang
+Yangming's unity of knowledge and action — the quoted sentence is
+verbatim on the card, from IEP), 126 and 162 (Siddhartha's river lesson:
+not a doctrine but a way of hearing — Hesse's actual narrative point;
+the line legitimately appears in map and story), 136 (burnout as failed
+exchange vs personal failing — the Variation reframe), 144 (values as
+directions vs goals — the ACT tradition's own distinction), 148 (rest as
+the root of activity vs its absence — the kernel's framing).
+
+Card-fidelity spot-checks: Spontaneous right action and Leisure cards
+opened and read; glosses match (Wang Yangming sentence verbatim; Pieper's
+stillness/affirmation characterisation). Editorial review only; no
+carriers freshly opened beyond the cards.
+
+Checks: dossier_check.py exit 0. Scope: candidate-line review plus
+spot-checks.
