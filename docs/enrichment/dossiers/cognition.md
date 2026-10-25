@@ -8,7 +8,7 @@ Two literatures hold the material: the classical analyses of reason and its limi
 
 ### Nearby terms
 
-- Thinking: the general capacity is this page's subject; its two speeds are held by [System 1 and System 2](https://clemvillatte.github.io/flourishing-compendium/#card=System%201%20and%20System%202).
+- Thinking: the general capacity; its two speeds are held by [System 1 and System 2](https://clemvillatte.github.io/flourishing-compendium/#card=System%201%20and%20System%202).
 - Thoughts: the "thoughts are not facts" territory is held here by [Cognitive defusion](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20defusion) and the meditation cluster it links to.
 - Reasoning: studied as measured performance by [Critical thinking research](https://clemvillatte.github.io/flourishing-compendium/#card=Critical%20thinking%20research) and as wise performance by [Wise reasoning](https://clemvillatte.github.io/flourishing-compendium/#card=Wise%20reasoning).
 - Reason: the faculty's classical and critical accounts, logos, instrumental reason and its critics, are held by [Instrumental reason](https://clemvillatte.github.io/flourishing-compendium/#card=Instrumental%20reason) and the philosophy cards it links to.
@@ -25,7 +25,7 @@ Why does the fast mode exist at all? Because it is economical, and its errors ar
 
 > "This article described three heuristics that are employed in making judgments under uncertainty: (i) representativeness, which is usually employed when people are asked to judge the probability that an object or event A belongs to class or process B; (ii) availability of instances or scenarios, which is often employed when people are asked to assess the frequency of a class or the plausibility of a particular development; and (iii) adjustment from an anchor, which is usually employed in numerical prediction when a relevant value is available. These heuristics are highly economical and usually effective, but they lead to systematic and predictable errors." ([Tversky and Kahneman 1974, Science](https://www.science.org/doi/10.1126/science.185.4157.1124))
 
-Speed also has a budget. [Cognitive load theory](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20load%20theory), Sweller's theory of working-memory demands in learning, starts from the small capacity of working memory: the slow system runs on a narrow resource, and effort spent holding things in mind is effort not available for reasoning about them.
+Speed also has a budget. [Cognitive load theory](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20load%20theory), Sweller's theory of working-memory demands in learning, starts from the small capacity of working memory — the same narrow resource the slow system depends on.
 
 Not every fast judgment is a bias, though. Expertise can make speed accurate: [Expert intuition (Klein's recognition-primed decision model)](https://clemvillatte.github.io/flourishing-compendium/#card=Expert%20intuition%20%28Klein%27s%20recognition-primed%20decision%20model%29) is Gary Klein's account of how experienced decision-makers act fast under pressure — a possible course of action is generated and compared against the situation's constraints. And the quality of slow thinking is itself measurable: [Critical thinking research](https://clemvillatte.github.io/flourishing-compendium/#card=Critical%20thinking%20research) studies how well people reason and decide, along the Cognitive Reflection Test line, and [Actively open-minded thinking](https://clemvillatte.github.io/flourishing-compendium/#card=Actively%20open-minded%20thinking), Baron's reasoning style, is the disposition the two speeds leave room for: considering alternatives and evidence against one's own conclusion, not only for it.
 
@@ -91,7 +91,7 @@ The acceptance-and-commitment tradition keeps the thought and moves the observer
 
 > "to see thoughts and feelings for what they are (i.e., a verbally entangled process of minding) rather than what they advertise themselves to be (e.g., the world understood, structured reality)" ([Hayes, Strosahl and Wilson 1999, quoted in Bernstein et al. 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5103165/))
 
-Whether the two treatments compete or stack is a question the passages leave open. The defusion practice has exact cross-tradition cognates: Anatta and Self-as-context as the Buddhist and ACT accounts of the observing perspective, Right concentration as the practice of watching thoughts arise and pass.
+Whether the two treatments compete or stack is left open.
 
 ### How does thinking change over a life?
 
@@ -137,7 +137,7 @@ Clark's side of the answer, in the same exposition:
 
 > "Similarly, Clark would deny Rupert's claim that the hypothesis of embedded cognition can equally well save the phenomena that the hypothesis of extended cognition was intended to capture and do so while requiring less revision of existing ideas about how cognitive systems operate." ([Shapiro and Spaulding, SEP "Embodied Cognition", §5.2](https://plato.stanford.edu/entries/embodied-cognition/))
 
-The two positions answer the same question — does the notebook function as part of the cognitive system, or as a tool the system uses — with opposing answers, and each side is stated in the material above. What the dispute turns on is whether parity of function is enough for constitution, or whether constitution demands more than a tool's usefulness. The passages state the positions; the wiki does not adjudicate between them.
+The two positions answer the same question — does the notebook function as part of the cognitive system, or as a tool the system uses — with opposing answers, each stated above. What the dispute turns on is whether parity of function is enough for constitution, or whether constitution demands more than a tool's usefulness; nothing here adjudicates between them.
 
 ## Practice: variation, selection, retention
 
@@ -163,7 +163,7 @@ The two positions answer the same question — does the notebook function as par
 
 9. [Sounds and Thoughts meditation](https://clemvillatte.github.io/flourishing-compendium/#card=K394%20%E2%80%94%20Sounds%20and%20Thoughts%20meditation): resting on the breath, then receiving sounds near and far without searching for them, then turning the same receiving stance on thoughts — events arising, lingering, passing.
 
-10. [Sing the thought, or say it in a silly voice](https://clemvillatte.github.io/flourishing-compendium/#card=K401%20%E2%80%94%20Sing%20the%20thought%2C%20or%20say%20it%20in%20a%20silly%20voice): a self-critical thought already examined, said once normally, then sung to a well-known tune or said in an exaggerated voice; the card's own caution is to use it only on the examined thought, not a fresh wound.
+10. [Sing the thought, or say it in a silly voice](https://clemvillatte.github.io/flourishing-compendium/#card=K401%20%E2%80%94%20Sing%20the%20thought%2C%20or%20say%20it%20in%20a%20silly%20voice): a self-critical thought already examined, said once normally, then sung to a well-known tune or said in an exaggerated voice; the caution is to use it only on an examined thought, not a fresh wound.
 
 The evidence limits are uneven across the list, and the kernels say so where it matters: the thought record and reappraisal carry the CBT trial literature; the defusion family carries the ACT literature; the wise-reasoning prompts carry Grossmann's situation-varying findings rather than a tested protocol.
 
