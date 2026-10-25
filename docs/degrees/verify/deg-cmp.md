@@ -247,3 +247,13 @@ the opened PDF. Remaining from the triage: suffering Epictetus span
 verify pass; the suffering Gutenberg Nietzsche spans were verified
 live earlier this session (BGE 225 Zimmern, Antichrist 20 Mencken),
 so those tool flags are fetch false negatives.
+
+Final follow-up: the suffering Epictetus span is also verified live —
+the Scaife Perseus reader page for Enchiridion 5 (perseus-eng3) opened
+this session and chapter 5 reads verbatim "Men are disturbed not by
+the things which happen, but by the opinions about the things: for
+example, death is nothing terrible, for if it were, it would have
+seemed so to Socrates; for the opinion about death, that it is
+terrible, is the terrible thing." All spans flagged in the quote
+triage are now resolved: verified live this session, or documented
+tool-fetch false negatives / known-blocked sources.
