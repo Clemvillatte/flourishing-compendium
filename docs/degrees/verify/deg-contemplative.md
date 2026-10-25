@@ -1357,16 +1357,20 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
 - Verification status: verified-page (2026-10-25); coverage is
   title-only, flagged for confirmation against the recording.
 
-### M05-YV-04: The Yoga Sutras of Patanjali — Prof. Ed Bailey (yoga.org) — NOT VERIFIED (retry attempted 2026-10-25)
+### M05-YV-04: The Yoga Sutras of Patanjali — Prof. Ed Bailey (yoga.org) — LINK DEAD (browser-confirmed 2026-10-25)
 
-- Identity and access: NOT VERIFIED. The catalog page
+- Identity and access: the catalog page
   https://yoga.org/videos/the-yoga-sutras-of-patanjali-prof-ed-bailey/
-  was retried once this session (2026-10-25, worker-pplx-degrees-1,
-  deg-verify-b) and still returned an HTTP client error; the retry is
-  spent. Identity rests on the catalog title only.
-- Verification status: unverified (page blocked after the permitted
-  retry, 2026-10-25) — further attempts should use a genuinely
-  different route or environment.
+  was read in a real cloud browser on 2026-10-25 (worker-pplx-degrees-1,
+  deg-verify-b) and the site itself answers "Not found — That video is
+  not on yoga.org." The URL is DEAD LINK ROT, not an access block: the
+  site loads (it is a U.S. 501(c)(3), yoga.org), but this video is no
+  longer in its catalog. One Wayback Machine attempt the same session
+  did not surface an archived snapshot of the page. Identity can no
+  longer rest on the live catalog title.
+- Verification status: unverified and now UNRESOLVABLE at the recorded
+  URL — the module owner needs a replacement resource or an archive
+  recovery before this record can be verified; flagged accordingly.
 
 ### SRC-M12-004: Ubuntu as a Particular Universal and Nepantla as a Transitional Space (GloPhi, Universität Hildesheim)
 

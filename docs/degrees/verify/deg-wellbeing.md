@@ -454,16 +454,19 @@ standard.
 - Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 
-### SRC-M08-S27: Belonging — the Science and Solace of Good Relationships (positiveorgs.bus.umich.edu) — NOT VERIFIED (retry attempted 2026-10-25)
+### SRC-M08-S27: Belonging — the Science and Solace of Good Relationships (positiveorgs.bus.umich.edu) — LINK DEAD (browser-confirmed 2026-10-25)
 
-- Identity and access: NOT VERIFIED. The catalog page
+- Identity and access: the catalog page
   https://positiveorgs.bus.umich.edu/videos/belonging-the-science-and-solace-of-good-relationships/
-  was retried once this session (2026-10-25, worker-pplx-degrees-1,
-  deg-verify-b) and still returned an HTTP client error; the retry is
-  spent. Identity rests on the catalog title only.
-- Verification status: unverified (page blocked after the permitted
-  retry, 2026-10-25) — further attempts should use a genuinely
-  different route or environment.
+  was read in a real cloud browser on 2026-10-25 (worker-pplx-degrees-1,
+  deg-verify-b) and the site itself answers "Oops! That page can't be
+  found." The URL is DEAD LINK ROT, not an access block: the Center for
+  Positive Organizations site (Ross School of Business, University of
+  Michigan) loads, but this video page is gone. Identity can no longer
+  rest on the live catalog title.
+- Verification status: unverified and now UNRESOLVABLE at the recorded
+  URL — the module owner needs a replacement resource or an archive
+  recovery before this record can be verified; flagged accordingly.
 
 ### M08-P05: Meng-Wu Lecture — Barbara L. Fredrickson (CCARE at Stanford)
 
@@ -991,9 +994,11 @@ standard.
 - Identity and access: oembed re-confirmed this session: "Collective
   Intelligence" on the MIT Comparative Media Studies/Writing channel
   (https://www.youtube.com/watch?v=JAPg8NgINUU), read 2026-10-25. The
-  watch page still could not be fetched from this environment
-  (JS/IP-blocked, 2026-10-25); no paywall or login is indicated by any
-  opened page, and playback was not confirmed here.
+  watch page was also loaded in a real cloud browser the same day: the
+  page loads with the title "Collective Intelligence - YouTube" and the
+  video player present (no paywall or login); the player did not report
+  a duration in two bounded attempts, so playback content was still not
+  read from this environment.
 - Content coverage: a third-party page mirroring the recording's
   description (https://videohighlight.com/v/JAPg8NgINUU, opened
   2026-10-25; the page states no summary is available and displays the
