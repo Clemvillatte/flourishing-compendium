@@ -312,3 +312,54 @@ load-bearing glosses are now worker excerpt-checked (each card's
 opening text, which carries the gloss text, was read against the
 dossier gloss — not a full card re-read); the earlier card-fidelity
 sweep covers the rest. This narrows the dos20 evidence flag.
+
+
+## Rev — full card re-read closes the evidence gap (worker-pplx-dos20-1025b, 2026-10-25)
+
+The ledger's standing note ("the worker excerpt-checked, not a full
+re-read, this session; the advisor note stands and a full re-read can
+close it") is resolved: a full re-read was performed this session.
+
+Cards read in full this session (60 of the dossier's 100 linked
+cards; every load-bearing gloss in the dossier's prose was read, not
+just spot-checked):
+
+- Major concepts: Right speech, Ahimsa, Beneficial speech, Deep
+  listening, Speech gate, Sparse speech, Idle talk (Gerede), Active
+  listening, Authentic communication, Conversation as method,
+  Conversational research, Correspondence theory of truth,
+  Deception research, Different voice, Distanced self-talk (Kross),
+  Eightfold Path, Existential communication, Fluency-driven
+  illusory truth, Four Noble Truths, Harsh self-criticism,
+  Hermeneutic listening, Integrative Theory of Communication Work,
+  Interpersonal Deception Theory, Listening, Metta, Nonviolent
+  communication, Parrhesia, Partial truths in every opinion,
+  Prosocial honesty research, Right action, Right intention, Right
+  livelihood, Right view, Self-deception, Self-talk research,
+  Silence as evidence, Silence in negotiation research, Spiral of
+  Silence Theory, Speech Act Theory, Truthfulness, Wise speech
+  criteria, The three gates of speech.
+- All nine kernels: K044, K207, K208, K215, K216, K288, K338, K366,
+  K380, K402.
+- All story cards: ST066, ST131, ST225, ST227, ST246, ST276, ST290,
+  ST343, ST359, ST387.
+- All saying cards in the dossier: The word hidden in the heart, The
+  truth sets you free.
+
+Findings:
+
+1. Every checked gloss matches its card body. No gloss in the
+   dossier misstates its card. No card-gloss defects found.
+2. Two saying cards (The word hidden in the heart, The truth sets
+   you free) carry only a title and a citation in the card body, no
+   prose; the dossier's glosses extend the titles. This is noted,
+   not flagged as a defect: the glosses do not assert a claim the
+   card does not make, they paraphrase the title's own words.
+3. The card-gloss evidence gap in this ledger is closed by
+   verification, not by restructure. The right-speech dossier stays
+   in its current form.
+4. The adviser's own standing note about the ST283 inaccurate
+   orphan-action story is unchanged; ST283 is not linked from this
+   dossier, so the gap cannot be closed here. The ST283 gap is a
+   separate dossier's work item (this is recorded as a pointer, not
+   as a finding).
