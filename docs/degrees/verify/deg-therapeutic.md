@@ -296,3 +296,25 @@ page; Teasdale: MRC CBU alumni page — all opened 2026-10-25). The open items
 on this degree are the SRC-M09-005 watch-page read (duration and content
 basis) and the SRC-M09-004 commercial-uploader access ruling, both flagged
 in the status section.
+
+## Block I batch — deg-verify-b hash half (verifier-pplx-1025g, 2026-10-25)
+
+### SRC-M09-003: The Origins and Diffusion of Motivational Interventions, with Bill Miller (Northwest ATTC)
+
+- Identity and access: oembed confirms the session on the Northwest ATTC
+  channel (https://www.youtube.com/watch?v=2Ld1WdPVU1Y); watch page opened
+  2026-10-25.
+- Duration: DUAL-FIGURE FLAG — the watch page prints 1:02:59 while the
+  player counter displays 1:30:33 (2026-10-25); the owner should re-read
+  the player before workload arithmetic.
+- Instructor credentials: William R. (Bill) Miller, Emeritus Distinguished
+  Professor of Psychology and Psychiatry, University of New Mexico (UNM
+  faculty page opened this session, see SRC-M09-002).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): the history of
+  Motivational Interviewing — its origins, the factors that prompted its
+  development, and its expansion into areas including co-occurring
+  disorders.
+- Relevant segment: whole session (duration to reconcile).
+- Verification status: verified-video (2026-10-25), with the dual-figure
+  duration flagged.

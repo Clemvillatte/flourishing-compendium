@@ -1101,3 +1101,60 @@ against the recording or transcript before the record is attached to a module.
 - Relevant segment: whole session, 1:04:55.
 - Verification status: verified-video (2026-10-25); multi-speaker event
   record, no single-instructor credential.
+
+### M06-CO01: A Psychological Perspective on Rationality — Kahneman (Yale, Okun Lecture 2013)
+
+- Identity and access: oembed confirms the lecture on the Yale University
+  channel (https://www.youtube.com/watch?v=MgQutgSwY88); watch page opened
+  2026-10-25. 2013 Arthur M. Okun Public Policy Lecture.
+- Duration: 1:30:14 (watch page, 2026-10-25).
+- Instructor credentials: Daniel Kahneman, Nobel laureate (Sveriges
+  Riksbank Prize 2002), Eugene Higgins Professor of Psychology and
+  Professor of Public Affairs, Princeton University (Nobel biographical
+  page opened this session, see M06-CO05).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): Kahneman's view
+  of rationality in everyday and economic decision-making in connection
+  with Thinking, Fast and Slow — System 1 (fast, heuristic, intuitive) and
+  System 2 (slower, effortful, deliberate).
+- Relevant segment: whole lecture, 1:30:14.
+- Verification status: verified-video (2026-10-25).
+
+### M06-CO03: 7. Behavioral Finance — The Role of Psychology (ECON 252, Yale)
+
+- Identity and access: oembed confirms the lecture on the YaleCourses
+  channel (https://www.youtube.com/watch?v=0ZLNbxWH8Lc); watch page opened
+  2026-10-25. Financial Markets (ECON 252) with Robert Shiller, Spring 2008.
+- Duration: 1:05:09 (watch page, 2026-10-25).
+- Instructor credentials: Robert Shiller, instructor of ECON 252 (per the
+  uploader description; an institutional page was not opened this
+  session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): behavioral
+  finance applying social-science insights to finance — overconfidence,
+  Expected Utility Theory, Kahneman and Tversky's Prospect Theory, regret
+  theory, and erratic stock price variations.
+- Relevant segment: whole lecture, 1:05:09.
+- Verification status: verified-video (2026-10-25); Shiller credentials
+  from the uploader description, institutional page pending.
+
+### SRC-M07-006: Prof Richard Ryan on Motivation and Wellness in School (Aalto, Faculty of Education)
+
+- Identity and access: oembed confirms the talk on the Faculty of
+  Education (Aalto University) channel
+  (https://www.youtube.com/watch?v=78bpAMXGxQQ); watch page opened
+  2026-10-25. Recorded 14 September 2023.
+- Duration: 1:14:08 (watch page, 2026-10-25; the catalog prints 1:14:07 — a
+  one-second discrepancy to reconcile).
+- Instructor credentials: Richard Ryan, professor of clinical and social
+  sciences in psychology, University of Rochester (selfdeterminationtheory
+  .org page opened this session, see SRC-M07-005).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): teaching and
+  parenting styles associated with student motivation and performance;
+  supporting autonomy, competence and relatedness to strengthen intrinsic
+  motivation and internalization of school values; barriers to teachers'
+  need support and the institutional support teachers need. Printed
+  chapters: welcome 0:00, Ryan presentation 6:17.
+- Relevant segment: presentation from 6:17 to end.
+- Verification status: verified-video (2026-10-25).
