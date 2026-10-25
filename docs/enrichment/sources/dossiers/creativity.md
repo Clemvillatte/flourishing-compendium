@@ -7,8 +7,10 @@ the reading list). Dossier:
 docs/enrichment/dossiers/creativity.md, CURRENT rev 3 (rev 1: 4dc84038d,
 first draft; rev 2: 536cfd694, advisor QC round 1 applied; rev 3: advisor
 QC rounds 2 and 3 applied).
-Checker at rev 3: exit 0 (31 card links resolve, 16 headers, 37 external
-carrier link occurrences).
+Checker at rev 3 final: exit 0 (30 card links resolve, 16 headers, 43
+external carrier link occurrences; the Novelty research card link was removed
+with the unsupported constraint connection, and the story carriers and inline
+citations were added).
 
 ## Verification method (per quote, no blanket claim)
 
