@@ -19,7 +19,7 @@ Usage:
 import sys, os, json, datetime, subprocess
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-BATDIR = 'docs/degrees/batons'
+BATDIR = os.environ.get('FC_BATON_DIR', 'docs/degrees/batons')
 STALE_MIN = 20  # a baton with no clock-in for this long is free for takeover
 
 

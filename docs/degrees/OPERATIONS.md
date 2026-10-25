@@ -13,8 +13,9 @@ rewrite others.
   then push the claim with `scripts/enrich_save.sh` and confirm it reached
   origin BEFORE editing anything.
 - Bands: `deg-philosophy`, `deg-contemplative`, `deg-relational`, `deg-mind`,
-  `deg-wellbeing`, `deg-therapeutic`, `deg-psychology-101`, `deg-qigong`,
-  `deg-cmp` (one accountable owner per degree), plus shared bands
+  `deg-wellbeing`, `deg-therapeutic`, `deg-psychology-101` (one
+  accountable owner per degree; the qigong and cmp practica have their own
+  ecosystem in docs/practicum/), plus shared bands
   `deg-arch` (curriculum architecture), `deg-verify-a` and `deg-verify-b`
   (resource verification, two parallel batons with non-overlapping
   manifests; they write only to `docs/degrees/verify/` evidence files,
@@ -86,3 +87,14 @@ one more advisor call.
   selection for mod-qg-3 (deg-verify), workload-rule research grounding
   (deg-arch), capstone research grounding (deg-arch), skill-format validator
   pass on the skill file (platform convention, not blocking in-repo use).
+- 2026-10-25 strategist-pplx-1025, OWNER DIRECTIVES APPLIED: (1) qigong and
+  cmp are NOT degrees; moved to docs/practicum/ (own README, bands
+  practicum-qigong and practicum-cmp, batons via FC_BATON_DIR, scope docs
+  moved and annotated). A schema migration (degree-versus-practicum kind
+  plus a PRACTICUM site section) is queued for the integrator band; data
+  ids unchanged until then. (2) deg-psychology-101 scope and
+  OWNER-DECISIONS item 1 updated: the module bridges to the owner-built
+  Psychology Lab (interactive gamified site teaching Weiten and Gurung,
+  Themes and Variations 12e; coverage map, 411 missions, spaced
+  repetition, per the fcAcademyData record checked this session); the
+  rebuild/bridge/retire choice stays with the owner.

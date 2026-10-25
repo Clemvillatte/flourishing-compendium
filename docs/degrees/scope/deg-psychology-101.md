@@ -22,7 +22,16 @@ No assumptions at all; this is the on-ramp.
 ## Bounded domain
 
 Covers:
-- Currently one module (a 200-hour textbook companion placeholder) and one media item. Proposed if rebuilt: the science of psychology (methods, measurement), the biological bases, learning, memory, development, social psychology, and individual differences, as the shared prerequisite layer for deg-mind, deg-wellbeing and deg-therapeutic.
+- Currently one module whose single media item links the owner-built
+  Psychology Lab: a self-contained interactive website teaching
+  Psychology: Themes and Variations, 12e (Weiten and Gurung, 2027) through
+  a gamified journey (coverage map, 411 missions, spaced-repetition
+  review), per the module's fcAcademyData record checked 2026-10-25. The
+  site itself carries the teaching; the Academy entry is a bridge. Options
+  for the owner: keep it as a bridge entry (light rework: verify the link,
+  describe the journey accurately, align outcomes to the site's coverage
+  map), or grow a full Academy degree around it as the shared prerequisite
+  layer for deg-mind, deg-wellbeing and deg-therapeutic.
 
 Excludes (with reasons):
 - Everything owned by the three consuming degrees at intermediate and advanced depth (their material begins where this one ends).

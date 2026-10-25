@@ -82,6 +82,13 @@ No degree's author may clear their own coverage or pedagogical gates.
   (window.fcAcademyData). Only the integrator band edits it, using the
   safe-splice recipe. Degree Workers deliver module designs as markdown in
   this directory and integration-ready patches; they never edit app.js.
+- PRACTICUM SPLIT (owner directive, 2026-10-25): the Qi Gong and
+  Contemplative & Mental Practices programs are NOT degrees; they live in
+  docs/practicum/ with their own bands, batons and scope docs. The degrees
+  ecosystem covers the seven remaining degrees (philosophy, contemplative,
+  relational, mind, wellbeing, therapeutic, psychology-101). A schema
+  migration to a degree-versus-practicum kind and a separate PRACTICUM
+  site section is queued for the integrator band.
 - The enrichment batons and queues do not exist here. This ecosystem uses
   `scripts/degree_baton.py` and the bands in `bands/`.
 
@@ -106,7 +113,8 @@ No degree's author may clear their own coverage or pedagogical gates.
 
 ## Status of this rework (2026-10-25)
 
-Phase 0 in progress: scope docs drafted as proposals for all nine degrees,
+Phase 0 in progress: scope docs drafted as proposals for the seven degrees
+(two practica moved to docs/practicum/ by owner directive),
 the curriculum-design skill authored with research grounding (see
 ledgers/design-research.md) and marked as a candidate standard, taxonomy
 designed, pilots drafted and marked DRAFT NOT CLEARED after advisor QC

@@ -146,7 +146,8 @@ the degree ledger with a verification date:
 
 One module recipe does not fit all degrees. Preserve the difference:
 
-- Practice degrees (qigong, cmp): modules are training plans. Outcomes are
+- Practica (qigong, cmp: guided years of practice, not degrees): modules
+  are training plans. Outcomes are
   capabilities of the body and attention; instruction includes guided
   sessions with printed durations; practice is scheduled repetition; the
   capstone is a self-designed sustained practice with records. Media scarcity
@@ -157,6 +158,8 @@ One module recipe does not fit all degrees. Preserve the difference:
   instruction includes primary texts and lectures; practice is writing and
   comparison; the capstone is a defended written synthesis.
 - Mixed degrees map each module to whichever side its outcomes belong to.
+- Practica live in their own ecosystem (docs/practicum/) with this same
+  standard; the practice rules above are the default there.
 
 ## 7. Acceptance tests (a module passes only when all hold)
 

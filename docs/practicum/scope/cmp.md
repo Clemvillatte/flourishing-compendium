@@ -1,5 +1,8 @@
 # Scope: deg-cmp — Contemplative & Mental Practices — A Year of Practice
 
+PRACTICUM PROGRAM (owner directive, 2026-10-25: this is not a degree; it
+is a guided year of practice). See docs/practicum/README.md.
+
 Status: PROPOSAL by the strategist (2026-10-25), derived largely from the
 existing module titles and the owner's mission; the degree owner must
 benchmark it against opened authoritative curricula and frameworks before

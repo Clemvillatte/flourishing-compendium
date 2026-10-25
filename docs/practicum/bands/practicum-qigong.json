@@ -1,0 +1,9 @@
+{
+ "band": "practicum-qigong",
+ "kind": "degree",
+ "holder": null,
+ "phase": "awaiting-launch",
+ "modules": {},
+ "notes": "Practicum program (not a degree). Scope doc in docs/practicum/scope/. Data ids remain deg-qigong/deg-cmp until the integrator migrates the schema.",
+ "updated": "2026-10-25T07:15:30+00:00"
+}
