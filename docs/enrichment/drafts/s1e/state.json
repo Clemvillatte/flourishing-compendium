@@ -102,7 +102,7 @@
    ]
   },
   "s1e-005": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "D041 qingjing: George Fox - the ocean of light already flowing over the darkness; standing still in the Light; the gathered people who worshipped in silence",
    "history": [
     {
@@ -118,6 +118,11 @@
      "t": "2026-10-21T12:47:07+00:00",
      "to": "qc_pending",
      "note": "quotes verified from opened CCEL Journal pages"
+    },
+    {
+     "t": "2026-10-25T13:24:26+00:00",
+     "to": "ready",
+     "note": "verification pass: both CCEL pages re-opened; all quotes confirmed exact; story_check ok"
     }
    ]
   },
@@ -182,5 +187,5 @@
    ]
   }
  },
- "updated": "2026-10-25T13:24:01+00:00"
+ "updated": "2026-10-25T13:24:26+00:00"
 }
