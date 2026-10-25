@@ -3397,3 +3397,17 @@ https://www.perplexity.ai/computer/tasks/a95b0b9f-084b-421e-b5ec-d8361055666c
 (owner provided the 6-digit code; onboarding declined; Cloudflare interstitial
 on /computer cleared by a single re-navigate). The assistant-supervisor baton
 was RELEASED at launch time, so the new agent finds it free.
+## AGENT LAUNCH 12 (2026-10-25 ~12:06Z, launcher worker-pplx-ef25-launcher, no baton held)
+
+Path A launch 12, designated 2nd ASSISTANT SUPERVISOR (owner directive):
+account farahrobeson788+tik8s@outlook.com (signed in as farahrobes28801,
+Free plan). Worker prompt (current PROMPT-WORKER.md with the session
+token filled, plus an appended assistant-supervisor priority directive —
+claim the assistant-supervisor baton and process the publication queue
+per OPERATIONS.md's "Assistant supervisor" section) pasted in one call
+and verified head/tail/interior before submit. Two Cloudflare
+challenges (arrival, post-code) each resolved by one re-navigate. Agent
+running at
+https://www.perplexity.ai/computer/tasks/10bacb5f-4929-4f74-89f5-1f6922f77bbc
+(launched 2026-10-25 ~12:06Z). Expect it to clock in the
+assistant-supervisor baton next.
