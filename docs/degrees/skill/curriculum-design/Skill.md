@@ -104,7 +104,11 @@ Every module is built backwards from what the learner must be able to do:
    material is introduced in small units with practice between units, not in
    one long block.
 4. Capstones: each degree ends with an L4 integrative capstone with a public
-   rubric and a self-assessment step.
+   rubric and a self-assessment step. Grounding: capstones are a recognised
+   high-impact practice in which the learner creates a project integrating
+   and applying what they learned, with self-assessment of perspective and
+   values; the supporting literature and its mixed evidence are recorded in
+   ledgers/design-research.md.
 5. Rubrics: criteria written in plain language, with an exemplar of strong
    work and one rejection example per criterion, so a learner can self-check.
 
@@ -139,6 +143,15 @@ the degree ledger with a verification date:
 - Estimated time: reading (words divided by a stated reading rate), practice
   (the activity's own stated repetitions and durations), assessment (rubric
   work estimated per deliverable). Estimates are labelled as estimates.
+- Reading rates are grounded, not guessed (sources in
+  ledgers/design-research.md): default 238 words per minute for adult
+  non-fiction (Brysbaert 2019), adjusted down by purpose: about 180 wpm
+  when the text has some new concepts, about 130 wpm with many new
+  concepts, and lower again for memorisation. State the rate you used.
+- Study overhead is added explicitly and labelled: real study time can run
+  three to four times the raw reading time (annotation, re-reading,
+  self-assessment), so a bare words-per-minute figure underestimates the
+  learner's actual workload.
 - The degree page shows a total built from these components. A claimed total
   that no arithmetic supports is a defect. Do not inherit "a year of
   practice" without calculating it.

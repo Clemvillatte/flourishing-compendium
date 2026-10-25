@@ -87,9 +87,50 @@ revision here with its support or its open status.
   a house design, not an adoption; its observable criteria are written
   per module and remain open to challenge at the pedagogical gate.
 
-## Open items (not yet grounded in opened sources)
+## Workload calculation (reading rates and study overhead)
 
-- The workload arithmetic rules (reading rate, practice-time summation):
-  house conventions, not yet tied to opened research. Flagged for deg-arch.
-- The capstone design rules: grounded in constructive alignment generally,
-  no capstone-specific research opened yet. Flagged for deg-arch.
+- [Brysbaert 2019, How many words do we read per minute? (OpenAlex record of the JML meta-analysis)](https://openalex.org/works/W2966983573):
+  190 studies, 18,573 participants; average silent reading for adults is
+  238 words per minute for non-fiction and 260 for fiction; oral reading
+  183 wpm. This is the skill's default reading rate for non-fiction.
+- [Wake Forest Center for the Advancement of Teaching, workload estimation](https://cat.wfu.edu/resources/workload/estimationdetails/):
+  reading rate depends on purpose: understanding text with no new concepts
+  about 250 wpm; some new concepts about 180 wpm; many new concepts about
+  130 wpm; memorising for recall 138 wpm or lower; skimming 450 to 600
+  wpm. Grounds the skill's rule that reading estimates must state the
+  rate used and adjust it for conceptual difficulty.
+- [Influence of Reading Material Characteristics on Study Time (PMC5607713)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5607713/):
+  in a flipped-classroom study, predicted reading time (at 200 wpm) to
+  self-reported study time ran about 1:3 to 1:4. Grounds the skill's rule
+  that study overhead (annotation, re-reading, self-assessment) is added
+  explicitly and labelled, never folded silently into a reading estimate.
+
+## Capstone design
+
+- [AAC&U capstone definition via SLU's HIP guide](https://www.slu.edu/cttl/resources/resource-guides/hip-capstone.pdf)
+  and [KU Core on capstone experiences](https://kucore.ku.edu/capstone-experiences):
+  capstones are high-impact practices; culminating experiences that
+  require students to create a project that integrates and applies what
+  they have learned; students synthesise a wide range of skills and
+  knowledge; ideally transformative, prompting self-assessment of
+  perspective, attitudes and values (Still et al. 2009, cited there).
+- [Kinzie, Taking Stock of Capstones and Integrative Learning](http://bonner.pbworks.com/w/file/fetch/110067769/Kinzie-%20Taking%20Stock%20of%20Integrative%20Capstones.pdf):
+  seniors reporting a culminating experience show greater gains in
+  reflective and integrative learning (Kuh 2008; NSSE 2007).
+- [Capstone assessment purposes (UCL Discovery PDF)](https://discovery.ucl.ac.uk/id/eprint/10191624/1/1214.pdf):
+  capstone assessment is linked to integration and synthesis of knowledge
+  and skills, transition, reflective practice and closure.
+- HONEST MIXED EVIDENCE: the [Center for Engaged Learning bibliography](https://www.centerforengagedlearning.org/bibliography/category/capstone-experiences/)
+  records at least one study finding capstones had more mixed effects than
+  other practices (a negative link to one critical-thinking measure,
+  positive net association with four-year gains in need for cognition).
+  The skill's capstone rule (integrative project plus self-assessment,
+  aligned to outcomes) is grounded in the supportive literature with this
+  mixed evidence recorded.
+
+## Remaining open items
+
+- Practice-time summation (how to sum a training arc's repetitions): house
+  convention, still not tied to opened research. Flagged for deg-arch.
+- The L1 to L4 house taxonomy: informed by SOLO but a house design; open
+  to challenge at the pedagogical gate (unchanged).

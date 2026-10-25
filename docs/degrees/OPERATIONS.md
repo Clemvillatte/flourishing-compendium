@@ -108,3 +108,11 @@ one more advisor call.
   link plus schema migration queued for the integrator band; safety
   language RESOLVED (trust the speakers; no added caveats); paywalls
   RESOLVED (no paywalled content, skill updated).
+- 2026-10-25 strategist-pplx-1025 (deg-arch work, session 2): the two QC-1
+  open research items grounded and closed in ledgers/design-research.md —
+  workload reading rates (Brysbaert 2019 default 238 wpm non-fiction,
+  purpose-adjusted 180/130 wpm, explicit study overhead from the 1:3 to
+  1:4 reading-to-study finding) and capstone design (high-impact-practice
+  evidence with the mixed-effects record kept). Skill sections 3 and 5
+  updated accordingly. Remaining open: practice-time summation (house
+  convention), L1-L4 as house taxonomy open to gate challenge.
