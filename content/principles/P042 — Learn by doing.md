@@ -12,15 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 42** — Learn by doing
 
-Dewey's argument in Democracy and Education begins with a child and a flame. A child reaches for a bright light and gets burned; henceforth that child knows a certain act of touching, in connection with a certain act of vision, means heat and pain ([Dewey 1916, Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt)). The burn is not a punishment — it is the lesson. It makes perceptible a connection that was previously invisible.
+In chapter 6 of *Democracy and Education*, Dewey uses a small example to say what learning from experience involves. He writes of "a child who reaches for a bright light gets burned. Henceforth he knows that a certain act of touching in connection with a certain act of vision (and vice-versa) means heat and pain; or, a certain light means a source of heat." He then sets the scientist beside the child: "The acts by which a scientific man in his laboratory learns more about flame differ no whit in principle" ([Dewey, *Democracy and Education*, 1916, ch. 6, Project Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt)).
 
-The surprising move is what Dewey does with this. He refuses to separate the child from the scientist: "the acts by which a scientific man in his laboratory learns more about flame differ no whit in principle" ([Dewey 1916, Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt)). Both are doing things and discovering what those things connect to. The scientist's equipment is better, but the mechanism is the same. Knowledge does not arrive through a lecture; it grows through transactions where you act, suffer or enjoy consequences, and register what just connected to what.
+Dewey says what both are doing: "By doing certain things, he makes perceptible certain connections of heat with other things, which had been previously ignored" (same chapter). On his account, the doing makes visible connections that were there all along.
 
-> "One may learn by doing something which he does not understand... But we learn only because after the act is performed we note results which we had not noted before." (John Dewey, Democracy and Education, 1916, [Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt))
+He is also careful about what makes an act educative, because doing alone is not enough.
 
-**Plain words** Reading a book about swimming gives you a set of sentences. Getting in the water and going under once gives you a relationship to breath you did not have before, and you cannot get it back out. The difference is not effort — it is that the second one happened to you. Knowledge that is poured in stays a description; knowledge that cost you something becomes part of how you see the next situation. Choose the version that can hurt.
+> "One may learn by doing something which he does not understand; even in the most intelligent action, we do much which we do not mean, because the largest portion of the connections of the act we consciously intend are not perceived or anticipated. But we learn only because after the act is performed we note results which we had not noted before." (John Dewey, *Democracy and Education*, 1916, ch. 6, [Project Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt))
 
-*For example:* Two people want to learn negotiation. One reads three books and watches a course. The other buys one bad used car, overpays, and notices exactly what happened in the moment they folded. A year later the second person is still the better negotiator — the books are still describing something the first person has not yet had happen to them.
+The last sentence is the condition: the learning comes from noticing results after the act.
+
+**Plain words** Doing something gives you results that no description would. It teaches you only if you look at what came of it afterwards. Dewey's own contrast is with school work where pupils "are not led to see the connection between the result" and the method they used (same chapter).
+
+*For example (my illustration, not Dewey's):* Someone who has only read about negotiating and someone who has negotiated a purchase and then asked what made the other side move. The second has results to look at, and the first has none.
+
+## Sources
+
+- [John Dewey, *Democracy and Education* (1916), ch. 6 "Education as Conservative and Progressive", Project Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt): all quotations above.
 
 ## Stories
 - [[ST383 — Half an Hour with Cotton Seeds|383. Half an Hour with Cotton Seeds]]

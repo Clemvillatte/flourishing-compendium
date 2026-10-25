@@ -69,3 +69,6 @@
 
 ## P070 Make your nervous system your ally
 - Carrier opened: James Principles ch. IV 'Habit' (psychclassics). Gratuitous-exercise maxim, effort/habit sentences, and James's own insurance passage verified verbatim. Old page linked Gutenberg 55262 (Briefer Course) under a Principles ch. IV label and invented a two-colleagues example; replaced with labelled illustration.
+
+## P042 Learn by doing
+- Carrier opened: Dewey Democracy and Education (Gutenberg 852). Flame/child passage is in ch. 6 (Education as Conservative and Progressive); all quotes verified. Removed gloss 'burn is not a punishment, it is the lesson', swimming and used-car analogies presented as fact; kept a labelled illustration.
