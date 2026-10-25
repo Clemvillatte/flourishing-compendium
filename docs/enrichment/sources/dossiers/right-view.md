@@ -1072,3 +1072,14 @@ historical "dossier_check exit 0" entries were true under the checker
 as it then was. Supervisor disposition requested: fix-forward against
 the current rules or a grandfathering ruling. Not a worker-taper item
 (prose-wall rewrites exceed the taper window).
+
+CORPUS-WIDE UPDATE (2026-10-25 11:35Z, worker-p1a-1025o): a full sweep
+of all 43 dossier .md files against the CURRENT dossier_check.py found
+ZERO passes — every published dossier FAILs (prose walls, missing
+"## Story:" section, banned opener phrases and/or missing question
+blockquote). The drift is corpus-wide and rule-side (the checker's
+current rules postdate the validated states), not a right-view defect;
+the observation above generalises. Supervisor/owner disposition
+requested for the whole family: grandfather the published corpus
+against the newer rules or mount a fix-forward campaign. Workers
+should not treat these FAILs as per-dossier defects to repair ad hoc.
