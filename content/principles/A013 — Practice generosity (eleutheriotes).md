@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 13** — Practice generosity (eleutheriotes)
 
-[[T002 — Aristotle|Aristotle]] discusses liberality as a mean concerning wealth, with particular emphasis on giving. ([Nicomachean Ethics IV.1, trans. H. Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=4)) I present it as the virtue of giving well rather than the practice of giving much.
+[[T002 — Aristotle|Aristotle]] discusses liberality as a mean concerning wealth, with particular emphasis on giving. ([Nicomachean Ethics IV.1, trans. H. Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=4)) This page presents it as the virtue of giving well rather than the practice of giving much.
 
 (Nicomachean Ethics IV.1.)
 
@@ -25,7 +25,7 @@ Right giving is specified: the liberal man "will give to the right people, and t
 The measure is the giver's means, not the gift's size: "the liberal man is one who spends in proportion to his means as well as on the right objects; while he that exceeds his means is prodigal," and "to waste one's substance seems to be in a way to ruin oneself, inasmuch as wealth is the means of life." ([NE IV.1, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=4))
 
 **Plain words**
-Giving well means the right amount to the right people at the right time, for the right reasons. ([NE IV.1, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=4)) Aristotle measures generosity against your means: spending in proportion is the virtue, exceeding it is prodigality, and wasting your substance is a kind of self-ruin. ([NE IV.1, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=4))
+Liberality, in this chapter, is a mean about wealth, and the interesting half is the giving. ([NE IV.1, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=4)) What makes a giver good is fit — the amount, the recipient, the timing, the motive — and the yardstick is the giver's own means, so the same gift can be generous from one person and ruinous from another. ([NE IV.1, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=4))
 
 *For example:* compare a regular donation with a gift that would leave rent unpaid. Consider the recipient, amount, timing, motive and your available resources.
 

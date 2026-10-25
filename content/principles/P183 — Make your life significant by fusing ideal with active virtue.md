@@ -19,7 +19,7 @@ The ideals taken by themselves give no reality, the virtues by themselves no nov
 
 He closes the essay with the same marriage: "The solid meaning of life is always the same eternal thing,—the marriage, namely, of some unhabitual ideal, however special, with some fidelity, courage, and endurance; with some man's or woman's pains.—And, whatever or wherever life may be, there will always be the chance for that marriage to take place." Either parent alone is barren; the fusion is the significance, in the qualified sense of his first sentence: significance for communicable and publicly recognizable purposes. (James, "What Makes a Life Significant," 1899.)
 
-**Plain words** The sentence is qualified: significance for communicable and publicly recognizable purposes, not a verdict on anyone's private worth. An everyday application: name one aspiration, then name the particular commitments it asks for, and let the two be joined in a plan. The ideals alone give no reality; the virtues alone no novelty.
+**Plain words** James's formula is about a specific kind of significance: what a life amounts to for purposes others can recognize. An ideal with no faithful work behind it stays a wish; faithful work with no ideal behind it is just habit. The everyday form: name the aspiration, name the unglamorous commitments it asks for, and treat the pair, not the aspiration alone, as the plan.
 
 *For example:* Take an aspiration, say a neighborhood composting scheme, and join it to the unglamorous commitments it asks for, say two years of labor. The marriage, not the aspiration alone, is what the formula marks as significant.
 
