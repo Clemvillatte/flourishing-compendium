@@ -406,6 +406,11 @@
      "t": "2026-10-22T15:31:33+00:00",
      "to": "ready",
      "note": "Independent advisor review complete; requested corrections applied; direct book locators verified"
+    },
+    {
+     "t": "2026-10-25T15:15:41+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:15:41: sample verified - quote VERBATIM (see QC notes)"
     }
    ]
   },
@@ -451,6 +456,11 @@
      "t": "2026-10-22T15:31:49+00:00",
      "to": "ready",
      "note": "Independent advisor review complete; requested corrections applied; direct book locators verified"
+    },
+    {
+     "t": "2026-10-25T15:15:41+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:15:41: sample verified - quote VERBATIM (see QC notes)"
     }
    ]
   },
@@ -960,5 +970,5 @@
    ]
   }
  },
- "updated": "2026-10-25T15:13:35+00:00"
+ "updated": "2026-10-25T15:15:41+00:00"
 }
