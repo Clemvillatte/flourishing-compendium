@@ -555,8 +555,27 @@ attach them with evidence on file.
 - Language: English.
 - Content coverage: the uploader's description states the talk introduces Daoism as
   an indigenous and global religion.
+  Coverage-confirmation (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=_12aeIvlHhM&current_language_code=en,
+  opened 2026-10-25; noted by the extraction to contain transcription errors,
+  including the speaker's name rendered "louis kamiati") confirms the talk's
+  substance on the recording: an aim to develop "an informed and nuanced
+  understanding of taoism as an indigenous chinese and now global religion";
+  daotong (道統) as "the tradition of the Dao"; Chinese Daoism as the source
+  tradition and global Daoism's diverse adherents; religious communities from
+  around 300 BCE and organized Daoism from around 142 CE; the Daodejing
+  (chapter 1, "The tao that can be spoken is not the constant dao") and
+  Zhuangzi as multi-vocal texts; a framework of seven historical periods and
+  four divisions; movements including the Celestial Masters, Great Clarity,
+  Highest Clarity, Numinous Treasure and Complete Perfection; ordination and
+  lineage as affiliation rather than prerequisites; and practice models of
+  meditation, quietism, alchemy, ritual and ethical cultivation. Caveats:
+  third-party transcript page, no timestamps in the retrieved text; playback
+  itself not opened.
 - Relevant segment: whole talk, 1:13:54.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (2026-10-25); coverage confirmed against
+  a third-party transcript page (no timestamps); identity, access and duration
+  verified earlier.
 
 ### M01-D06: What is Daoist Philosophy? (Hans-Georg Moeller, Carefree Wandering)
 
