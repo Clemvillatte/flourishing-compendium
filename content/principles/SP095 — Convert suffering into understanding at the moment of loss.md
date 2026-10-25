@@ -23,7 +23,7 @@ Modern research is less clear on "one reliable way". Park's review of the meanin
 Calhoun and Tedeschi 2004 is listed as further reading, not summarized here. Spinoza never mentions bereavement in the cited passages; the question about what loss lets you see is this page's practice, not his.
 
 **Plain words**
-An emotion you see clearly stops pushing you around, and seeing that things follow by necessity frees you somewhat from its grip. The evidence for turning loss into meaning is mixed, so keep the claim small.
+An emotion seen clearly stops pushing you around, and seeing that things follow by necessity frees you from its grip. The evidence for turning loss into meaning is mixed; keep the claim small.
 
 **For example**
 After a loss, write down one thing you now understand that you did not before. Come back to the page a month later and see whether it still seems true.
