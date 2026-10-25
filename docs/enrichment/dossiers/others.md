@@ -124,17 +124,11 @@ The Gospel commands the other response:
 
 Confucius prescribes justice toward injury and kindness toward kindness, and his question, with what then will you recompense kindness, treats that distinction as the thing to preserve. Matthew commands doing good even toward those who hate and persecute. The two passages leave open whether they give incompatible answers to one question, what is owed, or answers to two different questions, what is owed and what may be given.
 
-[Father, forgive them](https://clemvillatte.github.io/flourishing-compendium/#card=Father%2C%20forgive%20them): Gospel of Luke 23.34.
+The Gospel of Luke 23.34 saying is [Father, forgive them](https://clemvillatte.github.io/flourishing-compendium/#card=Father%2C%20forgive%20them). Miller's account of extending care beyond proximity is [cosmopolitan care](https://clemvillatte.github.io/flourishing-compendium/#card=Cosmopolitan%20care).
 
-[Cosmopolitan care](https://clemvillatte.github.io/flourishing-compendium/#card=Cosmopolitan%20care): Miller's account of extending care beyond proximity.
+De Beauvoir's conclusion that willing your own freedom commits you to the freedom of other people is [the liberation of others](https://clemvillatte.github.io/flourishing-compendium/#card=The%20liberation%20of%20others), and the same ethics argued across The Ethics of Ambiguity, that a person's freedom cannot be fulfilled alone, is [the interdependence of freedoms](https://clemvillatte.github.io/flourishing-compendium/#card=The%20interdependence%20of%20freedoms).
 
-[The liberation of others](https://clemvillatte.github.io/flourishing-compendium/#card=The%20liberation%20of%20others): de Beauvoir's conclusion that willing your own freedom commits you to the freedom of other people.
-
-[The interdependence of freedoms](https://clemvillatte.github.io/flourishing-compendium/#card=The%20interdependence%20of%20freedoms): the same ethics argued across The Ethics of Ambiguity: a person's freedom cannot be fulfilled alone.
-
-[The golden rule](https://clemvillatte.github.io/flourishing-compendium/#card=The%20golden%20rule): the family of sayings that tell people to treat others as they would wish to be treated.
-
-[Wish good for your friend for their own sake](https://clemvillatte.github.io/flourishing-compendium/#card=Wish%20good%20for%20your%20friend%20for%20their%20own%20sake): Aristotle, Nicomachean Ethics VIII.2.
+The family of sayings that tell people to treat others as they would wish to be treated is [the golden rule](https://clemvillatte.github.io/flourishing-compendium/#card=The%20golden%20rule), and Aristotle's instruction in Nicomachean Ethics VIII.2 is to [wish good for your friend for their own sake](https://clemvillatte.github.io/flourishing-compendium/#card=Wish%20good%20for%20your%20friend%20for%20their%20own%20sake).
 
 ### Helping: altruism and its debates
 
