@@ -15,7 +15,7 @@ Brian Little's unit of analysis for personality is the extended pursuit. His 200
 
 ### What counts as a project
 
-The unit is deliberately broad. Little defines personal projects as "extended sets of personally relevant action that range from daily chores (e.g., 'Order more USB keys, again') to defining life commitments (e.g., 'Be sensitive to my partner's needs, always')" ([Little, Personal Projects and Free Traits](https://www.brianrlittle.com/articles/%EF%BF%BCpersonal-projects-and-free-traits/)). The same article names the load-bearing cases: "These foundational, self-defining projects we call core projects." A grocery run and a lifelong devotion are the same kind of thing on this account, one carried lightly and one not.
+The unit is deliberately broad. Little defines personal projects as "extended sets of personally relevant action that range from daily chores (e.g., 'Order more USB keys, again') to defining life commitments (e.g., 'Be sensitive to my partner's needs, always')", which "may be self-focused or dedicated to others, submitted to begrudgingly or pursued with zealous intensity" ([Little 2008, as quoted in ArtsManaged Field Notes](https://notes.artsmanaged.org/p/personal-projects)). The same article names the load-bearing cases: "These foundational, self-defining projects we call core projects." A grocery run and a lifelong devotion are the same kind of thing on this account, one carried lightly and one not.
 
 The abstract carries a cost note: acting out of character "may also compromise well-being because of challenges to the autonomic nervous system," and "the costs of free-traited behavior can be mitigated by the provision and use of restorative resources." Restorative resources are the counterweight to the performance: whatever returns the actor to the dispositions they started from.
 
@@ -33,7 +33,7 @@ The abstract carries a cost note: acting out of character "may also compromise w
 
 - Little, 2008
 - [Brian R. Little, "Personal Projects and Free Traits: Personality and Motivation Reconsidered," Social and Personality Psychology Compass 2 (2008), abstract, Wiley](https://onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2008.00106.x) — the carrier of the quotation above.
-- [Brian R. Little, "Personal Projects and Free Traits" (author's site)](https://www.brianrlittle.com/articles/%EF%BF%BCpersonal-projects-and-free-traits/) — the definition and the core-projects line quoted above.
+- [Little's 2008 definition of personal projects, as quoted in ArtsManaged Field Notes](https://notes.artsmanaged.org/p/personal-projects) — the carrier of the daily-chores and core-projects lines quoted above. The author's site copy of the article (brianrlittle.com) is no longer online.
 
 ## Cited in psychology parallels
 
