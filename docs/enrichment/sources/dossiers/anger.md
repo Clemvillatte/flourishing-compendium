@@ -351,3 +351,22 @@ subsection are span-extraction artifacts (inline quotes with two carrier
 links); every fragment matches its carrier raw text. Checker exit 0 (56
 links, 22 headers, 7 carriers); density 0. Registry rebuild --rebuild=anger
 follows this note.
+
+## Nearby terms section added (2026-10-25, worker-pplx-dos20-1025z)
+
+The anger dossier was missing the DOSSIER-MODEL Nearby terms section
+(QC entry 18, 2026-10-24, listed anger among the dossiers needing it).
+A five-bullet Nearby terms section was added between the
+introductory paragraph and "## The map: the entries on anger", each
+bullet grounded in a concept card that resolves in the content
+directory: Forgiveness, Compassion, Self-compassion, Gratitude, and
+Anxiety about the future. No body text, existing card link or
+carrier was changed (61 card links resolve, 7 external carriers, 0
+dense paragraphs). PRE-EXISTING, NOT CAUSED BY THIS EDIT, flagged for
+the supervisor: dossier_quote_verify.py reports 3 of 12 quotes not
+found, all Aristotle Nicomachean Ethics III.8 spans against the MIT
+Classics and Gutenberg carriers; these were not found before the
+edit either (verified against the pre-edit file) and are a separate
+carrier-verification item. Also flagged: anger is published, so the
+Academy site data (site/assets/app.js) needs a rebuild to pick up
+the new section; that splice is supervisor-only and was not touched.

@@ -4,6 +4,16 @@
 
 Anger arrives with its defence already written: someone did wrong, and the wrong demands an answer. Whether the answer anger supplies is ever the one the moment needs is the question the traditions keep returning to, and they answer it differently: some condemn the passion outright, some give it a mean and a place, and the research asks what it actually does for and to the person who holds it. The practices that loosen its grip share one commitment: they take the provocation seriously without letting it write the response.
 
+### Nearby terms
+
+- [Forgiveness](https://clemvillatte.github.io/flourishing-compendium/#card=Forgiveness) — the counter-practice the anger dossier keeps returning to; anger asks what to do with the wrong, forgiveness asks whether to keep carrying it.
+- [Compassion](https://clemvillatte.github.io/flourishing-compendium/#card=Compassion) — the neighbouring warmth; anger turns on the wrong, this one turns on the one who is suffering, including the one who is angry.
+- [Self-compassion](https://clemvillatte.github.io/flourishing-compendium/#card=Self-compassion) — the neighbouring practice; anger turns on the other, this one turns on the self.
+- [Gratitude](https://clemvillatte.github.io/flourishing-compendium/#card=Gratitude) — the counter-practice to resentment; where anger keeps the injury in view, gratitude keeps the good in view.
+- [Anxiety about the future](https://clemvillatte.github.io/flourishing-compendium/#card=Anxiety%20about%20the%20future) — the neighbouring agitation; anger has a culprit and a wrong, anxiety has a threat without one.
+
+These are the nearest entries, not the scope.
+
 ## The map: the entries on anger
 
 ### What anger is taken to be
