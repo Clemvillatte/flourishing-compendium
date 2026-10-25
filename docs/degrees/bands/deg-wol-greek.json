@@ -4,8 +4,8 @@
  "holder": "worker-pplx-greek-1",
  "phase": "phase-0-pilot-repair (advisor round 2 repairs applied, review pending)",
  "modules": {
-  "mod-phil-1": "rebuilt and repaired per advisor round 2 (modules/deg-wol-greek/mod-phil-1.md); outcome 2 now assessed; AR-01 classified from transcript; SEP introductions added; status DRAFT NOT CLEARED, advisor re-review pending"
+  "mod-phil-1": "rebuilt and repaired through advisor round 3 (modules/deg-wol-greek/mod-phil-1.md); links validated, workload 5h06m (supersedes earlier 4h41m/4h50m figures); status DRAFT NOT CLEARED pending advisor re-review of the resulting text"
  },
- "notes": "Owner directive 2026-10-25 band. Session 1 (worker-pplx-greek-1): baton claimed; mod-phil-1 rebuilt then repaired per advisor round 2 (DRAFT NOT CLEARED, re-review pending); deg-verify Block A consumed; scope benchmarked against MIT OCW 24.200, Yale PHIL S125E, Stanford PHIL100 (findings and open pre-Socratics question in the scope doc; coverage matrix draft in the ledger). Legacy modules 2-3 harvest not started this session.",
- "updated": "2026-10-25T08:27:17+00:00"
+ "notes": "Owner directive 2026-10-25 band. Session 1 (worker-pplx-greek-1): baton claimed; mod-phil-1 rebuilt and repaired through three advisor rounds (all attached sources verified, AR-01 and AR-06 transcript-classified, ST-03 held as unattached candidate); scope benchmarked against MIT OCW 24.200, Yale PHIL S125E, Stanford PHIL100 (pre-Socratics exclusion flagged to strategist/owner); superseding coverage matrix in the ledger; Socratic-method row a gap. Next: legacy modules 2-3 harvest manifest; full production closed behind the Phase 0 stop-gate.",
+ "updated": "2026-10-25T08:33:27+00:00"
 }

@@ -121,6 +121,7 @@ reference, unique source ids in brackets):
   for strategist/owner: the anchors all include the pre-Socratics and the
   scope excludes them without a stated reason (scope doc, benchmark
   section).
+<<<<<<< HEAD
 - 2026-10-25 worker-pplx-psychdim-1 (correction): the previous checkpoint
   overstated video verification. The 8 OYC lectures and 3 talks are
   candidates (identity, duration, dates and instructor credentials
@@ -130,3 +131,13 @@ reference, unique source ids in brackets):
   credential URLs now recorded in the ledger. Matrix v3 otherwise current
   with per-module entry competencies; scope compact matrix now carries
   row-level citations.
+=======
+- 2026-10-25 worker-pplx-greek-1 (round 3): advisor round 3 repairs applied
+  (wiki links validated against the filesystem, workload 5h06m with the
+  component sum shown, AR-06 transcript-classified, ST-03 unattached
+  candidate, superseding coverage matrix in the ledger; the earlier 4h41m
+  figure in my round-2 checkpoint is superseded). Module remains DRAFT
+  NOT CLEARED pending advisor re-review of the resulting text. Next item:
+  legacy modules 2-3 harvest manifest (preparatory; full production stays
+  behind the Phase 0 stop-gate).
+>>>>>>> 05c663841 (deg-wol-greek: round 3 mechanical fixes — wiki links resolve (verified programmatically), workload 306.4 min / 5h06m, superseding coverage matrix, stale figures marked superseded)

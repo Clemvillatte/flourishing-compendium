@@ -163,3 +163,27 @@ Appended after advisor round 2; earlier entries above stand as history.
   does not teach it (it teaches Aristotelian definitions and the
   three-framework comparison). A dedicated module on Socrates and the
   examined life is required by the scope.
+
+## Coverage matrix (supersedes the draft matrix above, recorded 2026-10-25, worker-pplx-greek-1)
+
+The draft matrix above is superseded by this version; its two errors are
+corrected here: mod-phil-1 does not teach Socratic method, and only the
+Yale syllabus explicitly includes the pre-Socratics (the opened MIT
+calendar and Stanford description do not establish the point).
+
+| Topic (anchor-grounded) | Status | Taught in / practised in / assessed in |
+|---|---|---|
+| Socrates and the examined life; Socratic method | essential | GAP: no module yet; mod-phil-1 does not cover it (it teaches Aristotelian definitions and the three-framework comparison) |
+| Plato's practical dialogues (why be moral, justice) | essential | module pending (legacy harvest + design) |
+| Aristotle: eudaimonia, virtue, phronesis | essential | mod-phil-1 (taught: wiki principles + AR-04; practised: definitions exercise, retrieval 2; assessed: criteria 1 and 2) |
+| Deontology and consequentialism as comparison points | essential (service topic) | mod-phil-1 (taught: SEP sections, worked examples; practised: faded practice; assessed: criteria 3 and 4) |
+| Aristotle: akrasia, friendship, contemplation | essential | module pending (wiki Layers V, VI, VIII hold the material) |
+| Stoicism ancient and modern as lived practice | essential | module pending (legacy mod-phil-2 harvest) |
+| Epicureanism (morality, death) | essential | module pending (legacy mod-phil-3 harvest) |
+| Skepticism as practical rival | essential | module pending |
+| Cynics | elective | pending |
+| Pre-Socratics | open question | scope question for strategist/owner (Yale includes them; scope excludes without stated reason) |
+| Formal logic; academic metaphysics/epistemology | excluded (reason stated in scope) | none |
+
+Module 1 workload figures of record: 4h41m superseded by 4h50m superseded
+by 5h06m (current, component arithmetic in the module doc).

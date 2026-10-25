@@ -37,18 +37,18 @@ Read the Book I overview page, then the layer indexes with their principles
 quote the Nicomachean Ethics and link the free Ross and Rackham
 translations):
 
-- [Book I overview](../../../content/structure/A%20%E2%80%94%20Aristotelian%20Virtue%20Ethics%20and%20Practical%20Wisdom.md),
-  then [Layer I (First Principles)](../../../content/structure/A-S01%20%E2%80%94%20Layer%20I%20-%20First%20Principles%20%E2%80%94%20Eudaimonia%20and%20the%20Function%20Argument.md):
-  [A001 Make eudaimonia the organising end of your life](../../../content/principles/A001%20%E2%80%94%20Make%20eudaimonia%20the%20organising%20end%20of%20your%20life.md),
-  [A002 Live according to your function (ergon)](../../../content/principles/A002%20%E2%80%94%20Live%20according%20to%20your%20function%20(ergon).md),
-  [A003 Make virtue your primary investment](../../../content/principles/A003%20%E2%80%94%20Make%20virtue%20your%20primary%20investment.md),
-  [A004 Become virtuous by doing virtuous acts](../../../content/principles/A004%20%E2%80%94%20Become%20virtuous%20by%20doing%20virtuous%20acts.md),
-  [A005 Choose the mean, not the extreme](../../../content/principles/A005%20%E2%80%94%20Choose%20the%20mean%2C%20not%20the%20extreme.md)
+- [Book I overview](../../../../content/structure/A%20%E2%80%94%20Aristotelian%20Virtue%20Ethics%20and%20Practical%20Wisdom.md),
+  then [Layer I (First Principles)](../../../../content/structure/A-S01%20%E2%80%94%20Layer%20I%20-%20First%20Principles%20%E2%80%94%20Eudaimonia%20and%20the%20Function%20Argument.md):
+  [A001 Make eudaimonia the organising end of your life](../../../../content/principles/A001%20%E2%80%94%20Make%20eudaimonia%20the%20organising%20end%20of%20your%20life.md),
+  [A002 Live according to your function (ergon)](../../../../content/principles/A002%20%E2%80%94%20Live%20according%20to%20your%20function%20%28ergon%29.md),
+  [A003 Make virtue your primary investment](../../../../content/principles/A003%20%E2%80%94%20Make%20virtue%20your%20primary%20investment.md),
+  [A004 Become virtuous by doing virtuous acts](../../../../content/principles/A004%20%E2%80%94%20Become%20virtuous%20by%20doing%20virtuous%20acts.md),
+  [A005 Choose the mean, not the extreme](../../../../content/principles/A005%20%E2%80%94%20Choose%20the%20mean%2C%20not%20the%20extreme.md)
   (virtue and vice, excess and deficiency).
-- [Layer III (Intellectual Virtues)](../../../content/structure/A-S03%20%E2%80%94%20Layer%20III%20-%20Intellectual%20Virtues.md):
-  [A042 Recognise that virtue is a hexis, not a feeling](../../../content/principles/A042%20%E2%80%94%20Recognise%20that%20virtue%20is%20a%20hexis%2C%20not%20a%20feeling.md).
-- [Layer IV (Practical Wisdom)](../../../content/structure/A-S04%20%E2%80%94%20Layer%20IV%20-%20Practical%20Wisdom%20%E2%80%94%20Phronesis.md):
-  [A043 Develop phronesis, practical wisdom](../../../content/principles/A043%20%E2%80%94%20Develop%20phronesis%20%E2%80%94%20practical%20wisdom.md).
+- [Layer III (Intellectual Virtues)](../../../../content/structure/A-S03%20%E2%80%94%20Layer%20III%20-%20Intellectual%20Virtues.md):
+  [A042 Recognise that virtue is a hexis, not a feeling](../../../../content/principles/A042%20%E2%80%94%20Recognise%20that%20virtue%20is%20a%20hexis%2C%20not%20a%20feeling.md).
+- [Layer IV (Practical Wisdom)](../../../../content/structure/A-S04%20%E2%80%94%20Layer%20IV%20-%20Practical%20Wisdom%20%E2%80%94%20Phronesis.md):
+  [A043 Develop phronesis, practical wisdom](../../../../content/principles/A043%20%E2%80%94%20Develop%20phronesis%20%E2%80%94%20practical%20wisdom.md).
 
 Before your second pass through these pages, do Retrieval activity 1
 (below): free recall first, then re-read to check yourself. The four terms
@@ -239,18 +239,20 @@ can self-check.
   reading, about 1 hour 17 minutes (estimate, labelled).
 - SEP introductions (word counts measured on the assigned sections):
   1742 words = 10 minutes of raw reading; their study is carried out in
-  the definitions exercise, already counted below.
+  the definitions exercise, whose time is counted once, in the retrieval
+  allocation below.
 - Required video (measured): AR-04 44:17 plus AR-01 whole episode 55:07,
   total 1:39:24.
-- Retrieval activities: about 30 minutes (estimate).
+- Retrieval activities (including the definitions deliverable and its
+  self-assessment): about 30 minutes (estimate).
 - Worked example study and the faded practice: about 30 minutes
   (estimate).
-- Graded deliverables (definitions exercise, paragraph, dilemma
-  analysis) including self-assessment: about 60 minutes (estimate).
+- Graded deliverables (paragraph and dilemma analysis) including
+  self-assessment: about 60 minutes (estimate).
 
-Total: about 5 hours 6 minutes (311.7 minutes of labelled components:
-77.3 reading study, 10 SEP raw reading, 99.4 video, 30 retrieval, 30
-worked example, 60 graded). The legacy module claimed 4 hours with no
+Total: about 5 hours 6 minutes (306.4 minutes of labelled components:
+77.3 wiki reading study, 9.7 SEP raw reading, 99.4 video, 30 retrieval,
+30 worked example, 60 graded). The legacy module claimed 4 hours with no
 arithmetic behind it; the figure above is the computed total. Optional
 material (AR-06 1:01:15) is not counted.
 
