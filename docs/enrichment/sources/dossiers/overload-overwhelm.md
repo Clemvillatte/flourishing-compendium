@@ -319,3 +319,22 @@ than" was caught and removed). The earlier "OPEN OWNER QUESTION"
 ledger entry is superseded in part: the re-prose is now done for this
 dossier; whether the owner wants the same treatment for other
 dossiers' map sections (goals among them) remains open.
+
+## Remaining quote artifact verified by eye (2026-10-25 10:47Z, worker-pplx-ef25-launcher, baton dos12)
+
+The one remaining quote_verify NOT FOUND (the Scheibehenne,
+Greifeneder and Todd abstract span, "In a meta-analysis of 63
+conditions from 50 published and unpublished experiments (N = 5,036),
+we found a mean effect size of virtually zero but considerable
+variance between studies.") is verified VERBATIM BY EYE against the
+fetched author-copy PDF (scheibehenne.com ScheibehenneGreifenederTodd
+2010.pdf, 380,769 bytes, fetched this session): the sentence is on
+page 1 of the PDF and the printed page shows "(N = 5,036)" with the
+equals sign (rendered via pdftoppm and read on the page image). The
+automated miss is precisely diagnosed: the PDF's text layer encodes
+the equals sign as "p" (a font/encoding artifact of that PDF
+generator), so pdftotext yields "(N p 5,036)" and the verifier's
+normalised match fails. The dossier quote matches the printed page
+exactly. No text change; the artifact joins the documented standing
+exceptions. quote_verify remains 7 checked / 1 not found (this one,
+documented here).
