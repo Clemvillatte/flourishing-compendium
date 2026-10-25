@@ -100,7 +100,7 @@ The research side complicates the argument's completion. Terror-management findi
 
 ### Is the aim to cast fear out or to act with it?
 
-The Christian one-liner held on [Perfect love casts out fear](https://clemvillatte.github.io/flourishing-compendium/#card=Perfect%20love%20casts%20out%20fear) promises removal: 1 John 4:18. Aristotle's account of courage is built on the opposite assumption. On [Courage — action despite fear](https://clemvillatte.github.io/flourishing-compendium/#card=Courage%20%E2%80%94%20action%20despite%20fear), death and wounds remain painful to the brave man and against his will, and he faces them anyway because it is noble to do so. The feeling stays, and the act changes. The objects differ (the letter's fear is fear of punishment on the day of judgment; Aristotle's is battle and death), and I mark that difference rather than paper over it: what genuinely conflicts is the aim each prescribes.
+The Christian one-liner held on [Perfect love casts out fear](https://clemvillatte.github.io/flourishing-compendium/#card=Perfect%20love%20casts%20out%20fear) promises removal: 1 John 4:18. Aristotle's account of courage is built on the opposite assumption. On [Courage — action despite fear](https://clemvillatte.github.io/flourishing-compendium/#card=Courage%20%E2%80%94%20action%20despite%20fear), death and wounds remain painful to the brave man and against his will, and he faces them anyway because it is noble to do so. The feeling stays, and the act changes. The objects differ (the letter's fear is fear of punishment on the day of judgment; Aristotle's is battle and death), and I mark that difference: what genuinely conflicts is the aim each prescribes.
 
 The disagreement turns on whether fear is an intruder or a normal load the virtuous person carries into action. I lean toward Aristotle, and the exposure research gives the lean its measured support: if the original association is not erased but overlaid, then acting with the feeling is the arrangement the evidence describes ([Craske et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/)). The cast-out reading keeps a defender in the argument, and I leave it there: a state of perfect love is not a claim the laboratory tested.
 
@@ -124,7 +124,7 @@ The disagreement matters for what counts as success and what to expect afterward
 
 4. [Civic courage drill](https://clemvillatte.github.io/flourishing-compendium/#card=K362%20%E2%80%94%20Civic%20courage%20drill): once a month, act on a civic concern normally avoided: attend the meeting, write to the representative, speak at the forum. The well-being evidence for civic engagement is uneven; the drill runs on courage and conviction first.
 
-::Retention:: What a reader keeps from this theme is usually a record rather than a feeling: what was predicted, what occurred, and which action is worth repeating. A reader who keeps the hierarchy and re-runs it, or the weekly courage slot, has the theme's core; the drill that survives is the one the reader's life confirms.
+::Retention:: What a reader keeps from this theme is usually a record: what was predicted, what occurred, and which action is worth repeating. A reader who keeps the hierarchy and re-runs it, or the weekly courage slot, has the theme's core; the drill that survives is the one the reader's life confirms.
 
 ## Story: the stories that carry the theme
 

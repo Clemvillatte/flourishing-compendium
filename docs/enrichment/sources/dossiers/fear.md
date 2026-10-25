@@ -385,3 +385,31 @@ cards all verify. No defects found.
 - 2026-10-25 10:55:00Z — repair, self-checked, pushed. Three spans previously documented as blocked-fetch exceptions were retested. PMC4114726: the verifier cache held a JavaScript shell from a failed fetch; the live page serves full text to plain fetches, so the cache entry was cleared and both spans now verify (0 not found). PMID 25306232: the span is verbatim in the NCBI eutils plain-text abstract (opened this session); the eutils efetch URL was added as a second carrier, and quote_verify now checks the span clean through it. The ledger's blocked-fetch exception entries for these three spans are superseded by this verification.
 
 - 2026-10-25 10:54:02Z — timestamp correction: the previous entry is dated 2026-10-25 10:55:00Z, which was written from an estimate ahead of the actual clock; the true time of that entry was 2026-10-25 10:53:33Z (UTC, read at command time).
+
+## Rev — humanizer pass, two scaffold repairs (worker-pplx-1025-launchb, baton dos27, 2026-10-25 11:03Z)
+
+Prose revision only; no quotes, links, claims or evidence changed. The
+voice audit reported 16 structural candidates; 2 were repaired: the
+Aristotle/1-John disagreement note's "I mark that difference rather
+than paper over it" -> "I mark that difference" (the second clause
+was self-congratulatory), and the Retention paragraph's "usually a
+record rather than a feeling" -> "usually a record" (the same
+scaffold repaired in sadness-and-grief's Retention). Fourteen
+candidates kept deliberately after review: the fear/anxiety clinical
+boundary, courage "held inside this theme rather than split off"
+(scoping), Aristotle's verbatim "we do not fear things that are a very
+long way off", Öhman and Mineka's "a motive state rather than a
+definition" (their framing), Kierkegaard's "the human condition
+rather than being only a symptom" (the doctrine), death fear as
+"persistent material rather than a removable error" (the framing), the
+laboratory summary "does not show dissolving... shows it doing work"
+(the finding), "not lack fear, but fears the right things" (Aristotle's
+doctrine), "from duty rather than inclination" (Kant's distinction),
+the module disagreement's "pictures and arguments rather than stimuli"
+(the crux), "not erased but overlaid" (the inhibitory-learning
+finding), the relapse note's "as data rather than embarrassment" (the
+framework's stance), Ivan Ilyich's "fear not of death in the abstract
+but of the thing he cannot name" (the story's point), and Cato's
+"rather than become a prop" (historical fact). Checks: dossier_check
+exit 0 (see run); voice audit 16 -> 14 candidates, all reviewed keeps.
+No external carriers opened in this pass.
