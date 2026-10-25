@@ -1,6 +1,6 @@
 {
  "band": "k1f",
- "source": "kernel K100-standard gap (corrected 12:45Z): content/kernels pages missing a Protocol section (Evidence present); all 15 carry done records from k1a/k1e/kpr but were left without the exemplar's Protocol section \u2014 unfinished-work lane per OPERATIONS fallback; worker-minted band per k1a-k1e precedent, supervisor may reassign",
+ "source": "kernel K100-standard gap (corrected 12:14Z): content/kernels pages missing a Protocol section (Evidence present); all 15 carry done records from k1a/k1e/kpr but were left without the exemplar's Protocol section \u2014 unfinished-work lane per OPERATIONS fallback; worker-minted band per k1a-k1e precedent, supervisor may reassign",
  "paths": [
   "content/kernels/K115 \u2014 Willingness practice.md",
   "content/kernels/K159 \u2014 Affect labeling.md",

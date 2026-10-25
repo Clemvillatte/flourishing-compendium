@@ -1,9 +1,11 @@
 {
  "batch": "k1f",
- "done": [],
+ "done": [
+  "K115 Willingness practice"
+ ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 0,
- "updated": "2026-10-25T12:15:00+00:00"
+ "sources_checked": 3,
+ "updated": "2026-10-25T12:15:30+00:00"
 }
