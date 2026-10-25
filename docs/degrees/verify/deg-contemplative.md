@@ -1116,3 +1116,75 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
 - Verification status: verified-partial (identity, access, duration;
   independent channel, unnamed host; coverage basis is the uploader
   description).
+
+### SRC-M12-001: Walking in Balance — Aztec Spirituality, Metaphysics and Ethics (James Maffie, Howl in the Wilderness)
+
+- Identity and access: oembed confirms the episode on the Howl in the
+  Wilderness channel (https://www.youtube.com/watch?v=Hl5d1gXG5nI); watch
+  page opened 2026-10-25. Podcast episode 131. INDEPENDENT-CHANNEL FLAG.
+- Duration: 1:22:50 (watch page, 2026-10-25).
+- Instructor credentials: Dr. James Maffie, senior lecturer, Department of
+  Philosophy, and affiliate of the Latin American Studies Program,
+  University of Maryland (per the uploader description; institutional page
+  not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): his book
+  Aztec Philosophy: Understanding a World in Motion — Mexica metaphysics,
+  Teotl as energy of movement and transformation, comparisons with Taoism
+  and Tantra, balance between opposing manifestations, and the ethical
+  obligation to "feed the holy."
+- Relevant segment: whole episode, 1:22:50.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.
+
+### SRC-M12-003: Aztec Ethics and the Tonalamatl with James Maffie (Hermitix)
+
+- Identity and access: oembed confirms the episode on the Hermitix
+  Podcast channel (https://www.youtube.com/watch?v=t2i4AyAJDTE); watch
+  page opened 2026-10-25. INDEPENDENT-CHANNEL FLAG.
+- Duration: 1:03:01 (watch page, 2026-10-25).
+- Instructor credentials: James Maffie, principal lecturer, Department of
+  Philosophy, University of Maryland (per the uploader description;
+  institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description and chapters, read 2026-10-25):
+  the tonalamatl, Aztec ethics, divination, reciprocity, maize, balance
+  and animism, linked to his book on Aztec philosophy.
+- Relevant segment: whole episode, 1:03:01.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.
+
+### SRC-M20-D01: Daoism, Zhuangzi, Garbage, and Non-Knowing (Brook Ziporyn with Julie Reshe)
+
+- Identity and access: oembed confirms the conversation on the Julie
+  Reshe channel (https://www.youtube.com/watch?v=6pqsmQzeVs0); watch page
+  opened 2026-10-25. Part of the Negative East Asian Thought Summer
+  School series. INDEPENDENT-CHANNEL FLAG: the host's personal channel.
+- Duration: 2:03:17 (watch page, 2026-10-25).
+- Instructor credentials: Brook Ziporyn, guest (per the description; an
+  institutional page was not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): Daoism,
+  Zhuangzi, non-knowing, garbage, irony, nihilism, negative theology,
+  wellness culture, and the strange logic of a Dao that is not a Dao.
+- Relevant segment: whole conversation, 2:03:17.
+- Verification status: verified-video (2026-10-25); independent-channel
+  basis noted; Ziporyn credentials pending an institutional page.
+
+### SRC-M20-D04: The Daoist Body with Dominic Steavu (SOAS Centre of Yoga Studies)
+
+- Identity and access: oembed confirms the talk on the SOAS Centre Of
+  Yoga Studies channel (https://www.youtube.com/watch?v=UbYUA_G4Jjo);
+  watch page opened 2026-10-25. Recorded 13 April 2022.
+- Duration: 1:16:46 (watch page, 2026-10-25).
+- Instructor credentials: Dominic Steavu, Associate Professor of Chinese
+  Religions and Chinese Buddhism, UC Santa Barbara (per the uploader
+  description; institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): ways Daoists
+  speak about the body — the body as a dynamic and divine landscape, a
+  generative, life-giving cosmos, and an alchemical furnace, with
+  emblematic practices for these metaphors.
+- Relevant segment: whole talk, 1:16:46.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.
