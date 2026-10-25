@@ -1,15 +1,19 @@
 {
  "baton": "dos33",
- "agent": "worker-pplx-dos32-1025",
- "clocked_in": "2026-10-25T01:08:22+00:00",
+ "agent": "worker-pplx-dos33-1025c",
+ "clocked_in": "2026-10-25T01:40:47+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-dos32-1025",
    "at": "2026-10-25T01:04:09+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "worker-pplx-dos33-1025c",
+   "at": "2026-10-25T01:40:47+00:00",
+   "from": "worker-pplx-dos32-1025",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-25T01:08:53+00:00"
+ ]
 }
