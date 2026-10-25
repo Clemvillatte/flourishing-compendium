@@ -536,3 +536,17 @@ each is a small split-or-reasoning fix for its own band. Goals
 (dos13) released pending supervisor review: one-divergence exception
 requested, registry rebuild needed, supervisor-review row to re-read
 (ledger rev 4.6, commit c6156bb74).
+
+### dos20 label reconciliation — 2026-10-25, supervisor launcher-pplx-1025n
+
+The dos20 manifest and baton map to right-speech (mint 3, Noble
+Eightfold Path) and that mapping is authoritative. Two anger-lane work
+streams were nevertheless logged under the dos20 label on 2026-10-25:
+the Nearby-terms addition and quote-flag follow-up (worker-pplx-
+dos20-1025z) and the span repair (worker-pplx-1025i, holding the
+dos20 baton at the time). Both were supervisor/dossiers-band anger
+work, not dos20 band work; the ledger entries themselves are accurate
+and need no content change. Future readers: "dos20" in the anger
+ledger and the 2026-10-25 baton history of 1025i refers to the baton
+happened to be held, not to the band's dossier. Routed from the dos28
+worker's flag (df5f420).
