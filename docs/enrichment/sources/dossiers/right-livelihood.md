@@ -179,3 +179,33 @@ carriers freshly opened beyond the cards.
 
 Checks: dossier_check.py exit 0. Scope: candidate-line review plus
 spot-checks.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+Following the advisor QC direction after two misattributed entries were
+found in the fear dossier, all 37 concept and principle entries in this
+dossier's map sections were compared against their linked cards (card
+files opened and read side by side with the glosses). Every gloss
+matches its card, including the canonical cluster (right livelihood,
+Eightfold Path, three trainings, right speech and action siblings,
+ahimsa), the vocation cluster (Weber's Beruf, the
+Wrzesniewski-McCauley-Rozin-Schwartz calling orientation, Dewey's
+dignity of labor, the Benedictine ora et labora), the work-research
+cluster (Kristof-Brown person-organization fit, Super's life-span
+life-space theory, Lent-Hackett-Brown social cognitive career theory),
+the burnout cluster (WHO ICD-11, Maslach, Siegrist effort-reward
+imbalance, Demerouti job demands-resources, Hackman-Oldham job
+characteristics, emotional-labor surface and deep acting), the Fromm
+having mode, the attention economy with its contested-study flag
+carried, Sonnentag-Fritz recovery experiences, the effort cluster
+(Aristotle's mean, right effort, James's effort of attention), the
+rest cluster (Benedictine discipline of rest, Aristotle on rest,
+Zhuangzi's rhythm of rest, Pieper's leisure, Analects 2.10, the
+Apology's examined economics, Augustine's two cities, restorative
+justice), and Wang Yangming's unity of knowledge and action. No
+mismatches found; no edits made. This strengthens the earlier
+voice-audit review (all 6 candidates kept): the flagged constructions
+are card-faithful as well as doctrinally sourced.
+
+Checks: dossier_check.py exit 0 (run again this session). Editorial
+review only; no external carriers freshly opened this pass.
