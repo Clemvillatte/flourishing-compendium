@@ -1,25 +1,35 @@
 # Verification evidence: deg-mind (Blocks D and I)
 
-Two verifiers share this degree file. Block D (deg-verify-b, verifier-pplx-b1):
-verification standard: skill section 4. Verification dates recorded per
-source. Method note as verify/deg-wol-greek.md: identity from oembed plus
-the watch page, duration from the watch page player or structured
-metadata, content from the recording's own description, chapters and
-transcript panel, credentials from institutional pages. Block I
-(deg-verify-a, verifier-pplx-a1): unattached records from the Block I hash
-half for deg-verify-a, verified 2026-10-25 so owners can attach them with
-evidence on file.
+Two verifiers share this degree file. Block D (deg-verify-b): verification
+standard: skill section 4. Verification dates recorded per source. Method
+note as verify/deg-wol-greek.md: identity from oembed plus the watch
+page, duration from the watch page player or structured metadata, content
+from the recording's own description, chapters and transcript panel,
+credentials from institutional pages. Block I (deg-verify-a,
+verifier-pplx-a1): unattached records from the Block I hash half for
+deg-verify-a, verified 2026-10-25 so owners can attach them with evidence
+on file.
+
+COORDINATION NOTE (2026-10-25, verifier-pplx-1025g, baton holder): a
+concurrent stale-baton session (verifier-pplx-b1) verified Block D records
+one at a time in the first batch below while this session verified the
+complete block in the second batch. The second batch (all 18 records,
+with opened credential pages) is the superseding, complete record; the
+first batch is retained as corroborating evidence. Do not re-treat Block D
+records; both verifier queues for this degree are exhausted. Remaining
+deg-verify-b work is Block F (deg-therapeutic) and the Block I
+deg-verify-b hash half.
 
 ## Block D status
 
 25 unique attachments (10 source IDs on mod-mind-1 and mod-mind-2 map to
-these recordings). Verified below: M06-AF09, M06-CO04, M06-AF01, M06-AF03, M06-AT01,
-M06-AF06, M06-CO02, M06-AF04, M06-AF05, M06-AT02, M06-CO05,
-SRC-M07-001.
-Already verified in the manifest: SRC-M28-001 through SRC-M28-007;
-M06-AT06 is the same recording as SRC-M28-002. Queued for the next
-session:
-SRC-M07-004, SRC-M07-005, SRC-M07-007, SRC-M07-008, SRC-M07-019.
+these recordings). First-batch entries below: M06-AF09, M06-CO04,
+M06-AF01, M06-AF03, M06-AT01, M06-AF06, M06-CO02, M06-AF04, M06-AF05,
+M06-AT02, M06-CO05, SRC-M07-001. Already verified in the manifest:
+SRC-M28-001 through SRC-M28-007; M06-AT06 is the same recording as
+SRC-M28-002. The remaining queued records (SRC-M07-004, SRC-M07-005,
+SRC-M07-007, SRC-M07-008, SRC-M07-019) are verified in the complete
+second batch below (verifier-pplx-1025g, 2026-10-25).
 
 ### M06-AF09: How Positive Emotions Work and Why (Barbara L. Fredrickson)
 
@@ -592,9 +602,11 @@ SRC-M07-019 has free and paid access paths (see the access note).
 - Identity and access: oembed confirms the lecture on the YaleCourses channel
   (https://www.youtube.com/watch?v=8UySWKNjw5Y); watch page opened 2026-10-25.
 - Duration: 56:07 (watch page, 2026-10-25).
-- Instructor credentials: Professor Paul Bloom, instructor of PSYC 110
-  (Introduction to Psychology, Open Yale Courses; the OYC course pages opened
-  this session name him as the course instructor).
+- Instructor credentials: Professor Paul Bloom, Brooks and Suzanne Ragen
+  Professor Emeritus of Psychology at Yale, instructor of PSYC 110
+  (Introduction to Psychology, Open Yale Courses; opened pages:
+  https://oyc.yale.edu/introduction-psychology/psyc-110 and
+  https://psychology.yale.edu/people/paul-bloom, 2026-10-25).
 - Language: English; the YaleCourses upload family carries transcripts.
 - Content coverage (uploader description, read 2026-10-25): introduction to the
   evolutionary analysis of human emotions — how they work, why they exist and
