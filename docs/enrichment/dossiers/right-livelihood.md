@@ -94,6 +94,20 @@ The same work treats the acquiring as legitimate: "The science of acquiring slav
 
 The Buddhist text prohibits the buying and selling of human beings. The Politics passages defend the owning, acquiring and directing of them. These are different practices, and the passages alone do not establish a direct disagreement about trading people: the sutta says nothing about holding, and the Politics passages quoted here do not evaluate buying and selling people. What the two texts do give a reader is the same underlying question from opposite sides, whether a human being may be an item of economic life at all, and two answers that do not meet. I lean toward the Buddhist side of that question, and I state the limit of the comparison rather than manufacture a cleaner one.
 
+### Monastic and lay obligations about money
+
+The Buddha's rule for monks and his advice to the lay follower Sigala are role-dependent guidance, not opposing answers to a shared question. The monastic rule concerns accepting or arranging acceptance of money, not relinquishing all property:
+
+> "NP 18 forbids a bhikkhu from accepting gifts of money, from getting others to accept them, and from consenting to gifts of money meant for him being placed down next to him." ([Thanissaro, Buddhist Monastic Code I](https://cdn.britannica.com/primary_source/gutenberg/PGCC_classics/lib/modern/thanissaro/bmc1/ch07-1.html))
+
+> "There are people of conviction and confidence, bhikkhus, who place gold and silver in the hand of stewards, saying 'Give the master whatever is allowable.' I allow that whatever is allowable coming from that be accepted. But in no way at all do I say that money is to be accepted or sought for." (same source)
+
+The advice to the lay follower treats wealth as the material of a responsible life:
+
+> "With wealth acquired this way, a layman fit for household life, in portions four divides his wealth: thus will he friendship win. One portion for his wants he uses, two portions on his business spends, the fourth for times of need he keeps." ([Sigalovada Sutta, DN 31, Narada translation](https://www.accesstoinsight.org/tipitaka/dn/dn.31.0.nara.html))
+
+The monk may not so much consent to money set down beside him; the householder is told to keep a quarter for emergencies and put half back into the business. The two passages assign different obligations to different roles: the rule of the order governs money specifically, and the householder's advice governs wealth generally. These are role-dependent rules, not a demonstrated disagreement about whether the follower of the path must let go of wealth.
+
 ## Where the traditions genuinely disagree
 
 ### Does low burnout mean high engagement?
@@ -111,20 +125,6 @@ The classical answer runs through Aristotle, and it is blunt: "Happiness is thou
 Pieper calls that outlook an inversion and sets Aristotle's "We work in order to be at leisure", his rendering of the ancient claim, against it, noting that the modern valuation of work differs so sharply from Antiquity and the Middle Ages that the ancient statement is hard to hear as anything but an attack on the basic principles of society ([Pieper, Leisure: The Basis of Culture](https://iwcinsb.org/studygroups/2024%20readings/Leisure.pdf)). The disagreement turns on whether work is life's governing end or serves something valuable beyond itself. For Pieper, leisure involves stillness, receptive understanding and affirmation; its value extends beyond preparing someone for another shift.
 
 I lean with Pieper here. A livelihood is one of the places a life's hours go, and the hours are for something; I want a livelihood to leave room for things worth doing for their own sake.
-
-### Must the follower of the path let go of property?
-
-The shared question: does the training itself require giving up wealth? The Buddha's rule for his monks answers yes, and it is absolute:
-
-> "NP 18 forbids a bhikkhu from accepting gifts of money, from getting others to accept them, and from consenting to gifts of money meant for him being placed down next to him." ([Thanissaro, Buddhist Monastic Code I](https://cdn.britannica.com/primary_source/gutenberg/PGCC_classics/lib/modern/thanissaro/bmc1/ch07-1.html))
-
-> "There are people of conviction and confidence, bhikkhus, who place gold and silver in the hand of stewards, saying 'Give the master whatever is allowable.' I allow that whatever is allowable coming from that be accepted. But in no way at all do I say that money is to be accepted or sought for." (same source)
-
-The Buddha's advice to the householder Sigala answers no:
-
-> "With wealth acquired this way, a layman fit for household life, in portions four divides his wealth: thus will he friendship win. One portion for his wants he uses, two portions on his business spends, the fourth for times of need he keeps." ([Sigalovada Sutta, DN 31, Narada translation](https://www.accesstoinsight.org/tipitaka/dn/dn.31.0.nara.html))
-
-The two passages answer the same question with opposite rules, and both are the Buddha's own. The monk may not so much consent to money set down beside him; the householder is told to keep a quarter for emergencies and put half back into the business. The rule of the order draws the line at ownership itself: not "use wealth well" but "do not touch it." The advice to the lay follower draws the line at use: wealth is to be earned, divided, invested and enjoyed as the material of a responsible life. What remains unresolved is whether the two answers describe one path with two stations — renunciation as the monk's vocation, stewardship as the layperson's — or two paths with different demands; the texts do not force the choice.
 
 ## Practice: variation, selection, retention
 

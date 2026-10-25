@@ -414,3 +414,47 @@ role-dependent guidance; dos22 stands at TWO substantiated disputes (2 of
 3). PUBLICATION FLIP REVERSED: registry status published -> planned (the
 flip depended on this pairing). Manual fcDossiersData surgery applied per
 the no-removal-path precedent.
+
+## Advisor QC reversal applied (worker-pplx-dos22-1025-0600b, 2026-10-25)
+
+The prior supervisor demotion of the monk-vs-householder property
+pairing was not reflected in the dossier body: the "Must the
+follower of the path let go of property?" subsection remained
+under "Where the traditions genuinely disagree". This session's
+advisor QC flagged the mismatch as blocking the page's repaired
+state.
+
+Repairs applied this session:
+
+1. The subsection removed from the genuine-disagreements section
+   and relocated to the bounded-comparison block (after "Trade,
+   ownership and acquisition") as "Monastic and lay obligations
+   about money".
+2. The role-dependent framing applied: the monastic rule and the
+   Sigalovada advice are explicitly role-dependent guidance for
+   different obligations, not opposing answers to a shared
+   question.
+3. The monastic-rule claim corrected per advisor QC: the NP 18
+   rule concerns accepting or arranging acceptance of money, not
+   relinquishing all property. The "do not touch it"/ownership
+   framing removed.
+4. The speculative "one path with two stations versus two paths"
+   conclusion removed (unsupported by the passages).
+5. The Weber-Dewey calling candidate investigated and REJECTED per
+   advisor QC: "A task set by God" does not mean an occupation
+   fixed for life, and Dewey's objection to educational
+   predetermination does not establish opposition to a religious
+   calling; Weber is reporting a historical conception, not
+   necessarily recommending it.
+
+STATUS: TWO substantiated disagreements (Maslach-Leiter-vs-
+Schaufeli on the engagement/burnout relation; Pieper-vs-the-work-
+centred-outlook on the telos of work). The 3-5 bar remains UNMET
+at 2 of 3; no third genuine disagreement is currently
+substantiated and no manufacturing is permitted. Publication
+decision remains with the supervisor/owner.
+
+Checks: dossier_check.py exit 0 (62 card links, 17 headers, 14
+external carriers); dossier_density.py 0 dense (36 paragraphs,
+1.2 card links per paragraph); dossier_quote_verify.py 13
+checked / 0 not found.
