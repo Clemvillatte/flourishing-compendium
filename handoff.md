@@ -10,6 +10,17 @@ https://www.perplexity.ai/computer/tasks/5add9965-c42f-49d9-892a-14cffe8113f6
 (launched 2026-10-25 ~11:10Z). Expect the new agent to take a baton on next
 baton.py status.
 
+## AGENT LAUNCH (2026-10-25 ~11:12Z, launcher-pplx-1025c, no baton held)
+
+Path A launch: account joeleagle10131+iamzr@outlook.com (signed in as
+joeleagle179412, Free plan), task URL
+https://www.perplexity.ai/computer/tasks/5735a2eb-38e4-4a6d-98ee-230f36185663,
+launched 2026-10-25 11:11Z. Worker prompt: docs/enrichment/PROMPT-WORKER.md
+verbatim (8415 chars, paste verified head/tail before submit, Computer mode
+confirmed pressed before paste), filled with the owner's session token.
+Owner supplied the 6-digit code on request. Expect the new agent to take a
+baton on next baton.py status.
+
 ## AGENT LAUNCH 2 (2026-10-25 ~10:50Z, launcher pplx-1025-launch-b, no baton held)
 
 Path A launch 9 (Add account flow, worker 1 session kept alive): account
