@@ -17591,6 +17591,1384 @@ window.fcDossiersData = {
       "group": "minds-life",
       "status": "published",
       "art": "assets/dossier-art/freedom.jpg"
+    },
+    {
+      "id": "right-livelihood",
+      "title": "Right Livelihood",
+      "question": "Can a living be made without harm, and what does work do to the person who does it?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A livelihood is where a life's hours go, so whatever principles a person holds, the hours answer to the work before anything else does. The trade can be reconsidered; the day spent inside it cannot. I want to know whether a living can be made without harm, and what the daily labour does to the person doing it."
+        },
+        {
+          "t": "p",
+          "x": "The accounts run from the trades the Buddha named outright to the modern study of what work does to a person: burnout, recovery, the fit between a life and its organisation. Underneath the list sits the question already raised in another form: whether a life can be arranged so that its daily labour does not quietly work against it."
+        },
+        {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "Vocation and calling: the tradition that reads work as a task set for a person rather than chosen, held on [Vocation as calling](card:Vocation%20as%20calling) with its modern measurement on [Calling orientation](card:Calling%20orientation); the livelihood question asks what may be done for a living, not only what it means."
+        },
+        {
+          "t": "p",
+          "x": "Work aims and goals: the targets a person sets inside work belong to the goals material, for example [Goal setting theory (Locke & Latham)](card:Goal%20setting%20theory%20%28Locke%20%26%20Latham%29); livelihood keeps to the work itself and the person doing it."
+        },
+        {
+          "t": "p",
+          "x": "Life's purpose: a livelihood is one of the places a purpose gets spent; the search for the purpose itself is the [Purpose](card:Purpose) material."
+        },
+        {
+          "t": "p",
+          "x": "Workaholism: work that takes the person over is its own studied condition, on [Workaholism research](card:Workaholism%20research); the livelihood question asks about the harm a trade does and the growth it allows, not the hours alone."
+        },
+        {
+          "t": "p",
+          "x": "Work engagement: the vigorous, absorbed relation to work, defined on [Work engagement](card:Work%20engagement) as a state of mind in its own right rather than the absence of burnout; it is one of the things a livelihood can be judged by, not the ethical floor itself."
+        },
+        {
+          "t": "h",
+          "x": "What right livelihood asks of a working life"
+        },
+        {
+          "t": "h2",
+          "x": "What does the path itself say about earning?"
+        },
+        {
+          "t": "p",
+          "x": "The fifth factor of the [Eightfold Path](card:Eightfold%20Path) is [Right livelihood](card:Right%20livelihood): avoiding and abstaining from wrong livelihood, work that cheats, harms or kills. The Buddha's own words name the trades:"
+        },
+        {
+          "t": "q",
+          "x": "\"Monks, a lay follower should not engage in five types of business. Which five? Business in weapons, business in human beings, business in meat, business in intoxicants, and business in poison. These are the five types of business that a lay follower should not engage in.\" ([Thanissaro, AN 5.177, the Vanijja Sutta](https://www.accesstoinsight.org/tipitaka/an/an05/an05.177.than.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The placement is as instructive as the list. The path groups livelihood with [Right speech](card:Right%20speech) and [Right action](card:Right%20action) in the virtue division of [The three trainings](card:The%20three%20trainings), so work is an ethical practice field before it is a question of insight."
+        },
+        {
+          "t": "p",
+          "x": "[Action over intention](card:Action%20over%20intention) records the same placement logic: conduct gets its own factor rather than being left to trained intention. The grouping says something a modern reader can miss: the question the path asks about work is not first whether the job expresses the person or fulfills them, but whether it is conduct they can stand behind, the same question it asks of a word spoken or a thing taken."
+        },
+        {
+          "t": "p",
+          "x": "The floor under the factor is [Ahimsa](card:Ahimsa), the principle of non-harm that runs through the Indic traditions: whatever else a livelihood does, it begins by doing no injury."
+        },
+        {
+          "t": "p",
+          "x": "The list is prohibitive, and it is short. [B025 — Practice right livelihood](card:B025%20%E2%80%94%20Practice%20right%20livelihood) gives the formation rule in one line: earn a living without causing harm, avoid the trades in weapons, poisons, intoxicants and exploitation, align work with your deepest values."
+        },
+        {
+          "t": "p",
+          "x": "But as [B152 — Align your work with your values (right livelihood, revisited)](card:B152%20%E2%80%94%20Align%20your%20work%20with%20your%20values%20%28right%20livelihood%2C%20revisited%29) observes, the list does not describe how to choose among the many livelihoods outside it, and it says nothing about how a practice will feel after a job change. The tradition refuses the harmful trades and leaves the choice among the permitted ones to the person, which is exactly where the calling tradition and the work research begin."
+        },
+        {
+          "t": "h2",
+          "x": "Is work a calling or an occupation among others?"
+        },
+        {
+          "t": "p",
+          "x": "One answer with a long history is that work is a task set for a person rather than chosen. [Vocation as calling](card:Vocation%20as%20calling) holds Weber's account of the Reformation shift that gave everyday worldly activity religious significance:"
+        },
+        {
+          "t": "q",
+          "x": "\"Now it is unmistakable that even in the German word Beruf, and perhaps still more clearly in the English calling, a religious conception, that of a task set by God, is at least suggested.\" ([Weber, The Protestant Ethic, ch. III](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The modern measurement tradition keeps the word and drops the theology. [Calling orientation](card:Calling%20orientation) holds Wrzesniewski, McCauley, Rozin and Schwartz's three orientations to work: a Job focused on financial rewards, a Career focused on advancement, a Calling focused on fulfilling, socially useful work. The finding worth keeping is that the same work can be one or the other to different people doing it, which makes the orientation a property of the person-work relation rather than of the trade."
+        },
+        {
+          "t": "p",
+          "x": "Dewey refuses both the fixed station and the wage-first reading. [The dignity of labor](card:The%20dignity%20of%20labor) holds his claim in Democracy and Education that work belongs to the educative life of a person, and the chapter's own sentences carry the weight:"
+        },
+        {
+          "t": "q",
+          "x": "\"The dominant vocation of all human beings at all times is living — intellectual and moral growth.\" ([Dewey, Democracy and Education, ch. 23](https://standardebooks.org/ebooks/john-dewey/democracy-and-education/text/chapter-23))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The same chapter adds that \"To predetermine some future occupation for which education is to be a strict preparation is to injure the possibilities of present development\", and closes the argument with \"The only adequate training for occupations is training through occupations\" ([Dewey, Democracy and Education, ch. 23](https://standardebooks.org/ebooks/john-dewey/democracy-and-education/text/chapter-23)). The sorting of children into laborers and gentlemen is the injury, on his account, and the dignity of the work lies in what it grows. The chapter on the calling describes a conception in which the task is set by God and received in a station; Dewey's chapter argues that predetermining the occupation injures the person being educated. The two accounts give the choice of work different centres, and neither measures the work by its wage alone. The Benedictine [Ora et labora](card:Ora%20et%20labora) holds a third arrangement: prayer and work under one rule."
+        },
+        {
+          "t": "p",
+          "x": "The research tradition asks the fitting question at its own scale. [Person-organization fit](card:Person-organization%20fit) holds Kristof-Brown, Zimmerman and Johnson's finding that a person's values matching those of the organization predicts satisfaction, commitment and staying more than performance. [Life-span, life-space career theory](card:Life-span%2C%20life-space%20career%20theory) holds Super's stages from growth through exploration, establishment and maintenance to disengagement, each with its career development tasks."
+        },
+        {
+          "t": "p",
+          "x": "Two further models describe how the path itself forms. [Social cognitive career theory](card:Social%20cognitive%20career%20theory) extends Bandura's framework to how interests and choices develop, and [Krumboltz Learning Theory](card:Krumboltz%20Learning%20Theory) names the four categories of influence on the path: genetic endowment and special abilities, environmental conditions and events, learning experiences, and task approach skills. What a person can do with the fit question depends on knowing which of these is doing the moving. The models describe how working lives unfold; the question of what work does to the person inside them is where the modern evidence gets darker."
+        },
+        {
+          "t": "h2",
+          "x": "What does work do to the person doing it?"
+        },
+        {
+          "t": "p",
+          "x": "The clinical tradition has a name for work that hollows the person out. [Burnout](card:Burnout) is the WHO's ICD-11 term for a syndrome resulting from chronic workplace stress that has not been successfully managed: energy depletion, mental distance or cynicism about the job, and reduced professional efficacy. [Maslach burnout model](card:Maslach%20burnout%20model) holds the definition researchers use: emotional exhaustion, depersonalization and reduced personal accomplishment among individuals who do people work of some kind."
+        },
+        {
+          "t": "p",
+          "x": "Two models locate the failure in the exchange rather than the person. [Effort-reward imbalance](card:Effort-reward%20imbalance) holds Siegrist's account of occupational stress as a failed social exchange, high cost and low gain between efforts spent and rewards received. [The job demands-resources model](card:The%20job%20demands-resources%20model) holds Demerouti, Bakker, Nachreiner and Schaufeli's two-category account: demands relate to exhaustion, lacking resources to disengagement."
+        },
+        {
+          "t": "p",
+          "x": "What a person can do about a hollowing job depends on which of these describes it, and the design of the work itself is the worker's ally here: [Job characteristics model](card:Job%20characteristics%20model) holds Hackman and Oldham's work design, skill variety, task identity, task significance, autonomy and feedback, the characteristics that make work itself meaningful."
+        },
+        {
+          "t": "p",
+          "x": "Some of the harm is done through the feelings the work requires. [Impression-management burnout research](card:Impression-management%20burnout%20research) holds the emotional-labor line: surface acting, faking the required display, relates to impaired well-being across the meta-analysis, while deep acting, actually changing the feeling, is the studied alternative."
+        },
+        {
+          "t": "p",
+          "x": "Two further entries widen the frame to what the work is for. [The having mode](card:The%20having%20mode) holds Fromm's account of the mode of experience in which the self relates to the world by possession, wanting to make everybody and everything, including itself, its property; the being mode is the alternative the card holds beside it. [The attention economy](card:The%20attention%20economy) holds the market for attention as a factor in working life, and the card itself flags its flagship phone-presence study as influential but contested. [AT059 — Recognise the attention economy — your attention is the product](card:AT059%20%E2%80%94%20Recognise%20the%20attention%20economy%20%E2%80%94%20your%20attention%20is%20the%20product) is the formation principle for work done inside that market: the attention being sold is yours."
+        },
+        {
+          "t": "h2",
+          "x": "How much effort, and how much rest?"
+        },
+        {
+          "t": "p",
+          "x": "The path itself puts a sixth factor beside the fifth: [Right effort](card:Right%20effort), the question of how hard to pull. The classical statement of the measure is Aristotle's mean, held on [The right amount of effort](card:The%20right%20amount%20of%20effort): to feel and to act at the right times, with reference to the right objects, towards the right people, with the right motive and in the right way. [The effort of attention](card:The%20effort%20of%20attention) holds William James's claim that the faculty of voluntarily bringing back a wandering attention, over and over, is the very root of judgment, character and will, which is the effort work draws on. Effort spent without recovery, though, is the pattern the recovery research names and the burnout research measures."
+        },
+        {
+          "t": "p",
+          "x": "The recovery evidence gives the rhythm a research base. [Effort-recovery cycles](card:Effort-recovery%20cycles) holds Sonnentag and Fritz's finding that four recovery experiences can be differentiated: psychological detachment from work, relaxation, mastery and control. The rest of the tradition says what the recovery is for."
+        },
+        {
+          "t": "p",
+          "x": "[Discipline of rest](card:Discipline%20of%20rest) holds rest as a practice rather than a remainder: the rule that the recovery is part of the work. [The completeness of rest](card:The%20completeness%20of%20rest) holds rest as something complete in itself rather than the mere absence of work."
+        },
+        {
+          "t": "p",
+          "x": "[The importance of rest](card:The%20importance%20of%20rest) carries Aristotle's formula from Nicomachean Ethics X.7: we toil that we may rest, and war that we may be at peace. [The rhythm of rest](card:The%20rhythm%20of%20rest) holds the Zhuangzi's sixth chapter: life spent in toil, old age seeking ease, rest at death; what makes my life a good makes my death also a good."
+        },
+        {
+          "t": "p",
+          "x": "Rest has its own tradition of ends. [Leisure](card:Leisure) holds Pieper's account of leisure as the basis of culture: stillness, receptive understanding and affirmation rather than the mere break between shifts. [A111 — Practise leisure (scholē) as the end of work](card:A111%20%E2%80%94%20Practise%20leisure%20%28schol%C4%93%29%20as%20the%20end%20of%20work) is the Aristotelian formation rule: leisure as the end work serves, schole, the condition of contemplation. Confucius gives the rhythm a diagnostic use on [Judging by where one rests](card:Judging%20by%20where%20one%20rests): see what a man does, mark his motives, examine in what things he rests, from Analects 2.10, because the resting place is the hardest thing to fake. A livelihood that leaves no honest place to rest is answering a question about output while quietly deciding the shape of the life."
+        },
+        {
+          "t": "h2",
+          "x": "Where does a livelihood sit inside a whole life?"
+        },
+        {
+          "t": "p",
+          "x": "The hardest cases ask whether a livelihood is worth its terms at all. [The examined economics](card:The%20examined%20economics) holds the Apology read as a pricing problem: offered his life on the condition of silence, Socrates declines, and the sentence he puts on the other side is the unexamined life not worth living, the case where no livelihood is worth its terms. The larger effects have their own standard on [The commonwealth of the good](card:The%20commonwealth%20of%20the%20good): Augustine's two cities, where there is no justice there is no commonwealth, the measure a livelihood's wider effects are held against. And where harm has been done in the course of a trade, [Restorative justice](card:Restorative%20justice) holds the repair tradition for putting it right."
+        },
+        {
+          "t": "p",
+          "x": "The question finally returns to the person doing the work. [Spontaneous right action](card:Spontaneous%20right%20action) holds Wang Yangming's doctrine of the unity of knowledge and action: there have never been people who know but do not act; those who are supposed to know but do not act simply do not yet know."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "May human beings be part of the economy's business?"
+        },
+        {
+          "t": "p",
+          "x": "The Buddhist floor names the trade: \"business in human beings\" is one of the five a lay follower should not engage in ([Thanissaro, AN 5.177](https://www.accesstoinsight.org/tipitaka/an/an05/an05.177.than.html)). Aristotle's household science, in the Politics, defends something else, ownership and acquisition, as a matter of nature:"
+        },
+        {
+          "t": "q",
+          "x": "\"For he is by nature a slave who is capable of belonging to another （and that is why he does so belong）, and who participates in reason so far as to apprehend it but not to possess it; for the animals other than man are subservient not to reason, by apprehending it, but to feelings.\" ([Aristotle, Politics 1.1254b, Rackham translation](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D1%3Asection%3D1254b))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The same work treats the acquiring as legitimate: \"The science of acquiring slaves is different both from their ownership and their direction—that is, the just acquiring of slaves, which is akin to the art of war or that of the chase\" ([Aristotle, Politics 1.1255b](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D1%3Asection%3D1255b)), and grounds it in nature: \"this warfare is by nature just. One kind of acquisition therefore in the order of nature is a part of the household art\" ([Aristotle, Politics 1.1256b](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D1%3Asection%3D1256b))."
+        },
+        {
+          "t": "p",
+          "x": "The Buddhist text prohibits the buying and selling of human beings. The Politics passages defend the owning, acquiring and directing of them. These are different practices, and the passages alone do not establish a direct disagreement about trading people: the sutta says nothing about holding, and the Politics never evaluates the trade. What the two texts do give a reader is the same underlying question from opposite sides, whether a human being may be an item of economic life at all, and two answers that do not meet. I lean toward the Buddhist side of that question, and I state the limit of the comparison rather than manufacture a cleaner one."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying on this theme is the drift into work that is only endured: the trade chosen for its wage and never revisited, the burnout read as a personal failing rather than a failed exchange, the rest postponed until it collapses into illness, and the having-mode relation to work in which the job is a possession to be guarded rather than a use of the person's faculties. The adaptive direction is the periodic revisiting of the livelihood against the floor and the growth standard: does the trade do harm, and does the work still grow the person doing it, with rest kept inside the rhythm rather than deferred."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The practices I have selected as sources of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[B025 — Practice right livelihood](card:B025%20%E2%80%94%20Practice%20right%20livelihood): run the floor check before the next job decision, the trade in weapons, poisons, intoxicants or exploitation ruled out and the work aligned with the values you hold. Notice whether the check has ever changed a decision, or whether it only confirms choices already made."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[B152 — Align your work with your values (right livelihood, revisited)](card:B152%20%E2%80%94%20Align%20your%20work%20with%20your%20values%20%28right%20livelihood%2C%20revisited%29): repeat the alignment as its own pass, since the list does not choose among the permitted livelihoods. Notice what the revisiting turns up that the first choice did not consider."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[K149 — Values clarification](card:K149%20%E2%80%94%20Values%20clarification): write the answer to what you want your life to stand for in three to five domains, values as directions rather than goals, in the Valued Living Questionnaire tradition. Notice which domain the working life touches least."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[K320 — Values coherence check](card:K320%20%E2%80%94%20Values%20coherence%20check): monthly, read the calendar against the stated values. Notice where the way time is spent contradicts the priorities said out loud, and take one item from that list into the next month."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[K200 — Rest as practice](card:K200%20%E2%80%94%20Rest%20as%20practice): schedule one deliberate do-nothing period daily, ten minutes, guilt-free, rest as the root of activity rather than its absence. Notice what the first days of it show about how much rest was actually being taken."
+        },
+        {
+          "t": "n",
+          "i": 6,
+          "x": "[A111 — Practise leisure (scholē) as the end of work](card:A111%20%E2%80%94%20Practise%20leisure%20%28schol%C4%93%29%20as%20the%20end%20of%20work): treat leisure as the end work serves, schole, the condition of contemplation. Notice whether the leisure is entered on its own terms or used as another place to be productive."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them. A reader who keeps the floor check, or the revisiting habit, or the recovery discipline has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The question of a livelihood becomes concrete when a whole working life is in view: a career left on principle, a trade redesigned, a price refused, a rhythm corrected."
+        },
+        {
+          "t": "h2",
+          "x": "Work that is one with the life"
+        },
+        {
+          "t": "p",
+          "x": "[ST432 — Jim Forest Washes the Dishes](card:ST432%20%E2%80%94%20Jim%20Forest%20Washes%20the%20Dishes): the peace activist offers to wash the dishes and Thich Nhat Hanh answers that there are two ways to wash them, to have clean dishes and to wash the dishes; hurrying to get them out of the way is the failure of the first, being incapable of the miracle of life while standing at the sink."
+        },
+        {
+          "t": "p",
+          "x": "[ST008 — Siddhartha Learns from the River](card:ST008%20%E2%80%94%20Siddhartha%20Learns%20from%20the%20River): having tried asceticism, pleasure and worldly success, Siddhartha lives beside the river with the ferryman Vasudeva, and the lesson is not a doctrine but a way of hearing the river's many voices."
+        },
+        {
+          "t": "h2",
+          "x": "The livelihood redesigned"
+        },
+        {
+          "t": "p",
+          "x": "[ST340 — Fukuoka Learns to Do Nothing](card:ST340%20%E2%80%94%20Fukuoka%20Learns%20to%20Do%20Nothing): the customs-office microbiologist's hospital stay with pneumonia in 1937 changes his view of his own profession; he resigns his research post and returns to the family farm with a question: what happens if you stop?"
+        },
+        {
+          "t": "p",
+          "x": "[ST313 — Jane Goodall's Two Careers](card:ST313%20%E2%80%94%20Jane%20Goodall%27s%20Two%20Careers): arriving at Gombe in 1960 with no formal training, her discoveries redefine the boundary between human and animal; in 1986, seeing the scale of the destruction, she leaves fieldwork permanently and becomes an activist who travels roughly 300 days a year."
+        },
+        {
+          "t": "h2",
+          "x": "The price refused"
+        },
+        {
+          "t": "p",
+          "x": "[ST290 — Job and the Whirlwind](card:ST290%20%E2%80%94%20Job%20and%20the%20Whirlwind): Job, righteous and prosperous, suffers catastrophe after catastrophe; his three friends explain at length that his suffering is a punishment for his sin; God answers from the whirlwind with a speech that is questions, and the friends are rebuked for not speaking of God what is right."
+        },
+        {
+          "t": "p",
+          "x": "[ST064 — The Lute String](card:ST064%20%E2%80%94%20The%20Lute%20String): Soṇa strains so hard in meditation that he considers giving up; the Buddha asks the former lute player whether strings sound best too tight or too slack, and says the energy is the same."
+        }
+      ],
+      "group": "eightfold-path",
+      "status": "published",
+      "art": "assets/dossier-art/right-livelihood.jpg"
+    },
+    {
+      "id": "creation",
+      "title": "Creation",
+      "question": "Why does making things (objects, connections, children, a life) feel like it means something, and what kind of meaning is that?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A life spends itself making things: meals, sentences, friendships, children, institutions, a character. I find the question surfacing on ordinary days: why does an afternoon spent making something feel like it counts, when the thing itself is often small and temporary?"
+        },
+        {
+          "t": "p",
+          "x": "Frankl lists creating a work or doing a deed alongside experiencing something or encountering someone, and the attitude taken toward unavoidable suffering, as the three ways a life finds meaning."
+        },
+        {
+          "t": "p",
+          "x": "The other accounts spread the emphasis wider. Bergson reads joy itself as the sign that creation has happened. Arendt gives the maker a world to erect. This page follows each emphasis where it leads, and underneath each runs the same question: whether the meaning is found or conferred, and where it lands when the thing is made."
+        },
+        {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "The family around creation overlaps easily, so I keep apart what can be kept apart:"
+        },
+        {
+          "t": "p",
+          "x": "Creativity: the capacity to produce work that is both novel and appropriate, with its measurement debates and its psychology. The capacity is a different thing from what making means for a life, and the capacity has its own dossier."
+        },
+        {
+          "t": "p",
+          "x": "Generativity: Erikson's name for the adult concern for guiding and providing for the next generation, set against stagnation. The nearest research neighbour to creating children and legacies."
+        },
+        {
+          "t": "p",
+          "x": "Procreation: the nearest things to it in this material are generativity's concern for future generations and Bergson's mother beholding her child in the joy passage below."
+        },
+        {
+          "t": "p",
+          "x": "Meaning-making: Park's process tradition on how people reinterpret events that violate their wants and beliefs, and Ricoeur's narrative work on composing a life."
+        },
+        {
+          "t": "h",
+          "x": "Making as a route to meaning"
+        },
+        {
+          "t": "p",
+          "x": "Frankl's logotherapy puts creating a work or doing a deed first among the three routes to meaning:"
+        },
+        {
+          "t": "q",
+          "x": "\"According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering.\" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Frankl's own name for that first route is [Creative values](card:Creative%20values): what a person gives to the world through a work or a deed. The [will to meaning](card:The%20will%20to%20meaning) behind the route is his primary motivational force, built against Freud's pleasure principle and Adler's striving for superiority: the striving to find meaning, not to restore equilibrium."
+        },
+        {
+          "t": "p",
+          "x": "The clinical descendant is [Meaning-centred therapy](card:Meaning-centred%20therapy), Breitbart's short-term treatment for people with advanced cancer, and [E062 — Practise meaning through creative work](card:E062%20%E2%80%94%20Practise%20meaning%20through%20creative%20work) carries the route into work as an ongoing contribution to others, with what calling research says about how people get drawn into it."
+        },
+        {
+          "t": "p",
+          "x": "Is there evidence that making does anything for the maker? The diary study asks the question empirically. [Everyday creative activities](card:Everyday%20creative%20activities) and [Creative activities](card:Creative%20activities) report Conner, DeYoung and Silvia's 13-day diary study of 658 young adults, which asked how reported creative activity related to the following day's positive affect and flourishing, and words the association carefully:"
+        },
+        {
+          "t": "q",
+          "x": "\"Lagged multilevel models revealed that people felt higher activated PA and flourishing following days when they reported more creative activity than usual. The other direction – PA predicting next-day creative activity – was not supported, suggesting that the cross-day effect was specific to creative activity predicting well-being.\" ([Conner, DeYoung and Silvia 2018, abstract](https://doi.org/10.1080/17439760.2016.1257049))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[BE059 — Engage in creative behaviour — making is well-being](card:BE059%20%E2%80%94%20Engage%20in%20creative%20behaviour%20%E2%80%94%20making%20is%20well-being) carries the finding into practice, with the study's own limits stated on it. The boundary of the route matters too: [Meaning-making](card:Meaning-making) and [Narrative as meaning-making](card:Narrative%20as%20meaning-making) hold Park's process tradition revising the meaning of events and Ricoeur's narrative work composing a life out of them, where Frankl's route is about giving something to the world."
+        },
+        {
+          "t": "h",
+          "x": "The making that life is"
+        },
+        {
+          "t": "p",
+          "x": "The metaphysical accounts read the making outward, onto life itself. [Creative advance](card:Creative%20advance) is Whitehead's name for the universe's ongoing production of novelty, the becoming by which the many become one and are thereby increased by one. His [P006 — Creativity is the ultimate principle](card:P006%20%E2%80%94%20Creativity%20is%20the%20ultimate%20principle) states the category at full strength:"
+        },
+        {
+          "t": "q",
+          "x": "\"'Creativity' is the universal of universals characterizing ultimate matter of fact. It is that ultimate principle by which the many, which are the universe disjunctively, become the one actual occasion, which is the universe conjunctively.\" ([Whitehead, Process and Reality, quoted in the Garland Encyclopedia of Whiteheadian Thought](https://encyclopedia.whiteheadresearch.org/entries/thematic/metaphysics/the-mystery-of-creativity/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Bergson's [Creative evolution](card:Creative%20evolution) makes life itself genuinely new, carried by the élan vital, a shared thrust. Mechanism and finalism both make real creation impossible — mechanism reads an impulse of thought backward into inherited suppositions, finalism assumes a conceptual arrangement of means to ends — and both, he says, fail for the same reason."
+        },
+        {
+          "t": "p",
+          "x": "And the making runs both ways: life makes, and the making remakes the maker. Bergson's [P102 — Trust the creative thrust of life](card:P102%20%E2%80%94%20Trust%20the%20creative%20thrust%20of%20life) says it in a sentence:"
+        },
+        {
+          "t": "q",
+          "x": "\"It is then right to say that what we do depends on what we are; but it is necessary to add also that we are, to a certain extent, what we do, and that we are creating ourselves continually.\" ([Bergson, Creative Evolution, ch. 1, Mitchell trans., Project Gutenberg](https://www.gutenberg.org/files/26163/26163-h/26163-h.htm))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Creative selection](card:Creative%20selection) compresses the same point: for a conscious being, to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly. Dewey's [Creative impulse](card:Creative%20impulse) follows the idea rather than the self: a raw germ, given shape through emotion, then needing arduous formative work before it becomes art."
+        },
+        {
+          "t": "p",
+          "x": "Bergson gives the making its felt signature. Joy, on his account, announces that life has succeeded, and [P191 — Joy is the felt signature of creation; distinct from pleasure](card:P191%20%E2%80%94%20Joy%20is%20the%20felt%20signature%20of%20creation%3B%20distinct%20from%20pleasure) keeps the signature distinct from pleasure. His [P195 — Creative emotion (émotion créatrice) is generative of thought, not a byproduct of it](card:P195%20%E2%80%94%20Creative%20emotion%20%28%C3%A9motion%20cr%C3%A9atrice%29%20is%20generative%20of%20thought%2C%20not%20a%20byproduct%20of%20it) goes further: an emotion that generates representations rather than only following them, the musician's emotion giving rise to the symphony and its score."
+        },
+        {
+          "t": "p",
+          "x": "The Nahua [Flower and song](card:Flower%20and%20song) — the difrasismo in xochitl in cuicatl — puts art and metaphor as the world's own activity, on a metaphysics in which the cosmos is the ongoing self-expression of teotl, nature and art the same activity. One entry marks the boundary of the person-level claim: [Creative destruction](card:Creative%20destruction) is Schumpeter's term for capitalism renewing itself by displacing the old from within — renewal that destroys, and the creation there is the system's, not the person's."
+        },
+        {
+          "t": "h",
+          "x": "The maker and the made world"
+        },
+        {
+          "t": "p",
+          "x": "Arendt gives the maker a world. Where the laborer tends the cycle of life, [Homo faber — man the maker](card:Homo%20faber%20%E2%80%94%20man%20the%20maker) invents tools and implements in order to erect one:"
+        },
+        {
+          "t": "q",
+          "x": "\"homo faber, the toolmaker, invented tools and implements in order to erect a world, not—at least, not primarily—to help the human life process. The question therefore is not so much whether we are the masters or the slaves of our machines, but whether machines still serve the world and its things, or if, on the contrary, they and the automatic motion of their processes have begun to rule and even destroy world and things.\" ([Arendt, The Human Condition, excerpt](https://kortina.nyc/notes/the-human-condition/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Vico's [Verum factum](card:Verum%20factum) makes the knowledge claim: the true and the made are one, verum et factum convertuntur — we know the human world fully because we made it, and the mind does not make itself as it gets to know itself. The [pontifex, bridge-maker](card:The%20pontifex%2C%20bridge-maker) holds the sociology of mediation: the Roman high priest's title, pons plus facere, the one who makes the bridge between the community and the gods, connection as something built with a social status to go with it — though ancient scholars contested the etymology from the start."
+        },
+        {
+          "t": "p",
+          "x": "Connection between people can be made too: [Micro-moments of connection](card:Micro-moments%20of%20connection) is Fredrickson's account of positivity resonance, shared positive emotions, biobehavioral synchrony and mutual care, swelling and subsiding in moments."
+        },
+        {
+          "t": "p",
+          "x": "Making connections between ideas is a different use of the term, and the sources for it are different. On [Conceptual metaphor theory](card:Conceptual%20metaphor%20theory%20Lakoff%20Johnson), metaphor structures one domain through another, love spoken of in terms of travel, time in terms of space, importance in terms of weight, with systematic correspondences rather than stray figures of speech. And [Insight research](card:Insight%20research) adds the sudden-comprehension mode: Kounios and Beeman define insight as a sudden reinterpretation that produces a nonobvious, nondominant reading of a stimulus, situation or event, counting comprehension of a joke or metaphor among its forms."
+        },
+        {
+          "t": "p",
+          "x": "The Stoic [interconnected good](card:The%20interconnected%20good) is the boundary to this cluster: Marcus Aurelius's sympatheia holds that all things are implicated with one another and the bond is holy — a connection the world already has rather than one a person makes."
+        },
+        {
+          "t": "p",
+          "x": "Nietzsche's maker makes values: [Value creation](card:Value%20creation) is his account of valuing as creating, in the Common translation:"
+        },
+        {
+          "t": "q",
+          "x": "\"Values did man only assign to things in order to maintain himself—he created only the significance of things, a human significance!\" ([Nietzsche, Thus Spake Zarathustra, \"The Thousand and One Goals\"](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[E107 — Practise the creation of values](card:E107%20%E2%80%94%20Practise%20the%20creation%20of%20values) carries it into practice: a value was once given and bestowed, and it was we who gave and bestowed it, with the demand to become what we are, making laws for ourselves and creating ourselves."
+        },
+        {
+          "t": "p",
+          "x": "Aristotle gives the maker's competence its shape: [A035 — Cultivate art and craft (techne)](card:A035%20%E2%80%94%20Cultivate%20art%20and%20craft%20%28techne%29) is techne, a rational quality concerned with making that reasons truly; the maker knows why the method works, so the method can be varied, repaired and taught. Sennett's line of work, on [Craftsmanship research](card:Craftsmanship%20research) and [PP022 — Pursue craftsmanship](card:PP022%20%E2%80%94%20Pursue%20craftsmanship), gives the impulse its charter definition:"
+        },
+        {
+          "t": "q",
+          "x": "\"Craftsmanship names an enduring, basic human impulse, the desire to do a job well for its own sake.\" ([Sennett 2008, quoted in Jones et al. 2021](https://www.tandfonline.com/doi/full/10.1080/13549839.2021.1939289))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Sennett extends the impulse well past skilled manual labour, to programming, medicine and parenting, and holds that in all these domains craftsmanship focuses on objective standards, on the thing itself. I group Zhuangzi's [quiet craftsman's life](card:The%20quiet%20craftsman%27s%20life) — Qing's bell-stands look like the work of spirits because his fasting loses thought of reward by the third day, praise by the fifth, and his own body by the seventh — with Weil's [craft of attention](card:The%20craft%20of%20attention), attention as the trained suspension of one's own thought so the thing or person in front of one can appear, as an editorial comparison: kindred focus, contemplative registers."
+        },
+        {
+          "t": "p",
+          "x": "Marx's account of making under the wage relation runs against that charter definition, and the pair belongs together as a comparison rather than a disagreement, because the two describe different conditions: on Sennett's account the desire to do a job well belongs to the maker; on Marx's, labour under another's command does not belong to the worker's intrinsic nature, and the thing made stands over against the one who made it:"
+        },
+        {
+          "t": "q",
+          "x": "\"The worker becomes all the poorer the more wealth he produces, the more his production increases in power and size.\"",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": ">"
+        },
+        {
+          "t": "q",
+          "x": "\"This fact expresses merely that the object which labor produces – labor's product – confronts it as something alien, as a power independent of the producer.\" ([Marx, Estranged Labour, 1844](https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The two can both be true: the impulse can be enduring and the conditions estranging, and the passages do not say how much making under command estranges its maker, or only some."
+        },
+        {
+          "t": "h",
+          "x": "What outlasts the maker"
+        },
+        {
+          "t": "p",
+          "x": "Erikson's generativity — the adult concern for guiding and providing for the next generation, set against stagnation — became a measurable research programme. [Generativity theory](card:Generativity%20theory) records the arrangement:"
+        },
+        {
+          "t": "q",
+          "x": "\"McAdams and de St. Aubin's approach described generativity as an arrangement of seven empirically grounded facets including desire, cultural demand, concern, belief, commitment, action, and narration ( McAdams & de St. Aubin, 1992 ; McAdams, Hart, & Maruna, 2004). Accordingly, cultural demand in combination with inner desire (for agentic immortality and communal nurturance) fosters a conscious concern for future generations. Concern for future generations is strengthened by a belief in the goodness of humankind.\" ([Rubinstein et al. 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4542587/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Legacy motivation research](card:Legacy%20motivation%20research) picks the concern up as a motive measurable in the lab: Fox, Tost and Wade-Benzoni on the legacy motive as a link between life-meaning and prosocial motivation, developed from intergenerational decision making, generativity and terror management theory, and measured by what participants endorse across a list of ends beyond themselves."
+        },
+        {
+          "t": "p",
+          "x": "The practices are concrete. [K224 — Legacy letter](card:K224%20%E2%80%94%20Legacy%20letter) is the letter to be read after your death, to one named person, covering what you learned, what you love and what you left unfinished; the value is in the writing. [K225 — Service and creation](card:K225%20%E2%80%94%20Service%20and%20creation) is the weekly kernel: one act of service or creation that outlasts the week, with the test of whether a trace of it will still exist next month."
+        },
+        {
+          "t": "h",
+          "x": "Making as identity"
+        },
+        {
+          "t": "p",
+          "x": "Whether a person sees themselves as a maker is itself studied. [Creative identity](card:Creative%20identity) is Beghetto's line of work on seeing oneself as someone who makes things, with what the 2006 study of two middle schools actually measured: creative self-efficacy, self-judgments of creative ability. [Creative self-efficacy](card:Creative%20self-efficacy) is Tierney and Farmer's construct, extended from Bandura's self-efficacy to creative work: the belief that one can produce creative outcomes."
+        },
+        {
+          "t": "p",
+          "x": "Nietzsche's [creative life](card:The%20creative%20life) is a mode of existence rather than a career: one must still have chaos in oneself to give birth to a dancing star, and the spirit's three metamorphoses end in the child, \"a new beginning, a game, a self-rolling wheel, a first movement, a holy Yea.\" ([Thus Spake Zarathustra, Common trans.](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)) Kant's [dignity of self-expression](card:The%20dignity%20of%20self-expression) gives the identity its moral floor: saying what one needs and where one stands treats the speaker as an end, not a mere means; whatever has value can be replaced, and what is above value has dignity."
+        },
+        {
+          "t": "p",
+          "x": "Maslow's [P114 — Create as growth — creation is the evidence of growth](card:P114%20%E2%80%94%20Create%20as%20growth%20%E2%80%94%20creation%20is%20the%20evidence%20of%20growth) reads creativeness as an open, spontaneous way of approaching ordinary activities, with his own caution that producing something does not by itself prove psychological health. And [P149 — Use instability creatively](card:P149%20%E2%80%94%20Use%20instability%20creatively) records Prigogine's non-equilibrium systems, where order can arise away from equilibrium; the card is careful that the physical account does not establish that a personal crisis produces growth, and I borrow its question, not a law of recovery: when an arrangement has broken down, what could be reorganized, and what support would that require?"
+        },
+        {
+          "t": "h",
+          "x": "Where the meaning of making lands"
+        },
+        {
+          "t": "p",
+          "x": "When a person makes something, the sources put the meaning in three different places, and they do not rank them."
+        },
+        {
+          "t": "p",
+          "x": "On the work and the ones who receive it: Frankl's creative values route puts the meaning in what the work gives, and the generativity researchers put the adult's concern in guiding and contributing to the welfare of the next generation. The legacy researchers ask people to weigh ends that reach beyond their own lifetime."
+        },
+        {
+          "t": "p",
+          "x": "On the maker: Bergson's joy passages:"
+        },
+        {
+          "t": "q",
+          "x": "\"Pleasure is only a contrivance devised by nature to obtain for the creature the preservation of its life, it does not indicate the direction in which life is thrusting. But joy always announces that life has succeeded, gained ground, conquered.\" ([Bergson, \"Life and Consciousness\"](https://www.anthologialitt.com/post/henri-bergson-life-and-consciousness))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"wherever there is joy, there is creation; the richer the creation, the deeper the joy. The mother beholding her child is joyous, because she is conscious of having created it, physically and morally.\" ([Bergson, \"Life and Consciousness\"](https://www.anthologialitt.com/post/henri-bergson-life-and-consciousness))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The diary study found a lagged association: days with more reported creative activity than usual were followed by higher activated positive affect and flourishing, the reverse was not supported, and the observational design does not establish causation. And on Bergson's account the making changes the maker: \"we are, to a certain extent, what we do, and that we are creating ourselves continually.\" ([Bergson, Creative Evolution, ch. 1, Mitchell trans., Project Gutenberg](https://www.gutenberg.org/files/26163/26163-h/26163-h.htm))"
+        },
+        {
+          "t": "p",
+          "x": "Maslow and Frankl give the maker's fulfilment different directions. Maslow, naming the need he called self-actualization in 1943, gives the maker's own completion as the stake — \"A musician must make music, an artist must paint, a poet must write, if he is to be ultimately happy. What a man can be, he must be.\" ([Maslow, \"A Theory of Human Motivation\", 1943](https://psychclassics.yorku.ca/Maslow/motivation.htm))"
+        },
+        {
+          "t": "p",
+          "x": "Frankl reads the attainment differently — \"In other words, self-actualization is possible only as a side-effect of self-transcendence.\" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)) An artist could need to paint, as Maslow says, while finding the fulfilment Frankl describes, by attending to the work rather than the self; Maslow's own satisfaction condition, doing what one is fitted for, already puts the work in the foreground. I read the two as different angles on one restlessness, and the sources do not settle it."
+        },
+        {
+          "t": "p",
+          "x": "Freud and Frankl read the maker's motive differently. Freud, in his 1908 essay on creative writers and day-dreaming, explains how a writer's wishes can take literary form — \"The motive forces of phantasies are unsatisfied wishes, and every single phantasy is the fulfilment of a wish, a correction of unsatisfying reality.\" — and the work itself, he says, runs from \"a wish which finds its fulfilment in the creative work\" ([Freud, \"Creative Writers and Day-Dreaming\", 1908](https://archive.org/download/the-adolescent-fyodor-dostoevsky-novel/Creative%20Writers%20and%20Daydreaming%20%28Sigmund%20Freud%20Essay%29.pdf)). The account reaches the reader's side too: the pleasure the work affords is, on his account, a fore-pleasure, and \"our actual enjoyment of an imaginative work proceeds from a liberation of tensions in our minds.\" ([Freud, \"Creative Writers and Day-Dreaming\", 1908](https://archive.org/download/the-adolescent-fyodor-dostoevsky-novel/Creative%20Writers%20and%20Daydreaming%20%28Sigmund%20Freud%20Essay%29.pdf))"
+        },
+        {
+          "t": "p",
+          "x": "Frankl rejects reducing the search for meaning to instinctual drives: \"Man's search for meaning is the primary motivation in his life and not a 'secondary rationalization' of instinctual drives.\" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))"
+        },
+        {
+          "t": "p",
+          "x": "These claims need not conflict: a work could fulfil a wish and still answer a meaning beyond its author. Freud offers the wish formula as a first approach — the essay says so itself — and gives the account for the day-dream-like work. I find Frankl's emphasis the more useful one when deciding what to make, and that preference is mine; it does not show Freud's account of wish-fulfilment false. The sources do not settle how much of any maker's work is one or the other."
+        },
+        {
+          "t": "p",
+          "x": "On the work itself: Sennett's craftsman wants to do a job well for its own sake, with objective standards, on the thing itself. Zhuangzi's bell-stand maker loses thought of reward and praise before he touches the tree. Arendt's homo faber erects a world and asks whether the machines still serve it."
+        },
+        {
+          "t": "p",
+          "x": "Arendt and Bergson differ in what they watch making for: Arendt's toolmaker \"invented tools and implements in order to erect a world, not—at least, not primarily—to help the human life process\" ([Arendt, The Human Condition, excerpt](https://kortina.nyc/notes/the-human-condition/)), while Bergson's creation runs on the vital side of that line — joy \"always announces that life has succeeded, gained ground, conquered\", and his example of a creator is the mother beholding her child ([Bergson, Life and Consciousness](https://www.anthologialitt.com/post/henri-bergson-life-and-consciousness))."
+        },
+        {
+          "t": "p",
+          "x": "The two lives named here are not the same thing — Arendt's life process is the biological cycle of labour, Bergson's life is the creative thrust — and neither passage denies what the other affirms. I read it as a difference of emphasis about the same making: the thing may serve a durable world and still be, for the maker, one more form that life takes."
+        },
+        {
+          "t": "p",
+          "x": "Can these aims conflict, and what should take priority if they do? The passages quoted here do not settle it."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Is the meaning of a life discovered or conferred?"
+        },
+        {
+          "t": "p",
+          "x": "A tension runs through the sources, and it bears on making: when a maker finds meaning in the making, is the meaning something a person discovers, or something they confer?"
+        },
+        {
+          "t": "p",
+          "x": "Frankl locates meaning beyond the self, as something to discover and fulfil. The sentence that precedes the three routes in the book: \"the true meaning of life is to be discovered in the world rather than within man or his own psyche, as though it were a closed system\" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))."
+        },
+        {
+          "t": "p",
+          "x": "Sartre gives the conferred answer, in two sentences of the same lecture:"
+        },
+        {
+          "t": "q",
+          "x": "\"Man is nothing else but that which he makes of himself.\"",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": ">"
+        },
+        {
+          "t": "q",
+          "x": "\"to say that we invent values means neither more nor less than this; that there is no sense in life a priori. Life is nothing until it is lived; but it is yours to make sense of, and the value of it is nothing else but the sense that you choose.\" ([Sartre, Existentialism is a Humanism, 1946](https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "On the question whether the meaning of a life is discovered or conferred, the two answers are incompatible. Frankl presents the meaning of a life as something to discover in the world. Sartre explicitly denies sense in life a priori and says its value is the sense one chooses. The disagreement concerns whether life's meaning is discovered or conferred; these passages do not decide between the accounts."
+        },
+        {
+          "t": "p",
+          "x": "Nietzsche had said created, about things rather than about the self. The significance of things is human, assigned, and nothing carries it until a valuer assigns it:"
+        },
+        {
+          "t": "q",
+          "x": "\"Values did man only assign to things in order to maintain himself—he created only the significance of things, a human significance!\" ([Nietzsche, Thus Spake Zarathustra, \"The Thousand and One Goals\"](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"Valuing is creating: hear it, ye creating ones!\" ([Nietzsche, Thus Spake Zarathustra](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Nietzsche's claim is narrower than Sartre's: he speaks of the significance of things, not of the sense of a life, so Frankl's discovered meaning and Nietzsche's conferred significance can both hold. That reading is mine; the sources do not make it. The Sartre passage above is the demonstrated disagreement on this page: it and Frankl answer the same question with incompatible answers."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying on this theme is the direction of the energy: consuming without contributing, waiting to feel like making before making, making only for display, or treating the finished thing as the only point, so that the maker is left out of the account. The adaptive direction is making that is small, regular, connected to someone beyond the maker, and allowed to be imperfect."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels I have selected as sources of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[K324 — Constraint-based creation](card:K324%20%E2%80%94%20Constraint-based%20creation): choose a creative task and impose a constraint, 100 words, one colour, three ingredients, one hour. What to notice: whether the constrained version produces more ideas, or better ones, than the free version. In the rhyme experiments, constrained versions were rated more creative, and the Dr. Seuss wager shows a constraint doing generative work. The findings are task-specific; the kernel does not claim every constraint helps every task."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[K225 — Service and creation](card:K225%20%E2%80%94%20Service%20and%20creation): one act of service or creation a week that outlasts the week, with the trace-next-month test. What to notice: whether the trace test changes what you choose to make. The weekly cadence and the test are the practice's own prompts, not a tested intervention schedule; the research tradition behind it is generativity."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[K224 — Legacy letter](card:K224%20%E2%80%94%20Legacy%20letter): write the letter to be read after your death, to one named person, covering what you learned, what you love and what you left unfinished. What to notice: which unfinished thing the letter asks to be finished. The value is in the writing; the life-review literature behind it studied reminiscence, ego integrity and life satisfaction in older adults, and the letter format itself is editorial."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them. The constraint someone keeps using, the weekly act that survives its month, the letter that gets reread: what stays is a matter of fit between the practice and the life it enters."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "Making as forgetting oneself"
+        },
+        {
+          "t": "p",
+          "x": "[ST026 — Woodcarver Qing Makes a Bell-Stand](card:ST026%20%E2%80%94%20Woodcarver%20Qing%20Makes%20a%20Bell-Stand): asked how his bell-stands look like the work of spirits, Qing describes a fasting that loses thought of reward by the third day, praise by the fifth, and his own body by the seventh; only then does he enter the mountain forest, where the right tree already holds the finished stand."
+        },
+        {
+          "t": "h2",
+          "x": "Making under constraint, for a village"
+        },
+        {
+          "t": "p",
+          "x": "[ST247 — William Kamkwamba Builds the Windmill](card:ST247%20%E2%80%94%20William%20Kamkwamba%20Builds%20the%20Windmill): forced out of school by the 2001 Malawi famine, a 14-year-old finds a library book about energy and builds a windmill from village junkyard parts, a bicycle dynamo, a tractor fan and blue-gum poles, that first powers lights and later a water pump."
+        },
+        {
+          "t": "h2",
+          "x": "A lifetime of making for the work"
+        },
+        {
+          "t": "p",
+          "x": "[ST309 — Jiro Makes Sushi](card:ST309%20%E2%80%94%20Jiro%20Makes%20Sushi): Jiro Ono, 85, makes sushi in a ten-seat Tokyo subway restaurant with three Michelin stars, doing the same thing over and over, improving bit by bit; his son Yoshikazu, 50, has spent a lifetime preparing to take it over and still has not."
+        },
+        {
+          "t": "h2",
+          "x": "Deciding for the not-yet-born"
+        },
+        {
+          "t": "p",
+          "x": "[ST256 — The Seventh Generation](card:ST256%20%E2%80%94%20The%20Seventh%20Generation): the Haudenosaunee Great Law instructs the confederacy's lords to weigh every deliberation on the seventh generation to come, extending the web of affected people through time and not only through space."
+        },
+        {
+          "t": "h2",
+          "x": "Making a teacher out of a connection"
+        },
+        {
+          "t": "p",
+          "x": "[ST456 — Salzberg, Goldstein, and Kornfield Make One Teacher](card:ST456%20%E2%80%94%20Salzberg%2C%20Goldstein%2C%20and%20Kornfield%20Make%20One%20Teacher): Salzberg, Goldstein and Kornfield met at Naropa in 1974 and founded the Insight Meditation Society in 1976; they describe their three-way teaching as balancing each other's differences so that the three of them make one teacher."
+        }
+      ],
+      "group": "flourishing",
+      "status": "published",
+      "art": "assets/dossier-art/creation.jpg"
+    },
+    {
+      "id": "creativity",
+      "title": "Creativity",
+      "question": "Where does the new come from, and can a person get better at producing it?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "When I call an idea creative, I want to know two things about it: what is new in it, and what makes it work for its purpose. The field's working definition joins those requirements. A product or an idea is creative when it is both novel and appropriate:"
+        },
+        {
+          "t": "q",
+          "x": "\"Creativity: the generation of products or ideas that are both novel and appropriate\" ([Hennessey and Amabile 2010, p. 570](https://site.caes.uga.edu/sandlin/files/2023/10/Hennessey-Amabile-2010.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Novelty alone is easy: a random string of syllables has never been said before. Appropriateness alone is easier still: the familiar answer fits. The creative product holds the two together, and the difficult case sits right at their join. An idea that changes only its maker's understanding is new to that person and to no one else. Must anyone else recognize it before it counts?"
+        },
+        {
+          "t": "p",
+          "x": "Psychology arrived here late. Guilford's 1950 presidential address to the American Psychological Association opened the subject this way:"
+        },
+        {
+          "t": "q",
+          "x": "\"The neglect of this subject by psychologists is appalling.\" ([Guilford 1950](https://creativityinmusiced.weebly.com/uploads/2/3/8/5/23859476/guilford-1950-creativity.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "His evidence: of approximately 121,000 titles listed in the previous 23 years of Psychological Abstracts, only 186 were indexed as bearing on creativity ([Guilford 1950](https://creativityinmusiced.weebly.com/uploads/2/3/8/5/23859476/guilford-1950-creativity.pdf)). Between that address and the four-C model, the diary studies and the incubation experiments stands the field he asked for."
+        },
+        {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "Divergent thinking: the generation mode, producing many ideas quickly. It is one part of the process, not the whole capacity, and its tests are contested."
+        },
+        {
+          "t": "p",
+          "x": "Imagination: the wider faculty of representing what is not present. The Stanford Encyclopedia opens its entry with a definition that turns on what imagination is not: \"To imagine is to represent without aiming at things as they actually, presently, and subjectively are. One can use imagination to represent possibilities other than the actual, to represent times other than the present, and to represent perspectives other than one's own\" ([Munro, Liao and Gendler, SEP](https://plato.stanford.edu/entries/imagination/)). Creativity uses imagination without being reducible to it."
+        },
+        {
+          "t": "p",
+          "x": "Insight: the sudden-reinterpretation mode of solving, one route by which the new arrives."
+        },
+        {
+          "t": "p",
+          "x": "Creation: the meaning-in-life theme of making. I distinguish the capacity to devise something new from the question of what making contributes to a life; [Creative values](card:Creative%20values) names Frankl's term for what a person gives to the world through a work or a deed."
+        },
+        {
+          "t": "p",
+          "x": "Flow: the absorption creative work can induce; a frequent companion of making, not the same thing as it."
+        },
+        {
+          "t": "h",
+          "x": "What gets to count as creative"
+        },
+        {
+          "t": "p",
+          "x": "The question of scope has a working answer: the four-C model. [Kaufman and Beghetto's levels](card:Four-C%20model%20of%20creativity) run from mini-c, \"the 'novel and personally meaningful interpretation of experiences, actions, and events'\", through little-c, the everyday creativity of a gardener or a problem-solver at work, up to Pro-c, the developed professional, and Big-C, the discipline-changing work ([Cambridge International chapter](https://www.cambridgeinternational.org/Images/426483-chapter-4-innovation-and-creativity.pdf)). Big-C is \"reserved to describe the work of an elite few who have transformed their discipline\", and the chapter is blunt that it is out of reach of most of us ([Cambridge International chapter](https://www.cambridgeinternational.org/Images/426483-chapter-4-innovation-and-creativity.pdf))."
+        },
+        {
+          "t": "p",
+          "x": "The lower levels are not consolation prizes. Vygotsky, quoted in the same chapter, drew the line generously: \"Any human act that gives rise to something new is referred to as a creative act, regardless of whether what is constructed is a physical object or some mental or emotional construct that lives within the person who created it and is known only to him\" ([Vygotsky 1967, quoted in the Cambridge chapter](https://www.cambridgeinternational.org/Images/426483-chapter-4-innovation-and-creativity.pdf)). The chapter adds that mini-c \"may not be visible to outsiders and may consist purely of ideas and connections that the learner creates\" ([Cambridge International chapter](https://www.cambridgeinternational.org/Images/426483-chapter-4-innovation-and-creativity.pdf))."
+        },
+        {
+          "t": "p",
+          "x": "There is a counterweight in how research actually scores creative work. The Consensual Assessment Technique has experts rate products, and it enjoys wide use because of the consistently high interrater agreements it reaches ([Hennessey and Amabile 2010, p. 572](https://site.caes.uga.edu/sandlin/files/2023/10/Hennessey-Amabile-2010.pdf)). What an expert panel would agree to call creative and what a learner privately constructs are not the same bar, and the field works with both: the four-C model names the private form real, and the rating methods certify the public one. On [PP051 — Treat creativity as a process, not a trait](card:PP051%20%E2%80%94%20Treat%20creativity%20as%20a%20process%2C%20not%20a%20trait) the question stops being whether I am a creative person and becomes what the next task needs."
+        },
+        {
+          "t": "p",
+          "x": "The everyday level also carries evidence of its own. In a 13-day diary study of 658 young adults:"
+        },
+        {
+          "t": "q",
+          "x": "\"Lagged multilevel models revealed that people felt higher activated PA and flourishing following days when they reported more creative activity than usual. The other direction – PA predicting next-day creative activity – was not supported, suggesting that the cross-day effect was specific to creative activity predicting well-being.\" ([Conner, DeYoung and Silvia 2018](https://www.tandfonline.com/doi/abs/10.1080/17439760.2016.1257049))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The design is observational and does not establish causation, and the unsupported reverse direction concerned positive affect predicting next-day creative activity. [BE059 — Engage in creative behaviour — making is well-being](card:BE059%20%E2%80%94%20Engage%20in%20creative%20behaviour%20%E2%80%94%20making%20is%20well-being) states the study's own limits. The finding concerns everyday creative activity, the study's own term, which is the level the four-C model calls little-c."
+        },
+        {
+          "t": "h",
+          "x": "Where the new idea comes from"
+        },
+        {
+          "t": "p",
+          "x": "The process has two named modes. Divergent thinking is \"spontaneous, free-flowing thinking with the goal of generating many different ideas in a short period\"; convergent thinking is \"more disciplined thinking, focused on narrowing possibilities to a workable solution\" ([Hennessey and Amabile 2010, pp. 573, 579](https://site.caes.uga.edu/sandlin/files/2023/10/Hennessey-Amabile-2010.pdf)). [CO074 — Cultivate creative thinking — divergent and convergent modes](card:CO074%20%E2%80%94%20Cultivate%20creative%20thinking%20%E2%80%94%20divergent%20and%20convergent%20modes) draws the practical consequence: generation and judgment are different jobs, and its exercise is to try them as separate passes."
+        },
+        {
+          "t": "p",
+          "x": "Inside the generative mode there is a signature pattern, the serial order effect:"
+        },
+        {
+          "t": "q",
+          "x": "\"During the course of divergent thinking (DT), the number of generated ideas decreases while the originality of ideas increases.\" ([Wang, Hao, Ku, Grabner and Fink 2017, abstract](https://pubmed.ncbi.nlm.nih.gov/28259772/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "In that alternative-uses task, originality was higher later in the session among participants with stronger shifting ability, and showed no difference for those with weaker shifting ability ([Wang et al. 2017](https://pubmed.ncbi.nlm.nih.gov/28259772/)). The authors suggest that suppressing interference from obvious ideas and switching to new categories may explain why more original ideas appear as time passes, with their wording marked as tentative ([Wang et al. 2017](https://pubmed.ncbi.nlm.nih.gov/28259772/)). [K325 — Divergent-option generation](card:K325%20%E2%80%94%20Divergent-option%20generation) builds its floor of five options on this pattern as a design choice, not as a tested rule about the number five."
+        },
+        {
+          "t": "p",
+          "x": "The new also arrives by a different route, suddenly. Insight is \"when a person suddenly reinterprets a stimulus, situation, or event to produce a nonobvious, nondominant interpretation\", taking the form of a solution, the comprehension of a joke or metaphor, or the recognition of an ambiguous percept ([Kounios and Beeman 2014, abstract](https://pubmed.ncbi.nlm.nih.gov/24405359/)). The same review reports that individual differences in the tendency to solve problems insightfully rather than in a deliberate, analytic fashion are associated with different patterns of resting-state brain activity ([Kounios and Beeman 2014](https://pubmed.ncbi.nlm.nih.gov/24405359/)). [Insight problem-solving](card:Insight%20problem-solving) holds the fuller picture, including the field's own admission that the definition is not settled."
+        },
+        {
+          "t": "p",
+          "x": "Time away from the problem has its own evidence, from a meta-analysis of the incubation literature:"
+        },
+        {
+          "t": "q",
+          "x": "\"The authors identified a positive incubation effect, with divergent thinking tasks benefiting more than linguistic and visual insight tasks from incubation. Longer preparation periods gave a greater incubation effect, whereas filling an incubation period with high cognitive demand tasks gave a smaller incubation effect.\" ([Sio and Ormerod 2009, abstract](https://eric.ed.gov/?id=EJ827110))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Longer effort before the break helped, and a demanding filler shrank the benefit. What the break does inside the head is a separate question, and it is contested."
+        },
+        {
+          "t": "p",
+          "x": "Constraint is the counterintuitive fourth input. [K324 — Constraint-based creation](card:K324%20%E2%80%94%20Constraint-based%20creation) turns it into a practice: choose an avoided task and impose one concrete limit, 100 words, one colour, three ingredients, one hour, and when the pull toward the familiar shows up, treat the constraint as the wall that turns you."
+        },
+        {
+          "t": "p",
+          "x": "The bet has an experimental record. Two experiments found that constraints imposed on a common writing task yielded more creative outputs, and suggested a carryover effect, that mere practice with constraints can stimulate creativity; the model's namesake is Dr. Seuss's bestseller written using only 50 words ([Haught-Tromp 2017](https://www.cct.umb.edu/630/files/HaughtTromp2017-GreenEggsandHam.pdf)). The exercise remains a bet rather than a tested rule for the long project: the studies measured two-line rhymes, and the Dr. Seuss story is an illustration. When starting feels difficult, try one concrete limit and notice whether it gives a useful starting point, and change it if it does not."
+        },
+        {
+          "t": "h",
+          "x": "What the person brings"
+        },
+        {
+          "t": "p",
+          "x": "Is the capacity fixed? The review's summary answer:"
+        },
+        {
+          "t": "q",
+          "x": "\"Although creativity in persons has some trait-like (stable) aspects, it is also a state subject to influence by the social environment.\" ([Hennessey and Amabile 2010, p. 590](https://site.caes.uga.edu/sandlin/files/2023/10/Hennessey-Amabile-2010.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Some of it is stable, and the rest moves with motivation, environment and practised skill. Training is part of the moving part: Scott and colleagues' meta-analysis of seventy prior studies found that carefully constructed creativity training programs typically result in gains in performance, with benefits generalizing across criteria, setting, and target population, and that the more successful programs employed realistic exercises building cognitive skills and heuristics for applying them ([Hennessey and Amabile 2010, p. 577](https://site.caes.uga.edu/sandlin/files/2023/10/Hennessey-Amabile-2010.pdf))."
+        },
+        {
+          "t": "p",
+          "x": "Motivation is another, and it states its principle directly:"
+        },
+        {
+          "t": "q",
+          "x": "\"This is the intrinsic motivation principle of creativity: Intrinsic motivation, defined as the drive to do something for the sheer enjoyment, interest, and personal challenge of the task itself (rather than for some external goal), is conducive to creativity, whereas extrinsic motivation is generally detrimental.\" ([Hennessey and Amabile 2010, p. 581](https://site.caes.uga.edu/sandlin/files/2023/10/Hennessey-Amabile-2010.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The principle reframes a practical question: what arrangement of the work would make it intrinsically interesting to the person doing it? Whether rewards always harm is less settled than the principle sounds."
+        },
+        {
+          "t": "p",
+          "x": "Confidence is a real but slippery input. A meta-analysis of 60 effect sizes from 41 papers found the relation between creative self-efficacy and creativity measures of medium size, r = .39, with a warning attached to the number: self-rated creativity correlated higher with self-efficacy, r = .53, while the relation with divergent-thinking tests was weak, r = .23 ([Haase, Hoff, Hanel and Innes-Ker 2018](https://www.tandfonline.com/doi/full/10.1080/10400419.2018.1411436)). Belief in one's creative ability travels most strongly with measures that ask the person how creative they are. [Creative self-efficacy](card:Creative%20self-efficacy) and [Creative identity](card:Creative%20identity) hold the construct and its limits."
+        },
+        {
+          "t": "p",
+          "x": "The absorbed state of making is the last personal input. Csikszentmihalyi's account of the interviews behind the flow concept ends in a plain claim:"
+        },
+        {
+          "t": "q",
+          "x": "\"The best moments usually occur when a person's body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile. Optimal experience is thus something that we make happen.\" ([Csikszentmihalyi, Flow, owner's library copy](https://drive.google.com/uc?export=download&id=11wG6Y7PwYzlNIrcXJ8ErSZ7Pd8fQcEsb))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Flow](card:Flow) holds the conditions: clear goals, immediate feedback, and a balance between challenge and skill. The conditions can be designed for, in activities and in institutions, which puts absorption inside the reach of practice rather than outside it."
+        },
+        {
+          "t": "h",
+          "x": "What the philosophers add"
+        },
+        {
+          "t": "p",
+          "x": "Where does the push come from? Dewey places it in impulse. \"Impulses are the pivots upon which the re-organization of activities turn, they are agencies of deviation, for giving new directions to old habits and changing their quality\" ([Dewey, Human Nature and Conduct, part 2](https://www.gutenberg.org/cache/epub/41386/pg41386.txt)). On his account impulse brings the possibility, not the assurance, of reorganized habit, which is why [P086 — Channel the creative impulse](card:P086%20%E2%80%94%20Channel%20the%20creative%20impulse) pairs the passage with Dewey's warning that \"Suppression is not annihilation\" ([Dewey, part 2](https://www.gutenberg.org/cache/epub/41386/pg41386.txt)): blocked energy goes underground rather than disappearing, so the practical question is where it is being channeled. His complaint about industrial work is the same argument at the scale of a job: the mechanizing effect is counteracted where a person sees the whole process of which their special work is a necessary part and cares for the whole ([Dewey, part 2](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))."
+        },
+        {
+          "t": "p",
+          "x": "Bergson extends the question of novelty to life and time themselves: \"The more we study the nature of time, the more we shall comprehend that duration means invention, the creation of forms, the continual elaboration of the absolutely new\" ([Bergson, Creative Evolution, ch. 1](https://www.gutenberg.org/files/26163/26163-8.txt)). For a conscious being on his account, \"to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly\" ([Bergson, ch. 1](https://www.gutenberg.org/files/26163/26163-8.txt)). [Creative evolution](card:Creative%20evolution), [Creative selection](card:Creative%20selection) and [Creative advance](card:Creative%20advance) carry the metaphysical cousins of this thought."
+        },
+        {
+          "t": "p",
+          "x": "The same tradition separates creative emotion from the ordinary kind: \"in creative emotion, we first have the emotion which then creates representations\", as with the musician whose joy creates a symphony and only afterwards its written score ([Lawlor and Moulard-Leonard, SEP, \"Henri Bergson\", section 6](https://plato.stanford.edu/entries/bergson/)); [P195 — Creative emotion (émotion créatrice) is generative of thought, not a byproduct of it](card:P195%20%E2%80%94%20Creative%20emotion%20%28%C3%A9motion%20cr%C3%A9atrice%29%20is%20generative%20of%20thought%2C%20not%20a%20byproduct%20of%20it) states the principle for practice."
+        },
+        {
+          "t": "p",
+          "x": "The destructive and the repetitive sides of making each have an analyst. Schumpeter's \"process of Creative Destruction is the essential fact about capitalism\" is the industrial mutation that \"incessantly revolutionizes the economic structure from within, incessantly destroying the old one, incessantly creating a new one\" ([Schumpeter, Capitalism, Socialism and Democracy, ch. VII](https://thaleszp.com/files/Schumpeter_creative_dest.pdf)); [Creative destruction](card:Creative%20destruction) takes it as an analogy for the dismantling side of growth, the system's renewal rather than the person's. The companion question, whether doing something again can itself be creative, is [Creative repetition](card:Creative%20repetition)'s own ground."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Do divergent-thinking tests measure a general creative capacity?"
+        },
+        {
+          "t": "p",
+          "x": "The dispute over the tests is recorded by the review itself: Baer concluded that creativity is best conceptualized as domain specific, which he argued explains why divergent-thinking tests have not met with more success, and Mumford and colleagues questioned their validity; other researchers defended divergent-thinking measures, such as those in the Wallach-Kogan Creativity Tests ([Hennessey and Amabile 2010, p. 573](https://site.caes.uga.edu/sandlin/files/2023/10/Hennessey-Amabile-2010.pdf)). The same review opens its assessment section with the field's own admission: \"Debates surrounding definition and measurement continue to loom large\" ([Hennessey and Amabile 2010, p. 572](https://site.caes.uga.edu/sandlin/files/2023/10/Hennessey-Amabile-2010.pdf))."
+        },
+        {
+          "t": "p",
+          "x": "The self-efficacy meta-analysis shows why the stakes are practical: the correlation between believing oneself creative and being rated creative changes with the measure used, .53 against self-assessments and .23 against divergent-thinking tests ([Haase et al. 2018](https://www.tandfonline.com/doi/full/10.1080/10400419.2018.1411436)). The strength of the association depends on how creativity is measured. What remains unresolved is whether one general capacity underlies the instruments or whether creativity is a family of domain skills wearing one word."
+        },
+        {
+          "t": "h2",
+          "x": "Do rewards help or hurt creative work?"
+        },
+        {
+          "t": "p",
+          "x": "In their review, Hennessey and Amabile state the intrinsic motivation principle: extrinsic motivation, of which expected reward is one form alongside expected evaluation, surveillance, competition and restricted choice, is generally detrimental to creativity ([Hennessey and Amabile 2010, p. 581](https://site.caes.uga.edu/sandlin/files/2023/10/Hennessey-Amabile-2010.pdf)). The behaviorist position, in their description, is reward-specific: creativity can be easily increased by reward and is seldom undermined ([Hennessey and Amabile 2010, p. 582](https://site.caes.uga.edu/sandlin/files/2023/10/Hennessey-Amabile-2010.pdf)). The review records what happened when the two met: a debate surfaced in the mid-1990s, prompting researchers and theorists on both sides to publish a series of heated commentaries, critiques and replies, and \"Despite results such as these, inconsistent with the assertion that expected rewards generally foster creativity, the debate has continued through much of the past decade\" ([Hennessey and Amabile 2010, pp. 581-582](https://site.caes.uga.edu/sandlin/files/2023/10/Hennessey-Amabile-2010.pdf))."
+        },
+        {
+          "t": "p",
+          "x": "At the core of the debate, the review says, were important differences in the definitions of creativity driving the investigations, the algorithmic or heuristic nature of the experimental tasks employed, and the instructions given to study participants ([Hennessey and Amabile 2010, p. 582](https://site.caes.uga.edu/sandlin/files/2023/10/Hennessey-Amabile-2010.pdf)). Studies in the behaviorist tradition typically used measures that equate creativity with novelty, and often instructed participants to be creative; other findings suggest those studies demonstrate positive effects of instructions rather than positive effects of expected rewards ([Hennessey and Amabile 2010, p. 582](https://site.caes.uga.edu/sandlin/files/2023/10/Hennessey-Amabile-2010.pdf))."
+        },
+        {
+          "t": "p",
+          "x": "The review's own synthesis narrows the question to conditions: rewards undermine intrinsic motivation and creativity when they lead people to feel controlled by the situation, and can actually enhance them when they confirm competence, provide useful information in a supportive way, or enable people to do something they were already intrinsically motivated to do ([Hennessey and Amabile 2010](https://site.caes.uga.edu/sandlin/files/2023/10/Hennessey-Amabile-2010.pdf)). The rift had not closed when the review was written."
+        },
+        {
+          "t": "h2",
+          "x": "Does mind wandering during the break do the work?"
+        },
+        {
+          "t": "p",
+          "x": "The incubation effect itself is meta-analytically positive, and low-demand fillers beat demanding ones ([Sio and Ormerod 2009](https://eric.ed.gov/?id=EJ827110)). The dispute is about the mechanism, and it has a direct experimental record. The best-known demonstration, Baird and colleagues 2012, reported that compared with a demanding task, rest or no break, engaging in an undemanding task during an incubation period led to substantial improvements in performance on previously encountered problems, and that \"These data suggest that engaging in simple external tasks that allow the mind to wander may facilitate creative problem solving\" ([Baird et al. 2012, abstract](https://pubmed.ncbi.nlm.nih.gov/22941876/))."
+        },
+        {
+          "t": "p",
+          "x": "A 2024 replication attempt did not confirm it: \"across two studies (N = 443), we found no evidence for the claim that mind wandering during a creative-incubation interval facilitates a form of creativity associated with divergent thinking\" ([Murray et al. 2024, FLoRA Replication Atlas record](https://forrt.org/flora-replication-atlas/doi/10.1177/0956797612446024/)). One replication is not a verdict, and a null result does not show that breaks never help. What remains unresolved is what the undemanding break does inside the head, and the honest position for a practitioner is to take the robust part, the break itself, without buying a settled theory about why it works."
+        },
+        {
+          "t": "h",
+          "x": "Practice: finding the maker's footing"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying on this theme is the arrangement around the making: waiting to feel like a creative person before starting, judging each idea as it arrives and so cutting off the later, odder ones, treating the first workable answer as the answer, or protecting the work from every audience so that nothing is ever tested. The adaptive direction is making that is small, regular, partly shared, and allowed to be wrong."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels selected as sources of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[K323 — Daily making](card:K323%20%E2%80%94%20Daily%20making): make something every day, however small, with the criterion held lightly but firmly, that something exists at the end which did not exist before. The study behind it beeped 41 artists ten times a day for a week; recent art-making tracked better momentary hedonic tone, vivid imagery and flow, and the week's frequency of art-making tracked person-level eudemonic happiness ([Holt 2018, abstract](https://pubmed.ncbi.nlm.nih.gov/29130867/)). The daily rule itself is the kernel's bet."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[K325 — Divergent-option generation](card:K325%20%E2%80%94%20Divergent-option%20generation): state the problem in one sentence, generate at least five solutions in writing, no judgement during generation, then evaluate in a separate pass. The floor of five is the kernel's design choice, built on the serial order effect's pattern that the odd ideas tend to come after the obvious ones are spent."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[K324 — Constraint-based creation](card:K324%20%E2%80%94%20Constraint-based%20creation): choose an avoided task and impose one concrete constraint, 100 words, one colour, three ingredients, one hour. When the pull toward the familiar shows up, treat the constraint as the wall that turns you."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[K327 — Creative risk-taking](card:K327%20%E2%80%94%20Creative%20risk-taking): one risk a week, unfinished work shared, an unmastered form attempted, an idea voiced that might be wrong, sized to survive, with an audience chosen because they already expect you to make things."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[K331 — Play practice](card:K331%20%E2%80%94%20Play%20practice): once a week, do something with no purpose beyond the doing, nothing that will be evaluated, scored or shown, ending without an inventory of what the play produced."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them. The daily making that survives a bad month, the constraint that turns out to be a favourite tool, the audience that earns the risk: what stays is a matter of fit between the practice and the life it enters, and the record that teaches is the log of what each attempt changed."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "h2",
+          "x": "The new begins early"
+        },
+        {
+          "t": "p",
+          "x": "[The Two-Year-Old and the Blocks](card:ST325%20%E2%80%94%20The%20Two-Year-Old%20and%20the%20Blocks): in an illustrative vignette, a child's tower falls twice; she widens the base, and the next tower stands."
+        },
+        {
+          "t": "h2",
+          "x": "Making without display"
+        },
+        {
+          "t": "p",
+          "x": "[Paterson Writes Poems on His Lunch Break](card:ST015%20%E2%80%94%20Paterson%20Writes%20Poems%20on%20His%20Lunch%20Break): a bus driver writes poetry in a notebook he carries with him, unpublished though his wife urges him to share it, and when a Japanese stranger who seems to know he is a poet talks with him, he denies being one ([Paterson (film), Wikipedia](https://en.wikipedia.org/wiki/Paterson_(film)))."
+        },
+        {
+          "t": "p",
+          "x": "[Bob Ross's Happy Accidents](card:ST326%20%E2%80%94%20Bob%20Ross%27s%20Happy%20Accidents): a former US Air Force master sergeant paints a scene in real time in a half-hour television segment, telling viewers there are no mistakes, only happy accidents ([Bob Ross, Wikipedia](https://en.wikipedia.org/wiki/Bob_Ross))."
+        },
+        {
+          "t": "h2",
+          "x": "Variation, selection, retention"
+        },
+        {
+          "t": "p",
+          "x": "[Edison Burns the Filaments](card:ST112%20%E2%80%94%20Edison%20Burns%20the%20Filaments): the lamp-filament search ran through carbon, platinum and other metals before returning to carbon, and the team later found a carbonized Japanese bamboo filament that could last over a thousand hours ([Incandescent light bulb, Wikipedia](https://en.wikipedia.org/wiki/Incandescent_light_bulb))."
+        },
+        {
+          "t": "p",
+          "x": "[The Four C's](card:ST324%20%E2%80%94%20The%20Four%20C%27s): Kaufman and Beghetto's 2009 paper proposes four levels of creativity, mini-c through Big-C, and argues that the everyday forms are real, distinct and developmentally connected."
+        },
+        {
+          "t": "h2",
+          "x": "Absorption"
+        },
+        {
+          "t": "p",
+          "x": "[The Rock Climbers' Absorption](card:ST307%20%E2%80%94%20The%20Rock%20Climbers%27%20Absorption): the flow concept grew out of interviews in which Csikszentmihalyi and his team asked rock climbers, chess players, surgeons and dancers to describe their most absorbing experiences."
+        },
+        {
+          "t": "h2",
+          "x": "The wider backdrop"
+        },
+        {
+          "t": "p",
+          "x": "[The Three Metamorphoses](card:ST293%20%E2%80%94%20The%20Three%20Metamorphoses): Zarathustra's camel, laden, hastens into the wilderness; the spirit becomes a lion that says \"I will\" and wrestles freedom from the dragon \"Thou shalt\", though the lion cannot yet create new values; the child, \"Innocence is the child, and forgetfulness, a new beginning, a game, a self-rolling wheel\", is the creator ([Thus Spake Zarathustra, Thomas Common translation, Gutenberg](https://www.gutenberg.org/files/1998/1998-0.txt))."
+        }
+      ],
+      "group": "minds-life",
+      "status": "published",
+      "art": "assets/dossier-art/creativity.jpg"
+    },
+    {
+      "id": "procrastination",
+      "title": "Procrastination",
+      "question": "Why do we delay what we intend to value, and what does the delay do to the self that inherits it?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The gap between intending and doing is ordinary. What makes procrastination a problem is its shape: on the mood-repair account, the delay buys a present mood at the price of a future self's time, and the buyer and the payer are the same person. Socrates and Aristotle ask how knowledge relates to action; the modern reviews call procrastination a failure of self-regulation; the practice traditions work on the design of the moment. The question I would put to both reviews is which end deserves the intervention first: what makes the outcome worth pursuing, or what makes starting unpleasant."
+        },
+        {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "Akrasia: the oldest name on this territory, the lived problem of acting against one's own better judgment. Socrates denied the possibility; Aristotle's realism about it grounds his ethics of practice; the modern debate refines what exactly is betrayed, a judgment or a plan."
+        },
+        {
+          "t": "p",
+          "x": "Habit and behaviour change: the neighbouring mechanics of what the delay sits inside. What is specific to delay is what the delay protects, and what it costs."
+        },
+        {
+          "t": "p",
+          "x": "Self-forgiveness: how a person responds after an offense. Its application to procrastination appears in the two-exam study described below, where forgiveness for earlier delay was associated with less subsequent procrastination."
+        },
+        {
+          "t": "h",
+          "x": "Where the delay comes from"
+        },
+        {
+          "t": "h2",
+          "x": "Can we act against what we know?"
+        },
+        {
+          "t": "p",
+          "x": "[Akrasia](card:Akrasia) names it plainly: knowing the better and doing the worse. Socrates denies even the possibility in the Protagoras; Aristotle's partial agreement holds that the person acting against reason does not have what is thought to be unqualified knowledge, and that an akratic person goes against reason as a result of some pathos; the modern debate runs from Hare's defence of Socrates' conclusion through Davidson's characterization of incontinent action to Holton's reading of weakness of will as a certain kind of failure to stick to one's plans."
+        },
+        {
+          "t": "p",
+          "x": "[A056 — Recognise akrasia — weakness of will](card:A056%20%E2%80%94%20Recognise%20akrasia%20%E2%80%94%20weakness%20of%20will) carries Aristotle's objection to Socrates in NE VII.2, that the view plainly contradicts the observed facts, with his distinction between possessing knowledge and using it. [A057 — Know that akrasia is not invincible](card:A057%20%E2%80%94%20Know%20that%20akrasia%20is%20not%20invincible) holds the other half of Book VII: Aristotle separates the unrestrained person from the profligate and holds the former reformable, with habit-bred unrestraint easier to cure than the natural kind."
+        },
+        {
+          "t": "p",
+          "x": "The classical counsel for the moment is Seneca's, carried on the compendium as [pre-commitment as wisdom](card:Pre-commitment%20as%20wisdom): an emotion is weak at the threshold and strong once entered, so the wise act is to refuse the encounter. Ulysses tied to the mast before the voices, not willpower against them at full strength. [K269 — Assent delay](card:K269%20%E2%80%94%20Assent%20delay) is the Stoic pause in kernel form: the impression prints itself, the assent remains in our power."
+        },
+        {
+          "t": "p",
+          "x": "The modern binding lever is the commitment device. [MO033 — Learn to use commitment devices — pre-commit to future behaviour](card:MO033%20%E2%80%94%20Learn%20to%20use%20commitment%20devices%20%E2%80%94%20pre-commit%20to%20future%20behaviour) carries Bryan, Karlan and Nelson's definition, the arrangement aimed at helping fulfil a plan that would otherwise be difficult owing to intrapersonal conflict, with the hard commitments that carry real economic penalties distinguished from the soft ones that work psychologically."
+        },
+        {
+          "t": "h2",
+          "x": "What the reviews say the delay is"
+        },
+        {
+          "t": "p",
+          "x": "The review argument belongs to Sirois and Pychyl. [MO045 — Recognise procrastination as emotion regulation, not laziness](card:MO045%20%E2%80%94%20Recognise%20procrastination%20as%20emotion%20regulation%2C%20not%20laziness) carries their contention that procrastination is, in significant part, short-term mood repair: the avoidance manages a feeling, and a schedule alone leaves the feeling unaddressed. The review is explicit that this is not offered as the whole story, and the card carries that limit."
+        },
+        {
+          "t": "p",
+          "x": "The timing side belongs to Steel and König. [MO005 — Recognise that motivation is temporal — delay reduces motivation](card:MO005%20%E2%80%94%20Recognise%20that%20motivation%20is%20temporal%20%E2%80%94%20delay%20reduces%20motivation) carries their formal model of motivation, and the 2018 test with N = 7,400 found pacing on a hyperbolic curve, susceptibility to proximity of temptation, and procrastination related to intention-action gaps but not to intentions. Delay weakens motivation; the delay is a timing problem more than a missing intention."
+        },
+        {
+          "t": "p",
+          "x": "The model the Steel review found its effects consistent with is [temporal motivation theory](card:Temporal%20motivation%20theory), the hybrid of expectancy theory and hyperbolic discounting. [Temporal discounting](card:Temporal%20discounting) supplies its mechanism: the devaluing of rewards as receipt moves away, on a curve steep near the present and flatter further out, which is what lets the present self bind the future one."
+        },
+        {
+          "t": "p",
+          "x": "The repair side has a measured shape. Among the 119 first-year students in the two-exam study, [MO050 — Learn to practise self-compassion when procrastinating — guilt backfires](card:MO050%20%E2%80%94%20Learn%20to%20practise%20self-compassion%20when%20procrastinating%20%E2%80%94%20guilt%20backfires) found that self-forgiveness for procrastinating before the first exam went with less procrastination before the second, mediated by negative affect. The self-compassion line is correlational, and neither line shows harshness helping."
+        },
+        {
+          "t": "p",
+          "x": "[Self-forgiveness](card:Self-forgiveness) is the capacity behind that finding. Hall and Fincham describe a shift away from avoiding reminders of an offense and retaliating against oneself, toward self-directed benevolence. The card also points to Marcus's counsel to return after failure without disgust or discouragement."
+        },
+        {
+          "t": "p",
+          "x": "The measured gap itself is [the intention-behavior gap](card:The%20intention-behavior%20gap). Sheeran's review of ten meta-analyses put the intention-behaviour correlation at 0.53, large, and leaving most of the variance in behaviour unexplained by intention; the best-validated bridge is the if-then plan. The binding lever from the other direction is [temptation bundling (Milkman)](card:Temptation%20bundling%20%28Milkman%29): pair the want with the should, gym-only audiobooks, and the field experiment found 51% and 29% more gym visits for full and intermediate treatment at first, effects that declined, and 61% willing to pay for the restriction afterwards."
+        },
+        {
+          "t": "h2",
+          "x": "What makes starting unpleasant"
+        },
+        {
+          "t": "p",
+          "x": "The review's own premise is that procrastination often occurs when people are faced with tasks that are seen as aversive, with the conclusion sentence proposing the primacy of short-term mood repair. [MO048 — Learn to break tasks down — overwhelm causes avoidance](card:MO048%20%E2%80%94%20Learn%20to%20break%20tasks%20down%20%E2%80%94%20overwhelm%20causes%20avoidance) carries that premise, and the card's task-breakdown exercise is an application, its effect on procrastination not established by the quoted passages."
+        },
+        {
+          "t": "p",
+          "x": "Csikszentmihalyi's rule from Flow names the fit between the person and the task. [K189 — Challenge-skill calibration](card:K189%20%E2%80%94%20Challenge-skill%20calibration) holds that too easy tips into boredom, too hard into anxiety, and the way back to absorption is an adjustment on one of the two axes; the calibration is the book's structural account, not a tested intervention."
+        },
+        {
+          "t": "p",
+          "x": "Oettingen separates expectations from fantasies. [MO026 — Learn to use mental contrasting — visualise obstacle, not just outcome](card:MO026%20%E2%80%94%20Learn%20to%20use%20mental%20contrasting%20%E2%80%94%20visualise%20obstacle%2C%20not%20just%20outcome) carries the contrasting remedy and the MCII meta-analysis behind it, 21 studies and 15,907 participants, a small-to-medium effect with the publication-bias caveat stated on the card."
+        },
+        {
+          "t": "p",
+          "x": "The progress side is Amabile and Kramer's small wins, carried on [MO027 — Learn to make progress visible — feedback sustains motivation](card:MO027%20%E2%80%94%20Learn%20to%20make%20progress%20visible%20%E2%80%94%20feedback%20sustains%20motivation), and the 138-study meta-analysis in which monitoring prompts raised goal attainment, d+ = 0.40, larger when progress was physically recorded or made public, strongest for health goals."
+        },
+        {
+          "t": "p",
+          "x": "The identity framing belongs to the voter experiments. [MO021 — Learn to connect goals to identity — I am a person who...](card:MO021%20%E2%80%94%20Learn%20to%20connect%20goals%20to%20identity%20%E2%80%94%20I%20am%20a%20person%20who...) found the being-a-voter wording significantly increased interest in registering to vote, and voter turnout, assessed by official state records, in two statewide elections; the effect is direct support in one domain, not a general result about I-am-a-person-who statements, and the card says so."
+        },
+        {
+          "t": "p",
+          "x": "The pull side is curiosity. In the trivia-question studies carried on [MO022 — Recognise the role of curiosity and interest — intrinsic motivation's engine](card:MO022%20%E2%80%94%20Recognise%20the%20role%20of%20curiosity%20and%20interest%20%E2%80%94%20intrinsic%20motivation%27s%20engine), higher curiosity tracked caudate activity implicated in anticipated reward and better recall of surprising answers one to two weeks later; the application is to let the unanswered question do the work."
+        },
+        {
+          "t": "h2",
+          "x": "The levers that start the starting"
+        },
+        {
+          "t": "p",
+          "x": "Temporal landmarks work as prompts. [MO028 — Learn to use the fresh start effect — temporal landmarks boost motivation](card:MO028%20%E2%80%94%20Learn%20to%20use%20the%20fresh%20start%20effect%20%E2%80%94%20temporal%20landmarks%20boost%20motivation) found Google searches for diet, gym visits and goal commitments all rose after new weeks, months, years and birthdays in the three field studies; the effect is on starting, not on lasting."
+        },
+        {
+          "t": "p",
+          "x": "The environment lever carries an honest replication record. [MO049 — Learn to remove distractions — environment drives procrastination](card:MO049%20%E2%80%94%20Learn%20to%20remove%20distractions%20%E2%80%94%20environment%20drives%20procrastination) holds the mere-presence studies, the small pooled effect, and the suggested cheap experiment of the same task with the phone in reach and in another room. The energy question is held open on [MO051 — Learn to manage energy — procrastination often signals fatigue](card:MO051%20%E2%80%94%20Learn%20to%20manage%20energy%20%E2%80%94%20procrastination%20often%20signals%20fatigue): the mood-repair account points at feelings about the task, the sleep and depletion findings are mixed, and the card's practice is the two-line diagnosis, how rested, and how the task feels."
+        },
+        {
+          "t": "p",
+          "x": "The smallest start is [K185 — The two-minute rule](card:K185%20%E2%80%94%20The%20two-minute%20rule): two minutes, meant, with the honest stop kept cheap to obey tomorrow. The other small start is [MO047 — Learn to use the 5-minute rule — lower the barrier to starting](card:MO047%20%E2%80%94%20Learn%20to%20use%20the%205-minute%20rule%20%E2%80%94%20lower%20the%20barrier%20to%20starting), Pychyl's just-get-started with the card's honest note that five minutes is a convention no study tests against other durations."
+        },
+        {
+          "t": "p",
+          "x": "[K188 — Friction audit](card:K188%20%E2%80%94%20Friction%20audit) is the chain walk: time each step from intention to action, remove the costliest, add friction to the unwanted chain, and re-run. The if-then plan is [K153 — Implementation intentions](card:K153%20%E2%80%94%20Implementation%20intentions), written once for one foreseeable moment, and its principle form [MO025 — Learn to use implementation intentions — if-then plans](card:MO025%20%E2%80%94%20Learn%20to%20use%20implementation%20intentions%20%E2%80%94%20if-then%20plans) carries the meta-analysis of 94 independent tests, medium-to-large, d = 0.65, on goal attainment, with the component processes the review reports support for."
+        },
+        {
+          "t": "h",
+          "x": "Where the two reviews stand"
+        },
+        {
+          "t": "p",
+          "x": "Both opened reviews call procrastination a failure of self-regulation, and both say so in their abstracts:"
+        },
+        {
+          "t": "q",
+          "x": "\"Procrastination is a prevalent and pernicious form of self-regulatory failure that is not entirely understood.\" (Steel, \"The Nature of Procrastination\", Psychological Bulletin 133(1), 2007, [abstract](https://pubmed.ncbi.nlm.nih.gov/17201571/))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"In this paper, we argue that as a form of self-regulation failure, procrastination has a great deal to do with short-term mood repair and emotion regulation.\" (Sirois and Pychyl 2013, author manuscript, [White Rose eprints PDF](https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Steel's meta-analysis of 691 correlations found the strong and consistent predictors to be task aversiveness, task delay, self-efficacy and impulsiveness, with the conscientiousness facets behind them, and the effects, the abstract says, prove consistent with temporal motivation theory. Sirois and Pychyl emphasize short-term mood repair within that same self-regulation failure."
+        },
+        {
+          "t": "p",
+          "x": "The two accounts need not compete. A devalued future and an aversive present can be one mechanism seen from two ends, and the mood-repair review itself does not claim to be the whole story. I would ask which intervention to try first: changing what makes starting unpleasant, or changing the timing and attractiveness of the outcome."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Can we act against our better judgment?"
+        },
+        {
+          "t": "p",
+          "x": "Plato's Socrates denies that someone who judges another available course better will continue on the worse one:"
+        },
+        {
+          "t": "q",
+          "x": "\"Then, I said, if the pleasant is the good, nobody does anything under the idea or conviction that some other thing would be better and is also attainable, when he might do the better. And this inferiority of a man to himself is merely ignorance, as the superiority of a man to himself is wisdom.\" ([Protagoras, Jowett translation](https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett/text/protagoras))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"Then, I said, no man voluntarily pursues evil, or that which he thinks to be evil. To prefer evil to good is not in human nature; and when a man is compelled to choose one of two evils, no one will choose the greater when he may have the less.\" ([Protagoras, Jowett translation](https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett/text/protagoras))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Aristotle objects that the denial cannot be squared with conduct anyone can watch, and then locates the failure in the difference between having knowledge and using it:"
+        },
+        {
+          "t": "q",
+          "x": "\"Now this view plainly contradicts the observed facts, and we must inquire about what happens to such a man; if he acts by reason of ignorance, what is the manner of his ignorance?\" ([Nicomachean Ethics VII.2, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"since we use the word 'know' in two senses (for both the man who has knowledge but is not using it and he who is using it are said to know), it will make a difference whether, when a man does what he should not, he has the knowledge but is not exercising it, or is exercising it\" ([Nicomachean Ethics VII.3, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "His conclusion, however, grants Socrates a qualified victory: the position Socrates sought to establish actually seems to result, because incontinence does not arise in the presence of what is thought to be knowledge proper, but of perceptual knowledge ([Nicomachean Ethics VII.3, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). The disagreement concerns what kind of knowing is present when judgment and action part."
+        },
+        {
+          "t": "p",
+          "x": "I connect that dispute to postponing an intended action. Akrasia is broader than procrastination, and neither modern review settles this philosophical question."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying on this theme is the response to the lapse. The moral framing, laziness, guilt, self-blame, is a candidate target on the mood-repair account: the proposed chain is that self-blame feeds the mood being escaped, and the studies behind the self-compassion line are correlational, so the chain is a proposed mechanism, not a demonstrated one. The schedule-first framing rearranges time and, on the mood-repair account, leaves the feeling unaddressed. The intention-first framing assumes the missing piece is deciding, when the intention-action gap is the measured problem. The adaptive direction is to treat the delay as information: how the task feels, how rested the person is, and how far away the reward sits."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels I have selected as sources of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[K185 — The two-minute rule](card:K185%20%E2%80%94%20The%20two-minute%20rule): the two-minute start, meant, with the honest stop. The rule is a summary practice built on Allen's two-minute principle and Clear's stop-if-you-want variant; it is editorial, and its evidence is the plain words of its two sources, not a trial."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[K188 — Friction audit](card:K188%20%E2%80%94%20Friction%20audit): walk the chain from intention to action, time each step, remove the costliest, add friction to the unwanted chain at the same time. The protocol steps are editorial; the principle beneath them is the friction literature on present bias."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[K153 — Implementation intentions](card:K153%20%E2%80%94%20Implementation%20intentions): the if-then plan, written once for one foreseeable moment, linking the critical situation to the response in advance. The kernel's evidence section carries the screening-attendance field test: 92 percent attendance among the women who wrote down when, where and how they would make the appointment, against 69 percent among equally motivated controls. The trial tested one if-then plan for one appointment, not the kernel's anxious-moment example, and the abstract reports nothing about the plan's proposed mechanism."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[Pre-commitment as wisdom](card:Pre-commitment%20as%20wisdom): Seneca's counsel for dealing with emotion is timing. An emotion is weak at the threshold and strong once it has entered, so the wise act happens early: refuse the encounter rather than win the fight. The emblem he reaches for is Ulysses and the mast."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[K269 — Assent delay](card:K269%20%E2%80%94%20Assent%20delay): when a strong impression hits, pause before giving it assent. The impression prints itself on the mind, but the assent remains in our power. The three-breath count is the kernel's editorial timing; the withholding it buys is the Stoic act."
+        },
+        {
+          "t": "n",
+          "i": 6,
+          "x": "[Self-forgiveness](card:Self-forgiveness): the forgiveness a person extends to the self after committing an offense, defined by Hall and Fincham as the motivational changes whereby one becomes decreasingly motivated to avoid the offense stimuli and to retaliate against the self, and increasingly motivated to act benevolently toward the self."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what the person keeps using because it works for them. The two minutes that keep getting taken, the friction change that survives the re-audit, the if-then plan that fires without being re-read: what stays is a matter of fit between the lever and the life it enters."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "h2",
+          "x": "The wrong kind of effort"
+        },
+        {
+          "t": "p",
+          "x": "[ST391 — Backsliding into Abundance](card:ST391%20%E2%80%94%20Backsliding%20into%20Abundance): before his awakening the Buddha tried to master his mind by force, clenching his teeth and crushing his mind with his awareness, eating a handful of soup at a time until, thinking to touch his belly, he could grab hold of his spine; the answer came as a memory of ease under a rose-apple tree, and when he took solid food to regain strength for it, the five monks said he had abandoned his exertion and was backsliding into abundance."
+        },
+        {
+          "t": "h2",
+          "x": "Reviewing the day's faults"
+        },
+        {
+          "t": "p",
+          "x": "[ST220 — The Evening Review](card:ST220%20%E2%80%94%20The%20Evening%20Review): Seneca, with the lights out, examines the day's cases, what he did badly and what well, whether he gave up a fault and restrained passion; he sometimes finds himself pleased with his own progress and treats that pleasure as the next thing to watch."
+        },
+        {
+          "t": "h2",
+          "x": "Marking the faults and continuing"
+        },
+        {
+          "t": "p",
+          "x": "[ST184 — Franklin's Little Book](card:ST184%20%E2%80%94%20Franklin%27s%20Little%20Book): Franklin at twenty charts thirteen virtues, one focused on each week, every fault marked with a black spot; he never reached perfection and concluded that the practice, not the perfection, was the gain."
+        },
+        {
+          "t": "h2",
+          "x": "Binding yourself in advance"
+        },
+        {
+          "t": "p",
+          "x": "[ST161 — Odysseus and the Mast](card:ST161%20%E2%80%94%20Odysseus%20and%20the%20Mast): Odysseus orders his crew to bind him to the mast and add ropes if he demands release; when the Sirens sing, he begs to be freed, and they keep him bound."
+        },
+        {
+          "t": "h2",
+          "x": "The knowledge that does not move the hand"
+        },
+        {
+          "t": "p",
+          "x": "[ST160 — Medea Knows](card:ST160%20%E2%80%94%20Medea%20Knows): Abandoned by Jason for a royal marriage, Medea plans to murder their children, debates with herself, sees the wrong clearly, and carries out her revenge."
+        },
+        {
+          "t": "h2",
+          "x": "The loop that feeds what it fears"
+        },
+        {
+          "t": "p",
+          "x": "[ST331 — The Hungry Tiger](card:ST331%20%E2%80%94%20The%20Hungry%20Tiger): A person feeds a hungry tiger to quiet its growling; every feeding calms it and makes it bigger, until feeding it sooner feels like the safest choice."
+        }
+      ],
+      "group": "challenges",
+      "status": "published",
+      "art": "assets/dossier-art/procrastination.jpg"
     }
   ],
   "groups": [
@@ -17621,26 +18999,6 @@ window.fcDossiersData = {
     }
   ],
   "roadmap": [
-    {
-      "id": "right-livelihood",
-      "title": "Right Livelihood",
-      "group": "eightfold-path"
-    },
-    {
-      "id": "creation",
-      "title": "Creation",
-      "group": "flourishing"
-    },
-    {
-      "id": "creativity",
-      "title": "Creativity",
-      "group": "minds-life"
-    },
-    {
-      "id": "procrastination",
-      "title": "Procrastination",
-      "group": "challenges"
-    },
     {
       "id": "leisure",
       "title": "Leisure",
