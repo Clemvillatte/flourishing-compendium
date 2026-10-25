@@ -12,17 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 48** — Learn to use the dive reflex: cold water for acute distress
 
-The dive reflex is the mechanism humans share with diving mammals: when cold touches the face, the heart slows through the vagus nerve. A review of the human diving response describes stimulation of facial cold receptors by cold water as strengthening the reflex and deepening the slowing of the heart ([Foster & Sheel, 2005](https://doi.org/10.1111/j.1600-0838.2005.00440.x)).
+The dive reflex, or diving response, slows the heart. Foster and Sheel's review defines it as "a reduction in heart rate because of an increase in cardiac parasympathetic nerve activity, peripheral vasoconstriction on the arterial vascular tree, and an increase in sympathetic activity triggered in response to the cessation of respiration and, but not necessarily including, the stimulation of facial cold receptors" ([Foster & Sheel, 2005, Wiley](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-0838.2005.00440.x)). In the review's own words, cold on the face makes it stronger:
 
 > Stimulation of facial cold receptors by cold water augments the human diving response and elicits a greater degree of bradycardia, reduction in blood flow, and hypertension (Andersson et al., 2000).
 >
 > — Foster & Sheel, "The human diving response, its function, and its control" (2005)
 
-**Plain words** Your face carries a switch that slows your heart: cold receptors around the eyes and cheeks report to the vagus nerve. Splashing cold water on your face, or holding something cold against your eyes and cheeks, pulls heart rate down. It is a tool for a spike of panic or rage, not a way of life, and it does nothing about what caused the spike.
+**Plain words** The review describes the diving response as a heart-slowing reflex that is stronger when the face is cold. In the review's setting this happens when breathing stops and the face is in water. The step from there to calming yourself with a cold cloth is my practical inference. This source does not test it, and it says nothing about panic or rage. If you try it, treat it as a short-term aid for a spike of distress, and not as a way of dealing with what caused the spike. If you have a heart condition, ask a clinician first.
 
-For example: during a late-evening panic spiral, someone holds a cold, damp cloth over their eyes and cheeks for half a minute, using the heart-rate drop the reflex produces.
+*For example (my illustration, not from the review):* During a late-evening panic spiral, someone holds a cold, damp cloth over their eyes and cheeks for half a minute and then notes whether their breathing has slowed.
 
-(Foster & Sheel, "The human diving response, its function, and its control," 2005.)
+## Sources
+
+- [Foster & Sheel, "The human diving response, its function, and its control", Scand J Med Sci Sports 15(1):3-12 (2005)](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-0838.2005.00440.x): the definition and the facial-cold-receptor sentence, both quoted verbatim from the full text. The page previously said the reflex is shared with diving mammals and acts "through the vagus nerve"; neither phrase appears in the passages I checked, so I replaced them with the review's wording.
+
+
 
 ## Psychology parallels
 

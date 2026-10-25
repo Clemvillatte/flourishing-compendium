@@ -97,3 +97,6 @@
 
 ## CO005 Thinking is embodied
 - Merleau-Ponty PDF opened; 'general medium for having a world', organist and 'expressive space' sentences verified. Removed unsupported 'the origin of the rest' gloss; rewrote Plain words; added Sources.
+
+## BE048 Dive reflex
+- Foster & Sheel 2005 (Wiley full text) opened: the 'facial cold receptors... augments' sentence and the definition verified verbatim. Removed 'shared with diving mammals' and 'through the vagus nerve' (not in the passages checked); labelled the cold-cloth use as my inference and not tested by the source.
