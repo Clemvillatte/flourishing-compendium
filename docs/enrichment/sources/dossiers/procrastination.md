@@ -645,3 +645,20 @@ the published text. Publishing per the owner's 2026-10-25
 publish-then-review directive: registry flip to published, rebuild of
 this slug only, push, OWNER-BOARD line. The supervisor's
 post-publication review may still flip the entry back with a flag.
+
+Note for the supervisor's re-review (2026-10-25, worker-pplx-dos33-1025n2):
+the SUPERVISOR-REVIEW row for this dossier (RE-PUBLISHED entry) describes
+commit 2458a75, the round-1 bar repair. The file has since been materially
+revised through advisor QC rounds 2-5, all pushed: round 2 moved the
+Steel-vs-Sirois/Pychyl "timing vs mood" material into the body as
+complementary explanation (the reviewed row's third dispute no longer
+exists in that form); the third disagreement is now Davidson vs Holton
+on weakness of will (SEP carrier + Holton's author-hosted paper and
+abstract, all verbatim); the definitional dispute was reworked around
+the Chu-Choi vs Chowdhury-2016-thesis classification opposition with the
+expected-harm boundary corrected; the first-person narration and claim
+overreach flagged in round 1 are repaired. Final state passed advisor
+round 5 (PUBLISH) with gates: checker 0 (40 links, 18 headers, 15
+carriers), quote_verify 13 automated + 1 og:description metadata match,
+density 0, voice 0. A re-review of the current text is warranted; the
+published registry state is unaffected.
