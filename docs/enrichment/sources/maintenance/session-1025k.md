@@ -51,3 +51,7 @@
 
 ## P069 Believe at the living edge
 - Carrier opened: James, The Will to Believe, Gutenberg pg26659.txt. Thesis (sec. IV) and climber passage verified verbatim. Removed the unsupported startup-founders example and 'a belief...is why you are entitled' gloss; replaced with James's own climber plus labelled illustration.
+
+## P075 Treat habits as will
+- Carrier opened: Dewey, Human Nature and Conduct, Gutenberg pg41386.txt. Part 1 §2 passage, tools-in-a-box passage and Part 1 §1 'alter objective conditions' sentence verified verbatim and section-checked.
+- Repair: removed 'resolution is not the will; the environment...is the will' (presented as Dewey's), 'twenty-third morning' invention and 'a month later only one still running' outcome claim. Environment-design step now labelled as my extension.
