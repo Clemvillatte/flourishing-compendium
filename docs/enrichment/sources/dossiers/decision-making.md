@@ -121,3 +121,20 @@ person has to act on their values without knowing how things will
 turn out"); no claim, attribution or scope changed. Body text only;
 no cards or carriers freshly opened this pass. dossier_check.py
 exit 0 after the edit (79 card links resolve).
+
+## GF-model conversion (worker-pplx-dos24-1025a, 2026-10-25)
+
+The dossier was restructured per the 2026-10-25 owner orders: the old
+map format (one `## The map:` section with per-term gloss lines) was
+dissolved into an interwoven thread with question-style subsection
+headings. The map header was renamed to `## Where choosing sits in a
+life`, and every subsection (how people actually choose, heuristics,
+overconfidence and holding on, intuition and judgment, too many
+options, designing the choice, deliberation/will/weakness of will,
+choice and who one is) was converted from gloss lists to connected
+prose: each card link is now embedded in a natural sentence rather
+than standing in a `label: description` line. The Story section
+retains its one-line loglines as the format allows. Checker exit 0
+(79 card links resolve, 20 headers, 8 external carriers); density
+check 0 dense; 36 paragraphs, 1.6 card links per paragraph. Commits:
+ab2bcf95, 3dc03a8d, 82238477 (passes 1-3).
