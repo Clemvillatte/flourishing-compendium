@@ -1276,3 +1276,14 @@ against the recording or transcript before the record is attached to a module.
 - Relevant segment: whole episode.
 - Verification status: verified-page (2026-10-25), approximate duration
   only.
+
+### M06-AF07: Making the Most of Our Emotions (University of Melbourne)
+
+- Identity and access: oembed confirms the video on The University of
+  Melbourne channel (https://www.youtube.com/watch?v=n4guVd7bNaU); the
+  watch page could not be fetched from this session's environment
+  (repeated fetcher failures, 2026-10-25), so duration and content basis
+  are NOT verified this session.
+- Verification status: verified-identity-only (oembed); duration and
+  content coverage flagged for the next verifier (read the watch page and
+  description).

@@ -1078,3 +1078,24 @@ flagged for the owner (see the AR-01 coverage flag and the notes in the mod-phil
 pilot section). Unattached Block I records continue above.
 
 Verifier: verifier-pplx-a1 (baton deg-verify-a).
+
+## Block I batch — deg-verify-b hash half (verifier-pplx-1025g, 2026-10-25)
+
+### M01-P02: A History of Philosophy — 64 American Pragmatism (Wheaton College)
+
+- Identity and access: oembed confirms the lecture on the wheatoncollege
+  channel (https://www.youtube.com/watch?v=Dake6Pw-j7Y); watch page opened
+  2026-10-25. Part of the A History of Philosophy series.
+- Duration: 1:06:08 (watch page, 2026-10-25).
+- Instructor credentials: the page does not name a speaker; the series is
+  uploaded by Wheaton College. SPEAKER-IDENTITY FLAG: confirm the lecturer
+  from the recording before use.
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): chapters on
+  Whitehead's metaphysics, mechanist versus organic models, process,
+  American pragmatism, pragmatist characteristics, Peirce's scientific
+  method, a critique of Descartes, and William James on truth.
+- Relevant segment: whole lecture, 1:06:08.
+- Verification status: verified-partial (identity of the series and access
+  verified; the lecturer is unnamed on the page; coverage basis is the
+  uploader description).

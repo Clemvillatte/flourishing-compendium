@@ -929,3 +929,55 @@ were already verified before it (SRC-M22-NG01 and M05-MA-04). Spanish-language f
 on SRC-M24-005 and SRC-M24-006 go to the module owner.
 
 (in progress: verifier-pplx-a1)
+
+## Block I batch — deg-verify-b hash half (verifier-pplx-1025g, 2026-10-25)
+
+### M01-D05: Lectures to Blow Your Mind with Dr. Alan Fox — Daoism Part 1
+
+- Identity and access: NOT VERIFIED — the oembed endpoint returns no record
+  for the catalog URL (u2PT1hIjp8U) and the watch page was not reachable
+  this session (2026-10-25). The record appears to point to an unavailable
+  video. REPLACE-IMPORT CANDIDATE: the owner should replace the link or
+  confirm it from another environment before any use.
+- Verification status: unverified (dead or unreachable link).
+
+### M01-D14: Book Talk — Zhuangzi: The Complete Writings (Chris Fraser et al., University of Hawai'i)
+
+- Identity and access: oembed confirms the book talk on the Center for
+  Chinese Studies - University of Hawai'i channel
+  (https://www.youtube.com/watch?v=SqvZ4pj_shw); watch page opened
+  2026-10-25.
+- Duration: DUAL FIGURES — the listing prints 1:29:40 while the player
+  shows 1:27:56 (2026-10-25); the owner should reconcile before workload
+  arithmetic.
+- Instructor credentials: Chris Fraser, Hon-Yin and Suet-Fong Chan
+  Professor in the School of Chinese at the University of Hong Kong (per
+  the uploader description; institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): a book talk on
+  Zhuangzi: The Complete Writings — Fraser with Pengbo Liu, Esther Sunkyung
+  Klein and Sera Kong, moderated by Franklin Perkins, with their roles and
+  research interests noted.
+- Relevant segment: whole talk (duration to reconcile).
+- Verification status: verified-video (2026-10-25), dual-figure duration
+  flagged; Fraser credentials from the description, institutional page
+  pending.
+
+### M01-D15: Episode 16 — Zhuangzi on Uselessness (This Is The Way podcast)
+
+- Identity and access: oembed confirms the episode on the
+  ChinesePhilosophyPodcast channel
+  (https://www.youtube.com/watch?v=O-W5wYpDLtk); watch page opened
+  2026-10-25.
+- Duration: 1:19:34 (watch page, 2026-10-25).
+- Instructor credentials: hosts Richard Kim and Justin Tiwald with guest
+  Chris Fraser (per the uploader description; institutional pages not
+  opened this session). Independent scholar-run podcast series, not an
+  institutional upload.
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): the theme of
+  uselessness in the Zhuangzi — what determines usefulness and whether it
+  depends on perspective.
+- Relevant segment: whole episode, 1:19:34.
+- Verification status: verified-video (2026-10-25); independent-channel
+  basis noted.
