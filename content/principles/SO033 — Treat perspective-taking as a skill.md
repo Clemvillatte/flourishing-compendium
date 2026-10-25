@@ -23,7 +23,7 @@ Two cautions follow from the same literature. First, the 2008 abstract adds that
 No study here trains perspective-taking over weeks and measures the gain, so "learnable skill" rests on the effects of instructions and incentives. Todd et al. 2011, Ku et al. 2015, Ames 2004 and Mor et al. 2013 are cited at second hand.
 
 **Plain words**
-Ask what the other person knows, wants and fears, and check your guess with them when you can. Your first guess tends to sound like you.
+The picture is not a warm one. Thinking your way into another person's position works better than feeling warm about them; it wins deals and softens bias. But the mind builds the guess starting from itself and stops adjusting too early, so under time pressure the guess gets worse, and accuracy goes up when someone pays for it.
 
 **For example**
 Before a hard conversation, write down what you think the other person wants. Then ask them to tell you, and note where you were wrong.

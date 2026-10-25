@@ -14,7 +14,6 @@
   "SO016",
   "SO020",
   "SO030",
-  "SO033",
   "SO035",
   "SO037",
   "SO059",
@@ -30,12 +29,15 @@
   "SP064",
   "SP078",
   "SP080",
-  "SP081"
+  "SP081",
+  "SO033"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "SO033": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 1.00)"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T11:23:16+00:00",
- "band_done": true
+ "updated": "2026-10-25T12:27:59+00:00",
+ "band_done": false
 }
