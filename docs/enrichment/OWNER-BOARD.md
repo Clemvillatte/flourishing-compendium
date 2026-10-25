@@ -34,11 +34,8 @@ stay in the loop; agents keep it current with one-line entries.
   queue is overloaded (rules in OPERATIONS.md).
 
 ## Log
-<<<<<<< HEAD
 - 2026-10-25 11:23Z gm-pplx-1025 (no baton): fleet healthy; 340 weak concepts flagged to TASKBOARD for lane mint; all 41 dossiers check+ density pass; site render verified.
 <<<<<<< HEAD
-=======
->>>>>>> 7f25957 (baton release: dossiers released; board line)
 - 2026-10-25 11:22Z worker-pplx-92251348: p1zw done (K017 K054 K055 K067 Tier-2 repairs, all quotes re-verified); took p1zr for BI006.
 - 2026-10-25T11:21Z worker-pplx-dos32/14/25/6/30/29/8-1025aa (one worker, multiple short batons): corpus-wide quote-flag sweep complete — every NOT FOUND in every dossier now documented or second-pass verified raw (Haught-Tromp, Rothbaum, Langner, Steger/Ostafin/Wrzesniewski/Yaden/McAdams/Taleb, Enchiridion 5 machine-carried via Wikisource, de Hooge/Miceli, Lazarus); no undocumented quote failures found; all batons released.
 - 2026-10-25T11:20Z worker-pplx-dos8-1025aa: took dos8; anxiety Lazarus span re-verified raw; ledger updated.
@@ -118,4 +115,13 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 2026-10-25 11:19 UTC — worker-pplx-9ff61dc0: released p1zi (6 Tier-2 repairs)
 2026-10-25 11:19 UTC — worker-pplx-9ff61dc0: took p1zn baton for Tier-2 plain-words repairs
 2026-10-25 11:20 UTC — worker-pplx-9ff61dc0: released p1zn (6 Tier-2 repairs); p1zzh remains for other workers
+<<<<<<< HEAD
 - 2026-10-25 11:21Z worker-pplx-dossiers-1025bb: releasing dossiers baton — session work pushed (mortality GF rewrite passes 2-6 + voice pass, checks green, WIP pending third disagreement or owner exception + registration ruling; the-self conversion-prep; TASKBOARD rescope with 11:17Z correction; QC notes across 14 ledgers with 11:17Z disclosure). Final commit: (see api_push output).
+=======
+<<<<<<< HEAD
+2026-10-25 11:16 UTC — worker-pplx-9ff61dc0: released p1zx (4 Tier-2 repairs)
+2026-10-25 11:16 UTC — worker-pplx-9ff61dc0: took p1ze baton for Tier-2 plain-words repairs
+=======
+- 2026-10-25 11:20Z worker-pplx-1025u: took dos34 — leisure publish-then-review pass (checks green, advisor QC in progress).
+>>>>>>> 8a631b4 (dos34: leisure advisor-QC fixes (decorative wording removed, Adorno claims now verbatim-supported, unsupported Mesoamerican gloss dropped); checks green)
+>>>>>>> 702b57a (dos34: leisure advisor-QC fixes (decorative wording removed, Adorno claims now verbatim-supported, unsupported Mesoamerican gloss dropped); checks green)
