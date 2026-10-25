@@ -18,7 +18,7 @@ The Neiye sets a demanding condition for calm. Its third verse includes happines
 
 This is stronger advice than simply avoiding rage. Chris Fraser places the text's account within early Daoist ideas about cultivating vital essence; across the sources he surveys, equanimity involves calm, alert responsiveness ([Deviations from the Way, sections 3 and 7](https://philarchive.org/archive/FRADFT-2)). I read the title's claim about vitality in that historical setting. A difficult emotion is no reason to blame myself for an illness.
 
-The Daodejing offers an infant as an image of harmony: "All day long it will cry without its throat becoming hoarse;--showing the harmony (in its constitution)." ([Chapter 55, Legge translation](https://www.sacred-texts.com/tao/taote.htm)) For my own practice, the useful question is how I might settle after being stirred up.
+The Daodejing offers an infant as an image of harmony: "All day long it will cry without its throat becoming hoarse;--showing the harmony (in its constitution)." ([Chapter 55, Legge translation](https://www.sacred-texts.com/tao/taote.htm)) I borrow this bodily image for my own question about settling after being stirred up. Its crying infant gives me something different to think with from the Neiye's demand to cast off joy.
 
 [[Affect labeling]] offers a separate psychological comparison. In Lieberman and colleagues' imaging study, labeling negative emotional images reduced amygdala responses relative to other forms of encoding ([2007 abstract](https://pubmed.ncbi.nlm.nih.gov/17576282/)). That finding concerns a laboratory task. Whether naming a feeling helps me after an argument is something I can observe in my own life.
 
@@ -33,7 +33,7 @@ After an argument, I can pause long enough to name what I feel and decide what n
 - [Neiye III (Inward Training), Harold Roth's translation, Original Tao (1999), excerpted at the Kongdan Foundation](https://thekongdanfoundation.com/nei-yeh-inward-training-and-the-unity-of-spirit/) — verbatim quote on the six disturbances
 - [Laozi, Dao De Jing 55 (James Legge, 1891), Sacred Texts Archive](https://www.sacred-texts.com/tao/taote.htm) — infant and harmony passage
 - [Lieberman et al., "Putting Feelings Into Words: Affect Labeling Disrupts Amygdala Activity in Response to Affective Stimuli," Psychological Science 18 (2007) (PubMed)](https://pubmed.ncbi.nlm.nih.gov/17576282/) — affect labeling and amygdala response
-- [Chris Fraser, Deviations from the Way, Failures of Virtue: Emotions in Early Daoist Thought, April 2022 preprint](https://philarchive.org/archive/FRADFT-2): sections 3 and 7 on vital essence and equanimity.
+- [Chris Fraser, Deviations from the Way, Failures of Virtue: Emotions in Early Daoist Thought, April 2022 version](https://philarchive.org/archive/FRADFT-2): sections 3 and 7 on vital essence and equanimity; the document labels the chapter forthcoming.
 
 ## Practice kernels
 

@@ -12,22 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 141** — Perceive by acting: perception is movement
 
-The sensorimotor account of vision puts its thesis in two sentences:
+O'Regan and Noë propose a sensorimotor account of vision:
 
 > "We propose that seeing is a way of acting. It is a particular way of exploring the environment." (O'Regan & Noë, "A sensorimotor account of vision and visual consciousness," [PubMed](https://pubmed.ncbi.nlm.nih.gov/12239892/))
 
-The camera model of vision, light in, picture formed, is the intuition; the sensorimotor account replaces the picture with a skill. Seeing is what you do with your eyes, head, feet and hands, an exploration attuned to what changes when you move. A related enactive account states the wider thesis: "cognition is not the representation of a pre-given world by a pregiven mind but is rather the enactment of a world and a mind on the basis of a history of the variety of actions that a being in the world performs" (Varela, Thompson & Rosch, The Embodied Mind, [quoted in Thompson's essay](https://evanthompson.me/wp-content/uploads/2025/09/thompson-enaction-as-the-bringing-forth-of-worlds.pdf)). Hence the principle's practical edge: when stuck mentally, move. One experiment worth trying is a walk: "Four experiments demonstrate that walking boosts creative ideation in real time and shortly after" ([Oppezzo & Schwartz 2014](https://aaalab.stanford.edu/assets/papers/2014/Give_your_ideas_some_legs.pdf)), and the authors' summary: "Walking opens up the free flow of ideas, and it is a simple and robust solution to the goals of increasing creativity and increasing physical activity" ([ibid.](https://aaalab.stanford.edu/assets/papers/2014/Give_your_ideas_some_legs.pdf)). My accounts are [[Sensorimotor accounts of perception]] and [[Perception as action]].
+On their account, visual experience depends on mastering the relations between movement and changing sensory input ([2001 abstract](https://pubmed.ncbi.nlm.nih.gov/12239892/)). The question I follow through [[Sensorimotor accounts of perception]] is what seeing involves beyond receiving a picture.
+
+Thompson's wider enactive account treats perceiver and world as mutually constituting: how something becomes a perceptual object depends partly on the perceiver's activity ([Enaction as the bringing forth of worlds](https://evanthompson.me/wp-content/uploads/2025/09/thompson-enaction-as-the-bringing-forth-of-worlds.pdf)). That develops the philosophical question in [[Perception as action]].
+
+A separate experiment suggests one practical use for movement. Oppezzo and Schwartz found that walking improved the generation of novel, appropriate ideas, including alternate uses for objects ([2014, Experiments 1–3](https://aaalab.stanford.edu/assets/papers/2014/Give_your_ideas_some_legs.pdf)). In Experiment 1, performance on a word task requiring a single correct answer was mildly worse while walking ([p. 1144](https://aaalab.stanford.edu/assets/papers/2014/Give_your_ideas_some_legs.pdf)). The distinction matters: I might try a walk when I need possibilities, then sit down to assess them. That is advice I draw from the experiment; it leaves the theory of visual consciousness an open question.
 
 **Plain words**
-Your eyes work like hands more than like cameras. You look the way you grope in the dark: moving, reaching, checking what changes. So when you are stuck, treat movement as an experiment rather than a break: go for a walk, and watch what the problem looks like from inside the walk.
+I can explore something by changing how I approach it and noticing what changes. When an essay needs ideas, I can try moving around; when it needs a decision, I can return to the page and compare the options.
 
-*For example:* Stuck on the design, staring at the screen — then pacing to the kitchen and back, and the layout reorganizes itself mid-walk. That wasn't a break; that was perception, moving.
+*For example:* Imagine drafting several openings for an essay during a short walk, then reading them at the desk to choose one. This illustrates the distinction; a walk cannot promise a solution.
 
 ## Sources
 
 - [O'Regan & Noë, "A sensorimotor account of vision and visual consciousness," Behavioral and Brain Sciences 24 (2001) (PubMed)](https://pubmed.ncbi.nlm.nih.gov/12239892/) — abstract quotes, verbatim
-- [Varela, Thompson & Rosch, The Embodied Mind (1991), quoted in Evan Thompson, "Enaction as the bringing forth of worlds" (PDF)](https://evanthompson.me/wp-content/uploads/2025/09/thompson-enaction-as-the-bringing-forth-of-worlds.pdf) — enactive-approach passage, verbatim
-- [Oppezzo & Schwartz, "Give Your Ideas Some Legs: The Positive Effect of Walking on Creative Thinking," Journal of Experimental Psychology: Learning, Memory, and Cognition 40 (2014) (PDF, Stanford AAA Lab)](https://aaalab.stanford.edu/assets/papers/2014/Give_your_ideas_some_legs.pdf) — walking and creative ideation quotes
+- [Evan Thompson, "Enaction as the bringing forth of worlds" (2025)](https://evanthompson.me/wp-content/uploads/2025/09/thompson-enaction-as-the-bringing-forth-of-worlds.pdf): distinguishes formulations of enaction, including the account in Varela, Thompson and Rosch's The Embodied Mind.
+- [Oppezzo & Schwartz, "Give Your Ideas Some Legs: The Positive Effect of Walking on Creative Thinking," Journal of Experimental Psychology: Learning, Memory, and Cognition 40 (2014) (PDF, Stanford AAA Lab)](https://aaalab.stanford.edu/assets/papers/2014/Give_your_ideas_some_legs.pdf): divergent-thinking findings and the convergent-task qualification, pp. 1142–1144.
 
 ## Stories
 
@@ -43,13 +47,13 @@ Your eyes work like hands more than like cameras. You look the way you grope in 
 - [[K205 — Nature exposure|K205 Nature exposure]]
 ## Psychology parallels
 
-- **[[Sensorimotor accounts of perception|Sensorimotor accounts of perception]]** (O'Regan and Noe, 2001)
-- **Walking and creativity** (Oppezzo and Schwartz, 2014)
+- [[Sensorimotor accounts of perception|Sensorimotor accounts of perception]]: O'Regan and Noë's proposal.
+- Walking and divergent thinking: Oppezzo and Schwartz's experiments, cited above.
 
 ## Philosophy parallels
 
-- **[[Perception as action|Perception as action]]** (Varela, Thompson and Rosch, The Embodied Mind)
-- **[[Doing and undergoing|Doing and undergoing]]** (Dewey, Art as Experience)
+- [[Perception as action|Perception as action]]: the enactive accounts discussed above.
+- [[Doing and undergoing|Doing and undergoing]]: further comparative reading.
 
 <!-- fc: reflections
 Where is your current perception actually passive receiving — staring — rather than active, skillful exploration? What would the acting-perceiving look like?
