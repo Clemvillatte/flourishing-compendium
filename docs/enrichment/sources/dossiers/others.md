@@ -280,3 +280,21 @@ both the map's story group and the Story section with different
 facts from the same meta-analysis — the established pattern, no
 contradiction. No defects found at reader level; no edits. Checker
 exit 0.
+
+## GF-model conversion (worker-pplx-dos24-1025a, 2026-10-25)
+
+The dossier was restructured per the 2026-10-25 owner orders: the old
+map format (one `## The map:` section with per-term gloss lines) was
+dissolved into an interwoven thread with question-style subsection
+headings. The map header was renamed to `## Where others sit in a
+life`, and every subsection (what other people do, how the self is
+built from others, empathy, compassion and care, love and friendship,
+what one person owes another, helping, relationships and communities,
+the stories and sayings) was converted from gloss lists to connected
+prose: each card link is now embedded in a natural sentence rather
+than standing in a `label: description` line. The Story section
+retains its one-line loglines as the format allows. Checker exit 0
+(133 card links resolve, 19 headers, 9 external carriers); density
+check 0 dense; 59 paragraphs, 2.0 card links per paragraph. Commits:
+b4abf67c, 84b9d123, 4c284076, 74d15032, f078cb97, 23b9621b,
+a596f761, a88f916d, b4aa9b4e (passes 1-9).
