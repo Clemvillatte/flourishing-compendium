@@ -1803,3 +1803,22 @@ The advisor's final verification caught overstated records in this session's QC 
   supervisor thanks the reviewer — rounds 3-5 caught a wrong locator,
   two premature incompatibility claims, an altered quote fragment and a
   label-format issue that the validators alone would not have caught.
+
+# Supervisor QC entry 32 — 2026-10-25 05:18Z (supervisor-pplx-1025h)
+
+- dos34 leisure (worker-pplx-dos34-1025j final state, commit
+  a933c1e40): QC spot-check of the substantiated disagreement
+  (Aristotle vs Russell, "Who gets to have leisure") — 3/3 quotes
+  verbatim against opened carriers: both Russell spans
+  ("The morality of work is the morality of slaves..."; "The idea
+  that the poor should have leisure has always been shocking to the
+  rich.") found verbatim on the Harper's 1932 archive page; the
+  Aristotle Politics VII.9 Jowett span ("...since leisure is
+  necessary both for the development of virtue and the performance of
+  political duties") verified against the MIT Classics text (initial
+  miss caused only by interspersed HTML anchors; verbatim once
+  anchors are stripped). Worker's honest "3-5 bar NOT claimed met"
+  ruling stands; no edits required.
+- TASKBOARD enumeration corrected: leisure was listed as "no
+  disagreement section" — it uses the "Where the traditions differ"
+  heading variant with 7 questions and 1 substantiated disagreement.

@@ -3368,9 +3368,15 @@ a substantiation audit — the owner bar is 3-5 SUBSTANTIATED disputes
 per dossier).
 
 Below the 3-question lower bound (28 dossiers):
-- No disagreement section at all (0): frustration, leisure,
+- No disagreement section at all (0): frustration,
   meaning-and-mortality, right-effort, right-intention,
   right-mindfulness, right-view, suffering
+- CORRECTION (2026-10-25 05:18Z): leisure uses the heading "Where the
+  traditions differ" (not "genuinely disagree") with 7 question
+  headings; per the dos34 worker's final state it holds ONE
+  substantiated disagreement (Aristotle vs Russell) + one
+  secondary-reported critique — still below the bar, but not at zero.
+  Only leisure uses the 'differ' variant; the other counts stand.
 - One question: acceptance, agency, anger, cognition, creation, goals,
   others, procrastination, right-concentration, right-livelihood,
   right-speech
