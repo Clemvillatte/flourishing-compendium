@@ -660,3 +660,90 @@ the too-tight or too-slack strings — matches) and ST067 Fletcher's
 Classroom (bleeding hands, the car crash, the final scene —
 matches). All three match. With batch 1, the sampled cards all
 verify. No defects found.
+
+## 3-5-bar disagreement repair attempt (worker-pplx-dos18-1025f, 2026-10-25, T0 04:42:20Z)
+
+Status: WIP, NOT applied to the live dossier. The published right-view.md is
+untouched (verified via git checkout origin/main); the full revision is saved at
+docs/enrichment/drafts/dos18/right-view-disagreements-rev1.md. Advisor QC round 2
+WITHHELD clearance; the ledger records the verdict and the evidence honestly.
+
+RESEARCH DONE THIS SESSION (all carriers opened live; every new quote verified
+verbatim against the fetched carrier text):
+
+1. MMK 13.8 (Garfield translation) via justdharma.org — fetched; verse matches.
+   The antilogicalism.com mulamadhyamakakarika.pdf was downloaded first — it is
+   the Kalupahana (1991) translation with corrupted OCR ("rełinquishiog") and
+   was NOT used. SEP Nagarjuna entry fetched live: "a corrective to a mistaken
+   view of how the world exists" and "the theory of emptiness is not to be
+   regarded as an ultimately true theory either" verbatim in the entry.
+2. MN 60 Apaṇṇaka Sutta (accesstoinsight, Thanissaro) — fetched; quotes verified:
+   "Because there actually is the next world, the view of one who thinks, 'There
+   is a next world' is his right view." / "If there is the next world, then this
+   venerable person — on the breakup of the body, after death — will reappear in
+   a good destination, a heavenly world" / "this safe-bet teaching, when well
+   grasped & adopted... covers both sides" (ellipsis spans "by him,").
+3. DN 2 Samannaphala Sutta (accesstoinsight, Thanissaro) — fetched; Ajita
+   Kesakambali quotes verified verbatim, contiguous span "...there is nothing
+   given ... for themselves." and "With the break-up of the body, the wise and
+   the foolish alike are annihilated, destroyed."
+
+RESULT: ONE established opposition — MN 60's grounding of right view in the
+next world vs DN 2's Ajita Kesakambali denial (same question, mutually
+exclusive answers, both carriers opened). TWO UNESTABLISHED comparisons:
+(a) MN 117 cultivation vs MMK 13.8 relinquishing — the opened passages do not
+establish that Nagarjuna rejects the cultivation MN 117 recommends; the
+comparison turns on the referent of "view" and is not a demonstrated
+disagreement; (b) SN 56.11 task verbs vs MN 60 propositional grounding —
+neither passage says performing the tasks excludes accepting propositions; no
+rival answers established.
+
+INHERITED VERIFICATIONS NOT REPEATED THIS SESSION: MN 117, MN 9, SN 12.15,
+SN 56.11, Diamond Sutra 31 quotes in the live dossier rest on the pass-22/23
+raw verifications recorded above in this ledger. This session's checks
+(dossier_check exit 0, 42 links; density 0 dense; quote_verify 16/16 on the
+draft) are mechanical and do not validate the interpretations; the advisor
+ruled them so.
+
+ADVISOR QC ROUND 1 (verdict: not cleared; repairs listed) — applied in the
+draft: overstated opposition phrases removed; DN 2 quote re-bounded to an
+exact contiguous span; "young King-to-be" and the "record is the winner's"
+aphorism replaced with the bounded king's-report provenance; carrier links on
+all inline quotes; first-person judgment added to the MN 60/DN 2 question.
+ADVISOR QC ROUND 2 (verdict: STILL not cleared; the two comparisons do not
+become disagreements by honesty about being tensions; freedom's supervisor
+precedent grants no exception here): instructions — keep the MN 60/DN 2
+opposition as the one established disagreement with the heading "Is there a
+next world?"; move the two comparisons out of the counted section under
+"Related questions" with bounded text (drafted in round-2 advice, recorded
+below); do not rebuild the published dossier; save WIP under the band draft
+directory; ledger corrected to one-established/two-unestablished; advisor
+clearance withheld. COMPLIED: draft saved, live dossier preserved, this ledger
+entry written. No freedom-equivalence is claimed.
+
+The round-2 advisor text for the two comparisons, recorded verbatim for the
+next worker (from the advisor output, 2026-10-25 ~04:55Z):
+- Q1: "MN 117 calls right view the forerunner. MMK 13.8 describes emptiness as
+  'the relinquishing of all views' and warns against making emptiness itself a
+  view. The comparison raises a question about what each passage means by
+  'view'; the opened passages do not establish that Nāgārjuna rejects the
+  cultivation MN 117 recommends."
+- Q3: "SN 56.11 assigns tasks to the four truths; MN 60 also gives right view
+  propositional content through its affirmation of a next world. Neither
+  passage says that performing those tasks excludes accepting propositions.
+  How conviction and practice belong together remains a useful question, but
+  these passages do not establish rival answers."
+- Q2 close: "I would distinguish MN 60's conditional practical argument from its
+  assertion that a next world exists. The wager supplies a reason for choosing
+  how to act under uncertainty; it does not by itself verify that assertion.
+  Here Ajita's teaching is presented through the king's report within a
+  Buddhist discourse."
+
+NEXT WORK for this band: research two more GENUINE disagreements for
+right-view from opened primary sources before any rewrite of the live section.
+Candidate direction flagged by this session: the intra-Madhyamaka interpretive
+dispute on whether Nāgārjuna's "no thesis" claim (Vigrahavyāvartanī) leaves the
+path's right view standing — needs an opened carrier documenting the dispute;
+if the SEP Nagarjuna entry's no-thesis section carries it, that is the
+vehicle. Per-dossier exception remains available ONLY after genuine effort,
+flagged on the Owner-Board.
