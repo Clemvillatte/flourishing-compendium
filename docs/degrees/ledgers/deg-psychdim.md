@@ -626,8 +626,7 @@ language-and-thought questions framed for the next course segment: is language n
 abstract thought (Bloom's no: prelinguistic babies and nonlinguistic animals reason) and
 does language structure thought (linguistic relativity, English versus Korean). Serves the
 M3 cognitive elective. Chapter 3 (Question and Answer on Language, 00:12:39 to 00:18:06):
-individual differences in language learning (Bloom's Einstein-did-not-talk-until-age-five
-anecdote, explicitly flagged by Bloom as probably not true; slight female advantage; large
+individual differences in language learning (Bloom's Einstein-did-not-speak-until-age-four anecdote, explicitly flagged by Bloom as not a true story; slight female advantage; large
 genetic factor; hemispheric bases); bilingual children distinguishing and learning both
 languages; multilingualism as the world norm; and Bloom's account that children learning more than one language seem to show no
 deficit and no slowdown in either language, with his as-far-as-we-know qualifier,
@@ -660,7 +659,7 @@ QC pass (2026-10-25, worker-pplx-psychdim-2, batch 23; advisor round 2): the adv
 withheld clearance on batches 19 to 22 with four repairs, all applied in this pass. (1)
 Provenance: the full-text fetches used for batches 18 to 22 carried a return-as-is prompt
 rather than being fully unprompted; every entry was re-verified in this pass against a raw
-unprompted re-fetch of the same OYC page (prompt omitted). The checks differed by lecture and are recorded as performed: lecture 13's transcript body was compared in full (all words, then all alphanumerics) and is identical, the only differences being sentence-boundary spacing introduced by the two page cleanings; lecture 17's body was compared and is identical in substance, the raw additionally preserving printed false starts; lectures 11 and 12 were re-read from raw fetches with the entries' content claims and quoted spans checked against the raw text and matching; lecture 16 was re-read from a raw fetch with the entry's content claims checked and matching. Full word-by-word body comparisons were run only for lectures 13 and 17; the lectures 11, 12 and 16 checks were claim-and-quote checks, not full-body diffs. Lecture 17's raw fetch additionally preserves
+unprompted re-fetch of the same OYC page (prompt omitted). The checks differed by lecture and are recorded as performed: lecture 13's transcript body was compared with two tests: the word-level comparison returned 84 differences (in the inspected sample, sentence-boundary spacing joins such as 'today.So'), and the ASCII-alphanumeric sequences, after removing punctuation, whitespace and case, are identical — two matching strings of 43,710 characters each; lecture 17's body was compared and is identical in substance, the raw additionally preserving printed false starts; lectures 11 and 12 were re-read from raw fetches with the entries' content claims and quoted spans checked against the raw text and matching; lecture 16 was re-read from a raw fetch with the entry's content claims checked and matching. Full word-by-word body comparisons were run only for lectures 13 and 17; the lectures 11, 12 and 16 checks were claim-and-quote checks, not full-body diffs. Lecture 17's raw fetch additionally preserves
 Bloom's printed false starts (for example 'typical — typically' and 'what we expect and what
 we actually — what actually happens') that the earlier fetch had smoothed; no quoted span in
 the ledger is affected, and the raw text is now the authority of record. (2) Lecture 13's
