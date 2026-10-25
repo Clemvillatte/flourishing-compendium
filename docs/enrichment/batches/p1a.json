@@ -7,7 +7,6 @@
   "D078",
   "P073",
   "S001",
-  "D087",
   "R055",
   "P139",
   "E011",
@@ -32,9 +31,9 @@
   "E007",
   "D031"
  ],
- "in_progress": null,
+ "in_progress": "D087",
  "flagged": {
-  "D087": "RESOLVED by worker-p1a-1025b 2026-10-25 (per-item verification, routing correction recorded): the reopen allegation text (gentleness translation, three treasures) belongs to D031, not D087, as noted in sources/p1a/repair-b303ba60.md; D087 was reviewed against its actual butterfly-dream source: the verbatim Zhuangzi 2 quotation is present and both opened carriers (Legge/METIS chapter 2 §14; Silkqin reproduction) reproduce it per the repair ledger; the page marks the reading as \"my application of the passage, not a psychological finding\" and preserves the Zhou/butterfly difference. No page edit needed this session. Source verification not repeated. [ORIGINAL ALLEGATION: Reopened for QC: Add verbatim primary quotation and distinguish gentleness translation from guaranteed outcomes]",
+  "D087": "Reopened for QC: QC: shorten Plain words and replace abstract application with concrete identity-label question",
   "D055": "RESOLVED by worker-p1a-1025b 2026-10-25 (per-item verification): repair confirmed present on the current page — Plain words defines non-forcing directly without relying on questions (\"imposing a preferred outcome without attending to how things are developing... does not require withdrawing when action is needed\"), and the application includes feedback (hearing concerns, considering revision; \"Securing a meeting is different from securing their assent\"). No page edit needed this session; source verification not repeated; evidence in sources/p1a/repair-b303ba60.md §D055. [ORIGINAL ALLEGATION: Reopened for QC: Make non-forcing intelligible independently of questions and include feedback in the application]",
   "D080": "RESOLVED by worker-p1a-1025b 2026-10-25 (per-item verification): repair confirmed present on the current page — Plain words makes perspective and accommodation intelligible directly (different concerns can reveal a change both can accept) without flattening all judgments (\"take a preference seriously while still questioning claims that lack support\"), matching Hansen's circumstance-dependent-judgment reading per the ledger; the shift example includes a one-week trial and joint review. No page edit needed this session; source verification not repeated; evidence in sources/p1a/repair-b303ba60.md §D080. [ORIGINAL ALLEGATION: Reopened for QC: Make perspective and accommodation intelligible in Plain words without flattening all judgments]",
   "D054": "RESOLVED by worker-p1a-1025b 2026-10-25 (per-item verification): repair confirmed present on the current page — Plain words explains automaticity before any practice instruction (\"Repeated action in a consistent setting can become more automatic. That change develops over time...\"), and the source counts (Lally abstract: participants, 18-254-day modelled range, missing-one-opportunity sentence) plus the Wilhelm/Baynes esoteric-context qualification were verified against opened carriers per the repair ledger. No page edit needed this session; source verification not repeated; evidence in sources/p1a/repair-b303ba60.md §D054. [ORIGINAL ALLEGATION: Reopened for QC: Explain automaticity before practice instructions; verify source counts and esoteric-context limits]",
@@ -67,7 +66,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 50,
- "updated": "2026-10-25T10:46:19+00:00",
+ "updated": "2026-10-25T10:47:21+00:00",
  "band_done": false,
  "notes": {
   "leftover_repairs_2026_10_22": "worker-pplx-p1a-77f2b91c: queue-principles.json audit found 3 leftover items (K008, SE066 no-source-URL; D075 checked and COMPLIANT with the 40-300 principle word band, no action). ROUTING CORRECTION (advisor QC round 2): K008 belongs to p1w (done there), SE066 to p1b (done+flagged there); the repairs were executed by this worker under p1a in error — content edits are verified and kept, but the items are REMOVED from p1a done (this file) and flagged to the supervisor for reconciliation into p1w/p1b state files. Repairs delivered: K008 Sources URL added (archive.org catalog record, 1982 UC Press edition; translator removed from the link label per advisor — the catalog record does not list it); SE066 Sources URLs added, both Vygotsky quotes raw-verified against the Mind in Society full text, Nietzsche German verified against the Gutenberg German text (prior hold resolved) plus the English rendering verified against the Gutenberg English text, Park et al. 2023 fetched and quoted verbatim, Nietzsche/PTG blocks restructured into the body with headings per advisor, workflow language swept. Per-item ledgers: sources/p1a/K008.md and sources/p1a/SE066.md (to be merged into p1w/p1b ledgers by the supervisor)."
