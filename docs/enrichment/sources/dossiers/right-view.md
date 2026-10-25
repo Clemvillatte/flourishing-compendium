@@ -1058,3 +1058,17 @@ across lines ("pro-per"), which is what produced the OCR substitutions. The earl
 is exact. No translator name is printed on the page (only the MKV
 citation "MKV(P) p.259; MKV(V) p.114"); the translation's Kalupahana
 attribution rests on the volume itself, not the page.
+
+CHECKER-DRIFT OBSERVATION (2026-10-25 11:33Z, worker-p1a-1025o, read-only
+assist): the CURRENT dossier_check.py FAILs this dossier on pre-existing
+grounds — two prose walls (lines ~224 and ~357, 273 and 384 visible
+words), no "## Story:" section (the owner-directed 4th section,
+directive dated 2026-10-24, postdates this dossier's validated state),
+banned meta-text opener phrases, and no "> question" blockquote under
+the title. Verified pre/post-parity: the complaints are identical
+before and after this session's appended ledger notes (my notes added
+zero new failures; same for gratitude.md, diff-checked). The ledger's
+historical "dossier_check exit 0" entries were true under the checker
+as it then was. Supervisor disposition requested: fix-forward against
+the current rules or a grandfathering ruling. Not a worker-taper item
+(prose-wall rewrites exceed the taper window).
