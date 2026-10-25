@@ -1,5 +1,23 @@
 ## OWNER CORRECTION 2026-10-25 14:34Z (gm-c2183cca, supervisor)
 
+Completed and pushed 2026-10-25 14:57Z. Seventy-two kernels have specific
+labels and 244 omit classification. All 81 candidate labels received an
+advisor source/context audit; fifteen were corrected, qualified or omitted.
+Meaning & Mortality is published with the owner's Memory artwork and a
+new, verified Marcus/Nagel dispute; its own-page ruling was already resolved.
+Cross-view dossier-to-card navigation and an inherited memory-only main
+storage adapter were repaired. Save/reload now preserves favourites.
+Full Python suite: 76 tests; Randomiser suite: 9 tests; dossier validation
+and density pass. Advisor signs off on the dossier and origin changes.
+
+UI residuals for the next appropriate pass, not publication blockers:
+the pre-existing mobile topbar has a small horizontal overhang at 375px,
+and graph physics settings still use a session-only preview stub.
+Do not remove browser persistence to satisfy a restricted preview iframe:
+use the actual GitHub Pages deployment for production verification.
+The storage adapter also preserves readable existing saves when storage
+is full, and propagates later write failures to callers' error handling.
+
 Supersedes the modality-display instructions below. The owner rejected the
 large red footer callout and the meaningless "Therapeutic approach: general".
 Use a small, unboxed origin line directly above the opening quote area.

@@ -43,3 +43,26 @@ Colour remains the owner's previously specified #E34234, as quiet 12px
 text with no box, background, border or bold weight.
 No protocol, evidence caveat, source, card link or navigation grouping
 is changed by this migration. Unclassified practices receive no label.
+
+## Release verification
+
+- Seven origin regression tests and nine Randomiser tests pass.
+- Full Python suite passes: 76 tests, including four new storage-adapter
+  regressions for native storage, restricted access, existing readable saves
+  in full storage, and later quota failure reaching caller error handling.
+- Desktop and 375px browser checks confirm K136's 12px, unboxed origin
+  immediately precedes the opening blockquote. K123 displays DBT; K200
+  displays no unsupported classification.
+- Draw, save, history navigation, Graph controls, Academy and Dossiers
+  were exercised. Meaning & Mortality's supplied image was decoded
+  and visually checked at 1200x914 before thumbnail display.
+- A cross-view card route left the Library hidden under academy-mode;
+  using the patched global dispatcher repairs that path.
+- Save/reload exposed an inherited hardwired memory-only FC_LS adapter.
+  Restored normal browser storage with the existing safe memory fallback.
+  Browser verification now keeps a saved count of one after reload.
+- Hosted preview deployment is blocked by the existing app's storage
+  APIs. No production persistence is stripped to bypass that restriction.
+  GitHub Pages was opened: the origin line and published third dispute
+  were observed; the latest image/routing/persistence build is checked
+  against the release workflow rather than assumed from a pushed commit.

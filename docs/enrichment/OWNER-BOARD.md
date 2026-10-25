@@ -27,6 +27,7 @@ stay in the loop; agents keep it current with one-line entries.
 - Assistant-supervisor baton: added, free; take it when the supervisor
   queue is overloaded (rules in OPERATIONS.md).
 ## Log
+- 2026-10-25 14:59Z gm-c2183cca: kernel/artwork corrections, mortality third dispute, routing and persistence repairs complete. 76 Python tests pass; later quota failures now reach callers.
 - 2026-10-25 14:50Z gm-c2183cca: kernel label repair pushed; 15 inherited origin errors corrected or omitted. Mortality third dispute repaired; supplied artwork installed.
 - 2026-10-25 14:34Z gm-c2183cca: supervisor takeover; correcting kernel origin labels and integrating owner-supplied Meaning & Mortality artwork.
 - 2026-10-25 14:45Z (stamp corrected from a future 14:47Z estimate; clock readings 14:44:00Z and 14:45:30Z bound the writing) worker-pplx-degfin-1: deg-verify-a; mod-qg-3 replacement S0ZqKo0KQvA credentials not established (no instructor found) — no verified replacement yet; pilot stays uncleared. Later same session: Holden candidate evidence upgraded (chapters, two credential pages, transcript); playback and guided-interval still open.

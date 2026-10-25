@@ -51,13 +51,28 @@ class StorageAdapterTests(unittest.TestCase):
             "assert.equal(FC_LS.getItem('favourites'),null);",
         )
 
-    def test_unwritable_storage_falls_back_without_crash(self):
+    def test_full_readable_storage_preserves_saves_and_signals_write_failure(self):
         self.run_js(
             "const assert=require('node:assert/strict');"
-            "global.window={localStorage:{setItem(){throw new Error('quota')}}};",
-            "assert.equal(FC_LS.persistent,false);"
-            "FC_LS.setItem('draft','my essay');"
-            "assert.equal(FC_LS.getItem('draft'),'my essay');",
+            "global.window={localStorage:{"
+            "getItem:k=>k==='draft'?'existing essay':null,"
+            "setItem(){throw new Error('quota')}}};",
+            "assert.equal(FC_LS.persistent,true);"
+            "assert.equal(FC_LS.getItem('draft'),'existing essay');"
+            "assert.throws(()=>FC_LS.setItem('draft','new essay'),/quota/);"
+            "assert.equal(FC_LS.getItem('draft'),'existing essay');",
+        )
+
+    def test_later_write_failure_is_not_reported_as_success(self):
+        self.run_js(
+            "const assert=require('node:assert/strict');"
+            "let fail=false;const data=new Map();"
+            "global.window={localStorage:{"
+            "getItem:k=>data.get(k)??null,"
+            "setItem(k,v){if(fail)throw new Error('quota');data.set(k,v)}}};",
+            "FC_LS.setItem('draft','saved essay');fail=true;"
+            "assert.throws(()=>FC_LS.setItem('draft','unsaved essay'),/quota/);"
+            "assert.equal(FC_LS.getItem('draft'),'saved essay');",
         )
 
 
