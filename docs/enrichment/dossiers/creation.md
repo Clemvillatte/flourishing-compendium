@@ -121,7 +121,7 @@ Sennett extends the impulse well past skilled manual labour, to programming, med
 
 One question the sources answer in opposite ways: when a maker finds meaning in the making, is the meaning there to be found, or does the maker put it there?
 
-Frankl's logotherapy says discovered, and he argues for it. The word discover is doing the work: "we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed" ([Frankl](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)). And he refuses the opposite reduction in so many words: "There are some authors who contend that meanings and values are 'nothing but defence mechanisms, reaction formations and sublimations.' ... Man, however, is able to live and even to die for the sake of his ideals and values!" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)).
+Frankl's logotherapy says discovered, and he says it about the meaning itself, in the paragraph that precedes the three routes: "the true meaning of life is to be discovered in the world rather than within man or his own psyche, as though it were a closed system" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)). The three routes are routes to that outward meaning: "we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed".
 
 Nietzsche says created. The significance of things is human, assigned, and nothing carries it until a valuer assigns it:
 
@@ -129,7 +129,7 @@ Nietzsche says created. The significance of things is human, assigned, and nothi
 
 > "Valuing is creating: hear it, ye creating ones!" ([Nietzsche, Thus Spake Zarathustra](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm))
 
-The clash is real at the level each claim makes. Frankl's discovery presupposes a meaning that precedes the maker; Nietzsche's creation rejects any significance that was not assigned. What the two sources leave unresolved is whether both can hold of different parts of one act of making, the usefulness of a made thing being there to be found while its worth is conferred, or whether one account must give way.
+The clash is real at the level each claim makes. For Frankl the meaning sits in the world, there to be found by the maker; for Nietzsche nothing carries significance until a valuer assigns it. What the two sources leave unresolved is whether both can hold of different parts of one act of making, the usefulness of a made thing being there to be found while its worth is conferred, or whether one account must give way.
 
 ## Where the meaning of making lands
 

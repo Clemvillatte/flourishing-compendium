@@ -1,10 +1,10 @@
 {
   "batch": "dos31",
   "done": [],
-  "note": "rev 6 (worker-pplx-dos31-1025c, 2026-10-25): advisor round 5 applied — divergence strengthened with the raw-verified Frankl defence-mechanisms passage; Creative values and The will to meaning links restored; five connection cards read in full and glosses corrected; exclusions substantiated; checker exit 0 (51 card links, 15 external occurrences); STATUS: content review",
-  "in_progress": "creation (rev 6: content review — advisor rounds 1-5 applied; divergence developed and raw-verified, supervisor review requested)",
+  "note": "rev 7 (worker-pplx-dos31-1025c, 2026-10-25): advisor rounds 5-6 applied — divergence argued with the raw-verified Frankl discover-in-the-world sentence ('the true meaning of life is to be discovered in the world rather than within man or his own psyche'); unsupported categorical claims removed; Creative values and The will to meaning links restored; five connection cards read in full, glosses corrected, exclusions substantiated; checker exit 0 (51 card links, 15 external occurrences); STATUS: content review",
+  "in_progress": "creation (rev 7: content review — advisor rounds 1-6 applied; divergence developed and raw-verified, supervisor review requested)",
   "flagged": {
-    "divergence-requirement": "Developed and raw-verified: Frankl (discover + rejection of the invented-values view, defence-mechanisms passage grep-verified against the raw PDF text) vs Nietzsche (created significance + Valuing is creating, Gutenberg raw). Rev 5 per the advisor acceptance test, strengthened in rev 6; supervisor review of the divergence itself requested",
+    "divergence-requirement": "Developed and raw-verified: Frankl ('the true meaning of life is to be discovered in the world rather than within man or his own psyche', grep-verified against the raw PDF text) vs Nietzsche (created significance + Valuing is creating, Gutenberg raw). Rev 5 per the advisor acceptance test, corrected and strengthened through rev 7; supervisor review of the divergence itself requested",
     "procreation": "full-text search across content/ finds no card carrying the word \"procreation\"; the nearest material is generativity, legacy research and Bergson's mother-and-child passage; possible owner-visible gap"
   },
   "notes": "Owner-directed mint 2026-10-25: registry entry added as planned; supervisor review of the mint requested (precedent: Hypo-egoic owner-directed intake). Registry flip and Academy splice remain supervisor-only."

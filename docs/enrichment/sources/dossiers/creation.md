@@ -5,17 +5,17 @@ in-session research notes in the dos31 baton commits are incorporated: card
 reading of Generativity theory, Homo faber, Creative values, BE059, E062,
 PP022, The will to meaning; M039 Nezahualcóyotl flower-and-song read against
 its card; the Ricoeur SEP carrier noted; the procreation-cluster thinness
-flagged). Dossier: docs/enrichment/dossiers/creation.md, CURRENT rev 6
+flagged). Dossier: docs/enrichment/dossiers/creation.md, CURRENT rev 7
 (rev 1: 5e9e5fd88; rev 2: f985c5d4b, advisor round 1; rev 3: 23937d248,
 advisor round 2; rev 4: f849f81c1, advisor round 3; rev 5: 946b8d262,
-advisor round 4; rev 6: this entry, advisor round 5).
-Checker at rev 6: exit 0 (51 card links resolve, 16 headers, 15 external
-carrier link occurrences across 9 distinct URLs; the Nietzsche page and the
-Bergson lecture are each linked twice).
+advisor round 4; rev 7: this entry, advisor rounds 5-6).
+Checker at rev 7: exit 0 (51 card links resolve, 16 headers, 15 external
+carrier link occurrences across 9 distinct URLs; the Nietzsche page is
+linked four times and the Bergson lecture twice).
 
 ## Verification method (current state)
 
-EVERY block quotation in rev 6 was verified word-for-word against
+EVERY block quotation in rev 7 was verified word-for-word against
 UNPROMPTED raw text: raw curl downloads (Bergson Creative Evolution,
 Nietzsche Zarathustra, Frankl PDF via pdftotext), raw HTML with tags
 stripped (Whitehead Garland, Bergson lecture, Arendt kortina, Rubinstein
@@ -32,16 +32,11 @@ story cards were read in full, not from prefixes.
    Carrier: https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf
    (raw download + pdftotext; local file /tmp/frankl.pdf). VERBATIM. Note: the E062 card prints "discover this
    meaning of life"; the opened carrier reads "discover this meaning in
-   life". The dossier follows the opened carrier. The rev 6 divergence also
-   quotes the book's rejection of the meanings-and-values-as-defence-
-   mechanisms reduction ("There are some authors who contend that meanings
-   and values are 'nothing but defence mechanisms, reaction formations and
-   sublimations.' ... Man, however, is able to live and even to die for the
-   sake of his ideals and values!"); grep-verified against the same raw
-   pdftotext output (the middle of the sentence, "But as for myself, I
-   would not be willing to live merely for the sake of my 'defence
-   mechanisms,' nor would I be ready to die merely for the sake of my
-   'reaction formations.'", is elided with an ellipsis in the dossier).
+   life". The dossier follows the opened carrier. The rev 7 divergence also
+   quotes the sentence that precedes the three routes in the book ("the true
+   meaning of life is to be discovered in the world rather than within man
+   or his own psyche, as though it were a closed system"); grep-verified
+   against the same raw pdftotext output.
 
 2. Conner, DeYoung and Silvia 2018, abstract sentences.
    Carrier: https://doi.org/10.1080/17439760.2016.1257049
@@ -144,8 +139,8 @@ story cards were read in full, not from prefixes.
   resolving.
 - The dossier now carries one developed divergence ("Is the meaning of
   making discovered or created?", Frankl vs Nietzsche, both passages
-  raw-verified, the Frankl side argued with the book's own rejection of
-  the invented-values view) plus one bounded comparison with an open ranking question
+  raw-verified, the Frankl side argued with the book's own discover-in-the-
+  world sentence) plus one bounded comparison with an open ranking question
   ("Where the meaning of making lands"). The Arendt-vs-Whitehead candidate
   was NOT promoted, per the advisor's ruling that verified quotes alone
   cannot put them on one question.
@@ -218,8 +213,9 @@ present-tense certification contradicts the current state.
    boundary of the made-connection cluster) added to the map after title
    and full-text sweeps. Excluded with reasons: Right association (DN 31
    is about choosing companions, not making links), Connectedness in
-   well-being research (the felt sense of connection rather than its
-   making), Connectionism (neural-network architecture).
+   well-being research (research on social relationships and happiness,
+   not the making of connections), Connectionism (neural-network
+   architecture).
 3. The "Making as a route to meaning" subtheme reworked into connected
    short paragraphs (Frankl -> will to meaning -> clinical descendant ->
    the diary study's different, empirical question -> boundary markers),
@@ -231,18 +227,22 @@ present-tense certification contradicts the current state.
    including the raw-text endpoints used for grep verification where they
    differ from the public citation link.
 
-## Advisor QC round 5 — repairs applied in rev 6
+## Advisor QC rounds 5-6 — repairs applied in rev 6 and rev 7
 
-1. Divergence strengthened: the raw Frankl text was searched for an explicit
-   discover-vs-invent distinction. The book supplies one: Frankl names the
-   authors who contend that meanings and values are "nothing but defence
-   mechanisms, reaction formations and sublimations" only to refuse them
-   ("Man, however, is able to live and even to die for the sake of his
-   ideals and values!"). The divergence now argues the Frankl side with
-   that passage plus the discover fragment, quotes it with the carrier's
-   own ellipsis, and drops the unsupported stronger paraphrase ("a meaning
-   that holds whether or not anyone finds it"). The reconciliation stays
-   phrased as the unresolved question, attributed to neither author.
+1. Divergence strengthened across two rounds. Round 5's raw search first
+   surfaced the book's refusal of the meanings-and-values-as-defence-
+   mechanisms reduction; advisor round 6 ruled that passage does not
+   establish the opposition (rejecting a psychological reduction is not
+   rejecting value-creation), and the draft's categorical claims ("he
+   refuses the opposite reduction", "a meaning that holds whether or not
+   anyone finds it") were unsupported. The paragraphs immediately
+   surrounding the three-routes passage were then inspected, and they
+   carry the distinction the divergence needs: "the true meaning of life
+   is to be discovered in the world rather than within man or his own
+   psyche, as though it were a closed system" (rev 7). The defence-
+   mechanisms quotation was removed from the dossier; the reconciliation
+   stays phrased as the unresolved question, attributed to neither
+   author.
 2. Two card links restored to the first subtheme after the rev 5 synthesis
    dropped them: Creative values (Frankl's own name for the first route,
    now introduced with the card's own definition) and The will to meaning
@@ -259,18 +259,20 @@ present-tense certification contradicts the current state.
    joke or metaphor among its forms).
 4. Exclusions now substantiated by full card reads: Connectedness in
    well-being research is Diener and Seligman's study of social ties
-   (necessary-not-sufficient social relations), a felt-having rather than
-   a making; Connectionism is the neural-network modelling tradition
+   (social relations necessary, no variable sufficient), research on
+   social relationships and happiness rather than the making of
+   connections; Connectionism is the neural-network modelling tradition
    (weighted links between units), a technical sense of connection. Both
    exclusions stand.
 
 ## Open points for any revision pass
 
 - The genuine-divergence requirement: developed and raw-verified (rev 5,
-  strengthened rev 6 with the defence-mechanisms passage); supervisor
-  review requested. The remaining open research question, whether both
-  accounts can hold of different parts of one act of making, is stated
-  as unresolved in the dossier and attributed to neither author.
+  corrected rev 6, rev 7 argues the Frankl side with the book's own
+  discover-in-the-world sentence); supervisor review requested. The
+  remaining open research question, whether both accounts can hold of
+  different parts of one act of making, is stated as unresolved in the
+  dossier and attributed to neither author.
 - The Bangerter et al. generativity definition quoted on the K225 kernel
   card was not verifiable against the cited carrier's abstract this
   session; the dossier paraphrases it.
