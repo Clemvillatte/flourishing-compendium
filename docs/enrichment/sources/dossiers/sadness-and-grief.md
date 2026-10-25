@@ -276,3 +276,9 @@ matches), ST187 Joy Reads the Memory (the comfort made by Sadness
 Hu (the singing friends, the question of li — matches). All four
 match. With batch 1, the sampled cards all verify. No defects
 found.
+
+### supervisor quote-audit (pass 6, verified-by-eye)
+
+- Stroebe & Schut 1999 dual-process quotes: verified verbatim in the live carrier PDF (`dual-process-model-by-M.-Stroebe-.pdf`); tool could not match because the PDF text layer has broken ligature extraction (spurious spaces inside words: "T his", "conf rontation"). Semantic Scholar record confirms the abstract verbatim. Tool "not found" is an extraction artifact, not a content failure.
+- Cunsolo & Ellis 2018 quotes ("we-creating" and "question fundamental assumptions"): carrier URL at uwosh.edu now returns 404 (link health); both quotes verified verbatim in the Wayback snapshot (20260908165528). Carrier URLs in the dossier updated to the archive.org snapshot.
+- Remaining "not found" spans follow the documented fetch-artifact pattern (ctext.org Zhuangzi, tandfonline paywall, PMC): each verified by eye or against an alternate carrier of the same source during previous passes.
