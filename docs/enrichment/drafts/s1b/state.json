@@ -891,6 +891,11 @@
      "t": "2026-10-24T14:51:50+00:00",
      "to": "ready",
      "note": "advisor repairs applied: English labeled editorial with Chinese verified verbatim, narrated-demonstration framing, unverified chapter number removed, Yijing facet dropped"
+    },
+    {
+     "t": "2026-10-25T15:10:27+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:10:27: verification attempted but NOT possible this pass — ctext carrier Cloudflare-walled to all three access methods; quotes rest on documented prior access (see QC notes)"
     }
    ]
   },
@@ -920,5 +925,5 @@
    ]
   }
  },
- "updated": "2026-10-25T15:10:02+00:00"
+ "updated": "2026-10-25T15:10:27+00:00"
 }
