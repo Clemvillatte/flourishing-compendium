@@ -18,7 +18,7 @@ Merleau-Ponty describes the body as the means through which a world becomes avai
 
 Tharakan explains this through learned movement: in Merleau-Ponty's typing example, the keyboard's space is incorporated into bodily space ([p. 119](https://philarchive.org/archive/THAQTB)). Practice changes how the person can inhabit a situation. I take that seriously when a good intention has yet to become something I can do fluently; [[Body memory]] is a related question.
 
-Everyday habit research asks a different, measurable question. Lally and colleagues followed volunteers repeating a chosen eating, drinking or activity behaviour in the same daily context, recording self-reported automaticity for twelve weeks ([2010 abstract](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674)). Their model-estimated times to approach an individual's automaticity plateau ranged from 18 to 254 days ([abstract](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674)). The upper estimate extends beyond the observation period, so the range is a model's estimate rather than a timetable I can apply to myself.
+Everyday habit research asks a different, measurable question. Lally and colleagues followed volunteers repeating a chosen eating, drinking or activity behaviour in the same daily context, recording self-reported automaticity for twelve weeks ([2010 abstract](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674)). Their model-estimated times to approach an individual's automaticity plateau ranged from 18 to 254 days; the upper estimate extends beyond the 84 days observed ([abstract](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674)).
 
 One result is worth remembering when I miss a practice:
 

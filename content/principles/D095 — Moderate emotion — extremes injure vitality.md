@@ -16,7 +16,7 @@ The Neiye sets a demanding condition for calm. Its third verse includes happines
 
 > "If you are able to cast off sorrow, happiness, joy, anger, desire and profit-seeking, your mind will just revert to equanimity." ([Neiye III, Harold Roth translation](https://thekongdanfoundation.com/nei-yeh-inward-training-and-the-unity-of-spirit/))
 
-This is stronger advice than simply avoiding rage. Chris Fraser places the text's account within early Daoist ideas about cultivating vital essence; across the sources he surveys, equanimity involves calm, alert responsiveness ([Deviations from the Way, sections 3 and 7](https://philarchive.org/archive/FRADFT-2)). I read the title's claim about vitality in that historical setting. A difficult emotion is no reason to blame myself for an illness.
+Chris Fraser places the text's account within early Daoist ideas about cultivating vital essence; across the sources he surveys, equanimity involves calm, alert responsiveness ([Deviations from the Way, sections 3 and 7](https://philarchive.org/archive/FRADFT-2)). I read the title's claim about vitality in that historical setting. A difficult emotion is no reason to blame myself for an illness.
 
 The Daodejing offers an infant as an image of harmony: "All day long it will cry without its throat becoming hoarse;--showing the harmony (in its constitution)." ([Chapter 55, Legge translation](https://www.sacred-texts.com/tao/taote.htm)) I borrow this bodily image for my own question about settling after being stirred up. Its crying infant gives me something different to think with from the Neiye's demand to cast off joy.
 

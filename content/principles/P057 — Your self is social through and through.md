@@ -20,7 +20,7 @@ He gives "self" a particular meaning: someone who can become an object to themse
 
 His baseball example develops the account. A player has to anticipate how the other positions fit together in a shared activity; Mead calls the organised community's standpoint the "generalized other" ([section 20](https://brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_20.html)). Learning whose response to expect becomes part of learning how to act.
 
-Markus and Kitayama offer a companion account: independent and interdependent construals of self, with proposed consequences for cognition, emotion and motivation ([1991 abstract](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf)).
+Markus and Kitayama examine cultural differences in self-construal: independent and interdependent construals of self, with proposed consequences for cognition, emotion and motivation ([1991 abstract](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf)).
 
 For my own reflection, the question becomes whose judgement I hear when I judge myself. I can value what I learned from someone while reconsidering a verdict I have carried for too long.
 

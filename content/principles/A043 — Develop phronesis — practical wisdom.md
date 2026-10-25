@@ -18,7 +18,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 He asks for attention to particulars. In his food example, someone who knows a general rule about wholesome meat still needs to recognise which food fits it ([VI.7](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). Experience matters because it makes such particulars familiar ([VI.8](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)).
 
-But experience at getting results is insufficient. Aristotle distinguishes practical wisdom from cleverness, which can pursue a bad goal efficiently, and joins it to moral virtue ([VI.12–13](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). I take two questions from that distinction: have I understood this situation, and is what I am trying to accomplish good for the people involved?
+Skill at getting results calls for a further question. Aristotle distinguishes practical wisdom from cleverness, which can pursue a bad goal efficiently, and joins it to moral virtue ([VI.12–13](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). I take two questions from that distinction: have I understood this situation, and is what I am trying to accomplish good for the people involved?
 
 Psychological wisdom research offers a separate way to examine judgement. In the Berlin wisdom paradigm, Baltes and Staudinger evaluate responses to life problems using knowledge, life-context sensitivity, differences in values and priorities, and recognition and management of uncertainty ([2000 abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/?dopt=Abstract)). I put that framework beside Aristotle's account as a prompt to ask what I do not know and whose priorities I have overlooked.
 
