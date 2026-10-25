@@ -535,8 +535,24 @@ the end. All sources below are freely accessible, no paywalls or app gates found
 - Content coverage: the host's description states the lecture, "From Axis Mundi to
   Mappa Mundi: Great Temples and Sacred Bundles in Aztec Society", covers the Aztec
   ceremonial center and Great Temple, the Mapa de Cuauhtinchan, and sacred bundles.
+  Coverage-confirmation (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=SePyDwqN3IU&current_language_code=en,
+  opened 2026-10-25) confirms the lecture's substance on the recording: the Axis
+  Mundi as a world center associated with Tenochtitlan and the Mappa Mundi as
+  movement through places; the 1978 discovery of the Coyolxauhqui sculpture and
+  the Great Aztec Temple excavation (rebuilt seven times, 140 offering caches);
+  the center-to-periphery "sensitive grid" of the ceremonial landscape; the
+  Mapa de Cuauhtinchan (c. 1542) with its migration narrative from Chicomoztoc
+  through Cholula to Cuauhtinchan, its 14 sacred bundles carried and opened on
+  the journey, its new fire ceremony and mixed Indigenous-Catholic imagery; the
+  15-scholar, five-year decipherment project; and the award citation honoring
+  "field defining research on Mesoamerican religions and cultures and concepts
+  of sacred space". Caveats: third-party transcript page, no timestamps in the
+  retrieved text; playback itself not opened.
 - Relevant segment: whole lecture, 1:12:17.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (2026-10-25); coverage confirmed against
+  a third-party transcript page (no timestamps); identity, access and duration
+  verified earlier.
 
 ## Block I, unattached records (deg-verify-a hash half, verified 2026-10-25)
 Coverage-basis note for owners: entries in this section record the basis of each
