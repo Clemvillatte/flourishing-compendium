@@ -16,11 +16,11 @@ The Stanford Encyclopedia of Philosophy's entry on Gilles Deleuze describes how 
 
 > Following the formula of Deleuze's reading of Nietzsche's eternal return, repetition is the return of the differential genetic condition of real experience each time there is an individuation of a concrete entity. ([Stanford Encyclopedia of Philosophy, "Gilles Deleuze", section 3.1](https://plato.stanford.edu/entries/deleuze/))
 
-The entry summarises a hard book, so this page rests on the entry's wording and does not quote Deleuze directly. On this reading, repetition is not a copy of some original, so each return brings its own difference with it. The practical suggestion that follows is mine and not Deleuze's: keep a practice, and let something in it vary.
+The entry summarises a hard book, so this page rests on the entry's wording and does not quote Deleuze directly. On this reading, repetition is not a copy of some original, so each return brings its own difference with it. The practical suggestion that follows is an application, not Deleuze's own: keep a practice, and let something in it vary.
 
-**Plain words** A routine that runs identically every day can become something you do without noticing. My suggestion is to keep the practice and change one thing in it each time: the route, the intensity, the order. Deleuze's text does not say this about routines. It is an application of the idea that a repetition is never a plain copy.
+**Plain words** Habit is the enemy here in a strange way: it works by making the morning identical, and the identical morning eventually disappears from awareness altogether. Deleuze's thought offers a repair, since on his reading nothing that returns ever returns exactly, and a person can lean on that built-in slop. Keep the skeleton of the practice and let one joint move each time, the route, the pace, the first mile, and the difference is not decoration; it is what keeps the walk visible to the walker.
 
-*For example (my illustration):* Someone walks the same loop every morning, and once a week changes one thing: the route, the pace, or whether they listen to anything. The walk stays a walk, and they have something to notice each time.
+*For example (an illustration):* Someone walks the same loop every morning, and once a week changes one thing: the route, the pace, or whether they listen to anything. The walk stays a walk, and they have something to notice each time.
 
 ## Sources
 
