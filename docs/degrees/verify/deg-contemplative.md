@@ -1113,17 +1113,22 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   Arsha Bodha Center in 2011, with volunteer-produced videos displaying
   the Sanskrit text, Roman transliteration and translation.
 - Duration: 1:26:41 (watch page, 2026-10-25).
-- Instructor credentials: Swami Tadatmananda, teacher at Arsha Bodha
-  Center (per the channel and description; institutional page not opened
-  this session).
+- Instructor credentials: Swami Tadatmananda — studied under Swami
+  Dayananda Saraswati from 1981, including the three-year residential
+  Vedanta and Sanskrit course at Arsha Vidya Gurukulam (1987–1989);
+  initiated into sannyasa by Swami Dayananda in 1993; founded Arsha Bodha
+  Center in 2000 and is its resident teacher; Sanskrit scholar (Arsha
+  Bodha Center teachers page, opened 2026-10-25,
+  https://arshabodha.org/about-us/teachers/), corroborating the channel
+  and description.
 - Language: English (Sanskrit text with transliteration and translation).
 - Content coverage (uploader description, read 2026-10-25): the Isha
   Upanishad (Sukla Yajurveda), one of the shortest of the 10 major
   Upanishads; teachings of Advaita Vedanta imparted by the ancient Indian
   rishis.
 - Relevant segment: whole class, 1:26:41.
-- Verification status: verified-video (2026-10-25); credentials from the
-  channel/description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials verified
+  on the Arsha Bodha Center teachers page (opened 2026-10-25).
 
 ### SRC-M10-007: Anicca — The Buddhist Theory of Impermanence (Ego podcast)
 
@@ -1257,16 +1262,23 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   Clear Mountain Monastery author field — the catalog title matches the
   Empty Cloud series listing.
 - Duration: 1:33:35 (watch page, 2026-10-25).
-- Instructor credentials: Ven. Ayya Brahmavara, guiding teacher (per the
-  uploader description; institutional page not opened this session).
+- Instructor credentials: Ayya Brahmavara, a bhikkhuni practising in the
+  Theravada Buddhist tradition for 25 years, sharing Dhamma through
+  talks, guided meditations and study sessions (her own site, opened
+  2026-10-25, https://www.ayyabrahmavara.org/). PARTIAL: the opened
+  page does not name her training lineage or ordaining teachers; a
+  search-index excerpt of a Canmore Theravada Buddhism group page
+  (read 2026-10-25; not opened) mentions training at Amaravati —
+  recorded as an unverified lead.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): a guided
   meditation reflecting on impermanence (anicca) — constant changes and
   sensations throughout the body — followed by a Dhamma discussion and
   Q&A.
 - Relevant segment: whole session, 1:33:35.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials partially
+  verified on her own site (opened 2026-10-25) — training lineage not
+  detailed there.
 
 ### M-15-007: Discovering Buddhism Module 6 — All About Karma (Ven. Kartson)
 
@@ -1274,16 +1286,21 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   channel (https://www.youtube.com/watch?v=kdceHbQ8Lm8); watch page opened
   2026-10-25. Discovering Buddhism series, module 6.
 - Duration: 1:38:32 (watch page, 2026-10-25).
-- Instructor credentials: Ven. Kartsön, module teacher (per the uploader
-  description; institutional page not opened this session).
+- Instructor credentials: Ven. Kartsön, Registered FPMT Teacher and
+  Translator; resident translator at Chenrezig Institute for 17 years;
+  born in Israel, trained as a Tibetan interpreter/translator (Langri
+  Tangpa Centre presenters page in the FPMT lineage, opened 2026-10-25,
+  https://langritangpa.org.au/our-lineage/presenters/), corroborating
+  the uploader description's module-teacher role in the Discovering
+  Buddhism series.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): karma as a
   natural law of cause and effect in relation to happiness and suffering;
   how thoughts, words and actions sow seeds that ripen as future
   experiences; creating and purifying karma to support future happiness.
 - Relevant segment: whole module, 1:38:32.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials verified
+  on an FPMT-lineage presenters page (opened 2026-10-25).
 
 ### M-15-005: Impermanence (Anicca) — Ajahn Brahmali (Buddhist Society of Western Australia)
 
@@ -1292,14 +1309,25 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   watch page opened 2026-10-25. Streamed live 29 March 2024, recorded at
   Dhammaloka Buddhist Centre, Perth.
 - Duration: 1:03:30 (watch page, 2026-10-25).
-- Instructor credentials: Ajahn Brahmali, teacher (per the uploader
-  description; institutional page not opened this session).
+- Instructor credentials: Ajahn Brahmali, teacher at the Buddhist
+  Society of Western Australia (per the uploader description). The
+  BSWA pages (his teacher page and the society's monks booklet PDF)
+  were robots-blocked from this environment on 2026-10-25; a
+  search-index excerpt of that BSWA booklet (read 2026-10-25; not
+  opened) describes him as born in Norway in 1964, trained as an
+  anagarika at Amaravati and Chithurst, at Bodhinyana Monastery since
+  1994 with Higher Ordination under Ajahn Brahm, and second most
+  senior monk there — recorded as an UNVERIFIED LEAD, not credential
+  evidence; the description-basis stands until a BSWA page can be
+  opened.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): the
   importance of spiritual practice and how everything is impermanent.
 - Relevant segment: whole talk, 1:03:30.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials remain
+  description-basis — BSWA pages robots-blocked this session (retried
+  once each for the HTML page and the booklet PDF); a detailed BSWA
+  snippet is recorded above as an unverified lead.
 
 ### SRC-M18-B02: 2021 Khyentse Lecture — Carmen Meinert (UC Berkeley Numata Center)
 
