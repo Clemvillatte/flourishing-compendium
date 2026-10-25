@@ -121,13 +121,11 @@ Langner and Eickhoff propose a synthesis: maintaining attention on an unrewardin
 
 The shared question: what the gathered mind is for once it is gathered. Patanjali's opening definition, as rendered on the Sacred Texts transcription of the Yoga Sutras, puts the weight on restraint:
 
-> "Union is restraining the thought-streams natural to the mind." (Yoga Sutras I.2) "Then the seer dwells in his own nature." (I.3) ([Yoga Sutras of Patanjali, Sacred Texts](https://www.sacred-texts.com/hin/yogasutr.htm))
+> "Union is restraining the thought-streams natural to the mind." (Yoga Sutras I.2) "Then the seer dwells in his own nature." (I.3) ([Yoga Sutras of Patanjali, Sacred Texts](https://www.sacred-texts.com/hin/yogasutr.htm), [Advaita-L archive copy of the same rendering](https://www.advaita-vedanta.org/archives/advaita-l/2010-May/024607.html))
 
 The same page gives I.4 as "Otherwise he is of the same form as the thought-streams." On this reading the mind's activity is the obstacle and its quieting is the result. The text also allows a stage with content: "Cognitive meditation is accompanied by reasoning, discrimination, bliss and the sense of 'I am.'" (I.17), followed by "another meditation which is attained by the practice of alert mental suspension until only subtle impressions remain" (I.18).
 
-A discourse in the Pali collection uses immersion for a different job:
-
-> "Mendicants, develop immersion. A mendicant who has immersion truly understands. What do they truly understand? The origin and ending of form, feeling, perception, choices, and consciousness." ([SN 22.5, Sujato trans.](https://suttacentral.net/sn22.5/en/sujato))
+A discourse in the Pali collection uses immersion for a different job: "Mendicants, develop immersion." A mendicant who has immersion truly understands, and what they truly understand is "The origin and ending of form, feeling, perception, choices, and consciousness." ([SN 22.5, Sujato trans.](https://suttacentral.net/sn22.5/en/sujato), [bilara API text](https://suttacentral.net/api/bilarasuttas/sn22.5/sujato?lang=en))
 
 Here the gathered mind is the condition for seeing how the five aggregates arise and cease. Sujato's note to the passage adds that mendicants are similarly enjoined to develop immersion to understand the six senses and the four noble truths (same page).
 

@@ -634,3 +634,5 @@ published; the site data does not change until a supervisor rebuild,
 so this is flagged: re-splice right-concentration when convenient
 (also outstanding from the dos25 launcher's 10:55Z flag: app.js
 lacks the 4th question).
+
+- 2026-10-25 10:57:15Z — repair, self-checked, pushed. Three of four flagged spans cleared by removing stale verifier cache entries (the PMC pages serve full text to plain fetches; the cache held JavaScript shells from earlier failed fetches). The two Yoga Sutras spans (sacred-texts.com is now behind a Cloudflare challenge to automated fetchers) were re-anchored to the Advaita-L mailing-list archive post at advaita-vedanta.org (opened this session; it quotes the same rendering verbatim, both spans present) as a second carrier. The SN 22.5 span was re-anchored to the SuttaCentral bilara API endpoint already named in this ledger; the bilara JSON stores each sentence as a separate segment, so the block quote was restructured into prose with single-segment verbatim quotes ("Mendicants, develop immersion." and "The origin and ending of form, feeling, perception, choices, and consciousness."). quote_verify clean.

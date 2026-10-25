@@ -810,3 +810,4 @@ know them rather than fight them" (the sutta's instruction). Checks:
 dossier_check exit 0 (49 card links, 19 headers, 20 carriers); voice
 audit 10 -> 8 candidates, all reviewed keeps. No external carriers
 opened in this pass.
+- 2026-10-25 10:57:15Z — repair, self-checked, pushed. All four flagged spans (PMC3627747, PMC5758421 x3) cleared by removing stale verifier cache entries: the PMC pages serve full text to plain fetches, and the cache held JavaScript shells from earlier failed fetches. No text changes were needed. quote_verify clean.

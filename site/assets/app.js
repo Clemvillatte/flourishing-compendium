@@ -14562,7 +14562,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The evidence has its own shape, and it is smaller than the path factor's own claim. A 2014 review of 47 randomized trials with 3,320 participants found moderate evidence of improvement in anxiety, depression and pain with mindfulness meditation programs. It found no evidence that meditation programs outperformed active treatments such as drugs, exercise or other behavioral therapies ([Goyal et al. 2014, JAMA Internal Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/)). The reviewers' own conclusion was measured:"
+          "x": "The evidence has its own shape, and it is smaller than the path factor's own claim. A 2014 review of 47 randomized trials with 3,515 participants found moderate evidence of improvement in anxiety, depression and pain with mindfulness meditation programs. It found no evidence that meditation programs outperformed active treatments such as drugs, exercise or other behavioral therapies ([Goyal et al. 2014, JAMA Internal Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/)). The reviewers' own conclusion was measured:"
         },
         {
           "t": "q",
@@ -14625,11 +14625,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The shared question: whether the core of sati is attending to what is happening now. The clinical definition says yes:"
+          "x": "The shared question: whether the core of sati is attending to what is happening now. The clinical definition says yes. Kabat-Zinn's own commentary gives it as an operational working definition:"
         },
         {
           "t": "q",
-          "x": "\"the awareness that emerges through paying attention, on purpose, in the present moment, and non-judgmentally to the unfolding of experience moment by moment.\" ([Jon Kabat-Zinn, quoted in Wikipedia, \"Mindfulness\"](https://en.wikipedia.org/wiki/Mindfulness))",
+          "x": "\"the awareness that emerges through paying attention on purpose, in the present moment, and nonjudgmentally to the unfolding of experience moment by moment.\" ([Jon Kabat-Zinn, Mindfulness-Based Interventions in Context, 2003, author's site](https://jonkabat-zinn.com/wp-content/uploads/2023/01/JonKabat-Zinn_MindfulnessBased-InterventionsContext.pdf))",
           "s": null
         },
         {
@@ -14656,7 +14656,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The two definitions differ on the core. In Kabat-Zinn's the present moment frames the practice, and in Thanissaro's the core is retaining what matters in mind across time. Bodhi sits between them, accepting both usages in the canon and tying them to one capacity. Thanissaro does not name Kabat-Zinn, so the opposition is between the two definitions and not between two people in dialogue."
+          "x": "The two definitions differ on the core. In Kabat-Zinn's the present moment frames the practice, and in Thanissaro's the core is retaining what matters in mind across time. Bodhi sits between them, accepting both usages in the canon and tying them to one capacity. Thanissaro does not name Kabat-Zinn, so the contrast is between two definitions, with no direct exchange between the authors."
+        },
+        {
+          "t": "p",
+          "x": "Kabat-Zinn has answered the retention view himself, though in reply to Georges Dreyfus and not to Thanissaro. In a 2011 essay in [Contemporary Buddhism](https://jonkabat-zinn.com/wp-content/uploads/2023/01/JonKabat-Zinn_SomeReflectionsOriginsMBSR.pdf) he writes that his definitions \"were operational definitions, not meant to be definitive statements in absolute accord with the Abhidharma or any other classical teaching,\" and that retention \"did not seem either necessary or useful to feature in a working definition of mindfulness in the West.\" On his account, then, the present-moment definition is a working one that leaves retention out on purpose."
         },
         {
           "t": "p",
@@ -14664,7 +14668,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Limits: I read one essay by each Pali scholar and the clinical definition through a secondary encyclopedia page. I have not opened Kabat-Zinn's own text or the Pali of SN 48.10, and Thanissaro's own translation of the passage is the only wording I have."
+          "x": "Limits: I read one essay by each Pali scholar the clinical definition in Kabat-Zinn's 2003 commentary (one sentence), and two sentences from his 2011 essay. I have not read the rest of Kabat-Zinn's commentary or the Pali of SN 48.10, and Thanissaro's own translation of the passage is the only wording I have."
         },
         {
           "t": "h2",
@@ -14698,7 +14702,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Limits: Bodhi's MN 117 argument is read in his paper's wording, and I have not opened MN 117 itself. Neither Pali scholar addresses Kabat-Zinn by name in the passages I opened, and the clinical definition is again read secondhand."
+          "x": "Limits: Bodhi's MN 117 argument is read in his paper's wording, and I have not opened MN 117 itself. Neither Pali scholar addresses Kabat-Zinn by name in the passages I opened, and the clinical definition is read from a single sentence of Kabat-Zinn's 2003 commentary."
         },
         {
           "t": "h",
@@ -14753,7 +14757,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The two papers are not enemies, and both are from inside the field. They differ on how much trust the evidence base can bear: the first counts effects and grades the evidence, and the second asks what each study meant by the word before results are compared. I take the definitional dispute above as part of the same problem, since a trial of a purposeful, nonjudgmental awareness and a trial of Nyanaponika's bare attention are not obviously the same trial. My lean is to treat the measured result as the claim this dossier can carry, and to say so when the essays lean on mindfulness."
+          "x": "The two papers are not enemies, and both are from inside the field. They differ on how much trust the evidence base can bear: the first counts effects and grades the evidence, and the second asks what each study meant by the word before results are compared. I take the definitional dispute above as part of the same problem, since a trial of a purposeful, nonjudgmental awareness and a trial of Nyanaponika's bare attention are not obviously the same trial. My lean is to treat the measured result as the claim I can carry here, and to say so when the essays lean on mindfulness."
         },
         {
           "t": "h2",
@@ -15980,7 +15984,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "I came to this dossier with the tuning question: whether the gathered mind is something I force or something I tune, and every thread below keeps that question open. The path's own account comes first, then the Yoga account of staging absorption, then what the practices train and by what mechanics, the double sense of one-pointedness, absorption in activity, and the modern conditions the practice meets."
+          "x": "I began with the tuning question: whether the gathered mind is something I force or something I tune."
         },
         {
           "t": "h2",
@@ -16004,11 +16008,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Right effort: the lute-string tuning is the factor this page shares with [right effort](right-effort.md); the two dossiers quote the same sutta for different reasons."
+          "x": "Right effort: the lute-string tuning is the factor shared with [right effort](right-effort.md); the two dossiers quote the same sutta for different reasons."
         },
         {
           "t": "p",
-          "x": "The sibling factors: [right view](card:Right%20view), [right intention](card:Right%20intention) and [right mindfulness](card:Right%20mindfulness) each have their own card, and each factor has a dossier written or in progress; right view's is still in draft on its band. Right mindfulness carries the sati side of the collected mind, and this page keeps the samadhi side."
+          "x": "The sibling factors: [right view](card:Right%20view), [right intention](card:Right%20intention) and [right mindfulness](card:Right%20mindfulness) each have their own card, and each factor has a dossier of its own. Right mindfulness carries the sati side of the collected mind, and I keep the samadhi side."
         },
         {
           "t": "h",
@@ -16040,7 +16044,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[B036 — Tune, don't force: the lute string](card:B036%20%E2%80%94%20Tune%2C%20don%27t%20force%20%E2%80%94%20the%20lute%20string) carries the Sona Sutta's craftsman's question, neither taut nor slack, with over-aroused persistence leading to restlessness and overly slack persistence to laziness. That is the tuning teaching this dossier's question names, and it comes with a diagnosis step: [Y021 — Diagnose the mind's state before choosing a practice](card:Y021%20%E2%80%94%20Diagnose%20the%20mind%27s%20state%20before%20choosing%20a%20practice) holds Vyasa's five states of mind, from restless to arrested, with the fitness rule that samadhi belongs to the one-pointed mind."
+          "x": "[B036 — Tune, don't force: the lute string](card:B036%20%E2%80%94%20Tune%2C%20don%27t%20force%20%E2%80%94%20the%20lute%20string) carries the Sona Sutta's craftsman's question, neither taut nor slack, with over-aroused persistence leading to restlessness and overly slack persistence to laziness. That is the tuning teaching the opening question names, and it comes with a diagnosis step: [Y021 — Diagnose the mind's state before choosing a practice](card:Y021%20%E2%80%94%20Diagnose%20the%20mind%27s%20state%20before%20choosing%20a%20practice) holds Vyasa's five states of mind, from restless to arrested, with the fitness rule that samadhi belongs to the one-pointed mind."
         },
         {
           "t": "p",
@@ -16226,7 +16230,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Union is restraining the thought-streams natural to the mind.\" (Yoga Sutras I.2) \"Then the seer dwells in his own nature.\" (I.3) ([Yoga Sutras of Patanjali, Sacred Texts](https://www.sacred-texts.com/hin/yogasutr.htm))",
+          "x": "\"Union is restraining the thought-streams natural to the mind.\" (Yoga Sutras I.2) \"Then the seer dwells in his own nature.\" (I.3) ([Yoga Sutras of Patanjali, Sacred Texts](https://www.sacred-texts.com/hin/yogasutr.htm), [Advaita-L archive copy of the same rendering](https://www.advaita-vedanta.org/archives/advaita-l/2010-May/024607.html))",
           "s": null
         },
         {
@@ -16235,12 +16239,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "A discourse in the Pali collection uses immersion for a different job:"
-        },
-        {
-          "t": "q",
-          "x": "\"Mendicants, develop immersion. A mendicant who has immersion truly understands. What do they truly understand? The origin and ending of form, feeling, perception, choices, and consciousness.\" ([SN 22.5, Sujato trans.](https://suttacentral.net/sn22.5/en/sujato))",
-          "s": null
+          "x": "A discourse in the Pali collection uses immersion for a different job: \"Mendicants, develop immersion.\" A mendicant who has immersion truly understands, and what they truly understand is \"The origin and ending of form, feeling, perception, choices, and consciousness.\" ([SN 22.5, Sujato trans.](https://suttacentral.net/sn22.5/en/sujato), [bilara API text](https://suttacentral.net/api/bilarasuttas/sn22.5/sujato?lang=en))"
         },
         {
           "t": "p",
@@ -16257,6 +16256,44 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "Limits: I read Book I to aphorism 1.18 of the Yoga Sutras and one Pali discourse. The Yoga Sutras name further stages of absorption that I have not examined, and discernment appears in I.17 as a stage, so the contrast above may be sharper than the full text supports. The Sacred Texts page does not name its translator."
+        },
+        {
+          "t": "h2",
+          "x": "Can liberation come without jhana?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: whether awakening requires the absorptions the canon defines as right concentration. Gunaratana, writing on the jhanas in Theravada practice, says the tradition itself admits that it does not:"
+        },
+        {
+          "t": "q",
+          "x": "\"The possibility of attaining the supramundane path without possession of a mundane jhana has been questioned by some Theravada scholars, but the Visuddhimagga clearly admits this possibility when it distinguishes between the path arisen in a dry-insight meditator and the path arisen in one who possesses a jhana but does not use it as a basis for insight (Vism.666-67; PP.779).\" ([Gunaratana, The Jhanas in Theravada Buddhist Meditation](https://accesstoinsight.org/lib/authors/gunaratana/wheel351))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "He adds that \"Textual evidence that there can be arahats lacking mundane jhana is provided by the Susima Sutta\" together with its commentaries (same book). Thanissaro reads the same discourse the other way:"
+        },
+        {
+          "t": "q",
+          "x": "\"This discourse is sometimes cited as proof that a meditator can attain Awakening (final gnosis) without having practiced the jhanas, but a close reading shows that it does not support this assertion at all.\" ([Thanissaro, translator's note to SN 12.70](https://accesstoinsight.org/tipitaka/sn/sn12/sn12.070.than))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "In a longer treatment he sorts the positions into three, the first being the commentarial one that jhana is unnecessary, and concludes: \"Evidence from the Canon supports the third position, but not the other two\", the third being that at least the first jhana is essential at every level of awakening ([Thanissaro, Wings to Awakening, Part III](https://www.accesstoinsight.org/lib/authors/thanissaro/wings/part3.html))."
+        },
+        {
+          "t": "p",
+          "x": "The two answer one question, whether a person can awaken with no jhana, and give opposite answers. Part of the gap is a matter of what the word covers. Thanissaro says the commentaries are right to call their kind of jhana unnecessary, while awakening cannot occur without jhana in the canonical sense (same Wings page). Gunaratana distinguishes mundane jhana from the supramundane jhana that comes with the path itself. If the two use the word jhana for different things, the surviving disagreement is smaller than the quotes suggest: whether the strong absorptions the canon describes can be skipped."
+        },
+        {
+          "t": "p",
+          "x": "My lean, which is mine: for an essay about developing wisdom, I would present this as a live disagreement within the tradition and avoid asserting either side. The practical question for a reader is how much stillness insight needs, and the sources I opened do not answer that in numbers."
+        },
+        {
+          "t": "p",
+          "x": "Limits: I read excerpts of two books and one translator's note, not the Pali texts or the commentary lines Gunaratana cites. I have not opened Mahasi-line teachers who hold the dry-insight view in their own words, so that side comes through Gunaratana and the commentaries as he reports them."
         },
         {
           "t": "h",
