@@ -20,25 +20,15 @@ Angst: Heidegger's term; the Stanford Encyclopedia quotes him: "Anxiety is the m
 
 Dread and apprehension: I have no card titled for either, so no separate entry is mapped.
 
-## The map: the entries on anxiety
+## Where anxiety lives
 
 ### What anxiety is, in philosophy
 
-[Anxiety about the future](https://clemvillatte.github.io/flourishing-compendium/#card=Anxiety%20about%20the%20future): Kierkegaard's Concept of Anxiety (1844) locates anxiety in possibility: the felt pull of possibilities, in which we are both drawn toward and repelled by one.
+Kierkegaard's Concept of Anxiety (1844) locates anxiety in possibility: the felt pull of possibilities, in which we are both drawn toward and repelled by one, carried on [anxiety about the future](https://clemvillatte.github.io/flourishing-compendium/#card=Anxiety%20about%20the%20future). His image for it is [the dizziness of freedom](https://clemvillatte.github.io/flourishing-compendium/#card=The%20dizziness%20of%20freedom): fear has a definite object, while anxiety responds to possibility itself. The thread he pulled through the book, written under the pseudonym Vigilius Haufniensis, is [facing the fear](https://clemvillatte.github.io/flourishing-compendium/#card=Facing%20the%20fear), and the monster is what one is drawn toward and repelled by at once, a description Kierkegaard takes from children's play, carried on [facing the monster](https://clemvillatte.github.io/flourishing-compendium/#card=Facing%20the%20monster).
 
-[The dizziness of freedom](https://clemvillatte.github.io/flourishing-compendium/#card=The%20dizziness%20of%20freedom): Kierkegaard's image for anxiety: fear has a definite object, while anxiety responds to possibility itself.
+Heidegger's [angst](https://clemvillatte.github.io/flourishing-compendium/#card=Angst) is the fundamental mood in which the ground of things slips away; for him, the disclosure of finitude as such. His 1929 lecture claims that the nothing is met in a particular mood, anxiety, carried on [das Nichts](https://clemvillatte.github.io/flourishing-compendium/#card=Das%20Nichts).
 
-[Facing the fear](https://clemvillatte.github.io/flourishing-compendium/#card=Facing%20the%20fear): the thread Kierkegaard pulled through The Concept of Anxiety, written under the pseudonym Vigilius Haufniensis.
-
-[Facing the monster](https://clemvillatte.github.io/flourishing-compendium/#card=Facing%20the%20monster): the monster is what one is drawn toward and repelled by at once, a description Kierkegaard takes from children's play.
-
-[Angst](https://clemvillatte.github.io/flourishing-compendium/#card=Angst): the fundamental mood in which the ground of things slips away; for Heidegger, the disclosure of finitude as such.
-
-[Das Nichts](https://clemvillatte.github.io/flourishing-compendium/#card=Das%20Nichts): Heidegger's 1929 lecture claims that the nothing is met in a particular mood, anxiety.
-
-[Existential confrontation](https://clemvillatte.github.io/flourishing-compendium/#card=Existential%20confrontation): facing the basic conditions of human life, death, freedom, isolation and meaninglessness, instead of avoiding them.
-
-[The uncanny](https://clemvillatte.github.io/flourishing-compendium/#card=The%20uncanny): a specific kind of fright that comes from the familiar and not from the alien.
+Facing the basic conditions of human life, death, freedom, isolation and meaninglessness, instead of avoiding them is [existential confrontation](https://clemvillatte.github.io/flourishing-compendium/#card=Existential%20confrontation). A specific kind of fright that comes from the familiar and not from the alien is [the uncanny](https://clemvillatte.github.io/flourishing-compendium/#card=The%20uncanny).
 
 ### Fear and courage
 
