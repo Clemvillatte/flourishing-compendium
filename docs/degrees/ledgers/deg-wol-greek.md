@@ -688,3 +688,52 @@ treats the pre-Socratics as a stage before Socrates. This does not
 resolve the scope question (whether the Greek walk needs a pre-Socratic
 module or can legitimately exclude them); it is noted as a data point
 for the strategist. The flag is carried forward unchanged.
+
+## M05-XP-02 transcript read (2026-10-25, worker-pplx-greek-1025y)
+
+The M05-XP-02 record (Pyrrhonic Skepticism, Adam Rosenfeld's own PHI
+251 session 24; verified earlier in this ledger, 1:15:32) now carries a
+transcript-level content classification, superseding the
+uploader-description-only basis and resolving the manifest's open
+question on the modes. Transcript read this session via
+https://youtubetotranscript.com/transcript?v=jaFcOp_bPME (rendered
+page; direct raw fetch is Cloudflare-walled).
+
+Content confirmed from the transcript:
+
+- Topic statement: "we're to understand skepticism first and foremost
+  according to [Sextus Empiricus] as different from two other styles
+  of doing philosophy"; "[Pyrrhonism] is frequently kind of identified
+  as like this is the first philosophically rigorous version of
+  skepticism that we have".
+- Method: "we can do this through identifying opposing beliefs and
+  finding ways to see them as equally compelling"; the method is
+  described in Latin translation as "equi Polland [aequipollentia]" —
+  "all it really means is equally compelling but this is the method
+  towards suspending one's belief towards like finding this state of
+  [epochē] this doxological state of suspending one's belief".
+- Goal: "we want to get to this state so that we can get to some other
+  state and that other state is unperturbed [Mental disturbance] it's
+  ataraxia... tranquility"; "we're doing it for the sake of achieving
+  [epochē] we're doing it for the sake of achieving ataraxia".
+- Closing: "good luck with your exams" — the session is the last
+  content meeting of the course.
+
+Resolution of the modes question: the lecturer mentions the five modes
+but does NOT enumerate or teach them — "oh man there were those five
+modes that I wanted to go through but it wasn't in your book anyway so
+like maybe I don't miss look him up if you've got the time and
+inclination it's fascinating it's basically like a nice little like
+five little arguments almost like a little map". The manifest's
+caution ("the description does not name the modes, so modes coverage
+stays unconfirmed pending a transcript") is now resolved negatively:
+the session does not cover the modes. Any future module that needs the
+modes taught must source them elsewhere (e.g. a wiki page or SEP entry
+on the modes); M05-XP-02 cannot carry them. Content matches the
+manifest's proposed topic "Pyrrhonian skepticism" with this narrower
+scope stated.
+
+Transcript-level classification closes the "transcript still unread"
+gap for M05-XP-02. Status remains verified-video; identity, access,
+credentials and durations unchanged. Module production stays behind the
+Phase 0 stop-gate; no attachment is made this session.
