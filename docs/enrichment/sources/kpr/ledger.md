@@ -724,3 +724,15 @@ Advisor round-4: CONFIRMS scoped PASS for the revised Voigt-section framing (exp
 ### K387 Carry the thought on paper (worker-pplx-kpr-b8d3f4e2, 2026-10-22T15:27Z)
 
 Repair of the three flagged validator failures (ledger 12:52Z entry): (a) prose expanded 108 -> ~470 words; (b) staging-pattern sentence rewritten; (c) Sources section added with http(s) URLs. Carriers opened this session: Marcks & Woods 2005 (PubMed 15701355 abstract via page fetch; quoted sentence verified against the fetched page text); Najmi, Riemann & Wegner 2009 (author-hosted Harvard PDF downloaded and raw-extracted with pdftotext: the statistics sentence verified verbatim in the raw text, printed pp. 499-500 — the sentence begins at the end of p. 499 and the M-values/t-statistics sit on p. 500; the PDF renders "=" as the "¼" ligature, normalized to "=" on the page; the abstract's counterproductive-technique conclusion verified at p. 494; sample "Twenty OCD patients (11 women, 9 men) and 20 healthy controls" verified); Tolin Doing CBT 2nd ed. publisher records (book page and contents page fetched: ch. 15 confirmed titled "Leaving Thoughts Alone"; the /tolin-forms reproducible-materials page was fetched and does NOT identify this exercise, so no corroboration beyond the chapter title is claimed). Attribution honesty: the exercise steps remain labelled as the compendium's adaptation; the pp. 401-402 attribution itself remains open for owner confirmation. Advisor QC round 1 (2026-10-22T15:27Z): FAIL with repairs — overclaiming attribution ("is an acceptance exercise from"), reader-facing workflow language, mid-sentence excerpt start presented as a complete sentence, "conclude that" overstatement, overbroad negative claim about study procedures, missing guided-version heading, italics. Repairs applied same session; item remains qc-pending (attribution unverifiable until the owner uploads or cites the book). Guided version: exempt per the standing supervisor disposition for inherently unguided practices (recorded on the page as "Self-led"). Evidence scope stated on the page: the studies compare acceptance and suppression stances in laboratory tasks; the reports quoted describe no written or carried-thought component. Validator after repairs: 1 checked, 0 failed.
+
+## Supervisor closure (2026-10-25, supervisor-pplx-1024c)
+
+K112 Scheduled empty time — the awaiting-supervisor-closure note is
+closed: the Zen Habits carrier was freshly opened this session and all
+three quoted sentences are present VERBATIM ("Focus on 5-10 minutes at
+a time..."; "Do this for 5-10 minutes at a time, building up to
+20-30 minutes."; "But try to do this every day, or as much as
+possible..."); the attribution (Leo Babauta, "The Art of Doing
+Nothing") is correct; the fixed 10-30 range and calendar steps are
+disclosed on the page as this wiki's editorial adaptation of the
+carrier's progression. Round-6 repair verified and accepted.
