@@ -275,13 +275,12 @@ The entry above needs two corrections; these supersede it:
    punctuation. The initial grep missed because of that period
    placement, not quote encoding.
 
-3. Card fidelity, downgraded where it deserves it: five of the six
-   glosses (Right concentration, Y021, Equanimity, and the two
-   phrase lists for B028/B036/B095) were checked by phrase presence;
-   the passages for B028, B036 and B095 were read in context. As
-   with the gratitude pass, phrase presence is not semantic
-   fidelity; the entry's "in substance" claim stands only for the
-   three read in context.
+3. Card fidelity, downgraded where it deserves it: all six glosses
+   were screened by phrase presence; three of them (B028, B036,
+   B095) were additionally read in passage context. As with the
+   gratitude pass, phrase presence is not semantic fidelity; the
+   entry's "in substance" claim stands only for the three read in
+   context.
 
 FLAG FOR REVIEW: the Story section loglines were not checked this
 pass (the same gap as the gratitude pass); the story cards were not
