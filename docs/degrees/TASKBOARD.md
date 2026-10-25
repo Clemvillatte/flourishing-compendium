@@ -74,36 +74,33 @@ reference, unique source ids in brackets):
 - 2026-10-25 (scope: since b6aa42884, including subsequent additions)
   worker-pplx-degfin-1 (deg-verify-a): BATCHED TRANSCRIPT PASSES + QC
   REPAIRS — LEDGER (commits 5dbf41e8f, 0295b5030, c8849acf7, 46923f9b0,
-  3864101ca, fd4410dea, 450ce7480, 7b210f70d, plus the final saves). 34
-  description-basis cards evidenced (29 upgrades + 2 corroborations +
-  3 coverage-evidence records still partial) plus 4 unsuccessful probes,
-  via the third-party transcript route. The upgrade count is MECHANICALLY
-  AUDITED: a git comparison of the Verification status fields between
-  b6aa42884 and HEAD shows the PARTIAL→VIDEO changes across the
-  five verify files, matching this ledger. 29 UPGRADED
-  verified-partial→verified-video with the coverage basis in the status
-  line: deg-wellbeing M08-S04/S06/S08/S17/S18/S22/S24 (7); deg-relational
-  M04-R05/R08/R13/R15/R16 (5; Mika's dual-duration flag retained);
-  deg-philosophy Warren, Kaag, Clayton, Segall x2, Bergson roundtable
-  (partial-speaker note), Herring, Misak, Moran (title-only speaker
-  caveat), Nadler, Mikics, Lampe, Kloppenberg, Buis, Talbot, Lahav Ayalon, Hao Dong (17; Lampe,
-  Kloppenberg, Buis and Talbot upgraded on the separate-bases principle —
-  the transcript need not name the speaker; identity basis remains the
-  opened host record as already recorded in each entry).
-  2 FRESH CORROBORATIONS with no status change: M08-S13, M08-S15
-  (M08-S15 was already verified-video; an earlier note's upgrade claim
-  was corrected this pass). 3 COVERAGE-EVIDENCE RECORDS, STATUS STILL
-  verified-partial (open gate unresolved — the earlier upgrade to
-  verified-video was WITHDRAWN or never made, per QC): deg-mind M06-AF07
-  Gross (raw retrieval inspected at length), deg-therapeutic SRC-M09-005
-  Rollnick, deg-philosophy M23-EX04 Zahavi (biography gate).
-  4 TRANSCRIPT-ROUTE FAILURES bounded after two attempts each, still
-  open: M08-S01 (Markus Sage-CASBS), M05-XP-04 (Chittick), M05-SP-05
-  (Beth Lord), M16-P01 (Kristjánsson). QC-repair pass also corrected
-  stamp bounds (batches 2-3 had cited pre-writing clock readings) and
-  reconciled this ledger (a commit message said 13 for a 16-card batch;
-  an earlier checkpoint said 25 for a 28-card enumeration — history left
-  as pushed, corrected here). SECTION-4 CREDENTIALS GATE (supersedes the earlier flag): all 27
+  3864101ca, fd4410dea, 450ce7480, 7b210f70d, plus the final saves). 38
+  cards worked via the third-party transcript route. FINAL SECTION-4
+  RULING (QC correction, pushed in the final saves): after reading the
+  binding standard itself (docs/degrees/skill/curriculum-design/Skill.md
+  section 4: instructor credentials must be verified on a biography or
+  institutional page, NOT the recording's/host's own description), 27 of
+  the 29 cards upgraded earlier this session were REVERTED to
+  verified-partial with their coverage evidence retained in-file and a
+  STATUS NOT UPGRADED note naming the open credentials gate — their
+  credential lines cite host/uploader descriptions. 2 UPGRADES RETAINED
+  (actual institutional sources recorded): SRC-M25-003 Warren (Cambridge
+  Faculty of Classics page) and M04-R15 Mika (opened Canterbury profile
+  page; dual-duration flag retained). 30 RETAINED-PARTIAL with coverage
+  evidence: the 27 reverted above plus the 3 earlier retained-partial
+  evidence records (M06-AF07 Gross, SRC-M09-005 Rollnick, M23-EX04
+  Zahavi). 2 FRESH CORROBORATIONS with no status change: M08-S13,
+  M08-S15 (M08-S15 was already verified-video; an earlier note's upgrade
+  claim was corrected this pass). 4 unsuccessful probes (not verified
+  cards): M08-S01 (Markus Sage-CASBS), M05-XP-04 (Chittick), M05-SP-05
+  (Beth Lord), M16-P01 (Kristjánsson). The 2-upgrade count is
+  MECHANICALLY AUDITED: a git comparison of the Verification status
+  fields between b6aa42884 and HEAD shows exactly 2 PARTIAL→VIDEO
+  changes remaining (SRC-M25-003, M04-R15), matching this ledger.
+  QC-repair pass also corrected stamp bounds (batches 2-3 had cited
+  pre-writing clock readings) and reconciled counts (a commit message
+  said 13 for a 16-card batch; an earlier checkpoint said 25 for a
+  28-card enumeration — history left as pushed, corrected here). SECTION-4 CREDENTIALS GATE (supersedes the earlier flag): all 27
   host-description-basis cards are now reverted to verified-partial in the
   files; the owner can clear each gate by attaching a biography or
   institutional page, at which point the recorded coverage evidence
