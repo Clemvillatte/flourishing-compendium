@@ -358,7 +358,8 @@ Block A, fcAcademyData records for deg-philosophy modules.
 - Relevant segment: whole lecture, 49:36.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified (identity basis: host description — the retrieved transcript text does not name the speaker).
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 15:01:47Z save): the third-party
+  batched pass; evidence pass 2026-10-25; basis note revised by QC correction,
+  2026-10-25): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=AZZ5G8KGM2E&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the talk's substance: an introduction to
@@ -367,11 +368,12 @@ Block A, fcAcademyData records for deg-philosophy modules.
   difficulties of applying them to personal emotional needs; Epicurean
   views of friendship including reciprocity, care for friends and
   friendship's role in happiness (North Staffs Classical Association).
-  SEPARATE-BASES NOTE (per the QC ruling): the retrieved text does not
-  name Kurt Lampe, but the no-hallucination standard does not require
-  the transcript to repeat the speaker's name — the identity basis
-  remains the opened host page (as previously recorded), and the
-  transcript establishes coverage. Status upgraded verified-partial to
+  SEPARATE-BASES NOTE: the retrieved text does not name Kurt Lampe; the
+  speaker's identity rests on the identity basis already recorded in
+  this entry (the opened host record: the oembed-confirmed channel and
+  the host's page naming Dr Kurt Lampe, University of Bristol), and the
+  transcript establishes coverage. The upgrade cites those recorded
+  bases. Status upgraded verified-partial to
   verified-video per the house convention, with the no-timestamps and
   no-playback caveats carried.
 
@@ -568,7 +570,8 @@ Block A, fcAcademyData records for deg-philosophy modules.
 - Relevant segment: whole lecture, 0:58:12.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified (identity basis: host description — the retrieved transcript text does not name the speaker).
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 15:01:47Z save): the third-party
+  batched pass; evidence pass 2026-10-25; basis note revised by QC correction,
+  2026-10-25): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=Yp5PIqGefJ0&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the lecture's substance: William James's pragmatism
@@ -577,11 +580,12 @@ Block A, fcAcademyData records for deg-philosophy modules.
   Lippmann; pragmatist contributions to social movements and ideas about
   race, ethnicity, cultural pluralism and peace; later influence and
   challenges to pragmatism in American public life (Harvard Divinity
-  School). SEPARATE-BASES NOTE (per the QC ruling): the retrieved text
-  does not name James Kloppenberg, but the no-hallucination standard
-  does not require the transcript to repeat the speaker's name — the
-  identity basis remains the opened host page (as previously recorded),
-  and the transcript establishes coverage. Status upgraded
+  School). SEPARATE-BASES NOTE: the retrieved text does not name James
+  Kloppenberg; the speaker's identity rests on the identity basis already
+  recorded in this entry (the opened host record: the oembed-confirmed
+  Harvard Divinity School channel and the host's page naming James T.
+  Kloppenberg), and the transcript establishes coverage. The upgrade
+  cites those recorded bases. Status upgraded
   verified-partial to verified-video per the house convention, with the
   no-timestamps and no-playback caveats carried.
 
@@ -1216,18 +1220,20 @@ attach them with evidence on file.
 - Relevant segment: whole lecture, 1:27:35.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified (identity basis: host description and the route's page title, which names "dr. Michiel Buis" — the retrieved transcript text garbles the name).
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 15:05:51Z save): the third-party
+  batched pass; evidence pass 2026-10-25; basis note revised by QC correction,
+  2026-10-25): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=yahceTYdcJI&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the lecture's substance: ancient and modern
   Stoicism, how they differ and how to apply Stoic ideas in life; Stoic
   ideas about desire, emotion, judgment, virtue and living in harmony
   with human and cosmic nature; practical exercises and audience
-  questions (Studium Generale, Erasmus). SEPARATE-BASES NOTE (per the
-  QC ruling): the retrieved text garbles the speaker's name ("Miko Ba",
-  "Mika") and the route's page title names "dr. Michiel Buis"; the
-  identity basis remains the opened host page (as previously recorded),
-  and the transcript establishes coverage. Status upgraded
+  questions (Studium Generale, Erasmus). SEPARATE-BASES NOTE: the retrieved text garbles the speaker's name
+  ("Miko Ba", "Mika") and the route's page title names "dr. Michiel
+  Buis"; the speaker's identity rests on the identity basis already
+  recorded in this entry (the opened host record naming Dr Michiel Buis,
+  PhD, Erasmus School of Philosophy), and the transcript establishes
+  coverage. The upgrade cites those recorded bases. Status upgraded
   verified-partial to verified-video per the house convention, with the
   no-timestamps and no-playback caveats carried.
 

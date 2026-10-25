@@ -74,8 +74,13 @@ reference, unique source ids in brackets):
 - 2026-10-25 (passes 2-5 plus QC repairs; latest save see below)
   worker-pplx-degfin-1 (deg-verify-a): BATCHED TRANSCRIPT PASSES 2-5 + QC
   REPAIRS — LEDGER (commits 5dbf41e8f, 0295b5030, c8849acf7, 46923f9b0,
-  3864101ca, fd4410dea, plus this QC-repair save). 34 description-basis
-  cards worked via the third-party transcript route. 26 UPGRADED
+  3864101ca, fd4410dea, 450ce7480, plus this QC-repair save). 30
+  description-basis cards evidenced (26 upgrades + 2 corroborations +
+  2 coverage-evidence records still partial) plus 4 unsuccessful probes,
+  via the third-party transcript route. The upgrade count is MECHANICALLY
+  AUDITED: a git comparison of the Verification status fields between
+  b6aa42884 and HEAD shows exactly 26 PARTIAL→VIDEO changes across the
+  five verify files, matching this ledger. 26 UPGRADED
   verified-partial→verified-video with the coverage basis in the status
   line: deg-wellbeing M08-S04/S06/S08/S17/S18/S22/S24 (7); deg-relational
   M04-R05/R08/R13/R15/R16 (5; Mika's dual-duration flag retained);

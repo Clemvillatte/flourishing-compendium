@@ -1530,26 +1530,29 @@ against the recording or transcript before the record is attached to a module.
   remarks — indicating a substantial lecture with Q&A rather than a short
   talk; the page still prints no duration, so the duration basis is
   unchanged.
-- Verification status: verified-partial — coverage corroborated by a fuller third-party transcript retrieval (see note); identity and credentials previously verified; duration still rests on search-listing metadata, not a direct watch-page read, and playback was not confirmed from this environment; confirm against the recording before scheduling. The fuller transcript does NOT resolve the duration gate, so the status remains verified-partial rather than verified-video.
-  COVERAGE CORROBORATED, STATUS UNCHANGED (worker-pplx-degfin-1, deg-verify-a,
-  2026-10-25, batched pass; written before the 14:58:43Z save; a raw
-  retrieval with no extraction prompt was inspected 2026-10-25 before
-  the 15:10Z clock reading): the third-party transcript route
+- Verification status: verified-partial — coverage corroborated by a third-party transcript retrieval (see note); identity and credentials previously verified; duration still rests on search-listing metadata, not a direct watch-page read, and playback was not confirmed from this environment; confirm against the recording before scheduling. The transcript does NOT resolve the duration gate, so the status remains verified-partial rather than verified-video.
+  COVERAGE CORROBORATED, STATUS UNCHANGED (worker-pplx-degfin-1, deg-verify-a;
+  evidence pass 2026-10-25, batched transcript pass; evidence claims narrowed by
+  QC correction, 2026-10-25): the third-party transcript route
   (https://youtubetotranscript.com/transcript?v=n4guVd7bNaU&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
-  not opened) returns the lecture text at length: the host's introduction
-  naming Gross as the Brotherton fellow and Stanford professor, the full
-  lecture (emotions; the five families of emotion-regulation processes;
-  suppression versus rethinking; applications to temptation and
-  intergroup conflict; beliefs about emotion malleability), and the
-  audience question period. The raw retrieval was cut off only by my
-  fetch tool's character limit, not by the service; the earlier truncated
-  extraction therefore no longer bounds the coverage basis. However, the
-  prior verified-partial status rested on the DURATION basis
+  not opened) returns the lecture text at length. A RAW retrieval with no
+  extraction prompt was inspected: it includes the host's introduction
+  naming Gross as the Brotherton fellow and Stanford professor, the
+  lecture's substance (emotions; the five families of emotion-regulation
+  processes; suppression versus rethinking; applications to temptation
+  and intergroup conflict; beliefs about emotion malleability), and the
+  start of the audience question period. LIMITS OF THE INSPECTION: the
+  raw retrieval was truncated at the inspection tool's 40,000-character
+  limit (a tool limit, not a service truncation); the page's ending and
+  closing remarks were NOT inspected, so no completeness claim is made
+  here beyond the inspected span. An earlier prompted extraction had
+  reported a complete text with closing remarks; that report is not
+  independently confirmed by the raw inspection and is not relied on.
+  The prior verified-partial status rested on the DURATION basis
   (search-listing metadata, no direct watch-page read, playback not
-  confirmed), and a transcript does not resolve that gate. Per the QC
-  ruling the earlier status upgrade to verified-video is WITHDRAWN: the
-  card remains verified-partial with the fuller coverage evidence
-  recorded here and the no-timestamps and no-playback caveats carried.
-  The owner can close the duration gate with a watch-page read or
-  playback check.
+  confirmed), and a transcript does not resolve that gate. An earlier
+  upgrade to verified-video was WITHDRAWN in the 15:10:01Z QC save; the
+  card remains verified-partial with the coverage evidence recorded here
+  and the no-timestamps and no-playback caveats carried. The owner can
+  close the duration gate with a watch-page read or playback check.

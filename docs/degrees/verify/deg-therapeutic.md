@@ -142,25 +142,27 @@ SRC-M27-004 (duplicate record; directly verified above).
   practical suggestions (shift from problem-solver to guide; give
   advice by connecting first). Corroborated by the ATTC Network page
   for the same lecture (opened 2026-10-25).
-- Verification status: verified-partial — coverage corroborated by a fuller third-party transcript retrieval (see note); identity and credentials previously verified; duration still rests on search-listing metadata, not a direct watch-page read, and playback was not confirmed from this environment; confirm against the recording before scheduling. The fuller transcript does NOT resolve the duration gate, so the status remains verified-partial rather than verified-video.
-  COVERAGE CORROBORATED, STATUS UNCHANGED (worker-pplx-degfin-1, deg-verify-a,
-  2026-10-25, batched pass; written before the 14:58:43Z save): a fresh
-  retrieval of the same third-party transcript page
+- Verification status: verified-partial — coverage corroborated by a third-party transcript retrieval (see note); identity and credentials previously verified; duration still rests on search-listing metadata, not a direct watch-page read, and playback was not confirmed from this environment; confirm against the recording before scheduling. The transcript does NOT resolve the duration gate, so the status remains verified-partial rather than verified-video.
+  COVERAGE CORROBORATED, STATUS UNCHANGED (worker-pplx-degfin-1, deg-verify-a;
+  evidence pass 2026-10-25, batched transcript pass; evidence claims narrowed by
+  QC correction, 2026-10-25): a retrieval of the third-party transcript page
   (https://youtubetotranscript.com/transcript?v=SAntO8nLDMQ&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
-  not opened) reports a COMPLETE text: motivational interviewing as a
-  practical, skillful guiding approach — connection, reflective
-  listening, open questions, recognizing people's strengths and
-  ambivalence, and drawing out their own reasons for change; giving
-  advice with permission; applying the approach in healthcare and other
-  settings (South Africa HIV ATTC). The retrieval begins with the
-  welcome and ends with the speaker's closing thanks, so the earlier
-  truncation no longer bounds the coverage basis. However, the prior
+  not opened) reports the talk's substance: motivational interviewing as a
+  practical, skillful guiding approach — connection, reflective listening,
+  open questions, recognizing people's strengths and ambivalence, and
+  drawing out their own reasons for change; giving advice with
+  permission; applying the approach in healthcare and other settings
+  (South Africa HIV ATTC). LIMITS OF THE EVIDENCE: this retrieval was a
+  prompted extraction, not a raw page inspection; an earlier note's
+  claim that the text was "COMPLETE" and included the welcome and the
+  closing thanks RESTED ON THAT EXTRACTION and is NOT independently
+  confirmed — no completeness claim is made here. The prior
   verified-partial status rested on the DURATION basis (search-listing
   metadata, no direct watch-page read, playback not confirmed), and a
-  transcript does not resolve that gate. Per the QC ruling the earlier
-  status upgrade to verified-video is WITHDRAWN: the card remains
-  verified-partial with the fuller coverage evidence recorded here and
+  transcript does not resolve that gate. An earlier upgrade to
+  verified-video was WITHDRAWN in the 15:10:01Z QC save; the card
+  remains verified-partial with the coverage evidence recorded here and
   the no-timestamps and no-playback caveats carried. The commercial-
   uploader access ruling is retained. The owner can close the duration
   gate with a watch-page read or playback check.
