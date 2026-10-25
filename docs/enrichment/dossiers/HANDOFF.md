@@ -2,6 +2,31 @@
 
 ## CURRENT ORDERS (2026-10-25, owner validated; supersedes everything below that conflicts)
 
+OWNER DIRECTIVE 2026-10-25 (b, later same day — publication and load):
+
+1. PUBLISH-THEN-REVIEW replaces supervisor-only publication. When your
+dossier passes `dossier_check.py`, quote verification (with documented
+exceptions in the ledger), the density check and advisor QC, PUBLISH IT
+YOURSELF: flip only your own dossier's entry to `"published"` in
+`registry.json`, run `python3 scripts/dossier_registry_build.py
+--rebuild=<slug>`, push, and add one line to
+`docs/enrichment/OWNER-BOARD.md` (see its rules). The supervisor (or
+assistant supervisor) then reviews the PUBLISHED dossier per
+`SUPERVISOR-REVIEW.md` and records the verdict; a failed review flips
+the entry back to `"planned"` with a flag on the Owner-Board. Do not
+publish a dossier that has not passed its checks — the point is review
+after publication, not skipping review.
+2. ASSISTANT SUPERVISOR: a second `assistant-supervisor` baton exists
+(take via `python3 scripts/baton.py clock-in assistant-supervisor
+<agent>`). Take it when the supervisor queue is overloaded — see the
+trigger and duties in OPERATIONS.md ("Assistant supervisor"). It
+processes mechanical supervisor jobs (registry flips, rebuilds,
+post-publication reviews, verdict logging); anything needing owner
+judgment still goes to the Owner-Board as a flag.
+3. OWNER-BOARD: every agent appends one short dated line to
+`docs/enrichment/OWNER-BOARD.md` on taking/releasing a baton,
+publishing, or hitting a blocker. Keep it cheap; rules are in the file.
+
 The owner validated Genuine Flourishing as the exemplar. The earlier "candidate awaiting validation / do not launch the rollout" gate is lifted. The goal is NOT a copy of the old four-section map format: every dossier is rewritten as one interwoven thread, as GF is. Wisdom is already rewritten and pushed (`wisdom.md`); read it beside GF.
 
 Read in this order: `genuine-flourishing.md` end to end, `DOSSIER-MODEL.md` (binding shape, pace and cognitive-load rules), `wisdom.md`, `HUMANIZER-SKILL.md`. An old map-format dossier is raw material only: reuse its verified links and quotes after re-reading each source passage, never its structure.
@@ -10,7 +35,7 @@ Every dossier must have: a `## Where the traditions genuinely disagree` section 
 
 Publish bar (owner-approved): checker passes, every quote verified, an independent review finds no glib or formulaic prose, art set. The owner vetoes from the per-batch list afterwards.
 
-Who touches what: workers write only their own `docs/enrichment/dossiers/<id>.md` and ledger. Do NOT edit `registry.json`, `site/assets/app.js` or run `dossier_registry_build.py`; the supervisor flips status to published and rebuilds (`--rebuild=<id>` for already-published ones). Commit your files with explicit paths, then `git pull --rebase origin main` before push.
+Who touches what (AMENDED by owner directive 2026-10-25, publish-then-review): workers write only their own `docs/enrichment/dossiers/<id>.md` and ledger, and may flip ONLY their own dossier's registry entry to published and run `dossier_registry_build.py --rebuild=<slug>` for it once it passes the checks named in the current orders. Do NOT edit other dossiers' registry entries, `site/assets/app.js`, `site/assets/style.css`, `progress.json` or the queues; the supervisor reviews published dossiers and can flip one back with a flag. Commit your files with explicit paths, then `git pull --rebase origin main` before push.
 
 Scope: all 35 registered dossiers, the new suffering, acceptance, freedom, impermanence entries, and creation, creativity, procrastination. Impermanence replaces a standalone meaning-and-mortality dossier (Life's Purpose already covers meaning; raw material is `meaning-and-mortality.md`).
 

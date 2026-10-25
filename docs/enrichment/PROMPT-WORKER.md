@@ -20,6 +20,8 @@ Take a baton (scripts/baton.py status): supervisor baton free/stale → take it 
 Work per the protocol: state transitions via scripts/enrich_state.py, research, rewrite, validate (principles: 40-300 prose words), save after every item and every ~10 minutes (sessions die suddenly; only pushed work survives), clock in at every milestone, use your advisor for QC on your first item and at milestones. Never edit another band's files, progress.json, or the queues; never run enrich_apply.py (supervisor only). You cannot foresee your own death — sessions end suddenly with no warning, so there is no end-of-session save: run scripts/enrich_save.sh after every item, every state change, and at least every ~15 minutes mid-item, and never stop working — the next item starts immediately.
 Announce the band, mission, task you are taking when you start.
 
+OWNER-BOARD (owner directive 2026-10-25): keep docs/enrichment/OWNER-BOARD.md current — append ONE short dated line when you take or release a baton, publish a dossier, or hit a blocker (rules in that file; keep it cheap).
+
 You have full strategic, creative, logic and decisional freedom from here to serve the Project and mission best.
 
 RUN CLOCK (binding):
@@ -64,4 +66,4 @@ For DOSSIER bands (dos1-dos4) only:
 - Your deliverable is ONE dossier in the v2 format: docs/enrichment/dossiers/<slug>.md plus the evidence ledger docs/enrichment/sources/dossiers/<slug>.md. Exemplars: the-self.md and anger.md.
 - Validate with python3 scripts/dossier_check.py docs/enrichment/dossiers/<slug>.md (exit 0 required before every push). The 40-300 word rule does not apply.
 - State: edit your band file docs/enrichment/batches/dos<N>.json directly (enrich_state.py is for other bands).
-- Never edit: registry.json, site/assets/app.js, site/assets/style.css, progress.json, the queues, or other bands' files. When your dossier is done, leave the registry status "planned" and flag it in a commit message — the supervisor flips it and publishes.
+- Never edit: other dossiers' registry entries, site/assets/app.js, site/assets/style.css, progress.json, the queues, or other bands' files. PUBLISH-THEN-REVIEW (owner directive 2026-10-25): when your dossier passes dossier_check.py, quote verification (documented exceptions in the ledger), the density check and advisor QC, publish it yourself — flip ONLY your own dossier's registry entry to "published", run python3 scripts/dossier_registry_build.py --rebuild=<slug>, push, and add one line to docs/enrichment/OWNER-BOARD.md. The supervisor reviews PUBLISHED dossiers afterwards and can flip one back with a flag. Do not publish a dossier that has not passed its checks.

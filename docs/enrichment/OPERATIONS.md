@@ -497,6 +497,44 @@ When you start a session (or come back from a break):
   Release on an explicit stop or unavoidable shutdown so the next agent does not wait
   20 minutes. A completed supervisor pass is NOT a reason to release the supervisor baton.
 
+## Owner-Board (owner directive, 2026-10-25)
+
+`docs/enrichment/OWNER-BOARD.md` is the owner's briefing doc — plain
+Markdown, no scripts. EVERY agent appends one short dated line (under
+~20 words) when it: takes or releases a baton, publishes a dossier,
+hits a blocker, or needs an owner decision. Trim the log to the last 40
+lines when appending. The snapshot section is refreshed only by the
+supervisor or assistant supervisor, and only when something material
+changed. The board never replaces commits, ledgers or baton records —
+it is the owner-facing summary. Keep the time and token cost near zero.
+
+## Assistant supervisor (owner directive, 2026-10-25)
+
+A second baton, `assistant-supervisor`, exists so supervisor load stops
+bottlenecking publication. Claim it with
+`python3 scripts/baton.py clock-in assistant-supervisor <agent>`.
+
+WHEN TO TAKE IT (either trigger):
+- The publication/review queue is overloaded: five or more dossiers are
+  published-but-unreviewed or passing-but-unpublished, or
+- The supervisor baton is stale (20+ min without a clock-in) while that
+  queue is non-empty.
+
+DUTIES (mechanical supervisor jobs only):
+1. Process the publication queue: registry flips and
+   `dossier_registry_build.py --rebuild=<slug>` for dossiers whose
+   workers flagged them ready, and post-publication reviews of PUBLISHED
+   dossiers per `dossiers/SUPERVISOR-REVIEW.md` (record verdicts there).
+2. Append verdicts to SUPERVISOR-REVIEW.md and lines to the Owner-Board.
+3. A failed review flips the entry back to "planned" with a flag on
+   the Owner-Board — never edit the worker's dossier or ledger yourself;
+   the flag names what to fix.
+
+LIMITS: one holder at a time (the baton enforces this); never edit
+workers' band files, dossiers or ledgers; owner-judgment items (art
+direction beyond ART-GALLERY.md rules, new mints, policy) still go to
+the Owner-Board as flags. Release the baton when the queue is cleared.
+
 ## Supervisor duties (in order)
 
 Rule of the role (owner directive, 2026-10-21): supervising tasks first, always. Work

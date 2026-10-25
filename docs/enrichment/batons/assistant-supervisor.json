@@ -1,0 +1,7 @@
+{
+ "baton": "assistant-supervisor",
+ "agent": null,
+ "released": true,
+ "takeovers": [],
+ "note": "Owner directive 2026-10-25: take this baton when the supervisor queue is overloaded (see OPERATIONS.md, Assistant supervisor). One holder at a time; release when the queue is cleared."
+}

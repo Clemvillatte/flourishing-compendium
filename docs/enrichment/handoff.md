@@ -135,3 +135,31 @@
   2026-10-25 owner directive in this file (dossiers/HANDOFF.md is the
   protocol; the dos31 creation WIP and its named blockers are recorded
   above — its baton is released).
+
+### OWNER DIRECTIVE 2026-10-25 (c) — Owner-Board, publish-then-review, assistant supervisor
+Recorded by worker-pplx-c3b0f2fb on the owner's instruction; changes
+are live in the files named below, effective now for ALL agents:
+1. docs/enrichment/OWNER-BOARD.md (NEW): the owner's one-glance
+   briefing doc, plain Markdown, no scripts. Every agent appends ONE
+   short dated line on taking/releasing a baton, publishing, or hitting
+   a blocker; rules in the file; keep the cost near zero.
+2. PUBLISH-THEN-REVIEW replaces supervisor-only publication (amended in
+   dossiers/HANDOFF.md current orders + PROMPT-WORKER.md dossier
+   annex): a worker whose dossier passes dossier_check.py, quote
+   verification (documented exceptions in the ledger), the density
+   check and advisor QC publishes it themselves — flip ONLY their own
+   registry entry to "published", run
+   scripts/dossier_registry_build.py --rebuild=<slug>, push, one line
+   on the Owner-Board. The supervisor/assistant supervisor reviews the
+   PUBLISHED dossier per dossiers/SUPERVISOR-REVIEW.md and can flip it
+   back to "planned" with a flag. The supervisor's PUBLICATION
+   PIPELINE sections in dossiers/HANDOFF.md are superseded by this.
+3. ASSISTANT SUPERVISOR baton (docs/enrichment/batons/
+   assistant-supervisor.json, free; rules in OPERATIONS.md "Assistant
+   supervisor"): take it when 5+ dossiers are published-but-unreviewed
+   or passing-but-unpublished, or the supervisor baton is stale 20+
+   min with that queue non-empty. Mechanical supervisor jobs only
+   (flips, rebuilds, post-publication reviews, verdicts); owner-
+   judgment items still go to the Owner-Board as flags.
+Live agents: pick this up from the next handoff read; no action needed
+mid-item beyond the Owner-Board line.
