@@ -53,6 +53,11 @@
      "t": "2026-10-25T15:05:34+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x verified 15:12Z (see qc-verification-runs-new)"
+    },
+    {
+     "t": "2026-10-25T15:05:59+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:05Z: sample verified, PASS (QC-notes bullet appended; earlier 15:12Z state note was an estimated stamp, actual 15:05Z)"
     }
    ]
   },
@@ -292,5 +297,5 @@
    ]
   }
  },
- "updated": "2026-10-25T15:05:34+00:00"
+ "updated": "2026-10-25T15:05:59+00:00"
 }
