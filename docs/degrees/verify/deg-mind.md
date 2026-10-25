@@ -1230,6 +1230,20 @@ against the recording or transcript before the record is attached to a module.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): combining mouse
   and human studies to reveal mechanisms of learning.
+  Coverage-confirmation (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=3gJYk3Q1Y-c&current_language_code=en,
+  opened 2026-10-25; noted by the extraction to contain garbled phrases) confirms
+  the webinar's substance on the recording: cross-species comparisons of
+  attention-task performance ("queuing effects are remarkably similar"); human
+  IBMT mindfulness studies with white-matter change near the anterior cingulate
+  measured by fractional anisotropy; mouse optogenetic stimulation of the
+  anterior cingulate (1 Hz, 8 Hz, 40 Hz and control) with oligodendrocyte
+  increases and a reduced G ratio, and reduced anxiety-like behavior; the
+  human white-matter attempt that "failed to change white matter"; mouse
+  visual-field learning with anterior-cingulate suppression reducing accuracy;
+  preliminary thalamic-pathway findings; and Q&A on attention in learning,
+  education, meditation and neuromodulation. Caveats: third-party transcript
+  page, no timestamps in the retrieved text; playback itself not opened.
 - Relevant segment: whole webinar, 1:12:56.
 - Verification status: verified-video (2026-10-25).
 
