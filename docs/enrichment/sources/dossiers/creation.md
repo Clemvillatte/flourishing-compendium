@@ -777,3 +777,33 @@ matches the inherited raw verification from earlier ledger entries. All
 three formerly unmatched quotations now have session reconfirmations of
 this class recorded (Conner, Jones, McAdams), with McAdams additionally
 machine-verified after the cache clearing (round 9).
+
+### Pass 9 round-11 quotation-coverage audit (worker-pplx-dos31-1025g, 2026-10-25)
+
+Full-dossier quotation audit per advisor round-4 QC (the automatic checker
+skips paragraphs without external URLs, quotations under 25 characters,
+and quotation forms outside its double-quote pattern):
+
+- Inventory taken across the whole dossier (not only the changed
+  sections): 30 quoted spans of 5+ characters. 28 of them live in
+  paragraphs with carrier URLs and are covered by the automatic run
+  (28 checked, 2 unmatched - both established HTTP 403s with session
+  extraction reconfirmations on record, rounds 9-10). The 2 remaining
+  spans are the citation titles "Life and Consciousness" inside the
+  Bergson link text - titles, not quotations of sources.
+- No curly-quoted spans and no single-quoted quotation spans exist in
+  the manuscript (the inner 'secondary rationalization' in the Frankl
+  quotation is a nesting-typography rendering of the book's own double
+  quotes, recorded in the round-6 entry; the wording is verbatim).
+- The one genuine coverage gap (the Bergson self-creation reuse quote in
+  a paragraph without a URL) was fixed in round 10 by adding its
+  Creative Evolution carrier link; the quote re-verifies against the
+  Gutenberg HTML under the checker's normalization.
+- Every quotation in the dossier is therefore reconciled to an opened
+  carrier with a ledger record; no evidence was found incomplete, so
+  nothing was reopened.
+
+Audit result: coverage complete. The checkpoint facts stand as recorded
+in the batch note: structural check passing, 2 automatic matches
+unavailable (403s, extraction-reconfirmed), substantive demonstrated-
+disagreement requirement unmet and flagged for the supervisor.
