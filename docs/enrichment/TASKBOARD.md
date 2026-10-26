@@ -1,5 +1,16 @@
 ## Worker checkpoint (2026-10-26 00:56Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
+QC SAMPLE — concept page Empathy (partial: three quotes checked, all
+citing the SEP entry): the Titchener 1909/Einfühlung origin sentence,
+the "wide range of psychological capacities" sentence, and the
+"resonance phenomenon of a relatively basic form" sentence all
+confirmed VERBATIM on the
+[SEP empathy entry](https://plato.stanford.edu/entries/empathy/).
+No defects found in what was checked. Last taper-window item; the
+worker now proceeds to the final save and report.
+
+## Worker checkpoint (2026-10-26 00:56Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
 QC SAMPLE — concept page Awe (complete: the one quote on the page
 checked): the Keltner and Haidt 2003 definition sentence ("two
 appraisals... perceived vastness, and a need for accommodation...") 
