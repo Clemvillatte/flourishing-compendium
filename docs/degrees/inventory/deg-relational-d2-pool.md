@@ -63,6 +63,22 @@ All candidates are DRAFT until D2 verification (open-access check + instructor c
 ### mod-rel-14 — Capstone
 - **No dedicated open capstone found this session.** The capstone must be built from the degree's own material per the spec's capstone rule.
 
+### mod-rel-15 — Levinas — phenomenological context; Totality and Infinity
+- **Toronto Metropolitan University PH8121 syllabus (Prof. John Caruana)** — https://www.torontomu.ca/content/dam/philosophy/courses/PH8121-Recent-Continental-Philosophy.pdf — open access (the syllabus PDF itself is on the university's site). Covers: Levinas's phenomenological context, Totality and Infinity I-IV with exact TI page ranges. **CREDENTIALS-VERIFIED (this session): Caruana's TMU faculty page (https://www.torontomu.ca/philosophy/faculty-staff/caruana-john/) was successfully fetched — Associate Professor, Department of Philosophy, BA McGill, MA, PhD York University; the TMU graduate-courses page confirms he teaches PH8121 in Fall 2026. NOTE: this verifies credentials and the syllabus's openness, NOT the primary text's openness — Totality and Infinity (Duquesne UP) is a paid book.**
+- **Stanford Encyclopedia of Philosophy — Levinas** — https://plato.stanford.edu/entries/levinas/ — open access. **Verify at D2: SEP editorial policy.**
+
+### mod-rel-16 — Derrida's critique; later Levinas; Derrida on justice, hospitality, forgiveness
+- **Toronto Metropolitan University PH8121 syllabus (Caruana)** — weeks 6-12 (Derrida's "Violence and Metaphysics", later Levinas, Derrida on justice, hospitality, ethical singularity and forgiveness).
+
+### mod-rel-18 — Gilligan, Noddings, Ruddick (care ethics foundations)
+- **Toronto Metropolitan University PH8112 syllabus (Meredith Schwartz)** — https://www.torontomu.ca/content/dam/philosophy/courses/PH8112-Feminist-Philosophy.pdf — open access (the syllabus PDF is on the university's site). Covers: Gilligan's In a Different Voice, Noddings's Caring, Ruddick's Maternal Thinking, with page counts. **CREDENTIALS-VERIFIED (this session): Schwartz's Trudeau Foundation profile (https://www.trudeaufoundation.ca/directory/meredith-schwartz/) was successfully fetched — Assistant Professor, Philosophy, Toronto Metropolitan University (Ryerson University); PhD Dalhousie 2011 (per Dalhousie's PhD alumni page). NOTE: the PH8112 syllabus is from Winter 2012, when Schwartz was on the Ryerson faculty; the degree must cite the syllabus's date accurately. Gilligan's In a Different Voice, Noddings's Caring and Ruddick's Maternal Thinking are all paid books — open alternatives must be found at D2.**
+
+### mod-rel-19 — Critics of care ethics; Tronto's Moral Boundaries
+- **Toronto Metropolitan University PH8112 syllabus (Schwartz)** — weeks 3-9 (Card, Hoagland, Moody-Adams, Narayan, Levin; Tronto's Moral Boundaries with page counts).
+
+### mod-rel-20 — Walker's Moral Understandings; future directions
+- **Toronto Metropolitan University PH8112 syllabus (Schwartz)** — weeks 10-12 (Walker's Moral Understandings with page counts).
+
 ## Hours arithmetic (candidate estimate — NOT a measured instruction-time claim)
 
 **HOURS NOT YET ESTABLISHED.** The D2 checkpoint must establish the hours with: (a) accessible assignment URLs, (b) exact video/reading durations or a documented reading-time rule, (c) a deduplicated allocation (a whole course reused across multiple modules cannot be counted repeatedly), and (d) a documented rule on whether personal practice counts as instruction time. Any prior scale sketch in earlier drafts of this file was retracted per advisor QC — it mixed advertised course workload, estimated video lengths and independent practice, which are not measured instruction. **This is the D2 checkpoint's core question.**
