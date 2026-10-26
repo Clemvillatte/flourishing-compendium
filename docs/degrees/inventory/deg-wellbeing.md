@@ -41,7 +41,7 @@ The three syllabi agree on the same skeleton: (a) what is positive psychology an
 ### D. Relationships and prosocial behaviour
 - Positive relationships; attachment and love [Haidt C8 10/20 Love and social support (Baumeister & Leary need to belong; Reis & Gable); UT Tyler wk 9; CPP topic 7]
 - Empathy, compassion and altruism [Haidt C7 10/13 Being Nice (reciprocal altruism; Fredrickson broaden-and-build); CPP topic 8]
-- Gottman's science of love; the five-to-one ratio [Haidt C8 10/20 Love and social support (Reis & Gable positive psychology of relationships)]
+- Positive psychology of relationships; the need to belong [Haidt C8 10/20 Love and social support (Baumeister & Leary need to belong; Reis & Gable positive psychology of relationships; Seligman AH ch.11 love; Sternberg triangular theory of love)] — NOTE: the earlier "Gottman's science of love; the five-to-one ratio" attribution is RETRACTED; the Haidt syllabus does not mention Gottman
 - Forgiveness and reconciliation [UT Tyler wk 10; CPP topic 9]
 
 ### E. Meaning, purpose and wisdom
@@ -80,7 +80,7 @@ The module numbering below is PROPOSED for the D2 checkpoint review; the existin
 | Neuroscience of positive affect | mod-well-3 (new) | MISSING | hedonic set point, adaptation |
 | Flow and optimal experience | mod-well-4 (new) | MISSING | Csikszentmihalyi's primary text |
 | Character strengths and virtues | mod-well-5 (new) | MISSING | Peterson and Seligman VIA |
-| Positive relationships; attachment and love | mod-well-6 (new) | MISSING | Gottman science of love |
+| Positive relationships; attachment and love | mod-well-6 (new) | MISSING | Baumeister & Leary need to belong; Sternberg triangular theory of love; Reis & Gable positive psychology of relationships |
 | Empathy, compassion, altruism | mod-well-6 | MISSING | prosocial science |
 | Forgiveness and reconciliation | mod-well-7 (new) | MISSING | Worthington REACH model |
 | Meaning in life | mod-well-8 (new) | MISSING | coherence, purpose, significance |
