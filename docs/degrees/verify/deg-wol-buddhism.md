@@ -876,3 +876,53 @@ retrieved (2026-10-26T05:26Z; corrected 05:31Z per advisor QC)
   quote, it needs a human-reviewable primary source (per
   PRIMARY-SOURCES.md, a human-checked print or broadcast transcript)
   — not an auto-caption track.
+
+### B-V23 — independent corroboration pass + two new findings (2026-10-26T07:25Z; verify-pplx-w3-1026a, deg-verify-a)
+
+Re-fetched the five buddhism video watch pages from a fresh environment
+(player-data route; fetch receipts held in the session log):
+
+- **b9 Thanissaro Hindrances (PcR_fI6p9k8):** CORROBORATES B-V12/B-V12
+  addendum (duration 25:00 / lengthSeconds 1500; CC BY-NC 3.0; one-line
+  description; published 2014-07-16). NEW: caption track CONFIRMED —
+  English, kind "asr" (auto-generated), translatable. Caption-status
+  item for b9 is now closed (auto-generated, not human).
+- **b4 Brahmali session 1 (dyUCvFlDL8w):** duration 33:55 confirmed;
+  the description's chapter list matches the module's printed chapters
+  VERBATIM (0:00 Introduction … 20:32 Guided meditation); "Recorded at
+  Dhammaloka Buddhist Centre, Perth" confirmed; published 2023-03-04
+  (consistent with the BSWA series index's 5 March 2023 Perth date).
+  The module's PARTIAL note said the timestamps were read from the
+  description — now independently re-confirmed. Caption-track
+  presence: INCONCLUSIVE from this fetch (page shows a transcript
+  panel; no captionTracks fields returned). Transcript-level content
+  classification of the guided segment remains the open item.
+- **b6 Kirchner Lecture 1 (UVXpdAavGgQ):** duration 5284s = 1:28:04
+  confirmed; the series description verbatim carries the module's
+  bounded claims for BOTH lectures (Zen-master image with Rinzai and
+  Hakuin; Lecture 3's Rinzai/Soto differences and "place of
+  meditation... not as extensive as one might expect"); Kirchner
+  credentials paragraph matches the module. NEW FINDING: this video is
+  hosted on the **Bodhicitta Sangha** channel, NOT The Buddhist
+  Society channel as the module's source table states (Lecture 3 is on
+  The Buddhist Society). ROUTE to the buddhism repair worker: correct
+  the b6 channel attribution for Lecture 1 (series is The Buddhist
+  Society's per the description; the upload is Bodhicitta Sangha's).
+- **b6 Kirchner Lecture 3 (jPxuvitdsRI):** duration 6016s = 1:40:16
+  this fetch (matches the B-V07 addendum's one-second display variance
+  note; module says 1:40:17 — not a defect). Channel The Buddhist
+  Society confirmed.
+- **b7 Batchelor (Hhlj_SU9SAE):** duration 5195s = 1:26:35 confirmed;
+  description frame (ethical, pragmatic, human-flourishing basis) and
+  venue/date match the module verbatim; channel Radboud Reflects
+  confirmed. NEW FINDING: the watch page DOES print Key moments
+  (58:11 The Eightfold Path; 1:01:36 Intercultural Exchange; 1:06:53
+  The Original Teachings of the Buddha; 1:13:18 How Buddhism Has
+  Evolved Historically) — the module says "the page prints no chapter
+  list". ROUTE to the buddhism repair worker: the two viewing stops
+  can now be keyed to printed key moments if desired, or the claim
+  can stand corrected (key moments, not a chapter list).
+
+No paywalled or app-gated content on any route. Auto-captions remain
+classification/coverage evidence only, not verbatim quotation carriers
+(per B-V21/B-V22 rule).
