@@ -2,7 +2,7 @@
  "degree_id": "deg-psychdim",
  "built": "2026-10-26",
  "built_by": "worker-pplx-degfixschema-1026b (baton deg-fix-schema)",
- "provenance": "Windows and spans transcribed from deg-psychdim-manifest.json (verified by the deg-fix-content lane) and the module docs; nothing here is invented. See docs/degrees/AUDIT-2026-10-26.md Phase A.",
+ "provenance": "Windows and spans transcribed from deg-psychdim-manifest.json (verified by the deg-fix-content lane) and the module docs; nothing here is invented. See docs/degrees/AUDIT-2026-10-26.md Phase A. Full durations: YouTube watch pages fetched 2026-10-26 (Hayes 1:40:07; Bloom lectures 7, 8, 10 and Inzlicht #298); Bloom lectures 13 and 16 from docs/degrees/verify/deg-psychdim-m5-video-audit-49bf153e.md.",
  "modules": {
   "mod-pd-1": {
    "refs": [
@@ -541,6 +541,27 @@
   "PD-M7-10": {
    "title": "Vohs et al. 2021, author manuscript (Brunel repository PDF)",
    "presenter": "Vohs et al."
+  },
+  "PD-M1-01": {
+   "duration": "1:40:07"
+  },
+  "PD-M3-02": {
+   "duration": "59:43"
+  },
+  "PD-M3-03": {
+   "duration": "59:42"
+  },
+  "PD-M3-04": {
+   "duration": "59:49"
+  },
+  "PD-M5-01": {
+   "duration": "1:05:49"
+  },
+  "PD-M5-02": {
+   "duration": "58:15"
+  },
+  "PD-M7-03": {
+   "duration": "1:19:48"
   }
  }
 }
