@@ -174,3 +174,13 @@ pre-reconciliation values (qc_pending / ready) with audit notes. A ROUTE request
 full evidence has been added to ROUTE.md for the supervisor to apply the correct
 transitions. The verification findings stand (ST pages exist, registrations recorded in
 history, title mappings checked); only the unauthorized status change was reverted.
+
+## Session note (2026-10-26, storyteller-pplx-1026f)
+
+Five qc_pending drafts flipped to ready (final QC, quotes re-verified against
+re-opened sources, story_check 0 errors): s1a-065, s1a-066, s1a-067, s1a-069,
+s1a-072. All remaining s1a qc_pending/returned items carry supervisor rulings
+and were left in state: 005 (returned, reassignment), 028/029 (qc_pending
+state entries without draft files), 038 (retargeting), 063 (partial mapping),
+064, 068, 070, 071, 073, 074, 075 (withdrawn/routed mappings). Registration
+stays supervisor-only.
