@@ -176,11 +176,19 @@ def main():
                         continue
                     integrated = {r['source_id'] for r in (mod.get('requiredMedia') or [])} | \
                                  {r['source_id'] for r in (mod.get('optionalMedia') or [])}
+                    req_ids_m = {r['source_id'] for r in (mod.get('requiredMedia') or [])}
                     for e in entries:
                         if not isinstance(e, dict) or e.get('note_only'):
                             continue
                         if e.get('source_id') not in integrated:
                             fail(mid, f"manifest assignment not integrated: {e.get('source_id')} ({e.get('assignment','')})")
+                            continue
+                        role = e.get('role')
+                        sid = e.get('source_id')
+                        if role in ('optional', 'reference', 'data-block-extra') and sid in req_ids_m:
+                            fail(mid, f"manifest role mismatch: {sid} is role={role} in the design but REQUIRED in the data block ({e.get('assignment','')[:80]})")
+                        if role == 'teach' and sid not in req_ids_m:
+                            fail(mid, f"manifest role mismatch: {sid} is a teach assignment in the design but only optional in the data block")
             except (ValueError, OSError) as exc:
                 msgs.append(f'{prefix}FAIL [{did}] manifest unreadable: {exc}')
 
