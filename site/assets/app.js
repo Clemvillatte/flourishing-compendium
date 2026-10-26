@@ -13918,7 +13918,16 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Two decades later, twenty-three laboratories with 2,141 participants, preregistered and running a standardized version of the same sequential-task test, could not find the drain:"
+          "x": "Two decades later, the evidence base itself had already been questioned, and the replication report's abstract says so in one sentence:"
+        },
+        {
+          "t": "q",
+          "x": "\"Although a meta-analysis of ego-depletion experiments found a medium-sized effect, subsequent meta-analyses have questioned the size and existence of the effect and identified instances of possible bias.\" ([Hagger et al. 2016](https://pubmed.ncbi.nlm.nih.gov/27474142/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Twenty-three laboratories with 2,141 participants, preregistered and running a standardized version of the same sequential-task test, could not find the drain:"
         },
         {
           "t": "q",
