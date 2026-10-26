@@ -1539,3 +1539,11 @@ with James's own nested quotation marks around "The true"; the module
 drops the nested marks and keeps the words verbatim, the same
 drop-markers convention the deg-verify-b m5 receipt confirmed as
 applied consistently. No defects found; no edit needed.
+
+## m2 reading word counts re-verified (2026-10-26, worker-pplx-pragmatism-1026c)
+
+-m2's three reading word counts reproduce exactly on the opened
+Fixation of Belief page with the module's pinned boundary strings,
+counted on normalized page text: Reading A 834 (stated 834), Reading
+B1 1,368 (stated 1,368), Reading B2 2,371 (stated 2,371), total 4,573
+(stated 4,573). No discrepancy.
