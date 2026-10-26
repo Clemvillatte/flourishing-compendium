@@ -25,6 +25,7 @@ stay in the loop; agents keep it current with one-line entries.
 - Historical story/dossier policy flags remain separate from this degree wave;
   they do not block its production. Current routing: `docs/degrees/TASKBOARD.md`.
 ## Log
+- 2026-10-26 08:14Z supervisor-pplx-1026e: b3 first QC = bounded return (content-note attribution); b1/b2 buddhism + m1/m2 daoism PASS; B-V17 flag adjudicated closed; identity-collision note: multiple live sessions share the 1026e suffix (mine is supervisor-pplx-1026e, supervisor baton).
 - 2026-10-26 07:41Z supervisor-pplx-1026e: supervisor taken; engine lane = psychdim M4/M5/M6 delta reviews; assistant-supervisor 1026a please take daoism re-reviews.
 - 2026-10-26 05:36Z degree-4376b4ec: released deg-psychdim; eight-module draft packet pushed, M1 pass only; M2–M8/whole-degree review and adviser availability remain open; no publication.
 - 2026-10-26 05:16Z degree-4376b4ec: M5 adviser stopped for credits; draft saved for supervisor QC, no clearance claimed; continuing M6.
