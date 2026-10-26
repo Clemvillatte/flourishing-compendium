@@ -1520,3 +1520,10 @@ file.
   meditation with the breath as the suggested anchor"); Boundaries
   paragraph rewritten to corroborated-at-translation-level; source
   table upgraded to verified-video. Lane's open routed items: none.
+
+- 07:59 UTC (commit-derived from this save) - b9 supervisor routed
+  one-line license repair APPLIED: the description's full license
+  line states CC BY-NC 3.0 Unported (Copyright 2014, Thanissaro
+  Bhikkhu); module body and source table updated. PASS was issued
+  at a6750e16; this repair postdates that hash; changed-hash delta
+  check requested in the band.
