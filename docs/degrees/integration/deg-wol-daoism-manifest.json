@@ -1,0 +1,29 @@
+{"degree_id": "deg-wol-daoism",
+ "built": "2026-10-26",
+ "built_by": "strategist-pplx-1026a (baton degrees-strategist)",
+ "provenance": "Transcribed from the QC'd module files under docs/degrees/modules/deg-wol-daoism/ (windows and totals are the files' own measured values; phase-0 contract per docs/degrees/AUDIT-2026-10-26.md). The learner-audit gate diffs this manifest against the integrated data block.",
+ "modules": {
+  "mod-dao-1": [
+   {"source_id": "DAO-M1-01", "role": "teach", "assignment": "Komjathy, Lundao 1 (1:13:54) - assigned segments 0:01:17-0:10:35 and 0:20:02-0:24:06, 13:22 total; remaining key moments optional", "kind": "video"},
+   {"source_id": "DAO-M1-02", "role": "teach", "assignment": "Van Norden, Wisdom of China: Laozi documentary (0:50:09) - assigned segments 0:00:00-0:17:17 and 0:29:44-0:34:20, 21:53 total; unassigned chapters optional", "kind": "video"},
+   {"source_id": "DAO-M1-03", "role": "teach", "assignment": "Ziporyn, Why This Text Matters: Daodejing (0:53:36) - assigned segments 0:00:00-0:12:13, 0:15:20-0:17:00, 0:26:15-0:33:56, 21:34 total; remaining chapters optional", "kind": "video"},
+   {"source_id": "DAO-M1-04", "role": "teach", "assignment": "Eno, Daodejing translation - one fully guided chapter reading (m1 Outcome 3)", "kind": "reading"},
+   {"source_id": "DAO-M1-05", "role": "teach", "assignment": "Eno, Zhuangzi Inner Chapters - orientation survey reference (one assigned passage per figure)", "kind": "reading"}
+  ],
+  "mod-dao-2": [
+   {"source_id": "DAO-M1-03", "role": "revisit", "assignment": "Ziporyn lecture - REVISIT of the same segments as m1 (21:34 total; learners who completed m1 recently may rewatch only what they want to revisit)", "kind": "video"},
+   {"source_id": "DAO-M1-04", "role": "teach", "assignment": "Eno, Daodejing translation - guided chapter readings incl. the ch 28 two-account comparison", "kind": "reading"}
+  ],
+  "mod-dao-3": [
+   {"source_id": "DAO-M1-03", "role": "teach", "assignment": "Ziporyn lecture - DIFFERENT segment 0:38:17-0:43:39 (5:22; the shoe-fits/Zhuangzi passage)", "kind": "video"},
+   {"source_id": "DAO-M1-05", "role": "teach", "assignment": "Eno, Zhuangzi Inner Chapters - three assigned passages (Cook Ding; Hunchback and Cicadas; one further appendix selection)", "kind": "reading"}
+  ],
+  "mod-dao-4": [
+   {"source_id": "DAO-M4-01", "role": "teach", "assignment": "Komjathy, Lundao 5 (0:53:43) - required segment 0:00-26:22 (to the talk's Chapter 2 marker); remainder 26:22-53:43 optional", "kind": "video"},
+   {"source_id": "DAO-M4-02", "role": "teach", "assignment": "Linnell, Study of Inner Cultivation (Neiye, Project Gutenberg) - assigned Neiye sections (elective deep-dive track outcome)", "kind": "reading"}
+  ],
+  "mod-dao-5": [
+   {"source_id": "DAO-M1-04", "role": "capstone-return", "assignment": "Eno, Daodejing translation - the four capstone readings (assigned chapters incl. 2, 3, 12; elective track); no new video assigned", "kind": "reading"}
+  ]
+ }
+}
