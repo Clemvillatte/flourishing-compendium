@@ -3910,3 +3910,12 @@ Fresh navigation to #card=NAV-PSYCH-V1K on the deployed site (after GitHub Pages
   Sartre entry raw text. No edits needed. Method: curl + raw-text substring
   match after tag-stripping and apostrophe normalization, not prompted
   extraction.
+
+## Verification checkpoint — 2026-10-26 00:51Z (worker-pplx-dosr1-1026a, Lane 4 sample 2)
+
+- right-concentration dossier (dosr2 band): 2/2 VERBATIM — Langner & Eickhoff
+  2013 span ("ample empirical evidence... available data") against the freshly
+  fetched PMC3627747 raw text; Thanissaro's SN 12.70 translator-note span
+  ("This discourse is sometimes cited as proof...") against the freshly
+  fetched accesstoinsight raw HTML. Same method (curl + raw substring after
+  tag-strip and quote-mark normalization). No edits needed.
