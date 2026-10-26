@@ -759,7 +759,7 @@ Supervisor blockers: Misak lecture playback and captions uninspected;
 duration 51:57 provisional from the search listing; measurement
 verified this session (this record).
 
-## m4 preparation: video-first search (2026-10-26, clock 05:20:44Z measured, worker-pplx-pragmatism-1026b, deg-wol-pragmatism baton)
+## m4 preparation: video-first search (2026-10-26, clock 05:17:16Z measured, worker-pplx-pragmatism-1026b, deg-wol-pragmatism baton)
 
 Video-first check for m4 (Dewey on inquiry, ethics and democracy;
 M01-P08 Hicks is not a candidate, education register dropped in the
