@@ -1,3 +1,10 @@
+
+## VERIFICATION CHECKPOINT (2026-10-26 00:47Z, sup-1026b — attention dossier quote sample)
+
+2/2 verbatim against freshly opened carriers: James PoP ch. 11
+(psychclassics — selective-interest sentence exact; hyphen/dash
+normalization only) and PoP vol. 2 (Gutenberg — effort-of-attention/will
+sentence exact). Session total 36 verbatim spans across 20 sampled pages.
 ## Worker checkpoint (2026-10-26 01:04Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — concept page Grit: both quotes confirmed VERBATIM on the
