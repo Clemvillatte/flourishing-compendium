@@ -118,6 +118,17 @@ def git_ready_for_push():
     return True
 
 
+def changed_files(origin, head):
+    """Keep deletions explicit: rename detection must not turn moves into copies."""
+    fields = subprocess.check_output(
+        ["git", "-c", "core.quotepath=false", "diff", "--no-renames",
+         "--name-status", "-z", origin, head]).decode().split("\0")
+    fields = fields[:-1] if fields[-1] == "" else fields
+    if len(fields) % 2:
+        raise ValueError("malformed NUL-delimited Git status output")
+    return list(zip(fields[::2], fields[1::2]))
+
+
 def main():
     positional = [a for a in sys.argv[1:] if a != "--credential-proxy"]
     max_tries = int(positional[0]) if positional else 10
@@ -151,11 +162,11 @@ def main():
         if head == origin:
             print(f"already synced (HEAD == origin/main)")
             return 0
-        files = subprocess.check_output(
-            ["git", "-c", "core.quotepath=false", "diff", "--name-only", "-z",
-             origin, head]).decode().split("\0")
-        files = [f for f in files if f]
-        if not files:
+        changes = changed_files(origin, head)
+        files = [path for status, path in changes if status != "D"]
+        deletions = [{"path": path, "mode": "100644", "type": "blob", "sha": None}
+                     for status, path in changes if status == "D"]
+        if not changes:
             print("no file changes; commit graph differs (rebase needed)")
             return 1
         # remote head (authoritative, CAS base)
@@ -175,7 +186,7 @@ def main():
             try:
                 raw = subprocess.check_output(["git", "show", f"{head}:{f}"])
             except subprocess.CalledProcessError:
-                print(f"file {f} missing in HEAD (deletion unsupported here)",
+                print(f"non-deleted file {f} unexpectedly missing in HEAD",
                       flush=True)
                 ok = False; break
             payloads.append((f, raw))
@@ -223,6 +234,7 @@ def main():
         else:
             with concurrent.futures.ThreadPoolExecutor(max_workers=10) as ex:
                 tree_items = list(ex.map(upload, payloads))
+        tree_items.extend(deletions)
         save_cache(cache)
         if any(t is None for t in tree_items):
             print("some blobs failed; retrying", flush=True)
@@ -231,6 +243,12 @@ def main():
                             {"base_tree": base_tree, "tree": tree_items})
         if st != 201:
             print(f"tree failed {st}: {tree}", flush=True); time.sleep(3); continue
+        expected_tree = subprocess.check_output(
+            ["git", "rev-parse", f"{head}^{{tree}}"], text=True).strip()
+        if tree["sha"] != expected_tree:
+            print("ABORT: API tree differs from the committed local tree; "
+                  "no commit or ref update was sent", flush=True)
+            return 1
         # Tree creation also materialises inline blobs. Reuse them if another
         # worker advances main before our compare-and-swap ref update.
         cache.update(git_blob_sha(raw) for _, raw in payloads)
