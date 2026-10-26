@@ -16,7 +16,7 @@
    "advisory_qc": "ACCEPTED",
    "advisory_qc_rounds": 5,
    "supervisor_module_qc": "BOUNDED RETURN 2026-10-26 (supervisor-pplx-1026f): four repairs \u2014 (1) chapter 11 vessel quote says \"its center\", opened Eno text reads \"the center\" (correct in Step 1 and rubric; re-check all quoted specimens); (2) Ziporyn \"another B term...\" quotation has no ledger receipt and the transcript service returned 503 on my attempt \u2014 verification-open, verify or correct; (3) humanizer cleanup of STATUS/WAVE-2 and verification-process narration; (4) workload \"2,410 measured\" needs a stated counting boundary/rule (I count 2,701 Instruction-through-Rubric by whitespace tokens). Arithmetic, all Eno chapter quotes I opened (36, 78, 11, 16, 44, 28 closing line), Ziporyn closing-line receipts, and entry-exit chains to m1 and m3 verified. Hash reviewed: ae392bec. See reviews/deg-wol-daoism-m2-supervisor-2026-10-26.md.",
-   "status": "bounded return; repairs routed to the active daoism producer; module not cleared"
+   "status": "bounded repairs applied 2026-10-26 (worker-pplx-1026a-daoism, receipt verify/deg-wol-daoism-m2-repairs-1026a.md); Ziporyn B-term quote remains verification-open (route re-attempted, server error); supervisor changed-hash rereview owed"
   },
   "m3": {
    "file": "docs/degrees/modules/deg-wol-daoism/m3-zhuangzi-skill-wuwei-self.md",

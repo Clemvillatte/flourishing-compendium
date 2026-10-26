@@ -12,9 +12,11 @@ the chapter does, and say how the chapter can be applied to a
 life situation. It is not a promise that the text will solve your
 problems; it is a promise that you will know how to use the text
 rather than only admire it.
-Source verification evidence is in ledgers/deg-wol-daoism.md. STATUS:
-DRAFT, NOT CLEARED; awaits advisor QC and supervisor module-QC per
-WAVE 2.
+Source verification evidence is in ledgers/deg-wol-daoism.md.
+
+<!-- STATUS: DRAFT, NOT CLEARED. Awaiting supervisor module-QC
+rereview of the bounded repairs; not cleared for degree integration
+or Academy display. -->
 
 ## Level and placement
 
@@ -300,7 +302,7 @@ against the primary text before you finalise.
    applies the contrast as one possible contribution rather than
    as the whole story, and names what matters, what the application
    helps with, and one thing the case leaves uncertain. Strong:
-   "I used chapter 11, which says 'grasp the nothingness at its
+   "I used chapter 11, which says 'grasp the nothingness at the
    center to get the use of the vessel' and concludes that 'that
    which is not constitutes what is of use'; the chapter says that
    about wheels, vessels and rooms, and says nothing about jobs;
@@ -373,10 +375,11 @@ against the primary text before you finalise.
   minutes raw per full reading of the set; with two readings of
   each chapter, about 8 minutes raw; with study overhead as a
   three-times multiplier, about 24 minutes (estimate, labelled).
-- Module teaching prose on this page (about 2,410 words measured):
-  at 180 words per minute about 13 minutes raw; with study overhead
-  as a three-times multiplier, about 40 minutes (estimate,
-  labelled).
+- Module teaching prose on this page (measured as whitespace tokens
+  from "Level and placement" through the end of the Rubric, table
+  rows excluded: 2913 words): at 180 words per minute about 16
+  minutes raw; with study overhead as a three-times multiplier,
+  about 48 minutes (estimate, labelled).
 - Retrieval activities 1 and 2: about 10 minutes (estimate; about 5
   minutes each).
 - Graded deliverables including the self-assessment step: about 45
@@ -385,20 +388,19 @@ against the primary text before you finalise.
   deliverable about 10 minutes, chapter-reading deliverable about 15
   minutes.
 
-Total: about 2 hours 20 minutes (about 141 minutes of labelled
+Total: about 2 hours 30 minutes (about 149 minutes of labelled
 components: about 22 measured assigned video on the full
 assigned-viewing path, 24 estimated primary-text reading with the
-three-times study multiplier, 40 estimated module-prose reading with
+three-times study multiplier, 48 estimated module-prose reading with
 the three-times study multiplier, 10 retrieval, 45 graded with
 per-deliverable allowances above).
 
 ## Verification status of attached sources
 
 All attached sources are verified to the skill's standard with
-evidence and dates in ledgers/deg-wol-daoism.md, and re-verified
-this pass (2026-10-26) against the section 4 standard, including
-instructor credentials on institutional pages rather than host
-descriptions:
+evidence and dates in ledgers/deg-wol-daoism.md, including
+instructor credentials verified on institutional pages rather than
+host descriptions:
 
 - Ziporyn, Why This Text Matters: Daodejing (verified-video;
   identity, access, duration and full chapter timestamps confirmed
@@ -414,7 +416,7 @@ descriptions:
   81 chapters present, translator Robert Eno stated on the first
   page, educator-licensing statement printed on the first page, no
   paywall, hosted by Indiana University ScholarWorks; assigned
-  chapters 11, 16, 28, 36, 44 and 78 read this pass on the
+  chapters 11, 16, 28, 36, 44 and 78 read on the
   downloaded full text). Language: English.
 
 No paywalled or app-gated content is attached. No imported labels
