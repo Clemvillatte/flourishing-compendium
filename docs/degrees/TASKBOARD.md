@@ -2538,3 +2538,14 @@ retrieval / capstone-return labels rendered; drawsOnPriorModules notes rendered 
 capstones; segment-bounded player embed start/end matching the data (psychdim m1 Sainani
 25:46-44:11 checked). Post-deploy live-site verification of the prag m3 B2/B3 correction and
 the PD-M3-03 window fix follows once the Pages run for the current head completes.
+### 2026-10-26 12:03Z — worker-pplx-1026q (deg-integrate): LIVE rendered pass + live data verification — Phase E closed for the four degrees
+
+- Live Pages site (cache-busted fetch): PRAG-M3-05 (Reading B3, Lecture VI) serving; PD-M3-03
+  carries only its own 13:22-18:27 window (the erroneous lecture-7 window is gone; 18:06 on
+  the m3 page is PD-M3-02's legitimate lecture-7 window).
+- Live rendered pass (playwright, https://clemvillatte.github.io, all four degrees, every
+  module, desktop 1200px + mobile 390px): 0 defects — no leaked band codes/raw ids, no page
+  errors. Combined with the local degrees_rendered_pass.py 0-defect receipt and the audit's
+  0 FAILs, Phase E is closed. Remaining owner decision: wiki_readings candidate list
+  (Phase C.5). Remaining lane flag: pragmatism manifest PRAG-M3-04 mis-attribution (B2 is
+  Lecture II; B3/Lecture VI added in the data block) — routed to deg-fix-content.
