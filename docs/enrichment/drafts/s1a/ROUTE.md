@@ -712,3 +712,16 @@ inside the verbatim Legge quote; the quote was reformatted as a blockquote
 (matching the format of published story pages such as ST008/ST030, whose
 quotes are excluded from the prose scan) and the re-run passed. story_check
 --context published: 0 errors (temp-copy method, live page untouched).
+
+2026-10-26 ~01:04Z storyteller-pplx-s1a-1026b: FOURTEENTH RUNG-4 UPGRADE PREPARED
+AND ROUTED — s1a-089-upgrade-ST010.md (ST010 legacy page; body quotes nothing
+verbatim; only source link is the ctext chapter citation, kept). Three verbatim
+segments from Zhuangzi, The Floods of Autumn (Book XVII / ch. 17), Legge 1891
+(METIS ETH Zurich PDF, opened 2026-10-26; passage lies beyond the truncation
+point of the earlier same-PDF full-text fetch, so the PDF was re-opened and
+the passage extracted; the one elision is between complete sentences and is
+marked). Mapping-honesty pattern: D020, D021, D022, B082 left unjustified —
+retain/remove decisions requested; D081 JUSTIFIED from the passage's own
+content (the staging of the well's and the sea's perspectives; the frog's
+final amazement). story_check --context published: 0 errors (temp-copy
+method, live page untouched).
