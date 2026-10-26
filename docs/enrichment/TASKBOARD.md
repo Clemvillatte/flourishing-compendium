@@ -1,3 +1,9 @@
+## Worker checkpoint (2026-10-26 02:26:30Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
+
+ADVISOR-ROUTED RE-OPEN OUTCOMES (from the merged dosr3 in_progress list; both recorded honestly, both remain open):
+- Aristotle NE III.8 (anger Q2 aids-vs-necessity): the Ross-translation primary is NOT OPENABLE from this environment — classics.mit.edu Book III ch. 8 page now 404s, Perseus and Scaife both robots-blocked (3 distinct routes, retry bound reached). The Chase-translation Gutenberg carrier (pg8438) does not use the Ross wording and the courage-chapter probes did not surface the passage this pass. The dossier's existing honest framing (Seneca's dilemma against the Aristotelian position AS SENeca REPORTS it; Aristotle's own text says passion aids without requiring) stands unchanged.
+- Gould 1999 primary (agency Q3): a full-text search found NO open carrier for Gould's Psychological Review 106(3):597-604 article — only citations and secondary summaries (the UNIZD self-regulation PDF and the Frontiers 2014 article both corroborate the critique's substance: cultural invariance of primary-control primacy untested; collectivist-culture counter-evidence). The concurrent session's repair note ("Gould's side reaches through the reply's account; no open Gould copy obtained") is CONFIRMED as still accurate. A next worker with a route to Psych Review backfiles could upgrade the pairing to a Gould-primary quote.
+
 ## Worker checkpoint (2026-10-26 02:25:47Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
 
 QC SAMPLES — right-concentration (dosr2 band) and the concurrent session's new repairs (goals Q3, cognition Q2):
