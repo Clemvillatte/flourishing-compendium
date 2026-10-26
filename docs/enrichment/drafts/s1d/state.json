@@ -2,7 +2,7 @@
  "lane": "s1d",
  "items": {
   "s1d-001": {
-   "status": "published",
+   "status": "integrated",
    "st-id": "ST365",
    "angle": "B129: Deshan and the old woman at the tea stall - the Diamond Sutra question the scholar could not answer; commentary vs direct experience",
    "history": [
@@ -29,11 +29,16 @@
      "t": "2026-10-21T12:20:25+00:00",
      "to": "published",
      "note": "supervisor registration ST365"
+    },
+    {
+     "t": "2026-10-26T00:48:54+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ]
   },
   "s1d-002": {
-   "status": "published",
+   "status": "integrated",
    "st-id": "ST379",
    "angle": "B133: Chiyono 'No water, no moon' - the self that carried the water breaks with the pail; complementary to ST356 which carries the return half",
    "history": [
@@ -55,6 +60,11 @@
      "t": "2026-10-21T12:23:52+00:00",
      "to": "published",
      "note": "supervisor registration ST379"
+    },
+    {
+     "t": "2026-10-26T00:48:54+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ]
   },
@@ -126,7 +136,7 @@
    "stid": "ST388"
   },
   "s1d-005": {
-   "status": "published",
+   "status": "integrated",
    "angle": "P057: the Wild Boy of Aveyron (Itard) - a self built out of human company",
    "history": [
     {
@@ -137,8 +147,19 @@
      "t": "2026-10-21T12:34:23+00:00",
      "to": "published",
      "note": "supervisor registration ST404; prose trimmed 491->480 words (parallel-source parentheticals shortened, non-substantive)"
+    },
+    {
+     "t": "2026-10-26T00:48:54+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST404"
+    },
+    {
+     "t": "2026-10-26T00:48:54+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST404"
   },
   "s1d-006": {
    "status": "integrated",
@@ -315,5 +336,5 @@
   }
  },
  "note": "unstarted candidates listed in HANDOFF.md only, per QC advice; one active item per lane",
- "updated": "2026-10-26T00:20:36+00:00"
+ "updated": "2026-10-26T00:48:54+00:00"
 }
