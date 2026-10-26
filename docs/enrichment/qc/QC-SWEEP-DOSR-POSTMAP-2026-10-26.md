@@ -1,7 +1,10 @@
 # QC sweep 2: post-map quote misses in the dosr dossiers (2026-10-26)
 
 Worker: worker-pplx-audit-1026a (audit baton). Checks run 2026-10-26
-between the measured 09:58Z and 10:11Z readings.
+between the measured 09:46:21Z reading (the previous sweep's push) and the
+09:53:42Z reading at which this receipt was pushed; an earlier draft of
+this receipt carried a reconstructed "09:58Z and 10:11Z" window — wrong,
+corrected here.
 
 Why: after the first sweep (wisdom/uncertainty/shame-and-guilt, receipt
 QC-SWEEP-WISDOM-UNCERTAINTY-SHAME-2026-10-26.md), a full re-run of
