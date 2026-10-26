@@ -472,3 +472,54 @@ No M1-V01–07 repair is outstanding in this checked version.
 This is not a new analysis, a full replication, a learner test,
 independent pedagogical clearance or a production stop-gate ruling.
 The module remains labelled DRAFT NOT CLEARED.
+
+## Re-running the bounded numerical check
+
+This is a verifier appendix, not another learner reading or an M1 task.
+Download the main Study 1 R script and full-sample SEM CSV from the
+[public project](https://osf.io/a9he8), check that their SHA-256 values
+match the two values recorded above, and pass their local filenames
+to the helper below. The model string is extracted from the
+[opened author script](https://osf.io/a9he8/files/t4gda); no new model
+equations are introduced by the helper.
+
+Save the code as `recheck.R` and run
+`Rscript recheck.R path/to/source.R path/to/data.csv` in an R environment
+with `lavaan` installed. The recorded rerun used R 4.5.2 and lavaan
+0.6-21. Its default ML standard errors are not the authors' 10,000
+bootstrap standard errors or intervals; the printed `z` column is
+paired with the unstandardised coefficient and its ML standard error,
+not obtained by dividing `std.all` by that error.
+
+```r
+# Verifier helper, not the authors' complete analysis.
+suppressPackageStartupMessages(library(lavaan))
+args <- commandArgs(trailingOnly = TRUE)
+stopifnot(length(args) == 2L)
+source_lines <- readLines(args[1], warn = FALSE)
+start <- which(grepl("^complex_model<-'", source_lines))[1]
+stopifnot(!is.na(start), start < length(source_lines))
+finish <- start + which(source_lines[(start + 1):length(source_lines)] == "'")[1]
+stopifnot(!is.na(finish), finish > start + 1)
+model <- paste(source_lines[(start + 1):(finish - 1)], collapse = "\n")
+data <- read.csv(args[2], stringsAsFactors = FALSE)
+fit <- sem(model, data = data, missing = "ML")
+stopifnot(lavInspect(fit, "converged"))
+cat("R", as.character(getRversion()), "lavaan",
+    as.character(packageVersion("lavaan")), "\n")
+cat("Rows", nrow(data), "complete cases", sum(complete.cases(data)), "\n")
+print(colSums(!is.na(data[c("success_Wave2", "success_Wave3", "success_Wave4")])))
+estimates <- parameterEstimates(fit, standardized = TRUE)
+print(estimates[estimates$label %in% c("c1", "c2", "c3"),
+                c("lhs", "rhs", "label", "est", "se", "z", "std.all")],
+      row.names = FALSE, digits = 10)
+```
+
+The helper was run against the recorded bytes. It returned 2,000 rows,
+577 complete cases, adherence counts 1,046 / 709 / 577, and the
+displayed standardised estimates 0.216 / 0.099 / 0.080. This repeats
+the limited check above; it does not reproduce bootstrap intervals,
+test a difference among the paths, validate the model or resolve
+attrition bias. A future reader must investigate changed file
+checksums or a failed assertion rather than quietly substituting
+another file or model.
