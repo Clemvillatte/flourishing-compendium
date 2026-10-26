@@ -639,8 +639,9 @@ verification behaviour as the M3 pass). All passages below confirmed on
 the raw text.
 
 - Posner, Rothbart and Ghassemzadeh 2019, Restoring Attention Networks
-  ([Yale J Biol Med](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/)): the three-networks passage verbatim
-  ("In our previous work we have identified three different brain
+  ([Yale J Biol Med](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/)): the three-networks
+  passage, quoted with elisions marked by ellipses (each quoted segment
+  verbatim on the raw page): ("In our previous work we have identified three different brain
   networks related to the functions of attention [1]. These are: (i)
   Obtaining and maintaining the alert state... (ii) Orienting to
   sensory stimuli... (iii) The executive attention network that
