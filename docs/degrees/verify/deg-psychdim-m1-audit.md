@@ -31,11 +31,11 @@ and research quality, but its p-value teaching includes this sentence:
 
 > “When researchers write that a particular finding is ‘significant at a
 > p < .05 level,’ they’re saying that if the same study were repeated 100
-> times, we should expect this result to occur—by chance—fewer than five
+> times, we should expect this result to occur […] fewer than five
 > times.”
 
-Quotation punctuation above normalises the page's outer quotation marks;
-the words are from the paragraph following the Type II error example in
+The bracketed ellipsis omits “by chance”; outer quotation marks are
+normalised. The words are from the paragraph following the Type II error example in
 [the opened module](https://nobaproject.com/modules/thinking-like-a-psychological-scientist).
 Its glossary also describes NHST as determining the chances that an
 “alternative hypothesis would produce a result” under the null
@@ -199,9 +199,9 @@ it is not a diagnosis, an exhaustive account of the mind or a promise
 that your circumstances will be easy to change.” This is proposed
 editorial language, not a research result.
 
-Maitland's complete title is *The extended evolutionary meta-model
+Maitland's complete title is The extended evolutionary meta-model
 and process-based therapy: Contemporary lenses for understanding
-functional analytic psychotherapy*, 2024, Journal of Contextual
+functional analytic psychotherapy, 2024, Journal of Contextual
 Behavioral Science 32, 100750; PMC hosts the author manuscript, made
 available in August 2025
 ([article header](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/)).

@@ -43,8 +43,8 @@ credentials are checked separately from article affiliations.
   verification used the full, unprompted
   [PMC article](https://pmc.ncbi.nlm.nih.gov/articles/PMC11303929/).
 - **Identity and access:** Stefan G. Hofmann and Steven C. Hayes,
-  *A Process-Based Approach to Transtheoretical Clinical Research and
-  Training*, Clinical Psychology in Europe 6, special issue, e11987,
+  A Process-Based Approach to Transtheoretical Clinical Research and
+  Training, Clinical Psychology in Europe 6, special issue, e11987,
   published 26 April 2024, DOI 10.32872/cpe.11987; anonymous full text,
   CC BY 4.0, as printed in the
   [article header](https://pmc.ncbi.nlm.nih.gov/articles/PMC11303929/).
@@ -61,8 +61,8 @@ credentials are checked separately from article affiliations.
   ([full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11303929/)).
 - **Exact proposed assignment:** the introductory paragraphs beginning
   “PBT has a characteristic target” through the paragraph immediately
-  before Figure 1, then only the first two paragraphs of *Functional
-  Analysis in an Idionomic Approach*, ending at the client/goal/situation
+  before Figure 1, then only the first two paragraphs of Functional
+  Analysis in an Idionomic Approach, ending at the client/goal/situation
   question. Omit the subsequent clinical monitoring, network-analysis
   methods and claims about universal mediator coverage. These excerpts
   explain how goals, circumstances and interacting processes guide
@@ -97,17 +97,17 @@ credentials are checked separately from article affiliations.
   inspected the research overview, transparency statement, methods and
   results of Studies 1–4, and General Discussion.
 - **Identity and access:** Kaitlin Woolley, Laura M. Giurge and Ayelet
-  Fishbach, *Adherence to Personal Resolutions Across Time, Culture, and
-  Goal Domains*, Psychological Science 36(8), 607–621; published online
+  Fishbach, Adherence to Personal Resolutions Across Time, Culture, and
+  Goal Domains, Psychological Science 36(8), 607–621; published online
   15 July 2025, DOI 10.1177/09567976251350960, CC BY-NC 4.0
   ([article header](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/)).
 - **Credentials:** the separate
   [Cornell faculty profile](https://business.cornell.edu/faculty-research/faculty/krw67/)
   identifies Woolley as David A. Thomas Professor of Management and
   lists her University of Chicago PhD; the same page lists this paper.
-- **Exact proposed assignment:** *Research Overview*, then *Study 4:
-  Motivating Engagement With a Health App*, including Method, Procedure
-  and Results, through the heading *General Discussion*. Read the final
+- **Exact proposed assignment:** Research Overview, then Study 4:
+  Motivating Engagement With a Health App, including Method, Procedure
+  and Results, through the heading General Discussion. Read the final
   discussion paragraph beginning “Several open questions remain”,
   which addresses generalisability beyond online participant pools
   ([assigned text](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/)).
@@ -158,7 +158,7 @@ credentials are checked separately from article affiliations.
   inspected the main text through Conclusion and the funding,
   disclosure and reference notes.
 - **Identity and access:** Kaitlyn M. Werner and Elliot T. Berkman,
-  *Motivational Dynamics of Self-Control*, Current Opinion in Psychology
+  Motivational Dynamics of Self-Control, Current Opinion in Psychology
   59, 101859, published 8 August 2024, DOI
   10.1016/j.copsyc.2024.101859. The page labels this an author
   manuscript, available in PMC from 1 October 2025; that availability
@@ -169,9 +169,9 @@ credentials are checked separately from article affiliations.
   identifies Berkman as Professor of Psychology and co-director of the
   Center for Translational Neuroscience, with self-regulation, goals
   and motivation among his research interests.
-- **Exact proposed assignment:** *Self-Control is a Flexible and
-  Dynamic Process*, followed by *Directions for Future Research* and
-  *Conclusion*. These sections explain identification, selection,
+- **Exact proposed assignment:** Self-Control is a Flexible and
+  Dynamic Process, followed by Directions for Future Research and
+  Conclusion. These sections explain identification, selection,
   implementation and monitoring, and spell out unanswered questions
   about matching strategies to contexts
   ([assigned sections](https://pmc.ncbi.nlm.nih.gov/articles/PMC11423838/)).
@@ -208,9 +208,9 @@ credentials are checked separately from article affiliations.
   [PMC full-text fetch](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/);
   checked Methods, Results, Discussion, Conclusions and disclosures.
 - **Identity and access:** Ben Singh, Andrew Murphy, Carol Maher and
-  Ashleigh E. Smith, *Time to Form a Habit: A Systematic Review and
+  Ashleigh E. Smith, Time to Form a Habit: A Systematic Review and
   Meta-Analysis of Health Behaviour Habit Formation and Its
-  Determinants*, Healthcare 12(23), 2488; 9 December 2024, DOI
+  Determinants, Healthcare 12(23), 2488; 9 December 2024, DOI
   10.3390/healthcare12232488, CC BY 4.0
   ([article](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)).
 - **Credentials:** the separately opened
@@ -262,8 +262,8 @@ credentials are checked separately from article affiliations.
   [PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/);
   inspected conceptual definitions, measurement appraisal, cultural
   perspectives, intervention cautions, limitations and disclosures.
-- **Identity and access:** Srikant Manchiraju, *Self-concept clarity:
-  a comprehensive and integrative review*, Frontiers in Psychology
+- **Identity and access:** Srikant Manchiraju, Self-concept clarity:
+  a comprehensive and integrative review, Frontiers in Psychology
   17, 1822881; 26 June 2026, DOI 10.3389/fpsyg.2026.1822881,
   CC BY
   ([article header](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/)).
@@ -274,11 +274,11 @@ credentials are checked separately from article affiliations.
   well-being and construct validation. It lists a PhD in Apparel,
   Events, and Hospitality Management; do not relabel him as a clinical
   psychologist or professor of psychology.
-- **Exact proposed assignment:** *Definition and core components*,
-  *Distinguishing self-concept clarity from related constructs*, *A
-  critical appraisal of self-concept clarity measurement*, *Cultural
-  perspectives on self-concept clarity* and *Interventions, change,
-  and optimal self-concept clarity*
+- **Exact proposed assignment:** Definition and core components,
+  Distinguishing self-concept clarity from related constructs, A
+  critical appraisal of self-concept clarity measurement, Cultural
+  perspectives on self-concept clarity and Interventions, change,
+  and optimal self-concept clarity
   ([selected sections](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/)).
 - **What is supported:** the review distinguishes the perceived
   clarity, consistency and stability of self-beliefs from their
@@ -320,7 +320,7 @@ credentials are checked separately from article affiliations.
   the second raised the extraction limit to inspect the complete
   main text, including the comparison and conclusion.
 - **Identity and access:** Lisa Feldman Barrett and 15 co-authors,
-  *The Theory of Constructed Emotion: More Than a Feeling*,
+  The Theory of Constructed Emotion: More Than a Feeling,
   Perspectives on Psychological Science 20(3), 392–420;
   13 May 2025, DOI 10.1177/17456916251319045; anonymous PMC
   text under CC BY-NC
@@ -332,9 +332,9 @@ credentials are checked separately from article affiliations.
   Science Laboratory. The profile contains older career references;
   no present office or presidency is inferred from them.
 - **Content checked:** the abstract frames this as a response to
-  van Heijst and colleagues; *The theory of constructed emotion in
-  brief* sets out the authors' hypotheses, and *Both Theories Rest
-  on Irreconcilable Assumptions* and Table 3 explicitly compare
+  van Heijst and colleagues; The theory of constructed emotion in
+  brief sets out the authors' hypotheses, and Both Theories Rest
+  on Irreconcilable Assumptions and Table 3 explicitly compare
   competing positions
   ([full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC12164598/)).
 - **Evidence type and limit:** theoretical argument, commentary
@@ -349,7 +349,7 @@ credentials are checked separately from article affiliations.
   everyday response. If the owner retains a short M2 epistemic
   sidebar, first identify a unique everyday-learning need, then
   select one precise paragraph or a few attributed table rows.
-  Default to excluding both the full *in brief* section and Table 3
+  Default to excluding both the full in brief section and Table 3
   from core. The table is the proponents' characterisation of both
   theories, not an independently balanced comparison. Do not turn
   this into a neuroscience or debate survey.
@@ -369,8 +369,8 @@ credentials are checked separately from article affiliations.
   [PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/);
   inspected the main text, including network interaction and future
   directions, rather than relying on the abstract.
-- **Identity and access:** Michael I. Posner, *The Evolution and
-  Future Development of Attention Networks*, Journal of
+- **Identity and access:** Michael I. Posner, The Evolution and
+  Future Development of Attention Networks, Journal of
   Intelligence 11(6), 98; 23 May 2023, DOI
   10.3390/jintelligence11060098, CC BY
   ([article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/)).
@@ -380,12 +380,12 @@ credentials are checked separately from article affiliations.
   on attention and self-regulation. No doctoral institution is
   claimed here because that opened profile does not establish it.
 - **Exact proposed assignment:** Abstract and only the first
-  paragraph of section 4 *Interaction of Networks*, ending
+  paragraph of section 4 Interaction of Networks, ending
   “performing largely different functions.” This paragraph
   describes interacting, semi-independent networks. Section 3.2
-  *Human Development* and the remainder of section 4 are optional
+  Human Development and the remainder of section 4 are optional
   technical background; substantial mouse-memory material occurs
-  before the *Molecular Level* subsection and is excluded from
+  before the Molecular Level subsection and is excluded from
   the assignment
   ([selected sections](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/)).
 - **Evidence type and boundary:** a review of cognitive,
@@ -416,8 +416,8 @@ credentials are checked separately from article affiliations.
   the complete unprompted
   [PMC text](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/),
   including its nine-item reference list.
-- **Identity and access:** Thomas Ehring, *Thinking too much:
-  rumination and psychopathology*, World Psychiatry 20(3),
+- **Identity and access:** Thomas Ehring, Thinking too much:
+  rumination and psychopathology, World Psychiatry 20(3),
   441–442; online 9 September 2021, October issue, DOI
   10.1002/wps.20910; anonymous full text
   ([article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/)).
@@ -486,9 +486,9 @@ paper.
   [published-version PDF hosted by the authors' organisation](https://selfdeterminationtheory.org/wp-content/uploads/2020/06/2020_RyanDeci_IntrinsicandExtrinsic.pdf).
   The latter supplies the numbered sections used below.
 - **Identity and access:** Richard M. Ryan and Edward L. Deci,
-  *Intrinsic and extrinsic motivation from a self-determination
+  Intrinsic and extrinsic motivation from a self-determination
   theory perspective: Definitions, theory, practices, and
-  future directions*, Contemporary Educational Psychology 61,
+  future directions, Contemporary Educational Psychology 61,
   101860; available online 8 April 2020, DOI
   10.1016/j.cedpsych.2020.101860. The complete published PDF
   is accessible without payment or an account from the
@@ -499,8 +499,8 @@ paper.
   clinical psychologist and co-developer of SDT.
 - **Exact proposed assignment:** Introduction's paragraphs
   defining autonomy, competence and relatedness; sections 2.1
-  *Intrinsic motivation*, 2.2 *Extrinsic motivation* and
-  2.2.1 *Multiple motives and relative autonomy*, including
+  Intrinsic motivation, 2.2 Extrinsic motivation and
+  2.2.1 Multiple motives and relative autonomy, including
   Figure 1. Stop before section 3's education-specific evidence
   ([published PDF](https://selfdeterminationtheory.org/wp-content/uploads/2020/06/2020_RyanDeci_IntrinsicandExtrinsic.pdf)).
 - **Central distinction:** the review distinguishes intrinsic
@@ -539,8 +539,8 @@ paper.
   inspected the search method, eligibility criteria, model
   classification, discussion and conclusion.
 - **Identity and access:** Consuelo Martínez-Priego, Belén
-  Poveda García-Noblejas and Pablo Roca, *Strategies and goals
-  in Emotion Regulation models: a systematic review*,
+  Poveda García-Noblejas and Pablo Roca, Strategies and goals
+  in Emotion Regulation models: a systematic review,
   Frontiers in Psychology 15, 1425465; 2 October 2024, DOI
   10.3389/fpsyg.2024.1425465, CC BY
   ([article](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/)).
@@ -603,9 +603,9 @@ paper.
   [ANU publication record](https://researchportalplus.anu.edu.au/en/publications/we-know-this-much-is-meta-analytically-true-a-meta-review-of-meta/).
 - **Identity and year repair:** Richard M. Ryan, Jasper J.
   Duineveld, Stefano I. Di Domenico, William S. Ryan, Ben A.
-  Steward and Emma L. Bradshaw, *We know this much is
+  Steward and Emma L. Bradshaw, We know this much is
   (meta-analytically) true: A meta-review of meta-analytic findings
-  evaluating self-determination theory*, Psychological Bulletin
+  evaluating self-determination theory, Psychological Bulletin
   148(11–12), 813–842, DOI 10.1037/bul0000385. The publisher,
   Crossref and ANU cite **2022**; the ACU repository labels
   its record 2023. Use the publisher's 2022 citation for the
@@ -630,8 +630,8 @@ paper.
   competing theory.
 - **Content checked:** Method's search, eligibility,
   extraction and transparency sections; Summary and
-  Conclusions, including *Heterogeneity in Effect Sizes*
-  and *Additional Limitations*. The authors identify 60
+  Conclusions, including Heterogeneity in Effect Sizes
+  and Additional Limitations. The authors identify 60
   eligible review articles, 58 published, and describe a
   narrative synthesis of their meta-analytic findings;
   the review was not preregistered
@@ -652,8 +652,8 @@ paper.
   ([study selection and tables discussion](https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta.pdf)).
 - **Finite assignment recommendation:** if the owner keeps
   this candidate, use the opening three paragraphs of
-  *Summary and Conclusions*, then *Heterogeneity in Effect
-  Sizes* and *Additional Limitations*. Do not assign the
+  Summary and Conclusions, then Heterogeneity in Effect
+  Sizes and Additional Limitations. Do not assign the
   full 30-page published review or all six mini-theory
   catalogues merely to add research weight
   ([selected material](https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta.pdf)).
@@ -681,8 +681,8 @@ paper.
   and
   [Vohs and colleagues](https://pmc.ncbi.nlm.nih.gov/articles/PMC12422598/).
   These contextual checks are not three new core assignments.
-- **Identity and access:** Junhua Dang, *An updated meta-analysis
-  of the ego depletion effect*, Psychological Research 82(4),
+- **Identity and access:** Junhua Dang, An updated meta-analysis
+  of the ego depletion effect, Psychological Research 82(4),
   645–651, DOI 10.1007/s00426-017-0862-x. The opened header
   gives online publication 8 April 2017 and issue date 2018;
   the independent
@@ -746,7 +746,7 @@ paper.
   already support a more direct task about flexible
   response and revisable practice. If the owner retains
   a short research-literacy contrast, assign only
-  Dang's *Does ego depletion exist?* subsection and
+  Dang's Does ego depletion exist? subsection and
   the Vohs abstract plus the three interpretation
   paragraphs beginning “How do these findings inform
   an understanding of ego depletion?” and ending
@@ -777,7 +777,7 @@ paper.
   including discussion questions, vocabulary, references and
   author biographies. This checks an existing M2 candidate.
 - **Identity and access:** Hyisung Hwang and David Matsumoto,
-  *Functions of Emotions*, Noba textbook series. Anonymous
+  Functions of Emotions, Noba textbook series. Anonymous
   English full text, CC BY-NC-SA 4.0. The page recommends
   a 2026 citation but supplies no first-publication date;
   that year alone does not establish a new 2026 research
@@ -799,8 +799,8 @@ paper.
   it reports no new trial testing a personal exercise
   ([module](https://nobaproject.com/modules/functions-of-emotions)).
 - **Exact proposed assignment:** only the two paragraphs
-  at the end of *Emotions Prepare the Body for Immediate
-  Action*, beginning “One common misunderstanding many
+  at the end of Emotions Prepare the Body for Immediate
+  Action, beginning “One common misunderstanding many
   people have” and ending “albeit an important one.”
   The passage distinguishes readiness for action from
   what a person actually does, with context, consequences
@@ -839,8 +839,8 @@ paper.
   independent institutional profile, and the public abstract
   of one cited study used only to check a claim's scope.
   This is the existing M3/M7 candidate, not a new topic.
-- **Identity and access:** Mark E. Bouton, *Conditioning and
-  Learning*, Noba textbook series. Anonymous English full
+- **Identity and access:** Mark E. Bouton, Conditioning and
+  Learning, Noba textbook series. Anonymous English full
   text, CC BY-NC-SA 4.0; 2026 is the page's suggested
   citation year, with no first-publication date established
   by that field
@@ -858,11 +858,11 @@ paper.
   conditioned response, unconditioned stimulus,
   unconditioned response, instrumental conditioning and
   discriminative stimulus; the first three paragraphs of
-  *Instrumental Responses Come Under Stimulus Control*,
+  Instrumental Responses Come Under Stimulus Control,
   ending with the artist example's “painting to occur”;
-  and *Cognition in Instrumental Learning*, stopping
-  before *Putting Classical and Instrumental Conditioning
-  Together*
+  and Cognition in Instrumental Learning, stopping
+  before Putting Classical and Instrumental Conditioning
+  Together
   ([specified content](https://nobaproject.com/modules/conditioning-and-learning)).
 - **What that selection supports:** distinguishing
   stimulus associations from action–consequence
