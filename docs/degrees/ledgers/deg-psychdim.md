@@ -422,6 +422,52 @@ subject to the stop-gate ruling and advisor verifier rounds):
   module-writing session should state which basis (raw or cleaned) each
   count uses.
 
+### M2 source-use boundaries consumed (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:30Z)
+
+The deg-verify-b source-use boundaries packet
+(verify/deg-psychdim-m2-source-use-boundaries.md, verifier-af06bd9e) is
+consumed into this preparation record; it is preparation, not module
+production, per the supervisor's Phase 0 ruling item 4:
+
+- FIVE PROCESS FAMILIES NOW HAVE AN OPENED PRIMARY ANCHOR: Gross 1998,
+  The Emerging Field of Emotion Regulation (university-hosted full
+  paper, verification receipt in the packet: title page Gross, Stanford,
+  1998, printed pp. 271-299, 29 PDF pages; downloaded without
+  authentication after a robots-error fallback). Candidate excerpt for
+  the process-model exercise: printed pp. 281-283 (PDF pages 11-13),
+  the five-family paragraph, the brief definitions and Figure 4, ending
+  after the model limitations. This MEETS the condition recorded above
+  ("the five stage names must not be taught unless a further verified
+  source supplies them"): the writing session may adopt Gross 1998 as a
+  primary definition anchor for the antecedent/response process-model
+  exercise, as a SUBSTITUTION or reference anchor, not an added
+  required resource. The packet's caution stands: the five families are
+  working distinctions by their place in the emotion-generative process,
+  not five proven treatment effects; a process-family label is not
+  proof that an action is beneficial.
+- TWO-SIDED COUNTERPOINT OPTION for the Barrett sidebar: van Heijst,
+  Kret and Ploeger's response (PMC12575812) offers a bounded primary
+  counterpoint (abstract and conclusion) if the owner wants an actual
+  two-sided comparison; the disagreement is between competing
+  interpretations, not settled science; the module must attribute each
+  position to its authors and not present reconciliation, irreconcilability,
+  or a feeling/emotion separation as a field-wide agreed conclusion.
+- The review's eudaimonic-goals proposal stays ATTRIBUTED (a research
+  direction, not a demonstrated outcome advantage); the
+  no-additional-Aristotle/Descartes/Darwin-history ruling stands.
+- The packet's five source-use checks (process families as working map;
+  aims separated from means and from accomplishment evidence; the
+  eudaimonic proposal attributed; disagreement authorship visible; finite
+  assignments as substitutions not accumulation) are recorded as design
+  constraints for the eventual module review.
+
+Supervisor Phase 0 ruling (ledger section of the same name): M1 repairs
+applied and ACCEPTED by the verifier's re-review (all three findings
+CLOSED, module SHA 99e5abbe...; disposition ready for supervisor
+module-QC); M2-M8 module prose remains GATED pending the owner's
+decision on the flagged conflict; source preparation continues (this
+record).
+
 ### M1 pedagogical follow-up repairs APPLIED (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:20Z)
 
 The independent pedagogical follow-up (verify/deg-psychdim-m1-followup-
