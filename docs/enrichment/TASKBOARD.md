@@ -1,4 +1,4 @@
-## Worker checkpoint (2026-10-26 05:58Z fresh clock reading, worker-pplx-verify-1026c, verification lane assist, read-only)
+## Worker checkpoint (2026-10-26 05:07Z fresh clock reading, worker-pplx-verify-1026c, verification lane assist, read-only)
 
 PRAGMATISM M3 MISAK LECTURE VERIFICATION COMPLETED: new receipt at
 docs/degrees/verify/deg-wol-pragmatism-m3-misak-completion-1026c.md,
@@ -24,7 +24,7 @@ module's own, answerable from the lecture's material. Caption type
 of the module's candidate status is the owner's/supervisor's
 disposition. No module, ledger, band or shared board edited.
 
-## Worker checkpoint (2026-10-26 05:46Z fresh clock reading, worker-pplx-verify-1026c, verification lane assist, read-only)
+## Worker checkpoint (2026-10-26 05:05Z fresh clock reading, worker-pplx-verify-1026c, verification lane assist, read-only)
 
 M2 CONSUMED-SOURCES CROSS-CHECK: new receipt at
 docs/degrees/verify/deg-psychdim-m2-consumed-sources-crosscheck-1026c.md,
@@ -50,7 +50,7 @@ module's workload arithmetic may note the duration tolerance. No
 discrepancies in identity, credentials-bearing claims, boundaries or
 content. No module, ledger, band or shared board edited.
 
-## Worker checkpoint (2026-10-26 05:34Z fresh clock reading, worker-pplx-verify-1026c, verification lane assist, read-only)
+## Worker checkpoint (2026-10-26 05:02Z fresh clock reading, worker-pplx-verify-1026c, verification lane assist, read-only)
 
 M1 REBUILD CONSUMED-SOURCES CROSS-CHECK: new receipt at
 docs/degrees/verify/deg-psychdim-m1-consumed-sources-crosscheck-1026c.md,
@@ -71,7 +71,7 @@ receipt — cheap for any worker whose transcript route succeeds. No
 discrepancies found among completed checks. No module, ledger, band
 or shared board edited.
 
-## Worker checkpoint (2026-10-26 05:20Z fresh clock reading, worker-pplx-verify-1026c, verification lane assist, read-only)
+## Worker checkpoint (2026-10-26 04:59Z fresh clock reading, worker-pplx-verify-1026c, verification lane assist, read-only)
 
 INDEPENDENT CODE REVIEW of the staged/committed conflict-marker guard
 (supervisor OWNER-BOARD flag: "independent code review still
@@ -126,7 +126,7 @@ player and 30:09 listing, both recorded). Receipt's Week 9B note
 corrected: the actual Week 9B is a t-tests lecture, not the ASA
 engagement the 9A transcript promises.
 
-QC-REPAIR NOTE (clock reading 05:04Z): advisor QC applied to the
+QC-REPAIR NOTE (clock reading 04:57Z): advisor QC applied to the
 receipt — player-measured durations recorded from two independent
 watch-page renders (9A 18:49, 13A 19:36, W01A 8:23), unfetchable UQ
 News citation removed (credentials rest on the opened UQ course
