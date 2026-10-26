@@ -2444,3 +2444,42 @@ repairs are preserved. The retrieval exercise now explicitly says its
 two attempts confound additional study and delay; it no longer claims to
 isolate a spacing effect. Public review narration was moved out of the
 learner path. Advisor re-review commissioned; supervisor module-QC owed.
+
+### M1 framework substitution and advisory repairs, 2026-10-26 04:51Z
+
+The preceding provisional two-reading fallback and 259-minute total are
+superseded. Consumed the independent EEMM receipt
+`verify/deg-psychdim-video-first-49bf153e.md`. Parent opened the same
+recording, obtained and read the complete continuous transcript for the
+assigned 01:03:17–01:09:12 window, and reopened Hayes's university
+biography. The free public excerpt supplies variation, selection,
+retention, context, all six dimensions and the two further levels.
+Its paid-package advertisement does not create a paid prerequisite;
+no package, purchase, membership or clinical training is assigned.
+([Hayes recording](https://www.youtube.com/watch?v=sDGpXQLHLfY);
+[university biography](https://www.unr.edu/psychology/steven-hayes).)
+
+- **Substitution:** required Hayes **5:55** replaces the 680- and
+  240-word framework excerpts; both articles become optional references.
+  The module preserves definitions, the Jordan demonstration and all
+  prior pedagogy repairs. It explicitly labels the model a proposal and
+  preserves Hayes's uncertainty about subdividing the extra levels.
+  ([Assigned framework segment](https://www.youtube.com/watch?v=sDGpXQLHLfY&t=3797).)
+- **New arithmetic:** required reading 3,207/180 + 300/130 = 20.13
+  minutes raw, times three = 60.37, rounded **60**. Required video
+  355 + 1,304 = 1,659 seconds = **27:39**; three pauses and
+  prerequisite discussion receive **16 minutes**, total 43.65 rounded
+  **44**. Core total 60 + 44 + 145 = **249 minutes**.
+  Optional remediation and articles remain outside that total.
+- **Advisor QC:** independent read-only review of the prior 259-minute
+  working revision found one bounded blocker: count provenance still
+  rendered publicly. That prose is now removed; precise provenance stays
+  here. The advisor's two minor suggestions were also applied: name
+  the second recall attempt explicitly and give direct feedback for the
+  cherry-juice pause. Alignment, statistical nuance, arithmetic and the
+  three earlier pedagogical repairs passed that advisory round. This
+  does not certify the subsequent Hayes substitution or clear a gate.
+- **Routing:** the complete changed module requires supervisor review
+  at its pushed hash, including the framework substitution, reading
+  exception disposition, workload and M2 entry match. Source receipts
+  remain explicit about transcript-based verification, not playback.

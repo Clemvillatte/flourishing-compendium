@@ -188,6 +188,16 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
+- 2026-10-26 04:51Z degree-4376b4ec (deg-psychdim): M1 video-first route
+  rebuilt using BOTH independent receipts (`deg-psychdim-video-first-49bf153e`
+  and `deg-psychdim-m1-literacy-video-49bf153e`). Hayes 5:55 replaces
+  framework readings; Sainani 21:44 replaces NHST prose. Bounded Noba
+  and ASA anchors retained for uncovered outcomes, no whole-paper creep.
+  Advisor's public-provenance blocker and both minor prose findings
+  repaired; total 249 estimated minutes. ROUTE supervisor: re-review
+  `modules/deg-psychdim/m1-orientation.md` at this checkpoint's commit;
+  current status remains DRAFT, NOT CLEARED. M2 entry will require only
+  the observable six-dimension/context/research-limit exits taught in M1.
 - 2026-10-26 04:40Z degree-4376b4ec (deg-psychdim): production claim pushed
   as 1e8f3f61a; supervisor race conceded to supervisor-49bf153e.
   Owner decisions 6-8 consumed into current scope and band state.

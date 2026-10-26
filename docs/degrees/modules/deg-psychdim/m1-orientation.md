@@ -50,45 +50,46 @@ the end shows where.
 
 ## Instruction (the sequence a learner follows)
 
-### Step 1: the framework reading (Outcomes 1 to 3)
+### Step 1: the framework video (Outcomes 1 to 3)
 
-Two short readings carry the whole framework. Read them in this order
-first. The working definitions and the demonstration case come in Step 2,
-and your first closed-book recall attempt (Retrieval activity 1) comes
-after that teaching, not before it.
+Watch Steven Hayes's
+[An Introduction to Process-Based Therapy](https://www.youtube.com/watch?v=sDGpXQLHLfY&t=3797),
+**01:03:17–01:09:12** (5:55), then use the working definitions and
+demonstration in Step 2 before your first closed-book recall attempt.
+Hayes is a psychology professor emeritus at the University of Nevada,
+Reno, and a developer of the framework
+([university biography](https://www.unr.edu/psychology/steven-hayes)).
+Only this public clip is assigned; no conference package, purchase or
+clinical training is needed.
 
-1. [Hofmann and Hayes 2024, "A Process-Based Approach to Transtheoretical
-   Clinical Research and Training"](https://pmc.ncbi.nlm.nih.gov/articles/PMC11303929/),
-   the opening article text only: from "Clinical psychology and
-   psychiatry are too syndrome focused" through the paragraph that ends
-   "...the extended revolutionary meta-model can accommodate a variety of
-   useful dimensions and levels of processes of change" (about 680 words).
-   Free on PMC. This excerpt is the degree's founding statement of the
-   process-based approach: it defines psychopathology as failed adaptation
-   to a context, and it introduces the extended evolutionary meta-model
-   (EEMM), the map this whole degree walks. As you read, mark the sentence
-   that names the six psychological dimensions; you will restate it from
-   memory in the retrieval activity.
-2. [Maitland 2024, "The extended evolutionary meta-model and process-based
-   therapy"](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/), section
-   1.4 only, "Extended evolutionary meta-model (EEMM) and FAP" (about 240
-   words). Free on PMC. This section states the frame in its most compact
-   form: behaviour develops and is maintained through variation, selection
-   and retention, and whether a behaviour is adaptive or maladaptive
-   depends on the individual's context. The rest of the paper is about a
-   specific therapy; you can skip it for now.
+The interview is addressed to clinicians. Listen for an organising
+proposal, not a diagnostic method or proof that the map will improve
+everyone's life. Hayes proposes six psychological dimensions and
+acknowledges that evidence for subdividing the additional levels is
+still limited. The explanation below brings the terms into an
+ordinary-life case, not a treatment plan
+([assigned interview segment](https://www.youtube.com/watch?v=sDGpXQLHLfY&t=3797)).
 
-A note on how to read these. They are written for clinical researchers, so
-some sentences carry more jargon than their ideas need. Three terms matter
-for you. A process is a changeable psychological event, something that can
-be strengthened, weakened or redirected. An adaptation is a strategy that
-meets a goal in a context. A dimension is one family of processes, like
-affect or attention. With those three words in hand, the readings are
-readable.
+Three terms will help. A process is a changeable psychological event,
+something that can be strengthened, weakened or redirected. An adaptation
+is a strategy that meets a goal in a context. A dimension is one family
+of processes, like affect or attention
+([Hofmann and Hayes's framework overview](https://pmc.ncbi.nlm.nih.gov/articles/PMC11303929/)).
+
+Pause at the end and name one dimension, one column and one additional
+level without looking. A valid example is attention, context and the
+sociocultural level; those are three different sorts of description,
+not three interchangeable boxes
+([Hayes's dimensions and levels](https://www.youtube.com/watch?v=sDGpXQLHLfY&t=4076)).
+
+Optional text references, not additional compulsory readings:
+[Hofmann and Hayes's opening overview](https://pmc.ncbi.nlm.nih.gov/articles/PMC11303929/)
+and [Maitland, section 1.4 only](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/).
+Their wider clinical material is outside this module.
 
 ### Step 2: what the six dimensions are (Outcome 1)
 
-The two papers name the dimensions; here is what the names mean as
+The clip names the dimensions; here is what the names mean as
 families of processes, so you can find each one in your own life. The
 degree's later modules define each dimension in full, with its research;
 these working senses are enough for orientation.
@@ -201,7 +202,10 @@ clips ([Sainani, inference and intervals](https://www.youtube.com/watch?v=LKiX54
 
 Pause after the first clip. In the hypothetical cherry-juice example,
 say what the estimate describes and why an interval containing both
-benefit and harm calls for caution. After the second, rewrite this
+benefit and harm calls for caution. Feedback: the estimate describes
+the sample's mean difference; an interval spanning benefit and harm
+leaves both directions compatible with the data and model, rather than
+establishing no effect. After the second, rewrite this
 claim: "p = .05 means a five percent chance the finding is false."
 Feedback: a p-value concerns the observed statistical summary and
 more extreme summaries under a specified model, not the probability
@@ -375,7 +379,7 @@ and leave the change-over-time question open: whether the association
   3, with the Step 3 reading as the intervening work. The second attempt
   is the draft of graded deliverable a; self-assess it against rubric
   criterion 1 when you finalise the deliverable.
-- Retrieval activity 2 (Outcome 2, after the second pass): take one
+- Retrieval activity 2 (Outcome 2, after your second recall attempt): take one
   behaviour of your own that you have tried to change and name its
   variation, its selection, its retention, and the part of your context
   that does the selecting. Two to four sentences. Check yourself against
@@ -508,16 +512,15 @@ learner can self-check.
 
 ## Workload arithmetic
 
-- Required readings: Hofmann and Hayes excerpt 680 words and Maitland
-  section 1.4 240 words, inherited excerpt counts; selected Noba spans
-  3,207 word-like tokens, freshly measured on the cleaned page; ASA
-  definition and two principles about 300 words, a rounded allowance.
-  At 130 words per minute for research/ASA and 180 for introductory Noba,
-  raw reading is about 27 minutes. Three times raw for annotation and
-  rereading gives **about 82 minutes** of reading study.
-- Required video: 18:25 + 3:19 = **21:44**. Add **10 minutes** for the
-  two pauses, prerequisite definitions and checking your explanations;
-  about **32 minutes** total. The optional 5:52 remedial clip, plus
+- Required readings: selected Noba spans about 3,200 words; ASA
+  definition and two principles about 300 words. At 180 words per
+  minute for introductory Noba and 130 for ASA, raw reading is about
+  20 minutes. Three times raw for annotation and rereading gives
+  **about 60 minutes** of reading study.
+- Required video: Hayes 5:55 + Sainani 18:25 + 3:19 = **27:39**.
+  Add **16 minutes** for three pauses, prerequisite definitions and
+  checking explanations; about **44 minutes** total. The optional
+  5:52 remedial clip, plus
   about 4 minutes for a pause, is not in the core total.
 - The Jordan case and the six-dimension teaching on this page: about 15
   minutes of careful reading (estimate).
@@ -532,8 +535,8 @@ learner can self-check.
   definitions deliverable about 25 minutes, appraisal about 20 minutes,
   scope statement about 15 minutes.
 
-Total: about 4 hours 20 minutes (259 rounded minutes of labelled
-components: 82 reading study, 32 video study, 15 case
+Total: about 4 hours 10 minutes (249 rounded minutes of labelled
+components: 60 reading study, 44 video study, 15 case
 study, 10 reflection teaching and completion example, 30 worked example
 and faded practice, 30 retrieval and levels, 60 graded with the
 per-deliverable allowances above). Optional further reading (the rest of Maitland
