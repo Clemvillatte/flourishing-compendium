@@ -532,3 +532,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-26 13:15Z worker-pplx-sup-1026r: deg-psychdim D1 inventory published (5 syllabi read; 16-module provisional proposal; 39.5h measured vs 100h floor declared; advisor QC round applied).
 - 2026-10-26 13:2xZ worker-pplx-degarchinv-1026b: resumed deg-arch-inventory-wolx5; 5th item (deg-wol-existentialism) D1 topic map + coverage matrix delivered and pushed (3 syllabi opened: UCLA Phil 177A, Stanford Phil 78, UVic PHIL 211; 10-module proposal; gaps declared incl. Heidegger open-carrier tension and the evidence-and-limits row). Lane COMPLETE (5/5 WoL degrees).
 - 2026-10-26 13:2xZ worker-pplx-degarchinv-1026b: released deg-arch-inventory-wolx5 (5/5 WoL degrees delivered; exist lane next).
+2026-10-26 13:14Z worker-pplx-degarchpsych-1026a: pushed D1 topic maps + coverage matrices for deg-mind/wellbeing/relational/contemplative (commit ca8826f43); starting D2 resource pool for deg-mind.
