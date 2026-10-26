@@ -21615,20 +21615,25 @@ function acadPrereqLabel(p, deg){
   return idx ? `Module ${acadRoman(idx)} \u2014 ${mod.title}` : mod.title;
 }
 function acadWatched(modId, ref){ return A.completed.has(acadAssignKey(modId, ref)); }
+function acadIsVideoSrc(src){
+  const u = String((src && src.youtube_id_or_url) || '').trim();
+  return /^[A-Za-z0-9_-]{11}$/.test(u) || /youtu\.?be/.test(u);
+}
+function acadDoneWords(src){ return acadIsVideoSrc(src) ? {on:'\u2713 Watched', off:'Mark as watched'} : {on:'\u2713 Read', off:'Mark as read'}; }
 function degreeProgress(deg){
-  let done=0, total=0;
+  let done=0, total=0, vids=0;
   (deg.modules||[]).forEach(mid=>{
     const m = moduleById(mid); if(!m) return;
     (m.requiredMedia||[]).concat(m.optionalMedia||[]).forEach(r=>{
-      if(r && r.source_id){ total++; if(A.completed.has(acadAssignKey(mid, r))) done++; }
+      if(r && r.source_id){ total++; if(acadIsVideoSrc(sourceById(r.source_id))) vids++; if(A.completed.has(acadAssignKey(mid, r))) done++; }
     });
   });
-  return {done,total};
+  return {done,total,word: vids===total ? 'watched' : (vids===0 ? 'read' : 'done')};
 }
-function acadProgressBar(done,total){
+function acadProgressBar(done,total,word){
   const pb = el('span','acad-pbar');
   const pct = total ? Math.round(done/total*100) : 0;
-  pb.appendChild(el('span','acad-pbar-label',`${done}/${total} watched`));
+  pb.appendChild(el('span','acad-pbar-label',`${done}/${total} ${word||'watched'}`));
   const track = el('span','acad-pbar-track');
   const fill = el('span','acad-pbar-fill'); fill.style.width = pct+'%';
   track.appendChild(fill); pb.appendChild(track);
@@ -21722,7 +21727,7 @@ function acadHallCard(deg, i, allowBridge){
   else if(nMods){ foot.appendChild(el('span','acad-hall-meta',`${nMods} module${nMods!==1?'s':''}`)); }
   else { foot.appendChild(el('span','acad-hall-meta','modules in preparation')); }
   const prog = degreeProgress(deg);
-  if(prog.total){ foot.appendChild(acadProgressBar(prog.done,prog.total)); }
+  if(prog.total){ foot.appendChild(acadProgressBar(prog.done,prog.total,prog.word)); }
   body.appendChild(foot);
   card.appendChild(body);
   if(!isBridge){
@@ -21839,7 +21844,7 @@ function renderDegreeDetail(degId){
   meta.appendChild(el('span','acad-chip', nDegMods ? `${nDegMods} modules` : 'in development'));
   meta.appendChild(el('span','acad-chip academic','self-directed'));
   const prog = degreeProgress(deg);
-  if(prog.total){ meta.appendChild(el('span','acad-chip',`${prog.done}/${prog.total} watched`)); }
+  if(prog.total){ meta.appendChild(el('span','acad-chip',`${prog.done}/${prog.total} ${prog.word}`)); }
   if(deg.status==='draft'){ meta.appendChild(el('span','acad-chip draft','draft — some modules lack Mastery-level sources')); }
   bandInner.appendChild(meta);
   if(deg.practiceGallery){
@@ -22158,7 +22163,7 @@ function renderMediaRow(src,level,ref,modId){
   row.appendChild(info);
   const dur = ref ? acadRefDuration(src, ref) : (src.duration||'');
   if(dur){ row.appendChild(el('span','acad-media-duration',dur)); }
-  if (isWatched) row.appendChild(el('span','acad-watched-badge','✓ Watched'));
+  if (isWatched) row.appendChild(el('span','acad-watched-badge',acadDoneWords(src).on));
   const open = ()=>openSource(src, ref, modId);
   row.onclick = (e)=>{ e.stopPropagation(); open(); };
   row.onkeydown = (e)=>{
@@ -22250,12 +22255,12 @@ function openEmbeddedPlayer(src, url, ref, modId){
   if(segBar) box.appendChild(segBar);
   const foot = el('div','acad-player-foot');
   // 'Open in new tab' removed — redundant with the YouTube fallback's 'Play on YouTube' button
-  const doneBtn = el('button','acad-btn primary', A.completed.has(playKey)?'✓ Watched':'Mark as watched');
+  const doneBtn = el('button','acad-btn primary', A.completed.has(playKey)?acadDoneWords(src).on:acadDoneWords(src).off);
   doneBtn.onclick = ()=>{
     if(A.completed.has(playKey)) A.completed.delete(playKey);
     else A.completed.add(playKey);
     const on = A.completed.has(playKey);
-    doneBtn.textContent = on?'✓ Watched':'Mark as watched';
+    doneBtn.textContent = on?acadDoneWords(src).on:acadDoneWords(src).off;
     // reflect the change on the media rows in the list behind the player
     document.querySelectorAll('.acad-media-row').forEach(function(r){
       if((r.dataset.assignKey || r.dataset.srcId) !== playKey) return;
@@ -22264,7 +22269,7 @@ function openEmbeddedPlayer(src, url, ref, modId){
       if (on && !b) {
         b = document.createElement('span');
         b.className = 'acad-watched-badge';
-        b.textContent = '\u2713 Watched';
+        b.textContent = acadDoneWords(src).on;
         r.appendChild(b);
       } else if (!on && b) {
         b.remove();
