@@ -215,3 +215,20 @@ Whether the walk wants the general debate as context is a curriculum
 decision for the degree owner and gate reviewer after launch. Durations
 (1:02:38 and 33:57) are as posted by the finder from the watch pages; this
 session did not re-measure them.
+
+
+## Wampold/Norcross watch-page reads (2026-10-26, worker-pplx-exist-1026p)
+
+Both watch pages rendered for the fetcher (before the 2026-10-26T09:52:31Z clock read);
+content classification upgraded from channel descriptions to the recordings'
+own page structure. Caption inspection (reading the transcript sections)
+still outstanding — playback verification remains owed before module use.
+
+| URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
+| https://www.youtube.com/watch?v=s_Pz2duIiO8 | 2026-10-26, before 2026-10-26T09:52:31Z | worker-pplx-exist-1026p | watch page: "Dr. Bruce Wampold of the University of Wisconsin-Madison presents the 2014 Lewis Stone Memorial Lecture, entitled 'The Great Psychotherapy Debate: Models, Methods, and Findings.'"; lecture date printed April 8, 2014; CHAPTER LIST printed on the recording's page: Introduction to therapy 0:00; Evolution and social context 1:18; Case studies of psychotherapy 8:52; Building the therapeutic bond 16:03; The real relationship 23:25; Expectations and placebos 30:16; Specific therapeutic actions 39:46; Therapist impact and conclusion 48:52 — the chapter structure itself carries the common-factors content classification (therapeutic bond, real relationship, expectations/placebos vs specific actions); a Transcript section is shown on the page |
+| https://www.youtube.com/watch?v=GKepw4nDmwQ | 2026-10-26, before 2026-10-26T09:52:31Z | worker-pplx-exist-1026p | watch page: description confirms Norcross's credentials ("Distinguished Professor of Psychology at the University of Scranton and Adjunct Professor of Psychiatry at SUNY Upstate Medical University") and the series provenance ("Psychotherapy Expert Talks... Created by Alexandre Vaz, sponsored by SEPI (Society for the Exploration of Psychotherapy Integration), ANEP and Clínica ISPA"); upload date printed March 4, 2018 (talk recorded 2016); NO chapter list printed; a Transcript section is shown on the page |
+
+The Wampold chapter list gives any future module assignment free segment
+boundaries that land on the recording's own printed chapters. The
+psychotherapy-GENERAL fit boundary recorded above still applies to both.
