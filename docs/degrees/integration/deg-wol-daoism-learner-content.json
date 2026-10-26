@@ -1,0 +1,60 @@
+{
+ "degree_id": "deg-wol-daoism",
+ "built": "2026-10-26",
+ "built_by": "worker-pplx-degfixcontent-1026a (baton deg-fix-content)",
+ "provenance": "Per docs/degrees/AUDIT-2026-10-26.md Phases B and C. Titles were already clean in the data block; this file supplies learner descriptions (from each module doc's own intro), the degree openingNote, MOD_PROMPTS and the m5 capstone note. Nothing is invented here. Consumed by the deg-fix-schema/deg-fix-text lanes; the assignment contract stays in deg-wol-daoism-manifest.json.",
+ "openingNote": "A Walk of Life devoted to Daoism. One question runs through five modules: how does the Daoist tradition read its core texts and practise its arts of living, and how can a person in an ordinary, pressured life use those teachings to suffer less, choose more wisely and flourish even when uncertain or overwhelmed? The walk runs from an orientation through the Daodejing, the Zhuangzi and the Neiye to a personal synthesis you defend against one serious objection.",
+ "modules": {
+  "mod-dao-1": {
+   "title": "Entering the Daoist Walk of Life",
+   "description": "The orientation names the tradition you are entering, gives you the vocabulary the whole walk uses, walks you through your first guided reading of one Daodejing chapter, and tells you what this walk covers and excludes. No prerequisites.",
+   "prerequisite_display": [],
+   "mod_prompt": "As you study each source, ask: how could this teaching serve an ordinary, pressured life, and what does it ask me to test rather than believe?",
+   "source_basis": "m1-orientation.md: intro paragraph"
+  },
+  "mod-dao-2": {
+   "title": "The Daodejing as a Practice Manual for Living",
+   "description": "You take the Daodejing itself and treat it as the walk's scope calls it: a practice manual for living, not only a piece of literature. By the end you can read a chapter with guidance, name what the chapter does, and say how it can be applied to a life situation.",
+   "prerequisite_display": [
+    "Module I — Entering the Daoist Walk of Life"
+   ],
+   "mod_prompt": "For each chapter, ask: what does this chapter do, and how could it apply to a situation in my life?",
+   "source_basis": "m2-daodejing-as-practice-manual.md: intro paragraph"
+  },
+  "mod-dao-3": {
+   "title": "The Zhuangzi: skill, wu wei and losing the self",
+   "description": "You read three assigned Zhuangzi passages, the Cook Ding story, the Hunchback and Cicadas, and the Butterfly Dream, with a worked demonstration before your own passage reading. The readings are harder than the Daodejing's; the guided structure stays.",
+   "prerequisite_display": [
+    "Module I — Entering the Daoist Walk of Life",
+    "Module II — The Daodejing as a Practice Manual for Living"
+   ],
+   "mod_prompt": "For each passage, ask: what is the skill here, and what does wu wei look like in it?",
+   "source_basis": "m3-zhuangzi-skill-wuwei-self.md: header block and assigned-passages section"
+  },
+  "mod-dao-4": {
+   "title": "Daoist yangsheng and the Neiye, practising the arts of living",
+   "description": "The lecture and primary text are new, and you work with less scaffolding: one worked demonstration, then your own passage reading from the Neiye, your own practice design and your own teach-back. Yangsheng, the arts of living, is the theme.",
+   "prerequisite_display": [
+    "Module I — Entering the Daoist Walk of Life",
+    "Module II — The Daodejing as a Practice Manual for Living",
+    "Module III — The Zhuangzi: skill, wu wei and losing the self"
+   ],
+   "mod_prompt": "For each source, ask: what is the practice, its reason, its limit and its evidence?",
+   "source_basis": "m4-yangsheng-neiye.md: header block (L3, less scaffolding, practice design)"
+  },
+  "mod-dao-5": {
+   "title": "Capstone, a personal synthesis of the walk, against one serious objection",
+   "description": "You design, execute and self-assess an integrative piece of work: a written synthesis of this walk that defends a position you actually hold against one serious objection. The four capstone readings are Daodejing chapters 20, 44, 50 and 67, paired with re-reads of passages you already hold from Modules II through IV.",
+   "prerequisite_display": [
+    "Modules I through IV"
+   ],
+   "mod_prompt": "For each reading, ask: what position do I actually hold, and what is the strongest objection to it?",
+   "drawsOnPriorModules": "The capstone pairs four new Daodejing chapters with re-reads of the passages you already hold from Modules II through IV; no new video is assigned, and the primary text carries the objection material.",
+   "source_basis": "m5-capstone-synthesis.md: header block and capstone-readings section"
+  }
+ },
+ "repair_notes": {
+  "triple_listing": "DAO-M1-03 (Ziporyn lecture) is assigned as segmented reuses across m1-m3 with different windows - all windows are in deg-wol-daoism-manifest.json; the schema lane's assignment object dissolves the full-length triple listing",
+  "required_optional_duplication": "mod-dao-1 and mod-dao-4 list sources as required and optional; the manifest carries the roles; schema lane applies them"
+ }
+}
