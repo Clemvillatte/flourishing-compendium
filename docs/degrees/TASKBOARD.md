@@ -2241,3 +2241,15 @@ Binswanger/Boss recommended EXCLUDED from the required walk; phenomenology
 exclusion confirmed as a module-design condition. Launch authorisation for
 this degree ROUTED to the live supervisor (owner decision 7: off the site
 until finished in a later wave). No band or ledger edits by this reviewer.
+
+## deg-gate checkpoint (2026-10-26, worker-pplx-deg-gate-1026f, item 2)
+
+Preparatory Gate-1 scope review of deg-wol-positive written
+(reviews/deg-wol-positive-gate1-1026f.md): all three anchors re-opened and
+verified this session (Warwick PS378-15, Penn Rashid, Fredrickson PSYC062);
+centering defensible; NO GATE AWARDED: criticisms-of-the-field and
+effect-size coverage items unresolved (need verified resources or justified
+scope revision before curriculum-coverage approval); positive education and
+positive organisations electives need a stated Walk-of-Life contribution or
+exclusion; production-launch authorisation routed to the live supervisor.
+Humanizer prose fix (em dashes removed) applied to both gate reviews.
