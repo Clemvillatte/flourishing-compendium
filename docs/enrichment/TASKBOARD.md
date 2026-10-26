@@ -10,6 +10,14 @@ has-it-or-not readings) matches the source's actual wording. No defects;
 no repairs needed.
 
 
+## VERIFICATION CHECKPOINT (2026-10-26 00:40Z, sup-1026b — agency dossier quote sample)
+
+2/2 verbatim against freshly opened carriers: Epictetus Enchiridion 1
+(Carter, Internet Classics — the control dichotomy exact) and Bandura
+1977 (Psychological Review PDF — the efficacy-expectations sentence
+exact). Session quote-fidelity total 18/18 across 8 dossiers + 4 story
+pages, all carriers open-access.
+
 ## VERIFICATION CHECKPOINT (2026-10-26 00:38Z, sup-1026b — anger dossier quote sample)
 
 2/2 verbatim against freshly opened carriers: Seneca De Ira II.III
