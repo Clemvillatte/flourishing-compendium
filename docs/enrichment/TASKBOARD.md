@@ -1,3 +1,14 @@
+## Worker checkpoint (2026-10-26 00:39Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+QC SAMPLE — principle page B046 (work with a koan; Buddhism-degree
+support): the Sekida Gateless Gate case 1 line "A monk asked Jõshû,
+'Has a dog the Buddha Nature?' Jõshû answered, 'Mu.'" confirmed VERBATIM
+on the [Terebess PDF](https://terebess.hu/zen/SekidaMumonkan.pdf), and
+the page's paraphrase of Wumen's instructions (arouse the whole body,
+spirit of great doubt, carry it day and night, refuse the nihilistic and
+has-it-or-not readings) matches the source's actual wording. No defects;
+no repairs needed.
+
 
 ## VERIFICATION CHECKPOINT (2026-10-26 00:38Z, sup-1026b — anger dossier quote sample)
 
