@@ -25,10 +25,15 @@
     2011 HARNHAM BUDDHIST MONASTERY TRUST", Creative Commons
     Attribution-NonCommercial-NoDerivs 2.0 UK licence, and "Third
     edition, 2,000 copies, printed in Malaysia – 2011".
-- **Result**: every claim of the B-V16 receipt and its QC sample is now
-  verified, including the front matter. The b5 BLOCKED item's discharge
-  stands fully evidenced: free, legitimately published PDF (free
-  distribution stated on the title page; CC BY-NC-ND licence), correct
-  title, accessible at the cited URL. No defects found. This receipt
-  does not edit the b5 module, the buddhism ledger, or any gate; the
-  buddhism owner and supervisor consume it.
+- **Result (narrowed after advisor QC, same session)**: this receipt
+  verifies the checks it performed — the front-matter claims the QC
+  sample could not reach (the publisher line and ISBN, both confirmed
+  verbatim from the extracted front matter), plus the file size (the
+  full download matches the receipt's 8.8 MB) and the free-download
+  statement printed on the title page and imprint page. The earlier
+  QC sample had already confirmed access, redirect, content-type and
+  free availability; those stand on its own reads. Together the two
+  receipts cover the B-V16 claims listed; the b5 BLOCKED discharge
+  evidence is complete for those claims. This receipt does not edit
+  the b5 module, the buddhism ledger, or any gate; the buddhism owner
+  and supervisor consume it.
