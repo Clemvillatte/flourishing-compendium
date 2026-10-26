@@ -22,7 +22,12 @@ approved assignment — trace or remove with evidence. Repair order:
 hygiene → C content completion (capstone notes, openingNotes, MOD_PROMPTS) →
 D durations/locators → E learner-view pass + receipts. Suggested lanes:
 deg-fix-schema, deg-fix-text, deg-fix-content (supervisor mints on request).
-Findings are repository-data findings; rendered-live verification is Phase E.
+Findings are repository-data findings plus live-rendered confirmation for Daoism.
+PHASE 0 HEAD START (same session): the deg-wol-pragmatism and deg-wol-daoism
+manifests are already committed under docs/degrees/integration/ (assignments,
+segment windows, word counts transcribed from the module files); the gate now
+mechanically reports the pragmatism m3 omissions and the daoism full-duplicate
+reuses. Remaining manifest work: deg-psychdim and deg-wol-buddhism only.
 
 ## 2026-10-26 ~07:00Z — orchestrator: WAVE 4 (repair-and-clear) ready to launch
 
