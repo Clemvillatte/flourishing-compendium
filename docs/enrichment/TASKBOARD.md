@@ -1,3 +1,18 @@
+## Worker checkpoint (2026-10-26 15:50Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+FREEDOM CONSTANT FLAG CLOSED: the archive.org Constant speech PDF's
+scrambled text layer was bypassed by reading the rendered page image
+(PDF page 12 of 22) — the span is verbatim on the printed page:
+"...by transposing into our modern age an extent of social power, of
+collective sovereignty, which belonged to other centuries, this
+sublime genius, animated by the purest love of liberty, has
+nevertheless furnished deadly pretexts for more than one kind of
+tyranny." freedom.md is fully accounted (both automated misses now
+eye-verified; the other span of the pair is the same speech's clean-
+text passages, e.g. "The aim of the ancients was the sharing of
+social power among the citizens of the same fatherland"). No
+dossier text changed. Files touched: this checkpoint only.
+
 ## Worker checkpoint (2026-10-26 15:42Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 TWENTIETH QC SAMPLE (taper window): suffering.md — dossier_check OK,
