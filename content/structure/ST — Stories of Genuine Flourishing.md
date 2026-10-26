@@ -138,6 +138,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST501 — The Man Who Carried His Raft]]
     - [[ST369 — The All Is Aflame]]
     - [[ST513 — The Willows and the Wolves]]
+    - [[ST515 — The Kalamas Ask Which Teachers Are Lying]]
   - [[ST-S02.02 — II.2 The Training — Ethics, Concentration, Wisdom]]
     - [[ST064 — The Lute String]]
     - [[ST065 — Nagasena and the Chariot]]

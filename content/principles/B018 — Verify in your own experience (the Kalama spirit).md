@@ -30,6 +30,9 @@ Imagine a teacher advising you to cut off anyone who questions the group. Before
 
 - [[T011 — Socrates]]: the unexamined-life warning the page pairs with the Kalama spirit of checking for yourself.
 
+## Stories
+- [[ST515 — The Kalamas Ask Which Teachers Are Lying|515. The Kalamas Ask Which Teachers Are Lying]]
+
 ## Psychology parallels
 
 - **[[Actively open-minded thinking|Actively open-minded thinking]]**: its measures include willingness to consider contrary evidence, but the authors report that AOT scores do not predict avoidance of myside thinking; this is a limited comparison with the discourse ([Stanovich and Toplak, 2023, abstract](https://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Toplak_2023.pdf)).
