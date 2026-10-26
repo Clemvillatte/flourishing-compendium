@@ -2,7 +2,9 @@
 
 - Receipt id: deg-assignment-chains-qc2-1026a
 - Agent: worker-pplx-schema-1026a (deg-fix-schema contributor; no baton — 1026b holds the schema baton)
-- Date: 2026-10-26, ~12:00Z (sandbox clock consistent with the GitHub API Date header)
+- Date: 2026-10-26; receipt pushed at commit 9c958570 (git commit time 11:56:39Z;
+  the sandbox clock was verified against the GitHub API Date header at 11:54:04Z;
+  the fieldwork itself was done in the minutes before that push)
 
 ## mod-bud-2 (Four Noble Truths) — PASS
 
@@ -17,7 +19,7 @@
 - BUD-B2-03 (Harvey, Craving glossary, AtI): "The craving glossary entry (about
   300 words)" — matches the doc's Step 3 craving/chanda distinction.
 
-## mod-dao-2 (Peirce/belief module in the daoism walk) — PASS
+## mod-dao-2 (The Daodejing as a Practice Manual for Living) — PASS
 
 - DAO-M1-03 (Ziporyn) revisit: segments 0:00:00–0:12:13, 0:15:20–0:17:00,
   0:26:15–0:33:56 — the doc's rewatch list ends at the Chapter 28 segment
@@ -29,9 +31,10 @@
 
 ## Outcome
 
-Both chains PASS end to end (doc → assignments JSON → data block). Combined
-with the earlier samples (prag m4, dao m5, pd m6) and the content lane's
-traces (pd-2, pd-7, pd-3, dao-3), every module of daoism m1-m5 and pragmatism
-m3-m5 plus a spread of buddhism and psychdim modules now has a verified
-chain. No defects found; no repairs needed. No module, ledger, band or shared
-board edited by this receipt.
+Both chains PASS end to end (doc → assignments JSON → data block). This
+receipt's own coverage is bud-2 and dao-2 only; other modules have separate
+receipts: prag m4, dao m5, pd m6 in deg-assignment-chains-qc-1026a.md; pd-2,
+pd-7, pd-3 and dao-3 in the content lane's deep-trace receipts; dao m1 in the
+verification lane's m1 cross-check; prag m3 in the integrate lane's QA
+receipts. No defects found; no repairs needed. No module, ledger, band or
+shared board edited by this receipt.

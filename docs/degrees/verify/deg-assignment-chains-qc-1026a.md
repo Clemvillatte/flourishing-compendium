@@ -2,7 +2,9 @@
 
 - Receipt id: deg-assignment-chains-qc-1026a
 - Agent: worker-pplx-schema-1026a (deg-fix-schema contributor; no baton — 1026b holds the schema baton)
-- Date: 2026-10-26, ~12:11Z (sandbox clock consistent with the GitHub API Date header cross-check at 11:54:04Z)
+- Date: 2026-10-26; receipt pushed at commit 22ff9c54 (git commit time 11:56:08Z;
+  the sandbox clock was verified against the GitHub API Date header at 11:54:04Z;
+  the fieldwork itself was done in the minutes before that push)
 - Method: doc → manifest/assignments JSON → data block chain checked value by value;
   external carriers opened live where the chain names them.
 
@@ -15,8 +17,11 @@ of 778 words ending "is wholly futile"; Reading B, Human Nature and Conduct
 Public and Its Problems (#71000), Chapter VI, 374 words. All three Gutenberg
 carriers opened live this pass and confirmed as the correct Dewey books
 (37423 = How We Think; 41386 = Human Nature and Conduct; 71000 = The Public
-and Its Problems). The reading-time labels (6/4/3 minutes at 130 wpm) are
-arithmetic from the doc's own word counts, as the assignments JSON states.
+and Its Problems) — this establishes carrier identity and liveness, not the
+excerpt boundaries inside each book, which rest on the module doc's own
+measured spans and were not re-opened in this pass. The reading-time labels
+(6/4/3 minutes at 130 wpm) are arithmetic from the doc's own word counts, as
+the assignments JSON states.
 
 ## mod-dao-5 (Daoism capstone) — PASS
 
@@ -27,14 +32,16 @@ chapter list (the earlier m4-section-number conflation was repaired by the
 content lane at dfeaee789; this pass confirms the published values are the
 corrected ones).
 
-## mod-pd-6 (psychdim, motivational) — PASS
+## mod-pd-6 (psychdim, motivational) — PASS (sampled-field check)
 
-All five required refs carry either time windows (PD-M6-01 09:21–14:43;
+The six required refs carry either time windows (PD-M6-01 09:21–14:43;
 M08-P09 08:38–13:55; PD-M6-02 15:51–19:02; PD-M6-03 03:33–04:36) or a measured
 passage locator (PD-M6-04 Figure 1 + the 'Whereas both external regulation and
 introjection' paragraph; PD-M1-07 Woolley 2025 span list matching the m6 doc's
-Woolley assignment line, including the General Discussion paragraphs). The
-m6 chain from doc to assignments JSON to data block is value-exact.
+Woolley assignment line, including the General Discussion paragraphs). The m6
+check sampled the assignment fields named above against the module doc's
+assignment lines; it is not a full prose read of the module, and the excerpt
+boundaries inside the named carriers were not re-opened in this pass.
 
 ## Outcome
 

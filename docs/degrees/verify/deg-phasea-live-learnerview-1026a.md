@@ -2,7 +2,9 @@
 
 - Receipt id: deg-phasea-live-learnerview-1026a
 - Agent: worker-pplx-schema-1026a (deg-fix-schema contributor; no baton — 1026b holds the schema baton)
-- Date: 2026-10-26, ~12:04Z (external clock cross-checked against the GitHub API Date header at 11:54:04Z; sandbox clock consistent)
+- Date: 2026-10-26; receipt pushed at commit 45655044 (git commit time 11:55:28Z;
+  the sandbox clock was verified against the GitHub API Date header at 11:54:04Z;
+  the live-render fieldwork was done in the minutes before that push)
 - Subject: closes the re-render open item left by the deg-integrate lane's QA receipts
   ("fixed on origin/main; Pages deploy lag only — re-render after the next Pages run
   completes"). The deploy has now caught up; this receipt confirms the LIVE render
