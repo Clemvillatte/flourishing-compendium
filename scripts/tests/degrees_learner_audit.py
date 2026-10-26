@@ -18,6 +18,16 @@ Known limits (documented in the audit, Guardrails section):
 - segment values are format-checked; range validation against the
   source's full duration is owed in Phase A.
 
+Anti-gaming checks (CURRICULUM-ARCHITECTURE-1026.md, owner ruling 2026-10-26):
+quotas are DIAGNOSTIC FLOORS measured after coverage, never targets to
+pad toward. The coverage matrix (docs/degrees/inventory/<did>-matrix.json)
+is the source of truth: when it exists, every topic row must resolve to a
+live assignment and every assigned source must appear on a topic row
+(off-matrix content = defect). A degree only faces the hour/module floors
+and the verified-source quality floor once its data block declares
+"scale": "full". Modules are capped at 15 distinct sources (navigability).
+Same-content sources under different source_ids are defects.
+
 Usage: python3 scripts/tests/degrees_learner_audit.py
        python3 scripts/tests/degrees_learner_audit.py <degree-id> [<degree-id>...]
 """
@@ -70,6 +80,29 @@ def seg_key(r):
 
 def alias_key(s):
     return s.get('canonical_url') or s.get('youtube_id_or_url') or s.get('source_id')
+
+
+def assigned_seconds(r, s):
+    """Real instruction seconds for one assignment (CURRICULUM-ARCHITECTURE-1026 §6).
+
+    Video: sum of assigned segments, else the full duration.
+    Text: minutes parsed from the duration label, else words in the locator
+    at 130 wpm. Unaided estimates never inflate the count beyond what the
+    assignment itself states.
+    """
+    if is_video(s):
+        segs = r.get('segments')
+        if segs:
+            return sum(to_seconds(w['end']) - to_seconds(w['start']) for w in segs)
+        return to_seconds((s.get('duration') or '0:00:00').strip()) if TIME.match((s.get('duration') or '').strip()) else 0
+    d = (s.get('duration') or '')
+    m = re.search(r'(\d+)\s*min', d, re.I)
+    if m:
+        return int(m.group(1)) * 60
+    m = re.search(r'([\d,]+)\s*words', (r.get('locator') or '') + ' ' + d)
+    if m:
+        return int(m.group(1).replace(',', '')) / 130 * 60
+    return 0
 
 
 def valid_segments(r, s):
@@ -175,6 +208,98 @@ def main():
                         and not any((r.get('locator') or '').strip() for r in refs_here):
                     fail(mid, f'text source {sid} has neither a locator (chapter/passage/word count) nor a reading-time label')
                 # an assigned window on a video must exist: required videos without segments are whole-video assignments
+
+        # ---------------- anti-gaming checks (CURRICULUM-ARCHITECTURE-1026) ----------------
+        scale_full = deg.get('scale') == 'full'
+
+        # real instruction hours, measured (never chased): report always
+        deg_secs = 0
+        per_module_sources = {}
+        per_module_secs = {}
+        for mid in mids:
+            mod = mods.get(mid)
+            if not mod:
+                continue
+            req = [ref(r) for r in (mod.get('requiredMedia') or [])]
+            opt = [ref(r) for r in (mod.get('optionalMedia') or [])]
+            ids = {r['source_id'] for r in req} | {r['source_id'] for r in opt}
+            per_module_sources[mid] = len(ids)
+            secs = sum(assigned_seconds(r, srcs[r['source_id']]) for r in req if r['source_id'] in srcs)
+            per_module_secs[mid] = secs
+            deg_secs += secs
+            if len(ids) > 15:
+                fail(mid, f'module has {len(ids)} distinct sources (>15) — navigability cap; split the module or curate')
+
+        msgs.append(f'{"" if in_scope else ""}INFO [{did}] real instruction hours: {deg_secs/3600:.1f} h '
+                   f'across {len(mids)} modules (measured, not nominal; excludes unverified text estimates)')
+
+        # same content under two source_ids = duplication
+        by_alias = {}
+        for mid in mids:
+            mod = mods.get(mid)
+            if not mod:
+                continue
+            for r in [ref(x) for x in (mod.get('requiredMedia') or [])] + [ref(x) for x in (mod.get('optionalMedia') or [])]:
+                s = srcs.get(r['source_id'])
+                if s:
+                    by_alias.setdefault(alias_key(s), set()).add(r['source_id'])
+        for alias, sids in sorted(by_alias.items()):
+            if len(sids) > 1:
+                fail('-', f'same content assigned under multiple source_ids: {sorted(sids)} ({alias}) — merge or drop')
+
+        # coverage matrix: source of truth once it exists
+        mpath_inv = os.path.join('docs/degrees/inventory', f'{did}-matrix.json')
+        if os.path.exists(mpath_inv):
+            try:
+                matrix = json.load(open(mpath_inv, encoding='utf-8'))
+                matrix_sids = set()
+                for t in matrix.get('topics') or []:
+                    tmid = t.get('module')
+                    if tmid not in mids:
+                        fail(tmid or '?', f"coverage-matrix topic {t.get('topic','?')!r} points at a module not in the degree")
+                        continue
+                    mod = mods.get(tmid) or {}
+                    integrated = {ref(r)['source_id'] for r in (mod.get('requiredMedia') or [])} | \
+                                 {ref(r)['source_id'] for r in (mod.get('optionalMedia') or [])}
+                    for sid in t.get('sources') or []:
+                        matrix_sids.add(sid)
+                        if sid not in integrated:
+                            fail(tmid, f"coverage-matrix topic {t.get('topic','?')!r}: source {sid} not assigned in this module — matrix row unresolved")
+                assigned = set()
+                for mid in mids:
+                    mod = mods.get(mid)
+                    if not mod:
+                        continue
+                    assigned |= {ref(r)['source_id'] for r in (mod.get('requiredMedia') or [])} | \
+                               {ref(r)['source_id'] for r in (mod.get('optionalMedia') or [])}
+                for sid in sorted(assigned - matrix_sids):
+                    fail('-', f'assigned source {sid} appears on NO coverage-matrix topic row (off-matrix content)')
+            except (ValueError, OSError) as exc:
+                msgs.append(f'{prefix}FAIL [{did}] coverage matrix unreadable: {exc}')
+        elif scale_full:
+            fail('-', 'degree declares scale "full" but has no coverage matrix (docs/degrees/inventory/<did>-matrix.json)')
+        else:
+            msgs.append(f'{"" if in_scope else ""}ADVISORY [{did}] no coverage matrix yet — Phase D1 inventory pending (CURRICULUM-ARCHITECTURE-1026)')
+
+        # scale floors: only once the degree claims to be full-scale
+        if scale_full and not is_practicum:
+            if deg_secs < 100 * 3600:
+                fail('-', f'degree declares scale "full" but measures {deg_secs/3600:.1f} h of real instruction (<100 h floor) — per owner ruling, do NOT pad: extend coverage or unflag')
+            if len(mids) < 10:
+                fail('-', f'degree declares scale "full" but has {len(mids)} modules (<10)')
+            for mid in mids:
+                if per_module_sources.get(mid, 0) < 3:
+                    fail(mid, f'module has {per_module_sources.get(mid, 0)} distinct sources (<3) at scale "full"')
+                if per_module_secs.get(mid, 0) < 6 * 3600:
+                    fail(mid, f'module measures {per_module_secs.get(mid, 0)/3600:.1f} h of real instruction (<6 h) at scale "full"')
+            for mid in mids:
+                mod = mods.get(mid)
+                if not mod:
+                    continue
+                for r in [ref(x) for x in (mod.get('requiredMedia') or [])]:
+                    s = srcs.get(r['source_id'])
+                    if s and not str(s.get('verification_status', '')).startswith('verified'):
+                        fail(mid, f'required source {r["source_id"]} is {s.get("verification_status")!r} — quality floor requires verified sources at scale "full"')
 
         # manifest diff (Phase 0 contract): every manifest assignment must be integrated
         mpath = os.path.join(MANIFEST_DIR, f'{did}-manifest.json')

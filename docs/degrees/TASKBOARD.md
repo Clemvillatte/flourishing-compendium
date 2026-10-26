@@ -1,4 +1,31 @@
-## 2026-10-26 DEGREES REPAIR WAVE (owner-commissioned audit — READ FIRST)
+## 2026-10-26 DEGREES ARCHITECTURE WAVE (owner rulings — READ FIRST)
+
+The structural repair wave above is CLOSED (all six fix-list items verified,
+gate at 0 defects). The owner then ruled (2026-10-26) that a **degree = full
+exhaustive foundational coverage of a discipline** — the current four are
+pilot-scale reading lists, not degrees (Daoism: ~2 h of measured instruction
+plus unscaffolded primary texts). The binding standard, workflow, and
+anti-gaming safeguards live in
+**docs/degrees/CURRICULUM-ARCHITECTURE-1026.md** — read it before touching
+any degree. Key points:
+
+- **Quotas are floors measured AFTER coverage, never targets.** Padding is
+  a defect, not a workaround: the gate now fails full-scale degrees under
+  100 measured hours with "do NOT pad: extend coverage or unflag".
+- **New gate checks (already live)**: coverage-matrix enforcement
+  (docs/degrees/inventory/<did>-matrix.json, bidirectional), verified-source
+  quality floor at scale "full", ≤15 sources per module, duplicate-content
+  detection, real-hours measurement (INFO line per degree).
+- **D2 CHECKPOINT IS MANDATORY**: the D1 topic map and filled D2 matrix must
+  be reviewed (owner or degrees-strategist) BEFORE any Phase D3 mass
+  integration. No exceptions.
+- Suggested lanes: `deg-arch-inventory` (Phase D1 per degree, 4 parallel:
+  topic map from ≥3 university syllabi + coverage matrix), then
+  `deg-arch-build` (D2 resource pool + D3 modules, only after checkpoint).
+- A degree that cannot reach the floors with reputable on-matrix verified
+  material is DROPPED per owner ruling — reported, not padded.
+
+## 2026-10-26 DEGREES REPAIR WAVE (owner-commissioned audit — CLOSED)
 
 The owner reviewed the four published degrees and found the learner experience
 broken (duplicated full lectures — e.g. the Ziporyn Daodejing lecture listed

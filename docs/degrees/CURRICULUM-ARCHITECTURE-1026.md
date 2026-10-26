@@ -17,6 +17,20 @@ This document is binding for every degree on the compendium. It fixes the single
 
 ---
 
+## Anti-gaming safeguards (binding — the quotas are floors, never targets)
+
+Owner warning (2026-10-26): agents tempted to reach the quota with suboptimal, low-quality, off-topic or duplicated content would turn an empty degree into an unnavigable mess. The following rules make padding impossible rather than merely discouraged. All are enforced by `scripts/tests/degrees_learner_audit.py`.
+
+1. **Coverage is the target; hours are a measurement.** The build order is fixed: topic map (D1) → best available resource per topic (D2) → modules (D3) → then hours are MEASURED (D4). If the measured hours miss the floor, the answer is more coverage or a dropped degree — never more content per topic. The gate's hour floors apply only when a degree declares `"scale": "full"`, and a full-scale degree with <100 measured hours fails with the instruction "do NOT pad: extend coverage or unflag."
+2. **The coverage matrix is the source of truth.** Once `docs/degrees/inventory/<did>-matrix.json` exists, the gate enforces bidirectional agreement: every topic row must resolve to a live assignment in its module, and every assigned source must appear on a topic row. Off-matrix content is a defect — an agent cannot smuggle in filler.
+3. **Quality floor.** At scale "full", every required source must have `verification_status` beginning with `verified` (the existing verify/receipt process). Unverified or "imported" material cannot carry a full-scale degree.
+4. **Curation within topics.** For each topic row, use the BEST resource(s) that teach it — not three mediocre ones. Duplication bans: the same content under two source_ids is a defect; the same source in two modules without distinct segments/role is a defect (existing checks).
+5. **Navigability cap.** A module with more than 15 distinct sources fails the gate — split the module or curate. A degree is a navigable structure, not a dump.
+6. **Checkpoint before mass build (D2 review).** The D1 topic map and the filled D2 matrix must be reviewed and approved (by the owner or the degrees-strategist manager) BEFORE Phase D3 mass integration begins. This is the moment to catch "off-topic rows", "low-quality picks", and "this doesn't feel like a degree" — while it costs one comment, not a rebuild.
+7. **Honest failure.** A degree that cannot reach the floors with reputable, on-matrix, verified material is dropped per the owner ruling — the gate makes this visible instead of letting it be quietly padded.
+
+---
+
 ## Workflow (binding order — no degree skips a phase)
 
 ### Phase D1 — Discipline inventory (before any resource is chosen)
@@ -29,18 +43,19 @@ Produce `docs/degrees/inventory/<degree-slug>.md`:
 - Source pool is NOT "the best 30%." It is: university **open courseware** (NTU OCW, Harvard Open Learning), **free-audit MOOCs** (HarvardX/edX, Coursera free tier), **open educational resources** (e.g., Edinburgh OER), **free teaching translations** (e.g., Robert Eno's Daodejing), **public-domain texts** (Internet Sacred Texts, ctext.org, Project Gutenberg), scholarly lecture series and university YouTube channels, the existing enriched doc library.
 - Every candidate resource is verified open-access (free audit tier counts; paid-only tiers do not) and logged in the degree's resource inventory with what topic it covers.
 - The coverage matrix is filled: every topic row must map to at least one verified resource. **If a topic row cannot be filled from the pool, the degree stops and the owner is told — the topic is not silently dropped.**
+- **D2 output is reviewed at the checkpoint (anti-gaming safeguard 6) before any Phase D3 work.**
 
 ### Phase D3 — Module construction
 - Each module is built from the coverage matrix, not from worker preference. A module needs enough assignments to actually teach its aspect (target 6+ hours).
 - Primary texts are read whole where reputable translations allow; video courses are assigned by full segment ranges, not decorative extracts.
 - Segments schema, role labels, locators, and the existing learner-audit gate all still apply.
 
-### Phase D4 — Coverage audit (gate)
-`scripts/tests/degrees_learner_audit.py` is extended with:
-- minimum module size (hours and distinct sources),
-- minimum degree size (total hours, module count),
-- **topic coverage check**: every row of the coverage matrix must resolve to a live assignment in the degree data; a missing topic = defect.
-A degree ships only at 0 defects.
+### Phase D4 — Coverage audit (gate — IMPLEMENTED 2026-10-26)
+`scripts/tests/degrees_learner_audit.py` now enforces:
+- minimum module size (≥3 sources, ≥6 measured hours) and minimum degree size (≥10 modules, ≥100 measured hours) — active once a degree declares `"scale": "full"`;
+- **topic coverage**: every row of the coverage matrix must resolve to a live assignment, and any assigned source missing from the matrix is a defect;
+- quality floor (verified sources), navigability cap (≤15 sources per module), duplicate-content detection (same content under two source_ids), and real-instruction-hours measurement (INFO line per degree).
+A degree ships only at 0 defects. The four current degrees pass structurally and are flagged pilot (inventory advisories only).
 
 ---
 
