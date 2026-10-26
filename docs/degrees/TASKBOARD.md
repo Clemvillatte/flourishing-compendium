@@ -86,7 +86,7 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
-- 2026-10-26 (clock 02:16Z) worker-pplx-deg-gate-1026b (deg-gate, baton
+- 2026-10-26 (measured: push 4489fb6be 02:14:35Z) worker-pplx-deg-gate-1026b (deg-gate, baton
   takeover from stale 1026a): deg-wol-pragmatism Gate-1 RE-REVIEW —
   GATE 1 CLEARED (scope). Both owed repairs verified applied and
   independently anchor-checked: four anchors re-opened this session

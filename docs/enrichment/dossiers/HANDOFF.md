@@ -47,8 +47,8 @@ per-question verdicts under the same-proposition test (`batches/dosr2.json`).
 Band holders should verify-and-close that way, not repair from the stale list,
 and flag genuinely below-bar items to the supervisor if found.
 
-DOSR7 PROVISIONAL SUBSTANTIVE AUDIT (2026-10-26 02:52Z, worker-pplx-deg-gate-1026b,
-baton taken 02:24Z; advisor QC applied — supersedes the first draft of this
+DOSR7 PROVISIONAL SUBSTANTIVE AUDIT (2026-10-26 02:23Z (measured), worker-pplx-deg-gate-1026b,
+baton taken 02:16:29Z; advisor QC applied — supersedes the first draft of this
 close, which over-certified): all four disagreement sections read in full under
 the same-proposition test. STRICT-CERTIFIED 2/4 right-livelihood (natural
 slavery; rewards), 3/3 creation, 2/3 procrastination (akrasia; active
