@@ -16,8 +16,10 @@ training efficacy"), not the intro-framing blend then published.
 
 ## Verification — repair CONFIRMED, item CLOSED
 
-- The current data block (checked at local HEAD 46357d52, == origin/main at
-  check time) carries mod-pd-4's outcome as exactly that verbatim text.
+- The current data block (checked in local revision 46357d52) carries mod-pd-4's
+  outcome as exactly that verbatim text. (origin/main had advanced past
+  46357d52 by check time; the check is of the local tree's content, which
+  the subsequent push landed as 7948b110.)
 - The m4 doc's outcome list (m4-giving-attention-a-useful-direction doc,
   "Entry and outcomes" section) prints the same item; data and doc match.
 - The other routed optionals (verbatim restorations for m3/m7 outcome
