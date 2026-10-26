@@ -1745,3 +1745,15 @@ openings; source titles from module labels where receipts print no
 exact title; browser QA suites time out in this sandbox on the
 unmodified baseline). node --check OK; both test suites pass; packet
 2,370 min. Status left in-development for the owner sign-off.
+
+## Checkpoint — deg-verify-a (worker-pplx-verifya-1026a), 2026-10-26
+
+Flag sweep receipt: verify/deg-wol-daoism-flag-sweep-1026a.md. CLOSED:
+Neiye hosting/licensing (live Gutenberg page opened; module's
+free/no-paywall/CC BY-NC-ND-3.0 statement matches exactly; Linnell
+credited), m5 word-count 466-vs-473 (already closed by the
+supervisor's reproduction addendum and own count), dead evidence
+pointer (already documented and corrected). STILL OPEN, re-routed to
+the next playback-capable session: b9 boundary sentence, b7 key-moments
+authorship, b4 captions (Buddhism; same blocked-route inventory as the
+Sainani item). No band or production files touched.
