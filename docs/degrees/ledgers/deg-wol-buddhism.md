@@ -707,3 +707,14 @@ b9's Thanissaro talk downgraded to verified-metadata for consistency
 with the b5/b6/b7 convention (content claims bounded to the opened
 watch-page description; corroborated by deg-verify-a's B-V12 oembed
 check). The Nyanaponika text remains verified (full text read).
+
+## QC round 8 — workload sums re-checked against components (2026-10-26, worker-pplx-buddhism-1026a)
+
+Final arithmetic audit across all nine modules. Two totals did not
+sum their own components and were corrected: b1 (media 2:05:32 +
+2 h 20 m estimated work = 4 h 25 m, previously stated 3 h 50 m) and
+b2 (media 1:20:34 + 2 h 00 m estimated work = 3 h 20 m, previously
+stated 3 h 25 m). Both corrections are noted inline in the modules.
+The other modules' totals sum their components as printed (b3 2 h 20 m,
+b4 2 h 10 m, b5 conditional 3 h 30 m / 2 h 50 m, b6 4 h 58 m,
+b7 3 h 27 m required, b8 about 12 h, b9 2 h 05 m).
