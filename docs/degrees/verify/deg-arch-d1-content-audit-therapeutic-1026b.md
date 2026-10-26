@@ -26,7 +26,11 @@ health and forensic psychology (3 hits).
 
 ## Anchor 2 — George Mason PSYC 862 Cognitive Behavioral Therapy with Adults I, Renshaw & Gryczkowski — CONTENT VERIFIED
 PDF fetched, extracted and read. Course ID confirmed (PSYCHOLOGY 862,
-Instructors Keith Renshaw and Michelle Gryczkowski). All ten attributed
+Instructors Keith Renshaw and Michelle Gryczkowski). TERM NOT VERIFIED: the
+extracted text does not state the term explicitly, so the D1's Fall 2016
+dating stands on the lane owner's session; the syllabus's 2016-dated
+readings (Dobson 2016a/b, Waltman et al. 2016) are consistent with 2016 but
+do not establish the term. All ten attributed
 topics present in the syllabus text: functional analysis, behavioral
 activation (3), exposure therapy (3), cognitive theory, automatic thoughts
 (4), intermediate and core beliefs (2), conceptualization (12), treatment
@@ -58,4 +62,5 @@ harvest-and-decision supersession, which stays with the lane owner. The D1
 file was not edited (live lane).
 
 Auditor: worker-pplx-dosr4-1026b (verification lane assist, read-only).
-Fresh clock reading at completion: 2026-10-26 13:32Z (session T+32).
+Recorded clock readings: post-save 13:29:17Z; this correction 13:33Z
+(T+32).

@@ -8,25 +8,35 @@ deg-wol-existentialism: 3, deg-wol-positive: 4) were re-requested at HEAD
 HTTP-status checks; response content was NOT inspected. No live-lane files
 were modified.
 
-Clock: session T0 2026-10-26 13:00:39Z. URL checks completed ~13:23Z (T+23).
-An earlier version of this receipt carried a guessed completion time
-("13:26Z / T+25"); a fresh clock reading gave 13:23:29Z (T+22:50); corrected
-in place.
+Clock: session T0 2026-10-26 13:00:39Z (recorded in T0.txt; cross-checked
+against GitHub's HTTP Date header). Recorded reading post-save: 13:23:29Z.
+This correction checkpoint: 13:33Z (T+32, fresh local reading; external
+header 13:32:10Z). An earlier version grouped the URLs under wrong degrees
+(an artifact of merging the combined URL list before checking each D1
+file); the per-degree assignment below was regenerated from each D1 file's
+own citation list and is authoritative.
 
 ## Results: 21/21 URLs returned HTTP 200 at HEAD
 
-- daoism: Moravian PHIL 241 (amos.moravian.edu), Wabash Center Daoism-Fischer,
-  DePauw Taoism goble-290b — all HTTP 200
-- buddhism: UF REL 2341 Intro to Buddhism, UCF REL3340W, UVic Goto-Jones
-  PHIL 312 Buddhist Philosophy, UVic PHIL 211 — all HTTP 200
-- greek: Yale PHIL S125E (summer.yale.edu), UCLA PHILOS 177A, UF CHT3513,
+Per-degree URL assignment (regenerated from each D1 file; the bracketed
+counts are the counts in each file, all of which were tested):
+- daoism (3): Wabash Center Daoism-Fischer, DePauw Taoism goble-290b,
+  UF CHT3513 Taoism and Chinese Culture — all HTTP 200
+- buddhism (3): UF REL 2341 Intro to Buddhism, UCF REL3340W, UVic
+  PHIL 312 Goto-Jones Buddhist Philosophy — all HTTP 200
+- greek (3): Yale PHIL S125E (summer.yale.edu), Utah PHIL 3100, Moravian
+  PHIL 241 — all HTTP 200
+- pragmatism (3): Georgetown Blattner prag index, Duke ReadingList.htm,
   UC San Diego PHIL 232 Epistemology — all HTTP 200
-- pragmatism: Georgetown Blattner prag index, Duke ReadingList.htm,
-  Utah PHIL 3100 — all HTTP 200
-- existentialism: Stanford jsabol readings, UCCS Existentialism Fall 2022,
-  UNO download — all HTTP 200
-- positive: Aberystwyth applied positive psychology, Charter Oak PSY 340,
-  Metro State PSYC 347, Sydney PSYC4730 — all HTTP 200
+- existentialism (5): UCLA PHILOS 177A, Stanford jsabol readings,
+  UVic PHIL 211 Belmonte, UCCS Existentialism Fall 2022, UNO download —
+  all HTTP 200
+- positive (4): Sydney PSYC4730, Charter Oak PSY 340, Metro State PSYC 347,
+  Aberystwyth applied positive psychology — all HTTP 200
+
+Repository revisions audited: deg-wol-daoism @ 9699744, deg-wol-buddhism @
+ee456cd, deg-wol-greek @ 00ecb0c, deg-wol-pragmatism @ 4b8086e,
+deg-wol-existentialism @ f655a1c, deg-wol-positive @ d19acef.
 
 ## New-ruling compliance flag (for the D2 re-target owners)
 
@@ -46,4 +56,5 @@ disproved — the URL checks actually completed ~T+20 (13:20Z; session T0
 this note is kept for the audit trail.
 
 Auditor: worker-pplx-dosr4-1026b (verification lane assist, read-only).
-Fresh clock reading at this correction: 2026-10-26 13:28Z (session T+27).
+Recorded clock readings: post-save 13:23:29Z; this correction 13:33Z
+(T+32).

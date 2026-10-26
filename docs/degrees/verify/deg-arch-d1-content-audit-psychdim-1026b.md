@@ -10,8 +10,18 @@ topics checked against the syllabus text with reading-level evidence.
 deg-psychdim is the owner's first-priority degree. No live-lane files were
 modified.
 
-Clock: session T0 2026-10-26 13:00:39Z; content checks completed 13:28Z
-(T+28, fresh reading 13:28:25Z).
+Repository revision audited: the D1 file at docs/degrees/inventory/deg-psychdim.md
+as of commit bee8d65 (the file's last change before this audit; not modified
+since). Locators are positions in this session's extracted text, not stable
+page numbers — reproducibility is via the source URL plus the quoted passage.
+Topics explicitly named in a syllabus are distinguished from topics inferred
+from an assigned reading's title (marked where applicable).
+
+Clock: session T0 2026-10-26 13:00:39Z (recorded in T0.txt at session start;
+cross-checked 13:32:10Z against GitHub's HTTP Date header). Recorded readings
+during this audit: 13:28:25Z (mid-checks), 13:28:39Z (post-save). This
+correction checkpoint: 13:33Z (T+32, fresh local reading, external header
+13:32:10Z).
 
 ## Anchor 1 — UT Dallas PSY(CGS) 3361.002 Cognitive Psychology, Spring 2026, Daniel Krawczyk — CONTENT VERIFIED
 Course ID confirmed (PSY(CGS) 3361.002, Krawczyk, Spring 2026). All nine
@@ -52,9 +62,13 @@ scarcity, liking). Every attributed topic in the D1's summary is present.
 
 ## Anchor 4 — U Alberta PSYCO 447/505 Self and Identity, Winter 2021, Jennifer Passey — CONTENT VERIFIED
 Course ID confirmed (PSYCO 447/505 Section B1, Passey, Winter 2021). All
-eight attributed topic markers present: structure of the self,
-self-knowledge, neuroscience (of the self), self-regulation,
-self-presentation, self-enhancement, self-esteem, cultural perspectives.
+eleven attributed topics present in the course description's "Topics
+include:" passage (extracted-text lines 19-24): "the structure of the self,
+the source of self-knowledge, neuroscience of the self, self-cognition,
+self-regulation of behavior, self-presentation, self-enhancement,
+self-esteem, self and relationships, health, and cultural perspectives on
+the self" — this includes self-cognition, self-and-relationships and
+health, which an earlier draft of this receipt had not separately checked.
 (Consistent with the D1's own caveat that the detailed week schedule sits
 on eClass; the fetched syllabus carries the full topic list.)
 
@@ -65,14 +79,21 @@ same file was read at the replacement path
 confirms it is the same syllabus: PSYCH 272 Fall 2022 Health Psychology,
 Strauss, with the full attributed topic list present — health behavior
 models, nutrition, exercise, sleep, smoking, (health) disparities, social
-marketing, stress, placebos, palliative care. This upgrades the earlier
-HTTP-status finding to a content-verified replacement recommendation.
+marketing, stress, placebos, palliative care, and the two topics an earlier
+draft of this receipt had not separately checked: "Medical decision-making"
+and "Provider-consumer relationships" (both named in the syllabus topic
+list, extracted-text lines 261-262, and in the course description,
+lines 17-18). This upgrades the earlier HTTP-status finding to a
+content-verified replacement recommendation.
 
 ## Verdict
 
-All five deg-psychdim D1 anchors are content-verified: course
-identifications match the D1 citations and every attributed topic checked
-was found in the syllabus text (with the reading-level evidence above).
+All five deg-psychdim D1 anchors are content-verified against commit bee8d65
+of the D1 file: course identifications match the D1 citations and every
+topic the D1 attributes to these syllabi was found in the syllabus text
+(topics explicitly named except where a reading title is cited as evidence
+— e.g. UT Dallas week-table rows; Columbia reading-level evidence for
+BA-for-depression and the named readings above).
 The Macalester replacement URL is verified as the same syllabus by content.
 Findings are recorded here for the lane owner (sup-1026r); the D1 file
 itself was not edited (live lane).

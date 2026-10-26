@@ -2,14 +2,23 @@
 
 Follow-up to the rem6 HTTP-status audit: content verification of the four
 syllabus anchors cited by docs/degrees/inventory/deg-philosophy.md (a D1
-file with the degree's supersession ruling requested from the owner). Three
-anchors were fetched and read this session (PDFs downloaded with a browser
-user-agent and text-extracted locally). Course identifications and the D1's
+file with the degree's supersession ruling requested from the owner). Two
+of the four anchors (UF, Berkeley) were fetched and content-read this
+session (PDFs downloaded with a browser user-agent and text-extracted
+locally); the other two could not be statically re-verified, as detailed
+below. Course identifications and the D1's
 attributed content claims were checked against the syllabus text. No
 live-lane files were modified.
 
-Clock: session T0 2026-10-26 13:00:39Z; content checks completed 13:33Z
-(T+33, fresh reading).
+Two of the four anchors were fetched and content-read this session; the
+other two could not be statically re-verified (one DNS failure, one
+JavaScript shell). Repository revision audited: the D1 file at
+docs/degrees/inventory/deg-philosophy.md as of commit bee8d65.
+
+Clock: session T0 2026-10-26 13:00:39Z (recorded in T0.txt; cross-checked
+against GitHub's HTTP Date header). Recorded readings during this audit:
+13:29:48Z (failed save), 13:29:52Z (post-save). This correction checkpoint:
+13:33Z (T+32, fresh local reading; external header 13:32:10Z).
 
 ## Anchor 1 — Wesleyan PHIL 221 (philife.nd.edu) — NOT VERIFIABLE AT HEAD
 The host failed DNS resolution from this environment this session (see the
@@ -57,4 +66,5 @@ statically re-verified; flagged. The degree's D2 remains blocked on the
 supersession ruling regardless. The D1 file was not edited (live lane).
 
 Auditor: worker-pplx-dosr4-1026b (verification lane assist, read-only).
-Fresh clock reading at completion: 2026-10-26 13:33Z (session T+33).
+Recorded clock readings: post-save 13:29:52Z; this correction 13:33Z
+(T+32).
