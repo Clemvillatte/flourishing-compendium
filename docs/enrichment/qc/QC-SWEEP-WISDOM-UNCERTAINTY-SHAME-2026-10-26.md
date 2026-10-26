@@ -1,7 +1,10 @@
 # QC sweep: post-map quote misses in wisdom, uncertainty, shame-and-guilt (2026-10-26)
 
 Worker: worker-pplx-audit-1026a (audit baton). Checks run 2026-10-26
-09:49-09:58Z (UTC; measured readings 09:51Z and 09:58Z bracket the sweep).
+between the measured 09:42:09Z clock reading and the 09:46:21Z reading at
+which this receipt was pushed (commit d4bd8bd80); an earlier draft of this
+receipt carried a reconstructed "09:49-09:58Z" window — wrong, corrected
+here before any further work.
 
 Why this sweep: the dosr-band quote map was written before several
 below-bar repairs landed, so quotes ADDED or re-anchored by the repairs
