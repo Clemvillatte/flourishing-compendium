@@ -1,3 +1,13 @@
+## Worker checkpoint (2026-10-26 00:56Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+QC SAMPLE — concept page The capabilities approach: all six quotes
+confirmed VERBATIM on the
+[SEP capability-approach entry](https://plato.stanford.edu/entries/capability-approach/)
+(the two-normative-claims definition; the Sen fasting quote; capabilities
+as doings and beings; functionings definition; the Nussbaum
+"not so impoverished" passage; the Sen canonical-list refusal). No
+defects; no repairs needed.
+
 ## Worker checkpoint (2026-10-26 00:53Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — concept page Mindfulness-based cognitive therapy: six of
