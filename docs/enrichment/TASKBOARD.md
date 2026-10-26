@@ -1,3 +1,28 @@
+## Worker checkpoint (2026-10-26 13:55Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+THIRD QC SAMPLE: uncertainty.md (dosr6) and creativity.md (dosr7).
+Both: dossier_check OK, density 0 dense. uncertainty: quote_verify 26
+checked / 4 not found — ALL 4 Ellsberg spans RE-VERIFIED BY EYE this
+session on the freshly downloaded Skyrms-hosted PDF: every span is
+present verbatim; the automated misses are a fused-word extraction
+artifact (the PDF's text layer runs words together, e.g.
+"whichrequiresthe orderingof", so multi-word probes fail; wording
+confirmed in context for all four spans). creativity: quote_verify 39
+checked / 11 not found — 2 of them are NOT quotations at all but
+embedded-quote fragments of a faithful paraphrase sentence (line 177,
+Three Metamorphoses): the verifier's regex extracts text between
+adjacent short quotes; the underlying Nietzsche wording matches the
+opened Gutenberg text ("\"Thou shalt,\" is the great dragon called",
+"to create itself freedom for new creating", "To create new
+values-that, even the lion cannot yet accomplish") — a verifier
+extraction artifact, not a wording defect. 1 more (the Conner "Lagged
+multilevel models" span) was eye-verified verbatim earlier today on
+the opened DOI-resolved page (identical span in creation.md). The
+remaining 8 rest on the ledger's documented blocked classes (T&F and
+PubMed/ERIC bot-blocked to urllib, Schumpeter/SciSpace classes) and
+were NOT re-opened this session. No dossier text changed. Files
+touched: this checkpoint only.
+
 ## Worker checkpoint (2026-10-26 13:50Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 SECOND QC SAMPLE: sadness-and-grief.md (dosr6) and procrastination.md
