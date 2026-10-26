@@ -555,3 +555,20 @@ deviations repaired and pushed (Hayes semicolon; Goyal "reductions in"),
 11 items not confirmable from this environment (suttacentral x2, Wiley/Algoe
 x3, tandfonline x3, scispace x2, semanticscholar), 0 known outstanding
 deviations.
+
+# QC sample 18: procrastination — Chowdhury 2016 (2026-10-26 02:48:03Z, measured in-command)
+
+The Chowdhury span (Semantic Scholar page) is CONFIRMED VERBATIM. A fresh
+fetch of the cited Semantic Scholar page returned the page's own description
+text printing the abstract sentence in full: "correlational results
+revealed that active procrastination has been mislabeled as a type of
+procrastination that is more appropriately construed as purposeful delay
+with adaptive qualities." The thesis full text (scispace PDF) is
+challenge-blocked from direct download, and the Semantic Scholar API
+rate-limited this session; the page-level text settles it. FALSE POSITIVE.
+
+Final session tally for the automated NOT FOUNDs (this entry governs): 38
+items adjudicated — 33 false positives confirmed, 2 genuine deviations
+repaired and pushed (Hayes semicolon; Goyal "reductions in"), 10 items not
+confirmable from this environment (suttacentral x2, Wiley/Algoe x3,
+tandfonline x3, scispace x2), 0 known outstanding deviations.
