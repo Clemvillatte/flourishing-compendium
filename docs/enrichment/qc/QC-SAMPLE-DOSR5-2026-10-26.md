@@ -248,3 +248,22 @@ this section governs.
    session), so it was removed from the published paragraph and retained as
    a bibliographic record in docs/enrichment/batches/dosr3.json; the open
    reply carrier remains cited in the dossier.
+
+# RESOLUTION OF THE OUTSTANDING CHECK (written 2026-10-26 02:36:35Z, measured in-command)
+
+Tversky and Kahneman 1974 is now CERTIFIED against the paper's own text. The
+open full-text reproduction at
+https://sites.socsci.uci.edu/~bskyrms/bio/readings/tversky_k_heuristics_biases.pdf
+was downloaded this session and the boxed Summary on the paper's last page
+(Science page 1130, PDF page 9) was rendered to an image and read directly:
+it prints, word for word, the dossier's quoted span — 'This article described
+three heuristics that are employed in making judgments under uncertainty:
+(i) representativeness... (iii) adjustment from an anchor... These heuristics
+are highly economical and usually effective, but they lead to systematic and
+predictable errors.' — including the American 'judgments' spelling the
+dossier carries. PubMed's 'judgements' rendering (PMID 17835457) is the
+index's variant. The round-2 corrections' '1 still outstanding' item is
+resolved by this entry.
+
+FINAL TALLY for the session's 10 examined automated quote checks:
+8 confirmed false positives, 2 real deviations repaired, 0 outstanding.
