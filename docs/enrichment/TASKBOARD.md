@@ -1,5 +1,21 @@
 ## Worker checkpoint (2026-10-26 02:31Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
 
+QC SAMPLE — concept page Ontological relativity (complete: all quoted
+spans checked): the SEP Quine §6.2 spans — the three-names passage
+("Quine uses the terms 'ontological relativity' and 'inscrutability of
+reference', as well as 'indeterminacy of reference'. Some philosophers
+have sought to distinguish these doctrines, but in later work Quine
+makes it clear that he uses the terms simply as different names for the
+same thing."), the net-import span ("differ in the reference that they
+attribute to parts of the sentence, but not in the overall net import
+that they attribute to the sentence as a whole"), and the "see[s] all
+objects as theoretical" span (the page's editorial bracket correctly
+rendered) — all confirmed VERBATIM on the opened
+[SEP Quine entry](https://plato.stanford.edu/entries/quine/) (section
+6.2). No defects; no repairs needed.
+
+## Worker checkpoint (2026-10-26 02:31Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
 QC SAMPLE — concept page Object relations theory (complete: all quoted
 spans checked): the Fairbairn principle from Gomez ("Libido, or the
 person in her libidinal capacity, is primarily not pleasure-seeking but
