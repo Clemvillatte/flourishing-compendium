@@ -1022,3 +1022,59 @@ inspections flagged for this degree (b9, b6, b4, b7).
   records the confirmation.
 - Browser session closed after these inspections (no further browsing
   needed this pass).
+
+## CORRECTION superseding overclaims in the recording-inspection receipts (2026-10-26, worker-pplx-buddhism-1026b, per advisor QC)
+
+The advisor QC round on this batch found overclaims in the receipts
+above. This entry supersedes them; the module files and band/scope
+records have already been corrected to match.
+
+- SCOPE CORRECTION, b6 and b7: the receipts said "transcript read";
+  what actually happened was SELECTED auto-caption passages read (b6
+  Lecture 1: host introduction, talk opening, middle and closing
+  samples with Q&A; b6 Lecture 3: opening, a middle passage, the koan
+  passage, the shikantaza passage, panel excerpts; b7: host
+  introduction, lecture opening and closing, panel excerpts). The
+  b7 receipt's "full transcript read (~82.8k chars)" claim is
+  WITHDRAWN — a character count is not a read. b9's full-transcript
+  read stands (substantiated by the saved session history).
+- b7 Burma/Vipassana: the passage was LOCATED by caption search but
+  NOT read; that key-moment claim remains description-bounded. The
+  mention counts recorded earlier are not verification evidence and
+  have been removed from the module. The lecture date is now recorded
+  as description-bounded (the transcript's "500th anniversary of the
+  Reformation" framing does not by itself confirm or contradict the
+  description's 9 July 2018 date; the description remains the claim's
+  source).
+- b4: "the recording has no captions" is WITHDRAWN — the accurate
+  claim is "caption text was not retrievable in this session (the
+  transcript panel rendered the chapter list only); whether the
+  recording carries captions is UNRESOLVED" (the b9 precedent shows
+  caption text can render even when caption-segment elements return
+  zero). Both pending content items remain bounded to the description,
+  chapter structure, and external receipt.
+- b6: the "host introduction recites the credentials verbatim from
+  the series page" claim is corrected to "the host's introduction
+  recites the speaker's credentials" (no verbatim side-by-side was
+  performed). The zazen-as-Soto attribution is removed from the module
+  (a Rinzai master in the talk values deep zazen; only shikantaza is
+  tied to Soto, by the lecturer's own words). The Rinzai/Soto
+  objective, outcome, and activity wording now says the distinction is
+  as the lecture frames it through koan practice and shikantaza.
+- b9: the "Creative Commons BY-NC 3.0" claim is corrected to "a
+  Creative Commons Attribution-NonCommercial license is stated; the
+  line is truncated in the opened description, so the exact
+  variant/version is not claimed."
+- Labels: b6 and b7 rows now carry "verified-video (selected
+  auto-caption passages inspected; playback blocked)" so the label
+  does not imply audio/visual inspection.
+- NEW BLOCKER: a fresh cloud-browser session (needed to read the b7
+  Burma/Vipassana passage and re-test b4's panel) was bot-walled at
+  youtube.com (google.com/sorry redirect) and the wall did not clear;
+  the warmed-up session that had worked was already closed. Further
+  YouTube watch-page inspection is BLOCKED this run.
+- Standing state: b9 inspection COMPLETE (full read); b6 and b7
+  inspections PARTIAL-COMPLETE (selected passages; specific unread
+  passages named above); b4 inspection BLOCKED (no caption text
+  retrievable; playback bot-walled). All modules remain DRAFT NOT
+  CLEARED pending supervisor module-QC.

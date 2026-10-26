@@ -72,10 +72,10 @@ b9 L2 elective.
 | b1-ethics-first-orientation | L1 | Ethics-first entry: five precepts, four immeasurables, Buddhist values, first metta sitting, walk map | Drafted v4 (supervisor b1 repairs applied 2026-10-26); all five sources verified |
 | b2-four-noble-truths | L2 | Four truths as four tasks on the learner's own difficulty; tanha/chanda; rebirth frame as passing mention | Drafted v2 (task-frame independently re-verified 2026-10-26); sources verified |
 | b3-sila-in-practice | L2 | Precepts as training rules on the learner's own hard cases; rebirth placement | Drafted v1.1; sources verified |
-| b4-foundational-meditations | L2 | Breath and metta sittings, two-week training plan with log | Drafted v2; Brahmali recording verified-metadata, no captions exist (checked 2026-10-26; two content items stay description-bounded, human listen flagged) |
+| b4-foundational-meditations | L2 | Breath and metta sittings, two-week training plan with log | Drafted v2; Brahmali recording verified-metadata, caption text not retrievable this session (presence unresolved; two content items stay description-bounded, human listen flagged) |
 | b5-thai-forest-way | L2 | Thai Forest school from inside: Sumedho talk, Chah volume (assignment UNBLOCKED 2026-10-26, two teachings read in full) | Drafted v1.3; sources verified |
-| b6-zen | L3 | Zen: Kirchner lectures 1 and 3, Rinzai/Soto | Drafted v1.3; both recordings content-inspected 2026-10-26 (transcript reads), verified-video |
-| b7-insight-and-secular | L3 | Insight/Vipassana (Fronsdal transcripts) and Secular Buddhism (Batchelor), compared | Drafted v1.2; Fronsdal transcript verified; Batchelor recording content-inspected 2026-10-26 (transcript read), verified-video |
+| b6-zen | L3 | Zen: Kirchner lectures 1 and 3, Rinzai/Soto | Drafted v1.3; both recordings content-inspected 2026-10-26 (selected auto-caption passages; playback blocked), verified-video |
+| b7-insight-and-secular | L3 | Insight/Vipassana (Fronsdal transcripts) and Secular Buddhism (Batchelor), compared | Drafted v1.2; Fronsdal transcript verified; Batchelor recording content-inspected 2026-10-26 (selected auto-caption passages; Burma/Vipassana passage unread), verified-video |
 | b8-capstone | L4 | Eight-week sustained practice with records; ethical case; defended synthesis | Drafted v1.2; no new sources by design |
 | b9-elective-mind-on-the-cushion | L2 elective | Hindrances and aggregates as practical psychology, read from the learner's own log | Drafted v1.2 (aggregates thread landed 2026-10-26); sources verified |
 
