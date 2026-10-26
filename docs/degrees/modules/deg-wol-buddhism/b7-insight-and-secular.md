@@ -98,7 +98,13 @@ page's description frames it: Buddhism as primarily an ethical
 perspective for overcoming human problems, a secular, pragmatic basis
 for human flourishing; the key moments include the historical
 secularization of Buddhism in Burma and the Vipassana movement, and
-Buddhist approaches to suffering. The speaker: eight years as a Tibetan
+Buddhist approaches to suffering — each element of that frame
+confirmed on the read transcript (the talk's Reformation opening; the
+Burma/Vipassana secularization discussion early in the talk;
+suffering and flourishing threads throughout; a panel with Radboud
+scholars on mindfulness in psychiatry and on engagement versus
+passivity; captions auto-generated, so nothing is quoted verbatim from
+them). The speaker: eight years as a Tibetan
 Buddhist monk, then four years training in Son (Zen) meditation in
 South Korea under Kusan Sunim (credentials opened on his official
 biography page, https://stephenbatchelor.org/).
@@ -174,7 +180,7 @@ module (b6) is separate.
 |---|---|---|---|
 | Fronsdal, Introduction to Mindfulness Meditation, Week 1 transcript, https://www.insightmeditationcenter.org/books-articles/introduction-to-meditation-transcripts/ | verified (text) | 2026-10-26 (parallel session harvest receipt, ledger-recorded) | six-week course transcripts, free, CC BY-NC-ND 3.0; Week 1 "Mindfulness of Breath" assigned |
 | Fronsdal, Class 1 recording, https://www.audiodharma.org/series/24654 | verified (audio, series page) | 2026-10-26 (parallel session harvest receipt, ledger-recorded) | AudioDharma series page, "freely offered by Insight Meditation Center"; Class 1 measured 1:26:55; credentials on https://www.audiodharma.org/speakers/1 (IMC senior guiding co-teacher; practice since 1975; teaching since 1990; Insight Meditation lineage and Soto Zen authorization; PhD Stanford) |
-| Batchelor, "A Secular Buddhism", https://www.youtube.com/watch?v=Hhlj_SU9SAE | verified-metadata | 2026-10-26 (this session) | duration 1:26:35 on the watch page; Radboud Reflects channel; lecture given 9 July 2018 at Radboud University; the description's stated frame (ethical, pragmatic, human-flourishing) is bounded to what the description states; CONTENT NOT YET INSPECTED beyond that description; credentials on https://stephenbatchelor.org/ (eight years Tibetan monastic life; four years Son/Zen training under Kusan Sunim) |
+| Batchelor, "A Secular Buddhism", https://www.youtube.com/watch?v=Hhlj_SU9SAE | verified-video | 2026-10-26 (content inspected this pass via transcript read) | duration 1:26:35 on the watch page; Radboud Reflects channel; lecture given 9 July 2018 at Radboud University; the description's stated frame (ethical, pragmatic, human-flourishing; Burma/Vipassana secularization; suffering) CONFIRMED on the read transcript (Reformation opening; Burma ~10 mentions; Vipassana ~3; suffering ~14; flourishing ~9; panel discussion with Radboud scholars follows the lecture); captions AUTO-GENERATED with recognition errors — nothing quoted verbatim from them; credentials on https://stephenbatchelor.org/ (eight years Tibetan monastic life; four years Son/Zen training under Kusan Sunim) |
 
 No paywalled or app-gated content. Video-first policy applied: the
 secular case arrives as a university lecture video with verified

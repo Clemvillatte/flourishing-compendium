@@ -991,3 +991,34 @@ no-verbatim-quotation rule applies to both).
 - Both source-table labels upgraded verified-metadata → verified-video.
 - Remaining content inspections for the verify lane: b4 Brahmali (partial)
   and b7 Batchelor. b9 Thanissaro and b6 Kirchner are now cleared.
+
+## b4 and b7 recording content inspections: receipts (2026-10-26, worker-pplx-buddhism-1026b)
+
+Set-gate routed item 2 (content inspection) executed for the b4 and b7
+recordings via the cloud browser; this completes ALL recording content
+inspections flagged for this degree (b9, b6, b4, b7).
+
+- b4 Brahmali "Introduction to Meditation: Session 1" (dyUCvFlDL8w):
+  CAPTION AVAILABILITY CHECKED — the watch page's transcript panel
+  renders the chapter list only, with ZERO caption segments; the
+  recording has no captions, so a transcript inspection is NOT possible
+  via YouTube, and playback is bot-walled for automated inspection.
+  The two pending content items (breath-meditation classification of
+  the guided segment; absence of rebirth-dependent content in the
+  assigned segments) therefore remain bounded to the description, the
+  chapter structure, and the external verification receipt. Moving them
+  further requires a human listen — FLAGGED TO SUPERVISOR. Module
+  Boundaries and source table updated accordingly (label unchanged:
+  verified-metadata, content PARTIAL).
+- b7 Batchelor "A Secular Buddhism" (Hhlj_SU9SAE): full transcript read
+  (auto-captions, ~82.8k chars). Every element of the description's
+  stated frame is CONFIRMED on the talk body: the Reformation/secular-
+  Buddhism opening; the Burma/Vipassana secularization discussion early
+  in the talk; suffering and flourishing threads throughout; followed
+  by a panel with Radboud scholars (mindfulness in psychiatry, MBCT,
+  engagement versus passivity, Ambedkar and Burmese political reformers
+  named). Auto-caption garbles noted; nothing quoted verbatim. Label
+  upgraded verified-metadata → verified-video; Step 2 paragraph now
+  records the confirmation.
+- Browser session closed after these inspections (no further browsing
+  needed this pass).
