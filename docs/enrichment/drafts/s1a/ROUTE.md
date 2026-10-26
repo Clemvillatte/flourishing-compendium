@@ -899,7 +899,7 @@ have a persisted basis.
 - ST016 (s1a-090): the $28.12½ claim re-verified against a fresh
   download of the Gutenberg Walden text (#205): the itemized house
   materials total is $28.12½ and the full experiment's cash outgoes are
-  1.99¾, so the live page's "entire experiment" reading of the figure
+  $61.99¾, so the live page's "entire experiment" reading of the figure
   is wrong and the draft's correction stands.
 - ST011 (s1a-091): the Diogenes passage re-downloaded from the cited
   LacusCurtius page and re-diffed; the quote's final period was restored
