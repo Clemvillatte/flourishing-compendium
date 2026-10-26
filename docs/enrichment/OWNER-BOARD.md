@@ -505,3 +505,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-26 12:30Z deg-fix-text: PD-M3-05 anchors and Reinforcer/Punisher vocabulary entries re-matched on fresh Noba fetch.
 - 2026-10-26 12:31Z deg-fix-text: PD-M7-04 (Carden and Wood 2018) anchors re-matched on fresh download.
 - 2026-10-26 12:31Z deg-fix-text: PD-M7-06/07/08 anchors re-matched on fresh PMC fetches.
+- 2026-10-26 12:31Z deg-fix-text: eight more psychdim PMC locator anchor sets re-matched on fresh fetches (M5-06 blocked, earlier copy used).
