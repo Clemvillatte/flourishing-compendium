@@ -1,0 +1,64 @@
+{
+ "degree_id": "deg-wol-pragmatism",
+ "built": "2026-10-26",
+ "built_by": "worker-pplx-degfixcontent-1026a (baton deg-fix-content)",
+ "provenance": "Per docs/degrees/AUDIT-2026-10-26.md Phase C (content completion) and Phase B rules 1-3 (title/description hygiene). Every title, description, prompt and note below is drawn from the module files under docs/degrees/modules/deg-wol-pragmatism/ (QC PASS, supervisor module-QC 1026e); nothing is invented here. The deg-fix-schema and deg-fix-text lanes consume this file when splicing site/assets/app.js; the assignment/window contract stays in deg-wol-pragmatism-manifest.json.",
+ "openingNote": "A Walk of Life devoted to Pragmatism. One question runs through all five modules: what does it mean to treat your beliefs as instruments you test in experience, and what does that change about how you live when you feel uncertain or overwhelmed? The walk runs from Peirce's account of how beliefs settle, through James on truth and genuine options, to Dewey on inquiry and shared problems, and ends with one live belief of your own.",
+ "modules": {
+  "mod-prag-1": {
+   "title": "What Pragmatism Is",
+   "description": "The entry module of the walk. You meet the core idea that beliefs are instruments you test in experience, and the maxim that carries the whole degree, then state the idea in your own words and apply it to one conception of your own. No prerequisites.",
+   "prerequisite_display": [],
+   "mod_prompt": "As you study each source, ask: what practical effects would the object of this belief have, and is that the whole of my conception of it?",
+   "source_basis": "m1-orientation.md: intro paragraph and outcomes 1-2"
+  },
+  "mod-prag-2": {
+   "title": "Peirce on How Beliefs Settle",
+   "description": "You read Peirce's 1877 essay The Fixation of Belief closely. The question it serves: when one of your beliefs is settled, what settled it, and would it survive contact with something outside your wishing? You diagnose one of your own beliefs under Peirce's four methods.",
+   "prerequisite_display": [
+    "Module I — What Pragmatism Is"
+   ],
+   "mod_prompt": "For each source, ask: how was this belief of mine settled, by tenacity, authority, taste, or something that survives contact?",
+   "source_basis": "m2-belief-and-doubt.md: intro paragraph; outcomes include diagnosing one belief under all four methods"
+  },
+  "mod-prag-3": {
+   "title": "James on Truth and Genuine Options",
+   "description": "You follow the method into William James: his instrumental view of theories and truth, and when your passional nature may lawfully decide a belief the intellect cannot settle. You run his tests for genuine options on a decision of your own.",
+   "prerequisite_display": [
+    "Module I — What Pragmatism Is",
+    "Module II — Peirce on How Beliefs Settle"
+   ],
+   "mod_prompt": "For each source, ask: is this a genuine option for me, living, forced and momentous, and what does James's view of truth let me do with it?",
+   "source_basis": "m3-truth-and-the-will-to-believe.md: intro paragraph (genuine options; passional nature)"
+  },
+  "mod-prag-4": {
+   "title": "Dewey on Inquiry, Deliberation and Democracy",
+   "description": "You take up Dewey's tools for the places the method was built for: a stuck situation, a hard choice, and a disagreement you keep having with someone you live with. You read his accounts of where thinking starts, what deliberation is, and what discussion does for shared problems, then run all three on one recurring disagreement of your own.",
+   "prerequisite_display": [
+    "Module I — What Pragmatism Is",
+    "Module II — Peirce on How Beliefs Settle",
+    "Module III — James on Truth and Genuine Options"
+   ],
+   "mod_prompt": "For each source, ask: where does my thinking start when I am stuck, and what does deliberation actually do here?",
+   "source_basis": "m4-dewey-inquiry-ethics-democracy.md: intro paragraph (stuck situation, hard choice, recurring disagreement)"
+  },
+  "mod-prag-5": {
+   "title": "The Method on One Live Belief",
+   "description": "The capstone hands you the whole toolkit and one job: take one live belief or decision of your own, run the tools that fit it, and write a synthesis that defends where you land against the strongest objection to it. No new sources are required.",
+   "prerequisite_display": [
+    "Module I — What Pragmatism Is",
+    "Module II — Peirce on How Beliefs Settle",
+    "Module III — James on Truth and Genuine Options",
+    "Module IV — Dewey on Inquiry, Deliberation and Democracy"
+   ],
+   "mod_prompt": "For each tool you reuse, ask: what does it let me do with this one live belief, and what is the strongest objection to where I land?",
+   "drawsOnPriorModules": "This capstone creates an opportunity to apply what you studied, not another source hunt. No new reading or video is required; retrieve and reuse the exact sources and activities from Modules I through IV.",
+   "source_basis": "m5-capstone.md: intro paragraph; the m5 'no new reading' instruction pattern"
+  }
+ },
+ "repair_notes": {
+  "m3_missing_readings": "PRAG-M3-02/03/04 (James, The Will to Believe; Pragmatism Lectures II and VI) are named with word counts and locators in deg-wol-pragmatism-manifest.json - the schema lane adds them to the data block from there; no new content decision is needed here",
+  "m1_role_mismatch": "PRAG-M1-02 belongs in optionalMedia for mod-prag-1 per the manifest (its measured segments are m2's core reading) - recorded in the manifest; schema lane applies it",
+  "m5_empty_syllabus": "covered by drawsOnPriorModules on mod-prag-5"
+ }
+}
