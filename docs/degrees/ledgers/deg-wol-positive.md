@@ -103,6 +103,7 @@ entry was written against.
 - Bolier et al. 2013 (BMC Public Health): "This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0)" — CC BY 2.0 confirmed verbatim on the opened carrier.
 - White, Uttl & Holder 2019 (PLoS ONE): "distributed under the terms of the Creative Commons Attribution License" — CC BY confirmed verbatim.
 - van Zyl et al. 2024 (Journal of Positive Psychology): page labels the article "Open access" but states NO explicit reuse licence — free to read confirmed, reuse permission not explicitly granted (nuance recorded; not a blocker for reading, but not a reuse grant).
+- Gaffaney & Donaldson 2025 (Frontiers in Psychology): "distributed under the terms of the Creative Commons Attribution License (CC BY)" — CC BY confirmed verbatim (2026-10-26T10:02:26Z).
 
 ## Candidates added from the gap-register pass (verification status: UNSET — text sources, reading-level checks outstanding)
 
