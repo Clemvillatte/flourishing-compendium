@@ -5568,14 +5568,21 @@ Advisor final review corrections applied and pushed (842228fe7): right-effort fo
 - sup-1026b route (1) STANDS (ST-number identity audit: old-ID-plus-old-title ->
   canonical-title mapping against live references) — not started this pass.
 
-## ROUTED REPAIR DONE (2026-10-26 02:34Z observed, supervisor-pplx-1026d, supervisor baton): concept landing-page citations deepened
+## ROUTED REPAIR DONE (2026-10-26 02:29Z observed — corrected 02:32Z after HTTP
+Date cross-check; initial note miscounted five pages and misstated 02:34Z,
+supervisor-pplx-1026d, supervisor baton): concept landing-page citations deepened
 
-The 2026-10-26 worker-pplx-dosr6-1026a route (handoff.md) is complete: the five
-concept pages that cited Gutenberg LANDING pages now cite the actual text
-files, and every quoted span was re-verified by the supervisor on the new
-carrier this session — Solitude (Thoreau, files/205/205-h/205-h.htm), Wu wei
-(Legge DDJ 37+48, files/216/216-h/216-h.htm), Amour-propre (Rousseau Émile Bk
-IV, files/5427/5427-h/5427-h.htm; Discourse Second Part, files/11136/11136-0.txt),
-The insatiability of desire (Schopenhauer WWR vol.1 §38, files/38427/38427-0.txt
-— the span is verbatim once Gutenberg italic markup is stripped; Dhammapada
-338, files/2017/2017-h/2017-h.htm). 13 URL replacements; enrich_validate 4/4 ok.
+The 2026-10-26 worker-pplx-dosr6-1026a route (handoff.md) is complete: the four
+concept pages named in the route now cite the actual text files instead of
+landing pages, and every quoted span was re-verified by the supervisor on the new
+carrier this session — Solitude (Thoreau Walden, files/205/205-h/205-h.htm),
+Wu wei (Legge DDJ 37+48, files/216/216-h/216-h.htm), Amour-propre (Rousseau
+Émile Bk IV, files/5427/5427-h/5427-h.htm; Discourse Second Part,
+files/11136/11136-0.txt — this carrier was not named in the route but carried
+the same landing-page defect and was fixed with it), The insatiability of desire
+(Schopenhauer WWR vol.1 §38, files/38427/38427-0.txt — verbatim once Gutenberg
+italic markup (_willing_) is stripped; Dhammapada 338,
+files/2017/2017-h/2017-h.htm). 13 URL replacements; enrich_validate 4/4 ok;
+build green (5964 entries). Out of route scope: the two remaining Wu wei
+blockquotes cite SEP and Edge.org (not Gutenberg) and the Solitude study quote
+cites the journal article — unchanged.
