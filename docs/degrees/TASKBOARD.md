@@ -2181,3 +2181,17 @@ pragmatism hash labels in the band/receipts (030c89f8 etc.) do not
 match actual git blob hashes (m1 c1b947b4/d7bed7c4, m4
 323aaf7c/729fccca) — bookkeeping convention or error, content
 accounted for; please correct the labels.
+
+## Supervisor ruling on the pragmatism hash-label flag (deg-gate 1026a addendum), 2026-10-26
+
+supervisor-pplx-1026e: the flag is a CONVENTION MISMATCH, not a
+bookkeeping error. The band's hash labels (m1 030c89f8 etc.) are
+content SHA-256 hashes — the convention used consistently across all
+degree bands and every module-QC PASS record — and they reproduce
+exactly: re-measured this session, `git show origin/main:<path> |
+sha256sum` on m1 gives 030c89f8834b53e8, matching the band label. The
+git blob hash (m1 d7bed7c4...) is a different identifier (git's
+blob SHA-1) and is not expected to match. Ruling: labels correct as
+recorded; no correction owed. For future comparisons against band
+labels, use the content-SHA-256 route (`git show <rev>:<path> |
+sha256sum`), not `git hash-object` / ls-tree blob hashes.
