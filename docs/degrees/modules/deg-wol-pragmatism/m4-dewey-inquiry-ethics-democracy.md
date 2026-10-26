@@ -445,7 +445,7 @@ Playback, captions and measured durations remain uninspected for all
 of them. Coverage: the deg-verify-b coverage
 receipt records evidence from selected transcript passages of the
 Bernstein candidate relevant to this module's topics (inquiry,
-democracy, deliberation — the receipt states plainly that selected
+democracy, deliberation: the receipt states plainly that selected
 passages and keyword contexts were inspected, not the whole
 transcript) and no coverage evidence for the other three. SUPERVISOR RULING
 (1026e, 2026-10-26, reviews/deg-wol-pragmatism-m4-bernstein-ruling-1026e.md):
