@@ -337,7 +337,11 @@ drafting until the Phase 0 stop-gate conflict is resolved by an authorized
 decision (ruling routed to the live supervisor, supervisor-pplx-1026d, on
 the TASKBOARD and OWNER-BOARD at 02:12Z). The same round approved the
 preparation work below as permitted. All three M2 sources were opened
-THIS session by raw fetch (free access, no paywall):
+THIS session by prompted page fetches, free access, no paywall; the
+Noba response-choice passage was re-fetched and its wording confirmed
+against the returned text; word counts were measured on the extracted
+text; an unprompted re-check of the exact assigned wording is
+recommended at module-writing time (advisor round-2 correction):
 
 1. Noba Functions of Emotions re-opened; byline Hyisung Hwang and David
    Matsumoto confirmed again on the module page; the PD-V13 response-choice
@@ -400,6 +404,72 @@ subject to the stop-gate ruling and advisor verifier rounds):
 - Workload arithmetic will be computed from the measured counts above
   (Noba body 2,794; Martinez-Priego 832 plus 93; Barrett 95) once module
   prose is authorized.
+
+### M1 pedagogical follow-up repairs APPLIED (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:20Z)
+
+The independent pedagogical follow-up (verify/deg-psychdim-m1-followup-
+2026-10-26.md, verifier-af06bd9e, deg-verify-b) returned three bounded
+repairs routed to the production owner; all three are applied to
+modules/deg-psychdim/m1-orientation.md this session, within the
+verifier's bounds, adding no new sources and no new reading burden:
+
+- M1-PED-01 (teach before recall): Step 1 no longer schedules the recall
+  before the teaching; the working definitions and Jordan case now
+  precede the first closed-book attempt by instruction. A taught
+  reflection on the matters/choice/uncertainty move is demonstrated once
+  (Jordan's attention, reusing the rubric exemplar's move) and a partly
+  filled completion example added (Jordan's motivation). Retrieval
+  activity 1 is now explicit: first attempt after Step 2 (practice, not
+  submitted), Step 3 reading as the intervening work, second attempt
+  after Step 3 as the DRAFT of graded deliverable a; graded deliverable a
+  names the final artifact (the second attempt written out cleanly, with
+  the three-part reflection as part of the same deliverable).
+- M1-PED-02 (effect-size outcome matched to L1): Outcome 4 narrowed to
+  reporting the estimate and uncertainty and stating what further
+  information would be needed to judge practical magnitude (the
+  verifier's option two; no unit conversion invented, the 1-to-7 scale
+  noted only as the measurement anchor the paper supplies). The
+  magnitude move is demonstrated in the fully worked appraisal, required
+  in the faded practice and the graded appraisal, and written into
+  rubric criterion 4 (strong example includes the honest cannot-judge
+  answer naming the missing benchmark; rejection case added: copying
+  three numbers is not an appraisal). Standard error and z statistics
+  removed from the required path to an optional note in the worked
+  example, per the verifier's move-unnecessary-detail ruling.
+- M1-PED-03 (assess inclusion, not only exclusion): graded deliverable c
+  now requires the positive coverage (six dimensions as levers plus
+  reading the evidence) before exclusions, owners and admission test;
+  rubric criterion 5's strong example now starts from the positive
+  coverage, and an exclusions-only answer is added to the rejection
+  cases.
+- Workload recalculated per the follow-up: about 4 hours 10 minutes
+  (250 labelled minutes; the 10 minutes of new reflection teaching
+  counted, the graded 60 minutes now labelled per deliverable:
+  25/20/15). Woolley et al. 2025 remains optional further reading; no
+  full-paper reading burden was added.
+- The module header now records the follow-up and this repair revision;
+  the alignment map rows 1 and 4 were updated to match the repaired
+  sequence.
+
+ADVISOR QC ROUND 2 corrections applied (same session, clock measured
+02:18Z): the first-attempt prompt moved to the end of Step 2 and the
+second-attempt prompt to the end of Step 3, with Step 5 describing
+submission only; the taught reflection rewritten onto Jordan's running
+episode (the imported essay-deadline details removed) and the motivation
+completion example now supplies its what-matters answer; the magnitude
+wording no longer implies the rating scales settle the scaling (how the
+coefficient is scaled and what difference would matter are not
+established); a completion-feedback paragraph added after the faded
+practice covering estimate, interval, causal limit and the open
+practical-importance question; the module's verification note now says
+no new external-source assignments rather than no new reading burden.
+
+RECHECK REQUESTED from deg-verify-b (verifier-af06bd9e) and the
+pedagogical reviewer per the follow-up's next-check note: the printed
+learner sequence, one completed appraisal and one exclusions-only scope
+answer. The module remains DRAFT NOT CLEARED; the Phase 0 stop-gate
+conflict is still routed to the live supervisor (supervisor-pplx-1026d)
+for a documented ruling; these repairs gate-clear nothing.
 
 ## Sources opened
 

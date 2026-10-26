@@ -18,7 +18,9 @@ CLEARED; blocked WIP (module production is routed for this degree by the
 supervisor-authored PIPELINE-2026-10-26 per the owner's 2026-10-26 priority
 directive; the ledger's Phase 0 stop-gate note conflicts with that routing
 and is flagged to the live supervisor for a documented ruling; the module
-also awaits independent review).
+also awaits independent review). The independent pedagogical follow-up
+(verify/deg-psychdim-m1-followup-2026-10-26.md) returned three bounded
+repairs, M1-PED-01 to M1-PED-03; this revision applies them.
 
 ## Level and placement
 
@@ -40,8 +42,10 @@ affective dimension).
 3. Name the levels of analysis the model uses (psychological,
    biophysiological, sociocultural) and give one example process at each
    level.
-4. Appraise one study's design, evidence type and effect size using a
-   worked model, stating what the study can and cannot support.
+4. Report one study's design, evidence type, estimate and uncertainty
+   using a worked model, state what the study can and cannot support, and
+   say what further information you would need to judge whether the effect
+   matters in practice.
 5. State what this degree covers and excludes, and for the excluded
    territories that are owned elsewhere, name the owner.
 
@@ -52,8 +56,10 @@ the end shows where.
 
 ### Step 1: the framework reading (Outcomes 1 to 3)
 
-Two short readings carry the whole framework. Read them in this order, and
-do Retrieval activity 1 before your second pass through them.
+Two short readings carry the whole framework. Read them in this order
+first. The working definitions and the demonstration case come in Step 2,
+and your first closed-book recall attempt (Retrieval activity 1) comes
+after that teaching, not before it.
 
 1. [Hofmann and Hayes 2024, "A Process-Based Approach to Transtheoretical
    Clinical Research and Training"](https://pmc.ncbi.nlm.nih.gov/articles/PMC11303929/),
@@ -116,6 +122,34 @@ become part of how Jordan answers "who am I". Motivation: the doctor's
 warning (extrinsic) and the memory of how good the runner's high felt
 (intrinsic) compete to energise the behaviour. Overt behaviour: what
 actually happens, the runs taken or skipped, the shoes worn or left.
+
+Before the case moves on, one habit of reflection gets taught here, because
+the graded work asks it of every example you bring. For each dimension you
+name, you will also state three things: what matters in the case, what the
+framework helps you understand or choose there, and one thing the case
+leaves uncertain. Watch the move once, demonstrated on Jordan's attention.
+What matters in the case: the run is the goal, the evenings are the hours
+that could hold it, and the couch's ease keeps winning those hours. What
+the framework helps with: attention selects which information gets
+processed, so the lever is what the selecting process has to work with,
+the phone left in another room for the run window, rather than willing
+the run to feel urgent while the phone's lights keep interrupting. What
+it leaves uncertain: this case alone cannot tell whether the trouble is
+in selecting, sustaining or shifting attention, and knowing which would
+change the fix. Now complete the same three-part reflection yourself, in
+writing, on Jordan's motivation, where the doctor's warning and the memory
+of the runner's high compete to energise the same behaviour. What matters
+in the case is supplied: the warning is about Jordan's health, the memory
+is about how the pursuit itself once felt, and they point the same
+behaviour in different motivational directions. You supply the other two
+parts: what the framework helps Jordan understand or choose there, and
+one thing the case leaves uncertain. You will use the same three-part
+move on your own examples in the graded deliverable.
+
+Retrieval activity 1, first attempt (closed book, now): from memory,
+write one sentence defining each of the six dimensions, with one example
+of each from your own life. Keep what you write; it is practice and is
+not submitted.
 
 Run the same case through the variation-selection-retention-context frame
 from the Maitland reading. The variation: Jordan tries mornings, lunchtimes
@@ -180,6 +214,11 @@ versus everyday reasoning, falsifiability, induction and deduction,
 research design, null hypothesis significance testing, Type I and Type II
 errors, replication, and what a scientific theory is.
 
+Retrieval activity 1, second attempt (closed book, after the reading):
+from memory, without looking at your first attempt, write the six
+sentences again. This is the draft of graded deliverable a; comparing
+the two attempts shows you what the spacing changed.
+
 Then study the worked appraisal in Step 4 before attempting the faded
 practice in the graded activity.
 
@@ -222,15 +261,26 @@ survey and the follow-up surveys](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428
 
 1. Fully worked (demonstrated). Appraisal of the first result. What was
    found: adherence at the second survey was predicted by intrinsic
-   motivation measured at the first, beta = 0.216, standard error 0.03,
-   z = 6.95, p < .001, 95 percent confidence interval [0.13, 0.30]. The
-   appraisal: the design is longitudinal and correlational, so this is an
+   motivation measured at the first, beta = 0.216, 95 percent confidence
+   interval [0.13, 0.30]. (The paper also reports a standard error and a z
+   statistic for each estimate; you do not need them for this module's
+   moves, so they are left out of the required path. If you meet them
+   elsewhere, the same caution applies: they are not extra evidence of
+   importance.) The appraisal: the design is longitudinal and correlational, so this is an
    observational prediction. The coefficient is an association measured on
    that sample, and its confidence interval gives the range of plausible
    values for that association; under this statistical model the estimate
    reads as a positive association, and that is all the interval shows.
    An interval excluding zero is not protection from bias and not a
-   measure of how much the association matters in practice.
+   measure of how much the association matters in practice. One further
+   move belongs in every appraisal, and this is where it is demonstrated:
+   say what you would need to judge whether this association matters in
+   practice. To judge practical importance, we would need to establish
+   how this coefficient is scaled and what difference on the adherence
+   measure would matter; neither is established by what you have read
+   here. The honest answer at this module's level is to report the
+   estimate and its interval, and to state that practical magnitude
+   cannot be judged from this report alone, naming what would be needed.
    Nothing was
    manipulated, so the study cannot show that intrinsic motivation causes
    adherence; it shows that people who rated their resolutions as more
@@ -247,15 +297,16 @@ extrinsic framing for a health app and measures product scans a day
 later.)
 2. Steps named (partially worked). Appraisal of the second result. What
    was found: adherence at the third survey was predicted by intrinsic
-   motivation at the second, beta = 0.099, standard error 0.03, z = 3.00,
-   p = .003, 95 percent confidence interval [0.04, 0.20]. Before you
+   motivation at the second, beta = 0.099, 95 percent confidence
+   interval [0.04, 0.20]. Before you
    begin the faded practice, one caution about the scale of these
    numbers: the betas are regression coefficients, so they
    are neither percentage improvements nor individual success
    probabilities nor treatment benefits. Your task in
-   the faded practice: name the design, the evidence type, the effect size
-   and its interval, and what this result can and cannot support. The
-   moves are the four you just watched. One difference beyond the
+   the faded practice: name the design, the evidence type, the estimate
+   and its interval, and what this result can and cannot support, then add
+   the magnitude move: what further information you would need to judge
+   whether it matters in practice. One difference beyond the
    numbers: the first prediction had no earlier adherence to adjust
    for, because adherence was not measured at the first survey; this
    second prediction sits in a model that also carries the previous
@@ -271,25 +322,33 @@ needed. For this exercise, report the estimates and their uncertainty,
 and leave the change-over-time question open: whether the association
    genuinely weakened is not settled by the results you have inspected
    ([Greenland and colleagues, misinterpretation 21](https://pmc.ncbi.nlm.nih.gov/articles/PMC4877414/)).
+
+   Feedback to check your faded practice against, once you have written
+   yours: the design is longitudinal and correlational; the estimate is
+   0.099 with an interval from 0.04 to 0.20 on this sample; the result
+   cannot support a causal claim because nothing was manipulated; and
+   the practical-importance question stays open, because how the
+   coefficient is scaled and what difference on the adherence measure
+   would matter are not established by what you have read. An appraisal
+   that names those four things is at this module's bar.
 3. Independent (the graded deliverable). Appraisal of the third result
    and a robustness note. What was found: adherence at the fourth survey
-   was predicted by intrinsic motivation at the third, beta = 0.080,
-   standard error 0.03, z = 2.36, p = .019, 95 percent confidence
-   interval [0.01, 0.15]. The paper also reports that restricting the
+   was predicted by intrinsic motivation at the third, beta = 0.080, 95
+   percent confidence interval [0.01, 0.15]. The paper also reports that
+   restricting the
    analysis to the 577 participants who completed all four surveys gave
    similar results, a sensitivity check on whether people dropping out of
    the survey might account for the pattern. Appraise this result and
-   the robustness note on your own, in writing, using the same four
-   moves.
+   the robustness note on your own, in writing, using the same moves,
+   including the magnitude move.
 
 ### Step 5: practice and assessment (all outcomes)
 
-- Retrieval activity 1 (Outcome 1, spaced): from memory, write one
-  sentence defining each of the six dimensions, with one example of each
-  from your own life. Do this once after your first pass through the
-  Step 1 readings, and again after your second pass, and compare the two
-  attempts. The second pass is a submitted deliverable, self-assessed
-  against rubric criterion 1.
+- Retrieval activity 1 (Outcome 1, spaced, closed book both times): the
+  two attempts were scheduled at the end of Step 2 and the end of Step
+  3, with the Step 3 reading as the intervening work. The second attempt
+  is the draft of graded deliverable a; self-assess it against rubric
+  criterion 1 when you finalise the deliverable.
 - Retrieval activity 2 (Outcome 2, after the second pass): take one
   behaviour of your own that you have tried to change and name its
   variation, its selection, its retention, and the part of your context
@@ -304,19 +363,25 @@ and leave the change-over-time question open: whether the association
 - Graded activity (Outcomes 1, 2, 4 and 5): three deliverables,
   self-assessed with the rubric before submitting; the self-assessment
   step is part of each deliverable.
-  a. The definitions deliverable (Outcome 1): six sentences, one per
-     dimension, each with an example from your own life, plus the
-     variation-selection-retention-context paragraph from Retrieval
-     activity 2 written out cleanly. For each example, also state what
-     matters in the case, what the dimension's framework helps you
-     understand or choose there, and one thing about the case the
-     framework leaves uncertain.
+  a. The definitions deliverable (Outcome 1): your second Retrieval
+     activity 1 attempt written out cleanly as the final version: six
+     sentences, one per dimension, each with an example from your own
+     life, plus the variation-selection-retention-context paragraph from
+     Retrieval activity 2. For each example, also state the three things
+     you practised in Step 2: what matters in the case, what the
+     dimension's framework helps you understand or choose there, and one
+     thing about the case the framework leaves uncertain. The three-part
+     reflection is part of this same deliverable, not a separate one.
   b. The appraisal (Outcome 4): the independent appraisal from Step 4,
      item 3, in 150 to 300 words.
-  c. The scope statement (Outcome 5): one paragraph stating what this
-     degree covers and excludes, in your own words, naming the owner of
-     each excluded territory that is owned elsewhere. Use the
-     bounded-domain statement below as your checklist.
+  c. The scope statement (Outcome 5): one paragraph that states, in
+     your own words, what this degree teaches (the six dimensions as
+     levers on your own walk of life, and how to read the research
+     behind them), then what it excludes, naming the owner of each
+     excluded territory that is owned elsewhere, then the admission test
+     for anything else. An answer that lists only the exclusions does
+     not satisfy this deliverable. Use the bounded-domain statement
+     below as your checklist.
 
 ### The bounded domain, in plain terms
 
@@ -377,29 +442,43 @@ learner can self-check.
    homework before screens." Rejection: labelling the village example
    biophysiological (the selecting agent misidentified), or offering
    three examples all at the psychological level.
-4. The appraisal names design, evidence type, effect size and limits,
-   and states what the result can and cannot support. Strong: "This is a
-   longitudinal correlational prediction; the coefficient is 0.080 with
-   an interval from 0.01 to 0.15, on this sample; it cannot show
-   causation because nothing was manipulated, and the completer analysis
-   is a sensitivity check on drop-out, which is a different question
-   from causation." Rejection: "The study proves intrinsic motivation
-   works because p < .05" (no design named, p value read as proof,
-   causal claim from a correlational design), "the effect is small" with
-   no stated basis for the magnitude claim, or "the authors said the
-   intervals overlap so there is no difference" (deferring to a
-   shortcut that is not a test of the difference).
-5. The scope statement names the three owned exclusions with their owners
-   and states the admission test for the rest, in the learner's own
-   words. Strong: "This degree excludes wellbeing as a separate
-   outcome-science subject, which the Positive Psychology walk owns;
-   treatment protocols stay with the legacy therapeutic material;
-   contemplative doctrine stays with the contemplative practica; and
-   anything that merely fits the topic, like
-   the attraction material, is out unless a learner need is
+4. The appraisal names design, evidence type, estimate and interval,
+   limits, what the result can and cannot support, and what further
+   information would be needed to judge practical magnitude. Strong:
+   "This is a longitudinal correlational prediction; the coefficient is
+   0.080 with an interval from 0.01 to 0.15, on this sample; it cannot
+   show causation because nothing was manipulated, and the completer
+   analysis is a sensitivity check on drop-out, which is a different
+   question from causation; and I cannot judge whether an association of
+   this size matters in practice from this report alone, because how the
+   coefficient is scaled and what difference on the adherence measure
+   would matter are not established by what I have read." Rejection: "The study proves intrinsic
+   motivation works because p < .05" (no design named, p value read as
+   proof, causal claim from a correlational design), copying the
+   coefficient, standard error and p-value without the design, the
+   limits or the magnitude statement (three numbers are not an
+   appraisal), "the effect is small" with no stated basis for the
+   magnitude claim, or "the authors said the intervals overlap so there
+   is no difference" (deferring to a shortcut that is not a test of the
+   difference).
+5. The scope statement states the degree's positive coverage in the
+   learner's own words (the six dimensions as levers on the learner's own
+   life, and the reading of the evidence behind claims that reach it),
+   then names the three owned exclusions with their owners, then states
+   the admission test for the rest. Strong: "This degree teaches the six
+   dimensions (affect, cognition, attention, self, motivation, overt
+   behaviour) as levers for reading and changing my own episodes, and
+   how to appraise the research behind claims that reach my life; it
+   excludes wellbeing as a separate outcome-science subject, which the
+   Positive Psychology walk owns, treatment protocols, which stay with
+   the legacy therapeutic material, and contemplative doctrine, which
+   stays with the contemplative practica; anything that merely fits the
+   topic, like the attraction material, is out unless a learner need is
    stated." Rejection: "This degree covers everything about psychology"
-   (no exclusions named), or naming only one or two of the three owned
-   exclusions.
+   (no exclusions named), naming only one or two of the three owned
+   exclusions, or an answer that names every exclusion and its owner
+   correctly but never states what the degree teaches (the positive
+   half of the outcome unassessed).
 
 ## Workload arithmetic
 
@@ -419,15 +498,21 @@ learner can self-check.
 - The Jordan case and the six-dimension teaching on this page: about 15
   minutes of careful reading (estimate).
 - Worked example study and faded practice: about 30 minutes (estimate).
+- The taught reflection and its completion example in Step 2: about 10
+  minutes (estimate).
 - Retrieval activities and the levels exercise: about 30 minutes
-  (estimate).
-- Graded deliverables including self-assessment: about 60 minutes
-  (estimate).
+  (estimate); the two Retrieval activity 1 attempts are inside this
+  allowance.
+- Graded deliverables including the self-assessment step that is part of
+  each: about 60 minutes total (estimate, labelled per deliverable):
+  definitions deliverable about 25 minutes, appraisal about 20 minutes,
+  scope statement about 15 minutes.
 
-Total: about 4 hours (about 240 minutes of labelled components: 105
-reading study including the correction passage, 15 case study, 30 worked
-example and faded practice, 30 retrieval
-and levels, 60 graded). Optional further reading (the rest of Maitland
+Total: about 4 hours 10 minutes (about 250 minutes of labelled
+components: 105 reading study including the correction passage, 15 case
+study, 10 reflection teaching and completion example, 30 worked example
+and faded practice, 30 retrieval and levels, 60 graded with the
+per-deliverable allowances above). Optional further reading (the rest of Maitland
 2024, or the later studies of Woolley et al. 2025) is not counted. The
 Woolley et al. 2025 material in Step 4 is not required reading: the
 worked example quotes the study's numbers in module prose, and the
@@ -458,12 +543,20 @@ misinterpretation; free on PMC). All are free to access with no paywall. No vide
 so no segment durations apply. No imported labels remain on attached
 sources.
 
+The pedagogical follow-up repairs (M1-PED-01 to 03,
+verify/deg-psychdim-m1-followup-2026-10-26.md) add no new sources and no
+new external-source assignments: every repair reuses material already
+verified above,
+the Woolley et al. 2025 paper remains optional further reading, and the
+standard error and z statistics were removed from the required path, not
+added to it.
+
 ## Alignment map
 
 | Outcome | Taught in | Practised in | Assessed in |
 |---|---|---|---|
-| 1 Six dimensions | Step 1 readings; Step 2 teaching and Jordan case | Retrieval activity 1 | Rubric criterion 1 (definitions deliverable) |
+| 1 Six dimensions | Step 1 readings; Step 2 teaching, Jordan case and taught reflection | Retrieval activity 1 (two closed-book attempts) | Rubric criterion 1 (definitions deliverable) |
 | 2 VSR-C frame | Step 1 readings; Step 2 Jordan case | Retrieval activity 2 | Rubric criterion 2 (definitions deliverable) |
 | 3 Levels of analysis | Step 1 readings; Step 2 levels paragraph | Levels exercise | Rubric criterion 3 (levels exercise) |
-| 4 Study appraisal | Step 3 Noba reading; Step 4 worked example | Step 4 faded practice | Rubric criterion 4 (appraisal deliverable) |
+| 4 Study appraisal | Step 3 Noba reading; Step 4 worked example with magnitude move | Step 4 faded practice | Rubric criterion 4 (appraisal deliverable) |
 | 5 Scope statement | Bounded domain section | Drafting in the graded activity | Rubric criterion 5 (scope deliverable) |

@@ -6,6 +6,6 @@
   "modules": {
     "m1-orientation": "draft-not-cleared; blocked WIP pending Phase 0 stop-gate ruling; advisor QC rounds 1-3 applied; deg-verify-b audit findings V01-V05 applied; five outcomes taught/practised/assessed; workload about 4h on measured word counts"
   },
-  "notes": "2026-10-26 (worker-pplx-degpsychdim-1026a, 02:14Z): M2 PREPARATION COMPLETE and recorded in the ledger (all three M2 sources opened this session by raw fetch; passages read verbatim and measured: Noba body 2,794 + PD-V13 passage 94 words, Martinez-Priego PD-V10 assignment 832 + proposed Gross-model paragraph 93 words, Barrett PD-V06 sidebar paragraph 95 words; design proposals recorded for account-comparison, process-model bounds and response-choice exercise). NO module prose written: advisor planner round 1 blocked M2 drafting until the Phase 0 stop-gate ruling; routed to live supervisor supervisor-pplx-1026d at 02:12Z. Both gates remain cleared; only the stop-gate holds. Enrichment supervisor baton clobber from my rebase repaired at 02:11Z.",
-  "updated": "2026-10-26T02:14:00Z"
+  "notes": "2026-10-26 (worker-pplx-degpsychdim-1026a, 02:20Z): M1 pedagogical follow-up repairs M1-PED-01/02/03 APPLIED to m1-orientation.md within the verifier's bounds (no new sources or reading burden; workload recalculated to about 4h10m; ledger records the per-finding resolutions). Recheck requested from deg-verify-b per the follow-up's next-check note. M2 preparation complete (earlier note). Both gates cleared; the Phase 0 stop-gate conflict remains routed to the live supervisor supervisor-pplx-1026d for a documented ruling; M1 remains DRAFT NOT CLEARED.",
+  "updated": "2026-10-26T02:20:00Z"
 }
