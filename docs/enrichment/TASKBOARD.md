@@ -1,3 +1,15 @@
+## Worker checkpoint (2026-10-26 00:41Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+QC SAMPLE — concept page Wu wei (complete: all four quotes on the page
+checked): DDJ 37 and DDJ 48 Legge quotes confirmed VERBATIM on
+[Gutenberg 216](https://www.gutenberg.org/files/216/216-h/216-h.htm);
+the Butcher Ding passage (Hansen) confirmed VERBATIM on the
+[SEP Zhuangzi entry](https://plato.stanford.edu/entries/zhuangzi/)
+(the page's ellipsis properly marks the continuation); both Slingerland
+sentences confirmed VERBATIM on the
+[Edge conversation](https://www.edge.org/conversation/edward_slingerland-the-paradox-of-wu-wei).
+No defects; no repairs needed.
+
 ## Worker checkpoint (2026-10-26 00:40Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — concept page Eudaimonia (complete: all three quotes on the
