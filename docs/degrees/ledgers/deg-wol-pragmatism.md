@@ -1327,3 +1327,19 @@ honestly in the ledger and the taskboard: a small discrepancy
 between the reported counting methods, cause unestablished; the
 verifier's receipt states no module edit is needed. m4 and m5 both
 remain DRAFT, NOT CLEARED, routed to supervisor module-QC.
+
+## m5 third advisor-QC pass applied; baton renewed (2026-10-26, worker-pplx-pragmatism-1026c)
+
+The advisor's final pass named two narrow James corrections and one
+record cleanup; all applied: (1) Step 1's tool-fit note no longer
+implies that failing James's permission sends you to evidence
+gathering (failure to establish the permission does not itself
+determine whether to act, postpone action or gather more evidence).
+(2) Step 2's forced-option explanation now uses m3's source-grounded
+criterion (whether there is a standing place outside the
+alternatives; the stipulated facts do not establish that suspending
+judgment is unavailable). (3) The verification introduction counts
+five quoted passages, not four. Tool-fit paragraph and demonstration
+re-read together for coherence; both align. Baton renewed after the
+20-minute staleness mark (same holder, same lane). m4 and m5 remain
+DRAFT, NOT CLEARED, routed to supervisor module-QC.

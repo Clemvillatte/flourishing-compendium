@@ -83,9 +83,10 @@ you commit to it:
   incomplete evidence and both branches are live (m3). Incomplete
   evidence alone does not establish the permission: the tests are
   what decide it, and m3's distinction holds, that a deadline can
-  force an action without forcing the belief. If the tests are not
-  met, the decision belongs to the evidence, and you should gather
-  it instead.
+  force an action without forcing the belief. Failure to establish
+  the permission does not itself determine whether to act, postpone
+  action or gather more evidence; it removes one special license,
+  and the choice among those remains yours to make with reasons.
 - The rehearsal and consultation fit where action is blocked by a
   conflict of habits, or where others share the consequences (m4).
 
@@ -114,10 +115,11 @@ and note that not all of them are needed:
 3. The genuine-option tests, run on the propositions: live is
    plausibly met (the proposition and its denial both appeal as
    real possibilities to this person). Forced is not established on
-   these facts (the stipulated case names no standing place that
-   vanishes if the belief is suspended, and a departure deadline
-   can force an action without forcing the belief, as m3 read
-   James). Momentous is not established (the stipulated facts name
+   these facts: the test, as m3 read James, is whether there is a
+   standing place outside the alternatives, and the stipulated facts
+   do not establish that suspending judgment is unavailable (a
+   departure deadline can force an action without forcing the
+   belief). Momentous is not established (the stipulated facts name
    no unique, non-repeatable stake). And the thesis's second
    condition fails on its face: James's permission covers only "a
    genuine option that cannot by its nature be decided on
@@ -273,7 +275,7 @@ ledger.
 ## Verification status of attached sources
 
 The module attaches no new sources. It reuses assignments from m1 to
-m4 and quotes four passages, each verified this session on its
+m4 and quotes five passages, each verified this session on its
 primary source:
 
 - Peirce's maxim, "Consider what effects, which might conceivably
