@@ -138,8 +138,8 @@
    },
    {
     "source_id": "PD-M3-07",
-    "role": "teach",
-    "assignment": "Bazerman, Judgment and Decision Making (Noba) - bounded companion per m3 doc (verify exact span against the m3 companion list; the doc lists Bouton/McDermott-Roediger/Ehring explicitly - confirm whether Bazerman is assigned in m3 or is a data-block extra)",
+    "role": "data-block-extra",
+    "assignment": "Bazerman, Judgment and Decision Making (Noba) - NOT found in the m3 module doc (grep count 0); no assignment basis. Data-block extra: remove or find its assignment basis.",
     "kind": "reading"
    },
    {
@@ -231,30 +231,26 @@
    {
     "source_id": "PD-M5-07",
     "role": "teach",
-    "assignment": "Diener and Lucas, Personality Traits (Noba) - assigned selections incl. person/situation qualification, stability/variation",
-    "kind": "reading",
-    "verify_reading_assignment": true
+    "assignment": "Diener and Lucas, Personality Traits (Noba) - VERIFIED present: person/situation qualification and stability/variation selections assigned",
+    "kind": "reading"
    },
    {
     "source_id": "PD-M5-05",
     "role": "teach",
-    "assignment": "Manchiraju 2026, self-concept clarity review - assigned span (verify against m5 doc)",
-    "kind": "reading",
-    "verify_reading_assignment": true
+    "assignment": "Manchiraju 2026 - present in m5 doc; m5 required-reading budget ~1,700-2,000 words incl. Noba selections and the instrument - verify exact span",
+    "kind": "reading"
    },
    {
     "source_id": "PD-M5-06",
     "role": "teach",
-    "assignment": "Branje et al. 2021, identity development 2010-2020 - assigned span (verify against m5 doc)",
-    "kind": "reading",
-    "verify_reading_assignment": true
+    "assignment": "Branje et al. 2021 - present in m5 doc; verify exact span within the reading budget",
+    "kind": "reading"
    },
    {
     "source_id": "PD-M5-08",
     "role": "teach",
-    "assignment": "Campbell et al. 1996, Self-Concept Clarity Scale - assigned span (verify against m5 doc)",
-    "kind": "reading",
-    "verify_reading_assignment": true
+    "assignment": "Campbell et al. 1996 SCC Scale - present in m5 doc (the instrument); assigned with the reading budget",
+    "kind": "reading"
    }
   ],
   "mod-pd-6": [
@@ -285,9 +281,8 @@
    {
     "source_id": "PD-M6-04",
     "role": "teach",
-    "assignment": "Ryan and Deci 2020, intrinsic and extrinsic motivation from an SDT perspective - assigned span (verify against m6 doc)",
-    "kind": "reading",
-    "verify_reading_assignment": true
+    "assignment": "Ryan and Deci 2020 SDT - present in m6 doc; m6 reading budget ~1,300-1,700 words - verify exact span",
+    "kind": "reading"
    }
   ],
   "mod-pd-7": [
@@ -329,38 +324,33 @@
    },
    {
     "source_id": "PD-M7-09",
-    "role": "teach",
-    "assignment": "Alarcon-Espinoza et al. 2022, emotional self-regulation in everyday life - assigned span (verify against m7 doc)",
-    "kind": "reading",
-    "verify_reading_assignment": true
+    "role": "data-block-extra",
+    "assignment": "Alarcon-Espinoza et al. 2022 - NOT found in the m7 module doc or any psychdim module doc (grep count 0 across modules); no assignment basis found. Data-block extra: remove or find its assignment basis (ledger records it as opened).",
+    "kind": "reading"
    },
    {
     "source_id": "PD-M7-04",
     "role": "teach",
-    "assignment": "Carden and Wood 2018, habit formation and change - assigned span (verify against m7 doc)",
-    "kind": "reading",
-    "verify_reading_assignment": true
+    "assignment": "PD-M7-04 paper - present in m7 doc (grep hit); verify exact assigned span",
+    "kind": "reading"
    },
    {
     "source_id": "PD-M7-05",
     "role": "teach",
-    "assignment": "Singh et al. 2024, health-behaviour habit formation meta-analysis - assigned span (verify against m7 doc)",
-    "kind": "reading",
-    "verify_reading_assignment": true
+    "assignment": "PD-M7-05 paper - present in m7 doc (grep hit); verify exact assigned span",
+    "kind": "reading"
    },
    {
     "source_id": "PD-M7-06",
     "role": "teach",
-    "assignment": "Werner and Berkman 2024, motivational dynamics of self-control - assigned span (verify against m7 doc)",
-    "kind": "reading",
-    "verify_reading_assignment": true
+    "assignment": "PD-M7-06 paper - present in m7 doc (grep hit); verify exact assigned span",
+    "kind": "reading"
    },
    {
     "source_id": "PD-M7-07",
     "role": "teach",
-    "assignment": "Reed, Combs and Segerstrom 2020, structure of self-regulation - assigned span (verify against m7 doc)",
-    "kind": "reading",
-    "verify_reading_assignment": true
+    "assignment": "PD-M7-07 paper - present in m7 doc (grep hit); verify exact assigned span",
+    "kind": "reading"
    }
   ],
   "mod-pd-8": [
