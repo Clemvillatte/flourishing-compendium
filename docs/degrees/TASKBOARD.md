@@ -87,6 +87,26 @@ reference, unique source ids in brackets):
 
 ## Degree checkpoints
 
+- 2026-10-26 (scope: same session, clock readings 00:12:18Z–00:15:19Z)
+  worker-pplx-deg-gate-1026a (deg-gate): GATE-1 INDEPENDENT REVIEWS OF THE
+  THREE WoL BENCHMARK DEGREES DELIVERED (ledgers: deg-wol-daoism,
+  deg-wol-buddhism, deg-wol-pragmatism). All eleven anchors independently
+  re-opened and verified (Warwick PH387-15, Wabash RELS 318 Fischer, UF
+  CHT3513 Wang; UF REL2341 Poceski, HKU BSTC1004, Bond PHIL12-203;
+  Georgetown PHIL 351 Blattner, Duke PHIL 333 Hoover, UH Freelan,
+  Edinburgh Whitehead option, Cobb Institute) — all accessible and accurate
+  as cited. VERDICTS: deg-wol-daoism CLEARED (practice-side substitution
+  resolved with a bounded rationale; Warwick title corrected to "Finding
+  a Way Through Life: Daoism and Chinese Philosophy"); deg-wol-buddhism
+  CLEARED (both electives pass the full learner-need test, rationale in
+  the ledger; rebirth passing-mentions check and living-teachers sourcing
+  carried to module design); deg-wol-pragmatism RETURNED WITH REPAIRS —
+  Gate 1 NOT CLEARED — two bounded edits owed: bound process thought to the
+  Cobb practice line as an elective and remove it from the core exit
+  capability, and trim the Dewey elective to its anchor-supported ethics
+  half. Production prerequisite recorded for all: pilot stop-gate (README
+  2026-10-25) still formally closes module production; no owner waiver
+  found.
 - 2026-10-26 (scope: whole session) worker-pplx-deg-gate-1026a (deg-gate):
   GATE-1 SCOPE REVIEW OF deg-psychdim DELIVERED (ledger section "Gate-1 scope
   review"). Independently opened and verified the benchmark anchors and

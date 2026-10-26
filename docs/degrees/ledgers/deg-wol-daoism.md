@@ -10,6 +10,9 @@ carries a UTC timestamp and the agent id.
 | https://courses.warwick.ac.uk/modules/2021/PH387-15 | 2026-10-25, before the 11:25:56 UTC session save | strategist-pplx-1025-launch-c | Warwick PH387-15 aims and full outline syllabus; philosophical/political Daoism, no religious content |
 | https://wabashcenter.wabash.edu/storage/assets/syllabi/Daoism-Fischer.pdf | 2026-10-25, before the 11:25:56 UTC session save | strategist-pplx-1025-launch-c | Wabash RELS 318 Fischer syllabus; philosophy core plus Celestial Master and Quanzhen religious Daoism |
 | https://languages.ufl.edu/wp-content/uploads/sites/119/Fall22_CHT3513_Wang.pdf | 2026-10-25, before the 11:25:56 UTC session save | strategist-pplx-1025-launch-c | UF CHT3513 Wang Fall 2022 syllabus; full-spectrum tradition, readings and assessment structure |
+| https://courses.warwick.ac.uk/modules/2021/PH387-15 | 2026-10-26, between the 00:12:18Z save push and the 00:15:19Z clock reading | worker-pplx-deg-gate-1026a (deg-gate) | independent re-open for Gate 1: page title is "Finding a Way Through Life: Daoism and Chinese Philosophy" (module PH387-15); political Daodejing, Zhuangzi skill stories and wu wei, Art of War, environmental ethics all confirmed present |
+| https://wabashcenter.wabash.edu/storage/assets/syllabi/Daoism-Fischer.pdf | 2026-10-26, between the 00:12:18Z save push and the 00:15:19Z clock reading | worker-pplx-deg-gate-1026a (deg-gate) | independent re-open for Gate 1: RELS 318 Spring 2013 Fischer; Laozi and Zhuangzi primary readings confirmed; Celestial Master (week 2) and Quanzhen (weeks 9–10, incl. asceticism, cultivation of health and longevity) confirmed |
+| https://languages.ufl.edu/wp-content/uploads/sites/119/Fall22_CHT3513_Wang.pdf | 2026-10-26, between the 00:12:18Z save push and the 00:15:19Z clock reading | worker-pplx-deg-gate-1026a (deg-gate) | independent re-open for Gate 1: CHT 3513 Fall 2022 Wang confirmed; Daodejing/Zhuangzi then Han cosmology, Celestial Master, Shangqing, Lingbao, Quanzhen, Zhengyi, ritual, women in Daoism, festivals, art all confirmed |
 
 Note: Timestamps in this table are upper bounds from this session's save pushes; exact fetch minutes were not recorded (archive-file mtimes are archive-write times, not open times).
 
@@ -35,8 +38,47 @@ All teaching, practice and assessment mappings in this matrix are proposals; thi
 | Qigong body practice | qigong practicum (mod-qg-1..3; proposed mapping) | practicum (proposed) | practicum (proposed) |
 | Neiye elective (inward training) | scope (elective) | proposed | proposed |
 
+## Gate-1 independent review (2026-10-26, worker-pplx-deg-gate-1026a, deg-gate baton)
+
+All three benchmark anchors were independently re-opened this session (rows
+above) and match the scope doc's descriptions. One correction for the
+record: the Warwick module's own title is "Finding a Way Through Life:
+Daoism and Chinese Philosophy", not "Daoism: The foundational texts" — the
+ledger and any downstream citations should use the verified title (which,
+notably, strengthens the walk-of-life centering).
+
+Verdict against the owner's 2026-10-26 centering clause: the intended learner
+is a person walking the Daoist path as a way of living; exit capabilities
+are applied (read core texts with guidance for daily life, practise the arts
+of living, write a personal synthesis against one serious objection) —
+walk-of-life centered and value-proposition aligned. Scope is finite and the
+electives carry stated learner needs (qigong practicum for the body side;
+Neiye as the non-ritual contemplative bridge), not topical fill. The anchor
+challenges (religious-tradition teaching not mapped; political Daodejing
+strand omitted) are recorded in the scope doc as deliberate choices, which
+is exactly what the finite-scope clause requires.
+
+GATE 1 CLEARED (scope benchmark; independent review) — the practice-side
+question the scope doc explicitly poses to this gate (whether the
+qigong/Neiye substitution adequately carries "the living tradition's
+practices") is RESOLVED with a bounded rationale: the bounded domain's
+practice promise is set by the exit capabilities — "practise the basics of
+the Daoist arts of living" — not by the full institutional tradition. The
+qigong practicum carries the body-cultivation side (the anchors' closest
+analogue is the Quanzhen cultivation of health and longevity, confirmed at
+Wabash weeks 9-10) and the Neiye carries the inward-training side; neither
+requires the ritual, liturgical or institutional material the owner rule
+excludes. If the owner later wants the monastic/ascetic strand, it can slot
+in as an elective branch. With that resolution the scope is coherent,
+finite and walk-centered. Carried forward, not gate-blocking:
+
+- Same unresolved production prerequisite as the other degrees: module
+  production formally closed until the pilots pass independent review or
+  the owner waives the stop-gate (README, 2026-10-25).
+
 ## Gate decisions
 
 | gate | decision | by | date |
 |---|---|---|---|
 | Gate 1 (scope benchmark) | groundwork done: three anchors opened, benchmark section written in docs/degrees/scope/deg-wol-daoism.md; Gate 1 remains open; independent review required (no gate-1 assignment was located in the repo instructions this session); groundwork only, no gate cleared | strategist-pplx-1025-launch-c | 2026-10-25 |
+| Gate 1 (scope, independent review) | CLEARED: anchors re-opened and verified (Warwick title corrected to "Finding a Way Through Life: Daoism and Chinese Philosophy"); practice-side substitution question resolved with a bounded rationale (qigong + Neiye carry the exit-capability practice promise; monastic strand available as a future elective); centering and finite scope pass | worker-pplx-deg-gate-1026a (deg-gate) | 2026-10-26 |
