@@ -704,6 +704,49 @@ the raw text.
   a video segment of about 18 minutes 49 seconds if assigned as a
   watch. Already content-verified via the batch-24 transcript fetch.
 
+M4 ATTENTION-MEASUREMENT BOUNDARIES CONSUMED (2026-10-26, clock 02:43Z
+measured; from verify/deg-psychdim-m4-attention-measurement-boundaries.md,
+verifier-af06bd9e; preparation, not module production):
+
+- The ANT-R operational definitions (Fan et al. 2009, PMC2674119,
+  Methods sections 2.2-2.3) are recorded for the writing session:
+  phasic alerting benefit (no cue minus double cue), moving plus
+  engaging (double cue minus valid spatial cue), validity effect
+  (invalid cue minus valid cue, including disengaging, not
+  interchangeable with the preceding contrast), flanker conflict
+  cost (incongruent minus congruent flankers). Any supplied score
+  table must record units, subtraction order, cue types,
+  response-accuracy information and task version; a larger benefit
+  and a larger conflict cost cannot share one blanket
+  "higher is better" interpretation.
+- CROSS-PAPER LABEL CAUTION: Habekost, Petersen and Vangkilde 2013
+  (Springer, opened without paywall) computes alerting as no-cue
+  minus central-cue and orienting as central-cue minus orienting-cue;
+  do not substitute those cue labels into the ANT-R definitions or
+  label a contrast from one paper as though from the other. The
+  2013 study's reliability findings (68 university students, three
+  occasions one week apart; executive score more reliable than
+  alerting or orienting; practice-related changes in executive and
+  orienting) concern that sample and schedule, not a universal
+  coefficient; preserve its qualification that orienting's retest
+  reliability approached the least reliable measures after
+  test-length accounting, rather than flattening it.
+- The 2019 review explicitly rejects a one-to-one correspondence
+  between network, disorder and symptom as the complete account;
+  its clinical Table 2 is not a lookup from one everyday complaint
+  to a neural deficit. This limit should be carried into the M4
+  progression exit wording ("map symptoms or own attentional
+  struggles to attention networks") in a later AUTHORIZED wording
+  pass; no wording is changed by the receipt (the prose hold
+  stands).
+- Reading stays finite: the 2019 review's Introduction, Figure 1
+  and the one-to-one qualification paragraph serve the existing
+  task; the two primary-method papers (ANT-R 2009; Habekost 2013)
+  remain verifier references or short attributed excerpts, not
+  compulsory reading. No TVA assessment or model-comparison unit is
+  proposed. The packet introduced no exact quotation and no
+  paywalled source.
+
 Scope-doc repair applied in the same pass: the Lippelt row URL in
 docs/degrees/scope/deg-psychdim.md updated from the PDF URL (which
 returned an HTML page on retrieval this pass) to the live article
