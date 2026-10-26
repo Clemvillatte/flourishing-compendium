@@ -1,4 +1,10 @@
 
+## VERIFICATION CHECKPOINT (2026-10-26 00:41Z, sup-1026b — right-speech dossier quote sample)
+
+2/2 verbatim against freshly opened carriers: Thanissaro SN 45.8 (right
+speech definition exact) and MN 58 (the sympathy-for-the-young-boy passage
+exact). Session total 30 verbatim spans across 17 sampled pages.
+
 ## VERIFICATION CHECKPOINT (2026-10-26 00:39Z, sup-1026b — others dossier quote sample)
 
 2/2 verbatim against freshly opened carriers: Cacioppo & Hawkley 2009 (PMC
