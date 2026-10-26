@@ -20,27 +20,27 @@ Sources surfaced but NOT opened (kept as a labelled research queue, not load-bea
 
 ## Topic map (union of the sources, organized as a coherent walk)
 
-The sources triangulate on the same structure: (a) foundations and the history of well-being, (b) positive emotions and subjective well-being, (c) character strengths and virtues, (d) meaning, purpose and eudaimonic well-being, (e) relationships, (f) applied interventions, (g) institutions (education, healthcare, workplace, community) and future directions. The union below is the positive-psychology-walk-of-life curriculum.
+The sources triangulate on the same structure: (a) foundations and the history of well-being, (b) positive emotions and subjective well-being, (c) character strengths and virtues, (d) meaning, purpose and eudaimonic well-being, (e) relationships, (f) applied interventions, (g) institutions (education, healthcare, workplace, community) and future directions. The union below is the positive-psychology-walk-of-life curriculum. NOTE: the specific theoretical frameworks (PERMA, Broaden-and-Build, VIA, resilience/PTG, intrinsic motivation) named in the matrix below are RESEARCH-QUEUE items not established from the opened syllabus headings; they must each be sourced from an opened primary source before entering a module.
 
 ### A. Foundations
-- Introduction to positive psychology; the shift from pathology to optimal functioning; PERMA [Charter Oak wk 1; Sydney wk 1]
+- Introduction to positive psychology; the shift from pathology to optimal functioning [Charter Oak wk 1 is "Positive Psychology and Well-Being—Cultural Perspectives"; Sydney wk 1 is "Introduction to Positive Psychology; Well-Being; Positive Emotions" — the PERMA model specifically is NOT named in either heading and must be sourced from an opened primary source before it enters the matrix as established]
 - Short history of well-being (hedonic vs eudaimonic; philosophical roots) [Sydney wk 1; Aberystwyth wk 2]
 - Cultural perspectives on well-being [Charter Oak wk 1]
 
 ### B. Positive emotions and subjective well-being
-- Positive emotions and intrinsic motivation; Broaden-and-Build [Sydney wk 1]
-- Subjective well-being; happiness; PERMA model [Sydney wk 1]
+- Positive emotions [Sydney wk 1 — "Positive Emotions" is the seminar topic; the specific theories (Broaden-and-Build, intrinsic motivation) are NOT named in the heading and must be sourced from an opened primary source before they enter the matrix as established]
+- Subjective well-being; happiness [Sydney wk 1 — "Well-Being" is the seminar topic; the PERMA model specifically is NOT named in the heading]
 - Savoring, flow, mindfulness, motivation [Charter Oak wk 4]
 - Gratitude, hope, optimism [Charter Oak wk 3]
 - Positive coping; wellness and health psychology [Sydney wk 4 (healthcare)]
 - Cognition in positive psychology [Sydney wk 2]
 
 ### C. Character, traits and the positive self
-- Goals and strengths; VIA character strengths [Charter Oak wk 2; Sydney wk 2]
+- Goals and strengths [Charter Oak wk 2 is "Goals and Strengths"; Sydney wk 2 is "Strengths; Meaning; Cognition" — the VIA classification specifically is NOT named in either heading and must be sourced from an opened primary source before it enters the matrix as established]
 - Emotional intelligence [Charter Oak wk 5]
 - Giftedness, creativity, wisdom — the positive self [Charter Oak wk 6]
 - Positive mental health: thriving and flourishing [Sydney wk 1 (well-being)]
-- Resilience and post-traumatic growth [Sydney wk 5 (recent topics); UNI FAMS 2403 — surfaced but NOT opened, research-queue item]
+- Resilience and post-traumatic growth [research-queue item — NOT established from the opened syllabus headings (Sydney wk 5 "Recent topics" does not name it); must be sourced from an opened primary source before it enters the matrix as established]
 
 ### D. Meaning, purpose and eudaimonic well-being
 - Meaning and purpose; meaning in making [Sydney wk 2; Aberystwyth wk 7]
@@ -73,7 +73,7 @@ The module numbering below is PROPOSED for the D2 checkpoint review. This degree
 
 | Topic | Proposed module | Status | Notes |
 |---|---|---|---|
-| Foundations + history of well-being + PERMA | mod-pos-1 (new) | MISSING | |
+| Foundations + history of well-being + PERMA | mod-pos-1 (new) | MISSING | the PERMA model is NOT established from the opened syllabus headings — research-queue item |
 | Cultural perspectives + Eastern/Western views | mod-pos-1 | MISSING | |
 | Positive emotions + intrinsic motivation + Broaden-and-Build | mod-pos-2 (new) | MISSING | the specific theories (Broaden-and-Build, intrinsic motivation) are NOT established from the opened syllabus headings — research-queue items |
 | Subjective well-being + happiness measurement | mod-pos-2 | MISSING | |
