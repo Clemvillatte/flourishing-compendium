@@ -18386,23 +18386,23 @@ window.fcDossiersData = {
         },
         {
           "t": "h2",
-          "x": "Does intelligence stop mattering for creativity above a threshold?"
+          "x": "Does evidence support an intelligence threshold for creative potential?"
         },
         {
           "t": "p",
-          "x": "The threshold hypothesis says intelligence and creativity travel together only up to a point, near an IQ of 120, and part ways above it. The field's meta-analysis and its breakpoint study give opposite answers to the same question."
+          "x": "The threshold hypothesis says intelligence and creativity travel together only up to a point, near an IQ of 120, and part ways above it. The field's meta-analysis and its breakpoint study reach conflicting conclusions about that same scoped hypothesis."
         },
         {
           "t": "p",
-          "x": "Kim pooled every usable correlation the literature offered, 447 coefficients from 21 studies and 45,880 participants, and read the verdict off the pooled number: \"The mean correlation coefficient was small (r = .174; 95% CI = .165 – .183), but heterogeneous; this correlation coefficient indicates that the relationship between creativity test scores and IQ scores is negligible\" — and \"This study does not support threshold theory\" ([Kim 2005, Can Only Intelligent People Be Creative? A Meta-Analysis, full text](https://files.eric.ed.gov/fulltext/EJ698316.pdf))."
+          "x": "Kim pooled 447 correlation coefficients from 21 studies and 45,880 participants, and tested the threshold directly: \"IQ below (r = .201) and above 120 (r = .235) were not statistically different either, χ2 = 2.004, p = .157\" — and, in the abstract's words, \"This study does not support threshold theory\" ([Kim 2005, Can Only Intelligent People Be Creative? A Meta-Analysis, full text](https://files.eric.ed.gov/fulltext/EJ698316.pdf))."
         },
         {
           "t": "p",
-          "x": "Jauk, Benedek, Dunst and Neubauer went after the threshold with segmented regression instead of a fixed split, and found it: \"We found thresholds only for measures of creative potential but not for creative achievement\", and \"These results confirm the threshold hypothesis for qualitative indicators of creative potential and may explain some of the observed discrepancies in previous research\" ([Jauk et al. 2013, Intelligence, full text](https://www.psyris.be/wp-content/uploads/2019/12/Jauk2013.pdf)). The disagreement runs through the measures: Kim's pooled correlations were heterogeneous, and Jauk's thresholds held for creative potential but not for achievement — each paper marks where its method reaches and stops."
+          "x": "Jauk, Benedek, Dunst and Neubauer went after the threshold with segmented regression instead of a fixed split, and found it: \"We found thresholds only for measures of creative potential but not for creative achievement\", and \"These results confirm the threshold hypothesis for qualitative indicators of creative potential and may explain some of the observed discrepancies in previous research\" ([Jauk et al. 2013, Intelligence, full text](https://www.psyris.be/wp-content/uploads/2019/12/Jauk2013.pdf)). Their support is bounded: it holds for specified indicators of creative potential, and the paper reports no threshold for creative achievement. Kim's pooled correlations were heterogeneous, which the paper itself flags; the two camps locate the disagreement partly in the measures, and each paper marks where its method reaches and stops."
         },
         {
           "t": "p",
-          "x": "For someone making things, the question is practical: whether being quicker than average buys anything creative, and whether more quickness buys more. The honest reading is that the answer depends on what is being produced — fluency, original ideas, or achievements that others judge — and the sources say so themselves."
+          "x": "For someone making things, the question is practical: whether the intelligence a person brings sets a floor under their creative potential. The honest reading is that the answer depends on what is being produced — fluency, original ideas, or achievements that others judge — and the sources say so themselves."
         },
         {
           "t": "h",
