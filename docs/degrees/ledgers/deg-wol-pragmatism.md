@@ -699,3 +699,33 @@ Five findings, all applied this pass:
 STATUS: m3 remains DRAFT, NOT CLEARED; handed to supervisor
 module-QC with the Misak lecture still candidate with verification
 incomplete (playback and captions uninspected, duration provisional).
+
+## Advisor QC round 3 (verification round) on m3 (2026-10-26, clock 05:14:37Z measured, worker-pplx-pragmatism-1026b; repairs applied same session)
+
+Three findings, all applied:
+
+1. Worked-example contradiction (APPLIED): the fully worked item's
+   Forced line still claimed the propositions leave no standing place,
+   contradicting the failed verdict; the Forced line now reads "not
+   established" (suspension of belief remains a standing place; a
+   deadline forces action without forcing belief), the verdict summary
+   is deduplicated, and rubric criterion 2's model response matches.
+2. Counts with verified joins (APPLIED): the Lecture II page-split
+   words were separated by a real zero-width-space character (found by
+   codepoint inspection), joined, and the counts remeasured with
+   asserted boundaries and verified joins: B1 947, B2 264 (the
+   "supposed" join verified inside the span). Reading A remeasured
+   with the method stated and the span verified to contain no
+   templates or entities: 2,532 (the earlier 2,530 came from a
+   non-reproducible normalization detail; the module now carries the
+   reproducible number with its method). Reading total: 3,900 words;
+   workload unchanged at 257 minutes.
+3. Momentous continuation (APPLIED): the module now carries James's
+   own reverse side from the continuation after the North Pole
+   example: the option is trivial "when the opportunity is not unique,
+   when the stake is insignificant, or when the decision is reversible
+   if it later prove unwise" (read on the fetched text).
+
+STATUS: m3 DRAFT, NOT CLEARED, handed to supervisor module-QC. Media
+blockers for the supervisor: Misak lecture playback and captions
+uninspected; duration 51:57 provisional from the search listing.

@@ -1242,3 +1242,12 @@ recorded with the actual time.
   worked FAILED application (permission not shown to apply); Section II
   attribution removed; transcript URL and Lecture VI links added. m3 DRAFT
   NOT CLEARED, handed to supervisor module-QC.
+- 2026-10-26 (clock 05:14:37Z measured) worker-pplx-pragmatism-1026b
+  (deg-wol-pragmatism, baton held): m3 advisor QC round 3 (verification) REPAIRS
+  APPLIED: worked-example Forced line made consistent with the failed verdict
+  (rubric model response matches); Lecture II page-splits were real ZWSP
+  characters, joined and verified (B1 947, B2 264); Reading A remeasured with
+  stated method (2,532); total 3,900 words, 257 minutes; momentous continuation
+  (trivial conditions) added. m3 DRAFT NOT CLEARED, handed to supervisor
+  module-QC (media blockers: Misak playback/captions uninspected, duration
+  provisional).

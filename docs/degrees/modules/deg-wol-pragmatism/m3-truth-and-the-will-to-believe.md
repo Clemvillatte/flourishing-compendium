@@ -48,9 +48,11 @@ domain, Wikisource; James 1896): the contiguous passage that begins
 "They may be (a) living or dead; (b) forced or avoidable; (c)
 momentous or trivial" and ends with the thesis passage "decide an
 option between propositions, whenever it is a genuine option that
-cannot by its nature be decided on intellectual grounds" (2,530 words
-measured on normalized raw wikitext of the page, entities resolved and
-markup residue removed). Take notes on the
+cannot by its nature be decided on intellectual grounds" (2,532 words
+measured on normalized raw wikitext of the page: templates, tags, wiki
+quotes, entities and markup residue removed, whitespace collapsed; the
+span was checked to contain no templates or entities after
+normalization). Take notes on the
 three tests and the thesis sentence.
 
 The three tests, in his words: a "living option is one in which both
@@ -59,7 +61,10 @@ outside of the alternative" ("Either accept this truth or go without
 it"); a momentous option is "your only similar
 opportunity", a unique opportunity where "He who refuses to embrace a
 unique opportunity loses the prize as surely as if he tried and
-failed". An option is genuine
+failed"; the reverse side is his too: the option is trivial "when the
+opportunity is not unique, when the stake is insignificant, or when
+the decision is reversible if it later prove unwise". An option is
+genuine
 "when it is of the forced, living and momentous kind". The thesis:
 "Our passional nature must, and lawfully may, decide an option between
 propositions, whenever it is a genuine option that cannot by its
@@ -81,11 +86,12 @@ Thinking, Lecture II: "What Pragmatism
 Means"](https://en.wikisource.org/wiki/Pragmatism:_A_New_Name_for_Some_Old_Ways_of_Thinking/Lecture_II)
 (James 1907, public domain): the
 contiguous passage that begins "To take in the importance of Peirce's
-principle" and ends "make nature over again by their aid" (957 words
-measured on the page's rendered text). Then read Reading B2 from the
+principle" and ends "make nature over again by their aid" (947 words
+measured on the page's rendered text, page-split words joined). Then read Reading B2 from the
 same lecture: the passage that begins "I am well aware how odd it must
-seem" and ends "our duty would be to shun truth, rather" (265 words
-measured on the same rendered text, a page-split word join repaired). Finally read Reading B3 from
+seem" and ends "our duty would be to shun truth, rather" (264 words
+measured on the same rendered text, page-split words joined and
+verified joined). Finally read Reading B3 from
 [Lecture VI, "Pragmatism's Conception of
 Truth"](https://en.wikisource.org/wiki/Pragmatism:_A_New_Name_for_Some_Old_Ways_of_Thinking/Lecture_VI)
 of the same book: the five selections quoted in full in the Step 2
@@ -143,9 +149,9 @@ tests run on the propositions.
 
 1. Fully worked (demonstrated). Live: both hypotheses appeal as real
    possibilities; you can genuinely imagine completing and genuinely
-   imagine the denial. Forced: the propositions leave no standing place
-   between them; going without the belief is the alternative, and
-   drifting is itself a way of going without it. Momentous: the test
+   imagine the denial. Forced: not established for the propositions;
+   suspension of belief remains a standing place between them, and
+   drifting is itself a way of suspending. Momentous: the test
    asks what is irreversibly lost by waiting, and it must be answered
    honestly. The course repeating every two years establishes delay,
    not loss, so on the stipulated facts alone this test is not yet
@@ -153,11 +159,10 @@ tests run on the propositions.
    (a funding window that does not reopen, an age-bound requirement),
    and a strong application names that thing or reports that the test
    fails. Genuine: on the stated facts, NOT ESTABLISHED. Live: yes.
-   Forced: not established for the propositions; suspension of
-   judgment remains a standing place, and an enrolment deadline can
-   force an action without forcing the belief that you can complete
-   the course. Momentous: not established (the cycle establishes
-   delay, not loss). This is a worked failed application, and that is
+   Forced: not established (an enrolment deadline can force an
+   action without forcing the belief). Momentous: not established
+   (the cycle establishes delay, not loss). This is a worked failed
+   application, and that is
    the point: on these facts the diagnosis cannot show a genuine
    option, so the passional permission is not shown to apply. A real
    application succeeds or fails on its own facts: it either
@@ -277,9 +282,10 @@ test and to state the objection-and-constraint pattern on truth.
    test), or three tests with no permission statement. Model response
    for the strong side (about 70 words): "Live: both hypotheses are
    live ones; I can genuinely imagine finishing and genuinely imagine
-   the denial. Forced: the propositions leave no standing place
-   between them; going without the belief is the alternative.
-   Momentous: the funding window closes this year and does not reopen;
+   the denial. Forced: not established; suspension of belief remains
+   a standing place, and the deadline forces an action, not the
+   belief. Momentous: the funding window closes this year and does
+   not reopen;
    refusing loses it as surely as failing. Permission: not
    established; the deadline forces an action, and the prospectus and
    my record settle most of what the belief is about, so the
@@ -311,8 +317,8 @@ test and to state the objection-and-constraint pattern on truth.
 ## Workload arithmetic
 
 - Required reading (word counts measured on the page texts; Reading B3
-  counted on its printed selections): Reading A 2,530 words, Reading
-  B1 957 words, Reading B2 265 words, Reading B3 157 words; 3,909
+  counted on its printed selections): Reading A 2,532 words, Reading
+  B1 947 words, Reading B2 264 words, Reading B3 157 words; 3,900
   words total. At 130 words per minute (new concepts; the 238
   words-per-minute adult default adjusted down by purpose) about 30
   minutes raw; with study overhead at three times raw, about 90
@@ -340,15 +346,16 @@ The module attaches three sources:
 
 - James, The Will to Believe (Wikisource, public domain, 1896): opened
   this session; the assigned passage was measured on normalized raw
-  wikitext of the page (2,530 words between the pinned boundaries,
-  entities resolved and markup residue removed); the quoted passages
+  wikitext of the page (2,532 words between the pinned boundaries,
+  entities resolved and markup residue removed, verified no templates
+  or entities remain in the span); the quoted passages
   were confirmed verbatim on the fetched text.
 - James, Pragmatism: A New Name for Some Old Ways of Thinking
   (Wikisource, public domain, 1907), Lectures II and VI: opened this
   session; the pages' rendered text was extracted and the assigned
-  passages measured on it (Lecture II: 957 and 265 words between the
-  pinned boundaries, a page-split word join repaired; Lecture VI: the
-  five printed selections, 157 words); the quoted passages were
+  passages measured on it (Lecture II: 947 and 264 words between the
+  pinned boundaries, page-split words joined and verified; Lecture VI:
+  the five printed selections, 157 words); the quoted passages were
   confirmed verbatim on the extracted text.
 - Misak, Cambridge Pragmatism (Royal Institute of Philosophy lecture,
   YouTube): candidate with verification incomplete, as stated in Step
