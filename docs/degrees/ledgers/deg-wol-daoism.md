@@ -1609,3 +1609,8 @@ The supervisor's bounded return (reviews/deg-wol-daoism-m5-supervisor-2026-10-26
 4. Teach-back close: the reference now names what m4's deliverable c actually produces ("the open question you carried from your m4 deliverable c teach-back"). Note for the supervisor: m4's deliverable c as it stands does include a kept-question element ("write down the one question your peer asked that you could not answer from the module, and take it to the m5 synthesis work as an open question"), so no m4 change was needed; the m5 phrasing now points at that requirement explicitly.
 
 Consequent arithmetic updates, re-measured per the module's stated method: prose 2,141 -> 2,218 words (repairs added words); prose component 35 -> 37 minutes; total about 206 -> 208 minutes (3 hours 28). Components: 21 + 30 + 90 + 20 + 10 + 37 = 208. Chapter counts and all quoted passages unchanged. Ready for the supervisor's delta re-review.
+
+Small follow-up to the repairs entry above: a humanizer pass on my
+new sentences removed one "X, not Y" contrast from the criterion 4
+decline reason; the prose figure is re-measured at 2,208 words
+(minutes unchanged: 12 raw, 37 with the multiplier; total 208).

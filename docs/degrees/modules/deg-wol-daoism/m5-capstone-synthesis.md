@@ -254,9 +254,8 @@ reputation for coping alone, so I will ask for help this week. The
 limit I keep: the chapter cannot tell me what to do when rest and
 reputation pull the same way. What I decline: treating the seasonal
 rules as rules; chapter 44 asks the reader to weigh and to 'know
-what is enough', and the weighing is mine to do each time, not a
-regimen the text settles once for me. Unresolved: whether wu wei
-scales to decisions I fear."
+what is enough', and that weighing falls to me each time.
+Unresolved: whether wu wei scales to decisions I fear."
 
 Rejection example for criterion 4: "I keep everything the walk
 taught me and feel much wiser now." This does not pass: no keeps
@@ -288,7 +287,7 @@ This does not pass: no scoring, no reason, no revision recorded.
   passage re-reads inside it).
 - Self-assessment and revision: about 20 minutes.
 - Teach-back close: about 10 minutes.
-- Module teaching prose on this page (2,218 words measured,
+- Module teaching prose on this page (2,208 words measured,
   excluding the rubric table rows and this arithmetic section): at
   180 words per minute about 12 minutes raw; with study overhead as
   a three-times multiplier, about 37 minutes (estimate, labelled).
