@@ -1729,3 +1729,18 @@ data — re-run where Playwright works). Degree status left in-development:
 the complete sign-off is the supervisor/owner's (INTEGRATION.md owner
 decision 7). Receipt: reviews/deg-psychdim-integration-1026a.md. Module
 files untouched (PASS hashes preserved).
+
+## Checkpoint — deg-integrate pass 2 (worker-pplx-integrate-1026a), 2026-10-26
+
+Attachment RECONCILED to the supervisor handoff spec (integration/deg-psychdim-handoff.md):
+PD-M<N>-<seq> source ids, quarter-hour durations, README-derived
+titles/descriptions/difficulty, verbatim outcomes and rubric criterion
+labels, prerequisites from each module's own placement section,
+per-receipt gate_evidence, standalone data package at
+docs/degrees/integration/deg-psychdim-data.json. Flags for the
+supervisor recorded in reviews/deg-psychdim-integration-1026a.md
+(topicMappings empty so PD-M<N> codes used; questions derived from module
+openings; source titles from module labels where receipts print no
+exact title; browser QA suites time out in this sandbox on the
+unmodified baseline). node --check OK; both test suites pass; packet
+2,370 min. Status left in-development for the owner sign-off.
