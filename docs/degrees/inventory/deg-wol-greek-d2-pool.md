@@ -48,13 +48,13 @@ Rows in the D1 coverage matrix with any open-carrier evidence. Each row below st
 | Plato early dialogues + Meno | GREEK-TEXT-2 [RESOLVED this session] | RESOLVED — the Perseus/Scaife route is VERIFIED OPEN. |
 | Plato Phaedo | GREEK-TEXT-2 [RESOLVED this session] | RESOLVED — the Perseus/Scaife route is VERIFIED OPEN. |
 | Plato Symposium | GREEK-TEXT-2 [RESOLVED this session] | RESOLVED — the Perseus/Scaife route is VERIFIED OPEN. |
-| Aristotle logic + Categories | no carrier in this pass | NOT ESTABLISHED — no verified open carrier located in this pass. |
-| Aristotle Physics + Metaphysics | no carrier in this pass | NOT ESTABLISHED. |
-| Aristotle De Anima | no carrier in this pass | NOT ESTABLISHED. |
-| Aristotle Nicomachean Ethics | no carrier in this pass | NOT ESTABLISHED. |
-| Epicureanism | no carrier in this pass | NOT ESTABLISHED. |
+| Aristotle logic + Categories | GREEK-TEXT-3 [OPENED-VERIFIED — the MIT Classics Archive] | RESOLVED — the MIT Classics Archive hosts the Categories (the same Aristotle browse page). |
+| Aristotle Physics + Metaphysics | GREEK-TEXT-3 [OPENED-VERIFIED — the MIT Classics Archive] | RESOLVED — the MIT Classics Archive hosts Physics and Metaphysics (the same Aristotle browse page). |
+| Aristotle De Anima | GREEK-TEXT-3 [OPENED-VERIFIED — the MIT Classics Archive] | RESOLVED — the MIT Classics Archive hosts On the Soul (the same Aristotle browse page). |
+| Aristotle Nicomachean Ethics | GREEK-TEXT-3 [OPENED-VERIFIED — the MIT Classics Archive] | RESOLVED — the MIT Classics Archive hosts the complete Nicomachean Ethics (W.D. Ross translation, all 10 books, 456k text-only download). |
+| Epicureanism | GREEK-TEXT-3 [OPENED-VERIFIED — the MIT Classics Archive] | RESOLVED — the MIT Classics Archive hosts Epicurus Letter to Menoeceus (Hicks translation). |
 | Stoicism | no direct carrier in this pass (the in-repo Stoicism dossier exists but was not measured this pass) | PARTIALLY ESTABLISHED — the dossier is in-repo; the hours and module assignment are NOT established. |
-| Presocratics | no carrier in this pass | NOT ESTABLISHED. |
+| Presocratics | GREEK-REF-3 [OPENED-VERIFIED — the ifilnova.pt Digital Library] | RESOLVED — the ifilnova.pt Digital Library hosts the Presocratic Writings (Vol. 1 Diels-Kranz transcription + Vol. 2 Kathleen Freeman complete English translation, all B fragments linked). |
 | Capstone | n/a | Not a resource row |
 
 ## Declared gaps (per the spec's honest-failure rule — these are flagged, not hidden)
