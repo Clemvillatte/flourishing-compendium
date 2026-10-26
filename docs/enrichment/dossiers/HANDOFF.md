@@ -9,6 +9,17 @@ STALE for dosr1 and is probably stale for other bands too — RUN THE STEP 0
 CHECK before repairing anything from it. Remaining free bands at check time:
 dosr2-dosr7.
 
+DOSR1 REPAIR (2026-10-26 00:38Z, worker-pplx-dosr1-1026a, same session): advisor QC
+had downgraded right-effort to 2 substantiated + 1 unresolved comparison (below the
+strict bar). Repaired: a fourth heading, "Is willpower a reservoir that effort drains?",
+was added to right-effort.md — Baumeister et al. 1998 (JPSP) affirming the limited
+shared-resource model vs Hagger et al. 2016 multilab RRR (23 labs, N=2,141) finding
+the ego-depletion effect indistinguishable from zero; all four quotes verbatim on
+eutils carriers (PMIDs 9599441, 27474142). right-effort now at 3 substantiated + 1
+qualified comparison. Remaining supervisor decision: whether the qualified
+Buddhist/Daoist comparison ("Is trying the road or the obstacle?") stays or is
+replaced by a stronger head-on pairing. Details in `batches/dosr1.json`.
+
 SURVEY EXTENSION (same session, 00:13:57Z, commit 9b4af3605, read-only across the free bands): the
 same STEP 0 check was run on ALL 24 dossiers of dosr2-dosr7. Result: EVERY
 ONE carries 3-4 questions under a `Where the traditions genuinely disagree`

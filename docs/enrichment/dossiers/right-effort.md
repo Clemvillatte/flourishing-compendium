@@ -73,6 +73,24 @@ The disagreement turns on method: the earlier gains came against passive control
 
 For the four directions of the path factor, nothing here changes the aiming. What the disagreement questions is the hope of a general capacity built by rehearsal.
 
+### Is willpower a reservoir that effort drains?
+
+The strength model that the [Self-control](https://clemvillatte.github.io/flourishing-compendium/#card=Self-control%20training) card carries has two halves, and the training study above tested only one of them. The other half says that using self-control spends it. The model's founding paper stated the budget plainly:
+
+> "Choice, active response, self-regulation, and other volition may all draw on a common inner resource." ([Baumeister et al. 1998, Journal of Personality and Social Psychology](https://pubmed.ncbi.nlm.nih.gov/9599441/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=9599441&rettype=abstract&retmode=text))
+
+Its four experiments — radishes resisted against chocolates, choices made, emotion suppressed, each followed by a harder task — ended in the paper's own summary:
+
+> "These results suggest that the self's capacity for active volition is limited and that a range of seemingly different, unrelated acts share a common resource." ([Baumeister et al. 1998](https://pubmed.ncbi.nlm.nih.gov/9599441/))
+
+Two decades later, twenty-three laboratories with 2,141 participants, preregistered and running a standardized version of the same sequential-task test, could not find the drain:
+
+> "Meta-analysis of the studies revealed that the size of the ego-depletion effect was small with 95% confidence intervals (CIs) that encompassed zero (d = 0.04, 95% CI [-0.07, 0.15]." ([Hagger et al. 2016, Perspectives on Psychological Science](https://pubmed.ncbi.nlm.nih.gov/27474142/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27474142&rettype=abstract&retmode=text))
+
+The two papers do not literally rerun each other: the replication tested a standardized paradigm built for the purpose rather than the 1998 procedures, so what stands disputed is the model's central prediction, not the original experiments themselves. I have read the abstracts only and cannot judge the statistics.
+
+For the factor's own text, nothing here changes the four directions either. What this dispute questions is the metaphor of the budget: whether effort is spent down from a reservoir or generated as it is aimed. The lute string sits oddly between the two camps, since the sutta treats persistence as something tuned rather than spent, and I would not claim the sutta settles what the laboratories have not.
+
 ### Is grit anything more than conscientiousness?
 
 [Grit](https://clemvillatte.github.io/flourishing-compendium/#card=Grit) is the research field's best-known measure of long effort, and its own record is disputed. Duckworth and colleagues found it accounted for "an average of 4% of the variance in success outcomes", and reported it "highly correlated with Big Five Conscientiousness" and still incrementally predictive "over and beyond IQ and conscientiousness" ([Duckworth et al. 2007, abstract](https://pubmed.ncbi.nlm.nih.gov/17547490/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=17547490&rettype=abstract&retmode=text)).
