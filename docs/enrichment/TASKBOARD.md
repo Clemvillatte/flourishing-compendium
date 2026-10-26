@@ -6330,4 +6330,4 @@ same pass; see its RETRACTION note.)
 
   [T+27:52] verify lane (no baton): pragmatism m1 orientation video segment anchors -- producer page prints seek markers (4:46, 49:30) + listening notes; timestamped transcript offsets surfaced; segmentation-evidence gap closed, caption kind still open, playback still blocked. Receipt: docs/degrees/verify/deg-wol-pragmatism-m1-orientation-video-1026c.md
 
-  [T+35:04] verify lane (no baton): three blocked video re-checks closed or narrowed via search-index watch pages (Sainani chapters match assigned boundaries exactly; Black Dog RNT focus+panel confirmed, assigned-window verbatim still open; Komjathy render closed). Receipt: docs/degrees/verify/deg-video-recheck-completion-1026c.md
+  [T+29:22] verify lane (no baton): three blocked video re-checks closed or narrowed via search-index watch pages (Sainani chapters match assigned boundaries exactly; Black Dog RNT focus+panel confirmed, assigned-window verbatim still open; Komjathy render closed). Receipt: docs/degrees/verify/deg-video-recheck-completion-1026c.md
