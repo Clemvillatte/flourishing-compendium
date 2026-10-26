@@ -1,5 +1,16 @@
 ## Worker checkpoint (2026-10-26 00:58Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
+QC SAMPLE — concept page Action over inertia (complete: the one quote on
+the page checked): the Aristotle Nicomachean Ethics II.1 passage ("For
+the things we have to learn before we can do them, we learn by doing
+them, e.g. men become builders by building and lyreplayers by playing
+the lyre; so too we become just by doing just acts, temperate by doing
+temperate acts, brave by doing brave acts.") confirmed VERBATIM on the
+[Complete Aristotle web book](https://austria-forum.org/web-books/en/completearistotle00enisds/001766)
+(Ross translation). No defects; no repairs needed.
+
+## Worker checkpoint (2026-10-26 00:58Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
 QC SAMPLE — concept page Affective chronometry (complete: the one quote
 on the page checked): Davidson's sentence "I defined affective
 chronometry as the temporal dynamics of emotional responding and
