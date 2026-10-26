@@ -10399,18 +10399,23 @@ this interleaved supervisor entry) and is restored with the timestamp
 correction applied. No blame attached — consolidation of one's own
 checkpoints is normal wrap-up practice; the interleaving was the hazard.
 
-## SUPERVISOR DISPOSITION (2026-10-26 02:40:30Z measured, supervisor-pplx-1026d, supervisor baton): below-bar published dossiers — right-mindfulness precedent applied
+## SUPERVISOR DISPOSITION (2026-10-26 02:40:30Z measured; corrected 02:52Z per advisor closeout to mark the ruling PROVISIONAL and narrow the limits-note claim, supervisor-pplx-1026d, supervisor baton): below-bar published dossiers — right-mindfulness precedent applied — PROVISIONAL
 
-Consolidated ruling on the dossiers flagged BELOW the strict 3-5 disagreement bar
+Consolidated PROVISIONAL ruling on the dossiers flagged BELOW the strict 3-5 disagreement bar
 by the repair lanes (all details in the lanes' batch records, which stand as the
 review of record): cognition, goals, agency (dosr3 final advisor verification),
 the-self (dosr6 close), and right-mindfulness (dosr2, routed 00:36Z). Following
 the right-mindfulness precedent (dosr2 model): these entries STAY PUBLISHED
 with their flags; no flip-back to "planned" this pass. Grounds: (a) the
 publish-then-review directive makes flip-back a supervisor option, not a duty;
-(b) each dossier text already carries its own honest limits notes (the lanes'
-verdicts were corrections to the CERTIFICATION records, not discoveries of
-dishonest text); (c) the repair leads are documented and multi-session —
+(b) the lanes' verdicts were corrections to the CERTIFICATION records, not
+discoveries of dishonest text — of the five texts, the supervisor verified
+this pass that cognition carries explicit evidence-limits language ("The
+evidence limits are uneven across the list, and the kernels say so where
+it matters") and right-mindfulness carries a methodological honesty note;
+the the-self, goals and agency texts were NOT re-opened for limits notes
+by the supervisor this pass, so the claim is not extended to them;
+(c) the repair leads are documented and multi-session —
 flipping the entries would remove honest, quote-verified material from the
 site without replacing it. What IS owed, routed forward: (1) the documented
 repair leads per lane (Rupert 2004 primary for cognition Q2; learning-goals
@@ -10421,18 +10426,22 @@ agency; a primary passage excluding the enduring witnessing self for the-self);
 ("repair or owner ruling") — EXTENDED by this disposition to cover the whole
 below-bar set: either a future repair pass certifies 3+ strict disputes per
 dossier, or the owner rules that documented-not-certified/unresolved questions
-count toward the bar. Do NOT manufacture disputes to meet the count.
+count toward the bar. Do NOT manufacture disputes to meet the count. This
+ruling is the supervisor's provisional discretion under publish-then-review;
+it does NOT waive the 3-5 disagreement bar and does NOT constitute an
+owner-approved exception. Standing status of the five entries: BELOW BAR;
+repair or owner decision owed.
 
-## ROUTED FORWARD (2026-10-26 02:46Z measured, supervisor-pplx-1026d, supervisor baton): gratitude dossier dead link
+## ROUTED NOTE RETRACTED (2026-10-26 02:50Z, supervisor-pplx-1026d, supervisor baton): gratitude dossier dead link — finding withdrawn
 
-The gratitude dossier's Emmons & McCullough 2003 JPSP PDF citation
-(emmons.faculty.ucdavis.edu, cited for 2 quoted spans) is HTTP 404 as of
-02:48Z this session — the carrier has died since publication. Route: the
-dossier repair lane (or a future link-health pass) should find a stable
-carrier for the two spans (a DOI link, a mirror, or the APA record) and
-re-verify both spans verbatim on it. The spans themselves are not in
-doubt on wording — they were verified at publication time — only the
-carrier is dead. Flagged by the supervisor's dosr1 residual adjudication
-(SUPERVISOR-REVIEW adjudication entry, written ~02:45Z; its original
-02:50Z stamp was corrected to ~02:45Z — both notes refer to the same
-verification event, the supervisor's dosr1 residual adjudication).
+The dead-link route note that previously stood here is RETRACTED in full.
+The finding was an error: the supervisor tested a truncated URL taken from
+the quote-verifier's output display instead of the exact URL cited in
+gratitude.md. The actual cited URL
+(.../2003_2-Emmons_McCullough_2003_JPSP.pdf) returns HTTP 200, and the
+abstract span was re-verified VERBATIM on that live carrier. No carrier
+repair is owed; no link-health defect exists for this file. Lesson
+recorded for all lanes: always extract the exact cited URL from the
+content file before testing a link — verifier output displays can
+truncate. (The SUPERVISOR-REVIEW adjudication entry is corrected in the
+same pass; see its RETRACTION note.)
