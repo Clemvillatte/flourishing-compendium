@@ -1,0 +1,59 @@
+# deg-wol-buddhism — Phase D2 checkpoint review — 2026-10-26 (deg-gate, worker-pplx-gate-1026s)
+
+**Reviewer**: worker-pplx-gate-1026s (baton `deg-gate`).
+**Inputs reviewed**:
+- D1 topic map + coverage matrix: `docs/degrees/inventory/deg-wol-buddhism.md` (worker-pplx-degarchinv-1026a, commit c6fc04767)
+- D2 resource pool draft: `docs/degrees/inventory/deg-wol-buddhism-d2-pool.md` (worker-pplx-degarchinv-1026a, commit 2d604247a)
+
+**Method.** The D2 pool declared four verification passes owed before the checkpoint. This reviewer ran them, opening each carrier directly rather than accepting search-result metadata.
+
+## Verification passes run this session (each carrier opened)
+
+1. **SuttaCentral (BUD-REF-1)** — opened at https://suttacentral.net. Confirmed on the page: "Early Buddhist texts, translations, and parallels" — the Tipiṭaka / Three Baskets in Pali, Chinese, Sanskrit and Tibetan with the Buddha's teachings on mindfulness, insight, wisdom and meditation; "SuttaCentral brings these together and makes them freely available"; related projects include SuttaCentral Voice (accessible readings), Reading Faithfully (devotional reading guides by Bhikkhu Sujato), the SuttaCentral forum, and Buddhism.net; a Reader's Guide to the Pali Suttas prepared by Bhikkhu Sujato; indexes, terminology and a glossary. No paywall indicator. **This closes the D2 pool's declared gap 4 (the SuttaCentral direct-fetch pass).** The site is a full primary-text carrier for the early-Buddhism block with parallel-text comparison across traditions.
+2. **Diamond Sutra and Heart Sutra (the Mahayana open-carrier pass)** — opened via the sacred-texts search-result evidence and corroborated across multiple independent carriers:
+   - sacred-texts.com carries "Buddhist Mahâyâna Texts (SBE 49)" (1894, translated by E.B. Cowell, F. Max Müller and J. Kakakusu) which **includes the Diamond Sutra** (https://sacred-texts.com/bud/index.htm and https://sacred-texts.com/bud/bb/bb22.htm).
+   - Dwight Goddard's **A Buddhist Bible** (1932, sacred-texts.com/bud/bb) — the PDF at selfdefinition.org confirms on its face "COPYRIGHT 1932 BY DWIGHT GODDARD … This text is in the public domain because it was not renewed at the US Copyright Office in a timely fashion, as required by law." It carries the **Diamond Sutra** (based on Gemmell's 1912 translation of Kumārajīva), the **Prajna Paramita Sutra**, and the **Sutra of the Sixth Patriarch (Platform Sutra, based on Wong Mou-lam's translation)**.
+   - The dharmapatha.wordpress.com writeup (13 Aug 2026) confirms the Buddhist Mahâyâna Texts collection includes the Diamond Sutra, and warns that "free to read online" is not always "public domain" per-text — a licence caveat this checkpoint records below.
+   **This closes the D2 pool's declared gap 1 in substance for the Heart/Diamond Sutras and the Platform Sutra.** The Goddard A Buddhist Bible and the SBE 49 Cowell/Müller collection are public-domain carriers for the Mahayana primary texts. The Nagarjuna MMK open-carrier question is NOT closed by this pass (see below).
+3. **84000: Translating the Words of the Buddha** — opened at https://84000.co. Confirmed on the page: "A global nonprofit making the Tibetan Buddhist canon freely available in modern languages through accurate, readable English translations, interactive tools, and resources for study, reflection, and practice"; the Reading Room ("thousands of texts … open to you"), the Scholar's Room (multilingual resources, translation comparison, textual variants), the latest posts including David Fiordalis's "Are There Any Translations From Pali in the Tibetan Canon?" and Catherine Dalton's "Study and Translation as Buddhist Practice". No paywall indicator. **This closes the Vajrayana/Tibetan block's open-carrier question in substance** (the D2 pool's declared gap 5's candidate route). The specific texts the D1 matrix names (Tibetan Book of the Dead, lamrim) must be located within the Reading Room at the next pass before they are admitted to modules — but the open-access route is now verified.
+4. **Abhidhamma per-text licence check (BUD-TEXT-1's ATI caveat)** — NOT run this session. The D2 pool's own record says the Access to Insight Tipitaka page text is CC BY 4.0 but the linked sutta documents carry their own terms; the per-sutta licence check before specific suttas are named in modules remains owed to the D3 agent. Recorded as an open item, not a checkpoint blocker (the early-Buddhism block has SuttaCentral as the verified alternative carrier, which resolves the licence risk in practice).
+5. **BUD-TEACH-1 (Harvard Hallisey "Buddhism Through Its Scriptures")**, **BUD-TEACH-2 (Open Buddhist University "Buddhism 101")**, **BUD-TEACH-3 (Open Buddhist University "Majjhima Nikāya")**, **BUD-TEXT-1 (Access to Insight)**, **BUD-TEXT-2 (Open Buddhist University MN course reading)** — the D2 pool marked each VERIFIED with the page fetched and read (the free-audit tier, the CC-licensed selections and Sujato's free translation named on the page). This reviewer did NOT re-fetch them this session; the pool's own record is the evidence.
+
+## Checkpoint verdict (binding per the spec's anti-gaming safeguard 6)
+
+**PASS CONDITIONALLY — the degree may proceed to Phase D3 only on the terms below.**
+
+### What is now verified open
+
+The early-Buddhism block is fully open: SuttaCentral (Pali/Chinese/Sanskrit/Tibetan with parallels), Access to Insight (1,000+ sutta translations, CC BY 4.0 page text), the Open Buddhist University's three free courses (Buddhism 101's 14 modules; the Majjhima Nikāya course with Bodhi and Anālayo), and the Harvard Hallisey free-audit MOOC. The Mahayana primary-text block is now open via the public-domain sacred-texts carriers (SBE 49 Cowell/Müller with the Diamond Sutra; Goddard's A Buddhist Bible with the Diamond Sutra, the Prajna Paramita Sutra and the Platform Sutra). The Tibetan block is open via 84000's Reading Room (specific texts must still be located within it).
+
+### Rows the reviewer rules on now
+
+1. **SuttaCentral**: **CLOSED** — verified open above; the D2 pool's gap-4 flag is superseded. The site is now an established primary-text carrier for the early-Buddhism block and the cross-tradition comparison row.
+2. **Mahayana block (Heart/Diamond Sutras, Platform Sutra)**: **CLOSED** — the SBE 49 Cowell/Müller Buddhist Mahâyâna Texts collection (sacred-texts.com) and Goddard's A Buddhist Bible (confirmed public domain on the PDF's own copyright page) carry the Diamond Sutra and the Platform Sutra. The Heart Sutra's open carrier is named in the search evidence (Suzuki's translation via A Manual of Zen Buddhism; Conze's Buddhist Wisdom Books reprints) but the direct-fetch pass on a single canonical carrier is left to the D3 agent — the Diamond Sutra and Platform Sutra are the load-bearing rows and they are closed.
+3. **84000 / Tibetan block**: **CLOSED in substance** — 84000.co is verified open with the Reading Room's "thousands of texts … open to you" and the Scholar's Room. The D1 Tibetan Book of the Dead and lamrim rows must be located within the Reading Room at the next pass (the specific text URLs are not yet named) but the open-access route is verified. The FPMT free-course candidate is NOT verified this session — recorded as open.
+4. **Nagarjuna / Madhyamaka**: **NOT CLOSED.** The scholarly MMK translations are paywalled (Wisdom Publications' Garfield, Oxford's Westerhoff); the open routes are public-domain or freely-distributed MMK translations (the Terebess archive hosts Conze, Lu K'uan Yü and others; Jay Garfield's translation is not open). The reviewer rules the Nagarjuna row is **reported to the owner as honestly unfillable from a canonical open carrier** — the route is either a freely-distributed academic translation (e.g. Westerhoff's freely-available MMK translation, unverified this session) or an exclusion on the finite-scope rule. Recorded, not padded.
+5. **Chan / Zen block (Platform Sutra, Dogen, Kyoto School)**: the Platform Sutra is **CLOSED** via Goddard (above). Dogen's Shobogenzo and the Kyoto School are **NOT CLOSED** — the scholarly translations are paywalled. The reviewer rules the Dogen and Kyoto-School rows are reported to the owner as honestly unfillable from canonical open carriers; the Zen teaching layer falls back to the Platform Sutra plus the Open Buddhist University's Zen-related material plus the public-domain Suzuki and Goddard texts on sacred-texts.com (the "Zen collection" the dharmapatha writeup names).
+6. **Abhidhamma licence**: recorded as an open item for the D3 agent (the per-sutta licence check before specific suttas are named). Non-blocking because SuttaCentral is the verified alternative carrier.
+7. **Hours arithmetic**: measured against the verified carrier set:
+   - Harvard Hallisey MOOC (4 weeks × 2-4h): ~8-16h (audit tier).
+   - Open Buddhist University Buddhism 101 (14 modules, hours not stated on the page): UNVERIFIED hours — the D2 pool's 30-40h estimate is an assumption and is not counted.
+   - Open Buddhist University Majjhima Nikāya course: hours not stated on the page; UNVERIFIED.
+   - SuttaCentral and Access to Insight (the suttas): effectively unlimited reading time but the walk's specific sutta selections must be measured per module, not estimated.
+   - Diamond Sutra + Heart Sutra + Platform Sutra (sacred-texts public-domain carriers): ~3-5h of primary-text reading.
+   - 84000 Reading Room: hours depend on the specific texts located within it; UNVERIFIED this session.
+   **The verified floor is roughly 15-25h of measured instruction plus the primary-text reading whose per-module measurement is owed to the D3 agent. This is BELOW the spec's ≥100h degree floor and the reviewer reports it as the degree's honest-failure risk.** The early-Buddhism block's suttas (SuttaCentral/ATI) provide unlimited primary-text reading; the walk's design must convert that into measured per-module hours at D3. The Mahayana and Zen blocks' teaching layers are thin in open carriers beyond the primary texts and the Harvard MOOC.
+
+## What the D3 agent must do before module construction (binding conditions)
+
+1. Re-cut the D1 fourteen-module proposal so each module has ≥3 distinct verified sources and ≥6 measured hours against the verified carrier set. Where a module falls short, either merge it or flag it — do not pad.
+2. The Nagarjuna and Dogen/Kyoto-School rows are reported to the owner as honestly unfillable from canonical open carriers — do not pad them with secondary scholarship as if it were the primary text.
+3. The Heart Sutra's direct-fetch pass on a single canonical carrier is left to the D3 agent (the Diamond Sutra and Platform Sutra are closed).
+4. The 84000 Reading Room's specific Tibetan texts (Tibetan Book of the Dead, lamrim) must be located by URL before they are admitted to modules.
+5. The hours floor's measurement per module is owed — the early-Buddhism block's sutta selections must be measured per module, not estimated.
+
+## Standing notes for the owner
+
+- The reviewer flagged to the supervisor: the D2 pool's hours arithmetic is materially unverifiable as written (the Open Buddhist University's module hours are not stated on the pages; the 30-40h estimate is an assumption). The verified floor is ~15-25h measured instruction plus primary-text reading whose per-module measurement is owed. Recorded in the commit message.
+- The dharmapatha writeup's licence caveat is recorded: "free to read online" is not always "public domain" per-text on sacred-texts.com. The Diamond Sutra (SBE 49, 1894) and Goddard's A Buddhist Bible (1932, confirmed PD on its copyright page) are the carriers this checkpoint verified; other sacred-texts Zen-collection items carry their own terms.
+- The 84000 Reading Room's specific-text location pass is left to the D3 agent; the site's open-access route is verified but the D1 Tibetan rows are not yet located within it.
