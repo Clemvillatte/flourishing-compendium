@@ -38,7 +38,7 @@ Therapy" (youtube.com/watch?v=sDGpXQLHLfY, t=3797 and t=4076) could
 not be re-verified: the YouTube transcript routes available this
 session are bot-walled (established on the b4 and Misak receipts
 earlier this session — the cloud-browser route was walled by a
-Google unusual-traffic block at ~09:59Z). The framework CONTENT the
+Google unusual-traffic block at ~09:59Z, the wall's own printed clock). The framework CONTENT the
 segments are cited for (six dimensions; levels including
 sociocultural) is corroborated on the independent Rossi-interview
 transcript, which names the same six dimensions ("affect,
