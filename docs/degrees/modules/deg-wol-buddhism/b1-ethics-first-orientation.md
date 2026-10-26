@@ -115,9 +115,7 @@ world" (Metta Centre channel), 2:09:06 total:
 https://www.youtube.com/watch?v=svWaWFOpxXw.** The four immeasurables, also called
 the divine abodes: loving kindness, compassion, joy and
 equanimity. The speaker was trained in Theravada, Zen and Chinese traditions, ordained 1985,
-a student of the Burmese master Pa Auk Sayadaw (credentials opened on the
-buddha-haus.de biography page; the biography rests on the institutional
-pages, not the recording).
+a student of the Burmese master Pa Auk Sayadaw ([monastery biography](https://www.buddha-haus.de/bhante-dhammadipa/)).
 
 Assigned segments (from the uploader-set chapter list printed on the watch
 page):
@@ -239,16 +237,14 @@ ethics or practice requires a passing mention.
   ~60 m. Estimates labelled as estimates.
 - Module total: about 4 h 25 m with all four assigned segments
   (2:05:32 measured media + 2 h 20 m of estimated work; estimates
-  labelled as estimates; the earlier draft's provisional total is
-  superseded). Corrected 2026-10-26 QC round 8: the previously stated
-  3 h 50 m did not sum the components.
+  labelled as estimates).
 
 ## Sources (verification status)
 
 | resource | status | verified | notes |
 |---|---|---|---|
 | Ajahn Brahm, "Buddhist Values", https://www.youtube.com/watch?v=TpbWVaXBV4c (BSWA channel) | verified-video | 2026-10-26 | duration read 54:16 on this session's watch-page extraction (player-total convention); a second extraction by the verification lane read 54:15, a 1-second discrepancy recorded rather than adjudicated (B-V05); transcript section present on the watch page; talk dated 08-01-2010; content classification from the opened transcript: no rebirth, kamma or cosmology; teaches values from a mindful heart. CORRECTION (supervisor's independent transcript read, 2026-10-26): the talk's ethics segment does discuss the precepts (lying, stealing, alcohol, killing, adultery, around 07:52-09:10); the earlier "does not enumerate the precepts" note is withdrawn as a false negative claim. The module still anchors the precepts outcome on the Thanissaro talk because it names all five and deepens their mind dimension |
-| Thanissaro Bhikkhu, "The Five Precepts for the Mind", https://www.youtube.com/watch?v=Nq7YmbYFJkA | verified-metadata | 2026-10-26 | duration 13:16 (lengthSeconds 796, watch page); introduces the five lay precepts then their mind dimension; credentials opened on the buddho.org biography page (Thai forest kammatthana tradition; student of Ajahn Fuang Jotiko; ordained 1976; Abbot of Metta Forest Monastery since 1993; main AccessToInsight translator); free, CC BY-NC license stated in description |
+| Thanissaro Bhikkhu, "The Five Precepts for the Mind", https://www.youtube.com/watch?v=Nq7YmbYFJkA | verified-video (content-verified: full transcript read, receipt B-V05) | 2026-10-26 | duration 13:16 (lengthSeconds 796, watch page); transcript available on the watch page; introduces the five lay precepts then their mind dimension (confirmed on the read transcript: the five precepts named, then their mind dimensions in order); credentials opened on the buddho.org biography page (Thai forest kammatthana tradition; student of Ajahn Fuang Jotiko; ordained 1976; Abbot of Metta Forest Monastery since 1993; main AccessToInsight translator); free, CC BY-NC license stated in description |
 | Bhante Dhammadipa, "The Four Immeasurable Minds", https://www.youtube.com/watch?v=svWaWFOpxXw (Metta Centre channel) | verified-video | 2026-10-26 (this session; content upgraded to transcript-read by receipt B-V04, deg-verify-a) | duration 2:09:06 on watch page; upload 2023-03-04; credentials opened on the buddha-haus.de biography page (born Prague 1949; university studies in Slavic studies, Sinology, Indology; ordained 1985 with training in Zen, Theravada and Chinese traditions; monastic stays incl. Burma; associated with Pa Auk Sayadaw; teaching since 1997); full transcript read by the verification lane (B-V04); assigned segments 00:27:11-01:01:49 and 01:09:42-01:33:04; transcript present on the watch page |
 | AN 5.179 Gihisutta, Sujato translation, https://suttacentral.net/an5.179/en/sujato | verified | 2026-10-26 | the five precepts passage quoted on the opened page; free, anonymous access; excerpt re-verified 2026-10-26 against SuttaCentral's official translation data (sc_bilara_data, translation/en/sujato): opening stream-enterer declaration and precepts passage verbatim as the module quotes them; 213-word bounded excerpt defined in Step 3 |
 | Metta Sutta Khp 9, Sujato translation, https://suttacentral.net/kp9/en/sujato | verified | 2026-10-26 | goodwill instructions confirmed on the opened page ("May all beings be happy!"; "With love for the whole world, unfold a boundless heart"); re-verified 2026-10-26 against SuttaCentral's official translation data: the two quoted lines verbatim, in the order the module now quotes them, and the closing "they never return to a womb again" present — the traditional frame recorded in the Boundaries section; free, anonymous access |

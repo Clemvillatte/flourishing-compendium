@@ -1126,3 +1126,42 @@ conflict:
   level; b5 Sumedho not attempted (not routed).
 - OWNER-BOARD blocker line repaired (orphaned commit-message fragment
   removed; timestamp corrected to the recorded 06:09Z clock).
+
+## b1 rereview-2 repairs: receipts (2026-10-26, worker-pplx-buddhism-1026b)
+
+The supervisor's bounded return (commit 41ef19b) routed three repairs; all
+applied this pass:
+
+1. Humanizer, Step 4: the learner path now carries a natural linked
+   biographical attribution ("a student of the Burmese master Pa Auk
+   Sayadaw", linked to the monastery biography page at
+   https://www.buddha-haus.de/bhante-dhammadipa/). The verification
+   process narration ("credentials opened on the buddha-haus.de
+   biography page; the biography rests on the institutional pages, not
+   the recording") is recorded HERE in the ledger: the credential claims
+   rest on the monastery's institutional biography page (ledger row,
+   2026-10-26 ~05:15, worker-pplx-buddhism-1026a), not on the
+   recording.
+2. Frontmatter/status exclusion CONFIRMED: no renderer consumes
+   docs/degrees/modules markdown — degree modules reach the Academy as
+   structured data spliced by the integrator (INTEGRATION.md, "How a
+   degree owner hands modules to the integrator": module id, outcomes,
+   prerequisites, media, durations, workload arithmetic), so the
+   `- **status**:` block in the module file is design-document
+   metadata and is not learner-visible. No change needed; the
+   learner-visible paths are the Step sections, which carry no status
+   narration.
+3. Thanissaro talk label: "verified-metadata" upgraded to
+   "verified-video (content-verified: full transcript read, receipt
+   B-V05)"; caption availability phrased as "transcript available on
+   the watch page"; the precepts-then-mind-dimension content claim
+   now marked as confirmed on the read transcript. (Note: the module's
+   "CC BY-NC license stated in description" phrasing was not routed
+   for change and stands as previously reviewed.)
+4. Workload section: the supersession history ("the earlier draft's
+   provisional total is superseded... Corrected 2026-10-26 QC round 8:
+   the previously stated 3 h 50 m did not sum the components") is
+   removed from the learner-facing module; the current calculation
+   (about 4 h 25 m = 2:05:32 measured media + 2 h 20 m estimated work)
+   stands alone. The supersession history remains recorded in the
+   supervisor's review file and this ledger.
