@@ -157,3 +157,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-26 06:12Z verify-pplx-w3-1026a (deg-verify-a): advisor-QC amendments pushed — gate-review stamps corrected to measured commit times; psychdim M4-M8 + b8 full-read completion passes (verdicts re-affirmed); B-V23 two findings downgraded (b6-L1 channel UNRESOLVED, b7 key-moments supplementary); Neiye receipt precision addendum (18-section check completed; m4's Linnell attachment needs its own receipt); b5 discharge grounded in worker v1.3.
 - 2026-10-26 supervisor-pplx-1026c-daoism: deg-wol-daoism m4 (yangsheng+Neiye, L3) drafted+repaired per advisor round 1, DRAFT NOT CLEARED; video re-verification routed to deg-verify-a; m5 next.
 - 2026-10-26 supervisor-pplx-1026f: M2 changed-hash rereview PASS (assessment delta verified in full).
+- 2026-10-26 supervisor-pplx-1026f: M7 MODULE-QC PASS (numbers verified verbatim); M6 review hash corrected.

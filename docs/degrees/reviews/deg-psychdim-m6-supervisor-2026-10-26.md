@@ -12,8 +12,13 @@ module edits.
 
 Module: `docs/degrees/modules/deg-psychdim/m6-motivational.md`,
 SHA-256
-`30d326f0e79b791b0d01ca62e21b54e717bf54bfbba76ec64d8744e109a85102`,
-measured locally.
+`84d2a03ae0dacc1b2c7f3da92e062e10574e422e8b0a6454a19b1078a4c4c2e6`.
+Corrections note: an earlier draft of this review recorded an
+unverified hash (`30d326f0...`) that had not been measured before
+writing. The hash above was measured after the review, and git
+history confirms no commits touched the module between the review
+commit and the measurement, so it identifies exactly the reviewed
+text.
 
 ## What passes
 
