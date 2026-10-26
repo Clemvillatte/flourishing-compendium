@@ -1006,3 +1006,21 @@ above, the quotation re-audit is complete for both modules: no
 word or word-order differences; m3's differences are typographic
 only (apostrophe style, dropped emphasis markers, one uppercase
 rendering on the fetched page); m2 has no differences at all.
+
+### deg-gate review of m1–m3, 2026-10-26 07:15Z (gate-pplx-w3-1026a, deg-gate baton)
+
+Independent Gate review, all three modules read in full:
+`reviews/deg-wol-pragmatism-m1-m3-gate-2026-10-26.md`. Verdict: GATE
+PASS at scope/centering level for m1–m3. Centering genuine (every
+graded deliverable lands on the learner's own beliefs and decisions;
+the worked FAILED genuine-option application in m3 is exemplary
+anti-self-help teaching); primary texts public-domain and
+verbatim-verified; no paywalled content. Routed: (1) m1 Philosophy
+Talk video verification INCOMPLETE — playback inspection, segmentation
+into timestamped units with practice between units, caption status
+OPEN; whole-episode assignment PROVISIONAL (the wave-3 M01-P03 item;
+needs a playback-capable session); (2) m3 Misak lecture duration from
+listing, playback/captions uninspected (transcript content verified);
+(3) gate review of m4/m5 when they land; (4) supervisor module-QC +
+advisor review owed; (5) whole-degree final review/integration/
+publication closed until the five-module set is complete.

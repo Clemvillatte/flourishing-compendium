@@ -1423,3 +1423,14 @@ m1–m3 GATE PASS at scope/centering level (all three read in full) —
 owner: the Neiye inward-training gap m1 admits (attach a verified source
 or keep the promise narrowed). Supervisor module-QC still owed on m1–m3.
 Next in my lane: pragmatism m1–m3 review.
+
+**deg-gate verdict #4, 2026-10-26 07:15Z (gate-pplx-w3-1026a):** pragmatism
+m1–m3 GATE PASS at scope/centering level (all three read in full) —
+`reviews/deg-wol-pragmatism-m1-m3-gate-2026-10-26.md`. Confirms the routed
+M01/M03 media items: Philosophy Talk playback/segmentation/captions and
+Misak playback/captions are the open verification gaps; both need a
+playback-capable session. All four priority degrees' drafted sets now have
+gate verdicts (psychdim M2–M8 PASS, buddhism b1–b9 PASS, daoism m1–m3
+PASS, pragmatism m1–m3 PASS); the wave-3 completion work (daoism m4/m5,
+pragmatism m4/m5, supervisor module-QC) is the remaining path to
+publication.
