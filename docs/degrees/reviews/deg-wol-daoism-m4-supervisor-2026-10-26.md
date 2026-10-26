@@ -91,3 +91,66 @@ re-litigated on the next pass. The module is not cleared pending the
 one measurement repair. On the next rereview I will remeasure the hash,
 inspect only the intervening delta, and record the disposition on that
 basis.
+
+---
+
+## Delta re-review (changed-hash rereview owed by the band note), 2026-10-26
+
+- Current hash (measured this session, full):
+  65f9143689d1ba57309ab9a67ffa46c6dc4e7bdb39a8cbba1350e0236aa81500
+- Delta reviewed by direct diff (0e618e3e -> 65f91436): the Option B
+  segment edit (required watch restated as 0:00-26:22 ending at the
+  talk's own Chapter 2 marker; remainder 26:22-53:43 optional further
+  viewing, not tested, no health claims) plus the minimum consistency
+  edit to Step 1 and the workload line, plus the measurement repair.
+  Receipt: verify/deg-wol-daoism-m4-ruling-and-measurement-1026a.md.
+
+### Checks performed this session
+
+1. **Watch-page markers verified by fresh fetch** of
+   https://www.youtube.com/watch?v=WDwPln1CczI: full duration 53:43
+   printed; Chapter 2 marker at 26:22 printed; "Stillness and Emptiness
+   Meditation Practice" 19:14; "Expelling the Old and Ingesting the
+   New" 19:51; posture material bracketed 21:05 (Yangxiang Qualities)
+   to 23:28 (Sleeping Posture). All markers newly cited by the Option
+   B edit are accurate as printed on the watch page.
+
+2. **Time arithmetic recomputed**: 26:22 video + 25 reading + 45 prose
+   + 17 retrieval + 50 graded + 5 self-assessment = 168.4 min, stated
+   as about 168 minutes / 2 h 50 m — correct. Elective-variant
+   subtraction (about 2 h 20 m) consistent. Neiye reading component
+   (550 measured words x two readings at 130 wpm = about 8 min raw,
+   x3 = 25 min) recomputed and correct.
+
+3. **Measurement repair verified with one residual (nonblocking)**: the
+   boundary is now stated exactly ("whitespace tokens from 'What this
+   module is for' through the end of the Rubric, table rows
+   excluded") and reproduces — but the stated count, 2,618, is the
+   PRE-Option-B count. The Option B edit added about 39 words inside
+   the measured span: the current text measures 2,656 under the stated
+   boundary (measured this session; the old text at 0e618e3e measures
+   2,617). The lane's receipt carried the old count forward instead of
+   re-measuring. Materiality: none — the derived values are unchanged
+   (2,656/180 = about 15 min raw, same as 2,618/180; the 45-minute
+   estimate and the 168-minute total are correct as stated). Routed as
+   a one-line correction: restate 2,618 as 2,656 (or "about 2,650").
+
+4. **Em-dash check**: zero em dashes in the file (receipt claim
+   confirmed by count).
+
+5. **No other changes in the delta**: outcomes, deliverables, rubric,
+   Neiye assignment and no-health-promises framing untouched (receipt
+   claim confirmed against the diff).
+
+### Verdict
+
+**MODULE-QC PASS at
+65f9143689d1ba57309ab9a67ffa46c6dc4e7bdb39a8cbba1350e0236aa81500.**
+
+The one required repair (exact measurement boundary) is applied and
+reproduces; the residual stale count (2,618 vs measured 2,656) changes
+no derived quantity and is routed as a one-line correction for the
+production lane. Gate cleared; whole-degree/publication gates
+separate. The standing content-verification item (full-transcript
+inspection of the Komjathy talk) remains with deg-verify as ruled in
+the first review.
