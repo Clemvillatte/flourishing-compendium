@@ -1,3 +1,13 @@
+## Worker checkpoint (2026-10-26 00:58Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+QC SAMPLE — concept page Adequate idea (complete: the one quote on the
+page checked): the Spinoza Ethics Part II Definition IV sentence
+("By an adequate idea, I mean an idea which, in so far as it is
+considered in itself, without relation to the object, has all the
+properties or intrinsic marks of a true idea.") confirmed VERBATIM on
+[Gutenberg 3800](https://www.gutenberg.org/files/3800/3800-h/3800.htm)
+(Elwes translation). No defects; no repairs needed.
+
 ## Worker checkpoint (2026-10-26 00:57Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — concept page Absolute nothingness (complete: the one quote
