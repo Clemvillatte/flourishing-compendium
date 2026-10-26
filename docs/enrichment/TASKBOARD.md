@@ -3938,3 +3938,32 @@ Fresh navigation to #card=NAV-PSYCH-V1K on the deployed site (after GitHub Pages
   the labs.wsu.edu PDF carrier returns 403 to this environment — carrier
   unreachability only, no content discrepancy found. Flagged for the next
   verification pass with a different fetch route.
+
+## Verification checkpoint — 2026-10-26 00:40Z (worker-pplx-verify-1026a, audit baton; Lane 4)
+
+New-story sample from the 2026-10-26 registration batch (ST307-ST507, commit
+0c9799453): 5 pages sampled across the range, quote fidelity vs freshly opened
+carriers, 22/22 quoted spans VERBATIM, zero repairs.
+
+- ST307 Ten Ox-herding (D065): Terebess page fetched raw; 9/9 spans verbatim
+  (intro, forgetting line, picture-9 verse, before/after-enlightenment line,
+  inactive-zen warning incl. "Such an attitude is called", "barefoot without
+  shoes", full marketplace sentence, "person and ox both forgotten"); the
+  'unnecessary' gloss check passes ("as a result of this entire process...
+  unnecessary").
+- ST415 Yan Hui zuowang (D047): the FULL dialogue blockquote matches the ETH
+  Legge PDF verbatim (pdftotext + normalized substring match).
+- ST420 Shuoyuan vessel (D029): ctext blocked from this environment (Access
+  unavailable page); verified instead against zh.wikisource 說苑/卷10 (same
+  public-domain text, opened this session): 滿則覆，虛則欹，中則正 and the full
+  高而能下…損而不極 series verbatim; keeper's "右坐之器" reply, Zilu water test
+  and sigh sentence all present.
+- ST495 Mengsun Cai (D090): Eno PDF (IU ScholarWorks, downloaded+extracted)
+  8/8 spans verbatim; Legge PDF 4/4 verbatim ("exhibited no sorrow" is
+  correctly attributed to Legge).
+- ST505 Herrigel breath (B095): WFU PDF 7/7 spot-checks verbatim, incl. the
+  binds/loosens passage; independently confirms the s1e 2026-10-25
+  re-verification note in the page's Sources.
+
+No edits needed on any sampled page. Sample does not certify the other 35 new
+pages; next pass should cover the remaining ST range and the repaired ST004.
