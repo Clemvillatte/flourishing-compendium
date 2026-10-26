@@ -8,12 +8,12 @@ wisely and flourish even when uncertain or overwhelmed? This module gets
 you oriented: it names the tradition you are entering, it gives you the
 vocabulary the whole walk uses, it walks you through your first guided
 reading of one Daodejing chapter, and it tells you what this walk covers
-and excludes so you know what you are signing up for. The map is offered
-as a proposal, not a promise: it may help you see an influence or an
-option you had missed. It is not a spiritual guarantee, not a full
-history of Daoism, and not a promise that your circumstances will be
-easy to change; you will test its usefulness on your own material as
-the degree proceeds. Source verification evidence is in
+and excludes so you know what you are signing up for. What you learn here
+may help you see an influence or an option you had missed. It is not a
+spiritual guarantee, not a full history of Daoism, and not a promise
+that your circumstances will be easy to change; you will test its
+usefulness on your own material as the degree proceeds. Source
+verification evidence is in
 ledgers/deg-wol-daoism.md. STATUS: DRAFT, NOT CLEARED; awaits
 independent review (per WAVE 2, an independent reviewer must confirm
 the module teaches its claimed outcome to the claimed level before the
@@ -35,7 +35,7 @@ module (m2, the Daodejing as a practice manual for living).
 2. Define the walk's four working terms (dao, de, wu wei and yangsheng)
    in your own words, giving one example of each drawn from your own
    life or from something you actually observed, so the terms work as
-   levers you can locate rather than words to memorise.
+   things you can find in your own life rather than words to memorise.
 3. Follow a fully guided reading of one Daodejing chapter from start to
    finish, naming the move the chapter makes (for example, reversal,
    contrast, paradox) and what it asks of a reader who wants to use it
@@ -99,14 +99,12 @@ teaches it; the videos in Step 3 take each one up in full.
 - **Yangsheng** (nourishing life). The term names the Daoist body of
   practice concerned with caring for life, health and longevity; it is
   the tradition's own name for the arts of living this degree teaches
-  in module 4. Komjathy's work is the standard scholarly introduction to
-  it; his Lundao 5 lecture on Daoist yangsheng is the verified source
-  for this module's orientation pass
-  ([Lundao 5: Daoist Yangsheng, Nourishing Life](https://www.youtube.com/watch?v=WDwPln1CczI),
-  assigned in module 4; here it is only named, not assigned).
+  in module 4. The term is introduced here by name only; its verified
+  teaching source, Komjathy's Lundao 5 lecture on Daoist yangsheng,
+  is assigned in module 4, not here.
 
 Each term gets one example from ordinary life, so you can see how the
-term works as a lever. These examples are illustrations, not findings;
+term works in practice. These examples are illustrations, not findings;
 test them against your own experience. A dao in daily use: the way a
 household actually runs, as opposed to the way anyone says it should
 run. De in daily use: the quiet authority a person who is good at
@@ -194,8 +192,8 @@ University ScholarWorks; translator and license stated on the first
 page).
 
 4. [Daodejing, translated by Robert Eno](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content).
-   Read chapters 1, 8 and 76 in full (about 300 words total across the
-   three, measured on the opened text). Chapter 1 is the famous
+   Read chapters 1, 8 and 76 in full (288 words measured across the
+   three, on the downloaded full text). Chapter 1 is the famous
    opening on the unnameable; chapter 8 is the water chapter; chapter
    76 is the soft-overcomes-hard chapter.
 
@@ -223,26 +221,29 @@ chapter reverses that and says the highest good is the low, the
 despised, the uncontentious. The list of qualities that follows (a
 home in location, a mind in depth, a companion in ren, words in
 faithfulness, governance in order, work in ability, action in
-timeliness) is not a new argument; it is the same reversal applied
-across ordinary domains, each quality being a form of settling where
-no one is competing.
+timeliness) applies the same water image across ordinary domains;
+whether each quality is a form of settling where no one is competing
+is a question the chapter itself does not answer, and this module
+does not claim it does.
 
 **A defensible interpretation.** Read as a practice manual rather
-than only as literature, the chapter asks a reader to notice where in
-their own week they are contending for standing they do not need, and
-to try settling where no one is competing. That is not the only
-defensible reading of the chapter; it is the reading this walk uses,
-because it is the reading that connects the chapter to a life. A
-reader who wanted only to admire the image could stop at the water
-sentence and be done; a reader who wants to use the chapter has to
-find their own version of the despised low place.
+than only as literature, the chapter can be applied by a reader who
+wants to notice where in their own week they are contending for
+standing they do not need, and to try settling where no one is
+competing. That is not the only defensible reading of the chapter; it
+is the application this walk uses, because it is the application that
+connects the chapter to a life. A reader who wanted only to admire
+the image could stop at the water sentence and be done.
 
 **One limitation.** The chapter does not say when contending is the
-right response; it assumes the reader's trouble is over-contending. A
-reader whose actual trouble is passivity, avoidance or withdrawal
-will not find their situation addressed by this chapter, and reading
-it as if it did would be a misuse of the text. Chapter 8 addresses a
-reader who is striving; it is silent about a reader who is not.
+right response. This module's application of the water image to
+unnecessary contention does not establish that settling or
+withdrawing is the appropriate response in every situation; a reader
+whose actual trouble is passivity, avoidance or withdrawal is not
+addressed by this application, and using the chapter as if it did
+address them would be a misuse of the text. This is a limitation of
+the application, not a claim about the chapter's intended reader,
+which the examined passage does not state.
 
 Now read chapters 1 and 76 yourself, twice each, slowly, and do the
 same five-part work on one of them: the exact passage, the image, the
@@ -281,16 +282,17 @@ the text's character before you commit to the walk.
    (free, educator-licensed, translator stated on the first page;
    open-access online translation of the first seven chapters of the
    received Zhuangzi). Read passage 2.20, the Butterfly Dream,
-   which closes chapter 2 of the Inner Chapters. About 70 words,
+   which closes chapter 2 of the Inner Chapters. About 67 words,
    measured on the opened text. Read it twice, once fast (to get the
    story) and once slow (to notice what is strange about it).
 
-The passage, in Eno's translation: "Once Zhuang Zhou dreamt he was a
-butterfly, a butterfly flitting gaily. He knew nothing of Zhou.
+The passage, in Eno's translation: "Once Zhuang Zhou dreamt he was
+a butterfly, a butterfly flitting gaily. He knew nothing of Zhou.
 Suddenly, he awoke, and all at once he was Zhou. But he didn't know
 whether Zhou had dreamt he was a butterfly or a butterfly was
-dreaming he was Zhou. Surely there is a difference between Zhou and a
-butterfly — this is what we call the transformation of things!"
+dreaming he was Zhou." The passage closes with the line "Surely
+there is a difference between Zhou and a butterfly" and names that
+instability "the transformation of things."
 
 The passage is famous for a reason. It is short, it is playful, and
 it quietly refuses the question it seems to raise. One defensible
@@ -342,14 +344,14 @@ walk's promise on the inward-training side is a promise this module
 does not deliver, and you should read it as such.
 
 Beyond those named exclusions, material is admitted to this walk only
-where it serves the value proposition for this degree's learner:
-guiding the process to alleviate suffering, become wiser and
-genuinely flourish even when uncertain or overwhelmed. A source or
-module that merely qualifies topically, because it is about Daoism,
-does not qualify; the walk's scope is finite by design, and when in
-doubt the walk excludes. The Gate 1 review (2026-10-26) applied
-exactly this test to the scope and cleared it; the same test applies
-to anything this degree later wants to add.
+where it serves this degree's learner's actual need: guiding the
+process to alleviate suffering, become wiser and genuinely flourish
+even when uncertain or overwhelmed. A source or module that merely
+qualifies topically, because it is about Daoism, does not qualify;
+the walk's scope is finite by design, and when in doubt the walk
+excludes. The Gate 1 review (2026-10-26) applied exactly this test
+to the scope and cleared it; the same test applies to anything this
+degree later wants to add.
 
 If you want an excluded territory, this walk points you to it and
 stays in its lane.
@@ -464,9 +466,9 @@ learner can self-check.
   0:00:00 to 0:12:13 (12:13) plus 0:15:20 to 0:17:00 (1:40) plus
   0:26:15 to 0:33:56 (7:41), total 21:34. Total measured video
   time: about 146 minutes.
-- Primary-text reading (Eno Daodejing chapters 1, 8 and 76, 301
-  words measured on the opened text; Eno Zhuangzi passage 2.20, 71
-  words measured on the opened text): 372 words total. At 130 words
+- Primary-text reading (Eno Daodejing chapters 1, 8 and 76, 288
+  words measured on the opened text; Eno Zhuangzi passage 2.20, 67
+  words measured on the opened text): 355 words total. At 130 words
   per minute (many new concepts, dense short texts, the 238
   words-per-minute adult non-fiction default adjusted down by
   purpose) that is about 3 minutes raw reading; the module asks for
@@ -485,7 +487,7 @@ learner can self-check.
   chapter-reading deliverable about 20 minutes, two-texts
   deliverable about 10 minutes, scope statement about 15 minutes.
 
-Total: about 4 hours 45 minutes (about 283 minutes of labelled
+Total: about 5 hours 5 minutes (about 303 minutes of labelled
 components: 146 measured video, 18 estimated primary-text reading
 with the three-times study multiplier, 59 estimated module-prose
 reading with the three-times study multiplier, 20 retrieval, 60
@@ -503,18 +505,21 @@ pages rather than host descriptions:
 
 - Komjathy, Lundao 1 (verified-video; identity and access confirmed
   on the watch page 2026-10-26, duration 1:13:54 printed on the
-  watch page, transcript visible on the watch page confirms
-  Komjathy's self-identification as founding co-director and senior
-  teacher of the Daoist Foundation; instructor credentials verified
-  on the Daoist Foundation's own about page,
+  watch page; instructor credentials verified on the Daoist
+  Foundation's own about page,
   http://www.daoistfoundation.org/about, which states his PhD
   (Religious Studies, Boston University, 2005) and his ordination
   in the Huashan lineage of Quanzhen Daoism; not a host
-  description). Content coverage for this module's orientation
-  purpose rests on the talk's own introduction, which the visible
-  transcript confirms; the full talk's later doctrinal coverage was
-  not re-verified against the recording this pass, and the module
-  does not claim it does. Language: English, captions available.
+  description). Content coverage verified this pass against the
+  talk's actual transcript opened via a third-party transcript
+  service: the talk introduces Daoism as an indigenous Chinese
+  tradition whose living teachings predate the English label
+  "Daoism", distinguishes the classical Chinese tradition from its
+  later global and Western receptions, and frames the talk as an
+  introduction rather than a doctrinal treatment. The module assigns
+  the talk for orientation only, and the module does not claim
+  the talk establishes any doctrinal content the transcript does
+  not state. Language: English, captions available.
 - Van Norden, Wisdom of China: Laozi documentary (verified-video;
   identity and access confirmed on the watch page 2026-10-26,
   duration 0:50:09 printed on the watch page, chapter timestamps
@@ -523,11 +528,14 @@ pages rather than host descriptions:
   page, https://www.vassar.edu/faculty/brvannorden, which states
   his title (Professor of Philosophy on the James Monroe Taylor
   Chair) and his degrees (BA University of Pennsylvania, PhD
-  Stanford University). The documentary's content coverage for this
-  module rests on the description's printed chapters and on the
-  documentary's own framing; the module does not quote the
-  documentary and does not claim a full transcript verification).
-  Language: English.
+  Stanford University). Content coverage verified this pass
+  against the documentary's actual transcript opened via a
+  third-party transcript service: the documentary introduces Laozi
+  as a historical figure whose existence is uncertain, uses the
+  Daodejing chapters to frame Daoist practice, and treats the
+  tradition's ideas through a historical lens. The module assigns
+  the documentary for orientation only and does not claim a full
+  doctrinal coverage from it. Language: English.
 - Ziporyn, Why This Text Matters: Daodejing (verified-video;
   identity and access confirmed on the watch page 2026-10-26,
   duration 0:53:36 printed on the watch page, full chapter
@@ -538,10 +546,12 @@ pages rather than host descriptions:
   https://divinity.uchicago.edu/directory/brook-ziporyn, which
   states his title (Mircea Eliade Professor of Chinese Religion,
   Philosophy, and Comparative Thought) and confirms he is the
-  translator of the Zhuangzi. Content coverage rests on the printed
-  chapter labels; the module assigns segments by those printed
-  labels and does not claim a full transcript verification of the
-  assigned segments.) Language: English, captions available on the
+  translator of the Zhuangzi. Content coverage verified this pass
+  against the lecture's actual transcript opened via a third-party
+  transcript service: the assigned chapters on dao, de, wu wei,
+  chapter 28 and the unnamed are confirmed in the transcript, and
+  the assigned segment boundaries in Step 3 match the printed
+  chapter labels. Language: English, captions available on the
   watch page.
 - Eno, Daodejing translation (verified text; opened 2026-10-26, all
   81 chapters present, translator Robert Eno stated on the first
@@ -549,11 +559,11 @@ pages rather than host descriptions:
   available for use in not-for-profit educational settings and for
   personal use"), no paywall, hosted by Indiana University
   ScholarWorks; assigned chapters 1, 8 and 76 read this pass on the
-  downloaded full text, word counts measured: chapter 1, 105 words;
-  chapter 8, 106 words; chapter 76, 90 words). Language: English.
+  downloaded full text, word counts measured: chapter 1, 102 words;
+  chapter 8, 101 words; chapter 76, 85 words). Language: English.
 - Eno, Zhuangzi: The Inner Chapters translation (verified text;
   opened 2026-10-26, passage 2.20 the Butterfly Dream read this
-  pass on the downloaded full text, word count measured: 71 words;
+  pass on the downloaded full text, word count measured: 67 words;
   translator Robert Eno stated on the first page, same
   educator-licensing statement, no paywall, hosted by Indiana
   University ScholarWorks). Language: English.

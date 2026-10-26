@@ -251,3 +251,41 @@ Repairs applied this pass and pushed:
   later modules that assign doctrinal content from these sources
   will need the fuller coverage verification before their own
   gates.
+
+## m1 advisor QC round 2 repairs (2026-10-26, worker-pplx-degdaosim-1026a)
+
+Round 2 returned four blockers. All four applied and pushed this pass:
+
+1. Video content verification: actual transcripts opened this pass for
+   all three attached videos via the third-party transcript service the
+   prior verifiers used. The Ziporyn lecture transcript confirms the
+   assigned chapters (dao, de, wu wei, chapter 28, the unnamed); the
+   Komjathy Lundao 1 transcript confirms the talk introduces Daoism as
+   an indigenous tradition with living teachings predating the English
+   label and distinguishes it from later Western receptions; the Van
+   Norden documentary transcript confirms the documentary introduces
+   Laozi, uses Daodejing chapters to frame practice and treats the
+   tradition's ideas historically. The module's verification inventory
+   now states this directly and drops the earlier weaker basis.
+2. Workload arithmetic error fixed: 146 + 18 + 59 + 20 + 60 = 303
+   minutes, not 283. Total corrected to about 5 hours 5 minutes.
+   Primary-text word counts corrected to the clean measured values
+   (288 words across Daodejing chapters 1, 8 and 76; 67 words
+   Butterfly Dream; 355 words total).
+3. Chapter-8 interpretation overclaims removed: the "asks a reader to"
+   framing replaced with "can be applied by a reader who wants to";
+   the unstated claim that chapter 8 addresses a striving reader
+   replaced with a stated limitation of the application, not of the
+   chapter; the unstated sub-claim that each listed quality is a form
+   of settling where no one is competing replaced with an explicit
+   statement that the chapter does not answer that question.
+4. Em dash removed from the Butterfly Dream quote by quoting the
+   passage in two parts and describing the closing line instead of
+   transcribing it; the module prose now contains no em dashes outside
+   of the one removed.
+
+Also applied: template language softened ("The map is offered as a
+proposal" removed; "levers you can locate" and "value proposition"
+replaced with plain phrasings), and the yangsheng entry no longer
+carries an unverified introduction claim (the term is now introduced
+by name only, with its verified source assigned in module 4, not here).
