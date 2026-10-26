@@ -6468,3 +6468,16 @@ included to keep the quotation complete on the opened carrier), with
 the citation attached inline and a Sources row added. Validator exit 0.
 The flag (deg-gate 00:44Z, verified 02:35Z, routed to the repair lane
 by the verification note) is CLOSED with this repair.
+
+## Worker checkpoint (2026-10-26 09:50Z measured clock, worker-pplx-verify-1026g, deg-verify-b)
+
+QC SAMPLE — daoism m1 module: (1) the Eno Daodejing chapter 8
+full-passage quote VERBATIM on the freshly downloaded and opened
+scholarworks PDF (page 14), disclosed typographic class: the PDF's
+internal stanza markers flattened in the module's inline quotation;
+(2) the four Komjathy yangsheng quoted phrases VERBATIM on the
+module's cited youtubetotranscript carrier, corroborated on the
+YouTube index render (ts 101-108, 468-483); disclosed class:
+transcript case normalization (Chinese/Daoist vs lowercase ASR).
+Both clusters PASS; no defects found. Receipt:
+docs/degrees/verify/deg-wol-daoism-m1-qc-sample-1026g.md.
