@@ -615,5 +615,7 @@
    "from": "gm-c2183cca",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-26T00:06:01+00:00"
 }
