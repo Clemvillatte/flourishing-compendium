@@ -28,7 +28,7 @@ The fifth factor of the [Eightfold Path](https://clemvillatte.github.io/flourish
 
 The placement is as instructive as the list. The path groups livelihood with [Right speech](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20speech) and [Right action](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20action) in the virtue division of [The three trainings](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20trainings), so work is an ethical practice field before it is a question of insight.
 
-[Action over intention](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20over%20intention) records the same placement logic: conduct gets its own factor rather than being left to trained intention. The grouping says something a modern reader can miss: the question the path asks about work is not first whether the job expresses the person or fulfills them, but whether it is conduct they can stand behind, the same question it asks of a word spoken or a thing taken.
+[Action over intention](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20over%20intention) records the same placement logic: conduct gets its own factor rather than being left to trained intention. The grouping says something a modern reader can miss: the first question the path asks about work is whether it is conduct a person can stand behind, the same question it asks of a word spoken or a thing taken, and only after that whether the job expresses or fulfils them.
 
 The floor under the factor is [Ahimsa](https://clemvillatte.github.io/flourishing-compendium/#card=Ahimsa), the principle of non-harm that runs through the Indic traditions: whatever else a livelihood does, it begins by doing no injury.
 

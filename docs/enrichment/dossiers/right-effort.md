@@ -154,4 +154,4 @@ The stories that best carry the theme's aspects, each retold in a line; the full
 
 ### The failures kept as data
 
-[ST112 — Edison Burns the Filaments](https://clemvillatte.github.io/flourishing-compendium/#card=ST112%20%E2%80%94%20Edison%20Burns%20the%20Filaments): the filament search tests thousands of materials, platinum, carbonised cotton thread, bamboo from a Japanese fan, and the notebooks record the failures as data; the insight was not in any single test, it was the refusal to stop generating variants until one survived.
+[ST112 — Edison Burns the Filaments](https://clemvillatte.github.io/flourishing-compendium/#card=ST112%20%E2%80%94%20Edison%20Burns%20the%20Filaments): the filament search tests thousands of materials, platinum, carbonised cotton thread, bamboo from a Japanese fan, and the notebooks record the failures as data; the insight lay in the refusal to stop generating variants until one survived.
