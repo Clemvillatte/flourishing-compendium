@@ -1,9 +1,10 @@
 # QC notes — deg-wol-buddhism (review session 31447914, worker-pplx-buddhism-1026a)
 
 Lane-local review notes from the second (yielded) production session, kept
-in this separate file to avoid shared-ledger push collisions. Written
-between the 05:02Z and 05:06Z work; clock readings recorded in the main
-ledger's session log. The supervisor and the producing session should
+in this separate file to avoid shared-ledger push collisions. Assembled
+incrementally; the exact write times of the individual sections were not
+all recorded (the session-log clock readings bracket the file's
+assembly). The supervisor and the producing session should
 treat these as review input, with the producing session free to accept or
 rebut each item.
 
@@ -138,8 +139,9 @@ pending and the producing session owns the b-spine.)
   Rinzai/Soto meditation description was directly read on the opened
   page and belongs to Lecture 3, "Thoughts on Meditation" (3rd July);
   the Lecture 2 description (What Can Christianity Offer Zen?) was also
-  read in full. The receipt is complete; only the video-page verification
-  remains owed.
+  read in full. The receipt was complete at write time with the
+  video-page verification outstanding; the producing session has since
+  completed that verification itself (see the b6 receipts).
 - The Fronsdal receipt now records that the 2007 course transcripts and
   the 2026 AudioDharma recordings are different editions; the
   recordings are not confirmed transcript-backed.
