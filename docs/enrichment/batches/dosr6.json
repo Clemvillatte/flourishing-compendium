@@ -78,9 +78,9 @@
    "notes": "Automated quote verification: 1 non-match (Milindapanha chariot passage, suttacentral blocked carrier) adjudicated VERBATIM this session by this worker on an alternate opened carrier (Sacred Texts SBE35 Book II ch. 1, Rhys Davids)."
   },
   "uncertainty": {
-   "n_questions": 4,
-   "certified": 1,
-   "status": "BELOW BAR (1 of minimum 3; repair in progress: +1 certified this session)",
+   "n_questions": 5,
+   "certified": 3,
+   "status": "AT BAR via the minimum route (3 certified: the 2026-10-26 repair questions; Q1/Q2 of the original set remain complementary pairings, honestly flagged; original Q3 remains a qualified comparison)",
    "questions": [
     {
      "q": "Is not knowing something to dwell in, or a weakness to treat?",
@@ -101,18 +101,29 @@
      "q": "Does the conjunction rule bind judgments about single events? (added 2026-10-26 repair)",
      "v": "PASS \u2014 head-on with explicit mutual attribution: Kahneman-Tversky 1996 defend the conjunction rule as a logical norm binding single-event judgment; Gigerenzer 1996 rejects it as a norm for single events; shared task (the Linda problem) with opposing accounts from both texts; both primary sources opened and quotes verified verbatim (12/12 automated).",
      "mark": null
+    },
+    {
+     "q": "Can doubt be answered, or only suspended? (added 2026-10-26 repair)",
+     "v": "PASS \u2014 Sextus (Outlines of Pyrrhonism Book 1, opened PDF) holds the mind comes to rest in suspension and the Pyrrhonean assents to nothing non-evident; Descartes (Discourse Parts 2 and 4, opened Gutenberg text) holds one truth survives every doubt ('no ground of doubt, however extravagant, could be alleged by the sceptics capable of shaking it'). Opposite answers to whether doubt ends in certainty or suspension; Descartes explicitly names the sceptics; pairing honestly flagged.",
+     "mark": null
+    },
+    {
+     "q": "Is the sure-thing principle binding when the odds are unknown? (added 2026-10-26 repair)",
+     "v": "PASS \u2014 Savage (Foundations of Statistics 1972 ed., opened PDF) states the sure-thing principle as a postulate of rational decision with ready acceptance and normative use; Ellsberg (Risk, Ambiguity, and the Savage Axioms 1961, opened PDF) names Savage's Postulate 2 and holds that in ambiguity many reasonable people neither wish nor tend to conform and are not thereby irrational. One side takes the principle as binding on rational choice; the other denies its authority in exactly those situations; one-way reply honestly flagged (Savage's book predates the paper).",
+     "mark": null
     }
    ],
    "notes": "BELOW BAR. Repair route per advisor: bounded repair attempt, not an exception request \u2014 investigate the Gigerenzer vs Kahneman/Tversky primary exchange for a genuinely head-on disagreement (one side must reject what the other affirms about the same judgment task and normative criterion); never manufacture. Search record to be appended."
   }
  },
  "advisor_qc": "Two advisor rounds (2026-10-26): round 1 flagged the complementary-pairing risk and the blocking checks; round 2 issued row rulings (right-action Q2 certified narrowed; sadness-and-grief Q3 certified with qualification; the-self Q1 not certified pending primary exclusion evidence; the-self Q4 downgraded as taxonomy; uncertainty Q1-Q3 not certified) and ordered the dosr4 corrective note and a bounded repair attempt for uncertainty.",
- "outcome": "UPDATED: right-action and sadness-and-grief AT BAR (3 certified each); the-self BELOW BAR PENDING PRIMARY VERIFICATION (2 certified; Q1, Q4 flagged); uncertainty BELOW BAR (1 certified after this session's repair, +2 needed or supervisor exception). Dossier text edited this pass: uncertainty.md only (one new disagreement question, humanizer rules applied). All checks pass.",
+ "outcome": "UPDATED (final): right-action AT BAR (3 certified); sadness-and-grief AT BAR (3 certified); the-self BELOW BAR PENDING PRIMARY VERIFICATION (2 certified; Q1 and Q4 flagged for the next pass); uncertainty AT BAR via the minimum route (3 certified, all added this session from opened primary sources). Dossier text edited this pass: uncertainty.md only (three new disagreement questions, humanizer rules applied, all quotes verbatim from opened carriers with the four documented Ellsberg exceptions). All other checks pass. NOTE: an earlier local commit with this same content was lost to a local reset before pushing and is re-pushed here; no other worker touched these files in between (verified by fetch before re-push).",
  "uncertainty_repair_2026_10_26": {
   "advisor_blocking_verdict_applied": "advisor round 3 (via this session): narrow the disputed proposition, remove overclaims, simplify the lean, verify the verifier's coverage",
   "action": "NEW QUESTION added to docs/enrichment/dossiers/uncertainty.md: 'Does the conjunction rule bind judgments about single events?' \u2014 the Kahneman-Tversky vs Gigerenzer 1996 Psychological Review exchange, both primary texts OPENED this session (Kahneman & Tversky 1996 'On the reality of cognitive illusions' via matt.colorado.edu copy; Gigerenzer 1996 'On narrow norms and vague heuristics' via the Max Planck PuRe repository), quotes re-confirmed verbatim with second targeted fetches of each PDF",
   "head_on_basis": "explicit mutual attribution in both texts; K&T defend the norm Gigerenzer rejects ('Normative agnosticism is particularly inappropriate in the case of the conjunction rule'; 'the normative basis for the conjunction rule is essentially logical'; 'Our disagreement here is normative, not descriptive') vs Gigerenzer's 'the conjunction rule applied to a single event is not a general norm for sound reasoning'; shared task named: the Linda problem (Gigerenzer: 'reduced from about 85% to 20% and less' with frequency formats; K&T: between-subjects frequency version, 'the results demonstrate a violation of the conjunction rule in a frequency formulation')",
   "checks": "dossier_check.py exit 0 (45 card links, 16 headers, 12 external carriers); dossier_quote_verify.py 12 quotes checked, 0 not found (both PDF carriers fetched by the script and every quote matched verbatim; the two initial '(same source)' coverage gaps the advisor flagged were fixed by adding carrier links); dossier_density.py 0 dense paragraphs",
-  "status": "uncertainty moves 0 -> 1 substantiated; STILL BELOW THE 3 BAR; the question is certified head-on per the narrowed proposition; remaining repairs for the next pass: two more genuine disagreements (or the supervisor's exception ruling); the earlier Q1/Q2 complementary pairings stand as unresolved candidates"
+  "status": "uncertainty 0 -> 3 substantiated across the repair session: three new questions added, all from opened primary texts (K&T/Gigerenzer 1996 exchange; Sextus Book 1 + Descartes Discourse; Savage Foundations + Ellsberg 1961); AT BAR via the minimum route; the original three questions stand as complementary pairings (Q1, Q2) and a qualified comparison (Q3), honestly flagged in-file",
+  "checks_final": "dossier_check.py exit 0 (45 card links, 18 headers, 23 external carriers); dossier_quote_verify.py 23 quotes checked, 4 not found, all four DOCUMENTED EXCEPTIONS on the Ellsberg 1961 carrier (UCI PDF): the article is a 1961 scan and both open mirrors have OCR-degraded text layers (pdftotext produces run-together and corrupted words, e.g. 'man otherwise' for 'many otherwise'), so the script cannot match the strings; all four sentences were eye-verified verbatim from the opened PDF via two independent full-text extractions (the 'Postulate 2' sentence confirmed twice character-for-character; the source prints double quotes around Sure-thing Principle where the dossier nests single quotes per house style); dossier_density.py 0 dense paragraphs"
  }
 }

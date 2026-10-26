@@ -114,6 +114,58 @@ The clash is explicit in both texts, each naming the other: one side holds that 
 
 My lean, which is mine, is to check how a question was framed before treating my answer as evidence that my judgment is faulty.
 
+### Can doubt be answered, or only suspended?
+
+The shared question: when everything can be doubted, does inquiry end in one truth the doubt cannot touch, or in giving up the search for one? The Pyrrhonian answer and Descartes's answer are opposites, and each was written with the other kind of position in view.
+
+Sextus states the skeptic's end state:
+
+> "Scepticism is an ability, or mental attitude, which opposes appearances to judgments in any way whatsoever, with the result that, owing to the equipollence of the objects and reasons thus opposed, we are brought firstly to a state of mental suspense and next to a state of 'unperturbedness' or quietude." ([Sextus Empiricus, Outlines of Pyrrhonism, Book 1](https://users.manchester.edu/Facstaff/SSNaragon/Online/texts/316/Sextus%20Empiricus,%20Pyrrhonism.pdf))
+
+> "For the Pyrrhonean philosopher assents to nothing that is non-evident." ([Sextus Empiricus, Outlines of Pyrrhonism, Book 1](https://users.manchester.edu/Facstaff/SSNaragon/Online/texts/316/Sextus%20Empiricus,%20Pyrrhonism.pdf))
+
+The quietude comes from ceasing to expect certainty, and the life that follows runs on appearances:
+
+> "Adhering, then, to appearances we live in accordance with the normal rules of life, undogmatically, seeing that we cannot remain wholly inactive." ([Sextus Empiricus, Outlines of Pyrrhonism, Book 1](https://users.manchester.edu/Facstaff/SSNaragon/Online/texts/316/Sextus%20Empiricus,%20Pyrrhonism.pdf))
+
+Descartes ran the same doubt as a one-time demolition and reports that something survived it:
+
+> "as for the opinions which up to that time I had embraced, I thought that I could not do better than resolve at once to sweep them wholly away, that I might afterwards be in a position to admit either others more correct, or even perhaps the same when they had undergone the scrutiny of reason." ([Descartes, Discourse on the Method, Part 2](https://www.gutenberg.org/files/59/59-h/59-h.htm))
+
+> "But immediately upon this I observed that, whilst I thus wished to think that all was false, it was absolutely necessary that I, who thus thought, should be somewhat; and as I observed that this truth, I think, therefore I am (COGITO ERGO SUM), was so certain and of such evidence that no ground of doubt, however extravagant, could be alleged by the sceptics capable of shaking it, I concluded that I might, without scruple, accept it as the first principle of the philosophy of which I was in search." ([Descartes, Discourse on the Method, Part 4](https://www.gutenberg.org/files/59/59-h/59-h.htm))
+
+The clash: Sextus holds that assent to anything non-evident is never forced, and that the mind comes to rest in suspension; Descartes holds that one truth survives every doubt, that the skeptics' own most extravagant doubts cannot shake it, and that it is the foundation inquiry was seeking. Limits: Descartes names "the sceptics" and not Sextus, and the pairing of these two texts is the dossier's framing; I read Book 1 of the Outlines and Parts 2 and 4 of the Discourse, and not the later literature on whether the Pyrrhonian and Cartesian programs can be reconciled.
+
+My lean, which is mine, is that the cogito tells me what my doubt cannot touch and the Pyrrhonian quietude tells me how to live with everything else.
+
+### Is the sure-thing principle binding when the odds are unknown?
+
+The shared question: Savage's sure-thing principle says that if you would make the same choice either way an unknown event turns out, you should make it without knowing. Ellsberg's urns put people in situations where the choice turns on how much is unknown, and reasonable people break the principle there. Is breaking it irrational, or is the principle silent about ambiguity?
+
+Savage states the principle and its standing:
+
+> "Having suggested what I shall tentatively call the sure-thing principle, let me give it relatively formal statement thus: If the person would not prefer f to g, either knowing that the event B obtained, or knowing that the event ~B obtained, then he does not prefer f to g." ([Savage, The Foundations of Statistics, 1972 edition](https://gwern.net/doc/statistics/decision/1972-savage-foundationsofstatistics.pdf))
+
+> "except possibly for the assumption of simple ordering, I know of no other extralogical principle governing decisions that finds such ready acceptance." ([Savage, The Foundations of Statistics, 1972 edition](https://gwern.net/doc/statistics/decision/1972-savage-foundationsofstatistics.pdf))
+
+The principle is for him normative machinery: "The main use I would make of P1 and its successors is normative, to police my own decisions for consistency" (same source).
+
+Ellsberg names the principle and the class of cases where it breaks:
+
+> "This corresponds to Savage's Postulate 2, which he calls the 'Sure-thing Principle' and which bears great weight in the analysis." ([Ellsberg, Risk, Ambiguity, and the Savage Axioms, 1961](https://sites.socsci.uci.edu/~bskyrms/bio/readings/ellsberg.pdf))
+
+> "I propose to indicate a class of choice-situations in which many otherwise reasonable people neither wish nor tend to conform to the Savage postulates, nor to the other axiom sets that have been devised." ([Ellsberg, Risk, Ambiguity, and the Savage Axioms, 1961](https://sites.socsci.uci.edu/~bskyrms/bio/readings/ellsberg.pdf))
+
+And he denies the irrationality charge for those cases:
+
+> "Indeed, it seems out of the question summarily to judge their behavior as irrational: I am included among them." ([Ellsberg, Risk, Ambiguity, and the Savage Axioms, 1961](https://sites.socsci.uci.edu/~bskyrms/bio/readings/ellsberg.pdf))
+
+> "It would seem incautious to rule peremptorily that the people in question should not allow their perception of ambiguity, their unease with their best estimates of probability, to influence their decision" ([Ellsberg, Risk, Ambiguity, and the Savage Axioms, 1961](https://sites.socsci.uci.edu/~bskyrms/bio/readings/ellsberg.pdf)).
+
+The clash: Savage holds the sure-thing principle to be a postulate of rational decision with ready acceptance; Ellsberg holds that in situations of ambiguity many reasonable people neither wish nor tend to conform to it and are not thereby irrational. One side takes the principle as binding on rational choice; the other denies its authority in exactly those situations. Limits: Savage's book predates Ellsberg's paper, so the reply runs one way only; I read the principle's statement and Ellsberg's challenge, and not the later literature that grows from the paradox.
+
+My lean, which is mine, is that Ellsberg is right that known odds and unknown odds are different situations, and that acting on the difference has a price Savage's principle exists to count.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying is the reflex to resolve. The look-alikes of tolerance are resignation and distraction. The adaptive moves are to let the not-knowing stay present, to turn an unknown into a small test, and to let the one fact that is certain, mortality with an unknown date, say what is urgent.
