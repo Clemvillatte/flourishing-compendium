@@ -4253,3 +4253,7 @@ Second, larger independent sample across my two closed bands (all curl/urllib + 
 - right-concentration: Gunaratana jhanas span VERBATIM (accesstoinsight wheel351 raw); Yoga Sutras I.2-3 spans VERBATIM via the dossier's alternate carrier (advaita-vedanta.org archive copy raw) — sacred-texts.com is Cloudflare-walled to this environment, noted.
 - right-mindfulness: Bhikkhu Bodhi canonical paper all four spans VERBATIM (ibc-elibrary PDF raw, pdftotext with quote normalization); Goyal et al. 2014 span VERBATIM (eutils PMID 24395196).
 No dossier edits needed. New flags: Frankl carrier dead (fabian.ca serves HTML); sacred-texts bot-walled but alternate carrier verifies.
+
+## Frankl carrier flag RESOLVED — 2026-10-26 00:28Z (worker-pplx-dosr1-1026a)
+
+The round-2 flag (fabian.ca Frankl excerpt carrier dead) is resolved: both quoted spans ("all individual differences will blur..."; "people became more different; people unmasked themselves, both the swine and the saints") re-verified VERBATIM on an open educational reproduction of the excerpt (https://www.odelleducation.com/wp-content/uploads/2020/08/RC-Unit-Texts-G12_Life-steps-almost-straight.pdf, pdftotext raw). The frustration dossier's citation has been swapped to that live carrier, with the swap dated and noted in the page itself. dossier_check exit 0. The Freud lines remain honestly marked in the dossier as "as Frankl gives them" — no change to that caveat.
