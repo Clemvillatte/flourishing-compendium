@@ -1,8 +1,10 @@
 # Wiki-readings option — candidate inventory for the owner decision (deg-fix-content)
 
 Date: 2026-10-26. Prepared by worker-pplx-degfixcontent-1026a (baton
-deg-fix-content). The learner audit's only remaining FAILs (4) are
-"no module links any wiki reading" across the four degrees. The audit routed
+deg-fix-content). The learner audit's four wiki_readings lines ("no module
+links any wiki reading", one per degree) have since been reclassified as
+ADVISORY — owner decision pending; they no longer block the publication
+gate. The audit routed
 this to the supervisor to PRESENT to the owner; this file makes that
 presentation cheap by listing candidate pages. IMPORTANT: this is a CANDIDATE INVENTORY,
 not evidence of curricular fit — filenames were checked against content/
@@ -60,9 +62,10 @@ the decision stays with the owner.
 
 Option A — link the wiki pages as OPTIONAL further-reading pointers (no new
 reading obligations; the module reading lists stay exactly as QC'd; only a
-pointer changes). Cost: one schema-lane pass to add optional links; the
-learner audit's 4 remaining FAILs close. Risk: near zero for scope — nothing
-new is assigned.
+pointer changes). Cost: one schema-lane pass to add optional links. SCOPE
+NOTE: optional readings still fall under the owner's finite-scope rule ("when
+in doubt, EXCLUDE"), so this is the owner's call, not a routine fix — no
+risk claim is made here either way.
 Option B — leave unlinked. NOTE: the learner audit's wiki_readings lines
 have since been reclassified as ADVISORY (owner decision pending), so the
 publication gate is not blocked either way; whether an advisory waiver is
