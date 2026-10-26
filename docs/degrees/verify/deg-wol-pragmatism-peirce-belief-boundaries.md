@@ -74,3 +74,7 @@ paragraph is certified as a complete novice lesson here.
 No whole-paper assignment, new logic unit, cosmology or process-thought
 elective follows from this source opening. No exact quotation from
 Peirce is introduced.
+
+Independent read-only review was requested for this receipt. No
+acceptance is recorded at this checkpoint, so its preparation status
+must not be read as independent QC or curriculum approval.
