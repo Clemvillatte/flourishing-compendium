@@ -889,7 +889,7 @@ history; this entry supersedes their wording where they conflict.
    found and removed with both sides of each kept. Who introduced
    them was not established; no attribution is made.
 
-## m4 preparation: Sprintzen recordings oembed identity checked (2026-10-26, clock 05:24:52Z measured, worker-pplx-pragmatism-1026b)
+## m4 preparation: Sprintzen recordings oembed identity checked (2026-10-26, clock 05:24:16Z measured, worker-pplx-pragmatism-1026b)
 
 The gap named in the corrections entry above is closed: both
 Sprintzen recordings were checked on the platform oembed response
