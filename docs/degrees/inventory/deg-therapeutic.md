@@ -72,3 +72,7 @@ Current state: 4 legacy modules at pilot scale — the curriculum-architecture a
 ## D2 handoff
 
 BLOCKED on the owner ruling above. If rebuild: the D2 agent fills this matrix with verified open resources (the syllabi point to open-access readings — Gilbert 2014, the Kazantzis processes-of-change meta-analysis, Miller & Rose on MI — plus the open Noba/self-help layer) and presents at the mandatory checkpoint. If retire-with-harvest: this file's matrix is the harvest map — each row names where its territory goes (existential strand → deg-wol-existentialism; the CBT/MI/CFT/MBCT strands stay here pending ruling) — and no D2 work happens here.
+
+## Ruling addendum (owner ruling 2026-10-27, commits bad5c55b8 / 622a7eca3)
+
+D2 for this degree is re-targeted: teaching content ONLY — open courseware, free-audit MOOCs, scholarly lecture series, teaching commentaries, and the existing enriched doc library. Corpus/primary-text rows point at the owner's existing library (docs/PRIMARY-SOURCES.md) and wiki docs rather than being sourced. No encyclopedic reference material (SEP/Wikipedia/IEP/Britannica) may appear as assignments or matrix rows. This addendum governs the D2 handoff section above wherever the two differ.

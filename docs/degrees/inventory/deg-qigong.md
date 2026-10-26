@@ -69,3 +69,7 @@ Current state: 12 final-status modules ("Qi Gong — A Year of Practice"), ~70h 
 ## D2 handoff
 
 If the anchor ruling confirms the practice-lineage corpus: the D2 agent verifies the form library and the ten-phase arc against the degree's existing module docs (docs/degrees/pilots/ and site data), fills the theory and evidence-literacy rows with open resources (the wiki's own dossiers, Jahnke's openly published material, the Stanford-style journal-club readings where open), and presents at the mandatory checkpoint. The NQA/IIQTC standards are used as sequence-and-content evidence, not as resources to purchase.
+
+## Ruling addendum (owner ruling 2026-10-27, commits bad5c55b8 / 622a7eca3)
+
+D2 for this degree is re-targeted: teaching content ONLY — open courseware, free-audit MOOCs, scholarly lecture series, teaching commentaries, and the existing enriched doc library. Corpus/primary-text rows point at the owner's existing library (docs/PRIMARY-SOURCES.md) and wiki docs rather than being sourced. No encyclopedic reference material (SEP/Wikipedia/IEP/Britannica) may appear as assignments or matrix rows. This addendum governs the D2 handoff section above wherever the two differ.

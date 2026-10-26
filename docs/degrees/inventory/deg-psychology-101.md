@@ -63,3 +63,7 @@ Current state: **1 module ("The Psychology Lab — Full Textbook Companion"), 0.
 ## D2 handoff
 
 BLOCKED on the owner ruling above. If rebuild-on-open-carrier: the D2 agent verifies OpenStax Psychology 2e chapter by chapter (each chapter's what-topic-it-covers logged), re-points the mission/coverage layer to it, and presents at the mandatory checkpoint. If retire: this file's matrix records that the entire survey territory is otherwise carried by the degree ecosystem's deeper walks (deg-psychdim for the six-dimension spine, the psychx4 legacy rebuilds, deg-therapeutic's fate) — and no D2 work happens here.
+
+## Ruling addendum (owner ruling 2026-10-27, commits bad5c55b8 / 622a7eca3)
+
+D2 for this degree is re-targeted: teaching content ONLY — open courseware, free-audit MOOCs, scholarly lecture series, teaching commentaries, and the existing enriched doc library. Corpus/primary-text rows point at the owner's existing library (docs/PRIMARY-SOURCES.md) and wiki docs rather than being sourced. No encyclopedic reference material (SEP/Wikipedia/IEP/Britannica) may appear as assignments or matrix rows. This addendum governs the D2 handoff section above wherever the two differ.
