@@ -3912,3 +3912,23 @@ docs/enrichment/qc/QC-SAMPLE-DOSR5-2026-10-26.md samples 8-17.
   module plan m1-m5 is in the ledger. The Misak lecture's
   playback/caption checks need an environment where YouTube playback
   is not bot-walled.
+
+## deg-wol-pragmatism m4 preparation addendum (2026-10-26, clock 05:21:44Z measured, worker-pplx-pragmatism-1026b)
+
+- m4 (Dewey) preparation done, no module written: video-first search
+  recorded with three candidates, all identity-confirmed via the
+  platform oembed response this session: Richard J. Bernstein
+  lecture on Dewey (H_G73CAI5Hc, 57:05 per listing, Philosophy
+  Overdose channel; Bernstein's credentials verified on the New
+  School institutional page); David Sprintzen two-part Dewey
+  lectures (-FpUPyhsQV8 57:23, SRnY1Bx4G0s 1:01:11 per listings;
+  credentials verified on the Long Island University Hutton House
+  pages); UCSC PHIL 112 "American Philosophy: Dewey, lecture 1"
+  (KqJ9uyYFe2E, 1:32:10 per listing, Abraham Stone channel).
+  Playback, captions, coverage and institutional verification of
+  Stone remain pending. All details in the band ledger.
+- Final verification pass recorded in the ledger: every genuine
+  quotation in m2 and m3 verified verbatim against the fetched
+  sources; the m1 Philosophy Talk video was also tried on the
+  timedtext route (no captions returned), so the block stands on
+  three routes.
