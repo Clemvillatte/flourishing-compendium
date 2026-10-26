@@ -23,9 +23,9 @@
   recognizing the hindrances and learning how to deal with them that
   makes concentration possible"; {ts:302-310} "there's a traditional
   list of five hindrances sensual desire ill will sloth and toror
-  restlessness and anxiety". Indexed transcript excerpts at 04:49–04:56 and
-  05:02–05:10 were inspected and support the hindrances
-  recognition-and-response theme (the five-hindrances list and the
+  restlessness and anxiety". Indexed transcript excerpts bearing timestamp
+  markers at 04:49, 04:56, 05:02 and 05:10 were inspected.
+  They support the hindrances recognition-and-response theme (the five-hindrances list and the
   recognizing-and-dealing-with-them move are spoken in the talk
   itself, consistent with the module's description-bounded claims);
   the remainder of the talk was not inspected. Provenance caveat:
