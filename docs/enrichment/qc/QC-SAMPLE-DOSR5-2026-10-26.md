@@ -442,3 +442,23 @@ Remaining unadjudicated from the dosr7 files: 13 items, all on hosts that
 block automated fetchers or not yet reached (tandfonline x4 across the two
 files, archive.org/Skinner x3, thaleszp.com, rider.edu, scispace x2,
 semanticscholar, academic.oup, web.archive.org).
+
+# QC sample 14: dosr7 creation — Skinner, Beyond Freedom and Dignity (2026-10-26 02:46:36Z, measured in-command)
+
+All three archive.org NOT FOUNDs adjudicated as FALSE POSITIVES, confirmed —
+direct download of the archive.org PDF:
+
+1. "as we learn more about the effects of the environment, we have less
+   reason to attribute any part of human behaviour to an autonomous
+   controlling agent": verbatim except the carrier prints the initial
+   capital ("As we learn...") — the dossier lower-cases it mid-sentence in
+   its own prose, a case-capitalization variance, not a wording deviation.
+2. "a device used to explain what we cannot explain in any other way":
+   verbatim.
+3. "Neither view can be proved, but it is in the nature of scientific
+   inquiry that the evidence should shift in favour of the second":
+   verbatim.
+
+Remaining unadjudicated from the dosr7 files: 10 items (tandfonline x4,
+thaleszp.com, rider.edu, scispace x2, semanticscholar, academic.oup,
+web.archive.org — all on hosts that block automated fetchers).
