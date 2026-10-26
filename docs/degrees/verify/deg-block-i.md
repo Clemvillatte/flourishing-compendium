@@ -723,3 +723,13 @@ pass.
 
 Remaining unresolved variants: 4 (formatting only); owed to the full
 pass.
+
+## Batch 3 follow-up 10 (2026-10-26T05:22Z)
+
+- SRC-M24-003: RESOLVED same-event — "Decolonization, Neocolonialism
+  and Human Rights: Gloria Anzaldúa" (ILAS Columbia, 2021-03-23,
+  1:34:31; reading-group session on Borderlands/La Frontera); matches
+  the record title exactly. Same event.
+
+Remaining unresolved variants: 3 (formatting only); owed to the full
+pass.
