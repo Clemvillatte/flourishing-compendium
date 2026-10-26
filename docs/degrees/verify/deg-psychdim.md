@@ -70,7 +70,7 @@ credentials are checked separately from article affiliations.
   checked. Placement and instructional effectiveness remain separate
   decisions for the owner and independent reviewers.
 
-## PD-V02: Enjoying the process without mistaking persistence for flourishing
+## PD-V02: Enjoyment and short-term engagement
 
 - **Opened:** 2026-10-26, verifier-96108df3. Search followed by the
   unprompted, anonymous
@@ -131,7 +131,7 @@ credentials are checked separately from article affiliations.
   checked. Counts as a 2025 source if retained, but does not by itself
   clear the curriculum's recency gate.
 
-## PD-V03: Flexible self-control rather than a test of moral worth
+## PD-V03: Flexible self-control in changing circumstances
 
 - **Opened:** 2026-10-26, verifier-96108df3. Search and unprompted fetch
   of the full
@@ -183,7 +183,7 @@ credentials are checked separately from article affiliations.
   placement only if it supplies a learning task not already met by
   PD-V02; do not add it merely because it is relevant.
 
-## PD-V04: Habit formation without a universal deadline
+## PD-V04: Variable timelines in habit formation
 
 - **Opened:** 2026-10-26, verifier-96108df3. Search and unprompted
   [PMC full-text fetch](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/);
@@ -237,7 +237,7 @@ credentials are checked separately from article affiliations.
   Retain the variability and design cautions alongside any headline
   number.
 
-## PD-V05: A clearer self-description need not be a rigid identity
+## PD-V05: Self-concept clarity and its evidence limits
 
 - **Opened:** 2026-10-26, verifier-96108df3. Search and unprompted
   [PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/);
@@ -294,7 +294,7 @@ credentials are checked separately from article affiliations.
   the production owner can justify its self-dimension task without
   broadening into identity theory for its own sake.
 
-## PD-V06: Constructed emotion is a position, not an efficacy result
+## PD-V06: Constructed emotion as a theoretical position
 
 - **Opened:** 2026-10-26, verifier-96108df3. Search and two unprompted
   [PMC fetches](https://pmc.ncbi.nlm.nih.gov/articles/PMC12164598/);
@@ -344,7 +344,7 @@ credentials are checked separately from article affiliations.
   Verification is not an instruction to include the source or a
   means of satisfying recency by padding the curriculum.
 
-## PD-V07: Attention has distinguishable functions, not three inner switches
+## PD-V07: Interacting attention networks
 
 - **Opened:** 2026-10-26, verifier-96108df3. Search and unprompted
   [PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/);
@@ -391,7 +391,7 @@ credentials are checked separately from article affiliations.
   Exclude the whole paper as a compulsory neuroscience survey;
   retain a small excerpt only if it earns its place in the task.
 
-## PD-V08: Recognising an unproductive thought process without self-diagnosis
+## PD-V08: Repetitive negative thinking and processing mode
 
 - **Opened:** 2026-10-26, verifier-96108df3. Search followed by
   the complete unprompted
@@ -458,7 +458,7 @@ defer primary-study appraisal. This is a source-to-task alignment flag,
 not a reversal of the coverage gate or a request for another required
 paper.
 
-## PD-V09: Self-endorsed effort is not the same as enjoyment
+## PD-V09: Enjoyment, instrumental reasons and autonomy
 
 - **Opened:** 2026-10-26, verifier-96108df3. Search and unprompted
   fetches of the
@@ -512,7 +512,7 @@ paper.
   credential checked. The two URLs are versions of one work,
   not two separate curriculum resources.
 
-## PD-V10: Emotion-regulation goals are a choice, not a neutral default
+## PD-V10: Choosing the goal of emotion regulation
 
 - **Opened:** 2026-10-26, verifier-96108df3. Search and complete
   unprompted
@@ -532,9 +532,13 @@ paper.
 - **Exact proposed assignment:** Introduction paragraphs
   starting “Usually defined” through the paragraph immediately
   before “Despite the importance”, then the Discussion's
-  opening three paragraphs. These passages expose the
+  opening two paragraphs, and the Conclusion paragraph
+  beginning “Although our study also has several strengths”
+  and ending “Empirical studies will need to consolidate
+  this theoretically derived conclusion.” These passages expose the
   difference between how someone regulates an emotion and
-  why they are doing it
+  why they are doing it, together with the empirical
+  limit on the proposed expansion of goals
   ([selected text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/)).
 - **Evidence type and boundary:** a systematic review and
   conceptual classification of 139 eligible articles from
@@ -643,7 +647,7 @@ paper.
   not a new core requirement; no claim-level endorsement
   of every underlying meta-analysis and no gate clearance.
 
-## PD-V12: Existing ego-depletion reading needs limits, not a willpower law
+## PD-V12: Existing ego-depletion reading, evidence and scope
 
 - **Opened:** 2026-10-26, verifier-96108df3. Search and complete,
   unprompted
@@ -851,7 +855,10 @@ paper.
   consequence, then state what further evidence would
   be needed before calling it a habit in the
   devaluation sense. Allow more than one plausible
-  account. No induced illness, fear exposure,
+  account. A consequence following an action does
+  not by itself establish reinforcement, and
+  frequent repetition does not establish
+  devaluation-insensitive responding. No induced illness, fear exposure,
   deprivation, substance use or manipulation of
   another person is part of this proposed task.
 - **Workload measurement:** the selected glossary
@@ -886,8 +893,14 @@ paper.
   should be derived from this verification.
 - **Other limits:** the chapter mixes childhood,
   animal and adult illustrations and contains
-  clinical extinction examples. Those are outside
-  the proposed assignment. The selected laboratory
+  clinical extinction examples. Clinical extinction
+  and observational-learning sections are excluded.
+  The selected rat devaluation examples are read
+  descriptively, never enacted by learners. Their
+  final choice test delivers no reinforcers: the
+  outcome was devalued during the preceding phase,
+  not by making the rat ill again in that test.
+  The selected laboratory
   material does not establish that a self-designed
   routine will alleviate suffering or help its user flourish
   ([full chapter](https://nobaproject.com/modules/conditioning-and-learning)).
@@ -897,3 +910,46 @@ paper.
   The cited drug study received abstract-only
   scrutiny and is not a learner resource or a
   verified full-text primary study. No gate clearance.
+
+## Excerpt workload check for production planning
+
+These are alternative or conditional candidate excerpts, not a combined
+reading list. Selection still requires a distinct Walk of Life learning
+task; do not sum this table and label the result a degree workload.
+The PD-V08 M3 variant replaces the ordinary PD-V08 selection if that
+specific commentary-appraisal activity is used.
+
+Counts were computed from the saved, opened cleaned texts, retaining
+headings and text captions while removing Markdown markup and URLs.
+The word-token convention retains internal apostrophes, hyphens and
+full stops. Different cleaning or token conventions shift small counts:
+for example, the selected PD-V14 cognition section has 511 words with
+that rule and 518 if internal full stops split tokens. Plan that reading
+as approximately 940–950 words overall rather than treating 941 as
+an exact learner burden
+([counted text](https://nobaproject.com/modules/conditioning-and-learning)).
+
+The house planning convention used here is 130 words per minute for
+material with many new concepts, then three to four times the raw
+reading estimate for study. These are estimates, not observed learner
+times or evidence that every learner needs the same allowance.
+Practice, assessment and any needed scaffolding must be budgeted
+separately.
+
+| Record and source | Approximate words | Raw reading at 130 wpm | Estimated study, 3–4 times raw |
+| --- | ---: | ---: | ---: |
+| PD-V04, [habit review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/), Results 3.2–3.5 plus the specified limits paragraph | 1,870 | 14.4 min | 43–58 min |
+| PD-V05, [self-concept review](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/), selected sections including their related-constructs table | 1,456 | 11.2 min | 34–45 min |
+| PD-V07, [attention review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/), Abstract plus the specified first paragraph | 355 | 2.7 min | 8–11 min |
+| PD-V08, [rumination commentary](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/), ordinary conceptual excerpt | 603 | 4.6 min | 14–19 min |
+| PD-V08 M3 variant, [same commentary](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/), with experimental-summary paragraph | 633 | 4.9 min | 15–19 min |
+| PD-V10, [ER-goals review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/), revised selection including empirical-limit paragraph | 834 | 6.4 min | 19–26 min |
+| PD-V13, [emotion-functions reading](https://nobaproject.com/modules/functions-of-emotions), two specified paragraphs | 92 | 0.7 min | 2–3 min |
+| PD-V14, [conditioning reading](https://nobaproject.com/modules/conditioning-and-learning), seven glossary entries and the specified sections | 941 by the stated rule | 7.2 min | 22–29 min |
+
+The most substantial remaining selections in this check are PD-V04
+and PD-V05. Their proposed excerpts are viable only if their distinct
+skills earn that study time. Reusing PD-V14 in M7 should involve
+retrieval or a new application, not charging for the same first reading
+twice. Excluded or advanced-optional records are not requirements to
+be added to fill a module.
