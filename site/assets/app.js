@@ -20239,12 +20239,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Immortality, or a state without death, would be meaningless, I shall suggest; so, in a sense, death gives the meaning to life.\" ([Williams, \"The Makropulos Case: Reflections on the Tedium of Immortality\"](https://123philosophy.wordpress.com/wp-content/uploads/2019/08/williams-immortality.pdf))",
+          "x": "\"Immortality, or a state without death, would be meaningless, I shall suggest; so, in a sense, death gives the meaning to life.\" ([Williams, \"The Makropulos Case: Reflections on the Tedium of Immortality\"](https://123philosophy.wordpress.com/wp-content/uploads/2019/08/williams-immortality.pdf); [readable copy](https://wmit-pages-prod.s3.amazonaws.com/wp-content/uploads/sites/283/2022/06/12152936/williams.pdf))",
           "s": null
         },
         {
           "t": "p",
-          "x": "His diagnosis of her state is boredom, \"a boredom connected with the fact that everything that could happen and make sense to one particular human being of 42 had already happened to her\" ([Williams, \"The Makropulos Case\"](https://123philosophy.wordpress.com/wp-content/uploads/2019/08/williams-immortality.pdf)). Thomas Nagel reads the loss from the other side:"
+          "x": "His diagnosis of her state is boredom, \"a boredom connected with the fact that everything that could happen and make sense to one particular human being of 42 had already happened to her\" ([Williams, \"The Makropulos Case\"](https://123philosophy.wordpress.com/wp-content/uploads/2019/08/williams-immortality.pdf); [readable copy](https://wmit-pages-prod.s3.amazonaws.com/wp-content/uploads/sites/283/2022/06/12152936/williams.pdf)). Thomas Nagel reads the loss from the other side:"
         },
         {
           "t": "q",
