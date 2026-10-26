@@ -1426,3 +1426,22 @@ the m1/m3 playback attempt recorded above tested the Misak lecture
 only; Philosophy Talk's playback limitation rests on the inherited
 verifier receipt, a distinction the ledger entry already preserves.
 m1 remains DRAFT, NOT CLEARED, awaiting supervisor module-QC.
+
+## m4 Reading A count delta, cause established (2026-10-26, worker-pplx-pragmatism-1026c)
+
+-The 774-vs-778 Reading A delta flagged in the deg-verify-b receipt is
+now reproduced and explained. The module's 778 is measured on the
+downloaded plain text of Project Gutenberg #37423 exactly as the
+module states, and reproduces exactly this session (778 on the plain
+text, line breaks joined). The verifier's 774 comes from a cleaned
+HTML-extraction method: on the same span of the HTML rendering
+(https://www.gutenberg.org/files/37423/37423-h/37423-h.htm, opened
+this session), stripping tags to nothing with printed-artifact
+cleaning gives 776, tags-to-space gives 780, and removing the
+rendering's sidenote divs drops it to 757-759; the exact 774 falls
+within that method spread. The passage boundaries are identical in
+every method (start "Another instance, commonplace also, yet not quite
+so", end "is wholly futile"). Conclusion: the delta is a counting-
+method and rendering difference, not a boundary or content error; the
+module's figure is correct per its stated method and no edit is
+needed, matching the verifier's own no-edit conclusion.
