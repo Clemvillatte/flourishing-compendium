@@ -94,6 +94,7 @@ def main():
             if sid in {r['source_id'] for r in m.get('requiredMedia', []) + m.get('optionalMedia', [])}:
                 log.append(f'{mid}: removed {sid}')
         m['requiredMedia'], m['optionalMedia'] = req, opt
+        if ms.get('activity'): m['activity'] = ms['activity']
     for sid, patch in spec.get('sources', {}).items():
         src[sid].update(patch)
     # strip assignment windows from source titles used by this degree
