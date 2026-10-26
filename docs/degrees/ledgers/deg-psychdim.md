@@ -601,9 +601,18 @@ tag-strip, same verification behaviour as above):
   full-body-candidate status.
 - Perception as inference (OYC PSYC 110 lecture 7 chapter 4): already
   verified via the batch-24 transcript fetch (full chapters read and
-  content-verified by the prior owner); chapter-4 excerpt measurement
-  is left to the writing session, which should state the count's
-  basis and the timestamp span if a video segment is assigned.
+  content-verified by the prior owner); chapter-4 span MEASURED this
+  pass (raw curl fetch of the lecture page, tag-strip): 3,794 words
+  on the transcript basis, from "Chapter 4. Introduction to the
+  Complexity of Perception and Expectation [00:18:06]" to just before
+  "Chapter 5. Linking Attention and Memory [00:39:15]" (both delimiters
+  unique and ordered), i.e. a video segment of about 21 minutes 9
+  seconds if the chapter is assigned as a watch. The span's final
+  sentence verified ("And that's all I have to say at this point
+  about perception."). The writing session should re-measure any
+  narrower assigned excerpt on a stated basis. M3 source preparation
+  is now COMPLETE: all five M3 sources opened and measured this
+  session.
 
 Supervisor Phase 0 ruling (ledger section of the same name): M1 repairs
 applied and ACCEPTED by the verifier's re-review (all three findings
