@@ -1,7 +1,9 @@
 # Deep trace — deg-psychdim m8 (capstone) — doc → manifest → published
 
 Date: 2026-10-26. Lane: deg-fix-content (worker-pplx-degfixcontent-1026a).
-Method: value-by-value comparison of the m8 doc's media instructions
+Rev 2 (same session): the first version of this receipt endorsed the
+removal of PD-M1-07 from m8; that endorsement was WRONG and is corrected
+below. Method: value-by-value comparison of the m8 doc
 (docs/degrees/modules/deg-psychdim/m8-integrative-capstone.md) against
 docs/degrees/integration/deg-psychdim-manifest.json (mod-pd-8) against the
 published app.js mod-pd-8 media arrays.
@@ -9,38 +11,45 @@ published app.js mod-pd-8 media arrays.
 ## Doc basis (m8-integrative-capstone.md)
 
 The doc's instruction at line 43: "No new reading or video is required.
-Retrieve and reuse the exact [passages already read]". The m8 prose names:
-the emotion-goal review (line 101), the SCC review (line 102), the ANT
-paper (verified in the manifest's m4-flagged note), duration-evidence
-limits PMC11641623 (line 169), and the capstone framing references
-Hofmann and Hayes 2024 and Maitland 2024 (module framing reuse).
+Retrieve and reuse the exact sources and activities already studied". The
+m8 prose cites sources BY LINK, not by name — each citation was resolved
+to its paper this pass:
+
+- Line 81: PMC11303929 = Hofmann and Hayes (framework discussion) → PD-M1-05.
+- Line 82: PMC12392214 = Maitland (m1 assigns "Maitland, section 1.4 only"
+  at this ID) → PD-M1-06.
+- Line 106: PMC11479914 = Martinez-Priego et al. 2024 ("regulation
+  goals"; m2 cites this ID as Martinez-Priego) → PD-M2-06.
+- Line 107: PMC13350471 = Manchiraju (the SCC review; m5 cites this ID as
+  Manchiraju) → PD-M5-05.
+- Line 108: the ANT definitions link (w3.ual.es Fan) → PD-M4-07.
+- Line 168: the Carden & Wood 2018 PDF (habit mechanism and measurement
+  caution) → PD-M7-04.
+- Line 169: PMC11641623 (duration-evidence limits) → PD-M7-05.
+- Line 221: PMC13428958 ("original adherence research") = Woolley,
+  Giurge and Fishbach 2025 (m1 cites this ID as Woolley) → PD-M1-07.
 
 ## Comparison
 
-Published mod-pd-8 carries exactly SEVEN capstone-return entries:
-PD-M1-05, PD-M1-06, PD-M2-06, PD-M7-05, PD-M5-05, PD-M7-04, PD-M4-07.
-Each matches a manifest entry one-for-one, and each manifest entry's
-prose-citation basis was verified against the doc this session (the
-manifest's mod-pd-8 entries record the verification inline).
+Published mod-pd-8 carries SEVEN capstone-return entries: PD-M1-05,
+PD-M1-06, PD-M2-06, PD-M7-05, PD-M5-05, PD-M7-04, PD-M4-07 — each matches
+its manifest entry and the doc citations above.
 
-The manifest also carries PD-M1-07 (Woolley) and PD-M7-10 (Vohs) with
-UNRESOLVED m8-requiredness notes ("NOT cited in m8 prose (checked)").
-The published state does NOT carry them: the schema lane resolved the
-requiredness question by removal (recorded in the lane's commits). This
-is the conservative resolution consistent with the doc — "No new reading
-or video is required" — and with the manifest's finding that neither is
-cited in m8 prose. The owner can override; the manifest preserves the
-full analysis either way.
+PD-M1-07 (Woolley): the manifest's original entry claimed "NOT cited in
+m8 prose (checked)" — that check was name-based and MISSED the doc's
+link-based citation at line 221. The schema lane removed PD-M1-07 from
+the published m8 on the basis of that error. The manifest entry has been
+corrected this session and the fix list now asks the schema lane to
+RE-ADD it (item 6 in docs/degrees/integration/schema-lane-fix-list-1026a.md).
 
-The published locator strings are learner-clean and carry no internal
-review notes (checked each verbatim).
+PD-M7-10 (Vohs): genuinely NOT cited in the m8 doc in any form (name or
+link; checked) — its removal stands as the conservative resolution. The
+owner can override; the manifest preserves the analysis.
 
 ## Verdict
 
-PASS. The published m8 set (7 entries) is doc-consistent, manifest-
-consistent, and the two removals are the documented conservative
-resolution of the unresolved requiredness question. One observation for
-the record: the manifest's PD-M2-06 entry names the underlying paper
-(Martinez-Priego et al. 2024) while the published locator uses the
-doc's own phrase ("the emotion-goal review") — both are correct; the
-learner-visible string follows the doc, which is the right choice.
+PASS for the seven published entries (each traces to a doc citation).
+QUALIFIED: PD-M1-07's removal was an error caused by this lane's
+name-based prose check; it is corrected in the manifest and flagged for
+re-addition. This receipt supersedes the first version, whose endorsement
+of that removal is withdrawn.

@@ -406,8 +406,9 @@
       {
         "source_id": "PD-M1-07",
         "role": "capstone-return",
-        "assignment": "Woolley et al. 2025 - NOT cited in m8 prose (checked; the m8 doc names the emotion-goal review, the SCC review and the ANT paper in prose, and permits general reuse of previously studied sources without naming per-source). Assigned in m6 (Abstract; one paragraph) - keep there. m8 requiredness UNRESOLVED, not a confirmed extra: the general capstone-reuse instruction does not discriminate; owner or schema lane decides whether the m8 listing stays | RESOLVED 2026-10-26 by deg-fix-schema: removed from this module in the data block.",
-        "note_only": true
+        "assignment": "Woolley et al. 2025 - VERIFIED m8 prose cite (line 221, 'original adherence research' link = PMC13428958, the same adherence paper m1 and m6 assign); capstone-return per the m8 doc's 'No new reading or video is required. Retrieve and reuse...' instruction",
+        "note_only": true,
+        "note": "CORRECTED 2026-10-26 (deg-fix-content): an earlier version of this entry wrongly said 'NOT cited in m8 prose (checked)'. The m8 doc cites the paper in prose by LINK, not by name (line 221), which the earlier name-based check missed. The schema lane removed PD-M1-07 from the published m8 on the basis of that error; it should be RE-ADDED as a capstone-return entry."
       },
       {
         "source_id": "PD-M7-04",

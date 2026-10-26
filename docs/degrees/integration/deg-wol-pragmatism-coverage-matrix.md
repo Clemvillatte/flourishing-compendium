@@ -73,8 +73,14 @@ category-a items this matrix lists were closed by the schema/text/integrate
 lanes consuming the verified manifests and the learner-content files, and
 were independently sampled by the deg-fix-content deep traces
 (docs/degrees/verify/deg-*-deep-trace-1026a.md). The verdict above remains
-PROVISIONAL for the per-capability deep trace (as stated); publication
-fidelity at the entry level is now machine-checked green.
+PROVISIONAL for the per-capability deep trace (as stated). SCOPE NOTE
+(2026-10-26): the learner audit's 0-defect result is a PRESENCE and
+STRUCTURE check, not semantic assignment fidelity — this session's own
+findings (PD-M2-04's stale whole-BODY figure, the PD-M1-07 m8 removal
+error, the BUD-B2-02 word label) all passed that audit while being
+wrong. Semantic fidelity is established only by the deep traces and the
+schema-aware sweeps recorded in docs/degrees/verify/, and by the open
+items in docs/degrees/integration/schema-lane-fix-list-1026a.md.
 
 The m3 readings are integrated (PRAG-M3-02/03/04 published with the corrected
 B1+B2/B3 assignment, verified this session); the Bernstein optional entry

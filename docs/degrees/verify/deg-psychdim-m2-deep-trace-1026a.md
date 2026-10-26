@@ -58,6 +58,7 @@ the 'Cultural transmission...' through '...experience them as well' passage;
 the next paragraph's first three sentences), so the schema lane can re-splice
 both the published assignment and the locator directly from the manifest. The
 PASS verdict stands for the other six entries and for the chain structure;
-PD-M2-04's published assignment AND locator are OPEN until the schema lane
-applies the re-splice (the published assignment still prints the stale ~2,794
-word whole-BODY figure).
+PD-M2-04's published locator is OPEN until the schema lane applies the
+re-splice. (The published entries no longer carry an `assignment` field
+after the ef654d0 restructure - `locator` is the operative learner-visible
+field; the fix list item 3 wording has been updated to match.)

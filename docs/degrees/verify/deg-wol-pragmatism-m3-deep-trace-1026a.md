@@ -52,7 +52,10 @@ Published strings are learner-clean (no internal review notes).
 
 ## Verdict
 
-PASS. All mod-prag-3 sources trace value-by-value across the three
-layers, including the corrected B2/B3 structure that this lane fixed in
-the manifest and the schema lane then spliced (with one transient
-mislabel, self-corrected in ef654d0 before this trace was taken).
+PASS. The four distinct mod-prag-3 sources (PRAG-M3-01 through -04) trace
+value-by-value across the three layers, including the corrected B2/B3
+structure that this lane fixed in the manifest and the schema lane then
+spliced (with one transient mislabel, self-corrected in ef654d0 before
+this trace was taken). The mod-prag-5 PRAG-M3-01 entry quoted above is
+the capstone's optional revisit, not a fifth m3 source; it matches the m5
+doc's Misak ruling and the manifest's mod-prag-5 entry.
