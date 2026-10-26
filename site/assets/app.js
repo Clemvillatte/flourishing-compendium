@@ -4441,7 +4441,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"In fact, some researchers suggest that if one's purpose in life is not \\\"beyond the self,\\\" then they cannot be classified as having a purpose at all (Damon et al., 2003). However, this definition is fairly contentious, as some state that it should not be in the hands of the researchers to determine whether individuals' purposes are worthy (Burrow et al., 2021), and others have noted that the vast literature focusing on the benefits of purpose has used sense of purpose measures agnostic to an individual's specific purpose orientation (Hill & Pfund, 2022).\" ([Pfund, Applying an Allportian Trait Perspective to Sense of Purpose, 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10081294/))",
+          "x": "\"In fact, some researchers suggest that if one's purpose in life is not 'beyond the self,' then they cannot be classified as having a purpose at all (Damon et al., 2003). However, this definition is fairly contentious, as some state that it should not be in the hands of the researchers to determine whether individuals' purposes are worthy (Burrow et al., 2021), and others have noted that the vast literature focusing on the benefits of purpose has used sense of purpose measures agnostic to an individual's specific purpose orientation (Hill & Pfund, 2022).\" ([Pfund, Applying an Allportian Trait Perspective to Sense of Purpose, 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10081294/))",
           "s": null
         },
         {
