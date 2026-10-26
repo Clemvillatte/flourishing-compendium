@@ -1,3 +1,41 @@
+## Worker checkpoint (2026-10-26 02:20Z, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
+QC SAMPLE — concept page Facticity (complete: both Sartre spans checked): the
+B&N definition ("This perpetually evanescent contingency of the in-itself
+which, without ever allowing itself to be apprehended, haunts the for-itself
+and reattaches it to being-in-itself — this contingency is what we shall call
+the facticity of the for-itself.") and the lead-in sentence ("Thus the
+for-itself is sustained by a perpetual contingency for which it assumes the
+responsibility and which it assimilates without ever being able to suppress
+it") both confirmed VERBATIM on the opened
+[Archive.org djvu text](https://archive.org/stream/in.ernet.dli.2015.69160/2015.69160.Jean-paul-Sartre-Being-And-Nothingness_djvu.txt)
+(the two sentences are adjacent in the source; the page's "passage leading
+into it" framing is exact). No defects; no repairs needed.
+
+QC SAMPLE — concept page Fading affect bias (complete: the one blockquote
+checked): the Ritchie et al. 2009 abstract sentence ("The intensity of
+emotions associated with memory of pleasant events generally fades more slowly
+across time than the intensity of emotions associated with memory of
+unpleasant events, a phenomenon known as the fading affect bias (FAB).")
+confirmed VERBATIM via the opened
+[eutils abstract record](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=19358015&rettype=abstract&retmode=text)
+(the PubMed landing page itself failed to parse this session; the eutils
+carrier carries the same abstract). No defects; no repairs needed.
+
+QC SAMPLE — concept page Fallibilism (complete: all three blockquotes
+checked): the SEP Certainty fallibilistic-knowledge definition confirmed
+VERBATIM on the opened
+[SEP entry](https://plato.stanford.edu/entries/certainty/) (fragment starts
+mid-sentence, standard practice); both Peirce spans (CP 1.171 definition; CP
+1.147 "we can never be absolutely sure of anything, nor can we with any
+probability ascertain the exact value of any measure or general ratio")
+confirmed in the indexed text of the page's cited
+[philarchive carrier](https://philarchive.org/archive/OKWPFA) (the PDF itself
+was unparsable to the fetcher this session; the philarchive paper's indexed
+text prints both spans exactly as the page quotes them, including the CP 1.171
+"uncertainty and indeterminacy" phrasing without the second "of" — a
+carrier-level normalization, not a defect). No repairs needed.
+
 ## Worker checkpoint (2026-10-26 00:59Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — concept page Acceptance alongside values-based action
