@@ -9,7 +9,7 @@ Follow-up to the v2 URL-audit receipt (deg-arch-d1-evidence-audit): retest of th
 - The cited URL (https://www.unisg.ch/en/studium/bachelor/studiengaenge/psychologie) now returns **404** (curl).
 - The psychology teaching page lives at a new location and is **live (HTTP 200, content verified)**: **https://www.unisg.ch/en/university/schools/school-of-humanities-and-social-sciences/subject-areas/psychology/teaching/**
 - Content read: psychology is taught at HSG within the School of Humanities and Social Sciences as part of contextual studies; courses by Prof. Julia Nentwich (Psychology of Gender and Diversity; Psychological Perspectives on Sustainability and Behavior Change), Dr. Mohammed Shafiullah (social/cognitive/neurological processes of skill development), Prof. Anna Sieben (parenting in cultural comparison, social psychology of crowds, identity and intimate relationships); the page explicitly notes HSG offers **no independent psychology degree program**.
-- ACTION for the owning lane(s): the St Gallen citation in the degree inventories should be updated to the new URL (receipt only — I do not edit other lanes' files).
+- ACTION for the owning lane(s): the St Gallen citation in the degree inventories may need updating to the new URL — CAVEAT (per advisor QC): the exact cited URL was not re-extracted from the inventory in this pass, and document equivalence between whatever the inventory cited and the new teaching page was not checked. The owning lane must verify equivalence before adopting the new URL as the replacement citation (receipt only — I do not edit other lanes' files).
 
 ### 2. ND philife (philife.nd.edu) — still unreachable
 
