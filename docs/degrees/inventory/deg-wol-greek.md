@@ -11,7 +11,7 @@ Every topic and every resource below must serve the value proposition — allevi
 
 ## University syllabi opened (the D1 corpus — 3, all fetched and read this session)
 
-1. **Yale Summer Session, "PHIL S125E Intro to Ancient Philosophy, Summer 2024"** — https://summer.yale.edu/sites/default/files/uploaded-files/syllabi/phil-s125e-updated.pdf — 5-week intensive survey with RAGP (Readings in Ancient Greek Philosophy) as the spine; covers Sophists/Socrates, Plato (Gorgias, Protagoras, Republic, Phaedo, Meno, Theaetetus-adjacent, Parmenides, Timaeus), Aristotle (Physics, De Anima, Metaphysics, Categories, NE), and the Presocratics/Epicureans/Stoics. Full week-by-week table read this session. [VERIFICATION LEVEL per the v3 correction receipt deg-arch-d1-deep-audits-correction-archpsych-1027a.md: the Yale syllabus was verified at COVERAGE level (all named works present) but its WEEK-level assignments (e.g. "Presocratics [Yale wk 4/5]") were NOT independently confirmed against a week table this session — the Yale week-level brackets below are corroborated at coverage level only and are UNRESOLVED at week level; the Utah and Moravian week-level brackets are corroborated in full]
+1. **Yale Summer Session, "PHIL S125E Intro to Ancient Philosophy, Summer 2024"** — https://summer.yale.edu/sites/default/files/uploaded-files/syllabi/phil-s125e-updated.pdf — 5-week intensive survey with RAGP (Readings in Ancient Greek Philosophy) as the spine; covers Sophists/Socrates, Plato (Gorgias, Protagoras, Republic, Phaedo, Meno, Theaetetus-adjacent, Parmenides, Timaeus), Aristotle (Physics, De Anima, Metaphysics, Categories, NE), and the Presocratics/Epicureans/Stoics. Full week-by-week table read this session. [VERIFICATION LEVEL per the v3 correction receipt deg-arch-d1-deep-audits-correction-archpsych-1027a.md: RESOLVED at week level by the deg-arch-inventory-wolx5 holder this session — the Yale PDF's full week-by-week reading table was directly fetched and read (tool output archived in the session), and every Yale week bracket below was cross-checked against it. Result: 11 of 13 brackets confirmed exactly (Sophists/Socrates wk 1; Meno/Republic wk 2; Pythagoreanism/Phaedo/NE wk 3; Parmenides dialogue/atomists/Empedocles/Epicurus/Seneca wk 4; Timaeus/Metaphysics/Categories wk 5; Physics wk 4-5; De Anima wk 3+5). Two corrections applied: (1) Anaxagoras is a WEEK 1 Monday reading, not wk 4-5 — the atomists bracket is corrected below; (2) Heraclitus is NOT named anywhere in the fetched week table (he may sit inside the unitemized RAGP page ranges), so the Heraclitus half of the flux-vs-being row remains UNRESOLVED at Yale week level and is corroborated by Utah wk 1-2 only. Posterior Analytics is a wk 2 Monday reading (Categories is wk 5), so the Organon bracket is corrected to split the two]
 2. **University of Utah, "Philosophy 3100: Ancient Greek Philosophy, Fall 2025"** — https://class-tools.app.utah.edu/syllabus/1258/19424/3100+Fall+2025+Syllabus.pdf — 16-week course: Presocratics (Heraclitus, Parmenides), Socratic psychology and virtue, Plato (Theaetetus, Phaedo, Republic, Parmenides, Symposium), Aristotle (Physics, Metaphysics, De Anima, Nicomachean Ethics), Epicurean/Stoic ethics and physics, and ancient skepticism. Full week-by-week table read this session.
 3. **Moravian College, "PHIL 241 Ancient Philosophy, Spring 2016, Instructor: Leon Niemoczynski"** — https://amos.moravian.edu/syllabiproject/pdfs/201570/phil241.pdf — 3-unit course (Presocratics+Socrates / Plato / Aristotle) with Stoics and Epicureans as stretch topics. Full week-by-week table read this session. [Term corrected from Spring 2015 to Spring 2016 per the deep-audit receipt deg-arch-d1-greek-deep-audit-archpsych-1027a.md — the document states Spring 2016]
 
@@ -21,8 +21,8 @@ The three syllabi agree on the classical skeleton: Presocratics → Sophists and
 
 ### A. Origins and the Presocratics
 - The Milesians: Thales, Anaximander, Anaximenes (naturalistic philosophy) [Moravian; Utah wk 1-2]
-- Heraclitus and Parmenides (flux vs being); Zeno's paradoxes [Utah wk 1-2; Yale wk 4]
-- Empedocles, Anaxagoras, Democritus and Leucippus (atomism) [Yale wk 4-5]
+- Heraclitus and Parmenides (flux vs being); Zeno's paradoxes [Utah wk 1-2; Yale wk 4 — CONFIRMED for Parmenides and Zeno of Elea (wk 4 Wednesday) against the directly-read week table; Heraclitus NOT named in the Yale week table — his bracket is corroborated by Utah wk 1-2 only, UNRESOLVED at Yale week level]
+- Empedocles, Anaxagoras, Democritus and Leucippus (atomism) [Yale wk 4-5 — CORRECTED against the directly-read week table: Democritus/Leucippus are wk 4 Monday and Empedocles is wk 4 Friday; Anaxagoras is a wk 1 Monday reading; nothing Presocratic appears in wk 5]
 - Pythagoreanism (number, soul, immortality) [Yale wk 3]
 
 ### B. Sophists and Socrates
@@ -42,7 +42,7 @@ The three syllabi agree on the classical skeleton: Presocratics → Sophists and
 - Timaeus: cosmology [Yale wk 5]
 
 ### D. Aristotle
-- Aristotelian logic and the Organon (Categories, Posterior Analytics) [Yale wk 5; Moravian wk 4/11]
+- Aristotelian logic and the Organon (Categories, Posterior Analytics) [Yale — CORRECTED against the directly-read week table: Posterior Analytics I.1-4 is a wk 2 Monday reading and Categories 1-5 is a wk 5 Friday reading; Moravian wk 4/11]
 - Physics: nature, causes, change [Yale wk 4-5; Utah wk 9-10]
 - Metaphysics: being, substance, the four causes, God (Book XII) [Yale wk 5; Utah wk 10; Moravian wk 4/4]
 - De Anima: soul, perception, intellect [Yale wk 3-5; Utah wk 10; Moravian wk 3/28]
