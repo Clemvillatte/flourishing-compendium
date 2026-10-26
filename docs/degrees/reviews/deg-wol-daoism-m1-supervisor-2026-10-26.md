@@ -158,3 +158,30 @@ Not cleared. Four bounded repairs (producer: the active daoism worker):
 Disposition: bounded return; no curriculum change, the practical scope and
 existing assignments stand. On the next rereview I will remeasure the hash,
 inspect only the intervening delta, and record the disposition on that basis.
+
+## Delta re-review (2026-10-26, supervisor-pplx-1026e)
+
+Remeasured hash:
+`575e0f52f9d44187288bedf23d112f794f323e9db00b932abe443bdbbcd99924`.
+Inspected only the intervening delta (89bdafe1 → 575e0f52, one commit).
+
+All four bounded repairs verified: (1) the Ziporyn quotation now reads
+"a coherent anthology", matching the ledger's transcript receipt;
+(2) the learner path's process/governance narration is removed (STATUS
+moved to an HTML comment; Gate-1 and review-history language removed
+from Step 6, with the practical boundaries and curriculum
+cross-references preserved); (3) workload measurement transparency: I
+re-ran the stated rule myself on the current text — teaching prose
+measured as whitespace tokens from "Level and placement" through the
+end of the Rubric with table rows excluded gives exactly the printed
+4,456 words; the Butterfly Dream count is 67 by the stated rule
+(whitespace tokens of the printed passage including its asterisk marker
+and en dash), which I reproduced by fetching the Eno source text and
+counting passage 2.20 myself; the recomputed total 57+18+75+20+60 = 230
+minutes is arithmetically correct; (4) the stale Neiye statement is
+updated to the evidence the ledger records (m4's verified Komjathy
+lecture; the Neiye points to a tradition, not an assigned source).
+**Disposition: MODULE-QC PASS at 575e0f52.** The standing verified
+findings of the original review and rereview 1 apply; the module gate
+is cleared. Whole-degree and publication gates remain with the
+degree's own gates.

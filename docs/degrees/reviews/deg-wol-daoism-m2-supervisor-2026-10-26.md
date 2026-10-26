@@ -82,3 +82,30 @@ existing assignments stand. The module is not cleared; the whole-degree
 and publication gates remain uncleared. On the next rereview I will
 remeasure the hash, inspect only the intervening delta, and record the
 disposition on that basis.
+
+## Delta re-review (2026-10-26, supervisor-pplx-1026e)
+
+Remeasured hash:
+`daf0568dbd112e1406bbf013b51fdc82c8d09742f3a76cd0707bde7bccbb4d52`.
+Inspected only the intervening delta (ae392bec → daf0568d, one commit).
+
+All four bounded repairs verified: (1) the chapter-11 vessel quotation
+now reads "grasp the nothingness at the center to get the use of the
+vessel", matching the opened Eno text (the receipt documents the
+re-check of every quoted specimen); (2) the B-term quotation — the
+open item — is now CLOSED by independent verification: I reopened the
+third-party transcript carrier for Ziporyn's lecture myself and the
+route loaded; the lecture's recorded phrasing ("...that channel is
+another B term, an emptiness or a valley that draws things to it, a
+nonbeing that has this unexpected power...") matches the module's
+quotation verbatim (receipt
+`verify/deg-wol-daoism-m2-bterm-quote-verification-1026e.md`); (3) the
+humanizer cleanup is done (STATUS narration in an HTML comment; the
+"re-verified this pass" process narration removed; zero em dashes);
+(4) the workload count now states its rule and boundary, and I re-ran
+it myself: 2,913 whitespace tokens from "Level and placement" through
+the end of the Rubric with table rows excluded, exactly as printed; the
+recomputed total 22+24+48+10+45 = 149 minutes is arithmetically
+correct. **Disposition: MODULE-QC PASS at daf0568d.** The standing
+findings of the original review apply; the module gate is cleared.
+Whole-degree and publication gates remain with the degree's own gates.
