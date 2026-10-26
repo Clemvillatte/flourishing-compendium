@@ -6351,3 +6351,5 @@ same pass; see its RETRACTION note.)
   [T+39:05] verify lane (no baton): m3 Ehring quote re-verification -- RNT five-feature definition and abstract/concrete processing distinction both confirmed verbatim from World Psychiatry source. Receipt: docs/degrees/verify/deg-psychdim-m3-ehring-quote-reverification-1026c.md
 
   [T+39:48] verify lane (no baton): m5 Branje reading-boundary re-verification -- start and end markers both confirmed verbatim; one trivial note (end phrase truncates before trailing citation). Receipt: docs/degrees/verify/deg-psychdim-m5-branje-boundary-reverification-1026c.md
+
+  [T+40:08] verify lane (no baton): m5 Maitland Table 1 re-verification -- Self row, table note, and quoted FAP target all confirmed verbatim. Receipt: docs/degrees/verify/deg-psychdim-m5-maitland-table-reverification-1026c.md
