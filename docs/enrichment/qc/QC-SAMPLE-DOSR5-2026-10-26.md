@@ -382,3 +382,21 @@ verifier now reports 4. All four adjudicated as FALSE POSITIVES:
    apostrophe-variant false positive.
 
 No repairs needed; right-effort quotes are clean.
+
+# QC sample 11: remaining map items — the-self, sadness-and-grief; map staleness (2026-10-26 02:44:00Z, measured in-command)
+
+Re-ran the verifier on the remaining files named in the band quote map
+(right-livelihood and motivation are now CLEAN — 0 NOT FOUND each; the map's
+counts predate those bands' repairs and are stale in that direction).
+
+1. sadness-and-grief, Seneca Letter 63 (wikisource): FALSE POSITIVE,
+   confirmed — fresh fetch prints both spans verbatim: "Let not the eyes be
+   dry when we have lost a friend, nor let them overflow." and "Let us see
+   to it that the recollection of those whom we have lost becomes a pleasant
+   memory to us." The dossier's quote is an elided composite ("..."), which
+   defeats the verifier's exact matching even on an accessible host.
+2. the-self, Milindapanha 3.1.1 (suttacentral.net): blocked host, NOT
+   CONFIRMED from this environment — suttacentral serves a JavaScript app
+   shell to both the page fetcher and curl this session (see sample 8); the
+   quote is also an elided composite. Classified as a blocked-host false
+   positive per the map, flagged for any future eye-check.
