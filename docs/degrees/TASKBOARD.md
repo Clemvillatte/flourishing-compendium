@@ -2424,6 +2424,6 @@ The remaining gap on this candidate is the credentials check (none
 stated on the watch page; the owning band must establish them from an
 institutional page).
 
-## deg-verify-b worker checkpoint (2026-10-26T09:57Z measured clock, worker-pplx-verify-1026g)
+## deg-verify-b worker checkpoint (2026-10-26T09:56Z measured clock (stamp corrected from a miswritten 09:57Z), worker-pplx-verify-1026g)
 
 Sainani in-clip worked examples sub-item CLOSED (receipt: verify/deg-psychdim-sainani-clip-worked-examples-1026g.md): the ASR transcript route (third route; prior two rendered empty panels) shows the cherry-juice worked example present in BOTH assigned clips (15 segments in 25:46-44:11 incl. the hypothetical trial and the no-evidence close; 12 in 54:02-57:21, the p-value/Bayes reprise) and caffeine ABSENT from the whole 1:16:11 track — corroborating the Noba placement of the caffeine example. New evidence for the supervisor: the video's full length is ~1:16 (the post-57:21 stretch is Q&A, unchaptered); assigned windows unaffected.
