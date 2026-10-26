@@ -137,13 +137,18 @@ satisfies the scope's exit capability (or the capability should be narrowed) is
 the gate reviewer's and supervisor's decision, not this worker's.
 
 
-## Binswanger/Boss exclusion ruling drafted (2026-10-26T09:48:20Z, worker-pplx-exist-1026p)
+## Binswanger/Boss exclusion PROPOSAL drafted (2026-10-26, corrected per advisor QC, worker-pplx-exist-1026p)
 
-Per the Gate-1 verdict's recommendation, the degree owner's say is now stated
-in the scope doc: EXCLUDE Binswanger/Boss (Daseinsanalysis) from the walk's
-curriculum (centering clause; the tradition's technical apparatus is the
-phenomenological machinery the scope excludes; thinner anchor support than
-the rest of the benchmark; no exit capability requires it). Absurdism is
-explicitly NOT affected (Camus belongs to the philosophy half's core). Final
-approval belongs to the gate reviewer and supervisor; this entry records the
-draft, it does not clear any gate.
+Per the Gate-1 verdict's exclusion recommendation, the degree owner's PROPOSAL
+is now stated in the scope doc: exclude Binswanger/Boss (Daseinsanalysis)
+from the walk's curriculum. Grounds (advisor-corrected): the centering clause
+with NO demonstrated additional contribution to this finite walk recorded for
+the tradition, and thinner anchor support than the rest of the benchmark (one
+university course plus one accredited training programme). The earlier draft's
+claim that the gate review flagged a phenomenology/Daseinsanalysis
+inconsistency was WRONG (the verdict CONFIRMED the phenomenology exclusion as
+intended and flagged no inconsistency) and has been removed. Absurdism is
+explicitly NOT affected: already-scoped Camus/absurdity content stays as
+philosophy-half content; any expansion or reshaping of that elective is left
+for independent review at module design. Final approval belongs to the gate
+reviewer and supervisor; this entry records a PROPOSAL, it clears no gate.

@@ -234,14 +234,17 @@ rule (or the scope should be revised) is the gate reviewer's and supervisor's
 decision.
 
 
-## Elective-branch ruling drafted (2026-10-26T09:48:02Z, worker-pplx-positive-1026p)
+## Elective-branch exclusion PROPOSAL drafted (2026-10-26, corrected per advisor QC, worker-pplx-positive-1026p)
 
-Per the Gate-1 review's routed item 3, the degree owner's say is now stated in
-the scope doc: EXCLUDE positive education and positive organisations from this
-walk's curriculum (centering clause — practitioner branches aimed at changing
-others' environments have no stated contribution to THIS learner's walk; the
-learner's own work/study domains are already carried as practice contexts of
-the core rows). The field-landscape note may mention these branches exist
-without teaching them. Final approval of this ruling belongs to the gate
-reviewer and supervisor; this entry records the draft, it does not apply it
-to any module (none exist yet).
+Per the Gate-1 review's routed item 3, the degree owner's PROPOSAL is now
+stated in the scope doc: exclude positive education and positive
+organisations from this walk's curriculum. Grounds (advisor-corrected):
+dedicated education/organisational curricula have NOT been shown necessary
+for this walk's current exit capabilities; the learner's own work/study
+domains are already carried as the application contexts of the core
+practices. (The earlier draft's "branches aimed at changing others'
+environments" framing was replaced: the Walk-of-Life mission does not rule
+out relational or social contributions, so that is not the criterion.) The
+field-landscape note may mention these branches exist without teaching them.
+Final approval belongs to the gate reviewer and supervisor; this entry
+records a PROPOSAL, it applies nothing (no modules exist).
