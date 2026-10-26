@@ -1511,3 +1511,12 @@ file.
   B-V25 by 1026b; flag-sweep receipt's surviving-set list stale on
   this item; no playback needed. Surviving routed set for this lane:
   b4 captions only.
+
+- 08:12 UTC (measured) - b4 guided-segment classification RESOLVED
+  (receipt B-V36): Polish-mirror indexed transcript read for the
+  guided segment via the third-party service; breath explicitly
+  offered as the attention anchor, peace as the alternative;
+  relaxation-first framing. Module wordings qualified ("guided
+  meditation with the breath as the suggested anchor"); Boundaries
+  paragraph rewritten to corroborated-at-translation-level; source
+  table upgraded to verified-video. Lane's open routed items: none.

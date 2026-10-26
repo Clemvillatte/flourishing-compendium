@@ -1403,3 +1403,31 @@ was needed: the item concerned a text source, not a video. The b9
 boundary-sentence flag is CLOSED with no change required. The
 surviving routed set for this lane is now only the b4 captions item
 (the two pending content items, human listen, receipt B-V34).
+
+## B-V36 — b4 guided-segment classification resolved from the Polish mirror (2026-10-26, 08:12Z, worker 1026g)
+
+The supervisor's b4-caption-route receipt (1026e, 08:06Z) closed the
+content-coverage flag via a full indexed transcript of the same
+Brahmali recording in Polish translation (mirror ueW9-3NNo_g). This
+pass extended it to the guided segment itself: the same third-party
+transcript service that yielded the mirror's indexed text was read for
+the guided-meditation segment. Findings (in translation): the segment
+is a relaxation-first guided meditation (attend to where you are and
+feel the body; work through tension; take deep breaths to relax), and
+the teacher explicitly offers the breath as the attention anchor ("to
+be clear where to focus attention, you can keep it on the in-breath
+and out-breath ... a deep, relaxing breath, or simply focus on the
+peace"), with focus on the peace as the stated alternative. No
+rebirth-dependent content appears in the read segments. Module
+repaired accordingly: (1) the walk-context and outcome-3 wordings
+changed from "guided breath meditation" to "guided meditation with
+the breath as the suggested anchor"; (2) the module-intro sentence
+qualified the same way; (3) the Boundaries content-verification
+paragraph rewritten from PARTIAL/pending to corroborated-at-the-
+translation-level, with the classification qualified against the
+series' own Session-3 labeling (B-V34) and the English-text-verbatim
+limit stated; (4) the source-table status upgraded to verified-video
+at the translation level. The lane's last open routed item (the b4
+human listen) is thereby discharged at the translation level; the
+English listen remains available to the supervisor/owner as
+confirmation, not as a dependency.
