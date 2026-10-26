@@ -23,7 +23,7 @@ The Perseus Digital Library (catalogued via the CUA research guide read this ses
 
 ### 3. Presocratics open carrier — CONFIRMED
 
-- **John Burnet, Early Greek Philosophy**: Project Gutenberg **#67097** (1908 second edition, full HTML; contents read this session — Milesian School, Science and Religion, Herakleitos, Parmenides, ... Eclecticism and Reaction, Sources, Index) plus multiple archive.org full-download copies (e.g. bub_gb_LQYrAAAAMAAJ, 1892, Public Domain Mark 1.0, FULL TEXT/PDF downloads listed). This gives the pool a verified open carrier for the Presocratic material the D1 map names (Thales, Heraclitus, Parmenides, atomists).
+- **John Burnet, Early Greek Philosophy**: Project Gutenberg **#67097** (directly fetched this session, v2 upgrade: public domain in the USA; free EPUB3/text/HTML downloads; contents — Introduction, Milesian school, Science and religion, Herakleitos, Parmenides, Empedokles, Anaxagoras, Pythagoreans, younger Eleatics, Leukippos, Eclecticism and reaction, Appendix on the sources) plus multiple archive.org full-download copies (e.g. bub_gb_LQYrAAAAMAAJ, 1892, Public Domain Mark 1.0, listed via search this session). This gives the pool a located open carrier for the Presocratic material the D1 map names (Thales, Heraclitus, Parmenides, atomists). NOTE per the teaching-only ruling: supplementary open-text location, not a D2 teaching-content gap closure.
 
 ## Status for the lane
 
