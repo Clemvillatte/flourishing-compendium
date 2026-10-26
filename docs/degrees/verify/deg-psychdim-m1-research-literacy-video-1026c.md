@@ -15,24 +15,29 @@ bounded check."
 null-hypothesis-testing portion of the M1 Step 3 reading, and it
 teaches the p-value the way the module's own correction passage does.**
 A second recording from the same instructor covers the reading's
-replication topic (second receipt section below). The Noba module's
-remaining topics (scientific versus everyday reasoning, falsifiability,
-induction and deduction, research design, what a scientific theory is)
-are not covered by either recording, and no verified video covering
-that full remaining scope was found in this bounded search. The Noba
-reading therefore remains the fallback for those topics under owner
-decision 8, and this receipt supplies verified videos for the portions
-covered.
+replication topic, and a third covers scientific versus everyday
+reasoning and falsifiability (second and third receipt sections
+below). The Noba module's remaining topics (induction and deduction,
+research design, what a scientific theory is) are not covered by these
+recordings, and no verified video covering that full remaining scope
+was found in this bounded search. The Noba reading therefore remains
+the fallback for those topics under owner decision 8, and this receipt
+supplies verified videos for the portions covered.
 ([Vanman, PSYC1040 Week 9A](https://www.youtube.com/watch?v=DgMtRFRoHeM).)
 
-Recommendation for the owner to weigh: either assign the recording
-before or alongside the reading, so the learner meets a correctly stated
-p-value first and reads the module's loose gloss with the correction
-already installed; or keep the reading with the existing correction
-passage and list the recording as optional reference. Both routes
-satisfy decision 8 for this portion; the choice affects workload
-arithmetic (see below). This is a proposed disposition, not a change
-made by the verifier.
+Recommendation for the owner to weigh, updated with the third
+recording: the three verified recordings together cover most of the
+reading's scope (scientific versus everyday reasoning, falsifiability,
+null-hypothesis testing, Type I and II errors, p-value interpretation,
+replication), so a video-first path for Step 3 is now available if the
+owner prefers it: W01A, Week 9A, Week 13A, with the reading retained
+for the remaining topics (induction and deduction, research design,
+what a scientific theory is) and for the fuller treatment. The
+alternative remains assigning the reading with its correction passage
+and listing the recordings as optional companions. Either route
+satisfies decision 8 for the covered portions; the choice affects
+workload arithmetic (see below). This is a proposed disposition, not a
+change made by the verifier.
 
 ## Primary video receipt
 
@@ -59,9 +64,9 @@ Read as transcript text for the whole recording.
 | Type I and Type II errors | Yes | "Type one error, falsely rejecting the null when it's true... type two error, which is failing to reject the null when the alternative is actually true." Power and its three drivers (sample size, effect size, alpha) are stated. |
 | Alpha and the .05 convention | Yes | Alpha is presented as a decision threshold and a convention, with the Fisher 1925 history and the George Cobb exchange about inherited convention. |
 | Common p-value misconceptions | Yes | Three named: the inverse probability fallacy (with the wet-grass example), absence of evidence is not evidence of absence, and "approaching significance" as a non-category. |
-| Scientific versus everyday reasoning | No | Not addressed in this recording. |
-| Falsifiability | No | Not addressed in this recording. |
-| Induction and deduction | No | Not addressed in this recording. |
+| Scientific versus everyday reasoning | Covered by W01A | See the third receipt section below; the recording treats common sense as after-the-fact explanation and psychology's empiricism as the corrective. |
+| Falsifiability | Covered by W01A | See the third receipt section below; taught via Popper's risky-predictions criterion. Note the transcript's "Carl Pauper" recognition error for Karl Popper. |
+| Induction and deduction | No | Not named in any of the three verified recordings; the reading retains this topic. |
 | Research design | No | Not addressed in this recording. |
 | Replication | Not in Week 9A | Not addressed in Week 9A; covered by the separately verified Week 13A recording (second receipt section below). |
 | What a scientific theory is | No | Not addressed in this recording. |
@@ -129,6 +134,25 @@ with the small-sample inflation mechanism. This aligns with the reading's
 replication and research-quality topics and adds replication-crisis
 context beyond the reading, which serves the degree's research-literacy
 outcome.
+
+## Third verified recording: scientific reasoning and falsifiability
+
+A further bounded check verified the series' opening lecture, which
+covers the reading's scientific-reasoning and falsifiability topics.
+
+| Check | Evidence and disposition |
+|---|---|
+| Identity | **W01A What is Psychology, Really?**, channel SocialNeuro; the [opened oEmbed response](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=iKdkBnfn92o&format=json) confirms the exact title and the @socialneuro channel, the same instructor's channel as the recordings above. [Watch page](https://www.youtube.com/watch?v=iKdkBnfn92o). |
+| Access | The anonymous fetch returned the public watch page and a full transcript with no access error or paywall. [Public recording](https://www.youtube.com/watch?v=iKdkBnfn92o). |
+| Credentials | Same instructor and institutional grounding as above: Professor Eric Vanman per the [UQ course profile](https://course-profiles.uq.edu.au/course-profiles/PSYC1040-21039-7620) and his [UQ lab page](http://socialneuro.com/our-crew). |
+| Full duration | The opened watch page prints two values: **8:23** on the player and **8:43** in a lower listing. Both recorded; neither guessed. [Watch page](https://www.youtube.com/watch?v=iKdkBnfn92o). |
+| Date | Watch page: **14 February 2026**. |
+| Assignment | The whole recording (8:23 printed). Watch-page chapters: defining psychology 0:00; psychology and common sense 0:37; understanding confirmation bias 1:59; psychology as a science 3:48; history of psychological science 5:03; the importance of falsifiability 5:58; conclusion and next steps 6:46. |
+| Language and captions | English transcript available; caption type, manual versus automatic, not established. The transcript's automatic recognition renders the philosopher's name as "Carl Pauper" where the spoken reference is Karl Popper; the module must teach the correct name if it uses this recording. [Transcript used](https://youtubetotranscript.com/transcript?v=iKdkBnfn92o). |
+| Verification mode | Transcript-based content verification plus opened watch metadata and oEmbed identity, matching the mode above. |
+| Status | **verified-video**, for the bounded Step 3 scientific-reasoning use. |
+
+Transcript checks: common sense is described as "extremely good at explaining things after they happen" and "much less good at predicting things in advance", with the worked student-exam example showing explanations that fit any known outcome; psychology is defined as "the scientific study of mind and behavior"; science is grounded in empiricism, "claims must be ultimately tied to observation and evidence, not intuition, authority or tradition"; confirmation bias is defined and connected to why psychology cannot rely on intuition alone; falsifiability is taught as the claim that makes risky predictions, with "when a theory explains everything, it ends up explaining nothing in a scientific sense". Neither induction nor deduction is named in this recording. This aligns with the reading's scientific-versus-everyday-reasoning and falsifiability topics and adds a confirmation-bias treatment the reading references only in passing.
 
 ## Routing and remaining review
 
