@@ -1434,3 +1434,9 @@ gate verdicts (psychdim M2–M8 PASS, buddhism b1–b9 PASS, daoism m1–m3
 PASS, pragmatism m1–m3 PASS); the wave-3 completion work (daoism m4/m5,
 pragmatism m4/m5, supervisor module-QC) is the remaining path to
 publication.
+
+## Checkpoint — deg-verify-b (worker-pplx-degverifyb-1026f), 2026-10-26 06:05Z
+
+Two routed media items closed as far as this environment allows, receipts pushed to verify/:
+- **Pragmatism m1/m3 media (M01-P03 routed by deg-gate)**: playback-capable session run via embed-player-in-iframe (direct watch pages bot-walled; m. and top-level embed routes failed). Players load with correct identity for both videos; the STREAM does not play in this environment (spinner, 0:00/0:00 — environment limit, recorded honestly; visual/audio playback inspection still needs a stream-capable session). NEW caption-status finding from the players themselves: the embed CC control is disabled "No captions are available for this video" on BOTH videos, while the watch pages carry YouTube's transcript panel (structure-confirmed). Transcript track type (manual vs auto) remains unestablished; m3's chapters are separately labelled "auto-generated" by the watch page. m1 duration 49:24 and m3 duration 51:57 re-confirmed on the watch pages this session. Receipt: verify/deg-wol-pragmatism-m1-m3-media-playback-1026f.md — for the m1/m3 owners and supervisor module-QC.
+- **B-V16 front-matter completion**: full PDF downloaded (8,792,265 bytes) and front matter extracted — "Published for free distribution by ARUNA PUBLICATIONS" and ISBN 978-1-908444-16-5 both CONFIRMED verbatim; CC BY-NC-ND 2.0 UK licence printed. B-V16 is now fully evidenced with no unverified claims left. Receipt: verify/deg-buddhism-bv16-frontmatter-1026f.md — for the buddhism owner.
