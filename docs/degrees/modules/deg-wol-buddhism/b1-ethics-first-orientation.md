@@ -212,8 +212,11 @@ where ethics or practice requires a passing mention.
   dense) with re-reading, ~15 m; two metta sittings 2 × 10 m = 20 m; assessment
   write-up ~45 m; study overhead on the videos (notes, re-watch of segments)
   ~60 m. Estimates labelled as estimates.
-- Module total: about 3 h 50 m with all four assigned segments (estimates
-  labelled as estimates; the earlier draft's provisional total is superseded).
+- Module total: about 4 h 25 m with all four assigned segments
+  (2:05:32 measured media + 2 h 20 m of estimated work; estimates
+  labelled as estimates; the earlier draft's provisional total is
+  superseded). Corrected 2026-10-26 QC round 8: the previously stated
+  3 h 50 m did not sum the components.
 
 ## Sources (verification status)
 
