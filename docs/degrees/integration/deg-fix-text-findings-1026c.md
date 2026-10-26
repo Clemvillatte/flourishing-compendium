@@ -47,3 +47,18 @@ Every canonical link was opened and the printed title, author and venue compared
 - PRAG-M4-01/02/03: wrong books (above).
 - BUD-B5-01: titled "Food for the Heart" with a landing-page link the fetch tool cannot read, but the assigned page ranges belong to The Collected Teachings of Ajahn Chah, third edition 2011 (chapter 11 at p. 125, chapter 13 at p. 145 in the single-volume PDF). Title and link corrected in deg-wol-buddhism-assignments.json under "sources".
 - PD-M4-07 links the Attention Network Test paper on a university mirror (w3.ual.es), and the other PDFs on author or lab pages; all printed the expected title and journal, so no action, but a publisher or PMC link would be more durable if the owner prefers.
+
+## Humanizer scan of lesson docs: "not X, it is Y" contrast pattern (deg-fix-text, flagged, not edited)
+
+The owner's humanizer directive names the "not X, it is Y" construction as a project-wide tell. A pattern scan of all 27 priority lesson docs (psychdim, Buddhism, Daoism, pragmatism) plus Greek found the construction in prose only a few times. Buddhism and psychdim M1 to M8 have none in their own prose. The matches below are in baton-owned lesson docs, so they are routed rather than edited. Matches that sit inside a verbatim source quotation (pragmatism M2 Peirce quotations) or a deliberate student-answer specimen (Daoism M1 "Wu wei is not doing nothing; it is acting without forcing...") are not counted.
+
+| File | Text (opening words) | Suggested direct rewrite |
+|---|---|---|
+| deg-wol-daoism/m1-orientation.md, line 284 | "That is not the only defensible reading of the chapter; it is the application this walk uses, because..." | "Other readings of the chapter are defensible. This walk uses the application that connects the chapter to a life." |
+| deg-wol-daoism/m1-orientation.md, line 316 | "That is not a mystical claim; it is a claim about how short, dense, image-driven texts work on a reader." | "Short, dense, image-driven texts work on a reader this way." (delete the denial) |
+| deg-wol-daoism/m1-orientation.md, near the Zhuangzi 2.20 teaching | "the story is not asking you to decide which one you are; it is asking you to notice..." | "The story asks you to notice that the question of which one you are..." (keep the rest of the sentence) |
+| deg-wol-daoism/m2-daodejing-as-practice-manual.md, line 12 | "It is not a promise that the text will solve your problems; it is a promise that you will know how to use the text rather than only admire it." | "By the end you will know how to use the text rather than only admire it." |
+| deg-wol-pragmatism/m5-capstone.md | "The notes are not graded on polish; they are graded on the tool work being visible." | "The notes are graded on whether the tool work is visible." |
+| deg-wol-pragmatism/m4-dewey-inquiry-ethics-democracy.md | "what each counts as fair is not settled by the chore log alone, but it is not beyond inquiry either..." | "The chore log does not settle what each counts as fair; reasons, circumstances and consequences still bear on it..." (a worked-example evidence limit, so a rewrite is optional) |
+
+Limit: this is a pattern scan, not a full read. Per the owner's own note, a clean scan does not certify human prose; an editorial read of the lesson docs remains open.
