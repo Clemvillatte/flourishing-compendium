@@ -1,3 +1,22 @@
+## Worker checkpoint (2026-10-26 13:50Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+SECOND QC SAMPLE: sadness-and-grief.md (dosr6) and procrastination.md
+(dosr7). Both: dossier_check OK, density 0 dense. sadness-and-grief:
+quote_verify 32 checked / 1 not found — the Seneca Letter 63 span
+RE-VERIFIED BY EYE this session on the freshly opened Wikisource
+page: both ellipsis parts verbatim ("Let not the eyes be dry when we
+have lost a friend, nor let them overflow. We may weep, but we must
+not wail." and "Let us see to it that the recollection of those whom
+we have lost becomes a pleasant memory to us.") — the automated miss
+is a fetch artifact; the ledger's Standard Ebooks cross-check is
+confirmed. procrastination: quote_verify 15 checked / 4 not found —
+all 4 are the ledger's documented exception classes (archived-PDF
+pdftotext-verified span; JS-rendered semanticscholar page eye-verified
+against the open thesis PDF by 1025u; OUP chapter-abstract blocked
+class; archived bibliography page fetch-tool-verified). No dossier
+text changed. Both bands' closes stand. Files touched: this
+checkpoint only.
+
 ## Worker checkpoint (2026-10-26 13:45Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 DAOISM M1 KOMJATHY LUNDAO 1 OPEN ITEM — PARTIAL close: new receipt at
