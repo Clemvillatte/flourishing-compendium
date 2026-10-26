@@ -108,3 +108,41 @@ Each fallback above is tied to an uncovered evidence need after actual
 candidate checks, not a general declaration that articles are preferable
 to video. Parent/degree owner still owns workload, exercise design,
 module prose and QC.
+
+## Scope-completion addendum: selective-attention demonstrations
+
+The three-network clips do **not** replace the scope's existing
+spotlight/Stroop/attention-blindness/change-blindness lesson. Use the
+already opened Yale lecture 7, **46:45–55:12 = 8:27**, rather than
+retaining its full **39:15–58:04** chapter in M4. Continuous timed
+watch text read, including both sides of the cut: spotlight selection,
+visual search, the Stroop demonstration, basketball attention task,
+continuity changes and flicker/change blindness. Stop before the
+campus person-switch anecdote's demographic generalisations.
+([Official recording](https://www.youtube.com/watch?v=DmWrOUK2zgA&t=2805),
+[institutional transcript](https://oyc.yale.edu/psychology/psyc-110/lecture-7).)
+
+Identity: YaleCourses, full **59:43**, uploaded **30 September 2008**,
+recorded Spring 2007; Bloom's independent instructor biography was
+opened during the M3 credential check. Institution-hosted English
+text and continuous watch text are available; English caption-track
+manual/automatic status not confirmed. This is verified-video for the
+selected conceptual demonstrations, not a current prevalence estimate.
+([Watch metadata](https://www.youtube.com/watch?v=DmWrOUK2zgA),
+[Yale instructor biography](https://oyc.yale.edu/introduction-psychology/psyc-110).)
+
+The recording's “about 50%” demonstration result is not a prediction
+of an individual learner's performance; the coloured-word task assumes
+particular reading/colour-vision access. Do not grade a learner for
+missing a visual event or require deceptive demonstrations. Provide a
+text description or an accessible nonvisual selection exercise, and
+explain that a described demonstration is not a replication.
+([Selected demonstrations](https://www.youtube.com/watch?v=DmWrOUK2zgA&t=2805).)
+
+**Completed candidate watch plan: 24:40** (16:13 + 8:27), not 16:13.
+No need to duplicate the 39:15–46:45 memory-introduction portion here;
+M3 owns memory. No gates cleared.
+([Yale watch boundaries](https://www.youtube.com/watch?v=DmWrOUK2zgA),
+[three-network source](https://www.youtube.com/watch?v=uYUdwS7-WvA),
+[ANT source](https://www.youtube.com/watch?v=y-fQywP6qa8),
+[practice-definition source](https://www.youtube.com/watch?v=n_3MVEo9fx4).)

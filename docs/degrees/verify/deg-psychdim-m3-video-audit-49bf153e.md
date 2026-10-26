@@ -86,4 +86,93 @@ and stages, additional decision errors actually assessed, or basic
 conditioning if M3 retains that introduction. Do not assign full Noba
 chapters merely because some details are uncovered.
 
+## RNT follow-up: verified replacement, not a reading-only default
+
+Further actual searches: `Edward Watkins repetitive negative thinking
+lecture video rumination`; `Thomas Ehring repetitive negative thinking
+transdiagnostic lecture video`; `Michelle Moulds UNSW psychology professor`.
+
+**Replace introductory rumination/RNT exposition** with Black Dog
+Institute, *Expert Insights: Repetitive Negative Thinking — Understanding
+and Treating Rumination and Worry*, **05:30–09:47 = 4:17**. Continuous
+English timed transcript read with context through 10:33. Michelle
+Moulds describes repetition, abstract processing and difficulty
+disengaging; Nisha Sethi supplies the stuck-radio illustration; Moulds
+then distinguishes a traditional past/future emphasis from the shared
+transdiagnostic process. This is **verified-video** for introduction,
+not treatment instruction or empirical appraisal.
+([Official recording](https://www.youtube.com/watch?v=qoojT_BSqR4&t=330).)
+
+Identity: Black Dog Institute institutional upload, full **1:00:56**,
+published **22 October 2021**, recorded **29 September 2021**.
+Independent UNSW biography identifies Moulds as a clinical psychologist,
+professor and RNT researcher. No payment/login; English timed text
+opened, caption track type unconfirmed. Text misrecognises her surname
+as “walls/molds”; use the independent institutional spelling.
+Unassigned clinical/lived-experience remainder is **not** claimed
+content-reviewed or compulsory.
+([Recording metadata/transcript](https://www.youtube.com/watch?v=qoojT_BSqR4),
+[UNSW faculty biography](https://www.unsw.edu.au/staff/michelle-moulds).)
+
+Retain only **Ehring's paragraph beginning “It has been argued…”**
+for the explicit five features (repetitive, intrusive, difficult to
+disengage, unproductive, capturing capacity), the following
+process/content paragraph if needed, and **“Converging evidence…” plus
+its cited references** for the commentary-appraisal exercise. The
+video does not report one experiment's participants, assignment,
+comparison, outcomes or uncertainty, and neither does this short
+commentary. Award “not reported / cannot assess” rather than asking
+learners to invent methods. Do not retain the entire therapy survey.
+([Ehring 2021, opened in full](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/).)
+
+Finite alternatives actually opened:
+
+- Watkins, SSCP *Rumination as a Transdiagnostic Phenomenon*,
+  **4:38**, published **14 February 2022**: complete timed text
+  read, but it discusses clinical change barriers rather than
+  supplying the basic five-feature definition; not stacked onto
+  the selected interview excerpt.
+  [Opened recording](https://www.youtube.com/watch?v=j89aK790NjU).
+- Ehring, Oberberg Kliniken, *Pathologisches Grübeln:
+  Therapeutische Ansätze*, **1:30:06**, published **21 March 2022**:
+  opened/read through the introductory theory/definition portion.
+  Original title/description are German, while the returned text is
+  English; human-verified English captions were not established.
+  Do not present it as a fully English-accessible undergraduate
+  assignment or assign the unreviewed clinician-treatment remainder.
+  [Opened recording](https://www.youtube.com/watch?v=B7YQEAudEyo).
+
+RNT-updated M3 candidate total: **42:36** (38:19 original + 4:17 RNT).
+The M7 conditioning clips are a **cross-module reusable foundation**,
+not automatically added twice to M3 and M7 workload.
+([RNT recording](https://www.youtube.com/watch?v=qoojT_BSqR4),
+[conditioning recording](https://www.youtube.com/watch?v=rCKK6r15fro).)
+
+## Memory-taxonomy follow-up
+
+Yale lecture 7, **43:45–46:45 = 3:00**, also provides direct spoken
+instruction for the uncovered memory-taxonomy outcome: explicit/
+implicit memory, semantic/episodic examples, encoding/storage/retrieval
+and the sensory/short-term/long-term stage model. Selected continuous
+watch text read with the preceding Clive Wearing example and following
+attention section; the patient story is not assigned. This can replace
+overlapping introductory Noba taxonomy prose rather than declaring
+the whole memory chapter compulsory after a video search.
+([Official recording](https://www.youtube.com/watch?v=DmWrOUK2zgA&t=2625),
+[institutional transcript](https://oyc.yale.edu/psychology/psyc-110/lecture-7).)
+
+The model is introductory, not an exhaustive modern taxonomy; the
+lecture itself says “stage theory.” Do not teach it as literal separate
+containers or infer that all long-term forgetting is solely an encoding
+failure. The original lecture-8 excerpt already supplies encoding
+strategies; any additional reading must identify an assessed gap
+rather than duplicate these two clips.
+([Lecture 7](https://oyc.yale.edu/psychology/psyc-110/lecture-7),
+[lecture 8](https://oyc.yale.edu/psychology/psyc-110/lecture-8).)
+
+**Completed M3 candidate total: 45:36** (38:19 + 4:17 + 3:00),
+before any once-only conditioning foundation shared with M7.
+([Original sources](https://www.youtube.com/watch?v=DmWrOUK2zgA),
+[RNT source](https://www.youtube.com/watch?v=qoojT_BSqR4).)
+
 No module, ledger, band or shared board edited; no gates cleared.
