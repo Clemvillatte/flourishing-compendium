@@ -6,8 +6,11 @@ you test in experience, and what does that change about how you live when you
 feel uncertain or overwhelmed? This module installs the core idea and the
 method that carries the whole walk. Source verification evidence is in
 ledgers/deg-wol-pragmatism.md. STATUS: DRAFT, NOT CLEARED; module production
-per the wave-2 launch (docs/degrees/TASKBOARD.md, WAVE 2 LAUNCH); awaits
-independent review by the supervisor module-QC and the advisor.
+per the wave-2 launch (docs/degrees/TASKBOARD.md, WAVE 2 LAUNCH); advisor QC
+round 1 returned the module with five bounded repairs (maxim application
+rebuild, primary-source grounding for the three-figure map, video transcript
+verification, verification-claim corrections, prose fixes); this revision
+applies them. Awaits supervisor module-QC and advisor re-review.
 
 ## Level and placement
 
@@ -17,13 +20,15 @@ doubt).
 
 ## Outcomes
 
-1. State the core pragmatist idea in your own words: a belief is an
-   instrument, and the meaning of a concept lies in the practical effects
-   you can trace to it. Give one example from your own life.
-2. Apply Peirce's rule for the third grade of clearness to one belief of
-   your own: name the effects the belief would conceivably have in
-   practice, and state why those effects are the whole of your conception
-   of it.
+1. State the core pragmatist idea in your own words: beliefs are
+   instruments, and the meaning of a concept lies in the conceivable
+   practical effects of its object. Give one example from your own life.
+2. Apply Peirce's rule for the third grade of clearness to one conception
+   of your own, following the pattern of his hardness example: name the
+   effects the object of the conception would conceivably have in
+   practice, show that your conception of those effects is the whole of
+   your conception, and then, as a separate step, name what holding a
+   belief about it does in your life, keeping the two lists apart.
 3. Place Peirce, James and Dewey in relation to each other, in two or
    three sentences each, naming what each added to the shared method.
 4. State what this walk covers and excludes, and name where the excluded
@@ -42,112 +47,156 @@ Watch the Philosophy Talk episode
 pragmatism as a distinctively American philosophy running through Peirce,
 James and Dewey, with meaning and truth understood through practical
 outcome and principles treated as working hypotheses that must bear fruit
-in lived experience. Take notes as you watch on two questions only: what
-each of the three figures seems to be credited with, and any moment where
-a philosophical claim gets tested against what happens in a life. You will
-use the notes in Step 3 and the graded work; the episode itself is the
-only required viewing in this module.
+in lived experience. The episode's transcript (opened for verification;
+no printed timestamps, so the whole episode is assigned) shows the shape
+of the discussion: Peirce from the opening onward, James at length in
+the middle, Dewey in the middle and again near the end. Take notes as
+you watch on two questions only: what each of the three figures seems to
+be credited with, and any moment where a philosophical claim gets tested
+against what happens in a life. One note-taking prompt worth adding:
+the guest, John McDermott, cautions that reading James as saying truth
+is whatever is useful is too quick; catch what he offers instead. You
+will use the notes in Step 3 and the graded work; the episode itself is
+the only required viewing in this module.
 
 ### Step 2: the maxim, in Peirce's own words (Outcome 2)
 
 Read the excerpt from Peirce's 1878 essay
 [How to Make Our Ideas Clear](https://en.wikisource.org/wiki/How_to_Make_Our_Ideas_Clear)
-on Wikisource (public domain; the assigned excerpt is the passage that
-opens with the rule for attaining the third grade of clearness and runs
-through the diamond and free-will examples, about 650 words). This is the
-text the whole walk keeps returning to: Peirce's statement that to
-understand a concept you should consider what effects it could
-conceivably have in practice, and that your conception of those effects
-is the whole of your conception of the thing. As you read, notice what
-Peirce does with the diamond that is never tested: he argues the question
-of whether it was really hard is a question about the most perspicuous
-arrangement of facts, and that such questions are solved by seeing what
-the arrangement is for. Hold onto that move; the faded practice in Step 4
-reuses it.
+on Wikisource (public domain). The assigned excerpt opens with the words
+"It appears, then, that the rule for attaining the third grade of
+clearness of apprehension is as follows" and closes with the words "this
+question is perfectly solved in the manner which I have indicated"; it
+runs through the diamond and free-will examples and measures 646 words
+on the opened page. This is the text the whole walk keeps returning to.
+As you read, watch what the maxim asks about: the object of a
+conception, and the effects that object would conceivably have. Peirce
+demonstrates on hardness: the meaning of calling a thing hard lies in
+its not being scratched by many other substances, and there is no
+further difference between a hard thing and a soft thing while they stay
+untested. The diamond crystallized in soft cotton and burned unread
+carries his point: whether to call it soft is a question about which
+arrangement of the facts is most perspicuous, and the maxim tells you
+where the meaning lives.
 
-A short glossary for the excerpt. A grade of clearness is a level at which
-you grasp an idea; Peirce's essay is about the third and highest grade.
-Perspicuous arrangement means arranging facts so that what matters to the
-question stands out. The reductio ad absurdum is the argument form that
-rejects a hypothesis because it leads to contradictions. Nothing else in
-the excerpt needs outside knowledge.
+A short glossary for the excerpt. A grade of clearness is a level at
+which you grasp an idea; Peirce's essay is about the third and highest
+grade. Perspicuous arrangement means arranging facts so that what
+matters to the question stands out. The reductio ad absurdum is the
+argument form that rejects a hypothesis because it leads to
+contradictions. Nothing else in the excerpt needs outside knowledge.
 
 ### Step 3: the three figures in relation (Outcome 3)
 
 Here is the walk's working map of the tradition, in three short
-paragraphs. Test it against your notes from the video.
+paragraphs, with each figure's own words where the walk has opened them.
+Test it against your notes from the video.
 
-Peirce, a logician working on the sciences, asked where beliefs come from
-and how they settle. His answer: doubt is an unsettled state that real
-experience disrupts us with, belief is a settled habit of expectation, and
-inquiry is the process that moves us from one to the other. The maxim you
-read in Step 2 is his instrument for making ideas clear enough to be
-tested.
+Peirce, a logician working on the sciences, asked where beliefs come
+from and how they settle. Doubt is an unsettled state that experience
+disrupts us with, belief is a settled habit of expectation, and inquiry
+is the process that moves us from one to the other; the maxim you read
+in Step 2 is his instrument for making ideas clear enough to be tested.
+On the episode, McDermott puts Peirce's view of truth this way: it is
+what works at the limit of inquiry, with convergence among all rational
+inquirers.
 
-James, a psychologist and philosopher, took the same method and made it a
-philosophy for living. If the meaning of an idea lies in its practical
-effects, then the truth of an idea is something that happens to it in
-experience: true ideas are those that work when we act on them, that lead
-us usefully through the world. He also faced squarely the situations
-where evidence runs out and a live choice must be made anyway.
+James, a psychologist and philosopher, took the same method and made it
+a philosophy for living. In Pragmatism he states the method as trying
+"to interpret each notion by tracing its respective practical
+consequences", and he draws the consequences for theories: "Theories
+thus become instruments, not answers to enigmas, in which we can rest.
+We don't lie back upon them, we move forward, and, on occasion, make
+nature over again by their aid." His account of truth carries a
+qualifier worth memorizing: "The true is the name of whatever proves
+itself to be good in the way of belief, and good, too, for definite,
+assignable reasons"; truth, he writes, "happens to an idea". In The
+Will to Believe he faces the situations where evidence runs out: our
+passional nature "must, and lawfully may, decide an option between
+propositions, whenever it is a genuine option that cannot by its nature
+be decided on intellectual grounds", and a genuine option is one that is
+live, forced and momentous. That is a bounded permission, and m3 reads
+the whole argument.
 
 Dewey, who spent decades on education and public life, widened the
-method into a general account of inquiry and growth. On his telling,
-thinking is what an organism does when its environment frustrates it:
-ideas are plans for reconstructing the situation, and the good life is
-one kept moving by intelligent adjustment. Ethics and democracy, for
-Dewey, are the method of experiment applied to how we live together.
+method into a general account of inquiry and growth. In How We Think
+he defines reflective thought as "active, persistent, and careful
+consideration of any belief or supposed form of knowledge in the light
+of the grounds that support it and the further conclusions to which it
+tends", and he locates its origin: "The origin of thinking is some
+perplexity, confusion, or doubt." The university curricula this walk
+was benchmarked against teach his ethics and his democracy texts side
+by side with the classics (Duke's syllabus assigns Dewey's
+Construction of the Good and Philosophy and Democracy; Georgetown's
+required Dewey volume is the ethics one), and m4 reads Dewey on
+inquiry, ethics and democracy in that company.
 
 You will restate this relation from memory in the graded work. One
 caution while you take notes in Step 1: the episode's coverage of the
-three figures is at the level of this map. Where the module assigns each
-figure's specific texts (m2 Peirce, m3 James, m4 Dewey), the walk reads
-those texts themselves.
+three figures is at the level of this map. Where the module assigns
+each figure's specific texts (m2 Peirce, m3 James, m4 Dewey), the walk
+reads those texts themselves.
 
 ### Step 4: worked example with fading (Outcome 2)
 
-The maxim applied to a belief, demonstrated three times with the guidance
-faded. All three use the same belief so you can watch the moves without
-new content.
+The maxim applied to a conception, demonstrated three times with the
+guidance faded. All three use the same conception so you can watch the
+moves without new content. The case is constructed for teaching; test
+it against your own material rather than take it as a finding.
 
-The belief: "I can't meditate; my mind just doesn't work that way."
+The conception: "I am an introvert."
 
-1. Fully worked (demonstrated). What the belief conceivably does in
-   practice: it closes the option before any test happens (you decline
-   invitations to try, you interpret every restless minute as
-   confirmation); it gives you a story about your nature that spares you
-   the awkwardness of being a beginner; and it shapes what you count as
-   evidence, since a settled session would be explained away as a fluke.
-   The maxim's verdict: those effects, and others like them, are the whole
-   of the conception. There is no further fact of the matter about
-   whether you are "a person who can meditate" hiding behind the effects;
-   the belief is exactly what it does. Notice the move that makes this
-   useful rather than dismissive: the inquiry needs an arrangement of
-   facts that exhibits what the belief does, and the truth of the
-   self-description never comes apart from those effects. Arranged to exhibit what you might learn, the facts include
-   that beginners' minds wander, that the learning curve is steep early,
-   and that "doesn't work that way" was decided without any of that.
-2. Steps named (partially worked). Take the belief: "asking for help at
-   work makes me look incompetent." Your task: name the effects the belief
-   conceivably has in practice (at least three), then state the maxim's
-   verdict on the belief in one sentence. One step is supplied: the belief
-   generates its own apparent confirmation, because you rarely ask, so you
-   have little data about what actually happens when you do. Complete the
-   rest. Feedback to check against once you have written yours: a strong
-   answer names effects that close the option (not asking, working stuck
-   alone), effects on mood and self-image (guardedness, rehearsing worst
-   readings of other people's reactions), and effects on evidence-gathering
-   (few tests, each explained away); then it states that these effects,
-   plus similar ones, are the whole of the conception, so the belief is
-   settled not by introspecting your real nature but by looking at which
-   arrangement of the facts the inquiry needs.
-3. Independent (the graded deliverable). Take one live belief of your
-   own: something you hold about yourself, other people, or what is
-   possible for you, where you feel genuine uncertainty. Apply the maxim
-   in writing, using the same moves: at least three conceivable practical
-   effects, the verdict sentence, and one sentence on which arrangement
-   of the facts your question needs. Deliverable b in Step 5 is this
-   piece, written up cleanly.
+1. Fully worked (demonstrated). What the maxim asks first: the effects
+   the object of the conception would conceivably have in practice.
+   Being an introvert, as a conception of a person, shows itself in a
+   pattern of effects: energy that holds through an evening of one or
+   two close conversations and drains across a long party; a
+   preference for depth with a few people over breadth with many; a
+   working style that seeks quiet rooms for hard thinking; recovery
+   after heavy socializing that seeks solitude. Those effects, and
+   others like them, are the whole of the conception. There is no
+   further fact about being "really" an introvert that sits behind
+   them, which is the lesson of Peirce's diamond: the question of
+   whether the person who never attends parties is "really" an
+   introvert is a question about which arrangement of facts is most
+   perspicuous for the inquiry at hand, and the meaning lives in the
+   effects either way. Now the separate step the maxim does not ask
+   about: what holding the belief does. Believing "I am an introvert"
+   can close options before any test (declining invitations, reading
+   every tired evening as confirmation), can spare the awkwardness of
+   being a beginner at social skills, and can shape what counts as
+   evidence, since a lively evening would be explained away as a
+   fluke. Those are effects of believing, and they matter to a
+   different inquiry, the one James pursues in The Will to Believe:
+   when you may let your passional nature decide. They tell you what
+   the belief costs and protects; they do not add to or subtract from
+   the conception's meaning. Keep the two lists apart in your own
+   work; the graded rubric checks that you can.
+2. Steps named (partially worked). Take the conception: "asking for
+   help at work makes me look incompetent." First task: name the
+   effects the claim's object would conceivably have in practice if
+   it were so (at least three: what colleagues would see, what would
+   show up in how work gets done, what the reaction would look
+   like). Second task: the maxim's verdict sentence on the conception.
+   Third task: separately, name at least two effects of holding the
+   belief. One step is supplied for the third task: because you rarely
+   ask, you have little data about what actually happens when you do,
+   so the belief generates its own apparent confirmation. Complete
+   the rest. Feedback to check against once you have written yours:
+   a strong answer names observable consequences of the claim's
+   being true (visible contempt or impatience from colleagues, work
+   stalling where help was needed, a reputation cost that shows up in
+   how assignments come to you), then states that those effects are
+   the whole of the conception, then separately lists effects of
+   holding the belief (avoiding requests, rehearsing worst readings,
+   guardedness), labelled as such.
+3. Independent (the graded deliverable). Take one live conception of
+   your own: something you hold about yourself, other people, or what
+   is possible for you, where you feel genuine uncertainty. Apply the
+   maxim in writing, using the same moves: at least three conceivable
+   practical effects of the object, the verdict sentence, and the
+   separate belief-effects list, labelled. Deliverable b in Step 5 is
+   this piece, written up cleanly.
 
 ### Step 5: practice and assessment (all outcomes)
 
@@ -192,34 +241,35 @@ only what serves learning to test beliefs in experience.
 ## Rubric (observable criteria)
 
 1. The core idea statement matches the tradition's usage and carries a
-   life example. Strong: "A belief is a tool for living: what the belief
-   means is what it does, and its test is what happens when you act on
-   it; my belief that I was 'not a morning person' turned out to mean a
-   set of avoidable arrangements, and when I changed the arrangements the
-   belief changed." Rejection: "Pragmatism means being practical" (an
+   life example. Strong: "A belief is a tool for living: what a concept
+   means is the practical effects its object would have, and the test
+   of an idea is what acting on it does; my idea of being 'not a
+   morning person' turned out to name a set of arrangements, and when I
+   changed the arrangements the idea's meaning was the only thing that
+   changed." Rejection: "Pragmatism means being practical" (an
    everyday gloss with no instrument idea and no example), or a correct
    statement with an example that never touches the learner's life.
 2. The maxim application names at least three conceivable practical
-   effects, states the verdict sentence, and names the arrangement the
-   question needs. Strong: for "asking for help looks incompetent", the
-   learner lists the closed option, the guardedness, the self-confirming
-   evidence loop, states that these effects are the whole of the
-   conception, and notes that the question needs the arrangement that
-   exhibits what actually happens on the occasions they do ask.
-   Rejection: three effects listed but no verdict sentence; a verdict
-   sentence that appeals to what the belief "really is" behind its
-   effects; or an application that never leaves the abstract ("beliefs
-   affect actions").
+   effects of the object, states the verdict sentence, and keeps the
+   belief-effects list separate and labelled. Strong: for "asking for
+   help looks incompetent", the learner lists what colleagues would
+   see and what would happen to the work if the claim were true,
+   states that those effects are the whole of the conception, then
+   separately lists avoidance and guardedness as effects of holding the
+   belief. Rejection: three effects listed with no verdict sentence; a
+   verdict sentence that appeals to what the conception "really is"
+   behind its effects; or the two lists merged into one, with effects
+   of believing presented as part of the conception's meaning.
 3. Each figure gets two to three sentences that place them in relation
-   without collapsing them into one another. Strong: "Peirce supplied the
-   logic: doubt disrupts, belief is settled habit, the maxim makes ideas
-   testable. James turned it on living: truth is what ideas do for us,
-   and some choices must be made before the evidence is in. Dewey
-   widened it: inquiry is what an organism does in a frustrating
-   environment, and ethics and democracy are experiment applied to shared
-   life." Rejection: three biographical paragraphs with no relation
-   between them; or all three figures merged into "the pragmatists said
-   truth is what works".
+   without collapsing them into one another. Strong: "Peirce supplied
+   the logic: doubt disrupts, belief is settled habit, the maxim makes
+   ideas testable. James turned it on living: theories are instruments,
+   truth happens to an idea, and some choices must be made before the
+   evidence is in. Dewey widened it: thinking begins in perplexity and
+   works by considering beliefs in the light of their grounds and
+   tendencies." Rejection: three biographical paragraphs with no
+   relation between them; or all three figures merged into "the
+   pragmatists said truth is what works".
 4. The scope statement names the walk's coverage in the learner's own
    words and each exclusion with its owner or branch. Strong: an answer
    that states the method-and-application coverage, names
@@ -235,8 +285,8 @@ only what serves learning to test beliefs in experience.
   measured from the watch page (2026-10-25) and confirmed accessible by
   oembed this session (2026-10-26). With note-taking: about 60 minutes
   (estimate).
-- Required reading: the Peirce excerpt, 646 words measured on the opened
-  page. At 130 words per minute (many new concepts; the 238
+- Required reading: the Peirce excerpt, 646 words measured on the
+  opened page. At 130 words per minute (many new concepts; the 238
   words-per-minute adult default adjusted down by purpose) about 5
   minutes raw; with study overhead at three times raw, about 15 minutes
   (estimate, labelled).
@@ -251,7 +301,8 @@ only what serves learning to test beliefs in experience.
 Total: about 2 hours 50 minutes (about 170 minutes of labelled
 components: 60 viewing, 15 reading with overhead, 15 relation prose, 25
 worked example and faded practice, 10 retrieval, 45 graded). Optional
-further reading (the rest of Peirce's essay) is not counted.
+further reading (the rest of Peirce's essay; the James and Dewey texts
+quoted in Step 3, which m3 and m4 assign in full) is not counted.
 
 ## Verification status of attached sources
 
@@ -261,20 +312,41 @@ with evidence and dates in ledgers/deg-wol-pragmatism.md:
 - Philosophy Talk, American Pragmatism (YouTube, ksLO4i5pIBM): the
   episode was verified 2026-10-25 in
   docs/degrees/verify/deg-philosophy.md (identity and access by oembed,
-  duration 49:24 from the watch page, instructor credentials for the
-  Philosophy Talk hosts on the Stanford Department of Philosophy page,
-  coverage basis the episode description); this session re-confirmed
-  existence and free access by oembed on 2026-10-26 and the ledger row
-  is appended. Verified-video.
+  duration 49:24 from the watch page, coverage basis the episode
+  description); this session (2026-10-26) re-confirmed existence and
+  free access by oembed, upgraded the coverage basis by reading the
+  full third-party transcript (Peirce, James and Dewey all discussed;
+  meaning and truth as practical outcome confirmed; no printed
+  timestamps in the transcript, so the whole episode is assigned and
+  the discussion distribution is recorded from the transcript), and
+  verified the guest's credentials on an institutional page (John J.
+  McDermott, University Distinguished Professor of Philosophy and
+  Humanities, Texas A&M University; Texas A&M College of Arts and
+  Sciences profile). Verified-video.
 - Peirce, How to Make Our Ideas Clear (Wikisource, public domain,
-  1878): opened this session (2026-10-26); the assigned excerpt was read
-  on the opened page, the maxim sentence confirmed verbatim, and the
-  excerpt word count measured at 646. Author identity rests on the essay
-  itself (signed C. S. Peirce in the January 1878 Popular Science
-  Monthly, per the page header). Verified text.
+  1878): opened this session (2026-10-26); the assigned excerpt was
+  read on the opened page, the maxim sentence confirmed verbatim, the
+  excerpt's opening and closing words pinned, and the excerpt word
+  count measured at 646 on the page extraction. Author identity rests
+  on the essay itself (signed C. S. Peirce in the January 1878
+  Popular Science Monthly, per the page header). Verified text.
 
-No paywall stands in front of either source. No imported labels remain
-on attached sources.
+Three further texts were opened this session to ground the Step 3
+teaching prose (read for verbatim quotes, not assigned as m1 reading):
+James, Pragmatism (Project Gutenberg #5116, public domain); James,
+The Will to Believe (Wikisource, public domain); Dewey, How We Think
+(Project Gutenberg #37423, public domain). All quotes in Step 3 were
+confirmed verbatim on the opened pages; evidence rows are in the
+ledger. No paywall stands in front of any source. No imported labels
+remain on attached sources.
+
+Video-first check (owner decision 8): a focused search for a
+credentialed lecture video covering the maxim text itself found no
+candidate meeting the section-4 standard (search recorded in the
+ledger, 2026-10-26); the orientation content is carried by the
+verified lecture video above, and the maxim text is carried by the
+primary-text reading, which is the fallback the video-first policy
+allows where no verified video covers the material.
 
 ## Alignment map
 

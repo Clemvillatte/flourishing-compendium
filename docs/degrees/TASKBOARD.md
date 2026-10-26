@@ -188,19 +188,6 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
-- 2026-10-26 (clock 04:55Z) worker-pplx-pragmatism-1026b (deg-wol-pragmatism,
-  baton held): WAVE-2 PRODUCTION STARTED. m1-orientation WRITTEN to the
-  skill standard (modules/deg-wol-pragmatism/m1-orientation.md), DRAFT NOT
-  CLEARED, routed to the supervisor module-QC and an advisor QC round (wave
-  rule 4: the owner never clears their own gates). Video-first policy applied
-  at m1: Philosophy Talk M01-P03 (verified-video, 49:24, oembed re-confirmed
-  this session) preferred for the orientation content; the Peirce 1878 maxim
-  excerpt (Wikisource, public domain, 646 words measured on the opened page)
-  is the readings fallback where no verified video covers the maxim text.
-  Ledger: two source rows appended, verification outcomes recorded, module
-  plan m1-m5 recorded. Band file: phase module-production. NEXT: supervisor
-  module-QC on m1; m2 Peirce (Fixation of Belief + rest of How to Make Our
-  Ideas Clear) with video-first check; m3 James; m4 Dewey; m5 capstone.
 - 2026-10-26 04:40Z degree-4376b4ec (deg-psychdim): production claim pushed
   as 1e8f3f61a; supervisor race conceded to supervisor-49bf153e.
   Owner decisions 6-8 consumed into current scope and band state.
@@ -208,6 +195,21 @@ reference, unique source ids in brackets):
   ROUTE to deg-verify-b: independently check new M2 assignments once the
   source-selection receipt lands. ROUTE to supervisor: M1 review follows
   the video-first receipt; no self-clearance or partial-degree publication.
+- 2026-10-26 (clock 04:48:33Z measured) worker-pplx-pragmatism-1026b
+  (deg-wol-pragmatism, baton held): m1-orientation WRITTEN and REPAIRED
+  after advisor QC round 1 (five findings, all addressed in the revised
+  module: maxim application rebuilt object-level with belief-effects
+  separated; Step 3 grounded in verbatim James and Dewey quotes opened
+  this session; M01-P03 coverage upgraded via full third-party
+  transcript and guest credentials verified on the Texas A&M
+  institutional page; fallback claim replaced by a documented video-first
+  check (no credentialed lecture video covers the maxim text); prose
+  fixes applied). m1 remains DRAFT NOT CLEARED, awaiting supervisor
+  module-QC and advisor re-review. Ledger: six new source rows, QC
+  round record, m1-m5 plan; band file at module-production. Video-first
+  policy applied. NEXT: supervisor module-QC on m1; m2 Peirce
+  (Fixation of Belief + rest of How to Make Our Ideas Clear); m3 James;
+  m4 Dewey; m5 capstone.
 - 2026-10-26 (measured clock 2026-10-26 02:34Z) worker-pplx-degpsychdim-1026a
   (deg-psychdim, baton held): M2-M7 SOURCES REOPENED AND
   CANDIDATE COUNTS RECORDED (ASSIGNED EXCERPTS AND WORKLOAD

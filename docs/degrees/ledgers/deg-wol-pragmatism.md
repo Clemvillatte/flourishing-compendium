@@ -26,6 +26,11 @@ carries a UTC timestamp and the agent id.
 | https://www.uh.edu/~cfreelan/courses/americanphil/american.html | 2026-10-26, clock 02:14Z | worker-pplx-pragmatism-1026a (deg-wol-pragmatism) | repair-check re-open: UH American Philosophy page re-read; no Whitehead or process-philosophy mention; authors and texts as previously recorded |
 | https://www.youtube.com/watch?v=ksLO4i5pIBM | 2026-10-26, oembed confirmed between the 04:40Z claim push 06bdff724 and the M1 production push (same session; save timestamp carries the bound) | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | M1 re-confirmation: oembed returns "American Pragmatism" on the Philosophy Talk channel, freely playable, no paywall; duration 49:24 rests on the 2026-10-25 watch-page measurement in verify/deg-philosophy.md (M01-P03, verified-video) |
 | https://en.wikisource.org/wiki/How_to_Make_Our_Ideas_Clear | 2026-10-26, same session bound as the row above | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | M1 primary text opened: Peirce 1878 essay on Wikisource (public domain); the assigned excerpt (third-grade rule through the free-will example) read on the opened page, maxim sentence confirmed verbatim, excerpt measured at 646 words |
+| https://youtubetotranscript.com/transcript?v=ksLO4i5pIBM&current_language_code=en | 2026-10-26, between the 04:45:41Z clock reading and the repairs push (same session) | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | M01-P03 coverage upgrade: full third-party transcript read; Peirce, James and Dewey all discussed; meaning/truth as practical outcome confirmed; Peirce discussed from the opening onward, James at length in the middle, Dewey in the middle and near the end; no printed timestamps in the transcript, whole-episode assignment retained (third-party transcript route per the M01-P07/P12 verification precedent) |
+| https://artsci.tamu.edu/philosophy/contact/profiles/john-j-mcdermott.html | 2026-10-26, same session bound as the transcript row | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | M01-P03 guest credentials on an institutional page: John J. McDermott, University Distinguished Professor of Philosophy and Humanities, Texas A&M University; PhD Fordham 1959; General Editor, The Correspondence of William James (replaces the episode-description credential basis) |
+| https://en.wikisource.org/wiki/The_Will_to_Believe | 2026-10-26, same session bound as the transcript row | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | m1 Step 3 grounding, opened for verbatim quotes: live/forced/momentous option definitions, "Our passional nature must, and lawfully may, decide an option between propositions, whenever it is a genuine option that cannot by its nature be decided on intellectual grounds" confirmed verbatim; public domain |
+| https://www.gutenberg.org/files/5116/5116-h/5116-h.htm | 2026-10-26, same session bound as the transcript row | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | m1 Step 3 grounding, opened for verbatim quotes (Project Gutenberg #5116, public domain): "The pragmatic method... is to try to interpret each notion by tracing its respective practical consequences"; "Theories thus become instruments, not answers to enigmas, in which we can rest"; "The true is the name of whatever proves itself to be good in the way of belief, and good, too, for definite, assignable reasons"; "Truth happens to an idea" confirmed verbatim in Lecture II |
+| https://www.gutenberg.org/files/37423/37423-h/37423-h.htm | 2026-10-26, same session bound as the transcript row | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | m1 Step 3 grounding, opened for verbatim quotes (Project Gutenberg #37423, public domain): Dewey's definition of reflective thought and "The origin of thinking is some perplexity, confusion, or doubt" confirmed verbatim in How We Think (1910) |
 
 Note: Timestamps in this table are upper bounds from this session's save pushes; exact fetch minutes were not recorded (archive-file mtimes are archive-write times, not open times).
 
@@ -191,7 +196,7 @@ The scope repairs (process-thought bound; Dewey-elective trim) were applied
 2026-10-26 by worker-pplx-pragmatism-1026a (see "Repairs applied" above);
 re-review by the deg-gate reviewer is requested before module work starts.
 
-## Module plan and m1 production (2026-10-26, worker-pplx-pragmatism-1026b, deg-wol-pragmatism baton; wave-2 launch)
+## Module plan and m1 production (2026-10-26, clock 04:45:41Z measured, worker-pplx-pragmatism-1026b, deg-wol-pragmatism baton; wave-2 launch)
 
 Walk structure (five modules, centered on the Walk of Life value
 proposition; coverage matrix rows mapped to modules):
@@ -202,9 +207,10 @@ proposition; coverage matrix rows mapped to modules):
   Sources: Philosophy Talk M01-P03 (verified-video, video-first policy
   applied: a verified lecture video exists for the orientation content
   and is preferred) and the Peirce 1878 maxim excerpt (Wikisource,
-  public domain, no verified video covers the maxim text itself at the
-  required level; readings are the fallback the video-first policy
-  allows).
+  public domain; a focused video-first check was performed this session
+  (see the QC round section below): no credentialed lecture video
+  covering the maxim text was found, so the primary-text reading is the
+  fallback the video-first policy allows).
 - m2 Peirce on belief and doubt (L2): The Fixation of Belief plus the
   rest of How to Make Our Ideas Clear; the method applied to one's own
   belief-habits.
@@ -213,9 +219,9 @@ proposition; coverage matrix rows mapped to modules):
   Peirce-James-Ramsey line.
 - m4 Dewey on inquiry, ethics and democracy (L2/L3): public-domain Dewey
   texts; the Dewey ethics elective anchors here; video candidate search
-  pending (M01-P08 Hicks is verified-video but covers Democracy and
-  Education, the education register the repaired scope dropped, so it is
-  held as optional only).
+  pending; M01-P08 (Hicks on Dewey's Democracy and Education) is NOT a
+  candidate: it covers the education register the repaired scope
+  dropped (advisor QC round 1).
 - m5 Capstone, L4: personal synthesis applying the method to a live
   belief, defended against a serious objection (the relativism
   objection is the natural candidate).
@@ -230,3 +236,54 @@ first policy applied at m1; humanizer rules applied (no em dashes, the
 "not X but Y" construction found in draft removed). DRAFT NOT CLEARED:
 routed to the supervisor module-QC (wave rule 4: never clear your own
 degree's gates); advisor QC round requested this session.
+
+## Advisor QC round 1 on m1-orientation (2026-10-26, worker-pplx-pragmatism-1026b; repairs applied same session)
+
+The advisor reviewed the draft m1 against the skill and returned it
+with five findings; all are addressed in the revised module (push
+follows this entry):
+
+1. MAXIM APPLICATION MISAPPLICATION (fixed): the draft applied the
+   maxim to the psychological effects of holding a belief; the maxim
+   concerns the object of a conception and the effects that object
+   would conceivably have. Step 4 rebuilt object-level first (following
+   Peirce's hardness demonstration, introvert-conception worked
+   example), with belief-holding consequences separated into a labelled
+   distinct step tied to James's The Will to Believe; rubric criterion 2
+   now checks the two lists are kept apart.
+2. THREE-FIGURE MAP UNSOURCED (fixed): Step 3 now carries verbatim
+   quotes opened this session: James (Pragmatism Lecture II and The
+   Will to Believe) and Dewey (How We Think 1910), rows above; the
+   Peirce truth gloss is attributed to McDermott on the verified
+   transcript. The James gloss is refined to carry his own qualifier
+   ("good, too, for definite, assignable reasons") per the guest's
+   on-episode caution against "truth = useful".
+3. VIDEO VERIFICATION INSUFFICIENT (fixed): coverage basis upgraded
+   from episode description to full third-party transcript read
+   (route and distribution recorded above; no printed timestamps,
+   whole-episode assignment retained); guest credentials moved to the
+   Texas A&M institutional page (row above). The open playback
+   inspection remains outstanding and is noted in the module's
+   verification section.
+4. FALLBACK CLAIM WITHDRAWN (fixed): the "no verified video covers
+   the maxim" claim is replaced by the documented focused video-first
+   check: a web search for a credentialed lecture video covering the
+   maxim text (queries: Peirce pragmatic maxim lecture video; Peirce
+   How to Make Our Ideas Clear lecture video; pragmatic maxim
+   university lecture video) returned no candidate meeting the
+   section-4 standard (topical hits were linguistic-pragmatics
+   material or non-lecture videos; a UCTV pragmatism overview exists
+   but covers the tradition, not the maxim text, and is a candidate for
+   the orientation slot only, not for the maxim). The primary-text
+   reading stays the maxim's carrier under the video-first fallback.
+   The Hicks M01-P08 optional-plan mention is removed (education
+   register excluded).
+5. PROSE FIXES (applied): the "settled not by introspecting... but
+   by..." construction removed; constructed examples labelled; the
+   "learning curve is steep early" empirical assertion dropped; the
+   Peirce excerpt's opening and closing words pinned in the module;
+   workload measured components unchanged (646-word excerpt measured on
+   the opened page extraction; 49:24 video measured 2026-10-25).
+
+m1 remains DRAFT NOT CLEARED; supervisor module-QC and advisor
+re-review requested.
