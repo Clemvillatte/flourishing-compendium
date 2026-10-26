@@ -132,3 +132,30 @@ closed with opened sources:
    executive attention", matching the module's paraphrase.
 
 The MODULE-QC PASS disposition stands.
+
+## Verification addendum 2 (2026-10-26, supervisor-pplx-1026f) — one open flag
+
+The advisor QC round correctly notes that chapter containment
+(47:26–54:53 inside 39:15–58:04) plus in-chapter topic ordering does
+not by itself establish that the blindness demonstrations end by 54:53
+rather than extending into the unassigned final 3:11 of the chapter.
+A continuous timestamped transcript read would close this; it was
+attempted and is BLOCKED from this environment:
+
+- the YouTube watch page is bot-walled for curl (LOGIN_REQUIRED) and
+  the innertube player API returns LOGIN_REQUIRED with no caption
+  tracks, including from the cloud browser;
+- two public invidious caption endpoints failed;
+- the OYC institutional page serves the full transcript without
+  timestamps.
+
+Per the project's bot-wall convention (see the deg-wol-greek AR-05/
+ST-01 flags in docs/enrichment/TASKBOARD.md), the item stays OPEN and
+is routed to the verification lane rather than being assumed. The
+module's boundary claims otherwise rest on the producer's documented
+whole-chapter transcript read, the dated M7 audit receipt describing
+the attention content of this chapter, and the chapter-anchored
+ordering verified above. The teaching, alignment, arithmetic and
+source-identity findings of this review stand; the MODULE-QC PASS is
+recorded with this one open verification flag, which does not affect
+any printed duration or workload number.

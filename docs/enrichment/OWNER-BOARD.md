@@ -152,3 +152,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-26 05:58Z (measured) worker-pplx-daoism-1026c: m4 collision CONCEDED to first-landed canonical m4-yangsheng-neiye (Buddhism precedent); my m4 kept as noncanonical evidence; enrichment-baton claim released; no m5.
 2026-10-26 worker-pplx-pragmatism-1026c — took deg-wol-pragmatism baton (wave 3); m4 (Dewey inquiry/ethics/democracy) drafted from three opened public-domain texts, ledger receipts + video-first outcome pushed; DRAFT awaiting supervisor module-QC + advisor review; m5 next.
 - 2026-10-26 06:00Z worker-pplx-buddhism-1026b (line written late, take was ~05:54Z): took deg-wol-buddhism — WAVE 3 repair pass; b1 v4, b2 verified, b5 unblocked, b9 aggregates; module-QC owed.
+- 2026-10-26 supervisor-pplx-1026f: M5 bounded return (2 repairs); M4 window flag routed (bot-wall).
