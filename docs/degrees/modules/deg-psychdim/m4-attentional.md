@@ -41,30 +41,31 @@ By the end, you can:
 
 Four video windows provide the core explanations:
 
-- **Michael Posner, The Attentional Networks of the Human Brain:**
+- **Michael Posner on the anatomy of attentional networks, gocognitive:**
   [03:06–14:52](https://www.youtube.com/watch?v=uYUdwS7-WvA&t=186),
   **11:46**. Attend to alerting, orienting and control. Neuroanatomical
   names are context, not memorisation targets.
-- **William Gaul, Attention Network Test:** [05:24–07:42](https://www.youtube.com/watch?v=y-fQywP6qa8&t=324),
-  **2:18**. This graduate-project explanation illustrates the task,
-  not a clinical authority or validation study; research sources below
-  support interpretation.
+- **Michael Posner, Fostering Attention for Human Needs, APS:**
+  [05:24–07:42](https://www.youtube.com/watch?v=y-fQywP6qa8&t=324),
+  **2:18**. This 2015 keynote illustrates the task; the original
+  research source below supplies the subtraction definitions.
 - **Paul Bloom, lecture 7:** [47:26–54:53](https://www.youtube.com/watch?v=DmWrOUK2zgA&t=2846),
   **7:27**. This narrowed window starts with selection/spotlight and
   ends with the blindness demonstrations. The preceding memory/clinical
   survey and later broad "nobody notices" anecdotes are not assigned.
-- **Amishi Jha, How mindfulness changes the emotional life of our brains:**
+- **Richard Davidson with Andrew Huberman, When & How to Practice
+  Effective Meditation, Huberman Lab Clips:**
   [02:08–04:17](https://www.youtube.com/watch?v=n_3MVEo9fx4&t=128),
   **2:09**, on focused attention and open monitoring. The remainder of
   the talk's meditation/brain claims is not assigned.
 
 The source institutions identify Posner's attention research, Bloom's
-Yale teaching and Jha's cognitive-neuroscience work. Gaul's recording
-is accurately labelled as a student explanation rather than promoted
-to the same kind of evidence
+Yale teaching and Davidson's psychology/psychiatry appointment and
+contemplative research. The Davidson discussion is used for definitions,
+not an endorsement of the broader podcast or its health claims
 ([Oregon profile](https://cas.uoregon.edu/directory/psychology/all/mposner);
 [Yale course](https://oyc.yale.edu/introduction-psychology/psyc-110);
-[Miami profile](https://people.miami.edu/profile/a.jha@miami.edu)).
+[Wisconsin institutional biography](https://centerhealthyminds.org/about/people/richard-j-davidson)).
 
 Read these short companions, not the whole papers:
 
@@ -75,14 +76,17 @@ Read these short companions, not the whole papers:
   then Table 2, its caption,
   and the first paragraph under "Attentional Pathologies"
   ([open review](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/)).
-- **Fan and colleagues, 2002:** the Results paragraphs "Alerting,"
-  "Orienting" and "Conflict (executive control)," stopping before
-  Table 1. Use the calculation definitions, not the reported study
+- **Fan and colleagues, 2002:** on journal pages 342–343, read the
+  three complete Results paragraphs beginning "The alerting effect
+  was calculated," "The orienting effect was calculated" and
+  "The conflict (executive control) effect was calculated." Skip the
+  intervening tables/figure and stop before "Correlation Analyses."
+  Use the calculation definitions, not the reported study
   averages as a personal norm
   ([free full-text university-hosted PDF](https://w3.ual.es/personal/tdaza/Fan%20y%20cols.pdf)).
 - **Lippelt, Hommel and Colzato, 2014:** the Abstract, then the
-  Introduction paragraph beginning "Investigating meditation
-  scientifically," through "meta-analyses have been performed."
+  single Introduction paragraph from "Even though numerous studies"
+  through "attentional control, conflict monitoring, and creativity."
   Definitions and methodological limits only; later claims about
   particular brain regions are not assigned
   ([open review](https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/)).
@@ -166,8 +170,11 @@ to rather than measuring all possibilities.
 Complete: someone concentrates on a list while an unanticipated image
 appears; separately, an item's colour differs after a view is interrupted.
 Feedback: the first concerns an unexpected event under selective attention;
-the second a change across views. "They have bad attention" explains
-neither the conditions nor the distinction.
+the second a change across views. Add a spotlight explanation: selection
+favours some information rather than recording everything equally. A limit
+is that attention is not a literal beam, and a missed report alone does
+not identify its cause. "They have bad attention" explains neither the
+conditions nor the distinction.
 
 ## What an ANT contrast can tell you
 
@@ -206,6 +213,13 @@ discusses speed–accuracy tradeoffs; a response-time change without
 accuracy context is an incomplete performance account
 ([Fan and colleagues, Discussion](https://w3.ual.es/personal/tdaza/Fan%20y%20cols.pdf)).
 
+Teach an ANT trial back in three lines: what response to the central
+arrow, what flankers can do, and what timing versus location cues supply.
+Feedback: left/right response to the centre; congruent or incongruent
+neighbours; a warning about when versus information about where the
+target will occur. That procedure, not the subtraction alone, makes
+the contrasts interpretable.
+
 ## An association is not a diagnostic key
 
 Read Table 2 and its adjoining paragraph. The 2019 authors associate
@@ -231,6 +245,13 @@ reverse the inference from a group-level association to an individual
 diagnosis
 ([Table 2 and qualification](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/)).
 
+Choose another actual Table 2 association and paraphrase its group-level
+meaning before stating the individual inference it cannot justify.
+Feedback example: the review links orienting with difficulty disengaging
+from fearful stimuli in PTSD; it does not identify PTSD whenever someone
+finds a feared image hard to leave. This is reading an association,
+not testing a person.
+
 Complete: "I had a large conflict contrast, so this proves I have ___"
 fails because ___. Feedback: an experimental difference is neither
 sufficient nor specific evidence for a diagnosis; one score also lacks
@@ -244,12 +265,12 @@ a question without settling a personal causal story.
 
 ## Observe a practice, then judge the evidence separately
 
-Watch Jha and read the review selections. Focused attention selects an
+Watch Davidson and read the review selections. Focused attention selects an
 object and returns when distraction is noticed; open monitoring is
 described as non-reactive awareness of ongoing experience without
 selecting a single object in the same way. These are research categories,
 not a claim that every contemplative tradition divides practice identically
-([Jha's comparison](https://www.youtube.com/watch?v=n_3MVEo9fx4&t=128);
+([Davidson's comparison](https://www.youtube.com/watch?v=n_3MVEo9fx4&t=128);
 [Lippelt and colleagues, Abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/)).
 
 Here is an optional one-minute observation, not an intervention protocol.
@@ -295,14 +316,18 @@ Write 650–850 words, plus the calculations below:
   and state why it does not reveal Dev's chemical levels.
 - **Selection:** distinguish the unexpected symbol from the unnoticed
   date change; explain a Stroop-style conflict using the verbal ink/word
-  description, without claiming that any of these is a personal defect.
-- **ANT:** use fictional no-cue 700, double-cue 640, centre 670,
+  description, and the spotlight analogy plus one limit. None of these
+  descriptions should become a claim of personal defect.
+- **ANT:** first teach back a central-arrow trial, flankers and the
+  timing/location cue distinction. Then use fictional no-cue 700,
+  double-cue 640, centre 670,
   spatial 630, incongruent 740 and congruent 660 averages. Calculate
   the three contrasts; distinguish two cue effects from conflict cost.
   State why these comparisons do not yield a diagnosis or a ranking
   of which network is "best."
 - **Evidence:** use the table's actual one-to-one caveat to appraise
-  a claimed diagnosis from distraction; compare the two practice
+  one actual network/condition association and a claimed diagnosis
+  from distraction; compare the two practice
   instructions and give a confound plus a research-review limit.
   State why a developmental association need not be a fixed lifetime
   profile, and why co-occurring worry does not establish causal direction.
@@ -316,9 +341,9 @@ question. You need not disclose symptoms, test yourself or claim change.
 | Criterion | Pass | Revise |
 |---|---|---|
 | Network map/comparison | Correct functions, overlap, source-lookup pairing and specific independence/interaction disagreement. | Three labels without application, chemical inference or independent boxes. |
-| Selection | Correct inattentional/change distinction and Stroop conflict explanation. | Absence of a report alone treated as a disorder or all missed events merged. |
-| ANT | 60, 40 and 80 ms with correct subtractions and benefit/cost interpretation. | Reversed subtraction, universal larger-is-better rule or personal ranking. |
-| Association | Uses the actual one-to-one caveat and distinguishes group association from diagnosis. | Infers a condition from a distraction or a single score. |
+| Selection | Correct blindness distinction, Stroop conflict, spotlight explanation and limit. | Missed report treated as disorder, literal spotlight or all missed events merged. |
+| ANT | Correct trial teach-back; 60, 40 and 80 ms with subtractions and benefit/cost interpretation. | No trial explanation, reversed subtraction, larger-is-better rule or personal ranking. |
+| Association | Interprets an actual table association with its one-to-one caveat. | Generic warning alone or condition inferred from one score. |
 | Practice/evidence | Correct instruction comparison, specific confound and review limit, no efficacy leap. | Personal observation presented as lasting network change or cure. |
 | Transfer | Each private note has an instance/claim, useful understanding/choice and uncertainty. | Personal improvement or disclosure substituted for reasoning. |
 
@@ -341,7 +366,10 @@ special meditation ability or symptom improvement is a prerequisite.
 
 Video **11:46 + 2:18 + 7:27 + 2:09 = 23:40**, plus **16 minutes**
 pauses/notes, about **40 minutes**. Allow **35 minutes** for the bounded
-external readings, **40 minutes** for this lesson's teaching,
+external readings (estimated 1,100–1,400 words, 130 words per minute,
+three times raw for study plus table navigation), **40 minutes** for
+this lesson's teaching (about 2,400 words of explanation/reference,
+180 words per minute, with roughly threefold study allowance),
 **50 minutes** for guided mapping/calculation/comparison practice,
 **20 minutes** for delayed retrieval, and **80 minutes** for independent
 analysis, private transfer and revision. Total: **about 4 hours 25 minutes**
@@ -354,4 +382,4 @@ window; optional wider research is not counted.
 | Selection | Narrowed Bloom window; verbal alternatives | Unexpected-item/change completion | Dev distinction and Stroop explanation |
 | Measurement | ANT clip; original Results; worked table | Two contrasts with feedback | Three new contrasts and limits |
 | Associations | Table 2 and adjacent caveat | Diagnosis-claim completion | Group/individual inference appraisal |
-| Practice/evidence | Jha; bounded review; safe optional observation | Confound and can/cannot claim feedback | Instruction comparison and evidence boundary |
+| Practice/evidence | Davidson; bounded review; safe optional observation | Confound and can/cannot claim feedback | Instruction comparison and evidence boundary |

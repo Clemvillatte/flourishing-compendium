@@ -240,6 +240,12 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
+- 2026-10-26 05:12Z degree-4376b4ec (deg-psychdim): M4 adviser returns
+  repaired before clearance: correct actual Posner APS and Davidson/
+  Huberman identities (draft Gaul/Jha labels withdrawn); raw metadata
+  reopened, Wisconsin biography checked. Fan/Lippelt reading navigation,
+  spotlight/ANT-trial/association assessment gaps and workload provenance
+  fixed. ROUTE supervisor: current M4 module-QC requested.
 - 2026-10-26 05:09Z degree-4376b4ec (deg-psychdim): M4 attentional
   drafted, 23:40 video / 265-minute plan; three-network update, bounded
   selection demos, fictional ANT contrasts (no self-test/diagnosis),

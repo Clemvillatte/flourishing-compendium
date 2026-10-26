@@ -2739,6 +2739,56 @@ delayed retrieval 20, final/transfer/revision 80 = **265 minutes**.
 Optional and substitute activities do not add duplicate requirements.
 Read-only advisor QC commissioned; independent module-QC still owed.
 
+### M4 advisor repairs and source-identity correction, 05:12Z
+
+The preceding M4 production receipt's **Gaul/Jha identities and
+credentials are incorrect and superseded**, not valid evidence.
+The actual independent video audit had the correct identities; the
+producer misidentified them in the draft. All affected public labels,
+credentials, teaching attribution and alignment rows are corrected.
+Parent reopened all three raw watch pages without LLM extraction,
+read their actual continuous transcripts and metadata, and reopened
+Davidson's independent Wisconsin institutional biography.
+
+- **uYUdwS7-WvA:** *Michael Posner on the anatomy of attentional
+  networks – a historical perspective*, **gocognitive**, uploaded
+  **2011-11-12**, **19:49**. Interview with Justin Mayes, not the
+  previously printed invented title. Assignment still 03:06–14:52.
+  ([Actual recording](https://www.youtube.com/watch?v=uYUdwS7-WvA).)
+- **y-fQywP6qa8:** *Fostering Attention for Human Needs*,
+  **PsychologicalScience**, Michael Posner's **2015 APS** keynote,
+  uploaded **2015-08-14**, **42:05**. NOT William Gaul, NOT a
+  graduate-project explainer. Assignment still 05:24–07:42.
+  ([Actual recording](https://www.youtube.com/watch?v=y-fQywP6qa8).)
+- **n_3MVEo9fx4:** *When & How to Practice Effective Meditation |
+  Dr. Richard Davidson & Dr. Andrew Huberman*, **Huberman Lab Clips**,
+  uploaded **2026-03-21**, **12:30**. NOT Amishi Jha. Assignment
+  still 02:08–04:17; no broad podcast endorsement or health claim.
+  ([Actual recording](https://www.youtube.com/watch?v=n_3MVEo9fx4);
+  [opened Wisconsin biography](https://centerhealthyminds.org/about/people/richard-j-davidson).)
+
+Advisor also found two unfollowable reading instructions. Parent opened
+the complete unprocessed Fan PDF and Lippelt article. Exact current route:
+Fan's three Results paragraphs beginning "The alerting effect was
+calculated," "The orienting effect was calculated," "The conflict
+(executive control) effect was calculated" on printed pp.342–343,
+skipping intervening tables, stop before Correlation Analyses; these
+are paragraph openings, not subsection headings. Lippelt Abstract plus
+the actual single Introduction paragraph, "Even though numerous studies"
+through "attentional control, conflict monitoring, and creativity."
+The formerly printed paragraph boundaries do not exist and are withdrawn.
+([Full PDF](https://w3.ual.es/personal/tdaza/Fan%20y%20cols.pdf);
+[actual review](https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/).)
+
+Small alignment repairs: spotlight explanation/limit elicited explicitly;
+ANT-trial teach-back has feedback and assessment; one actual Table-2
+association must be interpreted before applying the caveat. Workload
+now prints estimated word ranges/rates/overhead; no measured-count claim.
+Video23:40 and 265-minute arithmetic unchanged. Independent advisor
+corroborated original ANT formulas and speed–accuracy context. Source
+identities and navigation now repaired; supervisor module-QC owed,
+**DRAFT, NOT CLEARED**.
+
 M1 independent supervisor decision consumed at 05:02Z:
 `reviews/deg-psychdim-m1-supervisor-2026-10-26.md` records **MODULE-QC
 PASS** on production commit **cdb8f0939**, module SHA-256
