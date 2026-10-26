@@ -2,7 +2,7 @@
  "lane": "s1f",
  "items": {
   "s1f-001": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "P193: Gogol's Overcoat - the cloak months as the stretch of the copy clerk's life densest with chosen acts; the narrator marks him livelier; honest limits kept (the copying was loved; after the theft he acts with energy); fiction labelled as fiction",
    "history": [
     {
@@ -28,11 +28,17 @@
      "t": "2026-10-25T15:07:57+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:07:57: sample verified — all quotes VERBATIM (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST454"
     }
-   ]
+   ],
+   "stid": "ST454"
   },
   "s1f-002": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "P187: Einstein's 1929 telegram reply - religious feeling without an anthropomorphic God; the reply rejects a God concerned with human fate, the later essay names cosmic religious feeling, Goldstein reads it differently, the silence establishes no further rejection",
    "history": [
     {
@@ -63,11 +69,17 @@
      "t": "2026-10-25T15:05:59+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:05Z: sample verified, PASS (QC-notes bullet appended; earlier 15:12Z state note was an estimated stamp, actual 15:05Z)"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST455"
     }
-   ]
+   ],
+   "stid": "ST455"
   },
   "s1f-003": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "B037 kalyanamitta: find a story that carries the companions-as-practice angle, not the chariot/self angle",
    "history": [
     {
@@ -103,11 +115,17 @@
      "t": "2026-10-25T15:07:57+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:07:57: sample verified — all quotes VERBATIM (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST456"
     }
-   ]
+   ],
+   "stid": "ST456"
   },
   "s1f-004": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "B011 sati: Bhante G Mindfulness in Plain English — a monk who made the satipatthana instructions workable for ordinary people; carries the master-tool claim as a life's work of translation, not as a sutta quote",
    "history": [
     {
@@ -133,11 +151,17 @@
      "t": "2026-10-25T15:07:08+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:07: sample verified 5/5 quotes VERBATIM (MIPE chapter and MN 10 Thanissaro, both downloaded and string-matched)"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST457"
     }
-   ]
+   ],
+   "stid": "ST457"
   },
   "s1f-005": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "B190 breath: the bell of mindfulness in Plum Village — any sound as the bell, telephone rings, breathing in and out; carries breath as always available through the bell practice",
    "history": [
     {
@@ -173,11 +197,17 @@
      "t": "2026-10-25T15:06:06+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:05Z: sample verified, PASS (QC-notes bullet appended; earlier 15:12Z state note was an estimated stamp, actual 15:05Z)"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST458"
     }
-   ]
+   ],
+   "stid": "ST458"
   },
   "s1f-006": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "B039 satipatthana: Anathapindika's deathbed instruction (MN 143) — Sariputta's non-clinging instruction through the whole range of experience; a deathbed case, not a formula",
    "history": [
     {
@@ -213,11 +243,17 @@
      "t": "2026-10-25T15:06:46+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:06: sample verified 6/6 quotes VERBATIM (MN 143, Access to Insight page downloaded and string-matched)"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST459"
     }
-   ]
+   ],
+   "stid": "ST459"
   },
   "s1f-007": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "P134 solitude and community: find a narrative object with a primary source that carries both phases of growth — a person or fictional account where solitary practice and community practice are both scheduled",
    "history": [
     {
@@ -243,11 +279,17 @@
      "t": "2026-10-25T15:07:21+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:07:21: sample verified 7/7 quotes VERBATIM (Walden, Project Gutenberg HTML downloaded; one string-match miss was a ligature-normalization artifact — wording verbatim on inspection)"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST460"
     }
-   ]
+   ],
+   "stid": "ST460"
   },
   "s1f-008": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "B039 satipatthana: need a genuine four-foundations narrative object; search for a modern practitioner account that names all four domains",
    "history": [
     {
@@ -278,11 +320,17 @@
      "t": "2026-10-25T15:07:57+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:07:57: sample verified — all quotes VERBATIM (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST461"
     }
-   ]
+   ],
+   "stid": "ST461"
   },
   "s1f-009": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "B162 second angle: Nickel Mines Amish forgiveness 2006 — a real-world case where the community did not return hatred; need a primary source (Amish own words or a direct documented account)",
    "history": [
     {
@@ -328,8 +376,14 @@
      "t": "2026-10-25T15:06:54+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x: precision fix — the browser verification completed by 15:06:30Z (clock reading taken immediately after browser close); the 15:07Z in the prior note overstated by ~30s. Findings unchanged: 6/6 verbatim, Roth author correction flagged"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST462"
     }
-   ]
+   ],
+   "stid": "ST462"
   },
   "s1f-010": {
    "status": "ready",
@@ -357,5 +411,5 @@
    ]
   }
  },
- "updated": "2026-10-25T15:07:57+00:00"
+ "updated": "2026-10-26T00:12:48+00:00"
 }

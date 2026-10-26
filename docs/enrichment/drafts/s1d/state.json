@@ -59,7 +59,7 @@
    ]
   },
   "s1d-003": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "D018: John Harrison's forty years of clocks H1-H4 - ripening work that cannot be hurried; careful at the end as at the beginning",
    "history": [
     {
@@ -80,11 +80,17 @@
      "t": "2026-10-25T14:43:16+00:00",
      "to": "ready",
      "note": "DISCREPANCY: published as ST382 (content/stories confirmed) but publish transition never recorded; supervisor to reconcile"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST382"
     }
-   ]
+   ],
+   "stid": "ST382"
   },
   "s1d-004": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "D006: Celilo Falls and the first salmon return - return to the root as a planned-for cycle, not a loss",
    "history": [
     {
@@ -100,8 +106,14 @@
      "t": "2026-10-25T14:43:48+00:00",
      "to": "ready",
      "note": "verification pass 1025x: 16/16 quotes re-verified (13 local string-match + 3 via opened ICT fetch; apostrophe renderings only); ready stands"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST388"
     }
-   ]
+   ],
+   "stid": "ST388"
   },
   "s1d-005": {
    "status": "published",
@@ -260,5 +272,5 @@
   }
  },
  "note": "unstarted candidates listed in HANDOFF.md only, per QC advice; one active item per lane",
- "updated": "2026-10-25T14:44:19+00:00"
+ "updated": "2026-10-26T00:12:48+00:00"
 }

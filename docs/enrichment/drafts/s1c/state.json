@@ -2,7 +2,7 @@
  "lane": "s1c",
  "items": {
   "s1c-001": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "D069: Yan He consults Qu Boyu (Zhuangzi 4): mantis, tiger keeper, horse lover",
    "history": [
     {
@@ -33,11 +33,17 @@
      "t": "2026-10-25T15:19:00+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:19:00: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:12:47+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST357"
     }
-   ]
+   ],
+   "stid": "ST357"
   },
   "s1c-002": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "D006: Tao Yuanming's return (preface + Let Me Return, Knechtges Brill 2020); return as homecoming and as death",
    "history": [
     {
@@ -68,11 +74,17 @@
      "t": "2026-10-25T14:45:05+00:00",
      "to": "ready",
      "note": "published ST357-364; bot-wall re-check: Brill primary re-opened, 6/6 quotes verbatim; silkqin secondary 429 but carries no retained quotes"
+    },
+    {
+     "t": "2026-10-26T00:12:47+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST358"
     }
-   ]
+   ],
+   "stid": "ST358"
   },
   "s1c-003": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "B140: Fayan, Luohan Guichen, don't-know, the stone, the month of explanations",
    "history": [
     {
@@ -103,11 +115,17 @@
      "t": "2026-10-25T15:21:12+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:21:12: sample verified - all quotes VERBATIM (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:12:47+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST359"
     }
-   ]
+   ],
+   "stid": "ST359"
   },
   "s1c-004": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "D095: Qin Shi cries three times at Lao Dan's funeral (Zhuangzi 3), Legge + Eno",
    "history": [
     {
@@ -138,11 +156,17 @@
      "t": "2026-10-25T15:18:46+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:18:46: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:12:47+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST360"
     }
-   ]
+   ],
+   "stid": "ST360"
   },
   "s1c-005": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "P039: Darwin's marry/not marry notes: list plus pictured scene (Pragmatism zero-story principle)",
    "history": [
     {
@@ -173,11 +197,17 @@
      "t": "2026-10-25T15:12:52+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:12:52: sample verified — all quotes VERBATIM (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:12:47+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST361"
     }
-   ]
+   ],
+   "stid": "ST361"
   },
   "s1c-006": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "P047: Frege/Russell 1902 letters + Russell's elephant and tortoise",
    "history": [
     {
@@ -208,11 +238,17 @@
      "t": "2026-10-25T15:21:39+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:21:39: Russell quotes VERBATIM; Frege carrier Cloudflare-walled this pass (flagged, see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST362"
     }
-   ]
+   ],
+   "stid": "ST362"
   },
   "s1c-007": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "P100/P108: Addams, Labor Museum, Angelina and her mother's spindle",
    "history": [
     {
@@ -238,11 +274,17 @@
      "t": "2026-10-21T12:19:34+00:00",
      "to": "published",
      "note": "supervisor registration ST357-364 this session; story_check 0 errors each"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST363"
     }
-   ]
+   ],
+   "stid": "ST363"
   },
   "s1c-008": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "P025: Lind's 1747 scurvy trial and 48 years of other belief-fixing; Lind's own hedging",
    "history": [
     {
@@ -268,11 +310,17 @@
      "t": "2026-10-21T12:19:34+00:00",
      "to": "published",
      "note": "supervisor registration ST357-364 this session; story_check 0 errors each"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST364"
     }
-   ]
+   ],
+   "stid": "ST364"
   },
   "s1c-009": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "D079/D157: Zhuangzi 17, tortoise in the mud and owl with the rat (Legge + Giles)",
    "history": [
     {
@@ -303,11 +351,17 @@
      "t": "2026-10-25T15:17:50+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:17:50: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST366"
     }
-   ]
+   ],
+   "stid": "ST366"
   },
   "s1c-010": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "B117/B162: SN 7.2 Akkosa Sutta, the refused gift (Thanissaro + Sujato)",
    "history": [
     {
@@ -338,11 +392,17 @@
      "t": "2026-10-25T15:14:41+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:14:41: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST367"
     }
-   ]
+   ],
+   "stid": "ST367"
   },
   "s1c-011": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "D100: Nie Que and Wang Ni, I don't know three times (Eno + Legge)",
    "history": [
     {
@@ -373,11 +433,17 @@
      "t": "2026-10-25T15:24:42+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:24:42: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST378"
     }
-   ]
+   ],
+   "stid": "ST378"
   },
   "s1c-012": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "D098/D108: Ziyu's crooked body and Zilai's smith (Zhuangzi 6, Eno + Legge)",
    "history": [
     {
@@ -408,11 +474,17 @@
      "t": "2026-10-25T15:19:10+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:19:10: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST377"
     }
-   ]
+   ],
+   "stid": "ST377"
   },
   "s1c-013": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "B108: Kisa Gotami and the mustard seed (Burlingame 1921 + Thig excerpt)",
    "history": [
     {
@@ -443,11 +515,17 @@
      "t": "2026-10-25T14:46:03+00:00",
      "to": "ready",
      "note": "QC sample 1025x: 5/5 quotes verbatim vs fresh downloads; ready stands"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST381"
     }
-   ]
+   ],
+   "stid": "ST381"
   },
   "s1c-014": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "P136: Stevenson's Lantern-Bearers via James (Gutenberg 614, 16287)",
    "history": [
     {
@@ -478,11 +556,17 @@
      "t": "2026-10-25T15:12:21+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:12:21: sample verified — all quotes VERBATIM (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST398"
     }
-   ]
+   ],
+   "stid": "ST398"
   },
   "s1c-015": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "P116/P114: Hokusai colophon and last words (BM object page + Clark)",
    "history": [
     {
@@ -513,11 +597,17 @@
      "t": "2026-10-25T15:22:38+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:22:38: PARTIAL - see QC notes; carrier and wording flags for the supervisor"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST397"
     }
-   ]
+   ],
+   "stid": "ST397"
   },
   "s1c-016": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "P131: Polymath1 (Gowers, Tao 2009)",
    "history": [
     {
@@ -548,11 +638,17 @@
      "t": "2026-10-25T15:22:38+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:22:38: PARTIAL - see QC notes; carrier and wording flags for the supervisor"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST400"
     }
-   ]
+   ],
+   "stid": "ST400"
   },
   "s1c-017": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "D106/D128: Zhuangzi 17 river spirit meets the sea (Legge + Giles)",
    "history": [
     {
@@ -583,11 +679,17 @@
      "t": "2026-10-25T15:23:01+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:23:01: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST402"
     }
-   ]
+   ],
+   "stid": "ST402"
   },
   "s1c-018": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "D090: Sang Hu's friends sing at his corpse (Zhuangzi 6, Eno + Legge)",
    "history": [
     {
@@ -618,11 +720,17 @@
      "t": "2026-10-25T15:23:01+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:23:01: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST403"
     }
-   ]
+   ],
+   "stid": "ST403"
   },
   "s1c-019": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "B104/B107: Angulimala, MN 86 (Thanissaro + Sujato)",
    "history": [
     {
@@ -653,11 +761,17 @@
      "t": "2026-10-25T15:14:41+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:14:41: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST405"
     }
-   ]
+   ],
+   "stid": "ST405"
   },
   "s1c-020": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "B194/B195: DN 16 Beluva, the old cart and the island (Vajira-Story + Sujato)",
    "history": [
     {
@@ -688,11 +802,17 @@
      "t": "2026-10-25T15:15:10+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:15:10: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST406"
     }
-   ]
+   ],
+   "stid": "ST406"
   },
   "s1c-021": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "B193: AN 6.19 six monks in the Brick Hall (Thanissaro + Sujato)",
    "history": [
     {
@@ -723,8 +843,14 @@
      "t": "2026-10-25T15:19:31+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:19:31: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:12:48+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST407"
     }
-   ]
+   ],
+   "stid": "ST407"
   },
   "s1c-022": {
    "status": "ready",
@@ -1277,5 +1403,5 @@
    ]
   }
  },
- "updated": "2026-10-25T15:25:42+00:00"
+ "updated": "2026-10-26T00:12:48+00:00"
 }
