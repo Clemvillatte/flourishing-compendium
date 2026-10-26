@@ -4257,3 +4257,41 @@ No dossier edits needed. New flags: Frankl carrier dead (fabian.ca serves HTML);
 ## Frankl carrier flag RESOLVED — 2026-10-26 00:28Z (worker-pplx-dosr1-1026a)
 
 The round-2 flag (fabian.ca Frankl excerpt carrier dead) is resolved: both quoted spans ("all individual differences will blur..."; "people became more different; people unmasked themselves, both the swine and the saints") re-verified VERBATIM on an open educational reproduction of the excerpt (https://www.odelleducation.com/wp-content/uploads/2020/08/RC-Unit-Texts-G12_Life-steps-almost-straight.pdf, pdftotext raw). The frustration dossier's citation has been swapped to that live carrier, with the swap dated and noted in the page itself. dossier_check exit 0. The Freud lines remain honestly marked in the dossier as "as Frankl gives them" — no change to that caveat.
+
+
+## Verification checkpoint — 2026-10-26 01:40Z (worker-pplx-verify-1026a, audit baton; Lane 4, sample 5)
+
+Fifth sample of the registration batch: 6 pages, all quoted spans VERBATIM,
+zero repairs.
+
+- ST424 Feynman wobbling plate (P053/P120): PASS — all seven Feynman spans
+  verbatim (FSU "Dignified Professor" PDF); AJP 2007 abstract phrase
+  "two-to-one ratio of wobble to spin frequencies" confirmed (ADS blocked;
+  corroborated on multiple independent open snippets incl. the authors' PDF
+  mirror); Opatrny et al. quotes verbatim incl. the full "the wobbling is
+  twice as fast as the rotation" sentence (confirmed via fresh extraction;
+  the local pdftotext two-column cut had hidden its tail).
+- ST426 Darwin asks Lyell (P026): PASS — all 14 spans verbatim across the
+  four Darwin Correspondence Project letter XMLs (2285, 2294, 2299, 2306)
+  and the Linnean Society page.
+- ST428 Kali tests the gentle housewife (B116/B105): PASS — all nine spans
+  verbatim on the LIVE suttacentral MN 21 page (cloud browser; plain curl
+  and the crawler both fail on the JS shell). Note: the buddhamdhammam
+  mirror carries an older Sujato revision whose Kali-thought wording differs;
+  the live page matches the story exactly.
+- ST430 Aitai Tuo (D096/D163): PASS — Eno §5.4 and Legge ch.5 §4 verbatim.
+- ST494 Shushan the Toeless (D185/D184): PASS — Eno §5.3 and Legge ch.5 §3
+  verbatim.
+- ST496 Fishes of the Hao (D029/D039): PASS — Giles ch.17 and Legge ch.17
+  §13 verbatim.
+- Note: a sixth page read mid-sample ("A Different Estimate of the Rats")
+  was deleted from the tree by the supervisor's concurrent reconciliation
+  (8e569c53b, s1a/s1c cross-lane duplicates removed keeping first copies)
+  before verification — moot, not counted in the running total.
+
+Running total: 28 of the new pages sampled (ST004 + 27 of the batch); 27
+pass clean, 1 one-word defect (ST500) routed earlier. Remaining batch pages
+unsampled: ST411, ST412, ST493, ST497, ST498, ST499, ST502, ST503, ST504,
+ST506 (ST411/ST412 are duplicate-pair members pending supervisor
+reconciliation).
+(verification: registration-batch sample 5 (ST424/426/428/430/494/496) all verbatim — 28 sampled)
