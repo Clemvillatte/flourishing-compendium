@@ -1,0 +1,15 @@
+{
+ "batch": "dosr4",
+ "done": [
+  "2026-10-26 00:22Z STEP 0 scope check (sup-1026b-worker): all four assigned dossiers are ALREADY AT the 3-5 bar (3 substantiated questions each) — the QC-7 below-bar list is STALE for this band; no disagreement repairs needed; no page edits; band closed. dossier_check exit 0 for all four; registry status published for all four."
+ ],
+ "detail": {
+  "others": "3 questions (empathy-based helping; what is owed to those who harm; care for one's own as limit) — published.",
+  "right-speech": "3 questions (must right words please; lying for another; unconditional truth-telling) — published.",
+  "suffering": "3 questions (pain as evil; should ending suffering govern aspiration; deserving) — published.",
+  "acceptance": "3 questions (providential adversity; acceptance vs coping; bearing necessity) — published."
+ },
+ "note": "STEP 0 rule applied per PIPELINE Lane 2. dosr1 and dosr3 both found the same: the QC-7 list is stale project-wide — remaining bands should still run STEP 0 per dossier (structure verified against the file itself).",
+ "in_progress": "none — band complete",
+ "flagged": {}
+}
