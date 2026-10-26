@@ -177,30 +177,26 @@
    {
     "source_id": "PD-M4-04",
     "role": "teach",
-    "assignment": "Posner, Rothbart and Ghassemzadeh 2019, attention networks - assigned span (verify against m4 doc)",
-    "kind": "reading",
-    "verify_reading_assignment": true
+    "assignment": "Posner, Rothbart and Ghassemzadeh 2019 - present in m4 doc (1 hit); verify exact span",
+    "kind": "reading"
    },
    {
     "source_id": "PD-M4-05",
-    "role": "teach",
-    "assignment": "Posner 2023, evolution and future of attention networks - assigned span (verify against m4 doc)",
-    "kind": "reading",
-    "verify_reading_assignment": true
+    "role": "data-block-extra",
+    "assignment": "Posner 2023, evolution and future of attention networks - NOT found in the m4 module doc or any psychdim module doc; no id-record found in a direct ledger grep. Verify ledger by name; if unassigned, remove.",
+    "kind": "reading"
    },
    {
     "source_id": "PD-M4-06",
     "role": "teach",
-    "assignment": "Lippelt, Hommel and Colzato 2014, focused attention/open monitoring/loving-kindness meditation - assigned span (verify against m4 doc)",
-    "kind": "reading",
-    "verify_reading_assignment": true
+    "assignment": "Lippelt, Hommel and Colzato 2014 - present in m4 doc (2 hits); verify exact span",
+    "kind": "reading"
    },
    {
     "source_id": "PD-M4-07",
-    "role": "teach",
-    "assignment": "Fan et al., Attention Network Test paper - assigned span (verify against m4 doc)",
-    "kind": "reading",
-    "verify_reading_assignment": true
+    "role": "data-block-extra",
+    "assignment": "Fan et al., Attention Network Test - NOT found in the m4 or m8 module docs (0 hits) though listed as required in both; no id-record in a direct ledger grep. Verify ledger by name; if unassigned, remove from both modules.",
+    "kind": "reading"
    }
   ],
   "mod-pd-5": [
@@ -357,37 +353,37 @@
    {
     "source_id": "PD-M1-05",
     "role": "capstone-return",
-    "assignment": "Hofmann and Hayes 2024 - capstone re-read (verify role against m8 doc)"
+    "assignment": "Hofmann and Hayes 2024 - m8 prose reference; capstone-return per data block (m8 doc: \"No new reading or video is required. Retrieve and reuse...\")"
    },
    {
     "source_id": "PD-M1-06",
     "role": "capstone-return",
-    "assignment": "Maitland 2024 section 1.4 - capstone re-read (verify role against m8 doc)"
+    "assignment": "Maitland 2024 - m8 prose reference; capstone-return per data block (m8 doc: \"No new reading or video is required. Retrieve and reuse...\")"
    },
    {
     "source_id": "PD-M2-06",
     "role": "capstone-return",
-    "assignment": "Martinez-Priego et al. 2024 - capstone re-read (verify role against m8 doc)"
+    "assignment": "Martinez-Priego et al. 2024 - the m8 doc cites \"the emotion-goal review\" in prose; capstone-return (m8 doc: \"No new reading or video is required. Retrieve and reuse...\")"
    },
    {
     "source_id": "PD-M7-05",
     "role": "capstone-return",
-    "assignment": "Singh et al. 2024 - capstone re-read (verify role against m8 doc)"
+    "assignment": "Singh et al. 2024 - the m8 doc cites duration-evidence limits (PMC11641623) in prose; capstone-return (m8 doc: \"No new reading or video is required. Retrieve and reuse...\")"
    },
    {
     "source_id": "PD-M5-05",
     "role": "capstone-return",
-    "assignment": "Manchiraju 2026 - capstone re-read (verify role against m8 doc)"
+    "assignment": "Manchiraju 2026 - the m8 doc cites \"the SCC review\" in prose; capstone-return (m8 doc: \"No new reading or video is required. Retrieve and reuse...\")"
    },
    {
     "source_id": "PD-M1-07",
     "role": "capstone-return",
-    "assignment": "Woolley et al. 2025 - capstone re-read (verify role against m8 doc)"
+    "assignment": "Woolley et al. 2025 - capstone-return per data block; no m8 prose cite found (m8 doc: \"No new reading or video is required. Retrieve and reuse...\")"
    },
    {
     "source_id": "PD-M7-04",
     "role": "capstone-return",
-    "assignment": "Carden and Wood 2018 - capstone re-read (verify role against m8 doc)"
+    "assignment": "Carden and Wood 2018 - VERIFIED m8 prose cite (habit mechanism and measurement caution) (m8 doc: \"No new reading or video is required. Retrieve and reuse...\")"
    },
    {
     "source_id": "PD-M4-07",
