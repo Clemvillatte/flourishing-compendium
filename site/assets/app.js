@@ -4454,7 +4454,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The two sides give opposite answers to one question: does a long-term aim that stays inside a person's own life count as a purpose? On the first view it does not, and the count of purposeful young people stays low. On the second it does, and the count rises. I have not opened the full text of Hill and Burrow, so I do not say how they reply to Damon's reasons, and the Pfund review is my only description of how the two camps relate. What the dispute shows me is that a definition of purpose decides who is allowed to have one. For an essay on suffering and flourishing, that matters: a person whose aim is quiet and close to home should not be counted out by a measuring rule."
+          "x": "The two sides give opposing answers to one question: must a purpose reach beyond the self? On the first view it must. On the second it should not be gated on that requirement: Hill and Burrow's abstract offers a more inclusive portrayal built on sense of purpose, and the Pfund review characterizes this camp's measures as agnostic to an individual's specific purpose orientation."
+        },
+        {
+          "t": "p",
+          "x": "What the opened passages do not establish is whether this camp would count an aim that stays entirely inside a person's own life as a purpose. The inclusiveness claim and the orientation-agnostic characterization carry the opposition, but that explicit proposition is not in the opened text. I have not opened the full text of Hill and Burrow, so I do not say how they reply to Damon's reasons, and the Pfund review is my only description of how the two camps relate. What the dispute shows me is that a definition of purpose decides who is allowed to have one. For an essay on suffering and flourishing, that matters: a person whose aim is quiet and close to home should not be counted out by a measuring rule."
         },
         {
           "t": "h2",
@@ -17830,7 +17834,7 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "The word is used loosely everywhere, and reading the traditions that thought about it hardest, I hold one negative definition: acceptance is not resignation. The clinical definition says active and aware embrace of private events without unnecessary attempts to change their frequency or form ([Hayes et al. 2006, full text](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf)). The Stoic line says not to demand that things happen as you wish, but to wish that they happen as they do happen ([Enchiridion 8, Long translation, MIT Classics](https://classics.mit.edu/Epictetus/epicench.html)). Nietzsche's is the most radical: [amor fati](card:Amor%20fati), wanting what happens rather than merely bearing it. The Buddhist face of the same question is the [second arrow](card:The%20second%20arrow), the suffering added by the war against the facts."
+          "x": "The word is used loosely everywhere, and reading the traditions that thought about it hardest, I hold one negative definition: acceptance is not resignation. The clinical definition says active and aware embrace of private events without unnecessary attempts to change their frequency or form ([Hayes et al. 2006, full text](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf)). The Stoic line says not to demand that things happen as you wish, but to wish that they happen as they do happen ([Enchiridion 8, Carter translation, MIT Classics](https://classics.mit.edu/Epictetus/epicench.html)). Nietzsche's is the most radical: [amor fati](card:Amor%20fati), wanting what happens rather than merely bearing it. The Buddhist face of the same question is the [second arrow](card:The%20second%20arrow), the suffering added by the war against the facts."
         },
         {
           "t": "p",
@@ -17939,7 +17943,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "I have read the abstracts on Hofmann's side, not the full papers, and I have not checked his account of the evidence against Hayes's. What the abstracts do show is that the quarrel is about the theory of why acceptance helps: a separate process, or one stage of emotion regulation among others. Hofmann's point about compatibility matters for a writer, because it means the practice described here does not require siding with either theory. My lean is practical and unsourced: use acceptance where the added layer is the problem, as the junction section describes, and leave the mechanism question to the trials."
+          "x": "The quarrel as the two abstracts state it is about the theory of why acceptance helps: a separate process, or one stage of emotion regulation among others. Hofmann's point about compatibility matters for a writer, because it means the practice described here does not require siding with either theory. My lean is practical rather than sourced: use acceptance where the added layer is the problem, as the junction section describes, and leave the mechanism question to the trials."
         },
         {
           "t": "h2",
@@ -20354,7 +20358,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Russell's case for the four-hour day rests on a promise about the freed hours ([In Praise of Idleness, 1932](https://harpers.org/archive/1932/10/in-praise-of-idleness/)). Modern technique, he writes, has made it possible for \"leisure, within limits, to be not the prerogative of small privileged classes, but a right evenly distributed throughout the community\" ([In Praise of Idleness, 1932](https://harpers.org/archive/1932/10/in-praise-of-idleness/)), and \"the wise use of leisure, it must be conceded, is a product of civilization and education\" ([In Praise of Idleness, 1932](https://harpers.org/archive/1932/10/in-praise-of-idleness/)). The promise is conditional: spread the hours, teach their use, and the free time of ordinary people carries the good life."
+          "x": "Russell's case for the four-hour day rests on a promise about the freed hours ([In Praise of Idleness, 1932](https://harpers.org/archive/1932/10/in-praise-of-idleness/)). Modern technique, he writes, has made it possible for \"leisure, within limits, to be not the prerogative of small privileged classes, but a right evenly distributed throughout the community\" ([In Praise of Idleness, 1932](https://harpers.org/archive/1932/10/in-praise-of-idleness/)), and that \"The wise use of leisure, it must be conceded, is a product of civilization and education\" ([In Praise of Idleness, 1932](https://harpers.org/archive/1932/10/in-praise-of-idleness/)). The promise is conditional: spread the hours, teach their use, and the free time of ordinary people carries the good life."
         },
         {
           "t": "p",
@@ -20546,7 +20550,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Veal's sharpest charge is about the evidence. \"Claims concerning the unique qualities of serious leisure have not generally been subject to empirical testing because of the marked lack of comparable research demonstrating the theorised distinctive qualities of casual leisure\", while casual leisure, by Stebbins's own estimate, accounts for some 80 per cent of all leisure activity ([Veal, 2021](https://opus.lib.uts.edu.au/bitstream/10453/147640/3/A%20critique%20of%20serious%20leisure%20as%20theory.pdf)). He also records that Stebbins once anticipated he would \"abandon eventually this primitive categorical terminology for terminology conveying continuousness\", a plan that never eventuated, with the responses to continuum proposals ranging from silence to limited acceptance ([Veal, A critique of serious leisure as theory, 2021](https://opus.lib.uts.edu.au/bitstream/10453/147640/3/A%20critique%20of%20serious%20leisure%20as%20theory.pdf))."
+          "x": "Veal's sharpest charge is about the evidence, that \"claims concerning the unique qualities of serious leisure have not generally been subject to empirical testing because of the marked lack of comparable research demonstrating the theorised distinctive qualities of casual leisure\", while casual leisure, by Stebbins's own estimate, accounts for some 80 per cent of all leisure activity ([Veal, 2021](https://opus.lib.uts.edu.au/bitstream/10453/147640/3/A%20critique%20of%20serious%20leisure%20as%20theory.pdf)). He also records that Stebbins once anticipated he would \"abandon eventually this primitive categorical terminology for terminology conveying continuousness\", a plan that never eventuated, with the responses to continuum proposals ranging from silence to limited acceptance ([Veal, A critique of serious leisure as theory, 2021](https://opus.lib.uts.edu.au/bitstream/10453/147640/3/A%20critique%20of%20serious%20leisure%20as%20theory.pdf))."
         },
         {
           "t": "p",
@@ -20566,7 +20570,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Veal's evaluation in Leisure Sciences asks what has actually been tested ([Veal, The serious leisure perspective and the experience of leisure, 2017](https://opus.lib.uts.edu.au/bitstream/10453/45585/4/ABFBC890-A526-452D-9A94-02E3528ED6AE%20am.pdf)). His paper \"evaluates the perspective as theory and as a typology\", and its verdict on the theory is that \"the theory associated with the SLP, concerning social worlds, identification and optimal leisure lifestyles, is found to be generally untested because it has been largely developed in relation to the serious leisure form only\" ([Veal, The serious leisure perspective and the experience of leisure, 2017](https://opus.lib.uts.edu.au/bitstream/10453/45585/4/ABFBC890-A526-452D-9A94-02E3528ED6AE%20am.pdf)). In a later paper he took up the macro level, judging \"the claim that the SLP offers a viable macro-level theoretical framework for the study of leisure is questionable\" ([Veal, A critique of serious leisure as theory, 2021](https://opus.lib.uts.edu.au/bitstream/10453/147640/3/A%20critique%20of%20serious%20leisure%20as%20theory.pdf))."
+          "x": "Veal's evaluation in Leisure Sciences asks what has actually been tested ([Veal, The serious leisure perspective and the experience of leisure, 2017](https://opus.lib.uts.edu.au/bitstream/10453/45585/4/ABFBC890-A526-452D-9A94-02E3528ED6AE%20am.pdf)). His paper \"evaluates the perspective as theory and as a typology\", and its verdict on the theory is that \"The theory associated with the SLP, concerning social worlds, identification and optimal leisure lifestyles, is found to be generally untested because it has been largely developed in relation to the serious leisure form only\" ([Veal, The serious leisure perspective and the experience of leisure, 2017](https://opus.lib.uts.edu.au/bitstream/10453/45585/4/ABFBC890-A526-452D-9A94-02E3528ED6AE%20am.pdf)). In a later paper he took up the macro level, judging \"the claim that the SLP offers a viable macro-level theoretical framework for the study of leisure is questionable\" ([Veal, A critique of serious leisure as theory, 2021](https://opus.lib.uts.edu.au/bitstream/10453/147640/3/A%20critique%20of%20serious%20leisure%20as%20theory.pdf))."
         },
         {
           "t": "p",
