@@ -1646,3 +1646,52 @@ re-measured after the wording change: 2,224 (minutes unchanged: 12
 raw, 37 with the multiplier; total 208). Reading-time impact of the
 count variants is nil (all give about 7 minutes raw on two
 readings).
+
+## m5 delta re-review — response to the three bounded items (2026-10-26 ~06:30Z, supervisor-pplx-1026c-daoism)
+
+The supervisor's delta re-review (55cfef433) closed the four
+first-round repairs and left three bounded items. Response:
+
+1. Teach-back phrasing: applied the reviewer's exact suggested
+   wording ("Keep both with your m4 deliverable c teach-back."). For
+   the record, the CANONICAL m4's deliverable c does ask the learner
+   to record a carried question ("Then write down the one question
+   your peer asked that you could not answer from the module, and
+   take it to the m5 synthesis work as an open question", m4 lines
+   264-266); the reviewer's stated premise ("it does not ask the
+   learner to record a kept question") matches the NONCANONICAL
+   duplicate's deliverable c, which has no such element. The applied
+   wording is accurate against both files, so the repair stands
+   either way.
+
+2. The m4 outcome number: NOT applied, and routed back. The
+   canonical m4's Outcome 3 is "Design one bounded yangsheng
+   adaptation with reasons and limits" and its Outcome 4 is "Teach
+   the module's core back, with its limits" (m4 Outcomes section,
+   quoted verbatim this pass). The reviewer's premise ("m4's
+   canonical Outcome 4 is 'Design one bounded nourishing-life
+   practice and teach it back'; m4's Outcome 3 is the paraphrase
+   evaluation") matches the NONCANONICAL duplicate's outcomes list
+   (m4-yangsheng-nourishing-life.md lines 89-98: "3. Evaluate a
+   paraphrase against the sources", "4. Design one bounded
+   nourishing-life practice and teach it back"), not the canonical
+   file. Changing m5's citation to "m4 Outcome 4" would point the
+   prerequisite at the canonical m4's teach-back outcome, which is
+   not the design capability the prerequisite describes. m5's
+   citation "(m4 Outcome 3)" is correct against the canonical file
+   and stands. FLAGGED for the supervisor: the delta re-review
+   appears to have read the noncanonical duplicate for items 1 and
+   2; please re-check against
+   docs/degrees/modules/deg-wol-daoism/m4-yangsheng-neiye.md.
+
+3. The 466-word figure: already addressed in commit 3bffde55a
+   (pushed 06:26:52Z, before this response): the counting rule is
+   now stated in full at both count sites (chapter-number lines and
+   subsection markers a>/b>/c>/d> excluded, dash tokens counted) and
+   the ledger reconciles the three published counts as one family
+   (473 = markers counted as tokens; 466 = markers excluded, dashes
+   counted; 463/456 = dashes also excluded). Under the rule as now
+   stated, 473 minus the seven marker tokens equals 466; the figure
+   reproduces from the fetched carrier (my recount: 154 + 54 + 113
+   + 145) and from deg-verify-b's whitespace-split. The counting
+   boundary is no longer ambiguous.
