@@ -771,6 +771,13 @@ retrieved (2026-10-26T05:25Z; corrected 05:30Z per advisor QC)
   method and scope stated. ROUTE owner: b6's Lecture-1 source-table
   row can record the retrieval; the module's own bounded wording
   stands.
+- Self-check addendum (2026-10-26T05:44Z): re-inspected the saved
+  L1 text for the Dogen-zazen claim. The auto-captions garble the
+  name ("Doan") and render the instruction "think of non-thinking
+  ... this is the essential art of zazen"; the passage IS the
+  zazen instruction the receipt describes, and the garbling is
+  further evidence for the auto-caption caveat (paraphrase-level
+  only, never a verbatim carrier).
 
 ### B-V19 — b6 Kirchner Lecture 3 content inspection: full caption text
 retrieved (2026-10-26T05:26Z; corrected 05:30Z per advisor QC)
@@ -797,6 +804,11 @@ retrieved (2026-10-26T05:26Z; corrected 05:30Z per advisor QC)
   with the inspection method and scope stated. ROUTE owner: b6's
   Lecture-3 source-table row can record the retrieval; the
   module's own bounded wording stands.
+- Self-check addendum (2026-10-26T05:44Z): re-inspected the saved
+  L3 text; the shikantaza characterization is verbatim-consistent at
+  paraphrase level ("basically choiceless awareness with curiosity"),
+  Dogen is named in the L3 captions (unlike L1's garbled "Doan"),
+  and the Linji material is present. Claims stand.
 
 ### B-V20 — b7 Batchelor lecture content inspection: full caption text
 retrieved (2026-10-26T05:26Z; corrected 05:31Z per advisor QC)
