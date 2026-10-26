@@ -26,7 +26,7 @@ optional reference. No module, ledger, band or site file edited; this
 receipt and this checkpoint are the only files touched. Supervisor
 module-QC still required.
 
-ADDENDUM (same checkpoint, 04:58Z): second verified recording added
+ADDENDUM (same checkpoint, clock reading 04:53Z): second verified recording added
 to the receipt — Vanman PSYC1040 Week 13A "The Replication Crisis"
 (youtube.com/watch?v=YpizifCQ96Y) verified-video for the Step 3
 replication topic (oEmbed, watch page, transcript and the same opened
@@ -34,6 +34,18 @@ UQ credential pages; duration printed twice on the watch page, 19:36
 player and 30:09 listing, both recorded). Receipt's Week 9B note
 corrected: the actual Week 9B is a t-tests lecture, not the ASA
 engagement the 9A transcript promises.
+
+QC-REPAIR NOTE (clock reading 05:04Z): advisor QC applied to the
+receipt — player-measured durations recorded from two independent
+watch-page renders (9A 18:49, 13A 19:36, W01A 8:23), unfetchable UQ
+News citation removed (credentials rest on the opened UQ course
+profile and lab page), caption-provenance wording tightened
+("Carl Pauper" transcript rendering, audio unchecked), Planidin
+rejection reworded to "credentials not established" with the focused
+search recorded, policy-compliance claims withdrawn (disposition left
+to owner and supervisor), and a third verified recording added (W01A,
+scientific reasoning and falsifiability). OWNER-BOARD line moved from
+the supervisor Snapshot to the Log where it belongs.
 
 ## Worker checkpoint (2026-10-26 02:51Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
 
