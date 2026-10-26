@@ -1,12 +1,13 @@
 # Psychological Dimensions: A Walk of Life
 
-All eight modules have independent supervisor module-QC passes
-(2026-10-26, supervisor wave; M4's window flag closed by verification
-decision, M5/M6 delta reviews pass 2; receipts under
-docs/degrees/reviews/ and docs/degrees/verify/). The band record is
-qc_complete. What remains before Academy visibility is the whole-degree
-gate review (scope/centering) and technical integration by deg-integrate;
-no partial publication is requested.
+Curriculum draft for independent review, not cleared for Academy
+visibility. All eight modules have independent supervisor module-QC
+passes, including M2's changed-hash assessment confirmation, M4's
+closed exact-window verification, M5's delta review of the alignment
+repairs and window decision, and M6's delta review of the amotivation
+repair (supervisor-pplx-1026e, 2026-10-26). The complete-degree gates
+(coverage matrix challenge, integration into fcAcademyData, set gate)
+remain open. No partial publication is requested.
 
 This degree uses six psychological lenses to examine ordinary life:
 affect, cognition, attention, self, motivation and overt behaviour.
@@ -65,13 +66,11 @@ under `docs/degrees/verify/`. Current module states are mirrored in
 
 M2's required private lived transfer and criterion-specific exemplars
 have supervisor changed-hash confirmation. M5's alignment, source-navigation
-and specimen repairs carry supervisor delta review pass 2 at c38a8d6d, with
-the McAdams recording window boundary independently confirmed. M4's window
-verification flag is closed by the supervisor decision in
-`verify/deg-psychdim-m4-window-supervisor-decision-1026h.md`. M6's repair
-carries supervisor delta review pass 2 at b2674a0a, corroborated by the
-retried production-adviser ACCEPT in
-`verify/deg-psychdim-m6-adviser-accept-1026d.md`. Whole-degree gate review
-and integration remain closed; the module files themselves are unchanged
-from their QC-recorded hashes and must not be edited without a routed
-repair and re-verification.
+and specimen repairs have a bounded production adviser pass. New indexed
+transcript evidence covers M4's and M5's original recording windows through
+locally unellipsed overlaps; independent decisions on those requirements
+are still pending. The evidence and reproduction queries are in
+`verify/deg-psychdim-m4-m5-indexed-window-evidence-2874787d.md`.
+M6's production adviser verdict is unavailable after a credit-exhaustion
+failure; its supervisor delta review remains required. No M6–M8 production
+adviser pass is claimed here. Integration and public visibility remain closed.

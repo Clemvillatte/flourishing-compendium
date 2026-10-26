@@ -1,19 +1,18 @@
 {
-  "band": "deg-psychdim",
-  "kind": "degree",
-  "holder": null,
-  "phase": "qc-complete-awaiting-degree-gate-and-integration",
-  "modules": {
-    "m1-orientation": "independent supervisor MODULE-QC PASS at cdb8f0939; three nonblocking alignment labels fixed. 249 estimated minutes. Not complete-degree/publication clearance.",
-    "m2-affective": "independent supervisor MODULE-QC PASS at b1f5533f after changed-hash rereview of the assessment-only delta (review deg-psychdim-m2-supervisor-2026-10-26.md, changed-hash section). 304 estimated minutes. Not complete-degree/publication clearance.",
-    "m3-cognitive": "independent supervisor MODULE-QC PASS at 9ff7b598b (review deg-psychdim-m3-supervisor-2026-10-26.md); three nonblocking notes (M1 exit wording, lecture-4 watch-page duration 58:46 vs ledger 58:47, humanizer functional negations). 290 estimated minutes. Not complete-degree/publication clearance.",
-    "m4-attentional": "PASS: M4 window flag CLOSED by supervisor verification decision 1026h (docs/degrees/verify/deg-psychdim-m4-window-supervisor-decision-1026h.md); independent snippets-reader retrieval confirmed continuous 2846-3293s coverage with demonstrations closing at ts 3274-3293 and outside-lab anecdotes after the stop; hash 68acd6f1 unchanged from prior verified state. 265 estimated minutes.",
-    "m5-self-and-identity": "PASS: supervisor delta review pass 2 (docs/degrees/reviews/deg-psychdim-m5-delta-supervisor-2026-10-26.md); transparency application with feedback, both required comparisons, SCCS caution navigation and seven criterion specimens verified in module text at c38a8d6d; McAdams 607-811s window boundary independently confirmed (participant example begins at ts 843-846); workload 315 min recomputed. 315 estimated minutes.",
-    "m6-motivational": "PASS: supervisor delta review pass 2 (docs/degrees/reviews/deg-psychdim-m6-delta-supervisor-2026-10-26.md); amotivation A/B/C contrast with feedback, Cory barrier case in final task, observable Motivation rubric criterion and specimens verified at b2674a0a (hash unchanged on origin); workload 271 min recomputed; production-adviser ACCEPT independently retried 07:41Z corroborates all five items, arithmetic and safety (verify/deg-psychdim-m6-adviser-accept-1026d.md). 271 estimated minutes.",
-    "m7-overt-behavioural": "independent supervisor MODULE-QC PASS at 97857e98 (review deg-psychdim-m7-supervisor-2026-10-26.md); all four numerical claims verified verbatim against opened sources; M3/M7 clip split confirmed disjoint. Two nonblocking notes. 301 estimated active minutes over at least three ordinary days. Not complete-degree/publication clearance.",
-    "m8-integrative-capstone": "independent supervisor MODULE-QC PASS (capstone specification) at f26f84ce (review deg-psychdim-m8-supervisor-2026-10-26.md); not evidence of learner execution; not complete-degree/publication clearance. 375 active minutes typically across 7-14 days."
-  },
-  "notes": "2026-10-26 supervisor 1026h (T0 07:32:43Z): M4 window flag closed by verification decision; M5/M6 delta reviews pass 2 issued; all eight modules QC PASS at unchanged hashes; packet 249+304+290+265+315+271+301+375 = 2370 estimated active minutes (39h30m) recomputed. Whole-degree gate review and deg-integrate attachment remain before publication. Prior degree-2874787d production handoff notes preserved below in history.",
-  "updated": "2026-10-26T07:59:00Z",
-  "status": "qc_complete"
+ "band": "deg-psychdim",
+ "kind": "degree",
+ "holder": null,
+ "phase": "module-qc-complete-pending-integration-and-gates",
+ "modules": {
+  "m1-orientation": "independent supervisor MODULE-QC PASS at cdb8f0939; three nonblocking alignment labels fixed. 249 estimated minutes. Not complete-degree/publication clearance.",
+  "m2-affective": "independent supervisor MODULE-QC PASS at b1f5533f after changed-hash rereview of the assessment-only delta (review deg-psychdim-m2-supervisor-2026-10-26.md, changed-hash section). 304 estimated minutes. Not complete-degree/publication clearance.",
+  "m3-cognitive": "independent supervisor MODULE-QC PASS at 9ff7b598b (review deg-psychdim-m3-supervisor-2026-10-26.md); three nonblocking notes (M1 exit wording, lecture-4 watch-page duration 58:46 vs ledger 58:47, humanizer functional negations). 290 estimated minutes. Not complete-degree/publication clearance.",
+  "m4-attentional": "independent supervisor MODULE-QC PASS at 68acd6f1 (reviews/deg-psychdim-m4-window-closure-supervisor-1026e.md): exact-window Bloom lecture-7 evidence independently reproduced via indexed timestamped transcript, official Yale transcript corroborates; all other findings standing-pass per the 1026f review. 265 estimated minutes. Not complete-degree/publication clearance.",
+  "m5-self-and-identity": "independent supervisor MODULE-QC PASS at c38a8d6d (reviews/deg-psychdim-m5-delta-supervisor-1026e.md): both alignment repairs verified in the text; McAdams window decision closed by independent indexed-transcript reproduction plus chapter boundaries; specimens and SCCS handling spot-checked. 315 estimated minutes. Not complete-degree/publication clearance.",
+  "m6-motivational": "independent supervisor MODULE-QC PASS at b2674a0a (reviews/deg-psychdim-m6-delta-supervisor-1026e.md): amotivation/all-six repair verified (A/B/C practice, Cory barrier case, observable rubric criterion); supervisor review is QC of record for the changed sections. 271 estimated minutes. Not complete-degree/publication clearance.",
+  "m7-overt-behavioural": "independent supervisor MODULE-QC PASS at 97857e98 (review deg-psychdim-m7-supervisor-2026-10-26.md); all four numerical claims verified verbatim against opened sources; M3/M7 clip split confirmed disjoint. Two nonblocking notes. 301 estimated active minutes over at least three ordinary days. Not complete-degree/publication clearance.",
+  "m8-integrative-capstone": "independent supervisor MODULE-QC PASS (capstone specification) at f26f84ce (review deg-psychdim-m8-supervisor-2026-10-26.md); not evidence of learner execution; not complete-degree/publication clearance. 375 active minutes typically across 7-14 days."
+ },
+ "notes": "2026-10-26 supervisor-pplx-1026e: M4 window closure, M5 delta (repairs + window), M6 delta (amotivation repair) all reviewed and PASSED. Production baton released per 587818e. Remaining before publication: INTEGRATION (attach module data to fcAcademyData per INTEGRATION.md) and the complete-degree gates. Concurrent independent corroboration (supervisor-pplx-1026e, T0 07:32:50Z): all three decisions independently reproduced via the indexed-transcript route with the same PASS outcomes; corroborating review files reviews/deg-psychdim-m4-window-closure-supervisor-1026e.md, deg-psychdim-m5-delta-supervisor-1026e.md, deg-psychdim-m6-delta-supervisor-1026e.md. 1026h's decisions stand as canonical.",
+ "updated": "2026-10-26T06:45:51Z"
 }
