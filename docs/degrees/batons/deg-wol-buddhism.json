@@ -1,9 +1,13 @@
 {
  "baton": "deg-wol-buddhism",
- "agent": null,
- "clocked_in": null,
- "takeovers": [],
- "released": true,
- "released_at": "2026-10-26T04:20:00+00:00",
- "note": "Minted 2026-10-26 by the orchestrator (ground prep for the four-degree production wave); free to claim."
+ "agent": "worker-pplx-buddhism-1026a",
+ "clocked_in": "2026-10-26T04:40:53+00:00",
+ "takeovers": [
+  {
+   "by": "worker-pplx-buddhism-1026a",
+   "at": "2026-10-26T04:40:53+00:00",
+   "from": null,
+   "reason": "released"
+  }
+ ]
 }
