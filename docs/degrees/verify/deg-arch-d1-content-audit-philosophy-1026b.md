@@ -2,17 +2,17 @@
 
 Follow-up to the rem6 HTTP-status audit: content verification of the four
 syllabus anchors cited by docs/degrees/inventory/deg-philosophy.md (a D1
-file with the degree's supersession ruling requested from the owner). Two
-of the four anchors (UF, Berkeley) were fetched and content-read this
-session (PDFs downloaded with a browser user-agent and text-extracted
-locally); the other two could not be statically re-verified, as detailed
-below. Course identifications and the D1's
+file with the degree's supersession ruling requested from the owner). Three
+of the four anchors (UF, Berkeley, ASU) were content-read this session
+(PDFs downloaded with a browser user-agent and text-extracted locally;
+the ASU PDF via a browser-resolved direct URL, see its section); the
+Wesleyan anchor could not be re-verified, as detailed below. Course
+identifications and the D1's
 attributed content claims were checked against the syllabus text. No
 live-lane files were modified.
 
-Two of the four anchors were fetched and content-read this session; the
-other two could not be statically re-verified (one DNS failure, one
-JavaScript shell). Repository revision audited: the D1 file at
+Three of the four anchors were fetched and content-read this session; the
+Wesleyan anchor could not be re-verified (DNS failure). Repository revision audited: the D1 file at
 docs/degrees/inventory/deg-philosophy.md as of commit bee8d65.
 
 Clock: session T0 2026-10-26 13:00:39Z (recorded in T0.txt; cross-checked
@@ -37,15 +37,23 @@ Part 1/2/3"), the "pop Stoicism" component (short translation
 assignments and a "pop Stoicism" blog presentation), and the
 applying-Stoicism-to-contemporary-situations strand.
 
-## Anchor 3 — Arizona State University PHI 420 Stoicism, Spring B 2021, Dr. Sandra Woien — STATIC VERIFICATION NOT POSSIBLE (FLAGGED)
-The URL returns HTTP 200 but the response is a JavaScript single-page app
-("Syllabus Management" shell; the /pdf path returns an HTML app document,
-and a second fetch path reported the page incomplete). The syllabus content
-is rendered client-side and could not be read via static fetch this session.
-The D1's reading claim therefore stands on the lane owner's session, not on
-independent re-verification. Flagged for the lane owner: if the degree is
-ruled rebuilt rather than retired, this anchor should be re-verified in a
-JS-executing browser or replaced with a statically-fetchable syllabus.
+## Anchor 3 — Arizona State University PHI 420 Stoicism, Spring B 2021, Dr. Sandra Woien — CONTENT VERIFIED (via browser-resolved direct PDF)
+Initially the URL returned a JavaScript app shell and could not be statically
+read. Following advisor QC, the page was opened in a JS-executing cloud
+browser: the app's "View Syllabus" link resolves to a direct PDF at
+class-syllabus-prod.s3.dualstack.us-west-2.amazonaws.com/2231/17163/syllabus-2231-17163.pdf,
+which was then fetched and text-extracted. Course ID confirmed ("Syllabus for
+PHI 420: Stoicism (2021 Spring - B)", Spring B 2021 Sections 20863/35034,
+Instructor Dr. Sandra Woien, sandra.woien@asu.edu; Irvine's Guide to the
+Good Life as required text). The D1's attributed claims are verified
+VERBATIM in the Course Overview: "This course starts with a general
+introduction to Stoicism including its rise and fall"; "certain
+psychological techniques along with the four cardinal virtues endorsed by
+the Stoics"; "seminal Stoics in historical order"; "reflective journal
+activities" (with the journal a graded component worth 35 points); seminal
+figures Epictetus and Marcus Aurelius; Stoicism as reflective practice.
+This supersedes the earlier "static verification not possible" flag — the
+anchor is now independently content-verified.
 
 ## Anchor 4 — UC Berkeley Philosophy 161 Aristotle, Fall 2014, Klaus Corcilius — CONTENT VERIFIED
 PDF fetched, extracted and read. Course ID confirmed (Philosophy 161 –
@@ -58,11 +66,11 @@ function argument), "Voluntary action, choice and responsibility: NE III
 
 ## Verdict
 
-Two of four anchors are content-verified (UF, Berkeley) with every
-attributed claim checked found in the syllabus text. One anchor (Wesleyan)
-is unreachable at HEAD (DNS failure; D1 quotes stand on the lane owner's
-session). One anchor (ASU) loads but is a JS app whose content cannot be
-statically re-verified; flagged. The degree's D2 remains blocked on the
+Three of four anchors are content-verified (UF, Berkeley, ASU — the ASU
+anchor via a browser-resolved direct PDF URL) with every attributed claim
+checked found in the syllabus text. One anchor (Wesleyan) is unreachable
+at HEAD (DNS failure; D1 quotes stand on the lane owner's session; the
+Wayback snapshot was not opened). The degree's D2 remains blocked on the
 supersession ruling regardless. The D1 file was not edited (live lane).
 
 Auditor: worker-pplx-dosr4-1026b (verification lane assist, read-only).
