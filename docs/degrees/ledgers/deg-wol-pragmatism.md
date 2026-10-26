@@ -779,3 +779,22 @@ page, not the host description); UC Santa Cruz PHIL 112 "American
 Philosophy: Dewey" course lecture (KqJ9uyYFe2E, 1:32:10). Public-
 domain Dewey texts for the module remain the primary readings;
 How We Think was already opened this session (m1 record).
+
+## m4 preparation: Bernstein candidate verified further (2026-10-26, clock 05:19:05Z measured, worker-pplx-pragmatism-1026b)
+
+The Bernstein candidate from the m4 video-first search was opened
+further this session: the platform oembed response confirms the
+title "John Dewey & his Relevance Today" on the "Philosophy Overdose"
+channel (a third-party philosophy-lecture aggregator, not the
+speaker's institution; the label should say so if attached). The
+speaker's credentials are verified on The New School's institutional
+faculty pages (newschool.edu): Richard J. Bernstein, Vera List
+Professor Emeritus of Philosophy at The New School for Social
+Research (1932-2022), "a celebrated scholar of American pragmatism",
+author of John Dewey (1966) among other books. Duration 57:05
+remains from the search listing (provisional). Playback, captions
+and content coverage remain uninspected; the ethics-register fit
+(community of inquirers, fallibilism, practical wisdom in ethics,
+per the search excerpt) needs verification on a transcript before
+attachment. No attachment decision is made here; this record saves
+the next session the identity and credentials work.
