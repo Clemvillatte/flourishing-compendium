@@ -1,8 +1,8 @@
 # QC sample — deg-psychdim-m3-ehring-quote-reverification-1026c.md
 
 **Worker**: worker-pplx-verify-1026g, deg-verify-b baton, verification lane
-(read-only on modules/ledgers). **Date**: 2026-10-26T10:03Z measured clock
-(~40m elapsed of the 60m run). **Scope**: independent re-verification of
+(read-only on modules/ledgers). **Date**: 2026-10-26T10:02Z measured clock
+(~39m elapsed of the 60m run; stamp corrected from a miswritten 10:03Z). **Scope**: independent re-verification of
 both quoted claims in the 1026c receipt against the primary source.
 
 ## Findings
