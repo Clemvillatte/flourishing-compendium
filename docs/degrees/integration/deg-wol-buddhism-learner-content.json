@@ -1,0 +1,94 @@
+{
+ "degree_id": "deg-wol-buddhism",
+ "built": "2026-10-26",
+ "built_by": "worker-pplx-degfixcontent-1026a (baton deg-fix-content)",
+ "provenance": "Per docs/degrees/AUDIT-2026-10-26.md Phases B and C. Clean titles (band codes stripped), learner descriptions condensed from each module doc's Walk context section, degree openingNote, MOD_PROMPTS and the b8 capstone note. Nothing is invented here. Consumed by the deg-fix-schema/deg-fix-text lanes; the assignment contract stays in deg-wol-buddhism-manifest.json.",
+ "openingNote": "A Walk of Life devoted to Buddhism, ethics first. Before doctrine and school-by-school comparison you meet the precepts, the four immeasurables and the goodwill meditation that carries them, then the four noble truths as four tasks, the sitting habit, and the living schools, from the Thai Forest lineage through Zen to the Insight and secular traditions. The walk's promise is the measure throughout: alleviating suffering, becoming wiser, and genuinely flourishing even when uncertain or overwhelmed.",
+ "modules": {
+  "mod-bud-1": {
+   "title": "Ethics First, Orientation to the Buddhist Walk",
+   "description": "The entry module. You meet the precepts, the four immeasurables and the goodwill meditation that carries them, and learn plainly what this walk covers and excludes, so you know the map from the first sitting. No Buddhist background is assumed.",
+   "prerequisite_display": [],
+   "mod_prompt": "As you study each source, ask: what does this practice ask of me here, and what does this walk cover and exclude?",
+   "source_basis": "b1-ethics-first-orientation.md: Walk context"
+  },
+  "mod-bud-2": {
+   "title": "The Four Noble Truths (Suffering, Its Origin, Its End, the Path)",
+   "description": "The Buddha's first teaching frames the whole walk. You treat the four truths as four tasks, the way the discourse itself assigns them, and take one real difficulty in your own life through them. The worksheet is practice in the method, not a claim that craving has ended.",
+   "prerequisite_display": [
+    "Module I — Ethics First, Orientation to the Buddhist Walk"
+   ],
+   "mod_prompt": "For each source, ask: which task does this belong to, understanding, giving up, experiencing or developing?",
+   "source_basis": "b2-four-noble-truths.md: Walk context"
+  },
+  "mod-bud-3": {
+   "title": "Sila in Practice, The Precepts as Training",
+   "description": "You deepen the precepts from an ethical floor into a training: how a working Buddhist ethics decides cases, how guilt is handled when you break a rule, and how the classical precepts translate into the modernized Five Mindfulness Trainings. You leave able to decide cases with the precepts as tools rather than slogans.",
+   "prerequisite_display": [
+    "Module I — Ethics First, Orientation to the Buddhist Walk",
+    "Module II — The Four Noble Truths"
+   ],
+   "mod_prompt": "For each case, ask: which precept is at stake, and how would it decide this?",
+   "source_basis": "b3-sila-in-practice.md: Walk context"
+  },
+  "mod-bud-4": {
+   "title": "Foundational Meditations, Setting Up and Sitting",
+   "description": "The walk's promise is practice, and this module is where the sitting habit becomes real. You learn how to set up, what mindfulness is, and a first guided meditation with the breath as an offered attention anchor, taught by a living teacher in the Thai Forest lineage, on a two-week training plan that schedules the repetition.",
+   "prerequisite_display": [
+    "Modules I through III"
+   ],
+   "mod_prompt": "For each sitting, ask: what is the anchor, what arose, and what did I notice without reacting?",
+   "source_basis": "b4-foundational-meditations.md: Walk context"
+  },
+  "mod-bud-5": {
+   "title": "The Thai Forest Way, Theravada in Practice",
+   "description": "The school map begins with the tradition its teachers have come from. You meet the Thai Forest lineage as a living school: its elders' voices, its preference for practice over scholastics, and its reading of the path you have been walking since the first module.",
+   "prerequisite_display": [
+    "Modules I through IV"
+   ],
+   "mod_prompt": "For each source, ask: what does this tradition read the path to be, and where does it practice rather than argue?",
+   "source_basis": "b5-thai-forest-way.md: Walk context"
+  },
+  "mod-bud-6": {
+   "title": "Zen, The Japanese Inheritance",
+   "description": "The school map turns to Zen, the Japanese inheritance of the Chan tradition, through lectures by a scholar-monk who lives the tradition he teaches. For this walk, Zen is a further answer to the suffering question you have been carrying, with a distinctive meditation culture the lectures examine rather than prescribe.",
+   "prerequisite_display": [
+    "Modules I through V"
+   ],
+   "mod_prompt": "For each source, ask: what answer is this to suffering, and what does its meditation culture ask of practice?",
+   "source_basis": "b6-zen.md: Walk context"
+  },
+  "mod-bud-7": {
+   "title": "Insight and Secular, Buddhism Rewritten for the West",
+   "description": "The school map ends with the two schools that rewrote Buddhism for the modern West: Insight Meditation and Secular Buddhism. Each account is held to what its opened sources actually state, from Fronsdal's mindfulness teaching to Batchelor's ethical, pragmatic project for human flourishing.",
+   "prerequisite_display": [
+    "Modules I through VI"
+   ],
+   "mod_prompt": "For each source, ask: what does this school keep, drop or rework, and what does its own text say about it?",
+   "source_basis": "b7-insight-and-secular.md: Walk context"
+  },
+  "mod-bud-8": {
+   "title": "Capstone, A Practice, A Case, A Position",
+   "description": "The walk ends where it began: ethics, sitting, and one real life. You make three deliverables your own: a sustained practice with records, one ethical case worked through the walk's full toolkit, and a written position on what this path amounts to, defended against a serious objection.",
+   "prerequisite_display": [
+    "Modules I through VII"
+   ],
+   "mod_prompt": "For each deliverable, ask: where does the walk's measure show, less suffering, wiser choices, flourishing under uncertainty?",
+   "drawsOnPriorModules": "No new sources are required; the capstone adds none. All sources are those of Modules I through VII, already verified in their modules' source tables and the degree ledger.",
+   "source_basis": "b8-capstone.md: Walk context and the no-new-sources instruction"
+  },
+  "mod-bud-9": {
+   "title": "The Mind on the Cushion, The Five Hindrances and the Five Aggregates (elective)",
+   "description": "An elective for the meditating learner: the hindrances and aggregates as experienced in your own sitting practice, not as scholastics. It reads the practice log you already keep.",
+   "prerequisite_display": [
+    "Modules I and IV"
+   ],
+   "mod_prompt": "For each hindrance or aggregate, ask: where did this show up in my own sitting, and what did it feel like?",
+   "source_basis": "b9-elective-mind-on-the-cushion.md: header and Walk context"
+  }
+ },
+ "repair_notes": {
+  "titles": "the data block titles carry 'b1:'-style band prefixes - Phase B rule 1 strips them; the titles above are the docs' own H1s minus the band code and the '(elective)' marker kept where it matters",
+  "b9_gate": "the b9 whole-degree gate is re-scoped with completion owed per the module's status line; no content change made here"
+ }
+}
