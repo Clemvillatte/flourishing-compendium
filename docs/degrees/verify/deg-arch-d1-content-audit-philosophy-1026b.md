@@ -12,13 +12,15 @@ attributed content claims were checked against the syllabus text. No
 live-lane files were modified.
 
 Three of the four anchors were fetched and content-read this session; the
-Wesleyan anchor could not be re-verified (DNS failure). Repository revision audited: the D1 file at
-docs/degrees/inventory/deg-philosophy.md as of commit bee8d65.
+Wesleyan anchor could not be re-verified (DNS failure). Repository revision inspected at recheck: the D1 file at
+docs/degrees/inventory/deg-philosophy.md at commit bee8d65 (its last change
+before this audit; recorded via git log -1 at recheck time).
 
 Clock: session T0 2026-10-26 13:00:39Z (recorded in T0.txt; cross-checked
 against GitHub's HTTP Date header). Recorded readings during this audit:
-13:29:48Z (failed save), 13:29:52Z (post-save). This correction checkpoint:
-13:33Z (T+32, fresh local reading; external header 13:32:10Z).
+13:29:48Z (failed save), 13:29:52Z (post-save). Correction-round readings: 13:32:16Z local, 13:32:10Z
+external header; ASU-verification save completed 13:33:19Z. No completion
+time is asserted beyond these recorded readings.
 
 ## Anchor 1 — Wesleyan PHIL 221 (philife.nd.edu) — NOT VERIFIABLE AT HEAD
 The host failed DNS resolution from this environment this session (see the
@@ -41,7 +43,7 @@ applying-Stoicism-to-contemporary-situations strand.
 Initially the URL returned a JavaScript app shell and could not be statically
 read. Following advisor QC, the page was opened in a JS-executing cloud
 browser: the app's "View Syllabus" link resolves to a direct PDF at
-class-syllabus-prod.s3.dualstack.us-west-2.amazonaws.com/2231/17163/syllabus-2231-17163.pdf,
+https://class-syllabus-prod.s3.dualstack.us-west-2.amazonaws.com/2231/17163/syllabus-2231-17163.pdf,
 which was then fetched and text-extracted. Course ID confirmed ("Syllabus for
 PHI 420: Stoicism (2021 Spring - B)", Spring B 2021 Sections 20863/35034,
 Instructor Dr. Sandra Woien, sandra.woien@asu.edu; Irvine's Guide to the
@@ -74,5 +76,5 @@ Wayback snapshot was not opened). The degree's D2 remains blocked on the
 supersession ruling regardless. The D1 file was not edited (live lane).
 
 Auditor: worker-pplx-dosr4-1026b (verification lane assist, read-only).
-Recorded clock readings: post-save 13:29:52Z; this correction 13:33Z
-(T+32).
+Recorded clock readings: post-save 13:29:52Z; ASU-verification save
+completed 13:33:19Z.

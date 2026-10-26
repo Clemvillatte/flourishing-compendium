@@ -19,9 +19,9 @@ from an assigned reading's title (marked where applicable).
 
 Clock: session T0 2026-10-26 13:00:39Z (recorded in T0.txt at session start;
 cross-checked 13:32:10Z against GitHub's HTTP Date header). Recorded readings
-during this audit: 13:28:25Z (mid-checks), 13:28:39Z (post-save). This
-correction checkpoint: 13:33Z (T+32, fresh local reading, external header
-13:32:10Z).
+during this audit: 13:28:25Z (mid-checks), 13:28:39Z (post-save). Correction-round readings: 13:32:16Z local, 13:32:10Z external header;
+correction save completed 13:32:55Z. No completion time is asserted beyond
+these recorded readings.
 
 ## Anchor 1 — UT Dallas PSY(CGS) 3361.002 Cognitive Psychology, Spring 2026, Daniel Krawczyk — CONTENT VERIFIED
 Course ID confirmed (PSY(CGS) 3361.002, Krawczyk, Spring 2026). All nine
@@ -79,21 +79,27 @@ same file was read at the replacement path
 confirms it is the same syllabus: PSYCH 272 Fall 2022 Health Psychology,
 Strauss, with the full attributed topic list present — health behavior
 models, nutrition, exercise, sleep, smoking, (health) disparities, social
-marketing, stress, placebos, palliative care, and the two topics an earlier
-draft of this receipt had not separately checked: "Medical decision-making"
-and "Provider-consumer relationships" (both named in the syllabus topic
-list, extracted-text lines 261-262, and in the course description,
-lines 17-18). This upgrades the earlier HTTP-status finding to a
-content-verified replacement recommendation.
+marketing, stress, placebos, palliative care, plus the topics an earlier draft of
+this receipt had not separately checked, all found in the syllabus
+topic list: "Medical decision-making" and "Provider-consumer
+relationships" (extracted-text lines 261-262, and in the course
+description, lines 17-18), "Accidents and injury" (line 253), "Stress and
+resilience" (line 259), "Chronic illness, life-threatening illness,
+assisted living, and palliative care" (line 264), and the social/
+interpersonal and pain rows. This upgrades the earlier HTTP-status
+finding to a content-verified replacement recommendation.
 
 ## Verdict
 
 All five deg-psychdim D1 anchors are content-verified against commit bee8d65
 of the D1 file: course identifications match the D1 citations and every
 topic the D1 attributes to these syllabi was found in the syllabus text
-(topics explicitly named except where a reading title is cited as evidence
-— e.g. UT Dallas week-table rows; Columbia reading-level evidence for
-BA-for-depression and the named readings above).
+(all topics verified are the ones listed in the sections above — e.g. UT
+Dallas's nine week-table rows, Rutgers's fourteen markers, Columbia's
+reading-level evidence for the named readings above, U Alberta's 'Topics
+include:' passage, Macalester's topic-list rows; topics explicitly named in
+the syllabus are distinguished from topics evidenced by an assigned
+reading's title).
 The Macalester replacement URL is verified as the same syllabus by content.
 Findings are recorded here for the lane owner (sup-1026r); the D1 file
 itself was not edited (live lane).

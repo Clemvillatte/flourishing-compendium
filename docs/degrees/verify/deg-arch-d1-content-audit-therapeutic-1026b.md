@@ -9,8 +9,17 @@ text-extracted locally). Course identifications and the D1's attributed
 topics were checked against the syllabus text. No live-lane files were
 modified.
 
-Clock: session T0 2026-10-26 13:00:39Z; content checks completed 13:32Z
-(T+32, fresh reading).
+Repository revision inspected at recheck: the D1 file at
+docs/degrees/inventory/deg-therapeutic.md at commit bee8d65 (its last change
+before this audit; recorded via git log -1 at recheck time). Locators are
+positions in this session's extracted text; reproducibility is via the source
+URL plus the quoted passage.
+
+Clock: session T0 2026-10-26 13:00:39Z (recorded in T0.txt at session start;
+cross-checked 13:32:10Z against GitHub's HTTP Date header, local reading
+13:32:16Z). Recorded readings: post-save 13:29:17Z; correction save
+completed 13:32:55Z. No completion time is asserted beyond these recorded
+readings.
 
 ## Anchor 1 — John Cabot PS 353-1 Clinical Psychology, Spring 2026, Prof. Nicola Petrocchi — CONTENT VERIFIED
 HTML page fetched and read. Course ID confirmed (PS 353-1, Spring 2026,
@@ -62,5 +71,5 @@ harvest-and-decision supersession, which stays with the lane owner. The D1
 file was not edited (live lane).
 
 Auditor: worker-pplx-dosr4-1026b (verification lane assist, read-only).
-Recorded clock readings: post-save 13:29:17Z; this correction 13:33Z
-(T+32).
+Recorded clock readings: post-save 13:29:17Z; correction save completed
+13:32:55Z.

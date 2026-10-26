@@ -2,16 +2,17 @@
 
 Read-only verification lane assist, follow-up to the rem6 audit. All 21
 syllabus/course URLs cited by the six wol-x5 D1 files (deg-wol-daoism: 3,
-deg-wol-buddhism: 4, deg-wol-greek: 4, deg-wol-pragmatism: 3,
-deg-wol-existentialism: 3, deg-wol-positive: 4) were re-requested at HEAD
+deg-wol-buddhism: 3, deg-wol-greek: 3, deg-wol-pragmatism: 3,
+deg-wol-existentialism: 5, deg-wol-positive: 4) were re-requested at HEAD
 (browser-user-agent HTTP GET, redirect-following, 15s timeout). These are
 HTTP-status checks; response content was NOT inspected. No live-lane files
 were modified.
 
 Clock: session T0 2026-10-26 13:00:39Z (recorded in T0.txt; cross-checked
 against GitHub's HTTP Date header). Recorded reading post-save: 13:23:29Z.
-This correction checkpoint: 13:33Z (T+32, fresh local reading; external
-header 13:32:10Z). An earlier version grouped the URLs under wrong degrees
+Correction-round readings: 13:32:16Z local, 13:32:10Z external header;
+correction save completed 13:32:55Z. No completion time is asserted beyond
+these recorded readings. An earlier version grouped the URLs under wrong degrees
 (an artifact of merging the combined URL list before checking each D1
 file); the per-degree assignment below was regenerated from each D1 file's
 own citation list and is authoritative.
@@ -56,5 +57,5 @@ disproved — the URL checks actually completed ~T+20 (13:20Z; session T0
 this note is kept for the audit trail.
 
 Auditor: worker-pplx-dosr4-1026b (verification lane assist, read-only).
-Recorded clock readings: post-save 13:23:29Z; this correction 13:33Z
-(T+32).
+Recorded clock readings: post-save 13:23:29Z; correction save completed
+13:32:55Z.
