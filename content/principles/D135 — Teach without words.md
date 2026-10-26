@@ -35,6 +35,9 @@ A new hire watches how the team lead handles a mistake: no blame, a quick fix, a
 
 - Laozi, *Daodejing* (*Tao Teh King*), trans. James Legge: [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 
+## Stories
+- [[ST511 — The Flower and the Smile|511. The Flower and the Smile]]
+
 ## Psychology parallels
 
 - **[[Observational learning|Observational learning]]**, modeling is the primary channel of behavior transmission (Bandura, 1977)
