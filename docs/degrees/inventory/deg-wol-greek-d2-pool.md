@@ -14,7 +14,7 @@ The owner's library (docs/PRIMARY-SOURCES.md) is the corpus of record; the rows 
 |---|---|---|---|---|
 | GREEK-TEXT-1 | Project Gutenberg, *The Republic* by Plato, eBook #1497 — https://www.gutenberg.org/ebooks/1497 | [OPENED-VERIFIED] (the page was fetched and read this session) | Retained as a citable web edition; the primary acquisition is the owner's library | mod-greek-5 — PROPOSED |
 | GREEK-TEXT-2 | Perseus Digital Library, Plato — the Scaife ATLAS / catalog pages | [DISCOVERY] (NOT fetched this session; the edition/licence claims are search-result metadata and are WITHDRAWN) | NOT ESTABLISHED; one direct fetch pass is owed if this route is needed as a fallback | NOT ADMITTED as established |
-| GREEK-TEXT-3 | MIT Internet Classics Archive — https://classics.mit.edu/ | [DISCOVERY] (the direct dialogue pages were bot-blocked on fetch) | NOT ESTABLISHED; one more route owed | alternative open route (flagged) |
+| GREEK-TEXT-3 | MIT Internet Classics Archive — https://classics.mit.edu/ | [OPENED-VERIFIED] (a direct page fetch succeeded this session — the Nicomachean Ethics page https://classics.mit.edu/Aristotle/nicomachaen.html was opened and read by a parallel worker, per the gap-2 resolution below; the earlier bot-block was a transient environment failure) | Retained as a citable web edition; the Aristotle browse page (https://classics.mit.edu/Browse/browse-Aristotle.html) carries the other works — corroborated by search excerpt | alternative open route (RESOLVED) |
 
 ### B. Teaching layers (MOOCs, open courses)
 
