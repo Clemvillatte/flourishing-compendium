@@ -1,7 +1,7 @@
 {
  "baton": "assistant-supervisor",
- "agent": "worker-pplx-sup-1026o",
- "clocked_in": "2026-10-26T08:19:09+00:00",
+ "agent": "worker-pplx-sup-1026p",
+ "clocked_in": "2026-10-26T09:26:33+00:00",
  "takeovers": [
   {
    "by": "supervisor-pplx-brownmermaid-1025a",
@@ -74,6 +74,12 @@
    "at": "2026-10-26T08:03:33+00:00",
    "from": "supervisor-pplx-1026a",
    "reason": "stale (28 min)"
+  },
+  {
+   "by": "worker-pplx-sup-1026p",
+   "at": "2026-10-26T09:26:33+00:00",
+   "from": "worker-pplx-sup-1026o",
+   "reason": "stale (67 min)"
   }
  ],
  "released": false
