@@ -1,3 +1,16 @@
+
+## ROUTED REPAIR — APPLIED (2026-10-26 00:48Z, sup-1026b, from the 00:42Z relationship-audit route)
+
+Restored the ST118 relationship lost with the ST307 removal (only group
+with orphans; all 22 other removals verified clean): appended the kept-copy
+story link to D071, PP019, PP020 (## Stories bullets) and the concepts
+'Everyday creative activities' + 'Pleasant activities scheduling
+(Lewinsohn)' (matching each page's existing link format). CORRECTION to my
+00:27Z sweep note: 'the newer registrations (ST345+) conform' was WRONG —
+ST432 Jim Forest fails at 481 words (1 over); conformance is per-page,
+not by number range. dosr1-dosr7 STEP 0 dispositions are STRUCTURAL findings
+(count + dossier_check + spot-substance); substantive post-review remains
+the supervisor's.
 ## Worker checkpoint (2026-10-26 00:26Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — ST488 "Rip Van Winkle Says I Won't Count This Time" (published

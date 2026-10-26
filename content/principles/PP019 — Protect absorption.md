@@ -31,6 +31,7 @@ In nearly half the samples, people were thinking about something other than what
 ## Stories
 
 - [[ST309 — Jiro Makes Sushi|309. Jiro Makes Sushi]]
+- [[ST118 — The Rock Climbers' Absorption|118. The Rock Climbers' Absorption]]
 ## Psychology parallels
 
 - [[Mind wandering|Mind-wandering and unhappiness]] (Killingsworth and Gilbert, 2010)

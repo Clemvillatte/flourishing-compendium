@@ -40,6 +40,7 @@ Suppose you are revising an essay paragraph. Leave an unrelated notification uno
 - [[ST025 — The Cicada Catcher's Stillness|25. The Cicada Catcher's Stillness]]
 - [[ST026 — Woodcarver Qing Makes a Bell-Stand|26. Woodcarver Qing Makes a Bell-Stand]]
 - [[ST028 — Eliud Kipchoge Runs 1 — 59|28. Eliud Kipchoge Runs 1:59]]
+- [[ST118 — The Rock Climbers' Absorption|118. The Rock Climbers' Absorption]]
 ## Practice kernels
 
 - [[K105 — Single-tasking|K105 Single-tasking]]

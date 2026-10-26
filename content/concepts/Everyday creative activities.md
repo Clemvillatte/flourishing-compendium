@@ -25,6 +25,7 @@ The sample was 658 young adults keeping a 13-day daily diary, reporting each day
 - [[K117 — Graded exposure]]
 - [[K173 — Creative hopelessness]]
 - [[ST324 — The Four C's]]
+- [[ST118 — The Rock Climbers' Absorption]]
 
 ## Related concepts
 

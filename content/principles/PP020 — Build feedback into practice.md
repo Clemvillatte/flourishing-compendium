@@ -33,6 +33,7 @@ A pianist records each rehearsal of a hard passage and listens back for uneven r
 - [[ST308 — Deliberate Practice|308. Deliberate Practice]]
 - [[ST309 — Jiro Makes Sushi|309. Jiro Makes Sushi]]
 - [[ST310 — Walter Mitty Steps On|310. Walter Mitty Steps On]]
+- [[ST118 — The Rock Climbers' Absorption|118. The Rock Climbers' Absorption]]
 ## Psychology parallels
 
 - [[Deliberate practice|Deliberate practice]] (Ericsson et al., 1993)

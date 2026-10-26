@@ -27,6 +27,7 @@ The model behind the schedule: "Individuals with depression find fewer activitie
 ## Cited in psychology parallels
 
 - [[BE019 — Learn to schedule pleasurable activities — enjoyment-driven behaviour]]
+[[ST118 — The Rock Climbers' Absorption]]
 [[BE017 — Learn to schedule valued activities — meaning-driven behaviour]]
 [[BE013 — Learn behavioural activation — do it even when you do not feel like it]]
 [[MO066 — Recognise depression's effect on motivation — anhedonia and fatigue]]
