@@ -14,19 +14,19 @@ stay in the loop; agents keep it current with one-line entries.
 - Only the supervisor or assistant supervisor refreshes the snapshot
   below, and only when something material changed.
 ## Snapshot
-- 2026-10-25 09:43Z sup-1025y: verification pass green (6 dossiers, build, origin synced); agency+right-effort site rebuilds pushed; leisure bar met at 3, flip HELD on your art ruling (Monet curated); AR-05/ST-01 resolved.
-- 2026-10-25 ~04:00Z (seeded at creation, worker-pplx-c3b0f2fb)
-- Team: 5-7 workers active on DOS bands (dos17 body, dos22 right-livelihood,
-  dos28 sadness-and-grief, dos31 creation, dos33 procrastination, dos21
-  right-action just released) + live supervisor (1025e). Principles and
-  concepts queues: 100% done. Remaining old-format dossiers: ~13 free
-  bands. Registry backlog: 16 future topics.
-- Publication (NEW, owner directive 2026-10-25): publish-then-review.
-  Workers publish their own passing dossiers; the supervisor reviews
-  PUBLISHED dossiers and can flip one back with a flag.
-- Assistant-supervisor baton: added, free; take it when the supervisor
-  queue is overloaded (rules in OPERATIONS.md).
+- 2026-10-26 04:42Z supervisor-49bf153e: four priority degrees have live production
+  owners; both verification lanes and integration are live. Supervisor review
+  starts with Psychological Dimensions M1.
+- Phase 0 is closed under owner decision 6. Video-first rechecks are required
+  before module-QC; no unfinished degree may appear in the Academy.
+- Principles, concepts and kernels enrichment are complete. This wave does not
+  reopen their bands, stories, dossiers, practica or the three parked degrees.
+- Historical story/dossier policy flags remain separate from this degree wave;
+  they do not block its production. Current routing: `docs/degrees/TASKBOARD.md`.
 ## Log
+- 2026-10-26 04:42Z supervisor-49bf153e: took deg-gate for independent module review; production owners retain their files.
+- 2026-10-26 04:41Z psychdim-video-49bf153e: took deg-verify-b for video-first source support; production claim avoided.
+- 2026-10-26 04:40Z integrate-49bf153e: took deg-integrate to enforce complete-only Academy display.
 - 2026-10-26 04:40Z degree-4376b4ec: took deg-psychdim; supervisor race conceded; video-first source review then module production.
 - 2026-10-26 04:39Z supervisor-49bf153e: took supervisor; Psychological Dimensions module review and complete-only Academy display are priorities.
 - 2026-10-26 02:35Z verifier-af06bd9e: push helper falsely reported success during rebase; fail-closed checks and offline regressions added.
@@ -88,3 +88,7 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-26 03:04:05Z measured (worker-pplx-verify-1026b, audit baton released at T+58): verification lane closed — 49 automated quote-checker flags examined across the released bands this session (35 confirmed false positives by direct opens, 8 search-excerpt-supported on fetcher-blocked hosts, 2 deviations repaired with registry rebuilds, 4 ctext.org items flagged unverified); QC samples 6-26 with the row-level reconciliation in the QC record govern; five spot-checks of the newest closes confirmed; final save follows.
 - 2026-10-26 04:38Z worker-pplx-degdaosim-1026a: claimed deg-wol-daoism (WAVE 2 lane 2) — production owner; Gate 1 already cleared (independent review 2026-10-26); advisor QC plan applied (5-module L1-L4 structure kept; Neiye elective dependency recorded; primary-text access needs verified source; M01-D11 Komjathy Inner Cultivation left unattached pending credential evidence per section 4; workload arithmetic to be recomputed from segments).
 - 2026-10-26 04:46Z worker-pplx-buddhism-1026a (deg-wol-buddhism): b1 ethics-first module drafted with 5 verified sources (module map in ledger; supervisor module-QC owed); b2 next; receipts consumed
+- 2026-10-26 04:45Z degverifya-1026d: took deg-verify-a (daoism+buddhism source verification, wave 2); pragmatism baton left to its live claimer.
+- 2026-10-26 04:49Z worker-pplx-buddhism-1026a: took deg-wol-buddhism (wave-2 production owner, #3 priority degree); Gate 1 already cleared; plan per advisor: coverage/module map into scope+ledger first, then M1 from freshly opened sources; later modules M2-M8 to follow in successive sessions.
+- 2026-10-26 04:55Z worker-pplx-pragmatism-1026b (deg-wol-pragmatism baton held): wave-2 production started — m1-orientation written to the skill standard (DRAFT NOT CLEARED, routed to supervisor module-QC + advisor QC); video-first applied (Philosophy Talk verified-video + Peirce 1878 Wikisource excerpt, both opened this session); module plan m1-m5 in the ledger; band file at module-production.
+- 2026-10-26 04:43Z worker-pplx-degdaosim-1026a: m1-orientation for deg-wol-daoism drafted; sources re-verified on institutional pages; advisor QC repairs in progress.
