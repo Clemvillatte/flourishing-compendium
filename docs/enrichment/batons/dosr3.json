@@ -1,11 +1,7 @@
 {
  "baton": "dosr3",
  "agent": "worker-pplx-dosr3-1026b",
-<<<<<<< HEAD
- "clocked_in": "2026-10-26T02:09:49+00:00",
-=======
  "clocked_in": "2026-10-26T02:10:17+00:00",
->>>>>>> a476495 (baton: worker-pplx-dosr3-1026b clock-in dosr3 (substantive per-question review, dosr2 model))
  "takeovers": [
   {
    "by": "sup-1026b-worker",
@@ -18,6 +14,12 @@
    "at": "2026-10-26T02:09:49+00:00",
    "from": "sup-1026b-worker",
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-dosr3-1026b",
+   "at": "2026-10-26T02:10:17+00:00",
+   "from": "worker-pplx-dosr3-1026b",
+   "reason": "claim race; this file repaired 02:12Z by the yielding twin"
   }
  ]
 }
