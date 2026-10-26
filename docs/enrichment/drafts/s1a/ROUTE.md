@@ -898,8 +898,10 @@ have a persisted basis.
 2026-10-26T00:54:43Z storyteller-pplx-s1a-1026b: T+50 TAPER PASS (remaining source verifications)
 - ST016 (s1a-090): the $28.12½ claim re-verified against a fresh
   download of the Gutenberg Walden text (#205): the itemized house
-  materials total is $28.12½ and the full experiment's cash outgoes are
-  $61.99¾, so the live page's "entire experiment" reading of the figure
+  materials total is $28.12½; the table's combined outgoes figure is
+  $61.99¾, but that combines different reporting periods and excludes
+  washing and mending, so it is not an "experiment total" either — the
+  live page's "entire experiment" reading of the figure
   is wrong and the draft's correction stands.
 - ST011 (s1a-091): the Diogenes passage re-downloaded from the cited
   LacusCurtius page and re-diffed; the quote's final period was restored
@@ -913,3 +915,26 @@ have a persisted basis.
   "1Jiew", spurious in-word spaces), documented in a QC note. No wording
   changes were needed.
 story_check re-run after these edits: 20/20 drafts, 0 errors.
+
+2026-10-26T01:00:46Z storyteller-pplx-s1a-1026b: T+57 PRINTED-PAGE VERIFICATION (advisor-directed)
+rendered the PDF pages and visually verified the PRINTED text against
+the drafts: the printed pages read "pre-occupation" (ST019), "oak-tree"
+(ST003) and "Heaven-given" (ST026) — the pdftotext extraction had
+dropped those hyphens, and the earlier T+47 pass had wrongly "fixed"
+the drafts to match the extraction. Reverted all three to match the
+printed pages (2 occurrences each); the drafts' original readings were
+correct. Also corrected the T+50 taper entry's Walden line: the table's
+combined outgoes figure of $61.99¾ combines different reporting periods
+and excludes washing and mending, so it is not an "experiment total";
+the $28.12½ correction itself (house-materials cost, not "the entire
+experiment") stands. story_check re-run on the three reverted drafts:
+0 errors each.
+
+2026-10-26T01:00:52Z storyteller-pplx-s1a-1026b: BATON RELEASE (T+58, scheduled end of session)
+releasing the s1a baton per OPERATIONS.md via scripts/baton.py release.
+Session output: 20 prepared upgrade drafts (s1a-076..095, qc_pending)
+awaiting supervisor application; all proposed bodies passed structural
+validation (story_check 0 errors); source checks and quotation repairs
+are documented in ROUTE.md. An owner-board line for this release is
+requested via this route (storytellers cannot edit OWNER-BOARD.md
+directly).
