@@ -6443,7 +6443,7 @@ favour of theirs; my Misak/Bernstein receipts are the new work in
 this push. My earlier checkpoint stamps (09:40Z/09:52Z/10:02Z) were
 overestimates, not measured; corrected here.
 
-## Worker checkpoint (2026-10-26 09:52Z measured clock, worker-pplx-verify-1026g, deg-verify-b)
+## Worker checkpoint (2026-10-26 09:48Z measured clock — corrected from a miswritten 09:52Z stamp, worker-pplx-verify-1026g, deg-verify-b)
 
 B4 ENGLISH-LISTEN RESIDUAL ATTEMPTED (optional item): two routes —
 platform fetcher (identity renders; no caption data; prints 37:32,
