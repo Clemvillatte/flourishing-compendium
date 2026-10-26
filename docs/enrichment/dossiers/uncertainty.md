@@ -90,6 +90,30 @@ The two do not answer one another, since Ramsey's paper does not cite Knight, an
 
 Knight concludes that the lack of a record leaves a different kind of problem, which calls for judgment about the situation. Ramsey concludes that a person's action already shows a degree of belief, which can be written down as a number even if it is imprecise. My lean, which is mine, is that the Ramsey route is useful for deciding and Knight's route is useful for knowing when the number is a guess. Put plainly, one holds that for a unique situation no distribution of outcomes is known, and the other holds that a degree of belief exists anyway and can be roughly measured. Limits: I read Knight's chapter text and Ramsey's paper only for these passages, and I did not open the later literature that argues over how the two relate, such as work on ambiguity.
 
+### Does the conjunction rule bind judgments about single events?
+
+The shared question: when a person judges how likely one single event is, do the laws of probability apply to that judgment as a standard it can violate? The heuristics-and-biases program read the Linda problem and its relatives as violations; Gigerenzer's critique attacked that reading at its root.
+
+Kahneman and Tversky defend the norm, and they state its basis:
+
+> "Normative agnosticism is particularly inappropriate in the case of the conjunction rule." ([Kahneman and Tversky, On the reality of cognitive illusions, Psychological Review 103, 1996](http://matt.colorado.edu/teaching/highcog/fall8/kt96.pdf))
+
+> "First, the application of this rule does not require numerical estimates, only an ordinal judgment of which of two events is more probable. Second, the normative basis for the conjunction rule is essentially logical: If the conjunction A & B is true then A must also be true, but the converse does not hold." ([Kahneman and Tversky 1996](http://matt.colorado.edu/teaching/highcog/fall8/kt96.pdf))
+
+They state the character of the dispute themselves:
+
+> "Our disagreement here is normative, not descriptive. We believe that subjective probability judgments should be calibrated, whereas Gigerenzer appears unwilling to apply normative criteria to such judgments." ([Kahneman and Tversky 1996](http://matt.colorado.edu/teaching/highcog/fall8/kt96.pdf))
+
+Gigerenzer rejects the norm for single events:
+
+> "For instance, the conjunction rule applied to a single event is not a general norm for sound reasoning." ([Gigerenzer, On narrow norms and vague heuristics: A reply to Kahneman and Tversky, Psychological Review 103, 1996](https://pure.mpg.de/rest/items/item_2547850_4/component/file_2561571/content))
+
+The Linda problem is the shared task on which the accounts collide. Gigerenzer reports that with frequency formats "the conjunction fallacy in the Linda problem is reduced from about 85% to 20% and less" ([Gigerenzer 1996](https://pure.mpg.de/rest/items/item_2547850_4/component/file_2561571/content)). Kahneman and Tversky answer with a between-subjects frequency version of the same problem and report that "the results demonstrate a violation of the conjunction rule in a frequency formulation" ([same paper](http://matt.colorado.edu/teaching/highcog/fall8/kt96.pdf)).
+
+The clash is explicit in both texts, each naming the other: one side holds that the conjunction rule binds even single-event judgment because its basis is logical; the other holds that applying it to a single event imposes a contested statistical doctrine as a norm of sound reasoning. Limits: I have read this 1996 exchange and not the later literature that adjudicates it.
+
+My lean, which is mine, is to check how a question was framed before treating my answer as evidence that my judgment is faulty.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying is the reflex to resolve. The look-alikes of tolerance are resignation and distraction. The adaptive moves are to let the not-knowing stay present, to turn an unknown into a small test, and to let the one fact that is certain, mortality with an unknown date, say what is urgent.

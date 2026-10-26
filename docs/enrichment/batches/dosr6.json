@@ -78,9 +78,9 @@
    "notes": "Automated quote verification: 1 non-match (Milindapanha chariot passage, suttacentral blocked carrier) adjudicated VERBATIM this session by this worker on an alternate opened carrier (Sacred Texts SBE35 Book II ch. 1, Rhys Davids)."
   },
   "uncertainty": {
-   "n_questions": 3,
-   "certified": 0,
-   "status": "BELOW BAR (0 of minimum 3)",
+   "n_questions": 4,
+   "certified": 1,
+   "status": "BELOW BAR (1 of minimum 3; repair in progress: +1 certified this session)",
    "questions": [
     {
      "q": "Is not knowing something to dwell in, or a weakness to treat?",
@@ -96,11 +96,23 @@
      "q": "Can a one-off unknown be given a number?",
      "v": "NOT CERTIFIED THIS PASS \u2014 advisor ruling applied: Knight's 'no known distribution for unique cases' does not by itself deny Ramsey's measurable subjective degree of belief; the unsupported step is moving from the former to 'no number can be assigned'. The dossier's own lean treats them as complementary tools and its limits note says the pairing is the dossier's framing. Kept as a qualified comparison.",
      "mark": "flagged"
+    },
+    {
+     "q": "Does the conjunction rule bind judgments about single events? (added 2026-10-26 repair)",
+     "v": "PASS \u2014 head-on with explicit mutual attribution: Kahneman-Tversky 1996 defend the conjunction rule as a logical norm binding single-event judgment; Gigerenzer 1996 rejects it as a norm for single events; shared task (the Linda problem) with opposing accounts from both texts; both primary sources opened and quotes verified verbatim (12/12 automated).",
+     "mark": null
     }
    ],
    "notes": "BELOW BAR. Repair route per advisor: bounded repair attempt, not an exception request \u2014 investigate the Gigerenzer vs Kahneman/Tversky primary exchange for a genuinely head-on disagreement (one side must reject what the other affirms about the same judgment task and normative criterion); never manufacture. Search record to be appended."
   }
  },
  "advisor_qc": "Two advisor rounds (2026-10-26): round 1 flagged the complementary-pairing risk and the blocking checks; round 2 issued row rulings (right-action Q2 certified narrowed; sadness-and-grief Q3 certified with qualification; the-self Q1 not certified pending primary exclusion evidence; the-self Q4 downgraded as taxonomy; uncertainty Q1-Q3 not certified) and ordered the dosr4 corrective note and a bounded repair attempt for uncertainty.",
- "outcome": "PROVISIONAL \u2014 right-action and sadness-and-grief AT BAR (3 certified each); the-self BELOW BAR PENDING PRIMARY VERIFICATION (2 certified; Q1 and Q4 flagged); uncertainty BELOW BAR (0 certified; all three flagged). Both below-bar dossiers routed for repair; no dossier text edited this pass; no publish actions (all four already published)."
+ "outcome": "UPDATED: right-action and sadness-and-grief AT BAR (3 certified each); the-self BELOW BAR PENDING PRIMARY VERIFICATION (2 certified; Q1, Q4 flagged); uncertainty BELOW BAR (1 certified after this session's repair, +2 needed or supervisor exception). Dossier text edited this pass: uncertainty.md only (one new disagreement question, humanizer rules applied). All checks pass.",
+ "uncertainty_repair_2026_10_26": {
+  "advisor_blocking_verdict_applied": "advisor round 3 (via this session): narrow the disputed proposition, remove overclaims, simplify the lean, verify the verifier's coverage",
+  "action": "NEW QUESTION added to docs/enrichment/dossiers/uncertainty.md: 'Does the conjunction rule bind judgments about single events?' \u2014 the Kahneman-Tversky vs Gigerenzer 1996 Psychological Review exchange, both primary texts OPENED this session (Kahneman & Tversky 1996 'On the reality of cognitive illusions' via matt.colorado.edu copy; Gigerenzer 1996 'On narrow norms and vague heuristics' via the Max Planck PuRe repository), quotes re-confirmed verbatim with second targeted fetches of each PDF",
+  "head_on_basis": "explicit mutual attribution in both texts; K&T defend the norm Gigerenzer rejects ('Normative agnosticism is particularly inappropriate in the case of the conjunction rule'; 'the normative basis for the conjunction rule is essentially logical'; 'Our disagreement here is normative, not descriptive') vs Gigerenzer's 'the conjunction rule applied to a single event is not a general norm for sound reasoning'; shared task named: the Linda problem (Gigerenzer: 'reduced from about 85% to 20% and less' with frequency formats; K&T: between-subjects frequency version, 'the results demonstrate a violation of the conjunction rule in a frequency formulation')",
+  "checks": "dossier_check.py exit 0 (45 card links, 16 headers, 12 external carriers); dossier_quote_verify.py 12 quotes checked, 0 not found (both PDF carriers fetched by the script and every quote matched verbatim; the two initial '(same source)' coverage gaps the advisor flagged were fixed by adding carrier links); dossier_density.py 0 dense paragraphs",
+  "status": "uncertainty moves 0 -> 1 substantiated; STILL BELOW THE 3 BAR; the question is certified head-on per the narrowed proposition; remaining repairs for the next pass: two more genuine disagreements (or the supervisor's exception ruling); the earlier Q1/Q2 complementary pairings stand as unresolved candidates"
+ }
 }
