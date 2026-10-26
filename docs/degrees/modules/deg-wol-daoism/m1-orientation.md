@@ -59,17 +59,21 @@ the tradition rather than about scholarship about the tradition.
 
 1. [Lundao 1: The Daoist Tradition 道 統](https://www.youtube.com/watch?v=_12aeIvlHhM),
    by Louis Komjathy (1:13:54; Daoist Foundation channel; captions
-   available on the watch page). The talk is not segmented on the watch
-   page, so this module assigns two viewing stops with a recall pause
-   between them, matched to the talk's own topic transitions as
-   confirmed in its transcript: watch from the start through Komjathy's
-   framing of Daoism as an indigenous Chinese and now global
-   tradition and his account of the tradition's origins (the talk's
-   early sections on the tradition's religious character, its
-   historical periods, and its core terms dao jia and dao jiao),
-   then pause and do Retrieval pause A below before watching the
-   remainder. Do not worry yet about every name or date; the talk is
-   for orientation, and the degree's later modules take up the details.
+   available on the watch page; key moments with timestamps printed
+   on the watch page). Watch these assigned segments, about 25 minutes
+   in total, matched to the talk's own printed key moments:
+   - 0:01:17 to 0:10:35 (Remembering the Sacred through the etymology
+     section): Komjathy's framing of Taoism as an indigenous Chinese
+     and now global tradition, the tradition's religious character,
+     adherents, ordination and lineage, and the rhetoric of tradition.
+   - 0:20:02 to 0:24:06 (Indigenous Chinese Names for Taoism through
+     The Teaching beyond or without Words): the tradition's own names
+     for itself and the wordless teaching.
+   Then do Retrieval pause A below. The remaining key moments are
+   optional further viewing for this module; the talk's later sections
+   (inner cultivation lineages, monasticism, internal alchemy, the
+   lineages and the practice models) are taken up in the degree's
+   later modules.
 
 The talk introduces Daoism as an indigenous and global tradition.
 Komjathy is a scholar-practitioner: he studies the tradition
@@ -91,7 +95,8 @@ submitted.
 
 Before you read any primary text, here are the four terms in their
 working senses. Each definition below is attributed to the source that
-teaches it; the videos in Step 3 take each one up in full.
+teaches it; the videos in Step 3 take dao, de and wu wei up in
+full, and yangsheng is taken up in module 4.
 
 - **Dao** (the way, the course). The Daodejing's own opening chapter
   says a dao that can be spoken is not the enduring dao; the term
@@ -168,17 +173,24 @@ lecture (it gives you the concepts in their strongest form).
    a documentary hosted by Bryan Van Norden (0:50:09; Van Norden's
    own channel; produced by Homework Productions for China Central
    Television, with interviews including Michael Puett and Misha
-   Tadd; chapter timestamps from 0:00:00 to 0:46:28 printed in the
-   description). Watch the documentary in two assigned stops matched
-   to its own topic transitions as confirmed in its transcript: first
-   the sections from the opening through the discussion of Laozi as
-   a legendary figure, the Daodejing's textual history and the
-   earliest meaning of dao, then pause and do Retrieval pause B
-   below before watching the remainder through the sections on
-   Daoist ideas, wu wei and the documentary's closing. As you watch,
-   note the questions the documentary raises about who Laozi was
-   and how the Daodejing came to exist; the next reading takes up
-   those questions more analytically.
+   Tadd; chapter timestamps printed in the description). Watch these
+   assigned segments, about 30 minutes in total, matched to the
+   documentary's own printed chapters:
+   - 0:00:00 to 0:17:17 (Introduction; Laozi and His Historical
+     Context): the opening on intelligence and wisdom, Laozi as a
+     legendary figure, the Daodejing's textual history, the earliest
+     meaning of dao, and the documentary's treatment of ancient
+     China's political disorder and philosophical schools.
+   - 0:29:44 to 0:34:20 (Laozi, the Martial Arts, and Wúwéi): the
+     documentary's treatment of wu wei, leadership, strength and
+     water, including the Bruce Lee "be water" discussion.
+   Then do Retrieval pause B below. The chapters the module does not
+   assign (Laozi and Modern Science, Laozi and Politics, Laozi,
+   Heavy Metal, and Taijichuan, Laozi, Translations, and the
+   Counterculture Movement, Laozi Today) are optional further
+   viewing for this module; the module assigns only what serves its
+   outcomes, and the degree's later modules take up the practice and
+   reception material.
 3. [Why This Text Matters: Daodejing](https://www.youtube.com/watch?v=EJ1bB2w2gBk),
    by Brook Ziporyn (0:53:36 total; University of Chicago Divinity
    School channel; full chapter timestamps printed on the watch page).
@@ -240,6 +252,7 @@ lies in his ren. The quality of words lies in their faithfulness. The
 quality of governance lies in its order. The quality of work lies in
 one's ability. The quality of action lies in its timeliness. Because
 it does not contend it is without error."
+([Eno, Daodejing, chapter 8](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content).)
 
 **The image.** The chapter is built on a single image: water. Water
 benefits things without contending; it settles in the low places
@@ -283,7 +296,8 @@ your own version of the same five-part reading for the chapter you
 chose, in 150 to 250 words. That is the draft of graded deliverable
 b. A partially scaffolded version first: for chapter 1, name the image
 (if any) and the move; for chapter 76, name the contrast the chapter
-draws and what it assumes about the reader. Check your two-part
+draws and one limitation of the application you would propose for
+it. Check your two-part
 attempts against the primary text before you write the graded
 version.
 
@@ -324,6 +338,7 @@ whether Zhou had dreamt he was a butterfly or a butterfly was
 dreaming he was Zhou." The passage closes with the line "Surely
 there is a difference between Zhou and a butterfly" and names that
 instability "the transformation of things."
+([Eno, Zhuangzi, passage 2.20](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/5dc89a23-c6bf-4190-a1e4-6762dc5359cc/content).)
 
 The passage is famous for a reason. It is short, it is playful, and
 it quietly refuses the question it seems to raise. One defensible
@@ -493,12 +508,15 @@ learner can self-check.
 
 ## Workload arithmetic
 
-- Video time (measured durations on the opened watch pages):
-  Komjathy Lundao 1, 1:13:54 (73.9 minutes); Van Norden
-  documentary, 0:50:09 (50.2 minutes); Ziporyn assigned segments,
+- Video time (measured durations on the opened watch pages, assigned
+  segments only):
+  Komjathy Lundao 1, segments 0:01:17 to 0:10:35 and 0:20:02 to
+  0:24:06 (13:22); Van Norden documentary, segments 0:00:00 to
+  0:17:17 and 0:29:44 to 0:34:20 (21:53); Ziporyn assigned segments,
   0:00:00 to 0:12:13 (12:13) plus 0:15:20 to 0:17:00 (1:40) plus
-  0:26:15 to 0:33:56 (7:41), total 21:34. Total measured video
-  time: about 146 minutes.
+  0:26:15 to 0:33:56 (7:41), total 21:34. Total measured assigned
+  video time: about 57 minutes. The unassigned remainder of the
+  recordings is not counted.
 - Primary-text reading (Eno Daodejing chapters 1, 8 and 76, 288
   words measured on the opened text; Eno Zhuangzi passage 2.20, 67
   words measured on the opened text): 355 words total. At 130 words
@@ -508,12 +526,12 @@ learner can self-check.
   two readings of each assigned passage, so about 6 minutes raw.
   With study overhead applied as a three-times multiplier on raw
   reading, about 18 minutes (estimate, labelled).
-- Module teaching prose on this page (about 3,570 words measured,
+- Module teaching prose on this page (about 3,930 words measured,
   including the worked chapter-8 demonstration and the two scaffolded
-  attempts): at 180 words per minute (some new concepts) about 20
+  attempts): at 180 words per minute (some new concepts) about 22
   minutes raw; with study overhead as a three-times multiplier,
-  about 59 minutes (estimate, labelled).
-- Retrieval activities and pauses 1, 2, A and B: about 25 minutes
+  about 66 minutes (estimate, labelled).
+- Retrieval activities and pauses 1, 2, A and B: about 20 minutes
   (estimate; about 5 minutes each).
 - Graded deliverables including the self-assessment step that is
   part of each: about 60 minutes total (estimate, labelled per
@@ -521,13 +539,13 @@ learner can self-check.
   chapter-reading deliverable about 20 minutes, two-texts
   deliverable about 10 minutes, scope statement about 15 minutes.
 
-Total: about 5 hours 10 minutes (about 308 minutes of labelled
-components: 146 measured video, 18 estimated primary-text reading
-with the three-times study multiplier, 59 estimated module-prose
-reading with the three-times study multiplier, 25 retrieval and
-pauses, 60 graded with per-deliverable allowances above). Optional
-further viewing (the remaining Ziporyn chapters, about 32 minutes)
-is not counted.
+Total: about 3 hours 40 minutes (about 221 minutes of labelled
+components: about 57 measured assigned video, 18 estimated
+primary-text reading with the three-times study multiplier, 66
+estimated module-prose reading with the three-times study
+multiplier, 20 retrieval and pauses, 60 graded with per-deliverable
+allowances above). Optional further viewing (the unassigned remainder
+of the three recordings) is not counted.
 
 ## Verification status of attached sources
 
@@ -539,21 +557,23 @@ pages rather than host descriptions:
 
 - Komjathy, Lundao 1 (verified-video; identity and access confirmed
   on the watch page 2026-10-26, duration 1:13:54 printed on the
-  watch page; instructor credentials verified on the Daoist
-  Foundation's own about page,
-  http://www.daoistfoundation.org/about, which states his PhD
-  (Religious Studies, Boston University, 2005) and his ordination
-  in the Huashan lineage of Quanzhen Daoism; not a host
+  watch page, key moments with timestamps printed on the watch page;
+  instructor credentials verified on the Daoist Foundation's own
+  about page, http://www.daoistfoundation.org/about, which states
+  his PhD (Religious Studies, Boston University, 2005) and his
+  ordination in the Huashan lineage of Quanzhen Daoism; not a host
   description). Content coverage verified this pass against the
   talk's actual transcript opened via a third-party transcript
-  service: the talk introduces Daoism as an indigenous Chinese
-  tradition whose living teachings predate the English label
-  "Daoism", distinguishes the classical Chinese tradition from its
-  later global and Western receptions, and frames the talk as an
-  introduction rather than a doctrinal treatment. The module assigns
-  the talk for orientation only, and the module does not claim
-  the talk establishes any doctrinal content the transcript does
-  not state. Language: English, captions available.
+  service: the talk introduces Chinese Taoism as an indigenous
+  Chinese religious tradition and distinguishes it from global
+  Taoism, which the talk describes as culturally, ethnically and
+  linguistically diverse. Correction to an earlier claim: an
+  earlier version of this inventory said the transcript confirms the
+  tradition's teachings predate the English label "Daoism"; the
+  transcript does not discuss the English label, and that claim is
+  withdrawn (see the ledger's round 4 correction). The module
+  assigns the talk for orientation only. Language: English, captions
+  available.
 - Van Norden, Wisdom of China: Laozi documentary (verified-video;
   identity and access confirmed on the watch page 2026-10-26,
   duration 0:50:09 printed on the watch page, chapter timestamps

@@ -340,3 +340,81 @@ wording of the yangsheng definition quoted in m1 Step 2 was checked
 against the served transcript text as quoted above. The primary-text
 quotations in the module (Daodejing chapters 8 and the Butterfly
 Dream) come from the downloaded Eno PDFs, not from the transcripts.
+
+## m1 advisor QC round 4 repairs (2026-10-26, worker-pplx-degdaosim-1026a)
+
+Round 4 returned four focused repairs. All four applied and pushed
+this pass:
+
+1. The chapter-76 assumption in the Step 4 teaching prompt was
+   repaired: the scaffolded prompt now asks for "one limitation of the
+   application you would propose for it", not "what it assumes about
+   the reader".
+2. Timestamped segment assignments obtained for both long
+   recordings from the sources' own printed key moments and chapters,
+   not estimated from an untimed transcript. Komjathy Lundao 1: the
+   watch page prints key moments with timestamps (1:17 Remembering
+   the Sacred, 6:21 Global Taoism, 6:43 Rhetoric of Tradition, 7:47
+   Adherents of Taoism, 8:21 Ordination and Lineage, 8:37 Taoist
+   Ordination and Lineage, 10:35 Etymology, 12:13 The Dao as a
+   Character, 12:39 Chapter One of the Daodejing, 12:53 The Book of
+   Venerable Masters, 20:02 Indigenous Chinese Names for Taoism,
+   20:22 The Teaching beyond or without Words, 24:06 Changing Dao,
+   and later key moments through 1:08:50). The module now assigns
+   0:01:17 to 0:10:35 and 0:20:02 to 0:24:06 (13:22) and leaves the
+   remainder optional. Van Norden documentary: the description
+   prints chapters (0:00:00 Introduction, 0:02:55 Laozi and His
+   Historical Context, 0:17:17 Laozi and Modern Science, 0:26:15
+   Laozi and Politics, 0:29:44 Laozi the Martial Arts and Wuwei,
+   0:34:20 Laozi Heavy Metal and Taijichuan, 0:42:23 Laozi
+   Translations and the Counterculture Movement, 0:46:28 Laozi
+   Today). The module now assigns 0:00:00 to 0:17:17 and 0:29:44 to
+   0:34:20 (21:53) and leaves the remainder optional, including the
+   Modern Science and Politics chapters, which are not needed for
+   this module's outcomes under the finite-scope rule.
+3. Evidence claims corrected with receipts:
+   a. The round-3 inventory's claim that the Komjathy transcript
+      confirms the tradition's teachings predate the English label
+      "Daoism" is withdrawn: the transcript does not discuss the
+      English label, and the module's inventory now says so and
+      records the withdrawal here. The corrected claim is only what
+      the transcript states: the talk introduces Chinese Taoism as
+      an indigenous Chinese religious tradition and distinguishes it
+      from global Taoism, described as culturally, ethnically and
+      linguistically diverse.
+   b. The Ziporyn transcript URL, missing from the round-3 table, is
+      added below with a passage locator and a supporting excerpt.
+   c. The yangsheng definition now carries its transcript locator.
+   d. Citations placed immediately after the primary-text quotations
+      (Daodejing chapter 8 and Zhuangzi passage 2.20) and after the
+      attributed yangsheng definition.
+4. Arithmetic and timestamp audit:
+   a. Retrieval activities and pauses corrected to 20 minutes (4
+      activities at about 5 minutes each; the round-3 total of 25
+      was wrong).
+   b. Module prose recounted after the round-4 edits: 3,934 words
+      measured; workload updated accordingly (22 minutes raw at 180
+      wpm, 66 minutes with the three-times study multiplier).
+   c. Total video time recomputed from the assigned segments only:
+      Komjathy 13:22 + Van Norden 21:53 + Ziporyn 21:34 = about 57
+      minutes, down from the round-3 figure of 146 minutes which
+      counted the whole recordings. Total workload recomputed to
+      about 3 hours 40 minutes (about 221 minutes).
+   d. The round-3 ledger table's clock bound of "05:03Z" was not a
+      recorded reading; the recorded readings this session were
+      04:42:33Z (monotonic 0) and the commit-time readings. The
+      round-4 fetches happened between the 04:58:15Z clock reading
+      and this save push; the correction is appended here rather
+      than rewriting the round-3 row in place.
+
+### Sources opened this pass (round 4, 2026-10-26)
+
+| URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
+| https://www.youtube.com/watch?v=_12aeIvlHhM (re-opened for key moments) | 2026-10-26, between the 04:58:15Z clock reading and this save push | worker-pplx-degdaosim-1026a | Komjathy Lundao 1 watch page key moments with timestamps (1:17 through 1:08:50), used for the assigned segment boundaries |
+| https://www.youtube.com/watch?v=lvglQJDrgJI (re-opened for chapters) | 2026-10-26, between the 04:58:15Z clock reading and this save push | worker-pplx-degdaosim-1026a | Van Norden documentary description chapters with timestamps (0:00:00 through 0:46:28), used for the assigned segment boundaries |
+| https://youtubetotranscript.com/transcript?v=EJ1bB2w2gBk&current_language_code=en | 2026-10-26, between the 04:58:15Z clock reading and this save push | worker-pplx-degdaosim-1026a | Ziporyn Why This Text Matters actual transcript; supporting excerpt for the interpretations attributed to Ziporyn in the module: the transcript contains the lecture's statement of the Daodejing as "a coherent anthology", the discussion of dao as "course, guide", the six meanings of de, the wu wei discussion at the assigned chapter (15:20), and the chapter 28 discussion at the assigned chapters (26:15 through 33:56); the module's Step 3 segment assignments match these printed chapter labels |
+
+Also applied: Step 2's claim that Step 3 develops each term "in full"
+was corrected to say the videos develop dao, de and wu wei in full
+and yangsheng is developed in module 4.
