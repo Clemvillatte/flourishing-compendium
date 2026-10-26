@@ -63,12 +63,14 @@ question the scope doc explicitly poses to this gate (whether the
 qigong/Neiye substitution adequately carries "the living tradition's
 practices") is RESOLVED with a bounded rationale: the bounded domain's
 practice promise is set by the exit capabilities — "practise the basics of
-the Daoist arts of living" — not by the full institutional tradition. The
-qigong practicum carries the body-cultivation side (the anchors' closest
-analogue is the Quanzhen cultivation of health and longevity, confirmed at
-Wabash weeks 9-10) and the Neiye carries the inward-training side; neither
-requires the ritual, liturgical or institutional material the owner rule
-excludes. If the owner later wants the monastic/ascetic strand, it can slot
+the Daoist arts of living" — not by the full institutional tradition. This
+is the reviewer's reasoned scope decision, not coverage established by the
+benchmarks: the Quanzhen analogue (cultivation of health and longevity,
+confirmed at Wabash weeks 9-10) shows the tradition's own practice side is
+body-and-mind cultivation, which the qigong practicum (body) and the Neiye
+(inward training) can carry without the ritual, liturgical or institutional
+material the owner rule excludes; whether the assigned materials actually
+deliver that coverage is a separate check at module design. If the owner later wants the monastic/ascetic strand, it can slot
 in as an elective branch. With that resolution the scope is coherent,
 finite and walk-centered. Carried forward, not gate-blocking:
 

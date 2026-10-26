@@ -75,23 +75,25 @@ value-proposition tests used in the psychdim review:
    practical walk is not established by the opened anchors: the pragmatism
    anchors do not include it, and the Whitehead option that verifies the
    strand is a metaphysics program (natural theology included) — the very
-   register the owner rule steers away from. Repair (bounded, no content
-   expansion): keep process thought as the Cobb-line practice expression —
-   process ideas applied to personal life and community — as an ELECTIVE
-   branch; remove it from the core exit capability (place James, Dewey and
-   Peirce in relation; process thought as context, not a fourth core
-   figure); cap its depth at the lived-experience line (event ontology as
-   a lens on lived experience, not the Whitehead metaphysics program). If
-   the owner prefers, exclusion is also consistent with the centering
-   clause — that is an owner choice; as written, core placement fails the
-   test.
+   register the owner rule steers away from. Repair (resolve the scope
+   case; any of these closes it): (a) demote process thought to an ELECTIVE
+   branch carried by the Cobb practice line (process ideas applied to
+   personal life and community), remove it from the core exit capability,
+   and cap its depth at the lived-experience line; or (b) a bounded,
+   source-grounded justification for its core place — a specific learner
+   need, a contribution beyond the classical core, and stated limits, with
+   opened sources carrying each (absence from benchmark curricula alone
+   does not disqualify it; an unresolved scope case does); or (c)
+   exclusion. As written, the core placement fails the test; the choice of
+   remedy is the degree owner's.
 2. DEWEY EDUCATION ELECTIVE (blocking as written). The elective is
    "pragmatist ethics and education (Dewey)". The ethics half is
    anchor-supported (Georgetown's Dewey volume is the Ethics one; Duke
    teaches Construction of the Good); the education half is not
-   anchor-verified and has no learner-need case on record. Repair: trim the
-   elective to the ethics half; education applications return only by an
-   owner ruling or a later anchor.
+   anchor-verified and has no learner-need case on record. Repair (same
+   pattern): either trim the elective to the ethics half, or ground the
+   education half with an opened source carrying a learner-need case for a
+   pragmatist walk of life.
 
 Routed unchanged: the Rorty-elective divergence stands as a recorded
 choice; the production prerequisite (pilot stop-gate, README 2026-10-25)

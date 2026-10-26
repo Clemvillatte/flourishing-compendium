@@ -1185,8 +1185,21 @@ The gap-register decisions (lecture 13 ch 3-6, lecture 17 ch 6-8, lecture 1
 orientation excluded under the finite-scope clause) were taken as the first
 review recommended.
 
-VERDICT: GATE 1 CLEARED (scope; independent re-review of the applied
-repairs). Standing, unchanged and outside this gate: the Phase 0 pilot
+RE-REVIEW AMENDMENT (2026-10-26, worker-pplx-deg-gate-1026a, after advisor
+milestone QC): the applied repairs themselves stand, but the re-review
+initially missed one row that fails the same elective test — the M3
+LANGUAGE elective is admitted on curricular presence ("the Yale syllabus
+covers it in one introductory class and the OYC lecture 7 candidate covers
+it at introductory level"), which is topical fit, not a learner need; the
+centering clause disqualifies exactly that. Repair owed (small, same
+pattern as affective neuroscience): either a bounded learner-need case for
+language material in a six-dimension walk of life, or exclusion with the
+affected OYC lecture 7 chapters 1-3 segment made unassigned. Until that
+disposition lands:
+
+VERDICT: GATE 1 NOT CLEARED — one small repair outstanding (the M3 language
+elective disposition); everything else from the first verdict is verified
+applied. Standing, unchanged and outside this gate: the Phase 0 pilot
 stop-gate production prerequisite (README 2026-10-25) still formally closes
 module production — the owner's ruling is still owed, and the degree owner
 is already holding M2 for it. The separate coverage gate remains to be
@@ -1200,7 +1213,7 @@ cleared by independent review.
 |---|---|---|---|
 | scope | benchmark delivered against opened curricula (see scope doc Benchmark and Exclusion review sections); wording fix from "five" to "six" dimensions; strategist review still required | worker-pplx-psychdim-1 (degree owner) | 2026-10-25 |
 | scope (Gate-1 independent review) | RETURNED WITH REPAIRS — Gate 1 NOT CLEARED: benchmark/recency claims spot-verified open and accurate; centering repair + full-test elective justification/exclusion owed per the owner's 2026-10-26 clause; pilot stop-gate recorded as unresolved production prerequisite | worker-pplx-deg-gate-1026a (deg-gate) | 2026-10-26 |
-| scope (Gate-1 re-review) | CLEARED: both blocking repairs verified applied in 4959e093 (substantive centering; explicit elective decisions, affective neuroscience bounded with stated learner need); no content expansion; pilot stop-gate production prerequisite and the separate coverage gate remain open outside this gate | worker-pplx-deg-gate-1026a (deg-gate) | 2026-10-26 |
+| scope (Gate-1 re-review) | NOT CLEARED — one small repair outstanding: the M3 language elective is admitted on curricular presence (topical fit), not a learner need; needs a bounded learner-need case or exclusion (advisor QC caught this after the initial clearance draft); both original blocking repairs verified applied in 4959e093; no content expansion; pilot stop-gate prerequisite and the separate coverage gate remain open outside this gate | worker-pplx-deg-gate-1026a (deg-gate) | 2026-10-26 |
 | scope (repairs applied) | CENTERING + ELECTIVE REPAIRS APPLIED per the Gate-1 verdict: scope doc intended learner and exit capabilities restated to the Walk-of-Life value proposition (dimensions as levers on the learner's own suffering, wisdom and flourishing); interpersonal/attraction and group-perception electives EXCLUDED with the affected segments; computational psychiatry EXCLUDED; affective neuroscience RETAINED as bounded elective with a stated learner need; progression spine exits carry the own-life orientation; matrix EXCLUDED row records the removal; re-review requested from the deg-gate reviewer | supervisor-e03fed44-degpsychdim (degree owner) | 2026-10-26 |
 | coverage | milestone delivered; independently reviewed through advisor rounds 1 to 7; the adult self-regulation gap is now grounded (Werner and Berkman 2024, Reed et al. 2020, Dang 2018, Alarcon-Espinoza et al. 2022; see the gap register), but the coverage gate is NOT cleared by the degree owner: it awaits independent confirmation at the next advisor or reviewer pass; module production also blocked by the Phase 0 pilot stop-gate | worker-pplx-psychdim-1 | 2026-10-25 |
 

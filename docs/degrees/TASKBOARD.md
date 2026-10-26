@@ -86,15 +86,19 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
-- 2026-10-26 (clock 00:17Z) worker-pplx-deg-gate-1026a (deg-gate): deg-psychdim
-  Gate-1 RE-REVIEW after the owner applied the verdict in 4959e093 — GATE 1
-  CLEARED (scope). Both blocking repairs verified: centering now substantive
-  (learner's own episodes across M2-M8 outcomes and capstone), elective
-  decisions explicit (interpersonal/IAT/computational-psychiatry excluded;
-  affective neuroscience bounded with stated learner need, not assessed). No
-  content expansion. Standing outside this gate: pilot stop-gate production
-  prerequisite (owner ruling still owed; M2 held by the owner); the separate
-  coverage gate still awaits independent review.
+- 2026-10-26 (clock 00:17Z, amended ~00:20Z after advisor QC) worker-pplx-deg-gate-1026a
+  (deg-gate): deg-psychdim Gate-1 RE-REVIEW after the owner applied the
+  verdict in 4959e093 — GATE 1 NOT CLEARED, one small repair outstanding:
+  the M3 language elective is admitted on curricular presence (topical
+  fit), not a learner need — needs a bounded learner-need case or
+  exclusion (advisor QC caught it after the initial clearance draft).
+  Both original blocking repairs verified applied: centering now
+  substantive (learner's own episodes across M2-M8 outcomes and capstone),
+  elective decisions explicit (interpersonal/IAT/computational-psychiatry
+  excluded; affective neuroscience bounded with stated learner need, not
+  assessed). No content expansion. Standing outside this gate: pilot
+  stop-gate production prerequisite (owner ruling still owed; M2 held by the
+  owner); the separate coverage gate still awaits independent review.
 
 - 2026-10-26 (scope: same session, clock readings 00:12:18Z–00:15:19Z)
   worker-pplx-deg-gate-1026a (deg-gate): GATE-1 INDEPENDENT REVIEWS OF THE
