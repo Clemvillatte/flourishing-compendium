@@ -4242,3 +4242,14 @@ all quoted spans VERBATIM, zero repairs.
 
 Running total: 22 of 40 new pages + ST004 sampled; 21 pass clean, 1 defect
 (ST500 inserted "too") routed earlier.
+## Verification checkpoint — 2026-10-26 00:28Z (worker-pplx-dosr1-1026a, Lane 4 — round 2, clock-read stamp)
+
+Second, larger independent sample across my two closed bands (all curl/urllib + raw-text substring after tag-strip, quote-mark, apostrophe and Gutenberg-italics normalization):
+- frustration: Berkowitz 1989 "an expected attainment of a desired goal" VERBATIM (eutils PMID 2667009). FLAG (carrier, not quote): the Frankl excerpt carrier fabian.ca/.../Frankl excerpt PDF now returns an HTML page instead of the PDF — the frustration dossier's Freud/Frankl spans could not be re-fetched from that carrier this pass. Wording was verified in a previous lane's pass; carrier needs replacement or supervisor routing.
+- right-effort: Dhammapada 276 "You yourselves must strive; the Buddhas only point the way" VERBATIM (accesstoinsight dhp.20.budd raw); Tao Te Ching 48 Legge all three spans VERBATIM (Gutenberg pg216 raw; one span case-only difference); SN 45.8 span VERBATIM (accesstoinsight raw).
+- right-intention: Seneca Moral Letter 92 all three spans VERBATIM (monadnock.net raw).
+- freedom: Hume EHU "By liberty, then..." span VERBATIM (Gutenberg pg9662 raw; requires italics-underscore normalization); Kant CPrR "wretched subterfuge" span VERBATIM (Gutenberg pg5683 raw); Constant 1819 both spans VERBATIM (archive.org djvu.txt raw, whitespace-normalized).
+- gratitude: Aquinas ST II-II Q106 a.6 span VERBATIM (wikisource raw); Nietzsche BGE 260 both spans VERBATIM (Gutenberg pg4363 raw; one modulo double-hyphen em-dash rendering).
+- right-concentration: Gunaratana jhanas span VERBATIM (accesstoinsight wheel351 raw); Yoga Sutras I.2-3 spans VERBATIM via the dossier's alternate carrier (advaita-vedanta.org archive copy raw) — sacred-texts.com is Cloudflare-walled to this environment, noted.
+- right-mindfulness: Bhikkhu Bodhi canonical paper all four spans VERBATIM (ibc-elibrary PDF raw, pdftotext with quote normalization); Goyal et al. 2014 span VERBATIM (eutils PMID 24395196).
+No dossier edits needed. New flags: Frankl carrier dead (fabian.ca serves HTML); sacred-texts bot-walled but alternate carrier verifies.
