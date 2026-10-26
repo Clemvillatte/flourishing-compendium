@@ -1,8 +1,8 @@
 # QC sample — deg-wol-daoism-m5-quotes-1026f.md
 
 **Worker**: worker-pplx-verify-1026g, deg-verify-b baton, verification lane
-(read-only on modules/ledgers). **Date**: 2026-10-26T09:57Z measured clock
-(~34m elapsed of the 60m run). **Scope**: independent re-verification of the
+(read-only on modules/ledgers). **Date**: 2026-10-26T09:55Z measured clock
+(~32m elapsed of the 60m run). **Scope**: independent re-verification of the
 1026f receipt's load-bearing claims against the exact cited URL.
 
 ## Findings
