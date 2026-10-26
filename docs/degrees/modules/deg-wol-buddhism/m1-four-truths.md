@@ -19,8 +19,8 @@ looking at it honestly.
   assigned video segment is the ethics-first entry point; m2 develops
   the ethical core (precepts and the four immeasurables) in depth.
 - Prerequisites: none.
-- Time: about 3 hours 37 minutes of labelled work (see Workload
-  arithmetic), plus a three-day practice journal woven through your days.
+- Time: about 3 hours 37 minutes of labelled work, including 45 minutes
+  of practice spread across three days (see Workload arithmetic).
 
 ## Outcomes
 

@@ -51,9 +51,10 @@ consistent with outcome 3's allowance for outside harm and uncertainty.
 ## Receipt corrections applied to the main ledger this pass
 
 - The Kirchner Buddhist Society series receipt was upgraded from
-  search-discovered to directly opened (cloud browser, 04:57-04:58Z):
+  search-discovered to directly opened (cloud browser; event time not
+  precisely recorded, between the 04:57:01Z and 04:59:41Z clock readings):
   lecture titles, dates, Lecture 1 outline and the full biography
-  confirmed on the institutional page. RESOLVED at 05:09Z: the
+  confirmed on the institutional page. RESOLVED in a later pass (event time not recorded): the
   Rinzai/Soto meditation description was directly read on the opened
   page and belongs to Lecture 3, "Thoughts on Meditation" (3rd July);
   the Lecture 2 description (What Can Christianity Offer Zen?) was also
