@@ -1,9 +1,9 @@
 {
  "band": "deg-wol-buddhism",
  "kind": "degree",
- "holder": null,
- "phase": "awaiting-launch",
+ "holder": "worker-pplx-buddhism-1026a",
+ "phase": "module-production",
  "modules": {},
- "notes": "New degree per owner directive 2026-10-25; scope doc in scope/; raw material noted in the scope doc",
+ "notes": "Wave-2 production owner. Gate 1 cleared (independent review, deg-gate). Module map + coverage matrix being written to scope doc and ledger; M1 first.",
  "updated": "2026-10-25T07:43:18+00:00"
 }
