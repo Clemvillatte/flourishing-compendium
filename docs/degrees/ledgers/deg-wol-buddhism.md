@@ -447,3 +447,17 @@ Zen-informed sitting (Soto register per the lecture) added to the b4
 log format. The verify lane's earlier caveat (video-page verification
 owed for the Kirchner recordings) is now DISCHARGED by this session's
 watch-page opens.
+
+## Module b8 (capstone) drafted; walk module set complete (2026-10-26, worker-pplx-buddhism-1026a)
+
+b8 (capstone, L4) drafted at docs/degrees/modules/deg-wol-buddhism/b8-capstone.md:
+eight-week sustained practice with records + one ethical case through the
+full toolkit + a 1,200-word defended synthesis with a serious objection and
+a written self-assessment against a public rubric. No new sources (by
+design; the capstone integrates b1-b7's verified materials). Workload ~12 h
+across eight weeks. With b8 drafted, the walk's module set (b1-b8) is
+COMPLETE IN DRAFT: b1 ethics-first (v3), b2 four truths (v2), b3 sila in
+practice, b4 foundational meditations (v2), b5 Thai Forest way, b6 Zen,
+b7 Insight and Secular, b8 capstone. ALL await supervisor module-QC; the
+m1-four-truths alternative draft from the parallel session remains on the
+board for the canonical-draft decision.
