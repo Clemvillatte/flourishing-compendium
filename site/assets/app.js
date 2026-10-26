@@ -8379,6 +8379,10 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
+          "x": "Rupert develops this objection at length in a Journal of Philosophy article that sets the hypothesis of embedded cognition against the hypothesis of extended cognition ([Rupert, Journal of Philosophy 101(8), 2004](https://philarchive.org/archive/RUPCTT)). I located the full text but could not open it this session, so his wording above reaches the dossier through the SEP exposition."
+        },
+        {
+          "t": "p",
           "x": "The two positions answer the same question, whether the notebook functions as part of the cognitive system or as a tool the system uses, with opposing answers, each stated above. What the dispute turns on is whether parity of function is enough for constitution, or whether constitution demands more than a tool's usefulness; nothing here adjudicates between them."
         },
         {
@@ -10044,7 +10048,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Locke and Latham, the theory's founders, replied in the same issue. [CBS News](https://www.cbsnews.com/news/when-academics-go-wild-a-scholarly-scuffle/) reports that they took the critics to task for \"an over-reliance on anecdotal evidence and generally poor scholarship\", quoting their line that the authors \"would do well to abandon their roles as reporters with an axe to grind and embrace good scholarship\"."
+          "x": "Locke and Latham, the theory's founders, replied in the same issue with Has Goal Setting Gone Wild, or Have Its Attackers Abandoned Good Scholarship? (Academy of Management Perspectives 23(1), 2009, pp. 17-23; the reply is closed access, and the line quoted below reaches the dossier through CBS News's report of it). [CBS News](https://www.cbsnews.com/news/when-academics-go-wild-a-scholarly-scuffle/) reports that they took the critics to task for \"an over-reliance on anecdotal evidence and generally poor scholarship\", quoting their line that the authors \"would do well to abandon their roles as reporters with an axe to grind and embrace good scholarship\"."
         },
         {
           "t": "p",
@@ -10108,11 +10112,38 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The review itself was challenged. Colvin and Block examined its logic and evidence and concluded that the case \"failed to substantiate Taylor and Brown's thesis\" ([Colvin and Block, Psychological Bulletin 1994, abstract](https://pubmed.ncbi.nlm.nih.gov/8078973/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=8078973&rettype=abstract&retmode=text))."
+          "x": "The review itself was challenged. Colvin and Block examined its logic and evidence and published their verdict in the same journal:"
+        },
+        {
+          "t": "q",
+          "x": "\"An examination of the logic and empirical evidence used to relate mental health to three key positive illusions--unrealistically positive views of the self, illusions of control, and unrealistic optimism--failed to substantiate Taylor and Brown's thesis... The present article concludes that it remains unproven that positive illusions foster mental health.\" ([Colvin and Block, Psychological Bulletin 1994, abstract](https://pubmed.ncbi.nlm.nih.gov/8078973/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=8078973&rettype=abstract&retmode=text))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "The sources measure different things. Taylor and Brown review overly positive self-views, exaggerated control and unrealistic optimism, which are beliefs about the self and the odds. Oettingen and Mayer separate a judgment of likelihood from the experience of imagining a pleasant future, and only the imagining predicted lower effort. I do not read the two as a direct contradiction, and neither abstract settles whether an unrealistic belief about the odds helps effort. My lean, which is mine, is that the practical advice differs more than the evidence does: the goals literature gathered here treats the hopeful image as a place to start and the obstacle as the thing to plan around. Limits: I read the abstracts of Oettingen and Mayer and Colvin and Block, not the full articles, and I did not open Taylor and Brown's 1994 reply."
+          "x": "Taylor and Brown's reply, again in the same journal, met the charge on the evidence:"
+        },
+        {
+          "t": "q",
+          "x": "\"To summarize, we asked two questions of the literature on people's self-aggrandizing beliefs about themselves: Are these beliefs illusory, and are they linked to the criteria and tasks normally associated with mental health? On these points, we believe our 1988 assertions are buttressed, not challenged, by subsequent evidence from the experimental literature and from real-world samples.\" ([Taylor and Brown, Psychological Bulletin 1994](https://taylorlab.psych.ucla.edu/wp-content/uploads/sites/5/2014/10/1994_Positive-Illusions-and-Well-Being-Revisited_Separating-Fact-from-Fiction.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "and closed by reaffirming the thesis:"
+        },
+        {
+          "t": "q",
+          "x": "\"In conclusion, we reaffirm the basic principles of the Taylor and Brown (1988) position. We maintain that self-aggrandizing self-perceptions, an illusion of control, and unrealistic optimism are widespread in normal human thought. We further maintain that these 'illusions' foster the criteria normally associated with mental health.\" ([Taylor and Brown, Psychological Bulletin 1994](https://taylorlab.psych.ucla.edu/wp-content/uploads/sites/5/2014/10/1994_Positive-Illusions-and-Well-Being-Revisited_Separating-Fact-from-Fiction.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "That exchange is a genuine disagreement about what the evidence shows: one side reads the studies as failing to substantiate the thesis, the other reads them as buttressing it. It does not settle whether an unrealistic belief about the odds helps effort in a particular pursuit."
+        },
+        {
+          "t": "p",
+          "x": "The sources measure different things. Taylor and Brown review overly positive self-views, exaggerated control and unrealistic optimism, which are beliefs about the self and the odds. Oettingen and Mayer separate a judgment of likelihood from the experience of imagining a pleasant future, and only the imagining predicted lower effort. I do not read the two as a direct contradiction, and neither abstract settles whether an unrealistic belief about the odds helps effort. My lean, which is mine, is that the practical advice differs more than the evidence does: the goals literature gathered here treats the hopeful image as a place to start and the obstacle as the thing to plan around. Limits: I read the abstracts of Oettingen and Mayer and Colvin and Block, and the opening and conclusion of Taylor and Brown's 1994 reply, not the full 1994 critique."
         },
         {
           "t": "h",
@@ -10485,7 +10516,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Their later reply to a critic restates the ranking as a claim about culture as well as development, defending the view that \"primary control striving holds functional primacy throughout the life span and across cultural and historical settings\" ([Heckhausen and Schulz, Psychological Review 1999, abstract](https://pubmed.ncbi.nlm.nih.gov/10467898/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=10467898&rettype=abstract&retmode=text)). That reply answers a 1999 critique by Gould, which I know only from the reply's abstract."
+          "x": "Their later reply to a critic restates the ranking as a claim about culture as well as development, defending the view that \"primary control striving holds functional primacy throughout the life span and across cultural and historical settings\" ([Heckhausen and Schulz, Psychological Review 1999, abstract](https://pubmed.ncbi.nlm.nih.gov/10467898/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=10467898&rettype=abstract&retmode=text))."
+        },
+        {
+          "t": "p",
+          "x": "That reply answers a critique printed in the same journal a few pages earlier, Gould's article A critique of Heckhausen and Schulz's (1995) life-span theory of control from a cross-cultural perspective ([Psychological Review 106(3), 1999](https://doi.org/10.1037/0033-295X.106.3.597)), and the reply's own abstract names the first issue at stake as \"the universal claim that primary control holds functional primacy over secondary control\" ([same abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=10467898&rettype=abstract&retmode=text)). Gould contested that claim; Heckhausen and Schulz defended it. On whether primary control holds functional primacy across cultures and the life span, the two sides give opposite answers in the same journal. I read the reply's abstract, and Gould's title and placement from the record; I did not obtain an open copy of his text, so his side reaches me through the reply's account of it."
         },
         {
           "t": "p",
@@ -10493,7 +10528,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "My lean, which is mine and not a finding of either paper, is that a person who accepts a situation they cannot change is exercising agency, and the 1995 ranking is easier to defend for the span of a life than for a single hard moment. Limits: I read only the abstracts, plus the reply's statement of the cultural claim. I did not read Gould's critique or the empirical studies on either side."
+          "x": "My lean, which is mine and not a finding of either paper, is that a person who accepts a situation they cannot change is exercising agency, and the 1995 ranking is easier to defend for the span of a life than for a single hard moment. Limits: I read the abstracts, plus the reply's account of Gould's critique; I did not read Gould's text or the empirical studies on either side."
         },
         {
           "t": "h",
