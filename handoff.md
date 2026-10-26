@@ -3915,28 +3915,31 @@ docs/enrichment/qc/QC-SAMPLE-DOSR5-2026-10-26.md samples 8-17.
 
 ## deg-wol-pragmatism m4 preparation addendum (2026-10-26, clock 05:21:01Z measured, worker-pplx-pragmatism-1026b)
 
-- m4 (Dewey) preparation done, no module written: video-first search
-  recorded with candidates for the next session to open and verify
-  (playback, captions, coverage and institutional verification of the
-  UCSC instructor all pending). Identity on the record: Bernstein
-  lecture (H_G73CAI5Hc, 57:05 per listing) oembed-confirmed title and
-  Philosophy Overdose channel (third-party aggregator), credentials
-  verified on the New School institutional page; Sprintzen two-part
-  Dewey lectures (-FpUPyhsQV8 57:23, SRnY1Bx4G0s 1:01:11 per
-  listings) have presenter credentials verified on LIU institutional
-  pages, no oembed identity check yet, Dewey focus from a search
+- m4 (Dewey) preparation done, no module written: video-first
+  search recorded with three candidate groups comprising four
+  recordings for the next session to open and verify. Oembed
+  metadata identity is on record for all four (checked directly
+  this session): Bernstein "John Dewey & his Relevance Today"
+  (H_G73CAI5Hc, 57:05 per listing, Philosophy Overdose channel, a
+  third-party aggregator), credentials verified on the New School
+  institutional page; Sprintzen two-part "Leading Ethical and
+  Humanist Thinkers: John Dewey" (-FpUPyhsQV8 57:23,
+  SRnY1Bx4G0s 1:01:11 per listings, New York Society for Ethical
+  Culture channel, the host venue), presenter credentials
+  verified on LIU institutional pages, Dewey focus from a search
   excerpt; UCSC PHIL 112 "American Philosophy: Dewey, lecture 1"
-  (KqJ9uyYFe2E, 1:32:10 per listing) oembed-confirmed title and
-  "Abraham Stone" channel, the channel being the instructor's own
-  is from the search snippet. All durations provisional. Details and
-  corrections in the band ledger.
-- Final verification pass recorded in the ledger: the word
-  sequences of all source-attributed quotations in m2 and m3 are
-  present in the fetched sources (letters-only matching, stitched
-  spans checked part by part; four m3 spans differ in punctuation
-  or capitalization only; punctuation was not re-audited; the
-  production-time receipts stand for that; unmatched spans are the
-  labeled constructed examples and rubric prose). The m1 Philosophy
-  Talk video was also tried on the timedtext route: that fetch
-  failed and returned no data, so caption availability remains
-  unverified; the two earlier routes met the documented bot-check.
+  (KqJ9uyYFe2E, 1:32:10 per listing, "Abraham Stone" channel,
+  the channel being the instructor's own is from the search
+  snippet, no institutional credential check yet). Playback,
+  captions, coverage and durations all pending; durations
+  provisional from listings. Details and corrections in the band
+  ledger.
+- Final quotation pass (this session's continuation): automated
+  quoted-span extraction with permissive character matching. It
+  did not establish exhaustive quotation coverage, exact wording
+  or source-specific attribution; a complete quotation re-audit
+  remains pending. Unmatched spans were the labeled constructed
+  examples and rubric prose. The m1 Philosophy Talk video was
+  also tried on the timedtext route: the fetch failed; no caption
+  data was obtained, so caption availability remains unverified;
+  the two earlier routes met the documented bot-check.
