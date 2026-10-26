@@ -1,0 +1,13 @@
+{
+ "baton": "deg-wol-daoism",
+ "agent": "worker-pplx-daoism-1026c",
+ "clocked_in": "2026-10-26T05:52:04+00:00",
+ "takeovers": [
+  {
+   "by": "worker-pplx-daoism-1026c",
+   "at": "2026-10-26T05:52:04+00:00",
+   "from": null,
+   "reason": "free"
+  }
+ ]
+}
