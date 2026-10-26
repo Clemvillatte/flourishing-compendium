@@ -309,10 +309,12 @@ For the m1 gap register's Neiye dependency (Roth's book not uploaded):
   different translator from Roth; the module text would need to quote
   Linnell's wording, not Roth's).
 - Eno's own Neiye translation ("Guanzi: The Inner Enterprise", 2005):
-  the original www.indiana.edu/~p374/Inner_Enterprise.pdf is dead
-  (redirects to bloomington.iu.edu, re-confirmed this pass). A chinatxt
-  mirror is cited as the live source by factsanddetails.com (opened this
-  pass): chinatxt.sitehost.iu.edu/Thought/Inner_Enterprise.pdf — but
+  the original www.indiana.edu/~p374/Neiye.pdf redirects to
+  bloomington.iu.edu (checked this pass); the Inner_Enterprise.pdf URL
+  was NOT re-tested this pass — its status is inherited from the earlier
+  dead-link finding, not re-confirmed. A chinatxt
+  mirror is cited as the live source by factsanddetails.com (search
+  excerpt only; that page was not opened this pass): chinatxt.sitehost.iu.edu/Thought/Inner_Enterprise.pdf — but
   that host is UNREACHABLE from this environment (robots-blocked for the
   page reader, connection failed from the sandbox), so the Eno carrier
   cannot be verified here; recorded as environment limitation, not a
@@ -328,5 +330,8 @@ For the m1 gap register's Neiye dependency (Roth's book not uploaded):
   this session (D-T05/D-T06); the owner's round-2 repairs state the
   quotes were taken from full downloads of those PDFs (ledger, round-4
   entry). Independent quote-level re-check attempted this pass was
-  BLOCKED (bitstream now unreachable from this environment — IP block
-  then DNS failure); owner's download claim stands unrefuted.
+  NOT COMPLETED: the scholarworks.iu.edu bitstream download URL was
+  reachable but too large for the page reader (parse failure), and the
+  l.iu.edu short form failed DNS from this environment; the owner's
+  download claim stands unrefuted. The carrier's earlier verification
+  (D-T05/D-T06, opened this session) is unaffected.

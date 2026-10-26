@@ -399,9 +399,10 @@ by opening it (M05-YV-04), 1 page retrieval unresolved (ST-06).
 Manifest recomputed this pass from fcAcademyData: the prior pass's
 even-parity rule was not stated in the file; SHA-1 last-hex-digit parity on
 the canonical URL reproduces the prior pass's done-set exactly (all 60
-batch 1-2 records fall in the even set; 141 even records now vs 140 then,
-one even-parity record added since). That rule is used here and recorded
-as the working rule for this share. 74 of the 81 remaining even-parity
+batch 1-2 records fall in the even set). Current reconstruction yields
+141 even records vs the previously reported 140; the difference is
+unexplained. The rule is PROVISIONAL: recorded as the working rule for
+this share, not as a recovered original manifest. 74 of the 81 remaining even-parity
 records are YouTube; oembed metadata was requested per record and the
 platform-returned title compared against the fcAcademyData record title.
 Same limitations as batches 1-2: oembed establishes available metadata
@@ -501,8 +502,10 @@ Not opened this batch (non-YouTube, 7 records, owed to the next pass):
 - PSY-101: https://the-psychology-lab.vercel.app/
 
 Aggregate: 74 oembed responses, 0 failures; 54 consistent on normalized
-comparison, 20 title variants recorded above, 0 clear identity mismatches
-(no record's platform title names a different event).
+comparison, 20 title variants recorded above. Identity for the variant
+records and for any record whose platform title differs materially
+remains UNRESOLVED at this depth (not established as same-event); resolve
+on the watch pages in the full pass.
 
 
 ## Batch 3 addendum: non-YouTube records (2026-10-26, 2026-10-26T05:06Z, worker-pplx-degverifya-1026d, 7 records)
@@ -541,8 +544,9 @@ establishable from page text; no record flipped to verified.
   Variations 12e (Weiten & Gurung 2027), 15 chapters plus Appendix A;
   free-access statement absent; no login wall encountered in the fetch.
 
-Batch 3 totals: 81 of the 81 remaining even-parity records triaged this
-pass (74 YouTube oembed + 7 non-YouTube opened). Even-parity share now
-fully covered at metadata-triage depth; the full skill-section-4 pass
+Batch 3 totals: all 81 additional records selected by the provisional
+SHA-1 rule were triaged this pass (74 YouTube oembed + 7 non-YouTube
+opened). Coverage of the even-parity share at metadata-triage depth is
+claimed only under that provisional rule; the full skill-section-4 pass
 (playback, duration, credentials, coverage) remains owed for all 141
 even-parity records as before.
