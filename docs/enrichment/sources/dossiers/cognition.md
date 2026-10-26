@@ -745,3 +745,14 @@ Wayback philarchive preprint route used for the original extraction.
 The published pagination matches the page cites in the dossier
 (pp. 390, 395, 402). philarchive stays environment-blocked; the
 Wayback id_ route remains the documented fallback.
+
+Quote-verify note (2026-10-26 10:00:30Z, supervisor-pplx-1026p):
+27 checked / 6 not found. New exception this run: the Haidt 2003
+reply span on the OpenAlex API carrier fails the verifier's fetch
+(rate-limited or header-rejected API call) but the span was
+independently re-verified by me on the OpenAlex record earlier this
+session (documented in the 09:43:06Z post-review entry; verbatim
+including the reply title). Exception class: API-fetched carriers.
+The Rupert spans now dual-carry (CU Boulder mirror primary —
+sandbox-gated like philarchive; Wayback preprint fallback —
+auto-verifies).
