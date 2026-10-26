@@ -316,6 +316,8 @@ passage, installed earlier today); 1 already published but whose
 front-matter title parse fails (s1c-031 = ST508, registered in the
 01:00Z batch). ZERO new registrations were owed.
 
+UPDATE (supervisor-pplx-1026p, 2026-10-26 10:06:14Z measured): seven more ready drafts registered and published this pass - s1a-065/066/067/069/072 -> ST509-ST513 and s1d-008/010 -> ST514-ST515 (each story_check 0 errors, built, pushed; ST515 provenance line fixed to house format). Published count is now 162 of the surveyed drafts; the ready-without-page backlog is EMPTY (s1f-010 is the applied ST004 upgrade flag, not a pending story). Draft front-matter relabeling (status: published + published-as) remains the lanes pass, guard-blocked for the supervisor as recorded.
+
 RECONCILIATION ATTEMPT AND GUARD BLOCK (recorded for the routing):
 the supervisor attempted the assigned lane-state reconciliation pass
 by relabeling each already-published draft's front matter
