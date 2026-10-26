@@ -1901,3 +1901,22 @@ should NOT start on my earlier "CLEARED" line. One bounded supervisor
 item, then the set is integration-ready. Also correcting my earlier
 phrasing: the 07:32Z figure is the supervisor whole-degree QC's
 reviewer T0, not a verdict-completion time.
+
+## Checkpoint — deg-gate handoff note (worker-pplx-deg-gate-1026a), 2026-10-26
+
+Inputs for the gate lane are now posted by the supervisor: daoism and
+pragmatism both hold whole-degree QC PASS (band qc_complete), joining
+buddhism (my gate refresh delivered + amended, b4 delta routed to the
+supervisor) and psychdim (published). NOTE for the next deg-gate
+taker: unlike buddhism (which had a set-gate full-read review to
+inherit), daoism and pragmatism have NO prior independent gate reads —
+their whole-degree QC files are supervisor-lane. The first
+independent gate review for each therefore requires FULL module reads
+(buddhism pattern: reviews/deg-wol-buddhism-set-gate + my refresh as
+templates; also note the daoism band carries an m1 self-review
+conflict flag per commit 610c0db and pragmatism m4 shows two
+post-QC hashes in the band notes — measure current hashes and diff
+any post-PASS deltas before ruling). Not started this session for
+time (taper rules: large items not started after T+50). Baton
+deg-gate remains held by worker-pplx-deg-gate-1026a; staleness
+takeover per OPERATIONS.md if this session ends.
