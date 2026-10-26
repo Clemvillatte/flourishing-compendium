@@ -19,7 +19,7 @@ Exclusion review).
 | Read an own episode of suffering/flourishing across the six EEMM dimensions, dimensions as levers | m1 (map install, outcome 1); m2–m7 (one dimension each) | m1–m7 module docs, QC PASS; all assigned media transcribed in the manifest | mod-pd-1..7 present with required media; all manifest reading assignments verified against docs this session | COVERED |
 | Read current research critically (design, evidence type, effect size, replication status; stable vs moving findings) | m1 (outcome 3) and the critique strand in every dimension module | m1 outcomes; per-module "distinguishing stable findings" work | Published; the critique prose lives in module text, not the data block | COVERED |
 | Run the EEMM on a real behavioural pattern (variation, selection, retention, context; levels of analysis; mechanisms vs outcomes; choosing an intervention point) | m1 (outcome 4); m7 (diary + pattern work) | m1 outcome 4; m7 diary hypothesis and alternative | Published | COVERED |
-| Capstone: design, execute and self-assess one safe real-life change using all six dimensions, with honest evidence | m8 | m8 module doc (QC PASS); 8 capstone-return sources, no new reading | mod-pd-8 present; 8 of 9 listed capstone sources verified against m8 prose; PD-M1-07 (Woolley 2025) has no m8 prose cite | INTEGRATION-LOSS (one listing, removal recommended — see manifest) |
+| Capstone: design, execute and self-assess one safe real-life change using all six dimensions, with honest evidence | m8 | m8 module doc (QC PASS); capstone-return sources, no new reading | mod-pd-8 present with 9 required listings; 7 verified against m8 prose (Hofmann, Maitland, Martinez-Priego, Singh, Manchiraju, Carden/Wood, Fan ANT); PD-M1-07 (Woolley) and PD-M7-10 (Vohs) are not cited in m8 prose | UNRESOLVED (two listings — see below) |
 
 ## Bounded domain topics
 
@@ -31,39 +31,60 @@ Exclusion review).
 | Self and identity (self-concept, clarity, SCCS, narrative) | m5 | Maitland 2024; Manchiraju 2026; SCCS material | Present | COVERED |
 | Motivational dimension (motives, values, curiosity, adherence) | m6 | Woolley 2025; SDT material; adherence evidence | Present | COVERED |
 | Overt behavioural dimension (habit, context, diary) | m7 | Wood video; Carden & Wood 2018; Singh 2024; Werner & Berkman 2024; Reed 2020; Alarcón-Espinoza 2022 | Present; all spans verified this session (the Alarcón accent grep miss corrected in the manifest) | COVERED |
-| Capstone integrating the dimensions on one real pattern | m8 | m8 doc; 8 capstone-return sources | Present, minus the Woolley listing noted above | INTEGRATION-LOSS (one listing) |
+| Capstone integrating the dimensions on one real pattern | m8 | m8 doc; capstone-return sources | Present; two of the nine m8 listings (Woolley, Vohs) are unresolved — see below | UNRESOLVED (two listings) |
 | State-of-the-art reviews and current debates per dimension | m2–m7 | 2024–2026 reviews and replies are the assigned spine of every dimension module | Published | COVERED |
+
+## Unresolved m8 listings (routed, not confirmed extras)
+
+| Source | Module | Finding | Status |
+|---|---|---|---|
+| PD-M1-07 Woolley 2025 | mod-pd-8 required | Assigned in m6 (Abstract; one paragraph); not cited in m8 prose. The m8 doc permits general reuse of previously studied sources without naming per-source, so the missing citation does not establish exclusion | UNRESOLVED — owner/schema-lane decision whether the m8 listing stays |
+| PD-M7-10 Vohs 2021 (data block mislabels it "Heidbreder") | mod-pd-8 required | Assigned in m7 (Abstract and Methods' "Participants" subsection only); not cited in m8 prose; same non-discriminating general-reuse instruction | UNRESOLVED — same decision point; the m7 assignment stands either way |
 
 ## Data-block extras (not in the design)
 
 | Source | Module | Finding | Status |
 |---|---|---|---|
 | PD-M3-07 Bazerman, Judgment and Decision Making (Noba) | mod-pd-3 required | No Bazerman assignment in any psychdim module doc (checked all eight; the m3 Noba links are conditioning-and-learning and memory only) | UNRESOLVED — remove from required, or owner decision if a judgment reading is wanted |
-| PD-M1-07 Woolley 2025 in m8 | mod-pd-8 required | Assigned in m6, not cited in m8 prose | UNRESOLVED — removal recommended (keep in m6) |
 
 ## Structural defects for the schema/text lanes (category a, values already in the manifest)
 
 - PD-M7-10 is titled "Heidbreder, consciousness review article" but is the Vohs et al. 2021 manuscript; retitle with the bounded locator (Abstract and Methods' "Participants" subsection only).
 - PD-M3-03 window error and PD-M3-04's dropped second window (see Cognitive row above).
-- Full-duplicate reuses across modules (PD-M3-02, PD-M3-01, PD-M3-05, and the eight mod-pd-8 capstone returns) are legitimate design revisits; the Phase A assignment object (segments + role=revisit) dissolves the audit FAILs without touching the design.
-- Missing locators/durations in the data block: every text source needs its locator (verified in the manifest) and every video its printed window; the learner-content file supplies titles, descriptions and the openingNote.
+- Full-duplicate reuses across modules (PD-M3-02, PD-M3-01, PD-M3-05, and the mod-pd-8 capstone returns) are legitimate design revisits; the Phase A assignment object (segments + role=revisit) dissolves the audit FAILs without touching the design.
+- Missing locators/durations in the data block: every text source needs its locator (verified in the manifest, except the routed Gross 1998 UNRESOLVED-LOCATOR) and every video its printed window; the learner-content file supplies titles, descriptions and the openingNote.
+- The learner audit currently reports 156 defects across the four degrees (exit code 3); the psychdim share is dominated by the missing locators/durations and level-code descriptions itemized here and in the learner-content file — the audit gate is NOT clean and this matrix does not claim it is.
 
 ## Intentionally excluded (category c, per the scope's Exclusion review)
 
 - Clinical protocols as treatment (legacy deg-therapeutic material stays legacy; mechanism-testing clinical studies stay in as dimension evidence).
 - Wellbeing science as outcomes (owned by A Walk of Life: Positive Psychology; outcome evidence admissible where an opened dimension source uses it).
+- Contemplative doctrine (practica); contemplative science appears as attentional evidence only.
+- Interpersonal and attraction material (liking, proximity, mere exposure) — excluded under the 2026-10-26 centering repair; re-admission possible on a stated learner need.
+- Group perception material (stereotypes, stereotype threat, implicit attitudes, the IAT) — same repair.
+- Computational psychiatry primers — same repair.
+- Affective neuroscience as a standalone elective — excluded under the when-in-doubt-exclude rule (neuroscience needed to explain a core source stays with that source).
 - The language elective (admitted on topical fit, resolved by exclusion at re-review; recorded in the ledger).
 
 ## Open opportunity (owner decision, not taken)
 
 - Wiki readings: psychdim sources with existing dossier/kernel pages could be linked from module docs; the finite-scope rule keeps this out until the owner asks for it.
 
-## Verdict
+## Verdict (provisional)
 
-Every approved exit capability and every bounded-domain topic has assigned,
-QC-passed evidence in the design, and the published data block carries it. No
-category (b) gap exists (nothing approved is absent from the design). The
-defects are category (a) integration losses plus two data-block extras, all
-itemized above with their remedies, and all already recorded in
-deg-psychdim-manifest.json and deg-psychdim-learner-content.json for the
-schema and text lanes.
+Design coverage: every approved exit capability and bounded-domain topic has
+assigned, QC-passed evidence in the design (the scope doc's own coverage
+summary matrix maps each family to a module with practice and assessment,
+and the module docs carry it). No category (b) gap was found in that mapping.
+
+Publication fidelity: the published data block carries the design's sources,
+with the itemized category (a) losses (window errors, mislabel, missing
+locators/durations, level-code descriptions) plus one confirmed data-block
+extra (PD-M3-07) and two unresolved m8 listings (PD-M1-07, PD-M7-10) routed
+above. This verdict is PROVISIONAL: competency coverage here is traced at the
+family-to-module level via the scope's coverage summary; a per-capability
+deep trace (teaching passage → activity → assessment → published assignment)
+was not re-derived in this session beyond that mapping, and the learner audit
+still reports 156 defects across the four degrees. All values needed to close
+the gaps are recorded in deg-psychdim-manifest.json and
+deg-psychdim-learner-content.json for the schema and text lanes.
