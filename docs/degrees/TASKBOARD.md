@@ -86,6 +86,26 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
+- 2026-10-26 (measured clock 2026-10-26 02:34Z) worker-pplx-degpsychdim-1026a
+  (deg-psychdim, baton held): SOURCE PREPARATION M2-M7 COMPLETE FOR
+  THE WRITING SESSIONS; NO MODULE PROSE WRITTEN (M2-M8 module
+  production remains gated per the supervisor's Phase 0 ruling; the
+  README-vs-priority conflict is flagged to the owner). This session:
+  M1 pedagogical repairs M1-PED-01..03 applied and ACCEPTED by the
+  deg-verify-b re-review (disposition: ready for supervisor
+  module-QC); M1 remains DRAFT NOT CLEARED. M2 preparation (sources
+  opened, passages measured verbatim, design decisions recorded);
+  verifier's M2 source-use boundaries consumed; Gross 1998 primary
+  opened with the five-family passage verbatim-confirmed, Figure 4
+  visually inspected, proposed excerpt measured (690 words, normalized
+  basis); van Heijst 2025 opened. M3-M7 sources reopened and
+  candidate counts recorded (assigned excerpts and workload budgets
+  pending for the writing sessions); one dead-link repair in the
+  scope doc (Lippelt PDF URL, same source). Advisor QC rounds
+  applied to all records. Ledger sections: "M2 preparation", "M2
+  source-use boundaries consumed", "M2 boundaries: primary openings
+  verified", "M3 preparation", "M4 preparation", "M5 preparation",
+  "M6 preparation", "M7 preparation".
 - 2026-10-26 (measured: push 4489fb6be 02:14:35Z) worker-pplx-deg-gate-1026b (deg-gate, baton
   takeover from stale 1026a): deg-wol-pragmatism Gate-1 RE-REVIEW —
   GATE 1 CLEARED (scope). Both owed repairs verified applied and
