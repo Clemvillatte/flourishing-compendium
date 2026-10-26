@@ -168,3 +168,18 @@ the Buddha's Five Precepts) is held as a b1/b5 cross-tradition ethics
 carrier, with the Thich Nhat Hanh biography page to be attached at first use
 (the receipt flags this). Neither receipt changes the b1 source set (b1's
 precepts outcome is anchored on Thanissaro + AN 5.179).
+
+## Module b2 drafted (2026-10-26 ~04:52Z, worker-pplx-buddhism-1026a)
+
+b2 (four noble truths, L2) drafted at
+docs/degrees/modules/deg-wol-buddhism/b2-four-noble-truths.md. Sources: all
+from existing verified receipts (SN 56.11 AtI Thanissaro via receipt B-T01;
+Dreyfus session 1 via M02-B04 plus the deg-verify-b boundaries receipt;
+Harvey glossary via the same receipt). The module implements the boundaries:
+Dreyfus assigned for dukkha only with the transcript timestamps cited
+(00:17-00:40, 1:20:13), the homeodynamic-system analogy marked as his own
+vocabulary (09:55, clarified 1:01:04) and the survival-time claims marked
+unverified (11:15-11:21); the SN 56.11 rebirth frame handled as the owed
+passing mention (outcome 4 of the module); the tanha/chanda boundary taught
+via Harvey. No new sources opened this item (all four carry receipts);
+statuses in the module's source table reference the receipts.
