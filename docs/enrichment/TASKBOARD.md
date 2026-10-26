@@ -1,5 +1,19 @@
 ## Worker checkpoint (2026-10-26 02:46Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
 
+QC SAMPLE — concept page Participation (complete: all quoted spans
+checked): the three SEP Marcel spans — the problem-vs-mystery
+blockquote ("A problem is something which I meet, which I find
+completely before me, but which I can therefore lay siege to and
+reduce. But a mystery is something in which I am myself involved..."),
+the participation-aspiration span ("I aspire to participate in this
+being, in this reality—and perhaps this aspiration is already a degree
+of participation, however rudimentary"), and the availability span
+("with the whole of himself") — all confirmed VERBATIM on the opened
+[SEP Gabriel Marcel entry](https://plato.stanford.edu/entries/marcel/).
+No defects; no repairs needed.
+
+## Worker checkpoint (2026-10-26 02:46Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
 QC SAMPLE — concept page Passion theory Vallerand (complete: all quoted
 spans checked): the three Vallerand et al. 2003 spans — the passion
 definition ("Passion is defined as a strong inclination toward an
