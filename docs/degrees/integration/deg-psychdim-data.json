@@ -1,0 +1,1271 @@
+{
+ "degree": {
+  "id": "deg-psychdim",
+  "modules": [
+   "mod-pd-1",
+   "mod-pd-2",
+   "mod-pd-3",
+   "mod-pd-4",
+   "mod-pd-5",
+   "mod-pd-6",
+   "mod-pd-7",
+   "mod-pd-8"
+  ],
+  "status": "in-development"
+ },
+ "modules": {
+  "mod-pd-1": {
+   "id": "mod-pd-1",
+   "degree_id": "deg-psychdim",
+   "title": "Orientation",
+   "question": "What do psychologists currently know about the processes that carry a life, and how can you read that research well enough to use it?",
+   "description": "L1 - Use the framework and appraise research without statistical overclaims.",
+   "outcomes": [
+    "Define the six psychological dimensions of the extended evolutionary meta-model (affect, cognition, self, attention, motivation, overt behaviour) in your own words, giving one example of each from your own life, so the dimensions work as levers you can locate rather than categories to memorise.",
+    "Explain the variation-selection-retention-context frame in your own words and apply it to one behaviour of your own, naming which part is the variation, which the selection, which the retention, and what in your context does the selecting.",
+    "Name the levels of analysis the model uses (psychological, biophysiological, sociocultural) and give one example process at each level.",
+    "Report one study's design, evidence type, estimate and uncertainty using a worked model, state what the study can and cannot support, and say what further information you would need to judge whether the effect matters in practice.",
+    "State what this degree covers and excludes, and for the excluded territories that are owned elsewhere, name the owner."
+   ],
+   "prerequisites": [],
+   "requiredMedia": [
+    {
+     "source_id": "PD-M1-01",
+     "level": "Foundations"
+    },
+    {
+     "source_id": "PD-M1-02",
+     "level": "Foundations"
+    },
+    {
+     "source_id": "PD-M1-03",
+     "level": "Foundations"
+    },
+    {
+     "source_id": "PD-M1-04",
+     "level": "Foundations"
+    }
+   ],
+   "optionalMedia": [
+    {
+     "source_id": "PD-M1-05",
+     "level": "Foundations"
+    },
+    {
+     "source_id": "PD-M1-06",
+     "level": "Foundations"
+    },
+    {
+     "source_id": "PD-M1-07",
+     "level": "Foundations"
+    },
+    {
+     "source_id": "PD-M1-08",
+     "level": "Foundations"
+    }
+   ],
+   "wiki_readings": [],
+   "activity": "Graded: a six-dimension map of one ordinary difficulty of your own, with a three-part reflection (what matters, what the framework helps with, what remains uncertain) for each dimension, and an independent appraisal of a real study covering design, estimates and what it cannot support.",
+   "rubric": [
+    "The six definitions match the framework's usage, each with a life example, and each example names what matters in the case, what the framework helps the learner understand or choose there, and one thing the framework leaves uncertain.",
+    "The variation-selection-retention-context application is real and each part is named correctly.",
+    "The three given examples are labelled at the right level and the three own examples sit at their stated levels.",
+    "The appraisal names design, evidence type, estimate and interval, limits, what the result can and cannot support, and what further information would be needed to judge practical magnitude.",
+    "The scope statement states the degree's positive coverage in the learner's own words, then names the three owned exclusions with their owners, then states the admission test for the rest."
+   ],
+   "gaps": [],
+   "durationHours": 4.25,
+   "difficulty": "Foundations"
+  },
+  "mod-pd-2": {
+   "id": "mod-pd-2",
+   "degree_id": "deg-psychdim",
+   "title": "Affective",
+   "question": "What is an emotion for, and what is it doing in this moment of your life?",
+   "description": "L2 - Compare emotion accounts and make a context-sensitive regulation analysis, including private lived transfer.",
+   "outcomes": [
+    "Functions: distinguish an emotion's intrapersonal, interpersonal and cultural functions in a supplied episode, including a possible benefit and a context in which the same response becomes costly.",
+    "Accounts: compare an evolutionary/basic-emotion explanation with Barrett's constructed-emotion account, explain allostasis in the latter, and attribute a claim rather than present the disagreement as settled.",
+    "Regulation: distinguish generating an emotion from attempting to regulate it; name Gross's five strategy families and justify a choice by goal, timing and circumstances.",
+    "Flexibility: compare a rigid rule with a context-sensitive plan, including a reason to revise the plan and one limit of the evidence.",
+    "Reflection: describe affect in a safely chosen, ordinary episode from your own life while separating bodily sensation, interpretation, action and unknowns; personal details may remain private."
+   ],
+   "prerequisites": [
+    "mod-pd-1"
+   ],
+   "requiredMedia": [
+    {
+     "source_id": "PD-M2-01",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M2-02",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "M06-AF07",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M2-04",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M2-05",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M2-06",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M2-07",
+     "level": "Intermediate"
+    }
+   ],
+   "optionalMedia": [],
+   "wiki_readings": [],
+   "activity": "Graded: a family-application incident account, a process-model analysis of one of your own emotion episodes, and a comparison of the two accounts on a shared case.",
+   "rubric": [
+    "Functions",
+    "Accounts",
+    "Regulation",
+    "Flexibility and evidence",
+    "Reflection and lived transfer"
+   ],
+   "gaps": [],
+   "durationHours": 5.0,
+   "difficulty": "Intermediate"
+  },
+  "mod-pd-3": {
+   "id": "mod-pd-3",
+   "degree_id": "deg-psychdim",
+   "title": "Cognitive",
+   "question": "What is happening when perception, learning, memory or judgment fills a gap, and how can you check it?",
+   "description": "L2 - Apply learning, perception, memory, judgment and RNT distinctions.",
+   "outcomes": [
+    "Learning: distinguish a cue-event association from learning an action's consequences in a new fictional example.",
+    "Perception: explain one way context helps interpret sensory input, and distinguish useful inference from a claim that all perception is false.",
+    "Memory: distinguish working, episodic and semantic memory; map encoding, storage and retrieval in a case; design a meaningful encoding cue without promising perfect recall.",
+    "Judgment: identify a possible framing or confirmation problem and propose a specific countercheck, without diagnosing a bias from disagreement alone.",
+    "Recurring thought and evidence: distinguish process from content in repetitive negative thinking; appraise a commentary's experimental claim while naming the limits."
+   ],
+   "prerequisites": [
+    "mod-pd-1",
+    "mod-pd-2"
+   ],
+   "requiredMedia": [
+    {
+     "source_id": "PD-M3-01",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M3-02",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M3-03",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M3-04",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M3-05",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M3-06",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M3-07",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M3-08",
+     "level": "Intermediate"
+    }
+   ],
+   "optionalMedia": [],
+   "wiki_readings": [],
+   "activity": "Graded: family applications across learning, perception, memory and judgment, an illusion explanation, an RNT analysis and an independent appraisal of a commentary experimental claim.",
+   "rubric": [
+    "Learning",
+    "Perception/interpretation",
+    "Memory",
+    "Judgment",
+    "RNT and evidence"
+   ],
+   "gaps": [],
+   "durationHours": 4.75,
+   "difficulty": "Intermediate"
+  },
+  "mod-pd-4": {
+   "id": "mod-pd-4",
+   "degree_id": "deg-psychdim",
+   "title": "Attentional",
+   "question": "Ready for what, directed where, and in conflict with which other demand?",
+   "description": "L2 - Interpret attentional phenomena, laboratory contrasts and training evidence cautiously.",
+   "outcomes": [
+    "Networks: apply alerting, orienting and executive control to a new task; compare early independence language with the later semi-independent, interacting account.",
+    "Selection and limits: explain the spotlight analogy, Stroop interference, inattentional blindness and change blindness without assuming a single demonstration establishes a personal deficit.",
+    "Measurement: explain an ANT trial and calculate three simple contrasts from supplied fictional averages, distinguishing cue benefit from conflict cost and a task contrast from a brain diagnosis.",
+    "Associations: interpret one network/disorder association as group-level evidence, including why neither a symptom nor a score yields a one-to-one diagnosis.",
+    "Practice and evidence: observe an attention practice and judge the evidence separately, without turning a difficult afternoon into a diagnosis."
+   ],
+   "prerequisites": [
+    "mod-pd-3"
+   ],
+   "requiredMedia": [
+    {
+     "source_id": "PD-M3-02",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M4-01",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M4-02",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M4-03",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M4-04",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M4-05",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M4-06",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M4-07",
+     "level": "Intermediate"
+    }
+   ],
+   "optionalMedia": [],
+   "wiki_readings": [],
+   "activity": "Graded: an independent attention observation with an observation-protocol entry and summary, and an ANT-based analysis with simple contrasts from supplied averages.",
+   "rubric": [
+    "Network map/comparison",
+    "Selection",
+    "ANT",
+    "Association",
+    "Practice/evidence",
+    "Transfer"
+   ],
+   "gaps": [],
+   "durationHours": 4.5,
+   "difficulty": "Intermediate"
+  },
+  "mod-pd-5": {
+   "id": "mod-pd-5",
+   "degree_id": "deg-psychdim",
+   "title": "Self and identity",
+   "question": "Which self-question are you actually asking, and what would count as an informative answer?",
+   "description": "L2 to L3 - Investigate a self-question, chart an identity domain and compare development and trait/project accounts with qualified measurement.",
+   "outcomes": [
+    "Distinctions: distinguish self-concept content, clarity, esteem, accuracy and narrative identity in a case.",
+    "Development: explain exploration/commitment and narrative accounts of identity development, with a limit on extending adolescent findings to all ages and settings.",
+    "Social interpretation: apply egocentrism/spotlight, transparency, self-serving attribution, cognitive dissonance and person/situation attribution without inferring a bias merely from disagreement.",
+    "Personality and agency: explain the Big Five as continuous trait dimensions, compare trait and personal-project explanations of one behaviour, and qualify both stability and situational variability.",
+    "Measurement and inquiry: handle the SCCS educationally, critique its evidence limits and design a private, revisable self-inquiry that does not turn a score into an identity or promise improvement.",
+    "Framework link: use self as an EEMM lens and distinguish the source's FAP-specific target from a general definition of identity."
+   ],
+   "prerequisites": [
+    "mod-pd-4"
+   ],
+   "requiredMedia": [
+    {
+     "source_id": "PD-M5-01",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M5-02",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M5-03",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M5-04",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M5-05",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M5-06",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M5-07",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M5-08",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M1-06",
+     "level": "Intermediate"
+    }
+   ],
+   "optionalMedia": [],
+   "wiki_readings": [],
+   "activity": "Graded: an SCCS instrument verification sheet with a revision log, an identity-domain chart and a trait account of one behaviour, on a low-stakes question of your own.",
+   "rubric": [
+    "Concepts",
+    "Development/comparison",
+    "Social interpretation",
+    "Traits and agency",
+    "Inquiry/measurement",
+    "Framework",
+    "Transfer"
+   ],
+   "gaps": [],
+   "durationHours": 5.25,
+   "difficulty": "Intermediate"
+  },
+  "mod-pd-6": {
+   "id": "mod-pd-6",
+   "degree_id": "deg-psychdim",
+   "title": "Motivational",
+   "question": "Why do you pursue what you pursue, and what happens when intention and action come apart?",
+   "description": "L2 - Analyse mixed motives, emotional aims and adherence evidence, distinguishing intention from practical barriers.",
+   "outcomes": [
+    "Motivation: distinguish all six positions on the SDT autonomy continuum, allow mixed motives and distinguish the three proposed basic psychological needs without equating autonomy with independence.",
+    "Regulation goals: distinguish pleasantness from usefulness, explain the 2024 review's proposed eudaimonic category as a proposal, and apply control/value appraisals to an achievement-related case.",
+    "Evidence: compare importance-only and experienced-interest predictions of adherence, distinguishing the 2025 study designs, result magnitude and limits on transfer.",
+    "Walk-of-life analysis: examine one own goal, link motive and affect, and design a modest, revisable observation without treating adherence, pleasure or self-discipline as a measure of human worth."
+   ],
+   "prerequisites": [
+    "mod-pd-5"
+   ],
+   "requiredMedia": [
+    {
+     "source_id": "M08-P09",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M6-01",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M6-02",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M6-03",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M6-04",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M1-07",
+     "level": "Intermediate"
+    }
+   ],
+   "optionalMedia": [],
+   "wiki_readings": [],
+   "activity": "Graded: a guided own-goal analysis linking motive and affect with a modest revisable observation, plus the unused case distinguishing a practical barrier from amotivation.",
+   "rubric": [
+    "Motivation",
+    "Needs",
+    "Goals/appraisals",
+    "Evidence comparison",
+    "Walk-of-life plan"
+   ],
+   "gaps": [],
+   "durationHours": 4.5,
+   "difficulty": "Intermediate"
+  },
+  "mod-pd-7": {
+   "id": "mod-pd-7",
+   "degree_id": "deg-psychdim",
+   "title": "Overt behavioural",
+   "question": "What keeps a repeated behaviour going, and what would change it?",
+   "description": "L2 to L3 - Keep a diary, compare contested findings and develop a revisable functional account.",
+   "outcomes": [
+    "Habit: explain a cue-response association, distinguish habit from mere repetition and intention, and critique a universal formation-time promise.",
+    "Learning: distinguish stimulus learning from action/consequence learning, reinforcement from punishment and negative from positive without using those terms as moral labels.",
+    "Self-regulation: apply identification, selection, implementation and monitoring to a competing-goal episode; distinguish three measurement families and their population limits.",
+    "Contested evidence: compare a meta-analysis with a later preregistered multisite test, retaining numerical estimates, analysis status, uncertainty and limits on everyday inference.",
+    "Functional inquiry: keep a brief private habit diary and build a revisable account of an own pattern, including the narrow EEMM/FAP links and their uncertainty."
+   ],
+   "prerequisites": [
+    "mod-pd-3",
+    "mod-pd-4",
+    "mod-pd-6"
+   ],
+   "requiredMedia": [
+    {
+     "source_id": "PD-M3-01",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M7-01",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M7-02",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M7-03",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M7-04",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M7-05",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M7-06",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M7-07",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M7-08",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M7-09",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M3-05",
+     "level": "Intermediate"
+    },
+    {
+     "source_id": "PD-M7-10",
+     "level": "Intermediate"
+    }
+   ],
+   "optionalMedia": [],
+   "wiki_readings": [],
+   "activity": "Graded: an independent habit diary with a revisable functional account of one of your own low-stakes patterns, plus an appraisal of the habit-formation meta-analysis evidence.",
+   "rubric": [
+    "Habit/diary",
+    "Learning",
+    "Process/measures",
+    "Contested evidence",
+    "Functional/framework transfer"
+   ],
+   "gaps": [],
+   "durationHours": 5.0,
+   "difficulty": "Intermediate"
+  },
+  "mod-pd-8": {
+   "id": "mod-pd-8",
+   "degree_id": "deg-psychdim",
+   "title": "Integrative capstone",
+   "question": "Can you use all six lenses wisely on one ordinary pattern of your own?",
+   "description": "L4 - Design, execute and self-assess one safe real-life inquiry across all six dimensions.",
+   "outcomes": [
+    "Design: choose a meaningful, safe and feasible real-life question, explain why it matters to your walk of life and specify what would count as an informative observation.",
+    "Integrate: use all six psychological dimensions on that one pattern without treating the lenses as six established causes.",
+    "Execute: complete a bounded observation/change project with actual records, deviations and missing observations, not an invented success story or a proposal alone.",
+    "Evaluate: distinguish observed outcomes from proposed mechanisms, compare plausible explanations and judge whether to continue, revise or stop without overstating causal evidence."
+   ],
+   "prerequisites": [
+    "mod-pd-1",
+    "mod-pd-2",
+    "mod-pd-3",
+    "mod-pd-4",
+    "mod-pd-5",
+    "mod-pd-6",
+    "mod-pd-7"
+   ],
+   "requiredMedia": [
+    {
+     "source_id": "PD-M1-05",
+     "level": "Advanced"
+    },
+    {
+     "source_id": "PD-M1-06",
+     "level": "Advanced"
+    },
+    {
+     "source_id": "PD-M2-06",
+     "level": "Advanced"
+    },
+    {
+     "source_id": "PD-M7-05",
+     "level": "Advanced"
+    },
+    {
+     "source_id": "PD-M5-05",
+     "level": "Advanced"
+    },
+    {
+     "source_id": "PD-M1-07",
+     "level": "Advanced"
+    },
+    {
+     "source_id": "PD-M7-04",
+     "level": "Advanced"
+    },
+    {
+     "source_id": "PD-M4-07",
+     "level": "Advanced"
+    },
+    {
+     "source_id": "PD-M7-10",
+     "level": "Advanced"
+    }
+   ],
+   "optionalMedia": [],
+   "wiki_readings": [],
+   "activity": "Graded: a 1,200-1,600-word capstone report on one of your own ordinary patterns, with the dated plan, six-lens map, observation table and rubric self-assessment as appendices.",
+   "rubric": [
+    "Independent design",
+    "Six-dimension integration",
+    "Ethical execution",
+    "Mechanisms versus outcomes",
+    "Evidence and alternatives",
+    "Walk-of-life judgment",
+    "Honest self-assessment",
+    "Communication"
+   ],
+   "gaps": [],
+   "durationHours": 6.25,
+   "difficulty": "Advanced"
+  }
+ },
+ "sources": [
+  {
+   "source_id": "PD-M1-01",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=sDGpXQLHLfY",
+   "canonical_url": "https://www.youtube.com/watch?v=sDGpXQLHLfY",
+   "title": "Steven Hayes, An Introduction to Process-Based Therapy (assigned window 01:03:17-01:09:12)",
+   "presenter": "Steven Hayes",
+   "host": "YouTube",
+   "duration": "",
+   "topic_ids": "PD-M1",
+   "level": "Foundations",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m1-literacy-video-49bf153e.md; verify/deg-psychdim-m1-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M1-02",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=LKiX54NglCo",
+   "canonical_url": "https://www.youtube.com/watch?v=LKiX54NglCo",
+   "title": "Kristin Sainani, Statistics Fundamentals (assigned windows 03:29-09:21, 25:46-44:11, 54:02-57:21)",
+   "presenter": "Kristin Sainani",
+   "host": "YouTube (Stanford)",
+   "duration": "1:16:12",
+   "topic_ids": "PD-M1",
+   "level": "Foundations",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m1-literacy-video-49bf153e.md; verify/deg-psychdim-m1-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M1-03",
+   "youtube_id_or_url": "https://nobaproject.com/modules/thinking-like-a-psychological-scientist",
+   "canonical_url": "https://nobaproject.com/modules/thinking-like-a-psychological-scientist",
+   "title": "Smith, Thinking like a Psychological Scientist (Noba Project)",
+   "presenter": "Smith",
+   "host": "Noba Project",
+   "duration": "",
+   "topic_ids": "PD-M1",
+   "level": "Foundations",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m1-literacy-video-49bf153e.md; verify/deg-psychdim-m1-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M1-04",
+   "youtube_id_or_url": "https://www.stat.berkeley.edu/~aldous/Real_World/ASA_statement.pdf",
+   "canonical_url": "https://www.stat.berkeley.edu/~aldous/Real_World/ASA_statement.pdf",
+   "title": "ASA Statement on p-Values: Context, Process, and Purpose",
+   "presenter": "American Statistical Association",
+   "host": "American Statistical Association (PDF)",
+   "duration": "",
+   "topic_ids": "PD-M1",
+   "level": "Foundations",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m1-literacy-video-49bf153e.md; verify/deg-psychdim-m1-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M1-05",
+   "youtube_id_or_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11303929/",
+   "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11303929/",
+   "title": "Hofmann and Hayes 2024, Clinical Psychology in Europe (process-based therapy and the EEMM)",
+   "presenter": "Hofmann; Hayes",
+   "host": "Clinical Psychology in Europe (PMC)",
+   "duration": "",
+   "topic_ids": "PD-M1",
+   "level": "Foundations",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m1-literacy-video-49bf153e.md; verify/deg-psychdim-m1-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M1-06",
+   "youtube_id_or_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/",
+   "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/",
+   "title": "Maitland 2024, Journal of Contextual Behavioral Science (section 1.4 assigned)",
+   "presenter": "Maitland",
+   "host": "Journal of Contextual Behavioral Science (PMC)",
+   "duration": "",
+   "topic_ids": "PD-M1",
+   "level": "Foundations",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m1-literacy-video-49bf153e.md; verify/deg-psychdim-m1-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M1-07",
+   "youtube_id_or_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/",
+   "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/",
+   "title": "Woolley, Giurge and Fishbach 2025, Psychological Science (Study 1 appraisal)",
+   "presenter": "Woolley; Giurge; Fishbach",
+   "host": "Psychological Science (PMC)",
+   "duration": "",
+   "topic_ids": "PD-M1",
+   "level": "Foundations",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m1-literacy-video-49bf153e.md; verify/deg-psychdim-m1-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M1-08",
+   "youtube_id_or_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4877414/",
+   "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4877414/",
+   "title": "Greenland et al. 2016, European Journal of Epidemiology (misinterpretation list)",
+   "presenter": "Greenland et al.",
+   "host": "European Journal of Epidemiology (PMC)",
+   "duration": "",
+   "topic_ids": "PD-M1",
+   "level": "Foundations",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m1-literacy-video-49bf153e.md; verify/deg-psychdim-m1-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M2-01",
+   "youtube_id_or_url": "https://oyc.yale.edu/psychology/psyc-110/lecture-11",
+   "canonical_url": "https://oyc.yale.edu/psychology/psyc-110/lecture-11",
+   "title": "Paul Bloom, Yale PSYC 110 lecture 11 (assigned 00:00-09:06)",
+   "presenter": "Paul Bloom",
+   "host": "Yale Open Courses",
+   "duration": "9:06",
+   "topic_ids": "PD-M2",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m2-video-audit-49bf153e.md; verify/deg-psychdim-m2-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M2-02",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=0gks6ceq4eQ",
+   "canonical_url": "https://www.youtube.com/watch?v=0gks6ceq4eQ",
+   "title": "Lisa Feldman Barrett, You are not at the mercy of your emotions (TED, assigned 00:00-18:29)",
+   "presenter": "Lisa Feldman Barrett",
+   "host": "TED (YouTube)",
+   "duration": "18:29",
+   "topic_ids": "PD-M2",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m2-video-audit-49bf153e.md; verify/deg-psychdim-m2-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M2-04",
+   "youtube_id_or_url": "https://nobaproject.com/modules/functions-of-emotions",
+   "canonical_url": "https://nobaproject.com/modules/functions-of-emotions",
+   "title": "Hwang and Matsumoto, Functions of Emotions (Noba Project)",
+   "presenter": "Hwang; Matsumoto",
+   "host": "Noba Project",
+   "duration": "",
+   "topic_ids": "PD-M2",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m2-video-audit-49bf153e.md; verify/deg-psychdim-m2-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M2-05",
+   "youtube_id_or_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12164598/",
+   "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12164598/",
+   "title": "Barrett et al. 2025, Perspectives on Psychological Science (theory of constructed emotion)",
+   "presenter": "Barrett et al.",
+   "host": "Perspectives on Psychological Science (PMC)",
+   "duration": "",
+   "topic_ids": "PD-M2",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m2-video-audit-49bf153e.md; verify/deg-psychdim-m2-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M2-06",
+   "youtube_id_or_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/",
+   "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/",
+   "title": "Martinez-Priego, Poveda and Roca 2024, Frontiers in Psychology (emotion regulation models review)",
+   "presenter": "Martinez-Priego; Poveda; Roca",
+   "host": "Frontiers in Psychology (PMC)",
+   "duration": "",
+   "topic_ids": "PD-M2",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m2-video-audit-49bf153e.md; verify/deg-psychdim-m2-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M2-07",
+   "youtube_id_or_url": "https://emotion.wisc.edu/wp-content/uploads/sites/1353/2024/11/gross-1998-the-emerging-field-of-emotion-regulation-an-integrative-review.pdf",
+   "canonical_url": "https://emotion.wisc.edu/wp-content/uploads/sites/1353/2024/11/gross-1998-the-emerging-field-of-emotion-regulation-an-integrative-review.pdf",
+   "title": "Gross 1998, The emerging field of emotion regulation: An integrative review",
+   "presenter": "James Gross",
+   "host": "University of Wisconsin (PDF)",
+   "duration": "",
+   "topic_ids": "PD-M2",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m2-video-audit-49bf153e.md; verify/deg-psychdim-m2-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M3-01",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=rCKK6r15fro",
+   "canonical_url": "https://www.youtube.com/watch?v=rCKK6r15fro",
+   "title": "Paul Bloom, Yale PSYC 110 lecture 4, Learning (assigned windows)",
+   "presenter": "Paul Bloom",
+   "host": "Yale Open Courses (YouTube)",
+   "duration": "58:47",
+   "topic_ids": "PD-M3",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m3-video-audit-49bf153e.md; verify/deg-psychdim-m3-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M3-02",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=DmWrOUK2zgA",
+   "canonical_url": "https://www.youtube.com/watch?v=DmWrOUK2zgA",
+   "title": "Paul Bloom, Yale PSYC 110 lecture 7 (assigned windows)",
+   "presenter": "Paul Bloom",
+   "host": "Yale Open Courses (YouTube)",
+   "duration": "",
+   "topic_ids": "PD-M3",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m3-video-audit-49bf153e.md; verify/deg-psychdim-m3-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M3-03",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=Yuwqr5o58Z0",
+   "canonical_url": "https://www.youtube.com/watch?v=Yuwqr5o58Z0",
+   "title": "Paul Bloom, Yale PSYC 110 lecture 8, Memory (assigned 18:06-39:15)",
+   "presenter": "Paul Bloom",
+   "host": "Yale Open Courses (YouTube)",
+   "duration": "",
+   "topic_ids": "PD-M3",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m3-video-audit-49bf153e.md; verify/deg-psychdim-m3-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M3-04",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=AMsQfgV07vU",
+   "canonical_url": "https://www.youtube.com/watch?v=AMsQfgV07vU",
+   "title": "Paul Bloom, Yale PSYC 110 lecture 10, Judgment (assigned window)",
+   "presenter": "Paul Bloom",
+   "host": "Yale Open Courses (YouTube)",
+   "duration": "",
+   "topic_ids": "PD-M3",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m3-video-audit-49bf153e.md; verify/deg-psychdim-m3-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M3-05",
+   "youtube_id_or_url": "https://nobaproject.com/modules/conditioning-and-learning",
+   "canonical_url": "https://nobaproject.com/modules/conditioning-and-learning",
+   "title": "Bouton, Conditioning and Learning (Noba Project)",
+   "presenter": "Bouton",
+   "host": "Noba Project",
+   "duration": "",
+   "topic_ids": "PD-M3",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m3-video-audit-49bf153e.md; verify/deg-psychdim-m3-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M3-06",
+   "youtube_id_or_url": "https://nobaproject.com/modules/memory-encoding-storage-retrieval",
+   "canonical_url": "https://nobaproject.com/modules/memory-encoding-storage-retrieval",
+   "title": "McDermott and Roediger, Memory: Encoding, Storage, Retrieval (Noba Project)",
+   "presenter": "McDermott; Roediger",
+   "host": "Noba Project",
+   "duration": "",
+   "topic_ids": "PD-M3",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m3-video-audit-49bf153e.md; verify/deg-psychdim-m3-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M3-07",
+   "youtube_id_or_url": "https://nobaproject.com/modules/judgment-and-decision-making",
+   "canonical_url": "https://nobaproject.com/modules/judgment-and-decision-making",
+   "title": "Bazerman, Judgment and Decision Making (Noba Project)",
+   "presenter": "Bazerman",
+   "host": "Noba Project",
+   "duration": "",
+   "topic_ids": "PD-M3",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m3-video-audit-49bf153e.md; verify/deg-psychdim-m3-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M3-08",
+   "youtube_id_or_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/",
+   "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/",
+   "title": "Ehring 2021, World Psychiatry (rumination and repetitive negative thinking)",
+   "presenter": "Ehring",
+   "host": "World Psychiatry (PMC)",
+   "duration": "",
+   "topic_ids": "PD-M3",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m3-video-audit-49bf153e.md; verify/deg-psychdim-m3-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M4-01",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=uYUdwS7-WvA",
+   "canonical_url": "https://www.youtube.com/watch?v=uYUdwS7-WvA",
+   "title": "Michael Posner on the anatomy of attentional networks - a historical perspective (gocognitive, assigned 03:06-14:52)",
+   "presenter": "Michael Posner",
+   "host": "gocognitive (YouTube)",
+   "duration": "19:49",
+   "topic_ids": "PD-M4",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m4-video-audit-49bf153e.md; verify/deg-psychdim-m4-window-supervisor-decision-1026h.md"
+  },
+  {
+   "source_id": "PD-M4-02",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=y-fQywP6qa8",
+   "canonical_url": "https://www.youtube.com/watch?v=y-fQywP6qa8",
+   "title": "Michael Posner, Fostering Attention for Human Needs (APS, assigned 05:24-07:42)",
+   "presenter": "Michael Posner",
+   "host": "Association for Psychological Science (YouTube)",
+   "duration": "42:05",
+   "topic_ids": "PD-M4",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m4-video-audit-49bf153e.md; verify/deg-psychdim-m4-window-supervisor-decision-1026h.md"
+  },
+  {
+   "source_id": "PD-M4-03",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=n_3MVEo9fx4",
+   "canonical_url": "https://www.youtube.com/watch?v=n_3MVEo9fx4",
+   "title": "Richard Davidson with Andrew Huberman, When and How to Practice Effective Meditation (Huberman Lab Clips, assigned 02:08-04:17)",
+   "presenter": "Richard Davidson",
+   "host": "Huberman Lab Clips (YouTube)",
+   "duration": "12:30",
+   "topic_ids": "PD-M4",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m4-video-audit-49bf153e.md; verify/deg-psychdim-m4-window-supervisor-decision-1026h.md"
+  },
+  {
+   "source_id": "PD-M4-04",
+   "youtube_id_or_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/",
+   "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/",
+   "title": "Posner, Rothbart and Ghassemzadeh 2019, Yale Journal of Biology and Medicine (attention networks)",
+   "presenter": "Posner; Rothbart; Ghassemzadeh",
+   "host": "Yale Journal of Biology and Medicine (PMC)",
+   "duration": "",
+   "topic_ids": "PD-M4",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m4-video-audit-49bf153e.md; verify/deg-psychdim-m4-window-supervisor-decision-1026h.md"
+  },
+  {
+   "source_id": "PD-M4-05",
+   "youtube_id_or_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/",
+   "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/",
+   "title": "Posner 2023, Journal of Intelligence (the evolution and future development of attention networks)",
+   "presenter": "Michael Posner",
+   "host": "Journal of Intelligence (PMC)",
+   "duration": "",
+   "topic_ids": "PD-M4",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m4-video-audit-49bf153e.md; verify/deg-psychdim-m4-window-supervisor-decision-1026h.md"
+  },
+  {
+   "source_id": "PD-M4-06",
+   "youtube_id_or_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/",
+   "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/",
+   "title": "Lippelt, Hommel and Colzato 2014, Frontiers in Psychology (focused attention, open monitoring and loving-kindness meditation)",
+   "presenter": "Lippelt; Hommel; Colzato",
+   "host": "Frontiers in Psychology (PMC)",
+   "duration": "",
+   "topic_ids": "PD-M4",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m4-video-audit-49bf153e.md; verify/deg-psychdim-m4-window-supervisor-decision-1026h.md"
+  },
+  {
+   "source_id": "PD-M4-07",
+   "youtube_id_or_url": "https://w3.ual.es/personal/tdaza/Fan%20y%20cols.pdf",
+   "canonical_url": "https://w3.ual.es/personal/tdaza/Fan%20y%20cols.pdf",
+   "title": "Fan et al., the Attention Network Test paper (PDF)",
+   "presenter": "Fan et al.",
+   "host": "University of Alicante (PDF)",
+   "duration": "",
+   "topic_ids": "PD-M4",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m4-video-audit-49bf153e.md; verify/deg-psychdim-m4-window-supervisor-decision-1026h.md"
+  },
+  {
+   "source_id": "PD-M5-01",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=piDznzrNymE",
+   "canonical_url": "https://www.youtube.com/watch?v=piDznzrNymE",
+   "title": "Paul Bloom, Yale PSYC 110 lecture 13 (assigned 13:53-19:47)",
+   "presenter": "Paul Bloom",
+   "host": "Yale Open Courses (YouTube)",
+   "duration": "",
+   "topic_ids": "PD-M5",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m5-video-audit-49bf153e.md; verify/deg-psychdim-m5-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M5-02",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=jsrB5m3mL-A",
+   "canonical_url": "https://www.youtube.com/watch?v=jsrB5m3mL-A",
+   "title": "Paul Bloom, Yale PSYC 110 lecture 16 (assigned 15:56-28:41 and 40:00-50:03)",
+   "presenter": "Paul Bloom",
+   "host": "Yale Open Courses (YouTube)",
+   "duration": "",
+   "topic_ids": "PD-M5",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m5-video-audit-49bf153e.md; verify/deg-psychdim-m5-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M5-03",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=49FCgaZRn_M",
+   "canonical_url": "https://www.youtube.com/watch?v=49FCgaZRn_M",
+   "title": "Dan McAdams, Authoring a Life (assigned 10:07-13:31)",
+   "presenter": "Dan McAdams",
+   "host": "Northwestern University (YouTube)",
+   "duration": "53:32",
+   "topic_ids": "PD-M5",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m5-video-audit-49bf153e.md; verify/deg-psychdim-m5-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M5-04",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=qYvXk_bqlBk",
+   "canonical_url": "https://www.youtube.com/watch?v=qYvXk_bqlBk",
+   "title": "Brian Little, Who are you really? The puzzle of personality (TED, assigned from 11:12)",
+   "presenter": "Brian Little",
+   "host": "TED (YouTube)",
+   "duration": "15:16",
+   "topic_ids": "PD-M5",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m5-video-audit-49bf153e.md; verify/deg-psychdim-m5-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M5-05",
+   "youtube_id_or_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/",
+   "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/",
+   "title": "Manchiraju 2026, Frontiers in Psychology (comprehensive review of self-concept clarity)",
+   "presenter": "Manchiraju",
+   "host": "Frontiers in Psychology (PMC)",
+   "duration": "",
+   "topic_ids": "PD-M5",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m5-video-audit-49bf153e.md; verify/deg-psychdim-m5-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M5-06",
+   "youtube_id_or_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9298910/",
+   "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9298910/",
+   "title": "Branje, de Moor, Spitzer and Becht 2021, Journal of Research on Adolescence (identity development 2010-2020)",
+   "presenter": "Branje et al.",
+   "host": "Journal of Research on Adolescence (PMC)",
+   "duration": "",
+   "topic_ids": "PD-M5",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m5-video-audit-49bf153e.md; verify/deg-psychdim-m5-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M5-07",
+   "youtube_id_or_url": "https://nobaproject.com/modules/personality-traits",
+   "canonical_url": "https://nobaproject.com/modules/personality-traits",
+   "title": "Diener and Lucas, Personality Traits (Noba Project)",
+   "presenter": "Diener; Lucas",
+   "host": "Noba Project",
+   "duration": "",
+   "topic_ids": "PD-M5",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m5-video-audit-49bf153e.md; verify/deg-psychdim-m5-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M5-08",
+   "youtube_id_or_url": "https://dlab.sauder.ubc.ca/sjdm/dmidi/files/Campbell_et_al._(1996)_Self-Concept_Clarity.doc",
+   "canonical_url": "https://dlab.sauder.ubc.ca/sjdm/dmidi/files/Campbell_et_al._(1996)_Self-Concept_Clarity.doc",
+   "title": "Campbell et al. 1996, the Self-Concept Clarity Scale instrument (university-hosted document)",
+   "presenter": "Campbell et al.",
+   "host": "University of British Columbia",
+   "duration": "",
+   "topic_ids": "PD-M5",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m5-video-audit-49bf153e.md; verify/deg-psychdim-m5-consumed-sources-crosscheck-1026c.md"
+  },
+  {
+   "source_id": "PD-M6-01",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=6R2ALQfEZwA",
+   "canonical_url": "https://www.youtube.com/watch?v=6R2ALQfEZwA",
+   "title": "Maya Tamir, Yale Experts in Emotion 2013 (assigned 09:21-14:43)",
+   "presenter": "Maya Tamir",
+   "host": "YaleCourses (YouTube)",
+   "duration": "19:10",
+   "topic_ids": "PD-M6",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m6-video-audit-49bf153e.md; verify/deg-psychdim-m6-adviser-accept-1026d.md"
+  },
+  {
+   "source_id": "PD-M6-02",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=igSLOQoWuPQ",
+   "canonical_url": "https://www.youtube.com/watch?v=igSLOQoWuPQ",
+   "title": "Reinhard Pekrun, IPPE 2023 (assigned 15:51-19:02)",
+   "presenter": "Reinhard Pekrun",
+   "host": "Institute for Positive Psychology and Education (YouTube)",
+   "duration": "1:17:16",
+   "topic_ids": "PD-M6",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m6-video-audit-49bf153e.md; verify/deg-psychdim-m6-adviser-accept-1026d.md"
+  },
+  {
+   "source_id": "PD-M6-03",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=tB5J9qgM2zI",
+   "canonical_url": "https://www.youtube.com/watch?v=tB5J9qgM2zI",
+   "title": "Ayelet Fishbach, TED 2023 (assigned 03:33-04:36)",
+   "presenter": "Ayelet Fishbach",
+   "host": "TED (YouTube)",
+   "duration": "29:06",
+   "topic_ids": "PD-M6",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m6-video-audit-49bf153e.md; verify/deg-psychdim-m6-adviser-accept-1026d.md"
+  },
+  {
+   "source_id": "PD-M6-04",
+   "youtube_id_or_url": "https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf",
+   "canonical_url": "https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf",
+   "title": "Ryan and Deci 2020, Contemporary Educational Psychology preprint (intrinsic and extrinsic motivation from an SDT perspective)",
+   "presenter": "Ryan; Deci",
+   "host": "Self-Determination Theory (PDF)",
+   "duration": "",
+   "topic_ids": "PD-M6",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m6-video-audit-49bf153e.md; verify/deg-psychdim-m6-adviser-accept-1026d.md"
+  },
+  {
+   "source_id": "PD-M7-01",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=EXrmKkpJ2Gk",
+   "canonical_url": "https://www.youtube.com/watch?v=EXrmKkpJ2Gk",
+   "title": "Elliot Berkman, University of Oregon (assigned 01:12-02:35)",
+   "presenter": "Elliot Berkman",
+   "host": "University of Oregon (YouTube)",
+   "duration": "4:04",
+   "topic_ids": "PD-M7",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m7-video-audit-49bf153e.md; verify/deg-psychdim-m7-independent-review-1026f.md"
+  },
+  {
+   "source_id": "PD-M7-02",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=Ywec1MbeQDk",
+   "canonical_url": "https://www.youtube.com/watch?v=Ywec1MbeQDk",
+   "title": "Wendy Wood, Big Think/The Well (assigned 01:16-04:53)",
+   "presenter": "Wendy Wood",
+   "host": "Big Think/The Well (YouTube)",
+   "duration": "6:18",
+   "topic_ids": "PD-M7",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m7-video-audit-49bf153e.md; verify/deg-psychdim-m7-independent-review-1026f.md"
+  },
+  {
+   "source_id": "PD-M7-03",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=fuA1l7bL954",
+   "canonical_url": "https://www.youtube.com/watch?v=fuA1l7bL954",
+   "title": "Michael Inzlicht, The Dissenter episode 298 (assigned 49:52-58:10)",
+   "presenter": "Michael Inzlicht",
+   "host": "The Dissenter (YouTube)",
+   "duration": "",
+   "topic_ids": "PD-M7",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m7-video-audit-49bf153e.md; verify/deg-psychdim-m7-independent-review-1026f.md"
+  },
+  {
+   "source_id": "PD-M7-04",
+   "youtube_id_or_url": "https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf",
+   "canonical_url": "https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf",
+   "title": "Carden and Wood 2018, Current Opinion in Behavioral Sciences (habit formation and change)",
+   "presenter": "Carden; Wood",
+   "host": "USC (PDF)",
+   "duration": "",
+   "topic_ids": "PD-M7",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m7-video-audit-49bf153e.md; verify/deg-psychdim-m7-independent-review-1026f.md"
+  },
+  {
+   "source_id": "PD-M7-05",
+   "youtube_id_or_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/",
+   "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/",
+   "title": "Singh et al. 2024, Healthcare (meta-analysis of health-behaviour habit formation time)",
+   "presenter": "Singh et al.",
+   "host": "Healthcare (PMC)",
+   "duration": "",
+   "topic_ids": "PD-M7",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m7-video-audit-49bf153e.md; verify/deg-psychdim-m7-independent-review-1026f.md"
+  },
+  {
+   "source_id": "PD-M7-06",
+   "youtube_id_or_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11423838/",
+   "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11423838/",
+   "title": "Werner and Berkman 2024, Current Opinion in Psychology (motivational dynamics of self-control)",
+   "presenter": "Werner; Berkman",
+   "host": "Current Opinion in Psychology (PMC)",
+   "duration": "",
+   "topic_ids": "PD-M7",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m7-video-audit-49bf153e.md; verify/deg-psychdim-m7-independent-review-1026f.md"
+  },
+  {
+   "source_id": "PD-M7-07",
+   "youtube_id_or_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7250393/",
+   "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7250393/",
+   "title": "Reed, Combs and Segerstrom 2020, Collabra: Psychology (the structure of self-regulation in adults)",
+   "presenter": "Reed; Combs; Segerstrom",
+   "host": "Collabra: Psychology (PMC)",
+   "duration": "",
+   "topic_ids": "PD-M7",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m7-video-audit-49bf153e.md; verify/deg-psychdim-m7-independent-review-1026f.md"
+  },
+  {
+   "source_id": "PD-M7-08",
+   "youtube_id_or_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6013521/",
+   "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6013521/",
+   "title": "Dang 2018, Psychological Research (updated meta-analysis of the ego depletion effect)",
+   "presenter": "Dang",
+   "host": "Psychological Research (PMC)",
+   "duration": "",
+   "topic_ids": "PD-M7",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m7-video-audit-49bf153e.md; verify/deg-psychdim-m7-independent-review-1026f.md"
+  },
+  {
+   "source_id": "PD-M7-09",
+   "youtube_id_or_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9171140/",
+   "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9171140/",
+   "title": "Alarcon-Espinoza, Grigera and Berra 2022, Frontiers in Psychology (emotional self-regulation in everyday life)",
+   "presenter": "Alarcon-Espinoza et al.",
+   "host": "Frontiers in Psychology (PMC)",
+   "duration": "",
+   "topic_ids": "PD-M7",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m7-video-audit-49bf153e.md; verify/deg-psychdim-m7-independent-review-1026f.md"
+  },
+  {
+   "source_id": "PD-M7-10",
+   "youtube_id_or_url": "https://bura.brunel.ac.uk/bitstream/2438/28246/1/FullText.pdf",
+   "canonical_url": "https://bura.brunel.ac.uk/bitstream/2438/28246/1/FullText.pdf",
+   "title": "Heidbreder, consciousness review article (Brunel repository PDF)",
+   "presenter": "Heidbreder",
+   "host": "Brunel University (PDF)",
+   "duration": "",
+   "topic_ids": "PD-M7",
+   "level": "Advanced",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-m7-video-audit-49bf153e.md; verify/deg-psychdim-m7-independent-review-1026f.md"
+  }
+ ]
+}
