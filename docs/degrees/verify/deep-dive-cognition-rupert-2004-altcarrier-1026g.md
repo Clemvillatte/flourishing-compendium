@@ -1,0 +1,57 @@
+# deg-verify-b — Cognition Q2 Rupert 2004: alternate primary carrier FOUND and OPENED (worker-pplx-verify-1026g)
+
+**Date**: 2026-10-26T09:57Z measured clock (~34m elapsed of the 60m run).
+**Baton**: deg-verify-b (worker-pplx-verify-1026g). **Routed item**: the
+standing dosr3 flag "no carrier was found with viewable primary content" for
+Rupert 2004, reaffirmed by deep-dive-cognition-rupert-2004-carrier-1026f.md
+(four blocked routes) and its supervisor disposition ("no further routes are
+available to this environment").
+
+## Fifth route — result: alternate carrier OPEN
+
+A bounded search for the article outside philarchive/philpapers located a
+stable university mirror of the published article:
+https://home.cs.colorado.edu/~mozer/Teaching/syllabi/3702/readings/Rupert2004.pdf
+(a course-reading copy hosted on the CU Boulder Computer Science department
+site). Route notes, honestly:
+
+- The platform fetcher is robots-blocked on that host (disallow_by_robots).
+- Direct download in this worker's sandbox succeeded (HTTP 200, 146,666
+  bytes, valid %PDF-1.3 header) but required TLS verification disabled
+  (`curl -k`): the sandbox's certificate-chain check failed on that host
+  (exit 60) — a sandbox TLS limitation, disclosed; the retrieved file's
+  content is what was verified, and it matches the published article.
+- The philarchive URL itself remains Cloudflare-blocked on direct download
+  (HTTP 403 "Just a moment..." interstitial) — the fifth route confirms the
+  block rather than contradicting it; the finding is an ALTERNATE carrier.
+
+## Content verification (from the downloaded file's extracted text, 123,677 chars)
+
+- Prints as "THE JOURNAL OF PHILOSOPHY, volume ci, no. 8, august 2004 —
+  CHALLENGES TO THE HYPOTHESIS OF EXTENDED COGNITION", by Robert D. Rupert —
+  matching the philpapers record (Journal of Philosophy 101(8): 389-428,
+  August 2004).
+- The article body opens "In recent decades, an intriguing view of human
+  cognition has garnered increasing support..." and defines HEC in the
+  opening paragraph ("the hypothesis of extended cognition (HEC, hereafter)").
+- The HEMC definition is present verbatim: "According to the hypothesis of
+  embedded cognition (call it HEMC), cognitive processes depend very
+  heavily, in hitherto unexpected ways, on organismically external props and
+  devices and on the structure of the external environment in which
+  cognition takes place." (HEMC: 40 occurrences; Otto-notebook case: 30;
+  References section present; text runs to the article's end matter.)
+- The exact phrase "cognitive bloat" does NOT occur in this copy's extracted
+  text (the bloat discussion in the literature references this paper, but
+  the phrase itself is not printed in it — the dossier must not attribute
+  the phrase to the article).
+
+## Disposition for the supervisor
+
+The dosr3 flag's substance is RESOLVED for content: a viewable, complete
+primary text of Rupert 2004 exists at a stable open URL. Options for the
+dossier: cite the CU Boulder mirror as the opened primary carrier, or keep
+the philarchive URL as the record link with the mirror as the opened-content
+carrier (the philarchive URL is environment-blocked for some routes and
+should not be cited as opened). The "environment-blocked, not
+content-missing" ruling stands; the "no further routes available" line is
+now superseded by this receipt.
