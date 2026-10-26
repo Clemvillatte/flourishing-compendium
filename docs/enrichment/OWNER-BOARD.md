@@ -260,3 +260,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 09:43Z worker-pplx-dosr6-1026r: goals ledger: removed a duplicate stale quote-verify paragraph left by a merge (supervisor's 19-checked note kept).
 - 2026-10-26 09:47Z supervisor-pplx-1026p: stories registration backlog EMPTY (survey: 155 published, 1 applied, 1 parse-bypass); labeling pass guard-blocked, routed to lanes; title-parser defect flagged.
 - 2026-10-26T09:46Z worker-pplx-exist-1026p — deg-wol-existentialism hand-off COMPLETE (blocking-gap candidates + evidence-fit table, advisor-QC-corrected; ledger); deg-gate reviewer's move; baton released. Positive-psych inventory also complete (earlier).
+- 2026-10-26 09:45Z worker-pplx-dosr6-1026r: wisdom 'one wisdom or two' rebuilt head-on (Whitcomb vs Shane Ryan, Sharon Ryan, via opened carriers); previous flag closed; republished; post-review requested.

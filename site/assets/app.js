@@ -3845,11 +3845,33 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Is the wisdom of the contemplative the same excellence as the wisdom of the person who acts well in a hard situation? Aristotle splits them. Sophia knows the highest and unchanging things, and phronesis deals with the changing particulars of conduct."
+          "x": "Is the knowing of the highest things a kind of wisdom, or is wisdom only the practical knowing of how to live? Aristotle's answer is two, as quoted at the top of this dossier: [sophia](card:Sophia) is wisdom of the highest objects, and [phronesis](card:Phronesis) is the wisdom of conduct. A recent philosopher of wisdom keeps that count and puts it in modern terms:"
+        },
+        {
+          "t": "q",
+          "x": "\"There are two kinds of wisdom: practical and theoretical. To be practically wise is to know how to live well. To be theoretically wise is to have deep understanding.\" ([Dennis Whitcomb, \"Wisdom\", PhilArchive preprint](https://philarchive.org/archive/WHIW))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "Modern psychology sides with the practical branch. The Berlin paradigm defines wisdom as \"an expert knowledge system concerning the fundamental pragmatics of life\", covering \"knowledge and judgment about the meaning and conduct of life\" ([Baltes and Staudinger, American Psychologist 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/)). The contemplative ideal drops out of the research definition. What stays open is whether a life needs both, and whether the contemplative kind steadies the practical one or competes with it for a person's time. The sources held here do not settle it."
+          "x": "Another says the theoretical kind does not belong in wisdom at all. Shane Ryan's abstract states his side directly:"
+        },
+        {
+          "t": "q",
+          "x": "\"In arguing for understanding how to live well as a necessary condition for wisdom, I reject the view, proposed by both Ryan and Whitcomb, that subjects such as chemistry lies within the domain of wisdom.\" ([Shane Ryan, \"Wisdom: Understanding and the good life\", Acta Analytica 2016, abstract](https://ink.library.smu.edu.sg/soss_research/3654/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The Ryan he means is Sharon Ryan, whose Deep Rationality Theory opens with a condition on academic knowledge: \"S has a wide variety of epistemically justified beliefs on a wide variety of valuable academic subjects.\" ([Stanford Encyclopedia of Philosophy, Wisdom, Fall 2023 edition](https://plato.stanford.edu/archives/fall2023/entries/wisdom/)) The current Stanford entry sums up what is at stake: \"A further point of disagreement in the literature, then, is whether the wise person, aside from doing well epistemically with regard to living well, is also doing well epistemically with respect to anything else.\" ([Stanford Encyclopedia of Philosophy, Wisdom in Contemporary Analytic Philosophy](https://plato.stanford.edu/entries/wisdom-analytic/)) It places Whitcomb and Sharon Ryan on the side that answers yes, and Shane Ryan and Grimm on the side that answers no."
+        },
+        {
+          "t": "p",
+          "x": "The two sides answer the same question in opposite ways, and what they dispute is who counts as wise. Shane Ryan's argument is that a requirement in academic subjects would rule out people of earlier centuries from being wise, which he takes to give the wrong extension of wisdom ([Shane Ryan, Wisdom, Intellectual Virtue, and Epistemology, 2025](https://link.springer.com/article/10.1007/s44204-025-00242-6)). Whitcomb's argument, as that same paper reports it, rests on an intuition: if two people live equally well but one knows more chemistry, the second is a little wiser. I side with the practical-only view for the purposes of this wiki, because the essays are about living, but I cannot call that settled by what I have opened. Intuitions about chemistry carry the whole weight on both sides."
+        },
+        {
+          "t": "p",
+          "x": "Psychology has mostly taken the practical branch. The Berlin paradigm defines wisdom as \"an expert knowledge system concerning the fundamental pragmatics of life\", covering \"knowledge and judgment about the meaning and conduct of life\" ([Baltes and Staudinger, American Psychologist 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/)). The contemplative ideal drops out of the research definition, whichever side of the philosophers' dispute is right."
         },
         {
           "t": "h2",
