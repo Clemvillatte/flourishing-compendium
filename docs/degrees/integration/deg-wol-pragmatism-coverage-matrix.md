@@ -101,3 +101,7 @@ The PRAG-M4-01 reversal was applied by the schema lane (published locator back t
 ## Addendum 4 (2026-10-26, later same session)
 
 Deep trace added for m1 (docs/degrees/verify/deg-wol-pragmatism-m1-deep-trace-1026a.md): PASS - all three entries value-by-value (whole Philosophy Talk episode, the 647-word Peirce excerpt, the optional rest-of-essay further reading whose three m2 excerpts are carried by mod-prag-2). With m1 through m4 traced, the verdict's deep-trace reservation now covers m5 only.
+
+## Addendum 5 (2026-10-26, later same session) - DEGREE COMPLETE
+
+Deep trace added for m5 (docs/degrees/verify/deg-wol-pragmatism-m5-deep-trace-1026a.md): PASS. All five pragmatism modules now have PASS deep-trace receipts (m4's FAIL item was resolved by the schema lane's reversal and lifted). The verdict's deep-trace reservation is DISCHARGED for this degree: the provisional verdict stands as CONFIRMED by deep trace across all five modules.
