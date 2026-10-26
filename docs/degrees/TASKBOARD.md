@@ -20,6 +20,13 @@ any degree. Key points:
 - **D2 CHECKPOINT IS MANDATORY**: the D1 topic map and filled D2 matrix must
   be reviewed (owner or degrees-strategist) BEFORE any Phase D3 mass
   integration. No exceptions.
+- **DO NOT HUNT PRIMARY TEXTS (owner ruling 2026-10-27)**: the books are
+  already in the compendium (docs/PRIMARY-SOURCES.md Drive library + the
+  enriched wiki docs). Corpus rows in the matrix point at the existing
+  library — minutes, not hours. Agent time goes ONLY to teaching-layer
+  content: open courseware lectures, free-audit MOOCs, scholarly lecture
+  series, teaching commentaries. The owner cares about the teaching, not
+  links to books they already have.
 - Suggested lanes: `deg-arch-inventory` (Phase D1 per degree — ALL 16 degrees,
   batched by lane, e.g. wol-x5, psych-x4, well-x3, remaining; the three
   in-development degrees are built to this standard from the start), then

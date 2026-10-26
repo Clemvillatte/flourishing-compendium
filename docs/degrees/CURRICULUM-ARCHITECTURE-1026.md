@@ -39,10 +39,20 @@ Produce `docs/degrees/inventory/<degree-slug>.md`:
 - Structure: corpus (all major primary texts), history/periodization, schools & debates, methods, practices, modern scholarship, reception.
 - Deliverable: a **coverage matrix** — every topic row → the module that will teach it. Any row without a module = blocking gap.
 
-### Phase D2 — Resource acquisition at scale
-- Source pool is NOT "the best 30%." It is: university **open courseware** (NTU OCW, Harvard Open Learning), **free-audit MOOCs** (HarvardX/edX, Coursera free tier), **open educational resources** (e.g., Edinburgh OER), **free teaching translations** (e.g., Robert Eno's Daodejing), **public-domain texts** (Internet Sacred Texts, ctext.org, Project Gutenberg), scholarly lecture series and university YouTube channels, the existing enriched doc library.
-- Every candidate resource is verified open-access (free audit tier counts; paid-only tiers do not) and logged in the degree's resource inventory with what topic it covers.
-- The coverage matrix is filled: every topic row must map to at least one verified resource. **If a topic row cannot be filled from the pool, the degree stops and the owner is told — the topic is not silently dropped.**
+### Phase D2 — Resource acquisition at scale (TEACHING content only — owner ruling 2026-10-27)
+
+**Do NOT spend agent time sourcing primary texts.** The books are ALREADY IN THE COMPENDIUM: the owner's library (docs/PRIMARY-SOURCES.md — Drive folders with the Daodejing/Zhuangzi corpus, Kohn's Daoism Handbook, Buddhist philosophy texts, Csikszentmihalyi, Epictetus, etc.) and the enriched wiki docs. A corpus row in the coverage matrix is filled by pointing at the existing library entry or wiki doc — that is minutes of work, not hours of Gutenberg/PDF link-hunting. The owner does not care about links to books they already have.
+
+**What the acquisition effort goes to — the ONLY thing it goes to — is teaching content:**
+- university open courseware and recorded lecture series (NTU OCW, Harvard Open Learning, Yale OYC),
+- free-audit MOOCs with real lecture content (HarvardX/edX, Coursera free tier),
+- scholarly lecture series and university YouTube channels,
+- open educational resources (e.g., Edinburgh OER),
+- free teaching translations and commentaries that TEACH the text (e.g., Robert Eno's Daodejing),
+- the existing enriched doc library.
+
+A module is taught by lectures around a text, not by the text's URL. Every candidate teaching resource is verified open-access (free audit tier counts; paid-only tiers do not) and logged with what topic it covers.
+- The coverage matrix is filled: every topic row must map to at least one verified teaching resource (corpus rows point at the library). **If a topic row cannot be filled from the pool, the degree stops and the owner is told — the topic is not silently dropped.**
 - **D2 output is reviewed at the checkpoint (anti-gaming safeguard 6) before any Phase D3 work.**
 
 ### Phase D3 — Module construction
