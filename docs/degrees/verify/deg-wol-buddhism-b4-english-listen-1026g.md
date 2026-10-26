@@ -48,10 +48,21 @@
   structure. No new claim is made about the manual English track's
   content.
 
+## Third route attempted (supplementary, ~10:00Z)
+
+3. Cloud-browser caption-render route (the b5 EN note's ASR-render
+   mechanism, and the direct-curl route already recorded in the b4
+   source row as bot-walled): the browser's navigation to the watch
+   page was intercepted by a Google unusual-traffic wall (browser IP
+   98.88.148.58, 2026-10-26T09:59:06Z on the wall's own clock) — no
+   watch page, no player, no caption panel rendered. No SuttaCentral-class
+   render was possible on this route.
+
 ## Disposition
 
 - The optional b4 English-listen confirmation remains NOT ESTABLISHED
-  (no route reached the English caption text). The module needs no
+  (no route on three attempts reached the English caption text). The
+  module needs no
   change: its current disclosure is accurate. This receipt discharges
   the routed residual with the attempted-route evidence; the item can
   be closed as attempted-and-blocked unless a worker reaches the
