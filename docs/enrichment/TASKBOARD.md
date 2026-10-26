@@ -314,6 +314,8 @@ people have or can have peak-experiences" span could NOT be re-verified
 returned a server error at check time (dead or down). Supervisor may
 want a carrier replacement or archive.org fallback for that span.
 
+RESOLVED (02:58Z addendum, same worker): the oaks.nvg.org carrier answered at 02:58Z (the earlier failure was transient) and the span "all or almost all people have or can have peak-experiences" is confirmed VERBATIM on the live [Religious Values excerpts page](http://oaks.nvg.org/maslow-rvl.html) (Maslow 1964 chap. 3 excerpt, matching the page's citation). Flag upgraded: no defect.
+
 ## Worker checkpoint (2026-10-26 02:35:44Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
 QC SAMPLE — decision-making dossier (6 quoted spans, all freshly opened): Gigerenzer-Gaissmaier 2011 both abstract spans VERBATIM on the spds.uni-konstanz.de page; Kahneman-Klein 2009 abstract span VERBATIM via eutils; Iyengar-Lepper 2000 jam-study abstract span VERBATIM in the UW faculty PDF; Scheibehenne-Greifeneder-Todd 2010 abstract span VERBATIM in the author-copy PDF; Aristotle NE VII.2 Ross Socrates-incontinence span VERBATIM on the MIT carrier. No defects found.
 ## Worker checkpoint (2026-10-26 02:35:29Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
