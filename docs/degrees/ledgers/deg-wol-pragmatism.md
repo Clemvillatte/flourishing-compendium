@@ -24,6 +24,8 @@ carries a UTC timestamp and the agent id.
 | https://faculty.georgetown.edu/blattnew/prag/index.shtml | 2026-10-26, clock 02:14Z | worker-pplx-pragmatism-1026a (deg-wol-pragmatism) | repair-check re-open: PHIL 351 page re-read in full; no Whitehead or process-philosophy text anywhere on the page; themes and required texts as previously recorded |
 | https://public.econ.duke.edu/~kdh9/Courses/Pragmatism/$American%20Philosophy%20Syllabus%20Fall%202016.pdf | 2026-10-26, clock 02:14Z | worker-pplx-pragmatism-1026a (deg-wol-pragmatism) | repair-check re-open: Duke PHIL 333 Fall 2016 syllabus re-read; no Whitehead or process-philosophy reading in the schedule or recommendations |
 | https://www.uh.edu/~cfreelan/courses/americanphil/american.html | 2026-10-26, clock 02:14Z | worker-pplx-pragmatism-1026a (deg-wol-pragmatism) | repair-check re-open: UH American Philosophy page re-read; no Whitehead or process-philosophy mention; authors and texts as previously recorded |
+| https://www.youtube.com/watch?v=ksLO4i5pIBM | 2026-10-26, oembed confirmed between the 04:40Z claim push 06bdff724 and the M1 production push (same session; save timestamp carries the bound) | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | M1 re-confirmation: oembed returns "American Pragmatism" on the Philosophy Talk channel, freely playable, no paywall; duration 49:24 rests on the 2026-10-25 watch-page measurement in verify/deg-philosophy.md (M01-P03, verified-video) |
+| https://en.wikisource.org/wiki/How_to_Make_Our_Ideas_Clear | 2026-10-26, same session bound as the row above | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | M1 primary text opened: Peirce 1878 essay on Wikisource (public domain); the assigned excerpt (third-grade rule through the free-will example) read on the opened page, maxim sentence confirmed verbatim, excerpt measured at 646 words |
 
 Note: Timestamps in this table are upper bounds from this session's save pushes; exact fetch minutes were not recorded (archive-file mtimes are archive-write times, not open times).
 
@@ -33,7 +35,8 @@ Timestamp audit correction (2026-10-25, strategist-pplx-1025-launch-c): the open
 
 | source_id | status | evidence | date |
 |---|---|---|---|
-| (none yet — Gate 1 scope benchmark only) | | | |
+| M01-P03 Philosophy Talk, American Pragmatism | verified-video (re-confirmed for m1) | verify/deg-philosophy.md mod-phil-4 batch (2026-10-25): oembed identity and access, duration 0:49:24 watch page, hosts' credentials on the Stanford Department of Philosophy page, episode description coverage basis; re-confirmed accessible by oembed this session (2026-10-26) | 2026-10-26 |
+| Peirce 1878, How to Make Our Ideas Clear (Wikisource excerpt) | verified text | opened this session on en.wikisource.org (public domain); assigned excerpt read on the opened page; maxim sentence confirmed verbatim; excerpt measured 646 words; author identity from the essay signature in the Popular Science Monthly header | 2026-10-26 |
 
 ## Coverage matrix
 
@@ -187,3 +190,43 @@ in-session with credentials checked on biography/institutional pages).
 The scope repairs (process-thought bound; Dewey-elective trim) were applied
 2026-10-26 by worker-pplx-pragmatism-1026a (see "Repairs applied" above);
 re-review by the deg-gate reviewer is requested before module work starts.
+
+## Module plan and m1 production (2026-10-26, worker-pplx-pragmatism-1026b, deg-wol-pragmatism baton; wave-2 launch)
+
+Walk structure (five modules, centered on the Walk of Life value
+proposition; coverage matrix rows mapped to modules):
+
+- m1 Orientation, L1 (modules/deg-wol-pragmatism/m1-orientation.md,
+  WRITTEN THIS SESSION, DRAFT NOT CLEARED): the core idea, the maxim in
+  Peirce's own words, the three figures in relation, scope statement.
+  Sources: Philosophy Talk M01-P03 (verified-video, video-first policy
+  applied: a verified lecture video exists for the orientation content
+  and is preferred) and the Peirce 1878 maxim excerpt (Wikisource,
+  public domain, no verified video covers the maxim text itself at the
+  required level; readings are the fallback the video-first policy
+  allows).
+- m2 Peirce on belief and doubt (L2): The Fixation of Belief plus the
+  rest of How to Make Our Ideas Clear; the method applied to one's own
+  belief-habits.
+- m3 James on truth and the will to believe (L2): Pragmatism lectures;
+  candidate video M01-P06 Misak (verified-video) covers the
+  Peirce-James-Ramsey line.
+- m4 Dewey on inquiry, ethics and democracy (L2/L3): public-domain Dewey
+  texts; the Dewey ethics elective anchors here; video candidate search
+  pending (M01-P08 Hicks is verified-video but covers Democracy and
+  Education, the education register the repaired scope dropped, so it is
+  held as optional only).
+- m5 Capstone, L4: personal synthesis applying the method to a live
+  belief, defended against a serious objection (the relativism
+  objection is the natural candidate).
+
+m1 written to the skill standard: outcomes taught, practised and
+assessed with an alignment map; worked example with fading; rubric with
+strong and rejection examples per criterion; workload arithmetic from
+measured components (49:24 video measured 2026-10-25, oembed
+re-confirmed 2026-10-26; 646-word excerpt measured on the opened page;
+reading at 130 wpm with 3x study overhead labelled as estimate); video-
+first policy applied at m1; humanizer rules applied (no em dashes, the
+"not X but Y" construction found in draft removed). DRAFT NOT CLEARED:
+routed to the supervisor module-QC (wave rule 4: never clear your own
+degree's gates); advisor QC round requested this session.

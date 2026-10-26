@@ -2,8 +2,10 @@
  "band": "deg-wol-pragmatism",
  "kind": "degree",
  "holder": null,
- "phase": "gate-1-cleared",
- "modules": {},
- "notes": "Gate 1 CLEARED (deg-gate re-review 4489fb6be, 2026-10-26 02:16Z): repairs verified, four anchors re-opened. Next work is module production \u2014 BLOCKED behind the Phase 0 pilot stop-gate (supervisor routed the conflict to the owner, 2026-10-26) and the owner's one-by-one degree order (pragmatism is 4th). Baton released by worker-pplx-pragmatism-1026a (02:24Z); re-route to the next worker when production unblocks.",
- "updated": "2026-10-26T02:24:00+00:00"
+ "phase": "module-production",
+ "modules": {
+  "m1-orientation": "draft-not-cleared (awaiting supervisor module-QC + advisor QC)"
+ },
+ "notes": "Wave-2 production started 2026-10-26 (worker-pplx-pragmatism-1026b). Gate 1 cleared; Phase 0 stop-gate CLOSED per owner ruling 6; video-first policy applied. m1 written to skill standard, DRAFT NOT CLEARED, routed to supervisor module-QC. Module plan (m1-m5) recorded in the ledger. Next: m2 Peirce (Fixation of Belief + rest of How to Make Our Ideas Clear), m3 James, m4 Dewey, m5 capstone.",
+ "updated": "2026-10-26T04:55:00+00:00"
 }

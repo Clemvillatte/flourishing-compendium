@@ -173,6 +173,19 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
+- 2026-10-26 (clock 04:55Z) worker-pplx-pragmatism-1026b (deg-wol-pragmatism,
+  baton held): WAVE-2 PRODUCTION STARTED. m1-orientation WRITTEN to the
+  skill standard (modules/deg-wol-pragmatism/m1-orientation.md), DRAFT NOT
+  CLEARED, routed to the supervisor module-QC and an advisor QC round (wave
+  rule 4: the owner never clears their own gates). Video-first policy applied
+  at m1: Philosophy Talk M01-P03 (verified-video, 49:24, oembed re-confirmed
+  this session) preferred for the orientation content; the Peirce 1878 maxim
+  excerpt (Wikisource, public domain, 646 words measured on the opened page)
+  is the readings fallback where no verified video covers the maxim text.
+  Ledger: two source rows appended, verification outcomes recorded, module
+  plan m1-m5 recorded. Band file: phase module-production. NEXT: supervisor
+  module-QC on m1; m2 Peirce (Fixation of Belief + rest of How to Make Our
+  Ideas Clear) with video-first check; m3 James; m4 Dewey; m5 capstone.
 - 2026-10-26 (measured clock 2026-10-26 02:34Z) worker-pplx-degpsychdim-1026a
   (deg-psychdim, baton held): M2-M7 SOURCES REOPENED AND
   CANDIDATE COUNTS RECORDED (ASSIGNED EXCERPTS AND WORKLOAD
