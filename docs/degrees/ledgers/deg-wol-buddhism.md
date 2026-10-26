@@ -98,3 +98,61 @@ verified-video/verified-audio). The wiki dossiers and kernels named as
 readings are already-published project content. The production owner
 still owes module-level mapping against the cleared scope before the
 coverage gate can be requested.
+
+## Sources opened (production session 2026-10-26, worker-pplx-buddhism-1026a, baton deg-wol-buddhism)
+
+| URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
+| https://www.youtube.com/watch?v=TpbWVaXBV4c | 2026-10-26, ~05:05 | worker-pplx-buddhism-1026a | Ajahn Brahm "Buddhist Values" watch page: BSWA channel, duration 54:16, upload 2010-04-08, description "core Buddhist values of goodness, peace and kindness... basis for skilful interaction"; oembed confirmed |
+| https://www.youtube.com/watch?v=Nq7YmbYFJkA | 2026-10-26, ~05:10 | worker-pplx-buddhism-1026a | Thanissaro Bhikkhu "The Five Precepts for the Mind" watch page: lengthSeconds 796 (13:16), upload 2016-11-05, CC BY-NC license; content check via page: introduces the five lay precepts (killing, stealing, illicit sex, lying, intoxicants) then their mind dimension; credentials cross-checked on buddho.org and Wikipedia biography pages (Thai forest kammatthana tradition, student of Ajahn Fuang, Abbot of Metta Forest Monastery since 1993) |
+| https://www.youtube.com/watch?v=svWaWFOpxXw | 2026-10-26, ~05:03 | worker-pplx-buddhism-1026a | Bhante Dhammadipa "The Four Immeasurable Minds" watch page: Metta Centre channel, duration 2:09:06, upload 2023-03-04; talk covers the four immeasurables in Pali and Sanskrit traditions |
+| https://www.buddha-haus.de/bhante-dhammadipa/ | 2026-10-26, ~05:15 | worker-pplx-buddhism-1026a | Dhammadipa biography (institutional page): born Prague 1949, university studies (Slavic studies, Sinology, Indology), ordained 1985 with training in Zen, Theravada and Chinese traditions, monastic stays in Japan/Sri Lanka/US/Taiwan/Burma, associated with Pa Auk Sayadaw, teaching since 1997 |
+| https://suttacentral.net/an5.179/en/sujato | 2026-10-26, ~05:12 | worker-pplx-buddhism-1026a | AN 5.179 Gihisutta (Sujato): the five precepts passage quoted ("doesn't kill living creatures, steal, commit sexual misconduct, lie, or consume intoxicants"); free anonymous access |
+| https://suttacentral.net/kp9/en/sujato | 2026-10-26, ~05:12 | worker-pplx-buddhism-1026a | Metta Sutta Khp 9 (Sujato): goodwill instructions confirmed ("May all beings be happy!"; "With love for the whole world, unfold a boundless heart"); free anonymous access |
+| https://bswa.org/bswp/wp-content/uploads/2016/08/Ajahn-Brahm-and-His-Merry-Monks-updated-10-March-2026-Final.pdf | 2026-10-26, ~05:03 | worker-pplx-buddhism-1026a | BSWA "about our monks" institutional booklet: Ajahn Brahm (Abbot, Bodhinyana Monastery) and Bhikkhu Dhammadipa biographies, incl. Lokanta Vihara Sydney 2019 (search-result excerpt; the booklet URL opened via search index) |
+
+Content checks for the precepts outcome (advisor QC query answered empirically): the two previously verified Ajahn Brahm talks were checked against transcripts before use. "What the Buddha Taught" (M02-B07) centers on awakening, rebirth and kamma per the four-truths boundaries receipt; "The Values of Buddhism" (podcast version of the 2010 Buddhist Values talk) teaches ethics from compassion without enumerating the five precepts. Neither carries the precepts outcome; the b1 module therefore anchors the precepts on Thanissaro's talk plus AN 5.179, and uses Ajahn Brahm's values talk for the ethics orientation outcome.
+
+## Verification outcomes
+
+| source_id | status | evidence | date |
+|---|---|---|---|
+| TpbWVaXBV4c Ajahn Brahm Buddhist Values | verified-video | watch page duration 54:16; BSWA channel; instructor credentials on institutional booklet; content: values talk, no precepts enumeration (transcript checked) | 2026-10-26 |
+| Nq7YmbYFJkA Thanissaro Five Precepts for the Mind | verified-video | watch page lengthSeconds 796 (13:16); credentials on buddho.org/Wikipedia bio pages; content: five lay precepts introduced then mind dimension | 2026-10-26 |
+| svWaWFOpxXw Dhammadipa Four Immeasurable Minds | verified-video | watch page duration 2:09:06; Metta Centre channel; credentials on buddha-haus.de institutional bio; content: four immeasurables, Pali and Sanskrit traditions | 2026-10-26 |
+| AN 5.179 Sujato (SuttaCentral) | verified | five precepts passage quoted on opened page; anonymous access | 2026-10-26 |
+| Kp 9 Metta Sutta Sujato (SuttaCentral) | verified | goodwill instructions quoted on opened page; anonymous access | 2026-10-26 |
+
+## Production coverage matrix (2026-10-26, worker-pplx-buddhism-1026a)
+
+Module-level map against the cleared scope; schools treated as overlapping
+practice communities (e.g. Ajahn Brahm serves both the Thai Forest and
+Theravada rows). The four immeasurables and the foundational meditations are
+allocated to named modules rather than left implicit.
+
+| essential topic | module (taught / practised / assessed) | status |
+|---|---|---|
+| Five precepts, sila, ethics applied to concrete cases | b1 taught (Thanissaro talk, AN 5.179), practised (case write-up), assessed (rubric) | b1 drafted this session |
+| Four immeasurables | b1 taught (Dhammadipa talk, Metta Sutta), practised (metta sittings), assessed (rubric) | b1 drafted this session |
+| Buddhist values (goodness, peace, kindness) | b1 taught (Brahm talk), practised (case reasoning), assessed (rubric) | b1 drafted this session |
+| Four Noble Truths and the path | b2 taught (Dreyfus session 1 with the dukkha-only caveat, SN 56.11 Sujato, Harvey glossary boundaries), practised (four tasks on own difficulty), assessed | designed; production owed |
+| Theravada and Thai Forest living teachers | b3 taught (Ajahn Brahm and Thai Forest lineage sources), practised (sitting, cmp bridge), assessed | designed; production owed |
+| Zen | b4 taught (source owed), practised, assessed | designed; source harvest owed |
+| Insight/Vipassana | b4 taught (source owed), practised (cmp bridge), assessed | designed; source harvest owed |
+| Secular Buddhism | b5 taught (living-teacher source owed; no anchor unit), practised, assessed | designed; source harvest owed |
+| Buddhist psychology, practical portions | b6 elective taught (hindrances/aggregates as experienced), practised, assessed | designed; production owed |
+| Thai Forest lineage stories | b6/b3 elective exemplars | designed; production owed |
+| Capstone: apply Buddhist ethics to a concrete situation; sustained practice with records | b7 capstone, L4: applied ethical case with defended school comparison and self-assessment | designed; production owed |
+
+Rebirth passing-mentions check (Gate-1 carry-forward): b1's source set
+carries no rebirth-dependent doctrine; the passing mention is owed at b2
+(the four truths module) where karma-and-rebirth teaching enters through the
+anchors, and must suffice to place the bodhisattva vow's multi-life reading
+(b4/b5) in its traditional frame. Recorded as an open production check.
+
+## Gate decisions (update)
+
+| gate | decision | by | date |
+|---|---|---|---|
+| Gate 1 (scope, independent review) | CLEARED (unchanged, see above) | worker-pplx-deg-gate-1026a | 2026-10-26 |
+| Module QC (b1 draft) | NOT YET REQUESTED: b1 drafted with verified sources; supervisor module-QC owed before it can ship | worker-pplx-buddhism-1026a | 2026-10-26 |
