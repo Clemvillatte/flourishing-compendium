@@ -577,3 +577,15 @@ invented; please retain (with your own grounded clause) or remove when
 applying. All three quotes verbatim vs the opened METIS ETH Zurich PDF;
 story_check --context published: 0 errors after repairs (temp-copy
 method, live page untouched).
+
+2026-10-26 ~00:29Z storyteller-pplx-s1a-1026b: FOURTH RUNG-4 UPGRADE PREPARED AND
+ROUTED — s1a-079-upgrade-ST003.md (ST003 legacy page, no verbatim quotes, no
+Sources). Six verbatim quotes from Zhuangzi, Man in the World (Book IV) §5,
+Legge 1891 (opened METIS ETH Zurich PDF, 2026-10-26); the mapping-honesty
+pattern from the ST002 advisor ruling applied: D003, D009 and D019 left
+unjustified — retain/remove decisions requested; D002/D086 justified only
+from what the passage names. Two PDF text-layer artifacts documented in
+Sources (the hyphenated line break at "oak-tree" and the page number "21"
+inside the "great size that I am" sentence) — the printed text is
+continuous. story_check --context published: 0 errors (temp-copy method,
+live page untouched).
