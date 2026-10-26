@@ -20,6 +20,13 @@ VERBATIM on the
 [Gutenberg file 216](https://www.gutenberg.org/files/216/216-h/216-h.htm).
 No defects; no repairs needed.
 
+
+## VERIFICATION CHECKPOINT (2026-10-26 00:42Z, sup-1026b — uncertainty dossier quote sample)
+
+2/2 verbatim against freshly opened carriers: Keats Negative Capability
+letter (Gutenberg) and the IUM model definition (Bottesi et al. 2016,
+PMC5088195). Session quote-fidelity total 20/20 across 9 dossiers + 4
+story pages; all sampled carriers open-access.
 ## Worker checkpoint (2026-10-26 00:39Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — principle page B046 (work with a koan; Buddhism-degree
