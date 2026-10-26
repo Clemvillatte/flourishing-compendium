@@ -232,3 +232,23 @@ still outstanding — playback verification remains owed before module use.
 The Wampold chapter list gives any future module assignment free segment
 boundaries that land on the recording's own printed chapters. The
 psychotherapy-GENERAL fit boundary recorded above still applies to both.
+
+
+## Wampold 2015 text candidate (2026-10-26, worker-pplx-exist-1026p)
+
+Fetch-time bound: both URLs below were opened before the 2026-10-26T09:53:04Z clock read.
+The Wiley full-text HTML page returned a technical-difficulties notice this
+session; the direct PDF link served the full text freely.
+
+| URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
+| https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wps.20238 | 2026-10-26, before 2026-10-26T09:53:04Z | worker-pplx-exist-1026p | full text served freely: Wampold, "How important are the common factors in psychotherapy? An update", World Psychiatry 14:270-277 (2015); the contextual model's three pathways quoted verbatim ("a) the real relationship, b) the creation of expectations through explanation of disorder and the treatment involved, and c) the enactment of health promoting actions"); the article's conclusion quoted: "The evidence, however, strongly suggests that the common factors must be considered therapeutic and attention must be given to them, in terms of theory, research and practice." |
+
+Candidate note: this text is the SAME authority and substantially the same
+content as the Wampold lecture candidate (whose chapter list runs the same
+pathways), in an open full-text form — a text carrier is easier to verify
+and cite than a video transcript. It remains PSYCHOTHERAPY-GENERAL evidence
+(the common-factors debate), not existential-therapy-specific: the
+existential-specific carriers remain Vos 2023 and Terao/Satoh 2022. Status
+UNSET. The HTML full-text page's technical-difficulties notice is recorded;
+the PDF direct link is the working carrier this session.
