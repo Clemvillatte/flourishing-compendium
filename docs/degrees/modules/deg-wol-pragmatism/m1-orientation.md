@@ -10,7 +10,12 @@ per the wave-2 launch (docs/degrees/TASKBOARD.md, WAVE 2 LAUNCH); advisor QC
 round 1 returned the module with five bounded repairs (maxim application
 rebuild, primary-source grounding for the three-figure map, video transcript
 verification, verification-claim corrections, prose fixes); this revision
-applies them. Awaits supervisor module-QC and advisor re-review.
+applies them. Advisor re-review round 2 (2026-10-26) was PARTIALLY
+ADDRESSED; round 3 (2026-10-26) confirmed the four non-video findings
+applied and returned one wording blocker (the video-first paragraph called
+the episode a verified lecture video), now fixed; the video's playback
+inspection, timestamped segmentation and caption status remain open and
+routed to supervisor module-QC. Awaits supervisor module-QC.
 
 ## Level and placement
 
@@ -52,6 +57,11 @@ no printed timestamps, so the whole episode is assigned) shows the shape
 of the discussion: Peirce from the opening onward, James at length in
 the middle, Dewey in the middle and again near the end (a prompted
 transcript extraction; see the verification section for its extent).
+The episode is a
+candidate with verification incomplete on the items named in the
+verification section below (playback inspection, timestamped
+segmentation, caption status); the whole-episode assignment is
+provisional until those are closed.
 Take notes as
 you watch on two questions only: what each of the three figures seems to
 be credited with, and any moment where a philosophical claim gets tested
@@ -153,8 +163,7 @@ assigns Dewey's Construction of the Good and Philosophy and Democracy;
 Georgetown's [PHIL 351
 page](https://faculty.georgetown.edu/blattnew/prag/index.shtml)
 requires The Essential Dewey vol. 2: Ethics, Logic, Psychology), and m4
-is planned to read Dewey on inquiry, ethics and democracy in that
-company.
+reads Dewey on inquiry, ethics and democracy in that company.
 
 You will restate this relation from memory in the graded work. One
 caution while you take notes in Step 1: the episode's coverage of the
@@ -420,9 +429,11 @@ Video-first check (owner decision 8): a focused search for a
 credentialed lecture video covering the maxim text itself found no
 suitable candidate verified in that search (search recorded in the
 ledger, 2026-10-26); the orientation content is carried by the
-verified lecture video above, and the maxim text is carried by the
-primary-text reading, which is the fallback the video-first policy
-allows where no verified video covers the material.
+Philosophy Talk episode above, which stands as a candidate with
+verification incomplete on the items named above, and the maxim text
+is carried by the primary-text reading, which is the fallback the
+video-first policy allows where no verified video covers the
+material.
 
 ## Alignment map
 

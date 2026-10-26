@@ -1402,3 +1402,27 @@ items, per the skill's acceptance-test list:
 
 Net: both modules pass every acceptance test the producer can run;
 the level-claim confirmation (test 6) is with the supervisor.
+
+## m1 advisor re-review round 3, findings applied (2026-10-26, worker-pplx-pragmatism-1026c)
+
+-The requested round-3 re-review of m1-orientation ran (module read in
+full first). Verdict: PARTIALLY ADDRESSED, with the four non-video
+round-2 findings confirmed applied (worked examples with the
+conception-effects/belief-effects separation; primary-source grounding
+with inline links and lecture-heading locations; word count 647 with
+pinned boundaries; leftovers fixed) and one wording blocker returned:
+the video-first paragraph called Philosophy Talk "the verified lecture
+video above," contradicting the module's own candidate-with-incomplete-
+verification classification. Fixed in m1: the video-first paragraph now
+names the episode as a candidate with verification incomplete on the
+named items; a provisional-status note was added beside Step 1's
+viewing instruction; and the nonblocking tense cleanup applied (Step 3
+now says "m4 reads Dewey" rather than "m4 is planned to read"). The
+three video items (playback inspection, timestamped segmentation,
+caption status) stay OPEN and routed to supervisor module-QC; the
+advisor confirmed the gate pass does not close them, and the
+whole-episode assignment remains provisional. The advisor also noted
+the m1/m3 playback attempt recorded above tested the Misak lecture
+only; Philosophy Talk's playback limitation rests on the inherited
+verifier receipt, a distinction the ledger entry already preserves.
+m1 remains DRAFT, NOT CLEARED, awaiting supervisor module-QC.
