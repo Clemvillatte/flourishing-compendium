@@ -1,121 +1,125 @@
 {
-  "band": "dosr4",
-  "agent": "worker-pplx-dosr4-1026b",
-  "released": "2026-10-26T02:26Z",
-  "dossiers": [
-    "others",
-    "right-speech",
-    "suffering",
-    "acceptance"
-  ],
-  "model": "per the dosr2 repair pass: the STEP 0 heading count does not establish substantiation; this session re-read the four disagreement sections IN FULL and applied the same-proposition/same-conditions test per question",
-  "verdicts": {
-    "others": {
-      "n_disagreements": 3,
-      "n_discovered": 0,
-      "mcp": 3,
-      "carriers_verified": 6,
-      "carriers_touched": 0,
-      "pass": true,
-      "questions": [
-        {
-          "q": "Is empathy-based helping for the other or for the self?",
-          "v": "PASS",
-          "notes": "Direct rival affirm/deny of the same question (the ultimate goal of empathy-based helping) in the same paradigm; Batson et al. 1988 affirms the empathic account, Cialdini et al. 1987 affirms self-directed relief; both own their limits in-file (sample sexes, egoism not itself tested, adaptationism not tested, mood-independent mediation). The unresolved measurement crux is honestly stated. At bar."
-        },
-        {
-          "q": "What is owed to someone who has done harm?",
-          "v": "PASS",
-          "notes": "Analects 14.34 and Matthew 5.43-44 give opposite rules for the same question, stated in their own voice. All four automated quote non-matches (ctext.org, blocked-fetch carrier) re-verified verbatim this session on alternate Legge carriers: Wikisource The Chinese Classics vol. 1 Analects XIV ('What do you say concerning the principle that injury should be recompensed with kindness?'; 'With what then will you recompense kindness? / Recompense injury with justice, and recompense kindness with kindness.') and vol. 2 Mencius ch. 05 ('Moreover, Heaven gives birth to creatures in such a way that they have one root, and Yi makes them to have two roots.') and ch. 06 (\"Mo's principle is 'to love all equally,' which does not acknowledge the peculiar affection due to a father.\"). At bar."
-        },
-        {
-          "q": "Is care for one's own people a limit on moral concern or a fault in it?",
-          "v": "PASS with qualification",
-          "notes": "The passage polarity is preserved as an honest flag (Mozi's quoted reasoning is instrumental; Mencius's objection is about the source of care, and the one-root/two-root passage is about Yi Zhi, not Mozi himself), but at the level of the PRINCIPLE the clash is head-on: Mencius directly denies the Mohist principle (\"Mo's principle is 'to love all equally', which does not acknowledge the peculiar affection due to a father\", verified verbatim this session) while Mozi's Universal Love I directly attacks partiality as the harm enabler. Direct affirm/deny on whether equal concern is the correct principle; at bar with the reasoning-polarity flag retained."
-        }
-      ],
-      "notes": "All 4 automated quote non-matches (ctext.org carrier) adjudicated verbatim on alternate Legge carriers this session (2026-10-26). No dossier text repairs owed; all three questions at the bar."
+ "band": "dosr4",
+ "agent": "worker-pplx-dosr4-1026b",
+ "released": "2026-10-26T02:26Z",
+ "dossiers": [
+  "others",
+  "right-speech",
+  "suffering",
+  "acceptance"
+ ],
+ "model": "per the dosr2 repair pass: the STEP 0 heading count does not establish substantiation; this session re-read the four disagreement sections IN FULL and applied the same-proposition/same-conditions test per question",
+ "verdicts": {
+  "others": {
+   "n_disagreements": 3,
+   "n_discovered": 0,
+   "mcp": 3,
+   "carriers_verified": 6,
+   "carriers_touched": 0,
+   "pass": true,
+   "questions": [
+    {
+     "q": "Is empathy-based helping for the other or for the self?",
+     "v": "PASS",
+     "notes": "Direct rival affirm/deny of the same question (the ultimate goal of empathy-based helping) in the same paradigm; Batson et al. 1988 affirms the empathic account, Cialdini et al. 1987 affirms self-directed relief; both own their limits in-file (sample sexes, egoism not itself tested, adaptationism not tested, mood-independent mediation). The unresolved measurement crux is honestly stated. At bar."
     },
-    "right-speech": {
-      "n_disagreements": 3,
-      "n_discovered": 0,
-      "mcp": 3,
-      "carriers_verified": 6,
-      "carriers_touched": 0,
-      "pass": true,
-      "questions": [
-        {
-          "q": "Must right words be pleasing?",
-          "v": "PASS with qualification",
-          "notes": "The two passages answer the same question differently within the same conditions (speech that is true and beneficial): the Gita 17.15 folds pleasantness into the definition of the austerity of speech; the Abhaya Sutta's third case admits factual, true, beneficial, unendearing words at the proper time, with sympathy as the reason. Frame difference (austerity definition vs conduct case list) and the unresolved hard case are honestly flagged in-file. At bar."
-        },
-        {
-          "q": "May one lie for another's sake?",
-          "v": "PASS",
-          "notes": "The Cunda Kammaraputta Sutta's witness scene gives no exception for a conscious lie told for another's sake; Mill expressly allows the exception when withholding would prevent great and unmerited harm and only denial can withhold. Opposite rules on the same question, stated in their own voice. At bar."
-        },
-        {
-          "q": "Is the duty to tell the truth unconditional?",
-          "v": "PASS",
-          "notes": "Constant grounds the duty in the hearer's right (murderer case); Kant grounds it in the practice of assertion itself and answers the murderer case directly. The two passages answer the same question with opposite rules; the unresolved question (where the duty lives) is honestly stated. At bar."
-        }
-      ],
-      "notes": "No automated quote non-matches (band quote map: clean). No dossier text repairs owed; all three questions at the bar."
+    {
+     "q": "What is owed to someone who has done harm?",
+     "v": "PASS",
+     "notes": "Analects 14.34 and Matthew 5.43-44 give opposite rules for the same question, stated in their own voice. All four automated quote non-matches (ctext.org, blocked-fetch carrier) re-verified verbatim this session on alternate Legge carriers: Wikisource The Chinese Classics vol. 1 Analects XIV ('What do you say concerning the principle that injury should be recompensed with kindness?'; 'With what then will you recompense kindness? / Recompense injury with justice, and recompense kindness with kindness.') and vol. 2 Mencius ch. 05 ('Moreover, Heaven gives birth to creatures in such a way that they have one root, and Yi makes them to have two roots.') and ch. 06 (\"Mo's principle is 'to love all equally,' which does not acknowledge the peculiar affection due to a father.\"). At bar."
     },
-    "suffering": {
-      "n_disagreements": 3,
-      "n_discovered": 0,
-      "mcp": 3,
-      "carriers_verified": 8,
-      "carriers_touched": 0,
-      "pass": true,
-      "questions": [
-        {
-          "q": "Is pain itself an evil?",
-          "v": "PASS",
-          "notes": "Epicurus affirms all pain is an evil while allowing some pain worth accepting; the Stoic classification (Diogenes Laertius VII.101-102) keeps pain among things that neither benefit nor harm. Head-on classification conflict on the same question; the Dionysius story is honestly bounded as an ancient report. At bar."
-        },
-        {
-          "q": "Should ending suffering govern our aspirations?",
-          "v": "PASS with qualification",
-          "notes": "The Buddha's SN 22:86 puts the ending of suffering at the centre of the teaching's aim; Nietzsche BGE 225 directly challenges the aspiration to do away with suffering. The pairing is the dossier's own (section 225 does not name the Buddha), honestly flagged; Frankl's distinction is correctly used as an adjudication aid, not a third-tradition claim. Direct opposition on the same question. At bar."
-        },
-        {
-          "q": "Does suffering track what a person deserves?",
-          "v": "PASS",
-          "notes": "Eliphaz/Bildad's rule and Job's observation directly oppose each other inside one book; the dossier honestly notes the divine verdict does not plainly endorse either statement and the ending is not a plain vindication. At bar."
-        }
-      ],
-      "notes": "No automated quote non-matches (band quote map: clean). No dossier text repairs owed; all three questions at the bar."
-    },
-    "acceptance": {
-      "n_disagreements": 3,
-      "n_discovered": 0,
-      "mcp": 3,
-      "carriers_verified": 8,
-      "carriers_touched": 0,
-      "pass": true,
-      "questions": [
-        {
-          "q": "Is adversity providentially assigned?",
-          "v": "PASS",
-          "notes": "Marcus V.8 reads each adversity as prescribed for the good of the whole; the Liezi's debate ends with no one directing what happens. Direct opposition on the existence of a prescriber, with the acceptance itself shared. Carrier note retained: the Liezi corroboration sits on a forum-hosted Giles translation, flagged in-file; D098 is the primary carrier. At bar."
-        },
-        {
-          "q": "Is acceptance a different process from changing what one thinks?",
-          "v": "PASS with qualification",
-          "notes": "Hayes et al. 2006 affirm ACT works through different processes than traditional CBT; Hofmann 2008 answers that the criticism rests on a misrepresentation and (with Asmundson 2008) that the techniques are fully compatible with CBT. Direct affirm/deny on the mechanism question. The abstracts-only basis is honestly flagged in-file; the dispute is a live scientific one, correctly left unresolved by the dossier. At bar."
-        },
-        {
-          "q": "Is bearing necessity enough, or must it be loved?",
-          "v": "PASS",
-          "notes": "Epictetus sets the bar at wishing things to happen as they do; Nietzsche requires the necessary to be loved and attacks the Stoic ground directly (BGE 9). Direct opposition on the bar, with the dossier's honest note that the wording is closer than the quarrel suggests. At bar."
-        }
-      ],
-      "notes": "No automated quote non-matches (band quote map: clean). No dossier text repairs owed; all three questions at the bar."
+    {
+     "q": "Is care for one's own people a limit on moral concern or a fault in it?",
+     "v": "PASS with qualification",
+     "notes": "The passage polarity is preserved as an honest flag (Mozi's quoted reasoning is instrumental; Mencius's objection is about the source of care, and the one-root/two-root passage is about Yi Zhi, not Mozi himself), but at the level of the PRINCIPLE the clash is head-on: Mencius directly denies the Mohist principle (\"Mo's principle is 'to love all equally', which does not acknowledge the peculiar affection due to a father\", verified verbatim this session) while Mozi's Universal Love I directly attacks partiality as the harm enabler. Direct affirm/deny on whether equal concern is the correct principle; at bar with the reasoning-polarity flag retained."
     }
+   ],
+   "notes": "All 4 automated quote non-matches (ctext.org carrier) adjudicated verbatim on alternate Legge carriers this session (2026-10-26). No dossier text repairs owed; all three questions at the bar."
   },
-  "outcome": "ALL FOUR DOSSIERS AT THE BAR (others 3/3, right-speech 3/3, suffering 3/3, acceptance 3/3 substantiated, all with in-file limits honestly preserved; the 4 'others' quote non-matches adjudicated verbatim on alternate Legge carriers). No below-bar items; no dossier text edits; no publish actions needed (all four already published).",
-  "supersedes": "the earlier dosr4 work is the sup-1026b-worker STEP 0 line (others '3\u2014 appears fully settled'; right-speech '3\u2014 appears fully settled') and the STEP 0 band close 6fab83336 \u2014 confirmed by this session's full-read pass; the 02:24Z push of this same verdict was lost to a local reset before pushing and is re-pushed here unchanged.",
-  "supervisor_confirmation": "2026-10-26 ~02:17Z (corrected from a 02:40Z estimate), supervisor-pplx-1026d (dosr4 baton, second pass): independent full re-read of the four disagreement sections confirms the worker verdicts \u2014 suffering 3/3 PASS (Stoic-indifference vs Epicurus pain-is-evil head-on; Buddha cessation vs Nietzsche discipline-of-suffering; Job's friends' retribution rule vs Job's observation), acceptance 3/3 PASS (Marcus providence vs Liezi no-director; Hayes distinct-process vs Hofmann compatibility; Epictetus wish-it-as-it-happens vs Nietzsche must-be-loved), right-speech 3/3 PASS (Gita pleasing-by-definition vs Abhaya unendearing-admitted; Cunda no-lying-for-another vs Mill protective-denial exception; Constant right-to-truth vs Kant unconditional), others confirmed by the worker's per-question record. Quote check: 3 automated NOT-FOUNDs across the band, all adjudicated by the supervisor via the platform fetcher after curl bot-walls \u2014 Frankl masochistic-rather-than-heroic span VERBATIM on the fabian.ca PDF; Fromm automaton-conformity span VERBATIM on the panarchy page; Constant French passages VERBATIM on the classiques.uqam.ca PDF (one page-number extraction artifact noted). All three are the documented blocked-fetch class, now supervisor-confirmed. One humanizer repair landed in acceptance.md: first-person process narration ('I have read the abstracts on Hofmann's side...') replaced with plain reader terms per HUMANIZER-SKILL customer-facing rule; gates re-run clean (dossier_check exit 0, quotes 7/0, density 0 dense)."
+  "right-speech": {
+   "n_disagreements": 3,
+   "n_discovered": 0,
+   "mcp": 3,
+   "carriers_verified": 6,
+   "carriers_touched": 0,
+   "pass": true,
+   "questions": [
+    {
+     "q": "Must right words be pleasing?",
+     "v": "PASS with qualification",
+     "notes": "The two passages answer the same question differently within the same conditions (speech that is true and beneficial): the Gita 17.15 folds pleasantness into the definition of the austerity of speech; the Abhaya Sutta's third case admits factual, true, beneficial, unendearing words at the proper time, with sympathy as the reason. Frame difference (austerity definition vs conduct case list) and the unresolved hard case are honestly flagged in-file. At bar."
+    },
+    {
+     "q": "May one lie for another's sake?",
+     "v": "PASS",
+     "notes": "The Cunda Kammaraputta Sutta's witness scene gives no exception for a conscious lie told for another's sake; Mill expressly allows the exception when withholding would prevent great and unmerited harm and only denial can withhold. Opposite rules on the same question, stated in their own voice. At bar."
+    },
+    {
+     "q": "Is the duty to tell the truth unconditional?",
+     "v": "PASS",
+     "notes": "Constant grounds the duty in the hearer's right (murderer case); Kant grounds it in the practice of assertion itself and answers the murderer case directly. The two passages answer the same question with opposite rules; the unresolved question (where the duty lives) is honestly stated. At bar."
+    }
+   ],
+   "notes": "No automated quote non-matches (band quote map: clean). No dossier text repairs owed; all three questions at the bar."
+  },
+  "suffering": {
+   "n_disagreements": 3,
+   "n_discovered": 0,
+   "mcp": 3,
+   "carriers_verified": 8,
+   "carriers_touched": 0,
+   "pass": true,
+   "questions": [
+    {
+     "q": "Is pain itself an evil?",
+     "v": "PASS",
+     "notes": "Epicurus affirms all pain is an evil while allowing some pain worth accepting; the Stoic classification (Diogenes Laertius VII.101-102) keeps pain among things that neither benefit nor harm. Head-on classification conflict on the same question; the Dionysius story is honestly bounded as an ancient report. At bar."
+    },
+    {
+     "q": "Should ending suffering govern our aspirations?",
+     "v": "PASS with qualification",
+     "notes": "The Buddha's SN 22:86 puts the ending of suffering at the centre of the teaching's aim; Nietzsche BGE 225 directly challenges the aspiration to do away with suffering. The pairing is the dossier's own (section 225 does not name the Buddha), honestly flagged; Frankl's distinction is correctly used as an adjudication aid, not a third-tradition claim. Direct opposition on the same question. At bar."
+    },
+    {
+     "q": "Does suffering track what a person deserves?",
+     "v": "PASS",
+     "notes": "Eliphaz/Bildad's rule and Job's observation directly oppose each other inside one book; the dossier honestly notes the divine verdict does not plainly endorse either statement and the ending is not a plain vindication. At bar."
+    }
+   ],
+   "notes": "No automated quote non-matches (band quote map: clean). No dossier text repairs owed; all three questions at the bar."
+  },
+  "acceptance": {
+   "n_disagreements": 3,
+   "n_discovered": 0,
+   "mcp": 3,
+   "carriers_verified": 8,
+   "carriers_touched": 0,
+   "pass": true,
+   "questions": [
+    {
+     "q": "Is adversity providentially assigned?",
+     "v": "PASS",
+     "notes": "Marcus V.8 reads each adversity as prescribed for the good of the whole; the Liezi's debate ends with no one directing what happens. Direct opposition on the existence of a prescriber, with the acceptance itself shared. Carrier note retained: the Liezi corroboration sits on a forum-hosted Giles translation, flagged in-file; D098 is the primary carrier. At bar."
+    },
+    {
+     "q": "Is acceptance a different process from changing what one thinks?",
+     "v": "PASS with qualification",
+     "notes": "Hayes et al. 2006 affirm ACT works through different processes than traditional CBT; Hofmann 2008 answers that the criticism rests on a misrepresentation and (with Asmundson 2008) that the techniques are fully compatible with CBT. Direct affirm/deny on the mechanism question. The abstracts-only basis is honestly flagged in-file; the dispute is a live scientific one, correctly left unresolved by the dossier. At bar."
+    },
+    {
+     "q": "Is bearing necessity enough, or must it be loved?",
+     "v": "PASS",
+     "notes": "Epictetus sets the bar at wishing things to happen as they do; Nietzsche requires the necessary to be loved and attacks the Stoic ground directly (BGE 9). Direct opposition on the bar, with the dossier's honest note that the wording is closer than the quarrel suggests. At bar."
+    }
+   ],
+   "notes": "No automated quote non-matches (band quote map: clean). No dossier text repairs owed; all three questions at the bar."
+  }
+ },
+ "outcome": "ALL FOUR DOSSIERS AT THE BAR (others 3/3, right-speech 3/3, suffering 3/3, acceptance 3/3 substantiated, all with in-file limits honestly preserved; the 4 'others' quote non-matches adjudicated verbatim on alternate Legge carriers). No below-bar items; no dossier text edits; no publish actions needed (all four already published).",
+ "supersedes": "the earlier dosr4 work is the sup-1026b-worker STEP 0 line (others '3\u2014 appears fully settled'; right-speech '3\u2014 appears fully settled') and the STEP 0 band close 6fab83336 \u2014 confirmed by this session's full-read pass; the 02:24Z push of this same verdict was lost to a local reset before pushing and is re-pushed here unchanged.",
+ "supervisor_confirmation": "2026-10-26 ~02:17Z (corrected from a 02:40Z estimate), supervisor-pplx-1026d (dosr4 baton, second pass): independent full re-read of the four disagreement sections confirms the worker verdicts \u2014 suffering 3/3 PASS (Stoic-indifference vs Epicurus pain-is-evil head-on; Buddha cessation vs Nietzsche discipline-of-suffering; Job's friends' retribution rule vs Job's observation), acceptance 3/3 PASS (Marcus providence vs Liezi no-director; Hayes distinct-process vs Hofmann compatibility; Epictetus wish-it-as-it-happens vs Nietzsche must-be-loved), right-speech 3/3 PASS (Gita pleasing-by-definition vs Abhaya unendearing-admitted; Cunda no-lying-for-another vs Mill protective-denial exception; Constant right-to-truth vs Kant unconditional), others confirmed by the worker's per-question record. Quote check: 3 automated NOT-FOUNDs across the band, all adjudicated by the supervisor via the platform fetcher after curl bot-walls \u2014 Frankl masochistic-rather-than-heroic span VERBATIM on the fabian.ca PDF; Fromm automaton-conformity span VERBATIM on the panarchy page; Constant French passages VERBATIM on the classiques.uqam.ca PDF (one page-number extraction artifact noted). All three are the documented blocked-fetch class, now supervisor-confirmed. One humanizer repair landed in acceptance.md: first-person process narration ('I have read the abstracts on Hofmann's side...') replaced with plain reader terms per HUMANIZER-SKILL customer-facing rule; gates re-run clean (dossier_check exit 0, quotes 7/0, density 0 dense).",
+ "done": [
+  "2026-10-26, 2026-10-26T07:55:58Z, worker-pplx-dosr4-1026e: SUBSTANTIVE-PARTIAL close (full reads done, quote spot-verification partial \u2014 see below). All four disagreement sections read in full, unfiltered. Per-question verdicts under the same-proposition test: acceptance Q1 Marcus V.8 vs Liezi ch. 6 (providential prescriber vs no director \u2014 same proposition, AT BAR); acceptance Q2 Hayes et al. 2006 vs Hofmann 2008 / Hofmann & Asmundson 2008 (separate ACT processes vs one emotion-regulation map \u2014 direct exchange, AT BAR); acceptance Q3 Epictetus Enchiridion 8 vs Nietzsche EH amor fati + BGE 9 (wishing vs loving necessity \u2014 AT BAR); suffering Q1 Stoic indifference vs Epicurus 'all pain is an evil' (AT BAR); suffering Q2 Buddha SN 22:86 single aim vs Nietzsche BGE 225 discipline of suffering (AT BAR); suffering Q3 Job's friends' retribution rule, staged inside one book and marked as such (AT BAR); others Q1 Batson empathy-altruism vs Cialdini egoistic relief (rival explanations of the same helping, AT BAR); others Q2 Analects 14.34 vs Matthew 5.43-45 (recompense injury with justice vs love your enemies \u2014 AT BAR); others Q3 Mozi universal love vs Mencius one root (AT BAR); right-speech Q1 Gita 17.15 vs Abhaya third case (pleasantness folded in vs unendearing-but-beneficial admitted \u2014 AT BAR); right-speech Q2 Cunda Kammaraputta no-lie floor vs Mill's withholding exception (AT BAR); right-speech Q3 Constant's right-to-truth vs Kant's unconditional duty (murderer-at-the-door, AT BAR). Quote verification receipts this pass: Marcus V.8 verbatim on MIT Classics (opened); Hayes et al. 2006 PDF opened, both quoted sentences verbatim; Hofmann & Asmundson 2008 abstract opened on eutils (matches paraphrase); Epictetus Enchiridion 8 and the 'price paid for equanimity' passage verbatim on MIT epicench.html; Nietzsche EH 'must also be loved' sentence verbatim on Gutenberg pg52190; BGE 9 'self-tyranny' context checked (paraphrase fair); BGE 225 'to do away with suffering' and 'discipline of suffering' verbatim on Gutenberg pg4363; Job 4:7 verbatim on ebible.org WEB. NOT re-verified this pass (owed to the next holder or QC sampler): Epicurus Menoeceus (MIT), SN 22:86 (dhammatalks), Marcus Meditations B7 (MIT), Frankl PDF, all 'others' and 'right-speech' quotes (their carriers are openable: ctext.org, themozi.org, biblehub, wisdomlib, accesstoinsight, Balliol PDF, classiques.uqam, scielo). REPAIR APPLIED: acceptance line 5 'Long translation' label corrected to 'Carter translation' (the MIT epicench.html page is Elizabeth Carter's translation, opened and confirmed; the line-63 quote itself matches that page verbatim). CARRIER WEAKNESS NOTED, not repaired: acceptance's Liezi ch. 6 corroboration carrier is a forum repost (thedaobums.com) of the Giles translation \u2014 public-domain text but a weak carrier; a Wikisource or ctext carrier would be stronger, left flagged for the supervisor. Hofmann 2008 (Wiley) is paywalled and was not re-opened this pass. No manufactured disagreements found; the sections state their unresolved cruxes honestly. Band NOT declared complete: quote verification is partial by this entry's own count; the next holder finishes the remaining verifications and repairs any defects they surface, then this band closes on a full-verification record."
+ ],
+ "updated": "2026-10-26T07:55:58Z"
 }

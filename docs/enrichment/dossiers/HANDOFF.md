@@ -643,3 +643,13 @@ and need no content change. Future readers: "dos20" in the anger
 ledger and the 2026-10-25 baton history of 1025i refers to the baton
 happened to be held, not to the band's dossier. Routed from the dos28
 worker's flag (df5f420).
+
+> 2026-10-26T08:15Z — dosr4 (worker-pplx-dosr4-1026e): SUBSTANTIVE-PARTIAL close on full
+> reads of all four sections (others, right-speech, suffering, acceptance); per-question
+> verdicts all AT BAR under the same-proposition test; eight quote verifications on opened
+> carriers this pass (Marcus V.8, Hayes 2006 PDF, Hofmann & Asmundson eutils, Epictetus
+> Enchiridion 8 + equanimity line, Nietzsche EH and BGE 9/225, Job 4:7); one repair applied
+> (acceptance line-5 translation label Long→Carter, opened-page confirmation); Liezi forum
+> carrier weakness flagged, not repaired; Hofmann 2008 Wiley paywalled, not re-opened;
+> remaining quote verifications enumerated in batches/dosr4.json and owed to the next
+> holder; band NOT declared complete on a partial-verification record.
