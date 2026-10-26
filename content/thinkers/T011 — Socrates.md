@@ -17,7 +17,7 @@ Socrates wrote nothing himself; everything we have is second-hand and disputed, 
 
 ## Their why
 
-What set him questioning, by Plato's account, was an oracle: Chaerephon asked Delphi whether anyone was wiser than Socrates, and the answer was no one, a claim he found absurd and set out to test by questioning everyone reputed to be wise ([[ST152 — Socrates and the Oracle|152. Socrates and the Oracle]]). The finding, as the Apology has him put it in the Jowett translation: "He, O men, is the wisest, who, like Socrates, knows that his wisdom is in truth worth nothing" (Apology 20d-e, trans. Jowett, [MIT Classics](https://classics.mit.edu/Plato/apology.html)).
+What set him questioning, by Plato's account, was an oracle: Chaerephon asked Delphi whether anyone was wiser than Socrates, and the answer was no one, a claim he found absurd and set out to test by questioning everyone reputed to be wise ([[ST152 — Socrates and the Oracle|152. Socrates and the Oracle]]). The finding, as the Apology has him put it in the Jowett translation: "He, O men, is the wisest, who, like Socrates, knows that his wisdom is in truth worth nothing" (Apology 23a-b, trans. Jowett, [MIT Classics](https://classics.mit.edu/Plato/apology.html)).
 
 ## Their position
 
