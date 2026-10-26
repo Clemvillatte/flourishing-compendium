@@ -22,5 +22,5 @@ While surveying, a genuinely free academic-run Stoicism course was directly open
 ## Status for the lane
 
 - Gap #6 outcome: the IAI Pigliucci course is the likely referent; its free status could not be confirmed from the page alone (the "free" offer's terms are unexplained) — recommend the lane either run a browser enrollment check or treat it as UNRESOLVED and not count hours. The paid Pigliucci offerings (Great Courses, APPA) are excluded on the no-paywall rule.
-- Gap #7 (teaching layer): Modern Stoicism's Stoic Week / SMRT surfaced as a verified-free Stoicism course family (multiple corroborating sources read this session; the course pages themselves not yet opened — one more fetch pass if the lane wants them admitted).
+- Gap #7 (teaching layer): Modern Stoicism's Stoic Week page was directly opened this session (FREE, Oct 26 2026 course, Riches/LeBon — see section 2); the SMRT (Stoic Mindfulness and Resilience Training) sibling course remains search-corroborated only — one more fetch pass if the lane wants it admitted.
 - No changes needed to the Greek D1 inventory; the pool ledger was NOT edited (no baton held).
