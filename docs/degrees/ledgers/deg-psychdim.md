@@ -2789,6 +2789,62 @@ corroborated original ANT formulas and speed–accuracy context. Source
 identities and navigation now repaired; supervisor module-QC owed,
 **DRAFT, NOT CLEARED**.
 
+### M5 production checkpoint, degree-4376b4ec, 05:16Z
+
+`modules/deg-psychdim/m5-self-and-identity.md` drafted; L3 independent
+inquiry follows M4's L2 guided application. All approved rows retained:
+SCC/esteem/accuracy distinctions; SCCS self-assessment framing and limits;
+identity-domain chart and exploration/commitment versus narrative
+comparison; continuous Big Five, own recurring trait/context account;
+self-evaluation/self-justification; own/other attribution and cultural
+limit; EEMM self lens versus the FAP-specific Table-1 application.
+Six outcome families, all with practice/feedback, assessed criteria and
+private lived-instance/usefulness/uncertainty transfer. No clinical
+assessment, autobiography requirement or improvement grade.
+
+Outcome-specific video substitutes: Bloom13 13:53–19:47=5:54;
+Bloom16 15:56–28:41=12:45 and 40:00–50:03=10:03;
+McAdams narrowed to 10:07–13:31=3:24, before the participant's
+negative-childhood example; Little11:12–13:59=2:47. Total **34:53**.
+Parent opened all four actual watch pages, read the assigned continuous
+transcript context, and opened Northwestern/Cambridge biographies.
+No claim of audiovisual playback. Bloom's categorical healthy-self
+rhetoric and broad culture examples are explicitly qualified; later
+therapy claim and unassigned sex/caffeine/hazing stories excluded.
+([Bloom13](https://www.youtube.com/watch?v=piDznzrNymE);
+[Bloom16](https://www.youtube.com/watch?v=jsrB5m3mL-A);
+[McAdams](https://www.youtube.com/watch?v=49FCgaZRn_M);
+[Little](https://www.youtube.com/watch?v=qYvXk_bqlBk);
+[Northwestern](https://psychology.northwestern.edu/people/faculty/core/profiles/dan-mcadams.html);
+[Cambridge](https://www.psychol.cam.ac.uk/people/professor-brian-little).)
+
+Essential reading residuals are stated by actual headings/paragraphs:
+Manchiraju definitions, two distinction paragraphs+Table1, four
+measurement-appraisal paragraphs, two intervention-limit paragraphs;
+Branje first four introductory paragraphs ending "one or multiple life
+domains" (not the previously proposed nonexistent numbered subsections);
+Noba continuous-distribution paragraph and last three person/situation
+paragraphs; actual SCCS form; Maitland Self row+note only. Parent
+reopened the complete articles, instrument and exact Noba text. Noba's
+actual opening is "An important feature of personality traits,"
+not the inherited "traits are normally distributed" locator.
+The linked SCCS has five response options, ten reverse-keyed items,
+6/11 forward; fictional educational keying and complete mean logic
+are explicitly separated from norms, original reporting convention
+and clinical use. No item-bank republication or missing-data rule.
+([SCC review](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/);
+[development review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9298910/);
+[Noba](https://nobaproject.com/modules/personality-traits);
+[opened instrument](https://dlab.sauder.ubc.ca/sjdm/dmidi/files/Campbell_et_al._(1996)_Self-Concept_Clarity.doc);
+[Maitland](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/).)
+
+Workload estimates/rates/overheads printed: 50 video study +45 reading
++40 lesson +35 practice +20 retrieval +110 independent inquiry =
+**300 minutes**. Readings estimated 1,700–2,000 words, not a measured
+token receipt. Advisor QC was commissioned but the adviser failed
+for unavailable credits before returning findings. Do not claim an
+advisor pass. Supervisor independent module-QC owed; **DRAFT, NOT CLEARED**.
+
 M1 independent supervisor decision consumed at 05:02Z:
 `reviews/deg-psychdim-m1-supervisor-2026-10-26.md` records **MODULE-QC
 PASS** on production commit **cdb8f0939**, module SHA-256

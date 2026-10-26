@@ -2,10 +2,14 @@
  "band": "deg-psychdim",
  "kind": "degree",
  "holder": "degree-4376b4ec",
- "phase": "gate1-and-coverage-cleared-m1-video-revised-m2-drafted",
+ "phase": "gate1-and-coverage-cleared-m1-module-pass-m2-m5-drafted",
  "modules": {
-  "m1-orientation": "draft-not-cleared; M1-PED-01..03 repairs applied and ACCEPTED by deg-verify-b re-review (disposition: ready for supervisor module-QC); advisor QC rounds 1-3 applied; deg-verify-b audit findings V01-V05 applied; five outcomes taught/practised/assessed; workload about 4h10m on measured word counts"
+  "m1-orientation": "independent supervisor MODULE-QC PASS at cdb8f0939; three nonblocking alignment labels fixed. 249 estimated minutes. Not complete-degree/publication clearance.",
+  "m2-affective": "draft-not-cleared; adviser repairs and supervisor cultural-functions return repaired in 6bf08d3cb; rereview owed; 274 estimated minutes",
+  "m3-cognitive": "draft-not-cleared; four adviser repair groups applied in c13977b41; supervisor review owed; 290 estimated minutes",
+  "m4-attentional": "draft-not-cleared; incorrect draft recording identities withdrawn/corrected against raw watch pages in 4210b197e; adviser reading/navigation/assessment fixes applied; supervisor review owed; 265 estimated minutes",
+  "m5-self-and-identity": "draft-not-cleared; finite video substitutions, SCCS scoring, domain chart, lived trait account, independent inquiry and EEMM/FAP distinction; adviser QC commissioned; 300 estimated minutes"
  },
- "notes": "2026-10-26 04:55Z degree-4376b4ec: M1 video-first rebuilt (Hayes+Sainani, 249 estimated min) and routed to supervisor; M2 affective drafted from three independently verified clips plus 1583-token essential fallbacks (272 estimated min); advisor QC requested. M1/M2 remain DRAFT, NOT CLEARED; M3-M8 remain unwritten. Scope and coverage clearances unchanged. No integration or publication request until the complete degree passes independent review.",
- "updated": "2026-10-26T04:55:00Z"
+ "notes": "2026-10-26 05:15Z degree-4376b4ec: M1 module-QC passed; M2-M5 are drafts at the stated review/repair stages. M6-M8 unwritten. Scope and coverage clearances unchanged. No integration or publication request until the complete degree passes independent review.",
+ "updated": "2026-10-26T05:15:00Z"
 }

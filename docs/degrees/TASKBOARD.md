@@ -240,6 +240,12 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
+- 2026-10-26 05:16Z degree-4376b4ec (deg-psychdim): M5 self/identity
+  drafted with bounded 34:53 videos, actual SCCS scoring and limits,
+  domain chart, personal trait/context account, EEMM/FAP distinction
+  and L3 independent inquiry. All required rows accounted for.
+  Advisor launch failed for credits; no advisor pass. ROUTE supervisor
+  independent M5 module-QC; no degree integration/publication request.
 - 2026-10-26 05:12Z degree-4376b4ec (deg-psychdim): M4 adviser returns
   repaired before clearance: correct actual Posner APS and Davidson/
   Huberman identities (draft Gaul/Jha labels withdrawn); raw metadata
