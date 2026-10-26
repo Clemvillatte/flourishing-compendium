@@ -24,31 +24,31 @@ The three syllabi agree on the same skeleton: (a) what is contemplative science 
 
 ### A. Orientation — what is contemplative science and practice?
 - What is contemplative science; the empirical study of meditation, yoga and related practices [UO PSY 407 course description; Brown Contemplative Studies]
-- The history and religious roots of contemplative practice — Buddhist, Christian, Sufi, Yogic [UCEAP course description; UO PSY 407]
+- The history and religious roots of contemplative practice — Buddhist, Christian, Sufi, Yogic [SEARCH-RESULT-SOURCED — UCEAP course description NOT opened this session; UO PSY 407 WAS opened]
 - The appropriation question — secularizing contemplative practices in Western contexts [UO PSY 407 course description]
 - Contemplative education — the pedagogy of the contemplative classroom [Brown, UO]
 
 ### B. The core contemplative practices
 - Mindfulness meditation — focused attention and open monitoring [UO PSY 407 practices; Brown M&C]
 - Compassion meditation — loving-kindness and tonglen [UO PSY 407 practices; Brown M&C]
-- Self-compassion practice [Brown M&C; Stanford CHPR 233]
+- Self-compassion practice [Brown M&C WAS opened; Stanford CHPR 233 SEARCH-RESULT-SOURCED — not opened]
 - Gratitude, forgiveness and sympathetic joy [Brown M&C course description]
 - Formal and informal practice — "working with" vs "taking into life" [Brown Flourishing syllabus]
-- Yoga and body-based contemplative practice [UO PSY 407 course description; UCEAP]
+- Yoga and body-based contemplative practice [UO PSY 407 WAS opened; UCEAP SEARCH-RESULT-SOURCED — not opened]
 
 ### C. The science of contemplative practice
 - Attention and the contemplative brain — cognitive neuroscience of meditation [UO PSY 407; Brown Contemplative Studies]
 - Emotion regulation and contemplative practice [Brown Flourishing Wellbeing dimension]
 - Contemplative practice and wellbeing — stress, anxiety, depression, quality of life [UO PSY 407 outcomes; Brown M&C]
-- Neuroplasticity and meditation [Harvard RELI E-1702]
-- Compassion training and its neural correlates [Harvard RELI E-1702; Stanford CHPR 233]
+- Neuroplasticity and meditation [Harvard RELI E-1702 SEARCH-RESULT-SOURCED — not opened this session]
+- Compassion training and its neural correlates [BOTH SEARCH-RESULT-SOURCED — not opened this session]
 - The empirical methods of contemplative science — designing a self-study [UO PSY 407 class project]
 
 ### D. The lived experience of contemplative practice
 - The daily practice — establishing and sustaining a contemplative practice [Brown M&C 45 min/day; Brown Flourishing 120 min/week]
 - The contemplative lab — group practice and dialogue [Brown Flourishing contemplative lab]
 - Retreat — the intensive practice experience [Brown M&C mandatory daylong retreat]
-- The contemplative journal — micro-phenomenological inquiry [COA Mind Matters; Brown Flourishing practice log]
+- The contemplative journal — micro-phenomenological inquiry [COA Mind Matters SEARCH-RESULT-SOURCED — not opened; Brown Flourishing WAS opened]
 
 ### E. Contemplative practice and the dimensions of flourishing
 - Awareness — plasticity, mindfulness, focus [Brown Flourishing Awareness dimension]
@@ -58,11 +58,11 @@ The three syllabi agree on the same skeleton: (a) what is contemplative science 
 - Integration — courage, performance [Brown Flourishing Integration dimension]
 
 ### F. Applications of contemplative practice
-- Clinical applications — MBSR, MBCT and related interventions [Brown M&C modelled on UMass MBSR; Harvard RELI E-1702]
-- Contemplative practice in education [COA Mind Matters; Stanford CHPR 233]
-- Contemplative practice, burnout and compassion fatigue [Harvard RELI E-1702; Stanford CHPR 233]
-- Contemplative practice and social justice / global citizenship [Stanford CSRE 47Q; COA Mind Matters]
-- Contemplative practice and sustainability / ecological wellbeing [Stanford CHPR 239]
+- Clinical applications — MBSR, MBCT and related interventions [Brown M&C WAS opened; Harvard RELI E-1702 SEARCH-RESULT-SOURCED — not opened]
+- Contemplative practice in education [BOTH SEARCH-RESULT-SOURCED — not opened this session]
+- Contemplative practice, burnout and compassion fatigue [BOTH SEARCH-RESULT-SOURCED — not opened this session]
+- Contemplative practice and social justice / global citizenship [BOTH SEARCH-RESULT-SOURCED — not opened this session]
+- Contemplative practice and sustainability / ecological wellbeing [SEARCH-RESULT-SOURCED — not opened this session]
 
 ## Coverage matrix (topic → module that will teach it)
 
@@ -81,12 +81,12 @@ The module numbering below is PROPOSED for the D2 checkpoint review; the existin
 | Attention and the contemplative brain | mod-cont-8 (new) | MISSING | cognitive neuroscience |
 | Emotion regulation and contemplative practice | mod-cont-9 (new) | MISSING | affective neuroscience |
 | Contemplative practice and wellbeing | mod-cont-10 (new) | MISSING | stress, anxiety, depression outcomes |
-| Neuroplasticity and meditation | mod-cont-11 (new) | MISSING | Harvard RELI E-1702 |
+| Neuroplasticity and meditation | mod-cont-11 (new) | MISSING | Harvard RELI E-1702 (SEARCH-RESULT-SOURCED — not opened) |
 | Compassion training and its neural correlates | mod-cont-11 | MISSING | compassion neuroscience |
 | Empirical methods of contemplative science | mod-cont-12 (new) | MISSING | UO self-study design |
 | The daily practice — establishing and sustaining | mod-cont-13 (new) | MISSING | Brown M&C 45 min/day |
 | Retreat — the intensive practice experience | mod-cont-13 | OPTIONAL | D2 finite-scope call |
-| The contemplative journal and micro-phenomenology | mod-cont-14 (new) | MISSING | COA Mind Matters |
+| The contemplative journal and micro-phenomenology | mod-cont-14 (new) | MISSING | COA Mind Matters (SEARCH-RESULT-SOURCED — not opened) |
 | Awareness — plasticity, mindfulness, focus | mod-cont-15 (new) | MISSING | Brown Flourishing Awareness |
 | Wellbeing — emotion, happiness, resilience | mod-cont-15 | MISSING | Brown Flourishing Wellbeing |
 | Connection — interdependence, compassion, diversity | mod-cont-15 | MISSING | Brown Flourishing Connection |
