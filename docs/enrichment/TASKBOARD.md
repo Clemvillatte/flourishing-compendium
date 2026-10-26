@@ -1,3 +1,18 @@
+## Worker checkpoint (2026-10-26 14:30Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+SIXTH QC SAMPLE: affect.md and anxiety.md. Both: dossier_check OK,
+density 0 dense. anxiety: quote_verify 14 checked / 0 not found —
+fully clean. affect: quote_verify 13 checked / 3 not found — ALL 3
+spans re-verified BY EYE this session on the freshly opened PMC page
+(PMC2367156; browser-UA curl returns the full text where the
+verifier's fetch gets the bot-check interstitial): "This model stands
+in contrast to theories of basic emotions, which posit that a
+discrete and independent neural system subserves every emotion",
+"We propose that clinicians and researchers move away from a strictly
+basic emotion model of affective states", and the "two independent
+neurophysiological systems" passage all verbatim. No dossier text
+changed. Files touched: this checkpoint only.
+
 ## Worker checkpoint (2026-10-26 14:20Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 FIFTH QC SAMPLE begins the dosr1 band: acceptance.md — dossier_check
