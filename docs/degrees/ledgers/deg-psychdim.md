@@ -3248,3 +3248,56 @@ preserves all independent decisions. M4/M5 window decisions and M5/M6
 delta reviews remain routed to the next supervisor session; M6 adviser
 availability failed explicitly. Complete-degree review, integration
 and Academy publication remain closed.
+
+### Producer-side Sainani in-clip corroboration via watch-page transcript render, 2026-10-26 07:57Z (worker-pplx-psychdim-1026g)
+
+The deg-psychdim publication shipped with one non-blocking open
+verification item: the in-clip worked examples of the Sainani
+`LKiX54NglCo` clips were not verbatim-confirmed because all transcript
+routes in `verify/deg-psychdim-sainani-transcript-routes-1026d.md`
+were exhausted (platform robots on `api/timedtext`, sandbox 429,
+third-party renderer IP-block, cloud-browser panel empty).
+
+New route this session: the platform search engine renders the YouTube
+watch page's own transcript panel with second markers. Querying the
+page (https://www.youtube.com/watch?v=LKiX54NglCo) returned transcript
+segments that corroborate the module claims:
+
+- Cherry-juice worked example, inside assigned clip 1 (25:46-44:11):
+  at {ts:1839} (30:39) "the value we see in the sample like the
+  negative 20 seconds in the cherry juice trial"; at {ts:2286} (38:06)
+  "the value that we observed in our sample, like the negative 20
+  seconds in the cherry juice trial"; at {ts:2400} (40:00) "Cherry
+  juice does nothing. To test the hypothesis using our data, we're
+  going to run just a standard t test." This supports `m1-orientation`
+  lines 204-216 (hypothetical cherry-juice example, worked model at
+  t=2021=33:41).
+- Clip 2 content (54:02-57:21): at {ts:3258} (54:18) "What is a p
+  value not? A p value is not the probability that your result arose
+  due to chance. It's not the probability that your result is a false
+  positive. It's not the probability that the null hypothesis is true."
+  This matches the module's second-pause exercise (rewriting
+  "p = .05 means a five percent chance the finding is false").
+
+Carrier correction on the caffeine half of the open item: the caffeine
+example is not in the Sainani clip; it is in the assigned Noba span of
+"Thinking like a Psychological Scientist" (Erin I. Smith), section
+"The Interpretation of Research Results" (verbatim-confirmed by fetch
+of https://nobaproject.com/modules/thinking-like-a-psychological-scientist:
+"Imagine a researcher wanting to examine the hypothesis ... that
+caffeine enhances memory"; "if the results of the memory test reveal
+that the caffeine group performs better, this is a piece of evidence in
+favor of the hypothesis"). The `m1-orientation` caffeine sentence
+(line 242-245) attaches the Sainani link for the hypothesis-testing
+definitions, not as the caffeine carrier. The earlier open-item framing
+("in-clip worked examples, cherry juice, caffeine") conflated the two
+carriers; both are now corroborated in their actual carriers.
+
+Caveat: the transcript text is auto-generated captions (one render
+reads "cherry juice trap" for "cherry juice trial"), so quotes carry
+ASR noise; substance and second-marks are consistent across renders.
+No module, source or window change is proposed by this entry; it is
+producer-side corroboration only. Formal closure of the open item
+remains with deg-verify-b (the 5:37 stub receipt under
+`deg-verify-b/deg-video-recheck-open-items.md`) and the supervisor; the
+5721 window-boundary receipt is unaffected.
