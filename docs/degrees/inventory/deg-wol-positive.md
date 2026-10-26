@@ -24,7 +24,7 @@ The sources triangulate on the same structure: (a) foundations and the history o
 
 ### A. Foundations
 - Introduction to positive psychology; the shift from pathology to optimal functioning [Charter Oak wk 1 is "Positive Psychology and Well-Being—Cultural Perspectives"; Sydney wk 1 is "Introduction to Positive Psychology; Well-Being; Positive Emotions" — the PERMA model specifically is NOT named in either heading and must be sourced from an opened primary source before it enters the matrix as established]
-- Short history of well-being (hedonic vs eudaimonic; philosophical roots) [Sydney wk 1; Aberystwyth wk 2]
+- Short history of well-being (hedonic vs eudaimonic; philosophical roots) [Sydney wk 1; Aberystwyth wk 2] [UNRESOLVED per the v3 correction receipt deg-arch-d1-deep-audits-correction-archpsych-1027a.md: the opened headings are "Well-Being" (Sydney seminar 1) and "Introduction to Applied Positive Psychology" (Aberystwyth wk 2); NEITHER heading names the hedonic/eudaimonic distinction or philosophical roots — that content is an inference from the field, not from the opened sources. Source the distinction at D2 against an opened primary source (e.g. a syllabus or text that names it) before the row is established]
 - Cultural perspectives on well-being [Charter Oak wk 1]
 
 ### B. Positive emotions and subjective well-being
@@ -44,14 +44,14 @@ The sources triangulate on the same structure: (a) foundations and the history o
 
 ### D. Meaning, purpose and eudaimonic well-being
 - Meaning and purpose; meaning in making [Sydney wk 2; Aberystwyth wk 7]
-- Eudaimonic vs hedonic well-being [Sydney wk 1 (well-being)]
+- Eudaimonic vs hedonic well-being [Sydney wk 1 (well-being)] [UNRESOLVED per the v3 correction receipt — same as the Section A row above; the opened heading names "Well-Being" only]
 - Values, motivation, life goals [Charter Oak wk 2 (goals)]
 - Religions, spirituality and well-being [research-queue item — not in the three opened syllabi; flagged for the D2 reviewer to source or drop]
 
 ### E. Relationships and engaged living
 - Positive relationships I / II [Sydney wk 3; Aberystwyth wk 5-6]
 - Engaged living [Sydney wk 3]
-- Love and intimate relationships [Aberystwyth wk 5-6 (positive social connection)]
+- Love and intimate relationships [Aberystwyth wk 5-6 (positive social connection)] [UNRESOLVED per the v3 correction receipt deg-arch-d1-deep-audits-correction-archpsych-1027a.md: the opened headings are "Positive Social Connection (Part 1/Part 2)"; "love and intimate relationships" is an interpretive addition. Unresolved pending an opened source that names it]
 - Empathy, compassion, altruism [research-queue item — not in the three opened syllabi]
 
 ### F. Applied interventions
