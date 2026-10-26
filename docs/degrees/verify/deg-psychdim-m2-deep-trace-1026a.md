@@ -66,3 +66,15 @@ field; the fix list item 3 wording has been updated to match.)
 ## Closure (2026-10-26, later same session)
 
 RESOLVED: the schema lane re-spliced PD-M2-04's locator from the corrected manifest; the published locator now carries the 450-word bounded excerpts verbatim (verified at commit a0ee345). The m2 receipt's qualification is lifted - all seven m2 entries now PASS without qualification.
+
+## Word-label correction (2026-10-26, later session)
+
+The 450 figures above (three places) are this lane's stale estimate: the m2
+doc's own line-80 figure is "About 480", the recount receipt
+(docs/degrees/verify/deg-fix-text-count-corrections-1026c.md) measured the
+three excerpts at 481 words, and the published locator carries "about 480
+words" (verified on origin/main, fix-list snapshot verification). The verdict
+is unaffected - the PASS covers the bounded-excerpt structure, which is
+correct; only the word label above is stale. The fix list (item 3) and the
+manifest were corrected earlier this session (348361b); this receipt's own
+text is the last artifact carrying the 450.
