@@ -1,3 +1,25 @@
+## Worker checkpoint (2026-10-26 02:46Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
+QC SAMPLE — concept page Passions as judgments (complete: all quoted
+spans checked): the Enchiridion 5 Carter-translation passage confirmed
+VERBATIM on the opened
+[Internet Classics Archive page](https://classics.mit.edu/Epictetus/epicench.html);
+the SEP Stoicism §4.7 spans — the "opinion or judgment or weak
+supposition" passage (also checked for the Pathē page), the "mistakes
+something he currently possesses or expects to possess" span, and the
+propatheiai "without the intervention of assent" span — confirmed
+VERBATIM on the opened
+[SEP Stoicism entry](https://plato.stanford.edu/entries/stoicism/);
+the four Stoic-Psychopathology spans (the "do not, in fact, define
+passions as false judgments" correction, the weak-not-false span, the
+"a weak, fresh judgment" conclusion, and the Diogenes Laertius VII 111
+quotation) confirmed VERBATIM on the opened
+[PhilArchive PDF](https://philarchive.org/archive/BROSP); the IEP
+"well-disposed emotional life" span confirmed VERBATIM on the opened
+[IEP Stoic Philosophy of Mind entry](https://iep.utm.edu/stoicmind/)
+(capitalization of the sentence-initial "A/a" only). No defects; no
+repairs needed.
+
 ## Worker checkpoint (2026-10-26 02:45Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
 
 QC SAMPLE — concept page Patience (partial: Buddhist-forbearance spans
