@@ -1,7 +1,7 @@
 {
  "baton": "s1a",
  "agent": "storyteller-pplx-1026f",
- "clocked_in": "2026-10-26T09:27:06+00:00",
+ "clocked_in": "2026-10-26T09:55:53+00:00",
  "takeovers": [
   {
    "by": "storyteller-dd542ab3",
@@ -164,6 +164,13 @@
    "at": "2026-10-26T09:27:06+00:00",
    "from": "storyteller-pplx-s1a-1026b",
    "reason": "released"
+  },
+  {
+   "by": "storyteller-pplx-1026f",
+   "at": "2026-10-26T09:55:53+00:00",
+   "from": "storyteller-pplx-1026f",
+   "reason": "stale (29 min)"
   }
- ]
+ ],
+ "released": false
 }

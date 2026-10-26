@@ -1,2678 +1,2683 @@
 {
-  "lane": "s1a",
-  "items": {
-    "s1a-001": {
-      "status": "rejected",
-      "angle": "D080 qiwu: the monkey keeper's three-in-the-morning feeding (Zhuangzi ch. 2)",
-      "history": [
-        {
-          "t": "2026-10-20T12:51:54+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-20T12:52:12+00:00",
-          "to": "rejected",
-          "note": "angle already the principle's in-body emblem (D080 monkey keeper); pivoted to s1a-002"
-        }
-      ]
-    },
-    "s1a-002": {
-      "status": "integrated",
-      "angle": "P184 twice-born: Tolstoy's crisis in A Confession (Tolstoy 1882 + James's Varieties Sick Soul)",
-      "history": [
-        {
-          "t": "2026-10-20T12:52:12+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-20T13:04:01+00:00",
-          "to": "qc_pending",
-          "note": "round-2 revision"
-        },
-        {
-          "t": "2026-10-20T13:10:00+00:00",
-          "to": "ready",
-          "note": "round-3 final; advisor verdict ready-for-supervisor-review"
-        },
-        {
-          "t": "2026-10-21T12:22:19+00:00",
-          "to": "published",
-          "note": "supervisor registration this session"
-        },
-        {
-          "t": "2026-10-21T12:37:52+00:00",
-          "to": "published",
-          "note": "supervisor registration ST410"
-        },
-        {
-          "t": "2026-10-23T11:41:02+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST410"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "ready",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST348"
-        },
-        {
-          "t": "2026-10-26T00:20:32+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST348"
-    },
-    "s1a-003": {
-      "status": "integrated",
-      "angle": "D039: Heschel — the shrine the Nazis could not burn; rest as the root the week travels from",
-      "history": [
-        {
-          "t": "2026-10-20T13:18:09+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-20T13:18:31+00:00",
-          "to": "drafting",
-          "note": ""
-        },
-        {
-          "t": "2026-10-20T13:30:40+00:00",
-          "to": "qc_pending",
-          "note": ""
-        },
-        {
-          "t": "2026-10-21T12:28:11+00:00",
-          "to": "published",
-          "note": "supervisor registration this session"
-        },
-        {
-          "t": "2026-10-21T12:38:10+00:00",
-          "to": "published",
-          "note": "supervisor registration ST411"
-        },
-        {
-          "t": "2026-10-23T11:41:02+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST411"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "qc_pending",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-25T13:57:07+00:00",
-          "to": "ready",
-          "note": "verification pass: quotes re-verified against re-opened sources; humanizer contrast scaffolds removed; ready"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST393"
-        },
-        {
-          "t": "2026-10-26T00:20:32+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST393"
-    },
-    "s1a-004": {
-      "status": "integrated",
-      "angle": "D156: the pagoda sways like a willow — Hōryū-ji flexibility vs rigidity",
-      "history": [
-        {
-          "t": "2026-10-20T13:18:09+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-20T13:18:31+00:00",
-          "to": "drafting",
-          "note": ""
-        },
-        {
-          "t": "2026-10-20T13:30:40+00:00",
-          "to": "qc_pending",
-          "note": ""
-        },
-        {
-          "t": "2026-10-21T12:28:11+00:00",
-          "to": "published",
-          "note": "supervisor registration this session"
-        },
-        {
-          "t": "2026-10-21T12:38:26+00:00",
-          "to": "published",
-          "note": "supervisor registration ST412"
-        },
-        {
-          "t": "2026-10-23T11:41:02+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST412"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "qc_pending",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-25T13:57:28+00:00",
-          "to": "ready",
-          "note": "verification pass: both NIPPONIA pages re-opened via alternate fetch, all ten quotes verbatim; ready"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST394"
-        },
-        {
-          "t": "2026-10-26T00:20:32+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST394"
-    },
-    "s1a-005": {
-      "status": "returned",
-      "angle": "B074: the Buddha returns the insult — Akkosa Sutta, thoughts as declined offerings",
-      "history": [
-        {
-          "t": "2026-10-20T13:18:09+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-20T13:18:31+00:00",
-          "to": "drafting",
-          "note": ""
-        },
-        {
-          "t": "2026-10-20T13:30:40+00:00",
-          "to": "qc_pending",
-          "note": ""
-        },
-        {
-          "t": "2026-10-20T13:36:10+00:00",
-          "to": "returned",
-          "note": ""
-        }
-      ]
-    },
-    "s1a-006": {
-      "status": "integrated",
-      "angle": "B026: Bill W. finds Dr. Bob — AA's founding as the four efforts in action",
-      "history": [
-        {
-          "t": "2026-10-20T13:24:39+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-20T13:25:16+00:00",
-          "to": "drafting",
-          "note": ""
-        },
-        {
-          "t": "2026-10-20T13:30:40+00:00",
-          "to": "qc_pending",
-          "note": ""
-        },
-        {
-          "t": "2026-10-21T12:28:11+00:00",
-          "to": "published",
-          "note": "supervisor registration this session"
-        },
-        {
-          "t": "2026-10-21T12:38:42+00:00",
-          "to": "published",
-          "note": "supervisor registration ST413"
-        },
-        {
-          "t": "2026-10-23T11:41:02+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST413"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "qc_pending",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-25T13:58:05+00:00",
-          "to": "ready",
-          "note": "verification pass: all four sources re-opened, quotes confirmed (typographic artifacts noted); ready"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST395"
-        },
-        {
-          "t": "2026-10-26T00:20:32+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST395"
-    },
-    "s1a-007": {
-      "status": "integrated",
-      "angle": "P182: the teller and the doer — Gallwey's Bounce-Hit",
-      "history": [
-        {
-          "t": "2026-10-20T13:24:39+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-20T13:25:16+00:00",
-          "to": "drafting",
-          "note": ""
-        },
-        {
-          "t": "2026-10-20T13:30:41+00:00",
-          "to": "qc_pending",
-          "note": ""
-        },
-        {
-          "t": "2026-10-21T12:28:11+00:00",
-          "to": "published",
-          "note": "supervisor registration this session"
-        },
-        {
-          "t": "2026-10-21T12:39:18+00:00",
-          "to": "published",
-          "note": "supervisor registration ST414"
-        },
-        {
-          "t": "2026-10-23T11:41:02+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST414"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "qc_pending",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-25T13:58:49+00:00",
-          "to": "ready",
-          "note": "verification pass: book PDF re-extracted, tennis.com re-opened; quote marks aligned to source, hold-the-attention attribution corrected; ready"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST396"
-        },
-        {
-          "t": "2026-10-26T00:20:32+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST396"
-    },
-    "s1a-008": {
-      "status": "integrated",
-      "angle": "D080: the blind men and the elephant (Udana 6.4) — partial truths mistaken for the whole",
-      "history": [
-        {
-          "t": "2026-10-20T13:24:39+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-20T13:25:16+00:00",
-          "to": "drafting",
-          "note": ""
-        },
-        {
-          "t": "2026-10-20T13:30:41+00:00",
-          "to": "qc_pending",
-          "note": ""
-        },
-        {
-          "t": "2026-10-20T13:44:07+00:00",
-          "to": "returned",
-          "note": "Independent advisor: unsupported touch/cure; limited D080 analogy; gist-first repairs applied, re-review pending"
-        },
-        {
-          "t": "2026-10-20T13:46:13+00:00",
-          "to": "qc_pending",
-          "note": "Independent advisor return applied; re-review requested"
-        },
-        {
-          "t": "2026-10-20T13:49:19+00:00",
-          "to": "ready",
-          "note": "Independent milestone reviewer READY; source quotes and limited D080 fit certified"
-        },
-        {
-          "t": "2026-10-21T12:22:19+00:00",
-          "to": "published",
-          "note": "supervisor registration this session"
-        },
-        {
-          "t": "2026-10-21T12:39:43+00:00",
-          "to": "published",
-          "note": "supervisor registration ST415"
-        },
-        {
-          "t": "2026-10-23T11:41:02+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST415"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "ready",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST370"
-        },
-        {
-          "t": "2026-10-26T00:20:32+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST370"
-    },
-    "s1a-009": {
-      "status": "integrated",
-      "angle": "D080: the marquis feeds a seabird as himself; generous human standards become lethal across different ways of life",
-      "history": [
-        {
-          "t": "2026-10-20T13:43:03+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-20T13:45:26+00:00",
-          "to": "drafting",
-          "note": "Primary chapter and scholarly manuscript opened; complete narrative drafted"
-        },
-        {
-          "t": "2026-10-20T13:46:13+00:00",
-          "to": "qc_pending",
-          "note": "Complete primary episode and Lai article raw-verified; independent review requested"
-        },
-        {
-          "t": "2026-10-20T13:49:19+00:00",
-          "to": "returned",
-          "note": "Milestone reviewer accepted substance; three redundant humanizer lines cut verbatim; final confirmation pending"
-        },
-        {
-          "t": "2026-10-20T13:51:40+00:00",
-          "to": "qc_pending",
-          "note": "Applied all three exact advisor cuts; final confirmation requested"
-        },
-        {
-          "t": "2026-10-20T13:54:21+00:00",
-          "to": "ready",
-          "note": "Independent final advisor READY; complete source arc, three cuts verified, checker green"
-        },
-        {
-          "t": "2026-10-21T12:22:19+00:00",
-          "to": "published",
-          "note": "supervisor registration this session"
-        },
-        {
-          "t": "2026-10-21T12:40:11+00:00",
-          "to": "published",
-          "note": "supervisor registration ST416"
-        },
-        {
-          "t": "2026-10-23T11:41:02+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST416"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "ready",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST371"
-        },
-        {
-          "t": "2026-10-26T00:20:32+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST371"
-    },
-    "s1a-010": {
-      "status": "integrated",
-      "angle": "B068: Dighavu repeatedly examines revenge and sheathes the sword before mutual non-harm; new target per owner broad Buddhist storyteller remit",
-      "history": [
-        {
-          "t": "2026-10-20T13:48:40+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-20T13:50:34+00:00",
-          "to": "drafting",
-          "note": "Complete canonical arc drafted; renewed threat and failed appeal to monks preserved"
-        },
-        {
-          "t": "2026-10-20T13:51:40+00:00",
-          "to": "qc_pending",
-          "note": "Checker green; independent milestone review requested"
-        },
-        {
-          "t": "2026-10-20T13:54:22+00:00",
-          "to": "ready",
-          "note": "Independent milestone advisor READY; full revenge/oath arc source-verified; checker green"
-        },
-        {
-          "t": "2026-10-21T12:22:19+00:00",
-          "to": "published",
-          "note": "supervisor registration this session"
-        },
-        {
-          "t": "2026-10-21T12:40:28+00:00",
-          "to": "published",
-          "note": "supervisor registration ST417"
-        },
-        {
-          "t": "2026-10-23T11:41:02+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST417"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "ready",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST372"
-        },
-        {
-          "t": "2026-10-26T00:20:32+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST372"
-    },
-    "s1a-011": {
-      "status": "integrated",
-      "angle": "P136: Addams and the Devil Baby; an unsettling failed bedside visit changes how she understands old women and their stories",
-      "history": [
-        {
-          "t": "2026-10-20T13:52:37+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-20T13:53:32+00:00",
-          "to": "drafting",
-          "note": "Full autobiographical bedside encounter drafted; primary chapter and scholarly context opened"
-        },
-        {
-          "t": "2026-10-20T13:54:22+00:00",
-          "to": "qc_pending",
-          "note": "Complete Addams narrative, primary and scholarly sources opened, checker green; independent QC requested"
-        },
-        {
-          "t": "2026-10-20T13:56:44+00:00",
-          "to": "returned",
-          "note": "Advisor accepted source and arc; explicit NOT carried facet and one vague sentence cut applied"
-        },
-        {
-          "t": "2026-10-20T13:57:22+00:00",
-          "to": "qc_pending",
-          "note": "Both exact advisor return edits applied; final confirmation requested"
-        },
-        {
-          "t": "2026-10-20T14:00:09+00:00",
-          "to": "ready",
-          "note": "Independent final advisor READY; exact return fixes confirmed, primary chapter verified"
-        },
-        {
-          "t": "2026-10-21T12:22:19+00:00",
-          "to": "published",
-          "note": "supervisor registration this session"
-        },
-        {
-          "t": "2026-10-21T12:40:42+00:00",
-          "to": "published",
-          "note": "supervisor registration ST418"
-        },
-        {
-          "t": "2026-10-23T11:41:02+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST418"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "ready",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST373"
-        },
-        {
-          "t": "2026-10-26T00:20:32+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST373"
-    },
-    "s1a-012": {
-      "status": "integrated",
-      "angle": "D039: Poincare alternates deliberate work, periods away and verification; apparent rest, not a promise of breakthrough or physical recovery",
-      "history": [
-        {
-          "t": "2026-10-20T13:55:33+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-20T13:56:44+00:00",
-          "to": "drafting",
-          "note": "Complete Poincare investigation arc drafted, primary reprint and Ruelle article read in full"
-        },
-        {
-          "t": "2026-10-20T13:57:22+00:00",
-          "to": "qc_pending",
-          "note": "Complete primary and scholar opened; checker zero; milestone advisor requested"
-        },
-        {
-          "t": "2026-10-20T14:00:09+00:00",
-          "to": "ready",
-          "note": "Independent milestone advisor READY; full investigation sequence and limits verified"
-        },
-        {
-          "t": "2026-10-21T12:22:19+00:00",
-          "to": "published",
-          "note": "supervisor registration this session"
-        },
-        {
-          "t": "2026-10-21T12:40:56+00:00",
-          "to": "published",
-          "note": "supervisor registration ST419"
-        },
-        {
-          "t": "2026-10-23T11:41:02+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST419"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "ready",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST374"
-        },
-        {
-          "t": "2026-10-26T00:20:32+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST374"
-    },
-    "s1a-013": {
-      "status": "integrated",
-      "angle": "D156: Muir rides a storm in a supple treetop; elasticity, anchorage and neighbouring trees, with no universal survival claim",
-      "history": [
-        {
-          "t": "2026-10-20T13:58:29+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-20T13:59:40+00:00",
-          "to": "drafting",
-          "note": "Full primary chapter opened; complete tree-ride arc, contradictory rigid-survivor details and safe attribution retained"
-        },
-        {
-          "t": "2026-10-20T14:00:09+00:00",
-          "to": "qc_pending",
-          "note": "Full primary and secondary archive opened; checker green; independent review requested"
-        },
-        {
-          "t": "2026-10-20T14:02:32+00:00",
-          "to": "ready",
-          "note": "Independent final advisor READY; primary facts, complete arc and D156 limits verified"
-        },
-        {
-          "t": "2026-10-21T12:22:19+00:00",
-          "to": "published",
-          "note": "supervisor registration this session"
-        },
-        {
-          "t": "2026-10-21T12:41:12+00:00",
-          "to": "published",
-          "note": "supervisor registration ST420"
-        },
-        {
-          "t": "2026-10-23T11:41:02+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST420"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "ready",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST375"
-        },
-        {
-          "t": "2026-10-26T00:20:32+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST375"
-    },
-    "s1a-014": {
-      "status": "integrated",
-      "angle": "B026: Meghiya finds that the right grove and eagerness do not replace conditions for directing effort; complete Ud4.1 arc",
-      "history": [
-        {
-          "t": "2026-10-20T14:27:10+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-20T14:28:00+00:00",
-          "to": "drafting",
-          "note": "Complete Ud4.1 arc drafted; four additional practices not conflated with four efforts"
-        },
-        {
-          "t": "2026-10-20T14:28:17+00:00",
-          "to": "qc_pending",
-          "note": "Checker zero; independent first-item review requested"
-        },
-        {
-          "t": "2026-10-20T14:30:45+00:00",
-          "to": "ready",
-          "note": "Independent advisor READY; complete source chronology, quotes, partial four-effort fit accepted"
-        },
-        {
-          "t": "2026-10-21T12:22:19+00:00",
-          "to": "published",
-          "note": "supervisor registration this session"
-        },
-        {
-          "t": "2026-10-21T12:41:31+00:00",
-          "to": "published",
-          "note": "supervisor registration ST421"
-        },
-        {
-          "t": "2026-10-23T11:41:02+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST421"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "ready",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST376"
-        },
-        {
-          "t": "2026-10-26T00:20:32+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST376"
-    },
-    "s1a-015": {
-      "status": "integrated",
-      "angle": "P042: children confront cotton-seed removal and reconstruct textile tools; guided inquiry without the false requirement to get hurt",
-      "history": [
-        {
-          "t": "2026-10-20T14:28:17+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-20T14:30:25+00:00",
-          "to": "drafting",
-          "note": "Dewey complete textile-learning sequence drafted from primary university transcription"
-        },
-        {
-          "t": "2026-10-20T14:30:45+00:00",
-          "to": "qc_pending",
-          "note": "Primary source drafted and checker green; independent milestone QC requested"
-        },
-        {
-          "t": "2026-10-21T12:26:23+00:00",
-          "to": "published",
-          "note": "supervisor verification: quotes re-verified against opened sources this session"
-        },
-        {
-          "t": "2026-10-21T12:41:48+00:00",
-          "to": "published",
-          "note": "supervisor registration ST422"
-        },
-        {
-          "t": "2026-10-23T11:41:02+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST422"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "qc_pending",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-25T13:59:17+00:00",
-          "to": "ready",
-          "note": "verification pass: both ledger quotes confirmed verbatim in full chapter text (Gutenberg 53910, brocku live but Cloudflare-gated); ready"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST383"
-        },
-        {
-          "t": "2026-10-26T00:20:32+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST383"
-    },
-    "s1a-016": {
-      "status": "integrated",
-      "angle": "D156: tree survives uselessness but goose dies for it; no fixed useful/useless strategy, adapt with changing conditions",
-      "history": [
-        {
-          "t": "2026-10-20T14:30:45+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-20T14:32:11+00:00",
-          "to": "drafting",
-          "note": "Full tree/goose/counterexample/midpoint-rejection/Dao arc drafted from opened primary and Watson comparison"
-        },
-        {
-          "t": "2026-10-20T14:34:11+00:00",
-          "to": "qc_pending",
-          "note": "Complete source audit and checker green; independent review blocked by exhausted reviewer credits"
-        },
-        {
-          "t": "2026-10-21T12:26:23+00:00",
-          "to": "published",
-          "note": "supervisor verification: quotes re-verified against opened sources this session"
-        },
-        {
-          "t": "2026-10-21T12:42:07+00:00",
-          "to": "published",
-          "note": "supervisor registration ST423"
-        },
-        {
-          "t": "2026-10-23T11:41:02+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST423"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "qc_pending",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-25T14:03:02+00:00",
-          "to": "ready",
-          "note": "verification pass: ctext bot-walled, both Legge quotes re-verified via ctext's indexed text and two independent Legge hosts; chinaheritage re-opened directly; ready"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST384"
-        },
-        {
-          "t": "2026-10-26T00:20:32+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST384"
-    },
-    "s1a-017": {
-      "status": "integrated",
-      "angle": "D068: Han Xin crawls beneath the butcher's youth — yielding measured against the whole future, closed without revenge",
-      "history": [
-        {
-          "t": "2026-10-21T11:15:32+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-21T11:18:59+00:00",
-          "to": "qc_pending",
-          "note": "advisor QC round 1: FAIL, repairs applied"
-        },
-        {
-          "t": "2026-10-21T11:22:15+00:00",
-          "to": "qc_pending",
-          "note": "advisor QC round 2: narrow repairs applied; scoped-pass verdict pending supervisor disposition (off-slice scope hold)"
-        },
-        {
-          "t": "2026-10-21T11:30:14+00:00",
-          "to": "qc_pending",
-          "note": "advisor round 3: scoped PASS on content; off-slice scope hold remains"
-        },
-        {
-          "t": "2026-10-21T11:30:20+00:00",
-          "to": "qc_pending",
-          "note": "advisor round 3: scoped PASS on content; off-slice scope hold remains"
-        },
-        {
-          "t": "2026-10-21T12:26:23+00:00",
-          "to": "published",
-          "note": "supervisor verification: quotes re-verified against opened sources this session"
-        },
-        {
-          "t": "2026-10-21T12:42:18+00:00",
-          "to": "published",
-          "note": "supervisor registration ST424"
-        },
-        {
-          "t": "2026-10-23T11:41:02+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST424"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "qc_pending",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-25T13:59:30+00:00",
-          "to": "ready",
-          "note": "verification pass: Wikisource raw text re-fetched, all three Chinese quotes character-verified, paraphrase probes confirmed; ready"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST385"
-        },
-        {
-          "t": "2026-10-26T00:20:32+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST385"
-    },
-    "s1a-018": {
-      "status": "integrated",
-      "angle": "P181 from the boundary side: Duchenne's muscle of benevolence obeys only the feeling, not the will",
-      "history": [
-        {
-          "t": "2026-10-21T11:15:32+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-21T11:18:59+00:00",
-          "to": "qc_pending",
-          "note": "advisor QC round 1: FAIL, repairs applied"
-        },
-        {
-          "t": "2026-10-21T11:22:15+00:00",
-          "to": "qc_pending",
-          "note": "advisor QC round 2: repairs applied; scan-locator verification hold + off-slice scope hold"
-        },
-        {
-          "t": "2026-10-21T12:26:23+00:00",
-          "to": "published",
-          "note": "supervisor verification: quotes re-verified against opened sources this session"
-        },
-        {
-          "t": "2026-10-21T12:42:37+00:00",
-          "to": "published",
-          "note": "supervisor registration ST425"
-        },
-        {
-          "t": "2026-10-23T11:41:02+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST425"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "qc_pending",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-25T14:00:07+00:00",
-          "to": "ready",
-          "note": "verification pass: all four French quotes re-located in the re-opened NLM OCR text (garbled OCR noise noted; quotes are the cleaned readings); ready"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST386"
-        },
-        {
-          "t": "2026-10-26T00:20:32+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST386"
-    },
-    "s1a-019": {
-      "status": "integrated",
-      "angle": "B054: the worldly winds staged as the Ciñcā accusation; equanimity reading is the compendium's interpretation",
-      "history": [
-        {
-          "t": "2026-10-21T11:23:35+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-21T11:23:35+00:00",
-          "to": "qc_pending",
-          "note": "first advisor QC for this item pending"
-        },
-        {
-          "t": "2026-10-21T11:30:14+00:00",
-          "to": "qc_pending",
-          "note": "advisor round 1 repairs applied verbatim; final verification pending; off-slice scope hold"
-        },
-        {
-          "t": "2026-10-21T11:30:20+00:00",
-          "to": "qc_pending",
-          "note": "advisor round 1 repairs applied verbatim; final verification pending; off-slice scope hold"
-        },
-        {
-          "t": "2026-10-21T11:31:45+00:00",
-          "to": "qc_pending",
-          "note": "advisor round 2: scoped PASS on reviewed prose and mapping; qc_pending retained for supervisor scope disposition"
-        },
-        {
-          "t": "2026-10-21T12:26:23+00:00",
-          "to": "published",
-          "note": "supervisor verification: quotes re-verified against opened sources this session"
-        },
-        {
-          "t": "2026-10-21T12:42:51+00:00",
-          "to": "published",
-          "note": "supervisor registration ST426"
-        },
-        {
-          "t": "2026-10-23T11:41:02+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST426"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "qc_pending",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-25T14:00:43+00:00",
-          "to": "ready",
-          "note": "verification pass: all five ledger quotes plus three body strings matched verbatim in the re-opened Burlingame page; ready"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST387"
-        },
-        {
-          "t": "2026-10-26T00:20:32+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST387"
-    },
-    "s1a-020": {
-      "status": "integrated",
-      "angle": "B074: MN 20 ladder — a thought is tested for skillfulness, never for truth; outcome is mastery over thought-sequences",
-      "history": [
-        {
-          "t": "2026-10-21T11:32:49+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-21T11:32:52+00:00",
-          "to": "qc_pending",
-          "note": "item-5 advisor round due next per cadence"
-        },
-        {
-          "t": "2026-10-21T11:34:49+00:00",
-          "to": "qc_pending",
-          "note": "advisor round 1 repairs applied; final verification pending"
-        },
-        {
-          "t": "2026-10-21T12:27:50+00:00",
-          "to": "published",
-          "note": "supervisor verification: quotes re-verified against opened sources this session"
-        },
-        {
-          "t": "2026-10-21T12:43:05+00:00",
-          "to": "published",
-          "note": "supervisor registration ST427"
-        },
-        {
-          "t": "2026-10-23T11:41:02+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST427"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "qc_pending",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-25T14:00:56+00:00",
-          "to": "ready",
-          "note": "verification pass: all six ledger quotes plus the slowing-walker simile matched verbatim in the re-opened MN 20 page; ready"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST389"
-        },
-        {
-          "t": "2026-10-26T00:20:32+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST389"
-    },
-    "s1a-021": {
-      "status": "integrated",
-      "angle": "Bunyan Grace Abounding P184 twice-born",
-      "history": [
-        {
-          "t": "2026-10-21T11:39:22+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-21T11:39:36+00:00",
-          "to": "qc_pending",
-          "note": ""
-        },
-        {
-          "t": "2026-10-21T12:27:50+00:00",
-          "to": "published",
-          "note": "supervisor verification: quotes re-verified against opened sources this session"
-        },
-        {
-          "t": "2026-10-21T12:43:29+00:00",
-          "to": "published",
-          "note": "supervisor registration ST428"
-        },
-        {
-          "t": "2026-10-23T11:41:02+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST428"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "qc_pending",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-25T14:01:30+00:00",
-          "to": "ready",
-          "note": "verification pass: all 15 ledger quotes re-matched in the re-downloaded Gutenberg 654 text (one apostrophe-style difference noted); ready"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST390"
-        },
-        {
-          "t": "2026-10-26T00:20:32+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST390"
-    },
-    "s1a-022": {
-      "status": "integrated",
-      "angle": "MN 36 austerities pivot B026",
-      "history": [
-        {
-          "t": "2026-10-21T11:56:11+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-21T11:56:11+00:00",
-          "to": "qc_pending",
-          "note": ""
-        },
-        {
-          "t": "2026-10-21T12:27:50+00:00",
-          "to": "published",
-          "note": "supervisor verification: quotes re-verified against opened sources this session"
-        },
-        {
-          "t": "2026-10-21T12:43:50+00:00",
-          "to": "published",
-          "note": "supervisor registration ST429"
-        },
-        {
-          "t": "2026-10-23T11:41:02+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST429"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "qc_pending",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-25T14:01:10+00:00",
-          "to": "ready",
-          "note": "verification pass: all eight ledger quotes plus three body strings matched verbatim in the re-opened MN 36 page; ready"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST391"
-        },
-        {
-          "t": "2026-10-26T00:20:32+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST391"
-    },
-    "s1a-023": {
-      "status": "integrated",
-      "angle": "B192: young Franklin's book of thirteen virtues — morning question, evening examination, and the speckled axe",
-      "history": [
-        {
-          "t": "2026-10-21T12:21:19+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-21T12:21:19+00:00",
-          "to": "drafting",
-          "note": ""
-        },
-        {
-          "t": "2026-10-21T12:22:35+00:00",
-          "to": "qc_pending",
-          "note": "first item drafted; quotes raw-verified; corpus catch (ST184) recorded with distinct angle; advisor QC round 1 requested"
-        },
-        {
-          "t": "2026-10-21T12:25:38+00:00",
-          "to": "qc_pending",
-          "note": "advisor round-1 FAIL repairs applied (opening, verbatim fixes, speckled-axe rebuild, unsupported precision removed, MN61 boundary stated); body-quote audit 20/20 + 4 table strings manual-check; checker 0 errors; stays qc_pending for supervisor disposition (ST184 duplication + off-slice scope)"
-        },
-        {
-          "t": "2026-10-21T12:27:50+00:00",
-          "to": "published",
-          "note": "supervisor verification: quotes re-verified against opened sources this session"
-        },
-        {
-          "t": "2026-10-21T12:44:07+00:00",
-          "to": "published",
-          "note": "supervisor registration ST430"
-        },
-        {
-          "t": "2026-10-21T12:55:22+00:00",
-          "to": "qc_pending",
-          "note": "advisor round-2: SCOPED PASS; verification record corrected (16 prose + 4 table strings); stays qc_pending for supervisor scope/ST184 dispositions"
-        },
-        {
-          "t": "2026-10-23T11:41:02+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST430"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "qc_pending",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-25T14:00:27+00:00",
-          "to": "ready",
-          "note": "verification pass: 17 prose quotes re-matched, 4 table strings re-read in the table block; supervisor duplication/scope flag stands; ready"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST392"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST392"
-    },
-    "s1a-024": {
-      "status": "integrated",
-      "angle": "B043: Dipa Ma's own account of insight as watching — losses, heart failure, the course of practice, and anger/desire observed to arising and passing; distinct from ST095's daily-life angle",
-      "history": [
-        {
-          "t": "2026-10-21T12:28:12+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-21T12:28:46+00:00",
-          "to": "qc_pending",
-          "note": "item 2 drafted; all 16 body quotes verified vs opened Tricycle/dipama/Wikipedia raw HTML; distinct angle vs ST095 recorded; checker 0 errors"
-        },
-        {
-          "t": "2026-10-21T12:30:22+00:00",
-          "to": "published",
-          "note": "supervisor verification: quotes verified against opened Tricycle + dipama.com pages"
-        },
-        {
-          "t": "2026-10-23T11:41:10+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST401"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "qc_pending",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-25T14:05:01+00:00",
-          "to": "ready",
-          "note": "verification pass: 12 Tricycle quotes verbatim, 2 dipama quotes re-located on relocated instructions page; one coverage-matrix string not re-locatable (site restructured) - flagged; ready"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST401"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST401"
-    },
-    "s1a-025": {
-      "status": "integrated",
-      "angle": "D045: Deshan and the old woman's rice cakes — the full cart of commentaries emptied by one question, the candle, and the burning",
-      "history": [
-        {
-          "t": "2026-10-21T12:29:43+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-21T12:30:35+00:00",
-          "to": "researching",
-          "note": "PIVOT: original Deshan/D045 angle abandoned before drafting (ST365 published from s1d-001 covers Deshan for B129; a third duplicate-person draft is weak); s1a-025 is now the Einstein cosmic-religious-feeling story for P187 (zero-story, fresh narrative, no Einstein story in corpus)"
-        },
-        {
-          "t": "2026-10-21T12:30:58+00:00",
-          "to": "qc_pending",
-          "note": "item 3 drafted (pivot from Deshan recorded); 10/10 body quotes verified vs opened PDF and Wikipedia wikitext; checker 0 errors"
-        },
-        {
-          "t": "2026-10-21T12:44:25+00:00",
-          "to": "published",
-          "note": "supervisor registration ST431"
-        },
-        {
-          "t": "2026-10-23T11:41:02+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST431"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "qc_pending",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-25T14:05:37+00:00",
-          "to": "ready",
-          "note": "verification pass: PDF re-downloaded (6/6 essay quotes), Wikipedia wikitext re-fetched (2/2 quotes); ready"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST431"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST431"
-    },
-    "s1a-026": {
-      "status": "integrated",
-      "angle": "B176: the dishes and the tangerine — Thich Nhat Hanh teaching Jim Forest presence at the sink and under the tree, and the prison letter that returned to the tangerine",
-      "history": [
-        {
-          "t": "2026-10-21T12:31:46+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-21T12:32:37+00:00",
-          "to": "qc_pending",
-          "note": "item 4 drafted; body quotes verified vs book PDF + 3 Forest pages; checker 0 errors"
-        },
-        {
-          "t": "2026-10-21T12:44:58+00:00",
-          "to": "published",
-          "note": "supervisor registration ST432"
-        },
-        {
-          "t": "2026-10-23T11:41:02+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST432"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "qc_pending",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        },
-        {
-          "t": "2026-10-25T14:06:13+00:00",
-          "to": "ready",
-          "note": "verification pass: PDF re-extracted, all three web sources re-fetched; 'If while washing dishes' fidelity repair applied; ready"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST432"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST432"
-    },
-    "s1a-027": {
-      "status": "integrated",
-      "angle": "D065: the Ten Oxherding Pictures — seeking and taming as the light, picture 9's return to the source, picture 10's barefoot return to the marketplace; Kakuan verses via the opened terebess carrier",
-      "history": [
-        {
-          "t": "2026-10-21T12:33:12+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-21T12:57:26+00:00",
-          "to": "qc_pending",
-          "note": "item 5 drafted and repaired through advisor rounds 1-3 (scoped PASS); state entry had been left at researching by omission — corrected at verification pass"
-        },
-        {
-          "t": "2026-10-25T14:03:15+00:00",
-          "to": "ready",
-          "note": "verification pass: terebess.hu page re-fetched, all six quotes matched verbatim; ready"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST307"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST307"
-    },
-    "s1a-028": {
-      "status": "qc_pending",
-      "angle": "rung-4 upgrade: ST184 Franklin's Little Book — add verbatim primary quotes (Gutenberg #20203 raw text, already opened and verified) + primary source link; no wiring changes",
-      "history": [
-        {
-          "t": "2026-10-21T12:52:01+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-21T12:52:39+00:00",
-          "to": "qc_pending",
-          "note": "rung-4 upgrade applied to ST184: verbatim primary quotes added (6 strings verified vs Gutenberg #20203 raw text), primary source linked, Sources section added, Principles converted to justified list (links unchanged: A106/A111/A039, resonates D054/S130); unsupported 'at about 20' removed; checker published-context 0 errors; build ok (5829 entries)"
-        },
-        {
-          "t": "2026-10-23T11:41:08+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST184"
-        },
-        {
-          "t": "2026-10-23T11:48:59+00:00",
-          "to": "qc_pending",
-          "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
-        }
-      ],
-      "stid": "ST184"
-    },
-    "s1a-029": {
-      "status": "qc_pending",
-      "angle": "rung-4 upgrade: ST095 Dipa Ma — add verbatim quotes from the opened dipama.com teachings page and Tricycle interview; route to supervisor",
-      "history": [
-        {
-          "t": "2026-10-21T12:53:40+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-21T12:57:16+00:00",
-          "to": "qc_pending",
-          "note": "upgrade prepared and ROUTED to supervisor (s1a-029-upgrade-ST095.md); stirring-rice line flagged"
-        }
-      ]
-    },
-    "s1a-030": {
-      "status": "integrated",
-      "angle": "D061: Bian Que ranks his eldest brother best — illness removed before it takes form, fame never leaving the house (Heguanzi, Shixian chapter)",
-      "history": [
-        {
-          "t": "2026-10-22T04:03:53+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-22T04:30:41+00:00",
-          "to": "returned",
-          "note": "carrier block: ctext.org ip-blocked, zh.wikisource 429, en.wikipedia 429, BMJ robots-blocked; Heguanzi Shixian primary text NOT opened this session, no draft written. Research preserved: the three-brothers Bian Que parable (eldest brother removes disease before it takes form, fame never leaving the house; frame: Pang Xuan to King Zhaoxiang of Zhao; c. 3rd c. BCE) fits D061 exactly; next teller should try ctext.org Shixian via browser, zh.wikisource Heguanzi/世賢, or the Legge-style translation quoted in secondary carriers"
-        },
-        {
-          "t": "2026-10-23T06:47:13+00:00",
-          "to": "qc_pending",
-          "note": "carrier block cleared via opened dynamicpoints.com reproduction of Needham's SCI VI:6 translation; draft complete, story_check 0 errors; awaiting advisor QC"
-        },
-        {
-          "t": "2026-10-23T06:56:40+00:00",
-          "to": "ready",
-          "note": "advisor QC approved (3 rounds); check_rule verified as covered by story_check (no separate script exists in repo); story_check 0 errors"
-        },
-        {
-          "t": "2026-10-23T06:57:51+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST436"
-        },
-        {
-          "t": "2026-10-23T06:57:51+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST436"
-    },
-    "s1a-031": {
-      "status": "integrated",
-      "angle": "B016: the Buddha tells the fire-worshipping monks at Gaya Head that the All itself is aflame with passion, aversion and delusion; a thousand minds released mid-sermon (SN 35.28)",
-      "history": [
-        {
-          "t": "2026-10-22T04:08:44+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-22T04:09:44+00:00",
-          "to": "qc_pending",
-          "note": "first item; story_check 0 errors; advisor QC in flight"
-        },
-        {
-          "t": "2026-10-22T04:20:07+00:00",
-          "to": "ready",
-          "note": "advisor round-3 SCOPED PASS; scope approval routed (B016 outside slice)"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST369"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST369"
-    },
-    "s1a-032": {
-      "status": "integrated",
-      "angle": "P192: Django Reinhardt relearns the guitar after the 1928 caravan fire — third and fourth fingers permanently damaged, an entirely new technique built around the injury (Givan, The Music of Django Reinhardt; Britannica)",
-      "history": [
-        {
-          "t": "2026-10-22T04:20:28+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-22T04:26:47+00:00",
-          "to": "qc_pending",
-          "note": "item 2; story_check 0 errors; quotes verified vs opened Givan PDF and Britannica"
-        },
-        {
-          "t": "2026-10-22T04:42:17+00:00",
-          "to": "ready",
-          "note": "advisor round-4 scoped pass; supervisor scope approval routed"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST410"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST410"
-    },
-    "s1a-033": {
-      "status": "integrated",
-      "angle": "B143 relational emptiness: Fazang's hall of mirrors for Empress Wu — one Buddha statue, ten mirrors, torch; each reflection carrying all others",
-      "history": [
-        {
-          "t": "2026-10-22T05:57:40+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-22T06:08:02+00:00",
-          "to": "qc_pending",
-          "note": "first advisor QC pending"
-        },
-        {
-          "t": "2026-10-22T06:36:06+00:00",
-          "to": "ready",
-          "note": ""
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST434"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST434"
-    },
-    "s1a-034": {
-      "status": "integrated",
-      "angle": "D180 delight in the ordinary: William Carlos Williams, the doctor-poet of Rutherford — the red wheelbarrow and the plums in the icebox",
-      "history": [
-        {
-          "t": "2026-10-22T05:57:40+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-22T06:08:02+00:00",
-          "to": "qc_pending",
-          "note": "first advisor QC pending"
-        },
-        {
-          "t": "2026-10-22T06:36:07+00:00",
-          "to": "ready",
-          "note": ""
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST435"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST435"
-    },
-    "s1a-035": {
-      "status": "integrated",
-      "angle": "D041 qingjing: Agnes Martin's stillness discipline",
-      "history": [
-        {
-          "t": "2026-10-22T15:04:32+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-22T15:04:32+00:00",
-          "to": "drafting",
-          "note": ""
-        },
-        {
-          "t": "2026-10-22T15:05:22+00:00",
-          "to": "qc_pending",
-          "note": "draft complete; first advisor QC"
-        },
-        {
-          "t": "2026-10-22T15:07:54+00:00",
-          "to": "qc_pending",
-          "note": "rewritten per advisor QC 1; quotes verbatim from opened carriers"
-        },
-        {
-          "t": "2026-10-22T15:34:26+00:00",
-          "to": "ready",
-          "note": "advisor QC passed; ready for supervisor review"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST411"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST488"
-    },
-    "s1a-036": {
-      "status": "integrated",
-      "angle": "D160 slowest vessel: Matisse cut-outs",
-      "history": [
-        {
-          "t": "2026-10-22T15:09:31+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-22T15:09:31+00:00",
-          "to": "qc_pending",
-          "note": "draft complete; awaiting advisor QC"
-        },
-        {
-          "t": "2026-10-22T15:34:26+00:00",
-          "to": "ready",
-          "note": "advisor QC passed; ready for supervisor review"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST412"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST489"
-    },
-    "s1a-037": {
-      "status": "integrated",
-      "angle": "D186 hide your light: Hilma af Klint",
-      "history": [
-        {
-          "t": "2026-10-22T15:14:09+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-22T15:14:09+00:00",
-          "to": "qc_pending",
-          "note": "draft complete; awaiting advisor QC"
-        },
-        {
-          "t": "2026-10-22T15:34:26+00:00",
-          "to": "ready",
-          "note": "advisor QC passed; ready for supervisor review"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST413"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST490"
-    },
-    "s1a-038": {
-      "status": "qc_pending",
-      "angle": "D022 second angle: Brancusi subtraction",
-      "history": [
-        {
-          "t": "2026-10-22T15:24:45+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-22T15:24:45+00:00",
-          "to": "qc_pending",
-          "note": "draft complete; awaiting advisor QC"
-        }
-      ],
-      "stid": "ST490"
-    },
-    "s1a-039": {
-      "status": "integrated",
-      "angle": "B109 examine fear: Beethoven testament",
-      "history": [
-        {
-          "t": "2026-10-22T15:28:39+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-22T15:28:39+00:00",
-          "to": "qc_pending",
-          "note": "draft complete; awaiting advisor QC"
-        },
-        {
-          "t": "2026-10-22T15:34:26+00:00",
-          "to": "ready",
-          "note": "advisor QC passed; ready for supervisor review"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST417"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST491"
-    },
-    "s1a-040": {
-      "status": "integrated",
-      "angle": "P165: Mill's 1826 crisis — analysis as the defensive gate, Wordsworth as the reopening",
-      "history": [
-        {
-          "t": "2026-10-24T13:55:55+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-24T13:57:25+00:00",
-          "to": "qc_pending",
-          "note": "first draft complete, story_check clean"
-        },
-        {
-          "t": "2026-10-24T13:58:52+00:00",
-          "to": "returned",
-          "note": "advisor QC: raw-source verification + chronology + narrowed P165 mapping required; WIP pushed"
-        },
-        {
-          "t": "2026-10-24T14:00:36+00:00",
-          "to": "qc_pending",
-          "note": "revision complete per advisor QC; story_check clean"
-        },
-        {
-          "t": "2026-10-24T14:04:31+00:00",
-          "to": "ready",
-          "note": "advisor QC rounds 1-3 complete; all fixes applied; story_check clean"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST471"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST471"
-    },
-    "s1a-041": {
-      "status": "integrated",
-      "angle": "D133: China's 1958 Great Sparrow Campaign — domination of nature answered by the system it can't see",
-      "history": [
-        {
-          "t": "2026-10-24T14:04:46+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-24T14:05:56+00:00",
-          "to": "ready",
-          "note": "story_check clean; sources opened and quoted verbatim"
-        },
-        {
-          "t": "2026-10-24T14:10:51+00:00",
-          "to": "qc_pending",
-          "note": "advisor QC fixes applied; awaiting supervisor registration"
-        },
-        {
-          "t": "2026-10-24T14:18:07+00:00",
-          "to": "ready",
-          "note": "QC fixes (Dewey opened, figures dated) applied and validated earlier; state restored to ready"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST475"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST475"
-    },
-    "s1a-042": {
-      "status": "integrated",
-      "angle": "B122: Milinda and Nagasena's chariot — 'Nagasena' as a designation, the two truths in one dialogue",
-      "history": [
-        {
-          "t": "2026-10-24T14:06:01+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-24T14:07:48+00:00",
-          "to": "ready",
-          "note": "story_check clean; Milindapanha and MMK 24 opened and quoted verbatim"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST414"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST491"
-    },
-    "s1a-043": {
-      "status": "integrated",
-      "angle": "D047: Yan Hui's zuowang — forgetting benevolence and righteousness, rites and music, then sitting and forgetting (Zhuangzi ch. 6)",
-      "history": [
-        {
-          "t": "2026-10-24T14:07:55+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-24T14:08:20+00:00",
-          "to": "ready",
-          "note": "story_check clean; dialogue quoted verbatim from opened ETH Legge PDF"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST415"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST415"
-    },
-    "s1a-044": {
-      "status": "integrated",
-      "angle": "P041: Yunus in the 1974 famine — from economic theory to 42 people and 27 dollars, ends revised as means unfold",
-      "history": [
-        {
-          "t": "2026-10-24T14:08:30+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-24T14:10:51+00:00",
-          "to": "ready",
-          "note": "advisor QC fixes applied (Dewey opened, figures dated, mapping source-bounded)"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST472"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST472"
-    },
-    "s1a-045": {
-      "status": "integrated",
-      "angle": "B029: MN 107 — the Buddha's answer to Ganaka-Moggallana on why some attain and some don't: the frontier-city gatekeeper and the shown path",
-      "history": [
-        {
-          "t": "2026-10-24T14:11:37+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-24T14:12:29+00:00",
-          "to": "ready",
-          "note": "story_check clean; MN 107 opened and quoted verbatim"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST479"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST479"
-    },
-    "s1a-046": {
-      "status": "integrated",
-      "angle": "P080: Ovid's Midas — the granted wish that turns the conditions of flourishing into gold",
-      "history": [
-        {
-          "t": "2026-10-24T14:12:39+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-24T14:13:29+00:00",
-          "to": "ready",
-          "note": "story_check clean; Ovid Book 11 opened and quoted verbatim"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST474"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST474"
-    },
-    "s1a-047": {
-      "status": "integrated",
-      "angle": "D041: Woodcarver Qing's bell stand — fasting to stillness before the right seeing and the right work (Zhuangzi ch. 19)",
-      "history": [
-        {
-          "t": "2026-10-24T14:13:42+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-24T14:14:17+00:00",
-          "to": "ready",
-          "note": "story_check clean; Zhuangzi XIX + Classic of Purity opened and quoted verbatim"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST478"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST478"
-    },
-    "s1a-048": {
-      "status": "integrated",
-      "angle": "B060: Zhaozhou asks Nanquan for the Way — 'If you try to direct yourself toward it, you go away from it' (Mumonkan case 19)",
-      "history": [
-        {
-          "t": "2026-10-24T14:14:25+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-24T14:14:53+00:00",
-          "to": "ready",
-          "note": "story_check clean; Mumonkan 19 opened and quoted verbatim"
-        },
-        {
-          "t": "2026-10-26T00:12:46+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST480"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST480"
-    },
-    "s1a-049": {
-      "status": "integrated",
-      "angle": "P089: Thoreau at Walden — the bean field as doing, the broad margin as undergoing, the day as the rhythm between them",
-      "history": [
-        {
-          "t": "2026-10-24T14:15:05+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-24T14:18:06+00:00",
-          "to": "ready",
-          "note": "advisor QC (item-10 milestone) fixes applied: fragment quote removed, schedule framing removed, reception-informing-next-action marked NOT carried, chapter headings verified in raw text"
-        },
-        {
-          "t": "2026-10-26T00:12:47+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST476"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST476"
-    },
-    "s1a-050": {
-      "status": "integrated",
-      "angle": "P143: Helen Keller — thinking with the whole body: touch, vibration and muscle sense as the medium of thought",
-      "history": [
-        {
-          "t": "2026-10-24T14:18:28+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-24T14:19:18+00:00",
-          "to": "ready",
-          "note": "Keller autobiography raw text verified; quotes verbatim; mapping bounded to Keller's and Sullivan's own words"
-        },
-        {
-          "t": "2026-10-26T00:12:47+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST477"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST477"
-    },
-    "s1a-051": {
-      "status": "integrated",
-      "angle": "P012: James's squirrel — the camping-party quarrel about going round the squirrel, dissolved by naming the practical difference",
-      "history": [
-        {
-          "t": "2026-10-24T14:19:31+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-24T14:20:16+00:00",
-          "to": "ready",
-          "note": "James Pragmatism raw text verified; quotes verbatim; belief-as-habit facet marked NOT carried"
-        },
-        {
-          "t": "2026-10-25T14:06:34+00:00",
-          "to": "drafting",
-          "note": "correction: state.json said ready but the draft's QC notes record story_check pending and front matter is drafting; quotes were verified 2026-10-24 but the full QC pass never ran - reverting state to drafting to match the draft; flagged for the next storyteller pass"
-        },
-        {
-          "t": "2026-10-25T14:06:45+00:00",
-          "to": "ready",
-          "note": "QC pass complete: story_check 0 errors, six blockquotes re-verified against re-downloaded Gutenberg 5116, banned-phrase scan clean; ready"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST416"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST416"
-    },
-    "s1a-052": {
-      "status": "integrated",
-      "angle": "",
-      "history": [
-        {
-          "t": "2026-10-24T14:21:10+00:00",
-          "to": "ready",
-          "note": "Orpheus Chamber Orchestra; quotes from founder (LA Times 1994) and artistic director (Violin Channel 2020), both opened; DDJ political frame marked NOT carried"
-        },
-        {
-          "t": "2026-10-26T00:12:47+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST481"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST481"
-    },
-    "s1a-053": {
-      "status": "integrated",
-      "angle": "",
-      "history": [
-        {
-          "t": "2026-10-24T14:22:42+00:00",
-          "to": "ready",
-          "note": "Dorothy journal + Wordsworth Preface + 1807 poem, all raw texts opened; 1807 text quoted, not 1815 revision"
-        },
-        {
-          "t": "2026-10-26T00:12:47+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST473"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST473"
-    },
-    "s1a-054": {
-      "status": "integrated",
-      "angle": "P090: Jane Addams takes the garbage inspectorship — sanitation done with the Nineteenth Ward's women's clubs, not to them",
-      "history": [
-        {
-          "t": "2026-10-24T14:23:03+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-24T14:25:56+00:00",
-          "to": "ready",
-          "note": "advisor QC item-15 fixes applied: joint attribution, purpose-setting marked not demonstrated, punctuation restored, date range removed"
-        },
-        {
-          "t": "2026-10-26T00:12:47+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST482"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST482"
-    },
-    "s1a-055": {
-      "status": "integrated",
-      "angle": "P179: Franklin's little book — the daily schedule's morning and evening questions closing the loop on each day",
-      "history": [
-        {
-          "t": "2026-10-24T14:26:42+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-24T14:27:10+00:00",
-          "to": "ready",
-          "note": "Franklin Autobiography raw text verified; schedule questions reconstructed from the printed table, noted in QC notes"
-        },
-        {
-          "t": "2026-10-26T00:12:47+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST483"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST483"
-    },
-    "s1a-056": {
-      "status": "integrated",
-      "angle": "",
-      "history": [
-        {
-          "t": "2026-10-24T14:27:54+00:00",
-          "to": "ready",
-          "note": "AP News and Nippon.com opened; Kawanishi quotes verbatim; Whitehead theory marked NOT carried"
-        },
-        {
-          "t": "2026-10-26T00:12:47+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST484"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST484"
-    },
-    "s1a-057": {
-      "status": "integrated",
-      "angle": "P151: Goethe's Faust — the wager to stop the moment, and salvation granted to ceaseless striving",
-      "history": [
-        {
-          "t": "2026-10-24T14:28:04+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-24T14:28:46+00:00",
-          "to": "ready",
-          "note": "Faust Part I Taylor English opened; Part II German raw text opened with translations marked as my own; Simondon theory marked NOT carried"
-        },
-        {
-          "t": "2026-10-24T14:33:09+00:00",
-          "to": "ready",
-          "note": "item-20 QC fixes applied: translator credit corrected to Brooks, love-from-above continuation quoted, redemption claim bounded"
-        },
-        {
-          "t": "2026-10-26T00:12:47+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST485"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST485"
-    },
-    "s1a-058": {
-      "status": "integrated",
-      "angle": "B160: the Kalama Sutta — the Buddha tells the Kalamas not to settle teachers' claims by authority, but by what they can see for themselves",
-      "history": [
-        {
-          "t": "2026-10-24T14:28:59+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-24T14:29:46+00:00",
-          "to": "ready",
-          "note": "Soma Thera translation opened in full; narrative frame and four solaces add what the principle page does not quote"
-        },
-        {
-          "t": "2026-10-24T14:33:09+00:00",
-          "to": "ready",
-          "note": "item-20 QC fixes applied: authority phrase bounded, unsupported framing removed, ellipsis removed from solaces quote"
-        },
-        {
-          "t": "2026-10-26T00:12:47+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST466"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST466"
-    },
-    "s1a-059": {
-      "status": "integrated",
-      "angle": "B124: Joshu's oak tree — the monk asks for meaning, Joshu points at the garden",
-      "history": [
-        {
-          "t": "2026-10-24T14:29:55+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-24T14:33:09+00:00",
-          "to": "ready",
-          "note": "item-20 QC fixes applied: bounded reading, source punctuation restored, verse on separate lines, provenance bounded"
-        },
-        {
-          "t": "2026-10-26T00:12:47+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST467"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST467"
-    },
-    "s1a-060": {
-      "status": "integrated",
-      "angle": "D035: Thoreau's house that cost 8.12 1/2 — the economy of living within bounds",
-      "history": [
-        {
-          "t": "2026-10-24T14:33:19+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-24T14:33:34+00:00",
-          "to": "ready",
-          "note": "Walden Economy ledger verbatim from opened raw text; DDJ 80 isolation ideal marked NOT carried"
-        },
-        {
-          "t": "2026-10-26T00:12:47+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST468"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST468"
-    },
-    "s1a-061": {
-      "status": "integrated",
-      "angle": "P105: Keller feeling music — rhythm through vibration and the muscular sense",
-      "history": [
-        {
-          "t": "2026-10-24T14:33:46+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-24T14:34:01+00:00",
-          "to": "ready",
-          "note": "Macy supplementary account verbatim from opened keller.txt; Dewey theory and rehearsal exercise marked NOT carried"
-        },
-        {
-          "t": "2026-10-26T00:12:47+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST469"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST469"
-    },
-    "s1a-062": {
-      "status": "integrated",
-      "angle": "P074: Dewey's own account of the child and the match — impulse as raw material",
-      "history": [
-        {
-          "t": "2026-10-24T14:34:09+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-24T14:34:36+00:00",
-          "to": "ready",
-          "note": "Keller/Sullivan arc verbatim from opened keller.txt; Sullivan's obedience frame kept honest; Dewey example marked NOT carried"
-        },
-        {
-          "t": "2026-10-26T00:12:47+00:00",
-          "to": "published_backlinks_pending",
-          "note": "ST470"
-        },
-        {
-          "t": "2026-10-26T00:20:33+00:00",
-          "to": "integrated",
-          "note": "backlinks done"
-        }
-      ],
-      "stid": "ST470"
-    },
-    "s1a-063": {
-      "status": "qc_pending",
-      "angle": "D015: Milton's blindness and the epic's light — the pair that gives each half its outline (Morgan + PL III invocation)",
-      "history": [
-        {
-          "t": "2026-10-25T14:40:33+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-25T14:40:33+00:00",
-          "to": "qc_pending",
-          "note": "draft complete; story_check ok; awaiting advisor QC"
-        },
-        {
-          "t": "2026-10-25T14:43:07+00:00",
-          "to": "qc_pending",
-          "note": "advisor round-1 repairs applied; story_check ok; scope routed"
-        },
-        {
-          "t": "2026-10-25T15:22:44+00:00",
-          "to": "qc_pending",
-          "note": "locators verified against raw text (III.40-46, III.52); story_check ok"
-        }
-      ]
-    },
-    "s1a-064": {
-      "status": "qc_pending",
-      "angle": "B025: Nobel's dynamite fortune — the accounting acted on in the 1895 will; obituary legend handled honestly",
-      "history": [
-        {
-          "t": "2026-10-25T14:44:33+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-25T14:44:33+00:00",
-          "to": "qc_pending",
-          "note": "draft complete; story_check ok"
-        }
-      ]
-    },
-    "s1a-065": {
-      "status": "qc_pending",
-      "angle": "B179: Layman Pang — the chores as the miraculous activity; before/after proverb shown to be a modern formula",
-      "history": [
-        {
-          "t": "2026-10-25T14:45:28+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-25T14:45:28+00:00",
-          "to": "qc_pending",
-          "note": "draft complete; story_check ok; advisor milestone QC"
-        }
-      ]
-    },
-    "s1a-066": {
-      "status": "qc_pending",
-      "angle": "D110: the Huainanzi horse parable — the father's three replies",
-      "history": [
-        {
-          "t": "2026-10-25T14:50:07+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-25T14:50:07+00:00",
-          "to": "qc_pending",
-          "note": "draft complete; story_check ok"
-        },
-        {
-          "t": "2026-10-25T15:25:48+00:00",
-          "to": "qc_pending",
-          "note": "ledger paraphrase replaced with page's own sentence; quotes re-verified; story_check ok"
-        }
-      ]
-    },
-    "s1a-067": {
-      "status": "qc_pending",
-      "angle": "D135: Flower Sermon — the wordless teaching received as a smile",
-      "history": [
-        {
-          "t": "2026-10-25T14:50:07+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-25T14:50:07+00:00",
-          "to": "qc_pending",
-          "note": "draft complete; story_check ok"
-        }
-      ]
-    },
-    "s1a-068": {
-      "status": "qc_pending",
-      "angle": "B034: Padhana Sutta — Mara's armies named in sequence",
-      "history": [
-        {
-          "t": "2026-10-25T14:51:43+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-25T14:51:43+00:00",
-          "to": "qc_pending",
-          "note": "draft complete; story_check ok"
-        }
-      ]
-    },
-    "s1a-069": {
-      "status": "qc_pending",
-      "angle": "D125: Hugo's bishop and the silver — DDJ 49 policy in fiction",
-      "history": [
-        {
-          "t": "2026-10-25T14:51:43+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-25T14:51:43+00:00",
-          "to": "qc_pending",
-          "note": "draft complete; story_check ok"
-        },
-        {
-          "t": "2026-10-25T15:22:44+00:00",
-          "to": "qc_pending",
-          "note": "quotes re-verified character-level against raw text; speech-tag elisions marked; story_check ok"
-        }
-      ]
-    },
-    "s1a-070": {
-      "status": "qc_pending",
-      "angle": "D124: Zhuangzi monkey keeper — three in the morning",
-      "history": [
-        {
-          "t": "2026-10-25T14:57:02+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-25T14:57:02+00:00",
-          "to": "qc_pending",
-          "note": "draft complete; story_check ok"
-        },
-        {
-          "t": "2026-10-25T15:22:44+00:00",
-          "to": "qc_pending",
-          "note": "D124 withdrawn, D083 proposed (page uses this passage); DO NOT REGISTER under D124; story_check ok"
-        },
-        {
-          "t": "2026-10-25T15:25:48+00:00",
-          "to": "qc_pending",
-          "note": "D124 withdrawn, D083 proposed (page uses this passage; possible existing-emblem duplicate flagged); story_check ok"
-        }
-      ]
-    },
-    "s1a-071": {
-      "status": "qc_pending",
-      "angle": "B072: Ralston — the shift from freeing to releasing",
-      "history": [
-        {
-          "t": "2026-10-25T14:57:02+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-25T14:57:02+00:00",
-          "to": "qc_pending",
-          "note": "draft complete; story_check ok; register difference routed"
-        },
-        {
-          "t": "2026-10-25T15:03:55+00:00",
-          "to": "qc_pending",
-          "note": "B072 mapping withdrawn per advisor round 3; reassignment requested"
-        }
-      ]
-    },
-    "s1a-072": {
-      "status": "qc_pending",
-      "angle": "B015: Yellowstone web told honestly — removal undisputed, return partial",
-      "history": [
-        {
-          "t": "2026-10-25T14:58:44+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-25T14:58:44+00:00",
-          "to": "qc_pending",
-          "note": "draft complete; story_check ok"
-        },
-        {
-          "t": "2026-10-25T15:22:44+00:00",
-          "to": "qc_pending",
-          "note": "quotes re-verified against clean page fetch; hydrology narrowed to paper finding; story_check ok"
-        }
-      ]
-    },
-    "s1a-073": {
-      "status": "qc_pending",
-      "angle": "B094: the cellist of Sarajevo — the daily return; fit note routed",
-      "history": [
-        {
-          "t": "2026-10-25T14:58:45+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-25T14:58:45+00:00",
-          "to": "qc_pending",
-          "note": "draft complete; story_check ok; fit note routed"
-        },
-        {
-          "t": "2026-10-25T15:03:55+00:00",
-          "to": "qc_pending",
-          "note": "reassigned B094->B156 proposed per advisor round 3; final call routed"
-        },
-        {
-          "t": "2026-10-25T15:22:44+00:00",
-          "to": "qc_pending",
-          "note": "motivation removed (interviews not opened); rests on performance narrative; B156 proposal final call routed; story_check ok"
-        }
-      ]
-    },
-    "s1a-074": {
-      "status": "qc_pending",
-      "angle": "D060: the Great Fire as the cautionary inversion — the small skipped",
-      "history": [
-        {
-          "t": "2026-10-25T14:59:31+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-25T14:59:31+00:00",
-          "to": "qc_pending",
-          "note": "draft complete; story_check ok; inversion named and routed"
-        },
-        {
-          "t": "2026-10-25T15:22:44+00:00",
-          "to": "qc_pending",
-          "note": "D060 mapping withdrawn; narrative held for supervisor decision; DO NOT REGISTER under D060; story_check ok"
-        }
-      ]
-    },
-    "s1a-075": {
-      "status": "qc_pending",
-      "angle": "D083: the Rohini dispute — the question chain that re-prices the quarrel",
-      "history": [
-        {
-          "t": "2026-10-25T15:05:05+00:00",
-          "to": "researching"
-        },
-        {
-          "t": "2026-10-25T15:05:05+00:00",
-          "to": "qc_pending",
-          "note": "draft complete; story_check ok"
-        },
-        {
-          "t": "2026-10-25T15:22:44+00:00",
-          "to": "qc_pending",
-          "note": "attribution verified on page; broader re-pricing illustration vs s1a-070; fit routed; story_check ok"
-        }
-      ]
+ "lane": "s1a",
+ "items": {
+  "s1a-001": {
+   "status": "rejected",
+   "angle": "D080 qiwu: the monkey keeper's three-in-the-morning feeding (Zhuangzi ch. 2)",
+   "history": [
+    {
+     "t": "2026-10-20T12:51:54+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-20T12:52:12+00:00",
+     "to": "rejected",
+     "note": "angle already the principle's in-body emblem (D080 monkey keeper); pivoted to s1a-002"
     }
+   ]
   },
-  "updated": "2026-10-26T00:20:33+00:00"
+  "s1a-002": {
+   "status": "integrated",
+   "angle": "P184 twice-born: Tolstoy's crisis in A Confession (Tolstoy 1882 + James's Varieties Sick Soul)",
+   "history": [
+    {
+     "t": "2026-10-20T12:52:12+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-20T13:04:01+00:00",
+     "to": "qc_pending",
+     "note": "round-2 revision"
+    },
+    {
+     "t": "2026-10-20T13:10:00+00:00",
+     "to": "ready",
+     "note": "round-3 final; advisor verdict ready-for-supervisor-review"
+    },
+    {
+     "t": "2026-10-21T12:22:19+00:00",
+     "to": "published",
+     "note": "supervisor registration this session"
+    },
+    {
+     "t": "2026-10-21T12:37:52+00:00",
+     "to": "published",
+     "note": "supervisor registration ST410"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST410"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "ready",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST348"
+    },
+    {
+     "t": "2026-10-26T00:20:32+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST348"
+  },
+  "s1a-003": {
+   "status": "integrated",
+   "angle": "D039: Heschel \u2014 the shrine the Nazis could not burn; rest as the root the week travels from",
+   "history": [
+    {
+     "t": "2026-10-20T13:18:09+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-20T13:18:31+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-20T13:30:40+00:00",
+     "to": "qc_pending",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:28:11+00:00",
+     "to": "published",
+     "note": "supervisor registration this session"
+    },
+    {
+     "t": "2026-10-21T12:38:10+00:00",
+     "to": "published",
+     "note": "supervisor registration ST411"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST411"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T13:57:07+00:00",
+     "to": "ready",
+     "note": "verification pass: quotes re-verified against re-opened sources; humanizer contrast scaffolds removed; ready"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST393"
+    },
+    {
+     "t": "2026-10-26T00:20:32+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST393"
+  },
+  "s1a-004": {
+   "status": "integrated",
+   "angle": "D156: the pagoda sways like a willow \u2014 H\u014dry\u016b-ji flexibility vs rigidity",
+   "history": [
+    {
+     "t": "2026-10-20T13:18:09+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-20T13:18:31+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-20T13:30:40+00:00",
+     "to": "qc_pending",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:28:11+00:00",
+     "to": "published",
+     "note": "supervisor registration this session"
+    },
+    {
+     "t": "2026-10-21T12:38:26+00:00",
+     "to": "published",
+     "note": "supervisor registration ST412"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST412"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T13:57:28+00:00",
+     "to": "ready",
+     "note": "verification pass: both NIPPONIA pages re-opened via alternate fetch, all ten quotes verbatim; ready"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST394"
+    },
+    {
+     "t": "2026-10-26T00:20:32+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST394"
+  },
+  "s1a-005": {
+   "status": "returned",
+   "angle": "B074: the Buddha returns the insult \u2014 Akkosa Sutta, thoughts as declined offerings",
+   "history": [
+    {
+     "t": "2026-10-20T13:18:09+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-20T13:18:31+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-20T13:30:40+00:00",
+     "to": "qc_pending",
+     "note": ""
+    },
+    {
+     "t": "2026-10-20T13:36:10+00:00",
+     "to": "returned",
+     "note": ""
+    }
+   ]
+  },
+  "s1a-006": {
+   "status": "integrated",
+   "angle": "B026: Bill W. finds Dr. Bob \u2014 AA's founding as the four efforts in action",
+   "history": [
+    {
+     "t": "2026-10-20T13:24:39+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-20T13:25:16+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-20T13:30:40+00:00",
+     "to": "qc_pending",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:28:11+00:00",
+     "to": "published",
+     "note": "supervisor registration this session"
+    },
+    {
+     "t": "2026-10-21T12:38:42+00:00",
+     "to": "published",
+     "note": "supervisor registration ST413"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST413"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T13:58:05+00:00",
+     "to": "ready",
+     "note": "verification pass: all four sources re-opened, quotes confirmed (typographic artifacts noted); ready"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST395"
+    },
+    {
+     "t": "2026-10-26T00:20:32+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST395"
+  },
+  "s1a-007": {
+   "status": "integrated",
+   "angle": "P182: the teller and the doer \u2014 Gallwey's Bounce-Hit",
+   "history": [
+    {
+     "t": "2026-10-20T13:24:39+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-20T13:25:16+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-20T13:30:41+00:00",
+     "to": "qc_pending",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:28:11+00:00",
+     "to": "published",
+     "note": "supervisor registration this session"
+    },
+    {
+     "t": "2026-10-21T12:39:18+00:00",
+     "to": "published",
+     "note": "supervisor registration ST414"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST414"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T13:58:49+00:00",
+     "to": "ready",
+     "note": "verification pass: book PDF re-extracted, tennis.com re-opened; quote marks aligned to source, hold-the-attention attribution corrected; ready"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST396"
+    },
+    {
+     "t": "2026-10-26T00:20:32+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST396"
+  },
+  "s1a-008": {
+   "status": "integrated",
+   "angle": "D080: the blind men and the elephant (Udana 6.4) \u2014 partial truths mistaken for the whole",
+   "history": [
+    {
+     "t": "2026-10-20T13:24:39+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-20T13:25:16+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-20T13:30:41+00:00",
+     "to": "qc_pending",
+     "note": ""
+    },
+    {
+     "t": "2026-10-20T13:44:07+00:00",
+     "to": "returned",
+     "note": "Independent advisor: unsupported touch/cure; limited D080 analogy; gist-first repairs applied, re-review pending"
+    },
+    {
+     "t": "2026-10-20T13:46:13+00:00",
+     "to": "qc_pending",
+     "note": "Independent advisor return applied; re-review requested"
+    },
+    {
+     "t": "2026-10-20T13:49:19+00:00",
+     "to": "ready",
+     "note": "Independent milestone reviewer READY; source quotes and limited D080 fit certified"
+    },
+    {
+     "t": "2026-10-21T12:22:19+00:00",
+     "to": "published",
+     "note": "supervisor registration this session"
+    },
+    {
+     "t": "2026-10-21T12:39:43+00:00",
+     "to": "published",
+     "note": "supervisor registration ST415"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST415"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "ready",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST370"
+    },
+    {
+     "t": "2026-10-26T00:20:32+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST370"
+  },
+  "s1a-009": {
+   "status": "integrated",
+   "angle": "D080: the marquis feeds a seabird as himself; generous human standards become lethal across different ways of life",
+   "history": [
+    {
+     "t": "2026-10-20T13:43:03+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-20T13:45:26+00:00",
+     "to": "drafting",
+     "note": "Primary chapter and scholarly manuscript opened; complete narrative drafted"
+    },
+    {
+     "t": "2026-10-20T13:46:13+00:00",
+     "to": "qc_pending",
+     "note": "Complete primary episode and Lai article raw-verified; independent review requested"
+    },
+    {
+     "t": "2026-10-20T13:49:19+00:00",
+     "to": "returned",
+     "note": "Milestone reviewer accepted substance; three redundant humanizer lines cut verbatim; final confirmation pending"
+    },
+    {
+     "t": "2026-10-20T13:51:40+00:00",
+     "to": "qc_pending",
+     "note": "Applied all three exact advisor cuts; final confirmation requested"
+    },
+    {
+     "t": "2026-10-20T13:54:21+00:00",
+     "to": "ready",
+     "note": "Independent final advisor READY; complete source arc, three cuts verified, checker green"
+    },
+    {
+     "t": "2026-10-21T12:22:19+00:00",
+     "to": "published",
+     "note": "supervisor registration this session"
+    },
+    {
+     "t": "2026-10-21T12:40:11+00:00",
+     "to": "published",
+     "note": "supervisor registration ST416"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST416"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "ready",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST371"
+    },
+    {
+     "t": "2026-10-26T00:20:32+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST371"
+  },
+  "s1a-010": {
+   "status": "integrated",
+   "angle": "B068: Dighavu repeatedly examines revenge and sheathes the sword before mutual non-harm; new target per owner broad Buddhist storyteller remit",
+   "history": [
+    {
+     "t": "2026-10-20T13:48:40+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-20T13:50:34+00:00",
+     "to": "drafting",
+     "note": "Complete canonical arc drafted; renewed threat and failed appeal to monks preserved"
+    },
+    {
+     "t": "2026-10-20T13:51:40+00:00",
+     "to": "qc_pending",
+     "note": "Checker green; independent milestone review requested"
+    },
+    {
+     "t": "2026-10-20T13:54:22+00:00",
+     "to": "ready",
+     "note": "Independent milestone advisor READY; full revenge/oath arc source-verified; checker green"
+    },
+    {
+     "t": "2026-10-21T12:22:19+00:00",
+     "to": "published",
+     "note": "supervisor registration this session"
+    },
+    {
+     "t": "2026-10-21T12:40:28+00:00",
+     "to": "published",
+     "note": "supervisor registration ST417"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST417"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "ready",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST372"
+    },
+    {
+     "t": "2026-10-26T00:20:32+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST372"
+  },
+  "s1a-011": {
+   "status": "integrated",
+   "angle": "P136: Addams and the Devil Baby; an unsettling failed bedside visit changes how she understands old women and their stories",
+   "history": [
+    {
+     "t": "2026-10-20T13:52:37+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-20T13:53:32+00:00",
+     "to": "drafting",
+     "note": "Full autobiographical bedside encounter drafted; primary chapter and scholarly context opened"
+    },
+    {
+     "t": "2026-10-20T13:54:22+00:00",
+     "to": "qc_pending",
+     "note": "Complete Addams narrative, primary and scholarly sources opened, checker green; independent QC requested"
+    },
+    {
+     "t": "2026-10-20T13:56:44+00:00",
+     "to": "returned",
+     "note": "Advisor accepted source and arc; explicit NOT carried facet and one vague sentence cut applied"
+    },
+    {
+     "t": "2026-10-20T13:57:22+00:00",
+     "to": "qc_pending",
+     "note": "Both exact advisor return edits applied; final confirmation requested"
+    },
+    {
+     "t": "2026-10-20T14:00:09+00:00",
+     "to": "ready",
+     "note": "Independent final advisor READY; exact return fixes confirmed, primary chapter verified"
+    },
+    {
+     "t": "2026-10-21T12:22:19+00:00",
+     "to": "published",
+     "note": "supervisor registration this session"
+    },
+    {
+     "t": "2026-10-21T12:40:42+00:00",
+     "to": "published",
+     "note": "supervisor registration ST418"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST418"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "ready",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST373"
+    },
+    {
+     "t": "2026-10-26T00:20:32+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST373"
+  },
+  "s1a-012": {
+   "status": "integrated",
+   "angle": "D039: Poincare alternates deliberate work, periods away and verification; apparent rest, not a promise of breakthrough or physical recovery",
+   "history": [
+    {
+     "t": "2026-10-20T13:55:33+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-20T13:56:44+00:00",
+     "to": "drafting",
+     "note": "Complete Poincare investigation arc drafted, primary reprint and Ruelle article read in full"
+    },
+    {
+     "t": "2026-10-20T13:57:22+00:00",
+     "to": "qc_pending",
+     "note": "Complete primary and scholar opened; checker zero; milestone advisor requested"
+    },
+    {
+     "t": "2026-10-20T14:00:09+00:00",
+     "to": "ready",
+     "note": "Independent milestone advisor READY; full investigation sequence and limits verified"
+    },
+    {
+     "t": "2026-10-21T12:22:19+00:00",
+     "to": "published",
+     "note": "supervisor registration this session"
+    },
+    {
+     "t": "2026-10-21T12:40:56+00:00",
+     "to": "published",
+     "note": "supervisor registration ST419"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST419"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "ready",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST374"
+    },
+    {
+     "t": "2026-10-26T00:20:32+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST374"
+  },
+  "s1a-013": {
+   "status": "integrated",
+   "angle": "D156: Muir rides a storm in a supple treetop; elasticity, anchorage and neighbouring trees, with no universal survival claim",
+   "history": [
+    {
+     "t": "2026-10-20T13:58:29+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-20T13:59:40+00:00",
+     "to": "drafting",
+     "note": "Full primary chapter opened; complete tree-ride arc, contradictory rigid-survivor details and safe attribution retained"
+    },
+    {
+     "t": "2026-10-20T14:00:09+00:00",
+     "to": "qc_pending",
+     "note": "Full primary and secondary archive opened; checker green; independent review requested"
+    },
+    {
+     "t": "2026-10-20T14:02:32+00:00",
+     "to": "ready",
+     "note": "Independent final advisor READY; primary facts, complete arc and D156 limits verified"
+    },
+    {
+     "t": "2026-10-21T12:22:19+00:00",
+     "to": "published",
+     "note": "supervisor registration this session"
+    },
+    {
+     "t": "2026-10-21T12:41:12+00:00",
+     "to": "published",
+     "note": "supervisor registration ST420"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST420"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "ready",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST375"
+    },
+    {
+     "t": "2026-10-26T00:20:32+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST375"
+  },
+  "s1a-014": {
+   "status": "integrated",
+   "angle": "B026: Meghiya finds that the right grove and eagerness do not replace conditions for directing effort; complete Ud4.1 arc",
+   "history": [
+    {
+     "t": "2026-10-20T14:27:10+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-20T14:28:00+00:00",
+     "to": "drafting",
+     "note": "Complete Ud4.1 arc drafted; four additional practices not conflated with four efforts"
+    },
+    {
+     "t": "2026-10-20T14:28:17+00:00",
+     "to": "qc_pending",
+     "note": "Checker zero; independent first-item review requested"
+    },
+    {
+     "t": "2026-10-20T14:30:45+00:00",
+     "to": "ready",
+     "note": "Independent advisor READY; complete source chronology, quotes, partial four-effort fit accepted"
+    },
+    {
+     "t": "2026-10-21T12:22:19+00:00",
+     "to": "published",
+     "note": "supervisor registration this session"
+    },
+    {
+     "t": "2026-10-21T12:41:31+00:00",
+     "to": "published",
+     "note": "supervisor registration ST421"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST421"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "ready",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST376"
+    },
+    {
+     "t": "2026-10-26T00:20:32+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST376"
+  },
+  "s1a-015": {
+   "status": "integrated",
+   "angle": "P042: children confront cotton-seed removal and reconstruct textile tools; guided inquiry without the false requirement to get hurt",
+   "history": [
+    {
+     "t": "2026-10-20T14:28:17+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-20T14:30:25+00:00",
+     "to": "drafting",
+     "note": "Dewey complete textile-learning sequence drafted from primary university transcription"
+    },
+    {
+     "t": "2026-10-20T14:30:45+00:00",
+     "to": "qc_pending",
+     "note": "Primary source drafted and checker green; independent milestone QC requested"
+    },
+    {
+     "t": "2026-10-21T12:26:23+00:00",
+     "to": "published",
+     "note": "supervisor verification: quotes re-verified against opened sources this session"
+    },
+    {
+     "t": "2026-10-21T12:41:48+00:00",
+     "to": "published",
+     "note": "supervisor registration ST422"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST422"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T13:59:17+00:00",
+     "to": "ready",
+     "note": "verification pass: both ledger quotes confirmed verbatim in full chapter text (Gutenberg 53910, brocku live but Cloudflare-gated); ready"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST383"
+    },
+    {
+     "t": "2026-10-26T00:20:32+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST383"
+  },
+  "s1a-016": {
+   "status": "integrated",
+   "angle": "D156: tree survives uselessness but goose dies for it; no fixed useful/useless strategy, adapt with changing conditions",
+   "history": [
+    {
+     "t": "2026-10-20T14:30:45+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-20T14:32:11+00:00",
+     "to": "drafting",
+     "note": "Full tree/goose/counterexample/midpoint-rejection/Dao arc drafted from opened primary and Watson comparison"
+    },
+    {
+     "t": "2026-10-20T14:34:11+00:00",
+     "to": "qc_pending",
+     "note": "Complete source audit and checker green; independent review blocked by exhausted reviewer credits"
+    },
+    {
+     "t": "2026-10-21T12:26:23+00:00",
+     "to": "published",
+     "note": "supervisor verification: quotes re-verified against opened sources this session"
+    },
+    {
+     "t": "2026-10-21T12:42:07+00:00",
+     "to": "published",
+     "note": "supervisor registration ST423"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST423"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T14:03:02+00:00",
+     "to": "ready",
+     "note": "verification pass: ctext bot-walled, both Legge quotes re-verified via ctext's indexed text and two independent Legge hosts; chinaheritage re-opened directly; ready"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST384"
+    },
+    {
+     "t": "2026-10-26T00:20:32+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST384"
+  },
+  "s1a-017": {
+   "status": "integrated",
+   "angle": "D068: Han Xin crawls beneath the butcher's youth \u2014 yielding measured against the whole future, closed without revenge",
+   "history": [
+    {
+     "t": "2026-10-21T11:15:32+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T11:18:59+00:00",
+     "to": "qc_pending",
+     "note": "advisor QC round 1: FAIL, repairs applied"
+    },
+    {
+     "t": "2026-10-21T11:22:15+00:00",
+     "to": "qc_pending",
+     "note": "advisor QC round 2: narrow repairs applied; scoped-pass verdict pending supervisor disposition (off-slice scope hold)"
+    },
+    {
+     "t": "2026-10-21T11:30:14+00:00",
+     "to": "qc_pending",
+     "note": "advisor round 3: scoped PASS on content; off-slice scope hold remains"
+    },
+    {
+     "t": "2026-10-21T11:30:20+00:00",
+     "to": "qc_pending",
+     "note": "advisor round 3: scoped PASS on content; off-slice scope hold remains"
+    },
+    {
+     "t": "2026-10-21T12:26:23+00:00",
+     "to": "published",
+     "note": "supervisor verification: quotes re-verified against opened sources this session"
+    },
+    {
+     "t": "2026-10-21T12:42:18+00:00",
+     "to": "published",
+     "note": "supervisor registration ST424"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST424"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T13:59:30+00:00",
+     "to": "ready",
+     "note": "verification pass: Wikisource raw text re-fetched, all three Chinese quotes character-verified, paraphrase probes confirmed; ready"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST385"
+    },
+    {
+     "t": "2026-10-26T00:20:32+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST385"
+  },
+  "s1a-018": {
+   "status": "integrated",
+   "angle": "P181 from the boundary side: Duchenne's muscle of benevolence obeys only the feeling, not the will",
+   "history": [
+    {
+     "t": "2026-10-21T11:15:32+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T11:18:59+00:00",
+     "to": "qc_pending",
+     "note": "advisor QC round 1: FAIL, repairs applied"
+    },
+    {
+     "t": "2026-10-21T11:22:15+00:00",
+     "to": "qc_pending",
+     "note": "advisor QC round 2: repairs applied; scan-locator verification hold + off-slice scope hold"
+    },
+    {
+     "t": "2026-10-21T12:26:23+00:00",
+     "to": "published",
+     "note": "supervisor verification: quotes re-verified against opened sources this session"
+    },
+    {
+     "t": "2026-10-21T12:42:37+00:00",
+     "to": "published",
+     "note": "supervisor registration ST425"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST425"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T14:00:07+00:00",
+     "to": "ready",
+     "note": "verification pass: all four French quotes re-located in the re-opened NLM OCR text (garbled OCR noise noted; quotes are the cleaned readings); ready"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST386"
+    },
+    {
+     "t": "2026-10-26T00:20:32+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST386"
+  },
+  "s1a-019": {
+   "status": "integrated",
+   "angle": "B054: the worldly winds staged as the Ci\u00f1c\u0101 accusation; equanimity reading is the compendium's interpretation",
+   "history": [
+    {
+     "t": "2026-10-21T11:23:35+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T11:23:35+00:00",
+     "to": "qc_pending",
+     "note": "first advisor QC for this item pending"
+    },
+    {
+     "t": "2026-10-21T11:30:14+00:00",
+     "to": "qc_pending",
+     "note": "advisor round 1 repairs applied verbatim; final verification pending; off-slice scope hold"
+    },
+    {
+     "t": "2026-10-21T11:30:20+00:00",
+     "to": "qc_pending",
+     "note": "advisor round 1 repairs applied verbatim; final verification pending; off-slice scope hold"
+    },
+    {
+     "t": "2026-10-21T11:31:45+00:00",
+     "to": "qc_pending",
+     "note": "advisor round 2: scoped PASS on reviewed prose and mapping; qc_pending retained for supervisor scope disposition"
+    },
+    {
+     "t": "2026-10-21T12:26:23+00:00",
+     "to": "published",
+     "note": "supervisor verification: quotes re-verified against opened sources this session"
+    },
+    {
+     "t": "2026-10-21T12:42:51+00:00",
+     "to": "published",
+     "note": "supervisor registration ST426"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST426"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T14:00:43+00:00",
+     "to": "ready",
+     "note": "verification pass: all five ledger quotes plus three body strings matched verbatim in the re-opened Burlingame page; ready"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST387"
+    },
+    {
+     "t": "2026-10-26T00:20:32+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST387"
+  },
+  "s1a-020": {
+   "status": "integrated",
+   "angle": "B074: MN 20 ladder \u2014 a thought is tested for skillfulness, never for truth; outcome is mastery over thought-sequences",
+   "history": [
+    {
+     "t": "2026-10-21T11:32:49+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T11:32:52+00:00",
+     "to": "qc_pending",
+     "note": "item-5 advisor round due next per cadence"
+    },
+    {
+     "t": "2026-10-21T11:34:49+00:00",
+     "to": "qc_pending",
+     "note": "advisor round 1 repairs applied; final verification pending"
+    },
+    {
+     "t": "2026-10-21T12:27:50+00:00",
+     "to": "published",
+     "note": "supervisor verification: quotes re-verified against opened sources this session"
+    },
+    {
+     "t": "2026-10-21T12:43:05+00:00",
+     "to": "published",
+     "note": "supervisor registration ST427"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST427"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T14:00:56+00:00",
+     "to": "ready",
+     "note": "verification pass: all six ledger quotes plus the slowing-walker simile matched verbatim in the re-opened MN 20 page; ready"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST389"
+    },
+    {
+     "t": "2026-10-26T00:20:32+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST389"
+  },
+  "s1a-021": {
+   "status": "integrated",
+   "angle": "Bunyan Grace Abounding P184 twice-born",
+   "history": [
+    {
+     "t": "2026-10-21T11:39:22+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T11:39:36+00:00",
+     "to": "qc_pending",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:27:50+00:00",
+     "to": "published",
+     "note": "supervisor verification: quotes re-verified against opened sources this session"
+    },
+    {
+     "t": "2026-10-21T12:43:29+00:00",
+     "to": "published",
+     "note": "supervisor registration ST428"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST428"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T14:01:30+00:00",
+     "to": "ready",
+     "note": "verification pass: all 15 ledger quotes re-matched in the re-downloaded Gutenberg 654 text (one apostrophe-style difference noted); ready"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST390"
+    },
+    {
+     "t": "2026-10-26T00:20:32+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST390"
+  },
+  "s1a-022": {
+   "status": "integrated",
+   "angle": "MN 36 austerities pivot B026",
+   "history": [
+    {
+     "t": "2026-10-21T11:56:11+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T11:56:11+00:00",
+     "to": "qc_pending",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:27:50+00:00",
+     "to": "published",
+     "note": "supervisor verification: quotes re-verified against opened sources this session"
+    },
+    {
+     "t": "2026-10-21T12:43:50+00:00",
+     "to": "published",
+     "note": "supervisor registration ST429"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST429"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T14:01:10+00:00",
+     "to": "ready",
+     "note": "verification pass: all eight ledger quotes plus three body strings matched verbatim in the re-opened MN 36 page; ready"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST391"
+    },
+    {
+     "t": "2026-10-26T00:20:32+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST391"
+  },
+  "s1a-023": {
+   "status": "integrated",
+   "angle": "B192: young Franklin's book of thirteen virtues \u2014 morning question, evening examination, and the speckled axe",
+   "history": [
+    {
+     "t": "2026-10-21T12:21:19+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:21:19+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:22:35+00:00",
+     "to": "qc_pending",
+     "note": "first item drafted; quotes raw-verified; corpus catch (ST184) recorded with distinct angle; advisor QC round 1 requested"
+    },
+    {
+     "t": "2026-10-21T12:25:38+00:00",
+     "to": "qc_pending",
+     "note": "advisor round-1 FAIL repairs applied (opening, verbatim fixes, speckled-axe rebuild, unsupported precision removed, MN61 boundary stated); body-quote audit 20/20 + 4 table strings manual-check; checker 0 errors; stays qc_pending for supervisor disposition (ST184 duplication + off-slice scope)"
+    },
+    {
+     "t": "2026-10-21T12:27:50+00:00",
+     "to": "published",
+     "note": "supervisor verification: quotes re-verified against opened sources this session"
+    },
+    {
+     "t": "2026-10-21T12:44:07+00:00",
+     "to": "published",
+     "note": "supervisor registration ST430"
+    },
+    {
+     "t": "2026-10-21T12:55:22+00:00",
+     "to": "qc_pending",
+     "note": "advisor round-2: SCOPED PASS; verification record corrected (16 prose + 4 table strings); stays qc_pending for supervisor scope/ST184 dispositions"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST430"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T14:00:27+00:00",
+     "to": "ready",
+     "note": "verification pass: 17 prose quotes re-matched, 4 table strings re-read in the table block; supervisor duplication/scope flag stands; ready"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST392"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST392"
+  },
+  "s1a-024": {
+   "status": "integrated",
+   "angle": "B043: Dipa Ma's own account of insight as watching \u2014 losses, heart failure, the course of practice, and anger/desire observed to arising and passing; distinct from ST095's daily-life angle",
+   "history": [
+    {
+     "t": "2026-10-21T12:28:12+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:28:46+00:00",
+     "to": "qc_pending",
+     "note": "item 2 drafted; all 16 body quotes verified vs opened Tricycle/dipama/Wikipedia raw HTML; distinct angle vs ST095 recorded; checker 0 errors"
+    },
+    {
+     "t": "2026-10-21T12:30:22+00:00",
+     "to": "published",
+     "note": "supervisor verification: quotes verified against opened Tricycle + dipama.com pages"
+    },
+    {
+     "t": "2026-10-23T11:41:10+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST401"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T14:05:01+00:00",
+     "to": "ready",
+     "note": "verification pass: 12 Tricycle quotes verbatim, 2 dipama quotes re-located on relocated instructions page; one coverage-matrix string not re-locatable (site restructured) - flagged; ready"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST401"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST401"
+  },
+  "s1a-025": {
+   "status": "integrated",
+   "angle": "D045: Deshan and the old woman's rice cakes \u2014 the full cart of commentaries emptied by one question, the candle, and the burning",
+   "history": [
+    {
+     "t": "2026-10-21T12:29:43+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:30:35+00:00",
+     "to": "researching",
+     "note": "PIVOT: original Deshan/D045 angle abandoned before drafting (ST365 published from s1d-001 covers Deshan for B129; a third duplicate-person draft is weak); s1a-025 is now the Einstein cosmic-religious-feeling story for P187 (zero-story, fresh narrative, no Einstein story in corpus)"
+    },
+    {
+     "t": "2026-10-21T12:30:58+00:00",
+     "to": "qc_pending",
+     "note": "item 3 drafted (pivot from Deshan recorded); 10/10 body quotes verified vs opened PDF and Wikipedia wikitext; checker 0 errors"
+    },
+    {
+     "t": "2026-10-21T12:44:25+00:00",
+     "to": "published",
+     "note": "supervisor registration ST431"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST431"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T14:05:37+00:00",
+     "to": "ready",
+     "note": "verification pass: PDF re-downloaded (6/6 essay quotes), Wikipedia wikitext re-fetched (2/2 quotes); ready"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST431"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST431"
+  },
+  "s1a-026": {
+   "status": "integrated",
+   "angle": "B176: the dishes and the tangerine \u2014 Thich Nhat Hanh teaching Jim Forest presence at the sink and under the tree, and the prison letter that returned to the tangerine",
+   "history": [
+    {
+     "t": "2026-10-21T12:31:46+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:32:37+00:00",
+     "to": "qc_pending",
+     "note": "item 4 drafted; body quotes verified vs book PDF + 3 Forest pages; checker 0 errors"
+    },
+    {
+     "t": "2026-10-21T12:44:58+00:00",
+     "to": "published",
+     "note": "supervisor registration ST432"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST432"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T14:06:13+00:00",
+     "to": "ready",
+     "note": "verification pass: PDF re-extracted, all three web sources re-fetched; 'If while washing dishes' fidelity repair applied; ready"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST432"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST432"
+  },
+  "s1a-027": {
+   "status": "integrated",
+   "angle": "D065: the Ten Oxherding Pictures \u2014 seeking and taming as the light, picture 9's return to the source, picture 10's barefoot return to the marketplace; Kakuan verses via the opened terebess carrier",
+   "history": [
+    {
+     "t": "2026-10-21T12:33:12+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:57:26+00:00",
+     "to": "qc_pending",
+     "note": "item 5 drafted and repaired through advisor rounds 1-3 (scoped PASS); state entry had been left at researching by omission \u2014 corrected at verification pass"
+    },
+    {
+     "t": "2026-10-25T14:03:15+00:00",
+     "to": "ready",
+     "note": "verification pass: terebess.hu page re-fetched, all six quotes matched verbatim; ready"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST307"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST307"
+  },
+  "s1a-028": {
+   "status": "qc_pending",
+   "angle": "rung-4 upgrade: ST184 Franklin's Little Book \u2014 add verbatim primary quotes (Gutenberg #20203 raw text, already opened and verified) + primary source link; no wiring changes",
+   "history": [
+    {
+     "t": "2026-10-21T12:52:01+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:52:39+00:00",
+     "to": "qc_pending",
+     "note": "rung-4 upgrade applied to ST184: verbatim primary quotes added (6 strings verified vs Gutenberg #20203 raw text), primary source linked, Sources section added, Principles converted to justified list (links unchanged: A106/A111/A039, resonates D054/S130); unsupported 'at about 20' removed; checker published-context 0 errors; build ok (5829 entries)"
+    },
+    {
+     "t": "2026-10-23T11:41:08+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST184"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    }
+   ],
+   "stid": "ST184"
+  },
+  "s1a-029": {
+   "status": "qc_pending",
+   "angle": "rung-4 upgrade: ST095 Dipa Ma \u2014 add verbatim quotes from the opened dipama.com teachings page and Tricycle interview; route to supervisor",
+   "history": [
+    {
+     "t": "2026-10-21T12:53:40+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:57:16+00:00",
+     "to": "qc_pending",
+     "note": "upgrade prepared and ROUTED to supervisor (s1a-029-upgrade-ST095.md); stirring-rice line flagged"
+    }
+   ]
+  },
+  "s1a-030": {
+   "status": "integrated",
+   "angle": "D061: Bian Que ranks his eldest brother best \u2014 illness removed before it takes form, fame never leaving the house (Heguanzi, Shixian chapter)",
+   "history": [
+    {
+     "t": "2026-10-22T04:03:53+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T04:30:41+00:00",
+     "to": "returned",
+     "note": "carrier block: ctext.org ip-blocked, zh.wikisource 429, en.wikipedia 429, BMJ robots-blocked; Heguanzi Shixian primary text NOT opened this session, no draft written. Research preserved: the three-brothers Bian Que parable (eldest brother removes disease before it takes form, fame never leaving the house; frame: Pang Xuan to King Zhaoxiang of Zhao; c. 3rd c. BCE) fits D061 exactly; next teller should try ctext.org Shixian via browser, zh.wikisource Heguanzi/\u4e16\u8ce2, or the Legge-style translation quoted in secondary carriers"
+    },
+    {
+     "t": "2026-10-23T06:47:13+00:00",
+     "to": "qc_pending",
+     "note": "carrier block cleared via opened dynamicpoints.com reproduction of Needham's SCI VI:6 translation; draft complete, story_check 0 errors; awaiting advisor QC"
+    },
+    {
+     "t": "2026-10-23T06:56:40+00:00",
+     "to": "ready",
+     "note": "advisor QC approved (3 rounds); check_rule verified as covered by story_check (no separate script exists in repo); story_check 0 errors"
+    },
+    {
+     "t": "2026-10-23T06:57:51+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST436"
+    },
+    {
+     "t": "2026-10-23T06:57:51+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST436"
+  },
+  "s1a-031": {
+   "status": "integrated",
+   "angle": "B016: the Buddha tells the fire-worshipping monks at Gaya Head that the All itself is aflame with passion, aversion and delusion; a thousand minds released mid-sermon (SN 35.28)",
+   "history": [
+    {
+     "t": "2026-10-22T04:08:44+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T04:09:44+00:00",
+     "to": "qc_pending",
+     "note": "first item; story_check 0 errors; advisor QC in flight"
+    },
+    {
+     "t": "2026-10-22T04:20:07+00:00",
+     "to": "ready",
+     "note": "advisor round-3 SCOPED PASS; scope approval routed (B016 outside slice)"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST369"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST369"
+  },
+  "s1a-032": {
+   "status": "integrated",
+   "angle": "P192: Django Reinhardt relearns the guitar after the 1928 caravan fire \u2014 third and fourth fingers permanently damaged, an entirely new technique built around the injury (Givan, The Music of Django Reinhardt; Britannica)",
+   "history": [
+    {
+     "t": "2026-10-22T04:20:28+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T04:26:47+00:00",
+     "to": "qc_pending",
+     "note": "item 2; story_check 0 errors; quotes verified vs opened Givan PDF and Britannica"
+    },
+    {
+     "t": "2026-10-22T04:42:17+00:00",
+     "to": "ready",
+     "note": "advisor round-4 scoped pass; supervisor scope approval routed"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST410"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST410"
+  },
+  "s1a-033": {
+   "status": "integrated",
+   "angle": "B143 relational emptiness: Fazang's hall of mirrors for Empress Wu \u2014 one Buddha statue, ten mirrors, torch; each reflection carrying all others",
+   "history": [
+    {
+     "t": "2026-10-22T05:57:40+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T06:08:02+00:00",
+     "to": "qc_pending",
+     "note": "first advisor QC pending"
+    },
+    {
+     "t": "2026-10-22T06:36:06+00:00",
+     "to": "ready",
+     "note": ""
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST434"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST434"
+  },
+  "s1a-034": {
+   "status": "integrated",
+   "angle": "D180 delight in the ordinary: William Carlos Williams, the doctor-poet of Rutherford \u2014 the red wheelbarrow and the plums in the icebox",
+   "history": [
+    {
+     "t": "2026-10-22T05:57:40+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T06:08:02+00:00",
+     "to": "qc_pending",
+     "note": "first advisor QC pending"
+    },
+    {
+     "t": "2026-10-22T06:36:07+00:00",
+     "to": "ready",
+     "note": ""
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST435"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST435"
+  },
+  "s1a-035": {
+   "status": "integrated",
+   "angle": "D041 qingjing: Agnes Martin's stillness discipline",
+   "history": [
+    {
+     "t": "2026-10-22T15:04:32+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T15:04:32+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-22T15:05:22+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; first advisor QC"
+    },
+    {
+     "t": "2026-10-22T15:07:54+00:00",
+     "to": "qc_pending",
+     "note": "rewritten per advisor QC 1; quotes verbatim from opened carriers"
+    },
+    {
+     "t": "2026-10-22T15:34:26+00:00",
+     "to": "ready",
+     "note": "advisor QC passed; ready for supervisor review"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST411"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST488"
+  },
+  "s1a-036": {
+   "status": "integrated",
+   "angle": "D160 slowest vessel: Matisse cut-outs",
+   "history": [
+    {
+     "t": "2026-10-22T15:09:31+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T15:09:31+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; awaiting advisor QC"
+    },
+    {
+     "t": "2026-10-22T15:34:26+00:00",
+     "to": "ready",
+     "note": "advisor QC passed; ready for supervisor review"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST412"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST489"
+  },
+  "s1a-037": {
+   "status": "integrated",
+   "angle": "D186 hide your light: Hilma af Klint",
+   "history": [
+    {
+     "t": "2026-10-22T15:14:09+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T15:14:09+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; awaiting advisor QC"
+    },
+    {
+     "t": "2026-10-22T15:34:26+00:00",
+     "to": "ready",
+     "note": "advisor QC passed; ready for supervisor review"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST413"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST490"
+  },
+  "s1a-038": {
+   "status": "qc_pending",
+   "angle": "D022 second angle: Brancusi subtraction",
+   "history": [
+    {
+     "t": "2026-10-22T15:24:45+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T15:24:45+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; awaiting advisor QC"
+    }
+   ],
+   "stid": "ST490"
+  },
+  "s1a-039": {
+   "status": "integrated",
+   "angle": "B109 examine fear: Beethoven testament",
+   "history": [
+    {
+     "t": "2026-10-22T15:28:39+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T15:28:39+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; awaiting advisor QC"
+    },
+    {
+     "t": "2026-10-22T15:34:26+00:00",
+     "to": "ready",
+     "note": "advisor QC passed; ready for supervisor review"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST417"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST491"
+  },
+  "s1a-040": {
+   "status": "integrated",
+   "angle": "P165: Mill's 1826 crisis \u2014 analysis as the defensive gate, Wordsworth as the reopening",
+   "history": [
+    {
+     "t": "2026-10-24T13:55:55+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T13:57:25+00:00",
+     "to": "qc_pending",
+     "note": "first draft complete, story_check clean"
+    },
+    {
+     "t": "2026-10-24T13:58:52+00:00",
+     "to": "returned",
+     "note": "advisor QC: raw-source verification + chronology + narrowed P165 mapping required; WIP pushed"
+    },
+    {
+     "t": "2026-10-24T14:00:36+00:00",
+     "to": "qc_pending",
+     "note": "revision complete per advisor QC; story_check clean"
+    },
+    {
+     "t": "2026-10-24T14:04:31+00:00",
+     "to": "ready",
+     "note": "advisor QC rounds 1-3 complete; all fixes applied; story_check clean"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST471"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST471"
+  },
+  "s1a-041": {
+   "status": "integrated",
+   "angle": "D133: China's 1958 Great Sparrow Campaign \u2014 domination of nature answered by the system it can't see",
+   "history": [
+    {
+     "t": "2026-10-24T14:04:46+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:05:56+00:00",
+     "to": "ready",
+     "note": "story_check clean; sources opened and quoted verbatim"
+    },
+    {
+     "t": "2026-10-24T14:10:51+00:00",
+     "to": "qc_pending",
+     "note": "advisor QC fixes applied; awaiting supervisor registration"
+    },
+    {
+     "t": "2026-10-24T14:18:07+00:00",
+     "to": "ready",
+     "note": "QC fixes (Dewey opened, figures dated) applied and validated earlier; state restored to ready"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST475"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST475"
+  },
+  "s1a-042": {
+   "status": "integrated",
+   "angle": "B122: Milinda and Nagasena's chariot \u2014 'Nagasena' as a designation, the two truths in one dialogue",
+   "history": [
+    {
+     "t": "2026-10-24T14:06:01+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:07:48+00:00",
+     "to": "ready",
+     "note": "story_check clean; Milindapanha and MMK 24 opened and quoted verbatim"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST414"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST491"
+  },
+  "s1a-043": {
+   "status": "integrated",
+   "angle": "D047: Yan Hui's zuowang \u2014 forgetting benevolence and righteousness, rites and music, then sitting and forgetting (Zhuangzi ch. 6)",
+   "history": [
+    {
+     "t": "2026-10-24T14:07:55+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:08:20+00:00",
+     "to": "ready",
+     "note": "story_check clean; dialogue quoted verbatim from opened ETH Legge PDF"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST415"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST415"
+  },
+  "s1a-044": {
+   "status": "integrated",
+   "angle": "P041: Yunus in the 1974 famine \u2014 from economic theory to 42 people and 27 dollars, ends revised as means unfold",
+   "history": [
+    {
+     "t": "2026-10-24T14:08:30+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:10:51+00:00",
+     "to": "ready",
+     "note": "advisor QC fixes applied (Dewey opened, figures dated, mapping source-bounded)"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST472"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST472"
+  },
+  "s1a-045": {
+   "status": "integrated",
+   "angle": "B029: MN 107 \u2014 the Buddha's answer to Ganaka-Moggallana on why some attain and some don't: the frontier-city gatekeeper and the shown path",
+   "history": [
+    {
+     "t": "2026-10-24T14:11:37+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:12:29+00:00",
+     "to": "ready",
+     "note": "story_check clean; MN 107 opened and quoted verbatim"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST479"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST479"
+  },
+  "s1a-046": {
+   "status": "integrated",
+   "angle": "P080: Ovid's Midas \u2014 the granted wish that turns the conditions of flourishing into gold",
+   "history": [
+    {
+     "t": "2026-10-24T14:12:39+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:13:29+00:00",
+     "to": "ready",
+     "note": "story_check clean; Ovid Book 11 opened and quoted verbatim"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST474"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST474"
+  },
+  "s1a-047": {
+   "status": "integrated",
+   "angle": "D041: Woodcarver Qing's bell stand \u2014 fasting to stillness before the right seeing and the right work (Zhuangzi ch. 19)",
+   "history": [
+    {
+     "t": "2026-10-24T14:13:42+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:14:17+00:00",
+     "to": "ready",
+     "note": "story_check clean; Zhuangzi XIX + Classic of Purity opened and quoted verbatim"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST478"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST478"
+  },
+  "s1a-048": {
+   "status": "integrated",
+   "angle": "B060: Zhaozhou asks Nanquan for the Way \u2014 'If you try to direct yourself toward it, you go away from it' (Mumonkan case 19)",
+   "history": [
+    {
+     "t": "2026-10-24T14:14:25+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:14:53+00:00",
+     "to": "ready",
+     "note": "story_check clean; Mumonkan 19 opened and quoted verbatim"
+    },
+    {
+     "t": "2026-10-26T00:12:46+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST480"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST480"
+  },
+  "s1a-049": {
+   "status": "integrated",
+   "angle": "P089: Thoreau at Walden \u2014 the bean field as doing, the broad margin as undergoing, the day as the rhythm between them",
+   "history": [
+    {
+     "t": "2026-10-24T14:15:05+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:18:06+00:00",
+     "to": "ready",
+     "note": "advisor QC (item-10 milestone) fixes applied: fragment quote removed, schedule framing removed, reception-informing-next-action marked NOT carried, chapter headings verified in raw text"
+    },
+    {
+     "t": "2026-10-26T00:12:47+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST476"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST476"
+  },
+  "s1a-050": {
+   "status": "integrated",
+   "angle": "P143: Helen Keller \u2014 thinking with the whole body: touch, vibration and muscle sense as the medium of thought",
+   "history": [
+    {
+     "t": "2026-10-24T14:18:28+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:19:18+00:00",
+     "to": "ready",
+     "note": "Keller autobiography raw text verified; quotes verbatim; mapping bounded to Keller's and Sullivan's own words"
+    },
+    {
+     "t": "2026-10-26T00:12:47+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST477"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST477"
+  },
+  "s1a-051": {
+   "status": "integrated",
+   "angle": "P012: James's squirrel \u2014 the camping-party quarrel about going round the squirrel, dissolved by naming the practical difference",
+   "history": [
+    {
+     "t": "2026-10-24T14:19:31+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:20:16+00:00",
+     "to": "ready",
+     "note": "James Pragmatism raw text verified; quotes verbatim; belief-as-habit facet marked NOT carried"
+    },
+    {
+     "t": "2026-10-25T14:06:34+00:00",
+     "to": "drafting",
+     "note": "correction: state.json said ready but the draft's QC notes record story_check pending and front matter is drafting; quotes were verified 2026-10-24 but the full QC pass never ran - reverting state to drafting to match the draft; flagged for the next storyteller pass"
+    },
+    {
+     "t": "2026-10-25T14:06:45+00:00",
+     "to": "ready",
+     "note": "QC pass complete: story_check 0 errors, six blockquotes re-verified against re-downloaded Gutenberg 5116, banned-phrase scan clean; ready"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST416"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST416"
+  },
+  "s1a-052": {
+   "status": "integrated",
+   "angle": "",
+   "history": [
+    {
+     "t": "2026-10-24T14:21:10+00:00",
+     "to": "ready",
+     "note": "Orpheus Chamber Orchestra; quotes from founder (LA Times 1994) and artistic director (Violin Channel 2020), both opened; DDJ political frame marked NOT carried"
+    },
+    {
+     "t": "2026-10-26T00:12:47+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST481"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST481"
+  },
+  "s1a-053": {
+   "status": "integrated",
+   "angle": "",
+   "history": [
+    {
+     "t": "2026-10-24T14:22:42+00:00",
+     "to": "ready",
+     "note": "Dorothy journal + Wordsworth Preface + 1807 poem, all raw texts opened; 1807 text quoted, not 1815 revision"
+    },
+    {
+     "t": "2026-10-26T00:12:47+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST473"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST473"
+  },
+  "s1a-054": {
+   "status": "integrated",
+   "angle": "P090: Jane Addams takes the garbage inspectorship \u2014 sanitation done with the Nineteenth Ward's women's clubs, not to them",
+   "history": [
+    {
+     "t": "2026-10-24T14:23:03+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:25:56+00:00",
+     "to": "ready",
+     "note": "advisor QC item-15 fixes applied: joint attribution, purpose-setting marked not demonstrated, punctuation restored, date range removed"
+    },
+    {
+     "t": "2026-10-26T00:12:47+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST482"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST482"
+  },
+  "s1a-055": {
+   "status": "integrated",
+   "angle": "P179: Franklin's little book \u2014 the daily schedule's morning and evening questions closing the loop on each day",
+   "history": [
+    {
+     "t": "2026-10-24T14:26:42+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:27:10+00:00",
+     "to": "ready",
+     "note": "Franklin Autobiography raw text verified; schedule questions reconstructed from the printed table, noted in QC notes"
+    },
+    {
+     "t": "2026-10-26T00:12:47+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST483"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST483"
+  },
+  "s1a-056": {
+   "status": "integrated",
+   "angle": "",
+   "history": [
+    {
+     "t": "2026-10-24T14:27:54+00:00",
+     "to": "ready",
+     "note": "AP News and Nippon.com opened; Kawanishi quotes verbatim; Whitehead theory marked NOT carried"
+    },
+    {
+     "t": "2026-10-26T00:12:47+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST484"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST484"
+  },
+  "s1a-057": {
+   "status": "integrated",
+   "angle": "P151: Goethe's Faust \u2014 the wager to stop the moment, and salvation granted to ceaseless striving",
+   "history": [
+    {
+     "t": "2026-10-24T14:28:04+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:28:46+00:00",
+     "to": "ready",
+     "note": "Faust Part I Taylor English opened; Part II German raw text opened with translations marked as my own; Simondon theory marked NOT carried"
+    },
+    {
+     "t": "2026-10-24T14:33:09+00:00",
+     "to": "ready",
+     "note": "item-20 QC fixes applied: translator credit corrected to Brooks, love-from-above continuation quoted, redemption claim bounded"
+    },
+    {
+     "t": "2026-10-26T00:12:47+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST485"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST485"
+  },
+  "s1a-058": {
+   "status": "integrated",
+   "angle": "B160: the Kalama Sutta \u2014 the Buddha tells the Kalamas not to settle teachers' claims by authority, but by what they can see for themselves",
+   "history": [
+    {
+     "t": "2026-10-24T14:28:59+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:29:46+00:00",
+     "to": "ready",
+     "note": "Soma Thera translation opened in full; narrative frame and four solaces add what the principle page does not quote"
+    },
+    {
+     "t": "2026-10-24T14:33:09+00:00",
+     "to": "ready",
+     "note": "item-20 QC fixes applied: authority phrase bounded, unsupported framing removed, ellipsis removed from solaces quote"
+    },
+    {
+     "t": "2026-10-26T00:12:47+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST466"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST466"
+  },
+  "s1a-059": {
+   "status": "integrated",
+   "angle": "B124: Joshu's oak tree \u2014 the monk asks for meaning, Joshu points at the garden",
+   "history": [
+    {
+     "t": "2026-10-24T14:29:55+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:33:09+00:00",
+     "to": "ready",
+     "note": "item-20 QC fixes applied: bounded reading, source punctuation restored, verse on separate lines, provenance bounded"
+    },
+    {
+     "t": "2026-10-26T00:12:47+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST467"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST467"
+  },
+  "s1a-060": {
+   "status": "integrated",
+   "angle": "D035: Thoreau's house that cost 8.12 1/2 \u2014 the economy of living within bounds",
+   "history": [
+    {
+     "t": "2026-10-24T14:33:19+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:33:34+00:00",
+     "to": "ready",
+     "note": "Walden Economy ledger verbatim from opened raw text; DDJ 80 isolation ideal marked NOT carried"
+    },
+    {
+     "t": "2026-10-26T00:12:47+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST468"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST468"
+  },
+  "s1a-061": {
+   "status": "integrated",
+   "angle": "P105: Keller feeling music \u2014 rhythm through vibration and the muscular sense",
+   "history": [
+    {
+     "t": "2026-10-24T14:33:46+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:34:01+00:00",
+     "to": "ready",
+     "note": "Macy supplementary account verbatim from opened keller.txt; Dewey theory and rehearsal exercise marked NOT carried"
+    },
+    {
+     "t": "2026-10-26T00:12:47+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST469"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST469"
+  },
+  "s1a-062": {
+   "status": "integrated",
+   "angle": "P074: Dewey's own account of the child and the match \u2014 impulse as raw material",
+   "history": [
+    {
+     "t": "2026-10-24T14:34:09+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:34:36+00:00",
+     "to": "ready",
+     "note": "Keller/Sullivan arc verbatim from opened keller.txt; Sullivan's obedience frame kept honest; Dewey example marked NOT carried"
+    },
+    {
+     "t": "2026-10-26T00:12:47+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST470"
+    },
+    {
+     "t": "2026-10-26T00:20:33+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
+    }
+   ],
+   "stid": "ST470"
+  },
+  "s1a-063": {
+   "status": "qc_pending",
+   "angle": "D015: Milton's blindness and the epic's light \u2014 the pair that gives each half its outline (Morgan + PL III invocation)",
+   "history": [
+    {
+     "t": "2026-10-25T14:40:33+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T14:40:33+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok; awaiting advisor QC"
+    },
+    {
+     "t": "2026-10-25T14:43:07+00:00",
+     "to": "qc_pending",
+     "note": "advisor round-1 repairs applied; story_check ok; scope routed"
+    },
+    {
+     "t": "2026-10-25T15:22:44+00:00",
+     "to": "qc_pending",
+     "note": "locators verified against raw text (III.40-46, III.52); story_check ok"
+    }
+   ]
+  },
+  "s1a-064": {
+   "status": "qc_pending",
+   "angle": "B025: Nobel's dynamite fortune \u2014 the accounting acted on in the 1895 will; obituary legend handled honestly",
+   "history": [
+    {
+     "t": "2026-10-25T14:44:33+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T14:44:33+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok"
+    }
+   ]
+  },
+  "s1a-065": {
+   "status": "ready",
+   "angle": "B179: Layman Pang \u2014 the chores as the miraculous activity; before/after proverb shown to be a modern formula",
+   "history": [
+    {
+     "t": "2026-10-25T14:45:28+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T14:45:28+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok; advisor milestone QC"
+    },
+    {
+     "t": "2026-10-26T09:56:13+00:00",
+     "to": "ready",
+     "note": "advisor QC round 2 (1026f): PASS \u2014 narrative arc complete, B179 mapping explicit and justified, quotes verbatim (Eno PDF locators verified), interpretation clearly interpretation, coverage matrix names uncarried facets, humanised prose; story_check ok"
+    }
+   ]
+  },
+  "s1a-066": {
+   "status": "qc_pending",
+   "angle": "D110: the Huainanzi horse parable \u2014 the father's three replies",
+   "history": [
+    {
+     "t": "2026-10-25T14:50:07+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T14:50:07+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok"
+    },
+    {
+     "t": "2026-10-25T15:25:48+00:00",
+     "to": "qc_pending",
+     "note": "ledger paraphrase replaced with page's own sentence; quotes re-verified; story_check ok"
+    }
+   ]
+  },
+  "s1a-067": {
+   "status": "qc_pending",
+   "angle": "D135: Flower Sermon \u2014 the wordless teaching received as a smile",
+   "history": [
+    {
+     "t": "2026-10-25T14:50:07+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T14:50:07+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok"
+    }
+   ]
+  },
+  "s1a-068": {
+   "status": "qc_pending",
+   "angle": "B034: Padhana Sutta \u2014 Mara's armies named in sequence",
+   "history": [
+    {
+     "t": "2026-10-25T14:51:43+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T14:51:43+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok"
+    }
+   ]
+  },
+  "s1a-069": {
+   "status": "qc_pending",
+   "angle": "D125: Hugo's bishop and the silver \u2014 DDJ 49 policy in fiction",
+   "history": [
+    {
+     "t": "2026-10-25T14:51:43+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T14:51:43+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok"
+    },
+    {
+     "t": "2026-10-25T15:22:44+00:00",
+     "to": "qc_pending",
+     "note": "quotes re-verified character-level against raw text; speech-tag elisions marked; story_check ok"
+    }
+   ]
+  },
+  "s1a-070": {
+   "status": "qc_pending",
+   "angle": "D124: Zhuangzi monkey keeper \u2014 three in the morning",
+   "history": [
+    {
+     "t": "2026-10-25T14:57:02+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T14:57:02+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok"
+    },
+    {
+     "t": "2026-10-25T15:22:44+00:00",
+     "to": "qc_pending",
+     "note": "D124 withdrawn, D083 proposed (page uses this passage); DO NOT REGISTER under D124; story_check ok"
+    },
+    {
+     "t": "2026-10-25T15:25:48+00:00",
+     "to": "qc_pending",
+     "note": "D124 withdrawn, D083 proposed (page uses this passage; possible existing-emblem duplicate flagged); story_check ok"
+    }
+   ]
+  },
+  "s1a-071": {
+   "status": "qc_pending",
+   "angle": "B072: Ralston \u2014 the shift from freeing to releasing",
+   "history": [
+    {
+     "t": "2026-10-25T14:57:02+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T14:57:02+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok; register difference routed"
+    },
+    {
+     "t": "2026-10-25T15:03:55+00:00",
+     "to": "qc_pending",
+     "note": "B072 mapping withdrawn per advisor round 3; reassignment requested"
+    }
+   ]
+  },
+  "s1a-072": {
+   "status": "qc_pending",
+   "angle": "B015: Yellowstone web told honestly \u2014 removal undisputed, return partial",
+   "history": [
+    {
+     "t": "2026-10-25T14:58:44+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T14:58:44+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok"
+    },
+    {
+     "t": "2026-10-25T15:22:44+00:00",
+     "to": "qc_pending",
+     "note": "quotes re-verified against clean page fetch; hydrology narrowed to paper finding; story_check ok"
+    }
+   ]
+  },
+  "s1a-073": {
+   "status": "qc_pending",
+   "angle": "B094: the cellist of Sarajevo \u2014 the daily return; fit note routed",
+   "history": [
+    {
+     "t": "2026-10-25T14:58:45+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T14:58:45+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok; fit note routed"
+    },
+    {
+     "t": "2026-10-25T15:03:55+00:00",
+     "to": "qc_pending",
+     "note": "reassigned B094->B156 proposed per advisor round 3; final call routed"
+    },
+    {
+     "t": "2026-10-25T15:22:44+00:00",
+     "to": "qc_pending",
+     "note": "motivation removed (interviews not opened); rests on performance narrative; B156 proposal final call routed; story_check ok"
+    }
+   ]
+  },
+  "s1a-074": {
+   "status": "qc_pending",
+   "angle": "D060: the Great Fire as the cautionary inversion \u2014 the small skipped",
+   "history": [
+    {
+     "t": "2026-10-25T14:59:31+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T14:59:31+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok; inversion named and routed"
+    },
+    {
+     "t": "2026-10-25T15:22:44+00:00",
+     "to": "qc_pending",
+     "note": "D060 mapping withdrawn; narrative held for supervisor decision; DO NOT REGISTER under D060; story_check ok"
+    }
+   ]
+  },
+  "s1a-075": {
+   "status": "qc_pending",
+   "angle": "D083: the Rohini dispute \u2014 the question chain that re-prices the quarrel",
+   "history": [
+    {
+     "t": "2026-10-25T15:05:05+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T15:05:05+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok"
+    },
+    {
+     "t": "2026-10-25T15:22:44+00:00",
+     "to": "qc_pending",
+     "note": "attribution verified on page; broader re-pricing illustration vs s1a-070; fit routed; story_check ok"
+    }
+   ]
+  }
+ },
+ "updated": "2026-10-26T00:20:33+00:00"
 }
