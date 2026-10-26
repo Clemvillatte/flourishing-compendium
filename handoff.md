@@ -3812,6 +3812,9 @@ on both carriers, fresh fetches — quotes verbatim, effect sizes exact,
 bottom lines opposite on the same proposition, the two meta-analyses naming
 each other in print. PASS verdict CONFIRMED, no repair owed. Report:
 docs/enrichment/qc/QC-SAMPLE-DOSR5-2026-10-26.md. Same session, dosr3 lane:
-substantive per-question review complete with two advisor QC rounds; agency
-and goals flagged below strict bar with repair leads (batches/dosr3.json);
-dossier repairs landed and registry-rebuilt for agency/cognition/goals.
+substantive per-question review complete with three advisor rounds; corrected
+tally: ONLY anger at the strict 3-5 bar — cognition, goals and agency all
+flagged below it (cognition Q2 primary located but unread, Q3 compatible per
+the record; goals Q1 secondary carrier, Q2 unresolved; agency Q3 one-sided)
+with repair leads (batches/dosr3.json); dossier repairs landed and
+registry-rebuilt for agency/cognition/goals.
