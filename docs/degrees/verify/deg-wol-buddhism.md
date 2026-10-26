@@ -620,6 +620,27 @@ recorded, not adjudicated).
   narrowed to the uninspected remainder, not dropped for the whole
   recording.
 
+**B-V14 addendum — full caption text retrieved (2026-10-26T05:32Z):**
+the working downsub route (see B-V18-B-V20) also returned this
+recording's FULL English auto-caption text (31,067 characters,
+whole 1:01:36; extraction page confirms the duration). The
+inspection method remains targeted searches and excerpt reads
+over the retrieved text (not a full read-through), now spanning
+the whole recording rather than the first 12 minutes. Additional
+inspected passages: sati characterized as the ability to be
+present here and now; wisdom as the observer of delusion (with
+the observation that delusion cannot observe wisdom); the Four
+Noble Truths taught with three aspects and twelve insights, the
+first truth framed as something ordinary requiring no faith; and
+the talk's own closing (paraphrase: the real heart of the
+Buddhist teaching is very simple — wake up, awaken to reality —
+that is enough for this evening). The closing matches a complete
+talk ending inside the 1:01:36 runtime. The earlier "remaining
+~49 minutes uninspected" boundary is superseded: full-assignment
+coverage now rests on the retrieved full caption text with the
+stated inspection method, still subject-classification only
+(auto-captions are not a verbatim quotation carrier).
+
 ### B-V15 — Fronsdal Class 1 search-discovered mirror rendered (2026-10-26T05:22Z; corrected 05:30Z per advisor QC)
 
 - URL: https://www.youtube.com/watch?v=9ySzMWwdigg — the ledger's
