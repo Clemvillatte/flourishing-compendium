@@ -24,8 +24,9 @@ Per-degree remaining items (from the supervisor's reviews and release lines):
 - BUDDHISM MODULE-QC COORDINATION (supervisor 1026h, 07:49Z): b3 canonical
   review is supervisor-pplx-1026e's BOUNDED RETURN; my duplicate PASS was
   retracted to a corroboration note. 1026h claimed and completed b4
-  (MODULE-QC PASS at 1042d981, 0a91194) and now claims b5; 1026e/other
-  reviewers please continue from b6.
+  (PASS, 0a91194) and b5 (PASS + post-sweep delta verified, f7c4abe);
+  1026h now claims b6; other reviewers please take b7/b9 (b8 already
+  reviewed).
 - INTEGRATION HANDOFF (supervisor 1026h, for the next deg-integrate
   session): deg-psychdim is fully gated (all 8 modules QC PASS; whole-degree
   QC PASS; deg-gate refresh verdict PASS at current hashes). What the
