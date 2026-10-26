@@ -11092,7 +11092,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The disagreement concerns what the trigger is, and it stays a disagreement about activation: whether an active goal is necessary for a habitual response to fire, not whether a person must perform every response that comes to mind. Wood, Mazar and Neal's own sentence keeps the two apart, reporting responses activated regardless of goals but performed in concert with goal pursuit. I lean toward the context-direct account, because it predicts the failure that matters most here: the pattern that survives its own rejection. In practice I examine cues alongside intentions, because changing the aim may leave the old response readily activated, and neither account alone establishes which intervention will work for a particular person. That leaves the operational question where it belongs: not only what should I do instead, but what am I already primed to do next?"
+          "x": "The disagreement concerns what the trigger is, and it stays a disagreement about activation: whether an active goal is necessary for a habitual response to fire, not whether a person must perform every response that comes to mind. Wood, Mazar and Neal's own sentence keeps the two apart, reporting responses activated regardless of goals but performed in concert with goal pursuit. I lean toward the context-direct account, because it predicts the failure that matters most here: the pattern that survives its own rejection. In practice I examine cues alongside intentions, because changing the aim may leave the old response readily activated, and neither account alone establishes which intervention will work for a particular person. That leaves two operational questions: what should I do instead, and what am I already primed to do next?"
         },
         {
           "t": "h2",
@@ -14368,7 +14368,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST112 — Edison Burns the Filaments](card:ST112%20%E2%80%94%20Edison%20Burns%20the%20Filaments): the filament search tests thousands of materials, platinum, carbonised cotton thread, bamboo from a Japanese fan, and the notebooks record the failures as data; the insight was not in any single test, it was the refusal to stop generating variants until one survived."
+          "x": "[ST112 — Edison Burns the Filaments](card:ST112%20%E2%80%94%20Edison%20Burns%20the%20Filaments): the filament search tests thousands of materials, platinum, carbonised cotton thread, bamboo from a Japanese fan, and the notebooks record the failures as data; the insight lay in the refusal to stop generating variants until one survived."
         }
       ],
       "group": "eightfold-path",
@@ -14951,7 +14951,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The virtue tradition refuses to wait for fear to leave before acting. [Courage](card:Courage) is the umbrella card, built on Aristotle's account of courage as the mean concerned with things that inspire confidence or fear. [Courage — action despite fear](card:Courage%20%E2%80%94%20action%20despite%20fear) gives the account its spine: the brave person does not lack fear, but fears the right things, in the right way and at the right time: \"death and wounds will be painful to the brave man and against his will, but he will face them because it is noble to do so\" ([Aristotle, Nicomachean Ethics III, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))."
+          "x": "The virtue tradition refuses to wait for fear to leave before acting. [Courage](card:Courage) is the umbrella card, built on Aristotle's account of courage as the mean concerned with things that inspire confidence or fear. [Courage — action despite fear](card:Courage%20%E2%80%94%20action%20despite%20fear) gives the account its spine: the brave person still feels fear, and fears the right things, in the right way and at the right time: \"death and wounds will be painful to the brave man and against his will, but he will face them because it is noble to do so\" ([Aristotle, Nicomachean Ethics III, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))."
         },
         {
           "t": "p",
@@ -17110,7 +17110,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "That is [dukkha](card:Dukkha) in one sentence: not a claim that life is miserable, but that ordinary experience carries a structural ache, because everything it runs on is conditioned and everything conditioned shifts. The [Four Noble Truths](card:Four%20Noble%20Truths) are often read as propositions to believe; the sutta's own verbs are tasks, comprehended, abandoned, realized, developed, which is a different thing entirely. A diagnosis you can act on is a practice, not a doctrine."
+          "x": "That is [dukkha](card:Dukkha) in one sentence: ordinary experience carries a structural ache, because everything it runs on is conditioned and everything conditioned shifts. The claim concerns the structure of experience and says nothing about how miserable any particular life is. The [Four Noble Truths](card:Four%20Noble%20Truths) are often read as propositions to believe; the sutta's own verbs are tasks, comprehended, abandoned, realized, developed."
         },
         {
           "t": "p",
@@ -17419,7 +17419,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "One reading treats it as a claim about objects: statues fall, dynasties end. That is true and unhelpful, because the harder cases are the ones I am inside of. A mood that is watched while it fades teaches the next mood less authority, which is the practical point of the [watchfulness](card:B066%20%E2%80%94%20Watch%20states%20arise%20and%20pass) the Buddhist sit trains. The fact is not that everything ends eventually, but that everything conditioned is ending now, in the specific sense that nothing I can name is holding still."
+          "x": "One reading treats it as a claim about objects: statues fall, dynasties end. That is true and unhelpful, because the harder cases are the ones I am inside of. A mood that is watched while it fades teaches the next mood less authority, which is the practical point of the [watchfulness](card:B066%20%E2%80%94%20Watch%20states%20arise%20and%20pass) the Buddhist sit trains. Everything conditioned is ending now, in the specific sense that nothing I can name is holding still."
         },
         {
           "t": "p",
@@ -17571,7 +17571,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The practical payoff, on Epicurus's account, is that a correct understanding that death is nothing to us makes the mortality of life enjoyable, not by adding to life a limitless time, but by taking away the yearning after immortality. On this view, death is not the paradigm of impermanence but a special case, the one change I will not be present for."
+          "x": "The practical payoff, on Epicurus's account, is that a correct understanding that death is nothing to us makes the mortality of life enjoyable, not by adding to life a limitless time, but by taking away the yearning after immortality. On this view, death is a special case of impermanence, the one change I will not be present for."
         },
         {
           "t": "p",
@@ -19101,7 +19101,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Action over intention](card:Action%20over%20intention) records the same placement logic: conduct gets its own factor rather than being left to trained intention. The grouping says something a modern reader can miss: the question the path asks about work is not first whether the job expresses the person or fulfills them, but whether it is conduct they can stand behind, the same question it asks of a word spoken or a thing taken."
+          "x": "[Action over intention](card:Action%20over%20intention) records the same placement logic: conduct gets its own factor rather than being left to trained intention. The grouping says something a modern reader can miss: the first question the path asks about work is whether it is conduct a person can stand behind, the same question it asks of a word spoken or a thing taken, and only after that whether the job expresses or fulfils them."
         },
         {
           "t": "p",
