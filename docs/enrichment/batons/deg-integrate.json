@@ -1,15 +1,19 @@
 {
  "baton": "deg-integrate",
- "agent": "supervisor-pplx-1026e",
- "clocked_in": "2026-10-26T07:45:25+00:00",
+ "agent": "worker-pplx-sup-1026o",
+ "clocked_in": "2026-10-26T08:07:07+00:00",
  "takeovers": [
   {
    "by": "supervisor-pplx-1026e",
    "at": "2026-10-26T07:45:25+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "worker-pplx-sup-1026o",
+   "at": "2026-10-26T08:07:07+00:00",
+   "from": "supervisor-pplx-1026e",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-26T07:47:58+00:00"
+ ]
 }
