@@ -1352,3 +1352,25 @@ m5-capstone-synthesis: DRAFT, NOT CLEARED; advisor round 1 repairs
 applied; a second advisor pass was not run before this session's
 report window; supervisor module-QC pending. m4's video content
 re-verification remains routed to deg-verify-a.
+
+## m5 advisor QC round 2 — RETURNED, repairs applied (2026-10-26, supervisor-pplx-1026c-daoism)
+
+Advisor verdict: RETURNED; four findings, all repaired this pass:
+(1) the opening frequency claim ("most often raises") removed and the
+objections/passages division made explicit (objections are the
+module's constructions; passages are the text's own words);
+(2) lecture material removed from the capstone evidence options
+(m4 elective Neiye only, marked as elective-track), and Step 1's
+self-preservation re-read route now gives the verified non-elective
+route (ch. 44 questions; ch. 67 compassion and frugality) with the
+Neiye as elective addition; (3) the Step 3 answer-to-objection bullet,
+garbled by the round-1 string edits, was rewritten whole ("For
+chapter 67 links..." fragment removed; duplicated compassion pointer
+removed); the "highest skill is engaged and responsive" reading and
+the Butterfly Dream significance are now labelled as proposed
+readings in the rubric examples; (4) primary-text count redone with
+subsection markers excluded (464 words: 153 + 54 + 113 + 144) and
+the module remeasured after repairs (prose 2,113 words; total about
+206 minutes; components sum). The final file was re-read end to end
+before the next verification request; the next advisor pass carries
+the file text itself, not a repair summary.

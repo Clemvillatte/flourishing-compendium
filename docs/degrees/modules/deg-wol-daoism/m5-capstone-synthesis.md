@@ -7,16 +7,16 @@ defends a position you actually hold against one serious objection.
 **Prerequisites**: completion of m1 through m4. The observable
 competencies required: you can quote an assigned passage exactly and
 separate what it says from your application of it (m2 Outcome 2,
-m3 Outcomes 1 and 4, m4 Outcome 2, if you took the elective track), you can distinguish a training
+m3 Outcomes 1 and 4), you can distinguish a training
 history from the state it produces (m3 Outcome 2), and you can
 design a bounded practice with a reason, a limit and evidence
 criteria (m4 Outcome 3).
-**Total time budget**: about 3 hours 27 minutes (about 207 minutes of
+**Total time budget**: about 3 hours 26 minutes (about 206 minutes of
 labelled components; arithmetic below).
 **Primary text**: four newly assigned Daodejing chapters in the [Eno
 translation](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content)
-(chapters 20, 44, 50 and 67; 473 words measured on the four
-chapters; free, educator-licensed, no paywall), plus re-reads of the
+(chapters 20, 44, 50 and 67; 464 words measured on the four
+chapters, subsection markers excluded; free, educator-licensed, no paywall), plus re-reads of the
 passages you already hold from m2 (Daodejing 11, 36, 78), m3 (Cook
 Ding, the Hunchback, the Butterfly Dream) and m4 (Neiye sections 1,
 2, 3, 12; elective track). No new video is assigned; the primary text carries the objection material.
@@ -27,19 +27,20 @@ The exit capability this walk promised from the start is a written
 one: a personal synthesis of the walk against one serious objection.
 This module is that promise, delivered.
 
-The four new chapters are the Daodejing's own sharpest material for
-the objections a thoughtful reader most often raises. Chapter 20 has
+The four new chapters carry sharp material for objections to this
+walk. Chapter 20 has
 the sage saying "I alone am still, without visible sign... like one
 with no home... I alone wish to be different from others". Chapter 44
 ranks the body above reputation and goods and tells the reader to
 "know what is enough". Chapter 50 describes one "good at protecting
 his life" who "has no death place in him". Chapter 67 names the
 three treasures: compassion, frugality, and not daring to take the
-lead. Read together with what you already hold, these chapters hand
-you the objections in the text's own words, which is what makes the
-synthesis honest: you will state an objection the tradition's own
-materials supply, at full strength, and answer it from those same
-materials.
+lead. Read together with what you already hold, these chapters supply the
+passages from which the three candidate objections below are built.
+The objections are the module's constructions; the passages are the
+text's own words. That division is what makes the synthesis honest:
+you will state a strong objection, check it against the quoted
+passages, and answer it from those same passages.
 
 The three candidate objections below are this module's reading
 prompts: each is grounded in the assigned chapters, and each is the
@@ -104,7 +105,7 @@ On completing this module the learner can:
 
 ### Step 1: Read the four new chapters (about 22 minutes estimated
 on the primary text with the three-times study multiplier; about 7
-minutes raw on two readings of the 473 assigned words)
+minutes raw on two readings of the 464 assigned words)
 
 Read [Daodejing chapters 20, 44, 50 and
 67](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content)
@@ -122,11 +123,11 @@ twice each. On the second reading, mark:
 
 Then re-read the passages you already hold that bear on your chosen
 objection: for the withdrawal objection, Cook Ding (m3) and chapter
-67's compassion; for the self-preservation objection, Neiye section
-12 (m4, elective track) and chapter 67's frugality; for the
-no-standards objection, the Butterfly Dream (m3) and chapter 20's
-"how baseless!" line. One re-read of each passage you will use is
-enough; you are not re-reading whole modules.
+67's compassion; for the self-preservation objection, chapter 44's
+questions and chapter 67's compassion and frugality (and the Neiye
+sections from m4, if you took the elective track); for the standards
+question, the Butterfly Dream (m3). One re-read of each passage you
+will use is enough; you are not re-reading whole modules.
 
 ### Step 2: Write the objection at full strength (about 30 minutes)
 
@@ -147,22 +148,19 @@ serves your argument:
   personal, but it must touch the passages.
 - The answer to the objection. Use at least three quoted passages
   from at least two modules of the walk (m2 chapters, m3 stories,
-  m4 Neiye or lecture material, m5 chapters), each cited, each
-  applied as an application. For the withdrawal objection, the
-  walk's own materials include Cook Ding, whose absorbed skill is
-  engaged work rather than retreat, and chapter 67's compassion,
-  which the chapter links to valor and says cannot be traded away for
-  it. For the self-preservation
-  objection, chapter 67 links
-  compassion to valor, and chapter 44's own questions already rank
-  the body against reputation rather than against other people; if
-  you took the m4 elective, the Neiye's whole-and-complete-center
-  picture is also material. For chapter 67 links compassion to
-  valor and says that discarding compassion in favor of valor brings
-  death. For the no-standards objection, the
-  Butterfly Dream's ending leaves the question open rather than
-  dissolving judgment. These pointers are material you may use or
-  decline; the synthesis is yours.
+  m5 chapters, and the m4 Neiye sections if you took the elective
+  track), each cited, each applied as an application. Some material
+  the passages offer: for the withdrawal objection, Cook Ding's
+  absorbed skill, which the story shows at work carving an ox for a
+  lord, and chapter 67's compassion, which the chapter links to
+  valor and says cannot be traded away for it; for the
+  self-preservation objection, chapter 44's questions, which rank
+  the body against reputation and goods rather than against other
+  people, and chapter 67's compassion and frugality; for the
+  standards question, the Butterfly Dream's open ending. These
+  pointers are material you may use or decline, and how you read
+  them is part of what the synthesis argues; the synthesis is
+  yours.
 - One concrete situation. Address one situation from your own life
   involving suffering, uncertainty or responsibility; name one
   practical implication the walk's material has for it; and name
@@ -230,12 +228,14 @@ wrong" in the same breath.
 Strong example for criterion 3: "The objection says the sage
 withdraws. Cook Ding's answer is that his absorbed skill is work:
 'Cook Ding was carving an ox carcass for Lord Wenhui,' and his
-knife moves 'in rhythm.' The passage's claim is that the highest
-skill is engaged and responsive; my application is that this
-answers the withdrawal charge for work one is competent at, and
-chapter 67's 'Compassionate, thus I can have valor' extends it:
-compassion is not apartness from others but the condition of
-courage."
+knife moves 'in rhythm.' My reading of the passage is that its
+highest skill is engaged and responsive work; the passage itself
+narrates the work and does not say this. My application is that the
+reading answers the withdrawal charge for work one is competent at,
+and
+chapter 67's 'Compassionate, thus I can have valor' extends it, on
+my reading: compassion as the condition of courage rather than
+apartness from others."
 
 Rejection example for criterion 3: "Obviously Daoists care about
 others, so the objection fails." This does not pass: it dismisses
@@ -267,11 +267,11 @@ This does not pass: no scoring, no reason, no revision recorded.
 ## Workload arithmetic
 
 - Primary-text reading on the four newly assigned chapters (chapters
-  20, 44, 50 and 67: 157 + 54 + 113 + 149 = 473 words measured on
-  the chapters): two readings, 946 words; at 130 words per minute
-  (poetic text with new concepts) about 7 minutes raw; with study
-  overhead as a three-times multiplier, about 22 minutes (estimate,
-  labelled). Re-reads of already-held passages are counted inside
+  20, 44, 50 and 67: 153 + 54 + 113 + 144 = 464 words measured on
+  the chapters, subsection markers excluded): two readings, 928
+  words; at 130 words per minute (poetic text with new concepts)
+  about 7 minutes raw; with study overhead as a three-times
+  multiplier, about 21 minutes (estimate, labelled). Re-reads of already-held passages are counted inside
   the drafting allowance, not as a separate reading block.
 - Objection writing (deliverable a): about 30 minutes.
 - Synthesis drafting (deliverable b): about 90 minutes (estimate;
@@ -279,13 +279,13 @@ This does not pass: no scoring, no reason, no revision recorded.
   passage re-reads inside it).
 - Self-assessment and revision: about 20 minutes.
 - Teach-back close: about 10 minutes.
-- Module teaching prose on this page (2,096 words measured,
+- Module teaching prose on this page (2,113 words measured,
   excluding the rubric table rows and this arithmetic section): at
   180 words per minute about 12 minutes raw; with study overhead as
   a three-times multiplier, about 35 minutes (estimate, labelled).
 
-Total: about 3 hours 27 minutes (about 207 minutes of labelled
-components: 22 estimated new-chapter reading with the three-times
+Total: about 3 hours 26 minutes (about 206 minutes of labelled
+components: 21 estimated new-chapter reading with the three-times
 study multiplier, 30 objection writing, 90 drafting with passage
 re-reads inside it, 20 self-assessment and revision, 10 teach-back
 close, 35 estimated module-prose reading with the three-times study
