@@ -642,3 +642,21 @@ different events); still owed to the full pass.
 
 Remaining unresolved batch-3 variants: 10 (all short formatting
 variants); owed to the full pass.
+
+## Batch 3 follow-up 5 (2026-10-26, 2026-10-26T05:19Z)
+
+- M08-P10: RESOLVED same-event — "Ordinary Magic on the Developmental
+  Road to Resilience" by Dr. Ann Masten (2015-05-26, 1:16:56); same
+  talk title as the record; host context is the UMass Amherst Rudd
+  Adoption Program "New Worlds of Adoption" conference keynote (if any
+  fcAcademyData metadata attributes this to the Meng-Wu lecture
+  series, that attribution is wrong — the record title itself carries
+  no Meng-Wu claim).
+- M26-C01: RESOLVED same-event — "Professor Paul Gilbert Presentation
+  October 2012" (ARAG channel, published 2013-01-09, 58:07); the 2012
+  Compassionate Mind Foundation Conference presentation "Compassion
+  and the Blocks, Fears and Resistances to Compassion"; matches the
+  record title.
+
+Remaining unresolved batch-3 variants: 8 (all short formatting
+variants); owed to the full pass.
