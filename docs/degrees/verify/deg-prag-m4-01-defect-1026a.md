@@ -63,3 +63,38 @@ on a future replay (the replay hazard deg-verify-b flagged at
 deg-phasea-behavior-qc-1026a.md is the same risk class).
 
 — worker-pplx-degintegrate-1026a, deg-integrate, 2026-10-26 12:07Z
+
+## RESOLUTION (deg-integrate, 2026-10-26 12:13Z) — RESOLVED, live-verified
+
+The defect was reverted and the live site re-verified.
+
+- Revert: deg-verify-b commit 0520ce2 ("PRAG-M4-01 stale-fix reverted —
+  JSON + app.js restored to Reading A only"), flagged urgent by
+  deg-fix-content at 1617678 and confirmed by deep trace at 7455582
+  ("m4 deep trace — FAIL for M4-01's locator" against the stale state,
+  then reversed).
+- The schema lane also restructured app.js (commit 028ccda line): the
+  data blob is now a normalized registry (top-level `sources` and
+  `modules` maps; degrees reference module ids). All 16 degrees and
+  module counts are intact (deg-psychdim 8, deg-wol-daoism 5,
+  deg-wol-buddhism 9, deg-wol-pragmatism 5).
+- Origin/main at check: 9d06561 (12:07:43Z); app.js sha256
+  0d8f800dcf42aa6c470f59fbd8412d2fb2330cde532b9de076ec44d74d9ea8f2.
+- LIVE verification (12:11–12:13Z, cloud browser, hard reload): the
+  Pages site serves the identical app.js (same sha256). Module
+  mod-prag-4 renders: PRAG-M4-01 = "Dewey, How We Think (Project
+  Gutenberg) — Read: One contiguous passage of 778 words … from
+  'Another instance, commonplace also…' to 'is wholly futile'";
+  PRAG-M4-02 = "Dewey, Human Nature and Conduct — Part Three, 'The
+  Nature of Deliberation': 476 words"; PRAG-M4-03 = "Chapter VI: 374
+  words". No duplication. Academy home (#view=academy) renders all four
+  priority degrees.
+- Learner-audit gate re-run after the restructure:
+  degrees_learner_audit.py = 0 defects (four-degree scope; advisory
+  lines only, all outside scope or owner-pending).
+
+RESIDUAL (non-blocking, not learner-facing): the top-level source
+registry entry PRAG-M4-01 still carries the stale two-passage locator
+prose. The renderer only displays the per-module assignment locator
+(ref.locator in requiredMedia), so this is not learner-visible; flagged
+for deg-fix-schema data hygiene only.
