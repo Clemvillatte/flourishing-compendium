@@ -77,7 +77,7 @@ b9 L2 elective.
 | b6-zen | L3 | Zen: Kirchner lectures 1 and 3, Rinzai/Soto | Drafted v1.3; both recordings content-inspected 2026-10-26 (selected auto-caption passages; playback blocked), verified-video |
 | b7-insight-and-secular | L3 | Insight/Vipassana (Fronsdal transcripts) and Secular Buddhism (Batchelor), compared | Drafted v1.2; Fronsdal transcript verified; Batchelor recording content-inspected 2026-10-26 (selected auto-caption passages; Burma/Vipassana passage unread), verified-video |
 | b8-capstone | L4 | Eight-week sustained practice with records; ethical case; defended synthesis | Drafted v1.2; no new sources by design |
-| b9-elective-mind-on-the-cushion | L2 elective | Hindrances and aggregates as practical psychology, read from the learner's own log | Drafted v1.2 (aggregates thread landed 2026-10-26); sources verified |
+| b9-elective-mind-on-the-cushion | L2 elective | Hindrances and aggregates as practical psychology, read from the learner's own log | Drafted v1.2 (aggregates thread landed 2026-10-26); sources verified; Thanissaro talk content-inspected 2026-10-26 (full transcript read), verified-video |
 
 Coverage of exit capabilities: ethical core (sila, precepts, four
 immeasurables) taught and practised in b1 and b3, assessed in b3 and b8;
