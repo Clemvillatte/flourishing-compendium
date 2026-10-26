@@ -445,6 +445,16 @@ the primary texts carry the module, and the candidates stay in the
 ledger for the verifier lane with the exact missing checks named
 (playback, captions, coverage, measured duration for each candidate).
 
+Independent corroboration: the deg-verify-b lane's receipt
+(docs/degrees/verify/deg-wol-pragmatism-m4-sources-1026f.md, 2026-10-26)
+confirmed the three sources and the assigned passages' boundaries
+independently, and its Reading A count (774, on a cleaned HTML
+extraction) against this module's 778 (on the downloaded plain text,
+as stated) is explained in the ledger: the boundaries are identical
+and the spread across counting methods is 757 to 780, so the module's
+figure stands per its stated method. The same receipt corroborates
+the blocked-playback limit on the video candidates.
+
 ## Alignment map
 
 | Outcome | Taught in | Practised in | Assessed in |
