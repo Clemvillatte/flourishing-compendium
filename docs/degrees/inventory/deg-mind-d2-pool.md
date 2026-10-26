@@ -91,9 +91,24 @@ The pool below maps each proposed module from the D1 coverage matrix to the open
 ### mod-mind-17 — Capstone
 - **No dedicated open capstone found this session.** The capstone is per-degree and must be built from the degree's own material per the spec's capstone rule.
 
-## Hours arithmetic (candidate estimate — NOT a measured instruction-time claim)
+## Hours arithmetic (MEASURED for the three MIT OCW courses — this is the first real instruction-time evidence)
 
-**HOURS NOT YET ESTABLISHED.** The D2 checkpoint must establish the hours with: (a) accessible assignment URLs, (b) exact video/reading durations or a documented reading-time rule, (c) a deduplicated allocation (a whole course reused across multiple modules cannot be counted repeatedly), and (d) a documented rule on whether personal practice counts as instruction time. The rough scale sketch below (MIT OCW 9.13 The Human Brain is a 24-lecture course with full video; MIT OCW 9.00SC is a full independent-study course; Coursera's Edinburgh Philosophy-and-the-Sciences is a 5-module course; Coursera's Leiden De-Mystifying Mindfulness is a 9-module course) is a plausibility argument, not a demonstration. **This is the D2 checkpoint's core question.**
+**MEASURED VIDEO HOURS (verified this session via the archive.org metadata for each MIT OCW course's hosted videos, with per-video second-level durations):**
+
+| MIT OCW course | Instructor | Videos | Measured video hours | Notes |
+|---|---|---|---|---|
+| 9.13 The Human Brain (Spring 2019) | Nancy Kanwisher (CREDENTIALS-VERIFIED) | 17 | **20.15 h** (72,552 sec) | Lectures 1, 2, 4-11, 13, 15, 16, 18, 20, 21, 24 — durations per file, e.g. lec01 79:55, lec02 50:18, lec08 83:09, lec21 83:22, lec24 56:42 |
+| 9.00SC Introduction to Psychology (Fall 2011) | John Gabrieli | 27 | **23.04 h** | independent-study format with full video |
+| 9.40 Introduction to Neural Computation (Spring 2018) | Michale Fee (CREDENTIALS-VERIFIED) | 40 | **49.11 h** | neural computation, statistical inference |
+| **Subtotal (three MIT OCW courses, deduplicated)** | | 84 | **92.30 h** | near the ≥100h floor from MIT OCW alone |
+
+**CRITICAL CAVEATS (advisor QC):**
+- The three MIT OCW courses cover DIFFERENT topics (9.13 is perception/cognition neuroscience; 9.00SC is broad psychology; 9.40 is neural computation) so the 92.30h is a deduplicated total. But the D2 checkpoint must confirm that each proposed module gets ≥6h and ≥3 distinct sources, not just that the total is high.
+- **Fee CREDENTIALS-VERIFIED (this session): his MIT BCS faculty page (https://bcs.mit.edu/directory/michale-fee) was successfully fetched — Glen V. and Phyllis F. Dorflinger Professor, head of the MIT Department of Brain and Cognitive Sciences (appointed 2021), McGovern Institute investigator, PhD Applied Physics Stanford 1992, research on neural mechanisms of learned sequences (songbird RA/HVC) and reinforcement learning.**
+- The remaining ≥8 hours to reach the 100h floor must come from additional verified resources (e.g. SEP entries with a documented reading-time rule, open course pages, open lectures) — not from re-counting these three courses.
+- This 92.30h is measured VIDEO TIME ONLY, not the full course time (which would include readings, problem sets and assignments). The D2 checkpoint must rule on whether measured video time alone counts as "measured instruction time" or whether a reading-time rule is also needed.
+
+**This is the D2 checkpoint's core question.**
 
 ## Honest-failure flags (declared, not hidden)
 
