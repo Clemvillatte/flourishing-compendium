@@ -206,3 +206,90 @@ session.
 - Content coverage: the Butterfly Dream passage the module assigns
   closes chapter 2 (Treatise on Making Things Equal) — present.
 - Status: verified (text).
+
+## Full-transcript coverage reads, m1 videos (2026-10-26, clock 06:40-07:00Z)
+
+The m1 advisor-QC repair record leaves content coverage for the three
+full-length videos on printed chapter labels and the visible opening
+transcript; these reads close that gap for the orientation use (the
+third-party transcript route carries no timestamps, so SEGMENT
+boundaries remain chapter-label-based; the talk content is now
+confirmed). Transcription errors are expected on this route; names
+were cross-checked against opened pages.
+
+### D-V01-TR: Lundao 1 (Komjathy) — full transcript read
+
+- The full transcript confirms the module's assigned use directly:
+  Komjathy presents Daoism as an INDIGENOUS Chinese religion (source
+  tradition) and distinguishes it from GLOBAL Daoism (culturally,
+  ethnically, linguistically diverse), explicitly rejecting claims
+  that being Daoist requires Chinese ethnicity, language, ordination
+  or lineage. He dates the inner-cultivation lineages to about 300
+  BCE and organised Daoism to about 142 CE; treats the Daodejing and
+  Zhuangzi as multi-voiced anthologies (not single-author works);
+  covers the Dao's four primary characteristics, Chinese names for
+  Daoism, seven historical periods and four social divisions, models
+  of practice (quietistic and apophatic meditation included), and
+  scholar-practitioner identity. The Daodejing chapter 1 reading
+  (nameless/named) is in the talk. Qigong is NOT mentioned (the
+  module does not claim it). Future-talk statements: apophatic and
+  quietistic meditation named for a later Lundao.
+- Coverage basis upgraded: description+chapters → FULL TRANSCRIPT READ
+  (no timestamps on the route; the assigned whole-talk use is
+  confirmed).
+
+### D-V02-TR: Wisdom of China: Laozi (Van Norden) — full transcript read
+
+- The full transcript confirms the documentary's arc: intelligence vs
+  wisdom opening; Laozi's legendary identity and the border-guard
+  account; the roughly 5,000-character text; the Guodian version as
+  earliest surviving (4th century BCE, shorter, incomplete chapters);
+  dao as path/way/cosmological source; virtue as relating well to
+  what surrounds you; Bohr, Heisenberg and quantum indeterminacy
+  (yin-yang, Taiji coat of arms); the usefulness of "nothing" (30
+  spokes); wu wei as non-forcing action; the water/rock contrast;
+  Bruce Lee and martial arts; Tai Chi; translations (Misha Tadd of
+  Nankai University on global Laozi studies, 97 languages, the Latin
+  1729 Jesuit translation, Le Guin, the 1972 Feng Youlan/Jane
+  English translation, counterculture and George Harrison's "The
+  Inner Light"); the chapter 42 generative sequence at the close.
+  Water imagery is present (not tied to chapter numbers in the talk).
+- DISCREPANCY FLAG for the owner: the module's media description
+  names interviews including Michael Puett; Puett does NOT surface in
+  the transcript (Misha Tadd does). Puett's participation rests on
+  the video description alone; the module does not assign Puett-specific
+  content, so this is a wording repair (drop Puett or verify him
+  from the recording), not a blocking defect. The transcript's name
+  renderings carry known errors ("Brian W. Van Norton", "Basser
+  College", "Misha Tad") — the opened Vassar page (D-V02) is the
+  credential authority.
+- Coverage basis upgraded: description+chapters → FULL TRANSCRIPT READ
+  (no timestamps; whole-documentary assignment confirmed).
+
+### D-V03-TR: Why This Text Matters | Daodejing (Ziporyn) — full transcript read
+
+- The full transcript confirms the talk's content: the traditional
+  origin story vs modern scholarly doubts; the composite/anthology
+  character of the text (Guodian-type evidence discussed via
+  archaeological fragmentary versions); "doubleness" and Tang Chun-I's
+  six meanings of dao; dao/de as way and virtuosity; chapter 1 read
+  as a course taken as a guide ceasing to guide; wu wei as
+  nonpurposive action (chapters 37/48 "doing nothing yet leaving
+  nothing undone"); eye vs stomach desires (chapter 12, the chapter
+  55 infant); return and generative emptiness (chapter 5 bellows,
+  chapter 1 named mother); chapter 28 hewn/unhewn and carving without
+  severing; the ethical dimension (insomnia example, heartbeat and
+  digestion); knowledge, irony, translations, perennialism and
+  negative theology; recommended further reading.
+- Chapters 1 and 8 are IN the talk (chapter 8: water, least formed,
+  least purposeful, softest — LATE in the talk). Chapter 76 is NOT
+  mentioned in the transcript — consistent with the module design,
+  which takes chapters 1, 8 and 76 from the Eno READING, not from the
+  video; the video's assigned segments should not be described as
+  covering chapter 76.
+- The m1's corrected segment list (0:00-0:12:13, 0:15:20-0:17:00,
+  0:26:15-0:33:56; total 21:34) remains chapter-label-based: the
+  transcript route carries no timestamps, so the boundaries could
+  not be re-verified this session; the CONTENT each segment is meant
+  to carry (chapter 1, doubleness, wu wei) is confirmed present in
+  the talk as a whole.
