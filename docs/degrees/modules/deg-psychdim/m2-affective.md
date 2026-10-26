@@ -13,7 +13,7 @@ The aim is a wiser next step in an ordinary life, not permanent calm.
 
 ## Entry and exit
 
-Level: L1, guided explanation and application. Before beginning, complete
+Level: L2, Guided application. Before beginning, complete
 M1's six-dimension explanation, context exercise and basic research
 appraisal. You should be able to separate an observation from an
 interpretation and to say why a research association does not guarantee
@@ -130,12 +130,26 @@ tiredness as an alternative, and "Would you like company or some quiet?"
 The exercise is about preserving uncertainty, not identifying the correct
 hidden emotion.
 
+Then use Amira's case to distinguish the three levels yourself.
+Add this fictional condition: her team has an explicit norm that concerns
+are discussed privately rather than in the presentation chat. Name an
+intrapersonal function, an interpersonal function and that cultural
+influence; give one possible benefit and one cost of replying sharply.
+Feedback: anger may focus her priority within the person; a sharp reply
+may signal displeasure between people; the team's learned display norm
+shapes what expression is considered acceptable. A benefit could be making
+the boundary visible, a cost an accusation before checking the edit.
+The local norm is stipulated for this case, not a claim about every
+workplace or national culture. Your examples may differ if the three
+levels and the uncertainty remain distinct.
+
 ## Compare accounts without forcing agreement
 
 Watch Barrett and read the 2025 selections. Then read the review's short
 historical paragraph. Martínez-Priego and colleagues frame Aristotle,
 Descartes and Darwin as different influences on emotional dynamics:
-multidimensional response, mind/body distinctions, and evolutionary
+multidimensional response, attention to cognitive processes and emotional
+impulses, and evolutionary
 history. That is the reviewers' compressed historical interpretation,
 not a complete genealogy or a substitute for reading the philosophers
 ([2024 review, Theoretical framework](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/)).
@@ -298,11 +312,21 @@ Later, explain one account difference aloud and give one reason the
 case alone cannot settle it. These are learning checks, not experiments
 isolating the effect of delay.
 
-Submit one 600–800-word analysis of the dinner-cancellation case or a
-similarly low-stakes fictional episode. Include all of the following:
+For independent assessment, use this new case, not either worked case.
+Jo volunteers at a community event. A public thank-you omits Jo's
+contribution, although the organiser had previously said it would be
+included. Jo notices a tight jaw, thinks "They deliberately used me,"
+and drafts a sarcastic group message. The group's stated norm is to
+raise concerns with the organiser privately. Jo wants both accurate
+recognition and a workable relationship; the omission's reason is unknown.
+
+Submit a 600–800-word analysis of Jo's case, or an unused low-stakes
+fictional case with equally explicit circumstances. Include:
 
 - **Description:** observations, bodily feeling, interpretation, action
-  and at least one unknown, with no assumed mind-reading.
+  and at least one unknown, with no assumed mind-reading. Link affect
+  to one other M1 dimension and explain the link without asserting
+  a demonstrated causal direction.
 - **Functions:** intrapersonal, interpersonal and cultural possibilities,
   including a possible benefit and cost of the response.
 - **Accounts:** the two explanatory questions, allostasis in the

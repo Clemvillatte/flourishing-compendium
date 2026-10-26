@@ -2572,3 +2572,17 @@ statistics calculation, diagnosis, personal therapy or mood-change
 prerequisite. M3 handoff requires those skills plus M2's descriptive
 episode, account distinction and revisable response choice.
 Read-only advisor QC commissioned; independent module QC remains owed.
+
+M2 advisor round 1 returned two bounded blockers: the approved level is
+**L2 Guided application**, and functions needed their own learner practice
+rather than only a model; the final task also reused a guided case.
+Repairs applied: corrected level, three-level functions practice with
+benefit/cost and feedback, new unseen Jo assessment case. Two minor
+findings applied: explicit other-dimension link in final instructions;
+Descartes sentence limited to the assigned reviewers' cognitive-process/
+impulse framing. Privacy, theory disagreement, allostasis attribution,
+five-family map, footage boundary and 272-minute sum passed that advisory
+round. The extra functions practice stays inside the 35-minute check/
+reflection allowance; the new assessment replaces the earlier case, not
+an extra deliverable. Supervisor independent review requested; DRAFT,
+NOT CLEARED remains.

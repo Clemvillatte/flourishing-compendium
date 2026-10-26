@@ -221,6 +221,12 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
+- 2026-10-26 04:57Z degree-4376b4ec (deg-psychdim): M2 advisor repairs
+  applied (L2 level, functions practice/feedback, new unseen Jo case,
+  explicit other-dimension link, bounded history). Module path
+  `modules/deg-psychdim/m2-affective.md`, initial checkpoint 45d894b28,
+  review the current repair commit rather than the initial draft.
+  ROUTE supervisor: M2 module-QC requested; M3 production starts now.
 - 2026-10-26 04:55Z degree-4376b4ec (deg-psychdim): M2 affective module
   drafted. Three verified clips total 34:27; essential fallbacks 1,583
   tokens, including scholarly allostasis anchor and review limits.
