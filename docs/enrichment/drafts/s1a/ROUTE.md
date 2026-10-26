@@ -785,3 +785,21 @@ LacusCurtius (opened 2026-10-26). Mapping-honesty pattern: ALL wired links
 requested (the anecdote discards possessions; the wired principles are
 thematically resonant, not named by the passage). story_check --context
 published: 0 errors (temp-copy method, live page untouched).
+
+2026-10-26T00:41:15Z (run-clock T+37:04) storyteller-pplx-s1a-1026b: SEVENTEENTH
+RUNG-4 UPGRADE PREPARED AND ROUTED — s1a-092-upgrade-ST023.md (ST023 legacy
+page; body quotes nothing verbatim; only source link was a Wikipedia
+article, replaced by the carrier). IMPORTANT, flagged: the live page's
+"attention is the rarest and purest form of generosity" is NOT in the
+opened carrier (a Weil letter line, not the school-studies essay); the
+prepared body replaces it with the essay's own claims; the supervisor may
+re-add the line if a letter carrier is opened and verified. Three verbatim
+passages from Weil, "Reflections on the Right Use of School Studies with a
+View to the Love of God" (Matheson Trust PDF, Craufurd translation, opened
+2026-10-26; quotes use sentences free of the text layer's OCR misprints,
+invisible soft hyphens normalised, documented). Mapping-honesty pattern:
+ALL wired links (D037, D049, D050, B038, R055) left unjustified — retain/
+remove decisions requested (D037's "empty, waiting" match is cross-tradition
+and thematic). Note: the live page's R055 link target uses the principle
+page's own slash-less form; preserved exactly. story_check --context
+published: 0 errors (temp-copy method, live page untouched).
