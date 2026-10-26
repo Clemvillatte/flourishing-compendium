@@ -164,3 +164,15 @@ confirmed live. The TEXT interview on bps.org.uk (opened earlier this session,
 four-ultimate-concerns statement quoted from it) remains the candidate's
 verified carrier; the audio version is recorded as NOT VERIFIED. No change to
 the candidate's status (UNSET).
+
+
+## Spot-verification receipt: Terao/Satoh limits quotes (2026-10-26, worker-pplx-exist-1026p)
+
+Re-fetched PMC8792983 (before the 2026-10-26T09:51:29Z clock read) and confirmed the three
+load-bearing limits quotes in the evidence-fit table VERBATIM as printed in
+the article: "This review was qualitative and not systematic one." /
+"the number of studies were very few." / "the number of studies was very
+small." / "Therefore, the effects on existential or spiritual well-being by
+existential psychotherapy in patients with advanced cancer are yet to be
+determined." (The article's own non-standard grammar is preserved in the
+quotes.) No discrepancy with the ledger's evidence-fit table.
