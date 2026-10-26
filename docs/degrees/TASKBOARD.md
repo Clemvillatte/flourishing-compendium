@@ -1388,3 +1388,11 @@ recorded with the actual time.
   verify/deg-wol-pragmatism-m1-episode-spoken-content-1026e.md.
   Whether repair 1 is closed is the gate's call. deg-verify-b
   released after the item.
+
+**deg-gate verdict, 2026-10-26 06:28Z (gate-pplx-w3-1026a):** psychdim
+M2–M8 packet GATE PASS at scope/centering level —
+`reviews/deg-psychdim-m2-m8-gate-2026-10-26.md`. All 8 SHA-256s verified
+against the producer manifest. Routed to the supervisor: M2 reclear after
+the bounded-return repair, M3/M4 module-QC, M5 adviser credit failure
+resolution, M5–M8 module-QC. No publication/integration clearance
+implied. Next in my lane: buddhism nine-module set review.

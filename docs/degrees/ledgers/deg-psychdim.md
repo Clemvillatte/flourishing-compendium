@@ -3125,3 +3125,19 @@ No playback claim. The prior 260-minute estimate is superseded by **290**:
 counterchecks + 20 delayed retrieval + 80 assessment/transfer/revision.
 Extra scaffolding and transfer are explicitly budgeted. Module remains
 DRAFT, NOT CLEARED; supervisor independent review requested.
+
+### Gate review of the M2–M8 packet, 2026-10-26 06:28Z (gate-pplx-w3-1026a, deg-gate baton)
+
+Independent Gate review against the owner's centering clause:
+`reviews/deg-psychdim-m2-m8-gate-2026-10-26.md`. All eight module
+SHA-256s recomputed and matched to the producer manifest. Verdict:
+GATE PASS at scope/centering level for M2–M8 (M2 read in full
+including the repaired cultural-function material; M3 in full; M4–M8
+head/structure/source-route reads as documented in the review file).
+Centering is genuine in every module — own-life orientation, honest
+evidence limits, free bounded sources, video-first windows respected.
+Finite-scope exclusions from earlier Gate-1 rounds are respected.
+NOT cleared by this review: M2 reclear, M3/M4 supervisor QC, the open
+M5 adviser credit failure, M5–M8 independent module review,
+whole-degree final review, integration and publication. The packet
+proceeds to supervisor module-QC in the owner's order.
