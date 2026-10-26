@@ -21419,23 +21419,30 @@ function acadSectionHeading(text, first){
 function acadHallCard(deg, i, allowBridge){
   const labUrl = allowBridge && deg.kind==='practicum' && deg.id==='deg-psychology-101' ? psychLabUrl() : null;
   const isBridge = !!labUrl;
-  const card = isBridge ? el('a','acad-hall') : el('div','acad-hall');
-  if(!isBridge){ card.tabIndex=0; card.setAttribute('role','button'); }
-  card.setAttribute('aria-label', isBridge ? 'Open the Psychology Lab (external site)' : 'Open degree: ' + deg.title);
-  if(isBridge){
-    card.href = labUrl;
-    card.target = '_blank';
-    card.rel = 'noopener noreferrer';
+  const card = el('div','acad-hall' + (isBridge ? ' acad-hall-bridge' : ''));
+  if(!isBridge){
+    card.tabIndex=0; card.setAttribute('role','button');
+    card.setAttribute('aria-label','Open degree: ' + deg.title);
   }
   const plate = el('div','acad-hall-plate');
   plate.style.backgroundImage = `url('${acadHallImg(deg)}')`;
   plate.appendChild(el('span','acad-hall-rn', acadRoman(i+1)+'.'));
   if(deg.status==='draft'){ plate.appendChild(el('span','acad-chip draft acad-hall-status','draft')); }
   if(deg.status==='in-development'){ plate.appendChild(el('span','acad-chip draft acad-hall-status','in development')); }
-  if(isBridge){ plate.appendChild(el('span','acad-chip','direct link')); }
   card.appendChild(plate);
   const body = el('div','acad-hall-body');
-  body.appendChild(el('div','acad-hall-title',deg.title));
+  const titleEl = el('div','acad-hall-title');
+  if(isBridge){
+    const a = el('a','acad-hall-title-link',deg.title);
+    a.href = labUrl;
+    a.target = '_blank';
+    a.rel = 'noopener noreferrer';
+    a.setAttribute('aria-label','Open the Psychology Lab (external site)');
+    titleEl.appendChild(a);
+  } else {
+    titleEl.appendChild(el('span',null,deg.title));
+  }
+  body.appendChild(titleEl);
   body.appendChild(el('div','acad-hall-desc',deg.description));
   const foot = el('div','acad-hall-foot');
   const nMods = (deg.modules||[]).length;
