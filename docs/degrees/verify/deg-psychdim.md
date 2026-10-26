@@ -1035,3 +1035,27 @@ commits mentioning this verifier. Their changes are confined to the two
 verification files, the authorised `deg-verify-b` baton and the required
 OWNER-BOARD entries. No principle, concept, story, kernel, production
 module, queue or gate file was edited by this worker.
+
+## Verification continuation: 2026-10-26, verifier-af06bd9e
+
+The following supplementary receipts belong to the continuation
+verifier, not to the preceding worker's bounded audit.
+
+- [M1 follow-up and repair acceptance](deg-psychdim-m1-followup-2026-10-26.md):
+  all three scoped pedagogical repairs are closed after independent
+  review. This is readiness for supervisor module-QC, not publication,
+  full-degree clearance or resolution of Phase 0.
+- [M3 commentary alignment](deg-psychdim-m3-commentary-alignment.md):
+  the production owner applied the proposed progression-exit correction;
+  the commentary/experiment mismatch is closed.
+- [M2 source-use boundaries](deg-psychdim-m2-source-use-boundaries.md):
+  original process-model anchor, explicit competing emotion-theory
+  positions and limits on the regulation review's proposal. Independently
+  reviewed; no module-prose authorization.
+- [M4 attention measurement](deg-psychdim-m4-attention-measurement-boundaries.md):
+  source-checked task contrasts, cue-version differences and reliability
+  limits. Independently reviewed; the shorter progression wording still
+  needs a later authorized alignment pass.
+- [M5 SCCS instrument receipt](deg-psychdim-m5-sccs-instrument-receipt.md):
+  archived item key and anchors, version differences and limits on
+  interpreting research groupings. Source preparation only.

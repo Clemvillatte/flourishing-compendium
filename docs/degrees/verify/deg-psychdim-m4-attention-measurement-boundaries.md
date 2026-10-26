@@ -107,3 +107,10 @@ its extracted test–retest paragraph and tables were incomplete; no
 numerical retest coefficient is copied from that damaged extraction.
 All sources linked here were opened without a paywall. No exact
 quotation from an external source is introduced.
+
+The independent read-only advisor reopened the three papers and found
+no blocking source-fidelity, finite-scope or new-gate defect on
+2026-10-26. The advisor confirmed the benefit/cost directions, the
+legitimate cue-version difference and the deliberately neutral wording
+for practice-related changes. The progression wording remains routed,
+not repaired.
