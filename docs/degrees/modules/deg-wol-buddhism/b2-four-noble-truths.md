@@ -172,9 +172,9 @@ ritual remain excluded.
 
 | resource | status | verified | notes |
 |---|---|---|---|
-| SN 56.11 AtI Thanissaro | verified (text) | 2026-10-26 (receipt B-T01, deg-verify-a) | https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html — whole discourse assigned; CC BY-NC 4.0 stated on page; alternates (Sujato, Bodhi) listed there; Sujato version independently verified by deg-verify-b's receipt |
-| Dreyfus Four Noble Truths session 1 | verified-video | 2026-10-25 (M02-B04); boundaries receipt 2026-10-26 (deg-verify-b) | https://www.youtube.com/watch?v=DLPsIhDWZp4 — duration 1:20:34; covers dukkha only per opened transcript (00:17-00:40, 1:20:13); credentials: Williams College Jackson Professor of Religion (opened catalogue) + host biography; homeodynamic-system analogy and survival-time claims marked as unverified; a finer segment split than whole-teaching is owed at module QC |
-| Harvey "Craving" glossary, AtI | verified | 2026-10-26 (deg-verify-b receipt) | https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.harv.html — tanha vs chanda distinction confirmed on the opened page |
+| SN 56.11 AtI Thanissaro | verified (text) | 2026-10-26 (receipt B-T01, deg-verify-a) | https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html; whole discourse assigned; CC BY-NC 4.0 stated on page; alternates (Sujato, Bodhi) listed there; Sujato version independently verified by deg-verify-b's receipt |
+| Dreyfus Four Noble Truths session 1 | verified-video | 2026-10-25 (M02-B04); boundaries receipt 2026-10-26 (deg-verify-b) | https://www.youtube.com/watch?v=DLPsIhDWZp4; duration 1:20:34; covers dukkha only per opened transcript (00:17-00:40, 1:20:13); credentials: Williams College Jackson Professor of Religion (opened catalogue) + host biography; homeodynamic-system analogy and survival-time claims marked as unverified; a finer segment split than whole-teaching is owed at module QC |
+| Harvey "Craving" glossary, AtI | verified | 2026-10-26 (deg-verify-b receipt) | https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.harv.html; tanha vs chanda distinction confirmed on the opened page |
 | Metta sitting (b1 pattern, Metta Sutta Kp 9) | verified | 2026-10-26 (this session) | see b1 source table |
 
 No paywalled or app-gated content. Video-first policy applied: the

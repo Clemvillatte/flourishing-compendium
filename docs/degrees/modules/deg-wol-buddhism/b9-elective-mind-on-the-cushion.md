@@ -1,7 +1,7 @@
 # b9 (elective) — The Mind on the Cushion: The Five Hindrances
 
 - **band**: deg-wol-buddhism
-- **kind**: degree-module (ELECTIVE; serves the meditating learner's need to understand their own mind in practice, per the scope's elective test — the hindrances as experienced, not as scholastics)
+- **kind**: degree-module (ELECTIVE; serves the meditating learner's need to understand their own mind in practice, per the scope's elective test: the hindrances as experienced, not as scholastics)
 - **level**: L2 Guided application
 - **module id**: deg-wol-buddhism-b9
 - **status**: draft v1.1 (QC round 3 repairs 2026-10-26: date and bio claims withdrawn, honest not-observed allowed, experiment records required; production session 2026-10-26, worker-pplx-buddhism-1026a)
@@ -28,7 +28,7 @@ studied where they were met.
 
 1. Name the five hindrances in your own words and match each to at
    least one entry in your own b4/b8 sitting log (a line where desire,
-   ill will, dullness, agitation or doubt was what you observed) — or,
+   ill will, dullness, agitation or doubt was what you observed), or,
    for a hindrance your log never shows, record that plainly with a
    note on what those sittings were like instead. The honest absence
    is itself a finding; an invented entry is not.

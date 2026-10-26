@@ -1203,6 +1203,7 @@ recordings to verified-metadata (content inspection owed).
 SUPERVISOR OWED: module-QC on all nine; the canonical-draft decision
 on m1-four-truths vs b1+b2 (parallel session alternative); the
 aggregates elective thread (b9 flags it); content inspection of the
+<<<<<<< HEAD
 b5/b6/b7 recordings. Lane RELEASED to supervisor at session end.
 =======
 - 2026-10-26 (clock 05:08:54Z measured) worker-pplx-pragmatism-1026b
@@ -1216,3 +1217,6 @@ b5/b6/b7 recordings. Lane RELEASED to supervisor at session end.
   2,530) and workload arithmetic fixed (258 minutes); rubric model responses
   added; M01-P06 'verified-video' label corrected in the ledger. m3 remains
   DRAFT NOT CLEARED, supervisor module-QC next.
+=======
+b5/b6/b7 recordings. Baton STILL HELD at 05:10Z; release at T+58 will be recorded with the actual time.
+>>>>>>> db985a85a (deg-wol-buddhism: QC round 5 — silent replacement failures audited and repaired with verified counts; b7 sittings rebased on verified transcript; b5 BLOCKED evidence strengthened (403 on raw fetch); boards corrected to baton-still-held; prose em dashes removed)

@@ -4,7 +4,7 @@
 - **kind**: degree-module
 - **level**: L2 Guided application
 - **module id**: deg-wol-buddhism-b5
-- **status**: draft v1.1 (QC round 3 repairs 2026-10-26: book assignment bounded, lineage claims narrowed, metadata-only labels; production session 2026-10-26, worker-pplx-buddhism-1026a)
+- **status**: draft v1.2 (QC round 4 2026-10-26: book assignment BLOCKED pending text access; production session 2026-10-26, worker-pplx-buddhism-1026a)
 - **prerequisites**: b1-b4 exit criteria (precepts stated and applied; four tasks run; a two-week sitting log exists)
 
 ## Walk context
@@ -68,14 +68,15 @@ sitting, one line on the thread of the teaching as you heard it.
 
 ### Step 2 — The lineage's book (~40 min, reading, assigned sections)
 
-**The Collected Teachings of Ajahn Chah (single volume), Amaravati
-Buddhist Monastery's free-distribution edition,
+**The Collected Teachings of Ajahn Chah (single volume), on Amaravati
+Buddhist Monastery's site (the opened page's free-distribution claim
+could not be confirmed in extraction; see the BLOCKED note below),
 https://amaravati.org/dhamma-books/the-collected-teachings-of-ajahn-chah/.**
 Read: the introduction on the Thai Forest tradition and the Theravada
 lineage ("the way of the elders", the Southern School, the forest
-practice standard), plus two teachings chosen from the sections the
-monastery's page names in the volume's contents (choose from those
-named sections, not from the whole book at will). The tradition's
+practice standard). THE TWO-TEACHINGS ASSIGNMENT IS BLOCKED; see the
+note below; it cannot be assigned until the actual text is opened
+and named teachings selected. The tradition's
 emphasis, as the introduction frames it, is following the spirit and
 standards of the Buddha's way in forest practice rather than
 scholastic commentary.
@@ -88,7 +89,11 @@ free-distribution statement the extraction could confirm. The
 two-teachings assignment therefore cannot be verified as accessible
 and is BLOCKED pending a worker or supervisor opening the actual
 text (or the monastery's stated download), selecting named teachings,
-and confirming free access. Until unblocked, this module's outcome 3
+and confirming free access. Evidence: the cleaned extraction showed
+only the introduction excerpt; a refetch with raw HTML returned
+HTTP 403 this session, so no download link could be inspected. The
+block is recorded as an access failure, and as a claim about this
+session's fetches, and as no claim about the page itself. Until unblocked, this module's outcome 3
 cannot be completed as written; the rest of the module (Steps 1 and
 3, outcomes 1-2) stands. The introduction excerpt the page DOES show
 is assigned as the lineage-reading portion of Step 2.

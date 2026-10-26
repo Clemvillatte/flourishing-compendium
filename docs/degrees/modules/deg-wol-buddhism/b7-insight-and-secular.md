@@ -4,7 +4,7 @@
 - **kind**: degree-module
 - **level**: L3 Independent analysis (the exit criteria adapted for a practice walk: the comparison and the defended position are the analysis; the practice adaptation uses the learner's own sitting log)
 - **module id**: deg-wol-buddhism-b7
-- **status**: draft v1.1 (QC round 3 repairs 2026-10-26: invented opposition withdrawn, sources separated, workload corrected; production session 2026-10-26, worker-pplx-buddhism-1026a)
+- **status**: draft v1.2 (QC round 4 2026-10-26: tasks-framing example withdrawn after failed live re-verification; sittings rebased on the verified transcript, recording optional; production session 2026-10-26, worker-pplx-buddhism-1026a)
 - **prerequisites**: b1-b5 exit criteria (precepts applied; four tasks run; sitting habit logged; one school known from inside)
 
 ## Walk context
@@ -18,7 +18,7 @@ breath (the Week 1 transcript, opened: talk of 10/3/07, CC BY-NC-ND
 an ethical, pragmatic project for human flourishing (the lecture
 description), and his opened biography states his Tibetan monastic
 years and Son training under Kusan Sunim. This module teaches both,
-then asks where you stand — comparing only positions each opened
+then asks where you stand, comparing only positions each opened
 source states. NOTE: an earlier draft used a four-truths-as-tasks
 comparison example; it was WITHDRAWN in verification (2026-10-26):
 neither the opened transcripts page nor Batchelor's opened biography
@@ -34,12 +34,16 @@ states the tasks framing, so no such example is offered.
 
 ## Outcomes
 
-1. Practice mindfulness of breath following the Insight course's Week 1
-   instructions (transcript read, audio followed), for two logged
-   sittings.
+1. Practice mindfulness of breath following the Insight course's
+   VERIFIED Week 1 transcript instructions ("Mindfulness of Breath",
+   talk of 10/3/07, CC BY-NC-ND 3.0, opened on the course page), for
+   two logged sittings. The Class 1 recording is OPTIONAL
+   supplementary listening with verified metadata only; no claim is
+   made about its guided segments, and the sittings do not depend on
+   it.
 2. State Batchelor's lecture in 200 words: what a secular Buddhism
    keeps, what it sets aside, and what human flourishing has to do
-   with it — each item stated from the lecture you watched, not from
+   with it, each item stated from the lecture you watched, and not from
    this module's summary.
 3. Compare the two accounts on ONE named question that BOTH opened
    sources actually address, citing the specific place in each source
@@ -54,23 +58,25 @@ states the tasks framing, so no such example is offered.
 
 ## Instruction sequence
 
-### Step 1 — The Insight course's first week (~30 min reading + 2 audio-assisted sittings)
+### Step 1 — The Insight course's first week (~30 min reading + 2 transcript-based sittings)
 
 **Gil Fronsdal, "Introduction to Mindfulness Meditation," Week 1:
 Mindfulness of Breath.** Read the Week 1 transcript from the Insight
 Meditation Center's course page
 (https://www.insightmeditationcenter.org/books-articles/introduction-to-meditation-transcripts/;
 six-week course transcripts, free, Creative Commons BY-NC-ND 3.0). Then
-sit with the course's Class 1 recording
-(https://www.audiodharma.org/series/24654; AudioDharma series page,
+sit twice following the Week 1 transcript's instructions
+(OPTIONAL: the course's Class 1 recording,
+https://www.audiodharma.org/series/24654; AudioDharma series page,
 "freely offered by Insight Meditation Center"; Class 1 measured at
-1:26:55 on the series page). Two cautions the module states honestly:
+1:26:55 on the series page; verified metadata only, no claim about
+its guided segments). Two cautions the module states honestly:
 the printed transcript series and the recorded class series are
 SEPARATE sources (the series pages pair them, but the recording is
 not a reading of the transcript), and the series page prints no
 chapter list, so no guided-segment timestamps are claimed. Listen in
-two stops (viewing stops, not content claims): 0:00-0:43 and
-0:43-1:26:55; the sitting practice happens inside the recording.
+two stops (listening stops, not content claims): 00:00:00-00:43:00
+and 00:43:00-01:26:55.
 
 The teacher: senior guiding co-teacher at the Insight Meditation Center
 (Redwood City) and the Insight Retreat Center (Santa Cruz); Buddhist
@@ -170,7 +176,8 @@ module (b6) is separate.
 | Batchelor, "A Secular Buddhism", https://www.youtube.com/watch?v=Hhlj_SU9SAE | verified-metadata | 2026-10-26 (this session) | duration 1:26:35 on the watch page; Radboud Reflects channel; lecture given 9 July 2018 at Radboud University; the description's stated frame (ethical, pragmatic, human-flourishing) is bounded to what the description states; CONTENT NOT YET INSPECTED beyond that description; credentials on https://stephenbatchelor.org/ (eight years Tibetan monastic life; four years Son/Zen training under Kusan Sunim) |
 
 No paywalled or app-gated content. Video-first policy applied: the
-secular case arrives as a verified university lecture video; the
+secular case arrives as a university lecture video with verified
+metadata (content inspection owed); the
 Insight practice arrives as a verified audio series plus its free
 transcript.
 

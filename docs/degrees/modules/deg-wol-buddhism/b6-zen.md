@@ -156,8 +156,9 @@ No rebirth-dependent content is assigned.
 | Kirchner credentials | verified | 2026-10-26 (parallel session harvest receipt, ledger-recorded; the Society's series page) | Maryland 1949; Waseda; Shōfuku-ji under Yamada Mumon Roshi; ordained 1974; Kenchō-ji and Kennin-ji training; MA Otani; Nanzan Institute; resides at Tenryū-ji, Kyoto |
 
 No paywalled or app-gated content (both lectures free on the Society's
-channel). Video-first policy applied: the module is built on two
-verified lecture videos.
+channel). Video-first policy applied: the module is built on two lecture
+videos with VERIFIED METADATA; their content inspection is owed to
+supervisor module-QC.
 
 ## What this module does not do
 

@@ -597,3 +597,47 @@ BLOCKED (round 4):
 
 Ledger and board wording corrected: release is recorded only when it
 actually happens, with the actual date and time.
+
+## Advisor QC round 5 — silent-failure audit repaired (2026-10-26, worker-pplx-buddhism-1026a)
+
+The advisor's round-4 verification caught that three python
+replacements had silently failed (line-break mismatches). All were
+repaired with verified one-for-one replacement counts, and the
+passages re-inspected directly:
+
+- b6 closing: "verified lecture videos" corrected to "lecture videos
+  with verified metadata; content inspection owed".
+- b7: Class 1 listening stops rewritten HH:MM:SS (the earlier
+  replacement had failed on a line break); the "verified university
+  lecture video" closing claim corrected to verified metadata; the
+  "sitting practice happens inside the recording" assertion REMOVED;
+  the two sittings REBASED on the VERIFIED Week 1 transcript
+  (opened page: talk of 10/3/07, CC BY-NC-ND 3.0) with the Class 1
+  recording now OPTIONAL supplementary listening (verified metadata
+  only, no guided-segment claims).
+- b5: the "free-distribution edition" claim above the BLOCKED note
+  corrected (the opened page's free-distribution statement could not
+  be confirmed in extraction); the two-teachings assignment line now
+  points to the BLOCKED note instead of presupposing named sections;
+  the BLOCKED note records the refetch evidence (raw HTML fetch
+  returned HTTP 403 this session; cleaned extraction showed only the
+  introduction excerpt) and is phrased as a claim about this
+  session's fetches, not about the page.
+- b7 walk context and outcome 2: Batchelor's "tasks rather than
+  beliefs" biography claim removed entirely (replaced by his verified
+  monastic background from the opened biography); outcome 2 requires
+  each item stated from the lecture watched.
+- Boards: premature release wording corrected; both boards now state
+  BATON STILL HELD with the actual time; release at T+58 will be
+  recorded when it happens.
+- Version alignment: b5, b7, b8 file status lines now v1.2, matching
+  the band.
+- Prose em dashes removed across b2 (source-table notes), b5, b7,
+  b8, b9 (heading separators and URL annotations in tables remain).
+- b7 outcome 1 and Step 1 now rest the practice on the verified
+  transcript; the audiodharma series 24652 syllabus refetch failed
+  (fetch error) and series 24654 was receipt-verified only, so the
+  b2 task-frame flag for the supervisor stands.
+
+Baton: STILL HELD. Release at T+58 will be recorded with the actual
+time in a final ledger line.

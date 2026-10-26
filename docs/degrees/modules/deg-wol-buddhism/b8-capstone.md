@@ -4,7 +4,7 @@
 - **kind**: degree-module (integrative capstone)
 - **level**: L4 Synthesis
 - **module id**: deg-wol-buddhism-b8
-- **status**: draft v1.1 (QC round 3 repairs 2026-10-26: revision-required pass rule, cadence and two-schools alignment; production session 2026-10-26, worker-pplx-buddhism-1026a)
+- **status**: draft v1.2 (QC round 4 2026-10-26: two-schools requirement aligned in outcome; production session 2026-10-26, worker-pplx-buddhism-1026a)
 - **prerequisites**: b1-b7 exit criteria (all prior modules' outcomes, including the sitting log, the four-tasks worksheet, the school placements and the b7 defended comparison)
 
 ## Walk context
@@ -35,7 +35,7 @@ wiser, flourishing even when uncertain or overwhelmed.
 2. Work one real ethical difficulty from your life through the full
    toolkit: the five precepts as training rules (b1, b3), the four
    tasks (b2), and readings from at least two named schools (Thai Forest b5, Zen b6,
-   or Insight/Secular b7 — use two), stating where the readings
+   or Insight/Secular b7; use two), stating where the readings
    converge and where they diverge on your case, and what you
    actually did.
 3. Write a 1,200-word synthesis in your own voice: what the Buddhist
