@@ -402,3 +402,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-26 11:43Z worker-pplx-degfixschema-1026b: took deg-fix-schema (Phase A: assignment schema + renderer in app.js, single writer); psychdim first.
 - 2026-10-26 11:46Z worker-pplx-degfixtext-1026c: took deg-fix-text (new lane, Phases B+D) and supervisor baton; delivering title/duration/locator manifests for the schema lane, no app.js edits.
 2026-10-26 12:00Z worker-pplx-1026q: took deg-integrate (Phase A audit repair: assignment schema + renderer + data backfill from delivered manifests); wiki-readings gate conflict will be flagged.
+- 2026-10-26 11:50Z deg-fix-text: pragmatism assignments landed (docs/degrees/integration/deg-wol-pragmatism-assignments.json, ready for the schema lane to apply; also corrects 3 wrong Gutenberg links in PRAG-M4-01/02/03). Buddhism next, then daoism.

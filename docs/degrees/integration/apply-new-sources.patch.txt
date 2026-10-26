@@ -1,0 +1,6 @@
+Suggested 4-line change to scripts/degrees_apply_assignments.py (tested 2026-10-26 by worker-pplx-degfixtext-1026c against deg-wol-pragmatism-assignments.json; with it the audit clears every pragmatism module-level defect except the degree-level wiki_readings line).
+In main(), immediately before `for mid, ms in spec['modules'].items():` insert:
+
+    for nsid, nsrec in spec.get('new_sources', {}).items():
+        if nsid not in src:
+            d['sources'].append(nsrec); src[nsid] = nsrec; log.append(f'new source {nsid}')

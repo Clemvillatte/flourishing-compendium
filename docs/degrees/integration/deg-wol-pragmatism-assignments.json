@@ -1,0 +1,156 @@
+{
+ "degree_id": "deg-wol-pragmatism",
+ "built": "2026-10-26",
+ "built_by": "worker-pplx-degfixtext-1026c (baton deg-fix-text)",
+ "provenance": "Locators, word counts and openings/closings transcribed from the QC'd module docs under docs/degrees/modules/deg-wol-pragmatism/ (word counts are the docs' own measured values). Reading-time labels are arithmetic: words / 130 words per minute, the module docs' stated rate for new-concept reading, rounded to the nearest minute. Source identities for PRAG-M4-01/02/03 and the Project Gutenberg ebook numbers were re-opened on gutenberg.org on 2026-10-26 (see 'sources'). Format follows deg-psychdim-assignments.json so scripts/degrees_apply_assignments.py reads it.",
+ "needs_apply_script_extension": "'new_sources' (PRAG-M3-02/03/04 do not yet exist in the data block's sources array) is not read by scripts/degrees_apply_assignments.py, which only patches existing sources and raises on unknown ids; the schema lane must add each new_sources record to d['sources'] before the module refs are applied.",
+ "modules": {
+  "mod-prag-1": {
+   "refs": [
+    {
+     "source_id": "PRAG-M1-01",
+     "section": "required",
+     "note": "Whole episode, 49:24, watched once with notes; no timestamps are printed on the episode page, so the whole episode is assigned"
+    },
+    {
+     "source_id": "PRAG-M1-03",
+     "section": "required",
+     "locator": "Excerpt of 647 words (about 5 minutes at 130 words per minute), from ‘It appears, then, that the rule for attaining the third grade of clearness of apprehension is as follows’ to ‘this question is perfectly solved in the manner which I have indicated’, covering the diamond and free-will examples"
+    },
+    {
+     "source_id": "PRAG-M1-02",
+     "section": "optional",
+     "locator": "Further reading, not counted in the module workload: the rest of the essay beyond the three passages assigned in the next module"
+    }
+   ]
+  },
+  "mod-prag-2": {
+   "refs": [
+    {
+     "source_id": "PRAG-M1-02",
+     "section": "required",
+     "locator": "Three passages totalling 4,573 words (about 35 minutes at 130 words per minute): 834 words from ‘We generally know when we wish to ask a question’ to ‘it would be without a purpose’; 1,368 words from ‘If the settlement of opinion is the sole object of inquiry’ to ‘slaves they ought to remain’; and 2,371 words from ‘But no institution can undertake to regulate opinions’ to ‘he is bound to adhere’"
+    }
+   ]
+  },
+  "mod-prag-3": {
+   "refs": [
+    {
+     "source_id": "PRAG-M3-01",
+     "section": "required",
+     "note": "Whole lecture, 51:57 per the platform listing, watched once with notes"
+    },
+    {
+     "source_id": "PRAG-M3-02",
+     "section": "required",
+     "level": "Intermediate",
+     "locator": "One contiguous passage of 2,532 words (about 19 minutes at 130 words per minute), from ‘They may be (a) living or dead; (b) forced or avoidable; (c) momentous or trivial’ to ‘decide an option between propositions, whenever it is a genuine option that cannot by its nature be decided on intellectual grounds’"
+    },
+    {
+     "source_id": "PRAG-M3-03",
+     "section": "required",
+     "level": "Intermediate",
+     "locator": "Lecture II, two passages totalling 1,216 words (about 9 minutes at 130 words per minute): 952 words from ‘To take in the importance of Peirce’s principle’ to ‘make nature over again by their aid’, then 264 words from ‘I am well aware how odd it must seem’ to ‘our duty would be to shun truth, rather’"
+    },
+    {
+     "source_id": "PRAG-M3-04",
+     "section": "required",
+     "level": "Intermediate",
+     "locator": "Lecture VI, four short selections totalling 157 words (about 1 minute at 130 words per minute), printed in full in the module’s second step; the selections are not contiguous in the lecture"
+    }
+   ]
+  },
+  "mod-prag-4": {
+   "refs": [
+    {
+     "source_id": "PRAG-M4-01",
+     "section": "required",
+     "locator": "One contiguous passage of 778 words (about 6 minutes at 130 words per minute), from ‘Another instance, commonplace also, yet not quite so trivial, may enforce this lesson’ to ‘is wholly futile’"
+    },
+    {
+     "source_id": "PRAG-M4-02",
+     "section": "required",
+     "locator": "Part Three, ‘The Nature of Deliberation’: one contiguous passage of 476 words (about 4 minutes at 130 words per minute), from ‘Our first problem is then to investigate the nature of ordinary judgments’ to ‘the object is that which objects’"
+    },
+    {
+     "source_id": "PRAG-M4-03",
+     "section": "required",
+     "locator": "Chapter VI: one contiguous passage of 374 words (about 3 minutes at 130 words per minute), from ‘The strongest point to be made in behalf of even such rudimentary political forms’ to ‘it may be successful in becoming a majority’"
+    }
+   ]
+  },
+  "mod-prag-5": {
+   "refs": [
+    {
+     "source_id": "PRAG-M3-01",
+     "section": "optional",
+     "role": "capstone-return",
+     "note": "Optional revisit of the Misak lecture from module 3; not required teaching in the capstone"
+    }
+   ]
+  }
+ },
+ "sources": {
+  "PRAG-M4-01": {
+   "canonical_url": "https://www.gutenberg.org/ebooks/37423",
+   "youtube_id_or_url": "https://www.gutenberg.org/ebooks/37423"
+  },
+  "PRAG-M4-02": {
+   "canonical_url": "https://www.gutenberg.org/ebooks/41386",
+   "youtube_id_or_url": "https://www.gutenberg.org/ebooks/41386"
+  },
+  "PRAG-M4-03": {
+   "canonical_url": "https://www.gutenberg.org/ebooks/71000",
+   "youtube_id_or_url": "https://www.gutenberg.org/ebooks/71000"
+  }
+ },
+ "source_url_correction_evidence": "Data block currently points PRAG-M4-01 to gutenberg.org/ebooks/37754, which is ‘A Narrative of Service with the Third Wisconsin Infantry’ (Hinkley); PRAG-M4-02 to /ebooks/18063, ‘Rabbi Saunderson’ (Maclaren); PRAG-M4-03 to /ebooks/18094, ‘History of the Girondists, Volume I’ (Lamartine). All three were opened on gutenberg.org on 2026-10-26. The module doc m4 assigns How We Think (#37423), Human Nature and Conduct (#41386) and The Public and Its Problems (#71000), and those three pages were opened and match title and author. A learner clicking the current links would land on unrelated books.",
+ "new_sources": {
+  "PRAG-M3-02": {
+   "source_id": "PRAG-M3-02",
+   "youtube_id_or_url": "https://en.wikisource.org/wiki/The_Will_to_Believe",
+   "canonical_url": "https://en.wikisource.org/wiki/The_Will_to_Believe",
+   "title": "James, The Will to Believe (Wikisource)",
+   "presenter": "William James",
+   "host": "Wikisource",
+   "duration": "",
+   "topic_ids": "PRAG-M3",
+   "level": "Intermediate",
+   "mission": "deg-wol-pragmatism",
+   "verification_status": "verified",
+   "gate_evidence": "modules/deg-wol-pragmatism/m3-truth-and-the-will-to-believe.md"
+  },
+  "PRAG-M3-03": {
+   "source_id": "PRAG-M3-03",
+   "youtube_id_or_url": "https://en.wikisource.org/wiki/Pragmatism:_A_New_Name_for_Some_Old_Ways_of_Thinking/Lecture_II",
+   "canonical_url": "https://en.wikisource.org/wiki/Pragmatism:_A_New_Name_for_Some_Old_Ways_of_Thinking/Lecture_II",
+   "title": "James, Pragmatism, Lecture II: What Pragmatism Means (Wikisource)",
+   "presenter": "William James",
+   "host": "Wikisource",
+   "duration": "",
+   "topic_ids": "PRAG-M3",
+   "level": "Intermediate",
+   "mission": "deg-wol-pragmatism",
+   "verification_status": "verified",
+   "gate_evidence": "modules/deg-wol-pragmatism/m3-truth-and-the-will-to-believe.md"
+  },
+  "PRAG-M3-04": {
+   "source_id": "PRAG-M3-04",
+   "youtube_id_or_url": "https://en.wikisource.org/wiki/Pragmatism:_A_New_Name_for_Some_Old_Ways_of_Thinking/Lecture_VI",
+   "canonical_url": "https://en.wikisource.org/wiki/Pragmatism:_A_New_Name_for_Some_Old_Ways_of_Thinking/Lecture_VI",
+   "title": "James, Pragmatism, Lecture VI: Pragmatism’s Conception of Truth (Wikisource)",
+   "presenter": "William James",
+   "host": "Wikisource",
+   "duration": "",
+   "topic_ids": "PRAG-M3",
+   "level": "Intermediate",
+   "mission": "deg-wol-pragmatism",
+   "verification_status": "verified",
+   "gate_evidence": "modules/deg-wol-pragmatism/m3-truth-and-the-will-to-believe.md"
+  }
+ },
+ "manifest_label_corrections_for_content_lane": [
+  "deg-wol-pragmatism-manifest.json m4: PRAG-M4-01 lists both 778 and 476 words; per the module doc, 778 words (Reading A) is How We Think and 476 words (Reading B) is Human Nature and Conduct (PRAG-M4-02). PRAG-M4-02's entry carries no word count.",
+  "deg-wol-pragmatism-manifest.json m3: PRAG-M3-04 is labelled Lecture VI with the 264-word passage; per the module doc the 264-word passage (Reading B2) is in Lecture II, and Lecture VI (Reading B3) is the 157-word set of four selections. The 952 and 264-word passages share the PRAG-M3-03 (Lecture II) source."
+ ]
+}
