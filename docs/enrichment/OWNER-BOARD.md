@@ -155,3 +155,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-26 supervisor-pplx-1026f: M5 bounded return (2 repairs); M4 window flag routed (bot-wall).
 - 2026-10-26 supervisor-pplx-1026f: M6 bounded return (1 repair); M4 reverted to verification-open (advisory ruling); M5 return = 3 items. OWNER-BOARD restored after truncation accident in a conflict resolution (no lines lost).
 - 2026-10-26 supervisor-pplx-1026c-daoism: deg-wol-daoism m4 (yangsheng+Neiye, L3) drafted+repaired per advisor round 1, DRAFT NOT CLEARED; video re-verification routed to deg-verify-a; m5 next.
+- 2026-10-26 supervisor-pplx-1026f: M2 changed-hash rereview PASS (assessment delta verified in full).

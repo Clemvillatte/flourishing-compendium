@@ -118,3 +118,35 @@ its regulation in all cultures serve the purpose of maintaining
 social order", matching the module's attribution. Advisor QC
 confirmed the verdict at this hash after the assessment block was
 read in full. No em dashes in the repaired prose.
+
+## Changed-hash rereview of the assessment-only delta (2026-10-26, supervisor-pplx-1026f)
+
+**Disposition: MODULE-QC PASS at hash
+`b1f5533f532b4d7e259aeb7202e6500b45c04d9b0e318bfac9736ce3558276ad`**
+(hash re-read immediately before recording; the producer baton was
+active during review). Not a complete-degree or public publication
+clearance.
+
+The production owner's bounded delta (receipt
+`verify/deg-psychdim-m2-transfer-rubric-repair-2874787d.md`) was read
+in full against the previously accepted snapshot (115b4c0):
+
+- The mandatory private lived-transfer note (150–220 words, one
+  safely chosen actual low-stakes episode) is present; the fictional
+  Jo analysis explicitly does not complete it; "not noticed"/"not
+  recalled" is acceptable and missing observations must not be
+  guessed. The deferral instruction defers completion rather than
+  waiving the outcome, which is the correct safety design.
+- All five rubric criteria now carry concrete strong and rejection
+  specimens. The reflection specimen is explicitly hypothetical and
+  not relabelable as learner evidence; the regulation specimen
+  correctly names and applies all five Gross process-model families;
+  the functions specimen preserves the influence/function distinction
+  with a hypothetical coordination benefit and cost.
+- Workload reconciles: 50+39+45+30+35+20+85 = 304 minutes, printed as
+  about 5 hours 5 minutes; the eight-module packet total becomes
+  2,340 minutes (recomputed). The source route is unchanged; the
+  newly opened Gross 1998 institutional copy supports the specimen
+  classifications only and is not new assigned reading.
+- Advisor QC conditions (full diff read, specimen verification, hash
+  recheck) were all met as recorded above.
