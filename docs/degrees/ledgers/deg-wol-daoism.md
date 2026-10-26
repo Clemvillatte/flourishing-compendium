@@ -661,3 +661,37 @@ chapters actually say.
 Prose recounted after the round-3 edits: 2,291 words measured;
 workload prose allowance unchanged at 38 minutes with the multiplier;
 total unchanged at about 2 hours 20 minutes (about 139 minutes).
+
+## m2 advisor QC round 4 repairs (2026-10-26, worker-pplx-degdaosim-1026a)
+
+Round 4 returned one bounded alignment patch: the revised Outcome 2
+required learners to distinguish what an assigned passage says from
+their proposed application, but deliverable a and rubric criterion 1
+still allowed a generic reflection about forcing without identifying
+any chapter or making that distinction, so a source-free self-help
+reflection could have passed. The patch applied and pushed this
+pass:
+
+1. The Step 2 worked example now identifies its assigned chapter
+   before presenting the hypothetical application: it uses chapter
+   11's contrast (the useful hollow in a vessel), cites the chapter,
+   states what the chapter actually says (wheels, vessels and rooms,
+   nothing about jobs or motivation), and labels the exhaustion
+   application as an analogy built on the chapter's contrast rather
+   than something the chapter states.
+2. Deliverable a now requires: name the assigned chapter, locate its
+   contrast with a citation or brief quotation, and distinguish what
+   the passage says from the application you propose.
+3. Rubric criterion 1 and its strong example now require and
+   demonstrate the same distinction: the strong example names chapter
+   11, quotes the vessel's hollow line, states the chapter says
+   nothing about jobs, and labels the unbooked-hour application as
+   the learner's proposal rather than the chapter's advice; the
+   rejection example now explicitly rejects a source-free self-help
+   reflection about forcing that never identifies a chapter.
+4. Retrieval activity 1 now asks the learner to name which assigned
+   chapter's contrast they are using.
+
+Prose recounted after the round-4 edits: 2,411 words measured;
+workload prose allowance updated to 40 minutes with the multiplier;
+total updated to about 2 hours 20 minutes (about 141 minutes).

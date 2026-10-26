@@ -118,10 +118,11 @@ line is "Straight words seem to reverse themselves."
 
 Now take one of the contrasts the assigned chapters examine and
 apply it to a case in your own life. The worked demonstration uses
-the same three-part reflection you learned in m1, applied to a case
-where the contrast is one possible contribution rather than the
-whole story. The case is hypothetical, written for this module; it is
-not a finding about anyone, and you should test it against your own
+chapter 11's contrast (the useful hollow in a vessel) and the same
+three-part reflection you learned in m1, applied to a case where
+the contrast is one possible contribution rather than the whole
+story. The case is hypothetical, written for this module; it is not
+a finding about anyone, and you should test it against your own
 experience rather than treat it as a diagnosis.
 
 The case: a person is stuck in a job they dislike and is trying to
@@ -135,16 +136,24 @@ forcing is the only or even the main contributor, and the job's
 actual content, the person's circumstances outside work, or the fit
 between the two could each be doing more of the work.
 
-What the application helps with: in this hypothetical example, the
-examined contrasts are used as a prompt to reconsider something
-dismissed. One dismissed thing is the person's exhaustion, and the
-proposed application is to stop treating the exhaustion as an
-obstacle to be forced past and start treating it as information
-about what is happening. Treating exhaustion as information is
-this module's proposed application, not advice the Daodejing
-explicitly gives; the chapter does not tell the person to quit or
-to stay, and it does not establish that the response to
-circumstances is the real problem.
+What the application helps with: the worked example uses chapter
+11's contrast, that the nothingness at a vessel's center is what
+makes the vessel useful
+([Eno, Daodejing, chapter 11](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content)).
+Chapter 11 says that about wheels, vessels and rooms; it says
+nothing about jobs or motivation. What follows is this module's
+proposed application, an analogy built on the chapter's contrast,
+not something the chapter states. In this hypothetical example, the
+contrast is used as a prompt to reconsider something dismissed. One
+dismissed thing is the person's exhaustion, and the proposed
+application is to stop treating the exhaustion as an obstacle to be
+forced past and start treating it as information about what is
+happening, the way a vessel's hollow is the thing that makes it
+usable rather than a defect in it. That move from defect to
+information is the application; the chapter gives no advice about
+jobs, and it does not tell the person to quit or to stay, and it
+does not establish that the response to circumstances is the real
+problem.
 
 What the case leaves uncertain: whether the exhaustion is a signal
 that the job is wrong for this person, a signal that the person is
@@ -156,7 +165,8 @@ examine.
 
 Retrieval activity 1 (closed book, now): from memory, write your
 own three-part reflection on a case in your life where you are
-forcing something. Name what matters in the case, what the examined
+forcing something, and name which assigned chapter's contrast you
+are using. Name what matters in the case, what the examined
 contrast helps you understand or choose there, and one thing the
 case leaves uncertain. Keep what you write; it is the draft of
 graded deliverable a.
@@ -264,8 +274,10 @@ against the primary text before you finalise.
   a. The contrast-application deliverable (Outcome 2): your
      three-part reflection from Retrieval activity 1, written out
      cleanly as the final version, on a case where you are forcing
-     something. 200 to 400 words. The rubric's criterion 1 governs
-     this.
+     something. Name the assigned chapter, locate its contrast with
+     a citation or brief quotation, and distinguish what the passage
+     says from the application you propose. 200 to 400 words. The
+     rubric's criterion 1 governs this.
   b. The comparison deliverable (Outcome 3): your comparison of the
      two accounts of chapter 28, naming where they agree, where
      the closing line's wording differs, what difference that
@@ -282,22 +294,33 @@ against the primary text before you finalise.
 ## Rubric (observable criteria)
 
 1. The contrast-application deliverable names a real case in the
-   learner's life, applies the examined contrast as one possible
-   contribution rather than as the whole story, and names what
-   matters, what the application helps with, and one thing the case
-   leaves uncertain. Strong: "What mattered in my case was that I
-   kept trying to make my book club read the books I wanted to
-   read; the case does not establish that the forcing was the only
-   or the main contributor to how bad the meetings felt, and the
-   book club's actual fit with the members could have been doing
-   more of the work; the application helps me see that the thing I
-   dismissed, the members' actual boredom with my choices, was
-   information I needed, and one possible move was to stop
-   presenting and start asking what they wanted; what it leaves
-   uncertain is whether the club is worth saving at all, and the
-   reversal does not answer that." Rejection: "Wu wei means going
-   with the flow and I should relax" (everyday usage, no reversal
-   applied, no three parts named).
+   learner's life, names the assigned chapter and locates its
+   contrast with a citation or brief quotation, distinguishes what
+   the passage says from the application the learner proposes,
+   applies the contrast as one possible contribution rather than
+   as the whole story, and names what matters, what the application
+   helps with, and one thing the case leaves uncertain. Strong:
+   "I used chapter 11, which says 'grasp the nothingness at its
+   center to get the use of the vessel' and concludes that 'that
+   which is not constitutes what is of use'; the chapter says that
+   about wheels, vessels and rooms, and says nothing about jobs;
+   what mattered in my case was that I kept trying to fill every
+   hour of my workday and the fullness itself was making the day
+   unusable; the case does not establish that the over-filling was
+   the only or the main contributor, and the job's actual content
+   could have been doing more of the work; my proposed application,
+   which the chapter does not state, is to treat the unbooked
+   hour as the vessel's hollow rather than as a defect, and to
+   notice whether the day works better with the hollow in it;
+   what it leaves uncertain is whether the unbooked hour is a
+   sign that the job is wrong for me, and the chapter does not
+   answer that." Rejection: "Wu wei means going with the flow
+   and I should relax" (no chapter named, no quotation, no
+   passage-versus-application distinction, no three parts named),
+   or a reflection about forcing that never identifies a chapter
+   or distinguishes what the chapter says from what the learner
+   proposes (a source-free self-help reflection does not pass
+   this criterion).
 2. The comparison deliverable names where the two accounts of
    chapter 28 agree, where the closing line's wording differs,
    and what difference that wording might make to the learner's
@@ -350,9 +373,9 @@ against the primary text before you finalise.
   minutes raw per full reading of the set; with two readings of
   each chapter, about 8 minutes raw; with study overhead as a
   three-times multiplier, about 24 minutes (estimate, labelled).
-- Module teaching prose on this page (about 2,290 words measured):
+- Module teaching prose on this page (about 2,410 words measured):
   at 180 words per minute about 13 minutes raw; with study overhead
-  as a three-times multiplier, about 38 minutes (estimate,
+  as a three-times multiplier, about 40 minutes (estimate,
   labelled).
 - Retrieval activities 1 and 2: about 10 minutes (estimate; about 5
   minutes each).
@@ -362,10 +385,10 @@ against the primary text before you finalise.
   deliverable about 10 minutes, chapter-reading deliverable about 15
   minutes.
 
-Total: about 2 hours 20 minutes (about 139 minutes of labelled
+Total: about 2 hours 20 minutes (about 141 minutes of labelled
 components: about 22 measured assigned video on the full
 assigned-viewing path, 24 estimated primary-text reading with the
-three-times study multiplier, 38 estimated module-prose reading with
+three-times study multiplier, 40 estimated module-prose reading with
 the three-times study multiplier, 10 retrieval, 45 graded with
 per-deliverable allowances above).
 
