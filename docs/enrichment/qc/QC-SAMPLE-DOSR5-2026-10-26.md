@@ -772,10 +772,10 @@ quoted span appearing in two files counts as two verifier items, per the
 verifier's own row output):
 
 - 35 false positives confirmed by direct opens (earlier pass 8: T&K,
-  Gigerenzer, attention x4, right-view x2; this pass 27: RyanDeci, Dhp,
+  Gigerenzer, attention x4, right-view x2; this pass 27 (recounted; Craftsmanship added after advisor round 3): RyanDeci, Dhp,
   SN 42.3, Emmons x2, Kant, Trungpa, Baumeister, Hagger, Jachimowicz x2,
   Milinda, Seneca, Wang, Kounios, Schumpeter, Baer, Baird, Zarathustra x2,
-  McAdams, Skinner x3, Chowdhury, Holton).
+  McAdams, Skinner x3, Craftsmanship, Chowdhury, Holton).
 - 8 search-excerpt-supported, not opened-source verified (all on cited
   hosts that block this environment's fetchers; wording taken from the
   page's own text as surfaced in search results): Davidson (OUP abstract;
