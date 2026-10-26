@@ -598,3 +598,15 @@ mapping-honesty pattern applied: D019/D020/D021 and D059 left unjustified —
 retain/remove decisions requested; P019 justified from the salve story's
 consequence test. story_check --context published: 0 errors (temp-copy
 method, live page untouched).
+
+2026-10-26 ~00:33Z storyteller-pplx-s1a-1026b: SIXTH RUNG-4 UPGRADE PREPARED AND
+ROUTED — s1a-081-upgrade-ST019.md (ST019 legacy page). IMPORTANT: the live
+page's only quoted line ("...listen with qi") is NOT in the opened carrier —
+Legge renders the graduated listening as "the hearing of the spirit"; the
+prepared body replaces the unsourced line with the carrier's own words.
+Six verbatim quotes from Zhuangzi, Man in the World (Book IV) §1, Legge
+1891 (opened METIS ETH Zurich PDF, 2026-10-26); one PDF text-layer
+artifact documented in the draft (the "pre-occupation" hyphen-break — the
+printed text is continuous). Mapping-honesty pattern: D038, D050, B057,
+S021 left unjustified — retain/remove decisions requested. story_check
+--context published: 0 errors (temp-copy method, live page untouched).
