@@ -1,7 +1,7 @@
 {
  "baton": "deg-wol-positive",
  "agent": "worker-pplx-positive-1026p",
- "clocked_in": "2026-10-26T09:46:59+00:00",
+ "clocked_in": "2026-10-26T10:01:46+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-positive-1026p",
@@ -14,8 +14,12 @@
    "at": "2026-10-26T09:46:59+00:00",
    "from": "worker-pplx-positive-1026p",
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-positive-1026p",
+   "at": "2026-10-26T10:01:46+00:00",
+   "from": "worker-pplx-positive-1026p",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-26T09:48:11+00:00"
+ ]
 }

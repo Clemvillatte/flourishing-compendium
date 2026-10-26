@@ -98,6 +98,12 @@ entry was written against.
 | https://pmc.ncbi.nlm.nih.gov/articles/PMC6541265/ | 2026-10-26, before 09:38Z | worker-pplx-positive-1026p | full text freely accessible (open access, CC BY): White, Uttl, Holder 2019, PLoS One 14(5):e0216588 — re-analysis of PPI meta-analyses; key finding quoted from the article: "when small sample size bias was taken into account, the effect of PPIs on well-being were small but significant (approximately r = .10), whereas the effect of PPIs on depression were variable, dependent on outliers, and generally not statistically significant" |
 | https://www.tandfonline.com/doi/full/10.1080/17439760.2023.2178956 | 2026-10-26, before 09:38Z | worker-pplx-positive-1026p | full text openly accessible (page labelled Open access): van Zyl, Gaffaney, van der Vaart, Dik, Donaldson 2024, The Journal of Positive Psychology 19(2):206-235 — systematic review of critiques (six overarching themes as printed in the opened extract: poor theorizing; measurement/methodology problems; pseudoscience/poor replication; lack of novelty/self-isolation; decontextualized neoliberal ideology causing harm; capitalistic venture) |
 
+### Licence checks (2026-10-26 2026-10-26T10:01:46Z, worker-pplx-positive-1026p)
+
+- Bolier et al. 2013 (BMC Public Health): "This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0)" — CC BY 2.0 confirmed verbatim on the opened carrier.
+- White, Uttl & Holder 2019 (PLoS ONE): "distributed under the terms of the Creative Commons Attribution License" — CC BY confirmed verbatim.
+- van Zyl et al. 2024 (Journal of Positive Psychology): page labels the article "Open access" but states NO explicit reuse licence — free to read confirmed, reuse permission not explicitly granted (nuance recorded; not a blocker for reading, but not a reuse grant).
+
 ## Candidates added from the gap-register pass (verification status: UNSET — text sources, reading-level checks outstanding)
 
 | source_id | candidate evidence recorded | open requirements |
