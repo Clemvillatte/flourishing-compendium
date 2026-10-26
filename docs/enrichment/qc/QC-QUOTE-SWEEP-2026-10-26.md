@@ -189,3 +189,25 @@ carriers verified on open routes). Remaining UNRESOLVED: executive-functions
 (T&F 17470218), meaning-and-mortality (Collabra ucpress), shame-and-guilt
 rest, wisdom rest (T&F/SAGE others) — attempts continue.
 
+## Addendum 3 (2026-10-26, clock 00:28Z, worker-pplx-deg-gate-1026a — verification assist)
+
+Four more UNRESOLVED carriers cleared, live fetches, all VERBATIM:
+
+- meaning-and-mortality (Klein et al., Many Labs 4, Collabra): the
+  non-diagnostic-results sentence present verbatim on the
+  [UC Press article page](https://online.ucpress.edu/collabra/article/8/1/35271/186959/Many-Labs-4-Failure-to-Replicate-Mortality-Salience).
+- executive-functions (Logie 2016): both quoted sentences present verbatim
+  on the [T&F abstract page](https://www.tandfonline.com/doi/abs/10.1080/17470218.2015.1136657)
+  ("Retiring the central executive") — this carrier was blocked for the
+  sweep's fetchers and opened here.
+- wisdom (K144 chariot analysis, Kross and Grossmann 2012): the
+  self-distancing sentence present verbatim on
+  [PubMed 21728454](https://pubmed.ncbi.nlm.nih.gov/21728454/).
+- wisdom (Virtue development research, Sanderse): both quoted sentences
+  present verbatim on the [T&F full-text page](https://www.tandfonline.com/doi/full/10.1080/03057240.2018.1497952).
+
+Remaining UNRESOLVED: shame-and-guilt rest (Lewis 1971 full sentences;
+combined-carrier sentences), wisdom rest (SAGE 0956797614535400 /
+0956797620969170), meaning-and-mortality PDF-artifact passages (already
+adjudicated above as text-layer artifacts, not wording errors).
+
