@@ -488,7 +488,6 @@
   },
   "mod-pd-8": {
    "remove": [
-    "PD-M1-07",
     "PD-M7-10"
    ],
    "refs": [
@@ -533,6 +532,12 @@
      "section": "required",
      "role": "capstone-return",
      "locator": "The original ANT paper defines laboratory contrasts, not everyday diagnostic tests"
+    },
+    {
+     "source_id": "PD-M1-07",
+     "section": "required",
+     "role": "capstone-return",
+     "locator": "The adherence research (Woolley, Giurge and Fishbach 2025): reuse the passages you already read in Module VI, and note how its different designs do not turn your own before-and-after diary into a controlled trial"
     }
    ]
   }
