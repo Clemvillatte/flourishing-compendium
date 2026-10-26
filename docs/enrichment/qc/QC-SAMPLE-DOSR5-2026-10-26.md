@@ -680,3 +680,28 @@ deviations repaired and pushed (Hayes semicolon; Goyal "reductions in"),
 2 items not confirmable from this environment (SN 42.3 and Milindapanha
 3.1.1, both elided composites on suttacentral, which serves a JavaScript
 app shell to this environment's fetchers), 0 known outstanding deviations.
+
+# QC sample 23: the-self and right-intention — suttacentral spans (2026-10-26 02:52:27Z, measured in-command)
+
+The two remaining blocked-host items are CONFIRMED VERBATIM via the cloud
+browser, which renders the suttacentral JavaScript app that blocks this
+environment's fetchers:
+
+1. right-intention, SN 42.3 (Sujato): both spans of the elided composite
+   print exactly — "When a warrior strives and struggles in battle, their
+   mind is already low, degraded, and misdirected as they think: 'May these
+   sentient beings be killed, slaughtered, slain, destroyed, or
+   annihilated!'" ... "when his body breaks up, after death, he's reborn
+   in the hell called 'The Fallen'." The dossier's ellipsis omits "His foes
+   kill him and finish him off, and" between the spans.
+2. the-self, Milindapanha 3.1.1 (Rhys Davids): the chariot sentence prints
+   exactly — "It is on account of its having all these things—the pole,
+   and the axle, the wheels, and the framework, the ropes, the yoke, the
+   spokes, and the goad—that it comes under the generally understood
+   term, the designation in common use, of 'chariot.'"
+
+FINAL session tally (governs): 45 automated NOT FOUNDs adjudicated this
+session — 43 false positives confirmed, 2 genuine deviations repaired and
+pushed (Hayes semicolon; Goyal "reductions in"; registry rebuilt both
+times), 0 items unconfirmable, 0 known outstanding deviations. The band
+quote map's remaining eye-check queue for the dosr bands is exhausted.
