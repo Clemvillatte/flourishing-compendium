@@ -184,3 +184,18 @@ and were left in state: 005 (returned, reassignment), 028/029 (qc_pending
 state entries without draft files), 038 (retargeting), 063 (partial mapping),
 064, 068, 070, 071, 073, 074, 075 (withdrawn/routed mappings). Registration
 stays supervisor-only.
+
+## Mechanical sweep of s1a upgrade drafts (storyteller-pplx-1026f, 2026-10-26 10:13Z)
+
+Ran scripts/story_check.py --context draft over every s1a and s1d draft file.
+All s1d drafts pass. All s1a-001..075 drafts pass. The upgrade drafts
+s1a-076..s1d-095 are NOT in state.json (not tracked); nine of them fail the
+mechanical bar and will be flagged whenever they enter QC:
+
+- dash budget (4-5 dashes, max 3): 076-ST220, 077-ST001, 079-ST003, 080-ST009,
+  081-ST019, 084-ST024, 087-ST018, 090-ST016, 092-ST023
+- prose too long: 086-ST026 (509 > 480), 093-ST032 (522 > 480)
+
+Left untouched (no state entry, no routing to this session). ROUTE for the
+supervisor: either mint them into state.json with these repairs applied or
+return them to the teller lane with the list.
