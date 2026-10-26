@@ -39,3 +39,11 @@ Every item below was opened on the live page on 2026-10-26 unless stated.
 - Not readable by the fetch tool on this pass (crawl error): M06-AF07, PD-M4-01, BUD-B1-02 (left as receipted); DAO-M1-03 confirmed at 53:36 by a video-search listing.
 - Method lesson: the fetch tool's page extraction can pick up the duration of a related video on the page; confirm odd values against a video-search listing or the player readout.
 - PRAG-M1-01 confirmed by player readout "0:00 / 49:24".
+
+## Text-source identity sweep (52 non-video sources, 2026-10-26)
+
+Every canonical link was opened and the printed title, author and venue compared with the data block. 50 match. Exceptions:
+
+- PRAG-M4-01/02/03: wrong books (above).
+- BUD-B5-01: titled "Food for the Heart" with a landing-page link the fetch tool cannot read, but the assigned page ranges belong to The Collected Teachings of Ajahn Chah, third edition 2011 (chapter 11 at p. 125, chapter 13 at p. 145 in the single-volume PDF). Title and link corrected in deg-wol-buddhism-assignments.json under "sources".
+- PD-M4-07 links the Attention Network Test paper on a university mirror (w3.ual.es), and the other PDFs on author or lab pages; all printed the expected title and journal, so no action, but a publisher or PMC link would be more durable if the owner prefers.
