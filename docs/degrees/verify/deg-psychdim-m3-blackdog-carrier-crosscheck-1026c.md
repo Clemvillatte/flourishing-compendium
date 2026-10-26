@@ -125,6 +125,12 @@ An open MQ: Transforming Mental Health interview with Moulds (published 2020-10-
 
 Quotes were checked against the full fetched page text (verbatim, including Moulds' hedged "might actually be similar"). The MQ interview predates this session and is a different source; it corroborates the position, not the window.
 
+## Addendum (same session, later pass): full-session ASR artifact + treatment-window cross-check
+
+After the receipt above was pushed, the full session audio (59:21) was transcribed and committed as a locator aid: [deg-psychdim-m3-blackdog-session-asr-1026c.txt](deg-psychdim-m3-blackdog-session-asr-1026c.txt) (same caveats: machine transcription, audio clock, ASR errors uncorrected, audio authoritative for wording).
+
+Cross-check against the treatment-discussion excerpts that deg-video-recheck-completion-1026c.md had verified via the search index (video 39:47-41:14): the audio at 38:29-40:37 carries the same content — "rumination focused cognitive therapy" named (Watkins's model is named at 42:17), and "this recent work conducted by Amy at the Black Dog Institute with Jill Newby and colleagues... recently developed just a three session online program to target worry and rumination" (39:51-40:19), matching the index excerpts' claims. The audio clock runs about 80-95 seconds behind the video clock at this point, consistent with the duration difference already recorded. The index excerpts and the recording's audio agree; the prior worker's treatment-window verification is corroborated from the recording itself rather than the third-party index.
+
 ## Outcome for the supervisor
 
 - Alternative audio evidence now exists for all three flagged claims, with raw timestamped ASR preserved above for a listening check; the SoundCloud route is reusable for other blocked Black Dog sessions in this series (the channel hosts the eMHPrac sessions).
