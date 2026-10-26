@@ -1,4 +1,4 @@
-# m5-self-and-identity: Knowing Yourself Without Freezing Yourself
+# m5-self-and-identity: Self-Concept and Identity
 
 <!-- STATUS: DRAFT, NOT CLEARED. Degree deg-psychdim.
 Owner degree-4376b4ec. Source evidence in degree ledger and
@@ -8,12 +8,14 @@ receipt. Independent module-QC owed; no degree publication clearance. -->
 "I'm just not that kind of person" can protect an important boundary,
 or close a door before you have examined it. This module helps you ask
 which description you are using: a trait tendency, a role, a value,
-a judgment of worth or a story about your life. The purpose is a more
-usable and revisable understanding of yourself, not a final label.
+a judgment of worth or a story about your life. You will use these
+distinctions to examine a self-question and decide what would make
+you revise the account.
 
 ## Entry and outcomes
 
-Level: L3, Independent inquiry. M4 taught guided application and explicit
+Level: L2 to L3, guided foundations to independent inquiry. M4 taught
+guided application and explicit
 evidence limits. Bring that ability, the earlier observation/interpretation
 distinction and the willingness to leave a question unresolved.
 Here you will choose a low-stakes question, select suitable concepts
@@ -131,7 +133,7 @@ point in my story." Feedback: content/role, clarity, evaluation, possible
 accuracy evidence, narrative. Good self-inquiry keeps those questions
 distinct before seeking an answer.
 
-## Development is not a deadline for becoming a person
+## How identity develops
 
 Branje and colleagues review adolescence and young adulthood. Their
 dual-cycle account distinguishes considering alternatives and forming
@@ -221,7 +223,7 @@ situational fact needed in each case. A redacted or private example is
 fine. Feedback: "I lacked time; they did not care" reveals an explanatory
 asymmetry, but the missing facts may justify or overturn either account.
 
-## A tendency is not a prison
+## Traits and context
 
 Watch the Big Five and Little windows, then the short Noba qualifications.
 The Big Five concern openness, conscientiousness, extraversion,
@@ -252,7 +254,7 @@ information could distinguish it. Feedback: "Traits describe tendencies;
 the project may explain this departure" is more defensible than "Quiet
 people cannot speak up" or "Any departure proves trait measures worthless."
 
-## Handle a questionnaire without making it a verdict
+## Using the Self-Concept Clarity Scale
 
 The linked SCCS form has 12 items, response values 1 (strongly disagree)
 to 5 (strongly agree), and marks reverse-keyed items. Items 6 and 11
@@ -297,12 +299,12 @@ may affect self-report; an actual change is also possible, but a
 before/after number without a design cannot distinguish the explanations.
 The educational target is interpreting limits, not securing a higher score.
 
-## Return to the framework without becoming a therapist
+## The EEMM self dimension
 
 The degree's EEMM framework treats self as one dimension for organising
 a pattern, not the entirety of the person. In Maitland's Table 1,
-the linked FAP target is "The specification of the stimuli controlling
-the verbal response 'I'." That is a particular functional-analytic
+the linked FAP target concerns the stimuli controlling the verbal
+response "I." That is a particular functional-analytic
 application, not the definition of all self-concepts or a clinical
 exercise for this course
 ([Table 1 and its note](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/)).

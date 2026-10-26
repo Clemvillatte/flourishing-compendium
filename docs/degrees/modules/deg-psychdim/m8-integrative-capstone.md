@@ -1,4 +1,4 @@
-# m8-integrative-capstone: One Pattern, Six Lenses, An Honest Next Step
+# m8-integrative-capstone: Psychological Dimensions in Daily Life
 
 <!-- STATUS: DRAFT, NOT CLEARED. Owner degree-4376b4ec.
 L4 capstone specification, not a claim that any learner has executed it.
@@ -7,9 +7,9 @@ Independent module/whole-degree review owed. No integration clearance. -->
 Choose one ordinary pattern you would like to understand more wisely.
 Perhaps you postpone a message you care about, lose the first few
 minutes of an activity to an app, or keep making a manageable task
-larger in your imagination. The aim is not to solve your life.
-It is to complete one careful inquiry, try one safe adjustment and
-decide honestly what you have learned.
+larger in your imagination. You will complete a bounded inquiry and
+try one safe adjustment, then use the record to decide what to
+do next.
 
 ## Entry and completion outcomes
 
@@ -183,7 +183,7 @@ do not count them again as new observations without disclosing their
 dates and role. No learner observations are supplied by the course,
 and the fictional Morgan preview cannot stand in for your own project.
 
-## Interpret without polishing away uncertainty
+## Interpret your records
 
 Prepare a small table of actual opportunities, arrangement, outcome,
 context and missingness. If you use a subjective rating, label the

@@ -242,7 +242,7 @@ in a fixed order
 | Cognitive change | How the situation is interpreted | Consider an accidental edit as a possibility while checking what happened. |
 | Response modulation | An emotional response already under way | Hold back the sharp message while choosing what to say. |
 
-Here is a fully worked decision, not a guaranteed method:
+Here is a worked decision to examine:
 
 - **Observation and uncertainty:** the slide changed; Amira does not
   yet know why. Anger and the thought that her work does not matter

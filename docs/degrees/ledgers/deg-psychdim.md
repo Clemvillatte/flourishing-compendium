@@ -2993,6 +2993,19 @@ episode and marks uncollected task/physiological information. No
 new sources, outcome families, time blocks or clearance. Existing
 reflection/assessment allowances cover these clarifications.
 
+### Bounded editorial pass, 05:29Z
+
+Re-read module framing/headings against the whole-text Humanizer
+standard. Removed rhetorical contrast headings, decorative "freezing"
+metaphor, slogan/deadline/prison language and the M8 split not-X/it-is-Y
+opening; used direct subject names and concrete tasks instead.
+Necessary source and safety limitations retained. M5 FAP target is
+now paraphrased rather than presented as an unchecked exact sentence.
+M5 level label now matches the approved L2->L3 fading progression,
+consistent with the actual worked/completion/independent sequence.
+This is a bounded editorial pass, not an assertion of zero AI tells
+or a substitute for independent content/pedagogical review.
+
 M1 independent supervisor decision consumed at 05:02Z:
 `reviews/deg-psychdim-m1-supervisor-2026-10-26.md` records **MODULE-QC
 PASS** on production commit **cdb8f0939**, module SHA-256

@@ -1,12 +1,12 @@
-# m7-overt-behavioural: Make the Next Action Understandable
+# m7-overt-behavioural: Understanding a Repeated Behaviour
 
 <!-- STATUS: DRAFT, NOT CLEARED. Owner degree-4376b4ec.
 Independent module-QC owed. Bounded source/video preparation in
 verify/deg-psychdim-m7-video-audit-49bf153e.md. -->
 
 You put a book where you will see it, then discover that the first
-thing you reach for is still your phone. Calling yourself weak
-does not tell you what happened. Here you will examine a modest
+thing you reach for is still your phone. A label such as "weak"
+leaves the sequence of events unexplained. Here you will examine a modest
 behaviour in context, distinguish a learned tendency from an intention,
 and ask what the evidence actually supports.
 
@@ -107,7 +107,7 @@ and use this short precision reading:
   for the framework/application distinction
   ([open article](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/)).
 
-## Describe the loop without claiming you proved it
+## Investigating the cue–response pattern
 
 Carden and Wood describe habits as learned context–response associations
 arising through repetition in context. Repeated action alone does
@@ -214,7 +214,7 @@ timing; do not pretend that diary is an HRV measure or an adult
 validation study. A useful observation and a validated measure are
 different things.
 
-## Compare a contested result, not slogans
+## Reading ego-depletion evidence
 
 Ego depletion concerns the hypothesis that initial self-control
 exertion reduces later self-control performance. A proposed limited

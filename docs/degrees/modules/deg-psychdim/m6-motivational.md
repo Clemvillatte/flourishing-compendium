@@ -1,4 +1,4 @@
-# m6-motivational: Why You Keep Going
+# m6-motivational: Motivation and Following Through
 
 <!-- STATUS: DRAFT, NOT CLEARED. Owner degree-4376b4ec.
 Outcome-specific video receipts: verify/deg-psychdim-m6-video-audit-49bf153e.md.
@@ -181,7 +181,7 @@ importance/uncertain control versus competence/interest are relevant
 to the proposed account, but the sketch does not establish an individual's
 emotion, all its causes, or what intervention would help.
 
-## Read adherence evidence at its actual scale
+## What adherence studies show
 
 An importance-only prediction says that a highly valued goal should
 be easier to sustain because of its future benefit. An interest-based

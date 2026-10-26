@@ -142,7 +142,7 @@ Write a two-sentence comparison using "earlier evidence appeared" and
 the differentiated functions while rejecting complete independence;
 "new work proves attention is one undifferentiated capacity" overcorrects.
 
-## Selection is not a recording of everything
+## Selective attention
 
 Watch Bloom's narrowed window. The spotlight is an analogy for selection,
 not a literal beam in the head. In the Stroop task, the task-relevant
@@ -220,7 +220,7 @@ neighbours; a warning about when versus information about where the
 target will occur. That procedure, not the subtraction alone, makes
 the contrasts interpretable.
 
-## An association is not a diagnostic key
+## Reading network associations
 
 Read Table 2 and its adjoining paragraph. The 2019 authors associate
 network abnormalities with conditions and explicitly reject a complete
