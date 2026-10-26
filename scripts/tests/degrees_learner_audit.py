@@ -206,7 +206,7 @@ def main():
 
         if not is_practicum and not any((mods[m].get('wiki_readings') or []) for m in mids if m in mods):
             # AUDIT-2026-10-26 section C: an opportunity, not mandated; an owner/scope decision (finite-scope rule)
-            msgs.append(f'{prefix}ADVISORY [{did}] no module links any wiki reading (wiki_readings empty across the degree); owner decision pending')
+            msgs.append(f'{"" if in_scope else ""}ADVISORY [{did}] no module links any wiki reading (wiki_readings empty across the degree); owner decision pending')
 
     for m in msgs:
         print(m)
