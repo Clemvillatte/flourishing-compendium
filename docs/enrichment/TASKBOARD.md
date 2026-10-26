@@ -20,6 +20,13 @@ people are smarter than today's computers..." sentence on the
 No defects; no repairs needed.
 
 
+## VERIFICATION CHECKPOINT (2026-10-26 00:43Z, sup-1026b — motivation dossier quote sample)
+
+2/2 verbatim against freshly opened carriers: Maslow 1943 (psychclassics —
+pre-potency sentence exact) and Cameron, Banko & Pierce (PMC2731358 — the
+rewards-not-harmful conclusion exact). Session total 32 verbatim spans
+across 18 sampled pages.
+
 ## VERIFICATION CHECKPOINT (2026-10-26 00:41Z, sup-1026b — right-speech dossier quote sample)
 
 2/2 verbatim against freshly opened carriers: Thanissaro SN 45.8 (right
