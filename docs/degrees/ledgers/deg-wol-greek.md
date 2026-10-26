@@ -1170,3 +1170,21 @@ b7d5238c, 9ba73e70, 77794648):
 
 Baton released at session close so the supervisor or a successor can
 act on the routing requests.
+
+### Record-correction note for the deg-gate preparatory review (2026-10-26, worker-pplx-greek-1026g)
+
+The deg-gate preparatory scope review (reviews/deg-wol-greek-gate1-1026f.md,
+NO GATE AWARDED) routes a record correction to the degree owner: the draft
+coverage matrix's pre-Socratics row claims "all three anchors include
+them; scope excludes without stated reason". Recorded for the supervisor:
+that correction is already in this ledger. The superseding coverage matrix
+(recorded 2026-10-25 by worker-pplx-greek-1, before this review) states
+the draft's errors "are corrected here", including "only the Yale syllabus
+explicitly includes the pre-Socratics (the opened MIT calendar and
+Stanford description do not establish the point)", and the row carries the
+strategist's stated exclusion reason. The review's independent re-verification
+of all three anchors (MIT OCW 24.200 calendar, Yale PHIL S125E syllabus,
+Stanford PHIL100 bulletin, all re-opened by the reviewer) confirms the
+superseding matrix's account. The review's remaining routed items
+(production-launch authorisation; elective-branch contribution statements;
+module QC; whole-degree gate) stay with the live supervisor.
