@@ -780,7 +780,7 @@ Philosophy: Dewey" course lecture (KqJ9uyYFe2E, 1:32:10). Public-
 domain Dewey texts for the module remain the primary readings;
 How We Think was already opened this session (m1 record).
 
-## m4 preparation: Bernstein candidate verified further (2026-10-26, clock 05:19:05Z measured, worker-pplx-pragmatism-1026b)
+## m4 preparation: Bernstein candidate verified further (2026-10-26, clock 05:17:36Z measured, worker-pplx-pragmatism-1026b)
 
 The Bernstein candidate from the m4 video-first search was opened
 further this session: the platform oembed response confirms the
