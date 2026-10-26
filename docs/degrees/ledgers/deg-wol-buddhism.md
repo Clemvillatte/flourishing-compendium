@@ -910,8 +910,12 @@ learner paths into this ledger.
 
 - Degree-level workload sum updated for the two recomputed modules: b1 about
   4 h 25 m and b5 about 3 h 50 m give an essential path (b1-b8) of about
-  36 h 30 m, plus the b9 elective about 2 h 40 m (about 39 h 10 m with the
-  elective). Observation for the supervisor's degree-level QC and the
+  37 h 30 m (sum re-verified this pass from the nine modules' own workload
+  arithmetic sections: b1 4:25 + b2 3:20 + b3 2:20 + b4 2:10 + b5 3:50 +
+  b6 4:58 + b7 3:27 + b8 12:00; the earlier ~36 h 30 m figure in this
+  addendum used a stale b6 total and is corrected here), plus the b9
+  elective about 2 h 40 m (about 40 h 10 m with the elective).
+  Observation for the supervisor's degree-level QC and the
   integrator, as before; no claim about the right total.
 - b3 booklet ("What Is Buddhism?") word-count measurement: ATTEMPTED and
   BLOCKED this pass — bswa.org pages are bot-walled from this environment
