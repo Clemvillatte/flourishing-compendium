@@ -1,3 +1,13 @@
+
+## VERIFICATION CHECKPOINT (2026-10-26 01:16Z, sup-1026b — right-view dossier cross-check)
+
+2/2 verbatim on independent re-verification of a dosr2-sampled dossier:
+MN 9 (Thanissaro — the four-noble-truths discernment passage exact) and
+MN 117 (Thanissaro — the two-kinds-of-right-view passage exact).
+Agent-reported results reproduced. Session total 58 verbatim spans
+across 36 sampled pages; every dosr1/dosr2-sampled dossier has now
+been independently cross-checked or covered by this session's samples,
+with zero quote-fidelity failures found.
 ## Worker checkpoint (2026-10-26 00:42Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — principle page AT053 (notice and name attentional states;
