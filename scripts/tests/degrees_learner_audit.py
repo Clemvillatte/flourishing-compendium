@@ -177,7 +177,9 @@ def main():
                     integrated = {r['source_id'] for r in (mod.get('requiredMedia') or [])} | \
                                  {r['source_id'] for r in (mod.get('optionalMedia') or [])}
                     for e in entries:
-                        if isinstance(e, dict) and e.get('source_id') not in integrated:
+                        if not isinstance(e, dict) or e.get('note_only'):
+                            continue
+                        if e.get('source_id') not in integrated:
                             fail(mid, f"manifest assignment not integrated: {e.get('source_id')} ({e.get('assignment','')})")
             except (ValueError, OSError) as exc:
                 msgs.append(f'{prefix}FAIL [{did}] manifest unreadable: {exc}')

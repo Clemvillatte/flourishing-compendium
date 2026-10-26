@@ -1,0 +1,187 @@
+{
+ "degree_id": "deg-wol-buddhism",
+ "built": "2026-10-26",
+ "built_by": "strategist-pplx-1026a (baton degrees-strategist)",
+ "provenance": "Transcribed from the QC'd module files under docs/degrees/modules/deg-wol-buddhism/ (windows, word counts and viewing stops are the files' own measured values; phase-0 contract per docs/degrees/AUDIT-2026-10-26.md). The learner-audit gate diffs this manifest against the integrated data block.",
+ "modules": {
+  "mod-bud-1": [
+   {
+    "source_id": "BUD-B1-01",
+    "role": "teach",
+    "assignment": "Brahm, Buddhist Values - whole 0:54:16, two viewing stops (00:00:00-00:27:00, 00:27:00-00:54:16)",
+    "kind": "video"
+   },
+   {
+    "source_id": "BUD-B1-02",
+    "role": "teach",
+    "assignment": "Thanissaro, The Five Precepts for the Mind - whole 0:13:16",
+    "kind": "video"
+   },
+   {
+    "source_id": "BUD-B1-03",
+    "role": "teach",
+    "assignment": "Dhammadipa, Four Immeasurable Minds - assigned segments 00:27:11-01:01:49 (34:38, four-brahmaviharas arc) and 01:09:42-01:33:04 (23:22, guided metta); remaining chapters optional",
+    "kind": "video"
+   },
+   {
+    "source_id": "BUD-B1-04",
+    "role": "teach",
+    "assignment": "AN 5.179 Gihisutta (Sujato) - assigned excerpt (213 measured words of the 449-word primary-text total)",
+    "kind": "reading"
+   },
+   {
+    "source_id": "BUD-B1-05",
+    "role": "teach",
+    "assignment": "Khp 9 Metta Sutta (Sujato) - whole (236 measured words)",
+    "kind": "reading"
+   },
+   {
+    "source_id": "BUD-B1-06",
+    "role": "teach",
+    "assignment": "Five-stage loving-kindness method - assigned method text",
+    "kind": "reading"
+   }
+  ],
+  "mod-bud-2": [
+   {
+    "source_id": "BUD-B2-01",
+    "role": "teach",
+    "assignment": "Dreyfus, session 1 - whole teaching assigned, 1:20:34",
+    "kind": "video"
+   },
+   {
+    "source_id": "BUD-B2-02",
+    "role": "teach",
+    "assignment": "SN 56.11 (Thanissaro) - whole discourse (~1,100 words)",
+    "kind": "reading"
+   },
+   {
+    "source_id": "BUD-B2-03",
+    "role": "teach",
+    "assignment": "Harvey, Craving glossary entry - ~300 words",
+    "kind": "reading"
+   }
+  ],
+  "mod-bud-3": [
+   {
+    "source_id": "BUD-B3-01",
+    "role": "teach",
+    "assignment": "Brahm, What the Buddha Taught - assigned segment 00:25:46-00:37:33 (11:47); remainder unassigned per the walk's exclusion rule",
+    "kind": "video"
+   },
+   {
+    "source_id": "BUD-B3-02",
+    "role": "teach",
+    "assignment": "What Is Buddhism? booklet - assigned sections (rebirth and karma sections unassigned)",
+    "kind": "reading"
+   },
+   {
+    "source_id": "BUD-B3-03",
+    "role": "teach",
+    "assignment": "Five Mindfulness Trainings - assigned text",
+    "kind": "reading"
+   },
+   {
+    "source_id": "BUD-B1-04",
+    "role": "revisit",
+    "assignment": "AN 5.179 - reapplied to two hard cases of the learner's choosing",
+    "kind": "reading"
+   }
+  ],
+  "mod-bud-4": [
+   {
+    "source_id": "BUD-B4-01",
+    "role": "teach",
+    "assignment": "Brahmali, Introduction to Meditation session 1 - whole 0:33:55 in two bounded segments (00:00:00-00:20:32 teaching, once; 00:20:32-00:33:55 guided meditation, three executions = 40:09)",
+    "kind": "video"
+   },
+   {
+    "source_id": "BUD-B1-05",
+    "role": "revisit",
+    "assignment": "Metta Sutta and five-stage method - two metta sittings (b1 pattern)",
+    "kind": "reading"
+   }
+  ],
+  "mod-bud-5": [
+   {
+    "source_id": "BUD-B5-02",
+    "role": "teach",
+    "assignment": "Sumedho, Mindfulness and Wisdom - whole 1:01:36",
+    "kind": "video"
+   },
+   {
+    "source_id": "BUD-B5-01",
+    "role": "teach",
+    "assignment": "Chah, Collected Teachings (single volume, 3rd ed.) - two assigned teachings (learner's choice per outcome 3); rebirth/karma sections unassigned",
+    "kind": "reading"
+   },
+   {
+    "source_id": "BUD-B1-04",
+    "role": "revisit",
+    "assignment": "AN 5.179 and SN 56.11 from b1-b3 - lineage-source basis, re-read",
+    "kind": "reading"
+   }
+  ],
+  "mod-bud-6": [
+   {
+    "source_id": "BUD-B6-01",
+    "role": "teach",
+    "assignment": "Kirchner, Zen meditation Lecture 1 - whole 1:28:04, two viewing stops",
+    "kind": "video"
+   },
+   {
+    "source_id": "BUD-B6-02",
+    "role": "teach",
+    "assignment": "Kirchner, Thoughts on Meditation (Lecture 3, same series) - whole 1:40:16, two viewing stops (00:00:00-00:50:00, 00:50:00-01:40:16)",
+    "kind": "video"
+   }
+  ],
+  "mod-bud-7": [
+   {
+    "source_id": "BUD-B7-01",
+    "role": "teach",
+    "assignment": "Batchelor, A Secular Buddhism - whole 1:26:35, two viewing stops",
+    "kind": "video"
+   },
+   {
+    "source_id": "BUD-B7-02",
+    "role": "teach",
+    "assignment": "Fronsdal, Week 1 transcript - assigned reading",
+    "kind": "reading"
+   },
+   {
+    "source_id": "BUD-B7-03",
+    "role": "teach",
+    "assignment": "Fronsdal, Class 1 recording - assigned listening",
+    "kind": "audio"
+   }
+  ],
+  "mod-bud-8": [
+   {
+    "note_only": true,
+    "role": "capstone",
+    "assignment": "No newly assigned media by design - the capstone draws on b1-b7's materials; the learner may re-watch assigned segments. Requires the drawsOnPriorModules flag (finding C)."
+   }
+  ],
+  "mod-bud-9": [
+   {
+    "source_id": "BUD-B9-01",
+    "role": "teach",
+    "assignment": "Thanissaro, Hindrances - whole 0:25:00",
+    "kind": "video"
+   },
+   {
+    "source_id": "BUD-B9-02",
+    "role": "teach",
+    "assignment": "Nyanaponika, wheel026 - assigned reading",
+    "kind": "reading"
+   },
+   {
+    "source_id": "BUD-B9-03",
+    "role": "teach",
+    "assignment": "Thanissaro, Five Aggregates study guide - assigned reading",
+    "kind": "reading"
+   }
+  ]
+ }
+}
