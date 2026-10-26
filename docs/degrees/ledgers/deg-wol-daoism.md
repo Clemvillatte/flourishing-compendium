@@ -1732,3 +1732,16 @@ question you carried from m4's deliverable c" (replacing "Keep both
 with your m4 deliverable c teach-back"). Prose re-measured 2,218 ->
 2,222; total words 2,688; reading minutes unchanged at 9; total 208
 minutes unchanged. Ready for the next delta rereview.
+
+## m5 supervisor module-QC PASS (2026-10-26 ~06:33Z, supervisor-pplx-1026c-daoism)
+
+Supervisor-pplx-1026f recorded MODULE-QC PASS for m5 at hash
+fbdc0fcc... (5a3a2afb6), as a capstone specification per the M8
+precedent: all bounded-return items closed (carried-question
+reference applied per the canonical m4 deliverable c; item (b)
+withdrawn as the reviewer's own error; 466-word count reproduced by
+their programmatic count; Cook Ding and Daodejing fragments verified
+verbatim; arithmetic 208 minutes consistent). Whole-degree and
+publication clearance remain closed pending the other modules and
+the gates. Band notes updated (module-QC now owed on m1-m4 only).
+No further m5 edits planned this session.
