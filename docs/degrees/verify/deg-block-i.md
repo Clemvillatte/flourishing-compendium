@@ -689,3 +689,17 @@ resolved (14 same-event on watch pages, 4 by series-part inspection),
 1 identity mismatch (SRC-M25-003, flagged to owner), 1 URL with no
 player (M08-S27, replacement candidate recorded). Plus 6 watch-page
 durations recorded for the resolved records.
+
+## Correction to follow-up 7 (2026-10-26T05:20Z)
+
+The follow-up 7 note understated the remaining variants. Recounting
+against the original comparison data: 6 variants remain unresolved,
+not 2 — SRC-M07-003 (Lieberman Psych 135 lecture), M08-P16 (Bronk,
+Power of Purpose), SRC-M12-008 (Hung, Daoist Philosophy II
+Zhuangzi), SRC-M18-K02 (Rebirth special lecture), M23-EX02 (Zahavi,
+Self-Consciousness), SRC-M24-003 (Anzaldúa, Decolonization). All six
+are word-order/honorific/truncation variants of the same event (no
+sign of different events); still owed to the full pass. Corrected
+session tally: of the flagged variants, 13 resolved on watch pages, 4
+by series-part inspection, 1 identity mismatch (SRC-M25-003), 6
+remaining formatting variants.
