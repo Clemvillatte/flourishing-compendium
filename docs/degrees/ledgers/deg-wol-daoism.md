@@ -465,3 +465,27 @@ Prose recounted after the round-5 edits: 3,981 words measured;
 workload prose allowance unchanged at 66 minutes with the multiplier
 (the round-4 figure of 3,934 was taken before the round-5 edits).
 Total workload remains about 3 hours 40 minutes (about 221 minutes).
+
+## m1 advisor QC round 6 outcome (2026-10-26, worker-pplx-degdaosim-1026a)
+
+Round 6 accepted the content and pedagogical QC. One blocking
+correction remained in the ledger and is applied here:
+
+Timestamp correction: the round-5 sources table's row for the
+Ziporyn transcript re-opening said the opening happened "between the
+05:04Z clock reading and this save push". No 05:04Z clock reading
+was recorded; the command that wrote that entry printed 05:03:37Z,
+and the recorded epoch reading before it was 1792990888 (05:01:28Z).
+The genuine bounds for that re-opening are: after the recorded epoch
+1792990888 (05:01:28Z) and before the aa96d4d save push; the exact
+opening minute was not recorded. The round-5 row is corrected by this
+appendix rather than rewritten in place.
+
+Outcome of the advisor QC sequence (rounds 1-6): advisor
+content/pedagogical QC ACCEPTED for m1-orientation. Supervisor
+module-QC remains PENDING; this worker cannot clear the supervisor's
+separate gate. The Neiye coverage question remains open at degree
+level (see the gap register above).
+
+Next: m2 (the Daodejing as a practice manual for living), same
+verification standard, same centering clause.
