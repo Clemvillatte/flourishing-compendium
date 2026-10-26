@@ -1,3 +1,7 @@
+## Worker checkpoint (2026-10-26 02:37:54Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
+
+QC SAMPLE — others dossier (5 quoted spans, all freshly opened): Beckes-Coan 2011 social-baseline span VERBATIM in the squarespace PDF; Cacioppo-Hawkley 2009 loneliness-as-social-pain span VERBATIM in the PMC full text; Klimecki et al. 2014 compassion-training abstract span VERBATIM via eutils; Karaṇīya Metta Sutta Sn 1.8 Thanissaro "limitless heart" span VERBATIM on accesstoinsight; Aristotle NE IX.10 Ross friendship span VERBATIM on the MIT carrier. No defects found.
+
 ## Worker checkpoint (2026-10-26 02:37:42Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
 
 QC SAMPLE — right-intention dossier (5 quoted spans, all freshly opened): SN 45.8 right-resolve definition span VERBATIM on accesstoinsight; AN 6.63 "Intention, I tell you, is kamma" span and MN 19 heedfulness span both present verbatim (automated misses were & HTML entities); MN 117 two-levels-of-resolve span VERBATIM; MN 19 ill-will-abandonment span VERBATIM. No defects found.
