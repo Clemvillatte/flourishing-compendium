@@ -1,13 +1,20 @@
 {
  "baton": "deg-fix-schema",
  "agent": "worker-pplx-degfixschema-1026b",
- "clocked_in": "2026-10-26T11:42:58+00:00",
+ "clocked_in": "2026-10-26T12:12:56+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-degfixschema-1026b",
    "at": "2026-10-26T11:42:58+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "worker-pplx-degfixschema-1026b",
+   "at": "2026-10-26T12:12:56+00:00",
+   "from": "worker-pplx-degfixschema-1026b",
+   "reason": "stale (30 min)"
   }
- ]
+ ],
+ "released": false
 }
