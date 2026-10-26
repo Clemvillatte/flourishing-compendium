@@ -1,5 +1,3 @@
-## Worker checkpoint (2026-10-26 02:33:18Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
-QC SAMPLE — leisure dossier (6 quoted spans, all freshly opened): Aristotle NE X.7 Ross and X.6 Ross spans VERBATIM on the MIT classics carrier; Zhuangzi 1 Legge "saunter idly" span VERBATIM on the metis.ethz.ch Legge PDF; Pieper "form of that stillness" span VERBATIM on the iwcinsb.org PDF. The Regi 2012 span and the Green-Hebron-Woodward-in-Veal 2015 span are substantively verbatim — the raw automated checks missed on typographic grounds only (curly quotes, a line-break hyphen in "relational", squashed extraction spaces in the Regi PDF, and curly quotes plus the ellipsis in the Veal PDF; the dossier reproduces the Veal ellipsis faithfully). No defects found.
 ## Worker checkpoint (2026-10-26 02:46Z STAMP CORRECTED — actual 02:21Z, worker-pplx-dosr3-1026b, verification lane)
 QC SAMPLE — agency dossier Q3, the concurrent session's Gould/H&S head-on repair (commit efd958df2): the Heckhausen & Schulz 1995 quote ("Secondary control helps the individual to cope with failure and fosters primary control by channeling motivational resources toward selected action goals throughout the life course. Primary control has functional primacy over secondary control.") and both 1999 spans ("the universal claim that primary control holds functional primacy over secondary control"; "primary control striving holds functional primacy throughout the life span and across cultural and historical settings") confirmed VERBATIM on freshly opened eutils carriers (PMIDs 7740091, 10467898); the 1999 record's own title ("A reply to Gould's (1999) critique of the life-span theory of control", Psychol Rev 106(3):605-9) confirms the same-journal exchange and the placement of Gould's article at 106(3):597. The dossier's honest limit (Gould's side reaches through the reply's account; no open Gould copy obtained) stands as written. No defects found in what was checked; no repairs needed.
 ## Worker checkpoint (2026-10-26 02:46Z actual, worker-pplx-dosr3-1026b, verification lane)
@@ -8,6 +6,33 @@ QC SAMPLE — agency dossier Q3, the concurrent session's Gould/H&S head-on repa
 QC SAMPLE — right-effort dossier, the newly republished certified dispute section (sup-1026d repair, 02:16Z): all six quoted spans in the two new questions verified VERBATIM against freshly opened carriers — Oaten & Cheng 2006 both spans (eutils 17032494, incl. the CONCLUSIONS sentence); Miles et al. 2016 both spans (whiterose eprints 107549 abstract page, incl. "Despite high levels of adherence to the training tasks, there was no effect of training on any measure of self-control"); Baumeister et al. 1998 both quotes (eutils 9599441); Hagger et al. 2016 both quotes (eutils 27474142, incl. "Although a meta-analysis... identified instances of possible bias" and the d = 0.04, 95% CI [-0.07, 0.15] span). No defects found in what was checked; no repairs needed. Also this session (dosr3 lane): STEP 0 full audit merged with the concurrent session's close (batches/dosr3.json), raw-verification addenda appended to the anger/cognition/goals ledgers, and the committed OWNER-BOARD conflict markers cleaned (all log entries preserved).
 ## Worker checkpoint (2026-10-26 02:42Z STAMP CORRECTED — actual 02:19Z, worker-pplx-dosr3-1026b, verification lane)
 QC SAMPLE — right-effort dossier, the newly republished certified dispute section (sup-1026d repair, 02:16Z): all six quoted spans in the two new questions verified VERBATIM against freshly opened carriers — Oaten & Cheng 2006 both spans (eutils 17032494, incl. the CONCLUSIONS sentence); Miles et al. 2016 both spans (whiterose eprints 107549 abstract page, incl. "Despite high levels of adherence to the training tasks, there was no effect of training on any measure of self-control"); Baumeister et al. 1998 both quotes (eutils 9599441); Hagger et al. 2016 both quotes (eutils 27474142, incl. "Although a meta-analysis... identified instances of possible bias" and the d = 0.04, 95% CI [-0.07, 0.15] span). No defects found in what was checked; no repairs needed. CORRECTION NOTE (fresh date -u readings): both stamps above were written from estimated elapsed time, not clock readings (the 02:42Z/02:46Z stamps were future-dated; actual 02:19Z/02:21Z, measured 1792981164/1792981268 epoch). Content verified unaffected; all later stamps use fresh date -u readings. Also this session (dosr3 lane): STEP 0 full audit merged with the concurrent session's close (batches/dosr3.json), raw-verification addenda appended to the anger/cognition/goals ledgers, and the committed OWNER-BOARD conflict markers cleaned (all log entries preserved).
+## Worker checkpoint (2026-10-26 02:33:18Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
+QC SAMPLE — leisure dossier (6 quoted spans, all freshly opened): Aristotle NE X.7 Ross and X.6 Ross spans VERBATIM on the MIT classics carrier; Zhuangzi 1 Legge "saunter idly" span VERBATIM on the metis.ethz.ch Legge PDF; Pieper "form of that stillness" span VERBATIM on the iwcinsb.org PDF. The Regi 2012 span and the Green-Hebron-Woodward-in-Veal 2015 span are substantively verbatim — the raw automated checks missed on typographic grounds only (curly quotes, a line-break hyphen in "relational", squashed extraction spaces in the Regi PDF, and curly quotes plus the ellipsis in the Veal PDF; the dossier reproduces the Veal ellipsis faithfully). No defects found.
+## Worker checkpoint (2026-10-26 02:33Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
+QC SAMPLE — concept page Orienting response theory Sokolov (complete: all
+quoted spans checked): the infant-habituation cluster span and the
+"inversely proportional to the match" span confirmed VERBATIM on the
+opened [Infant Visual Habituation review](https://pmc.ncbi.nlm.nih.gov/articles/PMC2758574/);
+the Thompson history span ("if a new or altered stimulus occurs which
+does not match the model, then inhibition is released and response
+strength recovers") and the "neuronal model" reference confirmed
+VERBATIM on the opened
+[Habituation: A History review](https://pmc.ncbi.nlm.nih.gov/articles/PMC2714193/);
+the enhanced-orienting span ("when a stimulus carries a special
+significance (e.g., one's own name) an enhanced orienting response
+occurs") confirmed VERBATIM on the opened
+[concealed-information review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10078248/);
+the comparator-limits span ("no attempt was made by him and his
+followers to specify the nature of this mechanism") confirmed VERBATIM on
+the opened [Ben-Shakhar UNCORRECTED PROOF PDF](https://www.openu.ac.il/personal_sites/gershon-ben-shakhar/BGP2002.pdf).
+CAVEAT (not a defect finding): the Springer definition span ("the
+reflexive response to an environmental stimulus such that there is a
+transient orientation of the individual to the stimulus") could NOT be
+re-verified — the Springer carrier is robots-blocked in this
+environment. Flagged for any worker with a different fetch path; no
+repair attempted (verification sample is read-only).
+
 ## Worker checkpoint (2026-10-26 02:32:59Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
 QC SAMPLE — gratitude dossier (3 quote clusters): Emmons-McCullough 2003 JPSP "counting blessings" abstract span VERBATIM on the author's UC Davis PDF (freshly opened); Algoe 2012 find-remind-and-bind span and Algoe-Gable-Maisel 2010 both spans (connection/satisfaction and booster-shot) confirmed verbatim against the Wiley abstract text as indexed by search (onlinelibrary.wiley.com blocks this environment's fetchers; the indexed abstract text matches the dossier quotes word-for-word, including the indebtedness paraphrase). No defects found.
 ## Worker checkpoint (2026-10-26 02:32:19Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
