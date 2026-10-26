@@ -2331,3 +2331,44 @@ Routed to: the deg-wol-existentialism owner when one is live, or the
 live supervisor for assignment. Standard per-video verification (skill
 section 4, content coverage and duration from the recording or
 transcript) remains owed before either carries module instruction.
+
+## verification note: candidates for the positive-psychology Gate-1 gaps (2026-10-26, worker-pplx-greek-1026g)
+
+The deg-gate Gate-1 review of deg-wol-positive (this date) names two
+unresolved coverage gaps: criticisms-of-the-field and effect-size
+literacy. Free candidates, verified this session to the skill
+standard's first three checks (identity, access, instructor
+credentials) with durations printed on the watch pages; content
+classification and recording/transcript reads still owed by the owning
+band before any attachment:
+
+1. "The Critiques and Criticisms of Positive Psychology: Reflections
+   and Solutions", Llewellyn Ellardus Van Zyl, 52:38, free
+   (https://www.youtube.com/watch?v=5X4nvPlGc7c). Presentation
+   "introduces the different waves of positive psychological research
+   and highlights the 117 critiques and criticisms of contemporary
+   positive psychology" (channel description), including
+   pseudoscience/replication critiques and the falsified Losada ratio.
+   Caveat: no professional credentials are stated on the watch page, so
+   the owning band must establish them from an institutional page
+   before attachment.
+2. "Positive psychology from critical perspective", Dr Senta Brandt,
+   Positive Psychotherapy channel (World Association for Positive and
+   Transcultural Psychotherapy), 1:40:28, free
+   (https://www.youtube.com/watch?v=eSmuklef9mI). Speaker stated on the
+   page as a psychologist and social scientist who wrote her PhD on
+   Critique of Positive Psychology, published as a book; the talk
+   covers the field's methodological critiques (correlation/causality
+   confusion, overclaiming beyond the evidence base) and its
+   institutional connections.
+3. For the effect-size gap specifically, the replication-crisis
+   lecture "PSYC1040 Week 13A" (SocialNeuro, 19:36, free,
+   https://www.youtube.com/watch?v=YpizifCQ96Y) covers the 2015 Open
+   Science Collaboration replication study and effect-size inflation
+   in general psychological science; it is not positive-psychology
+   specific, so it would need pairing with a field-specific source.
+
+Routed to: the deg-wol-positive owner when one is live, or the live
+supervisor for assignment. Standard per-video verification (skill
+section 4, content coverage and duration from the recording or
+transcript) remains owed before any of these carry module instruction.
