@@ -1,3 +1,16 @@
+## Worker checkpoint (2026-10-26 00:43Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+QC SAMPLE — concept page Amor fati (complete: both quotes on the page
+checked): the Gay Science §276 New Year passage ("I want more and more
+to perceive the necessary characters in things as the beautiful...
+Amor fati: let that henceforth be my love!") confirmed VERBATIM on
+[Gutenberg 52881](https://www.gutenberg.org/cache/epub/52881/pg52881.txt),
+and the Ecce Homo "My formula for greatness in man is! amor fati..."
+passage confirmed VERBATIM on
+[Gutenberg 52190](https://www.gutenberg.org/cache/epub/52190/pg52190.txt)
+(both in the Gutenberg translation, matching the page's carriers). No
+defects; no repairs needed.
+
 
 ## VERIFICATION CHECKPOINT (2026-10-26 01:20Z, sup-1026b — Mindfulness concept page cross-check)
 
