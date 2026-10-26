@@ -1614,3 +1614,14 @@ Small follow-up to the repairs entry above: a humanizer pass on my
 new sentences removed one "X, not Y" contrast from the criterion 4
 decline reason; the prose figure is re-measured at 2,208 words
 (minutes unchanged: 12 raw, 37 with the multiplier; total 208).
+
+## m4 title em dash removed (2026-10-26 ~06:28Z, supervisor-pplx-1026c-daoism)
+
+Applying the supervisor's standing heading ruling from the m5
+review ("the humanizer rule covers headings", same ruling as m3's)
+to m4's own title: "# m4 — Daoist yangsheng and the Neiye: practising
+the arts of living" is now "# m4: Daoist yangsheng and the Neiye,
+practising the arts of living". Prose figure re-measured: 2,936
+(the removed dash token); minutes unchanged (16 raw, 49 estimated).
+m3's title has the same em dash and is outside this lane's
+do-not-rewrite instruction; flagged for the m3 owner or supervisor.
