@@ -6343,3 +6343,5 @@ same pass; see its RETRACTION note.)
   [T+37:19] verify lane (no baton): psychdim M5 video cross-check -- 4 recordings confirmed; McAdams audit-vs-module boundary discrepancy flagged (module chapter-anchored 13:31, audit 14:14 not); 2 one-second duration render disagreements; Little window not chapter-anchored. Receipt: docs/degrees/verify/deg-psychdim-m5-consumed-sources-crosscheck-1026c.md
 
   [T+37:37] verify lane (no baton): Kaplin candidate receipt updated -- duration 32:07 + upload Jan 3 2024 confirmed via search-index watch page (closes the open metadata item). Receipt: docs/degrees/verify/deg-psychdim-m1-noba-topics-video-candidate-1026c.md
+
+  [T+38:16] verify lane (no baton): QC sample of deg-verify-b's M5 SCCS receipt -- 2 load-bearing claims (instrument structure; Manchiraju distinctions) both confirmed against primary sources; no defects found. Receipt: docs/degrees/verify/deg-psychdim-m5-sccs-receipt-qc-sample-1026c.md
