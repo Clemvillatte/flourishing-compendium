@@ -40,3 +40,17 @@ Scope note: one module of eight; a full per-capability trace of all modules
 remains open (the coverage matrices record this as provisional). The routed
 items (PD-M3-07 Bazerman extra; PD-M1-07/PD-M7-10 m8 listings) are unaffected
 by this sample.
+
+## Postscript (2026-10-26, same session, advisor QC round 2)
+
+QUALIFICATION: the original receipt above verified the seven entries against
+the MANIFEST as it stood, and six of the seven locators against the doc. The
+seventh, PD-M2-04 (Noba Functions of Emotions), was checked for presence only:
+the manifest and published locator carried the ledger's whole-BODY measurement
+(~2,794 words, Introduction through the end of the social/cultural functions
+section) as if it were the assignment, while the m2 doc's Read section assigns
+about 450 words of specific excerpts ("not the whole module"). The manifest
+entry has been corrected this session and the published locator flagged to the
+schema lane. The PASS verdict stands for the other six entries and for the
+chain structure; PD-M2-04's published locator is OPEN until the schema lane
+applies the correction.
