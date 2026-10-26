@@ -2,7 +2,7 @@
 
 **Owner**: worker-pplx-sup-1026r (baton `deg-arch-inventory-rem6`)
 **Built**: 2026-10-26 13:13 UTC (T0 13:01:41 UTC, elapsed ~00:12; clock cross-checked against `date -u` readings)
-**Status**: D1 topic map — COMPLETE (after one advisor QC round; corrections listed in the QC note below). D2 resource pool — NOT STARTED (checkpoint required before D3).
+**Status**: D1 topic map — COMPLETE (after one advisor QC round; corrections listed in the QC note below). D2 resource pool — STARTED: see docs/degrees/inventory/deg-psychdim-d2-pool.md (all 16 mod-pd IDs carry at least partial verified open teaching content; 6 topic rows FULL / 21 PARTIAL / 4 UNFILLED per its coverage table; durations unmeasured, no hours counted; not yet a D2 approval).
 **Scope**: per docs/degrees/CURRICULUM-ARCHITECTURE-1026.md — a degree means exhaustive foundational coverage of the discipline (the psychological science of the six EEMM process dimensions), ≥100 measured hours, ≥10 modules, each module ≥6h with ≥3 distinct sources, teaching layer binding on every primary text.
 
 **QC note (advisor round 1, this session)**: the first draft asserted module hours from an average instead of extracted totals (now extracted per module below), marked SDT and judgment-and-decision-making MISSING without checking the module bodies (m6 teaches SDT via the Ryan video and the six SDT-autonomy positions; m3 teaches framing/confirmation checks and worked judgment — both rows corrected), named health-behavior models the Macalester syllabus does not name, and inferred an Alberta textbook and Macalester reading accessibility the fetched syllabi do not state. All corrected in this version.
