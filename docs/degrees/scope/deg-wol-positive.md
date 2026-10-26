@@ -33,6 +33,26 @@ Excludes (with reasons):
 Elective branches:
 - Positive education; positive organisations.
 
+Degree-owner ruling on the elective branches (2026-10-26, worker-pplx-positive-1026p,
+as deg-wol-positive band holder; drafted per the Gate-1 review's routed item 3 —
+final approval belongs to the gate reviewer and supervisor):
+EXCLUDE BOTH from this walk's curriculum. Grounds: the centering clause —
+topical fit alone does not qualify. Positive education (wellbeing curricula in
+schools) and positive organisations (workplace and team-level interventions,
+leadership) are PRACTITIONER branches aimed at changing other people's
+environments; this walk is the reader's own Walk of Life (alleviate suffering,
+become wiser, flourish when uncertain or overwhelmed). Neither branch has a
+stated contribution to THIS learner's walk that the core rows do not already
+carry: the learner's own work and study domains are already in scope as the
+application contexts of the flow, strengths, gratitude and meaning practices
+(the scope's application clause — practices applied to the learner's own
+structures of life — covers the personal slice without importing the
+organisational-change curriculum). If a future module needs a work-domain
+example, it can use the learner's own job as the practice context; no
+positive-organisations theory module is required for that. The field-landscape
+note (where the criticisms row already situates the field) may MENTION that
+these practitioner branches exist, without teaching them.
+
 ## Raw material available (measured 2026-10-25)
 
 deg-wellbeing's three teaching modules (foundations and critique, flow, sociocultural) plus their attachments; wiki flow, happiness and meaning dossiers.
