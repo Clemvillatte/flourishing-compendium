@@ -29,7 +29,7 @@ The three syllabi agree on the same skeleton: (a) what is positive psychology an
 
 ### B. Positive emotions
 - Positive emotions; broaden-and-build theory [Haidt C7 10/13 Being Nice with Fredrickson broaden-and-build; UT Tyler W2 Jan 21 Optimism (Happiness Lab: Can You Become a Practical Optimist); CPP topic 3]
-- The positivity ratio; upward spirals [UT Tyler wk 3]
+- The positivity ratio; upward spirals [UT Tyler W6 Feb 16 Hacking Our Emotions (Happiness Lab: How to Identify Your Negative Emotions; Hack Your Emotions)]
 - The science of happiness — set points and adaptation [Haidt C6 10/6 Hedonics and the Setpoint (Kahneman Objective happiness); CPP topic 4]
 - The neuroscience of positive affect [Haidt C7 10/13 Being Nice (Fredrickson broaden-and-build; Emmons Gratitude; McCullough Forgiveness)]
 
@@ -51,7 +51,7 @@ The three syllabi agree on the same skeleton: (a) what is positive psychology an
 - Spiritual wellbeing and transcendence [Haidt C11 11/10 Growth by awe and beauty (Bhagavad Gita Bk 11; Haidt Elevation); CPP topic 12]
 
 ### F. Resilience, growth and post-traumatic growth
-- Resilience; the capacity to recover [Haidt C10 11/3 Growth by adversity (Ryff & Singer Flourishing under fire; Updegraff & Taylor From vulnerability to growth); UT Tyler wk 12; CPP topic 13]
+- Resilience; the capacity to recover [Haidt C10 11/3 Growth by adversity (Ryff & Singer Flourishing under fire; Updegraff & Taylor From vulnerability to growth); UT Tyler W5 Feb 9 Self-Compassion and Embracing Imperfection (Happiness Lab: How to Grow After Adversity; How to Embrace Imperfection); CPP topic 13]
 - Post-traumatic growth; the paradox of suffering [UT Tyler W5 Feb 9 Self-Compassion (Happiness Lab: How to Grow After Adversity; How to Embrace Imperfection); CPP topic 14]
 - Mindset and growth (Dweck) [UT Tyler W4 Feb 4 Mindset and Positive Thinking (Happiness Lab: How to Adopt a Growth Mindset; Don't Accentuate the Positive)]
 
