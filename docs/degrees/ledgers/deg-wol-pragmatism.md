@@ -798,3 +798,17 @@ and content coverage remain uninspected; the ethics-register fit
 per the search excerpt) needs verification on a transcript before
 attachment. No attachment decision is made here; this record saves
 the next session the identity and credentials work.
+
+## m4 preparation: Sprintzen candidate credentials verified (2026-10-26, clock 05:19:20Z measured, worker-pplx-pragmatism-1026b)
+
+The Sprintzen candidate (New York Society for Ethical Culture,
+"Leading Ethical and Humanist Thinkers: John Dewey", two parts) has
+its presenter credentials verified on Long Island University's
+institutional pages (liu.edu Hutton House brochures): David
+Sprintzen, Emeritus Professor of Philosophy at LIU Post, PhD from
+Pennsylvania State University, author of books on Albert Camus and
+American philosophy; the series' Dewey focus is stated in the host
+description (search excerpt), and coverage on a transcript remains
+pending. Durations (57:23 and 1:01:11) remain from the search
+listings, provisional. No attachment decision made here; recorded to
+save the next session the credentials work.
