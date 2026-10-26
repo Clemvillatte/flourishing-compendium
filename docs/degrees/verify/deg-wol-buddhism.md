@@ -850,3 +850,17 @@ retrieved (2026-10-26T05:26Z; corrected 05:31Z per advisor QC)
   1:40:17).
 - Auto-captions: subject classification and coverage evidence only;
   not a verbatim quotation carrier.
+
+### B-V22 — b5 Fronsdal quote caption check (2026-10-26T05:37Z)
+
+- The b5 module quotes the b2 factor talk with "Fear is taken
+  very personally." Retrieved caption texts for BOTH the official
+  venue mirror (yrbgt6ZVYAk, 54,755 chars) and the fan channel
+  (9ySzMWwdigg, 54,534 chars) do NOT contain the quote, the phrase
+  "very personally", or a "fear is" construction. Auto-captions
+  paraphrase, so caption absence is not disproof of the spoken
+  words; the check is INCONCLUSIVE from captions alone. ROUTE owner:
+  if a verbatim quotation carrier is required for the factor's
+  quote, it needs a human-reviewable primary source (per
+  PRIMARY-SOURCES.md, a human-checked print or broadcast transcript)
+  — not an auto-caption track.
