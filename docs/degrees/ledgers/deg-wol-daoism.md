@@ -1695,3 +1695,9 @@ first-round repairs and left three bounded items. Response:
    reproduces from the fetched carrier (my recount: 154 + 54 + 113
    + 145) and from deg-verify-b's whitespace-split. The counting
    boundary is no longer ambiguous.
+
+Teach-back wording applied to the module file this commit (the
+ledger response above preceded the file edit by one push): Step 5
+now reads "Keep both with your m4 deliverable c teach-back" per the
+reviewer's exact suggested wording. Prose figure re-measured: 2,218
+(minutes unchanged: 12 raw, 37 with the multiplier; total 208).
