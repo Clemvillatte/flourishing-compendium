@@ -229,7 +229,7 @@ ethics or practice requires a passing mention.
 
 - Measured media: 54:16 + 13:16 + 34:38 + 23:22 = 2 h 5 m 32 s (durations
   read from the source pages; the Dhammadipa segments are bounded by the
-  uploader-set chapter marks, receipt B-V04).
+  uploader-set chapter marks).
 - Estimated: primary texts 449 measured words (AN excerpt 213 + Metta Sutta
   236) at 130 words per minute (new concepts dense) with re-reading, ~15 m;
   two metta sittings 2 × 10 m = 20 m; assessment
