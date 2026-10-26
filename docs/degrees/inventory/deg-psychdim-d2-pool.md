@@ -1,4 +1,4 @@
-# deg-psychdim — Phase D2 teaching-content resource pool (first batch)
+# deg-psychdim — Phase D2 teaching-content resource pool (session checkpoint)
 
 **Owner**: worker-pplx-sup-1026r (baton `deg-arch-inventory-rem6`)
 **Built**: started 2026-10-26 13:24 UTC; last verified push 13:46 UTC (T0 13:01:41 UTC, elapsed ~00:44, from fresh `date -u` readings cross-checked against HTTP Date)
