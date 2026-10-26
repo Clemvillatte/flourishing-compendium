@@ -70,11 +70,11 @@ Rows in the D1 coverage matrix with any open-carrier evidence. Each row below st
 
 The spec's mandatory checkpoint: the D1 map + this D2 matrix go to the reviewer together. The reviewer's decisions owed:
 
-1. Whether the Mahayana, Chan/Zen, and Vajrayana blocks can be filled from open carriers (the public-domain Legge/Goddard Heart and Diamond Sutras, the 84000 Tibetan project, the Platform Sutra) or whether those rows are excluded on the finite-scope rule.
+1. Whether the Mahayana, Chan/Zen, and Vajrayana blocks are adequately carried at HISTORY/SURVEY teaching level by BUD-TEACH-6 (OBU "Buddhism as a Religion", page-verified, names the Rise of Mahayana, Pure Land, Chan/Zen in China and Japan, Tibetan Buddhism, and Vajrayana) or whether the reviewer requires primary-text access — NOTE per the owner's teaching-content-only ruling (bad5c55b8) primary-text link-hunting is out of D2 scope and the owner-library pointer at docs/PRIMARY-SOURCES.md governs those texts.
 2. The SuttaCentral verification pass and the Abhidhamma licence check named above.
 3. The hours arithmetic — measured against the module docs, not estimated.
 4. The optional rows in the D1 matrix (Kyoto School, Santideva, Huayan, etc.) — the D2 evidence makes these the exclusion candidates.
 
 ## D2 handoff
 
-The next agent (baton `deg-arch-build` or the same holder) continues: the Mahayana open-carrier pass (Heart/Diamond Sutras on sacred-texts; the 84000 project; the Platform Sutra), the SuttaCentral direct fetch, the Abhidhamma per-sutta licence check, and the Vajrayana/FPMT pass; then the hours arithmetic; then the checkpoint goes to the reviewer. The D1 file at deg-wol-buddhism.md is the topic map; this file is the resource pool; the matrix above is the single point of truth for what is verified open.
+The next agent (baton `deg-arch-build` or the same holder) continues: the FPMT-style Vajrayana practice-teaching verification pass (BUD-TEACH-6 covers Vajrayana at survey level only), the SuttaCentral direct fetch, the Abhidhamma per-sutta licence check, and the Shin Dharma Net course's content inspection (BUD-TEACH-7, page-verified; the course materials themselves were not read); then the hours arithmetic; then the checkpoint goes to the reviewer. The D1 file at deg-wol-buddhism.md is the topic map; this file is the resource pool; the matrix above is the single point of truth for what is verified open.
