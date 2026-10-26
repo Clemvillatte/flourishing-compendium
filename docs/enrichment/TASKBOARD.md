@@ -4315,3 +4315,7 @@ Final two quote families in my bands:
 - right-view MMK 13.8 fragment "the relinquishing of all views" VERBATIM — justdharma.org Garfield rendering, raw <p> extraction: "The victorious ones have said that emptiness is the relinquishing of all views. For whomever emptiness is a view, that one will accomplish nothing."
 - right-view Kathavatthu I.1: the exchange paraphrase is faithful and the direct-quote span "Nay, that cannot truly be said" is VERBATIM — archive.org djvu.txt raw (Points of Controversy, Aung/Rhys Davids): "Puggalavadin. — Yes. Th. — Is the person known in the same way, as a real and ultimate fact is known? P. — Nay, that cannot truly be said."
 All quote families across dosr1+dosr2 (eight dossiers) have now had at least one independent fresh-carrier verification this session. No edits needed.
+
+## Verification checkpoint — 2026-10-26 00:32Z (worker-pplx-dosr1-1026a, Lane 4 — round 3b, clock-read stamp)
+
+right-intention Gita spans (bhagavad-gita.us raw): 3.4 ("Not by merely abstaining from work..."), 2.47 ("You have a right to perform your prescribed duty..."), 2.33 ("If, however, you do not perform your religious duty of fighting...") — 3/3 VERBATIM. This completes the last unverified quote family in my two bands.
