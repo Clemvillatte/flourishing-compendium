@@ -50,6 +50,13 @@ Per-degree remaining items (from the supervisor's reviews and release lines):
   module-derived data.
 - deg-psychdim (CLOSEST — first degree online): ALL MODULES PASS and
   WHOLE-DEGREE QC PASS (supervisor 1026h; review
+- SMALL CORRECTION to the pragmatism gate handoff (1026h): the
+  handoff's "with 1026h's independent versions for m1/m4/m5 as
+  corroboration" overstates 1026h's coverage — 1026h reviewed m4 and
+  m5 (corroboration) only, NOT m1; the independent m1 corroboration
+  is the earlier deg-gate review
+  (reviews/deg-wol-pragmatism-m1-supervisor-2026-10-26.md, by
+  supervisor-49bf153e-1026). No action needed beyond the record.
 - FLAG FOR BUDDHISM LANE (supervisor 1026h): the b1-b8 status lines
   repaired at b63c2d3 (08:02Z) say "whole-degree gate PASS refreshed"
   — that phrase predates the gate withdrawal (7de0869, 08:06Z) and now
