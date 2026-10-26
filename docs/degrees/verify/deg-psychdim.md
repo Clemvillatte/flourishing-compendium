@@ -435,6 +435,29 @@ credentials are checked separately from article affiliations.
 - **Status:** verified reading, English; anonymous full text,
   identity, bounded content and independent credential checked.
 
+### M3 production note: commentary appraisal has a different evidentiary limit
+
+The existing coverage row promises appraisal of a rumination-induction
+study. Ehring's commentary summarises such research, but it does not
+report a particular experiment's sample, allocation, full procedure,
+comparator and numerical results. The PD-V08 excerpt above also starts
+after the paragraph introducing that experimental evidence
+([complete commentary](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/)).
+Do not ask learners to invent these details or treat a synthesis as
+though they had read a primary experiment.
+
+**Bounded proposal, with no new source:** rename the activity
+“Appraising a commentary's claim about experimental evidence” and add
+the short paragraph beginning “Converging evidence comes from
+experimental research” if that claim is assessed. Ask the learner to
+distinguish the synthesis from an experiment report and identify the
+missing information needed to judge a causal claim
+([paragraph and references](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/)).
+Credit “not reported/cannot assess” where appropriate. Alternatively,
+defer primary-study appraisal. This is a source-to-task alignment flag,
+not a reversal of the coverage gate or a request for another required
+paper.
+
 ## PD-V09: Self-endorsed effort is not the same as enjoyment
 
 - **Opened:** 2026-10-26, verifier-96108df3. Search and unprompted
@@ -761,6 +784,9 @@ credentials are checked separately from article affiliations.
   the character toward, one contextual constraint and
   two possible responses. This is a proposed educational
   exercise; the page does not establish its effectiveness.
+  More than one response may be reasonable, and
+  “uncertain” is acceptable; a feeling mandates no
+  particular action.
   It earns its place only if M2 needs this response-choice
   distinction alongside the regulation material in PD-V10.
 - **Boundaries:** the selected passage does not teach the
@@ -777,3 +803,97 @@ credentials are checked separately from article affiliations.
   coauthor credential checked. Narrow placement
   proposal only; no curriculum expansion, recency
   credit or gate clearance.
+
+## PD-V14: Existing conditioning reading, cues, consequences and habits
+
+- **Opened:** 2026-10-26, verifier-96108df3. Complete,
+  unprompted
+  [Noba chapter](https://nobaproject.com/modules/conditioning-and-learning),
+  independent institutional profile, and the public abstract
+  of one cited study used only to check a claim's scope.
+  This is the existing M3/M7 candidate, not a new topic.
+- **Identity and access:** Mark E. Bouton, *Conditioning and
+  Learning*, Noba textbook series. Anonymous English full
+  text, CC BY-NC-SA 4.0; 2026 is the page's suggested
+  citation year, with no first-publication date established
+  by that field
+  ([chapter, byline and licensing](https://nobaproject.com/modules/conditioning-and-learning)).
+- **Independent credential:** the
+  [University of Vermont profile](https://www.uvm.edu/cas/psychology/profile/mark-bouton)
+  identifies Bouton as University Distinguished Professor
+  Emeritus, with a University of Washington PhD, and
+  describes research on learning, extinction, context and
+  habits. Use the institutional emeritus wording rather
+  than treating the chapter's Lawson Professor biography
+  as a freshly verified appointment.
+- **Exact proposed assignment:** the glossary entries for
+  classical conditioning, conditioned stimulus,
+  conditioned response, unconditioned stimulus,
+  unconditioned response, instrumental conditioning and
+  discriminative stimulus; the first three paragraphs of
+  *Instrumental Responses Come Under Stimulus Control*,
+  ending with the artist example's “painting to occur”;
+  and *Cognition in Instrumental Learning*, stopping
+  before *Putting Classical and Instrumental Conditioning
+  Together*
+  ([specified content](https://nobaproject.com/modules/conditioning-and-learning)).
+- **What that selection supports:** distinguishing
+  stimulus associations from action–consequence
+  relations, recognising a cue that sets the occasion
+  for action, and understanding how the chapter's
+  animal devaluation examples distinguish goal-directed
+  action from habit. These examples are not direct
+  evidence that an individual's frequent routine is
+  insensitive to its outcome
+  ([glossary and selected sections](https://nobaproject.com/modules/conditioning-and-learning)).
+- **Walk of Life task:** for a low-stakes fictional
+  routine, identify a possible cue, an action and a
+  consequence, then state what further evidence would
+  be needed before calling it a habit in the
+  devaluation sense. Allow more than one plausible
+  account. No induced illness, fear exposure,
+  deprivation, substance use or manipulation of
+  another person is part of this proposed task.
+- **Workload measurement:** the selected glossary
+  entries contain approximately 190 words; the three
+  cue-control paragraphs, including their heading,
+  240; and the cognition section, including its
+  heading and text caption, 511. Total approximately
+  941 words, counted from the opened cleaned text
+  with a Unicode word-token rule, not measured reading
+  time
+  ([counted source](https://nobaproject.com/modules/conditioning-and-learning)).
+  At the house planning rate of 130 words per minute
+  for many new concepts, this is about 7.2 minutes
+  of raw reading; three to four times that for
+  study is approximately 22–29 minutes. These are
+  planning estimates, excluding the learner task.
+  If M7 revisits the same material, count the first
+  reading once and budget the later retrieval or
+  application separately.
+- **Pre-production safety boundary:** do not assign
+  the entire drug-cue section by default. It contains
+  a generalisation about the usual cause of overdose.
+  The public abstract of its cited Siegel et al.
+  1982 paper describes animal experiments evaluating a model and
+  says conditioned responses contribute alongside
+  pharmacological factors; the abstract does not
+  establish the asserted frequency in human
+  overdoses
+  ([chapter claim and reference](https://nobaproject.com/modules/conditioning-and-learning);
+  [public abstract, not full-text verification](https://pubmed.ncbi.nlm.nih.gov/7200260/)).
+  No prevalence conclusion or substance-use advice
+  should be derived from this verification.
+- **Other limits:** the chapter mixes childhood,
+  animal and adult illustrations and contains
+  clinical extinction examples. Those are outside
+  the proposed assignment. The selected laboratory
+  material does not establish that a self-designed
+  routine will alleviate suffering or help its user flourish
+  ([full chapter](https://nobaproject.com/modules/conditioning-and-learning)).
+- **Status:** existing candidate's full content,
+  access, author identity and independent credential
+  checked; exact excerpt and workload proposed.
+  The cited drug study received abstract-only
+  scrutiny and is not a learner resource or a
+  verified full-text primary study. No gate clearance.
