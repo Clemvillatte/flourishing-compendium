@@ -1085,7 +1085,7 @@ does not authorize M6 prose or change the M2–M8 hold.
 The continuation reopened the
 [2024 habit-formation review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)
 and checked PD-V04's proposed boundaries: Results 3.2–3.5 plus the
-first Discussion paragraph beginning “Despite its strengths.”
+Discussion limitations paragraph beginning “Despite its strengths.”
 The saved native extraction yields 1,570 word-like tokens for those
 Results sections and 334 for the limitations paragraph, using
 letter/number tokens with internal apostrophes or hyphens retained.
@@ -1110,3 +1110,14 @@ uncontested fact or silently repair the source's classification.
 PD-V04's existing limits on automaticity times and pre/post effect
 sizes remain supported; no new reading, module prose or gate action
 follows from this check.
+
+### Review status of the latest additions
+
+The M1 Noba clarification has independent read-only acceptance as a
+nonblocking source-use note; the three scoped pedagogical repairs
+remain closed. Independent review was requested for the later M4
+alignment proposal and M7 count/excerpt check, but no acceptance of
+those additions is recorded here yet. The earlier independent M4
+source-boundary acceptance should not be mistaken for review of the
+new alignment packet. None of these verification updates lifts
+the M2–M8 prose hold or clears a degree gate.

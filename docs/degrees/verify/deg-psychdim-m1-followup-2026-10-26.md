@@ -230,3 +230,13 @@ The missing support concerns the forecast's probability given the
 stated premise. This is a nonblocking clarification, not a categorical
 wrong-answer-key finding; M1-PED-01, M1-PED-02 and M1-PED-03 remain
 closed, and the existing supervisor-QC route is unchanged.
+
+## Internal status-text follow-up
+
+The module opening still describes a pending supervisor ruling and
+independent review. At the next authorized status-text pass, distinguish
+the completed independent acceptance of the three scoped repairs from
+the outstanding supervisor module-QC and unresolved owner Phase 0
+decision. The documented ruling permits the bounded M1 repair/review
+work; it does not lift the M2–M8 hold. This is a workflow-metadata
+clarification, not another pedagogical blocker or publication approval.

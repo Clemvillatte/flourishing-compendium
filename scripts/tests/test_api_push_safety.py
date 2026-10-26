@@ -36,6 +36,8 @@ class PushSafetyTests(unittest.TestCase):
             if "show" in args:
                 self.assertEqual(args[-1], "local:new.py")
                 return b"new content\n"
+            if "ls-tree" in args:
+                return "100755 blob blob-sha\tnew.py\n"
             return "test metadata\n"
 
         trees = []
@@ -69,6 +71,7 @@ class PushSafetyTests(unittest.TestCase):
         self.assertIn({"path": "old.py", "mode": "100644",
                        "type": "blob", "sha": None}, trees[0]["tree"])
         self.assertTrue(any(item["path"] == "new.py" and
+                            item.get("mode") == "100755" and
                             item.get("content") == "new content\n"
                             for item in trees[0]["tree"]))
 
@@ -76,6 +79,8 @@ class PushSafetyTests(unittest.TestCase):
         def output(args, **kwargs):
             if "show" in args:
                 return b"new content\n"
+            if "ls-tree" in args:
+                return "100644 blob blob-sha\tnew.py\n"
             return {"HEAD": "local\n", "origin/main": "remote\n",
                     "local^{tree}": "expected-tree\n"}[args[-1]]
 

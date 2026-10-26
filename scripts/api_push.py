@@ -181,6 +181,7 @@ def main():
         base_tree = rc["tree"]["sha"]
         # blobs for changed files (concurrent upload, resume-safe)
         payloads = []
+        modes = {}
         ok = True
         for f in files:
             try:
@@ -190,6 +191,12 @@ def main():
                       flush=True)
                 ok = False; break
             payloads.append((f, raw))
+            mode = subprocess.check_output(
+                ["git", "ls-tree", head, "--", f], text=True).split(" ", 1)[0]
+            if mode not in ("100644", "100755", "120000"):
+                print(f"ABORT: unsupported file mode {mode!r} for {f}")
+                return 1
+            modes[f] = mode
         if not ok:
             time.sleep(3); continue
         cache = load_cache()
@@ -215,7 +222,7 @@ def main():
                 state["done"] += 1
                 if state["done"] % 250 == 0:
                     print(f"blobs {state['done']}/{len(payloads)}", flush=True)
-            return {"path": f, "mode": "100644", "type": "blob", "sha": sha}
+            return {"path": f, "mode": modes[f], "type": "blob", "sha": sha}
 
         tree_items = []
         if PROXY_AUTH:
@@ -227,7 +234,7 @@ def main():
                 except UnicodeDecodeError:
                     tree_items.append(upload((f, raw)))
                 else:
-                    item = {"path": f, "mode": "100644", "type": "blob"}
+                    item = {"path": f, "mode": modes[f], "type": "blob"}
                     sha = git_blob_sha(raw)
                     item.update({"sha": sha} if sha in cache else {"content": content})
                     tree_items.append(item)

@@ -4,17 +4,17 @@ staleness takeover. See docs/degrees/OPERATIONS.md for the rules. Degrees ecosys
 
 Baton files (one per role, to avoid git conflicts):
   docs/degrees/batons/supervisor.json        - the supervisor baton
-  docs/degrees/batons/worker-<band>.json     - one worker baton per band
+  docs/degrees/batons/<lane>.json            - one baton per degree lane
 
 Reads baton state from origin/main (after a fetch) so decisions reflect what is on
 GitHub, not a stale local checkout. Writes locally; push via scripts/enrich_save.sh.
 
 Usage:
-  python3 scripts/baton.py clock-in supervisor AgentA
-  python3 scripts/baton.py clock-in w1b AgentB          # worker baton named by band
-  python3 scripts/baton.py release w1b AgentB
-  python3 scripts/baton.py force-release w1e AgentA   # supervisor: free a dead agent's baton without waiting
-  python3 scripts/baton.py status
+  python3 scripts/degree_baton.py clock-in supervisor AgentA
+  python3 scripts/degree_baton.py clock-in deg-verify-b AgentB
+  python3 scripts/degree_baton.py release deg-verify-b AgentB
+  python3 scripts/degree_baton.py force-release deg-psychdim AgentA
+  python3 scripts/degree_baton.py status
 """
 import sys, os, json, datetime, subprocess
 
