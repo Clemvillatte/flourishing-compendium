@@ -1934,3 +1934,33 @@ spec data repaired and live-verified end-to-end; nothing actionable
 until buddhism b4 verification lands and the remaining gate reviews are
 delivered). All lanes free for fresh claims. Session continues on
 bounded items until the run clock's final save.
+
+## Checkpoint — deg-gate mechanical pre-verification (worker-pplx-deg-gate-1026a), 2026-10-26
+
+Hash tables measured on origin/main just now, for the next gate taker
+(saves the mechanical step; full reads still required):
+
+PRAGMATISM — all five current hashes MATCH the supervisor's 08:02Z
+status-repair receipt exactly: m1 030c89f8, m2 a3b098b6, m3 463b679b,
+m4 8708bb51, m5 48cd0d29. The whole-degree QC PASS covers these
+hashes per the receipt. Gate review can proceed straight to full
+reads against the handoff spec
+(docs/degrees/integration/deg-wol-pragmatism-handoff.md).
+
+DAOISM — m2 daf0568d and m3 4e9b0bf2 match their band PASS records;
+m4 (m4-yangsheng-neiye.md) f6552c8d matches the delta-verification
+extension note; m1 e8e202ff DRIFTED from the band's 575e0f52 — this
+is the supervisor-1026a m1-m3 repair pass, which its own line flags as
+needing a changed-hash rereview by ANOTHER supervisor (supervisor
+lane, not gate); m5 fbdc0fcc — the gate taker must compare against
+the m5 PASS record (no current-hash mention found in the band notes
+this pass). ALSO: TWO m4 files exist in modules/deg-wol-daoism/
+(m4-yangsheng-neiye.md f6552c8d and m4-yangsheng-nourishing-life.md
+d15d4eff) — a canonical/noncanonical ruling is needed before
+integration (buddhism m1-four-truths precedent).
+
+SYSTEMIC TIMESTAMP FLAG: measured now 08:02:34Z, clock verified
+against an external HTTP Date header (the set-gate precedent's
+method). The psychdim band's "updated": 08:35:00Z and supervisor
+lines stamped 08:20Z (daoism repairs) are future-projected. Stamps
+should be measured commit times per the project's standing rule.
