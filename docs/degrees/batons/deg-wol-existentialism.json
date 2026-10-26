@@ -15,5 +15,7 @@
    "from": "worker-pplx-exist-1026p",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-26T09:53:26+00:00"
 }
