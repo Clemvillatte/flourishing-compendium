@@ -80,10 +80,13 @@ module. No paywalled or app-gated content anywhere in the set.
    **UPDATE (06:10Z, deg-verify-a):** the worker has since done this in
    b5 v1.3 (commit 36c1c35, 05:55:15Z): full volume opened on the
    Amaravati CDN, two teachings selected with measured first/last
-   boundaries and word counts ("Making the Heart Good" ~2,720 words,
-   "Our Real Home" ~4,500 words), workload recomputed. The discharge is
+   boundaries and word counts (the module prints ~3,050 and ~4,490
+   words; the commit message's ~2,720/~4,500 figures were superseded
+   by the module text), workload recomputed. The discharge is
    grounded in the worker's own opened-source receipt, not merely
-   B-V16's access check.
+   B-V16's access check. **QC (B-V24, 06:22Z):** boundary sentences
+   verbatim and word counts corroborated; a minor 2-page start-page
+   offset in the printed-page references routed to the b5 owner.
 2. **Content inspection owed (module-QC/verify lane):** b4 Brahmali
    session 1 (PARTIAL — chapter timestamps from the description, no
    transcript accessible; classification and caption availability

@@ -977,3 +977,31 @@ moments plus possible uploader chapters, but no markerType /
 automatically_generated flag was returned by the route. The module's
 "no chapter list" claim stands unless a browser-visible check
 establishes uploader authorship; item stays routed as supplementary.
+
+### B-V24 — b5 v1.3 assignment QC (2026-10-26T06:22Z; verify-pplx-w3-1026a, deg-verify-a)
+
+Sampled the worker's v1.3 two-teachings assignment against the
+Amaravati volume PDF itself (downloaded this pass, 8,792,265 bytes,
+same URL as the module's source table):
+
+- **"Making the Heart Good" boundaries VERBATIM:** opens "These days
+  people are going all over the place looking for merit." (the PDF
+  prints it small-caps with a footnote marker) and closes "...if the
+  Dhamma really reaches the mind it's imperishable, it's there for
+  good. And you don't have to waste money on batteries." — both match
+  the module's Step 2 statements exactly. Word count measured this
+  pass: ~2,989 (module prints ~3,050) — corroborated within
+  extraction/running-head noise.
+- **"Our Real Home" boundaries VERBATIM:** opens "Now determine in
+  your mind to listen respectfully to the Dhamma." and closes "...I
+  am happy to have been able to give you this gift of Dhamma and
+  hope it will give you the strength to deal with your pain." —
+  both match. Measured ~4,441 words (module prints ~4,490) —
+  corroborated within noise.
+- **Minor page-range discrepancy — routed to the b5 owner:** the
+  volume prints Chapter Eleven opening on **printed p. 123** (module
+  says pp. 125-132) and Chapter Thirteen opening on **printed p. 143**
+  (module says pp. 145-156); the closing pages (132, 156) match. A
+  systematic 2-page offset in the two start-page references; correct
+  or re-measure. Not blocking; the first/last sentences are the
+  operative assignment boundaries and they are exact.
