@@ -610,7 +610,7 @@ attached) and the proposed Neiye elective:
   cover it.
   the primary text (the video-first policy allows the fallback).
 
-### m4 Linnell Gutenberg carrier verified (2026-10-26T06:16Z; verify-pplx-w3-1026a, deg-verify-a)
+### m4 Linnell Gutenberg carrier verified (commit e9ba5a1, 2026-10-26T06:05:34Z — stamp corrected this pass from an estimated 06:16Z; verify-pplx-w3-1026a, deg-verify-a)
 
 The receipt m4's verification section needs (the Eno receipt above does
 not cover this carrier):
@@ -654,7 +654,7 @@ not cover this carrier):
   convention used (presumably the standard division) or cite the
   rule-delimited position instead. Minor, routed, not blocking.
 
-### m4 Komjathy video re-verification (2026-10-26T06:15Z; verify-pplx-w3-1026a, deg-verify-a)
+### m4 Komjathy video re-verification (commit 1ed51cd, 2026-10-26T06:06:52Z — stamp corrected this pass from an estimated 06:15Z; verify-pplx-w3-1026a, deg-verify-a)
 
 The supervisor's m4 routing (video re-verification to deg-verify-a):
 
@@ -691,7 +691,7 @@ The supervisor's m4 routing (video re-verification to deg-verify-a):
   its authorship should be established before relying on it (per
   the B-V23 b7 key-moments rule).
 
-### m4 Linnell receipt limit RESOLVED (2026-10-26T06:17Z; verify-pplx-w3-1026a, deg-verify-a)
+### m4 Linnell receipt limit RESOLVED (commit dd8529b, 2026-10-26T06:07:22Z — stamp corrected this pass from an estimated 06:17Z; verify-pplx-w3-1026a, deg-verify-a)
 
 The "Limit stated honestly" item in the m4 Linnell carrier receipt
 above (section-numbering not confirmed as printed labels) is now
@@ -712,7 +712,7 @@ resolved by direct measurement on the fetched carrier:
   — matching m4's printed "550 words measured on the assigned
   sections" precisely. The module's measurement is fully reconciled.
 
-### Timestamp correction (2026-10-26T06:10:20Z; verify-pplx-w3-1026a, deg-verify-a)
+### Timestamp correction (commit b5ee770, 2026-10-26T06:09:52Z — stamp corrected this pass from an estimated 06:10:20Z; verify-pplx-w3-1026a, deg-verify-a)
 
 The stamps written in this session's daoism receipts ("06:12Z",
 "06:15Z", "06:16Z", "06:17Z") were manually estimated from a mis-scaled
@@ -725,7 +725,7 @@ m4 Komjathy re-verification receipt 06:06:52Z; m4 Linnell
 limit-resolution 06:07:22Z. All work described was performed in the
 05:47:11Z-06:09:28Z session window; content above is unchanged.
 
-### m4 Komjathy duration conflict RESOLVED — module CORROBORATED (2026-10-26T06:18Z; verify-pplx-w3-1026a, deg-verify-a)
+### m4 Komjathy duration conflict RESOLVED — module CORROBORATED (commit 15199cb, 2026-10-26T06:15:59Z — stamp corrected this pass from an estimated 06:18Z; verify-pplx-w3-1026a, deg-verify-a)
 
 The duration conflict routed above is WITHDRAWN after a raw-page
 fetch: the player displays **53:43**, and the structured page metadata
@@ -746,7 +746,7 @@ The same raw fetch resolves the receipt's other open points:
 - **Chapter/key-moment list** prints on the page (authorship still
   not established — the earlier note stands).
 
-### Neiye canonical-hosting check (2026-10-26T06:22Z; verify-pplx-w3-1026a, deg-verify-a)
+### Neiye canonical-hosting check (commit 8167308, 2026-10-26T06:18:12Z — stamp corrected this pass from an estimated 06:22Z; verify-pplx-w3-1026a, deg-verify-a)
 
 Follow-up on the Eno receipt's canonical-hosting caveat: IU
 ScholarWorks hosts Eno's "Teaching Materials" collection (77 items;
@@ -761,7 +761,7 @@ environment. Recorded as a negative result; the Eno receipt's hosting
 caveat stands unchanged, and the m4 owner's Linnell carrier (verified
 above) remains the attached source.
 
-### m4 routed-item closure note (2026-10-26T06:26Z; verify-pplx-w3-1026a, deg-verify-a)
+### m4 routed-item closure note (commit 0991682, 2026-10-26T06:19:38Z — stamp corrected this pass from an estimated 06:26Z; verify-pplx-w3-1026a, deg-verify-a)
 
 The taskboard's m4 line (wave-3 agent) routes "Lundao 5 whole-talk
 assignment vs module scope + content re-verification" to deg-verify-a
@@ -772,37 +772,48 @@ docs/degrees/evidence/deg-wol-daoism/". Two facts for the supervisor:
   exists in the repo this pass (the m4 collision reconciliation is
   ledger-recorded at the "m4 collision reconciliation" entry instead).
   Whoever owns that taskboard line should fix the pointer.
-- **The video re-verification is COMPLETE** (receipts above in this
-  file): identity, channel, credentials, duration (53:43 — module
-  correct), captions (English auto-generated track listed), and
-  chapter list all checked; every check resolved in the module's
-  favor. What remains on that line is NOT a verification fact but a
-  scope ruling — whether assigning the whole 53:43 talk fits the m4
-  module's scope — which belongs to supervisor module-QC.
+- **Reopened this pass (advisor round 3):** the routed line asked
+  for CONTENT re-verification, and the checks completed were METADATA
+  checks only (identity, channel, credentials, duration 53:43,
+  caption-track listing, chapter list — all resolved in the module's
+  favor). Three separate statuses, not "complete":
+  1. Metadata checks: completed, within their documented limits.
+  2. Lecture CONTENT: NOT independently rechecked through available
+     routes (transcript route remained unavailable this session);
+     the module's content claims rest on the production side's
+     reading, not on this lane's verification.
+  3. Whole-talk-vs-module-scope ruling: pending supervisor review.
+  This routed item is NOT closed; statuses 2 and 3 remain open.
 
-### Neiye hosting follow-up (2026-10-26T06:31Z; verify-pplx-w3-1026a, deg-verify-a)
+### Neiye hosting follow-up (commit 5369e9e, 2026-10-26T06:20:43Z — stamp corrected this pass from an estimated 06:31Z; verify-pplx-w3-1026a, deg-verify-a)
 
-Closing the canonical-hosting question with better evidence this pass:
-- The OLD canonical host pattern (www.libraries.iub.edu) is a DEAD
-  HOSTNAME (connection refused; the libraries site has migrated to
-  libraries.indiana.edu, whose public search is a Serials Solutions
-  discovery app with no faculty-text pages in static HTML).
-- A domain-restricted search of iu.edu finds Robert Eno's CURRENT
-  faculty entries (EAST Asian Studies Center people directory; IU
-  Academic Bulletins Philosophy faculty — Professor Emeritus) but NO
-  Neiye / "Inner Enterprise" text page anywhere on iu.edu.
-- ScholarWorks remains negative for a Neiye item (re-checked this
-  pass; the earlier search URL now 301-redirects).
-Conclusion: the module's dyhr.com fallback is well-grounded — no
-live iu.edu URL for the Neiye text is findable by search this pass.
-This does not change the standing recommendation (owner re-checks
-licensing at publication); it removes the "canonical host merely
-unreachable" possibility in favor of "not findable".
+CORRECTED THIS PASS (advisor round 3): the original entry
+overclaimed. What the checks actually established, no more:
+- One hostname (www.libraries.iub.edu) failed to connect (HTTP 000
+  via curl; cause not diagnosed — refusal, timeout and DNS failure
+  are not distinguished).
+- A different hostname (libraries.indiana.edu) returned HTTP 200;
+  its public search is a JS discovery app with no results in static
+  HTML (absence of results in static HTML is NOT evidence of absence
+  of the text).
+- One domain-restricted web search of iu.edu found Eno's faculty
+  entries but no Neiye text page (a single search engine's index is
+  weak evidence of absence).
+- One ScholarWorks request returned HTTP 301 (a redirect, not a
+  negative result).
+Withdrawn conclusions: "dead hostname", "site migrated", "no Neiye
+page findable", "fallback well-grounded", "removes the merely
+unreachable possibility". Standing status, unchanged from the
+original receipt: canonical hosting remains UNCONFIRMED through the
+routes checked; the third-party dyhr.com copy and its licensing
+caveat remain; owner re-checks licensing at publication.
 
-### m5 capstone quote QC sample (2026-10-26T06:22Z; verify-pplx-w3-1026a, deg-verify-a)
+### m5 capstone quote QC sample (commit 8246ea7, 2026-10-26T06:21:39Z — stamp corrected this pass from an estimated 06:22Z; verify-pplx-w3-1026a, deg-verify-a)
 
-Stamp corrected 06:23Z: the initial save carried a mis-typed
-06:40Z header; the receipt was written at 06:21:42Z (measured).
+Correction note itself corrected this pass: the 06:23Z stamp was
+also estimated. Measured facts: receipt commit 8246ea7 at 06:21:39Z;
+this correction commit b5ee770-lineage successor at the time recorded
+in the stamp-audit entry below.
 
 No m5 receipt existed in this lane file (the capstone's quote
 verification was recorded by the production side), so an independent
@@ -824,13 +835,46 @@ v1.4, ScholarWorks bitstream, downloaded fresh this pass):
 - **Chapter 67:** three treasures ✓ ("Compassionate, thus I can
   have valor ... frugal ... unwilling to take the lead"); the
   discard sentence present ✓ ("Now were I to discard compassion ...").
-- **Workload claim:** module says "466 assigned words" for the four
-  chapters; carrier count this pass is 473 (excluding chapter-number
-  tokens; ch. 44 = 54 and ch. 50 = 113 corroborate the production
-  side's own earlier measurements exactly). The ~1.5% gap is
-  attributable to dash/hyphen counting conventions; not a blocking
-  flag — owner may align the figure if desired.
-Conclusion: the m5 capstone's Daodejing quotations all verify
-against the module's carrier. The m4 duplicate file situation
-(m4-yangsheng-nourishing-life.md, noncanonical per the ledger's
-collision reconciliation) is already on record; no action owed.
+- **Workload claim — UNREPRODUCED, ROUTED (advisor round 3):** the
+  module says "466 assigned words" for the four chapters. Counting
+  rule this pass: whitespace-split of the PDF-extracted flat text
+  between each chapter's "NN." marker and the next chapter's,
+  excluding the chapter-number token itself, gives 473 (ch. 20 = 157,
+  ch. 44 = 54, ch. 50 = 113, ch. 67 = 149; the ch. 44 and ch. 50
+  figures corroborate the production side's own earlier measurements
+  exactly). Excluding the ten standalone en-dash tokens in those
+  slices gives 463. Neither variant reproduces 466; a later
+  corrections-pass commit message (ac81915) claims 466 was
+  "reproduced by whitespace-split", which this pass could NOT
+  reproduce under the stated rule. CAUSE UNESTABLISHED — 466 vs 473
+  under the stated method; routed to the module owner to state the
+  module's counting rule or align the figure. Workload impact is
+  small either way, but numerical correctness is not established.
+- **Rubric ch. 67 fragment:** "Compassionate, thus I can have
+  valor; ..." VERBATIM in carrier ✓ (with ellipsis honestly marking
+  the cut).
+Conclusion (sample-bounded, advisor round 3): the FRAGMENTS CHECKED
+THIS PASS all match the module's carrier verbatim; this was a
+sample, not a comparison of every complete quoted span in the
+module, and is not a whole-module quote clearance. The m4 duplicate
+file situation (m4-yangsheng-nourishing-life.md, noncanonical per
+the ledger's collision reconciliation) is already on record; no
+action owed.
+
+### Stamp audit (advisor round 3; verify-pplx-w3-1026a, deg-verify-a)
+
+A third round of advisor review found that receipt stamps in this
+file were ESTIMATED, not measured — all future-dated relative to the
+actual git commit times. This pass measured every recent receipt's
+introducing commit via `git log -S` and corrected each header in
+place to "commit <hash>, measured time". Corrections (claimed →
+measured): m4 Linnell carrier 06:16Z→06:05:34Z (e9ba5a1); m4
+Komjathy re-verification 06:15Z→06:06:52Z (1ed51cd); m4 Linnell limit
+06:17Z→06:07:22Z (dd8529b); Timestamp correction 06:10:20Z→06:09:52Z
+(b5ee770); m4 Komjathy RESOLVED 06:18Z→06:15:59Z (15199cb); Neiye
+canonical-hosting 06:22Z→06:18:12Z (8167308); m4 routed-item
+closure 06:26Z→06:19:38Z (0991682); Neiye hosting follow-up
+06:31Z→06:20:43Z (5369e9e); m5 QC sample 06:22Z→06:21:39Z (8246ea7).
+Method note: stamps must be taken from `date -u` at save time or from
+git commit times; estimated stamps caused three correction rounds
+this session.

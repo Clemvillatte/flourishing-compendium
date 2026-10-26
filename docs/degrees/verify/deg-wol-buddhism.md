@@ -948,7 +948,7 @@ No paywalled or app-gated content on any route. Auto-captions remain
 classification/coverage evidence only, not verbatim quotation carriers
 (per B-V21/B-V22 rule).
 
-### B-V23 resolution addendum — channel attributions (2026-10-26T06:19Z; verify-pplx-w3-1026a, deg-verify-a)
+### B-V23 resolution addendum — channel attributions (commit d07fc62, 2026-10-26T06:08:30Z — stamp corrected this pass from an estimated 06:19Z; verify-pplx-w3-1026a, deg-verify-a)
 
 The b6-L1 channel question is RESOLVED via a cleaner structured
 route: YouTube's own oEmbed endpoint
@@ -981,7 +981,7 @@ automatically_generated flag was returned by the route. The module's
 "no chapter list" claim stands unless a browser-visible check
 establishes uploader authorship; item stays routed as supplementary.
 
-### B-V24 — b5 v1.3 assignment QC (2026-10-26T06:22Z; verify-pplx-w3-1026a, deg-verify-a)
+### B-V24 — b5 v1.3 assignment QC (commit 58bb291, 2026-10-26T06:09:28Z — stamp corrected this pass from an estimated 06:22Z; verify-pplx-w3-1026a, deg-verify-a)
 
 Sampled the worker's v1.3 two-teachings assignment against the
 Amaravati volume PDF itself (downloaded this pass, 8,792,265 bytes,
@@ -1012,7 +1012,7 @@ same URL as the module's source table):
   **printed p. 145**, exactly as the module prints. The module's
   page references are correct; nothing to route.
 
-### Timestamp correction (2026-10-26T06:10:20Z; verify-pplx-w3-1026a, deg-verify-a)
+### Timestamp correction (commit b5ee770, 2026-10-26T06:09:52Z — stamp corrected this pass from an estimated 06:10:20Z; verify-pplx-w3-1026a, deg-verify-a)
 
 The stamps written in B-V23's resolution addendum ("06:19Z") and
 B-V24 ("06:22Z") were manually estimated from a mis-scaled elapsed-time readout
@@ -1023,7 +1023,7 @@ commit dates, so these are commit times): B-V23 channel
 resolution 06:08:30Z; B-V24 b5 assignment QC 06:09:28Z. Content
 above is unchanged.
 
-### B-V25 — b9 aggregates assignment QC (2026-10-26T06:16Z; verify-pplx-w3-1026a, deg-verify-a)
+### B-V25 — b9 aggregates assignment QC (commit 2fbd2b4, 2026-10-26T06:14:14Z — stamp corrected this pass from an estimated 06:16Z; verify-pplx-w3-1026a, deg-verify-a)
 
 Sampled the worker's v1.2 aggregates thread against the live page
 (https://www.accesstoinsight.org/lib/study/khandha.html, fetched fresh
@@ -1063,7 +1063,7 @@ this pass):
   word count, which the ledger records as 2,619 measured — not
   recounted this pass).
 
-### B-V26 — b4 caption-presence check (2026-10-26T06:19Z; verify-pplx-w3-1026a, deg-verify-a)
+### B-V26 — b4 caption-presence check (commit a97b7f5, 2026-10-26T06:17:17Z — stamp corrected this pass from an estimated 06:19Z; verify-pplx-w3-1026a, deg-verify-a)
 
 Attempted to resolve b4's open caption question (the module's honest
 "REPORTED to exist ... not a directly inspected JSON array"):
@@ -1096,3 +1096,14 @@ item to correct (it stops one sentence short of the measured span).
 The Questions recounted at 584 words on the same extraction (module
 prints ~609; the delta is consistent with tag-stripping losses in
 this recount, not a defect finding). No other change to B-V25.
+
+### Stamp audit (advisor round 3; verify-pplx-w3-1026a, deg-verify-a)
+
+Same finding as the daoism file: receipt stamps here were estimated,
+not measured — all future-dated relative to actual commit times.
+Corrected this pass via `git log -S` (claimed → measured): B-V23
+resolution addendum 06:19Z→06:08:30Z (d07fc62); B-V24 06:22Z→
+06:09:28Z (58bb291); Timestamp correction 06:10:20Z→06:09:52Z
+(b5ee770); B-V25 06:16Z→06:14:14Z (2fbd2b4); B-V26 06:19Z→06:17:17Z
+(a97b7f5). Method note: stamps must come from `date -u` at save time
+or git commit times, never estimates.
