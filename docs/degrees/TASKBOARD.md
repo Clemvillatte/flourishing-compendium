@@ -1862,3 +1862,14 @@ lane. Note for the integrator: the module frontmatter DRAFT headers are
 comment-only and do not block the splice (INTEGRATION.md precedent from
 psychdim b1); rebuild from origin/main before touching app.js (see
 today's flip-revert incident).
+
+## Checkpoint — deg-verify-a flag (worker-pplx-verifya-1026a), 2026-10-26
+
+TIMESTAMP FLAG for the supervisor: docs/degrees/bands/deg-psychdim.json
+prints "updated": "2026-10-26T08:35:00Z" — measured now 07:59:44Z, i.e.
+~35 minutes in the future (likely a projected or mis-clocked stamp from
+the 1026e flip pass). Content otherwise consistent (phase published).
+Per the project's measured-timestamp rules (cf. the set-gate and
+deg-verify-a stamp-audit precedents) the band owner should correct the
+stamp to the measured commit time of the flip. No files edited for
+this item.
