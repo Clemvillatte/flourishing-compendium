@@ -2,7 +2,7 @@
  "lane": "s1b",
  "items": {
   "s1b-001": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "D107: marsh pheasant; lavish provision does not make confinement suit its nature; owner scope approved in latest conversation",
    "history": [
     {
@@ -38,12 +38,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST351"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST351"
   },
   "s1b-002": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "B088: repeated pursuit becomes inclination; two seasonal cowherds; votes are qualitative analogy, not measured increments",
    "history": [
     {
@@ -74,12 +79,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST352"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST352"
   },
   "s1b-003": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "P196: initially uncounted four-strokes impression guides numbered reconstruction; distinguish moving from conceptual eternity",
    "history": [
     {
@@ -110,12 +120,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST353"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST353"
   },
   "s1b-004": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "B084: MN20 complete five-simile sequence; change methods when unskillful thoughts persist; monastic context and moral vocabulary retained, not clinical treatment",
    "history": [
     {
@@ -146,12 +161,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST354"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST354"
   },
   "s1b-005": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "P194: Tolstoy Master and Man; exploitative benefactor identity changes to bodily care; illustrative opening rather than proof of universal love",
    "history": [
     {
@@ -182,12 +202,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST355"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST355"
   },
   "s1b-006": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "D133: Liezi sailor and gulls, Book II pp49-50, Giles1912; possession disrupts the relation, distinguish Chang Chan commentary from narrative; no zoological mindreading claim",
    "history": [
     {
@@ -218,12 +243,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST437"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST437"
   },
   "s1b-007": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "B133: Hakuin under Shōju Rōjin — pride crushed, Great Death koan work, breakthrough, and the charge to keep striving; the return as the hard half",
    "history": [
     {
@@ -254,12 +284,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST356"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST356"
   },
   "s1b-008": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "D073: Zhuangzi 19 ferryman and archer — constant skill, solicitude for the prize degrades presence; ferryman's 'forgetting the water'",
    "history": [
     {
@@ -285,12 +320,17 @@
      "t": "2026-10-21T12:42:57+00:00",
      "to": "published_backlinks_pending",
      "note": "ST368"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST368"
   },
   "s1b-009": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "B192: MN 61 mirror dialogue — the Buddha teaches his son Rahula self-examination before, during and after action",
    "history": [
     {
@@ -316,12 +356,17 @@
      "t": "2026-10-21T12:42:57+00:00",
      "to": "published_backlinks_pending",
      "note": "ST380"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST380"
   },
   "s1b-010": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "B043: Ud 1.10 Bāhiya — 'in the seen only the seen'; insight in minimal form, release through non-clinging, the cow-and-calf ending",
    "history": [
     {
@@ -347,12 +392,17 @@
      "t": "2026-10-21T12:42:57+00:00",
      "to": "published_backlinks_pending",
      "note": "ST399"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST399"
   },
   "s1b-011": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "D065: Lotus Sutra gem-in-the-robe — the man forgets what was bound in his garment; the return is the friend's reprimand",
    "history": [
     {
@@ -378,12 +428,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST438"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST438"
   },
   "s1b-012": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "D045: Zhuangzi 4 mind-fasting dialogue — Yan Hui's project to reform the Prince of Wei, the fasting of the mind, the empty apartment filled with light",
    "history": [
     {
@@ -409,12 +464,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST439"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST439"
   },
   "s1b-013": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "Owner ACT scope: Holding a Pen; P157 willingness while retaining action, P177 process over outcome; no new source scripts",
    "history": [
     {
@@ -440,12 +500,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST440"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST440"
   },
   "s1b-014": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "The Bicycle Factory: maintenance and proportionate sustained practice; P162",
    "history": [
     {
@@ -476,12 +541,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST441"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST441"
   },
   "s1b-015": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "Taking off armour: changed context, protective habits and safe intimacy; P155/P156/D156",
    "history": [
     {
@@ -507,12 +577,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST442"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST442"
   },
   "s1b-016": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "Rope Bridge: small controllable actions when value-directed direction feels frightening",
    "history": [
     {
@@ -538,12 +613,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST443"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST443"
   },
   "s1b-017": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "Sailing Boat: valued direction while distress remains; preserve effective pain relief caveat",
    "history": [
     {
@@ -569,12 +649,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST444"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST444"
   },
   "s1b-018": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "Leaves on a Stream: noticing thoughts, returning after being hooked; P159/B074/P161",
    "history": [
     {
@@ -600,12 +685,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST445"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST445"
   },
   "s1b-019": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "Two Scales: willingness and distress are distinct questions; independently published ACT overview",
    "history": [
     {
@@ -631,12 +721,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST446"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST446"
   },
   "s1b-020": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "Fly Fishing: distinguish a thought hook from the struggle that follows; author source search",
    "history": [
     {
@@ -662,12 +757,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST447"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST447"
   },
   "s1b-021": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "Milk Milk Milk: experimental narrative from Masuda et al 2004; retain sample and inference limits",
    "history": [
     {
@@ -693,12 +793,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST448"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST448"
   },
   "s1b-022": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "Hands as Thoughts: experiential attention and retained thoughts; independent author handout search",
    "history": [
     {
@@ -724,12 +829,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST449"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST449"
   },
   "s1b-023": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "Tug-of-War: preserve Box6 open ending and locate letting-go-of-rope in article Session2",
    "history": [
     {
@@ -755,12 +865,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST450"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST450"
   },
   "s1b-024": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "Compass: ongoing direction and finishable goal; primary-author/public-institution source search",
    "history": [
     {
@@ -786,12 +901,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST451"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST451"
   },
   "s1b-025": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "Polygraph: coercive calm instruction as thought experiment, not physiological evidence or actual procedure",
    "history": [
     {
@@ -817,12 +937,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST452"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST452"
   },
   "s1b-026": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "Passengers on the Bus: include friendly passengers and non-demonising parts qualification",
    "history": [
     {
@@ -848,12 +973,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST453"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST453"
   },
   "s1b-027": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "B016 three root poisons: Devadatta bid/rock/elephant (Cv VII.3) + Lotus 12 reversal",
    "history": [
     {
@@ -879,12 +1009,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST486"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST486"
   },
   "s1b-028": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "P191 joy of creation: Wiles revelation morning (NOVA The Proof transcript); replaced Rodia draft after advisor QC",
    "history": [
     {
@@ -910,12 +1045,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST487"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST487"
   },
   "s1b-029": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "B122 two truths: Xuanzang Mo-Kia-Yen crossing (Beal Life of Hiuen-Tsiang), quotes verified verbatim against opened archive.org text",
    "history": [
     {
@@ -941,12 +1081,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST465"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST465"
   },
   "s1b-030": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "P020 cash value: James's camping-party squirrel dispute (Pragmatism Lecture II, Gutenberg), quotes verified verbatim",
    "history": [
     {
@@ -972,12 +1117,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST433"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST433"
   },
   "s1b-031": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "B044 just sit: Nanyue-Huairang Mazu tile-polishing dialogue (Guzunsu yulu, Lu Kuan Yu trans.), quotes verified verbatim against opened Terebess page",
    "history": [
     {
@@ -1003,12 +1153,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST463"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST463"
   },
   "s1b-032": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "B161 kill the Buddha: Linji's three beatings and awakening (Record of Linji Part 6, Ru-Yi bilingual), quotes verified verbatim",
    "history": [
     {
@@ -1034,6 +1189,11 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST464"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST464"
@@ -1069,7 +1229,7 @@
    ]
   },
   "s1b-034": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "B047 great doubt: Hakuin Yen-t'ou/ice-sheet/bell passage (Yampolsky Selected Writings, Terebess), quotes verified verbatim",
    "history": [
     {
@@ -1090,11 +1250,22 @@
      "t": "2026-10-25T15:10:02+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:10:02: sample verified — all quotes VERBATIM (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST418"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST418"
   },
   "s1b-035": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "D066 withdrawal: Fan Li letter and Tao Zhu Gong (Shiji 41/129 via suntzu-artofwar.org), quotes verified verbatim",
    "history": [
     {
@@ -1115,8 +1286,19 @@
      "t": "2026-10-25T15:17:27+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:17:27: s1b-023 verified; s1b-035 suntzu quotes verbatim, ctext sub-entry unverified (Cloudflare wall) - see QC notes"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST419"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST419"
   },
   "s1b-036": {
    "status": "returned",
@@ -1149,7 +1331,7 @@
    ]
   },
   "s1b-037": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "D029 overflow: Confucius and the tilting temple vessel (Shuoyuan Jing Shen via ctext), quotes verified verbatim",
    "history": [
     {
@@ -1170,11 +1352,22 @@
      "t": "2026-10-25T15:10:27+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:10:27: verification attempted but NOT possible this pass — ctext carrier Cloudflare-walled to all three access methods; quotes rest on documented prior access (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST420"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST420"
   },
   "s1b-038": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "D192 dying aligned: Zhuangzi ch.32 deathbed refusal of grand burial (Legge via 100jia.net), quotes verified verbatim",
    "history": [
     {
@@ -1195,9 +1388,20 @@
      "t": "2026-10-25T15:09:35+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:09:35: sample verified — all quotes VERBATIM (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST421"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST421"
   }
  },
- "updated": "2026-10-26T00:12:47+00:00"
+ "updated": "2026-10-26T00:20:34+00:00"
 }

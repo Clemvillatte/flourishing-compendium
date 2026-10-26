@@ -59,7 +59,7 @@
    ]
   },
   "s1d-003": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "D018: John Harrison's forty years of clocks H1-H4 - ripening work that cannot be hurried; careful at the end as at the beginning",
    "history": [
     {
@@ -85,12 +85,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST382"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST382"
   },
   "s1d-004": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "D006: Celilo Falls and the first salmon return - return to the root as a planned-for cycle, not a loss",
    "history": [
     {
@@ -111,6 +116,11 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST388"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST388"
@@ -131,7 +141,7 @@
    ]
   },
   "s1d-006": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "P012 Peirce pragmatic maxim - diamond and transubstantiation from How to Make Our Ideas Clear 1878",
    "history": [
     {
@@ -152,11 +162,22 @@
      "t": "2026-10-25T14:43:55+00:00",
      "to": "ready",
      "note": "verification pass 1025x: 8/8 peirce.org quotes + WS header string-verified verbatim vs fresh downloads; ready stands"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST499"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST499"
   },
   "s1d-007": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "B036 Sona Sutta AN 6.55 - the vina player whose feet bled; tune effort like a lute string",
    "history": [
     {
@@ -172,8 +193,19 @@
      "t": "2026-10-25T14:44:07+00:00",
      "to": "ready",
      "note": "verification pass 1025x: 8/8 quotes wording-verified vs fresh ATI download (4 exact string match, 4 with footnote-marker artifacts only); ready stands"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST500"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST500"
   },
   "s1d-008": {
    "status": "qc_pending",
@@ -206,7 +238,7 @@
    ]
   },
   "s1d-009": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "B014 the raft parable from MN 22 - similes of the snake and the raft, views abandoned once across",
    "history": [
     {
@@ -222,8 +254,19 @@
      "t": "2026-10-25T14:44:19+00:00",
      "to": "ready",
      "note": "verification pass 1025x: 8/8 quotes string-verified verbatim vs fresh ATI MN 22 download; ready stands"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST501"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST501"
   },
   "s1d-010": {
    "status": "qc_pending",
@@ -272,5 +315,5 @@
   }
  },
  "note": "unstarted candidates listed in HANDOFF.md only, per QC advice; one active item per lane",
- "updated": "2026-10-26T00:12:48+00:00"
+ "updated": "2026-10-26T00:20:36+00:00"
 }

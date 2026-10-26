@@ -2,7 +2,7 @@
  "lane": "s1c",
  "items": {
   "s1c-001": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "D069: Yan He consults Qu Boyu (Zhuangzi 4): mantis, tiger keeper, horse lover",
    "history": [
     {
@@ -38,12 +38,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST357"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST357"
   },
   "s1c-002": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "D006: Tao Yuanming's return (preface + Let Me Return, Knechtges Brill 2020); return as homecoming and as death",
    "history": [
     {
@@ -79,12 +84,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST358"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST358"
   },
   "s1c-003": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "B140: Fayan, Luohan Guichen, don't-know, the stone, the month of explanations",
    "history": [
     {
@@ -120,12 +130,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST359"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST359"
   },
   "s1c-004": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "D095: Qin Shi cries three times at Lao Dan's funeral (Zhuangzi 3), Legge + Eno",
    "history": [
     {
@@ -161,12 +176,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST360"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST360"
   },
   "s1c-005": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "P039: Darwin's marry/not marry notes: list plus pictured scene (Pragmatism zero-story principle)",
    "history": [
     {
@@ -202,12 +222,17 @@
      "t": "2026-10-26T00:12:47+00:00",
      "to": "published_backlinks_pending",
      "note": "ST361"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST361"
   },
   "s1c-006": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "P047: Frege/Russell 1902 letters + Russell's elephant and tortoise",
    "history": [
     {
@@ -243,12 +268,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST362"
+    },
+    {
+     "t": "2026-10-26T00:20:34+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST362"
   },
   "s1c-007": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "P100/P108: Addams, Labor Museum, Angelina and her mother's spindle",
    "history": [
     {
@@ -279,12 +309,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST363"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST363"
   },
   "s1c-008": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "P025: Lind's 1747 scurvy trial and 48 years of other belief-fixing; Lind's own hedging",
    "history": [
     {
@@ -315,12 +350,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST364"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST364"
   },
   "s1c-009": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "D079/D157: Zhuangzi 17, tortoise in the mud and owl with the rat (Legge + Giles)",
    "history": [
     {
@@ -356,12 +396,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST366"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST366"
   },
   "s1c-010": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "B117/B162: SN 7.2 Akkosa Sutta, the refused gift (Thanissaro + Sujato)",
    "history": [
     {
@@ -397,12 +442,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST367"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST367"
   },
   "s1c-011": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "D100: Nie Que and Wang Ni, I don't know three times (Eno + Legge)",
    "history": [
     {
@@ -438,12 +488,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST378"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST378"
   },
   "s1c-012": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "D098/D108: Ziyu's crooked body and Zilai's smith (Zhuangzi 6, Eno + Legge)",
    "history": [
     {
@@ -479,12 +534,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST377"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST377"
   },
   "s1c-013": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "B108: Kisa Gotami and the mustard seed (Burlingame 1921 + Thig excerpt)",
    "history": [
     {
@@ -520,12 +580,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST381"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST381"
   },
   "s1c-014": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "P136: Stevenson's Lantern-Bearers via James (Gutenberg 614, 16287)",
    "history": [
     {
@@ -561,12 +626,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST398"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST398"
   },
   "s1c-015": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "P116/P114: Hokusai colophon and last words (BM object page + Clark)",
    "history": [
     {
@@ -602,12 +672,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST397"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST397"
   },
   "s1c-016": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "P131: Polymath1 (Gowers, Tao 2009)",
    "history": [
     {
@@ -643,12 +718,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST400"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST400"
   },
   "s1c-017": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "D106/D128: Zhuangzi 17 river spirit meets the sea (Legge + Giles)",
    "history": [
     {
@@ -684,12 +764,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST402"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST402"
   },
   "s1c-018": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "D090: Sang Hu's friends sing at his corpse (Zhuangzi 6, Eno + Legge)",
    "history": [
     {
@@ -725,12 +810,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST403"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST403"
   },
   "s1c-019": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "B104/B107: Angulimala, MN 86 (Thanissaro + Sujato)",
    "history": [
     {
@@ -766,12 +856,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST405"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST405"
   },
   "s1c-020": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "B194/B195: DN 16 Beluva, the old cart and the island (Vajira-Story + Sujato)",
    "history": [
     {
@@ -807,12 +902,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST406"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST406"
   },
   "s1c-021": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "B193: AN 6.19 six monks in the Brick Hall (Thanissaro + Sujato)",
    "history": [
     {
@@ -848,12 +948,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST407"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST407"
   },
   "s1c-022": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "P022/P017: Marshall drinks Helicobacter (Nobel lecture 2005)",
    "history": [
     {
@@ -879,11 +984,22 @@
      "t": "2026-10-25T15:12:21+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:12:21: sample verified — all quotes VERBATIM (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST422"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST422"
   },
   "s1c-023": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "P098: Bartlett 1920 War of the Ghosts serial reproduction",
    "history": [
     {
@@ -909,11 +1025,22 @@
      "t": "2026-10-25T15:12:52+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:12:52: sample verified — all quotes VERBATIM (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST423"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST423"
   },
   "s1c-024": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "P053/P120: Feynman wobbling plate (Surely You're Joking; AJP 2007 abstract)",
    "history": [
     {
@@ -939,11 +1066,22 @@
      "t": "2026-10-25T14:46:03+00:00",
      "to": "ready",
      "note": "QC sample 1025x: 6/6 quotes verified (Feynman 4/4 verbatim; arXiv verbatim w/ page-break artifact, corroborated in PMC5792583; AJP abstract verbatim via university mirror); ready stands"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST424"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST424"
   },
   "s1c-025": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "D183/D070: Ji Xingzi's wooden fighting cock (Zhuangzi 19, Legge + Giles)",
    "history": [
     {
@@ -969,11 +1107,22 @@
      "t": "2026-10-25T15:17:50+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:17:50: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST425"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST425"
   },
   "s1c-026": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "P026: Darwin, Lyell, Wallace letters June 1858 (Darwin Correspondence Project)",
    "history": [
     {
@@ -999,11 +1148,22 @@
      "t": "2026-10-25T15:23:19+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:23:19: sample verified - all quotes VERBATIM (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST426"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST426"
   },
   "s1c-027": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "B169: SN 3.13 A Bucketful of Rice (Sujato)",
    "history": [
     {
@@ -1024,11 +1184,22 @@
      "t": "2026-10-21T12:43:08+00:00",
      "to": "ready",
      "note": ""
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST427"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST427"
   },
   "s1c-028": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "B116/B105: MN 21 Vedehika and Kali (Sujato)",
    "history": [
     {
@@ -1054,11 +1225,22 @@
      "t": "2026-10-25T15:25:01+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:25:01: sample verified - all quotes VERBATIM (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST428"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST428"
   },
   "s1c-029": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "D004/D127: Wang Tai (Zhuangzi 5, Eno + Legge)",
    "history": [
     {
@@ -1084,11 +1266,22 @@
      "t": "2026-10-25T15:18:17+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:18:17: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST429"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST429"
   },
   "s1c-030": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "D096/D163: Aitai Tuo (Zhuangzi 5.4, Eno + Legge)",
    "history": [
     {
@@ -1114,11 +1307,22 @@
      "t": "2026-10-25T15:23:33+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:23:33: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST430"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST430"
   },
   "s1c-031": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "P056/P038: James, Rip Van Winkle 'I won't count this time' (Talks to Teachers ch. VIII)",
    "history": [
     {
@@ -1144,11 +1348,22 @@
      "t": "2026-10-25T15:12:21+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:12:21: sample verified — all quotes VERBATIM (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:20:56+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST488"
+    },
+    {
+     "t": "2026-10-26T00:20:56+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST488"
   },
   "s1c-032": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "D096/D098: Shentu Jia and Zichan (Zhuangzi 5.2, Eno + Legge)",
    "history": [
     {
@@ -1174,11 +1389,22 @@
      "t": "2026-10-25T15:23:45+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:23:45: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST492"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST492"
   },
   "s1c-033": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "P183/P175: James, Chautauqua and the workman (Talks to Teachers)",
    "history": [
     {
@@ -1204,11 +1430,22 @@
      "t": "2026-10-25T15:24:30+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:24:30: sample verified - all quotes VERBATIM (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST493"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST493"
   },
   "s1c-034": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "D185/D184: Shushan the Toeless and Confucius (Zhuangzi 5.3, Eno + Legge)",
    "history": [
     {
@@ -1234,11 +1471,22 @@
      "t": "2026-10-25T15:24:13+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:24:13: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST494"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST494"
   },
   "s1c-035": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "D090: Mengsun Cai wails without tears (Zhuangzi 6.6, Eno + Legge)",
    "history": [
     {
@@ -1264,11 +1512,22 @@
      "t": "2026-10-25T15:25:19+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:25:19: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST495"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST495"
   },
   "s1c-036": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "P034/P008: Hao bridge (Zhuangzi 17, Legge + Giles)",
    "history": [
     {
@@ -1294,11 +1553,22 @@
      "t": "2026-10-25T15:18:17+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:18:17: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST496"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST496"
   },
   "s1c-037": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "D097/D098: Ziyu and Zisang, ten days of rain (Zhuangzi 6.9)",
    "history": [
     {
@@ -1324,11 +1594,22 @@
      "t": "2026-10-25T15:25:42+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:25:42: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST497"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST497"
   },
   "s1c-038": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "P044/D067: Yi Erzi visits Xu You (Zhuangzi 6.7, Eno + Legge)",
    "history": [
     {
@@ -1354,8 +1635,19 @@
      "t": "2026-10-25T15:18:17+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:18:17: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST498"
+    },
+    {
+     "t": "2026-10-26T00:20:35+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST498"
   },
   "s1c-039": {
    "status": "qc_pending",
@@ -1403,5 +1695,5 @@
    ]
   }
  },
- "updated": "2026-10-26T00:12:48+00:00"
+ "updated": "2026-10-26T00:20:56+00:00"
 }

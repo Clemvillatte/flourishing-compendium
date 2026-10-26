@@ -2,7 +2,7 @@
  "lane": "s1f",
  "items": {
   "s1f-001": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "P193: Gogol's Overcoat - the cloak months as the stretch of the copy clerk's life densest with chosen acts; the narrator marks him livelier; honest limits kept (the copying was loved; after the theft he acts with energy); fiction labelled as fiction",
    "history": [
     {
@@ -33,12 +33,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST454"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST454"
   },
   "s1f-002": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "P187: Einstein's 1929 telegram reply - religious feeling without an anthropomorphic God; the reply rejects a God concerned with human fate, the later essay names cosmic religious feeling, Goldstein reads it differently, the silence establishes no further rejection",
    "history": [
     {
@@ -74,12 +79,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST455"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST455"
   },
   "s1f-003": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "B037 kalyanamitta: find a story that carries the companions-as-practice angle, not the chariot/self angle",
    "history": [
     {
@@ -120,12 +130,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST456"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST456"
   },
   "s1f-004": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "B011 sati: Bhante G Mindfulness in Plain English — a monk who made the satipatthana instructions workable for ordinary people; carries the master-tool claim as a life's work of translation, not as a sutta quote",
    "history": [
     {
@@ -156,12 +171,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST457"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST457"
   },
   "s1f-005": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "B190 breath: the bell of mindfulness in Plum Village — any sound as the bell, telephone rings, breathing in and out; carries breath as always available through the bell practice",
    "history": [
     {
@@ -202,12 +222,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST458"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST458"
   },
   "s1f-006": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "B039 satipatthana: Anathapindika's deathbed instruction (MN 143) — Sariputta's non-clinging instruction through the whole range of experience; a deathbed case, not a formula",
    "history": [
     {
@@ -248,12 +273,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST459"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST459"
   },
   "s1f-007": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "P134 solitude and community: find a narrative object with a primary source that carries both phases of growth — a person or fictional account where solitary practice and community practice are both scheduled",
    "history": [
     {
@@ -284,12 +314,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST460"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST460"
   },
   "s1f-008": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "B039 satipatthana: need a genuine four-foundations narrative object; search for a modern practitioner account that names all four domains",
    "history": [
     {
@@ -325,12 +360,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST461"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST461"
   },
   "s1f-009": {
-   "status": "published_backlinks_pending",
+   "status": "integrated",
    "angle": "B162 second angle: Nickel Mines Amish forgiveness 2006 — a real-world case where the community did not return hatred; need a primary source (Amish own words or a direct documented account)",
    "history": [
     {
@@ -381,12 +421,17 @@
      "t": "2026-10-26T00:12:48+00:00",
      "to": "published_backlinks_pending",
      "note": "ST462"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
    ],
    "stid": "ST462"
   },
   "s1f-010": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "rung 4: upgrade an existing published story with a verbatim quote from a source I actually opened",
    "history": [
     {
@@ -407,9 +452,14 @@
      "t": "2026-10-25T15:06:59+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x 15:06: sample verified — full empty-boat passage VERBATIM in the Legge translation on the tianmu.org page (downloaded and string-matched)"
+    },
+    {
+     "t": "2026-10-26T00:20:56+00:00",
+     "to": "integrated",
+     "note": "supervisor 2026-10-26: upgrade flag applied — ST004 now carries the verbatim Legge empty-boat passage with Sources; not a story draft, no registration"
     }
    ]
   }
  },
- "updated": "2026-10-26T00:12:48+00:00"
+ "updated": "2026-10-26T00:20:56+00:00"
 }

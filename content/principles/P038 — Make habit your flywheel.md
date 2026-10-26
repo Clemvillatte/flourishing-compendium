@@ -45,6 +45,7 @@ Fix three things for the next month: what you eat for breakfast on weekdays, the
 - [[ST180 — The Apprentice Sweeps|180. The Apprentice Sweeps]]
 - [[ST181 — Wax On, Wax Off|181. Wax On, Wax Off]]
 - [[ST182 — Massimo Bottura's Thousands of Iterations|182. Massimo Bottura's Thousands of Iterations]]
+- [[ST488 — Rip Van Winkle Says “I Won’t Count This Time”|488. Rip Van Winkle Says “I Won’t Count This Time”]]
 ## Psychology parallels
 
 - **[[Habit formation|Habit formation]]**, automaticity frees executive resources (Lally et al., 2010; Wood and Neal, 2007)

@@ -120,3 +120,23 @@ copies ok; build 5928 entries (5951 - 23, arithmetic checks out); dangling-ref
 scan clean. REGISTRATIONS UNBLOCKED: guard landed + duplicates reconciled, so
 supervisor registration batches may resume per PROTOCOL-STORIES (entry checks
 apply; the register tool now refuses any already-published title).
+
+## REGISTRATION BATCH (2026-10-26 ~01:00Z, supervisor-pplx-1026c)
+41 ready drafts registered (ST307-ST431, ST447-ST453, ST463-ST507 incl. ST488
+Rip Van Winkle after a front-matter title-quote repair) with entry checks
+(story_check draft 41/41 pass) and the title-collision guard live. Lane states
+reconciled: all published/integrated with backlinks verified present (149
+flipped integrated; 39+1 registered). FINDING + REPAIR: lanes s1a and s1c
+carried duplicate drafts of four stories (Painter/Slowest Vessel/Jade in the
+Bosom/Letter Written for After); the "NN." numbering prefix in s1a draft
+titles defeated the guard's normalization, minting second copies ST488-ST491;
+all four second copies removed, first registrations kept (ST411-ST413, ST417).
+Suggested guard hardening (flagged to supervisor/owner): strip a leading
+"NN. " before title comparison in story_register.py. Also: 3 missing
+book-TOC chapter lines repaired (ST-S01.06, ST-S02.05, ST-S03.05); 11
+registered pages repaired to pass story_check published (draft scaffolding
+and QC-note comments stripped, ST004 upgraded to the verbatim Legge passage
+per its upgrade flag, four double-numbered titles cleaned). Two qc_pending
+state entries without draft files (s1a-028, s1a-029) flagged for the lane.
+Remaining 'ready' after this batch: 0 in s1a/s1b/s1c/s1d/s1e/s1f except
+qc_pending/returned work in progress by storytellers.

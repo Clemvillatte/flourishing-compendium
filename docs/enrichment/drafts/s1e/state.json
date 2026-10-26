@@ -52,7 +52,7 @@
    ]
   },
   "s1e-003": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "B176 present moment as miracle: Brother Lawrence - the kitchen where business and prayer became the same thing; the straw picked up for love",
    "history": [
     {
@@ -88,11 +88,22 @@
      "t": "2026-10-25T15:04:25+00:00",
      "to": "ready",
      "note": "QC sample 1025x: 8/8 quotes verbatim vs fresh downloads; paraphrase ledger entry replaced with verbatim sentences; ready stands"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST502"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST502"
   },
   "s1e-004": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "D115 lead from behind: Marva Collins - the school with no substitutes, where students taught themselves and said the day's phenomenal thing was theirs",
    "history": [
     {
@@ -123,11 +134,22 @@
      "t": "2026-10-25T13:43:18+00:00",
      "to": "ready",
      "note": "advisor QC rounds 3-5 applied and cleared: quotes verbatim, mappings bounded, humanizer pass, YAML valid"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST507"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST507"
   },
   "s1e-005": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "D041 qingjing: George Fox - the ocean of light already flowing over the darkness; standing still in the Light; the gathered people who worshipped in silence",
    "history": [
     {
@@ -163,11 +185,22 @@
      "t": "2026-10-25T15:04:25+00:00",
      "to": "ready",
      "note": "QC sample 1025x: 5/5 quotes verbatim vs fresh downloads (4 CCEL + 1 Quakers in Britain); ready stands"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST503"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST503"
   },
   "s1e-006": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "B075 thinker is another thought: Ramana's death-drama at sixteen - the self-inquiry search for the one who dies, run on his own person, finds the 'I' (the Spirit, in his conclusion) persisting through the dying body; the teaching made it a method",
    "history": [
     {
@@ -198,11 +231,22 @@
      "t": "2026-10-25T13:43:18+00:00",
      "to": "ready",
      "note": "advisor QC rounds 3-5 applied and cleared: quotes verbatim, mappings bounded, humanizer pass, YAML valid"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST504"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST504"
   },
   "s1e-007": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "B095 samadhi as gathering: Herrigel's professor - the master's cure for scattered striving was the breath; 'being breathed'; the shot that fell like a ripe fruit",
    "history": [
     {
@@ -233,11 +277,22 @@
      "t": "2026-10-25T13:38:24+00:00",
      "to": "ready",
      "note": "advisor QC round 3 cleared: analogy narrowed to B095, drift-return disclosure added, quotes verbatim; draft+state synchronized to ready"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST505"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST505"
   },
   "s1e-008": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "P191 joy as creation's signature: Wiles on September 19, 1994 - the joy arrived with the thing created itself, before he had told anyone",
    "history": [
     {
@@ -273,9 +328,20 @@
      "t": "2026-10-25T13:43:18+00:00",
      "to": "ready",
      "note": "advisor QC rounds 3-5 applied and cleared: quotes verbatim, mappings bounded, humanizer pass, YAML valid"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST506"
+    },
+    {
+     "t": "2026-10-26T00:20:36+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST506"
   }
  },
- "updated": "2026-10-25T15:04:25+00:00"
+ "updated": "2026-10-26T00:20:36+00:00"
 }
