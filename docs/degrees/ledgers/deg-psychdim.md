@@ -743,6 +743,62 @@ status and the M2 boundaries packet).
   verification status section).
 
 
+### M7 preparation (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:31Z measured; no module prose — gated)
+
+All five previously-openable M7 sources opened this pass against raw
+curl-fetched text (the Noba conditioning module was measured in the M3
+preparation above; Maitland 2024 is already verified). Abstract
+openings below were read on the cleaned raw text of each page.
+
+- Carden and Wood 2018, Habit formation and change (Curr Opin Behav
+  Sci 20:117-122, PDF hosted at USC): downloaded without
+  authentication; title page confirms the journal, volume and authors.
+  Full paper 4,818 words on the raw pdftotext basis (includes
+  references). The review summary verbatim-confirmed on the extracted
+  text ("This review highlights emerging findings and new directions
+  in research on habit formation and change. We first identify the
+  cognitive, attentional mechanisms that contribute to habit
+  formation. Then we show how habit is transforming the way
+  researchers think about self-control, and how changing habits
+  involves environmental pressures as much as intrapsychic
+  forces.").
+- Singh et al. 2024 (PMC11641623), a systematic review of the time
+  required for developing health-related habits: 10,509 words on the
+  tag-stripped raw-page basis (includes site chrome; systematic
+  review — the writing session should measure the assigned excerpt).
+  Abstract opening verbatim on the cleaned page ("Healthy lifestyles
+  depend on forming crucial habits through the process of habit
+  formation, emphasising the need to establish positive habits and
+  break negative ones for lasting behaviour changes. This systematic
+  review aims to explore the time required for developing
+  health-related habits.").
+- Werner and Berkman 2024 (PMC11423838), self-control as a dynamic
+  motivational process: 5,237 words on the tag-stripped raw-page
+  basis. Abstract opening verbatim ("How people respond to desires
+  varies substantially across time and situations. Building on recent
+  theoretical developments, we propose that motivation plays a central
+  role in the dynamics of self-control as it unfolds across time.").
+- Reed et al. 2020 (PMC7250393), self-regulation indices in older
+  adults: 17,436 words on the tag-stripped raw-page basis (long
+  article; the writing session should measure the assigned excerpt).
+  Abstract opening verbatim ("Self-regulation refers to effortful
+  control over one's thoughts, emotions, choices, impulses, and
+  behaviors, and has implications for older adults' health.").
+- Dang 2018 (PMC6013521), the ego-depletion meta-analysis debate:
+  5,349 words on the tag-stripped raw-page basis. Abstract opening
+  verbatim ("The ego depletion effect is one of the most famous
+  phenomena in social psychology. A recent meta-analysis showed that
+  after accounting for small-studies effects by using a newly
+  developed method called PET-PEESE, the ego depletion effect was
+  indistinguishable from zero. However, it is too early to draw such
+  rushing conc[lusions]...") — note the paper's own caution against
+  premature conclusions, which is the pedagogically relevant feature
+  for the M7 meta-analysis-appraisal exercise.
+
+All five M7 sources verified free to access (no paywall) this pass.
+M8 is the integrative capstone and adds no new sources.
+
+
 Supervisor Phase 0 ruling (ledger section of the same name): M1 repairs
 applied and ACCEPTED by the verifier's re-review (all three findings
 CLOSED, module SHA 99e5abbe...; disposition ready for supervisor
