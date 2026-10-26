@@ -82,3 +82,33 @@ primary meta-analysis text itself, the row can instead be anchored by the
 Terao/Satoh CC BY article alone, or the owner can supply the paper to the
 primary-source library. This choice belongs to the gate reviewer and
 supervisor, not this worker.
+
+
+## Therapy-half teaching-source candidates (2026-10-26, worker-pplx-exist-1026p)
+
+Fetch-time bound: the BPS page was opened before the 2026-10-26T09:43:56Z clock read; the
+three YouTube oembed checks ran before the same read. Status: UNSET —
+candidates only; no module attachment; no coverage claim.
+
+### Sources opened
+
+| URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
+| https://www.bps.org.uk/psychologist/staring-sun | 2026-10-26, before 2026-10-26T09:43:56Z | worker-pplx-exist-1026p | The Psychologist (BPS), 9 July 2008: Arabella Kurtz (Doctoral Programme in Clinical Psychology, University of Leicester) interviews Irvin Yalom, Professor Emeritus of Psychiatry at Stanford University; the page prints Yalom's own statement of the four ultimate concerns (death; life meaning; deep isolation; freedom as "the author of one's own life design"); the page notes a full audio version plus Q+A available as MP3 at thepsychologist.org.uk |
+| https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=9EIxGrIc_6g | 2026-10-26, before 2026-10-26T09:43:56Z | worker-pplx-exist-1026p | oembed metadata confirms "Interview with Dr. Viktor Frankl part I" exists and is served to anonymous visitors (duration in indexed metadata: 8:41) |
+| https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=jSSftFde5vo | 2026-10-26, before 2026-10-26T09:43:56Z | worker-pplx-exist-1026p | oembed metadata confirms "Interview with Dr Viktor Frankl III" (indexed duration 9:35) |
+| https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=U1OMUK8hW9A | 2026-10-26, before 2026-10-26T09:43:56Z | worker-pplx-exist-1026p | oembed metadata confirms "Viktor Frankl Aust Lecture with image" on the official Viktor Frankl Institute Australia channel (indexed duration 1:30:44) |
+
+### Candidates (verification status: UNSET)
+
+| source_id | candidate evidence recorded | open requirements / caveats |
+|---|---|---|
+| bps staring-sun (Kurtz interviews Yalom, The Psychologist, 2008) | a free institutional text carrier in which Yalom states the four ultimate concerns in his own words (quoted from the opened page) — direct teaching material for the therapy half's Yalom content | reading-window assignment; the walk must decide how much Yalom to carry at all (scope decision, degree owner + supervisor) |
+| youtube 9EIxGrIc_6g + jSSftFde5vo (Frankl interview clips, 8:41 and 9:35) | Frankl in his own words on meaning under suffering (despair = suffering without meaning; the attitudinal freedom); the video descriptions claim "This video belongs to logotherapy.univie.ac.at" — the institute site itself did NOT resolve from this session's fetch (DNS failure), so the claim is recorded as the uploader's, unverified | verify the logotherapy.univie.ac.at archive when reachable; playback; captions; the clips are HOSTED on a third-party channel ("yecto") — provenance of the uploads needs the institute's confirmation before module use |
+| youtube U1OMUK8hW9A (Viktor Frankl in Australia, official Viktor Frankl Institute Australia channel, 1:30:44) | a full-length recorded Frankl lecture on an institute-branded official channel | playback; captions; content classification from the recording itself |
+
+Note: Yalom's official video series (yalom.com) is distributed through
+Psychotherapy.net, which is a paid service — EXCLUDED under the owner's
+no-paywalled-content ruling. The BPS text interview is the free carrier of
+Yalom's own framework. No candidate here covers Rollo May teaching content
+yet (May gap noted for the next pass if the degree owner wants May carried).
