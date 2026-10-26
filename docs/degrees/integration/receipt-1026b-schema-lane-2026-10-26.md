@@ -16,3 +16,12 @@ Scope: the four live degrees (Psychological Dimensions, WoL Daoism, WoL Buddhism
 - wiki_readings is empty on all four degrees; owner decision (candidates in wiki-readings-candidates-1026z and wiki-readings-option-evidence-1026a).
 - Daoism manifest m2/m3 Eno re-reads say role "teach" while published refs use "revisit".
 - Do not re-run older splice scripts (a stale one minted PRAG-M3-05; it was dropped).
+
+## Link and player checks (2026-10-26, about T+36)
+- All 93 distinct source URLs assigned in the four degrees were requested: 91 returned 200; BUD-B3-02 (bswa.org) returned 202 and BUD-B3-03 (plumvillage.org) returned 403 to an automated request (a bot block, not a dead page; confirm in a browser).
+- All 38 YouTube videos answered the platform's public embed lookup, so each is public and embeddable in the in-page player.
+
+## Learner-text polish in this pass
+- Module list heading now reads Reading list, Viewing list, or Viewing and reading list according to what the module assigns.
+- Daoism and pragmatism activity lines no longer use em dashes; psychdim m3, m4, m5 activity lines expand RNT, ANT and SCCS on first use (expansions taken from the module docs and the source titles).
+- Degree descriptions for Daoism and pragmatism are plain-language one-sentence summaries; the owner-written Buddhism and psychdim descriptions were left unchanged (psychdim still contains "PBT EEMM").
