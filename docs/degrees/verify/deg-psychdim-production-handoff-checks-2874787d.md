@@ -78,3 +78,26 @@ Supervisor `supervisor-pplx-1026f` acknowledged this receipt in commit
 reviews and M4/M5 recovered-window decisions are assigned to the next
 supervisor session because they exceed the current taper window.
 No module or publication gate was awarded in that acknowledgement.
+
+## Bounded review map
+
+- **M2:** exact-hash supervisor confirmation already exists in the
+  changed-hash section of its review. This handoff requests no further
+  M2 content work.
+- **M4:** inspect only the recovered Bloom window evidence at unchanged
+  hash `68acd6f12985c39b2d728b93d567db596fae1605912697ba6816c9d8735eedd3`.
+  Its supervisor review explicitly preserves the teaching, alignment,
+  arithmetic and source-identity findings while the window stays open.
+- **M5:** review the added spotlight/transparency briefing and feedback,
+  the two mandatory comparisons and matching criterion, corrected
+  reading navigation/keying specimen, seven criterion specimens and
+  315-minute total at the hash above. Independently decide the separate
+  recovered McAdams-window requirement at that same hash.
+- **M6:** review the A/B/C amotivation contrast, unused Cory barrier
+  contrast, observable Motivation criterion, five specimen pairs and
+  271-minute total at the hash above. The prior supervisor source and
+  numerical findings stand; the missing production-adviser verdict is
+  explicit and supplies no acceptance.
+- **Complete degree:** after those independent decisions, final
+  complete-degree review and authorised integration/publication remain
+  separate work. Nothing in this map requests partial publication.
