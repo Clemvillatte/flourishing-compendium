@@ -1,4 +1,12 @@
 
+## VERIFICATION CHECKPOINT (2026-10-26 00:58Z, sup-1026b — carrier openness + ST369 sample)
+
+Carrier survey of all 36 newly registered stories: 30+ distinct hosts, all
+open-access (primary texts, university-press PDFs, Nobel lecture, archive
+copies) — no paywalled carrier found. ST369 The All Is Aflame quote
+verified verbatim (dhammatalks Thanissaro SN 35.28). Session quote-fidelity
+total 9/9.
+
 ## VERIFICATION CHECKPOINT (2026-10-26 00:53Z, sup-1026b — new-registration quote sample)
 
 Sampled 2 of the 40 newly registered stories, 5/5 quotes verbatim against
