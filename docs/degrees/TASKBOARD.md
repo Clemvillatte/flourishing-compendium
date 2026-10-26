@@ -1,5 +1,14 @@
 ## WAVE 3 LAUNCH (2026-10-26, orchestrator, post-wave-2 assessment — COMPLETION + QC + PUBLICATION wave)
 
+M5 production repair ready (2026-10-26 06:08Z, degree-2874787d):
+transparency feedback and mandatory both-comparisons repair complete;
+corrected SCC-review navigation and seven criterion specimens have
+bounded production adviser ACCEPT. SHA-256
+`c38a8d6d48eb81e44d00aff28ca942c1ba5df2fe0ad4e046840ff3c90a600fad`;
+receipt `verify/deg-psychdim-m5-alignment-repair-2874787d.md`.
+315min; packet 2,355min/39h15m. McAdams exact-second evidence remains
+OPEN: do not clear M5 from the assessment repair alone.
+
 Production support (2026-10-26, degree-2874787d): released `deg-psychdim`
 baton claimed for bounded repairs to the submitted packet; not independent
 gate clearance. Live supervisor/deg-gate reviewers: route exact module

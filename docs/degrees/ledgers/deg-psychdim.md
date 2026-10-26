@@ -3168,3 +3168,21 @@ preserving the prior M2 pass at `d9b938b96` that landed during production.
 No M1/M3/M4 module edits; their independent module passes remain intact.
 The changed M2 assessment awaits confirmation; M5–M8, whole-degree,
 integration and publication gates are not flipped.
+
+### M5 alignment/navigation repair, 2026-10-26 06:08Z
+
+`degree-2874787d` applied the routed transparency exercise/feedback and
+mandatory both-comparisons repairs. A read-only adviser also checked
+corrected SCC-review navigation and seven criterion-specific specimens.
+Final bounded production ACCEPT at SHA-256
+`c38a8d6d48eb81e44d00aff28ca942c1ba5df2fe0ad4e046840ff3c90a600fad`.
+Receipt: `verify/deg-psychdim-m5-alignment-repair-2874787d.md`.
+
+M5 is **315 estimated minutes**; packet **2,355 minutes, 39h15m**.
+No recording time changed. McAdams 13:31 is an open requirement:
+continuous timestamped evidence or an approved verified adjustment is
+still owed; M5 remains NOT CLEARED.
+
+Fresh remote decisions supersede the preceding snapshot: M2's changed
+hash has supervisor confirmation; M4 is verification-open, not passed
+pending a nonblocking flag. Preserve those gate decisions.

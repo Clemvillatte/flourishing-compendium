@@ -62,8 +62,10 @@ equivalent route:
   before the participant's negative-childhood interview example.
 - **Brian Little, The puzzle of personality:** [11:12–13:59](https://www.youtube.com/watch?v=qYvXk_bqlBk&t=672),
   **2:47**, personal projects, out-of-character action and its possible
-  cost. Earlier caffeine/sexual anecdotes and later bathroom story
-  are not assigned.
+  cost. Earlier caffeine/sexual anecdotes and the extended later cubicle
+  anecdote are not assigned; a brief bathroom lead-in begins before
+  the printed stop in the
+  [official TED transcript](https://www.ted.com/talks/brian_little_who_are_you_really_the_puzzle_of_personality/transcript).
 
 The Yale course identifies Bloom as instructor; Northwestern identifies
 McAdams's personality/narrative research. Cambridge identifies Little's
@@ -78,10 +80,15 @@ Read the following bounded companions:
 
 - **Manchiraju, 2026 SCC review:** "Definition and core components";
   the first two paragraphs of "Distinguishing self-concept clarity
-  from related constructs" and Table 1; the complete four-paragraph
-  "A critical appraisal of self-concept clarity measurement"; finally
-  the last two paragraphs of "Interventions, change, and optimal
-  self-concept clarity," beginning "A candid appraisal." No broad
+  from related constructs" and Table 1; the single paragraph under
+  "A critical appraisal of self-concept clarity measurement," from
+  "These strengths notwithstanding..." through "...measurement
+  foundation on which they rest"; finally, under "Interventions, change,
+  and optimal self-concept clarity," only the sentence beginning
+  "A candid appraisal..." through "...rather than established effects",
+  followed by the final paragraph beginning "Finally, more clarity...".
+  The four measurement cautions occupy one paragraph; the candid-appraisal
+  sentence is inside a longer paragraph, not a paragraph opening. No broad
   clinical/intervention chapter is assigned
   ([open review](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/)).
 - **Branje and colleagues, 2021:** the first four introductory
@@ -203,6 +210,22 @@ not established fact. When another volunteer misses a deadline, Alex
 calls them lazy but explains Alex's own delay by a software outage.
 That asymmetry suggests an attribution question; records of the actual
 constraints would be needed before judging either person.
+
+Now distinguish a second claim. In an invented briefing, Alex notices
+a racing heart and thinks, “Everyone can tell exactly how nervous I am,”
+while also thinking, “Everyone noticed that I dropped my notes.”
+Identify which claim concerns an outward event and which concerns
+another person's access to an inner state. Propose a countercheck for
+each; do not assume either prediction is false merely because you know
+a psychology label.
+
+Feedback: the dropped-notes prediction invites a spotlight-effect
+question; the prediction about how much nervousness others can detect
+invites a transparency-effect question. “Did you notice the dropped
+notes?” and a neutral question about what a listener inferred would
+address different claims. Neither the racing heart nor Alex's certainty
+establishes what the listeners actually noticed or inferred.
+([Bloom, spotlight and transparency chapter](https://oyc.yale.edu/psychology/psyc-110/lecture-16))
 
 For completion practice, Alex values respectful listening but repeatedly
 interrupts, then says the others had nothing useful to add. Explain a
@@ -331,9 +354,14 @@ Plan and write an 800–1,000-word inquiry note:
   the question. Include content/clarity/esteem/accuracy/narrative
   classification without treating them as interchangeable. Attach the
   three-time-point identity-domain chart, with uncertainty marked.
-- **Comparison:** choose either the two development approaches or
-  trait/project explanations of the same event. State their different
-  questions or predictions, not just that both seem interesting.
+- **Comparison:** include two short, labelled comparisons. First,
+  compare the process and narrative development approaches for one
+  identity issue, using the domain chart and a population/context limit.
+  Second, compare a Big Five trait explanation with Little's
+  project/context explanation for the same ordinary event. State their
+  different questions or expectations and what further observation
+  could help distinguish them, not just that both seem interesting.
+  The same event may support both comparisons.
 - **Evidence plan:** choose a feasible observation or source check,
   one plausible alternative explanation and a condition for revising
   your interpretation. Do not engineer distress or manipulate anyone.
@@ -357,20 +385,95 @@ Plan and write an 800–1,000-word inquiry note:
 - **Framework:** connect a self-description to the EEMM lens and
   state what the narrow FAP target does and does not establish.
 
-This is less scaffolded than M4: choose which comparison and evidence
-are appropriate, state your criteria, and justify why the selected
+This is less scaffolded than M4: choose which issue, event and evidence
+serve the two required comparisons, state your criteria, and justify why the selected
 sources answer your question better than an untested self-label.
 You are not asked to carry out an experiment or report a changed score.
 
 | Criterion | Pass | Revise |
 |---|---|---|
 | Concepts | Correct distinctions used to clarify the chosen question. | Worth, clarity, accuracy and identity treated as one score. |
-| Development/comparison | Three-time-point domain chart, same-issue comparison and population/context limit. | No chart, two names listed or adolescent trajectories applied to everyone. |
+| Development/comparison | Three-time-point domain chart, same-issue process/narrative comparison and population/context limit. | No chart, two names listed or adolescent trajectories applied to everyone. |
 | Social interpretation | Own/other comparison, cautious concept use, countercheck and cultural limit. | Bias diagnosed from disagreement or national stereotype. |
-| Traits and agency | Own recurring pattern, continuous tendency, context qualification and poor fit. | Binary trait type, destiny claim or unlimited self-control promise. |
+| Traits and agency | Own recurring pattern, continuous tendency, context qualification and poor fit; required same-event Big Five versus project/context comparison, with different questions or expectations and a discriminating observation. | Binary trait type, destiny claim, unlimited self-control promise, or no trait/project comparison. |
 | Inquiry/measurement | Independent justified plan, correct keying, complete-score logic and two evidence limits. | Missing responses invented, raw reverse items uncorrected or score treated as diagnosis. |
 | Framework | Distinguishes the EEMM lens, FAP target and an untested controlling-variable hypothesis. | FAP target called a universal self-definition or a proven mechanism. |
 | Transfer | Each family connects lived understanding/choice with uncertainty, privately if desired. | Disclosure or a positive outcome substituted for reasoning. |
+
+### What sufficient work looks like
+
+These invented specimens show the response form; they are not source
+quotations, observations of a real learner or findings about Alex.
+The rejection examples explain why a fluent answer can still need work.
+
+- **Concepts:** “'I am a dependable friend' is self-concept content.
+  Being confident and consistent about that description concerns clarity;
+  feeling worthy concerns esteem. Whether the description fits what I
+  do is an accuracy question; the story linking friendship experiences
+  is narrative identity.” Rejection example: “A clear self-description
+  proves that I am accurate and worthy.” Compare with the five-statement
+  completion exercise above.
+- **Development/comparison:** “My fictional career chart marks past
+  uncertainty, present training and a provisional future commitment.
+  A process question asks how exploration and commitment change; a
+  narrative question asks how the person makes sense of those changes.
+  The future entry is a possibility, not an observed outcome; the
+  adolescent review does not establish every adult's trajectory.”
+  Rejection example: “I named the two approaches, so they explain
+  everyone's identity development.”
+- **Social interpretation:** “'They noticed my dropped notes' concerns
+  an outward event; 'they knew exactly how nervous I felt' concerns
+  transparency. I would separate what a listener reported noticing
+  from what they inferred. My prediction alone proves neither, and
+  the lecture's broad cultural contrast cannot tell me this listener's
+  response. For attribution, 'I replied late because I lacked time;
+  they replied late because they did not care' needs contextual facts
+  about both delays before I favour either account.”
+  Rejection example: “Feeling exposed proves that everyone
+  noticed both my mistake and my private emotion.”
+- **Traits and agency:** “Alex's recurring quietness is a tentative
+  tendency, not an introvert type. A trait account asks about the pattern
+  across situations; a project account asks what Alex is trying to
+  protect in this forceful intervention. I would compare ordinary
+  meetings with occasions when that project is at stake. One departure
+  cannot make the whole trait account worthless.”
+  Rejection example: “Quiet people never speak up, unless they can
+  freely override every personal and situational constraint.”
+- **Inquiry/measurement:** “I would record opportunities to speak and
+  my response in three ordinary meetings; differences in invitations
+  are an alternative to a changing self-story. I would revise the
+  interpretation if opportunity explained the pattern. For the supplied
+  scoring example, the asterisked item's raw 1 becomes 5, while items
+  6 and 11 stay 4 and 3;
+  I cannot calculate a complete mean from only those three responses.
+  Shared self-report method and context-dependent answers limit the
+  inference.” Rejection example: “I will fill the missing responses
+  with 3, call the result my true clarity and treat a higher repeat
+  score as proof of the mechanism.”
+- **Framework:** “'I stay quiet to avoid seeming pushy' is a
+  self-description I can examine with the EEMM lens. The particular
+  FAP target concerns discriminative control over the verbal response
+  'I'; it is not a complete definition of self. A proposed history of
+  reinforcement is a hypothesis here, not a demonstrated controlling
+  variable.” Rejection example: “Table 1 proves why Alex has this self.”
+- **Transfer:** a private response may use a neutral code rather than
+  personal details. For each outcome family, record an actual instance,
+  a useful understanding or choice, and an uncertainty. The following
+  compact model is hypothetical; your own private instance must not be
+  copied from it:
+
+  | Family | Example response form: instance → usefulness/choice → uncertainty |
+  |---|---|
+  | Distinctions | Episode A, doubting a work label → separate doubt from worth → label may still fit imperfectly |
+  | Development | Same issue across three periods → compare commitment changes with the story about them → recollection and future entry are uncertain |
+  | Social interpretation | Feeling exposed after speaking → check noticing separately from inferred emotion → others' reports are not yet known |
+  | Traits/agency | Quietness except on a valued project → compare recurring tendency and immediate purpose → one episode cannot distinguish the accounts |
+  | Inquiry/measurement | Private clarity reflection → choose an ordinary observation and leave missing answers missing → self-report and context limit inference |
+  | Framework | “I am always quiet” → treat this as a self-description to examine → controlling variables have not been demonstrated |
+
+  Rejection example: “The story is intimate and I feel better, so every
+  outcome has been demonstrated,” without an instance–choice–uncertainty
+  connection for each family.
 
 All criteria must pass. Use this first self-review: "Have I explained
 which observation could make me revise my story?" If not, revise that
@@ -389,19 +492,19 @@ Add **15 minutes** of pauses/notes, about **50 minutes**.
 Required readings and the instrument are approximately **1,700–2,000
 words**, an estimate; at 130 words per minute and three times raw
 reading, allow **45 minutes**, including finding the exact selections.
-Allow **40 minutes** for this lesson's explanation (about 2,400 words
-at 180 words per minute with threefold study allowance), **35 minutes**
+Allow **50 minutes** for this lesson's explanation and worked specimens,
+including rereading and checking the rubric, **40 minutes**
 for classification/comparison/keying practice, **20 minutes** for
 delayed retrieval, and **110 minutes** for independently planning,
 writing, self-reviewing and revising the inquiry. Total: **about
-5 hours**, 300 estimated minutes. Optional personal
+5 hours 15 minutes**, 315 estimated minutes. Optional personal
 questionnaire completion is not an additional requirement.
 
 | Outcome | Teaching | Practice/feedback | Independent evidence |
 |---|---|---|---|
 | Distinctions | SCC definitions; McAdams; classification | Five statements and answer categories | Concepts applied to chosen question |
-| Development | Branje; exploration and narrative comparison | Two questions and population limit | Chosen comparison plus boundary |
-| Social interpretation | Bounded Bloom; Alex examples | Dissonance alternative and countercheck | Cautious concept use and limit |
-| Personality/agency | Big Five; Noba qualifications; Little | Same-event expectations and feedback | Continuous traits and context/project account |
+| Development | Branje; exploration and narrative comparison | Two questions and population limit | Required process/narrative comparison plus boundary |
+| Social interpretation | Bounded Bloom; Alex examples | Distinct spotlight/transparency task with feedback; dissonance alternative and countercheck | Cautious concept use and limit |
+| Personality/agency | Big Five; Noba qualifications; Little | Same-event expectations and feedback | Required same-event trait/project comparison; continuous traits and context/project account |
 | Measurement/inquiry | Actual SCCS; scoring model; review critique | Fictional keying and change explanation | Independent justified plan and no-verdict interpretation |
 | Framework | EEMM/FAP table row; self-description example | Response/context distinction and uncertainty feedback | Bounded framework linkage |
