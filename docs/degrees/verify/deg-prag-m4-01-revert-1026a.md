@@ -48,3 +48,12 @@ preserves the correct state; the fix-list annotation blocks the stale item.
 
 No modules, ledgers, band files or shared boards edited by this receipt
 beyond the appended OWNER-BOARD line.
+
+## Addendum (same agent, 2026-10-26 12:08Z)
+
+Live-site closure: the defective PRAG-M4-01 state was deployed (live check at
+12:07:29Z still showed "Two measured passages"; the revert landed on Pages by
+the 12:08:35Z check, now serving the correct single 778-word Reading A
+passage). Defect was live to learners for roughly two minutes. Both the
+assignments JSON and the data block were reverted, and the fix-list item is
+annotated on origin, so replays cannot reintroduce it.
