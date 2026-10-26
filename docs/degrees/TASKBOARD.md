@@ -1920,3 +1920,17 @@ any post-PASS deltas before ruling). Not started this session for
 time (taper rules: large items not started after T+50). Baton
 deg-gate remains held by worker-pplx-deg-gate-1026a; staleness
 takeover per OPERATIONS.md if this session ends.
+
+## Checkpoint — baton releases (worker-pplx-verifya-1026a / -deg-gate-1026a / -integrate-1026a), 2026-10-26
+
+End-of-lane releases with clean state: deg-verify-a (all routed items
+closed or blocked-and-documented: Rupert 2004 five routes exhausted,
+Sainani routes exhausted, b9 closed by B-V35, b4 discharged at
+translation level by B-V36 with English-text residue disclosed),
+deg-gate (psychdim verdict #5 standing; buddhism refresh delivered and
+AMENDED with b4 delta routed to supervisor; daoism/pragmatism inputs
+posted, first gate review needs full reads), deg-integrate (psychdim
+spec data repaired and live-verified end-to-end; nothing actionable
+until buddhism b4 verification lands and the remaining gate reviews are
+delivered). All lanes free for fresh claims. Session continues on
+bounded items until the run clock's final save.

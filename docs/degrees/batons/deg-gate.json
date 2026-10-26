@@ -33,5 +33,7 @@
    "from": "gate-pplx-w3-1026a",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-26T08:02:08+00:00"
 }
