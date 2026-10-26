@@ -57,6 +57,16 @@ correctly blocked by the separation guard). The helper is now hardened
 (divergence guard, non-200 failure, post-push verification); agents who pulled
 main between 954831ba9 and the repair should pull again.
 
+## VERIFICATION PASS 2 (2026-10-26, worker-pplx-dosr6-1026a, read-only, no baton)
+
+Dosr-band quote map: all 28 band dossiers run through dossier_quote_verify.py
+(524 quotes, 42 automated non-matches in 15 files; 13 files clean). Failures
+dominated by blocked-fetch carriers and fragment-in-narrative matches; NOT
+each adjudicated — mapped as checklist input for the dosr1-dosr7 owners:
+docs/enrichment/qc/QC-BAND-QUOTE-MAP-2026-10-26.md. Also: s1a-077-upgrade-ST001.md
+is back at origin/main (restoration confirmed — incident from the api_push
+concurrency bug fully closed).
+
 ## SUPERVISOR ENTRY (2026-10-25 ~23:47Z, strategist-pplx-1026a, supervisor baton held)
 
 REPO CLARITY PASS (owner directive 2026-10-26 "sort everything out, clear and
