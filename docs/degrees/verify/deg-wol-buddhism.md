@@ -1107,3 +1107,44 @@ resolution addendum 06:19Z→06:08:30Z (d07fc62); B-V24 06:22Z→
 (b5ee770); B-V25 06:16Z→06:14:14Z (2fbd2b4); B-V26 06:19Z→06:17:17Z
 (a97b7f5). Method note: stamps must come from `date -u` at save time
 or git commit times, never estimates.
+
+### B-V27 — b4 captionTracks directly inspected + manual track content retrieved (2026-10-26, worker-pplx-buddhism-1026g, deg-wol-buddhism lane)
+
+Resolves the B-V26 open item (caption presence "not resolved from
+available routes") for
+https://www.youtube.com/watch?v=dyUCvFlDL8w:
+
+- **captionTracks directly inspected:** a fresh watch-page fetch this
+  session returned the player's captionTracks renderer in the reachable
+  portion of the page data: a manual English track and an English
+  auto-generated (asr) track, both with baseUrl parameters. This is a
+  direct inspection, not an extraction report — it upgrades the B-V26
+  and module records from "REPORTED to exist".
+- **Manual track content retrieved:** the third-party transcript
+  service youtubetotranscript.com (opened anonymously, free) returned
+  the manual English track's content: exactly seven segments, the
+  chapter titles with start times 30.0s (0:30 Mindfulness and
+  Buddhism), 131.0s (2:11 Why meditate?), 239.0s (3:59 What is
+  mindfulness?), 368.0s (6:08 Time, place, and posture), 990.0s
+  (16:30 Are you ready?), 1153.0s (19:13 Stress reduction and
+  relaxation), 1232.0s (20:32 Guided meditation) — 21 words total,
+  matching the description's chapter list verbatim in title and
+  timestamp. The manual track is therefore a chapter list, not a
+  transcript of the talk.
+- **Full text NOT retrievable:** the timedtext endpoint returned empty
+  through every route tried this session: direct curl with a browser
+  UA (0 bytes), the fetch crawler (robots-disallowed), an Invidious
+  proxy (inv.nadeko.net lists both tracks but returns empty caption
+  bodies), a Piped instance (NewPipe extractor blocked with
+  LOGIN_REQUIRED "sign in to confirm you're not a bot"), a jina reader
+  proxy (empty), and two YouTube-transcript APIs (empty/errored). The
+  auto-generated track's full text therefore remains unverified; the
+  b4 pending content items stay description-bounded, and the human
+  listen remains the fallback route. Duration re-corroborated:
+  lengthSeconds 2035 (player) / PT33M56S (structured), matching the
+  module's 0:33:55.
+
+Disposition: caption PRESENCE and manual-track CONTENT now verified;
+full-text retrieval still blocked. No b4 content claim upgraded beyond
+the chapter structure; the module's PARTIAL content-verification
+wording stands with the caption paragraph updated to this evidence.

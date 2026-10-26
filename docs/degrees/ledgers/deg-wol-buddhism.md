@@ -1307,3 +1307,21 @@ repaired this pass and re-hashed:
   previous entry were hard-coded, not clock-read (documented per the
   project's projected-timestamp rule); this entry's 07:39:45Z reading is
   an actual clock reading taken before the save.
+
+## b4 caption flag resolved at track level (2026-10-26, worker-pplx-buddhism-1026g)
+
+The band's open item "b4 caption-text retrieval" was worked this pass
+(receipt B-V27 in verify/deg-wol-buddhism.md): the watch page's
+captionTracks data was directly inspected (manual English + English
+auto-generated tracks, with baseUrls), and the manual track's content
+was retrieved through a third-party transcript service — exactly the
+seven chapter titles with timestamps (0:30, 2:11, 3:59, 6:08, 16:30,
+19:13, 20:32), matching the description's chapter list verbatim. The
+manual track is a chapter list, not a transcript. The full text (asr
+track) was not retrievable through any route tried (direct curl, the
+crawler's robots rules, an Invidious proxy, a Piped instance, a jina
+reader proxy, two transcript APIs); the b4 module's caption paragraph
+and source-table row were updated to this evidence (draft v3), and the
+two pending content items stay description-bounded with the human
+listen as the fallback route. Duration re-corroborated (2035s /
+PT33M56S). Hash after the record update recorded in the band file.

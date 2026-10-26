@@ -4,7 +4,7 @@
 - **kind**: degree-module (practice module; practicum-style training plan per the curriculum skill's discipline rules)
 - **level**: L2 Guided application
 - **module id**: deg-wol-buddhism-b4
-- **status**: draft v2 (b4 captions REPORTED to exist 2026-10-26, worker-pplx-buddhism-1026b: English + English auto-generated tracks per a watch-page extraction — an extraction report, not a directly inspected JSON array; caption text not retrievable this session (timedtext bot-walled), pending content items stay description-bounded; QC round 2 repairs 2026-10-26: seven sittings, log fields, partial content verification marked; production session 2026-10-26, worker-pplx-buddhism-1026a)
+- **status**: draft v3; not cleared (caption tracks directly inspected and manual-track content verified 2026-10-26, receipt B-V27; full-text retrieval still blocked, content items stay description-bounded; repair history in the ledger)
 - **prerequisites**: b1 exit criteria (two completed metta sittings with a practice record; can state the five precepts); b2 exit criteria (has run the four tasks on one case)
 
 ## Walk context
@@ -116,23 +116,29 @@ Triratna registers respectively. It does not compare schools' techniques
 (b5-b7), and makes no efficacy claims beyond what the teachers state as
 their own experience; the learner's own log is the module's evidence
 base. Content verification for the Brahmali recording is PARTIAL: the
-chapter timestamps above were read from the recording's own description,
-and no transcript of the recording was accessible this session; the
+chapter timestamps above were read from the recording's own description
+and independently corroborated this pass by the recording's own
+caption track (see the source table); no transcript of the recording
+was accessible this session; the
 "breath meditation" classification of the guided segment and the absence
 of rebirth-dependent content in the assigned segments are therefore
 PENDING a transcript inspection. Caption availability is now
-ANSWERED AT THE REPORT LEVEL: a watch-page extraction this pass
-reported English caption tracks for this recording (one regular
-English track and one English auto-generated track); the literal
-captionTracks array fell in the truncated portion of the saved
-extraction, so this is an extraction report, not a directly inspected
-JSON array. The caption
-TEXT was not retrievable in this session (the timedtext endpoint is
-bot-walled from this environment, and the browser transcript panel
-rendered the chapter list only). Playback is also bot-walled for
+VERIFIED AT THE TRACK LEVEL: this pass directly inspected the watch
+page's captionTracks data (a manual English track and an English
+auto-generated track), and retrieved the manual track's content
+through a third-party transcript service: it consists exactly of the
+seven chapter titles with their timestamps (0:30, 2:11, 3:59, 6:08,
+16:30, 19:13, 20:32), matching the description's chapter list
+verbatim. That track is therefore a chapter list, not a transcript of
+the talk. The auto-generated track's full
+TEXT was not retrievable this session (the timedtext endpoint is
+bot-walled from this environment and returned empty through every
+route tried: direct curl, the crawler's robots rules, an Invidious
+proxy, a Piped instance and a reader proxy), and playback is also
+bot-walled for
 automated inspection; the two pending items therefore remain bounded
 to the description, the chapter structure, and the external
-verification receipt (retrieving the caption text, or a human
+verification receipt (retrieving the full caption text, or a human
 listen, is still needed — flagged to the supervisor). No rebirth-
 dependent doctrine appears in the chapter structure or description; the
 full series' later sessions are not attached (each session needs its own
@@ -155,7 +161,7 @@ note).
 
 | resource | status | verified | notes |
 |---|---|---|---|
-| Ajahn Brahmali, "Introduction to Meditation: Session 1", https://www.youtube.com/watch?v=dyUCvFlDL8w (BSWA channel) | verified-metadata (content PARTIAL — see Boundaries) | 2026-10-26 (this session; captions reported this pass) | duration 0:33:55 on watch page; chapter timestamps printed in the description (00:00-20:32 listed above; guided meditation chapter at 20:32); recorded at Dhammaloka Buddhist Centre, Perth; free, BSWA copyright; captions REPORTED to exist (English + English auto-generated tracks, per a watch-page extraction 2026-10-26 — an extraction report, not a directly inspected JSON array) but the caption TEXT was not retrievable this session (timedtext endpoint bot-walled; browser panel rendered chapters only), so content claims stay bounded to the description and chapter structure; credentials opened on the BSWA teacher page (https://bswa.org/teachers/ajahn-brahmali/): anagarika at Amaravati and Chithurst; ordained bhikkhu 1996 with Ajahn Brahm as preceptor; at Bodhinyana Monastery since 1994; Maha Thera since 2015 |
+| Ajahn Brahmali, "Introduction to Meditation: Session 1", https://www.youtube.com/watch?v=dyUCvFlDL8w (BSWA channel) | verified-metadata (content PARTIAL — see Boundaries) | 2026-10-26 (this session; captions verified this pass) | duration 0:33:55 on watch page; chapter timestamps printed in the description (00:00-20:32 listed above; guided meditation chapter at 20:32); recorded at Dhammaloka Buddhist Centre, Perth; free, BSWA copyright; captions VERIFIED THIS PASS: the watch page's captionTracks data directly inspected (manual English track + English auto-generated track), and the manual track's content retrieved through a third-party transcript service — exactly the seven chapter titles with timestamps (0:30, 2:11, 3:59, 6:08, 16:30, 19:13, 20:32), matching the description's chapter list verbatim; the manual track is a chapter list, not a transcript of the talk; the auto-generated full text was not retrievable (timedtext returned empty through every route tried: direct curl, crawler robots rules, Invidious proxy, Piped, reader proxy), so content claims stay bounded to the description and chapter structure; credentials opened on the BSWA teacher page (https://bswa.org/teachers/ajahn-brahmali/): anagarika at Amaravati and Chithurst; ordained bhikkhu 1996 with Ajahn Brahm as preceptor; at Bodhinyana Monastery since 1994; Maha Thera since 2015 |
 | BSWA series index page, https://bswa.org/teaching/introduction-meditation-series-parts-1-5-ajahnbrahmali/ | verified | 2026-10-26 (deg-verify-a receipt B-V03; re-opened this session) | five-session series dated 5 March 2023; sessions 2-5 NOT attached (each needs per-session verification before attachment, per the receipt's caveat) |
 | Metta Sutta Khp 9, Sujato translation, https://suttacentral.net/kp9/en/sujato | verified | 2026-10-26 (this session, b1) | see b1 source table |
 | Five-stage loving-kindness method, https://thebuddhistcentre.com/text/loving-kindness-meditation | verified | 2026-10-26 (this session) | opened anonymously; the five stages (yourself, good friend, neutral person, someone you dislike, everyone) read on the opened page; publisher: the Buddhist Centre (Triratna) |
