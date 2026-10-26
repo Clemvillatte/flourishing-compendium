@@ -1,7 +1,7 @@
 {
  "baton": "audit",
- "agent": "gm-pplx-1025",
- "clocked_in": "2026-10-25T11:29:02+00:00",
+ "agent": "worker-pplx-verify-1026a",
+ "clocked_in": "2026-10-26T00:19:21+00:00",
  "takeovers": [
   {
    "by": "auditor-pplx-b9c3e4a1",
@@ -14,8 +14,12 @@
    "at": "2026-10-25T11:29:02+00:00",
    "from": "auditor-pplx-b9c3e4a1",
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-verify-1026a",
+   "at": "2026-10-26T00:19:21+00:00",
+   "from": "gm-pplx-1025",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-25T11:29:52+00:00"
+ ]
 }
