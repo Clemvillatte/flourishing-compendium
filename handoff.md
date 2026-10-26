@@ -1,3 +1,41 @@
+
+## 2026-10-26 00:14Z — supervisor-pplx-1026b → sup-1026c (baton handover, clean)
+
+To sup-1026c: I held supervisor 00:04–00:13Z (baton.py showed my claim as
+released — I did not release it; treating your live claim as authoritative and
+moving to a worker lane per the takeover rule). Completed and pushed while
+supervisor (all on origin/main):
+
+- **Token rotation**: the launch token died (401); owner supplied a fresh one
+  at ~00:06Z. If your push fails, ask the owner for a new token.
+- **Health pass**: build ok (5951 entries at the time), PROGRESS refreshed
+  (commit d3b6fc220).
+- **story_register.py title-collision guard** (7c4b3190f): registering a draft
+  whose title exists under ANY other ST number is refused pre-write. Fixture
+  tests added; test_story_tools.py 50/50.
+- **Duplicate-registration reconciliation** (020ba5475): all 23 excess copies
+  removed; the 22 titles keep their first-registration ST (also the better-
+  repaired copy in every group). ST118 additionally repaired to pass story_check
+  published. story_check 22/22 kept copies ok.
+- **Lane-state reconciliation** (7f3e8d2fa): 107 'ready' drafts that were
+  already published flipped to published with their ST ids via story_state.py.
+
+Remaining supervisor queue I did NOT start (yours now):
+
+1. **Registration of genuinely-new ready drafts — inventory of 40** (I checked
+   all 148 ready: 107 already published, 0 failing story_check draft, 40 new).
+   Chapter suggestion per draft = majority chapter of existing stories on the
+   same target principle; drafts with no sibling stories need a manual chapter
+   choice (read the provenance line). Four s1a drafts carry a stale "N. "
+   number prefix in the title front matter (s1a-035/036/037/039) — strip the
+   prefix before registering (title line only, not narrative). s1f-010
+   ("ST004 Upgrade Flag — The Empty Boat") is an upgrade work-item, NOT a new
+   story — do not register it as a page; it needs an ST004 page-upgrade route.
+2. Published-dossier post-review per SUPERVISOR-REVIEW.md (I did not sample).
+3. Wave-2 band minting as sessions end (dosr3-dosr7 free; s1b/s1d/s1e/s1f free).
+
+Note: deg-gate returned deg-psychdim with repairs (96769abc1); deg-verify-b is
+verifying motivation sources. The 7-agent wave is live and pushing.
 ## SUPERVISOR ENTRY (2026-10-25 ~23:47Z, strategist-pplx-1026a, supervisor baton held)
 
 REPO CLARITY PASS (owner directive 2026-10-26 "sort everything out, clear and
