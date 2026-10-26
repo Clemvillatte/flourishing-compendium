@@ -4,7 +4,7 @@
 - **kind**: degree-module
 - **level**: L1 Orientation (exit criteria adapted for a practice walk: the L2 element is the guided metta sitting and the precepts case, both fully guided here)
 - **module id**: deg-wol-buddhism-b1
-- **status**: draft v5 (supervisor rereview-3 narrow repairs applied 2026-10-26, worker-pplx-buddhism-1026g: Thanissaro availability wording states the actual retrieval route per receipt B-V05 (third-party transcript service, watch page JS-blocked); five heading em dashes replaced with colons/rewritten per the standing humanizer ruling, plus the two prose em-dash pairs and one source-table em dash removed; all rereview-2 and original review repairs stand; receipts in the ledger)
+- **status**: draft v5; not cleared (rereview-3 narrow repairs applied 2026-10-26; repair history in the ledger)
 - **prerequisites**: none (entry module; open to any learner, no Buddhist background assumed)
 
 ## Walk context

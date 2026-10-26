@@ -1262,3 +1262,48 @@ deg-wol-buddhism baton (stale takeover from worker-pplx-buddhism-1026b).
   caption-text retrieval or human listen; b7 Burma/Vipassana passage
   read; AudioDharma B-V17 flag mapping (b7); duplicate-name guard; m1
   reconciliation (archived, kept as evidence).
+
+## Advisor-QC corrections on the b1/b2 repair pass (2026-10-26, worker-pplx-buddhism-1026g)
+
+The first advisor QC round on my repair pass found four defects, all
+repaired this pass and re-hashed:
+
+- b2 outcome 2 was not yet conditional (it still required describing
+  "what its ending would actually be"); now conditional on craving
+  identified, with the no-craving branch asking what the observations do
+  not establish about cessation.
+- The no-craving worksheet wording was an overclaim ("the ending of a
+  craving that was not found cannot be observed"); narrowed to "explain
+  why your observations do not establish its cessation", rubric row
+  aligned.
+- My Dreyfus locator attribution was inaccurate: I had phrased the
+  timecodes as inherited from "the verification lane's opened-transcript
+  record, receipt B-V01", but B-V01's third-party transcript carries no
+  timestamps and says the markers rest on the inherited M02-B04 record
+  and could not be re-verified. Per B-V01's own disposition (re-read
+  from the player or drop) and the advisor's ruling, the content
+  timecodes (00:17-00:40, 01:20:13, 00:09:55, 01:01:04, 00:11:15-11:21)
+  are DROPPED from the learner path; the boundary claims (dukkha-only
+  coverage, three-session structure, the analogy being Dreyfus's own
+  term) rest on the B-V01 transcript read and stay; the two viewing
+  stops are the module's own midpoint arithmetic and stay. The
+  receipt-ID narration and the "no finer split is owed" line moved out
+  of the learner path (the rationale sentence stays, the audit note is
+  here and in the source table).
+- The worked example's new parenthesis claimed "the discourse defines
+  right speech as abstaining from lying, divisive talk, abuse and idle
+  chatter"; I fetched the AtI SN 56.11 page this session to check: the
+  discourse's path list NAMES right speech but carries no definition
+  (the fourfold definition lives elsewhere in the canon). The overclaim
+  was removed; the example is now the concrete speech act alone
+  (declining to retell the argument to another relative in a way that
+  would turn them against the first). While there, the same fetch
+  confirmed verbatim the "craving that makes for further becoming"
+  phrase the rebirth-gloss repair quotes, and the four task verbs.
+- Both frontmatter status lines trimmed to minimal reviewer metadata
+  ("draft; not cleared") per the advisor's reading of the b1 precedent;
+  the repair history lives here and in the source tables.
+- Band "updated" timestamps of 07:45:00Z and 07:55:00Z written in the
+  previous entry were hard-coded, not clock-read (documented per the
+  project's projected-timestamp rule); this entry's 07:39:45Z reading is
+  an actual clock reading taken before the save.
