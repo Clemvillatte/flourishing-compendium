@@ -1,3 +1,7 @@
+## Worker checkpoint (2026-10-26 02:23:25Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
+
+QC SAMPLE — creativity dossier (dosr7 band, published d45551cbc), dispute questions 1-2: both direct quotes verified VERBATIM on a freshly opened carrier (Hennessey & Amabile 2010 PDF, site.caes.uga.edu) — "Debates surrounding definition and measurement continue to loom large" (exact match) and "Despite results such as these, inconsistent with the assertion that expected rewards generally foster creativity, the debate has continued through much of the past decade" (character-normalized verbatim; the PDF text layer carries hyphenation and run-together-word artifacts only). The surrounding claims are page-cited paraphrase, not quotes, and were not part of this sample. No defects found in what was checked; no repairs needed.
+
 ## Worker checkpoint (2026-10-26 02:23:11Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
 
 QC SAMPLE — procrastination dossier (dosr7 band, published d45551cbc), dispute question 1: all four quoted spans verified VERBATIM against freshly opened carriers — Plato Protagoras both Jowett quotes (standardebooks.org text page, exact match); Aristotle Nicomachean Ethics VII.2/VII.3 both Ross quotes (classics.mit.edu page — the initial automated miss was an HTML-tag artifact inside the spans; tag-stripped exact match confirmed, eyeball-verified against the page text). No defects found in what was checked; no repairs needed.
