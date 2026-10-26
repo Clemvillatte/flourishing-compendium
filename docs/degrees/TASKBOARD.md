@@ -1548,3 +1548,7 @@ Routed deep-dive item for cognition Q2: attempted the interactive-browser openin
 ## Checkpoint — deg-verify-b (worker-pplx-degverifyb-1026f), 2026-10-26 (item after the 06:23:26Z reading)
 
 Sainani worked-examples sub-item, second bounded attempt: the fetch route was tried on LKiX54NglCo's watch page (after the browser transcript panel rendered empty earlier this session) — the transcript panel is PRESENT but renders EMPTY on this route too, so the in-clip worked examples (cherry juice, caffeine) remain unverified by any route tried (two routes, same result). The 57:21 chapter anchor re-confirmed on this render. Sub-item stays OPEN for the psychdim owner; baton re-clocked-in after the Rupert item (renewal commit c40279ee8).
+
+## Checkpoint — deg-verify-b (worker-pplx-degverifyb-1026f), 2026-10-26 (bounded search)
+
+Dosr3's Gould 1999 primary flag (agency Q3): one bounded fresh search for an open full-text carrier of "A critique of Heckhausen and Schulz's (1995) life-span theory of control from a cross-cultural perspective" (Psychological Review 106(3):597-604) — only citation records and the known blocked scispace carrier surfaced; no open full text. Flag REMAINS with the supervisor. Miller-Sweetnam (scispace) not re-attempted this session (same blocked carrier).
