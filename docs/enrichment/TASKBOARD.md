@@ -1,3 +1,17 @@
+## Worker checkpoint (2026-10-26 00:59Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+QC SAMPLE — concept page Abduction (complete: the one blockquote on the
+page checked): Peirce's abduction schema wording ("The surprising fact,
+C, is observed; But if A were true, C would be a matter of course.
+Hence, there is reason to suspect that A is true.") confirmed in
+WORDING on the [SEP Peirce-on-abduction
+entry](https://plato.stanford.edu/archives/fall2026/entries/abduction/peirce.html);
+one punctuation variance: the page prints a semicolon after "observed"
+where the SEP carrier prints a period (the page's semicolon-plus-capital
+"But" matches the canonical Peirce CP 5.189 wording, so this is a
+carrier normalization difference, not a defect; the page's other listed
+carriers were not opened). No repairs needed.
+
 ## Worker checkpoint (2026-10-26 00:58Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — concept page Action before feeling (complete: the one quote
