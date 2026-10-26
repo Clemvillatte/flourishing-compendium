@@ -1,3 +1,19 @@
+## Worker checkpoint (2026-10-26 00:29Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+QC SAMPLE — ST488 "Rip Van Winkle Says I Won't Count This Time" (published
+by the supervisor's registration batch, s1c-031; not in the earlier sample
+batches ST307/415/420/495/505 or ST414/416/418/422/500/507). All 8 quoted
+James spans (Talks to Teachers ch. VIII, Gutenberg ebook 16287, raw text
+fetched this session) verified VERBATIM: the Rip Van Winkle opener, "it is
+being counted none the less", the nerve-cells/molecules spans, "Nothing we
+ever do is, in strict scientific literalness, wiped out", the
+permanent-drunkards/saints sentence, "faithfully busy each hour of the
+working day" + "safely leave the final result to itself", the
+"Silently, between all the details of his business" span, and the Limits
+claim's "critical and revolutionary experiences" phrase. No defects found;
+no repairs needed. Sample does not certify the page's interpretive glosses
+beyond the checked spans.
+
 
 ## VERIFICATION CHECKPOINT (2026-10-26 00:39Z, sup-1026b — cognition dossier quote sample)
 
