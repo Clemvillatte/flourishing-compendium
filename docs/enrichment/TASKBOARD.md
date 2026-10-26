@@ -1,3 +1,11 @@
+## Worker checkpoint (2026-10-26 14:58Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+TENTH QC SAMPLE (taper window): frustration.md and overload-
+overwhelm.md — both dossier_check OK and BOTH FULLY CLEAN
+(frustration 22 checked / 0 not found; overload-overwhelm 11
+checked / 0 not found). No dossier text changed. Files touched: this
+checkpoint only.
+
 ## Worker checkpoint (2026-10-26 14:52Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 NINTH QC SAMPLE (taper window, bounded): gratitude.md and
