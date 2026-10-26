@@ -572,3 +572,30 @@ items adjudicated — 33 false positives confirmed, 2 genuine deviations
 repaired and pushed (Hayes semicolon; Goyal "reductions in"), 10 items not
 confirmable from this environment (suttacentral x2, Wiley/Algoe x3,
 tandfonline x3, scispace x2), 0 known outstanding deviations.
+
+# QC sample 19: gratitude — Algoe spans confirmed via Wiley abstract text (2026-10-26 02:48:15Z, measured in-command)
+
+The three Wiley-hosted Algoe spans are CONFIRMED VERBATIM. A fresh web
+search surfaced the Wiley pages' own abstract text printing the quoted
+sentences exactly:
+
+1. Algoe 2012 (find-remind-and-bind): "The find-remind-and-bind theory of
+   gratitude posits that the positive emotion of gratitude serves the
+   evolutionary function of strengthening a relationship with a responsive
+   interaction partner (Algoe, Haidt, & Gable, 2008)."
+2. Algoe, Gable & Maisel 2010: "However, for both men and women, gratitude
+   from interactions predicted increases in relationship connection and
+   satisfaction the following day, for both recipient and benefactor."
+3. The same 2010 abstract covers the third NOT FOUND, which was a
+   prose-extraction fragment from the dossier's citation line.
+
+The Wiley page itself blocks automated fetchers (per the map); the
+search-surfaced abstract text settles the wording. FALSE POSITIVES, all
+three.
+
+Updated tally (this entry governs): 38 automated NOT FOUNDs adjudicated
+this session — 36 false positives confirmed, 2 genuine deviations repaired
+and pushed (Hayes semicolon; Goyal "reductions in"), 0 known outstanding
+deviations, 7 items not confirmable from this environment (suttacentral x2,
+tandfonline x3, scispace x2 — all blocked hosts, none known or suspected
+deviations).
