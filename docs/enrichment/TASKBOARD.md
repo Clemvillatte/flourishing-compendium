@@ -1,4 +1,11 @@
 
+## VERIFICATION CHECKPOINT (2026-10-26 00:51Z, sup-1026b — affect + right-action dossier quote samples)
+
+4/4 verbatim against freshly opened carriers: James 1884 (psychclassics —
+the feel-sorry-because-we-cry clause exact within the full sentence) and
+SN 45.8 (accesstoinsight, Thanissaro — the right-action formula exact).
+Session total 38 verbatim spans across 22 sampled pages.
+
 ## VERIFICATION CHECKPOINT (2026-10-26 00:47Z, sup-1026b — attention dossier quote sample)
 
 2/2 verbatim against freshly opened carriers: James PoP ch. 11
