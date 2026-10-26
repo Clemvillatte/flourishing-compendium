@@ -141,3 +141,7 @@ Deep trace added for m1 (docs/degrees/verify/deg-psychdim-m1-deep-trace-1026a.md
 ## Addendum 5 (2026-10-26, later same session)
 
 Deep trace added for m5 (docs/degrees/verify/deg-psychdim-m5-deep-trace-1026a.md): PASS - all nine entries value-by-value across the three layers (four video windows incl. lecture 16's dual windows; five bounded readings incl. the Maitland teach-reuse entry this lane added). With m1 through m5 and m7/m8 traced, the verdict's deep-trace reservation now covers m6 only.
+
+## Addendum 6 (2026-10-26, later same session) - DEGREE COMPLETE
+
+Deep trace added for m6 (docs/degrees/verify/deg-psychdim-m6-deep-trace-1026a.md): PASS - all six entries value-by-value (three talk windows, the Fishbach clip, the Ryan and Deci reading, the Woolley teach-reuse). PSYCHDIM DEGREE deep-trace coverage COMPLETE: all eight modules have PASS receipts. WAVE COMPLETION: all four degrees (psychdim 8/8, daoism 5/5, buddhism 9/9, pragmatism 5/5 - 27 modules) now have complete per-module deep-trace coverage, all PASS. Every provisional verdict stands CONFIRMED by deep trace.
