@@ -74,3 +74,15 @@ Same method scope as section 1 applies: substring probes on an opened
 carrier, not a full word-for-word comparison of the complete
 quotations. The procrastination Davidson-remainder boundary remains
 unexamined this pass.
+
+## 7. Addendum 2 — procrastination boundary closed
+
+The Davidson-remainder boundary flagged in section 4 is now closed:
+the two Holton 1999 quotes (the abstract's philosophical-orthodoxy
+passage and the over-ready-revision sentence, plus the author-hosted
+paper's "too ready to reconsider their intentions") were probed on
+the two cited web.archive.org carriers — all spans FOUND. Same method
+scope as section 1: substring probes on opened carriers. With this,
+every flagged boundary from the advisor review has been either closed
+or documented as unverified (Chowdhury 2016; Lavie 2005; ctext.org
+block; Hofmann 2008 paywall).
