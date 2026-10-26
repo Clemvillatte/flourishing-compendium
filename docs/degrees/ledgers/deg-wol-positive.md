@@ -94,9 +94,9 @@ entry was written against.
 
 | URL | opened (UTC) | by | what it verified |
 |---|---|---|---|
-| https://pmc.ncbi.nlm.nih.gov/articles/PMC3599475/ | 2026-10-26, before 09:38Z | worker-pplx-positive-1026p | full text freely accessible (open access, CC BY 2.0): Bolier, Haverman, Westerhof, Riper, Smit, Bohlmeijer 2013, BMC Public Health 13:119 — RCT meta-analysis of positive psychology interventions (39 studies, 6,139 participants); post-test d = 0.34 subjective well-being, 0.20 psychological well-being, 0.23 depression; publication-bias indicators for all outcomes (Orwin fail-safe numbers below required; Trim-and-Fill adjusted effects ~0.16); study quality: 20 of 39 low, 18 medium, 1 high, "None of the studies met all quality criteria" |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC3599475/ | 2026-10-26, before 09:38Z | worker-pplx-positive-1026p | full text freely accessible (open access, CC BY 2.0): Bolier, Haverman, Westerhof, Riper, Smit, Bohlmeijer 2013, BMC Public Health 13:119 — RCT meta-analysis of positive psychology interventions (post-test d = 0.34 subjective well-being, 0.20 psychological well-being, 0.23 depression; follow-up 0.22 / 0.16 / 0.17-ns); publication-bias indicators for all outcomes (Orwin fail-safe numbers below required for all three outcomes; Trim-and-Fill adjusted effects 0.16 for psychological well-being and 0.16 for depression — the subjective-well-being figure was not adjusted in the extract read); study quality: 20 of 39 low, 18 medium, 1 high, "None of the studies met all quality criteria", "None of the studies met all quality criteria" |
 | https://pmc.ncbi.nlm.nih.gov/articles/PMC6541265/ | 2026-10-26, before 09:38Z | worker-pplx-positive-1026p | full text freely accessible (open access, CC BY): White, Uttl, Holder 2019, PLoS One 14(5):e0216588 — re-analysis of PPI meta-analyses; key finding quoted from the article: "when small sample size bias was taken into account, the effect of PPIs on well-being were small but significant (approximately r = .10), whereas the effect of PPIs on depression were variable, dependent on outliers, and generally not statistically significant" |
-| https://www.tandfonline.com/doi/full/10.1080/17439760.2023.2178956 | 2026-10-26, before 09:38Z | worker-pplx-positive-1026p | full text openly accessible (page labelled Open access): van Zyl, Gaffaney, van der Vaart, Dik, Donaldson 2024, The Journal of Positive Psychology 19(2):206-235 — systematic review of critiques (32 records, 117 criticisms, 21 categories, six overarching themes: poor theorizing; measurement/methodology problems; pseudoscience/poor replication; lack of novelty/self-isolation; decontextualized neoliberal ideology causing harm; capitalistic venture) |
+| https://www.tandfonline.com/doi/full/10.1080/17439760.2023.2178956 | 2026-10-26, before 09:38Z | worker-pplx-positive-1026p | full text openly accessible (page labelled Open access): van Zyl, Gaffaney, van der Vaart, Dik, Donaldson 2024, The Journal of Positive Psychology 19(2):206-235 — systematic review of critiques (six overarching themes as printed in the opened extract: poor theorizing; measurement/methodology problems; pseudoscience/poor replication; lack of novelty/self-isolation; decontextualized neoliberal ideology causing harm; capitalistic venture) |
 
 ## Candidates added from the gap-register pass (verification status: UNSET — text sources, reading-level checks outstanding)
 
@@ -112,3 +112,24 @@ row: PMC3599475 + PMC6541265; criticism row: van Zyl et al. 2024). The rows
 stay open until a degree owner attaches them to modules after Gate 1; the
 candidates are recorded, not verified for module use (reading-level checks,
 window assignment outstanding).
+
+## Santos candidate content-evidence upgrade (2026-10-26, worker-pplx-positive-1026p)
+
+Fetch-time bound: the Coursera page below was opened before the 09:40:00Z
+clock read this entry was written against.
+
+| URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
+| https://www.coursera.org/learn/the-science-of-well-being | 2026-10-26, before 09:38:47Z | worker-pplx-positive-1026p | Coursera's own published syllabus (public page, no login): six modules — "Introduction"; "Misconceptions About Happiness"; "Why Our Expectations are so Bad"; "How Can We Overcome Our Biases"; "Stuff that Really Makes Us Happy"; "Putting Strategies into Practice"; course length "10 hours a week" line; free-access options ("Enroll for free", free trial, financial aid); Module 6 items include "Mystery Rewirement", "Final Rewirement Challenge" and the assignment "Reflect on the Rewirement Challenge" |
+
+Candidate-evidence note: the Santos playlist row's content-classification
+evidence is upgraded from "search excerpts only" to "opened published
+syllabus" (Coursera's public page names the six sections and the
+rewirement challenges). The per-lecture windows, the playlist's per-video
+durations and the video-level content remain UNVERIFIED (playback
+outstanding). The YouTube playlist remains the anonymous free carrier
+per Yale Online's own href; Coursera is the syllabus evidence, not the
+designated carrier (signup-gated). The Coursera syllabus does NOT verify
+the playlist's completeness or lecture-level coverage — the playlist's
+video set, per-video durations and lecture-level content remain unverified
+until playback inspection.
