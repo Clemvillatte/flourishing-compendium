@@ -1,0 +1,15 @@
+{
+ "batch": "dosr6",
+ "done": [
+  "2026-10-26 00:25Z STEP 0 scope check (sup-1026b-worker): all four assigned dossiers are ALREADY AT the 3-5 bar (3-4 substantiated questions each; the-self carries 4) — QC-7 list stale for this band; no disagreement repairs; band closed. dossier_check exit 0 all four."
+ ],
+ "detail": {
+  "right-action": "3 questions (taking life; knowledge without action; character robustness) — published.",
+  "sadness-and-grief": "3 questions (mourning as detachment or continuing bonds; confrontation vs avoidance; grief as judgment) — published.",
+  "the-self": "4 questions (permanent self; introspection; cogito; separate vs relational) — published.",
+  "uncertainty": "3 questions (dwelling in not-knowing; response to the unknowable; one-off unknowns and number) — published."
+ },
+ "note": "STEP 0 rule applied per PIPELINE Lane 2; same stale-list finding as dosr1/dosr3/dosr4/dosr5.",
+ "in_progress": "none — band complete",
+ "flagged": {}
+}
