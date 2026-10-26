@@ -1,5 +1,21 @@
 ## Worker checkpoint (2026-10-26 02:46Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
 
+QC SAMPLE — concept page Passion theory Vallerand (complete: all quoted
+spans checked): the three Vallerand et al. 2003 spans — the passion
+definition ("Passion is defined as a strong inclination toward an
+activity that people like, that they find important, and in which they
+invest time and energy."), the HP/OP internalization fork ("Harmonious
+passion (HP) results from an autonomous internalization of the activity
+into the person's identity. Obsessive passion (OP), by contrast,
+results from a controlled internalization of the activity into one's
+identity."), and the outcome line ("HP promotes healthy adaptation
+whereas OP thwarts it by causing negative affect and rigid
+persistence.") — all confirmed VERBATIM on the opened
+[SDT-hosted JPSP PDF](https://selfdeterminationtheory.org/SDT/documents/2003_VallerancBlanchardMageauKoesnterRatelleLeonardGagneMacolais_JPSP.pdf).
+No defects; no repairs needed.
+
+## Worker checkpoint (2026-10-26 02:46Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
 QC SAMPLE — concept page Passions as judgments (complete: all quoted
 spans checked): the Enchiridion 5 Carter-translation passage confirmed
 VERBATIM on the opened
