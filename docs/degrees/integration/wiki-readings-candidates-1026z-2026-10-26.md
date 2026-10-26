@@ -1,6 +1,11 @@
-# Phase C.5 — wiki_readings finite-scope candidate list (OWNER DECISION)
+# Phase C.5 — wiki_readings finite-scope candidate list (PRELIMINARY — OWNER DECISION)
 
-Prepared by supervisor-1026z, 2026-10-26. The learner audit's last four FAILs
+Prepared by supervisor-1026z, 2026-10-26; relabeled PRELIMINARY after QC
+(~12:15Z): these suggestions were selected from wiki structure-page
+titles/headings only — topical matching, which the owner has said is
+insufficient on its own. Each candidate needs a content-and-scope review (the
+candidate page actually opened and checked against the module's reading
+text) before any linking decision. The learner audit's last four FAILs
 are the wiki_readings class (one per priority degree). Per the audit plan
 (docs/degrees/AUDIT-2026-10-26.md, Phase C.5) this list is the finite-scope
 check: only wiki structure pages whose topic IS the module's topic are

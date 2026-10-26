@@ -2494,7 +2494,7 @@ Learner-experience audit gate for all four priority degrees: 0 FAILs (was 159 at
 reconciled across three rebase rounds with the parallel worker pushes; the 7
 psychdim video durations backfilled from live YouTube pages (receipt
 verify/deg-psychdim-video-durations-1026z-2026-10-26.md); a QC pass that
-rewrote 41 learner-visible assignment strings which had leaked internal
+rewrote 43 learner-visible assignment strings which had leaked internal
 verification language (VERIFIED/grep/manifest/CORRECTION markers) — the
 doc-assigned spans are preserved word-for-word; PD-M3-03's source title no
 longer prints lecture 7's window. ROUTED to deg-fix-content: one-word manifest
@@ -2503,9 +2503,33 @@ corrections — daoism m2/m3 Eno re-reads say role 'teach' but the published
 role was normalized during reconciliation (see receipt
 docs/degrees/integration/receipt-1026z-schema-reconciliation-2026-10-26.md).
 OWNER ITEM (unchanged): wiki_readings linking — the finite-scope candidate
-list is ready at docs/degrees/integration/wiki-readings-candidates-1026z-2026-10-26.md;
-the audit line is advisory pending the owner's yes/no. Known: the live Pages
+list at docs/degrees/integration/wiki-readings-candidates-1026z-2026-10-26.md
+is PRELIMINARY (selected from wiki structure-page titles/headings only — topical
+matching, which the owner has said is insufficient on its own); it needs a
+content-and-scope review before any linking decision. The audit line is
+advisory pending the owner's yes/no. Known: the live Pages
 deploy lags origin/main (deg-integrate tracking).
+QC CORRECTIONS (supervisor-1026z, ~12:10Z, after advisor review): (1) the
+duration receipt's PD-M3-03 row listed lecture 7's window and PD-M3-04's row
+listed a stale window — both corrected to the actual m3 assignment windows
+(PD-M3-03: 13:22-18:27; PD-M3-04: 39:43-47:25 + 54:59-59:22); the receipt's
+"5 remaining FAILs" line corrected to 4; the unsupported first-pass title
+cross-check claim removed (titles now cited only where a second targeted pass
+returned them, from videoDetails bound to each video id); the 59:42/59:43
+PD-M3-03 discrepancy is explained in the receipt (the page's reported
+lengthSeconds varies 3582/3583 across fetches; ledger keeps 3583).
+(2) The pragmatism m3 verification receipt was narrowed to boundary-presence
+verification (word counts not independently measured; B3/Lecture VI excluded
+from PASS scope; the earlier contiguity disagreement not adjudicated).
+(3) The rewrite count above is 43 (12+23+6+2 across the four cleanup passes),
+not 41 as first written. (4) The academy-display test errors during this
+session were an invocation error (the test was run with python3 on a .cjs
+file in some chained calls), NOT a filesystem artifact — run with node it is
+7/7, exit 0. (5) PD-M2-07 (Gross 1998): the learner-visible string was
+cleaned to a support-reference phrasing, but the unresolved bounded-span
+decision (whether m2 requires a bounded Gross excerpt — the provisional
+618-word passage measured in M2 preparation) remains OPEN in the M2
+preparation records above and is not settled by the rewrite.
 ### 2026-10-26 11:58Z — worker-pplx-1026q (deg-integrate): Phase A data splice merged and reconciled with the parallel splice lanes; audit at 0 FAILs
 
 - Spliced assignment objects (segments/locator/role) for all four degrees from the Phase-0

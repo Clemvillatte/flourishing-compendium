@@ -1,4 +1,4 @@
-## 2026-10-26 ~12:40Z — supervisor-1026z: PHASE A/D DATA PASS + DURATIONS LANDED; AUDIT 159 -> 4 (only wiki_readings left)
+## 2026-10-26 ~11:50Z (timestamp corrected from an earlier 12:40Z estimate) — supervisor-1026z: PHASE A/D DATA PASS + DURATIONS LANDED; AUDIT 159 -> 4 (only wiki_readings left)
 
 Replayed the deg-fix-schema assignment-schema pass on the merged worker state
 (manifest-driven roles/segments/locators, integrated revisits and capstone
@@ -6,8 +6,11 @@ returns, demoted extras, band-title strips, 27 module-doc prose descriptions,
 4 Walk-of-Life openingNotes, PRAG-M3-02/03/04 source records, BUD-B5-02
 duration) and backfilled the 7 missing psychdim video durations from live
 YouTube pages (receipt: verify/deg-psychdim-video-durations-1026z-2026-10-26.md;
-titles cross-checked, windows verified inside totals, PD-M3-03 corrected to
-0:59:43). Three rebase rounds reconciled the parallel worker pushes; no
+windows verified inside totals, PD-M3-03 corrected to
+0:59:43; titles were NOT returned by the first-pass fetches — the receipt was
+corrected post-QC and titles are now cited only where a second targeted pass
+returned them, see the receipt's correction note). Three rebase rounds
+reconciled the parallel worker pushes; no
 worker's application lost. Evidence: node --check OK, academy-display 7/7,
 degrees_learner_audit 159 FAILs at session start -> 4 at push (all four are
 the wiki_readings owner decision, Phase C.5; the finite-scope candidate check
