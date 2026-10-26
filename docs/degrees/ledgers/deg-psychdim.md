@@ -3238,3 +3238,13 @@ Supervisor acknowledgement `c7a31ee09d7727e77ec0532c197f2cb0d35ffa6c`
 received/read the producer handoff and routed M5/M6 changed-production
 reviews plus M4/M5 recovered-window decisions to the next supervisor
 session. That acknowledgement awards no independent gate.
+
+### Production baton released, 2026-10-26 06:45Z
+
+`degree-2874787d` released only the held `deg-psychdim` production
+baton after the final producer verification. M2/M4/M5/M6 hashes are
+unchanged; the handoff receipt records zero mechanical failures and
+preserves all independent decisions. M4/M5 window decisions and M5/M6
+delta reviews remain routed to the next supervisor session; M6 adviser
+availability failed explicitly. Complete-degree review, integration
+and Academy publication remain closed.

@@ -122,3 +122,7 @@ handoff files plus authorised shared board entries.
 These are mechanical and producer checks. No missing independent
 teaching, recording, complete-degree or publication decision is
 inferred from their result.
+
+The production owner released the held `deg-psychdim` baton at
+06:45Z after those checks. The band holder is now unassigned for
+handoff; the independent decisions above remain outstanding.

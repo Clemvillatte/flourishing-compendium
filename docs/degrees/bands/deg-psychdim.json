@@ -1,8 +1,8 @@
 {
  "band": "deg-psychdim",
  "kind": "degree",
- "holder": "degree-2874787d",
- "phase": "bounded-production-repairs-independent-review-required",
+ "holder": null,
+ "phase": "production-handoff-independent-review-required",
  "modules": {
   "m1-orientation": "independent supervisor MODULE-QC PASS at cdb8f0939; three nonblocking alignment labels fixed. 249 estimated minutes. Not complete-degree/publication clearance.",
   "m2-affective": "independent supervisor MODULE-QC PASS at b1f5533f after changed-hash rereview of the assessment-only delta (review deg-psychdim-m2-supervisor-2026-10-26.md, changed-hash section). 304 estimated minutes. Not complete-degree/publication clearance.",
@@ -13,6 +13,6 @@
   "m7-overt-behavioural": "independent supervisor MODULE-QC PASS at 97857e98 (review deg-psychdim-m7-supervisor-2026-10-26.md); all four numerical claims verified verbatim against opened sources; M3/M7 clip split confirmed disjoint. Two nonblocking notes. 301 estimated active minutes over at least three ordinary days. Not complete-degree/publication clearance.",
   "m8-integrative-capstone": "independent supervisor MODULE-QC PASS (capstone specification) at f26f84ce (review deg-psychdim-m8-supervisor-2026-10-26.md); not evidence of learner execution; not complete-degree/publication clearance. 375 active minutes typically across 7-14 days."
  },
- "notes": "2026-10-26 degree-2874787d: production repair baton active. Packet2370 estimated active minutes,39h30m. Independent supervisor passes M1/M2/M3/M7/M8 preserved. M4/M5 original recording windows now have continuously overlapping indexed timed evidence, independent decisions pending. M5 bounded production adviser ACCEPT. M6 all-six alignment/specimen repair implemented; adviser unavailable after explicit credit exhaustion. Supervisor acknowledged handoff and routed remaining decisions to next session. No integration/publication request; source/scope/coverage gates not self-flipped.",
- "updated": "2026-10-26T06:36:37Z"
+ "notes": "2026-10-26 degree-2874787d: production baton released06:45Z after final producer checks. Packet2370 estimated active minutes,39h30m. Independent supervisor passes M1/M2/M3/M7/M8 preserved. M4/M5 original recording windows have continuously overlapping indexed timed evidence, independent decisions pending. M5 bounded production adviser ACCEPT. M6 alignment/specimen repair implemented; adviser unavailable after explicit credit exhaustion. Supervisor acknowledged handoff and routed remaining decisions to next session. No integration/publication request or self-awarded gate.",
+ "updated": "2026-10-26T06:45:51Z"
 }
