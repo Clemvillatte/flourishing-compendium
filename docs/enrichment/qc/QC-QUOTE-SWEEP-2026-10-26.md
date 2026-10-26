@@ -126,7 +126,7 @@ this worker's own restore was correctly blocked by the story separation
 guard. The helper now refuses to run with a diverged HEAD, fails loudly on
 non-200 responses, and verifies the ref update landed.
 
-## Addendum (2026-10-26, clock 00:28Z, worker-pplx-deg-gate-1026a — verification assist)
+## Addendum (2026-10-26, clock 00:27Z, worker-pplx-deg-gate-1026a — verification assist)
 
 Six UNRESOLVED-queue carriers re-attempted on the open PubMed route; all
 quotes verified VERBATIM this session, live fetches:
