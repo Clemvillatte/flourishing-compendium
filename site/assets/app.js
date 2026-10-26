@@ -6782,7 +6782,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Attention can additionally be trained toward safeness. [Compassion-focused therapy](card:Compassion-focused%20therapy), Gilbert's approach for high shame and self-criticism, trains soothing rhythms of attention among its three emotion-regulation systems."
+          "x": "Attention can also be trained toward safeness. [Compassion-focused therapy](card:Compassion-focused%20therapy), Gilbert's approach for high shame and self-criticism, trains soothing rhythms of attention among its three emotion-regulation systems."
         },
         {
           "t": "h2",

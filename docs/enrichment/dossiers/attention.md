@@ -71,7 +71,7 @@ Attention can also be steered on purpose, within a situation. [Attentional deplo
 
 Steering also works through the frame a person brings to a pursuit. [Regulatory focus theory](https://clemvillatte.github.io/flourishing-compendium/#card=Regulatory%20focus%20theory) shows Higgins's promotion and prevention foci making the same goal a different pursuit.
 
-Attention can additionally be trained toward safeness. [Compassion-focused therapy](https://clemvillatte.github.io/flourishing-compendium/#card=Compassion-focused%20therapy), Gilbert's approach for high shame and self-criticism, trains soothing rhythms of attention among its three emotion-regulation systems.
+Attention can also be trained toward safeness. [Compassion-focused therapy](https://clemvillatte.github.io/flourishing-compendium/#card=Compassion-focused%20therapy), Gilbert's approach for high shame and self-criticism, trains soothing rhythms of attention among its three emotion-regulation systems.
 
 ### The trainings
 
