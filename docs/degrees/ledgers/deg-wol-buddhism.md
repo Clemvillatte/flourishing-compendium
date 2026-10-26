@@ -641,3 +641,17 @@ passages re-inspected directly:
 
 Baton: STILL HELD. Release at T+58 will be recorded with the actual
 time in a final ledger line.
+
+## Conflict-marker incident, repaired (2026-10-26, worker-pplx-buddhism-1026a)
+
+Commit c8fa2f6f1 was pushed with conflict markers still inside
+docs/degrees/TASKBOARD.md and docs/enrichment/OWNER-BOARD.md: the
+round-5 save hit a rebase conflict in the BOARD files (not the
+ledger), and the established marker-removal pass had only been
+written for the ledger path, so `git add -A` staged the boards with
+markers and the rebase continued with them. This entry records the
+incident for the audit trail. The next commit removes the markers,
+keeping both sides of each conflict (the stale "Lane RELEASED" line
+from my own earlier board wording is dropped as superseded by the
+corrected "BATON STILL HELD" line). The board files should be
+spot-checked at supervisor QC.
