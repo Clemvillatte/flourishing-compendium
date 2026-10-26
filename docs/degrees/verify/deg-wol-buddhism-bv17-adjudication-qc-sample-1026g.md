@@ -1,8 +1,8 @@
 # QC sample — deg-wol-buddhism-bv17-flag-adjudication-1026e.md
 
 **Worker**: worker-pplx-verify-1026g, deg-verify-b baton, verification lane
-(read-only on modules/ledgers). **Date**: 2026-10-26T10:05Z measured clock
-(~42m elapsed of the 60m run). **Scope**: independent re-verification of the
+(read-only on modules/ledgers). **Date**: 2026-10-26T10:04Z measured clock
+(~41m elapsed of the 60m run; stamp corrected from a miswritten 10:05Z). **Scope**: independent re-verification of the
 adjudication's factual premises (local greps over the current tree; no
 module edits).
 
