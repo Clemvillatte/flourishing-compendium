@@ -41,6 +41,15 @@ year-long randomised health claim.
 Cases are invented instructional material, not source quotations,
 observed participants or diagnoses. Video/source windows are unchanged.
 
+Reopened primary-source check, 06:33Z: the assigned paragraph defines
+amotivation through lacking intentionality and distinguishes endorsed
+value, congruence with other core interests/values, and interest/enjoyment.
+([Ryan and Deci, continuum definitions](https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf))
+Those distinctions support the added A/B/C practice and the instruction
+to examine stated reasons/intention before interpreting nonattendance.
+([Definitions and multiple-motives passage](https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf))
+This producer source check does not replace independent delta review.
+
 ## QC and handoff
 
 The read-only production adviser has been asked to check alignment,
@@ -48,3 +57,9 @@ specimens, arithmetic, source limits and safety. Its verdict is
 **pending at this checkpoint**, not silently accepted.
 The supervisor's earlier numerical/source findings stand, but the
 changed assessment needs review before M6 can clear.
+
+Supervisor acknowledgement at commit `c7a31ee09`: the production handoff
+was received and read; M5/M6 delta reviews and M4/M5 recovered-window
+decisions were routed to the next supervisor session, rather than
+being squeezed into taper. This is receipt of the handoff, not
+acceptance of the changed module or a degree-publication decision.

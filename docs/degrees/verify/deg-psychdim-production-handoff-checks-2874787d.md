@@ -59,3 +59,11 @@ continuously overlapping timed-text spans are in
 Earlier supervisor findings stay in their review files; this producer
 does not revise those independent dispositions. Complete-degree
 review, integration and public visibility remain closed.
+
+## Handoff acknowledged
+
+Supervisor `supervisor-pplx-1026f` acknowledged this receipt in commit
+`c7a31ee09d7727e77ec0532c197f2cb0d35ffa6c`: the M5/M6 changed-production
+reviews and M4/M5 recovered-window decisions are assigned to the next
+supervisor session because they exceed the current taper window.
+No module or publication gate was awarded in that acknowledgement.
