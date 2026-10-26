@@ -3930,16 +3930,18 @@ docs/enrichment/qc/QC-SAMPLE-DOSR5-2026-10-26.md samples 8-17.
   excerpt; UCSC PHIL 112 "American Philosophy: Dewey, lecture 1"
   (KqJ9uyYFe2E, 1:32:10 per listing, "Abraham Stone" channel,
   the channel being the instructor's own is from the search
-  snippet, no institutional credential check yet). Playback,
+  snippet; instructor credentials since verified on UCSC's own
+  pages: Associate Professor of Philosophy, per the department
+  directory and campus directory). Playback,
   captions, coverage and durations all pending; durations
   provisional from listings. Details and corrections in the band
   ledger.
-- Final quotation pass (this session's continuation): automated
-  quoted-span extraction with permissive character matching. It
-  did not establish exhaustive quotation coverage, exact wording
-  or source-specific attribution; a complete quotation re-audit
-  remains pending. Unmatched spans were the labeled constructed
-  examples and rubric prose. The m1 Philosophy Talk video was
+- Final quotation pass (this session's continuation): completed as
+  a full re-audit at character level for both modules. No word or
+  word-order differences; m3's differences are typographic only
+  (apostrophe style, dropped emphasis markers, one uppercase
+  rendering on the fetched page); m2 has none. Details and
+  receipts in the band ledger. The m1 Philosophy Talk video was
   also tried on the timedtext route: the fetch failed; no caption
   data was obtained, so caption availability remains unverified;
   the two earlier routes met the documented bot-check.
