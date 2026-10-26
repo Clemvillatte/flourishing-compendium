@@ -1627,3 +1627,13 @@ No other m4 change in this edit.
 (all four passages verified character-for-character on sources the
 verifier opened itself, no defects), mirroring the m4 note. No other
 m5 change in this edit.
+
+## m3 verification section, media receipt cited (2026-10-26, worker-pplx-pragmatism-1026c)
+
+-m3's Misak entry now cites the deg-verify-b media receipt's direct
+attempt on this recording (embed player loads with correct identity,
+stream never initializes, CC control reads "No captions are
+available" on the uninitialized player, which does not establish
+caption availability either way), keeping the module current with the
+verifier's evidence. The playback and caption items stay open with
+supervisor module-QC. No other m3 change in this edit.

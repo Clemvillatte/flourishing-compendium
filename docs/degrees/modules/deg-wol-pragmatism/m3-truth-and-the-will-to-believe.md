@@ -368,7 +368,14 @@ The module attaches three sources:
   the oembed response; playback and captions for this recording have
   not been inspected (earlier inspection attempts on a different
   YouTube recording, in the m1 work, were blocked by the bot-check, and
-  those two items remain open and routed to supervisor module-QC). The
+  those two items remain open and routed to supervisor module-QC; the
+deg-verify-b media receipt (docs/degrees/verify/deg-wol-pragmatism-m1-m3-media-playback-1026f.md,
+2026-10-26) has since attempted this recording directly: the embed
+player loads with correct identity but the stream never initializes
+in that environment, and the player's CC control reads "No captions
+are available for this video" on the uninitialized player, which does
+not establish caption availability either way; the two items stay
+open). The
   lecture's content was checked on the third-party transcript route
   used for m1: the transcript runs from Misak's introduction to her
   closing thanks, and the Ramsey and James content taught in this
