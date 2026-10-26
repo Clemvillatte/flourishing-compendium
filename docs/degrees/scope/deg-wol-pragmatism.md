@@ -28,13 +28,15 @@ A learner walking the pragmatist path: truth as what works in experience, ideas 
 Covers:
 - Peirce, James and Dewey as the classical core.
 - Pragmatism as a lived method of belief and habit revision.
-- Contemporary pragmatist currents (neopragmatism held as an elective; see below).
 
 Excludes (with reasons):
 - Analytic philosophy of language beyond the pragmatic maxim.
 - Existentialism (its own walk); Greek virtue ethics (its own walk).
-- Process thought as core material: not taught at any of the three pragmatism
-  anchors; held as an elective at the lived-experience line only (see electives).
+- Process thought as core material: none of the three pragmatism anchors
+  lists it (all three re-opened by the repair worker, clock 02:14Z,
+  2026-10-26 — no Whitehead or process-philosophy reading anywhere on the
+  three published curricula); held as an elective at the lived-experience
+  line only (see electives).
 
 Elective branches:
 - Pragmatist ethics (Dewey) — ethics half only; the education half is trimmed
@@ -56,7 +58,9 @@ Anchors opened by the strategist, 2026-10-25 (ledger: docs/degrees/ledgers/deg-w
 2. Duke PHIL 333, American Philosophy (Hoover, Fall 2016) — https://public.econ.duke.edu/~kdh9/Courses/Pragmatism/$American%20Philosophy%20Syllabus%20Fall%202016.pdf. Full reading schedule: Peirce on belief and the pragmatic maxim (Fixation of Belief, How to Make Our Ideas Clear), James (Will to Believe, Pragmatism, truth), Dewey (Darwinism, truth, inquiry, aesthetics, the Construction of the Good, Philosophy and Democracy), then Hook, Putnam, Price and two-plus weeks of Rorty. Assessed by weekly short assignments, participation and a final.
 3. University of Houston, American Philosophy (Freelan) — https://www.uh.edu/~cfreelan/courses/americanphil/american.html. Survey from Emerson and Thoreau roots through Peirce, James and Dewey, structured by Cornel West's genealogy, ending in West's prophetic pragmatism. Texts: West, Thayer's two readers, Goodman's contemporary reader.
 
-Comparison:
+Comparison (pre-repair record, written 2026-10-25; it describes the scope as
+it stood before the 2026-10-26 Gate-1 repairs — the repair note below records
+what changed):
 
 - Classical core: all three anchors centre Peirce, James and Dewey; the scope's classical core matches directly. The scope's exit capability — place James, Dewey and Peirce in relation to each other — is exactly what Duke's arc (Peirce's maxim → James's truth → Dewey's inquiry) and Georgetown's fact/value debate do.
 - The pragmatist method as belief/habit revision: Duke's schedule opens with Peirce's Fixation of Belief and How to Make Our Ideas Clear, the canonical source of the scope's lived-method framing; Georgetown's page shows themes and required texts (including the Peirce volume) but no week-by-week schedule, so the maxim's placement rests on Duke's schedule alone. The scope's habit-revision emphasis is faithful to Duke's arc; the "walk" framing (applying the method to one's own habits) is a curricular choice, not an anchor divergence — Duke assesses weekly engagement with primary texts, which the walk's habit exercises parallel.
@@ -72,10 +76,12 @@ baton): both Gate-1 repairs applied per the deg-gate reviewer's verdict
 (ledger, Gate-1 independent review): (1) process thought DEMOTED from the
 bounded-domain core and the exit capability to an ELECTIVE branch carried
 by the Cobb practice line, capped at the lived-experience application —
-the option (a) remedy; the comparison paragraphs above describe the
-pre-repair state and stand as the benchmark record. (2) the Dewey elective
-TRIMMED to its anchor-supported ethics half; the education half is dropped
-(no opened source carries a learner-need case for it in a pragmatist walk).
+the option (a) remedy; the comparison paragraphs above are the pre-repair
+record. (2) the Dewey elective TRIMMED to its anchor-supported ethics half;
+the education half is dropped (no opened source carries a learner-need case
+for it in a pragmatist walk). The three pragmatism anchors were re-opened
+by this worker at clock 02:14Z, 2026-10-26 (ledger, sources opened) to
+check the exclusion line: none lists Whitehead or process philosophy.
 Re-review requested from the deg-gate reviewer.
 
 ## Owner items

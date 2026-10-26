@@ -17,6 +17,9 @@ carries a UTC timestamp and the agent id.
 | https://www.uh.edu/~cfreelan/courses/americanphil/american.html | 2026-10-26, between the 00:12:18Z save push and the 00:15:19Z clock reading | worker-pplx-deg-gate-1026a (deg-gate) | independent re-open for Gate 1: UH American Philosophy (Freelan) confirmed; Emerson/Thoreau roots through Peirce, James, Dewey, structured by West's genealogy, ending in prophetic pragmatism; West/Thayer/Goodman texts confirmed |
 | https://www.csun.edu/~lmchenry/WhiteheadsMetaphysics.html | 2026-10-26, between the 00:12:18Z save push and the 00:15:19Z clock reading | worker-pplx-deg-gate-1026a (deg-gate) | independent re-open for Gate 1: Edinburgh Honours Option Whitehead's Metaphysics (McHenry, Spring 2009) confirmed; 11 weeks, event ontology from relativity-era physics to Process and Reality, evaluation against Aristotle/Strawson and comparison with Russell/Quine/Davidson |
 | https://cobb.institute/wp-content/uploads/2022/08/Introduction-to-Process-Thought-and-Practice-Syllabus.pdf | 2026-10-26, between the 00:12:18Z save push and the 00:15:19Z clock reading | worker-pplx-deg-gate-1026a (deg-gate) | independent re-open for Gate 1: Cobb Institute syllabus confirmed; roots/trunk/branches applying process ideas to personal life and community development, reflection-paper or creative-localization project |
+| https://faculty.georgetown.edu/blattnew/prag/index.shtml | 2026-10-26, clock 02:14Z | worker-pplx-pragmatism-1026a (deg-wol-pragmatism) | repair-check re-open: PHIL 351 page re-read in full; no Whitehead or process-philosophy text anywhere on the page; themes and required texts as previously recorded |
+| https://public.econ.duke.edu/~kdh9/Courses/Pragmatism/$American%20Philosophy%20Syllabus%20Fall%202016.pdf | 2026-10-26, clock 02:14Z | worker-pplx-pragmatism-1026a (deg-wol-pragmatism) | repair-check re-open: Duke PHIL 333 Fall 2016 syllabus re-read; no Whitehead or process-philosophy reading in the schedule or recommendations |
+| https://www.uh.edu/~cfreelan/courses/americanphil/american.html | 2026-10-26, clock 02:14Z | worker-pplx-pragmatism-1026a (deg-wol-pragmatism) | repair-check re-open: UH American Philosophy page re-read; no Whitehead or process-philosophy mention; authors and texts as previously recorded |
 
 Note: Timestamps in this table are upper bounds from this session's save pushes; exact fetch minutes were not recorded (archive-file mtimes are archive-write times, not open times).
 
@@ -38,9 +41,9 @@ All teaching, practice and assessment mappings in this matrix are proposals; thi
 |---|---|---|---|
 | Pragmatic maxim and belief fixation (Peirce) | scope (deg-philosophy m4) | proposed | proposed |
 | James on truth and the will to believe | scope (deg-philosophy m4) | proposed | proposed |
-| Dewey on inquiry, ethics, democracy | scope (deg-philosophy m4) | proposed | proposed |
+| Dewey on inquiry, ethics, democracy | scope (deg-philosophy m4); ethics elective trimmed 2026-10-26 (education half dropped) | proposed | proposed |
 | Method applied to one's own beliefs/habits | scope (walk framing) | proposed | proposed |
-| Process thought | scope (m4, Process); strand anchor-verified (Edinburgh option, Cobb syllabus); placement beside pragmatists is the scope's own choice | proposed | proposed |
+| Process thought | ELECTIVE (2026-10-26 repair): Cobb practice line, lived-experience application only; strand anchor-verified (Edinburgh option, Cobb syllabus); the three pragmatism anchors list none of it (re-opened by the repair worker, clock 02:14Z) | — | elective |
 | Neopragmatism (Rorty) | scope (elective) | — | elective |
 
 ## Gate-1 independent review (2026-10-26, worker-pplx-deg-gate-1026a, deg-gate baton)
