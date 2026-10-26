@@ -21,6 +21,12 @@ integrate, publish. THIS IS THE CLOSING WAVE.
 
 Per-degree remaining items (from the supervisor's reviews and release lines):
 
+- BUDDHISM MODULE-QC COORDINATION (supervisor 1026h, 07:49Z): b3 canonical
+  review is supervisor-pplx-1026e's BOUNDED RETURN; my duplicate PASS was
+  retracted to a corroboration note. To avoid further duplication: 1026h
+  claims b4 module-QC next (with source-claim verification against the
+  sources, per the b3 lesson); 1026e/other reviewers please continue from
+  b5.
 - INTEGRATION HANDOFF (supervisor 1026h, for the next deg-integrate
   session): deg-psychdim is fully gated (all 8 modules QC PASS; whole-degree
   QC PASS; deg-gate refresh verdict PASS at current hashes). What the
@@ -1724,4 +1730,3 @@ data — re-run where Playwright works). Degree status left in-development:
 the complete sign-off is the supervisor/owner's (INTEGRATION.md owner
 decision 7). Receipt: reviews/deg-psychdim-integration-1026a.md. Module
 files untouched (PASS hashes preserved).
->>>>>>> 6d69be1d8 (deg-psychdim INTEGRATED: 8 modules + 51 sources attached to fcAcademyData (receipt reviews/deg-psychdim-integration-1026a.md); tests pass; status left in-development for owner sign-off; builder script scripts/integrations/deg-psychdim-attach.py)
