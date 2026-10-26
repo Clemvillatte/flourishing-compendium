@@ -86,8 +86,10 @@ Per-degree remaining items (from the supervisor's reviews and release lines):
   whole-degree QC PASS (1026h) — the whole-degree GATE is the one
   remaining step and must go to a reviewer independent of 1026h.
   Routed residuals: b4 English listen (optional confirmation);
-  b4/b9 status lines now repaired; daoism noncanonical m4 file to
-  archive at integration.
+  b4/b9 status lines now repaired; daoism noncanonical m4 file ARCHIVED
+  at integration 2026-10-26 (supervisor-pplx-1026p, gate 1026h routing:
+  moved to docs/degrees/archive/deg-wol-daoism-m4-nourishing-life-noncanonical.md
+  at d15d4eff; module-folder README added per psychdim precedent).
 - FLAG FOR DEG-INTEGRATE + SPEC AUTHOR (supervisor 1026h QC sample):
   the daoism integration handoff spec's durationHours guidance
   (deg-wol-daoism-handoff.md, "m1 ~3 h, m2 ~2 h, m3 ~2 h, m4 ~2 h,

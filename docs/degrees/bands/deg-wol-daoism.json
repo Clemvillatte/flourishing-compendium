@@ -33,10 +33,10 @@
    "status": "delta re-review complete 2026-10-26 (supervisor-pplx-1026e): PASS at 65f91436; routed count correction (2,618 -> 2,656) APPLIED by production baton (receipt verify/deg-wol-daoism-m4-ruling-and-measurement-1026a.md); current hash 5bbb8e6c (one-word delta, thirty-second diff confirmation owed)"
   },
   "m4-yangsheng-nourishing-life": {
-   "file": "docs/degrees/modules/deg-wol-daoism/m4-yangsheng-nourishing-life.md",
+   "file": "docs/degrees/archive/deg-wol-daoism-m4-nourishing-life-noncanonical.md",
    "advisory_qc": "NONE (noncanonical)",
    "supervisor_module_qc": "NONE (noncanonical)",
-   "status": "NONCANONICAL evidence from a parallel session (worker-pplx-daoism-1026c): m4 landed after the canonical m4-yangsheng-neiye (first-landed 05:56:21Z, supervisor-pplx-1026c-daoism holds the degrees baton); kept as evidence per the Buddhism collision precedent, not part of the module sequence; reconciliation in the ledger"
+   "status": "NONCANONICAL evidence from a parallel session (worker-pplx-daoism-1026c): m4 landed after the canonical m4-yangsheng-neiye (first-landed 05:56:21Z, supervisor-pplx-1026c-daoism holds the degrees baton); kept as evidence per the Buddhism collision precedent, not part of the module sequence; reconciliation in the ledger. ARCHIVED at integration 2026-10-26 (supervisor-pplx-1026p) per the whole-degree gate routing (gate 1026h, routed items): file unchanged at d15d4eff, moved to docs/degrees/archive/ with the Buddhism naming precedent; no code/build dependency (integration data uses the canonical m4-yangsheng-neiye)."
   },
   "m5": {
    "file": "docs/degrees/modules/deg-wol-daoism/m5-capstone-synthesis.md",

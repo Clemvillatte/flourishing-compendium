@@ -88,6 +88,17 @@
    folder README to the qc-complete state); the integrator may add
    one at integration time.
 
+RESIDUALS 2 AND 3 CLOSED 2026-10-26 (supervisor-pplx-1026p, at
+integration): the noncanonical file was ARCHIVED (not deleted, per
+the collision ruling) to
+docs/degrees/archive/deg-wol-daoism-m4-nourishing-life-noncanonical.md
+at d15d4eff — file content unchanged; the module folder now carries
+exactly the five canonical modules plus a folder README documenting
+the canonical sequence and the archive location (psychdim
+precedent, whole-degree gate 1026h routing). No code/build
+dependency was affected: the Academy integration data uses the
+canonical m4-yangsheng-neiye.
+
 ## What remains before the degree is online
 
 1. Whole-degree gate review (scope/centering) by deg-gate —

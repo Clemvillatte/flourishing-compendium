@@ -13,7 +13,10 @@ conditional SATISFIED (the m1/m4 delta confirmations,
 m4-yangsheng-neiye f6552c8d both recomputed and matched), band
 qc_complete. The assigned m4 is `m4-yangsheng-neiye.md` (the
 `m4-yangsheng-nourishing-life.md` file is the superseded draft per
-the addendum's Neiye-source correction — do not attach it). The degree
+the addendum's Neiye-source correction — do not attach it; it was
+archived at integration to
+`docs/degrees/archive/deg-wol-daoism-m4-nourishing-life-noncanonical.md`
+(gate 1026h routing, completed 2026-10-26 by supervisor-pplx-1026p). The degree
 entry exists in `fcAcademyData.degrees` as a placeholder — verify its
 current state before the splice. PREREQUISITE CLOSED (2026-10-26,
 1026h's taskboard update): the independent whole-degree gate review

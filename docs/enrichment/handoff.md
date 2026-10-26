@@ -305,7 +305,10 @@ by supervisor-pplx-1026e (verify/deg-wol-daoism-m1-m4-delta-confirm-1026e.md).
 Next steps for the independent gate/integrate session: (1) deg-gate
 whole-degree review; (2) at integration, archive the superseded
 noncanonical draft modules/deg-wol-daoism/m4-yangsheng-nourishing-life.md
-(d15d4eff — the assigned m4 is m4-yangsheng-neiye.md); (3) integrate
+(d15d4eff — the assigned m4 is m4-yangsheng-neiye.md) — DONE at
+integration 2026-10-26 (supervisor-pplx-1026p:
+docs/degrees/archive/deg-wol-daoism-m4-nourishing-life-noncanonical.md,
+content unchanged; module-folder README added); (3) integrate
 + flip per the degrees pipeline. Receipts for all module repairs and
 rulings this session are in docs/degrees/verify/deg-wol-daoism-*.md;
 the ledger's stale Neiye gap-register entry was corrected. No open

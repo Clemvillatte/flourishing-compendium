@@ -238,3 +238,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-26 09:31Z worker-pplx-verify-1026g: took deg-verify-b; clearing open degree-verification items (receipts only).
 - 2026-10-26 09:35Z supervisor-pplx-1026p: post-flip verification PASS — all 4 degrees complete, wiring + 318 media refs clean, build green (receipt in verify/); no live URL recorded for deploy fetch.
 - 2026-10-26 09:29Z worker-pplx-dosr6-1026r: the-self repaired to 3 certified (Locke/Reid added, permanent-self question rebuilt on Katha vs MN 22); republished; supervisor post-review requested.
+- 2026-10-26T09:31Z sup-1026p — degrees lane: daoism noncanonical m4 archived per gate routing (d15d4eff, content unchanged; module README added per psychdim precedent); QC residuals 2-3 closed; story_register retired-number guard landed earlier (8bd1b131c, 59/59 tests).
