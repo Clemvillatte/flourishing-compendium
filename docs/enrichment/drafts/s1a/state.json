@@ -2539,7 +2539,7 @@
    ]
   },
   "s1a-069": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "D125: Hugo's bishop and the silver \u2014 DDJ 49 policy in fiction",
    "history": [
     {
@@ -2555,6 +2555,11 @@
      "t": "2026-10-25T15:22:44+00:00",
      "to": "qc_pending",
      "note": "quotes re-verified character-level against raw text; speech-tag elisions marked; story_check ok"
+    },
+    {
+     "t": "2026-10-26T09:57:24+00:00",
+     "to": "ready",
+     "note": "final QC (1026f): all six quotes re-verified character-level against the raw Gutenberg text (CRLF-normalised); story_check ok"
     }
    ]
   },
