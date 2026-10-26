@@ -176,3 +176,50 @@ Launch-set authorisation remains routed to the supervisor; this review
 authorises no production, integration or publication. This reviewer has not
 edited the positive band or ledger; the degree owner records the gate
 outcome there once the supervisor rules on the routed items.
+
+## Addendum (2026-10-26, same reviewer): candidate anchors for the unresolved coverage items
+
+Recorded as CANDIDATES ONLY, verification status UNSET. Gate-review
+groundwork for the two routed coverage items (criticisms-of-the-field
+teaching resource; effect-size instruction); full verification to the skill
+standard belongs to deg-verify-b and the degree owner. All three pages below
+were opened by this reviewer this session; each receipt records what the
+page itself showed.
+
+1. **van Zyl, Gaffaney, van der Vaart, Dik and Donaldson (2024), "The
+   critiques and criticisms of positive psychology: a systematic review",
+   The Journal of Positive Psychology 19(2):206-235** — full text open access
+   at https://www.tandfonline.com/doi/full/10.1080/17439760.2023.2178956
+   (opened this session; the page labels the article "Open access" and
+   serves the full text). The retrieved page records 32 records containing
+   117 unique criticisms, grouped into six overarching themes: PP "lacks
+   proper theorizing and conceptual thinking"; "issues with measurement and
+   methodology"; PP "is a pseudoscience: poor replication and lacking
+   evidence"; PP "lacks novelty and self-isolates itself from mainstream
+   psychology"; PP "is a decontextualized neo-liberalist ideology that
+   causes harm"; PP "is a capitalistic venture". This is a direct candidate
+   for the criticisms-of-the-field row.
+2. **Gaffaney and Donaldson (2025), "Addressing the criticisms and critiques
+   of positive psychology: recommendations for improving the science and
+   practice of the field", Frontiers in Psychology 16:1548612** — open access
+   (CC BY) at https://pmc.ncbi.nlm.nih.gov/articles/PMC11978841/ (opened this
+   session). Addresses the same six themes and provides two checklists, one
+   for researchers and one for practitioners and evaluators. Candidate for a
+   practice-facing treatments of the critiques.
+3. **Akhter, Kumar and Shaheen (2026), "Mapping the evidence base of
+   positive psychology interventions: effectiveness, limitations, and future
+   directions", Frontiers in Psychology 17:1812638** — open access (CC BY) at
+   https://pmc.ncbi.nlm.nih.gov/articles/PMC13261818/ (opened this session).
+   Maps five meta-analyses of positive psychology interventions with their
+   effect sizes (pooled effects in the small-to-moderate range, d = 0.29 to
+   0.52 across meta-analyses) and states the limits: "Funnel plot
+   asymmetries in all five included meta-analyses indicated evidence of
+   publication bias, with corrected effect sizes systematically smaller than
+   published estimates following trim-and-fill analyses". A direct candidate
+   for the effect-size instruction item: it teaches both the sizes and the
+   inflation caveat.
+
+These candidates are consistent with the routed items above: both coverage
+items are anchorable. None is verified here; no module attaches; the
+supervisor's routing of the coverage items to deg-verify-b and the degree
+owner is requested.
