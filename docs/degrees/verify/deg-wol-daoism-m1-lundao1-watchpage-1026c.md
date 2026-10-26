@@ -25,6 +25,8 @@ All four printed anchors for the module's two assigned segments are present on t
 
 The module's in-range section names also all appear as printed moments between the boundaries: "Global Taoism" 6:21, "Rhetoric of Tradition" 6:43, "Adherents of Taoism" 7:47, "Ordination and Lineage" 8:21/8:37 (segment 1); "The Teaching beyond or without Words" 20:22 (segment 2).
 
+Scoped observation, flagged without editing the module: the printed moment at 10:35 is the BEGINNING of "Etymology", so the module's phrase "through the etymology section" (segment 1 ends at 10:35) describes an assignment that stops where the etymology section starts, not one that covers it. The anchors are verified; coverage of that final chapter is not supported by the moment list alone. The owner may intend exactly that stop (the description sentence for segment 1 lists topics that all precede etymology), in which case only the phrase "through the etymology section" would need a word of clarification.
+
 Segment arithmetic re-checked: 9:18 + 4:04 = 13:22, matching the module's stated 13:22 total.
 
 ## Outcome
