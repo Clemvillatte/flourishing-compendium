@@ -9499,6 +9499,216 @@ window.fcDossiersData = {
           "x": "Knight concludes that the lack of a record leaves a different kind of problem, which calls for judgment about the situation. Ramsey concludes that a person's action already shows a degree of belief, which can be written down as a number even if it is imprecise. My lean, which is mine, is that the Ramsey route is useful for deciding and Knight's route is useful for knowing when the number is a guess. Put plainly, one holds that for a unique situation no distribution of outcomes is known, and the other holds that a degree of belief exists anyway and can be roughly measured. Limits: I read Knight's chapter text and Ramsey's paper only for these passages, and I did not open the later literature that argues over how the two relate, such as work on ambiguity."
         },
         {
+          "t": "h2",
+          "x": "Does the conjunction rule bind judgments about single events?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: when a person judges how likely one single event is, do the laws of probability apply to that judgment as a standard it can violate? The heuristics-and-biases program read the Linda problem and its relatives as violations; Gigerenzer's critique attacked that reading at its root."
+        },
+        {
+          "t": "p",
+          "x": "Kahneman and Tversky defend the norm, and they state its basis:"
+        },
+        {
+          "t": "q",
+          "x": "\"Normative agnosticism is particularly inappropriate in the case of the conjunction rule.\" ([Kahneman and Tversky, On the reality of cognitive illusions, Psychological Review 103, 1996](http://matt.colorado.edu/teaching/highcog/fall8/kt96.pdf))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"First, the application of this rule does not require numerical estimates, only an ordinal judgment of which of two events is more probable. Second, the normative basis for the conjunction rule is essentially logical: If the conjunction A & B is true then A must also be true, but the converse does not hold.\" ([Kahneman and Tversky 1996](http://matt.colorado.edu/teaching/highcog/fall8/kt96.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "They state the character of the dispute themselves:"
+        },
+        {
+          "t": "q",
+          "x": "\"Our disagreement here is normative, not descriptive. We believe that subjective probability judgments should be calibrated, whereas Gigerenzer appears unwilling to apply normative criteria to such judgments.\" ([Kahneman and Tversky 1996](http://matt.colorado.edu/teaching/highcog/fall8/kt96.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Gigerenzer rejects the norm for single events:"
+        },
+        {
+          "t": "q",
+          "x": "\"For instance, the conjunction rule applied to a single event is not a general norm for sound reasoning.\" ([Gigerenzer, On narrow norms and vague heuristics: A reply to Kahneman and Tversky, Psychological Review 103, 1996](https://pure.mpg.de/rest/items/item_2547850_4/component/file_2561571/content))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The Linda problem is the shared task on which the accounts collide. Gigerenzer reports that with frequency formats \"the conjunction fallacy in the Linda problem is reduced from about 85% to 20% and less\" ([Gigerenzer 1996](https://pure.mpg.de/rest/items/item_2547850_4/component/file_2561571/content)). Kahneman and Tversky answer with a between-subjects frequency version of the same problem and report that \"the results demonstrate a violation of the conjunction rule in a frequency formulation\" ([same paper](http://matt.colorado.edu/teaching/highcog/fall8/kt96.pdf))."
+        },
+        {
+          "t": "p",
+          "x": "The clash is explicit in both texts, each naming the other: one side holds that the conjunction rule binds even single-event judgment because its basis is logical; the other holds that applying it to a single event imposes a contested statistical doctrine as a norm of sound reasoning. Limits: I have read this 1996 exchange and not the later literature that adjudicates it."
+        },
+        {
+          "t": "p",
+          "x": "My lean, which is mine, is to check how a question was framed before treating my answer as evidence that my judgment is faulty."
+        },
+        {
+          "t": "h2",
+          "x": "Can doubt be answered, or only suspended?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: when everything can be doubted, does inquiry end in one truth the doubt cannot touch, or in suspension? The Pyrrhonian answer and Descartes's answer point in opposite directions, and each was written with the other kind of position in view."
+        },
+        {
+          "t": "p",
+          "x": "Sextus states the skeptic's end state:"
+        },
+        {
+          "t": "q",
+          "x": "\"Scepticism is an ability, or mental attitude, which opposes appearances to judgments in any way whatsoever, with the result that, owing to the equipollence of the objects and reasons thus opposed, we are brought firstly to a state of mental suspense and next to a state of 'unperturbedness' or quietude.\" ([Sextus Empiricus, Outlines of Pyrrhonism, Book 1](https://users.manchester.edu/Facstaff/SSNaragon/Online/texts/316/Sextus%20Empiricus,%20Pyrrhonism.pdf))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"For the Pyrrhonean philosopher assents to nothing that is non-evident.\" ([Sextus Empiricus, Outlines of Pyrrhonism, Book 1](https://users.manchester.edu/Facstaff/SSNaragon/Online/texts/316/Sextus%20Empiricus,%20Pyrrhonism.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The life that follows runs on appearances:"
+        },
+        {
+          "t": "q",
+          "x": "\"Adhering, then, to appearances we live in accordance with the normal rules of life, undogmatically, seeing that we cannot remain wholly inactive.\" ([Sextus Empiricus, Outlines of Pyrrhonism, Book 1](https://users.manchester.edu/Facstaff/SSNaragon/Online/texts/316/Sextus%20Empiricus,%20Pyrrhonism.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Descartes ran the same doubt as a one-time demolition and reports that something survived it:"
+        },
+        {
+          "t": "q",
+          "x": "\"as for the opinions which up to that time I had embraced, I thought that I could not do better than resolve at once to sweep them wholly away, that I might afterwards be in a position to admit either others more correct, or even perhaps the same when they had undergone the scrutiny of reason.\" ([Descartes, Discourse on the Method, Part 2](https://www.gutenberg.org/files/59/59-h/59-h.htm))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"But immediately upon this I observed that, whilst I thus wished to think that all was false, it was absolutely necessary that I, who thus thought, should be somewhat; and as I observed that this truth, I think, therefore I am (COGITO ERGO SUM), was so certain and of such evidence that no ground of doubt, however extravagant, could be alleged by the sceptics capable of shaking it, I concluded that I might, without scruple, accept it as the first principle of the philosophy of which I was in search.\" ([Descartes, Discourse on the Method, Part 4](https://www.gutenberg.org/files/59/59-h/59-h.htm))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The comparison: Sextus holds that assent to anything non-evident is never forced, and that the mind comes to rest in suspension; Descartes holds that one truth survives every doubt and is the foundation inquiry was seeking. Whether the Pyrrhonist could accept the cogito as evident rather than non-evident is not settled by these passages, so I keep this pairing as a qualified comparison rather than a certified clash. Limits: Descartes names \"the sceptics\" and not Sextus, and the pairing of these two texts is the dossier's framing; I read Book 1 of the Outlines and Parts 2 and 4 of the Discourse, and not the later literature on whether the Pyrrhonian and Cartesian programs can be reconciled."
+        },
+        {
+          "t": "p",
+          "x": "My lean, which is mine, is that the cogito tells me what my doubt cannot touch and the Pyrrhonian quietude tells me how to live with everything else."
+        },
+        {
+          "t": "h2",
+          "x": "Must the sage withhold assent from every impression?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: is there any impression so marked by its object that assenting to it is not opinion, or must the wise withhold assent from everything? Cicero records the Academic and Stoic answers as opposites, each answering the other."
+        },
+        {
+          "t": "p",
+          "x": "Cicero attributes to Arcesilaus an argument for withholding all assent:"
+        },
+        {
+          "t": "q",
+          "x": "\"If the wise man ever assents to anything, he will sometimes also form an opinion; but he never will form an opinion; therefore he will not assent to anything.\" ([Cicero, Academica, Book 2, Rackham translation, Attalus edition](https://www.attalus.org/cicero/academica2b.html))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"This syllogism Arcesilas used to approve, for he used to accept both the major premiss and the minor\" ([Cicero, Academica, Book 2, Rackham translation, Attalus edition](https://www.attalus.org/cicero/academica2b.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The force of the argument comes from a premise the Stoics also held: the sage never forms an opinion."
+        },
+        {
+          "t": "p",
+          "x": "The Stoic reply rejects the syllogism's major premise rather than its conclusion:"
+        },
+        {
+          "t": "q",
+          "x": "\"But the major premiss, that if the wise man did assent he would also hold an opinion, both the Stoics and their supporter Antiochus declare to be false, arguing that the wise man is able to distinguish the false from the true and the imperceptible from the perceptible.\" ([Cicero, Academica, Book 2, Rackham translation, Attalus edition](https://www.attalus.org/cicero/academica2b.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The clash: Cicero reports Arcesilaus accepting the premise that, if the wise person ever assents, they will sometimes form an opinion. He explicitly reports the Stoics rejecting that premise because they hold that the wise person can distinguish perceptible presentations from imperceptible ones. This is a documented disagreement over whether avoiding opinion requires withholding all assent. Limits: this account relies on Cicero's report, not surviving statements written by both disputants; I checked the relevant English passages on the linked Attalus page through a prompted extraction."
+        },
+        {
+          "t": "p",
+          "x": "My lean, which is mine and not the dossier's, is that the sage's freedom from opinion is the shared premise and that the disagreement is about what follows from it, which is a real disagreement about assent and not a verbal one."
+        },
+        {
+          "t": "h2",
+          "x": "Is the sure-thing principle binding when the odds are unknown?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: Savage's sure-thing principle says that if you would make the same choice either way an unknown event turns out, you should make it without knowing. Ellsberg's urns put people in situations where the choice turns on how much is unknown, and reasonable people break the principle there. Is breaking it irrational, or is the principle silent about ambiguity?"
+        },
+        {
+          "t": "p",
+          "x": "Savage states the principle and its standing:"
+        },
+        {
+          "t": "q",
+          "x": "\"Having suggested what I shall tentatively call the sure-thing principle, let me give it relatively formal statement thus: If the person would not prefer f to g, either knowing that the event B obtained, or knowing that the event ~B obtained, then he does not prefer f to g.\" ([Savage, The Foundations of Statistics, 1972 edition](https://gwern.net/doc/statistics/decision/1972-savage-foundationsofstatistics.pdf))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"except possibly for the assumption of simple ordering, I know of no other extralogical principle governing decisions that finds such ready acceptance.\" ([Savage, The Foundations of Statistics, 1972 edition](https://gwern.net/doc/statistics/decision/1972-savage-foundationsofstatistics.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The principle is for him normative machinery: \"The main use I would make of P1 and its successors is normative, to police my own decisions for consistency\" (same source)."
+        },
+        {
+          "t": "p",
+          "x": "Ellsberg names the principle and the class of cases where it breaks:"
+        },
+        {
+          "t": "q",
+          "x": "\"This corresponds to Savage's Postulate 2, which he calls the 'Sure-thing Principle' and which bears great weight in the analysis.\" ([Ellsberg, Risk, Ambiguity, and the Savage Axioms, 1961](https://sites.socsci.uci.edu/~bskyrms/bio/readings/ellsberg.pdf))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"I propose to indicate a class of choice-situations in which many otherwise reasonable people neither wish nor tend to conform to the Savage postulates, nor to the other axiom sets that have been devised.\" ([Ellsberg, Risk, Ambiguity, and the Savage Axioms, 1961](https://sites.socsci.uci.edu/~bskyrms/bio/readings/ellsberg.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "And he denies the irrationality charge for those cases:"
+        },
+        {
+          "t": "q",
+          "x": "\"Indeed, it seems out of the question summarily to judge their behavior as irrational: I am included among them.\" ([Ellsberg, Risk, Ambiguity, and the Savage Axioms, 1961](https://sites.socsci.uci.edu/~bskyrms/bio/readings/ellsberg.pdf))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"It would seem incautious to rule peremptorily that the people in question should not allow their perception of ambiguity, their unease with their best estimates of probability, to influence their decision\" ([Ellsberg, Risk, Ambiguity, and the Savage Axioms, 1961](https://sites.socsci.uci.edu/~bskyrms/bio/readings/ellsberg.pdf)).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The clash: Savage holds the sure-thing principle to be a postulate of rational decision with ready acceptance; Ellsberg does not claim to have refuted the principle, but he challenges its unrestricted normative authority, holding that in situations of ambiguity many reasonable people neither wish nor tend to conform to it and are not thereby irrational. Limits: I read the 1972 edition of Savage's book, which postdates Ellsberg's 1961 paper, and I did not check whether that edition adds any response to it; I read the principle's statement and Ellsberg's challenge, and not the later literature that grows from the paradox."
+        },
+        {
+          "t": "p",
+          "x": "My lean, which is mine, is that Ellsberg is right that known odds and unknown odds are different situations, and that acting on the difference has a price Savage's principle exists to count."
+        },
+        {
           "t": "h",
           "x": "Practice: variation, selection, retention"
         },

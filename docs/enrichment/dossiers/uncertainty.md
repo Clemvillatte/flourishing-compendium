@@ -138,6 +138,26 @@ The comparison: Sextus holds that assent to anything non-evident is never forced
 
 My lean, which is mine, is that the cogito tells me what my doubt cannot touch and the Pyrrhonian quietude tells me how to live with everything else.
 
+### Must the sage withhold assent from every impression?
+
+The shared question: is there any impression so marked by its object that assenting to it is not opinion, or must the wise withhold assent from everything? Cicero records the Academic and Stoic answers as opposites, each answering the other.
+
+Cicero attributes to Arcesilaus an argument for withholding all assent:
+
+> "If the wise man ever assents to anything, he will sometimes also form an opinion; but he never will form an opinion; therefore he will not assent to anything." ([Cicero, Academica, Book 2, Rackham translation, Attalus edition](https://www.attalus.org/cicero/academica2b.html))
+
+> "This syllogism Arcesilas used to approve, for he used to accept both the major premiss and the minor" ([Cicero, Academica, Book 2, Rackham translation, Attalus edition](https://www.attalus.org/cicero/academica2b.html))
+
+The force of the argument comes from a premise the Stoics also held: the sage never forms an opinion.
+
+The Stoic reply rejects the syllogism's major premise rather than its conclusion:
+
+> "But the major premiss, that if the wise man did assent he would also hold an opinion, both the Stoics and their supporter Antiochus declare to be false, arguing that the wise man is able to distinguish the false from the true and the imperceptible from the perceptible." ([Cicero, Academica, Book 2, Rackham translation, Attalus edition](https://www.attalus.org/cicero/academica2b.html))
+
+The clash: Cicero reports Arcesilaus accepting the premise that, if the wise person ever assents, they will sometimes form an opinion. He explicitly reports the Stoics rejecting that premise because they hold that the wise person can distinguish perceptible presentations from imperceptible ones. This is a documented disagreement over whether avoiding opinion requires withholding all assent. Limits: this account relies on Cicero's report, not surviving statements written by both disputants; I checked the relevant English passages on the linked Attalus page through a prompted extraction.
+
+My lean, which is mine and not the dossier's, is that the sage's freedom from opinion is the shared premise and that the disagreement is about what follows from it, which is a real disagreement about assent and not a verbal one.
+
 ### Is the sure-thing principle binding when the odds are unknown?
 
 The shared question: Savage's sure-thing principle says that if you would make the same choice either way an unknown event turns out, you should make it without knowing. Ellsberg's urns put people in situations where the choice turns on how much is unknown, and reasonable people break the principle there. Is breaking it irrational, or is the principle silent about ambiguity?
