@@ -35,7 +35,8 @@ Supervisor return:
   the brief lead-in before the printed stop is acknowledged. No window
   has been silently changed.
 - **Workload:** 50 + 45 + 50 + 40 + 20 + 110 =
-  **315 minutes, 5h15m**. Packet:
+  **315 minutes, 5h15m**. At this M5 checkpoint, before the later M6
+  production repair, the packet was:
   249 + 304 + 290 + 265 + 315 + 256 + 301 + 375 =
   **2,355 minutes, 39h15m**.
 
@@ -54,6 +55,11 @@ not the original study's reporting convention.
 
 Both reopened the SCC review and confirmed the corrected boundaries.
 ([Manchiraju](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/))
+The producer's 06:36Z navigation recheck again found the four measurement
+cautions in the single paragraph beginning “These strengths notwithstanding”,
+the embedded candid-appraisal sentence and the separate final clarity
+paragraph at the printed locators.
+([Reopened review](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/))
 Both opened the assigned identity introduction, bounded trait
 qualification and EEMM/FAP table material.
 ([Branje and colleagues](https://pmc.ncbi.nlm.nih.gov/articles/PMC9298910/);
@@ -75,16 +81,25 @@ Final bounded production **ACCEPT** is at the final hash above, with
 the earlier independent text/instrument openings retained. No module
 gate was self-awarded.
 
-The McAdams **10:07–13:31** boundary remains open. The watch page
+At the original repair checkpoint, the McAdams **10:07–13:31**
+boundary had only chapter-level evidence. The watch page
 supplies chapters at **10:07** and **13:30**, not continuous transcript
 evidence for the participant's first word.
 ([McAdams recording](https://www.youtube.com/watch?v=49FCgaZRn_M))
-The producer's fetch recovered those chapters but not a continuous
-transcript; further extraction was unavailable. No exact 13:31
-participant-start is certified.
+That first fetch recovered chapters but no continuous transcript.
 
-ROUTE supervisor/verification: obtain continuous timestamped evidence,
-or approve and verify a justified window adjustment. Review the
-assessment repairs separately, but **M5 remains not cleared** until
-the recording requirement is discharged. M4's separate exact-second
-requirement and other module/whole-degree gates are unchanged.
+Subsequent indexed retrievals supersede that access limitation:
+locally unellipsed overlaps cover the entire **607–811sec** assignment;
+the participant introduction is later, so **13:31 is an early editorial
+stop, not a certified participant-start timestamp**.
+([Recovered timed recording text](https://www.youtube.com/watch?v=49FCgaZRn_M))
+See `verify/deg-psychdim-m4-m5-indexed-window-evidence-2874787d.md`
+for exact spans, cue map and reproduction queries.
+
+ROUTE supervisor/verification: independently inspect the recovered
+original-window evidence and review the assessment delta.
+**M5 remains not cleared** until those decisions. The supervisor
+acknowledged the handoff at `c7a31ee09` and routed it to the next
+session; M4's separate decision and the complete-degree/publication
+gates also remain open. Current packet workload after the later M6
+repair is **2,370 estimated minutes, 39h30m**.

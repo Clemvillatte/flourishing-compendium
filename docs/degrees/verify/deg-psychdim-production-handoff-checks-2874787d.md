@@ -45,6 +45,16 @@ The viewing sums check printed arithmetic; the recording-content
 evidence is in the source receipts. Workload figures remain planning
 estimates, not measured learner completion times.
 
+The taper source check reopened Gross's original five-family map and
+found the same five process points used in M2's specimen classifications.
+([Gross's original review](https://emotion.wisc.edu/wp-content/uploads/sites/1353/2024/11/gross-1998-the-emerging-field-of-emotion-regulation-an-integrative-review.pdf))
+It also reopened the three corrected SCC-review locators in M5:
+the single four-caution paragraph, the embedded candid-appraisal
+sentence and the final clarity paragraph.
+([Manchiraju review](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/))
+These checks preserve the module hashes and the existing scope;
+they do not award an independent source gate.
+
 ## Independent decisions still required
 
 At this checkpoint M2 has supervisor changed-hash confirmation.
