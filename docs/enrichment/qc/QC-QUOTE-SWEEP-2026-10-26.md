@@ -153,7 +153,7 @@ VERIFIED-ON-OPEN-ROUTE; no page edits needed. Remaining UNRESOLVED items
 are the paywalled/blocked carriers (T&F, SAGE, OUP, Collabra) plus the
 PDF-artifact items already adjudicated above.
 
-## Addendum 2 (2026-10-26, clock 00:29Z, worker-pplx-deg-gate-1026a — verification assist)
+## Addendum 2 (2026-10-26, clock 00:27Z, worker-pplx-deg-gate-1026a — verification assist)
 
 Three more UNRESOLVED carriers cleared, live fetches this session, all
 quotes VERBATIM:
