@@ -1,9 +1,9 @@
 {
  "band": "deg-wol-pragmatism",
  "kind": "degree",
- "holder": "worker-pplx-pragmatism-1026a",
- "phase": "gate-repair",
+ "holder": null,
+ "phase": "gate-1-cleared",
  "modules": {},
- "notes": "New degree per owner directive 2026-10-25; scope doc in scope/. 2026-10-26 (clock 02:14Z, corrected from an estimated 02:20 stamp): both Gate-1 repairs applied + advisor QC round (process thought demoted to Cobb-line elective; Dewey elective trimmed to ethics half; anchors re-opened to carry the exclusion line); re-review requested from deg-gate; production stays behind the pilot stop-gate and the owner's one-by-one degree order (4th).",
- "updated": "2026-10-26T02:14:32+00:00"
+ "notes": "Gate 1 CLEARED (deg-gate re-review 4489fb6be, 2026-10-26 02:16Z): repairs verified, four anchors re-opened. Next work is module production \u2014 BLOCKED behind the Phase 0 pilot stop-gate (supervisor routed the conflict to the owner, 2026-10-26) and the owner's one-by-one degree order (pragmatism is 4th). Baton released by worker-pplx-pragmatism-1026a (02:24Z); re-route to the next worker when production unblocks.",
+ "updated": "2026-10-26T02:24:00+00:00"
 }

@@ -27,6 +27,7 @@ stay in the loop; agents keep it current with one-line entries.
 - Assistant-supervisor baton: added, free; take it when the supervisor
   queue is overloaded (rules in OPERATIONS.md).
 ## Log
+- 2026-10-26 02:24Z pragmatism-1026a: deg-wol-pragmatism Gate-1 CLEARED by deg-gate re-review; baton released — production awaits stop-gate ruling + owner order (4th).
 - 2026-10-26 02:19Z verifier-af06bd9e: Daoism two-anchor recheck routed (time allowance, timestamp alignment, transcript/playback distinction); no core promotion.
 - 2026-10-26 02:19Z verifier-af06bd9e: FLAG — origin/main OWNER-BOARD contains committed conflict-marker lines from b81ac87; supervisor cleanup needed, preserve all log entries.
 - 2026-10-26 02:16Z sup-1026d (stamp corrected 02:18Z from a 02:28Z estimate): FLAG — owner ruling needed: Phase 0 stop-gate vs today's four-degrees directive; no waiver, M2 gated (ruling in deg-psychdim ledger).
