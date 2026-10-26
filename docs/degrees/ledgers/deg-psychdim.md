@@ -2586,3 +2586,82 @@ round. The extra functions practice stays inside the 35-minute check/
 reflection allowance; the new assessment replaces the earlier case, not
 an extra deliverable. Supervisor independent review requested; DRAFT,
 NOT CLEARED remains.
+
+## Wave 2 production: M3 cognitive, 2026-10-26 05:00Z
+
+`modules/deg-psychdim/m3-cognitive.md`: L2 guided application, **DRAFT,
+NOT CLEARED**. Consumed the independent M3 video audit and the closed
+commentary-versus-experiment repair packet. Current owner reopened and
+read every assigned source; no clinical or out-of-matrix branch added.
+
+### Actual assignments and reading exceptions
+
+- **Perception:** Bloom lecture 7 **18:06–39:15**, 1,269 seconds.
+  Parent read the full continuous assigned transcript. Historical AI
+  remarks labelled 2007, no inference that all perception is false;
+  textual inference task substitutes for inaccessible visual examples.
+  ([Public recording](https://www.youtube.com/watch?v=DmWrOUK2zgA);
+  [institutional page](https://oyc.yale.edu/psychology/psyc-110/lecture-7).)
+- **Encoding:** Bloom lecture 8 **13:22–18:27**, 305 seconds, exact
+  recording clock; parent read whole assigned transcript. Replaces
+  overlapping Noba meaning/organisation exposition; no superiority
+  claim over every other learning method.
+  ([Recording](https://www.youtube.com/watch?v=Yuwqr5o58Z0).)
+- **Judgment:** lecture 10 **39:43–47:25** and **54:59–59:22**,
+  462 + 263 seconds; parent read both continuous spans. Intervening
+  flawed base-rate passage, dated risk examples and general evolutionary
+  psychology survey unassigned. No Noba framing/confirmation duplication.
+  ([Recording](https://www.youtube.com/watch?v=AMsQfgV07vU).)
+- **Learning supplement, newly checked:** actual search
+  `Yale Bloom classical operant conditioning lecture 4` found the
+  institutional lecture. Cleaned content lacked its embedded watch
+  URL, so raw HTML was fetched; iframe identified **rCKK6r15fro**.
+  Parent then opened that public YaleCourses recording: title
+  **4. Foundations: Skinner**, **58:47**, upload **2008-09-30**,
+  Spring 2007 course, English timestamped transcript. Read complete
+  **14:25–17:39** (194 seconds) and **31:18–33:49** (151 seconds)
+  plus boundary context. Official course instructor credentials were
+  already independently verified in the M3 receipt. The watch's
+  operant chapter starts **31:18**, institution **31:19**; assignment
+  uses the watch clock. Coarse caption boundaries overlap a few seconds;
+  no word-level or playback assertion. Stops avoid the later erroneous
+  unreinforced-trial gloss and unnecessary punishment/training survey.
+  Advisor asked to independently check these new windows.
+  ([Institutional source/embed](https://oyc.yale.edu/psychology/psyc-110/lecture-4);
+  [watch page](https://www.youtube.com/watch?v=rCKK6r15fro).)
+- **Necessary definition/update fallbacks:** Bouton's opening summary
+  **143** plus prediction-error paragraph **87**; memory opening summary
+  through "among other types" **42** plus Three Stages section **335**.
+  Definitions of kinds/stages and the limit of repeated-pairing language
+  are not supplied by the selected meaning/organisation video.
+  Parent opened/read the complete relevant sections; no full Noba
+  chapter assigned. Unicode word-like counting as M1.
+  ([Conditioning](https://nobaproject.com/modules/conditioning-and-learning);
+  [memory](https://nobaproject.com/modules/memory-encoding-storage-retrieval).)
+- **Commentary appraisal:** parent read complete Ehring commentary,
+  assigned opening eight paragraphs through process/content distinction
+  **463** tokens, plus Watkins processing-mode paragraph **70**.
+  Necessary scholarly fallback for the bounded experimental-claim
+  appraisal; neither a primary trial nor a treatment task. The fully
+  worked answer, completion and rubric all require justified unknowns,
+  and explicitly fail invented sample/effect information.
+  ([Ehring, 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/).)
+
+### Alignment and workload
+
+Five outcomes each have teaching, feedback-bearing practice and an
+independent Sam-case assessment criterion. Learning and judgment are
+proposed case interpretations, not proof of a person's learning history
+or bias. Memory needs a meaningful cue and honest limit, not perfect
+performance. Private or fictional material suffices; no diagnosis or
+intervention efficacy claim.
+
+Required video **1,269 + 305 + 462 + 263 + 194 + 151 = 2,644
+seconds = 44:04**. Add 16 minutes pause/notes, round to **60**.
+External reading **143 + 87 + 42 + 335 + 463 + 70 = 1,140**;
+at 130 wpm and triple raw study = 26.31 minutes, round **27** and
+add 3 minutes locating exact spans = **30**. Lesson teaching 35;
+completion/counterchecks 45; delayed retrieval 20; unseen final analysis
+and revision 70. Total **260 minutes**. Transcript substitutes for the
+same video segments. Optional wider source exploration excluded.
+Independent advisor review commissioned; supervisor module-QC owed.

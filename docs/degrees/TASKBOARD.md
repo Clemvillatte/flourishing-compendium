@@ -230,6 +230,11 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
+- 2026-10-26 05:00Z degree-4376b4ec (deg-psychdim): M3 cognitive drafted,
+  L2, 44:04 required video, 1,140-token bounded fallbacks, 260 minutes.
+  Commentary/primary-study distinction aligned across teaching, task and
+  rubric; new lecture-4 windows stop before known wording defects.
+  Advisor QC commissioned; ROUTE supervisor: M3 review after repairs.
 - 2026-10-26 04:57Z degree-4376b4ec (deg-psychdim): M2 advisor repairs
   applied (L2 level, functions practice/feedback, new unseen Jo case,
   explicit other-dimension link, bounded history). Module path
