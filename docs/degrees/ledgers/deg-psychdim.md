@@ -330,6 +330,77 @@ word counts measured for the assigned segments):
 | https://nobaproject.com/modules/memory-encoding-storage-retrieval | supervisor-e03fed44-degpsychdim | M3 readiness refresh: Noba Memory (Encoding, Storage, Retrieval) opened on 2026-10-26; byline Kathleen B. McDermott and Henry L. Roediger III, Washington University in St. Louis, confirmed on the module page; section structure read via page extraction (varieties of memory; three stages of the learning/memory process: encoding, storage, retrieval; putting it together: improving your memory); the three-process sentence confirmed verbatim (encoding = learning by perceiving and relating to past knowledge; storing = maintaining over time; retrieving = accessing when needed); working memory covered (holding information briefly and working with it); memory failures covered (forgetting, misremembering, false memories, interference, retrieval failures); body about 5,500 words per the page extraction (estimate; a measured count is owed if assigned at production); free access, no paywall |
 | https://nobaproject.com/modules/personality-traits | supervisor-e03fed44-degpsychdim | M5 readiness refresh: Noba Personality Traits opened on 2026-10-26; byline Edward Diener and Richard E. Lucas, confirmed on the module page; section structure read via page extraction (Five-Factor Model; facets; traits beyond the five; the person-situation debate and alternatives to the trait perspective; appendix with the Mini-IPIP scale); Big Five/OCEAN coverage confirmed, and the person-situation debate section directly serves the M5 trait-account deliverable's person-situation caveat; the Mini-IPIP scale in the appendix is a free self-assessment instrument, noted here as an unadopted production proposal for the M5 trait exercise only (it is not an instrument for self-concept-clarity assessment, which the M5 row rests on Manchiraju 2026 for); total module length about 5,000 words per the page extraction, and that figure includes the appendix, vocabulary and references, so the main-body-only count is smaller and a measured count with stated boundaries is owed if assigned at production; free access, no paywall |
 
+### M2 preparation (2026-10-26, worker-pplx-degpsychdim-1026a; no module prose written — stop-gate ruling pending)
+
+Advisor planner round 1 (2026-10-26) reviewed the M2 plan and BLOCKED module
+drafting until the Phase 0 stop-gate conflict is resolved by an authorized
+decision (ruling routed to the live supervisor, supervisor-pplx-1026d, on
+the TASKBOARD and OWNER-BOARD at 02:12Z). The same round approved the
+preparation work below as permitted. All three M2 sources were opened
+THIS session by raw fetch (free access, no paywall):
+
+1. Noba Functions of Emotions re-opened; byline Hyisung Hwang and David
+   Matsumoto confirmed again on the module page; the PD-V13 response-choice
+   passage re-fetched VERBATIM (the final paragraph of Emotions Prepare the
+   Body for Immediate Action, beginning One common misunderstanding many
+   people have when thinking about emotions and ending albeit an important
+   one; 94 words measured). VERIFICATION-BEHAVIOR NOTE: a first
+   transcription of this passage from an earlier page extraction was
+   WRONG (reworded sentences); the fresh verbatim re-fetch caught it; the
+   passage above is the fetch-confirmed text and the module may quote only
+   that text. The module body remains 2,794 words as measured by the
+   2026-10-26 readiness refresh.
+2. Martinez-Priego, Poveda and Roca 2024 re-opened; the verifier's exact
+   PD-V10 assignment read verbatim and measured: Introduction from Usually
+   defined through the paragraph before Despite the importance (three
+   paragraphs, 499 words), Discussion opening two paragraphs (213 words),
+   Conclusion from Although our study also has several strengths through
+   Empirical studies will need to consolidate this theoretically derived
+   conclusion (120 words); total assigned 832 words. The review's Results
+   paragraph describing the Gross model (93 words: antecedent-focused
+   strategies before the emotional response is fully generated,
+   response-focused after) is PROPOSED as one added passage from the same
+   verified source, serving the matrix's apply-the-process-model exercise;
+   it is one model's description, not the ten-model catalogue the verifier
+   excluded.
+3. Barrett et al. 2025 re-opened; the PD-V06 sidebar paragraph selected:
+   the first paragraph of The theory of constructed emotion in brief (95
+   words, beginning The TCE is an integrated collection of hypotheses and
+   ending at least since the mid-1800s), read in its surrounding argument
+   as the advisor required; the PD-V06 do-not-teach list stands (do not
+   teach that basic-emotion theories are disproved, that emotions are
+   imaginary, or that sufferers can choose feelings at will; the full
+   debate and Table 3 stay out of core).
+
+DESIGN DECISIONS RECORDED AS PROPOSALS (for the module-writing session,
+subject to the stop-gate ruling and advisor verifier rounds):
+
+- ACCOUNT-COMPARISON OUTCOME: the L2 compare-two-accounts exercise will use
+  the genuine, named disagreement INSIDE the Martinez-Priego assigned
+  passages (the literature's view that specific strategies are adaptive or
+  maladaptive in themselves versus the ER-flexibility view that there is no
+  clear correspondence between specific strategies and adaptive value,
+  which depends on goals and context). The Noba functions module takes no
+  position on emotion-category ontogeny, so a Noba-versus-Barrett
+  comparison would manufacture a disagreement (advisor round 1 warning);
+  the Barrett paragraph instead serves a bounded epistemic sidebar on what
+  the constructed-emotion theory claims and does not claim.
+- PROCESS MODEL: the review teaches antecedent- versus response-focused
+  strategies (before versus after the emotional response is fully
+  generated) and strategy-versus-goal; the five process-model stage names
+  (situation selection, situation modification, attentional deployment,
+  cognitive change, response modulation) are NOT in the opened review text
+  and must not be taught unless a further verified source supplies them;
+  the own-episode exercise will be built on the antecedent/response
+  distinction plus the strategy-goal distinction as the review states them.
+- Noba PD-V13 response-choice passage (94 words) anchors the readiness-vs-
+  action exercise exactly as the verifier proposed; the module must not
+  teach the whole Noba three-domain taxonomy as assessed content from
+  that excerpt alone (PD-V13 boundary).
+- Workload arithmetic will be computed from the measured counts above
+  (Noba body 2,794; Martinez-Priego 832 plus 93; Barrett 95) once module
+  prose is authorized.
+
 ## Sources opened
 
 All URLs opened in-session on 2026-10-25 by worker-pplx-psychdim-1 unless
