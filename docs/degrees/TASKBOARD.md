@@ -3,9 +3,11 @@
 The structural repair wave above is CLOSED (all six fix-list items verified,
 gate at 0 defects). The owner then ruled (2026-10-26) that a **degree = full
 exhaustive foundational coverage of a discipline** — and clarified
-(2026-10-27) that **Daoism was an example only: the rebuild covers ALL 16
-degrees** (measured 0.0–11.2 h each; see the spec's status table), not just
-the four audited ones. The binding standard, workflow, and
+(2026-10-27) that **Daoism was an example only: the rebuild covers ALL
+DEGREES — 13 of them; the three practicums (deg-qigong,
+deg-psychology-101, deg-cmp) are NOT degrees and are OUT OF SCOPE — do
+not touch them** (measured 0.0–11.2 h each for the degrees; see the
+spec's status table). The binding standard, workflow, and
 anti-gaming safeguards live in
 **docs/degrees/CURRICULUM-ARCHITECTURE-1026.md** — read it before touching
 any degree. Key points:
@@ -31,9 +33,12 @@ any degree. Key points:
   IEP, Britannica etc. are never assignments or matrix rows. Workers may
   read them privately to orient themselves — learners get lectures and
   courses, not encyclopedia links.
-- Suggested lanes: `deg-arch-inventory` (Phase D1 per degree — ALL 16 degrees,
-  batched by lane, e.g. wol-x5, psych-x4, well-x3, remaining; the three
-  in-development degrees are built to this standard from the start), then
+- Suggested lanes: `deg-arch-inventory` (Phase D1 per degree — the 13
+  DEGREES only, batched by lane, e.g. wol-x5, psych-x4, well-x3, remaining;
+  the three in-development degrees are built to this standard from the start;
+  **practicums are excluded — no D1, no D2, no gate floors, no data-block
+  changes for deg-qigong / deg-psychology-101 / deg-cmp; the two practicum
+  D1 files written on 2026-10-27 were voided**), then
   `deg-arch-build` (D2 resource pool + D3 modules, only after checkpoint).
 - D1 STATE (2026-10-26 13:24Z, sup-1026r): ALL 16 degrees now have D1
   files in docs/degrees/inventory/ (wol-x5: daoism, buddhism, greek,

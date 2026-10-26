@@ -93,9 +93,11 @@ A university teaches an entire course on the Zhuangzi alone; our current "The Zh
 
 ---
 
-## Status & routing — ALL degrees, no exceptions
+## Status & routing — 13 DEGREES (practicums are OUT OF SCOPE)
 
-Owner clarification (2026-10-27): Daoism was an EXAMPLE. The standard applies to every degree in the compendium. Measured real instruction hours per degree (2026-10-27 gate run):
+Owner clarification (2026-10-27, second): **the three practicums are NOT degrees and must not be touched** — deg-qigong ("Qi Gong — A Year of Practice"), deg-psychology-101 ("The Psychology Lab"), and deg-cmp ("Contemplative & Mental Practices — A Year of Practice") are `kind: practicum` in the data block and are excluded from the rebuild entirely (the cmp band additionally has a standing owner directive: one designated agent, closed to all others). No D1, no D2, no gate floors, no data-block changes for practicums. Two practicum D1 files were written in error on 2026-10-27 citing this spec's earlier "all 16" wording and have been voided (removed); the error originated in this spec's scope line, not in the worker.
+
+Owner clarification (2026-10-27): Daoism was an EXAMPLE. The standard applies to every DEGREE in the compendium — 13 of them. Measured real instruction hours per degree (2026-10-27 gate run):
 
 | Degree | Modules | Measured hours |
 |---|---|---|
@@ -105,13 +107,12 @@ Owner clarification (2026-10-27): Daoism was an EXAMPLE. The standard applies to
 | deg-mind | 5 | 0.0 |
 | deg-wellbeing | 4 | 2.0 |
 | deg-therapeutic | 4 | 3.0 |
-| deg-psychology-101 | 1 | 0.0 |
-| deg-qigong | 12 | 1.5 |
-| deg-cmp | 12 | 3.5 |
 | deg-psychdim | 8 | 3.8 |
 | deg-wol-daoism | 5 | 2.1 |
 | deg-wol-buddhism | 9 | 11.2 |
 | deg-wol-pragmatism | 5 | 3.1 |
 | deg-wol-greek / existentialism / positive | 0 | (in development — build to this standard from the start) |
 
-No degree currently meets the standard. The rebuild wave covers ALL of them: `deg-arch-inventory` (Phase D1 per degree — batch by lane, e.g. wol-x5, psych-x4, well-x3, remaining), then the D2 checkpoint, then `deg-arch-build` (D2–D4). Degrees that cannot reach the floors with reputable on-matrix verified material are DROPPED per owner ruling — reported to the owner with the specific unfillable rows, not padded.
+(deg-qigong, deg-psychology-101, deg-cmp are practicums — excluded, do not touch.)
+
+No degree currently meets the standard. The rebuild wave covers the 13 degrees: `deg-arch-inventory` (Phase D1 per degree — batch by lane, e.g. wol-x5, psych-x4, well-x3, remaining), then the D2 checkpoint, then `deg-arch-build` (D2–D4). Degrees that cannot reach the floors with reputable on-matrix verified material are DROPPED per owner ruling — reported to the owner with the specific unfillable rows, not padded.
