@@ -1,8 +1,54 @@
+<<<<<<< HEAD
 ## Worker checkpoint (2026-10-26 02:26:30Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
 
 ADVISOR-ROUTED RE-OPEN OUTCOMES (from the merged dosr3 in_progress list; both recorded honestly, both remain open):
 - Aristotle NE III.8 (anger Q2 aids-vs-necessity): the Ross-translation primary is NOT OPENABLE from this environment — classics.mit.edu Book III ch. 8 page now 404s, Perseus and Scaife both robots-blocked (3 distinct routes, retry bound reached). The Chase-translation Gutenberg carrier (pg8438) does not use the Ross wording and the courage-chapter probes did not surface the passage this pass. The dossier's existing honest framing (Seneca's dilemma against the Aristotelian position AS SENeca REPORTS it; Aristotle's own text says passion aids without requiring) stands unchanged.
 - Gould 1999 primary (agency Q3): a full-text search found NO open carrier for Gould's Psychological Review 106(3):597-604 article — only citations and secondary summaries (the UNIZD self-regulation PDF and the Frontiers 2014 article both corroborate the critique's substance: cultural invariance of primary-control primacy untested; collectivist-culture counter-evidence). The concurrent session's repair note ("Gould's side reaches through the reply's account; no open Gould copy obtained") is CONFIRMED as still accurate. A next worker with a route to Psych Review backfiles could upgrade the pairing to a Gould-primary quote.
+=======
+## Worker checkpoint (2026-10-26 02:27Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
+QC SAMPLE — concept page Naive realism (complete: blockquote and summary
+line checked): the Ross & Ward 1996 first tenet ("That I see entities and
+events as they are in objective reality, and that my social attitudes,
+beliefs, preferences, priorities, and the like follow from a relatively
+dispassionate, unbiased, and essentially 'unmediated' apprehension of the
+information or evidence at hand.") confirmed VERBATIM on the opened
+[Internet Archive scan](https://ia800601.us.archive.org/21/items/15341_Readings/15341_Readings/Negotiation_and_Conflict_Management/Ross_Ward_Naive_Realism_text.pdf)
+(curly-vs-straight quote marks around "unmediated" only); the summary line
+"The first tenet thus asserts, essentially, that I see things as they are"
+also verbatim on the same carrier. No defects; no repairs needed.
+
+QC SAMPLE — concept page Naming the passions (complete: both Spinoza spans
+checked): the Ethics III Preface method passage and the passions-as-objects
+passage ("the passions of hatred, anger, envy, and so on, considered in
+themselves, follow from this same necessity and efficacy of nature; they
+answer to certain definite causes, through which they are understood, and
+possess certain properties as worthy of being known as the properties of
+anything else") both confirmed VERBATIM on the opened
+[Gutenberg 3800 text](https://www.gutenberg.org/cache/epub/3800/pg3800.txt)
+(Elwes; the second span ends at "anything else", a mid-sentence truncation
+of a carrier sentence that continues "whereof the contemplation in itself
+affords us delight" — standard fragment practice). No defects; no repairs
+needed.
+
+QC SAMPLE — concept page Narrative as meaning-making (complete: the one
+blockquote checked): the Ricoeur sentence ("Narrative discourse configures
+such heterogeneous concepts into a discourse that locates actions in a time
+where one thing happens not just after something else but because of
+something else in a followable story or history.") confirmed VERBATIM on
+the opened [SEP Ricoeur entry](https://plato.stanford.edu/entries/ricoeur/)
+(section 4). No defects; no repairs needed.
+
+QC SAMPLE — concept page Obedience research (complete: both blockquotes
+checked): the Elms 2009 abstract spans ("Although Burger's replication
+succeeded in terms of gaining the approval of his local institutional review
+board, it did so by removing a large portion of the stressful circumstances
+that made Milgram's findings so psychologically interesting and so broadly
+applicable to instances of real-world destructive obedience." and the
+"obedience lite" extension span) both confirmed VERBATIM via the opened
+[eutils abstract record](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=19209962&rettype=abstract&retmode=text)
+(raw text fetched directly). No defects; no repairs needed.
+>>>>>>> 72e14b382 (verification assist: QC samples Naive realism, Naming the passions, Narrative as meaning-making, Obedience research (4 pages, 7 spans, all verbatim))
 
 ## Worker checkpoint (2026-10-26 02:25:47Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
 
