@@ -54,8 +54,20 @@ judgement calls needed. All four are LIVE in `site/assets/app.js`.
   correct (names only the 47:26-54:53 window).
 - FIX: drop the second segment; keep only `{start: 47:26, end: 54:53}`.
 
+## 5. BUD-B2-02 (mod-bud-2 and mod-bud-5, requiredMedia) - stale word label
+
+- CURRENT published locator (mod-bud-2): `The whole discourse (about 1,100 words); mark each truth and the task attached to it`
+- WHY WRONG: the recount receipt
+  (docs/degrees/verify/deg-wol-buddhism-locator-recount-1026c.md) measured the
+  page body at 994 words; "about 1,000 words" is the accurate label (the
+  earlier estimate was about 10 percent high). The assignments file already
+  says 1,000; the manifest was synced this session.
+- FIX: re-apply the assignments to app.js (the recount receipt notes this
+  pending re-application).
+
 ## Verified correct (no action)
 
+- PRAG-M3-04 (mod-prag-3): fixed by the schema lane's ef654d0 reconciliation.
 - PD-M3-03 (mod-pd-3): the verified window 13:22-18:27 is correctly published
   in the segments structure. (An earlier flag from this lane was based on
   checking the wrong field and has been retracted.)
