@@ -503,3 +503,19 @@ entries; consistent with this lane's receipts that both videos carry
 printed chapter labels). Segment arithmetic re-checked: 1:21 + 4:01 +
 4:36 = 9:58, matching the module's stated total. Consistent; no
 flags.
+
+### m3 Cook Ding QC addendum (2026-10-26T05:23Z)
+
+- m3's Cook Ding reading elements verified against Eno's Inner
+  Chapters text (3.2), as quoted from the Eno source by
+  factsanddetails.com (opened via search this pass; the quotation is
+  Eno's translation with his closing note): "no longer sees the
+  carcass whole... meets it with my spirit and don't look with my
+  eyes" ✓; "gaps between these joints, but the blade edge has no
+  thickness" ✓; "whenever a tangled knot lies ahead... I focus my
+  sight and slow down my hand" ✓; Lord Wenhui's "I have learned how
+  to nurture life" ✓; and the translator's closing paragraph's "knack
+  passages" phrase is Eno's own note ✓. All four marked sentences and
+  the closing attribution are consistent with the carrier's text.
+- The 523-word count (story plus translator's closing paragraph) was
+  not independently re-counted; owner's measurement stands unrefuted.
