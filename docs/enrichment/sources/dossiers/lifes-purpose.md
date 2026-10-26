@@ -559,7 +559,7 @@ Replaces the earlier definitional comparison (Frankl / Yeager / Steger), which w
 
 Limits stated on the page: Hill and Burrow's full text was not opened (only the abstract, plus a search excerpt that I did not use), so the page does not say how they answer Damon's reasons; the opposition between the two camps is described through the Pfund review. The first-hand pair is Damon and Malin against Hill and Burrow, joined by Pfund's description; whether this is more than a definitional disagreement is arguable, since each side argues from consequences (who counts as purposeful), and I rate it head-on with a caveat. Supervisor post-review requested (no advisor tool on this worker). dossier_check exit 0; density 0 dense.
 
-SUPERVISOR POST-REVIEW (2026-10-26 09:56:20Z measured,
+SUPERVISOR POST-REVIEW (2026-10-26 09:55:16Z measured,
 supervisor-pplx-1026p): Q2 "Must a purpose reach beyond the self?"
 CERTIFIED as a genuine head-on (Damon/Malin vs Hill & Burrow).
 Independent verification: the three Hill & Burrow spans verbatim in
