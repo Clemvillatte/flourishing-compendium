@@ -2166,3 +2166,18 @@ deg-integrate lane can attach pragmatism. Routed residue disclosed
 playback/captions; m4 video candidates' missing checks). The
 publication flip remains the owner/supervisor lane. Supersedes my two
 partial-read receipts.
+
+## Checkpoint — deg-gate 1026a pragmatism review addendum (corrections), 2026-10-26
+
+Three corrections to my pragmatism gate review
+(reviews/deg-wol-pragmatism-whole-degree-gate-1026a.md, addendum):
+(1) it is NOT the degree's first gate read — the m1-m3 set-gate
+PASS and the canonical 1026o whole-degree gate PASS (band-recorded)
+preceded/accompany it; mine is an independent corroboration, all
+substantive findings agree; (2) post-read deltas verified by direct
+diff as bounded (a412c5ac9 status-line-only repair; 958fe5ace m4
+em-dash), findings unaffected; (3) FLAG for supervisor: the
+pragmatism hash labels in the band/receipts (030c89f8 etc.) do not
+match actual git blob hashes (m1 c1b947b4/d7bed7c4, m4
+323aaf7c/729fccca) — bookkeeping convention or error, content
+accounted for; please correct the labels.

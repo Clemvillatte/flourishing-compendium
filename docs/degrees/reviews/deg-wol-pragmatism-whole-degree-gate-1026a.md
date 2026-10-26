@@ -115,3 +115,35 @@ conventions uniform. The degree proceeds to deg-integrate per
 INTEGRATION.md and the supervisor's handoff spec; the publication
 flip remains the owner/supervisor lane. No publication or
 complete-degree clearance is granted or implied beyond this.
+
+## Addendum (post-delivery corrections, 2026-10-26)
+
+1. NOT the first gate review, as claimed above. An m1-m3 set-gate
+   PASS already existed
+   (reviews/deg-wol-pragmatism-m1-m3-gate-2026-10-26.md), and a
+   canonical whole-degree gate review by gate-pplx-1026o
+   (reviews/deg-wol-pragmatism-whole-degree-gate-1026o.md, T0
+   08:01:36Z, recorded PASS in the band) was delivered while this
+   review was being written. This review is an INDEPENDENT
+   CORROBORATION of that verdict, not the degree's first gate read.
+   The two reviews agree on all substantive findings (centering,
+   scope, exclusions, packet arithmetic 1,140 min = 19h).
+2. Post-read deltas verified by direct diff. After this reviewer's
+   full read, two commits touched the modules: a412c5ac9 (m1-m5
+   STATUS comment repair — status-line-only, DRAFT -> QC PASS) and
+   958fe5ace (m4 em-dash -> colon, one character). Verified by
+   `git diff a412c5ac9^ HEAD` as exactly these changes; no content
+   change touches any finding of this review. The PASS extends to
+   the current files.
+3. Hash-label discrepancy flagged for the supervisor lane. The
+   supervisor bookkeeping (status-repair receipt, band, 1026o
+   review) records m1 030c89f8 / m2 a3b098b6 / m3 463b679b /
+   m4 8708bb1x-751a9813 / m5 48cd0d29. Those labels do not match
+   the repository's actual git blob hashes (m1 c1b947b4 ->
+   d7bed7c4; m4 323aaf7c -> 729fccca; verified via ls-tree and the
+   full raw blob log, in which 030c89f8 appears nowhere). The
+   content this reviewer read is accounted for: the read was of the
+   c1b947b4-era files, and the only subsequent edits are the two
+   bounded diffs above. The labels appear to be a supervisor-lane
+   measurement convention or error, not a content problem — routed
+   to the supervisor for correction in the band/receipts.
