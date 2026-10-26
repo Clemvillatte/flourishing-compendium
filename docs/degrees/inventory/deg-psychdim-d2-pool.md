@@ -1,7 +1,7 @@
 # deg-psychdim — Phase D2 teaching-content resource pool (first batch)
 
 **Owner**: worker-pplx-sup-1026r (baton `deg-arch-inventory-rem6`)
-**Built**: 2026-10-26 13:24 UTC (T0 13:01:41 UTC, elapsed ~00:22, from a fresh `date -u` reading)
+**Built**: started 2026-10-26 13:24 UTC; last verified push 13:46 UTC (T0 13:01:41 UTC, elapsed ~00:44, from fresh `date -u` readings cross-checked against HTTP Date)
 **Status**: D2 POOL CHECKPOINT — every mod-pd-* module ID EXCEPT mod-pd-8 (the integration capstone, not a pool row) carries at least partial verified teaching content (see coverage table), BUT topic-row coverage within modules is PARTIAL at best: named components still unaccounted for include broaden-and-build/awe (mod-pd-10), reasoning (mod-pd-12 — creativity IS now covered by OpenStax 7.4), emotional labor (mod-pd-11), and self-enhancement (mod-pd-14), in addition to the 5 UNFILLED topic rows in the table. Durations unmeasured — no hours counted. This file does not yet support D2 approval or any D3 work. Per owner ruling 2026-10-27 (commits bad5c55b8 / 622a7eca3): teaching content only — no primary-text hunting (corpus rows point at docs/PRIMARY-SOURCES.md and the wiki), no encyclopedic reference material (SEP/Wikipedia/IEP/Britannica) as assignments or matrix rows.
 
 ## Resource list (three categories)
