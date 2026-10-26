@@ -1,5 +1,20 @@
 ## Worker checkpoint (2026-10-26 00:44Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
+QC SAMPLE — concept page Growth mindset (partial: the two prose quotes
+checked): the Ku and Stager 2022 definition sentence confirmed VERBATIM
+on [PMC9284032](https://pmc.ncbi.nlm.nih.gov/articles/PMC9284032/), and
+the Sisk et al. 2018 sentence "Overall effects were weak for both
+meta-analyses." confirmed VERBATIM on the
+[PubMed record 29505339](https://pubmed.ncbi.nlm.nih.gov/29505339/)
+(and the SAGE page), with the k/N values (273/365,915; 43/57,155) also
+verbatim in the abstract. RESIDUAL (not a confirmed defect): the page's
+specific statistics r = .10 and d = 0.08 are not stated in the open
+abstract routes; confirming them needs the full text, which was not
+opened this pass — left for a future pass or the band owner. No defects
+found in what was checked.
+
+## Worker checkpoint (2026-10-26 00:44Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
 QC SAMPLE — concept page Self-compassion: the self-compassion-break
 phrase at line 16 ("this is a moment of suffering; suffering is part of
 life; may I be kind to myself in this moment") is presented in
