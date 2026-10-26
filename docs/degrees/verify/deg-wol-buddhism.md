@@ -547,3 +547,10 @@ phrasing prefix ("this noble truth should be...") is also consistent
 with Sujato's task formulations. The b2 task-verb flag above is
 unaffected (b2 cites Thanissaro, whose cessation task reads "to be
 directly experienced").
+
+**Defect closure (2026-10-26T05:11Z):** the owner's QC round 6 (commit 77e90de1a)
+repaired both deg-verify-a defect flags. Re-checked on the pulled
+files: b2 line 57 now reads "...to be directly experienced..." (Thanissaro's
+cessation task verb); b3's source table and body now carry
+plumvillage.org/mindfulness/the-5-mindfulness-trainings with a dated
+correction note. Both flags CLOSED.
