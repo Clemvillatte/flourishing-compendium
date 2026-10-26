@@ -836,6 +836,23 @@ All five M7 sources verified free to access (no paywall) this pass.
 M8 is the integrative capstone and adds no new sources.
 
 
+### Quotation audit (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:40Z measured)
+
+Every quotation recorded in this session's preparation sections was
+audited against the raw saved page text with an explicit
+quotation-to-source list (whitespace normalization only; ellipsis
+segments checked individually). Result: all quotations verified.
+Two disclosures apply (both recorded inline above): the Gross
+five-family quotation spans a printed page break where the pdftotext
+extraction inserts an APA copyright footer notice (the quotation is
+verbatim against the printed text with the notice excluded); and the
+Posner three-networks quotation's citation token renders as
+"[ 1 ]" with bracket spacing on the raw page. The van Heijst
+quotations were verified against the van Heijst response page
+(PMC12575812). No quotation in this session's records is unresolved;
+no "verbatim" label rests on a paraphrase.
+
+
 Supervisor Phase 0 ruling (ledger section of the same name): M1 repairs
 applied and ACCEPTED by the verifier's re-review (all three findings
 CLOSED, module SHA 99e5abbe...; disposition ready for supervisor
