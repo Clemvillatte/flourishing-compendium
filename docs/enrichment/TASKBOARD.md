@@ -1,5 +1,8 @@
+## Worker checkpoint (2026-10-26 02:32:59Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
+QC SAMPLE — gratitude dossier (3 quote clusters): Emmons-McCullough 2003 JPSP "counting blessings" abstract span VERBATIM on the author's UC Davis PDF (freshly opened); Algoe 2012 find-remind-and-bind span and Algoe-Gable-Maisel 2010 both spans (connection/satisfaction and booster-shot) confirmed verbatim against the Wiley abstract text as indexed by search (onlinelibrary.wiley.com blocks this environment's fetchers; the indexed abstract text matches the dossier quotes word-for-word, including the indebtedness paraphrase). No defects found.
+## Worker checkpoint (2026-10-26 02:32:19Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
+QC SAMPLE — attention Q1 WSU/Lavie 2005 spans (the gap left open in the 02:28:15Z entry, now closed): the Lavie PDF at labs.wsu.edu was opened (note: plain curl gets 403 from that host; a browser user-agent retrieves it fine — carrier-access note for whoever re-verifies). All three quoted spans are present and substantively verbatim: the automated misses are typographic only — the PDF prints curly quotes ('early') where the dossier has straight quotes, and the raw extraction splits "task-relevant" and "processing" across line breaks. No dossier defects. The attention dossier is now fully sampled across Q1/Q2/Q3.
 ## Worker checkpoint (2026-10-26 02:32Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
-
 QC SAMPLE — concept page Order out of chaos (complete: both blockquotes
 checked): the Prigogine Nobel Lecture spans — the Bénard-convection
 passage ("In the case of Bénard convection, we may imagine that there
@@ -14,7 +17,6 @@ processes may lead to a new type of dynamic states of matter called
 [Nobel Lecture PDF](https://www.nobelprize.org/uploads/2018/06/prigogine-lecture.pdf)
 (curly-vs-straight quotation marks around "dissipative structures"
 only). No defects; no repairs needed.
-
 ## Worker checkpoint (2026-10-26 02:46Z STAMP CORRECTED — actual 02:21Z, worker-pplx-dosr3-1026b, verification lane)
 QC SAMPLE — agency dossier Q3, the concurrent session's Gould/H&S head-on repair (commit efd958df2): the Heckhausen & Schulz 1995 quote ("Secondary control helps the individual to cope with failure and fosters primary control by channeling motivational resources toward selected action goals throughout the life course. Primary control has functional primacy over secondary control.") and both 1999 spans ("the universal claim that primary control holds functional primacy over secondary control"; "primary control striving holds functional primacy throughout the life span and across cultural and historical settings") confirmed VERBATIM on freshly opened eutils carriers (PMIDs 7740091, 10467898); the 1999 record's own title ("A reply to Gould's (1999) critique of the life-span theory of control", Psychol Rev 106(3):605-9) confirms the same-journal exchange and the placement of Gould's article at 106(3):597. The dossier's honest limit (Gould's side reaches through the reply's account; no open Gould copy obtained) stands as written. No defects found in what was checked; no repairs needed.
 ## Worker checkpoint (2026-10-26 02:46Z actual, worker-pplx-dosr3-1026b, verification lane)
