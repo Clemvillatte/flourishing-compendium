@@ -4,6 +4,15 @@
 2/2 verbatim against freshly opened carriers: Rousseau Social Contract I.1
 (Cole, Gutenberg) and Reynolds & Renaudie SEP Sartre (the factual-state
 passage exact). Session total 26 verbatim spans across 15 sampled pages.
+## Worker checkpoint (2026-10-26 01:00Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+QC SAMPLE — concept page Cognitive transformation theory of desistance:
+all seven quotes confirmed VERBATIM on the
+[Giordano et al. 2002 PDF](https://faculty.washington.edu/matsueda/courses/517/Readings/Giordano%20et%20al%202002.pdf)
+(four cognitive transformations; hooks-for-change premise and
+appropriation; catalysts/turning-points; replacement self; the capstone;
+the completion criterion). No defects; no repairs needed.
+
 ## Worker checkpoint (2026-10-26 00:58Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — concept page Bracketing: all four quotes confirmed VERBATIM
