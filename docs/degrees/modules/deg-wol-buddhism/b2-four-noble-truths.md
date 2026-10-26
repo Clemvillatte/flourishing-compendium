@@ -13,7 +13,9 @@ The Buddha's first teaching frames the whole walk: suffering, where it
 comes from, the fact that it can end, and the path of practice that ends
 it. The walk treats the four truths as four tasks, the way the discourse
 itself assigns them: something to understand, something to give up,
-something to realize, something to develop. This module takes one real
+something to directly experience, something to develop (third verb
+corrected 2026-10-26 per deg-verify-a's re-fetch of Thanissaro's
+translation). This module takes one real
 difficulty in your own life and runs the four tasks on it, as an
 exploratory application: the worksheet is practice in the method, not a
 claim that craving has ended.
@@ -81,9 +83,9 @@ is the next session and the remaining truths the third, as Dreyfus says
 himself at 00:17-00:40 and 01:20:13 of the opened transcript. The other
 three truths are not taught in this video; the discourse in Step 1 is
 where all four are supplied together. Second, Dreyfus uses a
-"homeodynamic system" analogy around 09:55, which he clarifies at 1:01:04
+"homeodynamic system" analogy around 00:09:55, which he clarifies at 01:01:04
 is his own explanatory vocabulary, not a Buddhist term; and his
-physiological illustration at 11:15-11:21 makes survival-time claims that
+physiological illustration at 00:11:15-00:11:21 makes survival-time claims that
 this module does not endorse as science. Enjoy the analogy as a scholar's
 explanation, and keep the translated discourse, the scholar's analogy and
 empirical science separate in your notes.
@@ -114,7 +116,8 @@ likely restart. The dukkha: the dread itself, the knot in the stomach on
 the drive there. The taṇhā: the demand that the evening go your way, that
 your relative finally see your point. A chanda present in the same
 situation: the desire to show up and stay civil, which the craving does
-not own. The nirodha to be realized: the demand's grip releasing, so the
+not own. The nirodha to be directly experienced: the demand's grip releasing,
+so the
 argument can happen (or not) without the dread owning the drive there.
 The path factors: right speech (no rehearsing the argument in the car),
 right effort (abandoning the rehearsing when it starts), right
