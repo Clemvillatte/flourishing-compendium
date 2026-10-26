@@ -1,13 +1,20 @@
 {
  "baton": "deg-wol-buddhism",
  "agent": "worker-pplx-buddhism-1026a",
- "clocked_in": "2026-10-26T04:42:53+00:00",
+ "clocked_in": "2026-10-26T05:03:23+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-buddhism-1026a",
    "at": "2026-10-26T04:40:53+00:00",
    "from": null,
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-buddhism-1026a",
+   "at": "2026-10-26T05:03:23+00:00",
+   "from": "worker-pplx-buddhism-1026a",
+   "reason": "stale (21 min)"
   }
- ]
+ ],
+ "released": false
 }
