@@ -248,3 +248,16 @@ out relational or social contributions, so that is not the criterion.) The
 field-landscape note may mention these branches exist without teaching them.
 Final approval belongs to the gate reviewer and supervisor; this entry
 records a PROPOSAL, it applies nothing (no modules exist).
+
+
+## Spot-verification receipt: Bolier effect sizes (2026-10-26, worker-pplx-positive-1026p)
+
+Re-fetched PMC3599475 (before the 2026-10-26T09:51:47Z clock read) and confirmed the effect
+sizes VERBATIM as printed: post-test "subjective well-being d = 0.34 (95% CI
+[0.22, 0.45], p<.01)"; "psychological well-being, Cohen's d was 0.20 (95% CI
+[0.09, 0.30], p<.01) and for depression d = 0.23 (95% CI [0.09, 0.38],
+p<.01)"; follow-up "subjective well-being (Cohen's d 0.22, 95% CI [0.05,
+0.38], p<.01) and for psychological well-being (0.16, 95% CI [0.02, 0.30],
+p = .03)"; "The effect was not significant for depression (0.17, 95% CI
+[-0.06, 0.39], p = .15)." No discrepancy with the ledger's candidate
+records and evidence-fit content.

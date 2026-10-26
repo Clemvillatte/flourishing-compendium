@@ -176,3 +176,15 @@ small." / "Therefore, the effects on existential or spiritual well-being by
 existential psychotherapy in patients with advanced cancer are yet to be
 determined." (The article's own non-standard grammar is preserved in the
 quotes.) No discrepancy with the ledger's evidence-fit table.
+
+
+## Spot-verification receipt: van Zyl six themes (2026-10-26, worker-pplx-exist-1026p)
+
+Re-fetched the T&F full text (before the 2026-10-26T09:51:47Z clock read) and confirmed the
+six criticism themes VERBATIM as printed: "Positive Psychology lacks proper
+theorizing and conceptual thinking" / "Issues with measurement and
+methodology" / "Positive Psychology is a pseudoscience: poor replication and
+lacking evidence" / "Positive Psychology lacks novelty and self-isolates from
+mainstream psychology" / "Positive Psychology is a decontextualized
+neo-liberalist ideology that causes harm" / "Positive Psychology is a
+capitalistic venture". No discrepancy with the ledger's gap-register entry.
