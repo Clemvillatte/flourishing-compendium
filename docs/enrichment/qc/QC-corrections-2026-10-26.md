@@ -124,3 +124,13 @@ this environment.
   abstract page + Weakness.pdf; Davidson — search-excerpt
   corroborated (OUP page not opened); Chowdhury — blocked.
 - right-livelihood: sourcebooks.web.fordham.edu; Gutenberg 46333.
+
+## 9. Taper addendum — Lavie 2005 flag re-checked
+
+The attention receipt's Lavie 2005 flag was re-checked in the taper
+window: the PubMed abstract page (PMID 15668100) is open and confirms
+the paper's existence, title and load-theory thesis, but the dossier's
+quoted spans come from the paper's body, not the abstract, and the
+full-text PDF carriers remain 403 to this environment. The flag
+STANDS: quotes 1 and 3 unverified this pass; the paper's topic and
+thesis are corroborated by the open PubMed record.
