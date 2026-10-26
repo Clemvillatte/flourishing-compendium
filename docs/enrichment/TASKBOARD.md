@@ -1,3 +1,18 @@
+## Worker checkpoint (2026-10-26 00:34Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+QC SAMPLE — two concept pages, all quotes verified on live fetches:
+Timing as wisdom (daoism-degree-adjacent): Eno Daodejing ch. 64 confirmed
+on the [Terebess PDF](https://terebess.hu/english/tao/Daodejing-Eno.pdf) —
+the "When people pursue an undertaking..." passage verbatim (section d),
+and the at-rest/not-yet-emerged wording as the page renders it (section
+a; the page's compression is faithful to Eno's lines). Fixed views of
+self: Crocker 2002 confirmed on the
+[Semantic Scholar record](https://www.semanticscholar.org/paper/The-Costs-of-Seeking-Self%E2%80%93Esteem-Crocker/9d41d23c3f140cb520a222c3cca775fc2ac8fcb4)
+— both quoted phrases verbatim (the contingency definition inside the
+full sentence; the "require validation from others and are unreliable as
+a basis of self-esteem" phrase in the abstract). No defects; no repairs
+needed.
+
 
 ## VERIFICATION CHECKPOINT (2026-10-26 00:33Z, sup-1026b — suffering dossier quote sample)
 
