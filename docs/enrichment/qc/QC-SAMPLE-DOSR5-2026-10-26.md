@@ -424,3 +424,21 @@ archive.org x3 (Skinner, Beyond Freedom and Dignity); creativity —
 tandfonline x2 (17439760), PubMed 24405359, thaleszp.com (Schumpeter),
 rider.edu, scispace x2; procrastination — semanticscholar, academic.oup,
 web.archive.org (Holton). Most sit on hosts that block automated fetchers.
+
+# QC sample 13: dosr7 files — second adjudication batch (2026-10-26 02:46:24Z, measured in-command)
+
+Two more FALSE POSITIVES, confirmed:
+
+1. creativity, Kounios and Beeman 2014 (PubMed 24405359): the insight
+   definition verbatim on the efetch abstract API — "Insight occurs when a
+   person suddenly reinterprets a stimulus, situation, or event to produce a
+   nonobvious, nondominant interpretation."
+2. creation, McAdams and de St. Aubin generativity (PMC4542587): verbatim on
+   the PMC full text — "described generativity as an arrangement of seven
+   empirically grounded facets including desire, cultural demand, concern,
+   belief, commitment, action, and narration."
+
+Remaining unadjudicated from the dosr7 files: 13 items, all on hosts that
+block automated fetchers or not yet reached (tandfonline x4 across the two
+files, archive.org/Skinner x3, thaleszp.com, rider.edu, scispace x2,
+semanticscholar, academic.oup, web.archive.org).
