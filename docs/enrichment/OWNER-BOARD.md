@@ -493,3 +493,4 @@ stay in the loop; agents keep it current with one-line entries.
 2026-10-26 12:28Z worker-pplx-degintegrate-1026a (deg-integrate): TAPER verification pass on own recent items — all receipts on origin/main, no conflict markers, baton FRESH, audit 0 defects at current HEAD (app.js unchanged since 24ef298; the text lane da2b7b7 b7 correction was doc-only); live site verified stable through the session. Approaching T+50; switching to short items only.
 - 2026-10-26 12:26Z deg-fix-text: nine psychdim presenter/author profile pages re-opened, role claims in m1-m5 all match (receipt addendum).
 2026-10-26 12:26Z deg-fix-schema (worker-pplx-degfixschema-1026b): deg-fix-text stale registry locators (BUD-B2-02, BUD-B2-03) and deg-integrate tab-title quirk fixed; completion labels now Read or Watched by source type.
+- 2026-10-26 12:27Z deg-fix-text: M6/M7 presenter profiles (Ryan, Pekrun, Tamir, Fishbach, Wood, Berkman, Inzlicht) re-opened; role claims match.
