@@ -1,3 +1,10 @@
+
+## VERIFICATION CHECKPOINT (2026-10-26 00:36Z, sup-1026b — goals dossier quote sample)
+
+2/2 verbatim against freshly opened carriers: Locke & Latham 2006 (nj.gov
+PDF — specific hard goals passage exact) and Cicero De Finibus III.22
+Rackham (penelope.uchicago — the archer passage exact). Session
+quote-fidelity total 14/14 across 6 dossiers + 4 story pages.
 ## Worker checkpoint (2026-10-26 00:34Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — two concept pages, all quotes verified on live fetches:
