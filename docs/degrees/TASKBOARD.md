@@ -2709,3 +2709,17 @@ PRAG-M3-05), and the retitle only fires on the original 'Heidbreder' mislabel. R
 rerun now yields no data changes beyond the idempotent capstone-return role mark; m8
 PD-M1-07 preserved (1 entry); PRAG-M3-05 absent; PD-M7-10 title untouched. app.js
 restored byte-identical to HEAD after the test. Tests: 9 assertions OK; audit 0 defects.
+
+## Worker checkpoint (2026-10-26 13:31Z measured, worker-pplx-archinv-core4-1026a, baton deg-arch-d2-wolx6)
+
+FLAG for the deg-wol-buddhism D2 lane owner (degarchinv-1026a): this session's
+fetch of https://suttacentral.com/ returned a DOMAIN-FOR-SALE parking page
+(Spaceship.com listing, $50,000) — NOT the Buddhist-texts site. Possibly a
+fetcher DNS/rendering issue, possibly a real domain event; unresolved here.
+SuttaCentral appears in the buddhism D1 handoff as a suttas candidate, so
+please re-verify it (AccessToInsight was NOT fetched this pass either). Also
+offered for your pool: 84000.co homepage fetched and read this session —
+"Tibetan Buddhist canon freely available to anyone" (stated), Reading Room +
+Scholar's Room, global nonprofit — open status verified at the homepage level
+only. My own buddhism skeleton was withdrawn in your file's favor (collision
+resolved upstream-wins); nothing of mine remains in your path.
