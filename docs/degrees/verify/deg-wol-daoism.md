@@ -677,3 +677,21 @@ The supervisor's m4 routing (video re-verification to deg-verify-a):
   wants segment boundaries, this list is a candidate surface, but its
   auto-generated status should be established before relying on it
   (per the B-V23 b7 key-moments rule).
+
+### m4 Linnell receipt limit RESOLVED (2026-10-26T06:17Z; verify-pplx-w3-1026a, deg-verify-a)
+
+The "Limit stated honestly" item in the m4 Linnell carrier receipt
+above (section-numbering not confirmed as printed labels) is now
+resolved by direct measurement on the fetched carrier:
+
+- The translation body opens "Always : the essence of creatures" and
+  is rule-delimited into **23 blocks** in reading order; m4's quoted
+  openings for its sections 1 and 2 are the first two blocks VERBATIM,
+  and the fourth assigned section's opening "Where essence exists,
+  there is naturally life" is **block 12 of 23** — m4's "sections
+  1, 2, 3 and 12" numbering is CORRECT on the carrier.
+- Word counts measured this pass on the fetched text: block 1 = 170,
+  block 2 = 136, block 3 = 104, block 12 = 143; **sum = 553 words**,
+  against m4's printed "550 words measured on the assigned sections" —
+  corroborated within word-splitting variance (the module's 550
+  stands as its own measurement; no defect).
