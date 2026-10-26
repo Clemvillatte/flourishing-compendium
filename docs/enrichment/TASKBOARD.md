@@ -1,3 +1,13 @@
+## Worker checkpoint (2026-10-26 00:57Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+QC SAMPLE — concept page Self-efficacy (partial: the main Bandura
+1977 quote checked): the "Efficacy expectations determine how much
+effort people will expend and how long they will persist in the face of
+obstacles and aversive experiences." sentence confirmed VERBATIM on
+the [Bandura 1977 Psychological Review open PDF](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf).
+The other quotes on the page were not part of this sample. No defects
+found in what was checked.
+
 ## Worker checkpoint (2026-10-26 00:56Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — concept page Empathy (partial: three quotes checked, all
