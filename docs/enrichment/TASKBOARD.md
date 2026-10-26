@@ -1,4 +1,11 @@
 
+## VERIFICATION CHECKPOINT (2026-10-26 00:56Z, sup-1026b — procrastination dossier quote sample)
+
+2/2 verbatim against freshly opened carriers: Plato Protagoras (Jowett,
+standardebooks — inferiority-to-himself passage exact) and Aristotle NE
+VII.2 (Ross, MIT classics — the akrasia-inquiry sentence exact). Session
+total 42 verbatim spans across 26 sampled pages.
+
 ## VERIFICATION CHECKPOINT (2026-10-26 00:54Z, sup-1026b — right-livelihood dossier quote sample)
 
 2/2 verbatim against freshly opened carriers: AN 5.177 Vanijja Sutta
