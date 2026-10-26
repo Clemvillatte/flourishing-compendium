@@ -85,3 +85,7 @@ elective-to-core divergence and the qigong practicum cross-link check).
 ## Addendum (2026-10-26, later same session)
 
 A second deep trace was added for m1 (docs/degrees/verify/deg-wol-daoism-m1-deep-trace-1026a.md): PASS — all five sources match value-by-value across doc, manifest and published state, including this lane's own tightened m1 assignments (chapters 1/8/76 at 288 words; Butterfly Dream 2.20 at 67 words). With m1 and m3 traced, the verdict's deep-trace reservation now covers m2, m4 and m5.
+
+## Addendum 2 (2026-10-26, later same session)
+
+Deep trace added for m5 (docs/degrees/verify/deg-wol-daoism-m5-deep-trace-1026a.md): PASS - the capstone's single media entry (DAO-M1-04, chapters 20/44/50/67, 466 words) traces value-by-value across the three layers, including this lane's own chapter-set fix. With m1, m3 and m5 traced, the verdict's deep-trace reservation now covers m2 and m4.

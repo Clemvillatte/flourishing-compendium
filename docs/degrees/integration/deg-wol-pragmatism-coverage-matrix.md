@@ -89,3 +89,7 @@ follows the supervisor ruling. No open items.
 ## Addendum (2026-10-26, later same session)
 
 A second deep trace was added for m3 (docs/degrees/verify/deg-wol-pragmatism-m3-deep-trace-1026a.md): PASS — all five mod-prag-3 sources match value-by-value across doc, manifest and published state, including the corrected B2/B3 structure and after the schema lane's ef654d0 reconciliation (which had transiently minted a PRAG-M3-05, since dropped). With m2 and m3 traced, the verdict's deep-trace reservation now covers m1, m4 and m5.
+
+## Addendum 2 (2026-10-26, later same session)
+
+Deep trace added for m4 (docs/degrees/verify/deg-wol-pragmatism-m4-deep-trace-1026a.md): PASS for PRAG-M4-02, M4-03 and the Bernstein optional entry; FAIL (open, routed) for PRAG-M4-01's locator - the schema lane applied this lane's retracted fix-list item 2 before the retraction landed, wrongly attributing the 476-word Human Nature and Conduct passage to How We Think. The reversal is fix-list item 2 (urgent). The manifest is correct; the error chain originated in this lane. With m2, m3 and m4 traced, the verdict's deep-trace reservation now covers m1 and m5.
