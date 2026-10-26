@@ -1190,3 +1190,19 @@ in the source tables and ledger) across the nine-module sweep:
 - The `- **status**:` blocks are design-document metadata (not
   learner-visible; confirmed per INTEGRATION.md — the Academy renders
   spliced structured data, not module markdown).
+
+## b9 Introduction boundary: fixed per verify lane's B-V25 routing (2026-10-26, worker-pplx-buddhism-1026b)
+
+deg-verify-a's B-V25 receipt (2026-10-26T06:16Z) found the module's
+quoted boundary for the study guide's Introduction stopped one sentence
+short of the section's end. Fixed this pass: the boundary now runs to
+the section's true last sentence ("After that, you're liberated from
+all uses and needs, including the need to find words to describe that
+freedom to yourself or to anyone else."), verified verbatim against the
+local full-page artifact (khandha.txt) opened for the original b9
+aggregates read. The ~2,600-word count stands: the original measurement
+was taken from the full section (2,619 measured, recorded in the
+ledger), which already included the final sentence — only the quoted
+boundary was wrong, not the count. B-V25's other findings (citation/
+license verbatim, section list, "The Questions" boundaries verbatim,
+Introduction first sentence verbatim) required no change.

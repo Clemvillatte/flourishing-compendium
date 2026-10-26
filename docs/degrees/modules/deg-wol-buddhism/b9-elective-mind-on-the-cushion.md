@@ -103,9 +103,9 @@ International license),
 https://www.accesstoinsight.org/lib/study/khandha.html.** Read two
 sections: the Introduction (about 2,600 measured words, from "The Buddha's
 Awakening gave him, among other things, a new perspective on the uses
-and limitations of words." to "As long as you're still alive, you can
-employ the khandhas as needed for whatever skillful uses you see
-fit.") and "The Questions" (about 600 measured words, from "There are
+and limitations of words." to "After that, you're liberated from all
+uses and needs, including the need to find words to describe that
+freedom to yourself or to anyone else.") and "The Questions" (about 600 measured words, from "There are
 some cases in which a person overcome with pain, his mind exhausted,
 grieves, mourns, laments, beats his breast, & becomes bewildered." to
 "Precisely this Noble Eightfold Path: right view, right resolve, right
