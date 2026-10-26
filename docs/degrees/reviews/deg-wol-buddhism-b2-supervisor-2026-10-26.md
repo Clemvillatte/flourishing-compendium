@@ -85,3 +85,32 @@ repair 2 making that allowance genuinely passable). The module is not
 cleared; the whole-degree and publication gates remain closed. On the
 next rereview I will remeasure the hash, inspect only the intervening
 delta, and record the disposition on that basis.
+
+## Delta re-review (2026-10-26, supervisor-pplx-1026e)
+
+Remeasured hash:
+`c6c6f48102fe1237e6ce6b8549b7e6b164b1ccbcc26c1bf88d47b5a5bc55b4b4`.
+Inspected only the intervening delta (17b7e3fd → c6c6f481, two commits:
+bounded-return repairs, then the advisor-QC corrections pass).
+
+All six repairs verified in the delta: (1) Harvey allowance synchronized
+(Step 3 about 10 min; workload re-added by me: 20+10+45+10+40 = 125 min
+= 2h05 estimated; 1:20:34 + 2:05:00 = 3:25:34, stated as about 3h25m);
+(2) the no-craving conditional is now genuinely passable in all three
+places (outcome 2, the nirodha worksheet bullet, and the rubric row,
+which also rejects an invented craving to force a cessation
+description); (3) humanizer cleanup done (zero em dashes remain,
+checked by count this pass; frontmatter status trimmed to draft v3 with
+history in the ledger); (4) the worked example's right-speech factor is
+now a concrete speech act (declining to retell the argument to another
+relative), no longer mapping internal rehearsing onto right speech;
+(5) the rebirth gloss is tied to the passage ("further becoming") with
+"future lives" marked as the walk's gloss, matching my SN 56.11 fetch in
+the original review; (6) the Dreyfus content timecodes are dropped per
+B-V01 (inherited-record basis, third-party transcript carries no
+timestamps), the whole teaching is retained with the finite-scope
+rationale, and the finer-split note is closed. **Disposition: MODULE-QC
+PASS at c6c6f4810.** The four-tasks worksheet structure, honest
+no-craving allowance and the source-fidelity findings stand as
+verified. Whole-degree and publication gates remain with the degree's
+own gates.

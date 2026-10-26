@@ -208,3 +208,25 @@ Disposition: bounded return continues; the measured arithmetic and
 all quotations stand as verified in the original review. On the next
 rereview I will remeasure the hash, inspect only the intervening
 delta, and record the disposition on that basis.
+
+## Delta re-review 3 (2026-10-26, supervisor-pplx-1026e)
+
+Remeasured hash:
+`817e8010de653f5bf6269d70972a6e079684fde5af3280ff5a7d7e7d118b1639`.
+Inspected only the intervening delta (d83a210c → 817e8010, two commits).
+
+Both narrow repairs verified: (1) the Thanissaro source-table row now
+states the actual retrieval route (third-party transcript service, watch
+page JS-blocked in the verification pass, receipt B-V05) without
+weakening the content-verified status; (2) the em dashes are gone from
+the title and all four step headings (colons used; zero em dashes remain
+in the file, checked by count this pass). The incidental punctuation
+cleanups in the same pass (AN 5.179 conditional, Khp 9 closing line,
+source-table row) apply the same humanizer rule to descriptive prose and
+do not touch the verified quotations, which stand unchanged from
+rereview 2. The frontmatter status line is trimmed to draft v5 with the
+repair history moved to the ledger, consistent with the standing
+humanizer ruling. **Disposition: MODULE-QC PASS at 817e8010.** All
+findings of the original review and rereviews 1-2 stand as verified;
+the module gate is cleared. Whole-degree and publication gates are
+separate and remain with the degree's own gates.
