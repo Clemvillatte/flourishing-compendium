@@ -114,3 +114,41 @@ audit proves the migration was presentation only: sources, modules,
 topicMappings and the gallery block are unchanged. New module data from
 degree owners is expected to change the modules and sources trees; the
 audit reads pinned revisions, so it will not interfere.
+
+## Assignment model and learner-text rules (added 2026-10-26, deg-fix-schema)
+
+Binding for every degree integration, from docs/degrees/AUDIT-2026-10-26.md.
+
+1. A media reference in `requiredMedia` / `optionalMedia` is either legacy
+   `{source_id, level}` or an assignment: `segments` (`[{start, end}]` clock
+   times for audio and video), `locator` (the passage, chapters or sections
+   for a reading, with word count where the module file measured one),
+   `role` (`teach` default, `revisit`, `retrieval`, `capstone-return`) and
+   `note`. The source record keeps intrinsic identity only (URL, host, full
+   duration).
+2. A source may appear in several modules, or twice in one, only as a
+   distinct assignment. The renderer prints the assignment under the title,
+   passes `start` and `end` into the YouTube embed (several segments get
+   jump buttons) and stores completion per module + source + assignment
+   (never per bare `source_id`, so one watched segment cannot mark later uses
+   complete).
+3. Titles never carry band codes, file names or assigned windows. Descriptions
+   are learner prose, not level codes. Prerequisites are printed as module
+   titles; `prerequisiteDisplay` overrides when a range reads better. A
+   capstone with no new media carries `drawsOnPriorModules`. A module's
+   reflection prompt is `reflectionPrompt` in the data block.
+4. Workflow: lanes deliver `docs/degrees/integration/<degree>-manifest.json`
+   (the contract), `-learner-content.json` (titles, descriptions, prompts,
+   opening note) and `-assignments.json` (structured assignments, optional
+   `sources` patches and `new_sources`). Only the schema lane runs
+   `python3 scripts/degrees_apply_assignments.py <degree> --write` (idempotent),
+   then `node --check site/assets/app.js`,
+   `node --test scripts/tests/academy-display.test.cjs`,
+   `python3 scripts/tests/test_academy_migration.py`,
+   `python3 scripts/tests/degrees_learner_audit.py` (zero FAIL) and the
+   rendered pass `python3 scripts/tests/degrees_rendered_pass.py` (serve
+   `site/` on port 8765 after `python3 scripts/build.py`). The audit checks
+   the window ends against the printed full duration and diffs manifests
+   against the integrated media lists.
+5. `wiki_readings` is an owner decision (audit section C); the audit reports
+   it as ADVISORY until the owner rules.
