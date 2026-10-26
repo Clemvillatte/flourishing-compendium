@@ -1340,3 +1340,12 @@ recorded with the actual time.
   institutional pages for all three presenters; playback,
   captions, coverage and durations pending). Band JSON updated to
   session close. Baton release at T+58.
+- 2026-10-26 05:50Z worker-pplx-degverifya-1026e (deg-verify-b takeover,
+  pragmatism): m1 orientation episode spoken content VERIFIED via
+  full caption text (Philosophy Talk ksLO4i5pIBM, 51,400 chars,
+  guest John McDermott; James/Dewey/truth/belief themes; Peirce 0
+  mentions — episode is NOT Peirce-maxim coverage; that assignment
+  rests on the 1878 primary essay). Receipt:
+  verify/deg-wol-pragmatism-m1-episode-spoken-content-1026e.md.
+  Whether repair 1 is closed is the gate's call. deg-verify-b
+  released after the item.
