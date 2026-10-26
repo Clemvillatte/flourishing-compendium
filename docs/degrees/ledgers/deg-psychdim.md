@@ -125,6 +125,7 @@ word counts measured for the assigned segments):
 | https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/ | supervisor-e03fed44-degpsychdim | Maitland 2024 section 1.4 re-opened and re-read; 240 words measured; VSR-C passage confirmed |
 | https://nobaproject.com/modules/thinking-like-a-psychological-scientist | supervisor-e03fed44-degpsychdim | Noba module re-opened; byline Erin I. Smith, California Baptist University, confirmed on the module page; body measured at about 5,011 words; scientific-versus-everyday-reasoning section read |
 | https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/ | supervisor-e03fed44-degpsychdim | Woolley, Giurge and Fishbach 2025 re-opened; Study 1 statistics confirmed on the live page (beta 0.216 SE 0.03 z 6.95 p < .001 CI [0.13, 0.30]; beta 0.099 SE 0.03 z 3.00 p = .003 CI [0.04, 0.20]; beta 0.080 SE 0.03 z 2.36 p = .019 CI [0.01, 0.15]; N 2,000 MTurk US; n 577 completers; cross-lagged panel models within multilevel structural equation modeling); the authors' overlapping-CI interpretation confirmed |
+| https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta.pdf | supervisor-e03fed44-degpsychdim | Ryan, Duineveld, Di Domenico, Ryan, Steward and Bradshaw 2023 (Psychological Bulletin 148(11-12) 813-842) opened as a free PDF from the theory's official site; abstract and key results read (60 meta-analyses of SDT's six mini-theories; support for the motivational taxonomy and for need satisfaction and frustration effects on well-being and ill-being; applied evidence in organizations, health care, parenting and education; methodological limits stated); caveat: this PDF is the accepted manuscript, not the copy of record |
 
 ## Sources opened
 
@@ -1081,6 +1082,22 @@ feeding the next module's entry:
 - SDT (2020) remains the field's core synthesis and stays; the habits
   anchor is refreshed with Singh et al. 2024. Ryan and Deci 2020 predates
   2021, so a newer SDT review or talk is still welcome at production.
+  RECENCY CANDIDATE OPENED AND VERIFIED (2026-10-26,
+  supervisor-e03fed44-degpsychdim): Ryan, Duineveld, Di Domenico, Ryan,
+  Steward and Bradshaw 2023, "We Know This Much is (Meta-Analytically)
+  True", Psychological Bulletin 148(11-12) 813-842, free accepted-
+  manuscript PDF on the theory's official site; 60 meta-analyses across
+  SDT's six mini-theories, support for the motivational taxonomy and the
+  need satisfaction and frustration hypotheses, applied evidence in
+  organizations, health care, parenting and education, methodological
+  limits stated. A strong complement to Ryan and Deci 2020 for the M6
+  motivational row (the 2020 paper teaches the continuum; the 2023
+  meta-review supplies the meta-analytic evidence base and its limits).
+  NOT added to the matrix yet: matrix adoption is an M6 production
+  decision, and M6 production is held pending the Phase 0 stop-gate
+  ruling; the candidate is recorded here so the production worker can
+  adopt it without re-searching. Caveat: the opened PDF is the accepted
+  manuscript, not the copy of record; cite the published version.
 - The Phase 0 pilot stop-gate (README.md) blocks module production until
   the pilots pass independent review.
 
