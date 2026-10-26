@@ -240,6 +240,11 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
+- 2026-10-26 05:23Z degree-4376b4ec (deg-psychdim): M7 overt
+  behaviour drafted, L2->L3, 13:18 videos without M3 duplication,
+  three-day diary/functional inquiry, precise conditioning, four-stage
+  process and numerical Dang/Vohs comparison. ROUTE independent M7
+  module-QC; no clinical or publication clearance.
 - 2026-10-26 05:19Z degree-4376b4ec (deg-psychdim): M6 motivation
   drafted, L2, 20:20 bounded clips, all six SDT forms and essential
   research residuals. Study2 one-month/Study3 retrospective/Study4

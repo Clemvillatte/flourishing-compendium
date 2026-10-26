@@ -2890,6 +2890,61 @@ Every outcome has feedback, unused-case assessment and private lived
 usefulness/uncertainty transfer. Adviser unavailable as recorded
 under M5; independent module-QC owed, **DRAFT, NOT CLEARED**.
 
+### M7 production checkpoint, degree-4376b4ec, 05:23Z
+
+`modules/deg-psychdim/m7-overt-behavioural.md` drafted; L2 guided
+comparison fades to L3 independent three-day habit diary, functional
+inquiry and evidence appraisal. All approved rows covered; no new
+domain or clinical practice. Conditioning already taught in M3 is
+retrieved, not assigned as duplicate mandatory viewing; short Bouton
+precision reading supplies the add/remove × increase/decrease logic.
+
+Three actual watch pages opened: Wood narrowed01:16–04:53=3:37,
+excluding animal-mind rhetoric and later rituals; Berkman01:12–02:35
+=1:23, excluding earlier brain simplification and later identity
+advice; Inzlicht49:52–58:10=8:18, explicitly dated December2019
+recording and not represented as covering2021. Total **13:18**.
+Parent reopened all three institutional biographies and read the
+actual interview segment. No playback claim. Wood's "only way"
+rhetoric is qualified by the research's environmental disruption.
+([Wood](https://www.youtube.com/watch?v=Ywec1MbeQDk);
+[Berkman](https://www.youtube.com/watch?v=EXrmKkpJ2Gk);
+[Inzlicht](https://www.youtube.com/watch?v=fuA1l7bL954);
+[USC](https://dornsife.usc.edu/wendy-wood/);
+[Oregon](https://cas.uoregon.edu/directory/psychology/all/berkman);
+[Toronto](https://www.utsc.utoronto.ca/psych/person/michael-inzlicht).)
+
+Parent opened full primary/review texts and read bounded passages:
+Carden/Wood first3 paragraphs,2 specified effortless-control paragraphs,
+environment change; Singh Abstract (20studies/2601participants,
+11high-risk, only4formation-time studies; pre/post not universal
+duration); Werner/Berkman four actual process paragraphs; Reed
+Abstract+Participants (149,60–93years,selected older adults, modestly
+related indices); Alarcón-Espinoza Abstract+criterion(d) (under18,
+not adult effectiveness evidence); Dang Table2+note,first2Discussion
+paragraphs,final caution; Vohs Abstract+Participants; Maitland overt
+row+note. Counts/rates are explicitly estimates, not token measurements.
+([Habit review](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf);
+[duration review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/);
+[process](https://pmc.ncbi.nlm.nih.gov/articles/PMC11423838/);
+[older-adult study](https://pmc.ncbi.nlm.nih.gov/articles/PMC7250393/);
+[natural-context youth review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9171140/);
+[Dang](https://pmc.ncbi.nlm.nih.gov/articles/PMC6013521/);
+[Vohs](https://bura.brunel.ac.uk/bitstream/2438/28246/1/FullText.pdf);
+[framework](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/).)
+
+Contested-results exercise preserves Dang all-task g0.38[0.31,0.45],
+trim-and-fill g0.24[0.16,0.32], substantial heterogeneity and tentative
+selected-task caution; Vohs36labs,N3531before1068preregistered
+exclusions, confirmatory d0.06non-significant versus full-sample
+exploratory d0.08significant. No muscle/resource claim inferred,
+no universal no-effect conclusion, no personal exhaustion diagnosis.
+Every family has practice feedback, final criterion and private lived
+usefulness/uncertainty transfer. Diary active time30min across at least
+3days; no habit-formation certification or invented learner entries.
+Workload24+60+40+40+30+15+90=**299 active minutes**.
+Independent module-QC owed; **DRAFT, NOT CLEARED**.
+
 M1 independent supervisor decision consumed at 05:02Z:
 `reviews/deg-psychdim-m1-supervisor-2026-10-26.md` records **MODULE-QC
 PASS** on production commit **cdb8f0939**, module SHA-256
