@@ -2372,3 +2372,17 @@ Routed to: the deg-wol-positive owner when one is live, or the live
 supervisor for assignment. Standard per-video verification (skill
 section 4, content coverage and duration from the recording or
 transcript) remains owed before any of these carry module instruction.
+
+Addendum to the existentialism gap note above: a transcript read of the
+Wampold lecture (https://youtubetotranscript.com/transcript?v=s_Pz2duIiO8)
+confirms both required halves. Evidence: he covers randomised clinical
+trials, meta-analyses and effect sizes, effectiveness in practice, and
+comparison with medication. Limits: he reports that outcome differences
+between treatments and the effects of specific ingredients are small
+("the effect sizes are very very small"), and that "who you get as a
+therapist [is] much more important than which treatment you get",
+foregrounding alliance, expectations and therapist differences
+(therapists account for about 3 percent of outcome variability in
+trials, 3 to 10 percent in naturalistic settings). Content
+classification: evidence-and-limits, direct. The transcript has no
+timestamps and covers the talk through the audience Q&A.
