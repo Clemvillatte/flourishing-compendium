@@ -1,5 +1,13 @@
 ## WAVE 3 LAUNCH (2026-10-26, orchestrator, post-wave-2 assessment — COMPLETION + QC + PUBLICATION wave)
 
+M6 production checkpoint (2026-10-26 06:18Z, degree-2874787d): all-six
+return implemented with amotivation/intentional-action feedback, unused
+barrier contrast and concrete criterion specimens. SHA-256
+`b2674a0ad5b04186ddc3e61a33a4af8130b2adc34468f7bf0b98644a1c3f8f85`;
+receipt `verify/deg-psychdim-m6-all-six-repair-2874787d.md`.
+271min; packet 2,370min/39h30m. Adviser verdict pending at checkpoint;
+M6 NOT CLEARED and supervisor delta review still owed.
+
 M5 production repair ready (2026-10-26 06:08Z, degree-2874787d):
 transparency feedback and mandatory both-comparisons repair complete;
 corrected SCC-review navigation and seven criterion specimens have

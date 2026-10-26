@@ -138,6 +138,28 @@ reward actually regulates action, and potentially integrated, respectively.
 For the last, congruence across commitments must be supplied, not
 inferred merely because the goal sounds admirable.
 
+Now compare three statements about attending the same language group:
+
+- **A:** “I see no point in joining, do not feel able to begin, and have
+  no intention of attending.”
+- **B:** “I intend to attend because otherwise I will feel worthless.”
+- **C:** “I intend to attend because contact with my relatives matters,
+  even when I do not enjoy the session.”
+
+Which statement suggests absent intentional motivation, which suggests
+internal pressure, and which suggests endorsed value? What information
+would make you revise each interpretation?
+
+Feedback: A is consistent with amotivation as described in the assigned
+definitions; B suggests introjected regulation; C suggests identified
+regulation, not amotivation merely because enjoyment is absent.
+These are interpretations of the stated reasons, not diagnoses.
+Nonattendance alone cannot establish amotivation: someone may value
+the group and intend to attend but lack transport or time. Check
+intention, the reason offered and practical constraints before choosing
+the label.
+([Ryan and Deci, definitions and multiple motives](https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf))
+
 Link each proposed need to one observation in Nia's case, and mark what
 is missing. Feedback: chosen guidance may indicate volition; feeling
 welcomed might inform relatedness; a manageable task with useful feedback
@@ -245,11 +267,19 @@ also says, "If I cannot finish, I am a failure." Before demonstrating
 a repair, Rowan wants to feel less nervous and appear capable, but
 is unsure the tools will be available.
 
+For contrast, Cory values helping and intends to join the repair
+session, but has not attended because the workshop is closed. Use
+this second invented statement to distinguish absence of behaviour
+from absence of intentional motivation.
+
 Write 600–800 words, plus your private/redacted own-goal note:
 
 - **Motives and needs:** classify supported reasons, explain why mixed
   motives are possible, distinguish identified from integrated regulation
   and state which evidence for integration or need support is missing.
+  Contrast Cory's barrier with amotivation: explain why not attending,
+  by itself, does not establish the latter and name the intention/reason
+  information needed before interpreting a different case.
 - **Affect and goals:** distinguish hedonic/instrumental aims, supply
   one hypothetical other-directed aim with the proposal label, and
   explain control/value appraisals without predicting an inevitable emotion.
@@ -262,11 +292,56 @@ Write 600–800 words, plus your private/redacted own-goal note:
 
 | Criterion | Pass | Revise |
 |---|---|---|
-| Motivation | Correct supported forms, all-six map understood, mixed reasons and integration boundary. | Extrinsic equated with controlled or integrated inferred from any good intention. |
+| Motivation | Correct supported forms and mixed reasons; distinguishes amotivation from intentional action and a practical barrier using stated intention/reasons; explains the integration boundary. | Nonattendance or low enjoyment treated as amotivation, extrinsic equated with controlled, or integrated inferred from any good intention. |
 | Needs | Distinguishes volition, effectiveness and connection with missing evidence. | Autonomy means solitude, no rules, or a need deficit diagnosed from attendance. |
 | Goals/appraisals | Distinguishes pleasant/useful; labels the third-category proposal; applies control/value with limits. | Unpleasant emotion prescribed or theoretical category treated as universal virtue score. |
 | Evidence comparison | Same-question predictions; observational/experimental distinction; actual small effect, horizon and zero/nonzero caveat. | Year-long causal guarantee, better-health inference or p-value alone. |
 | Walk-of-life plan | Own goal, bounded observation, constraints, safe stopping point and honest uncertainty for each family. | Fabricated outcomes, self-blame or disclosure/improvement graded. |
+
+### Calibrating the criteria
+
+The following specimens are invented teaching responses, not new study
+findings, genuine learner records or source quotations.
+
+- **Motivation:** “Rowan's payment suggests external regulation, valued
+  transport identified regulation, enjoyment intrinsic motivation and
+  the self-worth threat introjection. I lack evidence that the value is
+  integrated with other commitments. Cory intends to help but faces a
+  closed workshop; that is not the absence of intentional motivation
+  described by amotivation.” Rejection example: “Both have missed a
+  session, so neither is motivated; any socially useful goal is integrated.”
+- **Needs:** “I would ask whether Rowan endorses the task, feels able
+  to do it and experiences connection; taking paid work establishes none
+  of these by itself. Asking a skilled neighbour for chosen guidance
+  need not remove volition.” Rejection example: “Autonomy requires
+  working alone, and needing help proves a competence deficit.”
+- **Goals/appraisals:** “Wanting less nervousness is a hedonic aim;
+  wanting alertness to demonstrate safely is instrumental. Helping a
+  nervous newcomer could illustrate the review's proposed other-directed
+  category, not a proven virtue score. Valued work with uncertain access
+  to tools gives a control/value question, not an inevitable emotion.”
+  Rejection example: “Rowan must feel anxious to care, and discomfort
+  proves the eudaimonic category is working.”
+- **Evidence comparison:** “An importance-only prediction stresses
+  valued transport; an interest-based prediction also considers the
+  pleasure of repair. The app-framing experiment concerns 24-hour app
+  use, not a year-long randomised health benefit. Its reported
+  \(d=0.21\), 95% CI [0.07, 0.36], is small; the zero/nonzero result
+  does not establish that framing made inactive people start.”
+  Rejection example: “The study proves that enjoyment makes anyone
+  maintain any healthy goal for a year.” Check the distinction against
+  the [assigned Study 4 results](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/).
+- **Walk-of-life plan:** a hypothetical private-response form might say,
+  “For my ordinary goal A, interest and a valued connection are distinct
+  reasons; less pressure and being useful to someone are distinct
+  regulation aims. I will note interest, feasibility and the reason I
+  actually give at one ordinary opportunity, stopping if it becomes
+  burdensome. Time and fatigue may explain noncompletion; this will not
+  test a causal theory or require a positive result.” A learner must
+  use their own actual goal and retain an uncertainty for each required
+  family, not relabel this invented specimen as lived evidence.
+  Rejection example: “I will invent a successful observation, remove
+  necessary rewards or blame myself if motivation does not improve.”
 
 All criteria must pass. Retrieve the six motive forms without the
 table after another activity, then correct your distinctions; classify
@@ -280,15 +355,15 @@ Video arithmetic: 5:17 +5:27 +5:22 +3:11 +1:03 = **20:20**.
 With 15 minutes of pauses/notes, allow **36 minutes** rounded up.
 Reading residuals are estimated **1,300–1,700 words**; at 130 words
 per minute with threefold study plus navigation, allow **40 minutes**.
-Allow **35 minutes** for this lesson's teaching (roughly 2,000 words
-at 180 words per minute plus rereading), **45 minutes** for worked/
+Allow **45 minutes** for this lesson's teaching and criterion specimens,
+including rereading, **50 minutes** for worked/
 completion/own-goal practice, **20 minutes** delayed retrieval and
 **80 minutes** for final writing, self-check and revision.
-Total: **256 estimated minutes**, about 4 hours 15 minutes.
+Total: **271 estimated minutes**, about 4 hours 30 minutes.
 
 | Outcome | Teaching | Practice/feedback | Assessment |
 |---|---|---|---|
-| Motivation | Ryan; short continuum reading; six-form table | Nia and completion classifications | Rowan, mixed motives and needs |
+| Motivation | Ryan; short continuum reading; six-form table | Nia; all-six completion plus amotivation/introjected/identified contrast and feedback | Rowan/Cory, mixed motives, intention-versus-barrier distinction and needs |
 | Regulation goals | Tamir; Pekrun; bounded review | Nia aims and learner appraisal comparison | Goals, proposed category and appraisals |
 | Evidence | Fishbach; 2025 design/results/limits | Overclaim correction with feedback | Same-question prediction comparison and study limits |
 | Own-goal analysis | Guided motive/affect/constraint questions | Safe observation plan and feedback | Redacted lived transfer, usefulness and uncertainty |

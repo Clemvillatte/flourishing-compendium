@@ -3186,3 +3186,15 @@ still owed; M5 remains NOT CLEARED.
 Fresh remote decisions supersede the preceding snapshot: M2's changed
 hash has supervisor confirmation; M4 is verification-open, not passed
 pending a nonblocking flag. Preserve those gate decisions.
+
+### M6 production checkpoint, 2026-10-26 06:18Z
+
+The all-six motivation return is implemented at SHA-256
+`b2674a0ad5b04186ddc3e61a33a4af8130b2adc34468f7bf0b98644a1c3f8f85`:
+feedback-bearing amotivation/introjected/identified contrast, unused
+Cory barrier case, observable rubric and five strong/rejection specimens.
+Video/source windows are unchanged.
+Receipt: `verify/deg-psychdim-m6-all-six-repair-2874787d.md`.
+Production adviser QC is requested but **pending**, not accepted;
+supervisor changed-hash review remains owed.
+M6 is 271 minutes; packet 2,370 minutes/39h30m.
