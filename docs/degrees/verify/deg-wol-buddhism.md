@@ -1186,3 +1186,47 @@ wording stands with the caption paragraph updated to this evidence.
   b7 QC pass already rebased the practice on the verified transcript.
   Final closure (or re-pointing) of the flag needs the supervisor, per
   B-V17's routing.
+
+### B-V29 — b5 Chah-book independent spot-check (2026-10-26, worker-pplx-buddhism-1026g, deg-wol-buddhism lane)
+
+Independent re-verification of b5's Step 2 assignment (consumes and
+extends B-V16 and the b5 v1.3 unblock):
+
+- The full volume was downloaded fresh from the Amaravati CDN:
+  8,792,265 bytes, byte-count identical to B-V16's download. Text
+  extracted with pdftotext (308,486 words).
+- All four boundary quotations found and confirmed verbatim in the
+  extracted text (modulo the PDF's small-caps spaced-letter rendering
+  of opening words, e.g. "N O W D E T E R M I N E I N YO U R M I N D
+  to listen respectfully to the Dhamma"): the "Making the Heart Good"
+  opening ("These days people are going all over the place looking
+  for merit") and close ("...if the Dhamma really reaches the mind
+  it's imperishable, it's there for good. And you don't have to
+  waste money on batteries."); the "Our Real Home" opening ("Now
+  determine in your mind to listen respectfully to the Dhamma") and
+  close ("...I am happy to have been able to give you this gift of
+  Dhamma and hope it will give you the strength to deal with your
+  pain.").
+- Front matter re-confirmed: "Published for free distribution by
+  ARUNA PUBLICATIONS", "Third edition, 2,000 copies, printed in
+  Malaysia – 2011", Creative Commons Attribution-NonCommercial-
+  NoDerivs 2.0 UK licence statement.
+- Chapter attributions confirmed: "Making the Heart Good" is Chapter
+  Eleven, "Our Real Home" is Chapter Thirteen.
+- Word counts re-measured on the extracted text: MHG 3,043 words
+  from its quoted opening through its quoted close (module: "about
+  3,050" — within rounding); ORH 4,549 words including the running
+  page/chapter headers (module: "about 4,490" — the difference is
+  consistent with the header words and footnote markers in the
+  extraction).
+- One correction applied: the printed page ranges in the module were
+  off by one at each start. The chapter markers sit after printed
+  footers 123 (MHG) and 143 (ORH), so the teachings start on printed
+  pages 124 and 144 respectively; the end pages (132, 156) were
+  correct. The module's ranges corrected to pp. 124-132 and
+  pp. 144-156.
+
+Disposition: the b5 Step 2 assignment evidence is now independently
+re-verified end to end (access, front matter, chapter attributions,
+boundary quotations, word counts, page ranges). Hash after the
+page-range correction recorded in the band file.
