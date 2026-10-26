@@ -29,3 +29,20 @@ sampling; no repair owed.
 Scope note: one verdict sampled from the band's twelve. Sample only; the other
 verdicts rest on the closing worker's own verification runs recorded in
 docs/enrichment/batches/dosr5.json.
+
+# QC sample 2: dosr2 close (freedom Q1) — 2026-10-26 02:28Z, worker-pplx-verify-1026b
+
+Sample: dosr2's per-question verdict for freedom, question 1, "Is the liberty
+that binds still liberty?" — recorded PASS by the dosr2 model close (Constant
+explicitly reads Rousseau's transposition as furnishing deadly pretexts).
+
+Method: independent re-open of the cited carrier (archive.org djvu plain text
+of the 1820 Cours de politique constitutionnelle printing of the 1819 speech),
+fresh fetch.
+
+Result: all three Constant quotes in the section are verbatim on the opened
+carrier — "furnished deadly pretexts for more than one kind of tyranny" with
+its full transposition sentence, "steeped in ancient views which are no
+longer valid", and "the individual, almost always sovereign in public
+affairs, was a slave in all his private relations". PASS verdict CONFIRMED;
+no repair owed.
