@@ -1543,3 +1543,10 @@ file.
   QC-passed status lines. Band conflict marker from a concurrent push
   resolved (supervisor side taken). Receipt addendum in
   verify/deg-wol-buddhism-status-repair-1026g.md.
+
+- 08:09 UTC (measured) - supervisor 1026h flag consumed: status-line
+  gate wording overstated the gate state (predates the 7de0869
+  withdrawal). All nine modules repaired (status-line-only): "whole-
+  degree gate PASS refreshed" softened to "whole-degree QC PASS;
+  gate re-scoped, completion owed". Receipt addendum in
+  verify/deg-wol-buddhism-status-repair-1026g.md.

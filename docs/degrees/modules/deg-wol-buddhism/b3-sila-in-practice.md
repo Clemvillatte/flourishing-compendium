@@ -4,7 +4,7 @@
 - **kind**: degree-module
 - **level**: L2 Guided application
 - **module id**: deg-wol-buddhism-b3
-- **status**: MODULE-QC PASS, supervisor, 2026-10-26 (delta re-review decision at ee4ea8ad; review reviews/deg-wol-buddhism-b3-supervisor-2026-10-26.md; whole-degree gate PASS refreshed; integration/publication per INTEGRATION.md; repair history in the ledger)
+- **status**: MODULE-QC PASS, supervisor, 2026-10-26 (delta re-review decision at ee4ea8ad; review reviews/deg-wol-buddhism-b3-supervisor-2026-10-26.md; whole-degree QC PASS; gate re-scoped, completion owed; integration/publication per INTEGRATION.md; repair history in the ledger)
 - **prerequisites**: b1 exit criteria (can state the five precepts with everyday examples; two metta sittings logged); b2 exit criteria (has run the four tasks on one case)
 
 ## Walk context

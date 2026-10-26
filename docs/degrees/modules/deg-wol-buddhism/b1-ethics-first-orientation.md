@@ -4,7 +4,7 @@
 - **kind**: degree-module
 - **level**: L1 Orientation (exit criteria adapted for a practice walk: the L2 element is the guided metta sitting and the precepts case, both fully guided here)
 - **module id**: deg-wol-buddhism-b1
-- **status**: MODULE-QC PASS, supervisor, 2026-10-26 (decision at 817e8010; review reviews/deg-wol-buddhism-b1-supervisor-2026-10-26.md; whole-degree gate PASS refreshed; integration/publication per INTEGRATION.md; repair history in the ledger)
+- **status**: MODULE-QC PASS, supervisor, 2026-10-26 (decision at 817e8010; review reviews/deg-wol-buddhism-b1-supervisor-2026-10-26.md; whole-degree QC PASS; gate re-scoped, completion owed; integration/publication per INTEGRATION.md; repair history in the ledger)
 - **prerequisites**: none (entry module; open to any learner, no Buddhist background assumed)
 
 ## Walk context

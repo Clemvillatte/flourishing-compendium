@@ -4,7 +4,7 @@
 - **kind**: degree-module
 - **level**: L2 Guided application
 - **module id**: deg-wol-buddhism-b5
-- **status**: MODULE-QC PASS, supervisor 1026h, 2026-10-26 (review reviews/deg-wol-buddhism-b5-supervisor-1026h-2026-10-26.md; the later B-V33 lane delta covered by the 1026h delta addendum; whole-degree gate PASS refreshed; integration/publication per INTEGRATION.md; repair history in the ledger)
+- **status**: MODULE-QC PASS, supervisor 1026h, 2026-10-26 (review reviews/deg-wol-buddhism-b5-supervisor-1026h-2026-10-26.md; the later B-V33 lane delta covered by the 1026h delta addendum; whole-degree QC PASS; gate re-scoped, completion owed; integration/publication per INTEGRATION.md; repair history in the ledger)
 - **prerequisites**: b1-b4 exit criteria (precepts stated and applied; four tasks run; a two-week sitting log exists)
 
 ## Walk context

@@ -4,7 +4,7 @@
 - **kind**: degree-module
 - **level**: L3 Independent analysis (the exit criteria adapted for a practice walk: the comparison and the defended position are the analysis; the practice adaptation uses the learner's own sitting log)
 - **module id**: deg-wol-buddhism-b7
-- **status**: MODULE-QC PASS, supervisor 1026h, 2026-10-26 (decision at 6f48d917, the post-B-V32 file; review reviews/deg-wol-buddhism-b7-supervisor-1026h-2026-10-26.md; whole-degree gate PASS refreshed; integration/publication per INTEGRATION.md; repair history in the ledger)
+- **status**: MODULE-QC PASS, supervisor 1026h, 2026-10-26 (decision at 6f48d917, the post-B-V32 file; review reviews/deg-wol-buddhism-b7-supervisor-1026h-2026-10-26.md; whole-degree QC PASS; gate re-scoped, completion owed; integration/publication per INTEGRATION.md; repair history in the ledger)
 - **prerequisites**: b1-b5 exit criteria (precepts applied; four tasks run; sitting habit logged; one school known from inside)
 
 ## Walk context

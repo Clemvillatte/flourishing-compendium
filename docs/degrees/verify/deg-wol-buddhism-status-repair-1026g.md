@@ -65,3 +65,13 @@ Full hashes are in the band entries. Status-line-only changes,
 verified by diff.
 b4-foundational-meditations a09c8564491540988298f4d06988aeb5c1e96aa98585b5f68f927e4333d4c37d
 b9-elective-mind-on-the-cushion 1ad843b953727040ba53f72910945d06a8b07613aea2f206fc7a7a6a407ba837
+
+## Addendum: gate-state wording repair (2026-10-26, 08:09:08Z measured)
+
+Supervisor 1026h flagged that the status lines written at the earlier
+repair said "whole-degree gate PASS refreshed" — a phrase that predates
+the deg-gate withdrawal (7de0869, 08:06Z) and overstated the state.
+All nine modules' status lines repaired (status-line-only, per the
+9b124fa precedent): the gate wording softened to "whole-degree QC
+PASS; gate re-scoped, completion owed". New hashes recorded in the
+band entries. Receipt: this addendum.
