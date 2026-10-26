@@ -29,10 +29,13 @@ Final SHA-256: 65f9143689d1ba57309ab9a67ffa46c6dc4e7bdb39a8cbba1350e0236aa81500
 ## Measurement repair
 
 Teaching-prose count now stated with an exactly reproducible
-boundary: 2,618 words, whitespace tokens from "What this module is
-for" through the end of the Rubric, table rows excluded. This
-reproduces the supervisor's own count for that boundary (their
-re-measure: 2,618). Raw about 15 minutes at 180 wpm; three-times
+boundary: 2,656 words, whitespace tokens from "What this module is
+for" through the end of the Rubric, table rows excluded. This is the
+supervisor's re-review recount (routed correction 2,618 -> 2,656,
+applied 2026-10-26): my original 2,618 was measured before the
+ruling edits added text to the module; my post-edit reproduction
+gives 2,657, one whitespace token from the routed figure (immaterial:
+raw reading time unchanged at about 15 minutes at 180 wpm). Raw about 15 minutes at 180 wpm; three-times
 study multiplier 45 minutes. Total recomputed: 168 minutes, about 2
 hours 50 minutes (elective variant about 2 hours 20 minutes);
 front-matter time budget updated to match.
