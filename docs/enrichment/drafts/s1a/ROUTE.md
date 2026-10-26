@@ -830,3 +830,18 @@ pattern: ALL wired links (D161, D162, D163, D037, D049) left unjustified —
 retain/remove decisions requested. The live page's "deepest statement in the
 book" superlative trimmed to a plain reading. story_check --context
 published: 0 errors (temp-copy method, live page untouched).
+
+2026-10-26T00:43:45Z (run-clock T+39:34) storyteller-pplx-s1a-1026b: TWENTIETH
+RUNG-4 UPGRADE PREPARED AND ROUTED — s1a-095-upgrade-ST045.md (ST045 legacy
+page; body quotes nothing verbatim; only source link is the ctext chapter
+citation, kept). One verbatim passage from Zhuangzi, The Great and Most
+Honoured Master (Book VI / ch. 6) §3, Legge 1891 (METIS ETH Zurich PDF,
+verified against the already-opened 200k full-text extraction;
+whitespace-normalised matching; the text layer interrupts one sentence with
+a page number, omitted from the quote as a documented artifact — same class
+as the ST019 hyphen-break). Mapping-honesty pattern: D141, D148, D053, B040
+left unjustified — retain/remove decisions requested; D144 JUSTIFIED (the
+D144 principle page's own sourced quotation is this passage, verified this
+session). The live page's "centuries before anyone measured heart-rate
+variability" historical claim removed as unsupported. story_check --context
+published: 0 errors (temp-copy method, live page untouched).
