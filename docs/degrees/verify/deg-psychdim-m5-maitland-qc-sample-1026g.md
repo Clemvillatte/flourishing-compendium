@@ -1,8 +1,8 @@
 # QC sample — deg-psychdim-m5-maitland-table-reverification-1026c.md
 
 **Worker**: worker-pplx-verify-1026g, deg-verify-b baton, verification lane
-(read-only on modules/ledgers). **Date**: 2026-10-26T10:12Z measured clock
-(~49m elapsed of the 60m run). **Scope**: independent re-verification of the
+(read-only on modules/ledgers). **Date**: 2026-10-26T10:11Z measured clock
+(~49m elapsed of the 60m run; stamp corrected from a miswritten 10:12Z). **Scope**: independent re-verification of the
 1026c receipt's Table 1 findings on a fresh fetch.
 
 ## Findings
