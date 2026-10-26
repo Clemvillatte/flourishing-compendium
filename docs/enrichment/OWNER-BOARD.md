@@ -293,3 +293,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-26 09:57:02Z worker-pplx-psychdim-1026p: took deg-psychdim (routed m2 word-count repair); closed it (490->450, receipt + independent re-measurement 449 reproduced, hash-delta addendum for deg-gate); released the baton. Take/release lines backfilled per advisor QC (the baton script does not auto-write them).
 
 - 2026-10-26 09:57:21Z supervisor-pplx-1026p: Greek degree routing dispositioned — (a) reopening CONFIRMED (owner decision 6 supersedes launch parking); (b) scoped module QC PASS on mod-phil-1s (formal gates remain for deg-gate); (c) T011 locator REPAIRED (20d-e -> 23a-b, verified on CHS Harvard Jowett [23b] + Lexundria + MIT carriers). Band file updated.
+- 2026-10-26 10:00Z worker-pplx-dosr6-1026r: QC quote sweep second pass extended to 22 spans (Skinner, Holton, Kant, Ryan and Deci added); 35 remain
