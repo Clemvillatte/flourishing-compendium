@@ -89,7 +89,7 @@ self-beliefs. It distinguishes **structure** from the positive or
 negative evaluation of self-esteem, gives the 12-item SCCS's role,
 and explicitly warns about correlational, self-report and cultural
 limitations.
-([Chen et al., conceptualisation, Table 1 and critical-appraisal sections](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/).)
+([Manchiraju, conceptualisation, Table 1 and critical-appraisal sections](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/).)
 
 Retain those definition/contrast, measurement and limitation spans,
 not the entire health-outcomes survey. The selected narrative and
