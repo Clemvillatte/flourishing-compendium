@@ -108,7 +108,10 @@ Still OPEN as of this note: (1) PD-M2-04's published locator must be replaced
 with the 450-word bounded assignment (manifest corrected, schema-lane flag
 live); (2) mod-pd-4's published PD-M3-02 revisit still carries m3's
 18:06-39:15 segment alongside m4's own window (manifest clarified and
-flagged); (3) the PD-M1-07/PD-M7-10 m8 requiredness and the PD-M3-07 Bazerman
+flagged); (3) PD-M3-03's published locator is now EMPTY (removed in the
+integrate reconciliation) - the verified manifest assigns Bloom lecture 8
+Memory window 13:22-18:27 (5:05), which should be published; (4) the
+PD-M1-07/PD-M7-10 m8 requiredness and the PD-M3-07 Bazerman
 extra were resolved by removal in the published state - the owner can still
-override; (4) the Gross 1998 bounded span remains UNRESOLVED-LOCATOR (doc
+override; (5) the Gross 1998 bounded span remains UNRESOLVED-LOCATOR (doc
 basis, no printed span).
