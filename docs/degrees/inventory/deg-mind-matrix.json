@@ -209,5 +209,28 @@
       "status": "MISSING",
       "sources": []
     }
-  ]
+  ],
+  "measured_hours": {
+    "mit_ocw_9_13": {
+      "instructor": "Nancy Kanwisher (CREDENTIALS-VERIFIED)",
+      "videos": 17,
+      "hours": 20.15,
+      "source": "archive.org metadata MIT9.13S19, second-level per-video durations"
+    },
+    "mit_ocw_9_00sc": {
+      "instructor": "John Gabrieli (CREDENTIALS-PENDING \u2014 faculty page not yet fetched)",
+      "videos": 27,
+      "hours": 23.04,
+      "source": "archive.org metadata MIT9.00SCF11"
+    },
+    "mit_ocw_9_40": {
+      "instructor": "Michale Fee (CREDENTIALS-VERIFIED)",
+      "videos": 40,
+      "hours": 49.11,
+      "source": "archive.org metadata MIT9.40S18"
+    },
+    "subtotal_measured_video_hours": 92.3,
+    "caveat": "measured VIDEO time only; the D2 checkpoint must rule on whether video-only counts as measured instruction time and whether a reading-time rule is needed; the remaining ~8h to the 100h floor must come from additional verified resources"
+  },
+  "d1_syllabus_evidence_correction": "the Columbia COGS1001.pdf was re-fetched WITHOUT an extraction prompt this session and read verbatim \u2014 the actual syllabus is 'Introduction to Cognitive Science (COGS 1001), Fall 2023' by Christopher Baldassano (Columbia Psychology, CREDENTIALS-VERIFIED) and John Morrison (Barnard Philosophy, founding director of the Cognitive Science program, CREDENTIALS-VERIFIED); the earlier 'PSYC UN2410, Spring 2025, Raffone & Bondi' attribution and the 'wk 14 mindfulness' lecture were hallucinations and are retracted"
 }
