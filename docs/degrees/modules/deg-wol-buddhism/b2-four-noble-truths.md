@@ -1,10 +1,10 @@
-# b2 — The Four Noble Truths: Suffering, Its Origin, Its End, the Path
+# b2: The Four Noble Truths (Suffering, Its Origin, Its End, the Path)
 
 - **band**: deg-wol-buddhism
 - **kind**: degree-module
 - **level**: L2 Guided application
 - **module id**: deg-wol-buddhism-b2
-- **status**: draft v2 (QC repair pass 2026-10-26, worker-pplx-buddhism-1026a)
+- **status**: draft v3 (supervisor b2 bounded-return repairs applied 2026-10-26, worker-pplx-buddhism-1026g: Harvey allowance synchronized at 10 min, no-craving branch made completable in worksheet and rubric, worked-example right-speech mapping repaired to a concrete speech action, rebirth gloss tied to the passage, Dreyfus locators phrased as inherited with the finer-split note closed, humanizer em-dash cleanup; receipts in the ledger)
 - **prerequisites**: b1 exit criteria (can state the five precepts with everyday examples; has completed two metta sittings; can state the walk's coverage and exclusions)
 
 ## Walk context
@@ -48,26 +48,28 @@ claim that craving has ended.
 
 ## Instruction sequence
 
-### Step 1 — The discourse itself (~20 min, reading, with re-reading)
+### Step 1: The discourse itself (~20 min, reading, with re-reading)
 
 **SN 56.11, Dhammacakkappavattana Sutta, "Setting the Wheel of Dhamma in
 Motion," Thanissaro Bhikkhu translation on Access to Insight**
 (https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html;
 free, CC BY-NC 4.0 stated on the page; alternate translations are listed
-there — see the source table for which). Read the whole
+there; see the source table for which). Read the whole
 discourse. Mark
 four places: each truth stated, and the task attached to it ("to be
 comprehended... to be abandoned... to be directly experienced... to be
 developed").
 
-The discourse's religious frame stays visible on purpose: its account of
-craving reaches for future lives, and its closing narrative includes
+The discourse's religious frame stays visible on purpose: its craving
+passage speaks of craving that makes for further becoming ("future
+lives" is the walk's plain-language gloss of that phrase, marked as a
+gloss), and its closing narrative includes
 divine beings. The walk does not teach these as cosmology; you are asked
 only to notice them and place them in the discourse's traditional frame.
 This is the passing mention the scope promised, and outcome 4 asks you to
 write it plainly.
 
-### Step 2 — Dukkha examined (~1 h 21 min, video, whole teaching, two viewing stops)
+### Step 2: Dukkha examined (~1 h 21 min, video, whole teaching, two viewing stops)
 
 **Georges Dreyfus, session 1 of a three-session Four Noble Truths series
 (Shantideva Center, 2024-04-23), 1:20:34.** Credentials: Jackson
@@ -77,10 +79,13 @@ Watch in two stops (viewing stops, not content claims, since the
 page prints no chapter list): 00:00:00-00:40:17 and
 00:40:17-01:20:34.
 
-Two boundaries are marked for you before you press play. First, this
+Two boundaries are marked for you before you press play (time markers
+below are inherited from the verification lane's opened-transcript
+record, receipt B-V01; the third-party transcript itself carries no
+timestamps). First, this
 session covers the first truth, dukkha, only; the origin of suffering
 is the next session and the remaining truths the third, as Dreyfus says
-himself at 00:17-00:40 and 01:20:13 of the opened transcript. The other
+himself at 00:17-00:40 and 01:20:13 of that record. The other
 three truths are not taught in this video; the discourse in Step 1 is
 where all four are supplied together. Second, Dreyfus uses a
 "homeodynamic system" analogy around 00:09:55, which he clarifies at 01:01:04
@@ -90,7 +95,12 @@ this module does not endorse as science. Enjoy the analogy as a scholar's
 explanation, and keep the translated discourse, the scholar's analogy and
 empirical science separate in your notes.
 
-### Step 3 — Craving is not every desire (~10 min, reading)
+The whole teaching is assigned deliberately: the lecture is the walk's
+guided examination of dukkha, the two midpoint stops keep the sitting
+finite, and the discourse in Step 1 supplies what this session does not
+teach. No finer split is owed.
+
+### Step 3: Craving is not every desire (~10 min, reading)
 
 **Peter Harvey's "Craving" glossary entry** (his SN 56.11 translation and
 commentary on Access to Insight,
@@ -103,7 +113,7 @@ wholesome ends. The learner who takes "end craving" as "stop wanting
 anything" has misread the task; the worksheet asks you to show you have
 not.
 
-### Step 4 — Continue the sitting practice
+### Step 4: Continue the sitting practice
 
 One 10-minute metta sitting, on the same pattern as b1. Spaced practice
 is how the walk builds the sitting habit; the cmp practicum will extend
@@ -119,7 +129,11 @@ situation: the desire to show up and stay civil, which the craving does
 not own. The nirodha to be directly experienced: the demand's grip releasing,
 so the
 argument can happen (or not) without the dread owning the drive there.
-The path factors: right speech (no rehearsing the argument in the car),
+The path factors: right speech (a concrete speech act: when you retell
+the dinner to someone else afterwards, keeping it from becoming
+divisive retelling, since the discourse defines right speech as
+abstaining from lying, divisive talk, abuse and idle chatter, not as
+policing your inner monologue),
 right effort (abandoning the rehearsing when it starts), right
 mindfulness (feeling the knot without acting from it). The worksheet
 below runs this same sequence on your own case.
@@ -134,7 +148,10 @@ actually face this month. For each truth, one paragraph:
   honest tracing finds no craving, record "craving not established here"
   and say what you looked at; that is a legitimate finding.
 - The nirodha: what the ending of that craving would concretely be (not
-  the problem vanishing; the craving's grip releasing).
+  the problem vanishing; the craving's grip releasing). If you recorded
+  "craving not established here", write instead what cannot be concluded
+  about cessation in your case: the ending of a craving that was not
+  found cannot be observed, and recording that limit is the finding.
 - The magga: three path factors from the discourse's list (right view,
   intention, speech, action, livelihood, effort, mindfulness,
   concentration) you could develop here, with one action each.
@@ -153,7 +170,7 @@ Rubric (observable):
 |---|---|---|
 | four tasks stated correctly | each truth paired with its task in the learner's own words | truths recited with no tasks, or tasks swapped |
 | case work is real and specific | names an actual difficulty with a concrete craving and a named chanda, or an explicit honest "craving not established here" with what was examined | a hypothetical with no craving traced, or an invented craving to fill the slot |
-| ending described as cessation of craving | describes the grip releasing, distinguishes it from the problem disappearing | "I will stop suffering" with no mechanism |
+| ending described as cessation of craving | describes the grip releasing, distinguishes it from the problem disappearing; or, where "craving not established here" was recorded, states explicitly what cannot be concluded about cessation in that case | "I will stop suffering" with no mechanism, or an invented craving to force a cessation description |
 | path factors chosen with reasons | three factors with one action each, matched to the case | the full eight listed with no actions |
 | rebirth frame placed | two sentences naming where the discourse assumes rebirth and why the walk marks it as passing mention | silence, or no statement of where the material lives |
 
@@ -173,10 +190,11 @@ ritual remain excluded.
 - Measured media: Dreyfus session 1, 1:20:34 (whole teaching assigned,
   with its coverage boundary stated above).
 - Estimated: SN 56.11 (~1,100 words) at 130 words per minute with
-  re-reading, ~20 m; Harvey entry (~300 words), ~5 m; four-tasks
+  re-reading, ~20 m; Harvey entry (~300 words), ~10 m (matching the
+  Step 3 allowance); four-tasks
   worksheet ~45 m; one metta sitting 10 m; study overhead on the video
   ~40 m. Estimates labelled as estimates.
-- Module total: about 3 h 20 m (1:20:34 measured media + 2 h 00 m of
+- Module total: about 3 h 25 m (1:20:34 measured media + 2 h 05 m of
   estimated work).
 
 ## Sources (verification status)
@@ -184,7 +202,7 @@ ritual remain excluded.
 | resource | status | verified | notes |
 |---|---|---|---|
 | SN 56.11 AtI Thanissaro | verified (text) | 2026-10-26 (receipt B-T01, deg-verify-a); task-frame independently re-verified 2026-10-26 (worker-pplx-buddhism-1026b) | https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html; whole discourse assigned; CC BY-NC 4.0 stated on page; the four task verbs ("to be comprehended... to be abandoned... to be directly experienced... to be developed") confirmed verbatim on the opened page this pass; alternates listed on the page are Ñanamoli, Harvey and Piyadassi (the earlier Sujato/Bodhi claim corrected 2026-10-26); Sujato version independently verified on SuttaCentral by deg-verify-b's receipt |
-| Dreyfus Four Noble Truths session 1 | verified-video | 2026-10-25 (M02-B04); boundaries receipt 2026-10-26 (deg-verify-b) | https://www.youtube.com/watch?v=DLPsIhDWZp4; duration 1:20:34; covers dukkha only per opened transcript (00:17-00:40, 01:20:13); credentials: Williams College Jackson Professor of Religion (opened catalogue) + host biography; homeodynamic-system analogy and survival-time claims marked as unverified; a finer segment split than whole-teaching is owed at module QC |
+| Dreyfus Four Noble Truths session 1 | verified-video | 2026-10-25 (M02-B04); boundaries receipt 2026-10-26 (deg-verify-b) | https://www.youtube.com/watch?v=DLPsIhDWZp4; duration 1:20:34; covers dukkha only per the verification lane's transcript read (locators 00:17-00:40 and 01:20:13 inherited from that record, receipt B-V01; the third-party transcript carries no timestamps); credentials: Williams College Jackson Professor of Religion (opened catalogue) + host biography; homeodynamic-system analogy and survival-time claims marked as unverified; whole teaching retained with a finite-scope rationale (two midpoint viewing stops; the discourse in Step 1 supplies the other three truths); the finer-split note is closed |
 | Harvey "Craving" glossary, AtI | verified | 2026-10-26 (deg-verify-b receipt) | https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.harv.html; tanha vs chanda distinction confirmed on the opened page |
 | Metta sitting (b1 pattern, Metta Sutta Kp 9) | verified | 2026-10-26 (this session) | see b1 source table |
 

@@ -1206,3 +1206,59 @@ ledger), which already included the final sentence — only the quoted
 boundary was wrong, not the count. B-V25's other findings (citation/
 license verbatim, section list, "The Questions" boundaries verbatim,
 Introduction first sentence verbatim) required no change.
+
+## b1 rereview-3 and b2 bounded-return repairs applied (2026-10-26, worker-pplx-buddhism-1026g, wave-4 agent-4 lane)
+
+Supervisor baton live (supervisor-pplx-1026e), so this session works the
+deg-wol-buddhism baton (stale takeover from worker-pplx-buddhism-1026b).
+
+- b1 (draft v5, repairs from the delta re-review 2 list): (1) the
+  Thanissaro source-table availability wording now states the actual
+  retrieval route per receipt B-V05 (full transcript retrieved through
+  a third-party transcript service; the watch page was JS-blocked in the
+  verification pass), replacing the too-strong "transcript available on
+  the watch page"; the content-verified status is unchanged. (2) The
+  five heading em dashes replaced per the standing humanizer ruling
+  (title rewritten without a dash; four step headings to colons); under
+  the same all-final-text rule I also removed the two prose em-dash
+  pairs (AN 5.179 five-things conditional now parenthetical; the Khp 9
+  traditional-frame sentence now colon-separated) and one source-table
+  em dash. No other change: the measured arithmetic and all quotations
+  stand as verified by the supervisor at hash d83a210c.
+- b2 (draft v3, all six bounded-return repairs): (1) Harvey reading
+  allowance synchronized at ~10 m in the workload arithmetic (was 5 m
+  while Step 3 advertised 10 m), total recomputed: about 3 h 25 m =
+  1:20:34 measured media + 2 h 05 m estimated. (2) The no-craving
+  branch made genuinely completable: the nirodha worksheet bullet now
+  carries the conditional prompt (where "craving not established here"
+  is recorded, write what cannot be concluded about cessation in that
+  case) and the rubric row carries the matching allowance. (3)
+  Humanizer: the prose em dash in Step 1 replaced with a semicolon; the
+  title and four step-heading em dashes removed (title rewritten with
+  parentheses; step headings to colons). The frontmatter status line
+  kept as reviewer metadata per the b1 delta-re-review-2 precedent: I
+  read docs/degrees/INTEGRATION.md myself this session and confirmed
+  the integrator splices only the enumerated data-block fields (module
+  id, degree id, outcomes, prerequisites, media, durations, workload
+  arithmetic); the status/repair-history line is not among them. (4)
+  The worked example's right-speech mapping repaired to a concrete
+  speech action (keeping a retelling of the dinner from becoming
+  divisive retelling, per the discourse's own definition of right
+  speech as abstaining from lying, divisive talk, abuse and idle
+  chatter); the internal rehearsing stays with right effort where it
+  belongs. (5) The rebirth gloss tied to the passage: the Walk-context
+  sentence now quotes the discourse's craving-for-further-becoming
+  phrasing and marks "future lives" as the walk's plain-language gloss.
+  (6) Dreyfus locators phrased as inherited (the Step 2 boundary note
+  states they come from the verification lane's opened-transcript
+  record, receipt B-V01, and that the third-party transcript carries no
+  timestamps); the whole teaching retained with an explicit
+  finite-scope rationale and the "finer split owed" note closed in both
+  the module and the source-table row.
+- Both modules re-hashed after repair: b1
+  2c2fdcd04b8e3545c3b896f602fcf2ea670d002c7c15ea5027fe3c8469a2e7c5, b2 231c205425a83278da2ce65d2864aa9130a18ec3ccadbc76493716c52dfe1566 (sha256, recorded for the
+  supervisor's delta rereview).
+- Open items unchanged for the supervisor: module-QC on b3-b9; b4
+  caption-text retrieval or human listen; b7 Burma/Vipassana passage
+  read; AudioDharma B-V17 flag mapping (b7); duplicate-name guard; m1
+  reconciliation (archived, kept as evidence).
