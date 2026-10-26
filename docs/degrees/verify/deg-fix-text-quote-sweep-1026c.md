@@ -76,3 +76,5 @@ Two more fresh matches: PD-M4-07 ([Fan et al. 2002, university-hosted PDF](https
 PD-M5-06 closed: read through a page reader, the [Branje et al. review (PMC9298910)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9298910/) Introduction begins "In the current review, we discuss progress in the field of identity research between 2010 and 2020" and the domain-specific identity paragraph ends "one or multiple life domains (McLean, Syed, Yoder, & Greenhoot, 2016)", matching the locator. Every psychdim reading anchor now has a fresh-fetch match from this session.
 
 BUD-B1-04 count re-run on a fresh download of [AN 5.179 (Sujato)](https://suttacentral.net/an5.179/en/sujato): the opening through "These are the five precepts in which their actions are restrained" is 164 words and the verse block "You shouldn't harm living beings" through "as they confuse the mind" is 49 words, 213 in all, matching the label exactly.
+
+Khp 9 Metta Sutta re-counted on a fresh download of [the Sujato translation](https://suttacentral.net/kp9/en/sujato): 236 whitespace-separated words, matching the label "whole (236 measured words)" exactly.
