@@ -307,3 +307,29 @@ spans confirmed verbatim — the Arcesilaus syllogism, 'This syllogism
 Arcesilas used to approve...', and the Stoics'/Antiochus' rejection of the
 major premiss. Quote spot-check only; the dossier itself records the honest
 limit that the account relies on Cicero's report of both sides.
+
+# QC sample 8: dosr1 unadjudicated map items — right-intention (2026-10-26 02:42:27Z, measured in-command)
+
+The dosr1 band has since been closed and released by its owner, so its three
+automated NOT FOUNDs (flagged "deserves an eye-check" in the band quote map)
+fall to the verification lane.
+
+1. Ryan & Deci 2000 (SDT, selfdeterminationtheory.org PDF): FALSE POSITIVE,
+   confirmed. Direct download of the PDF; the quoted span is printed in full,
+   but a running header ("January 2000 • American Psychologist") is
+   interleaved mid-phrase by the PDF text layer ("was pos|itively associated"),
+   which defeats the verifier's exact matching. The host also blocks the
+   script's fetcher (per the map's blocked-hosts list).
+2. Dhammapada 129, Buddharakkhita (accesstoinsight.org): FALSE POSITIVE,
+   confirmed. Fresh fetch of the cited page prints the verse verbatim:
+   "Putting oneself in the place of another, one should not kill nor cause
+   another to kill." The verifier's NOT FOUND extracted surrounding prose
+   rather than the verse.
+3. SN 42.3, Sujato (suttacentral.net): NOT CONFIRMED from this environment,
+   honestly. The host is on the map's blocked-hosts list; this session the
+   site serves a JavaScript app shell to both the page fetcher and curl, and
+   the quote is an elided composite ("..."), which defeats exact matching
+   even where the page loads. Classified as a blocked-host false positive per
+   the map, but no visual confirmation was possible this session; the earlier
+   suttacentral fetches this session (MN 60, right-view sample) did succeed
+   intermittently, so the block is partial rather than total.
