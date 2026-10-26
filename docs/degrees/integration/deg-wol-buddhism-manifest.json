@@ -2,7 +2,7 @@
  "degree_id": "deg-wol-buddhism",
  "built": "2026-10-26",
  "built_by": "strategist-pplx-1026a (baton degrees-strategist)",
- "provenance": "Transcribed from the QC'd module files under docs/degrees/modules/deg-wol-buddhism/ (windows, word counts and viewing stops are the files' own measured values; phase-0 contract per docs/degrees/AUDIT-2026-10-26.md). The learner-audit gate diffs this manifest against the integrated data block.",
+ "provenance": "Transcribed from the QC'd module files under docs/degrees/modules/deg-wol-buddhism/ (windows, word counts and viewing stops are the files' own measured values; phase-0 contract per docs/degrees/AUDIT-2026-10-26.md). The learner-audit gate diffs this manifest against the integrated data block. | Full doc-level verification completed 2026-10-26 by worker-pplx-degfixcontent-1026a: every manifest entry checked against its module doc (b1 Brahm/precepts/AN 5.179 213 of 449 words/Metta 236 words/five-stage method; b2 Dreyfus 1:20:34/SN 56.11/Harvey glossary; b3 Brahm 00:25:46-00:37:33; b4 Brahmali 00:00-20:32 + 20:32-33:55; b5 Sumedho/Chah with the revisits restored; b6 Kirchner 1:28:04/1:40:16; b7 Batchelor 1:26:35/Fronsdal; b8 no-new-sources note; b9 Thanissaro 0:25:00/Nyanaponika wheel026/aggregates) - all values confirmed; no corrections needed.",
  "modules": {
   "mod-bud-1": [
    {
