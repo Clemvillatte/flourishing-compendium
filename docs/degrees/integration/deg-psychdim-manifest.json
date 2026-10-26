@@ -77,30 +77,26 @@
    {
     "source_id": "PD-M2-04",
     "role": "teach",
-    "assignment": "Hwang and Matsumoto, Functions of Emotions (Noba) - assigned selections (watch Bloom first, then read; closing excerpt assigned)",
-    "kind": "reading",
-    "verify_reading_assignment": true
+    "assignment": "Hwang and Matsumoto, Functions of Emotions (Noba) - VERIFIED required: opening sections through social/cultural functions; closing excerpt assigned (~2,794 words per ledger)",
+    "kind": "reading"
    },
    {
     "source_id": "PD-M2-05",
-    "role": "teach",
-    "assignment": "Barrett et al. 2025, theory of constructed emotion - assigned span (verify against m2 doc)",
-    "kind": "reading",
-    "verify_reading_assignment": true
+    "role": "unverified-assignment",
+    "assignment": "Barrett et al. 2025 - ledger-verified source (PD-V06 sidebar paragraph selected) but NO assignment statement found in the m2 module doc; verify against the m8 capstone doc or demote from mod-pd-2 required",
+    "kind": "reading"
    },
    {
     "source_id": "PD-M2-06",
-    "role": "teach",
-    "assignment": "Martinez-Priego et al. 2024, emotion regulation models review - assigned span (verify against m2 doc)",
-    "kind": "reading",
-    "verify_reading_assignment": true
+    "role": "unverified-assignment",
+    "assignment": "Martinez-Priego et al. 2024 - ledger-verified source (re-opened, intro/discussion/conclusion) but NO assignment statement found in the m2 module doc (the m2 matrix row rests on it); verify against m8 or demote",
+    "kind": "reading"
    },
    {
     "source_id": "PD-M2-07",
-    "role": "teach",
-    "assignment": "Gross 1998, integrative review - assigned span (verify against m2 doc)",
-    "kind": "reading",
-    "verify_reading_assignment": true
+    "role": "unverified-assignment",
+    "assignment": "Gross 1998 - no assignment statement found in the m2 module doc; verify or demote",
+    "kind": "reading"
    }
   ],
   "mod-pd-3": [
