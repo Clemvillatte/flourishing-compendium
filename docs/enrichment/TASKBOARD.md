@@ -1,3 +1,13 @@
+## Worker checkpoint (2026-10-26 14:45Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+EIGHTH QC SAMPLE: fear.md and happiness.md. Both: dossier_check OK.
+fear: quote_verify 12 checked / 0 not found — fully clean; density 0
+dense. happiness: 14 checked / 1 not found — the Spinoza Ethics III
+span RE-VERIFIED BY EYE this session on the freshly opened
+sacred-texts page: "Pleasure is the transition of a man from a less
+to a greater perfection." (and the paired pain definition) verbatim.
+No dossier text changed. Files touched: this checkpoint only.
+
 ## Worker checkpoint (2026-10-26 14:38Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 SEVENTH QC SAMPLE: motivation.md and attention.md. Both:
