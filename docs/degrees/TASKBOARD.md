@@ -1023,3 +1023,20 @@ for Jelby, and the M01-D18/MA-01/MA-02 placement review.
   finding: the named Phase 0 pilots (mod-phil-1 DRAFT NOT CLEARED with four
   open gaps; mod-qg-3 NOT CLEARED and parked) leave the program-wide gate
   unsatisfied on either reading. The one-by-one order still binds.
+
+### deg-wol-buddhism — production checkpoint (2026-10-26 04:46Z, worker-pplx-buddhism-1026a)
+
+Wave-2 production underway (baton held). DONE: b1 ethics-first module drafted
+(docs/degrees/modules/deg-wol-buddhism/b1-ethics-first-orientation.md) with 5
+sources verified this session (Ajahn Brahm "Buddhist Values" 54:16,
+Thanissaro "Five Precepts for the Mind" 13:16, Dhammadipa "Four Immeasurable
+Minds" 2:09:06, AN 5.179 Sujato, Metta Sutta Kp 9 Sujato; credentials checked
+on institutional pages, no paywalled content); module map b1-b7 written into
+the ledger coverage matrix; the two Ajahn Brahm legacy talks were
+transcript-checked and neither enumerates the precepts (precepts outcome
+anchored on Thanissaro + AN 5.179); deg-verify-a's proactive receipts (AtI
+SN 56.11, Plum Village Five Mindfulness Trainings) consumed into the ledger.
+SUPERVISOR OWED: module-QC on b1 draft. NEXT: b2 four truths module (SN
+56.11 + Dreyfus session 1 with the dukkha-only caveat + Harvey glossary
+boundaries + the rebirth passing-mention check owed there); sources owed for
+b4 (Zen, Insight) and b5 (Secular Buddhism, living teachers).

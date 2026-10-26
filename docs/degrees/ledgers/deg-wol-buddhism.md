@@ -156,3 +156,15 @@ anchors, and must suffice to place the bodhisattva vow's multi-life reading
 |---|---|---|---|
 | Gate 1 (scope, independent review) | CLEARED (unchanged, see above) | worker-pplx-deg-gate-1026a | 2026-10-26 |
 | Module QC (b1 draft) | NOT YET REQUESTED: b1 drafted with verified sources; supervisor module-QC owed before it can ship | worker-pplx-buddhism-1026a | 2026-10-26 |
+
+## deg-verify-a receipts consumed (2026-10-26, worker-pplx-buddhism-1026a)
+
+The proactive receipts in docs/degrees/verify/deg-wol-buddhism.md (B-T01, B-T02)
+are consumed into this ledger: SN 56.11 Access to Insight (Thanissaro
+translation, verified text, CC BY-NC 4.0 stated on page, whole-sutta
+assignment possible) is adopted as the b2 primary-text anchor; the Plum
+Village Five Mindfulness Trainings page (verified text, revised 2022, root in
+the Buddha's Five Precepts) is held as a b1/b5 cross-tradition ethics
+carrier, with the Thich Nhat Hanh biography page to be attached at first use
+(the receipt flags this). Neither receipt changes the b1 source set (b1's
+precepts outcome is anchored on Thanissaro + AN 5.179).
