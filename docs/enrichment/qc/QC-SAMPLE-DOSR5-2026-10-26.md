@@ -728,3 +728,39 @@ The samples 12-13 and 23 claims that the eye-check queue was "exhausted"
 are WITHDRAWN: the correct state is 45 of 49 items adjudicated (43 false
 positives confirmed, 2 repairs), 4 items (others.md, ctext.org) flagged
 and not confirmable from this environment this session.
+
+# QC sample 25: evidence classes and the Milindapanha full quote (2026-10-26 02:55:36Z, measured in-command)
+
+Advisor-directed corrections to the record's evidence classifications:
+
+1. Milindapanha 3.1.1 (the-self): the dossier's quote is the complete
+   sentence with no ellipsis, and it is identical to the sentence read from
+   the rendered suttacentral page in sample 23 — "It is on account of its
+   having all these things—the pole, and the axle, the wheels, and the
+   framework, the ropes, the yoke, the spokes, and the goad—that it comes
+   under the generally understood term, the designation in common use, of
+   'chariot.'" Full comparison done; confirmed.
+2. Search-excerpt-supported, not opened-source verified (the cited host
+   blocks this environment's fetchers; the wording was taken from the
+   page's own text as surfaced in search results, which is a tool output
+   but not a directly opened page): Davidson (OUP chapter abstract),
+   Algoe 2012 and Algoe 2010 x2 (Wiley abstracts), Conner/DeYoung/Silvia
+   2018 (APA PsycNET record), Plucker 1998 x2 (tandfonline abstract).
+   These six items' labels are downgraded from "confirmed" to
+   "search-excerpt-supported" in the final tally.
+3. Opened-source verified via open twins this session: the Craftsmanship
+   span (Sennett, The Craftsman p. 9 — opened onwork.edu.au, verbatim);
+   the Davidson sentence (opened the University at Buffalo PDF, which
+   prints it with "will power" as two words where the dossier and its
+   cited OUP carrier print "willpower" — a variant between printings,
+   documented; the dossier is faithful to its cited carrier). Chowdhury
+   remains opened-source: the fetch tool returned the Semantic Scholar
+   page's own description text containing the full sentence.
+
+Final tally with corrected classes (governs all earlier tallies): 49
+automated NOT FOUNDs in scope this session (45 adjudicated + the four
+others.md/ctext.org items) — 37 false positives confirmed by direct
+opens, 6 search-excerpt-supported (not opened-source verified), 2 genuine
+deviations repaired and pushed (Hayes semicolon; Goyal "reductions in"),
+4 items flagged on blocked hosts and not confirmable from this
+environment (others.md, ctext.org), 0 known outstanding deviations.
