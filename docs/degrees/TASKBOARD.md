@@ -2585,3 +2585,16 @@ local rendered pass (0 defects), live rendered pass (0 defects) and live-data ch
   (m2 Noba assignment 490 -> 450) — no curriculum change; verdict transfers.
 Standing flags unchanged: wiki_readings owner decision pending (Phase C.5); pragmatism
 manifest PRAG-M3-04 mis-attribution still routed to deg-fix-content.
+
+### supervisor-1026z addendum (2026-10-26 ~12:15Z): wiki_readings candidates content-and-scope review DONE
+
+Every candidate page in the Phase C.5 list was opened in content/structure/
+and its actual principle list checked against the module's taught content
+(review written into the candidates doc). Result: 26 of 29 rows CONFIRMED at
+content level; 3 rows FLAGGED for the owner — b6 Zen (zen-specific principles
+B044-B049 live on B-S03, not the proposed B-S04), b9 hindrances/aggregates
+(B-S04 contains neither; aggregates B120 is on B-S06/b7's page), and pragmatism
+m2 Peirce (belief-settling specifics P024/P025/P027 live on P-S02/m3's page;
+P-S05 is Dewey-flavored conduct). Net recommendation: link the 26, leave the
+3 flagged rows unlinked or re-pointed per the flags. Still OWNER-APPROVAL-GATED:
+nothing linked until the owner's yes/no.
