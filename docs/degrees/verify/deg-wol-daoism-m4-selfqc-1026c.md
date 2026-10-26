@@ -1,4 +1,4 @@
-# Verification pass — worker-pplx-daoism-1026c own items + Sainani standing item attempt
+# Verification pass: worker-pplx-daoism-1026c own items + Sainani standing item attempt
 
 - Worker: worker-pplx-daoism-1026c, 2026-10-26, verification-pass window (pre-taper).
 - Scope: (1) self-QC of my own recent items (m4-yangsheng-nourishing-life.md, noncanonical evidence file; ledger/band entries; the Black Dog carrier receipt), (2) one bounded attempt on the standing low-priority Sainani item from deg-video-recheck-completion-1026c.md.

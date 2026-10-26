@@ -1,4 +1,4 @@
-# Verification receipt — psychdim M3 Black Dog RNT window: alternative audio evidence from the session's SoundCloud distribution
+# Verification receipt: psychdim M3 Black Dog RNT window: alternative audio evidence from the session's SoundCloud distribution
 
 - Worker: worker-pplx-daoism-1026c (verification assist; this receipt edits no module, ledger, band or shared board)
 - Scope: the Black Dog Institute RNT introduction window (4:17, video ts 330–587) flagged in the M3 audit receipt (docs/degrees/verify/deg-psychdim-m3-video-audit-49bf153e.md) with three window claims:
@@ -12,14 +12,14 @@
 The YouTube transcript routes attempted this session all failed (third-party transcript services blocked from this environment; the timedtext caption XML returned HTTP 200 with an empty body; the watch-page player never initialized in the browser; the search index returned no window text). A search hit then surfaced the same session distributed as audio on SoundCloud:
 
 - https://soundcloud.com/user-739013830/repetitive-negative-thinking-expert-insights-for-health-professionals
-- SoundCloud oembed (opened): title "Repetitive Negative Thinking - Expert Insights for Health Professionals by Black Dog Institute for Health Professionals"; description names the same panel — Elliot (lived experience representative), Professor Michelle Moulds (School of Psychology, UNSW), Nisha Sethi (clinical psychologist), Dr Carol Newall (facilitator).
+- SoundCloud oembed (opened): title "Repetitive Negative Thinking - Expert Insights for Health Professionals by Black Dog Institute for Health Professionals"; description names the same panel: Elliot (lived experience representative), Professor Michelle Moulds (School of Psychology, UNSW), Nisha Sethi (clinical psychologist), Dr Carol Newall (facilitator).
 - The HLS audio stream was downloaded from the page (track duration 3,561,430 ms = 59:21) and the first 15 minutes transcribed locally with faster-whisper (base.en, int8). ASR provenance: the excerpts below are machine-transcribed; obvious ASR slips are marked [ASR: ...]; the audio itself is the authoritative source for wording.
 
 ## Same-session correspondence (reasoning, bounded)
 
 The SoundCloud audio is a Black Dog Institute "Expert Insights" panel on repetitive negative thinking with the same four named participants and the same moderator structure, recorded 29 September 2021 per the embedded voiceover. The YouTube video (1:00:56) and the audio (59:21) differ by about 95 seconds in total duration. I could not read the YouTube window itself (blocked), so the correspondence is supported by panel, topic, structure and duration proximity; it establishes neither identical editing nor the placement of this content inside the assigned YouTube window, and no cross-recording timestamp offset is claimed.
 
-## Claim 1 — Moulds: repetition, abstract processing, difficulty disengaging. SUPPORTED (audio ~04:59–06:02)
+## Claim 1, Moulds: repetition, abstract processing, difficulty disengaging. SUPPORTED (audio ~04:59–06:02)
 
 Moulds, defining RNT for the panel (machine timestamps, ±few seconds):
 
@@ -29,9 +29,9 @@ Moulds, defining RNT for the panel (machine timestamps, ±few seconds):
 
 > [05:43] "And I think another key feature is I guess what I call the stickiness of repetitive thinking. So our clients have difficulty [ASR: "dips"] engaging. So once they're on that train and once they're thinking and they're worrying and that thinking has got rolling, it's very hard to move away from it. So there's a real stickiness."
 
-All three elements of claim 1 — repetition (~05:06–05:21), abstract processing (~05:21–05:43), difficulty disengaging (~05:43–05:58) — appear in Moulds' own words; here "stickiness" is her term for the difficulty-disengaging feature, not a separate fourth feature.
+All three elements of claim 1, namely repetition (~05:06–05:21), abstract processing (~05:21–05:43) and difficulty disengaging (~05:43–05:58), appear in Moulds' own words; here "stickiness" is her term for the difficulty-disengaging feature, not a separate fourth feature.
 
-## Claim 2 — Sethi supplies the stuck-radio illustration. SUPPORTED (audio ~06:23–07:20)
+## Claim 2, Sethi supplies the stuck-radio illustration. SUPPORTED (audio ~06:23–07:20)
 
 Newall asks Sethi how she describes RNT to clients; Sethi answers:
 
@@ -41,7 +41,7 @@ Newall asks Sethi how she describes RNT to clients; Sethi answers:
 
 The stuck-radio/stuck-channel illustration is Sethi's, as claimed.
 
-## Claim 3 — Moulds: past/future emphasis vs shared transdiagnostic process. SUPPORTED (audio ~07:50–09:02)
+## Claim 3, Moulds: past/future emphasis vs shared transdiagnostic process. SUPPORTED (audio ~07:50–09:02)
 
 Moulds, answering "what distinguishes worry from rumination?":
 
@@ -129,7 +129,7 @@ Quotes were checked against the full fetched page text (verbatim, including Moul
 
 After the receipt above was pushed, the full session audio (59:21) was transcribed locally with the same method (machine transcription; audio clock; ASR errors uncorrected; audio authoritative for wording). A full-transcript artifact was briefly committed and then withdrawn from the current tree on redistribution-permission grounds (the earlier commits remain in the pushed history; no history rewrite is attempted or needed for this task): the session is the Black Dog Institute's recording, and public availability does not establish permission to redistribute a full derivative transcript. What is retained here is the provenance and the relevant excerpts only; the route (SoundCloud page above, HLS stream from the page HTML, local faster-whisper transcription) succeeded in this pass and may work again, but no general availability is claimed for it.
 
-Cross-check against the treatment-discussion excerpts that deg-video-recheck-completion-1026c.md had verified via the search index (video 39:47-41:14): the audio at 38:29-40:37 carries matching subject matter — "rumination focused cognitive therapy" named (38:29-38:45; Watkins's model is named at 42:17), and "this recent work conducted by Amy at the Black Dog Institute with Jill Newby and colleagues really has done this very nicely so recently developed just a three session online program to target worry and rumination using many of those ideas that I've just mentioned" (39:51-40:19), matching the index excerpts' claims. No cross-recording timestamp alignment is claimed: the index timestamps are the video clock and these are audio-clock readings, and the correspondence is by content, not by verified window alignment. Within those bounds, the prior worker's treatment-window verification is corroborated from the recording's own audio rather than the third-party index.
+Cross-check against the treatment-discussion excerpts that deg-video-recheck-completion-1026c.md had verified via the search index (video 39:47-41:14): the audio at 38:29-40:37 carries matching subject matter: "rumination focused cognitive therapy" named (38:29-38:45; Watkins's model is named at 42:17), and "this recent work conducted by Amy at the Black Dog Institute with Jill Newby and colleagues really has done this very nicely so recently developed just a three session online program to target worry and rumination using many of those ideas that I've just mentioned" (39:51-40:19), matching the index excerpts' claims. No cross-recording timestamp alignment is claimed: the index timestamps are the video clock and these are audio-clock readings, and the correspondence is by content, not by verified window alignment. Within those bounds, the prior worker's treatment-window verification is corroborated from the recording's own audio rather than the third-party index.
 
 ## Outcome for the supervisor
 
