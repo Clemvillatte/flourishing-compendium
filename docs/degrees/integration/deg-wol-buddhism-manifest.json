@@ -151,8 +151,8 @@
    },
    {
     "source_id": "BUD-B7-03",
-    "role": "teach",
-    "assignment": "Fronsdal, Class 1 recording - assigned listening",
+    "role": "optional",
+    "assignment": "Fronsdal, Class 1 recording - assigned listeningCORRECTED 2026-10-26 by deg-fix-schema: b7 doc marks the Class 1 recording OPTIONAL (Step 1: \"OPTIONAL: the course's Class 1 recording\"); moved to optionalMedia.",
     "kind": "audio"
    }
   ],

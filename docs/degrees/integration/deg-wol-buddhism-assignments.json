@@ -1,0 +1,220 @@
+{
+ "degree_id": "deg-wol-buddhism",
+ "built": "2026-10-26",
+ "built_by": "worker-pplx-degfixschema-1026b (baton deg-fix-schema)",
+ "provenance": "Windows, word counts and viewing stops transcribed from deg-wol-buddhism-manifest.json and the module docs b1 to b9 (the files own measured values); BUD-B7-03 moved to optional because the b7 doc marks the Class 1 recording OPTIONAL. Nothing here is invented.",
+ "modules": {
+  "mod-bud-1": {
+   "refs": [
+    {
+     "source_id": "BUD-B1-01",
+     "section": "required",
+     "note": "Watch the whole talk in two stops: 0:00–27:00, then 27:00 to the end"
+    },
+    {
+     "source_id": "BUD-B1-02",
+     "section": "required",
+     "note": "Watch the whole talk"
+    },
+    {
+     "source_id": "BUD-B1-03",
+     "section": "required",
+     "segments": [
+      {
+       "start": "00:27:11",
+       "end": "01:01:49"
+      },
+      {
+       "start": "01:09:42",
+       "end": "01:33:04"
+      }
+     ],
+     "note": "The four immeasurables arc, then the guided metta practice; the remaining chapters are optional"
+    },
+    {
+     "source_id": "BUD-B1-04",
+     "section": "required",
+     "locator": "The bounded excerpt, 213 words: from the opening (“Then the householder Anāthapiṇḍika…”) through the five-precepts passage and the four precept verses ending “…as they confuse the mind.”; the rest of the discourse is optional context"
+    },
+    {
+     "source_id": "BUD-B1-05",
+     "section": "required",
+     "locator": "The whole sutta (236 words)"
+    },
+    {
+     "source_id": "BUD-B1-06",
+     "section": "required",
+     "locator": "The five-stage loving-kindness method: yourself, a good friend, a neutral person, someone you dislike, everyone"
+    }
+   ]
+  },
+  "mod-bud-2": {
+   "refs": [
+    {
+     "source_id": "BUD-B2-01",
+     "section": "required",
+     "note": "Watch the whole teaching. This session covers the first truth, dukkha, only"
+    },
+    {
+     "source_id": "BUD-B2-02",
+     "section": "required",
+     "locator": "The whole discourse (about 1,100 words); mark each truth and the task attached to it"
+    },
+    {
+     "source_id": "BUD-B2-03",
+     "section": "required",
+     "locator": "The craving glossary entry (about 300 words)"
+    }
+   ]
+  },
+  "mod-bud-3": {
+   "refs": [
+    {
+     "source_id": "BUD-B3-01",
+     "section": "required",
+     "segments": [
+      {
+       "start": "00:25:46",
+       "end": "00:37:33"
+      }
+     ],
+     "note": "The remainder of the talk is not assigned"
+    },
+    {
+     "source_id": "BUD-B3-02",
+     "section": "required",
+     "locator": "The sections on the five precepts, the Middle Way and Eightfold Path, and the practice of the path; the rebirth and karma sections are not assigned"
+    },
+    {
+     "source_id": "BUD-B3-03",
+     "section": "required",
+     "locator": "The five trainings, read alongside your Module I precept statements"
+    },
+    {
+     "source_id": "BUD-B1-04",
+     "section": "required",
+     "role": "revisit",
+     "locator": "Reapply the discourse you read in Module I to two hard cases of your own choosing"
+    }
+   ]
+  },
+  "mod-bud-4": {
+   "refs": [
+    {
+     "source_id": "BUD-B4-01",
+     "section": "required",
+     "segments": [
+      {
+       "start": "00:00:00",
+       "end": "00:20:32"
+      }
+     ],
+     "note": "The teaching, once"
+    },
+    {
+     "source_id": "BUD-B4-01",
+     "section": "required",
+     "segments": [
+      {
+       "start": "00:20:32",
+       "end": "00:33:55"
+      }
+     ],
+     "note": "The guided meditation, to be sat with three times across the two-week plan (40:09 in all)"
+    },
+    {
+     "source_id": "BUD-B1-05",
+     "section": "required",
+     "role": "revisit",
+     "locator": "The Metta Sutta once a week, with two metta sittings on the Module I pattern"
+    }
+   ]
+  },
+  "mod-bud-5": {
+   "refs": [
+    {
+     "source_id": "BUD-B5-02",
+     "section": "required",
+     "note": "Watch the whole talk (1:01:36) in two stops"
+    },
+    {
+     "source_id": "BUD-B5-01",
+     "section": "required",
+     "locator": "The introduction on the Thai Forest tradition and the Theravada lineage; then two teachings: “Making the Heart Good” (Chapter Eleven, pp. 125–132, about 3,050 words) and “Our Real Home” (Chapter Thirteen, pp. 145–156, about 4,490 words); the rebirth and karma sections are not assigned"
+    },
+    {
+     "source_id": "BUD-B1-04",
+     "section": "required",
+     "role": "revisit",
+     "locator": "Re-read the discourse as the lineage’s source basis"
+    },
+    {
+     "source_id": "BUD-B2-02",
+     "section": "required",
+     "role": "revisit",
+     "locator": "Re-read the discourse as the lineage’s source basis"
+    }
+   ]
+  },
+  "mod-bud-6": {
+   "refs": [
+    {
+     "source_id": "BUD-B6-01",
+     "section": "required",
+     "note": "Watch the whole lecture (1:28:04) in two stops: 0:00–44:00, then 44:00 to the end"
+    },
+    {
+     "source_id": "BUD-B6-02",
+     "section": "required",
+     "note": "Watch the whole lecture (1:40:16) in two stops: 0:00–50:00, then 50:00 to the end"
+    }
+   ]
+  },
+  "mod-bud-7": {
+   "refs": [
+    {
+     "source_id": "BUD-B7-01",
+     "section": "required",
+     "note": "Watch the whole lecture (1:26:35) in two stops"
+    },
+    {
+     "source_id": "BUD-B7-02",
+     "section": "required",
+     "locator": "The Week 1 transcript, Mindfulness of Breath (about 30 minutes with two sittings that follow its instructions)"
+    },
+    {
+     "source_id": "BUD-B7-03",
+     "section": "optional",
+     "note": "Optional listening to the Class 1 recording, in two stops: 0:00–43:00, then 43:00 to the end. It is a separate source from the transcript, and no guided-segment timestamps are claimed"
+    }
+   ]
+  },
+  "mod-bud-8": {
+   "refs": []
+  },
+  "mod-bud-9": {
+   "refs": [
+    {
+     "source_id": "BUD-B9-01",
+     "section": "required",
+     "note": "Watch the whole talk (25:00)"
+    },
+    {
+     "source_id": "BUD-B9-02",
+     "section": "required",
+     "locator": "The sections for your two most-visited hindrances, read closely; skim the rest (about 40 minutes)"
+    },
+    {
+     "source_id": "BUD-B9-03",
+     "section": "required",
+     "locator": "The Introduction (about 2,600 words, from “The Buddha’s Awakening gave him, among other things, a new perspective on the uses and limitations of words.”) and “The Questions” (about 600 words, from “There are some cases in which a person overcome with pain…”)"
+    }
+   ]
+  }
+ },
+ "sources": {
+  "BUD-B5-02": {
+   "duration": "1:01:36"
+  }
+ }
+}
