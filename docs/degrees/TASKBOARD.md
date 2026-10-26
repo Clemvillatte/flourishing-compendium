@@ -95,8 +95,11 @@ Per-degree remaining items (from the supervisor's reviews and release lines):
   supervisor QC and must NOT run the gate. Then deg-integrate: attach +
   publish per INTEGRATION.md. Routed residuals (non-blocking): b4
   Session-1 guided-segment listen (playback-capable); stale draft-status
-  headers comment-only repair (lane, hash re-verification owed); b9
-  license-line polish note (1026e).
+  headers comment-only repair NONE OWED (1026e verified 2026-10-26: the
+  buddhism b1-b9 modules carry no STATUS/DRAFT/NOT-CLEARED comments at all —
+  the note was stale); b9 license-line polish note (1026e — the
+  license-line repair itself is already applied per the ledger row, the
+  polish note is a minor wording item).
   deg-psychdim-whole-degree-qc-1026h.md). Band qc_complete; module README
   updated to qc-complete state (ee6d7b9); module files untouched at QC
   hashes. REMAINING: deg-gate whole-degree gate review (scope/centering;
