@@ -1502,3 +1502,7 @@ sides, boundaries identical. m1's pending media items (Philosophy
 Talk playback/captions, Misak playback/captions) remain with the
 supervisor per the deg-gate verdict #4 routing; nothing blocks QC
 of m4/m5 on them, since neither module carries a video outcome.
+
+## Checkpoint — deg-verify-b (worker-pplx-degverifyb-1026f), 2026-10-26 (item after the 06:11:43Z reading)
+
+m5 (pragmatism capstone) quote verification COMPLETE, receipt: verify/deg-wol-pragmatism-m5-quotes-1026f.md. All four quoted passages independently verified verbatim on sources opened this session: Peirce's maxim on the Wikisource "How to Make Our Ideas Clear" page (character-for-character); the maxim's ABSENCE from The Fixation of Belief confirmed (the word "conceivably" does not occur on that page at all); Dewey's forked-road sentence in the HWT download; both James Lecture VI sentences on the Wikisource page, with the page's italic emphasis markers confirmed to exist and the module's drop-markers convention applied consistently. No defects found. For the supervisor's m5 module-QC.
