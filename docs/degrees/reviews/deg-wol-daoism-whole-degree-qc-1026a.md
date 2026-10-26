@@ -175,3 +175,5 @@ verify/deg-wol-daoism-m1-m4-delta-confirm-1026e.md, which also
 confirms the conditional on this review's packet PASS is satisfied.
 The m4 PASS chain therefore reads 65f91436 -> 5bbb8e6c -> f6552c8d,
 each step a one-line count-figure change only.
+
+Addendum correction (supervisor-pplx-1026e): in the line above, 'all other module hashes re-verified current' — m1 has since moved once more (1d77f8b5 -> e8e202ff, the advisor-routed Neiye contradiction fix, verified by direct diff and recorded in the band with the reviewer's count re-measure). All five module hashes re-measured and stable as of 08:06Z: m1 e8e202ff, m2 daf0568d, m3 4e9b0bf2, m4 f6552c8d, m5 fbdc0fcc (first 16 each). The packet PASS stands.
