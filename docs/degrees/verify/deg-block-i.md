@@ -550,3 +550,32 @@ opened). Coverage of the even-parity share at metadata-triage depth is
 claimed only under that provisional rule; the full skill-section-4 pass
 (playback, duration, credentials, coverage) remains owed for all 141
 even-parity records as before.
+
+## Batch 3 follow-up: four title variants resolved on watch pages (2026-10-26, 2026-10-26T05:15Z)
+
+The four most material batch-3 variants were re-checked by opening the
+watch pages; all four are the SAME EVENT as the fcAcademyData record
+(the platform title was a series/venue title; the talk title is in the
+description):
+
+- SRC-M09-003: platform title "The Origins and Diffusion of Motivational
+  Interventions, with Bill Miller" — description confirms the session
+  is the history of Motivational Interviewing by Dr. William R. (Bill)
+  Miller; same talk as the record title. Duration 1:30:33.
+- SRC-M21-PP01: platform title "Dr. Barbara Fredrickson | UBC Psychology
+  Colloquia 2024-2025" — description carries the talk title "Conducive
+  Conditions for Positivity Resonance at Multiple Levels of Analysis",
+  matching the record title exactly. Duration 1:18:27.
+- SRC-M24-004: platform title "Archives of the Impossible conference |
+  Plenary Lecture: AnaLouise Keating" — talk title in description:
+  "Cultivating the 'Impossible' with Gloria Anzaldúa: Towards a
+  Transformational Politics of Spirit" (record title truncated);
+  same event. Duration 50:26.
+- SRC-M24-005: platform title is the Spanish conference-cycle name
+  ("Ciclo de conferencias..."); the session is "Pensamientos de Gloria
+  Anzaldúa", speakers Alex Stehn and Mariana Alessandri (record:
+  Stehn/Alessandri). Same event; Spanish-language flag on the record
+  stands. Duration 1:58:50.
+
+Remaining batch-3 variants (16 of 20) are shorter formatting variants
+(e.g. added honorifics or series prefixes); still owed to the full pass.
