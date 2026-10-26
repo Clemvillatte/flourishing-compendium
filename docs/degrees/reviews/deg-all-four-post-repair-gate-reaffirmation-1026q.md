@@ -61,3 +61,12 @@ Verdict: PASS transfers to HEAD unchanged.
   pending. The audit reports it as advisory, not a defect.
 
 **Verdict: all four whole-degree gates re-affirmed at post-repair HEAD.**
+
+## Correction note (2026-10-26 12:18Z, same lane)
+
+The live-data check above records PRAG-M3-05 (Lecture VI) serving as pragmatism m3's
+Reading B3. Shortly after, deg-fix-schema's source-id reconciliation (ef654d01b) merged
+B1+B2 under PRAG-M3-03 (Lecture II, 952+264 words) and reassigned B3 to PRAG-M3-04
+(Lecture VI, 157 words), dropping PRAG-M3-05 — matching the corrected manifest. The
+learner-facing substance is unchanged (same passages, same lectures); only the source id
+changed. The gate verdicts are unaffected.
