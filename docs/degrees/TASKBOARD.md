@@ -313,6 +313,17 @@ reference, unique source ids in brackets):
   exclusion line. RE-REVIEW REQUESTED from the deg-gate reviewer; the pilot
   stop-gate production prerequisite and the owner's one-by-one order
   (pragmatism is 4th) still gate module production.
+
+- 2026-10-26 (clock 04:58:41Z measured) worker-pplx-pragmatism-1026b
+  (deg-wol-pragmatism, baton held): m2-belief-and-doubt WRITTEN AND PUSHED
+  (DRAFT NOT CLEARED): Peirce 1877 The Fixation of Belief full text
+  fetched and read; three assigned segments word-counted on the page text
+  (834 / 1,368 / 2,371); all module quotations verified verbatim
+  programmatically against the fetched text (one mis-transcription caught
+  and corrected pre-push); video-first check recorded (no credentialed
+  lecture video on the essay; primary text is the carrier per the owner's
+  fallback). m1 remains DRAFT NOT CLEARED awaiting supervisor module-QC
+  (two blocked media items). Next: advisor QC round on m2.
 - 2026-10-26 (clock 02:12:26Z) worker-pplx-degpsychdim-1026a (deg-psychdim, baton
   taken 02:06Z): M2 PREPARATION UNDERWAY (source openings, passage measurement,
   verifier-bounds selection per PD-V06/PD-V10), no module prose written: advisor

@@ -436,3 +436,53 @@ access failure blocks acceptance and publication but not the
 handoff, and no further wording-only review cycle is required. The
 supervisor module-QC owns the two blocked media items and the
 publication decision.
+
+## m2-belief-and-doubt production (2026-10-26, clock 04:58:41Z measured, worker-pplx-pragmatism-1026b, deg-wol-pragmatism baton)
+
+Source opened for m2 (The Fixation of Belief, Peirce 1877,
+Wikisource, public domain): the full text was fetched from
+https://en.wikisource.org/wiki/The_Fixation_of_Belief and read on the
+fetched text; the raw wikitext of the page was also pulled directly
+(action=raw) and used to measure the three assigned segments between
+pinned boundaries (Reading A: from "We generally know when we wish to
+ask a question" to "it would be without a purpose", 834 words;
+Reading B1: from "If the settlement of opinion is the sole object of
+inquiry" to "slaves they ought to remain", 1,368 words; Reading B2:
+from "But no institution can undertake to regulate opinions" to "he is
+bound to adhere", 2,371 words). Every quoted passage in the module was
+checked verbatim against the page text programmatically; one
+mis-transcribed quotation (the method-of-science sentence, which had a
+comma where the essay has a dash and dropped the essay's opening
+words) was caught by that check and corrected to the exact wording
+before this push. Author identity rests on the page (by Charles
+Sanders Peirce, Popular Science Monthly, November 1877, per the page
+header).
+
+Video-first check for m2 (owner decision 8): a focused search for a
+credentialed lecture video covering The Fixation of Belief found no
+suitable candidate; the top-ranked hit was an audiobook-style reading
+of the essay on a YouTube channel (bRIQmRGwQGo, 41:47, "Classic
+Masterworks") with no instructor credentials verifiable on an
+institutional page, and the remaining hits were text lessons and
+course notes rather than lectures. Per the owner's video-first
+policy the primary-text reading is the carrier for this module, the
+documented fallback where no verified lecture video covers the
+material.
+
+m2-belief-and-doubt.md written to the curriculum-design skill
+standard: four outcomes (doubt-belief-inquiry explanation; the four
+methods with fixers and breakers; a four-method diagnosis of one of
+the learner's own beliefs plus a science-test design naming the
+external permanency; the position on Peirce's choice), instruction in
+five steps with the assigned readings pinned and word-counted, a
+worked example with fading over stipulated cases (labelled as
+constructed for teaching), retrieval activity, four observable rubric
+criteria each with a strong and a rejection example, workload
+arithmetic (4,573 words of assigned reading at 130 wpm, 3x study
+overhead labelled estimate, total about 225 minutes of labelled
+components), the bounded-domain statement, the alignment map, and
+the verification status of the one attached source. STATUS: DRAFT,
+NOT CLEARED; awaits advisor QC and supervisor module-QC. The module
+labels the stipulated worked-example cases as constructed, quotes
+only passages verified on the fetched text, and carries no video, so
+it has no candidate media items.
