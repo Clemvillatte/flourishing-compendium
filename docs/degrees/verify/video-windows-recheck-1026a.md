@@ -20,7 +20,13 @@ wording.
 
 ## Result
 
-- 36 bounded video assignments compared.
+- 36 published segment-bearing references compared against the
+  verified manifests. SCOPE LIMIT: the check selects entries that
+  already carry `segments`, so it cannot detect a bounded assignment
+  whose segments disappeared entirely; it is a match check on published
+  windows, not an exhaustive completeness check. The expected-set
+  completeness of bounded video assignments is covered instead by the
+  per-module deep traces (27 receipts).
 - ALL MATCH, including several sources whose published state splits a
   required window and an optional-remainder entry into two module-media
   entries (PD-M1-02 in mod-pd-1; DAO-M4-01 in mod-dao-4; BUD-B4-01 in

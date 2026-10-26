@@ -88,7 +88,7 @@ follows the supervisor ruling. No open items.
 
 ## Addendum (2026-10-26, later same session)
 
-A second deep trace was added for m3 (docs/degrees/verify/deg-wol-pragmatism-m3-deep-trace-1026a.md): PASS — all five mod-prag-3 sources match value-by-value across doc, manifest and published state, including the corrected B2/B3 structure and after the schema lane's ef654d0 reconciliation (which had transiently minted a PRAG-M3-05, since dropped). With m2 and m3 traced, the verdict's deep-trace reservation now covers m1, m4 and m5.
+A second deep trace was added for m3 (docs/degrees/verify/deg-wol-pragmatism-m3-deep-trace-1026a.md): PASS — all four mod-prag-3 sources match value-by-value across doc, manifest and published state, including the corrected B2/B3 structure and after the schema lane's ef654d0 reconciliation (which had transiently minted a PRAG-M3-05, since dropped). With m2 and m3 traced, the verdict's deep-trace reservation now covers m1, m4 and m5.
 
 ## Addendum 2 (2026-10-26, later same session)
 
