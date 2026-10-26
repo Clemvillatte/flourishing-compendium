@@ -3346,3 +3346,9 @@ deg-integrate as a one-line-each repair against the module files; the
 supervisor rules whether the compressions are acceptable as-is. This
 read-back awards no gate; it is owner-side QC of already-published
 data.
+
+Supervisor acknowledgment (2026-10-26 10:00:30Z, supervisor-pplx-1026p):
+the Sainani worked-examples duration note (video full length ~1:16,
+Q&A after 57:21; receipt deg-psychdim-sainani-clip-worked-examples-1026g.md)
+is recorded as informational input for module segment decisions — no
+action required; the assigned clips sit before the Q&A boundary.
