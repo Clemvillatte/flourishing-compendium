@@ -394,3 +394,113 @@ by opening it (M05-YV-04), 1 page retrieval unresolved (ST-06).
   accessibility unresolved; confirm by browser or replace.
 - M04-R07: oembed platform title (a presenter name) does not match the record
   title; identity unresolved; resolve on the watch page in the full pass.
+## Batch 3 (2026-10-26, 2026-10-26T05:05Z, worker-pplx-degverifya-1026d, 74 records)
+
+Manifest recomputed this pass from fcAcademyData: the prior pass's
+even-parity rule was not stated in the file; SHA-1 last-hex-digit parity on
+the canonical URL reproduces the prior pass's done-set exactly (all 60
+batch 1-2 records fall in the even set; 141 even records now vs 140 then,
+one even-parity record added since). That rule is used here and recorded
+as the working rule for this share. 74 of the 81 remaining even-parity
+records are YouTube; oembed metadata was requested per record and the
+platform-returned title compared against the fcAcademyData record title.
+Same limitations as batches 1-2: oembed establishes available metadata
+only; playback conditions, durations, credentials and content coverage
+NOT checked; no record is flipped to verified.
+
+
+| record | URL | platform title (oembed) | verdict |
+|---|---|---|---|
+| M-15-003 | https://www.youtube.com/watch?v=D0wRT1coJh8 | 21.  Happiness as Eudaimonia:  Aristotle's Virtue Ethics | consistent |
+| M-15-004 | https://www.youtube.com/watch?v=qcsz_allJcE | Impermanence (anicca): Guided Meditation and Dhamma Talk / Ayyā Brahmavara | consistent |
+| M-15-006 | https://www.youtube.com/watch?v=FVnEYpcYRFU | The Scientific Buddha: Past, Present, Future - "The Problem With Karma" | consistent |
+| M-15-007 | https://www.youtube.com/watch?v=kdceHbQ8Lm8 | Discovering Buddhism Module 6: All About Karma with Ven. Kartsön | consistent |
+| M-15-008 | https://www.youtube.com/watch?v=idQiaajnFts | Karma and Rebirth in Buddhism with John Cianciosi / Theosophical Classic 2014 | consistent |
+| M08-P05 | https://www.youtube.com/watch?v=OoOqj26YbGA | Meng-Wu Lecture: Barbara L. Fredrickson, Ph.D. | consistent |
+| M08-P07 | https://www.youtube.com/watch?v=ohsAWiCC0YE | Is it possible to become happier and, if yes, how? | consistent |
+| M08-P10 | https://www.youtube.com/watch?v=JR_K4x3naLQ | "Ordinary Magic on the Developmental Road to Resilience" by Dr. Ann Masten, University of Minnesota | variant (word-overlap 0.67) |
+| M08-P11 | https://www.youtube.com/watch?v=63oPIK8Ogb4 | The Dual Role of Character Strengths with Dr. Ryan Niemiec | consistent |
+| M08-P13 | https://www.youtube.com/watch?v=Dvxl7EVELJ8 | "Social Connection and Happiness" with Robert Waldinger, MD (Annual Cogan Endowed Lecture) | consistent |
+| M08-P14 | https://www.youtube.com/watch?v=f71oNHX3VxU | Stoicon 2021 / Nancy Sherman / Keynote Address With Q&A | consistent |
+| M08-P15 | https://www.youtube.com/watch?v=E-s4hG0BWS8 | How To Find Meaning with Professor Michael Steger | consistent |
+| M08-P16 | https://www.youtube.com/watch?v=9mDdyC-77Q0 | The Power of Purpose, Kendall Cotton Bronk, PhD | variant (word-overlap 0.78) |
+| M08-P18 | https://www.youtube.com/watch?v=E_bviT3-fbQ | LSE Events / Prof. Alison Gopnik / Why Children Learn Better: the evolution of learning | consistent |
+| M08-P19 | https://www.youtube.com/watch?v=hh7IjcYKDyA | Live: Tsinghua gives open lecture on positive psychology for post-pandemic era | variant (word-overlap 0.50) |
+| M08-S01 | https://www.youtube.com/watch?v=es5X5Y7ekZk | 2026 Sage-CASBS Award Lecture by Hazel Rose Markus | consistent |
+| M08-S03 | https://www.youtube.com/watch?v=ncFZa_VOkdQ | Hazel Rose Markus--"Bridging Divides: Thriving in the Multicultural World" | consistent |
+| M08-S04 | https://www.youtube.com/watch?v=DPsvYv9ORK0 | Hazel Markus-Our Cultures, Our Selves:  The Sources of Belonging | consistent |
+| M08-S05 | https://www.youtube.com/watch?v=2WwHwbGvryk | Shinobu Kitayama / "Mutual Constitution of Culture & the Mind: Insights from Cultural Neuroscience” | MISMATCH |
+| M08-S08 | https://www.youtube.com/watch?v=9Lunz9SVIvQ | Richard Shweder on Cultural Pluralism | consistent |
+| M08-S09 | https://www.youtube.com/watch?v=g3pX3msaA64 | Rethinking the Nature of Prejudice | consistent |
+| M08-S10 | https://www.youtube.com/watch?v=TWWZd8lrraw | Social identity and the new psychology of mental health - Professor Alex Haslam | consistent |
+| M08-S11 | https://www.youtube.com/watch?v=zrP6XPhvGTw | CASBS Game Changing Idea lectures: Impact of Diversity on Intergroup Relations | consistent |
+| M08-S13 | https://www.youtube.com/watch?v=5k0TXwL_5u0 | GRCC Diversity Lecture: John Cacioppo on Loneliness and Brain Health | consistent |
+| M08-S16 | https://www.youtube.com/watch?v=j4OwoS6Stg0 | Social Network Interventions | consistent |
+| M08-S19 | https://www.youtube.com/watch?v=FDbgoVx1Q7Q | 04/21/2022 Commons Governance Program Lecture - Tine De Moor | consistent |
+| M08-S22 | https://www.youtube.com/watch?v=Ox7_RQshIsc | Misbehaving: the making of behavioural economics | consistent |
+| M08-S23 | https://www.youtube.com/watch?v=5bZ03dUXKSA | Alvin Goldman - How Can We Decide Who the Experts Are? Or Can We? | consistent |
+| M08-S25 | https://www.youtube.com/watch?v=_Uv-IJXVm3c | Cass R. Sunstein: #Republic: Divided Democracy in the Age of Social Media | consistent |
+| M14-CBT-02 | https://www.youtube.com/watch?v=OAidjP12T3o | Introduction to Cognitive Behavior Therapy CBT | consistent |
+| M14-CFT-01 | https://www.youtube.com/watch?v=qnHuECDlSvE | Workshop Part 1: Dr. Paul Gilbert | MISMATCH |
+| M14-CFT-01b | https://www.youtube.com/watch?v=Gm_PEFYgnus | Workshop Part 2: Dr. Paul Gilbert | MISMATCH |
+| M14-CFT-01c | https://www.youtube.com/watch?v=pttQaff1Zx4 | Workshop Part 3: Dr. Paul Gilbert | MISMATCH |
+| M14-CFT-01d | https://www.youtube.com/watch?v=x_rRPRdo514 | Workshop Part 4: Dr. Paul Gilbert | MISMATCH |
+| M14-U-02 | https://www.youtube.com/watch?v=BoljcIlOyW4 | Ubuntu and Inclusive Epistemology in Higher Education by Professor Mogobe Ramose | consistent |
+| M16-C01 | https://www.youtube.com/watch?v=LS3-dt5p-84 | Meng Wu Lecture: Paul Gilbert, PhD | consistent |
+| M16-F02 | https://www.youtube.com/watch?v=HA0xS9MOfVI | Lec 12:Interventions for Cultivating Mindfulness and Flow | consistent |
+| M23-EX02 | https://www.youtube.com/watch?v=e6ZeZ0tofWc | Dan Zahavi – Self-Consciousness, Self-Knowledge, and Knowledge of and with Others | variant (word-overlap 0.56) |
+| M23-EX03 | https://www.youtube.com/watch?v=L_LH6BiOdK8 | Dan Zahavi in Conversation with Anthony Steinbock | consistent |
+| M23-EX04 | https://www.youtube.com/watch?v=dZxsjIl4IQo | Dan Zahavi Lecture - Laboratory for Phenomenological Research | consistent |
+| M26-C01 | https://www.youtube.com/watch?v=uZp5-AHHx4k | Professor Paul Gilbert Presentation October 2012 | variant (word-overlap 0.50) |
+| M26-F01 | https://www.youtube.com/watch?v=zIctf_EFV10 | Human Flourishing and Flow: Flourishing Network Sept '22 meeting | consistent |
+| PHR-01 | https://www.youtube.com/watch?v=AeT3zbJnT-A | A Romp Through Ethics for Complete Beginners (3/7) | consistent |
+| QI-01 | https://www.youtube.com/watch?v=87UT-MU_c5A | A Brief History of Qi with Heiner Fruehauf | consistent |
+| QI-02 | https://www.youtube.com/watch?v=8nlZXZH0nUA | Lim Lecture: Air/Qi Connections: Notes from the History of Science and Medicine | consistent |
+| QI-03 | https://www.youtube.com/watch?v=YOugTb9KU-c | The Fundamentals of Traditional Chinese Medicine: Three Treasures, Four Levels, Five Elements | consistent |
+| SRC-M07-003 | https://www.youtube.com/watch?v=gjRrONiRoH0 | Social Psychology Lecture, UCLA, Matthew Lieberman, Ph.D. (Psych 135), 10.29.09 | variant (word-overlap 0.54) |
+| SRC-M07-004 | https://www.youtube.com/watch?v=5QbVUxYsKDQ | Lecture 2: The Self // PSY 203: Social Psychology | consistent |
+| SRC-M07-008 | https://www.youtube.com/watch?v=Lda81_Mq7Es | Leading Voices in Higher Education -- Roy F. Baumeister lecture at Dartmouth, March 27, 2012 | consistent |
+| SRC-M09-003 | https://www.youtube.com/watch?v=2Ld1WdPVU1Y | The Origins and Diffusion of Motivational Interventions, with Bill Miller | variant (word-overlap 0.55) |
+| SRC-M09-004 | https://www.youtube.com/watch?v=BtATq6dHaus | Motivational Interviewing – William R.  Miller | consistent |
+| SRC-M09-005 | https://www.youtube.com/watch?v=SAntO8nLDMQ | SA HIV ATTC: Stephen Rollnick Lecture on Motivational Interviewing | consistent |
+| SRC-M09-007 | https://www.youtube.com/watch?v=qnHuECDlSvE | Workshop Part 1: Dr. Paul Gilbert | consistent |
+| SRC-M09-010 | https://www.youtube.com/watch?v=y-DZn_N5jbs | Better in Every Sense with Dr. Norman Farb, Dr. Zindel Segal with Dr. Paul Fulton | consistent |
+| SRC-M10-011 | https://www.youtube.com/watch?v=xvUnRx9qy8g | Love as an Expansion of Self — Spinoza's Theory of Love (Lecture 4) | consistent |
+| SRC-M12-002 | https://www.youtube.com/watch?v=NY00lyMvYi8 | James Maffie on Aztec Philosophy, Mythology and Metaphysics | consistent |
+| SRC-M12-004 | https://www.youtube.com/watch?v=-JQuVZNooic | Ubuntu as a Particular Universal & Neplanta as a Transitional Space (L. Shabane & L. Grigoletto) | MISMATCH |
+| SRC-M12-007 | https://www.youtube.com/watch?v=7mAWA_8giHw | Lectures to Blow Your Mind with Dr. Alan Fox: Daoism Part 2- The Dao De Jing and the Zhuangzi | consistent |
+| SRC-M12-008 | https://www.youtube.com/watch?v=hKpxwiCrVPw | SDCF 2024 Lectures: Daoist Philosophy II: Zhuangzi - Prof. Jenny Hung PART 2 | variant (word-overlap 0.75) |
+| SRC-M18-B01 | https://www.youtube.com/watch?v=CKleVQGBMww | Talk by Rupert Gethin at Stanford University | consistent |
+| SRC-M18-B02 | https://www.youtube.com/watch?v=tu9e-oz3Qag | 2021 Khyentse Lecture / Carmen Meinert | consistent |
+| SRC-M18-B05 | https://www.youtube.com/watch?v=32nRdizli0U | [Prof. Donald Lopez - Lecture 7] Conclusion - “Buddhism and the Senses” | consistent |
+| SRC-M18-K01 | https://www.youtube.com/watch?v=LDGG1OSr7bs | Taking Buddhist Philosophy Seriously: A Symposium in Honor of Jay L. Garfield (part 3 of 6) | consistent |
+| SRC-M18-K02 | https://www.youtube.com/watch?v=O9Nx9XTOzuk | Special Lecture on: "Rebirth: A Guide to mind, Karma, Cosmos in the Buddhist World" | variant (word-overlap 0.93) |
+| SRC-M20-D01 | https://www.youtube.com/watch?v=6pqsmQzeVs0 | Daoism, Zhuangzi, Garbage, and Non-Knowing / Brook Ziporyn | consistent |
+| SRC-M20-D04 | https://www.youtube.com/watch?v=UbYUA_G4Jjo | The Daoist Body with Dominic Steavu | consistent |
+| SRC-M21-PP01 | https://www.youtube.com/watch?v=CliVqHW13pM | Dr. Barbara Fredrickson / UBC Psychology Colloquia 2024-2025 / (Mar 20, 2025) | MISMATCH |
+| SRC-M22-YV03 | https://www.youtube.com/watch?v=NeVOkbkksx0 | 04.07.22 - Yoga Sutra Lecture Series | consistent |
+| SRC-M24-002 | https://www.youtube.com/watch?v=EFnixE16wtM | Tlamatiliztli: The Wisdom of the Nahua People (Osiris Sinuhé González Romero) | consistent |
+| SRC-M24-003 | https://www.youtube.com/watch?v=wMxx5-IRaKw | Decolonization, Neocolonialism and Human Rights: Gloria Anzaldúa | variant (word-overlap 0.88) |
+| SRC-M24-004 | https://www.youtube.com/watch?v=x0gfaHous4g | Archives of the Impossible conference / Plenary Lecture: AnaLouise Keating | MISMATCH |
+| SRC-M24-005 | https://www.youtube.com/watch?v=rVxILGE-reI | Ciclo de conferencias: Discusiones de Teoría Sociológica Contemporánea entre México y Estados Unidos | MISMATCH |
+| SRC-M25-003 | https://www.youtube.com/watch?v=j5QVMN2chOI | Philosophy Masterclass 2023 Professor James Warren | variant (word-overlap 0.71) |
+| SRC-M25-004 | https://www.youtube.com/watch?v=AZZ5G8KGM2E | 'EPICURUS FOR TODAY' | consistent |
+
+Title variants (same-event reading likely but wording differs materially;
+resolve on the watch page in the full pass): M08-P10, M08-P16, M08-P19, M08-S05, M14-CFT-01, M14-CFT-01b, M14-CFT-01c, M14-CFT-01d, M23-EX02, M26-C01, SRC-M07-003, SRC-M09-003, SRC-M12-004, SRC-M12-008, SRC-M18-K02, SRC-M21-PP01, SRC-M24-003, SRC-M24-004, SRC-M24-005, SRC-M25-003.
+
+
+Not opened this batch (non-YouTube, 7 records, owed to the next pass):
+
+- SRC-M07-001: https://oyc.yale.edu/psychology/psyc-110/lecture-16
+- SRC-M07-010: https://www.hubermanlab.com/episode/master-your-sleep-and-be-more-alert-when-awake
+- SRC-M07-015: https://greatergood.berkeley.edu/video/item/kristin_neff_on_self_compassion_for_educators_part_1
+- SRC-M07-017: https://www.hubermanlab.com/episode/essentials-tools-for-managing-stress-anxiety
+- SRC-M07-019: https://online.yale.edu/courses/science-well-being
+- M08-S27: https://positiveorgs.bus.umich.edu/videos/belonging-the-science-of-creating-connection-and-bridging-divides/
+- PSY-101: https://the-psychology-lab.vercel.app/
+
+Aggregate: 74 oembed responses, 0 failures; 54 consistent on normalized
+comparison, 20 title variants recorded above, 0 clear identity mismatches
+(no record's platform title names a different event).
+
