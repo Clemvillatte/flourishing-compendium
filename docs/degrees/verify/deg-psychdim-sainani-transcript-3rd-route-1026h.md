@@ -19,7 +19,7 @@ From the transcript (as printed in the search result), mapped against the manife
 
 OUT-OF-WINDOW (NOT clip evidence, not asserted as verified for the sub-item): the trial SETUP numbers (group means 14:45/15:05, SD 31s) appear at ~2:27-3:11, outside all three assigned windows; the Cohen's d 0.65 discussion appears at ~57:51, past the 57:21 window end; the power discussion appears at ~47:06, outside 25:46-44:11. The "18% power" figure belongs to a LATER simulation positing a true −10s effect, not to the observed −20s trial — the receipt's earlier draft conflated these; corrected here.
 
-The in-window evidence establishes that the cherry-juice worked example's CI and t/p calculations ARE the assigned clip's content — the sub-item's core question (does the clip contain the worked example) is answered YES for the in-window portions. The example is a TEACHING EXAMPLE constructed from simulated data, presented as such on-clip.
+The in-window evidence establishes that the cherry-juice worked example's CI and t/p calculations ARE the assigned clip's content — the sub-item's core question (does the clip contain the worked example) is answered YES for the in-window portions. The example is a TEACHING EXAMPLE constructed from simulated data, presented as such by the lecturer ELSEWHERE IN THE LECTURE — the location of that disclosure relative to the assigned windows is NOT established by the transcript timestamps examined, so it is not claimed as in-window clip evidence.
 
 ## What remains unverified
 
