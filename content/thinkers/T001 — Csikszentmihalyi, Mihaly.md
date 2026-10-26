@@ -105,7 +105,6 @@ The quality of a life depends less on what happens than on what a person does wi
 - [[ST118 — The Rock Climbers' Absorption|118. The Rock Climbers' Absorption]]
 - [[ST124 — Dewey Finds Art in the Everyday|124. Dewey Finds Art in the Everyday]]
 - [[ST138 — Flow in the Everyday|138. Flow in the Everyday]]
-- [[ST307 — The Rock Climbers' Absorption|307.  The Rock Climbers' Absorption]]
 
 ### Kernels (0)
 No kernel page names him yet. The kernels closest to his territory:

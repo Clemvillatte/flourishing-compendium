@@ -43,8 +43,6 @@ A musician with some say over rehearsal times could mark one evening as unavaila
 ## Stories
 - [[ST374 — Poincare Leaves the Problem and Returns to Check It|374. Poincare Leaves the Problem and Returns to Check It]]
 - [[ST393 — The Shrine the Nazis Could Not Burn|393. The Shrine the Nazis Could Not Burn]]
-- [[ST411 — The Shrine the Nazis Could Not Burn|411. The Shrine the Nazis Could Not Burn]]
-- [[ST419 — Poincare Leaves the Problem and Returns to Check It|419. Poincare Leaves the Problem and Returns to Check It]]
 ## Psychology parallels
 
 - **[[Psychological detachment|Psychological detachment]]**: one of four recovery experiences distinguished in Sonnentag and Fritz's questionnaire-validation studies ([2007 abstract](https://pubmed.ncbi.nlm.nih.gov/17638488/?dopt=Abstract)).

@@ -28,7 +28,6 @@ The key word is "indirectly". James goes on to say what he means in practice: "t
 
 ## Stories
 - [[ST386 — Duchenne's Two Kinds of Smile|386. Duchenne's Two Kinds of Smile]]
-- [[ST425 — Duchenne's Two Kinds of Smile|425. Duchenne's Two Kinds of Smile]]
 ## Psychology parallels
 
 - **Facial feedback hypothesis**, expression may influence emotional experience, though effect sizes are debated (conceptual parallel; see Strack et al., 1988; Wagenmakers et al., 2016)

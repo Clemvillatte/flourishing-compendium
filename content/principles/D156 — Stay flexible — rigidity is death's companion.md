@@ -45,9 +45,6 @@ The text speaks of bodies, plants, armies and trees. Extending it to opinions an
 - [[ST375 — John Muir Rides the Storm in a Treetop|375. John Muir Rides the Storm in a Treetop]]
 - [[ST384 — The Tree Is Spared; the Goose Is Killed|384. The Tree Is Spared; the Goose Is Killed]]
 - [[ST394 — The Pagoda Sways Like a Willow|394. The Pagoda Sways Like a Willow]]
-- [[ST412 — The Pagoda Sways Like a Willow|412. The Pagoda Sways Like a Willow]]
-- [[ST420 — John Muir Rides the Storm in a Treetop|420. John Muir Rides the Storm in a Treetop]]
-- [[ST423 — The Tree Is Spared; the Goose Is Killed|423. The Tree Is Spared; the Goose Is Killed]]
 - [[ST442 — The Armour and the Question of Safety|442. The Armour and the Question of Safety]]
 ## Psychology parallels
 

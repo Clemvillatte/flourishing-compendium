@@ -288,3 +288,4 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 - 2026-10-26 00:08Z sup-1026b: supervisor baton taken (released); health pass + story-guard work starting.
 - 2026-10-26 00:11Z supervisor-e03fed44: supervisor baton YIELDED to live sup-1026b (claim raced theirs); taking a worker lane.
 - 2026-10-26 00:13Z sup-1026b: story_register title-collision guard landed + tested (50/50); registrations still paused pending duplicate reconciliation.
+- 2026-10-26 00:30Z sup-1026b: duplicate stories reconciled (23 excess removed, 22 kept, ST118 repaired); story_check 22/22; registrations unblocked.

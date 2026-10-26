@@ -24,7 +24,6 @@ The sample was 658 young adults keeping a 13-day daily diary, reporting each day
 - [[P155 — Make workability your everyday criterion]]
 - [[K117 — Graded exposure]]
 - [[K173 — Creative hopelessness]]
-- [[ST307 — The Rock Climbers' Absorption]]
 - [[ST324 — The Four C's]]
 
 ## Related concepts

@@ -242,7 +242,6 @@ The inventory lists every corpus entry that names Socrates. Many of the principl
 - [[ST176 — The Ring of Gyges|176. The Ring of Gyges]]
 - [[ST203 — Socrates as the Stoic Before the Stoics|203. Socrates as the Stoic Before the Stoics]]
 - [[ST392 — Franklin's Speckled Axe|392. Franklin's Speckled Axe]]
-- [[ST430 — Franklin's Speckled Axe|430. Franklin's Speckled Axe]]
 
 ### Thinkers (2)
 - [[T004 — Plato|Plato]]

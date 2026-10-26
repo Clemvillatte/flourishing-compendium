@@ -35,7 +35,6 @@ In the flow model, boredom and anxiety are the two signals of the same misalignm
 - [[ST118 — The Rock Climbers' Absorption|118. The Rock Climbers' Absorption]]
 - [[ST138 — Flow in the Everyday|138. Flow in the Everyday]]
 - [[ST296 — Andrew's Final Solo|296. Andrew's Final Solo]]
-- [[ST307 — The Rock Climbers' Absorption|307. The Rock Climbers' Absorption]]
 - [[ST309 — Jiro Makes Sushi|309. Jiro Makes Sushi]]
 - [[ST310 — Walter Mitty Steps On|310. Walter Mitty Steps On]]
 - [[ST326 — Bob Ross's Happy Accidents|326. Bob Ross's Happy Accidents]]

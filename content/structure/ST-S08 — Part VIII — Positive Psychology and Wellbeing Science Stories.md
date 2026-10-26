@@ -24,7 +24,6 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST 
   - [[ST305 — Amélie's Small Pleasures]]
   - [[ST306 — Tim Lives Each Day Twice]]
 - [[ST-S08.04 — VIII.4 Engagement and Flow]]
-  - [[ST307 — The Rock Climbers' Absorption]]
   - [[ST308 — Deliberate Practice]]
   - [[ST309 — Jiro Makes Sushi]]
   - [[ST310 — Walter Mitty Steps On]]

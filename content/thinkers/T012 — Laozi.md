@@ -228,7 +228,6 @@ The inventory lists every corpus entry that names Laozi. Many of the principles 
 
 ### Stories
 - [[ST394 — The Pagoda Sways Like a Willow|394. The Pagoda Sways Like a Willow]]
-- [[ST412 — The Pagoda Sways Like a Willow|412. The Pagoda Sways Like a Willow]]
 
 ### Sayings
 - [[Beware the moods of the many|Beware the moods of the many]]

@@ -16,13 +16,22 @@ The research programme he built around this studied chess, rock climbing, rock d
 
 > "[a flow activity] provides opportunities for action which match a person's skill, limits the perceptual field, excludes irrelevant stimuli, contains clear goals and adequate means for reaching them, and gives clear and consistent feedback to the actor." ([Csikszentmihalyi, Beyond Boredom and Anxiety, as quoted in the York review](https://www-users.york.ac.uk/~ss44/books/pages/c/MihalyCsikszentmihalyi.htm))
 
-The origin in climbers and other practitioners rather than in patients is part of the story: the book began from lives already organised around the quality of experience.
+The origin in climbers and other practitioners rather than in patients is part of the story: the book began from lives already organised around the quality of experience. Pulling out the commonalities and differences of these activities, as the review puts it, "was what helped define the concept of flow, and its characteristics, in the first place" ([York review](https://www-users.york.ac.uk/~ss44/books/pages/c/MihalyCsikszentmihalyi.htm)).
 
 
 
-**Principles:** [[P073 — See conduct as interaction|P073 See conduct as interaction]], [[P075 — Treat habits as will|P075 Treat habits as will]]
-**Resonates:** [[D057 — Enter flow|D057 Enter flow]], [[PP018 — Calibrate challenge to skill|PP018 Calibrate challenge to skill]]
+**Principles:**
+- [[P073 — See conduct as interaction|P073 See conduct as interaction]] — conduct as skilled interaction, visible in the climber's moves.
+- [[P075 — Treat habits as will|P075 Treat habits as will]] — absorption built by practice, not by a decision to be absorbed.
+
+**Resonates:**
+- [[D057 — Enter flow|D057 Enter flow]]
+- [[PP018 — Calibrate challenge to skill|PP018 Calibrate challenge to skill]]
 
 ## Related thinkers
 
 - [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+
+## Sources
+- [Csikszentmihalyi, Beyond Boredom and Anxiety — review with quoted definition (p182)](https://www-users.york.ac.uk/~ss44/books/pages/c/MihalyCsikszentmihalyi.htm) — the flow-activity definition, the four activities
+- [Mihaly Csikszentmihalyi — Wikipedia](https://en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi) — the author and the research programme

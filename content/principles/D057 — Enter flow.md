@@ -47,7 +47,6 @@ The knife passage carries the story's account of long practice: after nineteen y
 - [[ST125 — Maslow and the Peak Experiences|125. Maslow and the Peak Experiences]]
 - [[ST138 — Flow in the Everyday|138. Flow in the Everyday]]
 - [[ST183 — Beth Harmon and the Ceiling|183. Beth Harmon and the Ceiling]]
-- [[ST307 — The Rock Climbers' Absorption|307. The Rock Climbers' Absorption]]
 - [[ST324 — The Four C's|324. The Four C's]]
 - [[ST325 — The Two-Year-Old and the Blocks|325. The Two-Year-Old and the Blocks]]
 ## Practice kernels

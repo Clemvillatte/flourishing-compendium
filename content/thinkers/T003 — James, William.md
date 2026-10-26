@@ -165,11 +165,8 @@ The page keeps to the corpus entries that substantively draw on James; other tra
 - [[ST347 — The First Act of Free Will|347. The First Act of Free Will]]
 - [[ST348 — Tolstoy Hides the Rope|348. Tolstoy Hides the Rope]]
 - [[ST350 — The Measure of Chance|350. The Measure of Chance]]
-- [[ST369 — Tolstoy Hides the Rope|369. Tolstoy Hides the Rope]]
 - [[ST390 — The Tinker's Chains Fall Off in a Field|390. The Tinker's Chains Fall Off in a Field]]
 - [[ST398 — The Boys with the Tin Lanterns|398. The Boys with the Tin Lanterns]]
-- [[ST410 — Tolstoy Hides the Rope|410. Tolstoy Hides the Rope]]
-- [[ST428 — The Tinker's Chains Fall Off in a Field|428. The Tinker's Chains Fall Off in a Field]]
 
 ### Kernels (0)
 No kernel page names William James; the surname scan's hits are other Jameses (James Clear in [[K185 — The two-minute rule|K185]], James Pennebaker in [[K245 — Expressive writing|K245]]).

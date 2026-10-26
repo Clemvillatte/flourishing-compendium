@@ -79,7 +79,6 @@ The weekly protected hour: one activity, one clear goal, feedback visible in the
 these are the conditions that enable full attentional absorption (Csikszentmihalyi, 1990).
 - [[AT026 — Learn to enter flow — the state of full attentional absorption]]
 - [[MO060 — Recognise the role of flow in motivated well-being]]
-[[ST307 — The Rock Climbers' Absorption]]
 [[D057 — Enter flow]]
 [[P173 — Engineer absorption]]
 [[ST118 — The Rock Climbers' Absorption]]

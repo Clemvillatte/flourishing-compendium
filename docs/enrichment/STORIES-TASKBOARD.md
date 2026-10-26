@@ -107,3 +107,16 @@ refusal + different-title passes + no-write on refusal); test_story_tools.py
 50/50. Registrations stay PAUSED until the 22-title/23-excess reconciliation
 below is executed; the guard prevents NEW duplicates meanwhile. Inventory of
 all 22 groups recorded in the reconciliation pass notes.
+
+## DUPLICATES RECONCILED (2026-10-26 00:30Z, supervisor-pplx-1026b)
+All 23 excess copies removed; each of the 22 titles keeps its FIRST-REGISTRATION
+ST number (which in every group is also the better-repaired copy — e.g. ST348
+Tolstoy has the closeout citations, ST118 Rock Climbers the verified quote).
+Removed per copy: story file, _order.json entry, book-structure line, and all
+backlink bullets elsewhere in content/ (31 files, 68 lines). ST118 additionally
+repaired to pass story_check published (bullet Principles, ## Sources with the
+York review, +1 grounded sentence from that review). story_check: 22/22 kept
+copies ok; build 5928 entries (5951 - 23, arithmetic checks out); dangling-ref
+scan clean. REGISTRATIONS UNBLOCKED: guard landed + duplicates reconciled, so
+supervisor registration batches may resume per PROTOCOL-STORIES (entry checks
+apply; the register tool now refuses any already-published title).

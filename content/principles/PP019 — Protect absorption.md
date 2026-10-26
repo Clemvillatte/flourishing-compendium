@@ -30,7 +30,6 @@ In nearly half the samples, people were thinking about something other than what
 
 ## Stories
 
-- [[ST307 — The Rock Climbers' Absorption|307. The Rock Climbers' Absorption]]
 - [[ST309 — Jiro Makes Sushi|309. Jiro Makes Sushi]]
 ## Psychology parallels
 

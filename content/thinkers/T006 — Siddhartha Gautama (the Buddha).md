@@ -152,11 +152,6 @@ The page keeps the B principles plus entries from other books citing the suttas 
 - [[ST405 — Angulimala Is Told to Bear the Stones|405.  Angulimala Is Told to Bear the Stones]]
 - [[ST406 — The Old Cart at Beluva|406.  The Old Cart at Beluva]]
 - [[ST407 — Six Monks Answer in the Brick Hall|407.  Six Monks Answer in the Brick Hall]]
-- [[ST415 — The Blind Men and the Elephant|415.  The Blind Men and the Elephant]]
-- [[ST421 — Meghiya Finds the Right Grove and the Wrong Thoughts|421.  Meghiya Finds the Right Grove and the Wrong Thoughts]]
-- [[ST426 — Ciñcā Accuses the Buddha Before the Assembly|426.  Ciñcā Accuses the Buddha Before the Assembly]]
-- [[ST427 — The Ladder for Unskillful Thoughts|427.  The Ladder for Unskillful Thoughts]]
-- [[ST429 — Backsliding into Abundance|429.  Backsliding into Abundance]]
 
 ### Sayings (0)
 No saying is attributed to Gautama. The scan's two hits are scan-closure, not attribution: [[The finger pointing at the moon|The finger pointing at the moon]] (its page sources it to the Zen tradition) and [[The sage teaches without words|The sage teaches without words]] (its page sources it to [[T012 — Laozi|Laozi]], Daodejing 2).

@@ -227,7 +227,6 @@ The corpus has no separate Dewey book; his principles live in the pragmatist (P)
 ### Stories (3)
 - [[ST349 — The Sand-Table Farm|349.  The Sand-Table Farm]]
 - [[ST383 — Half an Hour with Cotton Seeds|383.  Half an Hour with Cotton Seeds]]
-- [[ST422 — Half an Hour with Cotton Seeds|422.  Half an Hour with Cotton Seeds]]
 
 ### Kernels (1)
 - [[K328 — Aesthetic attention|Aesthetic attention]]

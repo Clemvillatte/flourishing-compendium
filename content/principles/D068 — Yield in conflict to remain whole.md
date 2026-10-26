@@ -43,7 +43,6 @@ If a colleague misstates your work in a meeting, correct the relevant fact witho
 - [[K216 — Nonviolent communication|K216 Nonviolent communication]]
 ## Stories
 - [[ST385 — Han Xin Crawls Beneath the Butcher's Youth|385. Han Xin Crawls Beneath the Butcher's Youth]]
-- [[ST424 — Han Xin Crawls Beneath the Butcher's Youth|424. Han Xin Crawls Beneath the Butcher's Youth]]
 ## Psychology parallels
 
 - **[[Soft startup|Soft startup]]**, how a conflict discussion begins predicts the couple's trajectory over six years (Carrere and Gottman, 1999)

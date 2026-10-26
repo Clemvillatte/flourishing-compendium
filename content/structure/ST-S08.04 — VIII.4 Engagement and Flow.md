@@ -10,7 +10,6 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST 
 ---
 ## Stories
 
-- [[ST307 — The Rock Climbers' Absorption]]
 - [[ST308 — Deliberate Practice]]
 - [[ST309 — Jiro Makes Sushi]]
 - [[ST310 — Walter Mitty Steps On]]

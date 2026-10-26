@@ -30,7 +30,6 @@ A pianist records each rehearsal of a hard passage and listens back for uneven r
 ## Stories
 
 - [[ST183 — Beth Harmon and the Ceiling|183. Beth Harmon and the Ceiling]]
-- [[ST307 — The Rock Climbers' Absorption|307. The Rock Climbers' Absorption]]
 - [[ST308 — Deliberate Practice|308. Deliberate Practice]]
 - [[ST309 — Jiro Makes Sushi|309. Jiro Makes Sushi]]
 - [[ST310 — Walter Mitty Steps On|310. Walter Mitty Steps On]]
