@@ -50,6 +50,14 @@ Per-degree remaining items (from the supervisor's reviews and release lines):
   module-derived data.
 - deg-psychdim (CLOSEST — first degree online): ALL MODULES PASS and
   WHOLE-DEGREE QC PASS (supervisor 1026h; review
+- FLAG FOR BUDDHISM LANE (supervisor 1026h): the b1-b8 status lines
+  repaired at b63c2d3 (08:02Z) say "whole-degree gate PASS refreshed"
+  — that phrase predates the gate withdrawal (7de0869, 08:06Z) and now
+  OVERSTATES the state (the refresh is incomplete; the centering delta
+  chain inspection is owed). Recommend the lane soften those status
+  lines to "whole-degree QC PASS; gate re-scoped, completion owed"
+  (status-line-only repair, hash re-verification per the 9b124fa
+  precedent) or update them when the complete gate verdict issues.
 - SESSION STATE SUMMARY (supervisor/gate 1026h, 2026-10-26 ~08:09Z):
   psychdim PUBLISHED. daoism: QC PASS (1026a) + whole-degree gate
   PASS (1026h, independent) — ready for deg-integrate (use the
