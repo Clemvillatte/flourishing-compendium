@@ -14,8 +14,10 @@ is broken or every confident thought must be true.
 ## Entry, outcomes and source route
 
 Level: L2, Guided application. Bring M1's distinction between observation
-and interpretation and M2's description of an emotion, a goal and a
-revisable response. You need no mathematics or clinical vocabulary.
+and interpretation and M2's description of an emotion, its three function
+levels, a goal and a revisable response. You should also be able to compare
+M2's two accounts without pretending to settle them. No mathematics or
+clinical vocabulary is needed.
 
 By the end, you can:
 
@@ -104,6 +106,24 @@ and consequence in the second. A plausible answer names both terms.
 "The café conditioned them" is too vague. Neither answer requires you
 to reproduce the situation, reward someone, or create an aversive cue.
 
+Compare two explanations of the same learning question. Suppose a sound
+already predicts an event reliably. A new light is then paired with that
+sound and event. Is repeated pairing alone enough to explain learning
+about the light? A simple pairing-sufficiency explanation predicts
+learning from those pairings; a prediction-error account asks whether
+the event supplies any new information. Bouton explains why an outcome
+being surprising matters, rather than merely occurring again
+([assigned paragraph](https://nobaproject.com/modules/conditioning-and-learning)).
+
+Worked comparison: "Both explanations concern the added light. They
+disagree over whether contiguity alone is sufficient; the second requires
+an error in prediction. The lecture's introductory pairing description
+is therefore not the complete learning rule." Replace sound/light with
+two hypothetical reminder cues and complete the comparison. Feedback:
+name what is already predicted, the newly added cue and the disagreement.
+Classical and operant conditioning themselves concern different learned
+relations, not these two accounts of the same question.
+
 ## Perception is an interpretation with constraints
 
 Watch lecture 7's perception chapter. Bloom illustrates how assumptions
@@ -119,6 +139,24 @@ AI. Likewise, treat its visual illusions as examples under their specific
 conditions, not a reason to distrust a person reporting an experience
 ([historical lecture context](https://oyc.yale.edu/psychology/psyc-110/lecture-7)).
 
+Work a visual explanation before making the analogy. In the Ponzo
+display discussed in the clip, two physically equal horizontal lines
+sit between converging lines resembling a receding track. Bloom's
+depth-cue explanation is that linear perspective suggests the upper
+line is farther away; interpreting equal projected extent at a greater
+distance can make it look larger. It is an explanation of the displayed
+conditions, not a claim that every size illusion has only one mechanism
+([Ponzo and perspective discussion in the assigned chapter](https://www.youtube.com/watch?v=DmWrOUK2zgA&t=1086)).
+
+For a text-accessible version, use that description as the display:
+equal projected horizontal lengths, converging background, upper line
+interpreted as farther away. Explain which cue suggests distance and
+how that changes inferred size; seeing an illusion personally is not
+required. Completion: "The lines are equal in ___; the converging
+background supplies ___; the farther interpretation changes ___."
+Feedback: physical/projected extent, a linear-perspective cue, inferred
+size. "My eyes are broken" explains neither the cue nor the conditions.
+
 Here is a fully worked transfer that does not depend on seeing an image.
 A colleague writes, "That was an interesting choice." Mara interprets
 it as criticism after a tense meeting, but cannot hear tone in the text.
@@ -133,7 +171,7 @@ that could distinguish them. Feedback: the message gives a request to
 talk, not its purpose; planning or a concern are both possible. "Is there
 anything I should prepare?" requests information rather than merely
 repeating a feared interpretation. This is also the text-accessible
-alternative if the lecture's visual displays are inaccessible.
+additional transfer, not a replacement for the visual-cue explanation.
 
 ## Memory has kinds and stages
 
@@ -215,6 +253,15 @@ between abstract, decontextualised processing and more concrete,
 context-specific processing
 ([Ehring, RNT definition and processing-mode paragraphs](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/)).
 
+Practise matching evidence to the five features. For the fictional
+sentence "Mara keeps returning to the same negative question," repetition
+is supplied. Whether it arrives unwanted, is hard to disengage from,
+feels unproductive, or captures working capacity is not supplied.
+Make a five-row table of feature, evidence and unknown. Feedback:
+one feature can be supported while the other four remain unknown;
+negative topic alone is not the whole process definition. Do not
+complete a checklist by inventing Mara's experience.
+
 These research descriptions are not a self-diagnosis. A difficult question
 that returns to mind is not, just by recurring, evidence of a disorder.
 For an educational exercise, contrast "Why does everything always go
@@ -262,12 +309,16 @@ completed a course, while another description says 30 percent did not.
 Sam repeatedly thinks "Why am I always hopeless?" No clinical history,
 causal experiment or complete comparison dataset is supplied.
 
-Submit a 700–900-word case analysis, with:
+Submit a 900–1,100-word case analysis, with:
 
 - **Relations:** a proposed cue–event and action–consequence relation,
   including the observation needed before claiming a learning history.
+  Add a hypothetical already-predicted outcome and a new cue; compare
+  pairing sufficiency with prediction error and state the disagreement.
 - **Interpretation:** distinguish the saved words from Sam's recalled
-  interpretation; give a non-accusatory information check.
+  interpretation; give a non-accusatory information check. Separately
+  explain the described Ponzo display's cue, equal lengths and size
+  inference. Use the verbal display if needed.
 - **Memory:** name the three kinds and stages with examples; propose
   one meaningful encoding cue and a later retrieval check.
 - **Judgment:** restate the course claim in both frames, say what
@@ -277,17 +328,30 @@ Submit a 700–900-word case analysis, with:
 - **Source appraisal:** attribute Ehring's experimental claim, name
   three missing primary-study details and why they matter, and
   distinguish abstract from more concrete processing without a
-  treatment promise.
+  treatment promise. Map all five RNT features to Sam-case evidence
+  or unknowns, keeping the topic distinct from the thinking process.
+
+Add a private transfer note for each family: learning, perception,
+memory, judgment and recurring thought. Choose an ordinary, low-stakes
+lived instance; identify what the framework helps you understand or
+choose, and what remains uncertain. Keep identifying details to yourself.
+A shareable version may replace them with placeholders while retaining
+the reasoning. If no recurring-negative-thought instance is suitable,
+say so and apply its process/content distinction to an ordinary recurring
+question without claiming it meets the RNT definition. You do not have
+to disclose a painful episode or demonstrate improvement.
 
 | Criterion | Pass | Revise |
 |---|---|---|
-| Learning | Distinguishes the two proposed relations and limits inference. | Treats any repetition or single episode as proof of conditioning. |
-| Perception/interpretation | Keeps observation and interpretation distinct; requests discriminating information. | "All perception is wrong" or mind-reading. |
+| Learning | Distinguishes relations, limits inference and compares pairing sufficiency with prediction error. | Repetition alone as proof, or no same-question disagreement. |
+| Perception/interpretation | Explains the display's perspective cue and size inference; distinguishes message observation from interpretation. | No depth cue, "all perception is wrong," or mind-reading. |
 | Memory | Correct kinds/stages, meaningful cue, honest retrieval limit. | Treats recall failure as proof of erased storage or promises perfect memory. |
 | Judgment | Checks equivalent information and designs a specific countercheck. | Bias label alone, assumed equivalence, or opposite opinion treated as automatically true. |
-| RNT and evidence | Process/content distinction; source-limited appraisal with named missing details. | Invented experiment statistics, diagnosis, or a claim that rewriting treats distress. |
+| RNT and evidence | Five features mapped to evidence/unknown; process/content distinction; source-limited appraisal. | Assumed features, invented study details, diagnosis or treatment promise. |
 
-All five criteria must pass; revise the failed portions after checking
+All five criteria must pass. Each private-transfer note must contain
+an instance, a useful understanding/choice and a remaining uncertainty;
+disclosure and emotional change are not graded. Revise failed portions after checking
 the worked examples. A passing evidence answer can say "not reported"
 with reasons; it need not manufacture a complete study appraisal.
 An answer inventing a randomised sample and numerical effect must fail.
@@ -295,10 +359,13 @@ An answer inventing a randomised sample and numerical effect must fail.
 After a day or a different activity, recall the three memory stages and
 give one observation/interpretation distinction without notes. Correct
 the account, then retrieve one condition that would make a judgment
-check inconclusive. You can use fictional material throughout.
+check inconclusive. The main case remains fictional; personal transfer
+notes can stay private or use redacted details.
 
-You are ready for M4 when you can use this vocabulary in a new case,
-design a check and state the limits of the source in front of you.
+You are ready for M4 when you can explain a visual illusion by its depth
+cue, distinguish memory kinds/stages, compare the learning explanations,
+design a judgment check, map RNT features without invented evidence,
+and state a commentary's source limits.
 M4 narrows the focus to attention; it does not require clinical
 screening, a better mood or successful self-treatment.
 
@@ -313,11 +380,11 @@ additional required viewing.
 The short external readings total about **1,140 words**. At 130 words
 per minute and three times raw reading for study, they take about
 27 minutes; allow **30 minutes** including finding the selections.
-Allow **35 minutes**
-for this lesson's explanations and examples, **45 minutes** for
+Allow **45 minutes**
+for this lesson's explanations and examples, **55 minutes** for
 completion practice and counterchecks, **20 minutes** for delayed
-retrieval/correction, and **70 minutes** for the independent analysis
-and one revision. Total: **about 4 hours 20 minutes**, 260 planned
+retrieval/correction, and **80 minutes** for the independent analysis,
+private transfer and one revision. Total: **about 4 hours 50 minutes**, 290 planned
 minutes. These are estimates; optional wider reading is not counted.
 
 | Outcome | Teaching | Feedback-bearing practice | Evidence in final task |

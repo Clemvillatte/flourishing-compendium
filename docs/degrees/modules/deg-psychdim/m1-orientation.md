@@ -1,8 +1,9 @@
 # m1-orientation: The Mind Across Six Dimensions (deg-psychdim)
 
-<!-- STATUS: DRAFT, NOT CLEARED. Production authorized by owner decision 6.
+<!-- STATUS: MODULE-QC PASS, supervisor-49bf153e-1026, 2026-10-26.
+Independent decision at cdb8f0939; complete-degree/publication gates owed.
 Video-first substitution evidence: ledgers/deg-psychdim.md and
-verify/deg-psychdim-m1-literacy-video-49bf153e.md. Independent module QC owed. -->
+verify/deg-psychdim-m1-literacy-video-49bf153e.md. -->
 
 First module of Psychological Dimensions. The degree follows one question
 through eight modules: what do psychologists currently know about the
@@ -550,8 +551,8 @@ Woolley excerpt is part of the required reading budget above.
 
 | Outcome | Taught in | Practised in | Assessed in |
 |---|---|---|---|
-| 1 Six dimensions | Step 1 readings; Step 2 teaching, Jordan case and taught reflection | Retrieval activity 1 (two closed-book attempts) | Rubric criterion 1 (definitions deliverable) |
-| 2 VSR-C frame | Step 1 readings; Step 2 Jordan case | Retrieval activity 2 | Rubric criterion 2 (definitions deliverable) |
-| 3 Levels of analysis | Step 1 readings; Step 2 levels paragraph | Levels exercise | Rubric criterion 3 (levels exercise) |
+| 1 Six dimensions | Step 1 video; Step 2 teaching, Jordan case and taught reflection | Retrieval activity 1 (two closed-book attempts) | Rubric criterion 1 (definitions deliverable) |
+| 2 VSR-C frame | Step 1 video; Step 2 Jordan case | Retrieval activity 2 | Rubric criterion 2 (definitions deliverable) |
+| 3 Levels of analysis | Step 1 video; Step 2 levels paragraph | Levels exercise | Rubric criterion 3 (levels exercise) |
 | 4 Study appraisal | Step 3 Sainani clips, ASA anchor and bounded Noba reading; Step 4 worked example with magnitude move | Step 3 pauses; Step 4 faded practice | Rubric criterion 4 (appraisal deliverable) |
 | 5 Scope statement | Bounded domain section | Drafting in the graded activity | Rubric criterion 5 (scope deliverable) |

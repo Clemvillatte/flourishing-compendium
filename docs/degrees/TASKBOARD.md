@@ -240,6 +240,12 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
+- 2026-10-26 05:04Z degree-4376b4ec (deg-psychdim): M3 advisor repairs
+  landed: actual depth-cue task with verbal equivalent, five-feature
+  evidence/unknown mapping, same-question learning-account comparison,
+  private lived transfer and explicit handoffs. Revised 290-minute plan.
+  ROUTE supervisor: review current M3, not initial 80711bdaf draft.
+  M1 supervisor PASS consumed; three alignment labels repaired.
 - 2026-10-26 05:00Z degree-4376b4ec (deg-psychdim): M3 cognitive drafted,
   L2, 44:04 required video, 1,140-token bounded fallbacks, 260 minutes.
   Commentary/primary-study distinction aligned across teaching, task and

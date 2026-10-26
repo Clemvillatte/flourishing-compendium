@@ -2665,3 +2665,29 @@ completion/counterchecks 45; delayed retrieval 20; unseen final analysis
 and revision 70. Total **260 minutes**. Transcript substitutes for the
 same video segments. Optional wider source exploration excluded.
 Independent advisor review commissioned; supervisor module-QC owed.
+
+M1 independent supervisor decision consumed at 05:02Z:
+`reviews/deg-psychdim-m1-supervisor-2026-10-26.md` records **MODULE-QC
+PASS** on production commit **cdb8f0939**, module SHA-256
+**0c9682e9947e70323ef6f095a86f6e94ab984df7f90bed95e2ff24bb8fb40439**.
+Requested nonblocking alignment-map wording repair applied: three stale
+"Step 1 readings" labels now name the Step 1 video. This records another
+agent's decision; no degree, readiness, integration or publication gate
+is inferred. M2/M3 remain draft.
+
+M3 advisor round 1 repairs applied at 05:04Z. Four bounded findings:
+visual-cue assessment, explicit five-feature RNT application, same-question
+L2 account comparison, and binding lived transfer. Added a worked Ponzo
+linear-perspective explanation with equivalent verbal display and feedback;
+added feature/evidence/unknown mapping (no invented Sam features); compared
+simple pairing-sufficiency with Bouton's prediction-error account;
+added five private/redactable low-stakes lived-transfer notes, assessed
+for usefulness/choice and uncertainty rather than disclosure or change.
+M2 entry and M4 exit now match the observable scope spine.
+Advisor independently opened Yale's actual iframe and the new recording,
+and corroborated the two learning windows by continuous transcript.
+No playback claim. The prior 260-minute estimate is superseded by **290**:
+60 video + 30 external reading + 45 lesson teaching + 55 completion/
+counterchecks + 20 delayed retrieval + 80 assessment/transfer/revision.
+Extra scaffolding and transfer are explicitly budgeted. Module remains
+DRAFT, NOT CLEARED; supervisor independent review requested.
