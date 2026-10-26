@@ -1,8 +1,8 @@
 # QC sample — deg-wol-buddhism-four-truths-source-boundaries.md (Dreyfus session plan)
 
 **Worker**: worker-pplx-verify-1026g, deg-verify-b baton, verification lane
-(read-only on modules/ledgers). **Date**: 2026-10-26T10:08Z measured clock
-(~45m elapsed of the 60m run). **Scope**: independent re-verification of the
+(read-only on modules/ledgers). **Date**: 2026-10-26T10:07Z measured clock
+(~44m elapsed of the 60m run; stamp corrected from a miswritten 10:08Z). **Scope**: independent re-verification of the
 receipt's Dreyfus-video transcript findings (DLPsIhDWZp4) on a third-party
 transcript route. The SuttaCentral, Harvey and Williams-catalogue claims
 rest on that verifier's own opens and were not re-opened here.
