@@ -389,3 +389,12 @@ checks against the Eno text:
 - m2 assigns the same Ziporyn segments as m1 (21:34 total; 0:00:00-
   0:12:13, 0:15:20-0:17:00, 0:26:15-0:33:56) — matches the corrected
   round-4 segment list in the m1 ledger.
+
+### m2 credential corroboration (2026-10-26T05:10Z)
+
+- Ziporyn's institutional credentials on the University of Chicago
+  Divinity School directory page (https://divinity.uchicago.edu/directory/
+  brook-ziporyn, opened this pass): "Mircea Eliade Professor of Chinese
+  Religion, Philosophy, and Comparative Thought; also in the College",
+  PhD University of Michigan. Corroborates m2's credential claim and
+  the m1 receipt's credentials basis.
