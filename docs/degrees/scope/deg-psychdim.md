@@ -4,7 +4,10 @@ WALK OF LIFE series (owner directive, 2026-10-25). Status: PROPOSAL by the
 strategist, benchmarked by the degree owner on 2026-10-25; Gate-1 review
 2026-10-26 returned it with two blocking repairs (centering; elective
 branches), applied by the degree owner on 2026-10-26 — see the ledger's
-Gate-1 section. Re-review pending.
+Gate-1 section. Re-review (2026-10-26) verified both repairs applied and
+returned one outstanding item (the language elective, admitted on topical
+fit); that item is resolved by exclusion (see Bounded domain and the
+ledger); final confirmation from the deg-gate reviewer is pending.
 
 CENTERING (owner's 2026-10-26 binding clause): this degree is centered on
 the WALK OF LIFE / philosophy-of-life frame and serves one value
@@ -34,7 +37,8 @@ habit) often mislead exactly the people trying to change.
 
 - Can read an episode of their own suffering or flourishing across the
   six EEMM dimensions (affect, cognition, attention, self, motivation,
-  overt behaviour) and name which process is doing the work, so the
+  overt behaviour) and ask which processes and circumstances may be
+  involved, so the
   dimensions function as levers on their own walk of life rather than
   as exam categories.
 - Can read current research critically (design, evidence type, effect
@@ -129,8 +133,11 @@ Findings:
   ([Barrett et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12164598/))
   and the motivational dimension a 2025 study
   ([Woolley et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/)).
-  The SDT (2020) and habits (2018) anchors predate 2021; refresh during
-  module production.
+  The SDT (2020) and habits (2018) anchors predate 2021; the habits
+  anchor is refreshed in the matrix with Singh et al. 2024, and a 2022
+  SDT meta-review recency candidate is opened, verified and recorded in
+  the ledger for M6 (matrix adoption is an M6 production decision,
+  held with production).
 
 SUPERSESSION NOTE (2026-10-26): this Benchmark section records the
 2026-10-25 benchmarking round and is preserved as history; where it
