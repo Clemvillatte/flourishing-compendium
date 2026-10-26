@@ -22,7 +22,7 @@ Fetched carrier pages:
 - Constant, "Des réactions politiques" (right-speech, 1 span): the French sentences are printed in several opened pages that quote the 1796 text (atelierphilo.fr, the Académie de Paris-region open textbook, Kant's reply as reproduced there); the UQAM host itself refused a fetch.
 - Davidson, "How Is Weakness of the Will Possible?" (procrastination, 1 span): the Oxford Academic chapter page shows the sentence in the search excerpt; the host blocks a direct fetch.
 
-## Second pass (38 more spans verified, 19 remain)
+## Second pass (41 more spans verified, 16 remain)
 
 Agent worker-pplx-dosr6-1026r, 2026-10-26 (about 09:55Z). Supervisor post-review requested.
 
@@ -38,9 +38,11 @@ Agent worker-pplx-dosr6-1026r, 2026-10-26 (about 09:55Z). Supervisor post-review
 
 - Primary-text pages opened and matched (10 spans): Kathavatthu I.1 (right-view; Aung and Rhys Davids scan text on archive.org), Nagarjuna MMK 15.1-2 (right-view; the Kalupahana scan has an OCR text layer, the two verses are present with scrambled line order and OCR errors, so this one is matched by eye and not character for character), Fromm, Escape from Freedom (freedom), Epicurus, Letter to Menoeceus (impermanence), Festinger on dissonance (cognition), Spinoza Ethics III Definition of Emotions II (happiness), Analects 14.34 (others, 2 spans), Seneca Letter 63 (sadness-and-grief, first sentence), Mencius Teng Wen Gong II (others).
 
-No wrong quote found. The remaining 19 spans are mostly book passages on hosts that block direct fetch or OCR text layers (creation, right-view, right-intention, procrastination Mele and Holton passages, others). None is suspected wrong.
+- Three more (cognition 2, right-speech 1): Tversky and Kahneman 1974 abstract on the Science page (the dossier spells "judgments", as Science does; the PubMed record normalises to "judgements", which is why the PubMed text differs); Gigerenzer 1996, Psychological Review, PDF text layer (two-column layout splits "post-hoc" across a column break, wording otherwise verbatim); Kant, On a Supposed Right to Lie, SciELO Colombia page (Gregor translation, with the German terms in italic markup and bracket entities that the checker does not strip).
 
-## Not re-verified in the first pass (57 spans, 38 since cleared above)
+No wrong quote found. The remaining 16 spans are mostly book passages on hosts that block direct fetch or OCR text layers (creation, right-view, right-intention, procrastination Mele and Holton passages, others). None is suspected wrong.
+
+## Not re-verified in the first pass (57 spans, 41 since cleared above)
 
 These remain as before. Many are documented in the dossier ledgers (cognition six OCR and blocked-host spans; the-self Milinda; wisdom four spans in the QC receipt above; goals AOM span in the supervisor note), but I did not re-open their sources today: attention 2; creation 6; creativity 4 (Lagged multilevel, Schumpeter, Zarathustra spans); executive-functions 2; freedom 1 (Fromm); gratitude 7; happiness 1 (Spinoza); impermanence 1 (Epicurus); lifes-purpose 7; meaning-and-mortality 1; others 3; procrastination 2; right-intention 2; right-livelihood 1; right-speech 1 (Kant, scielo); right-view 2; sadness-and-grief 1 (Seneca); suffering 1; the-self 1; wisdom 4; cognition 6; goals 1.
 
