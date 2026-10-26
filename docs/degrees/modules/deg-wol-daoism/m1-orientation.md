@@ -60,8 +60,8 @@ the tradition rather than about scholarship about the tradition.
 1. [Lundao 1: The Daoist Tradition 道 統](https://www.youtube.com/watch?v=_12aeIvlHhM),
    by Louis Komjathy (1:13:54; Daoist Foundation channel; captions
    available on the watch page; key moments with timestamps printed
-   on the watch page). Watch these assigned segments, about 25 minutes
-   in total, matched to the talk's own printed key moments:
+   on the watch page). Watch these assigned segments, 13:22 in total,
+   matched to the talk's own printed key moments:
    - 0:01:17 to 0:10:35 (Remembering the Sacred through the etymology
      section): Komjathy's framing of Taoism as an indigenous Chinese
      and now global tradition, the tradition's religious character,
@@ -69,11 +69,11 @@ the tradition rather than about scholarship about the tradition.
    - 0:20:02 to 0:24:06 (Indigenous Chinese Names for Taoism through
      The Teaching beyond or without Words): the tradition's own names
      for itself and the wordless teaching.
-   Then do Retrieval pause A below. The remaining key moments are
-   optional further viewing for this module; the talk's later sections
-   (inner cultivation lineages, monasticism, internal alchemy, the
-   lineages and the practice models) are taken up in the degree's
-   later modules.
+   After watching the two assigned segments, do Retrieval pause A
+   below. The remaining key moments are optional further viewing for
+   this module; the talk's later sections (inner cultivation
+   lineages, monasticism, internal alchemy, the lineages and the
+   practice models) are taken up in the degree's later modules.
 
 The talk introduces Daoism as an indigenous and global tradition.
 Komjathy is a scholar-practitioner: he studies the tradition
@@ -83,13 +83,12 @@ practice held together, is worth noticing as you watch; it is the
 posture this whole walk asks of you too, reading with your life
 attached rather than only your mind.
 
-Retrieval pause A (after the first viewing stop, before watching the
-remainder): from memory, write two or three sentences restating the
-distinction Komjathy draws between the source tradition (Chinese
-Taoism, an indigenous Chinese religious tradition) and global
-Taoism, and one thing about that distinction you are not yet sure
-you understand. Keep what you write; it is practice and is not
-submitted.
+Retrieval pause A (after the assigned Komjathy segments): from
+memory, write two or three sentences restating the distinction
+Komjathy draws between the source tradition (Chinese Taoism, an
+indigenous Chinese religious tradition) and global Taoism, and one
+thing about that distinction you are not yet sure you understand.
+Keep what you write; it is practice and is not submitted.
 
 ### Step 2: the four working terms, taught (Outcome 2)
 
@@ -121,9 +120,10 @@ full, and yangsheng is taken up in module 4.
   qualifies it as "more complicated" than techniques alone: "it's a
   fuller sense of what we do to nourish life, to tend to our
   foundational vitality and our core aliveness", and "caring for or
-  tending to life" ([Lundao 5, Komjathy](https://www.youtube.com/watch?v=WDwPln1CczI),
-  assigned in full in module 4; here the definition is used with
-  its locator, the full lecture is not assigned in this module).
+  tending to life"
+  ([Lundao 5 transcript, passage beginning "Now I want to discuss
+  Daoist yangsheng, or nourishing life"](https://youtubetotranscript.com/transcript?v=WDwPln1CczI&current_language_code=en);
+  the lecture itself is assigned in full in module 4, not here).
 
 Each term gets one example from ordinary life, so you can see how the
 term works in practice. These examples are illustrations, not findings;
@@ -174,8 +174,8 @@ lecture (it gives you the concepts in their strongest form).
    own channel; produced by Homework Productions for China Central
    Television, with interviews including Michael Puett and Misha
    Tadd; chapter timestamps printed in the description). Watch these
-   assigned segments, about 30 minutes in total, matched to the
-   documentary's own printed chapters:
+   assigned segments, 21:53 in total, matched to the documentary's
+   own printed chapters:
    - 0:00:00 to 0:17:17 (Introduction; Laozi and His Historical
      Context): the opening on intelligence and wisdom, Laozi as a
      legendary figure, the Daodejing's textual history, the earliest
@@ -184,13 +184,13 @@ lecture (it gives you the concepts in their strongest form).
    - 0:29:44 to 0:34:20 (Laozi, the Martial Arts, and Wúwéi): the
      documentary's treatment of wu wei, leadership, strength and
      water, including the Bruce Lee "be water" discussion.
-   Then do Retrieval pause B below. The chapters the module does not
-   assign (Laozi and Modern Science, Laozi and Politics, Laozi,
-   Heavy Metal, and Taijichuan, Laozi, Translations, and the
-   Counterculture Movement, Laozi Today) are optional further
-   viewing for this module; the module assigns only what serves its
-   outcomes, and the degree's later modules take up the practice and
-   reception material.
+   After watching the two assigned segments, do Retrieval pause B
+   below. The chapters the module does not assign (Laozi and Modern
+   Science, Laozi and Politics, Laozi, Heavy Metal, and Taijichuan,
+   Laozi, Translations, and the Counterculture Movement, Laozi
+   Today) are optional further viewing for this module; the module
+   assigns only what serves its outcomes, and the degree's later
+   modules take up the practice and reception material.
 3. [Why This Text Matters: Daodejing](https://www.youtube.com/watch?v=EJ1bB2w2gBk),
    by Brook Ziporyn (0:53:36 total; University of Chicago Divinity
    School channel; full chapter timestamps printed on the watch page).
@@ -207,23 +207,27 @@ lecture (it gives you the concepts in their strongest form).
      dirt).
    The remaining chapters are optional further viewing.
 
-Retrieval pause B (after the first documentary stop, before watching
-the remainder): from memory, write two or three sentences restating
-what the documentary says about whether Laozi existed and what the
-Daodejing is, and one thing the documentary raises that you would
-want to check before believing it. Keep what you write; it is
-practice and is not submitted.
+Retrieval pause B (after the assigned documentary segments): from
+memory, write two or three sentences restating what the documentary
+says about whether Laozi existed and what the Daodejing is, and one
+thing the documentary raises that you would want to check before
+believing it. Keep what you write; it is practice and is not
+submitted.
 
 Ziporyn's lecture is the walk's most concentrated piece of teaching,
 and the segments above are the ones that carry the module's outcomes.
-His central claim is worth holding in your own words: the Daodejing is
-not a random compilation but a coherent anthology, and the ambiguity
-readers find in it is not a problem to solve but the point. What that
-means for you as a reader is that the text will keep reversing your
-expectations; that is not a defect of the text but the teaching. When
-you meet a chapter that says the low, the dark, the formless and the
-unnamed are the source of what you value, you have met the text's
-central move, and you should mark it.
+Two of his claims are worth holding in your own words. He says the
+Daodejing can be read as "a coherent text" rather than a random
+compilation, and he treats the text's ambiguity as something with a
+function: "I've come to see that as a feature and not a bug of the
+text" ([Ziporyn, Why This Text Matters](https://youtubetotranscript.com/transcript?v=EJ1bB2w2gBk&current_language_code=en),
+passage beginning "There is a huge degree of ambiguity in here").
+What that means for you as a reader is that the text will keep
+reversing your expectations, and Ziporyn's argument is that this is
+part of how the text works rather than a defect in it. When you meet
+a chapter that says the low, the dark, the formless and the unnamed
+are the source of what you value, you have met the text's central
+move, and you should mark it.
 
 ### Step 4: your first guided reading of the Daodejing (Outcome 3)
 
@@ -526,7 +530,7 @@ learner can self-check.
   two readings of each assigned passage, so about 6 minutes raw.
   With study overhead applied as a three-times multiplier on raw
   reading, about 18 minutes (estimate, labelled).
-- Module teaching prose on this page (about 3,930 words measured,
+- Module teaching prose on this page (about 3,980 words measured,
   including the worked chapter-8 demonstration and the two scaffolded
   attempts): at 180 words per minute (some new concepts) about 22
   minutes raw; with study overhead as a three-times multiplier,

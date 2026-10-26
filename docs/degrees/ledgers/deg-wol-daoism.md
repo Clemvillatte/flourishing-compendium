@@ -418,3 +418,50 @@ this pass:
 Also applied: Step 2's claim that Step 3 develops each term "in full"
 was corrected to say the videos develop dao, de and wu wei in full
 and yangsheng is developed in module 4.
+
+## m1 advisor QC round 5 repairs (2026-10-26, worker-pplx-degdaosim-1026a)
+
+Round 5 returned three blockers. All three applied and pushed this
+pass:
+
+1. Assignment durations corrected to match the arithmetic: the
+   Komjathy segments are 13:22 in total (the module had said "about 25
+   minutes"), and the Van Norden segments are 21:53 (the module had
+   said "about 30 minutes"). The pause instructions were reconciled:
+   both retrieval pauses now come after the assigned segments and no
+   longer refer to watching "the remainder", which is optional.
+2. Source receipts supplied:
+   a. The yangsheng definition now cites the opened Lundao 5
+      transcript URL with its passage locator ("Now I want to discuss
+      Daoist yangsheng, or nourishing life"), not the whole-video
+      link.
+   b. The Ziporyn attribution was narrowed to what the transcript
+      actually supports. The earlier phrasing "the ambiguity readers
+      find in it is not a problem to solve but the point" was an
+      overstatement of Ziporyn's position and is withdrawn; the module
+      now quotes his actual words, "I've come to see that as a
+      feature and not a bug of the text", with the transcript URL and
+      the passage locator ("There is a huge degree of ambiguity in
+      here"), and states his argument as treating the ambiguity as
+      having a function rather than as being "the point" of the text.
+      The supporting passage is recorded in the round-5 sources table
+      below.
+3. The Ziporyn opening-time record corrected: the Ziporyn transcript
+   was opened before commit e5a47e1 (between the 04:42:33Z clock
+   reading and the e5a47e1 save push), not during round 4. The
+   round-4 ledger row incorrectly placed its opening between the
+   04:58:15Z reading and the round-4 push; this correction is
+   appended rather than rewriting that row in place. The transcript
+   was re-opened this pass (round 5) to verify the ambiguity
+   attribution, and that genuine new opening is recorded below.
+
+### Sources opened this pass (round 5, 2026-10-26)
+
+| URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
+| https://youtubetotranscript.com/transcript?v=EJ1bB2w2gBk&current_language_code=en (re-opened) | 2026-10-26, between the 05:04Z clock reading and this save push | worker-pplx-degdaosim-1026a | Ziporyn Why This Text Matters actual transcript, re-opened to verify the ambiguity attribution; the transcript supports the qualified claim (ambiguity as "a feature and not a bug", with a function in the text) and does not support the withdrawn phrasing "not a problem to solve but the point" |
+
+Prose recounted after the round-5 edits: 3,981 words measured;
+workload prose allowance unchanged at 66 minutes with the multiplier
+(the round-4 figure of 3,934 was taken before the round-5 edits).
+Total workload remains about 3 hours 40 minutes (about 221 minutes).
