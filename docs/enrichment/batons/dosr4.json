@@ -1,15 +1,19 @@
 {
  "baton": "dosr4",
- "agent": "sup-1026b-worker",
- "clocked_in": "2026-10-26T00:14:55+00:00",
+ "agent": "worker-pplx-dosr4-1026b",
+ "clocked_in": "2026-10-26T02:11:20+00:00",
  "takeovers": [
   {
    "by": "sup-1026b-worker",
    "at": "2026-10-26T00:14:55+00:00",
    "from": null,
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-dosr4-1026b",
+   "at": "2026-10-26T02:11:20+00:00",
+   "from": "sup-1026b-worker",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-26T00:28:12+00:00"
+ ]
 }
