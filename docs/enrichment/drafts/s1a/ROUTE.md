@@ -817,3 +817,16 @@ between complete sentences). Mapping-honesty pattern: ALL wired links
 requested (the passage argues death's enjoyment; the wired principles are
 thematically resonant, not named by the passage). story_check --context
 published: 0 errors (temp-copy method, live page untouched).
+
+2026-10-26T00:43:00Z (run-clock T+38:49) storyteller-pplx-s1a-1026b: NINETEENTH
+RUNG-4 UPGRADE PREPARED AND ROUTED — s1a-094-upgrade-ST049.md (ST049 legacy
+page; body quotes nothing verbatim; the live body has no source link at all —
+a ctext chapter citation added in the provenance line). Four verbatim passages
+from Zhuangzi, The Adjustment of Controversies (Book II / ch. 2) §1, Legge
+1891 (METIS ETH Zurich PDF, verified against the already-opened 200k full-text
+extraction; whitespace-normalised matching; the fourth quote reproduces the
+carrier's own "[proceed]" editorial bracket, documented). Mapping-honesty
+pattern: ALL wired links (D161, D162, D163, D037, D049) left unjustified —
+retain/remove decisions requested. The live page's "deepest statement in the
+book" superlative trimmed to a plain reading. story_check --context
+published: 0 errors (temp-copy method, live page untouched).
