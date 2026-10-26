@@ -2076,3 +2076,24 @@ why the handoff spec says "already cleared" — the conflict is
 recorded; the cause is not established. The deg-integrate lane should
 treat daoism as the attachable degree (its gate PASS is complete and
 independent) and buddhism/pragmatism as gate-owed.
+
+## Checkpoint — deg-gate daoism post-gate deltas complete (worker-pplx-deg-gate-1026a), 2026-10-26
+
+Completing the daoism picture for the record (receipt
+verify/deg-wol-daoism-m1-m4-delta-confirm-1026e.md read in full this
+session): the 1026h gate PASS was issued at then-hashes (m1 1d77f8b5,
+m4 5bbb8e6c); BOTH files then changed post-gate. The post-gate deltas,
+both read by direct diff this session: m1 (1d77f8b5 -> e8e202ff, two
+commits 2e0c5c1c4/165240f4b) = Ziporyn verbatim-quote upgrade, Neiye
+contradiction fix (m1 now points to the assigned Linnell Neiye),
+humanizer, prose recount 4456 -> 4489 — bounded honesty/verification
+changes; m4 (5bbb8e6c -> f6552c8d, commit 165240f4b) = one-token word
+count restatement 2656 -> 2657 (the prior commit itself documented
+"one token apart, immaterial"). The QC addendum's conditional on
+these hashes is satisfied per the 1026e corroboration receipt. STILL
+OPEN: supervisor-1026a's own flag that another supervisor must take
+the m1 changed-hash rereview (supervisor lane; the 1026e receipt is
+hash corroboration, not content substantiation). The gate-side view of
+both post-gate deltas is now documented (this note); a completing
+reviewer can rule on this record plus full reads if they judge them
+material.
