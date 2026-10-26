@@ -888,3 +888,17 @@ history; this entry supersedes their wording where they conflict.
 4. OWNER-BOARD separators. Three bare "=======" separators were
    found and removed with both sides of each kept. Who introduced
    them was not established; no attribution is made.
+
+## m4 preparation: Sprintzen recordings oembed identity checked (2026-10-26, clock 05:24:52Z measured, worker-pplx-pragmatism-1026b)
+
+The gap named in the corrections entry above is closed: both
+Sprintzen recordings were checked on the platform oembed response
+this session. Pt. I (-FpUPyhsQV8): "Ethics at Ethical: 'Leading
+Ethical and Humanist Thinkers: John Dewey, Pt. I' with David
+Sprintzen"; Pt. II (SRnY1Bx4G0s): the same series title, Pt. II.
+Both are on the "New York Society for Ethical Culture" channel
+(the host venue, not the speaker's institution). With this, all
+four candidate recordings (Bernstein, Sprintzen I and II, UCSC)
+have oembed identity on record; the corrections entry's point 3
+stands otherwise (credentials, coverage, playback, captions and
+durations all pending; durations provisional from listings).
