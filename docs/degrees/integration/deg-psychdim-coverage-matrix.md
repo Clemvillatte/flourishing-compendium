@@ -137,3 +137,7 @@ Deep trace added for m3 (docs/degrees/verify/deg-psychdim-m3-deep-trace-1026a.md
 ## Addendum 4 (2026-10-26, later same session)
 
 Deep trace added for m1 (docs/degrees/verify/deg-psychdim-m1-deep-trace-1026a.md): PASS - all eight entries value-by-value across the three layers, including the optional remedial clip split and the four optional text references. With m1 through m4 and m7/m8 traced, the verdict's deep-trace reservation now covers m5 and m6 only.
+
+## Addendum 5 (2026-10-26, later same session)
+
+Deep trace added for m5 (docs/degrees/verify/deg-psychdim-m5-deep-trace-1026a.md): PASS - all nine entries value-by-value across the three layers (four video windows incl. lecture 16's dual windows; five bounded readings incl. the Maitland teach-reuse entry this lane added). With m1 through m5 and m7/m8 traced, the verdict's deep-trace reservation now covers m6 only.
