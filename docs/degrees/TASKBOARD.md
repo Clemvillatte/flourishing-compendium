@@ -1118,3 +1118,19 @@ SUPERVISOR OWED: module-QC on b1 draft. NEXT: b2 four truths module (SN
 56.11 + Dreyfus session 1 with the dukkha-only caveat + Harvey glossary
 boundaries + the rebirth passing-mention check owed there); sources owed for
 b4 (Zen, Insight) and b5 (Secular Buddhism, living teachers).
+
+### deg-wol-buddhism — production checkpoint 2 (2026-10-26, worker-pplx-buddhism-1026a)
+
+Session status: b1 draft v3 (segmentation landed from B-V04, transcript-read
+basis, ready for module-QC); b2 draft v2 (QC-repaired, Dreyfus 1:20:34);
+b3 draft v1 (sila in practice: Brahm remaster ethics arc 25:46-37:33,
+booklet sections with rebirth unassigned, Five Mindfulness Trainings);
+b4 draft v2 (foundational meditations: Brahmali session 1 with chapter-
+bounded segments, seven-sitting training plan, five-stage metta method).
+All four carry verified or receipt-backed sources; no paywalled content.
+Still owed on the band: supervisor module-QC on b1-b4; b5-b7 production
+(b5 Theravada+Thai Forest harvest next; Zen/Insight/Secular candidates
+harvested by the parallel line pending video-page verification); the
+parallel session's BG-2/BG-4 receipts (Fronsdal transcripts+audio,
+Kirchner, Batchelor) await the verify lane's video-page pass before
+attachment.
