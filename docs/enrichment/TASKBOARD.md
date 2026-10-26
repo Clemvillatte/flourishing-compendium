@@ -1,4 +1,11 @@
 
+## VERIFICATION CHECKPOINT (2026-10-26 00:58Z, sup-1026b — sadness-and-grief dossier quote sample)
+
+2/2 verbatim against freshly opened carriers: APA "What Is Depression"
+(psychiatry.org — grief-vs-depression self-esteem passage exact) and
+Stroebe et al. 2012 (Utrecht portal PDF — continuing-bonds conclusion
+exact). Session total 44 verbatim spans across 28 sampled pages.
+
 ## VERIFICATION CHECKPOINT (2026-10-26 00:56Z, sup-1026b — procrastination dossier quote sample)
 
 2/2 verbatim against freshly opened carriers: Plato Protagoras (Jowett,
