@@ -1,3 +1,7 @@
+## Worker checkpoint (2026-10-26 02:37:28Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
+
+QC SAMPLE — right-speech dossier (6 quoted spans, all freshly opened): SN 45.8 Thanissaro definition span VERBATIM on accesstoinsight; MN 58 both spans VERBATIM (the automated miss was the & HTML entity in "unendearing & disagreeable"; the [3]/[6] ellipsis-combined quote's parts are both present on the carrier); AN 5.198 span VERBATIM; Bhagavad Gita 17.15 Wisdom Library span VERBATIM; Edwin Arnold's Song Celestial rendering VERBATIM on Gutenberg 2388. No defects found.
+
 ## Worker checkpoint (2026-10-26 02:37:14Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
 QC SAMPLE — fear dossier (5 quoted spans, all freshly opened): Aristotle Rhetoric II.5 Roberts definition span VERBATIM on the MIT carrier; Öhman-Mineka 2001 "motivates avoidance and escape" span VERBATIM in the whitman.edu PDF; Seneca Letters 18 Gummere "Is this the condition that I feared" span present verbatim on the Wikisource carrier (curly-vs-straight quotes only); Epicurus Letter to Menoeceus death span VERBATIM on the Wikisource translation; Iverach-Menzies-Menzies 2014 abstract span VERBATIM via eutils. No defects found.
 ## Worker checkpoint (2026-10-26 02:36:58Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
