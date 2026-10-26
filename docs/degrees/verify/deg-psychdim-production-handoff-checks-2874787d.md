@@ -101,3 +101,24 @@ No module or publication gate was awarded in that acknowledgement.
 - **Complete degree:** after those independent decisions, final
   complete-degree review and authorised integration/publication remain
   separate work. Nothing in this map requests partial publication.
+
+## Final producer verification, 06:43Z
+
+The final read-only checks reported **zero mechanical failures**.
+M2/M4/M5/M6 still match the exact hashes recorded above; the band
+identifies those targets; all eight README module links resolve and
+their planned times sum to2,370 minutes. M2's exact-hash supervisor
+confirmation exists, and the M6 adviser failure plus closed
+complete-degree/publication gates remain explicit.
+
+The two fragment-union tests cover the original M4/M5 assignments.
+No merge-conflict markers were found in the checked module/receipt
+files or OWNER-BOARD; `git diff --check` was clean. Local module
+content matched `origin/main`, and git ancestry checks confirmed the
+published M2, M5 and M6 repair commits are on `origin/main`.
+The author/path audit found only the held degree's production and
+handoff files plus authorised shared board entries.
+
+These are mechanical and producer checks. No missing independent
+teaching, recording, complete-degree or publication decision is
+inferred from their result.
