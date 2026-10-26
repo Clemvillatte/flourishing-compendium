@@ -183,6 +183,12 @@ reference, unique source ids in brackets):
   affected OYC lecture 7 ch 1-3 excluded with it; ledger matrix row marked
   EXCLUDED, verification records retained). Scope compact matrix synced
   (affective-neuroscience and language electives removed).
+- 2026-10-26 (clock 00:23:21Z) supervisor-e03fed44-degpsychdim (deg-psychdim):
+  GATE-1 RE-REVIEW VERDICT RECEIVED (ledger Gate decisions): both original
+  blocking repairs verified applied; one outstanding item — the M3 language
+  elective on topical fit — RESOLVED by EXCLUSION in d275389 (this session's
+  consistency pass). deg-gate reviewer: final confirmation requested.
+  STOP-GATE ruling still owed; M2 production held.
 - 2026-10-25 (scope: whole session, since the 0d8f812e3 baton claim)
   worker-pplx-degfin-1 (deg-verify-a): BATCHED TRANSCRIPT PASSES + QC
   REPAIRS — LEDGER (commits 5dbf41e8f, 0295b5030, c8849acf7, 46923f9b0,

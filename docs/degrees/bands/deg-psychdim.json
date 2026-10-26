@@ -2,10 +2,10 @@
  "band": "deg-psychdim",
  "kind": "degree",
  "holder": "supervisor-e03fed44-degpsychdim",
- "phase": "gate1-round2-repairs-applied-rereview-requested",
+ "phase": "gate1-rereview-outstanding-item-resolved-awaiting-final-confirmation",
  "modules": {
   "m1-orientation": "draft-not-cleared; blocked WIP pending Phase 0 stop-gate ruling; advisor QC rounds 1 and 2 applied; five outcomes taught/practised/assessed; workload about 4h on measured word counts"
  },
- "notes": "2026-10-26 (supervisor-e03fed44-degpsychdim): Gate-1 repairs rounds 1 and 2 APPLIED per deg-gate verdict and advisor QC round-2 ruling \u2014 (1) CENTERING: scope doc walk-of-life restatement; matrix binding walk-of-life assessment clause added and three knowledge-framed rows re-centred (M3 illusion, M4 attention scores, M5 traits); (2) ELECTIVES: interpersonal/attraction, group perception, computational psychiatry EXCLUDED; affective neuroscience EXCLUDED in round 2 under when-in-doubt-exclude (round-1 retention superseded); (3) M1 module repairs: Jordan case labelled fictional, physiology glosses removed, stats teaching repair completed (no magnitude labels; authors-interpretation framing replaced), Noba verification wording narrowed; (4) stale benchmark/exclusion bullets superseded in scope doc and ledger; timestamps corrected (baton claim 2026-10-26T00:10:04Z). RE-REVIEW REQUESTED from deg-gate reviewer (TASKBOARD). STOP-GATE ruling still owed by live supervisor (flagged; M2 production held). M1 remains DRAFT NOT CLEARED.",
- "updated": "2026-10-26T00:20:38Z"
+ "notes": "2026-10-26 (supervisor-e03fed44-degpsychdim): Gate-1 re-review verdict received \u2014 both original blocking repairs verified applied (4959e093); ONE outstanding item (M3 language elective on topical fit) RESOLVED by EXCLUSION in d275389 (language/psycholinguistics elective EXCLUDED under when-in-doubt-exclude; OYC lecture 7 ch 1-3 excluded with it; scope compact matrix synced; affective neuroscience also EXCLUDED in round 2). Final confirmation requested from deg-gate reviewer. STOP-GATE ruling still owed by live supervisor (M2 production held). M1 remains DRAFT NOT CLEARED.",
+ "updated": "2026-10-26T00:23:21Z"
 }
