@@ -50,6 +50,10 @@ def main():
     # new_sources support (suggested by worker-pplx-degfixtext-1026c, tested
     # against deg-wol-pragmatism-assignments.json): add source records the
     # assignments introduce before resolving refs against them.
+    dspec = spec.get('degree', {})
+    if dspec.get('description'): dd['description'] = dspec['description']
+    pre = dspec.get('strip_opening_prefix')
+    if pre and dd.get('openingNote', '').startswith(pre): dd['openingNote'] = dd['openingNote'][len(pre):].lstrip()
     for nsid, nsrec in spec.get('new_sources', {}).items():
         if nsid not in src:
             d['sources'].append(nsrec); src[nsid] = nsrec; log.append(f'new source {nsid}')
