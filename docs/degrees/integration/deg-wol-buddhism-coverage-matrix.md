@@ -113,3 +113,7 @@ Deep trace added for b7 (docs/degrees/verify/deg-wol-buddhism-b7-deep-trace-1026
 ## Addendum 8 (2026-10-26, later same session)
 
 Deep trace added for b8 (docs/degrees/verify/deg-wol-buddhism-b8-deep-trace-1026a.md): PASS - no media by design (empty published arrays, matching the doc and manifest) and the drawsOnPriorModules flag published with the doc's wording. With b1 through b8 traced, the verdict's deep-trace reservation now covers b9 only.
+
+## Addendum 9 (2026-10-26, later same session) - DEGREE COMPLETE
+
+Deep trace added for b9 (docs/degrees/verify/deg-wol-buddhism-b9-deep-trace-1026a.md): PASS - all three entries value-by-value (whole 0:25:00 talk; the hindrances sections; the Five Aggregates Introduction ~2,600 + The Questions ~600 measured words). BUDDHISM DEGREE deep-trace coverage COMPLETE: all nine modules (b1-b9) have PASS receipts. The verdict's deep-trace reservation is DISCHARGED for this degree: the provisional verdict stands as CONFIRMED by deep trace across all nine modules.
