@@ -662,3 +662,21 @@ and pushed (Hayes semicolon; Goyal "reductions in"), 4 items not
 confirmable from this environment (SN 42.3 and Milindapanha 3.1.1 on
 suttacentral, both elided composites; the two scispace spans), 0 known
 outstanding deviations.
+
+# QC sample 22: creativity — Plucker 1998 spans (2026-10-26 02:48:56Z, measured in-command)
+
+Both scispace-hosted spans are CONFIRMED VERBATIM. A fresh web search
+surfaced the original tandfonline abstract page (doi/abs/10.1207/
+s15326934crj1102_8) printing Plucker's abstract exactly: "Most of this
+research and theory, however, suffers from conceptual, methodological, or
+logical oversights. The debate about the content general or specific nature
+of creativity is far from settled..." FALSE POSITIVES (the scispace
+journal-index page blocks automated fetchers; the underlying abstract
+settles the wording).
+
+Session totals (final; supersedes all running tallies): 45 automated NOT
+FOUNDs adjudicated this session — 41 false positives confirmed, 2 genuine
+deviations repaired and pushed (Hayes semicolon; Goyal "reductions in"),
+2 items not confirmable from this environment (SN 42.3 and Milindapanha
+3.1.1, both elided composites on suttacentral, which serves a JavaScript
+app shell to this environment's fetchers), 0 known outstanding deviations.
