@@ -777,6 +777,44 @@ passages below confirmed on the raw text.
   characterized by both systematic maturation and substantial
   stability."). Raw page 16,565 words on the tag-stripped basis (a long
   review; the writing session should measure the assigned excerpt).
+M5 SCCS INSTRUMENT RECEIPT CONSUMED (2026-10-26, clock 02:44Z measured;
+from verify/deg-psychdim-m5-sccs-instrument-receipt.md, verifier-af06bd9e;
+preparation, not module production):
+
+- The archived 12-item SCCS instrument (UBC archive, attributed to
+  Campbell et al. 1996) was verified by the verifier as readable in
+  full: 12 items, response anchors 1 (strongly disagree) through 5
+  (strongly agree), items 1-5, 7-10 and 12 reverse-keyed (items 6
+  and 11 not); reversal is the arithmetic operation (6-r); with all
+  12 valid responses a sum ranges 12-60 and a mean 1-5. These are
+  arithmetic consequences of the opened anchors and key, NOT
+  diagnostic bands, population norms or a missing-response rule.
+- VERSION RECORDING RULE: Vartanian, Hayward and Carter (2023, open
+  UNSW copy) uses the same 12-item SCCS with five response points
+  (student sample) and seven (community sample); a later authorized
+  use must identify the actual form, anchors, reverse key and
+  aggregation rule before displaying a score. Do not compare a
+  five-point mean with a seven-point mean, reuse (6-r) on a
+  seven-point form, or borrow a research midpoint as a verdict about
+  the learner. The UNSW paper's midpoint grouping is an analytic
+  choice, not a validated clinical threshold; only its
+  instrument-handling passage serves this receipt (its body-image
+  research question is not proposed for the degree).
+- INTERPRETATION LIMITS (Manchiraju 2026): the review distinguishes
+  perceived clarity and consistency of self-beliefs from
+  self-esteem, self-knowledge accuracy and belief content; a
+  properly keyed score is not proof that a self-description is
+  accurate, ethically admirable or fixed. The review cautions that
+  self-report dominates the evidence, cross-national measurement
+  invariance is insufficiently established, and rigid clarity need
+  not be adaptive. No claim that this instrument causes flourishing
+  or measures wisdom is supported.
+- REDISTRIBUTION: permission to redistribute the complete instrument
+  was NOT established by the check; the writing session must not
+  reproduce the full item wording without establishing permission.
+  The receipt adds no questionnaire assignment, requires no
+  personal scores, and authorizes no module prose.
+
 - Diener and Lucas, Personality Traits ([Noba](https://nobaproject.com/modules/personality-traits)): teaching body measured
   at 3,708 words on the tag-stripped basis (module description through
   the final teaching paragraph ending "...such as those studied by
