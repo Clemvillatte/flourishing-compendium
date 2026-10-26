@@ -28,5 +28,7 @@ verified earlier this session via opened search-result content from the
 publisher overview page (see QC-SWEEP-DOSR-POSTMAP-2026-10-26.md) and is
 not re-listed above.
 
-Measured clock reading at receipt start: see commit message (measured
-immediately before this save).
+Measured clock reading at receipt start: 10:00:07Z (measured immediately
+before the save; the save's own `date` echo read 10:00:10Z). CORRECTION:
+the preceding commit message said 10:03:20Z — that was an uncorrected
+pre-measurement estimate, not a measured reading; this line is authoritative.
