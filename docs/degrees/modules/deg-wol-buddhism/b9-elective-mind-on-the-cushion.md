@@ -28,7 +28,10 @@ studied where they were met.
 
 1. Name the five hindrances in your own words and match each to at
    least one entry in your own b4/b8 sitting log (a line where desire,
-   ill will, dullness, agitation or doubt was what you observed).
+   ill will, dullness, agitation or doubt was what you observed) — or,
+   for a hindrance your log never shows, record that plainly with a
+   note on what those sittings were like instead. The honest absence
+   is itself a finding; an invented entry is not.
 2. For the two hindrances your log shows most often, state the
    countermeasure the sources teach and one experiment you will run in
    your next three sittings to apply it.
@@ -40,9 +43,9 @@ studied where they were met.
 
 ### Step 1 — The teacher (~25 min, video, whole talk)
 
-**Thanissaro Bhikkhu, "Hindrances" (evening Dhamma talk, 10 October
-2016 by the talk code in its title; uploaded 16 July 2014), "Dhamma
-Talks by Thanissaro Bhikkhu" channel,
+**Thanissaro Bhikkhu, "Hindrances" (evening Dhamma talk; "Dhamma
+Talks by Thanissaro Bhikkhu" channel; the talk's own recording date
+was not established on the opened page and is not claimed),
 https://www.youtube.com/watch?v=PcR_fI6p9k8, 0:25:00.** The talk
 presents the traditional list of five hindrances and discusses
 recognizing them, seeing their drawbacks, and using meditation,
@@ -62,10 +65,10 @@ Selected Texts from the Pali Canon and the Commentaries (The Wheel,
 No. 26, Buddhist Publication Society, 1993; freely redistributable on
 Access to Insight, https://accesstoinsight.org/lib/authors/nyanaponika/wheel026.html).**
 The compilation gives the canonical texts on each hindrance and the
-commentaries' countermeasures. The author: co-founder of the Buddhist
-Publication Society, a senior monk-scholar of the German Sri Lankan
-lineage; the text is a standard BPS publication, free of charge under
-its stated license.
+commentaries' countermeasures. The text is a standard Buddhist
+Publication Society Wheel publication, freely redistributable under
+the license stated on the opened page. The module makes no
+biographical claims about the author beyond what that page states.
 
 Read the sections for your two most-visited hindrances closely; skim
 the rest. Activity: the countermeasure table for outcome 2.
@@ -92,8 +95,8 @@ Rubric (observable):
 
 | criterion | exemplar of strong work | rejection example |
 |---|---|---|
-| hindrance matching | each of the five named with a real log line quoted or dated | the five listed with no log reference |
-| countermeasure | the two chosen hindrances with the sources' countermeasures and the experiment designed | generic advice ("be patient") with no source |
+| hindrance matching | each of the five named with a real log line quoted or dated, or an explicit honest "not observed" entry | the five listed with no log reference, or an entry invented to fill the slot |
+| countermeasure | the two chosen hindrances with the sources' countermeasures and the three experiment-sitting records logged (dated, with the countermeasure named and one observation each) | generic advice ("be patient") with no source, or an experiment designed but never run |
 | pattern statement | three sentences that a reader could check against the log | a statement about Buddhism in general |
 
 Self-assessment: one line on whether naming the hindrances changed

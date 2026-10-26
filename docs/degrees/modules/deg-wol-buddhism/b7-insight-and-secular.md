@@ -11,11 +11,14 @@
 
 The walk's school map ends with the two schools that rewrote Buddhism for
 the modern West: Insight Meditation (Vipassana as taught in the American
-Insight lineage) and Secular Buddhism. They are siblings with a
-disagreement: both meditate, both read the four truths as tasks, and they
-part ways on what Buddhism finally is (a path of practice continuous
-with the tradition, or a pragmatic ethical project the tradition serves).
-This module teaches both, then asks where you stand.
+Insight lineage) and Secular Buddhism. Each account is held to what its
+opened sources actually state: Fronsdal's course teaches mindfulness of
+breath and frames the four truths as tasks (the course's own transcripts
+and syllabus pages); Batchelor's lecture presents Buddhism as primarily
+an ethical, pragmatic project for human flourishing (the lecture's
+description on the opened page) and his official biography frames his
+teaching as tasks rather than beliefs. This module teaches both, then
+asks where you stand — comparing only positions each source states.
 
 ## Objectives
 
@@ -33,11 +36,15 @@ This module teaches both, then asks where you stand.
 2. State Batchelor's lecture in 200 words: what a secular Buddhism
    keeps (ethics, meditation, the four truths as tasks), what it sets
    aside, and what human flourishing has to do with it.
-3. Compare the two accounts on ONE named question, for example: are the
-   four truths a description of reality or a set of tasks; what role
-   does rebirth play or not play; is awakening a traditional attainment
-   or a human flourishing. State where they agree, where they disagree,
-   and what turns on the disagreement.
+3. Compare the two accounts on ONE named question that BOTH opened
+   sources actually address, for example the four-truths-as-tasks
+   frame (Fronsdal's course transcripts; Batchelor's biography). Any
+   other question (rebirth, awakening, the tradition's ultimate
+   purpose) may be used ONLY if you can cite the specific place in
+   each source where that position is stated; if a source does not
+   state it, the comparison question is not available. State where
+   they agree, where they disagree, and what turns on the
+   disagreement.
 4. Defend your own position in the comparison's terms (which account you
    would practice by, and why), against the strongest objection you can
    name from the other side.
@@ -54,9 +61,13 @@ six-week course transcripts, free, Creative Commons BY-NC-ND 3.0). Then
 sit with the course's Class 1 recording
 (https://www.audiodharma.org/series/24654; AudioDharma series page,
 "freely offered by Insight Meditation Center"; Class 1 measured at
-1:26:55 on the series page; the first portion carries the instructions
-and guided practice, and you may spread the recording across two
-sittings).
+1:26:55 on the series page). Two cautions the module states honestly:
+the printed transcript series and the recorded class series are
+SEPARATE sources (the series pages pair them, but the recording is
+not a reading of the transcript), and the series page prints no
+chapter list, so no guided-segment timestamps are claimed. Listen in
+two stops (viewing stops, not content claims): 0:00-0:43 and
+0:43-1:26:55; the sitting practice happens inside the recording.
 
 The teacher: senior guiding co-teacher at the Insight Meditation Center
 (Redwood City) and the Insight Retreat Center (Santa Cruz); Buddhist
@@ -69,7 +80,7 @@ https://www.audiodharma.org/speakers/1).
 Activity: log the two sittings in your b4-format log (resource, guided
 or unguided, completion, one observation).
 
-### Step 2 — The secular case (~1 h 27 min, video, whole lecture; spread it)
+### Step 2 — The secular case (~1 h 27 min, video, whole lecture)
 
 **Stephen Batchelor, "A Secular Buddhism", Radboud Reflects (Radboud
 University), https://www.youtube.com/watch?v=Hhlj_SU9SAE, 1:26:35.**
@@ -83,8 +94,9 @@ Buddhist monk, then four years training in Son (Zen) meditation in
 South Korea under Kusan Sunim (credentials opened on his official
 biography page, https://stephenbatchelor.org/).
 
-Spread the lecture across two or three sittings. Activity: one line per
-sitting on the thread of the argument as you heard it.
+Watch in two stops (viewing stops, not content claims, since the page
+prints no chapter list): 0:00-0:43 and 0:43-1:26:35. Activity: one line
+per stop on the thread of the argument as you heard it.
 
 ### Step 3 — The comparison (the module's core, ~45 min)
 
@@ -123,25 +135,27 @@ the module.
 
 ## Boundaries and passing mentions
 
-Batchelor's secular reading sets rebirth aside explicitly; the
-Insight lineage treats it as traditionally present but not load-bearing
-for introductory practice. The module marks both placements as the
-schools' own positions and takes no side; the walk's exclusion rule
-still governs (passing mention, no cosmology unit). Zen appears here
-only as Fronsdal's second authorization and Batchelor's early training;
-the Zen module (b6) is separate.
+Rebirth's role in each account is NOT asserted by this module: neither
+opened source's stated position on it was inspected, so any
+rebirth-based comparison is available only under outcome 3's citation
+rule. The module takes no side on any comparison question; the walk's
+exclusion rule still governs (passing mention, no cosmology unit). Zen
+appears here only as Fronsdal's second authorization and Batchelor's
+early training (both stated on their opened credential pages); the Zen
+module (b6) is separate.
 
 ## Workload arithmetic
 
-- Measured media: Batchelor lecture 1:26:35 (whole); Fronsdal Class 1
-  recording 1:26:55 on the series page (spread across two sittings; the
-  Week 1 transcript ~3,000 words is the assigned text).
+- Measured media: Batchelor lecture 1:26:35 (whole, two viewing
+  stops); Fronsdal Class 1 recording 1:26:55 (whole, two listening
+  stops). The two logged sittings happen INSIDE the Class 1 recording,
+  so they are not counted twice.
 - Estimated: transcript reading at 130 words per minute ~25 m; written
-  work (statement, table, position) ~75 m; two sittings logged ~20 m.
-  Estimates labelled as estimates.
-- Module total: about 4 h 40 m spread across a week or more (the two
-  long recordings make this the walk's heaviest module so far; spread
-  them).
+  work (statement, table, position) ~75 m. Estimates labelled as
+  estimates.
+- Module total: about 4 h 35 m (2:53:30 media + 25 m + 75 m) spread
+  across a week or more (the two long recordings make this a heavy
+  module; the spread is by design).
 
 ## Sources (verification status)
 
@@ -149,7 +163,7 @@ the Zen module (b6) is separate.
 |---|---|---|---|
 | Fronsdal, Introduction to Mindfulness Meditation, Week 1 transcript, https://www.insightmeditationcenter.org/books-articles/introduction-to-meditation-transcripts/ | verified (text) | 2026-10-26 (parallel session harvest receipt, ledger-recorded) | six-week course transcripts, free, CC BY-NC-ND 3.0; Week 1 "Mindfulness of Breath" assigned |
 | Fronsdal, Class 1 recording, https://www.audiodharma.org/series/24654 | verified (audio, series page) | 2026-10-26 (parallel session harvest receipt, ledger-recorded) | AudioDharma series page, "freely offered by Insight Meditation Center"; Class 1 measured 1:26:55; credentials on https://www.audiodharma.org/speakers/1 (IMC senior guiding co-teacher; practice since 1975; teaching since 1990; Insight Meditation lineage and Soto Zen authorization; PhD Stanford) |
-| Batchelor, "A Secular Buddhism", https://www.youtube.com/watch?v=Hhlj_SU9SAE | verified-video | 2026-10-26 (this session) | duration 1:26:35 on the watch page; Radboud Reflects channel; lecture given 9 July 2018 at Radboud University; description frames the secular, pragmatic, flourishing case; key moments cover the Burma secularization and Vipassana movement; credentials on https://stephenbatchelor.org/ (eight years Tibetan monastic life; four years Son/Zen training under Kusan Sunim) |
+| Batchelor, "A Secular Buddhism", https://www.youtube.com/watch?v=Hhlj_SU9SAE | verified-metadata | 2026-10-26 (this session) | duration 1:26:35 on the watch page; Radboud Reflects channel; lecture given 9 July 2018 at Radboud University; the description's stated frame (ethical, pragmatic, human-flourishing) is bounded to what the description states; CONTENT NOT YET INSPECTED beyond that description; credentials on https://stephenbatchelor.org/ (eight years Tibetan monastic life; four years Son/Zen training under Kusan Sunim) |
 
 No paywalled or app-gated content. Video-first policy applied: the
 secular case arrives as a verified university lecture video; the

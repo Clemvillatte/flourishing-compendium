@@ -27,14 +27,17 @@ precepts as tools rather than slogans.
 1. Restate each of the five precepts as a training rule in your own
    words, naming what each trains (from the booklet's treatment and
    AN 5.179).
-2. Apply the talk's ethical-decision teaching to two hard cases of your
-   own choosing, showing the weighing (who is harmed, what tolerance
-   requires, what guilt has no part in), and state what you would
-   actually do.
+2. Apply Ajahn Brahm's ethical-decision teaching (as he presents it in
+   the assigned segment) to two hard cases of your own choosing,
+   showing the weighing (who is harmed, what tolerance requires, the
+   talk's treatment of guilt), and state what you would actually do.
 3. Compare the classical five precepts with the Five Mindfulness
-   Trainings on two named points, stating where the modernized rendering
-   strengthens the classical rule and where it softens it, and which you
-   would follow and why.
+   Trainings on two named points, identifying and supporting the
+   differences you actually find, in whichever direction they run
+   (strengthening, softening, extending, reorienting), and stating
+   which rendering you would follow and why. The direction of the
+   difference is your finding to support, not a conclusion the module
+   hands you.
 4. State in two sentences why this module leaves the booklet's rebirth
    sections unassigned (the walk's exclusion rule), and where you would
    go if you wanted that material.
@@ -57,11 +60,14 @@ assigns the ethics arc only: 25:46 (Ethics and tolerance) through
 unassigned; the four-truths arc belongs to b2.
 
 Content note (from the opened episode page's transcript excerpts): the
-ethics teaching includes the Rāhula ethics instruction (reflect before,
-during and after an action), the observation that guilt has no part in
-Buddhist ethics, the acknowledge-forgive-learn sequence for mistakes, and
-the happiness/unhappiness reframing of the four truths. The transcript
-is AI-generated and error-prone, so this module paraphrases the talk
+ethics teaching, as Brahm presents it, includes the Rāhula ethics
+instruction (reflect before, during and after an action), his
+treatment of guilt in ethics, the acknowledge-forgive-learn sequence
+for mistakes, and the happiness/unhappiness reframing of the four
+truths. These are Brahm's positions as the talk states them; the
+module attributes them to his presentation and does not assert them
+as the position of every Buddhist tradition. The transcript is
+AI-generated and error-prone, so this module paraphrases the talk
 with attribution and quotes none of its wording.
 
 Activity: one line per chapter mark you cross (25:46, 31:32), naming
@@ -94,13 +100,20 @@ rendering differs most from the classical rule.
 
 ## Practice
 
-**Two hard cases, decided.** Choose two situations from your own life
-where a precept is genuinely hard to apply (a workplace honesty case, a
-relationship case, a consumption case). For each: name the precepts in
-play, run the talk's decision teaching (before, during, after; who is
-harmed; what tolerance requires; what guilt has no part in), state your
-decision, and name what you would do if it went wrong (the
-acknowledge-forgive-learn sequence). About 250 words per case.
+**One worked case, then two of your own.** Worked example (a model,
+not a case you decide): a colleague asks whether you saw the email
+they sent; you did, and have not answered it. Precepts in play: honest
+speech (the fourth). Run the teaching: before (who is harmed by each
+answer; what tolerance requires of the answer), during (say the true
+thing kindly), after (review: was anyone misled?). If it went wrong
+(the answer misled), the acknowledge-forgive-learn sequence: own the
+error, ask forgiveness, take the training forward. Now choose two
+situations from your own life where a precept is genuinely hard to
+apply (a workplace honesty case, a relationship case, a consumption
+case). For each: name the precepts in play, run the talk's decision
+teaching (before, during, after; who is harmed; what tolerance
+requires; the talk's treatment of guilt), state your decision, and
+name what you would do if it went wrong. About 250 words per case.
 
 ## Assessment
 
@@ -116,7 +129,7 @@ Rubric (observable):
 |---|---|---|
 | training-rule restatement | five precepts, each with what it trains named | five commands recited with no training sense |
 | case decision | both cases decided with the weighing visible and the decision named | cases described with no decision reached |
-| comparison | two named points of divergence, with strengths and softenings on both sides | "they are basically the same" |
+| comparison | two named points of divergence, each supported by a quoted or cited phrase from each rendering, direction of difference the learner's own supported finding | "they are basically the same", or a difference asserted with no support |
 | rebirth placement | two sentences naming the exclusion rule and where the material lives | silence, or a defense of rebirth |
 
 Self-assessment: one line on which case you avoided deciding, and why

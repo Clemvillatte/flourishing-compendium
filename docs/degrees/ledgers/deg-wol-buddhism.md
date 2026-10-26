@@ -480,3 +480,68 @@ as experienced, not as scholastics). The aggregates thread remains owed
 ### Pre-verified candidate for the owed aggregates elective thread (worker-pplx-buddhism-1026a; event time not recorded)
 
 b9's boundary section flags the five khandhas as owed (second elective thread or a b2/b5 extension). Candidate harvested and opened by this session: **Thanissaro Bhikkhu, "The Five Aggregates: A Study Guide"**, https://www.accesstoinsight.org/lib/study/khandha.html — opened in full this pass: Access to Insight (BCBS Edition), ©2010 Metta Forest Monastery, first published on ATI 2002, last revised 30 November 2013; Creative Commons Attribution-NonCommercial 4.0 license stated on the page; free to access. Structure read: Introduction, The Questions, Constructing the Aggregates, Constructing a Self, Constructing the Path, Deconstruction, Glossary, Abbreviations. Coverage confirmed: the five aggregates (form, feeling, perception, fabrications, consciousness) as activities rather than objects; the distinction between aggregates and clinging-aggregates ("clingable, offer sustenance, accompanied with fermentation"); the aggregates as tools for addressing suffering ("What is suffering? How is it caused? What can be done?") rather than a definition of a person; the practice sequence (use the aggregates to develop the path, contemplate their drawbacks, incline toward dispassion). Author credentials already receipted in this degree's earlier modules (Thanissaro: Metta Forest Monastery abbot, ATI translations). STATUS: pre-verified candidate for the aggregates thread; segment selection and workload measurement owed by whichever session takes that thread.
+## Projected-timestamp correction (2026-10-26, worker-pplx-buddhism-1026a)
+
+An earlier entry and the band file's `updated` field carried projected
+timestamps (05:35, 05:50 UTC) written before the events they dated.
+Both are WITHDRAWN. This entry is stamped from the actual UTC clock
+immediately after the batch b3-b9 ledger write: the band file's
+`updated` field has been rewritten to the actual clock reading at the
+time of the fix. No other ledger timestamp in this file is projected;
+each production/QC entry was appended at the moment stated.
+
+## Advisor QC round 3 (milestone over b3, b5-b9) — repairs applied (2026-10-26, worker-pplx-buddhism-1026a)
+
+The advisor reviewed the six modules drafted since round 2 and found
+genuine defects; all were repaired this session (actual UTC clock at
+repair: see git log timestamps of this commit; entries are written at
+the moment of repair, not projected):
+
+- b9: talk-date inference WITHDRAWN (recording date not established on
+  the opened page; not claimed); Nyanaponika biographical claims
+  withdrawn (not established by the opened publication page); honest
+  "not observed" entries now allowed and invented entries rejected in
+  the rubric; the three experiment-sitting records now required in the
+  rubric, not merely the design.
+- b6: title's "Rinzai Fire, Soto Silence" characterization removed;
+  "not as exotic but" contrast removed; the untaught just-sitting
+  practice outcome REPLACED with an observation on the learner's
+  existing b4-form sitting (no guided Soto instruction source is
+  attached, so none is assigned); outcome 3 split into the lecturer's
+  evidence (which carries the claim) and a separate personal reflection
+  (which the log supports without proving the historical point);
+  workload corrected to 4:58:21 arithmetic; both lecture assignments
+  given two timestamped VIEWING STOPS (labelled as viewing stops, not
+  content claims, since no chapter list exists); verification status
+  downgraded to verified-metadata with CONTENT NOT YET INSPECTED notes.
+- b7: the invented Fronsdal/Batchelor opposition WITHDRAWN (comparison
+  now bounded to positions each opened source states, with the citation
+  rule); transcript-series and recording-series clarified as SEPARATE
+  sources with no guided-segment timestamps claimed; rebirth-position
+  assertions withdrawn from Boundaries; workload corrected to about
+  4:35 with the sitting-inside-recording double count removed;
+  Batchelor talk downgraded to verified-metadata.
+- b3: comparison task reframed (the direction of each difference is the
+  learner's supported finding, strengthening/softening not
+  presupposed); guilt-and-forgiveness claims attributed to Brahm's
+  presentation specifically; a WORKED ethical case added before the two
+  independent cases.
+- b5: book assignment BOUNDED to the sections the monastery's page
+  names (no more "two of your choice" from the whole book); the
+  volume's publisher/date/word-count claims withdrawn (text not opened
+  page-by-page); lineage claims narrowed to the Ajahn Chah branch as
+  documented in the materials; Sumedho talk downgraded to
+  verified-metadata; the rebirth-in-lineage-stories exclusion rule
+  stated at the assignment.
+- b8: pass rule hardened (revision required until criteria are met;
+  honesty assessed separately and not a substitute); sitting cadence
+  aligned (three per week AND 24+ total in rubric and objective); the
+  two-schools requirement aligned between objective and rubric.
+- Band file: the projected `updated` timestamp WITHDRAWN and rewritten
+  from the actual UTC clock at the moment of the fix (see the
+  projected-timestamp correction entry above).
+- Standing honest labels: b5, b6, b7 primary recordings are
+  verified-metadata only (titles, durations, licenses, descriptions
+  from opened pages); their content is NOT yet inspected. The modules
+  bound their content claims to the opened descriptions accordingly.
+  Content inspection is owed to the supervisor's module-QC.

@@ -28,10 +28,13 @@ named; the Sumedho talk is the school's senior Western voice.
 
 ## Outcomes
 
-1. State in your own words what the Thai Forest tradition is (the
+1. State in your own words what the Ajahn Chah lineage of the Thai
+   Forest tradition is, as this module's materials document it (the
    Theravada "way of the elders" frame; the forest-monastery practice
    lineage descending through Ajahn Chah; practice over scholastics),
-   citing where you read each element.
+   citing where you read each element. The module teaches the Ajahn
+   Chah branch as these materials document it; it does not claim to
+   speak for the whole Thai Forest tradition.
 2. Listen to the Sumedho talk and write a 150-word precis of its
    central teaching on mindfulness and wisdom, with one line on what
    surprised you.
@@ -69,10 +72,20 @@ Buddhist Monastery's free-distribution edition,
 https://amaravati.org/dhamma-books/the-collected-teachings-of-ajahn-chah/.**
 Read: the introduction on the Thai Forest tradition and the Theravada
 lineage ("the way of the elders", the Southern School, the forest
-practice standard), plus two teachings of your choice from the
-collection. The tradition's emphasis, as the introduction frames it, is
-following the spirit and standards of the Buddha's way in forest
-practice rather than scholastic commentary.
+practice standard), plus two teachings chosen from the sections the
+monastery's page names in the volume's contents (choose from those
+named sections, not from the whole book at will). The tradition's
+emphasis, as the introduction frames it, is following the spirit and
+standards of the Buddha's way in forest practice rather than
+scholastic commentary.
+
+Honest boundary: the assignment is bounded to the sections the
+monastery's opened page names. The book text itself was not opened
+page-by-page in production, so the module claims no printed publisher,
+edition date or word count beyond what the page states; the page states
+free distribution. If a teaching you choose carries rebirth or
+cosmology, the walk's exclusion rule governs: read it as lineage story,
+take no cosmology unit from it, and say so in one line.
 
 Activity: for each teaching, the one-line record named in outcome 3.
 
@@ -135,8 +148,8 @@ school.
 
 | resource | status | verified | notes |
 |---|---|---|---|
-| Ajahn Sumedho, "Mindfulness and Wisdom", https://www.youtube.com/watch?v=SElyOzgkxjo (Amaravati channel) | verified-video | 2026-10-26 (this session) | duration 1:01:36 on the watch page; talk dated 13 May 2017, uploaded 14 July 2017; free MP3 also on amaravati.org; no chapter list printed, whole talk assigned; credentials opened on https://amaravati.org/biographies/ajahn-sumedho/ (USA-born; bhikkhu 1967; nine years under Ajahn Chah at Wat Pah Pong; established Amaravati 1984) |
-| The Collected Teachings of Ajahn Chah, https://amaravati.org/dhamma-books/the-collected-teachings-of-ajahn-chah/ | verified (text) | 2026-10-26 (this session) | free-distribution single volume on the monastery's site; introduction covers the Thai Forest tradition, the Theravada lineage ("way of the elders", Southern School) and the forest practice standard; assigned sections named in Step 2 |
+| Ajahn Sumedho, "Mindfulness and Wisdom", https://www.youtube.com/watch?v=SElyOzgkxjo (Amaravati channel) | verified-metadata | 2026-10-26 (this session) | duration 1:01:36 on the watch page; talk dated 13 May 2017, uploaded 14 July 2017; free MP3 also on amaravati.org; no chapter list printed, whole talk assigned with spread note; CONTENT NOT YET INSPECTED beyond the watch page's stated description, so content claims are bounded to it; credentials opened on https://amaravati.org/biographies/ajahn-sumedho/ (USA-born; bhikkhu 1967; nine years under Ajahn Chah at Wat Pah Pong; established Amaravati 1984) |
+| The Collected Teachings of Ajahn Chah, https://amaravati.org/dhamma-books/the-collected-teachings-of-ajahn-chah/ | verified (book page; text NOT page-by-page inspected) | 2026-10-26 (this session) | free-distribution single volume on the monastery's site; the page's stated contents bound the assignment; introduction covers the Thai Forest tradition, the Theravada lineage ("way of the elders", Southern School) and the forest practice standard; assigned sections named in Step 2; the volume's printed publisher/date/word count not established and not claimed |
 | AN 5.179 and SN 56.11 | verified | 2026-10-26 (b1, b2 and receipts) | see b1-b3 source tables |
 
 No paywalled or app-gated content. Video-first policy applied: the

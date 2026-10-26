@@ -20,7 +20,8 @@ wiser, flourishing even when uncertain or overwhelmed.
 ## Objectives
 
 1. Integration: the precepts, the four tasks, the sitting practice,
-   and at least two schools' readings, used together on one life.
+   and at least two schools' readings, used together on one life
+   (the case-integration criterion requires two).
 2. Sustained practice with records.
 3. A defended synthesis in the learner's own voice.
 
@@ -69,15 +70,18 @@ check every criterion from the deliverables alone):
 
 | criterion | exemplar of strong work | rejection example |
 |---|---|---|
-| practice records | 24+ logged sittings over eight weeks, the pattern summary honest about missed weeks | a log reconstructed at the end from memory |
-| case integration | the precepts, the four tasks and one school's reading each visibly used, their convergence and divergence on the case named | the case described with only one tool used |
+| practice records | 24+ logged sittings over eight weeks (at least three per week), the pattern summary honest about missed weeks | a log reconstructed at the end from memory, or a week with fewer than three sittings unaccounted for |
+| case integration | the precepts, the four tasks and readings from at least two schools each visibly used, their convergence and divergence on the case named | the case described with only one tool or one school used |
 | synthesis grounding | the claims tied to named sources the learner actually used, with the specific places they carried the argument | general quotations arranged decoratively |
 | objection | the strongest form of the objection stated before the answer, and the answer engages it | a straw objection dismissed |
 | self-assessment | the rubric applied to the learner's own work, including the weakest criterion named with a reason | "I did well on everything" |
 
-The capstone passes when every criterion is met at the exemplar level
-or the self-assessment honestly names where it is not and what would be
-needed.
+The capstone passes when every criterion is met at the exemplar
+level. If a criterion is not met, the deliverable is revised until it
+is: the self-assessment names the gap, states the revision it calls
+for, and the revision is done before the capstone counts as passed.
+Honesty about a gap is assessed as part of the self-assessment
+criterion; it does not by itself satisfy the unmet criterion.
 
 ## Boundaries and passing mentions
 

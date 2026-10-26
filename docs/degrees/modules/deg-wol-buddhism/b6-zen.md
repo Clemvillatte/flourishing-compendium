@@ -1,4 +1,4 @@
-# b6 — Zen: Rinzai Fire, Soto Silence
+# b6 — Zen: The Japanese Inheritance
 
 - **band**: deg-wol-buddhism
 - **kind**: degree-module
@@ -13,16 +13,18 @@ The walk's school map turns to Zen, the Japanese inheritance of the
 Chan tradition. The two lectures assigned here were given at The
 Buddhist Society in London in its 100th-anniversary lecture series on
 Japanese Buddhism, by a scholar-monk who lives the tradition he
-teaches. Zen enters the walk not as exotic but as a different answer to
-the suffering question the learner has been carrying since b2, with a
-distinctive meditation culture the learner will try on.
+teaches. For this walk, Zen is a further answer to the suffering
+question the learner has been carrying since b2, with a distinctive
+meditation culture the lectures examine rather than prescribe.
 
 ## Objectives
 
 1. Zen's answer to the question of suffering (Lecture 1).
 2. Zen meditation: the Rinzai and Soto approaches, distinguished
    (Lecture 3).
-3. The place of meditation in Buddhism, examined rather than assumed.
+3. The place of meditation in Buddhism: the lecture's claim, the
+evidence the lecturer gives for it, and a separate personal
+reflection on how it lands against your own walk so far.
 
 ## Outcomes
 
@@ -33,14 +35,19 @@ distinctive meditation culture the learner will try on.
 2. Distinguish the Rinzai and Soto approaches to meditation as the
    lecture teaches them, and state which you would try first and why.
 3. State the lecture's claim about the place of meditation in Buddhism
-   (described as less extensive than one might expect), and test that
-   claim against your own walk so far (b4's training plan, the b1
-   metta sittings): does your experience support the lecture's
-   framing?
-4. Sit one Zen-informed sitting (just sitting, following the Soto
-   register as the lecture describes it), and log it in your b4-format
-   log with one observation on how it differs from the meditations you
-   have already practised.
+   (described as less extensive than one might expect), the evidence
+   the lecturer gives for it, and, separately, one paragraph of
+   personal reflection on how that claim lands against your own walk
+   so far (b4's training plan, the b1 metta sittings). The
+   reflection is a reflection, and the claim is assessed through the
+   lecturer's evidence; your sitting log supports the reflection, it
+   does not prove the historical point.
+4. Sit one logged sitting in your existing b4 form, and log one
+   observation on what the lecture's account of the Soto register
+   suggests about that sitting (what "just sitting" would mean for
+   the form you already practise). The module does not teach a new
+   meditation technique; no guided Soto sitting instruction is
+   attached to a verified source, so none is assigned.
 
 ## Instruction sequence
 
@@ -64,8 +71,9 @@ Research Institute for Zen Buddhism; translator of The Record of
 Linji, Entangling Vines and Dialogues in a Dream; resides at Tenryū-ji,
 Kyoto (credentials opened on the Society's series page).
 
-Spread the lecture across two sittings. Activity: one line per sitting
-on the thread of the argument.
+Watch in two stops (viewing stops, not content claims, since the
+page prints no chapter list): 0:00-0:44 and 0:44-1:28:04. Activity:
+one line per stop on the thread of the argument.
 
 ### Step 2 — Zen meditation, examined (~1 h 40 min, video, whole lecture; spread it)
 
@@ -76,24 +84,25 @@ the differences between the Rinzai and Soto approaches, and the place
 of meditation in Buddhism, which it describes as less extensive than
 one might expect.
 
-Spread across two or three sittings. Activity: after the
-Rinzai-Soto discussion, write the two approaches in two lines each, in
-your own words.
+Watch in two stops (viewing stops, not content claims, since the page
+prints no chapter list): 0:00-0:50 and 0:50-1:40:17. Activity: after
+the Rinzai-Soto discussion, write the two approaches in two lines each,
+in your own words.
 
-### Step 3 — One Zen-informed sitting
+### Step 3 — One sitting, viewed through the lecture
 
-From your account of the Soto register in Step 2: sit for ten minutes
-doing nothing but sitting, following that register as best you
-understand it from the lecture. Log it in the b4 format. The point is
-not to become a Soto practitioner in one sitting; it is to feel the
-difference between this way of sitting and the ones you already know.
+Sit ten minutes in your existing b4 form, then log one observation on
+what the lecture's account of the Soto register suggests about that
+sitting (what "just sitting" would mean for the form you already
+practise). The lecture is the lens for the observation; it is not a
+substitute for guided instruction, and the module claims none.
 
 ## Practice
 
-The one Zen-informed sitting (Step 3) plus your continuing b4 habit
-(one more logged sitting this week, your choice of form). The
-comparison in outcome 3 is the module's analysis: your own sitting
-log is the evidence base.
+The Step 3 sitting plus your continuing b4 habit (one more logged
+sitting this week, your choice of form). The comparison in outcome 3
+is the module's analysis: the lecturer's evidence carries the claim,
+your log carries the reflection.
 
 ## Assessment
 
@@ -110,8 +119,8 @@ Rubric (observable):
 | criterion | exemplar of strong work | rejection example |
 |---|---|---|
 | Rinzai/Soto distinction | two lines each, distinguishable by what the meditator does | "Rinzai is intense, Soto is calm" with no practice content |
-| claim tested | the lecture's claim quoted or paraphrased, then two of your own log entries brought against it | the claim restated with no test |
-| Zen sitting logged | one b4-format line naming the form and one named difference from prior sittings | the sitting skipped, or logged with no comparison |
+| claim and reflection | the lecture's claim quoted or paraphrased with the lecturer's evidence stated, then a separate reflection paragraph naming two of your own log entries | the claim restated with no evidence, or a log entry presented as proof of the historical point |
+| Zen-informed observation | one b4-format sitting line with one observation on what the Soto-register account suggests about it | the sitting skipped, or logged with no observation |
 | suffering answer | the learner's own current answer, changed or confirmed by the lecture, stated in their terms | the lecture's topic list |
 
 Self-assessment: one line on which lecture changed your picture of
@@ -128,19 +137,21 @@ No rebirth-dependent content is assigned.
 
 ## Workload arithmetic
 
-- Measured media: Lecture 1, 1:28:04 (whole); Lecture 3, 1:40:17
-  (whole); total 3 h 8 m 21 s, both spread across multiple sittings.
-- Estimated: written work (distinctions, test, answers) ~90 m; two
-  logged sittings 20 m. Estimates labelled as estimates.
-- Module total: about 4 h 20 m across at least a week (the two long
-  lectures make this a heavy module; the spread is by design).
+- Measured media: Lecture 1, 1:28:04 (whole, two viewing stops);
+  Lecture 3, 1:40:17 (whole, two viewing stops); total 3 h 8 m 21 s.
+- Estimated: written work (distinctions, claim-and-reflection,
+  answers) ~90 m; two logged sittings 20 m. Estimates labelled as
+  estimates.
+- Module total: about 4 h 58 m (3:08:21 + 1:30 + 0:20) across at
+  least a week (the two long lectures make this a heavy module; the
+  spread is by design).
 
 ## Sources (verification status)
 
 | resource | status | verified | notes |
 |---|---|---|---|
-| Kirchner, "Buddhism, Zen, and the Question of Suffering", https://www.youtube.com/watch?v=UVXpdAavGgQ | verified-video | 2026-10-26 (this session) | duration 1:28:04 on the watch page; The Buddhist Society channel; lecture held 27 June 2024 (100th-anniversary series, Numata Foundation-supported); no chapter list printed, whole lecture assigned with spread note |
-| Kirchner, "Thoughts on Meditation", https://www.youtube.com/watch?v=jPxuvitdsRI | verified-video | 2026-10-26 (this session) | duration 1:40:17 on the watch page; same series, 3 July 2024; covers Zen meditation, Rinzai vs Soto, the place of meditation in Buddhism; no chapter list printed, whole lecture assigned with spread note |
+| Kirchner, "Buddhism, Zen, and the Question of Suffering", https://www.youtube.com/watch?v=UVXpdAavGgQ | verified-metadata | 2026-10-26 (this session) | duration 1:28:04 on the watch page; The Buddhist Society channel; lecture held 27 June 2024 (100th-anniversary series, Numata Foundation-supported); no chapter list printed, whole lecture assigned with viewing stops; CONTENT NOT YET INSPECTED beyond the series description, so content claims below are bounded to what that description states |
+| Kirchner, "Thoughts on Meditation", https://www.youtube.com/watch?v=jPxuvitdsRI | verified-metadata | 2026-10-26 (this session) | duration 1:40:17 on the watch page; same series, 3 July 2024; the series description covers Zen meditation, Rinzai vs Soto, the place of meditation in Buddhism; no chapter list printed, whole lecture assigned with viewing stops; CONTENT NOT YET INSPECTED beyond the series description |
 | Kirchner credentials | verified | 2026-10-26 (parallel session harvest receipt, ledger-recorded; the Society's series page) | Maryland 1949; Waseda; Shōfuku-ji under Yamada Mumon Roshi; ordained 1974; Kenchō-ji and Kennin-ji training; MA Otani; Nanzan Institute; resides at Tenryū-ji, Kyoto |
 
 No paywalled or app-gated content (both lectures free on the Society's
