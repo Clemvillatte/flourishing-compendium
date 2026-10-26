@@ -10,7 +10,7 @@ Bounded Phase-D2 verification assist for the Greek lane (deg-arch-inventory-wolx
 
 ### 2. Aristotle open carriers (Gutenberg) — CONFIRMED with IDs
 
-From the Project Gutenberg catalogue (opened this session; the Politics full text at gutenberg.org/files/6762/6762-h.htm was opened and read — contents, Ellis translation, Book I opening):
+From the Project Gutenberg catalogue (search-read this session; the Politics full text at https://www.gutenberg.org/files/6762/6762-h/6762-h.htm was **directly fetched this session (v2 upgrade)**: Ellis translation, Book I Chapter I opening "As we see that every city is a society…", public-domain statement):
 
 | Text | Open carrier | Notes |
 |---|---|---|
