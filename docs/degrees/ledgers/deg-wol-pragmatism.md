@@ -28,6 +28,8 @@ carries a UTC timestamp and the agent id.
 | https://en.wikisource.org/wiki/How_to_Make_Our_Ideas_Clear | 2026-10-26, same session bound as the row above | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | M1 primary text opened: Peirce 1878 essay on Wikisource (public domain); the assigned excerpt (third-grade rule through the free-will example) read on the opened page, maxim sentence confirmed verbatim, excerpt measured at 646 words |
 | https://youtubetotranscript.com/transcript?v=ksLO4i5pIBM&current_language_code=en | 2026-10-26, between the 04:45:41Z clock reading and the repairs push (same session) | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | M01-P03 coverage upgrade: full third-party transcript read; Peirce, James and Dewey all discussed; meaning/truth as practical outcome confirmed; Peirce discussed from the opening onward, James at length in the middle, Dewey in the middle and near the end; no printed timestamps in the transcript, whole-episode assignment retained (third-party transcript route per the M01-P07/P12 verification precedent) |
 | https://stories.tamu.edu/news/2007/10/26/john-j-mcdermott-a-true-philosopher-at-heart/ | 2026-10-26, between the 04:51Z repairs work and the round-2 push (save timestamp carries the bound) | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | M01-P03 guest credentials on an opened institutional page (Texas A&M Stories, fetched in full this session): John J. McDermott, "distinguished professor of philosophy and humanities at Texas A&M University", general editor of The Correspondence of William James. Note: the artsci.tamu.edu profile page was located by search but its fetch was blocked (client error); the credential basis is the fetched stories.tamu.edu page (replaces the episode-description basis) |
+| https://public.econ.duke.edu/~kdh9/Courses/Pragmatism/$American%20Philosophy%20Syllabus%20Fall%202016.pdf | 2026-10-26, between the 04:53:22Z clock reading and the round-3 push (save timestamp carries the bound) | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | m1 Step 3 curricular claim opened directly by this worker: Duke PHIL 333 syllabus confirmed — schedule line 11/10/16 assigns Dewey "The Construction of the Good" and 11/15/16 assigns Dewey "Philosophy and Democracy"; Peirce "The Fixation of Belief" (9/1/16) and "How to Make Our Ideas Clear" (9/8/16) confirmed; no Whitehead or process philosophy; assessment weekly assignments 35% / participation 30% / final 35% |
+| https://faculty.georgetown.edu/blattnew/prag/index.shtml | 2026-10-26, same session bound as the Duke row | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | m1 Step 3 curricular claim opened directly by this worker: Georgetown PHIL 351 page confirmed — required Dewey volume is The Essential Dewey vol. 2: Ethics, Logic, Psychology; no Dewey education applications on the page; no Whitehead or process philosophy; themes confirmed (organism-environment-action, truth and knowledge, James vs Dewey on value, fact/value, applications) |
 | https://en.wikisource.org/wiki/The_Will_to_Believe | 2026-10-26, same session bound as the transcript row | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | m1 Step 3 grounding, opened for verbatim quotes: live/forced/momentous option definitions, "Our passional nature must, and lawfully may, decide an option between propositions, whenever it is a genuine option that cannot by its nature be decided on intellectual grounds" confirmed verbatim; public domain |
 | https://www.gutenberg.org/files/5116/5116-h/5116-h.htm | 2026-10-26, same session bound as the transcript row | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | m1 Step 3 grounding, opened for verbatim quotes (Project Gutenberg #5116, public domain): "The pragmatic method... is to try to interpret each notion by tracing its respective practical consequences"; "Theories thus become instruments, not answers to enigmas, in which we can rest"; "The true is the name of whatever proves itself to be good in the way of belief, and good, too, for definite, assignable reasons"; "Truth happens to an idea" confirmed verbatim in Lecture II |
 | https://www.gutenberg.org/files/37423/37423-h/37423-h.htm | 2026-10-26, same session bound as the transcript row | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | m1 Step 3 grounding, opened for verbatim quotes (Project Gutenberg #37423, public domain): Dewey's definition of reflective thought and "The origin of thinking is some perplexity, confusion, or doubt" confirmed verbatim in How We Think (1910) |
@@ -352,3 +354,48 @@ m1 remains DRAFT NOT CLEARED. Routed items: (a) supervisor
 module-QC, including the two pending video items (segmentation with
 timestamps, playback inspection, caption status); (b) advisor
 re-review round 3 requested.
+
+## Advisor QC round 3 on m1-orientation (2026-10-26, worker-pplx-pragmatism-1026b; clock 04:54:23Z measured)
+
+Five findings; state after this pass:
+
+1. Media checks (ATTEMPTED AND DOCUMENTED AS BLOCKED): the cloud
+   browser was used to open the YouTube watch page; YouTube served
+   its bot-check dialog ("Sign in to confirm you're not a bot") and
+   withheld the player data (empty videoDetails, no caption tracks,
+   no chapter markers). The module's verification section now
+   documents both attempts and the failure; the resource status is
+   explicitly incomplete on playback inspection, segmentation and
+   caption status, with the duration resting on the 2026-10-25
+   watch-page measurement and the whole-episode assignment standing.
+   The claim that the session "cannot open a player" is withdrawn;
+   the documented fact is that the two attempts this session were
+   blocked by YouTube's bot check. Items remain routed to supervisor
+   module-QC.
+2. Instructional contradictions (APPLIED): Step 4's opening now
+   describes the actual sequence (item 1: Peirce's hardness case then
+   the stipulated introvert case; item 2: a second stipulated case;
+   item 3: the learner's own). Rubric criterion 3's strong exemplar
+   now supplies two to three sentences per figure.
+3. Citation/provenance (APPLIED): inline links added for the Peirce
+   belief/doubt frame (the essay), the McDermott attribution (the
+   episode), the Texas A&M credential page, and the Duke and
+   Georgetown curricular claims. The Duke syllabus PDF and the
+   Georgetown PHIL 351 page were OPENED DIRECTLY by this worker this
+   session (rows above); the claims no longer rest on inherited
+   ledger descriptions alone. Step 1's transcript basis is now
+   described as a prompted extraction with its extent named in the
+   verification section.
+4. TASKBOARD repair (APPLIED): the round-2 slicing bug duplicated
+   the shared degree-4376b4ec checkpoint suffix; the duplicate block
+   (505 chars) was removed this pass with the first occurrence and
+   the other agents' entries preserved; the repaired section was
+   re-inspected. Future bounded replacements require 0 <= start < end.
+5. Timestamps (APPLIED): the 04:52:00 "measured" labels are replaced
+   by fresh recorded readings (04:53:22Z and 04:54:23Z, both date -u
+   in-session); no invented minutes remain.
+
+m1 remains DRAFT NOT CLEARED; supervisor module-QC and advisor
+re-review round 4 requested. The module is handed to the supervisor
+as blocked work with two named pending video items, per the advisor's
+round-3 instruction.

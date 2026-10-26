@@ -50,11 +50,15 @@ outcome and principles treated as working hypotheses that must bear fruit
 in lived experience. The episode's transcript (opened for verification;
 no printed timestamps, so the whole episode is assigned) shows the shape
 of the discussion: Peirce from the opening onward, James at length in
-the middle, Dewey in the middle and again near the end. Take notes as
+the middle, Dewey in the middle and again near the end (a prompted
+transcript extraction; see the verification section for its extent).
+Take notes as
 you watch on two questions only: what each of the three figures seems to
 be credited with, and any moment where a philosophical claim gets tested
 against what happens in a life. One note-taking prompt worth adding:
-the guest, John McDermott, cautions that reading James as saying truth
+the guest, John McDermott (distinguished professor of philosophy and
+humanities at Texas A&M University, per the [Texas A&M profile](https://stories.tamu.edu/news/2007/10/26/john-j-mcdermott-a-true-philosopher-at-heart/)),
+cautions that reading James as saying truth
 is whatever is useful is too quick; catch what he offers instead. You
 will use the notes in Step 3 and the graded work; the episode itself is
 the only required viewing in this module.
@@ -95,9 +99,13 @@ Test it against your notes from the video.
 Peirce, a logician working on the sciences, asked where beliefs come
 from and how they settle. Doubt is an unsettled state that experience
 disrupts us with, belief is a settled habit of expectation, and inquiry
-is the process that moves us from one to the other; the maxim you read
-in Step 2 is his instrument for making ideas clear enough to be tested.
-On the episode, McDermott puts Peirce's view of truth this way: it is
+is the process that moves us from one to the other (the frame of his
+[How to Make Our Ideas
+clear](https://en.wikisource.org/wiki/How_to_Make_Our_Ideas_Clear),
+whose maxim you read in Step 2); the maxim is his instrument for making
+ideas clear enough to be tested. On the
+[episode](https://www.youtube.com/watch?v=ksLO4i5pIBM), McDermott puts
+Peirce's view of truth this way: it is
 what works at the limit of inquiry, with convergence among all rational
 inquirers.
 
@@ -135,10 +143,14 @@ of the grounds that support it and the further conclusions to which it
 tends", and he locates its origin: "The origin of thinking is some
 perplexity, confusion, or doubt." The university curricula this walk
 was benchmarked against teach his ethics and his democracy texts side
-by side with the classics (Duke's syllabus assigns Dewey's
-Construction of the Good and Philosophy and Democracy; Georgetown's
-required Dewey volume is the ethics one), and m4 is planned to read
-Dewey on inquiry, ethics and democracy in that company.
+by side with the classics (the [Duke PHIL 333
+syllabus](https://public.econ.duke.edu/~kdh9/Courses/Pragmatism/$American%20Philosophy%20Syllabus%20Fall%202016.pdf)
+assigns Dewey's Construction of the Good and Philosophy and Democracy;
+Georgetown's [PHIL 351
+page](https://faculty.georgetown.edu/blattnew/prag/index.shtml)
+requires The Essential Dewey vol. 2: Ethics, Logic, Psychology), and m4
+is planned to read Dewey on inquiry, ethics and democracy in that
+company.
 
 You will restate this relation from memory in the graded work. One
 caution while you take notes in Step 1: the episode's coverage of the
@@ -149,10 +161,11 @@ reads those texts themselves.
 ### Step 4: worked example with fading (Outcome 2)
 
 The maxim applied to a conception, demonstrated three times with the
-guidance faded. The first two items use one stipulated conception so
-you can watch the moves without new content; the third moves to your
-own. The stipulated case is constructed for teaching; test it against
-your own material rather than take it as a finding.
+guidance faded. Item 1 demonstrates the pattern twice, first on Peirce's
+own hardness case and then on a stipulated everyday conception; item 2
+moves to a second stipulated case with the steps named; item 3 moves to
+your own material. The stipulated cases are constructed for teaching;
+test them against your own material rather than take them as findings.
 
 The conception: "I am an introvert."
 
@@ -284,17 +297,19 @@ only what serves learning to test beliefs in experience.
    of believing presented as part of the conception's meaning.
 3. Each figure gets two to three sentences that place them in relation
    without collapsing them into one another. Strong: "Peirce supplied
-   the logic: doubt disrupts, belief is settled habit, the maxim makes
-   ideas testable. James turned it on living: theories are instruments,
-   truth happens to an idea, and for him our passional nature may
-   lawfully decide only a live, forced, momentous option that cannot
-   be decided on intellectual grounds. Dewey widened it: thinking
-   begins in perplexity and works by considering beliefs in the light
-   of their grounds and tendencies." Rejection: three biographical
-   paragraphs with no relation between them; all three figures merged
-   into "the pragmatists said truth is what works"; or a James
-   sentence that drops his restrictions and reads as permission to
-   believe whatever is useful.
+   the logic: doubt disrupts, belief is settled habit, inquiry moves
+   from one to the other. His maxim makes ideas testable by tracing
+   their conceivable practical effects. James turned the method on
+   living: theories are instruments, truth happens to an idea. For him
+   our passional nature may lawfully decide only a live, forced,
+   momentous option that cannot be decided on intellectual grounds.
+   Dewey widened the method: thinking begins in perplexity. It works
+   by considering beliefs in the light of their grounds and
+   tendencies, and he extended it to ethics and democracy." Rejection:
+   three biographical paragraphs with no relation between them; all
+   three figures merged into "the pragmatists said truth is what
+   works"; or a James sentence that drops his restrictions and reads
+   as permission to believe whatever is useful.
 4. The scope statement names the walk's coverage in the learner's own
    words and each exclusion with its owner or branch. Strong: an answer
    that states the method-and-application coverage, names
@@ -354,10 +369,17 @@ with evidence and dates in ledgers/deg-wol-pragmatism.md:
   John J. McDermott is "distinguished professor of philosophy and
   humanities at Texas A&M University" and general editor of The
   Correspondence of William James. Language: English. Caption
-  status on the player: not yet verified; segmentation into
-  timestamped units and playback inspection remain PENDING, and the
-  module's whole-episode assignment stands until they are done.
-  Verified-video with those two items pending.
+  status on the player: not verified; the anonymous player response
+  returns no caption-track list, and this session's attempts to open
+  the player were blocked (a cloud-browser session met YouTube's
+  bot-check dialog, "Sign in to confirm you're not a bot"; an
+  anonymous page fetch returned the watch page with the player data
+  withheld, empty videoDetails and no chapter markers). Playback
+  inspection and segmentation into timestamped units therefore remain
+  PENDING, with the failure documented here; the duration rests on the
+  2026-10-25 watch-page measurement, and the whole-episode assignment
+  stands. Status: verified-video with those items incomplete and
+  routed to the supervisor module-QC.
 - Peirce, How to Make Our Ideas Clear (Wikisource, public domain,
   1878): opened this session (2026-10-26); the assigned excerpt was
   read on the opened page, the maxim sentence confirmed verbatim, the
