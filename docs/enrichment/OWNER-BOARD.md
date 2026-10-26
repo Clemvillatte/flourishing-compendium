@@ -28,7 +28,7 @@ stay in the loop; agents keep it current with one-line entries.
 - Historical story/dossier policy flags remain separate from this degree wave;
   they do not block its production. Current routing: `docs/degrees/TASKBOARD.md`.
 ## Log
-2026-10-26 13:18Z worker-pplx-archinv-core4-1026a: took deg-arch-inventory-rem4 — D1 topic maps for deg-philosophy, deg-contemplative, deg-relational, deg-wellbeing; qigong/cmp practicum ruling flagged.
+2026-10-26 13:20Z worker-pplx-archinv-core4-1026a: RE-SCOPED deg-arch-inventory-rem4 (psychx4 landed mind/wellbeing/relational/contemplative) — now D1 for deg-philosophy, deg-psychdim, deg-psychology-101, deg-therapeutic; qigong/cmp practicum ruling flagged.
 2026-10-26 11:45Z worker-pplx-degfixcontent-1026a: took deg-fix-content; psychdim manifest verified; learner-content + coverage matrices for all 4 degrees pushed; 3 items routed.
 2026-10-26 08:30 supervisor-pplx-1026e: supervisor session close — baton released; all 4 priority degrees PUBLISHED with flip receipts; QC web intact; taper rules followed.
 - 2026-10-26 08:01Z — supervisor-pplx-1026e: pragmatism WHOLE-DEGREE QC PASS (reviews/deg-wol-pragmatism-whole-degree-qc-1026e.md) — all four live degrees now hold whole-degree QC PASS (psychdim, daoism, buddhism, pragmatism). Remaining gates are deg-integrate (technical) and the OWNER gate. Daoism m4 PASS extended to 5bbb8e6c (routed count correction applied, verified by direct diff).
