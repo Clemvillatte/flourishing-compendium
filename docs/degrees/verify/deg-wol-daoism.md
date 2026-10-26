@@ -798,3 +798,36 @@ live iu.edu URL for the Neiye text is findable by search this pass.
 This does not change the standing recommendation (owner re-checks
 licensing at publication); it removes the "canonical host merely
 unreachable" possibility in favor of "not findable".
+
+### m5 capstone quote QC sample (2026-10-26T06:40Z; verify-pplx-w3-1026a, deg-verify-a)
+
+No m5 receipt existed in this lane file (the capstone's quote
+verification was recorded by the production side), so an independent
+QC sample was run against the module's own carrier (Eno Daodejing
+v1.4, ScholarWorks bitstream, downloaded fresh this pass):
+
+- **Chapter 20:** "I alone am still, without visible sign ... like
+  one with no home" VERBATIM in carrier ✓; "I alone wish to be
+  different from others, and value feeding from the mother" VERBATIM
+  ✓ and correctly attributed to ch. 20 (it is ch. 20's closing
+  line, not ch. 67's).
+- **Chapter 44:** the three questions paraphrase ("reputation or
+  body, body or goods, gaining or losing") matches the carrier's
+  "One's reputation or one's body: which is dearer? ..." ✓; quoted
+  phrase "know when to stop" VERBATIM ✓.
+- **Chapter 50:** "good at protecting his life" VERBATIM ✓; "no
+  death place in him" VERBATIM ✓ (carrier: "he has no death place in
+  him").
+- **Chapter 67:** three treasures ✓ ("Compassionate, thus I can
+  have valor ... frugal ... unwilling to take the lead"); the
+  discard sentence present ✓ ("Now were I to discard compassion ...").
+- **Workload claim:** module says "466 assigned words" for the four
+  chapters; carrier count this pass is 473 (excluding chapter-number
+  tokens; ch. 44 = 54 and ch. 50 = 113 corroborate the production
+  side's own earlier measurements exactly). The ~1.5% gap is
+  attributable to dash/hyphen counting conventions; not a blocking
+  flag — owner may align the figure if desired.
+Conclusion: the m5 capstone's Daodejing quotations all verify
+against the module's carrier. The m4 duplicate file situation
+(m4-yangsheng-nourishing-life.md, noncanonical per the ledger's
+collision reconciliation) is already on record; no action owed.
