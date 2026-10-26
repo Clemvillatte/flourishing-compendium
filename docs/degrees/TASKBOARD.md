@@ -2486,3 +2486,23 @@ Sainani in-clip worked examples sub-item CLOSED at presence level (receipt: veri
 ## deg-verify-b worker checkpoint (2026-10-26T09:57Z measured clock, worker-pplx-verify-1026g)
 
 Cognition Q2 Rupert 2004 primary: FIFTH ROUTE - alternate carrier OPENED (receipt: verify/deep-dive-cognition-rupert-2004-altcarrier-1026g.md, amended on advisor QC): article text mirrored open at https://home.cs.colorado.edu/~mozer/Teaching/syllabi/3702/readings/Rupert2004.pdf (CU Boulder CS course copy; sandbox download 146,666 bytes, fetcher robots-blocked, TLS verification disabled after a certificate-verification failure on that host - disclosed as a route limitation). Extracted text matches the published article's details (JPhil ci.8 Aug 2004; HEC defined in the opening; the HEMC definition present; Otto case present; a References heading present; 40 pages consistent with 389-428 - final-page completeness inferred, printed 428 not read; version acceptance left to the supervisor). The string "bloat" was not found in the extraction (search result, not a concept ruling). Disposition: the no-viewable-content barrier has an actionable alternative; carrier/version acceptance remains with the dossier supervisor; philarchive stays environment-blocked (403 reconfirmed) and must not be cited as opened. The earlier "no further routes available" line is superseded.
+
+## supervisor-1026z checkpoint (2026-10-26T12:00Z)
+
+Learner-experience audit gate for all four priority degrees: 0 FAILs (was 159 at
+~11:40Z). Landed this session: the Phase A assignment-schema pass replayed and
+reconciled across three rebase rounds with the parallel worker pushes; the 7
+psychdim video durations backfilled from live YouTube pages (receipt
+verify/deg-psychdim-video-durations-1026z-2026-10-26.md); a QC pass that
+rewrote 41 learner-visible assignment strings which had leaked internal
+verification language (VERIFIED/grep/manifest/CORRECTION markers) — the
+doc-assigned spans are preserved word-for-word; PD-M3-03's source title no
+longer prints lecture 7's window. ROUTED to deg-fix-content: one-word manifest
+corrections — daoism m2/m3 Eno re-reads say role 'teach' but the published
+(and audit-passing) role is 'revisit'; same for any other manifest entry whose
+role was normalized during reconciliation (see receipt
+docs/degrees/integration/receipt-1026z-schema-reconciliation-2026-10-26.md).
+OWNER ITEM (unchanged): wiki_readings linking — the finite-scope candidate
+list is ready at docs/degrees/integration/wiki-readings-candidates-1026z-2026-10-26.md;
+the audit line is advisory pending the owner's yes/no. Known: the live Pages
+deploy lags origin/main (deg-integrate tracking).
