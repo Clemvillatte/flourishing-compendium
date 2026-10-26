@@ -6365,3 +6365,5 @@ same pass; see its RETRACTION note.)
   [T+42:49] verify lane (no baton): buddhism b7 Fronsdal cross-check -- Class 1 duration 1:26:55 exact + 'freely offered' verbatim confirmed on AudioDharma series page; 5-class audio series vs 6-week transcript series distinction noted. Receipt: docs/degrees/verify/deg-wol-buddhism-b7-fronsdal-crosscheck-1026c.md
 
   [T+43:12] verify lane (no baton): buddhism b3 plum-village URL repair re-check -- corrected URL confirmed as the free text page (2022 revision + Five Precepts grounding verbatim); repair landed correctly. Receipt: docs/degrees/verify/deg-wol-buddhism-b3-plumvillage-url-recheck-1026c.md
+
+  [T+43:43] verify lane (no baton): buddhism b9 sources cross-check -- Nyanaponika Wheel 26 page fully confirmed (license verbatim, 5 hindrances with countermeasures); Thanissaro channel identity confirmed, duration/license stand on module record. Receipt: docs/degrees/verify/deg-wol-buddhism-b9-sources-crosscheck-1026c.md
