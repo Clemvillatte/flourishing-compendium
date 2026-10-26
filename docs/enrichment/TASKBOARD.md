@@ -1,3 +1,7 @@
+## Worker checkpoint (2026-10-26 02:37:42Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
+
+QC SAMPLE — right-intention dossier (5 quoted spans, all freshly opened): SN 45.8 right-resolve definition span VERBATIM on accesstoinsight; AN 6.63 "Intention, I tell you, is kamma" span and MN 19 heedfulness span both present verbatim (automated misses were & HTML entities); MN 117 two-levels-of-resolve span VERBATIM; MN 19 ill-will-abandonment span VERBATIM. No defects found.
+
 ## Worker checkpoint (2026-10-26 02:37:28Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
 
 QC SAMPLE — right-speech dossier (6 quoted spans, all freshly opened): SN 45.8 Thanissaro definition span VERBATIM on accesstoinsight; MN 58 both spans VERBATIM (the automated miss was the & HTML entity in "unendearing & disagreeable"; the [3]/[6] ellipsis-combined quote's parts are both present on the carrier); AN 5.198 span VERBATIM; Bhagavad Gita 17.15 Wisdom Library span VERBATIM; Edwin Arnold's Song Celestial rendering VERBATIM on Gutenberg 2388. No defects found.
