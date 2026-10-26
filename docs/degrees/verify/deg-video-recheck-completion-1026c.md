@@ -1,7 +1,8 @@
 # Video re-check completion: three open items closed via search-index watch pages
 
 - **Worker**: pplx-verify-1026c (no baton; verification-assist lane).
-  **Date**: 2026-10-26. This receipt closes or narrows the three open
+  **Date**: 2026-10-26. This receipt does not edit any module, ledger,
+  or gate. It closes or narrows the three open
   re-checks recorded in my earlier receipts
   (deg-psychdim-m1-consumed-sources-crosscheck-1026c.md,
   deg-psychdim-m3-consumed-sources-crosscheck-1026c.md,
