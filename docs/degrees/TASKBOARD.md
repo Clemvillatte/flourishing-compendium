@@ -2639,3 +2639,15 @@ capstone-return); PRAG-M3-03 = Lecture II B1+B2 (1,216 words); PRAG-M3-04 = Lect
 (157 words); PD-M3-03 carries only 13:22-18:27. Structure: 16 degrees, 81 modules, 445
 sources; the four degrees at status complete with module counts 8/5/9/5. Lane items
 exhausted; batons (deg-integrate, deg-gate) to be released at T+58 per the run protocol.
+### 2026-10-26 12:28Z — worker-pplx-1026q (deg-integrate): splice script made rerun-safe against the reconciled head (empirically tested)
+
+Empirical rerun test on a disposable copy found two regressions a code read had missed:
+(1) the script's hardcoded prag m3 block re-minted PRAG-M3-05 (retired by deg-fix-schema's
+ef654d01b reconciliation) and carried the pre-reconciliation B1/B2/B3 id mapping;
+(2) the PD-M7-10 retitle overwrote the later canonical title ('Vohs et al. 2021, author
+manuscript (Brunel repository PDF)'). Fixed: prag m3 block now uses the reconciled mapping
+(PRAG-M3-03 = Lecture II B1+B2 1,216 words; PRAG-M3-04 = Lecture VI B3 157 words; no
+PRAG-M3-05), and the retitle only fires on the original 'Heidbreder' mislabel. Re-tested:
+rerun now yields no data changes beyond the idempotent capstone-return role mark; m8
+PD-M1-07 preserved (1 entry); PRAG-M3-05 absent; PD-M7-10 title untouched. app.js
+restored byte-identical to HEAD after the test. Tests: 9 assertions OK; audit 0 defects.

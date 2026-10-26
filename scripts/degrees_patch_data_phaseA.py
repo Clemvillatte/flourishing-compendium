@@ -108,6 +108,11 @@ def main():
         if isinstance(r, dict) and r.get('level'):
             level_for_new = r['level']
             break
+    # Source-id mapping per deg-fix-schema's reconciliation (ef654d01b) and the
+    # corrected manifest: B1+B2 both Lecture II under PRAG-M3-03; B3 Lecture VI
+    # under PRAG-M3-04. PRAG-M3-05 was RETIRED by that reconciliation — do NOT
+    # re-mint it here (an earlier version of this block did, based on the
+    # pre-reconciliation splice mapping).
     for sid, url, title, locator in [
         ('PRAG-M3-02', 'https://en.wikisource.org/wiki/The_Will_to_Believe',
          'James, The Will to Believe (Wikisource)',
@@ -115,15 +120,11 @@ def main():
         ('PRAG-M3-03',
          'https://en.wikisource.org/wiki/Pragmatism:_A_New_Name_for_Some_Old_Ways_of_Thinking/Lecture_II',
          'James, Pragmatism Lecture II (Wikisource)',
-         "Reading B1, 952 words ('To take in the importance of Peirce's principle' through 'make nature over again by their aid')"),
+         "Lecture II, two passages totalling 1,216 words (about 9 minutes at 130 words per minute): 952 words from 'To take in the importance of Peirce's principle' to 'make nature over again by their aid', then 264 words from 'I am well aware how odd it must seem' to 'our duty would be to shun truth, rather'"),
         ('PRAG-M3-04',
-         'https://en.wikisource.org/wiki/Pragmatism:_A_New_Name_for_Some_Old_Ways_of_Thinking/Lecture_II',
-         'James, Pragmatism Lecture II (Wikisource)',
-         "Reading B2, 264 words ('I am well aware how odd it must seem' through 'our duty would be to shun truth, rather')"),
-        ('PRAG-M3-05',
          'https://en.wikisource.org/wiki/Pragmatism:_A_New_Name_for_Some_Old_Ways_of_Thinking/Lecture_VI',
          'James, Pragmatism Lecture VI (Wikisource)',
-         'Reading B3, 157 words (the four selections quoted in the Step 2 teaching; noncontiguous passages)'),
+         'Lecture VI, four short selections totalling 157 words (about 1 minute at 130 words per minute), printed in full in the module\u2019s second step; the selections are not contiguous in the lecture'),
     ]:
         if get_src(sid) is None:
             new_sources.append({
@@ -270,9 +271,12 @@ def main():
             if new != s['title']:
                 s['title'] = new
                 changes.append('psychdim: PD-M3-03 title no longer carries lecture 7 window')
-        if s.get('source_id') == 'PD-M7-10':
+        if s.get('source_id') == 'PD-M7-10' and 'Heidbreder' in (s.get('title') or ''):
+            # only fix the original mislabel; do not overwrite a later lane's
+            # refined title (current canonical: 'Vohs et al. 2021, author
+            # manuscript (Brunel repository PDF)')
             s['title'] = 'Vohs et al. 2021 author manuscript (preregistered vs exploratory)'
-            changes.append('psychdim: PD-M7-10 retitled to the Vohs 2021 manuscript')
+            changes.append('psychdim: PD-M7-10 mislabel fixed (Heidbreder -> Vohs 2021)')
     # PD-M7-10 bounded locator on its m7 ref
     for r in mods['mod-pd-7'].get('requiredMedia') or []:
         if isinstance(r, dict) and r.get('source_id') == 'PD-M7-10':
