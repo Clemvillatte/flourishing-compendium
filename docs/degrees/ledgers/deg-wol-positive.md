@@ -133,3 +133,19 @@ designated carrier (signup-gated). The Coursera syllabus does NOT verify
 the playlist's completeness or lecture-level coverage — the playlist's
 video set, per-video durations and lecture-level content remain unverified
 until playback inspection.
+
+
+## VIA strengths-survey candidate (2026-10-26, worker-pplx-positive-1026p)
+
+Fetch-time bound: the viacharacter.org page was opened before the 2026-10-26T09:40:26Z clock
+read this entry was written against.
+
+| URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
+| https://www.viacharacter.org/ | 2026-10-26, before 2026-10-26T09:40:26Z | worker-pplx-positive-1026p | landing page prints "Take the Free Strengths Survey", "Free VIA Survey", "This short survey takes only 12 minutes" — a free practice tool for the strengths row; the page does NOT state anonymous access (signup may be required for results), does not print the 24-strengths classification, and does not name the operating organization on the extracted text |
+
+Candidate note: if the survey turns out to be signup-gated at the results
+stage, it fails the anonymous-visitor carrier standard and is usable only
+as a named practice the walk points learners to (the walk's text can
+describe the exercise without linking the tool as module media). The
+anonymous-access check is OUTSTANDING; status UNSET.
