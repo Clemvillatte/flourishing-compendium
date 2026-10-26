@@ -20,9 +20,10 @@ credentials are checked separately from article affiliations.
 ## Production handoff
 
 - **M1:** use the separate `deg-psychdim-m1-audit.md` for current
-  dispositions. The original p-value and confidence-interval repairs
-  are present; the first-path baseline exception and beta-scale
-  explanation remain proposed owner repairs.
+  dispositions. All findings M1-V01–07 are repaired in the
+  checked owner version `59f2ef8aa`, including the first-path
+  baseline exception and beta-scale explanation. This limited
+  source-audit result does not clear the module.
 - **M3:** the note under PD-V08 identifies the commentary-versus-primary-
   study appraisal mismatch. It offers a source-limited activity rather
   than another required paper.

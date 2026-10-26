@@ -2,7 +2,7 @@
 
 Verifier: verifier-96108df3, `deg-verify-b`, 2026-10-26.
 Target: `modules/deg-psychdim/m1-orientation.md` at owner commit
-`2797000ea`, with subsequent rechecks through `db2633a17`. This is a
+`2797000ea`, with subsequent rechecks through `59f2ef8aa`. This is a
 read-only audit of the owner's teaching file:
 no module edits, gate changes or publication clearance.
 
@@ -15,12 +15,12 @@ rejection of overlap-as-test are now present. The findings below retain
 the audit trail; current residuals are distinguished in the latest
 recheck at the end. This source audit does not clear the module.
 
-The current substantive residual is M1-V07: qualify the missing
-baseline-adherence adjustment for the first path, and give a brief
-beta-scale explanation. The latest recheck also notes the minor
-240-versus-245-minute total. Other earlier residual wording and the
-required-Woolley workload issue have been repaired; do not report
-the original findings as though they were still present.
+The formerly outstanding M1-V07 baseline exception, beta-scale
+explanation and 240-versus-245-minute total have also been repaired
+in `59f2ef8aa`. No repair identified in M1-V01–07 remains outstanding
+in the checked version. This conclusion is limited to the findings
+in this audit; it does not certify every possible statistical,
+pedagogical or source-use issue.
 
 ## M1-V01: Required Noba text needs a statistical correction or a narrower assignment
 
@@ -391,7 +391,7 @@ unrepaired in a handoff. Remaining recommendations are bounded
 wording, metadata and workload work for the production owner; none
 authorises this verifier to edit the owner's module or clear gates.
 
-## Next check
+## Next check proposed at fad50cb03, historical
 
 This audit is routed to the production owner and independent
 pedagogical reviewer. Recheck the changed paragraphs and revised
@@ -435,3 +435,40 @@ This is a source-audit status update. M1 remains DRAFT NOT CLEARED;
 the stop-gate ruling and independent pedagogical review belong to
 the authorised reviewers. No new statistical analysis, module
 content or gate decision was made by this verifier.
+
+## Recheck after owner commit 59f2ef8aa
+
+The current module and the owner's response record were read, rather
+than inferring completion from the commit message.
+
+- **M1-V07 baseline exception repaired:** the lesson now states that
+  adherence was measured only at the follow-up surveys and therefore
+  could not be adjusted for at baseline in the first prediction.
+  The partially worked second example explicitly names the different
+  adjustment set. The paper's measurement schedule supports the
+  explanation independently of whether the lesson links the code
+  ([Study 1 Method](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/)).
+- **Beta safeguard repaired:** before faded practice, the lesson
+  says the betas are regression coefficients, not percentage
+  improvements, individual success probabilities or treatment
+  benefits. The owner used that source-limited formulation rather
+  than asserting a standardisation detail not stated in the paper.
+  The more specific alternative wording above remains a verifier
+  proposal corroborated by the independently opened code and saved
+  `std.all` output; it is not a required replacement for the owner's
+  adequate scale caution
+  ([reported coefficients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/);
+  [analysis code](https://osf.io/a9he8/files/t4gda)).
+- **Workload total repaired:** the current page states about
+  240 minutes and itemises 105 + 15 + 30 + 30 + 60. The correction
+  passage remains inside the reading allowance and the Woolley
+  paper remains optional.
+- **Earlier repairs preserved:** the Noba correction, rejection of
+  overlap-as-test, model-conditional association wording,
+  between-person qualification, attrition counts, Study 4 framing
+  description and noncausal process-map wording remain present.
+
+No M1-V01–07 repair is outstanding in this checked version.
+This is not a new analysis, a full replication, a learner test,
+independent pedagogical clearance or a production stop-gate ruling.
+The module remains labelled DRAFT NOT CLEARED.
