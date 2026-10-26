@@ -583,217 +583,229 @@ lane's 54:15 it would be 2:05:31 — the one-second flag remains
 recorded, not adjudicated).
 
 ### B-V14 — b5 spine recording content inspection: Ajahn Sumedho,
-"Mindfulness and Wisdom" (2026-10-26T05:17Z)
+"Mindfulness and Wisdom" (2026-10-26T05:17Z; corrected 05:30Z per advisor QC)
 
-- URL: https://www.youtube.com/watch?v=SElyOzgkxjo — watch page re-opened
+- URL: https://www.youtube.com/watch?v=SElyOzgkxjo — watch page opened
   this session in a cloud browser (description and metadata readable;
-  no paywall; title matches the oembed receipt B-V09). The player
-  response is LOGIN_REQUIRED for anonymous playback from this
-  environment, so the page's own transcript panel exposes no caption
-  tracks here; that is a playback limitation, not an access defect for
-  learners (the video page is freely reachable and the monastery also
-  distributes the talk audio free: the iHeart "Meditation Retreat 2017
-  by Ajahn Sumedho" podcast carries the same retreat series, its Day 2c
-  episode "Mindfulness and Wisdom" dated 13 May 2017, 59 min — 2.5
-  min under the 1:01:36 watch-page figure, consistent with podcast
-  trimming; the module assigns the YouTube recording, so its 1:01:36
-  figure stands).
-- CONTENT INSPECTION (the owed item): third-party caption extraction
-  (notegpt.io caption route, opened this session) returned the
-  recording's own auto-captions for roughly the first 12 minutes. The
-  spoken content confirms the talk's actual subject: it opens "this is
-  the second evening of this Retreat", frames pariyatti (scriptural,
-  acquired) knowledge against direct wisdom, renders pañña as universal
-  rather than personal or even "Buddhist", pairs sati and pañña
-  ("mindfulness, wisdom go together"), points to awakening to reality
-  ("wake up"), and treats the Four Noble Truths as directives rather
-  than doctrines. Sample boundary: the first ~12 minutes only; caption
-  text is auto-generated (used for subject classification, NOT as a
-  verbatim quotation carrier — no wording in this receipt is offered as
-  verbatim).
-- Classification from the recording itself: a Theravada/Thai Forest
-  Dhamma talk on mindfulness and wisdom, matching the module's bounded
-  claims (talk given 13 May 2017, second evening of the 12-19 May open
-  retreat; retreat context and series corroborated by the thaiforest
-  wisdom series listing, talk 2 of 7). The talk's own content supports
-  the module's use of it as the Thai Forest lineage's voice on
-  mindfulness-and-wisdom.
-- Status: **verified-video** (identity, free access, duration,
-  content classification from the recording's own captions for the
-  opening; the remaining ~49 minutes rest on the description and the
-  corroborated series identity — any future verbatim quotation from this
-  talk must still be checked against a full transcript, which the
-  module does not attempt). Flag for the owner: b5's source-table line
-  can now drop "CONTENT NOT YET INSPECTED" for this recording; the
-  viewing stops are structural and unchanged.
+  no paywall; title matches the oembed receipt B-V09). The anonymous
+  player response was LOGIN_REQUIRED from this environment, so the
+  page's own transcript panel exposed no caption tracks here; the
+  watch page itself resolved, but anonymous playback was bot-blocked
+  in this environment — that observation establishes neither
+  universal inaccessibility nor confirmed learner playback.
+- CONTENT INSPECTION (partial): third-party caption extraction
+  (notegpt.io caption route, video id SElyOzgkxjo, opened this
+  session) returned the recording's own auto-captions for roughly
+  the first 12 minutes (timestamped segments from 00:29). The spoken
+  content of that inspected range frames pariyatti (scriptural,
+  acquired) knowledge against direct wisdom, renders pañña as
+  universal rather than personal or even "Buddhist", pairs sati and
+  pañña ("mindfulness, wisdom go together"), and treats the Four
+  Noble Truths as directives rather than doctrines. Auto-captions:
+  subject classification only, NOT a verbatim quotation carrier.
+- Classification from the inspected sample: a Theravada/Thai Forest
+  Dhamma talk on mindfulness and wisdom, consistent with the
+  module's bounded claims (13 May 2017, the retreat's second
+  evening talk; series corroborated by the thaiforest wisdom
+  listing, talk 2 of 7). BOUNDARY: the remaining ~49 minutes were
+  NOT inspected; full-assignment coverage across the module's whole
+  recording remains open. No separate audio-mirror verification is
+  claimed (a fetched iHeart page this session actually returned a
+  different episode of the retreat series, so no iHeart evidence is
+  relied on here).
+- Status: verified-video (unchanged, on the B-V09 basis); the
+  caption sample above is recorded as partial content evidence
+  with its inspected range stated. ROUTE owner: b5's source-table
+  line can record the sample; "CONTENT NOT YET INSPECTED" can be
+  narrowed to the uninspected remainder, not dropped for the whole
+  recording.
 
-### B-V15 — Fronsdal Class 1 search-discovered mirror rendered (2026-10-26T05:22Z)
+### B-V15 — Fronsdal Class 1 search-discovered mirror rendered (2026-10-26T05:22Z; corrected 05:30Z per advisor QC)
 
 - URL: https://www.youtube.com/watch?v=9ySzMWwdigg — the ledger's
   "rendered-never" priority item from the parallel-session harvest.
   Watch page and oembed opened this session: title "Insight Meditation
   Center / Gil Fronsdal / Introduction to Meditation: Mindfulness
-  Breath [week 1/6]", channel "Buddhist Teachings" (a THIRD-PARTY
-  aggregator channel, 6.3K subscribers — NOT the official Insight
+  Breath [week 1/6]", channel "Buddhist Teachings" (a third-party
+  aggregator channel, 6.3K subscribers — not the official Insight
   Meditation Center channel whose mirrors B-V06 verified), 4K views,
   uploaded about nine years ago; page loads free, no paywall.
-- Identity: it is a re-upload of the 2007 six-week course Week 1 talk
-  ("Mindfulness of Breath"), i.e. the SAME course the module's
-  assigned transcript belongs to — but on a non-institutional
-  channel. The official IMC mirrors verified in B-V06 (yrbgt6ZVYAk
-  et al.) are the 2026 five-class course, a different recording set;
-  the 2007 course's own audio lives on AudioDharma/IMC carriers.
-- Duration: not confirmable from this environment (anonymous player
-  response LOGIN_REQUIRED; no printed figure on the page). Not
-  material: the module does not cite this URL.
-- Status: **not attached — do not attach.** The module's carriers are
-  the IMC transcript page (assigned) and the AudioDharma series
-  (optional listening), both institutional and already verified;
-  a third-party re-upload adds no access value and fails the
-  institutional-carrier preference. This discharges the ledger's
-  render-priority item; no module change requested.
+- What is established: the displayed title and channel only. The
+  recording's correspondence to the module's assigned Week 1
+  transcript (same event, same edition) was NOT verified — the
+  title is consistent with the six-week course's Week 1, nothing
+  more. Duration not confirmable from this environment (anonymous
+  player response LOGIN_REQUIRED; no printed figure on the page).
+- Status: **unused candidate** — the module does not cite this URL,
+  and no attachment is recommended. As a practical matter the
+  module's existing institutional carriers (the IMC transcript
+  page, the AudioDharma series) already serve the same content;
+  nothing in this receipt rests on a hosting-eligibility rule.
 
-### QC note — caption-level inspection attempts, b6/b7 (2026-10-26T05:22Z)
+### QC note — caption-level inspection attempts, b6/b7 (2026-10-26T05:22Z; corrected 05:30Z)
 
 - The b5 caption route (B-V14) used a third-party caption-extraction
-  free tier; its per-session generation quota was exhausted after the
-  b5 sample, and the alternative caption services are Cloudflare-
-  blocked or non-functional from this environment. Caption-level
-  sampling of Kirchner Lecture 1 and the Batchelor lecture was
-  therefore NOT obtained this session; their existing verified-video
-  bases (watch-page abstracts, B-V07/B-V08) stand unchanged. No
-  status was upgraded or downgraded on either recording.
+  service; subsequent generation attempts on that service did not
+  return a transcript (cause undetermined — no quota error was
+  observed), and the alternative caption services were Cloudflare-
+  blocked or non-functional from this environment at that point.
+  A later route (downsub.com, see B-V18-B-V20) then succeeded, so
+  this note is historical: caption-level sampling was NOT blocked
+  for the whole session, only for the first route. Their existing
+  verified-video bases (watch-page abstracts, B-V07/B-V08) stand.
 
-### B-V16 — b5 BLOCKED item discharged: The Collected Teachings of
-Ajahn Chah (single volume) free full text (2026-10-26T05:23Z)
+### B-V16 — b5 BLOCKED item narrowed: The Collected Teachings of
+Ajahn Chah (single volume) free full text (2026-10-26T05:23Z;
+corrected 05:30Z per advisor QC)
 
 - The module's BLOCKED note (QC round 4) records an access failure:
   the monastery's page shows only the introduction excerpt and the
-  session's fetches could not confirm a download. DISCHARGED: the
-  monastery's own CDN carries the FULL single-volume PDF —
+  session's fetches could not confirm a download. ACCESS RESOLVED:
+  the monastery's own CDN carries the full single-volume PDF —
   https://cdn.amaravati.org/wp-content/uploads/2014/09/The-Collected-Teachings-of-Ajahn-Chah-Single-Volume-Ajahn-Chah.pdf
-  — fetched this session (8.8 MB, 200 after the http->https redirect).
-  The PDF's own front matter confirms: "Published for free
+  — fetched this session (8.8 MB, 200 after the http->https
+  redirect). The PDF's own front matter confirms: "Published for free
   distribution by ARUNA PUBLICATIONS", ISBN 978-1-908444-16-5,
   Creative Commons Attribution-NonCommercial-NoDerivs 2.0 UK, third
-  edition 2011; the publisher page names Aruna Ratanagiri Buddhist
-  Monastery and points to forestsanghapublications.org for downloads.
-  No paywall anywhere on the route.
-- Contents verified from the PDF itself (contents pages): the volume
-  prints the Introduction (iii) — the same lineage text the module
-  assigns from the monastery page excerpt — and the named teachings,
-  including: The Middle Way Within (1), The Peace Beyond (9),
-  Convention and Liberation (21), No Abiding (29), Evening Sitting
-  (37), About Being Careful (49), It Can Be Done (69), Understanding
-  Dukkha (85), The Dhamma Goes Westward (95), Even One Word Is Enough
-  (111), Making the Heart Good (125), Our Real Home (145), The Four
-  Noble Truths (157), A Gift of Dhamma (225), Reading the Natural
-  Mind (237), Questions and Answers (263), Steady Practice (277),
-  Training This Mind (305), Tranquillity and Insight (307).
-- Alternate free carriers, both opened this session: the Forest Sangha
-  publications page lists the single volume with PDF/EPUB
-  (forestsangha.org); the Birken monastery mirror PDF returns 200
-  (birken.ca, 2.7 MB, same front matter per its search-indexed text).
-- Status: **verified (text)** — identity, free access, free-distribution
-  licence and contents confirmed from the artifact itself. ROUTE
-  owner: the b5 BLOCKED note can be lifted; outcome 3's two-teachings
-  assignment can be written against the named teachings above (the
-  teaching selection is the owner's module decision, not this lane's).
+  edition 2011. No paywall on the route.
+- Contents verified from the PDF's own contents pages (extraction
+  this session, PDF pages 7-13): the volume prints the Introduction
+  (iii) — the same lineage text the module assigns from the
+  monastery page excerpt — and the named teachings, including: The
+  Middle Way Within (1), The Peace Beyond (9), Convention and
+  Liberation (21), No Abiding (29), Evening Sitting (37), About
+  Being Careful (49), It Can Be Done (69), Understanding Dukkha
+  (85), The Dhamma Goes Westward (95), Even One Word Is Enough
+  (111), Making the Heart Good (125), Our Real Home (145), The
+  Four Noble Truths (157), A Gift of Dhamma (225), Reading the
+  Natural Mind (237), Questions and Answers (263), Steady Practice
+  (277), Detachment Within Activity (291), Training This Mind
+  (305), Tranquillity and Insight (307), The Place of Coolness
+  (319), Supports for Meditation (357), Still, Flowing Water (369),
+  Toward the Unconditioned (383), Clarity of Insight (401).
+- NOT claimed: any alternate-carrier identity (the Forest Sangha
+  publications page and the Birken mirror URL were surfaced by
+  search and a header check only — not opened as artifacts), and no
+  claim about the printed editions beyond the PDF's own front
+  matter.
+- Status: **verified (text)** — identity, free access,
+  free-distribution licence and contents confirmed from the
+  artifact itself. The TEXT-ACCESS blocker is resolved; outcome 3
+  itself still requires the owner to select the two teachings, set
+  their reading boundaries, and update the teaching, assessment and
+  workload rows (owner's module decision, not this lane's).
 
-### B-V17 — AudioDharma series-URL flag closed (2026-10-26T05:23Z)
+### B-V17 — AudioDharma series-URL observations; flag closure
+WITHDRAWN (2026-10-26T05:23Z; corrected 05:30Z per advisor QC)
 
-- The buddhism ledger's standing flag ("the Fronsdal course SYLLABUS
-  page (audiodharma.org/series/24652) could not be re-opened;
-  supervisor re-verification recommended") is now answered:
-  series 24652 returns the site's own 404 page ("the requested page
-  could not be found") both via the fetcher and a real browser — it
-  is a dead/nonexistent series id, not a bot wall; and no module
-  cites it (grep: ledger mentions only).
-- The live series page 24654 was re-opened this session and confirms
-  the B-V06 receipt in full: five classes (2026.01.14-02.11),
-  durations 1:26:55 / 1:32:46 / 1:28:39 / 1:28:28 / 1:13:20,
-  "Freely offered by Insight Meditation Center", Creative Commons
-  BY-NC-ND 4.0, audio downloads and Watch Video links per class.
-- Flag CLOSED for the supervisor: b2/b7 task-frames resting on the
-  Fronsdal course evidence are corroborated by a live, free series
-  page; the dead 24652 id needs no repair (not cited).
+- Observations only (both re-opened this session): series 24652
+  returns the site's own 404 page ("the requested page could not be
+  found") both via the fetcher and a real browser — a dead
+  series id, not a bot wall; no module cites it (grep: ledger
+  mentions only). Series 24654 is live and free: five classes
+  (2026.01.14-02.11), durations 1:26:55 / 1:32:46 / 1:28:39 /
+  1:28:28 / 1:13:20, "Freely offered by Insight Meditation Center",
+  Creative Commons BY-NC-ND 4.0, audio downloads and Watch Video
+  links per class.
+- The ledger flag itself is NOT closed: it reads "b2's task-frame
+  rests on the deg-verify-a receipt (B-V02)", but B-V02 is the
+  Ajahn Brahm receipt and b2 cites no Fronsdal source; the
+  Fronsdal course is b7's source and its receipt is B-V06. The
+  flag's module/receipt mapping looks internally inconsistent
+  (b2/B-V02 vs b7/B-V06) — ROUTE supervisor/owner: confirm which
+  module's task-frame the flag actually concerns before closing
+  it. The two URL observations above stand regardless.
+- NOT claimed: that the two series ids are interchangeable, or
+  that the live 24654 course page establishes the flagged
+  task-frame claim (which the module's owner would have to map).
 
-### B-V18 — b6 Kirchner Lecture 1 content inspection: FULL transcript
-obtained (2026-10-26T05:25Z)
+### B-V18 — b6 Kirchner Lecture 1 content inspection: full caption text
+retrieved (2026-10-26T05:25Z; corrected 05:30Z per advisor QC)
 
-- The QC note above (05:22Z) recorded the caption route as quota-
-  blocked; a second route (downsub.com subtitle extraction) then
+- Route: downsub.com subtitle extraction (video id UVXpdAavGgQ)
   returned the recording's FULL English auto-caption text (~11,500
   words, whole 1:28:04 including the Q&A). Auto-generated captions:
-  used for subject classification only, NOT as a verbatim quotation
-  carrier.
-- Content confirmed from the recording itself: the lecture is the
-  Buddhist Society's 100th-anniversary series talk on "Zen and the
-  question of suffering". The speaker frames Zen in its broad sense
-  of meditation (dhyana, Chan, Zen — "the word zen... does mean
-  meditation"), treats suffering as central to Buddhism and as what
-  drove the historical Buddha to practice, recounts his own path
-  (Shibayama Zenji, Nanzen-ji, going to Japan), discusses Dogen's
-  fukan zazengi instruction ("think of non-thinking... the essential
-  art of zazen"), contrasts the active and contemplative lives, and
-  closes with a Q&A touching Rinzai's "great doubt", the
-  prajna/karuna balance in Japanese Zen, and a compassionate answer
-  to a grieving mother. The Rinzai/Soto material lives in Lecture 3
-  (as the B-V07 receipt and series description state); Lecture 1's
-  transcript mentions Rinzai only in the Q&A.
-- The module's bounded claims hold: the lecture's stated subject
-  (dukkha as the motivation for practice; suffering engaged
-  constructively) is the lecture's actual content, and the whole-
-  lecture assignment with structural viewing stops is appropriate
-  (no chapter list; the talk plus Q&A is one continuous arc).
-- Status: **verified-video, content-inspected** — identity, free
-  access, watch-page duration (1:28:04), credentials (prior
-  receipts) and now content classification from the full recording
-  text. ROUTE owner: b6's Lecture-1 source-table row can drop
-  "CONTENT NOT YET INSPECTED".
-
-### B-V19 — b6 Kirchner Lecture 3 content inspection: FULL transcript
-obtained (2026-10-26T05:26Z)
-
-- Same route (downsub.com, English auto-captions): the FULL recording
-  text (~13,300 words, whole 1:40:17). Captions are auto-generated:
   subject classification only, NOT a verbatim quotation carrier.
-- Content confirmed from the recording itself: the lecture delivers
-  the Rinzai/Soto material the b6 module assigns it for — Linji
-  (Rinzai) sayings and the koan as the Rinzai tradition's central
-  practice technique, Soto shikantaza characterized as
-  "choiceless awareness with curiosity", and the place of meditation
-  in Buddhism; the module's negative claim (meditation's status in
-  traditional schools) is discussed rather than asserted as incidental
-  — the owner's description-bounded line remains the right bound.
+- Inspection method and scope: targeted term searches and excerpt
+  reads over the retrieved text (not a full read-through, and not
+  a timestamp-by-timestamp check against the module's assigned
+  viewing stops). What the inspected passages support: the lecture
+  is the Buddhist Society's 100th-anniversary series talk on Zen
+  and suffering — the speaker frames Zen in its broad sense of
+  meditation (dhyana, Chan, Zen), treats suffering as central to
+  Buddhism and as what drove the historical Buddha to practice,
+  recounts his own path (Shibayama Zenji, Nanzen-ji), discusses
+  Dogen's zazen instruction (paraphrase: think not-thinking),
+  contrasts the active and contemplative lives, and closes with
+  a Q&A (a great-doubt question, a prajna/karuna balance question,
+  and a compassionate answer to a grieving mother). The description-
+  bounded claims in the module (dukkha as the motivation for
+  practice; suffering engaged constructively) are consistent with
+  the inspected passages.
+- NOT claimed: coverage of every assigned viewing window, the
+  necessity of the whole-lecture assignment, or any distribution
+  claim about where in the lecture specific traditions are named.
+- Status: verified-video (on the B-V07 basis); the retrieved full
+  caption text is recorded as content evidence with the inspection
+  method and scope stated. ROUTE owner: b6's Lecture-1 source-table
+  row can record the retrieval; the module's own bounded wording
+  stands.
+
+### B-V19 — b6 Kirchner Lecture 3 content inspection: full caption text
+retrieved (2026-10-26T05:26Z; corrected 05:30Z per advisor QC)
+
+- Same route (downsub.com, video id jPxuvitdsRI): the FULL
+  recording text (~13,300 words, whole 1:40:17). Auto-generated
+  captions: subject classification only, NOT a verbatim quotation
+  carrier.
+- Inspection method and scope: targeted term searches and excerpt
+  reads, as in B-V18 (not a full read-through; no
+  timestamp-by-timestamp check against the module's assigned
+  viewing stops). What the inspected passages support: the lecture
+  contains the Rinzai/Soto material the b6 module assigns it for —
+  passages on Linji (Rinzai) sayings and the koan as a Rinzai
+  practice technique, and a characterization of Soto shikantaza
+  (paraphrase: choiceless awareness with curiosity). The module's
+  description-bounded line on meditation's status in traditional
+  schools is neither confirmed nor disconfirmed by these excerpts;
+  the owner's bounded wording stands.
 - Duration 1:40:17 confirmed on the extraction page (matching the
   watch-page figure; the 05:13Z addendum's player variance note
-  stands). Status: **verified-video, content-inspected**. ROUTE
-  owner: b6's Lecture-3 source-table row can drop "CONTENT NOT YET
-  INSPECTED".
+  stands). Status: verified-video (on the B-V07 basis); the
+  retrieved full caption text is recorded as content evidence
+  with the inspection method and scope stated. ROUTE owner: b6's
+  Lecture-3 source-table row can record the retrieval; the
+  module's own bounded wording stands.
 
-### B-V20 — b7 Batchelor lecture content inspection: FULL transcript
-obtained (2026-10-26T05:26Z)
+### B-V20 — b7 Batchelor lecture content inspection: full caption text
+retrieved (2026-10-26T05:26Z; corrected 05:31Z per advisor QC)
 
-- Same route: FULL English auto-caption text of the whole 1:26:35
-  Radboud Reflects lecture (62,061 characters). Subject classification
-  only; not a verbatim quotation carrier.
-- Content confirmed from the recording itself: Batchelor presents
-  Buddhism as "primarily and centrally... ethics... about human
-  flourishing... how we can live in this world in a way that enables
-  ourselves as individuals and our communities", describes his
-  project as "developing a secular Buddhism" that keeps "the
-  ethical aspects and the practical wisdom", reads the Four Noble
-  Truths "not as a religious doctrine but as a doctrine of social
-  justice", starts from dukkha ("coming to terms with human
-  suffering... the starting point of his whole approach"), and
-  frames the Dharma as "a pragmatic and skeptical ethic". The
-  lecture's actual content matches the module's bounded claims
-  (Buddhism as a secular, pragmatic, ethical basis for human
-  flourishing).
-- Status: **verified-video, content-inspected**. ROUTE owner: b7's
-  Batchelor source-table row can drop "CONTENT NOT YET INSPECTED";
-  the b6/b7 content-inspection items from the owner's full-module-set
-  checkpoint are now all discharged (b5 spine B-V14, b6 both lectures
-  B-V18/B-V19, b7 Batchelor B-V20; the b7 Fronsdal optional-listening
-  rests on the verified AudioDharma series page B-V17/B-V06).
+- Same route (downsub.com, video id Hhlj_SU9SAE): FULL English
+  auto-caption text of the whole 1:26:35 Radboud Reflects lecture
+  (62,061 characters). Subject classification only; not a verbatim
+  quotation carrier — reconstructed caption wording is paraphrased
+  below, not quoted.
+- Inspection method and scope: targeted term searches and excerpt
+  reads over the retrieved text (not a full read-through; no
+  timestamp check against assigned windows). What the inspected
+  passages support: Batchelor presents Buddhism as centrally an
+  ethics concerned with human flourishing — how to live in a way
+  that enables individuals and communities — describes his project
+  as developing a secular Buddhism that keeps the ethical and
+  practical-wisdom core, starts from dukkha (coming to terms with
+  human suffering as the starting point), and frames the Dharma as
+  a pragmatic and skeptical ethic. The introducer's opening
+  description (the Buddha as an ordinary man teaching an
+  extraordinary way) is the introducer's, not necessarily
+  Batchelor's own framing.
+- ATTRIBUTION CORRECTION (checked against the surrounding passage):
+  the Four-Noble-Truths-as-social-justice passage is Batchelor
+  DESCRIBING AMBEDKAR's book The Buddha and His Dharma and the
+  Dalit conversion movement's secularized, lay Buddhism — it is NOT
+  Batchelor's own reading of the Four Noble Truths. Modules must
+  not cite that passage as Batchelor's claim.
+- Status: verified-video (on the B-V08 basis); the retrieved full
+  caption text is recorded as content evidence with the inspection
+  method and scope stated. ROUTE owner: b7's Batchelor source-table
+  row can record the retrieval; the module's own bounded wording
+  stands.

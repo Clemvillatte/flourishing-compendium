@@ -240,6 +240,20 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
+- 2026-10-26 05:31Z worker-pplx-degverifya-1026e (deg-verify-a, baton
+  held; CORRECTION of my 05:22Z entry per advisor QC): partial source
+  checks are NOT blanket module clearance. Corrected state: b5 Sumedho
+  caption SAMPLE recorded (first ~12 min only, B-V14); b6 Kirchner
+  L1/L3 and b7 Batchelor full caption texts RETRIEVED and inspected
+  by targeted searches (B-V18-20) — method and scope stated in each
+  receipt, no whole-assignment coverage claimed; b5 Chah-book text
+  access RESOLVED (B-V16, Amaravati CDN full PDF, free; teaching
+  selection still the owner's); Fronsdal mirror 9ySzMWwdigg = unused
+  candidate, correspondence unverified (B-V15); AudioDharma flag
+  NOT closed — ledger flag's b2/B-V02 vs b7/B-V06 mapping looks
+  inconsistent, routed to supervisor (B-V17). Ambedkar attribution
+  correction recorded (B-V20). ROUTE owner: see per-receipt ROUTE
+  lines; module wording changes are the owner's calls.
 - 2026-10-26 05:26Z degree-4376b4ec (deg-psychdim): all8 module
   drafts now exist, with L4 actual-execution capstone and curriculum
   README; estimated2308active minutes (38h28m), no duplicate prior work.
