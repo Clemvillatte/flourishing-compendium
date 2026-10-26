@@ -1,3 +1,7 @@
+## Worker checkpoint (2026-10-26 02:24:04Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
+
+QC SAMPLE — right-action dossier (dosr6 band), dispute questions: all seven quoted spans verified VERBATIM against freshly opened carriers — SN 45.8 Thanissaro (accesstoinsight.org); Aquinas ST II-II Q40 (newadvent.org — the initial automated miss was the page's spaced-punctuation HTML artifact, tag-stripped exact match confirmed, eyeball-verified); Aristotle NE VII spans (Gutenberg pg8438, both the Socrates-contention and the "with all due respect to Socrates" passages); IEP Wang Yangming both spans; SEP virtue-ethics character-trait definition span. No defects found in what was checked; no repairs needed.
+
 ## Worker checkpoint (2026-10-26 02:23:49Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
 
 QC SAMPLE — sadness-and-grief dossier, dispute question 1 (mourning as detachment vs continued relationship): all six quoted spans verified VERBATIM against freshly opened carriers — Stroebe et al. 2012 three spans (research-portal.uu.nl PDF: "Quite consistently, the results show..."; the Klass-summary spans "that, in contrast to previous claims, continuing bonds... is adaptive" and "complications in grief were associated with the inability to relinquish ties to the deceased"); Freud Mourning and Melancholia both Strachey quotes (archive.org text PDF); Stroebe & Schut 1999 dual-process grounds span (wendyvanmieghem.com PDF). No defects found in what was checked; no repairs needed.
