@@ -13,11 +13,11 @@ may help you see an influence or an option you had missed. It is not a
 spiritual guarantee, not a full history of Daoism, and not a promise
 that your circumstances will be easy to change; you will test its
 usefulness on your own material as the degree proceeds. Source
-verification evidence is in
-ledgers/deg-wol-daoism.md. STATUS: DRAFT, NOT CLEARED; awaits
-independent review (per WAVE 2, an independent reviewer must confirm
-the module teaches its claimed outcome to the claimed level before the
-degree is integrated and shown in the Academy).
+verification evidence is in ledgers/deg-wol-daoism.md.
+
+<!-- STATUS: DRAFT, NOT CLEARED. Awaiting independent module-QC
+re-review of the bounded repairs; not cleared for degree integration
+or Academy display. -->
 
 ## Level and placement
 
@@ -217,7 +217,7 @@ submitted.
 Ziporyn's lecture is the walk's most concentrated piece of teaching,
 and the segments above are the ones that carry the module's outcomes.
 Two of his claims are worth holding in your own words. He says the
-Daodejing can be read as "a coherent text" rather than a random
+Daodejing can be read as "a coherent anthology" rather than a random
 compilation, and he treats the text's ambiguity as something with a
 function: "I've come to see that as a feature and not a bug of the
 text" ([Ziporyn, Why This Text Matters](https://youtubetotranscript.com/transcript?v=EJ1bB2w2gBk&current_language_code=en),
@@ -368,30 +368,29 @@ personal synthesis of the walk against one serious objection. That is
 what the degree promises.
 
 Four neighbouring territories sit outside this walk. Metaphysical and
-arcane Daoist cosmology is excluded by the owner's practical,
-pragmatic rule: this walk teaches ideas you can use, not cosmological
-systems to believe. Religious Daoist ritual and liturgy are excluded
-by the scope's own decision, recorded at Gate 1 as a deliberate
-choice rather than a blind spot. Political readings of the Daodejing
-(the Hanfeizi tradition, the Art of War) are left out because this
-walk is aimed at a life-practice learner, not a political-philosophy
-student; if the owner later wants the political Daodejing it can slot
-in as an elective. Contemplative doctrine as a formal field is owned
-by the contemplative practica; this walk teaches the contemplative
-material it needs from its own sources and points you to the practica
-for the rest. The Gate 1 review (2026-10-26) recorded a further
-challenge: the religious-tradition teaching the benchmark anchors
+arcane Daoist cosmology is excluded by this walk's own practical rule:
+it teaches ideas you can use, not cosmological systems to believe.
+Religious Daoist ritual and liturgy are excluded as a deliberate scope
+choice, not a blind spot. Political readings of the Daodejing (the
+Hanfeizi tradition, the Art of War) are left out because this walk is
+aimed at a life-practice learner, not a political-philosophy student;
+if the owner later wants the political Daodejing it can slot in as an
+elective. Contemplative doctrine as a formal field belongs to the
+contemplative practica; this walk teaches the contemplative material
+it needs from its own sources and points you to the practica for the
+rest. The religious-tradition teaching the walk's benchmark anchors
 carry (Celestial Master, Quanzhen monasticism) is not mapped to this
-scope's content; the review resolved that the walk's practice promise
-is set by its exit capabilities, not by the full institutional
-tradition, and left the monastic and ascetic strand available as a
-future elective. The body-practice side of that promise is carried by
-the qigong practicum, which this degree does not own and does not
-modify; the inward-training side is carried by the Neiye tradition,
-which this degree currently has no verified attached source for (see
-the ledger's gap register). Until a verified source is attached, the
-walk's promise on the inward-training side is a promise this module
-does not deliver, and you should read it as such.
+scope's content: the walk's practice promise is set by its exit
+capabilities, not by the full institutional tradition, and the
+monastic and ascetic strand stays available as a future elective. The
+body-practice side of that promise is carried by the qigong
+practicum, which this degree does not own and does not modify; the
+inward-training side is carried by the m4 yangsheng module, whose
+attached Komjathy lecture (Lundao 5) is verified in the ledger. The
+Neiye tradition itself has no separate verified attached source in
+this degree (see the ledger's gap register), so where this walk
+points to the Neiye it points to a tradition rather than to an
+assigned source.
 
 Beyond those named exclusions, material is admitted to this walk only
 where it serves this degree's learner's actual need: guiding the
@@ -399,9 +398,8 @@ process to alleviate suffering, become wiser and genuinely flourish
 even when uncertain or overwhelmed. A source or module that merely
 qualifies topically, because it is about Daoism, does not qualify;
 the walk's scope is finite by design, and when in doubt the walk
-excludes. The Gate 1 review (2026-10-26) applied exactly this test
-to the scope and cleared it; the same test applies to anything this
-degree later wants to add.
+excludes. That admission test governs anything this degree later
+wants to add.
 
 If you want an excluded territory, this walk points you to it and
 stays in its lane.
@@ -523,18 +521,21 @@ learner can self-check.
   recordings is not counted.
 - Primary-text reading (Eno Daodejing chapters 1, 8 and 76, 288
   words measured on the opened text; Eno Zhuangzi passage 2.20, 67
-  words measured on the opened text): 355 words total. At 130 words
+  words measured on the opened text, counting rule: whitespace tokens
+  of the printed passage including its asterisk marker and en dash):
+  355 words total. At 130 words
   per minute (many new concepts, dense short texts, the 238
   words-per-minute adult non-fiction default adjusted down by
   purpose) that is about 3 minutes raw reading; the module asks for
   two readings of each assigned passage, so about 6 minutes raw.
   With study overhead applied as a three-times multiplier on raw
   reading, about 18 minutes (estimate, labelled).
-- Module teaching prose on this page (about 3,980 words measured,
-  including the worked chapter-8 demonstration and the two scaffolded
-  attempts): at 180 words per minute (some new concepts) about 22
-  minutes raw; with study overhead as a three-times multiplier,
-  about 66 minutes (estimate, labelled).
+- Module teaching prose on this page (measured as whitespace tokens
+  from "Level and placement" through the end of the Rubric, table
+  rows excluded, including the worked chapter-8 demonstration and the
+  two scaffolded attempts: 4456 words): at 180 words per minute
+  (some new concepts) about 25 minutes raw; with study overhead as
+  a three-times multiplier, about 75 minutes (estimate, labelled).
 - Retrieval activities and pauses 1, 2, A and B: about 20 minutes
   (estimate; about 5 minutes each).
 - Graded deliverables including the self-assessment step that is
@@ -543,10 +544,10 @@ learner can self-check.
   chapter-reading deliverable about 20 minutes, two-texts
   deliverable about 10 minutes, scope statement about 15 minutes.
 
-Total: about 3 hours 40 minutes (about 221 minutes of labelled
+Total: about 3 hours 50 minutes (about 230 minutes of labelled
 components: about 57 measured assigned video, 18 estimated
-primary-text reading with the three-times study multiplier, 66
-estimated module-prose reading with the three-times study
+primary-text reading with the three-times study multiplier, 75 estimated
+module-prose reading with the three-times study
 multiplier, 20 retrieval and pauses, 60 graded with per-deliverable
 allowances above). Optional further viewing (the unassigned remainder
 of the three recordings) is not counted.
@@ -554,9 +555,8 @@ of the three recordings) is not counted.
 ## Verification status of attached sources
 
 All attached sources are verified to the skill's standard with
-evidence and dates in ledgers/deg-wol-daoism.md, and this pass
-(2026-10-26) re-verified each one against the section 4 standard,
-including instructor credentials on biography or institutional
+evidence and dates in ledgers/deg-wol-daoism.md, including
+instructor credentials verified on biography or institutional
 pages rather than host descriptions:
 
 - Komjathy, Lundao 1 (verified-video; identity and access confirmed
@@ -566,18 +566,14 @@ pages rather than host descriptions:
   about page, http://www.daoistfoundation.org/about, which states
   his PhD (Religious Studies, Boston University, 2005) and his
   ordination in the Huashan lineage of Quanzhen Daoism; not a host
-  description). Content coverage verified this pass against the
-  talk's actual transcript opened via a third-party transcript
-  service: the talk introduces Chinese Taoism as an indigenous
-  Chinese religious tradition and distinguishes it from global
-  Taoism, which the talk describes as culturally, ethnically and
-  linguistically diverse. Correction to an earlier claim: an
-  earlier version of this inventory said the transcript confirms the
-  tradition's teachings predate the English label "Daoism"; the
-  transcript does not discuss the English label, and that claim is
-  withdrawn (see the ledger's round 4 correction). The module
-  assigns the talk for orientation only. Language: English, captions
-  available.
+  description). Content coverage verified against the talk's actual
+  transcript (receipt in the ledger): the talk introduces Chinese
+  Taoism as an indigenous Chinese religious tradition and
+  distinguishes it from global Taoism, which the talk describes as
+  culturally, ethnically and linguistically diverse. The transcript
+  does not discuss the English label "Daoism", and this module makes
+  no claim about it. The module assigns the talk for orientation
+  only. Language: English, captions available.
 - Van Norden, Wisdom of China: Laozi documentary (verified-video;
   identity and access confirmed on the watch page 2026-10-26,
   duration 0:50:09 printed on the watch page, chapter timestamps
@@ -586,12 +582,11 @@ pages rather than host descriptions:
   page, https://www.vassar.edu/faculty/brvannorden, which states
   his title (Professor of Philosophy on the James Monroe Taylor
   Chair) and his degrees (BA University of Pennsylvania, PhD
-  Stanford University). Content coverage verified this pass
-  against the documentary's actual transcript opened via a
-  third-party transcript service: the documentary introduces Laozi
-  as a historical figure whose existence is uncertain, uses the
-  Daodejing chapters to frame Daoist practice, and treats the
-  tradition's ideas through a historical lens. The module assigns
+  Stanford University). Content coverage verified against the
+  documentary's actual transcript (receipt in the ledger): the
+  documentary introduces Laozi as a historical figure whose existence
+  is uncertain, uses the Daodejing chapters to frame Daoist practice,
+  and treats the tradition's ideas through a historical lens. The module assigns
   the documentary for orientation only and does not claim a full
   doctrinal coverage from it. Language: English.
 - Ziporyn, Why This Text Matters: Daodejing (verified-video;
@@ -604,24 +599,25 @@ pages rather than host descriptions:
   https://divinity.uchicago.edu/directory/brook-ziporyn, which
   states his title (Mircea Eliade Professor of Chinese Religion,
   Philosophy, and Comparative Thought) and confirms he is the
-  translator of the Zhuangzi. Content coverage verified this pass
-  against the lecture's actual transcript opened via a third-party
-  transcript service: the assigned chapters on dao, de, wu wei,
-  chapter 28 and the unnamed are confirmed in the transcript, and
-  the assigned segment boundaries in Step 3 match the printed
-  chapter labels. Language: English, captions available on the
+  translator of the Zhuangzi. Content coverage verified against the
+  lecture's actual transcript (receipt in the ledger): the assigned
+  chapters on dao, de, wu wei, chapter 28 and the unnamed are
+  confirmed in the transcript, and the assigned segment boundaries in
+  Step 3 match the printed chapter labels. Language: English, captions available on the
   watch page.
 - Eno, Daodejing translation (verified text; opened 2026-10-26, all
   81 chapters present, translator Robert Eno stated on the first
   page, licensing statement printed on the first page ("freely
   available for use in not-for-profit educational settings and for
   personal use"), no paywall, hosted by Indiana University
-  ScholarWorks; assigned chapters 1, 8 and 76 read this pass on the
+  ScholarWorks; assigned chapters 1, 8 and 76 read on the
   downloaded full text, word counts measured: chapter 1, 102 words;
   chapter 8, 101 words; chapter 76, 85 words). Language: English.
 - Eno, Zhuangzi: The Inner Chapters translation (verified text;
-  opened 2026-10-26, passage 2.20 the Butterfly Dream read this
-  pass on the downloaded full text, word count measured: 67 words;
+  opened 2026-10-26, passage 2.20 the Butterfly Dream read on the
+  downloaded full text, word count measured: 67 words by whitespace
+  tokens of the printed passage including its asterisk marker and
+  en dash;
   translator Robert Eno stated on the first page, same
   educator-licensing statement, no paywall, hosted by Indiana
   University ScholarWorks). Language: English.
