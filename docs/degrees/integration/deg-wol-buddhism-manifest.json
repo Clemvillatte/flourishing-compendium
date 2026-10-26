@@ -118,8 +118,16 @@
    {
     "source_id": "BUD-B1-04",
     "role": "revisit",
-    "assignment": "AN 5.179 and SN 56.11 from b1-b3 - lineage-source basis, re-read",
-    "kind": "reading"
+    "assignment": "AN 5.179 Gihisutta (Sujato) - revisit in b5: re-read the discourse as the lineage's source basis (the b1 excerpt, 213 measured words)",
+    "kind": "reading",
+    "note": "Split 2026-10-26 (deg-fix-content): this entry previously carried both lineage re-reads under BUD-B1-04; SN 56.11 is a separate source (BUD-B2-02) and now has its own entry, matching the published state"
+   },
+   {
+    "source_id": "BUD-B2-02",
+    "role": "revisit",
+    "assignment": "SN 56.11 Dhammacakkappavattana Sutta (Thanissaro) - revisit in b5: re-read the discourse as the lineage's source basis (the b2 whole-discourse reading, ~1,100 words)",
+    "kind": "reading",
+    "note": "Added 2026-10-26 (deg-fix-content) when splitting the combined b5 revisit entry; the published state already carried this split correctly (BUD-B1-04 + BUD-B2-02)"
    }
   ],
   "mod-bud-6": [
