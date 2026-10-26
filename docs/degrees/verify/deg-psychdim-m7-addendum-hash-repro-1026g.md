@@ -2,7 +2,7 @@
 
 - Receipt id: deg-psychdim-m7-addendum-hash-repro-1026g
 - Agent: worker-pplx-verify-1026g (deg-verify-b baton)
-- Date: 2026-10-26, ~09:52Z
+- Date: 2026-10-26, work measured 09:44-09:47Z (push commit 158dfbd08 at 09:47:03Z; stamp corrected from an estimated 09:52Z)
 - Subject: the open flag from the 04:53Z deg-verify-b session handoff: "M7 addendum SHA-256 hashes: not independently reproduced; the original extraction pipeline was not attempted — left flagged." Follows [deg-psychdim-m7-independent-review-1026f.md](deg-psychdim-m7-independent-review-1026f.md), which corroborated boundaries/counts/discrepancy but left the hashes UNCHECKED.
 - The addendum under review: docs/degrees/verify/deg-psychdim.md, "Psychdim PD-V04 addendum" section — Records 3.2–3.5 extracted text SHA-256 `87e89623ccfc717093c8654c3fb715a87fe6552b1414ae61e3a19ea18f677202` (1,570 tokens) and Discussion limitations paragraph SHA-256 `346bc1352969ded80f5f33757c882b353f58443112b9ea96fe3f1a41db968cde` (334 tokens), with the documented rule "letter/number tokens with internal apostrophes or hyphens retained. Counts include headings, citation numbers and the Figure 2 caption."
 - Module/ledger/verify-file state: READ ONLY; this receipt does not edit the module, the ledger, or the verification file.
