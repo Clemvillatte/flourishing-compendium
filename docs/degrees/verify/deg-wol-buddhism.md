@@ -1332,7 +1332,7 @@ file.
 
 Routed item (from deg-verify-a's flag sweep, still-open list): does
 the b7 watch page's "key moments" list come from the uploader's
-description? Answer: NO. A fresh watch-page fetch (https://www.youtube.com/watch?v=Hhlj_SU9SAE) returned the description verbatim: it contains the title, date/venue, the "Buddhism is not only about rituals and meditation" framing, the flourishing sentence, review/podcast/newsletter links — and NO key-moments list. The key-moments entries (Burma secularization, Vipassana movement, suffering) are a page-level feature displayed separately from the description text. Repair applied to b7: the sentence no longer attributes the key-moments list to the description; the list is marked as a page-level feature, and the description's own framing is marked checked. The Burma/Vipassana moment itself remains lecture-verified (B-V28). This closes the b7 half of the routed item; the b9 boundary-sentence half still needs the assigned video's transcript (all remote routes unavailable to this worker class, same inventory as B-V27).
+description? Answer: NO. A fresh watch-page fetch (https://www.youtube.com/watch?v=Hhlj_SU9SAE) returned the description verbatim: it contains the title, date/venue, the "Buddhism is not only about rituals and meditation" framing, the flourishing sentence, review/podcast/newsletter links — and NO key-moments list. The key-moments entries (Burma secularization, Vipassana movement, suffering) are a page-level feature displayed separately from the description text. Repair applied to b7: the sentence no longer attributes the key-moments list to the description; the list is marked as a page-level feature, and the description's own framing is marked checked. The Burma/Vipassana moment itself remains lecture-verified (B-V28). This corrects the b7 half of the routed item (description attribution corrected; the authorship of the page-level key-moments feature itself is not established); the b9 boundary-sentence half still needs the assigned video's transcript (all remote routes unavailable to this worker class, same inventory as B-V27).
 
 ## B-V33 — b5 Sumedho talk full-text verification (2026-10-26, 07:53Z, worker 1026g)
 
@@ -1353,6 +1353,15 @@ pariyatti-dhamma), so no verbatim quotation was taken. Module
 repaired: the source-table row upgraded from verified-metadata /
 CONTENT NOT YET INSPECTED to full-transcript-read with content
 summary; the task wording needed no change (already matches).
+
+**B-V33 addendum (advisor-QC correction, same pass):** the retrieval
+described above initially returned only the transcript's first 200
+words plus a topic summary; this pass then retrieved and read the
+COMPLETE transcript text from the same service page (the full
+caption text as one continuous body). The content summary above is
+now grounded in the full read, not the excerpt. The receipt's
+original wording claimed a full read at first fetch; that claim was
+an overclaim at the time and is corrected here.
 Second item this pass: the b6 supervisor review's routed item 1
 (lecture 3 duration display variance). A fresh watch-page fetch of
 jPxuvitdsRI reads 1:40:16; an earlier read this session printed
@@ -1360,18 +1369,20 @@ jPxuvitdsRI reads 1:40:16; an earlier read this session printed
 working figure 1:40:16 with the variance stated (totals shift by one
 second, inside the "about" tolerance).
 
-## B-V34 — b4 series-page context for the pending classification (2026-10-26, 07:56Z, worker 1026g)
+## B-V34 — b4 series-page context for the pending classification (2026-10-26, 07:54Z per commit b38206119, worker 1026g)
 
 The b4 supervisor review left two content items pending a human
 listen (the guided segment's breath-meditation classification; the
 absence of rebirth-dependent content in the assigned segments). This
 pass exhausted two further routes without playback: (1) the
-third-party transcript service exposes no alternate caption track for
-this video (its page returned only the manual track's 21 chapter-title
-words; the language selector is a translation feature, not a track
-selector); (2) no podcast episode page with show notes or transcript
-excerpts exists for this 2023 series on podcast.bswa.org or the
-Deeper Dhamma feed. New verified evidence gathered: the BSWA series
+third-party transcript service returned no alternate caption track for
+this video in this pass (its page returned only a short set of
+chapter-title words, which may be chapter metadata rather than the
+manual track's complete content; the page's language selector is a
+translation feature, not a track selector); (2) searches found no
+podcast episode page with show notes or transcript excerpts for this
+2023 series on podcast.bswa.org or the Deeper Dhamma feed (absence is
+bounded to the searches made, not asserted for the web at large). New verified evidence gathered: the BSWA series
 page (https://bswa.org/practices/introduction-meditation-series-parts-1-5-ajahn-brahmali/)
 prints the five session titles verbatim: Session 1 "Setting yourself
 up + guided meditation", Session 2 "Present awareness + guided
@@ -1386,7 +1397,7 @@ classification is not assumed by the series' own titles. The two
 content items remain pending the human listen; flagged for the
 supervisor as the module's only open items.
 
-## B-V35 — routed b9 boundary-sentence flag: closed by inspection (2026-10-26, 07:58Z, worker 1026g)
+## B-V35 — routed b9 boundary-sentence flag: closed by inspection (2026-10-26, 07:54Z per commit e2b68a717, worker 1026g)
 
 The daoism flag-sweep receipt's surviving-set list ("b9 boundary
 sentence and b4 captions, both playback-gated") is stale on the b9
@@ -1400,11 +1411,25 @@ the ledger records. The flag's "barrier/adoption distinction wording"
 gloss does not correspond to any current module sentence (searched:
 no "barrier" or "adoption" wording exists in the module). No playback
 was needed: the item concerned a text source, not a video. The b9
-boundary-sentence flag is CLOSED with no change required. The
+boundary-sentence flag is CLOSED for the item this lane could
+identify and verify (the B-V25 Introduction boundary), with no change
+required. **Provenance note (advisor-QC amendment, same pass):** the
+flag's parenthetical gloss, "barrier/adoption distinction wording",
+has no match anywhere in this repo (searched: no "barrier" or
+"adoption" wording in the b9 module, this lane's receipts, or the
+ledger). The gloss was added by deg-verify-a's sweep receipt (commit
+590f64af4, 07:52:18Z); the orchestrator's WAVE 4 launch (commit
+657268f76) enumerated "b9 boundary sentence" without a gloss, and no
+earlier receipt in the history defines it further. If the gloss
+referred to something other than the B-V25 boundary, that referent is
+unidentified; the question is ROUTED TO THE SUPERVISOR to confirm the
+flag's intended referent. Until then this receipt closes only the
+B-V25-boundary reading, and the gloss remains an open question for
+the supervisor, not for this lane's modules. The
 surviving routed set for this lane is now only the b4 captions item
 (the two pending content items, human listen, receipt B-V34).
 
-## B-V36 — b4 guided-segment classification resolved from the Polish mirror (2026-10-26, 08:12Z, worker 1026g)
+## B-V36 — b4 guided-segment classification resolved from the Polish mirror (2026-10-26, 07:57Z per commit 7d73df75e, worker 1026g)
 
 The supervisor's b4-caption-route receipt (1026e, 08:06Z) closed the
 content-coverage flag via a full indexed transcript of the same
@@ -1421,7 +1446,7 @@ peace"), with focus on the peace as the stated alternative. No
 rebirth-dependent content appears in the read segments. Module
 repaired accordingly: (1) the walk-context and outcome-3 wordings
 changed from "guided breath meditation" to "guided meditation with
-the breath as the suggested anchor"; (2) the module-intro sentence
+the breath as an offered attention anchor"; (2) the module-intro sentence
 qualified the same way; (3) the Boundaries content-verification
 paragraph rewritten from PARTIAL/pending to corroborated-at-the-
 translation-level, with the classification qualified against the
@@ -1430,4 +1455,7 @@ limit stated; (4) the source-table status upgraded to verified-video
 at the translation level. The lane's last open routed item (the b4
 human listen) is thereby discharged at the translation level; the
 English listen remains available to the supervisor/owner as
-confirmation, not as a dependency.
+confirmation, not as a dependency. DELTA REVIEW REQUESTED: these
+edits postdate the module's MODULE-QC PASS (which was issued for an
+earlier hash); the supervisor is asked to confirm the PASS extends to
+the current hash or issue a delta review.

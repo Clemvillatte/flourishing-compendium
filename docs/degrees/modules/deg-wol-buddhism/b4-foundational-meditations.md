@@ -12,8 +12,8 @@
 The walk's promise is practice, and this module is where the sitting habit
 becomes real. The cmp practicum develops a sustained guided practice; this
 module builds its on-ramp: how to set up, what mindfulness is, and a first
-guided meditation with the breath as the suggested anchor, taught by a
-living teacher in the Thai Forest
+guided meditation with the breath as an offered attention anchor,
+taught by a living teacher in the Thai Forest
 lineage the walk names, with a two-week training plan that schedules the
 repetition.
 
@@ -21,7 +21,7 @@ repetition.
 
 1. The practical setup of meditation: time, place, posture.
 2. What mindfulness is, in the teacher's plain register.
-3. A guided meditation with the breath as the suggested anchor,
+3. A guided meditation with the breath as an offered attention anchor,
    executed start to finish, then repeated.
 4. A sitting habit on a schedule, with a log.
 
@@ -113,8 +113,8 @@ harder for you, and your guess why. That line is part of the module.
 
 ## Boundaries and passing mentions
 
-This module teaches guided meditation with the breath as the suggested
-anchor and metta in the Thai Forest and
+This module teaches guided meditation with the breath as an offered
+attention anchor and metta in the Thai Forest and
 Triratna registers respectively. It does not compare schools' techniques
 (b5-b7), and makes no efficacy claims beyond what the teachers state as
 their own experience; the learner's own log is the module's evidence
@@ -129,20 +129,22 @@ credential anchor, the mindfulness definition with its two aspects
 pass (receipt B-V36) read the guided-meditation segment in that same
 translation: it is a relaxation-first guided meditation (body
 awareness, releasing tension, deep breaths to relax), and the teacher
-explicitly offers the breath as the attention anchor (in the
-translation: "you can keep it on the in-breath and out-breath ... a
-deep, relaxing breath", with focus on the peace as the stated
-alternative); no rebirth-dependent content appears in the read
-segments. The module's classification is accordingly qualified: the
-guided segment is a guided meditation with the breath as the suggested
-anchor, not a breath-meditation instruction in the narrow sense the
-series' own titles reserve for Session 3 (receipt B-V34: the BSWA
-series page prints "Breath meditation + guided meditation" for
-Session 3 and "Setting yourself up + guided meditation" for Session
-1). The chapter timestamps above were read from the recording's own
-description and corroborated as stated in the source table. The
-English caption text verbatim remains unretrieved; no module claim
-rests on caption wording.
+offers the listener a choice of attention anchor, paraphrased from the
+translation: attention may rest on the in-breath and out-breath, on
+the deep relaxing breath, or simply on the peace. No rebirth-dependent
+content appears in the segments read this pass or in the supervisor's
+receipt's quoted portions; the full English text was not read
+end-to-end, so that absence is stated for the read portions only. The
+module's classification is accordingly qualified: the guided segment
+is a guided meditation with the breath as an offered attention anchor
+(alongside the stated alternative of the peace); the BSWA series
+page's session titles (receipt B-V34) print "Breath meditation +
+guided meditation" for Session 3 and "Setting yourself up + guided
+meditation" for Session 1, recorded as context, not as proof of what
+Session 1's segment contains. The chapter timestamps above were read
+from the recording's own description and corroborated as stated in the
+source table. The English caption text verbatim remains unretrieved;
+no module claim rests on caption wording.
 Caption availability is now
 EVIDENCED AT TWO REMOVED LEVELS, each with its limit stated: a fresh
 watch-page fetch this pass returned caption-track data reporting two
@@ -185,7 +187,7 @@ note).
 
 | resource | status | verified | notes |
 |---|---|---|---|
-| Ajahn Brahmali, "Introduction to Meditation: Session 1", https://www.youtube.com/watch?v=dyUCvFlDL8w (BSWA channel) | verified-video (content corroborated at the translation level; see Boundaries, receipts B-V34/B-V36 and the supervisor's b4-caption-route receipt) | 2026-10-26 (this session; caption evidence gathered this pass, limits stated) | duration 0:33:55 on watch page; chapter timestamps printed in the description (00:00-20:32 listed above; guided meditation chapter at 20:32); recorded at Dhammaloka Buddhist Centre, Perth; free, BSWA copyright; caption evidence this pass: a fresh watch-page fetch returned caption-track data reporting a manual English track and an English auto-generated track (an extraction of the page's player data, not a raw captionTracks-array inspection), and a third-party transcript service returned seven timestamped chapter headings matching the description's chapter list verbatim (0:30, 2:11, 3:59, 6:08, 16:30, 19:13, 20:32); what the service returned may be chapter metadata rather than the manual track's complete content, so it corroborates the chapter structure without establishing a retrieved transcript; the auto-generated full text was not retrievable (timedtext returned empty through every route tried: direct curl, crawler robots rules, Invidious proxy, Piped, reader proxy), so content claims stay bounded to the description and chapter structure; credentials opened on the BSWA teacher page (https://bswa.org/teachers/ajahn-brahmali/): anagarika at Amaravati and Chithurst; ordained bhikkhu 1996 with Ajahn Brahm as preceptor; at Bodhinyana Monastery since 1994; Maha Thera since 2015 |
+| Ajahn Brahmali, "Introduction to Meditation: Session 1", https://www.youtube.com/watch?v=dyUCvFlDL8w (BSWA channel) | verified-video (content corroborated at the translation level; see Boundaries, receipts B-V34/B-V36 and the supervisor's b4-caption-route receipt) | 2026-10-26 (this session; caption evidence gathered this pass, limits stated) | duration 0:33:55 on watch page; chapter timestamps printed in the description (00:00-20:32 listed above; guided meditation chapter at 20:32); recorded at Dhammaloka Buddhist Centre, Perth; free, BSWA copyright; caption evidence this pass: a fresh watch-page fetch returned caption-track data reporting a manual English track and an English auto-generated track (an extraction of the page's player data, not a raw captionTracks-array inspection), and a third-party transcript service returned seven timestamped chapter headings matching the description's chapter list verbatim (0:30, 2:11, 3:59, 6:08, 16:30, 19:13, 20:32); what the service returned may be chapter metadata rather than the manual track's complete content, so it corroborates the chapter structure without establishing a retrieved transcript; the auto-generated full text was not retrievable (timedtext returned empty through every route tried: direct curl, crawler robots rules, Invidious proxy, Piped, reader proxy), content claims are corroborated at the Polish-translation level (see Boundaries); the English caption text verbatim was not retrieved; credentials opened on the BSWA teacher page (https://bswa.org/teachers/ajahn-brahmali/): anagarika at Amaravati and Chithurst; ordained bhikkhu 1996 with Ajahn Brahm as preceptor; at Bodhinyana Monastery since 1994; Maha Thera since 2015 |
 | BSWA series index page, https://bswa.org/teaching/introduction-meditation-series-parts-1-5-ajahnbrahmali/ | verified | 2026-10-26 (deg-verify-a receipt B-V03; re-opened this session) | five-session series dated 5 March 2023; sessions 2-5 NOT attached (each needs per-session verification before attachment, per the receipt's caveat) |
 | Metta Sutta Khp 9, Sujato translation, https://suttacentral.net/kp9/en/sujato | verified | 2026-10-26 (this session, b1) | see b1 source table |
 | Five-stage loving-kindness method, https://thebuddhistcentre.com/text/loving-kindness-meditation | verified | 2026-10-26 (this session) | opened anonymously; the five stages (yourself, good friend, neutral person, someone you dislike, everyone) read on the opened page; publisher: the Buddhist Centre (Triratna) |

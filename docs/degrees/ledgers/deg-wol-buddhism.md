@@ -1482,7 +1482,7 @@ unverifiable description. The module's no-verbatim-quotation policy
 for these talks stands. Hashes after the repair recorded in the band
 file.
 
-- 07:52 UTC (measured) - b7 key-moments authorship: routed item
+- 07:52 UTC (commit d64a16722) - b7 key-moments authorship: routed item
   resolved without playback. Watch-page fetch returned the
   description verbatim; it contains no key-moments list. The
   Burma/Vipassana/suffering entries are a page-level feature.
@@ -1498,7 +1498,7 @@ file.
   1:40:16 with the variance stated. No verbatim quotes from the
   error-prone captions.
 
-- 07:56 UTC (measured) - b4 pending-classification context added
+- 07:54 UTC (commit b38206119) - b4 pending-classification context added
   (receipt B-V34): BSWA series page session titles opened; the series'
   own labeling reserves "breath meditation" for Session 3. Module's
   pending note updated accordingly; the two content items stay pending
@@ -1506,13 +1506,13 @@ file.
   alternate track on the transcript service; no podcast episode page
   for the series).
 
-- 07:58 UTC (measured) - routed b9 boundary-sentence flag closed by
+- 07:54 UTC (commit e2b68a717) - routed b9 boundary-sentence flag closed by
   inspection (receipt B-V35): module boundary already fixed per
   B-V25 by 1026b; flag-sweep receipt's surviving-set list stale on
   this item; no playback needed. Surviving routed set for this lane:
   b4 captions only.
 
-- 08:12 UTC (measured) - b4 guided-segment classification RESOLVED
+- 07:57 UTC (commit 7d73df75e) - b4 guided-segment classification RESOLVED
   (receipt B-V36): Polish-mirror indexed transcript read for the
   guided segment via the third-party service; breath explicitly
   offered as the attention anchor, peace as the alternative;
