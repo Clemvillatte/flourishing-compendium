@@ -400,3 +400,27 @@ counts predate those bands' repairs and are stale in that direction).
    shell to both the page fetcher and curl this session (see sample 8); the
    quote is also an elided composite. Classified as a blocked-host false
    positive per the map, flagged for any future eye-check.
+
+# QC sample 12: dosr7 files — first adjudication batch (2026-10-26 02:46:12Z, measured in-command)
+
+The band quote map's dosr7 counts are stale (creation 5->6, creativity 7->10,
+procrastination 2->3 after the band's close edits). Four items adjudicated as
+FALSE POSITIVES, confirmed:
+
+1-2. creativity, Zarathustra (Gutenberg, Thomas Common trans.): both quoted
+   spans verbatim — "Innocence is the child, and forgetfulness, a new
+   beginning, a game, a self-rolling wheel" and "Thou shalt". The verifier's
+   NOT FOUNDs were prose-extraction fragments from the story-card paragraph
+   (inline quotes, not block quotes).
+3. creativity, Wang et al. 2017 (PubMed 28259772): the divergent-thinking
+   sentence verbatim on the efetch abstract API.
+4. creativity, Baird et al. 2012 (PubMed 22941876): "These data suggest that
+   engaging in simple external tasks that allow the mind to wander may
+   facilitate creative problem solving" verbatim on the same API.
+
+Remaining unadjudicated from these three files (15 items, flagged for any
+future eye-check): creation — tandfonline x2, doi/tandfonline x1, PMC4542587,
+archive.org x3 (Skinner, Beyond Freedom and Dignity); creativity —
+tandfonline x2 (17439760), PubMed 24405359, thaleszp.com (Schumpeter),
+rider.edu, scispace x2; procrastination — semanticscholar, academic.oup,
+web.archive.org (Holton). Most sit on hosts that block automated fetchers.
