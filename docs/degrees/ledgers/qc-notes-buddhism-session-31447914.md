@@ -48,6 +48,27 @@ criterion 2 previously required identifying a craving; both now permit
 "craving not established here" as a legitimate finding without penalty,
 consistent with outcome 3's allowance for outside harm and uncertainty.
 
+## b9 hindrances elective (read in full; independent source check)
+
+Conformant: the hindrances taught as practical psychology of meditation
+with the abhidharma systematization explicitly excluded per the walk's
+rule; the aggregates flagged as an owed second thread; log-as-data
+framing without attainment claims; workload labelled (about 2 h 05 m).
+Independent check this session: the Nyanaponika compilation was opened
+by me on Access to Insight (wheel026.html): The Wheel Publication No. 26,
+BPS Kandy 1993, free-redistribution license stated on the page (copies
+free of charge, reprints up to 50, derivatives identify the source),
+transcribed 1994, revised for ATI 2013; the five hindrances with Pali
+names, the countermeasure lists, and the canonical citations (AN, MN
+including Satipaṭṭhāna, SN, Udāna, Sutta Nipāta, DN 2 Sāmaññaphala,
+Visuddhimagga IV) all confirmed on the opened page. The b9 receipt
+("freely redistributable on Access to Insight") is corroborated.
+Note: the page states ©1993 BPS with a 1994 transcription date; b9's
+"1993" matches the publication line. The ~2,500-word reading estimate
+covers the assigned two-hindrance sections, not the whole compilation,
+which is much longer; the estimate is plausible for the assignment as
+written.
+
 ## b8-capstone (read in full, landed 05:00:25Z per commit 6c7f3b8)
 
 Conformant: L4 synthesis with three deliverables (practice log with
