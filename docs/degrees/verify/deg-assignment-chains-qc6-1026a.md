@@ -6,27 +6,32 @@
 
 ## Part 1 — the final eight modules (all PASS)
 
-Completes the doc-to-data census: the four-degree scope (deg-psychdim,
+Completes the module-level census: the four-degree scope (deg-psychdim,
 deg-wol-daoism, deg-wol-buddhism, deg-wol-pragmatism) has 27 modules in
 the data block; 19 were traced in QC receipts 1-5 plus the m3
-finding/resolution; the eight below complete the census. All 27 traced.
+finding/resolution; the eight below complete the census. SCOPE CAUTION:
+this is SAMPLED assignment-level checking per module (each module's key
+spans compared against its doc), not an exhaustive assignment-by-
+assignment audit of every ref and every reading boundary.
 
 - buddhism b3: BUD-B3-01 segment 00:25:46-00:37:33 matches the doc's
   chapter-list assignment; BUD-B3-02 matches the doc's "five precepts,
   Middle Way/Eightfold Path" section list; BUD-B3-03 matches the
   training-rule step; BUD-B1-04 revisit present.
-- buddhism b5: BUD-B5-02 whole-talk 1:01:36 in two stops matches the doc;
-  BUD-B5-01 matches the doc's Thai Forest lineage frame; the two revisit
-  refs are present.
+- buddhism b5 (SAMPLED): BUD-B5-02 whole-talk 1:01:36 in two stops matches
+  the doc; BUD-B5-01's lineage-frame theme matches the doc's opening; the
+  chapter boundaries of BUD-B5-01's assigned teachings were not
+  individually compared; the two revisit refs are present.
 - buddhism b8 (capstone): the data block carries NO media refs — verified
   CORRECT per the b8 doc ("Measured media: none newly assigned... the
   learner may re-watch assigned segments, uncounted"; "adds no new
   sources by design"). Noted contrast: the psychdim m8 capstone carries
   explicit capstone-return refs; the b8 design legitimately differs.
-- daoism m1: DAO-M1-01 first segment 0:01:17-0:10:35 matches the doc;
-  DAO-M1-04 chapters 1, 8, 76 (288 words) matches; DAO-M1-05 Butterfly
-  Dream ~67 words matches; the three optional whole-work refs match the
-  doc's optional further viewing.
+- daoism m1 (SAMPLED): DAO-M1-01's first segment 0:01:17-0:10:35 matches
+  the doc (remaining windows not individually compared); DAO-M1-04 chapters
+  1, 8, 76 (288 words) matches; DAO-M1-05 Butterfly Dream ~67 words matches;
+  the three optional whole-work refs match the doc's optional further
+  viewing.
 - daoism m3: DAO-M1-03 shoe-fits segment 0:38:17-0:43:39 matches the doc;
   DAO-M1-05 Cook Ding 413 words + Hunchback 217 words matches.
 - psychdim m2: PD-M2-01 00:00-09:06, PD-M2-02 00:00-18:29, M06-AF07
@@ -61,12 +66,11 @@ An advisor review flagged over-claims in my earlier receipts. Corrections:
    b1 doc's printed assignment exactly. The data was correct; my
    extraction method, not the data, was the gap.
 3. QC3's prag m1 role note said "behavior is unchanged" for the dropped
-   role fields. Over-claimed: role participates in the per-assignment
-   completion keys (mod::src::role::assignment), so prag m1 keys changed
-   (e.g. optional refs defaulting to teach). The degrees are newly
-   launched so orphaned-completion impact is expected to be nil, but the
-   correct statement is "render labels are unchanged; completion keys for
-   prag m1 refs changed".
+   role fields. Over-claimed and replaced by observation only: missing
+   explicit roles were observed on the prag m1 refs; their effect on
+   existing completion keys (the key builder defaults missing roles to
+   'teach') was NOT verified against the pre-splice keys. Render labels
+   are unaffected (no role means no role chip).
 4. PRAG-M4-01 revert receipt: "defect was live ~2 minutes" is replaced by
    the observations — defective asset observed on Pages at 12:07:29Z,
    corrected locator observed at 12:08:35Z; the exact exposure interval
@@ -82,10 +86,31 @@ An advisor review flagged over-claims in my earlier receipts. Corrections:
 5. PRAG-M4-01 full-ref check: the ref carries no separate assignment
    field (only source_id, level, locator); the 476-word passage text now
    appears in the data block only on PRAG-M4-02 (Human Nature and
-   Conduct), its correct home. Completion keys for PRAG-M4-01 are built
-   from its clean fields, so no erroneous text survives in keys.
+   Conduct), its correct home. Renderer inspection (this receipt's
+   revision): acadAssignmentText(src, ref) builds the displayed line
+   from the MODULE REF only (segments, then locator, then note) and
+   acadAssignKey uses [modId, source_id, ref.role||'teach',
+   segments||locator] — the source-registry record is never a fallback
+   for assignment text or keys, so no registry text can leak into the
+   displayed row or completion key for PRAG-M4-01. The schema lane's
+   registry-level locator for PRAG-M4-01 was separately corrected by
+   them (12:09Z) and is not rendered.
+   NOTE (attribution): the schema lane pushed its own revert of fix-list
+   item 2 (ac3bc77b4, 12:06:28Z) 21 seconds before mine (0520ce27,
+   12:06:49Z); both landed and the merged state is the correct
+   single-passage locator. Duplicate effort, no conflict in outcome.
 6. Live PRAG-M3-04 pairing verified explicitly: the live source record
    pairs the Lecture VI URL with the Lecture VI Reading B3 assignment.
 
-No modules, ledgers, band files or shared boards edited by this receipt
-beyond the appended OWNER-BOARD line.
+## Part 3 — replay-hazard status and other lanes' results (attribution)
+
+The integrate lane's commit 732461ce7 removed the hardcoded m8 PD-M1-07
+strip from the splice script and added a regression assertion — that is
+ONE replay symptom fixed, not a resolution of the replay hazard I filed
+in deg-phasea-behavior-qc-1026a.md. My original findings (the apply
+script dropping role/assignment fields on rerun, re-adding dao m1
+optionals, and leaving buddhism B4-01/B5-01 corrections unapplied) remain
+OPEN — unverified as fixed. The board's other-lane results (integrate's
+27/27 live render sweep, deg-fix-content's 27/27 deep traces, QA 4/4)
+are those lanes' own findings at their checked revisions, cited from the
+OWNER-BOARD; I have not independently re-verified them.

@@ -1,5 +1,11 @@
 # DEGREE VERIFICATION RECEIPT — doc-to-data chain QC 5 (final batch, six)
 
+> SCOPE CORRECTION (added with QC6, 2026-10-26): the coverage counts and
+> PASS claims in this receipt predate the QC6 corrections — read it together
+> with deg-assignment-chains-qc6-1026a.md, which narrows the run's coverage
+> claims to sampled assignment-level checks and corrects the module counts.
+
+
 - Receipt id: deg-assignment-chains-qc5-1026a
 - Agent: worker-pplx-schema-1026a (deg-verify-b baton)
 - Date: 2026-10-26 (push time = this receipt's git commit; clock cross-checked
