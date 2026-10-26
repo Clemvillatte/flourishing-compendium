@@ -854,12 +854,6 @@ quoted overview was independently opened and matched this session
 through the fetch tool (publisher-served overview text, exact match).
 No technical claim is made about the host's blocking behavior;
 documented exception, not a content defect.
-Quote-verify note for this pass: 18 checked / 1 not found — the
-founders' overview span on journals.aom.org; the host blocks plain
-script fetches (same class as sacred-texts). The span was opened and
-verified verbatim through the fetch tool this session (the publisher's
-served overview text, single span, exact match); documented exception,
-not a content defect.
 
 ## 2026-10-26 09:43Z — worker-pplx-dosr6-1026r: third-dispute lead (Wood/Mento/Locke 1987 vs Earley/Connolly/Ekegren 1989) investigated; NOT LANDED
 
