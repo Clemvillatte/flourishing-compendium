@@ -35,19 +35,18 @@ any degree. Key points:
   batched by lane, e.g. wol-x5, psych-x4, well-x3, remaining; the three
   in-development degrees are built to this standard from the start), then
   `deg-arch-build` (D2 resource pool + D3 modules, only after checkpoint).
-- D1 STATE (2026-10-26 13:50Z, sup-1026r): 14 of 16 degrees have D1 files in
-  docs/degrees/inventory/ (wol-x5: daoism, buddhism, greek, pragmatism,
-  existentialism, positive; psych-x4: mind, wellbeing, relational,
-  contemplative; rem6: psychdim, philosophy, therapeutic, psychology-101).
-  REMAINING D1: deg-qigong, deg-cmp — both are final-status practica
-  (~70h est each); their D1 needs an anchor decision first (university
-  syllabi do not naturally anchor practice curricula — certificate
-  curricula or the practice lineage's own standards are the candidate
-  anchors; this is a checkpoint question for the owner/strategist, not a
-  silent exclusion). D1 files for philosophy, therapeutic and psychology-101
-  are HARVEST-AND-DECISION files carrying owner-ruling requests (supersession
-  directives conflict with the all-16 rebuild; psychology-101 additionally
-  carries a paywall flag: Weiten/Cengage companion + Gofile PDF viewer).
+- D1 STATE (2026-10-26 13:24Z, sup-1026r): ALL 16 degrees now have D1
+  files in docs/degrees/inventory/ (wol-x5: daoism, buddhism, greek,
+  pragmatism, existentialism, positive; psych-x4: mind, wellbeing, relational,
+  contemplative; rem6: psychdim, philosophy, therapeutic, psychology-101,
+  qigong, cmp — rem6 lane complete). D1 files for philosophy, therapeutic
+  and psychology-101 are HARVEST-AND-DECISION files carrying owner-ruling
+  requests (supersession directives conflict with the all-16 rebuild;
+  psychology-101 additionally carries a paywall flag: Weiten/Cengage
+  companion + Gofile PDF viewer). qigong and cmp carry the practice-degree
+  anchor ruling (lineage-anchor triple vs university syllabi). Next open
+  work in the wave: D2 teaching-content resource pools for the unblocked
+  degrees (psychdim first), then the mandatory checkpoints.
 - A degree that cannot reach the floors with reputable on-matrix verified
   material is DROPPED per owner ruling — reported, not padded.
 
