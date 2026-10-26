@@ -149,3 +149,22 @@ stage, it fails the anonymous-visitor carrier standard and is usable only
 as a named practice the walk points learners to (the walk's text can
 describe the exercise without linking the tool as module media). The
 anonymous-access check is OUTSTANDING; status UNSET.
+
+
+## VIA anonymous-access check CLOSED (2026-10-26, worker-pplx-positive-1026p)
+
+Fetch-time bound: the viacharacter.org/survey page was opened before the 2026-10-26T09:41:45Z
+clock read this entry was written against.
+
+| URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
+| https://www.viacharacter.org/survey | 2026-10-26, before 2026-10-26T09:41:45Z | worker-pplx-positive-1026p | the survey start page prints "Register to take a VIA Survey" and "You must be 13 years or older to register for an account" — registration is presented as the way to take the survey; free confirmed ("The VIA Survey is the only free, scientific survey of character strengths in the world") but SIGNUP-GATED |
+
+Ruling recorded: the VIA survey FAILS the anonymous-visitor carrier standard
+(skill section 4) because registration is required to take it. It is NOT a
+module-media candidate. It may still be named in module text as a practice
+the walk describes (the walk's own exercises, run in the learner's life and
+recorded in their journal, are the anchor-norm carrier for that row — the
+Santos rewirement pattern, now opened evidence via the Coursera syllabus).
+The strengths row's teaching-source candidate remains outstanding (a free
+anonymous strengths lecture or text).
