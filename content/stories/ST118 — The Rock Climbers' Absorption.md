@@ -23,10 +23,13 @@ The origin in climbers and other practitioners rather than in patients is part o
 **Principles:**
 - [[P073 — See conduct as interaction|P073 See conduct as interaction]] — conduct as skilled interaction, visible in the climber's moves.
 - [[P075 — Treat habits as will|P075 Treat habits as will]] — absorption built by practice, not by a decision to be absorbed.
+- [[PP019 — Protect absorption|PP019 Protect absorption]] — the climber's total absorption in the route, protected from interruption.
+- [[PP020 — Build feedback into practice|PP020 Build feedback into practice]] — the climb's own feedback: route, weather, the climber's fear as signal.
 
 **Resonates:**
 - [[D057 — Enter flow|D057 Enter flow]]
 - [[PP018 — Calibrate challenge to skill|PP018 Calibrate challenge to skill]]
+- [[D071 — Practice undivided attention|D071 Practice undivided attention]]
 
 ## Related thinkers
 

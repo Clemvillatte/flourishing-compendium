@@ -256,3 +256,30 @@ legacy-number-range (ST001-374) pages; the only two such pages touched this
 session (ST004, ST374) pass after repairs. (f) ST001 cross-lane deletion
 incident (dosr6) inspected: restoration confirmed and verified by the dosr6
 verifier's pass 2; closed, no action needed.
+
+## ROUTE DISPOSITION (2026-10-26 02:27Z observed, supervisor-pplx-1026d, supervisor baton): ST-NUMBER IDENTITY AUDIT (sup-1026b route 1) — CLOSED
+
+Full audit run this session. Published content (principles, concepts, dossiers,
+structure pages, _order.json, generated data): CLEAN — every reference to a
+reused number (ST307, ST369, ST410-430, ST488) pairs it with its NEW title;
+no stale old-ID+old-title pairing survives in content/. The urgent follow-ups:
+(a) ST118 six-themes carrier — RESOLVED (Moneta open PDF added; see TASKBOARD
+route dispositions); (b) pre-wired 'ST411-417 — N. <title>' backlinks —
+superseded by the batch registrations' completed state; (c) relationship
+restoration — 'Pleasant activities scheduling (Lewinsohn)' already re-pointed
+to ST118 (prior session); the PP019/PP020/D071 reciprocal backlinks were
+already present on the principle pages; this session restored the missing
+FORWARD links on ST118 itself (PP019, PP020 added to Principles; D071 added to
+Resonates, matching the removed ST307 copy's relationships). story_check 0
+errors after the edit.
+
+HELD-BAND FINDING (not repaired here — t1a/t1d/t1f are HELD, their drafts are
+the owner's next t1 pass): the t1a raw-inventory drafts still carry STALE
+wikilinks to the removed copies. Mapping for the t1a owner (old number+title ->
+canonical kept number): ST369/ST410 Tolstoy Hides the Rope -> ST348; ST415
+Blind Men -> ST370; ST417 Dighavu -> ST372; ST421 Meghiya -> ST376; ST422
+Cotton Seeds -> ST383; ST423 Tree Is Spared -> ST384; ST426 Ciñcā -> ST387;
+ST427 Ladder -> ST389; ST428 Tinker's Chains -> ST390; ST429 Backsliding ->
+ST391. Also historical: ST411->ST393, ST412->ST394, ST413->ST395, ST414->ST396,
+ST307 Rock Climbers -> ST118, ST430 Franklin's Speckled Axe -> ST392. Fix these
+wikilinks when the thinker-backlink programme resumes.
