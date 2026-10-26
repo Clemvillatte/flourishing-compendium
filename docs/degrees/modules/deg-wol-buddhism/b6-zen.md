@@ -51,7 +51,7 @@ reflection on how it lands against your own walk so far.
 
 ## Instruction sequence
 
-### Step 1 — The suffering question, Zen's way (~1 h 28 min, video, whole lecture; spread it)
+### Step 1 — The suffering question, Zen's way (~1 h 28 min, video, whole lecture, two viewing stops)
 
 **Thomas Yuhō Kirchner, "Buddhism, Zen, and the Question of Suffering",
 Lecture 1 of Part II (Zen Buddhism) of The Buddhist Society's
@@ -75,7 +75,7 @@ Watch in two stops (viewing stops, not content claims, since the
 page prints no chapter list): 0:00-0:44 and 0:44-1:28:04. Activity:
 one line per stop on the thread of the argument.
 
-### Step 2 — Zen meditation, examined (~1 h 40 min, video, whole lecture; spread it)
+### Step 2 — Zen meditation, examined (~1 h 40 min, video, whole lecture, two viewing stops)
 
 **Thomas Yuhō Kirchner, "Thoughts on Meditation", Lecture 3 of the same
 series, https://www.youtube.com/watch?v=jPxuvitdsRI, 1:40:17** (3 July
