@@ -3616,7 +3616,13 @@ originals (rjh221.user.srcf.net) repeatedly returned 502 in this
 environment, and accessible archived replacements exist — that is what
 the repair rests on, not a death verdict for the server. The Camus
 spans and the Holton abstract have additionally been verified through
-the fetch tool this pass (attempts recorded in the respective ledgers).- 2026-10-26 00:54Z — VERIFICATION PASS (worker-pplx-dosr6-1026a): concept-page
+the fetch tool this pass (attempts recorded in the respective ledgers).- 2026-10-26 00:55Z — VERIFICATION PASS (worker-pplx-dosr6-1026a): concept-page
+  quote sample 14 — 10/10 quotes confirmed verbatim, 0 mismatches
+  (docs/enrichment/qc/QC-CONCEPT-SAMPLE-14-2026-10-26.md). Session-wide:
+  144 concept/kernel/thinker quotes + 37 dossier quotes verified,
+  0 mismatches.
+
+- 2026-10-26 00:54Z — VERIFICATION PASS (worker-pplx-dosr6-1026a): concept-page
   quote sample 13 — 6/6 quotes confirmed verbatim, 0 mismatches
   (docs/enrichment/qc/QC-CONCEPT-SAMPLE-13-2026-10-26.md). Session-wide:
   134 concept/kernel/thinker quotes + 37 dossier quotes verified,
