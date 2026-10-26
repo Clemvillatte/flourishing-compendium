@@ -47,6 +47,9 @@ def main():
             if c.get('prerequisite_display'): m['prerequisiteDisplay'] = c['prerequisite_display']
     ap = os.path.join(INT, f'{deg}-assignments.json')
     spec = json.load(open(ap))
+    for nsid, nsrec in spec.get('new_sources', {}).items():
+        if nsid not in src:
+            d['sources'].append(nsrec); src[nsid] = nsrec; log.append(f'new source {nsid}')
     for mid, ms in spec['modules'].items():
         m = d['modules'][mid]
         old = {}
