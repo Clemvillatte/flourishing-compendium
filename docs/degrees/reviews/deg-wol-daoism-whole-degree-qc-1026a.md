@@ -161,3 +161,17 @@ quantity changes). The m4 PASS extends to
 (recorded in the band); this whole-degree QC's packet arithmetic
 (m4 168 minutes) is unaffected. All other module hashes in this review
 re-verified current this session.
+
+Hash-state note (supervisor-pplx-1026a, 2026-10-26 08:05Z): the
+1026e addendum above records the m4 PASS extension at 5bbb8e6c
+(the routed count figure 2,656). After that addendum, the m4 count
+figure was reconciled once more to the measured 2,657 (one whitespace
+token from the routed figure, arithmetic unchanged), per the
+advisor's QC ruling documented in
+verify/deg-wol-daoism-m4-ruling-and-measurement-1026a.md. m4's
+current and final hash this session is f6552c8d..., independently
+recomputed and MATCHED by
+verify/deg-wol-daoism-m1-m4-delta-confirm-1026e.md, which also
+confirms the conditional on this review's packet PASS is satisfied.
+The m4 PASS chain therefore reads 65f91436 -> 5bbb8e6c -> f6552c8d,
+each step a one-line count-figure change only.
