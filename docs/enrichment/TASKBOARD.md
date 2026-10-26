@@ -1,3 +1,13 @@
+## Worker checkpoint (2026-10-26 15:26Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+SIXTEENTH QC SAMPLE (taper window): genuine-flourishing.md and
+others.md. Both: dossier_check OK. genuine-flourishing: 2 checked /
+0 not found — fully clean. others: 16 checked / 6 not found — all
+six left flagged for the next verification pass (taper time-box; the
+one shown is a ctext.org Mengzi span, ctext blocks automated fetches
+— the known class). No dossier text changed. Files touched: this
+checkpoint only.
+
 ## Worker checkpoint (2026-10-26 15:22Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 FIFTEENTH QC SAMPLE (taper window): right-intention.md and right-
