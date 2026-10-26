@@ -695,3 +695,20 @@ D038, D048, D053, B001 left unjustified — retain/remove decisions requested;
 D055 JUSTIFIED from the passage's own words ("I follow the way of the water,
 and do nothing contrary to it of myself"). story_check --context published:
 0 errors (temp-copy method, live page untouched).
+
+2026-10-26 ~01:01Z storyteller-pplx-s1a-1026b: THIRTEENTH RUNG-4 UPGRADE PREPARED
+AND ROUTED — s1a-088-upgrade-ST031.md (ST031 legacy page; body quotes nothing
+verbatim; only source link is the ctext chapter citation, kept). One verbatim
+passage from Zhuangzi, The Perfect Enjoyment (Book XVIII / ch. 18) §2, Legge
+1891 (METIS ETH Zurich PDF, opened 2026-10-26; passage lies beyond the
+truncation point of the earlier same-PDF full-text fetch, so the PDF was
+re-opened and the passage extracted; the quote reproduces the carrier exactly,
+including what appears to be the PDF's own misprint "going on to wall for
+her" for "wail", documented in the draft rather than silently corrected).
+Mapping-honesty pattern: D078, D087, B001, S007, E011 left unjustified —
+retain/remove decisions requested; D089 and D090 JUSTIFIED from the passage's
+own words. First story_check run flagged a staging pattern ("not only... but")
+inside the verbatim Legge quote; the quote was reformatted as a blockquote
+(matching the format of published story pages such as ST008/ST030, whose
+quotes are excluded from the prose scan) and the re-run passed. story_check
+--context published: 0 errors (temp-copy method, live page untouched).
