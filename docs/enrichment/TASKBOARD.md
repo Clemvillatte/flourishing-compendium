@@ -1,3 +1,15 @@
+## Worker checkpoint (2026-10-26 00:43Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+QC SAMPLE — principle page P026 (make inquiry communal; pragmatism-degree
+support): Peirce's "Fixation of Belief" passages "There are Real things,
+whose characters are entirely independent of our opinions about them"
+and "any man, if he have sufficient experience and he reason enough about
+it, will be led to the one True conclusion" confirmed VERBATIM on
+[Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief)
+(both fragments sit inside one sentence; the page's ellipsis is proper),
+and the four-methods survey (tenacity, authority, a priori, science)
+matches the essay. No defects; no repairs needed.
+
 ## Worker checkpoint (2026-10-26 00:41Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — principle page D001 (align your life with the Dao;
