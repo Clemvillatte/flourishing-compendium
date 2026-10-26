@@ -28,9 +28,11 @@ Notes:
 - PD-M3-03 duration variance: the page's reported `lengthSeconds` for
   Yuwqr5o58Z0 returned 3583 on one fetch and 3582 on a later fetch of the same
   page — this is the source of the 59:42-vs-59:43 discrepancy (an earlier worker
-  wrote 0:59:42; the ledger uses 0:59:43). The app.js value is kept at 3583
-  (0:59:43); a 1-second delta in YouTube's reported total does not affect any
-  assignment window (all m3 windows sit well inside the video).
+  wrote 0:59:42; this pass extracted 3583). CURRENT LEDGER STATE (verified on
+  origin/main after the merge rounds): the data block carries 59:42 — a value
+  also within the page's reported range, so no repair is needed; a 1-second
+  delta in YouTube's reported total does not affect any assignment window
+  (all m3 windows sit well inside the video).
 - PD-M3-02 and PD-M3-03 report the same total (0:59:43 / 3583); both pages were
   fetched independently, and PD-M3-03's own player metadata was re-read on the
   second pass. Plausible for consecutive lectures in the same Yale series.
