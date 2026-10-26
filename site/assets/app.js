@@ -10794,6 +10794,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
+          "x": "And he extends the point to the very processes psychologists call controlled:"
+        },
+        {
+          "t": "q",
+          "x": "\"Such \"controlled\" processes may be less efficient than automatic processes and require more cognitive resources, but even if they occur along with an experience of control or conscious will, this experience is not a direct indication of their real causal influence.\" ([Wegner, BBS 2004 précis, full text, author-hosted](https://dtg.sites.fas.harvard.edu/DANWEGNER/pub/bbs%20precis.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
           "x": "Baumeister, Masicampo and Vohs reviewed experiments that manipulate conscious thought by random assignment and read the record the other way:"
         },
         {
@@ -10803,11 +10812,33 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
+          "x": "A philosopher who examined Wegner's line of argument directly contests the pessimistic reading of that evidence:"
+        },
+        {
+          "t": "q",
+          "x": "\"I argue that most of the evidence adduced in the book can be interpreted in ways that do not threaten the efficacy of conscious will. Also, I argue that Wegner's view of conscious will is not an empirical thesis, and that certain views of consciousness and the self are immune to Wegner's line of argument.\" ([Sharlow, Yes, We Have Conscious Will, 2007](https://philsci-archive.pitt.edu/3778/1/conscious_will.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "His closing verdict:"
+        },
+        {
+          "t": "q",
+          "x": "\"Neither science nor logic forces us to accept Wegner's pessimistic view of conscious will as presented in ICW. That view is neither an empirical hypothesis nor the conclusion of a persuasive philosophical argument.\" ([Sharlow 2007](https://philsci-archive.pitt.edu/3778/1/conscious_will.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
           "x": "The two abstracts do not contradict each other as sharply as the titles suggest. Wegner is claiming that the feeling of will is built from an interpretation and does not give a view of the causal chain. Baumeister and colleagues are claiming that conscious thoughts, such as plans and rehearsal, do change what people go on to do, and they accept that the effect is indirect and mixed with unconscious processing. Both can be true if the feeling of deciding is a poor guide to the route a thought takes while the thought itself still matters."
         },
         {
           "t": "p",
-          "x": "My lean, which is mine, is that the dispute is less about whether conscious thought has any effect and more about how far the felt moment of choosing can be trusted as evidence of that effect. Limits: I read two abstracts, not the book or the review, and the review's range of topics does not test the specific cases Wegner uses, such as hypnosis or automatic writing."
+          "x": "Sharlow's response sharpens the disagreement where it actually lives: not on whether conscious thought ever has effects, but on whether Wegner's assembled evidence could show it does not. Wegner says the feeling is no indication of causal influence; Sharlow answers that the evidence leaves efficacy intact and that the pessimistic reading is not an empirical finding. That exchange is genuine: one side holds the evidence deflates the will, the other holds the same evidence does nothing of the sort."
+        },
+        {
+          "t": "p",
+          "x": "My lean, which is mine, is that the dispute is less about whether conscious thought has any effect and more about how far the felt moment of choosing can be trusted as evidence of that effect. Limits: the précis is now read in full (author-hosted copy); the book itself and the Baumeister review are not, and Sharlow's paper is a self-archived response, not a journal article, which I weigh accordingly."
         },
         {
           "t": "h2",

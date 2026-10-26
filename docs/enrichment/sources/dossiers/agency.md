@@ -350,3 +350,28 @@ record carrying the published wording.
   density 0, quote_verify 11 checked / 0 not found — the repaired span now
   machine-verifies. Registry rebuilt (--rebuild=agency, 86 blocks) so the
   published site reflects the fix.
+
+## 2026-10-26 09:46:48Z (fresh clock read) — supervisor-pplx-1026p: Q2 upgraded with the full précis and a direct respondent
+
+Two primaries opened this session: (1) Wegner's full BBS 2004 précis
+(author-hosted at Harvard, dtg.sites.fas.harvard.edu, fetched and
+opened) — the controlled-processes span added ("this experience is not
+a direct indication of their real causal influence"); (2) Sharlow,
+"Yes, We Have Conscious Will" (2007, self-archived at PhilSci-Archive,
+fetched and opened) — a direct response to Wegner's book, quoted on
+its abstract claims and its closing verdict ("Neither science nor
+logic forces us to accept Wegner's pessimistic view of conscious
+will..."). PROVENANCE LIMIT: Sharlow's paper is a preprint, not
+journal-published; the dossier text weighs it accordingly. The
+Baumeister review and Wegner's book remain unread (abstracts only,
+as before). Q2 certified as a narrow methodological head-on; agency
+still below the strict bar (1 certified + 2 unresolved + 1
+candidate).
+
+Quote-verify note for this pass: 15 checked / 2 not found — both
+Sharlow spans on philsci-archive.pitt.edu; the archive rejects plain
+script fetches ('Request Rejected' HTML served; documented exception
+class). Both spans verified verbatim against the PDF fetched this
+session (curl download + pdftotext; newline-normalized full-span
+match, including the abstract claims and the closing verdict). The
+Wegner full-précis span auto-verifies on the Harvard carrier.
