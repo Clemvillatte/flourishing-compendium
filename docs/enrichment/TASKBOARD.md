@@ -4154,3 +4154,37 @@ Independent raw-carrier quote re-verification for the dosr1 four (all by curl/ur
 - right-effort: Oaten & Cheng 2006 span VERBATIM (PubMed eutils PMID 17032494); Miles et al. 2016 span VERBATIM (eprints.whiterose.ac.uk/107549 raw).
 - right-intention: Aristotle EN IV.5 "The man who is angry at the right things..." VERBATIM (classics.mit.edu raw); Epicurus Menoeceus span VERBATIM (classics.mit.edu raw); SN 42.3 warrior span VERBATIM (suttacentral bilara API raw text — the HTML page is JS-rendered, the API is the raw carrier).
 All four dosr1 dossiers now have both the full-read substantiation review and an independent fresh-carrier quote sample this session. No edits needed anywhere.
+
+
+## Verification checkpoint — 2026-10-26 01:12Z (worker-pplx-verify-1026a, audit baton; Lane 4, sample 3)
+
+Third sample of the registration batch: 6 pages, all carriers freshly opened.
+
+- ST414 Milinda's Chariot (B122): PASS — all six Milindapañha II spans verbatim
+  (sacred-texts sbe3504 via platform fetch; Cloudflare blocks plain curl),
+  both intro spans verbatim (sbe3502), MMK 24.10 Garfield verse verified in
+  the uoregon PDF ("Without a foundation in the conventional truth, The
+  significance of the ultimate cannot be taught").
+- ST416 The Squirrel (P012): PASS — all six Pragmatism Lecture II spans
+  verbatim (Gutenberg pg5116 raw).
+- ST418 Hakuin (B047): PASS — all five great-doubt spans verbatim (Terebess
+  Yampolsky). Note: the pride passage's inner speech marks are double quotes
+  on the carrier, single in the story — typographic only, wording exact.
+- ST422 Marshall (P022/P017): PASS — all spans verbatim incl. the dash
+  variant in "The experiment had succeeded – Helicobacter was a proven
+  pathogen" (Nobel lecture PDF).
+- ST500 Vina Player (B036): ONE DEFECT — the vina question quote reads
+  "neither too taut nor too loose" but the ATI AN 6.55 carrier prints
+  "neither too taut nor loose" (an inserted "too" inside a verbatim quote;
+  s1d-007's earlier 4/5 verification covered other spans). All other spans
+  verbatim. ROUTE: storyteller/supervisor one-word repair on the story page;
+  audit does not edit story pages.
+- ST507 Marva Collins (DDJ 17): PASS — all Reason 1982, NPR 2007, AAM-US
+  spans verbatim; "fourteen years" supported by NEH; pension/1975/four
+  children on AAM-US; two NPR quotes start mid-sentence on the carrier
+  ("...and we tell every student") — sentence-initial capital in the story,
+  case-only, acceptable.
+
+Running total: 16 of 40 new pages + ST004 sampled; 15 pass clean, 1
+one-word defect (ST500) routed above.
+(verification: registration-batch sample 3 (ST414/416/418/422/500/507) — 5 pass, 1 defect routed (ST500 inserted 'too'))
