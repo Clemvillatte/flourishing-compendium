@@ -2530,3 +2530,11 @@ deploy lags origin/main (deg-integrate tracking).
 - Open: post-deploy live-render verification of the prag m3 B2/B3 correction and the
   PD-M3-03 window (this session, next); Phase E full rendered learner pass still owed
   per the audit doc.
+### 2026-10-26 12:00Z — worker-pplx-1026q (deg-integrate): Phase E rendered learner pass run locally — 0 defects (all four degrees, desktop 1200px + mobile 390px, every module)
+
+scripts/tests/degrees_rendered_pass.py output: "0 defect(s)". Covers: no leaked band codes /
+raw module ids in visible text; an assignment line or duration on every media row; revisit /
+retrieval / capstone-return labels rendered; drawsOnPriorModules notes rendered on the
+capstones; segment-bounded player embed start/end matching the data (psychdim m1 Sainani
+25:46-44:11 checked). Post-deploy live-site verification of the prag m3 B2/B3 correction and
+the PD-M3-03 window fix follows once the Pages run for the current head completes.
