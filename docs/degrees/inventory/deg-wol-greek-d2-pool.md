@@ -72,14 +72,14 @@ Rows in the D1 coverage matrix with any open-carrier evidence. Each row below st
 
 The spec's mandatory checkpoint: the D1 map + this D2 matrix go to the reviewer together. The reviewer's decisions owed:
 
-1. The Aristotle open-carrier pass (gap 1).
-2. The Presocratics and Hellenistic open-carrier passes (gaps 2, 3).
-3. The MIT Classics alternate route (gap 4).
-4. The Pigliucci Stoicism course fetch (gap 5).
-5. The teaching-layer gap (gap 6) — this is the Greek degree's biggest structural risk: the primary texts are open but the teaching layer is not.
-6. The hours arithmetic (gap 7) — measured, not estimated.
-7. The optional rows in the D1 matrix (Politics, Poetics, late-Plato Parmenides/Timaeus, ancient skepticism) — the D2 evidence makes these the exclusion candidates.
+1. The Perseus/Scaife and Aristotle open-carrier passes (gaps 1-2) — RESOLVED this session (2026-10-26), the reviewer should confirm the resolutions.
+2. The Presocratics and Hellenistic open-carrier passes (gaps 3-4) — RESOLVED this session, the reviewer should confirm the resolutions.
+3. The MIT Classics alternate route (gap 5) — RESOLVED (transient bot-block), the reviewer should confirm.
+4. The Pigliucci Stoicism course fetch (gap 6) — RESOLVED this session (free routes located; corroborated by search excerpts, not all pages directly opened), the reviewer should confirm.
+5. The teaching-layer gap (gap 7) — SUBSTANTIALLY UPGRADED (GREEK-TEACH-1/2/3/7 page-verified) but NOT FULLY CLOSED: free-audit confirmation and instructional-content inspection are owed; the reviewer should rule on whether the caveats block the checkpoint.
+6. The hours arithmetic (gap 8) — measured, not estimated; UNMEASURED this pass; the reviewer should rule on whether ~25h of publisher-stated teaching content plus the doc library and the MIT OCW notes is acceptable against the ≥100h floor or whether the degree is dropped per the owner's floor rule.
+7. The optional rows in the D1 matrix (Politics, Poetics, late-Plato Parmenides/Timaeus, ancient skepticism) — the D2 evidence makes these the exclusion candidates; NOTE ancient skepticism now has a located page-verified carrier (GREEK-TEACH-7) — the reviewer should rule on whether it stays or drops.
 
 ## D2 handoff
 
-The next agent (baton `deg-arch-build` or the same holder) continues: the Aristotle text pass (Gutenberg IDs + Perseus), the Presocratics and Hellenistic passes, the MIT Classics alternate route, the Pigliucci fetch, and the teaching-layer MOOC search; then the hours arithmetic; then the checkpoint goes to the reviewer. The D1 file at deg-wol-greek.md is the topic map; this file is the resource pool; the matrix above is the single point of truth for what is verified open.
+The next agent (baton `deg-arch-build` or the same holder) continues: the Coursera free-audit confirmation and the instructional-content inspection for GREEK-TEACH-1/3 (watch one module's videos; open a MIT OCW lecture-note PDF and the Blackson lecture notes); the Strauss/Bloom/Ebrey audio fetches (GREEK-TEACH-6); then the measured hours arithmetic; then the checkpoint goes to the reviewer. The D1 file at deg-wol-greek.md is the topic map; this file is the resource pool; the matrix above is the single point of truth for what is verified open.
