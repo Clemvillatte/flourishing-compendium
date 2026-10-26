@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Worker checkpoint (2026-10-26 02:27:32Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
 
 CORRECTION + COMPLETED RE-OPEN — anger Q2 (Aristotle NE III.8 aids-vs-necessity): my earlier note this session said the Ross NE III.8 primary was not openable (MIT nicomachaen.3.viii.html 404) — that was a WRONG-URL guess on my part. The dossier's actual cited carrier, classics.mit.edu/Aristotle/nicomachaen.3.iii.html, is LIVE and carries the courage chapters: all three quoted spans verified VERBATIM ("act for honour's sake, but passion aids them"; "seems to be the most natural, and to be courage if choice and motive be added"; "pugnacious but not brave"). PRIMARY SUBSTANCE CONFIRMED: Aristotle's own text says passion AIDS brave acts and calls passion-driven fighters pugnacious-but-not-brave; NOWHERE does the Ethics assert that anger is NECESSARY for courage — the "necessary... not as a general, but as a soldier" claim exists only in Seneca's report of Aristotle (On Anger I.9, verified verbatim on Gutenberg this session). The dossier's mismatch framing is ACCURATE FROM THE PRIMARY. Also verified this pass: the anger Q1 Aristotle NE IV.5 quote ("The man who is angry at the right things... is praised") VERBATIM on the cited MIT carrier (nicomachaen.4.iv.html). The anger dossier's Q1/Q2 primary grounding is now fully re-verified; no repairs needed.
@@ -6,6 +7,32 @@ CORRECTION + COMPLETED RE-OPEN — anger Q2 (Aristotle NE III.8 aids-vs-necessit
 TWO SWEEPS LANDED:
 - STRUCTURAL SWEEP: dossier_check.py run on all 50 files in docs/enrichment/dossiers/ — all 43 actual dossiers EXIT 0; the 7 failures are meta-documentation files (ART-GALLERY, DISAMBIGUATION, DOSSIER-MODEL, HANDOFF, README, SUPERVISOR-REVIEW, VOICE-AUDIT) that are not dossiers and are not subject to the dossier checker. No structural breaks from today's parallel edits.
 - COGNITION Q3 PROVISIONAL VERDICT RESOLVED: both Haidt 2001 quotes and both Pizarro-Bloom 2003 quotes verified VERBATIM on freshly opened carriers (eutils 11699120; Europe PMC core 12529062 — the abstracts the dossier cites). The propositions genuinely oppose on the causal role of conscious deliberation with both sides' hedges (usually/generally vs shaped/informed) preserved in the dossier's own text. Verdict recorded as PASS-WITH-QUALIFICATION in batches/dosr3.json (upgraded from PROVISIONAL; full-text reads remain available to a future worker but are not needed for the quotes as cited).
+=======
+## Worker checkpoint (2026-10-26 02:29Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
+QC SAMPLE — concept page Oikeiosis (complete: all five quoted spans
+checked): the SEP Stoicism §4.6 spans — the doctrine definition ("the
+Stoics rely on their doctrine of oikeiôsis ('appropriation' or
+'affiliation'; the Greek term suggests a process whereby objects come to
+be recognized as oikeion – as 'appropriate' or 'affiliated' or
+'belonging' to the creature in question)"), the self-preservation span,
+the first-oikeion span, "reason supervenes as the craftsman of impulse"
+(Diogenes Laertius 57A), and the Cicero offspring-concern span — all
+confirmed VERBATIM on the opened [SEP Stoicism entry](https://plato.stanford.edu/entries/stoicism/)
+(section 4.6). No defects; no repairs needed.
+
+QC SAMPLE — concept page Ockham's razor (complete: all five quoted spans
+checked): the IEP section-2 spans — the definition ("Ockham's Razor is
+the principle of parsimony or simplicity according to which the simpler
+theory is more likely to be true."), "Entities should not be multiplied
+beyond necessity", "It is useless to do with more what can be done with
+less", the theories-explain-and-predict span, and "Ockham never makes
+this assumption" — all confirmed VERBATIM on the opened
+[IEP Ockham entry](https://iep.utm.edu/ockham/) (curly-vs-straight
+apostrophe in "Ockham's" only); the 1852 Hamilton first-use date also
+confirmed on the same carrier. No defects; no repairs needed.
+
+>>>>>>> 7fd5d400b (verification assist: QC samples Oikeiosis, Ockham's razor (2 pages, 10 spans, all verbatim))
 <<<<<<< HEAD
 ## Worker checkpoint (2026-10-26 02:26:30Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
 
