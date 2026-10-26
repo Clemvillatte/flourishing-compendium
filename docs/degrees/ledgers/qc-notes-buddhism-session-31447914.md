@@ -28,15 +28,13 @@ Defects found:
    arithmetic line reads "1 × 10 m metta", but the plan schedules two
    metta sittings (one per week). Recompute: 2 × 13:23 guided beyond
    the first execution, 2 × 10 m metta, 2 × 10 m unguided.
-3. **BG-2's calm-insight-metta trio is only partially mapped.** b4
-   teaches breath (calm) and metta in the Thai Forest register; no
-   insight (vipassana) method appears. This may be deliberate (b7
-   Insight/Vipassana module), but the degree map should say explicitly
-   where the insight method is taught, or the scope's foundational
-   meditation coverage stays incomplete. Candidate carrier for the
-   insight side: the Fronsdal IMC course (receipts in the main ledger;
-   note the 2007 transcripts and 2026 recordings are different
-   editions).
+3. **BG-2's calm-insight-metta trio is only partially mapped in b4.** b4
+teaches breath (calm) and metta in the Thai Forest register; no
+insight (vipassana) method appears in b4 itself. RESOLVED by the
+producing session's b7 (checked after this note was written): b7
+attaches the Fronsdal Insight course Week 1 as guided practice with
+logged sittings in the b4 format, so the insight-method instruction is
+carried by b7; the degree map should still say so explicitly.
 4. Minor: the assessment's practice packet is participation-and-log
    evidence; the module mostly says this honestly ("the learner's own
    log is the module's evidence base"), keep it that way and avoid any
@@ -110,11 +108,19 @@ All three school modules handle the rebirth exclusion explicitly
 setting-aside of rebirth as the Secular frame). The video-page
 verification my receipts left outstanding was completed by the
 producing session (Kirchner Lecture 1 at 1:28:04 and Thoughts on
-Meditation at 1:40:17 on the Society's channel; Batchelor 1:26:35 on
-the watch page), and the receipts' caveats were respected. Workloads
+Meditation at 1:40:17 on the Society's channel; Batchelor at
+Hhlj_SU9SAE, 1:26:35, on the watch page), and the receipts' caveats
+were respected. Workloads
 are labelled (b5 about 3 h 30 m; b6 about 4 h 20 m; b7 about 4 h 40
 m); b6 and b7 sit at the heavy end for L2 (two full lectures each), a
 candidate segmentation question for the supervisor's module-QC pass.
+A coverage check added later: the guided insight instruction IS
+carried by b7 (Fronsdal Week 1 as logged practice), and the four
+immeasurables ARE explicitly taught in b1's Step 4 (Dhammadipa video,
+all four named: loving kindness, compassion, joy, equanimity, with a
+per-immeasurable assessment line), so the b1 shortening
+recommendation above is a workload question only, with no coverage
+loss provided the shortened assignment still names all four.
 
 ## Cross-spine consistency note (applies to m1 if it survives as canonical)
 
