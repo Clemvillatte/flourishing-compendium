@@ -474,3 +474,18 @@ chapter 28 discussion). Corroborated; no further check owed.
 - m1's ch. 1 description ("the famous opening on the unnameable"):
   consistent with the mirror's ch. 1 text ("A dao that may be spoken
   is not the enduring Dao...").
+
+### m1 butterfly quote QC (2026-10-26T05:12Z)
+
+- m1's Zhuangzi passage 2.20 quote ("Once Zhuang Zhou dreamt he was a
+  butterfly, a butterfly flitting gaily. ... Surely there is a
+  difference between Zhou and a butterfly ... the transformation of
+  things."): VERIFIED VERBATIM against Eno's Zhuangzi Inner Chapters
+  translation — the same text is quoted in an academic PDF (CNRS
+  Pléiade DICOPlantin working paper, opened via search this pass)
+  citing "Zhuangzi: The Inner Chapters, translated by Robert Eno,
+  version 1.0, 2010, p. 23" and matches m1 word for word. Full
+  passage count 66-67 words — consistent with m1's "about 67 words"
+  claim. The carrier (ScholarWorks v1.1 bitstream) remains
+  unopenable from this environment; the mirror evidence is Eno's own
+  published text as quoted academically.
