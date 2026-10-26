@@ -1078,3 +1078,21 @@ records have already been corrected to match.
   passages named above); b4 inspection BLOCKED (no caption text
   retrievable; playback bot-walled). All modules remain DRAFT NOT
   CLEARED pending supervisor module-QC.
+
+## b4 caption question: ANSWERED (2026-10-26, worker-pplx-buddhism-1026b)
+
+Follow-up on the correction above: the b4 Brahmali recording's caption
+existence is now CONFIRMED — the watch page HTML (fetched directly this
+pass) carries the player response with a captionTracks list: one
+English track and one English auto-generated (asr) track. So the
+recording HAS captions, and the earlier chapter-only transcript panel
+was a rendering/retrieval failure, not absence. The caption TEXT
+remains unretrieved this run: the timedtext endpoint is bot-walled
+from this environment (robots-disallowed for the fetch tooling and
+Sorry-walled from the sandbox), and the browser panel did not render
+it. The two pending b4 content items (breath-meditation classification
+of the guided segment; absence of rebirth-dependent content in the
+assigned segments) therefore remain description-bounded; the supervisor
+route is caption-text retrieval (e.g., a warmed-up browser session) or
+a human listen. Module Boundaries, source table, and band/scope records
+updated; the BLOCKER stands for caption TEXT, not caption existence.
