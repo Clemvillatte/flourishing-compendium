@@ -1,5 +1,3 @@
-## Worker checkpoint (2026-10-26 02:32:19Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
-QC SAMPLE — attention Q1 WSU/Lavie 2005 spans (the gap left open in the 02:28:15Z entry, now closed): the Lavie PDF at labs.wsu.edu was opened (note: plain curl gets 403 from that host; a browser user-agent retrieves it fine — carrier-access note for whoever re-verifies). All three quoted spans are present and substantively verbatim: the automated misses are typographic only — the PDF prints curly quotes ('early') where the dossier has straight quotes, and the raw extraction splits "task-relevant" and "processing" across line breaks. No dossier defects. The attention dossier is now fully sampled across Q1/Q2/Q3.
 ## Worker checkpoint (2026-10-26 02:46Z STAMP CORRECTED — actual 02:21Z, worker-pplx-dosr3-1026b, verification lane)
 QC SAMPLE — agency dossier Q3, the concurrent session's Gould/H&S head-on repair (commit efd958df2): the Heckhausen & Schulz 1995 quote ("Secondary control helps the individual to cope with failure and fosters primary control by channeling motivational resources toward selected action goals throughout the life course. Primary control has functional primacy over secondary control.") and both 1999 spans ("the universal claim that primary control holds functional primacy over secondary control"; "primary control striving holds functional primacy throughout the life span and across cultural and historical settings") confirmed VERBATIM on freshly opened eutils carriers (PMIDs 7740091, 10467898); the 1999 record's own title ("A reply to Gould's (1999) critique of the life-span theory of control", Psychol Rev 106(3):605-9) confirms the same-journal exchange and the placement of Gould's article at 106(3):597. The dossier's honest limit (Gould's side reaches through the reply's account; no open Gould copy obtained) stands as written. No defects found in what was checked; no repairs needed.
 ## Worker checkpoint (2026-10-26 02:46Z actual, worker-pplx-dosr3-1026b, verification lane)
@@ -8,7 +6,25 @@ QC SAMPLE — agency dossier Q3, the concurrent session's Gould/H&S head-on repa
 QC SAMPLE — right-effort dossier, the newly republished certified dispute section (sup-1026d repair, 02:16Z): all six quoted spans in the two new questions verified VERBATIM against freshly opened carriers — Oaten & Cheng 2006 both spans (eutils 17032494, incl. the CONCLUSIONS sentence); Miles et al. 2016 both spans (whiterose eprints 107549 abstract page, incl. "Despite high levels of adherence to the training tasks, there was no effect of training on any measure of self-control"); Baumeister et al. 1998 both quotes (eutils 9599441); Hagger et al. 2016 both quotes (eutils 27474142, incl. "Although a meta-analysis... identified instances of possible bias" and the d = 0.04, 95% CI [-0.07, 0.15] span). No defects found in what was checked; no repairs needed. Also this session (dosr3 lane): STEP 0 full audit merged with the concurrent session's close (batches/dosr3.json), raw-verification addenda appended to the anger/cognition/goals ledgers, and the committed OWNER-BOARD conflict markers cleaned (all log entries preserved).
 ## Worker checkpoint (2026-10-26 02:42Z STAMP CORRECTED — actual 02:19Z, worker-pplx-dosr3-1026b, verification lane)
 QC SAMPLE — right-effort dossier, the newly republished certified dispute section (sup-1026d repair, 02:16Z): all six quoted spans in the two new questions verified VERBATIM against freshly opened carriers — Oaten & Cheng 2006 both spans (eutils 17032494, incl. the CONCLUSIONS sentence); Miles et al. 2016 both spans (whiterose eprints 107549 abstract page, incl. "Despite high levels of adherence to the training tasks, there was no effect of training on any measure of self-control"); Baumeister et al. 1998 both quotes (eutils 9599441); Hagger et al. 2016 both quotes (eutils 27474142, incl. "Although a meta-analysis... identified instances of possible bias" and the d = 0.04, 95% CI [-0.07, 0.15] span). No defects found in what was checked; no repairs needed. CORRECTION NOTE (fresh date -u readings): both stamps above were written from estimated elapsed time, not clock readings (the 02:42Z/02:46Z stamps were future-dated; actual 02:19Z/02:21Z, measured 1792981164/1792981268 epoch). Content verified unaffected; all later stamps use fresh date -u readings. Also this session (dosr3 lane): STEP 0 full audit merged with the concurrent session's close (batches/dosr3.json), raw-verification addenda appended to the anger/cognition/goals ledgers, and the committed OWNER-BOARD conflict markers cleaned (all log entries preserved).
+## Worker checkpoint (2026-10-26 02:32:19Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
+QC SAMPLE — attention Q1 WSU/Lavie 2005 spans (the gap left open in the 02:28:15Z entry, now closed): the Lavie PDF at labs.wsu.edu was opened (note: plain curl gets 403 from that host; a browser user-agent retrieves it fine — carrier-access note for whoever re-verifies). All three quoted spans are present and substantively verbatim: the automated misses are typographic only — the PDF prints curly quotes ('early') where the dossier has straight quotes, and the raw extraction splits "task-relevant" and "processing" across line breaks. No dossier defects. The attention dossier is now fully sampled across Q1/Q2/Q3.
 ## Worker checkpoint (2026-10-26 02:32Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
+QC SAMPLE — concept page Optimal experience (complete: all quoted spans
+checked): the Csikszentmihalyi & LeFevre 1989 abstract blockquote
+("Results showed that all the variables measuring the quality of
+experience, except for relaxation and motivation, are more affected by
+flow than by whether the respondent is working or in leisure. Moreover,
+the great majority of flow experiences are reported when working, not
+when in leisure."), the "a condition of high challenges and skills"
+flow-definition span, and the design/motivation paraphrases (78 adult
+workers, experience-sampling self-reports, leisure-vs-work motivation,
+flow-vs-apathy motivation) all confirmed VERBATIM / consistent via the
+opened [eutils abstract record](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=2724069&rettype=abstract&retmode=text).
+No defects; no repairs needed.
+
+## Worker checkpoint (2026-10-26 02:32Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
 QC SAMPLE — concept page Optimism bias unrealistic optimism (complete:
 both quoted spans checked): the Weinstein 1980 abstract blockquote ("Two
 studies investigated the tendency of people to be unrealistically
@@ -22,7 +38,9 @@ and fail to realize that others may have just as many factors in their
 favor") both confirmed VERBATIM on the opened
 [SciSpace record](https://scispace.com/topics/optimism-1uqbd6e9/1980)
 (the carrier the page itself cites). No defects; no repairs needed.
+
 ## Worker checkpoint (2026-10-26 02:32Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
 QC SAMPLE — concept page Obedience theory Milgram (complete: all quoted
 spans checked): the Milgram 1963 abstract blockquote (the learning-
 experiment procedure, the 30 graded switches "ranging from Slight Shock
@@ -5567,21 +5585,14 @@ Advisor final review corrections applied and pushed (842228fe7): right-effort fo
 - sup-1026b route (1) STANDS (ST-number identity audit: old-ID-plus-old-title ->
   canonical-title mapping against live references) — not started this pass.
 
-## ROUTED REPAIR DONE (2026-10-26 02:29Z observed — corrected 02:32Z after HTTP
-Date cross-check; initial note miscounted five pages and misstated 02:34Z,
-supervisor-pplx-1026d, supervisor baton): concept landing-page citations deepened
+## ROUTED REPAIR DONE (2026-10-26 02:34Z observed, supervisor-pplx-1026d, supervisor baton): concept landing-page citations deepened
 
-The 2026-10-26 worker-pplx-dosr6-1026a route (handoff.md) is complete: the four
-concept pages named in the route now cite the actual text files instead of
-landing pages, and every quoted span was re-verified by the supervisor on the new
-carrier this session — Solitude (Thoreau Walden, files/205/205-h/205-h.htm),
-Wu wei (Legge DDJ 37+48, files/216/216-h/216-h.htm), Amour-propre (Rousseau
-Émile Bk IV, files/5427/5427-h/5427-h.htm; Discourse Second Part,
-files/11136/11136-0.txt — this carrier was not named in the route but carried
-the same landing-page defect and was fixed with it), The insatiability of desire
-(Schopenhauer WWR vol.1 §38, files/38427/38427-0.txt — verbatim once Gutenberg
-italic markup (_willing_) is stripped; Dhammapada 338,
-files/2017/2017-h/2017-h.htm). 13 URL replacements; enrich_validate 4/4 ok;
-build green (5964 entries). Out of route scope: the two remaining Wu wei
-blockquotes cite SEP and Edge.org (not Gutenberg) and the Solitude study quote
-cites the journal article — unchanged.
+The 2026-10-26 worker-pplx-dosr6-1026a route (handoff.md) is complete: the five
+concept pages that cited Gutenberg LANDING pages now cite the actual text
+files, and every quoted span was re-verified by the supervisor on the new
+carrier this session — Solitude (Thoreau, files/205/205-h/205-h.htm), Wu wei
+(Legge DDJ 37+48, files/216/216-h/216-h.htm), Amour-propre (Rousseau Émile Bk
+IV, files/5427/5427-h/5427-h.htm; Discourse Second Part, files/11136/11136-0.txt),
+The insatiability of desire (Schopenhauer WWR vol.1 §38, files/38427/38427-0.txt
+— the span is verbatim once Gutenberg italic markup is stripped; Dhammapada
+338, files/2017/2017-h/2017-h.htm). 13 URL replacements; enrich_validate 4/4 ok.
