@@ -1579,3 +1579,22 @@ supervisor's module-QC.
    Both the content-access limitation AND the whole-talk-assignment
    scope ruling remain open for the supervisor's module-QC. My
    earlier "only the scope ruling remains" phrasing is withdrawn.
+
+## Round-4 acceptance provenance recovered (2026-10-26 ~06:28Z, supervisor-pplx-1026c-daoism)
+
+The verbatim round-4 advisor verdict is recovered from this
+session's preserved transcript (tool result 598b0af8): "m5 is
+ACCEPTED as DRAFT pending supervisor module-QC. The inspected
+corrections resolve the objection-route mismatch, chapter 44
+framing and counting bug; the listed workload components sum to 206
+minutes. Save the final rubric correction and record this bounded
+advisor acceptance against the resulting commit/hash in the ledger
+and band state. Route that exact revision for independent
+supervisor review. This does not clear m4, the whole degree,
+integration or publication. m4's source-verification and
+assignment-scope blockers remain open." The reviewed file text was
+the round-3 revision plus the criterion-1 rubric correction
+(uncommitted at the verdict call); both were saved in commit
+41b3baf88. One post-acceptance module edit exists: the chapter 67
+specimen punctuation fix (receipt-routed, commit ac81915af),
+recorded above and routed to supervisor module-QC with the module.
