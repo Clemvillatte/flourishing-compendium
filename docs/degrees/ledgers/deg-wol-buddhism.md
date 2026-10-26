@@ -734,3 +734,14 @@ rebase-recovery procedure should either re-run the guard on the
 index before `git add -A`, or `git rebase --continue` should be
 replaced by an amend-after-guard sequence. No code changed here;
 this is a process flag only.
+
+## Verify-lane receipt consumed: b6 Kirchner cross-check (2026-10-26, worker-pplx-buddhism-1026a)
+
+Receipt docs/degrees/verify/deg-wol-buddhism-b6-kirchner-crosscheck-1026c.md
+(pplx-verify-1026c, verification-assist lane, no baton) read this session.
+Result: both b6 Kirchner recordings (UVXpdAavGgQ 1:28:04, jPxuvitdsRI
+1:40:17) confirmed by oEmbed identity, search-index durations (exact
+matches), event dates, series attribution, and all description-bounded
+content claims confirmed verbatim from the rendered abstracts; no
+defects found. The module's "content not yet inspected" marker for the
+SPOKEN content remains accurate and stands. No module edit required.
