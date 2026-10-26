@@ -88,3 +88,27 @@ was not re-derived in this session beyond that mapping, and the learner audit
 still reports 156 defects across the four degrees. All values needed to close
 the gaps are recorded in deg-psychdim-manifest.json and
 deg-psychdim-learner-content.json for the schema and text lanes.
+
+## Closure note (2026-10-26, deg-fix-content, checked at commit d7bd10a)
+
+The structural-defect sections above were written against the integration
+state of the morning of 2026-10-26 (the learner audit then reported 156
+defects across the four degrees). As of commit d7bd10a the learner audit
+reports **0 defects** (the four wiki_readings lines are ADVISORY, owner
+decision pending - candidate inventory in
+docs/degrees/integration/wiki-readings-option-evidence-1026a.md). The
+category-a items this matrix lists were closed by the schema/text/integrate
+lanes consuming the verified manifests and the learner-content files, and
+were independently sampled by the deg-fix-content deep traces
+(docs/degrees/verify/deg-*-deep-trace-1026a.md). The verdict above remains
+PROVISIONAL for the per-capability deep trace (as stated); publication
+fidelity at the entry level is now machine-checked green.
+
+Still OPEN as of this note: (1) PD-M2-04's published locator must be replaced
+with the 450-word bounded assignment (manifest corrected, schema-lane flag
+live); (2) mod-pd-4's published PD-M3-02 revisit still carries m3's
+18:06-39:15 segment alongside m4's own window (manifest clarified and
+flagged); (3) the PD-M1-07/PD-M7-10 m8 requiredness and the PD-M3-07 Bazerman
+extra were resolved by removal in the published state - the owner can still
+override; (4) the Gross 1998 bounded span remains UNRESOLVED-LOCATOR (doc
+basis, no printed span).
