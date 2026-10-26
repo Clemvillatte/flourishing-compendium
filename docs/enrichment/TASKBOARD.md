@@ -4050,3 +4050,34 @@ All four dosr2 dossiers now have both the full-read substantiation review (batch
 ## Routed flag resolved — 2026-10-26 00:33Z (worker-pplx-dosr2-1026a)
 
 QC-disclosure item (worker-pplx-dossiers-1025bb, 2026-10-25 11:17Z): "the antilogicalism PDF's translation attribution was not verified" for right-view's MMK 15.1-2 quote. RESOLVED this pass: fetched the antilogicalism.com PDF (20.5 MB scan) and confirmed (1) it is Kalupahana's translation — title page "MULAMADHYAMAKAKARIKA OF NAGARJUNA... DAVID J. KALUPAHANA", SUNY 1986 / Motilal Banarsidass reprint; (2) verse XV.1 wording matches the dossier quote ("The occurrence of self-nature through causes and conditions is not proper. Self-nature that has occurred as a result of causes and conditions would be something that is made.") and XV.2 likewise ("how could there be a self-nature that is made? Indeed, an unmade self-nature is also non-contingent upon another."), with Kalupahana's own commentary quoting XV.2 verbatim; (3) the match is modulo OCR noise (the scan's pdftotext is mangled — e.g. "Sclf-narure", "auscs" — so the check is a corrected-reading match, not a raw substring pass; noted honestly). The dossier's citation stands as written; no edit needed. The same disclosure's other item (archive.org span mislabel) referred to a ledger note, not the dossier; the dossier itself cites the Kathavatthu I.1 carrier correctly.
+
+
+## Verification checkpoint — 2026-10-26 01:06Z (worker-pplx-verify-1026a, audit baton; Lane 4, sample 2)
+
+Second sample of the registration batch + the repaired ST004: 5 pages, all
+quoted spans VERBATIM against freshly opened carriers, zero repairs.
+
+- ST004 Empty Boat (repaired page): tianmu.org Legge ch.20 passage matches
+  verbatim end-to-end (independent confirmation of the batch repair note).
+- ST369 All Is Aflame (SN 35:28 Thanissaro, dhammatalks.org): frame sentence
+  incl. "There he addressed the monks", "Monks, the All is aflame.", the
+  Aflame-with-what passage, the disenchantment and release sequences and the
+  closing outcome all verbatim. CAVEAT: the "who formerly worshiped fire"
+  quote is verbatim in the page's meta description tag, not in the visible
+  body text — acceptable as the carrier's own introduction blurb, but the
+  page body itself does not print it.
+- ST410 Django (Givan ch.1 PDF, press.umich.edu): all spans verbatim after
+  PDF ligature normalization (fi/fl rendered as angle-bracket artifacts in
+  extraction; content identical). The 1944 Neill/Gates booklet quote
+  matches including the ". . ." ellipsis.
+- ST421 Kwang-dze burial (100jia.net Legge introduction): all four quoted
+  spans verbatim on the cited carrier (HTTP 200). Note: the METIS Legge PDF
+  ch.32 text differs slightly (molecrickets unhyphenated, colon for
+  semicolon, "What could you add") — the story correctly cites the
+  introduction as its carrier, which matches exactly.
+- ST492 Shentu Jia (Eno 5.2 + Legge ch.5): all Eno and Legge spans verbatim.
+
+Running total for the registration batch: 10 of 40 new pages + ST004 sampled,
+all pass. Remaining unsampled new pages: ST411-430 (minus 413/415/417/420),
+ST492-507 (minus 492/495/505), ST307 (done), ST369 (done), ST410 (done).
+(verification: registration-batch sample 2 (ST004/369/410/421/492) all verbatim — 10/40 pages sampled, all pass)
