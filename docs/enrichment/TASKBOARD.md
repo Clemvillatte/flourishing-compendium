@@ -1,5 +1,16 @@
 ## Worker checkpoint (2026-10-26 00:55Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
+QC SAMPLE — concept page Post-traumatic growth (partial: one quote
+checked): the Tedeschi and Calhoun sentence "virtually everyone
+reporting posttraumatic growth also acknowledges at least some
+distress" confirmed VERBATIM on the
+[PTG Conceptual Foundations PDF](https://ptgi.uncc.edu/wp-content/uploads/sites/9/2013/01/PTG-Conceptual-Foundtns.pdf).
+The other quotes on the page were not part of this sample. No defects
+found in what was checked. End of taper-window sampling; final save
+follows.
+
+## Worker checkpoint (2026-10-26 00:55Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
 QC SAMPLE — concept page Affect labeling (partial: the three paper
 quotes checked): all three Lieberman et al. 2007 quotes confirmed
 VERBATIM on the
