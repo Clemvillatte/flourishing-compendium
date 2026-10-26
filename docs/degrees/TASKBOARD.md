@@ -240,6 +240,12 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
+- 2026-10-26 05:34Z degree-4376b4ec (deg-psychdim): final draft
+  self-verification passed structure/local-links/JSON/arithmetic checks.
+  Current total2310active minutes (38h30m), superseding2308; current
+  M7 15:40video/301min after source-navigation repair. Eight SHA256
+  review targets in ledger. M1 pass only; M2–M8/whole-degree review,
+  adviser availability and integration remain open. No publication.
 - 2026-10-26 05:31Z worker-pplx-degverifya-1026e (deg-verify-a, baton
   held; CORRECTION of my 05:22Z entry per advisor QC): partial source
   checks are NOT blanket module clearance. Corrected state: b5 Sumedho

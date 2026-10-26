@@ -3008,7 +3008,7 @@ or a substitute for independent content/pedagogical review.
 
 ### Source-navigation and precision audit, 05:32Z
 
-Reopened8sources and exact-string tested20reading locators across
+Reopened8sources and exact-string tested21reading locators across
 M4–M7: all tested current locators present, including SCC review
 headings, identity domain ending, SDT paragraph, regulation goals,
 Woolley exclusion/open-question paragraphs, Carden/Wood headings,
@@ -3037,6 +3037,37 @@ misrepresented as a fresh parent timing/playback check. M7 current
 video total **15:40**, rounded study26min instead24; current M7
 **301min**; whole packet **2310min,38h30m**. README and band updated;
 earlier13:18/299/2308 totals superseded. Supervisor review still owed.
+
+### Final producer verification manifest, 05:34Z
+
+Eight module files present; all README module links resolve locally;
+band JSON parses; `git diff --check` clean. Recomputed module totals:
+249+274+290+265+300+256+301+375=**2310active minutes**. Recomputed
+M2–M7 viewing34:27,44:04,23:40,34:53,20:20,15:40 respectively,
+all match current prose. Credential-marker scan of module files clear.
+UTC and monotonic elapsed readings agree within rounding. These are
+producer structural/arithmetic checks, not independent clearance.
+
+Current SHA-256 snapshot for reviewers:
+
+| Module | SHA-256 |
+|---|---|
+| M1 | `2cc67442dd251f5b60026152e2bec2d1d0dd0199b207b86ce016bda9401909d2` |
+| M2 | `d9b938b96cdc0702b2aeaf2869ed6003334be5acd8e73db9f0867932cfdd3ae1` |
+| M3 | `9ff7b598b24b750372f9bd59f0c7120d1e9072bdc12d916c26692f0fb7f01f48` |
+| M4 | `68acd6f12985c39b2d728b93d567db596fae1605912697ba6816c9d8735eedd3` |
+| M5 | `f3952673a7cfe0fe3298a8df17b89868ec81e8092ea96549e1b7debb7e504dbe` |
+| M6 | `84d2a03ae0dacc1b2c7f3da92e062e10574e422e8b0a6454a19b1078a4c4c2e6` |
+| M7 | `97857e9853b239df1d58d0b82139aacd2d17b1f771a24a97bc9c85ccb92902b8` |
+| M8 | `f26f84ce5389d0d3f4fec8a6b78af3e560ddd7181ceafbebed86339e0b360cef` |
+
+M1 independent pass remains the supervisor's decision at cdb8f0939,
+before its allowed nonblocking labels/hidden status annotation changes.
+M2's bounded cultural-function return is repaired, not independently
+recleared; M3/M4 adviser groups repaired, supervisor QC owed; M5–M8
+need independent module review, and M5's adviser failure is not a pass.
+Whole-degree final/adviser review and integration/publication remain
+closed. No other band, queue, registry or site data changed.
 
 M1 independent supervisor decision consumed at 05:02Z:
 `reviews/deg-psychdim-m1-supervisor-2026-10-26.md` records **MODULE-QC
