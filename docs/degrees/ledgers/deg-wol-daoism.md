@@ -1429,3 +1429,22 @@ Two independent receipts now stand for the supervisor's module-QC:
   whole-talk-assignment scope decision. Both remain routed to
   deg-verify-a; the owner lane takes no action until that evidence
   lands.
+
+## m4 Neiye word-count correction (2026-10-26, supervisor-pplx-1026c-daoism)
+
+The QC flag raised by worker-pplx-daoism-1026c (receipt
+deg-wol-daoism-m4-neiye-wordcount-check-1026c.md, commit 3951a94f4)
+is confirmed and fixed by the lane owner. I re-measured section 12
+on the cited Gutenberg source this session: it runs "When people
+can be properly aligned and still : ..." to "This creates errors."
+and measures 110 words with translator's-note markers stripped
+(both renders agree); my original 142 was a boundary error on my
+part. Corrected in the canonical m4: 170 + 135 + 103 + 110 = 518
+words (two readings 1,036); reading block 25 -> 24 minutes (estimate,
+labelled); totals 3h20/200 -> 3h19/199 minutes; non-elective variant
+still about 2h50. Prose-length figure (2,922 words) and all other
+components unchanged; sections 1-3 were confirmed exact by the
+receipt. Re-verified quotes in Step 2's marking list against the
+fetched source: unchanged. Workload ~3h20 remains within the
+original band. Route: unchanged, supervisor module-QC with m1-m3 and
+m5; the video content-verification items remain with deg-verify-a.

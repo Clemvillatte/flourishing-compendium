@@ -12,7 +12,7 @@ a short primary-text passage, quote it exactly and distinguish what it
 says from an application you propose (m2 Outcome 2, m3 Outcome 1), and
 you can distinguish a training history from the state the training
 produces (m3 Outcome 2).
-**Total time budget**: about 3 hours 20 minutes (about 200 minutes of
+**Total time budget**: about 3 hours 19 minutes (about 199 minutes of
 labelled components; arithmetic below).
 **Primary text**: assigned sections of the Neiye (the "Inward
 Training" chapter of the Guanzi) in the [Study of Inner Cultivation
@@ -133,9 +133,9 @@ no timestamps are given; keep your notes on these topics:
 Keep the lecture's own framing in view: this is a talk by a teacher
 inside the tradition, describing the tradition's self-understanding.
 
-### Step 2: Read the assigned Neiye sections (about 25 minutes
+### Step 2: Read the assigned Neiye sections (about 24 minutes
 estimated on the primary text with the three-times study multiplier;
-about 8 minutes raw on two readings of the 550 assigned words)
+about 8 minutes raw on two readings of the 518 assigned words)
 
 This is the elective deep-dive track the walk's scope promises. If
 the inward-training side is why you are here, take it; if you are
@@ -145,7 +145,7 @@ variant of deliverable a below is your required route.
 
 Read sections 1, 2, 3 and 12 (as numbered above) of the [Linnell
 translation](https://www.gutenberg.org/cache/epub/38585/pg38585-images.html)
-twice each (550 words measured on the assigned sections). On the
+twice each (518 words measured on the assigned sections). On the
 second reading, mark:
 
 - Section 1: the sentences saying the Qi "can not be brought to rest
@@ -352,11 +352,11 @@ no evidence criteria.
   the assignment is being confirmed against the recording itself and
   may narrow, in which case this arithmetic is revised.
 - Primary-text reading on the assigned Neiye sections (sections 1, 2,
-  3 and 12: 170 + 135 + 103 + 142 = 550 words measured on the
+  3 and 12: 170 + 135 + 103 + 110 = 518 words measured on the
   assigned sections, translator's notes excluded; elective track):
-  two readings, 1,100 words; at 130 words per minute (dense translated
+  two readings, 1,036 words; at 130 words per minute (dense translated
   text with new concepts) about 8 minutes raw; with study overhead
-  as a three-times multiplier, about 25 minutes (estimate, labelled).
+  as a three-times multiplier, about 24 minutes (estimate, labelled).
 - Module teaching prose on this page (2,922 words measured, excluding
   the rubric table rows and this arithmetic section): at 180 words
   per minute about 16 minutes raw; with study overhead as a
@@ -369,12 +369,12 @@ no evidence criteria.
   minutes, teach-back about 15 minutes).
 - Self-assessment and feedback step: about 5 minutes.
 
-Total: about 3 hours 20 minutes (about 200 minutes of labelled
-components: 53 minutes 43 seconds measured assigned video, 25
+Total: about 3 hours 19 minutes (about 199 minutes of labelled
+components: 53 minutes 43 seconds measured assigned video, 24
 estimated primary-text reading with the three-times study multiplier,
 49 estimated module-prose reading with the three-times study
 multiplier, 17 retrieval, 50 graded, 5 self-assessment). Learners not
-taking the elective track subtract the 25-minute reading component
+taking the elective track subtract the 24-minute reading component
 and the elective retrieval activity 2, and take the lecture variant
 of deliverable a: about 2 hours 50 minutes.
 
