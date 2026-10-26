@@ -865,7 +865,7 @@ Read-only investigation for the supervisor; goals.md itself is unchanged and no 
 
 Verdict: not a certifiable dispute under the strict test. Wood/Mento/Locke find a smaller positive effect on complex tasks while Earley et al. find a reversal on a narrower class of novel multi-strategy tasks, so the two are not incompatible answers to one question, and the founders themselves absorb Earley as a boundary condition in 2002. This confirms the supervisor's reading of the Seijts/Latham lead (the same program conceding a boundary). If goals needs a third question, the material here supports a practice or limits note on complex tasks and learning goals, not a head-on clash. Needs a different opposing pair. Supervisor decision requested.
 
-SUPERVISOR DECISION (2026-10-26 09:56:10Z measured, supervisor-pplx-1026p):
+SUPERVISOR DECISION (2026-10-26 09:55:39Z measured, supervisor-pplx-1026p):
 I accept the worker's verdict on the third-dispute lead. The
 Wood/Mento/Locke 1987 vs Earley et al. 1989 pairing is NOT a
 certifiable dispute (smaller-positive-effect vs reversal on a
