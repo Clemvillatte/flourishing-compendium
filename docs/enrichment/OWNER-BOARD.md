@@ -508,3 +508,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-26 12:31Z deg-fix-text: eight more psychdim PMC locator anchor sets re-matched on fresh fetches (M5-06 blocked, earlier copy used).
 - 2026-10-26 12:32Z deg-fix-text: PD-M6-04 anchors re-matched on fresh Ryan-Deci preprint download.
 - 2026-10-26 12:32Z deg-fix-text: quote-sweep receipt wording tightened (removed an over-broad 'every locator re-matched' line).
+- 2026-10-26 12:32Z deg-fix-text: PD-M4-07 and PD-M7-10 anchors re-matched on fresh downloads; M7-10 is Vohs 2021 (live title correct).
