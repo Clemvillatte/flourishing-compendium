@@ -1989,3 +1989,23 @@ pattern). PRAGMATISM remains the only degree with NO prior gate read
 (full reads owed, 2,023 lines across 5 modules). The "no set-gate
 precedent" wording in my earlier handoff note applies to pragmatism
 only.
+
+## Checkpoint — deg-gate m1 delta documentation (worker-pplx-deg-gate-1026a), 2026-10-26
+
+For the eventual daoism gate refresh: the m1 drift since the 1026h
+gate verdict (1d77f8b5 -> e8e202ff) was read in full by direct diff
+this session (commits 2e0c5c1c4 07:48:17Z and 165240f4b 08:00:41Z, both
+post-gate). WHAT changed: (1) the Ziporyn anthology claim upgraded to
+the verified verbatim wording ("we can read it as a coherent text...
+more as something like a collection or an anthology, almost a
+best-of collection", alternate-transcript route, receipt in 2e0c5c1c4
+message); (2) the Neiye contradiction fixed — m1 now points to the
+m4-assigned Linnell Neiye (Gutenberg, verified) as an assigned
+verified source instead of "no separate verified attached source";
+(3) exclusions-contract wording humanized; (4) prose word count
+restated 4456 -> 4489. No outcome, workload-rule or scope change
+visible in the delta. SUBSTANTIATION of the m1 changed-hash rereview
+remains ROUTED to another supervisor per supervisor-1026a's own flag
+(this documentation establishes what changed, per the buddhism-b4
+pattern; the QC addendum's thirty-second delta confirmations for
+e8e202ff/f6552c8d are recorded as satisfied by the 1026e receipt).
