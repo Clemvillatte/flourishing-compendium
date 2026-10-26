@@ -1,4 +1,11 @@
 
+## CLOCK CORRECTION (2026-10-26 00:31Z actual, sup-1026b)
+
+My checkpoints stamped 00:42Z-00:58Z below are FUTURE-DATED (written from a
+wrong wall-clock estimate; actual UTC when they landed was 00:24Z-00:31Z).
+Content of those entries is accurate; only the timestamps are wrong. All
+subsequent entries use fresh date -u readings.
+
 ## VERIFICATION CHECKPOINT (2026-10-26 00:58Z, sup-1026b — carrier openness + ST369 sample)
 
 Carrier survey of all 36 newly registered stories: 30+ distinct hosts, all
