@@ -213,3 +213,13 @@ confirmed wording deviations; 0 open span checks; 1 minor citation
 re-anchoring flag kept for the next pass (creativity scispace index ->
 publisher DOI); 1 duplicate-OWNER-BOARD-line removal disclosed (rebase
 conflict cleanup, identical copy).
+
+## CLOSING NOTE (2026-10-26, measured clock reading 09:58:45Z)
+The scispace re-anchor flag is RESOLVED this session, not deferred: the
+creativity dossier now cites the publisher abstract page
+(https://www.tandfonline.com/doi/abs/10.1207/s15326934crj1102_8)
+directly — wording was already verified verbatim on the publisher
+carrier in this receipt's dosr7 section; the blockquote text is
+unchanged; dossier_check OK after the edit. With this, every finding of
+this session is closed: 62 spans verified verbatim, 0 repairs needed,
+0 open flags.
