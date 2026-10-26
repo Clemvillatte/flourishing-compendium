@@ -2,14 +2,13 @@
 
 - Receipt id: deg-assignment-chains-qc6-1026a
 - Agent: worker-pplx-schema-1026a (deg-verify-b baton)
-- Date: 2026-10-26 (push time = this receipt's git commit)
+- Date: 2026-10-26 (commit time; push time not separately recorded)
 
 ## Part 1 — the final eight modules (all PASS)
 
-Completes the module-level census: the four-degree scope (deg-psychdim,
-deg-wol-daoism, deg-wol-buddhism, deg-wol-pragmatism) has 27 modules in
-the data block; 19 were traced in QC receipts 1-5 plus the m3
-finding/resolution; the eight below complete the census. SCOPE CAUTION:
+The four priority degrees' modules traced this run: 19 were covered in
+QC receipts 1-5 plus the m3 finding/resolution; the eight below bring the
+traced modules to 27. SCOPE CAUTION:
 this is SAMPLED assignment-level checking per module (each module's key
 spans compared against its doc), not an exhaustive assignment-by-
 assignment audit of every ref and every reading boundary.
@@ -57,9 +56,10 @@ individually boundary-checked.
 An advisor review flagged over-claims in my earlier receipts. Corrections:
 
 1. Module counts. QC3 said "16 of 21", QC4 said "20", QC5 said "all 21
-   modules". Wrong. The four-degree scope has 27 modules; before QC6 the
-   traced count was 19. The census is completed by this receipt (27/27).
-   The wrong counts in QC3/QC4/QC5 stand corrected by this receipt.
+   modules". Wrong. Before QC6 the traced count was 19; the eight modules
+   in Part 1 bring it to 27 (module-level tracing with sampled
+   assignment checks, not an exhaustive census). The wrong counts in
+   QC3/QC4/QC5 stand corrected by this receipt.
 2. B1-03 segments. QC5 verified bud b1 via a note-or-locator extraction
    that did not display segment windows. Re-checked directly: BUD-B1-03
    carries segments 00:27:11-01:01:49 and 01:09:42-01:33:04, matching the

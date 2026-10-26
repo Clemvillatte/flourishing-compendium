@@ -1,9 +1,8 @@
 # DEGREE VERIFICATION RECEIPT — QC sample, two module chains (buddhism b2, daoism m2)
 
 > SCOPE CORRECTION (added with QC6, 2026-10-26): this receipt predates later data changes
-> (the PRAG-M4-01 stale-fix defect and revert; the schema-lane registry restructure). The
-> pragmatism m4 chain it PASSed was later defective and restored; read it together with
-> deg-assignment-chains-qc6-1026a.md and deg-prag-m4-01-revert-1026a.md.
+> (including the schema-lane registry restructure); read it together with
+> deg-assignment-chains-qc6-1026a.md, which narrows the run's coverage claims.
 
 
 - Receipt id: deg-assignment-chains-qc2-1026a
