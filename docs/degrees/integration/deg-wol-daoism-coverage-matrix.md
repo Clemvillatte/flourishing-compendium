@@ -93,3 +93,7 @@ Deep trace added for m5 (docs/degrees/verify/deg-wol-daoism-m5-deep-trace-1026a.
 ## Addendum 3 (2026-10-26, later same session) - DEGREE COMPLETE
 
 Deep trace added for m2 (docs/degrees/verify/deg-wol-daoism-m2-deep-trace-1026a.md): PASS - both entries value-by-value (the m1-segments revisit; the Daodejing guided readings at the doc's exact figures 228/119/165 words). All five daoism modules now have PASS deep-trace receipts. The verdict's deep-trace reservation is DISCHARGED for this degree: the provisional verdict stands as CONFIRMED by deep trace across all five modules.
+
+## Addendum 4 (2026-10-26, later same session) - m4 CORRECTION
+
+The Addendum 3 'DEGREE COMPLETE' claim was PREMATURE: at that point m4 had no deep-trace receipt (only m1, m2, m3 and m5 did). The m4 receipt (docs/degrees/verify/deg-wol-daoism-m4-deep-trace-1026a.md) now exists: PASS - both sources value-by-value. The degree-complete claim now stands on five receipts (m1-m5), verified.

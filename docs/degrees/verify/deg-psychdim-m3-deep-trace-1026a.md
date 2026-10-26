@@ -45,6 +45,7 @@ carried wrong windows earlier in the wave).
 
 ## Verdict
 
-PASS. All eight mod-pd-3 entries trace value-by-value across the three
-layers, including both formerly-wrong video windows (PD-M3-03 and
+PASS. All SEVEN published mod-pd-3 entries trace value-by-value across the
+three layers (plus the Bazerman record, correctly excluded from the
+published state), including both formerly-wrong video windows (PD-M3-03 and
 PD-M3-04), now correct in the published state.

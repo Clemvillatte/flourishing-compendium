@@ -16,7 +16,7 @@ rendered. The fix list therefore correctly targets `locator` and
 for internal review language (VERIFIED/CORRECTED/SCHEMA LANE/data
 block/manifest/…) found zero leaks.
 
-## Comparison (all seven sources)
+## Comparison (all eight sources, including the revisit)
 
 - PD-M4-01 (Posner, gocognitive video): doc line 48 prints 03:06-14:52;
   manifest identical; published segments identical. MATCH.
