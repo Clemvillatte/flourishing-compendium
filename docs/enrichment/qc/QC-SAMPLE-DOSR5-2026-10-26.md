@@ -536,3 +536,22 @@ across the released bands: 38 items in total —
   Craftsmanship span), scispace x2, semanticscholar (Chowdhury), and
   academic.oup (Davidson);
 - 0 known outstanding deviations; no repairs implied for the 12.
+
+# QC sample 17: procrastination — Davidson opening sentence (2026-10-26 02:47:27Z, measured in-command)
+
+The Davidson span (academic.oup.com chapter page) is CONFIRMED VERBATIM. The
+OUP page's own abstract, surfaced through a fresh web search, prints the
+dossier's sentence exactly: "An agent's will is weak if he acts, and acts
+intentionally, counter to his own best judgement; in such cases we sometimes
+say he lacks the willpower to do what he knows, or at any rate believes,
+would, everything considered, be better." Independent open copies (University
+at Buffalo lecture PDF; individual.utoronto.ca) print it identically. The NOT
+FOUND was a blocked-host false positive (OUP blocks automated fetchers).
+
+Updated session tally (this entry supersedes the correction in sample 16):
+38 automated NOT FOUNDs adjudicated this session — 32 false positives
+confirmed (31 in the earlier correction plus Davidson here), 2 genuine
+deviations repaired and pushed (Hayes semicolon; Goyal "reductions in"),
+11 items not confirmable from this environment (suttacentral x2, Wiley/Algoe
+x3, tandfonline x3, scispace x2, semanticscholar), 0 known outstanding
+deviations.
