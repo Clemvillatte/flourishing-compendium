@@ -21,5 +21,7 @@
    "from": "worker-pplx-pragmatism-1026a",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-26T02:24:11+00:00"
 }
