@@ -286,3 +286,14 @@ Both are quotation spot-checks, not verdict certifications. With these, every
 dosr5-band file has had at least one carrier independently re-opened this
 session (motivation both sides; affect, attention, overload-overwhelm one
 side each).
+
+# QC sample 6: dosr7 close (creativity, Kim 2005 threshold test) (2026-10-26 02:40:39Z, measured in-command)
+
+Sample: dosr7's fourth strict-certified question for creativity (Kim 2005 vs
+threshold theory). Method: direct download of the ERIC full-text carrier
+(https://files.eric.ed.gov/fulltext/EJ698316.pdf, fresh fetch; ERIC is among
+the hosts that block the verifier's fetcher). Result: both quoted spans
+confirmed verbatim in the PDF text — "IQ below (r = .201) and above 120
+(r = .235) were not statistically different either, chi2 = 2.004, p = .157"
+and "This study does not support threshold theory". Quote spot-check only,
+not a certification of the verdict's argument structure.
