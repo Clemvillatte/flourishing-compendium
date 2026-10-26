@@ -391,7 +391,7 @@ peer question nor that self-supplied one.
   overhead 3x raw reading time, labelled as estimate = 23 minutes
   (estimate).
 - Module page reading (this instruction, measured on the page):
-  about 3,500 words at 180 words per minute = about 19 minutes
+  about 3,900 words at 180 words per minute = about 21 minutes
   (estimate).
 - Required video (durations re-confirmed on the live watch pages this
   session, 2026-10-26): Sadler Apology 1:06:20 + Sadler Crito 59:39 =
@@ -403,9 +403,9 @@ peer question nor that self-supplied one.
   (estimate).
 - Optional primary reading (not counted in the required total): the
   Apology and Crito in Jowett's translation (MIT Classics Archive).
-- Total: 23 minutes reading with study overhead + 19 minutes module
+- Total: 23 minutes reading with study overhead + 21 minutes module
   page + 2:05:59 video + 15 minutes retrieval + 60 minutes writing and
-  exchange = 243 minutes, about 4 hours (estimate).
+  exchange = 245 minutes, about 4 hours (estimate).
 
 ## Alignment map
 
