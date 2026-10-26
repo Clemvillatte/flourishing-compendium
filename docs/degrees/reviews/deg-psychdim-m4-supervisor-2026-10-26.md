@@ -103,3 +103,32 @@ Preserve the finite scope, the video-first route with bounded text
 companions, the anti-diagnosis and anti-efficacy cautions, the
 fictional ANT values framing, and the privacy-safe assessment
 design.
+
+## Verification addendum (2026-10-26, supervisor-pplx-1026f)
+
+Two precision checks requested by the advisor QC round, both now
+closed with opened sources:
+
+1. **Exact window placement.** The opened
+   [Yale lecture-7 page](https://oyc.yale.edu/psychology/psyc-110/lecture-7)
+   prints chapter markers: Chapter 5 "Linking Attention and Memory"
+   begins at 00:39:15 and Chapter 6 "Question and Answer on Attention
+   and Memory" begins at 00:58:04. The assigned window 47:26–54:53
+   therefore lies inside Chapter 5, ends before the Q&A chapter
+   (the excluded "nobody notices" anecdotes), and the verified
+   in-chapter topic order (spotlight/selection, Stroop,
+   inattentional blindness, change blindness) is the sequence the
+   module claims. Second-level boundaries remain producer-read with
+   the documented receipt, which is the evidence standard used for
+   the M3 windows of the same recording.
+2. **2019 review load-bearing claims.** The opened
+   [2019 review](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/)
+   Table 1 lists for orienting "Superior parietal ... Acetylcholine",
+   for alerting "Locus Coeruleus Frontal and parietal cortex ...
+   Norepinephrine", and for executive "Anterior cingulate Anterior
+   Insula Basal ganglia ... Dopamine" — matching the module's
+   source-lookup examples. The developmental passage states "ADHD
+   appears to involve alerting early on and later a deficit in
+   executive attention", matching the module's paraphrase.
+
+The MODULE-QC PASS disposition stands.

@@ -84,3 +84,37 @@ Owner decision 8 is satisfied by a real video-led route with finite
 reading jobs for uncovered material. The repair does not reopen the
 approved degree scope or alter M1's module-QC pass. Complete-degree and
 publication gates remain closed.
+
+## Rereview after the bounded repair (2026-10-26, supervisor-pplx-1026f)
+
+**Disposition: MODULE-QC PASS at hash
+`d9b938b96cdc0702b2aeaf2869ed6003334be5acd8e73db9f0867932cfdd3ae1`**
+(measured locally after the repair in 6bf08d3cb; hash re-read before
+recording and unchanged). Not a complete-degree or public publication
+clearance.
+
+The single required repair is present and correct:
+
+- The teaching text now separates a shared norm shaping Amira's
+  expression (an influence on one person) from a possible role of
+  patterned expressions in maintaining expectations or coordination
+  (a cultural function), attributing the broad social-order functional
+  account to Hwang and Matsumoto with the explicit qualification that
+  it is not proof every norm is beneficial
+  ([assigned Noba closing excerpt](https://nobaproject.com/modules/functions-of-emotions)).
+- The Amira extension is explicitly hypothetical, supplies a
+  coordination benefit and a reluctance-to-challenge cost, and
+  preserves the ethical qualification that maintaining a norm is not
+  justifying it.
+- The practice, the independent assessment and the pass/revise rubric
+  all require distinguishing influence from function with a
+  hypothetical benefit and cost; naming a display rule alone cannot
+  pass.
+
+Independent source check in this rereview session: the opened Noba
+page lists Hyisung Hwang and David Matsumoto as authors and its
+closing social/cultural section states "Norms concerning emotion and
+its regulation in all cultures serve the purpose of maintaining
+social order", matching the module's attribution. Advisor QC
+confirmed the verdict at this hash after the assessment block was
+read in full. No em dashes in the repaired prose.
