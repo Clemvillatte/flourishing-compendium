@@ -1,7 +1,7 @@
 {
   "band": "deg-wol-daoism",
   "kind": "degree",
-  "holder": "worker-pplx-degdaosim-1026a",
+  "holder": null,
   "phase": "gate1-cleared-m1-m2-m3-written-advisor-qc-accepted-supervisor-module-qc-pending",
   "modules": {
     "m1-orientation": {
@@ -27,5 +27,5 @@
     }
   },
   "notes": "2026-10-26 (worker-pplx-degdaosim-1026a): m1 accepted by advisor QC in round 6; m2 accepted by advisor QC in round 5; m3 accepted by advisor QC in round 5; supervisor module-QC pending on all three; m4 and m5 not started",
-  "updated": "2026-10-26T04:49:58Z"
+  "updated": "2026-10-26T05:35:29Z"
 }
