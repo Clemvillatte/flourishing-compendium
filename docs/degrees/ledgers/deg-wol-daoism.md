@@ -163,3 +163,91 @@ this module does not need it.
 m1-orientation: DRAFT, NOT CLEARED; awaits independent review (advisor or a
 worker who does not own the module) per the curriculum-design skill's
 acceptance test 6, and supervisor module-QC per WAVE 2.
+
+## m1 advisor QC repairs (2026-10-26, worker-pplx-degdaosim-1026a)
+
+Advisor QC round 1 on m1-orientation returned the module for repairs.
+Repairs applied this pass and pushed:
+
+1. Verification claims corrected: the earlier ledger claim that
+   moving credential evidence to institutional pages "clears every
+   prior partial label" is withdrawn. Content coverage for the two
+   full-length videos (Komjathy Lundao 1, Van Norden documentary)
+   and for the Ziporyn assigned segments still rests on the printed
+   chapter labels and the visible opening transcript, not on a full
+   transcript read; the module's verification inventory now says so
+   explicitly and does not claim otherwise. The prior "no blocking
+   gaps for m1" line is withdrawn; see the corrected gap register
+   below.
+2. The Eno PDFs were downloaded in full and the assigned passages
+   actually read this pass: Daodejing chapters 1 (105 words), 8 (106
+   words) and 76 (90 words) measured on the downloaded full text;
+   Zhuangzi passage 2.20, the Butterfly Dream (71 words), measured
+   on the downloaded full text. Chapter 8 and the Butterfly Dream
+   are quoted verbatim in the module from those downloads.
+3. Outcome 1 was unassessed in round 1; a fourth graded deliverable
+   (the two-texts deliverable) and a matching rubric criterion with
+   strong and rejection examples were added, and the alignment-map
+   row for Outcome 1 now points to that deliverable.
+4. Guided teaching added: the four working terms now have attributed
+   working definitions with per-term locator citations into the
+   assigned segments (yangsheng is named and located but not
+   assigned in m1; its verified source, Komjathy Lundao 5, is
+   assigned in m4); the three-part reflection now has a worked
+   example before the learner is graded on it; chapter 8 is now a
+   fully worked five-part demonstration (passage, image, move,
+   defensible interpretation, limitation) before the learner does
+   the same on chapter 1 or 76; partially scaffolded attempts for
+   chapters 1 and 76 precede the independent graded version.
+5. Workload arithmetic rebuilt: the round-1 Ziporyn segment list
+   contained a zero-length interval (0:15:20 to 0:15:20) and a
+   chapter listed without an end; corrected to 0:00:00-0:12:13,
+   0:15:20-0:17:00 and 0:26:15-0:33:56, total 21:34. Total measured
+   video time corrected to about 146 minutes. Primary-text word
+   counts are now measured on the downloaded full texts (301 words
+   Daodejing assigned chapters, 71 words Butterfly Dream). Study
+   overhead is now stated as a three-times multiplier on raw
+   reading, per the skill's rule, not as an ambiguous additional
+   allowance. Module prose re-measured at 3,570 words. Total about
+   4 hours 45 minutes.
+6. Scope contradiction repaired: the round-1 Step 5 said the
+   practice side is carried by the qigong practicum and the Neiye
+   tradition while the ledger said no Neiye source is attached; the
+   module now says explicitly that the walk's promise on the
+   inward-training side is a promise this module does not deliver
+   until a verified source is attached, and the gap register below
+   carries the dependency. The four-territories list now names an
+   owner for each territory it can name an owner for and marks the
+   ones it cannot.
+7. Interpretation claims qualified: the round-1 lines "That
+   doubleness... is itself a Daoist teaching", "The story does not
+   ask you to decide" and "the Zhuangzi's signature move" were
+   either removed or rewritten as defensible readings of the
+   examined passage with the interpretation held lightly, not as
+   settled accounts of the whole text. The Komjathy "as an
+   indigenous and global religion" phrase is no longer presented as
+   spoken transcript evidence; it is attributed to the description.
+8. Repository-integrity repair (separate from the module): the
+   round-1 OWNER-BOARD conflict resolution used --theirs during a
+   rebase and discarded the supervisor's 04:38-04:42Z snapshot and
+   log entries; the advisor caught this in the QC pass and the
+   entries were restored in commit 5293e8b before any further work.
+
+### Corrected gap register (m1)
+
+- Neiye elective: no verified source attached. The owner's
+  primary-source library lists Harold D. Roth, "Original Tao:
+  Inward Training and the Foundations of Taoist Mysticism"
+  (Columbia UP, 1999) with the Neiye translation inside; if the
+  owner uploads that book or a free excerpt becomes available, the
+  elective can attach. This is a real gap against the walk's
+  stated practice promise, not only an unavailable elective, and
+  the module now says so; it is not blocking m1, whose outcomes do
+  not require it.
+- Content coverage for the two full-length orientation videos and
+  the Ziporyn assigned segments rests on printed chapter labels
+  and the visible opening transcript, not on a full transcript
+  read. Not blocking m1, whose assigned use is orientation; the
+  later modules that assign doctrinal content from these sources
+  will need the fuller coverage verification before their own
+  gates.
