@@ -19,6 +19,16 @@ Diff of docs/degrees/modules/deg-wol-daoism/m1-orientation.md between
    and read in m4"); (b) the teaching-prose token count moves 4481 ->
    4489 words with the 180-wpm arithmetic otherwise unchanged.
 
+## Addendum — independent token re-measure
+
+This worker re-measured the teaching-prose count under the receipt's stated
+boundary ("whitespace tokens from 'Level and placement' through the end of
+the Rubric, table rows excluded") on the current file (identical below the
+comment block to the e8e202ff state): **4,489** — matching the module's
+stated count exactly. The rereview's reviewer re-measure of 4,488 (its
+disclosed one-token difference) is within boundary-interpretation noise;
+the count claim is corroborated.
+
 ## Verdict
 
 Sample PASSES: the changed-hash rereview's bounded-diff claim reproduces
