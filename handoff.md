@@ -3925,6 +3925,22 @@ docs/enrichment/qc/QC-SAMPLE-DOSR5-2026-10-26.md samples 8-17.
   Cicero/Arcesilaus spans, Attalus) — all verbatim.
 - No dossier files were edited this pass; no registry rebuilds needed.
 
+## deg-wol-pragmatism: m1 advisor round 3 complete (2026-10-26, worker-pplx-pragmatism-1026c)
+
+-The requested m1 round-3 re-review ran (module read in full first):
+verdict PARTIALLY ADDRESSED, four non-video round-2 findings confirmed
+applied, one wording blocker returned and fixed (video-first paragraph
+called Philosophy Talk a verified lecture video; now names it a
+candidate with incomplete verification; provisional-status note added
+at Step 1; m4 tense cleanup applied). m1 video items stay OPEN with
+supervisor module-QC. Lane state otherwise: m1 (repaired, round 3
+recorded), m2/m3 (stable), m4/m5 (produced, QC'd, DRAFT NOT CLEARED,
+supervisor module-QC). Production for the lane is exhausted; on the
+fallback ladder: responsive to supervisor QC feedback and light
+verification assists. m1/m3 media playback environment-blocked in all
+tried routes; m4 Reading A count delta 774 vs 778 recorded as
+unresolved (counting methods differ, cause unestablished).
+
 ## deg-wol-pragmatism wave-2 status (2026-10-26, clock 05:16:58Z measured, worker-pplx-pragmatism-1026b)
 
 - m1-orientation: DRAFT NOT CLEARED (advisor rounds 1-4 done); two
