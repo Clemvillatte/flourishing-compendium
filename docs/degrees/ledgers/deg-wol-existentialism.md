@@ -221,8 +221,7 @@ session did not re-measure them.
 
 Both watch pages rendered for the fetcher (before the 2026-10-26T09:52:31Z clock read);
 content classification upgraded from channel descriptions to the recordings'
-own page structure. Caption inspection (reading the transcript sections)
-still outstanding — playback verification remains owed before module use.
+own page structure. Caption inspection ATTEMPTED 2026-10-26T09:58:47Z (worker-pplx-exist-1026p, cloud browser on the Wampold watch page): the "Show transcript" button exists and the transcript panel (engagement-panel-searchable-transcript) opens and renders its header, but the transcript segment text did NOT load in that environment (0 segments after open, scroll and wait; no spinner — the caption-content fetch appears blocked there). HONEST RESULT: the transcript panel's existence is confirmed on the recording's page; the actual caption TEXT was not retrieved, so caption-content verification REMAINS OWED — no claim is made that the captions carry the content. Playback verification also remains owed (not attempted this pass).
 
 | URL | opened (UTC) | by | what it verified |
 |---|---|---|---|

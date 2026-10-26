@@ -1,7 +1,7 @@
 {
  "baton": "deg-wol-existentialism",
  "agent": "worker-pplx-exist-1026p",
- "clocked_in": "2026-10-26T09:52:02+00:00",
+ "clocked_in": "2026-10-26T09:57:33+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-exist-1026p",
@@ -14,8 +14,12 @@
    "at": "2026-10-26T09:52:02+00:00",
    "from": "worker-pplx-exist-1026p",
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-exist-1026p",
+   "at": "2026-10-26T09:57:33+00:00",
+   "from": "worker-pplx-exist-1026p",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-26T09:53:26+00:00"
+ ]
 }
