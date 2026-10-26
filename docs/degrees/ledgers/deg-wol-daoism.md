@@ -767,3 +767,80 @@ the video's own description showed the correct chapter is at
 to 0:34:20. Fixed before pushing.
 
 Advisor content/pedagogical QC: PENDING.
+
+## m3 advisor QC round 1 repairs (2026-10-26, worker-pplx-degdaosim-1026a)
+
+Round 1 returned seven bounded repairs; all applied this pass:
+
+1. Separated the "losing the self" interpretation from the
+   stories' own words. The worked demonstration now presents
+   reduced self-monitoring as a proposed interpretation to test,
+   not settled doctrine, and separates Cook Ding's knot-sentence
+   attention (a response to difficulty) from his spirit-sentence
+   description (what skilled performance looks like when going
+   well). The Butterfly Dream is no longer taught as showing that
+   the self's absence is not a problem; the passage does not take
+   a side and the module now says so. The automatic-driving
+   example and "almost everyone" and "most concerned with skill"
+   claims removed.
+
+2. The documentary quotation is now verified as assigned content
+   and attributed to its identified speaker. The transcript was
+   re-opened and the passage confirmed to occur in the
+   29:44-34:20 chapter; the speaker is identified in the
+   transcript as Raymond Burke, a Tai Chi practitioner and
+   musician. The module now attributes the line to him by name
+   and states the documentary does not attribute it to the
+   Zhuangzi or any text. The blanket statement about the videos
+   was corrected: Ziporyn explicitly introduces the shoe line as
+   Zhuangzi's, and the module now says so.
+
+3. Deliverable b now elicits Outcome 2: it requires identifying a
+   training detail, citing it, distinguishing training history
+   from the resulting state, and explaining why neither supplies
+   a universal training prescription. Retrieval activity 2 now
+   practises the same distinction, and a third ungraded retrieval
+   activity gives Outcome 4 a short practice before the graded
+   version. Alignment map updated to match. Deliverable a's
+   application bullet now assesses the concrete situation and its
+   limits (whether self-monitoring is avoidable strain or
+   necessary vigilance, and any limit the learner would keep),
+   not merely whether a passage is quoted.
+
+4. Workload rebuilt from the assigned actions: two readings of
+   Cook Ding and the Hunchback plus one reading of the Butterfly
+   Dream is 2 x 523 + 2 x 223 + 72 = 1,564 words; at 130 words
+   per minute with the three-times multiplier that is about 36
+   minutes (Step 1 about 24 minutes, Step 3 about 12 minutes).
+   Step 6 heading and per-deliverable allowances reconciled with
+   the workload section (50 graded, b at 15). The self-assessment
+   step is a separate 5-minute allowance. The prose count is
+   measured at 2,473 words excluding rubric table rows and the
+   workload section now states exactly what is counted; prose
+   allowance 41 minutes with the multiplier. The worked
+   demonstration is inside the prose allowance and no longer
+   charged separately.
+
+5. The Butterfly Dream was recovered from the downloaded text and
+   recounted with a defined boundary (story proper, excluding the
+   translator's footnote): 72 words, not 71. The Hunchback is
+   identified as an appendix selection marked "from Chapter 19"
+   rather than one of the Inner Chapters.
+
+6. Clickable links added inside the module: the Eno translation
+   URL with section locators in the header, the two video URLs,
+   and the transcript locator for the documentary quotation.
+
+7. The Walk-of-Life connection is now part of the learning task.
+   The Step 2 worked demonstration teaches the strain-versus-
+   vigilance distinction; deliverable a asks whether
+   self-monitoring creates avoidable strain or does necessary
+   work, and names any limit the learner would keep; the rubric's
+   strong example demonstrates the reasoning. The module does not
+   promise that absorption itself produces flourishing.
+
+Workload after repairs: 157 minutes total (9:58 video, 36 primary
+reading, 41 prose, 15 retrieval, 50 graded, 5 self-assessment).
+Arithmetic: 9.97 + 36 + 41 + 15 + 50 + 5 = 156.97, rounded 157.
+
+Advisor content/pedagogical QC: round 2 PENDING.
