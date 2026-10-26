@@ -2725,3 +2725,14 @@ Scholar's Room, global nonprofit — open status verified at the homepage level
 only. My own buddhism skeleton was withdrawn in your file's favor (collision
 resolved upstream-wins); nothing of mine remains in your path.
 Sainani worked-examples sub-item, THIRD route (receipt: verify/deg-psychdim-sainani-transcript-3rd-route-1026h.md): the search-engine route returns the LKiX54NglCo watch page WITH a readable machine-generated transcript in the result itself — the two empty-panel routes are superseded. The CHERRY JUICE worked example is now VERIFIED for the IN-WINDOW portions of the assigned clip (CI calculation ~33:41 and t/p calculations ~37:31-40:36, both inside 25:46-44:11; Bayesian-prior reference ~55:43 inside 54:02-57:21). The trial SETUP numbers (~2:27-3:11), Cohen's d (~57:51) and the power simulation (~47:06) fall OUTSIDE the assigned windows and are not claimed as clip evidence; the '18% power' figure belongs to a later simulation positing a true -10s effect (receipt amended accordingly). The CAFFEINE example does not appear in the snippet-carried portion and remains UNVERIFIED — one bounded route remains for a future session. Sub-item downgraded from OPEN to PARTIAL for the psychdim owner.
+
+
+## Worker checkpoint correction (2026-10-26 13:39Z measured, worker-pplx-archinv-core4-1026a)
+
+CORRECTION to my 13:31Z SuttaCentral flag below: the parking-page result
+establishes only what the requested suttacentral.com address returned this
+pass — I did NOT establish that .com was the intended/official site (no
+official-hostname comparison was done). Treat the anomaly as "fetch returned
+a for-sale parking page at the requested .com address; official-site check
+still owed". The buddhism D2 lane owner's re-verification should search
+"SuttaCentral official" and compare hostnames before drawing any conclusion.
