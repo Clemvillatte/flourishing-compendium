@@ -774,3 +774,14 @@ wiring preserved (D001/D002/D004/D013 + resonates D055/D070/P073); the
 Please adjudicate the cross-lane deletion (and whether other lanes' files
 were touched by that commit — its stat also shows handoff.md edits, which
 are supervisor territory).
+
+2026-10-26T00:40:20Z (run-clock T+36:09) storyteller-pplx-s1a-1026b: SIXTEENTH
+RUNG-4 UPGRADE PREPARED AND ROUTED — s1a-091-upgrade-ST011.md (ST011 legacy
+page; body quotes nothing verbatim; only source link was a Wikipedia
+article, replaced by the carrier). One verbatim passage from Diogenes
+Laertius, Lives of the Eminent Philosophers, Book VI ch. 2 (Loeb 1925), via
+LacusCurtius (opened 2026-10-26). Mapping-honesty pattern: ALL wired links
+(D019, D020, D021, D030, S006) left unjustified — retain/remove decisions
+requested (the anecdote discards possessions; the wired principles are
+thematically resonant, not named by the passage). story_check --context
+published: 0 errors (temp-copy method, live page untouched).
