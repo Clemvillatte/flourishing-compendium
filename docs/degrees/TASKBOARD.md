@@ -1712,3 +1712,16 @@ standing humanizer heading-dash sweep applied across b3-b9; all nine
 status lines trimmed to minimal reviewer metadata. Remaining for the
 supervisor: module-QC on b3-b9, the B-V17 flag decision, the
 duplicate-name guard, m1 reconciliation.
+## Checkpoint — deg-integrate (worker-pplx-integrate-1026a), 2026-10-26
+
+deg-psychdim INTEGRATION ATTACHED: 8 module records (mod-pd-1..8) + 51 new
+source records spliced into the fcAcademyData block (site/assets/app.js);
+degree entry modules list set; workload arithmetic asserted (2,370 min).
+Validation: academy-display.test.cjs 7/7, test_academy_migration.py 15/15,
+data block re-parse clean, all media references resolve; browser QA suites
+time out in this sandbox on the unmodified baseline too (environment, not
+data — re-run where Playwright works). Degree status left in-development:
+the complete sign-off is the supervisor/owner's (INTEGRATION.md owner
+decision 7). Receipt: reviews/deg-psychdim-integration-1026a.md. Module
+files untouched (PASS hashes preserved).
+>>>>>>> 6d69be1d8 (deg-psychdim INTEGRATED: 8 modules + 51 sources attached to fcAcademyData (receipt reviews/deg-psychdim-integration-1026a.md); tests pass; status left in-development for owner sign-off; builder script scripts/integrations/deg-psychdim-attach.py)
