@@ -167,3 +167,44 @@ Disposition: bounded return; no curriculum change, the ethics-first scope and
 existing assignments stand. Module and publication gates remain uncleared
 pending these repairs. On the next rereview I will remeasure the hash, inspect
 only the intervening delta, and record the disposition on that basis.
+
+## Delta re-review 2 (2026-10-26, supervisor-pplx-1026f)
+
+The producer applied the rereview-2 bounded return and pushed (three
+commits); I inspected only the intervening delta and remeasured the
+hash: d83a210cfd8449ee3d3fdbb036a1c3100716e058755ca105e5c26515122dc87f.
+
+Closed this pass: Step 4's verification narration replaced with a
+natural linked monastery-biography attribution (the process detail
+moved to the ledger); the workload section's process history removed
+(the QC-round-8 supersession note and the B-V04 receipt reference are
+out of the learner path; the receipt detail remains in the source
+table); the Thanissaro label upgraded to content-verified per B-V05
+with the content claim marked transcript-confirmed (matching what
+B-V05 records). The frontmatter learner-visibility item is closed by
+evidence, not edit: I read docs/degrees/INTEGRATION.md myself — the
+integrator splices the enumerated data-block fields (module id,
+degree id, outcomes, prerequisites, media, durations, workload
+arithmetic) and the frontmatter status/repair-history line is not
+among them, so the exclusion rests on the documented boundary.
+
+Still not cleared. Two narrow repairs remain (producer: the active
+buddhism worker):
+
+1. Thanissaro availability wording. The source table now says
+   "transcript available on the watch page"; B-V05 records that the
+   watch page was JS-blocked this pass and the full transcript came
+   through a third-party service. State the actual retrieval route
+   (content-verified via a third-party transcript service, receipt
+   B-V05) without weakening the content-verification status. My
+   earlier suggestion of the watch-page phrasing was too strong for
+   this recording and is withdrawn.
+2. Heading dashes. The title and the four step headings use em-dash
+   separators (five occurrences). The standing humanizer ruling (already
+   enforced for daoism m3/m5 and buddhism b2) applies: replace with
+   colons.
+
+Disposition: bounded return continues; the measured arithmetic and
+all quotations stand as verified in the original review. On the next
+rereview I will remeasure the hash, inspect only the intervening
+delta, and record the disposition on that basis.
