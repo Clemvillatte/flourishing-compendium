@@ -57,3 +57,7 @@ of that removal is withdrawn.
 ## Closure (2026-10-26, later same session)
 
 RESOLVED: the schema lane re-added PD-M1-07 to mod-pd-8 (verified at commit b5a5031 - the published set now carries all eight capstone-return entries matching the doc's link-based citations). The QUALIFIED verdict is lifted: m8 now PASSes without qualification.
+
+## Rev 3 correction (2026-10-26, same session)
+
+The Vohs claim in this receipt is WRONG and is corrected: the m8 doc cites the Vohs 2021 paper in prose BY LINK at line 226 ('preregistered and exploratory distinction', the Brunel PDF that the m7 doc and the degree ledger identify as Vohs and colleagues, 2021). The name-based check that missed the Woolley citation (line 221) also missed this one (line 226). PD-M7-10's removal from m8 was therefore also in error; the manifest is corrected and the schema lane asked to re-add it (fix-list item 7). The rev-2 statement that 'PD-M7-10 / Vohs is NOT cited in the m8 doc in any form' is withdrawn.

@@ -5,9 +5,9 @@ values diffed against the doc-verified manifests). The learner audit
 checks presence, not wording, so it cannot catch these. Each fix is a pure
 splice from the verified manifests — no judgement calls needed.
 
-STATUS (checked against app.js at commit b5a5031, 2026-10-26): ALL SIX
-ITEMS RESOLVED - the schema lane re-added PD-M1-07 to mod-pd-8 (item 6),
-completing the list. The learner audit reports 0 defects (advisory
+STATUS (checked against app.js at commit ff28ea8, 2026-10-26): items 1-6
+RESOLVED. Item 7 is NEWLY OPEN (a second link-based m8 citation this lane's
+name-based check missed). The learner audit reports 0 defects (advisory
 wiki_readings lines only, owner decision pending).
 
 ## 1. PRAG-M3-04 (mod-prag-3, requiredMedia) — RESOLVED, no action
@@ -118,3 +118,9 @@ Re-checked against the published state: item 2 (PRAG-M4-01 back to the 778-word 
 ## Final closure (2026-10-26, commit b5a5031)
 
 Item 6 verified RESOLVED: mod-pd-8's published set now carries all EIGHT capstone-return entries (PD-M1-05, PD-M1-06, PD-M2-06, PD-M7-05, PD-M5-05, PD-M7-04, PD-M4-07, PD-M1-07), matching the m8 doc's link-based citations. Every item on this list is closed. The learner audit is green.
+
+## 7. PD-M7-10 (mod-pd-8) — REMOVED in error, re-add (NEW, 2026-10-26)
+
+A second link-based citation in the m8 doc was found after the item-6 closure: line 226 cites the 'preregistered and exploratory distinction' via the Brunel PDF (bura.brunel.ac.uk/.../2438/28246) — which the m7 doc and the degree ledger both identify as Vohs and colleagues, 2021 (the paper m7 assigns for the planned/exploratory distinction). The m8 doc's 'Use M7's planned/exploratory distinction' instruction reuses that paper, so PD-M7-10 IS m8-prose-cited.
+
+- FIX: re-add PD-M7-10 to mod-pd-8 as a capstone-return entry, e.g. locator: `The planned/exploratory distinction from the adherence research you already read: reuse the passages you read in Module VII`. (PD-M1-07 was re-added as item 6; this completes the set to NINE capstone-return entries, matching the doc's eight link-based citations plus the Carden & Wood habit-mechanism link.)

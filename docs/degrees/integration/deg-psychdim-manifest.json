@@ -423,9 +423,10 @@
       {
         "source_id": "PD-M7-10",
         "role": "capstone-return",
-        "assignment": "Vohs et al. 2021 author manuscript (the data block mislabels it 'Heidbreder, consciousness review article') - NOT cited in m8 prose (checked); it IS assigned in m7 (Abstract and Methods' 'Participants' subsection only, verified in the m7 entry). The m8 doc's general 'retrieve and reuse' instruction does not name it, so m8 requiredness is UNRESOLVED: the schema lane or owner must decide whether to keep it in mod-pd-8 required or drop the m8 listing (the m7 assignment stands either way) | RESOLVED 2026-10-26 by deg-fix-schema: dropped from mod-pd-8 (not cited in the m8 doc); the m7 assignment stands.",
+        "assignment": "Vohs et al. 2021 - VERIFIED m8 prose cite (line 226, 'preregistered and exploratory distinction' link = the Brunel free author manuscript, the same Vohs 2021 paper m7 assigns); capstone-return per the m8 doc's 'No new reading or video is required. Retrieve and reuse...' instruction",
         "kind": "reading",
-        "note_only": true
+        "note_only": true,
+        "note": "CORRECTED 2026-10-26 (deg-fix-content): an earlier version of this entry said Vohs is 'NOT cited in m8 prose (checked in any form)' - that name-based check MISSED the doc's link-based citation (line 226, the Brunel PDF the m7 doc cites as 'Vohs and colleagues, 2021'). The schema lane removed PD-M7-10 from the published m8 on the basis of that error; it should be RE-ADDED as a capstone-return entry (fix-list item 7)."
       }
     ]
   },

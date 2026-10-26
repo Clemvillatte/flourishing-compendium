@@ -149,3 +149,7 @@ Deep trace added for m6 (docs/degrees/verify/deg-psychdim-m6-deep-trace-1026a.md
 ## Final closure (2026-10-26, commit b5a5031)
 
 Item 6 resolved: PD-M1-07 is re-added to the published m8 (all eight capstone-return entries present). The m8 receipt's qualification is lifted. With every schema-lane fix-list item closed and the audit green, the psychdim verdict stands CONFIRMED.
+
+## Addendum 7 (2026-10-26, commit ff28ea8 state) - SECOND m8 CORRECTION
+
+A second link-based m8 citation was found: line 226's 'preregistered and exploratory distinction' link is the Vohs 2021 Brunel PDF (per the m7 doc and the degree ledger). PD-M7-10's removal from m8 was therefore ALSO in error (the same name-based check that missed Woolley). The manifest is corrected and fix-list item 7 asks the schema lane to re-add it. The m8 receipt's rev-2 Vohs statement is withdrawn (rev 3).
