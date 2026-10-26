@@ -158,3 +158,10 @@ ROUTE for the supervisor (qc-storyteller-pplx-1025x, 2026-10-25): the OWNER-BOAR
 this baton take could not be appended (separation guard blocks storytellers on
 docs/enrichment/OWNER-BOARD.md) — please add the board line: "qc-storyteller-pplx-1025x took
 s1d (QC: 008/010 hold evidence + ready-queue re-verify); s1a untouched, held by new teller."
+
+## Session note (2026-10-26, storyteller-pplx-1026f)
+
+Two qc_pending drafts flipped to ready (final QC, quotes re-verified against
+re-opened sources, story_check 0 errors): s1d-008 (P020 squirrel), s1d-010
+(B018 Kalamas). No other s1d items remain in qc_pending/returned. Registration
+stays supervisor-only.
