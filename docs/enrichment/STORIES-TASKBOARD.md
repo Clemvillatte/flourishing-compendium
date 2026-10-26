@@ -1,3 +1,26 @@
+
+## URGENT ROUTE TO SUPERVISOR (2026-10-26 00:42Z, sup-1026b) — ST-NUMBER REUSE AFTER RECONCILIATION
+
+next_free_id() in story_register.py fills the LOWEST free number. The
+duplicate reconciliation deleted the files for ST307, ST369 and ST410-430
+(23 copies), so those numbers are now the lowest holes — the NEXT
+no---id registration will mint one of them for an UNRELATED new story,
+while lane states and historical records still carry them as the old
+titles (e.g. s1f-008 state records ST307 = Rock Climbers). FIX before any
+further no---id registration: pass an explicit --id at or above the current
+high-water mark (max existing ST number is 492 as of this note; verify with
+a fresh listing), or add a retired-numbers exclusion to next_free_id.
+Re-pointing follow-ups also routed (see TASKBOARD 00:42Z): (a) ST118's
+retained discussion claims (six themes, interviews, autotelic experience) —
+the York review carrier does NOT establish them; open the book/review
+carrier that does, or narrow the wording; (b) the 4 pre-wired
+'ST411-417 — N. <title>' backlinks on D041/D102/D160/B109 must be
+re-pointed to the real numbers when s1a-035/036/037/039 register (strip
+their stale 'N. ' title prefixes first); (c) relationship audit for the 23
+removed copies: pages that linked ONLY a removed copy lost their link
+(known instance: 'Pleasant activities scheduling (Lewinsohn)' concept linked
+only ST307 for Rock Climbers; ST307 also carried D071/PP019/PP020 backlinks
+that ST118 lacks) — restore those relationships onto the canonical copies.
 # STORIES-TASKBOARD — lane registry for the stories pipeline
 
 ## ROUTE (2026-10-25/26, strategist-pplx-1026a): FINISH THE STARTED STORIES
