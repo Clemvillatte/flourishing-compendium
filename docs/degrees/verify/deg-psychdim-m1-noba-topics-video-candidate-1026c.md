@@ -3,7 +3,7 @@
 - **Item**: the M1 receipt
   (deg-psychdim-m1-research-literacy-video-1026c.md) named an open
   item: a full-scope single-video search for a source covering the Noba
-  reading's remaining topics — induction/deduction, research design,
+  reading's remaining topics, induction/deduction, research design,
   and what a scientific theory is. This receipt records a verified
   candidate and the search that produced it. Selecting and assigning the
   source remains the module owner's editorial act; this receipt only
@@ -21,7 +21,7 @@
   (https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=O5oMCeZTSJg&format=json).
 - **Credentials**: Daniel Kaplin, PhD (Clinical Psychology, Walden
   University, 2014), Assistant Professor of Psychology at St. Francis
-  College — confirmed independently by published author biographies in
+  College, confirmed independently by published author biographies in
   two Taylor & Francis journals
   (https://www.tandfonline.com/doi/full/10.1080/15289168.2019.1692293),
   a book author bio, and a signed opinion piece
@@ -33,20 +33,20 @@
   research-methods specialist, which the owner may weigh.
 - **Content coverage (all three remaining topics)**: the search-index
   watch page returned transcript excerpts with second offsets covering:
-  1. Induction/deduction — deductive reasoning defined as "starting
+  1. Induction/deduction, deductive reasoning defined as "starting
      with a theory formulating a hypothesis and then collecting the
      data... starting with a theory moving to a hypothesis and then
      collecting research"; inductive as "you start by collecting the
      data and then you develop your theories after the fact"; the
      lecture's own resolution that both are valid and it "depends on
      how much is known about the topic".
-  2. What a scientific theory is — "a theory is a general set of
+  2. What a scientific theory is: "a theory is a general set of
      principles that allow us to organize or predict Behavior right
      based on some past observations or principles"; a hypothesis is "a
      testable prediction"; and "notice in science we don't say anything
      is ever proven because there could be new information that turns
      this uh theory on its head".
-  3. Research design — "three general research methods... observational
+  3. Research design: "three general research methods... observational
      strategies correlational strategies and experimental strategies":
      observational research's goal "is to describe Behavior";
      correlational research "allows you to also predict an outcome";
@@ -57,18 +57,18 @@
   "behavior"), not a line-by-line read; the excerpts are extensive and
   cover the opening minutes of the lecture continuously.
 - **NOT verified initially, NOW CLOSED (same session, later search)**:
-  the video's duration and upload date — the direct watch-page fetch
+  the video's duration and upload date, the direct watch-page fetch
   returned broken_content_js_required, and the first search-index
   render did not print the duration/date line. A later search for the
   same video surfaced the watch page with its metadata line:
-  **Jan 03, 2024 (0:32:07)** — upload date January 3, 2024, duration
+  **Jan 03, 2024 (0:32:07)**: upload date January 3, 2024, duration
   32:07. The fuller transcript excerpts in the same render extend the
   coverage evidence: beyond the three reasoning/design topics, the
   lecture also covers case studies ("an in-depth analysis of the
   individual"), surveys ("the problems with surveys is everybody
   lies"), naturalistic observation (including covert observation and
   why knowing-you-are-watched changes behavior), and cautions on
-  generalizing from single cases — all within the 32:07 runtime.
+  generalizing from single cases, all within the 32:07 runtime.
 - **Alternatives surfaced by the same search (not verified)**: OpenStax
   Psychology 2e Chapter 2 lecture videos (zDApycBRef8, 39:58, channel
   Amber Kennedy; and a re-upload qa7UzLnHGXI) covering inductive/

@@ -13,17 +13,17 @@
 
 ## Findings per recording
 
-1. **Bloom, Yale lecture 13 (piDznzrNymE)** — identity confirmed by
+1. **Bloom, Yale lecture 13 (piDznzrNymE)**: identity confirmed by
    oEmbed (YaleCourses, "13. Why Are People Different?:
    Differences"). The opened watch page prints duration **1:05:49**
    (exact match with the audit) and upload date **Sep 30, 2008**
    (match). The module's window **13:53–19:47 coincides exactly with
    the printed Chapter 2** ("Measuring Personality with 'The Big
    Five'", 13:53–19:47, bounded by Chapter 3 at 19:47).
-2. **Bloom, Yale lecture 16 (jsrB5m3mL-A)** — identity confirmed by
+2. **Bloom, Yale lecture 16 (jsrB5m3mL-A)**: identity confirmed by
    oEmbed (YaleCourses, "16. A Person in the World of People: Self and
    Other, Part I"). The opened watch page prints upload date **Sep 30,
-   2008** (match) and duration **58:14** — one-second render
+   2008** (match) and duration **58:14**: one-second render
    disagreement with the audit's 58:15, recorded not adjudicated (same
    pattern as the M2 cross-check's Barrett and Bloom one-second
    disagreements). The module's windows are chapter-consistent: the
@@ -36,10 +36,10 @@
    the Other, 40:00, to Chapter 6 at 50:03). The module's consolidation
    of the audit's three sub-windows (15:56–28:41) into one window
    preserves the audit's total for that span (12:45).
-3. **McAdams, Authoring a Life (49FCgaZRn_M)** — identity confirmed
+3. **McAdams, Authoring a Life (49FCgaZRn_M)**: identity confirmed
    by oEmbed (Northwestern University School of Education and Social
    Policy). The opened watch page prints upload date **Jan 13, 2017**
-   (match) and duration **53:31** — one-second render disagreement
+   (match) and duration **53:31**: one-second render disagreement
    with the audit's 53:32, recorded not adjudicated. **Boundary
    discrepancy between the audit and the module, recorded as
    found (not adjudicated here)**: the audit assigns
@@ -51,7 +51,7 @@
    chapters at **10:07 "Understanding narrative identity"** and
    **13:30 "Themes of narrative identity"**: the module's start is
    exactly the printed chapter start, and its end is one second after
-   the next printed chapter start — a chapter-anchored boundary. The
+   the next printed chapter start, a chapter-anchored boundary. The
    audit's 14:14 does not coincide with any printed chapter. The
    module's total (34:53) is arithmetically consistent with its own
    windows (5:54 + 12:45 + 10:03 + 3:24 + 2:47 = 34:53, recomputed
@@ -59,7 +59,7 @@
    trimming the audit's window back to the chapter boundary; the
    owner should confirm this was the intent, since the audit receipt
    has not been updated to match.
-4. **Little, The puzzle of personality (qYvXk_bqlBk)** — identity
+4. **Little, The puzzle of personality (qYvXk_bqlBk)**: identity
    confirmed by oEmbed (TED, official upload). The opened watch page
    prints upload date **Jul 19, 2016** (match) and duration **15:16**
    (exact match). The module's window **11:12–13:59 is NOT

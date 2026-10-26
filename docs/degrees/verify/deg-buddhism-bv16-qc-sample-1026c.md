@@ -10,15 +10,15 @@
 - **Claims confirmed by my re-check** (HTTP header inspection of the
   cited URL):
   - The http:// URL 301-redirects to the https:// URL, which returns
-    **200 with content-type application/pdf** — matching the
+    **200 with content-type application/pdf**: matching the
     receipt's "200 after the http->https redirect".
-  - **content-length 8,792,265 bytes ≈ 8.8 MB** — matching the
+  - **content-length 8,792,265 bytes ≈ 8.8 MB**: matching the
     receipt's "8.8 MB".
   - The URL is **freely accessible** (no auth or paywall on the
     request), and the filename confirms the title: "The-Collected-
     Teachings-of-Ajahn-Chah-Single-Volume-Ajahn-Chah.pdf".
 - **Claims NOT re-checkable by my routes** (recorded honestly): the
-  PDF's internal front matter — "Published for free distribution by
+  PDF's internal front matter: "Published for free distribution by
   ARUNA PUBLICATIONS" and ISBN 978-1-908444-16-5. The page fetcher
   refused the file (too_large_file), and a 400 KB range download
   contains only compressed PDF streams with no plain-text matches for

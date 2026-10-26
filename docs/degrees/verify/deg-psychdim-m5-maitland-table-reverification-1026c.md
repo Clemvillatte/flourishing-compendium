@@ -14,10 +14,10 @@
   Daniel W. M. Maitland, Journal of Contextual Behavioral Science
   (published 9 March 2024).
 - **Claims checked**:
-  1. Table 1 contains a Self row: **confirmed** — the row reads
+  1. Table 1 contains a Self row: **confirmed**: the row reads
      "| Self | The specification of the stimuli controlling the verbal
      response "I" | Awareness |".
-  2. The table note exists: **confirmed** — "Note. This table presents
+  2. The table note exists: **confirmed**: "Note. This table presents
      identified targets in the Expanded Evolutionary Meta Model in the
      first column. Comparable FAP targets, as detailed in FAP as
      traditionally implemented are detailed in the second column. The
@@ -26,9 +26,9 @@
      FAP."
   3. The module's quoted FAP target ("The specification of the stimuli
      controlling the verbal response 'I'.") matches the fetched
-     Table 1 Self row verbatim: **confirmed**. The module's framing —
+     Table 1 Self row verbatim: **confirmed**. The module's framing,
      that this is a particular functional-analytic application rather
-     than a definition of all self-concepts — is an editorial reading
+     than a definition of all self-concepts, is an editorial reading
      consistent with the table note's own description of the second
      column; the note itself supports that the row is a target
      mapping, not a general definition.

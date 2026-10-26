@@ -17,7 +17,7 @@
   past or future) or negative experiences (past or anticipated) that
   is: a) repetitive, b) intrusive, c) difficult to disengage from,
   d) perceived as unproductive, and e) capturing mental capacity".
-  **Confirmed** — all five features match.
+  **Confirmed**: all five features match.
 - **Claim 2 (processing modes)**: the module says Ehring "summarises a
   distinction between abstract, decontextualised processing and more
   concrete, context-specific processing". The article states verbatim:
@@ -25,7 +25,7 @@
   (focus on general and decontextualized mental representations),
   whereas a more concrete processing mode (focus on the direct,
   specific and contextualized experience of concrete events and
-  actions) is related to functional outcomes". **Confirmed** — the
+  actions) is related to functional outcomes". **Confirmed**: the
   module's paraphrase tracks the passage accurately.
 - **Result**: both quoted claims verified against the primary source.
   No defects found.

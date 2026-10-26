@@ -12,12 +12,12 @@
   ledger, or any gate.
 - **Identity (oEmbed)**: author_name "Radboud Reflects", title
   "A Secular Buddhism | Lecture by Buddhism scholar and teacher
-  Stephen Batchelor" — matches the module.
+  Stephen Batchelor", matches the module.
 - **Watch page (opened directly)**: duration **1:26:35** (exact
   match), channel Radboud Reflects, upload date July 10, 2018. The
   module claims the LECTURE date, and the description prints it
   verbatim: "9 July 2018 | 19.30 – 21.15 h | Theater Hall C, Radboud
-  University" — **confirmed**; the upload date is the following day,
+  University", **confirmed**; the upload date is the following day,
   which does not conflict with the module's event-date claim. (The
   fetch tool's header author slot printed "Alpine Fellowship", a
   metadata quirk also seen on one other fetch this session; the
@@ -31,10 +31,10 @@
   primarily about developing an ethical perspective on the world to
   overcome human problems. Learn from Batchelor how Buddhism can be a
   secular, pragmatic, and ethical basis from which to stimulate human
-  flourishing." — the module's three-word frame is the description's
+  flourishing.", the module's three-word frame is the description's
   own wording. **Confirmed.**
 - **Still uninspected (honest status)**: spoken content beyond the
-  description — no transcript route was attempted for this recording
+  description, no transcript route was attempted for this recording
   in the remaining session time; the module's "CONTENT NOT YET
   INSPECTED" marker stands for the spoken content.
 - **Result**: identity, duration (exact), lecture date, channel, and
@@ -44,6 +44,7 @@
   recorded on the owner board at 05:28Z that the b6/b7 recordings were
   content-inspected via full transcripts (receipts B-V18-20). My
   "still uninspected" statement above was accurate at my check time
-  and is now superseded for the spoken content by that lane's receipts;
-  this receipt's metadata and description-bounded confirmations stand
-  unchanged.
+  and this receipt's own inspection status is unchanged; the other
+  lane reported the content inspection (owner board, 05:28Z), and
+  that lane's receipts are the place to read it. This receipt's
+  metadata and description-bounded confirmations stand unchanged.

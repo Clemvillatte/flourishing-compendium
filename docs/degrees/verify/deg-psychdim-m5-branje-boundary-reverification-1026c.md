@@ -16,7 +16,7 @@
   Journal of Research on Adolescence (published 24 November 2021).
 - **Start marker**: the introduction contains a paragraph beginning
   "In the current review, we discuss progress in the field of identity
-  research between 2010 and 2020." **Confirmed** — the module's
+  research between 2010 and 2020." **Confirmed**: the module's
   starting phrase is verbatim.
 - **End marker**: the domain-specific identity paragraph exists; three
   introductory paragraphs precede it (consistent with the module's

@@ -11,10 +11,10 @@
   https://www.audiodharma.org/series/24654 renders as series
   "Introduction to Mindfulness Meditation", teacher Gil Fronsdal.
   - The "freely offered" claim: the page prints "Freely offered by
-    Insight Meditation Center" — **confirmed verbatim**, matching the
+    Insight Meditation Center", **confirmed verbatim**, matching the
     module's quote.
   - The Class 1 duration: the page lists "Introduction to Mindfulness
-    Meditation, Class 1" at **1:26:55** — **exact match** with the
+    Meditation, Class 1" at **1:26:55**: **exact match** with the
     module's measured duration.
   - The series page shows **5 classes** in the audio series. The
     module's "six-week course" phrasing attaches to the TRANSCRIPT

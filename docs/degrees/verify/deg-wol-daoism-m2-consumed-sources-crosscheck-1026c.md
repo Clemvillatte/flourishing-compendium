@@ -35,7 +35,7 @@
   3. Word count: the module claims "228 words measured across the
      three". I counted programmatically on a verbatim transcription of
      the fetched chapters (11, 36, 78, including their a/b/c section
-     text): **228 words — confirmed**. A first manual count gave 226
+     text): **228 words, confirmed**. A first manual count gave 226
      and was wrong; the count above is the programmatic one, and the
      module's number stands.
 - **Summary**: no defects found in the checked items. The m2 source

@@ -17,7 +17,7 @@ anchors 1 (strongly disagree) through 5 (strongly agree), items 1–5,
 document
 (https://dlab.sauder.ubc.ca/sjdm/dmidi/files/Campbell_et_al._(1996)_Self-Concept_Clarity.doc):
 **12 items; 1 = strongly disagree, 5 = strongly agree; reverse-keyed
-items 1, 2, 3, 4, 5, 7, 8, 9, 10, 12** — identical to the receipt's
+items 1, 2, 3, 4, 5, 7, 8, 9, 10, 12**: identical to the receipt's
 statement (which means 6 and 11 are not reverse-keyed, as the receipt
 says). A verbatim item from the document: "In general, I have a clear
 sense of who I am and what I am." **Confirmed.** The receipt's
@@ -33,13 +33,13 @@ and Table 1). I fetched the same review
 (https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/, "Self-concept
 clarity: a comprehensive and integrative review", Srikant Manchiraju,
 Frontiers in Psychology, published 26 June 2026): all three
-distinctions appear verbatim — "It differs from self-esteem, the
+distinctions appear verbatim: "It differs from self-esteem, the
 evaluative dimension of the self... SCC concerns the structure and
 certainty of self-beliefs irrespective of their valence"; "SCC does
 not require self-knowledge accuracy: individuals may hold clear but
 inaccurate self-views"; "SCC thus concerns the clarity, coherence, and
 stability of self-beliefs rather than their specific content or
-positivity" — and Table 1 is titled "Self-concept clarity compared with
+positivity", and Table 1 is titled "Self-concept clarity compared with
 related self-constructs". **Confirmed.**
 
 ## Claim 3 (added same session): the Vartanian et al. 2023 SCCS usage
@@ -62,7 +62,7 @@ community sample, the scale was increased to 7 points"; "Some items
 were reverse-coded and higher mean scores indicate higher self-concept
 clarity"; "participants were classified as being relatively high in
 self-concept clarity if they scored at or above the mid-point of the
-scale... relatively low... below the mid-point". **Confirmed** —
+scale... relatively low... below the mid-point". **Confirmed**:
 every element of the receipt's passage matches, including the
 receipt's caution that the midpoint grouping is an analytic choice in
 that study, which the article's own "for ease of presentation"

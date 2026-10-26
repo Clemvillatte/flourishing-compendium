@@ -10,15 +10,15 @@
 - **Identity (oEmbed)**:
   - UVXpdAavGgQ: author "The Buddhist Society", title "Buddhism, Zen,
     and the Question of Suffering by Thomas Yuhō Kirchner Lecture 1.
-    27 June 2024" — matches the module.
+    27 June 2024", matches the module.
   - jPxuvitdsRI: author "The Buddhist Society", title "Thoughts on
     Meditation by Thomas Yuho Kirchner Lecture 3. on Zen Buddhism
-    3rd July 2024" — matches the module.
+    3rd July 2024", matches the module.
 - **Durations and dates (search-index watch pages)**: lecture 1
-  renders **1:28:04** and lecture 3 renders **1:40:17** — both exact
+  renders **1:28:04** and lecture 3 renders **1:40:17**: both exact
   matches with the module's claims. Both renders print YouTube upload
-  date Mar 25, 2025 (the module claims the event dates — 27 June 2024
-  and 3 July 2024 — which appear in the titles/descriptions and
+  date Mar 25, 2025 (the module claims the event dates, 27 June 2024
+  and 3 July 2024, which appear in the titles/descriptions and
   match; the module makes no upload-date claim, so no conflict). The
   series framing ("The Buddhist Society 100th Anniversary Memorial
   Lecture Series on Japanese Buddhism... Supported by the Numata
@@ -55,6 +55,7 @@
   recorded on the owner board at 05:28Z that the b6/b7 recordings were
   content-inspected via full transcripts (receipts B-V18-20). My
   "still uninspected" statement above was accurate at my check time
-  and is now superseded for the spoken content by that lane's receipts;
-  this receipt's metadata and description-bounded confirmations stand
-  unchanged.
+  and this receipt's own inspection status is unchanged; the other
+  lane reported the content inspection (owner board, 05:28Z), and
+  that lane's receipts are the place to read it. This receipt's
+  metadata and description-bounded confirmations stand unchanged.

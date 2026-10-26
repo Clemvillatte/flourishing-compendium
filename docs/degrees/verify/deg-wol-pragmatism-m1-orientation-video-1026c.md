@@ -1,4 +1,4 @@
-# Pragmatism m1 orientation video — segment-anchor completion (Philosophy Talk, American Pragmatism)
+# Pragmatism m1 orientation video, segment-anchor completion (Philosophy Talk, American Pragmatism)
 
 - **Item**: m1-orientation.md names three open items for its Step 1
   video: playback inspection, segmentation into timestamped units with
@@ -34,7 +34,7 @@
   Philosophy and Humanities, Texas A&M University): the page prints two
   seek markers: "Roving Philosophical Report (Seek to 4:46)" and
   "Sixty-Second Philosopher (Seek to 49:30)". These are printed
-  timestamps on the episode's own official record — the m1 premise "no
+  timestamps on the episode's own official record, the m1 premise "no
   printed timestamps in the transcript" does not extend to the
   producer's page, which prints them. Note one render-level
   discrepancy, recorded not adjudicated: the official seek marker 49:30
@@ -81,7 +81,7 @@
   upload of the same episode (5dWV62R8h0c, labelled "Episode 111",
   duration 52:59). The earlier draft of this receipt transferred the
   fuller anchor list from that second upload to the cited 49:24 cut;
-  that transfer was an error and is withdrawn — timestamps do not
+  that transfer was an error and is withdrawn, timestamps do not
   transfer between different cuts of an episode. Anchors evidenced for
   the EXACT video ksLO4i5pIBM, all inside 49:24 (2964 s): {ts:8} the
   opening "questions everything except your intelligence"; {ts:66-73}
@@ -105,7 +105,7 @@
   record and are the stronger anchors.
 - **Closure status of the three named items**:
   1. Segmentation into timestamped units: PARTIALLY closed, downgraded
-     after the correction — printed anchors now exist (the producer's
+     after the correction, printed anchors now exist (the producer's
      two official seek markers, the printed Listening Notes structure,
      and the five exact-video transcript offsets listed above), so the
      premise of the PROVISIONAL whole-episode assignment ("no printed
@@ -120,7 +120,7 @@
      (double meaning), ts:833-838 (~13:53 pivot), ts:1892 (~31:32),
      ts:2230 (~37:10, Dewey the pragmatic naturalist), plus the official
      4:46 Roving Report marker.
-  2. Caption status: PARTIALLY closed — a transcript exists on the
+  2. Caption status: PARTIALLY closed, a transcript exists on the
      watch page (the search index surfaced its content), but whether
      the captions are human-made or automatic was NOT established
      (watch-page render blocked). If it matters, the m1 verification

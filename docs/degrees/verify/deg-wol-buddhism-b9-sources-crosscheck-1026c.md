@@ -9,29 +9,32 @@
   ledger, or any gate.
 - **Thanissaro talk (PcR_fI6p9k8)**: oEmbed returns author_name
   "Dhamma Talks by Thanissaro Bhikkhu", title "101008 Hindrances
-  Thanissaro Bhikkhu Dhamma Talks" — the channel matches the module's
+  Thanissaro Bhikkhu Dhamma Talks", the channel matches the module's
   citation, and the title's numeric prefix is consistent with the
   module's recording-date framing (not independently re-checked; the
   module's claim stands on its own watch-page read and deg-verify-a's
   B-V12 corroboration).
 - **ADDENDUM (same session, search-index watch page)**: the watch
   page for PcR_fI6p9k8 surfaced in a later search with its metadata
-  line "Jul 16, 2014 (0:25:00)" — **duration 0:25:00 confirmed
+  line "Jul 16, 2014 (0:25:00)", **duration 0:25:00 confirmed
   exactly** (upload date Jul 16, 2014; the recording-date framing is
   separate and unaffected). The same render returned transcript
   excerpts with second offsets: {ts:289-296} "to deal with them
   recognizing the hindrances and learning how to deal with them that
   makes concentration possible"; {ts:302-310} "there's a traditional
   list of five hindrances sensual desire ill will sloth and toror
-  restlessness and anxiety". This inspects the talk's opening content
-  beyond the description: the five-hindrances theme and the
+  restlessness and anxiety". Indexed transcript excerpts at 04:49–04:56 and
+  05:02–05:10 were inspected and support the hindrances
+  recognition-and-response theme (the five-hindrances list and the
   recognizing-and-dealing-with-them move are spoken in the talk
-  itself, consistent with the module's description-bounded claims.
-  Provenance caveat: third-party extraction surfaced in a search
+  itself, consistent with the module's description-bounded claims);
+  the remainder of the talk was not inspected. Provenance caveat:
+  third-party extraction surfaced in a search
   index (with speech-recognition errors like "toror" for "torpor"),
   not a line-by-line read; the module's "CONTENT NOT YET INSPECTED"
-  marker can be narrowed to "opening content confirmed consistent;
-  full talk not line-by-line read".
+  marker can be narrowed to "indexed excerpts inspected and
+  consistent; full talk not inspected". The recording date is not
+  independently checked (see above).
 - **Nyanaponika text (opened)**:
   [The Five Mental Hindrances and Their Conquest](https://accesstoinsight.org/lib/authors/nyanaponika/wheel026.html)
   (Access to Insight). The page prints: title "The Five Mental

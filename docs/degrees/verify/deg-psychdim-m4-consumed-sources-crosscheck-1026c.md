@@ -71,12 +71,12 @@
   inside the reported "Measuring Network Efficiency" section
   (**5:10–9:25** in this render; next marker "Effortful Control" at
   9:25), starting 14 seconds after that section's start. The window is a
-  sub-section selection, not a marker-anchored one — worth knowing for
+  sub-section selection, not a marker-anchored one, worth knowing for
   any future boundary repair, though the audit receipt never claimed
   chapter anchoring for it. The section title is topically consistent
   with the receipt's content claim (target/flanker conflict,
   reaction-time differences, temporal/spatial cues for alerting and
-  orienting — i.e., how the ANT measures network efficiency); topical
+  orienting, i.e., how the ANT measures network efficiency); topical
   consistency is not confirmation of the spoken passages.
 - Event context: the fetched watch-page description identifies the
   recording as Posner's "Fred Kavli Keynote Address at the 2015 APS
@@ -108,7 +108,7 @@
   status. The module's t=128 citation equals 02:08.
 - The description supports the topic: "Dr. Richard Davidson and
   Dr. Andrew Huberman discuss the scientific classification of
-  meditation into focused attention and open monitoring practices..." —
+  meditation into focused attention and open monitoring practices...",
   matching the audit receipt's focused-attention vs. open-monitoring
   topic for this window. A description naming the classification does
   not independently establish the spoken definitions or the rejection

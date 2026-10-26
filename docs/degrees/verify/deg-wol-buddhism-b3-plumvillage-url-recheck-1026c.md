@@ -13,7 +13,7 @@
   (Plum Village).
 - **Findings**: the corrected URL renders as an informational text
   page presenting the Five Mindfulness Trainings text (all five
-  trainings), NOT a retreat or booking page — the repair landed as
+  trainings), NOT a retreat or booking page, the repair landed as
   intended. The page prints: "The Five Mindfulness Trainings were
   revised on 15 June 2022" (matching the module's "revised 2022")
   and "The Five Mindfulness Trainings have their root in the Five

@@ -19,7 +19,7 @@
   correct spelling is taken from the institutional pages already
   verified in the earlier receipts.
 
-## 1. Sainani clip content (LKiX54NglCo) — BOUNDARIES MOSTLY CONFIRMED (one correction)
+## 1. Sainani clip content (LKiX54NglCo), BOUNDARIES MOSTLY CONFIRMED (one correction)
 
 The m1-orientation.md assigned segments are **25:46–44:11** and
 **54:02–57:21**, plus the optional prerequisite **03:29–09:21**. The
@@ -41,7 +41,7 @@ shows the chapters past 54:02 could still anchor 57:21.
 The index render also prints the lecture description: "a 'nuts and
 bolts' lecture, explaining fundamental concepts in statistics. This
 includes standard error, confidence intervals, p-values, hypothesis
-testing, and minimal effects testing" — matching the module's content
+testing, and minimal effects testing", matching the module's content
 claims for the clips (intervals, p-values, hypothesis testing,
 misinterpretations). The description names those topics; it does not by
 itself establish that other topics are absent, and the returned chapter
@@ -52,11 +52,11 @@ open item named in the M1 receipt). Title in the
 index: "Statistics Fundamentals | Dr Kristin Sainani", channel Stuart
 McErlain-Naylor (Sports Biomechanics Lecture Series, guest lecture 20).
 Still not verbatim-confirmed: the in-clip worked examples (cherry
-juice, caffeine) — the topical content claim is supported at the level
+juice, caffeine), the topical content claim is supported at the level
 of the video's printed description and visible chapters; the boundary
 claims are anchored as listed above except 57:21 (correction).
 
-## 2. Black Dog RNT content (qoojT_BSqR4) — PARTIALLY CLOSED (narrowed)
+## 2. Black Dog RNT content (qoojT_BSqR4), PARTIALLY CLOSED (narrowed)
 
 Earlier receipts verified identity, duration (1:00:56), and metadata;
 the content re-check was blocked. The search index now returns this
@@ -70,7 +70,7 @@ watch page with description and timestamped transcript excerpts:
   of disorders but rarely addressed in treatment... explore the
   fundamental features of rumination and worry and its impact on a
   range of disorders... latest innovations in treating this
-  transdiagnostic symptom with our panel of experts" — confirming the
+  transdiagnostic symptom with our panel of experts", confirming the
   video's overall RNT focus.
 - Transcript excerpts (ts offsets in the UNASSIGNED treatment
   discussion, 39:47–41:14): rumination-focused cognitive therapy
@@ -88,17 +88,17 @@ watch page with description and timestamped transcript excerpts:
 - A SoundCloud mirror listing of the same session names the panel:
   Elliot (Lived Experience Representative), Professor Michelle Moulds
   (School of Psychology at UNSW), Nisha Sethi (Clinical Psychologist),
-  Dr Carol Newall (Facilitator) — matching the panelists named in the
+  Dr Carol Newall (Facilitator), matching the panelists named in the
   audit receipt.
 - REMAINS OPEN (narrower than before): verbatim confirmation of the
-  assigned 4:17 introduction window (t=330 onward) — the five-features
+  assigned 4:17 introduction window (t=330 onward), the five-features
   mapping, the stuck-radio illustration, and the past/future vs.
   transdiagnostic-process distinction claimed in the audit receipt.
   The excerpts above come from the treatment discussion later in the
   recording. The video's RNT focus, panel, and treatment content are
   now confirmed; the assigned window's specific passages are not.
 
-## 3. Komjathy watch page (_12aeIvlHhM) — CLOSED
+## 3. Komjathy watch page (_12aeIvlHhM), CLOSED
 
 The Daoism m1 cross-check confirmed identity and content via other
   routes but the watch-page render was blocked (js_required). The
@@ -115,7 +115,7 @@ The Daoism m1 cross-check confirmed identity and content via other
   understanding of taoism as an indigenous chinese and now global
   religion"), plus a late passage (ts:4286, 71:26) on the
   study-practice model including scripture study. The index transcript
-  misrecognises "daoist" as "dallas" and "Komjathy" as "kamiati" —
+  misrecognises "daoist" as "dallas" and "Komjathy" as "kamiati":
   automatic speech-recognition errors, named here; the correct
   spellings stand from the description and the institutional pages
   already verified. The blocked-render item is closed; the module's
@@ -124,10 +124,10 @@ The Daoism m1 cross-check confirmed identity and content via other
 ## Standing open items (unchanged)
 
 - Sainani in-clip worked examples (cherry juice, caffeine) verbatim
-  confirmation — low priority; boundaries and topical content now
+  confirmation, low priority; boundaries and topical content now
   supported at the printed-chapter level, except the 57:21 boundary
   (correction above).
 - Black Dog assigned 4:17 window verbatim passages (narrowed above).
 - Full-scope single-video search for the Noba reading's remaining
   topics (induction/deduction, research design, what a scientific
-  theory is) — from the M1 receipt, unaffected by this re-check.
+  theory is), from the M1 receipt, unaffected by this re-check.
