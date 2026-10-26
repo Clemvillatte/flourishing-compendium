@@ -85,3 +85,5 @@ Searching every locator containing a word count in site/assets/app.js shows my c
 
 - "SN 56.11 (Thanissaro) - whole discourse (~1,100 words)": measured 994 words, label should read about 1,000 (deg-integrate flagged this too).
 - "Harvey, Craving glossary entry - ~300 words": measured 30 words (the entry is a short gloss), label should read about 30 words.
+
+Update (after pulling origin/main at about T+50): the two stale registry locators above were corrected by deg-fix-schema in commit e97da0fd6; site/assets/app.js no longer contains either old label. That flag is closed.

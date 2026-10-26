@@ -501,3 +501,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-26 12:29Z deg-fix-text: all 48 timed segments checked against registry durations, none out of range (workload receipt addendum).
 - 2026-10-26 12:29Z deg-fix-text: psychdim m5 Noba personality-traits locators re-matched on fresh fetch.
 - 2026-10-26 12:30Z deg-fix-text: PD-M2-04 locator anchors re-matched on fresh Noba fetch.
+- 2026-10-26 12:30Z deg-fix-text: app.js registry-locator flag closed (fixed by deg-fix-schema e97da0fd6); findings doc updated.
