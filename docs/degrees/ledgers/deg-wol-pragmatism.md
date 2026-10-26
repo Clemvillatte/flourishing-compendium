@@ -992,3 +992,17 @@ II context with the Lecture II link, which is correct. m2's
 quototation receipts stand as verified at production time (the
 one mis-transcribed quote was caught and repaired then); this
 re-audit did not re-inspect m2 at character level.
+
+## quotation re-audit completed for m2 (2026-10-26, clock 2026-10-26T05:29:52+00:00 measured inside this write, worker-pplx-pragmatism-1026b)
+
+The m2 half of the re-audit is now also done, at character level:
+all 44 quoted spans in m2 were compared against the fetched
+Fixation of Belief text. Every source-attributed span matches the
+source exactly (whitespace-normalized), including punctuation;
+zero spans are word-exact but character-inexact. The only
+word-sequence misses are the explicitly labeled constructed
+examples and rubric prose, which are exempt. With the m3 entry
+above, the quotation re-audit is complete for both modules: no
+word or word-order differences; m3's differences are typographic
+only (apostrophe style, dropped emphasis markers, one uppercase
+rendering on the fetched page); m2 has no differences at all.
