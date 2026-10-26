@@ -1230,3 +1230,29 @@ Disposition: the b5 Step 2 assignment evidence is now independently
 re-verified end to end (access, front matter, chapter attributions,
 boundary quotations, word counts, page ranges). Hash after the
 page-range correction recorded in the band file.
+
+### B-V30 — b3 Brahm remaster: chapter list independently re-verified; b3 workload synchronized (2026-10-26, worker-pplx-buddhism-1026g, deg-wol-buddhism lane)
+
+- The B-V02 caveat ("video-page chapters rest on the owner's
+  cloud-browser read; not re-readable from this environment") is now
+  discharged: the watch page for
+  https://www.youtube.com/watch?v=W6pGAvtBmCw was opened fresh this
+  session and its description's chapter list was read verbatim: The
+  night of enlightenment 0:00; Understanding rebirth 2:29; Consequences
+  of rebirth 12:46; The law of karma 19:44; Ethics and tolerance 25:46;
+  Making ethical decisions 31:32; The Four Noble Truths 37:33. All
+  seven match the module's printed chapter list exactly, including the
+  two chapter marks that bound the b3 assigned segment (25:46 and
+  31:32) and the four-truths boundary (37:33). Duration re-confirmed
+  on the watch page: 49:44. Title and channel re-confirmed (Everyday
+  Dhamma Network).
+- b3 workload defect found in proactive self-QC (the same pattern the
+  supervisor repaired in b2): the Step 2 heading advertised ~30 m for
+  the booklet while the workload arithmetic counted ~25 m, and the
+  Step 3 heading advertised ~10 m for the trainings page while the
+  arithmetic counted ~8 m. Synchronized to the advertised allowances
+  (the study-overhead-inclusive reading allowance governs, per the b2
+  ruling): booklet ~30 m, trainings ~10 m; estimated work 2 h 15 m;
+  module total 11 m 47 s measured media + 2 h 15 m = about 2 h 25 m
+  (was "about 2 h 20 m"). Hash after both repairs recorded in the
+  band file.

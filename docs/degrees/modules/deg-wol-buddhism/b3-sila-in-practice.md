@@ -151,16 +151,18 @@ talk (00:37:33 onward) is b2's territory and is not assigned here.
   (chapter-bounded; durations read from the opened pages, receipts
   B-T03 and the remaster corroboration in the degree ledger).
 - Estimated: booklet sections (~2,000 words at 130 words per minute,
-  new concepts dense) ~25 m; the trainings page (~900 words) ~8 m; two
-  hard cases ~50 m; comparison and verdict ~30 m; study overhead on the
-  video segment ~15 m. Estimates labelled as estimates.
-- Module total: about 2 h 20 m.
+  new concepts dense) ~30 m (matching the Step 2 allowance); the
+  trainings page (~900 words) ~10 m (matching the Step 3 allowance);
+  two hard cases ~50 m; comparison and verdict ~30 m; study overhead on
+  the video segment ~15 m. Estimates labelled as estimates.
+- Module total: about 2 h 25 m (11 m 47 s measured media + 2 h 15 m of
+  estimated work).
 
 ## Sources (verification status)
 
 | resource | status | verified | notes |
 |---|---|---|---|
-| Ajahn Brahm, "What the Buddha Taught" (remaster), https://www.youtube.com/watch?v=W6pGAvtBmCw | verified-video | 2026-10-26 (parallel session, ledger-recorded; corroborated by deg-verify-a) | 49:44 on the opened video page and the Everyday Dhamma episode page (https://everydaydhamma.net/podcast/ajahn-brahm-podcast/episode/what-the-buddha-taught-ajahn-brahm); chapters read on the video page; ethics arc 00:25:46-00:37:33 assigned; transcript is AI-generated and error-prone, so the module paraphrases and quotes nothing; credentials on https://bswa.org/teachers/ajahn-brahm/ (Cambridge theoretical physics; ordained 1974, Forest Tradition of north-east Thailand under Ajahn Chah; abbot of Bodhinyana) |
+| Ajahn Brahm, "What the Buddha Taught" (remaster), https://www.youtube.com/watch?v=W6pGAvtBmCw | verified-video | 2026-10-26 (parallel session, ledger-recorded; corroborated by deg-verify-a; chapters and duration independently re-verified 2026-10-26, receipt B-V30) | 49:44 on the opened video page and the Everyday Dhamma episode page (https://everydaydhamma.net/podcast/ajahn-brahm-podcast/episode/what-the-buddha-taught-ajahn-brahm); chapters read on the video page; ethics arc 00:25:46-00:37:33 assigned; transcript is AI-generated and error-prone, so the module paraphrases and quotes nothing; credentials on https://bswa.org/teachers/ajahn-brahm/ (Cambridge theoretical physics; ordained 1974, Forest Tradition of north-east Thailand under Ajahn Chah; abbot of Bodhinyana) |
 | "What Is Buddhism?" booklet, https://bswa.org/teaching/buddhism-ajahn-brahm/ | verified (text) | 2026-10-26 (receipt B-T03, deg-verify-a) | free distribution PDF; the five precepts, Middle Way and practice sections assigned; rebirth/karma sections deliberately unassigned (receipt caveat); credentials on the BSWA teacher page |
 | Five Mindfulness Trainings, https://plumvillage.org/mindfulness/the-5-mindfulness-trainings | verified (text) | 2026-10-26 (receipt B-T02 and defect repair 2026-10-26, deg-verify-a) | revised 2022; free; root in the Buddha's five precepts stated on the page; URL corrected this session per deg-verify-a's defect flag (the earlier mindfulness-practice URL lands on a retreat page); Thich Nhat Hanh biography page to be attached if the module later leans on his life (receipt note) |
 | AN 5.179 Gihisutta, https://suttacentral.net/an5.179/en/sujato | verified | 2026-10-26 (b1) | see b1 source table |
