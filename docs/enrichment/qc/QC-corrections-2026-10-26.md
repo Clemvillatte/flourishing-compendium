@@ -145,3 +145,16 @@ Text Project mirror ctext.org mirrors, or Legge/Jowett translations
 on Gutenberg) could be used in a future sweep, though the wording
 will differ by translation — the dossier's specific wording needs the
 carrier it cites.
+
+## 11. Series completion note
+
+The 2026-10-26 QC receipt series is complete: every dossier page
+under docs/enrichment/dossiers/ that carries a "Where the traditions
+genuinely disagree" section now has a QC receipt under
+docs/enrichment/qc/ (42 dossier receipts dated 2026-10-26 from this
+worker: 40 regular sweeps + agency and the-self as verification-only
+passes on below-bar dossiers, making no claim about their dispute
+structures). Section 8's carrier index covers the first fourteen
+sweeps; the later sweeps' carriers are named in their individual
+receipts. Standing flags for the supervisor are consolidated in the
+final session report.
