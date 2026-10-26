@@ -168,3 +168,20 @@ recorded in their journal, are the anchor-norm carrier for that row — the
 Santos rewirement pattern, now opened evidence via the Coursera syllabus).
 The strengths row's teaching-source candidate remains outstanding (a free
 anonymous strengths lecture or text).
+
+
+## Criticism-row response candidate (2026-10-26, worker-pplx-positive-1026p)
+
+Fetch-time bound: the Frontiers page below was opened before the 2026-10-26T09:42:10Z clock
+read this entry was written against.
+
+| URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
+| https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1548612/full | 2026-10-26, before 2026-10-26T09:42:10Z | worker-pplx-positive-1026p | open-access full text (CC BY): Gaffaney and Donaldson 2025, Frontiers in Psychology 16:1548612 — two checklists responding to the van Zyl et al. systematic-review critiques (theorizing, methodology, decontextualized-capitalistic-endeavor perception); focus areas per the abstract: self-reflection, cultural sensitivity, methodological diversity, collaboration, ethical considerations |
+
+Candidate note: this completes the criticism row's PAIR — the critique
+(van Zyl et al. 2024) and the field's constructive response (Gaffaney and
+Donaldson 2025) are both open-access full texts, opened and recorded. The
+pair gives the criticisms-and-overreach exit capability both sides of the
+debate. Module attachment, reading windows and how the walk stages the
+debate remain the degree owner's decisions after Gate 1. Status UNSET.
