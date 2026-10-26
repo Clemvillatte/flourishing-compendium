@@ -516,9 +516,9 @@ this session's own opened evidence:
   hyphenation-and-whitespace-normalised extraction basis WITH the APA
   copyright footer notice and the running page headers removed (690
   words on the same basis if those extraction artifacts are included;
-  618 is the candidate reading count); the writing
-  session should re-measure the final assigned span on a stated
-  basis. The limitations passage directly supports the packet's
+  618 is the candidate reading count, PROVISIONAL pending the
+  writing session's own re-measurement); the writing session should
+  re-measure the final assigned span on a stated basis. The limitations passage directly supports the packet's
   caution that the five families are working distinctions, not proven
   treatment effects.
 - VAN HEIJST ET AL. 2025 OPENED (PMC12575812): "Beyond Right and
@@ -930,8 +930,9 @@ against the raw saved page text with an explicit
 quotation-to-source list (whitespace normalization only; ellipsis
 segments checked individually). Result: all quotations verified
 (M3, M4, M5, M6, M7 and the M2 boundaries records in full; the M2
-preparation block's Noba response-choice and Barrett sidebar
-openings re-confirmed against the saved raw pages).
+preparation block's Noba response-choice and Barrett sidebar OPENING
+SUBSTRINGS re-confirmed against the saved raw pages, not those
+passages' full lengths).
 Two disclosures apply (both recorded inline above): the Gross
 five-family quotation spans a printed page break where the pdftotext
 extraction inserts an APA copyright footer notice (the quotation is
