@@ -1,9 +1,11 @@
 {
  "band": "deg-wol-daoism",
  "kind": "degree",
- "holder": null,
- "phase": "awaiting-launch",
- "modules": {},
- "notes": "New degree per owner directive 2026-10-25; scope doc in scope/; raw material noted in the scope doc",
- "updated": "2026-10-25T07:43:18+00:00"
+ "holder": "worker-pplx-degdaosim-1026a",
+ "phase": "gate1-cleared-m1-written-draft-not-cleared-awaiting-independent-review-and-supervisor-module-qc",
+ "modules": {
+  "m1-orientation": "DRAFT, NOT CLEARED; written to skill standard (L1; four outcomes taught/practised/assessed; rubric with strong+rejection examples; workload arithmetic from measured durations and word counts; all attached sources re-verified against section 4 with instructor credentials on institutional pages, no paywalled content; advisor QC plan applied 2026-10-26)"
+ },
+ "notes": "2026-10-26 (worker-pplx-degdaosim-1026a): WAVE 2 production claimed. Gate 1 was already cleared (independent review 2026-10-26). m1-orientation written; all attached sources re-verified this session (Komjathy, Van Norden and Ziporyn credentials moved from uploader descriptions to institutional/bio pages; Eno Daodejing and Zhuangzi Inner Chapters free educator-licensed translations attached for primary-text access). M01-D11 Komjathy Inner Cultivation left unattached pending a content re-confirmation against the recording itself. Neiye elective dependency recorded in ledger gap register (Roth Original Tao listed in the owner primary-source library; no verified free source attached). Module awaits independent review and supervisor module-QC per WAVE 2 before integration.",
+ "updated": "2026-10-26T04:45:42Z"
 }

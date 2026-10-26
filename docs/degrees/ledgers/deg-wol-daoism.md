@@ -96,3 +96,70 @@ source opened in-session, freely accessible) and
 every attachment carries a verified-video/verified-audio label). The
 production owner still owes module-level mapping against the cleared
 scope before the coverage gate can be requested.
+
+## Module 1 production (2026-10-26, worker-pplx-degdaosim-1026a, deg-wol-daoism baton)
+
+WAVE 2 production per PIPELINE-2026-10-26 and the owner's 2026-10-26 priority
+order. Module m1-orientation written to the curriculum-design skill standard
+(L1 Orientation; four outcomes; every outcome taught, practised and assessed;
+rubric with strong and rejection examples; workload arithmetic from measured
+durations and word counts; no paywalled content). Advisor QC plan applied
+2026-10-26 (5-module L1-L4 structure kept; Neiye elective dependency
+recorded below; primary-text access answered with the free educator-licensed
+Eno translations; M01-D11 Komjathy Inner Cultivation Lineages left unattached
+pending credential evidence per section 4 — the uploader description is not
+a credentials basis; workload arithmetic computed from segments).
+
+### Sources opened this session (2026-10-26, UTC times as save bounds)
+
+| URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
+| https://www.youtube.com/watch?v=_12aeIvlHhM | 2026-10-26, between the 04:42:33Z clock reading and this save push | worker-pplx-degdaosim-1026a | Komjathy Lundao 1 watch page: title "Lundao 1: The Daoist Tradition 道統", channel Daoist Foundation, duration 1:13:54 printed, transcript visible on the watch page and confirms Komjathy's self-identification as founding co-director and senior teacher; no chapter timestamps on this page |
+| https://www.youtube.com/watch?v=lvglQJDrgJI | 2026-10-26, between the 04:42:33Z clock reading and this save push | worker-pplx-degdaosim-1026a | Van Norden Wisdom of China Laozi documentary watch page: duration 0:50:09, chapter timestamps in description 0:00:00 to 0:46:28 |
+| https://www.youtube.com/watch?v=EJ1bB2w2gBk | 2026-10-26, between the 04:42:33Z clock reading and this save push | worker-pplx-degdaosim-1026a | Ziporyn Why This Text Matters Daodejing watch page: duration 0:53:36, full chapter timestamps printed in description (27 chapters from 0:00:00 to 0:51:07), description confirms the lecture covers dao, de, wu wei, the infant image, chapter 28 and the B category |
+| http://www.daoistfoundation.org/about | 2026-10-26, between the 04:42:33Z clock reading and this save push | worker-pplx-degdaosim-1026a | Komjathy instructor credentials on the Daoist Foundation's own institutional about page (not a host description): PhD Religious Studies, Boston University, 2005; ordained Daoist priest of the Huashan lineage of Quanzhen Daoism; founding Co-director of the Daoist Foundation |
+| https://www.vassar.edu/faculty/brvannorden | 2026-10-26, between the 04:42:33Z clock reading and this save push | worker-pplx-degdaosim-1026a | Van Norden instructor credentials on the Vassar College faculty biography page: Professor of Philosophy on the James Monroe Taylor Chair; BA University of Pennsylvania; PhD Stanford University; at Vassar since 1995 |
+| https://divinity.uchicago.edu/directory/brook-ziporyn | 2026-10-26, between the 04:42:33Z clock reading and this save push | worker-pplx-degdaosim-1026a | Ziporyn instructor credentials on the University of Chicago Divinity School faculty biography page: Mircea Eliade Professor of Chinese Religion, Philosophy, and Comparative Thought; PhD University of Michigan; prior appointments at Michigan, Northwestern, Harvard and the National University of Singapore |
+| https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content | 2026-10-26, between the 04:42:33Z clock reading and this save push | worker-pplx-degdaosim-1026a | Eno Daodejing translation (Indiana University ScholarWorks): all 81 chapters present; translator Robert Eno stated; licensing statement "freely available for use in not-for-profit educational settings and for personal use"; no paywall; chapters 1, 8, 76 read this pass |
+| https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/5dc89a23-c6bf-4190-a1e4-6762dc5359cc/content | 2026-10-26, between the 04:42:33Z clock reading and this save push | worker-pplx-degdaosim-1026a | Eno Zhuangzi Inner Chapters translation (Indiana University ScholarWorks): open-access online translation of the first seven chapters; translator Robert Eno stated; same educator-licensing statement; Butterfly Dream passage read this pass |
+
+### Verification outcomes
+
+| source_id | status | evidence | date |
+|---|---|---|---|
+| M01-D03 Komjathy Lundao 1 | verified-video (upgraded from verified-partial by this pass) | watch page identity, access and duration confirmed; transcript on watch page confirms Komjathy's self-identification; instructor credentials now verified on the Daoist Foundation about page (institutional, not host description) | 2026-10-26 |
+| M01-D02 Van Norden Laozi documentary | verified-video (upgraded from verified-partial by this pass) | watch page identity, access and duration confirmed; instructor credentials verified on the Vassar faculty page (institutional, not host description) | 2026-10-26 |
+| M01-D04 Ziporyn Daodejing | verified-video | watch page identity, access, duration and full chapter timestamps confirmed; instructor credentials verified on the UChicago Divinity School faculty page (institutional, not host description) | 2026-10-26 |
+| Eno Daodejing translation | verified text | all 81 chapters; translator stated; educator license; no paywall | 2026-10-26 |
+| Eno Zhuangzi Inner Chapters translation | verified text | translator stated; educator license; no paywall | 2026-10-26 |
+
+Note on the prior verified-partial labels: the earlier records rested the
+credential evidence on the uploader description for some sources, which
+section 4 does not accept as a credentials basis. This pass moved the
+credential evidence to biography or institutional pages for all three
+attached lecture videos, which clears the prior partial label. The M01-D11
+Komjathy Inner Cultivation Lineages record is left unattached for this
+module: the deg-contemplative verify file itself notes that record's
+credentials rest on the uploader description and the content was confirmed
+against a third-party transcript, and the same institutional page used
+here (daoistfoundation.org/about) does verify Komjathy's credentials, so the
+record could be attached in a later module if its content coverage is
+re-confirmed against the recording itself rather than only the transcript;
+this module does not need it.
+
+### Gap register
+
+- Neiye elective (scope doc names it as an elective deep dive): no verified
+  source currently attached. The owner's primary-source library
+  (docs/PRIMARY-SOURCES.md) lists Harold D. Roth, "Original Tao: Inward
+  Training and the Foundations of Taoist Mysticism" (Columbia UP, 1999)
+  with the Neiye translation inside; if the owner uploads that book or a
+  free excerpt becomes available, the elective can attach. Recorded as a
+  dependency, not a blocking gap, because the scope names it as an elective.
+- No blocking gaps for m1.
+
+### Module status
+
+m1-orientation: DRAFT, NOT CLEARED; awaits independent review (advisor or a
+worker who does not own the module) per the curriculum-design skill's
+acceptance test 6, and supervisor module-QC per WAVE 2.
