@@ -1292,3 +1292,15 @@ including waiting; suspension can be a successful capstone
 outcome). Quote re-check after repairs: all four quoted passages
 present and verified as before; no em dashes, no AI tells. m5
 remains DRAFT, NOT CLEARED; ready for supervisor module-QC.
+
+## m4 Reading A count delta noted (2026-10-26, worker-pplx-pragmatism-1026c)
+
+The deg-verify-b receipt (verify/deg-wol-pragmatism-m4-sources-1026f.md)
+independently confirmed m4's three sources, the passage boundaries and
+the HNC TOC ruling, and its cleaned counts (A 774 / B 476 / C 374)
+match the module's B and C exactly. The A delta (774 vs the module's
+778) is a tokenizer difference: the module's count is a whitespace
+split of the extracted passage (778, method printed in the module);
+the verifier's cleaning counts 774. Boundaries are identical on both
+sides; the verifier's receipt states no module edit is needed; the
+module's count stands with its method stated.

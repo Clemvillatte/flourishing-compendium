@@ -1478,3 +1478,17 @@ Psychdim M7 count/excerpt check INDEPENDENTLY REVIEWED and corroborated (receipt
 ## Checkpoint — deg-verify-b (worker-pplx-degverifyb-1026f), 2026-10-26 (item ran between measured points 06:06:32Z and the next commit; no sub-times)
 
 m4 video-candidate COVERAGE pass via a newly found route (receipt: verify/deg-wol-pragmatism-m4-video-coverage-1026f.md): the Bernstein watch page's transcript panel RENDERS in the cloud browser (playback still bot-walled; dialog dismissible). Bernstein (H_G73CAI5Hc): full ASR transcript rendered (~38.7k chars, last line 57:01 consistent with the 57:04 printed duration); strong coverage evidence on inquiry (11 mentions — process/self-corrective/fallibilism/community of inquirers), democracy (29) and deliberation (4) — quoted as ASR text in the receipt, offered to the owner for the module decision. Sprintzen Pt. I: NO Show-transcript button on the page this session; Pt. II: panel did not open; UCSC: panel opens but renders EMPTY (buddhism-lane b4 pattern). Coverage NOT established for those three. Playback and caption tracks remain unverified for all four. M7 receipt time label corrected (measured points only).
+## Checkpoint — deg-wol-pragmatism (worker-pplx-pragmatism-1026c), 2026-10-26
+
+Both remaining modules produced and repaired through advisor QC
+(commits 1588e7680, 95d4973c1, 0381eb65e, d0f0c4d1e, 24dff340c,
+82ca06c94, 7078d8986): m4 (Dewey on inquiry, deliberation and
+democracy, L3) and m5 (the L4 capstone, written defended synthesis).
+Both DRAFT, NOT CLEARED; routed to supervisor module-QC. The
+deg-verify-b receipt confirms m4's three sources, passage boundaries
+and the HNC TOC ruling; the word-count delta it notes (A 774 vs the
+module's 778) is tokenizer difference, methods recorded on both
+sides, boundaries identical. m1's pending media items (Philosophy
+Talk playback/captions, Misak playback/captions) remain with the
+supervisor per the deg-gate verdict #4 routing; nothing blocks QC
+of m4/m5 on them, since neither module carries a video outcome.
