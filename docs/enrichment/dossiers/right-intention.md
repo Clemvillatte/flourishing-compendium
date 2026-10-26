@@ -229,7 +229,7 @@ Limits: three Gita verses and two Pali passages, no commentary on either side. L
 
 ### Is freedom from pain itself a good?
 
-Epicurus defines pleasure by what it removes — pain — and makes that condition the whole of the happy life:
+Epicurus defines pleasure by what it removes, which is pain, and makes that condition the whole of the happy life:
 
 > "When we say, then, that pleasure is the end and aim, we do not mean the pleasures of the prodigal or the pleasures of sensuality, as we are understood to do by some through ignorance, prejudice, or willful misrepresentation. By pleasure we mean the absence of pain in the body and of trouble in the soul." ([Epicurus, Letter to Menoeceus, Hicks trans., Internet Classics Archive](https://classics.mit.edu/Epicurus/menoec.html))
 

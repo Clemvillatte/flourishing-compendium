@@ -79,7 +79,7 @@ The strength model that the [Self-control](https://clemvillatte.github.io/flouri
 
 > "Choice, active response, self-regulation, and other volition may all draw on a common inner resource." ([Baumeister et al. 1998, Journal of Personality and Social Psychology](https://pubmed.ncbi.nlm.nih.gov/9599441/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=9599441&rettype=abstract&retmode=text))
 
-Its four experiments — radishes resisted against chocolates, choices made, emotion suppressed, each followed by a further test of persistence or performance — ended in the paper's own summary:
+Its four experiments (radishes resisted against chocolates, choices made, emotion suppressed, each followed by a further test of persistence or performance) ended in the paper's own summary:
 
 > "These results suggest that the self's capacity for active volition is limited and that a range of seemingly different, unrelated acts share a common resource." ([Baumeister et al. 1998](https://pubmed.ncbi.nlm.nih.gov/9599441/))
 

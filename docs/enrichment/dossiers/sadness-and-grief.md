@@ -33,7 +33,7 @@ The dual-process model's own summary of itself:
 
 The model identifies "two types of stressors, loss- and restoration-oriented, and a dynamic, regulatory coping process of oscillation" in which the griever "at times confronts, at other times avoids" the tasks of grieving. ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf))
 
-The model also argues the need for dosage of grieving — that is, respite from dealing with either of these stressors — and counts that respite "as an integral part of adaptive coping". ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf))
+The model also argues the need for dosage of grieving, that is, respite from dealing with either of these stressors, and counts that respite "as an integral part of adaptive coping". ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf))
 
 Respite is part of adaptive coping, which is a different instruction from either wallowing or cutting the loss off. The practice built on it is [K319 — Non-avoidant grief work](https://clemvillatte.github.io/flourishing-compendium/#card=K319%20%E2%80%94%20Non-avoidant%20grief%20work): a deliberate, time-limited sitting with the loss, then a return to the restoration side. [M038 — Grieve without pretending, and without drowning](https://clemvillatte.github.io/flourishing-compendium/#card=M038%20%E2%80%94%20Grieve%20without%20pretending%2C%20and%20without%20drowning) adds the paired observation from the Cantares Mexicanos: the songs hold grief and enjoyment side by side inside one stanza.
 

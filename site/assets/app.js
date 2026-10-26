@@ -9963,7 +9963,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The limits those loads run into have names too. Kaplan's name for mental fatigue affecting effortful, voluntarily controlled attention is [directed attention fatigue](card:Directed%20attention%20fatigue). The proposal that self-control is a limited resource depleted after a period of exertion is [ego depletion](card:Ego%20depletion) — the dispute over that proposal is one of this dossier's disagreements below. Training can also be stepped: the principle of raising the demand on a system in steps so that it keeps adapting is [progressive overload in attentional training](card:Progressive%20overload%20in%20attentional%20training)."
+          "x": "The limits those loads run into have names too. Kaplan's name for mental fatigue affecting effortful, voluntarily controlled attention is [directed attention fatigue](card:Directed%20attention%20fatigue). The proposal that self-control is a limited resource depleted after a period of exertion is [ego depletion](card:Ego%20depletion); the dispute over that proposal is one of this dossier's disagreements below. Training can also be stepped: the principle of raising the demand on a system in steps so that it keeps adapting is [progressive overload in attentional training](card:Progressive%20overload%20in%20attentional%20training)."
         },
         {
           "t": "h2",
@@ -12043,7 +12043,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Empiricism treated sensation as determinate atoms, held to a constancy hypothesis, and explained what perception delivers by association and the projection of memory — on the Stanford Encyclopedia's summary, it grants a role to \"association and the projection of memory for treating the basic units of sensation as determinate atoms rather than as meaningful wholes\" ([SEP, Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/)). Merleau-Ponty's objection is that \"the basic level of perceptual experience is the gestalt, the meaningful whole of figure against ground\", with the indeterminate and contextual aspects of the perceived world left standing as positive features that no complete account can eliminate ([SEP, Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/)). The disagreement turns on what the units of experience are. I lean with Merleau-Ponty: what is given first is a whole, a room, a face, a path, and the atoms are what analysis finds afterward."
+          "x": "Empiricism treated sensation as determinate atoms, held to a constancy hypothesis, and explained what perception delivers by association and the projection of memory; on the Stanford Encyclopedia's summary, it grants a role to \"association and the projection of memory for treating the basic units of sensation as determinate atoms rather than as meaningful wholes\" ([SEP, Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/)). Merleau-Ponty's objection is that \"the basic level of perceptual experience is the gestalt, the meaningful whole of figure against ground\", with the indeterminate and contextual aspects of the perceived world left standing as positive features that no complete account can eliminate ([SEP, Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/)). The disagreement turns on what the units of experience are. I lean with Merleau-Ponty: what is given first is a whole, a room, a face, a path, and the atoms are what analysis finds afterward."
         },
         {
           "t": "h2",
@@ -13082,7 +13082,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Epicurus defines pleasure by what it removes — pain — and makes that condition the whole of the happy life:"
+          "x": "Epicurus defines pleasure by what it removes, which is pain, and makes that condition the whole of the happy life:"
         },
         {
           "t": "q",
@@ -13555,7 +13555,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The two passages answer the same question with opposite rules. Constant grounds the duty in the hearer's right: where the hearer intends murder, the right lapses, and the lie is what anyone would say. Kant grounds it in the practice of assertion itself: a lie harms not the murderer but humanity generally, because it corrodes the trust on which all contracts and rights rest. What remains unresolved is where the duty lives — in the hearer's claim, as Constant holds, or in the institution of truthful speech, as Kant holds — and the murderer at the door is the case that forces the choice."
+          "x": "The two passages answer the same question with opposite rules. Constant grounds the duty in the hearer's right: where the hearer intends murder, the right lapses, and the lie is what anyone would say. Kant grounds it in the practice of assertion itself: a lie harms not the murderer but humanity generally, because it corrodes the trust on which all contracts and rights rest. What remains unresolved is where the duty lives: in the hearer's claim, as Constant holds, or in the institution of truthful speech, as Kant holds. The murderer at the door is the case that forces the choice."
         },
         {
           "t": "h",
@@ -14318,7 +14318,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Its four experiments — radishes resisted against chocolates, choices made, emotion suppressed, each followed by a further test of persistence or performance — ended in the paper's own summary:"
+          "x": "Its four experiments (radishes resisted against chocolates, choices made, emotion suppressed, each followed by a further test of persistence or performance) ended in the paper's own summary:"
         },
         {
           "t": "q",
@@ -15782,7 +15782,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The model also argues the need for dosage of grieving — that is, respite from dealing with either of these stressors — and counts that respite \"as an integral part of adaptive coping\". ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf))"
+          "x": "The model also argues the need for dosage of grieving, that is, respite from dealing with either of these stressors, and counts that respite \"as an integral part of adaptive coping\". ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf))"
         },
         {
           "t": "p",
@@ -16696,7 +16696,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The Kataññu Suttas: carrying both parents on the shoulders for a hundred years, or establishing them in \"absolute sovereignty over this great earth,\" does not repay — \"you would not in that way pay or repay your parents\" — but one class of act does repay: \"anyone who rouses his unbelieving mother & father, settles & establishes them in conviction; rouses his unvirtuous mother & father, settles & establishes them in virtue... To this extent one pays & repays one's mother & father\" ([AN 2.31–32, Thanissaro trans., accesstoinsight](https://www.accesstoinsight.org/tipitaka/an/an02/an02.031.than.html))."
+          "x": "The Kataññu Suttas: carrying both parents on the shoulders for a hundred years, or establishing them in \"absolute sovereignty over this great earth,\" does not repay (\"you would not in that way pay or repay your parents\"), but one class of act does repay: \"anyone who rouses his unbelieving mother & father, settles & establishes them in conviction; rouses his unvirtuous mother & father, settles & establishes them in virtue... To this extent one pays & repays one's mother & father\" ([AN 2.31–32, Thanissaro trans., accesstoinsight](https://www.accesstoinsight.org/tipitaka/an/an02/an02.031.than.html))."
         },
         {
           "t": "p",
@@ -18510,7 +18510,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Plucker's answer in the paired article: the domain-specificity research \"suffers from conceptual, methodological, or logical oversights\", and \"The debate about the content general or specific nature of creativity is far from settled\" ([Plucker, Beware of Simple Conclusions: The Case for Content Generality of Creativity, Creativity Research Journal 1998, abstract](https://scispace.com/journals/creativity-research-journal-38y50hb2/1998)). The passage from Plucker is his abstract, reproduced on the journal-index page; the full paper was not opened. What the tests measure turns on which side of that dispute holds, and the camps state it in their own words."
+          "x": "Plucker's answer in the paired article: the domain-specificity research \"suffers from conceptual, methodological, or logical oversights\", and \"The debate about the content general or specific nature of creativity is far from settled\" ([Plucker, Beware of Simple Conclusions: The Case for Content Generality of Creativity, Creativity Research Journal 1998, abstract](https://www.tandfonline.com/doi/abs/10.1207/s15326934crj1102_8)). The passage from Plucker is the abstract on the publisher page, opened this session (the QC receipt re-anchored the citation from a journal-index mirror). What the tests measure turns on which side of that dispute holds, and the camps state it in their own words."
         },
         {
           "t": "p",
@@ -18558,7 +18558,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Kim pooled 447 correlation coefficients from 21 studies and 45,880 participants, and tested the threshold directly: \"IQ below (r = .201) and above 120 (r = .235) were not statistically different either, χ2 = 2.004, p = .157\" — and, in the abstract's words, \"This study does not support threshold theory\" ([Kim 2005, Can Only Intelligent People Be Creative? A Meta-Analysis, full text](https://files.eric.ed.gov/fulltext/EJ698316.pdf))."
+          "x": "Kim pooled 447 correlation coefficients from 21 studies and 45,880 participants, and tested the threshold directly: \"IQ below (r = .201) and above 120 (r = .235) were not statistically different either, χ2 = 2.004, p = .157\"; in the abstract's words, \"This study does not support threshold theory\" ([Kim 2005, Can Only Intelligent People Be Creative? A Meta-Analysis, full text](https://files.eric.ed.gov/fulltext/EJ698316.pdf))."
         },
         {
           "t": "p",
@@ -18566,7 +18566,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "For someone making things, the question is practical: whether the intelligence a person brings sets a floor under their creative potential. The honest reading is that the answer depends on what is being produced — fluency, original ideas, or achievements that others judge — and the sources say so themselves."
+          "x": "For someone making things, the question is practical: whether the intelligence a person brings sets a floor under their creative potential. The honest reading is that the answer depends on what is being produced (fluency, original ideas, or achievements that others judge), and the sources say so themselves."
         },
         {
           "t": "h",
@@ -18957,7 +18957,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The two lives named here are not the same thing: Arendt's life process is the biological cycle of labour, Bergson's life is the creative thrust — and neither passage denies what the other affirms. I read it as a difference of emphasis about the same making: the thing may serve a durable world and still be, for the maker, one more form that life takes."
+          "x": "The two lives named here are not the same thing: Arendt's life process is the biological cycle of labour, Bergson's life is the creative thrust, and neither passage denies what the other affirms. I read it as a difference of emphasis about the same making: the thing may serve a durable world and still be, for the maker, one more form that life takes."
         },
         {
           "t": "p",
@@ -19450,7 +19450,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The classical answer runs through Aristotle, and it is blunt: \"Happiness is thought to stand in perfect rest; for we toil that we may rest, and war that we may be at peace\" ([Aristotle, Nicomachean Ethics X.7, Chase translation](https://www.gutenberg.org/files/8438/8438-h/8438-h.htm)). [Pieper](card:Leisure), recovering the Greek scholē, gives the same claim its modern defence: the original meaning of leisure has been forgotten in the culture of total work, where \"One does not only work in order to live, but one lives for the sake of one's work\" — a statement Pieper quotes from Max Weber ([Pieper, Leisure: The Basis of Culture](https://iwcinsb.org/studygroups/2024%20readings/Leisure.pdf))."
+          "x": "The classical answer runs through Aristotle, and it is blunt: \"Happiness is thought to stand in perfect rest; for we toil that we may rest, and war that we may be at peace\" ([Aristotle, Nicomachean Ethics X.7, Chase translation](https://www.gutenberg.org/files/8438/8438-h/8438-h.htm)). [Pieper](card:Leisure), recovering the Greek scholē, gives the same claim its modern defence: the original meaning of leisure has been forgotten in the culture of total work, where \"One does not only work in order to live, but one lives for the sake of one's work\", a statement Pieper quotes from Max Weber ([Pieper, Leisure: The Basis of Culture](https://iwcinsb.org/studygroups/2024%20readings/Leisure.pdf))."
         },
         {
           "t": "p",
@@ -20675,11 +20675,11 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "I make plans as though my time were open. The ending arrives on other people's schedules — a funeral, a diagnosis, a phone call at night — and for a while the plans look different. Then the old proportions return. What I want to know is what the fact of ending does to the meaning of the life it ends: whether it shapes what a life can mean, or merely cuts the life off."
+          "x": "I make plans as though my time were open. The ending arrives on other people's schedules (a funeral, a diagnosis, a phone call at night) and for a while the plans look different. Then the old proportions return. What I want to know is what the fact of ending does to the meaning of the life it ends: whether it shapes what a life can mean, or merely cuts the life off."
         },
         {
           "t": "p",
-          "x": "Part of that question belongs to fear, and I hold that part elsewhere. My Fear material carries the affective response to dying — the fear itself, its clinical study, the Epicurean argument against it, Ivan Ilyich's dying. What I hold here is death as a shaper of meaning, gratitude and choice: the remembrance practices, the analyses of finitude, and the experiments that test what confrontation actually does to people."
+          "x": "Part of that question belongs to fear, and I hold that part elsewhere. My Fear material carries the affective response to dying: the fear itself, its clinical study, the Epicurean argument against it, Ivan Ilyich's dying. What I hold here is death as a shaper of meaning, gratitude and choice: the remembrance practices, the analyses of finitude, and the experiments that test what confrontation actually does to people."
         },
         {
           "t": "p",
