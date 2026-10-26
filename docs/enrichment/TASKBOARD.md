@@ -6632,3 +6632,17 @@ only when the page's two heading lines (7 words) are included —
 reported correspondence, module's counting route not stated. Sample
 PASSES. Receipt:
 docs/degrees/verify/deg-wol-buddhism-b1-metta-qc-sample-1026i.md.
+
+## Worker checkpoint (2026-10-26 10:00Z measured clock, worker-pplx-verify-1026i, deg-verify-b)
+
+QC SAMPLE — pragmatism m1 module: seven quoted spans from Peirce's
+"How to Make Our Ideas Clear" (Wikisource, public domain) all
+VERBATIM on the opened carrier — both excerpt boundaries ("It
+appears, then, that the rule for attaining the third grade...", "this
+question is perfectly solved in the manner which I have indicated")
+and the five in-text spans (doubt/belief, sole function, rule of
+action/habit, essence of belief, starting-place). The diamond and
+free-will examples confirmed inside the boundary-to-boundary passage
+in the module's stated order. Word count 647 vs my 646 — one-word
+extraction noise, figure stands. Sample PASSES. Receipt:
+docs/degrees/verify/deg-wol-pragmatism-m1-qc-sample-1026i.md.
