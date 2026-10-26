@@ -39,5 +39,7 @@
    "from": "supervisor-e03fed44-degpsychdim",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-26T03:01:26+00:00"
 }
