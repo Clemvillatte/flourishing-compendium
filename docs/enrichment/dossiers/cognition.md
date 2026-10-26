@@ -218,11 +218,11 @@ The stories that best carry the theme's aspects, each retold in a line.
 
 ### Changing thinking
 
-[ST427 — The Ladder for Unskillful Thoughts](https://clemvillatte.github.io/flourishing-compendium/#card=ST427%20%E2%80%94%20The%20Ladder%20for%20Unskillful%20Thoughts): the Vitakkasanthana Sutta addresses a monk in whom thoughts imbued with desire, aversion or delusion arise, and offers a ladder of responses for relaxing such thoughts.
+[ST389 — The Ladder for Unskillful Thoughts](https://clemvillatte.github.io/flourishing-compendium/#card=ST389%20%E2%80%94%20The%20Ladder%20for%20Unskillful%20Thoughts): the Vitakkasanthana Sutta addresses a monk in whom thoughts imbued with desire, aversion or delusion arise, and offers a ladder of responses for relaxing such thoughts.
 
-[ST419 — Poincare Leaves the Problem and Returns to Check It](https://clemvillatte.github.io/flourishing-compendium/#card=ST419%20%E2%80%94%20Poincare%20Leaves%20the%20Problem%20and%20Returns%20to%20Check%20It): Poincare's mathematical investigation is repeatedly interrupted; the ideas arrive while he is travelling or walking, and he returns to deliberate work to check and finish them.
+[ST374 — Poincare Leaves the Problem and Returns to Check It](https://clemvillatte.github.io/flourishing-compendium/#card=ST374%20%E2%80%94%20Poincare%20Leaves%20the%20Problem%20and%20Returns%20to%20Check%20It): Poincare's mathematical investigation is repeatedly interrupted; the ideas arrive while he is travelling or walking, and he returns to deliberate work to check and finish them.
 
-[ST415 — The Blind Men and the Elephant](https://clemvillatte.github.io/flourishing-compendium/#card=ST415%20%E2%80%94%20The%20Blind%20Men%20and%20the%20Elephant): after monks report sectarians quarrelling, the Buddha tells of a king who has people blind from birth shown different parts of an elephant; each group describes the whole animal from the part it was shown.
+[ST370 — The Blind Men and the Elephant](https://clemvillatte.github.io/flourishing-compendium/#card=ST370%20%E2%80%94%20The%20Blind%20Men%20and%20the%20Elephant): after monks report sectarians quarrelling, the Buddha tells of a king who has people blind from birth shown different parts of an elephant; each group describes the whole animal from the part it was shown.
 
 [ST083 — Neo Takes the Red Pill](https://clemvillatte.github.io/flourishing-compendium/#card=ST083%20%E2%80%94%20Neo%20Takes%20the%20Red%20Pill): offered the blue pill that returns him to comfortable ignorance or the red pill that shows him his world is a simulation, he takes the red pill.
 

@@ -154,7 +154,7 @@ A 2024 replication attempt did not confirm it: "across two studies (N = 443), we
 
 ### Absorption
 
-[The Rock Climbers' Absorption](https://clemvillatte.github.io/flourishing-compendium/#card=ST307%20%E2%80%94%20The%20Rock%20Climbers%27%20Absorption): the flow concept grew out of interviews in which Csikszentmihalyi and his team asked rock climbers, chess players, surgeons and dancers to describe their most absorbing experiences.
+[The Rock Climbers' Absorption](https://clemvillatte.github.io/flourishing-compendium/#card=ST118%20%E2%80%94%20The%20Rock%20Climbers%27%20Absorption): the flow concept grew out of interviews in which Csikszentmihalyi and his team asked rock climbers, chess players, surgeons and dancers to describe their most absorbing experiences.
 
 ### The wider backdrop
 

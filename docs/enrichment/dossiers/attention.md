@@ -221,7 +221,7 @@ A cicada catcher, a marathoner, a painter of grids, a philosopher washing dishes
 
 [ST069 — The Four Foundations](https://clemvillatte.github.io/flourishing-compendium/#card=ST069%20%E2%80%94%20The%20Four%20Foundations): the Satipaṭṭhāna Sutta opens by calling its practice the direct path for the purification of beings: the four frames of reference.
 
-[ST421 — Meghiya Finds the Right Grove and the Wrong Thoughts](https://clemvillatte.github.io/flourishing-compendium/#card=ST421%20%E2%80%94%20Meghiya%20Finds%20the%20Right%20Grove%20and%20the%20Wrong%20Thoughts): Meghiya finds a mango grove that looks ideal for meditation and repeatedly asks to practise there; alone beneath the tree he is troubled by thoughts of sensuality, ill will and harm, and returns to the Buddha.
+[ST376 — Meghiya Finds the Right Grove and the Wrong Thoughts](https://clemvillatte.github.io/flourishing-compendium/#card=ST376%20%E2%80%94%20Meghiya%20Finds%20the%20Right%20Grove%20and%20the%20Wrong%20Thoughts): Meghiya finds a mango grove that looks ideal for meditation and repeatedly asks to practise there; alone beneath the tree he is troubled by thoughts of sensuality, ill will and harm, and returns to the Buddha.
 
 ### Absorption and its varieties
 

@@ -191,7 +191,7 @@ The stories that best carry the theme's aspects, each retold in a line; the full
 
 ### The rock climbers' absorption
 
-[ST307 — The Rock Climbers' Absorption](https://clemvillatte.github.io/flourishing-compendium/#card=ST307%20%E2%80%94%20The%20Rock%20Climbers%27%20Absorption): the original studies began with climbers, chess players, surgeons and dancers; the phenomenology held, with complete absorption, loss of self-consciousness, distorted time, and the activity an end in itself.
+[ST118 — The Rock Climbers' Absorption](https://clemvillatte.github.io/flourishing-compendium/#card=ST118%20%E2%80%94%20The%20Rock%20Climbers%27%20Absorption): the original studies began with climbers, chess players, surgeons and dancers; the phenomenology held, with complete absorption, loss of self-consciousness, distorted time, and the activity an end in itself.
 
 ### The single instruction
 
