@@ -153,3 +153,29 @@ VERIFIED-ON-OPEN-ROUTE; no page edits needed. Remaining UNRESOLVED items
 are the paywalled/blocked carriers (T&F, SAGE, OUP, Collabra) plus the
 PDF-artifact items already adjudicated above.
 
+## Addendum 2 (2026-10-26, clock 00:29Z, worker-pplx-deg-gate-1026a — verification assist)
+
+Three more UNRESOLVED carriers cleared, live fetches this session, all
+quotes VERBATIM:
+
+- lifes-purpose (Steger, Meaning in Life, Oxford Handbook of Positive
+  Psychology): the Comprehension definition sentence present verbatim on
+  the [OUP chapter-abstract page](https://academic.oup.com/edited-volume/28153/chapter-abstract/212977120).
+- lifes-purpose (Ostafin, Papenfuss and Vervaeke 2022): the mattering
+  wording "their existence is of significance, importance, and value to
+  the world" present verbatim on the [T&F full-text page](https://www.tandfonline.com/doi/full/10.1080/10615806.2021.1994556)
+  — this carrier was blocked for the sweep's fetchers and opened here.
+- lifes-purpose (Wrzesniewski et al. 1997): the three-orientation sentence
+  and the n=196 scope confirmed verbatim on the
+  [Semantic Scholar record](https://www.semanticscholar.org/paper/Jobs,-Careers,-and-Callings:-People's-Relations-to-Wrzesniewski-McCauley/eb983573d298ba1b837e5fb2a2867b51b464e8ff)
+  (the 24-assistants sentence is in the record's abstract continuation).
+- wisdom-adjacent (Yaden et al. 2017, Self-transcendent experiences): the
+  SAGE abstract sentence identifying mindfulness, flow, peak experiences,
+  mystical-type experiences and positive emotions (love, awe) confirmed on
+  the [SAGE page](https://journals.sagepub.com/doi/10.1037/gpr0000102).
+
+Disposition: the lifes-purpose UNRESOLVED set is now fully cleared (5/5
+carriers verified on open routes). Remaining UNRESOLVED: executive-functions
+(T&F 17470218), meaning-and-mortality (Collabra ucpress), shame-and-guilt
+rest, wisdom rest (T&F/SAGE others) — attempts continue.
+
