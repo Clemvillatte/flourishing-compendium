@@ -142,3 +142,66 @@ released, non-live baton band (dosr2, dosr3, dosr5 files) is adjudicated;
 gratitude/right-effort/right-intention remain for the supervisor holding
 dosr1, and the dosr4/dosr6/dosr7 owners adjudicate their own during their
 passes.
+
+# CORRECTIONS (final verification round, 2026-10-26 02:34Z measured) — supersedes errors above
+
+An advisor audit of this report found reporting errors and over-certifications.
+The corrections below are the accurate record; where an entry above disagrees,
+this section governs.
+
+1. Adjudication counts: the session adjudicated 10 automated non-matches in
+   total — 3 in cognition.md, 4 in attention.md, 2 in right-view.md, 1 in
+   right-mindfulness.md. Of those, 8 were false positives (blocked fetchers,
+   OCR noise) and 2 were real deviations repaired (cognition: Hayes semicolon;
+   right-mindfulness: Goyal 'reductions in'). The earlier '7 false positives
+   and 2 real deviations' tally was wrong, as was the per-file/span
+   explanation of the attention count: QC-BAND-QUOTE-MAP-2026-10-26.md
+   recorded 2 for attention; this session's re-run of
+   scripts/dossier_quote_verify.py reports 4 non-matching spans in that file;
+   the cause of the discrepancy is not established here.
+2. Fetch freshness: the DKR 1999 abstract (eutils), the Langner and Lutz PMC
+   pages, the Goyal PMC page, the Lavie PDF, the Kalupahana PDF and the
+   Kathāvatthu djvu text were fetched fresh by direct download; the Cameron
+   PMC page, the MN 60 page, the DN 2 page and the Rousseau Gutenberg page
+   were served from cache. The 'fresh fetches (no cache)' claims above are
+   corrected accordingly.
+3. Tversky and Kahneman 1974: NOT certified against the paper's own text.
+   Verified against PubMed's abstract rendering (PMID 17835457, fetched
+   fresh via eutils this session), which prints 'judgements' where the
+   dossier carries 'judgments'; the paper's own text was not opened (the UCI
+   reproduction cited in search results returns 404). The match is certified
+   against the index rendering only, and the 'matches the paper's own text'
+   claim above is withdrawn.
+4. MMK 15.1-2 (Kalupahana): NOT fully certified. Verse 1's wording and the
+   'Indeed, an unmade self-nature is also non-contingent upon another'
+   sentence were located in the scan's OCR layer, but the contiguous 15.1-2
+   rendering could not be confirmed as a single printed passage; the quote
+   remains verified only in parts.
+5. Lavie 2005: certified by direct visual inspection — page 1 of the
+   labs.wsu.edu PDF was rendered to an image and read; both quoted passages
+   print exactly as the dossier quotes them, including the 'early- and
+   late-selection' hyphenation and 'task-relevant'. (Earlier entry claimed
+   this from extraction artifacts; now grounded in the rendered page.)
+6. Sample scope: the freedom and right-view samples above are now two-sided
+   quote spot-checks — Constant (archive.org djvu text,
+   https://archive.org/download/benjamin-constant-the-liberty-of-the-ancients-compared-with-that-of-the-moderns-1820/Benjamin%20Constant%20-%20The%20Liberty%20of%20the%20Ancients%20compared%20with%20that%20of%20the%20Moderns%20%5B1820%5D_djvu.txt)
+   and Rousseau (https://www.gutenberg.org/files/46333/46333-h/46333-h.htm)
+   both verified verbatim; MN 60 (https://www.accesstoinsight.org/tipitaka/mn/mn.060.than.html)
+   and DN 2 (https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html)
+   both verified verbatim. They remain quote spot-checks, not a full
+   adjudication of each verdict's argument structure. On motivation Q1, one
+   nuance belongs in the record: Cameron et al.'s 'not harmful' conclusion
+   carries a low-interest-task carve-out ('rewards given for low-interest
+   tasks enhance free-choice intrinsic motivation'), so the two bottom lines
+   oppose each other on the same outcome measure with Cameron's general
+   claim conditional; the PASS reading stands, with that condition noted.
+7. Timestamps: entries above headed with estimated times are approximate;
+   the governing times are the commit timestamps of the corresponding pushes
+   on origin/main (92dbbce, efd958d, 7299cec, 98ff67f, ba2b64b, 89d74f4,
+   e43d2ad, 58bd241, f06339f, ad88b42, 8c8c9e5, 3f0d025, 0aef28e, c233680,
+   f10385c and this session's later commits).
+8. Also corrected elsewhere this round: the dosr3 batch record's
+   certifications for cognition Q2/Q3 and goals Q1 (downgraded to
+   documented/not-certified — see docs/enrichment/batches/dosr3.json), and
+   the agency dossier paragraph now presents the Gould exchange as the
+   reply's account rather than certifying Gould's side.
