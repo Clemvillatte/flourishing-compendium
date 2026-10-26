@@ -357,7 +357,7 @@ no evidence criteria.
   two readings, 1,036 words; at 130 words per minute (dense translated
   text with new concepts) about 8 minutes raw; with study overhead
   as a three-times multiplier, about 24 minutes (estimate, labelled).
-- Module teaching prose on this page (2,922 words measured, excluding
+- Module teaching prose on this page (2,937 words measured, excluding
   the rubric table rows and this arithmetic section): at 180 words
   per minute about 16 minutes raw; with study overhead as a
   three-times multiplier, about 49 minutes (estimate, labelled).

@@ -1448,3 +1448,15 @@ receipt. Re-verified quotes in Step 2's marking list against the
 fetched source: unchanged. Workload ~3h20 remains within the
 original band. Route: unchanged, supervisor module-QC with m1-m3 and
 m5; the video content-verification items remain with deg-verify-a.
+
+## m4 prose-count re-measurement (2026-10-26, supervisor-pplx-1026c-daoism)
+
+Self-verification pass on my own recent items: the module's stated
+prose-count method ("excluding the rubric table rows and this
+arithmetic section") re-applied to the current canonical m4 gives
+2,937 words, not the printed 2,922 (the prose grew slightly in the
+QC repairs after the original measurement). Figure corrected in the
+module; the derived minutes are unchanged (2,937 / 180 = about 16
+raw; x3 about 49). m5's printed prose count re-checked the same way:
+2,141 exact, no change. m5 quote figures unchanged (verify-b
+receipt). No other numbers in either module changed this pass.
