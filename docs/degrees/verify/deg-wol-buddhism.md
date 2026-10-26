@@ -105,3 +105,88 @@ evidence):
 Sample result: no defects found; the three sampled YouTube identities
 match; SuttaCentral left to the owner's evidence with the limitation
 noted.
+
+## BG-5 verification: Dreyfus Four Noble Truths session 1, new URL
+
+(2026-10-26, clock 05:50-06:05Z.) The owner's ledger asks the
+verification lane to confirm transcript coverage on the new URL before
+the Dreyfus session can carry a module (BG-5, highest-value item).
+
+### B-V01: [#1: Apr 23, 2024] The Four Noble Truths - Georges Dreyfus
+
+- URL: https://www.youtube.com/watch?v=DLPsIhDWZp4 (Shantideva Center,
+  FPMT channel).
+- Identity: oembed and the watch page agree on title and channel;
+  watch page opened anonymously this session (published 2024-04-23).
+- Content coverage (third-party transcript route, youtubetotranscript.com,
+  opened this session): the session teaches the FIRST noble truth
+  (dukkha) ONLY — Dreyfus states the next session covers the origin of
+  suffering and the third session the last two truths (three-session
+  course structure confirmed). The dukkha teaching runs from early in
+  the talk through the middle and remainder; the three types of
+  suffering (of suffering, of change, of conditioned existence) are
+  covered, tied to birth/aging/illness/death, the five aggregates,
+  impermanence, no-self and emptiness. The homeodynamic-system analogy
+  IS in the talk ("homeodynamic" is the speaker's own term;
+  balance/out-of-balance/recovering-balance states) — the b2 module's
+  marking of it as his vocabulary is correct. The transcript carries NO
+  timestamps; the module's segment timestamps (00:17-00:40) rest on the
+  inherited record and could not be re-verified from this environment.
+- Duration reconciliation (the owner flagged a discrepancy): watch-page
+  extraction THIS session reads 1:20:34; the inherited M02-B04 record
+  says 1:20:35 (1-second difference); the owner's cloud-browser
+  observation said 1:25:04. Player-total convention plus two agreeing
+  reads (1:20:34/35) make about 1:20:34-35 the better-supported figure;
+  the 1:25:04 reading is unexplained (possibly a different UI element
+  in the cloud browser) and the module's printed figure should be
+  corrected to the reconciled value or carry a stated basis.
+- Instructor credentials: not re-opened this session (inherited M02-B04
+  basis stands; the deg-verify-b boundaries receipt carries the
+  Williams College catalogue record).
+- Status: verified-video on the new URL (identity, access, content
+  coverage via transcript, duration reconciled to 1:20:34 with a
+  1-second tolerance); the module's timestamped segment boundaries
+  remain inherited-record-based — the owner should re-read them from
+  the player before the module ships, or drop the timestamps.
+
+## m1-four-truths source corroboration (2026-10-26, clock 06:00-06:10Z)
+
+### B-V02: Ajahn Brahm, "What the Buddha Taught" (Everyday Dhamma
+remaster)
+
+- URL: https://www.youtube.com/watch?v=W6pGAvtBmCw
+- Identity: oembed confirms the video on the Everyday Dhamma Network
+  channel, title "What the Buddha Taught | Ajahn Brahm | Ajahn Brahm
+  Podcast".
+- Corroboration: the Everyday Dhamma episode page
+  (https://everydaydhamma.net/podcast/ajahn-brahm-podcast/episode/what-the-buddha-taught-ajahn-brahm,
+  opened this session) confirms duration 49:44 (matches the owner's
+  record and the module's arithmetic), published 2023-11-05,
+  originally recorded 21 November 2003 at Dhammaloka (matches the
+  owner), free distribution by BSWA under Creative Commons
+  Attribution-NonCommercial-NoDerivs 4.0, and an episode description
+  matching the owner's coverage note (rebirth, kamma/vipaka, the Four
+  Noble Truths; the talk's enlightenment-night framing). The page
+  carries an AI-generated transcript marked "expect errors"; the
+  owner's excerpt readings came from it.
+- The video-page chapters the owner read in the cloud browser (Four
+  Noble Truths at 37:33 etc.) were NOT re-readable from this
+  environment (watch page JS-blocked here); the owner's record stands.
+- Instructor credentials: the owner verified on the BSWA institutional
+  page (bswa.org/teachers/ajahn-brahm); not re-opened this session.
+- Status: verified-video (identity, access, duration, coverage
+  corroborated); chapter timestamps rest on the owner's cloud-browser
+  read.
+
+## REPO DEFECT FLAG (for the supervisor, 2026-10-26 clock 06:05Z)
+
+docs/degrees/ledgers/deg-wol-buddhism.md ON ORIGIN/MAIN carries
+unresolved merge-conflict markers (<<<<<<< HEAD at line 102, =======
+at 187, >>>>>>> at 214, verified against origin/main this session).
+The buddhism owner's rebase conflict resolution pushed broken content;
+the file mixes two ledger states (the b1/b2 record and the module-map
+record). The verifier band cannot repair another band's file; routing
+to the supervisor or the degree owner to resolve and re-push. Note
+also the module-id coexistence (b1-ethics-first-orientation and
+b2-four-noble-truths alongside m1-four-truths) — presumably a
+supersession the owner will reconcile at module-QC.
