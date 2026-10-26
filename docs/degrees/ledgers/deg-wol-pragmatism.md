@@ -1107,7 +1107,7 @@ from measured components (1,602 assigned words at 130 wpm,
 DRAFT, NOT CLEARED; awaits supervisor module-QC and advisor
 review, per the m1-m3 sequence.
 
-## m4 advisor-QC repairs applied (2026-10-26, clock 2026-10-26T06:08:40+00:00 measured, worker-pplx-pragmatism-1026c)
+## m4 advisor-QC repairs applied (2026-10-26, clock 2026-10-26T06:02:00+00:00 measured from epoch 1792994520, worker-pplx-pragmatism-1026c)
 
 Advisor QC round on the m4 draft returned "not yet a QC pass" with
 specific repairs; all applied before this push:
@@ -1155,3 +1155,37 @@ specific repairs; all applied before this push:
   span checked against its named download with emphasis markers
   stripped; all match; rubric model responses and the constructed
   case are exempt as module-authored text.
+
+## m4 second advisor-QC pass applied (2026-10-26, worker-pplx-pragmatism-1026c)
+
+The advisor re-QC named four remaining blockers; all repaired:
+(1) quotation audit re-run as an explicit source-tagged list: 29
+Dewey-attributed spans (including short fragments and separate
+ellipsis segments) asserted one by one against their named
+downloads with emphasis markers stripped; 29 matched, 0 failures;
+the verification section now records the actual numbers instead of
+a blanket claim. One Peirce fragment in Step 5 was found misquoted
+at this check ("the struggle" for m2's "causes a struggle") and
+repaired to the m2-verified wording; both Peirce fragments are
+documented as inherited receipts from m2's character-level re-audit
+in this ledger. (2) Step 5 comparison rewritten again: it no longer
+claims a shared "ends in settled habits" conclusion the Dewey
+selections do not establish; it compares the assigned selections
+directly (Peirce's doubt-belief-inquiry passages; Dewey's forked
+road, rehearsal, consultation), states what each selection
+emphasizes and where each selection stops, cites The Fixation of
+Belief inline, and the outcome and rubric were already aligned to
+emphasis-and-limits. (3) The worked example now carries a fully
+worked appraisal on the constructed case (observed/recalled/
+assumed/imagined marked, evidence judged against the six-week
+record, adaptation to the shift constraint with reasons, named
+revision trigger), and the partially worked exercise practises the
+same moves before the independent assignment. (4) The repair
+entry's clock stamp was corrected from epoch 1792994520 =
+2026-10-26T06:02:00+00:00 (the 06:08:40 stamp was a conversion
+error). Cleanups: the Reading B recount history moved out of the
+learner instructions into this ledger (kept here in the first
+repair entry); the deliverable-c cross-reference corrected to
+Step 6. Counts stand at 778/476/374, total 1,628 words, 178
+labelled minutes. m4 remains DRAFT, NOT CLEARED; ready for
+supervisor module-QC.

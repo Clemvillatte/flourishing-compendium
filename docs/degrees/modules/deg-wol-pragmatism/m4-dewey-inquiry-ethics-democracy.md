@@ -90,9 +90,7 @@ section "The Nature of Deliberation": the contiguous passage that begins
 "Our first problem is then to investigate the nature of ordinary
 judgments" and ends "the object is that which objects" (476 words
 measured on the downloaded plain text by pinned opening and closing
-strings, whitespace-normalized; an earlier line-number count of this
-passage returned 449 and was found wrong at the string check,
-corrected here).
+strings, whitespace-normalized).
 
 Deliberation, in his words: "deliberation is a dramatic rehearsal (in
 imagination) of various competing possible lines of action." It starts
@@ -194,46 +192,70 @@ irritated. Call them A and B.
    assumption until checked: A imagines B hearing the proposal as a
    verdict, and checking that assumption, by asking or by watching the
    next episode, belongs to the inquiry, not to the imagination
-   alone.
+   alone. The worked appraisal, run on the constructed case:
+   observed, the rota has failed to be raised in three of the last
+   six weekly reconciliations, and both people were present at each
+   missed one; recalled, A's previous flat kept a rota for two years
+   without a missed week; assumed, that B hears the rota as a verdict
+   on B's effort (this is an assumption until checked, and the next
+   conversation can check it); imagined only, that a strict rota
+   would end the friction. Evidence judgment: the observed record
+   supports the explanation that the friction follows the missed
+   reconciliations rather than the rota question itself, but the
+   sample is six weeks and the recall is from a different flat with
+different people, so the explanation stays provisional. Adaptation
+   with reasons: A adapts the proposal to the constraint that B
+   works irregular shifts, proposing the rota with a swap clause
+   and a two-week trial, because the observed record shows the
+   misses cluster where shifts change. Revision trigger: if the
+   trial record shows misses continuing at shift changes under the
+   rota, the explanation and the proposal are both revised, and
+   the forked-road question is reopened.
 2. Steps named (partially worked). Take the stipulated next episode: B
    skipped the shared-costs reconciliation again. Write the forked-road
    question for this episode, one suggestion from each person's past
    experience, the rehearsal of B opening the conversation, and the
-   appraisal of what is testable. Feedback to check against once you
+   appraisal: mark each item in your write-up as observed, recalled,
+   assumed or imagined only, judge what the record supports, and
+   name your revision trigger. Feedback to check against once you
    have written yours: a strong piece names the forked road as a
    question, gives each person's suggestion from their own experience,
-   runs the rehearsal until it meets an object that rebuffs it, and
-   separates what a record could settle from what reasons,
-   circumstances and consequences bear on.
+   runs the rehearsal until it meets an object that rebuffs it,
+   marks the appraisal's material as observed, recalled, assumed or
+   imagined, and separates what a record could settle from what
+   reasons, circumstances and consequences bear on.
 3. Independent (the graded deliverable). Take one recurring
    disagreement of your own, with a partner, a parent, a colleague or
    a flatmate. Write the full pattern: forked-road question, suggestions,
    rehearsal of your next move in it, and the appraisal. Deliverable c
-   in Step 5 is this piece, written up cleanly.
+   in Step 6 is this piece, written up cleanly.
 
 ### Step 5: the comparison (Outcome 4)
 
 Re-read your m2 notes on Peirce (doubt disrupts the habit of belief;
 inquiry is the struggle to settle belief; the maxim traces a
-conception's meaning through its conceivable practical effects;
-m2-belief-and-doubt.md in this walk's modules). Write the comparison
-on the same question: where inquiry starts, and what ends it. Ground
-both sides in what you were assigned: for Peirce, the m2 passages
-(doubt as an uneasy and dissatisfied state, belief as a habit that
-guides action, inquiry as the struggle to settle opinion); for Dewey,
-the three readings of this module. Where they agree, on the evidence
-of both assignments: inquiry starts from a real disruption, not from
-a general duty to reflect, and it ends in a settled habit, since
-Peirce's belief already is an action-guiding habit. What each
-emphasizes: Peirce gives the logical test, the maxim, for what a
-conception means; Dewey starts from the disruption as a trouble in
-living, a blocked course of activity, and follows the settlement
-into deliberation among competing goods and into shared problems.
-Where each reaches its limit: the m2 passages stop at the logic of
-belief and do not follow inquiry into deliberation or shared
-problems; Dewey's passages in this module supply no logical test like
-the maxim. Take your own position on which account you would use on
-your case, and why. Deliverable d is this piece.
+conception's meaning through its conceivable practical effects),
+from [The Fixation of
+Belief](https://en.wikisource.org/wiki/The_Fixation_of_Belief) as
+assigned in m2-belief-and-doubt.md. Write the comparison on the same
+question: where inquiry starts, and what ends it. Ground both sides
+in the selections you were actually assigned, and compare those
+selections directly: for Peirce, the m2 passages (doubt "is an uneasy
+and dissatisfied state", belief a habit that guides action, inquiry
+"a struggle to attain a state of belief"); for Dewey, the three
+readings of this module (the forked road, the dramatic rehearsal,
+the consultation that uncovers needs). Where the selections agree:
+inquiry starts from a real disruption, not from a general duty to
+reflect. What each selection emphasizes: Peirce's gives the logical
+shape of how belief settles and, with the maxim from m2, a test for
+what a conception means; Dewey's starts from the disruption as a
+trouble in living, a blocked course of activity, and follows the
+settlement into deliberation among competing goods and into shared
+problems. Where each selection stops: the m2 passages stop at the
+logic of belief and do not follow inquiry into deliberation or
+shared problems; Dewey's passages in this module supply no logical
+test like the maxim. Take your own position on which selection you
+would use first on your case, and why. Deliverable d is this piece.
 
 ### Step 6: practice and assessment (all outcomes)
 
@@ -382,16 +404,23 @@ session:
   Chapter I sentence defining the public was confirmed verbatim on
   the downloaded text.
 
-Quote control, actual result: every Dewey-attributed quotation in this
-module was checked as an explicit list against its named source
-download, with italic underscores read as emphasis markers and
-stripped, and whitespace normalized. All source-attributed spans match
-their sources; three inaccuracies were found and repaired at earlier
+Quote control, actual result: the module's Dewey-attributed
+quotations were asserted one by one against their named source
+downloads, including short fragments and separate ellipsis segments,
+with italic underscores read as emphasis markers and stripped, and
+whitespace normalized: 29 source-tagged spans checked, 29 matched,
+0 failures. Three inaccuracies were found and repaired at earlier
 checks (a misquoted verb in the boot-straps sentence, a colon and
 attribution boundary in the Tilden sentence, and a mid-sentence quote
 stop). The rubric's model responses and the worked example's
 constructed case are the learner's or the module's own words, not
-Dewey's, and are exempt.
+Dewey's, and are exempt. The m1 reflective-thought definition is
+quoted here only up to its ellipsis, as in m1. The two Peirce
+fragments in Step 5 (doubt "is an uneasy and dissatisfied state";
+"the struggle to attain a state of belief") are quoted from The
+Fixation of Belief as verified in m2, whose character-level quotation
+re-audit is recorded in this band's ledger; they are inherited
+receipts, not re-opened this session.
 
 Video-first check: a focused search for a credentialed lecture video
 covering this module's material found candidate groups recorded in the
