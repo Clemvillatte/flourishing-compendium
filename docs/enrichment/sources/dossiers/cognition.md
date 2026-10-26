@@ -806,9 +806,11 @@ presentation: both sides' central images now appear in their own words
 on opened carriers. The images do not by themselves prove the positions
 incompatible — the dossier keeps its compatibility analysis.
 
-Quote-verify note (same session): 29 checked / 7 not found after the
-upgrade, all 7 accounted for: 2 pre-existing blocked-host Tversky-
-Kahneman spans, 3 pre-existing OCR fused-word Rupert spans (page-image
+Quote-verify note (same session): FINAL RUN after the mechanisms
+paragraph received its citation URL: 31 checked / 7 not found, all 7
+accounted for: 2 pre-existing blocked-host spans (one Tversky-Kahneman
+span on science.org, one Gigerenzer 1996 span on the Columbia-hosted
+PDF), 3 pre-existing OCR fused-word Rupert spans (page-image
 verified), 1 OpenAlex API span for the Haidt 2003 reply abstract
 (API-fetched carrier; independently re-verified by eye twice this
 session), and 1 image-scan exception for the Haidt 2001 p. 830 span
