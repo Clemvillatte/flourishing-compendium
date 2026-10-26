@@ -53,9 +53,12 @@ consistent with outcome 3's allowance for outside harm and uncertainty.
 - The Kirchner Buddhist Society series receipt was upgraded from
   search-discovered to directly opened (cloud browser, 04:57-04:58Z):
   lecture titles, dates, Lecture 1 outline and the full biography
-  confirmed on the institutional page. Lecture 3's description
-  attribution (the Rinzai/Soto meditation text) is still pending a full
-  outline read.
+  confirmed on the institutional page. RESOLVED at 05:09Z: the
+  Rinzai/Soto meditation description was directly read on the opened
+  page and belongs to Lecture 3, "Thoughts on Meditation" (3rd July);
+  the Lecture 2 description (What Can Christianity Offer Zen?) was also
+  read in full. The receipt is complete; only the video-page verification
+  remains owed.
 - The Fronsdal receipt now records that the 2007 course transcripts and
   the 2026 AudioDharma recordings are different editions; the
   recordings are not confirmed transcript-backed.
