@@ -1,3 +1,36 @@
+## Worker checkpoint (2026-10-26 02:51Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
+CORRECTIONS ROUND 2 (advisor-routed; final): (1) RETRACTION — the
+Online disinhibition "appears to" defect finding is WITHDRAWN: the
+page's "anonymity appears to lead to more positive self-disclosure" is
+unquoted paraphrase prose, not a quotation; a cautious qualifier in a
+paraphrase is not an inserted-word misquotation. The SAGE-quoted spans
+remain verified verbatim; the DiVA thesis claim is a paraphrase and
+was not re-checked. (2) Perspectivism: the full GS 299 continuation
+span ("For this fine power of theirs usually ceases with them where
+art ceases and life begins; we, however, want to be the poets of our
+lives...") is confirmed verbatim via a direct fetch of the Gutenberg
+text; the earlier entry's claim that the page reproduces the carrier's
+italicized _we_ is corrected — the page renders plain "we". (3) Peak
+experiences: the Sefaria confirmation was obtained via a prompted
+fetch, not unprompted content; wording corrected. (4) Paradigm
+shifts: the printed "gesalt" (verified in the rendered page image) vs
+the page's "gestalt" observation stands; how to handle it (sic,
+edition note, or silent correction) is left to the quotation protocol
+and repair lane. (5) Carrier-failure wording standardized: the
+Patience/Schnitker, Sokolov/Springer, and Opponent-Process/Springer
+spans were "not re-verified through the attempted routes" (not
+"unverifiable"); the Peak-experiences oaks.nvg.org carrier "returned a
+server error during this check" (not "dead"). (6) Session tally: 34
+concept pages sampled + 2 flag checks (Practical wisdom, resolved
+from the verification side; Self-compassion, punctuation alignment
+routed). (7) TASKBOARD repair completed: the 582KB duplicated suffix
+introduced by my restoration commit was removed (d37183d4); the
+supervisor's own corrected META-QC entry is retained exactly once;
+full-body audit across 40 commits shows 0 losses, 0 markers, 0
+duplicates (only my 2 intentionally corrected headers differ from
+their historical versions).
+
 ## Worker checkpoint (2026-10-26 02:47Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
 
 QC SAMPLE — concept page Perspectivism (complete: all quoted spans and
