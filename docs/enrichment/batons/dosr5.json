@@ -1,7 +1,7 @@
 {
  "baton": "dosr5",
- "agent": "worker-pplx-dosr5-1026b",
- "clocked_in": "2026-10-26T02:22:14+00:00",
+ "agent": "worker-pplx-dosr6-1026r",
+ "clocked_in": "2026-10-26T09:33:27+00:00",
  "takeovers": [
   {
    "by": "sup-1026b-worker",
@@ -20,8 +20,12 @@
    "at": "2026-10-26T02:22:14+00:00",
    "from": "worker-pplx-pragmatism-1026a",
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-dosr6-1026r",
+   "at": "2026-10-26T09:33:27+00:00",
+   "from": "worker-pplx-dosr5-1026b",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-26T02:24:11+00:00"
+ ]
 }
