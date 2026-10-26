@@ -64,9 +64,9 @@
       "sources": []
     },
     {
-      "topic": "Compassion meditation \u2014 loving-kindness, tonglen",
+      "topic": "Compassion meditation",
       "module": "mod-cont-4",
-      "status": "MISSING",
+      "status": "PARTIAL \u2014 Brown M&C names kindness, compassion, forgiveness, sympathetic joy; loving-kindness and tonglen are PENDING (not in the opened Brown syllabus)",
       "sources": []
     },
     {
@@ -207,5 +207,6 @@
       "status": "MISSING",
       "sources": []
     }
-  ]
+  ],
+  "reconciliation_note": "Reconciled with the corrected deg-contemplative.md this session (QC pass 7): tonglen and loving-kindness removed from the compassion meditation row (not in the opened Brown syllabus); focused attention/open monitoring verified against the UO PSY 407 Class Project section; MBCT removed from clinical applications (the Brown syllabus establishes MBSR only); 45 min/day corrected to a recommendation with pathway-specific minimums; institutional framing fixed (UVA courses with PDFs hosted by Brown); SEARCH-RESULT-SOURCED rows moved to UNVERIFIED CANDIDATES."
 }
