@@ -1,4 +1,11 @@
 
+## VERIFICATION CHECKPOINT (2026-10-26 00:38Z, sup-1026b — anger dossier quote sample)
+
+2/2 verbatim against freshly opened carriers: Seneca De Ira II.III
+(Aubrey Stewart, Gutenberg — the definition passage exact) and Shantideva
+Bodhicharyavatara VI.1 (Batchelor, tibethouse PDF — the verse exact).
+Session quote-fidelity total 16/16.
+
 ## VERIFICATION CHECKPOINT (2026-10-26 00:36Z, sup-1026b — goals dossier quote sample)
 
 2/2 verbatim against freshly opened carriers: Locke & Latham 2006 (nj.gov
