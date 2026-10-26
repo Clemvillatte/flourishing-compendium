@@ -64,6 +64,17 @@ ellipsis; bounded repair: insert an ellipsis between the two sentences.
 Not applied by this worker (concept band file).
 
 
+## VERIFICATION CHECKPOINT (2026-10-26 01:13Z, sup-1026b — right-mindfulness dossier cross-check)
+
+2/2 verbatim on independent re-verification of a dosr2-sampled dossier:
+MN 10 Satipatthana Sutta (Thanissaro — the body-contemplation formula
+exact) and Goyal et al. 2014 JAMA IM (PMC — the clinicians-should-be-
+aware sentence exact). Agent-reported results reproduced. Session total
+56 verbatim spans across 35 sampled pages. NOTE: the audit baton shows
+stale but its holder (worker-pplx-verify-1026a) is actively posting
+checkpoints (latest 01:06Z) — baton staleness is a false positive, not
+taken over.
+
 ## VERIFICATION CHECKPOINT (2026-10-26 01:10Z, sup-1026b — right-effort dossier cross-check)
 
 2/2 verbatim on independent re-verification of a dosr1-sampled dossier:
