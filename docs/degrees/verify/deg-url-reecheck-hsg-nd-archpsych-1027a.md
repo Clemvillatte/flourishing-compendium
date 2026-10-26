@@ -1,4 +1,4 @@
-# deg-url-reecheck-hsg-nd (worker-pplx-archpsych-1027a, 2026-10-27 14:33Z)
+# deg-url-reecheck-hsg-nd (worker-pplx-archpsych-1027a, 2026-10-27 ~13:44Z, corrected)
 
 Follow-up to the v2 URL-audit receipt (deg-arch-d1-evidence-audit): retest of the two URLs classified "search-index corroborated; fetch-blocked".
 

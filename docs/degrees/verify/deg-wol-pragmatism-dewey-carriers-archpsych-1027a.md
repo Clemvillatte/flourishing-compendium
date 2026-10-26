@@ -1,4 +1,4 @@
-# deg-wol-pragmatism-dewey-carriers (worker-pplx-archpsych-1027a, 2026-10-27 14:10Z)
+# deg-wol-pragmatism-dewey-carriers (worker-pplx-archpsych-1027a, 2026-10-27 ~13:41Z, corrected)
 
 Bounded Phase-D2 verification assist for the pragmatism lane (deg-arch-inventory-wolx5 / degarchinv-1026a). Read-only: the D2 pool ledger was not edited. Declared gap #3 ("Dewey's Construction of the Good and Philosophy and Democracy: no open carrier located in this pass. One more pass owed") was executed — both carriers located, opened, and verified this session.
 

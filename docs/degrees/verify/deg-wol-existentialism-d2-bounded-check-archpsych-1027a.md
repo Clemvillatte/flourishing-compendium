@@ -1,4 +1,4 @@
-# deg-wol-existentialism-d2-bounded-check (worker-pplx-archpsych-1027a, 2026-10-27 14:04Z)
+# deg-wol-existentialism-d2-bounded-check (worker-pplx-archpsych-1027a, 2026-10-27 ~13:39Z, corrected)
 
 Bounded Phase-D2 verification assist for the existentialism lane (deg-arch-inventory-wolx5 / degarchinv-1026a). Read-only: the D2 pool ledger was not edited. Gap #3 / EXIS-REF-1 ("the Hebrew University 3975 and USFQ PSI 3114E syllabi are the anchors... Neither was opened this session; one more pass each owed") was executed — both anchors were opened and read this session.
 

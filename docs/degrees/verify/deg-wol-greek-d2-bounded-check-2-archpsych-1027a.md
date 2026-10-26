@@ -1,4 +1,4 @@
-# deg-wol-greek-d2-bounded-check-2 (worker-pplx-archpsych-1027a, 2026-10-27 14:22Z)
+# deg-wol-greek-d2-bounded-check-2 (worker-pplx-archpsych-1027a, 2026-10-27 ~13:42Z, corrected)
 
 Bounded Phase-D2 verification assist for the Greek lane (deg-arch-inventory-wolx5 / degarchinv-1026a), second pass. Read-only: the D2 pool ledger was not edited. The pool's remaining owed routes — the MIT Classics alternate route, the Aristotle text pass, and the Presocratics pass — were executed as verification receipts. (Note: the owner's 2026-10-26 ruling retargeted D2 to teaching content; these text-carrier passes are recorded because the pool itself lists them as owed next actions, and the receipts are read-only. These findings locate supplementary open texts — they do NOT by themselves close D2 teaching-content gaps, which need teaching carriers under the ruling.)
 
