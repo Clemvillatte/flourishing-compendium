@@ -51,5 +51,7 @@
    "from": "worker-pplx-greek-1026g",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-26T10:03:27+00:00"
 }
