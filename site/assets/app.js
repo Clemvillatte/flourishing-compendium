@@ -8449,7 +8449,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"According to HEMC, we can properly understand the traditional subject's cognitive processes only by taking into account how the agent exploits the surrounding environment to carry out her cognitive work. In contrast, HEC implies that, for many purposes, we should set aside our focus on the traditional subject: the unit of analysis should be the organism and certain aspects of its environment treated together, as a single, unified system.\" ([Rupert, \"Challenges to the Hypothesis of Extended Cognition\", Journal of Philosophy 101(8), 2004, p. 395](http://web.archive.org/web/20250515152345id_/https://philarchive.org/archive/RUPCTT))",
+          "x": "\"According to HEMC, we can properly understand the traditional subject's cognitive processes only by taking into account how the agent exploits the surrounding environment to carry out her cognitive work. In contrast, HEC implies that, for many purposes, we should set aside our focus on the traditional subject: the unit of analysis should be the organism and certain aspects of its environment treated together, as a single, unified system.\" ([Rupert, \"Challenges to the Hypothesis of Extended Cognition\", Journal of Philosophy 101(8), 2004, p. 395](https://home.cs.colorado.edu/~mozer/Teaching/syllabi/3702/readings/Rupert2004.pdf))",
           "s": null
         },
         {
@@ -8458,7 +8458,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Of great dialectical importance will be the question whether we can make do with HEMC, or whether HEC offers superior explanations of the phenomena of interest to cognitive scientists. If HEC does not, then all other things being equal, we should endorse HEMC over HEC, by dint of the methodological principle of conservatism.\" ([Rupert 2004, p. 395](http://web.archive.org/web/20250515152345id_/https://philarchive.org/archive/RUPCTT))",
+          "x": "\"Of great dialectical importance will be the question whether we can make do with HEMC, or whether HEC offers superior explanations of the phenomena of interest to cognitive scientists. If HEC does not, then all other things being equal, we should endorse HEMC over HEC, by dint of the methodological principle of conservatism.\" ([Rupert 2004, p. 395](https://home.cs.colorado.edu/~mozer/Teaching/syllabi/3702/readings/Rupert2004.pdf))",
           "s": null
         },
         {
@@ -8467,7 +8467,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"adopting the past-endorsement criterion undercuts HEC's motivation, by offering a picture of cognition that seems to fit better into the explanatory framework offered by HEMC.\" ([Rupert 2004, p. 402](http://web.archive.org/web/20250515152345id_/https://philarchive.org/archive/RUPCTT))",
+          "x": "\"adopting the past-endorsement criterion undercuts HEC's motivation, by offering a picture of cognition that seems to fit better into the explanatory framework offered by HEMC.\" ([Rupert 2004, p. 402](https://home.cs.colorado.edu/~mozer/Teaching/syllabi/3702/readings/Rupert2004.pdf))",
           "s": null
         },
         {
@@ -8476,7 +8476,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"adopting HEC results in a significant loss of explanatory power or, at the very best, yields only an unmotivated reinterpretation of results that can, at little cost, be systematically accounted for within a more conservative framework.\" ([Rupert 2004, p. 390](http://web.archive.org/web/20250515152345id_/https://philarchive.org/archive/RUPCTT))",
+          "x": "\"adopting HEC results in a significant loss of explanatory power or, at the very best, yields only an unmotivated reinterpretation of results that can, at little cost, be systematically accounted for within a more conservative framework.\" ([Rupert 2004, p. 390](https://home.cs.colorado.edu/~mozer/Teaching/syllabi/3702/readings/Rupert2004.pdf))",
           "s": null
         },
         {

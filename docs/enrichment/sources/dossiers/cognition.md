@@ -734,3 +734,14 @@ argument remain unread (abstract only), as recorded.
 STAMP CORRECTION (2026-10-26): the 09:52:40Z stamps above were
 estimated, not measured; the fresh clock read for that pass was
 09:51:10Z. Corrected in the batch record and this ledger.
+
+CARRIER UPGRADE (2026-10-26 09:59:19Z, supervisor-pplx-1026p): the
+four Rupert 2004 spans now cite the published-article mirror
+(CU Boulder course-reading copy of the JPhil article,
+home.cs.colorado.edu/~mozer/Teaching/syllabi/3702/readings/Rupert2004.pdf)
+found and opened by worker-pplx-verify-1026g (receipt
+deep-dive-cognition-rupert-2004-altcarrier-1026g.md), replacing the
+Wayback philarchive preprint route used for the original extraction.
+The published pagination matches the page cites in the dossier
+(pp. 390, 395, 402). philarchive stays environment-blocked; the
+Wayback id_ route remains the documented fallback.
