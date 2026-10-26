@@ -53,3 +53,7 @@ QUALIFIED: PD-M1-07's removal was an error caused by this lane's
 name-based prose check; it is corrected in the manifest and flagged for
 re-addition. This receipt supersedes the first version, whose endorsement
 of that removal is withdrawn.
+
+## Closure (2026-10-26, later same session)
+
+RESOLVED: the schema lane re-added PD-M1-07 to mod-pd-8 (verified at commit b5a5031 - the published set now carries all eight capstone-return entries matching the doc's link-based citations). The QUALIFIED verdict is lifted: m8 now PASSes without qualification.

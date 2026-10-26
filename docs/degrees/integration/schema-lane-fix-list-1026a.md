@@ -5,9 +5,10 @@ values diffed against the doc-verified manifests). The learner audit
 checks presence, not wording, so it cannot catch these. Each fix is a pure
 splice from the verified manifests — no judgement calls needed.
 
-STATUS (checked against app.js at commit a0ee345, 2026-10-26): items 1,
-2, 3, 4 and 5 are ALL RESOLVED (fixed by the schema lane; item 2's
-reversal was applied). Item 6 remains the ONLY OPEN item.
+STATUS (checked against app.js at commit b5a5031, 2026-10-26): ALL SIX
+ITEMS RESOLVED - the schema lane re-added PD-M1-07 to mod-pd-8 (item 6),
+completing the list. The learner audit reports 0 defects (advisory
+wiki_readings lines only, owner decision pending).
 
 ## 1. PRAG-M3-04 (mod-prag-3, requiredMedia) — RESOLVED, no action
 
@@ -113,3 +114,7 @@ Think and duplicated on PRAG-M4-02 (which correctly carries it as HNC).
 ## Resolution check (2026-10-26, commit a0ee345)
 
 Re-checked against the published state: item 2 (PRAG-M4-01 back to the 778-word How We Think passage only), item 3 (PD-M2-04 locator now the 450-word bounded excerpts, matching the manifest verbatim) and item 5 (BUD-B2-02 'about 1,000 words') are all fixed. Item 6 (PD-M1-07 absent from mod-pd-8) remains open.
+
+## Final closure (2026-10-26, commit b5a5031)
+
+Item 6 verified RESOLVED: mod-pd-8's published set now carries all EIGHT capstone-return entries (PD-M1-05, PD-M1-06, PD-M2-06, PD-M7-05, PD-M5-05, PD-M7-04, PD-M4-07, PD-M1-07), matching the m8 doc's link-based citations. Every item on this list is closed. The learner audit is green.

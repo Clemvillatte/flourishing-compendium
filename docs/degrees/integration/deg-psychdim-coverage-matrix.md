@@ -145,3 +145,7 @@ Deep trace added for m5 (docs/degrees/verify/deg-psychdim-m5-deep-trace-1026a.md
 ## Addendum 6 (2026-10-26, later same session) - DEGREE COMPLETE
 
 Deep trace added for m6 (docs/degrees/verify/deg-psychdim-m6-deep-trace-1026a.md): PASS - all six entries value-by-value (three talk windows, the Fishbach clip, the Ryan and Deci reading, the Woolley teach-reuse). PSYCHDIM DEGREE deep-trace coverage COMPLETE: all eight modules have PASS receipts. WAVE COMPLETION: all four degrees (psychdim 8/8, daoism 5/5, buddhism 9/9, pragmatism 5/5 - 27 modules) now have complete per-module deep-trace coverage, all PASS. Every provisional verdict stands CONFIRMED by deep trace.
+
+## Final closure (2026-10-26, commit b5a5031)
+
+Item 6 resolved: PD-M1-07 is re-added to the published m8 (all eight capstone-return entries present). The m8 receipt's qualification is lifted. With every schema-lane fix-list item closed and the audit green, the psychdim verdict stands CONFIRMED.
