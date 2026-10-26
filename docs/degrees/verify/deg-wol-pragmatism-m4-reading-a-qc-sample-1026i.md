@@ -30,25 +30,25 @@ was extracted word-for-word.
    interpretation, not a carrier fact — the full extraction below
    it confirms the longer contiguous span.
 
-## Word count: 754 on this extraction against the module's 778 — DISCREPANCY FLAGGED
+## Word count: RESOLVED — the module's 778 reproduces exactly on the module's own route
 
-Counting the full span as extracted yields 754 words; the module
-prints 778 words "measured on the downloaded plain text of the
-ebook, line breaks joined". The 24-word difference (about 3%) is
-reported as-is. Route differences that could account for it: the
-module counted the plain-text file with line breaks joined (which
-can split or join hyphenated compounds differently), while this
-sample counted the HTML render's cleaned extraction. Whether the
-difference is extraction noise or a real count difference on the
-txt base is not established by this sample; the flag is for the
-band holder to re-measure on the txt base if the figure matters.
+Counting the full span as extracted from the HTML render yields
+754 words. The module prints 778 words "measured on the downloaded
+plain text of the ebook, line breaks joined". Re-running the
+module's own route closes the discrepancy: downloading the
+plain-text file (pg37423.txt) and counting the same span
+("Another instance..." through "is wholly futile.") yields exactly
+778 words (both raw and line-break-joined). The module's figure is
+CORRECT on its stated route; the 754 was extraction noise in this
+sample's HTML-render extraction (the fetcher's cleaned extraction
+is not a perfect copy of the carrier). Flag withdrawn — no defect.
 
 ## Disposition
 
 - Boundary phrases and span structure: PASS.
-- The 778-word figure does not reproduce on the HTML-render
-  extraction (754 measured) — FLAGGED with the route difference;
-  the module's own route (txt, line breaks joined) was not
-  re-run by this sample.
+- The 778-word figure REPRODUCES EXACTLY on the module's stated
+  route (plain-text file, same span): flag withdrawn, no defect.
+  The HTML-render extraction undercounts (754) — a route artifact
+  of this sample, not of the module.
 - No module, ledger, band or shared board was edited by this
   receipt.
