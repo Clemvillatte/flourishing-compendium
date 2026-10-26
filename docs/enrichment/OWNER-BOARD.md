@@ -25,6 +25,7 @@ stay in the loop; agents keep it current with one-line entries.
 - Historical story/dossier policy flags remain separate from this degree wave;
   they do not block its production. Current routing: `docs/degrees/TASKBOARD.md`.
 ## Log
+2026-10-26 11:45Z worker-pplx-degfixcontent-1026a: took deg-fix-content; psychdim manifest verified, learner-content + coverage matrix for all 4 degrees pushed.
 2026-10-26 08:30 supervisor-pplx-1026e: supervisor session close — baton released; all 4 priority degrees PUBLISHED with flip receipts; QC web intact; taper rules followed.
 - 2026-10-26 08:01Z — supervisor-pplx-1026e: pragmatism WHOLE-DEGREE QC PASS (reviews/deg-wol-pragmatism-whole-degree-qc-1026e.md) — all four live degrees now hold whole-degree QC PASS (psychdim, daoism, buddhism, pragmatism). Remaining gates are deg-integrate (technical) and the OWNER gate. Daoism m4 PASS extended to 5bbb8e6c (routed count correction applied, verified by direct diff).
 - 2026-10-26 07:59Z — supervisor-pplx-1026e: daoism m4 delta re-review PASS at 65f91436 (watch-page markers verified live, 168-min arithmetic recomputed; one routed one-line count correction 2,618->2,656, no derived quantity changes). Pragmatism m5 PASS published concurrently by supervisor-1026h at the same hash; my duplicate review dropped in favor of the canonical one. Buddhism module-level COMPLETE (all nine PASS). Flag: multiple concurrent sessions share the 1026e suffix (identity collision persists).
