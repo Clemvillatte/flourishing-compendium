@@ -877,7 +877,22 @@ retrieved (2026-10-26T05:26Z; corrected 05:31Z per advisor QC)
   PRIMARY-SOURCES.md, a human-checked print or broadcast transcript)
   — not an auto-caption track.
 
-### B-V23 — independent corroboration pass + two new findings (2026-10-26T07:25Z; verify-pplx-w3-1026a, deg-verify-a)
+### B-V23 — independent corroboration pass + two findings (2026-10-26T05:57:53Z push time; stamp corrected 06:10Z — the original 07:25Z stamp was computed from a defective elapsed-time reading; verify-pplx-w3-1026a, deg-verify-a)
+
+**FINDING-DOWNGRADE addendum (06:10Z, after advisor QC):** the two
+"NEW FINDING" items below were downgraded on re-review — (1) the
+b6-L1 channel attribution is UNRESOLVED, not confirmed: the watch-page
+metadata returned contradictory channel attributions across fetches
+in this session ("Bodhicitta Sangha" on one fetch, but a batchelor-fetch
+header returned "Fire Philosophy Nieztsche Zen" against an extraction
+naming "Radboud Reflects"), so page metadata alone cannot establish the
+hosting channel; the owner must check the visible watch page before
+correcting the module. (2) the b7 "Key moments" observation does not
+contradict the module's "no chapter list" claim unless the moments are
+uploader-authored: YouTube can auto-generate key moments as navigation
+metadata; treat it as supplementary until uploader authorship is
+established. Both routes below stand as open questions, not confirmed
+defects.
 
 Re-fetched the five buddhism video watch pages from a fresh environment
 (player-data route; fetch receipts held in the session log):
@@ -902,12 +917,15 @@ Re-fetched the five buddhism video watch pages from a fresh environment
   bounded claims for BOTH lectures (Zen-master image with Rinzai and
   Hakuin; Lecture 3's Rinzai/Soto differences and "place of
   meditation... not as extensive as one might expect"); Kirchner
-  credentials paragraph matches the module. NEW FINDING: this video is
-  hosted on the **Bodhicitta Sangha** channel, NOT The Buddhist
-  Society channel as the module's source table states (Lecture 3 is on
-  The Buddhist Society). ROUTE to the buddhism repair worker: correct
-  the b6 channel attribution for Lecture 1 (series is The Buddhist
-  Society's per the description; the upload is Bodhicitta Sangha's).
+  credentials paragraph matches the module. FINDING (now UNRESOLVED,
+  see addendum above): this fetch's player data named the **Bodhicitta
+  Sangha** channel for this video, NOT The Buddhist Society channel as
+  the module's source table states (Lecture 3's fetch named The
+  Buddhist Society). ROUTE to the buddhism repair worker: check the
+  visible watch page and correct the b6 channel attribution for
+  Lecture 1 only if the page confirms it (the series description is
+  The Buddhist Society's; the upload's hosting is what is in
+  question).
 - **b6 Kirchner Lecture 3 (jPxuvitdsRI):** duration 6016s = 1:40:16
   this fetch (matches the B-V07 addendum's one-second display variance
   note; module says 1:40:17 — not a defect). Channel The Buddhist
@@ -915,13 +933,16 @@ Re-fetched the five buddhism video watch pages from a fresh environment
 - **b7 Batchelor (Hhlj_SU9SAE):** duration 5195s = 1:26:35 confirmed;
   description frame (ethical, pragmatic, human-flourishing basis) and
   venue/date match the module verbatim; channel Radboud Reflects
-  confirmed. NEW FINDING: the watch page DOES print Key moments
-  (58:11 The Eightfold Path; 1:01:36 Intercultural Exchange; 1:06:53
-  The Original Teachings of the Buddha; 1:13:18 How Buddhism Has
-  Evolved Historically) — the module says "the page prints no chapter
-  list". ROUTE to the buddhism repair worker: the two viewing stops
-  can now be keyed to printed key moments if desired, or the claim
-  can stand corrected (key moments, not a chapter list).
+  confirmed. FINDING (downgraded, see addendum above): the watch page
+  prints Key moments (58:11 The Eightfold Path; 1:01:36 Intercultural
+  Exchange; 1:06:53 The Original Teachings of the Buddha; 1:13:18 How
+  Buddhism Has Evolved Historically) — the module says "the page
+  prints no chapter list". This is not necessarily a contradiction:
+  YouTube may auto-generate key moments. ROUTE to the buddhism repair
+  worker: establish whether these moments are uploader-authored; if
+  so, the claim can be corrected (key moments, not a chapter list) and
+  the two viewing stops keyed to them; if auto-generated, the module's
+  claim stands as written.
 
 No paywalled or app-gated content on any route. Auto-captions remain
 classification/coverage evidence only, not verbatim quotation carriers

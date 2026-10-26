@@ -536,24 +536,41 @@ flags.
   67 verified earlier; the 71-word figure likely includes the
   section header — minor, not flagged).
 
-### Neiye candidate source verified (2026-10-26T07:40Z; verify-pplx-w3-1026a, deg-verify-a)
+### Neiye candidate source verified (2026-10-26T05:59:07Z push time; stamp corrected 06:12Z — the original 07:40Z stamp was computed from a defective elapsed-time reading; verify-pplx-w3-1026a, deg-verify-a)
+
+**Precision addendum (06:12Z, after advisor QC):** the original receipt
+said "read" and "complete translation verified" — overstated. What
+was actually checked, precisely: the PDF was downloaded and its full
+text extracted (~3,177 words); the title page, Eno's introduction
+(Jixia academy background, the Fall 2005 P/E374 note, the pointer to
+Roth's Original Tao) and the translator's signature were read in the
+extracted text; the section structure was verified by pattern match:
+numbered sections 1–18 present as "Section N: title" (17 of 18 titles
+cleanly extracted, e.g. "Section 1: The essential qi", "Section 6:
+The inner grasp", "Section 18: Moderation"; section 11's title line
+was scrambled by the PDF's two-column layout, its number implied by
+the 10/12 sequence — this limit is stated rather than papered over).
+The verse text of the translation itself was extracted but not
+proof-read line by line against the print edition; the walk's
+quote-verification rules would apply before any verbatim quotation
+from it.
 
 For the m1-admitted inward-training gap (no verified Neiye source
 attached) and the proposed Neiye elective:
 
 - **Candidate: Robert Eno, "Guanzi: The Inner Enterprise (Neiye)",
-  2005.** Opened and read this session at
+  2005.** Opened this session at
   https://dyhr.com/qigong/Neiye.pdf (free, no paywall, no login). The
   document prints the translator's signature and date on its face
   ("R. Eno, Indiana University, 2005") and contains Eno's full
   introduction (Jixia academy background, the note that the Fall 2005
   P/E374 offering did not cover the text, the pointer to Roth's
   Original Tao as the scholarly study) plus the complete translation
-  in Eno's 18-section arrangement (~3,177 words extracted this pass;
-  section titles are Eno's own additions for readability, as his
-  introduction states). Eno is the same translator whose Daodejing and
-  Zhuangzi Inner Chapters translations this walk already uses and has
-  verified.
+  in Eno's 18-section arrangement (checks as stated in the precision
+  addendum above; section titles are Eno's own additions for
+  readability, as his introduction states). Eno is the same translator
+  whose Daodejing and Zhuangzi Inner Chapters translations this walk
+  already uses and has verified.
 - **Hosting caveats, recorded honestly:** the dyhr.com copy is a
   third-party course posting of Eno's document, not the translator's
   own hosting; it prints NO licensing statement (Eno's other
@@ -569,10 +586,60 @@ attached) and the proposed Neiye elective:
   not opened full-text this pass, so it is a located candidate, not a
   verified receipt.
 - **Recommendation to the m4/m5 owner:** attach Eno's Neiye (same
-  translator as the walk's core texts, free access, full text
-  verified this pass) with the hosting/licensing caveat above
+  translator as the walk's core texts, free access, checks as stated
+  in the precision addendum) with the hosting/licensing caveat above
   recorded in the module's verification section, or Linnell via
   Gutenberg if a licensing statement on the face of the document is
   required. Video-first: no credentialed Neiye lecture was searched
   this pass; m4 production may search for one before falling back to
   the primary text (the video-first policy allows the fallback).
+  **Note (06:12Z):** the daoism m4 owner has since attached the Neiye
+  elective via the Gutenberg Linnell carrier (commit a450b90,
+  05:56:35Z); the Linnell full text was NOT opened this pass, so its
+  attachment still needs its own verification receipt (content,
+  edition, licensing) from whoever QC's m4 — this receipt does not
+  cover it.
+  the primary text (the video-first policy allows the fallback).
+
+### m4 Linnell Gutenberg carrier verified (2026-10-26T06:16Z; verify-pplx-w3-1026a, deg-verify-a)
+
+The receipt m4's verification section needs (the Eno receipt above does
+not cover this carrier):
+
+- **Content:** opened the exact URL m4 cites
+  (https://www.gutenberg.org/cache/epub/38585/pg38585-images.html,
+  HTTP 200, ~67 KB HTML this fetch). Title page: "Guanzi, Number 49:
+  Study of Inner Cultivation", "Translated by Bruce R. Linnell, PhD
+  (2011)" — i.e. the Neiye, the "Inward Training" chapter of the
+  Guanzi. Linnell's background essay is in the file and corroborates
+  the identification ("The 'Nei Ye' or 'Nei Yeh' ... generally
+  considered to have been written around 350-300 BC ... preserved in
+  the 'Guanzi'"), names the two scholarly translations (Rickett
+  1985/1998; Roth, Original Tao, 1999), and notes Eno's "Guanzi: The
+  Inner Enterprise", 2005 as "copyright-free as far as I can
+  determine" with the legacy indiana.edu URL — independent
+  corroboration of the Eno candidate above. The translation body is
+  present and rule-delimited; the opening verses ("Now : Dao is the
+  reason that the form [of the heart/mind] is full!...") were read in
+  the fetched text.
+- **License (m4's citation verified correct):** the file header
+  prints "Copyright (C) 2011 by Bruce Linnell", and the body carries
+  Linnell's own grant: "This work is licensed under a Creative
+  Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License
+  (CC BY-NC-ND 3.0). You are free to download this work and share it
+  with others as long as I retain credit for the work. But you cannot
+  change or build on this work in any way..." — quoted as printed.
+  m4's "license CC BY-NC-ND 3.0, quoted as printed" claim is
+  therefore VERIFIED. Free, no paywall, no login. The NC term bars
+  commercial use and ND bars derivatives: m4's use (assign the
+  reading, quote as printed) is within these terms; the module should
+  keep attributing Linnell and never paraphrase-quote from it as if
+  verbatim.
+- **Limit stated honestly:** m4 assigns "sections 1, 2, 3 and 12" and
+  measures 550 words on them. In the fetched HTML the translation is
+  delimited by horizontal rules with NO printed section numbers; the
+  opening-verses read confirms the text, but the specific 1/2/3/12
+  numbering was NOT independently confirmed as printed labels in the
+  fetched edition. The m4 owner should confirm the numbering
+  convention used (presumably the standard division) or cite the
+  rule-delimited position instead. Minor, routed, not blocking.

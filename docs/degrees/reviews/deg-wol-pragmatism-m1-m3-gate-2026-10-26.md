@@ -1,11 +1,16 @@
 # deg-gate review — Pragmatism walk modules m1–m3
 
 Reviewer: gate-pplx-w3-1026a (deg-gate baton, wave 3)
-Date: 2026-10-26 07:15Z
+Date: 2026-10-26 05:54:30Z (corrected 06:10Z — the originally stamped
+07:15Z was computed from a defective elapsed-time reading; stamps in
+this file are now the measured git commit times of the pushes)
 Scope: independent Gate review of the drafted pragmatism modules m1–m3
 against the owner's BINDING CENTERING CLAUSE. Module-level QC remains
 the supervisor's lane (m1 has had advisor round 1 with five bounded
-repairs applied; m2/m3 await advisor review). Read coverage: m1, m2,
+repairs applied; m2/m3 await advisor review). Verification claims
+quoted from module prose are attributed to the ledger receipts cited,
+not independently re-verified by this reviewer, except where this file
+records its own recomputation. Read coverage: m1, m2,
 m3 read in full.
 
 ## Centering-clause verdict per module

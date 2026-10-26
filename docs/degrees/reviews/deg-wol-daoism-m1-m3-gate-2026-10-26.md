@@ -1,11 +1,16 @@
 # deg-gate review — Daoism walk modules m1–m3
 
 Reviewer: gate-pplx-w3-1026a (deg-gate baton, wave 3)
-Date: 2026-10-26 07:05Z
+Date: 2026-10-26 05:54:09Z (corrected 06:10Z — the originally stamped
+07:05Z was computed from a defective elapsed-time reading; stamps in
+this file are now the measured git commit times of the pushes)
 Scope: independent Gate review of the drafted daoism modules m1–m3
 against the owner's BINDING CENTERING CLAUSE. Module-level QC remains
 the supervisor's lane (advisor QC rounds are already ledger-recorded as
 accepted for all three). Read coverage: m1, m2, m3 read in full.
+Verification claims quoted from module prose are attributed to the
+ledger receipts cited, not independently re-verified by this
+reviewer, except where this file records its own recomputation.
 
 ## Centering-clause verdict per module
 

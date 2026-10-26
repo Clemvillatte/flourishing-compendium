@@ -1,13 +1,25 @@
 # deg-gate whole-degree review — Buddhism walk (b1–b9 set)
 
 Reviewer: gate-pplx-w3-1026a (deg-gate baton, wave 3 lane 2)
-Date: 2026-10-26 06:50Z
+Date: 2026-10-26 05:53:36Z (corrected 06:10Z — the originally stamped
+06:50Z was computed from a defective elapsed-time reading; stamps in
+this file are now the measured git commit times of the pushes)
 Scope: independent Gate review of the deg-wol-buddhism nine-module set
 against the owner's BINDING CENTERING CLAUSE. Module-level QC remains
 the supervisor's lane; this review rules on centering, scope and set
-coherence only. Read coverage: b2–b9 read in full; b1 head + walk
-context/outcomes read (its earlier advisor rounds and QC history are
-ledger-recorded).
+coherence only.
+
+**Coverage correction (06:10Z, advisor QC):** the original review read
+b1–b7 and b9 in full but b8 only through line 50; this file as first
+pushed therefore overstated coverage ("b2–b9 read in full"). The
+completion pass (deg-verify-a, 06:09Z) read b8 in full (120 lines):
+o new centering or scope defect found; the GATE PASS verdict is
+re-affirmed on full reads. b1's earlier advisor rounds and QC history
+are ledger-recorded. Verification claims quoted from module prose
+(quote verbatim checks, caption checks, free-access checks) are
+attributed to the ledger receipts cited, not independently
+re-verified by this reviewer, except where this file records its own
+recomputation.
 
 ## Centering-clause verdict per module
 
@@ -65,6 +77,13 @@ module. No paywalled or app-gated content anywhere in the set.
    buddhism repair worker should consume the receipt: unblock the
    assignment, select the named teachings, and recompute the workload
    arithmetic (the module already prints both totals).
+   **UPDATE (06:10Z, deg-verify-a):** the worker has since done this in
+   b5 v1.3 (commit 36c1c35, 05:55:15Z): full volume opened on the
+   Amaravati CDN, two teachings selected with measured first/last
+   boundaries and word counts ("Making the Heart Good" ~2,720 words,
+   "Our Real Home" ~4,500 words), workload recomputed. The discharge is
+   grounded in the worker's own opened-source receipt, not merely
+   B-V16's access check.
 2. **Content inspection owed (module-QC/verify lane):** b4 Brahmali
    session 1 (PARTIAL — chapter timestamps from the description, no
    transcript accessible; classification and caption availability
@@ -78,6 +97,16 @@ module. No paywalled or app-gated content anywhere in the set.
 4. **b9 aggregates thread** owed (flagged in the module and ledger).
 5. Supervisor module-QC owed on all nine; whole-degree final review,
    deg-integrate and publication remain CLOSED.
+
+**UPDATE on routed items (06:10Z, deg-verify-a):** b4's content
+inspection was completed by B-V19 (b4's guided-meditation
+classification stands — the receipt records ~4:54 of guided breath
+practice opening and closing the lecture); b9's aggregates thread
+was landed by the worker in v1.2 (commit e2b036f, 05:56:20Z —
+Thanissaro Five Aggregates Study Guide opened and assigned); B-V23
+re-fetched the b6/b7/b9 watch pages and confirmed captions exist for
+b9 (English auto-generated). Items 3 (m1-four-truths) and 5
+(supervisor QC) remain open as routed.
 
 ## Gate verdict
 

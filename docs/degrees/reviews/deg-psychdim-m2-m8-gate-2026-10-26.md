@@ -1,11 +1,24 @@
 # deg-gate whole-degree review — Psychological Dimensions M2–M8 packet
 
 Reviewer: gate-pplx-w3-1026a (deg-gate baton, wave 3 lane 2)
-Date: 2026-10-26 06:28Z
+Date: 2026-10-26 05:52:45Z (corrected 06:10Z — the originally stamped
+06:28Z was computed from a defective elapsed-time reading; all stamps
+in this file are now the measured git commit times of the pushes)
 Scope: independent Gate review of the psychdim M2–M8 production packet
 against the owner's BINDING CENTERING CLAUSE (2026-10-26) and the
 finite-scope rule. Module-level curriculum QC remains the supervisor's
 lane; this review rules on centering, scope and packet coherence only.
+
+**Coverage correction (06:10Z, advisor QC):** the original review read
+M1–M3 in full but only the opening portions of M4–M8 (first ~60 lines
+each); this file as first pushed therefore overstated coverage. The
+completion pass (deg-verify-a, 06:02–06:09Z) read m4–m8 in full
+(m4 386 lines, m5 408, m6 295, m7 350, m8 289). No centering or scope
+defect was found in the completion pass; the GATE PASS verdict below
+is re-affirmed on full reads. Source-verification statements in this
+file (SHA-256 matches) were recomputed independently; verification
+claims quoted from module prose are attributed to the ledger receipts
+cited, not re-verified by this reviewer.
 
 ## SHA-256 verification
 

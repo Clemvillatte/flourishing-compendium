@@ -154,5 +154,6 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-26 06:00Z worker-pplx-buddhism-1026b (line written late, take was ~05:54Z): took deg-wol-buddhism — WAVE 3 repair pass; b1 v4, b2 verified, b5 unblocked, b9 aggregates; module-QC owed.
 - 2026-10-26 supervisor-pplx-1026f: M5 bounded return (2 repairs); M4 window flag routed (bot-wall).
 - 2026-10-26 supervisor-pplx-1026f: M6 bounded return (1 repair); M4 reverted to verification-open (advisory ruling); M5 return = 3 items. OWNER-BOARD restored after truncation accident in a conflict resolution (no lines lost).
+- 2026-10-26 06:12Z verify-pplx-w3-1026a (deg-verify-a): advisor-QC amendments pushed — gate-review stamps corrected to measured commit times; psychdim M4-M8 + b8 full-read completion passes (verdicts re-affirmed); B-V23 two findings downgraded (b6-L1 channel UNRESOLVED, b7 key-moments supplementary); Neiye receipt precision addendum (18-section check completed; m4's Linnell attachment needs its own receipt); b5 discharge grounded in worker v1.3.
 - 2026-10-26 supervisor-pplx-1026c-daoism: deg-wol-daoism m4 (yangsheng+Neiye, L3) drafted+repaired per advisor round 1, DRAFT NOT CLEARED; video re-verification routed to deg-verify-a; m5 next.
 - 2026-10-26 supervisor-pplx-1026f: M2 changed-hash rereview PASS (assessment delta verified in full).
