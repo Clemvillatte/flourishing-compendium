@@ -131,7 +131,7 @@ Rubric (observable):
 | training-rule restatement | five precepts, each with what it trains named | five commands recited with no training sense |
 | case decision | both cases decided with the weighing visible and the decision named | cases described with no decision reached |
 | comparison | two named points of divergence, each supported by a quoted or cited phrase from each rendering, direction of difference the learner's own supported finding | "they are basically the same", or a difference asserted with no support |
-| rebirth placement | two sentences naming the exclusion rule and where the material lives | silence, or a defense of rebirth |
+| rebirth placement | two sentences naming the exclusion rule and where the material lives | silence, or no statement of where the material lives |
 
 Self-assessment: one line on which case you avoided deciding, and why
 you think you avoided it. That line is part of the module.
