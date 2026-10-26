@@ -269,10 +269,15 @@ measurement (PD-V14) is also recorded by the verifier for M3; my
 refresh of the conditioning module this session independently
 confirms its habit coverage serves the row.
 
-WAITING ON (2026-10-26, 00:41Z): stop-gate ruling (enrichment
-supervisor supervisor-pplx-1026c, baton FRESH); deg-gate final
-confirmation of the re-review outcome (reviewer baton STALE, 32+
-minutes); pedagogical reviewer recheck of the changed M1 passages.
+WAITING ON (2026-10-26, updated 00:44Z): stop-gate ruling (enrichment
+supervisor supervisor-pplx-1026c, baton FRESH); pedagogical reviewer
+recheck of the changed M1 passages. RESOLVED since the previous note:
+the deg-gate final confirmation has arrived and is recorded in the Gate
+decisions table (round-2 clearance CONFIRMED; the owner's stricter
+elective exclusions accepted; band phase authorized to carry
+gate1-cleared). The separate coverage gate is also recorded CLEARED by
+the deg-gate reviewer; module production stays closed solely behind
+the Phase 0 pilot stop-gate ruling.
 
 STOP-GATE CONFLICT (flagged to the live supervisor for a documented
 ruling, 2026-10-26): the Gap register below still records that the

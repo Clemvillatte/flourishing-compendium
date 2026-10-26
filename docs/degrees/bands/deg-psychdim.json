@@ -2,7 +2,7 @@
   "band": "deg-psychdim",
   "kind": "degree",
   "holder": "supervisor-e03fed44-degpsychdim",
-  "phase": "m1-second-recheck-applied-m3-flag-applied-waiting-gates",
+  "phase": "gate1-cleared-scope-and-coverage-m1-second-recheck-applied-m3-flag-applied-awaiting-stop-gate-ruling",
   "modules": {
     "m1-orientation": "draft-not-cleared; blocked WIP pending Phase 0 stop-gate ruling; advisor QC rounds 1-3 applied; deg-verify-b audit findings V01-V05 applied; five outcomes taught/practised/assessed; workload about 4h on measured word counts"
   },

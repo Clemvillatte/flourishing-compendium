@@ -7,7 +7,15 @@ branches), applied by the degree owner on 2026-10-26 — see the ledger's
 Gate-1 section. Re-review (2026-10-26) verified both repairs applied and
 returned one outstanding item (the language elective, admitted on topical
 fit); that item is resolved by exclusion (see Bounded domain and the
-ledger); final confirmation from the deg-gate reviewer is pending.
+ledger). The deg-gate reviewer's round-2 re-review (00:26Z) returned
+GATE 1 CLEARED (scope), and the reviewer's final confirmation is
+recorded in the ledger's Gate decisions table: the exclusion was
+accepted, the stricter "Elective branches: none" was accepted, and the
+band phase is authorized to carry gate1-cleared. The separate coverage
+gate is also recorded CLEARED. Module production stays closed solely
+behind the Phase 0 pilot stop-gate ruling (documented ruling owed by
+the live enrichment supervisor; flag in the ledger's stop-gate
+conflict section).
 
 CENTERING (owner's 2026-10-26 binding clause): this degree is centered on
 the WALK OF LIFE / philosophy-of-life frame and serves one value
