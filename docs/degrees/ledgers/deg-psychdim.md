@@ -660,7 +660,9 @@ the raw text.
   conditions", and the body carries the ADHD, anxiety, depression and
   schizophrenia material.
 
-  Supervisor spot-check (2026-10-26 02:40Z measured, supervisor-pplx-1026d,
+  Supervisor spot-check (written between clock readings 02:35:53Z and
+  02:36:52Z, so ~02:36Z; the originally stamped 02:40Z was an estimate and
+  is withdrawn — corrected 02:44Z, supervisor-pplx-1026d,
   supervisor baton): the elision relabel was independently re-checked — the
   carrier was re-opened and all three quoted segments ("Obtaining and
   maintaining the alert state", "Orienting to sensory stimuli", "The executive

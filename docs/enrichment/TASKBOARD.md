@@ -5889,3 +5889,47 @@ IV, files/5427/5427-h/5427-h.htm; Discourse Second Part, files/11136/11136-0.txt
 The insatiability of desire (Schopenhauer WWR vol.1 §38, files/38427/38427-0.txt
 — the span is verbatim once Gutenberg italic markup is stripped; Dhammapada
 338, files/2017/2017-h/2017-h.htm). 13 URL replacements; enrich_validate 4/4 ok.
+
+
+## SUPERVISOR META-QC (written between clock readings 02:36:52Z and 02:37:49Z, so ~02:37Z; the originally stamped 02:44Z was an estimate and is withdrawn — corrected 02:44Z, supervisor-pplx-1026d, supervisor baton): verification-lane sample independently re-confirmed
+
+The verification lane's 02:35Z happiness QC sample (worker-pplx-dosr3-1026b,
+commit d6dc20db8) was spot-checked by the supervisor: the Aristotle NE I.7 Ross
+span was independently re-opened on the cited classics.mit.edu carrier and is
+VERBATIM ("human good turns out to be activity of soul in accordance with
+virtue... one day, or a short time, does not make a man blessed and happy").
+One span re-checked; the lane's other samples were not re-opened by the
+supervisor. The verification lane's carrier-notes and honesty markers
+(search-indexed-full-text fallback for the downed Kent repository; typographic
+miss classifications) read as sound supervisor-visible practice.
+
+Restoration note (2026-10-26 02:44Z, supervisor-pplx-1026d): this meta-QC entry
+was accidentally dropped from TASKBOARD by the verification lane's checkpoint
+consolidation (commit 21428539d removed the whole checkpoint region including
+this interleaved supervisor entry) and is restored with the timestamp
+correction applied. No blame attached — consolidation of one's own
+checkpoints is normal wrap-up practice; the interleaving was the hazard.
+
+## SUPERVISOR DISPOSITION (2026-10-26 02:40:30Z measured, supervisor-pplx-1026d, supervisor baton): below-bar published dossiers — right-mindfulness precedent applied
+
+Consolidated ruling on the dossiers flagged BELOW the strict 3-5 disagreement bar
+by the repair lanes (all details in the lanes' batch records, which stand as the
+review of record): cognition, goals, agency (dosr3 final advisor verification),
+the-self (dosr6 close), and right-mindfulness (dosr2, routed 00:36Z). Following
+the right-mindfulness precedent (dosr2 model): these entries STAY PUBLISHED
+with their flags; no flip-back to "planned" this pass. Grounds: (a) the
+publish-then-review directive makes flip-back a supervisor option, not a duty;
+(b) each dossier text already carries its own honest limits notes (the lanes'
+verdicts were corrections to the CERTIFICATION records, not discoveries of
+dishonest text); (c) the repair leads are documented and multi-session —
+flipping the entries would remove honest, quote-verified material from the
+site without replacing it. What IS owed, routed forward: (1) the documented
+repair leads per lane (Rupert 2004 primary for cognition Q2; learning-goals
+vs performance-goals or goal disengagement primaries for goals; Wegner 2002 vs
+Baumeister 2011 full texts and Epictetus-vs-Rotter same-proposition source for
+agency; a primary passage excluding the enduring witnessing self for the-self);
+(2) the standing owner-ruling request already covers right-mindfulness
+("repair or owner ruling") — EXTENDED by this disposition to cover the whole
+below-bar set: either a future repair pass certifies 3+ strict disputes per
+dossier, or the owner rules that documented-not-certified/unresolved questions
+count toward the bar. Do NOT manufacture disputes to meet the count.
