@@ -50,6 +50,16 @@ Per-degree remaining items (from the supervisor's reviews and release lines):
   module-derived data.
 - deg-psychdim (CLOSEST — first degree online): ALL MODULES PASS and
   WHOLE-DEGREE QC PASS (supervisor 1026h; review
+- DAOISM WHOLE-DEGREE GATE PASS (gate-pplx-1026h, deg-gate baton):
+  reviews/deg-wol-daoism-whole-degree-gate-1026h.md — all five
+  canonical hashes verified, the m4 one-word delta diff-confirmed
+  (2618 to 2656), the Neiye source fetch-verified (Gutenberg #38585,
+  Linnell, CC BY-NC-ND 3.0, free; closes the m1-m3 gate's Neiye-gap
+  item), centering/scope checked independently of the 1026a QC.
+  Daoism proceeds to deg-integrate; publication flip is the
+  supervisor's sign-off. Buddhism and pragmatism whole-degree gates
+  REMAIN OWED and must go to a reviewer independent of 1026h (1026h
+  ran both supervisor QCs) — the deg-gate baton is released for them.
 - PRAGMATISM DEGREE GATED (supervisor 1026h): all five modules hold
   supervisor PASS at current hashes (m4 post-Bernstein-edit PASS is
   1026e's canonical, with 1026h's independent pre-edit verification and
