@@ -42,5 +42,5 @@ re-opening it.
   D125, B015, P020, B018) in content/stories/ST509-ST515.
 - Draft state, draft front matter and published pages agree (ready/registered).
 - The four priority degrees (deg-psychdim, deg-wol-daoism, deg-wol-buddhism,
-  deg-wol-pragmatism) remain integrated in site/assets/app.js after the wave-4
-  restructure.
+  deg-wol-pragmatism) remain integrated in site/assets/app.js (verified on the
+  origin/main tree at this pass).
