@@ -26,7 +26,7 @@
 | ID | Resource | Open status | Covers | D1 module |
 |---|---|---|---|---|
 | GREEK-REF-1 | Project Gutenberg, Plato + Aristotle public-domain works (multiple IDs) | Project Gutenberg is a PD repository; specific IDs to be confirmed per work at the next pass | Plato and Aristotle texts | mod-greek-4 through mod-greek-8 |
-| GREEK-REF-2 | Perseus Digital Library, Plato — the catalog and Scaife ATLAS pages | Confirmed open (see GREEK-TEXT-2) | Greek text + English translations side-by-side | all Plato modules |
+| GREEK-REF-2 | Perseus Digital Library, Plato — the catalog and Scaife ATLAS pages | [DISCOVERY] (NOT fetched this session; the earlier "Confirmed open" claim is WITHDRAWN — the supporting record GREEK-TEXT-2 was withdrawn as discovery-only) | NOT ESTABLISHED — one direct fetch pass is owed | Greek text + English translations side-by-side (per the search results) | all Plato modules — PROPOSED |
 
 ## Coverage-matrix update (D2 → D1 matrix)
 

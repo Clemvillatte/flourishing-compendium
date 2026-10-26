@@ -75,15 +75,15 @@ The module numbering below is PROPOSED for the D2 checkpoint review. This degree
 |---|---|---|---|
 | Foundations + history of well-being + PERMA | mod-pos-1 (new) | MISSING | |
 | Cultural perspectives + Eastern/Western views | mod-pos-1 | MISSING | |
-| Positive emotions + intrinsic motivation + Broaden-and-Build | mod-pos-2 (new) | MISSING | |
+| Positive emotions + intrinsic motivation + Broaden-and-Build | mod-pos-2 (new) | MISSING | the specific theories (Broaden-and-Build, intrinsic motivation) are NOT established from the opened syllabus headings — research-queue items |
 | Subjective well-being + happiness measurement | mod-pos-2 | MISSING | |
 | Savoring + flow + mindfulness + motivation | mod-pos-3 (new) | MISSING | overlaps with the existing flow/mindfulness dossiers |
 | Gratitude + hope + optimism | mod-pos-3 | MISSING | existing gratitude dossier is strong open material |
 | Emotional intelligence | mod-pos-4 (new) | MISSING | |
-| VIA character strengths + goals | mod-pos-4 | MISSING | |
+| VIA character strengths + goals | mod-pos-4 | MISSING | the VIA classification is NOT established from the opened syllabus headings — research-queue item |
 | Creativity + giftedness + wisdom (positive self) | mod-pos-5 (new) | MISSING | existing wisdom dossiers |
 | Positive mental health: thriving and flourishing | mod-pos-5 | MISSING | |
-| Resilience + post-traumatic growth | mod-pos-6 (new) | MISSING | existing resilience dossier |
+| Resilience + post-traumatic growth | mod-pos-6 (new) | MISSING | NOT established from the opened syllabus headings (research-queue item); the in-repo resilience dossier exists but its module assignment is a separate decision |
 | Meaning + purpose + eudaimonic well-being | mod-pos-6 | MISSING | existing meaning dossiers |
 | Values + motivation + life goals | mod-pos-6 | MISSING | |
 | Religions + spirituality + well-being | mod-pos-7 (new, contextual) | OPTIONAL | finite-scope call |
