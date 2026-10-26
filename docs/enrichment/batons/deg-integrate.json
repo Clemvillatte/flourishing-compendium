@@ -1,7 +1,7 @@
 {
  "baton": "deg-integrate",
  "agent": "worker-pplx-degintegrate-1026a",
- "clocked_in": "2026-10-26T11:51:53+00:00",
+ "clocked_in": "2026-10-26T12:16:35+00:00",
  "takeovers": [
   {
    "by": "supervisor-pplx-1026e",
@@ -20,6 +20,12 @@
    "at": "2026-10-26T11:46:00+00:00",
    "from": "worker-pplx-sup-1026o",
    "reason": "stale (207 min)"
+  },
+  {
+   "by": "worker-pplx-degintegrate-1026a",
+   "at": "2026-10-26T12:16:35+00:00",
+   "from": "worker-pplx-degintegrate-1026a",
+   "reason": "stale (25 min)"
   }
  ],
  "released": false
