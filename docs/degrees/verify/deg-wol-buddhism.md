@@ -516,3 +516,10 @@ Timestamp correction (2026-10-26, measured 04:54Z): the clock labels first writt
 - Thanissaro "101008 Hindrances" PcR_fI6p9k8: oembed title matches ("101008 Hindrances — Thanissaro Bhikkhu — Dhamma Talks", uploader "Dhamma Talks by Thanissaro Bhikkhu"); 25:00 watch-page total per owner (b1 oembed pair; credentials buddho.org already verified in B-T01 family).
 - Nyanaponika Thera, *The Five Mental Hindrances and Their Conquest* (Wheel No. 26, BPS; AtI wheel026): full text free on opened page; © 1994 Nyanaponika Thera, BPS 1993; free-of-charge redistribution license with 50-copy reprint limit; five hindrances with Pali names and countermeasures confirmed. Corroborates owner's b9 table. No paywall.
 
+**B-V13 — Thanissaro, "The Five Aggregates: A Study Guide" (AtI, corroborated 2026-10-26T05:04Z):**
+- URL: https://www.accesstoinsight.org/lib/study/khandha.html
+- Identity: Thanissaro Bhikkhu study guide; © 2010 Metta Forest Monastery (title page), footer © 2002, 2010; CC BY-NC 4.0; first published on AtI 2002, revised 2010, last AtI revision 2013-11-30 — matches the owner's ledger record exactly.
+- Free access: text presented under the stated CC license; no paywall or login on the opened page.
+- Content: sections Introduction / The Questions / Constructing the Aggregates / Constructing a Self / Constructing the Path / Deconstruction / Glossary / Abbreviations; the five aggregates as activities (feeling feels, perception labels, consciousness cognizes); clinging-aggregates distinction (clingable, sustenance, fermentation; the burden) confirmed.
+- Status: **verified (text)** — corroborates the owner's pre-verified candidate for the owed aggregates elective thread.
+
