@@ -6,7 +6,7 @@ Bounded Phase-D2 verification assist for the Greek lane (deg-arch-inventory-wolx
 
 ### 1. MIT Internet Classics Archive alternate route — ACCESS CONFIRMED
 
-- The fetch tool is bot-blocked on classics.mit.edu, but **direct curl (browser UA) returns 200** for both the Aristotle browse page (https://classics.mit.edu/Browse/index-Aristotle.html) and a text page (https://classics.mit.edu/Aristotle/poetics.1.1.html). The archive is reachable without a browser; the lane can curl-fetch its texts as the alternate route the pool names. (One directory path tested returned 403 — per-path behavior varies; text pages work.)
+- The fetch tool is bot-blocked on classics.mit.edu, but **direct curl (browser UA) returns 200** for both the Aristotle browse page (https://classics.mit.edu/Browse/index-Aristotle.html) and a text page (https://classics.mit.edu/Aristotle/poetics.1.1.html). Content check (v2): the Poetics page (44 KB) carries the full text header ("Poetics by Aristotle") plus a "A text-only version is available for download" link — the archive serves full texts with download options, not just landing pages. The archive is reachable without a browser; the lane can curl-fetch its texts as the alternate route the pool names. (One directory path tested returned 403 — per-path behavior varies; text pages work.)
 
 ### 2. Aristotle open carriers (Gutenberg) — CONFIRMED with IDs
 
