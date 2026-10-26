@@ -962,3 +962,32 @@ was read in full; ~25 minutes of auto-captions).
   verified-video (content inspected via full transcript read); the module's
   content claims, previously bounded to the description, are now
   transcript-confirmed.
+
+## b6 Kirchner lectures: content inspection receipt (2026-10-26, worker-pplx-buddhism-1026b)
+
+Set-gate routed item 2 (content inspection) executed for BOTH b6 lectures
+via the cloud browser (playback bot-walled on both; each watch page's own
+transcript panel rendered and was read; auto-captions, so the
+no-verbatim-quotation rule applies to both).
+
+- Lecture 1 "Buddhism, Zen, and the Question of Suffering" (UVXpdAavGgQ,
+  1:28:04): talk body confirms the module's claims — suffering as central
+  to Buddhism and what drove Shakyamuni to his practice (~13:51-13:59);
+  the host's introduction recites the credentials verbatim from the
+  Society's series page (Otani University; Shofukuji under Yamada Mumon
+  Roshi; ordained 1974; seven years Kencho-in and Kennin-ji; translator of
+  The Record of Linji, Entangling Vines, In a Dream; resides Tenryu-ji).
+- Lecture 3 "Thoughts on Meditation" (jPxuvitdsRI, 1:40:17): the opening
+  directly confirms the place-of-meditation thesis (Buddhism's
+  meditation-associated image "a bit misleading"; most Buddhists not
+  interested in meditating; Pure Land devotional practice and Shingon/
+  Tendai ritual focus). The Rinzai/Soto material is present but framed
+  through individual teachers' views of koan practice vs zazen and
+  shikantaza (~1:01-1:05 and ~1:24; Yamada Mumon, Harada Shodo Roshi, a
+  Rinzai master who spent decades as a Soto monk, Priscilla Daizen
+  Storandt's "koans work for about a third of students") — NOT a
+  systematic school-by-school comparison. Module Step 2 wording tightened
+  accordingly (this is a content-boundary repair, not a source failure).
+- Both source-table labels upgraded verified-metadata → verified-video.
+- Remaining content inspections for the verify lane: b4 Brahmali (partial)
+  and b7 Batchelor. b9 Thanissaro and b6 Kirchner are now cleared.
