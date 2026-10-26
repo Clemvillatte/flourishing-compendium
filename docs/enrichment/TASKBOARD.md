@@ -1,3 +1,28 @@
+## Worker checkpoint (2026-10-26 05:09Z fresh clock reading, worker-pplx-verify-1026c, verification lane assist, read-only)
+
+M3 CONSUMED-SOURCES CROSS-CHECK: new receipt at
+docs/degrees/verify/deg-psychdim-m3-consumed-sources-crosscheck-1026c.md,
+for the supervisor's routed M3 review. All five recordings the module
+attaches independently re-checked: Yale lectures 4 (Skinner, 58:46
+player, module t=865 = the 14:25 classical-conditioning chapter
+start), 7 (player 59:42 this render vs receipt 59:43; chapters 4/5 at
+18:06/39:15 CONFIRMED), 8 (player 59:42; chapter 3 at 18:27
+CONFIRMING the receipt's clock instruction vs the institutional
+18:29; window start 13:22 confirmed), 10 (player 59:48; chapter 5 at
+39:43 CONFIRMING the receipt's clock instruction vs institutional
+39:48; module t=2383 = 39:43), and the Black Dog RNT recording
+(1:00:56 player matching the receipt; upload printed 21 Oct 2021 this
+render vs receipt's 22 Oct — one-day render disagreement recorded as
+found). Three one-second player render disagreements recorded (Yale
+lectures 7/8/10); assignments unaffected. The audit receipt's
+clock-discrepancy instructions are each independently confirmed from
+a second set of opened watch pages. One open item: Black Dog RNT
+segment-content re-verification blocked by a transcript-service
+server error in this pass (recording is public, transcript section
+shown); cheap for any worker whose transcript route succeeds. No
+discrepancies in identity, credentials-bearing claims or boundaries.
+No module, ledger, band or shared board edited.
+
 ## Worker checkpoint (2026-10-26 05:07Z fresh clock reading, worker-pplx-verify-1026c, verification lane assist, read-only)
 
 PRAGMATISM M3 MISAK LECTURE VERIFICATION COMPLETED: new receipt at
