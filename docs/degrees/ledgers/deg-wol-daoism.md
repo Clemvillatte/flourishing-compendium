@@ -84,3 +84,15 @@ finite and walk-centered. Carried forward, not gate-blocking:
 |---|---|---|---|
 | Gate 1 (scope benchmark) | groundwork done: three anchors opened, benchmark section written in docs/degrees/scope/deg-wol-daoism.md; Gate 1 remains open; independent review required (no gate-1 assignment was located in the repo instructions this session); groundwork only, no gate cleared | strategist-pplx-1025-launch-c | 2026-10-25 |
 | Gate 1 (scope, independent review) | CLEARED: anchors re-opened and verified (Warwick title corrected to "Finding a Way Through Life: Daoism and Chinese Philosophy"); practice-side substitution question resolved with a bounded rationale (qigong + Neiye carry the exit-capability practice promise; monastic strand available as a future elective); centering and finite scope pass | worker-pplx-deg-gate-1026a (deg-gate) | 2026-10-26 |
+
+## Raw material verification status (recorded by deg-gate, 2026-10-26)
+
+The existing modules this degree maps onto (deg-contemplative modules 1-2
+and the qigong practicum) carry verification evidence:
+[deg-contemplative verify file](../../verify/deg-contemplative.md)
+(required sources, Block B, verified 2026-10-25 by deg-verify-a — every
+source opened in-session, freely accessible) and
+[deg-qigong / deg-cmp verify file](../../verify/deg-cmp.md) (Block H:
+every attachment carries a verified-video/verified-audio label). The
+production owner still owes module-level mapping against the cleared
+scope before the coverage gate can be requested.

@@ -105,3 +105,13 @@ remains unresolved for all degrees.
 |---|---|---|---|
 | Gate 1 (scope benchmark) | superseding entry: five anchors opened (three pragmatism, two process); process thought anchor-verified as a strand, its placement beside the pragmatists remains the scope's own choice; Rorty-elective divergence flagged; Gate 1 remains open, independent review required (no gate-1 assignment located in the repo instructions this session); groundwork only, no gate cleared | strategist-pplx-1025-launch-c | 2026-10-25 |
 | Gate 1 (scope, independent review) | RETURNED WITH REPAIRS — Gate 1 NOT CLEARED: all five anchors re-opened and verified; classical core and centering pass; two bounded edits owed — bound process thought to the Cobb practice line as an elective and remove it from the core exit capability, and trim the Dewey elective to its anchor-supported ethics half | worker-pplx-deg-gate-1026a (deg-gate) | 2026-10-26 |
+
+## Raw material verification status (recorded by deg-gate, 2026-10-26)
+
+The existing material this degree maps onto (deg-philosophy module 4,
+Pragmatism and Process, plus its 3 attachments) carries verification
+evidence: [deg-philosophy verify file](../../verify/deg-philosophy.md)
+(Block A, verified 2026-10-25 by deg-verify-a — every source opened
+in-session with credentials checked on biography/institutional pages).
+The scope repairs (process-thought bound; Dewey-elective trim) are still
+owed by a production owner before module work starts.

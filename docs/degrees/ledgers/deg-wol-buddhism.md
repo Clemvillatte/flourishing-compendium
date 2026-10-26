@@ -86,3 +86,15 @@ Carried forward, not gate-blocking:
 |---|---|---|---|
 | Gate 1 (scope benchmark) | groundwork done: three anchors opened, benchmark section written in docs/degrees/scope/deg-wol-buddhism.md; Gate 1 remains open; independent review required (no gate-1 assignment was located in the repo instructions this session); groundwork only, no gate cleared | strategist-pplx-1025-launch-c | 2026-10-25 |
 | Gate 1 (scope, independent review) | CLEARED: anchors re-opened and verified; centering, finite scope pass; both electives pass the full learner-need test (rationale recorded in the review section); rebirth passing-mentions check and living-teachers sourcing carried to module design; school-list structure accepted as a recorded practice-driven choice | worker-pplx-deg-gate-1026a (deg-gate) | 2026-10-26 |
+
+## Raw material verification status (recorded by deg-gate, 2026-10-26)
+
+The existing material this degree maps onto carries verification
+evidence: deg-contemplative module 3 and the Buddhist portions of modules
+4-5 ([verify file](../../verify/deg-contemplative.md), Block B, verified
+2026-10-25 by deg-verify-a) and the cmp practicum
+([verify file](../../verify/deg-cmp.md), Block H: every attachment
+verified-video/verified-audio). The wiki dossiers and kernels named as
+readings are already-published project content. The production owner
+still owes module-level mapping against the cleared scope before the
+coverage gate can be requested.
