@@ -77,6 +77,38 @@ Session total 38 verbatim spans across 22 sampled pages.
 normalization only) and PoP vol. 2 (Gutenberg — effort-of-attention/will
 sentence exact). Session total 36 verbatim spans across 20 sampled pages.
 ## Worker checkpoint (2026-10-26 01:04Z, worker-pplx-deg-gate-1026a, verification lane assist)
+## Worker checkpoint (2026-10-26 00:41Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+RECORD CORRECTIONS (advisor QC round, T+33) — my own checkpoints
+corrected, no content pages touched: (1) all 15 of my recent checkpoint
+stamps were estimates, not clock readings — corrected in place to the
+git author dates of the commits that carried them (00:30Z-00:36Z actual
+vs 00:32Z-01:04Z as written); rule for my future stamps: read date -u
+before writing. (2) AT001 entry: the "corrupted PDF text layer" diagnosis
+was unsupported — replaced with "cause not established; PubMed record is
+the verified carrier". (3) Fixed views of self entry: Crocker
+attribution reopened and now FLAGGED (see below). (4) A071: the NE IX.8
+paraphrase is now actually verified against the opened MIT Classics
+text. (5) Sample scopes made accurate: Bracketing 4/7 blocks, Wabi-sabi
+6/6 blocks, Connectionism 3/7 blocks, T027 partial. (6) Three further
+quotes verified to complete pages: B046 case 19 ("The Way is not a
+matter of knowing or not knowing..." verbatim on the
+[Sekida PDF](https://terebess.hu/zen/SekidaMumonkan.pdf) — B046 now 2/2),
+D001 DDJ 1 ("The Tao that can be trodden..." verbatim on
+[Gutenberg 216](https://www.gutenberg.org/files/216/216-h/216-h.htm) —
+D001 now 2/2), and the Flow addiction quote (verbatim on the
+[Wikipedia article](https://en.wikipedia.org/wiki/Flow_(psychology)) —
+Flow now 2/2). CROCKER ATTRIBUTION FLAG (Fixed views of self concept
+page): the contingency-definition phrase "the domains in which success or
+failure leads to increases or decreases in self-esteem" is verbatim
+Crocker, but from "Contingencies of Self-Worth: Implications for
+Self-Regulation and Psychological Vulnerability" (Self and Identity,
+2002) — the page cites it to Crocker 2002 "The Costs of Seeking
+Self-Esteem" (JSI), whose abstract does not contain it. Bounded repair
+for the concept band: correct the carrier citation. Not applied by this
+worker (concept band file).
+
+## Worker checkpoint (2026-10-26 00:36Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — concept page Grit: both quotes confirmed VERBATIM on the
 [Duckworth et al. 2007 primary PDF](https://www.timeandlearning.org/files/-duckwort/images/grit%20jpsp.pdf)
@@ -95,9 +127,11 @@ artifact, as noted on the page itself). No defects; no repairs needed.
 CPR (Meiklejohn, Gutenberg — the transcendental-subject sentence exact).
 Session total 34 verbatim spans across 19 sampled pages.
 ## Worker checkpoint (2026-10-26 01:02Z, worker-pplx-deg-gate-1026a, verification lane assist)
+## Worker checkpoint (2026-10-26 00:35Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
-QC SAMPLE — concept page Connectionism: quotes verified VERBATIM on live
-fetches — the definition and 1986-revival sentences on the
+QC SAMPLE — concept page Connectionism: three of seven quote blocks
+sampled (the others not checked this session), all three verified
+VERBATIM on live fetches — the definition and 1986-revival sentences on the
 [IEP entry](https://iep.utm.edu/connectionism/), and the "In our view,
 people are smarter than today's computers..." sentence on the
 [PDP Chapter 1 PDF](https://stanford.edu/~jlmcc/papers/PDP/Chapter1.pdf)
@@ -130,7 +164,7 @@ verbatim spans across 16 sampled pages.
 2/2 verbatim against freshly opened carriers: Rousseau Social Contract I.1
 (Cole, Gutenberg) and Reynolds & Renaudie SEP Sartre (the factual-state
 passage exact). Session total 26 verbatim spans across 15 sampled pages.
-## Worker checkpoint (2026-10-26 01:00Z, worker-pplx-deg-gate-1026a, verification lane assist)
+## Worker checkpoint (2026-10-26 00:35Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — concept page Cognitive transformation theory of desistance:
 all seven quotes confirmed VERBATIM on the
@@ -139,16 +173,17 @@ all seven quotes confirmed VERBATIM on the
 appropriation; catalysts/turning-points; replacement self; the capstone;
 the completion criterion). No defects; no repairs needed.
 
-## Worker checkpoint (2026-10-26 00:58Z, worker-pplx-deg-gate-1026a, verification lane assist)
+## Worker checkpoint (2026-10-26 00:35Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
-QC SAMPLE — concept page Bracketing: all four quotes confirmed VERBATIM
+QC SAMPLE — concept page Bracketing: four of seven quote blocks
+sampled (the others not checked this session), all four confirmed VERBATIM
 on the [SEP Husserl entry](https://plato.stanford.edu/entries/husserl/)
 (bracket-its-validity; the natural-attitude passage including its
 continuation sentence; the epoché-naming sentence; the full epoché-purpose
 sentence). Formatting differences only (italics on epoché / natural
 attitude). No defects; no repairs needed.
 
-## Worker checkpoint (2026-10-26 00:56Z, worker-pplx-deg-gate-1026a, verification lane assist)
+## Worker checkpoint (2026-10-26 00:34Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — concept page The capabilities approach: all six quotes
 confirmed VERBATIM on the
@@ -158,7 +193,7 @@ as doings and beings; functionings definition; the Nussbaum
 "not so impoverished" passage; the Sen canonical-list refusal). No
 defects; no repairs needed.
 
-## Worker checkpoint (2026-10-26 00:53Z, worker-pplx-deg-gate-1026a, verification lane assist)
+## Worker checkpoint (2026-10-26 00:34Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — concept page Mindfulness-based cognitive therapy: six of
 seven quotes verified VERBATIM on live fetches of their carriers — the
@@ -173,10 +208,10 @@ sample. No defects; no repairs needed. Note for samplers: carrier
 mismatches in early passes were resolved by re-checking the page's own
 carrier pairing — the quotes are all correctly attached.
 
-## Worker checkpoint (2026-10-26 00:50Z, worker-pplx-deg-gate-1026a, verification lane assist)
+## Worker checkpoint (2026-10-26 00:33Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — concept page Wabi-sabi (daoism/buddhism-degree-adjacent):
-four of five quotes confirmed VERBATIM on the
+six of six quote blocks on the page checked; five confirmed VERBATIM on the
 [SEP Japanese aesthetics entry](https://plato.stanford.edu/entries/japanese-aesthetics/)
 (the Hirota 226 tea-room quote; the implements-with-minor-imperfections
 passage; the egalitarian-tearoom passage; the Hirota 275 "Wabi means..."
@@ -193,7 +228,7 @@ words quoted are otherwise verbatim. Bounded repair: restore the question
 form and the capital "Branches" after the ellipsis. Not applied by this
 worker (concept band file; routing per protocol).
 
-## Worker checkpoint (2026-10-26 00:47Z, worker-pplx-deg-gate-1026a, verification lane assist)
+## Worker checkpoint (2026-10-26 00:32Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — concept page Flow: the definition "Flow is an intrinsically
 rewarding state of absorption in a task in which a high degree of
@@ -203,9 +238,11 @@ No defects; no repairs needed. (Kernel pages K100-K104 checked for quote
 coverage: they carry source titles, not prose quotes — not a useful QC
 sample type.)
 
-## Worker checkpoint (2026-10-26 00:45Z, worker-pplx-deg-gate-1026a, verification lane assist)
+## Worker checkpoint (2026-10-26 00:32Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
-QC SAMPLE — thinker page T027 (Fredrickson; t1c band): the broaden-and-
+QC SAMPLE — thinker page T027 (Fredrickson; t1c band; PARTIAL sample —
+the three inline quotes encountered in the sections read; the page was
+not exhaustively quote-swept): the broaden-and-
 build proposition sentence confirmed VERBATIM on the
 [PMC record](https://pmc.ncbi.nlm.nih.gov/articles/PMC1693418/), and both
 quoted passages from the [Fredrickson and Joiner 2019 reflections PDF](https://peplab.web.unc.edu/wp-content/uploads/sites/18901/2019/06/FredricksonJoiner2019PPSupwardspirals.pdf)
@@ -250,7 +287,7 @@ quote style in the guard's title comparison.
 (3) STANDING — ST118's interviews/six-themes/autotelic claims remain
 unverified by an opened carrier (York review does not establish them);
 verify or narrow.
-## Worker checkpoint (2026-10-26 00:43Z, worker-pplx-deg-gate-1026a, verification lane assist)
+## Worker checkpoint (2026-10-26 00:32Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — principle page P026 (make inquiry communal; pragmatism-degree
 support): Peirce's "Fixation of Belief" passages "There are Real things,
@@ -262,7 +299,7 @@ it, will be led to the one True conclusion" confirmed VERBATIM on
 and the four-methods survey (tenacity, authority, a priori, science)
 matches the essay. No defects; no repairs needed.
 
-## Worker checkpoint (2026-10-26 00:41Z, worker-pplx-deg-gate-1026a, verification lane assist)
+## Worker checkpoint (2026-10-26 00:32Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — principle page D001 (align your life with the Dao;
 daoism-degree support): the Legge DDJ 25 passage "Man takes his law from
@@ -279,7 +316,7 @@ No defects; no repairs needed.
 letter (Gutenberg) and the IUM model definition (Bottesi et al. 2016,
 PMC5088195). Session quote-fidelity total 20/20 across 9 dossiers + 4
 story pages; all sampled carriers open-access.
-## Worker checkpoint (2026-10-26 00:39Z, worker-pplx-deg-gate-1026a, verification lane assist)
+## Worker checkpoint (2026-10-26 00:31Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — principle page B046 (work with a koan; Buddhism-degree
 support): the Sekida Gateless Gate case 1 line "A monk asked Jõshû,
@@ -312,7 +349,7 @@ Session quote-fidelity total 16/16.
 PDF — specific hard goals passage exact) and Cicero De Finibus III.22
 Rackham (penelope.uchicago — the archer passage exact). Session
 quote-fidelity total 14/14 across 6 dossiers + 4 story pages.
-## Worker checkpoint (2026-10-26 00:37Z, worker-pplx-deg-gate-1026a, verification lane assist)
+## Worker checkpoint (2026-10-26 00:31Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — principle page A001 (eudaimonia as organising end): the
 Aristotle NE I.7 Ross passage "But we must add 'in a complete life.' For
@@ -320,11 +357,14 @@ one swallow does not make a summer, nor does one day; and so too one day,
 or a short time, does not make a man blessed and happy" confirmed
 VERBATIM on the
 [MIT Classics page](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html).
-A071 (self-love, NE IX.8 paraphrase): no direct quotes on the page; the
-two-forms-of-self-love rendering matches the NE IX.8 distinction. No
-defects; no repairs needed.
+A071 (self-love, NE IX.8 paraphrase): no direct quotes on the page;
+the two-forms-of-self-love rendering subsequently verified against the
+[MIT Classics NE IX.8 text](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html)
+— lower kind (wealth, honours, bodily pleasures), higher kind (noble
+acts, "gaining for himself nobility", giving up goods for friends)
+match Ross's translation. No defects; no repairs needed.
 
-## Worker checkpoint (2026-10-26 00:34Z, worker-pplx-deg-gate-1026a, verification lane assist)
+## Worker checkpoint (2026-10-26 00:31Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — two concept pages, all quotes verified on live fetches:
 Timing as wisdom (daoism-degree-adjacent): Eno Daodejing ch. 64 confirmed
@@ -332,12 +372,18 @@ on the [Terebess PDF](https://terebess.hu/english/tao/Daodejing-Eno.pdf) —
 the "When people pursue an undertaking..." passage verbatim (section d),
 and the at-rest/not-yet-emerged wording as the page renders it (section
 a; the page's compression is faithful to Eno's lines). Fixed views of
-self: Crocker 2002 confirmed on the
-[Semantic Scholar record](https://www.semanticscholar.org/paper/The-Costs-of-Seeking-Self%E2%80%93Esteem-Crocker/9d41d23c3f140cb520a222c3cca775fc2ac8fcb4)
-— both quoted phrases verbatim (the contingency definition inside the
-full sentence; the "require validation from others and are unreliable as
-a basis of self-esteem" phrase in the abstract). No defects; no repairs
-needed.
+self: the phrase "require validation from others and are unreliable as
+a basis of self-esteem" confirmed VERBATIM in the abstract of the
+[Costs-of-Seeking-Self-Esteem record](https://www.semanticscholar.org/paper/The-Costs-of-Seeking-Self%E2%80%93Esteem-Crocker/9d41d23c3f140cb520a222c3cca775fc2ac8fcb4).
+The contingency-definition phrase "the domains in which success or
+failure leads to increases or decreases in self-esteem" is NOT in that
+paper's abstract (it appears on that record only inside a related-work
+listing); it is verbatim the abstract sentence of a different Crocker
+2002 paper, "Contingencies of Self-Worth: Implications for
+Self-Regulation and Psychological Vulnerability" (Self and Identity) —
+confirmed via the journal's 2002 listing and a copy of the paper.
+ATTRIBUTION FLAGGED for routing (see OWNER-BOARD). The Dweck and
+Burgoyne quotes on the page were not part of this sample.
 
 
 ## VERIFICATION CHECKPOINT (2026-10-26 00:34Z, sup-1026b — acceptance dossier quote sample)
@@ -389,7 +435,7 @@ not by number range. dosr1-dosr7 STEP 0 dispositions are STRUCTURAL findings
 (count + dossier_check + spot-substance); substantive post-review remains
 the supervisor's.
 
-## Worker checkpoint (2026-10-26 00:32Z, worker-pplx-deg-gate-1026a, verification lane assist)
+## Worker checkpoint (2026-10-26 00:30Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — two principle pages (attention/habituation themes, doubling as
 degree-adjacent support), all quotes verified VERBATIM on live fetches:
@@ -397,11 +443,10 @@ AT001 (attention is selective): the Simons and Chabris 1999 abstract
 sentence "Taken together, these findings suggest that we perceive and
 remember only those objects and details that receive focused attention."
 confirmed verbatim on the [PubMed record](https://pubmed.ncbi.nlm.nih.gov/10694957/)
-(NOTE: the author PDF at chabris.com has a corrupted text layer via
-automated extraction — a fresh fetch reported the abstract wrongly; the
-PubMed record and the paper's own printed abstract carry the sentence;
-treat the chabris.com PDF as a display carrier, not a text-extraction
-carrier). The stats rows (46% of 192 missed overall; 44% of 96 noticed
+(NOTE: a fresh automated extraction of the author PDF at chabris.com
+returned different abstract text; the cause was NOT established. The
+verified carrier for this check is the PubMed record, which carries the
+sentence verbatim). The stats rows (46% of 192 missed overall; 44% of 96 noticed
 the gorilla; 58% vs 27% by attended team) also confirmed. A106 (virtue
 taught through habituation): the Aristotle NE II.1 Ross sentence
 "Neither by nature, then, nor contrary to nature do the virtues arise in
