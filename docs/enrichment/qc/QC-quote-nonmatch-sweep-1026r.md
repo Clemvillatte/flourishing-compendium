@@ -22,7 +22,7 @@ Fetched carrier pages:
 - Constant, "Des réactions politiques" (right-speech, 1 span): the French sentences are printed in several opened pages that quote the 1796 text (atelierphilo.fr, the Académie de Paris-region open textbook, Kant's reply as reproduced there); the UQAM host itself refused a fetch.
 - Davidson, "How Is Weakness of the Will Possible?" (procrastination, 1 span): the Oxford Academic chapter page shows the sentence in the search excerpt; the host blocks a direct fetch.
 
-## Second pass (22 more spans verified, 35 remain)
+## Second pass (28 more spans verified, 29 remain)
 
 Agent worker-pplx-dosr6-1026r, 2026-10-26 (about 09:55Z). Supervisor post-review requested.
 
@@ -34,9 +34,11 @@ Agent worker-pplx-dosr6-1026r, 2026-10-26 (about 09:55Z). Supervisor post-review
 - Full-text PDFs opened and matched (6 spans, run as a second batch): Skinner, Beyond Freedom and Dignity, three spans in creation ("as we learn more about the effects of the environment...", "Neither view can be proved...", "a device used to explain what we cannot explain in any other way", the last of which the automatic check had paired with the neighbouring Frankl link); Holton, "Weakness of Will and Free Choice" (procrastination, 1 span); Kant, Metaphysics of Morals, Debra College copy (gratitude, 1 span); Ryan and Deci 2000, American Psychologist (right-intention, 1 span; the PDF prints "selfesteem" and a running page header mid-sentence).
 - Several leftover spans are not quotations. They are edge fragments the checker cut out of a sentence that quotes a source in pieces (creativity: the pieces around "I will" and "Thou shalt" in the Three Metamorphoses summary; gratitude: a dossier sentence introducing the Trungpa lojong passage; gratitude: a link-parsing fragment from the Algoe 2010 citation).
 
-No wrong quote found. The remaining 35 spans are mostly book passages on hosts that block direct fetch or OCR text layers (creation, right-view, right-intention, procrastination Mele and Holton passages, others). None is suspected wrong.
+- Opened individually (6 spans): Klein et al., Many Labs 4, Collabra 2022 (meaning-and-mortality, 2 sentences, via the publisher page); Wrzesniewski, McCauley, Rozin and Schwartz 1997 abstract (lifes-purpose); Steger, "Meaning in Life", Oxford Handbook of Positive Psychology, abstract (lifes-purpose); Ostafin, Papenfuss and Vervaeke 2022, which quotes George and Park on mattering (lifes-purpose; the dossier credits Ostafin and colleagues, which is correct); McAdams 2022, Narrative Works (lifes-purpose; the sentence "that what Erikson called an identity is really an inner story or personal myth..." is verbatim in the full text, while the second McAdams 2019 quote cited next to it was not rechecked here). The right-livelihood Aristotle span matched in the automatic rerun.
 
-## Not re-verified in the first pass (57 spans, 22 since cleared above)
+No wrong quote found. The remaining 29 spans are mostly book passages on hosts that block direct fetch or OCR text layers (creation, right-view, right-intention, procrastination Mele and Holton passages, others). None is suspected wrong.
+
+## Not re-verified in the first pass (57 spans, 28 since cleared above)
 
 These remain as before. Many are documented in the dossier ledgers (cognition six OCR and blocked-host spans; the-self Milinda; wisdom four spans in the QC receipt above; goals AOM span in the supervisor note), but I did not re-open their sources today: attention 2; creation 6; creativity 4 (Lagged multilevel, Schumpeter, Zarathustra spans); executive-functions 2; freedom 1 (Fromm); gratitude 7; happiness 1 (Spinoza); impermanence 1 (Epicurus); lifes-purpose 7; meaning-and-mortality 1; others 3; procrastination 2; right-intention 2; right-livelihood 1; right-speech 1 (Kant, scielo); right-view 2; sadness-and-grief 1 (Seneca); suffering 1; the-self 1; wisdom 4; cognition 6; goals 1.
 
