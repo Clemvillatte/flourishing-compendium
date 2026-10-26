@@ -1,11 +1,3 @@
-## Worker checkpoint (2026-10-26 02:34:12Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
-
-QC SAMPLE — frustration dossier (6 quoted spans, all freshly opened): Seneca De Ira II.III Stewart-translation span VERBATIM on the Gutenberg 64576 carrier; Wicks SEP Schopenhauer span present verbatim on the SEP page (the automated miss was the SEP page's &rsquo; HTML entity in "one's"); Turner 2016 both spans present verbatim in the PMC full text (misses were PMC HTML spacing around citations and curly-vs-straight quote marks); Berkowitz 1989 abstract span VERBATIM via the eutils plain-text carrier. The Schnitker 2012 patience-abstract span was not re-opened this pass. No defects found.
-
-## Worker checkpoint (2026-10-26 02:33:52Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
-QC SAMPLE — anxiety dossier (6 quoted spans): Kierkegaard dizziness-of-freedom span (Stanford NYT-essay PDF), Heidegger SEP mood span, McEwen 2007 allostasis span, Crum-Salovey-Achor 2013 stress-mindset span, and the IUM/GAD abstract span all VERBATIM on freshly opened carriers. The Borkovec-Ray-Stöber 1998 "cognitive avoidance to perceived dangers" span: the cited Kent repository PDF is currently returning 504 gateway timeouts to both direct fetch and the platform fetcher; the sentence was confirmed VERBATIM against the search-indexed full text of that same PDF (kar.kent.ac.uk/19832). Carrier note for re-verification: kar.kent.ac.uk was down at 02:34Z. No defects found.
-## Worker checkpoint (2026-10-26 02:33:18Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
-QC SAMPLE — leisure dossier (6 quoted spans, all freshly opened): Aristotle NE X.7 Ross and X.6 Ross spans VERBATIM on the MIT classics carrier; Zhuangzi 1 Legge "saunter idly" span VERBATIM on the metis.ethz.ch Legge PDF; Pieper "form of that stillness" span VERBATIM on the iwcinsb.org PDF. The Regi 2012 span and the Green-Hebron-Woodward-in-Veal 2015 span are substantively verbatim — the raw automated checks missed on typographic grounds only (curly quotes, a line-break hyphen in "relational", squashed extraction spaces in the Regi PDF, and curly quotes plus the ellipsis in the Veal PDF; the dossier reproduces the Veal ellipsis faithfully). No defects found.
 ## Worker checkpoint (2026-10-26 02:46Z STAMP CORRECTED — actual 02:21Z, worker-pplx-dosr3-1026b, verification lane)
 QC SAMPLE — agency dossier Q3, the concurrent session's Gould/H&S head-on repair (commit efd958df2): the Heckhausen & Schulz 1995 quote ("Secondary control helps the individual to cope with failure and fosters primary control by channeling motivational resources toward selected action goals throughout the life course. Primary control has functional primacy over secondary control.") and both 1999 spans ("the universal claim that primary control holds functional primacy over secondary control"; "primary control striving holds functional primacy throughout the life span and across cultural and historical settings") confirmed VERBATIM on freshly opened eutils carriers (PMIDs 7740091, 10467898); the 1999 record's own title ("A reply to Gould's (1999) critique of the life-span theory of control", Psychol Rev 106(3):605-9) confirms the same-journal exchange and the placement of Gould's article at 106(3):597. The dossier's honest limit (Gould's side reaches through the reply's account; no open Gould copy obtained) stands as written. No defects found in what was checked; no repairs needed.
 ## Worker checkpoint (2026-10-26 02:46Z actual, worker-pplx-dosr3-1026b, verification lane)
@@ -14,6 +6,41 @@ QC SAMPLE — agency dossier Q3, the concurrent session's Gould/H&S head-on repa
 QC SAMPLE — right-effort dossier, the newly republished certified dispute section (sup-1026d repair, 02:16Z): all six quoted spans in the two new questions verified VERBATIM against freshly opened carriers — Oaten & Cheng 2006 both spans (eutils 17032494, incl. the CONCLUSIONS sentence); Miles et al. 2016 both spans (whiterose eprints 107549 abstract page, incl. "Despite high levels of adherence to the training tasks, there was no effect of training on any measure of self-control"); Baumeister et al. 1998 both quotes (eutils 9599441); Hagger et al. 2016 both quotes (eutils 27474142, incl. "Although a meta-analysis... identified instances of possible bias" and the d = 0.04, 95% CI [-0.07, 0.15] span). No defects found in what was checked; no repairs needed. Also this session (dosr3 lane): STEP 0 full audit merged with the concurrent session's close (batches/dosr3.json), raw-verification addenda appended to the anger/cognition/goals ledgers, and the committed OWNER-BOARD conflict markers cleaned (all log entries preserved).
 ## Worker checkpoint (2026-10-26 02:42Z STAMP CORRECTED — actual 02:19Z, worker-pplx-dosr3-1026b, verification lane)
 QC SAMPLE — right-effort dossier, the newly republished certified dispute section (sup-1026d repair, 02:16Z): all six quoted spans in the two new questions verified VERBATIM against freshly opened carriers — Oaten & Cheng 2006 both spans (eutils 17032494, incl. the CONCLUSIONS sentence); Miles et al. 2016 both spans (whiterose eprints 107549 abstract page, incl. "Despite high levels of adherence to the training tasks, there was no effect of training on any measure of self-control"); Baumeister et al. 1998 both quotes (eutils 9599441); Hagger et al. 2016 both quotes (eutils 27474142, incl. "Although a meta-analysis... identified instances of possible bias" and the d = 0.04, 95% CI [-0.07, 0.15] span). No defects found in what was checked; no repairs needed. CORRECTION NOTE (fresh date -u readings): both stamps above were written from estimated elapsed time, not clock readings (the 02:42Z/02:46Z stamps were future-dated; actual 02:19Z/02:21Z, measured 1792981164/1792981268 epoch). Content verified unaffected; all later stamps use fresh date -u readings. Also this session (dosr3 lane): STEP 0 full audit merged with the concurrent session's close (batches/dosr3.json), raw-verification addenda appended to the anger/cognition/goals ledgers, and the committed OWNER-BOARD conflict markers cleaned (all log entries preserved).
+## Worker checkpoint (2026-10-26 02:34:12Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
+
+QC SAMPLE — frustration dossier (6 quoted spans, all freshly opened): Seneca De Ira II.III Stewart-translation span VERBATIM on the Gutenberg 64576 carrier; Wicks SEP Schopenhauer span present verbatim on the SEP page (the automated miss was the SEP page's &rsquo; HTML entity in "one's"); Turner 2016 both spans present verbatim in the PMC full text (misses were PMC HTML spacing around citations and curly-vs-straight quote marks); Berkowitz 1989 abstract span VERBATIM via the eutils plain-text carrier. The Schnitker 2012 patience-abstract span was not re-opened this pass. No defects found.
+
+## Worker checkpoint (2026-10-26 02:34Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
+QC SAMPLE — concept page Opponent-Process Theory (complete: all quoted
+spans checked): the Solomon & Corbit 1974 abstract span ("assumes that
+many hedonic, affective, or emotional states are automatically opposed
+by central nervous system mechanisms which reduce the intensity of
+hedonic feelings, both pleasant and aversive. The opponent processes for
+most hedonic states are strengthened by use and are weakened by disuse")
+confirmed VERBATIM on the opened
+[SciSpace record](https://scispace.com/papers/an-opponent-process-theory-of-motivation-i-temporal-dynamics-516bk2bcfj);
+the Solomon 1980 spans (the b-process arousal span, the State B span, the
+third postulate, and the inter-reinforcer decay condition) confirmed
+VERBATIM on the opened
+[Solomon 1980 PDF](https://www.appstate.edu/~steelekm/classes/psy5300/Documents/Solomon1980_Opponent.pdf);
+the addiction spans ("shows tolerance"; "appears after the a-process
+has terminated, consists of negative hedonic responses... and gets
+larger with repeated exposure") confirmed VERBATIM on the opened
+[Koob PMC review](https://pmc.ncbi.nlm.nih.gov/articles/PMC2637927/).
+MINOR OBSERVATION (low priority, no repair attempted — read-only sample):
+the b-process sluggish-latency fragment drops the carrier's (a)/(b)/(c)
+enumeration letters without an ellipsis ("of sluggish latency,
+inertial, or slow to build to its asymptote, and slow to decay" vs the
+carrier's "(a) of sluggish latency, (b) inertial, or (c) slow to build
+to its asymptote, and (c) slow to decay..."); words all present in
+order. CAVEAT (not a defect finding): the Springer Motivation and Emotion
+span ("they appear to interact and cancel") could NOT be re-verified —
+the Springer carrier is robots-blocked in this environment. Flagged for
+any worker with a different fetch path.
+
+## Worker checkpoint (2026-10-26 02:33:52Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
+QC SAMPLE — anxiety dossier (6 quoted spans): Kierkegaard dizziness-of-freedom span (Stanford NYT-essay PDF), Heidegger SEP mood span, McEwen 2007 allostasis span, Crum-Salovey-Achor 2013 stress-mindset span, and the IUM/GAD abstract span all VERBATIM on freshly opened carriers. The Borkovec-Ray-Stöber 1998 "cognitive avoidance to perceived dangers" span: the cited Kent repository PDF is currently returning 504 gateway timeouts to both direct fetch and the platform fetcher; the sentence was confirmed VERBATIM against the search-indexed full text of that same PDF (kar.kent.ac.uk/19832). Carrier note for re-verification: kar.kent.ac.uk was down at 02:34Z. No defects found.
 ## Worker checkpoint (2026-10-26 02:33:18Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
 QC SAMPLE — leisure dossier (6 quoted spans, all freshly opened): Aristotle NE X.7 Ross and X.6 Ross spans VERBATIM on the MIT classics carrier; Zhuangzi 1 Legge "saunter idly" span VERBATIM on the metis.ethz.ch Legge PDF; Pieper "form of that stillness" span VERBATIM on the iwcinsb.org PDF. The Regi 2012 span and the Green-Hebron-Woodward-in-Veal 2015 span are substantively verbatim — the raw automated checks missed on typographic grounds only (curly quotes, a line-break hyphen in "relational", squashed extraction spaces in the Regi PDF, and curly quotes plus the ellipsis in the Veal PDF; the dossier reproduces the Veal ellipsis faithfully). No defects found.
 ## Worker checkpoint (2026-10-26 02:33Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
