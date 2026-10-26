@@ -51,3 +51,38 @@ record. The set-level gate review remains owed (m2-m5 full reads or a
 defensible equivalent); the integration handoff spec's prerequisite
 ("the deg-gate whole-degree gate review must land first") is NOT
 satisfied by this receipt.
+
+## Addendum — m2 read in full (same session)
+
+- m2-belief-and-doubt.md, 351 lines, read in full this session at hash
+  a3b098b6 (the supervisor status-repair receipt's hash; the
+  supervisor module-QC PASS record covers this hash per the band).
+  Coverage now: m1 + m2 in full; m3-m5 remain unread by this
+  reviewer; no set-level clearance is granted.
+
+m2 centering/scope findings (gate lane concerns only):
+
+- Own-practice orientation: PASS. The graded diagnosis applies
+  Peirce's four methods to one of the learner's own live beliefs and
+  designs the method-of-science test for it; the worked examples
+  ("my brother will never change", "the way I work under pressure is
+  just who I am") model the moves on ordinary material.
+- Finite scope: PASS. The bounded-domain section covers Peirce's
+  account in the essay itself and excludes the history of logic,
+  Peirce's later semiotics and science classification, and the
+  psychology of habit formation (explicitly owned by the psychdim
+  walk) — the when-in-doubt-exclude test is stated.
+- Honesty conventions: strong. The single attached source (Wikisource,
+  public domain) is verified with pinned segment boundaries and
+  measured word counts (834 + 1,368 + 2,371 = 4,573); the stipulated
+  teaching cases and constructed operational choices are labelled as
+  such; the video-first fallback is documented with the search
+  recorded.
+- Workload arithmetic: 105 + 15 + 30 + 15 + 60 = 225 labelled minutes
+  stated as about 3h45m — recomputed by this reviewer, consistent;
+  the reading word counts sum as printed.
+- No paywalled or app-gated content in the attached source.
+
+The set-level gate review remains owed (m3-m5 full reads or a
+defensible equivalent); this addendum does not satisfy the
+integration handoff spec's gate prerequisite.
