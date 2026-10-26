@@ -1,4 +1,4 @@
-# b3 — Sila in Practice: The Precepts as Training
+# b3: Sila in Practice, The Precepts as Training
 
 - **band**: deg-wol-buddhism
 - **kind**: degree-module
@@ -44,7 +44,7 @@ precepts as tools rather than slogans.
 
 ## Instruction sequence
 
-### Step 1 — Ethics and tolerance, from a living teacher (~12 min, video segment)
+### Step 1: Ethics and tolerance, from a living teacher (~12 min, video segment)
 
 **Ajahn Brahm, "What the Buddha Taught" (Everyday Dhamma Network
 remaster of a talk recorded at Dhammaloka, Perth, 2003),
@@ -74,7 +74,7 @@ with attribution and quotes none of its wording.
 Activity: one line per chapter mark you cross (00:25:46, 00:31:32), naming
 the shift in the teaching.
 
-### Step 2 — The precepts in the booklet (~30 min, reading)
+### Step 2: The precepts in the booklet (~30 min, reading)
 
 **Ajahn Brahm, "What Is Buddhism?" booklet (BSWA, Perth, January 2016,
 free distribution), https://bswa.org/teaching/buddhism-ajahn-brahm/.**
@@ -87,7 +87,7 @@ AN 5.179 appear here in the author's practical register.
 Activity: for each precept, write the one sentence in the booklet that
 most changes how you read it, and say why in a clause.
 
-### Step 3 — The modernized rendering (~10 min, reading)
+### Step 3: The modernized rendering (~10 min, reading)
 
 **The Five Mindfulness Trainings, Plum Village tradition (revised
 2022), https://plumvillage.org/mindfulness/the-5-mindfulness-trainings/**

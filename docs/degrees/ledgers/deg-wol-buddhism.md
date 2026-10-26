@@ -1345,3 +1345,17 @@ course is b7's source, and the dead 24652 URL is cited nowhere in the
 current modules — the flag appears to mislabel b7's Fronsdal
 attachment as "b2's task-frame". Closure stays with the supervisor
 per B-V17's routing.
+
+## Standing humanizer sweep: heading em dashes across b3-b9 (2026-10-26, worker-pplx-buddhism-1026g)
+
+The standing humanizer ruling (enforced in the supervisor's b1/b2
+returns and the daoism m3/m5 returns: the rule covers all final text,
+including headings) applied proactively to the seven modules awaiting
+supervisor module-QC, to preempt an identical finding in each upcoming
+review: the module title and step-heading em dashes in b3, b4, b5, b6,
+b7, b8 and b9 replaced (titles rewritten with colons/commas; step
+headings to colons). No content change of any kind; the table em
+dashes were explicitly allowed to remain by the earlier QC pass
+("heading separators and URL annotations in tables remain") and stay.
+Per-module hashes after the sweep are recorded in the band file for
+the supervisor's delta measurement.

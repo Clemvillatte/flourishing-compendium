@@ -1,4 +1,4 @@
-# b9 (elective) — The Mind on the Cushion: The Five Hindrances and the Five Aggregates
+# b9 (elective): The Mind on the Cushion, The Five Hindrances and the Five Aggregates
 
 - **band**: deg-wol-buddhism
 - **kind**: degree-module (ELECTIVE; serves the meditating learner's need to understand their own mind in practice, per the scope's elective test: the hindrances and aggregates as experienced, not as scholastics)
@@ -53,7 +53,7 @@ where they were met.
 
 ## Instruction sequence
 
-### Step 1 — The teacher (~25 min, video, whole talk)
+### Step 1: The teacher (~25 min, video, whole talk)
 
 **Thanissaro Bhikkhu, "Hindrances" (evening Dhamma talk; "Dhamma
 Talks by Thanissaro Bhikkhu" channel; the talk's own recording date
@@ -71,7 +71,7 @@ Abbot of Metta Forest Monastery since 1993).
 Activity: keep the talk's list beside your sitting log; mark every log
 line a hindrance names.
 
-### Step 2 — The canonical text (~40 min, reading)
+### Step 2: The canonical text (~40 min, reading)
 
 **Nyanaponika Thera, The Five Mental Hindrances and Their Conquest:
 Selected Texts from the Pali Canon and the Commentaries (The Wheel,
@@ -86,14 +86,14 @@ biographical claims about the author beyond what that page states.
 Read the sections for your two most-visited hindrances closely; skim
 the rest. Activity: the countermeasure table for outcome 2.
 
-### Step 3 — The log as laboratory (~30 min)
+### Step 3: The log as laboratory (~30 min)
 
 Reread your full sitting log (b4 onward). Mark the hindrance-named
 lines. Write the three-sentence pattern statement (outcome 3). Then
 set up the countermeasure experiment for your next three sittings
 (outcome 2) and add those sittings to the log.
 
-### Step 4 — The aggregates, as activities in your sitting (~30 min, reading + one sitting review)
+### Step 4: The aggregates, as activities in your sitting (~30 min, reading + one sitting review)
 
 **Thanissaro Bhikkhu, "The Five Aggregates: A Study Guide" (Metta
 Forest Monastery; Access to Insight BCBS Edition, ©2010 Metta Forest

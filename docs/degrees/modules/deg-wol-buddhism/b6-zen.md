@@ -1,4 +1,4 @@
-# b6 — Zen: The Japanese Inheritance
+# b6: Zen, The Japanese Inheritance
 
 - **band**: deg-wol-buddhism
 - **kind**: degree-module
@@ -54,7 +54,7 @@ reflection on how it lands against your own walk so far.
 
 ## Instruction sequence
 
-### Step 1 — The suffering question, Zen's way (~1 h 28 min, video, whole lecture, two viewing stops)
+### Step 1: The suffering question, Zen's way (~1 h 28 min, video, whole lecture, two viewing stops)
 
 **Thomas Yuhō Kirchner, "Buddhism, Zen, and the Question of Suffering",
 Lecture 1 of Part II (Zen Buddhism) of The Buddhist Society's
@@ -78,7 +78,7 @@ Watch in two stops (viewing stops, not content claims, since the
 page prints no chapter list): 00:00:00-00:44:00 and 00:44:00-01:28:04. Activity:
 one line per stop on the thread of the argument.
 
-### Step 2 — Zen meditation, examined (~1 h 40 min, video, whole lecture, two viewing stops)
+### Step 2: Zen meditation, examined (~1 h 40 min, video, whole lecture, two viewing stops)
 
 **Thomas Yuhō Kirchner, "Thoughts on Meditation", Lecture 3 of the same
 series, https://www.youtube.com/watch?v=jPxuvitdsRI, 1:40:17** (3 July
@@ -101,7 +101,7 @@ prints no chapter list): 00:00:00-00:50:00 and 00:50:00-01:40:17. Activity: afte
 the Rinzai-Soto discussion, write the two approaches in two lines each,
 in your own words.
 
-### Step 3 — One sitting, viewed through the lecture
+### Step 3: One sitting, viewed through the lecture
 
 Sit ten minutes in your existing b4 form, then log one observation on
 what the lecture's account of the Soto register suggests about that

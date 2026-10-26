@@ -1,4 +1,4 @@
-# b8 — Capstone: A Practice, A Case, A Position
+# b8: Capstone, A Practice, A Case, A Position
 
 - **band**: deg-wol-buddhism
 - **kind**: degree-module (integrative capstone)

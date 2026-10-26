@@ -1,4 +1,4 @@
-# b4 — Foundational Meditations: Setting Up and Sitting
+# b4: Foundational Meditations, Setting Up and Sitting
 
 - **band**: deg-wol-buddhism
 - **kind**: degree-module (practice module; practicum-style training plan per the curriculum skill's discipline rules)
@@ -40,7 +40,7 @@ repetition.
 
 ## Instruction sequence
 
-### Step 1 — The teaching: setting up (~21 min, video segment 00:00-20:32)
+### Step 1: The teaching: setting up (~21 min, video segment 00:00-20:32)
 
 **Ajahn Brahmali, "Introduction to Meditation: Session 1 - Setting
 yourself up + guided meditation" (Buddhist Society of Western Australia
@@ -54,13 +54,13 @@ Watch through the guided-meditation chapter mark, then stop.
 Activity: write your setup plan (time of day, place, posture) in three
 lines, with one reason per line. You will use it in the training plan.
 
-### Step 2 — First guided sitting (~14 min, video segment 00:20:32-00:33:55)
+### Step 2: First guided sitting (~14 min, video segment 00:20:32-00:33:55)
 
 The same session's guided meditation chapter, 00:20:32-00:33:55 (13 minutes 23
 seconds). Sit with it, following the guidance. This is outcome 2's first
 execution. Log it: date, duration, one line.
 
-### Step 3 — The training plan (two weeks, scheduled)
+### Step 3: The training plan (two weeks, scheduled)
 
 Seven sittings, on a written schedule you set before starting:
 - Three guided sittings: the session-1 guided segment (00:20:32-00:33:55),
@@ -77,7 +77,7 @@ Each sitting gets one log line. The alternating of breath and metta work
   is this course's design choice for an introductory module; the log is
   the assessed record.
 
-### Step 4 — Spaced reading (one page, once in each week)
+### Step 4: Spaced reading (one page, once in each week)
 
 **Metta Sutta, Khp 9 (Sujato translation on SuttaCentral,
 https://suttacentral.net/kp9/en/sujato).** One reading per week, to keep

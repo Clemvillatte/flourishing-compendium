@@ -1,4 +1,4 @@
-# b7 — Insight and Secular: Buddhism Rewritten for the West
+# b7: Insight and Secular, Buddhism Rewritten for the West
 
 - **band**: deg-wol-buddhism
 - **kind**: degree-module
@@ -58,7 +58,7 @@ states the tasks framing, so no such example is offered.
 
 ## Instruction sequence
 
-### Step 1 — The Insight course's first week (~30 min reading + 2 transcript-based sittings)
+### Step 1: The Insight course's first week (~30 min reading + 2 transcript-based sittings)
 
 **Gil Fronsdal, "Introduction to Mindfulness Meditation," Week 1:
 Mindfulness of Breath.** Read the Week 1 transcript from the Insight
@@ -89,7 +89,7 @@ https://www.audiodharma.org/speakers/1).
 Activity: log the two sittings in your b4-format log (resource, guided
 or unguided, completion, one observation).
 
-### Step 2 — The secular case (~1 h 27 min, video, whole lecture)
+### Step 2: The secular case (~1 h 27 min, video, whole lecture)
 
 **Stephen Batchelor, "A Secular Buddhism", Radboud Reflects (Radboud
 University), https://www.youtube.com/watch?v=Hhlj_SU9SAE, 1:26:35.**
@@ -116,7 +116,7 @@ Watch in two stops (viewing stops, not content claims, since the page
 prints no chapter list): 00:00:00-00:43:00 and 00:43:00-01:26:35. Activity: one line
 per stop on the thread of the argument as you heard it.
 
-### Step 3 — The comparison (the module's core, ~45 min)
+### Step 3: The comparison (the module's core, ~45 min)
 
 Build a comparison table on your chosen question (outcome 3), citing the
 specific places in the two sources where each account commits itself.

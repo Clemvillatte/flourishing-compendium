@@ -1,4 +1,4 @@
-# b5 — The Thai Forest Way: Theravada in Practice
+# b5: The Thai Forest Way, Theravada in Practice
 
 - **band**: deg-wol-buddhism
 - **kind**: degree-module
@@ -49,7 +49,7 @@ named; the Sumedho talk is the school's senior Western voice.
 
 ## Instruction sequence
 
-### Step 1 — The senior teacher (~1 h 2 min, video, whole talk, two viewing stops)
+### Step 1: The senior teacher (~1 h 2 min, video, whole talk, two viewing stops)
 
 **Ajahn Sumedho, "Mindfulness and Wisdom", Amaravati Buddhist Monastery
 channel, https://www.youtube.com/watch?v=SElyOzgkxjo, 1:01:36.** A Dhamma
@@ -66,7 +66,7 @@ recording in two timestamped VIEWING STOPS (viewing stops, not content
 claims): 00:00:00-00:30:00 and 00:30:00-01:01:36. Activity: after each
 sitting, one line on the thread of the teaching as you heard it.
 
-### Step 2 — The lineage's book (~70 min, reading, assigned sections)
+### Step 2: The lineage's book (~70 min, reading, assigned sections)
 
 **The Collected Teachings of Ajahn Chah (single volume, third edition
 2011), free PDF on Amaravati Buddhist Monastery's CDN
@@ -109,7 +109,7 @@ than scholastic commentary.
 
 Activity: for each teaching, the one-line record named in outcome 3.
 
-### Step 3 — Tie it to the canon you already hold
+### Step 3: Tie it to the canon you already hold
 
 Return to AN 5.179 and SN 56.11 (b1 and b2). Skim both again, now
 knowing they are Theravada canon. Note one place where the Thai Forest
