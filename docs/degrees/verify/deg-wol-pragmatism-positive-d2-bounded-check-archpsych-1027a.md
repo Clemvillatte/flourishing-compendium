@@ -4,9 +4,8 @@ Bounded Phase-D2 verification assist, two lanes (pragmatism and positive, deg-ar
 
 ## 1. Pragmatism — "James's The Will to Believe: no open carrier located; one more pass owed" — RESOLVED
 
-- **Open carrier found and opened**: Project Gutenberg eBook **#26659**, "The Will to Believe, and Other Essays in Popular Philosophy" by William James — https://www.gutenberg.org/ebooks/26659 (also plain text at https://www.gutenberg.org/files/26659/26659.txt and HTML at .../26659-h/26659-h.htm).
-- Verified from the opened pages: free download (EPUB3/txt/HTML), public domain (Project Gutenberg License; the 1896 copyright page and 1912 Longmans, Green impression are in the text). The collection contains the full title essay plus "Is Life Worth Living", "The Dilemma of Determinism", "The Moral Philosopher and the Moral Life" and others — the full-text pages were opened and read this session (the essay's opening and section structure are visible in the fetched text).
-- The pool's declared gap can be closed: the Will to Believe row now has a verified open carrier (Gutenberg #26659). Note the pool already uses Gutenberg for other James texts, so this is consistent carrier policy.
+- **Open carrier directly opened and verified (v2 upgrade)**: Project Gutenberg eBook **#26659**, "The Will to Believe, and Other Essays in Popular Philosophy" by William James — https://www.gutenberg.org/ebooks/26659 (directly fetched this session: public domain in the USA; free EPUB3/plain-text/HTML downloads; contents include the title essay plus Is Life Worth Living?, The Dilemma of Determinism, The Moral Philosopher and the Moral Life, and others).
+- The pool's declared gap can be closed on the carrier-location side (Gutenberg #26659 directly verified this session). NOTE per the owner's teaching-only ruling: this is a supplementary open-text location, not a D2 teaching-content gap closure.
 
 ## 2. Positive — POS-REF-3 (PositivePsychology.com toolkit) "one more fetch pass owed" — RESOLVED, with a paywall finding
 
