@@ -1,7 +1,7 @@
 {
  "baton": "supervisor",
- "agent": "supervisor-pplx-1026c",
- "clocked_in": "2026-10-26T02:05:49+00:00",
+ "agent": "supervisor-pplx-1026d",
+ "clocked_in": "2026-10-26T02:05:53+00:00",
  "takeovers": [
   {
    "by": "AgentA",
@@ -628,8 +628,8 @@
    "reason": "released"
   },
   {
-   "by": "supervisor-pplx-1026c",
-   "at": "2026-10-26T02:05:49+00:00",
+   "by": "supervisor-pplx-1026d",
+   "at": "2026-10-26T02:05:53+00:00",
    "from": "supervisor-pplx-1026c",
    "reason": "released"
   }
