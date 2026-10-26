@@ -33,9 +33,10 @@ of m3 (the Zhuangzi on skill, wu wei and losing the self).
    reversal helps you understand or choose there, and one thing the
    case leaves uncertain.
 3. Compare two accounts of the same Daodejing chapter, naming where
-   they agree, where they differ in emphasis, and any genuine
-   tension, then saying which account you find more useful for your
-   own life and why.
+   they agree, where the closing line's wording differs, and what
+   difference that wording might make to your interpretation, then
+   saying which account you find more useful for your own life
+   and why.
 4. Execute a complete guided reading sequence of a Daodejing chapter
    from start to finish, with the primary text in front of you,
    without the module's worked demonstration.
@@ -48,13 +49,13 @@ map at the end shows where.
 ### Step 1: the reversal move, taught (Outcome 2)
 
 The recurring contrast this module examines is reversal: the chapters
-assigned here say the source of what you value is the thing you
-dismiss. The low is the high; the dark is the light; the formless
-gives form; the unnamed names. This is not a paradox for the sake of
-being difficult; it is a teaching about where value comes from in
-the chapters examined in this module, and the module's first job
-is to make sure you can see the move in a chapter before you try
-to use it.
+assigned here connect what you value with the thing you dismiss.
+Chapter 11 connects usefulness with empty space; chapter 78
+connects softness with overcoming hardness. This is not a paradox
+for the sake of being difficult; this module tests whether those
+contrasts help you reconsider something you have dismissed, and
+the module's first job is to make sure you can see the move in a
+chapter before you try to use it.
 
 Watch the assigned Ziporyn segments first; they teach the move in
 its strongest form.
@@ -104,10 +105,11 @@ Chapter 78 makes the move on softness: nothing in the world is
 more weak and soft than water, yet nothing surpasses it in
 conquering the hard and strong. The chapter then says all know
 that the weak conquers the strong and the soft conquers the hard,
-but none are able to act on this, and closes with the reversal
-stated in its plainest form: the sage says he who receives the
-derision of the state is the lord of the state altars; he who
-receives the misfortune of the state is the king of the world.
+but none are able to act on this, and moves to the state-altars
+passage: the sage says he who receives the derision of the state
+is the lord of the state altars; he who receives the misfortune of
+the state is the king of the world. The chapter's actual closing
+line is "Straight words seem to reverse themselves."
 ([Eno, Daodejing, chapter 78](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content).)
 
 ### Step 2: applying the reversal to your own case (Outcome 2)
@@ -158,16 +160,14 @@ deliverable a.
 
 The Daodejing's chapters admit more than one defensible reading,
 and the module's job here is to teach you to notice that and to
-say where readings disagree rather than to pick the "correct" one.
+work with the difference rather than to pick the "correct" one.
 
-Read two readings of the same chapter: the Eno translation you
+Read two accounts of the same chapter: the Eno translation you
 already have, and the chapter as discussed in the assigned lecture
-segments. The lecture's reading of chapter 28 (the carved and the
-uncarved block) is the clearest case of a reading that differs from
-the text's surface.
+segments.
 
 3. Re-read [Eno's Daodejing chapter 28](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content)
-   (119 words measured).
+   (119 words measured), twice.
 
 Eno's chapter 28 reads: "One who knows the male but preserves the
 female becomes a ravine to the world. Such a one never swerves from
@@ -194,27 +194,25 @@ separating them off from that background"
 ([Ziporyn, Why This Text Matters, transcript passage beginning "I
 would now turn you to chapter 28"](https://youtubetotranscript.com/transcript?v=EJ1bB2w2gBk&current_language_code=en)).
 
-Now compare the two accounts. Eno's translation and the lecture's
-translation agree on the chapter's content: know the one, preserve
-the other, become the valley or the standard or the ravine, and the
-closing line is about carving without severing. They differ in
-emphasis. Eno's translation renders the closing line "Thus the
-greatest carving never cuts"; the lecture renders it "The great
-structuring carves, but it does not sever" and builds its whole
-A/B reading of the text around the hewn and the unhewn, treating
-chapter 28 as the place where that structure becomes explicit. The
-difference is not a disagreement about what the chapter says; it is
-a difference in how much weight each account puts on the closing
-line as a key to the whole text. Eno's translation presents the
-chapter as one of eighty-one chapters, translated plainly; the
-lecture presents the chapter as the text's own statement of its
-governing structure.
+Now compare the two accounts. Both translations agree on the
+chapter's content: know the one, preserve the other, become the
+valley or the standard or the ravine, and the closing line is
+about carving without severing. The clearest evidenced difference
+between them is in the closing line's wording. Eno translates the
+conclusion as "Thus the greatest carving never cuts." Ziporyn
+renders it "The great structuring carves, but it does not sever"
+and explains it through a relief that remains connected to its
+background. Compare these formulations. What difference might
+"never cuts" versus "carves, but does not sever" make to your
+interpretation? Use the surrounding passage and the lecture to
+support your answer; the wording alone does not establish that the
+translators disagree.
 
 Write a short comparison (100 to 200 words) naming where the two
-accounts agree, where they differ in emphasis, and any genuine
-tension you see between them, and say which account you find more
-useful for your own life, with a reason. That is the draft of
-graded deliverable b.
+accounts agree, where they differ in the closing line's wording,
+what difference that wording might make to your interpretation,
+and which account you find more useful for your own life, with a
+reason. That is the draft of graded deliverable b.
 
 ### Step 4: your own guided reading (Outcome 4)
 
@@ -224,8 +222,9 @@ the exact passage, the image, the move, a defensible
 interpretation, and one limitation.
 
 4. [Eno's Daodejing](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content),
-   chapters 16 and 44 (165 words measured across the two).
-   Pick one of the two and do the five-part work on it.
+   chapters 16 and 44 (165 words measured across the two), read
+   twice each. Pick one of the two and do the five-part work on
+   it.
 
 Chapter 16 begins "Reaching the ultimate of emptiness, deeply
 guarding stillness, the things of the world arise together; thereby
@@ -264,10 +263,10 @@ against the primary text before you finalise.
      this.
   b. The comparison deliverable (Outcome 3): your comparison of the
      two accounts of chapter 28, naming where they agree, where
-     they differ in emphasis, any genuine tension you see, and which
-     account you find more useful for your own life, with a
-     reason. 100 to 200 words. The rubric's criterion 2 governs
-     this.
+     the closing line's wording differs, what difference that
+     wording might make to your interpretation, and which account
+     you find more useful for your own life, with a reason. 100 to
+     200 words. The rubric's criterion 2 governs this.
   c. The chapter-reading deliverable (Outcomes 1 and 4): your
      five-part reading of chapter 16 or 44: the exact passage, the
      image, the move, a defensible interpretation, and one
@@ -295,20 +294,24 @@ against the primary text before you finalise.
    with the flow and I should relax" (everyday usage, no reversal
    applied, no three parts named).
 2. The comparison deliverable names where the two accounts of
-   chapter 28 agree, where they differ in emphasis, and any genuine
-   tension, then says which account the learner finds more useful
-   for their own life, with a reason. Strong: "Both accounts agree
-   the chapter is about knowing one thing and preserving its
-   opposite, and both translate the closing line as carving
-   without severing; they differ in emphasis because Eno translates
-   it as one chapter among eighty-one while the lecture treats it as
-   the text's own statement of its governing structure; I find the
-   lecture's account more useful because it gives me one frame
-   (the A/B structure) I can carry to the other chapters, and Eno's
-   plain translation does not do that work for me." Rejection:
-   "The two readings are different but both are valid" (no
-   agreement, no difference in emphasis, no tension, no preference,
-   no reason).
+   chapter 28 agree, where the closing line's wording differs,
+   and what difference that wording might make to the learner's
+   interpretation, then says which account the learner finds more
+   useful for their own life, with a reason. Strong: "Both accounts
+   agree the chapter is about knowing one thing and preserving its
+   opposite, and both present the closing line as carving without
+   severing; the evidenced difference is that Eno translates it as
+   'Thus the greatest carving never cuts' while Ziporyn renders it
+   'The great structuring carves, but it does not sever' and
+   explains it through a relief that remains connected to its
+   background; the difference that wording might make is that
+   'never cuts' reads as an absolute claim while 'carves but does
+   not sever' allows a carving that stays in contact with what it
+   carves, and I find Ziporyn's version more useful because it
+   gives me a way to think about acting without pretending the
+   action has no effect." Rejection: "The two readings are different
+   but both are valid" (no agreement, no wording difference, no
+   interpretive difference, no preference, no reason).
 3. The chapter-reading deliverable does the five-part work on a
    real assigned chapter, with the primary text in front of the
    learner, without the module's demonstration. Strong: a
@@ -342,7 +345,7 @@ against the primary text before you finalise.
   minutes raw per full reading of the set; with two readings of
   each chapter, about 8 minutes raw; with study overhead as a
   three-times multiplier, about 24 minutes (estimate, labelled).
-- Module teaching prose on this page (about 2,300 words measured):
+- Module teaching prose on this page (about 2,290 words measured):
   at 180 words per minute about 13 minutes raw; with study overhead
   as a three-times multiplier, about 38 minutes (estimate,
   labelled).

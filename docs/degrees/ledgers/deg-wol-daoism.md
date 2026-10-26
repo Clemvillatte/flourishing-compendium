@@ -588,3 +588,40 @@ minutes, about 139 minutes).
 | https://youtubetotranscript.com/transcript?v=EJ1bB2w2gBk&current_language_code=en (re-opened) | 2026-10-26, between the 05:08:00Z clock reading and this save push | worker-pplx-degdaosim-1026a | Ziporyn Why This Text Matters actual transcript, re-opened to verify the chapter-28 attribution; the transcript's actual reading of the closing line is "The great structuring carves, but it does not sever", explained as "a base relief, rather than actually carving things out and separating them off from that background"; the earlier claim that he reads it as "the most effective action is the one that does not force" is withdrawn and the module now quotes the actual reading |
 
 Prose recounted after the round-1 edits: 2,313 words measured.
+
+## m2 advisor QC round 2 repairs (2026-10-26, worker-pplx-degdaosim-1026a)
+
+Round 2 returned three bounded corrections. All three applied and
+pushed this pass:
+
+1. The Step 3 comparison now uses the evidenced wording difference
+   rather than an interpretive claim: Eno translates the conclusion
+   as "Thus the greatest carving never cuts"; Ziporyn renders it
+   "The great structuring carves, but it does not sever" and
+   explains it through a relief that remains connected to its
+   background. The module asks what difference "never cuts" versus
+   "carves, but does not sever" might make to the learner's
+   interpretation, and states that the wording alone does not
+   establish that the translators disagree. Outcome 3, the
+   deliverable-b description and rubric criterion 2 were all rewritten
+   to match (agreement, wording difference, interpretive difference,
+   preference, reason). The unsupported introductory claim that the
+   lecture "differs from the text's surface" was removed.
+2. The Step 1 organizing interpretation grounded in the actual
+   examples: "the low is the high; the dark is the light" was
+   replaced with what the chapters actually say (chapter 11 connects
+   usefulness with empty space; chapter 78 connects softness with
+   overcoming hardness), and the module now tests whether those
+   contrasts help the learner reconsider something they have
+   dismissed. Chapter 78's purported closing was corrected: the
+   opened text's actual closing line is "Straight words seem to
+   reverse themselves", and the state-altars passage is now described
+   as preceding the close rather than being the close.
+3. The two-readings instruction made explicit in Step 3 (chapter 28,
+   "read twice") and Step 4 (chapters 16 and 44, "read twice
+   each"), matching the workload calculation which already counted
+   two readings of every assigned chapter.
+
+Prose recounted after the round-2 edits: 2,287 words measured;
+workload prose allowance unchanged at 38 minutes with the multiplier;
+total unchanged at about 2 hours 20 minutes (about 139 minutes).
