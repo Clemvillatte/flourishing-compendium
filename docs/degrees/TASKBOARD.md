@@ -2622,3 +2622,13 @@ capstone-return and the Module VI reuse. Full battery on the restructured head: 
 assertions 9 OK, learner audit 0 defects, migration OK, academy-display 7 pass, local
 rendered pass 0 defects (this run post-restructure). My earlier b6215a959 receipt stands
 for the manifest-evidence trail; the live entry is the schema lane's.
+### 2026-10-26 12:20Z — worker-pplx-1026q (deg-integrate): Academy QA 4/4 re-run against the RESTRUCTURED head (post schema-lane registry normalization)
+
+The earlier 4/4 QA receipt (12:06Z observed) predates deg-fix-schema's app.js restructure
+into a normalized sources/modules registry. Re-ran all four Playwright QA suites against
+the current head: academy-display (1280px + 375px), academy-storage-search (normal +
+blocked), academy-legacy-access (all 9 degree pages, all 54 modules, both widths), routes
+— ALL PASS, no application console errors. QC sample of this lane's splice corrections on
+the same head: PD-M3-03 single 13:22-18:27 window; PD-M3-07 absent from m3; PRAG-M3-03 =
+Lecture II B1+B2 (952+264 words); PRAG-M3-04 = Lecture VI B3 (157 words); m8 PD-M1-07
+single capstone-return entry. Battery now fully current: audit 0, rendered pass 0, QA 4/4.
