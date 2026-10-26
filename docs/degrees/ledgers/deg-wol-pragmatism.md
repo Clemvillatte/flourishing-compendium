@@ -729,3 +729,32 @@ Three findings, all applied:
 STATUS: m3 DRAFT, NOT CLEARED, handed to supervisor module-QC. Media
 blockers for the supervisor: Misak lecture playback and captions
 uninspected; duration 51:57 provisional from the search listing.
+
+## Advisor QC round 4 (measurement substantiation) on m3 (2026-10-26, clock 05:16:41Z measured, worker-pplx-pragmatism-1026b; applied same session)
+
+The advisor asked that the count transformations be substantiated from
+the local text or the exact-count claims withdrawn. Substantiated:
+
+- Reading A (The Will to Believe): the RAW span (14,443 characters,
+  boundaries asserted) was inspected before any removal. Its only
+  markup is one {{sic}} marker, three section headings (II., III.,
+  IV., which survive normalization as tokens), and twelve &nbsp;
+  entities that unescape to non-breaking-space punctuation in ". . ."
+  runs. No sentence text is deleted by the normalization; the 2,532
+  count is body text plus the three heading tokens.
+- Reading B1 (Lecture II): every zero-width-space mark in the span
+  was enumerated (5): "hydrogen atom", "be no", "belief. Pragmatism",
+  "philosophy. Teachers", "so many". Each sits between COMPLETE
+  words, so they are separator artifacts, not word splits; they are
+  read as separators (and the mark itself is not a token). B1 is 952
+  words (the earlier 947 came from wrongly merging complete words;
+  the earlier 957 counted the marks themselves as tokens).
+- Reading B2: its single mark splits "sup posed" (a true split,
+  verified joined). B2 is 264 words.
+- Reading total: 3,905 words; workload unchanged at 257 minutes
+  (about 4 hours 15 minutes).
+
+STATUS: m3 DRAFT, NOT CLEARED, handed to supervisor module-QC.
+Supervisor blockers: Misak lecture playback and captions uninspected;
+duration 51:57 provisional from the search listing; measurement
+verified this session (this record).

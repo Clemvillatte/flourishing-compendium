@@ -86,8 +86,10 @@ Thinking, Lecture II: "What Pragmatism
 Means"](https://en.wikisource.org/wiki/Pragmatism:_A_New_Name_for_Some_Old_Ways_of_Thinking/Lecture_II)
 (James 1907, public domain): the
 contiguous passage that begins "To take in the importance of Peirce's
-principle" and ends "make nature over again by their aid" (947 words
-measured on the page's rendered text, page-split words joined). Then read Reading B2 from the
+principle" and ends "make nature over again by their aid" (952 words
+measured on the page's rendered text; the page's zero-width-space
+marks were inspected one by one: in this span they sit between
+complete words and are read as separators, not joins). Then read Reading B2 from the
 same lecture: the passage that begins "I am well aware how odd it must
 seem" and ends "our duty would be to shun truth, rather" (264 words
 measured on the same rendered text, page-split words joined and
@@ -318,7 +320,7 @@ test and to state the objection-and-constraint pattern on truth.
 
 - Required reading (word counts measured on the page texts; Reading B3
   counted on its printed selections): Reading A 2,532 words, Reading
-  B1 947 words, Reading B2 264 words, Reading B3 157 words; 3,900
+  B1 952 words, Reading B2 264 words, Reading B3 157 words; 3,905
   words total. At 130 words per minute (new concepts; the 238
   words-per-minute adult default adjusted down by purpose) about 30
   minutes raw; with study overhead at three times raw, about 90
@@ -353,9 +355,11 @@ The module attaches three sources:
 - James, Pragmatism: A New Name for Some Old Ways of Thinking
   (Wikisource, public domain, 1907), Lectures II and VI: opened this
   session; the pages' rendered text was extracted and the assigned
-  passages measured on it (Lecture II: 947 and 264 words between the
-  pinned boundaries, page-split words joined and verified; Lecture VI:
-  the five printed selections, 157 words); the quoted passages were
+  passages measured on it (Lecture II: 952 and 264 words between the
+  pinned boundaries; the zero-width-space marks were inspected: B1's
+  sit between complete words and are read as separators, B2's single
+  mark splits "sup posed" and is joined; Lecture VI: the five printed
+  selections, 157 words); the quoted passages were
   confirmed verbatim on the extracted text.
 - Misak, Cambridge Pragmatism (Royal Institute of Philosophy lecture,
   YouTube): candidate with verification incomplete, as stated in Step

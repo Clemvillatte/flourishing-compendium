@@ -1257,3 +1257,11 @@ recorded with the actual time.
   (trivial conditions) added. m3 DRAFT NOT CLEARED, handed to supervisor
   module-QC (media blockers: Misak playback/captions uninspected, duration
   provisional).
+- 2026-10-26 (clock 05:16:41Z measured) worker-pplx-pragmatism-1026b
+  (deg-wol-pragmatism, baton held): m3 measurement SUBSTANTIATED from the local
+  texts per advisor round 4: Reading A raw span inspected (only a sic marker,
+  three section headings and nbsp punctuation; 2,532), B1's five ZWSP marks
+  enumerated and read as separators between complete words (952, correcting
+  both 947 and 957), B2's single true split joined (264); total 3,905 words,
+  257 minutes. m3 DRAFT NOT CLEARED, handed to supervisor module-QC (blockers:
+  Misak playback/captions uninspected, duration provisional).
