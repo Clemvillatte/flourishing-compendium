@@ -1,0 +1,87 @@
+{"degree_id": "deg-psychdim",
+ "built": "2026-10-26",
+ "built_by": "strategist-pplx-1026a (baton degrees-strategist)",
+ "status": "DRAFT — video windows transcribed from the module docs this session (t= links and printed windows); READING assignments are transcribed from the integration source titles and workload lines and still need module-doc verification by the deg-fix-content agent before Phase A consumes them (mark each verified_reading entry against the doc, then remove this status line).",
+ "provenance": "Per docs/degrees/AUDIT-2026-10-26.md phase 0. The learner-audit gate diffs this manifest against the integrated data block.",
+ "modules": {
+  "mod-pd-1": [
+   {"source_id": "PD-M1-01", "role": "teach", "assignment": "Hayes, An Introduction to Process-Based Therapy - assigned window 01:03:17-01:09:12 (5:55)", "kind": "video"},
+   {"source_id": "PD-M1-02", "role": "teach", "assignment": "Sainani, Statistics Fundamentals - assigned windows 25:46-44:11 (18:25) and 54:02-57:21 (3:19); 03:29-09:21 (5:52) is the OPTIONAL remedial clip", "kind": "video"},
+   {"source_id": "PD-M1-03", "role": "teach", "assignment": "Smith, Thinking like a Psychological Scientist (Noba) - selected spans, ~3,200 words (parts named in the m1 doc)", "kind": "reading", "verify_reading_assignment": true},
+   {"source_id": "PD-M1-04", "role": "teach", "assignment": "ASA Statement on p-Values - definition and two principles, ~300 words", "kind": "reading", "verify_reading_assignment": true},
+   {"source_id": "PD-M1-05", "role": "teach", "assignment": "Hofmann and Hayes 2024 - process-based therapy and the EEMM (m1 doc reference; verify span)", "kind": "reading", "verify_reading_assignment": true},
+   {"source_id": "PD-M1-06", "role": "teach", "assignment": "Maitland 2024 - section 1.4 assigned", "kind": "reading", "verify_reading_assignment": true},
+   {"source_id": "PD-M1-07", "role": "teach", "assignment": "Woolley, Giurge and Fishbach 2025 - Study 1 appraisal", "kind": "reading", "verify_reading_assignment": true},
+   {"source_id": "PD-M1-08", "role": "teach", "assignment": "Greenland et al. 2016 - misinterpretation list", "kind": "reading", "verify_reading_assignment": true}
+  ],
+  "mod-pd-2": [
+   {"source_id": "PD-M2-01", "role": "teach", "assignment": "Bloom, PSYC 110 lecture 11 - assigned 00:00-09:06", "kind": "video"},
+   {"source_id": "PD-M2-02", "role": "teach", "assignment": "Barrett, You are not at the mercy of your emotions (TED) - assigned 00:00-18:29", "kind": "video"},
+   {"source_id": "M06-AF07", "role": "teach", "assignment": "Gross, Making the Most of Our Emotions - assigned 19:22-26:14 (m2 doc line 231 also cites 19:22-23:23 and the five-families window from 23:48)", "kind": "video"},
+   {"source_id": "PD-M2-04", "role": "teach", "assignment": "Hwang and Matsumoto, Functions of Emotions (Noba) - assigned selections (watch Bloom first, then read; closing excerpt assigned)", "kind": "reading", "verify_reading_assignment": true},
+   {"source_id": "PD-M2-05", "role": "teach", "assignment": "Barrett et al. 2025, theory of constructed emotion - assigned span (verify against m2 doc)", "kind": "reading", "verify_reading_assignment": true},
+   {"source_id": "PD-M2-06", "role": "teach", "assignment": "Martinez-Priego et al. 2024, emotion regulation models review - assigned span (verify against m2 doc)", "kind": "reading", "verify_reading_assignment": true},
+   {"source_id": "PD-M2-07", "role": "teach", "assignment": "Gross 1998, integrative review - assigned span (verify against m2 doc)", "kind": "reading", "verify_reading_assignment": true}
+  ],
+  "mod-pd-3": [
+   {"source_id": "PD-M3-01", "role": "teach", "assignment": "Bloom, PSYC 110 lecture 4, Learning - assigned windows 14:25-17:39 and 31:18-33:49", "kind": "video"},
+   {"source_id": "PD-M3-02", "role": "teach", "assignment": "Bloom, PSYC 110 lecture 7, Perception - assigned window 18:06-39:15 (m3 doc)", "kind": "video"},
+   {"source_id": "PD-M3-03", "role": "teach", "assignment": "Bloom, PSYC 110 lecture 8, Memory - assigned 18:06-39:15 per integration title; m3 doc link t=802 (13:22) and regex window 13:22-18:27 — RECONCILE doc windows vs title (integration title may be wrong)", "kind": "video"},
+   {"source_id": "PD-M3-04", "role": "teach", "assignment": "Bloom, PSYC 110 lecture 10, Judgment - assigned window 39:43-47:25 (m3 doc regex)", "kind": "video"},
+   {"source_id": "PD-M3-05", "role": "teach", "assignment": "Bouton, Conditioning and Learning (Noba) - assigned selections (verify against m3 doc)", "kind": "reading", "verify_reading_assignment": true},
+   {"source_id": "PD-M3-06", "role": "teach", "assignment": "McDermott and Roediger, Memory: Encoding, Storage, Retrieval (Noba) - assigned selections (verify against m3 doc)", "kind": "reading", "verify_reading_assignment": true},
+   {"source_id": "PD-M3-07", "role": "teach", "assignment": "Bazerman, Judgment and Decision Making (Noba) - assigned selections (verify against m3 doc)", "kind": "reading", "verify_reading_assignment": true},
+   {"source_id": "PD-M3-08", "role": "teach", "assignment": "Ehring 2021, rumination and repetitive negative thinking - assigned span (verify against m3 doc)", "kind": "reading", "verify_reading_assignment": true}
+  ],
+  "mod-pd-4": [
+   {"source_id": "PD-M4-01", "role": "teach", "assignment": "Posner on the anatomy of attentional networks (gocognitive) - assigned 03:06-14:52", "kind": "video"},
+   {"source_id": "PD-M4-02", "role": "teach", "assignment": "Posner, Fostering Attention for Human Needs (APS) - assigned 05:24-07:42", "kind": "video"},
+   {"source_id": "PD-M3-02", "role": "revisit", "assignment": "Bloom lecture 7 - RETRIEVAL reuse in m4: assigned 47:26-54:53 (different window from m3's 18:06-39:15)", "kind": "video"},
+   {"source_id": "PD-M4-03", "role": "teach", "assignment": "Davidson with Huberman, When and How to Practice Effective Meditation - assigned 02:08-04:17", "kind": "video"},
+   {"source_id": "PD-M4-04", "role": "teach", "assignment": "Posner, Rothbart and Ghassemzadeh 2019, attention networks - assigned span (verify against m4 doc)", "kind": "reading", "verify_reading_assignment": true},
+   {"source_id": "PD-M4-05", "role": "teach", "assignment": "Posner 2023, evolution and future of attention networks - assigned span (verify against m4 doc)", "kind": "reading", "verify_reading_assignment": true},
+   {"source_id": "PD-M4-06", "role": "teach", "assignment": "Lippelt, Hommel and Colzato 2014, focused attention/open monitoring/loving-kindness meditation - assigned span (verify against m4 doc)", "kind": "reading", "verify_reading_assignment": true},
+   {"source_id": "PD-M4-07", "role": "teach", "assignment": "Fan et al., Attention Network Test paper - assigned span (verify against m4 doc)", "kind": "reading", "verify_reading_assignment": true}
+  ],
+  "mod-pd-5": [
+   {"source_id": "PD-M5-01", "role": "teach", "assignment": "Bloom, PSYC 110 lecture 13 - assigned 13:53-19:47", "kind": "video"},
+   {"source_id": "PD-M5-02", "role": "teach", "assignment": "Bloom, PSYC 110 lecture 16 - assigned 15:56-28:41 and 40:00-50:03 (self-evaluation and cultural-qualification windows are inside/outside these; see m5 doc t=1359, t=2833)", "kind": "video"},
+   {"source_id": "PD-M5-03", "role": "teach", "assignment": "McAdams, Authoring a Life - assigned 10:07-13:31 (assigned definition)", "kind": "video"},
+   {"source_id": "PD-M5-04", "role": "teach", "assignment": "Little, The puzzle of personality (TED) - assigned from 11:12 (project/cost window 11:12-13:59)", "kind": "video"},
+   {"source_id": "PD-M5-07", "role": "teach", "assignment": "Diener and Lucas, Personality Traits (Noba) - assigned selections incl. person/situation qualification, stability/variation", "kind": "reading", "verify_reading_assignment": true},
+   {"source_id": "PD-M5-05", "role": "teach", "assignment": "Manchiraju 2026, self-concept clarity review - assigned span (verify against m5 doc)", "kind": "reading", "verify_reading_assignment": true},
+   {"source_id": "PD-M5-06", "role": "teach", "assignment": "Branje et al. 2021, identity development 2010-2020 - assigned span (verify against m5 doc)", "kind": "reading", "verify_reading_assignment": true},
+   {"source_id": "PD-M5-08", "role": "teach", "assignment": "Campbell et al. 1996, Self-Concept Clarity Scale - assigned span (verify against m5 doc)", "kind": "reading", "verify_reading_assignment": true}
+  ],
+  "mod-pd-6": [
+   {"source_id": "PD-M6-01", "role": "teach", "assignment": "Tamir, Yale Experts in Emotion 2013 - assigned 09:21-14:43 (selected interview)", "kind": "video"},
+   {"source_id": "M08-P09", "role": "teach", "assignment": "Ryan, Aalto University 2025 - assigned 08:38-13:55 (needs and distinctions)", "kind": "video"},
+   {"source_id": "PD-M6-02", "role": "teach", "assignment": "Pekrun, IPPE 2023 - assigned 15:51-19:02 (selected model)", "kind": "video"},
+   {"source_id": "PD-M6-03", "role": "teach", "assignment": "Fishbach, TED 2023 - assigned 03:33-04:36", "kind": "video"},
+   {"source_id": "PD-M6-04", "role": "teach", "assignment": "Ryan and Deci 2020, intrinsic and extrinsic motivation from an SDT perspective - assigned span (verify against m6 doc)", "kind": "reading", "verify_reading_assignment": true}
+  ],
+  "mod-pd-7": [
+   {"source_id": "PD-M7-02", "role": "teach", "assignment": "Wood, Big Think/The Well - assigned 01:16-04:53", "kind": "video"},
+   {"source_id": "PD-M7-01", "role": "teach", "assignment": "Berkman, University of Oregon - assigned 01:12-02:35", "kind": "video"},
+   {"source_id": "PD-M7-03", "role": "teach", "assignment": "Inzlicht, The Dissenter episode 298 - assigned 49:52-58:10 (historical interview window)", "kind": "video"},
+   {"source_id": "PD-M3-01", "role": "revisit", "assignment": "Bloom lecture 4 - RETRIEVAL reuse in m7: assigned 33:49-36:11 (different window from m3)", "kind": "video"},
+   {"source_id": "PD-M7-08", "role": "teach", "assignment": "Dang 2018, ego depletion meta-analysis - Table 2 with its note; first two Discussion paragraphs; final 'Does ego depletion exist?' paragraph from 'Therefore, taken together'", "kind": "reading"},
+   {"source_id": "PD-M7-10", "role": "teach", "assignment": "Vohs et al. 2021 author manuscript (mislabeled 'Heidbreder' in the data block) - Abstract and Methods' 'Participants' subsection only", "kind": "reading"},
+   {"source_id": "PD-M7-09", "role": "teach", "assignment": "Alarcon-Espinoza et al. 2022, emotional self-regulation in everyday life - assigned span (verify against m7 doc)", "kind": "reading", "verify_reading_assignment": true},
+   {"source_id": "PD-M7-04", "role": "teach", "assignment": "Carden and Wood 2018, habit formation and change - assigned span (verify against m7 doc)", "kind": "reading", "verify_reading_assignment": true},
+   {"source_id": "PD-M7-05", "role": "teach", "assignment": "Singh et al. 2024, health-behaviour habit formation meta-analysis - assigned span (verify against m7 doc)", "kind": "reading", "verify_reading_assignment": true},
+   {"source_id": "PD-M7-06", "role": "teach", "assignment": "Werner and Berkman 2024, motivational dynamics of self-control - assigned span (verify against m7 doc)", "kind": "reading", "verify_reading_assignment": true},
+   {"source_id": "PD-M7-07", "role": "teach", "assignment": "Reed, Combs and Segerstrom 2020, structure of self-regulation - assigned span (verify against m7 doc)", "kind": "reading", "verify_reading_assignment": true}
+  ],
+  "mod-pd-8": [
+   {"source_id": "PD-M1-05", "role": "capstone-return", "assignment": "Hofmann and Hayes 2024 - capstone re-read (verify role against m8 doc)"},
+   {"source_id": "PD-M1-06", "role": "capstone-return", "assignment": "Maitland 2024 section 1.4 - capstone re-read (verify role against m8 doc)"},
+   {"source_id": "PD-M2-06", "role": "capstone-return", "assignment": "Martinez-Priego et al. 2024 - capstone re-read (verify role against m8 doc)"},
+   {"source_id": "PD-M7-05", "role": "capstone-return", "assignment": "Singh et al. 2024 - capstone re-read (verify role against m8 doc)"},
+   {"source_id": "PD-M5-05", "role": "capstone-return", "assignment": "Manchiraju 2026 - capstone re-read (verify role against m8 doc)"},
+   {"source_id": "PD-M1-07", "role": "capstone-return", "assignment": "Woolley et al. 2025 - capstone re-read (verify role against m8 doc)"},
+   {"source_id": "PD-M7-04", "role": "capstone-return", "assignment": "Carden and Wood 2018 - capstone re-read (verify role against m8 doc)"},
+   {"source_id": "PD-M4-07", "role": "capstone-return", "assignment": "Fan et al. ANT paper - capstone re-read (verify role against m8 doc)"}
+  ]
+ }
+}

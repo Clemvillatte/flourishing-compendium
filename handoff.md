@@ -31,7 +31,9 @@ deg-wol-buddhism manifests are already committed under docs/degrees/integration/
 the gate now mechanically reports the pragmatism m3 omissions, the daoism
 full-duplicate reuses, and three dropped buddhism revisit assignments (b3 AN
 5.179 reapplied; b4 Metta Sutta revisit; b5 AN 5.179/SN 56.11 re-read — restore
-as role=revisit in Phase A). Remaining manifest work: deg-psychdim only.
+as role=revisit in Phase A). All four manifests are now committed; deg-psychdim's is a DRAFT whose reading
+assignments are flagged verify_reading_assignment — verify each against the
+module doc before Phase A consumes it, then remove the draft status.
 
 ## 2026-10-26 ~07:00Z — orchestrator: WAVE 4 (repair-and-clear) ready to launch
 
