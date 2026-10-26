@@ -29,10 +29,12 @@
     {
       "course": "COGS 1 Introduction to Cognitive Science",
       "institution": "Dartmouth College",
-      "instructor": "Emily Cooper",
-      "term": "Fall 2026",
+      "instructor": "Fred Callaway & Jonathan Phillips (Grad TA: Cove Geary)",
+      "term": "Fall Term 2026",
       "url": "https://cognitive-science.dartmouth.edu/sites/cognitive_science/files/2026-09/2026%20FallSyllabusCOGS1-%20OpenHouse%5B1%5D.pdf",
-      "opened_this_session": true
+      "opened_this_session": true,
+      "re_fetched_without_extraction_prompt": true,
+      "correction_note": "the earlier extraction-prompt summary mis-attributed this to 'Instructor: Emily Cooper' and described a 'five levels of analysis with weekly labs' structure \u2014 both are hallucinations and retracted; the actual Fall 2026 instructors are Callaway and Phillips, and the course is a 22-lecture topic survey (no weekly labs)"
     }
   ],
   "known_gaps": [
