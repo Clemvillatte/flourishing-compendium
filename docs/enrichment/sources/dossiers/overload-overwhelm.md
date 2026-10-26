@@ -377,3 +377,17 @@ verdicts recorded in batches/dosr5.json. Quote verification this session:
 dossier_check exit 0, density 0-dense, quote_verify re-run with the exceptions
 below adjudicated by eye on live carriers. No repairs owed; the dossier stands
 at the 3-5 bar (3 substantiated questions).
+
+## Strict-test strengthening (2026-10-26, worker-pplx-dosr6-1026r)
+
+"Is the capacity to keep going a limited resource?" paired a 1998 positive
+result with a 2016 null replication, which the strict same-proposition test
+treats as null-compatible (the right-effort precedent). Added the explicit
+exchange, both carriers opened this session: Baumeister and Vohs 2016
+(umn.edu PDF; "Signs indicate the RRR was plagued by manipulation failure and
+therefore did not test ego depletion"; "we find the effect over and over") and
+Hagger and Chatzisarantis 2016, Frontiers in Psychology 7:621 ("the RRR was a
+fair test of the ego-depletion effect using an accepted paradigm and
+appropriate tasks"). dossier_check exit 0; quote_verify 11 checked, 0 not found;
+density 0 dense. No advisor tool available to this worker; supervisor
+post-review requested.

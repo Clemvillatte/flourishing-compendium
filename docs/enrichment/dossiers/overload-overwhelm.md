@@ -66,6 +66,8 @@ A 23-laboratory preregistered replication of the standard protocol found almost 
 
 > "Meta-analysis of the studies revealed that the size of the ego-depletion effect was small with 95% confidence intervals (CIs) that encompassed zero (d = 0.04, 95% CI [-0.07, 0.15]." ([Hagger and colleagues, Perspectives on Psychological Science 2016, abstract](https://pubmed.ncbi.nlm.nih.gov/27474142/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27474142&rettype=abstract&retmode=text))
 
+The model's authors did not accept that as a test of the model. Baumeister and Vohs wrote that "Signs indicate the RRR was plagued by manipulation failure and therefore did not test ego depletion", and that after two decades of their own studies "we find the effect over and over" ([Baumeister and Vohs 2016, reply](https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2019-04/baumeister_vohs_2016_perspectives_comment_on_hagger_rrr_misguided_effort_with_elusive_implications_2_0.pdf)). The replication team answered that "the RRR was a fair test of the ego-depletion effect using an accepted paradigm and appropriate tasks" ([Hagger and Chatzisarantis 2016, rejoinder](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00621/full)). The dispute is about whether the standard task engaged self-control at all, which no amount of extra arithmetic settles.
+
 Later work has not closed the question: a 12-laboratory replication of a different task pair [found a small and significant effect](https://pmc.ncbi.nlm.nih.gov/articles/PMC8186735/) (d = 0.10), and a reader should treat the resource model of self-control as unsettled.
 
 ### Does a larger set of options overload the chooser?

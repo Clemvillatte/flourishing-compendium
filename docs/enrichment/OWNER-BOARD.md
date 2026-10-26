@@ -241,3 +241,4 @@ stay in the loop; agents keep it current with one-line entries.
 | 2026-10-26 | worker-pplx-deg-gate-1026f | owner redirect: degrees work | took deg-gate (live supervisor 1026p present); next-in-order deg-wol-existentialism Gate-1 scope review starting; s1a released, no stories work done |
 - 2026-10-26 09:32Z worker-pplx-dosr6-1026r (no degree baton; deg-verify-b is held by 1026g): 91/91 sources of the 4 published degrees live, none paywalled; 2 required psychdim videos upgraded from 'imported' to verified.
 2026-10-26 09:38Z worker-pplx-audit-1026a: took audit (QC sampling, quote re-verification, flagged-item sweeps); first item: dosr4's owed ctext.org Legge verification (Analects 14.34, Mencius one-root/two-roots)
+- 2026-10-26 09:33Z worker-pplx-dosr6-1026r (dosr5): overload-overwhelm limited-resource question strengthened with the Baumeister-Vohs reply and Hagger rejoinder; republished; post-review requested.

@@ -1,74 +1,80 @@
 {
  "batch": "dosr5",
  "done": [
-  "2026-10-26 00:24Z STEP 0 scope check (sup-1026b-worker): all four assigned dossiers are ALREADY AT the 3-5 bar (3 substantiated questions each) \u2014 QC-7 list stale for this band; no disagreement repairs; band closed. dossier_check exit 0 all four (affect/attention card links already re-pointed to kept ST copies this session).",
-  "2026-10-26, clock ~02:35Z, worker-pplx-pragmatism-1026a (baton re-claimed): FULL-READ STEP 0 close, superseding the 00:24Z heading-count close per the HANDOFF rule (heading counts do not establish substantiation). All four sections read in full, unfiltered. Per-question verdicts below use the same-proposition test; 'unresolved' marks disputes the sources themselves leave open. Quote verification this session: attention 18 checked / 2 automated NOT FOUND (both Lavie 2005 spans, blocked-carrier class) \u2014 both eye-verified VERBATIM on the live labs.wsu.edu PDF; affect 13 checked / 3 automated NOT FOUND (transient PMC rate-limit, all Posner/Russell/Peterson 2005) \u2014 all three eye-verified VERBATIM on the live PMC page; motivation 10 checked / 0 not found; overload-overwhelm 8 checked / 0 not found. dossier_check exit 0 and density 0-dense on all four. No repairs owed; band CLOSED at 3 substantiated questions per dossier."
+  "2026-10-26 00:24Z STEP 0 scope check (sup-1026b-worker): all four assigned dossiers are ALREADY AT the 3-5 bar (3 substantiated questions each) — QC-7 list stale for this band; no disagreement repairs; band closed. dossier_check exit 0 all four (affect/attention card links already re-pointed to kept ST copies this session).",
+  "2026-10-26, clock ~02:35Z, worker-pplx-pragmatism-1026a (baton re-claimed): FULL-READ STEP 0 close, superseding the 00:24Z heading-count close per the HANDOFF rule (heading counts do not establish substantiation). All four sections read in full, unfiltered. Per-question verdicts below use the same-proposition test; 'unresolved' marks disputes the sources themselves leave open. Quote verification this session: attention 18 checked / 2 automated NOT FOUND (both Lavie 2005 spans, blocked-carrier class) — both eye-verified VERBATIM on the live labs.wsu.edu PDF; affect 13 checked / 3 automated NOT FOUND (transient PMC rate-limit, all Posner/Russell/Peterson 2005) — all three eye-verified VERBATIM on the live PMC page; motivation 10 checked / 0 not found; overload-overwhelm 8 checked / 0 not found. dossier_check exit 0 and density 0-dense on all four. No repairs owed; band CLOSED at 3 substantiated questions per dossier."
  ],
  "detail": {
-  "affect": "3 questions (emotions as discrete categories; bodily change vs judgment; Iowa gambling guidance) \u2014 published.",
-  "attention": "3 questions (early vs late selection; wandering-mind cost; switch vs scale) \u2014 published.",
-  "motivation": "3 questions (rewards vs intrinsic motivation; need hierarchy; reason as mover) \u2014 published.",
-  "overload-overwhelm": "3 questions (ego depletion as limited resource; choice overload; rest vs work) \u2014 published."
+  "affect": "3 questions (emotions as discrete categories; bodily change vs judgment; Iowa gambling guidance) — published.",
+  "attention": "3 questions (early vs late selection; wandering-mind cost; switch vs scale) — published.",
+  "motivation": "3 questions (rewards vs intrinsic motivation; need hierarchy; reason as mover) — published.",
+  "overload-overwhelm": "3 questions (ego depletion as limited resource; choice overload; rest vs work) — published."
  },
  "note": "STEP 0 rule applied per PIPELINE Lane 2; same stale-list finding as dosr1/dosr3/dosr4.",
- "in_progress": "none \u2014 band complete (full-read close)",
+ "in_progress": "none — band complete (full-read close)",
  "flagged": {},
  "per_question": {
   "affect": [
    {
     "q": "Are the emotions discrete categories, or positions on two dimensions?",
-    "verdict": "PASS \u2014 Ekman 1993 affirms discrete states and names the valence/arousal rival he rejects; Posner/Russell/Peterson 2005 affirm the two-system dimensional model and state it stands in contrast to basic-emotions discreteness. Direct affirm/deny on the same proposition."
+    "verdict": "PASS — Ekman 1993 affirms discrete states and names the valence/arousal rival he rejects; Posner/Russell/Peterson 2005 affirm the two-system dimensional model and state it stands in contrast to basic-emotions discreteness. Direct affirm/deny on the same proposition."
    },
    {
     "q": "Is an emotion a bodily change, or a judgment?",
-    "verdict": "PASS \u2014 James 1884 identifies the emotion with the feeling of bodily change; the cognitivist account (Scarantino and de Sousa, SEP) identifies it with a judgment. The identifications exclude each other; the dossier honestly leaves which is right open."
+    "verdict": "PASS — James 1884 identifies the emotion with the feeling of bodily change; the cognitivist account (Scarantino and de Sousa, SEP) identifies it with a judgment. The identifications exclude each other; the dossier honestly leaves which is right open."
    },
    {
     "q": "Does the gambling task show guidance before reportable knowledge?",
-    "verdict": "PASS \u2014 Bechara et al. 1997: performance preceded by a nonconscious biasing step; Maia and McClelland 2004: reportable knowledge accounts for the choices, 'no need to appeal to nonconscious somatic markers'. Head-on on the same task's interpretation; the dossier bounds what the comparison settles."
+    "verdict": "PASS — Bechara et al. 1997: performance preceded by a nonconscious biasing step; Maia and McClelland 2004: reportable knowledge accounts for the choices, 'no need to appeal to nonconscious somatic markers'. Head-on on the same task's interpretation; the dossier bounds what the comparison settles."
    }
   ],
   "attention": [
    {
     "q": "Where does selection happen: early or late?",
-    "verdict": "PASS with qualification \u2014 the early/late traditions give opposite answers on whether distractors are excluded from perceptual processing; Lavie 2005's load resolution honestly reframed (perceptual load and cognitive-control load move distractor processing in opposite directions) rather than settled. Live dispute recorded as such."
+    "verdict": "PASS with qualification — the early/late traditions give opposite answers on whether distractors are excluded from perceptual processing; Lavie 2005's load resolution honestly reframed (perceptual load and cognitive-control load move distractor processing in opposite directions) rather than settled. Live dispute recorded as such."
    },
    {
     "q": "Does a wandering mind cost more than it returns?",
-    "verdict": "UNRESOLVED on the strict same-conditions test \u2014 Killingsworth and Gilbert 2010 measure average mood while wandering; Mooneyham and Schooler 2013 accept the costs and propose boundary functions. The dossier itself records that the two papers do not contradict each other's measurements; live dispute with the qualification preserved."
+    "verdict": "UNRESOLVED on the strict same-conditions test — Killingsworth and Gilbert 2010 measure average mood while wandering; Mooneyham and Schooler 2013 accept the costs and propose boundary functions. The dossier itself records that the two papers do not contradict each other's measurements; live dispute with the qualification preserved."
    },
    {
     "q": "Does attention switch or scale?",
-    "verdict": "PASS \u2014 Jonides's two-process model (focused/diffuse modes) vs Eriksen and Yeh's zoom lens, proposed explicitly as an alternative to two processing modes; Johnson and Yantis 1995 rejected the two-state mixture prediction. The dossier honestly notes the parallel-sampling result does not by itself establish the zoom lens."
+    "verdict": "PASS — Jonides's two-process model (focused/diffuse modes) vs Eriksen and Yeh's zoom lens, proposed explicitly as an alternative to two processing modes; Johnson and Yantis 1995 rejected the two-state mixture prediction. The dossier honestly notes the parallel-sampling result does not by itself establish the zoom lens."
    }
   ],
   "motivation": [
    {
     "q": "Do rewards undermine intrinsic motivation?",
-    "verdict": "PASS \u2014 Deci/Koestner/Ryan 1999 meta-analysis (contingent rewards undermine, d = -0.28 to -0.40) vs Cameron/Banko/Pierce meta-analysis ('rewards are not harmful to motivation'). Competing meta-analyses, opposite bottom lines on the same proposition."
+    "verdict": "PASS — Deci/Koestner/Ryan 1999 meta-analysis (contingent rewards undermine, d = -0.28 to -0.40) vs Cameron/Banko/Pierce meta-analysis ('rewards are not harmful to motivation'). Competing meta-analyses, opposite bottom lines on the same proposition."
    },
    {
     "q": "Do needs line up in a hierarchy of prepotency?",
-    "verdict": "PASS \u2014 Maslow 1943 affirms the prepotency ordering; Wahba and Bridwell 1976 review of the tests finds little clear or consistent support. The dossier bounds the review to the testable propositions."
+    "verdict": "PASS — Maslow 1943 affirms the prepotency ordering; Wahba and Bridwell 1976 review of the tests finds little clear or consistent support. The dossier bounds the review to the testable propositions."
    },
    {
     "q": "Can reason alone move a person to act?",
-    "verdict": "PASS with qualification \u2014 Hume: reason alone can never be a motive; Kant: the will determined by the maxim, respect self-wrought by a rational concept. The dossier narrows the dispute honestly (Kant grants a feeling, arising from the thought) and records its own lean and limits."
+    "verdict": "PASS with qualification — Hume: reason alone can never be a motive; Kant: the will determined by the maxim, respect self-wrought by a rational concept. The dossier narrows the dispute honestly (Kant grants a feeling, arising from the thought) and records its own lean and limits."
    }
   ],
   "overload-overwhelm": [
    {
     "q": "Is the capacity to keep going a limited resource?",
-    "verdict": "PASS with qualification \u2014 Baumeister et al. 1998 affirms the limited shared resource; Hagger et al. 2016 RRR is null-compatible (d = 0.04, CI [-0.07, 0.15]) \u2014 absence of detection, not an explicit denial; the dossier adds the 12-lab partial replication and honestly treats the model as unsettled."
+    "verdict": "PASS with qualification — Baumeister et al. 1998 affirms the limited shared resource; Hagger et al. 2016 RRR is null-compatible (d = 0.04, CI [-0.07, 0.15]) — absence of detection, not an explicit denial; the dossier adds the 12-lab partial replication and honestly treats the model as unsettled."
    },
    {
     "q": "Does a larger set of options overload the chooser?",
-    "verdict": "PASS \u2014 Scheibehenne/Greifeneder/Todd 2010 (mean effect virtually zero) vs Chernev/B\u00f6ckenholt/Goodman 2015 (significant once moderators accounted; explicitly 'counter to the data reported by prior meta-analytic research'). Head-on between meta-analyses; abstracts-only limit recorded honestly."
+    "verdict": "PASS — Scheibehenne/Greifeneder/Todd 2010 (mean effect virtually zero) vs Chernev/Böckenholt/Goodman 2015 (significant once moderators accounted; explicitly 'counter to the data reported by prior meta-analytic research'). Head-on between meta-analyses; abstracts-only limit recorded honestly."
    },
    {
     "q": "Is rest for the sake of work, or work for the sake of rest?",
-    "verdict": "PASS \u2014 intra-Aristotelian: NE X.6 'Relaxation, then, is not an end; for it is taken for the sake of activity' vs NE X.7 'we are busy that we may have leisure'. Both sides the same author's own text, opposite orderings on the same proposition."
+    "verdict": "PASS — intra-Aristotelian: NE X.6 'Relaxation, then, is not an end; for it is taken for the sake of activity' vs NE X.7 'we are busy that we may have leisure'. Both sides the same author's own text, opposite orderings on the same proposition."
    }
   ]
+ },
+ "strict_strengthening_2026_10_26": {
+  "agent": "worker-pplx-dosr6-1026r",
+  "item": "overload-overwhelm Q1 (limited-resource question) gained explicit Baumeister-Vohs reply and Hagger rejoinder, matching the right-effort precedent",
+  "checks": "dossier_check 0; quote_verify 11/0 not found; density 0 dense",
+  "note": "no advisor tool; supervisor post-review requested"
  }
 }
