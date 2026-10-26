@@ -3835,19 +3835,16 @@ the band quote map (docs/enrichment/qc/QC-BAND-QUOTE-MAP-2026-10-26.md)
 left unadjudicated, plus the map-staleness re-runs. Full detail in
 docs/enrichment/qc/QC-SAMPLE-DOSR5-2026-10-26.md samples 8-17.
 
-- Session tally for automated NOT FOUNDs (final figures, updated after the
-  later samples landed; the QC record's final correction entry governs):
-  45 items adjudicated — 41 false positives confirmed (most verbatim on
-  direct opens; the rest defeated by PDF text-layer artifacts, footnote
-  markers, soft hyphens, apostrophe and case variants, or confirmed via
-  open twins and surfaced abstract text where the cited host blocks
-  fetchers, each documented in the QC record), 2 genuine deviations
-  repaired earlier in the session (Hayes semicolon; Goyal "reductions in";
-  registry rebuilt both times), 2 items not confirmable from this
-  environment (SN 42.3 and Milindapanha 3.1.1 — elided composites on
-  suttacentral, which serves a JavaScript app shell to this environment's
-  fetchers), 0 known outstanding deviations. No repairs implied for the 2;
-  flagged in the QC record for any future eye-check.
+- Session tally for automated NOT FOUNDs (final figures; the QC record's
+  sample 23 governs): 45 items adjudicated — 43 false positives confirmed
+  (most verbatim on direct opens; the rest defeated by PDF text-layer
+  artifacts, footnote markers, soft hyphens, apostrophe and case variants,
+  or confirmed via open twins, surfaced abstract text, or the cloud
+  browser where the cited host blocks fetchers, each documented in the QC
+  record), 2 genuine deviations repaired earlier in the session (Hayes
+  semicolon; Goyal "reductions in"; registry rebuilt both times), 0 items
+  unconfirmable, 0 known outstanding deviations. The band quote map's
+  remaining eye-check queue for the dosr bands is exhausted.
 - Map staleness both ways: right-livelihood and motivation are now clean
   (0 NOT FOUND; the map predates those repairs); creation 5->6, creativity
   7->10, procrastination 2->3 after the dosr7 close edits.
