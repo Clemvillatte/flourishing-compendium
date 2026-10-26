@@ -703,3 +703,13 @@ sign of different events); still owed to the full pass. Corrected
 session tally: of the flagged variants, 13 resolved on watch pages, 4
 by series-part inspection, 1 identity mismatch (SRC-M25-003), 6
 remaining formatting variants.
+
+## Batch 3 follow-up 8 (2026-10-26T05:21Z)
+
+- SRC-M12-008: RESOLVED same-event — "SDCF 2024 Lectures: Daoist
+  Philosophy II: Zhuangzi - Prof. Jenny Hung PART 2" (SDCF channel,
+  2024-10-10, 1:14:36); the record is the same lecture with the
+  platform's "PART 2" suffix dropped. Same event.
+
+Remaining unresolved variants: 5 (formatting only); owed to the full
+pass.
