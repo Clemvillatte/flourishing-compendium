@@ -83,10 +83,12 @@ the shift in the teaching.
 
 **Ajahn Brahm, "What Is Buddhism?" booklet (BSWA, Perth, January 2016,
 free distribution), https://bswa.org/teaching/buddhism-ajahn-brahm/.**
-Read these sections: the five precepts, the Middle Way/Eightfold Path,
-and the practice of the path. The booklet's rebirth and karma sections
-present rebirth cosmology matter-of-factly; they stay unassigned, per
-the walk's exclusion rule (see outcome 4). The same five precepts as
+Read the section titled "The Middle Way or Eightfold Path" (289 words
+on the BSWA page). It lists the five precepts, and it ends with the
+booklet's account of how virtue, meditation and wisdom make up the
+practice of the path. The booklet's karma and rebirth sections present
+rebirth cosmology matter-of-factly; they stay unassigned, per the
+walk's exclusion rule (see outcome 4). The same five precepts as
 AN 5.179 appear here in the author's practical register.
 
 Activity: for each precept, write the one sentence in the booklet that
@@ -160,8 +162,8 @@ talk (00:37:33 onward) is b2's territory and is not assigned here.
 - Measured media: assigned video segment 00:25:46-00:37:33 = 11 m 47 s
   (chapter-bounded; durations read from the opened pages, receipts
   B-T03 and the remaster corroboration in the degree ledger).
-- Estimated: booklet sections (~2,000 words at 130 words per minute,
-  new concepts dense) ~30 m (matching the Step 2 allowance); the
+- Estimated: booklet section (289 words, about 2 m raw) with a second
+  reading and the five-sentence precept activity, ~30 m (matching the Step 2 allowance); the
   trainings page (~900 words) ~10 m (matching the Step 3 allowance);
   two hard cases ~50 m; comparison and verdict ~30 m; study overhead on
   the video segment ~15 m. Estimates labelled as estimates.
