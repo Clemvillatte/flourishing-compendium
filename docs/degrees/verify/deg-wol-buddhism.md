@@ -751,3 +751,49 @@ obtained (2026-10-26T05:25Z)
   receipts) and now content classification from the full recording
   text. ROUTE owner: b6's Lecture-1 source-table row can drop
   "CONTENT NOT YET INSPECTED".
+
+### B-V19 — b6 Kirchner Lecture 3 content inspection: FULL transcript
+obtained (2026-10-26T05:26Z)
+
+- Same route (downsub.com, English auto-captions): the FULL recording
+  text (~13,300 words, whole 1:40:17). Captions are auto-generated:
+  subject classification only, NOT a verbatim quotation carrier.
+- Content confirmed from the recording itself: the lecture delivers
+  the Rinzai/Soto material the b6 module assigns it for — Linji
+  (Rinzai) sayings and the koan as the Rinzai tradition's central
+  practice technique, Soto shikantaza characterized as
+  "choiceless awareness with curiosity", and the place of meditation
+  in Buddhism; the module's negative claim (meditation's status in
+  traditional schools) is discussed rather than asserted as incidental
+  — the owner's description-bounded line remains the right bound.
+- Duration 1:40:17 confirmed on the extraction page (matching the
+  watch-page figure; the 05:13Z addendum's player variance note
+  stands). Status: **verified-video, content-inspected**. ROUTE
+  owner: b6's Lecture-3 source-table row can drop "CONTENT NOT YET
+  INSPECTED".
+
+### B-V20 — b7 Batchelor lecture content inspection: FULL transcript
+obtained (2026-10-26T05:26Z)
+
+- Same route: FULL English auto-caption text of the whole 1:26:35
+  Radboud Reflects lecture (62,061 characters). Subject classification
+  only; not a verbatim quotation carrier.
+- Content confirmed from the recording itself: Batchelor presents
+  Buddhism as "primarily and centrally... ethics... about human
+  flourishing... how we can live in this world in a way that enables
+  ourselves as individuals and our communities", describes his
+  project as "developing a secular Buddhism" that keeps "the
+  ethical aspects and the practical wisdom", reads the Four Noble
+  Truths "not as a religious doctrine but as a doctrine of social
+  justice", starts from dukkha ("coming to terms with human
+  suffering... the starting point of his whole approach"), and
+  frames the Dharma as "a pragmatic and skeptical ethic". The
+  lecture's actual content matches the module's bounded claims
+  (Buddhism as a secular, pragmatic, ethical basis for human
+  flourishing).
+- Status: **verified-video, content-inspected**. ROUTE owner: b7's
+  Batchelor source-table row can drop "CONTENT NOT YET INSPECTED";
+  the b6/b7 content-inspection items from the owner's full-module-set
+  checkpoint are now all discharged (b5 spine B-V14, b6 both lectures
+  B-V18/B-V19, b7 Batchelor B-V20; the b7 Fronsdal optional-listening
+  rests on the verified AudioDharma series page B-V17/B-V06).
