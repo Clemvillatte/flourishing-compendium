@@ -27,7 +27,7 @@ The completion receipt lists as low-priority open: verbatim confirmation of the 
 
 - Searches for the lecture's cherry-juice worked example returned no indexed transcript excerpts from LKiX54NglCo itself.
 - The searches did surface an adjacent, different-source carrier: the [Normal Curves podcast](https://www.normalcurves.com/p-values-are-we-using-a-flawed-statistical-tool/) episode "P-Values: Are we using a flawed statistical tool?" has a full transcript in which Sainani works a cherry-juice/5K-running example (runners drinking cherry juice vs placebo, 15-second average improvement, p = 0.24, MBI misinterpretation). This is Sainani using the same example family on a different recording; it does NOT verify that the examples occur inside the assigned LKiX54NglCo clips, so the item REMAINS OPEN. The podcast is recorded here as a possible supplementary carrier if the module owner ever wants a text source for the cherry-juice example (it is about p-value/MBI interpretation, not the lecture's descriptive-statistics content).
-- The lecture itself has no SoundCloud-style audio distribution found in this pass, so the audio route that closed the Black Dog window item is not available here.
+- The lecture itself has no SoundCloud-style audio distribution found in this pass, so the audio route that supplied supporting evidence for the Black Dog window item is not available here.
 
 ## 3. Standing-items reconciliation note for the supervisor
 
@@ -35,7 +35,7 @@ The standing-open-items list in deg-video-recheck-completion-1026c.md (body writ
 
 - Sainani in-clip worked examples: OPEN (narrowed by this pass; see section 2 above).
 - Black Dog assigned 4:17 window verbatim: still open under the strict YouTube-window reading; alternative audio evidence now supplied in deg-psychdim-m3-blackdog-carrier-crosscheck-1026c.md (supervisor's call whether that satisfies it).
-- Noba full-scope single-video search: CLOSED by the candidate receipt (stale in the completion receipt's list).
+- Noba full-scope single-video search: closed as a search item by the candidate receipt, which records a verified candidate (Kaplin O5oMCeZTSJg); the owner's adoption of that source remains the owner's editorial act, so the item needs no further searching but is not an owner decision. The completion receipt's list entry is stale either way.
 
 ## Outcome
 

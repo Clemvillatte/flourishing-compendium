@@ -10,7 +10,7 @@ Fetched https://www.youtube.com/watch?v=_12aeIvlHhM directly (fetch succeeded; f
 - Title: "Lundao 1: The Daoist Tradition 道統", channel Daoist Foundation — matches the module citation.
 - Printed duration: 1:13:53 in this render. The prior records (owner's ledger reads, the search-index render) printed 1:13:54. One-second render disagreement, same class as the documented YouTube lecture renders; no correction to the module is warranted for a one-second render difference.
 - Upload date: May 29, 2022 — matches the prior records and Komjathy's CV.
-- Printed key moments: 38 moments, from 1:17 "Remembering the Sacred" to 1:08:50 "The Dallas Foundation Mission" (the index render's "Daoist Foundation Mission" is the same moment; ASR/index spelling differs).
+- Printed key moments: 34 moments in this render's chapter list, from 1:17 "Remembering the Sacred" to 1:08:50 "The Dallas Foundation Mission" (the index render's "Daoist Foundation Mission" is the same moment; ASR/index spelling differs).
 
 ## Module boundary check (m1-orientation.md assigned segments)
 

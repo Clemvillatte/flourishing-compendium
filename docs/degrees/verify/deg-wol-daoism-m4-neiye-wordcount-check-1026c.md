@@ -11,7 +11,7 @@
 
 ## Finding: section 12 does not match
 
-The module states sections 1, 2, 3 and 12 total "170 + 135 + 103 + 142 = 550 words measured on the assigned sections". Sections 1–3 match, but section 12 as printed in the cited source measures **110 words** (translator's note markers stripped; 112 with them), not 142. Verified on both renders of the cited URL this session:
+The module states sections 1, 2, 3 and 12 total "170 + 135 + 103 + 142 = 550 words measured on the assigned sections". Sections 1–3 match, but section 12 as printed in the cited source measures **110 words**, not 142. (Section 12's note markers are asterisks attached to words, which do not change a whitespace-token count, and the section contains no bracketed note, so the raw count is also 110.) Verified on both renders of the cited URL this session:
 
 - https://www.gutenberg.org/cache/epub/38585/pg38585-images.html (the URL the module cites)
 - https://www.gutenberg.org/cache/epub/38585/pg38585.txt (plain text)
@@ -29,6 +29,6 @@ Sections 1–3 matching exactly validates the counting method against the module
 
 ## Postscript (same pass): module prose word count
 
-The module's other measured figure, "module teaching prose on this page (2,922 words measured, excluding the rubric table rows and this arithmetic section)", reproduces at 2,984 words under this pass's exclusion rule (table rows and the workload-arithmetic section stripped; sources section kept). The ~2% difference is within counting-method variance (exclusion of headings, sources or alignment-map prose shifts it by tens of words) and does not change the estimate: 2,922-2,984 words at 180 wpm is 16.2-16.6 minutes, both "about 16 minutes". No discrepancy flagged; recorded so the next checker knows the figure reproduces approximately and the method is the variable, not the source.
+The module's other measured figure, "module teaching prose on this page (2,922 words measured, excluding the rubric table rows and this arithmetic section)", did not reproduce exactly under this pass's exclusion rule (table rows and the workload-arithmetic section stripped; sources section kept): this pass counts 2,984. The original counting method is not reconstructed here, so the ~2% difference is not explained, only bounded: 2,922-2,984 words at 180 wpm is 16.2-16.6 minutes, both "about 16 minutes", so the timing claim stands either way and the x3 estimate is unaffected. No discrepancy is asserted against the module's figure; the count is recorded so the next checker knows the figure does not reproduce exactly and the variable is the (unreconstructed) counting method, not the source text.
 
 Flagged for the supervisor in the commit message; no files other than this receipt were touched.
