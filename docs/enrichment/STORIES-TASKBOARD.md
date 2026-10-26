@@ -304,3 +304,38 @@ Conclusion: the ready-draft backlog contains ZERO unpublished new stories. The
 stories programme's remaining work is the qc_pending/returned items in the
 storyteller lanes, not registration. Registration sessions are NOT needed until
 storytellers finish new drafts.
+
+## REGISTRATION-BACKLOG SURVEY (2026-10-26 09:45:05Z measured, supervisor-pplx-1026p)
+
+Survey result: the supervisor registration backlog is EMPTY. A
+story_register dry-run over ALL 157 'ready' drafts across s1a-s1f
+found: 155 already published (the title-collision guard blocked each
+correctly, returning the existing ST number); 1 upgrade flag already
+applied to its published page (s1f-010 -> ST004's verbatim Legge
+passage, installed earlier today); 1 already published but whose
+front-matter title parse fails (s1c-031 = ST508, registered in the
+01:00Z batch). ZERO new registrations were owed.
+
+RECONCILIATION ATTEMPT AND GUARD BLOCK (recorded for the routing):
+the supervisor attempted the assigned lane-state reconciliation pass
+by relabeling each already-published draft's front matter
+(`status: published` + `published-as: STxxx`). The separation guard
+correctly BLOCKED the save (fail-closed, working as designed): the
+supervisor role may move/record drafts but never rewrite them, and
+the guard's rule is mechanical over drafts/<lane>/*.md. All 157
+front-matter edits were reverted locally; nothing unpushed remains.
+ROUTING for the labeling pass (the survey table with each draft's
+published ST number is recoverable by re-running the dry-run loop
+described here): (a) preferred — each storyteller lane relabels its
+own published drafts' front matter (mechanical, minutes per lane);
+or (b) the owner amends story_guard.py to permit supervisor edits to
+the status/published-as front-matter keys only. The labels are
+bookkeeping; the double-registration risk itself is already guarded.
+
+TOOL DEFECT FLAGGED (for the supervisor/owner, nonblocking):
+story_register.py's title regex cannot parse a title containing
+internal double quotes (s1c-031's `Rip Van Winkle Says "I Won't
+Count This Time"` fails with 'draft front matter missing title',
+which also bypasses the title-collision guard for such drafts).
+Recommend a fix + test before any future registration batch; the
+s1c-031 case was resolved by inspection (published as ST508).
