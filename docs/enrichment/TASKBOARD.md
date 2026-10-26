@@ -659,8 +659,12 @@ remember only those objects and details that receive focused attention."
 confirmed verbatim on the [PubMed record](https://pubmed.ncbi.nlm.nih.gov/10694957/)
 (NOTE: a fresh automated extraction of the author PDF at chabris.com
 returned different abstract text; the cause was NOT established. The
-verified carrier for this check is the PubMed record, which carries the
-sentence verbatim). The stats rows (46% of 192 missed overall; 44% of 96 noticed
+verified carrier for this check is the PubMed record. METHOD NOTE added
+T+44: the original confirmation of this sentence came via a search
+excerpt of the PubMed record, not a direct fetch; the record has now
+been DIRECTLY FETCHED this session and the sentence re-confirmed
+verbatim. The stats rows were confirmed earlier via the chabris.com
+author PDF and are not in the PubMed abstract). The stats rows (46% of 192 missed overall; 44% of 96 noticed
 the gorilla; 58% vs 27% by attended team) also confirmed. A106 (virtue
 taught through habituation): the Aristotle NE II.1 Ross sentence
 "Neither by nature, then, nor contrary to nature do the virtues arise in
@@ -676,7 +680,11 @@ by the supervisor's registration batch, s1c-031; PLACEMENT NOTE added
 T+41: the supervisor's identity repair (43ac38a) has since restored the
 pre-session ST488 identity ("The Painter Who Kept the Water Still") and
 moved this story to a fresh ST508; the span verifications below remain
-valid for the spans themselves, now carried on ST508; not in the earlier sample
+valid for the spans themselves, now carried on ST508 (all eight audited
+span markers confirmed present on ST508 this session; a full verbatim
+re-comparison against the sampled page version was NOT performed — the
+sample stands as historical verification of the spans, with current
+placement confirmed at marker level); not in the earlier sample
 batches ST307/415/420/495/505 or ST414/416/418/422/500/507). All 8 quoted
 James spans (Talks to Teachers ch. VIII, Gutenberg ebook 16287, raw text
 fetched this session) verified VERBATIM: the Rip Van Winkle opener, "it is
