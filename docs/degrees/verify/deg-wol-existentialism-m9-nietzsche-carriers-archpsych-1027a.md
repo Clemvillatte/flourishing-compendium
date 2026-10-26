@@ -12,8 +12,7 @@ Bounded Phase-D2 verification assist for the existentialism lane (deg-arch-inven
 
 ### 2. Nietzsche Gay Science — open translation RESOLVED
 
-- The pool row says the Kaufmann translation is paywalled and no open translation was located. **Open carrier located and opened**: **Thomas Common's translation, "The Joyful Wisdom ('La Gaya Scienza')"** (Oscar Levy Complete Works vol. 10, T.N. Foulis 1910) — Project Gutenberg **#52881** and **#52124** (two digital editions, both public domain, free EPUB/text/HTML; the full HTML text was opened this session).
-- Content confirmed: five Books plus the rhyme prelude and appendix; the eternal-recurrence passage (Book IV "Sanctus Januarius", Part 341 "The Heaviest Burden") is verifiably present — corroborated independently by the OER excerpt read this session (open.ocolearnok.org) quoting that passage from the Gutenberg text.
+- The pool row says the Kaufmann translation is paywalled and no open translation was located. **Open carrier directly fetched (v2 upgrade)**: **Thomas Common's translation, "The Joyful Wisdom ('La Gaya Scienza')"** — Project Gutenberg **#52881** (catalogue page directly fetched this session: public domain in the USA; free EPUB3/text/HTML; Common listed among translators, with Paul V. Cohn and Maude Dominica Petre; a second edition **#52124** also exists, listed via search). Note: the catalogue page does not show a contents listing, so the presence of Book IV "Sanctus Januarius" / aphorism 341 in THIS edition is corroborated only via the OER excerpt read this session (which quotes Part 341 "The Heaviest Burden" from the Gutenberg text).
 - The pool's "Gay Science row UNVERIFIED" can be closed with Gutenberg #52881/#52124 (Common 1910) as the open carrier. Caveat for the lane: this is the older Common translation (titled "The Joyful Wisdom"), not Kaufmann's — fine as the open carrier, but module text should cite the translation used.
 
 ## Status for the lane
