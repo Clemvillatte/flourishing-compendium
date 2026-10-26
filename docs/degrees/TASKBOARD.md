@@ -2271,3 +2271,28 @@ substantial anchor content and must be justified by the walk's purpose;
 per-row instructional sufficiency and elective-branch fit unassessed;
 Socratic-method disposition reported from project records, not newly
 certified. Production-launch authorisation routed to the live supervisor.
+## deg-wol-greek checkpoint (2026-10-26, worker-pplx-greek-1026g)
+
+Owner directed the session to Degrees work (in-session, 2026-10-26);
+the four priority degrees are published, so the Greek walk was taken
+next (Phase 0 stop-gate CLOSED per owner decision 6). mod-phil-1s
+(Socrates and the Examined Life) REBUILT through three advisor rounds
+in one session; round 3 ruled the worked example passes the logic
+check with the remaining targeted repairs now applied and pushed:
+timestamped segment boundaries from the watch pages' own chapter
+lists, a model Q&A exchange, exemplar and rejection examples per
+criterion, a self-study route, prose em dashes removed, workload
+recomputed (243 min, estimate). Fresh evidence this session: both
+Sadler transcripts read (quoted), both watch pages fetched with
+chapters, the MIT Classics Apology passages verified verbatim, and the
+"wisdom is in truth worth nothing" sentence located at Apology 23a-b
+on a section-numbered Jowett text (Lexundria) — the wiki T011 page's
+20d-e locator for it is WRONG.
+
+ROUTED TO THE LIVE SUPERVISOR: (a) confirm the Greek degree reopening
+(the launch routing had parked Greek; the owner's degrees-work
+directive is read as reopening it); (b) module QC review of the
+repaired mod-phil-1s draft (DRAFT NOT CLEARED, no gate awarded);
+(c) the T011 locator repair (20d-e → 23a-b for that sentence). Full
+evidence in ledgers/deg-wol-greek.md and the module's verification
+record.

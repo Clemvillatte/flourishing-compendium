@@ -26,7 +26,7 @@ flagged); the SEP quotation is restored to its exact fetched wording.
 
 - Sadler, "Plato's dialogue, the Apology — Introduction to Philosophy"
   (https://www.youtube.com/watch?v=orVFra9rPYo): watch page fetched
-  fresh — title, channel (Gregory B. Sadler — That Philosophy Guy),
+  fresh: title, channel (Gregory B. Sadler, That Philosophy Guy),
   duration 1:06:20, and a page showing playback controls with no price
   stated; the channel description identifies it as the Fall 2011
   Introduction to Philosophy class at Marist College discussing Plato's
@@ -38,32 +38,46 @@ flagged); the SEP quotation is restored to its exact fetched wording.
   ("He is really wise because he knows he's not wise and doesn't know
   anything"), the examined life ("living what Socrates called the
   examined life"), and the gadfly ("I'm the gadfly. I get to poke the
-  city and make it jump when I need to"). The transcript's closing
-  preview of the Crito confirms the lecture's bridge.
+  city and make it jump when I need to"). A second transcript read
+  this session also confirms the older, informal accusations and the
+  questioning of politicians, poets and artisans in turn, and the
+  closing preview of the Crito ("What we're going to pick up with
+  next week is Crito"). The watch page's own chapter list supplies
+  the Step 2 segment boundaries.
 - Sadler, "Plato's dialogue, the Crito — Introduction to Philosophy"
   (https://www.youtube.com/watch?v=3OCF_qGT-dA): watch page fetched
-  fresh — duration 59:39, same checks. Transcript read fresh this
+  fresh: duration 59:39, same checks. Transcript read fresh this
   session via
   https://youtubetotranscript.com/transcript?v=3OCF_qGT-dA (quoted
   passages in the ledger entry). The transcript grounds the Step 2
-  claims: Crito's escape plan ("he's got a breakout of jail plan"),
+  claims (automated captioning renders the name as "cedo"; corrected
+  in quotation as cedo [Crito]). The watch page's own chapter list
+  supplies the Step 2 segment boundaries. The transcript grounds the
+  Step 2 claims: Crito's escape plan ("he's got a breakout of jail plan"),
   deciding on what is right rather than the opinions of the many
-  ("Crito is too concerned about what the many think"), the Laws'
-  arguments from education ("the laws are sort of like super parents"),
-  agreement ("what was our agreement with you when you entered into
-  the courtroom") and the state's survival ("do you imagine a state can
-  subsist... in which the decisions of law have no power"), and the
-  good life as worth more than life itself ("a good life is to be
-  valued... not just life by itself but a good life").
+  ("cedo [Crito] is too concerned about what the many think"), the
+  Laws' arguments from education ("the laws are sort of like super
+  parents"), agreement ("what was our agreement with you when you
+  entered into the courtroom") and the state's survival ("do you
+  imagine a state can subsist... in which the decisions of law have
+  no power"), and the good life as worth more than life itself ("a
+  good life is to be valued... not just life by itself but a good
+  life").
 - Plato, Apology, trans. Benjamin Jowett, Internet Classics Archive
   (https://classics.mit.edu/Plato/apology.html): fetched fresh this
   session. Three passages verified verbatim: "He, O men, is the wisest,
   who, like Socrates, knows that his wisdom is in truth worth
   nothing"; "the life which is unexamined is not worth living"; the
   gadfly passage ("I am that gadfly which God has given the state").
-  The fetched page text prints no section markers, so the 20d-e and
-  38a locators are not confirmed by this fetch and remain carried by
-  the wiki page (flag carried forward).
+  The MIT page's fetched text prints no section markers, so the
+  sentence's position was checked against a section-numbered Jowett
+  text opened this session (Lexundria, https://lexundria.com/plat_apol/23/j):
+  the "wisdom is in truth worth nothing" sentence stands at Apology
+  23a-b (the oracle story begins earlier, around 20d-e). The wiki
+  thinker page's 20d-e locator for this sentence is therefore wrong
+  and is flagged as a routed repair; the module cites Apology 23a-b
+  for it. The 38a attribution of the unexamined-life sentence is
+  supported by the opened SEP entry (Apology 38a).
 - Stanford Encyclopedia of Philosophy, "Socrates" (Nails and Monoson,
   https://plato.stanford.edu/entries/socrates/): fetched fresh this
   session. Exact wording used below: Socrates conversed with people he
@@ -124,8 +138,8 @@ Socratic-method sayings and the two supporting pieces (all links below
 resolve to pages on this site; the thinker page quotes Plato's Apology
 in the Jowett translation and the Crito via SEP):
 
-- [T011 Socrates](../../../../content/thinkers/T011%20%E2%80%94%20Socrates.md)
-  — the Socratic problem (we have him only second-hand, from
+- [T011 Socrates](../../../../content/thinkers/T011%20%E2%80%94%20Socrates.md):
+  the Socratic problem (we have him only second-hand, from
   Aristophanes' comedy, Xenophon's memoirs and Plato's dialogues), the
   trial of 399 BCE (the charges of impiety and corrupting the young, the
   jury's verdict, the hemlock), and the oracle story: Chaerephon asked
@@ -134,16 +148,17 @@ in the Jowett translation and the Crito via SEP):
 - [Socratic method: assume nothing](../../../../content/sayings/Socratic%20method%20%E2%80%94%20assume%20nothing.md),
   [Socratic method: test through experience](../../../../content/sayings/Socratic%20method%20%E2%80%94%20test%20through%20experience.md)
   and
-  [Socratic method: elicit, don't impose](../../../../content/sayings/Socratic%20method%20%E2%80%94%20elicit%2C%20don%27t%20impose.md)
-  — three sayings drawn from Plato's Meno, each one move of the method.
-- [ST155 Meno's Paradox](../../../../content/stories/ST155%20%E2%80%94%20Meno%27s%20Paradox.md)
-  — the question that makes inquiry look impossible: how do you look for
+  [Socratic method: elicit, don't impose](../../../../content/sayings/Socratic%20method%20%E2%80%94%20elicit%2C%20don%27t%20impose.md):
+  three sayings drawn from Plato's Meno, each one move of the method.
+- [ST155 Meno's Paradox](../../../../content/stories/ST155%20%E2%80%94%20Meno%27s%20Paradox.md):
+  the question that makes inquiry look impossible: how do you look for
   what you do not know? Socrates' reply (the slave boy and the geometric
   truth) and Aristotle's later answer (you learn to recognise what you
   cannot define, the way you learn to judge wine by drinking it).
-- [K236 Community of inquiry](../../../../content/kernels/K236%20%E2%80%94%20Community%20of%20inquiry.md)
-  — a modern practice descended from Lipman's Philosophy for Children:
-  the protocol, and the honest scale note (two other people and one
+- [K236 Community of inquiry](../../../../content/kernels/K236%20%E2%80%94%20Community%20of%20inquiry.md):
+  the community of inquiry as the kernel presents it, a modern practice
+  from Lipman's Philosophy for Children programme. The kernel gives the
+  protocol and the honest scale note (two other people and one
   honest question are a working minimum). Step 4 uses it as a companion
   exercise.
 
@@ -163,32 +178,41 @@ stretch passes without practice. Both lectures are from the same Fall
 2011 Marist Introduction to Philosophy series (Gregory B. Sadler;
 credentials verified in the ledger, PhD Philosophy, SIU Carbondale
 2002, Marist instructor 2011-2018; both transcripts were read fresh
-this session and ground every content claim below — see the
+this session and ground every content claim below (see the
 verification record):
 
 - Sadler, "Plato's dialogue, the Apology — Introduction to Philosophy",
   whole lecture, 1:06:20
-  (https://www.youtube.com/watch?v=orVFra9rPYo; free, no paywall). Watch
-  in two segments: first the official charges (atheism, corrupting the
-  youth) and the older accusations, then the oracle and Socratic wisdom
-  as knowing the limits of one's knowledge, the questioning of
-  politicians, poets and artisans, and the examined life; the lecture
-  closes by previewing the Crito. After the second segment do
-  Retrieval activity 2.
+  (https://www.youtube.com/watch?v=orVFra9rPYo; free, no paywall). Two
+  assigned segments (boundaries from the watch page's own chapter
+  list, read this session):
+  - Segment 1, 4:55 to 40:20 ("Socrates" through the end of "Old
+    Charges"): the figure of Socrates, the official charges (atheism,
+    corrupting the youth) and the older, informal accusations.
+  - Segment 2, 40:20 to 1:06:20 (from "Paradoxical" to the close): the
+    oracle and Socratic wisdom as knowing the limits of one's
+    knowledge, the questioning of politicians, poets and artisans, the
+    examined life, and the closing preview of the Crito. After this
+    segment do Retrieval activity 2.
 - Sadler, "Plato's dialogue, the Crito — Introduction to Philosophy",
   whole lecture, 59:39
   (https://www.youtube.com/watch?v=3OCF_qGT-dA; free, no paywall). Same
-  series; covers Crito's practical escape plan, Socrates' insistence on
-  deciding on what is right rather than the opinions of the many, the
-  Laws' arguments from education, agreement and the state's survival,
-  and the good life as worth more than life itself. After it do
-  Retrieval activity 3.
+  series. Two assigned segments (boundaries from the watch page's own
+  chapter list, read this session):
+  - Segment 1, 0:00 to 21:47 ("Introduction to Crito" through the end
+    of "Ignoring public opinion"): Crito's practical escape plan and
+    Socrates' insistence on deciding on what is right rather than the
+    opinions of the many.
+  - Segment 2, 21:47 to 59:39 (from "Practical ethics" to the close):
+    the good life as worth more than life itself, and the Laws'
+    arguments from education, agreement and the state's survival.
+    After this segment do Retrieval activity 3.
 
 Optional reading for learners who want the primary text itself: the
 Apology and the Crito in the Jowett translation, both free at the MIT
 Classics Archive (Apology: https://classics.mit.edu/Plato/apology.html;
 the three passages the module uses were verified verbatim on this page
-this session — see the verification record).
+this session; see the verification record).
 
 ### Step 3: worked example with fading (Outcomes 2 and 3)
 
@@ -196,8 +220,8 @@ The module page itself carries the teaching for the Socratic exchange.
 A note on the formulation: the sequence below (state a claim, read it
 together with the speaker's other commitments, find what has to give)
 is this module's pedagogical adaptation, grounded in the SEP's
-characterisation of the elenctic dialogues — Socrates "only weeds the
-garden of its inconsistencies and false beliefs" — and in the
+characterisation of the elenctic dialogues (Socrates "only weeds the
+garden of its inconsistencies and false beliefs") and in the
 question-and-answer mode the entry describes; the SEP does not itself
 prescribe this sequence, and the module claims no more than that
 grounding.
@@ -210,22 +234,31 @@ The skill is demonstrated three times with the guidance faded:
    together: they imply that Pat always agrees with you. The third
    says Pat sometimes does not. The three cannot all stand; something
    has to give. The elenchus move is the question that follows: which
-   of the three would you reconsider, and why? Two limits, stated
-   plainly. First, the contradiction shows the three commitments cannot
-   all be true together; it does not show that the first one alone is
-   false. You could keep the first claim and instead reconsider
-   whether Pat is a good friend, or whether Pat really disagrees.
-   Second, if you read a set of beliefs together and no contradiction
-   appears, the beliefs survived that reading; that is not proof that
-   they are true.
+   of the three would you reconsider, and why? A model of the exchange
+   as it runs between two people (this is the shape Outcome 3's record
+   asks for):
+   - "You said Pat is a good friend. Does Pat always agree with you?"
+     "No, sometimes she disagrees."
+   - "And a good friend always agrees with you?" "That is what I
+     have always thought."
+   - "Read those together. What has to give?" "Either friendship does
+     not require agreement, or Pat is not the friend I thought. I
+     need to think about which."
+   Two limits, stated plainly. First, the contradiction shows the
+   three commitments cannot all be true together; it does not show
+   that the first one alone is false. You could keep the first claim
+   and instead reconsider whether Pat is a good friend, or whether Pat
+   really disagrees. Second, if you read a set of beliefs together
+   and no contradiction appears, the beliefs survived that reading;
+   that is not proof that they are true.
 2. Faded (the learner fills the middle move). The claim: "you cannot
    change after thirty." Name it, then [the learner supplies the middle
    move: write down two other beliefs you actually hold about people
-   changing — habits, therapy, careers restarted at fifty — and read
+   changing (habits, therapy, careers restarted at fifty) and read
    them together with the claim: what has to give?], then state the
    revision the conflict forces, or record honestly that nothing gave.
 3. Independent (the learner runs the whole move). Take one inherited
-   belief you actually hold from one of these areas — how you should
+   belief you actually hold from one of these areas: how you should
    treat money, what a good career looks like, what you owe your
    family, how relationships should work. Name the claim, elicit the
    commitments it must be read with, read them together, and record
@@ -238,17 +271,24 @@ own uses; it is not the elenchus and is not assigned here.
 
 ### Step 4: the community-of-inquiry check (Outcome 3, companion exercise)
 
-Historically the elenchus ran in conversation. This step uses a modern
-descendant of that conversational practice, the community of inquiry
-as K236 presents it (Lipman's Philosophy for Children protocol), as a
-companion exercise: for one decision in the coming week where the
-alternatives have stopped coming, run the two-other-minds check — two
-other people and one honest question, listening for the assumption the
+This step is a modern companion exercise, used alongside the Socratic
+instruction rather than as part of it: the community of inquiry as
+K236 presents it (Lipman's Philosophy for Children protocol). For one
+decision in the coming week where the
+alternatives have stopped coming, run the two-other-minds check (two
+other people and one honest question), listening for the assumption the
 other person spots that you did not. Note honestly whether the scale
 (two people, one question) actually produced a new alternative or only
 confirmed what you already thought; the kernel's own scale note says
 the sources do not test it at this scale, so your observation is data,
 not proof.
+
+For a learner studying alone: the exchange in part (iii) of the
+assessment can be a structured self-questioning session (the model
+exchange in Step 3.1 shows the shape: write the questions, answer them
+honestly in writing), and if no peer question arrives within the
+forum's cycle, write the question a careful reader would most likely
+ask of your page and answer it, marked as your own.
 
 ## Assessment
 
@@ -258,8 +298,9 @@ cohort forum:
 
 (i) A paragraph, in the learner's own words, explaining what the
 elenchus is (a claim read together with one's own other commitments)
-and what the examined-life charge amounts to (the oracle, Socratic
-wisdom, the gadfly) (Outcome 1).
+and what the examined-life charge amounts to: the oracle, Socratic
+wisdom, the gadfly, and what living an examined life involves day to
+day (Outcome 1).
 
 (ii) The elenchus record from Step 3.3: the inherited belief with its
 provenance stated, the commitments written down, what follows from
@@ -273,23 +314,44 @@ the answers as received, plus one sentence on whether the
 two-other-minds check produced a new alternative or only confirmed a
 prior view (Outcome 3).
 
-Criteria:
+Criteria (each with an exemplar of strong work and one rejection
+example, so the learner can self-check):
 
 1. The paragraph (i) states the method and the three narrative
-   elements accurately in the learner's own words, without merely
-   repeating the wiki's phrasing.
+   elements accurately in the learner's own words, and goes beyond
+   retelling them to say what living an examined life involves
+   (testing one's own beliefs against one's own other commitments,
+   daily converse about virtue). Exemplar: a paragraph that explains
+   the elenchus as reading a claim together with commitments the
+   speaker already holds, then says in one sentence what a person
+   doing this daily actually does. Rejection: a paragraph that
+   recounts the trial, the oracle and the gadfly without stating
+   what the method tests or what the examined life asks of someone
+   living it.
 2. The record (ii) derives what follows from the claim together with
    the commitments (not from the claim alone), names the conflict and
    the revision it forced or records its honest absence, and states
-   where the belief came from.
+   where the belief came from. Exemplar: "I have always believed X
+   because my family did; I also believe Y and Z; X together with Y
+   implies W, and Z says otherwise; what gave was X, now qualified
+   to X'." Rejection: a record that reports a poll of acquaintances,
+   or that tests the claim against the world instead of against the
+   learner's own written commitments.
 3. The record (iii) contains real questions with answers as received
    (questions the asker did not know the answers to), and the closing
    sentence reports an observed outcome rather than summarising the
-   method.
+   method. Exemplar: three questions with the answers as they
+   actually came back, one of which surprised the asker, and a
+   closing sentence naming what the exchange produced. Rejection: a
+   summary of what Socratic questioning is, or questions the asker
+   plainly already knew the answers to.
 
 A peer reads the page and answers one question of their own; the learner
-replies. The reply is not graded, but a page that draws no peer question
-is returned for revision.
+replies. The reply is not graded. If no peer question arrives within
+the forum's cycle, the learner writes the question a careful reader
+would most likely ask and answers it, marked as their own (see
+Step 4); a page is returned for revision only if it draws neither a
+peer question nor that self-supplied one.
 
 ## Retrieval activities
 
@@ -329,7 +391,7 @@ is returned for revision.
   overhead 3x raw reading time, labelled as estimate = 23 minutes
   (estimate).
 - Module page reading (this instruction, measured on the page):
-  about 3,300 words at 180 words per minute = about 18 minutes
+  about 3,500 words at 180 words per minute = about 19 minutes
   (estimate).
 - Required video (durations re-confirmed on the live watch pages this
   session, 2026-10-26): Sadler Apology 1:06:20 + Sadler Crito 59:39 =
@@ -341,13 +403,13 @@ is returned for revision.
   (estimate).
 - Optional primary reading (not counted in the required total): the
   Apology and Crito in Jowett's translation (MIT Classics Archive).
-- Total: 23 minutes reading with study overhead + 18 minutes module
+- Total: 23 minutes reading with study overhead + 19 minutes module
   page + 2:05:59 video + 15 minutes retrieval + 60 minutes writing and
-  exchange = 242 minutes, about 4 hours (estimate).
+  exchange = 243 minutes, about 4 hours (estimate).
 
 ## Alignment map
 
-| Outcome | Taught in | Practised in | Assessed in — what the criterion actually tests |
+| Outcome | Taught in | Practised in | Assessed in (what the criterion tests) |
 |---|---|---|---|
 | 1 (the elenchus; the examined life) | Step 1 wiki reading; Step 2 both lectures | Retrievals 1, 2 | Criterion 1 (part i): whether the learner can explain the method (a claim read together with one's own commitments) and the examined-life charge (oracle, wisdom worth little, gadfly) in their own words. |
 | 2 (inherited belief read against one's own commitments) | Step 3 worked example 1 (demonstrated, with both limits) | Step 3 worked examples 2 and 3; Retrieval 4 | Criterion 2 (part ii): whether the learner derives what follows from claim and commitments together, names the conflict and the revision (or its honest absence), and states the belief's provenance. |

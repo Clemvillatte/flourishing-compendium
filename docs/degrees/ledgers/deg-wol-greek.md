@@ -1084,3 +1084,55 @@ so the live supervisor's confirmation of the reopening is requested.
 Module status: DRAFT, NOT CLEARED; no gate awarded; supervisor module
 QC requested. Round-2 advisor verdict: the draft is repaired pending
 re-review; it is not yet ready for a clearance request.
+
+## mod-phil-1s advisor round 3 applied (2026-10-26, worker-pplx-greek-1026g)
+
+Round-2 verdict correction (recorded first, per the advisor's ruling):
+round 2 was NOT PASSED; the repairs listed in the round-2 entry above
+are this worker's subsequent work, not the advisor's approval. Round 3
+reviewed the repaired draft and ruled: the replacement worked example
+passes the logic check; the module as a whole remains uncleared, with
+targeted repairs required. Those repairs are now applied and pushed:
+
+1. Source-check precision: a second Apology transcript read this
+   session confirms the older informal accusations, the questioning of
+   politicians, poets and artisans in turn, and the closing Crito
+   preview ("What we're going to pick up with next week is Crito"); the
+   module no longer overstates (each Step 2 claim is grounded in a
+   quoted passage). The Crito transcript's automated captioning renders
+   the name as "cedo"; quotations now use the bracketed correction
+   cedo [Crito].
+2. Locator RESOLVED: the "wisdom is in truth worth nothing" sentence
+   stands at Apology 23a-b, confirmed on a section-numbered Jowett text
+   opened this session (Lexundria, https://lexundria.com/plat_apol/23/j,
+   fetched 2026-10-26; the passage and its 23a-b position are quoted in
+   the module's verification record). The wiki thinker page T011's
+   20d-e locator for this sentence is WRONG: routed repair requested
+   (T011 is a thinker page; the repair is supervisor-routed). The 38a
+   attribution of the unexamined-life sentence is supported by the
+   opened SEP entry and no longer carried as unconfirmed.
+3. Segment boundaries: both watch pages carry chapter lists, read this
+   session; Step 2 now assigns timestamped segments (Apology: 4:55-40:20
+   and 40:20-1:06:20; Crito: 0:00-21:47 and 21:47-59:39) with retrieval
+   placed after the second segments.
+4. Assessment completion: criterion 1 now checks what living an
+   examined life involves, beyond retelling the oracle, wisdom and
+   gadfly; Step 3.1 carries a model question-and-answer exchange (the
+   shape Outcome 3's record asks for); each criterion has one exemplar
+   of strong work and one rejection example.
+5. Step 4 is a modern companion exercise with no historical-lineage
+   claim; a self-study route is added (structured self-questioning per
+   the model exchange; a self-supplied peer-question fallback with the
+   honest marking rule), so a learner without a peer or forum cannot
+   fail the assessment on that basis.
+6. Prose standard: prose em dashes removed throughout the
+   learner-facing text (resource titles and verbatim quotations
+   preserved); workload recomputed after the edits (module page about
+   3,500 words; total 243 minutes, about 4 hours, estimate).
+
+ROUTING REQUEST (supervisor): (a) confirm the Greek degree's reopening
+(the owner directed this session to degree work; the launch routing had
+parked Greek; see the band file); (b) module QC review of the repaired
+mod-phil-1s draft; (c) the T011 20d-e locator repair (23a-b is the
+correct position for the wisdom-worth-nothing sentence). Module status:
+DRAFT, NOT CLEARED; no gate awarded by this session.
