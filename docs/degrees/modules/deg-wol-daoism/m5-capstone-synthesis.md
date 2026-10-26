@@ -1,4 +1,4 @@
-# m5 — Capstone: a personal synthesis of the walk, against one serious objection
+# m5: Capstone, a personal synthesis of the walk, against one serious objection
 
 **Level**: L4 Synthesis. You design, execute and self-assess an
 integrative piece of work: a written synthesis of this walk that
@@ -11,11 +11,11 @@ m3 Outcomes 1 and 4), you can distinguish a training
 history from the state it produces (m3 Outcome 2), and you can
 design a bounded practice with a reason, a limit and evidence
 criteria (m4 Outcome 3).
-**Total time budget**: about 3 hours 26 minutes (about 206 minutes of
+**Total time budget**: about 3 hours 28 minutes (about 208 minutes of
 labelled components; arithmetic below).
-**Primary text**: four newly assigned Daodejing chapters in the [Eno
-translation](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content)
-(chapters 20, 44, 50 and 67; 466 words measured on the four
+**Primary text**: the four capstone readings, Daodejing chapters 20,
+44, 50 and 67 in the [Eno translation](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content)
+(chapter 44 you met in m2 and re-read here; 466 words measured on the four
 chapters, subsection markers excluded; free, educator-licensed, no paywall), plus re-reads of the
 passages you already hold from m2 (Daodejing 11, 36, 78), m3 (Cook
 Ding, the Hunchback, the Butterfly Dream) and m4 (Neiye sections 1,
@@ -27,7 +27,7 @@ The exit capability this walk promised from the start is a written
 one: a personal synthesis of the walk against one serious objection.
 This module is that promise, delivered.
 
-The four new chapters carry sharp material for objections to this
+The four capstone readings carry sharp material for objections to this
 walk. Chapter 20 has
 the sage saying "I alone am still, without visible sign... like one
 with no home... I alone wish to be different from others". Chapter 44
@@ -104,7 +104,7 @@ On completing this module the learner can:
 
 ## Steps
 
-### Step 1: Read the four new chapters (about 21 minutes estimated
+### Step 1: Read the four capstone readings (about 21 minutes estimated
 on the primary text with the three-times study multiplier; about 7
 minutes raw on two readings of the 466 assigned words)
 
@@ -185,8 +185,9 @@ what changed in one sentence.
 
 Read your synthesis aloud once. Then write the one sentence of it
 you would say to a friend who has not taken this walk, and the one
-question you still cannot answer. Keep both with your m4
-deliverable c question; they are the walk's honest residue.
+question you still cannot answer. Keep both with the open question
+you carried from your m4 deliverable c teach-back; they are the
+walk's honest residue.
 
 ## Rubric
 
@@ -200,7 +201,9 @@ Graded by rubric. Each criterion is scored Pass or Revise.
 | 4. The synthesis takes a personal position with keeps and declines, on a concrete situation | The learner names at least one thing kept and one declined, each with a reason touching the passages; addresses one concrete situation involving suffering, uncertainty or responsibility with a practical implication and a limit they keep; and names at least one thing the passages do not resolve for them. | The learner offers a summary of the walk with no personal position, or a position with no passages behind it, or keeps the whole thing literary with no concrete situation, or resolves everything. |
 | 5. The self-assessment scores the draft and drives one revision | The learner scores each criterion, names the weakest with a reason, makes one revision, and records what changed. | The learner claims all criteria pass with no reason, or makes no revision. |
 
-Strong example for criterion 2: "Chapter 67 prints, 'Compassionate,
+Strong example for criterion 2 (illustrative excerpt; a passing
+response continues to two more passages from a second module, each
+cited and each applied): "Chapter 67 prints, 'Compassionate,
 thus I can have valor; ...' The passage claims a link between
 compassion and courage; it does not mention my job or my
 commitments. My application is that the withdrawal objection misses
@@ -250,15 +253,19 @@ me one practical implication: his rest matters more than my
 reputation for coping alone, so I will ask for help this week. The
 limit I keep: the chapter cannot tell me what to do when rest and
 reputation pull the same way. What I decline: treating the seasonal
-rules as rules. Unresolved: whether wu wei scales to decisions I
-fear."
+rules as rules; chapter 44 asks the reader to weigh and to 'know
+what is enough', and the weighing is mine to do each time, not a
+regimen the text settles once for me. Unresolved: whether wu wei
+scales to decisions I fear."
 
 Rejection example for criterion 4: "I keep everything the walk
 taught me and feel much wiser now." This does not pass: no keeps
 and declines with reasons, no concrete situation, no limit, nothing
 unresolved.
 
-Strong example for criterion 5: "Weakest criterion: 1, because my
+Strong example for criterion 5 (illustrative excerpt; a passing
+response scores every criterion before naming the weakest): "Weakest
+criterion: 1, because my
 objection was 380 words and still answered itself in the last
 sentence. Revision: cut to 290 words, deleted the answer. What
 changed: the objection now stands at full strength unanswered."
@@ -268,7 +275,7 @@ This does not pass: no scoring, no reason, no revision recorded.
 
 ## Workload arithmetic
 
-- Primary-text reading on the four newly assigned chapters (chapters
+- Primary-text reading on the four capstone readings (chapters
   20, 44, 50 and 67: 154 + 54 + 113 + 145 = 466 words measured on
   the chapters, subsection markers excluded): two readings, 932
   words; at 130 words per minute (poetic text with new concepts)
@@ -281,16 +288,16 @@ This does not pass: no scoring, no reason, no revision recorded.
   passage re-reads inside it).
 - Self-assessment and revision: about 20 minutes.
 - Teach-back close: about 10 minutes.
-- Module teaching prose on this page (2,141 words measured,
+- Module teaching prose on this page (2,218 words measured,
   excluding the rubric table rows and this arithmetic section): at
   180 words per minute about 12 minutes raw; with study overhead as
-  a three-times multiplier, about 35 minutes (estimate, labelled).
+  a three-times multiplier, about 37 minutes (estimate, labelled).
 
-Total: about 3 hours 26 minutes (about 206 minutes of labelled
-components: 21 estimated new-chapter reading with the three-times
+Total: about 3 hours 28 minutes (about 208 minutes of labelled
+components: 21 estimated capstone-readings reading with the three-times
 study multiplier, 30 objection writing, 90 drafting with passage
 re-reads inside it, 20 self-assessment and revision, 10 teach-back
-close, 35 estimated module-prose reading with the three-times study
+close, 37 estimated module-prose reading with the three-times study
 multiplier).
 
 ## Sources

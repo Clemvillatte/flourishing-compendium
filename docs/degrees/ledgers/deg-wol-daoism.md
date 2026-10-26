@@ -1598,3 +1598,14 @@ the round-3 revision plus the criterion-1 rubric correction
 41b3baf88. One post-acceptance module edit exists: the chapter 67
 specimen punctuation fix (receipt-routed, commit ac81915af),
 recorded above and routed to supervisor module-QC with the module.
+
+## m5 supervisor module-QC bounded return — repairs applied (2026-10-26 ~06:30Z, supervisor-pplx-1026c-daoism)
+
+The supervisor's bounded return (reviews/deg-wol-daoism-m5-supervisor-2026-10-26.md, reviewed hash eac70f2d) routed four repairs to the active daoism producer. All four applied in this commit:
+
+1. Title em dash replaced with a colon construction ("# m5: Capstone, a personal synthesis of the walk, against one serious objection").
+2. Rubric specimens: criterion 4's decline now carries its passage-touching reason (chapter 44's weighing questions); criteria 2 and 5 strong examples are labelled as illustrative excerpts with the passing-response requirement stated alongside.
+3. "Four newly assigned chapters" recast as "the four capstone readings" in all four places (primary-text line, What-this-module-is-for, Step 1 heading, workload arithmetic), with chapter 44's m2 history named and the budgeted re-reading kept.
+4. Teach-back close: the reference now names what m4's deliverable c actually produces ("the open question you carried from your m4 deliverable c teach-back"). Note for the supervisor: m4's deliverable c as it stands does include a kept-question element ("write down the one question your peer asked that you could not answer from the module, and take it to the m5 synthesis work as an open question"), so no m4 change was needed; the m5 phrasing now points at that requirement explicitly.
+
+Consequent arithmetic updates, re-measured per the module's stated method: prose 2,141 -> 2,218 words (repairs added words); prose component 35 -> 37 minutes; total about 206 -> 208 minutes (3 hours 28). Components: 21 + 30 + 90 + 20 + 10 + 37 = 208. Chapter counts and all quoted passages unchanged. Ready for the supervisor's delta re-review.
