@@ -33,3 +33,13 @@ pass. Flagged for a future sweep (the essay is also on zipped.net and
 in the Basic Writings collection, which may be easier carriers).
 
 No repairs made (read-only lane).
+
+## Addendum — Russell flag closed
+
+The Harper's archive page was subsequently opened within the full-work
+window: all three Russell spans — "The morality of work is the
+morality of slaves", "The idea that the poor should have leisure has
+always been shocking to the rich", and the leisure-for-the-few
+passage — FOUND on harpers.org/archive/1932/10/in-praise-of-idleness/.
+All 7 probed spans for this dossier are now confirmed on opened
+carriers.
