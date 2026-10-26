@@ -89,13 +89,13 @@ const BASE = process.env.BASE_URL || 'http://127.0.0.1:8765/';
         assert.ok(await page.locator('.acad-practice-gallery').isVisible());
         await page.locator('.apg-fav').first().click();
         assert.equal(await page.locator('.apg-fav').first().getAttribute('aria-pressed'), 'true');
-        await page.getByRole('button', { name: /Favourites/ }).click();
+        await page.getByRole('combobox', { name: 'Filter by practice type', exact: true }).selectOption('__favs__');
         assert.equal(await page.locator('.apg-card').count(),
           ['blocked', 'quota-full'].includes(storage) ? 0 : 1,
           'Unavailable storage degrades to an empty saved list, not an exception');
-        await page.getByRole('button', { name: 'All practices', exact: true }).click();
+        await page.getByRole('combobox', { name: 'Filter by practice type', exact: true }).selectOption('');
         assert.ok(await page.locator('.apg-card').count() > 0);
-        await page.locator('.apg-chip').nth(1).click();
+        await page.getByRole('combobox', { name: 'Filter by practice type', exact: true }).selectOption({ index: 1 });
         assert.ok(await page.locator('.apg-card').count() > 0);
         assert.equal(await page.evaluate(() => window.__fcAcademyRoute.module('mod-cmp-1')), true);
         await page.waitForSelector('.acad-complete-toggle input');
