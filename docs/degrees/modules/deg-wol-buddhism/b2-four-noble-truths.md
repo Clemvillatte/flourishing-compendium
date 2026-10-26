@@ -65,12 +65,15 @@ only to notice them and place them in the discourse's traditional frame.
 This is the passing mention the scope promised, and outcome 4 asks you to
 write it plainly.
 
-### Step 2 — Dukkha examined (~1 h 21 min, video, whole teaching)
+### Step 2 — Dukkha examined (~1 h 21 min, video, whole teaching, two viewing stops)
 
 **Georges Dreyfus, session 1 of a three-session Four Noble Truths series
 (Shantideva Center, 2024-04-23), 1:20:34.** Credentials: Jackson
 Professor of Religion at Williams College (verified in the Williams
 religion catalogue), former monk and scholar of Tibetan Buddhism.
+Watch in two stops (viewing stops, not content claims, since the
+page prints no chapter list): 00:00:00-00:40:17 and
+00:40:17-01:20:34.
 
 Two boundaries are marked for you before you press play. First, this
 session covers the first truth, dukkha, only; the origin of suffering

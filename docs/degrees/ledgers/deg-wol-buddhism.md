@@ -691,3 +691,12 @@ spot-checked at supervisor QC.
   replaced with a semicolon.
 Passages inspected directly after replacement; boards and ledger
 checked marker-free.
+
+## Raised-bar pass on b1/b2 (2026-10-26, worker-pplx-buddhism-1026a)
+
+The round-3-7 standards were applied retroactively to the earlier
+modules: b1's Ajahn Brahm "Buddhist Values" (54:16) and b2's Dreyfus
+session 1 (1:20:34) now carry two timestamped VIEWING STOPS each
+(HH:MM:SS, labelled as viewing stops, not content claims). The b2
+table's existing note that a finer content-based segment split is
+owed at module QC stands unchanged.

@@ -47,13 +47,17 @@ The sequence moves from worked examples (a senior teacher modelling the
 values, then the precepts named and deepened) through primary texts into your
 own practice and case work.
 
-### Step 1 — Buddhist values, modelled (~55 min, video, whole talk)
+### Step 1 — Buddhist values, modelled (~55 min, video, whole talk, two viewing stops)
 
 **Ajahn Brahm, "Buddhist Values" (Buddhist Society of Western Australia
 channel), 54:16.** Ajahn Brahm talks about the core Buddhist values of
 goodness, peace and kindness, and how these form the basis for skilful
 interaction with others and are the guiding principles to everything he does
 in life.
+
+Watch in two stops (viewing stops, not content claims, since the
+page prints no chapter list): 00:00:00-00:27:00 and
+00:27:00-00:54:16.
 
 The talk's transcript was opened for content classification: it contains no
 rebirth, kamma or cosmological doctrine; its teachings are honesty and
