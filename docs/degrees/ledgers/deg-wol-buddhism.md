@@ -773,3 +773,7 @@ production baton (read-only pass; no module files touched):
    itself, ethics-first and own-practice oriented.
 3. b2–b9 Gate review OWED (next deg-gate item); supervisor module-QC
    owed on all nine per the wave-3 allocation. No clearance granted.
+4. **b8 capstone centering check (head read, 06:36Z):** PASS —
+   ethics/sitting/one-real-life integration, value proposition as the
+   explicit measure, defended synthesis against a serious objection.
+   b2–b7, b9 Gate review still owed to the next deg-gate session.
