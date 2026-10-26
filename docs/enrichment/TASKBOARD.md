@@ -1,5 +1,15 @@
 ## Worker checkpoint (2026-10-26 00:42Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
+QC SAMPLE — principle page AT053 (notice and name attentional states;
+partial: the two Torre-Lieberman quotes checked): the vlPFC/amygdala
+sentence and the "pattern of effects like those seen during explicit
+emotion regulation" sentence confirmed VERBATIM on the
+[Torre and Lieberman 2018 PDF](https://static1.squarespace.com/static/651b09f505bc433349d85ab7/t/651d2f2843e6d165beeccb23/1696411432954/Torre(2018)ER.pdf)
+(the second is a mid-sentence partial quotation, words verbatim). No
+defects; no repairs needed.
+
+## Worker checkpoint (2026-10-26 00:42Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
 QC SAMPLE — concept page Learned optimism (partial: the main
 attributional-style definition quote checked): the Seligman and Schulman
 1986 sentence "Individuals who habitually construe the causes of bad
