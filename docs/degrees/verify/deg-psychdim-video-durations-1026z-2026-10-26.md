@@ -22,7 +22,7 @@
 | PD-M3-04 | AMsQfgV07vU | 10. Evolution, Emotion, and Reason: Evolution and Rationality (YaleCourses) | 0:59:49 | 3589 | 39:43-47:25 and 54:59-59:22 ok |
 | PD-M5-01 | piDznzrNymE | 13. Why Are People Different?: Differences (YaleCourses) | 1:05:49 | 3949 | 13:53-19:47 ok |
 | PD-M5-02 | jsrB5m3mL-A | 16. A Person in the World of People: Self and Other, Part I (first-pass title) | 0:58:15 | 3495 (first pass; second pass returned no value) | 15:56-28:41 and 40:00-50:03 ok |
-| PD-M7-03 | fuA1l7bL954 | #298 Michael Inzlicht: Self-Control, Gratification Delay, Ego-Depletion, And The Replication Crisis (first-pass title) | 1:19:48 | 4788 (first pass; second-pass fetch errored) | 49:52-58:10 ok |
+| PD-M7-03 | fuA1l7bL954 | #298 Michael Inzlicht: Self-Control, Gratification Delay, Ego-Depletion, And The Replication Crisis (first-pass title) | 1:19:48 | 4788 (first pass; later re-fetch attempts errored — watch page JS-required, embed route IP-blocked) | 49:52-58:10 ok |
 
 Notes:
 - PD-M3-03 duration variance: the page's reported `lengthSeconds` for
