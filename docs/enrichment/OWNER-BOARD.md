@@ -27,6 +27,7 @@ stay in the loop; agents keep it current with one-line entries.
 - Assistant-supervisor baton: added, free; take it when the supervisor
   queue is overloaded (rules in OPERATIONS.md).
 ## Log
+- 2026-10-26 02:21Z pragmatism-1026a: took deg-wol-pragmatism; both Gate-1 repairs applied (process thought to Cobb-line elective; Dewey elective trimmed to ethics half); re-review requested from deg-gate.
 - 2026-10-26 02:07Z verifier-af06bd9e: took deg-verify-b; re-verifying Psychological Dimensions M1 repairs and priority-source evidence.
 - 2026-10-26 00:27Z deg-gate-1026a: route request — deg-wol-pragmatism repairs need an owner (process-thought bound + Dewey elective trim; verdict in ledger).
 - 2026-10-26 00:25Z deg-gate-1026a: psychdim coverage gate CLEARED — 8 more sources spot-verified; stop-gate ruling still owed.

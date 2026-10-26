@@ -99,12 +99,34 @@ Routed unchanged: the Rorty-elective divergence stands as a recorded
 choice; the production prerequisite (pilot stop-gate, README 2026-10-25)
 remains unresolved for all degrees.
 
+## Repairs applied (2026-10-26, worker-pplx-pragmatism-1026a, deg-wol-pragmatism baton)
+
+Both Gate-1 repairs applied to the scope doc (scope/deg-wol-pragmatism.md),
+option (a) for process thought and the trim for Dewey:
+
+1. Process thought DEMOTED from the bounded-domain core and the exit
+capability ("place James, Dewey and Peirce in relation to each other" —
+process thought removed) to an ELECTIVE branch carried by the Cobb practice
+line (process ideas applied to personal life and community), capped at the
+lived-experience line; the Whitehead metaphysics register stays out of the
+walk. The Edinburgh option remains the strand's verification record, not a
+walk component.
+2. Dewey elective TRIMMED to the anchor-supported ethics half
+("Pragmatist ethics (Dewey)"); the education half is dropped — not
+anchor-verified, no learner-need case on record.
+
+The benchmark comparison paragraphs in the scope doc describe the
+pre-repair state and stand as the record; a dated repair note is appended
+there. Re-review requested from the deg-gate reviewer; the production
+prerequisite (pilot stop-gate) remains unresolved for all degrees.
+
 ## Gate decisions
 
 | gate | decision | by | date |
 |---|---|---|---|
 | Gate 1 (scope benchmark) | superseding entry: five anchors opened (three pragmatism, two process); process thought anchor-verified as a strand, its placement beside the pragmatists remains the scope's own choice; Rorty-elective divergence flagged; Gate 1 remains open, independent review required (no gate-1 assignment located in the repo instructions this session); groundwork only, no gate cleared | strategist-pplx-1025-launch-c | 2026-10-25 |
 | Gate 1 (scope, independent review) | RETURNED WITH REPAIRS — Gate 1 NOT CLEARED: all five anchors re-opened and verified; classical core and centering pass; two bounded edits owed — bound process thought to the Cobb practice line as an elective and remove it from the core exit capability, and trim the Dewey elective to its anchor-supported ethics half | worker-pplx-deg-gate-1026a (deg-gate) | 2026-10-26 |
+| Gate 1 (scope, repairs) | both bounded edits APPLIED — process thought demoted to a Cobb-practice-line elective capped at lived experience and removed from the core exit capability; Dewey elective trimmed to the ethics half; re-review requested from deg-gate | worker-pplx-pragmatism-1026a (deg-wol-pragmatism) | 2026-10-26 |
 
 ## Raw material verification status (recorded by deg-gate, 2026-10-26)
 
@@ -113,5 +135,6 @@ Pragmatism and Process, plus its 3 attachments) carries verification
 evidence: [deg-philosophy verify file](../../verify/deg-philosophy.md)
 (Block A, verified 2026-10-25 by deg-verify-a — every source opened
 in-session with credentials checked on biography/institutional pages).
-The scope repairs (process-thought bound; Dewey-elective trim) are still
-owed by a production owner before module work starts.
+The scope repairs (process-thought bound; Dewey-elective trim) were applied
+2026-10-26 by worker-pplx-pragmatism-1026a (see "Repairs applied" above);
+re-review by the deg-gate reviewer is requested before module work starts.

@@ -3,7 +3,11 @@
 WALK OF LIFE series (owner directive, 2026-10-25). Status: PROPOSAL by the
 strategist, mapped onto existing module material. Benchmark groundwork
 done 2026-10-25 (see the benchmark section below and the degree ledger);
-Gate 1 remains open; independent review required.
+Gate-1 independent review delivered 2026-10-26 (verdict: returned with
+two bounded repairs); BOTH REPAIRS APPLIED 2026-10-26 by
+worker-pplx-pragmatism-1026a (deg-wol-pragmatism baton) — see the repair
+note at the end of the benchmark section. Re-review by the deg-gate
+reviewer requested.
 
 ## Intended learner
 
@@ -17,21 +21,28 @@ A learner walking the pragmatist path: truth as what works in experience, ideas 
 
 - Can explain the core pragmatist idea (beliefs as instruments tested in experience) and its consequences for living.
 - Can apply the pragmatist method to beliefs and habits: what difference would this make in practice.
-- Can place James, Dewey and Peirce (and process thought) in relation to each other.
+- Can place James, Dewey and Peirce in relation to each other.
 
 ## Bounded domain
 
 Covers:
 - Peirce, James and Dewey as the classical core.
 - Pragmatism as a lived method of belief and habit revision.
-- Process thought and contemporary pragmatist currents.
+- Contemporary pragmatist currents (neopragmatism held as an elective; see below).
 
 Excludes (with reasons):
 - Analytic philosophy of language beyond the pragmatic maxim.
 - Existentialism (its own walk); Greek virtue ethics (its own walk).
+- Process thought as core material: not taught at any of the three pragmatism
+  anchors; held as an elective at the lived-experience line only (see electives).
 
 Elective branches:
-- Pragmatist ethics and education (Dewey); neopragmatism (Rorty) as an elective.
+- Pragmatist ethics (Dewey) — ethics half only; the education half is trimmed
+  (not anchor-verified, no learner-need case on record).
+- Neopragmatism (Rorty).
+- Process thought (Cobb practice line): process ideas applied to personal life
+  and community, capped at the lived-experience line; the Whitehead metaphysics
+  register stays out of this walk.
 
 ## Raw material available (measured 2026-10-25)
 
@@ -55,6 +66,17 @@ Comparison:
 - Exclusions: the scope excludes analytic philosophy of language beyond the pragmatic maxim; the anchors' later weeks (Putnam, Price, Brandom at Duke) lean that way, so the exclusion trims anchor tail material only. Existentialism and Greek virtue ethics exclusions are untouched by these anchors.
 
 Strategist's note (non-binding): the classical core and the lived-method framing are anchor-solid. Process thought is now anchor-verified as a strand (Edinburgh Whitehead option; Cobb practice syllabus), with its placement beside the pragmatists remaining the scope's own choice. Rorty is core at the anchors but elective in the scope.
+
+REPAIR NOTE (2026-10-26, worker-pplx-pragmatism-1026a, deg-wol-pragmatism
+baton): both Gate-1 repairs applied per the deg-gate reviewer's verdict
+(ledger, Gate-1 independent review): (1) process thought DEMOTED from the
+bounded-domain core and the exit capability to an ELECTIVE branch carried
+by the Cobb practice line, capped at the lived-experience application —
+the option (a) remedy; the comparison paragraphs above describe the
+pre-repair state and stand as the benchmark record. (2) the Dewey elective
+TRIMMED to its anchor-supported ethics half; the education half is dropped
+(no opened source carries a learner-need case for it in a pragmatist walk).
+Re-review requested from the deg-gate reviewer.
 
 ## Owner items
 

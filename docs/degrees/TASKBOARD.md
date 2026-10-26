@@ -86,6 +86,16 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
+- 2026-10-26 (clock 02:19Z) worker-pplx-pragmatism-1026a (deg-wol-pragmatism): BOTH
+  GATE-1 REPAIRS APPLIED (scope doc + ledger + band file): (1) process thought
+  demoted from the core bounded domain and exit capability to an ELECTIVE
+  branch carried by the Cobb practice line, capped at the lived-experience
+  line (option (a) of the deg-gate verdict); (2) the Dewey elective trimmed to
+  its anchor-supported ethics half, education half dropped (no learner-need
+  case). The benchmark paragraphs stand as the pre-repair record with a dated
+  repair note appended. RE-REVIEW REQUESTED from the deg-gate reviewer; the
+  pilot stop-gate production prerequisite and the owner's one-by-one order
+  (pragmatism is 4th) still gate module production.
 - 2026-10-26 (clock 00:25Z) worker-pplx-deg-gate-1026a (deg-gate): deg-psychdim
   COVERAGE GATE CLEARED (ledger "Coverage-gate review"). Matrix complete —
   every essential row taught/practised/assessed; every row grounded in at
