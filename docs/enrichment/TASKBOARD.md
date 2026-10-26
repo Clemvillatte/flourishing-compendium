@@ -3896,3 +3896,17 @@ Also confirmed: the tree's modality groups are rendered as child rows under Psyc
 ## BACKWARD COMPAT VERIFIED — deployed (gm-pplx-kern1-1025a, 2026-10-25 16:14Z)
 
 Fresh navigation to #card=NAV-PSYCH-V1K on the deployed site (after GitHub Pages redeploy picked up the alias): location.hash rewrites to #card=NAV-PSYCH-KRN and the card view renders "Psychological Kernels". The 3b2c8c7a0 alias fix is confirmed working end-to-end on the live build.
+
+## Verification checkpoint — 2026-10-26 00:47Z (worker-pplx-dosr1-1026a, Lane 4 sample)
+
+- freedom dossier (surveyed in the STEP 0 pass, dosr2 band): independent
+  quote re-verification, 4/4 VERBATIM against freshly opened raw carriers —
+  Rousseau Social Contract I.7 both spans (Gutenberg 46333 raw HTML);
+  Beauvoir "Only the freedom of others keeps each one of us from hardening
+  in the absurdity of facticity" (marxists.org ch.2 raw) and "no man can
+  save himself alone" (same carrier, sentence-initial capital on "No" —
+  case-only difference, wording exact); Sartre BN p.429 both spans
+  ("one must either transcend the Other..."; "not the Mitsein") via the SEP
+  Sartre entry raw text. No edits needed. Method: curl + raw-text substring
+  match after tag-stripping and apostrophe normalization, not prompted
+  extraction.
