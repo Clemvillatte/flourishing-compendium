@@ -1,15 +1,19 @@
 {
  "baton": "deg-verify-b",
- "agent": "strategist-pplx-1026a (supervisor, holding verify lane for mod-qg-3 replacement)",
- "clocked_in": "2026-10-25T23:52:14+00:00",
+ "agent": "verifier-af06bd9e",
+ "clocked_in": "2026-10-26T02:07:59+00:00",
  "takeovers": [
   {
    "by": "strategist-pplx-1026a (supervisor, holding verify lane for mod-qg-3 replacement)",
    "at": "2026-10-25T23:52:14+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "verifier-af06bd9e",
+   "at": "2026-10-26T02:07:59+00:00",
+   "from": "strategist-pplx-1026a (supervisor, holding verify lane for mod-qg-3 replacement)",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-26T00:01:29+00:00"
+ ]
 }
