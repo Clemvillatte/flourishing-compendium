@@ -2,7 +2,7 @@
  "degree_id": "deg-psychdim",
  "built": "2026-10-26",
  "built_by": "strategist-pplx-1026a (baton degrees-strategist)",
- "status": "Verified draft — all video windows transcribed from the module docs and cross-checked; m1/m2/m3/m4/m5/m6 reading assignments verified against the docs (m2's Barrett-2025/Martinez-Priego/Gross-1998 and m7's remaining paper spans and m8's capstone roles still carry explicit verify flags for the deg-fix-content agent; the data-block extras — Bazerman, Alarcon, Posner-2023, Fan-ANT — and the role mismatches are recorded).",
+ "status": "Verified 2026-10-26 (deg-fix-content, worker-pplx-degfixcontent-1026a): all video windows and all reading assignments verified against the module docs; every earlier verify flag is resolved in the entries (m2's three papers, m4's Posner-2019/Lippelt/Posner-2023/Fan-ANT, m7's four paper spans and Alarcon-Espinoza, m8's capstone roles). Corrections of this manifest's own earlier entries: PD-M4-05, PD-M4-07 and PD-M7-09 were marked 'NOT found' by accent-blind greps - all three ARE assigned in their module docs and are NOT data-block extras. Remaining genuine data-block extras, confirmed: PD-M3-07 (Bazerman Noba - remove from mod-pd-3 required) and PD-M1-07 in m8 (no m8 prose cite - recommend removal from mod-pd-8 required; keep in m6 where assigned). The PD-M7-10 'Heidbreder' mislabel and the PD-M3-03/M3-04 window errors are already recorded in their entries for the schema/text lanes. Draft status removed - this manifest is ready for Phase A consumption.",
  "provenance": "Per docs/degrees/AUDIT-2026-10-26.md phase 0. The learner-audit gate diffs this manifest against the integrated data block.",
  "modules": {
   "mod-pd-1": [
@@ -82,20 +82,20 @@
    },
    {
     "source_id": "PD-M2-05",
-    "role": "unverified-assignment",
-    "assignment": "Barrett et al. 2025 - ledger-verified source (PD-V06 sidebar paragraph selected) but NO assignment statement found in the m2 module doc; verify against the m8 capstone doc or demote from mod-pd-2 required",
+    "role": "teach",
+    "assignment": "Barrett and colleagues, 2025 - VERIFIED m2 doc assignment (Read section): read the Abstract and the single paragraph under 'A brain regulates and coordinates the systems of its body'; tables and remaining neuroscience discussion not assigned [PMC12164598]",
     "kind": "reading"
    },
    {
     "source_id": "PD-M2-06",
-    "role": "unverified-assignment",
-    "assignment": "Martinez-Priego et al. 2024 - ledger-verified source (re-opened, intro/discussion/conclusion) but NO assignment statement found in the m2 module doc (the m2 matrix row rests on it); verify against m8 or demote",
+    "role": "teach",
+    "assignment": "Martinez-Priego et al. 2024 - VERIFIED m2 doc assignment (Read section): in the Introduction the two paragraphs from 'Over the years, different models of ER' to 'ER goals are not static.'; the first paragraph under 'Theoretical framework' (ending with emotion's phylogenesis); the first limitations paragraph in the Conclusion from 'While this review fulfills' to 'across different contexts' [PMC11479914]",
     "kind": "reading"
    },
    {
     "source_id": "PD-M2-07",
-    "role": "unverified-assignment",
-    "assignment": "Gross 1998 - no assignment statement found in the m2 module doc; verify or demote",
+    "role": "teach",
+    "assignment": "Gross 1998, The Emerging Field of Emotion Regulation - VERIFIED m2 doc basis: the doc's 'assigned process model' - the learner checks the five-family distinctions against it (m2 'Find a point of choice' and the Regulation rubric both link it); no printed span - support reference for the process model, not a whole-paper assignment",
     "kind": "reading"
    }
   ],
@@ -139,7 +139,7 @@
    {
     "source_id": "PD-M3-07",
     "role": "data-block-extra",
-    "assignment": "Bazerman, Judgment and Decision Making (Noba) - NOT found in the m3 module doc (grep count 0); no assignment basis. Data-block extra: remove or find its assignment basis.",
+    "assignment": "Bazerman, Judgment and Decision Making (Noba) - CONFIRMED data-block extra (deg-fix-content 2026-10-26): no Bazerman assignment in any psychdim module doc (checked all eight; the m3 doc's Noba links are conditioning-and-learning and memory-encoding-storage-retrieval only). Remove from the mod-pd-3 required list in the data block, or route an owner decision if a judgment reading is wanted",
     "kind": "reading"
    },
    {
@@ -177,25 +177,25 @@
    {
     "source_id": "PD-M4-04",
     "role": "teach",
-    "assignment": "Posner, Rothbart and Ghassemzadeh 2019 - present in m4 doc (1 hit); verify exact span",
+    "assignment": "Posner, Rothbart and Ghassemzadeh 2019 - VERIFIED m4 doc assignment: Table 1 as a reference; then Table 2 with its caption; then the first paragraph under 'Attentional Pathologies' [PMC6430178]",
     "kind": "reading"
    },
    {
     "source_id": "PD-M4-05",
-    "role": "data-block-extra",
-    "assignment": "Posner 2023, evolution and future of attention networks - NOT found in the m4 module doc or any psychdim module doc; no id-record found in a direct ledger grep. Verify ledger by name; if unassigned, remove.",
+    "role": "teach",
+    "assignment": "Posner 2023, evolution and future of attention networks - VERIFIED m4 doc assignment: section 4 'Interaction of Networks,' first paragraph only, through 'largely different functions' [PMC10301152]. CORRECTION of this manifest's earlier entry: the source IS assigned in the m4 doc ('Posner, 2023' in the Read section) - the earlier 'NOT found' was a grep miss; NOT a data-block extra",
     "kind": "reading"
    },
    {
     "source_id": "PD-M4-06",
     "role": "teach",
-    "assignment": "Lippelt, Hommel and Colzato 2014 - present in m4 doc (2 hits); verify exact span",
+    "assignment": "Lippelt, Hommel and Colzato 2014 - VERIFIED m4 doc assignment: the Abstract; then the single Introduction paragraph from 'Even though numerous studies' through 'attentional control, conflict monitoring, and creativity'; later brain-region claims not assigned [PMC4171985]",
     "kind": "reading"
    },
    {
     "source_id": "PD-M4-07",
-    "role": "data-block-extra",
-    "assignment": "Fan et al., Attention Network Test - NOT found in the m4 or m8 module docs (0 hits) though listed as required in both; no id-record in a direct ledger grep. Verify ledger by name; if unassigned, remove from both modules.",
+    "role": "teach",
+    "assignment": "Fan and colleagues 2002, Attention Network Test - VERIFIED m4 doc assignment: journal pages 342-343, the three complete Results paragraphs beginning 'The alerting effect was calculated,' 'The orienting effect was calculated' and 'The conflict (executive control) effect was calculated'; skip intervening tables/figure, stop before 'Correlation Analyses' (university-hosted PDF). CORRECTION of this manifest's earlier entry: the source IS assigned in the m4 doc ('Fan and colleagues, 2002') - the earlier 'NOT found' was a grep miss; NOT a data-block extra",
     "kind": "reading"
    }
   ],
@@ -320,32 +320,32 @@
    },
    {
     "source_id": "PD-M7-09",
-    "role": "data-block-extra",
-    "assignment": "Alarcon-Espinoza et al. 2022 - NOT found in the m7 module doc or any psychdim module doc (grep count 0 across modules); no assignment basis found. Data-block extra: remove or find its assignment basis (ledger records it as opened).",
+    "role": "teach",
+    "assignment": "Alarcon-Espinoza et al. 2022 - VERIFIED m7 doc assignment: Abstract and Methods' inclusion criterion (d) only, to compare natural-context measurement with its explicit under-18 population [PMC9171140]. CORRECTION of this manifest's earlier entry: the source IS assigned in the m7 doc ('Alarcon-Espinoza and colleagues, 2022' with accents) - the earlier 'grep count 0' was an accent miss; NOT a data-block extra",
     "kind": "reading"
    },
    {
     "source_id": "PD-M7-04",
     "role": "teach",
-    "assignment": "PD-M7-04 paper - present in m7 doc (grep hit); verify exact assigned span",
+    "assignment": "Carden and Wood 2018 - VERIFIED m7 doc assignment: the opening three paragraphs beginning 'Habits form as people pursue goals'; under 'Habits and effortless self-control' the two paragraphs beginning 'This shift' and 'High trait self-control'; the first paragraph under 'Changing environments, changing habits' (author-hosted PDF)",
     "kind": "reading"
    },
    {
     "source_id": "PD-M7-05",
     "role": "teach",
-    "assignment": "PD-M7-05 paper - present in m7 doc (grep hit); verify exact assigned span",
+    "assignment": "Singh et al. 2024 - VERIFIED m7 doc assignment: Abstract only, for the evidence base, variability and the pre/post outcome distinction [PMC11641623]",
     "kind": "reading"
    },
    {
     "source_id": "PD-M7-06",
     "role": "teach",
-    "assignment": "PD-M7-06 paper - present in m7 doc (grep hit); verify exact assigned span",
+    "assignment": "Werner and Berkman 2024 - VERIFIED m7 doc assignment: the four paragraphs from 'Exactly how and when does motivation influence self-control?' through the monitoring explanation, stopping before the next heading [PMC11423838]",
     "kind": "reading"
    },
    {
     "source_id": "PD-M7-07",
     "role": "teach",
-    "assignment": "PD-M7-07 paper - present in m7 doc (grep hit); verify exact assigned span",
+    "assignment": "Reed et al. 2020 - VERIFIED m7 doc assignment: Abstract and 'Participants' only, distinguishing measurement families and the selected older-adult population [PMC7250393]",
     "kind": "reading"
    }
   ],
@@ -378,7 +378,7 @@
    {
     "source_id": "PD-M1-07",
     "role": "capstone-return",
-    "assignment": "Woolley et al. 2025 - capstone-return per data block; no m8 prose cite found (m8 doc: \"No new reading or video is required. Retrieve and reuse...\")"
+    "assignment": "Woolley et al. 2025 - NOT cited in m8 prose (checked; the m8 doc's named references are the emotion-goal review, the SCC review and the ANT paper). Assigned in m6 (Abstract; one paragraph) - keep there. No doc basis for the m8 required listing: RECOMMEND removal from mod-pd-8 required in the data block (Phase A/C)"
    },
    {
     "source_id": "PD-M7-04",
@@ -388,8 +388,9 @@
    {
     "source_id": "PD-M4-07",
     "role": "capstone-return",
-    "assignment": "Fan et al. ANT paper - capstone re-read (verify role against m8 doc)"
+    "assignment": "Fan et al. ANT paper - VERIFIED m8 prose cite: 'the original ANT paper defines laboratory contrasts rather than everyday diagnostic tests' with the ANT definitions link; capstone-return role confirmed"
    }
   ]
- }
+ },
+ "verified_by": "2026-10-26 worker-pplx-degfixcontent-1026a (baton deg-fix-content)"
 }
