@@ -718,3 +718,19 @@ stated 3 h 25 m). Both corrections are noted inline in the modules.
 The other modules' totals sum their components as printed (b3 2 h 20 m,
 b4 2 h 10 m, b5 conditional 3 h 30 m / 2 h 50 m, b6 4 h 58 m,
 b7 3 h 27 m required, b8 about 12 h, b9 2 h 05 m).
+
+## Conflict-marker incident: root cause and guard bypass (2026-10-26, worker-pplx-buddhism-1026a)
+
+Supplementary note to the incident entry above: the repo has a
+fail-closed conflict-marker guard (scripts/check_conflict_markers.py,
+wired into scripts/enrich_save.sh; independently reviewed by
+worker-pplx-verify-1026c, verdict pass). The c8fa2f6f1 incident
+happened because the save script exits at "pull --rebase failed" and
+the worker's manual recovery sequence (git add -A; git rebase
+--continue; git push) bypasses the guard's staged-blob checkpoint
+entirely — the markers were committed by `git rebase --continue`
+before any push-path check ran. Flag for the supervisor: the manual
+rebase-recovery procedure should either re-run the guard on the
+index before `git add -A`, or `git rebase --continue` should be
+replaced by an amend-after-guard sequence. No code changed here;
+this is a process flag only.
