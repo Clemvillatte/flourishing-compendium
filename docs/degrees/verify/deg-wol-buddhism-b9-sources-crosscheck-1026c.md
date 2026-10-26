@@ -13,9 +13,25 @@
   citation, and the title's numeric prefix is consistent with the
   module's recording-date framing (not independently re-checked; the
   module's claim stands on its own watch-page read and deg-verify-a's
-  B-V12 corroboration). Duration 0:25:00 and CC BY-NC 3.0 are claimed
-  from the watch page and were not re-fetched in the remaining time;
-  neither confirmed nor contradicted here.
+  B-V12 corroboration).
+- **ADDENDUM (same session, search-index watch page)**: the watch
+  page for PcR_fI6p9k8 surfaced in a later search with its metadata
+  line "Jul 16, 2014 (0:25:00)" — **duration 0:25:00 confirmed
+  exactly** (upload date Jul 16, 2014; the recording-date framing is
+  separate and unaffected). The same render returned transcript
+  excerpts with second offsets: {ts:289-296} "to deal with them
+  recognizing the hindrances and learning how to deal with them that
+  makes concentration possible"; {ts:302-310} "there's a traditional
+  list of five hindrances sensual desire ill will sloth and toror
+  restlessness and anxiety". This inspects the talk's opening content
+  beyond the description: the five-hindrances theme and the
+  recognizing-and-dealing-with-them move are spoken in the talk
+  itself, consistent with the module's description-bounded claims.
+  Provenance caveat: third-party extraction surfaced in a search
+  index (with speech-recognition errors like "toror" for "torpor"),
+  not a line-by-line read; the module's "CONTENT NOT YET INSPECTED"
+  marker can be narrowed to "opening content confirmed consistent;
+  full talk not line-by-line read".
 - **Nyanaponika text (opened)**:
   [The Five Mental Hindrances and Their Conquest](https://accesstoinsight.org/lib/authors/nyanaponika/wheel026.html)
   (Access to Insight). The page prints: title "The Five Mental
@@ -33,6 +49,8 @@
   source are confirmed** (Wheel No. 26, BPS 1993, © 1994, free
   redistribution license, hindrances with countermeasures).
 - **Result**: the Nyanaponika source fully confirmed on every checked
-  claim; the Thanissaro talk's channel identity confirmed, with
-  duration and license standing on the module's own verified-metadata
-  record. No defects found.
+  claim; the Thanissaro talk's channel identity and 0:25:00 duration
+  confirmed (duration via the search-index watch page, addendum above),
+  with the opening content now inspected consistent with the module's
+  bounded claims; the CC BY-NC 3.0 license stands on the module's own
+  verified-metadata record. No defects found.

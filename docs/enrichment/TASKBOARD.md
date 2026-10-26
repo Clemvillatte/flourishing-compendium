@@ -6367,3 +6367,5 @@ same pass; see its RETRACTION note.)
   [T+43:12] verify lane (no baton): buddhism b3 plum-village URL repair re-check -- corrected URL confirmed as the free text page (2022 revision + Five Precepts grounding verbatim); repair landed correctly. Receipt: docs/degrees/verify/deg-wol-buddhism-b3-plumvillage-url-recheck-1026c.md
 
   [T+43:43] verify lane (no baton): buddhism b9 sources cross-check -- Nyanaponika Wheel 26 page fully confirmed (license verbatim, 5 hindrances with countermeasures); Thanissaro channel identity confirmed, duration/license stand on module record. Receipt: docs/degrees/verify/deg-wol-buddhism-b9-sources-crosscheck-1026c.md
+
+  [T+44:10] verify lane (no baton): b9 Thanissaro addendum -- duration 0:25:00 confirmed via search-index watch page; transcript excerpts inspect opening content (five hindrances, recognizing them) consistent with module claims. Receipt updated: docs/degrees/verify/deg-wol-buddhism-b9-sources-crosscheck-1026c.md
