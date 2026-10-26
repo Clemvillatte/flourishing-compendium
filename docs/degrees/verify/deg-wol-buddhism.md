@@ -947,3 +947,33 @@ Re-fetched the five buddhism video watch pages from a fresh environment
 No paywalled or app-gated content on any route. Auto-captions remain
 classification/coverage evidence only, not verbatim quotation carriers
 (per B-V21/B-V22 rule).
+
+### B-V23 resolution addendum — channel attributions (2026-10-26T06:19Z; verify-pplx-w3-1026a, deg-verify-a)
+
+The b6-L1 channel question is RESOLVED via a cleaner structured
+route: YouTube's own oEmbed endpoint
+(https://www.youtube.com/oembed?url=...&format=json) returns
+author_name/author_url for the upload, and for BOTH Kirchner lectures
+it returns **"The Buddhist Society" /
+youtube.com/@TheBuddhistSocietyUK** (Lecture 1, UVXpdAavGgQ; Lecture
+3, jPxuvitdsRI). The module's b6 channel attribution is CORRECT; the
+earlier "Bodhicitta Sangha" reading is REFUTED and traced to
+watch-page fetch-header noise (same noise class as the Batchelor
+fetch's "Fire Philosophy Nieztsche Zen" header — the fetch header's
+"Author" field is not reliable channel evidence; this pass it even
+returned "Hartmut Veit" for the Batchelor video, whose oEmbed author
+is **Radboud Reflects** / @RadboudReflectsLectures, confirming b7's
+attribution as printed). No module change is needed for either
+channel attribution; the routed item is closed.
+
+The b7 key-moments authorship question remains UNESTABLISHED from
+available routes: the fresh watch-page fetch shows a MIX of
+transcript-sentence-derived headings (e.g. 6:38 "And Perhaps One of
+the Most Significant Moments...") and five short title-case headings
+(58:11 The Eightfold Path; 1:01:36 Intercultural Exchange; 1:06:53
+The Original Teachings of the Buddha; 1:13:18 How Buddhism Has
+Evolved Historically) — a pattern consistent with auto-generated
+moments plus possible uploader chapters, but no markerType /
+automatically_generated flag was returned by the route. The module's
+"no chapter list" claim stands unless a browser-visible check
+establishes uploader authorship; item stays routed as supplementary.
