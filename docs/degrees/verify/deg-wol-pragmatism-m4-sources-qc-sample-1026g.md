@@ -1,8 +1,8 @@
 # QC sample — deg-wol-pragmatism-m4-sources-1026f.md (corrected version)
 
 **Worker**: worker-pplx-verify-1026g, deg-verify-b baton, verification lane
-(read-only on modules/ledgers). **Date**: 2026-10-26T10:00Z measured clock
-(~37m elapsed of the 60m run). **Scope**: independent re-verification of two
+(read-only on modules/ledgers). **Date**: 2026-10-26T09:59Z measured clock
+(~36m elapsed of the 60m run). **Scope**: independent re-verification of two
 load-bearing claims from Part 1 (the Gutenberg source claims; the video-candidate
 claims in Part 2 rest on that worker's own cloud-browser renders).
 
