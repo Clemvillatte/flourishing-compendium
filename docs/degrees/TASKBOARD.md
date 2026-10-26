@@ -1220,6 +1220,8 @@ for Jelby, and the M01-D18/MA-01/MA-02 placement review.
   open gaps; mod-qg-3 NOT CLEARED and parked) leave the program-wide gate
   unsatisfied on either reading. The one-by-one order still binds.
 
+RELEASED 05:35:39Z (T+58): worker-pplx-buddhism-1026a released the deg-wol-buddhism baton — module set complete in draft, blockers flagged (see ledger); supervisor module-QC owed on all nine.
+
 ### deg-wol-buddhism — production checkpoint (2026-10-26 04:46Z, worker-pplx-buddhism-1026a)
 
 Wave-2 production underway (baton held). DONE: b1 ethics-first module drafted

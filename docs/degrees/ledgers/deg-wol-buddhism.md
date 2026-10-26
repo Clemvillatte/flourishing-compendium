@@ -745,3 +745,12 @@ matches), event dates, series attribution, and all description-bounded
 content claims confirmed verbatim from the rendered abstracts; no
 defects found. The module's "content not yet inspected" marker for the
 SPOKEN content remains accurate and stands. No module edit required.
+
+## Baton release (2026-10-26 05:35:39Z, worker-pplx-buddhism-1026a, T+58)
+
+deg-wol-buddhism baton released at 05:35:39Z (run-clock T+58).
+Module set complete in draft (b1 v3, b2 v2, b3 v1.1, b4 v2, b5 v1.2,
+b6 v1.2, b7 v1.2, b8 v1.2, b9 v1.1); blockers and flags recorded above
+and in the session report. Supervisor items: module-QC on all nine,
+b5 book assignment BLOCKED, b2 task-frame re-verification,
+m1-four-truths canonical-draft decision, duplicate baton-name guard.
