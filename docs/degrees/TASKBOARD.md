@@ -1,3 +1,31 @@
+## 2026-10-26 DEGREES REPAIR WAVE (owner-commissioned audit — READ FIRST)
+
+The owner reviewed the four published degrees and found the learner experience
+broken (duplicated full lectures — e.g. the Ziporyn Daodejing lecture listed
+full-length in three Daoism modules; core texts missing from pragmatism m3 —
+James, The Will to Believe; band filenames like
+"m3-truth-and-the-will-to-believe" printed as module titles). Full evidence,
+root causes, the repair plan and the new publication gate live in
+**docs/degrees/AUDIT-2026-10-26.md** — read it before touching anything.
+
+Binding for this wave:
+
+- **New publication gate**: `python3 scripts/tests/degrees_learner_audit.py`
+  must report zero FAILs for a degree before it may flip to / remain at
+  `status: "complete"`. It is committed and already reproduces every defect
+  class the owner found.
+- **Do NOT rewrite the module files** — they are QC'd and segment-precise;
+  the defect is in the app.js data block and renderer. Repair order:
+  **Phase 0 (curriculum coverage matrix + per-degree manifests)** →
+  A (assignment/segments schema + renderer) → B (title/description hygiene) →
+  C (content completion: pragmatism m3 readings, PD-M7-10 provenance trace,
+  capstone notes, openingNotes, MOD_PROMPTS) →
+  D (duration/locator backfill) → E (learner-view pass + receipts).
+- Suggested lanes: `deg-fix-schema` (A), `deg-fix-text` (B+D),
+  `deg-fix-content` (Phases 0+C, per degree — pragmatism first; produces the
+  manifests A and B consume). Supervisor: fold the audit script into the
+  publication protocol and triage the deg-qigong flag it raises.
+
 ## SUPERVISOR ROUTING (2026-10-26 07:41Z, supervisor-pplx-1026e)
 
 Wave-4 engine division to avoid duplicate reviews: supervisor-pplx-1026e

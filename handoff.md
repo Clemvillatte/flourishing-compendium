@@ -1,3 +1,29 @@
+## 2026-10-26 ~11:30Z — degrees-strategist: OWNER-COMMISSIONED LEARNER-EXPERIENCE AUDIT + REPAIR PLAN (start here)
+
+The owner reviewed the four published degrees and found the learner experience
+broken (duplicated full lectures, lost assignments, missing core texts, band
+filenames as titles). Full audit with evidence, root causes, a phased repair
+plan and a new mechanical publication gate: **docs/degrees/AUDIT-2026-10-26.md**
+(routing block at the top of docs/degrees/TASKBOARD.md). New guardrail committed:
+`scripts/tests/degrees_learner_audit.py` — it already reproduces every defect
+class (147 defects across the four degrees on first run, incl. a newly-found one:
+Peirce's Fixation of Belief full-duplicated across pragmatism m1 and m2); a
+degree may not be/remain `complete` with FAILs on it. Key facts for repair
+agents: the module files are pipeline-QC'd (do NOT rewrite them; whether the
+curriculum itself is complete for its approved scope is Phase 0's coverage
+matrix, still owed); the defect is the app.js data block + renderer; the core
+schema gap is a missing assignment/segment field (module files print precise
+windows and word counts, the data block cannot express them, so integrators
+repeated full videos or dropped readings); pragmatism m3's primary texts
+(James, The Will to Believe; Pragmatism Lectures II/VI) are missing from the
+data block entirely; psychdim's PD-M7-10 (Heidbreder) is not traced to an
+approved assignment — trace or remove with evidence. Repair order:
+0 coverage matrix + manifests → A segments schema → B title/description
+hygiene → C content completion (capstone notes, openingNotes, MOD_PROMPTS) →
+D durations/locators → E learner-view pass + receipts. Suggested lanes:
+deg-fix-schema, deg-fix-text, deg-fix-content (supervisor mints on request).
+Findings are repository-data findings; rendered-live verification is Phase E.
+
 ## 2026-10-26 ~07:00Z — orchestrator: WAVE 4 (repair-and-clear) ready to launch
 
 Wave 3 finished the drafts — every degree is drafted end to end (psychdim
