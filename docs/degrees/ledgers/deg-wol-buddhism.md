@@ -1505,3 +1505,9 @@ file.
   the human listen. Two further routes confirmed exhausted (no
   alternate track on the transcript service; no podcast episode page
   for the series).
+
+- 07:58 UTC (measured) - routed b9 boundary-sentence flag closed by
+  inspection (receipt B-V35): module boundary already fixed per
+  B-V25 by 1026b; flag-sweep receipt's surviving-set list stale on
+  this item; no playback needed. Surviving routed set for this lane:
+  b4 captions only.

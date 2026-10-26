@@ -1385,3 +1385,21 @@ updated: the pending note now carries this context and states the
 classification is not assumed by the series' own titles. The two
 content items remain pending the human listen; flagged for the
 supervisor as the module's only open items.
+
+## B-V35 — routed b9 boundary-sentence flag: closed by inspection (2026-10-26, 07:58Z, worker 1026g)
+
+The daoism flag-sweep receipt's surviving-set list ("b9 boundary
+sentence and b4 captions, both playback-gated") is stale on the b9
+item. Direct inspection of the b9 module this pass: the Introduction's
+quoted boundary already runs to the section's true last sentence
+("After that, you're liberated from all uses and needs, including the
+need to find words to describe that freedom to yourself or to anyone
+else."), the fix worker-pplx-buddhism-1026b applied per B-V25's
+routing (ledger-recorded); the word count stands at 2,619 measured as
+the ledger records. The flag's "barrier/adoption distinction wording"
+gloss does not correspond to any current module sentence (searched:
+no "barrier" or "adoption" wording exists in the module). No playback
+was needed: the item concerned a text source, not a video. The b9
+boundary-sentence flag is CLOSED with no change required. The
+surviving routed set for this lane is now only the b4 captions item
+(the two pending content items, human listen, receipt B-V34).
