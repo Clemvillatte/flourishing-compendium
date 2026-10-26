@@ -35,3 +35,7 @@ Every printed sum was recomputed. No errors found; where a module prints "about"
 | Daoism M1 to M5 | 230, 149, 155, 168, 208 minutes; M1 video 13:22+21:53+21:34 = 56:49; M3 reading 2x413+2x217+67 = 1,327; M4 Neiye 170+135+103+142 = 550; M5 154+54+113+145 = 466 | all match |
 
 Not re-checked here: Buddhism B8 (all components are given as ranges of hours) and the teaching-prose word counts that feed the "module-prose reading" lines.
+
+## Segment bounds check (all four assignments files)
+
+All 48 timed segments in the four docs/degrees/integration/deg-*-assignments.json files were checked against the video durations carried in the live registry in site/assets/app.js: every segment starts before it ends, and every end time falls inside the stated video duration. 0 out-of-range segments, 0 segments without a duration. Durations themselves were verified in the earlier 40-video sweep; three could not be re-read this session (PD-M4-01, BUD-B1-02, M06-AF07) because the video host blocks automated page reads, so they remain on the earlier receipts.
