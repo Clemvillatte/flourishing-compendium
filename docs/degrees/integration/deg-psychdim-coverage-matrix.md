@@ -115,3 +115,7 @@ basis, no printed span). RETRACTION 2026-10-26: an earlier version of this
 closure note wrongly flagged PD-M3-03 as having an empty published locator
 - the published entry carries the verified window in its segments structure
 (13:22-18:27), which is correct; the flag is withdrawn.
+
+## Addendum (2026-10-26, later same session)
+
+A sixth deep trace was added for m8 (docs/degrees/verify/deg-psychdim-m8-deep-trace-1026a.md): PASS — the published 7-entry capstone-return set is doc-consistent, and the Woolley/Vohs removals are documented as the conservative resolution. With m2, m7 and m8 traced, the psychdim verdict's deep-trace reservation now covers the remaining capabilities (m1, m4, m5, m6) — the machine audit remains green across all eight.
