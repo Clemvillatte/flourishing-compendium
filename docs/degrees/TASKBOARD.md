@@ -2402,3 +2402,24 @@ limited", with meta-analysis and integrative data analysis proposed to
 synthesise small-to-moderate effects. Caveat: this video contains two
 talks; the PPI talk is the first, so the owning band should note the
 talk boundary when checking the recording.
+
+Second addendum to the positive-psychology gap note: a transcript read
+of the Van Zyl presentation (https://youtubetotranscript.com/transcript?v=5X4nvPlGc7c)
+confirms its fit for the criticisms-of-the-field gap. It organises the
+critiques into six broad categories drawn from a systematic review
+said to contain 117 specific criticisms: pseudoscience and weak
+replication (confirmation bias, overstatement of evidence), the
+falsified Losada ratio (2.95 positive experiences per negative),
+overclaiming (small correlations turned into sweeping claims about
+cancer risk or longevity, and interventions such as gratitude visits
+that can increase distress for some people), poorly defined theory,
+measurement and methodology problems, and decontextualised or
+neoliberal assumptions and commercialisation. The treatment is fair
+rather than a blanket endorsement: the presenter accepts some
+criticisms are valid ("there are elements here that are true", "we do
+sometimes make false claims about the benefits") while cautioning that
+not all apply uniquely to positive psychology. Content classification:
+criticisms-of-the-field, direct. The transcript has no timestamps.
+The remaining gap on this candidate is the credentials check (none
+stated on the watch page; the owning band must establish them from an
+institutional page).
