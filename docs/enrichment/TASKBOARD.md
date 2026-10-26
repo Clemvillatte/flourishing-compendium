@@ -6357,3 +6357,5 @@ same pass; see its RETRACTION note.)
   [T+40:46] verify lane (no baton): m5 Diener/Lucas Noba reading-boundary re-verification -- start paragraph and last three Person-Situation paragraphs confirmed (section full title slightly longer than module shorthand, noted). Receipt: docs/degrees/verify/deg-psychdim-m5-diener-lucas-boundary-reverification-1026c.md
 
   [T+41:21] verify lane (no baton): QC sample of B-V16 Chah-book discharge -- redirect/size/content-type/free-access confirmed via HTTP headers; PDF front-matter claims not re-checkable by my routes (fetcher refused 8.8 MB file). Receipt: docs/degrees/verify/deg-buddhism-bv16-qc-sample-1026c.md
+
+  [T+41:54] verify lane (no baton): buddhism b6 Kirchner cross-check -- identity, durations (1:28:04, 1:40:17 exact), event dates, series attribution, and all description-bounded content claims confirmed; spoken content beyond descriptions still uninspected (module status stands). Receipt: docs/degrees/verify/deg-wol-buddhism-b6-kirchner-crosscheck-1026c.md
