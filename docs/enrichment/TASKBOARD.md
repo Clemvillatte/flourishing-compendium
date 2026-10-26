@@ -1,5 +1,16 @@
 ## Worker checkpoint (2026-10-26 00:59Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
+QC SAMPLE — concept page Acceptance alongside values-based action
+(complete: the one blockquote on the page checked): Webster's sentence
+("The approach combines processes of acceptance and mindfulness with
+those of commitment and behavioural change to produce increased
+psychological flexibility and an expanded behavioural repertoire.")
+confirmed VERBATIM on the [Cambridge Core
+article](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introduction-to-acceptance-and-commitment-therapy/D67B44FDED4147CA35C1AA8FA9D3DDA5).
+No defects; no repairs needed.
+
+## Worker checkpoint (2026-10-26 00:59Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
 QC SAMPLE — concept page Acceptance (complete: the one blockquote on the
 page checked): the Hayes et al. 2006 ACT definition ("Acceptance is
 taught as an alternative to experiential avoidance. Acceptance involves
