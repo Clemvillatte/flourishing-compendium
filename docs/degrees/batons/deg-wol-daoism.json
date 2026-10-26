@@ -1,13 +1,20 @@
 {
  "baton": "deg-wol-daoism",
  "agent": "worker-pplx-degdaosim-1026a",
- "clocked_in": "2026-10-26T04:40:10+00:00",
+ "clocked_in": "2026-10-26T05:06:05+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-degdaosim-1026a",
    "at": "2026-10-26T04:40:10+00:00",
    "from": null,
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-degdaosim-1026a",
+   "at": "2026-10-26T05:06:05+00:00",
+   "from": "worker-pplx-degdaosim-1026a",
+   "reason": "stale (26 min)"
   }
- ]
+ ],
+ "released": false
 }
