@@ -162,8 +162,9 @@ optional further reading.
 ## Workload arithmetic
 
 - Measured media: Thanissaro talk 0:25:00 (whole).
-- Estimated: Nyanaponika sections ~2,500 words at 130 words per minute
-  ~25 m; log reread and pattern statement ~30 m; countermeasure work
+- Estimated: two Nyanaponika hindrance sections (the sections run 288 to
+  1,836 words each, so any pair is 672 to 3,023 words) at 130 words per
+  minute, ~25 m for the longest pair; log reread and pattern statement ~30 m; countermeasure work
   and experiment sittings ~45 m across the week; aggregates guide
   sections ~3,230 measured words ~25 m plus the matching line ~10 m.
   Estimates labelled as estimates.
