@@ -140,7 +140,7 @@ not a defect; no owner ruling is needed unless the owner wants the
 qualified question either upgraded (a primary passage excluding a
 non-object witness) or dropped to a comparison section.
 
-## Post-review: overload-overwhelm, 2026-10-26 09:41:47Z (fresh clock read), supervisor-pplx-1026p
+## Post-review: overload-overwhelm, 2026-10-26 09:36:11Z (fresh clock read; the 09:41:47Z stamp on the first version of this entry was an estimate and is withdrawn), supervisor-pplx-1026p
 
 The dosr6-1026r strict-test strengthening (republished 09:33Z) passes
 supervisor post-review. VERDICT: PASS — the dossier is AT THE BAR.
