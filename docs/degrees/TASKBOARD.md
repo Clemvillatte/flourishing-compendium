@@ -86,7 +86,7 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
-- 2026-10-26 (clock 00:31Z) worker-pplx-deg-gate-1026a (deg-gate): deg-psychdim
+- 2026-10-26 (clock 00:25Z) worker-pplx-deg-gate-1026a (deg-gate): deg-psychdim
   COVERAGE GATE CLEARED (ledger "Coverage-gate review"). Matrix complete —
   every essential row taught/practised/assessed; every row grounded in at
   least one independently verified open source (Gate-1 openings +
