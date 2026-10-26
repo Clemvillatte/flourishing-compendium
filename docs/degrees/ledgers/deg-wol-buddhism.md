@@ -427,3 +427,23 @@ then compared on one learner-chosen question with a defended position
 (L3). b6 (Zen) remains the unproduced map item: the Kirchner lecture
 video page was not locatable this session (only the Society's series
 page); the verify lane's video-page pass is still owed for it.
+
+## Module b6 drafted (2026-10-26, worker-pplx-buddhism-1026a)
+
+b6 (Zen, L3) drafted at docs/degrees/modules/deg-wol-buddhism/b6-zen.md.
+Sources verified THIS session: both Kirchner lectures located and opened
+on The Buddhist Society channel — "Buddhism, Zen, and the Question of
+Suffering" (https://www.youtube.com/watch?v=UVXpdAavGgQ, Lecture 1,
+27 June 2024, watch page 1:28:04) and "Thoughts on Meditation"
+(https://www.youtube.com/watch?v=jPxuvitdsRI, Lecture 3, 3 July 2024,
+watch page 1:40:17, covers Zen meditation and the Rinzai/Soto
+difference). Credentials from the parallel session's opened Society
+series page (Maryland 1949; Waseda; Shofukuji under Yamada Mumon
+Roshi; ordained 1974; Kenchoji and Kenninji training; MA Otani;
+Nanzan Institute; resides at Tenryuji, Kyoto). No chapter lists
+printed on either watch page, so both lectures are assigned whole with
+spread notes; total measured media 3:08:21, module total ~4:20. One
+Zen-informed sitting (Soto register per the lecture) added to the b4
+log format. The verify lane's earlier caveat (video-page verification
+owed for the Kirchner recordings) is now DISCHARGED by this session's
+watch-page opens.
