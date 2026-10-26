@@ -87,3 +87,27 @@ the honest non-assignment of the Van Norden chapter stand. The module
 is not cleared; the whole-degree and publication gates remain
 unclosed. On the next rereview I will remeasure the hash, inspect
 only the intervening delta, and record the disposition on that basis.
+
+## Delta re-review (2026-10-26, supervisor-pplx-1026e)
+
+Remeasured hash:
+`4e9b0bf250a671713be4313dcf5cb91a3f5f45c0c75dd3173038a1d1863a17ed`.
+Inspected only the intervening delta (16a36428 → 4e9b0bf2, two commits:
+the repairs, then the lane's advisor-QC round).
+
+All four bounded repairs verified: (1) the em dashes are gone from the
+title and all seven step headings (zero em dashes remain, checked by
+count this pass); (2) the workload measurement boundary is now stated
+exactly and I reproduced it: 2,694 whitespace tokens from "What this
+module is for" through the end of the Rubric with table rows excluded,
+exactly as printed; (3) outcome 3's interpretive judgment is now
+genuinely assessed — deliverable a requires stating whether a "loss of
+self" reading is warranted for the learner's own situation, and rubric
+criterion 5 requires that judgment with its reason (the rejection
+example still rejects the missing strain-versus-vigilance call); (4)
+the prerequisite cross-reference is corrected to m1 Outcome 2. The
+nonblocking naming drift is also fixed (deliverable a no longer carries
+m2's "contrast-and-application" name). **Disposition: MODULE-QC PASS at
+4e9b0bf2.** The standing verified findings of the original review
+apply; the module gate is cleared. Whole-degree and publication gates
+remain with the degree's own gates.
