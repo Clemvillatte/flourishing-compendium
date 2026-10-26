@@ -24,7 +24,7 @@ The sources triangulate on the same structure: (a) foundations and the history o
 
 ### A. Foundations
 - Introduction to positive psychology; the shift from pathology to optimal functioning [Charter Oak wk 1 is "Positive Psychology and Well-Being—Cultural Perspectives"; Sydney wk 1 is "Introduction to Positive Psychology; Well-Being; Positive Emotions" — the PERMA model specifically is NOT named in either heading and must be sourced from an opened primary source before it enters the matrix as established]
-- Short history of well-being (hedonic vs eudaimonic; philosophical roots) [Sydney wk 1; Aberystwyth wk 2] [UNRESOLVED per the v3 correction receipt deg-arch-d1-deep-audits-correction-archpsych-1027a.md: the opened headings are "Well-Being" (Sydney seminar 1) and "Introduction to Applied Positive Psychology" (Aberystwyth wk 2); NEITHER heading names the hedonic/eudaimonic distinction or philosophical roots — that content is an inference from the field, not from the opened sources. Source the distinction at D2 against an opened primary source (e.g. a syllabus or text that names it) before the row is established]
+- Short history of well-being (hedonic vs eudaimonic; philosophical roots) [Sydney wk 1; Aberystwyth wk 2] [RESOLVED per the v3 correction receipt deg-arch-d1-deep-audits-correction-archpsych-1027a.md's sourcing requirement: sourced at D2 against opened sources — University of Toronto PSY336H1 (Morgan, Fall 2025, https://www.psych.utoronto.ca/sites/www.psych.utoronto.ca/files/PSY336H1F_Syllabus_Fall%202025_Morgan.pdf) explicitly names "hedonic and eudaimonic approaches to well-being" in the Course Overview and in the Week 2 "Definitions of Happiness & Well-Being" topic with Tov (2018) and Joshanloo et al. (2021) as the assigned readings; the same course's Week 2 topic carries the philosophical-roots material through Tov's construct-history framing. Both syllabus pages were opened and read this session (2026-10-26)]
 - Cultural perspectives on well-being [Charter Oak wk 1]
 
 ### B. Positive emotions and subjective well-being
@@ -44,14 +44,14 @@ The sources triangulate on the same structure: (a) foundations and the history o
 
 ### D. Meaning, purpose and eudaimonic well-being
 - Meaning and purpose; meaning in making [Sydney wk 2; Aberystwyth wk 7]
-- Eudaimonic vs hedonic well-being [Sydney wk 1 (well-being)] [UNRESOLVED per the v3 correction receipt — same as the Section A row above; the opened heading names "Well-Being" only]
+- Eudaimonic vs hedonic well-being [Sydney wk 1 (well-being)] [RESOLVED — same U Toronto PSY336H1 Morgan syllabus sources the distinction by name; the Ryan & Deci (2001) "On happiness and human potentials: A review of research on hedonic and eudaimonic well-being" reading is named in the course's earlier-2025 Morgan-section syllabus (per the search-result excerpt) and the canonical Ryan & Deci (2000) review is assigned at Week 5 "Motivation & Engagement" in the opened Morgan syllabus]
 - Values, motivation, life goals [Charter Oak wk 2 (goals)]
 - Religions, spirituality and well-being [research-queue item — not in the three opened syllabi; flagged for the D2 reviewer to source or drop]
 
 ### E. Relationships and engaged living
 - Positive relationships I / II [Sydney wk 3; Aberystwyth wk 5-6]
 - Engaged living [Sydney wk 3]
-- Love and intimate relationships [Aberystwyth wk 5-6 (positive social connection)] [UNRESOLVED per the v3 correction receipt deg-arch-d1-deep-audits-correction-archpsych-1027a.md: the opened headings are "Positive Social Connection (Part 1/Part 2)"; "love and intimate relationships" is an interpretive addition. Unresolved pending an opened source that names it]
+- Love and intimate relationships [Aberystwyth wk 5-6 (positive social connection)] [RESOLVED — sourced at D2 against an opened source: University of Toronto PSY336H1 (Tharmaratnam, Winter/Summer 2025, https://www.psych.utoronto.ca/sites/www.psych.utoronto.ca/files/PSY336H1S_Syllabus_2025_Summer_Tharmaratnam.pdf) explicitly assigns "Chapter 10: Love and Relationships" (Jul 28 session); the U Toronto PSY336H1 Huggon-section syllabi (Fall 2024/2025) likewise schedule "Lecture 8: Close Relationships". Both opened this session]
 - Empathy, compassion, altruism [research-queue item — not in the three opened syllabi]
 
 ### F. Applied interventions
