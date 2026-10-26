@@ -2,7 +2,7 @@
   "band": "deg-wol-daoism",
   "kind": "degree",
   "holder": null,
-  "phase": "gate1-cleared-m1-m3-accepted-m4-drafted-repairs-applied",
+  "phase": "gate1-cleared-m1-m3-accepted-m4-m5-drafted",
   "modules": {
     "m1-orientation": {
       "file": "docs/degrees/modules/deg-wol-daoism/m1-orientation.md",
@@ -37,8 +37,15 @@
       "advisory_qc": "NONE (noncanonical)",
       "supervisor_module_qc": "NONE (noncanonical)",
       "status": "NONCANONICAL evidence from a parallel session (worker-pplx-daoism-1026c): m4 landed after the canonical m4-yangsheng-neiye (first-landed 05:56:21Z, supervisor-pplx-1026c-daoism holds the degrees baton); kept as evidence per the Buddhism collision precedent, not part of the module sequence; reconciliation in the ledger"
+    },
+    "m5": {
+      "file": "docs/degrees/modules/deg-wol-daoism/m5-capstone-synthesis.md",
+      "advisory_qc": "PENDING",
+      "advisory_qc_rounds": 0,
+      "supervisor_module_qc": "PENDING",
+      "status": "drafted this session (wave 3); advisor QC round 1 submitted"
     }
   },
-  "notes": "2026-10-26 (supervisor-pplx-1026c-daoism, wave 3): m4 canonical (first-landed ruling vs parallel session, reconciled), advisor round 1 repairs applied; Lundao 5 content re-verification routed to deg-verify-a; m5 not started, next baton owner takes m5 first",
-  "updated": "2026-10-26T06:03:39Z"
+  "notes": "2026-10-26 (supervisor-pplx-1026c-daoism, wave 3): m5 capstone drafted (L4 synthesis vs one serious objection, Daodejing 20/44/50/67 read firsthand); five-module set drafted end to end; m4 video re-verification routed to deg-verify-a; supervisor module-QC owed on m1-m5",
+  "updated": "2026-10-26T06:07:30Z"
 }

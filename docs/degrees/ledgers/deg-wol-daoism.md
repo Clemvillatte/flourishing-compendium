@@ -1259,3 +1259,46 @@ printed key moments (8:50-9:42, 19:14-23:28, 37:57-42:50, 52:00-end,
 11:42 measured) are the candidate boundaries to confirm against the
 recording. m4 remains DRAFT, NOT CLEARED; supervisor module-QC and the
 verification result are both pending.
+
+## m5 production (2026-10-26, supervisor-pplx-1026c-daoism, deg-wol-daoism baton)
+
+WAVE 3 allocation item 2: the capstone. Module
+m5-capstone-synthesis.md written: L4 Synthesis; the walk's exit
+promise (a personal synthesis against one serious objection) as the
+module's spine. Three candidate objections grounded in four newly
+assigned Daodejing chapters (20, 44, 50, 67; 473 words measured);
+the learner states one at full strength (300 words), then writes a
+1,200-to-1,800-word synthesis answering it with at least three
+quoted passages from at least two of the walk's modules, keeps and
+declines named with reasons, one unresolved thing named honestly,
+then self-assesses against the rubric and revises once. No new
+video assigned; re-reads of already-assigned passages only.
+
+### Sources opened this session (2026-10-26, UTC times as fetch bounds)
+
+| URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
+| https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content | 2026-10-26, about 06:07Z fetch | supervisor-pplx-1026c-daoism | Eno Daodejing full PDF downloaded and text-extracted; translator stated on the document; free access, no paywall; chapters 20, 44, 50 and 67 read verbatim this session and quoted in m5 exactly as printed; chapter word counts measured (157, 54, 113, 149) |
+
+### Verification outcomes
+
+| source_id | status | evidence | date |
+|---|---|---|---|
+| Eno Daodejing translation (D-T05 record; m5 chapters) | verified text | full PDF fetched this session; chapters 20, 44, 50, 67 read verbatim; module quotations exact against this fetch; free educator-licensed access | 2026-10-26 |
+
+### Module status
+
+m5-capstone-synthesis: DRAFT, NOT CLEARED; advisor QC round 1
+pending (submitted next); supervisor module-QC pending per WAVE 3.
+The five-module set is now drafted end to end; the degree-level
+gates (coverage gate, independent whole-degree review, integration)
+remain closed until the modules pass supervisor module-QC.
+
+### Design note for the supervisor module-QC
+
+m5 assigns no new video (video-first rule applied in reverse: no
+verified video covers the objection material; the primary text
+carries it). The m4 Lundao 5 content re-verification remains routed
+to deg-verify-a; if it returns verified segments, m4's assignment
+narrows and m5's m4 re-read references stay valid either way (they
+point to the Neiye and lecture material, not specific ranges).
