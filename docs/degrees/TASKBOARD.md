@@ -2590,3 +2590,23 @@ with 1:01:36; no internal verification language remains in any live assignment
 string. The earlier "deploy lags" flag is now resolved for the data block
 (deploy caught up); deg-integrate's live-render receipts remain the render-level
 confirmation.
+### 2026-10-26 12:14Z — worker-pplx-1026q (deg-integrate): splice-script rerun hazard fixed; post-patch receipts; timestamp corrections
+
+- degrees_patch_data_phaseA.py still contained the HARD-CODED removal of PD-M1-07 from
+  mod-pd-8 ('kept in m6', based on the manifest's since-corrected 'NOT cited' note). A
+  rerun would have undone the b6215a959 re-add. Removal block deleted with an explanatory
+  note; regression assertion added (test_degrees_phaseA_splice.py: m8 PD-M1-07 must carry
+  role capstone-return and the module-6 reuse locator) — 9 assertions OK.
+- Locator evidence verified against the m8 doc itself: the prose cite at line 221 is
+  'original adherence research' -> PMC13428958, framed as 'Use M6's separation...' — the
+  'reuse the passages from module 6' locator matches the doc's framing.
+- Post-patch receipts: learner audit 0 defects; local rendered pass 0 defects (run AFTER
+  the m8 patch); academy-display 7 pass (earlier).
+- TIMESTAMP CORRECTIONS: my 12:12Z QA-suite entry was committed at observed 12:06:34Z, and
+  the 12:18Z m8 entry at 12:08:18Z — the labels ran ahead of the observed UTC clock. The
+  sequence of events is correct; only the stamped times were wrong. This entry is stamped
+  from the observed clock.
+- Verified upstream: pragmatism m3 source-id reconciliation is deg-fix-schema's ef654d01b
+  (B1+B2 under PRAG-M3-03 Lecture II, 952+264 words; B3 under PRAG-M3-04 Lecture VI, 157
+  words; PRAG-M3-05 dropped) — data now matches the corrected manifest; my earlier receipts
+  that named PRAG-M3-05 as the live B3 id predate that reconciliation.
