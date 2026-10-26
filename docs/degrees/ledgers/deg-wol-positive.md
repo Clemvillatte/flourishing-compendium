@@ -206,3 +206,29 @@ finite-scope clause (the row's teaching core may be better served by the
 Santos course's strengths content or a dedicated Seligman lecture —
 unverified). Playback, duration measurement, captions and content
 classification from the film itself are OUTSTANDING. Status UNSET.
+
+
+## Text-candidate verification upgrade (2026-10-26, worker-pplx-positive-1026p)
+
+Purpose: the deg-gate reviewer's positive Gate-1 verdict names the
+criticisms-of-the-field and effect-size rows as UNRESOLVED coverage items that
+need "a verified teaching resource or a justified scope revision". This pass
+advances the four open-access text candidates toward that standard
+(affiliations, content structure, extents — all from pages opened this
+session, before the 2026-10-26T09:47:37Z clock read). Statuses remain UNSET pending the
+degree owner's post-launch module attachment; this is verification
+groundwork, not a coverage award.
+
+| source_id | verification recorded this pass | still outstanding |
+|---|---|---|
+| pmc PMC3599475 (Bolier et al. 2013, BMC Public Health 13:119, CC BY 2.0) | affiliations printed: Trimbos Institute (Bolier, Smit), University of Twente Dept of Psychology, Health and Technology (Westerhof, Bohlmeijer), VU University EMGO (Riper), Leuphana (Riper), VU Medical Centre epidemiology (Smit); section structure: Background/Present study; Method (search, selection, extraction, meta-analysis); Results (description, post-test, follow-up, subgroups, publication bias); Discussion (main findings, study limitations); Conclusion (implications, recommendations) — the publication-bias and subgroup sections are the effect-size-teaching material | reading-window assignment; module attachment decision |
+| pmc PMC6541265 (White, Uttl, Holder 2019, PLoS One 14(5):e0216588, CC BY) | affiliations printed: University of British Columbia, Kelowna (White, Holder); Mount Royal University, Calgary (Uttl); editor Universitat Wien; section structure: Method (primary studies, data extraction, effect-size calculations, missing data, statistical and moderator analyses); Results re-analyses of BOTH Sin/Lyubomirsky 2009 and Bolier et al. 2013 (well-being and depression, reanalysis and complete replication) — the two-meta-analysis comparison is itself the effect-size-teaching material (how the same evidence base yields different estimates) | same |
+| tandfonline 10.1080/17439760.2023.2178956 (van Zyl et al. 2024, J Positive Psychology 19(2), open access, pp. 206-235) | affiliations printed: Eindhoven (Industrial Engineering and Innovation Sciences), North-West University Optentia, Twente HRM, Goethe Frankfurt social psychology (van Zyl); Claremont Graduate University Division of Behavioral and Organizational Sciences (Gaffaney, Donaldson); Colorado State (Dik); section structure: methodology (eligibility, search, selection, bias) and six criticism themes with discussion/future directions — the criticisms row's teaching material | same |
+| frontiersin 10.3389/fpsyg.2025.1548612 (Gaffaney and Donaldson 2025, Front. Psychol. 16:1548612, CC BY) | affiliation printed: Claremont Graduate University, Division of Behavioral and Organizational Sciences; section structure: introduction (history/context, purpose), literature review organised as checklist foundations (self-reflection and development; conceptual foundations; multidisciplinary perspectives; methodological rigor; customization and ethical responsiveness; balanced and accessible reporting), discussion, conclusion — the field's response side of the criticisms row | same |
+
+Cross-note: the criticism pair (van Zyl 2024 + Gaffaney/Donaldson 2025) and the
+effect-size pair (Bolier 2013 + White/Uttl/Holder 2019) together give the two
+UNRESOLVED rows named by the gate review their open-access, opened,
+affiliation-verified teaching material. Whether that satisfies the coverage
+rule (or the scope should be revised) is the gate reviewer's and supervisor's
+decision.
