@@ -758,3 +758,24 @@ STATUS: m3 DRAFT, NOT CLEARED, handed to supervisor module-QC.
 Supervisor blockers: Misak lecture playback and captions uninspected;
 duration 51:57 provisional from the search listing; measurement
 verified this session (this record).
+
+## m4 preparation: video-first search (2026-10-26, clock 05:20:44Z measured, worker-pplx-pragmatism-1026b, deg-wol-pragmatism baton)
+
+Video-first check for m4 (Dewey on inquiry, ethics and democracy;
+M01-P08 Hicks is not a candidate, education register dropped in the
+repaired scope). A focused search for credentialed lecture videos in
+the ethics register found candidates for the next session's m4
+production to open and verify (none opened or verified yet this
+session; identity, duration, credentials and coverage all pending):
+Richard J. Bernstein, "John Dewey & his Relevance Today" (YouTube
+H_G73CAI5Hc, 57:05 per the platform listing; search excerpt shows
+Dewey's fallibilism, community of inquirers, practical wisdom in
+ethics); David Sprintzen, "Leading Ethical and Humanist Thinkers:
+John Dewey" (New York Society for Ethical Culture, two parts, Pt. I
+-FpUPyhsQV8 57:23 and Pt. II SRnY1Bx4G0s 1:01:11; presenter described
+as Professor Emeritus of Philosophy at Long Island University and an
+expert on Dewey — credentials to be verified on an institutional
+page, not the host description); UC Santa Cruz PHIL 112 "American
+Philosophy: Dewey" course lecture (KqJ9uyYFe2E, 1:32:10). Public-
+domain Dewey texts for the module remain the primary readings;
+How We Think was already opened this session (m1 record).
