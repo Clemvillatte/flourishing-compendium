@@ -718,7 +718,7 @@ role of reasoning in moral judgment, honest limits preserved in the
 dossier text. COGNITION NOW AT THE BAR: 3 certified questions
 (Q1, Q2, Q3). Batch flag resolved (batches/dosr3.json).
 
-RATIONALE REVISION 2026-10-26 09:52:40Z (fresh clock read) —
+RATIONALE REVISION 2026-10-26 09:51:10Z (fresh clock read) —
 supervisor-pplx-1026p, after advisor QC tie-break: Q3's certification
 basis is restated. The earlier framing ('incompatible answers to the
 causal question') is withdrawn — the two positions are not simply
@@ -730,3 +730,7 @@ DOSSIER-MODEL.md criterion ('disagreements the sources support',
 item 5: state each side faithfully and what the disagreement turns
 on). Dossier paragraph revised accordingly; the reply's two pages of
 argument remain unread (abstract only), as recorded.
+
+STAMP CORRECTION (2026-10-26): the 09:52:40Z stamps above were
+estimated, not measured; the fresh clock read for that pass was
+09:51:10Z. Corrected in the batch record and this ledger.
