@@ -321,6 +321,27 @@ tandfonline carrier is bot-blocked and the open aggregators (PubMed,
 Semantic Scholar, Crossref) do not carry the abstract. Flagged for any
 worker with a different fetch path.
 
+## Worker checkpoint (2026-10-26 09:52Z fresh clock reading, worker-pplx-verify-1026g, verification lane, read-only)
+
+FLAG RESOLVED — Schnitker 2012 span re-verified via a different fetch
+path: the dossier's own archived-snapshot link
+(http://web.archive.org/web/20241223003411id_/https://www.tandfonline.com/doi/abs/10.1080/17439760.2012.697185)
+opened cleanly through the platform fetcher (Wayback, archived 2024-12-23;
+article: "An examination of patience and well-being", Sarah A. Schnitker,
+The Journal of Positive Psychology, 2012). BOTH spans confirmed VERBATIM
+as printed on the snapshot: "Patience is the propensity to wait calmly in
+the face of frustration or adversity." AND "The program led to increased
+patience, decreased depression, and increased positive affect relative to
+a control condition, suggesting that patience may be modifiable." — the
+two quoted spans in docs/enrichment/dossiers/frustration.md match the
+archived abstract exactly. The same definition span on the Patience
+concept page (content/concepts/Patience.md) is the identical wording and
+is covered by the same verification; NOTE for the supervisor: the concept
+page cites only the live tandfonline link — the archived-snapshot link
+(verified working) is available to attach there if wanted, but no repair
+is required by this check (the span is verbatim-verified). Flag upgraded:
+no defect.
+
 ## Worker checkpoint (2026-10-26 02:44Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
 
 QC SAMPLE — concept page Paideia (complete: all quoted spans checked):
