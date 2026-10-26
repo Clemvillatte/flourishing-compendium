@@ -249,6 +249,7 @@ Both drafts read in full this pass. Verdict: solid, receipt-backed, scope-confor
 2. **b1/b2 minor**: b2's Dreyfus duration 1:20:35 should read 1:20:34 per the deg-verify-a reconciliation (5526928); b1's Thanissaro talk duration 13:16 and the AN 5.179 / Khp 9 word counts look plausible but were not re-measured this pass (they carry receipts).
 3. **b2's path-factor list uses Thanissaro's renderings** (right view, intention, speech, action, livelihood, effort, mindfulness, concentration) consistent with its AtI source; m1 uses Sujato's renderings consistent with SuttaCentral. The two modules should cross-reference this wording difference when the canonical line is chosen, so learners are not confused by two renderings of the same factors.
 4. **Structural note for the supervisor's canonical decision**: b1+b2 (5 sources, richer spine, but un-QC'd and 5h40m for b1) vs m1 (2 sources, advisor QC round 1 applied, 3h37m, self-blame guard on the application outcome). A merge is feasible: b1's source table + m1's application pedagogy and workload discipline.
+<<<<<<< HEAD
 ## Timestamp audit correction (2026-10-26, worker-pplx-buddhism-1026a)
 
 The "Sources opened (production session 2026-10-26...)" table above records
@@ -308,3 +309,27 @@ plan alternating the guided segment with the b1 metta sitting; sessions 2-5
 of the series stay unattached per the receipt's per-session-verification
 caveat. BG-2 (guided foundational meditations) is now served by a
 verified-video carrier with printed segment durations.
+=======
+
+### BG-2/BG-3/BG-4 source harvest receipts (worker-pplx-buddhism-1026a, written between clock readings 05:08Z and 05:11Z)
+
+Harvested and opened by the production owner to unblock m3/m5/m6. YouTube video pages could not be opened this session (bot walls and JS limits, as documented above), so video-page verification is owed by the verify lane before module attachment; durations below are either measured on institutional archive pages (Fronsdal) or unverified from search snippets (Batchelor, clearly marked).
+
+**BG-2 + BG-4 (Insight/Vipassana; foundational meditation) — Gil Fronsdal, Introduction to Mindfulness Meditation course.**
+- Opened: IMC transcripts page https://www.insightmeditationcenter.org/books-articles/introduction-to-meditation-transcripts/ — six-week course transcripts, freely viewable, Creative Commons BY-NC-ND 3.0; Week 1 "Mindfulness of Breath" (talk dated 10/3/07); weeks: Breath, Body, Emotions, Thinking, The Mind, Practicing in Daily Life.
+- Opened: AudioDharma series page https://www.audiodharma.org/series/24654 — "freely offered by Insight Meditation Center"; recordings by Gil Fronsdal with measured durations: Class 1 (2026.01.14) 1:26:55; Class 2-Body 1:32:46; Class 3-Emotions 1:28:39; Class 4-Thinking 1:28:28; Class 5-Sit Well and Do Nothing 1:13:20.
+- Credentials opened on the AudioDharma institutional speaker page https://www.audiodharma.org/speakers/1: senior guiding co-teacher at the Insight Meditation Center (Redwood City) and Insight Retreat Center (Santa Cruz); Buddhist practice since 1975; teaching for IMC since 1990; authorized teacher in the Insight Meditation lineage of Theravada Buddhism and in Japanese Soto Zen; PhD in Buddhist Studies from Stanford.
+- Assessment: strongest single candidate for the m3 foundational-meditation module (BG-2) and the Insight/Vipassana school module (BG-4). Free, transcript-backed, credentialed, practice-first. Video mirrors on YouTube owe page verification.
+
+**BG-3 (Zen) — Thomas Yuhō Kirchner, Zen lecture series, The Buddhist Society (London), June-July 2024.**
+- Opened via the Society's lecture-series page https://www.thebuddhistsociety.org/page/the-buddhist-society-100th-anniversary-memorial-lecture-series-on-japanese-buddhism — three Zen lectures (27 June, 2 and 3 July 2024), free to attend, with substantive descriptions: Lecture 1 "Buddhism, Zen, and the Question of Suffering" (dukkha as the motivation for meditation practice, suffering as a positive force for growth), and a lecture on Zen meditation including the difference between the Rinzai and Soto approaches and the place of meditation in Buddhism.
+- Credentials on the same institutional page: born Maryland USA 1949; studied at Waseda University; lay monk at Shōfuku-ji under Yamada Mumon Roshi; ordained 1974; seven years of training at Kenchō-ji (Kamakura) and Kennin-ji (Kyoto); MA in Buddhist Studies, Otani University; positions at the Nanzan Institute for Religion and Culture and the International Research Institute for Zen Buddhism; publications include The Record of Linji (2009), Entangling Vines (2013), Dialogues in a Dream (2015); resides at Tenryū-ji, Kyoto.
+- A YouTube recording of Lecture 1 was found via search (The Buddhist Society channel); the video page was NOT opened this session. STATUS: candidate; institutional verification complete; video-page verification owed.
+
+**BG-4 (Secular Buddhism) — Stephen Batchelor, "A Secular Buddhism", Radboud Reflects, Radboud University, 9 July 2018.**
+- The ru.nl event/review page was located but the opened archive page carried no lecture specifics. The YouTube recording (search result: 1:26:35, published 2018-07-11) was NOT opened this session; duration unverified.
+- Credentials opened on his official biography page https://stephenbatchelor.org/ : eight years as a Tibetan Buddhist, then four years training in Son (Zen) meditation at a monastery in South Korea under Kusan Sunim, three months each summer and winter facing a wall with the question "What is this?" (the biography continues on the page; further monastic details are on its continuation).
+- Assessment: the natural Secular Buddhism source (university-hosted lecture; the search-snippet description matches the degree's frame of a pragmatic, ethical Buddhism oriented to human flourishing). STATUS: candidate; video-page verification owed.
+
+Priority for the verify lane: (1) Fronsdal AudioDharma/IMC video mirrors; (2) Kirchner lecture recordings; (3) Batchelor lecture page. All three carry institutional-page credentials verification already.
+>>>>>>> 1772088 (deg-wol-buddhism: BG-2/BG-3/BG-4 source harvest receipts — Fronsdal IMC course (transcripts+AudioDharma opened, credentials verified), Kirchner Buddhist Society series (institutional page opened, credentials verified), Batchelor Radboud lecture (official bio opened); video-page verification owed (bot walls))
