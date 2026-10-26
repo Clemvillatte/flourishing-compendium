@@ -2483,3 +2483,92 @@ no package, purchase, membership or clinical training is assigned.
   at its pushed hash, including the framework substitution, reading
   exception disposition, workload and M2 entry match. Source receipts
   remain explicit about transcript-based verification, not playback.
+
+## Wave 2 production: M2 affective, 2026-10-26 04:55Z
+
+`modules/deg-psychdim/m2-affective.md` drafted by degree-4376b4ec.
+Status **DRAFT, NOT CLEARED**. Independent source verification is
+consumed from `verify/deg-psychdim-m2-video-audit-49bf153e.md`; the
+earlier `deg-psychdim-m2-source-use-boundaries.md` remains controlling
+for non-collapse of the competing accounts. The assigned scope remains
+the seven M2 rows in the approved module contract. No clinical exercise,
+intervention efficacy claim or additional degree theme is introduced.
+
+### Current opened-source and substitution receipt
+
+- **Functions:** parent reopened Yale lecture 11 and read chapter 1's
+  continuous transcript; **00:00–09:06**, 546 seconds. Reopened the
+  complete Noba text and retained only its first interpersonal paragraph
+  and cultural-transmission/display-rule span, **187 + 198 = 385**
+  word-like tokens. Bloom replaces introductory intrapersonal-functions
+  prose; the two short spans teach relational/cultural outcomes that
+  the selected clip does not replace. Module explicitly prevents
+  expression-to-hidden-state certainty.
+  ([Yale](https://oyc.yale.edu/psychology/psyc-110/lecture-11);
+  [Noba](https://nobaproject.com/modules/functions-of-emotions).)
+- **Construction account:** parent opened the TED public recording and
+  read its English transcript; required **00:00–18:29**, 1,109 seconds,
+  with opening violent-event/capital-sentencing content notice and
+  transcript alternative. Reopened Barrett's institutional appointment.
+  The 2025 scholarly article is separately opened and read; its abstract
+  and allostasis paragraph total **167 + 317 = 484** tokens.
+  The article, not the TED talk, supports the term allostasis. It is a
+  theory-defending reply, not a consensus survey or intervention trial.
+  No universal face-reading rule or blame-for-distress claim survives.
+  ([TED recording/transcript](https://www.youtube.com/watch?v=0gks6ceq4eQ);
+  [Northeastern](https://cos.northeastern.edu/people/lisa-barrett/);
+  [2025 article](https://pmc.ncbi.nlm.nih.gov/articles/PMC12164598/).)
+- **Regulation map:** parent opened the Gross recording and read the
+  full continuous assigned **19:22–26:14**, 412-second transcript
+  plus the immediate stop-boundary context. Institutional profile
+  reopened. The five-family map uses the clip and the freshly opened
+  original 1998 article's "Emotion Regulation Strategies" discussion;
+  the historical PDF is a supporting producer reference, not an added
+  whole-paper learner assignment. Stop **26:14** precedes surgery
+  footage; later experimental findings are not assigned or inferred.
+  ([Gross recording](https://www.youtube.com/watch?v=n4guVd7bNaU);
+  [Stanford](https://profiles.stanford.edu/james-gross);
+  [1998 free article](https://emotion.wisc.edu/wp-content/uploads/sites/1353/2024/11/gross-1998-the-emerging-field-of-emotion-regulation-an-integrative-review.pdf).)
+- **History, strategy/goal flexibility and evidence limits:** parent
+  reopened the 2024 systematic review, read the required passages and
+  relevant context. Counts: flexibility/goal paragraphs **356**;
+  attributed historical paragraph **146**; first limitations paragraph
+  through "across different contexts" **212**. Total **714** tokens.
+  This short fallback cannot be replaced by the selected clips:
+  theoretical goal extension, review limits and historical framing are
+  not taught there. Aristotle/Descartes/Darwin are explicitly the
+  reviewers' compressed interpretation, not primary-text scholarship.
+  No claim is made that the review tests a learner's response plan.
+  ([Open review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/).)
+
+### Outcomes, scaffolding and workload
+
+All five outcomes have teaching, at least one feedback-bearing practice
+and a pass/return assessment criterion. The five-family decision gets
+a fully worked Amira case, partially completed dinner-cancellation case
+and independent case analysis. Functions, theory comparison, flexibility
+and descriptive reflection each receive their own prompt and feedback.
+Delayed retrieval and correction are separate. The rubric rejects
+mind-reading, fixed-strategy rules, forced theory reconciliation and
+personal efficacy inference. Personal disclosure and improved mood
+are never conditions of passing.
+
+Core external reading **385 + 484 + 714 = 1,583** word-like tokens
+(same Unicode counting convention as M1); rounded 1,600 for learner
+planning. At 130 wpm, three times raw = 36.53, rounded **37 minutes**.
+Video **546 + 1,109 + 412 = 2,067 seconds = 34:27** plus 15-minute
+pause allowance = 49.45, rounded **50**. Module file is approximately
+3,000 whitespace words including tables, rubric and alignment map;
+**35 minutes** is a purpose-adjusted teaching allowance, not a claim
+that the whole file was counted as prose at a default reading speed.
+The other activities are separated: 30 worked/completion + 35 short
+checks/reflection + 20 delayed retrieval + 65 assessment/revision.
+Total **50 + 37 + 35 + 30 + 35 + 20 + 65 = 272 minutes**.
+Transcript substitutes for the same video window; no double assignment.
+
+M1 exit match is explicit: six dimensions, context, observable versus
+interpreted information, and a research-inference limit. No new
+statistics calculation, diagnosis, personal therapy or mood-change
+prerequisite. M3 handoff requires those skills plus M2's descriptive
+episode, account distinction and revisable response choice.
+Read-only advisor QC commissioned; independent module QC remains owed.

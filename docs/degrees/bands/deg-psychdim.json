@@ -2,10 +2,10 @@
  "band": "deg-psychdim",
  "kind": "degree",
  "holder": "degree-4376b4ec",
- "phase": "gate1-and-coverage-cleared-production-open-video-first-review",
+ "phase": "gate1-and-coverage-cleared-m1-video-revised-m2-drafted",
  "modules": {
   "m1-orientation": "draft-not-cleared; M1-PED-01..03 repairs applied and ACCEPTED by deg-verify-b re-review (disposition: ready for supervisor module-QC); advisor QC rounds 1-3 applied; deg-verify-b audit findings V01-V05 applied; five outcomes taught/practised/assessed; workload about 4h10m on measured word counts"
  },
- "notes": "2026-10-26 04:40Z degree-4376b4ec: owner decisions 6-8 supersede the earlier production hold. Scope and coverage clearances retained; no new gates cleared. M1 video-first review precedes supervisor module-QC; M2 production starts from prepared sources with verified lectures preferred. M2-M8 remain unwritten. No integration or publication request until the complete degree passes independent review.",
- "updated": "2026-10-26T04:40:45Z"
+ "notes": "2026-10-26 04:55Z degree-4376b4ec: M1 video-first rebuilt (Hayes+Sainani, 249 estimated min) and routed to supervisor; M2 affective drafted from three independently verified clips plus 1583-token essential fallbacks (272 estimated min); advisor QC requested. M1/M2 remain DRAFT, NOT CLEARED; M3-M8 remain unwritten. Scope and coverage clearances unchanged. No integration or publication request until the complete degree passes independent review.",
+ "updated": "2026-10-26T04:55:00Z"
 }

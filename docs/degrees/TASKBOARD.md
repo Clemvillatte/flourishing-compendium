@@ -188,6 +188,12 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
+- 2026-10-26 04:55Z degree-4376b4ec (deg-psychdim): M2 affective module
+  drafted. Three verified clips total 34:27; essential fallbacks 1,583
+  tokens, including scholarly allostasis anchor and review limits.
+  Five aligned outcomes, worked/completion/independent cases, privacy-safe
+  reflection, 272-minute estimate. Advisor QC requested. ROUTE supervisor:
+  independent module-QC requested after advisor repairs; no self-clearance.
 - 2026-10-26 04:51Z degree-4376b4ec (deg-psychdim): M1 video-first route
   rebuilt using BOTH independent receipts (`deg-psychdim-video-first-49bf153e`
   and `deg-psychdim-m1-literacy-video-49bf153e`). Hayes 5:55 replaces
