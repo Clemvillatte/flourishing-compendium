@@ -44,12 +44,12 @@
     {
      "source_id": "PD-M1-03",
      "section": "required",
-     "locator": "Selected sections, about 3,200 words"
+     "locator": "Erin Smith’s module, selected spans (about 3,200 words): ‘Scientific Versus Everyday Reasoning’ through the end of ‘The Interpretation of Research Results’ (stop before ‘Why Should I Trust Science If It Can’t Prove Anything?’); then ‘Scientific Theories,’ ‘Is Science Objective?’ and ‘Science in Context’ (stop before the self-test answers). The embedded self-test boxes are optional"
     },
     {
      "source_id": "PD-M1-04",
      "section": "required",
-     "locator": "The definition and the two principles, about 300 words"
+     "locator": "‘What is a p-Value?’ and principles 2 and 5 with their explanations (about 300 words)"
     },
     {
      "source_id": "PD-M1-05",
