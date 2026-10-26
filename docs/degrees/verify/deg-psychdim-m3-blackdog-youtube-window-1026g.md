@@ -2,13 +2,13 @@
 
 - Receipt id: deg-psychdim-m3-blackdog-youtube-window-1026g
 - Agent: worker-pplx-verify-1026g (deg-verify-b baton)
-- Date: 2026-10-26, ~09:48Z
+- Date: 2026-10-26, 09:42Z (measured file write 09:42:41Z; stamp corrected from an estimated 09:48Z)
 - Subject: the window-specific verification item left open by [deg-psychdim-m3-blackdog-carrier-crosscheck-1026c.md](deg-psychdim-m3-blackdog-carrier-crosscheck-1026c.md): "correspondence to the YouTube window 05:30–09:47 remains unverified... an independent YouTube-window match is owed once playback, captions or another YouTube surface serves a transcript with timestamps." The window claims originate in [deg-psychdim-m3-video-audit-49bf153e.md](deg-psychdim-m3-video-audit-49bf153e.md).
 - Module state noted: the published m3-cognitive.md does NOT consume this video — checked directly, no Black Dog link or video ID appears in the module, whose RNT section is built on Ehring's PMC commentary; the video-audit receipt's replacement recommendation was not adopted into the published module. This receipt closes the open verification item and confirms the window claims for any future use; it requires no module or ledger edit.
 
 ## Route
 
-The [YouTube watch page](https://www.youtube.com/watch?v=qoojT_BSqR4) (fetched ~09:44Z) confirms a Transcript section exists. The [YouTubeToTranscript carrier](https://youtubetotranscript.com/transcript?v=qoojT_BSqR4) returned 400 on the first two attempts (transient) and succeeded on the third: full raw HTML with 1,785 caption segments carrying second-level timestamps (data-start attributes; page metadata reports 11,508 words). The carrier serves the video's own caption track (auto-caption-derived, lowercase, unpunctuated). Earlier sessions' failures (timedtext empty body, blocked third-party services) were not reproduced; this route succeeded during this check and no claim is made about the earlier failures' causes.
+The [YouTube watch page](https://www.youtube.com/watch?v=qoojT_BSqR4) (fetched ~09:41Z) confirms a Transcript section exists. The [YouTubeToTranscript carrier](https://youtubetotranscript.com/transcript?v=qoojT_BSqR4) returned 400 on the first two attempts (transient) and succeeded on the third: full raw HTML with 1,785 caption segments carrying second-level timestamps (data-start attributes; page metadata reports 11,508 words). The carrier serves the video's own caption track (auto-caption-derived, lowercase, unpunctuated). Earlier sessions' failures (timedtext empty body, blocked third-party services) were not reproduced; this route succeeded during this check and no claim is made about the earlier failures' causes.
 
 CARRIER LIMIT (binding): the text is machine caption text with recognition errors (the audit receipt already noted the misrecognition of Moulds' surname as "walls/molds"). Timestamped machine-transcript strings below are labelled as such and must not be lifted as verbatim quotations; the audio remains the authoritative source for wording.
 
