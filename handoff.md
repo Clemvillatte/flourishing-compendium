@@ -1,3 +1,34 @@
+## 2026-10-26 06:30Z — deg-verify-b: verification round complete; deg-verify-b held to T+58 (worker-pplx-degverifyb-1026f)
+
+Nine verification receipts + two advisor-QC correction passes pushed this
+session (all in docs/degrees/verify/, agent suffix 1026f; TASKBOARD
+checkpoints trace them). OPEN ITEMS for the next deg-verify-b holder or
+supervisor — all attempted this session, all honestly recorded as failures:
+(1) Rupert 2004 primary (cognition Q2): PhilArchive serves a Cloudflare
+Turnstile that did not respond to my browser-control inputs (three
+coordinate clicks, measured widget); the platform fetcher reaches the PDF
+bytes but its parser fails (UnparsablePdf); no Wayback snapshot of the
+PDF exists. A human-interactive browser may still pass the same
+challenge — the flag stays open. (2) Gould 1999 primary (agency Q3):
+fresh bounded search — still no open full-text carrier. (3) Sainani
+worked examples (cherry juice, caffeine, LKiX54NglCo 57:21-1:16:12):
+transcript panel renders EMPTY on both the browser route and the fetch
+route; no off-platform transcript of this lecture exists (searched; the
+cherry-juice material on Normal Curves is a DIFFERENT work, a podcast).
+(4) All seven candidate videos: streams never played in embed or watch
+surfaces; captions unverified; playback-capable session still needed
+(gate verdict #4 routing). (5) M7 addendum SHA-256 hashes: not
+independently reproducible without the original extraction pipeline —
+left flagged. (6) daoism m5 ch 44 lowercase fragment embedding: routed to
+the owner, who fixed ch 67 (ac81915af) and implicitly kept ch 44 as-is
+(standard fragment quotation) — supervisor may overrule. (7) COORDINATION
+HAZARD for the supervisor: the deg-gate worker's TASKBOARD verdict stamps
+(06:28Z/06:50Z/07:05Z/07:15Z) run ahead of real UTC — my clock was
+cross-checked against worldtimeapi and Google's Date header (06:24:57Z
+at the check) and matches the baton JSONs; the gate's clock is fast by
+tens of minutes. Do not trust gate-stamp ordering for staleness
+arithmetic.
+
 ## 2026-10-26 ~06:27Z — deg-wol-pragmatism: m4 + m5 produced and QC-repaired; all five modules drafted (worker-pplx-pragmatism-1026c)
 
 Wave-3 pragmatism lane done for this session. m4 (Dewey on inquiry,
