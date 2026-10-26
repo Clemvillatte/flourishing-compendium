@@ -12,7 +12,7 @@ a short primary-text passage, quote it exactly and distinguish what it
 says from an application you propose (m2 Outcome 2, m3 Outcome 1), and
 you can distinguish a training history from the state the training
 produces (m3 Outcome 2).
-**Total time budget**: about 3 hours 20 minutes (about 200 minutes of
+**Total time budget**: about 2 hours 50 minutes (about 168 minutes of
 labelled components; arithmetic below).
 **Primary text**: assigned sections of the Neiye (the "Inward
 Training" chapter of the Guanzi) in the [Study of Inner Cultivation
@@ -28,9 +28,13 @@ section 1 begins "Always : the essence of creatures", section 2 begins
 section begins "Where essence exists, there is naturally life".
 **Assigned video**: [Komjathy's "Lundao 5: Daoist Yangsheng (Nourishing
 Life)"](https://www.youtube.com/watch?v=WDwPln1CczI), 53 minutes 43
-seconds. This module has no verified segment boundaries for it, so no
-timestamps are given; the assigned use is the topics named in Step
-1. Watch it once with a notebook.
+seconds total. The required watch is the first 26 minutes 22 seconds
+(0:00-26:22, ending at the talk's own Chapter 2 marker, as printed on
+the video's watch page); the remainder (26:22-53:43) is optional
+further viewing for learners who want the tradition's
+internal-alchemical account, which this module does not test and
+makes no health claims about. Watch the required segment once with a
+notebook; the assigned use is the topics named in Step 1.
 
 ## What this module is for
 
@@ -115,11 +119,16 @@ On completing this module the learner can:
 
 ## Steps
 
-### Step 1: Watch the lecture (53 minutes 43 seconds measured)
+### Step 1: Watch the lecture (required segment 0:00-26:22 measured)
 
-Watch Komjathy's Lundao 5 talk once through with a notebook, pausing
-as you need to. No verified segment boundaries are available to this module, so
-no timestamps are given; keep your notes on these topics:
+Watch the assigned segment of Komjathy's Lundao 5 talk (0:00 to
+26:22, ending at the talk's Chapter 2 marker) once through with a
+notebook, pausing as you need to. The watch page's own markers
+locate the assigned topics within this segment (stillness and
+emptiness meditation practice 19:14; expelling the old and ingesting
+the new 19:51; the four postures 21:05-23:28). The remainder of the
+talk (26:22-53:43) is optional further viewing. Keep your notes on
+these topics:
 
 - The sentences where he defines yangsheng and says it is more
   complicated than a techniques list.
@@ -347,20 +356,23 @@ no evidence criteria.
 
 ## Workload arithmetic
 
-- Assigned video: 53 minutes 43 seconds measured (duration printed on
-  the video's source page). The assigned use is the Step 1 topics;
-  the assignment is being confirmed against the recording itself and
-  may narrow, in which case this arithmetic is revised.
+- Assigned video: required segment 0:00-26:22 measured (26 minutes
+  22 seconds; the Chapter 2 marker at 26:22 is printed on the video's
+  watch page, and the full duration 53:43 is printed there too).
+  The assigned use is the Step 1 topics, which the watch page's own
+  markers locate inside the required segment. The optional remainder
+  (26:22-53:43) is not counted.
 - Primary-text reading on the assigned Neiye sections (sections 1, 2,
   3 and 12: 170 + 135 + 103 + 142 = 550 words measured on the
   assigned sections, translator's notes excluded; elective track):
   two readings, 1,100 words; at 130 words per minute (dense translated
   text with new concepts) about 8 minutes raw; with study overhead
   as a three-times multiplier, about 25 minutes (estimate, labelled).
-- Module teaching prose on this page (2,936 words measured, excluding
-  the rubric table rows and this arithmetic section): at 180 words
-  per minute about 16 minutes raw; with study overhead as a
-  three-times multiplier, about 49 minutes (estimate, labelled).
+- Module teaching prose on this page (measured as whitespace tokens
+  from "What this module is for" through the end of the Rubric, table
+  rows excluded: 2618 words): at 180 words per minute about 15
+  minutes raw; with study overhead as a three-times multiplier,
+  about 45 minutes (estimate, labelled).
 - Retrieval activities 1 to 4: about 17 minutes (estimate;
   activities 1, 2 and 3 about 5 minutes each, activity 4 about 2
   minutes).
@@ -369,14 +381,14 @@ no evidence criteria.
   minutes, teach-back about 15 minutes).
 - Self-assessment and feedback step: about 5 minutes.
 
-Total: about 3 hours 20 minutes (about 200 minutes of labelled
-components: 53 minutes 43 seconds measured assigned video, 25
+Total: about 2 hours 50 minutes (about 168 minutes of labelled
+components: 26 minutes 22 seconds measured required video, 25
 estimated primary-text reading with the three-times study multiplier,
-49 estimated module-prose reading with the three-times study
+45 estimated module-prose reading with the three-times study
 multiplier, 17 retrieval, 50 graded, 5 self-assessment). Learners not
 taking the elective track subtract the 25-minute reading component
 and the elective retrieval activity 2, and take the lecture variant
-of deliverable a: about 2 hours 50 minutes.
+of deliverable a: about 2 hours 20 minutes.
 
 ## Sources
 
