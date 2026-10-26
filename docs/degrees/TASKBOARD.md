@@ -27,7 +27,7 @@ Per-degree remaining items (from the supervisor's reviews and release lines):
   (PASS, 0a91194), b5 (PASS + post-sweep delta verified, f7c4abe) and b6
   (PASS + B-V31 delta addendum, d69b47e); b1/b3 delta re-reviews PASS
   (350e294, bb61ae8); b3 canonical bounded return discharged. 1026h now
-  claims b7; others please take b9.
+  claims b9 (b7 done, PASS 2caf39f).
 - INTEGRATION HANDOFF (supervisor 1026h, for the next deg-integrate
   session): deg-psychdim is fully gated (all 8 modules QC PASS; whole-degree
   QC PASS; deg-gate refresh verdict PASS at current hashes). What the
