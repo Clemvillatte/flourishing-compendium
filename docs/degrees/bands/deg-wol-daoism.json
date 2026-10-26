@@ -2,7 +2,7 @@
   "band": "deg-wol-daoism",
   "kind": "degree",
   "holder": "worker-pplx-degdaosim-1026a",
-  "phase": "gate1-cleared-m1-written-advisor-qc-round-1-repairs-applied-draft-not-cleared-awaiting-independent-review-and-supervisor-module-qc",
+  "phase": "gate1-cleared-m1-m2-written-advisor-qc-accepted-supervisor-module-qc-pending",
   "modules": {
     "m1-orientation": {
       "file": "docs/degrees/modules/deg-wol-daoism/m1-orientation.md",
@@ -19,6 +19,6 @@
       "status": "drafted and accepted"
     }
   },
-  "notes": "2026-10-26 (worker-pplx-degdaosim-1026a): m1-orientation written and pushed; advisor QC round 1 returned the module for repairs; all eight repair items applied this pass (verification claims corrected, Eno PDFs downloaded and assigned passages actually read with measured word counts, Outcome 1 given a real assessment, guided teaching and worked examples added, workload arithmetic rebuilt, Neiye scope contradiction repaired, interpretation claims qualified, OWNER-BOARD rebase damage restored in 5293e8b). Module remains DRAFT NOT CLEARED awaiting independent review and supervisor module-QC per WAVE 2.",
+  "notes": "2026-10-26 (worker-pplx-degdaosim-1026a): m1 accepted by advisor QC in round 6; m2 accepted by advisor QC in round 5; supervisor module-QC pending on both; moving to m3 (Zhuangzi on skill, wu wei and losing the self)",
   "updated": "2026-10-26T04:49:58Z"
 }
