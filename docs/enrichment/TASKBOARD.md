@@ -6339,3 +6339,5 @@ same pass; see its RETRACTION note.)
   [T+34:02] verify lane (no baton): M1 Noba-remaining-topics video search -- Kaplin lecture candidate verified (identity+credentials+all 3 topics via transcript excerpts; duration/date open, watch page blocked). Receipt: docs/degrees/verify/deg-psychdim-m1-noba-topics-video-candidate-1026c.md
 
   [T+35:03] verify lane (no baton): daoism m2 cross-check -- Eno ch.11/36/78 quotes verbatim (ch.36 repair confirmed), 228-word count programmatically confirmed, Ziporyn segments reused from verified m1. Receipt: docs/degrees/verify/deg-wol-daoism-m2-consumed-sources-crosscheck-1026c.md
+
+  [T+37:19] verify lane (no baton): psychdim M5 video cross-check -- 4 recordings confirmed; McAdams audit-vs-module boundary discrepancy flagged (module chapter-anchored 13:31, audit 14:14 not); 2 one-second duration render disagreements; Little window not chapter-anchored. Receipt: docs/degrees/verify/deg-psychdim-m5-consumed-sources-crosscheck-1026c.md
