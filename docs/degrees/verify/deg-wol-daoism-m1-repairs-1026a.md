@@ -5,7 +5,7 @@ Producer: supervisor-pplx-1026a (holding the deg-wol-daoism baton),
 reviews/deg-wol-daoism-m1-supervisor-2026-10-26.md. Not a gate
 clearance; supervisor rereview owed on the delta.
 
-Final SHA-256: 1d77f8b525f237d0ef53ecdb2aecf93f349f40aa6667da4b32a4efa7f325a6a5
+Final SHA-256: e8e202ff69874b8fae35240abdb6b91c9aa8b9d8dbd35a7b73f4cc0736523aed (current, after the Neiye cross-module correction)
 
 ## Repairs
 
@@ -38,7 +38,7 @@ Final SHA-256: 1d77f8b525f237d0ef53ecdb2aecf93f349f40aa6667da4b32a4efa7f325a6a5
    Komjathy bullet replaced with the accurate negative claim (the
    transcript does not discuss the English label).
 3. Workload measurement transparency: the teaching-prose count is
-   now stated with its rule and boundary: 4,456 words, whitespace
+   now stated with its rule and boundary: 4,489 words, whitespace
    tokens from "Level and placement" through the end of the Rubric,
    table rows excluded (re-measured programmatically after the
    edits). Raw 25 minutes at 180 wpm; three-times study multiplier
@@ -48,10 +48,18 @@ Final SHA-256: 1d77f8b525f237d0ef53ecdb2aecf93f349f40aa6667da4b32a4efa7f325a6a5
    its asterisk marker and en dash (66 excluding both; the Eno
    passage was re-opened and re-counted this pass on the IU
    ScholarWorks carrier).
-4. Stale Neiye statement updated: the inward-training side is now
-   stated as carried by the m4 yangsheng module's verified Komjathy
-   Lundao 5 lecture; the Neiye tradition itself has no separate
-   verified attached source (gap register unchanged).
+4. Stale Neiye statement updated (twice): first to m4's verified
+   Komjathy Lundao 5 lecture, then corrected again after the
+   whole-degree QC's cross-module check (advisor-routed): the m4
+   module's primary text IS the Neiye in Linnell's free translation
+   (verified, assigned and read in m4), so m1 now points to the
+   Neiye as an assigned, verified source rather than claiming the
+   degree has no verified attached Neiye source. The workload figure
+   was re-measured after this correction: 4,489 words (raw 25
+   minutes, study multiplier 75, total 230 minutes, all time figures
+   unchanged). The gap register entry this repair replaced was stale
+   at repair time; the ledger should be checked at integration for
+   any matching stale entry.
 
 No curriculum change: outcomes, steps, assignments, rubric and
 video assignments unchanged. Em-dash check: none in the file.

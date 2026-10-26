@@ -106,3 +106,44 @@ WHOLE-DEGREE QC: PASS at the packet level (assistant-supervisor QC
 of the packet; not a gate verdict). The degree proceeds to the
 deg-gate reviewer's whole-degree review and, only after that
 verdict, the deg-integrate attachment.
+
+## Addendum (advisor-routed corrections, ~T+29)
+
+An advisor QC round on this review found one cross-module
+contradiction and two evidence-consistency defects. Corrections
+applied by the production baton (me) this session; each changes a
+module hash, so each needs an independent supervisor delta
+confirmation before the packet chain is called complete:
+
+1. **m1 Neiye contradiction (fixed):** m1 claimed the Neiye tradition
+   "has no separate verified attached source in this degree" — false
+   against the canonical m4, whose primary text IS the Neiye in
+   Linnell's free Gutenberg translation (verified, assigned and
+   read). m1 now points to the Neiye as an assigned, verified
+   source. m1 current hash: e8e202ff... (PASS extension was at
+   1d77f8b5; the delta is this correction plus the re-measured
+   workload figure 4,489 words, time figures unchanged at 230
+   minutes). Receipt updated.
+2. **m4 count figure (reconciled):** the routed correction said
+   2,656; my re-measurement under the stated rule gives 2,657. Per
+   the advisor's ruling, the module now states what the stated
+   method produces (2,657), with the one-token variance documented
+   in the receipt. m4 current hash: f6552c8d... (PASS was at
+   65f91436; delta = the count figure).
+3. **m5 cross-module citations (checked, no defect):** m5's
+   prerequisite cites "m4 Outcome 3" for the bounded-practice design
+   competency; the canonical m4's Outcome 3 is "Design one bounded
+   yangsheng adaptation with reasons and limits" — the citation
+   agrees with the canonical module. (The m5 review's repair list
+   had suggested a different outcome number, evidently against the
+   noncanonical parallel m4 variant; the canonical agreement
+   stands.)
+4. **m1 receipt figure** updated to the measured 4,489 (an earlier
+   receipt edit had left the stale 4,456); m4 receipt Final SHA-256
+   updated to the current hash.
+
+The packet-level PASS above is amended to **PASS, conditional on the
+independent confirmation of the two documented deltas** (m1
+e8e202ff, m4 f6552c8d), each a thirty-second diff against its
+receipt. The deg-gate whole-degree review remains with an independent
+session.

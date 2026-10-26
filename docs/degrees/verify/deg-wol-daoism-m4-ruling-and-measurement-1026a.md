@@ -6,7 +6,7 @@ reviews/deg-wol-daoism-m4-whole-talk-ruling-1026e.md (Option B adopted)
 and the one measurement repair from
 reviews/deg-wol-daoism-m4-supervisor-2026-10-26.md.
 
-Final SHA-256: 65f9143689d1ba57309ab9a67ffa46c6dc4e7bdb39a8cbba1350e0236aa81500
+Final SHA-256: f6552c8d82fd3ddd8a68ccc71f817f2aae38f07a955a02bcbe888808f66a6ff0 (current, after the count figure was set to the measured 2,657)
 
 ## Ruling applied (Option B)
 
@@ -29,13 +29,16 @@ Final SHA-256: 65f9143689d1ba57309ab9a67ffa46c6dc4e7bdb39a8cbba1350e0236aa81500
 ## Measurement repair
 
 Teaching-prose count now stated with an exactly reproducible
-boundary: 2,656 words, whitespace tokens from "What this module is
-for" through the end of the Rubric, table rows excluded. This is the
-supervisor's re-review recount (routed correction 2,618 -> 2,656,
-applied 2026-10-26): my original 2,618 was measured before the
-ruling edits added text to the module; my post-edit reproduction
-gives 2,657, one whitespace token from the routed figure (immaterial:
-raw reading time unchanged at about 15 minutes at 180 wpm). Raw about 15 minutes at 180 wpm; three-times
+boundary: 2,657 words, whitespace tokens from "What this module is
+for" through the end of the Rubric, table rows excluded. Correction
+history: my original 2,618 was measured before the ruling edits added
+text to the module; the supervisor's re-review routed 2,656; my
+re-measurement under the stated rule gives 2,657 (one whitespace
+token from the routed figure). Per the advisor's QC ruling, the
+figure now states what the stated counting method actually produces
+(2,657) rather than the routed 2,656; the one-token variance is
+immaterial to the time arithmetic (raw reading time unchanged at
+about 15 minutes at 180 wpm). Raw about 15 minutes at 180 wpm; three-times
 study multiplier 45 minutes. Total recomputed: 168 minutes, about 2
 hours 50 minutes (elective variant about 2 hours 20 minutes);
 front-matter time budget updated to match.

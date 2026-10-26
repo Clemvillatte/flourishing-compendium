@@ -388,11 +388,11 @@ monastic and ascetic strand stays available as a future elective. The
 body-practice side of that promise is carried by the qigong
 practicum, which this degree does not own and does not modify; the
 inward-training side is carried by the m4 yangsheng module, whose
-attached Komjathy lecture (Lundao 5) is verified in the ledger. The
-Neiye tradition itself has no separate verified attached source in
-this degree (see the ledger's gap register), so where this walk
-points to the Neiye it points to a tradition rather than to an
-assigned source.
+attached Komjathy lecture (Lundao 5) is verified in the ledger and
+whose primary text is the Neiye itself, in Bruce R. Linnell's free
+translation (Project Gutenberg, verified in the ledger; assigned
+and read in m4). So where this walk points to the Neiye it points
+to an assigned, verified source, not merely to a tradition.
 
 Beyond those named exclusions, material is admitted to this walk only
 where it serves this degree's learner's actual need: guiding the
@@ -536,7 +536,7 @@ learner can self-check.
 - Module teaching prose on this page (measured as whitespace tokens
   from "Level and placement" through the end of the Rubric, table
   rows excluded, including the worked chapter-8 demonstration and the
-  two scaffolded attempts: 4481 words): at 180 words per minute
+  two scaffolded attempts: 4489 words): at 180 words per minute
   (some new concepts) about 25 minutes raw; with study overhead as
   a three-times multiplier, about 75 minutes (estimate, labelled).
 - Retrieval activities and pauses 1, 2, A and B: about 20 minutes

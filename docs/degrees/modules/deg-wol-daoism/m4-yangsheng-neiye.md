@@ -370,7 +370,7 @@ no evidence criteria.
   as a three-times multiplier, about 25 minutes (estimate, labelled).
 - Module teaching prose on this page (measured as whitespace tokens
   from "What this module is for" through the end of the Rubric, table
-  rows excluded: 2656 words): at 180 words per minute about 15
+  rows excluded: 2657 words): at 180 words per minute about 15
   minutes raw; with study overhead as a three-times multiplier,
   about 45 minutes (estimate, labelled).
 - Retrieval activities 1 to 4: about 17 minutes (estimate;
