@@ -7,12 +7,14 @@
   "centering_clause": "Every topic must serve the value proposition \u2014 alleviate suffering, become wiser, genuinely flourish even when uncertain or overwhelmed \u2014 through the Walk of Life frame. When in doubt, exclude.",
   "source_syllabi": [
     {
-      "course": "PSYC UN2410 Introduction to Cognitive Science",
-      "institution": "Columbia University",
-      "instructor": "Antonino Raffone & Guido Bondi",
-      "term": "Spring 2025",
+      "course": "Introduction to Cognitive Science (COGS 1001)",
+      "institution": "Columbia University / Barnard College",
+      "instructor": "Christopher Baldassano & John Morrison",
+      "term": "Fall 2023",
       "url": "https://www.columbia.edu/~jrm2182/COGS1001.pdf",
-      "opened_this_session": true
+      "opened_this_session": true,
+      "re_fetched_without_extraction_prompt": true,
+      "correction_note": "the earlier extraction-prompt summary mis-attributed this to 'Antonino Raffone & Guido Bondi, PSYC UN2410, Spring 2025' and hallucinated a wk-14 mindfulness lecture \u2014 both are wrong; the actual syllabus (fetched without an extraction prompt this session) is taught by Baldassano and Morrison and has no mindfulness lecture"
     },
     {
       "course": "CGS 2301 Introduction to Cognitive Science",

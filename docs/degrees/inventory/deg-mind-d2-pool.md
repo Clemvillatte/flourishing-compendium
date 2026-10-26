@@ -12,6 +12,11 @@ Every candidate below must serve the value proposition — alleviate suffering, 
 
 ## Candidate pool — organized by proposed module
 
+### mod-mind-0 — D1 syllabus evidence (Columbia/Barnard COGS 1001) — instructor credentials
+- **Christopher Baldassano** — **CREDENTIALS-VERIFIED (this session): his Columbia Psychology faculty page (https://psychology.columbia.edu/content/christopher-baldassano) was successfully fetched — Associate Professor of Psychology, PhD Stanford University 2015, research interests: Perception; Memory; Cognitive Neuroscience; Event Cognition.** He co-teaches COGS 1001 with Morrison.
+- **John Morrison** — **CREDENTIALS-VERIFIED (this session): his personal Columbia page (https://www.columbia.edu/~jrm2182/) and Barnard Philosophy page were successfully fetched — Professor of Philosophy at Barnard College, founding director of the Barnard/Columbia Cognitive Science program, Editor of the Journal of Philosophy, research in philosophy of mind (cognitive neuroscience and AI) and Spinoza, NEH/NSF/Mellon-funded.** He co-teaches COGS 1001 with Baldassano.
+- **NOTE**: the COGS 1001 syllabus PDF is D1 curriculum evidence (topics and readings), NOT a teaching resource for the degree — the syllabus is not itself a video course. The D2 pool must find actual open teaching resources (video lectures, open course pages, open readings) for each module; the syllabus's required readings (Marr, Pylyshyn, Kanwisher and Yovel, etc.) are mostly paywalled journal articles and books and must be replaced with open alternatives at D2.
+
 The pool below maps each proposed module from the D1 coverage matrix to the open candidates found this session. Each candidate lists its host, its openness status, and the coverage-row(s) it would fill. **All candidates are DRAFT until D2 verification (open-access check + instructor credentials on a biography or institutional page + what-topic-it-covers logging).**
 
 ### mod-mind-1 — What is cognitive science; five levels; history
