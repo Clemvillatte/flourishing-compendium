@@ -5,12 +5,13 @@ orientation and the four working terms; this module takes the
 Daodejing itself and treats it as what the walk's scope calls it: a
 practice manual for living, not only a piece of literature. You will
 read more of the text, learn to name the moves the chapters make,
-and apply the text's central reversal to a case in your own life. The
-promise of this module is narrow: by the end you can read a chapter
-of the Daodejing with guidance, name what the chapter does, and say
-how the chapter can be applied to a life situation. It is not a
-promise that the text will solve your problems; it is a promise that
-you will know how to use the text rather than only admire it.
+and apply the contrasts the assigned chapters examine to a case in
+your own life. The promise of this module is narrow: by the end
+you can read a chapter of the Daodejing with guidance, name what
+the chapter does, and say how the chapter can be applied to a
+life situation. It is not a promise that the text will solve your
+problems; it is a promise that you will know how to use the text
+rather than only admire it.
 Source verification evidence is in ledgers/deg-wol-daoism.md. STATUS:
 DRAFT, NOT CLEARED; awaits advisor QC and supervisor module-QC per
 WAVE 2.
@@ -27,11 +28,11 @@ of m3 (the Zhuangzi on skill, wu wei and losing the self).
 1. Read a chapter of the Daodejing and name the move the chapter
    makes (reversal, contrast, paradox, image) and what the chapter
    asks of a reader who wants to use it.
-2. Apply the Daodejing's central reversal (the low, the dark, the
-   formless and the unnamed as the source of what you value) to a
-   case in your own life, naming what matters in the case, what the
-   reversal helps you understand or choose there, and one thing the
-   case leaves uncertain.
+2. Apply a contrast examined in one assigned chapter to a life
+   situation, distinguishing what the passage says from your
+   proposed application, and naming what matters in the case, what
+   the application helps you understand or choose there, and one
+   thing the case leaves uncertain.
 3. Compare two accounts of the same Daodejing chapter, naming where
    they agree, where the closing line's wording differs, and what
    difference that wording might make to your interpretation, then
@@ -48,8 +49,9 @@ map at the end shows where.
 
 ### Step 1: the reversal move, taught (Outcome 2)
 
-The recurring contrast this module examines is reversal: the chapters
-assigned here connect what you value with the thing you dismiss.
+The recurring contrast this module examines is reversal, the move
+several assigned chapters make: the chapters connect what you value
+with the thing you dismiss.
 Chapter 11 connects usefulness with empty space; chapter 78
 connects softness with overcoming hardness. This is not a paradox
 for the sake of being difficult; this module tests whether those
@@ -74,9 +76,9 @@ its strongest form.
 
 The reversal move is easiest to see in the water chapter, which
 m1 worked in full: the highest good is like water, and water settles
-in the despised low places. But the move runs through the whole text.
-Here are three more chapters that make the same move in different
-registers, so you can see it is not a one-off trick.
+in the despised low places. Several other chapters make the same
+move in different registers; here are three, so you can see it is not
+a one-off trick.
 
 2. [Daodejing, translated by Robert Eno](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content).
    Read chapters 11, 36 and 78 in full, twice each (228 words measured
@@ -112,15 +114,15 @@ the state is the king of the world. The chapter's actual closing
 line is "Straight words seem to reverse themselves."
 ([Eno, Daodejing, chapter 78](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content).)
 
-### Step 2: applying the reversal to your own case (Outcome 2)
+### Step 2: applying a contrast to your own case (Outcome 2)
 
-Now take the reversal move and apply it to a case in your own life.
-The worked demonstration uses the same three-part reflection you
-learned in m1, applied to a case where the reversal is one possible
-contribution rather than the whole story. The case is hypothetical,
-written for this module; it is not a finding about anyone, and you
-should test it against your own experience rather than treat it as
-a diagnosis.
+Now take one of the contrasts the assigned chapters examine and
+apply it to a case in your own life. The worked demonstration uses
+the same three-part reflection you learned in m1, applied to a case
+where the contrast is one possible contribution rather than the
+whole story. The case is hypothetical, written for this module; it is
+not a finding about anyone, and you should test it against your own
+experience rather than treat it as a diagnosis.
 
 The case: a person is stuck in a job they dislike and is trying to
 force themselves to feel motivated about it, believing that if they
@@ -133,28 +135,31 @@ forcing is the only or even the main contributor, and the job's
 actual content, the person's circumstances outside work, or the fit
 between the two could each be doing more of the work.
 
-What the reversal helps with: the Daodejing's reversal says the
-source of what you value is the thing you dismiss. Applied here, one
-dismissed thing is the person's exhaustion, and one possible move is
-to stop treating the exhaustion as an obstacle to be forced past
-and start treating it as information about what is happening. The
-reversal does not tell the person to quit or to stay, and it does
-not establish that the response to circumstances is the real
-problem; it offers a way of noticing what the forcing was hiding.
+What the application helps with: in this hypothetical example, the
+examined contrasts are used as a prompt to reconsider something
+dismissed. One dismissed thing is the person's exhaustion, and the
+proposed application is to stop treating the exhaustion as an
+obstacle to be forced past and start treating it as information
+about what is happening. Treating exhaustion as information is
+this module's proposed application, not advice the Daodejing
+explicitly gives; the chapter does not tell the person to quit or
+to stay, and it does not establish that the response to
+circumstances is the real problem.
 
 What the case leaves uncertain: whether the exhaustion is a signal
 that the job is wrong for this person, a signal that the person is
 tired for reasons that have nothing to do with the job, or a signal
 that the job and the person's circumstances need to change together.
-The reversal does not answer that; it only stops the forcing that was
-making the question hard to examine.
+The examined contrast does not answer that; the proposed application
+only stops the forcing that was making the question hard to
+examine.
 
 Retrieval activity 1 (closed book, now): from memory, write your
 own three-part reflection on a case in your life where you are
-forcing something. Name what matters in the case, what the reversal
-helps you understand or choose there, and one thing the case leaves
-uncertain. Keep what you write; it is the draft of graded
-deliverable a.
+forcing something. Name what matters in the case, what the examined
+contrast helps you understand or choose there, and one thing the
+case leaves uncertain. Keep what you write; it is the draft of
+graded deliverable a.
 
 ### Step 3: comparing two readings of the same chapter (Outcome 3)
 
@@ -256,7 +261,7 @@ against the primary text before you finalise.
   at the end of Step 4; keep your three-chapter notes.
 - Graded activity (Outcomes 1, 2, 3 and 4): three deliverables,
   self-assessed with the rubric before submitting.
-  a. The reversal-application deliverable (Outcome 2): your
+  a. The contrast-application deliverable (Outcome 2): your
      three-part reflection from Retrieval activity 1, written out
      cleanly as the final version, on a case where you are forcing
      something. 200 to 400 words. The rubric's criterion 1 governs
@@ -276,16 +281,16 @@ against the primary text before you finalise.
 
 ## Rubric (observable criteria)
 
-1. The reversal-application deliverable names a real case in the
-   learner's life, applies the reversal as one possible
+1. The contrast-application deliverable names a real case in the
+   learner's life, applies the examined contrast as one possible
    contribution rather than as the whole story, and names what
-   matters, what the reversal helps with, and one thing the case
+   matters, what the application helps with, and one thing the case
    leaves uncertain. Strong: "What mattered in my case was that I
    kept trying to make my book club read the books I wanted to
    read; the case does not establish that the forcing was the only
    or the main contributor to how bad the meetings felt, and the
    book club's actual fit with the members could have been doing
-   more of the work; the reversal helps me see that the thing I
+   more of the work; the application helps me see that the thing I
    dismissed, the members' actual boredom with my choices, was
    information I needed, and one possible move was to stop
    presenting and start asking what they wanted; what it leaves
@@ -353,7 +358,7 @@ against the primary text before you finalise.
   minutes each).
 - Graded deliverables including the self-assessment step: about 45
   minutes total (estimate, labelled per deliverable):
-  reversal-application deliverable about 20 minutes, comparison
+  contrast-application deliverable about 20 minutes, comparison
   deliverable about 10 minutes, chapter-reading deliverable about 15
   minutes.
 
@@ -397,6 +402,6 @@ remain on attached sources.
 | Outcome | Taught in | Practised in | Assessed in |
 |---|---|---|---|
 | 1 Name a chapter's move | Step 1 three worked chapters; Step 3 comparison | Retrieval activity 2 | Rubric criterion 3 (chapter-reading deliverable) |
-| 2 Apply the reversal to a case | Step 1 taught; Step 2 worked demonstration | Retrieval activity 1 | Rubric criterion 1 (reversal-application deliverable) |
+| 2 Apply an examined contrast to a case | Step 1 taught; Step 2 worked demonstration | Retrieval activity 1 | Rubric criterion 1 (contrast-application deliverable) |
 | 3 Compare two readings | Step 3 comparison taught with chapter 28 | Graded deliverable b drafting in Step 3 | Rubric criterion 2 (comparison deliverable) |
 | 4 Independent guided reading | Step 4 assignment with the m1 structure recalled | Retrieval activity 2; the five-part work in Step 4 | Rubric criterion 3 (chapter-reading deliverable) |

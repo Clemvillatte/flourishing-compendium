@@ -625,3 +625,39 @@ pushed this pass:
 Prose recounted after the round-2 edits: 2,287 words measured;
 workload prose allowance unchanged at 38 minutes with the multiplier;
 total unchanged at about 2 hours 20 minutes (about 139 minutes).
+
+## m2 advisor QC round 3 repairs (2026-10-26, worker-pplx-degdaosim-1026a)
+
+Round 3 returned one consistency repair: the round-2 correction to
+Step 1 had not propagated through the module, and the same
+unsupported formula survived in Outcome 2 and in the Step 2 worked
+example. Both applied and pushed this pass:
+
+1. Outcome 2 rewritten: "the Daodejing's central reversal (the low,
+   the dark, the formless and the unnamed as the source of what you
+   value)" replaced with "a contrast examined in one assigned
+   chapter", with the application explicitly distinguished from what
+   the passage says.
+2. The Step 2 worked example rewritten: "the Daodejing's reversal
+   says the source of what you value is the thing you dismiss"
+   replaced with the hypothetical-example framing; treating
+   exhaustion as information is now stated as this module's proposed
+   application, not advice the Daodejing explicitly gives.
+
+The correction was also propagated through the remaining places the
+formula survived or where the naming was inconsistent: the module
+opening, the Step 2 header and worked-example framing, the
+Retrieval activity 1 instruction, the deliverable-a name and
+description (contrast-application deliverable), rubric criterion 1
+and its strong example, the workload deliverable name, and the
+alignment-map row for Outcome 2. The Step 1 opening and the
+water-chapter lead-in were also softened to say several chapters
+make the move rather than that the move runs through the whole
+text. Chapter-description uses of "reversal" (the chapters' own
+content: chapter 11 names the reversal, chapter 36 applies it to
+power) were left in place because they describe what the opened
+chapters actually say.
+
+Prose recounted after the round-3 edits: 2,291 words measured;
+workload prose allowance unchanged at 38 minutes with the multiplier;
+total unchanged at about 2 hours 20 minutes (about 139 minutes).
