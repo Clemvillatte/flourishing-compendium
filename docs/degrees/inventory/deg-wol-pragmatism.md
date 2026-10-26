@@ -22,7 +22,7 @@ A fourth (Stanford Online "Truth in Action: The Philosophy of American Pragmatis
 The three syllabi triangulate: Duke gives the classical canon (Peirce → James → Dewey → Rorty), UCSD gives the broadest contemporary sweep (Carnap/Quine → Putnam/Sellars → Rorty/Brandom → Misak/Seigfried → Apel/Habermas → Chang/Price), Georgetown gives the thematic questions (truth, value, fact/value, religion, free will, law). The union below is the pragmatist-walk-of-life curriculum.
 
 ### A. Origins and orientation
-- What is pragmatism; the pragmatic maxim; American intellectual roots (Emerson, the Metaphysical Club) [UCSD wk 1; Duke wk 1; Georgetown themes]
+- What is pragmatism; the pragmatic maxim [UCSD wk 1; Duke wk 1; the pragmatic maxim is in Duke wk 3 and UCSD's Peirce readings; Georgetown themes]. [RETURN clause resolved per the deep-audit receipt deg-arch-d1-pragmatism-deep-audit-archpsych-1027a.md: the "Emerson, the Metaphysical Club" half-row is NOT carried by any of the three cited brackets (UCSD wk 1 is topic selection only; Duke wk 1 has no readings; the Georgetown description does not mention Emerson or the Club) — dropped from this row per the spec's off-matrix-content rule; the American-intellectual-roots context is general knowledge, not syllabus-derived, and must be sourced against an opened source at D2 before it can be a module row]
 - Pragmatism as theory, methodology, and/or ideology — the framing question [UCSD course title]
 
 ### B. Peirce
