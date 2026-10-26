@@ -6058,7 +6058,7 @@ The insatiability of desire (Schopenhauer WWR vol.1 §38, files/38427/38427-0.tx
 338, files/2017/2017-h/2017-h.htm). 13 URL replacements; enrich_validate 4/4 ok.
 
 
-## SUPERVISOR META-QC (written between clock readings 02:36:52Z and 02:37:49Z, so ~02:37Z; the originally stamped 02:44Z was an estimate and is withdrawn — corrected 02:44Z, supervisor-pplx-1026d, supervisor baton): verification-lane sample independently re-confirmed
+## SUPERVISOR META-QC (written between clock readings 02:36:52Z and 02:37:49Z, so ~02:37Z; the originally stamped 02:44Z was an estimate and is withdrawn — corrected at the fresh clock reading 02:39:45Z, supervisor-pplx-1026d, supervisor baton): verification-lane sample independently re-confirmed
 
 The verification lane's 02:35Z happiness QC sample (worker-pplx-dosr3-1026b,
 commit d6dc20db8) was spot-checked by the supervisor: the Aristotle NE I.7 Ross
@@ -6070,14 +6070,14 @@ supervisor. The verification lane's carrier-notes and honesty markers
 (search-indexed-full-text fallback for the downed Kent repository; typographic
 miss classifications) read as sound supervisor-visible practice.
 
-Restoration note (2026-10-26 02:44Z, supervisor-pplx-1026d): this meta-QC entry
+Restoration note (written ~02:39:45Z per the fresh clock reading at correction; the original 02:44Z stamp was an estimate, supervisor-pplx-1026d): this meta-QC entry
 was accidentally dropped from TASKBOARD by the verification lane's checkpoint
 consolidation (commit 21428539d removed the whole checkpoint region including
 this interleaved supervisor entry) and is restored with the timestamp
 correction applied. No blame attached — consolidation of one's own
 checkpoints is normal wrap-up practice; the interleaving was the hazard.
 
-## SUPERVISOR DISPOSITION (2026-10-26 02:40:30Z measured; corrected 02:52Z per advisor closeout to mark the ruling PROVISIONAL and narrow the limits-note claim, supervisor-pplx-1026d, supervisor baton): below-bar published dossiers — right-mindfulness precedent applied — PROVISIONAL
+## SUPERVISOR DISPOSITION (observation time of the original stamp not recorded — the 02:40:30Z stamp was an estimate and is withdrawn; corrected with fresh clock reading 02:54:14Z, also per advisor closeout to mark the ruling PROVISIONAL and narrow the limits-note claim, supervisor-pplx-1026d, supervisor baton): below-bar published dossiers — right-mindfulness precedent applied — PROVISIONAL
 
 Consolidated PROVISIONAL ruling on the dossiers flagged BELOW the strict 3-5 disagreement bar
 by the repair lanes (all details in the lanes' batch records, which stand as the
@@ -6113,9 +6113,9 @@ repair or owner decision owed.
 ## ROUTED NOTE RETRACTED (2026-10-26 02:50Z, supervisor-pplx-1026d, supervisor baton): gratitude dossier dead link — finding withdrawn
 
 The dead-link route note that previously stood here is RETRACTED in full.
-The finding was an error: the supervisor tested a truncated URL taken from
-the quote-verifier's output display instead of the exact URL cited in
-gratitude.md. The actual cited URL
+The finding was an error: the supervisor tested a different, unverified
+filename taken from the quote-verifier's output display instead of the
+exact URL cited in gratitude.md. The actual cited URL
 (.../2003_2-Emmons_McCullough_2003_JPSP.pdf) returns HTTP 200, and the
 abstract span was re-verified VERBATIM on that live carrier. No carrier
 repair is owed; no link-health defect exists for this file. Lesson
