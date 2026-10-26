@@ -1,3 +1,12 @@
+## Worker checkpoint (2026-10-26 15:38Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+NINETEENTH QC SAMPLE (taper window): right-mindfulness.md and
+shame-and-guilt.md. Both: dossier_check OK. right-mindfulness: 28
+checked / 0 not found — fully clean. shame-and-guilt: 35 checked / 9
+not found — nine left flagged for the next verification pass (taper
+time-box; the one shown is a PMC span of the recaptcha class). No
+dossier text changed. Files touched: this checkpoint only.
+
 ## Worker checkpoint (2026-10-26 15:34Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 EIGHTEENTH QC SAMPLE (taper window): right-view.md and wisdom.md.
