@@ -546,3 +546,52 @@ described as measured on normalized raw wikitext of the page, and
 the counted segments were checked to contain no residual wiki
 markup. STATUS: m2 remains DRAFT, NOT CLEARED; next step is
 supervisor module-QC.
+
+## m3-truth-and-the-will-to-believe production (2026-10-26, clock 05:04:19Z measured, worker-pplx-pragmatism-1026b, deg-wol-pragmatism baton)
+
+Sources opened for m3: (1) The Will to Believe (James 1896,
+Wikisource, public domain): the page's raw wikitext was pulled
+directly and the assigned contiguous passage measured on it between
+pinned boundaries (from "They may be (a) living or dead; (b) forced
+or avoidable; (c) momentous or trivial" through the thesis passage
+"decide an option between propositions, whenever it is a genuine
+option that cannot by its nature be decided on intellectual
+grounds", 2,523 words). (2) Pragmatism: A New Name for Some Old Ways
+of Thinking (James 1907, Wikisource, public domain), Lecture II: the
+page's rendered text was extracted via the site's parse API and two
+assigned passages measured on it (from "To take in the importance of
+Peirce's principle" to "make nature over again by their aid", 957
+words; from "I am well aware how odd it must seem" to "our duty would
+be to shun truth, rather", 266 words). All quoted passages in the
+module were checked verbatim against the page texts
+programmatically; two mis-transcribed fragments in the momentous-
+option sentence (an omitted word and an invented phrase) were caught
+by that check and corrected to the essay's exact wording before this
+push. (3) Misak, Cambridge Pragmatism (Royal Institute of Philosophy
+lecture series, YouTube c_Nxr3ZQxqA): video-first search found this
+lecture covering the Peirce-James-Ramsey line; identity and channel
+confirmed by the platform oembed response this session; duration
+51:57 from the platform listing; playback and caption inspection
+blocked by the YouTube bot-check documented in the m1 record, so
+the video is attached as candidate with verification incomplete,
+routed to supervisor module-QC with the m1 media items; instructor
+credentials verified on the University of Toronto philosophy
+department's institutional directory page (University Professor;
+research includes pragmatism and Ramsey; Cambridge Pragmatism book
+listed), NOT on the host description.
+
+m3-truth-and-the-will-to-believe.md written to the
+curriculum-design skill standard: four outcomes (James's method and
+truth account with the qualifier; the genuine-option test applied to
+the learner's own decision; the objection-and-constraint pattern
+with a position; the Ramsey line from the lecture), instruction in
+five steps with assigned readings and lecture pinned and
+word-counted, a worked example with fading over stipulated cases
+(labelled as constructed for teaching), retrieval activity, four
+observable rubric criteria with strong and rejection examples,
+workload arithmetic (3,746 words at 130 wpm with 3x overhead
+labelled estimate, 51:57 lecture, total about 230 minutes of
+labelled components), the bounded-domain statement, the alignment
+map, and the verification status of the three attached sources.
+STATUS: DRAFT, NOT CLEARED; awaits advisor QC and supervisor
+module-QC.

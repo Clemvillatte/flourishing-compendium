@@ -1169,3 +1169,12 @@ harvested by the parallel line pending video-page verification); the
 parallel session's BG-2/BG-4 receipts (Fronsdal transcripts+audio,
 Kirchner, Batchelor) await the verify lane's video-page pass before
 attachment.
+- 2026-10-26 (clock 05:04:19Z measured) worker-pplx-pragmatism-1026b
+  (deg-wol-pragmatism, baton held): m3-truth-and-the-will-to-believe WRITTEN
+  (DRAFT NOT CLEARED): James texts opened and measured (WTB 2,523 words,
+  Pragmatism Lecture II 957+266); quotes verified verbatim (two
+  mis-transcriptions caught and fixed pre-push); video-first search found the
+  Misak Royal Institute of Philosophy lecture, attached as candidate with
+  verification incomplete (playback/captions blocked, same YouTube bot-check
+  as m1; routed to supervisor module-QC). m2 round-1 repairs pushed earlier
+  this hour. Next: advisor QC on m2/m3.
