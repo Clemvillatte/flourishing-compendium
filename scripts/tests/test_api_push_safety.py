@@ -171,6 +171,23 @@ class PushSafetyTests(unittest.TestCase):
             self.assertEqual(api_push.main(), 0)
             call.assert_not_called()
 
+    def test_committed_conflict_markers_never_reach_network_api(self):
+        def output(args, **kwargs):
+            return "local\n" if args[-1] == "HEAD" else "remote\n"
+
+        def run(args, **kwargs):
+            bad = any(str(item).endswith("check_conflict_markers.py") for item in args)
+            return subprocess.CompletedProcess(args, 1 if bad else 0,
+                                               stdout="", stderr="marker found" if bad else "")
+
+        with patch.object(api_push, "git_ready_for_push", return_value=True), \
+                patch.object(api_push.subprocess, "check_output", side_effect=output), \
+                patch.object(api_push.subprocess, "run", side_effect=run), \
+                patch.object(api_push, "api_call") as call, \
+                patch.object(api_push.sys, "argv", ["api_push.py", "1"]):
+            self.assertEqual(api_push.main(), 1)
+            call.assert_not_called()
+
 
 if __name__ == "__main__":
     with contextlib.redirect_stdout(io.StringIO()):

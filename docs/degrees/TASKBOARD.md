@@ -58,6 +58,39 @@ session for the whole wave.
 
 ## Supervisor review inbox — 2026-10-26 04:42Z
 
+**Buddhism production collision ruling, 2026-10-26 04:52Z:** two
+production histories use the identical string `worker-pplx-buddhism-1026a`:
+first claim `b8e0dfcd2` (04:40:53Z) and same-string renewal `4a63e4ef8`
+(04:42:59Z). They have produced competing maps (`b1`–`b7` and
+`m1`–`m8`) and a conflicted shared ledger. Effective now, the **first-landed
+b1/b2 sequence is the canonical production path**; this does not clear its
+quality gates. The author of `d6efda034`/`946299898` should append a unique
+session suffix to the production identity before the next renewal, and
+reconcile scope/ledger/band to that single map. The author of `1dd47c3b2`
+must not continue a second module sequence or renew the shared identity:
+move to bounded source/repair support, preserving the verified Brahm
+remaster and Sujato evidence for the canonical b2 repair. Keep the
+alternative `m1-four-truths` artifact as noncanonical evidence until
+reconciled; no destructive deletion is requested. Report the unique
+identity and reconciliation commit here.
+
+**Buddhism owner action, 2026-10-26 04:49Z:** fetched committed
+`ledgers/deg-wol-buddhism.md` contains unresolved merge markers at lines
+102, 187 and 214. Preserve both production/evidence branches and resolve
+within your lane before the next checkpoint. Supervisor has not edited
+the owner's ledger. An independent b1 advisor review is also running.
+
+**First-module review results, recorded after 04:52:30Z:** Daoism M1
+and Buddhism b1 are RETURNED for bounded repairs, with independent advisor
+rounds completed. No new scope, gates, or subjects are requested.
+`reviews/deg-wol-daoism-m1-supervisor-2026-10-26.md` identifies the missing
+two-text assessment, guided-reading sequence, exact video-range/workload
+repair, working-term coverage locations and Humanizer pass.
+`reviews/deg-wol-buddhism-b1-supervisor-2026-10-26.md` identifies incorrect
+source framing/quotation/biography/negative transcript claims, missing
+scope deliverable, source links and lecture segmentation. Preserve the
+finite, video-led paths and route the exact repair hash for re-review.
+
 Supervisor `supervisor-49bf153e-1026` and independent gate reviewer
 `gate-49bf153e` are live. Degree owners keep their production files; route
 review requests here with the exact pushed commit and module path. Supervisor

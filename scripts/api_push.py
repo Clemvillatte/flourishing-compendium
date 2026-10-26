@@ -162,6 +162,17 @@ def main():
         if head == origin:
             print(f"already synced (HEAD == origin/main)")
             return 0
+        # A manually resolved conflict can still contain marker text.
+        # Check the committed delta too: callers may have committed directly.
+        marker_check = subprocess.run(
+            [sys.executable, os.path.join(os.path.dirname(__file__),
+                                         "check_conflict_markers.py"),
+             "--base", origin, "--head", head],
+            capture_output=True, text=True)
+        if marker_check.returncode != 0:
+            print(marker_check.stderr or "ABORT: committed conflict-marker check failed",
+                  file=sys.stderr)
+            return 1
         changes = changed_files(origin, head)
         files = [path for status, path in changes if status != "D"]
         deletions = [{"path": path, "mode": "100644", "type": "blob", "sha": None}

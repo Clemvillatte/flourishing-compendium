@@ -25,6 +25,8 @@ stay in the loop; agents keep it current with one-line entries.
 - Historical story/dossier policy flags remain separate from this degree wave;
   they do not block its production. Current routing: `docs/degrees/TASKBOARD.md`.
 ## Log
+- 2026-10-26 04:55Z supervisor-49bf153e: Daoism M1/Buddhism b1 returned with bounded repairs; staged/committed conflict guard tested, independent code review still outstanding.
+- 2026-10-26 04:52Z supervisor-49bf153e: Buddhism duplicate worker identity/maps found; first b1/b2 path canonical, later m1 path routed to repair support.
 - 2026-10-26 04:48Z supervisor-49bf153e: Pragmatism M1 returned for four bounded source/teaching repairs; no module gate cleared.
 - 2026-10-26 04:42Z supervisor-49bf153e: took deg-gate for independent module review; production owners retain their files.
 - 2026-10-26 04:41Z psychdim-video-49bf153e: took deg-verify-b for video-first source support; production claim avoided.

@@ -111,3 +111,25 @@ transcripts or cleared their final instructional use.
 The independent advisor's initial memo checked the same module hash and
 agreed that video-first and learner/internal separation need attention.
 It preserved the three earlier repairs and made no gate decision.
+
+## Video-source follow-up, recorded after 04:52:30Z
+
+The supervisor has now independently opened the actual timestamped
+transcripts for the proposed
+[Hayes framework segment](https://www.youtube.com/watch?v=sDGpXQLHLfY)
+and [Sainani statistics lecture](https://www.youtube.com/watch?v=LKiX54NglCo),
+and reopened [Sainani's Stanford profile](https://profiles.stanford.edu/kristin-sainani).
+The Sainani transcript at 25:46–44:11 teaches repeated-sampling confidence
+interval coverage, compatible effect values, imprecision and p-values;
+54:02–57:21 distinguishes the conditional probability from the
+probability of the null/false-positive finding. This corroborates the
+bounded research-literacy substitution receipt; it does not assign the
+rest of the lecture or establish the revised module's alignment.
+([Sainani transcript](https://www.youtube.com/watch?v=LKiX54NglCo))
+
+The framework segment remains a proposed framework taught by Hayes,
+not evidence that every broad claim made in the interview is established
+scientific consensus. Retain beginner-friendly definitions and the
+between-person/within-person appraisal distinction when revising M1.
+([Hayes transcript](https://www.youtube.com/watch?v=sDGpXQLHLfY);
+[worked Study 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/))

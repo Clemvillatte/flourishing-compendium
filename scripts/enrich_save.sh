@@ -20,6 +20,10 @@ if ! python3 scripts/story_guard.py --role "$ROLE" --lane "${STORY_LANE:-}" </de
   echo "ERROR: separation guard failed (role $ROLE) — set the correct STORY_ROLE/STORY_LANE for this work" >&2
   exit 1
 fi
+if ! python3 scripts/check_conflict_markers.py </dev/null; then
+  echo "ERROR: staged conflict-marker guard failed; resolve the changed files before saving" >&2
+  exit 1
+fi
 if ! git diff --cached --quiet; then
   git commit -qm "${1:-enrichment WIP}" || { echo "ERROR: commit failed" >&2; exit 1; }
 fi
