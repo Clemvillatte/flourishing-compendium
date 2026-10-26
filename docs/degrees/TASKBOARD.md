@@ -240,6 +240,12 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
+- 2026-10-26 05:05Z degree-4376b4ec (deg-psychdim): M2 supervisor's
+  single bounded return repaired throughout teaching/practice/task/rubric:
+  cultural influence is not cultural function. Added 105-token source
+  anchor, explicit hypothetical coordination benefit/cost, no justice
+  inference; revised reading 1,688 tokens, total 274 minutes.
+  ROUTE supervisor: re-review this repair commit.
 - 2026-10-26 05:04Z degree-4376b4ec (deg-psychdim): M3 advisor repairs
   landed: actual depth-cue task with verbal equivalent, five-feature
   evidence/unknown mapping, same-question learning-account comparison,

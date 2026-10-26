@@ -72,7 +72,9 @@ The short reading assignments are:
   "Emotional Expressions Facilitate Specific Behaviors in Perceivers."
   Then read from "Cultural transmission of the meaning and information
   system" through "culture also influences how people experience them
-  as well" in "Social and Cultural Functions of Emotion." About 385
+  as well" in "Social and Cultural Functions of Emotion." Also read the
+  next paragraph's first three sentences, from "Because one of the major
+  functions" through "once we have them." About 490
   words, not the whole module
   ([Noba text](https://nobaproject.com/modules/functions-of-emotions)).
 - **Barrett and colleagues, 2025:** read the Abstract and the single
@@ -114,6 +116,20 @@ not approving every action taken with it. Likewise, describing a display
 rule does not make the rule just or require compliance; that is a further
 ethical judgment.
 
+Separate cultural influence from cultural function. A shared norm shaping
+Amira's expression is an influence on her. A possible role of patterned
+expressions in maintaining expectations or coordination is a cultural
+function. Hwang and Matsumoto propose that emotion norms help sustain
+social order; that is their broad functional account, not proof that
+every norm is beneficial or every culture works identically
+([assigned closing excerpt](https://nobaproject.com/modules/functions-of-emotions)).
+
+In our hypothetical team, restrained public replies might help preserve
+a predictable way to coordinate a presentation. The same pattern could
+make contributors reluctant to challenge unfair editing. That is a
+possible function and cost of a shared pattern, beyond merely observing
+that a rule shapes Amira's reply. Maintaining a norm is not justifying it.
+
 One caution travels with the Noba reading. Its account gives expressions
 communicative value, but a communicative cue is not a transparent readout
 of another person's inner state. Barrett disputes simple, universal
@@ -134,11 +150,15 @@ Then use Amira's case to distinguish the three levels yourself.
 Add this fictional condition: her team has an explicit norm that concerns
 are discussed privately rather than in the presentation chat. Name an
 intrapersonal function, an interpersonal function and that cultural
-influence; give one possible benefit and one cost of replying sharply.
+influence. Then distinguish a possible cultural function of the shared
+pattern, with one benefit and one cost; naming the rule alone is not enough.
 Feedback: anger may focus her priority within the person; a sharp reply
 may signal displeasure between people; the team's learned display norm
 shapes what expression is considered acceptable. A benefit could be making
 the boundary visible, a cost an accusation before checking the edit.
+At the cultural level, predictable restrained expression might support
+coordination while discouraging justified challenge. That proposed
+function/cost is different from the norm influencing one person's reply.
 The local norm is stipulated for this case, not a claim about every
 workplace or national culture. Your examples may differ if the three
 levels and the uncertainty remain distinct.
@@ -327,8 +347,11 @@ fictional case with equally explicit circumstances. Include:
   and at least one unknown, with no assumed mind-reading. Link affect
   to one other M1 dimension and explain the link without asserting
   a demonstrated causal direction.
-- **Functions:** intrapersonal, interpersonal and cultural possibilities,
-  including a possible benefit and cost of the response.
+- **Functions:** intrapersonal and interpersonal functions, then the
+  distinction between a norm influencing Jo's expression and a possible
+  cultural function of the shared expression pattern. Include its
+  hypothetical benefit and cost; do not infer that maintaining a norm
+  makes it just.
 - **Accounts:** the two explanatory questions, allostasis in the
   construction account, a source attribution and an unresolved issue.
 - **Decision:** all five strategy families, two plausible options for
@@ -342,7 +365,7 @@ no memorised quotation is required.
 
 | Criterion | Pass | Return for revision |
 |---|---|---|
-| Functions | Correctly distinguishes three levels with case-specific benefit/cost. | Three synonyms for feeling, no cultural influence, or a claim that function makes every action good. |
+| Functions | Distinguishes intra/interpersonal functions and cultural influence from cultural function, with hypothetical coordination/maintenance benefit and cost. | Only names a display rule, assumes maintenance means justice, or treats any action as good because it has a function. |
 | Accounts | Distinguishes the explanations; accurately defines allostasis as anticipatory regulation in TCE; attributes the controversy. | "Biology versus imagination," allostasis as only return to a fixed set point, or a settled-theory claim. |
 | Regulation | Names all five families and classifies examples; choice fits timing, goal and stated circumstances. | Only "think positively," no distinction between feeling and behaviour, or a universal best-family rule. |
 | Flexibility and evidence | Names a specific revision condition and an actual review limit; does not infer personal efficacy. | "Depends on context" without a condition, or a claim that the review tests this plan. |
@@ -365,9 +388,9 @@ or more emotional disclosure.
 
 - **Videos:** 9:06 + 18:29 + 6:52 = **34:27**; allow 15 minutes for
   pauses and notes, about **50 minutes**.
-- **Assigned external reading:** about 1,600 words across the short
+- **Assigned external reading:** about 1,700 words across the short
   selections. At 130 words per minute and three times raw reading for
-  annotation, allow about **37 minutes**.
+  annotation, allow about **39 minutes**.
 - **This lesson's teaching:** allow **35 minutes** to read the
   explanations and tables carefully; the separate activities below are
   not part of that allowance.
@@ -377,7 +400,7 @@ or more emotional disclosure.
 - **Delayed retrieval and correction:** **20 minutes**.
 - **Assessment, self-check and one revision:** **65 minutes**.
 
-Total: **about 4 hours 30 minutes** (272 estimated minutes). Transcript
+Total: **about 4 hours 35 minutes** (274 estimated minutes). Transcript
 reading substitutes for watching the same assigned window; it is not
 an additional compulsory task. Optional wider reading is outside this
 total. None of these planning estimates is a measured completion time.

@@ -2675,6 +2675,22 @@ Requested nonblocking alignment-map wording repair applied: three stale
 agent's decision; no degree, readiness, integration or publication gate
 is inferred. M2/M3 remain draft.
 
+M2 supervisor bounded return consumed and repaired at 05:05Z:
+`reviews/deg-psychdim-m2-supervisor-2026-10-26.md`, reviewed module
+SHA-256 **6fce6623b8165a416d5e6afab5f8adff6fd9e26bc7d555df1aa50e754ef30377**.
+The module now explicitly distinguishes cultural influence on expression
+from a possible cultural function of patterned expression (coordination/
+shared expectations), gives hypothetical function/cost in Amira, and
+requires the distinction in practice, final instructions and rubric.
+No universal social-order law or norm-is-just inference. Added only the
+first three sentences of Noba's closing cultural paragraph, from
+"Because one of the major functions" through "once we have them":
+**105** new tokens, freshly opened/read/count measured; full reading
+**1,688**, triple raw at 130 wpm = 38.95, rounded **39 minutes**.
+Total supersedes 272 with **274 minutes**. Added short teaching/practice
+fits the existing 35-minute teaching/check allocations; no extra task.
+([Opened Noba passage](https://nobaproject.com/modules/functions-of-emotions).)
+
 M3 advisor round 1 repairs applied at 05:04Z. Four bounded findings:
 visual-cue assessment, explicit five-feature RNT application, same-question
 L2 account comparison, and binding lived transfer. Added a worked Ponzo
