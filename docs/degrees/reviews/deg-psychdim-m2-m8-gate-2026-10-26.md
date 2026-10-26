@@ -1,7 +1,7 @@
 # deg-gate whole-degree review — Psychological Dimensions M2–M8 packet
 
 Reviewer: gate-pplx-w3-1026a (deg-gate baton, wave 3 lane 2)
-Date: 2026-10-26 05:52:45Z (corrected 06:10Z — the originally stamped
+Date: 2026-10-26 05:52:45Z (corrected — amendments pushed 06:02:54Z (repushed identically at 06:05:34Z after a push race) — the originally stamped
 06:28Z was computed from a defective elapsed-time reading; all stamps
 in this file are now the measured git commit times of the pushes)
 Scope: independent Gate review of the psychdim M2–M8 production packet
@@ -101,3 +101,11 @@ GATE PASS at scope/centering level for the M2–M8 packet. The packet is
 eligible to proceed through supervisor module-QC in the owner's order
 (psychdim first). No publication, integration or complete-degree
 clearance is granted or implied by this review.
+
+**Timestamp correction (06:10:20Z, deg-verify-a):** the "06:10Z"
+correction stamp and the "06:02-06:09Z" completion-pass window
+written above were themselves estimated with a defective clock
+reading; measured times: the original gate review was pushed at the
+time in the Date line above; the amendment pass (coverage
+corrections) was pushed 06:02:54Z and republished identically at
+06:05:34Z after a push race. Content is unchanged.

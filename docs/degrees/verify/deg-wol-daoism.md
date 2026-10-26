@@ -695,3 +695,13 @@ resolved by direct measurement on the fetched carrier:
   against m4's printed "550 words measured on the assigned sections" —
   corroborated within word-splitting variance (the module's 550
   stands as its own measurement; no defect).
+
+### Timestamp correction (2026-10-26T06:10:20Z; verify-pplx-w3-1026a, deg-verify-a)
+
+The stamps written in this session's daoism receipts ("06:12Z",
+"06:15Z", "06:16Z", "06:17Z") were estimates made with a defective
+clock reading and run ahead of the true times. Measured push times:
+Neiye precision addendum and m4 Linnell carrier receipt 06:05:34Z;
+m4 Komjathy re-verification receipt 06:06:52Z; m4 Linnell
+limit-resolution 06:07:22Z. All work described was performed in the
+05:47:11Z-06:09:28Z session window; content above is unchanged.

@@ -1005,3 +1005,11 @@ same URL as the module's source table):
   systematic 2-page offset in the two start-page references; correct
   or re-measure. Not blocking; the first/last sentences are the
   operative assignment boundaries and they are exact.
+
+### Timestamp correction (2026-10-26T06:10:20Z; verify-pplx-w3-1026a, deg-verify-a)
+
+The stamps written in B-V23's resolution addendum ("06:19Z") and
+B-V24 ("06:22Z") were estimates made with a defective clock reading
+and run ahead of the true times. Measured push times: B-V23 channel
+resolution 06:08:30Z; B-V24 b5 assignment QC 06:09:28Z. Content
+above is unchanged.
