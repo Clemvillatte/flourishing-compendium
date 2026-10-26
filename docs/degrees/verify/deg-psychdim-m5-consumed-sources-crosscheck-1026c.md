@@ -41,11 +41,13 @@
    Policy). The opened watch page prints upload date **Jan 13, 2017**
    (match) and duration **53:31** — one-second render disagreement
    with the audit's 53:32, recorded not adjudicated. **Boundary
-   discrepancy between the audit and the module, resolved in the
-   module's favor on chapter evidence**: the audit assigns
+   discrepancy between the audit and the module, recorded as
+   found (not adjudicated here)**: the audit assigns
    10:07–14:14 (4:07, "stop before the participant case"); the module
    assigns **10:07–13:31** (3:24, "stop before the participant's
-   negative-childhood interview example"). The watch page prints
+   negative-childhood interview example"). The module's 13:31
+   appears one second after a printed chapter start; the audit's
+   14:14 does not coincide with any printed chapter. The watch page prints
    chapters at **10:07 "Understanding narrative identity"** and
    **13:30 "Themes of narrative identity"**: the module's start is
    exactly the printed chapter start, and its end is one second after
@@ -79,7 +81,8 @@ audit's upload dates; durations match except two one-second render
 disagreements (lecture 16: 58:14 vs 58:15; McAdams: 53:31 vs 53:32),
 recorded not adjudicated. One boundary discrepancy between the audit
 receipt and the module (McAdams 14:14 vs 13:31) is flagged above with
-chapter evidence favoring the module's version. One window is not
+the chapter evidence recorded (the module's end is chapter-anchored,
+the audit's is not); the owner is asked to confirm the intent. One window is not
 chapter-anchored (Little), recorded as found. The module's video
 arithmetic (34:53 total) was recomputed and is correct. Content-level
 claims inside the windows (what is said) were not re-checked here;
