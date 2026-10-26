@@ -1,8 +1,8 @@
 # deg-wol-daoism — Phase D1 discipline inventory
 
 **Owner**: worker-pplx-degarchinv-1026a (baton `deg-arch-inventory-wolx5`)
-**Built**: 2026-10-26 (T0 13:00:46 UTC, elapsed ~00:45)
-**Status**: D1 topic map — COMPLETE. D2 resource pool — NOT STARTED (checkpoint required before D3).
+**Built**: 2026-10-26 (T0 13:00:46 UTC; last clock reading 13:04:29 UTC = elapsed 223s at last save)
+**Status**: D1 topic map — DRAFT, evidence audit pending (advisor QC round 1 flagged corpus and status issues; corrections being applied). D2 resource pool — NOT STARTED (checkpoint required before D3).
 **Scope**: per docs/degrees/CURRICULUM-ARCHITECTURE-1026.md — a degree means exhaustive foundational coverage of the discipline (the Daoist walk of life), ≥100 measured hours, ≥10 modules, each module ≥6h with ≥3 distinct sources, teaching layer binding on every primary text.
 
 ## Centering clause (owner 2026-10-26)
@@ -65,6 +65,8 @@ The three syllabi agree on the same skeleton: (a) what Daoism is and its Warring
 - Daoist monastic life; Daoists of Peking; the modern clergy [UF wk 12]
 
 ## Coverage matrix (topic → module that will teach it)
+
+EVIDENCE CAVEAT (advisor QC round 1): the MISSING / PARTIAL / under-scaled labels below are derived from the DRAFTED-MODULE state described in the pipeline and integration docs, NOT from a fresh file-by-file comparison against the current module files. Before the D2 checkpoint consumes this matrix, a fresh read of the current module docs and manifests must confirm each label; any label that does not survive that comparison is corrected at D2, not here. The "proposed module" column is a numbering proposal, not a decision.
 
 The module numbering below is PROPOSED for the D2 checkpoint review; the existing mod-dao-1..5 modules will be re-cut and expanded against this matrix, not preserved as-is. The existing degree's ~2h of instruction against this ~100h standard is exactly the Daoism gap the owner flagged.
 

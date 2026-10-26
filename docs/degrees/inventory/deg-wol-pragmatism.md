@@ -1,8 +1,8 @@
 # deg-wol-pragmatism — Phase D1 discipline inventory
 
 **Owner**: worker-pplx-degarchinv-1026a (baton `deg-arch-inventory-wolx5`)
-**Built**: 2026-10-26 (T0 13:00:46 UTC, elapsed ~01:05)
-**Status**: D1 topic map — COMPLETE. D2 resource pool — NOT STARTED (checkpoint required before D3).
+**Built**: 2026-10-26 (T0 13:00:46 UTC; last clock reading 13:05:29 UTC = elapsed 283s at last save)
+**Status**: D1 topic map — DRAFT, evidence audit pending (advisor QC round 1 flagged instructor-metadata and status issues; corrections applied this pass). D2 resource pool — NOT STARTED (checkpoint required before D3).
 **Scope**: per docs/degrees/CURRICULUM-ARCHITECTURE-1026.md — a degree means exhaustive foundational coverage of the discipline (the pragmatist walk of life), ≥100 measured hours, ≥10 modules, each module ≥6h with ≥3 distinct sources, teaching layer binding on every primary text.
 
 ## Centering clause (owner 2026-10-26)
@@ -11,7 +11,7 @@ Every topic and every resource below must serve the value proposition — allevi
 
 ## University syllabi opened (the D1 corpus — 3, all fetched and read this session)
 
-1. **Duke University, "Phil 678S Pragmatism, Fall 2022, Instructor: David H. He" (public reading list)** — https://public.econ.duke.edu/~kdh9/Courses/Pragmatism/ReadingList.htm — 13-week graduate seminar covering Peirce (belief, pragmatism, metaphysics), James (early thought, Pragmatism, truth), Dewey (introduction, inquiry, normative), and Rorty + Putnam/Price on recent work. Full week-by-week table read this session.
+1. **Duke University, "Phil 678S Pragmatism reading list (course website), Fall 2022"** — https://public.econ.duke.edu/~kdh9/Courses/Pragmatism/ReadingList.htm — 13-week graduate seminar reading list (instructor NOT stated on the page itself; the course code, dates Sept 1–Dec 1 2022, and reading structure are on the page; readings served via Duke Box to registered students) covering Peirce (belief, pragmatism, metaphysics), James (early thought, Pragmatism, truth), Dewey (introduction, inquiry, normative), Rorty + Putnam/Price on recent work. Full week-by-week table read this session.
 2. **UC San Diego, "Phil 232 Pragmatism: A Theory, Methodology, Ideology? Spring 2025, Instructor: Gila Sher"** — https://hh-philosophy.ucsd.edu/_files/courses/25spring/Sher_Gila_SP25_Phil%20232_Epistemology.pdf — 10-session graduate seminar covering Peirce/James, Dewey/Lewis/Ramsey, Carnap/Quine, Putnam/Sellars, Rorty/Brandom, Misak/Seigfried, Apel, Habermas, Chang/Price — the broadest contemporary-coverage syllabus of the three. Full session schedule + readings read this session.
 3. **Georgetown University, "PHIL 351 American Pragmatism, Professor William Blattner"** — https://faculty.georgetown.edu/blattnew/prag/index.shtml — undergraduate survey of the pragmatist movement; themes: organism-environment-thought-meaning-action, truth and knowledge, James's utilitarian value theory vs Dewey's critique, fact/value distinction, philosophy of religion, free will, philosophy of law. Course description and required texts read this session.
 
@@ -59,17 +59,21 @@ The three syllabi triangulate: Duke gives the classical canon (Peirce → James 
 - Karl-Otto Apel: transcendental pragmatics; discourse ethics [UCSD]
 - Jürgen Habermas: discourse ethics; the pragmatics of communication [UCSD]
 - Hasok Chang + Huw Price: pragmatic realism; truth as convenient friction; naturalism without representationalism [UCSD; Duke wk 13]
-- Susan Haack: foundherentism; the pragmatist theory of truth and its critics [UCSD additional]
+- Susan Haack: foundherentism; the pragmatist theory of truth and its critics [research-queue item — not in the three opened syllabi; flagged for the D2 reviewer to source or drop]
 - Wilfrid Sellars: Empiricism and the Philosophy of Mind [UCSD]
 
 ### G. Applied pragmatism (where the walk-of-life frame bites)
+
+CAVEAT: the named works in this section (Dewey's Common Faith, Democracy and Education, Holmes's legal pragmatism) are named from general knowledge of the tradition, NOT from the three opened syllabi; the syllabi list the THEMES (Georgetown explicitly names philosophy of religion, free will, law as potential consequences) but not these specific texts. The D2 reviewer must source each named text against an opened primary source before it enters a module.
 - Pragmatism and philosophy of religion (James's Will to Believe; Dewey's Common Faith) [Georgetown themes]
 - Pragmatism and free will (James's Dilemma of Determinism) [Georgetown themes]
 - Pragmatism and democracy (Dewey's Philosophy and Democracy; public philosophy) [Duke wk 11]
-- Pragmatism and law (Holmes; legal pragmatism) [Georgetown themes; UT Dallas syllabus surfaced but not opened]
-- Pragmatism and education (Dewey's Democracy and Education) [not in the three syllabi directly; standard Dewey extension]
+- Pragmatism and law (Holmes; legal pragmatism) [Georgetown themes (philosophy of law listed as a potential consequence)]
+- Pragmatism and education (Dewey's Democracy and Education) [research-queue item — not in the three opened syllabi; flagged for the D2 reviewer to source or drop]
 
 ## Coverage matrix (topic → module that will teach it)
+
+EVIDENCE CAVEAT (advisor QC round 1): the MISSING / PARTIAL / under-scaled labels below are derived from the DRAFTED-MODULE state described in the pipeline and integration docs, NOT from a fresh file-by-file comparison against the current module files. Before the D2 checkpoint consumes this matrix, a fresh read of the current module docs and manifests must confirm each label; any label that does not survive that comparison is corrected at D2, not here. The "proposed module" column is a numbering proposal, not a decision.
 
 The module numbering below is PROPOSED for the D2 checkpoint review; the existing mod-prag-1..5 modules will be re-cut and expanded against this matrix, not preserved as-is. The current 3.1h measured is against a ≥100h floor — a ~32x scale-up.
 
@@ -97,7 +101,7 @@ The module numbering below is PROPOSED for the D2 checkpoint review; the existin
 | Pragmatism and democracy + law + education | mod-prag-11 (new) | MISSING | Duke wk 11; Georgetown themes |
 | Capstone (walk-of-life synthesis) | mod-prag-12 (new) | MISSING | per-degree capstone rule |
 
-The proposed module count (12) is above the ≥10 floor; hours per module must land ≥6h with ≥3 sources each at the D2 checkpoint. The "OPTIONAL" rows are the finite-scope calls for the D2 reviewer to rule on, not silent exclusions — the spec's honest-failure rule applies.
+The proposed module count (12) is above the ≥10 floor; hours per module must land ≥6h with ≥3 sources each at the D2 checkpoint, and the degree TOTAL must independently reach ≥100h (10 × 6 = 60 is NOT sufficient — the D2 checkpoint must confirm the total, per the spec). The "OPTIONAL" rows are the finite-scope calls for the D2 reviewer to rule on, not silent exclusions — the spec's honest-failure rule applies.
 
 ## Known gaps (declared, not hidden)
 

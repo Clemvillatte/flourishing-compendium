@@ -1,8 +1,8 @@
 # deg-wol-greek — Phase D1 discipline inventory
 
 **Owner**: worker-pplx-degarchinv-1026a (baton `deg-arch-inventory-wolx5`)
-**Built**: 2026-10-26 (T0 13:00:46 UTC, elapsed ~01:15)
-**Status**: D1 topic map — COMPLETE. D2 resource pool — NOT STARTED (checkpoint required before D3).
+**Built**: 2026-10-26 (T0 13:00:46 UTC; last clock reading 13:06:09 UTC = elapsed 323s at last save)
+**Status**: D1 topic map — DRAFT, evidence audit pending (advisor QC round 1 flagged status issues; corrections being applied). D2 resource pool — NOT STARTED (checkpoint required before D3).
 **Scope**: per docs/degrees/CURRICULUM-ARCHITECTURE-1026.md — a degree means exhaustive foundational coverage of the discipline (the Greek walk of life), ≥100 measured hours, ≥10 modules, each module ≥6h with ≥3 distinct sources, teaching layer binding on every primary text. This degree was PARKED (per PIPELINE-2026-10-26.md) and is being built to this standard from the start — no pilot-scale legacy to reconcile.
 
 ## Centering clause (owner 2026-10-26)
@@ -47,7 +47,7 @@ The three syllabi agree on the classical skeleton: Presocratics → Sophists and
 - Metaphysics: being, substance, the four causes, God (Book XII) [Yale wk 5; Utah wk 10; Moravian wk 4/4]
 - De Anima: soul, perception, intellect [Yale wk 3-5; Utah wk 10; Moravian wk 3/28]
 - Nicomachean Ethics: happiness (eudaimonia), moral and intellectual virtue, the good life [Yale wk 3; Utah wk 11-12; Moravian wk 4/18]
-- Politics and Poetics (as extensions) [Tel Aviv syllabus surfaced but not opened]
+- Politics and Poetics (as extensions) [research-queue item — not in the three opened syllabi; flagged for the D2 reviewer to source or drop]
 
 ### E. Hellenistic schools
 - Epicureanism: pleasure, atomism, the Letter to Menoeceus, Principal Doctrines [Yale wk 4; Utah wk 13]
@@ -78,7 +78,7 @@ The module numbering below is PROPOSED for the D2 checkpoint review. This degree
 | Ancient Skepticism | mod-greek-9 | OPTIONAL | finite-scope call |
 | Capstone (walk-of-life synthesis) | mod-greek-10 (new) | MISSING | per-degree capstone rule |
 
-The proposed module count (10) is exactly at the ≥10 floor; hours per module must land ≥6h with ≥3 sources each at the D2 checkpoint. The "OPTIONAL" rows are the finite-scope calls for the D2 reviewer to rule on, not silent exclusions — the spec's honest-failure rule applies.
+The proposed module count (10) is exactly at the ≥10 floor; hours per module must land ≥6h with ≥3 sources each at the D2 checkpoint, and the degree TOTAL must independently reach ≥100h (10 × 6 = 60 is NOT sufficient — the D2 checkpoint must confirm the total, per the spec). The "OPTIONAL" rows are the finite-scope calls for the D2 reviewer to rule on, not silent exclusions — the spec's honest-failure rule applies.
 
 ## Known gaps (declared, not hidden)
 
