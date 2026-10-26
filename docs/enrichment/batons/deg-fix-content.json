@@ -1,13 +1,19 @@
 {
- "baton": "deg-fix-content",
- "agent": "worker-pplx-degfixcontent-1026a",
- "clocked_in": "2026-10-26T11:40:19+00:00",
- "takeovers": [
-  {
-   "by": "worker-pplx-degfixcontent-1026a",
-   "at": "2026-10-26T11:40:19+00:00",
-   "from": null,
-   "reason": "free"
-  }
- ]
+  "baton": "deg-fix-content",
+  "agent": null,
+  "clocked_in": "2026-10-26T11:40:19+00:00",
+  "takeovers": [
+    {
+      "by": "worker-pplx-degfixcontent-1026a",
+      "at": "2026-10-26T11:40:19+00:00",
+      "from": null,
+      "reason": "free"
+    },
+    {
+      "by": null,
+      "at": "2026-10-26T12:34:08+00:00",
+      "from": "worker-pplx-degfixcontent-1026a",
+      "reason": "released"
+    }
+  ]
 }
