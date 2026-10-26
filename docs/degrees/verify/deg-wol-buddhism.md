@@ -554,3 +554,9 @@ files: b2 line 57 now reads "...to be directly experienced..." (Thanissaro's
 cessation task verb); b3's source table and body now carry
 plumvillage.org/mindfulness/the-5-mindfulness-trainings with a dated
 correction note. Both flags CLOSED.
+
+**B-V12 addendum (2026-10-26T05:12Z):** watch page opened — duration **25:00**
+exact (matches owner's claim), published 2014-07-16, description
+carries "Copyright 2014, Thanissaro Bhikkhu... Creative Commons
+Attribution-NonCommercial 3.0" (matches owner's license claim). b9
+video fully corroborated.
