@@ -15,6 +15,13 @@ rejection of overlap-as-test are now present. The findings below retain
 the audit trail; current residuals are distinguished in the latest
 recheck at the end. This source audit does not clear the module.
 
+The current substantive residual is M1-V07: qualify the missing
+baseline-adherence adjustment for the first path, and give a brief
+beta-scale explanation. The latest recheck also notes the minor
+240-versus-245-minute total. Other earlier residual wording and the
+required-Woolley workload issue have been repaired; do not report
+the original findings as though they were still present.
+
 ## M1-V01: Required Noba text needs a statistical correction or a narrower assignment
 
 **Finding:** the complete required

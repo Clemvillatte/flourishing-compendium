@@ -17,6 +17,24 @@ video playback checks are inapplicable; reading and study time must be
 calculated from the selected text when a module is assembled. Author
 credentials are checked separately from article affiliations.
 
+## Production handoff
+
+- **M1:** use the separate `deg-psychdim-m1-audit.md` for current
+  dispositions. The original p-value and confidence-interval repairs
+  are present; the first-path baseline exception and beta-scale
+  explanation remain proposed owner repairs.
+- **M3:** the note under PD-V08 identifies the commentary-versus-primary-
+  study appraisal mismatch. It offers a source-limited activity rather
+  than another required paper.
+- **Selection:** PD-V06 and PD-V12 are default core exclusions.
+  PD-V11 is advanced/optional. Other placements remain conditional
+  on a distinct learner task, not merely topical relevance.
+- **Workload:** the final table estimates selected excerpts, not a
+  combined degree. Reused readings count once; later application
+  needs its own explicit budget.
+- **Authority:** no source record clears the production stop-gate,
+  proves a proposed exercise effective or publishes a module.
+
 ## PD-V01: EEMM orientation and context-sensitive change
 
 - **Opened:** 2026-10-26, verifier-96108df3. Search identified the
@@ -549,6 +567,10 @@ paper.
   the authors' interpretive framework, not experimentally
   established facts about the only possible goals
   ([methods, classification and discussion](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/)).
+  The conceptual proposal does not establish that eudaimonic
+  framing improves wellbeing or is superior to hedonic or
+  instrumental goals
+  ([authors' empirical-limit paragraph](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/)).
 - **Walk of Life fit:** use only if a short M2 task asks
   whether the learner seeks immediate relief, an important
   action, or another person's good, and how those goals can
@@ -566,7 +588,7 @@ paper.
   credential checked. Conditional replacement for a weaker
   affect reading, not an instruction to add another one.
 
-## PD-V11: Existing M6 meta-review candidate, not sixty independent causal confirmations
+## PD-V11: Existing M6 meta-review, version and evidence limits
 
 - **Opened:** 2026-10-26, verifier-96108df3. This is verification
   of the owner's proposed M6 addition in the ledger, not a newly
@@ -941,8 +963,8 @@ separately.
 | PD-V04, [habit review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/), Results 3.2–3.5 plus the specified limits paragraph | 1,870 | 14.4 min | 43–58 min |
 | PD-V05, [self-concept review](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/), selected sections including their related-constructs table | 1,456 | 11.2 min | 34–45 min |
 | PD-V07, [attention review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/), Abstract plus the specified first paragraph | 355 | 2.7 min | 8–11 min |
-| PD-V08, [rumination commentary](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/), ordinary conceptual excerpt | 603 | 4.6 min | 14–19 min |
-| PD-V08 M3 variant, [same commentary](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/), with experimental-summary paragraph | 633 | 4.9 min | 15–19 min |
+| PD-V08, [rumination commentary](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/), ordinary conceptual excerpt | 560 | 4.3 min | 13–17 min |
+| PD-V08 M3 variant, [same commentary](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/), with experimental-summary paragraph | 590 | 4.5 min | 14–18 min |
 | PD-V10, [ER-goals review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/), revised selection including empirical-limit paragraph | 834 | 6.4 min | 19–26 min |
 | PD-V13, [emotion-functions reading](https://nobaproject.com/modules/functions-of-emotions), two specified paragraphs | 92 | 0.7 min | 2–3 min |
 | PD-V14, [conditioning reading](https://nobaproject.com/modules/conditioning-and-learning), seven glossary entries and the specified sections | 941 by the stated rule | 7.2 min | 22–29 min |
