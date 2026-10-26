@@ -6,7 +6,7 @@ deg-therapeutic, deg-qigong) were re-opened at HEAD (browser-user-agent HTTP
 GET, redirect-following, 15s timeout). Receipt mirrors the archpsych-1027a
 audit format. No live-lane files were modified.
 
-## Results: 17/19 URLs live at HEAD (200); 2 dead
+## Results: 17/19 URLs live at HEAD (200); 2 dead — update (T+56): one live replacement found and verified
 
 ### deg-psychdim (5 URLs) — 4 live, 1 dead
 - UT Dallas PSY(CGS) 3361 Cognitive Psychology (dox.utdallas.edu/syl166067) — LIVE 200
@@ -16,7 +16,13 @@ audit format. No live-lane files were modified.
 - **Macalester PSYCH 272 Health Psychology — DEAD (404 at HEAD)**
   Archived copy exists and opens: web.archive.org/web/20240809144252/https://www.macalester.edu/psychology/wp-content/uploads/sites/46/2022/11/Health-Psych-syllabus-F2022.pdf
   Same failure pattern as the psychx4 audit's Macalester dead link (their uploads
-  reorganized). Replacement candidate search is flagged to the lane owner below.
+  reorganized).
+  **LIVE REPLACEMENT FOUND AND VERIFIED (200 at HEAD, this session): the same
+  syllabus (PSYCH 272 Health Psychology, Fall 2022, Jaine Strauss — same course
+  summary, topic list and schedule) now lives at
+  https://www.macalester.edu/psychology/wp-content/uploads/sites/585/2022/11/Health-Psych-syllabus-F2022.pdf
+  (uploads/sites/46 → uploads/sites/585 path migration). Recommended substitution
+  for the D1 citation at the lane owner's next touch.**
 
 ### deg-psychology-101 (3 URLs) — 3 live
 - Texas A&M-San Antonio PSYC-2301 (apps.tamusa.edu PDF) — LIVE 200
@@ -28,6 +34,13 @@ audit format. No live-lane files were modified.
   Archived copy exists and opens: web.archive.org/web/20210511082024/https://philife.nd.edu/assets/317166/fullsize/phil_221_fall11_unified_syllabus.pdf
   Note: the psychx4 audit (archpsych-1027a) had this fetch-blocked but
   indexed-verified; it has since gone fully offline at the domain level.
+  Follow-up (this session): the Wesleyan original host
+  wesfiles.wesleyan.edu/courses/syllabi/1119-sangle-013195-321.pdf (cited by the
+  published literature) does not resolve publicly (campus-internal file server),
+  so the web.archive.org snapshot is currently the only public carrier of this
+  syllabus. No live public carrier found; flagged to the lane owner for a
+  substitution decision (archive citation vs. an equivalent open
+  philosophy-as-a-way-of-life syllabus from another university).
 - U Florida CLA 6805 Roman Stoicism (classics.ufl.edu PDF) — LIVE 200
 - ASU PHI 420 Stoicism (webapp4.asu.edu PDF) — LIVE 200
 - UC Berkeley Philosophy 161 Aristotle (ocf.berkeley.edu PDF) — LIVE 200
