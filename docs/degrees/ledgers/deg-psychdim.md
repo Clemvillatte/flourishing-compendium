@@ -2369,3 +2369,78 @@ advisor-checked):
 Production owner: continue M1 repairs and source preparation under this
 ruling; do not draft M2 prose until the owner answers the flag or an
 authorized decision changes the prerequisite.
+
+## Wave 2 production: M1 video-first substitution, 2026-10-26 04:49Z
+
+Owner decisions 6–8 supersede the historical stop-gate ruling above.
+Production owner: degree-4376b4ec. Scope and coverage clearances are
+unchanged; independent module QC and complete-degree publication gates
+remain in force. No module or degree is self-cleared here.
+
+### Required statistical video replaces the unsafe reading
+
+Consumed independent receipt:
+`verify/deg-psychdim-m1-literacy-video-49bf153e.md`.
+The receipt verifies **Statistics Fundamentals | Dr Kristin Sainani**,
+public recording and English timestamped transcript, with Stanford
+credentials, media identity and segment boundaries. Parent freshly opened
+the watch page and read the assigned interval/p-value transcript context;
+no parent playback or slide-inspection claim is made. Recognition errors
+in the transcript are not treated as source quotations.
+([Recording](https://www.youtube.com/watch?v=LKiX54NglCo);
+[Stanford profile, reopened](https://profiles.stanford.edu/kristin-sainani).)
+
+- **Outcome and lived decision:** interpret a study's estimate,
+  uncertainty and inference limits before letting a research claim guide
+  a choice about one's life. No calculation competency is added.
+- **Assignment:** 25:46–44:11 (18:25), then 54:02–57:21 (3:19);
+  1,304 seconds = **21:44**, not the whole 76-minute recording.
+  Optional 03:29–09:21 (5:52) supplies the prerequisite introduction.
+  ([Chaptered recording](https://www.youtube.com/watch?v=LKiX54NglCo).)
+- **Removed:** Smith's entire "Why Should I Trust Science If It Can't
+  Prove Anything?" NHST section, statistics glossary and the former
+  blanket whole-module assignment. The in-module statistical correction
+  becomes affirmative instruction and an ASA reference, rather than
+  sending the novice through the misleading definition.
+  ([Smith, reopened complete cleaned text](https://nobaproject.com/modules/thinking-like-a-psychological-scientist).)
+- **Retained fallback:** two non-statistical spans: "Scientific Versus
+  Everyday Reasoning" through the end of "The Interpretation of Research
+  Results"; "Scientific Theories" through "Science in Context," stopping
+  before the answer sections. Embedded self-test boxes are optional.
+  These teach scientific reasoning, design, theories and levels not
+  replaced by the selected statistics clips. The earlier read-only
+  curriculum advisor supports this finite, outcome-specific distinction.
+  ([Smith](https://nobaproject.com/modules/thinking-like-a-psychological-scientist).)
+- **Precision anchor:** ASA's p-value definition and principles 2 and 5
+  including explanations, not its full editorial/history. Opened and
+  read this session. The anchor distinguishes conditional tail
+  probability, hypothesis probability and practical significance.
+  ([ASA statement](https://www.stat.berkeley.edu/~aldous/Real_World/ASA_statement.pdf).)
+- **Practice and assessment:** two short video pauses have model
+  feedback; the preserved Woolley fully worked, faded and independent
+  appraisal remains the outcome-4 assessment. Standard-error prerequisite
+  and the limits of the lecture's CI/test correspondence are printed.
+  No claim is made that a hypothetical trial explains an observational
+  cross-lagged model's adjustment set.
+  ([Sainani's worked example](https://www.youtube.com/watch?v=LKiX54NglCo&t=2021).)
+- **Revised workload:** fresh cleaned-text counts for the selected
+  Smith spans are **2,247 + 960 = 3,207** word-like tokens. Count rule:
+  Unicode letters/numbers, internal apostrophes/hyphens retained;
+  includes headings, captions and embedded optional self-test boxes,
+  excludes the separately located answers. Existing framework excerpt
+  counts are 680 + 240; ASA gets a rounded 300-word allowance.
+  Raw reading = 1,220/130 + 3,207/180 = 27.20 minutes;
+  triple for study = 81.60, rounded **82**. Video + 10-minute
+  prerequisite/pause allowance = 31.73, rounded **32**. Remaining
+  allowances 15 + 10 + 30 + 30 + 60 = 145; total **259 minutes**,
+  approximately 4 hours 20 minutes. Optional remedial clip and optional
+  paper reading are excluded. These are planning estimates, not measured
+  learner completion times.
+
+The two framework readings are retained pending the verifier's specific
+EEMM video-fit receipt; a generic psychology introduction does not teach
+the six-dimension map or research appraisal. The earlier pedagogical
+repairs are preserved. The retrieval exercise now explicitly says its
+two attempts confound additional study and delay; it no longer claims to
+isolate a spacing effect. Public review narration was moved out of the
+learner path. Advisor re-review commissioned; supervisor module-QC owed.

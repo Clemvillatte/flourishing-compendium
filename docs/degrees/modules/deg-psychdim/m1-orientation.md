@@ -1,5 +1,9 @@
 # m1-orientation: The Mind Across Six Dimensions (deg-psychdim)
 
+<!-- STATUS: DRAFT, NOT CLEARED. Production authorized by owner decision 6.
+Video-first substitution evidence: ledgers/deg-psychdim.md and
+verify/deg-psychdim-m1-literacy-video-49bf153e.md. Independent module QC owed. -->
+
 First module of Psychological Dimensions. The degree follows one question
 through eight modules: what do psychologists currently know about the
 processes that carry a life, and how can you read that research well enough
@@ -12,13 +16,7 @@ choosing more wisely and flourishing
 under uncertainty can start. It is not a diagnosis, not an exhaustive
 account of the mind, and not a guarantee that your circumstances will be
 easy to change; you will test its usefulness on your own material as the
-degree proceeds. Source
-verification evidence is in ledgers/deg-psychdim.md. STATUS: DRAFT, NOT
-CLEARED; production is authorized by owner decision 6. Video-first review
-under decision 8 and independent module review remain outstanding.
-The independent pedagogical follow-up
-(verify/deg-psychdim-m1-followup-2026-10-26.md) returned three bounded
-repairs, M1-PED-01 to M1-PED-03; this revision applies them.
+degree proceeds.
 
 ## Level and placement
 
@@ -181,41 +179,71 @@ The degree promises current knowledge, which means you will meet studies
 all the way through. This step installs the reading habits once, here,
 before any dimension material needs them.
 
-Before reading: one passage in the module you are about to read needs a
-correction, so you meet the correction first. The module says a finding
-"significant at a p < .05 level" means the result would occur by chance
-fewer than five times in 100 repetitions of the study; read that with
-care. A p-value is not the probability that chance produced the result,
-that a study would reproduce, or that the hypothesis is true. As the
-[American Statistical Association's statement](https://www.stat.berkeley.edu/~aldous/Real_World/ASA_statement.pdf)
-puts it, a p-value is the probability under a specified statistical model
-that a statistical summary of the data would equal or be more extreme
-than its observed value; it does not measure the probability that the
-studied hypothesis is true or the probability that the data were
-produced by random chance alone, and it does not measure the size or
-importance of an effect. Use this definition in place of the module's
-glossary entry when you reach it: the vocabulary list gives its
-null-hypothesis significance testing entry the same loose gloss, and its
-probability-values entry is loose in the same way. Carry the correction
-with you through the module's statistics; the rest of its distinctions
-(observations versus theories, falsifiability, induction and
-deduction, replication, research quality) stand as useful. The two
-self-test boxes in the module are unaffected: one is about
-falsifiability, the other about induction versus deduction.
+Begin with two clips from Kristin Sainani's
+[Statistics Fundamentals](https://www.youtube.com/watch?v=LKiX54NglCo):
+**25:46–44:11** (18:25) and **54:02–57:21** (3:19), total **21:44**.
+Sainani teaches epidemiology and statistics at Stanford
+([institutional profile](https://profiles.stanford.edu/kristin-sainani)).
+You are learning to interpret results, not to calculate a t-test or
+memorise critical values. Stop at the printed boundaries; the rest of
+the lecture is not assigned.
 
-Read the Noba module
+One prerequisite will help. A standard error describes the sampling
+variability of an estimate, rather than the spread of individual people's
+scores. An estimate is the value calculated from a sample; a confidence
+interval adds an uncertainty range. In the repeated-sampling account
+used here, a 95 percent interval procedure covers the true parameter
+in 95 percent of repetitions when its assumptions hold. That is not
+a 95 percent probability assigned to the fixed parameter after seeing
+one interval. If these ideas are new, the optional **03:29–09:21**
+segment (5:52) introduces samples and standard error before the assigned
+clips ([Sainani, inference and intervals](https://www.youtube.com/watch?v=LKiX54NglCo&t=209)).
+
+Pause after the first clip. In the hypothetical cherry-juice example,
+say what the estimate describes and why an interval containing both
+benefit and harm calls for caution. After the second, rewrite this
+claim: "p = .05 means a five percent chance the finding is false."
+Feedback: a p-value concerns the observed statistical summary and
+more extreme summaries under a specified model, not the probability
+that the hypothesis is false. The lecture's interval/test correspondence
+uses the same two-sided t-model; it does not license comparing two
+coefficients simply by checking whether their separate intervals overlap
+([Sainani's worked model](https://www.youtube.com/watch?v=LKiX54NglCo&t=2021)).
+
+Keep the [American Statistical Association's
+statement](https://www.stat.berkeley.edu/~aldous/Real_World/ASA_statement.pdf)
+beside you: read only "What is a p-Value?" and principles 2 and 5 with
+their explanations (about 300 words). These distinguish the conditional
+probability from the probability a hypothesis is true, and statistical
+significance from the size or practical importance of an effect.
+The precise definition matters when you meet a striking claim about
+something that might change your life.
+
+Then read only the following parts of Erin I. Smith's Noba module,
 [Thinking like a Psychological Scientist](https://nobaproject.com/modules/thinking-like-a-psychological-scientist)
-by Erin I. Smith (free; about 5,000 words including the two self-test
-boxes and their answers). Work through the self-test boxes as you reach
-them; the answers are at the end of the module. It teaches scientific
-versus everyday reasoning, falsifiability, induction and deduction,
-research design, null hypothesis significance testing, Type I and Type II
-errors, replication, and what a scientific theory is.
+(free; about 3,200 words in the selected spans):
+
+- "Scientific Versus Everyday Reasoning" through the end of "The
+  Interpretation of Research Results"; stop before "Why Should I Trust
+  Science If It Can't Prove Anything?"
+- "Scientific Theories," "Is Science Objective?" and "Science in Context";
+  stop before the self-test answers.
+
+The self-test boxes embedded in the first span are optional; use the
+module's own worked appraisal below for assessed practice. The selected
+reading supplies the non-statistical background: observations, induction,
+testability, theory, research quality and levels of analysis. The omitted
+NHST section and statistics glossary are not assigned; use Sainani and
+the ASA statement for those definitions. When the caffeine example calls
+a null difference "evidence against" a hypothesis, remember the narrower
+inference just taught: not detecting a difference does not, on its own,
+establish no effect ([Sainani, hypothesis testing](https://www.youtube.com/watch?v=LKiX54NglCo&t=2537)).
 
 Retrieval activity 1, second attempt (closed book, after the reading):
 from memory, without looking at your first attempt, write the six
-sentences again. This is the draft of graded deliverable a; comparing
-the two attempts shows you what the spacing changed.
+sentences again. This is the draft of graded deliverable a. Compare
+the attempts to find omissions and corrections; they differ in further
+study as well as delay, so they do not isolate a spacing effect.
 
 Then study the worked appraisal in Step 4 before attempting the faded
 practice in the graded activity.
@@ -480,19 +508,17 @@ learner can self-check.
 
 ## Workload arithmetic
 
-- Required reading (word counts measured on the opened pages): Hofmann
-  and Hayes 2024 assigned excerpt 680 words, Maitland 2024 section 1.4
-  240 words, Noba module measured at 5,011 words. At 130 words per minute for
-  the two research excerpts (many new concepts; the 238
-  words-per-minute adult non-fiction default adjusted down by purpose)
-  that is about 7 minutes raw, and at 180 words per minute for the Noba
-  module (some new concepts) about 28 minutes raw; total about 35
-  minutes of raw reading. With study overhead at three times raw
-  reading, about 1 hour 45 minutes (estimate, labelled).
-- The statistics-correction passage before the Noba reading (about 230
-  words of module prose, measured): about 1 minute raw at 180 words per
-  minute, about 4 minutes with study overhead (estimate, labelled),
-  counted within the reading study allowance above, not added on top.
+- Required readings: Hofmann and Hayes excerpt 680 words and Maitland
+  section 1.4 240 words, inherited excerpt counts; selected Noba spans
+  3,207 word-like tokens, freshly measured on the cleaned page; ASA
+  definition and two principles about 300 words, a rounded allowance.
+  At 130 words per minute for research/ASA and 180 for introductory Noba,
+  raw reading is about 27 minutes. Three times raw for annotation and
+  rereading gives **about 82 minutes** of reading study.
+- Required video: 18:25 + 3:19 = **21:44**. Add **10 minutes** for the
+  two pauses, prerequisite definitions and checking your explanations;
+  about **32 minutes** total. The optional 5:52 remedial clip, plus
+  about 4 minutes for a pause, is not in the core total.
 - The Jordan case and the six-dimension teaching on this page: about 15
   minutes of careful reading (estimate).
 - Worked example study and faded practice: about 30 minutes (estimate).
@@ -506,8 +532,8 @@ learner can self-check.
   definitions deliverable about 25 minutes, appraisal about 20 minutes,
   scope statement about 15 minutes.
 
-Total: about 4 hours 10 minutes (about 250 minutes of labelled
-components: 105 reading study including the correction passage, 15 case
+Total: about 4 hours 20 minutes (259 rounded minutes of labelled
+components: 82 reading study, 32 video study, 15 case
 study, 10 reflection teaching and completion example, 30 worked example
 and faded practice, 30 retrieval and levels, 60 graded with the
 per-deliverable allowances above). Optional further reading (the rest of Maitland
@@ -517,38 +543,6 @@ worked example quotes the study's numbers in module prose, and the
 learner reads the paper itself only as optional further reading; no
 Woolley excerpt is part of the required reading budget above.
 
-## Verification status of attached sources
-
-All attached sources are verified to the skill's standard with evidence
-and dates in ledgers/deg-psychdim.md: Hofmann and Hayes 2024 (verified
-text, assigned excerpt opened and read on 2026-10-26, word count
-measured), Maitland 2024 (verified text, section 1.4 read on
-2026-10-26, word count measured), the Noba module (opened on
-2026-10-26; byline Erin I. Smith confirmed on the module page; the
-scientific-versus-everyday-reasoning, falsifiability, hypothesis-
-testing design, NHST and Type I and II error sections read this pass;
-the remaining sections' topic coverage rests on the ledger's
-2026-10-25 batch-2 verification), and
-Woolley, Giurge and Fishbach 2025 (verified text; all quoted statistics
-read on the opened PMC page on 2026-10-26; the four wave counts and
-the between-persons finding read on the opened page this session). Two
-supporting sources opened on 2026-10-26 for the statistics correction
-in Step 3: the American Statistical Association's 2016 statement on
-p-values (definition and principles 1, 2 and 5 read; free PDF) and
-Greenland et al. 2016 in the European Journal of Epidemiology (the
-misinterpretation list read, including the overlapping-intervals
-misinterpretation; free on PMC). All are free to access with no paywall. No video resources are attached to this module,
-so no segment durations apply. No imported labels remain on attached
-sources.
-
-The pedagogical follow-up repairs (M1-PED-01 to 03,
-verify/deg-psychdim-m1-followup-2026-10-26.md) add no new sources and no
-new external-source assignments: every repair reuses material already
-verified above,
-the Woolley et al. 2025 paper remains optional further reading, and the
-standard error and z statistics were removed from the required path, not
-added to it.
-
 ## Alignment map
 
 | Outcome | Taught in | Practised in | Assessed in |
@@ -556,5 +550,5 @@ added to it.
 | 1 Six dimensions | Step 1 readings; Step 2 teaching, Jordan case and taught reflection | Retrieval activity 1 (two closed-book attempts) | Rubric criterion 1 (definitions deliverable) |
 | 2 VSR-C frame | Step 1 readings; Step 2 Jordan case | Retrieval activity 2 | Rubric criterion 2 (definitions deliverable) |
 | 3 Levels of analysis | Step 1 readings; Step 2 levels paragraph | Levels exercise | Rubric criterion 3 (levels exercise) |
-| 4 Study appraisal | Step 3 Noba reading; Step 4 worked example with magnitude move | Step 4 faded practice | Rubric criterion 4 (appraisal deliverable) |
+| 4 Study appraisal | Step 3 Sainani clips, ASA anchor and bounded Noba reading; Step 4 worked example with magnitude move | Step 3 pauses; Step 4 faded practice | Rubric criterion 4 (appraisal deliverable) |
 | 5 Scope statement | Bounded domain section | Drafting in the graded activity | Rubric criterion 5 (scope deliverable) |
