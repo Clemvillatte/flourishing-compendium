@@ -410,23 +410,27 @@ session:
   Chapter I sentence defining the public was confirmed verbatim on
   the downloaded text.
 
-Quote control, actual result: the module's Dewey-attributed
-quotations were asserted one by one against their named source
-downloads, including short fragments and separate ellipsis segments,
-with italic underscores read as emphasis markers and stripped, and
-whitespace normalized: 29 source-tagged spans checked, 29 matched,
-0 failures. Three inaccuracies were found and repaired at earlier
-checks (a misquoted verb in the boot-straps sentence, a colon and
-attribution boundary in the Tilden sentence, and a mid-sentence quote
-stop). The rubric's model responses and the worked example's
-constructed case are the learner's or the module's own words, not
-Dewey's, and are exempt. The m1 reflective-thought definition is
-quoted here only up to its ellipsis, as in m1. The two Peirce
-fragments in Step 5 (doubt "is an uneasy and dissatisfied state";
-"the struggle to attain a state of belief") are quoted from The
-Fixation of Belief as verified in m2, whose character-level quotation
-re-audit is recorded in this band's ledger; they are inherited
-receipts, not re-opened this session.
+Quote control, actual result: the module's source-attributed
+quotations and its assignment-boundary phrases were asserted one by
+one against their named sources, including short fragments and
+separate ellipsis segments, with italic underscores read as emphasis
+markers and stripped, and whitespace normalized: 33 Dewey spans
+checked against the three downloads (teaching quotes, fragments and
+boundary phrases), 33 matched, 0 failures; the two Peirce fragments
+in Step 5 (doubt "is an uneasy and dissatisfied state"; "a struggle
+to attain a state of belief") were verified this session directly on
+the opened Fixation of Belief page, which also confirmed that the
+maxim belongs to How to Make Our Ideas Clear (m1's assignment), not
+to The Fixation of Belief; the attribution was corrected
+accordingly. Three Dewey inaccuracies were found and repaired at
+earlier checks (a misquoted verb in the boot-straps sentence, a colon
+and attribution boundary in the Tilden sentence, and a mid-sentence
+quote stop), and one Peirce fragment was found misquoted at the
+inherited-receipt check and repaired to the primary text. The
+rubric's model responses and the worked example's constructed case
+are the learner's or the module's own words, not source text, and
+are exempt. The m1 reflective-thought definition is quoted here
+only up to its ellipsis, as in m1.
 
 Video-first check: a focused search for a credentialed lecture video
 covering this module's material found candidate groups recorded in the
