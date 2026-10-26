@@ -45,12 +45,13 @@ paragraph, 111 words; the two paragraphs from "Cultural transmission"
 through "...experience them as well", 233 words; the next paragraph's
 first three sentences, 105 words) yields 449 words on the opened page,
 including parenthetical citations. The module prints "About 490
-words". The 41-word difference (9%) exceeds a reasonable reading of
-"About"; possible causes are a different measurement route (heading
-inclusion, citation handling, or an earlier page revision), but none
-reproduces 490 from the boundaries as printed. The figure's function
-(telling the learner the reading is short, "not the whole module")
-is unaffected, and every boundary phrase is verbatim-correct.
+words". The 41-word difference is reported as-is; whether it exceeds the
+tolerance of "About" is the band holder's judgment, not this
+receipt's. No cause is established (measurement route, citation
+handling, or an earlier page revision are untested possibilities).
+The figure's function (telling the learner the reading is short, "not
+the whole module") is unaffected, and every boundary phrase is
+verbatim-correct.
 
 ## Disposition
 

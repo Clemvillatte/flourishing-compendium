@@ -38,9 +38,13 @@ The module quotes four phrases from the Lundao 5 lecture:
   techniques" — the module's cited carrier
   ([youtubetotranscript.com, WDwPln1CczI](https://youtubetotranscript.com/transcript?v=WDwPln1CczI&current_language_code=en))
   prints: "yangchang is the traditional chinese and taoist name for
-  health and longevity techniques". VERBATIM up to the disclosed
-  typographic class: the module capitalizes "Chinese"/"Daoist" where
-  the machine transcript prints lowercase "chinese and taoist".
+  health and longevity techniques". NOT VERBATIM (advisor QC 1026i):
+  beyond the case normalization ("chinese" to "Chinese"), the module
+  prints "Daoist" where the carrier prints "taoist" — a
+  spelling/transliteration change, not a typographic class. This
+  fragment is reported as a MISMATCH, routed to the daoism band
+  holder for correction or carrier re-check; it is not certified
+  verbatim by this receipt.
 - "more complicated" — carrier: "it's more complicated because it's
   not just health and longevity techniques". VERBATIM.
 - "foundational vitality and our core aliveness" — carrier: "a fuller
@@ -54,6 +58,12 @@ returns the same spans at ts 101-108 and 468-483, printing the same
 words (with its own ASR spellings). The carrier's ASR misrecognitions
 ("dallas yangshang" for "Daoist yangsheng") are not quoted by the
 module — the module quotes only the correctly-recognized spans.
+
+QC UPDATE (1026i, advisor QC): the sample verdict changes to 1 of 2
+clusters clean. Cluster 2 now splits: three of the four Komjathy
+phrases are verbatim; the "traditional Chinese and Daoist name"
+fragment carries the "taoist"→"Daoist" spelling change reported above
+and is routed, not certified.
 
 ## Disposition
 

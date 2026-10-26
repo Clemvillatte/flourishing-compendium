@@ -6562,3 +6562,28 @@ self-esteem") is verbatim on the
 [JSI paper's Semantic Scholar record](https://www.semanticscholar.org/paper/The-Costs-of-Seeking-Self%E2%80%93Esteem-Crocker/9d41d23c3f140cb520a222c3cca775fc2ac8fcb4)
 and keeps its JSI citation. Sources rows split accordingly. Concept validator
 exit 0. Receipt: docs/degrees/verify/deg-crocker-concept-repair-1026g.md.
+
+## Worker checkpoint (2026-10-26 09:55:10 measured clock, worker-pplx-verify-1026i [identity switch from the colliding 1026g — same session], deg-verify-b)
+
+ADVISOR-QC CORRECTIONS LANDED on this session's receipts (no content
+changes beyond the already-pushed Self-compassion repair, whose
+supervisor acceptance is recorded as PENDING — the routing summary was
+read from the board, not an explicit assignment):
+- m3-misak-caption-type: caption-type verdict softened to
+  "established at the fetcher-report standard" (player JSON not
+  observed; ASR errors not proof); timestamp contamination fixed (the
+  Misak render printed December 5, 2014, 01:47:47 UTC-08:00; the
+  19:49:01 value was the Bernstein render's).
+- daoism m1 QC sample: the "traditional Chinese and Daoist name"
+  fragment re-classified — the carrier prints "taoist", the module
+  prints "Daoist" (spelling change, not typographic class); ROUTED to
+  the daoism band holder; the other three Komjathy phrases stand
+  verbatim; Eno ch.8 cluster unchanged (clean).
+- pragmatism m2: ninth item re-scoped (eight quotations + a
+  section-attribution check; the section-placement claim is withdrawn
+  — wording verified, placement not); 836-vs-834 reported as two
+  counts/two methods, normalization hypothesis untested.
+- psychdim m2: word-count finding tightened (no "tolerance"
+  judgment; re-measurement requested); receipt clock corrected
+  (access time not recorded; pushed 09:53Z).
+- b4: the 37:32 value's cause not claimed.

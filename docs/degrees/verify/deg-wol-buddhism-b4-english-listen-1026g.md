@@ -20,8 +20,8 @@
    RENDER DISAGREEMENT recorded: this render prints duration "37:32",
    while the module's earlier watch-page fetch printed 0:33:55 and the
    search-index render below prints 0:33:55 — the 37:32 value is
-   recorded as found and not used (likely a listing-position value of
-   the same class as the Misak receipt's 50:40 listing value).
+   recorded as found and NOT USED; its cause is not established by
+   this receipt (no listing-position explanation is claimed).
 2. Search index (web search returning the watch page with its own
    render): prints "Mar 04, 2023 (0:33:55)" — corroborating the
    module's duration — and the description chapter list verbatim

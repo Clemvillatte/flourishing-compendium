@@ -7,7 +7,7 @@
   quoted spans and the Reading A assignment boundary in
   docs/degrees/modules/deg-wol-pragmatism/m2.
 
-## All nine quoted spans: VERBATIM on the opened carrier
+## The eight quoted spans: VERBATIM on the opened carrier (count corrected 1026i: eight quotations plus a section-attribution check)
 
 The carrier is the module's cited
 [Wikisource page](https://en.wikisource.org/wiki/The_Fixation_of_Belief),
@@ -38,8 +38,12 @@ word-for-word (the carrier sentences as returned by the opened page):
 8. "the sole object of inquiry is the settlement of opinion" — VERBATIM
    (carrier: "Hence, the sole object of inquiry is the settlement of
    opinion.").
-9. Section III attribution: the spans above sit in the paper's third
-   section, as the module's citation states.
+9. Section attribution (not a quotation — re-scoped 1026i): the
+   module itself distinguishes the Section III citation (items 1-6)
+   from "the fourth section's definition" (items 7-8). This receipt
+   verified the WORDING of all eight spans against the opened page;
+   the SECTION PLACEMENT of each span was not independently verified
+   from the opened page and is not certified here.
 
 ## Reading A assignment boundary: CONFIRMED; word-count corroborated at 836 on the plaintext extract (module prints 834 on normalized wikitext)
 
@@ -51,11 +55,12 @@ assigned span ends "...When doubt ceases, mental action on the subject
 comes to an end; and, if it did go on, it would be without a purpose."
 Counting the words between those exact boundaries on the MediaWiki API's
 plaintext extract of the page yields 836 words; the module prints 834
-"measured on normalized raw wikitext". The two-word difference is a
-disclosed normalization-class variance between the two measurement
-routes (plaintext extract vs normalized raw wikitext), not a boundary
-or wording difference: the start and end phrases match exactly. The
-834 figure is corroborated within the class; no repair is indicated.
+"measured on normalized raw wikitext". Two counts, two methods, both
+reported: the boundary phrases match exactly on both routes; the
+two-word difference is not explained by this receipt (the
+normalization hypothesis is untested). No boundary or wording
+difference was found; whether the 834 figure needs re-measurement is
+the band holder's call.
 
 ## Disposition
 

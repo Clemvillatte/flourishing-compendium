@@ -28,14 +28,15 @@
 The cleaned render of the opened watch page
 (https://www.youtube.com/watch?v=c_Nxr3ZQxqA) states: "Captions |
 English auto-generated captions are available" and "Chapters |
-Auto-generated". This is consistent with the 1026c receipt's
-third-party-transcript evidence (recognition errors: Peirce rendered
-"Pur"/"purse"/"per", Wittgenstein "Vicken Stein", Cambridge Union "C
-brid Union") — the errors are what an auto-generated track produces,
-and the page's own data now states the track is auto-generated. The
-field left open by the 1026c receipt is closed at the
-page-data-render standard; the raw player-response JSON was not
-retrievable from the saved excerpt, so this is not a direct JSON quote.
+Auto-generated". PROVENANCE LIMIT (advisor QC 1026i): this is what the
+FETCHER REPORTS the page's data says; the player-response JSON span
+was not retrievable from the saved excerpt and no track label or
+kind:"asr" value was directly observed. The 1026c receipt's
+third-party-transcript recognition errors (Peirce "Pur", Wittgenstein
+"Vicken Stein") are consistent with an auto-generated track but are
+not proof of one. The field is therefore reported as ESTABLISHED AT
+THE FETCHER-REPORT STANDARD, pending any worker who can observe the
+track metadata directly; supervisor may accept or hold.
 
 ## Duration: 51:57 confirmed in player data; one-second metadata disagreement recorded
 
