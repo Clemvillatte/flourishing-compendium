@@ -42,8 +42,8 @@ The three syllabi agree on the same skeleton: (a) what Daoism is and its Warring
 - The Neiye and Guanzi "inner cultivation tradition" (Roth) [DePauw wk 2]
 - The Chuci / mystical excursion (fangshi) [DePauw wk 2]
 - Health, immortality, longevity techniques; Chinese medicine; Daoist hygiene [UF wk 4; DePauw Unit II]
-- The Daoist body (Schipper, Taoist Body); body gods and inner vision (Kroll) [UF wk 12-15]
-- Neidan (inner alchemy) [DePauw Unit IV; UF wk 9]
+- The Daoist body (Schipper, Taoist Body) [UF wk 15 — the Taoist Body is an assigned reading on 12/2 (wk 15, "Daoist life"), not the wk 12-15 range; corrected per the deep-audit receipt deg-arch-d1-daoism-deep-audit-archpsych-1027a.md]; body gods and inner vision (Kroll) [no UF bracket — carried by the D2 pool question]
+- Neidan (inner alchemy) [DePauw Unit IV; UF wk 9 — at UF, Internal Alchemy appears only as a further-reading citation under the 10/19 entry, and the scheduled class topic that week is "New texts and cults"; the row is carried by the DePauw bracket; corrected per the deep-audit receipt deg-arch-d1-daoism-deep-audit-archpsych-1027a.md]
 - Taijiquan and the martial-arts connection [DePauw Unit IV]
 
 ### E. Religious Daoism (context — institutions, canon, schools)
@@ -51,7 +51,7 @@ The three syllabi agree on the same skeleton: (a) what Daoism is and its Warring
 - Shangqing (Highest Clarity) [DePauw Unit II; UF wk 5]
 - Lingbao (Numinous Treasure) and the interaction with Buddhism [DePauw Unit III; UF wk 6]
 - Daoist ethics and community (Taiping jing, 180 Precepts, Codes of Master Lu) [UF wk 6]
-- Tang and Song imperial Daoism; the Daoist Canon (Daozang) [DePauw Unit III; UF wk 7-8]
+- Tang and Song imperial Daoism [DePauw Unit III — the imperial-history half is carried by the DePauw bracket; at UF, Song/Yuan developments appear under "New texts and cults", not as a scheduled Tang/Song topic; corrected per the deep-audit receipt deg-arch-d1-daoism-deep-audit-archpsych-1027a.md]; the Daoist Canon (Daozang) [UF wk 8]
 - Quanzhen (Complete Perfection) — the medieval monastic revival [Wabash wk 9-10; UF wk 9-10]
 - Zhengyi (Orthodox Unity) — the living liturgical tradition [UF wk 11]
 - Daoist messianism, imperial adaptation, political legitimacy [UF wk 7-8]
@@ -60,7 +60,7 @@ The three syllabi agree on the same skeleton: (a) what Daoism is and its Warring
 - Daoist ritual in society and history [UF wk 13; DePauw Unit IV]
 - Sacred geography (Daoist mountains — Wudang, Longmen) [UF wk 15]
 - Daoist art, verse, and aesthetics [Wabash wk 7; UF wk 16]
-- Daoism in contemporary China and the diaspora [DePauw Unit IV; UF wk 11-12]
+- Daoism in contemporary China and the diaspora [DePauw Unit IV — the contemporary-China half is carried by DePauw; UF wk 11-12 covers Seven Taoist Masters/Zhengyi/Daoism-and-society; corrected per the deep-audit receipt deg-arch-d1-daoism-deep-audit-archpsych-1027a.md]
 - Quanzhen and modern practice (Seven Taoist Masters as folk-novel teaching text) [UF wk 10]
 - Daoist monastic life; Daoists of Peking; the modern clergy [UF wk 12]
 
