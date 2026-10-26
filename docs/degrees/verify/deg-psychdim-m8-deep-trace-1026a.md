@@ -61,3 +61,18 @@ RESOLVED: the schema lane re-added PD-M1-07 to mod-pd-8 (verified at commit b5a5
 ## Rev 3 correction (2026-10-26, same session)
 
 The Vohs claim in this receipt is WRONG and is corrected: the m8 doc cites the Vohs 2021 paper in prose BY LINK at line 226 ('preregistered and exploratory distinction', the Brunel PDF that the m7 doc and the degree ledger identify as Vohs and colleagues, 2021). The name-based check that missed the Woolley citation (line 221) also missed this one (line 226). PD-M7-10's removal from m8 was therefore also in error; the manifest is corrected and the schema lane asked to re-add it (fix-list item 7). The rev-2 statement that 'PD-M7-10 / Vohs is NOT cited in the m8 doc in any form' is withdrawn.
+
+## Rev 4: complete link inventory (2026-10-26, same session)
+
+Every link in the m8 doc is now mapped (grep of all http references, excluding the source table): nine distinct citations -
+1. PMC11303929 (line 81) = Hofmann/Hayes = PD-M1-05 - published
+2. PMC12392214 (line 82) = Maitland = PD-M1-06 - published
+3. PMC11479914 (line 106) = Martinez-Priego = PD-M2-06 - published
+4. PMC13350471 (line 107) = Manchiraju SCC = PD-M5-05 - published
+5. Fan ANT PDF (line 108) = PD-M4-07 - published
+6. Carden.Wood 2018 PDF (line 168) = PD-M7-04 - published
+7. PMC11641623 (line 169) = Singh = PD-M7-05 - published
+8. PMC13428958 (line 221) = Woolley = PD-M1-07 - re-added (item 6)
+9. Brunel PDF (line 226) = Vohs = PD-M7-10 - NOT yet re-added (item 7, OPEN)
+The published m8 carries eight of the nine; the ninth is fix-list item 7.
+No other link-based citations exist in the doc (verified by exhaustive grep), so the item-7 re-add completes the m8 set.
