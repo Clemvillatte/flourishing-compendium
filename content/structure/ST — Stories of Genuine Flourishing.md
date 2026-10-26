@@ -98,6 +98,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST492 — Shentu Jia Will Not Wait for the Minister]]
     - [[ST430 — The Ugly Man Duke Ai Could Not Forget]]
     - [[ST490 — Jade in the Bosom]]
+    - [[ST510 — The Frontier Father's Three Replies]]
   - [[ST-S01.06 — I.6 Relationships, Speech, and Leadership]]
     - [[ST038 — Three Friends and the Creator]]
     - [[ST507 — The School With No Substitutes]]

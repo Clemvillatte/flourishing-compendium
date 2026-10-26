@@ -22,6 +22,9 @@ The story is not a claim that misfortunes turn out to be blessings, which would 
 
 *For example:* Two people get the same rejection — a job, a program, a relationship. One treats it as a verdict on their worth and the story closes there. The other holds it lightly, without deciding what it means, and six months later the same event is part of a completely different narrative. Same event; only one of them was in a position to notice what came next.
 
+## Stories
+- [[ST510 — The Frontier Father's Three Replies|510. The Frontier Father's Three Replies]]
+
 ## Psychology parallels
 
 - **[[Affective forecasting|Affective forecasting]]**, people mispredict the intensity and duration of reactions to fortune and misfortune (Wilson and Gilbert, 2003)
