@@ -12,11 +12,11 @@ Bounded Phase-D2 verification assist for the existentialism lane (deg-arch-inven
 - **D1-map claims corroborated**: "Yalom's four givens: death, freedom, isolation, meaninglessness [HU 3975]" — death, freedom and responsibility, loneliness, and meaning are all named course sessions; "May's The Discovery of Being [HU 3975]" — the May reading IS in the required list.
 - Caveat for the lane: the syllabus is openly published on shnaton.huji.ac.il (no paywall), but the course is **taught in Hebrew** — as a teaching-content carrier this is a language-access limitation the matrix row should carry.
 
-### 2. USFQ PSI 3114E — "Existential Psychology" — OPENED and CORROBORATED
+### 2. USFQ PSI 3114E — "Existential Psychology" — OPENED and CORROBORATED (directly fetched, v2 upgrade)
 
-- Full syllabus PDF (hosted on George Mason's course-artifact export, provapps.gmu.edu/CERS/exportfiles/attachment/Syllabus-PSI-3114E.pdf — read this session): Universidad San Francisco de Quito, School of Ciencias Sociales y Humanidad, **PSI 3114E Existential Psychology, 3 credits**, offered Fall and Spring (corroborated by the USFQ English-taught course guide also read this session).
-- Course description read: focus on **meaning and Viktor Frankl's Logotherapy** (meaning-centered psychotherapy), plus death, freedom, responsibility and responsibleness; "the living dead" (meaninglessness) discussion; Logotherapy-related exams. Main bibliography: **Frankl, Man's Search for Meaning (3rd ed., 1984)**.
+- Full syllabus PDF directly fetched and read this session (https://provapps.gmu.edu/CERS/exportfiles/attachment/Syllabus-PSI-3114E.pdf): Universidad San Francisco de Quito, **PSI 3114E Existential Psychology, 3 credits**. Course description read directly: focus on **meaning and Viktor Frankl's Logotherapy** (meaning-centered psychotherapy), plus death, freedom, responsibility and responsibleness; the "living dead" (meaninglessness) discussion; ungraded Logotherapy exams. Main bibliography: **Frankl, Man's Search for Meaning (3rd ed., 1984)**. Corroborated by the USFQ English-taught course guide (read via search this session).
 - **D1-map claim corroborated**: "Frankl's logotherapy: meaning as the primary drive... [USFQ PSI 3114E]" — the syllabus is built around logotherapy and the search for meaning.
+- EVIDENCE NOTE (v2): the Hebrew University 3975 syllabus could not be fetched directly — shnaton.huji.ac.il serves a JS-rendered SPA shell to static fetches (robots-blocked for the fetch tool; curl returns a 573-byte shell), so that anchor's evidence remains the search-result excerpt, which quoted the full syllabus text (sessions, readings). The USFQ anchor is now direct-fetch verified.
 
 ## Status for the lane
 
