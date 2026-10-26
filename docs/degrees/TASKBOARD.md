@@ -100,8 +100,8 @@ reference, unique source ids in brackets):
   opened, passages measured verbatim, design decisions recorded);
   verifier's M2 source-use boundaries consumed; Gross 1998 primary
   opened with the five-family passage verbatim-confirmed, Figure 4
-  visually inspected, proposed excerpt measured (690 words, normalized
-  basis); van Heijst 2025 opened. M3-M7 sources reopened and
+  visually inspected, proposed excerpt measured (618 words artifact-free,
+  provisional); van Heijst 2025 opened. M3-M7 sources reopened and
   candidate counts recorded (assigned excerpts and workload budgets
   pending for the writing sessions); one link repair in the
   scope doc (Lippelt PDF URL returned an HTML page on retrieval;
