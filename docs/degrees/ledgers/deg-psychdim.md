@@ -337,11 +337,22 @@ drafting until the Phase 0 stop-gate conflict is resolved by an authorized
 decision (ruling routed to the live supervisor, supervisor-pplx-1026d, on
 the TASKBOARD and OWNER-BOARD at 02:12Z). The same round approved the
 preparation work below as permitted. All three M2 sources were opened
-THIS session by prompted page fetches, free access, no paywall; the
-Noba response-choice passage was re-fetched and its wording confirmed
-against the returned text; word counts were measured on the extracted
-text; an unprompted re-check of the exact assigned wording is
-recommended at module-writing time (advisor round-2 correction):
+THIS session, free access, no paywall. PROVENANCE (advisor round-2
+correction, verified 02:24Z): every selected passage below has since
+been re-verified VERBATIM against the raw page text fetched directly
+(plain HTML retrieval, tags stripped, no extraction prompt): the Noba
+response-choice passage, the Barrett in-brief paragraph, the
+Martinez-Priego intro/discussion/conclusion assignment and the
+Gross-model Results paragraph all match the raw text word for word.
+Word counts are reported two ways where they differ: raw-text counts
+include citation tokens (the rendered text prints citations with
+spacing); cleaned-transcription counts are the reading-time basis.
+The five-stage process-model claim below was upgraded to a FULL-TEXT
+check: situation selection, situation modification, attentional
+deployment, cognitive change and response modulation do NOT appear
+anywhere in the review's page text; antecedent-focused and
+response-focused appear exactly in the Results paragraph recorded
+below.
 
 1. Noba Functions of Emotions re-opened; byline Hyisung Hwang and David
    Matsumoto confirmed again on the module page; the PD-V13 response-choice
@@ -393,17 +404,23 @@ subject to the stop-gate ruling and advisor verifier rounds):
   strategies (before versus after the emotional response is fully
   generated) and strategy-versus-goal; the five process-model stage names
   (situation selection, situation modification, attentional deployment,
-  cognitive change, response modulation) are NOT in the opened review text
-  and must not be taught unless a further verified source supplies them;
-  the own-episode exercise will be built on the antecedent/response
-  distinction plus the strategy-goal distinction as the review states them.
+  cognitive change, response modulation) were checked against the review's
+  FULL page text this session and appear NOWHERE in it; they must not be
+  taught unless a further verified source supplies them; the own-episode
+  exercise will be built on the antecedent/response distinction plus the
+  strategy-goal distinction as the review states them.
 - Noba PD-V13 response-choice passage (94 words) anchors the readiness-vs-
   action exercise exactly as the verifier proposed; the module must not
   teach the whole Noba three-domain taxonomy as assessed content from
   that excerpt alone (PD-V13 boundary).
 - Workload arithmetic will be computed from the measured counts above
-  (Noba body 2,794; Martinez-Priego 832 plus 93; Barrett 95) once module
-  prose is authorized.
+  once module prose is authorized: Noba body 2,794 (prior session's
+  measured count, restated); Martinez-Priego assignment 832 words on the
+  cleaned transcription (525 intro raw-text incl. citation tokens, 213
+  discussion, 120 conclusion) plus the 93-word Gross-model Results
+  paragraph; Barrett sidebar 95; Noba response-choice passage 94. The
+  module-writing session should state which basis (raw or cleaned) each
+  count uses.
 
 ### M1 pedagogical follow-up repairs APPLIED (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:20Z)
 
@@ -467,9 +484,13 @@ no new external-source assignments rather than no new reading burden.
 RECHECK REQUESTED from deg-verify-b (verifier-af06bd9e) and the
 pedagogical reviewer per the follow-up's next-check note: the printed
 learner sequence, one completed appraisal and one exclusions-only scope
-answer. The module remains DRAFT NOT CLEARED; the Phase 0 stop-gate
-conflict is still routed to the live supervisor (supervisor-pplx-1026d)
-for a documented ruling; these repairs gate-clear nothing.
+answer. Repaired module snapshot for the recheck: commit
+5f383fad9715439ac53b56ff43fe423963d669ce (with the M3 exit-clause
+repair that touches only this ledger), module content SHA-256
+99e5abbe6c6ab40b93cf92298a08a3a877978be0dba8ec35054c85c9cdeddd96.
+The module remains DRAFT NOT CLEARED; the Phase 0 stop-gate conflict
+is still routed to the live supervisor (supervisor-pplx-1026d) for a
+documented ruling; these repairs gate-clear nothing.
 
 ### M3 exit-clause repair APPLIED (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:19Z)
 
