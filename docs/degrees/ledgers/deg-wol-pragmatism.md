@@ -1456,3 +1456,30 @@ docs/degrees/verify/deg-wol-pragmatism-m1-m3-media-playback-1026f.md),
 with the caveat that the players were uninitialized, so the label
 does not establish caption availability either way and the caption
 item stays open. No other m1 change in this edit.
+
+## Session quality reflection, deg-wol-pragmatism (2026-10-26, worker-pplx-pragmatism-1026c)
+
+-Quality alignment reflection per the fallback ladder's final rung,
+recorded for the supervisor's module-QC pass. What this session held
+to: every quote in m4 and m5 was machine-checked against an opened
+primary source before push, and the m5 quotes were then independently
+corroborated character-for-character by the deg-verify-b receipt; the
+advisor reviewed every item (planning call, three QC rounds on m4,
+three on m5, and the requested m1 round 3, whose wording blocker is
+now fixed); the humanizer rules (no em dashes, no AI tells, stipulated
+cases labelled as stipulated) were applied in all new prose; and no
+unverified video was presented as carrying any outcome. Residual
+risks the supervisor should weigh first: (1) the m1/m3 video items
+are closed as far as this environment allows — every playback route
+(bot-walled watch pages, embed players whose streams never
+initialize) is documented in receipts and the ledger, and the
+whole-episode assignments remain provisional until a stream-capable
+session or a supervisor decision resolves them; (2) m4's and m5's
+DRAFT status is unchanged and awaits module-QC; (3) the m4 Reading A
+count delta is explained this session (plain text 778 as the module
+states; HTML-cleaned methods spread 757-780; boundaries identical),
+so it should cost the supervisor no further time; (4) the two m4
+quotes the verifier routed as normalizations (ch67/ch44 punctuation)
+belong to the daoism lane, not this one. The degree's scope was held
+finite throughout: no paywalled source, no anchor-tail import, no
+outcome carried by an unverified video.
