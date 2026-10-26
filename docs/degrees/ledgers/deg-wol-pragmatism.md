@@ -217,8 +217,12 @@ proposition; coverage matrix rows mapped to modules):
   rest of How to Make Our Ideas Clear; the method applied to one's own
   belief-habits.
 - m3 James on truth and the will to believe (L2): Pragmatism lectures;
-  candidate video M01-P06 Misak (verified-video) covers the
-  Peirce-James-Ramsey line.
+  candidate video for the Peirce-James-Ramsey line was
+  M01-P06 Misak (label corrected 05:08:54Z: the plan's earlier
+  'verified-video' tag was aspirational and wrong — no verification
+  record existed for it at that point; the Misak Royal Institute of
+  Philosophy lecture was found, opened and attached in m3, where its
+  verification state is recorded).
 - m4 Dewey on inquiry, ethics and democracy (L2/L3): public-domain Dewey
   texts; the Dewey ethics elective anchors here; video candidate search
   pending; M01-P08 (Hicks on Dewey's Democracy and Education) is NOT a
@@ -595,3 +599,65 @@ labelled components), the bounded-domain statement, the alignment
 map, and the verification status of the three attached sources.
 STATUS: DRAFT, NOT CLEARED; awaits advisor QC and supervisor
 module-QC.
+
+## Advisor QC round 1 on m3-truth-and-the-will-to-believe (2026-10-26, clock 05:08:54Z measured, worker-pplx-pragmatism-1026b; repairs applied same session)
+
+Findings and repairs, all applied this pass:
+
+1. Truth account beyond Lecture II (APPLIED): the module had drawn
+   conclusions the assigned Lecture II passage defers to Lecture VI
+   ("To answer this difficulty fully is impossible at this stage of my
+   account... I can not discuss with detail until my sixth lecture").
+   Lecture VI was opened via the site's rendered page, its key passages
+   confirmed verbatim on the fetched extraction, and Reading B3 added
+   (two passages, 203 words measured on the fetched extraction): the
+   truth-happens and verification formulations, the expedient-in-the-
+   long-run constraint ("experience... has ways of boiling over"), and
+   James's own statement of the pleasant-belief objection ("A favorite
+   formula... impudent slander"). The Step 2 teaching and the Step 3
+   objection demonstration now rest on those passages.
+2. Worked-example object (APPLIED): the fully worked case was an
+   action decision, while the thesis governs options between
+   propositions; the example now states the competing propositions,
+   distinguishes believing from acting, names what the evidence
+   settles and what it cannot, and treats the momentous test honestly
+   (the two-year course cycle establishes delay, not loss; the
+   application must name the non-repeatable stake or report the test
+   as failed).
+3. Ramsey teaching unverified (APPLIED): the model answer had used
+   wording ("a belief is a rule with which we meet the future") that
+   does not appear in the assigned lecture. The lecture's content was
+   checked on the third-party transcript route (the m1 precedent):
+   the transcript runs from the introduction to the closing thanks,
+   and the verified content (belief as habit or disposition to behave;
+   "the belief that P will be useful only if P"; Ramsey's rejection of
+   truth-as-useful-to-the-believer; truth linked with action without
+   reduction) now carries Outcome 4, Step 5 and rubric criterion 4.
+4. Media provenance (APPLIED): the verification section now states
+   that playback and captions for THIS recording were not inspected
+   (the bot-check block documented in m1 was on a different
+   recording), that the 51:57 duration is from the search listing
+   rather than the oembed response, and the U of T directory page was
+   opened directly this session (previously discovered via search).
+   The ledger plan's contradictory "M01-P06 verified-video" label is
+   corrected above.
+5. Recounts (APPLIED): Reading A recounted with entities resolved and
+   markup residue removed (2,523 to 2,530 words); Lecture II counts
+   unchanged after page-split joining (957 and 266); Reading B3
+   measured on the fetched extraction (203). The earlier production
+   record's "all quoted passages were checked verbatim" is narrowed:
+   the programmatic checks covered the quotations listed in the
+   check scripts, and the two mis-transcriptions caught were in the
+   momentous-option sentence.
+6. Workload arithmetic (APPLIED): graded deliverables recomputed to
+   60 minutes (15+20+20+5), the components now total 258 minutes
+   (about 4 hours 20 minutes), and the unsupported "minus overlap"
+   subtraction is removed.
+7. Rubric model responses and alignment (APPLIED): rubric criteria 2
+   and 3 now carry actual short model responses (about 70 words
+   each); Step 3 item 2 adds a guided objection run so Outcome 3's
+   alignment row is accurate.
+
+STATUS: m3 remains DRAFT, NOT CLEARED; next step is supervisor
+module-QC. The lecture stays candidate with verification incomplete
+(playback and caption items open).

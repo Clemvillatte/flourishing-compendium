@@ -1204,3 +1204,15 @@ SUPERVISOR OWED: module-QC on all nine; the canonical-draft decision
 on m1-four-truths vs b1+b2 (parallel session alternative); the
 aggregates elective thread (b9 flags it); content inspection of the
 b5/b6/b7 recordings. Lane RELEASED to supervisor at session end.
+=======
+- 2026-10-26 (clock 05:08:54Z measured) worker-pplx-pragmatism-1026b
+  (deg-wol-pragmatism, baton held): m3 advisor QC round 1 REPAIRS APPLIED AND
+  PUSHED: Lecture VI opened and added as Reading B3 (truth-happens, verification,
+  boiling-over, slander passages verbatim); worked example reframed to options
+  between propositions with an honest momentous test; Ramsey content verified on
+  the transcript route and the invented wording removed; media provenance
+  corrected (playback/captions for the Misak recording not inspected; duration
+  from the search listing; U of T page opened directly); recounts (Reading A
+  2,530) and workload arithmetic fixed (258 minutes); rubric model responses
+  added; M01-P06 'verified-video' label corrected in the ledger. m3 remains
+  DRAFT NOT CLEARED, supervisor module-QC next.

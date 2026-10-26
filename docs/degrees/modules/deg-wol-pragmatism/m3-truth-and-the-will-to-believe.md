@@ -31,8 +31,9 @@ democracy).
 3. State the strongest objection to James's view of truth (it makes
    truth whatever is pleasant to believe) and the constraint his text
    builds against it, and take your own position.
-4. From the Misak lecture, state what Frank Ramsey adds to the
-   Peirce-James line.
+4. From the Misak lecture, state what Frank Ramsey takes from Peirce
+   and what he adds, including his objection to reading James as
+   making a belief true simply because it is useful to the believer.
 
 Every outcome is taught, practised and assessed below; the alignment map
 at the end shows where.
@@ -47,8 +48,9 @@ domain, Wikisource; James 1896): the contiguous passage that begins
 "They may be (a) living or dead; (b) forced or avoidable; (c)
 momentous or trivial" and ends with the thesis passage "decide an
 option between propositions, whenever it is a genuine option that
-cannot by its nature be decided on intellectual grounds" (2,523 words
-measured on normalized raw wikitext of the page). Take notes on the
+cannot by its nature be decided on intellectual grounds" (2,530 words
+measured on normalized raw wikitext of the page, entities resolved and
+markup residue removed). Take notes on the
 three tests and the thesis sentence.
 
 The three tests, in his words: a "living option is one in which both
@@ -75,14 +77,22 @@ of the thesis each test protects.
 ### Step 2: the method and the truth (Outcome 1)
 
 Read Reading B1 from [Pragmatism: A New Name for Some Old Ways of
-Thinking](https://en.wikisource.org/wiki/Pragmatism:_A_New_Name_for_Some_Old_Ways_of_Thinking)
-(James 1907, public domain), Lecture II ("What Pragmatism Means"): the
+Thinking, Lecture II: "What Pragmatism
+Means"](https://en.wikisource.org/wiki/Pragmatism:_A_New_Name_for_Some_Old_Ways_of_Thinking/Lecture_II)
+(James 1907, public domain): the
 contiguous passage that begins "To take in the importance of Peirce's
 principle" and ends "make nature over again by their aid" (957 words
 measured on the page's rendered text). Then read Reading B2 from the
 same lecture: the passage that begins "I am well aware how odd it must
 seem" and ends "our duty would be to shun truth, rather" (266 words
-measured on the same rendered text).
+measured on the same rendered text). Finally read Reading B3 from
+[Lecture VI, "Pragmatism's Conception of
+Truth"](https://en.wikisource.org/wiki/Pragmatism:_A_New_Name_for_Some_Old_Ways_of_Thinking/Lecture_VI)
+of the same book: the two passages quoted in full below (203 words
+measured on the fetched extraction), which carry the fuller account
+Lecture II explicitly defers ("To answer this difficulty fully is
+impossible at this stage of my account... I can not discuss with
+detail until my sixth lecture").
 
 The method, in his words: pragmatism is "to interpret each notion by
 tracing its respective practical consequences", and "Theories thus
@@ -94,9 +104,24 @@ of good", and "The true is the name of whatever proves itself to be
 good in the way of belief, and good, too, for definite, assignable
 reasons" (Lecture II, [Pragmatism: A New Name for Some Old Ways of
 Thinking](https://en.wikisource.org/wiki/Pragmatism:_A_New_Name_for_Some_Old_Ways_of_Thinking)).
-Hold the two halves together: an idea is true only if believing it
-works, and the working has to be assignable, checkable, in the
-world.
+Lecture VI supplies what that qualifier comes to. First, the process:
+"The truth of an idea is not a stagnant property inherent in it.
+Truth happens to an idea. It becomes true, is made true by events",
+and "True ideas are those that we can assimilate, validate, corroborate
+and verify. False ideas are those that we can not." Second, the
+long-run constraint: "The true, to put it very briefly, is only the
+expedient in the way of our thinking... expedient in the long run and
+on the whole of course; for what meets expediently all the experience
+in sight won't necessarily meet all farther experiences equally
+satisfactorily. Experience, as we know, has ways of boiling over, and
+making us correct our present formulas." Third, his own name for the
+objection you will run: "A favorite formula for describing Mr.
+Schiller's doctrines and mine is that we are persons who think that by
+saying whatever you find it pleasant to say and calling it truth you
+fulfil every pragmatistic requirement. I leave it to you to judge
+whether this be not an impudent slander." Hold the two lectures
+together: an idea is true only if believing it works, and the working
+is a verifiable process that experience can boil over.
 
 Practice (Outcome 1): write two or three sentences stating James's
 method and account of truth in your own words, including the qualifier.
@@ -108,21 +133,31 @@ The genuine-option test applied to one decision, demonstrated with the
 guidance faded. The stipulated cases are constructed for teaching; test
 them against your own decisions rather than take them as findings.
 
-The decision: whether to commit to a two-year course of study that
-would change your line of work (stipulated).
+The option, framed as competing propositions (the thesis governs
+options between propositions, so the diagnosis states them): "I can
+complete this two-year course and move into that line of work" against
+its denial (stipulated). Acting (enrolling) follows the believing; the
+tests run on the propositions.
 
 1. Fully worked (demonstrated). Live: both hypotheses appeal as real
-   possibilities; you can genuinely imagine staying and genuinely
-   imagine changing. Forced: the choice between committing and not
-   committing leaves no standing place outside the alternative;
-   drifting is itself a choice not to commit. Momentous: the window is
-   bounded (the course admits once every two years, the career change
-   is harder later), so refusing to choose loses the opportunity as
-   surely as trying and failing. Genuine: yes, if all three hold.
-   Passional permission: applies only if the intellect cannot settle
-   it; if the admissions requirements, finances and job-market
-   evidence decide the question, the permission does not apply and the
-   decision belongs to the evidence.
+   possibilities; you can genuinely imagine completing and genuinely
+   imagine the denial. Forced: the propositions leave no standing place
+   between them; going without the belief is the alternative, and
+   drifting is itself a way of going without it. Momentous: the test
+   asks what is irreversibly lost by waiting, and it must be answered
+   honestly. The course repeating every two years establishes delay,
+   not loss, so on the stipulated facts alone this test is not yet
+   met; it is met only if something in the situation is non-repeatable
+   (a funding window that does not reopen, an age-bound requirement),
+   and a strong application names that thing or reports that the test
+   fails. Genuine: only if all three hold, and the momentous line is
+   the one most likely to fail. Passional permission: the thesis
+   governs options that "cannot by its nature be decided on
+   intellectual grounds". The admissions, finance and job-market
+   evidence bears on the proposition's truth, so the permission does
+   not reach what that evidence settles; it reaches only what no
+   prospectus can settle (for example, whether you will hold up under
+   two years of the work), and the application names what that is.
 2. Steps named (partially worked). Take the stipulated decision:
    whether to tell a friend a hard truth about their drinking (both
    friendship and honesty feel live). Write the three tests, each with
@@ -131,22 +166,28 @@ would change your line of work (stipulated).
    written yours: a strong application names, for each test, the
    concrete feature of the decision that satisfies or fails it, and
    the permission statement names what the intellect can and cannot
-   settle here.
+   settle here. Then run the objection-and-constraint pattern once,
+   guided: state the "pleasant to say" formula as it would apply to
+   this decision, and name the verification that would boil over
+   against it.
 3. Independent (the graded deliverable). Take one live decision of
    your own, something you actually face. Write the full genuine-option
    application and the permission statement. Deliverable b in Step 4 is
    this piece, written up cleanly.
 
 The objection work (Outcome 3), demonstrated on the stipulated study
-decision: the objection says James's view makes truth whatever is
-pleasant to believe; the constraint in his text answers that the good
-must be "in the way of belief, and good, too, for definite, assignable
-reasons", so a belief that believing-it-works only while it goes
-untested (for example, that the course guarantees a job) fails the
-view's own test: assign the reasons and the belief answers to them.
-Your task in the graded work is to run that objection-and-constraint
-pattern on the objection you find strongest, and take your own
-position.
+decision: the objection is James's own "favorite formula", that
+pragmatists think "by saying whatever you find it pleasant to say and
+calling it truth you fulfil every pragmatistic requirement"; the
+constraint his Lecture VI supplies is the verification process and the
+long run: "True ideas are those that we can assimilate, validate,
+corroborate and verify. False ideas are those that we can not", and
+"experience... has ways of boiling over, and making us correct our
+present formulas", so a belief that works only while it goes untested
+(for example, that the course guarantees a job) is, on the view's own
+terms, false the moment the verifying runs against it. Your task in
+the graded work is to run that objection-and-constraint pattern on the
+objection you find strongest, and take your own position.
 
 ### Step 4: practice and assessment (all outcomes)
 
@@ -177,10 +218,14 @@ pragmatism and Ramsey, and her books include Cambridge Pragmatism:
 From Peirce and James to Ramsey and Wittgenstein (credentials
 verified on the department's [directory
 page](https://philosophy.utoronto.ca/directory/cheryl-misak/)). As you
-watch, take notes on one question: what does Ramsey's version of the
-pragmatist view of truth (a belief as a rule with which we meet the
-future) take from Peirce, and what does it add? Use the notes for
-deliverable d.
+watch, take notes on one question: what does Ramsey take from Peirce
+(in the lecture, belief as a habit or disposition to behave), and what
+does he add (in the lecture, the test that "the belief that P will be
+useful only if P", his answer to reading James as making a belief's
+truth rest on its usefulness to the believer)? Use the notes for
+deliverable d. The lecture's content on this question has been checked
+on the transcript route (see the verification section), so the module's
+model answer matches what the recording contains.
 
 Video verification status: candidate with verification incomplete.
 Identity and channel confirmed by the platform's oembed response this
@@ -218,29 +263,47 @@ test and to state the objection-and-constraint pattern on truth.
    satisfies or fails it, and the permission statement names what the
    intellect can settle here and what it cannot. Rejection: "it felt
    like a big decision so it's momentous" (feeling substituted for the
-   test), or three tests with no permission statement.
+   test), or three tests with no permission statement. Model response
+   for the strong side (about 70 words): "Live: both hypotheses are
+   live ones; I can genuinely imagine finishing and genuinely imagine
+   the denial. Forced: the propositions leave no standing place
+   between them; going without the belief is the alternative.
+   Momentous: the funding window closes this year and does not reopen;
+   refusing loses it as surely as failing. Permission: the prospectus
+   settles what the course is; it cannot settle whether I will hold
+   up in it."
 3. The objection-and-constraint piece states a real objection and runs
    the text's constraint against it, ending in a position. Strong: the
    objection is stated in its strongest form, the constraint (definite,
    assignable reasons) is applied to it with an example, and the
    position says where the learner stands and why. Rejection: an
    objection stated and dismissed by assertion, or a position with no
-   objection run.
-4. The Ramsey sentences name what Ramsey takes and adds. Strong:
-   "Ramsey takes Peirce's belief-as-habit and makes truth a belief's
-   meeting the future well, which trims James's talk of the good of
-   believing down to what a rule of action does over time." Rejection:
+   objection run. Model response for the strong side (about 70 words):
+   "Objection: on James's view, whatever I find pleasant to say I may
+   call truth. Constraint from Lecture VI: true ideas are those we can
+   assimilate, validate, corroborate and verify, and experience has
+   ways of boiling over and making us correct our present formulas; a
+   pleasant belief that boils over fails the view's own test.
+   Position: I accept the constraint, and I hold it answers the
+   slander wherever evidence can reach, which is further than the
+   objection admits."
+4. The Ramsey sentences name what Ramsey takes from Peirce and what he
+   adds, as the lecture presents it. Strong: "Ramsey takes Peirce's
+   belief-as-habit and adds the test that the belief that P will be
+   useful only if P, which is his answer to reading James as making a
+   belief's truth rest on its usefulness to the believer; he links
+   truth with action without reducing truth to it." Rejection:
    "Ramsey was a genius who died young" (biography with no content), or
    sentences that could describe any philosopher.
 
 ## Workload arithmetic
 
 - Required reading (word counts measured on the page texts): Reading A
-  2,523 words, Reading B1 957 words, Reading B2 266 words; 3,746 words
-  total. At 130 words per minute (new concepts; the 238
-  words-per-minute adult default adjusted down by purpose) about 29
-  minutes raw; with study overhead at three times raw, about 87
-  minutes (estimate, labelled).
+  2,530 words, Reading B1 957 words, Reading B2 266 words, Reading B3
+  203 words; 3,956 words total. At 130 words per minute (new concepts;
+  the 238 words-per-minute adult default adjusted down by purpose)
+  about 30 minutes raw; with study overhead at three times raw, about
+  91 minutes (estimate, labelled).
 - The lecture: 51:57 per the platform listing, watched once with notes
   (about 52 minutes).
 - Step 1 and Step 2 teaching prose: about 15 minutes (estimate).
@@ -248,15 +311,15 @@ test and to state the objection-and-constraint pattern on truth.
   (estimate).
 - Retrieval activity and practice: about 10 minutes (estimate).
 - Graded deliverables including the self-assessment step that is part
-  of each: about 55 minutes total (estimate): a about 15 minutes, b
+  of each: about 60 minutes total (estimate): a about 15 minutes, b
   about 20 minutes, c about 20 minutes, d about 5 minutes after the
   watch.
 
-Total: about 3 hours 50 minutes (about 230 minutes of labelled
-components: 87 reading with overhead, 52 lecture, 15 teaching prose, 30
-worked example and faded practice, 10 retrieval and practice, 55
-graded, minus overlap where the lecture watch carries deliverable d).
-Optional further reading (the rest of both texts) is not counted.
+Total: about 4 hours 20 minutes (258 minutes of labelled
+components: 91 reading with overhead, 52 lecture, 15 teaching prose, 30
+worked example and faded practice, 10 retrieval and practice, 60
+graded). Optional further reading (the rest of the texts) is not
+counted.
 
 ## Verification status of attached sources
 
@@ -264,8 +327,9 @@ The module attaches three sources:
 
 - James, The Will to Believe (Wikisource, public domain, 1896): opened
   this session; the assigned passage was measured on normalized raw
-  wikitext of the page (2,523 words between the pinned boundaries); the
-  quoted passages were confirmed verbatim on the fetched text.
+  wikitext of the page (2,530 words between the pinned boundaries,
+  entities resolved and markup residue removed); the quoted passages
+  were confirmed verbatim on the fetched text.
 - James, Pragmatism: A New Name for Some Old Ways of Thinking
   (Wikisource, public domain, 1907), Lecture II: opened this session;
   the page's rendered text was extracted and the two assigned passages
@@ -273,13 +337,24 @@ The module attaches three sources:
   the quoted passages were confirmed verbatim on the extracted text.
 - Misak, Cambridge Pragmatism (Royal Institute of Philosophy lecture,
   YouTube): candidate with verification incomplete, as stated in Step
-  5; oembed-confirmed title and channel this session; duration from
-  the platform listing; playback and caption inspection blocked
-  (YouTube bot-check, both routes, documented in the m1 record);
-  instructor credentials verified on the University of Toronto
-  philosophy department's institutional directory page, which lists her
-  as University Professor with research interests including pragmatism
-  and Ramsey and her Cambridge Pragmatism book.
+  5. Identity and channel confirmed by the platform's oembed response
+  this session; the duration (51:57) is from the search listing, not
+  the oembed response; playback and captions for this recording have
+  not been inspected (earlier inspection attempts on a different
+  YouTube recording, in the m1 work, were blocked by the bot-check, and
+  those two items remain open and routed to supervisor module-QC). The
+  lecture's content was checked on the third-party transcript route
+  used for m1: the transcript runs from Misak's introduction to her
+  closing thanks, and the Ramsey and James content taught in this
+  module (belief as habit or disposition to behave; "the belief that P
+  will be useful only if P"; Ramsey's rejection of the idea that a
+  belief is true simply because it is useful to the believer; truth
+  linked with action without being reduced to it) is verified on that
+  transcript. Instructor credentials verified on the University of
+  Toronto philosophy department's institutional directory page, opened
+  directly this session (University Professor; research interests
+  include pragmatism and Ramsey; the Cambridge Pragmatism book is
+  listed in her publications).
 
 Video-first check (owner decision 8): the search for a credentialed
 lecture video on this module's material found the Misak Royal
