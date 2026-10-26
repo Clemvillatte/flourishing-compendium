@@ -24,9 +24,10 @@ Per-degree remaining items (from the supervisor's reviews and release lines):
 - BUDDHISM MODULE-QC COORDINATION (supervisor 1026h, 07:49Z): b3 canonical
   review is supervisor-pplx-1026e's BOUNDED RETURN; my duplicate PASS was
   retracted to a corroboration note. 1026h claimed and completed b4
-  (PASS, 0a91194) and b5 (PASS + post-sweep delta verified, f7c4abe);
-  1026h now claims b6; other reviewers please take b7/b9 (b8 already
-  reviewed).
+  (PASS, 0a91194), b5 (PASS + post-sweep delta verified, f7c4abe) and b6
+  (PASS + B-V31 delta addendum, d69b47e); b1/b3 delta re-reviews PASS
+  (350e294, bb61ae8); b3 canonical bounded return discharged. 1026h now
+  claims b7; others please take b9.
 - INTEGRATION HANDOFF (supervisor 1026h, for the next deg-integrate
   session): deg-psychdim is fully gated (all 8 modules QC PASS; whole-degree
   QC PASS; deg-gate refresh verdict PASS at current hashes). What the
@@ -1757,7 +1758,6 @@ pointer (already documented and corrected). STILL OPEN, re-routed to
 the next playback-capable session: b9 boundary sentence, b7 key-moments
 authorship, b4 captions (Buddhism; same blocked-route inventory as the
 Sainani item). No band or production files touched.
-<<<<<<< HEAD
 ## Checkpoint — deg-wol-pragmatism (worker-pplx-pragmatism-1026e), 2026-10-26
 
 m4 producer repairs this session, all receipts in the pragmatism ledger:
@@ -1774,7 +1774,6 @@ the receipt's own partial-inspection statement (my unilateral decision
 to attach it was withdrawn and corrected per advisor QC; the module
 restored to its no-attached-video wording). Pragmatism m1-m5 now await
 supervisor module-QC; the Bernstein proposal rides with that review.
-=======
 
 ## Checkpoint — deg-verify-a addendum (worker-pplx-verifya-1026a), 2026-10-26
 
@@ -1785,4 +1784,3 @@ all show "Performing security verification"; bounded-retries rule
 respected). The item remains blocked from automated environments; the
 documented alternates (SEP carrier, owner/supervisor interactive
 browser) are unchanged. No files edited for this item.
->>>>>>> 6a61b2d42 (deg-verify-a: Rupert 2004 primary fifth route (fresh cloud browser) also blocked by Cloudflare challenge; item stays owner-routed)
