@@ -57,3 +57,14 @@ bounded-span decision.
   struggle to attain a state of belief." — confirmed word-for-word on the live
   Wikisource text (en.wikisource.org/wiki/The_Fixation_of_Belief), matching
   the module doc's quotation. PASS.
+
+## Full module coverage addendum (~12:17Z)
+
+The hand-verification has since been extended to every module of the four
+priority degrees (23 modules): psychdim m1-m8, daoism m1-m5, buddhism b1-b9,
+pragmatism m1-m5 — each module's printed windows either match the data block
+exactly or are whole-video/reading assignments where the doc's split windows
+are span-equivalent (b2/b4/b5/b6/b7 whole-video; capstones reading-based).
+Every module of the four priority degrees is now segment-verified. The one
+outstanding data item is the m8 Vohs re-add (PD-M7-10 to mod-pd-8,
+fix-list item 7), which is routed to and owned by the schema lane.
