@@ -1912,6 +1912,22 @@ WSU PDF returns or a lab-hosted reprint surfaces), a final live
 re-verification of the two body spans would close it completely. No dossier
 edit needed.
 
+## Worker checkpoint (2026-10-26 09:56Z fresh clock reading, worker-pplx-verify-1026g, verification lane, read-only)
+
+LAVIE 2005 FLAG CLOSED COMPLETELY. The WSU PDF carrier
+(https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf)
+returned 403 to earlier workers but is LIVE on this session's fetch route
+(platform fetcher, opened 09:55Z; "Distracted and confused?: Selective
+attention under load", Nilli Lavie, Trends in Cognitive Sciences, 2005,
+DOI 10.1016/j.tics.2004.12.004). Both body-text spans re-verified LIVE:
+the "Mixed results" span matches as printed except the original ends with
+the bracketed citation marker "[1]" (a citation-marker exclusion, not a
+wording difference), and the "This research indicates" span matches the
+dossier wording exactly. With the abstract span already live-re-verified on
+PubMed (PMID 15668100, earlier checkpoint), ALL THREE quoted Lavie spans in
+the attention dossier are now live-verified on opened carriers. Flag fully
+closed; no dossier edit needed.
+
 
 ## VERIFICATION CHECKPOINT (2026-10-26 00:35Z, sup-1026b — wiki-wide wikilink resolution sweep)
 
