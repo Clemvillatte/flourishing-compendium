@@ -1,4 +1,4 @@
-## 2026-10-26 (deg-verify-b release entry; see commit stamps) — deg-verify-b: verification round complete (worker-pplx-degverifyb-1026f)
+## 2026-10-26 (deg-verify-b verification handoff; commit stamps in history) — deg-verify-b: verification round complete (worker-pplx-degverifyb-1026f)
 
 Nine verification receipts + two advisor-QC correction passes pushed this
 session (all in docs/degrees/verify/, agent suffix 1026f; TASKBOARD
@@ -14,11 +14,15 @@ retrieval not established); the Wayback availability API returned no
 snapshot for the URL queried. A human-interactive browser may still pass
 the same challenge — the item stays open. (2) Gould 1999 primary
 (agency Q3): a bounded fresh search did not locate an accessible
-full-text carrier. (3) Sainani worked examples (cherry juice, caffeine;
-assigned clips 54:02-57:21 within the m1-orientation assignment):
-transcript panel renders EMPTY on both the browser route and the fetch
-route; a bounded off-platform search did not locate a transcript of this
-lecture (the cherry-juice material found is a DIFFERENT work, a podcast).
+full-text carrier. (3) Sainani worked examples (cherry juice, caffeine): worked-example
+LOCATIONS and CONTENT remain unverified — the transcript panel renders
+EMPTY on both the browser route and the fetch route; a bounded
+off-platform search did not locate a transcript of this lecture (the
+cherry-juice material found is a DIFFERENT work, a podcast). Note: the
+fetch-route retry prompt targeted 57:00-1:16:00, mostly material
+beyond the assigned clips (assignment windows on file: 03:29-09:21,
+25:46-44:11, 54:02-57:21), so that retry was not a correctly targeted
+content check.
 (4) Seven candidate videos: streams never played on the surfaces tried
 this session (embed and watch); captions unverified; a
 playback-capable session is still needed (gate verdict #4 routing).
