@@ -456,12 +456,16 @@ Independent corroboration: the deg-verify-b lane's receipt
 (docs/degrees/verify/deg-wol-pragmatism-m4-sources-1026f.md, 2026-10-26)
 confirmed the three sources and the assigned passages' boundaries
 independently. Its Reading A count is 774 on a cleaned HTML
-extraction against this module's 778 on the downloaded plain text,
-as stated: the plain-text 778 was reproduced by the lane this
-session, the verifier's 774 was not, and the exact cause of that
-four-word difference is unresolved; the boundaries are identical. The
-same receipt corroborates the blocked-playback limit on the video
-candidates.
+extraction against this module's 778 on the downloaded plain text;
+both counts are now reproduced under their stated rules, and the
+four-word difference is identified exactly: the plain text prints
+each of the passage's four bracketed sidenote openers ("[Sidenote:")
+as its own whitespace token, and the verifier's HTML cleaning
+consumes them (tags replaced with nothing; the closing brackets
+merge with adjacent words), so the plain-text count minus those
+four opener tokens is the verifier's 774; the passage text and
+boundaries are identical. The same receipt corroborates the
+blocked-playback limit on the video candidates.
 
 ## Alignment map
 
