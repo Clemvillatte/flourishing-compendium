@@ -18,6 +18,23 @@ after direct PDF verification" disagrees with this session's double-read of
 the archived chapter; the 86 value is internally consistent with the chapter
 pagination and is what the opened carrier shows.
 
+
+## VERIFICATION CHECKPOINT (2026-10-26 00:27Z, sup-1026b — stories published-page sweep, ROUTED TO SUPERVISOR)
+
+Full story_check --context published sweep of all 468 published story pages:
+343 FAIL, 125 pass. The failures are almost entirely LEGACY FORMAT (333
+structural-only: no bullet **Principles:** section, no ## Sources with URL,
+prose under the 150 floor — the pages predate the current protocol, mostly
+ST001-ST344). This is a mass-conformance decision for the owner (repair
+pass over 343 legacy pages vs grandfathering them), NOT a defect list.
+Ten pages carry small MECHANICAL defects that can be fixed independently of
+that decision (reword-only, no narrative change): ST016 'meticulous', ST139
++ ST225 'crucial' (banned phrases); ST303 'not merely pleasant but', ST315
+'not merely good for the person but' (staging); ST331/332/333/335/336 dash
+budget 4-7 (max 3). ST432 Jim Forest is 1 word over the 480 cap (481).
+Verification lane note: the 22 kept copies from this session's duplicate
+reconciliation all pass (checked at reconciliation time); the newer
+registrations (ST345+) conform.
 ## OWNER CORRECTION 2026-10-25 14:34Z (gm-c2183cca, supervisor)
 
 Completed and pushed 2026-10-25 14:57Z. Seventy-two kernels have specific
