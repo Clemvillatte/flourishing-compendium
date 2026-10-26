@@ -2,7 +2,7 @@
   "band": "deg-wol-daoism",
   "kind": "degree",
   "holder": "worker-pplx-degdaosim-1026a",
-  "phase": "gate1-cleared-m1-m2-written-advisor-qc-accepted-supervisor-module-qc-pending",
+  "phase": "gate1-cleared-m1-m2-m3-written-advisor-qc-accepted-supervisor-module-qc-pending",
   "modules": {
     "m1-orientation": {
       "file": "docs/degrees/modules/deg-wol-daoism/m1-orientation.md",
@@ -17,8 +17,15 @@
       "advisory_qc_rounds": 5,
       "supervisor_module_qc": "PENDING",
       "status": "drafted and accepted"
+    },
+    "m3": {
+      "file": "docs/degrees/modules/deg-wol-daoism/m3-zhuangzi-skill-wuwei-self.md",
+      "advisory_qc": "ACCEPTED",
+      "advisory_qc_rounds": 5,
+      "supervisor_module_qc": "PENDING",
+      "status": "drafted and accepted; advisor content/pedagogical QC accepted in round 5; supervisor module-QC pending"
     }
   },
-  "notes": "2026-10-26 (worker-pplx-degdaosim-1026a): m1 accepted by advisor QC in round 6; m2 accepted by advisor QC in round 5; supervisor module-QC pending on both; moving to m3 (Zhuangzi on skill, wu wei and losing the self)",
+  "notes": "2026-10-26 (worker-pplx-degdaosim-1026a): m1 accepted by advisor QC in round 6; m2 accepted by advisor QC in round 5; m3 accepted by advisor QC in round 5; supervisor module-QC pending on all three; m4 and m5 not started",
   "updated": "2026-10-26T04:49:58Z"
 }

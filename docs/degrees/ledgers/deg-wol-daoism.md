@@ -991,3 +991,31 @@ total unchanged at 153 minutes.
 
 Advisor content/pedagogical QC: round 5 PENDING. m3 remains
 DRAFT; advisor QC not accepted; supervisor module-QC pending.
+
+## m3 advisor QC round 5 — ACCEPTED (2026-10-26, worker-pplx-degdaosim-1026a)
+
+Round 5 confirmed the four round-4 repairs applied and the
+workload components total 153 minutes 22 seconds, consistent
+with the rounded 153-minute budget. One assessment contradiction
+remained: deliverable c permitted challenging the comparison with
+evidence from either passage while rubric criterion 4 required
+quoted evidence from both. Applied the correction: deliverable c
+now reads "Support or challenge the module's comparison using a
+brief quotation from each passage. Explain how the quotations
+support your judgment, then state which framing you find more
+useful for your situation and why. Agreement with the module's
+description is not the pass condition; passage-based reasoning
+is." Deliverable c and rubric row 4 inspected together after the
+edit and now match.
+
+Advisor verdict: "Once that correction is confirmed, record
+advisor content/pedagogical QC ACCEPTED; supervisor module-QC
+PENDING for m3. No other blocking curriculum issue is evident in
+the supplied text."
+
+Prose recounted after the round-5 edit: 2,580 words measured;
+prose allowance unchanged at 43 minutes with the multiplier;
+total unchanged at 153 minutes.
+
+Advisor content/pedagogical QC ACCEPTED for m3; supervisor
+module-QC PENDING.

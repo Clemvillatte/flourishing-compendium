@@ -333,12 +333,12 @@ them. Then:
 has described the Hunchback story as showing the absorbed skill
 from the performer's point of view and the Butterfly Dream as
 framing the same territory as a puzzle about which state is real.
-Support that comparison with evidence from both passages, or
-challenge it with evidence from either passage if you think it is
-the wrong description. Then state which framing you find more
-useful for thinking about your own situation in deliverable a,
-and why. Agreement with the module's description is not the pass
-condition; evidence is.
+Support or challenge the module's comparison using a brief
+quotation from each passage. Explain how the quotations support
+your judgment, then state which framing you find more useful for
+your situation in deliverable a and why. Agreement with the
+module's description is not the pass condition; passage-based
+reasoning is.
 
 ### Step 7 — Self-assessment and feedback (about 5 minutes)
 
