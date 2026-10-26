@@ -138,3 +138,22 @@
 - All quoted labels above were read from surfaces this session
   actually opened (cloud-browser embed players and fetched watch
   pages); nothing is quoted from memory.
+
+## Addendum (same session, later pass): transcript-panel route attempted on both videos
+
+After finding (on another video, see
+verify/deg-wol-pragmatism-m4-video-coverage-1026f.md) that the watch
+page's transcript panel can render in this environment when the
+bot-wall dialog is dismissed, the same route was attempted on both of
+this receipt's videos:
+- ksLO4i5pIBM: the "Show transcript" button exists and the panel
+  opens, but the panel rendered EMPTY (zero text lines) — on the
+  first attempt and on one careful retry with a longer wait.
+- c_Nxr3ZQxqA: the panel opened and rendered EMPTY on the single
+  attempt made.
+
+Result: no transcript text was obtained for either video this session.
+The route is per-video/per-session flaky (the buddhism lane recorded
+the same mixed pattern on other videos); the empty result here is
+recorded as this session's observation, not as a property of the
+videos. The m1/m3 dispositions above are unchanged.
