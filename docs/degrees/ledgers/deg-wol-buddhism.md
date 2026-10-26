@@ -99,6 +99,7 @@ readings are already-published project content. The production owner
 still owes module-level mapping against the cleared scope before the
 coverage gate can be requested.
 
+<<<<<<< HEAD
 ## Sources opened (production session 2026-10-26, worker-pplx-buddhism-1026a, baton deg-wol-buddhism)
 
 | URL | opened (UTC) | by | what it verified |
@@ -183,3 +184,31 @@ unverified (11:15-11:21); the SN 56.11 rebirth frame handled as the owed
 passing mention (outcome 4 of the module); the tanha/chanda boundary taught
 via Harvey. No new sources opened this item (all four carry receipts);
 statuses in the module's source table reference the receipts.
+=======
+## Production session log — worker-pplx-buddhism-1026a, 2026-10-26 (~04:49Z start)
+
+### Ledger 1: sources opened and verified this session (supersession record)
+
+1. **SN 56.11, Sujato translation, SuttaCentral** — https://suttacentral.net/sn56.11/en/sujato
+   Opened 2026-10-26 in the cloud browser (fetch_url cannot render the JS page; same limitation the earlier verifier documented). Full article text read: two extremes, middle way, the four truths with the three rounds and twelve aspects, Koṇḍañña's insight, the closing verses. Word count measured on the opened page: 2,009 (translation with Sujato's notes). Free, no paywall. Supersedes nothing (M-15-001 stands; this is an independent confirmation of the same source).
+
+2. **Ajahn Brahm, "What the Buddha Taught"** — current URL https://www.youtube.com/watch?v=W6pGAvtBmCw (Everyday Dhamma Network remaster; talk recorded 21 November 2003 at Dhammaloka, Perth; page published 2023-11-05). Duration 49:44 confirmed on the opened video page and the Everyday Dhamma episode page (https://everydaydhamma.net/podcast/ajahn-brahm-podcast/episode/what-the-buddha-taught-ajahn-brahm). Chapters read on the video page: The night of enlightenment 0:00; Understanding rebirth 2:29; Consequences of rebirth 12:46; The law of karma 19:44; Ethics and tolerance 25:46; Making ethical decisions 31:32; The Four Noble Truths 37:33. Transcript excerpts of the ethics and four-truths segments read on the Everyday Dhamma episode page (Rāhula ethics, guilt-has-no-part, acknowledge-forgive-learn, the happiness/unhappiness reframing, the itch-and-scratch passage). Credentials verified on the BSWA institutional page https://bswa.org/teachers/ajahn-brahm/ (Cambridge theoretical physics degree; ordained 1974, Forest Tradition of north-east Thailand under Ajahn Chah; abbot of the largest Buddhist monastery in the Southern Hemisphere). Free, Creative Commons per BSWA distribution.
+   **SUPERSESSION**: the inherited record's YouTube ID 2Kh6sS-5uvA no longer plays ("This video isn't available anymore", opened in the cloud browser 2026-10-26). The remaster W6pGAvtBmCw is the same talk at the same duration. Coverage note: the talk's four-truths treatment is Ajahn Brahm's own happiness/unhappiness reframing and does not enumerate the eightfold path; the ethics segment carries the ethics-first design. The first 25:46 (rebirth and kamma cosmology) is outside the degree scope and left unassigned.
+
+3. **Dreyfus Four Noble Truths course, session 1** — inherited ID j_CrHKF9ngY no longer plays (cloud browser, 2026-10-26). Course session 1 found live at https://www.youtube.com/watch?v=DLPsIhDWZp4 (Shantideva Center, FPMT; page title "[#1: Apr 23, 2024] The Four Noble Truths - Georges Dreyfus"; duration 1:25:04 observed on the opened page; note: the inherited record said 1:20:35, and the search snippet's "(1:20:35)" disagrees with the page's own 1:25:04). A YouTube bot wall ("Sign in to confirm you're not a bot") blocked transcript access this session. **STATUS: held out of all modules until the verification lane confirms transcript coverage on the new URL.**
+
+4. **BSWA "What Is Buddhism?" pamphlet pages** (bswa.org/practices/buddhism-ajahn-brahm/, bswa.org/teaching/buddhism-ajahn-brahm/) and the **"Joy At Last To Know There Is No Happiness In The World"** PDF (bswa.org, 1999 Rains Retreat talk on the first three noble truths) surfaced in search with substantive snippets (four noble truths summary; investigate-or-escape teaching) but were not fully opened this session. **Candidates for m2-m4; verification required before assignment.**
+
+### Module map and coverage matrix
+
+Written into docs/degrees/scope/deg-wol-buddhism.md (section "Module map and coverage matrix, 2026-10-26") and mirrored here in short: essential path m1 → m2 → m3 → m4 → m5 → m6 → m8, elective m7 (no capstone dependency); L3 school-comparison work sits inside m8 before its independent analysis. Blocking source gaps: BG-1 five precepts and four immeasurables teaching (m2); BG-2 guided foundational meditations (m3); BG-3 Zen teaching video (m5); BG-4 Insight/Vipassana and Secular Buddhism sources (m6). Verified and available: Ajahn Brahm, Hallisey, Halifax, Dalai Lama Nature of Mind, Obeyesekere (from the inherited verify files, several with the uploader-description caveat noted below).
+
+### m1-four-truths: PRODUCED
+
+docs/degrees/modules/deg-wol-buddhism/m1-four-truths.md written this session. Two attached sources (SN 56.11 Sujato; Ajahn Brahm talk, assigned segment 25:46-49:44), both opened and verified this session (records 1 and 2 above). Outcomes 1-5; practice is a three-day itch-and-scratch journal; assessment is a four-truths mapping plus retrieval checks; workload arithmetic totals about 2 hours 51 minutes from measured components. Awaiting supervisor module-QC and independent review (owner cannot clear own gates).
+
+### Caveats and flags for the verification lane
+
+- Inherited verified-video records that rest on uploader descriptions for coverage (for example, uploader-provided descriptions of Dreyfus sessions) should be treated as provisional per the advisor's standing instruction; my own records above state what I opened myself.
+- Dreyfus new-URL transcript confirmation is the highest-value verification item for this degree (BG-5, blocking for scholarly-depth outcomes).
+>>>>>>> 173fd91 (deg-wol-buddhism: module map + coverage matrix into scope doc; m1-four-truths PRODUCED (SN 56.11 + Ajahn Brahm remaster, both opened in-session); ledger evidence written; Dreyfus held out pending new-URL transcript verification)

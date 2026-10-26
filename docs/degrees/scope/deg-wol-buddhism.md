@@ -55,6 +55,33 @@ Comparison:
 
 Strategist's note (non-binding): the benchmark supports the bounded domain as drawn. Two items for the owner's eye: the rebirth-cosmology boundary (all three anchors teach karma and rebirth, and UF and Bond pair it with cosmology; owner rule, challenge recorded) and the school-list structure (community-driven, not anchor-mirrored — Secular Buddhism and Thai Forest have no direct anchor units).
 
+## Module map and coverage matrix (production owner's working map, 2026-10-26)
+
+Essential path: m1 → m2 → m3 → m4 → m5 → m6 → m8. Elective: m7 (no
+hidden dependency from the capstone). Levels: m1 L1, m2 L2, m3 L1/L2,
+m4-m6 L2, m7 L3 elective, m8 L4 capstone. The essential school-comparison
+work reaches L3 inside m8 before the capstone's independent analysis.
+
+| Module | Level | Content (essential unless noted) | Source status |
+|---|---|---|---|
+| m1-four-truths | L1 | Four truths as four tasks, middle way, eight path factors, canonical-vs-interpretive reading; ethics-first entry via Ajahn Brahm ethics segment | PRODUCED 2026-10-26 (both sources opened and verified this session) |
+| m2-sila | L2 | Five precepts, four immeasurables (all four, metta/karuna/mudita/upekkha), applied ethics with hard cases | BLOCKING GAP BG-1: no verified teaching source for precepts/immeasurables yet (candidates to harvest and verify) |
+| m3-meditation | L1/L2 | Foundational meditations: calm, insight, metta, guided practice taught in-degree | BLOCKING GAP BG-2: guided-practice sources unverified (BSWA guided meditations are candidates) |
+| m4-theravada-thaiforest | L2 | Theravada frame; Thai Forest lineage (Ajahn Brahm, Hallisey verified; Ajahn Chah story episode is an unverified candidate) | Sources mostly verified; one candidate to verify |
+| m5-zen | L2 | Zen: practice orientation, koans as practice | PARTIAL: Halifax verified; BG-3 needs a verified Zen teaching video |
+| m6-insight-secular | L2 | Insight/Vipassana and Secular Buddhism; comparison with traditional frames | BLOCKING GAP BG-4: candidates (IMC talks, secular-Buddhism lectures) unverified |
+| m7-psychology | L3 elective | Buddhist psychology practical portions (hindrances, aggregates in practice) | Dalai Lama Nature of Mind and Obeyesekere verified |
+| m8-capstone | L4 | Integrative capstone: sustained practice with records, written synthesis, school-by-school comparison (L3 comparison work) | Designed after m2-m6 land |
+
+Coverage of exit capabilities: ethical core (sila, precepts, four
+immeasurables) taught and practised in m2, assessed in m2 and m8;
+practical path per school (Secular, Zen, Insight, Theravada, Thai Forest)
+taught in m4-m6, compared at L3 in m8; foundational meditations taught
+and practised in m3; applied ethics and school disagreements taught in
+m2 and m4-m6, assessed in m8. Excluded everywhere: rebirth cosmology,
+abhidharma scholastics, tantric ritual (passing mentions only where
+ethics or practice requires).
+
 ## Owner items
 
 See docs/degrees/OWNER-DECISIONS.md (legacy degrees and their fate).
