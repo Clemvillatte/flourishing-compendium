@@ -62,7 +62,7 @@ Rows in the D1 coverage matrix with any open-carrier evidence. Each row below st
 The spec's mandatory checkpoint: the D1 map + this D2 matrix go to the reviewer together. The reviewer's decisions owed:
 
 1. The POS-TEACH-1 free-audit verification (gap 2).
-2. The Greater Good and PositivePsychology.com fetch passes (gap 3).
+2. The Greater Good and PositivePsychology.com fetch passes (gap 3) — HALF-RESOLVED this session: POS-REF-2 (Greater Good homepage) is OPENED-VERIFIED (free 8-week course + 14 Keys to Well-Being topics named on the page); POS-REF-3 (PositivePsychology.com) is crawler-blocked (two failed direct fetch attempts, both SLS_CRAWL_FAILED) — a browser-based or manual pass is owed.
 3. The exclusion candidates (emotional intelligence, education/healthcare, ageing/institutions, future topics — gap 4).
 4. The primary-text structural problem (gap 1) — whether the degree is buildable at all from open carriers without the paywalled books, or whether the doc library + open articles satisfy the bar.
 5. The hours arithmetic (gap 5) — the biggest structural risk of the batch; measured, not estimated.

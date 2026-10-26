@@ -69,11 +69,11 @@ Rows in the D1 coverage matrix with any open-carrier evidence. Each row below st
 
 The spec's mandatory checkpoint: the D1 map + this D2 matrix go to the reviewer together. The reviewer's decisions owed:
 
-1. The Peirce-essays open-carrier pass (gap 1).
-2. The Will to Believe and Dewey normative-essays open-carrier passes (gaps 2, 3).
-3. The contemporary-pragmatism block: whether the open journal-article route (European Journal of Pragmatism and American Philosophy, Transactions of the CS Peirce Society) satisfies the bar, or whether the Rorty/Putnam/Brandom rows are excluded on the finite-scope rule.
-4. The Stanford Online robots-blocked route (gap 5).
-5. The hours arithmetic (gap 7) — measured, not estimated.
+1. The Peirce-essays open-carrier pass (gap 1) — RESOLVED per the owner's teaching-content-only ruling (bad5c55b8): the owner-library pointer governs; the archpsych-1027a receipt confirmed Gutenberg #65274 as a bounded-assist record.
+2. The Will to Believe and Dewey normative-essays open-carrier passes (gaps 2, 3) — RESOLVED per the same ruling; Gutenberg #26659 and the Wikisource Dewey route confirmed as bounded-assist records by the same receipt.
+3. The contemporary-pragmatism block — RULED by the gate-1026s verdict (1a781d335): the row is EXCLUDED on finite scope. PRAG-REF-4 (EJPAP) is recorded as an out-of-scope discovery note only; the reviewer should confirm the ruling stands.
+4. The Stanford Online route (gap 5) — RESOLVED: the course is PAID ($465, corroborated); no free route exists for this carrier; the doc library is the main in-repo teaching carrier.
+5. The hours arithmetic (gap 7) — measured, not estimated; UNMEASURED this pass; the gate's ~104h figure (1a781d335) is the authoritative floor measurement and supersedes this pool's draft figures.
 6. The optional rows in the D1 matrix (Carnap/Quine, Brandom, Apel/Habermas, Haack, Kyoto-style) — the D2 evidence makes these the exclusion candidates.
 
 ## D2 handoff
