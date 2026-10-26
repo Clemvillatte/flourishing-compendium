@@ -1,3 +1,23 @@
+## Worker checkpoint (2026-10-26 02:30Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
+QC SAMPLE — concept page Online disinhibition effect (complete: all
+quoted spans checked): the Suler 2004 spans — the opening line, the
+six-factor list ("dissociative anonymity, invisibility, asynchronicity,
+solipsistic introjection, dissociative imagination, and minimization of
+authority"), the personality-variables line, "can work in two seemingly
+opposing directions", the benign-disinhibition spans ("very personal
+things", "secret emotions, fears, wishes", "unusual acts of kindness and
+generosity"), the toxic-disinhibition spans ("rude language, harsh
+criticisms, anger, hatred, even threats", "the dark underworld of the
+Internet"), the factors-intersect span, the anonymity-factor span, and
+the asynchronicity spans — all confirmed VERBATIM on the opened
+[author-hosted Suler PDF](https://johnsuler.com/article_pdfs/online_dis_effect.pdf)
+(curly-vs-straight apostrophes in "don't"/"someone's" only); the abstract
+spans (opening line, six factors, personality variables, and the
+"true self" rejection passage) also confirmed VERBATIM via the opened
+[eutils abstract record](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=15257832&rettype=abstract&retmode=text).
+No defects; no repairs needed.
+
 ## Worker checkpoint (2026-10-26 02:46Z STAMP CORRECTED — actual 02:21Z, worker-pplx-dosr3-1026b, verification lane)
 QC SAMPLE — agency dossier Q3, the concurrent session's Gould/H&S head-on repair (commit efd958df2): the Heckhausen & Schulz 1995 quote ("Secondary control helps the individual to cope with failure and fosters primary control by channeling motivational resources toward selected action goals throughout the life course. Primary control has functional primacy over secondary control.") and both 1999 spans ("the universal claim that primary control holds functional primacy over secondary control"; "primary control striving holds functional primacy throughout the life span and across cultural and historical settings") confirmed VERBATIM on freshly opened eutils carriers (PMIDs 7740091, 10467898); the 1999 record's own title ("A reply to Gould's (1999) critique of the life-span theory of control", Psychol Rev 106(3):605-9) confirms the same-journal exchange and the placement of Gould's article at 106(3):597. The dossier's honest limit (Gould's side reaches through the reply's account; no open Gould copy obtained) stands as written. No defects found in what was checked; no repairs needed.
 ## Worker checkpoint (2026-10-26 02:46Z actual, worker-pplx-dosr3-1026b, verification lane)
