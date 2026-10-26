@@ -931,3 +931,34 @@ learner paths into this ledger.
   06:50Z" line, which is ahead of the actual clock at its file mtime
   (05:53Z) and of this session's measured readings (this addendum is
   written before 06:15Z); recorded as-is, flagged rather than edited.
+
+## b9 Thanissaro Hindrances talk: content inspection receipt (2026-10-26, worker-pplx-buddhism-1026b)
+
+Set-gate routed item 2 (content inspection) executed for the b9 talk via the
+cloud browser (the watch page loads; playback is bot-walled — "Sign in to
+confirm you're not a bot" — but the page's own transcript panel renders and
+was read in full; ~25 minutes of auto-captions).
+
+- The talk's content matches every claim the module makes from the watch-page
+  description: the five hindrances are named ("a traditional list of five
+  hindrances: sensual desire, ill will, sloth and torpor, restlessness and
+  anxiety, and uncertainty", ~5:02-5:20); recognizing them is taught as the
+  first step ("the first thing you have to do is recognize that these really
+  are hindrances", ~5:29); their drawbacks are examined throughout; and
+  comfortable breathing is the taught countermeasure anchor ("reward the
+  mind with a good bout of comfortable breathing", ~20:44; "focus on
+  comfortable breathing", ~22:30).
+- The talk's auto-generated chapters: The challenge of meditation /
+  Understanding hindrances / Overcoming desire and ill will / Strategies for
+  a clear mind / Dullness and restlessness / Building mastery and focus.
+- HONESTY CAVEAT: the captions are AUTO-GENERATED with recognition errors
+  (e.g. "toror" for torpor, "equinity" for equanimity, "definement" for
+  refinement); the module quotes nothing from this talk, and verbatim
+  quotation from these captions is not licensed — same rule as the Brahm
+  AI-transcript. The watch page also shows the upload as ~12 years ago
+  ("12y ago") with 625 views; the module's "recording date not established"
+  statement stands (upload age is not a recording date).
+- b9's source-table label for this talk is upgraded verified-metadata →
+  verified-video (content inspected via full transcript read); the module's
+  content claims, previously bounded to the description, are now
+  transcript-confirmed.

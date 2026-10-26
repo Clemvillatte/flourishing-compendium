@@ -62,7 +62,10 @@ https://www.youtube.com/watch?v=PcR_fI6p9k8, 0:25:00.** The talk
 presents the traditional list of five hindrances and discusses
 recognizing them, seeing their drawbacks, and using meditation,
 especially comfortable breathing, to keep them from taking over the
-mind. Free, Creative Commons BY-NC 3.0 (stated on the page). The
+mind — each of these points confirmed on the read transcript (the
+captions are auto-generated with recognition errors, so nothing is
+quoted verbatim from them). Free, Creative Commons BY-NC 3.0 (stated on
+the page). The
 speaker's credentials were opened on the buddho.org biography page in
 b1 (Thai forest kammatthana tradition; student of Ajahn Fuang Jotiko;
 Abbot of Metta Forest Monastery since 1993).
@@ -171,7 +174,7 @@ optional further reading.
 
 | resource | status | verified | notes |
 |---|---|---|---|
-| Thanissaro Bhikkhu, "Hindrances", https://www.youtube.com/watch?v=PcR_fI6p9k8 | verified-metadata | 2026-10-26 (this session; corroborated by deg-verify-a B-V12) | duration 0:25:00 on the watch page; CC BY-NC 3.0 stated; CONTENT NOT YET INSPECTED beyond the watch page's stated description, so content claims are bounded to it (the five hindrances, recognizing them, their drawbacks, comfortable breathing); credentials opened on buddho.org (b1) |
+| Thanissaro Bhikkhu, "Hindrances", https://www.youtube.com/watch?v=PcR_fI6p9k8 | verified-video | 2026-10-26 (content inspected this pass via full transcript read; watch page metadata corroborated by deg-verify-a B-V12) | duration 0:25:00 on the watch page; CC BY-NC 3.0 stated; the five hindrances named (~5:02-5:20), recognizing them as the first step (~5:29), drawbacks examined throughout, comfortable breathing as the countermeasure anchor (~20:44, ~22:30) — all confirmed on the read transcript; captions are AUTO-GENERATED with recognition errors, so the module quotes nothing verbatim from this talk; credentials opened on buddho.org (b1) |
 | Nyanaponika Thera, The Five Mental Hindrances and Their Conquest, https://accesstoinsight.org/lib/authors/nyanaponika/wheel026.html | verified (text) | 2026-10-26 (this session) | The Wheel No. 26, BPS 1993, © 1994; free redistribution license stated on the opened page; selected Pali canon texts and commentaries on each hindrance with countermeasures |
 | Thanissaro Bhikkhu, "The Five Aggregates: A Study Guide", https://www.accesstoinsight.org/lib/study/khandha.html | verified (text) | 2026-10-26 (full page pulled and both assigned sections read in full this pass by worker-pplx-buddhism-1026b; content coverage pre-verified in the degree ledger 2026-10-26) | ©2010 Metta Forest Monastery, first published on ATI 2002, last revised 30 November 2013; CC BY-NC 4.0 stated on the page; assigned sections read this pass: Introduction (2,619 words) and The Questions (609 words), first/last sentences stated in Step 4; word counts measured locally on the pulled page text |
 
