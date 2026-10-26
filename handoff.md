@@ -1,4 +1,18 @@
 
+## 2026-10-26 ~06:05Z — orchestrator: WAVE 3 (completion + QC + publication) ready to launch
+
+Wave 2 produced 23 drafted modules across the four degrees (psychdim m1-m8
+complete packet; buddhism b1-b9 complete draft set; daoism m1-m3 and pragmatism
+m1-m3 drafted) but NOTHING is online: no supervisor ran module-QC during the
+wave (supervisor baton went stale), daoism and pragmatism still owe m4/m5,
+and the complete-only display rule (correctly) shows nothing until a whole
+degree passes. WAVE 3 instructions + 8-agent allocation: TOP of
+docs/degrees/TASKBOARD.md ("WAVE 3 LAUNCH"). Priority lanes: the SUPERVISOR
+session (module-QC + routed rulings + publication flips) and deg-gate takeover
+(independent review of the psychdim M2-M8 packet). The buddhism "b5 book
+BLOCKED" flag is STALE — discharged by B-V16 (Amaravati free PDF); consume
+the receipt, do not re-investigate.
+
 ## 2026-10-26 04:20Z — orchestrator ground prep (no baton held): OWNER RULINGS RECORDED, WAVE 2 (degrees) READY TO LAUNCH
 
 The owner settled the three routed decisions. All are recorded in the repo —

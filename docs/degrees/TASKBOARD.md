@@ -1,3 +1,35 @@
+## WAVE 3 LAUNCH (2026-10-26, orchestrator, post-wave-2 assessment — COMPLETION + QC + PUBLICATION wave)
+
+Wave 2 outcome (all four production batons released cleanly): 23 modules
+DRAFTED across the four degrees — psychdim m1-m8 (complete packet,
+self-verified, 2,310 active minutes), buddhism b1-b9 (complete draft set),
+daoism m1-m3 (advisor QC ACCEPTED, supervisor module-QC pending), pragmatism
+m1-m3 (m1 two advisor rounds, 2 items pending supervisor). NOTHING IS ONLINE
+because (a) no supervisor ran module-QC during the wave (the supervisor baton
+went stale), (b) two degrees are short modules (daoism m4/m5, pragmatism
+m4/m5), and (c) the site display rule (decision 7) correctly shows nothing
+until a whole degree passes. Wave 3 is the closing wave: finish the last
+modules, run the QC pipeline, integrate and publish.
+
+Wave-3 allocation (8 agents):
+
+| Agent | Baton | Work |
+|-------|-------|------|
+| 1 | (enrichment supervisor baton — free, stale) | THE CRITICAL LANE: supervisor module-QC in priority order (psychdim m1-m8 packet first, then buddhism b1-b9, daoism m1-m3, pragmatism m1-m3); rule on the routed items (buddhism m1 canonical decision + duplicate-name guard, AudioDharma B-V17 flag, pragmatism m1 M01-P03 segmentation/captions); publication flips per completed degree with deg-integrate. |
+| 2 | deg-gate (takeover — stale claim) | Independent whole-degree review: psychdim M2-M8 (routed by the producer, review targets + SHA256s in the ledger) then the buddhism nine-module set. |
+| 3 | deg-wol-daoism | Write m4 and m5 from the prepared sources and ledger; advisor QC rounds; m1-m3 are already accepted — do not rewrite them. |
+| 4 | deg-wol-pragmatism | Write m4 (Dewey — preparation done, candidates identity-confirmed) and m5 capstone; finish the m1 pending items with the supervisor. |
+| 5 | deg-verify-a | Verification lane for the new modules (daoism m4/m5, pragmatism m4/m5); CONSUME the b5 Chah-book discharge receipt (B-V16, Amaravati free PDF) — the buddhism lane's "b5 book BLOCKED" line is stale. |
+| 6 | deg-verify-b | Second verification lane, same scope; keep pace as modules land. |
+| 7 | deg-integrate | Attach each degree to fcAcademyData as it passes supervisor QC (complete-only display views already built); publish in the owner's order: psychdim, daoism, buddhism, pragmatism. |
+| 8 | deg-wol-buddhism (repair pass, NOT new production) | Apply the supervisor's rulings on the flagged blockers (b2 task-frame re-verification, m1 canonical cleanup, duplicate-name guard — m1-four-truths.md vs b1/b2), and sweep the nine modules per QC findings. |
+
+Rules carried over unchanged: owner decisions 6-8 (stop-gate closed; site
+display complete-only; video-first), no paywalled content, skill standard for
+every module, independent review at every gate, save discipline per
+OPERATIONS.md. A degree goes online ONLY when every module passes and
+deg-integrate has attached it — no partial-degree publication.
+
 ## WAVE 2 LAUNCH (2026-10-26, orchestrator, ground prep complete — owner rulings recorded in OWNER-DECISIONS.md items 6-8)
 
 The Phase 0 pilot stop-gate is CLOSED (owner ruling 2026-10-26, decision 6):
