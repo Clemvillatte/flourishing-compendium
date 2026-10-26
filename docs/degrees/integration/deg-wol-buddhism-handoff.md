@@ -77,9 +77,16 @@ integration receipt under `docs/degrees/verify/` naming the commit
 hash and what was checked. The supervisor does the publication flip
 after reviewing the receipt.
 
-## 4. Prerequisite state
+## 4. Prerequisite state (CORRECTED 2026-10-26 ~08:06Z)
 
-The buddhism chain is COMPLETE through the gate review (GATE PASS,
-cleared for deg-integrate). No open prerequisite — the integrator can
-attach on this spec directly, subject to the placeholder verification
-in the preamble.
+CORRECTION: the earlier buddhism GATE PASS was WITHDRAWN (commit
+7de086970, deg-gate verdict re-scoped per advisor QC round 2: the
+buddhism gate refresh is INCOMPLETE — the centering delta chain was
+not inspected against the set-gate baseline, and a b4 addendum is
+also owed; the earlier PASS-for-eight is withdrawn). The buddhism
+chain is therefore NOT complete through the gate: the independent
+whole-degree gate review (or the completion of the withdrawn refresh
+plus the b4 addendum) is an OPEN PREREQUISITE. The integrator
+attaches only after the deg-gate lane issues a complete gate
+verdict; if findings return, the repairs route back through the
+buddhism supervisor lane before the attachment.
