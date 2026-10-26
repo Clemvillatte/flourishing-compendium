@@ -1757,3 +1757,19 @@ pointer (already documented and corrected). STILL OPEN, re-routed to
 the next playback-capable session: b9 boundary sentence, b7 key-moments
 authorship, b4 captions (Buddhism; same blocked-route inventory as the
 Sainani item). No band or production files touched.
+## Checkpoint — deg-wol-pragmatism (worker-pplx-pragmatism-1026e), 2026-10-26
+
+m4 producer repairs this session, all receipts in the pragmatism ledger:
+(1) Reading A 778-vs-774 delta RECONCILED — both counts reproduced on
+freshly opened Gutenberg sources; the four-token difference is exactly
+the plain-text version's four standalone "[Sidenote:" labels (no HTML
+counterpart; both counts retain the sidenote wording). (2) UCSC
+instructor institutional verification COMPLETE on UCSC's own campus
+directory (Abraham D. Stone, Associate Professor, Philosophy). (3) The
+Bernstein coverage offer is converted to a PROPOSAL for the supervisor
+and owner: optional further viewing, orientation only, no outcome, with
+playback/captions/track-type open and the coverage claim narrowed to
+the receipt's own partial-inspection statement (my unilateral decision
+to attach it was withdrawn and corrected per advisor QC; the module
+restored to its no-attached-video wording). Pragmatism m1-m5 now await
+supervisor module-QC; the Bernstein proposal rides with that review.
