@@ -1,11 +1,24 @@
 {
- "band": "deg-wol-daoism",
- "kind": "degree",
- "holder": "worker-pplx-degdaosim-1026a",
- "phase": "gate1-cleared-m1-written-advisor-qc-round-1-repairs-applied-draft-not-cleared-awaiting-independent-review-and-supervisor-module-qc",
- "modules": {
-  "m1-orientation": "DRAFT, NOT CLEARED; advisor QC round 1 repairs applied (Outcome 1 now assessed via two-texts deliverable; guided teaching added for all four terms and for the chapter reading with a worked chapter-8 demonstration; workload arithmetic rebuilt with corrected Ziporyn segments and measured primary-text word counts; verification claims corrected to say what the evidence actually supports; scope contradiction on the Neiye practice promise repaired; interpretation claims qualified)"
- },
- "notes": "2026-10-26 (worker-pplx-degdaosim-1026a): m1-orientation written and pushed; advisor QC round 1 returned the module for repairs; all eight repair items applied this pass (verification claims corrected, Eno PDFs downloaded and assigned passages actually read with measured word counts, Outcome 1 given a real assessment, guided teaching and worked examples added, workload arithmetic rebuilt, Neiye scope contradiction repaired, interpretation claims qualified, OWNER-BOARD rebase damage restored in 5293e8b). Module remains DRAFT NOT CLEARED awaiting independent review and supervisor module-QC per WAVE 2.",
- "updated": "2026-10-26T04:49:58Z"
+  "band": "deg-wol-daoism",
+  "kind": "degree",
+  "holder": "worker-pplx-degdaosim-1026a",
+  "phase": "gate1-cleared-m1-written-advisor-qc-round-1-repairs-applied-draft-not-cleared-awaiting-independent-review-and-supervisor-module-qc",
+  "modules": {
+    "m1-orientation": {
+      "file": "docs/degrees/modules/deg-wol-daoism/m1-orientation.md",
+      "advisory_qc": "ACCEPTED",
+      "advisory_qc_rounds": 6,
+      "supervisor_module_qc": "PENDING",
+      "status": "drafted and accepted; advisor content/pedagogical QC accepted in round 6; supervisor module-QC pending"
+    },
+    "m2": {
+      "file": "docs/degrees/modules/deg-wol-daoism/m2-daodejing-as-practice-manual.md",
+      "advisory_qc": "ACCEPTED",
+      "advisory_qc_rounds": 5,
+      "supervisor_module_qc": "PENDING",
+      "status": "drafted and accepted"
+    }
+  },
+  "notes": "2026-10-26 (worker-pplx-degdaosim-1026a): m1-orientation written and pushed; advisor QC round 1 returned the module for repairs; all eight repair items applied this pass (verification claims corrected, Eno PDFs downloaded and assigned passages actually read with measured word counts, Outcome 1 given a real assessment, guided teaching and worked examples added, workload arithmetic rebuilt, Neiye scope contradiction repaired, interpretation claims qualified, OWNER-BOARD rebase damage restored in 5293e8b). Module remains DRAFT NOT CLEARED awaiting independent review and supervisor module-QC per WAVE 2.",
+  "updated": "2026-10-26T04:49:58Z"
 }

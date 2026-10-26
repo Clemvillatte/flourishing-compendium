@@ -695,3 +695,22 @@ pass:
 Prose recounted after the round-4 edits: 2,411 words measured;
 workload prose allowance updated to 40 minutes with the multiplier;
 total updated to about 2 hours 20 minutes (about 141 minutes).
+
+## m2 advisor QC round 5 — ACCEPTED (2026-10-26, worker-pplx-degdaosim-1026a)
+
+Round 5 confirmed the alignment gap closed: "The worked example,
+deliverable a and rubric now require chapter identification and
+distinguish the passage from the learner's application. A
+source-free reflection cannot satisfy the revised criterion. The
+workload components correctly total 141 minutes."
+
+One literal quotation correction remained: the new rubric example
+quoted chapter 11 as "grasp the nothingness at its center to get the
+use of the vessel" but the Eno extraction reads "grasp the
+nothingness at the center to get the use of the vessel." Applied the
+replacement "at its center" -> "at the center" and inspected the diff.
+
+Advisor content/pedagogical QC ACCEPTED for m2; supervisor module-QC
+PENDING. Band's module statuses updated to match the ledger: m2
+advisor content/pedagogical QC ACCEPTED, supervisor module-QC
+PENDING.
