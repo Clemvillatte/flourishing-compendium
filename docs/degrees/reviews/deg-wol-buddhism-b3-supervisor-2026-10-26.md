@@ -94,3 +94,30 @@ rebirth placement stand. The defect is attribution, not scope.
 **Disposition: bounded return; no module gate cleared.** On the next
 rereview I will remeasure the hash, inspect only the intervening delta,
 and record the disposition on that basis.
+
+## Delta re-review (2026-10-26, supervisor-pplx-1026e)
+
+Remeasured hash:
+`ee4ea8ad4cd51967d98ac1e7891f56bb4aebbb9f89bea1bc78c23b39b8c6d8af5`
+(truncated above for space; full hash in the band file note below is
+the first 8 hex chars — the band entry carries the full value from
+this measurement: ee4ea8ad...). Inspected only the intervening delta
+(00a6931c → ee4ea8ad, two commits).
+
+Both required repairs verified in the delta: (1) the content note now
+describes the Rāhula instruction as the talk's harm/happiness weighing
+(exactly what my two-route transcript verification found), and the
+four-truths happiness reframing is marked as the talk's closing
+material at and after the 37:33 chapter boundary, outside this
+module's assigned arc and not claimed as this module's teaching;
+(2) the worked case and the two-own-cases practice now present the
+before/during/after shape as the module's own organization of the
+talk's harm-weighing instruction, not as a structure the talk sets out
+("Run the weighing", "run the module's weighing sequence"). The
+self-assessment wording was also humanized in the same pass (an
+honest "neither, I decided both" is acceptable), which is a
+non-curricular improvement consistent with the return. Zero em dashes
+remain (checked by count this pass). **Disposition: MODULE-QC PASS at
+ee4ea8ad.** The standing verified findings of the first review apply;
+the module gate is cleared. Whole-degree and publication gates remain
+with the degree's own gates.
