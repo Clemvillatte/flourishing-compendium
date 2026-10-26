@@ -357,3 +357,28 @@ The band quote map's remaining gratitude NOT FOUNDs (7), adjudicated:
    the map's blocked-hosts list and was not reachable from this environment,
    so these remain classified as blocked-fetch false positives per the map,
    not visually confirmed this session. Flagged for any future eye-check.
+
+# QC sample 10: dosr1 unadjudicated map items — right-effort (2026-10-26 02:43:26Z, measured in-command)
+
+The map recorded 2 right-effort NOT FOUNDs; the file has since been extended
+(the depletion paragraph's rebuild and the grit/passion addition), and the
+verifier now reports 4. All four adjudicated as FALSE POSITIVES:
+
+1. Baumeister et al. 1998 ("These results suggest that the self's capacity
+   for active volition is limited..."): verbatim on the NCBI efetch abstract
+   API (the PubMed page itself blocks both the script's fetcher and curl).
+2. Hagger et al. 2016 ("Although a meta-analysis of ego-depletion
+   experiments found a medium-sized effect..."): verbatim on the same API.
+3. Credé, Tynan & Harms 2017 (all four quoted spans — "is not confirmed",
+   "only moderately correlated with performance and retention", "very
+   strongly correlated with conscientiousness", "explains variance in
+   academic performance even after controlling for conscientiousness"):
+   verbatim on the efetch abstract, which is the dossier's own linked
+   plain-text carrier.
+4. Jachimowicz et al. 2018 PNAS (both spans — "has not adequately captured
+   passion" and "perseverance without passion isn't grit, but merely a
+   grind"): verbatim on the PMC full text (direct fetch); the grind
+   sentence prints with a typographic apostrophe ("isn't"), an
+   apostrophe-variant false positive.
+
+No repairs needed; right-effort quotes are clean.
