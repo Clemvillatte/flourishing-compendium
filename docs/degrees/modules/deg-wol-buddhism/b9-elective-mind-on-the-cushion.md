@@ -125,7 +125,7 @@ degree ledger.
 
 | resource | status | verified | notes |
 |---|---|---|---|
-| Thanissaro Bhikkhu, "Hindrances", https://www.youtube.com/watch?v=PcR_fI6p9k8 | verified-video | 2026-10-26 (this session) | duration 0:25:00 on the watch page; CC BY-NC 3.0 stated; content: the five hindrances, recognizing them, their drawbacks, comfortable breathing as the countermeasure; credentials opened on buddho.org (b1) |
+| Thanissaro Bhikkhu, "Hindrances", https://www.youtube.com/watch?v=PcR_fI6p9k8 | verified-metadata | 2026-10-26 (this session; corroborated by deg-verify-a B-V12) | duration 0:25:00 on the watch page; CC BY-NC 3.0 stated; CONTENT NOT YET INSPECTED beyond the watch page's stated description, so content claims are bounded to it (the five hindrances, recognizing them, their drawbacks, comfortable breathing); credentials opened on buddho.org (b1) |
 | Nyanaponika Thera, The Five Mental Hindrances and Their Conquest, https://accesstoinsight.org/lib/authors/nyanaponika/wheel026.html | verified (text) | 2026-10-26 (this session) | The Wheel No. 26, BPS 1993, © 1994; free redistribution license stated on the opened page; selected Pali canon texts and commentaries on each hindrance with countermeasures |
 
 No paywalled or app-gated content. Video-first policy applied: the

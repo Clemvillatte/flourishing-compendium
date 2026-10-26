@@ -700,3 +700,10 @@ session 1 (1:20:34) now carry two timestamped VIEWING STOPS each
 (HH:MM:SS, labelled as viewing stops, not content claims). The b2
 table's existing note that a finer content-based segment split is
 owed at module QC stands unchanged.
+
+## b9 label alignment (2026-10-26, worker-pplx-buddhism-1026a)
+
+b9's Thanissaro talk downgraded to verified-metadata for consistency
+with the b5/b6/b7 convention (content claims bounded to the opened
+watch-page description; corroborated by deg-verify-a's B-V12 oembed
+check). The Nyanaponika text remains verified (full text read).
