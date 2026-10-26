@@ -3,7 +3,7 @@
  "built": "2026-10-26",
  "built_by": "strategist-pplx-1026a (baton degrees-strategist)",
  "status": "Verified 2026-10-26 (deg-fix-content, worker-pplx-degfixcontent-1026a): all video windows and all reading assignments transcribed and checked against the module docs; every earlier verify flag is resolved in the entries (m2's three papers, m4's four papers, m7's five papers, m8's capstone roles), and three of this manifest's own earlier 'NOT found' entries were corrected as accent-blind grep misses (PD-M4-05, PD-M4-07, PD-M7-09 are assigned; NOT data-block extras). STILL UNRESOLVED, routed: (1) PD-M2-07 Gross 1998 has a doc basis but no printed bounded span (UNRESOLVED-LOCATOR); (2) the m8 requiredness of PD-M1-07 (Woolley) and PD-M7-10 (Vohs) is unresolved - neither is cited in m8 prose, both are assigned in their own modules, and the m8 doc's general reuse instruction does not discriminate; owner or schema lane decides. Confirmed genuine data-block extra: PD-M3-07 (Bazerman Noba - no assignment in any psychdim module doc). The PD-M7-10 'Heidbreder' mislabel and the PD-M3-03/M3-04 window errors are recorded in their entries. This manifest is consumable by Phase A subject to the three routed items above.",
- "provenance": "Per docs/degrees/AUDIT-2026-10-26.md phase 0. The learner-audit gate diffs this manifest against the integrated data block.",
+ "provenance": "Per docs/degrees/AUDIT-2026-10-26.md phase 0. The learner-audit gate diffs this manifest against the integrated data block. | Three missing reuse entries added 2026-10-26 (PD-M1-06 in mod-pd-5, PD-M1-07 in mod-pd-6, PD-M3-05 in mod-pd-7) after a full published-vs-manifest sweep; all verified against the module docs' Read sections. The mod-bud-5 BUD-B2-02 split and the PRAG-OPT-BERNSTEIN optional entry are schema-lane applications consistent with the design (SN 56.11's correct source id; the m4 Bernstein ruling, optional orientation-only viewing).",
  "modules": {
   "mod-pd-1": [
    {
@@ -248,6 +248,12 @@
     "role": "teach",
     "assignment": "Campbell et al. 1996 SCCS - VERIFIED: inspect the 12-item form, response anchors and reverse-keying note; no submission, no diagnostic cutoff",
     "kind": "reading"
+   },
+   {
+    "source_id": "PD-M1-06",
+    "role": "teach",
+    "assignment": "Maitland 2024 - TEACH reuse in m5 (optional text reference in m1): Table 1's Self row and the table note only, for the narrow framework/application distinction (open article PMC12392214). ADDED (deg-fix-content 2026-10-26): this reuse was published in mod-pd-5 but missing from the manifest - verified against m5-self-and-identity.md's Read section",
+    "kind": "reading"
    }
   ],
   "mod-pd-6": [
@@ -279,6 +285,12 @@
     "source_id": "PD-M6-04",
     "role": "teach",
     "assignment": "Ryan and Deci 2020 - VERIFIED: Figure 1 and the paragraph beginning \"Whereas both external regulation and introjection\" (incl. identified/integrated regulation and amotivation definitions); then the first paragraph under \"Multiple motives and relative autonomy\"; skip the later classroom-policy review",
+    "kind": "reading"
+   },
+   {
+    "source_id": "PD-M1-07",
+    "role": "teach",
+    "assignment": "Woolley, Giurge and Fishbach 2025 - TEACH reuse in m6 (optional further reading in m1): the Abstract; the paragraph immediately before the main Study 3 heading (not 'Study 3 disclosures'); Study 2's opening paragraph and Study 3's Procedure paragraph; Study 4's opening paragraph, its Method paragraph beginning 'Of the 933 participants invited back,' and its first two Results paragraphs; then the General Discussion paragraph beginning 'Several open questions remain.' ADDED (deg-fix-content 2026-10-26): published in mod-pd-6 but missing from the manifest - verified against m6-motivational.md's Read section",
     "kind": "reading"
    }
   ],
@@ -347,6 +359,12 @@
     "source_id": "PD-M7-07",
     "role": "teach",
     "assignment": "Reed et al. 2020 - VERIFIED m7 doc assignment: Abstract and 'Participants' only, distinguishing measurement families and the selected older-adult population [PMC7250393]",
+    "kind": "reading"
+   },
+   {
+    "source_id": "PD-M3-05",
+    "role": "revisit",
+    "assignment": "Bouton, Noba conditioning-and-learning - REVISIT in m7: the Vocabulary entries 'Reinforcer' and 'Punisher' only, to check the increase/decrease definitions, not the full module. ADDED (deg-fix-content 2026-10-26): published in mod-pd-7 as role=revisit but missing from the manifest - verified against m7-overt-behavioural.md's Read section",
     "kind": "reading"
    }
   ],
