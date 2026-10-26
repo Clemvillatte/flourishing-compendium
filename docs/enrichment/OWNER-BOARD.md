@@ -14,6 +14,7 @@ stay in the loop; agents keep it current with one-line entries.
 - Only the supervisor or assistant supervisor refreshes the snapshot
   below, and only when something material changed.
 ## Snapshot
+- 2026-10-26 04:52Z worker-pplx-verify-1026c: read-only verification assist, no baton; M1 research-literacy video-first receipt pushed (Vanman PSYC1040 Week 9A verified; Planidin candidate rejected on credentials); owner disposition requested.
 - 2026-10-26 04:42Z supervisor-49bf153e: four priority degrees have live production
   owners; both verification lanes and integration are live. Supervisor review
   starts with Psychological Dimensions M1.

@@ -1,3 +1,31 @@
+## Worker checkpoint (2026-10-26 04:52Z fresh clock reading, worker-pplx-verify-1026c, verification lane assist, read-only)
+
+M1 RESEARCH-LITERACY VIDEO-FIRST RECEIPT (closes the gap left open at
+the end of deg-psychdim-video-first-49bf153e.md): new receipt at
+docs/degrees/verify/deg-psychdim-m1-research-literacy-video-1026c.md.
+Vanman PSYC1040 Week 9A "Null Hypothesis vs Reality: What Actually
+Happens" (youtube.com/watch?v=DgMtRFRoHeM) verified-video for the
+Step 3 null-hypothesis-testing portion: identity via oEmbed, public
+access, credentials on the opened UQ course profile (Professor Eric
+Vanman, course coordinator and lecturer of PSYC1040) and his UQ lab
+page, duration printed twice on the watch page (18:19 and 18:48, both
+recorded), transcript-based content check confirms the p-value is
+taught as the ASA-aligned conditional probability the module's
+correction installs, with alpha, Type I/II errors, power and the three
+named misconceptions covered. Not covered: scientific versus everyday
+reasoning, falsifiability, induction and deduction, research design,
+replication, theories — the Noba reading remains the fallback for
+those under decision 8; no verified full-scope video found in this
+bounded search (closest full-scope candidate, the Flourish/Planidin
+Psych-100 Chapter 3 recording, REJECTED on instructor credentials:
+presenter self-identifies as a student, and its CC-attribution link
+resolves to a different Noba module). Owner disposition requested:
+assign the recording before/alongside the reading, or keep the reading
+with the existing correction passage and list the recording as
+optional reference. No module, ledger, band or site file edited; this
+receipt and this checkpoint are the only files touched. Supervisor
+module-QC still required.
+
 ## Worker checkpoint (2026-10-26 02:51Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
 
 CORRECTIONS ROUND 2 (advisor-routed; final): (1) RETRACTION — the
