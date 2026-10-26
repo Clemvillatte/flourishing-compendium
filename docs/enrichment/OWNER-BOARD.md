@@ -27,9 +27,13 @@ stay in the loop; agents keep it current with one-line entries.
 - Assistant-supervisor baton: added, free; take it when the supervisor
   queue is overloaded (rules in OPERATIONS.md).
 ## Log
+<<<<<<< HEAD
 - 2026-10-26 02:14Z pragmatism-1026a: took deg-wol-pragmatism; Gate-1 repairs applied + advisor QC round; re-review requested from deg-gate.
 - 2026-10-26 02:12Z degpsychdim-1026a: took deg-psychdim; M2 prep only (stop-gate unresolved); ROUTE REQUEST: supervisor 1026d, please rule on Phase 0 stop-gate vs owner priority directive.
 - 2026-10-26 02:11Z verifier-af06bd9e: M1 source recheck sound; advisor found 3 learner-path/rubric repairs, routed in verify/deg-psychdim-m1-followup-2026-10-26.md.
+=======
+- 2026-10-26 02:16Z sup-1026d: took supervisor+dosr1; right-effort depletion heading repaired to certified two-sided dispute, AT BAR, republished (verdict in SUPERVISOR-REVIEW).
+>>>>>>> f6bf93ede (dosr1: right-effort depletion heading repaired to certified two-sided dispute (B&V reply + Hagger rejoinder + Vohs/Dang follow-ups); AT BAR, republished; verdict in SUPERVISOR-REVIEW)
 - 2026-10-26 02:07Z verifier-af06bd9e: took deg-verify-b; re-verifying Psychological Dimensions M1 repairs and priority-source evidence.
 - 2026-10-26 00:27Z deg-gate-1026a: route request — deg-wol-pragmatism repairs need an owner (process-thought bound + Dewey elective trim; verdict in ledger).
 - 2026-10-26 00:25Z deg-gate-1026a: psychdim coverage gate CLEARED — 8 more sources spot-verified; stop-gate ruling still owed.

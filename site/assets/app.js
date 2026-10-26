@@ -13936,11 +13936,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The two papers do not literally rerun each other: the replication tested a standardized paradigm built for the purpose rather than the 1998 procedures, so what stands disputed is the model's central prediction, not the original experiments themselves. And the replication's verdict is an absence — the standardized protocol did not detect the predicted depletion effect — which is not the same as a demonstration that there is nothing to detect. I have read the abstracts only and cannot judge the statistics."
+          "x": "The model's authors did not accept that verdict. Their reply, Misguided Effort With Elusive Implications, charged that the standardized letter-e task never engaged the thing it claimed to test: \"Signs indicate the RRR was plagued by manipulation failure and therefore did not test ego depletion\", and \"For two decades, we have conducted studies of ego depletion carefully and honestly, following the field's best practices, and we find the effect over and over\" ([Baumeister & Vohs 2016, reply to the Hagger RRR](https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2019-04/baumeister_vohs_2016_perspectives_comment_on_hagger_rrr_misguided_effort_with_elusive_implications_2_0.pdf)). The reply closed with a promise: \"We will organize a preregistered, multisite replication project next year, using well-tested procedures (ones that actually involve self-regulation)\" ([Baumeister & Vohs 2016](https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2019-04/baumeister_vohs_2016_perspectives_comment_on_hagger_rrr_misguided_effort_with_elusive_implications_2_0.pdf))."
         },
         {
           "t": "p",
-          "x": "For the factor's own text, nothing here changes the four directions either. What this dispute questions is the evidence for depletion: whether exerting self-control leaves less of it for what follows. The lute string sits oddly between the two camps, since the sutta treats persistence as something tuned rather than spent, and I would not claim the sutta settles what the laboratories have not."
+          "x": "The replication's lead authors answered the charge in kind. The letter-e task, they wrote, asks participants to suppress the time-pressured urge to respond to any letter e, and on the habit-forming objection: \"While we have some sympathy with this claim, we do not think it provides sufficient basis to dismiss the task as failing to tax self-control\"; their verdict on the test itself was that \"the RRR was a fair test of the ego-depletion effect using an accepted paradigm and appropriate tasks\". Their closing moved the burden the other way: \"The onus is on researchers to develop a clear set of paradigms that reliably evoke depletion in large samples with high power\" ([Hagger & Chatzisarantis 2016, rejoinder](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00621/full)). For the record, they think ego-depletion is a real phenomenon analogous to cognitive fatigue ([Hagger & Chatzisarantis 2016](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00621/full))."
+        },
+        {
+          "t": "p",
+          "x": "Five years on, a preregistered multilaboratory test with Vohs among its authors took a new method to the same question, and its confirmatory result was also nonsignificant, d = 0.06 ([Vohs et al. 2021](https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2021-psci-ego-depletion.pdf)). A third multilab, using a different depleting task, found a small effect that cleared significance: twelve laboratories, 1,775 participants, d = 0.10 ([Dang et al. 2021](https://research-api.cbs.dk/ws/portalfiles/portal/71213306/junhua_dang_et_al_a_multilab_replication_of_the_ego_depletion_effect_publishersversion.pdf)). The studies used different protocols. A nonsignificant result does not establish that an effect was absent."
+        },
+        {
+          "t": "p",
+          "x": "For the factor's own text, nothing here changes the four directions either. What this dispute questions is the evidence for depletion. The lute string sits oddly in this fight, since the sutta treats persistence as something tuned rather than spent, and I would not claim the sutta settles what the laboratories have not."
         },
         {
           "t": "h2",
@@ -13956,7 +13964,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "So one side holds that grit adds something beyond a known trait, one that it is mostly the known trait, and one that the scale measures half of what it names. I have only the abstracts and cannot judge the statistics. What the three share, and the factor's own sutta supplies, is the question of what the effort is for: the sutta defines right effort by four directions, and grit by how long a person keeps going. I would use the research as a caution against calling persistence a virtue before asking what is being persisted in."
+          "x": "So one side holds that grit adds something beyond a known trait, one that it is mostly the known trait, and one that the scale measures half of what it names. What the three share, and the factor's own sutta supplies, is the question of what the effort is for: the sutta defines right effort by four directions, and grit by how long a person keeps going. I would use the research as a caution against calling persistence a virtue before asking what is being persisted in."
         },
         {
           "t": "h2",

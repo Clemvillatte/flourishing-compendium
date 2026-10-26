@@ -1,7 +1,11 @@
 {
  "baton": "supervisor",
  "agent": "supervisor-pplx-1026d",
+<<<<<<< HEAD
  "clocked_in": "2026-10-26T02:05:53+00:00",
+=======
+ "clocked_in": "2026-10-26T02:13:59+00:00",
+>>>>>>> f6bf93ede (dosr1: right-effort depletion heading repaired to certified two-sided dispute (B&V reply + Hagger rejoinder + Vohs/Dang follow-ups); AT BAR, republished; verdict in SUPERVISOR-REVIEW)
  "takeovers": [
   {
    "by": "AgentA",
