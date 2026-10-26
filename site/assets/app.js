@@ -5380,11 +5380,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The shared question, stated narrowly: what can rightly be regarded as self? SN 22.59’s aggregate analysis answers by examination. Each aggregate, past or future, internal or external, is tested for ownership, and the test fails: “This is not mine. This is not my self. This is not what I am” (SN 22.59). That analysis locates no owner in the body or the mind. Advaita Vedānta, in Dalal’s account, runs an examination of its own and takes it to end elsewhere: in consciousness that is not an object. The entry describes the error as mutual superimposition: “We mutually superimpose consciousness on to our mind-body, and the mind-body on to consciousness (i.e., I am the mind-body, and the mind-body is I)” (SEP)."
+          "x": "The shared question: is there anything in a person that is not born, does not change and does not die? The Katha Upaniṣad says there is, in the voice of Death instructing the boy Nakiketas: \"The knowing (Self) is not born, it dies not; it sprang from nothing, nothing sprang from it. The Ancient is unborn, eternal, everlasting; he is not killed, though the body is killed\" ([Katha Upaniṣad 1.2.18, Müller translation](https://www.sacred-texts.com/hin/sbe15/sbe15011.htm))."
         },
         {
           "t": "p",
-          "x": "The precise difference is what the examination is taken to find. SN 22.59’s analysis works through the contents of experience one by one and grants none of them the status of owner. Advaita holds that consciousness itself, the field in which all contents appear, is the one referent that is not a content. What remains unresolved, and what an essay can honestly leave open: whether the observing position that the practices below train is a final referent or one more event to be examined. The psychological research measures what the perspective does; it does not settle what the perspective is."
+          "x": "The Buddha says there is not, and his target is a claim of the same shape. In the Snake Simile he describes the view that \"The universe is the Self\" and that \"I shall be after death; permanent, stable, eternal, immutable.\" His verdict follows from one observation: \"Since in truth and in fact, self and self's property do not obtain\" the view is \"an entirely and perfectly foolish idea\" ([MN 22, Nyanaponika Thera translation](https://www.accesstoinsight.org/tipitaka/mn/mn.022.nypo.html)). The sutta names no school. Nyanaponika’s note reads the phrase as conveying \"it is the identity, or unity, of the Self\" with the universe, in Brahman’s terms, and also records the Commentary’s narrower reading, that the view takes the aggregates to be the self. Setting the sutta beside the Katha verse is my pairing, and the note shows it is a fair one only on the first reading."
+        },
+        {
+          "t": "p",
+          "x": "The method behind the verdict is the aggregate analysis. SN 22.59 takes each of the five aggregates in turn and finds that none of them can be called \"This is not mine. This is not my self. This is not what I am\" ([SN 22.59, trans. Thanissaro](https://www.dhammatalks.org/suttas/SN/SN22_59.html)). Advaita Vedānta has a reply, as Dalal’s entry reports it: the error is a mutual superimposition, \"We mutually superimpose consciousness on to our mind-body, and the mind-body on to consciousness (i.e., I am the mind-body, and the mind-body is I)\" ([Dalal, SEP](https://plato.stanford.edu/archives/spr2026/entries/shankara/)). On that view the ātman is consciousness itself, which is not one of the objects examined."
+        },
+        {
+          "t": "p",
+          "x": "The precise difference is the verdict on whether an unborn, deathless self exists. The Katha verse affirms it and the Snake Simile calls the belief foolish. What remains unresolved, and what an essay can honestly leave open: whether the observing position that the practices below train is a final referent or one more event to be examined. The psychological research measures what the perspective does; it does not settle what the perspective is."
         },
         {
           "t": "h2",
@@ -5432,6 +5440,22 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "The precise difference is what the \"I think\" is taken to deliver. Descartes reads it as knowledge of his essence, a thinking substance known with certitude; Kant argues it delivers only a formal unity of consciousness, and that mistaking that unity for cognition of a substantial self is the illusion rational psychology rests on. What remains unresolved: whether that formal unity is enough self for the purposes a person has, or whether Kant's deflation merely relocates the question Descartes thought he had answered."
+        },
+        {
+          "t": "h2",
+          "x": "What makes a person the same person over time?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: when someone says they are the child who once did something, what makes that true? Locke’s answer became the standard one: \"in this alone consists personal Identity, i.e. the sameness of rational Being: And as far as this consciousness can be extended backwards to any past Action or Thought, so far reaches the Identity of that Person; it is the same self now it was then\" ([Locke, Essay 2.27.9, as quoted in the Stanford Encyclopedia](https://plato.stanford.edu/entries/locke-personal-identity/)). Identity reaches as far back as consciousness of one’s own acts reaches."
+        },
+        {
+          "t": "p",
+          "x": "Reid thought this fails, and built a case against it. A brave officer was flogged at school, later took an enemy standard, and finally became a general. The officer remembered the flogging when he took the standard, and the general remembers taking the standard but has forgotten the flogging. Reid concludes that on Locke’s doctrine \"the general is, and at the same time is not the same person as him who was flogged at school\" ([Reid on Memory and Personal Identity, SEP](https://plato.stanford.edu/entries/reid-memory-identity/)). His positive view runs the other way: \"it is not my remembering any action of mine that makes me to be the person who did it. This remembrance makes me know assuredly that I did it; but I might have done it, though I did not remember it\" (same entry)."
+        },
+        {
+          "t": "p",
+          "x": "The precise difference is the job memory does. For Locke it constitutes the sameness; for Reid it is first-person evidence of a sameness that cannot be broken down into anything else. Whether Reid reads Locke fairly is itself debated, since Locke’s word consciousness may not simply mean memory ([Locke on Personal Identity, SEP](https://plato.stanford.edu/entries/locke-personal-identity/)). What remains unresolved: whether anything beyond memory and its connections can be pointed to when a person asks whether they are the one who did that long ago. Reid’s answer, an indivisible self, returns the question to where the first section left it."
         },
         {
           "t": "h2",
