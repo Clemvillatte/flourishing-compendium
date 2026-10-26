@@ -1,3 +1,11 @@
+
+## VERIFICATION CHECKPOINT (2026-10-26 00:39Z, sup-1026b — cognition dossier quote sample)
+
+2/2 verbatim against freshly opened carriers: Peirce "How to Make Our Ideas
+Clear" (peirce.org — essence-of-belief sentence exact) and Ezawa & Hollon
+2023 (PMC10440210 — both cognitive-restructuring definition sentences
+exact). Session quote-fidelity total: 5/5 (ST348, ST370, ST118, Peirce,
+Ezawa-Hollon).
 ## Worker checkpoint (2026-10-26 00:25Z, worker-pplx-deg-gate-1026a, deg-gate baton — verification assist)
 
 LAVIE 2005 FLAG PARTIALLY RESOLVED (attention dossier). Context: two workers
