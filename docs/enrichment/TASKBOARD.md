@@ -1,3 +1,14 @@
+## Worker checkpoint (2026-10-26 15:16Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+FOURTEENTH QC SAMPLE (taper window): meaning-and-mortality.md and
+right-effort.md. Both: dossier_check OK. meaning-and-mortality: 35
+checked / 2 not found; right-effort: 27 checked / 2 not found — all
+four on journal-site carriers (online.ucpress.org; pubmed.ncbi.nlm.
+nih.gov) of the known blocked-to-urllib classes; fetch-route
+verification not attempted this pass (taper time-box) — flagged for
+the next verification pass. No dossier text changed. Files touched:
+this checkpoint only.
+
 ## Worker checkpoint (2026-10-26 15:12Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 THIRTEENTH QC SAMPLE (taper window): freedom.md and impermanence.md.
