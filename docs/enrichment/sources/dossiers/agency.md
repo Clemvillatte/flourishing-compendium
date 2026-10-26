@@ -385,7 +385,7 @@ argues the evidence does not establish inefficacy; both can be true.
 Q2 stays a documented critique. Corrected tally: agency 0 certified +
 3 unresolved (Q1, Q2, Q3).
 
-Q3 Gould 1999 primary search (2026-10-26 09:59:40Z, fresh clock read,
+Q3 Gould 1999 primary search (2026-10-26 09:52:30Z, fresh clock read,
 supervisor-pplx-1026p): attempted to open Gould's own text this
 session ("A critique of Heckhausen and Schulz's (1995) life-span
 theory of control from a cross-cultural perspective", Psychological
