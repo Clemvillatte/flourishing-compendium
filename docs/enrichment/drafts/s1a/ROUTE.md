@@ -894,3 +894,22 @@ in-session quote verifications relied on fetch results that were not
 persisted; this pass re-established every Zhuangzi quote against a fresh
 download, so the QC notes' "verified against the PDF as opened" claims now
 have a persisted basis.
+
+2026-10-26T00:54:43Z storyteller-pplx-s1a-1026b: T+50 TAPER PASS (remaining source verifications)
+- ST016 (s1a-090): the 8.12½ claim re-verified against a fresh
+  download of the Gutenberg Walden text (#205): the itemized house
+  materials total is 8.12½ and the full experiment's cash outgoes are
+  1.99¾, so the live page's "entire experiment" reading of the figure
+  is wrong and the draft's correction stands.
+- ST011 (s1a-091): the Diogenes passage re-downloaded from the cited
+  LacusCurtius page and re-diffed; the quote's final period was restored
+  to match the carrier, and the inner quote marks (singles where the
+  carrier uses doubles) are documented in a QC note as the nesting
+  convention with wording verbatim.
+- ST023 (s1a-092): the Weil essay re-downloaded from the Matheson Trust
+  PDF and every quote re-diffed; all quoted words are verbatim, and the
+  comparison misses are PDF text-layer artifacts (a running header
+  "III WAITING FOR GOD" breaking one sentence, "View" extracted as
+  "1Jiew", spurious in-word spaces), documented in a QC note. No wording
+  changes were needed.
+story_check re-run after these edits: 20/20 drafts, 0 errors.
