@@ -1717,3 +1717,18 @@ file as pushed. A counter who includes the rubric-table rows or the
 arithmetic section will get a larger figure; the module's stated
 exclusion rule is the boundary. Reading-time impact of the variants
 is under one minute.
+
+## m5 delta-re-review-2 re-repair (2026-10-26 ~06:33Z, supervisor-pplx-1026c-daoism)
+
+Supervisor delta re-review 2 (af290f96d): item (b) WITHDRAWN as the
+reviewer's own error (the canonical m4 numbers the bounded practice
+as Outcome 3; my routing-back was right); Cook Ding fragments
+verified; quotation coverage now complete. One re-repair remained on
+item (a): the teach-back close must name the open question the
+CANONICAL m4's deliverable c asks learners to carry (the reviewer's
+earlier prescription rested on the noncanonical duplicate). Applied
+the reviewer's exact suggested phrasing: "Keep both with the open
+question you carried from m4's deliverable c" (replacing "Keep both
+with your m4 deliverable c teach-back"). Prose re-measured 2,218 ->
+2,222; total words 2,688; reading minutes unchanged at 9; total 208
+minutes unchanged. Ready for the next delta rereview.

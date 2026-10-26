@@ -187,8 +187,9 @@ what changed in one sentence.
 
 Read your synthesis aloud once. Then write the one sentence of it
 you would say to a friend who has not taken this walk, and the one
-question you still cannot answer. Keep both with your m4
-deliverable c teach-back; they are the walk's honest residue.
+question you still cannot answer. Keep both with the open question
+you carried from m4's deliverable c; they are the walk's honest
+residue.
 
 ## Rubric
 
@@ -289,7 +290,7 @@ This does not pass: no scoring, no reason, no revision recorded.
   passage re-reads inside it).
 - Self-assessment and revision: about 20 minutes.
 - Teach-back close: about 10 minutes.
-- Module teaching prose on this page (2,218 words measured,
+- Module teaching prose on this page (2,222 words measured,
   excluding the rubric table rows and this arithmetic section): at
   180 words per minute about 12 minutes raw; with study overhead as
   a three-times multiplier, about 37 minutes (estimate, labelled).
