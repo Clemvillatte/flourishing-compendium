@@ -97,9 +97,14 @@ Lecture dated on the watch page's description as given 9 July 2018
 at Theater Hall C, Radboud University. The
 page's description frames it: Buddhism as primarily an ethical
 perspective for overcoming human problems, a secular, pragmatic basis
-for human flourishing; the key moments include the historical
-secularization of Buddhism in Burma and the Vipassana movement, and
-Buddhist approaches to suffering. That Burma/Vipassana moment is
+for human flourishing (checked this pass against the description's
+own text; the "Buddhism is not only about rituals and meditation"
+framing and the flourishing framing are the description's own
+words). The page additionally surfaces a key-moments feature listing
+the historical secularization of Buddhism in Burma and the Vipassana
+movement, and Buddhist approaches to suffering; that list is a
+page-level feature, not the description's text. That Burma/Vipassana
+moment is
 covered in the lecture itself, in Batchelor's own account of it (the
 passage was checked against the recording's caption text; the talk is
 the account's carrier, not an independent historical verification of

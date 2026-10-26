@@ -1327,3 +1327,9 @@ says must be verified against the source). The captions remain
 auto-generated with recognition errors, so the module's no-verbatim-
 quotation policy stands. Hashes after the repair recorded in the band
 file.
+
+## B-V32 — b7 key-moments authorship (2026-10-26, 07:52Z, worker 1026g)
+
+Routed item (from deg-verify-a's flag sweep, still-open list): does
+the b7 watch page's "key moments" list come from the uploader's
+description? Answer: NO. A fresh watch-page fetch (https://www.youtube.com/watch?v=Hhlj_SU9SAE) returned the description verbatim: it contains the title, date/venue, the "Buddhism is not only about rituals and meditation" framing, the flourishing sentence, review/podcast/newsletter links — and NO key-moments list. The key-moments entries (Burma secularization, Vipassana movement, suffering) are a page-level feature displayed separately from the description text. Repair applied to b7: the sentence no longer attributes the key-moments list to the description; the list is marked as a page-level feature, and the description's own framing is marked checked. The Burma/Vipassana moment itself remains lecture-verified (B-V28). This closes the b7 half of the routed item; the b9 boundary-sentence half still needs the assigned video's transcript (all remote routes unavailable to this worker class, same inventory as B-V27).

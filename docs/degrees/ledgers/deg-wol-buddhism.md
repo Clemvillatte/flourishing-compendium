@@ -1481,3 +1481,10 @@ on). The Step 2 example now states the teacher's position without the
 unverifiable description. The module's no-verbatim-quotation policy
 for these talks stands. Hashes after the repair recorded in the band
 file.
+
+- 07:52 UTC (measured) - b7 key-moments authorship: routed item
+  resolved without playback. Watch-page fetch returned the
+  description verbatim; it contains no key-moments list. The
+  Burma/Vipassana/suffering entries are a page-level feature.
+  Module repaired: key-moments list no longer attributed to the
+  description. Receipt B-V32.
