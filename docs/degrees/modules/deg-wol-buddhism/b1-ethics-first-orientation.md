@@ -1,10 +1,10 @@
-# b1 — Ethics First: Orientation to the Buddhist Walk
+# b1: Ethics First, Orientation to the Buddhist Walk
 
 - **band**: deg-wol-buddhism
 - **kind**: degree-module
 - **level**: L1 Orientation (exit criteria adapted for a practice walk: the L2 element is the guided metta sitting and the precepts case, both fully guided here)
 - **module id**: deg-wol-buddhism-b1
-- **status**: draft v4 (supervisor b1 review repairs applied 2026-10-26, worker-pplx-buddhism-1026b: traditional frame placed honestly, quotation order repaired, AN excerpt bounded with measured boundaries, observation wording; segmentation from the earlier pass retained; supervisor rereview-2 bounded repairs applied same day: Step-4 humanizer + workload process history removed, Thanissaro talk label content-verified per B-V05, receipts in the ledger)
+- **status**: draft v5 (supervisor rereview-3 narrow repairs applied 2026-10-26, worker-pplx-buddhism-1026g: Thanissaro availability wording states the actual retrieval route per receipt B-V05 (third-party transcript service, watch page JS-blocked); five heading em dashes replaced with colons/rewritten per the standing humanizer ruling, plus the two prose em-dash pairs and one source-table em dash removed; all rereview-2 and original review repairs stand; receipts in the ledger)
 - **prerequisites**: none (entry module; open to any learner, no Buddhist background assumed)
 
 ## Walk context
@@ -49,7 +49,7 @@ The sequence moves from worked examples (a senior teacher modelling the
 values, then the precepts named and deepened) through primary texts into your
 own practice and case work.
 
-### Step 1 — Buddhist values, modelled (~55 min, video, whole talk, two viewing stops)
+### Step 1: Buddhist values, modelled (~55 min, video, whole talk, two viewing stops)
 
 **Ajahn Brahm, "Buddhist Values" (Buddhist Society of Western Australia
 channel), 54:16:
@@ -70,7 +70,7 @@ Activity while watching: keep a one-line note per value (goodness, peace,
 kindness) on the moment in the talk where it is most alive for you. You will
 reuse these notes in the assessment.
 
-### Step 2 — The five precepts, named and deepened (~14 min, video, whole talk)
+### Step 2: The five precepts, named and deepened (~14 min, video, whole talk)
 
 **Thanissaro Bhikkhu, "The Five Precepts for the Mind" (Dhamma Talks by
 Thanissaro Bhikkhu channel), 13:16:
@@ -82,7 +82,7 @@ that harm concentration, keeping promises to yourself about wholesome actions.
 
 Activity: write the five precepts as the talk names them, one line each.
 
-### Step 3 — The precepts and the goodwill instructions in the canon (~15 min, reading)
+### Step 3: The precepts and the goodwill instructions in the canon (~15 min, reading)
 
 **AN 5.179 Gihisutta (Sujato translation, SuttaCentral), 213 measured
 words: https://suttacentral.net/an5.179/en/sujato.** Read the bounded excerpt, not the whole discourse: from the opening
@@ -91,8 +91,8 @@ words: https://suttacentral.net/an5.179/en/sujato.** Read the bounded excerpt, n
 plus the four precept verses ending "...as they confuse the mind." The rest
 of the discourse (verses on hells, gods and fields of merit) is optional
 context. The excerpt's opening carries the discourse's traditional frame in its
-full conditional: a noble disciple who possesses five things —
-accomplished faith, ethics, learning, generosity and wisdom — may, while
+full conditional: a noble disciple who possesses five things
+(accomplished faith, ethics, learning, generosity and wisdom) may, while
 living in their own home, declare themselves a stream-enterer, not
 destined for the underworld, destined for awakening. The precepts you
 read are the ethics portion of those five. You are
@@ -103,12 +103,12 @@ that the walk marks it as context rather than teaching it as cosmology.
 words: https://suttacentral.net/kp9/en/sujato.** The canonical instructions for goodwill, in the discourse's own
 order: "May all beings be happy!" and, later, "With love for the whole
 world, unfold a boundless heart." The sutta closes with "they never return
-to a womb again" — the same traditional frame, kept visible, not taught.
+to a womb again": the same traditional frame, kept visible, not taught.
 
 Activity: mark the one instruction in the Metta Sutta you would need most on a
 difficult day, and say why in a sentence.
 
-### Step 4 — The four immeasurables, taught (~58 min, video, two bounded segments)
+### Step 4: The four immeasurables, taught (~58 min, video, two bounded segments)
 
 **Bhante Dhammadipa, "The Four Immeasurable Minds: practising true love for the
 world" (Metta Centre channel), 2:09:06 total:
@@ -244,10 +244,10 @@ ethics or practice requires a passing mention.
 | resource | status | verified | notes |
 |---|---|---|---|
 | Ajahn Brahm, "Buddhist Values", https://www.youtube.com/watch?v=TpbWVaXBV4c (BSWA channel) | verified-video | 2026-10-26 | duration read 54:16 on this session's watch-page extraction (player-total convention); a second extraction by the verification lane read 54:15, a 1-second discrepancy recorded rather than adjudicated (B-V05); transcript section present on the watch page; talk dated 08-01-2010; content classification from the opened transcript: no rebirth, kamma or cosmology; teaches values from a mindful heart. CORRECTION (supervisor's independent transcript read, 2026-10-26): the talk's ethics segment does discuss the precepts (lying, stealing, alcohol, killing, adultery, around 07:52-09:10); the earlier "does not enumerate the precepts" note is withdrawn as a false negative claim. The module still anchors the precepts outcome on the Thanissaro talk because it names all five and deepens their mind dimension |
-| Thanissaro Bhikkhu, "The Five Precepts for the Mind", https://www.youtube.com/watch?v=Nq7YmbYFJkA | verified-video (content-verified: full transcript read, receipt B-V05) | 2026-10-26 | duration 13:16 (lengthSeconds 796, watch page); transcript available on the watch page; introduces the five lay precepts then their mind dimension (confirmed on the read transcript: the five precepts named, then their mind dimensions in order); credentials opened on the buddho.org biography page (Thai forest kammatthana tradition; student of Ajahn Fuang Jotiko; ordained 1976; Abbot of Metta Forest Monastery since 1993; main AccessToInsight translator); free, CC BY-NC license stated in description |
+| Thanissaro Bhikkhu, "The Five Precepts for the Mind", https://www.youtube.com/watch?v=Nq7YmbYFJkA | verified-video (content-verified: full transcript read, receipt B-V05) | 2026-10-26 | duration 13:16 (lengthSeconds 796, watch page); transcript retrieved through a third-party transcript service (the watch page was JS-blocked in the verification pass; the route is recorded in receipt B-V05, not a watch-page transcript claim); introduces the five lay precepts then their mind dimension (confirmed on the read transcript: the five precepts named, then their mind dimensions in order); credentials opened on the buddho.org biography page (Thai forest kammatthana tradition; student of Ajahn Fuang Jotiko; ordained 1976; Abbot of Metta Forest Monastery since 1993; main AccessToInsight translator); free, CC BY-NC license stated in description |
 | Bhante Dhammadipa, "The Four Immeasurable Minds", https://www.youtube.com/watch?v=svWaWFOpxXw (Metta Centre channel) | verified-video | 2026-10-26 (this session; content upgraded to transcript-read by receipt B-V04, deg-verify-a) | duration 2:09:06 on watch page; upload 2023-03-04; credentials opened on the buddha-haus.de biography page (born Prague 1949; university studies in Slavic studies, Sinology, Indology; ordained 1985 with training in Zen, Theravada and Chinese traditions; monastic stays incl. Burma; associated with Pa Auk Sayadaw; teaching since 1997); full transcript read by the verification lane (B-V04); assigned segments 00:27:11-01:01:49 and 01:09:42-01:33:04; transcript present on the watch page |
 | AN 5.179 Gihisutta, Sujato translation, https://suttacentral.net/an5.179/en/sujato | verified | 2026-10-26 | the five precepts passage quoted on the opened page; free, anonymous access; excerpt re-verified 2026-10-26 against SuttaCentral's official translation data (sc_bilara_data, translation/en/sujato): opening stream-enterer declaration and precepts passage verbatim as the module quotes them; 213-word bounded excerpt defined in Step 3 |
-| Metta Sutta Khp 9, Sujato translation, https://suttacentral.net/kp9/en/sujato | verified | 2026-10-26 | goodwill instructions confirmed on the opened page ("May all beings be happy!"; "With love for the whole world, unfold a boundless heart"); re-verified 2026-10-26 against SuttaCentral's official translation data: the two quoted lines verbatim, in the order the module now quotes them, and the closing "they never return to a womb again" present — the traditional frame recorded in the Boundaries section; free, anonymous access |
+| Metta Sutta Khp 9, Sujato translation, https://suttacentral.net/kp9/en/sujato | verified | 2026-10-26 | goodwill instructions confirmed on the opened page ("May all beings be happy!"; "With love for the whole world, unfold a boundless heart"); re-verified 2026-10-26 against SuttaCentral's official translation data: the two quoted lines verbatim, in the order the module now quotes them, and the closing "they never return to a womb again" present; the traditional frame recorded in the Boundaries section; free, anonymous access |
 | Five-stage loving-kindness method, https://thebuddhistcentre.com/text/loving-kindness-meditation | verified | 2026-10-26 | opened anonymously; the five stages read on the opened page (yourself, good friend, neutral person, someone you dislike, everyone); publisher: the Buddhist Centre (Triratna); the b1 sitting guide is this module's timed application of that method |
 
 All links resolve for an anonymous visitor. No paywalled or app-gated content.
