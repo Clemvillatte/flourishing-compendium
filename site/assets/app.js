@@ -8251,7 +8251,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"to see thoughts and feelings for what they are (i.e., a verbally entangled process of minding) rather than what they advertise themselves to be (e.g., the world understood, structured reality)\" ([Hayes, Strosahl and Wilson 1999, quoted in Bernstein et al. 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5103165/))",
+          "x": "\"to see thoughts and feelings for what they are (i.e., a verbally entangled process of minding) rather than what they advertise themselves to be (e.g., the world understood; structured reality)\" ([Hayes, Strosahl and Wilson 1999, quoted in Bernstein et al. 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5103165/))",
           "s": null
         },
         {
