@@ -489,3 +489,17 @@ chapter 28 discussion). Corroborated; no further check owed.
   claim. The carrier (ScholarWorks v1.1 bitstream) remains
   unopenable from this environment; the mirror evidence is Eno's own
   published text as quoted academically.
+
+### m3 QC (2026-10-26T05:23Z)
+
+m3-zhuangzi-skill-wuwei-self introduces NO new sources: it reuses
+the Eno Inner Chapters text (verified, D-T06) and the Ziporyn
+(EJ1bB2w2gBk) and Van Norden (lvglQJDrgJI) videos verified in m1's
+harvest (D-V01..D-V03). The newly assigned segments (Ziporyn
+0:38:17-0:39:38 and 0:39:38-0:43:39; Van Norden 0:29:44-0:34:20) are
+computed from the videos' own printed chapter labels, which the owner
+recorded from opened watch pages in the ledger (m3 production
+entries; consistent with this lane's receipts that both videos carry
+printed chapter labels). Segment arithmetic re-checked: 1:21 + 4:01 +
+4:36 = 9:58, matching the module's stated total. Consistent; no
+flags.
