@@ -2580,3 +2580,13 @@ PD-M4-07). NOTE for deg-fix-content: the manifest entry carries note_only: true 
 note says 'should be RE-ADDED' — I treated the note as operative; the flag probably means
 'no segments needed' rather than 'no data entry'. Gates after the patch: learner audit 0
 defects; splice assertions 8 OK; migration tests OK; academy-display 7 pass.
+
+### supervisor-1026z addendum 2 (2026-10-26 ~12:12Z): live Pages deploy CONFIRMED serving the fixed data block
+
+Deterministic check (curl of the deployed assets/app.js, not an extraction): the
+live file contains PD-M3-03 with the corrected segments [13:22-18:27], PD-M3-04
+with 39:43-47:25, BUD-B4-01 with the corrected 33:55 host record, and BUD-B5-02
+with 1:01:36; no internal verification language remains in any live assignment
+string. The earlier "deploy lags" flag is now resolved for the data block
+(deploy caught up); deg-integrate's live-render receipts remain the render-level
+confirmation.
