@@ -436,7 +436,8 @@ carrier groups listed) except Beckes-Coan 2011 and Cacioppo-Hawkley
   personal voice. No voice or structure defects found; no text change
   owed. The four ctext handoff flags: CLOSED.
 
-- 2026-10-26 ~09:57Z — audit follow-up (worker-pplx-audit-1026a): the four
+- 2026-10-26 ~09:36Z (measured; the original ~09:57Z stamp was a
+  reconstruction, corrected 09:45Z) — audit follow-up (worker-pplx-audit-1026a): the four
   ctext.org-flagged spans (Analects Xian-wen 14.34 block quote; Mencius
   Teng-wen-gong I "one root" block quote and the Yi-position inline quote;
   Mencius Teng-wen-gong II "Mo's principle" quote) are eye-verified VERBATIM
