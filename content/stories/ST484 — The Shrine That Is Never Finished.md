@@ -5,7 +5,7 @@ type: "story"
 title: "484.  The Shrine That Is Never Finished"
 file: "ST484 — The Shrine That Is Never Finished"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.09 — III.9 Embodiment, Nature, and World-Participation", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.06 — III.6 Time, Duration, and Novelty", "parent": ""}
 ---
 
 Ise, Japan, since 690 CE · the Shikinen Sengu rebuilding cycle at Ise Jingu · a ritual narrative, opened web sources (AP News 2025; Nippon.com 2013)

@@ -5,7 +5,7 @@ type: "story"
 title: "485.  Stay, You Are So Fair"
 file: "ST485 — Stay, You Are So Fair"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.09 — III.9 Embodiment, Nature, and World-Participation", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.06 — III.6 Time, Duration, and Novelty", "parent": ""}
 ---
 
 Germany, 1808-1832 · Johann Wolfgang von Goethe's Faust, the wager in Part I and the final scene of Part II · a tragedy, Project Gutenberg raw texts

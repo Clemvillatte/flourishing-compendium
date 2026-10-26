@@ -5,7 +5,7 @@ type: "story"
 title: "483.  What Good Have I Done To-Day?"
 file: "ST483 — What Good Have I Done To-Day?"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.10 — III.10 Applied Flourishing — The Operational Core", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.05 — III.5 Habit, Conduct, and Intelligent Action", "parent": ""}
 ---
 
 Philadelphia, 1730s-1780s · Benjamin Franklin, Autobiography, the moral-perfection project and the civic section · a memoir, Project Gutenberg raw text

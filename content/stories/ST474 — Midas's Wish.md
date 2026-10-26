@@ -5,7 +5,7 @@ type: "story"
 title: "474.  Midas's Wish"
 file: "ST474 — Midas's Wish"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.05 — III.5 Habit, Conduct, and Intelligent Action", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.02 — III.2 Meaning, Truth, and Workability", "parent": ""}
 ---
 
 Phrygia and Lydia, mythic time · Ovid, Metamorphoses 11 · a Greek myth retold by a Roman poet, Brookes More translation

@@ -5,7 +5,7 @@ type: "story"
 title: "390.  The Tinker's Chains Fall Off in a Field"
 file: "ST390 — The Tinker's Chains Fall Off in a Field"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.09 — III.9 Embodiment, Nature, and World-Participation", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.01 — III.1 First Principles of Process", "parent": ""}
 ---
 
 Puritan spiritual autobiography · John Bunyan, Grace Abounding to the Chief of Sinners

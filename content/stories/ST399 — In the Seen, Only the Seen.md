@@ -5,7 +5,7 @@ type: "story"
 title: "399.  In the Seen, Only the Seen"
 file: "ST399 — In the Seen, Only the Seen"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.03 — II.3 Meditation Practices", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.06 — II.6 Wisdom and View", "parent": ""}
 ---
 
 Buddhist canonical account · Udāna 1.10, the Bāhiya Sutta, in Thanissaro Bhikkhu's translation at Access to Insight.

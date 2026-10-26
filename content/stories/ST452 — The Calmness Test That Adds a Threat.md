@@ -5,7 +5,7 @@ type: "story"
 title: "452.  The Calmness Test That Adds a Threat"
 file: "ST452 — The Calmness Test That Adds a Threat"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.10 — III.10 Applied Flourishing — The Operational Core", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.04 — III.4 Self and Mind as Process", "parent": ""}
 ---
 ACT thought experiment · Hayes, Masuda and De Mey, Polygraph Metaphor
 

@@ -189,3 +189,17 @@ registrations all pass. This is a systemic repair decision (a stories
 legacy-repair lane or an owner ruling to grandfather them), not something to
 patch piecemeal. All 41 pages from today's batch pass; ST432 trimmed one
 word over the cap.
+
+## PLACEMENT RESTORE + CORRECTIONS (2026-10-26 ~00:55Z, supervisor-pplx-1026c, advisor round 2)
+The chapter realignment above over-reached: no documented policy requires
+primary-principle alignment, so all PRE-SESSION placements have been restored
+to their pre-batch chapters (book TOC + page chapter fields); today's 39
+new-number registrations keep their as-registered placements. Retained as
+justified repairs: the 25 previously-missing book-TOC lines (pages that had no
+line at all). ST432's one-word trim hit a verbatim quote — restored, a
+non-quoted word trimmed instead. Duplicate-copy finding corrected: the four
+removed copies (ST488-491) were PRE-SESSION published pages, not this batch's
+registrations; content diffs against the kept copies show phrasing variants
+only. Chapter policy for new registrations still needs an owner ruling
+(primary-principle layer vs thematic placement) — flagged. Book TOC now
+504/504 pages with lines, no duplicates, no orphans; build green.

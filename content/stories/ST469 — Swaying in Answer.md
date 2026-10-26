@@ -5,7 +5,7 @@ type: "story"
 title: "469.  Swaying in Answer"
 file: "ST469 — Swaying in Answer"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.06 — III.6 Time, Duration, and Novelty", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.07 — III.7 Growth, Education, Art, and Experience", "parent": ""}
 ---
 
 New York and Boston, 1888-1903 · John Macy's supplementary account in Helen Keller, The Story of My Life · a biographical account, Project Gutenberg raw text

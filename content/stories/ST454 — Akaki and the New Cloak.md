@@ -5,7 +5,7 @@ type: "story"
 title: "454.  Akaki and the New Cloak"
 file: "ST454 — Akaki and the New Cloak"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.09 — III.9 Embodiment, Nature, and World-Participation", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S07.04 — VII.4 Freedom, Bad Faith, and Authenticity", "parent": ""}
 ---
 Nineteenth-century fiction · Nikolai Gogol, The Overcoat (Shinel); the Claud Field translation ([Gutenberg ebook 36238](https://www.gutenberg.org/files/36238/36238.txt))
 

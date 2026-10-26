@@ -5,7 +5,7 @@ type: "story"
 title: "401.  Dipa Ma Watches Anger Arise and Pass"
 file: "ST401 — Dipa Ma Watches Anger Arise and Pass"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.03 — II.3 Meditation Practices", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.06 — II.6 Wisdom and View", "parent": ""}
 ---
 
 First-person interview testimony, primary-adjacent · Dipa Ma, in interview with Amy Schmidt (Tricycle, 2004); teaching instructions via dipama.com; biographical frame via Wikipedia

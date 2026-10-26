@@ -5,7 +5,7 @@ type: "story"
 title: "387.  Ciñcā Accuses the Buddha Before the Assembly"
 file: "ST387 — Ciñcā Accuses the Buddha Before the Assembly"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.03 — II.3 Meditation Practices", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.06 — II.6 Wisdom and View", "parent": ""}
 ---
 
 Buddhist commentarial narrative · Dhammapada Atthakatha, Ciñcamanavikavatthu, trans. Burlingame, Buddhist Legends XIII.9

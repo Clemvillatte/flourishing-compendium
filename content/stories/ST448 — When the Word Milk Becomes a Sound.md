@@ -5,7 +5,7 @@ type: "story"
 title: "448.  When the Word Milk Becomes a Sound"
 file: "ST448 — When the Word Milk Becomes a Sound"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.10 — III.10 Applied Flourishing — The Operational Core", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.04 — III.4 Self and Mind as Process", "parent": ""}
 ---
 2004 · experimental narrative · Masuda, Hayes, Sackett and Twohig
 

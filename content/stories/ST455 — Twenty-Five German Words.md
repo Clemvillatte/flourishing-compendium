@@ -5,7 +5,7 @@ type: "story"
 title: "455.  Twenty-Five German Words"
 file: "ST455 — Twenty-Five German Words"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.08 — III.8 Pluralism, Values, and Democracy", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S07.09 — VII.9 Limit Situations, Communication, and Transcendence", "parent": ""}
 ---
 Historical exchange · 1929; documented in Gerald Holton, Einstein's Third Paradise (Dædalus, 2003), with Einstein's 1930 essay Religion and Science
 

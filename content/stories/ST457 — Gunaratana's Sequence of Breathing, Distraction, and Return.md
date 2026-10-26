@@ -5,7 +5,7 @@ type: "story"
 title: "457.  Gunaratana's Sequence of Breathing, Distraction, and Return"
 file: "ST457 — Gunaratana's Sequence of Breathing, Distraction, and Return"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.01 — II.1 First Principles — The Axioms", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.04 — II.4 Working with the Mind", "parent": ""}
 ---
 Instructional illustration, quoted from a practice manual · Bhante Gunaratana's sequence of what happens when a meditator notices a distraction; with the sutta's own instruction on the breath
 

@@ -5,7 +5,7 @@ type: "story"
 title: "437.  The Gulls That Would Not Land"
 file: "ST437 — The Gulls That Would Not Land"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.06 — I.6 Relationships, Speech, and Leadership", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.05 — I.5 Psychological Freedom — Identity, Emotion, Death, Meaning", "parent": ""}
 ---
 
 Daoist literary parable · Liezi, Book II, "The Yellow Emperor," in Lionel Giles's 1912 translation.

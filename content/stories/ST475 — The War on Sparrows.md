@@ -5,7 +5,7 @@ type: "story"
 title: "475.  The War on Sparrows"
 file: "ST475 — The War on Sparrows"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.06 — I.6 Relationships, Speech, and Leadership", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.04 — I.4 Action — Effortlessness, Timing, and Skill", "parent": ""}
 ---
 
 Maoist China, 1958-1960 · a state campaign and its measured aftermath · documented in an NBER working paper (2025) and campaign records

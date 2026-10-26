@@ -5,7 +5,7 @@ type: "story"
 title: "440.  Holding the Pen Without the Extra Grip"
 file: "ST440 — Holding the Pen Without the Extra Grip"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.10 — III.10 Applied Flourishing — The Operational Core", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.09 — III.9 Embodiment, Nature, and World-Participation", "parent": ""}
 ---
 2014 · ACT experiential exercise · Pia Heppner, Holding a Pen, in Stoddard and Afari
 

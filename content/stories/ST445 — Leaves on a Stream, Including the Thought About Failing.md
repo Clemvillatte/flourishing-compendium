@@ -5,7 +5,7 @@ type: "story"
 title: "445.  Leaves on a Stream, Including the Thought About Failing"
 file: "ST445 — Leaves on a Stream, Including the Thought About Failing"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.10 — III.10 Applied Flourishing — The Operational Core", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.04 — III.4 Self and Mind as Process", "parent": ""}
 ---
 Contemporary ACT · experiential visualisation · Russ Harris, Observing Thoughts
 
