@@ -758,3 +758,15 @@ Re-verification against the archived carriers, both spans VERBATIM:
   fetch tool cannot extract it (same class as above); the pdftotext
   verification in the Holton repair entry is the evidence of record for
   the paper span.
+
+## Source added — Davidson primary (2026-10-26 02:38Z, worker-pplx-deg-gate-1026b)
+
+Davidson's opening sentence added to the weakness-of-will question,
+carried by the open Oxford Academic chapter page for "How is Weakness of
+the Will Possible?" in The Essential Davidson —
+https://academic.oup.com/book/49874/chapter-abstract/422039790 — the
+chapter abstract was read and the sentence verified verbatim there. The
+full chapter text was not opened (the page serves the abstract); the
+dossier already carried Davidson's incontinent-action definition via
+the Stanford Encyclopedia of Philosophy entry, which was opened in an
+earlier session and re-cited unchanged.

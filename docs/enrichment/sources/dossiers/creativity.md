@@ -736,3 +736,38 @@ movement, a holy Yea."). The connective clauses are unquoted paraphrase
 of "to create itself freedom for new creating" and "To create new
 values—that, even the lion cannot yet accomplish". No other line
 touched. Gates re-run: checker exit 0, density 0 dense.
+
+## Sources added — domain, rewards and threshold repairs (2026-10-26 02:38Z, worker-pplx-deg-gate-1026b)
+
+Five primaries added to the disagreement section this session, each
+opened this session. (1) Baer, The Case for Domain Specificity of
+Creativity, Creativity Research Journal 1998 — open PDF on the author's
+university site, https://www.rider.edu/sites/default/files/2024-05/CaseforSpecificity.pdf — the low-correlations passage and the
+domain-specific conclusion read and verified verbatim. (2) Plucker,
+Beware of Simple Conclusions: The Case for Content Generality of
+Creativity, Creativity Research Journal 1998 — no open full text was
+found in the searches tried; the carrier is Plucker's abstract as
+reproduced on the SciSpace journal-index page,
+https://scispace.com/journals/creativity-research-journal-38y50hb2/1998 —
+the two quoted sentences were verified verbatim there; the full paper
+was not opened. (3) Eisenberger and Cameron 1996, Detrimental Effects of
+Reward: Reality or Myth?, American Psychologist — university-hosted
+copy, http://homepages.se.edu/cvonbergen/files/2021/01/Detrimental_Effects_of_Reward_Reality_or_Myth.pdf — the two abstract sentences
+read and verified verbatim; the body of the paper was not read this
+session. (4) Kim 2005, Can Only Intelligent People Be Creative? A
+Meta-Analysis — ERIC full text,
+https://files.eric.ed.gov/fulltext/EJ698316.pdf — the threshold-specific
+analysis (IQ below r = .201, above 120 r = .235, not statistically
+different) and the abstract's verdict were read and verified verbatim
+from the fetched full text. (5) Jauk et al. 2013, The relationship
+between intelligence and creativity, Intelligence — open full-text PDF,
+https://www.psyris.be/wp-content/uploads/2019/12/Jauk2013.pdf — the two
+abstract sentences read and verified verbatim; the body was not read
+this session, so the dossier preserves the paper's own boundary
+(thresholds for creative potential measures, none reported for creative
+achievement). The dispute framing follows the advisor's ruling: the
+proposition is the scoped threshold hypothesis for creative potential,
+Kim's meta-analysis reports below/above-threshold correlations not
+statistically different and does not support the theory, Jauk's
+breakpoint analysis supports it for qualitative indicators of creative
+potential.

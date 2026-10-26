@@ -646,3 +646,23 @@ failed exchange" (the attribution point), ACT's "values as directions
 rather than goals" (the doctrine), rest-as-root "rather than its
 absence" (the card), and Siddhartha's "not a doctrine but a way of
 hearing" (the story's point). No text changed in this pass.
+
+## Sources added — threshold and continuum repairs (2026-10-26 02:38Z, worker-pplx-deg-gate-1026b)
+
+Two primaries added to the disagreement section this session, both opened
+and read this session: (1) Weber, The Protestant Ethic and the Spirit of
+Capitalism, note 24 to Chapter V (Parsons translation), served by the
+open CUNY Manifold edition — https://cuny.manifoldapp.org/read/the-protestant-ethic-and-the-spirit-of-capitalism/section/8fe950e8-33df-4c24-9f0f-45d8b2a13c4e — read at the notes page; the Zinzendorf maxim
+prints there verbatim, attributed to Zinzendorf citing Plitt; Weber's
+chapter text was not re-read this session and the maxim is reported by
+Weber, so the dossier names the attribution chain rather than treating
+the maxim as Weber's own voice. (2) Maslach, Schaufeli and Leiter 2001,
+"Job Burnout", Annual Review of Psychology — open PDF on the author's
+site, https://www.wilmarschaufeli.nl/publications/Schaufeli/154.pdf —
+the continuum sentences (engagement characterized by energy,
+involvement, and efficacy as the direct opposites of the three burnout
+dimensions, with engagement assessed by the opposite pattern of MBI
+scores) read and verified verbatim from the fetched full text. Limits: the 2001 review's own
+findings beyond the quoted passage were not read this session; the
+Schaufeli 414 chapter remains the dossier's carrier for the
+distinct-construct side.
