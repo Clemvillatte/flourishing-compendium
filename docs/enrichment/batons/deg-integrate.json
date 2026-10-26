@@ -1,0 +1,13 @@
+{
+ "baton": "deg-integrate",
+ "agent": "supervisor-pplx-1026e",
+ "clocked_in": "2026-10-26T07:45:25+00:00",
+ "takeovers": [
+  {
+   "by": "supervisor-pplx-1026e",
+   "at": "2026-10-26T07:45:25+00:00",
+   "from": null,
+   "reason": "free"
+  }
+ ]
+}
