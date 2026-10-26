@@ -24,9 +24,10 @@ credentials are checked separately from article affiliations.
   checked owner version `59f2ef8aa`, including the first-path
   baseline exception and beta-scale explanation. This limited
   source-audit result does not clear the module.
-- **M3:** the note under PD-V08 identifies the commentary-versus-primary-
-  study appraisal mismatch. It offers a source-limited activity rather
-  than another required paper.
+- **M3:** the owner has changed the full-matrix row and scope
+  description to commentary appraisal. The progression exit still
+  needs the same wording; the final source-use checks distinguish
+  this residual from the repaired coverage row.
 - **Selection:** PD-V06 and PD-V12 are default core exclusions.
   PD-V11 is advanced/optional. Other placements remain conditional
   on a distinct learner task, not merely topical relevance.
@@ -456,7 +457,7 @@ credentials are checked separately from article affiliations.
 
 ### M3 production note: commentary appraisal has a different evidentiary limit
 
-The existing coverage row promises appraisal of a rumination-induction
+The original coverage row promised appraisal of a rumination-induction
 study. Ehring's commentary summarises such research, but it does not
 report a particular experiment's sample, allocation, full procedure,
 comparator and numerical results. The PD-V08 excerpt above also starts
@@ -476,6 +477,13 @@ Credit “not reported/cannot assess” where appropriate. Alternatively,
 defer primary-study appraisal. This is a source-to-task alignment flag,
 not a reversal of the coverage gate or a request for another required
 paper.
+
+**Current disposition:** the owner has updated the full-matrix row
+and M3 scope description to commentary appraisal. At the ledger
+version checked through `071207bfc`, the M3 progression exit still
+says “can appraise a rumination induction study.” Align that exit
+with the repaired source-limited activity before M3 production;
+the full-matrix wording itself is no longer an open finding.
 
 ## PD-V09: Enjoyment, instrumental reasons and autonomy
 
@@ -976,3 +984,32 @@ skills earn that study time. Reusing PD-V14 in M7 should involve
 retrieval or a new application, not charging for the same first reading
 twice. Excluded or advanced-optional records are not requirements to
 be added to fill a module.
+
+## Conditional source-to-exit checks
+
+These checks concern use of the excerpts verified here. They do not
+establish that a whole module lacks other adequate sources, reverse
+the coverage gate or authorise production.
+
+- **M3, demonstrated wording residual:** the commentary activity
+  and the progression exit name different evidentiary capabilities.
+  The disposition under PD-V08 identifies the remaining exit wording;
+  no new experiment is requested.
+- **M4, source-use boundary:** PD-V07's short excerpt does not teach
+  all three functional definitions, administer an attention-network
+  task or explain score interpretation. Do not use that excerpt
+  alone to certify the planned network-score exit or to diagnose
+  an individual's struggle. If that exit is retained, the owner
+  must ground its teaching and interpretation limits in other
+  actually opened material; this note does not judge those other
+  sources
+  ([scope of the selected attention text](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/)).
+- **M7, conditional decision:** the current exit requires ego-depletion
+  meta-analysis appraisal. If the owner accepts PD-V12's recommended
+  core exclusion, that exit and its assessment must be explicitly
+  revised or deferred rather than silently treated as covered.
+  If the owner retains the bounded contrast, preserve the distinctions
+  between laboratory protocols, confirmatory and exploratory results,
+  and performance differences versus a psychological-fuel explanation
+  ([existing meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC6013521/);
+  [later replication](https://pmc.ncbi.nlm.nih.gov/articles/PMC12422598/)).
