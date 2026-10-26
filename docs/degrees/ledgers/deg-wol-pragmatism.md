@@ -1577,3 +1577,10 @@ zero-width-space tokens (an initial naive count of 722 was my
 extraction artifact from the metadata, not a module error). The
 stated 647 is within one to two words of every reasonable cleaning;
 boundaries exact. No edit needed.
+
+## m1/m4 cited links re-checked (2026-10-26, worker-pplx-pragmatism-1026c)
+
+-All external links cited in m1 and m4 (Wikisource pages, Project
+Gutenberg texts, the Duke syllabus PDF, the Georgetown PHIL 351 page,
+the Texas A&M profile) returned HTTP 200 this session. No dead
+links.
