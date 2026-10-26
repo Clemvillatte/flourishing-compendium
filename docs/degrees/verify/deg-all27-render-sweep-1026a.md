@@ -72,3 +72,13 @@ Advisor QC flagged overclaims in this receipt; corrected:
    item-2 application; ac3bc77/0520ce2 revert; 13c2af5/b6215a9 PD-M1-07
    re-add; 7231d63 source-record locator fix; plus assignment/duration
    work by the deg lanes).
+
+## ADDENDUM — degree detail pages (measured 12:20Z)
+
+All four priority DEGREE pages (#degree=<id>) also verified on the
+live site: degree title renders and every module title from the
+in-page data (8 + 5 + 9 + 5 = 27) is present in the rendered degree
+view; no window.__fcErrors entries. Combined with the module-view
+pass above, the learner surfaces now covered: academy home, degree
+detail pages (4/4), module views (27/27), mobile-width sample (4
+modules + 1 visual).
