@@ -23,24 +23,24 @@ A fourth syllabus was searched and opened (UVa Positive Psychology course) but d
 The three syllabi agree on the same skeleton: (a) what is positive psychology and the PERMA / wellbeing framework, (b) positive emotions and the broaden-and-build theory, (c) flow and engagement, (d) relationships and prosocial behaviour, (e) meaning, purpose and character strengths, (f) accomplishment, resilience and post-traumatic growth, (g) mindfulness, gratitude and contemplative practice, (h) applications to health, education and the workplace, (i) the science-of-well-being synthesis. Where they diverge — Haidt leans into the ancient-wisdom-and-modern-science dialogue (The Happiness Hypothesis), UT Tyler leans into the podcast-and-audio-course format (Greater Good, Santos), Cal Poly leans into a formal 14-topic outline — the D1 map below keeps the PERMA spine and files each instructor's emphasis where it belongs, per the centering clause.
 
 ### A. Orientation — what is positive psychology?
-- What is positive psychology; the shift from pathology to wellbeing [Haidt C1 9/1 Introduction and Great Truths; UT Tyler W1 Jan 14 An Introduction to Positive Psychology (Happiness Lab: The Man Who Invented Happiness Science Marty Seligman); CPP outline section A The Field (Introduction to Positive Psychology; History: Going from Negative to Positive)]
+- What is positive psychology; the shift from pathology to wellbeing [Haidt C1 9/1 Introduction and Great Truths; UT Tyler W1 Jan 14 An Introduction to Positive Psychology (Happiness Lab: The Man Who Invented Happiness Science Marty Seligman); UT Austin Jan 16 Intro (common misconceptions about the good life; what makes people happy)]
 - The PERMA framework; subjective and eudaimonic wellbeing [PENDING — PERMA (Seligman 2011 Flourish) is not explicitly in any of the three opened documents; the Haidt syllabus predates it (2004) and uses Authentic Happiness-era language; the CPP proposal's "Western versus Eastern Perspectives" does not establish PERMA; needs its own evidence at D2]
 - Hedonic and eudaimonic happiness; the ancient question [Haidt C2 9/8 Positive Psychology and Self-Improvement; C3 9/15 Getting the Right Appraisals]
 - Positive psychology's origins and scope; the APA and Seligman [UT Tyler W1 Jan 14 (Happiness Lab Marty Seligman); CPP outline section A The Field (Western versus Eastern Perspectives on Positive Psychology)]
 
 ### B. Positive emotions
-- Positive emotions; broaden-and-build theory [Haidt C7 10/13 Being Nice with Fredrickson broaden-and-build; UT Tyler W2 Jan 21 Optimism (Happiness Lab: Can You Become a Practical Optimist); CPP outline section F Positive Emotions (broaden-and-build)]
+- Positive emotions; broaden-and-build theory [Haidt C7 10/13 Being Nice with Fredrickson broaden-and-build; UT Tyler W2 Jan 21 Optimism (Happiness Lab: Can You Become a Practical Optimist); UT Austin Feb 13 Emotions (leading emotion regulation strategies; learning outcome 3)]
 - The positivity ratio; upward spirals [PENDING — the positivity ratio (Fredrickson & Losada 2005, later retracted by Losada) is not explicitly in any of the three opened documents; the Haidt C7 Fredrickson broaden-and-build reading is adjacent but does not establish the ratio itself; needs its own evidence at D2]
 - The science of happiness — set points and adaptation [Haidt C6 10/6 Hedonics and the Setpoint (Kahneman Objective happiness); CPP outline section D Happiness and Wellness (What is Happiness; theories of happiness; consequences; how to boost)]
 - The neuroscience of positive affect [Haidt C7 10/13 Being Nice (Fredrickson broaden-and-build; Emmons Gratitude; McCullough Forgiveness)]
 
 ### C. Flow and engagement
 - Flow — the psychology of optimal experience (Csikszentmihalyi) [Haidt C9 10/27 Work and engagement with Nakamura & Czikszentmihalyi Vital Engagement; CPP outline section E Positive Thinking (Flow; Search for meaning)]
-- Character strengths and virtues (Peterson, Seligman) [Haidt C13 12/1 Strengths (Seligman AH Ch 8-10, 13) and VIA; CPP outline section C Character Strengths and Virtues (Classification and measures of human strengths; Excellence and grit)]
+- Character strengths and virtues (Peterson, Seligman) [Haidt C13 12/1 Strengths (Seligman AH Ch 8-10, 13) and VIA; UT Austin (identify personal strengths and utilize them in academic and social life; learning outcome 4)]
 - The VIA classification; strengths-based living [UT Tyler W4 Feb 4 Mindset and Positive Thinking (Happiness Lab: How to Adopt a Growth Mindset); CPP outline section C Character Strengths and Virtues (Classification and measures of human strengths; Excellence and grit)]
 
 ### D. Relationships and prosocial behaviour
-- Positive relationships; attachment and love [Haidt C8 10/20 Love and social support (Baumeister & Leary need to belong; Reis & Gable); UT Tyler W6 Feb 18 Friendship (Happiness Lab: The Secret to Making Friends as an Adult; How to Make Friends and Compliment People); CPP outline section H Positive Relationships (Attachment; Typologies of love)]
+- Positive relationships; attachment and love [Haidt C8 10/20 Love and social support (Baumeister & Leary need to belong; Reis & Gable); UT Tyler W6 Feb 18 Friendship (Happiness Lab: The Secret to Making Friends as an Adult); UT Austin Apr 11 Social connection (improving social connections and prosocial contributions; learning outcome 7)]
 - Empathy, compassion and altruism [Haidt C7 10/13 Being Nice (reciprocal altruism; Fredrickson broaden-and-build); CPP outline section I Prosocial Behavior (Altruism and empathy)]
 - Positive psychology of relationships; the need to belong [Haidt C8 10/20 Love and social support (Baumeister & Leary need to belong; Reis & Gable positive psychology of relationships; Seligman AH ch.11 love; Sternberg triangular theory of love)] — NOTE: the earlier "Gottman's science of love; the five-to-one ratio" attribution is RETRACTED; the Haidt syllabus does not mention Gottman
 - Forgiveness and reconciliation [UT Tyler W7 Feb 23 Romance (Happiness Lab: Why the Good Enough Relationship Beats the Perfect Partner; Date Like a Scientist); CPP outline section I Prosocial Behavior (Forgiveness)]
@@ -57,9 +57,9 @@ The three syllabi agree on the same skeleton: (a) what is positive psychology an
 - Mindset and growth (Dweck) [UT Tyler W4 Feb 4 Mindset and Positive Thinking (Happiness Lab: How to Adopt a Growth Mindset; Don't Accentuate the Positive)]
 
 ### G. Contemplative practice and mindfulness
-- Mindfulness meditation; MBSR [Haidt C5 9/29 Calming the mind meditation and prozac (Buddha Dhammapada whole book; Shapiro Schwartz Santerre); UT Tyler W5 Feb 11 Emotions as Data (Happiness Lab: Emotions are Data So Listen to Them; Stop Stressing About Stress); CPP outline section E Positive Thinking (Mindfulness) + G Individual Life Enhancement Strategies (Meditation)]
+- Mindfulness meditation; MBSR [Haidt C5 9/29 Calming the mind meditation and prozac (Buddha Dhammapada whole book; Shapiro Schwartz Santerre); UT Tyler W5 Feb 11 Emotions as Data (Happiness Lab: Emotions are Data So Listen to Them); UT Austin (attentional strategies to implement daily; learning outcome 2)]
 - Gratitude practice; the gratitude journal [Haidt C7 10/13 Being Nice (Emmons Gratitude); UT Tyler W14 Apr 13 Gratitude (Happiness Lab: Grateful Expectations)]
-- Self-compassion (Neff) [UT Tyler W5 Feb 9 Self-Compassion (Happiness Lab: How to Grow After Adversity; How to Embrace Imperfection); CPP outline section I Prosocial Behavior (self-compassion)]
+- Self-compassion (Neff) [UT Tyler W5 Feb 9 Self-Compassion (Happiness Lab: How to Grow After Adversity; How to Embrace Imperfection); UT Austin (deepen self-awareness, self-compassion and redemption to generate an empowering life narrative; learning outcome 6)]
 - Savoring and positive reminiscence [PENDING — savoring is not in any of the three opened documents; needs its own evidence at D2]
 
 ### H. Applications and the science-of-well-being synthesis
