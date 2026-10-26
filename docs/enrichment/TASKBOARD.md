@@ -14,6 +14,12 @@ a basis of self-esteem" phrase in the abstract). No defects; no repairs
 needed.
 
 
+## VERIFICATION CHECKPOINT (2026-10-26 00:34Z, sup-1026b — acceptance dossier quote sample)
+
+1/1 verbatim against the freshly opened carrier: Hayes, Luoma, Bond, Masuda
+& Lillis 2006 (anxietyinstitute PDF) — the ACT acceptance definition exact.
+Session quote-fidelity total 12/12.
+
 ## VERIFICATION CHECKPOINT (2026-10-26 00:33Z, sup-1026b — suffering dossier quote sample)
 
 2/2 verbatim against freshly opened carriers: SN 56.11 (Thanissaro,
