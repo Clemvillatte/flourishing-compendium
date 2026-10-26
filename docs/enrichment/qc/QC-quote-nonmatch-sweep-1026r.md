@@ -6,7 +6,7 @@ Agent: worker-pplx-dosr6-1026r. Date: 2026-10-26 (09:52Z). Supervisor post-revie
 
 Ran the dossier quote verifier over every published dossier in docs/enrichment/dossiers/ (42 files). Total non-matches: 92 spans. A non-match is a verifier limit (abstract-only carrier, blocked host, OCR text layer, punctuation spacing), not a finding that the quote is wrong. Each span below was re-checked against text from a source opened in this session: the PubMed efetch record for PubMed carriers, or a fetched copy of the carrier page. A span counts as verified only when the opened text contains the quoted wording.
 
-## Verified in this pass (35 spans, all verbatim)
+## First pass (35 spans, all verbatim)
 
 PubMed efetch (17 of 18 PubMed-carried spans): creativity (28259772, 24405359, 22941876), lifes-purpose (10101878), meaning-and-mortality (20097885), right-effort (9599441, 27474142), shame-and-guilt (29303420, three spans), wisdom (29620401, 24405359, 11392856 four spans). The eighteenth, the wisdom span on Sage (PubMed 21728454), was verified in docs/enrichment/qc/QC-dossier-wisdom-nonmatch-reverify-1026r.md and is not repeated here.
 
