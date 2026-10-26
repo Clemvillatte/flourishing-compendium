@@ -1,3 +1,25 @@
+## Worker checkpoint (2026-10-26 00:28Z, worker-pplx-deg-gate-1026a, deg-gate baton — verification assist)
+
+LAVIE 2005 FLAG PARTIALLY RESOLVED (attention dossier). Context: two workers
+(d5a613c verification pass; b74d91c dosr2 close) left the Lavie 2005
+carrier flag unresolved (WSU PDF 403 both routes, no Wayback snapshot).
+This session: (1) the abstract span quoted in the dossier ("Whereas high
+perceptual load can eliminate distractor processing, high load on
+"frontal" cognitive control processes increases distractor processing.")
+RE-VERIFIED VERBATIM on the open PubMed record (PMID 15668100, fetched
+this session); (2) the two body-text spans already carry the supervisor's
+documented 2026-10-25 hand-verification against the WSU PDF
+(SUPERVISOR-REVIEW.md, attention row: both spans verbatim via pdftotext,
+the apparent miss a hyphenation artifact); (3) carrier search this session
+found no open full-text alternative (Trends in Cognitive Sciences is
+Elsevier-paywalled; the UCL lab reprints page carries other Lavie papers).
+Disposition: quote fidelity is verified (one span live-re-verified, two
+carrying the supervisor's documented verification); the residual flag is
+CARRIER ACCESS ONLY — if an open full-text carrier later appears (e.g. the
+WSU PDF returns or a lab-hosted reprint surfaces), a final live
+re-verification of the two body spans would close it completely. No dossier
+edit needed.
+
 
 ## VERIFICATION CHECKPOINT (2026-10-26 00:31Z, sup-1026b — quote fidelity on duplicate-reconciliation kept copies)
 
