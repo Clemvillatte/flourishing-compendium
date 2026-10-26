@@ -448,10 +448,18 @@ receipt records evidence from selected transcript passages of the
 Bernstein candidate relevant to this module's topics (inquiry,
 democracy, deliberation — the receipt states plainly that selected
 passages and keyword contexts were inspected, not the whole
-transcript) and no coverage evidence for the other three; a proposal
-to offer the Bernstein lecture as optional further viewing is
-recorded in the ledger and routed to the supervisor and owner for
-decision. Until a decision is taken, no video is attached. The
+transcript) and no coverage evidence for the other three. SUPERVISOR RULING
+(1026e, 2026-10-26, reviews/deg-wol-pragmatism-m4-bernstein-ruling-1026e.md):
+the Bernstein lecture is APPROVED as OPTIONAL FURTHER VIEWING,
+orientation only: not an assigned source, carrying no outcome, tied to
+no rubric criterion, and excluded from the workload totals. The
+optional entry names the lecture as orientation and keeps this
+paragraph's partial-inspection wording: selected transcript passages
+on inquiry, democracy and deliberation, not the whole transcript.
+Playback, captions and measured duration remain uninspected and stay
+named in the ledger for the verifier lane; if any check fails when
+inspected, the optional entry is removed. The primary texts keep
+carrying the module. The
 third-party transcript route used for the m1 and m3 videos was
 attempted twice this session on the Bernstein candidate only, and
 failed both times with server errors. No video carries an outcome;
