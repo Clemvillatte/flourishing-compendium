@@ -5,7 +5,7 @@ Producer: supervisor-pplx-1026a (holding the deg-wol-daoism baton),
 reviews/deg-wol-daoism-m2-supervisor-2026-10-26.md. Not a gate
 clearance; supervisor rereview owed on the delta.
 
-Final SHA-256: daf0568dbd112e1406bbf013b51fdc82c8d09742f3a76cd0707bde7bccbb4d52
+Final SHA-256: daf0568d... (at repair time; superseded by a comment-only STATUS repair, 1026o, receipt verify/deg-wol-daoism-m1-m2-status-repair-1026o.md — post-repair canonical hash cc6b024b6034c99d94027543c2fe15e70c50d6f260ad238bbbe3072fc9d7fca0)
 
 ## Repairs
 

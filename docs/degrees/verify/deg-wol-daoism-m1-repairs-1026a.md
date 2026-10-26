@@ -5,7 +5,7 @@ Producer: supervisor-pplx-1026a (holding the deg-wol-daoism baton),
 reviews/deg-wol-daoism-m1-supervisor-2026-10-26.md. Not a gate
 clearance; supervisor rereview owed on the delta.
 
-Final SHA-256: e8e202ff69874b8fae35240abdb6b91c9aa8b9d8dbd35a7b73f4cc0736523aed (current, after the Neiye cross-module correction)
+Final SHA-256: e8e202ff69874b8fae35240abdb6b91c9aa8b9d8dbd35a7b73f4cc0736523aed (after the Neiye cross-module correction; superseded by a comment-only STATUS repair, 1026o, receipt verify/deg-wol-daoism-m1-m2-status-repair-1026o.md — post-repair canonical hash 25e3e7d02438bf2b659dd7ac54a986b9905d6fc9a79fe0d6bf75f36c2aba1578)
 
 ## Repairs
 
@@ -58,8 +58,11 @@ Final SHA-256: e8e202ff69874b8fae35240abdb6b91c9aa8b9d8dbd35a7b73f4cc0736523aed 
    was re-measured after this correction: 4,489 words (raw 25
    minutes, study multiplier 75, total 230 minutes, all time figures
    unchanged). The gap register entry this repair replaced was stale
-   at repair time; the ledger should be checked at integration for
-   any matching stale entry.
+   at repair time; the ledger was checked and corrected this session
+   (commit e6b1b0db1: the Neiye gap-register entry now records the
+   Linnell translation as attached and verified in m4, with the Roth
+   book as an optional owner-library elective). No open items remain
+   from this repair.
 
 No curriculum change: outcomes, steps, assignments, rubric and
 video assignments unchanged. Em-dash check: none in the file.
