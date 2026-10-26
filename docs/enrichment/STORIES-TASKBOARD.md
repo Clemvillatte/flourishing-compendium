@@ -221,3 +221,38 @@ only. Chapter policy for new registrations still needs an owner ruling
   ST004 upgrade.
 - Cosmetic: ST411/412/413/417 ran the framing line into the first
   paragraph (register-tool template); blank line inserted, build green.
+
+## ST488 IDENTITY REPAIR (2026-10-26 ~00:42Z, supervisor-pplx-1026c, advisor final verification)
+The advisor verification correctly flagged that ST488-491 were PRE-SESSION
+published pages: my batch's ST411-413/417 were re-registrations of stories
+already published (the guard missed them because draft titles carried "NN. "
+prefixes — the gap since fixed in story_register.py). Repaired per the
+keep-first-registration convention: pre-session copies ST488 (Painter),
+ST489 (Slowest Vessel), ST490 (Jade), ST491 (Letter) restored verbatim from
+the pre-batch tree; today's ST411-413/417 copies removed; Rip Van Winkle
+(s1c-031) moved from ST488 to fresh ST508 (page, lane state, backlinks,
+book TOC, _order.json all updated). Verified: all 468 surviving pre-session
+pages match the pre-batch baseline in FM chapter ID and TOC ancestry (0
+diffs on both checks); 36 new numbers with zero reuse; net 468 -> 504; book
+TOC 504/504 with no duplicates or orphans; 4097 story wikilinks all resolve
+exactly; story_check PASS on every changed page and all 36 new pages;
+build rc=0; tests 52/52 (direct exit status). Legacy bar: 341 published pages currently fail
+story_check, ALL pre-session ST001-374 generation pages untouched this
+session (ST004 and ST374 pass after this session's repairs) — owner
+routing still needed. Chapter-placement policy for new registrations still
+needs an owner ruling.
+
+## FINAL CORRECTIONS (2026-10-26 ~00:50Z, supervisor-pplx-1026c)
+Advisor verification round 3: (a) ST374/ST456/ST478 book-TOC lines moved
+to their restored FM chapters (the three pre-session pages whose lines were
+added this session); all 26 pre-session pages without baseline TOC lines now
+sit under their FM chapter. (b) _order.json: ST488-491 entries restored in
+sequence after ST487; ST508 title prefix corrected to "508."; restored
+ST488-491 verified identical to the pre-batch tree (direct diff, 0 lines).
+(c) PROGRESS figures restated: 36 genuinely new stories, 468 -> 504, ST488-491
+identities preserved, Rip Van Winkle at ST508. (d) tests re-run with direct
+exit status (52/52, rc=0). (e) 341 story_check failures are all
+legacy-number-range (ST001-374) pages; the only two such pages touched this
+session (ST004, ST374) pass after repairs. (f) ST001 cross-lane deletion
+incident (dosr6) inspected: restoration confirmed and verified by the dosr6
+verifier's pass 2; closed, no action needed.
