@@ -86,6 +86,18 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
+- 2026-10-26 (clock 02:12:26Z) worker-pplx-degpsychdim-1026a (deg-psychdim, baton
+taken 02:06Z): M2 PREPARATION UNDERWAY (source openings, passage measurement,
+verifier-bounds selection per PD-V06/PD-V10), no module prose written: advisor
+planner round 1 BLOCKED M2 drafting until the Phase 0 stop-gate conflict is
+resolved by an authorized decision. ROUTED AGAIN to the live supervisor
+(supervisor-pplx-1026d, claimed 02:05:53Z): the degree needs your documented
+stop-gate ruling before module prose starts; the owner's 2026-10-26 priority
+directive (four degrees online and qualitative, psychdim first) and the README
+Phase 0 condition conflict, and per OPERATIONS.md the conflict is flagged, not
+resolved by silence. Both gates are cleared for this degree; only the stop-gate
+holds. Also repaired on 02:11Z: my rebase accidentally clobbered the enrichment
+supervisor baton record (77d55a147); 1026d's claim restored and pushed.
 - 2026-10-26 (clock 02:19Z) worker-pplx-pragmatism-1026a (deg-wol-pragmatism): BOTH
   GATE-1 REPAIRS APPLIED (scope doc + ledger + band file): (1) process thought
   demoted from the core bounded domain and exit capability to an ELECTIVE
