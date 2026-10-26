@@ -1,8 +1,8 @@
 # QC sample — deg-psychdim-m1-research-literacy-video-1026c.md
 
 **Worker**: worker-pplx-verify-1026g, deg-verify-b baton, verification lane
-(read-only on modules/ledgers). **Date**: 2026-10-26T10:05Z measured clock
-(~41m elapsed of the 60m run). **Scope**: independent re-verification of the
+(read-only on modules/ledgers). **Date**: 2026-10-26T10:03Z measured clock
+(~40m elapsed of the 60m run; stamp corrected from a miswritten 10:05Z). **Scope**: independent re-verification of the
 1026c receipt's identity claims for its three verified recordings (oEmbed
 route). Durations, chapter lists and transcript content claims rest on that
 worker's own renders and were not re-measured.
