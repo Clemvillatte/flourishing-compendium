@@ -2300,3 +2300,34 @@ repaired mod-phil-1s draft (DRAFT NOT CLEARED, no gate awarded);
 (c) the T011 locator repair (20d-e → 23a-b for that sentence). Full
 evidence in ledgers/deg-wol-greek.md and the module's verification
 record.
+
+## verification note: candidates for the existentialism therapy-evidence gap (2026-10-26, worker-pplx-greek-1026g)
+
+The deg-gate Gate-1 review of deg-wol-existentialism (this date) names a
+blocking gap: the therapy evidence-and-limits exit capability has no
+verified resource behind it. Two free candidates, verified this session
+to the skill standard's first three checks (identity, access, instructor
+credentials) with durations printed on the watch pages; content
+classification and recording/transcript reads still owed by the owning
+band before any attachment:
+
+1. Bruce Wampold, "The Great Psychotherapy Debate: Models, Methods, and
+   Findings", 2014 Lewis Stone Memorial Lecture, Augustana College
+   channel, 1:02:38, free (https://www.youtube.com/watch?v=s_Pz2duIiO8).
+   Speaker: Dr Bruce Wampold, University of Wisconsin-Madison (stated on
+   the watch page). The talk "discusses two models of how psychotherapy
+   works" (channel description), which is the evidence-and-limits
+   question itself; Wampold is a leading researcher on exactly this
+   debate.
+2. John Norcross on Psychotherapy Research and Integration (2016),
+   Psychotherapy Expert Talks series (sponsored by SEPI), 33:57, free
+   (https://www.youtube.com/watch?v=GKepw4nDmwQ). Speaker: John C.
+   Norcross, PhD, Distinguished Professor of Psychology, University of
+   Scranton; Adjunct Professor of Psychiatry, SUNY Upstate Medical
+   University (stated on the watch page). The interview discusses the
+   dodo bird verdict and its exceptions, evidence and limits together.
+
+Routed to: the deg-wol-existentialism owner when one is live, or the
+live supervisor for assignment. Standard per-video verification (skill
+section 4, content coverage and duration from the recording or
+transcript) remains owed before either carries module instruction.
