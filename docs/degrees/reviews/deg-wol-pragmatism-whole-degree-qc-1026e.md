@@ -1,91 +1,86 @@
 # deg-wol-pragmatism whole-degree QC — supervisor (1026e)
 
 - Degree: deg-wol-pragmatism (A Walk of Life: Pragmatism)
-- Reviewer: supervisor-pplx-1026e, 2026-10-26, T0 07:32:36Z
-- Prior state: all five modules hold supervisor module-QC PASS verdicts
-  (m1/m2 by supervisor reviews on this date; m3 by supervisor review
-  after advisor QC rounds; m4 by supervisor review with the Bernstein
-  ruling; m5 by supervisor-1026h's first review, corroborated by this
-  session's independent verification of all five quoted passages).
+- Reviewer session: supervisor-pplx-1026e, T0 2026-10-26T07:32:50Z; this
+  review written ~08:05Z (T+32).
+- Band state at review: all five modules hold supervisor module-QC passes
+  (m1 91105ac8, m2 39aafd24, m3 55166097, m4 2a6d9c2d — the Bernstein
+  ruling edit applied this session — m5 30ae9638; reviews
+  reviews/deg-wol-pragmatism-m*-supervisor-1026e.md).
+- Module files recomputed at their review hashes this session; the m4
+  hash moved to 2a6d9c2d when the ruling's bounded edit was applied.
 
-## Module verdicts (all current hashes re-measured this session against origin/main)
+## Packet-level checks performed
 
-| module | current hash (first 16) | verdict |
-|---|---|---|
-| m1-orientation | 91105ac80caac8cc | PASS (band-recorded; hash matches) |
-| m2-belief-and-doubt | 39aafd2459d90e5a | PASS (band-recorded; hash matches) |
-| m3-truth-and-the-will-to-believe | 55166097c0b4b165 | PASS (band-recorded; hash matches) |
-| m4-dewey-inquiry-ethics-democracy | 2a6d9c2dd097c227 | PASS (band-recorded; hash matches; Bernstein optional-viewing ruling applied) |
-| m5-capstone | 30ae9638b7102988 | PASS (supervisor-1026h first review at this hash; this session independently re-verified all five quoted passages verbatim on their primary-source pages — Peirce maxim both sentences, Dewey forked-road sentence, James Lecture VI both sentences, Will-to-Believe fragment) |
+1. Module set complete and independently reviewed: five of five modules
+   carry supervisor module-QC passes issued this session, each with the
+   quote control and workload arithmetic re-checked against the opened
+   sources (Peirce's three essays, James's Lecture VI and the free-will
+   exercise, the Dewey readings measured on the downloaded public-domain
+   texts; the m1 Philosophy Talk and m3 Misak talk verified through the
+   indexed-transcript route; the m4 Bernstein entry bounded by the
+   supervisor ruling as optional further viewing, orientation only).
+2. Packet arithmetic recomputed from the five workload sections:
+   m1 170 + m2 225 + m3 257 + m4 178 + m5 310 = 1,140 minutes of
+   labelled components = 19 hours total active workload, with the
+   optional further reading and the Bernstein optional viewing excluded
+   from the totals as stated.
+3. Centering: the degree is titled and framed as a Walk of Life — the
+   m1 opening runs one question through the five modules (what it means
+   to treat your beliefs as instruments you test in experience, and
+   what that changes about how you live when you feel uncertain or
+   overwhelmed), and the m5 capstone delivers the walk's promise in
+   that form (examine an uncertainty in your own life with a method
+   you can name, show and repeat, defend a provisional judgment
+   against its strongest objection, and name the responsible next
+   step, including the step of waiting).
+4. Scope: the exclusions are printed in m1 and required by its outcome
+   4 — existentialism and Greek virtue ethics are their own walks;
+   process thought is held as an elective branch capped at its
+   lived-experience applications with its metaphysical register out
+   (the narrowed scope independently confirmed by the deg-gate lane's
+   re-opens of the three benchmark curricula and the Cobb syllabus,
+   receipts in the degree ledger); neopragmatism is an elective; the
+   analytic philosophy of language beyond the maxim is excluded as
+   anchor tail. The finite-scope rule is stated in the packet:
+   material that merely fits the topic does not qualify.
+5. No paywalled content: the primary texts are public domain
+   (Wikisource and Project Gutenberg), the videos are free on
+   YouTube (stated in m1), and no paid course or paywalled reading is
+   required anywhere in the packet.
+6. Progression: L1 orientation (m1) through L2/L3 (m2-m4) to the L4
+   capstone (m5), with m1's exit criteria defined as m2's entry
+   competencies and the capstone's prerequisites the m4 exits.
+7. Video-first rule: m1's Philosophy Talk and m3's Misak lecture are
+   verified recordings with receipts in the ledger; m4 carries the
+   Bernstein lecture as optional further viewing bounded by the
+   supervisor ruling (not an assigned source, no outcome, excluded
+   from workload totals, partial-inspection wording preserved); m2 and
+   m5 are text-first by design with no video claim.
+8. Safety: the capstone works on the learner's own live belief or
+   decision, takes the position in one of three honest forms, and
+   credits verdicts honestly reported as not established; no
+   prescribed unpleasant emotional induction anywhere in the packet;
+   the material is the learner's own and neither disclosure nor
+   improvement is graded.
+9. Story: the degree's story s1f-009 (B162, Nickel Mines Amish
+   forgiveness — the community that did not return hatred) is
+   integrated with backlinks done, per the s1f lane state.
 
-## Packet-level checks performed this session
+## Nonblocking flag for the next session
 
-1. **Module set complete and independently reviewed**: five of five
-   modules carry supervisor module-QC passes at their current hashes
-   (each hash re-measured this session against origin/main and matched
-   to its band-recorded PASS hash).
-
-2. **Packet arithmetic recomputed** from the five modules' workload
-   sections: 170 + 225 + 257 + 178 + 310 = 1140 estimated active
-   minutes = 19 hours 0 minutes. No degree-level packet total is
-   claimed in the band, scope or ledger for this degree (unlike
-   psychdim's README table), so the recomputation stands as the
-   packet's first degree-level arithmetic check; each module's own
-   total was verified in its module-QC (m3's 257 substantiated from
-   the local texts in its band entry; m4's 178 restated after the
-   video reclassification; m5's 310 recomputed in review).
-
-3. **Centering**: the scope doc frames the degree as a Walk of Life
-   ("a learner walking the pragmatist path: truth as what works in
-   experience, ideas as instruments, democracy and inquiry as ways of
-   living"), and the m5 capstone intro carries the walk's promise in
-   precise form (examine an uncertainty in your own life with a
-   method you can name, show and repeat; defend a provisional judgment
-   against its strongest objection; name the responsible next step,
-   including the step of waiting) — verified in the m5 module read
-   this session.
-
-4. **Scope**: the bounded domain is printed with exclusions and
-   reasons (analytic philosophy of language beyond the pragmatic
-   maxim; existentialism and Greek virtue ethics as their own walks;
-   process thought excluded as core material — none of the three
-   anchor curricula list it, held as an elective at the
-   lived-experience line only, per the Gate-1 repair and re-opens).
-
-5. **No paywalled content**: all attached sources are public-domain
-   texts (Wikisource, Project Gutenberg) or free YouTube recordings;
-   the m4 ruling documented the free Bernstein lecture; the m1
-   Philosophy Talk episode is free with oembed re-confirmation in the
-   ledger.
-
-6. **Progression**: m1 orientation through m2/m3 (belief, truth) and
-   m4 (inquiry, ethics, democracy) to the m5 capstone at L4
-   Synthesis, whose stated prerequisites are the m4 exits and whose
-   exit is the walk's exit (verified in the m5 module read).
-
-7. **Video-first rule**: m1's assigned episode is a verified recording
-   (ledger: oembed identity, duration, hosts' credentials, full
-   third-party transcript read); m3's Misak lecture remains an
-   optional revisit, not required teaching; m4's video candidates
-   stay unverified in the ledger with the missing checks routed, and
-   the Bernstein lecture is attached only as optional orientation per
-   the supervisor ruling. Residuals are documented honestly; no module
-   claim rests on an uninspected recording.
-
-8. **Safety**: no prescribed unpleasant emotional induction anywhere
-   in the packet; the capstone has the learner choose their own live
-   belief or decision ("something you actually face this year"), with
-   no disclosure or improvement graded.
+The five modules' STATUS comments still read "DRAFT, NOT CLEARED"
+from the production era (the m1 comment also says "Awaits supervisor
+module-QC", now stale). Editing them changes the file hashes, which
+invalidates the QC hash chain, so this is routed as a comment-only
+metadata repair to be done together with hash re-verification before
+the publication flip — the same repair applied to psychdim's m2-m8
+(receipt verify/deg-psychdim-m2-m8-status-repair-1026e.md). The band
+file is the authoritative state; this review moves it to qc_complete.
 
 ## Verdict
 
-**WHOLE-DEGREE QC PASS.** The five-module packet is complete,
-independently reviewed at every module gate, arithmetically consistent
-(1140 minutes = 19 hours), centered on the Walk of Life promise,
-scope-bounded with printed exclusions, free of paywalled content,
-progressive from orientation to synthesis, and honest about its
-video-verification residuals.
-
-Next gates per the README sequence: technical-integration gate
-(deg-integrate) and the OWNER gate (publication flip rests with the
-owner, not the supervisor).
+WHOLE-DEGREE QC PASS. The degree is ready for the independent
+whole-degree gate review (scope/centering, deg-gate lane) and then
+deg-integrate's attach + tests + publication flip, per the wave-4
+engine flow.
