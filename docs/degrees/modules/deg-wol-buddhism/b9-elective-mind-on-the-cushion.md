@@ -4,7 +4,7 @@
 - **kind**: degree-module (ELECTIVE; serves the meditating learner's need to understand their own mind in practice, per the scope's elective test: the hindrances and aggregates as experienced, not as scholastics)
 - **level**: L2 Guided application
 - **module id**: deg-wol-buddhism-b9
-- **status**: draft v1.2; not cleared (Hindrances talk transcript-read, aggregates thread landed 2026-10-26; repair history in the ledger)
+- **status**: MODULE-QC PASS, supervisor 1026e (corroborated 1026a/1026h), 2026-10-26 (decision at a6750e16; review reviews/deg-wol-buddhism-b9-supervisor-2026-10-26.md; the later one-line license repair postdates the PASS hash, changed-hash delta check requested; whole-degree gate PASS refreshed; integration/publication per INTEGRATION.md; repair history in the ledger)
 - **prerequisites**: b1 and b4 exit criteria (a sitting practice with a log exists; this elective reads that practice)
 
 ## Walk context

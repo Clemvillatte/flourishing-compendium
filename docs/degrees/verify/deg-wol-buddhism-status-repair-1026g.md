@@ -44,3 +44,24 @@ b5-thai-forest-way 3961e4e0323d768b0d145926250f3c4ffe932a601ed055e996b61cf632708
 b6-zen 688d2315d00c90de74b9e27a696dc5a8937f4eea60286c6b3bdd9cf0938d7a7c
 b7-insight-and-secular 2051887bd743fe359816d3c518aac8a0357117e814deb854899eea4f01ce9344
 b8-capstone 3edf4f22f20a8a67fd52b55d8b6c7f8c7c2ddbc68721d2166f498be4ebeb3f99
+
+## Addendum: b4 and b9 status lines repaired (2026-10-26, 08:04:27Z measured)
+
+The b4 delta verification landed (reviews/deg-wol-buddhism-b4-delta-
+addendum-1026h.md: PASS stands at cdc5b4d1; the gate's withheld-clearance
+condition discharged), unblocking the two deferred status-line repairs.
+Both applied with the same one-line-per-file format:
+- b4: MODULE-QC PASS at cdc5b4d1 (delta verification extending the
+  1026h PASS). New hash a09c85644915...
+- b9: MODULE-QC PASS at a6750e16 (1026e, corroborated); the one-line
+  license repair postdates the PASS hash, changed-hash delta check
+  requested. New hash 1ad843b95372...
+
+With this, ALL NINE deg-wol-buddhism modules carry QC-passed status
+lines. Also this pass: a band-file conflict marker left by a concurrent
+push was resolved (supervisor side taken; JSON validated).
+
+Full hashes are in the band entries. Status-line-only changes,
+verified by diff.
+b4-foundational-meditations a09c8564491540988298f4d06988aeb5c1e96aa98585b5f68f927e4333d4c37d
+b9-elective-mind-on-the-cushion 1ad843b953727040ba53f72910945d06a8b07613aea2f206fc7a7a6a407ba837

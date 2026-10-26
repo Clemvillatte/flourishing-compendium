@@ -4,7 +4,7 @@
 - **kind**: degree-module (practice module; practicum-style training plan per the curriculum skill's discipline rules)
 - **level**: L2 Guided application
 - **module id**: deg-wol-buddhism-b4
-- **status**: draft v4; not cleared (caption-track presence evidenced via a player-data extraction and chapter headings corroborated via a third-party service, limits stated in Boundaries; full-text retrieval still blocked; repair history in the ledger)
+- **status**: MODULE-QC PASS, supervisor 1026h, 2026-10-26 (delta verification decision at cdc5b4d1; review reviews/deg-wol-buddhism-b4-delta-addendum-1026h.md, extending the 1026h PASS; whole-degree gate PASS, clearance condition discharged; integration/publication per INTEGRATION.md; repair history in the ledger)
 - **prerequisites**: b1 exit criteria (two completed metta sittings with a practice record; can state the five precepts); b2 exit criteria (has run the four tasks on one case)
 
 ## Walk context
