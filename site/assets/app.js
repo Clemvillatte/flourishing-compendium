@@ -3869,11 +3869,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Does a wise person hold a large store of knowledge, or hold a particular stance toward what they know? Socrates puts the stance first, as above. The Berlin paradigm builds uncertainty into its definition as one of five criteria: \"recognition and management of uncertainty\" ([Baltes and Staudinger 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/))."
+          "x": "The shared question: can a human being hold wisdom as a finished possession? Socrates says no. At his trial he reads the oracle's verdict as a lesson about human limits: \"God only is wise\", and \"the wisdom of men is little or nothing\", so the wisest person is the one \"who, like Socrates, knows that his wisdom is in truth worth nothing\" ([Plato, Apology, Jowett translation](https://classics.mit.edu/Plato/apology.html))."
         },
         {
           "t": "p",
-          "x": "The traditions and the research agree that knowing one's limits belongs to wisdom. They differ on its weight. For Socrates it is close to the whole of human wisdom; for the expertise model it is one criterion beside rich factual and procedural knowledge."
+          "x": "Aristotle describes the wise person differently, as someone who has arrived: \"wisdom must plainly be the most finished of the forms of knowledge\", so \"the wise man must not only know what follows from the first principles, but must also possess truth about the first principles\" ([Aristotle, Nicomachean Ethics VI.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). He adds that philosophic wisdom is \"scientific knowledge, combined with intuitive reason, of the things that are highest by nature.\""
+        },
+        {
+          "t": "p",
+          "x": "The precise difference is whether wisdom is possessed knowledge or a standing awareness of its absence. Socrates places it in the second; Aristotle's definition requires the first, at least for the highest things. Modern research takes a middle path: the Berlin paradigm lists \"recognition and management of uncertainty\" as one criterion among five, beside rich factual and procedural knowledge ([Baltes and Staudinger 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/)). I lean toward Socrates for the person in the middle of a hard decision, where confidence that outruns knowledge does the damage, and toward Aristotle for the thinker whose job is to know."
         },
         {
           "t": "h2",
