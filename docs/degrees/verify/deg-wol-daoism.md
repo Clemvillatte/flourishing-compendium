@@ -295,3 +295,38 @@ were cross-checked against opened pages.
   the talk as a whole.
 
 Timestamp correction (2026-10-26, measured 04:54Z): the clock labels first written in these receipts were invented readings, not measurements; they are corrected in place to the measured commit bounds recorded in git history (5f0749ff2 04:41:59Z through 513ae872f 04:53:43Z). Appended rather than silently rewritten; the receipts themselves are otherwise unchanged.
+
+### Neiye elective carrier note (checked 2026-10-26T05:03Z)
+
+For the m1 gap register's Neiye dependency (Roth's book not uploaded):
+
+- A VERIFIED OPEN CARRIER ALREADY EXISTS and is recorded above (D-T04):
+  Project Gutenberg #38585, Linnell's "Study of Inner Cultivation" — an
+  open English translation of Guanzi ch. 49. The gap register's wording
+  ("no verified source attached") is true only in the sense that no
+  source is attached to the elective; an attachable open carrier is on
+  the books. Attaching it is the owner's scope call (Linnell is a
+  different translator from Roth; the module text would need to quote
+  Linnell's wording, not Roth's).
+- Eno's own Neiye translation ("Guanzi: The Inner Enterprise", 2005):
+  the original www.indiana.edu/~p374/Inner_Enterprise.pdf is dead
+  (redirects to bloomington.iu.edu, re-confirmed this pass). A chinatxt
+  mirror is cited as the live source by factsanddetails.com (opened this
+  pass): chinatxt.sitehost.iu.edu/Thought/Inner_Enterprise.pdf — but
+  that host is UNREACHABLE from this environment (robots-blocked for the
+  page reader, connection failed from the sandbox), so the Eno carrier
+  cannot be verified here; recorded as environment limitation, not a
+  finding about the carrier.
+- Not to be confused: the l.iu.edu ScholarWorks bitstream
+  1dd6d666-9b05-4ed2-9a1e-1014c42de3f7 surfaced in Neiye searches is a
+  DIFFERENT document (a Maoshan study that discusses the Neiye), not
+  Eno's translation. l.iu.edu is currently DNS-failing from this
+  environment (both page reader and sandbox); the Eno Daodejing/Zhuangzi
+  bitstreams verified earlier this session (D-T05/D-T06) remain valid
+  receipts from when they were open.
+- m1's Eno ch. 8 and Butterfly Dream verbatim quotes: carrier verified
+  this session (D-T05/D-T06); the owner's round-2 repairs state the
+  quotes were taken from full downloads of those PDFs (ledger, round-4
+  entry). Independent quote-level re-check attempted this pass was
+  BLOCKED (bitstream now unreachable from this environment — IP block
+  then DNS failure); owner's download claim stands unrefuted.
