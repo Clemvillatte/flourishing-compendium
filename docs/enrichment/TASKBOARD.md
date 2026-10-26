@@ -6371,3 +6371,5 @@ same pass; see its RETRACTION note.)
   [T+44:10] verify lane (no baton): b9 Thanissaro addendum -- duration 0:25:00 confirmed via search-index watch page; transcript excerpts inspect opening content (five hindrances, recognizing them) consistent with module claims. Receipt updated: docs/degrees/verify/deg-wol-buddhism-b9-sources-crosscheck-1026c.md
 
   [T+48:28] verify lane (no baton): advisor QC follow-up repairs -- M5 McAdams framing recorded-not-adjudicated; M5 endpoint arithmetic verified exactly (34:53); b9 search-result provenance confirmed (PcR_fI6p9k8) and inspection wording narrowed to indexed excerpts; b6/b7 addenda reworded to attributed report; authored em dashes removed from all 1026c receipts (verbatim quotes preserved).
+
+  [T+50:53] verify lane (no baton): b9 excerpt wording refined to timestamp markers (04:49, 04:56, 05:02, 05:10) per advisor QC; final pass complete, all 23 receipts read back and verified.
