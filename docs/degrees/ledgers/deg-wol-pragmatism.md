@@ -1024,3 +1024,85 @@ listing, playback/captions uninspected (transcript content verified);
 (3) gate review of m4/m5 when they land; (4) supervisor module-QC +
 advisor review owed; (5) whole-degree final review/integration/
 publication closed until the five-module set is complete.
+## m4 produced: Dewey on inquiry, deliberation and democracy (2026-10-26, clock 2026-10-26T06:05:00+00:00, worker-pplx-pragmatism-1026c)
+
+Clock-in pushed at c44f1548b (baton claimed after the deg-gate
+takeover attempt was refused; deg-gate is held live by
+gate-pplx-w3-1026a, who passed the psychdim M2-M8 packet review
+in 2edc175c9). Advisor planning call run before production
+(first advisor call of this band per OPERATIONS.md); its
+corrections applied: no incomplete video carries a module
+outcome, and the ethics carrier's bibliographic identity was
+checked on its own table of contents before assignment.
+
+Sources opened this session (2026-10-26), all public domain,
+all downloaded as plain text and measured on the download:
+
+- Dewey, How We Think (1910), Project Gutenberg #37423,
+  https://www.gutenberg.org/files/37423/37423-h/37423-h.htm:
+  the reflective-thought definition quoted in m1 was re-verified
+  verbatim on the download. Reading A assigned: the contiguous
+  passage from "Another instance, commonplace also, yet not
+  quite so trivial, may enforce this lesson" through "is wholly
+  futile" (download lines 480-559), 778 words measured on the
+  extracted passage. Distinct from m1's HWT assignments (the
+  maxim and the origin sentence), with one inherited quote
+  (the definition) reopened and confirmed.
+- Dewey, Human Nature and Conduct (1922), Project Gutenberg
+  #41386, https://www.gutenberg.org/files/41386/41386-h/41386-h.htm:
+  the table of contents was checked on the opened book; "The
+  Construction of the Good", which the Duke syllabus lists as a
+  Dewey ethics reading, is NOT a part or section title of this
+  book (its Part Three is "The Place of Intelligence in
+  Conduct", with sections including "The Nature of
+  Deliberation" and "The Nature of Aims"); the ethics assignment
+  was corrected to the book's own Part Three deliberation
+  material. Reading B assigned: Part Three, "The Nature of
+  Deliberation", from "Our first problem is then to
+  investigate" through "the object is that which objects"
+  (download lines 4753-4796), 449 words measured.
+- Dewey, The Public and Its Problems (1927), Project Gutenberg
+  #71000, https://www.gutenberg.org/ebooks/71000: Reading C
+  assigned: Chapter VI ("The Problem of Method"), from "The
+  strongest point to be made in behalf" through "it may be
+  successful in becoming a majority" (download lines 4957-4989,
+  the passage ending at that sentence inside the source's final
+  printed line), 375 words measured; the Chapter I sentence
+  defining the public was confirmed verbatim on the same
+  download and quoted in the teaching prose.
+
+Quote control: every Dewey quote in the module was machine-
+checked against the downloads with italic underscores stripped
+(read as emphasis markers) and whitespace normalized; three
+inaccuracies found at this check were repaired before push (a
+misquoted verb in the boot-straps sentence, a colon and
+attribution boundary in the Tilden sentence, and a
+mid-sentence quote stop); the module is now clean of quote
+failures on re-check.
+
+Video-first check (owner decision 8) for m4: the candidate
+groups already recorded in this ledger (Bernstein H_G73CAI5Hc;
+Sprintzen -FpUPyhsQV8 and SRnY1Bx4G0s; UCSC KqJ9uyYFe2E) were
+re-attempted via the third-party transcript route used for m1
+and m3; the route failed twice this session with server errors
+(https://youtubetotranscript.com/transcript?v=H_G73CAI5Hc,
+SLS_CRAWL_FAILED http_code_server_error both attempts). No
+video carries an m4 outcome; the primary texts carry the
+module. The exact missing checks (playback, captions,
+coverage, measured duration, for each candidate) are routed to
+the verifier lane; until they pass, the candidates stay out of
+the module.
+
+Module produced:
+docs/degrees/modules/deg-wol-pragmatism/m4-dewey-inquiry-ethics-democracy.md
+(365 lines). L3 Independent analysis, five outcomes (inquiry
+account; deliberation rehearsal; independent application on
+the learner's own recurring disagreement with a testable/values
+appraisal; Peirce comparison naming the disagreement;
+discussion-and-teach-back), one bounded stipulated case
+(the flat rota disagreement) with fading, five-criterion
+rubric with strong/rejection examples, workload arithmetic
+from measured components (1,602 assigned words at 130 wpm,
+177 labelled minutes total, arithmetic checked). STATUS:
+DRAFT, NOT CLEARED; awaits supervisor module-QC and advisor
+review, per the m1-m3 sequence.
