@@ -1682,3 +1682,13 @@ UCSC instructor verification remains open (not "confirmed"), and
 the Bernstein transcript-level coverage evidence is recorded as
 offered for a module decision, with no decision taken. Playback and
 caption gaps stay open.
+
+## Nested-marks quote re-verified (2026-10-26, worker-pplx-pragmatism-1026c)
+
+-m3's restored Lecture VI quotation ("'The true,' to put it very
+briefly...") was re-checked on the opened Lecture VI page: both
+halves, including the nested marks, are verbatim. m1's and m3's
+Lecture II sentence ("The true is the name of whatever proves
+itself to be good in the way of belief...") was also re-checked on
+the opened Lecture II page: that sentence carries no nested marks in
+the source, so those quotations need no restoration.
