@@ -260,7 +260,7 @@ credentials are checked separately from article affiliations.
   that clarity attached to inaccurate or rigid self-beliefs need not
   be adaptive
   ([intervention section](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/)).
-- **Walk of Life fit:** conditional M4 self reading. A useful
+- **Walk of Life fit:** conditional M5 self reading. A useful
   proposed task distinguishes a present observation, a sweeping
   self-judgement and a commitment the learner can revise. Do not use
   the SCC scale as a diagnosis, prescribe a fixed authentic identity,
@@ -326,3 +326,192 @@ credentials are checked separately from article affiliations.
   credential verified; full-paper core placement not recommended.
   Verification is not an instruction to include the source or a
   means of satisfying recency by padding the curriculum.
+
+## PD-V07: Attention has distinguishable functions, not three inner switches
+
+- **Opened:** 2026-10-26, verifier-96108df3. Search and unprompted
+  [PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/);
+  inspected the main text, including network interaction and future
+  directions, rather than relying on the abstract.
+- **Identity and access:** Michael I. Posner, *The Evolution and
+  Future Development of Attention Networks*, Journal of
+  Intelligence 11(6), 98; 23 May 2023, DOI
+  10.3390/jintelligence11060098, CC BY
+  ([article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/)).
+- **Credentials:** the independent
+  [University of Oregon directory](https://cas.uoregon.edu/directory/psychology/all/mposner)
+  lists Posner as Professor Emeritus in Psychology, with a
+  University of Michigan PhD.
+- **Exact proposed assignment:** Abstract, section 3.2 *Human
+  Development* and section 4 *Interaction of Networks*, excluding
+  section 4.1's animal-memory detail. Section 4 explicitly revises
+  the picture of complete independence toward interacting,
+  semi-independent networks
+  ([selected sections](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/)).
+- **Evidence type and boundary:** a review of cognitive,
+  developmental and neurobiological work, with proposals for
+  future research; no newly tested adult self-help programme.
+  The alerting, orienting and executive-control distinctions
+  organise experimental tasks. They do not license diagnosis
+  from an everyday distraction, a literal three-switch metaphor,
+  or promises that practice will improve an entire life
+  ([review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/)).
+- **Walk of Life fit:** conditional M4 attention background only.
+  A proposed learner task notices whether a difficult moment
+  involved readiness, a competing cue or response conflict,
+  while allowing more than one description. The learner should
+  not infer a deficient brain network. The full article's
+  evolutionary, genetic and animal-learning sections are outside
+  this degree's everyday purpose.
+- **Status:** verified reading, English; anonymous access,
+  identity, selected content and independent credential checked.
+  Exclude the whole paper as a compulsory neuroscience survey;
+  retain a small excerpt only if it earns its place in the task.
+
+## PD-V08: Recognising an unproductive thought process without self-diagnosis
+
+- **Opened:** 2026-10-26, verifier-96108df3. Search followed by
+  the complete unprompted
+  [PMC text](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/),
+  including its nine-item reference list.
+- **Identity and access:** Thomas Ehring, *Thinking too much:
+  rumination and psychopathology*, World Psychiatry 20(3),
+  441–442; online 9 September 2021, October issue, DOI
+  10.1002/wps.20910; anonymous full text
+  ([article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/)).
+- **Credentials:** the independently opened
+  [LMU institutional profile](https://www.lmu.de/psy/en/persons/contact-page/thomas-ehring-c0f08419.html)
+  identifies Ehring as chair of Clinical Psychology and
+  Psychological Treatment and lists qualifications in clinical
+  psychology and psychological psychotherapy.
+- **Exact proposed assignment:** the paragraph beginning “It
+  has been argued that repetitive negative thinking” through
+  the paragraph immediately before “The important
+  transdiagnostic role”. These passages describe process
+  features and distinguish abstract from concrete processing
+  without assigning the learner a treatment protocol
+  ([selected text](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/)).
+- **Evidence type and limit:** a brief research commentary
+  synthesising earlier work, not a new study or quantitative
+  meta-analysis. Treat references to causal evidence and
+  preventive treatment effects as the author's synthesis unless
+  the underlying original is separately opened; do not copy
+  those claims into the degree as newly verified trial findings
+  ([commentary and references](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/)).
+- **Walk of Life fit:** retain the short M3 cognition excerpt
+  to distinguish a recurring mental process from the subject
+  it concerns. A proposed exercise uses a low-stakes fictional
+  difficulty to contrast broad self-condemnation with a
+  concrete description and one possible next action. It is an
+  educational comparison, not a validated rumination treatment.
+- **Safety and scope:** do not infer a disorder from repetitive
+  thought or ask learners to rehearse traumatic memories.
+  Ordinary reflection, practical planning and persistent concern
+  about a real injustice must not be dismissed as pathology.
+  Clinical treatment selection remains outside this degree.
+- **Status:** verified reading, English; anonymous full text,
+  identity, bounded content and independent credential checked.
+
+## PD-V09: Self-endorsed effort is not the same as enjoyment
+
+- **Opened:** 2026-10-26, verifier-96108df3. Search and unprompted
+  fetches of the
+  [author preprint](https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf)
+  and the
+  [published-version PDF hosted by the authors' organisation](https://selfdeterminationtheory.org/wp-content/uploads/2020/06/2020_RyanDeci_IntrinsicandExtrinsic.pdf).
+  The latter supplies the numbered sections used below.
+- **Identity and access:** Richard M. Ryan and Edward L. Deci,
+  *Intrinsic and extrinsic motivation from a self-determination
+  theory perspective: Definitions, theory, practices, and
+  future directions*, Contemporary Educational Psychology 61,
+  101860; available online 8 April 2020, DOI
+  10.1016/j.cedpsych.2020.101860. The complete published PDF
+  is accessible without payment or an account from the
+  [SDT site](https://selfdeterminationtheory.org/wp-content/uploads/2020/06/2020_RyanDeci_IntrinsicandExtrinsic.pdf).
+- **Credentials:** the independent
+  [Rochester faculty page](https://www.sas.rochester.edu/psy/people/faculty/ryan_richard/index.html)
+  identifies Ryan as Professor Emeritus of Psychology, a
+  clinical psychologist and co-developer of SDT.
+- **Exact proposed assignment:** Introduction's paragraphs
+  defining autonomy, competence and relatedness; sections 2.1
+  *Intrinsic motivation*, 2.2 *Extrinsic motivation* and
+  2.2.1 *Multiple motives and relative autonomy*, including
+  Figure 1. Stop before section 3's education-specific evidence
+  ([published PDF](https://selfdeterminationtheory.org/wp-content/uploads/2020/06/2020_RyanDeci_IntrinsicandExtrinsic.pdf)).
+- **Central distinction:** the review distinguishes intrinsic
+  enjoyment from instrumental motivation, then distinguishes
+  externally controlled, introjected, identified and integrated
+  forms within the latter. Autonomy means endorsement and
+  ownership, not doing everything alone; the framework allows
+  a person to endorse an instrumental goal that is not
+  inherently enjoyable
+  ([definitions and taxonomy](https://selfdeterminationtheory.org/wp-content/uploads/2020/06/2020_RyanDeci_IntrinsicandExtrinsic.pdf)).
+- **Evidence type and limit:** a theoretical research review,
+  primarily framed around education. It is not a new trial
+  of personal reflection and does not prove that every
+  socially imposed obligation is harmful or that autonomy
+  removes financial, relational or institutional constraints
+  ([review](https://selfdeterminationtheory.org/wp-content/uploads/2020/06/2020_RyanDeci_IntrinsicandExtrinsic.pdf)).
+- **Walk of Life fit:** retain as M6's short definitions
+  anchor, alongside rather than duplicated by PD-V02. A
+  proposed exercise contrasts acting from external pressure,
+  self-pressure and an endorsed reason in one ordinary
+  responsibility. It includes what the learner cannot change
+  and does not demand that worthwhile duties become fun.
+- **Recency:** a 2020 foundation; neither the site's current
+  availability nor the date of this verification makes it a
+  recent research source.
+- **Status:** verified reading, English; anonymous complete
+  PDF, publication identity, bounded content and independent
+  credential checked. The two URLs are versions of one work,
+  not two separate curriculum resources.
+
+## PD-V10: Emotion-regulation goals are a choice, not a neutral default
+
+- **Opened:** 2026-10-26, verifier-96108df3. Search and complete
+  unprompted
+  [PMC fetch](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/);
+  inspected the search method, eligibility criteria, model
+  classification, discussion and conclusion.
+- **Identity and access:** Consuelo Martínez-Priego, Belén
+  Poveda García-Noblejas and Pablo Roca, *Strategies and goals
+  in Emotion Regulation models: a systematic review*,
+  Frontiers in Psychology 15, 1425465; 2 October 2024, DOI
+  10.3389/fpsyg.2024.1425465, CC BY
+  ([article](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/)).
+- **Credentials:** the independent
+  [Universidad Villanueva profile](https://www.villanueva.edu/profesor/pablo-roca-morales/)
+  identifies Roca as a Psychology lecturer, with a Psychology
+  doctorate from Complutense University of Madrid.
+- **Exact proposed assignment:** Introduction paragraphs
+  starting “Usually defined” through the paragraph immediately
+  before “Despite the importance”, then the Discussion's
+  opening three paragraphs. These passages expose the
+  difference between how someone regulates an emotion and
+  why they are doing it
+  ([selected text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/)).
+- **Evidence type and boundary:** a systematic review and
+  conceptual classification of 139 eligible articles from
+  1,012 initially identified titles, identifying ten models.
+  It is not a treatment-efficacy meta-analysis. Its grouping
+  into hedonic, instrumental and eudaimonic goals, and its
+  historical reading of Aristotle, Descartes and Darwin, are
+  the authors' interpretive framework, not experimentally
+  established facts about the only possible goals
+  ([methods, classification and discussion](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/)).
+- **Walk of Life fit:** use only if a short M2 task asks
+  whether the learner seeks immediate relief, an important
+  action, or another person's good, and how those goals can
+  conflict. The degree must not equate regulation with
+  suppression, constant calm or making emotions disappear.
+  That learner task is an editorial proposal, not a result
+  tested by the review.
+- **Scope recommendation:** omit the full philosophical
+  history and the complete ten-model catalogue from the
+  core. Any future historical claim or quotation needs
+  the corresponding primary source opened; this review
+  alone does not verify Aristotle, Descartes or Darwin.
+- **Status:** verified reading, English; anonymous full text,
+  identity, bounded content and independent co-author
+  credential checked. Conditional replacement for a weaker
+  affect reading, not an instruction to add another one.
