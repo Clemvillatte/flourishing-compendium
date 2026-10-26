@@ -4,7 +4,7 @@
 - **kind**: degree-module
 - **level**: L2 Guided application
 - **module id**: deg-wol-buddhism-b2
-- **status**: draft v1 (production session 2026-10-26, worker-pplx-buddhism-1026a)
+- **status**: draft v2 (QC repair pass 2026-10-26, worker-pplx-buddhism-1026a)
 - **prerequisites**: b1 exit criteria (can state the five precepts with everyday examples; has completed two metta sittings; can state the walk's coverage and exclusions)
 
 ## Walk context
@@ -13,9 +13,10 @@ The Buddha's first teaching frames the whole walk: suffering, where it
 comes from, the fact that it can end, and the path of practice that ends
 it. The walk treats the four truths as four tasks, the way the discourse
 itself assigns them: something to understand, something to give up,
-something to realize, something to develop. The learner does not memorize
-a doctrine here; they run the four tasks on one real difficulty in their
-own life.
+something to realize, something to develop. This module takes one real
+difficulty in your own life and runs the four tasks on it, as an
+exploratory application: the worksheet is practice in the method, not a
+claim that craving has ended.
 
 ## Objectives
 
@@ -48,8 +49,9 @@ own life.
 ### Step 1 — The discourse itself (~20 min, reading, with re-reading)
 
 **SN 56.11, Dhammacakkappavattana Sutta, "Setting the Wheel of Dhamma in
-Motion," Thanissaro Bhikkhu translation on Access to Insight** (verified
-receipt B-T01; the page states the CC BY-NC 4.0 license and lists the
+Motion," Thanissaro Bhikkhu translation on Access to Insight**
+(https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html;
+verified receipt B-T01; the page states the CC BY-NC 4.0 license and lists the
 Sujato and Bodhi alternate translations). Read the whole discourse. Mark
 four places: each truth stated, and the task attached to it ("to be
 comprehended... to be abandoned... to be realized... to be developed").
@@ -84,17 +86,35 @@ empirical science separate in your notes.
 ### Step 3 — Craving is not every desire (~10 min, reading)
 
 **Peter Harvey's "Craving" glossary entry** (his SN 56.11 translation and
-commentary on Access to Insight). Harvey distinguishes taṇhā, demanding
-craving, from chanda, which can include the wholesome desire to act. The
-second truth targets the first, not the second. The learner who takes
-"end craving" as "stop wanting anything" has misread the task; the
-worksheet asks you to show you have not.
+commentary on Access to Insight,
+https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.harv.html).
+Harvey distinguishes taṇhā, demanding craving, from chanda, desire in the
+sense of the desire to act, which can be wholesome. The second truth
+targets the first. Keep Harvey's exact qualification in mind: chanda is
+not automatically wholesome; it is a capacity that can be turned to
+wholesome ends. The learner who takes "end craving" as "stop wanting
+anything" has misread the task; the worksheet asks you to show you have
+not.
 
 ### Step 4 — Continue the sitting practice
 
 One 10-minute metta sitting, on the same pattern as b1. Spaced practice
 is how the walk builds the sitting habit; the cmp practicum will extend
 it.
+
+## Worked example (read before your own worksheet)
+
+A concrete difficulty: you dread a family dinner where an argument will
+likely restart. The dukkha: the dread itself, the knot in the stomach on
+the drive there. The taṇhā: the demand that the evening go your way, that
+your relative finally see your point. A chanda present in the same
+situation: the desire to show up and stay civil, which the craving does
+not own. The nirodha to be realized: the demand's grip releasing, so the
+argument can happen (or not) without the dread owning the drive there.
+The path factors: right speech (no rehearsing the argument in the car),
+right effort (abandoning the rehearsing when it starts), right
+mindfulness (feeling the knot without acting from it). The worksheet
+below runs this same sequence on your own case.
 
 ## Practice
 
@@ -111,9 +131,11 @@ actually face this month. For each truth, one paragraph:
 
 ## Assessment
 
-The worksheet itself is the assessed deliverable, plus the two-sentence
-rebirth-frame statement (outcome 4) and one sentence on whether the
-Dreyfus analogy helped or hindered your understanding of dukkha.
+The worksheet itself is the assessed deliverable, with the four truth-task
+pairings stated explicitly at its head (each truth beside the task the
+discourse assigns it), plus the two-sentence rebirth-frame statement
+(outcome 4) and one sentence on whether the Dreyfus analogy helped or
+hindered your understanding of dukkha.
 
 Rubric (observable):
 
@@ -150,9 +172,9 @@ ritual remain excluded.
 
 | resource | status | verified | notes |
 |---|---|---|---|
-| SN 56.11 AtI Thanissaro (accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html) | verified (text) | 2026-10-26 (receipt B-T01, deg-verify-a) | whole discourse assigned; CC BY-NC 4.0 stated on page; alternates (Sujato, Bodhi) listed there; Sujato version independently verified by deg-verify-b's receipt |
-| Dreyfus Four Noble Truths session 1, YouTube DLPsIhDWZp4 | verified-video | 2026-10-25 (M02-B04); boundaries receipt 2026-10-26 (deg-verify-b) | duration 1:20:35; covers dukkha only per opened transcript (00:17-00:40, 1:20:13); credentials: Williams College Jackson Professor of Religion (opened catalogue) + host biography; homeodynamic-system analogy and survival-time claims marked as unverified |
-| Harvey "Craving" glossary, AtI sn56.011.harv | verified | 2026-10-26 (deg-verify-b receipt) | tanha vs chanda distinction confirmed on the opened page |
+| SN 56.11 AtI Thanissaro | verified (text) | 2026-10-26 (receipt B-T01, deg-verify-a) | https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html — whole discourse assigned; CC BY-NC 4.0 stated on page; alternates (Sujato, Bodhi) listed there; Sujato version independently verified by deg-verify-b's receipt |
+| Dreyfus Four Noble Truths session 1 | verified-video | 2026-10-25 (M02-B04); boundaries receipt 2026-10-26 (deg-verify-b) | https://www.youtube.com/watch?v=DLPsIhDWZp4 — duration 1:20:35; covers dukkha only per opened transcript (00:17-00:40, 1:20:13); credentials: Williams College Jackson Professor of Religion (opened catalogue) + host biography; homeodynamic-system analogy and survival-time claims marked as unverified; a finer segment split than whole-teaching is owed at module QC |
+| Harvey "Craving" glossary, AtI | verified | 2026-10-26 (deg-verify-b receipt) | https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.harv.html — tanha vs chanda distinction confirmed on the opened page |
 | Metta sitting (b1 pattern, Metta Sutta Kp 9) | verified | 2026-10-26 (this session) | see b1 source table |
 
 No paywalled or app-gated content. Video-first policy applied: the

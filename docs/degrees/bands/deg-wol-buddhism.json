@@ -4,9 +4,9 @@
  "holder": "worker-pplx-buddhism-1026a",
  "phase": "module-production",
  "modules": {
-  "b1-ethics-first-orientation": "draft v1, verified sources, awaiting supervisor module-QC",
-  "b2-four-noble-truths": "draft v1, receipt-backed sources, awaiting supervisor module-QC"
+  "b1-ethics-first-orientation": "draft v2, QC repair pass applied; Dhammadipa segmentation owed",
+  "b2-four-noble-truths": "draft v2, QC repair pass applied; Dreyfus finer segmentation owed"
  },
- "notes": "Wave-2 production session 2026-10-26: b1 drafted with 5 newly verified sources (3 verified-video, 2 primary texts); module map + coverage matrix (b1-b7) in the ledger; b2-b7 designed, sources owed for Zen, Insight, Secular.",
+ "notes": "Wave-2 production 2026-10-26: b1 + b2 drafted and QC-repaired; remaining gaps in ledger gap register (segmentation, captions, word counts); b3-b7 designed, sources owed for Zen, Insight, Secular.",
  "updated": "2026-10-26T04:52:00+00:00"
 }

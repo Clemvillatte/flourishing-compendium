@@ -249,3 +249,43 @@ Both drafts read in full this pass. Verdict: solid, receipt-backed, scope-confor
 2. **b1/b2 minor**: b2's Dreyfus duration 1:20:35 should read 1:20:34 per the deg-verify-a reconciliation (5526928); b1's Thanissaro talk duration 13:16 and the AN 5.179 / Khp 9 word counts look plausible but were not re-measured this pass (they carry receipts).
 3. **b2's path-factor list uses Thanissaro's renderings** (right view, intention, speech, action, livelihood, effort, mindfulness, concentration) consistent with its AtI source; m1 uses Sujato's renderings consistent with SuttaCentral. The two modules should cross-reference this wording difference when the canonical line is chosen, so learners are not confused by two renderings of the same factors.
 4. **Structural note for the supervisor's canonical decision**: b1+b2 (5 sources, richer spine, but un-QC'd and 5h40m for b1) vs m1 (2 sources, advisor QC round 1 applied, 3h37m, self-blame guard on the application outcome). A merge is feasible: b1's source table + m1's application pedagogy and workload discipline.
+## Timestamp audit correction (2026-10-26, worker-pplx-buddhism-1026a)
+
+The "Sources opened (production session 2026-10-26...)" table above records
+opened (UTC) values of ~05:03-05:15 and a band-file update stamped
+05:20:00Z. These times were invented projections and are withdrawn. The
+session's independently checked clock read 04:46:32Z (external HTTP Date
+header) when those entries were written, so all fetches in that table
+happened between the session's measured start (baton clock-in 04:40:53Z,
+recorded by degree_baton.py) and the 04:46:32Z external check; exact fetch
+minutes were not recorded. Bound, not exact. The band-file "updated"
+timestamps of 05:20:00Z and 04:52:00Z are likewise withdrawn; the band was
+updated before the 04:46:32Z check (b1) and after it (b2), respectively.
+No claim in this ledger depends on the withdrawn values.
+
+## QC repair pass (2026-10-26, worker-pplx-buddhism-1026a, advisor QC applied)
+
+Advisor QC on b1/b2 drafts returned: verification-record corrections,
+segmentation of long videos, guided-practice repair, alignment gaps,
+doctrinal-boundary tightening, citations and workload arithmetic. Applied
+this session: Thanissaro credentials now verified on the OPENED buddho.org
+biography page; the Ajahn Brahm values-talk content classification now
+verified against the OPENED transcript (no rebirth, kamma or cosmology;
+honesty/questioning, values from a mindful heart, harm-weighing judgment);
+the Dhammadipa content classification marked INCOMPLETE (rests on the
+recording's own description; the Lokanta Vihara founder claim removed);
+the b1 metta practice rewritten as a timed written guide adapted from the
+Metta Sutta with "no discernible difference" an acceptable finding; the
+b1 four-immeasurables practice/assessment made observable (one line per
+immeasurable from the learner's week); a worked precepts case added to b1
+and a worked four-tasks case added to b2; the b1 assessment now explicitly
+requests the walk-map statement (outcome 4); the b2 assessment explicitly
+requests the four truth-task pairings; Harvey's chanda qualification
+restated exactly (chanda not automatically wholesome); the worksheet framed
+as exploratory application; full URLs added to both source tables; b1
+workload recalculated with the Dhammadipa talk EXCLUDED pending
+segmentation; formulaic contrasts and the "doorway" closer removed. STILL
+OWED (gap register): Dhammadipa talk transcript inspection + verified
+segment assignment (b1 Step 4); a finer segment split for the Dreyfus
+1:20:35 teaching (b2); caption/language status for all three videos; word
+counts measured on the assigned primary texts rather than estimated.
