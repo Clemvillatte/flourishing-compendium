@@ -2,7 +2,7 @@
  "degree_id": "deg-psychdim",
  "built": "2026-10-26",
  "built_by": "strategist-pplx-1026a (baton degrees-strategist)",
- "status": "DRAFT — video windows transcribed from the module docs this session (t= links and printed windows); READING assignments are transcribed from the integration source titles and workload lines and still need module-doc verification by the deg-fix-content agent before Phase A consumes them (mark each verified_reading entry against the doc, then remove this status line).",
+ "status": "Verified draft — all video windows transcribed from the module docs and cross-checked; m1/m2/m3/m4/m5/m6 reading assignments verified against the docs (m2's Barrett-2025/Martinez-Priego/Gross-1998 and m7's remaining paper spans and m8's capstone roles still carry explicit verify flags for the deg-fix-content agent; the data-block extras — Bazerman, Alarcon, Posner-2023, Fan-ANT — and the role mismatches are recorded).",
  "provenance": "Per docs/degrees/AUDIT-2026-10-26.md phase 0. The learner-audit gate diffs this manifest against the integrated data block.",
  "modules": {
   "mod-pd-1": [
