@@ -1,3 +1,18 @@
+## Worker checkpoint (2026-10-26 00:42Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+QC SAMPLE — concept page Learned optimism (partial: the main
+attributional-style definition quote checked): the Seligman and Schulman
+1986 sentence "Individuals who habitually construe the causes of bad
+events as internal, stable, and global ('it's my fault, it's going to
+last forever, and it's going to undermine everything I do') should, when
+they experience bad events, be more susceptible to helplessness deficits
+than those with the opposite style." confirmed VERBATIM on the
+[paper PDF hosted at UPenn PPC](https://ppc.sas.upenn.edu/sites/default/files/predictproductivity.pdf)
+(JPSP 50(4) 832-838; the PDF's line-break hyphenation of "habitually"
+is a layout artifact, and the page's citation matches this paper). The
+remaining shorter quotes on the page were not part of this sample. No
+defects found in what was checked.
+
 ## Worker checkpoint (2026-10-26 00:41Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — principle page B044 (just sit, zazen/shikantaza;
