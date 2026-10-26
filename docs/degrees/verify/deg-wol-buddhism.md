@@ -501,3 +501,12 @@ figures above.
   re-read here. CONFIRMED on content; access basis owner's record.
 
 Timestamp correction (2026-10-26, measured 04:54Z): the clock labels first written in these receipts were invented readings, not measurements; they are corrected in place to the measured commit bounds recorded in git history (a7681a1bf 04:46:02Z through d0802492c 04:51:22Z). Appended rather than silently rewritten; the receipts themselves are otherwise unchanged.
+**DEFECT — b3 Plum Village URL (found 2026-10-26T05:01Z):** b3's source table cites `plumvillage.org/mindfulness-practice/the-five-mindfulness-trainings/` as the Five Mindfulness Trainings assigned reading. This URL does NOT carry the trainings text — it resolves to the "Calming the Fearful Mind" paid 5-day online retreat page (plumvillage.org event page, retreat listing; price shown; the trainings appear only as retreat-program content). The carrier I verified in B-T02 (`plumvillage.org/mindfulness/the-5-mindfulness-trainings`) is the correct free text page. b3's learners would hit a sales page instead of the assigned reading. Fix belongs to the owner (URL swap) — flagged here and in the commit message; not repaired by this lane (other band's file).
+
+**B-V11 — Brahmali "Introduction to Meditation: Session 1" (oembed + player, checked 2026-10-26T05:01Z):**
+- URL: https://www.youtube.com/watch?v=dyUCvFlDL8w
+- Identity: BSWA; published 2023-03-04; player total **33:55**.
+- Open access: free, no membership; transcript indicated on watch page.
+- Content corroboration: description chapter map matches module (mindfulness/introduction, guided meditation at 20:32).
+- Status: **verified-video**. Owner's b4 claimed-read was this exact carrier; corroborated.
+
