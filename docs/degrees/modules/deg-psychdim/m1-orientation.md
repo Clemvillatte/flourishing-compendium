@@ -6,8 +6,9 @@ processes that carry a life, and how can you read that research well enough
 to use it? This module installs the map and the reading habits. We will
 use six dimensions to describe one ordinary difficulty, and the map is
 offered as a proposal, not a promise: it may help you notice an influence
-or an option you had missed, and knowing which process is doing the work
-is where alleviating suffering, choosing more wisely and flourishing
+or an option you had missed, and asking which processes and circumstances
+may be involved is where alleviating suffering,
+choosing more wisely and flourishing
 under uncertainty can start. It is not a diagnosis, not an exhaustive
 account of the mind, and not a guarantee that your circumstances will be
 easy to change; you will test its usefulness on your own material as the
@@ -215,8 +216,11 @@ analytic strategy](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/).)
    appraisal: the design is longitudinal and correlational, so this is an
    observational prediction. The coefficient is an association measured on
    that sample, and its confidence interval gives the range of plausible
-   values for that association; the interval here sits well away from
-   zero, so the association reads as solid on this sample. Nothing was
+   values for that association; under this statistical model the estimate
+   reads as a positive association, and that is all the interval shows.
+   An interval excluding zero is not protection from bias and not a
+   measure of how much the association matters in practice.
+   Nothing was
    manipulated, so the study cannot show that intrinsic motivation causes
    adherence; it shows that people who rated their resolutions as more
    intrinsic at one survey were adhering better at the next. What the
@@ -227,7 +231,9 @@ better ([Study 1 hypothesis testing](https://pmc.ncbi.nlm.nih.gov/articles/PMC13
 That is a statement about differences among surveyed people,
 not a promise that raising your own enjoyment will improve your own
 adherence. What it cannot support: a causal claim. (The authors know
-this; later studies in the paper manipulate motivation.)
+this; Study 4 in the paper randomly assigns an intrinsic-versus-
+extrinsic framing for a health app and measures product scans a day
+later.)
 2. Steps named (partially worked). Appraisal of the second result. What
    was found: adherence at the third survey was predicted by intrinsic
    motivation at the second, beta = 0.099, standard error 0.03, z = 3.00,
@@ -404,7 +410,11 @@ Total: about 4 hours (about 245 minutes of labelled components: 105
 reading study including the correction passage, 15 case study, 30 worked
 example and faded practice, 30 retrieval
 and levels, 60 graded). Optional further reading (the rest of Maitland
-2024, or the later studies of Woolley et al. 2025) is not counted.
+2024, or the later studies of Woolley et al. 2025) is not counted. The
+Woolley et al. 2025 material in Step 4 is not required reading: the
+worked example quotes the study's numbers in module prose, and the
+learner reads the paper itself only as optional further reading; no
+Woolley excerpt is part of the required reading budget above.
 
 ## Verification status of attached sources
 

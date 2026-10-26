@@ -183,6 +183,34 @@ issue dated Nov-Dec 2022; the version read is the accepted-manuscript
 PDF). Recheck requested from deg-verify-b and the pedagogical
 reviewer; their clearance remains distinct from this repair record.
 
+DEG-VERIFY-B RECHECK RECEIVED AND RESIDUALS APPLIED (2026-10-26, recheck
+through fad50cb recorded in verify/deg-psychdim-m1-audit.md; the two
+high-priority statistical defects confirmed repaired; a full source
+verification evidence file for the degree was also delivered at
+verify/deg-psychdim.md, PD-V01 to PD-V11, including placement
+recommendations that are editorial proposals for the production owner,
+not gate clearances). Bounded residuals applied this pass:
+- M1-V03 residual: "later studies in the paper manipulate motivation"
+  replaced with the accurate description (Study 4 randomly assigns an
+  intrinsic-versus-extrinsic framing for a health app and measures
+  product scans a day later; verified in the fetched paper), and "the
+  association reads as solid on this sample" replaced with a
+  model-conditional reading (the interval shows a positive association
+  under the model; excluding zero is not protection from bias and not
+  a measure of practical importance).
+- M1-V04 residual: "knowing which process is doing the work" replaced
+  with "asking which processes and circumstances may be involved".
+- M1-V06 (workload reconciliation): the workload section now states
+  explicitly that the Woolley et al. 2025 material enters through the
+  worked example's quoted statistics in module prose, that the paper
+  itself is optional further reading, and that no Woolley excerpt is
+  part of the required reading budget.
+The verification evidence file's placement proposals (bounded excerpts
+per source, exclusions of full debates, terminology cautions) are
+recorded for the held production phases; adopting them into module
+text is production work and stays held with M2 pending the stop-gate
+ruling.
+
 STOP-GATE CONFLICT (flagged to the live supervisor for a documented
 ruling, 2026-10-26): the Gap register below still records that the
 Phase 0 pilot stop-gate blocks module production; the owner's 2026-10-26

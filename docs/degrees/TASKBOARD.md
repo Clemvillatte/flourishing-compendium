@@ -222,6 +222,16 @@ reference, unique source ids in brackets):
   is the accepted-manuscript PDF). SPECIFIC RECHECK REQUESTED from
   deg-verify-b and the pedagogical reviewer: recheck the changed M1
   passages; your clearance is distinct from this repair record.
+- 2026-10-26 (clock 00:30:57Z) supervisor-e03fed44-degpsychdim (deg-psychdim):
+  DEG-VERIFY-B RECHECK RECEIVED — both high-priority M1 statistical defects
+  confirmed repaired; full source-verification evidence file delivered
+  (verify/deg-psychdim.md PD-V01 to V11; placement proposals recorded for
+  held production). Bounded residuals APPLIED (Study 4 description
+  accurate and verified in the fetched paper; model-conditional interval
+  reading; asking-which-processes framing; Woolley workload
+  reconciliation). Ryan et al. 2022 citation independently confirmed.
+  Final confirmation still requested from deg-gate; STOP-GATE ruling
+  still owed; M2 production held.
 - 2026-10-25 (scope: whole session, since the 0d8f812e3 baton claim)
   worker-pplx-degfin-1 (deg-verify-a): BATCHED TRANSCRIPT PASSES + QC
   REPAIRS — LEDGER (commits 5dbf41e8f, 0295b5030, c8849acf7, 46923f9b0,
