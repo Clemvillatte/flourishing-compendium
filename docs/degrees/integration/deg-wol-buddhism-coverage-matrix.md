@@ -109,3 +109,7 @@ Deep trace added for b6 (docs/degrees/verify/deg-wol-buddhism-b6-deep-trace-1026
 ## Addendum 7 (2026-10-26, later same session)
 
 Deep trace added for b7 (docs/degrees/verify/deg-wol-buddhism-b7-deep-trace-1026a.md): PASS - all three entries value-by-value (whole Batchelor lecture with two stops; the Week 1 transcript with two sittings; the Class 1 recording as optional, matching the schema lane's same-day correction). With b1 through b7 traced, the verdict's deep-trace reservation now covers b8 and b9 only.
+
+## Addendum 8 (2026-10-26, later same session)
+
+Deep trace added for b8 (docs/degrees/verify/deg-wol-buddhism-b8-deep-trace-1026a.md): PASS - no media by design (empty published arrays, matching the doc and manifest) and the drawsOnPriorModules flag published with the doc's wording. With b1 through b8 traced, the verdict's deep-trace reservation now covers b9 only.
