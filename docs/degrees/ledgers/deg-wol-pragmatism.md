@@ -812,3 +812,15 @@ description (search excerpt), and coverage on a transcript remains
 pending. Durations (57:23 and 1:01:11) remain from the search
 listings, provisional. No attachment decision made here; recorded to
 save the next session the credentials work.
+
+## m4 preparation: UCSC lecture candidate identity confirmed (2026-10-26, clock 05:19:07Z measured, worker-pplx-pragmatism-1026b)
+
+The UC Santa Cruz PHIL 112 "American Philosophy: Dewey" lecture
+candidate (KqJ9uyYFe2E, 1:32:10 per the search listing) has its
+identity confirmed by the platform oembed response this session:
+title "American Philosophy: Dewey, lecture 1", channel "Abraham
+Stone" (the instructor's own channel, per the search snippet a PHIL
+112 lecture at UC Santa Cruz, Spring 2023, on Dewey's Individualism
+Old and New). Institutional verification of the instructor's
+credentials on a UCSC page, playback, captions and coverage remain
+pending for the next session. No attachment decision made here.
