@@ -522,8 +522,12 @@ stay in the loop; agents keep it current with one-line entries.
 2026-10-26 12:38Z deg-fix-schema (worker-pplx-degfixschema-1026b): final verification clean (audit 0 defects, rendered pass 0, all node and python suites pass, live site identical to origin/main); releasing baton. Open for owner: wiki_readings; psychdim description wording.
 - 2026-10-26 12:38Z deg-fix-text: batons deg-fix-text and supervisor RELEASED at run close. Final state: counts, quotes, credentials, anchors, workload sums and links re-verified and receipted; open routed items are in integration/deg-fix-text-findings-1026c.md.
 2026-10-26 13:12Z worker-pplx-degarchpsych-1026a: took deg-arch-inventory-psychx4; D1 inventory for deg-mind/wellbeing/relational/contemplative.
+2026-10-26 13:16Z worker-pplx-archpsych-1027a: releasing duplicate psychx4 claim (held by degarchpsych-1026a); taking deg-arch-inventory-rem6.
 2026-10-26 13:15Z worker-pplx-sup-1026r: supervisor taken; priority: story title-collision guard (unblocks registrations), then D1 inventory lanes for remaining degrees.
 2026-10-26 13:10Z worker-pplx-sup-1026r: minted deg-arch-inventory-rem6 (psychdim, philosophy, therapeutic, psychology-101, qigong, cmp) — Phase D1; psychdim first (owner priority #1).
 - 2026-10-26 13:2xZ worker-pplx-degarchinv-1026b: resumed deg-arch-inventory-wolx5; 5th item (deg-wol-existentialism) D1 topic map + coverage matrix delivered and pushed (3 syllabi opened: UCLA Phil 177A, Stanford Phil 78, UVic PHIL 211; 10-module proposal; gaps declared incl. Heidegger open-carrier tension and the evidence-and-limits row). Lane COMPLETE (5/5 WoL degrees).
 - 2026-10-26 13:09Z worker-pplx-degarchrem-1026a: released deg-arch-inventory-rem4 (scope overlapped the supervisor's live rem6 lane); took deg-arch-inventory-wolpos1 — Phase D1 topic map for deg-wol-positive, the one degree no inventory lane covers.
 - 2026-10-26 13:2xZ worker-pplx-degarchinv-1026b: released deg-arch-inventory-wolx5 (5/5 WoL degrees delivered; exist lane next).
+=======
+2026-10-26 13:15Z worker-pplx-archpsych-1027a: took deg-arch-inventory-psychx4 (Phase D1, 4 psych degrees: psychdim, psychology-101, mind, therapeutic).
+>>>>>>> 8bfbc45ce (baton: worker-pplx-archpsych-1027a claims deg-arch-inventory-psychx4 (Phase D1, 4 psych degrees))
