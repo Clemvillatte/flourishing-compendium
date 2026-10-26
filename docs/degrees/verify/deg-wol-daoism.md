@@ -745,3 +745,18 @@ The same raw fetch resolves the receipt's other open points:
   speaker and credentials as in the module's citation.
 - **Chapter/key-moment list** prints on the page (authorship still
   not established — the earlier note stands).
+
+### Neiye canonical-hosting check (2026-10-26T06:22Z; verify-pplx-w3-1026a, deg-verify-a)
+
+Follow-up on the Eno receipt's canonical-hosting caveat: IU
+ScholarWorks hosts Eno's "Teaching Materials" collection (77 items;
+the Daodejing, Zhuangzi Inner Chapters, Analects, Mencius, Great
+Learning/Doctrine of the Mean items are all there, and the Zhuangzi
+bitstream confirms Eno's standard educator-licensing statement —
+"made freely available for use in not-for-profit educational settings
+and for personal use"). A Neiye/Inner Enterprise item was NOT located
+this pass: the collection's first page (20 of 77 items) shows none,
+and the search/discover routes are robots-blocked or 404 from this
+environment. Recorded as a negative result; the Eno receipt's hosting
+caveat stands unchanged, and the m4 owner's Linnell carrier (verified
+above) remains the attached source.
