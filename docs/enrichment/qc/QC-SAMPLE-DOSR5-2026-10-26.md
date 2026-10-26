@@ -297,3 +297,13 @@ confirmed verbatim in the PDF text — "IQ below (r = .201) and above 120
 (r = .235) were not statistically different either, chi2 = 2.004, p = .157"
 and "This study does not support threshold theory". Quote spot-check only,
 not a certification of the verdict's argument structure.
+
+# QC sample 7: dosr6 close (uncertainty, Arcesilaus/Zeno) (2026-10-26 02:40:55Z, measured in-command)
+
+Sample: dosr6's newly added uncertainty question (Cicero's Academica reports
+of Arcesilaus vs the Stoic reply). Method: fresh fetch of the cited carrier
+(https://www.attalus.org/cicero/academica2b.html). Result: all three quoted
+spans confirmed verbatim — the Arcesilaus syllogism, 'This syllogism
+Arcesilas used to approve...', and the Stoics'/Antiochus' rejection of the
+major premiss. Quote spot-check only; the dossier itself records the honest
+limit that the account relies on Cicero's report of both sides.
