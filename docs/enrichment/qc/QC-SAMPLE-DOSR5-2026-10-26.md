@@ -269,3 +269,20 @@ resolved by this entry.
 
 FINAL TALLY for the session's 10 examined automated quote checks:
 8 confirmed false positives, 2 real deviations repaired, 0 outstanding.
+
+# QC samples 4-5: dosr5 files not previously sampled (2026-10-26 02:40:09Z, measured in-command)
+
+4. affect, James 1884 (https://psychclassics.yorku.ca/James/emotion.htm,
+   cached fetch): the 'Common sense says' passage confirmed verbatim on the
+   live page, including 'we feel sorry because we cry, angry because we
+   strike, afraid because we tremble'. Quote spot-check only.
+5. overload-overwhelm, Baumeister/Bratslavsky/Muraven/Tice 1998
+   (https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=9599441&rettype=abstract&retmode=text,
+   fresh fetch): 'These results suggest that the self's capacity for active
+   volition is limited and that a range of seemingly different, unrelated
+   acts share a common resource.' confirmed verbatim. Quote spot-check only.
+
+Both are quotation spot-checks, not verdict certifications. With these, every
+dosr5-band file has had at least one carrier independently re-opened this
+session (motivation both sides; affect, attention, overload-overwhelm one
+side each).

@@ -3819,3 +3819,11 @@ flagged below it (cognition Q2 primary located but unread, Q3 compatible per
 the record; goals Q1 secondary carrier, Q2 unresolved; agency Q3 one-sided)
 with repair leads (batches/dosr3.json); dossier repairs landed and
 registry-rebuilt for agency/cognition/goals.
+
+Verification pass 4 closing note (worker-pplx-verify-1026b): the pass is
+complete for every released, non-live band — 3 verdict samples and 10
+automated quote checks adjudicated (8 false positives, 2 real deviations
+repaired and re-checked), plus 5 one-sided and 2 two-sided quote spot-checks
+across the dosr2/dosr5 files. See
+docs/enrichment/qc/QC-SAMPLE-DOSR5-2026-10-26.md (its later correction and
+resolution sections govern where earlier entries disagree).
