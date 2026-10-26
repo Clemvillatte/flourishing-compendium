@@ -1,9 +1,10 @@
 # deg-mind — Phase D2 resource pool (candidate rows for the coverage matrix)
 
 **Owner**: worker-pplx-degarchpsych-1026a (baton `deg-arch-inventory-psychx4`)
-**Built**: 2026-10-26 (T0 13:04:18 UTC, elapsed ~00:22)
-**Status**: D2 candidate pool — DRAFT. Every row below is a CANDIDATE for D2 verification, not yet verified to the skill standard (section 4: instructor credentials on a biography or institutional page, not host descriptions). The mandatory D2 checkpoint (owner or degrees-strategist review of the D1 map + filled D2 matrix) must approve this pool before any Phase D3 work.
+**Built**: 2026-10-26 (T0 13:04:18 UTC)
+**Status**: D2 candidate pool — **DRAFT / QC PENDING** (an advisor QC review found defects in the first draft; corrections landing now). The hours arithmetic below is a candidate estimate, NOT a measured instruction-time claim — see the HOURS NOT YET ESTABLISHED flag. The mandatory D2 checkpoint must approve this pool before any Phase D3 work.
 **Scope**: per docs/degrees/CURRICULUM-ARCHITECTURE-1026.md — the D2 pool must fill the D1 coverage matrix with verified open resources; the hours arithmetic must support ≥6h × ≥10 modules.
+**VERIFICATION-STATUS KEY** (narrowed per advisor QC): a candidate's label is either **DRAFT** (no credential page opened), **CREDENTIALS-VERIFIED** (an institutional biography page was successfully fetched and the credentials logged — this verifies credentials ONLY, not a course's accessibility, coverage or duration), or **FULLY-VERIFIED** (credentials + open access + coverage + duration all checked). Only Kanwisher and Santos are CREDENTIALS-VERIFIED at this point; no candidate is FULLY-VERIFIED.
 
 ## Centering clause (owner 2026-10-26)
 
@@ -85,9 +86,9 @@ The pool below maps each proposed module from the D1 coverage matrix to the open
 ### mod-mind-17 — Capstone
 - **No dedicated open capstone found this session.** The capstone is per-degree and must be built from the degree's own material per the spec's capstone rule.
 
-## Hours arithmetic (draft)
+## Hours arithmetic (candidate estimate — NOT a measured instruction-time claim)
 
-The strongest single resource — MIT OCW 9.13 The Human Brain — is a 24-lecture course with full video. At ~50 min per lecture, that alone is ~20 hours of video instruction. Combined with MIT OCW 9.00SC Introduction to Psychology (a full independent-study course), MIT OCW 9.40 Neural Computation, MIT OCW 9.01/9.011/9.012 Neuroscience, Coursera's Edinburgh Philosophy-and-the-Sciences (5 modules, 12+ h of video), and Coursera's Leiden De-Mystifying Mindfulness (~40 h), the open pool supports far more than the ≥100-hour floor, PROVIDED the D2 verification confirms each resource's credentials and open access. **This is the D2 checkpoint's core question.**
+**HOURS NOT YET ESTABLISHED.** The D2 checkpoint must establish the hours with: (a) accessible assignment URLs, (b) exact video/reading durations or a documented reading-time rule, (c) a deduplicated allocation (a whole course reused across multiple modules cannot be counted repeatedly), and (d) a documented rule on whether personal practice counts as instruction time. The rough scale sketch below (MIT OCW 9.13 The Human Brain is a 24-lecture course with full video; MIT OCW 9.00SC is a full independent-study course; Coursera's Edinburgh Philosophy-and-the-Sciences is a 5-module course; Coursera's Leiden De-Mystifying Mindfulness is a 9-module course) is a plausibility argument, not a demonstration. **This is the D2 checkpoint's core question.**
 
 ## Honest-failure flags (declared, not hidden)
 

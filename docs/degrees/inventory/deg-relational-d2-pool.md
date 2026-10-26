@@ -1,7 +1,9 @@
 # deg-relational — Phase D2 resource pool (candidate rows for the coverage matrix)
 
 **Owner**: worker-pplx-degarchpsych-1026a (baton `deg-arch-inventory-psychx4`)
-**Built**: 2026-10-26 (T0 13:04:18 UTC, elapsed ~00:28)
+**Built**: 2026-10-26 (T0 13:04:18 UTC)
+**Status**: D2 candidate pool — **DRAFT / QC PENDING** (advisor QC found defects; corrections landing). The hours arithmetic below is a candidate estimate, NOT a measured instruction-time claim — HOURS NOT YET ESTABLISHED. The mandatory D2 checkpoint must approve this pool before any Phase D3 work.
+**VERIFICATION-STATUS KEY** (narrowed per advisor QC): DRAFT (no credential page opened), CREDENTIALS-VERIFIED (an institutional biography page was successfully fetched and credentials logged — verifies credentials ONLY), or FULLY-VERIFIED (credentials + open access + coverage + duration all checked). No candidate in this pool is FULLY-VERIFIED yet.
 **Status**: D2 candidate pool — DRAFT. Every row below is a CANDIDATE for D2 verification, not yet verified to the skill standard. The mandatory D2 checkpoint must approve this pool before any Phase D3 work.
 **Scope**: per docs/degrees/CURRICULUM-ARCHITECTURE-1026.md — the D2 pool must fill the D1 coverage matrix with verified open resources; the hours arithmetic must support ≥6h × ≥10 modules.
 
@@ -18,7 +20,7 @@ All candidates are DRAFT until D2 verification (open-access check + instructor c
 - **polylog.org — "Language matters!" Wiredu in dialogue with Kresse** — http://www.polylog.org/them/1.2/dlg1-en.htm — open access. Covers: decolonization, multilingualism and African languages in the making of African philosophy. Named in the SOAS syllabus bibliography. **Verify at D2: Kresse's university affiliation.**
 
 ### mod-rel-2 — Ubuntu — the core concept
-- **Thaddeus Metz's open-access journal articles** — e.g. "Toward an African Moral Theory" and "Two Conceptions of African Ethics" (Quest: An African Journal of Philosophy, XXV, 2011) — open access via the journal's site or via Metz's University of Johannesburg faculty page. Covers: ubuntu as a normative moral theory, the communal-relationship conception. **VERIFIED to the skill standard (this session): Metz is Professor of Philosophy at University of Pretoria, formerly Distinguished Professor at University of Johannesburg (his UJ biography at https://modybulemtha.mp/Thaddeus-Metz.html and the UJ news post confirm: PhD Cornell 1997, ~200 publications, NRF A-rated, the leading ubuntu scholar).**
+- **Thaddeus Metz's open-access journal articles** — e.g. "Toward an African Moral Theory" and "Two Conceptions of African Ethics" (Quest: An African Journal of Philosophy, XXV, 2011) — open access via the journal's site or via Metz's University of Johannesburg faculty page. Covers: ubuntu as a normative moral theory, the communal-relationship conception. **CREDENTIALS RESEARCHED (search results only — NOT a successful biography-page fetch; the UJ page is robots-blocked). A search-result snippet indicates Metz is Professor of Philosophy at University of Pretoria, formerly Distinguished Professor at University of Johannesburg, PhD Cornell 1997. This is NOT CREDENTIALS-VERIFIED to the skill standard — an institutional biography page must be successfully fetched at D2 before this label is earned.**
 - **Tutu's "No Future Without Forgiveness" excerpts** — the key passages are quoted in open-access academic articles (e.g. the University of Alberta JCIE article and the University of Western Cape UWC Scholar piece found this session). The full book is paid. **Flag for D2: find an open primary-source alternative or use the quoted excerpts with citation.**
 
 ### mod-rel-3 — Tutu, the TRC and transitional justice
@@ -61,9 +63,9 @@ All candidates are DRAFT until D2 verification (open-access check + instructor c
 ### mod-rel-14 — Capstone
 - **No dedicated open capstone found this session.** The capstone must be built from the degree's own material per the spec's capstone rule.
 
-## Hours arithmetic (draft)
+## Hours arithmetic (candidate estimate — NOT a measured instruction-time claim)
 
-The strongest genuinely-open resources are the Stanford Encyclopedia of Philosophy's African Philosophy entry, the CRVP's Person and Community (a full open book), Ratele's open-access articles, the scielo.org.za and polylog.org materials, and the African Charter text. This is a text-heavy rather than video-heavy degree; the hours arithmetic must count taught reading time, not just video. The D2 checkpoint must confirm the pool actually supports ≥6h × ≥10 modules. **This is the D2 checkpoint's core question — and the honest-failure risk is highest here, because the canonical primary texts (Ramose, Shutte, Tutu, Gade) are all paid books.**
+**HOURS NOT YET ESTABLISHED.** The D2 checkpoint must establish the hours with: (a) accessible assignment URLs, (b) exact video/reading durations or a documented reading-time rule, (c) a deduplicated allocation (a whole course reused across multiple modules cannot be counted repeatedly), and (d) a documented rule on whether personal practice counts as instruction time. Any prior scale sketch in earlier drafts of this file was retracted per advisor QC — it mixed advertised course workload, estimated video lengths and independent practice, which are not measured instruction. **This is the D2 checkpoint's core question.**
 
 ## Honest-failure flags (declared, not hidden)
 

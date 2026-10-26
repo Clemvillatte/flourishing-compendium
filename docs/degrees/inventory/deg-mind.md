@@ -1,9 +1,10 @@
 # deg-mind — Phase D1 discipline inventory
 
 **Owner**: worker-pplx-degarchpsych-1026a (baton `deg-arch-inventory-psychx4`)
-**Built**: 2026-10-26 (T0 13:04:18 UTC, elapsed ~00:10)
-**Status**: D1 topic map — COMPLETE. D2 resource pool — NOT STARTED (checkpoint required before D3).
+**Built**: 2026-10-26 (T0 13:04:18 UTC)
+**Status**: **DRAFT / QC PENDING** — an advisor QC review (this session) found defects in the first draft; the corrections are landing now. The topic map is a candidate, not a signed-off deliverable. D2 resource pool — drafted but NOT verified to the skill standard except where noted. The D2 checkpoint (owner or degrees-strategist) is still required before any D3 work.
 **Scope**: per docs/degrees/CURRICULUM-ARCHITECTURE-1026.md — a degree means exhaustive foundational coverage of the discipline (Mind & Adaptive Behaviour / cognitive science of the mind), ≥100 measured hours, ≥10 modules, each module ≥6h with ≥3 distinct sources, teaching layer binding on every primary text.
+**HOURS NOT YET ESTABLISHED**: the D2 pool's hours arithmetic below is a candidate estimate, not a measured instruction-time claim. The ≥100-hour floor and each module's ≥6-hour floor must be demonstrated with accessible assignment URLs, exact durations or a documented reading-time rule, and a deduplicated allocation (a whole course reused across multiple modules cannot be counted repeatedly).
 
 ## Centering clause (owner 2026-10-26)
 
@@ -11,9 +12,9 @@ Every topic and every resource below must serve the value proposition — allevi
 
 ## University syllabi opened (the D1 corpus — 3, all fetched and read this session)
 
-1. **Columbia University, "PSYC UN2410 Introduction to Cognitive Science, Spring 2025, Instructors: Antonino Raffone & Guido Bondi"** — https://www.columbia.edu/~jrm2182/COGS1001.pdf — full 14-week cognitive-science course. Week-by-week lecture list and required readings (Newport Language, Marcus Neural Networks, Frankish Thinking and Reasoning, Altmann Cognitive Modeling, Anderson Classic Newell, etc.) read this session.
-2. **The University of Texas at Dallas, "CGS 2301 Introduction to Cognitive Science, Spring 2026, Instructor: Tim Rohrer"** — https://dox.utdallas.edu/syl164715 — 15-week cognitive-science course from the history of cognitive science through AI, neural networks, language, embodied cognition and individual differences. Full weekly topic and reading table read this session.
-3. **Dartmouth College, "COGS 1 Introduction to Cognitive Science, Fall 2026, Instructor: Emily Cooper"** — https://cognitive-science.dartmouth.edu/sites/cognitive_science/files/2026-09/2026%20FallSyllabusCOGS1-%20OpenHouse%5B1%5D.pdf — 10-week introduction organized around five levels of analysis (neural, hardware, systems, content, societal) with weekly labs. Full weekly lecture, lab and assignment table read this session.
+1. **Columbia University, "PSYC UN2410 Introduction to Cognitive Science, Spring 2025, Instructors: Antonino Raffone & Guido Bondi"** — https://www.columbia.edu/~jrm2182/COGS1001.pdf — full 14-week cognitive-science course. Week-by-week lecture list and required readings (Newport Language, Marcus Neural Networks, Frankish Thinking and Reasoning, Altmann Cognitive Modeling, Anderson Classic Newell, etc.) read this session. **The syllabus was fetched with an extraction prompt; the week-to-topic attributions below are the extractor's summary, not a verbatim table. Re-fetch the raw PDF at D2 to verify each attribution.**
+2. **The University of Texas at Dallas, "CGS 2301 Introduction to Cognitive Science, Spring 2026, Instructor: Tim Rohrer"** — https://dox.utdallas.edu/syl164715 — 15-week cognitive-science course from the history of cognitive science through AI, neural networks, language, embodied cognition and individual differences. Full weekly topic and reading table read this session. **Same extraction-prompt caveat as above.**
+3. **Dartmouth College, "COGS 1 Introduction to Cognitive Science, Fall 2026, Instructor: Emily Cooper"** — https://cognitive-science.dartmouth.edu/sites/cognitive_science/files/2026-09/2026%20FallSyllabusCOGS1-%20OpenHouse%5B1%5D.pdf — 10-week introduction organized around five levels of analysis (neural, hardware, systems, content, societal) with weekly labs. Full weekly lecture, lab and assignment table read this session. **Same extraction-prompt caveat as above.**
 
 A fourth syllabus was searched (RPI PHIL/PSYC 2120, Bram van Heuveln) and opened but did not carry a weekly schedule — not required; the three above are sufficient per the ≥3 syllabi rule.
 

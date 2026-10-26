@@ -1,13 +1,15 @@
 # deg-relational — Phase D1 discipline inventory
 
 **Owner**: worker-pplx-degarchpsych-1026a (baton `deg-arch-inventory-psychx4`)
-**Built**: 2026-10-26 (T0 13:04:18 UTC, elapsed ~00:14)
-**Status**: D1 topic map — COMPLETE. D2 resource pool — NOT STARTED (checkpoint required before D3).
-**Scope**: per docs/degrees/CURRICULUM-ARCHITECTURE-1026.md — a degree means exhaustive foundational coverage of the discipline (relational ethics — Ubuntu, Levinas, care ethics), ≥100 measured hours, ≥10 modules, each module ≥6h with ≥3 distinct sources, teaching layer binding on every primary text.
+**Built**: 2026-10-26 (T0 13:04:18 UTC)
+**Status**: **DRAFT / QC PENDING** — an advisor QC review found a scope defect: the degree is declared as covering Ubuntu, Levinas and care ethics, but the three opened syllabi cover only Ubuntu and African relational thought. **The Levinas and care-ethics coverage is MISSING from this map and must be repaired before the D1 is signed off** — either with additional opened syllabi or with a documented scope change. The topic map below is a candidate for the Ubuntu/African-relational core only. D2 resource pool — drafted but NOT verified to the skill standard.
+**Scope**: per docs/degrees/CURRICULUM-ARCHITECTURE-1026.md — a degree means exhaustive foundational coverage of the discipline (relational ethics), ≥100 measured hours, ≥10 modules, each module ≥6h with ≥3 distinct sources, teaching layer binding on every primary text.
+**HOURS NOT YET ESTABLISHED**: the D2 pool's hours arithmetic below is a candidate estimate, not a measured instruction-time claim.
+**SCOPE DEFECT (declared)**: the degree's declared scope includes Levinas and care ethics; the current topic map covers only Ubuntu and African relational thought. This is a known gap, not a silent exclusion — repair at D2 with additional opened Levinas and care-ethics syllabi, or obtain a documented scope change.
 
 ## Centering clause (owner 2026-10-26)
 
-Every topic and every resource below must serve the value proposition — alleviate suffering, become wiser, genuinely flourish even when uncertain or overwhelmed — through the Walk of Life / Philosophy of Life frame. Topical fit alone does NOT qualify; when in doubt, exclude. Relational-ethics material that has no bearing on lived moral life (e.g. pure analytic-ethics metaethics as formal machinery, purely academic debates on the semantics of moral realism) is OUT OF SCOPE unless a teaching layer connects it back to the walk of life. The Ubuntu, Levinas and care-ethics traditions are kept at the centre because they are explicitly relational — morality begins in the encounter with the other person, not in abstract rules.
+Every topic and every resource below must serve the value proposition — alleviate suffering, become wiser, genuinely flourish even when uncertain or overwhelmed — through the Walk of Life / Philosophy of Life frame. Topical fit alone does NOT qualify; when in doubt, exclude. Relational-ethics material that has no bearing on lived moral life (e.g. pure analytic-ethics metaethics as formal machinery, purely academic debates on the semantics of moral realism) is OUT OF SCOPE unless a teaching layer connects it back to the walk of life. **SCOPE NOTE (advisor QC): the degree is declared as Ubuntu + Levinas + care ethics, but the three opened syllabi cover only Ubuntu and African relational thought. The Levinas and care-ethics coverage must be repaired at D2 — this map does not silently turn the degree into an Ubuntu-only survey.**
 
 ## University syllabi opened (the D1 corpus — 3, all fetched and read this session)
 

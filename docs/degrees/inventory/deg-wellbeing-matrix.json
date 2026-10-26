@@ -3,7 +3,7 @@
   "lane": "deg-arch-inventory-psychx4",
   "owner": "worker-pplx-degarchpsych-1026a",
   "built": "2026-10-26T13:20:00Z",
-  "phase": "D1 topic map \u2014 COMPLETE. D2 pool drafted (see the degree's -d2-pool.md); D2 checkpoint required before D3.",
+  "phase": "D1 topic map \u2014 DRAFT / QC PENDING (advisor review found defects; do not consume as COMPLETE). D2 pool drafted (see the degree's -d2-pool.md); D2 checkpoint required before D3. NOTE: the topics[].sources arrays are EMPTY because no resource has been assigned yet \u2014 the matrix rows point at PROPOSED module names, not live assignments. The degrees_learner_audit.py bidirectional check (assigned source appears on a matrix row; matrix-row source is assigned) will FAIL on any of these files until D2 assigns real source_ids.",
   "centering_clause": "Every topic must serve the value proposition \u2014 alleviate suffering, become wiser, genuinely flourish even when uncertain or overwhelmed \u2014 through the Walk of Life frame. When in doubt, exclude.",
   "source_syllabi": [
     {
@@ -31,138 +31,163 @@
       "opened_this_session": true
     }
   ],
-  "coverage_matrix": [
-    {
-      "topic": "What is positive psychology; PERMA",
-      "module": "mod-well-1",
-      "status": "design-existing, under-scaled"
-    },
-    {
-      "topic": "Hedonic vs eudaimonic wellbeing",
-      "module": "mod-well-1",
-      "status": "PARTIAL"
-    },
-    {
-      "topic": "Positive emotions; broaden-and-build",
-      "module": "mod-well-2",
-      "status": "design-existing, under-scaled"
-    },
-    {
-      "topic": "Positivity ratio; upward spirals",
-      "module": "mod-well-2",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Neuroscience of positive affect",
-      "module": "mod-well-3",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Flow and optimal experience",
-      "module": "mod-well-4",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Character strengths and virtues (VIA)",
-      "module": "mod-well-5",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Positive relationships; attachment and love",
-      "module": "mod-well-6",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Empathy, compassion, altruism",
-      "module": "mod-well-6",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Forgiveness and reconciliation",
-      "module": "mod-well-7",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Meaning in life (coherence, purpose, significance)",
-      "module": "mod-well-8",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Purpose \u2014 finding and following it",
-      "module": "mod-well-8",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Wisdom and ancient traditions",
-      "module": "mod-well-9",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Spiritual wellbeing and transcendence",
-      "module": "mod-well-9",
-      "status": "OPTIONAL"
-    },
-    {
-      "topic": "Resilience",
-      "module": "mod-well-10",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Post-traumatic growth",
-      "module": "mod-well-10",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Growth mindset",
-      "module": "mod-well-10",
-      "status": "PARTIAL"
-    },
-    {
-      "topic": "Mindfulness and MBSR",
-      "module": "mod-well-11",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Gratitude practice",
-      "module": "mod-well-12",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Self-compassion",
-      "module": "mod-well-12",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Savoring",
-      "module": "mod-well-12",
-      "status": "OPTIONAL"
-    },
-    {
-      "topic": "Positive psychology in education, health, workplace",
-      "module": "mod-well-13",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Positive interventions \u2014 what works",
-      "module": "mod-well-13",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Science of Well-Being synthesis (Santos)",
-      "module": "mod-well-14",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Capstone \u2014 designing your flourishing life",
-      "module": "mod-well-15",
-      "status": "MISSING"
-    }
-  ],
   "known_gaps": [
     "Csikszentmihalyi's Flow primary text is a paid book; mod-well-4 needs an open alternative.",
     "Coursera free-to-audit tier must be checked; the genuinely-open spine is Greater Good Science Center, Greater Good in Action, VIA, self-compassion.org and SEP.",
     "Hours arithmetic: existing ~2.0 measured hours vs a >=100 floor."
   ],
   "d2_checkpoint_required": true,
-  "next_phase_owner": "The D2 agent fills this matrix with verified open resources and presents the D1 map + filled D2 matrix at the mandatory checkpoint."
+  "next_phase_owner": "The D2 agent fills this matrix with verified open resources and presents the D1 map + filled D2 matrix at the mandatory checkpoint.",
+  "topics": [
+    {
+      "topic": "What is positive psychology; PERMA",
+      "module": "mod-well-1",
+      "status": "design-existing, under-scaled",
+      "sources": []
+    },
+    {
+      "topic": "Hedonic vs eudaimonic wellbeing",
+      "module": "mod-well-1",
+      "status": "PARTIAL",
+      "sources": []
+    },
+    {
+      "topic": "Positive emotions; broaden-and-build",
+      "module": "mod-well-2",
+      "status": "design-existing, under-scaled",
+      "sources": []
+    },
+    {
+      "topic": "Positivity ratio; upward spirals",
+      "module": "mod-well-2",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Neuroscience of positive affect",
+      "module": "mod-well-3",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Flow and optimal experience",
+      "module": "mod-well-4",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Character strengths and virtues (VIA)",
+      "module": "mod-well-5",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Positive relationships; attachment and love",
+      "module": "mod-well-6",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Empathy, compassion, altruism",
+      "module": "mod-well-6",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Forgiveness and reconciliation",
+      "module": "mod-well-7",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Meaning in life (coherence, purpose, significance)",
+      "module": "mod-well-8",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Purpose \u2014 finding and following it",
+      "module": "mod-well-8",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Wisdom and ancient traditions",
+      "module": "mod-well-9",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Spiritual wellbeing and transcendence",
+      "module": "mod-well-9",
+      "status": "OPTIONAL",
+      "sources": []
+    },
+    {
+      "topic": "Resilience",
+      "module": "mod-well-10",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Post-traumatic growth",
+      "module": "mod-well-10",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Growth mindset",
+      "module": "mod-well-10",
+      "status": "PARTIAL",
+      "sources": []
+    },
+    {
+      "topic": "Mindfulness and MBSR",
+      "module": "mod-well-11",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Gratitude practice",
+      "module": "mod-well-12",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Self-compassion",
+      "module": "mod-well-12",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Savoring",
+      "module": "mod-well-12",
+      "status": "OPTIONAL",
+      "sources": []
+    },
+    {
+      "topic": "Positive psychology in education, health, workplace",
+      "module": "mod-well-13",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Positive interventions \u2014 what works",
+      "module": "mod-well-13",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Science of Well-Being synthesis (Santos)",
+      "module": "mod-well-14",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Capstone \u2014 designing your flourishing life",
+      "module": "mod-well-15",
+      "status": "MISSING",
+      "sources": []
+    }
+  ]
 }

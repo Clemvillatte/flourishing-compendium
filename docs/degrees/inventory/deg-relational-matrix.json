@@ -3,7 +3,7 @@
   "lane": "deg-arch-inventory-psychx4",
   "owner": "worker-pplx-degarchpsych-1026a",
   "built": "2026-10-26T13:20:00Z",
-  "phase": "D1 topic map \u2014 COMPLETE. D2 pool drafted (see the degree's -d2-pool.md); D2 checkpoint required before D3.",
+  "phase": "D1 topic map \u2014 DRAFT / QC PENDING (advisor review found defects; do not consume as COMPLETE). D2 pool drafted (see the degree's -d2-pool.md); D2 checkpoint required before D3. NOTE: the topics[].sources arrays are EMPTY because no resource has been assigned yet \u2014 the matrix rows point at PROPOSED module names, not live assignments. The degrees_learner_audit.py bidirectional check (assigned source appears on a matrix row; matrix-row source is assigned) will FAIL on any of these files until D2 assigns real source_ids.",
   "centering_clause": "Every topic must serve the value proposition \u2014 alleviate suffering, become wiser, genuinely flourish even when uncertain or overwhelmed \u2014 through the Walk of Life frame. When in doubt, exclude.",
   "source_syllabi": [
     {
@@ -31,103 +31,121 @@
       "opened_this_session": true
     }
   ],
-  "coverage_matrix": [
-    {
-      "topic": "What is African / relational philosophy?",
-      "module": "mod-rel-1",
-      "status": "design-existing, under-scaled"
-    },
-    {
-      "topic": "Ubuntu \u2014 the core concept and proverb",
-      "module": "mod-rel-2",
-      "status": "design-existing, under-scaled"
-    },
-    {
-      "topic": "Tutu \u2014 No Future Without Forgiveness; the TRC",
-      "module": "mod-rel-3",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Metz \u2014 two conceptions of African ethics",
-      "module": "mod-rel-4",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Person and community \u2014 Menkiti, Gyekye, Wiredu",
-      "module": "mod-rel-5",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Yor\u00f9b\u00e1 philosophy of the self",
-      "module": "mod-rel-6",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Hunhu / Unhu \u2014 Zimbabwean and related",
-      "module": "mod-rel-6",
-      "status": "OPTIONAL"
-    },
-    {
-      "topic": "African psychology as a discipline",
-      "module": "mod-rel-7",
-      "status": "MISSING"
-    },
-    {
-      "topic": "African mental health and illness paradigms",
-      "module": "mod-rel-8",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Indigenous knowledge and decolonization",
-      "module": "mod-rel-9",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Ubuntu and human rights",
-      "module": "mod-rel-10",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Ubuntu and transitional justice",
-      "module": "mod-rel-11",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Ubuntu and ethnocultural justice",
-      "module": "mod-rel-11",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Ubuntu and business ethics / management",
-      "module": "mod-rel-12",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Ubuntu and environmental justice",
-      "module": "mod-rel-12",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Ubuntu and intergenerational justice",
-      "module": "mod-rel-13",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Ubuntu, hospitality and migration",
-      "module": "mod-rel-13",
-      "status": "OPTIONAL"
-    },
-    {
-      "topic": "Capstone \u2014 relational ethics for the walk of life",
-      "module": "mod-rel-14",
-      "status": "MISSING"
-    }
-  ],
   "known_gaps": [
     "Canonical primary texts (Ramose, Shutte, Tutu, Gade, Gyekye) are all paid books; the D2 pool must lean on open-access journal articles (Metz, Ratele, Nwoye, Behrens), the CRVP open book, the SEP entry, and open repositories.",
     "The mod-rel-6 Yor\u00f9b\u00e1 row may be hard to fill openly; report if unfillable.",
     "Hours arithmetic: existing ~2.5 measured hours vs a >=100 floor; text-heavy degree, must count taught reading time."
   ],
   "d2_checkpoint_required": true,
-  "next_phase_owner": "The D2 agent fills this matrix with verified open resources and presents the D1 map + filled D2 matrix at the mandatory checkpoint. Highest honest-failure risk: the canonical-primary-text paywall."
+  "next_phase_owner": "The D2 agent fills this matrix with verified open resources and presents the D1 map + filled D2 matrix at the mandatory checkpoint. Highest honest-failure risk: the canonical-primary-text paywall.",
+  "topics": [
+    {
+      "topic": "What is African / relational philosophy?",
+      "module": "mod-rel-1",
+      "status": "design-existing, under-scaled",
+      "sources": []
+    },
+    {
+      "topic": "Ubuntu \u2014 the core concept and proverb",
+      "module": "mod-rel-2",
+      "status": "design-existing, under-scaled",
+      "sources": []
+    },
+    {
+      "topic": "Tutu \u2014 No Future Without Forgiveness; the TRC",
+      "module": "mod-rel-3",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Metz \u2014 two conceptions of African ethics",
+      "module": "mod-rel-4",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Person and community \u2014 Menkiti, Gyekye, Wiredu",
+      "module": "mod-rel-5",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Yor\u00f9b\u00e1 philosophy of the self",
+      "module": "mod-rel-6",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Hunhu / Unhu \u2014 Zimbabwean and related",
+      "module": "mod-rel-6",
+      "status": "OPTIONAL",
+      "sources": []
+    },
+    {
+      "topic": "African psychology as a discipline",
+      "module": "mod-rel-7",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "African mental health and illness paradigms",
+      "module": "mod-rel-8",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Indigenous knowledge and decolonization",
+      "module": "mod-rel-9",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Ubuntu and human rights",
+      "module": "mod-rel-10",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Ubuntu and transitional justice",
+      "module": "mod-rel-11",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Ubuntu and ethnocultural justice",
+      "module": "mod-rel-11",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Ubuntu and business ethics / management",
+      "module": "mod-rel-12",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Ubuntu and environmental justice",
+      "module": "mod-rel-12",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Ubuntu and intergenerational justice",
+      "module": "mod-rel-13",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Ubuntu, hospitality and migration",
+      "module": "mod-rel-13",
+      "status": "OPTIONAL",
+      "sources": []
+    },
+    {
+      "topic": "Capstone \u2014 relational ethics for the walk of life",
+      "module": "mod-rel-14",
+      "status": "MISSING",
+      "sources": []
+    }
+  ]
 }

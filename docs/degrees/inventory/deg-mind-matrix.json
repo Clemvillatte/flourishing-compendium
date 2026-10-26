@@ -3,7 +3,7 @@
   "lane": "deg-arch-inventory-psychx4",
   "owner": "worker-pplx-degarchpsych-1026a",
   "built": "2026-10-26T13:16:00Z",
-  "phase": "D1 topic map \u2014 COMPLETE. D2 pool drafted (see deg-mind-d2-pool.md); D2 checkpoint required before D3.",
+  "phase": "D1 topic map \u2014 DRAFT / QC PENDING (advisor review found defects; do not consume as COMPLETE). D2 pool drafted (see the degree's -d2-pool.md); D2 checkpoint required before D3. NOTE: the topics[].sources arrays are EMPTY because no resource has been assigned yet \u2014 the matrix rows point at PROPOSED module names, not live assignments. The degrees_learner_audit.py bidirectional check (assigned source appears on a matrix row; matrix-row source is assigned) will FAIL on any of these files until D2 assigns real source_ids.",
   "centering_clause": "Every topic must serve the value proposition \u2014 alleviate suffering, become wiser, genuinely flourish even when uncertain or overwhelmed \u2014 through the Walk of Life frame. When in doubt, exclude.",
   "source_syllabi": [
     {
@@ -31,172 +31,181 @@
       "opened_this_session": true
     }
   ],
-  "proposed_modules": [
-    "mod-mind-1",
-    "mod-mind-2",
-    "mod-mind-3",
-    "mod-mind-4",
-    "mod-mind-5",
-    "mod-mind-6",
-    "mod-mind-7",
-    "mod-mind-8",
-    "mod-mind-9",
-    "mod-mind-10",
-    "mod-mind-11",
-    "mod-mind-12",
-    "mod-mind-13",
-    "mod-mind-14",
-    "mod-mind-15",
-    "mod-mind-16",
-    "mod-mind-17"
-  ],
-  "coverage_matrix": [
-    {
-      "topic": "What is cognitive science; five levels of analysis",
-      "module": "mod-mind-1",
-      "status": "design-existing, under-scaled"
-    },
-    {
-      "topic": "History of cognitive science (behaviorism \u2192 cognitive revolution)",
-      "module": "mod-mind-1",
-      "status": "PARTIAL"
-    },
-    {
-      "topic": "Interdisciplinary roots (psychology, linguistics, philosophy, neuroscience, AI, anthropology)",
-      "module": "mod-mind-1",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Neuroanatomy and the nervous system",
-      "module": "mod-mind-2",
-      "status": "PARTIAL"
-    },
-    {
-      "topic": "Neural network / connectionist models",
-      "module": "mod-mind-3",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Brain-computer interfaces and neurotechnology",
-      "module": "mod-mind-3",
-      "status": "OPTIONAL"
-    },
-    {
-      "topic": "Attention and cognitive control",
-      "module": "mod-mind-4",
-      "status": "PARTIAL"
-    },
-    {
-      "topic": "Perception (predictive, top-down)",
-      "module": "mod-mind-5",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Consciousness (neural correlates + the hard question)",
-      "module": "mod-mind-6",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Mindfulness and present-moment awareness",
-      "module": "mod-mind-7",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Learning and conditioning",
-      "module": "mod-mind-8",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Working memory and executive function",
-      "module": "mod-mind-8",
-      "status": "PARTIAL"
-    },
-    {
-      "topic": "Long-term memory (consolidation, sleep, retrieval practice)",
-      "module": "mod-mind-9",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Knowledge representation and concepts",
-      "module": "mod-mind-9",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Language acquisition",
-      "module": "mod-mind-10",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Language comprehension",
-      "module": "mod-mind-10",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Reasoning and problem solving",
-      "module": "mod-mind-11",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Judgment and decision-making (heuristics, biases, dual-process)",
-      "module": "mod-mind-11",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Self and identity (cognitive science of the self)",
-      "module": "mod-mind-12",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Emotion and affect (affective neuroscience)",
-      "module": "mod-mind-12",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Social cognition (theory of mind, empathy)",
-      "module": "mod-mind-12",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Cognitive development across the lifespan",
-      "module": "mod-mind-13",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Intelligence and individual differences",
-      "module": "mod-mind-13",
-      "status": "OPTIONAL"
-    },
-    {
-      "topic": "AI \u2014 symbolic and connectionist approaches",
-      "module": "mod-mind-14",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Embodied, extended and predictive cognition",
-      "module": "mod-mind-14",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Cognitive science in the LLM age; alignment",
-      "module": "mod-mind-15",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Cognitive-science applications (education, health, wellbeing)",
-      "module": "mod-mind-16",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Capstone \u2014 cognition for the walk of life",
-      "module": "mod-mind-17",
-      "status": "MISSING"
-    }
-  ],
   "known_gaps": [
     "Formal-machinery subfields (Bayesian model inversion, computational vision as algorithm design, robotics implementations) OUT OF SCOPE per centering clause.",
     "Paywall check: the three syllabi name mostly paywalled textbooks; the D2 pool must lean on open-access resources (MIT OCW 9.13 Kanwisher VERIFIED, MIT OCW 9.00SC Gabrieli, SEP entries).",
     "Hours arithmetic: existing ~0.0 measured hours vs a >=100 floor; the D2 checkpoint must confirm the open pool supports >=6h x >=10 modules."
   ],
   "d2_checkpoint_required": true,
-  "next_phase_owner": "The D2 agent (baton deg-arch-build, or the same deg-arch-inventory-psychx4 holder if the supervisor routes it) fills this matrix with verified open resources and presents the D1 map + filled D2 matrix at the mandatory checkpoint."
+  "next_phase_owner": "The D2 agent (baton deg-arch-build, or the same deg-arch-inventory-psychx4 holder if the supervisor routes it) fills this matrix with verified open resources and presents the D1 map + filled D2 matrix at the mandatory checkpoint.",
+  "topics": [
+    {
+      "topic": "What is cognitive science; five levels of analysis",
+      "module": "mod-mind-1",
+      "status": "design-existing, under-scaled",
+      "sources": []
+    },
+    {
+      "topic": "History of cognitive science (behaviorism \u2192 cognitive revolution)",
+      "module": "mod-mind-1",
+      "status": "PARTIAL",
+      "sources": []
+    },
+    {
+      "topic": "Interdisciplinary roots (psychology, linguistics, philosophy, neuroscience, AI, anthropology)",
+      "module": "mod-mind-1",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Neuroanatomy and the nervous system",
+      "module": "mod-mind-2",
+      "status": "PARTIAL",
+      "sources": []
+    },
+    {
+      "topic": "Neural network / connectionist models",
+      "module": "mod-mind-3",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Brain-computer interfaces and neurotechnology",
+      "module": "mod-mind-3",
+      "status": "OPTIONAL",
+      "sources": []
+    },
+    {
+      "topic": "Attention and cognitive control",
+      "module": "mod-mind-4",
+      "status": "PARTIAL",
+      "sources": []
+    },
+    {
+      "topic": "Perception (predictive, top-down)",
+      "module": "mod-mind-5",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Consciousness (neural correlates + the hard question)",
+      "module": "mod-mind-6",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Mindfulness and present-moment awareness",
+      "module": "mod-mind-7",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Learning and conditioning",
+      "module": "mod-mind-8",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Working memory and executive function",
+      "module": "mod-mind-8",
+      "status": "PARTIAL",
+      "sources": []
+    },
+    {
+      "topic": "Long-term memory (consolidation, sleep, retrieval practice)",
+      "module": "mod-mind-9",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Knowledge representation and concepts",
+      "module": "mod-mind-9",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Language acquisition",
+      "module": "mod-mind-10",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Language comprehension",
+      "module": "mod-mind-10",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Reasoning and problem solving",
+      "module": "mod-mind-11",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Judgment and decision-making (heuristics, biases, dual-process)",
+      "module": "mod-mind-11",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Self and identity (cognitive science of the self)",
+      "module": "mod-mind-12",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Emotion and affect (affective neuroscience)",
+      "module": "mod-mind-12",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Social cognition (theory of mind, empathy)",
+      "module": "mod-mind-12",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Cognitive development across the lifespan",
+      "module": "mod-mind-13",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Intelligence and individual differences",
+      "module": "mod-mind-13",
+      "status": "OPTIONAL",
+      "sources": []
+    },
+    {
+      "topic": "AI \u2014 symbolic and connectionist approaches",
+      "module": "mod-mind-14",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Embodied, extended and predictive cognition",
+      "module": "mod-mind-14",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Cognitive science in the LLM age; alignment",
+      "module": "mod-mind-15",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Cognitive-science applications (education, health, wellbeing)",
+      "module": "mod-mind-16",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Capstone \u2014 cognition for the walk of life",
+      "module": "mod-mind-17",
+      "status": "MISSING",
+      "sources": []
+    }
+  ]
 }

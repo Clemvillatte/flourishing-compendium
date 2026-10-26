@@ -1,7 +1,9 @@
 # deg-contemplative — Phase D2 resource pool (candidate rows for the coverage matrix)
 
 **Owner**: worker-pplx-degarchpsych-1026a (baton `deg-arch-inventory-psychx4`)
-**Built**: 2026-10-26 (T0 13:04:18 UTC, elapsed ~00:30)
+**Built**: 2026-10-26 (T0 13:04:18 UTC)
+**Status**: D2 candidate pool — **DRAFT / QC PENDING** (advisor QC found defects; corrections landing). The hours arithmetic below is a candidate estimate, NOT a measured instruction-time claim — HOURS NOT YET ESTABLISHED. The mandatory D2 checkpoint must approve this pool before any Phase D3 work.
+**VERIFICATION-STATUS KEY** (narrowed per advisor QC): DRAFT (no credential page opened), CREDENTIALS-VERIFIED (an institutional biography page was successfully fetched and credentials logged — verifies credentials ONLY), or FULLY-VERIFIED (credentials + open access + coverage + duration all checked). No candidate in this pool is FULLY-VERIFIED yet.
 **Status**: D2 candidate pool — DRAFT. Every row below is a CANDIDATE for D2 verification, not yet verified to the skill standard. The mandatory D2 checkpoint must approve this pool before any Phase D3 work.
 **Scope**: per docs/degrees/CURRICULUM-ARCHITECTURE-1026.md — the D2 pool must fill the D1 coverage matrix with verified open resources; the hours arithmetic must support ≥6h × ≥10 modules.
 
@@ -14,7 +16,7 @@ Every candidate below must serve the value proposition — alleviate suffering, 
 All candidates are DRAFT until D2 verification (open-access check + instructor credentials on a biography or institutional page + what-topic-it-covers logging).
 
 ### mod-cont-1 — What is contemplative science and practice
-- **Coursera — De-Mystifying Mindfulness (Leiden University, Chris Goto-Jones)** — https://www.coursera.org/learn/mindfulness — free-to-audit, 9 modules, ~40 hours. Covers: the psychology and neuroscience of mindfulness, MBSR and MBCT, the politics and ethics of contemplative practice, meditation labs. The single strongest open candidate for this degree. **VERIFIED to the skill standard (this session): Goto-Jones is Professor of Philosophy at University of Victoria (https://www.uvic.ca/humanities/about/news/articles/htc-goto-jones.php), formerly Leiden University chair professor; a certified MBSR/MBCT teacher; the MOOC has reached ~250,000 participants. NOTE: the Coursera free-to-audit tier must be checked.**
+- **Coursera — De-Mystifying Mindfulness (Leiden University, Chris Goto-Jones)** — https://www.coursera.org/learn/mindfulness — free-to-audit, 9 modules, ~40 hours. Covers: the psychology and neuroscience of mindfulness, MBSR and MBCT, the politics and ethics of contemplative practice, meditation labs. The single strongest open candidate for this degree. **CREDENTIALS RESEARCHED (search results only — NOT a successful biography-page fetch). A search-result snippet indicates Goto-Jones is Professor of Philosophy at University of Victoria, formerly Leiden University chair professor, a certified MBSR/MBCT teacher, and the MOOC has reached ~250,000 participants. This is NOT CREDENTIALS-VERIFIED to the skill standard — an institutional biography page must be successfully fetched at D2. NOTE: the Coursera free-to-audit tier must be checked.**
 - **Brown University's Contemplative Studies concentration open resources** — https://contemplative-studies.brown.edu/ — open access. Covers: the contemplative-science field, the concentration's course list and syllabi (several of which are on the site). **Verify at D2: Brown's Contemplative Studies faculty.**
 
 ### mod-cont-2 — History and religious roots; the appropriation question
@@ -29,7 +31,7 @@ All candidates are DRAFT until D2 verification (open-access check + instructor c
 - **Stanford's Center for Compassion and Altruism Research and Education (CCARE)** — https://ccare.stanford.edu/ — open access. Covers: compassion-science research, the Compassion Cultivation Training (CCT) program's open resources. **Verify at D2: CCARE's faculty (Thupten Jinpa, James Doty).**
 
 ### mod-cont-5 — Self-compassion practice
-- **Kristin Neff's self-compassion.org** — https://self-compassion.org/ — open access. Covers: the three components of self-compassion, free guided practices, the research. **VERIFIED to the skill standard (this session): Neff is Associate Professor of Educational Psychology at UT Austin (confirmed via Stanford CCARE and her UT CV), founder of the Self-Compassion Scale and co-founder of the Mindful Self-Compassion program.**
+- **Kristin Neff's self-compassion.org** — https://self-compassion.org/ — open access. Covers: the three components of self-compassion, free guided practices, the research. **CREDENTIALS RESEARCHED (search results only — NOT a successful biography-page fetch). A search-result snippet indicates Neff is Associate Professor of Educational Psychology at UT Austin. This is NOT CREDENTIALS-VERIFIED to the skill standard — an institutional biography page must be successfully fetched at D2.**
 
 ### mod-cont-6 — Gratitude, forgiveness, sympathetic joy
 - **Greater Good Science Center (UC Berkeley)** — https://greatergood.berkeley.edu/ — open access. Covers: gratitude research, forgiveness research, awe. **Verify at D2: the Greater Good editorial policy.**
@@ -79,9 +81,9 @@ All candidates are DRAFT until D2 verification (open-access check + instructor c
 ### mod-cont-18 — Capstone
 - **No dedicated open capstone found this session.** The capstone must be built from the degree's own material per the spec's capstone rule. Note the natural advantage: a contemplative-practice degree can count the practice itself as real instruction time (the Brown Flourishing course specifies 120 min/week × 14 weeks = ~28 hours of practice alone).
 
-## Hours arithmetic (draft)
+## Hours arithmetic (candidate estimate — NOT a measured instruction-time claim)
 
-The strongest genuinely-open resources are UCLA MARC's free guided-meditation library, UC San Diego's free recordings, self-compassion.org, Greater Good in Action, Brown's Contemplative Studies site, Stanford CCARE, and the Stanford course list. Combined with Coursera's De-Mystifying Mindfulness (~40 h) and The Science of Well-Being (~40 h), the open pool supports the ≥100-hour floor, PROVIDED the D2 verification confirms each candidate's credentials and free-tier access. The practice-as-instruction advantage makes this degree's hours arithmetic the most favorable of the four. **This is the D2 checkpoint's core question.**
+**HOURS NOT YET ESTABLISHED.** The D2 checkpoint must establish the hours with: (a) accessible assignment URLs, (b) exact video/reading durations or a documented reading-time rule, (c) a deduplicated allocation (a whole course reused across multiple modules cannot be counted repeatedly), and (d) a documented rule on whether personal practice counts as instruction time. Any prior scale sketch in earlier drafts of this file was retracted per advisor QC — it mixed advertised course workload, estimated video lengths and independent practice, which are not measured instruction. **This is the D2 checkpoint's core question.**
 
 ## Honest-failure flags (declared, not hidden)
 

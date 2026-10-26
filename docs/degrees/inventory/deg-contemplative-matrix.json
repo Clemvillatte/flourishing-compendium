@@ -3,7 +3,7 @@
   "lane": "deg-arch-inventory-psychx4",
   "owner": "worker-pplx-degarchpsych-1026a",
   "built": "2026-10-26T13:20:00Z",
-  "phase": "D1 topic map \u2014 COMPLETE. D2 pool drafted (see the degree's -d2-pool.md); D2 checkpoint required before D3.",
+  "phase": "D1 topic map \u2014 DRAFT / QC PENDING (advisor review found defects; do not consume as COMPLETE). D2 pool drafted (see the degree's -d2-pool.md); D2 checkpoint required before D3. NOTE: the topics[].sources arrays are EMPTY because no resource has been assigned yet \u2014 the matrix rows point at PROPOSED module names, not live assignments. The degrees_learner_audit.py bidirectional check (assigned source appears on a matrix row; matrix-row source is assigned) will FAIL on any of these files until D2 assigns real source_ids.",
   "centering_clause": "Every topic must serve the value proposition \u2014 alleviate suffering, become wiser, genuinely flourish even when uncertain or overwhelmed \u2014 through the Walk of Life frame. When in doubt, exclude.",
   "source_syllabi": [
     {
@@ -31,153 +31,181 @@
       "opened_this_session": true
     }
   ],
-  "coverage_matrix": [
-    {
-      "topic": "What is contemplative science and practice",
-      "module": "mod-cont-1",
-      "status": "design-existing, under-scaled"
-    },
-    {
-      "topic": "History and religious roots of contemplative practice",
-      "module": "mod-cont-2",
-      "status": "MISSING"
-    },
-    {
-      "topic": "The appropriation question",
-      "module": "mod-cont-2",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Mindfulness meditation \u2014 focused attention and open monitoring",
-      "module": "mod-cont-3",
-      "status": "design-existing, under-scaled"
-    },
-    {
-      "topic": "Compassion meditation \u2014 loving-kindness, tonglen",
-      "module": "mod-cont-4",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Self-compassion practice",
-      "module": "mod-cont-5",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Gratitude, forgiveness, sympathetic joy",
-      "module": "mod-cont-6",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Yoga and body-based contemplative practice",
-      "module": "mod-cont-7",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Attention and the contemplative brain",
-      "module": "mod-cont-8",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Emotion regulation and contemplative practice",
-      "module": "mod-cont-9",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Contemplative practice and wellbeing",
-      "module": "mod-cont-10",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Neuroplasticity and meditation",
-      "module": "mod-cont-11",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Compassion training and its neural correlates",
-      "module": "mod-cont-11",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Empirical methods of contemplative science",
-      "module": "mod-cont-12",
-      "status": "MISSING"
-    },
-    {
-      "topic": "The daily practice \u2014 establishing and sustaining",
-      "module": "mod-cont-13",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Retreat \u2014 the intensive practice experience",
-      "module": "mod-cont-13",
-      "status": "OPTIONAL"
-    },
-    {
-      "topic": "The contemplative journal and micro-phenomenology",
-      "module": "mod-cont-14",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Awareness \u2014 plasticity, mindfulness, focus",
-      "module": "mod-cont-15",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Wellbeing \u2014 emotion, happiness, resilience",
-      "module": "mod-cont-15",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Connection \u2014 interdependence, compassion, diversity",
-      "module": "mod-cont-15",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Wisdom \u2014 identity, aesthetics, values",
-      "module": "mod-cont-15",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Integration \u2014 courage, performance",
-      "module": "mod-cont-15",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Clinical applications \u2014 MBSR, MBCT",
-      "module": "mod-cont-16",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Contemplative practice in education",
-      "module": "mod-cont-16",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Contemplative practice, burnout and compassion fatigue",
-      "module": "mod-cont-17",
-      "status": "MISSING"
-    },
-    {
-      "topic": "Contemplative practice and social justice",
-      "module": "mod-cont-17",
-      "status": "OPTIONAL"
-    },
-    {
-      "topic": "Contemplative practice and sustainability",
-      "module": "mod-cont-17",
-      "status": "OPTIONAL"
-    },
-    {
-      "topic": "Capstone \u2014 contemplative practice for the walk of life",
-      "module": "mod-cont-18",
-      "status": "MISSING"
-    }
-  ],
   "known_gaps": [
     "Yoga, empirical-methods and micro-phenomenology rows have no fully open university course found this session; report any unfillable row.",
     "Coursera free-to-audit tier must be checked; the genuinely-open spine is UCLA MARC, UCSD CFM, self-compassion.org, Greater Good in Action, Brown Contemplative Studies, Stanford CCARE.",
     "Hours arithmetic: existing ~1.0 measured hours vs a >=100 floor; the practice-as-instruction advantage (Brown specifies 120 min/week x 14 weeks = ~28 hours of practice alone) makes this the most favorable of the four."
   ],
   "d2_checkpoint_required": true,
-  "next_phase_owner": "The D2 agent fills this matrix with verified open resources and presents the D1 map + filled D2 matrix at the mandatory checkpoint."
+  "next_phase_owner": "The D2 agent fills this matrix with verified open resources and presents the D1 map + filled D2 matrix at the mandatory checkpoint.",
+  "topics": [
+    {
+      "topic": "What is contemplative science and practice",
+      "module": "mod-cont-1",
+      "status": "design-existing, under-scaled",
+      "sources": []
+    },
+    {
+      "topic": "History and religious roots of contemplative practice",
+      "module": "mod-cont-2",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "The appropriation question",
+      "module": "mod-cont-2",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Mindfulness meditation \u2014 focused attention and open monitoring",
+      "module": "mod-cont-3",
+      "status": "design-existing, under-scaled",
+      "sources": []
+    },
+    {
+      "topic": "Compassion meditation \u2014 loving-kindness, tonglen",
+      "module": "mod-cont-4",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Self-compassion practice",
+      "module": "mod-cont-5",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Gratitude, forgiveness, sympathetic joy",
+      "module": "mod-cont-6",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Yoga and body-based contemplative practice",
+      "module": "mod-cont-7",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Attention and the contemplative brain",
+      "module": "mod-cont-8",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Emotion regulation and contemplative practice",
+      "module": "mod-cont-9",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Contemplative practice and wellbeing",
+      "module": "mod-cont-10",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Neuroplasticity and meditation",
+      "module": "mod-cont-11",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Compassion training and its neural correlates",
+      "module": "mod-cont-11",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Empirical methods of contemplative science",
+      "module": "mod-cont-12",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "The daily practice \u2014 establishing and sustaining",
+      "module": "mod-cont-13",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Retreat \u2014 the intensive practice experience",
+      "module": "mod-cont-13",
+      "status": "OPTIONAL",
+      "sources": []
+    },
+    {
+      "topic": "The contemplative journal and micro-phenomenology",
+      "module": "mod-cont-14",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Awareness \u2014 plasticity, mindfulness, focus",
+      "module": "mod-cont-15",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Wellbeing \u2014 emotion, happiness, resilience",
+      "module": "mod-cont-15",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Connection \u2014 interdependence, compassion, diversity",
+      "module": "mod-cont-15",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Wisdom \u2014 identity, aesthetics, values",
+      "module": "mod-cont-15",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Integration \u2014 courage, performance",
+      "module": "mod-cont-15",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Clinical applications \u2014 MBSR, MBCT",
+      "module": "mod-cont-16",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Contemplative practice in education",
+      "module": "mod-cont-16",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Contemplative practice, burnout and compassion fatigue",
+      "module": "mod-cont-17",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Contemplative practice and social justice",
+      "module": "mod-cont-17",
+      "status": "OPTIONAL",
+      "sources": []
+    },
+    {
+      "topic": "Contemplative practice and sustainability",
+      "module": "mod-cont-17",
+      "status": "OPTIONAL",
+      "sources": []
+    },
+    {
+      "topic": "Capstone \u2014 contemplative practice for the walk of life",
+      "module": "mod-cont-18",
+      "status": "MISSING",
+      "sources": []
+    }
+  ]
 }

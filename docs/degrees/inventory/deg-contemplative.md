@@ -1,8 +1,9 @@
 # deg-contemplative — Phase D1 discipline inventory
 
 **Owner**: worker-pplx-degarchpsych-1026a (baton `deg-arch-inventory-psychx4`)
-**Built**: 2026-10-26 (T0 13:04:18 UTC, elapsed ~00:16)
-**Status**: D1 topic map — COMPLETE. D2 resource pool — NOT STARTED (checkpoint required before D3).
+**Built**: 2026-10-26 (T0 13:04:18 UTC)
+**Status**: **DRAFT / QC PENDING** — an advisor QC review found defects; the hours arithmetic is a candidate estimate, not a measured instruction-time claim (HOURS NOT YET ESTABLISHED). D2 resource pool — drafted but NOT verified to the skill standard. The D2 checkpoint is still required before any D3 work.
+**EXTRA-SOURCE CAVEAT (advisor QC)**: several rows below cite Harvard, Stanford, UCEAP and COA material that was surfaced in SEARCH RESULTS but NOT OPENED as syllabi this session. Those attributions need their own opened evidence at D2 or removal.
 **Scope**: per docs/degrees/CURRICULUM-ARCHITECTURE-1026.md — a degree means exhaustive foundational coverage of the discipline (contemplative science and practice), ≥100 measured hours, ≥10 modules, each module ≥6h with ≥3 distinct sources, teaching layer binding on every primary text.
 
 ## Centering clause (owner 2026-10-26)

@@ -1,7 +1,9 @@
 # deg-wellbeing — Phase D2 resource pool (candidate rows for the coverage matrix)
 
 **Owner**: worker-pplx-degarchpsych-1026a (baton `deg-arch-inventory-psychx4`)
-**Built**: 2026-10-26 (T0 13:04:18 UTC, elapsed ~00:25)
+**Built**: 2026-10-26 (T0 13:04:18 UTC)
+**Status**: D2 candidate pool — **DRAFT / QC PENDING** (advisor QC found defects; corrections landing). The hours arithmetic below is a candidate estimate, NOT a measured instruction-time claim — HOURS NOT YET ESTABLISHED. The mandatory D2 checkpoint must approve this pool before any Phase D3 work.
+**VERIFICATION-STATUS KEY** (narrowed per advisor QC): DRAFT (no credential page opened), CREDENTIALS-VERIFIED (an institutional biography page was successfully fetched and credentials logged — verifies credentials ONLY), or FULLY-VERIFIED (credentials + open access + coverage + duration all checked). No candidate in this pool is FULLY-VERIFIED yet.
 **Status**: D2 candidate pool — DRAFT. Every row below is a CANDIDATE for D2 verification, not yet verified to the skill standard. The mandatory D2 checkpoint must approve this pool before any Phase D3 work.
 **Scope**: per docs/degrees/CURRICULUM-ARCHITECTURE-1026.md — the D2 pool must fill the D1 coverage matrix with verified open resources; the hours arithmetic must support ≥6h × ≥10 modules.
 
@@ -14,7 +16,7 @@ Every candidate below must serve the value proposition — alleviate suffering, 
 All candidates are DRAFT until D2 verification (open-access check + instructor credentials on a biography or institutional page + what-topic-it-covers logging).
 
 ### mod-well-1 — What is positive psychology; PERMA; hedonic vs eudaimonic
-- **Coursera — The Science of Well-Being (Yale University, Laurie Santos)** — https://www.coursera.org/learn/the-science-of-well-being — free-to-audit, 10 modules, ~4 weeks at 10 h/week = ~40 hours. Covers: misconceptions about happiness, PERMA-adjacent wellbeing science, overcoming biases, intentional activities. The single strongest open candidate for this degree. **Verify at D2: Santos's Yale psychology faculty page.**
+- **Coursera — The Science of Well-Being (Yale University, Laurie Santos)** — https://www.coursera.org/learn/the-science-of-well-being — free-to-audit, 10 modules, ~4 weeks at 10 h/week = ~40 hours. Covers: misconceptions about happiness, PERMA-adjacent wellbeing science, overcoming biases, intentional activities. The single strongest open candidate for this degree. **CREDENTIALS-VERIFIED (this session): Santos's Yale faculty page (https://psychology.yale.edu/people/laurie-santos) was successfully fetched — Chandrika and Ranjan Tandon Professor of Psychology, PhD Harvard 2003. This verifies credentials ONLY; the Coursera free-to-audit tier, coverage and duration are NOT yet checked.**
 - **Coursera — Positive Psychology specialization (University of Michigan / CLIPP)** — https://www.coursera.org/specializations/positivepsychology — free-to-audit. Covers: positive psychology foundations, character strengths, grit, positive relationships. **Verify at D2: the Michigan faculty page for the named instructor.**
 
 ### mod-well-2 — Positive emotions; broaden-and-build
@@ -58,7 +60,7 @@ All candidates are DRAFT until D2 verification (open-access check + instructor c
 
 ### mod-well-12 — Gratitude, self-compassion, savoring
 - **Greater Good Science Center (UC Berkeley)** — the gratitude and self-compassion sections (Emmons's and Neff's research summaries).
-- **Kristin Neff's self-compassion.org** — https://self-compassion.org/ — open access. Covers: the three components of self-compassion, free guided practices. **VERIFIED to the skill standard (this session): Neff is Associate Professor of Educational Psychology at UT Austin (confirmed via Stanford CCARE at https://ccare.stanford.edu/people/kristen-neff-phd/ and her UT CV), founder of the Self-Compassion Scale and co-founder of the Mindful Self-Compassion program.**
+- **Kristin Neff's self-compassion.org** — https://self-compassion.org/ — open access. Covers: the three components of self-compassion, free guided practices. **CREDENTIALS RESEARCHED (search results only — NOT a successful biography-page fetch). A search-result snippet indicates Neff is Associate Professor of Educational Psychology at UT Austin. This is NOT CREDENTIALS-VERIFIED to the skill standard — an institutional biography page must be successfully fetched at D2.**
 - **Coursera — The Science of Well-Being (Yale, Santos)** — the gratitude-intervention module.
 
 ### mod-well-13 — Positive interventions; positive psychology in education, health, workplace
@@ -71,9 +73,9 @@ All candidates are DRAFT until D2 verification (open-access check + instructor c
 ### mod-well-15 — Capstone
 - **No dedicated open capstone found this session.** The capstone must be built from the degree's own material per the spec's capstone rule.
 
-## Hours arithmetic (draft)
+## Hours arithmetic (candidate estimate — NOT a measured instruction-time claim)
 
-The single strongest resource — Coursera's The Science of Well-Being (Yale, Santos) — is ~40 hours of instruction on its own. Combined with Leiden's De-Mystifying Mindfulness (~40 h), the Greater Good Science Center's open library, Greater Good in Action, the VIA survey, and Kristin Neff's open resources, the open pool supports the ≥100-hour floor, PROVIDED the D2 verification confirms each resource's credentials and its actual free-tier access. **This is the D2 checkpoint's core question.**
+**HOURS NOT YET ESTABLISHED.** The D2 checkpoint must establish the hours with: (a) accessible assignment URLs, (b) exact video/reading durations or a documented reading-time rule, (c) a deduplicated allocation (a whole course reused across multiple modules cannot be counted repeatedly), and (d) a documented rule on whether personal practice counts as instruction time. Any prior scale sketch in earlier drafts of this file was retracted per advisor QC — it mixed advertised course workload, estimated video lengths and independent practice, which are not measured instruction. **This is the D2 checkpoint's core question.**
 
 ## Honest-failure flags (declared, not hidden)
 
