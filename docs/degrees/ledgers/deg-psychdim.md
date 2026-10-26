@@ -3301,3 +3301,48 @@ producer-side corroboration only. Formal closure of the open item
 remains with deg-verify-b (the 5:37 stub receipt under
 `deg-verify-b/deg-video-recheck-open-items.md`) and the supervisor; the
 5721 window-boundary receipt is unaffected.
+
+### Post-publication owner read-back QC, 2026-10-26 08:00Z (worker-pplx-psychdim-1026g)
+
+Read-back of the published degree data in `site/assets/app.js`
+(read-only; app.js is deg-integrate property) against the data package
+and the QC'd module files:
+
+- Structural: PASS. `deg-psychdim` status `complete`, module array
+  `mod-pd-1..8`, app.js module objects identical to
+  `integration/deg-psychdim-data.json` on all shared fields, zero
+  dangling media refs (67 module-media entries checked against the
+  merged 404-source array, including legacy M06-AF07/M08-P09),
+  duration totals 39.5 h matching the packet 2,370 min, every module
+  carries activity and rubric.
+- Outcomes verbatim: 30/40 exact; 35/40 after en-dash/hyphen
+  normalisation (m3 "cue-event", m7 "cue-response" hyphenated in
+  app.js vs en dash in the files - typographic only). Remaining
+  deviations:
+  1. m4 "Practice and evidence" - SUBSTANTIVE: app.js reads "observe an
+     attention practice and judge the evidence separately, without
+     turning a difficult afternoon into a diagnosis" (a blend of the
+     module's intro framing), while the module's outcome list (m4
+     line 39) reads "compare focused attention with open monitoring,
+     follow or describe a bounded observation exercise, and
+     distinguish an anecdote from evidence of training efficacy".
+  2. m3 "Recurring thought and evidence" - compressed: "naming the
+     primary-study information it does not provide" became "naming
+     the limits".
+  3. m7 "Functional inquiry" - compressed: "including the narrow
+     EEMM/FAP application without conducting therapy" became
+     "including the narrow EEMM/FAP links and their uncertainty".
+- Rubric verbatim: 45/46; m1's scope-statement criterion is a
+  condensed rewrite of the longer module criterion.
+- Duration cross-check: `PD-M1-02` (Sainani LKiX54NglCo) published at
+  1:16:12, confirmed against the watch page this session; note the
+  earlier verifier receipt (sainani-transcript-routes-1026d) carries a
+  5,152s = 1:25:52 full-video figure that does not match the page
+  (verifier-side figure only; published data is correct).
+
+No published-data edit made by this owner (app.js is integrator-only).
+The m4 outcome text and the m3/m7/m1 compressions are routed to
+deg-integrate as a one-line-each repair against the module files; the
+supervisor rules whether the compressions are acceptable as-is. This
+read-back awards no gate; it is owner-side QC of already-published
+data.

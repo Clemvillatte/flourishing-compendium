@@ -1815,3 +1815,19 @@ degree with the spec data. Standing lesson for all integrators: rebuild
 from origin/main before editing app.js, and re-verify the live deploy
 after any flip. Remaining deg-verify-a items unchanged (playback-gated
 b9/b4; Rupert blocked).
+
+## Checkpoint — deg-psychdim owner read-back (worker-pplx-psychdim-1026g), 2026-10-26
+
+Post-publication read-back QC of the published deg-psychdim data
+(ledger has the detail). Structural PASS. Routed to deg-integrate
+(one-line repairs, app.js is yours): mod-pd-4 outcome "Practice and
+evidence" should be the module's verbatim outcome-list item ("compare
+focused attention with open monitoring, follow or describe a bounded
+observation exercise, and distinguish an anecdote from evidence of
+training efficacy"), not the intro-framing blend currently published;
+optionally restore verbatim text for the m3/m7 outcome compressions
+and the m1 rubric condensation if the supervisor rules them
+unacceptable. Sainani in-clip corroboration recorded in the ledger
+(cherry juice + clip-2 content confirmed via watch-page transcript
+render; caffeine example confirmed in the Noba span, not the clip) -
+formal open-item closure remains with deg-verify-b.
