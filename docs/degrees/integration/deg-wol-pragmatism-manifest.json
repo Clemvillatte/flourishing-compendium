@@ -48,14 +48,16 @@
    {
     "source_id": "PRAG-M3-03",
     "role": "teach",
-    "assignment": "James, Pragmatism Lecture II 'What Pragmatism Means' (Wikisource, public domain, 1907) - Reading B1: the contiguous passage from 'To take in the importance of Peirce's principle' to 'make nature over again by their aid' (952 words, measured on the page's rendered text; the span's zero-width-space marks sit between complete words and are read as separators); Reading B2 (same lecture, same source): the passage from 'I am well aware how odd it must seem' to 'our duty would be to shun truth, rather' (264 words, page-split words joined and verified joined). CORRECTION (deg-fix-content 2026-10-26): this entry previously printed only B1; the m3 doc assigns BOTH B1 and B2 from Lecture II",
-    "kind": "reading"
+    "assignment": "James, Pragmatism Lecture II 'What Pragmatism Means' (Wikisource, public domain, 1907) - Reading B1: the contiguous passage from 'To take in the importance of Peirce's principle' to 'make nature over again by their aid' (952 words, measured on the page's rendered text; the span's zero-width-space marks sit between complete words and are read as separators); Reading B2 (same lecture, same source): the passage from 'I am well aware how odd it must seem' to 'our duty would be to shun truth, rather' (264 words, page-split words joined and verified joined)",
+    "kind": "reading",
+    "note": "CORRECTION (deg-fix-content 2026-10-26): this entry previously printed only B1; the m3 doc assigns BOTH B1 and B2 from Lecture II"
    },
    {
     "source_id": "PRAG-M3-04",
     "role": "teach",
-    "assignment": "James, Pragmatism Lecture VI 'Pragmatism's Conception of Truth' (Wikisource, public domain, 1907) - Reading B3: the four selections quoted in full in the Step 2 teaching (157 words measured on the printed selections; noncontiguous passages of the lecture). CORRECTION (deg-fix-content 2026-10-26): this entry previously mislabeled the 264-word B2 passage as Lecture VI; per the m3 doc B2 belongs to Lecture II (see PRAG-M3-03) and Lecture VI's assignment is B3, the 157-word four selections",
-    "kind": "reading"
+    "assignment": "James, Pragmatism Lecture VI 'Pragmatism's Conception of Truth' (Wikisource, public domain, 1907) - Reading B3: the four selections quoted in full in the Step 2 teaching (157 words measured on the printed selections; noncontiguous passages of the lecture)",
+    "kind": "reading",
+    "note": "CORRECTION (deg-fix-content 2026-10-26): this entry previously mislabeled the 264-word B2 passage as Lecture VI; per the m3 doc B2 belongs to Lecture II (see PRAG-M3-03) and Lecture VI's assignment is B3, the 157-word four selections"
    }
   ],
   "mod-prag-4": [
@@ -80,8 +82,9 @@
    {
     "source_id": "PRAG-OPT-BERNSTEIN",
     "role": "optional",
-    "assignment": "Bernstein lecture on Dewey - OPTIONAL FURTHER VIEWING, orientation only, per the supervisor ruling recorded in the m4 doc (reviews/deg-wol-pragmatism-m4-bernstein-ruling-1026e.md): not an assigned source, carrying no outcome, tied to no rubric criterion, excluded from the workload totals. ADDED (deg-fix-content 2026-10-26): published in mod-prag-4 optional but missing from the manifest - verified against m4's verification-status section",
-    "kind": "video"
+    "assignment": "Bernstein lecture on Dewey - OPTIONAL FURTHER VIEWING, orientation only, per the supervisor ruling recorded in the m4 doc (reviews/deg-wol-pragmatism-m4-bernstein-ruling-1026e.md): not an assigned source, carrying no outcome, tied to no rubric criterion, excluded from the workload totals",
+    "kind": "video",
+    "note": "ADDED (deg-fix-content 2026-10-26): published in mod-prag-4 optional but missing from the manifest - verified against m4's verification-status section"
    }
   ],
   "mod-prag-5": [

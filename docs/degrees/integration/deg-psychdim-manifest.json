@@ -77,8 +77,9 @@
    {
     "source_id": "PD-M2-04",
     "role": "teach",
-    "assignment": "Hwang and Matsumoto, Functions of Emotions (Noba) - CORRECTED assignment per the m2 doc's Read section (deg-fix-content 2026-10-26): read the opening paragraph of 'Interpersonal Functions of Emotion,' stopping before 'Emotional Expressions Facilitate Specific Behaviors in Perceivers'; then from 'Cultural transmission of the meaning and information system' through 'culture also influences how people experience them as well' in 'Social and Cultural Functions of Emotion'; also the next paragraph's first three sentences, from 'Because one of the major functions' through 'once we have them.' About 450 words, NOT the whole module. (The earlier '~2,794 words' figure is the ledger's whole-BODY measurement, Introduction through the end of the social/cultural functions section - it is not the assignment.) SCHEMA LANE: the published mod-pd-2 locator still carries the 2,794-word body figure and must be replaced with this 450-word bounded assignment",
-    "kind": "reading"
+    "assignment": "Hwang and Matsumoto, Functions of Emotions (Noba)",
+    "kind": "reading",
+    "note": "CORRECTED assignment per the m2 doc's Read section (deg-fix-content 2026-10-26): read the opening paragraph of 'Interpersonal Functions of Emotion,' stopping before 'Emotional Expressions Facilitate Specific Behaviors in Perceivers'; then from 'Cultural transmission of the meaning and information system' through 'culture also influences how people experience them as well' in 'Social and Cultural Functions of Emotion'; also the next paragraph's first three sentences, from 'Because one of the major functions' through 'once we have them.' About 450 words, NOT the whole module. (The earlier '~2,794 words' figure is the ledger's whole-BODY measurement, Introduction through the end of the social/cultural functions section - it is not the assignment.) SCHEMA LANE: the published mod-pd-2 locator still carries the 2,794-word body figure and must be replaced with this 450-word bounded assignment"
    },
    {
     "source_id": "PD-M2-05",
@@ -139,9 +140,10 @@
    {
     "source_id": "PD-M3-07",
     "role": "data-block-extra",
-    "assignment": "Bazerman, Judgment and Decision Making (Noba) - CONFIRMED data-block extra (deg-fix-content 2026-10-26): no Bazerman assignment in any psychdim module doc (checked all eight; the m3 doc's Noba links are conditioning-and-learning and memory-encoding-storage-retrieval only). Remove from the mod-pd-3 required list in the data block, or route an owner decision if a judgment reading is wanted | RESOLVED 2026-10-26 by deg-fix-schema: removed from this module in the data block.",
+    "assignment": "Bazerman, Judgment and Decision Making (Noba) - no assignment in any psychdim module doc (not published)",
     "kind": "reading",
-    "note_only": true
+    "note_only": true,
+    "note": "CONFIRMED data-block extra (deg-fix-content 2026-10-26): no Bazerman assignment in any psychdim module doc (checked all eight; the m3 doc's Noba links are conditioning-and-learning and memory-encoding-storage-retrieval only). Remove from the mod-pd-3 required list, or route an owner decision if a judgment reading is wanted"
    },
    {
     "source_id": "PD-M3-08",
@@ -166,8 +168,9 @@
    {
     "source_id": "PD-M3-02",
     "role": "revisit",
-    "assignment": "Bloom lecture 7 - RETRIEVAL reuse in m4: assigned 47:26-54:53 ONLY (7:27, the narrowed selection/spotlight + blindness-demonstrations window). CLARIFIED (deg-fix-content 2026-10-26): this entry previously read 'different window from m3's 18:06-39:15' in parentheses, and the published mod-pd-4 entry then carried BOTH windows as segments - m3's 18:06-39:15 window is NOT assigned in m4 (the m4 doc explicitly narrows away from the memory/clinical survey covered by that window); the schema lane should drop the 18:06-39:15 segment from the mod-pd-4 entry, keeping only 47:26-54:53",
-    "kind": "video"
+    "assignment": "Bloom lecture 7 - RETRIEVAL reuse in m4: assigned 47:26-54:53 ONLY (7:27, the narrowed selection/spotlight + blindness-demonstrations window)",
+    "kind": "video",
+    "note": "CLARIFIED (deg-fix-content 2026-10-26): this entry previously read 'different window from m3's 18:06-39:15' in parentheses, and the published mod-pd-4 entry then carried BOTH windows as segments - m3's 18:06-39:15 window is NOT assigned in m4 (the m4 doc explicitly narrows away from the memory/clinical survey covered by that window); the schema lane should drop the 18:06-39:15 segment from the mod-pd-4 entry, keeping only 47:26-54:53"
    },
    {
     "source_id": "PD-M4-03",
@@ -184,8 +187,9 @@
    {
     "source_id": "PD-M4-05",
     "role": "teach",
-    "assignment": "Posner 2023, evolution and future of attention networks - VERIFIED m4 doc assignment: section 4 'Interaction of Networks,' first paragraph only, through 'largely different functions' [PMC10301152]. CORRECTION of this manifest's earlier entry: the source IS assigned in the m4 doc ('Posner, 2023' in the Read section) - the earlier 'NOT found' was a grep miss; NOT a data-block extra",
-    "kind": "reading"
+    "assignment": "Posner 2023, evolution and future of attention networks - VERIFIED m4 doc assignment: section 4 'Interaction of Networks,' first paragraph only, through 'largely different functions' [PMC10301152]",
+    "kind": "reading",
+    "note": "CORRECTION of this manifest's earlier entry: the source IS assigned in the m4 doc ('Posner, 2023' in the Read section) - the earlier 'NOT found' was a grep miss; NOT a data-block extra"
    },
    {
     "source_id": "PD-M4-06",
@@ -196,8 +200,9 @@
    {
     "source_id": "PD-M4-07",
     "role": "teach",
-    "assignment": "Fan and colleagues 2002, Attention Network Test - VERIFIED m4 doc assignment: journal pages 342-343, the three complete Results paragraphs beginning 'The alerting effect was calculated,' 'The orienting effect was calculated' and 'The conflict (executive control) effect was calculated'; skip intervening tables/figure, stop before 'Correlation Analyses' (university-hosted PDF). CORRECTION of this manifest's earlier entry: the source IS assigned in the m4 doc ('Fan and colleagues, 2002') - the earlier 'NOT found' was a grep miss; NOT a data-block extra",
-    "kind": "reading"
+    "assignment": "Fan and colleagues 2002, Attention Network Test - VERIFIED m4 doc assignment: journal pages 342-343, the three complete Results paragraphs beginning 'The alerting effect was calculated,' 'The orienting effect was calculated' and 'The conflict (executive control) effect was calculated'; skip intervening tables/figure, stop before 'Correlation Analyses' (university-hosted PDF)",
+    "kind": "reading",
+    "note": "CORRECTION of this manifest's earlier entry: the source IS assigned in the m4 doc ('Fan and colleagues, 2002') - the earlier 'NOT found' was a grep miss; NOT a data-block extra"
    }
   ],
   "mod-pd-5": [
@@ -252,8 +257,9 @@
    {
     "source_id": "PD-M1-06",
     "role": "teach",
-    "assignment": "Maitland 2024 - TEACH reuse in m5 (optional text reference in m1): Table 1's Self row and the table note only, for the narrow framework/application distinction (open article PMC12392214). ADDED (deg-fix-content 2026-10-26): this reuse was published in mod-pd-5 but missing from the manifest - verified against m5-self-and-identity.md's Read section",
-    "kind": "reading"
+    "assignment": "Maitland 2024 - TEACH reuse in m5 (optional text reference in m1): Table 1's Self row and the table note only, for the narrow framework/application distinction (open article PMC12392214)",
+    "kind": "reading",
+    "note": "ADDED (deg-fix-content 2026-10-26): this reuse was published in mod-pd-5 but missing from the manifest - verified against m5-self-and-identity.md's Read section"
    }
   ],
   "mod-pd-6": [
@@ -290,8 +296,9 @@
    {
     "source_id": "PD-M1-07",
     "role": "teach",
-    "assignment": "Woolley, Giurge and Fishbach 2025 - TEACH reuse in m6 (optional further reading in m1): the Abstract; the paragraph immediately before the main Study 3 heading (not 'Study 3 disclosures'); Study 2's opening paragraph and Study 3's Procedure paragraph; Study 4's opening paragraph, its Method paragraph beginning 'Of the 933 participants invited back,' and its first two Results paragraphs; then the General Discussion paragraph beginning 'Several open questions remain.' ADDED (deg-fix-content 2026-10-26): published in mod-pd-6 but missing from the manifest - verified against m6-motivational.md's Read section",
-    "kind": "reading"
+    "assignment": "Woolley, Giurge and Fishbach 2025 - TEACH reuse in m6 (optional further reading in m1): the Abstract; the paragraph immediately before the main Study 3 heading (not 'Study 3 disclosures'); Study 2's opening paragraph and Study 3's Procedure paragraph; Study 4's opening paragraph, its Method paragraph beginning 'Of the 933 participants invited back,' and its first two Results paragraphs; then the General Discussion paragraph beginning 'Several open questions remain.'",
+    "kind": "reading",
+    "note": "ADDED (deg-fix-content 2026-10-26): published in mod-pd-6 but missing from the manifest - verified against m6-motivational.md's Read section"
    }
   ],
   "mod-pd-7": [
@@ -334,8 +341,9 @@
    {
     "source_id": "PD-M7-09",
     "role": "teach",
-    "assignment": "Alarcon-Espinoza et al. 2022 - VERIFIED m7 doc assignment: Abstract and Methods' inclusion criterion (d) only, to compare natural-context measurement with its explicit under-18 population [PMC9171140]. CORRECTION of this manifest's earlier entry: the source IS assigned in the m7 doc ('Alarcon-Espinoza and colleagues, 2022' with accents) - the earlier 'grep count 0' was an accent miss; NOT a data-block extra",
-    "kind": "reading"
+    "assignment": "Alarcon-Espinoza et al. 2022 - VERIFIED m7 doc assignment: Abstract and Methods' inclusion criterion (d) only, to compare natural-context measurement with its explicit under-18 population [PMC9171140]",
+    "kind": "reading",
+    "note": "CORRECTION of this manifest's earlier entry: the source IS assigned in the m7 doc ('Alarcon-Espinoza and colleagues, 2022' with accents) - the earlier 'grep count 0' was an accent miss; NOT a data-block extra"
    },
    {
     "source_id": "PD-M7-04",
@@ -364,8 +372,9 @@
    {
     "source_id": "PD-M3-05",
     "role": "revisit",
-    "assignment": "Bouton, Noba conditioning-and-learning - REVISIT in m7: the Vocabulary entries 'Reinforcer' and 'Punisher' only, to check the increase/decrease definitions, not the full module. ADDED (deg-fix-content 2026-10-26): published in mod-pd-7 as role=revisit but missing from the manifest - verified against m7-overt-behavioural.md's Read section",
-    "kind": "reading"
+    "assignment": "Bouton, Noba conditioning-and-learning - REVISIT in m7: the Vocabulary entries 'Reinforcer' and 'Punisher' only, to check the increase/decrease definitions, not the full module",
+    "kind": "reading",
+    "note": "ADDED (deg-fix-content 2026-10-26): published in mod-pd-7 as role=revisit but missing from the manifest - verified against m7-overt-behavioural.md's Read section"
    }
   ],
   "mod-pd-8": [

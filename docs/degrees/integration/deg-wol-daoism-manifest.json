@@ -26,14 +26,16 @@
    {
     "source_id": "DAO-M1-04",
     "role": "teach",
-    "assignment": "Eno, Daodejing translation - m1 primary-text reading: Daodejing chapters 1, 8 and 76 (288 words measured on the opened text), one fully guided chapter reading per m1 Outcome 3. TIGHTENED (deg-fix-content 2026-10-26): the entry previously named only 'one fully guided chapter reading'; chapters and word count verified against m1-orientation.md's time-budget paragraph",
-    "kind": "reading"
+    "assignment": "Eno, Daodejing translation - m1 primary-text reading: Daodejing chapters 1, 8 and 76 (288 words measured on the opened text), one fully guided chapter reading per m1 Outcome 3",
+    "kind": "reading",
+    "note": "TIGHTENED (deg-fix-content 2026-10-26): the entry previously named only 'one fully guided chapter reading'; chapters and word count verified against m1-orientation.md's time-budget paragraph"
    },
    {
     "source_id": "DAO-M1-05",
     "role": "teach",
-    "assignment": "Eno, Zhuangzi Inner Chapters - m1 orientation survey: passage 2.20 (67 words measured on the opened text, counting rule: whitespace tokens of the printed passage including its asterisk marker and en dash). TIGHTENED (deg-fix-content 2026-10-26): the entry previously read only 'one assigned passage per figure'; passage and word count verified against m1-orientation.md's time-budget paragraph",
-    "kind": "reading"
+    "assignment": "Eno, Zhuangzi Inner Chapters - m1 orientation survey: passage 2.20 (67 words measured on the opened text, counting rule: whitespace tokens of the printed passage including its asterisk marker and en dash)",
+    "kind": "reading",
+    "note": "TIGHTENED (deg-fix-content 2026-10-26): the entry previously read only 'one assigned passage per figure'; passage and word count verified against m1-orientation.md's time-budget paragraph"
    }
   ],
   "mod-dao-2": [
@@ -82,8 +84,9 @@
    {
     "source_id": "DAO-M1-04",
     "role": "capstone-return",
-    "assignment": "Eno, Daodejing translation - the four capstone readings: Daodejing chapters 20, 44, 50 and 67 (chapter 44 re-read from m2; 466 words measured on the four chapters, chapter-number lines and a>/b>/c>/d> markers excluded, dash tokens counted), plus re-reads of m2's Daodejing chapters 11, 36, 78, m3's three assigned passages and, for elective-track learners, m4's Neiye sections 1, 2, 3, 12; no new video assigned; the primary text carries the objection material. CORRECTION (deg-fix-content 2026-10-26): this entry previously read 'assigned chapters incl. 2, 3, 12; elective track', which conflated m4's Neiye SECTION numbers (1, 2, 3, 12) with the m5 capstone CHAPTERS - verified against m5-capstone-synthesis.md's Primary-text paragraph",
-    "kind": "reading"
+    "assignment": "Eno, Daodejing translation - the four capstone readings: Daodejing chapters 20, 44, 50 and 67 (chapter 44 re-read from m2; 466 words measured on the four chapters, chapter-number lines and a>/b>/c>/d> markers excluded, dash tokens counted), plus re-reads of m2's Daodejing chapters 11, 36, 78, m3's three assigned passages and, for elective-track learners, m4's Neiye sections 1, 2, 3, 12; no new video assigned; the primary text carries the objection material",
+    "kind": "reading",
+    "note": "CORRECTION (deg-fix-content 2026-10-26): this entry previously read 'assigned chapters incl. 2, 3, 12; elective track', which conflated m4's Neiye SECTION numbers (1, 2, 3, 12) with the m5 capstone CHAPTERS - verified against m5-capstone-synthesis.md's Primary-text paragraph"
    }
   ]
  }
