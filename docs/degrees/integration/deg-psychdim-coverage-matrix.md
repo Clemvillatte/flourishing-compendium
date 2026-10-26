@@ -112,9 +112,9 @@ items in docs/degrees/integration/schema-lane-fix-list-1026a.md.
 
 Still OPEN as of this note: (1) PD-M2-04's published locator and assignment must be replaced
 with the 450-word bounded assignment (manifest assignment field now carries
-the full spliceable text; schema-lane flag live); (2) mod-pd-4's published PD-M3-02 revisit still carries m3's
-18:06-39:15 segment alongside m4's own window (manifest clarified and
-flagged); (3) the PD-M1-07/PD-M7-10 m8 requiredness and the PD-M3-07 Bazerman
+the full spliceable text; schema-lane flag live); (2) RESOLVED 2026-10-26: mod-pd-4's PD-M3-02 revisit now carries only the
+m4 window 47:26-54:53 (the extra m3 segment was dropped by the schema
+lane; verified in the m4 deep trace); (3) the PD-M1-07/PD-M7-10 m8 requiredness and the PD-M3-07 Bazerman
 extra were resolved by removal in the published state - the owner can still
 override; (4) the Gross 1998 bounded span remains UNRESOLVED-LOCATOR (doc
 basis, no printed span). RETRACTION 2026-10-26: an earlier version of this
@@ -125,3 +125,7 @@ closure note wrongly flagged PD-M3-03 as having an empty published locator
 ## Addendum (2026-10-26, later same session)
 
 A sixth deep trace was added for m8 (docs/degrees/verify/deg-psychdim-m8-deep-trace-1026a.md): PASS — the published 7-entry capstone-return set is doc-consistent, and the Woolley/Vohs removals are documented as the conservative resolution. With m2, m7 and m8 traced, the psychdim verdict's deep-trace reservation now covers the remaining capabilities (m1, m4, m5, m6) — the machine audit remains green across all eight.
+
+## Addendum 2 (2026-10-26, later same session)
+
+Deep traces added for m4 (docs/degrees/verify/deg-psychdim-m4-deep-trace-1026a.md, PASS - all seven sources value-by-value; the PD-M3-02 extra-segment flag is RESOLVED) and m8 (rev 2 - see the correction above). The renderer was inspected directly: acadAssignmentText renders segments, locator and note, never the assignment field, confirming that the fix list targets the learner-visible fields. A sweep of published note/locator strings for internal review language found zero leaks.

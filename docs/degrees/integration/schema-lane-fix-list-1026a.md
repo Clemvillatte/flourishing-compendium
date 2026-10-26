@@ -5,9 +5,10 @@ values diffed against the doc-verified manifests). The learner audit
 checks presence, not wording, so it cannot catch these. Each fix is a pure
 splice from the verified manifests — no judgement calls needed.
 
-STATUS (checked against app.js at commit 82d459d, 2026-10-26): items 1, 2
-and 5 below. Item 1 was fixed by the schema lane's ef654d0 reconciliation.
-Items 2, 3 and 5 are LIVE (still present in the published state).
+STATUS (checked against app.js at commit 04a96ce, 2026-10-26): items 1, 2
+and 4 are RESOLVED (1 and 4 fixed by the schema lane; 2 retracted by this
+lane). Items 3, 5 and 6 remain OPEN (still present in, or absent from, the
+published state).
 
 ## 1. PRAG-M3-04 (mod-prag-3, requiredMedia) — RESOLVED, no action
 
@@ -47,14 +48,17 @@ bounds.
   sentences from 'Because one of the major functions' through 'once we
   have them'; about 450 words total).
 
-## 4. PD-M3-02 (mod-pd-4, requiredMedia, revisit) — extra segment
+## 4. PD-M3-02 (mod-pd-4, requiredMedia, revisit) — RESOLVED, no action
 
 - CURRENT segments: `[{start: 47:26, end: 54:53}, {start: 18:06, end: 39:15}]`
 - WHY WRONG: the m4 doc assigns ONLY the 47:26-54:53 window for the m4
   retrieval; the 18:06-39:15 window is m3's own assignment and is already
   carried by mod-pd-3's PD-M3-02. The published `assignment` field is
   already correct (names only the 47:26-54:53 window).
-- FIX: drop the second segment; keep only `{start: 47:26, end: 54:53}`.
+- RESOLVED: the schema lane dropped the second segment; the published
+  entry now carries only `{start: 47:26, end: 54:53}`, matching the m4 doc
+  (line 55) exactly. Verified in the m4 deep trace
+  (docs/degrees/verify/deg-psychdim-m4-deep-trace-1026a.md).
 
 ## 5. BUD-B2-02 (mod-bud-2 and mod-bud-5, requiredMedia) — stale word label
 
