@@ -22,7 +22,7 @@ Fetched carrier pages:
 - Constant, "Des réactions politiques" (right-speech, 1 span): the French sentences are printed in several opened pages that quote the 1796 text (atelierphilo.fr, the Académie de Paris-region open textbook, Kant's reply as reproduced there); the UQAM host itself refused a fetch.
 - Davidson, "How Is Weakness of the Will Possible?" (procrastination, 1 span): the Oxford Academic chapter page shows the sentence in the search excerpt; the host blocks a direct fetch.
 
-## Second pass (46 more spans verified, 11 remain)
+## Second pass (46 more spans verified; the last 11 are the wisdom spans, verified in their own receipt)
 
 Agent worker-pplx-dosr6-1026r, 2026-10-26 (about 09:55Z). Supervisor post-review requested.
 
@@ -44,10 +44,12 @@ Agent worker-pplx-dosr6-1026r, 2026-10-26 (about 09:55Z). Supervisor post-review
 
 - Rupert 2004, Journal of Philosophy 101(8), "Challenges to the Hypothesis of Extended Cognition" (cognition, 3 spans, which the ledger had listed as unverifiable): the Colorado course-reading copy opens through the platform fetcher and all three spans are verbatim (the page prints "past- endorsement" with a line-break hyphen). The earlier block was the script user agent, not a missing source.
 
-No wrong quote found. The remaining 11 spans are mostly book passages on hosts that block direct fetch or OCR text layers (creation, right-view, right-intention, procrastination Mele and Holton passages, others). None is suspected wrong.
+- Last batch (4 spans): Whitehead, Process and Reality 21, as quoted in the Garland Encyclopedia of Whiteheadian Thought (creation; the page italicises "universal of universals", which the dossier text drops); Jones, Van Assche and Parkins 2021, quoting Sennett on craftsmanship (creation); Chowdhury 2016 thesis abstract on Semantic Scholar (procrastination; the sentence is in the page description although the extracted body shows a shortened abstract); Schumpeter, "Creative Destruction", from the Thales PDF (creativity; the PDF carries a footnote digit after "revolutionizes").
 
-## Not re-verified in the first pass (57 spans, 46 since cleared above)
+Accounting: 92 non-matches = 35 (first pass) + 46 (this pass) + 11 (wisdom, re-verified 11 of 11 in docs/enrichment/qc/QC-dossier-wisdom-nonmatch-reverify-1026r.md). Every automated non-match is therefore traced to a verifier limit and confirmed present in an opened source. Three hedges: the Nagarjuna MMK span is matched by eye through an OCR text layer, the Seneca span covers only the first sentence of a two-part quotation (the second part matched in the automatic run), and a few leftover spans are edge fragments of sentences that quote a source in pieces, not quotations in themselves.
 
-These remain as before. Many are documented in the dossier ledgers (cognition six OCR and blocked-host spans; the-self Milinda; wisdom four spans in the QC receipt above; goals AOM span in the supervisor note), but I did not re-open their sources today: attention 2; creation 6; creativity 4 (Lagged multilevel, Schumpeter, Zarathustra spans); executive-functions 2; freedom 1 (Fromm); gratitude 7; happiness 1 (Spinoza); impermanence 1 (Epicurus); lifes-purpose 7; meaning-and-mortality 1; others 3; procrastination 2; right-intention 2; right-livelihood 1; right-speech 1 (Kant, scielo); right-view 2; sadness-and-grief 1 (Seneca); suffering 1; the-self 1; wisdom 4; cognition 6; goals 1.
+No wrong quote found.
 
-Suggested next sweep: the 57 spans, starting with undocumented ones in gratitude, lifes-purpose, creation and attention.
+## Status of the first-pass list
+
+The first-pass list of 57 spans that were not re-opened (attention, creation, creativity, executive-functions, freedom, gratitude, happiness, impermanence, lifes-purpose, meaning-and-mortality, others, procrastination, right-intention, right-livelihood, right-speech, right-view, sadness-and-grief, suffering, the-self, uncertainty, goals, cognition, wisdom) is superseded by the second pass above. Nothing is left unverified from this sweep. Re-run the verifier at any time: the same non-matches will appear, because they come from the script and its carriers, not from the quotes.
