@@ -46,21 +46,21 @@
       "sources": []
     },
     {
-      "topic": "Hedonic vs eudaimonic wellbeing",
+      "topic": "Hedonic and eudaimonic happiness; the ancient question",
       "module": "mod-well-1",
       "status": "PENDING \u2014 the hedonic vs eudaimonic distinction is not explicitly established by any of the three opened documents; the Haidt syllabus requires Keyes & Haidt Flourishing (a book title only, not a passage); needs its own opened evidence at D2",
       "sources": []
     },
     {
-      "topic": "Positive emotions; broaden-and-build",
+      "topic": "Positive emotions; broaden-and-build theory",
       "module": "mod-well-2",
       "status": "design-existing, under-scaled \u2014 supported by Haidt C7 10/13 Being Nice (Fredrickson broaden-and-build)",
       "sources": []
     },
     {
-      "topic": "Positivity ratio; upward spirals",
+      "topic": "The positivity ratio; upward spirals",
       "module": "mod-well-2",
-      "status": "MISSING",
+      "status": "PENDING \u2014 not explicitly in any of the three opened documents",
       "sources": []
     },
     {
@@ -70,13 +70,13 @@
       "sources": []
     },
     {
-      "topic": "Flow and optimal experience",
+      "topic": "Flow \u2014 the psychology of optimal experience (Csikszentmihalyi)",
       "module": "mod-well-4",
       "status": "MISSING",
       "sources": []
     },
     {
-      "topic": "Character strengths and virtues (VIA)",
+      "topic": "Character strengths and virtues (Peterson, Seligman)",
       "module": "mod-well-5",
       "status": "MISSING",
       "sources": []
@@ -88,7 +88,7 @@
       "sources": []
     },
     {
-      "topic": "Empathy, compassion, altruism",
+      "topic": "Empathy, compassion and altruism",
       "module": "mod-well-6",
       "status": "MISSING",
       "sources": []
@@ -100,13 +100,13 @@
       "sources": []
     },
     {
-      "topic": "Meaning in life (coherence, purpose, significance)",
+      "topic": "Meaning in life",
       "module": "mod-well-8",
-      "status": "MISSING",
+      "status": "PARTIAL \u2014 CPP outline section E (Search for meaning) supports the general topic; the three-levels taxonomy is PENDING",
       "sources": []
     },
     {
-      "topic": "Purpose \u2014 finding and following it",
+      "topic": "Purpose \u2014 how to find and follow it",
       "module": "mod-well-8",
       "status": "MISSING",
       "sources": []
@@ -124,31 +124,31 @@
       "sources": []
     },
     {
-      "topic": "Resilience",
+      "topic": "Resilience; the capacity to recover",
       "module": "mod-well-10",
       "status": "MISSING",
       "sources": []
     },
     {
-      "topic": "Post-traumatic growth",
+      "topic": "Post-traumatic growth; the paradox of suffering",
       "module": "mod-well-10",
       "status": "MISSING",
       "sources": []
     },
     {
-      "topic": "Growth mindset",
+      "topic": "Mindset and growth (Dweck)",
       "module": "mod-well-10",
       "status": "PARTIAL",
       "sources": []
     },
     {
-      "topic": "Mindfulness and MBSR",
+      "topic": "Mindfulness meditation; MBSR",
       "module": "mod-well-11",
-      "status": "MISSING",
+      "status": "PARTIAL \u2014 Haidt C5 supports meditation; MBSR is PENDING (the Brown M&C course is modeled on MBSR but that's a different degree)",
       "sources": []
     },
     {
-      "topic": "Gratitude practice",
+      "topic": "Gratitude practice; the gratitude journal",
       "module": "mod-well-12",
       "status": "MISSING",
       "sources": []
@@ -160,21 +160,21 @@
       "sources": []
     },
     {
-      "topic": "Savoring",
+      "topic": "Savoring and positive reminiscence",
       "module": "mod-well-12",
-      "status": "OPTIONAL",
+      "status": "PENDING \u2014 not in any of the three opened documents",
       "sources": []
     },
     {
-      "topic": "Positive psychology in education, health, workplace",
+      "topic": "Positive psychology in education, health and the workplace",
       "module": "mod-well-13",
       "status": "MISSING",
       "sources": []
     },
     {
-      "topic": "Positive interventions \u2014 what works",
+      "topic": "Positive interventions",
       "module": "mod-well-13",
-      "status": "MISSING",
+      "status": "PARTIAL \u2014 UT Austin journal entries support the general topic; comparative evidence is PENDING",
       "sources": []
     },
     {
@@ -190,5 +190,5 @@
       "sources": []
     }
   ],
-  "reconciliation_note": "Reconciled with the corrected deg-wellbeing.md this session (QC pass 6): Haidt is Fall 2004 Psychology 403 with C1-C14 classes; UT Tyler is Kristie Allen (Happiness Lab podcast, W1-W15); the THIRD QUALIFYING SYLLABUS is UT Austin 41375 Positive Psychology Spring 2024, Instructor Dr. Alissa Mrazek (module-start outline Jan 16 Intro through Apr 11 Social connection; 7 learning outcomes; 20% journal entries for practice \u2014 described as a MODULE-START OUTLINE not a complete week-by-week schedule). CPP is SUPPLEMENTARY. PERMA, positivity ratio, VIA, reconciliation, meaning-taxonomy, comparative-intervention-evidence all PENDING (not in any of the three opened documents)."
+  "reconciliation_note": "Reconciled with the corrected deg-wellbeing.md this session (QC pass 7 \u2014 WHOLE-FILE reconciliation): all 20 mismatched topic names fixed to match the Markdown exactly; statuses updated for PENDING topics. Haidt is Fall 2004 Psychology 403 with C1-C14 classes; UT Tyler is Kristie Allen (Happiness Lab podcast, W1-W15); the THIRD QUALIFYING SYLLABUS is UT Austin 41375 Positive Psychology Spring 2024, Instructor Dr. Alissa Mrazek (module-start outline Jan 16 Intro through Apr 11 Social connection; 7 learning outcomes; 20% journal entries). CPP is SUPPLEMENTARY. PERMA, positivity ratio, VIA, reconciliation, meaning-taxonomy, comparative-intervention-evidence, savoring all PENDING (not in any of the three opened documents)."
 }
