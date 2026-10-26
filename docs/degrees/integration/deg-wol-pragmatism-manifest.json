@@ -1,0 +1,29 @@
+{"degree_id": "deg-wol-pragmatism",
+ "built": "2026-10-26",
+ "built_by": "strategist-pplx-1026a (baton degrees-strategist)",
+ "provenance": "Transcribed from the QC'd module files under docs/degrees/modules/deg-wol-pragmatism/ (word counts and locators are the files' own measured values; phase-0 contract per docs/degrees/AUDIT-2026-10-26.md). The learner-audit gate diffs this manifest against the integrated data block: every entry below must appear in the module's required/optional media.",
+ "modules": {
+  "mod-prag-1": [
+   {"source_id": "PRAG-M1-01", "role": "teach", "assignment": "Philosophy Talk episode, whole (no printed timestamps; whole episode assigned)", "kind": "video"},
+   {"source_id": "PRAG-M1-03", "role": "teach", "assignment": "Peirce, How to Make Our Ideas Clear (Wikisource) - excerpt 647 words, opens 'clearness of apprehension is as follows', closes at the end of the diamond/free-will examples", "kind": "reading"},
+   {"source_id": "PRAG-M1-02", "role": "optional", "assignment": "Peirce, The Fixation of Belief (Wikisource) - further reading (rest of the essay beyond the assigned excerpts)", "kind": "reading"}
+  ],
+  "mod-prag-2": [
+   {"source_id": "PRAG-M1-02", "role": "teach", "assignment": "Peirce, The Fixation of Belief (Wikisource) - three measured passages: 834 words (closes '...purpose'), 1,368 words (closes '...they ought to remain'), 2,371 words (covers the methods of tenacity/a priori/authority, with the criticism of each)", "kind": "reading"}
+  ],
+  "mod-prag-3": [
+   {"source_id": "PRAG-M3-01", "role": "teach", "assignment": "Misak, Cambridge Pragmatism lecture (video-first teaching)", "kind": "video"},
+   {"source_id": "PRAG-M3-02", "role": "teach", "assignment": "James, The Will to Believe (Wikisource, public domain) - Reading A, 2,532 words (genuine-options passage: living, forced, momentous)", "kind": "reading"},
+   {"source_id": "PRAG-M3-03", "role": "teach", "assignment": "James, Pragmatism Lecture II (Wikisource) - Reading B1, 952 words ('...principle' through 'make nature over again by their aid')", "kind": "reading"},
+   {"source_id": "PRAG-M3-04", "role": "teach", "assignment": "James, Pragmatism Lecture VI (Wikisource) - Reading B2, 264 words ('...seem' through 'our duty would be to shun truth, rather')", "kind": "reading"}
+  ],
+  "mod-prag-4": [
+   {"source_id": "PRAG-M4-01", "role": "teach", "assignment": "Dewey, How We Think (Project Gutenberg) - two measured passages: 778 words ('...trivial, may enforce this lesson' through 'is wholly futile') and 476 words ('...judgments' through 'the object is that which objects')", "kind": "reading"},
+   {"source_id": "PRAG-M4-02", "role": "teach", "assignment": "Dewey, Human Nature and Conduct (Project Gutenberg) - deliberation passage ('deliberation is a dramatic rehearsal...')", "kind": "reading"},
+   {"source_id": "PRAG-M4-03", "role": "teach", "assignment": "Dewey, The Public and Its Problems (Project Gutenberg) - 374 words ('...in becoming a majority' passage on rudimentary political assets)", "kind": "reading"}
+  ],
+  "mod-prag-5": [
+   {"source_id": "PRAG-M3-01", "role": "capstone-return", "assignment": "Misak lecture - optional revisit only, not required teaching", "kind": "video"}
+  ]
+ }
+}
