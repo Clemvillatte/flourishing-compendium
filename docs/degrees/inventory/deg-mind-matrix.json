@@ -46,7 +46,7 @@
   "next_phase_owner": "The D2 agent (baton deg-arch-build, or the same deg-arch-inventory-psychx4 holder if the supervisor routes it) fills this matrix with verified open resources and presents the D1 map + filled D2 matrix at the mandatory checkpoint.",
   "topics": [
     {
-      "topic": "What is cognitive science; five levels of analysis",
+      "topic": "What is cognitive science; Marr's three levels (computational, algorithmic, implementational)",
       "module": "mod-mind-1",
       "status": "design-existing, under-scaled",
       "sources": []
@@ -217,24 +217,26 @@
   "measured_hours": {
     "mit_ocw_9_13": {
       "instructor": "Nancy Kanwisher (CREDENTIALS-VERIFIED)",
-      "videos": 17,
+      "unique_lessons": 17,
       "hours": 20.15,
-      "source": "archive.org metadata MIT9.13S19, second-level per-video durations"
+      "source": "archive.org metadata MIT9.13S19, no duplicates found"
     },
     "mit_ocw_9_00sc": {
-      "instructor": "John Gabrieli (CREDENTIALS-VERIFIED: his MIT BCS faculty page https://bcs.mit.edu/directory/john-gabrieli was successfully fetched \u2014 Brain and Cognitive Sciences faculty, research on neurodevelopmental differences (autism, dyslexia, ADHD) and mental health differences (anxiety, depression), brain-behavior relationships across the lifespan, MRI/fMRI/EEG methods)",
-      "videos": 27,
-      "hours": 23.04,
-      "source": "archive.org metadata MIT9.00SCF11"
+      "instructor": "John Gabrieli (CREDENTIALS-VERIFIED)",
+      "unique_lessons": 24,
+      "hours": 23.02,
+      "source": "archive.org metadata MIT9.00SCF11, 27 raw files minus 3 sixteen-second track derivatives"
     },
     "mit_ocw_9_40": {
       "instructor": "Michale Fee (CREDENTIALS-VERIFIED)",
-      "videos": 40,
-      "hours": 49.11,
-      "source": "archive.org metadata MIT9.40S18"
+      "unique_lessons": 20,
+      "hours": 24.56,
+      "source": "archive.org metadata MIT9.40S18, 40 raw files = 20 unique lessons each duplicated (.ia.mp4 + plain .mp4)"
     },
-    "subtotal_measured_video_hours": 92.3,
-    "caveat": "measured VIDEO time only; the D2 checkpoint must rule on whether video-only counts as measured instruction time and whether a reading-time rule is needed; the remaining ~8h to the 100h floor must come from additional verified resources"
+    "subtotal_measured_video_hours": 67.73,
+    "full_manifest": "docs/degrees/inventory/deg-mind-mitocw-video-manifest.json",
+    "retraction": "the earlier 92.30h figure double-counted 9.40's duplicated files and counted 3 sixteen-second track derivatives in 9.00SC; the corrected total is 67.73h from 61 unique lessons \u2014 a ~32h gap to the 100h floor",
+    "caveat": "measured VIDEO time only; 17 proposed modules x 6h minimum = >=102h required; on-scope filtering of the 61 lessons against the coverage matrix is NOT yet done; the D2 checkpoint must rule on whether video-only counts as measured instruction time"
   },
   "d1_syllabus_evidence_correction": "the Columbia COGS1001.pdf was re-fetched WITHOUT an extraction prompt this session and read verbatim \u2014 the actual syllabus is 'Introduction to Cognitive Science (COGS 1001), Fall 2023' by Christopher Baldassano (Columbia Psychology, CREDENTIALS-VERIFIED) and John Morrison (Barnard Philosophy, founding director of the Cognitive Science program, CREDENTIALS-VERIFIED); the earlier 'PSYC UN2410, Spring 2025, Raffone & Bondi' attribution and the 'wk 14 mindfulness' lecture were hallucinations and are retracted"
 }

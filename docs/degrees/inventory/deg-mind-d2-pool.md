@@ -94,22 +94,24 @@ The pool below maps each proposed module from the D1 coverage matrix to the open
 ### mod-mind-17 — Capstone
 - **No dedicated open capstone found this session.** The capstone is per-degree and must be built from the degree's own material per the spec's capstone rule.
 
-## Hours arithmetic (MEASURED for the three MIT OCW courses — this is the first real instruction-time evidence)
+## Hours arithmetic (MEASURED for the three MIT OCW courses — corrected after a duplicate-file audit)
 
-**MEASURED VIDEO HOURS (verified this session via the archive.org metadata for each MIT OCW course's hosted videos, with per-video second-level durations):**
+**MEASURED VIDEO HOURS (corrected this session after an archive.org duplicate-file audit; the per-video second-level durations and the full manifest are saved at docs/degrees/inventory/deg-mind-mitocw-video-manifest.json):**
 
-| MIT OCW course | Instructor | Videos | Measured video hours | Notes |
+| MIT OCW course | Instructor | Unique lessons | Measured video hours | Notes |
 |---|---|---|---|---|
-| 9.13 The Human Brain (Spring 2019) | Nancy Kanwisher (CREDENTIALS-VERIFIED) | 17 | **20.15 h** (72,552 sec) | Lectures 1, 2, 4-11, 13, 15, 16, 18, 20, 21, 24 — durations per file, e.g. lec01 79:55, lec02 50:18, lec08 83:09, lec21 83:22, lec24 56:42 |
-| 9.00SC Introduction to Psychology (Fall 2011) | John Gabrieli (CREDENTIALS-VERIFIED) | 27 | **23.04 h** | independent-study format with full video |
-| 9.40 Introduction to Neural Computation (Spring 2018) | Michale Fee (CREDENTIALS-VERIFIED) | 40 | **49.11 h** | neural computation, statistical inference |
-| **Subtotal (three MIT OCW courses, deduplicated)** | | 84 | **92.30 h** | near the ≥100h floor from MIT OCW alone |
+| 9.13 The Human Brain (Spring 2019) | Nancy Kanwisher (CREDENTIALS-VERIFIED) | 17 | **20.15 h** (72,552 sec) | Lectures 1, 2, 4-11, 13, 15, 16, 18, 20, 21, 24 — no duplicates found |
+| 9.00SC Introduction to Psychology (Fall 2011) | John Gabrieli (CREDENTIALS-VERIFIED) | 24 | **23.02 h** | 27 raw files minus 3 sixteen-second "track" derivatives (lec07_track1_2, lec07_track4_18, lec07_track4_2) |
+| 9.40 Introduction to Neural Computation (Spring 2018) | Michale Fee (CREDENTIALS-VERIFIED) | 20 | **24.56 h** | 40 raw files = 20 unique lessons each duplicated (.ia.mp4 derivative + plain .mp4); the earlier "40 videos / 49.11h" figure DOUBLE-COUNTED and is retracted |
+| **Subtotal (three MIT OCW courses, deduplicated and audited)** | | 61 | **67.73 h** | against a ≥100h floor — a ~32h gap, NOT the ~8h gap reported earlier |
+
+**RETRACTION (advisor QC pass 3):** the earlier "92.30h / ~8h gap" figure was WRONG — 9.40's 40 files are 20 unique lessons each duplicated, and 9.00SC's 27 files include 3 sixteen-second track derivatives. The corrected total is 67.73h from 61 unique lessons. The remaining ~32h to the 100h floor must come from additional verified resources.
 
 **CRITICAL CAVEATS (advisor QC):**
-- The three MIT OCW courses cover DIFFERENT topics (9.13 is perception/cognition neuroscience; 9.00SC is broad psychology; 9.40 is neural computation) so the 92.30h is a deduplicated total. But the D2 checkpoint must confirm that each proposed module gets ≥6h and ≥3 distinct sources, not just that the total is high.
-- **Fee CREDENTIALS-VERIFIED (this session): his MIT BCS faculty page (https://bcs.mit.edu/directory/michale-fee) was successfully fetched — Glen V. and Phyllis F. Dorflinger Professor, head of the MIT Department of Brain and Cognitive Sciences (appointed 2021), McGovern Institute investigator, PhD Applied Physics Stanford 1992, research on neural mechanisms of learned sequences (songbird RA/HVC) and reinforcement learning.**
-- The remaining ≥8 hours to reach the 100h floor must come from additional verified resources (e.g. SEP entries with a documented reading-time rule, open course pages, open lectures) — not from re-counting these three courses.
-- This 92.30h is measured VIDEO TIME ONLY, not the full course time (which would include readings, problem sets and assignments). The D2 checkpoint must rule on whether measured video time alone counts as "measured instruction time" or whether a reading-time rule is also needed.
+- The three MIT OCW courses cover DIFFERENT topics so the 67.73h is a deduplicated total. But the D2 checkpoint must confirm that each proposed module gets ≥6h and ≥3 distinct sources, not just that the total is high.
+- **17 proposed modules × 6h minimum = ≥102h required, not merely 100h** — the module count and the hours floor interact; the D2 checkpoint must rule on whether the module count should be reduced or the pool expanded.
+- This 67.73h is measured VIDEO TIME ONLY, not the full course time (which would include readings, problem sets and assignments). The D2 checkpoint must rule on whether measured video time alone counts as "measured instruction time" or whether a reading-time rule is also needed.
+- **On-scope filtering is NOT yet done**: counting the entire 9.40 Neural Computation course (20 lessons on mathematical neuron models, statistical inference, etc.) conflicts with the finite-scope exclusions unless each included lesson has a specific on-matrix Walk-of-Life justification. The D2 checkpoint must filter the 61 lessons against the coverage matrix before any hours claim is final.
 
 **This is the D2 checkpoint's core question.**
 
