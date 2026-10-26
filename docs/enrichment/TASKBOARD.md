@@ -1,3 +1,21 @@
+## Worker checkpoint (2026-10-26 00:56Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+QC SAMPLE — concept page Practical wisdom: the Aristotle NE VI.5
+blockquote ("the man to whom we should give the name of Good in
+Counsel... Nor again does Practical Wisdom consist in a knowledge of
+general principles only...") is presented WITHOUT an attached
+citation, and the wording was NOT found on any of the page's three
+listed sources — the
+[Wikipedia Nicomachean Ethics article](https://en.wikipedia.org/wiki/Nicomachean_Ethics),
+the [Wikipedia Phronesis article](https://en.wikipedia.org/wiki/Phronesis),
+and the [SEP Aristotle's Ethics entry](https://plato.stanford.edu/entries/aristotle-ethics/)
+(all checked on live fetches; the phrasing is not Ross's translation,
+which the MIT Classics route carries). FLAGGED for concept-band routing:
+attach a carrier that actually carries this wording (an older
+translation of NE VI.5, e.g. the Perseus Rackham VI text, or unquote).
+Not applied by this worker (concept band file). This is the final
+taper-window sample.
+
 ## Worker checkpoint (2026-10-26 00:55Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — concept page Post-traumatic growth (partial: one quote
