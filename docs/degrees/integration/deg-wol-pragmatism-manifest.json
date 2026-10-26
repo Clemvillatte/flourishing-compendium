@@ -1,99 +1,100 @@
 {
- "degree_id": "deg-wol-pragmatism",
- "built": "2026-10-26",
- "built_by": "strategist-pplx-1026a (baton degrees-strategist)",
- "provenance": "Transcribed from the QC'd module files under docs/degrees/modules/deg-wol-pragmatism/ (word counts and locators are the files' own measured values; phase-0 contract per docs/degrees/AUDIT-2026-10-26.md). The learner-audit gate diffs this manifest against the integrated data block: every entry below must appear in the module's required/optional media. | Corrected 2026-10-26 by worker-pplx-degfixcontent-1026a: PRAG-M3-03 now carries BOTH Lecture II readings (B1 952 words + B2 264 words), and PRAG-M3-04 is corrected from the mislabeled 'B2 Lecture VI' to Lecture VI's actual assignment, B3 (157 words, four printed selections) - both fixes verified against m3-truth-and-the-will-to-believe.md Step 2. Data-block gap for the schema lane: mod-prag-3 currently integrates only PRAG-M3-01 (Misak); PRAG-M3-02/03/04 must be added. | PRAG-OPT-BERNSTEIN optional entry added 2026-10-26 (published but missing from the manifest; verified against the m4 doc's supervisor ruling - optional further viewing, orientation only). | Full doc-level verification completed 2026-10-26 by worker-pplx-degfixcontent-1026a: every remaining manifest entry checked against its module doc (m1 Philosophy Talk 49:24 whole + Peirce 647-word excerpt; m2 Fixation passages 834/1,368/2,371; m3 as corrected this session; m4 Dewey 778/374 words + the deliberation passage; m5 Misak optional revisit) - all values confirmed; the m3 B2/B3 correction stands as this session's only pragmatism manifest repair.",
- "modules": {
-  "mod-prag-1": [
-   {
-    "source_id": "PRAG-M1-01",
-    "role": "teach",
-    "assignment": "Philosophy Talk episode, whole (no printed timestamps; whole episode assigned)",
-    "kind": "video"
-   },
-   {
-    "source_id": "PRAG-M1-03",
-    "role": "teach",
-    "assignment": "Peirce, How to Make Our Ideas Clear (Wikisource) - excerpt 647 words, opens 'clearness of apprehension is as follows', closes at the end of the diamond/free-will examples",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PRAG-M1-02",
-    "role": "optional",
-    "assignment": "Peirce, The Fixation of Belief (Wikisource) - further reading (rest of the essay beyond the assigned excerpts)",
-    "kind": "reading"
-   }
-  ],
-  "mod-prag-2": [
-   {
-    "source_id": "PRAG-M1-02",
-    "role": "teach",
-    "assignment": "Peirce, The Fixation of Belief (Wikisource) - three measured passages: 834 words (closes '...purpose'), 1,368 words (closes '...they ought to remain'), 2,371 words (covers the methods of tenacity/a priori/authority, with the criticism of each)",
-    "kind": "reading"
-   }
-  ],
-  "mod-prag-3": [
-   {
-    "source_id": "PRAG-M3-01",
-    "role": "teach",
-    "assignment": "Misak, Cambridge Pragmatism lecture (video-first teaching)",
-    "kind": "video"
-   },
-   {
-    "source_id": "PRAG-M3-02",
-    "role": "teach",
-    "assignment": "James, The Will to Believe (Wikisource, public domain) - Reading A, 2,532 words (genuine-options passage: living, forced, momentous)",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PRAG-M3-03",
-    "role": "teach",
-    "assignment": "James, Pragmatism Lecture II 'What Pragmatism Means' (Wikisource, public domain, 1907) - Reading B1: the contiguous passage from 'To take in the importance of Peirce's principle' to 'make nature over again by their aid' (952 words, measured on the page's rendered text; the span's zero-width-space marks sit between complete words and are read as separators); Reading B2 (same lecture, same source): the passage from 'I am well aware how odd it must seem' to 'our duty would be to shun truth, rather' (264 words, page-split words joined and verified joined)",
-    "kind": "reading",
-    "note": "CORRECTION (deg-fix-content 2026-10-26): this entry previously printed only B1; the m3 doc assigns BOTH B1 and B2 from Lecture II"
-   },
-   {
-    "source_id": "PRAG-M3-04",
-    "role": "teach",
-    "assignment": "James, Pragmatism Lecture VI 'Pragmatism's Conception of Truth' (Wikisource, public domain, 1907) - Reading B3: the four selections quoted in full in the Step 2 teaching (157 words measured on the printed selections; noncontiguous passages of the lecture)",
-    "kind": "reading",
-    "note": "CORRECTION (deg-fix-content 2026-10-26): this entry previously mislabeled the 264-word B2 passage as Lecture VI; per the m3 doc B2 belongs to Lecture II (see PRAG-M3-03) and Lecture VI's assignment is B3, the 157-word four selections"
-   }
-  ],
-  "mod-prag-4": [
-   {
-    "source_id": "PRAG-M4-01",
-    "role": "teach",
-    "assignment": "Dewey, How We Think (Project Gutenberg) - two measured passages: 778 words ('...trivial, may enforce this lesson' through 'is wholly futile') and 476 words ('...judgments' through 'the object is that which objects')",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PRAG-M4-02",
-    "role": "teach",
-    "assignment": "Dewey, Human Nature and Conduct (Project Gutenberg) - deliberation passage ('deliberation is a dramatic rehearsal...')",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PRAG-M4-03",
-    "role": "teach",
-    "assignment": "Dewey, The Public and Its Problems (Project Gutenberg) - 374 words ('...in becoming a majority' passage on rudimentary political assets)",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PRAG-OPT-BERNSTEIN",
-    "role": "optional",
-    "assignment": "Bernstein lecture on Dewey - OPTIONAL FURTHER VIEWING, orientation only, per the supervisor ruling recorded in the m4 doc (reviews/deg-wol-pragmatism-m4-bernstein-ruling-1026e.md): not an assigned source, carrying no outcome, tied to no rubric criterion, excluded from the workload totals",
-    "kind": "video",
-    "note": "ADDED (deg-fix-content 2026-10-26): published in mod-prag-4 optional but missing from the manifest - verified against m4's verification-status section"
-   }
-  ],
-  "mod-prag-5": [
-   {
-    "source_id": "PRAG-M3-01",
-    "role": "capstone-return",
-    "assignment": "Misak lecture - optional revisit only, not required teaching",
-    "kind": "video"
-   }
-  ]
- }
+  "degree_id": "deg-wol-pragmatism",
+  "built": "2026-10-26",
+  "built_by": "strategist-pplx-1026a (baton degrees-strategist)",
+  "provenance": "Transcribed from the QC'd module files under docs/degrees/modules/deg-wol-pragmatism/ (word counts and locators are the files' own measured values; phase-0 contract per docs/degrees/AUDIT-2026-10-26.md). The learner-audit gate diffs this manifest against the integrated data block: every entry below must appear in the module's required/optional media. | Corrected 2026-10-26 by worker-pplx-degfixcontent-1026a: PRAG-M3-03 now carries BOTH Lecture II readings (B1 952 words + B2 264 words), and PRAG-M3-04 is corrected from the mislabeled 'B2 Lecture VI' to Lecture VI's actual assignment, B3 (157 words, four printed selections) - both fixes verified against m3-truth-and-the-will-to-believe.md Step 2. Data-block gap for the schema lane: mod-prag-3 currently integrates only PRAG-M3-01 (Misak); PRAG-M3-02/03/04 must be added. | PRAG-OPT-BERNSTEIN optional entry added 2026-10-26 (published but missing from the manifest; verified against the m4 doc's supervisor ruling - optional further viewing, orientation only). | Full doc-level verification completed 2026-10-26 by worker-pplx-degfixcontent-1026a: every remaining manifest entry checked against its module doc (m1 Philosophy Talk 49:24 whole + Peirce 647-word excerpt; m2 Fixation passages 834/1,368/2,371; m3 as corrected this session; m4 Dewey 778/374 words + the deliberation passage; m5 Misak optional revisit) - all values confirmed; the m3 B2/B3 correction stands as this session's only pragmatism manifest repair.",
+  "modules": {
+    "mod-prag-1": [
+      {
+        "source_id": "PRAG-M1-01",
+        "role": "teach",
+        "assignment": "Philosophy Talk episode, whole (no printed timestamps; whole episode assigned)",
+        "kind": "video"
+      },
+      {
+        "source_id": "PRAG-M1-03",
+        "role": "teach",
+        "assignment": "Peirce, How to Make Our Ideas Clear (Wikisource) - excerpt 647 words, opens 'clearness of apprehension is as follows', closes at the end of the diamond/free-will examples",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PRAG-M1-02",
+        "role": "optional",
+        "assignment": "Peirce, The Fixation of Belief (Wikisource) - further reading (rest of the essay beyond the assigned excerpts)",
+        "kind": "reading"
+      }
+    ],
+    "mod-prag-2": [
+      {
+        "source_id": "PRAG-M1-02",
+        "role": "teach",
+        "assignment": "Peirce, The Fixation of Belief (Wikisource) - three measured passages: 834 words (closes '...purpose'), 1,368 words (closes '...they ought to remain'), 2,371 words (covers the methods of tenacity/a priori/authority, with the criticism of each)",
+        "kind": "reading"
+      }
+    ],
+    "mod-prag-3": [
+      {
+        "source_id": "PRAG-M3-01",
+        "role": "teach",
+        "assignment": "Misak, Cambridge Pragmatism lecture (video-first teaching)",
+        "kind": "video"
+      },
+      {
+        "source_id": "PRAG-M3-02",
+        "role": "teach",
+        "assignment": "James, The Will to Believe (Wikisource, public domain) - Reading A, 2,532 words (genuine-options passage: living, forced, momentous)",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PRAG-M3-03",
+        "role": "teach",
+        "assignment": "James, Pragmatism Lecture II 'What Pragmatism Means' (Wikisource, public domain, 1907) - Reading B1: the contiguous passage from 'To take in the importance of Peirce's principle' to 'make nature over again by their aid' (952 words, measured on the page's rendered text; the span's zero-width-space marks sit between complete words and are read as separators); Reading B2 (same lecture, same source): the passage from 'I am well aware how odd it must seem' to 'our duty would be to shun truth, rather' (264 words, page-split words joined and verified joined)",
+        "kind": "reading",
+        "note": "CORRECTION (deg-fix-content 2026-10-26): this entry previously printed only B1; the m3 doc assigns BOTH B1 and B2 from Lecture II"
+      },
+      {
+        "source_id": "PRAG-M3-04",
+        "role": "teach",
+        "assignment": "James, Pragmatism Lecture VI 'Pragmatism's Conception of Truth' (Wikisource, public domain, 1907) - Reading B3: the four selections quoted in full in the Step 2 teaching (157 words measured on the printed selections; noncontiguous passages of the lecture)",
+        "kind": "reading",
+        "note": "CORRECTION (deg-fix-content 2026-10-26): this entry previously mislabeled the 264-word B2 passage as Lecture VI; per the m3 doc B2 belongs to Lecture II (see PRAG-M3-03) and Lecture VI's assignment is B3, the 157-word four selections"
+      }
+    ],
+    "mod-prag-4": [
+      {
+        "source_id": "PRAG-M4-01",
+        "role": "teach",
+        "assignment": "Dewey, How We Think (1910), Project Gutenberg #37423 - one contiguous passage of 778 words ('Another instance, commonplace also, yet not quite so trivial, may enforce this lesson' through 'is wholly futile')",
+        "kind": "reading",
+        "note": "CORRECTED (deg-fix-content 2026-10-26): an earlier version of this entry wrongly assigned TWO passages (778 + 476 words). The m4 doc's Read section assigns Reading B (the 476-word passage, 'Our first problem is then to investigate the nature of ordinary judgments' through 'the object is that which objects') to Human Nature and Conduct (PRAG-M4-02), not to How We Think. The published state was already correct."
+      },
+      {
+        "source_id": "PRAG-M4-02",
+        "role": "teach",
+        "assignment": "Dewey, Human Nature and Conduct (1922), Project Gutenberg #41386 - Part Three, 'The Nature of Deliberation': the contiguous passage from 'Our first problem is then to investigate the nature of ordinary judgments' through 'the object is that which objects' (476 words)",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PRAG-M4-03",
+        "role": "teach",
+        "assignment": "Dewey, The Public and Its Problems (Project Gutenberg) - 374 words ('...in becoming a majority' passage on rudimentary political assets)",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PRAG-OPT-BERNSTEIN",
+        "role": "optional",
+        "assignment": "Bernstein lecture on Dewey - OPTIONAL FURTHER VIEWING, orientation only, per the supervisor ruling recorded in the m4 doc (reviews/deg-wol-pragmatism-m4-bernstein-ruling-1026e.md): not an assigned source, carrying no outcome, tied to no rubric criterion, excluded from the workload totals",
+        "kind": "video",
+        "note": "ADDED (deg-fix-content 2026-10-26): published in mod-prag-4 optional but missing from the manifest - verified against m4's verification-status section"
+      }
+    ],
+    "mod-prag-5": [
+      {
+        "source_id": "PRAG-M3-01",
+        "role": "capstone-return",
+        "assignment": "Misak lecture - optional revisit only, not required teaching",
+        "kind": "video"
+      }
+    ]
+  }
 }
