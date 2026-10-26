@@ -2,7 +2,7 @@
  "band": "deg-psychdim",
  "kind": "degree",
  "holder": "degree-4376b4ec",
- "phase": "gate1-and-coverage-cleared-m1-module-pass-m2-m7-drafted",
+ "phase": "all-eight-modules-drafted-independent-review-required",
  "modules": {
   "m1-orientation": "independent supervisor MODULE-QC PASS at cdb8f0939; three nonblocking alignment labels fixed. 249 estimated minutes. Not complete-degree/publication clearance.",
   "m2-affective": "draft-not-cleared; adviser repairs and supervisor cultural-functions return repaired in 6bf08d3cb; rereview owed; 274 estimated minutes",
@@ -10,8 +10,9 @@
   "m4-attentional": "draft-not-cleared; incorrect draft recording identities withdrawn/corrected against raw watch pages in 4210b197e; adviser reading/navigation/assessment fixes applied; supervisor review owed; 265 estimated minutes",
   "m5-self-and-identity": "draft-not-cleared; SCCS/domain chart/lived trait inquiry/EEMM; adviser failed for credits, independent review owed; 300 estimated minutes",
   "m6-motivational": "draft-not-cleared; 20:20 outcome-specific clips, six-form SDT, regulation goals/control-value, actual 2025 designs/effect/sample/horizon limits and own-goal plan; independent review owed; 256 estimated minutes",
-  "m7-overt-behavioural": "draft-not-cleared; three-day diary, full conditioning precision, four-stage process, older-adult/youth limits, numerical Dang/Vohs comparison and independent functional inquiry; independent review owed; 299 estimated active minutes over at least three ordinary days"
+  "m7-overt-behavioural": "draft-not-cleared; three-day diary, full conditioning precision, four-stage process, older-adult/youth limits, numerical Dang/Vohs comparison and independent functional inquiry; independent review owed; 299 estimated active minutes over at least three ordinary days",
+  "m8-integrative-capstone": "draft-not-cleared; L4 independent design/actual execution/analysis/self-assessment, all-six map, mechanism/outcome distinction, public eight-criterion rubric, privacy/safety/missingness/deviations; independent review owed; 375 active minutes typically across 7-14 days"
  },
- "notes": "2026-10-26 05:23Z degree-4376b4ec: M1 module-QC passed; M2-M7 are drafts at the stated review/repair stages. M8 unwritten. Scope and coverage clearances unchanged. No integration or publication request until the complete degree passes independent review.",
- "updated": "2026-10-26T05:23:00Z"
+ "notes": "2026-10-26 05:26Z degree-4376b4ec: all eight module drafts plus curriculum README assembled; 2308 estimated active minutes, 38h28m. M1 module-QC passed; M2-M8 are NOT cleared at stated review/repair stages. Independent adviser unavailable for M5+; supervisor review explicitly owed. No integration/publication request. Scope and coverage clearances unchanged.",
+ "updated": "2026-10-26T05:26:00Z"
 }

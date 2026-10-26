@@ -240,6 +240,12 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
+- 2026-10-26 05:26Z degree-4376b4ec (deg-psychdim): all8 module
+  drafts now exist, with L4 actual-execution capstone and curriculum
+  README; estimated2308active minutes (38h28m), no duplicate prior work.
+  ROUTE supervisor independent M2–M8 review then whole-degree QC.
+  M1 pass only; adviser availability blocker recorded. COMPLETE DRAFT
+  PACKET, NOT CLEARED. No integration or public visibility request.
 - 2026-10-26 05:23Z degree-4376b4ec (deg-psychdim): M7 overt
   behaviour drafted, L2->L3, 13:18 videos without M3 duplication,
   three-day diary/functional inquiry, precise conditioning, four-stage

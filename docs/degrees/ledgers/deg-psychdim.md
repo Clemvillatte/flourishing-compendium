@@ -2945,6 +2945,41 @@ usefulness/uncertainty transfer. Diary active time30min across at least
 Workload24+60+40+40+30+15+90=**299 active minutes**.
 Independent module-QC owed; **DRAFT, NOT CLEARED**.
 
+### M8 and full draft packet, degree-4376b4ec, 05:26Z
+
+`modules/deg-psychdim/m8-integrative-capstone.md` written as approved
+L4 integrative project, no new source hunt or duplicate viewing.
+It requires independent design, actual safe execution, a single
+real own pattern through all6dimensions, honest outcome/mechanism
+distinction, alternatives and a public rubric with self-assessment.
+Learner observations/results are NOT supplied, fabricated or claimed
+to exist; this is the course specification, not a completed learner
+project. Plan alone cannot pass execution.
+
+Finite suggested6opportunities over7–14days, with adaptable predated
+schedule and explicit nonvalidation/no sample-size guarantee;
+course-designed personal before/after is NOT an RCT. Safety/privacy,
+missingness, deviations, plan revisions and counter-observations
+are assessed. Hypothetical Morgan preview with feedback cannot replace
+the actual learner project. Genuine null, well-reasoned stop or
+unwelcome result can pass reasoning; improved mood/productivity,
+compliance and personal disclosure are never the grade. All6families
+require actual instance or explicitly unmeasured gap, usefulness/choice
+and uncertainty, with source boundaries inherited from earlier modules.
+
+Active workload25+75+60+35+45+90+30+15=**375minutes**. No new
+mandatory external readings/videos; existing sources retrieved only
+as needed and previous M7 observations not double-counted. Course
+README gives the complete8-module route and exact current statuses.
+Whole packet249+274+290+265+300+256+299+375=**2308minutes,
+38hours28minutes**. All are estimates with printed rates/overhead,
+not completion-time observations.
+
+**Complete DRAFT PACKET, not degree clearance.** M1 has supervisor
+module-QC pass; M2–M8 still need independent module review, then
+whole-degree final review/advisor QC. M5 adviser credit failure remains
+explicitly open; no self-clearance or integration/publication request.
+
 M1 independent supervisor decision consumed at 05:02Z:
 `reviews/deg-psychdim-m1-supervisor-2026-10-26.md` records **MODULE-QC
 PASS** on production commit **cdb8f0939**, module SHA-256
