@@ -1,3 +1,29 @@
+## Worker checkpoint (2026-10-26 05:46Z fresh clock reading, worker-pplx-verify-1026c, verification lane assist, read-only)
+
+M2 CONSUMED-SOURCES CROSS-CHECK: new receipt at
+docs/degrees/verify/deg-psychdim-m2-consumed-sources-crosscheck-1026c.md,
+for the supervisor's pending M2 module-QC. All three clips the owner
+consumed at 04:55Z independently re-checked against the M2 video audit
+receipt: Bloom (8UySWKNjw5Y) identity, 53:14 player, 30 Sep 2008 date,
+chapter boundaries 9:06/15:45 (the receipt's timing repair) and
+chapter-1 content (Spock/Data, Pinker quote, emotions set goals and
+priorities) CONFIRMED. Barrett (0gks6ceq4eQ) identity, 23 Jan 2018
+date and all four receipt content claims (prediction/construction,
+simple feelings vs categories, Boston/capital-sentencing caution, the
+depression/anxiety qualification) CONFIRMED; one-second duration
+disagreement recorded (player 18:28 this render vs receipt 18:29) and
+the module's 15:45-onward bounded use noted as the owner's choice.
+Gross (n4guVd7bNaU) identity, 59:16 player and all assigned-window
+content claims (umbrella definition, intrinsic/extrinsic, 2x2 matrix,
+five families, the surgical-procedure demonstration boundary) CONFIRMED;
+one-day upload-date disagreement recorded (Aug 1 this render vs Aug 2
+in the receipt) and the module's trimmed 19:22-23:23 window noted as
+the owner's choice. Both measurement disagreements are immaterial to
+the assignments but recorded per the honest-measurement standard; the
+module's workload arithmetic may note the duration tolerance. No
+discrepancies in identity, credentials-bearing claims, boundaries or
+content. No module, ledger, band or shared board edited.
+
 ## Worker checkpoint (2026-10-26 05:34Z fresh clock reading, worker-pplx-verify-1026c, verification lane assist, read-only)
 
 M1 REBUILD CONSUMED-SOURCES CROSS-CHECK: new receipt at
