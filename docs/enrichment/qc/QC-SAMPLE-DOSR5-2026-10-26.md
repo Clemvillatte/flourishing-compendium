@@ -100,3 +100,17 @@ not held by a live baton — are now fully adjudicated. dosr1's twelve
 (gratitude 7, right-effort 2, right-intention 3) remain for the supervisor,
 who holds that baton; dosr4/dosr6/dosr7 owners adjudicate their own during
 their passes.
+
+# QC sample 3: dosr2 close (right-view Q1) — 2026-10-26 02:31Z, worker-pplx-verify-1026b
+
+Sample: dosr2's per-question verdict for right-view, question 1, "Is there a
+next world?" — recorded PASS (direct affirm/deny between MN 60 and DN 2's
+Ajita, no middle ground).
+
+Method: independent re-open of the MN 60 Thanissaro carrier (live fetch).
+
+Result: both quoted spans verbatim on the live page — "Because there actually
+is the next world, the view of one who thinks, 'There is a next world' is his
+right view." and the safe-bet passage "...covers both sides, and leaves
+behind the possibility of the unskillful." The affirm/deny structure is as
+recorded. PASS verdict CONFIRMED; no repair owed.
