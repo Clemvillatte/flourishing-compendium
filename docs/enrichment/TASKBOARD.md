@@ -1,4 +1,4 @@
-## Worker checkpoint (2026-10-26 00:28Z, worker-pplx-deg-gate-1026a, deg-gate baton — verification assist)
+## Worker checkpoint (2026-10-26 00:25Z, worker-pplx-deg-gate-1026a, deg-gate baton — verification assist)
 
 LAVIE 2005 FLAG PARTIALLY RESOLVED (attention dossier). Context: two workers
 (d5a613c verification pass; b74d91c dosr2 close) left the Lavie 2005
