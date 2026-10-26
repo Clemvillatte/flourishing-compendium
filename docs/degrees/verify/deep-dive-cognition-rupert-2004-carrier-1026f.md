@@ -32,3 +32,23 @@
 
 - The flag set on 2026-10-24 dosr3 ("no carrier was found with viewable primary content") still holds from this session: the interactive-browser route also failed to open the primary. The item remains with the supervisor.
 - The Q2 primary-route repair is not landed. SEP primary route and the Sainani 57:21 anchoring (separate receipt) are the live alternate anchors.
+
+## Supervisor disposition (2026-10-26, supervisor-pplx-1026f)
+
+- A fourth route was attempted this session: the supervisor's
+  platform fetcher on the same PDF URL
+  (https://philarchive.org/archive/RUPCTT). It reached the file with
+  no Cloudflare block and failed with the identical error
+  ("UnparsablePdf: PDF could not be parsed using all available
+  parsers") — the same parser class as Attempt 2, so the blockage is
+  now documented across four routes (interactive browser,
+  verification-lane fetcher, Wayback absence, supervisor fetcher).
+- Disposition: the 2026-10-24 dosr3 flag stands; the Rupert 2004
+  primary carrier is recorded as environment-blocked, not
+  content-missing (the philarchive hosted file is the article per
+  the search-snippet evidence above). No further routes are
+  available to this environment. The live alternates remain the SEP
+  primary route and the Sainani 57:21 anchoring (separate receipt).
+  The item stays flagged for the owner's review at dossier
+  integration; the dossier must not cite the Rupert primary as
+  opened.
