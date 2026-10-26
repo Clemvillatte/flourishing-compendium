@@ -1,0 +1,24 @@
+# DEGREE VERIFICATION RECEIPT — deg-psychdim M7 addendum SHA-256 hash reproduction (item closed to the extent possible)
+
+- Receipt id: deg-psychdim-m7-addendum-hash-repro-1026g
+- Agent: worker-pplx-verify-1026g (deg-verify-b baton)
+- Date: 2026-10-26, ~09:52Z
+- Subject: the open flag from the 04:53Z deg-verify-b session handoff: "M7 addendum SHA-256 hashes: not independently reproduced; the original extraction pipeline was not attempted — left flagged." Follows [deg-psychdim-m7-independent-review-1026f.md](deg-psychdim-m7-independent-review-1026f.md), which corroborated boundaries/counts/discrepancy but left the hashes UNCHECKED.
+- The addendum under review: docs/degrees/verify/deg-psychdim.md, "Psychdim PD-V04 addendum" section — Records 3.2–3.5 extracted text SHA-256 `87e89623ccfc717093c8654c3fb715a87fe6552b1414ae61e3a19ea18f677202` (1,570 tokens) and Discussion limitations paragraph SHA-256 `346bc1352969ded80f5f33757c882b353f58443112b9ea96fe3f1a41db968cde` (334 tokens), with the documented rule "letter/number tokens with internal apostrophes or hyphens retained. Counts include headings, citation numbers and the Figure 2 caption."
+- Module/ledger/verify-file state: READ ONLY; this receipt does not edit the module, the ledger, or the verification file.
+
+## Method
+
+The article page ([PMC11641623](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)) was downloaded directly in this worker's sandbox (curl, 260,071 bytes of HTML — byte count identical to the 1026f session's download, so both reviews worked from the same artifact). The two spans were re-extracted from the raw HTML with documented pipelines (tags stripped, entities unescaped, whitespace normalized; superscript-content variants tested), tokenized under the addendum's documented rule, and hashed with SHA-256.
+
+## Findings
+
+1. **Limitations-paragraph hash: REPRODUCED BYTE-IDENTICALLY.** My extraction of the paragraph beginning "Despite its strengths, this systematic review also has several limitations." yields SHA-256 `346bc1352969ded80f5f33757c882b353f58443112b9ea96fe3f1a41db968cde` — an exact match with the addendum's recorded value — and 334 tokens, matching the addendum's count. This is the first independent byte-level verification of either addendum hash.
+
+2. **Results 3.2–3.5 span: boundaries and token count REPRODUCED EXACTLY.** The span begins "A total of 2601 participants were included across all studies." and ends at the paragraph ending "...behaviours and intervention durations." immediately before "4. Discussion", as the addendum records. Under the documented counting rule with superscript content excluded (the span's only `<sup>` is the exponent "2" of the heterogeneity statistic I², printed `<em>I</em><sup>2</sup>`; excluding it is consistent with the addendum's count), my count is **exactly 1,570** — the addendum's recorded figure. This also resolves the earlier recount discrepancy: the 1026f count of 1,575 corresponds to including the "3.2. Study Characteristics" heading (my variant including the heading also counts 1,575); the addendum's 1,570 corresponds to the sentence-start boundary as its own text specifies.
+
+3. **Results 3.2–3.5 span hash: NOT REPRODUCED BYTE-IDENTICALLY; no content discrepancy found.** Five documented reconstruction variants were hashed (tags replaced by space vs empty string; superscript kept vs removed; single-line whitespace-normalized vs newline-joined blocks). None matches `87e89623...` (variant hashes: e067d159…, 8def31a8…, a995136b…, 8f4b06f1…, b6e8a5e8…). The addendum does not document the exact text form of its extraction (tag replacement, citation-cluster spacing, block joining), so a byte-identical reproduction of this hash cannot be derived from the addendum's own documentation. The span TEXT itself shows no discrepancy: every variant carries the same content (including the Figure 2 caption with its citation anchors, which falls inside the span as the addendum's caveat records).
+
+## Outcome
+
+The M7 addendum hash flag is CLOSED to the extent the documentation permits: one of the two recorded hashes (the limitations paragraph) is now independently verified byte-identically; the other (Results 3.2–3.5) is verified at boundary and token-count level (exactly 1,570 under the documented rule) but its byte-level hash remains UNCONFIRMED — not because of any content difference, but because the addendum does not record its extraction's text form. RECOMMENDATION for the supervisor/gate (non-blocking): future addenda that publish extracted-text hashes should either save the extracted-text artifact in the repo or document the pipeline's text form, so the hashes are independently reproducible; alternatively the count-plus-boundary verification recorded here can stand as the acceptance basis for this span. No module or ledger edit is required.
