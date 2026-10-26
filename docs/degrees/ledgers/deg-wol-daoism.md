@@ -489,3 +489,39 @@ level (see the gap register above).
 
 Next: m2 (the Daodejing as a practice manual for living), same
 verification standard, same centering clause.
+
+## m2 production (2026-10-26, worker-pplx-degdaosim-1026a, deg-wol-daoism baton)
+
+m2-daodejing-as-practice-manual written to the curriculum-design
+skill standard (L2 Guided application; four outcomes; every outcome
+taught, practised and assessed; rubric with strong and rejection
+examples; workload arithmetic from measured durations and word
+counts; no paywalled content). Sources: the Ziporyn lecture segments
+already verified in m1 (re-assigned here with the same printed
+chapter labels; no new video verification needed) and the Eno
+Daodejing translation already downloaded and verified in m1 (new
+chapters read this pass).
+
+### Assigned primary-text chapters read this pass (measured on the downloaded full text)
+
+Chapters 11 (77 words), 16 (111), 28 (119), 36 (61), 44 (54) and 78
+(90); 512 words across the assigned set. The chapter-28 quotation in
+the module is verbatim Eno from the downloaded text; an earlier
+draft of the quotation (written before the download was measured)
+was inaccurate and has been replaced with the verbatim text.
+
+### Workload arithmetic
+
+About 22 minutes measured assigned video (Ziporyn segments only,
+21:34) + 24 minutes estimated primary-text reading with the
+three-times study multiplier + 35 minutes estimated module-prose
+reading with the multiplier (2,100 words measured) + 10 minutes
+retrieval + 45 minutes graded = about 136 minutes, about 2 hours 15
+minutes.
+
+### Module status
+
+m2-daodejing-as-practice-manual: DRAFT, NOT CLEARED; awaits advisor
+QC and supervisor module-QC per WAVE 2. m1 remains DRAFT NOT
+CLEARED pending supervisor module-QC (advisor content/pedagogical QC
+accepted, round 6).
