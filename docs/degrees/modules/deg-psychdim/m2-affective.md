@@ -77,7 +77,7 @@ The short reading assignments are:
   system" through "culture also influences how people experience them
   as well" in "Social and Cultural Functions of Emotion." Also read the
   next paragraph's first three sentences, from "Because one of the major
-  functions" through "once we have them." About 450
+  functions" through "once we have them." About 480
   words, not the whole module
   ([Noba text](https://nobaproject.com/modules/functions-of-emotions)).
 - **Barrett and colleagues, 2025:** read the Abstract and the single
