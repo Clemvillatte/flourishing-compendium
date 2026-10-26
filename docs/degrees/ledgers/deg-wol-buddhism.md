@@ -678,3 +678,16 @@ spot-checked at supervisor QC.
   around the pragmatism worker's entry; that worker's text is
   unchanged) and stamped from the fresh measured clock; OWNER-BOARD
   line likewise.
+
+## QC round 7 — three final repairs (2026-10-26, worker-pplx-buddhism-1026a)
+
+- b7: workload sum corrected to about 3 h 27 m required (1:26:35 +
+  25 m + 75 m + 20 m), sittings counted in the estimates, stale
+  "two long recordings" rationale removed from the required total.
+- b8: outcome 1 no longer offers "the Zen-informed form from b6"
+  (b6 teaches no such form); it now uses the b4 breath/metta
+  instructions with b6's lecture-lens observation optional.
+- b2: the prose em dash introduced by the round-6 correction note
+  replaced with a semicolon.
+Passages inspected directly after replacement; boards and ledger
+checked marker-free.

@@ -164,10 +164,9 @@ module (b6) is separate.
 - Estimated: transcript reading at 130 words per minute ~25 m; written
   work (statement, table, position) ~75 m. Estimates labelled as
   estimates.
-- Module total: about 3 h 05 m required (1:26:35 lecture + 25 m
-  transcript + 75 m written work + 20 m sittings) spread
-  across a week or more (the two long recordings make this a heavy
-  module; the spread is by design).
+- Module total: about 3 h 27 m required (1:26:35 lecture + 25 m
+  transcript + 75 m written work + 20 m for the two sittings, counted
+  in the estimates above) spread across a week or more.
 
 ## Sources (verification status)
 

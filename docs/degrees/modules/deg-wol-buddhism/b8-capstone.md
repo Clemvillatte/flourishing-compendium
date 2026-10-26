@@ -28,8 +28,9 @@ wiser, flourishing even when uncertain or overwhelmed.
 ## Outcomes
 
 1. Complete an eight-week sustained practice with records: at least
-   three logged sittings per week (breath, metta, or the Zen-informed
-   form from b6), in the b4-format log, with a one-paragraph pattern
+   three logged sittings per week (breath or metta, using the b4
+   instructions; optionally adding b6's lecture-lens observation to a
+   sitting), in the b4-format log, with a one-paragraph pattern
    summary at the end (what the log shows across the eight weeks,
    including the weeks it shows nothing).
 2. Work one real ethical difficulty from your life through the full
