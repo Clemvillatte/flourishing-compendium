@@ -469,9 +469,12 @@ Per advisor QC, the two receipt-based items above were converted into
 this session's own opened evidence:
 
 - GROSS 1998 PRIMARY OPENED (university-hosted PDF downloaded without
-  authentication, 2.2 MB; pdftotext extraction): title page confirms
-  Review of General Psychology, 1998, Vol. 2, No. 5, 271-299, James J.
-  Gross, Stanford University. The candidate excerpt (printed pp. 281-283
+  authentication, 2.2 MB; pdftotext extraction plus a VISUAL
+  inspection of the rendered title page and the Figure 4 page this
+  pass): the title page as rendered reads Review of General
+  Psychology, 1998, Vol. 2, No. 3, 271-299, James J. Gross, Stanford
+  University (an earlier text-extraction reading of "No. 5" was an
+  extraction artefact; the rendered page is authoritative). The candidate excerpt (printed pp. 281-283
   = PDF pages 11-13) contains, verbatim-confirmed on the extracted
   text: the five-family passage ("processes: situation selection,
   situation modification, attention deployment, cognitive change, and
@@ -487,14 +490,28 @@ this session's own opened evidence:
   meanings are terms that have proven notoriously resistant to
   definition. What is offered is a set of working distinctions among
   regulatory processes that I have found useful in navigating the
-  tangled literatures relevant to emotion regulation"). Measured at
-  1,919 words on the raw pdftotext basis for the three PDF pages
-  (includes column-layout artefacts, figure labels and running
-  headers; a cleaned basis would be smaller; the writing session
-  should re-measure the final assigned span on a stated basis). The
-  limitations passage directly supports the packet's caution that the
-  five families are working distinctions, not proven treatment
-  effects.
+  tangled literatures relevant to emotion regulation"). FIGURE 4
+  VISUALLY INSPECTED on the rendered printed p. 282: the figure
+  shows the process model with the four antecedent-focused families
+  (situation selection, situation modification, attentional
+  deployment, cognitive change) bracketed as "Antecedent-Focused
+  Emotion Regulation" and response modulation bracketed as
+  "Response-Focused Emotion Regulation", feeding the emotional
+  response tendencies box (behavioral, experiential, physiological)
+  — i.e. the figure itself carries the antecedent/response
+  distinction the M2 exercise teaches. Measured at
+  1,919 words on the raw pdftotext basis for the WHOLE three PDF
+  pages (printed pp. 281-283; includes material beyond the proposed
+  excerpt). The PROPOSED EXCERPT ITSELF (from the five-family
+  paragraph "I distinguish five sets of emotion regulatory
+  processes..." through the end of the model limitations "...the
+  interdependences among behavioral, experiential, and physiological
+  response tendencies.") measures 690 words on a
+  hyphenation-and-whitespace-normalised extraction basis; the writing
+  session should re-measure the final assigned span on a stated
+  basis. The limitations passage directly supports the packet's
+  caution that the five families are working distinctions, not proven
+  treatment effects.
 - VAN HEIJST ET AL. 2025 OPENED (PMC12575812): "Beyond Right and
   Wrong: Fostering Connection in Emotion Theory Debates", van Heijst,
   Ploeger and Kret, Perspectives on Psychological Science, 2025; a
@@ -610,9 +627,10 @@ tag-strip, same verification behaviour as above):
   seconds if the chapter is assigned as a watch. The span's final
   sentence verified ("And that's all I have to say at this point
   about perception."). The writing session should re-measure any
-  narrower assigned excerpt on a stated basis. M3 source preparation
-  is now COMPLETE: all five M3 sources opened and measured this
-  session.
+  narrower assigned excerpt on a stated basis. M3 STATUS: all five
+  M3 sources reopened and candidate counts recorded this session;
+  assigned excerpts and workload budgets remain pending for the
+  writing session.
 
 ### M4 preparation (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:30Z measured; no module prose — gated)
 
@@ -621,7 +639,7 @@ verification behaviour as the M3 pass). All passages below confirmed on
 the raw text.
 
 - Posner, Rothbart and Ghassemzadeh 2019, Restoring Attention Networks
-  (Yale J Biol Med, PMC6430178): the three-networks passage verbatim
+  ([Yale J Biol Med](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/)): the three-networks passage verbatim
   ("In our previous work we have identified three different brain
   networks related to the functions of attention [1]. These are: (i)
   Obtaining and maintaining the alert state... (ii) Orienting to
@@ -633,29 +651,32 @@ the raw text.
   conditions", and the body carries the ADHD, anxiety, depression and
   schizophrenia material.
 - Posner 2023, The Evolution and Future Development of Attention
-  Networks (J Intell, PMC10301152): the ANT passage verbatim ("From
+  Networks ([J Intell](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/)): the ANT passage verbatim ("From
   age four on, the Attention Network Test (ANT) allows measurement of
   individual differences in the alerting, orienting and executive
-  networks."). Raw page 5,193 words. CHECK RESULT: the full raw page
-  contains NO disorder or affect content (zero hits for disorder,
-  depression, anxiety, ADHD, affect, emotion); the scope row's "ANT and
-  links to disorders and affect" must therefore draw its disorders and
-  affect material from Posner 2019, with Posner 2023 supplying the ANT
-  and development content. Also caught this pass: one LLM-extracted
+  networks."). Raw page 5,193 words. CHECK RESULT: searches of the full
+  raw page for disorder, depression, anxiety, ADHD, affect and emotion
+  found no matches, and the direct clinical material was identified in
+  the 2019 paper; as a source-use distinction (not a scope-error
+  finding), the scope row's "ANT and links to disorders and affect"
+  should draw its disorders and affect material from Posner 2019, with
+  Posner 2023 supplying the ANT and development content. Also caught this pass: one LLM-extracted
   "quote" from this page was a paraphrase, not verbatim ("The ANT was
   developed to provide separate scores..." — NOT present on the raw
   page); it is excluded from this record.
 - Lippelt, Hommel and Colzato 2014, Focused attention, open monitoring
   and loving kindness meditation: effects on attention, conflict
-  monitoring, and creativity — A review (Front Psychol, PMC4171985):
+  monitoring, and creativity — A review ([Front Psychol](https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/)):
   title and abstract verbatim-verified on the article page (the
   abstract distinguishes focused attention, open monitoring and loving
   kindness meditation and their differential effects on attentional
   selection and conflict monitoring). Raw page 5,643 words. LINK
-  REPAIR NEEDED: the PDF URL in the scope matrix
-  (PMC4171985/pdf/fpsyg-05-01083.pdf) is DEAD (returns an HTML error
-  page, not a PDF); the article page URL works. Fixed in the scope doc
-  this pass (see below).
+  NOTE: the retrieval at the scope matrix's PDF URL
+  (PMC4171985/pdf/fpsyg-05-01083.pdf) returned an HTML page rather than
+  a PDF this pass (a retrieval outcome, not a claim that the URL is
+  permanently dead); the article page URL worked and is the one
+  verified. The scope doc was updated to the article page URL this
+  pass (see below).
 - OYC PSYC 110 lecture 7 chapter 5 (Linking Attention and Memory,
   [00:39:15] to Chapter 6 at [00:58:04]): span measured at 2,619
   words on the transcript basis (both delimiters unique and ordered);
@@ -675,9 +696,9 @@ text (Maitland 2024 is already verified and was measured for M1). All
 passages below confirmed on the raw text.
 
 - Manchiraju 2026, Self-concept clarity: a comprehensive and integrative
-  review (Front Psychol, PMC13350471): the SCC definition verbatim
+  review ([Front Psychol](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/)): the SCC definition verbatim
   ("Self-concept clarity (SCC) refers to the extent to which
-  individuals' self-beliefs are clearly and confidently defined,
+  individuals’ self-beliefs are clearly and confidently defined,
   internally consistent, and stable over time (Campbell et al., 1996).")
   and the title verbatim. Raw page 8,847 words on the tag-stripped
   basis (review; the writing session should measure the assigned
@@ -686,20 +707,19 @@ passages below confirmed on the raw text.
   captured by extraction but is NOT recorded as verbatim-confirmed
   (not checked character-for-character this pass; re-verify if used).
 - Branje, de Moor, Spitzer and Becht 2021, Dynamics of Identity
-  Development in Adolescence: A Decade in Review (J Res Adolesc,
-  PMC9298910): title verbatim and the key abstract sentence verbatim
+  Development in Adolescence: A Decade in Review ([J Res Adolesc](https://pmc.ncbi.nlm.nih.gov/articles/PMC9298910/)): title verbatim and the key abstract sentence verbatim
   ("identity development during adolescence and early adulthood is
   characterized by both systematic maturation and substantial
   stability."). Raw page 16,565 words on the tag-stripped basis (a long
   review; the writing session should measure the assigned excerpt).
-- Diener and Lucas, Personality Traits (Noba): teaching body measured
+- Diener and Lucas, Personality Traits ([Noba](https://nobaproject.com/modules/personality-traits)): teaching body measured
   at 3,708 words on the tag-stripped basis (module description through
   the final teaching paragraph ending "...such as those studied by
   Walter Mischel.", before the Mini-IPIP Appendix section). The span
   including the Mini-IPIP scale appendix and its norm tables, through
   to the Outside Resources section, measures 4,212 words on the same
   basis. The module description's first sentence is verbatim
-  ("Personality traits reflect people's characteristic patterns of
+  ("Personality traits reflect people’s characteristic patterns of
   thoughts, feelings, and behaviors."); the teaching body's final
   sentence is verbatim ("Most modern personality researchers agree
   that there is a place for broad personality traits and for the
@@ -720,8 +740,7 @@ status and the M2 boundaries packet).
 
 - Ryan and Deci 2020, Intrinsic and extrinsic motivation from a
   self-determination theory perspective: Definitions, theory,
-  practices, and future directions (Contemp Educ Psychol, preprint PDF
-  hosted at selfdeterminationtheory.org): downloaded without
+  practices, and future directions ([Contemp Educ Psychol](https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf), preprint PDF hosted at selfdeterminationtheory.org): downloaded without
   authentication; title page confirms the journal, DOI and authors.
   Full paper 13,095 words on the raw pdftotext basis (includes
   references; the writing session should measure the assigned excerpt
@@ -762,7 +781,7 @@ openings below were read on the cleaned raw text of each page.
   researchers think about self-control, and how changing habits
   involves environmental pressures as much as intrapsychic
   forces.").
-- Singh et al. 2024 (PMC11641623), a systematic review of the time
+- [Singh et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/), a systematic review of the time
   required for developing health-related habits: 10,509 words on the
   tag-stripped raw-page basis (includes site chrome; systematic
   review — the writing session should measure the assigned excerpt).
@@ -772,28 +791,29 @@ openings below were read on the cleaned raw text of each page.
   break negative ones for lasting behaviour changes. This systematic
   review aims to explore the time required for developing
   health-related habits.").
-- Werner and Berkman 2024 (PMC11423838), self-control as a dynamic
+- [Werner and Berkman 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11423838/), self-control as a dynamic
   motivational process: 5,237 words on the tag-stripped raw-page
   basis. Abstract opening verbatim ("How people respond to desires
   varies substantially across time and situations. Building on recent
   theoretical developments, we propose that motivation plays a central
   role in the dynamics of self-control as it unfolds across time.").
-- Reed et al. 2020 (PMC7250393), self-regulation indices in older
+- [Reed et al. 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7250393/), self-regulation indices in older
   adults: 17,436 words on the tag-stripped raw-page basis (long
   article; the writing session should measure the assigned excerpt).
   Abstract opening verbatim ("Self-regulation refers to effortful
-  control over one's thoughts, emotions, choices, impulses, and
-  behaviors, and has implications for older adults' health.").
-- Dang 2018 (PMC6013521), the ego-depletion meta-analysis debate:
+  control over one’s thoughts, emotions, choices, impulses, and
+  behaviors, and has implications for older adults’ health.").
+- [Dang 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6013521/), the ego-depletion meta-analysis debate:
   5,349 words on the tag-stripped raw-page basis. Abstract opening
-  verbatim ("The ego depletion effect is one of the most famous
-  phenomena in social psychology. A recent meta-analysis showed that
-  after accounting for small-studies effects by using a newly
-  developed method called PET-PEESE, the ego depletion effect was
-  indistinguishable from zero. However, it is too early to draw such
-  rushing conc[lusions]...") — note the paper's own caution against
-  premature conclusions, which is the pedagogically relevant feature
-  for the M7 meta-analysis-appraisal exercise.
+  verbatim, the complete sentences ("The ego depletion effect is one
+  of the most famous phenomena in social psychology. A recent
+  meta-analysis showed that after accounting for small-studies
+  effects by using a newly developed method called PET-PEESE, the
+  ego depletion effect was indistinguishable from zero. However, it
+  is too early to draw such rushing conclusion because of the
+  inappropriate usage of PET-PEESE.") — note the paper's own caution
+  against premature conclusions, which is the pedagogically relevant
+  feature for the M7 meta-analysis-appraisal exercise.
 
 All five M7 sources verified free to access (no paywall) this pass.
 M8 is the integrative capstone and adds no new sources.
