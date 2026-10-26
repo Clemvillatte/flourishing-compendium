@@ -197,3 +197,61 @@ Module QC, whole-degree gates, integration and publication all remain closed
 and are not touched here. This reviewer has not edited the existentialism
 band or ledger; the degree owner records the gate outcome there once the
 supervisor rules on the routed items.
+
+## Addendum (2026-10-26, same reviewer): candidate anchors for the blocking gap
+
+Recorded as CANDIDATES ONLY, verification status UNSET. This is gate-review
+groundwork for the routed blocking gap; full verification to the skill
+standard (identity, access, credentials, content coverage, duration n/a for
+text, language) belongs to deg-verify-b and the degree owner. All three
+pages below were opened by this reviewer this session; what each receipt
+records is what the page itself showed.
+
+1. **Vos, Craig and Cooper (2015), "Existential therapies: a meta-analysis of
+   their effects on psychological outcomes", Journal of Consulting and
+   Clinical Psychology 83(1):115-128** — PubMed abstract page
+   https://pubmed.ncbi.nlm.nih.gov/25045907/ (opened this session; abstract
+   free, full text paywalled at the publisher). The abstract itself carries
+   both the evidence and the limits: 21 eligible RCTs, 15 unique-data
+   studies, 1,792 participants; meaning therapies showed large effects on
+   meaning in life (d = 0.65 post, d = 0.57 follow-up) and moderate effects
+   on psychopathology (d = 0.47) and self-efficacy (d = 0.48);
+   supportive-expressive therapy showed small effects (d = 0.20/0.18);
+   experiential-existential and cognitive-existential showed no significant
+   effects; and the authors' stated limit, "despite the small number and low
+   quality of studies, some existential therapies appear beneficial for
+   certain populations". Caveat for the module designer: an abstract is a
+   thin reading assignment; the full text is paywalled and must not be
+   linked.
+2. **Bland, "Research on Existential-Humanistic Psychotherapy", chapter in
+   Hoffman and Lac (eds.), Evidence-Based Foundations of
+   Existential-Humanistic Therapy (APA, 2025)** — full text freely readable
+   at https://www.millersville.edu/psychology/files/bland/bland-research-on-eh-therapy.pdf
+   (opened this session). Carries effect sizes AND limits: HE therapies
+   "produce large effects (g = 0.73)" pre-post, maintained at follow-up
+   (ESw = 0.88 within a year, 0.92 over), "clinically and statistically
+   equivalent to other therapies (ESw = −0.08)", "may be trivially less
+   effective than CBT (ESw = −0.26)", mixed evidence for anxiety and
+   depression, evidence partly "by proxy", and "EH therapy has not found its
+   way into mainstream treatment guidelines". CAVEAT REQUIRING A SUPERVISOR
+   RULING: the PDF is freely readable for an anonymous visitor, but the
+   copyright page reads "Copyright © 2025 by the American Psychological
+   Association... Not for further distribution." Whether that note makes it
+   unusable under the owner's no-paywall/free-teaching rule is a supervisor
+   call, not a gate-review call.
+3. **Terao and Satoh, "The Present State of Existential Interventions Within
+   Palliative Care", Frontiers in Psychiatry 12 (2021)** — full text at
+   https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.811612/full
+   (opened this session; resolved fully, no paywall encountered). Nine
+   RCT-investigated existential psychotherapies named (MCGP, IMCP, MMi,
+   Meaning of Life Intervention, CALM, Hope Intervention, Cognitive and
+   Existential Intervention, Dignity Therapy, Life-Review Interviews, from
+   19 RCTs), with explicit limits: "the number of studies were very few",
+   heterogeneous findings elsewhere, "further studies are required".
+   Caveat: palliative-care population focus; not a general-population
+   evidence review.
+
+These candidates are consistent with the blocking-gap ruling above: the
+clause is anchorable. None is verified here; no module attaches; the
+supervisor's routing of the blocking gap and the Bland copyright caveat is
+requested.
