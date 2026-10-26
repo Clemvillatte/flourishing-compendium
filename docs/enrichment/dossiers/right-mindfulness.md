@@ -51,7 +51,7 @@ The family also carries the practice off the cushion. [Walking meditation](https
 
 The evidence has its own shape, and it is smaller than the path factor's own claim. A 2014 review of 47 randomized trials with 3,515 participants found moderate evidence of improvement in anxiety, depression and pain with mindfulness meditation programs. It found no evidence that meditation programs outperformed active treatments such as drugs, exercise or other behavioral therapies ([Goyal et al. 2014, JAMA Internal Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/)). The reviewers' own conclusion was measured:
 
-> "Clinicians should be aware that meditation programs can result in small to moderate reductions of multiple negative dimensions of psychological stress." ([Goyal et al. 2014, JAMA Internal Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/)).
+> "Clinicians should be aware that meditation programs can result in small to moderate reductions in multiple negative dimensions of psychological stress." ([Goyal et al. 2014, JAMA Internal Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/)).
 
 ### The attention traditions
 

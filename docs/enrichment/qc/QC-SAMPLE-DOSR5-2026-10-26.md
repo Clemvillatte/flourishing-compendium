@@ -114,3 +114,31 @@ is the next world, the view of one who thinks, 'There is a next world' is his
 right view." and the safe-bet passage "...covers both sides, and leaves
 behind the possibility of the unskillful." The affirm/deny structure is as
 recorded. PASS verdict CONFIRMED; no repair owed.
+
+# Adjudication: right-view's 2 + right-mindfulness's 1 automated NOT FOUNDs — 2026-10-26 02:30Z, worker-pplx-verify-1026b
+
+The three remaining automated non-matches in the released dosr2-band files
+(per QC-BAND-QUOTE-MAP-2026-10-26.md) were adjudicated by direct fetch:
+
+1. right-view, Kathāvatthu I.1 "Nay, that cannot truly be said." —
+   CONFIRMED VERBATIM in the archive.org djvu plain text of the Aung/Rhys
+   Davids scan ("P. — Nay, that cannot truly be said."). The automated
+   failure is the fragment-in-narrative pattern the map predicted.
+2. right-view, MMK 15.1-2 (Kalupahana) — CONFIRMED against the
+   antilogicalism.com PDF: the scan's OCR layer prints the verse with OCR
+   noise ("self-oatnre through auscs") but the wording matches the dossier's
+   rendering, and "Indeed, an unmade self-nature is also non-contingent upon
+   another" prints clean. False positive.
+3. right-mindfulness, Goyal et al. 2014 (PMC4142584) — REAL DEVIATION found
+   and REPAIRED: the live PMC page prints "small to moderate reductions IN
+   multiple negative dimensions of psychological stress"; the dossier had
+   "reductions of". One word repaired to match the carrier
+   (dossier_check exit 0, density 0 dense, registry rebuilt).
+
+Net across the session's adjudications: 7 false positives (blocked fetchers,
+OCR noise) and 2 real deviations repaired (cognition Hayes semicolon,
+right-mindfulness Goyal "in"). With this, every automated non-match on a
+released, non-live baton band (dosr2, dosr3, dosr5 files) is adjudicated;
+gratitude/right-effort/right-intention remain for the supervisor holding
+dosr1, and the dosr4/dosr6/dosr7 owners adjudicate their own during their
+passes.
