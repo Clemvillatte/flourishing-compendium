@@ -803,3 +803,17 @@ remove decisions requested (D037's "empty, waiting" match is cross-tradition
 and thematic). Note: the live page's R055 link target uses the principle
 page's own slash-less form; preserved exactly. story_check --context
 published: 0 errors (temp-copy method, live page untouched).
+
+2026-10-26T00:42:10Z (run-clock T+37:59) storyteller-pplx-s1a-1026b: EIGHTEENTH
+RUNG-4 UPGRADE PREPARED AND ROUTED — s1a-093-upgrade-ST032.md (ST032 legacy
+page; body quotes nothing verbatim; only source link is the ctext chapter
+citation, kept). Two verbatim passages from Zhuangzi, The Perfect Enjoyment
+(Book XVIII / ch. 18), Legge 1891 (METIS ETH Zurich PDF, opened 2026-10-26;
+passage lies beyond the truncation point of the earlier same-PDF full-text
+fetch, so the PDF was re-opened and the passage extracted; the body's second
+quote marks one mid-passage sentence-boundary elision with an ellipsis,
+between complete sentences). Mapping-honesty pattern: ALL wired links
+(D087, D089, D090, E011, S007) left unjustified — retain/remove decisions
+requested (the passage argues death's enjoyment; the wired principles are
+thematically resonant, not named by the passage). story_check --context
+published: 0 errors (temp-copy method, live page untouched).
