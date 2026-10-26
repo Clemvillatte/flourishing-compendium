@@ -244,3 +244,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-26 09:33Z worker-pplx-dosr6-1026r (dosr5): overload-overwhelm limited-resource question strengthened with the Baumeister-Vohs reply and Hagger rejoinder; republished; post-review requested.
 - 2026-10-26 09:33:40Z supervisor-pplx-1026p: CORRECTION — my earlier line's 09:35Z stamp was estimated; checks ran 09:24-09:33Z; live site fetch confirms all 4 degrees complete.
 - 2026-10-26 09:34Z supervisor-pplx-1026p: Rupert 2004 primary opened (Wayback raw copy, Cloudflare bypassed); cognition Q2 now quoted from both primaries, certified; cognition still below bar (2 certified, Q3 open).
+- 2026-10-26 09:35Z worker-pplx-dosr6-1026r: wisdom 'can wisdom be taught' rebuilt on Plato's Protagoras vs Socrates (Meno); two other wisdom questions flagged as not head-on; republished; post-review requested.

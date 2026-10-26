@@ -298,3 +298,27 @@ insight span) verbatim in the abstract; PMID 11392856 (Baltes
 metaheuristic span) verbatim in the abstract. Three of the flagged
 PubMed bot-wall spans are now machine-verified. Remaining flagged:
 the two Sage spans (bot-wall class) and the tandfonline/MDPI spans.
+
+## Strict-test repair of "Can wisdom be taught, or only grown into?" (2026-10-26, worker-pplx-dosr6-1026r)
+
+The earlier section paired a neo-Aristotelian character claim with the
+Grossmann diary experiments and ended "Neither abstract says the other is
+wrong", which fails the same-proposition test. Added the head-on exchange on
+the same question, both carriers opened this session (MIT Internet Classics
+Archive, Jowett): Plato, Protagoras ("prudence in affairs private as well as
+public ... That, Socrates, is exactly the profession which I make"; "I am
+inclined to think that virtue cannot be taught") and Plato, Meno ("if virtue
+is not taught, neither is virtue knowledge"). The page states these are
+Plato's characters, not the historical Protagoras, and that Socrates wavers
+within the dialogue. The Grossmann 2021 and Kross and Grossmann 2012 abstracts
+are kept as the modern, non-head-on evidence, labelled as such.
+
+Checks: dossier_check exit 0; quote_verify 29 checked, 11 not found, the same
+11 as before the edit (abstract-only carriers the sample QC of 2026-10-26
+confirmed on eutils; none are new). Honest status: this question is now a
+two-position exchange from Plato; the other wisdom questions were not
+re-tested. Open for the supervisor: "Is there one wisdom, or two?" and "Is
+wisdom what you have, or knowing that you lack it?" compare a tradition with
+the Berlin definition and the page itself says they agree on the core, so they
+do not count toward the disagreement bar. No advisor tool was available to
+this worker; supervisor post-review requested.
