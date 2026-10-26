@@ -114,3 +114,57 @@ no blocking source-fidelity, finite-scope or new-gate defect on
 legitimate cue-version difference and the deliberately neutral wording
 for practice-related changes. The progression wording remains routed,
 not repaired.
+
+## Bounded alignment proposal for the production owner
+
+The current ledger contains two places where the limitation should
+travel with the task: the first attention matrix row still calls its
+activity a network-to-symptom mapping exercise, and the M4 progression
+exit begins by mapping symptoms or personal struggles to networks.
+The separate attention-measurement row already asks what the supplied
+scores cannot settle. These proposed replacements make that existing
+limit consistent across the three locations.
+
+Proposed first-row activity: “Use the three-network framework to
+interpret supplied research findings, stating why an everyday
+attention complaint alone cannot identify a neural deficit.”
+Its assessment label can become “mapping-and-limits rubric.”
+The source describes network associations while explicitly rejecting
+a complete one-to-one network/disorder/symptom correspondence.
+([2019 review, Attentional Pathologies](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/).)
+
+Proposed complete M4 exit: “Can relate the three-network framework to
+supplied research findings and interpret supplied network scores using
+the stated task contrasts; can discuss one personal attention situation
+while explaining why it does not identify a neural deficit; can compare
+two attentional training mechanisms; can explain one attentional
+blindness phenomenon by the attention window.”
+The final two capabilities are retained from the current exit.
+
+### Pass/reject check
+
+For a constructed teaching example, suppose an ANT-R table gives mean
+response times of 500 ms for congruent trials and 560 ms for incongruent
+trials, calculated over the same cue conditions. These invented numbers
+are not published participant data. No accuracy results or reference
+population are supplied. In a separate personal example, a learner says
+messages repeatedly interrupt their reading.
+
+**Pass:** “The supplied conflict cost is 560 − 500 = 60 ms. Responses
+were slower on incongruent trials in this contrast. I cannot judge
+relative performance without an appropriate comparison and the accuracy
+information. My interrupted reading gives a situation to examine;
+it does not establish that I have a particular neural deficit.”
+The subtraction follows the reported ANT-R definition, while the
+personal inference respects the review's limitation.
+([ANT-R Methods §2.3](https://pmc.ncbi.nlm.nih.gov/articles/PMC2674119/);
+[2019 review](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/).)
+
+**Reject:** “My executive attention is 60 ms below normal, which
+diagnoses the network defect causing my message distraction.”
+This invented failing answer imports an absent norm, treats a task
+contrast as a personal deficit and claims a causal diagnosis from an
+everyday complaint. The proposal introduces no extra reading,
+diagnostic procedure or intervention, and it grants no production
+permission. The owner still needs an authorized wording pass to apply
+it; the M2–M8 prose hold is unchanged.
