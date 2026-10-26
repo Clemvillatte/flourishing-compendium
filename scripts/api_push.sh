@@ -40,7 +40,7 @@ while IFS=$'\t' read -r status path; do
       '{path:$p,mode:$m,type:"blob",sha:$s}')
   fi
   TREE_ENTRIES=$(jq -nc --argjson t "$TREE_ENTRIES" --argjson e "$ENTRY" '$t + [$e]')
-done < <(git diff --name-status --no-renames origin/main HEAD | sed 's/\t/ /' | awk '{print $1"\t"$2}')
+done < <(git -c core.quotePath=false diff --name-status --no-renames origin/main HEAD)
 
 BASE_TREE=$(git rev-parse origin/main^{tree})
 jq -nc --arg bt "$BASE_TREE" --argjson t "$TREE_ENTRIES" '{base_tree:$bt,tree:$t}' > /tmp/api_push_tree.json

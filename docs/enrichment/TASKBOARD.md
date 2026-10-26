@@ -5297,3 +5297,17 @@ Advisor final review corrections applied and pushed (842228fe7): right-effort fo
 | worker-pplx-verify-1026a | 2026-10-26 | audit | Legacy sweep part 59 (ST463-464): ST463 polishing a brick into a mirror (all spans verbatim on cited terebess.hu Nanyue Encounter Dialogues page - both the biographical framing and the Lu K'uan Yu Guzunsu yulu rendering), ST464 Linji asks his question three times (8/8 spans verbatim on cited ruyimeditation.org Linji Lu part 6 page) | 2 PASS | No repairs. |
 | worker-pplx-verify-1026a | 2026-10-26 | audit | Legacy sweep part 60 (ST465-467): ST465 Xuanzang loses his water (all 10 spans verbatim: 9 in cited archive.org djvu Life of Hiuen Tsang text - one with OCR spacing artifact 'below ;'; Heart Sutra span verbatim on cited oaks.nvg.org page), ST466 Who spoke the truth (6/6 spans verbatim on cited vipassana.com AN 3.65 Kalama Sutta page), ST467 narrative-only | 2 PASS, 1 narrative-only | No repairs. |
 | worker-pplx-verify-1026a | 2026-10-26 | audit | Legacy sweep part 61 (ST468-470): ST468 twenty-eight dollar house (all spans verbatim in cited Gutenberg 205-0.txt Walden Economy ledger - dot-leader typography initially obscured matches: 'In all, $28.12 1/2', 'I carried a good part on my back', 'That was high.', 'More than I needed.', squatter's-right sentence all confirmed), ST469 Keller music (4/4 spans verbatim in cited Gutenberg 2397 Story of My Life), ST470 little savage (6/6 spans verbatim in same cited Gutenberg 2397) | 3 PASS | No repairs. |
+## ROUTE DISPOSITIONS (2026-10-26 02:24Z observed, supervisor-pplx-1026d, supervisor baton)
+- sup-1026b route (2) RESOLVED (no action needed): s1c-031 is integrated, published as
+  ST508 after the duplicate-registration reconciliation (the route's ST488 reading
+  predates it); the collision guard already normalizes typographic quotes and draft-
+  numbering prefixes (story_register.py _norm, verified in code this session).
+- sup-1026b route (3) RESOLVED BY VERIFICATION: ST118's six-themes/interviews claim
+  is now carried by an OPENED source — Moneta, Applications of Flow to Work
+  (repository.londonmet.ac.uk AAM PDF, fetched and read this session: interviews
+  with surgeons, rock climbers, composers, dancers, chess players, athletes; six
+  shared themes, autotelic experience sixth). Inline citation + Sources line added
+  to ST118; story_check 0 errors after the edit. The York review remains the
+  carrier for the definition and the four activities, as before.
+- sup-1026b route (1) STANDS (ST-number identity audit: old-ID-plus-old-title ->
+  canonical-title mapping against live references) — not started this pass.

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST 
 
 Csikszentmihalyi opens the book with the anomaly: people who risk their lives climbing rocks, who devote themselves to art, who spend their energies playing chess, apparently giving up material rewards for the experience of performing enjoyable acts.
 
-The research programme he built around this studied chess, rock climbing, rock dancing, and surgery, and the six themes his interviews produced across those domains. His definition of the state, as given in the book, is that the activity provides opportunities for action that match a person's skill, limits the perceptual field, excludes irrelevant stimuli, contains clear goals and adequate means for reaching them, and gives clear and consistent feedback to the actor.
+The research programme he built around this studied chess, rock climbing, rock dancing, and surgery, and the six themes his interviews produced across those domains ([Moneta, Applications of Flow to Work](https://repository.londonmet.ac.uk/1069/1/%5BC15%5D-Applications-of-flow-to-work_(AAM).pdf)). His definition of the state, as given in the book, is that the activity provides opportunities for action that match a person's skill, limits the perceptual field, excludes irrelevant stimuli, contains clear goals and adequate means for reaching them, and gives clear and consistent feedback to the actor.
 
 > "[a flow activity] provides opportunities for action which match a person's skill, limits the perceptual field, excludes irrelevant stimuli, contains clear goals and adequate means for reaching them, and gives clear and consistent feedback to the actor." ([Csikszentmihalyi, Beyond Boredom and Anxiety, as quoted in the York review](https://www-users.york.ac.uk/~ss44/books/pages/c/MihalyCsikszentmihalyi.htm))
 
@@ -34,4 +34,5 @@ The origin in climbers and other practitioners rather than in patients is part o
 
 ## Sources
 - [Csikszentmihalyi, Beyond Boredom and Anxiety — review with quoted definition (p182)](https://www-users.york.ac.uk/~ss44/books/pages/c/MihalyCsikszentmihalyi.htm) — the flow-activity definition, the four activities
+- [Moneta, Applications of Flow to Work — the six themes from the interviews](https://repository.londonmet.ac.uk/1069/1/%5BC15%5D-Applications-of-flow-to-work_(AAM).pdf) — the interviews and their six shared themes, autotelic experience among them
 - [Mihaly Csikszentmihalyi — Wikipedia](https://en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi) — the author and the research programme

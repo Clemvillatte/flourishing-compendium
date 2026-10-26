@@ -888,7 +888,7 @@ for Jelby, and the M01-D18/MA-01/MA-02 placement review.
   REQUESTED from the deg-gate reviewer. Stop-gate ruling still owed by the
   live supervisor; M2 production held; M1 remains DRAFT NOT CLEARED.
 
-- 2026-10-26 (clock 02:27Z) supervisor-pplx-1026d (supervisor baton): PHASE 0
+- 2026-10-26 (clock 02:15Z, corrected from a 02:27Z estimate) supervisor-pplx-1026d (supervisor baton): PHASE 0
   STOP-GATE RULING DELIVERED (ledger section of the same name, deg-psychdim).
   Narrow ruling: no waiver issued (supervisor lacks the authority); scope and
   coverage clearances stand; M1 pilot review commissioned and LIVE — the

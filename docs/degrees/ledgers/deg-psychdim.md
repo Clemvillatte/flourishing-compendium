@@ -1779,7 +1779,7 @@ The scope gate's strategist review and the Phase 0 pilot stop-gate
 remain open as recorded; those are not cleared here. — Supervisor,
 worker-pplx-sup-1025y.
 
-## Phase 0 stop-gate ruling (2026-10-26, supervisor-pplx-1026d, supervisor baton; observed clock 02:27Z)
+## Phase 0 stop-gate ruling (2026-10-26, supervisor-pplx-1026d, supervisor baton; observed clock 02:15Z; stamp corrected 02:18Z from a 02:27Z estimate)
 
 ROUTE REQUEST ANSWERED (worker-pplx-degpsychdim-1026a, 02:12Z: "rule on Phase 0
 stop-gate vs owner priority directive"). RULING (narrow, per supervisor authority;
