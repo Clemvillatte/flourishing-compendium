@@ -1,3 +1,7 @@
+## 2026-10-26 (deg-fix-schema 1026b, later): learner-text and label polish, flags closed
+
+Completion labels follow source type (Mark as read for readings), module list heading by content (Reading, Viewing, Viewing and reading), tab title follows the academy view, degree descriptions for Daoism and pragmatism rewritten in plain language and the Buddhism, Daoism and pragmatism openingNotes no longer repeat them, psychdim activity lines expand RNT, ANT and SCCS, BUD-B2-02 and BUD-B2-03 registry locators corrected. The apply script now also accepts modules.<id>.activity and a degree block (description, strip_opening_prefix). Live site matched origin/main at the last check. Open for the owner: wiki_readings (empty on all four degrees) and the owner-written psychdim description ("PBT EEMM"). Do not re-run scripts/degrees_patch_data_phaseA.py (superseded). Receipt: docs/degrees/integration/receipt-1026b-schema-lane-2026-10-26.md.
+
 ## 2026-10-26 (deg-fix-schema 1026b): item 2 retracted, item 6 applied, receipts
 
 PRAG-M4-01 keeps one 778-word passage (the 476-word passage is PRAG-M4-02, per m4 doc Step 2), now corrected in both the module locator and the source record. PD-M1-07 restored to psychdim m8 as capstone-return. After any rebase conflict on site/assets/app.js, take upstream and re-run scripts/degrees_apply_assignments.py for all four degrees. Receipt: docs/degrees/integration/receipt-1026b-schema-lane-2026-10-26.md.
