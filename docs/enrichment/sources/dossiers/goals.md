@@ -848,9 +848,9 @@ Seijts/Latham 2005 is a within-theory refinement, not a dispute;
 Wood/Mento/Locke 1987 vs Earley et al. 1989 noted as a candidate for
 a future session (see batches/dosr3.json flagged.goals).
 
-Quote-verify note for this pass: 18 checked / 1 not found — the
-founders' overview span on journals.aom.org; the host blocks plain
-script fetches (same class as sacred-texts). The span was opened and
-verified verbatim through the fetch tool this session (the publisher's
-served overview text, single span, exact match); documented exception,
-not a content defect.
+Quote-verify note for this pass: 19 checked / 1 not found — the
+founders' overview span on journals.aom.org. Automated no-match; the
+quoted overview was independently opened and matched this session
+through the fetch tool (publisher-served overview text, exact match).
+No technical claim is made about the host's blocking behavior;
+documented exception, not a content defect.

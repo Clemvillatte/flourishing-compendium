@@ -588,3 +588,16 @@ Two disagreement sections changed; every other section is untouched.
   dossier_density 0 dense. No advisor tool was available to this worker; a
   skeptical self-QC was applied and the advisor/supervisor post-review is
   requested.
+
+## 2026-10-26 09:43Z — supervisor-pplx-1026p addendum: SN 22.59 prose repair (advisor QC round)
+
+The supervisor post-review's advisor QC found the SN 22.59 sentence
+reversed the sutta's verdict ("none of them can be called 'This is
+not mine...'" — the sutta finds every aggregate IS not-mine). Fixed:
+the sentence now reads "every one of them is to be seen with right
+discernment as it has come to be" followed by the verbatim formula.
+The formula was re-verified against the dhammatalks.org carrier
+(fetched this session): "This is not mine. This is not my self. This
+is not what I am." — exact match to Thanissaro's SN 22:59 rendering.
+dossier_check re-run after the edit: exit 0. No other changes to
+this dossier this session.

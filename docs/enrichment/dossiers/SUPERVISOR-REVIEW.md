@@ -122,7 +122,10 @@ sacred-texts.com carrier through the fetch tool myself and the verse is
 verbatim (the host blocks plain scripts, which is why the automated
 checker cannot reach it; same class as the worker's documented
 exception); (b) the Milinda 3.1.1 suttacentral span — pre-existing
-documented exception, unchanged by this repair.
+documented exception, INHERITED verification from the dosr6 close
+record (I did not reopen that carrier this session; correction to
+this entry's first draft, which implied both were adjudicated by
+me).
 
 Substance check: the rebuilt permanent-self question (Katha vs MN 22)
 is honestly qualified in the ledger — Nyanaponika's own note carries
@@ -134,11 +137,22 @@ substance (Descartes/Kant), personal identity over time (Locke/Reid)
 fourth, qualified. The bar (3-5 genuine substantiated disagreements)
 is met without the qualified one.
 
-No repairs required. Flag for the owner, nonblocking: the permanent-
-self question's "qualified" status is a defensible editorial state,
-not a defect; no owner ruling is needed unless the owner wants the
-qualified question either upgraded (a primary passage excluding a
-non-object witness) or dropped to a comparison section.
+No repairs required at review time. Flag for the owner, nonblocking:
+the permanent-self question's "qualified" status is a defensible
+editorial state, not a defect; no owner ruling is needed unless the
+owner wants the qualified question either upgraded (a primary passage
+excluding a non-object witness) or dropped to a comparison section.
+
+ADDENDUM (advisor QC round, 2026-10-26 09:43Z): one prose defect
+found after the PASS above and repaired in the same session: the
+SN 22.59 sentence read "finds that none of them can be called 'This
+is not mine...'" — a reversed negation (the sutta's verdict is that
+EVERY aggregate is not-mine/not-self); the sentence now reads "every
+one of them is to be seen with right discernment as it has come to
+be", and the formula was re-verified verbatim against the
+dhammatalks.org carrier (fetched this session). The PASS stands with
+this correction applied; the Milinda attribution correction above is
+part of the same advisor round.
 
 ## Post-review: overload-overwhelm, 2026-10-26 09:36:11Z (fresh clock read; the 09:41:47Z stamp on the first version of this entry was an estimate and is withdrawn), supervisor-pplx-1026p
 

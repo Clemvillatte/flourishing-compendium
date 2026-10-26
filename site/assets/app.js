@@ -5400,7 +5400,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The method behind the verdict is the aggregate analysis. SN 22.59 takes each of the five aggregates in turn and finds that none of them can be called \"This is not mine. This is not my self. This is not what I am\" ([SN 22.59, trans. Thanissaro](https://www.dhammatalks.org/suttas/SN/SN22_59.html)). Advaita Vedānta has a reply, as Dalal’s entry reports it: the error is a mutual superimposition, \"We mutually superimpose consciousness on to our mind-body, and the mind-body on to consciousness (i.e., I am the mind-body, and the mind-body is I)\" ([Dalal, SEP](https://plato.stanford.edu/archives/spr2026/entries/shankara/)). On that view the ātman is consciousness itself, which is not one of the objects examined."
+          "x": "The method behind the verdict is the aggregate analysis. SN 22.59 takes each of the five aggregates in turn and finds that every one of them is to be seen with right discernment as it has come to be: \"This is not mine. This is not my self. This is not what I am\" ([SN 22.59, trans. Thanissaro](https://www.dhammatalks.org/suttas/SN/SN22_59.html)). Advaita Vedānta has a reply, as Dalal’s entry reports it: the error is a mutual superimposition, \"We mutually superimpose consciousness on to our mind-body, and the mind-body on to consciousness (i.e., I am the mind-body, and the mind-body is I)\" ([Dalal, SEP](https://plato.stanford.edu/archives/spr2026/entries/shankara/)). On that view the ātman is consciousness itself, which is not one of the objects examined."
         },
         {
           "t": "p",
@@ -10325,7 +10325,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Locke and Latham, the theory's founders, replied in the same issue with Has Goal Setting Gone Wild, or Have Its Attackers Abandoned Good Scholarship? (Academy of Management Perspectives 23(1), 2009, pp. 17-23; the article is closed access, but the publisher serves the authors' own overview openly, and it is the founders' wording, not a reporter's, that carries the rejoinder):"
+          "x": "Locke and Latham, the theory's founders, replied in the same issue with Has Goal Setting Gone Wild, or Have Its Attackers Abandoned Good Scholarship? (Academy of Management Perspectives 23(1), 2009, pp. 17-23; the publisher serves the authors' own overview openly, and it is the founders' wording, not a reporter's, that carries the rejoinder):"
         },
         {
           "t": "q",
@@ -10338,7 +10338,16 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "What the disagreement turns on is the standing of the critics' case: they hold that goal setting's benefits have been oversold relative to its harms, and the founders' own rejoinder challenges the case's evidential basis — anecdote rather than research, misreported results, unrepresentative citations. The overview does not establish the rejoinder's full answer to the critics' concerns. My provisional lean: the critics' prescription wording is usable at face value, and the founders' own conditions (commitment, ability, no conflict) are where a reader would start."
+          "x": "The critics answered the evidential charge head-on in their rejoinder. Where the founders deem anecdote unworthy, the critics defend it as a legitimate spur to causal research:"
+        },
+        {
+          "t": "q",
+          "x": "\"Locke and Latham (2009) deem anecdotes unworthy of academic attention... We profoundly disagree. We think that qualitative analyses, case studies, journalistic accounts, and anecdotes should all be used to raise questions, focus attention, and develop ideas that should be subjected to rigorous, causal analyses.\" ([Ordóñez, Schweitzer, Galinsky and Bazerman, On Good Scholarship, Goal Setting, and Scholars Gone Wild, open copy](https://www.hbs.edu/ris/Publication%20Files/09-122.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "What the disagreement turns on is the standing of the critics' case, and both sides now answer that question in their own words: they hold that goal setting's benefits have been oversold relative to its harms, and the founders' rejoinder challenges the case's evidential basis (anecdote rather than research, misreported results, unrepresentative citations), while the critics hold that anecdote is exactly how such harms come to light and point to causal studies of risk-taking, cheating and narrow focus. The overview and the rejoinder do not settle whether the harms are systematic; they settle that the two camps disagree about what counts as evidence against goal setting. My provisional lean: the critics' prescription wording is usable at face value, and the founders' own conditions (commitment, ability, no conflict) are where a reader would start."
         },
         {
           "t": "h2",
