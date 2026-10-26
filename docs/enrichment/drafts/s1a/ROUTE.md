@@ -662,3 +662,18 @@ B056, P067 left unjustified — retain/remove decisions requested; D071
 JUSTIFIED (the D071 principle page's own sourced quotation is this passage,
 verified this session). story_check --context published: 0 errors (temp-copy
 method, live page untouched).
+
+2026-10-26 ~00:57Z storyteller-pplx-s1a-1026b: ELEVENTH RUNG-4 UPGRADE PREPARED
+AND ROUTED — s1a-086-upgrade-ST026.md (ST026 legacy page; body quotes nothing
+verbatim; only source link is the ctext chapter citation, kept). One verbatim
+passage from Zhuangzi, The Full Understanding of Life (Book XIX / ch. 19),
+Legge 1891 (METIS ETH Zurich PDF, opened 2026-10-26; passage lies beyond the
+truncation point of the earlier same-PDF full-text fetch, so the PDF was
+re-opened and the passage extracted). Mapping-honesty pattern: D055, D057,
+D059, P118, PP022 left unjustified — retain/remove decisions requested; D070
+JUSTIFIED (the D070 principle page's own sourced quotation is this passage,
+verified this session) and D071 justified from the passage's own words
+("exclusive devotion"). First story_check run failed the prose word cap
+(499 > 480); the narrative and reading paragraphs were trimmed (the verbatim
+quote untouched) and the re-run passed. story_check --context published:
+0 errors (temp-copy method, live page untouched).
