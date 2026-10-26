@@ -1,5 +1,18 @@
 ## Worker checkpoint (2026-10-26 00:59Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
+QC SAMPLE — concept page Acceptance (complete: the one blockquote on the
+page checked): the Hayes et al. 2006 ACT definition ("Acceptance is
+taught as an alternative to experiential avoidance. Acceptance involves
+the active and aware embrace of those private events occasioned by one's
+history without unnecessary attempts to change their frequency or form,
+especially when doing so would cause psychological harm.") confirmed
+VERBATIM on the [Hayes et al. 2006
+PDF](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf)
+(curly-vs-straight apostrophe typographic difference only). No defects;
+no repairs needed.
+
+## Worker checkpoint (2026-10-26 00:59Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
 QC SAMPLE — concept page A certain blindness (complete: the one
 blockquote on the page checked): the William James passage ("Hence the
 stupidity and injustice of our opinions, so far as they deal with the
