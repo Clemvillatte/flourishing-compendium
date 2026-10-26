@@ -27,8 +27,8 @@ repetition.
 
 1. Set up your meditation spot naming your choices of time, place and
    posture, and why they fit your life (from the session-1 teaching,
-   06:08-16:30).
-2. Execute the guided meditation from session 1 (20:32-33:55) start to
+   00:06:08-00:16:30).
+2. Execute the guided meditation from session 1 (00:20:32-00:33:55) start to
    finish, following the guidance rather than improvising, and log the
    execution with any departures from the instructions named.
 3. Complete the two-week training plan: seven sittings of at least ten
@@ -56,14 +56,14 @@ lines, with one reason per line. You will use it in the training plan.
 
 ### Step 2 — First guided sitting (~14 min, video segment 20:32-33:55)
 
-The same session's guided meditation chapter, 20:32-33:55 (13 minutes 23
+The same session's guided meditation chapter, 00:20:32-00:33:55 (13 minutes 23
 seconds). Sit with it, following the guidance. This is outcome 2's first
 execution. Log it: date, duration, one line.
 
 ### Step 3 — The training plan (two weeks, scheduled)
 
 Seven sittings, on a written schedule you set before starting:
-- Three guided sittings: the session-1 guided segment (20:32-33:55),
+- Three guided sittings: the session-1 guided segment (00:20:32-00:33:55),
   the first of which is Step 2, plus two more in week one and early week
   two.
 - Two metta sittings (10 minutes each), following the five-stage
@@ -129,8 +129,8 @@ note).
 ## Workload arithmetic
 
 - Measured media: session 1 whole recording 0:33:55, assigned in two
-  bounded segments (00:00-20:32 teaching, executed once; 20:32-33:55
-  guided meditation, executed three times = 40:09).
+  bounded segments (00:00:00-00:20:32 teaching, executed once;
+  00:20:32-00:33:55 guided meditation, executed three times = 40:09).
 - Estimated: two metta sittings 2 × 10 m and two unguided sittings
   2 × 10 m = 40:00; two Metta Sutta readings and the written work
   (setup plan, schedule, change statement) ~29:00. Estimates labelled as
@@ -142,14 +142,15 @@ note).
 
 | resource | status | verified | notes |
 |---|---|---|---|
-| Ajahn Brahmali, "Introduction to Meditation: Session 1", https://www.youtube.com/watch?v=dyUCvFlDL8w (BSWA channel) | verified-video | 2026-10-26 (this session) | duration 0:33:55 on watch page; chapter timestamps printed in the description (00:00-20:32 listed above; guided meditation chapter at 20:32); recorded at Dhammaloka Buddhist Centre, Perth; free, BSWA copyright; credentials opened on the BSWA teacher page (https://bswa.org/teachers/ajahn-brahmali/): anagarika at Amaravati and Chithurst; ordained bhikkhu 1996 with Ajahn Brahm as preceptor; at Bodhinyana Monastery since 1994; Maha Thera since 2015 |
+| Ajahn Brahmali, "Introduction to Meditation: Session 1", https://www.youtube.com/watch?v=dyUCvFlDL8w (BSWA channel) | verified-metadata (content PARTIAL — see Boundaries) | 2026-10-26 (this session) | duration 0:33:55 on watch page; chapter timestamps printed in the description (00:00-20:32 listed above; guided meditation chapter at 20:32); recorded at Dhammaloka Buddhist Centre, Perth; free, BSWA copyright; credentials opened on the BSWA teacher page (https://bswa.org/teachers/ajahn-brahmali/): anagarika at Amaravati and Chithurst; ordained bhikkhu 1996 with Ajahn Brahm as preceptor; at Bodhinyana Monastery since 1994; Maha Thera since 2015 |
 | BSWA series index page, https://bswa.org/teaching/introduction-meditation-series-parts-1-5-ajahnbrahmali/ | verified | 2026-10-26 (deg-verify-a receipt B-V03; re-opened this session) | five-session series dated 5 March 2023; sessions 2-5 NOT attached (each needs per-session verification before attachment, per the receipt's caveat) |
 | Metta Sutta Khp 9, Sujato translation, https://suttacentral.net/kp9/en/sujato | verified | 2026-10-26 (this session, b1) | see b1 source table |
 | Five-stage loving-kindness method, https://thebuddhistcentre.com/text/loving-kindness-meditation | verified | 2026-10-26 (this session) | opened anonymously; the five stages (yourself, good friend, neutral person, someone you dislike, everyone) read on the opened page; publisher: the Buddhist Centre (Triratna) |
 
 No paywalled or app-gated content. Video-first policy applied: the
-module's spine is a verified teaching video with bounded, timestamped
-segments.
+module's spine is a teaching video with verified metadata, bounded
+timestamped segments, and PARTIAL content verification (see
+Boundaries).
 
 ## What this module does not do
 
