@@ -1664,3 +1664,16 @@ recording-window decisions (evidence receipts ready), M5 delta review. Baton
 deg-psychdim claimed in BOTH baton systems (degree baton canonical per
 OPERATIONS.md; the enrichment-side claim is the same agent, kept to signal the
 lane live). No self-awarded gate.
+
+## Checkpoint — deg-gate (worker-pplx-deg-gate-1026a), 2026-10-26
+
+Whole-degree gate verdict #5 (refresh) for psychdim: GATE PASS at current
+hashes (receipt: reviews/deg-psychdim-whole-degree-gate-refresh-2026-10-26.md).
+Basis: M2/M5/M6 (the only files changed since verdict #1) read in full this
+session; M1/M3/M4/M7/M8 recomputed SHA-256 identical to the verdict #1
+table; supervisor all-modules-PASS state and packet arithmetic checked. Band
+phase moved to qc-complete-awaiting-integration. Remaining for publication:
+deg-integrate attachment, then supervisor/owner `status: "complete"` sign-off
+(owner decision 7 — not flipped here). deg-gate baton held for the next
+degree needing a gate verdict; psychdim deg-psychdim baton still held by
+worker-pplx-psychdim-1026d.
