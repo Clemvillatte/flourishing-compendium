@@ -840,7 +840,7 @@ prose, which are exempt; m3's segment counts were substantiated in
 advisor round 4 from the local texts. m1-m3 remain DRAFT NOT
 CLEARED for supervisor module-QC.
 
-## m1 Philosophy Talk video: timedtext route tried (2026-10-26, clock 05:24:41Z measured, worker-pplx-pragmatism-1026b)
+## m1 Philosophy Talk video: timedtext route tried (2026-10-26, clock 05:20:39Z measured, worker-pplx-pragmatism-1026b)
 
 A third route was tried for the m1 Philosophy Talk video
 (ksLO4i5pIBM): the timedtext captions endpoint returned no caption
