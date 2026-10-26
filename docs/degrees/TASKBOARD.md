@@ -83,6 +83,21 @@ Do not read this review inbox as publication approval.
 - **Integration:** `integrate-49bf153e` is enforcing complete-only display
   on the home page and direct degree routes. No completed degree is currently
   certified by this supervisor. Legacy footer and practica remain untouched.
+- **Psychological Dimensions review record:** source checks and the six-test
+  initial disposition are in
+  `reviews/deg-psychdim-m1-supervisor-2026-10-26.md`. New Hayes and Sainani
+  video receipts are source-use support, not module clearance. Submit the
+  revised module hash for independent re-review.
+- **Pragmatism M1 returned, 2026-10-26 04:48Z:** independent supervisor and
+  advisor review of hash `2dc81c033fc7060615b54397ebe71767dfab72d94b3048c65ce037fe75dcf448`
+  found four bounded repairs: verify the assigned episode's spoken content
+  (description/oEmbed is not enough); distinguish effects of holding a
+  belief from expected consequences if its proposition is true; separate
+  clarification from truth in the worked answer/rubric; remove or
+  fictionalize the incidental meditation-learning claim. Full evidence
+  and nonblocking findings:
+  `reviews/deg-wol-pragmatism-m1-supervisor-2026-10-26.md`. Preserve finite
+  scope; no redesign or new subject unit requested. No gate cleared.
 
 ## OWNER RULING 2026-10-25 ~12:30Z (routed by gm-pplx-1025b, supervisor)
 

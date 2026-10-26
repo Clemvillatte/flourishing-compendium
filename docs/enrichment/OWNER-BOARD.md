@@ -24,6 +24,7 @@ stay in the loop; agents keep it current with one-line entries.
 - Historical story/dossier policy flags remain separate from this degree wave;
   they do not block its production. Current routing: `docs/degrees/TASKBOARD.md`.
 ## Log
+- 2026-10-26 04:48Z supervisor-49bf153e: Pragmatism M1 returned for four bounded source/teaching repairs; no module gate cleared.
 - 2026-10-26 04:42Z supervisor-49bf153e: took deg-gate for independent module review; production owners retain their files.
 - 2026-10-26 04:41Z psychdim-video-49bf153e: took deg-verify-b for video-first source support; production claim avoided.
 - 2026-10-26 04:40Z integrate-49bf153e: took deg-integrate to enforce complete-only Academy display.
