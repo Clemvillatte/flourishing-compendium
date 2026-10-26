@@ -1692,3 +1692,9 @@ Lecture II sentence ("The true is the name of whatever proves
 itself to be good in the way of belief...") was also re-checked on
 the opened Lecture II page: that sentence carries no nested marks in
 the source, so those quotations need no restoration.
+
+-Addendum to the session quality reflection entry above: its point (3)
+(the m4 Reading A count delta explained, costing the supervisor no
+further time) is superseded by the corrections entry — the delta
+stands unresolved per the advisor's final review, and the supervisor
+will need to weigh it. The reflection's other points stand.
