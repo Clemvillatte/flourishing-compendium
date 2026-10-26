@@ -1362,3 +1362,43 @@ provide. The m1 Philosophy Talk item was not re-attempted (same
 route, same expected limit; bounded attempts rule). The m1/m3
 media items stay with the supervisor per the deg-gate verdict #4
 routing; no module edit follows from this attempt.
+
+## m4/m5 self-check against the skill's acceptance tests (2026-10-26, worker-pplx-pragmatism-1026c)
+
+Run by the producer as a verification pass on this session's own
+items, per the skill's acceptance-test list:
+
+- Test 1 (outcomes taught, practised, assessed; rubric observable):
+  m4 has 5 outcomes, each with a Step teaching it, a practice or
+  retrieval item, and a rubric criterion with a strong and a
+  rejection example; m5 has 4 outcomes, same structure. Alignment
+  maps row-for-row with the outcomes in both. PASS on structure;
+  the level claims (L3, L4) await the supervisor's independent
+  confirmation (test 6).
+- Test 2 (resources verified, dated, no "imported"): both modules
+  attach only sources opened this session with receipts in this
+  ledger (m4: three Gutenberg downloads; m5: five quotes verified
+  on primary pages); no "imported" labels. PASS.
+- Test 3 (assigned segments have printed durations; arithmetic
+  checks): no media segments are assigned in either module, so the
+  media clause is vacuous; reading segments are word-counted with
+  the method printed, and the workload arithmetic was recomputed
+  and recorded (m4: 178 minutes from 1,628 words; m5: 310 minutes,
+  estimates labelled). PASS, with the m4 Reading A count
+  discrepancy (774 vs 778) already documented above.
+- Test 4 (prerequisites name observable competencies): m4's
+  prerequisites restate the m3 exits; m5's restate the m4 exits;
+  both name competencies, not module titles. PASS.
+- Test 5 (humanizer): no em dashes in either module; no AI-tell
+  scan hits; verification-process narration confined to the
+  verification sections, learner paths clean. PASS.
+- Test 6 (independent reviewer confirms the claimed level): PARTIAL
+  by design; three advisor QC rounds per module are recorded in
+  this ledger with all named repairs applied and re-verified; the
+  supervisor module-QC is the remaining independent confirmation,
+  and both modules are routed to it as DRAFT, NOT CLEARED.
+- Test 7 (rejection examples): every rubric criterion in both
+  modules carries a rejection example. PASS.
+
+Net: both modules pass every acceptance test the producer can run;
+the level-claim confirmation (test 6) is with the supervisor.
