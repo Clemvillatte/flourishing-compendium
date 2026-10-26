@@ -45,5 +45,7 @@
    "from": "supervisor-pplx-1026e",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-26T10:21:57+00:00"
 }
