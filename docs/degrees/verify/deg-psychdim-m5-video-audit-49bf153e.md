@@ -23,8 +23,8 @@ Total proposed video: **35:36** (354 + 403 + 261 + 101 + 603 + 247 +
 
 | Source | Checked identity, runtime and credential |
 |---|---|
-| Yale lecture 13 | YaleCourses, full **1:00:03**, uploaded **30 September 2008**; printed 13:53/19:47 boundaries match institution. Yale's independent instructor biography establishes Bloom's psychology professorship and identifies the course as Spring 2007. [Watch](https://www.youtube.com/watch?v=piDznzrNymE), [institutional chapter](https://oyc.yale.edu/psychology/psyc-110/lecture-13), [instructor/course biography](https://oyc.yale.edu/introduction-psychology/psyc-110). |
-| Yale lecture 16 | YaleCourses, full **50:58**, uploaded **30 September 2008**. Whole relevant institutional chapters read; watch chapter markers agree. [Watch](https://www.youtube.com/watch?v=jsrB5m3mL-A), [institutional transcript](https://oyc.yale.edu/psychology/psyc-110/lecture-16). |
+| Yale lecture 13 | YaleCourses, full **1:05:49**, uploaded **30 September 2008**; printed 13:53/19:47 boundaries match institution. Yale's independent instructor biography establishes Bloom's psychology professorship and identifies the course as Spring 2007. [Watch](https://www.youtube.com/watch?v=piDznzrNymE), [institutional chapter](https://oyc.yale.edu/psychology/psyc-110/lecture-13), [instructor/course biography](https://oyc.yale.edu/introduction-psychology/psyc-110). |
+| Yale lecture 16 | YaleCourses, full **58:15**, uploaded **30 September 2008**. Whole relevant institutional chapters read; watch chapter markers agree. [Watch](https://www.youtube.com/watch?v=jsrB5m3mL-A), [institutional transcript](https://oyc.yale.edu/psychology/psyc-110/lecture-16). |
 | McAdams | Northwestern University School of Education and Social Policy upload, full **53:32**, published **13 January 2017**. Independent Northwestern psychology biography identifies McAdams as Henry Wade Rogers Professor and describes his narrative-identity and personality research. [Watch](https://www.youtube.com/watch?v=49FCgaZRn_M), [faculty biography](https://psychology.northwestern.edu/people/faculty/core/profiles/dan-mcadams.html). |
 | Little | Official TED upload, full **15:16**, published **19 July 2016**. Independent Cambridge faculty biography identifies him as Distinguished Scholar, documents his Berkeley PhD, teaching and personal-projects research. [Watch](https://www.youtube.com/watch?v=qYvXk_bqlBk), [Cambridge biography](https://www.psychol.cam.ac.uk/people/professor-brian-little). |
 
@@ -126,9 +126,11 @@ Actual queries:
   clinical-family story and broad physiological claims not necessary
   for this scope. **Not selected** merely to get a self-esteem
   definition. [Opened talk](https://www.youtube.com/watch?v=IvtZBUSplr4).
-- Swann's Swarthmore talk, full **1:32:30**, supplied metadata but no
-  content transcript in the opened page. **Candidate only**, not
-  verified-video. [Opened recording](https://www.youtube.com/watch?v=_b0TQzVbzXE).
+- McAdams's official Northwestern **1:00** introduction was also
+  opened/read. It briefly defines narrative identity but supplies
+  less explanation than the selected 4:07 professor excerpt; do not
+  stack both compulsory assignments.
+  [Opened short introduction](https://www.youtube.com/watch?v=_b0TQzVbzXE).
 - “The Psychology of NOT KNOWING What You Want,” Psyche Core,
   **10:37**, was read in full. It blends identity, clarity and purpose
   with broad self-help recommendations; no identifiable psychology
