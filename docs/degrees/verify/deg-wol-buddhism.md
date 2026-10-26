@@ -1022,3 +1022,43 @@ session). Measured git commit times (the API pipeline preserves
 commit dates, so these are commit times): B-V23 channel
 resolution 06:08:30Z; B-V24 b5 assignment QC 06:09:28Z. Content
 above is unchanged.
+
+### B-V25 — b9 aggregates assignment QC (2026-10-26T06:16Z; verify-pplx-w3-1026a, deg-verify-a)
+
+Sampled the worker's v1.2 aggregates thread against the live page
+(https://www.accesstoinsight.org/lib/study/khandha.html, fetched fresh
+this pass):
+
+- **Citation/license CORROBORATED:** "The Five Aggregates: A Study
+  Guide" by Thanissaro Bhikkhu; the page states the license verbatim
+  ("The text of this page ... is licensed under a Creative Commons
+  Attribution-NonCommercial 4.0 International License"); end-of-page
+  copyright "©2002,2010 Metta Forest Monastery"; "First published on
+  ATI in 2002. Last revised for Access to Insight on 30 November
+  2013. Revised 2010."; BCBS Edition — all match the module's source
+  table.
+- **Section list CORROBORATED:** Introduction, The Questions,
+  Constructing the Aggregates, Constructing a Self, Constructing the
+  Path, Deconstruction (plus Glossary/Abbreviations) — the module's
+  optional-sections list matches.
+- **"The Questions" boundaries VERBATIM:** first sentence ("There are
+  some cases in which a person overcome with pain...") and last
+  sentence ("Precisely this Noble Eightfold Path: right view, right
+  resolve, right speech, right action, right livelihood, right
+  effort, right mindfulness, right concentration.") both match the
+  module exactly.
+- **Introduction first sentence VERBATIM** ("The Buddha's Awakening
+  gave him, among other things, a new perspective on the uses and
+  limitations of words.") ✓.
+- **Minor finding — routed to the b9 owner:** the module states the
+  Introduction runs "to 'As long as you're still alive, you can
+  employ the khandhas as needed for whatever skillful uses you see
+  fit.'" — but on the page the Introduction continues one further
+  sentence and its actual last sentence is "After that, you're
+  liberated from all uses and needs, including the need to find
+  words to describe that freedom to yourself or to anyone else." The
+  stated boundary stops one sentence short of the section's end;
+  either extend the quoted boundary to the section's true last
+  sentence or state the exclusion explicitly (and recheck the ~2,600
+  word count, which the ledger records as 2,619 measured — not
+  recounted this pass).
