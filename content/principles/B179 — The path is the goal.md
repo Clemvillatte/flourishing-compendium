@@ -28,6 +28,9 @@ The Buddhist formulation of the principle — usually attributed to the Dogen tr
 - [A Buddhist Library excerpt](https://www.abuddhistlibrary.com/Buddhism/G%20-%20TNH/TNH/From%20The%20Miracle%20of%20Mindfulness/Teaching.htm)
 - [Dogen, Bendowa, Maitri Retreats](https://www.maitri-retreats.com/post/practice-and-realization-are-one)
 
+## Stories
+- [[ST509 — Pang Draws Water|509. Pang Draws Water]]
+
 ## Psychology parallels
 
 - **[[Intrinsic motivation|Intrinsic motivation]]**, process-pursuit is self-sustaining (Deci and Ryan, 2000)

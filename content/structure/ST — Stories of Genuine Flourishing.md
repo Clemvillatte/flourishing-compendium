@@ -223,6 +223,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST458 — The Telephone as a Bell of Mindfulness]]
     - [[ST502 — The Noise and Clatter of the Kitchen]]
     - [[ST427 — A Bucketful of Rice]]
+    - [[ST509 — Pang Draws Water]]
 - [[ST-S03 — Part III — Pragmatist and Process Stories]]
   - [[ST-S03.01 — III.1 First Principles of Process]]
     - [[ST374 — Poincare Leaves the Problem and Returns to Check It]]
