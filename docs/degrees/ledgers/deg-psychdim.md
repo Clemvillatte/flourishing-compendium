@@ -451,7 +451,6 @@ verifier's bounds, adding no new sources and no new reading burden:
   the alignment map rows 1 and 4 were updated to match the repaired
   sequence.
 
-<<<<<<< HEAD
 ADVISOR QC ROUND 2 corrections applied (same session, clock measured
 02:18Z): the first-attempt prompt moved to the end of Step 2 and the
 second-attempt prompt to the end of Step 3, with Step 5 describing
@@ -465,14 +464,34 @@ practice covering estimate, interval, causal limit and the open
 practical-importance question; the module's verification note now says
 no new external-source assignments rather than no new reading burden.
 
-=======
->>>>>>> 86980172e (deg-psychdim: M1 pedagogical follow-up repairs M1-PED-01/02/03 applied (recall ordering, magnitude outcome, inclusion assessment); recheck requested from deg-verify-b)
 RECHECK REQUESTED from deg-verify-b (verifier-af06bd9e) and the
 pedagogical reviewer per the follow-up's next-check note: the printed
 learner sequence, one completed appraisal and one exclusions-only scope
 answer. The module remains DRAFT NOT CLEARED; the Phase 0 stop-gate
 conflict is still routed to the live supervisor (supervisor-pplx-1026d)
 for a documented ruling; these repairs gate-clear nothing.
+
+### M3 exit-clause repair APPLIED (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:19Z)
+
+The deg-verify-b commentary-alignment packet
+(verify/deg-psychdim-m3-commentary-alignment.md) found the M3 progression
+exit clause ("can appraise a rumination induction study") asks the
+learner to appraise a primary experiment while the opened source
+(Ehring 2021) is a commentary that does not supply one experiment's
+details. The one-clause repair is APPLIED to the progression spine M3
+row exactly as proposed: the exit now reads "can appraise a
+commentary's claim about experimental evidence, distinguish the
+synthesis from a primary experiment report, and name the missing
+information needed to assess the strength and applicability of that
+claim"; the other M3 exit capabilities are unchanged. The packet's
+source-boundary and answer-frame material (the source-limited pass and
+fabricated-detail reject responses) is recorded for the eventual M3
+production session; the packet adds no new topic and no clinical
+exercise. The verifier's M1-followup refinement note (the earlier audit
+recovered the standardised point estimates; this session's M1 wording
+already treats scaling as not established for the novice) is noted; no
+further M1 change is required by it.
+
 
 ## Sources opened
 
@@ -1344,7 +1363,7 @@ feeding the next module's entry:
 |---|---|---|
 | M1 (L1) | can define the six dimensions and the variation-selection-retention-context frame in their own words; can name the levels of analysis; can appraise a simple study's design and evidence type using a worked model; can state what the degree covers and excludes | M2 entry |
 | M2 (L2) | can apply the process model of emotion regulation to an own episode of suffering or flourishing as well as a case not used in the materials; can spot emotion functions in a personal episode; can compare two accounts of emotion naming where they disagree | M3 entry |
-| M3 (L2) | can apply conditioning, memory and judgment frameworks to a new case; can explain one visual illusion by its depth cue; can analyse an RNT episode (own or given) against its defining features; can appraise a rumination induction study | M4 entry |
+| M3 (L2) | can apply conditioning, memory and judgment frameworks to a new case; can explain one visual illusion by its depth cue; can analyse an RNT episode (own or given) against its defining features; can appraise a commentary's claim about experimental evidence, distinguish the synthesis from a primary experiment report, and name the missing information needed to assess the strength and applicability of that claim | M4 entry |
 | M4 (L2) | can map symptoms or own attentional struggles to attention networks; can interpret network scores; can compare two attentional training mechanisms; can explain one attentional blindness phenomenon by the attention window | M5 entry |
 | M5 (L2 to L3) | can assess their own self-concept clarity with its limits; can chart an identity domain over time; can write a trait account with the person-situation caveat | M6 entry |
 | M6 (L2) | can classify their own motivations on the autonomy continuum; can analyse one of their own goals' adherence with intrinsic and extrinsic reasons | M7 entry |

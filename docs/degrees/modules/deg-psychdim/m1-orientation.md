@@ -128,7 +128,6 @@ the graded work asks it of every example you bring. For each dimension you
 name, you will also state three things: what matters in the case, what the
 framework helps you understand or choose there, and one thing the case
 leaves uncertain. Watch the move once, demonstrated on Jordan's attention.
-<<<<<<< HEAD
 What matters in the case: the run is the goal, the evenings are the hours
 that could hold it, and the couch's ease keeps winning those hours. What
 the framework helps with: attention selects which information gets
@@ -151,22 +150,6 @@ Retrieval activity 1, first attempt (closed book, now): from memory,
 write one sentence defining each of the six dimensions, with one example
 of each from your own life. Keep what you write; it is practice and is
 not submitted.
-=======
-What matters in the case: the essay is due the next day, the run is the
-goal, and the phone's lights keep interrupting both. What the framework
-helps with: attention selects which information gets processed, so the
-lever is what the selecting process has to work with, the phone in another
-room and the notifications off, rather than reading harder while the
-interruptions continue. What it leaves uncertain: this case alone cannot
-tell whether the trouble is in selecting, sustaining or shifting
-attention, and knowing which would change the fix. Now complete the same
-three-part reflection yourself, in writing, on Jordan's motivation (the
-doctor's warning against the memory of the runner's high): what matters in
-the case is given above; you supply what the framework helps Jordan
-understand or choose there, and one thing the case leaves uncertain. You
-will use the same three-part move on your own examples in the graded
-deliverable.
->>>>>>> 86980172e (deg-psychdim: M1 pedagogical follow-up repairs M1-PED-01/02/03 applied (recall ordering, magnitude outcome, inclusion assessment); recheck requested from deg-verify-b)
 
 Run the same case through the variation-selection-retention-context frame
 from the Maitland reading. The variation: Jordan tries mornings, lunchtimes
@@ -292,23 +275,12 @@ survey and the follow-up surveys](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428
    measure of how much the association matters in practice. One further
    move belongs in every appraisal, and this is where it is demonstrated:
    say what you would need to judge whether this association matters in
-<<<<<<< HEAD
    practice. To judge practical importance, we would need to establish
    how this coefficient is scaled and what difference on the adherence
    measure would matter; neither is established by what you have read
    here. The honest answer at this module's level is to report the
    estimate and its interval, and to state that practical magnitude
    cannot be judged from this report alone, naming what would be needed.
-=======
-   practice. The beta is an estimate on this sample's measures, rating
-   scales running 1 to 7; to call its size practically meaningful you
-   would need a benchmark for what a meaningful change on that scale
-   looks like for resolution-keeping, and the paper does not supply one.
-   The honest answer at this module's level is to report the estimate and
-   its interval, and to state that practical magnitude cannot be judged
-   from this report alone, naming what would be needed. Saying that is
-   the competency, not a gap in it.
->>>>>>> 86980172e (deg-psychdim: M1 pedagogical follow-up repairs M1-PED-01/02/03 applied (recall ordering, magnitude outcome, inclusion assessment); recheck requested from deg-verify-b)
    Nothing was
    manipulated, so the study cannot show that intrinsic motivation causes
    adherence; it shows that people who rated their resolutions as more
@@ -333,14 +305,8 @@ later.)
    probabilities nor treatment benefits. Your task in
    the faded practice: name the design, the evidence type, the estimate
    and its interval, and what this result can and cannot support, then add
-<<<<<<< HEAD
    the magnitude move: what further information you would need to judge
    whether it matters in practice. One difference beyond the
-=======
-   the magnitude move you just watched: what further information you would
-   need to judge whether it matters in practice. The moves are the ones
-   you just watched, including that one. One difference beyond the
->>>>>>> 86980172e (deg-psychdim: M1 pedagogical follow-up repairs M1-PED-01/02/03 applied (recall ordering, magnitude outcome, inclusion assessment); recheck requested from deg-verify-b)
    numbers: the first prediction had no earlier adherence to adjust
    for, because adherence was not measured at the first survey; this
    second prediction sits in a model that also carries the previous
@@ -378,24 +344,11 @@ and leave the change-over-time question open: whether the association
 
 ### Step 5: practice and assessment (all outcomes)
 
-<<<<<<< HEAD
 - Retrieval activity 1 (Outcome 1, spaced, closed book both times): the
   two attempts were scheduled at the end of Step 2 and the end of Step
   3, with the Step 3 reading as the intervening work. The second attempt
   is the draft of graded deliverable a; self-assess it against rubric
   criterion 1 when you finalise the deliverable.
-=======
-- Retrieval activity 1 (Outcome 1, spaced, closed book both times): from
-  memory, write one sentence defining each of the six dimensions, with one
-  example of each from your own life. First attempt: now, after Step 2,
-  before anything else; keep it, but it is practice, not submitted. Then
-  do the Step 3 reading, which is the intervening work that makes the
-  spacing real. Second attempt: after Step 3, from memory again, without
-  looking at your first attempt. The second attempt is the draft of graded
-  deliverable a; comparing the two attempts shows you what the spacing
-  changed. Self-assess against rubric criterion 1 when you finalise the
-  deliverable.
->>>>>>> 86980172e (deg-psychdim: M1 pedagogical follow-up repairs M1-PED-01/02/03 applied (recall ordering, magnitude outcome, inclusion assessment); recheck requested from deg-verify-b)
 - Retrieval activity 2 (Outcome 2, after the second pass): take one
   behaviour of your own that you have tried to change and name its
   variation, its selection, its retention, and the part of your context
@@ -497,15 +450,9 @@ learner can self-check.
    show causation because nothing was manipulated, and the completer
    analysis is a sensitivity check on drop-out, which is a different
    question from causation; and I cannot judge whether an association of
-<<<<<<< HEAD
    this size matters in practice from this report alone, because how the
    coefficient is scaled and what difference on the adherence measure
    would matter are not established by what I have read." Rejection: "The study proves intrinsic
-=======
-   this size matters in practice from this report alone, because I would
-   need a benchmark for a meaningful change on the study's rating scale,
-   which it does not supply." Rejection: "The study proves intrinsic
->>>>>>> 86980172e (deg-psychdim: M1 pedagogical follow-up repairs M1-PED-01/02/03 applied (recall ordering, magnitude outcome, inclusion assessment); recheck requested from deg-verify-b)
    motivation works because p < .05" (no design named, p value read as
    proof, causal claim from a correlational design), copying the
    coefficient, standard error and p-value without the design, the
@@ -598,12 +545,8 @@ sources.
 
 The pedagogical follow-up repairs (M1-PED-01 to 03,
 verify/deg-psychdim-m1-followup-2026-10-26.md) add no new sources and no
-<<<<<<< HEAD
 new external-source assignments: every repair reuses material already
 verified above,
-=======
-new reading burden: every repair reuses material already verified above,
->>>>>>> 86980172e (deg-psychdim: M1 pedagogical follow-up repairs M1-PED-01/02/03 applied (recall ordering, magnitude outcome, inclusion assessment); recheck requested from deg-verify-b)
 the Woolley et al. 2025 paper remains optional further reading, and the
 standard error and z statistics were removed from the required path, not
 added to it.
