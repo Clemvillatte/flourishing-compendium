@@ -1,3 +1,9 @@
+
+## VERIFICATION CHECKPOINT (2026-10-26 00:37Z, sup-1026b — freedom dossier quote sample)
+
+2/2 verbatim against freshly opened carriers: Rousseau Social Contract I.1
+(Cole, Gutenberg) and Reynolds & Renaudie SEP Sartre (the factual-state
+passage exact). Session total 26 verbatim spans across 15 sampled pages.
 ## Worker checkpoint (2026-10-26 00:58Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — concept page Bracketing: all four quotes confirmed VERBATIM
