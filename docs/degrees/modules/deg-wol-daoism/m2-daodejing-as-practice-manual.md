@@ -14,9 +14,10 @@ problems; it is a promise that you will know how to use the text
 rather than only admire it.
 Source verification evidence is in ledgers/deg-wol-daoism.md.
 
-<!-- STATUS: DRAFT, NOT CLEARED. Awaiting supervisor module-QC
-rereview of the bounded repairs; not cleared for degree integration
-or Academy display. -->
+<!-- STATUS: QC PASS (supervisor module-QC 1026e, 2026-10-26, at
+daf0568d; whole-degree QC 1026a; whole-degree gate PASS 1026h,
+reviews/deg-wol-daoism-whole-degree-gate-1026h.md); cleared for degree
+integration and Academy display. -->
 
 ## Level and placement
 

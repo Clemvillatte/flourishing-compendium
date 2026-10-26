@@ -8,14 +8,14 @@
    "file": "docs/degrees/modules/deg-wol-daoism/m1-orientation.md",
    "advisory_qc": "ACCEPTED",
    "advisory_qc_rounds": 6,
-   "supervisor_module_qc": "MODULE-QC PASS at 575e0f52; PASS extends to 1d77f8b5 after the advisor-QC round delta (post-PASS addendum, supervisor-pplx-1026e) (delta re-review, supervisor-pplx-1026e: all four bounded repairs verified; workload counting rules re-run by the reviewer (4,456 teaching-prose tokens; Butterfly Dream 67 tokens reproduced on the fetched Eno source); total 230 min correct). Gate cleared; whole-degree/publication gates separate. PASS extends to e8e202ff (changed-hash rereview, supervisor-pplx-1026e 2026-10-26: the 1d77f8b5->e8e202ff diff verified bounded \u2014 the advisor-routed Neiye-contradiction fix + the eight-token recount; receipt verify/deg-wol-daoism-m1-changed-hash-rereview-1026e.md).",
+   "supervisor_module_qc": "MODULE-QC PASS (supervisor-pplx-1026e, 2026-10-26) at e8e202ff; post-repair canonical hash 25e3e7d0 (comment-only STATUS repair, receipt verify/deg-wol-daoism-m1-m2-status-repair-1026o.md, 2026-10-26 1026o); whole-degree QC 1026a PASS; whole-degree gate PASS 1026h.",
    "status": "bounded repairs applied 2026-10-26 (worker-pplx-1026a-daoism, receipt verify/deg-wol-daoism-m1-repairs-1026a.md; Ziporyn quote independently re-verified verbatim via alternate transcript route); supervisor changed-hash rereview owed"
   },
   "m2": {
    "file": "docs/degrees/modules/deg-wol-daoism/m2-daodejing-as-practice-manual.md",
    "advisory_qc": "ACCEPTED",
    "advisory_qc_rounds": 5,
-   "supervisor_module_qc": "MODULE-QC PASS at daf0568d (delta re-review, supervisor-pplx-1026e): all four bounded repairs verified; B-term quote independently verified against the reopened Ziporyn transcript (receipt deg-wol-daoism-m2-bterm-quote-verification-1026e.md); workload 2,913 tokens re-run by the reviewer; total 149 min correct. Gate cleared; whole-degree/publication gates separate.",
+   "supervisor_module_qc": "MODULE-QC PASS (supervisor-pplx-1026e, 2026-10-26) at daf0568d; post-repair canonical hash cc6b024b (comment-only STATUS repair, receipt verify/deg-wol-daoism-m1-m2-status-repair-1026o.md, 2026-10-26 1026o); whole-degree QC 1026a PASS; whole-degree gate PASS 1026h.",
    "status": "bounded repairs applied 2026-10-26 (worker-pplx-1026a-daoism, receipt verify/deg-wol-daoism-m2-repairs-1026a.md); Ziporyn B-term quote VERIFIED verbatim this pass via alternate transcript route (verification-open flag closed); supervisor changed-hash rereview owed"
   },
   "m3": {

@@ -15,9 +15,10 @@ that your circumstances will be easy to change; you will test its
 usefulness on your own material as the degree proceeds. Source
 verification evidence is in ledgers/deg-wol-daoism.md.
 
-<!-- STATUS: DRAFT, NOT CLEARED. Awaiting independent module-QC
-re-review of the bounded repairs; not cleared for degree integration
-or Academy display. -->
+<!-- STATUS: QC PASS (supervisor module-QC 1026e, 2026-10-26, extends to
+e8e202ff; whole-degree QC 1026a; whole-degree gate PASS 1026h,
+reviews/deg-wol-daoism-whole-degree-gate-1026h.md); cleared for degree
+integration and Academy display. -->
 
 ## Level and placement
 
