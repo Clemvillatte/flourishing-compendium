@@ -70,20 +70,18 @@ capacity is the one you do not notice yourself doing, like the
 beating of your own heart ([transcript](https://youtubetotranscript.com/transcript?v=EJ1bB2w2gBk&current_language_code=en)).
 Then he introduces the Zhuangzi line that is this module's spine:
 when the shoe fits you forget your feet. Ziporyn explicitly names
-Zhuangzi as the source of the shoe line, so the videos are not
-equal on this point: one gloss is attributed to Zhuangzi by the
-speaker, the other is offered as a practitioner's description.
-Keep the difference in mind when you do the checking in
-deliverable b.
+Zhuangzi as the source of the shoe line. When you check his
+mastery-without-awareness gloss in deliverable b, use this same
+transcript and the assigned passages, not other summaries.
 
 The documentary chapter on martial arts and wu wei gives a
 practitioner's first-person description of a similar state. The
-module does not use that description in the graded work, because
-the transcript service does not print timestamps beside the
-speaker's words and the module will not claim a verified
-placement it cannot show. The graded comparison in deliverable b
-uses Ziporyn's gloss, which is printed in his lecture segment
-with its own chapter label.
+module does not assign that chapter or use that description in
+the graded work, because the transcript service does not print
+timestamps beside the speaker's words and the module will not
+claim a verified placement it cannot show. The graded comparison
+in deliverable b uses Ziporyn's gloss only, which is printed in
+his lecture segment with its own chapter label.
 
 ## Outcomes
 
@@ -153,9 +151,11 @@ then a second time with a pencil. On the second reading, mark:
 Notice that the story is not a summary of a teaching. It is a
 narrated demonstration with one direct claim inside it, spoken by
 Cook Ding himself, and one interpretive claim at the end, spoken
-by Lord Wenhui. The translator's closing paragraph, which you
-also read, names the set of stories this one belongs to and calls
-them the "knack passages."
+by Lord Wenhui. This module assigns the story proper only; the
+translator's closing commentary, which names the set of stories
+this one belongs to and calls them the "knack passages," is
+available in the same document but is not part of the assigned
+reading time.
 
 ### Step 2 — Worked demonstration: what the story says versus what
 it does not (reading time included in the module-prose allowance
@@ -274,10 +274,11 @@ about 5 minutes each)
    your answer against the passage.
 
 4. Ungraded practice for deliverable b: take Ziporyn's
-   mastery-without-awareness line. Find the closest sentence in an
-   assigned passage. Write one sentence saying whether the gloss
-   adds something the passage does not say. You will do this
-   again, graded, in deliverable b.
+   mastery-without-awareness line. In Cook Ding (section 3.2) or
+   the Hunchback (section A.1), find the closest sentence. Write
+   one sentence saying whether the gloss adds something the
+   passage does not say. You will do this again, graded, in
+   deliverable b.
 
 ### Step 6 — Graded deliverables (about 50 minutes)
 
@@ -308,7 +309,8 @@ with its source. Take Ziporyn's statement that the highest
 virtuosity is the things we do without realising we are doing
 them. Then:
 
-- Find the sentence in an assigned Zhuangzi passage that comes
+- In Cook Ding (section 3.2) or the Hunchback (section A.1), find
+  the sentence that comes
   closest to supporting the gloss. Quote it and cite the passage.
 - Identify one training detail in that passage (the Hunchback's
   months of balancing balls, or Cook Ding's account of his
@@ -352,7 +354,7 @@ Graded by rubric. Each criterion is scored Pass or Revise.
 |---|---|---|
 | 1. The learner quotes an assigned Zhuangzi passage and cites it, and distinguishes what the passage says from what they propose about their own situation | The learner names the passage (Cook Ding section 3.2, or the Hunchback section A.1, or the Butterfly Dream 2.20), quotes the sentence that describes the absorbed moment, and states in their own words what the passage itself claims before applying it. A generic reflection about flow or being in the zone that never quotes or cites an assigned passage does not pass. | The learner describes their own experience vividly but never quotes or cites an assigned passage, or quotes it without distinguishing the passage's claim from their application. |
 | 2. The learner identifies the training detail in the story as distinct from the state it produces | The learner points to the Hunchback's months of balancing balls or Cook Ding's account of his progression from seeing the whole carcass at the beginning to no longer seeing it whole after three years, and states that the story gives both a training history and a description of the resulting state, and that these are different things. | The learner treats the story as though it prescribed effortlessness directly, or as though the state it describes could be had without the training, or cites Cook Ding's nineteen years with the knife as a stated preparation period. |
-| 3. The learner checks Ziporyn's gloss against an assigned passage | The learner takes Ziporyn's mastery-without-awareness line, finds the closest sentence in an assigned passage (Cook Ding or the Hunchback), quotes it, and states whether the gloss adds something the sentence does not say. The learner also identifies a training detail in that same passage, distinguishes the training history from the resulting state, and explains why neither supplies a universal training prescription. The learner names the addition rather than saying vaguely that the gloss "captures the spirit." | The learner accepts the gloss without checking it against a passage, or checks it but does not name what the gloss adds, or treats the story as prescribing effortlessness directly. |
+| 3. The learner checks Ziporyn's gloss against Cook Ding or the Hunchback | The learner takes Ziporyn's mastery-without-awareness line, finds the closest sentence in Cook Ding (section 3.2) or the Hunchback (section A.1), quotes it, and states whether the gloss adds something the sentence does not say. The learner also identifies a training detail in that same passage, distinguishes the training history from the resulting state, and explains why neither supplies a universal training prescription. The learner names the addition rather than saying vaguely that the gloss "captures the spirit." | The learner accepts the gloss without checking it against a passage, or checks it but does not name what the gloss adds, or treats the story as prescribing effortlessness directly. |
 | 4. The learner engages the inside-view versus puzzle-frame comparison with passage evidence | The learner supports or challenges the module's comparison of the Hunchback (performer's inside view) and the Butterfly Dream (puzzle about which state is real) with quoted evidence from both passages, and says which framing they find more useful and why. Agreement with the module's description is not required; evidence is. | The learner treats the two passages as interchangeable, or describes only one of them, or asserts the comparison without quoting either passage. |
 | 5. The learner makes a reasoned application to their own situation | The learner describes a concrete situation from their own life, describes any change in self-monitoring (including no change), gives a reason for calling that self-monitoring avoidable strain or useful vigilance in that situation, and either proposes a bounded change or gives a reasoned decision not to change, naming a limit they would keep. The learner also states what the passage cannot establish about their situation. | The learner quotes a passage and separates it from their application but never makes the strain-versus-vigilance call, or makes the call without a reason, or proposes a change with no limit. |
 
@@ -419,9 +421,10 @@ recorded in the degree ledger at
 docs/degrees/ledgers/deg-wol-daoism.md. The three assigned
 Zhuangzi passages are read in the Eno Inner Chapters translation
 (verified text, translator stated, educator license, no paywall).
-The two assigned videos are verified videos with printed chapter
-labels on their own descriptions, and the module's quotes from
-their transcripts are recorded with the transcript-service
+The assigned video segments are from one verified video (Ziporyn)
+whose printed chapter labels appear on the video's own
+description, and the module's quotation from its transcript is
+recorded with the transcript-service
 locator in the ledger. No attachment in this module carries an
 "imported" label.
 

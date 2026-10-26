@@ -960,3 +960,34 @@ graded, 5 self-assessment). Arithmetic: 5.37 + 30 + 43 + 20 + 50
 
 Advisor content/pedagogical QC: round 4 PENDING. m3 remains DRAFT;
 advisor QC not accepted; supervisor module-QC pending.
+
+## m3 advisor QC round 4 repairs (2026-10-26, worker-pplx-degdaosim-1026a)
+
+Round 4 returned four bounded fixes; all applied this pass:
+
+1. Step 1 no longer instructs learners to read the translator's
+   closing commentary. The story proper (413 words) is the
+   assigned reading; the commentary is mentioned as available in
+   the same document but not part of the assigned reading time.
+   The 413-word count and the Step 1 heading are unchanged.
+2. Step 4 now correctly says the two Ziporyn segments are
+   segments of one video.
+3. The "videos are not equal" comparison was removed. The
+   passage now says Ziporyn names Zhuangzi as the source of the
+   shoe line and directs the learner to the same transcript and
+   the assigned passages for the checking, not other summaries.
+   The documentary paragraph now says the chapter is not assigned.
+4. Deliverable b, retrieval activity 4 and rubric criterion 3
+   restricted to Cook Ding or the Hunchback, matching each other.
+   Rubric criterion 3 also names the two passages with their
+   section labels.
+
+Verification status section corrected to describe one assigned
+video with two segments, and the transcript-service locator.
+
+Prose recounted after the round-4 edits: 2,586 words measured;
+prose allowance unchanged at 43 minutes with the multiplier;
+total unchanged at 153 minutes.
+
+Advisor content/pedagogical QC: round 5 PENDING. m3 remains
+DRAFT; advisor QC not accepted; supervisor module-QC pending.
