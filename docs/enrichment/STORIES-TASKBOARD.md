@@ -283,3 +283,24 @@ ST427 Ladder -> ST389; ST428 Tinker's Chains -> ST390; ST429 Backsliding ->
 ST391. Also historical: ST411->ST393, ST412->ST394, ST413->ST395, ST414->ST396,
 ST307 Rock Climbers -> ST118, ST430 Franklin's Speckled Axe -> ST392. Fix these
 wikilinks when the thinker-backlink programme resumes.
+
+## SUPERVISOR REGISTRATION SURVEY (2026-10-26 07:55Z, supervisor-pplx-1026e)
+
+All 157 ready-branded drafts across s1a-s1f were dry-run through story_register.py
+with the live title-collision guard:
+
+- 155 are ALREADY PUBLISHED under other ST numbers (the guard correctly refuses
+  them; the ready lane labels are stale - these drafts need no action, their
+  stories are live).
+- 43 additional drafts carry returned/qc_pending statuses (not registrable; the
+  storyteller lanes' live work).
+- 1 registrable: s1f-010, an ST004 UPGRADE FLAG, not a new story - and its upgrade
+  is ALREADY APPLIED to the published ST004 (the body carries the verbatim Legge
+  passage; Sources lists Legge opened and verified 2026-10-26). Disposition:
+  marked satisfied-applied; NOT registered (registering it would mint a duplicate
+  of The Empty Boat).
+
+Conclusion: the ready-draft backlog contains ZERO unpublished new stories. The
+stories programme's remaining work is the qc_pending/returned items in the
+storyteller lanes, not registration. Registration sessions are NOT needed until
+storytellers finish new drafts.
