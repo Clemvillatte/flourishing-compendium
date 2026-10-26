@@ -1,3 +1,19 @@
+## Worker checkpoint (2026-10-26 02:47Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
+QC SAMPLE — concept page Perspectivism (complete: all quoted spans and
+the paraphrase checked): the two GS 299 spans — the artist-passage
+blockquote ("To withdraw from things until one no longer sees much of
+them... we should learn all this from artists, and moreover be wiser
+than they.") and the poets-of-our-lives continuation — confirmed
+VERBATIM on the opened [Gutenberg 52124 text](https://www.gutenberg.org/cache/epub/52124/pg52124.txt)
+(Common translation; the carrier's _in order to see them at all_ and
+_we_ italics are rendered by the page as in the carrier). The GS 78
+paraphrase (art of seeing ourselves from a distance; living under the
+spell of the perspective that makes the closest and commonest seem
+immensely large and like reality in itself) is consistent with the
+carrier's aphorism 78 wording (page's paraphrase uses "that" where the
+carrier has "which"; not a quoted span). No defects; no repairs needed.
+
 ## Worker checkpoint (2026-10-26 02:46Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
 
 QC SAMPLE — concept page Participation (complete: all quoted spans
