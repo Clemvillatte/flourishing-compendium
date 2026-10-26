@@ -461,3 +461,18 @@ practice, b4 foundational meditations (v2), b5 Thai Forest way, b6 Zen,
 b7 Insight and Secular, b8 capstone. ALL await supervisor module-QC; the
 m1-four-truths alternative draft from the parallel session remains on the
 board for the canonical-draft decision.
+
+## Module b9 (elective) drafted (2026-10-26, worker-pplx-buddhism-1026a)
+
+b9 (the mind on the cushion: the five hindrances, elective, L2) drafted
+at docs/degrees/modules/deg-wol-buddhism/b9-elective-mind-on-the-cushion.md.
+Sources verified THIS session: Thanissaro "Hindrances"
+(https://www.youtube.com/watch?v=PcR_fI6p9k8, watch page 0:25:00,
+CC BY-NC 3.0, content: the five hindrances, recognizing them, drawbacks,
+comfortable breathing; credentials from b1's opened buddho.org page) and
+Nyanaponika Thera, The Five Mental Hindrances and Their Conquest (The
+Wheel No. 26, BPS 1993; opened on Access to Insight with the free
+redistribution license stated). The module reads the learner's own
+sitting log as the laboratory (the Gate-1 elective test: the hindrances
+as experienced, not as scholastics). The aggregates thread remains owed
+(flagged in the module and here).
