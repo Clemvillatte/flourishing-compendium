@@ -53,6 +53,14 @@ def main():
     for nsid, nsrec in spec.get('new_sources', {}).items():
         if nsid not in src:
             d['sources'].append(nsrec); src[nsid] = nsrec; log.append(f'new source {nsid}')
+        elif {k: src[nsid].get(k) for k in nsrec} != nsrec:
+            # the assignments file is authoritative for the records it names (a concurrent
+            # splice once reused these ids for different readings)
+            src[nsid].clear(); src[nsid].update(nsrec); log.append(f'source {nsid} replaced from new_sources')
+    used_elsewhere = set()
+    for sid in spec.get('drop_sources', []):
+        if sid in src:
+            d['sources'] = [x for x in d['sources'] if x['source_id'] != sid]; src.pop(sid); log.append(f'source {sid} dropped')
     for mid, ms in spec['modules'].items():
         m = d['modules'][mid]
         old = {}

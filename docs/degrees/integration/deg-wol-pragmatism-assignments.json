@@ -58,6 +58,9 @@
      "level": "Intermediate",
      "locator": "Lecture VI, four short selections totalling 157 words (about 1 minute at 130 words per minute), printed in full in the module’s second step; the selections are not contiguous in the lecture"
     }
+   ],
+   "remove": [
+    "PRAG-M3-05"
    ]
   },
   "mod-prag-4": {
@@ -152,5 +155,9 @@
  "manifest_label_corrections_for_content_lane": [
   "deg-wol-pragmatism-manifest.json m4: PRAG-M4-01 lists both 778 and 476 words; per the module doc, 778 words (Reading A) is How We Think and 476 words (Reading B) is Human Nature and Conduct (PRAG-M4-02). PRAG-M4-02's entry carries no word count.",
   "deg-wol-pragmatism-manifest.json m3: PRAG-M3-04 is labelled Lecture VI with the 264-word passage; per the module doc the 264-word passage (Reading B2) is in Lecture II, and Lecture VI (Reading B3) is the 157-word set of four selections. The 952 and 264-word passages share the PRAG-M3-03 (Lecture II) source."
- ]
+ ],
+ "drop_sources": [
+  "PRAG-M3-05"
+ ],
+ "reconciliation_note_1026b": "PRAG-M3-05 was minted by a concurrent splice (worker-pplx-1026q, Lecture VI under a second id) and reused PRAG-M3-04 for Lecture II; the manifest ids stand: M3-02 Will to Believe, M3-03 Lecture II (B1+B2), M3-04 Lecture VI (B3)."
 }
