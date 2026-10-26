@@ -1,7 +1,8 @@
 # Psychological Dimensions M5: independent supervisor review
 
-**Disposition: bounded return for two alignment repairs, plus one
-verification note.** No module gate cleared at this hash. This is an
+**Disposition: bounded return for three items: two alignment repairs
+and one open verification requirement (McAdams window).** No module
+gate cleared at this hash. This is an
 independent module review, not a complete-degree or public publication
 clearance. The producer's adviser QC failed for credits on this
 module, so this supervisor review is the module's QC of record.
@@ -59,21 +60,24 @@ measured locally.
    (the development comparison can stay optional), or obtain an
    approved narrowing of the outcome.
 
-## Verification note (McAdams boundary)
+## Verification note (McAdams boundary) — open verification item
 
 The module assigns McAdams 10:07–13:31, stopping "before the
 participant's negative-childhood interview example"; the video audit
 receipt proposed 10:07–14:14. The opened watch page prints
 auto-generated chapters ("Understanding narrative identity" at 10:07,
 "Themes of narrative identity" at 13:30), which supports the module's
-chapter-anchored 13:31 boundary as the more conservative choice and
-makes the audit's 14:14 include 43 seconds of the next chapter. A
-continuous timestamped transcript read that would pin the participant
-example's start is BLOCKED from this environment (YouTube caption
-bot-wall; same documented situation as the M4 flag). The producer
-should either keep the chapter-anchored 13:31 with a one-line
-boundary note in the ledger, or adjust from an actual transcript
-read. Not a gate blocker by itself; it is a documentation item.
+boundary as the more conservative chapter-anchored choice. However,
+the chapter markers alone do not establish that the module's claimed
+teaching coverage completes by 13:31 or where the participant example
+actually begins; a continuous timestamped transcript read is required
+and has NOT yet been done or attempted for this recording (the
+caption bot-wall documented in the M4 review applied to the Bloom
+lecture; no retrieval was attempted for McAdams and none should be
+assumed blocked or open). The producer must either document the
+transcript evidence for the 13:31 stop or adjust the window from an
+actual read. This is an open verification requirement, not a
+documentation-only item; it joins the two alignment repairs above.
 
 ## Advisor QC
 

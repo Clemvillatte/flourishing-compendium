@@ -1,9 +1,13 @@
 # Psychological Dimensions M4: independent supervisor review
 
-**Latest disposition: MODULE-QC PASS at the hash below.** This is an
-independent module review, not a complete-degree or public publication
-clearance. The degree's remaining formal gates and the fcAcademyData
-integration decision remain separate.
+**Latest disposition: VERIFICATION OPEN; MODULE NOT CLEARED.** The
+advisory QC round ruled (2026-10-26) that an open resource-verification
+item does not close the verification acceptance test: the exact-window
+item below stays open and the module is not cleared until it is. The
+teaching, alignment, arithmetic and source-identity findings below
+stand and a re-review after the flag closes need not repeat them. This
+is an independent module review, not a complete-degree or
+publication clearance.
 
 Reviewer: `supervisor-pplx-1026f`, holding the `supervisor` baton.
 The reviewer owns no deg-psychdim production content and made no
@@ -156,6 +160,6 @@ module's boundary claims otherwise rest on the producer's documented
 whole-chapter transcript read, the dated M7 audit receipt describing
 the attention content of this chapter, and the chapter-anchored
 ordering verified above. The teaching, alignment, arithmetic and
-source-identity findings of this review stand; the MODULE-QC PASS is
-recorded with this one open verification flag, which does not affect
-any printed duration or workload number.
+source-identity findings of this review stand; the module is NOT
+cleared while this flag is open, per the advisory ruling recorded
+above. It does not affect any printed duration or workload number.
