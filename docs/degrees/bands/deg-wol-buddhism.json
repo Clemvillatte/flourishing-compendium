@@ -1,19 +1,19 @@
 {
  "band": "deg-wol-buddhism",
  "kind": "degree",
- "holder": "worker-pplx-buddhism-1026a",
+ "holder": "worker-pplx-buddhism-1026b",
  "phase": "module-production",
  "modules": {
-  "b1-ethics-first-orientation": "draft v3, segmentation landed (B-V04), transcript-read content basis; ready for supervisor module-QC",
-  "b2-four-noble-truths": "draft v2, QC repair pass applied; Dreyfus finer segmentation owed",
+  "b1-ethics-first-orientation": "draft v4, supervisor b1-review repairs applied 2026-10-26 (traditional frame placed honestly, quotation order, AN excerpt bounded, observation wording, inline links); awaiting supervisor module-QC",
+  "b2-four-noble-truths": "draft v2, task-frame independently re-verified 2026-10-26 (four verbs verbatim on AtI; alternates claim repaired; craving-not-established safeguard added); awaiting supervisor module-QC",
   "b4-foundational-meditations": "draft v2, QC round 2 applied (seven sittings, log fields, partial content verification marked); awaiting supervisor module-QC",
   "b3-sila-in-practice": "draft v1.1, QC round 3 applied (Brahm-attributed claims, worked case, comparison reframed); awaiting supervisor module-QC",
-  "b5-thai-forest-way": "draft v1.2, QC round 4: book assignment BLOCKED (text not accessible on opened page; supervisor or future worker must open the actual text); Sumedho talk verified-metadata only; awaiting supervisor module-QC",
+  "b5-thai-forest-way": "draft v1.3, book assignment UNBLOCKED 2026-10-26 (full Chah PDF opened on Amaravati CDN, two teachings read in full with measured boundaries); Sumedho talk verified-metadata only; awaiting supervisor module-QC",
   "b7-insight-and-secular": "draft v1.2, QC round 4: four-truths-as-tasks example WITHDRAWN (failed live re-verification on both sides); no example comparison question offered; Batchelor talk verified-metadata; awaiting supervisor module-QC",
   "b6-zen": "draft v1.2, QC rounds 3-4 applied (untaught practice outcome replaced, HH:MM:SS viewing stops, claim/reflection split through assessment, verified-metadata labels); awaiting supervisor module-QC",
   "b8-capstone": "draft v1.2, QC round 4: two-schools requirement aligned in outcome and rubric; revision-required pass rule; awaiting supervisor module-QC",
-  "b9-elective-mind-on-the-cushion": "draft v1.1, QC round 3 applied (date and bio claims withdrawn, honest not-observed allowed); awaiting supervisor module-QC"
+  "b9-elective-mind-on-the-cushion": "draft v1.2, aggregates thread landed 2026-10-26 (study guide sections read in full, measured); awaiting supervisor module-QC"
  },
- "notes": "Wave-2 production 2026-10-26: module set b1-b9 complete in draft after seven advisor QC rounds (b1 v3, b2 v2, b3 v1.1, b4 v2, b5 v1.2 with BLOCKED book assignment, b6 v1.2, b7 v1.2 with tasks-example withdrawn, b8 v1.2, b9 v1.1). OPEN ITEMS for supervisor: module-QC on all nine; b5 book-text access; b2 task-frame re-verification (syllabus URL fetch-failed this session; rests on deg-verify-a receipt B-V02); m1-four-truths canonical decision; aggregates elective thread; content inspection of the b5/b6/b7 recordings (verified-metadata only).",
- "updated": "2026-10-26T05:15:58Z (actual UTC clock at update)"
+ "notes": "Wave-3 repair pass 2026-10-26 (worker-pplx-buddhism-1026b): supervisor b1 repairs applied (v4); b2 task-frame re-verified with one defect repaired; b5 Chah-book assignment UNBLOCKED (v1.3, B-V16 consumed with own full-text read); b9 aggregates thread landed (v1.2); m1-four-truths archived as noncanonical per supervisor ruling; b3 rubric wording fixed; b2/b3 rebirth rubric aligned; scope module map updated to canonical b1-b9 spine. OPEN ITEMS for supervisor: module-QC on all nine; content inspection of the b4 (partial)/b6/b7/b9 recordings; AudioDharma B-V17 flag mapping (b7); duplicate-name guard; m1 reconciliation (archived, kept as evidence).",
+ "updated": "2026-10-26T06:01:09Z (actual UTC clock at update)"
 }

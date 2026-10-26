@@ -55,30 +55,38 @@ Comparison:
 
 Strategist's note (non-binding): the benchmark supports the bounded domain as drawn. Two items for the owner's eye: the rebirth-cosmology boundary (all three anchors teach karma and rebirth, and UF and Bond pair it with cosmology; owner rule, challenge recorded) and the school-list structure (community-driven, not anchor-mirrored — Secular Buddhism and Thai Forest have no direct anchor units).
 
-## Module map and coverage matrix (production owner's working map, 2026-10-26)
+## Module map and coverage matrix (canonical b1-b9 spine, updated 2026-10-26 per the supervisor's canonical ruling)
 
-Essential path: m1 → m2 → m3 → m4 → m5 → m6 → m8. Elective: m7 (no
-hidden dependency from the capstone). Levels: m1 L1, m2 L2, m3 L1/L2,
-m4-m6 L2, m7 L3 elective, m8 L4 capstone. The essential school-comparison
-work reaches L3 inside m8 before the capstone's independent analysis.
+The m1-m8 map that previously stood in this section was the superseded
+working map from the
+yielded parallel session; it is replaced by the canonical b1-b9 spine
+(supervisor ruling 2026-10-26 04:52Z: first-landed b1/b2 sequence canonical;
+the alternative m1-four-truths draft archived at
+docs/degrees/archive/deg-wol-buddhism-m1-four-truths-noncanonical.md).
+Essential path: b1 → b2 → b3 → b4 → b5 → b6 → b7 → b8. Elective: b9 (no
+capstone dependency). Levels: b1 L1; b2-b5 L2; b6-b7 L3; b8 L4 capstone;
+b9 L2 elective.
 
-| Module | Level | Content (essential unless noted) | Source status |
+| Module | Level | Content | Source status |
 |---|---|---|---|
-| m1-four-truths | L1 | Four truths as four tasks, middle way, eight path factors, canonical-vs-interpretive reading; ethics-first entry via Ajahn Brahm ethics segment | PRODUCED 2026-10-26 (both sources opened and verified this session) |
-| m2-sila | L2 | Five precepts, four immeasurables (all four, metta/karuna/mudita/upekkha), applied ethics with hard cases | BLOCKING GAP BG-1: no verified teaching source for precepts/immeasurables yet (candidates to harvest and verify) |
-| m3-meditation | L1/L2 | Foundational meditations: calm, insight, metta, guided practice taught in-degree | BLOCKING GAP BG-2: guided-practice sources unverified (BSWA guided meditations are candidates) |
-| m4-theravada-thaiforest | L2 | Theravada frame; Thai Forest lineage (Ajahn Brahm, Hallisey verified; Ajahn Chah story episode is an unverified candidate) | Sources mostly verified; one candidate to verify |
-| m5-zen | L2 | Zen: practice orientation, koans as practice | PARTIAL: Halifax verified; BG-3 needs a verified Zen teaching video |
-| m6-insight-secular | L2 | Insight/Vipassana and Secular Buddhism; comparison with traditional frames | BLOCKING GAP BG-4: candidates (IMC talks, secular-Buddhism lectures) unverified |
-| m7-psychology | L3 elective | Buddhist psychology practical portions (hindrances, aggregates in practice) | Dalai Lama Nature of Mind and Obeyesekere verified |
-| m8-capstone | L4 | Integrative capstone: sustained practice with records, written synthesis, school-by-school comparison (L3 comparison work) | Designed after m2-m6 land |
+| b1-ethics-first-orientation | L1 | Ethics-first entry: five precepts, four immeasurables, Buddhist values, first metta sitting, walk map | Drafted v4 (supervisor b1 repairs applied 2026-10-26); all five sources verified |
+| b2-four-noble-truths | L2 | Four truths as four tasks on the learner's own difficulty; tanha/chanda; rebirth frame as passing mention | Drafted v2 (task-frame independently re-verified 2026-10-26); sources verified |
+| b3-sila-in-practice | L2 | Precepts as training rules on the learner's own hard cases; rebirth placement | Drafted v1.1; sources verified |
+| b4-foundational-meditations | L2 | Breath and metta sittings, two-week training plan with log | Drafted v2; Brahmali recording verified-metadata, content inspection partial (routed) |
+| b5-thai-forest-way | L2 | Thai Forest school from inside: Sumedho talk, Chah volume (assignment UNBLOCKED 2026-10-26, two teachings read in full) | Drafted v1.3; sources verified |
+| b6-zen | L3 | Zen: Kirchner lectures 1 and 3, Rinzai/Soto | Drafted v1.2; recordings verified-metadata, content inspection owed (routed) |
+| b7-insight-and-secular | L3 | Insight/Vipassana (Fronsdal transcripts) and Secular Buddhism (Batchelor), compared | Drafted v1.2; Fronsdal transcript verified; Batchelor recording verified-metadata, content inspection owed (routed) |
+| b8-capstone | L4 | Eight-week sustained practice with records; ethical case; defended synthesis | Drafted v1.2; no new sources by design |
+| b9-elective-mind-on-the-cushion | L2 elective | Hindrances and aggregates as practical psychology, read from the learner's own log | Drafted v1.2 (aggregates thread landed 2026-10-26); sources verified |
 
 Coverage of exit capabilities: ethical core (sila, precepts, four
-immeasurables) taught and practised in m2, assessed in m2 and m8;
+immeasurables) taught and practised in b1 and b3, assessed in b3 and b8;
 practical path per school (Secular, Zen, Insight, Theravada, Thai Forest)
-taught in m4-m6, compared at L3 in m8; foundational meditations taught
-and practised in m3; applied ethics and school disagreements taught in
-m2 and m4-m6, assessed in m8. Excluded everywhere: rebirth cosmology,
+taught in b5-b7, compared at L3 in b6-b7 and assessed in b8; foundational
+meditations taught and practised in b4 (breath and metta; the insight
+method is carried by b7's Fronsdal practice — noted for the coverage
+matrix at integration); applied ethics and school disagreements taught in
+b1, b3 and b5-b7, assessed in b8. Excluded everywhere: rebirth cosmology,
 abhidharma scholastics, tantric ritual (passing mentions only where
 ethics or practice requires).
 
