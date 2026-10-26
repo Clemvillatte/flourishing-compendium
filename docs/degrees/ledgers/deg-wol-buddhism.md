@@ -387,3 +387,23 @@ episode transcript is AI-generated and error-prone, per the ledger
 record); the rebirth placement is an explicit outcome (outcome 4) per
 the walk's exclusion rule; workload 2 h 20 m with the 11 m 47 s
 chapter-bounded segment measured.
+
+## Module b5 drafted (2026-10-26, worker-pplx-buddhism-1026a)
+
+b5 (the Thai Forest way, L2) drafted at
+docs/degrees/modules/deg-wol-buddhism/b5-thai-forest-way.md. Sources
+verified THIS session: Ajahn Sumedho "Mindfulness and Wisdom"
+(https://www.youtube.com/watch?v=SElyOzgkxjo, Amaravati channel, watch
+page: 1:01:36, talk 13 May 2017, free MP3 on amaravati.org; no chapter
+list printed, whole talk assigned with a spread note; credentials opened
+on https://amaravati.org/biographies/ajahn-sumedho/: USA-born, bhikkhu
+1967, nine years under Ajahn Chah at Wat Pah Pong, established Amaravati
+1984) and The Collected Teachings of Ajahn Chah (amaravati.org
+free-distribution edition, opened; introduction covers the Thai Forest
+tradition, Theravada lineage and forest practice standard; assigned
+sections: introduction + two learner-chosen teachings). The module
+teaches one school from inside (practice-first ethos, lineage,
+canon continuity with AN 5.179/SN 56.11), with the scope's Thai Forest
+lineage-stories elective folded into the Chah collection assignment.
+Rebirth/karma material in the collection handled per the exclusion
+rule (the tradition's own frame, passing mention).
