@@ -1151,22 +1151,30 @@ posted as routed TASKBOARD notes (commits 1f96a525, 7ca637e3,
 b7d5238c, 9ba73e70, 77794648):
 
 1. Existentialism Gate-1 blocking gap (therapy evidence-and-limits):
-   two free candidates verified to the skill standard's identity,
-   access and credentials checks with durations printed (Wampold Stone
-   Lecture 1:02:38; Norcross interview 33:57); the Wampold lecture
-   content-classified from a transcript read as evidence-and-limits,
-   direct.
-2. Positive-psychology Gate-1 gaps: criticisms-of-the-field candidate
-   (Van Zyl 52:38) content-classified from a transcript read; effect-
-   size candidates posted (Wilcox BCTR talk 43:09; Brandt 1:40:28
-   identity/access/credentials verified, content read blocked by the
-   transcript service).
-3. Story reconciliation residuals verified live end-to-end: the
-   deployed site bundle shows D041→ST488, D102→ST490, D160→ST489,
+   two candidates posted with their watch pages opened (durations
+   printed, no price shown). Per-standard credential checks were NOT
+   completed (credentials came only from the recordings' own
+   descriptions, which the standard excludes); the Wampold lecture
+   was transcript-read and content-classified as general
+   psychotherapy evidence-and-limits, not existential-therapy-
+   specific; whether it satisfies the exit capability depends on that
+   capability's wording.
+2. Positive-psychology Gate-1 gaps: criticisms-of-the-field lead
+   (Brandt 1:40:28, watch page opened, content read blocked by the
+   transcript service) and effect-size candidate (Wilcox BCTR talk
+   43:09, watch page opened) posted; the Van Zyl criticisms talk
+   (52:38) content-classified from a transcript read. Per-standard
+   credential checks and content reads remain owed on all of these.
+3. Story reconciliation residuals verified in the deployed data
+   bundle (the live site's wikiData.json.gz fetched and inspected;
+   this verifies the deployed data, not the rendered presentation):
+   the bundle shows D041→ST488, D102→ST490, D160→ST489,
    B109→ST491 with the ST488-491 entries present and the stale ST411/
-   413/417 numbers gone. The Greek degree renders as in-development on
-   the live Academy; the rebuilt module is draft content on main, not
-   in the built bundles, which is the expected pre-clearance state.
+   413/417 numbers gone. The deployed app definition
+   (assets/app.js fetched from the live site) marks the Greek degree
+   in-development with an empty module list; the rebuilt module is
+   draft content on main, not in the built bundles, which is the
+   expected pre-clearance state.
 
 Baton released at session close so the supervisor or a successor can
 act on the routing requests.
@@ -1188,3 +1196,28 @@ Stanford PHIL100 bulletin, all re-opened by the reviewer) confirms the
 superseding matrix's account. The review's remaining routed items
 (production-launch authorisation; elective-branch contribution statements;
 module QC; whole-degree gate) stay with the live supervisor.
+
+### Closeout QC corrections (2026-10-26, worker-pplx-greek-1026g, advisor-directed)
+
+Accuracy repairs applied to this session's records before the final
+report: (1) the TASKBOARD verification notes and this entry originally
+claimed the candidates were "verified to the skill standard's first
+three checks"; corrected — the watch pages were opened (titles,
+channels, durations printed, no price shown), but per-standard
+instructor-credential checks were NOT completed (credentials came only
+from the recordings' own descriptions, which skill section 4 excludes),
+free playback in a player was not tested, and the Norcross and Brandt
+coverage claims rested on search excerpts (transcript reads failed) and
+are now marked UNVERIFIED; the SocialNeuro replication lecture was
+search-excerpt only (watch page never opened); the Wampold
+classification is narrowed to general psychotherapy evidence-and-limits
+(not existential-therapy-specific; the exit capability's wording
+governs). (2) The band phase's "production unblocked" is corrected to
+record that production-launch authorisation is pending the live
+supervisor's ruling (launch-set restriction; deg-gate preparatory
+review). mod-phil-1s remains DRAFT NOT CLEARED; no module-QC pass is
+claimed by this session. (3) The live-verification wording is narrowed:
+the story-reference repairs are verified in the deployed data bundle
+(wikiData.json.gz fetched from the live site), not in rendered pages,
+and the Greek in-development status is confirmed in the deployed app
+definition (assets/app.js fetched from the live site).

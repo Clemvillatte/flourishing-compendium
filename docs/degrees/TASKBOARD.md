@@ -2305,27 +2305,33 @@ record.
 
 The deg-gate Gate-1 review of deg-wol-existentialism (this date) names a
 blocking gap: the therapy evidence-and-limits exit capability has no
-verified resource behind it. Two free candidates, verified this session
-to the skill standard's first three checks (identity, access, instructor
-credentials) with durations printed on the watch pages; content
-classification and recording/transcript reads still owed by the owning
-band before any attachment:
+verified resource behind it. Two candidates; their watch pages were
+opened this session (titles, channels and durations printed on the
+pages, no price shown). This is NOT a completed verification under
+skill section 4: instructor credentials were taken only from the
+recordings' own descriptions, which the standard excludes
+(institutional or biography pages remain unopened), free playback in a
+player was not tested, and content classification and
+recording/transcript reads are owed by the owning band before any
+attachment:
 
 1. Bruce Wampold, "The Great Psychotherapy Debate: Models, Methods, and
    Findings", 2014 Lewis Stone Memorial Lecture, Augustana College
    channel, 1:02:38, free (https://www.youtube.com/watch?v=s_Pz2duIiO8).
    Speaker: Dr Bruce Wampold, University of Wisconsin-Madison (stated on
-   the watch page). The talk "discusses two models of how psychotherapy
-   works" (channel description), which is the evidence-and-limits
-   question itself; Wampold is a leading researcher on exactly this
-   debate.
+   the watch page; not yet confirmed on an institutional page). The
+   talk "discusses two models of how psychotherapy works" (channel
+   description), which is the evidence-and-limits question itself.
 2. John Norcross on Psychotherapy Research and Integration (2016),
    Psychotherapy Expert Talks series (sponsored by SEPI), 33:57, free
    (https://www.youtube.com/watch?v=GKepw4nDmwQ). Speaker: John C.
    Norcross, PhD, Distinguished Professor of Psychology, University of
    Scranton; Adjunct Professor of Psychiatry, SUNY Upstate Medical
-   University (stated on the watch page). The interview discusses the
-   dodo bird verdict and its exceptions, evidence and limits together.
+   University (stated on the watch page; not yet confirmed on an
+   institutional page). The interview's stated topic is psychotherapy
+   research and integration; whether it discusses the dodo bird
+   verdict and its exceptions is UNVERIFIED (the transcript read
+   attempt failed this session).
 
 Routed to: the deg-wol-existentialism owner when one is live, or the
 live supervisor for assignment. Standard per-video verification (skill
@@ -2336,10 +2342,13 @@ transcript) remains owed before either carries module instruction.
 
 The deg-gate Gate-1 review of deg-wol-positive (this date) names two
 unresolved coverage gaps: criticisms-of-the-field and effect-size
-literacy. Free candidates, verified this session to the skill
-standard's first three checks (identity, access, instructor
-credentials) with durations printed on the watch pages; content
-classification and recording/transcript reads still owed by the owning
+literacy. Candidates; their watch pages were opened this session
+(titles, channels and durations printed on the pages, no price shown).
+This is NOT a completed verification under skill section 4: instructor
+credentials were taken only from the recordings' own descriptions,
+which the standard excludes (institutional or biography pages remain
+unopened), free playback in a player was not tested, and content
+classification and recording/transcript reads are owed by the owning
 band before any attachment:
 
 1. "The Critiques and Criticisms of Positive Psychology: Reflections
@@ -2357,16 +2366,22 @@ band before any attachment:
    Transcultural Psychotherapy), 1:40:28, free
    (https://www.youtube.com/watch?v=eSmuklef9mI). Speaker stated on the
    page as a psychologist and social scientist who wrote her PhD on
-   Critique of Positive Psychology, published as a book; the talk
-   covers the field's methodological critiques (correlation/causality
-   confusion, overclaiming beyond the evidence base) and its
-   institutional connections.
-3. For the effect-size gap specifically, the replication-crisis
-   lecture "PSYC1040 Week 13A" (SocialNeuro, 19:36, free,
-   https://www.youtube.com/watch?v=YpizifCQ96Y) covers the 2015 Open
-   Science Collaboration replication study and effect-size inflation
-   in general psychological science; it is not positive-psychology
-   specific, so it would need pairing with a field-specific source.
+   Critique of Positive Psychology, published as a book (stated on the
+   watch page; not yet confirmed on an institutional page). Per the
+   watch-page description the talk covers how positive psychology
+   developed "including its connections to institutions like the
+   military and education systems"; the methodological-critiques
+   coverage (correlation/causality confusion, overclaiming) rests on a
+   search excerpt only and is not yet transcript-read (the read
+   attempt failed this session).
+3. For the effect-size gap specifically, a search-excerpt candidate
+   only: the replication-crisis lecture "PSYC1040 Week 13A"
+   (SocialNeuro, 19:36 per the search excerpt,
+   https://www.youtube.com/watch?v=YpizifCQ96Y). Its watch page was NOT
+   opened this session; its coverage of the 2015 Open Science
+   Collaboration replication study and effect-size inflation rests on
+   the search excerpt and is not positive-psychology specific, so it
+   would need pairing with a field-specific source.
 
 Routed to: the deg-wol-positive owner when one is live, or the live
 supervisor for assignment. Standard per-video verification (skill
@@ -2384,13 +2399,19 @@ therapist [is] much more important than which treatment you get",
 foregrounding alliance, expectations and therapist differences
 (therapists account for about 3 percent of outcome variability in
 trials, 3 to 10 percent in naturalistic settings). Content
-classification: evidence-and-limits, direct. The transcript has no
-timestamps and covers the talk through the audience Q&A.
+classification: general psychotherapy evidence-and-limits
+(transcript-read). The talk is not about existential therapy
+specifically; whether it satisfies the existentialism exit capability
+depends on that capability's wording, so it stays a candidate rather
+than a closed gap. The transcript has no timestamps and covers the
+talk through the audience Q&A.
 
 Addendum to the positive-psychology gap note above: a
-positive-psychology-specific effect-size candidate, verified to the
-skill standard's first three checks with duration printed on the watch
-page. "Two Talks at Twelve from the Center for Integrative
+positive-psychology-specific effect-size candidate; its watch page was
+opened this session (title, channel, duration printed, no price shown),
+which is not a completed verification under skill section 4
+(credentials were taken only from the watch page's own description).
+"Two Talks at Twelve from the Center for Integrative
 Developmental Science", Bronfenbrenner Center channel (BCTR Talks at
 Twelve series), 43:09, free (https://www.youtube.com/watch?v=a2AJznBzvkI).
 Speaker for Talk 1 ("Integrative Data Analysis of Positive Psychology
