@@ -660,3 +660,16 @@ variants); owed to the full pass.
 
 Remaining unresolved batch-3 variants: 8 (all short formatting
 variants); owed to the full pass.
+
+## Batch 3 follow-up 6 (2026-10-26, 2026-10-26T05:20Z)
+
+- M08-P13: RESOLVED same-event — "Social Connection and Happiness"
+  with Robert Waldinger, MD (Annual Cogan Endowed Lecture, Peterson
+  Academy, 2023-12-11); duration figures on the page differ (55:41
+  listing vs 56:08 player; player total authoritative = 56:08).
+- M08-S19: RESOLVED same-event — "04/21/2022 Commons Governance
+  Program Lecture - Tine De Moor" (Ostrom Workshop, 2022-04-22,
+  1:17:29); matches the record.
+
+Remaining unresolved batch-3 variants: 6 (all short formatting
+variants); owed to the full pass.
