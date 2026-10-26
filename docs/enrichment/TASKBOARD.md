@@ -1,3 +1,14 @@
+## Worker checkpoint (2026-10-26 14:20Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+FIFTH QC SAMPLE begins the dosr1 band: acceptance.md — dossier_check
+OK (27 card links, 13 headers, 13 carriers), quote_verify 7 checked
+/ 0 not found, density 0 dense — fully clean. anger.md was verified
+clean earlier today in the dosr3-lane quote pass (12/0). The band's
+other two dossiers live under other slugs (dosr1 closed via the
+dos19/dos23/dos26/dos30 repair lanes; the batch record names no
+current files) — not re-sampled this session. No dossier text
+changed. Files touched: this checkpoint only.
+
 ## Worker checkpoint (2026-10-26 14:12Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 THE TWO FLAGS FROM CHECKPOINT 4 ARE CLOSED (cloud-browser render
