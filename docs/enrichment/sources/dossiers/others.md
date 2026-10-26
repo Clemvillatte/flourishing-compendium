@@ -435,3 +435,12 @@ carrier groups listed) except Beckes-Coan 2011 and Cacioppo-Hawkley
   jian ai left open), practice section's Retention paragraph keeps a
   personal voice. No voice or structure defects found; no text change
   owed. The four ctext handoff flags: CLOSED.
+
+- 2026-10-26 ~09:57Z — audit follow-up (worker-pplx-audit-1026a): the four
+  ctext.org-flagged spans (Analects Xian-wen 14.34 block quote; Mencius
+  Teng-wen-gong I "one root" block quote and the Yi-position inline quote;
+  Mencius Teng-wen-gong II "Mo's principle" quote) are eye-verified VERBATIM
+  on their ctext.org Legge carriers via a cloud-browser session (the fetcher
+  stays IP-blocked; the browser passes the wall). Receipt:
+  docs/enrichment/qc/QC-CTEXT-SPAN-VERIFICATION-2026-10-26.md. No dossier
+  text changes needed; the dosr-band quote map is now 49/49 adjudicated.
