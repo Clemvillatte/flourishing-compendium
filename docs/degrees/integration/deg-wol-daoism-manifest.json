@@ -2,7 +2,7 @@
  "degree_id": "deg-wol-daoism",
  "built": "2026-10-26",
  "built_by": "strategist-pplx-1026a (baton degrees-strategist)",
- "provenance": "Transcribed from the QC'd module files under docs/degrees/modules/deg-wol-daoism/ (windows and totals are the files' own measured values; phase-0 contract per docs/degrees/AUDIT-2026-10-26.md). The learner-audit gate diffs this manifest against the integrated data block. | mod-dao-5 corrected 2026-10-26 by worker-pplx-degfixcontent-1026a (Neiye-section vs capstone-chapter conflation, verified against the m5 Primary-text paragraph).",
+ "provenance": "Transcribed from the QC'd module files under docs/degrees/modules/deg-wol-daoism/ (windows and totals are the files' own measured values; phase-0 contract per docs/degrees/AUDIT-2026-10-26.md). The learner-audit gate diffs this manifest against the integrated data block. | mod-dao-5 corrected 2026-10-26 by worker-pplx-degfixcontent-1026a (Neiye-section vs capstone-chapter conflation, verified against the m5 Primary-text paragraph). | mod-dao-1 DAO-M1-04/05 tightened with the m1 doc's measured specifics (chapters 1/8/76, 288 words; Zhuangzi passage 2.20, 67 words); all daoism segment windows re-verified against the module docs this session.",
  "modules": {
   "mod-dao-1": [
    {
@@ -26,13 +26,13 @@
    {
     "source_id": "DAO-M1-04",
     "role": "teach",
-    "assignment": "Eno, Daodejing translation - one fully guided chapter reading (m1 Outcome 3)",
+    "assignment": "Eno, Daodejing translation - m1 primary-text reading: Daodejing chapters 1, 8 and 76 (288 words measured on the opened text), one fully guided chapter reading per m1 Outcome 3. TIGHTENED (deg-fix-content 2026-10-26): the entry previously named only 'one fully guided chapter reading'; chapters and word count verified against m1-orientation.md's time-budget paragraph",
     "kind": "reading"
    },
    {
     "source_id": "DAO-M1-05",
     "role": "teach",
-    "assignment": "Eno, Zhuangzi Inner Chapters - orientation survey reference (one assigned passage per figure)",
+    "assignment": "Eno, Zhuangzi Inner Chapters - m1 orientation survey: passage 2.20 (67 words measured on the opened text, counting rule: whitespace tokens of the printed passage including its asterisk marker and en dash). TIGHTENED (deg-fix-content 2026-10-26): the entry previously read only 'one assigned passage per figure'; passage and word count verified against m1-orientation.md's time-budget paragraph",
     "kind": "reading"
    }
   ],
