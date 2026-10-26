@@ -11,14 +11,15 @@ The OPEN sub-item routed to the psychdim owner (TASKBOARD lines on the Sainani i
 
 A search-engine query for the lecture returned the YouTube watch page for LKiX54NglCo ("Statistics Fundamentals | Dr Kristin Sainani", Lecture 20 of the Sports Biomechanics Lecture Series) WITH a machine-generated transcript section in the search result itself. The transcript text was readable in the search-result snippet. This route succeeds where the two on-page transcript-panel routes failed.
 
-From the transcript (as printed in the search result), the cherry juice worked example is verified:
+From the transcript (as printed in the search result), mapped against the manifest's ASSIGNED WINDOWS (25:46-44:11; 54:02-57:21; 03:29-09:21). In-window evidence only:
 
-- Setup: a hypothetical/simulated randomized trial — ten participants drink a placebo drink for four weeks, ten drink cherry juice as a recovery drink; outcome is performance in a 5k time trial; baseline measured before the intervention to adjust for baseline differences.
-- The lecturer states explicitly: "these are simulated results so these are not real data".
-- Numbers worked in the clip: treatment-group mean 5k time 14:45, control-group mean 15:05; difference in means −20 seconds; standard deviation of running times within groups 31 seconds; standard error 14; t = −1.4; p-value 18% ("p-value of 18%"); confidence interval −49 to +9; Cohen's d = 0.65; statistical power 18% (10 per group).
-- The example is used repeatedly through the lecture to illustrate standard error, confidence intervals, p-values, hypothesis testing, and statistical power.
+- ~33:41 (inside 25:46-44:11): the confidence-interval calculation on the cherry-juice trial — "difference in means of negative 20... plus or minus two point one times the standard error that I saw in that file which was 14 then I get a confidence interval of negative 49 to positive [9]".
+- ~37:31-40:36 (inside 25:46-44:11): the p-value and t-test calculations on the same trial — "we take the sample statistic... like the negative twenty seconds in the cherry juice trial... negative 20 minus 0 divided by 14 I get a T value of negative 1.4... corresponds to a p-value of 18%".
+- ~55:43 (inside 54:02-57:21): the Bayesian prior discussion references the trial's p-value in framing the probability-of-the-null question.
 
-The example is a TEACHING EXAMPLE constructed from simulated data, presented as such — it is not a reported study result, which is consistent with its use as statistics instruction.
+OUT-OF-WINDOW (NOT clip evidence, not asserted as verified for the sub-item): the trial SETUP numbers (group means 14:45/15:05, SD 31s) appear at ~2:27-3:11, outside all three assigned windows; the Cohen's d 0.65 discussion appears at ~57:51, past the 57:21 window end; the power discussion appears at ~47:06, outside 25:46-44:11. The "18% power" figure belongs to a LATER simulation positing a true −10s effect, not to the observed −20s trial — the receipt's earlier draft conflated these; corrected here.
+
+The in-window evidence establishes that the cherry-juice worked example's CI and t/p calculations ARE the assigned clip's content — the sub-item's core question (does the clip contain the worked example) is answered YES for the in-window portions. The example is a TEACHING EXAMPLE constructed from simulated data, presented as such on-clip.
 
 ## What remains unverified
 
