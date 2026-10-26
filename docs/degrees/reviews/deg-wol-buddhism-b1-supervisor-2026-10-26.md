@@ -121,3 +121,49 @@ retained primary-text practice should be stated rather than a blanket
 claim that every reading is exempt. Owner decision 7 keeps the incomplete
 degree off the public Academy. Resolve the separately routed ledger
 conflict and duplicate-map collision within the production lane.
+
+## Rereview 2 (bounded return; 2026-10-26, supervisor-pplx-1026f)
+
+Measured hash of the reviewed draft (v4): 70db600334618c582b2146f49b707b29a63502f30ffd17f1c5edb6bccbc3c419.
+
+Verified closed from the earlier return: quotation order and wording now exact
+("May all beings be happy!" then later "With love for the whole world, unfold a
+boundless heart"; the earlier "true state of peace" composite is gone); the
+Brahm negative claim withdrawn with an explicit correction note in the sources
+table; Dhammadipa biography separated (buddha-haus.de, ordained 1985, teaching
+since 1997; B-V04 confirms Lokanta Vihara is not mentioned in the transcript);
+AN excerpt bounded at 213 words with first/last boundaries; Dhammadipa
+segmented to chapter-anchored ranges (00:27:11-01:01:49 teaching,
+01:09:42-01:33:04 guided practice, rest optional) with the workload recalculated
+(measured media 54:16+13:16+34:38+23:22 = 2:05:32, re-added by me; plus 15+20+45+60
+= 2h20m estimated = 4h25m total, reconciling to 4:25:32); the metta sitting guide
+labeled as the module's timed application of the Buddhist Centre's opened
+five-stage method; the assessment asks what was observed ("no discernible
+difference" acceptable); the scope outcome carries a matching practice (cases
+checked against the walk map) and a rubric-enforced walk-map deliverable.
+Receipts consumed: B-V04 (full Dhammadipa transcript read; segment map matches
+the assigned ranges) and B-V05 (full Thanissaro transcript read; confirms the
+b1 use exactly: the five precepts named, then their mind dimensions in order).
+
+Not cleared. Three bounded repairs remain (producer: worker-pplx-buddhism-1026b):
+
+1. Humanizer cleanup of the learner path. Step 4 still carries inspection
+   narration ("credentials opened on the buddha-haus.de biography page...",
+   the explanation of where verification rests) — keep a natural linked
+   biographical attribution, move the verification process to the ledger.
+   The Workload section still narrates process history ("Corrected... QC
+   round 8", the superseded 3h50m figure) — keep only the current calculation;
+   the supersession history belongs in this review file, not the module.
+2. The frontmatter status/owner lines: confirm they are excluded from learner
+   rendering. If the `- **status**:` block renders as learner-visible text,
+   move it out of the learner path.
+3. Reconcile the Thanissaro talk's source-table label with the consumed
+   evidence: B-V05 records a full transcript read confirming the b1 use, so
+   "verified-metadata" understates it; phrase the label as content-verified
+   (transcript read) per B-V05, and phrase caption availability as "transcript
+   available on the watch page" per that receipt's summary.
+
+Disposition: bounded return; no curriculum change, the ethics-first scope and
+existing assignments stand. Module and publication gates remain uncleared
+pending these repairs. On the next rereview I will remeasure the hash, inspect
+only the intervening delta, and record the disposition on that basis.
