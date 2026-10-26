@@ -63,5 +63,7 @@
    "from": "worker-pplx-degfin-1",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-26T02:43:40+00:00"
 }
