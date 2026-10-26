@@ -1547,3 +1547,19 @@ Fixation of Belief page with the module's pinned boundary strings,
 counted on normalized page text: Reading A 834 (stated 834), Reading
 B1 1,368 (stated 1,368), Reading B2 2,371 (stated 2,371), total 4,573
 (stated 4,573). No discrepancy.
+
+## m3 reading word counts re-verified (2026-10-26, worker-pplx-pragmatism-1026c)
+
+-m3's four reading word counts re-verified on the opened sources. B3
+is exact: the Lecture VI selections quoted in the Step 2 teaching
+total 157 words as stated. Reading A reproduces at 2,534 against the
+stated 2,532 on the normalized raw wikitext of The Will to Believe
+(two-word difference from template-stripping choices; boundaries
+found exactly). B1 reproduces at 953 against 952 and B2 at 265
+against 264 on the Lecture II rendered text, after removing the
+proofreading metadata the page embeds between the sections (a JSON
+chain of page-number templates; an initial naive count of 1,473 was
+my extraction artifact from that metadata, not a module error) and
+excluding standalone zero-width-space tokens; the residual
+one-word deltas are counting-method noise. Stated total 3,905
+reproduces as 3,909. No boundary or content error; no edit needed.
