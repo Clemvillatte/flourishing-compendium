@@ -486,3 +486,63 @@ NOT CLEARED; awaits advisor QC and supervisor module-QC. The module
 labels the stipulated worked-example cases as constructed, quotes
 only passages verified on the fetched text, and carries no video, so
 it has no candidate media items.
+
+## Advisor QC round 1 on m2-belief-and-doubt (2026-10-26, clock 05:02:18Z measured, worker-pplx-pragmatism-1026b; repairs applied same session)
+
+Seven findings, all applied this pass:
+
+1. Doubt/action pairing (APPLIED): the timing contrast described
+   belief without doubt's corresponding effect, and rubric criterion
+   1's "beliefs guide desires and actions while doubt does not"
+   risked reading as doubt producing nothing. Step 1 now teaches the
+   pair (belief settles us into action-guiding habits; doubt
+   stimulates the struggle of inquiry), the retrieval activity asks
+   for both sides, and the criterion 1 strong example matches.
+2. Table question separation (APPLIED): "what breaks the method" and
+   "what would challenge a particular belief" were interchangeable,
+   which failed for science (counterevidence revises a belief
+   without discrediting the method). The table columns are now: how
+   the method settles beliefs, Peirce's criticism or limit of the
+   method, one line of his wording; the belief-challenge question is
+   kept separate for Step 4. Step 3 teaches the science row's
+   difference explicitly. Outcome 2, deliverable a and rubric
+   criterion 2 updated to match.
+3. Worked example operationalized (APPLIED): the fully worked science
+   entry now bounds the claim (weekly commitments over an eight-week
+   period), names the observations (same-day notes of kept or missed
+   commitments) and the revising result, labels the operational
+   choices as constructed teaching choices rather than Peirce's
+   procedure, and demonstrates the decision rule the rubric
+   expects. The two methodological absolutes are withdrawn: the
+   at-the-time record is now given as a design choice with its
+   ground (harder for the belief to reshape than memory), and the
+   rubric rejection for feeling-data is reframed as construct
+   mismatch (a feeling report does not test a writing-performance
+   claim).
+4. Deliverable/criterion alignment (APPLIED): Step 4 item 3 and
+   rubric criterion 3 both now require the full four-method
+   application on the learner's own belief, distinguishing the
+   plausibly fixing method in the learner's actual history from the
+   hypothetical alternatives, with the test's observations and
+   revision criterion named.
+5. Inline attribution (APPLIED): the Steps 2 and 3 teaching
+   paragraphs now link the essay beside the quoted passages
+   (Section III and Section V anchors); the opening's "the essay
+   that started it" historical claim is replaced with the bounded
+   "where he sets out the question". The video-search conclusion
+   stays bounded to the recorded search (no claim that no
+   credentialed video exists).
+6. Contrast scaffold (APPLIED): Step 1's "He is not saying... he is
+   saying..." is rewritten as a direct statement.
+7. Repository residue (APPLIED): the OWNER-BOARD rebase-conflict
+   resolver retained a literal "HEAD" label from the conflict
+   marker; it was found by inspection and removed (both workers'
+   entries verified intact). The band file's stale m1 metadata
+   (rounds 1-2, awaiting re-review) is updated to the round-4
+   supervisor handoff state.
+
+Measurement provenance corrected throughout: the word counts are now
+described as measured on normalized raw wikitext of the page, and
+the counted segments were checked to contain no residual wiki
+markup. STATUS: m2 remains DRAFT, NOT CLEARED; next step is
+supervisor module-QC.
