@@ -6355,3 +6355,5 @@ same pass; see its RETRACTION note.)
   [T+40:08] verify lane (no baton): m5 Maitland Table 1 re-verification -- Self row, table note, and quoted FAP target all confirmed verbatim. Receipt: docs/degrees/verify/deg-psychdim-m5-maitland-table-reverification-1026c.md
 
   [T+40:46] verify lane (no baton): m5 Diener/Lucas Noba reading-boundary re-verification -- start paragraph and last three Person-Situation paragraphs confirmed (section full title slightly longer than module shorthand, noted). Receipt: docs/degrees/verify/deg-psychdim-m5-diener-lucas-boundary-reverification-1026c.md
+
+  [T+41:21] verify lane (no baton): QC sample of B-V16 Chah-book discharge -- redirect/size/content-type/free-access confirmed via HTTP headers; PDF front-matter claims not re-checkable by my routes (fetcher refused 8.8 MB file). Receipt: docs/degrees/verify/deg-buddhism-bv16-qc-sample-1026c.md
