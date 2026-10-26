@@ -1,3 +1,13 @@
+## Worker checkpoint (2026-10-26 00:55Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+QC SAMPLE — concept page Karuna (complete: the one quote on the page
+checked): the Dhammapada verse "Hatred is never appeased by hatred in
+this world. By non-hatred alone is hatred appeased. This is a law
+eternal." confirmed VERBATIM on the
+[Access to Insight page](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html)
+(Buddharakkhita translation, verse 5). No defects; no repairs needed.
+Final bounded sample of the taper window; proceeding to final save.
+
 ## Worker checkpoint (2026-10-26 00:48Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 RECORD CORRECTIONS ROUND 2 (advisor QC, T+43): (1) A071 — the page's
