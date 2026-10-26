@@ -39,3 +39,7 @@ Not re-checked here: Buddhism B8 (all components are given as ranges of hours) a
 ## Segment bounds check (all four assignments files)
 
 All 48 timed segments in the four docs/degrees/integration/deg-*-assignments.json files were checked against the video durations carried in the live registry in site/assets/app.js: every segment starts before it ends, and every end time falls inside the stated video duration. 0 out-of-range segments, 0 segments without a duration. Durations themselves were verified in the earlier 40-video sweep; three could not be re-read this session (PD-M4-01, BUD-B1-02, M06-AF07) because the video host blocks automated page reads, so they remain on the earlier receipts.
+
+## M8 and degree total
+
+M8: 25+75+60+35+45+90+30+15 = 375 minutes, matching its stated total and the README table. README degree total: 249+304+290+265+315+271+301+375 = 2,370 minutes = 39 hours 30 minutes, matching the stated "2,370 minutes, 39 hours 30 minutes". The M8 brief is labelled "about 2,300 words"; the lesson doc measures about 2,100 words without its own Workload section and about 2,300 with it, so the label holds and the 25-minute allowance (12 to 13 minutes of reading plus rereading) is reasonable.
