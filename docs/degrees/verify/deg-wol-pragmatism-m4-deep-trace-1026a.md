@@ -43,3 +43,7 @@ routed) for PRAG-M4-01's locator: the published text wrongly attributes
 the 476-word HNC passage to How We Think; the reversal is fix-list item 2
 (urgent). The manifest is correct; the error chain originated in this
 lane (manifest merge, then the stale fix-list instruction).
+
+## Closure (2026-10-26, later same session)
+
+RESOLVED: the schema lane applied the reversal; PRAG-M4-01's published locator is back to the single 778-word How We Think passage (verified at commit a0ee345). The FAIL verdict above is lifted - all four mod-prag-4 sources now PASS.

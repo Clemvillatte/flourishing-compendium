@@ -85,3 +85,7 @@ published state (deep trace: docs/degrees/verify/deg-wol-buddhism-b5-deep-trace-
 ## Addendum (2026-10-26, later same session)
 
 A second deep trace was added for b2 (docs/degrees/verify/deg-wol-buddhism-b2-deep-trace-1026a.md): PASS with one QUALIFIED item — the SN 56.11 word label is corrected in the manifest (about 1,000; 994 measured) but the published locator still carries the old ~1,100 figure until the schema lane's assignments re-apply (fix-list item 5). With b2 and b5 traced, the verdict's deep-trace reservation now covers the remaining buddhism capabilities.
+
+## Addendum 2 (2026-10-26, later same session)
+
+The BUD-B2-02 word label is now published correctly ('about 1,000 words'; verified at commit a0ee345) - the b2 receipt's qualification is lifted. The b2 module doc's own ~1,100 workload estimate remains with its owner.

@@ -93,3 +93,7 @@ A second deep trace was added for m3 (docs/degrees/verify/deg-wol-pragmatism-m3-
 ## Addendum 2 (2026-10-26, later same session)
 
 Deep trace added for m4 (docs/degrees/verify/deg-wol-pragmatism-m4-deep-trace-1026a.md): PASS for PRAG-M4-02, M4-03 and the Bernstein optional entry; FAIL (open, routed) for PRAG-M4-01's locator - the schema lane applied this lane's retracted fix-list item 2 before the retraction landed, wrongly attributing the 476-word Human Nature and Conduct passage to How We Think. The reversal is fix-list item 2 (urgent). The manifest is correct; the error chain originated in this lane. With m2, m3 and m4 traced, the verdict's deep-trace reservation now covers m1 and m5.
+
+## Addendum 3 (2026-10-26, later same session)
+
+The PRAG-M4-01 reversal was applied by the schema lane (published locator back to the single 778-word How We Think passage; verified at commit a0ee345) - the m4 receipt's FAIL verdict is lifted.

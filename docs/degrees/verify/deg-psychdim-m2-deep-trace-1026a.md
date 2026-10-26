@@ -62,3 +62,7 @@ PD-M2-04's published locator is OPEN until the schema lane applies the
 re-splice. (The published entries no longer carry an `assignment` field
 after the ef654d0 restructure - `locator` is the operative learner-visible
 field; the fix list item 3 wording has been updated to match.)
+
+## Closure (2026-10-26, later same session)
+
+RESOLVED: the schema lane re-spliced PD-M2-04's locator from the corrected manifest; the published locator now carries the 450-word bounded excerpts verbatim (verified at commit a0ee345). The m2 receipt's qualification is lifted - all seven m2 entries now PASS without qualification.

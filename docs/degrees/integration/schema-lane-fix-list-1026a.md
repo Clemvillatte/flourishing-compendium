@@ -5,11 +5,9 @@ values diffed against the doc-verified manifests). The learner audit
 checks presence, not wording, so it cannot catch these. Each fix is a pure
 splice from the verified manifests — no judgement calls needed.
 
-STATUS (checked against app.js at commit 6c06b2f, 2026-10-26): items 1
-and 4 are RESOLVED (fixed by the schema lane). Item 2 URGENTLY NEEDS A
-REVERSAL (the schema lane applied this lane's erroneous instruction
-before the retraction landed). Items 3, 5 and 6 remain OPEN (still
-present in, or absent from, the published state).
+STATUS (checked against app.js at commit a0ee345, 2026-10-26): items 1,
+2, 3, 4 and 5 are ALL RESOLVED (fixed by the schema lane; item 2's
+reversal was applied). Item 6 remains the ONLY OPEN item.
 
 ## 1. PRAG-M3-04 (mod-prag-3, requiredMedia) — RESOLVED, no action
 
@@ -19,7 +17,7 @@ selections totalling 157 words ... printed in full in the module's second
 step; the selections are not contiguous in the lecture". The transient
 PRAG-M3-05 mint was also dropped. No further action.
 
-## 2. PRAG-M4-01 (mod-prag-4, requiredMedia) — REVERSAL NEEDED (urgent)
+## 2. PRAG-M4-01 (mod-prag-4, requiredMedia) — RESOLVED (reversal applied)
 
 An earlier version of this list instructed the schema lane to add a
 476-word second passage to PRAG-M4-01's locator. That instruction was
@@ -40,7 +38,7 @@ Think and duplicated on PRAG-M4-02 (which correctly carries it as HNC).
   manifest merge, then the stale fix-list item), and the manifest was
   corrected in commit 904b02b.
 
-## 3. PD-M2-04 (mod-pd-2, requiredMedia) — whole-BODY figure as assignment
+## 3. PD-M2-04 (mod-pd-2, requiredMedia) — RESOLVED
 
 - CURRENT assignment: `Hwang and Matsumoto, Functions of Emotions (Noba) - opening sections through social/cultural functions; closing excerpt (~2,794 words)`
 - CURRENT locator: `The opening sections through the social and cultural functions of emotion, plus the closing excerpt (about 2,794 words)`
@@ -70,7 +68,7 @@ Think and duplicated on PRAG-M4-02 (which correctly carries it as HNC).
   (line 55) exactly. Verified in the m4 deep trace
   (docs/degrees/verify/deg-psychdim-m4-deep-trace-1026a.md).
 
-## 5. BUD-B2-02 (mod-bud-2 and mod-bud-5, requiredMedia) — stale word label
+## 5. BUD-B2-02 (mod-bud-2 and mod-bud-5, requiredMedia) — RESOLVED
 
 - CURRENT published locator (mod-bud-2): `The whole discourse (about 1,100 words); mark each truth and the task attached to it`
 - WHY WRONG: the recount receipt
@@ -111,3 +109,7 @@ Think and duplicated on PRAG-M4-02 (which correctly carries it as HNC).
   locator: `The adherence research: reuse the passages you already read`.
   (PD-M7-10 / Vohs is NOT cited in the m8 doc in any form - its removal
   stands.)
+
+## Resolution check (2026-10-26, commit a0ee345)
+
+Re-checked against the published state: item 2 (PRAG-M4-01 back to the 778-word How We Think passage only), item 3 (PD-M2-04 locator now the 450-word bounded excerpts, matching the manifest verbatim) and item 5 (BUD-B2-02 'about 1,000 words') are all fixed. Item 6 (PD-M1-07 absent from mod-pd-8) remains open.

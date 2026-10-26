@@ -36,3 +36,7 @@ BUD-B2-02 (whole discourse, per doc line 55 and the verification table's
 "whole discourse assigned" row). QUALIFIED on BUD-B2-02's word label: the
 manifest is corrected, the published state is not until the re-apply lands.
 The reading-time label is unaffected either way (about 8 minutes at 130 wpm).
+
+## Closure (2026-10-26, later same session)
+
+RESOLVED: the schema lane re-applied the assignments; the published BUD-B2-02 locator now reads 'The whole discourse (about 1,000 words)' (verified at commit a0ee345). The b2 receipt's qualification is lifted. The b2 MODULE DOC still carries the old ~1,100 estimate in its workload arithmetic - that correction remains with the doc's owner.
