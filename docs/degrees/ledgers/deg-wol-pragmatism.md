@@ -941,3 +941,24 @@ supersedes the points it names.
 5. Timedtext, precise wording: the fetch failed; no caption data
    was obtained. Caption availability for ksLO4i5pIBM remains
    unverified.
+
+## m4 preparation: UCSC instructor credentials verified (2026-10-26, clock 2026-10-26T05:26:25+00:00 measured inside this write, worker-pplx-pragmatism-1026b)
+
+The pending institutional check from the UCSC candidate entry is
+now done. Abraham D. Stone is verified on UC Santa Cruz's own
+pages: the Philosophy Department directory
+(philosophy.ucsc.edu/directory/abestone/) lists him as Associate
+Professor, Philosophy Department, Humanities Division, with
+expertise including history of philosophy and philosophy of
+science; the campus directory agrees; his CV (hosted at
+people.ucsc.edu) adds Ph.D. in philosophy, Harvard, 2000, and
+lists past teaching that includes a reading group on Dewey's The
+Public and Its Problems. Two cautions kept: the catalog snippets
+opened do NOT establish that Stone taught PHIL 112 in a specific
+term (recent catalog listings for PHIL 112 name other
+instructors), so the course attribution for the recording stays as
+it came from the original search snippet; and the recording's
+channel being the instructor's own remains from the snippet.
+Playback, captions, coverage and duration for the recording remain
+pending. With this, all three m4 candidate groups have their
+presenter credentials verified on institutional pages.
