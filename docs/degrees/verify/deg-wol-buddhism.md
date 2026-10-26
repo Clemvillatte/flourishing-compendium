@@ -477,4 +477,27 @@ All three harvests are cleared for module attachment subject to the
 owner's segment assignment and workload arithmetic on the verified
 figures above.
 
+## b5 source corroboration (2026-10-26; written after commit 4dcd6cf50
+— exact push bound is the commit carrying this text)
+
+### B-V09: Ajahn Sumedho, "Mindfulness and Wisdom" (Amaravati)
+
+- https://www.youtube.com/watch?v=SElyOzgkxjo — independently
+  re-verified this session: oembed (title, Amaravati Buddhist
+  Monastery channel) and the watch page (duration 1:01:36 EXACTLY as
+  the owner's table; talk dated 13 May 2017, published 2017-07-14;
+  transcript section indicated; free). No chapter list on the page
+  (whole-talk assignment as the module states). CONFIRMED.
+
+### B-V10: The Collected Teachings of Ajahn Chah (Amaravati)
+
+- https://amaravati.org/dhamma-books/the-collected-teachings-of-ajahn-chah/
+  — opened this session (first fetch): the introduction carries the
+  Thai Forest tradition framing and the Theravada lineage (Sthaviras/
+  Theras, "Way of the Elders", Southern School) as the module claims;
+  no paywall encountered. A second fetch for the download links and
+  free-distribution statement was refused (403) — the free-distribution
+  and format details rest on the owner's opened-page record, not
+  re-read here. CONFIRMED on content; access basis owner's record.
+
 Timestamp correction (2026-10-26, measured 04:54Z): the clock labels first written in these receipts were invented readings, not measurements; they are corrected in place to the measured commit bounds recorded in git history (a7681a1bf 04:46:02Z through d0802492c 04:51:22Z). Appended rather than silently rewritten; the receipts themselves are otherwise unchanged.
