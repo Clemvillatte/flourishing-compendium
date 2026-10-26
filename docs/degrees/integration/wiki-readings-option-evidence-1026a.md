@@ -1,13 +1,17 @@
-# Wiki-readings option — evidence for the owner decision (deg-fix-content)
+# Wiki-readings option — candidate inventory for the owner decision (deg-fix-content)
 
 Date: 2026-10-26. Prepared by worker-pplx-degfixcontent-1026a (baton
 deg-fix-content). The learner audit's only remaining FAILs (4) are
 "no module links any wiki reading" across the four degrees. The audit routed
 this to the supervisor to PRESENT to the owner; this file makes that
-presentation cheap by listing what already exists. Nothing here changes any
-module or reading list — the finite-scope rule applies until the owner decides.
+presentation cheap by listing candidate pages. IMPORTANT: this is a CANDIDATE INVENTORY,
+not evidence of curricular fit — filenames were checked against content/
+(2026-10-26), but page contents, published routes and each module's specific
+need have NOT been re-verified here. Nothing in this file changes any module
+or reading list; the finite-scope rule applies to optional readings too, so
+the decision stays with the owner.
 
-## What the wiki already has (filenames verified against content/, 2026-10-26)
+## Candidate wiki pages (filenames verified against content/, 2026-10-26)
 
 ### deg-psychdim
 
@@ -26,19 +30,19 @@ module or reading list — the finite-scope rule applies until the owner decides
 | Module | Existing wiki pages |
 |---|---|
 | b1 Ethics first | Dossier: genuine-flourishing. Concepts: Metta (loving-kindness). Thinker: T006 Siddhartha Gautama. |
-| b2 Four truths | Concepts: Four Noble Truths; Dukkha; The craving-to-addiction model. |
+| b2 Four truths | Concepts: Four Noble Truths; Dukkha. |
 | b3 Sila | Dossiers: right-speech, right-action, right-livelihood. |
 | b4 Meditations | Kernels: K100 Breath anchoring; K101 Open monitoring; K102 Body scan; K104 Mindful walking. Concepts: Anchors in focused attention meditation. |
 | b5 Thai Forest | Concepts: Impermanence. |
-| b7 Insight/Secular | Concepts: Vipassana (insight); Secular Buddhism (check page existence before citing). |
-| b9 Elective | Concepts: Metta (loving-kindness); Dukkha. |
+| b7 Insight/Secular | Concepts: Vipassana (insight). (No 'Secular Buddhism' concept page exists — checked.) |
+| b9 Elective | (No direct page-level match verified for the hindrances/aggregates elective beyond Dukkha.) |
 
 ### deg-wol-daoism
 
 | Module | Existing wiki pages |
 |---|---|
 | m1 Orientation | Thinkers: T012 Laozi; T009 Zhuangzi. |
-| m2 Daodejing | Concepts: Dao; Belief as habit (shared with pragmatism). |
+| m2 Daodejing | Concepts: Dao. |
 | m3 Zhuangzi | Concept: Wu wei. |
 | m4 Yangsheng/Neiye | Concept: Yangsheng (cultivating vitality). |
 
@@ -59,8 +63,10 @@ reading obligations; the module reading lists stay exactly as QC'd; only a
 pointer changes). Cost: one schema-lane pass to add optional links; the
 learner audit's 4 remaining FAILs close. Risk: near zero for scope — nothing
 new is assigned.
-Option B — leave unlinked; the 4 FAILs stay as the recorded owner decision
-(the audit gate would need a waiver note for the publication flip).
+Option B — leave unlinked. NOTE: the learner audit's wiki_readings lines
+have since been reclassified as ADVISORY (owner decision pending), so the
+publication gate is not blocked either way; whether an advisory waiver is
+acceptable long-term is part of the owner's decision.
 Option C — defer to a later wave.
 
 Note: the audit itself (lane-routing section) already assigns the presentation
