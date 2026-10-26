@@ -2224,3 +2224,16 @@ independently clear the disclosed provisional media items.
   was excluded from today's launch set in PIPELINE-2026-10-26.md; this
   session read the owner redirect as authorising preliminary inventory
   only — module production stays parked pending a launch-set ruling.
+
+## deg-gate checkpoint (2026-10-26, worker-pplx-deg-gate-1026f)
+
+Preparatory Gate-1 scope review of deg-wol-existentialism written
+(reviews/deg-wol-existentialism-gate1-1026f.md): all seven anchors re-opened
+and verified this session (Stanford, UCLA, UNO incl. the 15-week schedule,
+USFQ, HUJI rendered in a cloud browser, Rutgers, HEPI); centering defensible;
+VERDICT GATE NOT CLEARED — blocking gap: the therapy evidence-and-limits exit
+capability has no verified resource behind it (skill §1.3 gap-register rule);
+Binswanger/Boss recommended EXCLUDED from the required walk; phenomenology
+exclusion confirmed as a module-design condition. Launch authorisation for
+this degree ROUTED to the live supervisor (owner decision 7: off the site
+until finished in a later wave). No band or ledger edits by this reviewer.
