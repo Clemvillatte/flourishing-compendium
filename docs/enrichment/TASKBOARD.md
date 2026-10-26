@@ -1,4 +1,11 @@
 
+## VERIFICATION CHECKPOINT (2026-10-26 00:39Z, sup-1026b — others dossier quote sample)
+
+2/2 verbatim against freshly opened carriers: Cacioppo & Hawkley 2009 (PMC
+— loneliness-as-social-pain passage exact) and Klimecki et al. 2014
+(PubMed — compassion-training conclusion exact). Session total 28
+verbatim spans across 16 sampled pages.
+
 ## VERIFICATION CHECKPOINT (2026-10-26 00:37Z, sup-1026b — freedom dossier quote sample)
 
 2/2 verbatim against freshly opened carriers: Rousseau Social Contract I.1
