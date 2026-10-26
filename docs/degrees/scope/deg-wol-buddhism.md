@@ -69,7 +69,7 @@ b9 L2 elective.
 
 | Module | Level | Content | Source status |
 |---|---|---|---|
-| b1-ethics-first-orientation | L1 | Ethics-first entry: five precepts, four immeasurables, Buddhist values, first metta sitting, walk map | Drafted v4 (supervisor b1 repairs applied 2026-10-26); all five sources verified |
+| b1-ethics-first-orientation | L1 | Ethics-first entry: five precepts, four immeasurables, Buddhist values, first metta sitting, walk map | Drafted v4 (supervisor b1 repairs + rereview-2 bounded repairs applied 2026-10-26); all five sources verified; Thanissaro talk content-verified (B-V05 full transcript read) |
 | b2-four-noble-truths | L2 | Four truths as four tasks on the learner's own difficulty; tanha/chanda; rebirth frame as passing mention | Drafted v2 (task-frame independently re-verified 2026-10-26); sources verified |
 | b3-sila-in-practice | L2 | Precepts as training rules on the learner's own hard cases; rebirth placement | Drafted v1.1; sources verified |
 | b4-foundational-meditations | L2 | Breath and metta sittings, two-week training plan with log | Drafted v2; Brahmali recording verified-metadata, captions REPORTED to exist (watch-page extraction) but text unretrieved this session (two content items stay description-bounded) |

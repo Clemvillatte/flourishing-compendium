@@ -4,7 +4,7 @@
 - **kind**: degree-module
 - **level**: L1 Orientation (exit criteria adapted for a practice walk: the L2 element is the guided metta sitting and the precepts case, both fully guided here)
 - **module id**: deg-wol-buddhism-b1
-- **status**: draft v4 (supervisor b1 review repairs applied 2026-10-26, worker-pplx-buddhism-1026b: traditional frame placed honestly, quotation order repaired, AN excerpt bounded with measured boundaries, observation wording; segmentation from the earlier pass retained)
+- **status**: draft v4 (supervisor b1 review repairs applied 2026-10-26, worker-pplx-buddhism-1026b: traditional frame placed honestly, quotation order repaired, AN excerpt bounded with measured boundaries, observation wording; segmentation from the earlier pass retained; supervisor rereview-2 bounded repairs applied same day: Step-4 humanizer + workload process history removed, Thanissaro talk label content-verified per B-V05, receipts in the ledger)
 - **prerequisites**: none (entry module; open to any learner, no Buddhist background assumed)
 
 ## Walk context
