@@ -1136,3 +1136,37 @@ parked Greek; see the band file); (b) module QC review of the repaired
 mod-phil-1s draft; (c) the T011 20d-e locator repair (23a-b is the
 correct position for the wisdom-worth-nothing sentence). Module status:
 DRAFT, NOT CLEARED; no gate awarded by this session.
+
+### Session 4 closeout (2026-10-26, worker-pplx-greek-1026g)
+
+Module work: mod-phil-1s stands at DRAFT NOT CLEARED with all advisor
+round-3 repairs applied (commits e1bd296, cf856e40); the routing
+request to the live supervisor (Greek reopening confirmation, module
+QC, T011 locator repair) is posted on the TASKBOARD and OWNER-BOARD.
+No further Greek production items were started: the advisor ruled new
+modules blocked pending the authorization ruling.
+
+Authorized verification work done in the remainder of the session,
+posted as routed TASKBOARD notes (commits 1f96a525, 7ca637e3,
+b7d5238c, 9ba73e70, 77794648):
+
+1. Existentialism Gate-1 blocking gap (therapy evidence-and-limits):
+   two free candidates verified to the skill standard's identity,
+   access and credentials checks with durations printed (Wampold Stone
+   Lecture 1:02:38; Norcross interview 33:57); the Wampold lecture
+   content-classified from a transcript read as evidence-and-limits,
+   direct.
+2. Positive-psychology Gate-1 gaps: criticisms-of-the-field candidate
+   (Van Zyl 52:38) content-classified from a transcript read; effect-
+   size candidates posted (Wilcox BCTR talk 43:09; Brandt 1:40:28
+   identity/access/credentials verified, content read blocked by the
+   transcript service).
+3. Story reconciliation residuals verified live end-to-end: the
+   deployed site bundle shows D041→ST488, D102→ST490, D160→ST489,
+   B109→ST491 with the ST488-491 entries present and the stale ST411/
+   413/417 numbers gone. The Greek degree renders as in-development on
+   the live Academy; the rebuilt module is draft content on main, not
+   in the built bundles, which is the expected pre-clearance state.
+
+Baton released at session close so the supervisor or a successor can
+act on the routing requests.
