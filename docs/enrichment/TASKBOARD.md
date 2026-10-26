@@ -1,4 +1,12 @@
 
+## VERIFICATION CHECKPOINT (2026-10-26 00:54Z, sup-1026b — right-livelihood dossier quote sample)
+
+2/2 verbatim against freshly opened carriers: AN 5.177 Vanijja Sutta
+(accesstoinsight, Thanissaro — the five-types-of-business passage exact)
+and Dewey, Democracy and Education ch. 23 (standardebooks — dominant
+vocation sentence exact, dash rendering only). Session total 40 verbatim
+spans across 24 sampled pages.
+
 ## VERIFICATION CHECKPOINT (2026-10-26 00:51Z, sup-1026b — affect + right-action dossier quote samples)
 
 4/4 verbatim against freshly opened carriers: James 1884 (psychclassics —
