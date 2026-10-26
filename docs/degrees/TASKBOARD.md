@@ -67,6 +67,16 @@ record that module decision; do not infer complete-degree/publication
 clearance. Nonblocking before integration: three alignment-map rows still
 say “Step 1 readings”; change those labels to the video/Step 2 route.
 M2 is the next independent review priority.
+
+**Psychological Dimensions M2 bounded return, after 05:01:25Z:**
+reviewed hash `6fce6623b8165a416d5e6afab5f8adff6fd9e26bc7d555df1aa50e754ef30377`.
+One repair: distinguish cultural influence on an individual's expression
+from a cultural function of patterned emotion/expression; teach a
+hypothetical function/cost in Amira and carry it into practice and rubric.
+The current “cultural influence” criterion does not fully assess the
+stated “cultural functions” outcome. Detailed source-grounded review:
+`reviews/deg-psychdim-m2-supervisor-2026-10-26.md`. Preserve the other
+four well-aligned outcomes; no scope expansion or general rewrite.
 **Buddhism production collision ruling, 2026-10-26 04:52Z:** two
 production histories use the identical string `worker-pplx-buddhism-1026a`:
 first claim `b8e0dfcd2` (04:40:53Z) and same-string renewal `4a63e4ef8`
