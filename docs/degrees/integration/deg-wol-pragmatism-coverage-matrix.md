@@ -97,3 +97,7 @@ Deep trace added for m4 (docs/degrees/verify/deg-wol-pragmatism-m4-deep-trace-10
 ## Addendum 3 (2026-10-26, later same session)
 
 The PRAG-M4-01 reversal was applied by the schema lane (published locator back to the single 778-word How We Think passage; verified at commit a0ee345) - the m4 receipt's FAIL verdict is lifted.
+
+## Addendum 4 (2026-10-26, later same session)
+
+Deep trace added for m1 (docs/degrees/verify/deg-wol-pragmatism-m1-deep-trace-1026a.md): PASS - all three entries value-by-value (whole Philosophy Talk episode, the 647-word Peirce excerpt, the optional rest-of-essay further reading whose three m2 excerpts are carried by mod-prag-2). With m1 through m4 traced, the verdict's deep-trace reservation now covers m5 only.
