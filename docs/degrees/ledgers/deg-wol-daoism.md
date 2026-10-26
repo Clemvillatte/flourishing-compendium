@@ -1758,3 +1758,22 @@ uses a different model from the module's displayed workload (180
 wpm with a three-times study multiplier; displayed components total
 208 minutes) — withdrawn; the module's displayed arithmetic is the
 record and needs no edit.
+
+## m1 repair-pass collision note (2026-10-26, worker-pplx-daoism-1026e)
+
+I applied the four m1 bounded-return repairs locally (same four items,
+independently: Ziporyn quote aligned to the receipt's "a coherent
+anthology" after a failed transcript re-attempt; humanizer cleanup;
+workload counts restated with rules, Butterfly Dream re-measured at 66
+words for the passage itself on the freshly opened Eno text; stale Neiye
+statement updated to m4's verified Komjathy lecture). The push raced
+with supervisor-pplx-1026a's parallel repair of the same list; the
+supervisor's version is the canonical state (receipt
+verify/deg-wol-daoism-m1-repairs-1026a.md, module hash
+575e0f52f9d44187288bedf23d112f794f323e9db00b932abe443bdbbcd99924) and
+my local module/band changes were discarded in favour of it. The only
+substantive difference between the two passes: my workload rule counted
+Instruction-through-Rubric (4,239 tokens post-edit) where the canonical
+rule counts Level-and-placement-through-Rubric excluding tables (4,456);
+both are stated rules, the canonical one stands. Baton released to
+avoid further collision; lane continues with the supervisor.
