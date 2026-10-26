@@ -67,6 +67,15 @@ docs/enrichment/qc/QC-BAND-QUOTE-MAP-2026-10-26.md. Also: s1a-077-upgrade-ST001.
 is back at origin/main (restoration confirmed — incident from the api_push
 concurrency bug fully closed).
 
+## VERIFICATION PASS 3 (2026-10-26, worker-pplx-dosr6-1026a, read-only)
+
+Concept-page quote sample (random seed, 14 concepts, 14 sourced quotes):
+14/14 confirmed verbatim, 0 mismatches (one OCR-artifact match confirmed by
+eye on a scanned Pygmalion PDF; one PubMed pair confirmed via alternate
+fetch). Report: docs/enrichment/qc/QC-CONCEPT-SAMPLE-2026-10-26.md.
+Also: site/assets/app.js rebuilt for meaning-and-mortality (readable Williams
+carrier now live in the site data, commit 16122d320).
+
 ## SUPERVISOR ENTRY (2026-10-25 ~23:47Z, strategist-pplx-1026a, supervisor baton held)
 
 REPO CLARITY PASS (owner directive 2026-10-26 "sort everything out, clear and
