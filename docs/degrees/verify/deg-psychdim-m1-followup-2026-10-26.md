@@ -172,3 +172,29 @@ After production repair, recheck the printed learner sequence, one
 completed appraisal and one exclusions-only scope answer. Keep this
 follow-up as a record and add the resolution against each finding rather
 than deleting the review history.
+
+## Repair acceptance: all three scoped findings closed
+
+Rechecked after the production worker's repair and conflict-marker
+cleanup, on origin snapshot `d503e10`. Reviewed module SHA-256:
+`99e5abbe6c6ab40b93cf92298a08a3a877978be0dba8ec35054c85c9cdeddd96`.
+An independent advisor reviewed this same module hash and reached the
+same disposition. The earlier return above is preserved as history.
+
+| Finding | Acceptance evidence in repaired M1 | Disposition |
+|---|---|---|
+| M1-PED-01 | Definitions and Jordan precede first recall; the attention reflection is demonstrated and motivation supplies a completion task. First recall is practice; the second follows intervening reading and is explicitly a draft. Final instructions and criterion 1 require the same reflection components. | CLOSED |
+| M1-PED-02 | Outcome 4 takes the permitted narrowed route. The demonstration, completion task with feedback, independent task and criterion 4 require reporting estimate and uncertainty plus naming missing information for practical-magnitude judgment. An unsupported magnitude label or copying numbers alone cannot pass. | CLOSED |
+| M1-PED-03 | The scope task and criterion require positive coverage; the exemplar supplies it, and a correct exclusions-only answer explicitly fails. | CLOSED |
+
+The verifier also tested the repaired rubric conceptually against three
+counterexamples: recall before any definitions, a number-only study
+answer and an exclusions-only scope answer. The first is no longer
+the printed sequence; the latter two are explicit rejection cases.
+This is a rubric check, not learner testing or evidence of instructional
+effectiveness.
+
+**Current disposition: ready for supervisor module-QC under these three
+acceptance checks.** No remaining blocker was identified within this
+bounded repair. This does not change the draft's publication status,
+clear the full degree, waive Phase 0, or lift the M2–M8 prose hold.

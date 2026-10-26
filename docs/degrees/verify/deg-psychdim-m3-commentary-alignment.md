@@ -109,3 +109,22 @@ No ledger, scope, module page or gate was changed by this verifier.
 The live deg-psychdim worker owns the one-clause repair and any eventual
 teaching or rubric integration. This packet adds no new topic and asks
 for no clinical exercise.
+
+## Resolution check
+
+The production owner applied the replacement exit clause in commit
+`1235c50`; the current ledger was rechecked after cleanup on snapshot
+`d503e10`. The M3 progression exit now says commentary appraisal,
+distinguishes synthesis from a primary experiment report, and requires
+naming missing information. The current matrix and scope identify the
+same limited appraisal task.
+
+**The routed ledger-clause mismatch is CLOSED.** Independent advisor QC
+also found no blocking source-validity or pass/reject defect in this
+packet after reopening the Ehring commentary.
+([Source rechecked](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/).)
+
+The proposed pass/reject responses above remain an optional teaching
+aid for the production owner; this check does not claim that a finished
+M3 lesson or rubric already exists. It clears only the specific
+commentary-versus-experiment mismatch.

@@ -62,14 +62,18 @@ use, not an empirical finding. A learner could compare a low-stakes
 example with a counterexample where preparation and deliberate attention
 are necessary, then state what the analogy cannot establish.
 
-### Routed metadata repair
+### Existing duration record and correction
 
-The ledger currently gives this source approximately 47 minutes.
-The primary transcript contains substantive speech at 53:02, so that
-estimate is too short for the whole lecture. This pass did not establish
-the precise end of the audiovisual file; use “about 53 minutes” only as
-a provisional whole-source allowance, or verify the player duration
-before making an exact workload claim.
+**Correction, 2026-10-26:** the initial version of this note attributed
+an approximately 47-minute duration to the ledger. That assertion was
+unsupported and is withdrawn. The inherited verification entry
+`verify/deg-contemplative.md`, M01-D04, already records 53:36, not
+47 minutes; the seeded Daoism ledger contains no such assignment.
+
+This pass found substantive speech at 53:02 on the primary transcript,
+consistent with the inherited record, but did not independently establish
+the exact end of the audiovisual file. There is no duration repair to
+route on the evidence of this recheck.
 ([Primary transcript, concluding speech](https://www.youtube.com/watch?v=EJ1bB2w2gBk).)
 
 Do not assign the whole lecture merely because several passages fit.
@@ -138,8 +142,9 @@ the owner must still check the alternative's accessibility and context.
 
 ## Suggested handoff and acceptance check
 
-- **Daoism owner:** repair the Ziporyn whole-source time allowance and
-  verify exact duration if needed. Keep resource selection finite.
+- **Daoism owner:** retain the existing 53:36 duration record unless a
+  direct duration check establishes a change. Keep resource selection
+  finite; the original 47-minute flag in this note is withdrawn.
 - **Excerpt producer:** cross-check every chosen timestamp against the
   transcript, not only the chapter list. State the actual assigned
   segment and its purpose.
