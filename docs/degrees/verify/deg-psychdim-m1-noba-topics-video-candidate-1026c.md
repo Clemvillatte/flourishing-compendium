@@ -56,14 +56,19 @@
   search index (with speech-recognition errors like "Behavior" for
   "behavior"), not a line-by-line read; the excerpts are extensive and
   cover the opening minutes of the lecture continuously.
-- **NOT verified (open)**: the video's duration and upload date — the
-  direct watch-page fetch returned broken_content_js_required, and the
-  search-index render did not print the duration/date line for this
-  result. Playback, caption status, and the lecture's full scope beyond
-  the excerpted opening are also unverified. The title suggests
-  observational research strategies dominate the later portion; whether
-  the three reasoning/design topics sit in one bounded span suitable
-  for clip assignment is for the owner to check against a transcript.
+- **NOT verified initially, NOW CLOSED (same session, later search)**:
+  the video's duration and upload date — the direct watch-page fetch
+  returned broken_content_js_required, and the first search-index
+  render did not print the duration/date line. A later search for the
+  same video surfaced the watch page with its metadata line:
+  **Jan 03, 2024 (0:32:07)** — upload date January 3, 2024, duration
+  32:07. The fuller transcript excerpts in the same render extend the
+  coverage evidence: beyond the three reasoning/design topics, the
+  lecture also covers case studies ("an in-depth analysis of the
+  individual"), surveys ("the problems with surveys is everybody
+  lies"), naturalistic observation (including covert observation and
+  why knowing-you-are-watched changes behavior), and cautions on
+  generalizing from single cases — all within the 32:07 runtime.
 - **Alternatives surfaced by the same search (not verified)**: OpenStax
   Psychology 2e Chapter 2 lecture videos (zDApycBRef8, 39:58, channel
   Amber Kennedy; and a re-upload qa7UzLnHGXI) covering inductive/
