@@ -144,11 +144,11 @@ Deep trace added for m5 (docs/degrees/verify/deg-psychdim-m5-deep-trace-1026a.md
 
 ## Addendum 6 (2026-10-26, later same session) - DEGREE COMPLETE
 
-Deep trace added for m6 (docs/degrees/verify/deg-psychdim-m6-deep-trace-1026a.md): PASS - all six entries value-by-value (three talk windows, the Fishbach clip, the Ryan and Deci reading, the Woolley teach-reuse). PSYCHDIM DEGREE deep-trace coverage COMPLETE: all eight modules have PASS receipts. WAVE COMPLETION: all four degrees (psychdim 8/8, daoism 5/5, buddhism 9/9, pragmatism 5/5 - 27 modules) now have complete per-module deep-trace coverage, all PASS. Every provisional verdict stands CONFIRMED by deep trace.
+Deep trace added for m6 (docs/degrees/verify/deg-psychdim-m6-deep-trace-1026a.md): PASS - all six entries value-by-value (three talk windows, the Fishbach clip, the Ryan and Deci reading, the Woolley teach-reuse). PSYCHDIM DEGREE deep-trace coverage COMPLETE: all eight modules have PASS receipts. WAVE COMPLETION: all four degrees (psychdim 8/8, daoism 5/5, buddhism 9/9, pragmatism 5/5 - 27 modules) now have complete per-module deep-trace coverage, all PASS. Every provisional verdict stands CONFIRMED by deep trace. [Later correction: see Addendum 7 and the precision note — the m8 Vohs entry was found after this line was written; 'all PASS' means 26 clean receipts plus m8's published-set PASS with one routed addition.]
 
 ## Final closure (2026-10-26, commit b5a5031)
 
-Item 6 resolved: PD-M1-07 is re-added to the published m8 (all eight capstone-return entries present). The m8 receipt's qualification is lifted. With every schema-lane fix-list item closed and the audit green, the psychdim verdict stands CONFIRMED.
+Item 6 resolved: PD-M1-07 is re-added to the published m8 (all eight capstone-return entries present). The m8 receipt's qualification is lifted. With every schema-lane fix-list item closed and the audit green, the psychdim verdict stands CONFIRMED. [Later correction (Addendum 7): fix-list item 7 is OPEN with the schema lane, so 'every item closed' no longer holds as written; m8's qualification was re-imposed in the receipt's rev 3/4.]
 
 ## Addendum 7 (2026-10-26, commit ff28ea8 state) - SECOND m8 CORRECTION
 
