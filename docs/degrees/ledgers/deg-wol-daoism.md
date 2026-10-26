@@ -149,13 +149,20 @@ this module does not need it.
 
 ### Gap register
 
-- Neiye elective (scope doc names it as an elective deep dive): no verified
-  source currently attached. The owner's primary-source library
-  (docs/PRIMARY-SOURCES.md) lists Harold D. Roth, "Original Tao: Inward
-  Training and the Foundations of Taoist Mysticism" (Columbia UP, 1999)
-  with the Neiye translation inside; if the owner uploads that book or a
-  free excerpt becomes available, the elective can attach. Recorded as a
-  dependency, not a blocking gap, because the scope names it as an elective.
+- Neiye (CORRECTED 2026-10-26, supervisor-pplx-1026a, whole-degree QC
+  cross-module check): this entry is no longer accurate. The canonical
+  m4 module's primary text IS the Neiye, in Bruce R. Linnell's free
+  translation (Project Gutenberg eBook #38585, CC BY-NC-ND 3.0,
+  verified, assigned and read; quotations and section structure
+  re-verified 2026-10-26, receipt
+  verify/deg-wol-daoism-m4-neiye-quotes-1026a.md). The Neiye is
+  therefore attached and verified in this degree, not a gap. The
+  owner's primary-source library (docs/PRIMARY-SOURCES.md) still
+  lists Harold D. Roth, "Original Tao: Inward Training and the
+  Foundations of Taoist Mysticism" (Columbia UP, 1999) with the
+  Roth translation inside; that remains an optional deeper
+  scholarly elective if the owner ever uploads it, and its absence is
+  not a gap for this degree's scope.
 - No blocking gaps for m1.
 
 ### Module status
