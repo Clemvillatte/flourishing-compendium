@@ -487,3 +487,31 @@ Remaining unadjudicated from the dosr7 files: 8 items (scispace x2,
 tandfonline x4, semanticscholar, academic.oup, web.archive.org — one
 tandfonline item is the doi.org redirect — all on hosts that block
 automated fetchers).
+
+# QC sample 16: procrastination — Holton; blocked-host tail (2026-10-26 02:47:04Z, measured in-command)
+
+1. procrastination, Holton 1999 (web.archive.org copy of the author-hosted
+   paper): FALSE POSITIVE, confirmed — "Weakness of will arises, I shall
+   suggest, when agents are too ready to reconsider their intentions"
+   verbatim in the archived PDF (direct download).
+
+The remaining five dosr7-band items could not be confirmed from this
+environment and are flagged for any future eye-check, consistent with the
+map's blocked-host classification (no repair is implied; these are
+adjudication gaps, not known deviations):
+
+- procrastination, Chowdhury 2016 (semanticscholar page): the site blocks
+  the script's fetcher, and the Semantic Scholar API rate-limited this
+  session's requests (429).
+- procrastination, Davidson (academic.oup.com): paywalled chapter page.
+- creativity, Hennessey and Amabile 2010 spans on tandfonline and the
+  doi.org redirect to tandfonline (x4), and the two scispace.com spans:
+  hosts that block automated fetchers.
+
+Session verification tally for the automated NOT FOUNDs across the released
+bands: 29 false positives confirmed (26 verbatim, plus the
+case-capitalization, footnote-marker, soft-hyphen and apostrophe variants
+noted above), 2 genuine deviations repaired earlier in the session (Hayes
+semicolon, Goyal "reductions in"), 7 items not confirmable from this
+environment (suttacentral x2, Wiley/Algoe x3, semanticscholar, plus the
+blocked-host tail listed above), 0 known outstanding deviations.
