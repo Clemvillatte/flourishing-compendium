@@ -47,6 +47,9 @@ def main():
             if c.get('prerequisite_display'): m['prerequisiteDisplay'] = c['prerequisite_display']
     ap = os.path.join(INT, f'{deg}-assignments.json')
     spec = json.load(open(ap))
+    # new_sources support (suggested by worker-pplx-degfixtext-1026c, tested
+    # against deg-wol-pragmatism-assignments.json): add source records the
+    # assignments introduce before resolving refs against them.
     for nsid, nsrec in spec.get('new_sources', {}).items():
         if nsid not in src:
             d['sources'].append(nsrec); src[nsid] = nsrec; log.append(f'new source {nsid}')
