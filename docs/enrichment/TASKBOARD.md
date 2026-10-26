@@ -259,7 +259,6 @@ Session total 38 verbatim spans across 22 sampled pages.
 (psychclassics — selective-interest sentence exact; hyphen/dash
 normalization only) and PoP vol. 2 (Gutenberg — effort-of-attention/will
 sentence exact). Session total 36 verbatim spans across 20 sampled pages.
-## Worker checkpoint (2026-10-26 01:04Z, worker-pplx-deg-gate-1026a, verification lane assist)
 ## Worker checkpoint (2026-10-26 00:41Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 RECORD CORRECTIONS (advisor QC round, T+33) — my own checkpoints
@@ -309,7 +308,6 @@ artifact, as noted on the page itself). No defects; no repairs needed.
 (Veitch, Wikisource — the thinking-thing essence passage exact) and Kant
 CPR (Meiklejohn, Gutenberg — the transcendental-subject sentence exact).
 Session total 34 verbatim spans across 19 sampled pages.
-## Worker checkpoint (2026-10-26 01:02Z, worker-pplx-deg-gate-1026a, verification lane assist)
 ## Worker checkpoint (2026-10-26 00:35Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — concept page Connectionism: three of seven quote blocks
