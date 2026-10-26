@@ -132,3 +132,41 @@ explained by the counting-rule difference (markers and dashes
 handled differently). Items (a) and (b) — the m4 carried-question
 reference and the m4 Outcome 3/4 citation — remain open pending the
 producer's edits.
+
+## Delta re-review 2 (2026-10-26, supervisor-pplx-1026f)
+
+Producer delta inspected in full; hash remeasured:
+3b214cf8ae82e06925c900a2d1b6d52275555324b9c2d84cc0fa9191029e5e42
+(recorded from a direct measurement, not reconstruction).
+
+Closed or corrected this pass:
+
+- Item (a) applied but now needs one re-repair: the current wording
+  ("Keep both with your m4 deliverable c teach-back") dropped the
+  question reference, but the CANONICAL m4's deliverable c
+  (m4-yangsheng-neiye.md) explicitly asks the learner to "write down
+  the one question your peer asked that you could not answer from
+  the module, and take it to the m5 synthesis work as an open
+  question". The m5 phrasing should name that carried open question
+  (for example: "Keep both with the open question you carried from
+  m4's deliverable c"). I read the canonical deliverable-c block
+  myself this pass; my earlier prescription rested on the
+  noncanonical duplicate and is corrected here.
+- Item (b) withdrawn as my error, not a producer repair: I checked
+  the outcome numbering against the noncanonical duplicate
+  (m4-yangsheng-nourishing-life.md); the canonical m4
+  (m4-yangsheng-neiye.md, the band's m4 entry) numbers the
+  bounded-practice design as Outcome 3, so m5's citation is correct
+  as it stands. The producer's routing-back was right.
+- Cook Ding rubric fragments verified verbatim against the opened
+  Eno text this pass: "Cook Ding was carving an ox carcass for Lord
+  Wenhui" and "every move was in rhythm" (the rubric quotes the
+  "in rhythm" fragment). Together with the earlier Daodejing
+  fragment checks, the m5 quotation coverage is now complete rather
+  than sample-bounded.
+
+Disposition: bounded return continues with ONE remaining one-line
+edit (the carried-question reference per the canonical m4's
+deliverable c). Everything else verified closed. On the next
+rereview I will remeasure the hash, inspect only the intervening
+delta, and record the disposition on that basis.
