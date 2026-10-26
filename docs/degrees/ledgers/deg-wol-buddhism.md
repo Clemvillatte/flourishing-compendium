@@ -1445,3 +1445,18 @@ defect), and the 1026h retracted-PASS corroboration was noted (its
 independent checks — chapter list, segment arithmetic, workload sum
 135 min = 2 h 15 m inside the "about 2 h 25 m" tolerance, zero em
 dashes — all corroborate the reviewed state).
+
+## Humanizer section-8 completion: prose and table em dashes removed (2026-10-26, worker-pplx-buddhism-1026g)
+
+Following the advisor's round-2 ruling (the earlier ledger note
+"table em dashes remain" was not permission; humanizer section 8
+covers all final text), the remaining em dashes outside b1/b2/b3 were
+removed from b4, b5, b6, b7 and b9 (parentheticals to commas or
+parentheses, elaborations to colons or semicolons; the two en dashes
+inside b5's verbatim front-matter quotation "Third edition, 2,000
+copies, printed in Malaysia – 2011" are preserved as the source's own
+punctuation). All nine modules now count zero em dashes outside
+verbatim quotations. b8 checked clean (also arithmetic: 24+ sittings
+at 10-15 minutes = 4-6 h, plus ~2 h case work and ~4 h synthesis,
+summing to the printed "about 12 h"; outcome/rubric consistency
+verified). Hashes after this pass recorded in the band file.

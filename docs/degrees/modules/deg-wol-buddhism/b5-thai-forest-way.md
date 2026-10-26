@@ -79,7 +79,7 @@ this module actually opens:
 
 - **"Making the Heart Good"** (Chapter Eleven, printed pp. 125-132,
   about 3,050 measured words): the tradition's practice-first ethos in
-  its plainest form — people hunting merit while skipping the one
+  its plainest form: people hunting merit while skipping the one
   teaching the Buddha's line names first, refraining from wrongdoing.
   Read from "These days people are going all over the place looking for
   merit." to "...if the Dhamma really reaches the mind it's
@@ -87,7 +87,7 @@ this module actually opens:
   on batteries."
 - **"Our Real Home"** (Chapter Thirteen, printed pp. 145-156, about
   4,490 measured words): a talk to a family nursing an aged, ill
-  parent — the tradition's teaching on facing pain, aging and death
+  parent, the tradition's teaching on facing pain, aging and death
   with the contemplative frame rather than fear. Read from "Now determine
   in your mind to listen respectfully to the Dhamma." to "...I am happy
   to have been able to give you this gift of Dhamma and hope it will
@@ -100,7 +100,7 @@ copyright line "Copyright © 2011 Harnham Buddhist Monastery Trust",
 Creative Commons Attribution-NonCommercial-NoDerivs 2.0 UK licence
 statement. (The earlier draft of this step carried an access-failure
 block on this assignment; the full volume is now verified open and
-free, and the block is discharged — the record lives in the degree
+free, and the block is discharged; the record lives in the degree
 ledger.)
 
 The tradition's emphasis, as the introduction frames it, is following

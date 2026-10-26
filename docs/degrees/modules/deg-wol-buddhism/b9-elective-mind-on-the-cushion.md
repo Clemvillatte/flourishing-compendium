@@ -13,8 +13,8 @@ Meditators meet the same five visitors again and again: sensual desire,
 ill will, sloth and torpor, restlessness and worry, doubt. The tradition
 names them the hindrances and treats them as the mind's weather to be
 recognized and worked with, not as failures. The same tradition analyzes
-experience into five aggregates (khandhas) — form, feeling, perception,
-fabrications, consciousness — and the study guide this module reads frames
+experience into five aggregates (khandhas), form, feeling, perception,
+fabrications, consciousness, and the study guide this module reads frames
 them as activities you employ, not objects you own. This elective turns the
 learner's own sitting log into the laboratory: both threads are studied
 where they were met.
@@ -47,7 +47,7 @@ where they were met.
    moment in one of your own logged sittings (form: the body's posture
    and breath sensations; feeling: the pleasant or unpleasant tone;
    perception: the labels that arose; fabrications: the intentions and
-   thought-constructs; consciousness: the knowing of all this) — or, for
+   thought-constructs; consciousness: the knowing of all this), or, for
    an aggregate your log cannot show, record that plainly. Honest
    absence is a finding; an invented entry is not.
 
@@ -111,9 +111,9 @@ grieves, mourns, laments, beats his breast, & becomes bewildered." to
 "Precisely this Noble Eightfold Path: right view, right resolve, right
 speech, right action, right livelihood, right effort, right
 mindfulness, right concentration."). The guide's framing is the
-one this module keeps: the aggregates are analyzed as activities —
-what the tradition's own questions ask is "What is suffering? How is
-it caused? What can be done to bring those causes to an end?" — not
+one this module keeps: the aggregates are analyzed as activities
+(what the tradition's own questions ask is "What is suffering? How is
+it caused? What can be done to bring those causes to an end?"), not
 as a definition of a person. The
 remaining sections (Constructing the Aggregates, Constructing a Self,
 Constructing the Path, Deconstruction) are optional for the curious.
@@ -172,14 +172,14 @@ optional further reading.
 
 | resource | status | verified | notes |
 |---|---|---|---|
-| Thanissaro Bhikkhu, "Hindrances", https://www.youtube.com/watch?v=PcR_fI6p9k8 | verified-video | 2026-10-26 (content inspected this pass via full transcript read; watch page metadata corroborated by deg-verify-a B-V12) | duration 0:25:00 on the watch page; free; the description mentions a Creative Commons license, but the truncated license line does not establish its terms or version; the five hindrances named (~5:02-5:20), recognizing them as the first step (~5:29), drawbacks examined throughout, comfortable breathing as the countermeasure anchor (~20:44, ~22:30) — all confirmed on the read transcript; captions are AUTO-GENERATED with recognition errors, so the module quotes nothing verbatim from this talk; credentials opened on buddho.org (b1) |
+| Thanissaro Bhikkhu, "Hindrances", https://www.youtube.com/watch?v=PcR_fI6p9k8 | verified-video | 2026-10-26 (content inspected this pass via full transcript read; watch page metadata corroborated by deg-verify-a B-V12) | duration 0:25:00 on the watch page; free; the description mentions a Creative Commons license, but the truncated license line does not establish its terms or version; the five hindrances named (~5:02-5:20), recognizing them as the first step (~5:29), drawbacks examined throughout, comfortable breathing as the countermeasure anchor (~20:44, ~22:30), all confirmed on the read transcript; captions are AUTO-GENERATED with recognition errors, so the module quotes nothing verbatim from this talk; credentials opened on buddho.org (b1) |
 | Nyanaponika Thera, The Five Mental Hindrances and Their Conquest, https://accesstoinsight.org/lib/authors/nyanaponika/wheel026.html | verified (text) | 2026-10-26 (this session) | The Wheel No. 26, BPS 1993, © 1994; free redistribution license stated on the opened page; selected Pali canon texts and commentaries on each hindrance with countermeasures |
 | Thanissaro Bhikkhu, "The Five Aggregates: A Study Guide", https://www.accesstoinsight.org/lib/study/khandha.html | verified (text) | 2026-10-26 (full page pulled and both assigned sections read in full this pass by worker-pplx-buddhism-1026b; content coverage pre-verified in the degree ledger 2026-10-26) | ©2010 Metta Forest Monastery, first published on ATI 2002, last revised 30 November 2013; CC BY-NC 4.0 stated on the page; assigned sections read this pass: Introduction (2,619 words) and The Questions (609 words), first/last sentences stated in Step 4; word counts measured locally on the pulled page text |
 
 No paywalled or app-gated content. Video-first policy applied: the
 talk is the primary recording (verified metadata; its content claims
 bounded to the opened description); the BPS text, read in full this
-session, is the module's content-verified anchor — the hindrances
+session, is the module's content-verified anchor: the hindrances
 list and countermeasures are carried by it.
 
 ## What this module does not do
