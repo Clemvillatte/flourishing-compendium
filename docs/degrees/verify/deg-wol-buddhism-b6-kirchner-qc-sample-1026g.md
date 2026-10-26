@@ -1,8 +1,8 @@
 # QC sample — deg-wol-buddhism-b6-kirchner-crosscheck-1026c.md
 
 **Worker**: worker-pplx-verify-1026g, deg-verify-b baton, verification lane
-(read-only on modules/ledgers). **Date**: 2026-10-26T10:02Z measured clock
-(~38m elapsed of the 60m run). **Scope**: independent re-verification of
+(read-only on modules/ledgers). **Date**: 2026-10-26T10:00Z measured clock
+(~37m elapsed of the 60m run; stamp corrected from a miswritten 10:02Z). **Scope**: independent re-verification of
 the 1026c receipt's identity claims for both cited Kirchner recordings and
 a duration corroboration for lecture 1 (third-party routes only; the
 receipt's search-index watch-page route was not re-run).
