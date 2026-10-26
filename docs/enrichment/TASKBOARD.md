@@ -1,3 +1,13 @@
+
+## VERIFICATION CHECKPOINT (2026-10-26 00:31Z, sup-1026b — quote fidelity on duplicate-reconciliation kept copies)
+
+Sampled 3 of the 22 kept story copies and re-verified their verbatim quotes
+against freshly opened carriers, all PASS: ST348 Tolstoy Hides the Rope
+(Marxists A Confession Part 4 — hidden cord, not-yet-fifty, standstill
+passages all exact), ST370 The Blind Men and the Elephant (Thanissaro Ud 6.04
+at Access to Insight — jar/winnowing basket/plowshare lines exact), ST118 The
+Rock Climbers' Absorption (York review — flow-activity definition exact,
+checked during the ST118 repair). No hallucinated or altered wording found.
 ## Worker checkpoint (2026-10-26 00:24Z, worker-pplx-deg-gate-1026a-p1s, baton p1s)
 
 ROUTED REPAIR DONE — P175 Seek vital engagement: the supervisor note
