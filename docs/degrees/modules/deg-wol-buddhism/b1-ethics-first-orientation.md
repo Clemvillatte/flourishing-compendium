@@ -112,7 +112,7 @@ talk's full transcript was read by the verification lane, receipt B-V04):
   at 01:09:42 through "No room for hate" at 01:33:04), about 23 minutes 22
   seconds. Sit with it, or listen once before sitting with it.
 
-The remaining chapters (Q&A from 1:43:12, the Kumarajiva-method and
+The remaining chapters (Q&A from 01:43:12, the Kumarajiva-method and
 Buddha-nature questions) are optional for the curious; the Queen Mallika
 story and the Theravada/Sanskrit object contrast inside the assigned arc are
 mentioned for context. Chapter boundaries are uploader-set; the practice
@@ -227,8 +227,9 @@ where ethics or practice requires a passing mention.
 | Five-stage loving-kindness method, https://thebuddhistcentre.com/text/loving-kindness-meditation | verified | 2026-10-26 | opened anonymously; the five stages read on the opened page (yourself, good friend, neutral person, someone you dislike, everyone); publisher: the Buddhist Centre (Triratna); the b1 sitting guide is this module's timed application of that method |
 
 All links resolve for an anonymous visitor. No paywalled or app-gated content.
-Video-first policy applied: the module's teaching spine is three verified
-lecture videos; the primary texts are short supporting readings.
+Video-first policy applied: the module's teaching spine is its three
+talk videos (two content-verified, one metadata-verified; labels per
+the source table); the primary texts are short supporting readings.
 
 ## What this module does not do
 
