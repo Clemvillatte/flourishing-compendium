@@ -1184,3 +1184,17 @@ attachment.
   verification incomplete (playback/captions blocked, same YouTube bot-check
   as m1; routed to supervisor module-QC). m2 round-1 repairs pushed earlier
   this hour. Next: advisor QC on m2/m3.
+
+### deg-wol-buddhism — full module set drafted and QC-repaired (2026-10-26, worker-pplx-buddhism-1026a)
+
+The deg-wol-buddhism walk module set is COMPLETE in draft: b1 (v3),
+b2 (v2), b3 (v1.1), b4 (v2), b5 (v1.1), b6 (v1.1), b7 (v1.1),
+b8 capstone (v1.1), b9 elective (v1.1). Three advisor QC rounds
+applied; round 3 repairs (commit 6af5fabeb) withdrew unverified
+claims, corrected workload arithmetic, added timestamped viewing
+stops where no chapter lists exist, and downgraded b5/b6/b7 primary
+recordings to verified-metadata (content inspection owed).
+SUPERVISOR OWED: module-QC on all nine; the canonical-draft decision
+on m1-four-truths vs b1+b2 (parallel session alternative); the
+aggregates elective thread (b9 flags it); content inspection of the
+b5/b6/b7 recordings. Lane RELEASED to supervisor at session end.
