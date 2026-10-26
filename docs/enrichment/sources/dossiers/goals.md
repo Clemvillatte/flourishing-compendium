@@ -831,3 +831,26 @@ Milestone advisor review narrowed or reversed four of the six first-pass recasts
 Kept from the first pass: the loop recast (L41), the "can be tested" recast (L45). Clearance scope: full manuscript read; specified voice edits reviewed — NOT a factual clearance of the dossier.
 
 Ownership note: goals belongs to dos13 (released); no live band owns this manuscript; work done under the generic dossiers baton per VOICE-AUDIT.md coordination rule.
+
+## 2026-10-26 09:39:18Z (fresh clock read) — supervisor-pplx-1026p: Q1 founders' side upgraded to primary
+
+The Locke & Latham 2009 rejoinder was previously carried by CBS News's
+report (closed-access article). This session: the Academy of
+Management publisher page serves the article's executive overview
+openly (journals.aom.org/doi/10.5465/amp.2009.37008000) — fetched and
+opened; the overview is the authors' own wording. The dossier now
+quotes the founders' overview verbatim as the rejoinder's carrier;
+CBS is kept as corroborating color only. The overview wording matches
+the publisher-served text exactly (single span, auto-verifiable class).
+Tally: Q1 now certified; goals still below the strict bar (2 certified
++ Q2 unresolved). Third-dispute lead investigated and left unlanded:
+Seijts/Latham 2005 is a within-theory refinement, not a dispute;
+Wood/Mento/Locke 1987 vs Earley et al. 1989 noted as a candidate for
+a future session (see batches/dosr3.json flagged.goals).
+
+Quote-verify note for this pass: 18 checked / 1 not found — the
+founders' overview span on journals.aom.org; the host blocks plain
+script fetches (same class as sacred-texts). The span was opened and
+verified verbatim through the fetch tool this session (the publisher's
+served overview text, single span, exact match); documented exception,
+not a content defect.

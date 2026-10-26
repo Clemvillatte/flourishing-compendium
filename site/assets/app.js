@@ -10312,11 +10312,20 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Locke and Latham, the theory's founders, replied in the same issue with Has Goal Setting Gone Wild, or Have Its Attackers Abandoned Good Scholarship? (Academy of Management Perspectives 23(1), 2009, pp. 17-23; the reply is closed access, and the line quoted below reaches the dossier through CBS News's report of it). [CBS News](https://www.cbsnews.com/news/when-academics-go-wild-a-scholarly-scuffle/) reports that they took the critics to task for \"an over-reliance on anecdotal evidence and generally poor scholarship\", quoting their line that the authors \"would do well to abandon their roles as reporters with an axe to grind and embrace good scholarship\"."
+          "x": "Locke and Latham, the theory's founders, replied in the same issue with Has Goal Setting Gone Wild, or Have Its Attackers Abandoned Good Scholarship? (Academy of Management Perspectives 23(1), 2009, pp. 17-23; the article is closed access, but the publisher serves the authors' own overview openly, and it is the founders' wording, not a reporter's, that carries the rejoinder):"
+        },
+        {
+          "t": "q",
+          "x": "\"We believe that Ordonez, Schweitzer, Galinsky, and Bazerman (2009), in their critique of goal setting, have breached the principles of good scholarship. Rather than conducting or integrating research, they chose to draw their central theme from anecdotal evidence. Further, they employ unrepresentative citations from the literature, the misreporting of results, and the use of emotionally laden metaphors rather than dispassionate language. Moreover, almost all the pitfalls of goal setting they cite, rather than being original, have already been published—by us.\" ([Locke and Latham, Academy of Management Perspectives 23(1), 2009, publisher overview](https://journals.aom.org/doi/10.5465/amp.2009.37008000))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "What the disagreement turns on is the standing of the critics' case: they hold that goal setting's benefits have been oversold relative to its harms, and the founders' reported rejoinder challenges the case's evidential basis. The report does not establish the rejoinder's full answer to the critics' concerns. My provisional lean: the critics' prescription wording is usable at face value, and the founders' own conditions (commitment, ability, no conflict) are where a reader would start."
+          "x": "[CBS News](https://www.cbsnews.com/news/when-academics-go-wild-a-scholarly-scuffle/) reports the temperature of the exchange, quoting their line that the authors \"would do well to abandon their roles as reporters with an axe to grind and embrace good scholarship\"."
+        },
+        {
+          "t": "p",
+          "x": "What the disagreement turns on is the standing of the critics' case: they hold that goal setting's benefits have been oversold relative to its harms, and the founders' own rejoinder challenges the case's evidential basis — anecdote rather than research, misreported results, unrepresentative citations. The overview does not establish the rejoinder's full answer to the critics' concerns. My provisional lean: the critics' prescription wording is usable at face value, and the founders' own conditions (commitment, ability, no conflict) are where a reader would start."
         },
         {
           "t": "h2",
