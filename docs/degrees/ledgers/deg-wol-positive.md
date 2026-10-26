@@ -49,19 +49,19 @@ Each row below records only what the pages opened this session actually
 showed. Exact assignment windows, playback, and caption inspection are
 OPEN verification requirements (unrouted — routing is the supervisor's).
 Fetch-time bounds: every URL in the "sources opened" table below was
-opened before the 09:37:00Z clock read this entry was written against.
+opened before the 09:37:37Z clock read this entry was written against.
 
 ### Sources opened
 
 | URL | opened (UTC) | by | what it verified |
 |---|---|---|---|
-| https://online.yale.edu/courses/science-well-being (rendered + raw HTML) | 2026-10-26, before 09:37Z | worker-pplx-positive-1026p | Yale Online page: "(FREE) YouTube - Course videos only, no certificate"; duration "6 weeks (10 hrs)"; instructor "Laurie Santos - Professor of Psychology, Head of Silliman College"; the page's own outbound href links the YouTube playlist https://www.youtube.com/playlist?list=PLWHJHzhtiAuS30X_NfVz37vXfZ-T3XyFK (raw-HTML fetch; identity of that playlist thereby established from Yale's own page, not from third-party summaries) |
-| https://www.youtube.com/playlist?list=PLWHJHzhtiAuS30X_NfVz37vXfZ-T3XyFK (oembed + HTTP 200) | 2026-10-26, before 09:37Z | worker-pplx-positive-1026p | playlist oembed title "The Science of Well-Being", author "Dr. Laurie Santos" (official channel /@DrLaurieSantos); page served 200 to an anonymous request |
-| https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=fXIeFJCqsPs | 2026-10-26, before 09:37Z | worker-pplx-positive-1026p | oembed metadata for the official TED-channel upload "Mihaly Csikszentmihalyi: Flow, the secret to happiness"; metadata availability only — playback not tested |
-| https://www.ted.com/talks/mihaly_csikszentmihalyi_flow_the_secret_to_happiness | 2026-10-26, before 09:37Z | worker-pplx-positive-1026p | TED talk page (free): speaker Mihaly Csikszentmihalyi, TED2004; the page rendering printed NO duration (the "18 minutes 41 seconds" figure sits on the TED speaker page and the YouTube upload prints 18:56; both recorded below with provenance, neither reconciled) |
-| https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=SWox17w42PI | 2026-10-26, before 09:37Z | worker-pplx-positive-1026p | oembed metadata for "Dr Martin Seligman at the BPS Annual Conference 2017" on The British Psychological Society channel; metadata availability only |
-| https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=HH0sssQzQGg | 2026-10-26, before 09:37Z | worker-pplx-positive-1026p | oembed metadata for "Positive Psychology with Martin Seligman" on the Action for Happiness channel; metadata availability only |
-| https://psychology.sas.upenn.edu/people/martin-seligman | 2026-10-26, before 09:37Z | worker-pplx-positive-1026p | University of Pennsylvania psychology faculty page: "Zellerbach Family Professor of Psychology, Director of the Positive Psychology Center" |
+| https://online.yale.edu/courses/science-well-being (rendered + raw HTML) | 2026-10-26, before 09:37:37Z | worker-pplx-positive-1026p | Yale Online page: "(FREE) YouTube - Course videos only, no certificate"; duration "6 weeks (10 hrs)"; instructor "Laurie Santos - Professor of Psychology, Head of Silliman College"; the page's own outbound href links the YouTube playlist https://www.youtube.com/playlist?list=PLWHJHzhtiAuS30X_NfVz37vXfZ-T3XyFK (raw-HTML fetch; identity of that playlist thereby established from Yale's own page, not from third-party summaries) |
+| https://www.youtube.com/playlist?list=PLWHJHzhtiAuS30X_NfVz37vXfZ-T3XyFK (oembed + HTTP 200) | 2026-10-26, before 09:37:37Z | worker-pplx-positive-1026p | playlist oembed title "The Science of Well-Being", author "Dr. Laurie Santos" (official channel /@DrLaurieSantos); page served 200 to an anonymous request |
+| https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=fXIeFJCqsPs | 2026-10-26, before 09:37:37Z | worker-pplx-positive-1026p | oembed metadata for the official TED-channel upload "Mihaly Csikszentmihalyi: Flow, the secret to happiness"; metadata availability only — playback not tested |
+| https://www.ted.com/talks/mihaly_csikszentmihalyi_flow_the_secret_to_happiness | 2026-10-26, before 09:37:37Z | worker-pplx-positive-1026p | TED talk page (free): speaker Mihaly Csikszentmihalyi, TED2004; the page rendering printed NO duration (the "18 minutes 41 seconds" figure sits on the TED speaker page and the YouTube upload prints 18:56; both recorded below with provenance, neither reconciled) |
+| https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=SWox17w42PI | 2026-10-26, before 09:37:37Z | worker-pplx-positive-1026p | oembed metadata for "Dr Martin Seligman at the BPS Annual Conference 2017" on The British Psychological Society channel; metadata availability only |
+| https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=HH0sssQzQGg | 2026-10-26, before 09:37:37Z | worker-pplx-positive-1026p | oembed metadata for "Positive Psychology with Martin Seligman" on the Action for Happiness channel; metadata availability only |
+| https://psychology.sas.upenn.edu/people/martin-seligman | 2026-10-26, before 09:37:37Z | worker-pplx-positive-1026p | University of Pennsylvania psychology faculty page: "Zellerbach Family Professor of Psychology, Director of the Positive Psychology Center" |
 
 ### Candidates (verification status: UNSET — checks outstanding)
 
@@ -86,3 +86,29 @@ does not clear Gate 1, which remains open and owned by the deg-gate lane.
 |---|---|---|
 | Evidence-evaluation row (measurement, design, effect size): no dedicated free teaching source verified | open, non-blocking at scope stage | the next inventory pass should open recent, freely accessible evidence syntheses on positive-psychology interventions and wellbeing measurement, and open the owner's primary-source library (docs/PRIMARY-SOURCES.md) before recording anything |
 | Criticisms-and-overreach exit capability: no free lecture-length criticism source verified (the Warwick anchor teaches "positive psychology as a critical perspective") | open, non-blocking at scope stage | candidates must be opened and recorded before any module attachment |
+
+## Sources opened (gap-register pass, 2026-10-26, worker-pplx-positive-1026p)
+
+Fetch-time bound: all three URLs opened before the 09:38:09Z clock read this
+entry was written against.
+
+| URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC3599475/ | 2026-10-26, before 09:38Z | worker-pplx-positive-1026p | full text freely accessible (open access, CC BY 2.0): Bolier, Haverman, Westerhof, Riper, Smit, Bohlmeijer 2013, BMC Public Health 13:119 — RCT meta-analysis of positive psychology interventions (39 studies, 6,139 participants); post-test d = 0.34 subjective well-being, 0.20 psychological well-being, 0.23 depression; publication-bias indicators for all outcomes (Orwin fail-safe numbers below required; Trim-and-Fill adjusted effects ~0.16); study quality: 20 of 39 low, 18 medium, 1 high, "None of the studies met all quality criteria" |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC6541265/ | 2026-10-26, before 09:38Z | worker-pplx-positive-1026p | full text freely accessible (open access, CC BY): White, Uttl, Holder 2019, PLoS One 14(5):e0216588 — re-analysis of PPI meta-analyses; key finding quoted from the article: "when small sample size bias was taken into account, the effect of PPIs on well-being were small but significant (approximately r = .10), whereas the effect of PPIs on depression were variable, dependent on outliers, and generally not statistically significant" |
+| https://www.tandfonline.com/doi/full/10.1080/17439760.2023.2178956 | 2026-10-26, before 09:38Z | worker-pplx-positive-1026p | full text openly accessible (page labelled Open access): van Zyl, Gaffaney, van der Vaart, Dik, Donaldson 2024, The Journal of Positive Psychology 19(2):206-235 — systematic review of critiques (32 records, 117 criticisms, 21 categories, six overarching themes: poor theorizing; measurement/methodology problems; pseudoscience/poor replication; lack of novelty/self-isolation; decontextualized neoliberal ideology causing harm; capitalistic venture) |
+
+## Candidates added from the gap-register pass (verification status: UNSET — text sources, reading-level checks outstanding)
+
+| source_id | candidate evidence recorded | open requirements |
+|---|---|---|
+| pmc PMC3599475 (Bolier et al. 2013, BMC Public Health) | open-access full text opened; RCT meta-analysis with effect sizes, publication-bias analysis and study-quality appraisal — direct teaching material for the evidence-evaluation row (measurement, design, effect size) and for the interventions module's evidence base | module attachment decision (degree owner, after Gate 1); exact reading windows; how the walk will teach effect-size reading from it |
+| pmc PMC6541265 (White, Uttl, Holder 2019, PLoS One) | open-access full text opened; small-sample-bias-corrected re-analysis showing much smaller PPI effects — the evidence-evaluation row's contrast case (teaches why effect sizes shrink under bias correction) | same as above |
+| tandfonline 10.1080/17439760.2023.2178956 (van Zyl et al. 2024, Journal of Positive Psychology) | open-access full text opened; systematic review of the field's criticisms — direct teaching material for the criticisms-and-overreach exit capability | same as above; the walk should also pair it with the field's responses (e.g. the 2025 Frontiers response article) before module design |
+
+Gap-register update (2026-10-26, worker-pplx-positive-1026p): both gap rows
+now have OPEN-ACCESS FULL-TEXT candidates recorded from opened pages (evidence
+row: PMC3599475 + PMC6541265; criticism row: van Zyl et al. 2024). The rows
+stay open until a degree owner attaches them to modules after Gate 1; the
+candidates are recorded, not verified for module use (reading-level checks,
+window assignment outstanding).
