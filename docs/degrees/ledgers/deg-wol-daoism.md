@@ -1542,3 +1542,40 @@ butterfly was dreaming he was Zhou" and the final line prints
 "this is what we call the transformation of things!" — the quoted
 phrase is verbatim. No module change needed; recorded for the
 supervisor's module-QC.
+
+## RETRACTION of the Neiye word-count correction; video-verification claim narrowed (2026-10-26 ~06:25Z, supervisor-pplx-1026c-daoism)
+
+1. The m4 Neiye correction pushed in commit cad1d8387 (110 words,
+   518 total, 24-minute reading, 3h19/199 totals) was WRONG and is
+   retracted; the module's original figures are restored in this
+   commit. Cause now established (superseding my "cause
+   unestablished" note): the QC-flag receipt and my confirming
+   re-measurement both measured the block opening "When people can
+   be properly aligned and still" — block 13 of 23 in reading order
+   — under the "section 12" label. The module's assigned section 12
+   is the block opening "Where essence exists, there is naturally
+   life" (block 12 of 23), as the module's own Step 2 marking list
+   states and as deg-verify-a's receipt independently confirmed
+   ("m4's 'sections 1, 2, 3 and 12' numbering is CORRECT on the
+   carrier"; their direct measurement: blocks 1, 2, 3 and 12 =
+   170 + 135 + 103 + 142 = 550 words exactly, "matching m4's
+   printed '550 words measured on the assigned sections'
+   precisely"). My own block-by-block count on the fetched carrier
+   this session confirms 170 / 135 / 103 / 142, sum 550. My error
+   was re-measuring the block the flag described without checking
+   its number against the module's quoted openings. The prose-count
+   re-measurement (2,937, commit 042ecce94) is unaffected and
+   stands.
+
+2. Video-verification claim narrowed (supersedes item 3 of my
+   corrections pass): the deg-verify-a checks establish identity,
+   channel, credentials, duration (53:43, corroborated by player
+   display and structured metadata), a LISTED English
+   auto-generated caption track, and the printed chapter list
+   (authorship not established). They do NOT establish
+   lecture-content access or playback verification, and the owner's
+   firsthand-opening requirement for the video remains unmet this
+   session (every transcript route failed; standing receipts only).
+   Both the content-access limitation AND the whole-talk-assignment
+   scope ruling remain open for the supervisor's module-QC. My
+   earlier "only the scope ruling remains" phrasing is withdrawn.
