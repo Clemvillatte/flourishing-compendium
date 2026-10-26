@@ -1,3 +1,22 @@
+## Worker checkpoint (2026-10-26 15:12Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+THIRTEENTH QC SAMPLE (taper window): freedom.md and impermanence.md.
+Both: dossier_check OK. impermanence: 5 checked / 1 not found — the
+DAP-R span RE-VERIFIED BY EYE this session via the fetch route (PMC
+serves recaptcha to curl/urllib): "Neutral Acceptance (accepting
+death as a natural process of life), Approach Acceptance (looking
+forward to a blessed afterlife) and Escape Acceptance (accepting
+death as a better alternative to present sufferings)" verbatim
+(Jansen et al. 2019, BMC Psychology). freedom: 18 checked / 2 not
+found — both on the archive.org Constant 1819/1820 speech PDF, whose
+text layer is SCRAMBLED on the relevant page (words of the quoted
+span present but extracted in reversed fragments; other pages
+extract cleanly, e.g. "The aim of the ancients was the sharing of
+social power among the citizens of the same fatherland"). Automated
+miss is the scrambled-text-layer artifact; page-image verification
+of the span owed to the next pass. No dossier text changed. Files
+touched: this checkpoint only.
+
 ## Worker checkpoint (2026-10-26 15:06Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 TWELFTH QC SAMPLE (taper window): body.md and behaviour.md — both
