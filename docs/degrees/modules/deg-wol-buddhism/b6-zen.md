@@ -4,7 +4,7 @@
 - **kind**: degree-module
 - **level**: L3 Independent analysis
 - **module id**: deg-wol-buddhism-b6
-- **status**: draft v1.1 (QC round 3 repairs 2026-10-26: untaught practice outcome replaced, viewing stops, workload corrected; production session 2026-10-26, worker-pplx-buddhism-1026a)
+- **status**: draft v1.2 (QC rounds 3-4 repairs 2026-10-26: untaught practice outcome replaced, viewing stops, workload corrected, claim/reflection split through assessment, verified-metadata labels; production session 2026-10-26, worker-pplx-buddhism-1026a)
 - **prerequisites**: b1-b5 exit criteria (precepts applied; four tasks run; sitting habit logged; one school known from inside)
 
 ## Walk context
