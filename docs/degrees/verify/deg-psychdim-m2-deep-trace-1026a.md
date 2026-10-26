@@ -51,6 +51,13 @@ the manifest and published locator carried the ledger's whole-BODY measurement
 section) as if it were the assignment, while the m2 doc's Read section assigns
 about 450 words of specific excerpts ("not the whole module"). The manifest
 entry has been corrected this session and the published locator flagged to the
-schema lane. The PASS verdict stands for the other six entries and for the
-chain structure; PD-M2-04's published locator is OPEN until the schema lane
-applies the correction.
+schema lane. UPDATE (later same session): the corrected bounded assignment
+now lives in the manifest entry's ASSIGNMENT field as spliceable learner text
+(about 450 words: the 'Interpersonal Functions of Emotion' opening paragraph;
+the 'Cultural transmission...' through '...experience them as well' passage;
+the next paragraph's first three sentences), so the schema lane can re-splice
+both the published assignment and the locator directly from the manifest. The
+PASS verdict stands for the other six entries and for the chain structure;
+PD-M2-04's published assignment AND locator are OPEN until the schema lane
+applies the re-splice (the published assignment still prints the stale ~2,794
+word whole-BODY figure).
