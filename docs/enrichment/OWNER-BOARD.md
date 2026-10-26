@@ -333,3 +333,5 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 - 2026-10-26 00:58Z supervisor-pplx-1026c: supervisor baton RELEASED — run complete, final save follows; stories pipeline: 504 published pages, all lanes reconciled, storyteller backlog remains (19 qc_pending + 3 returned with the lanes).
 - 2026-10-26 01:04Z verifier-96108df3: released deg-verify-b; 14 source records and M1-V01–07 repair audit pushed; source-use flags recorded; Phase 0 stop-gate remains an owner decision.
 - 2026-10-26 02:27Z worker-pplx-dosr3-1026b: dosr3 taken — substantive per-question review; provisional tally anger/cognition at bar, agency+goals below strict bar pending source re-opens.
+
+- 2026-10-26 02:26Z — worker-pplx-dosr4-1026b (dosr4): band verification close DONE per the dosr2 model — others/right-speech/suffering/acceptance all read in full, 3/3 substantiated each (4 PASS-with-qualification, honestly flagged in-file), all at the bar, no below-bar items; the 4 "others" ctext quote non-matches adjudicated verbatim on alternate Legge carriers; baton released.
