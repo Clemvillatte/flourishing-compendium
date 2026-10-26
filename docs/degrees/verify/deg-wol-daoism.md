@@ -536,7 +536,7 @@ flags.
   67 verified earlier; the 71-word figure likely includes the
   section header — minor, not flagged).
 
-### Neiye candidate source verified (2026-10-26T05:59:07Z push time; stamp corrected 06:12Z — the original 07:40Z stamp was computed from a defective elapsed-time reading; verify-pplx-w3-1026a, deg-verify-a)
+### Neiye candidate source verified (2026-10-26T05:59:07Z commit time (measured; the API pipeline preserves commit dates); stamp corrected 06:12Z — the original 07:40Z stamp was manually estimated from a mis-scaled elapsed-time readout; verify-pplx-w3-1026a, deg-verify-a)
 
 **Precision addendum (06:12Z, after advisor QC):** the original receipt
 said "read" and "complete translation verified" — overstated. What
@@ -545,11 +545,16 @@ text extracted (~3,177 words); the title page, Eno's introduction
 (Jixia academy background, the Fall 2005 P/E374 note, the pointer to
 Roth's Original Tao) and the translator's signature were read in the
 extracted text; the section structure was verified by pattern match:
-numbered sections 1–18 present as "Section N: title" (17 of 18 titles
-cleanly extracted, e.g. "Section 1: The essential qi", "Section 6:
-The inner grasp", "Section 18: Moderation"; section 11's title line
-was scrambled by the PDF's two-column layout, its number implied by
-the 10/12 sequence — this limit is stated rather than papered over).
+numbered sections 1–18 present as "Section N: title" — on
+re-extraction (06:13Z) all eighteen headings came out cleanly,
+including section 11 ("The nature of the Dao"): 1 The essential qi,
+2 The nature of the heart, 3 The Dao, 4 The sage, 5 The One, 6 The
+inner grasp, 7 Controlling the essence, 8 The core of the heart, 9
+The flood-like essence, 10 Physical perfection, 11 The nature of
+the Dao, 12 The charisma of the completed heart, 13 Concentration,
+14 The limits of contemplation, 15 Moderating emotions and desires,
+16 The dao of eating, 17 The magnanimous qi, 18 Moderation. The
+completeness of the 18-section structure is now verified.
 The verse text of the translation itself was extracted but not
 proof-read line by line against the print edition; the walk's
 quote-verification rules would apply before any verbatim quotation
@@ -580,11 +585,15 @@ attached) and the proposed Neiye elective:
   unreachable over verified TLS from this environment (certificate
   hostname mismatch), and the older www.indiana.edu/~p374/ URLs are
   legacy references.
-- **Alternative with unambiguous licensing: Bruce R. Linnell, "Guanzi,
-  Number 49: Study of Inner Cultivation" (2011), Project Gutenberg
-  e-book #38585 (public domain, free).** Located in search this pass;
-  not opened full-text this pass, so it is a located candidate, not a
-  verified receipt.
+- **Alternative: Bruce R. Linnell, "Guanzi, Number 49: Study of Inner
+  Cultivation" (2011), Project Gutenberg e-book #38585 (free).**
+  CORRECTED 06:13Z: the original text of this receipt called the
+  translation "public domain" — retracted. The HTML edition (opened
+  later this session; receipt below) prints a copyright claim
+  ("Copyright (C) 2011 by Bruce Linnell") together with a CC
+  BY-NC-ND 3.0 grant; it is NOT public domain. As first written this
+  line was a located candidate, not a verified receipt; the carrier
+  has since been verified (receipt below).
 - **Recommendation to the m4/m5 owner:** attach Eno's Neiye (same
   translator as the walk's core texts, free access, checks as stated
   in the precision addendum) with the hosting/licensing caveat above
@@ -631,10 +640,11 @@ not cover this carrier):
   change or build on this work in any way..." — quoted as printed.
   m4's "license CC BY-NC-ND 3.0, quoted as printed" claim is
   therefore VERIFIED. Free, no paywall, no login. The NC term bars
-  commercial use and ND bars derivatives: m4's use (assign the
-  reading, quote as printed) is within these terms; the module should
-  keep attributing Linnell and never paraphrase-quote from it as if
-  verbatim.
+  commercial use and ND bars derivatives. CORRECTED 06:13Z: an
+  earlier draft of this receipt asserted that m4's use "is within
+  these terms" — withdrawn; what was verified is the printed license
+  text, not the project's compliance with its conditions, which is a
+  separate question for the owner/supervisor.
 - **Limit stated honestly:** m4 assigns "sections 1, 2, 3 and 12" and
   measures 550 words on them. In the fetched HTML the translation is
   delimited by horizontal rules with NO printed section numbers; the
@@ -657,26 +667,29 @@ The supervisor's m4 routing (video re-verification to deg-verify-a):
   Foundation"), and the description's content frame (informing Daoist
   view, general principles, theory behind basic Yangsheng practice)
   matches m4's topic list.
-- **DURATION DISCREPANCY — routed to the m4 owner:** the fresh watch
-  page reports lengthSeconds **3334 = 55:34**; m4 prints **53 minutes
-  43 seconds** in four places (assigned-video line, Step 1 heading,
-  workload section, workload arithmetic; the arithmetic total is built
-  on it). A 1:51 difference. Recorded honestly: single fresh fetch
-  this pass; the cause (earlier measurement error vs a later video
-  edit changing duration) was NOT established. The owner should
-  re-measure and, if 55:34 stands, correct the four places and
-  recompute the workload total.
+- **DURATION CONFLICT — routed to the m4 owner (observation-bounded):**
+  the fresh watch-page extraction returned lengthSeconds **3334
+  (55:34)**; m4 prints **53 minutes 43 seconds** in four places
+  (assigned-video line, Step 1 heading, workload section, workload
+  arithmetic; the arithmetic total is built on it). This is an
+  extraction-reported value, not a direct player-field verification;
+  the cause (extraction error, earlier measurement error, or a later
+  video edit) was NOT established. The owner should re-measure on the
+  visible page and correct the four places only if the discrepancy
+  stands.
 - **Captions:** this fetch route returned a transcript panel mention
   but no captionTracks fields — INCONCLUSIVE from this surface (same
   limitation as B-V23's b4 item). m4's content-coverage claim rests on
   the owner's transcript receipt, not re-verified here.
-- **Chapters:** the watch page prints an auto-generated chapter list
-  (Correlative Cosmology 5:28 … How Do We Nourish Life 52:00). m4
+- **Chapters (corrected 06:13Z):** the watch page prints a chapter /
+  key-moment list (Correlative Cosmology 5:28 … How Do We Nourish
+  Life 52:00). An earlier draft of this receipt called it
+  "auto-generated" — withdrawn; authorship was not established. m4
   prints no timestamps for this video ("no verified segment
   boundaries... no timestamps are given") — consistent; if the owner
-  wants segment boundaries, this list is a candidate surface, but its
-  auto-generated status should be established before relying on it
-  (per the B-V23 b7 key-moments rule).
+  wants segment boundaries, this list is a candidate surface, but
+  its authorship should be established before relying on it (per
+  the B-V23 b7 key-moments rule).
 
 ### m4 Linnell receipt limit RESOLVED (2026-10-26T06:17Z; verify-pplx-w3-1026a, deg-verify-a)
 
@@ -690,17 +703,23 @@ resolved by direct measurement on the fetched carrier:
   and the fourth assigned section's opening "Where essence exists,
   there is naturally life" is **block 12 of 23** — m4's "sections
   1, 2, 3 and 12" numbering is CORRECT on the carrier.
-- Word counts measured this pass on the fetched text: block 1 = 170,
-  block 2 = 136, block 3 = 104, block 12 = 143; **sum = 553 words**,
-  against m4's printed "550 words measured on the assigned sections" —
-  corroborated within word-splitting variance (the module's 550
-  stands as its own measurement; no defect).
+- Word counts, CORRECTED 06:13Z after advisor QC: the first count
+  (553) counted each rule-separator line as one word token. With
+  separator lines excluded, and the translation body properly bounded
+  (from the opening verse to the last verse before the translator's
+  notes), the text contains 23 rule-delimited blocks, and blocks 1,
+  2, 3 and 12 measure **170 + 135 + 103 + 142 = 550 words exactly**
+  — matching m4's printed "550 words measured on the assigned
+  sections" precisely. The module's measurement is fully reconciled.
 
 ### Timestamp correction (2026-10-26T06:10:20Z; verify-pplx-w3-1026a, deg-verify-a)
 
 The stamps written in this session's daoism receipts ("06:12Z",
-"06:15Z", "06:16Z", "06:17Z") were estimates made with a defective
-clock reading and run ahead of the true times. Measured push times:
+"06:15Z", "06:16Z", "06:17Z") were manually estimated from a mis-scaled
+elapsed-time readout and ran ahead of the true times (the system
+clock itself was verified accurate against an external HTTP Date
+header this session). Measured git commit times (the API pipeline
+preserves commit dates, so these are commit times):
 Neiye precision addendum and m4 Linnell carrier receipt 06:05:34Z;
 m4 Komjathy re-verification receipt 06:06:52Z; m4 Linnell
 limit-resolution 06:07:22Z. All work described was performed in the

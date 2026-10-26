@@ -877,7 +877,7 @@ retrieved (2026-10-26T05:26Z; corrected 05:31Z per advisor QC)
   PRIMARY-SOURCES.md, a human-checked print or broadcast transcript)
   — not an auto-caption track.
 
-### B-V23 — independent corroboration pass + two findings (2026-10-26T05:57:53Z push time; stamp corrected 06:10Z — the original 07:25Z stamp was computed from a defective elapsed-time reading; verify-pplx-w3-1026a, deg-verify-a)
+### B-V23 — independent corroboration pass + two findings (2026-10-26T05:57:53Z commit time (measured; the API pipeline preserves commit dates); stamp corrected 06:10Z — the original 07:25Z stamp was manually estimated from a mis-scaled elapsed-time readout; verify-pplx-w3-1026a, deg-verify-a)
 
 **FINDING-DOWNGRADE addendum (06:10Z, after advisor QC):** the two
 "NEW FINDING" items below were downgraded on re-review — (1) the
@@ -952,19 +952,22 @@ classification/coverage evidence only, not verbatim quotation carriers
 
 The b6-L1 channel question is RESOLVED via a cleaner structured
 route: YouTube's own oEmbed endpoint
-(https://www.youtube.com/oembed?url=...&format=json) returns
-author_name/author_url for the upload, and for BOTH Kirchner lectures
+(https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=UVXpdAavGgQ&format=json
+and the same endpoint with .../watch?v=jPxuvitdsRI) returns
+author_name and author_url for the upload, and for BOTH Kirchner lectures
 it returns **"The Buddhist Society" /
 youtube.com/@TheBuddhistSocietyUK** (Lecture 1, UVXpdAavGgQ; Lecture
 3, jPxuvitdsRI). The module's b6 channel attribution is CORRECT; the
-earlier "Bodhicitta Sangha" reading is REFUTED and traced to
-watch-page fetch-header noise (same noise class as the Batchelor
-fetch's "Fire Philosophy Nieztsche Zen" header — the fetch header's
-"Author" field is not reliable channel evidence; this pass it even
-returned "Hartmut Veit" for the Batchelor video, whose oEmbed author
-is **Radboud Reflects** / @RadboudReflectsLectures, confirming b7's
-attribution as printed). No module change is needed for either
-channel attribution; the routed item is closed.
+earlier "Bodhicitta Sangha" reading is WITHDRAWN. Its cause was not
+established: the fetch header's "Author" field disagreed with the
+page extraction on several fetches this session (it also returned
+"Fire Philosophy Nieztsche Zen" for the Batchelor video on one fetch
+and "Hartmut Veit" on another, while the Batchelor video's oEmbed
+author is **Radboud Reflects** / @RadboudReflectsLectures,
+confirming b7's attribution as printed) — so the fetch header is
+not reliable channel evidence, but no failure mechanism is
+claimed. No module change is needed for either channel attribution;
+the routed item is closed.
 
 The b7 key-moments authorship question remains UNESTABLISHED from
 available routes: the fresh watch-page fetch shows a MIX of
@@ -990,26 +993,32 @@ same URL as the module's source table):
   Dhamma really reaches the mind it's imperishable, it's there for
   good. And you don't have to waste money on batteries." — both match
   the module's Step 2 statements exactly. Word count measured this
-  pass: ~2,989 (module prints ~3,050) — corroborated within
-  extraction/running-head noise.
+  pass: ~2,989 (module prints ~3,050) — a rough extraction count,
+  not a completed reconciliation: the count begins partway into the
+  opening sentence and the running-header stripping may remove
+  prose as well as headers. The module's own measurement stands
+  unrefuted.
 - **"Our Real Home" boundaries VERBATIM:** opens "Now determine in
   your mind to listen respectfully to the Dhamma." and closes "...I
   am happy to have been able to give you this gift of Dhamma and
   hope it will give you the strength to deal with your pain." —
-  both match. Measured ~4,441 words (module prints ~4,490) —
-  corroborated within noise.
-- **Minor page-range discrepancy — routed to the b5 owner:** the
-  volume prints Chapter Eleven opening on **printed p. 123** (module
-  says pp. 125-132) and Chapter Thirteen opening on **printed p. 143**
-  (module says pp. 145-156); the closing pages (132, 156) match. A
-  systematic 2-page offset in the two start-page references; correct
-  or re-measure. Not blocking; the first/last sentences are the
-  operative assignment boundaries and they are exact.
+  both match. Measured ~4,441 words (module prints ~4,490) — same rough-count
+  limits as above; the module's own measurement stands unrefuted.
+- **Page-range finding WITHDRAWN (06:13Z, after page-level inspection):**
+  the flattened-text extraction misled the first draft of this
+  receipt — the "123" and "143" seen before each chapter heading were
+  the PRECEDING pages' printed folios. Page-level inspection shows
+  Chapter Eleven opens on **printed p. 125** and Chapter Thirteen on
+  **printed p. 145**, exactly as the module prints. The module's
+  page references are correct; nothing to route.
 
 ### Timestamp correction (2026-10-26T06:10:20Z; verify-pplx-w3-1026a, deg-verify-a)
 
 The stamps written in B-V23's resolution addendum ("06:19Z") and
-B-V24 ("06:22Z") were estimates made with a defective clock reading
-and run ahead of the true times. Measured push times: B-V23 channel
+B-V24 ("06:22Z") were manually estimated from a mis-scaled elapsed-time readout
+and ran ahead of the true times (the system clock itself was
+verified accurate against an external HTTP Date header this
+session). Measured git commit times (the API pipeline preserves
+commit dates, so these are commit times): B-V23 channel
 resolution 06:08:30Z; B-V24 b5 assignment QC 06:09:28Z. Content
 above is unchanged.

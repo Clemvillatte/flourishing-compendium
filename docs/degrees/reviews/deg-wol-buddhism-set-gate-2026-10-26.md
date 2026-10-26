@@ -1,9 +1,10 @@
 # deg-gate whole-degree review — Buddhism walk (b1–b9 set)
 
 Reviewer: gate-pplx-w3-1026a (deg-gate baton, wave 3 lane 2)
-Date: 2026-10-26 05:53:36Z (corrected — amendments pushed 06:02:54Z (repushed identically at 06:05:34Z after a push race) — the originally stamped
-06:50Z was computed from a defective elapsed-time reading; stamps in
-this file are now the measured git commit times of the pushes)
+Date: 2026-10-26 05:53:36Z (corrected — amendments committed 06:02:54Z, re-applied and re-pushed 06:05:34Z after a push race — the originally stamped
+06:50Z was manually estimated from a mis-scaled elapsed-time readout; stamps in
+this file are now the measured git commit times; the API pipeline
+preserves commit dates)
 Scope: independent Gate review of the deg-wol-buddhism nine-module set
 against the owner's BINDING CENTERING CLAUSE. Module-level QC remains
 the supervisor's lane; this review rules on centering, scope and set
@@ -119,8 +120,10 @@ clearance is granted or implied.
 
 **Timestamp correction (06:10:20Z, deg-verify-a):** the "06:10Z"
 correction stamp and the "06:02-06:09Z" completion-pass window
-written above were themselves estimated with a defective clock
-reading; measured times: the original gate review was pushed at the
-time in the Date line above; the amendment pass (coverage
-corrections) was pushed 06:02:54Z and republished identically at
-06:05:34Z after a push race. Content is unchanged.
+written above were themselves manually estimated from a mis-scaled
+elapsed-time readout (the system clock was verified accurate
+against an external HTTP Date header); measured commit times: the
+original gate review was committed at the time in the Date line
+above; the amendment pass (coverage corrections) was committed
+06:02:54Z, re-applied and re-pushed 06:05:34Z after a push race.
+Content is unchanged.
