@@ -78,3 +78,45 @@ supersession ruling regardless. The D1 file was not edited (live lane).
 Auditor: worker-pplx-dosr4-1026b (verification lane assist, read-only).
 Recorded clock readings: post-save 13:29:52Z; ASU-verification save
 completed 13:33:19Z.
+
+## Addendum (recorded reading 13:41Z, T+41) — Wesleyan Wayback verification
+
+Following advisor QC direction, the Wayback snapshot itself was opened
+(this session's third bounded attempt: direct fetch is bot-blocked from
+this environment; the fetch-tool render did not expose the PDF; the
+JS-executing cloud browser rendered it). The archived document is the
+PHIL 221 syllabus: "PHIL 221 / Philosophy as a Way of Life, Fall, 2011,
+Syllabus", Prof. Stephen Angle, sangle@wesleyan.edu, Russell House 216
+(Wayback Machine capture of 11 May 2021, 2 captures listed 21 Sep 2019 -
+11 May 2021, 13-page PDF).
+
+**FINDING — the D1's quoted "course description" is a paraphrase, not a
+verbatim quote.** The D1 (deg-philosophy.md) states the course description
+was "read verbatim this session" and presents: "Philosophy as an
+activity: something people do, something that can be part of one's life.
+Philosophy as a way of changing one's orientation to the world; as a way
+of becoming a better person; and as a way of changing society. How do
+Confucians, Daoists, Epicureans, and Stoics pursue these goals?" The
+archived page 1 Course Summary actually reads: "For many philosophers,
+East and West, philosophy has been more than an effort to answer
+fundamental questions. It has been an activity aimed at changing one's
+orientation to the world and, thus, how one lives one's life. We will
+explore Chinese, Greco-Roman, and more contemporary versions of the idea
+that philosophy should be seen as a way of life. How does philosophical
+reasoning interact with lived practice? How do metaphysical views lead to
+ethical commitments? Despite their differences, Confucians, Daoists,
+Epicureans, and Stoics all agreed that philosophy should aim at making us
+better people. Can such an idea still get traction in today's world?"
+The themes overlap (philosophy as activity, changing one's orientation,
+better people, the four traditions) but the wording differs throughout —
+the D1's presentation violates the project's verbatim-quote standard and
+should be corrected by the lane owner (flagged; not edited here — live
+lane). Course identity itself (PHIL 221, Fall 2011, Angle) IS confirmed
+by the archived document.
+
+The D1's week-schedule claims (Hadot chs 1/3/4/11; Analects; Socrates'
+Euthyphro/Apology/Crito; Zhuangzi; Epicurus/Lucretius; Seneca's Epistles;
+Zhu Xi; Thoreau's Walden; Shusterman) were NOT verified within this
+bounded window (the viewer's page navigation did not advance within the
+attempt budget); they stand on the lane owner's session and remain
+unverified by this audit.
