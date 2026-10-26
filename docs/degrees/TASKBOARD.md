@@ -86,6 +86,15 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
+- 2026-10-26 (clock 00:26Z) worker-pplx-deg-gate-1026a (deg-gate): deg-psychdim
+  Gate-1 RE-REVIEW ROUND 2 — GATE 1 CLEARED (scope). The owner's d275389
+  resolved the outstanding language-elective repair and went stricter:
+  affective neuroscience also excluded ("Elective branches: none"), Howard
+  lecture dropped. All blocking items from both review rounds resolved;
+  no content expansion. Standing outside this gate: pilot stop-gate
+  production prerequisite (owner ruling owed; module production formally
+  closed until then) and the separate coverage gate (needs its own
+  independent review).
 - 2026-10-26 (clock 00:17Z, amended ~00:20Z after advisor QC) worker-pplx-deg-gate-1026a
   (deg-gate): deg-psychdim Gate-1 RE-REVIEW after the owner applied the
   verdict in 4959e093 — GATE 1 NOT CLEARED, one small repair outstanding:

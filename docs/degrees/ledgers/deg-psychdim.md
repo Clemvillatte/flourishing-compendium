@@ -1274,6 +1274,32 @@ cleared by independent review.
 
 — worker-pplx-deg-gate-1026a, deg-gate baton held, 2026-10-26.
 
+## Gate-1 re-review, round 2 (2026-10-26, worker-pplx-deg-gate-1026a, deg-gate baton)
+
+The degree owner's round-2 consistency pass (commit d275389) resolved the
+one outstanding repair and went stricter than the re-review required:
+the language (psycholinguistics) elective is EXCLUDED on the
+when-in-doubt-exclude rule (the row's own stated reason argued against an
+elective; no learner need beyond topical fit; affected OYC lecture 7
+chapters 1-3 excluded with it), and affective neuroscience is now also
+EXCLUDED ("Elective branches: none" — background relevance to the
+constructed-emotion anchor does not establish a necessary contribution
+beyond the core, and the core source carries its own brain-level claims;
+neuroscience already necessary to explain a core source stays with that
+source). The Howard lecture is dropped. Every elective now carries an
+explicit decision; nothing is admitted on topical fit alone.
+
+VERDICT: GATE 1 CLEARED (scope; independent re-review round 2). All three
+blocking items from the two review rounds are resolved: substantive
+centering, explicit elective decisions, no content expansion. Standing,
+unchanged and OUTSIDE this gate: (a) the Phase 0 pilot stop-gate production
+prerequisite (README 2026-10-25) — the owner's ruling is still owed and
+module production stays formally closed until it; (b) the separate
+coverage gate, which still requires its own independent review; this
+scope clearance does not clear it.
+
+— worker-pplx-deg-gate-1026a, deg-gate baton held, 2026-10-26.
+
 ## Gate decisions
 
 | gate | decision | by | date |
@@ -1281,6 +1307,7 @@ cleared by independent review.
 | scope | benchmark delivered against opened curricula (see scope doc Benchmark and Exclusion review sections); wording fix from "five" to "six" dimensions; strategist review still required | worker-pplx-psychdim-1 (degree owner) | 2026-10-25 |
 | scope (Gate-1 independent review) | RETURNED WITH REPAIRS — Gate 1 NOT CLEARED: benchmark/recency claims spot-verified open and accurate; centering repair + full-test elective justification/exclusion owed per the owner's 2026-10-26 clause; pilot stop-gate recorded as unresolved production prerequisite | worker-pplx-deg-gate-1026a (deg-gate) | 2026-10-26 |
 | scope (Gate-1 re-review) | NOT CLEARED — one small repair outstanding: the M3 language elective is admitted on curricular presence (topical fit), not a learner need; needs a bounded learner-need case or exclusion (advisor QC caught this after the initial clearance draft); both original blocking repairs verified applied in 4959e093; no content expansion; pilot stop-gate prerequisite and the separate coverage gate remain open outside this gate | worker-pplx-deg-gate-1026a (deg-gate) | 2026-10-26 |
+| scope (Gate-1 re-review round 2) | CLEARED: language elective excluded in d275389 (and affective neuroscience also excluded — "Elective branches: none", stricter than required); all blocking items resolved; pilot stop-gate production prerequisite and the separate coverage gate remain open outside this gate | worker-pplx-deg-gate-1026a (deg-gate) | 2026-10-26 |
 | scope (repairs applied) | CENTERING + ELECTIVE REPAIRS APPLIED per the Gate-1 verdict: scope doc intended learner and exit capabilities restated to the Walk-of-Life value proposition (dimensions as levers on the learner's own suffering, wisdom and flourishing); interpersonal/attraction and group-perception electives EXCLUDED with the affected segments; computational psychiatry EXCLUDED; affective neuroscience RETAINED as bounded elective with a stated learner need; progression spine exits carry the own-life orientation; matrix EXCLUDED row records the removal; re-review requested from the deg-gate reviewer | supervisor-e03fed44-degpsychdim (degree owner) | 2026-10-26 |
 | coverage | milestone delivered; independently reviewed through advisor rounds 1 to 7; the adult self-regulation gap is now grounded (Werner and Berkman 2024, Reed et al. 2020, Dang 2018, Alarcon-Espinoza et al. 2022; see the gap register), but the coverage gate is NOT cleared by the degree owner: it awaits independent confirmation at the next advisor or reviewer pass; module production also blocked by the Phase 0 pilot stop-gate | worker-pplx-psychdim-1 | 2026-10-25 |
 
