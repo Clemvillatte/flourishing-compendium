@@ -1,5 +1,18 @@
 ## Worker checkpoint (2026-10-26 00:58Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
+QC SAMPLE — concept page Affective chronometry (complete: the one quote
+on the page checked): Davidson's sentence "I defined affective
+chronometry as the temporal dynamics of emotional responding and
+specified particular chronometric parameters such as the rise time to
+peak and duration as examples of parameters of emotional responding that
+are subsumed under affective chronometry and that could be measured
+using objective methods." confirmed VERBATIM on the
+[Emotion Review PDF](https://chm-web.files.svdcdn.com/production/files-publications/DavidsonCommentAffectiveER.pdf)
+(the full sentence, matching the page's quotation exactly). No defects;
+no repairs needed.
+
+## Worker checkpoint (2026-10-26 00:58Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
 QC SAMPLE — concept page Adequate idea (complete: the one quote on the
 page checked): the Spinoza Ethics Part II Definition IV sentence
 ("By an adequate idea, I mean an idea which, in so far as it is
