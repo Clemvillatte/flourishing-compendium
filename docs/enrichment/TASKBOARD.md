@@ -1,3 +1,16 @@
+## Worker checkpoint (2026-10-26 02:32Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
+QC SAMPLE — concept page Obedience theory Milgram (complete: all quoted
+spans checked): the Milgram 1963 abstract blockquote (the learning-
+experiment procedure, the 30 graded switches "ranging from Slight Shock
+to Danger: Severe Shock", the confederate-victim line, the maximum-shock
+dependent variable, and the "26 Ss obeyed the experimental commands
+fully" sentence), the "two findings that were surprising" summary span,
+and the nervous-tension spans ("extreme levels of nervous tension in some
+Ss", "Profuse sweating, trembling, and stuttering") all confirmed
+VERBATIM on the opened [GVSU-hosted PDF](https://www.gvsu.edu/cms4/asset/F51281F0-00AF-E25A-5BF632E8D4A243C7/milgram_behavioral_study_1963.pdf).
+No defects; no repairs needed.
+
 ## Worker checkpoint (2026-10-26 02:30Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
 
 QC SAMPLE — concept page Online disinhibition effect (complete: all
