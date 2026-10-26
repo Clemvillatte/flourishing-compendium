@@ -154,8 +154,34 @@ session, sources opened where grounding was needed):
   exclusions (wellbeing outcomes to the Positive Psychology walk;
   treatment protocols to the legacy therapeutic material; contemplative
   doctrine to the contemplative practica).
-Workload note: the added correction passage is module prose, not new
-required reading; the about-4-hour estimate stands.
+Workload note: the added correction passage is about 230 words of module
+prose the learner must read; it is accounted for inside the Step 3
+reading allowance (about 4 minutes with study overhead at 180 words per
+minute, labelled as an estimate), so the module total is now about
+245 labelled minutes, still about 4 hours.
+
+Advisor QC round 3b (finishing repairs, 2026-10-26) applied: the V01
+correction now precedes the reading instructions under a "Before
+reading" label, tells the learner to use the corrected definition in
+place of the glossary entry, and notes the probability-values glossary
+entry as loose in the same way; both Noba self-test boxes checked
+against the misconception (unaffected: falsifiability and induction
+only); "a caution worth carrying" deleted from the faded appraisal;
+the attrition sentence now states full-information maximum likelihood,
+the completer-only analysis, and that these checks do not establish
+attrition could not affect the result; inline citations added in the
+teaching text (ASA statement, Greenland et al. 2016 misinterpretation
+21, Woolley Study 1 methods and hypothesis-testing anchors); the graded
+definitions deliverable and rubric criterion 1 now require the three
+binding-clause elements (what matters in the case, what the framework
+helps the learner understand or choose, what remains uncertain), with a
+worked Strong example; rubric criterion 5 now says "excludes wellbeing
+as a separate outcome-science subject"; workload justification
+corrected as above. Ryan et al. bibliographic metadata verified
+(Psychological Bulletin 148(11-12) 813-842, doi 10.1037/bul0000385,
+issue dated Nov-Dec 2022; the version read is the accepted-manuscript
+PDF). Recheck requested from deg-verify-b and the pedagogical
+reviewer; their clearance remains distinct from this repair record.
 
 STOP-GATE CONFLICT (flagged to the live supervisor for a documented
 ruling, 2026-10-26): the Gap register below still records that the
@@ -179,7 +205,7 @@ word counts measured for the assigned segments):
 | https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/ | supervisor-e03fed44-degpsychdim | Maitland 2024 section 1.4 re-opened and re-read; 240 words measured; VSR-C passage confirmed |
 | https://nobaproject.com/modules/thinking-like-a-psychological-scientist | supervisor-e03fed44-degpsychdim | Noba module re-opened; byline Erin I. Smith, California Baptist University, confirmed on the module page; body measured at about 5,011 words; scientific-versus-everyday-reasoning section read, and in a second pass the falsifiability (Popper), hypothesis-testing design, NHST (null and alternative hypotheses) and Type I and II error sections (with the maturity-and-grades running example) read from the same fetched copy; the remaining sections' topic coverage rests on the ledger's 2026-10-25 batch-2 verification |
 | https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/ | supervisor-e03fed44-degpsychdim | Woolley, Giurge and Fishbach 2025 re-opened; Study 1 statistics confirmed on the live page (beta 0.216 SE 0.03 z 6.95 p < .001 CI [0.13, 0.30]; beta 0.099 SE 0.03 z 3.00 p = .003 CI [0.04, 0.20]; beta 0.080 SE 0.03 z 2.36 p = .019 CI [0.01, 0.15]; N 2,000 MTurk US; n 577 completers; cross-lagged panel models within multilevel structural equation modeling); the authors' overlapping-CI interpretation confirmed |
-| https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta.pdf | supervisor-e03fed44-degpsychdim | Ryan, Duineveld, Di Domenico, Ryan, Steward and Bradshaw 2023 (Psychological Bulletin 148(11-12) 813-842) opened as a free PDF from the theory's official site; abstract and key results read (60 meta-analyses of SDT's six mini-theories; support for the motivational taxonomy and for need satisfaction and frustration effects on well-being and ill-being; applied evidence in organizations, health care, parenting and education; methodological limits stated); caveat: this PDF is the accepted manuscript, not the copy of record |
+| https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta.pdf | supervisor-e03fed44-degpsychdim | Ryan, Duineveld, Di Domenico, Ryan, Steward and Bradshaw, "We know this much is (meta-analytically) true", Psychological Bulletin 148(11-12) 813-842, doi 10.1037/bul0000385, issue dated Nov-Dec 2022 (publisher metadata verified this session via the NYU IFP record and multiple citing indexes; some indexes cite 2023, and citing sources are split); opened as a free PDF from the theory's official site; abstract and key results read (60 meta-analyses of SDT's six mini-theories; support for the motivational taxonomy and for need satisfaction and frustration effects on well-being and ill-being; applied evidence in organizations, health care, parenting and education; methodological limits stated); caveat: this PDF is the accepted manuscript (© 2022 APA notice), not the copy of record, and is the version actually read |
 | https://www.stat.berkeley.edu/~aldous/Real_World/ASA_statement.pdf | supervisor-e03fed44-degpsychdim | ASA 2016 statement on p-values opened; definition and principles 1, 2 and 5 read verbatim (p-value = probability under a specified statistical model of a summary at least as extreme than observed; not the probability the hypothesis is true or that chance produced the data; not effect size or importance) |
 | https://pmc.ncbi.nlm.nih.gov/articles/PMC4877414/ | supervisor-e03fed44-degpsychdim | Greenland, Senn, Rothman, Carlin, Poole, Goodman and Altman 2016 (European Journal of Epidemiology) opened; misinterpretation list read, including the chance-alone misinterpretation and misinterpretation 21 on overlapping confidence intervals (overlap is not a test that two estimates do not differ; comparison requires statistics that directly test the difference) |
 
@@ -1149,9 +1175,12 @@ feeding the next module's entry:
   2021, so a newer SDT review or talk is still welcome at production.
   RECENCY CANDIDATE OPENED AND VERIFIED (2026-10-26,
   supervisor-e03fed44-degpsychdim): Ryan, Duineveld, Di Domenico, Ryan,
-  Steward and Bradshaw 2023, "We Know This Much is (Meta-Analytically)
-  True", Psychological Bulletin 148(11-12) 813-842, free accepted-
-  manuscript PDF on the theory's official site; 60 meta-analyses across
+  Steward and Bradshaw, "We Know This Much is (Meta-Analytically)
+  True", Psychological Bulletin 148(11-12) 813-842, doi 10.1037/bul0000385,
+  issue dated Nov-Dec 2022 (publisher metadata verified this session;
+  some indexes cite 2023 and citing sources are split; the version read
+  is the free accepted-manuscript PDF on the theory's official site,
+  © 2022 APA notice, not the copy of record); 60 meta-analyses across
   SDT's six mini-theories, support for the motivational taxonomy and the
   need satisfaction and frustration hypotheses, applied evidence in
   organizations, health care, parenting and education, methodological
@@ -1161,8 +1190,11 @@ feeding the next module's entry:
   NOT added to the matrix yet: matrix adoption is an M6 production
   decision, and M6 production is held pending the Phase 0 stop-gate
   ruling; the candidate is recorded here so the production worker can
-  adopt it without re-searching. Caveat: the opened PDF is the accepted
-  manuscript, not the copy of record; cite the published version.
+  adopt it without re-searching. Cite the version actually opened
+  (accepted manuscript PDF) or the published record with its DOI
+  (10.1037/bul0000385, Psychological Bulletin 148(11-12) 813-842), whose
+  bibliographic metadata was verified this session; do not cite
+  page-level wording from the published version, which has not been read.
 - The Phase 0 pilot stop-gate (README.md) blocks module production until
   the pilots pass independent review.
 

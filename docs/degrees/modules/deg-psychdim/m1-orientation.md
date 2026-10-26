@@ -148,6 +148,28 @@ The degree promises current knowledge, which means you will meet studies
 all the way through. This step installs the reading habits once, here,
 before any dimension material needs them.
 
+Before reading: one passage in the module you are about to read needs a
+correction, so you meet the correction first. The module says a finding
+"significant at a p < .05 level" means the result would occur by chance
+fewer than five times in 100 repetitions of the study; read that with
+care. A p-value is not the probability that chance produced the result,
+that a study would reproduce, or that the hypothesis is true. As the
+[American Statistical Association's statement](https://www.stat.berkeley.edu/~aldous/Real_World/ASA_statement.pdf)
+puts it, a p-value is the probability under a specified statistical model
+that a statistical summary of the data would equal or be more extreme
+than its observed value; it does not measure the probability that the
+studied hypothesis is true or the probability that the data were
+produced by random chance alone, and it does not measure the size or
+importance of an effect. Use this definition in place of the module's
+glossary entry when you reach it: the vocabulary list gives its
+null-hypothesis significance testing entry the same loose gloss, and its
+probability-values entry is loose in the same way. Carry the correction
+with you through the module's statistics; the rest of its distinctions
+(observations versus theories, falsifiability, induction and
+deduction, replication, research quality) stand as useful. The two
+self-test boxes in the module are unaffected: one is about
+falsifiability, the other about induction versus deduction.
+
 Read the Noba module
 [Thinking like a Psychological Scientist](https://nobaproject.com/modules/thinking-like-a-psychological-scientist)
 by Erin I. Smith (free; about 5,000 words including the two self-test
@@ -156,23 +178,6 @@ them; the answers are at the end of the module. It teaches scientific
 versus everyday reasoning, falsifiability, induction and deduction,
 research design, null hypothesis significance testing, Type I and Type II
 errors, replication, and what a scientific theory is.
-
-One passage in that module needs a correction before you use its
-statistics. When the module says a finding "significant at a p < .05
-level" means the result would occur by chance fewer than five times in
-100 repetitions of the study, read that with care: a p-value is not the
-probability that chance produced the result, that a study would
-reproduce, or that the hypothesis is true. As the American Statistical
-Association's statement puts it, a p-value is the probability under a
-specified statistical model that a statistical summary of the data would
-equal or be more extreme than its observed value; it does not measure
-the probability that the studied hypothesis is true or the probability
-that the data were produced by random chance alone, and it does not
-measure the size or importance of an effect. The module's vocabulary
-list gives its null-hypothesis significance testing entry the same loose
-gloss; treat both passages with this correction in view. The rest of the
-module's distinctions (observations versus theories, falsifiability,
-replication, research quality) stand as useful.
 
 Then study the worked appraisal in Step 4 before attempting the faded
 practice in the graded activity.
@@ -194,13 +199,14 @@ States participants recruited through Amazon Mechanical Turk (mean age
 about their resolutions four times throughout a year, measuring how
 intrinsic and how extrinsic each person rated their motivation, and how
 well they were adhering. Not everyone stayed: 1,046 completed the second
-survey, 709 the third, and 577 the fourth, and the analysis handled the
-missing responses with an estimation method that uses all available data.
-The authors checked whether the drop-outs differed from the stayers and
-report that completers were, if anything, less motivated, a check on the
-worry that only keen people remained. The analysis uses cross-lagged
-panel models, which test whether a measure at one survey predicts a later
-outcome while accounting for earlier levels of that outcome.
+survey, 709 the third, and 577 the fourth. The analysis used
+full-information maximum likelihood for the missing responses, and the
+authors reported a similar completer-only analysis; these checks do not
+establish that attrition could not affect the result. The analysis uses
+cross-lagged panel models,
+which test whether a measure at one survey predicts a later outcome while
+accounting for earlier levels of that outcome. ([Study 1 methods and
+analytic strategy](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/).)
 
 1. Fully worked (demonstrated). Appraisal of the first result. What was
    found: adherence at the second survey was predicted by intrinsic
@@ -217,7 +223,8 @@ outcome while accounting for earlier levels of that outcome.
    study can support: that prediction, in this population, over this
    year. The paper itself reports the association was primarily between
 people: those who were generally more intrinsically motivated adhered
-better. That is a statement about differences among surveyed people,
+better ([Study 1 hypothesis testing](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/)).
+That is a statement about differences among surveyed people,
 not a promise that raising your own enjoyment will improve your own
 adherence. What it cannot support: a causal claim. (The authors know
 this; later studies in the paper manipulate motivation.)
@@ -233,12 +240,13 @@ this; later studies in the paper manipulate motivation.)
    what would establish that: a comparison between the coefficients, with
    its own uncertainty. The paper's authors read the overlapping
    intervals as suggesting the effect did not diminish significantly
-   over time; a caution worth carrying. Overlap alone cannot establish
+   over time. Overlap alone cannot establish
 that conclusion, because the separate intervals are not a test of the
 difference between the coefficients; a direct comparison would be
 needed. For this exercise, report the estimates and their uncertainty,
 and leave the change-over-time question open: whether the association
-   genuinely weakened is not settled by the results you have inspected.
+   genuinely weakened is not settled by the results you have inspected
+   ([Greenland and colleagues, misinterpretation 21](https://pmc.ncbi.nlm.nih.gov/articles/PMC4877414/)).
 3. Independent (the graded deliverable). Appraisal of the third result
    and a robustness note. What was found: adherence at the fourth survey
    was predicted by intrinsic motivation at the third, beta = 0.080,
@@ -275,7 +283,10 @@ and leave the change-over-time question open: whether the association
   a. The definitions deliverable (Outcome 1): six sentences, one per
      dimension, each with an example from your own life, plus the
      variation-selection-retention-context paragraph from Retrieval
-     activity 2 written out cleanly.
+     activity 2 written out cleanly. For each example, also state what
+     matters in the case, what the dimension's framework helps you
+     understand or choose there, and one thing about the case the
+     framework leaves uncertain.
   b. The appraisal (Outcome 4): the independent appraisal from Step 4,
      item 3, in 150 to 300 words.
   c. The scope statement (Outcome 5): one paragraph stating what this
@@ -310,11 +321,20 @@ Each criterion with a strong example and a rejection example, so the
 learner can self-check.
 
 1. The six definitions match the framework's usage, each with a life
-   example. Strong: "Attention is the family of processes that select
-   which information gets processed; my ability to read in a noisy cafe is
-   attention doing that selecting." Rejection: "Attention is paying
-   attention to things" (everyday usage, no dimension meaning, no
-   example).
+   example, and each example names what matters in the case, what the
+   framework helps the learner understand or choose there, and one
+   thing the framework leaves uncertain. Strong: "Attention is the
+   family of processes that select which information gets processed; my
+   ability to read in a noisy cafe is attention doing that selecting;
+   what mattered in the case was that the essay was due the next day and
+   my phone kept lighting up; the framework helps me see that I can
+   change what the selecting process has to work with, not just try
+   harder; what it leaves uncertain is whether my trouble is selecting,
+   sustaining or shifting, which this example alone cannot tell."
+   Rejection: "Attention is paying attention to things" (everyday
+   usage, no dimension meaning, no example), or a correct definition
+   with an example that names none of the three things (what matters,
+   what the framework helps with, what remains uncertain).
 2. The variation-selection-retention-context application is real and each
    part is named correctly. Strong: "I tried running: the variation was
    the different times of day I tried; what selected the 6 a.m. slot was
@@ -347,11 +367,12 @@ learner can self-check.
    shortcut that is not a test of the difference).
 5. The scope statement names the three owned exclusions with their owners
    and states the admission test for the rest, in the learner's own
-   words. Strong: "This degree stops at wellbeing outcomes, which the
-   Positive Psychology walk owns; treatment protocols stay with the
-   legacy therapeutic material; contemplative doctrine stays with the
-   contemplative practica; and anything that merely fits the topic,
-   like the attraction material, is out unless a learner need is
+   words. Strong: "This degree excludes wellbeing as a separate
+   outcome-science subject, which the Positive Psychology walk owns;
+   treatment protocols stay with the legacy therapeutic material;
+   contemplative doctrine stays with the contemplative practica; and
+   anything that merely fits the topic, like
+   the attraction material, is out unless a learner need is
    stated." Rejection: "This degree covers everything about psychology"
    (no exclusions named), or naming only one or two of the three owned
    exclusions.
@@ -367,6 +388,10 @@ learner can self-check.
   module (some new concepts) about 28 minutes raw; total about 35
   minutes of raw reading. With study overhead at three times raw
   reading, about 1 hour 45 minutes (estimate, labelled).
+- The statistics-correction passage before the Noba reading (about 230
+  words of module prose, measured): about 1 minute raw at 180 words per
+  minute, about 4 minutes with study overhead (estimate, labelled),
+  counted within the reading study allowance above, not added on top.
 - The Jordan case and the six-dimension teaching on this page: about 15
   minutes of careful reading (estimate).
 - Worked example study and faded practice: about 30 minutes (estimate).
@@ -375,8 +400,9 @@ learner can self-check.
 - Graded deliverables including self-assessment: about 60 minutes
   (estimate).
 
-Total: about 4 hours (240 minutes of labelled components: 105 reading
-study, 15 case study, 30 worked example and faded practice, 30 retrieval
+Total: about 4 hours (about 245 minutes of labelled components: 105
+reading study including the correction passage, 15 case study, 30 worked
+example and faded practice, 30 retrieval
 and levels, 60 graded). Optional further reading (the rest of Maitland
 2024, or the later studies of Woolley et al. 2025) is not counted.
 

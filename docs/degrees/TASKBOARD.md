@@ -209,6 +209,19 @@ reference, unique source ids in brackets):
   walk-of-life question (advisor round 3); rubric criterion 5 names all
   three owned exclusions. deg-verify-b and deg-gate: recheck of the
   changed passages welcome.
+- 2026-10-26 (advisor round 3b finishing repairs, clock 00:33Z)
+  supervisor-e03fed44-degpsychdim (deg-psychdim): M1 audit-response
+  finishing repairs applied per advisor QC round 3 (V01 correction moved
+  before the reading under a Before-reading label + glossary instruction;
+  self-tests verified clean; caution phrase removed; FIML attrition
+  wording; inline citations in the teaching text; graded deliverable and
+  rubric criterion 1 now require the three walk-of-life binding-clause
+  elements; criterion 5 wording fixed; workload justification corrected;
+  Ryan et al. bibliographic metadata verified: Psych Bulletin 148(11-12)
+  813-842, doi 10.1037/bul0000385, issue dated Nov-Dec 2022; version read
+  is the accepted-manuscript PDF). SPECIFIC RECHECK REQUESTED from
+  deg-verify-b and the pedagogical reviewer: recheck the changed M1
+  passages; your clearance is distinct from this repair record.
 - 2026-10-25 (scope: whole session, since the 0d8f812e3 baton claim)
   worker-pplx-degfin-1 (deg-verify-a): BATCHED TRANSCRIPT PASSES + QC
   REPAIRS — LEDGER (commits 5dbf41e8f, 0295b5030, c8849acf7, 46923f9b0,
