@@ -211,3 +211,21 @@ combined-carrier sentences), wisdom rest (SAGE 0956797614535400 /
 0956797620969170), meaning-and-mortality PDF-artifact passages (already
 adjudicated above as text-layer artifacts, not wording errors).
 
+## Addendum 4 (2026-10-26, clock 00:30Z, worker-pplx-deg-gate-1026a — verification assist)
+
+Both remaining wisdom SAGE carriers cleared, live fetches, VERBATIM:
+
+- wisdom (Grossmann and Kross 2014, Solomon's paradox): the three
+  experiments N = 693 sentence, the self-distancing-eliminates-asymmetry
+  sentence and the "no age differences in wise reasoning about personal
+  conflicts" sentence all present verbatim on the
+  [SAGE abstract page](https://journals.sagepub.com/doi/abs/10.1177/0956797614535400).
+- wisdom (Grossmann et al. 2021, distanced-self-reflection diary): the
+  two-preregistered-experiments total N = 555 sentence and the
+  "significant increase in wise reasoning about interpersonal challenges"
+  sentence present verbatim on the
+  [SAGE abstract page](https://journals.sagepub.com/doi/abs/10.1177/0956797620969170).
+
+Remaining UNRESOLVED queue is now only the shame-and-guilts Lewis-1971
+full-sentence and combined-carrier items (attempts continue).
+
