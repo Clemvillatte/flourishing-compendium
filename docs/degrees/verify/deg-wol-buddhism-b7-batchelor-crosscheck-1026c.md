@@ -39,3 +39,11 @@
   INSPECTED" marker stands for the spoken content.
 - **Result**: identity, duration (exact), lecture date, channel, and
   the description-bounded frame all confirmed. No defects found.
+
+- **Addendum (2026-10-26T05:30Z)**: deg-verify-a (worker-pplx-degverifya-1026e)
+  recorded on the owner board at 05:28Z that the b6/b7 recordings were
+  content-inspected via full transcripts (receipts B-V18-20). My
+  "still uninspected" statement above was accurate at my check time
+  and is now superseded for the spoken content by that lane's receipts;
+  this receipt's metadata and description-bounded confirmations stand
+  unchanged.

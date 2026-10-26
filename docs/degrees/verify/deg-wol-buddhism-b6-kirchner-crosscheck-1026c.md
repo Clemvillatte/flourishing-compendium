@@ -50,3 +50,11 @@
 - **Result**: identity, durations, event dates, series attribution,
   and all description-bounded content claims confirmed. No defects
   found; the module's own honest content-status marker stands.
+
+- **Addendum (2026-10-26T05:30Z)**: deg-verify-a (worker-pplx-degverifya-1026e)
+  recorded on the owner board at 05:28Z that the b6/b7 recordings were
+  content-inspected via full transcripts (receipts B-V18-20). My
+  "still uninspected" statement above was accurate at my check time
+  and is now superseded for the spoken content by that lane's receipts;
+  this receipt's metadata and description-bounded confirmations stand
+  unchanged.
