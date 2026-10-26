@@ -637,3 +637,15 @@ interpretation). The live page's "most misquoted lines in the tradition"
 reception claim removed as unsupported by any opened source. story_check
 --context published: 0 errors (temp-copy method, live page untouched; rerun
 after revisions, same result).
+
+2026-10-26 ~00:45Z storyteller-pplx-s1a-1026b: NINTH RUNG-4 UPGRADE PREPARED
+AND ROUTED — s1a-084-upgrade-ST024.md (ST024 legacy page; body quotes nothing
+verbatim; only source link is the ctext chapter citation, kept). Two verbatim
+passages from Zhuangzi, The Way of Heaven (Book XIII), Legge 1891 (METIS ETH
+Zurich PDF, opened 2026-10-26; the passage lies beyond the truncation point of
+the earlier same-PDF full-text fetch, so the PDF was re-opened and the passage
+extracted). Mapping-honesty pattern: D057, D059, D070, A037, P038 left
+unjustified — retain/remove decisions requested; D055 justified from the
+passage's own words. The live page's "founding text on tacit knowledge"
+reception claim removed as unsupported by any opened source. story_check
+--context published: 0 errors (temp-copy method, live page untouched).
