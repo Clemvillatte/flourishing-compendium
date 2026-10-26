@@ -677,3 +677,21 @@ verified this session) and D071 justified from the passage's own words
 (499 > 480); the narrative and reading paragraphs were trimmed (the verbatim
 quote untouched) and the re-run passed. story_check --context published:
 0 errors (temp-copy method, live page untouched).
+
+2026-10-26 ~00:59Z storyteller-pplx-s1a-1026b: TWELFTH RUNG-4 UPGRADE PREPARED
+AND ROUTED — s1a-087-upgrade-ST018.md (ST018 legacy page; body quotes nothing
+verbatim; only source link is the ctext chapter citation, kept). IMPORTANT
+(same class of defect as ST019, s1a-081): the live page's quoted line "I go
+down with the undertow and come up with the swell" is NOT in the opened
+carrier — Legge renders it "I enter and go down with the water in the very
+centre of its whirl, and come up again with it when it whirls the other way";
+the prepared body replaces the unsourced line with the carrier's own words. Two
+verbatim passages from Zhuangzi, The Full Understanding of Life (Book XIX /
+ch. 19), Legge 1891 (METIS ETH Zurich PDF, opened 2026-10-26; passage lies
+beyond the truncation point of the earlier same-PDF full-text fetch, so the
+PDF was re-opened — first attempt failed with a transient fetcher error,
+succeeded on retry, recorded as it happened). Mapping-honesty pattern: D037,
+D038, D048, D053, B001 left unjustified — retain/remove decisions requested;
+D055 JUSTIFIED from the passage's own words ("I follow the way of the water,
+and do nothing contrary to it of myself"). story_check --context published:
+0 errors (temp-copy method, live page untouched).
