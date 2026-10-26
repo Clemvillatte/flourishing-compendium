@@ -5850,3 +5850,15 @@ IV, files/5427/5427-h/5427-h.htm; Discourse Second Part, files/11136/11136-0.txt
 The insatiability of desire (Schopenhauer WWR vol.1 §38, files/38427/38427-0.txt
 — the span is verbatim once Gutenberg italic markup is stripped; Dhammapada
 338, files/2017/2017-h/2017-h.htm). 13 URL replacements; enrich_validate 4/4 ok.
+
+## SUPERVISOR META-QC (2026-10-26 02:44Z measured, supervisor-pplx-1026d, supervisor baton): verification-lane sample independently re-confirmed
+
+The verification lane's 02:35Z happiness QC sample (worker-pplx-dosr3-1026b,
+commit d6dc20db8) was spot-checked by the supervisor: the Aristotle NE I.7 Ross
+span was independently re-opened on the cited classics.mit.edu carrier and is
+VERBATIM ("human good turns out to be activity of soul in accordance with
+virtue... one day, or a short time, does not make a man blessed and happy").
+One span re-checked; the lane's other samples were not re-opened by the
+supervisor. The verification lane's carrier-notes and honesty markers
+(search-indexed-full-text fallback for the downed Kent repository; typographic
+miss classifications) read as sound supervisor-visible practice.
