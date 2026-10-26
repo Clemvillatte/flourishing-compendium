@@ -5,7 +5,7 @@ type: "story"
 title: "450.  The Tug-of-War Beside the Ravine"
 file: "ST450 — The Tug-of-War Beside the Ravine"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.04 — III.4 Self and Mind as Process", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.10 — III.10 Applied Flourishing — The Operational Core", "parent": ""}
 ---
 2011 · clinical teaching vignette · Mark Webster, adapting Hayes, Strosahl and Wilson
 

@@ -5,7 +5,7 @@ type: "story"
 title: "348.  Tolstoy Hides the Rope"
 file: "ST348 — Tolstoy Hides the Rope"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.02 — III.2 Meaning, Truth, and Workability", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.09 — III.9 Embodiment, Nature, and World-Participation", "parent": ""}
 ---
 
 Russia, 19th century · Leo Tolstoy's A Confession, written after the crisis of his late forties; William James used the case in The Varieties of Religious Experience (1902)

@@ -5,7 +5,7 @@ type: "story"
 title: "393.  The Shrine the Nazis Could Not Burn"
 file: "ST393 — The Shrine the Nazis Could Not Burn"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.03 — III.3 Inquiry and Experimental Living", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.03 — I.3 The Heart-Mind — Stillness, Emptiness, Clarity", "parent": ""}
 ---
 
 *Warsaw, Frankfurt, London, New York, 1907–1972 · Abraham Joshua Heschel, The Sabbath (1951); the biography from the Jewish Theological Seminary's timeline*

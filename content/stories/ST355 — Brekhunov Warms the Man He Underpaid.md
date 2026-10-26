@@ -5,7 +5,7 @@ type: "story"
 title: "355.  Brekhunov Warms the Man He Underpaid"
 file: "ST355 — Brekhunov Warms the Man He Underpaid"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.06 — III.6 Time, Duration, and Novelty", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.09 — III.9 Embodiment, Nature, and World-Participation", "parent": ""}
 ---
 
 Russian literary fiction · Tolstoy, Master and Man, translated by Louise and Aylmer Maude.

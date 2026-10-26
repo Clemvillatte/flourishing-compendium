@@ -5,7 +5,7 @@ type: "story"
 title: "447.  The Fly That Looks Worth Biting"
 file: "ST447 — The Fly That Looks Worth Biting"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.04 — III.4 Self and Mind as Process", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.10 — III.10 Applied Flourishing — The Operational Core", "parent": ""}
 ---
 2013 contribution · ACT metaphor · Richard Whitney, Fly Fishing
 

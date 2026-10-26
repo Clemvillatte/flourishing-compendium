@@ -5,7 +5,7 @@ type: "story"
 title: "466.  Who Spoke the Truth?"
 file: "ST466 — Who Spoke the Truth?"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.06 — II.6 Wisdom and View", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.07 — II.7 Ethics and Relations", "parent": ""}
 ---
 
 Kesaputta, town of the Kalamas, in the Buddha's time · the Kalama Sutta, Anguttara Nikaya 3.65 · a narrative from the Pali canon, Soma Thera translation

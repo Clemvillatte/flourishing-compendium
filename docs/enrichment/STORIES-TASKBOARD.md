@@ -140,3 +140,19 @@ per its upgrade flag, four double-numbered titles cleaned). Two qc_pending
 state entries without draft files (s1a-028, s1a-029) flagged for the lane.
 Remaining 'ready' after this batch: 0 in s1a/s1b/s1c/s1d/s1e/s1f except
 qc_pending/returned work in progress by storytellers.
+
+## QC ROUND ON THE BATCH (2026-10-26 ~00:35Z, supervisor-pplx-1026c, advisor-driven)
+Corrections to the note above: its "~01:00Z" stamp was a reconstruction — the
+external-clock-checked writing time was ~00:21-00:35Z. Registration count
+clarified: 41 registered total, 4 cross-lane duplicate copies removed (net 37
+new stories), plus 1 upgrade flag applied (ST004) and 1 mistaken registration
+undone (s1f-010). Backlink verification redone with correct principle-file
+resolution (157 items, 0 missing). Chapter audit: 50 published stories sat in
+chapters not matching their primary principle's layer (24 from this batch —
+cross-references in structure files misled the mapping; 26 pre-existing) —
+all 150 now consistent, and 22 pages that lacked book-TOC lines (20
+pre-existing, ST439/ST473 from this batch) now have them. Guard hardening
+landed: story_register.py title normalization strips leading "NN. " prefixes
+and typographic quotes, with a regression test (52/52 pass). ST004 provenance
+de-italicized and added principle notes marked as compendium reading; ST502
+operational QC-log lines removed from Sources.

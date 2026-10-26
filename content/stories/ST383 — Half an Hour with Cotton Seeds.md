@@ -5,7 +5,7 @@ type: "story"
 title: "383.  Half an Hour with Cotton Seeds"
 file: "ST383 — Half an Hour with Cotton Seeds"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.07 — III.7 Growth, Education, Art, and Experience", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.03 — III.3 Inquiry and Experimental Living", "parent": ""}
 ---
 
 Educational narrative · John Dewey, The School and Society, chapter I

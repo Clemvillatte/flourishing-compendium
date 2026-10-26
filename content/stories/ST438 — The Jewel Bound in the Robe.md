@@ -5,7 +5,7 @@ type: "story"
 title: "438.  The Jewel Bound in the Robe"
 file: "ST438 — The Jewel Bound in the Robe"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.06 — II.6 Wisdom and View", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.04 — I.4 Action — Effortlessness, Timing, and Skill", "parent": ""}
 ---
 
 Buddhist parable · the Lotus Sutra, chapter 8, in H. Kern's 1884 translation ([Lotus Sutra ch. 8, Kern](https://www.sacred-texts.com/bud/lotus/lot08.htm)).

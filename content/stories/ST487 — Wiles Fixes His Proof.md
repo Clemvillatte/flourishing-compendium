@@ -5,7 +5,7 @@ type: "story"
 title: "487.  Wiles Fixes His Proof"
 file: "ST487 — Wiles Fixes His Proof"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.03 — III.3 Inquiry and Experimental Living", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.09 — III.9 Embodiment, Nature, and World-Participation", "parent": ""}
 ---
 
 Documented case, in his own words · Andrew Wiles on proving Fermat's Last Theorem, in the PBS NOVA program The Proof, first broadcast October 28, 1997.

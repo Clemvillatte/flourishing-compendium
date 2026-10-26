@@ -5,7 +5,7 @@ type: "story"
 title: "471.  Mill's Irrepressible No"
 file: "ST471 — Mill's Irrepressible No"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.04 — III.4 Self and Mind as Process", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.10 — III.10 Applied Flourishing — The Operational Core", "parent": ""}
 ---
 
 England, 1826-1828 · John Stuart Mill, Autobiography (1873), chapter V · a memoir account, Project Gutenberg ebook #10378

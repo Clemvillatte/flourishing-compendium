@@ -5,7 +5,7 @@ type: "story"
 title: "456.  Salzberg, Goldstein, and Kornfield Make One Teacher"
 file: "ST456 — Salzberg, Goldstein, and Kornfield Make One Teacher"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.03 — II.3 Meditation Practices", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.02", "parent": ""}
 ---
 Roundtable interview · 2004; Salzberg, Goldstein, and Kornfield in Tricycle: The Buddhist Review, with the founding drawn from Insight Meditation Society's own history and the principle's defining sutta
 

@@ -34,7 +34,7 @@ The things that take longest to build show the least while they are being built.
 - [The Tao Teh King, Legge translation (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 41
 
 ## Stories
-- [[ST412 — 36. The Slowest Vessel|412. 36. The Slowest Vessel]]
+- [[ST412 — The Slowest Vessel|412. The Slowest Vessel]]
 ## Psychology parallels
 
 - **[[Identity development|Identity development]]** (Erikson, 1968), a decades-long process

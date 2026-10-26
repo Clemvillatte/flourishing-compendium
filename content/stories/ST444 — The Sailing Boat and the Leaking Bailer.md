@@ -5,7 +5,7 @@ type: "story"
 title: "444.  The Sailing Boat and the Leaking Bailer"
 file: "ST444 — The Sailing Boat and the Leaking Bailer"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.04 — III.4 Self and Mind as Process", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.10 — III.10 Applied Flourishing — The Operational Core", "parent": ""}
 ---
 2011 · ACT metaphor · David Gillanders, The Sailing Boat Metaphor
 

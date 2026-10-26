@@ -5,7 +5,7 @@ type: "story"
 title: "406.  The Old Cart at Beluva"
 file: "ST406 — The Old Cart at Beluva"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.07 — II.7 Ethics and Relations", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.08 — II.8 Daily Life — The Integration", "parent": ""}
 ---
 
 Early Buddhist discourse with a narrative frame · Digha Nikaya 16, in Vajira and Story's translation, cross-read with Sujato's.

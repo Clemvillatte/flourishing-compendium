@@ -5,7 +5,7 @@ type: "story"
 title: "363.  Angelina Uses the Front Door"
 file: "ST363 — Angelina Uses the Front Door"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.07 — III.7 Growth, Education, Art, and Experience", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.06 — III.6 Time, Duration, and Novelty", "parent": ""}
 ---
 
 Real people, autobiographical account · Jane Addams, Hull-House, Chicago; from Twenty Years at Hull-House (1910).

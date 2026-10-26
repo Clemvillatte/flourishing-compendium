@@ -5,7 +5,7 @@ type: "story"
 title: "372.  Dighavu Puts the Sword Away Three Times"
 file: "ST372 — Dighavu Puts the Sword Away Three Times"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.07 — II.7 Ethics and Relations", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.04 — II.4 Working with the Mind", "parent": ""}
 ---
 
 Canonical Buddhist narrative · Mahavagga X.2.3-20

@@ -5,7 +5,7 @@ type: "story"
 title: "353.  The Four Clock Strokes Bergson Had Not Counted"
 file: "ST353 — The Four Clock Strokes Bergson Had Not Counted"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.06 — III.6 Time, Duration, and Novelty", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.09 — III.9 Embodiment, Nature, and World-Participation", "parent": ""}
 ---
 
 First-person philosophical illustration · Bergson, Time and Free Will, chapter II, pp. 127 to 128, Pogson translation, consulted 1913 edition.

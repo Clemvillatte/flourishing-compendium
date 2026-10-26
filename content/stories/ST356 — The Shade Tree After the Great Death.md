@@ -5,7 +5,7 @@ type: "story"
 title: "356.  The Shade Tree After the Great Death"
 file: "ST356 — The Shade Tree After the Great Death"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.07 — II.7 Ethics and Relations", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.06 — II.6 Wisdom and View", "parent": ""}
 ---
 
 Zen biographical account · Hakuin Ekaku (1686–1769), from his autobiographical Tale of My Childhood, translated in Norman Waddell's Hakuin's Precious Mirror Cave ([Waddell, introduction](https://terebess.hu/zen/cave.pdf)). Waddell dates Hakuin's initial satori under Shōju to age twenty-three, and notes that these writings contain an unusually large amount of personal history for Zen literature ([Waddell, introduction](https://terebess.hu/zen/cave.pdf)).

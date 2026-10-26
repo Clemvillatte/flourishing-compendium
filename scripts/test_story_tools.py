@@ -293,6 +293,17 @@ def main():
     check('different title registers cleanly',
           r.returncode == 0 and os.path.exists(os.path.join(fx, 'content', 'stories', 'ST004 — A Different Story.md')),
           r.stdout + r.stderr)
+    # 2026-10-26 hardening regression: a draft-numbering prefix ("35. Title") must
+    # collide with the published "Title" (the s1a/s1c ST488-491 bypass)
+    numbered = draft.replace('title: A Test Story', 'title: 35. A Different Story')
+    open(os.path.join(fx, 'numbered.md'), 'w').write(numbered)
+    r = subprocess.run([sys.executable, os.path.join(ROOT, 'scripts', 'story_register.py'),
+                       os.path.join(fx, 'numbered.md'), '--root', fx, '--write',
+                       '--chapter', 'ST-S01.01', '--id', '5'], capture_output=True, text=True)
+    check('numbering-prefixed title collides with published title',
+          r.returncode == 1 and 'TITLE ALREADY PUBLISHED' in r.stdout, r.stdout + r.stderr)
+    check('numbering-prefix refusal makes no write',
+          not os.path.exists(os.path.join(fx, 'content', 'stories', 'ST005 — 35. A Different Story.md')))
     shutil.rmtree(fx)
 
     print('save-path guard (isolated git fixture):')

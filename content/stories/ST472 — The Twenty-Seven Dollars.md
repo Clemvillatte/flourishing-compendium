@@ -5,7 +5,7 @@ type: "story"
 title: "472.  The Twenty-Seven Dollars"
 file: "ST472 — The Twenty-Seven Dollars"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.10 — III.10 Applied Flourishing — The Operational Core", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.03 — III.3 Inquiry and Experimental Living", "parent": ""}
 ---
 
 Bangladesh, 1974-1983 · a first-person account of a revision of ends, told in Muhammad Yunus's Nobel Peace Prize lecture (2006)

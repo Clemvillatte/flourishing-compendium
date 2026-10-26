@@ -5,7 +5,7 @@ type: "story"
 title: "459.  Sariputta at Anathapindika's Deathbed"
 file: "ST459 — Sariputta at Anathapindika's Deathbed"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.06 — II.6 Wisdom and View", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.04 — II.4 Working with the Mind", "parent": ""}
 ---
 Canonical narrative, translated · Anathapindika, a dying householder in pain, and Sariputta's instruction on non-clinging through the whole range of experience
 

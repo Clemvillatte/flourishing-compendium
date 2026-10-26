@@ -5,7 +5,7 @@ type: "story"
 title: "460.  Thoreau's Three Chairs"
 file: "ST460 — Thoreau's Three Chairs"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S08.06 — VIII.6 Relationships and Belonging", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.08 — III.8 Pluralism, Values, and Democracy", "parent": ""}
 ---
 Autobiographical narrative · Thoreau at Walden Pond; the cabin and the village, in his own words
 

@@ -5,7 +5,7 @@ type: "story"
 title: "476.  The Broad Margin"
 file: "ST476 — The Broad Margin"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.09 — III.9 Embodiment, Nature, and World-Participation", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.05 — III.5 Habit, Conduct, and Intelligent Action", "parent": ""}
 ---
 
 Massachusetts, 1845-1847 · Henry David Thoreau, Walden (1854), chapters "The Bean-Field", "Sounds" and "Solitude" · a memoir, Project Gutenberg raw text

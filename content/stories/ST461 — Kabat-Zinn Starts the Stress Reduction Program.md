@@ -5,7 +5,7 @@ type: "story"
 title: "461.  Kabat-Zinn Starts the Stress Reduction Program"
 file: "ST461 — Kabat-Zinn Starts the Stress Reduction Program"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.08 — II.8 Daily Life — The Integration", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.03 — II.3 Meditation Practices", "parent": ""}
 ---
 Biographical narrative, in his own words · Kabat-Zinn founding the Stress Reduction and Relaxation Program, 1979; two of the four foundations named in his account of the clinical teaching
 

@@ -160,6 +160,11 @@ def main():
     # story with the SAME title under ANY other ST number blocks registration —
     # re-registering an already-published title is what minted the 23 excess copies.
     def _norm(s):
+        # 2026-10-26 hardening: a leading draft-numbering prefix ("35. Title")
+        # and typographic quotes must not defeat title comparison — the
+        # s1a/s1c cross-lane duplicates minted ST488-491 through this gap.
+        s = re.sub(r'^\d+\.\s*', '', s.strip())
+        s = s.replace('\u2019', "'").replace('\u2018', "'").replace('\u201c', '"').replace('\u201d', '"')
         return re.sub(r'\s+', ' ', s).strip()
     if os.path.isdir(env.stories):
         collisions = []

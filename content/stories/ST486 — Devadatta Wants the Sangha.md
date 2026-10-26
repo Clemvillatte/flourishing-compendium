@@ -5,7 +5,7 @@ type: "story"
 title: "486.  Devadatta Wants the Sangha"
 file: "ST486 — Devadatta Wants the Sangha"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.07 — II.7 Ethics and Relations", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.01 — II.1 First Principles — The Axioms", "parent": ""}
 ---
 
 Canonical narrative, translated · selected episodes from Cullavagga VII, a Vinaya account of Devadatta's schism, in the Rhys Davids and Oldenberg translation; with a separate Mahayana reversal from the Lotus Sutra.

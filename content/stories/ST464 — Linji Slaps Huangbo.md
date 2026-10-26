@@ -5,7 +5,7 @@ type: "story"
 title: "464.  Linji Slaps Huangbo"
 file: "ST464 — Linji Slaps Huangbo"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.06 — II.6 Wisdom and View", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.07 — II.7 Ethics and Relations", "parent": ""}
 ---
 
 Recorded dialogue, translated · the biographical record at the end of the Record of Linji, Part 6, in the Ru-Yi Meditation Center's bilingual translation.

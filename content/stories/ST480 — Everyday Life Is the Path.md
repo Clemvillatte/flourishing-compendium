@@ -5,7 +5,7 @@ type: "story"
 title: "480.  Everyday Life Is the Path"
 file: "ST480 — Everyday Life Is the Path"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.08 — II.8 Daily Life — The Integration", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.03 — II.3 Meditation Practices", "parent": ""}
 ---
 
 Tang-dynasty China, set in a 13th-century koan collection · Mumonkan (The Gateless Gate), case 19 · a Zen koan, Senzaki and Reps translation (1934)

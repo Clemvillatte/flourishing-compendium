@@ -32,7 +32,7 @@ For example: Before a presentation, someone compares two preparations: rehearsin
 - [Dhammapada, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.16.budd.html) — verse 212
 
 ## Stories
-- [[ST417 — 39. The Letter Written for After|417. 39. The Letter Written for After]]
+- [[ST417 — The Letter Written for After|417. The Letter Written for After]]
 ## Psychology parallels
 
 - **Fear learning and reconsolidation** (Schiller et al., 2010)

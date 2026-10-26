@@ -5,7 +5,7 @@ type: "story"
 title: "453.  A Bus With More Than One Kind of Passenger"
 file: "ST453 — A Bus With More Than One Kind of Passenger"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.04 — III.4 Self and Mind as Process", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.10 — III.10 Applied Flourishing — The Operational Core", "parent": ""}
 ---
 ACT metaphor · ACT for Psychosis Recovery, prompt sheet A3; later commentary by Russ Harris
 

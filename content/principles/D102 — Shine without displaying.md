@@ -27,7 +27,7 @@ Chapter 24 is the negative side of the same principle: those who display themsel
 - [Daodejing 70, James Legge translation, Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 
 ## Stories
-- [[ST413 — 37. Jade in the Bosom|413. 37. Jade in the Bosom]]
+- [[ST413 — Jade in the Bosom|413. Jade in the Bosom]]
 ## Psychology parallels
 
 - **[[Expressed humility|Expressed humility]]**, accurate self-presentation without self-promotion predicts leader effectiveness (Owens et al., 2013)

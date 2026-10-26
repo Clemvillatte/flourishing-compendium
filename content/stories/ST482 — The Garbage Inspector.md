@@ -5,7 +5,7 @@ type: "story"
 title: "482.  The Garbage Inspector"
 file: "ST482 — The Garbage Inspector"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.08 — III.8 Pluralism, Values, and Democracy", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.05 — III.5 Habit, Conduct, and Intelligent Action", "parent": ""}
 ---
 
 Chicago, 1890s · Jane Addams, Twenty Years at Hull-House (1910), Chapter XIII, "Public Activities and Investigations" · a memoir, Project Gutenberg raw text
