@@ -27,4 +27,8 @@ Section 12 runs "When people can be properly aligned and still : … This create
 
 Sections 1–3 matching exactly validates the counting method against the module's own method; the 142 for section 12 is the single outlier. The two Gutenberg renders agree with each other, so this is not a render disagreement.
 
+## Postscript (same pass): module prose word count
+
+The module's other measured figure, "module teaching prose on this page (2,922 words measured, excluding the rubric table rows and this arithmetic section)", reproduces at 2,984 words under this pass's exclusion rule (table rows and the workload-arithmetic section stripped; sources section kept). The ~2% difference is within counting-method variance (exclusion of headings, sources or alignment-map prose shifts it by tens of words) and does not change the estimate: 2,922-2,984 words at 180 wpm is 16.2-16.6 minutes, both "about 16 minutes". No discrepancy flagged; recorded so the next checker knows the figure reproduces approximately and the method is the variable, not the source.
+
 Flagged for the supervisor in the commit message; no files other than this receipt were touched.
