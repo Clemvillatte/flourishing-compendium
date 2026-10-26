@@ -2102,3 +2102,6 @@ html:not([data-theme='dark']) .principle-text .wlink:hover {
 .acad-seg-btn { font-variant-numeric:tabular-nums; }
 .acad-draws-note { font-size:13.5px; color:var(--muted); line-height:1.65; margin:6px 0 10px; padding:10px 14px; background:var(--panel2); border-left:3px solid var(--gold); border-radius:6px; }
 @media (max-width:600px){ .acad-media-title { white-space:normal; } }
+
+/* narrow screens: let the byline wrap instead of cutting the host off */
+@media (max-width: 640px) { .acad-media-host { white-space: normal; overflow: visible; text-overflow: clip; } }
