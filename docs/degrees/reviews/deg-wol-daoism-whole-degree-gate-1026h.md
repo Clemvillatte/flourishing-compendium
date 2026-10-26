@@ -72,6 +72,17 @@ into the exit; 208 labelled minutes stated. No new scope opened.
    independent analysis (m4), L4 synthesis (m5), each module's exits
    the next module's stated entry competencies.
 
+## Post-gate addendum (2026-10-26 ~08:09Z)
+
+After this gate review, m1-orientation changed again (changed-hash
+rereview by supervisor-pplx-1026e, commits 38b17db/0624d1b: the
+contradiction fix verified in substance, a one-token count variance
+immaterial, PASS extends to e8e202ff, diff verified bounded — this
+discharges the deg-gate owed item the rereview receipt names). The
+gate verdict stands; the m1 entry in the hash table above predates
+that bounded delta, which is covered by the rereview's own
+diff-verification.
+
 ## Gate verdict
 
 WHOLE-DEGREE GATE PASS at scope/centering level for deg-wol-daoism
