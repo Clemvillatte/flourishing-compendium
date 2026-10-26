@@ -26,3 +26,13 @@ Each figure below was read on the live source page or its downloaded full text i
 | m7 | Singh and colleagues: 20 studies, 2,601 participants, 11 high risk of bias, four reported formation time, pooled pre/post standardised difference | [Singh et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/): match (SMD = 0.69, 95% CI 0.49 to 0.88) |
 
 One wrinkle: the PMC identifier PMC7250393 is the Reed, Combs and Segerstrom article on self-regulation structure, which is correctly used for PD-M7-07; the Vohs et al. figures come from the Brunel PDF (PD-M7-10), as the doc links.
+
+## Speaker credentials re-opened
+
+| Doc claim | Source opened | Result |
+|---|---|---|
+| Kirchner: born Maryland 1949, Waseda, lay monk at Shofuku-ji under Yamada Mumon, ordained 1974, seven years at Kenchō-ji and Kennin-ji, Otani MA, Nanzan and IRIZ posts, resides at Tenryū-ji | [The Buddhist Society series page](https://www.thebuddhistsociety.org/page/the-buddhist-society-100th-anniversary-memorial-lecture-series-on-japanese-buddhism) | Matches. Other biographies say Baltimore, three years as lay monk and caretaker of the sub-temple Rinsen-ji; none conflicts. |
+| Sumedho: American-born, bhikkhu 1967, nine years under Ajahn Chah at Wat Pah Pong, founded Amaravati 1984 | [Amaravati biography](https://amaravati.org/biographies/ajahn-sumedho/) | Matches ("established ... Amaravati Buddhist Monastery in Hertfordshire in 1984"). The page does not say he was ordained in Thailand or was first abbot; the doc says neither. |
+| Ziporyn: Mircea Eliade Professor of Chinese Religion, Philosophy, and Comparative Thought; translator of the Zhuangzi | [UChicago Divinity directory](https://divinity.uchicago.edu/directory/brook-ziporyn) | Matches (Hackett, 2020 translation listed). |
+| Komjathy: PhD Religious Studies, Boston University, 2005; ordination in the Huashan lineage | [Daoist Foundation about page](http://www.daoistfoundation.org/about) | Matches. The page text retrieved here does not itself contain the word Quanzhen. |
+| Dreyfus: Jackson Professor of Religion, Williams College | [Williams catalog](https://catalog.williams.edu/faculty/) | Matches. |
