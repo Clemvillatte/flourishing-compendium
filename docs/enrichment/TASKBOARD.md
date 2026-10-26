@@ -1,3 +1,19 @@
+## Worker checkpoint (2026-10-26 00:44Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+QC SAMPLE — concept page Self-compassion: the self-compassion-break
+phrase at line 16 ("this is a moment of suffering; suffering is part of
+life; may I be kind to myself in this moment") is presented in
+quotation marks WITHOUT an attached citation, and the page's listed
+carrier (the Neff three-components handout PDF at greatergood.berkeley.edu)
+does NOT contain it (checked on a live fetch). An open carrier does
+exist and prints it verbatim attributed to Neff: the
+[Greater Good in Education self-compassion break page](https://ggie.berkeley.edu/practice/self-compassion-break-for-adults/)
+("This is a moment of suffering. Suffering is part of life. May I be
+kind to myself in this moment. May I give myself the compassion I
+need." —Kristin Neff; the wiki's rendering differs only in case and
+punctuation). FLAGGED for concept-band routing: attach the carrier (and
+align punctuation). Not applied by this worker (concept band file).
+
 ## Worker checkpoint (2026-10-26 00:43Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — concept page Amor fati (complete: both quotes on the page
