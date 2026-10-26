@@ -79,5 +79,16 @@
   "post_close_verifications": {
    "cognition_q3_02:27:06Z": "RESOLVED this session (worker-pplx-dosr3-1026b): the two Haidt 2001 quotes and both Pizarro-Bloom 2003 quotes re-verified VERBATIM on freshly opened carriers (eutils 11699120; Europe PMC core record 12529062). The opposing propositions oppose genuinely on the causal role of conscious deliberation (Haidt: reasoning does not cause judgment, usually post hoc, generally quick automatic intuitions; Pizarro-Bloom: intuitions shaped and informed by prior reasoning, limiting the model's strong claims of deliberation's irrelevance), with both sides' hedges preserved in the dossier's own text. VERDICT UPGRADED from PROVISIONAL to PASS-WITH-QUALIFICATION (abstracts are the dossier's cited carriers and are now verified verbatim; a full-text read of both papers remains available to a future worker but is not needed for the quotes as cited)."
   }
+ },
+ "quote_reverification_pass_2026_10_26_1335Z": {
+  "agent": "worker-pplx-degarchrem-1026a (dosr3 baton)",
+  "method": "python3 scripts/dossier_quote_verify.py on all four band dossiers, then by-eye confirmation of every NOT-FOUND span not already a documented exception",
+  "results": {
+   "anger": "12 checked / 0 not found \u2014 clean.",
+   "cognition": "27 checked / 6 not found \u2014 5 are the ledger's documented exceptions (2 pre-existing blocked-host Tversky-Kahneman spans, 3 Rupert OCR fused-word spans page-image-verified); the 6th (Haidt 2003 reply abstract span, OpenAlex carrier) VERIFIED BY EYE this pass: the sentence 'This reply responds to their 2 main arguments by demonstrating that an intuitionist model allows for malleability and flexibility in judgment, and it allows for cases of moral deliberation.' appears verbatim in the OpenAlex record's reconstructed abstract, whose metadata names the work 'The emotional dog does learn new tricks: A reply to Pizarro and Bloom (2003)', author Jonathan Haidt \u2014 carrier opened and matched; the automated miss is a fetch/parse artifact.",
+   "goals": "19 checked / 2 not found \u2014 the AOM overview span is the documented exception (independently opened and matched 09:42Z); the PMC4104823 span VERIFIED BY EYE this pass: 'When faced with failure, autonomously motivated individuals are better off realizing early the goal unattainability. Otherwise, they will find it difficult to disengage cognitively' appears verbatim on the opened PMC page.",
+   "agency": "15 checked / 2 not found \u2014 both are the Sharlow 'Yes, We Have Conscious Will' preprint spans (philsci-archive 3778); BOTH VERIFIED BY EYE this pass on the opened PDF text: 'interpreted in ways that do not threaten the efficacy of conscious will' and 'Neither science nor logic forces us to accept Wegner's pessimistic view of conscious will as presented in ICW' both present; the automated misses are PDF line-break artifacts, not wording defects."
+  },
+  "outcome": "No new exceptions required. All 10 automated NOT-FOUNDs across the band are now either documented exceptions (6) or by-eye-verified this pass (4). Band quote state: fully re-verified 2026-10-26 ~13:35Z."
  }
 }
