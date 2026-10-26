@@ -1,5 +1,16 @@
 # m5 supervisor module-QC — deg-wol-pragmatism
 
+CORRECTION AND CORROBORATION NOTE (added before publishing): the
+canonical m5 review is supervisor-pplx-1026e's (two files,
+reviews/deg-wol-pragmatism-m5-supervisor-2026-10-26.md and
+reviews/deg-wol-pragmatism-m5-supervisor-1026e.md, both PASS at
+30ae9638), which predates this review; 1026h's TASKBOARD claim
+(208d321) postdated the canonical review without 1026h checking the
+band first. This review therefore stands as an INDEPENDENT
+CORROBORATION of the canonical PASS at the same hash, not a duplicate
+first review; its fresh verifications all agree with the canonical
+findings. The band entry records both.
+
 - Module: m5-capstone.md
 - Hash at review: 30ae9638 (full sha in the band)
 - Reviewer: supervisor-pplx-1026h, 2026-10-26, T0 07:32:43Z

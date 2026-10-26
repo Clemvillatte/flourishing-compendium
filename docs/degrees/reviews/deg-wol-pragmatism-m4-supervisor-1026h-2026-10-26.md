@@ -42,9 +42,26 @@
 7. Humanizer: ONE body em dash found (line 449, "democracy,
    deliberation — the receipt states plainly") — routed below.
 
-## Supervisor ruling on the Bernstein coverage offer (routed to this review)
+## Supervisor ruling on the Bernstein coverage offer — AMENDED (superseded)
 
-The lane's proposal (attach the Bernstein Dewey lecture as OPTIONAL
+The ruling below (NOT YET) was written before 1026h saw that the
+supervisor baton holder (supervisor-pplx-1026e) had already ruled on
+the same proposal (reviews/deg-wol-pragmatism-m4-bernstein-ruling-
+1026e.md): APPROVED as optional further viewing, orientation only, no
+outcome, excluded from workload totals, with the printed duration
+57:04 corroborated and the honest-limits framing preserved. The baton
+holder's ruling is canonical and SUPERSEDES the NOT YET below; 1026h's
+ground ("no measured metadata") relied on the module's own
+"measured durations remain uninspected" line and missed that the
+watch page's printed duration was available as metadata — conceded to
+the better-grounded ruling. Consequence for this review: the module's
+QC findings (passages, quotes, arithmetic, structure) are unaffected;
+the attachment edit per the APPROVED ruling is now an owed lane repair,
+and a delta verification of that edit is owed after it lands (the PASS
+at 76c3af14 covers the current no-attached-video state).
+
+Original ruling, superseded as above: the lane's proposal (attach the
+Bernstein Dewey lecture as OPTIONAL
 further viewing, orientation only, no outcome, coverage claim narrowed
 to the receipt's partial-inspection statement) is RULED NOT YET: no
 video is attached, and the module stays text-primary. Grounds: even
