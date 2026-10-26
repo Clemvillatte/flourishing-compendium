@@ -5,10 +5,11 @@ values diffed against the doc-verified manifests). The learner audit
 checks presence, not wording, so it cannot catch these. Each fix is a pure
 splice from the verified manifests — no judgement calls needed.
 
-STATUS (checked against app.js at commit 04a96ce, 2026-10-26): items 1, 2
-and 4 are RESOLVED (1 and 4 fixed by the schema lane; 2 retracted by this
-lane). Items 3, 5 and 6 remain OPEN (still present in, or absent from, the
-published state).
+STATUS (checked against app.js at commit 6c06b2f, 2026-10-26): items 1
+and 4 are RESOLVED (fixed by the schema lane). Item 2 URGENTLY NEEDS A
+REVERSAL (the schema lane applied this lane's erroneous instruction
+before the retraction landed). Items 3, 5 and 6 remain OPEN (still
+present in, or absent from, the published state).
 
 ## 1. PRAG-M3-04 (mod-prag-3, requiredMedia) — RESOLVED, no action
 
@@ -18,17 +19,26 @@ selections totalling 157 words ... printed in full in the module's second
 step; the selections are not contiguous in the lecture". The transient
 PRAG-M3-05 mint was also dropped. No further action.
 
-## 2. PRAG-M4-01 (mod-prag-4, requiredMedia) — RETRACTED, no action
+## 2. PRAG-M4-01 (mod-prag-4, requiredMedia) — REVERSAL NEEDED (urgent)
 
 An earlier version of this list instructed the schema lane to add a
 476-word second passage to PRAG-M4-01's locator. That instruction was
-WRONG and is retracted: the m4 doc's Read section assigns Reading B (the
-476-word deliberation passage) to Human Nature and Conduct (PRAG-M4-02),
-not to How We Think. The published locator (778-word How We Think passage
-only) is correct. The error was in this lane's manifest entry (both
-passages merged into How We Think); the manifest was corrected in commit
-904b02b and PRAG-M4-02's assignment made spliceable with the doc's exact
-bounds.
+WRONG: the m4 doc's Read section assigns Reading B (the 476-word
+deliberation passage) to Human Nature and Conduct (PRAG-M4-02), not to
+How We Think. The retraction was pushed, but the schema lane had already
+applied the erroneous instruction: the CURRENT published locator reads
+"Two measured passages of Dewey's How We Think: 778 words ... and 476
+words ..." — the 476-word HNC passage is now wrongly attributed to How We
+Think and duplicated on PRAG-M4-02 (which correctly carries it as HNC).
+
+- FIX (REVERSE the earlier instruction): restore PRAG-M4-01's locator to
+  the 778-word How We Think passage ONLY: `One contiguous passage of 778
+  words (about 6 minutes at 130 words per minute), from 'Another
+  instance, commonplace also, yet not quite so trivial, may enforce this
+  lesson' to 'is wholly futile'`. PRAG-M4-02's locator is correct as
+  published and needs no change. The error chain is this lane's (the
+  manifest merge, then the stale fix-list item), and the manifest was
+  corrected in commit 904b02b.
 
 ## 3. PD-M2-04 (mod-pd-2, requiredMedia) — whole-BODY figure as assignment
 
