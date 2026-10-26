@@ -78,3 +78,10 @@ The four *-learner-content.json files (about 750 to 1,100 words each) are the te
 | mod-dao-2 | "a practice manual for living, not only a piece of literature." | "a practice manual for living as well as a piece of literature." |
 
 Count: 7 module cards out of 27. The rest of the learner text passed the scan, but the owner has said a clean scan does not certify human prose.
+
+## Stale locators still in site/assets/app.js (flag for deg-fix-schema, checked at origin/main after 12:25Z)
+
+Searching every locator containing a word count in site/assets/app.js shows my corrected labels are live in the module references (about 235 words, about 480 words, about 30 words for the Harvey entry, about 1,000 words for SN 56.11 in BUD-B2 module refs). Two top-level source-registry entries still carry the old counts and appear nowhere else in the repo, so they can only be fixed in app.js:
+
+- "SN 56.11 (Thanissaro) - whole discourse (~1,100 words)": measured 994 words, label should read about 1,000 (deg-integrate flagged this too).
+- "Harvey, Craving glossary entry - ~300 words": measured 30 words (the entry is a short gloss), label should read about 30 words.
