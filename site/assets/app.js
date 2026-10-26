@@ -21551,12 +21551,76 @@ const ACAD_IMG = {
 };
 function acadHallImg(deg){ return ACAD_IMG[deg.id] || 'assets/academy/hero.jpg'; }
 function acadRoman(n){ return ACAD_ROMAN[n-1] || String(n); }
+/* ---------- Assignment model (Phase A, degrees repair 2026-10-26) ----------
+   A media reference in requiredMedia/optionalMedia may be a plain
+   {source_id, level} (legacy) or carry an ASSIGNMENT: segments (AV windows),
+   locator (reading passage), role (teach | revisit | retrieval |
+   capstone-return) and note. The global source record keeps intrinsic identity
+   only; the assignment says what THIS module asks of the learner. Completion
+   is stored per (module, source, assignment), never per bare source_id, so
+   finishing one segment cannot mark every later use of the source complete. */
+function acadToSec(t){
+  const p = String(t||'').split(':').map(Number);
+  if(p.some(isNaN)) return 0;
+  while(p.length<3) p.unshift(0);
+  return p[0]*3600 + p[1]*60 + p[2];
+}
+function acadFmtClock(sec){
+  const h = Math.floor(sec/3600), m = Math.floor((sec%3600)/60), x = sec%60;
+  const two = n => (n<10?'0':'')+n;
+  return h ? `${h}:${two(m)}:${two(x)}` : `${m}:${two(x)}`;
+}
+function acadRef(m){ return (m && typeof m==='object') ? m : {source_id:m}; }
+function acadSegments(ref){
+  return (ref && Array.isArray(ref.segments)) ? ref.segments.filter(w=>w && w.start && w.end) : [];
+}
+function acadHasAssignment(ref){
+  return !!(ref && (acadSegments(ref).length || ref.locator || ref.role || ref.note));
+}
+function acadAssignKey(modId, ref){
+  ref = acadRef(ref);
+  if(!acadHasAssignment(ref)) return ref.source_id;
+  const seg = acadSegments(ref).map(w=>w.start+'-'+w.end).join(',');
+  return [modId, ref.source_id, ref.role||'teach', seg||ref.locator||''].join('::');
+}
+function acadSegTotal(ref){
+  return acadSegments(ref).reduce((n,w)=>n + Math.max(0, acadToSec(w.end)-acadToSec(w.start)), 0);
+}
+const ACAD_ROLE_LABEL = {
+  'revisit':'Revisit', 'retrieval':'Retrieval practice', 'capstone-return':'Return to this source'
+};
+function acadAssignmentText(src, ref){
+  ref = acadRef(ref);
+  const parts = [];
+  const segs = acadSegments(ref);
+  if(segs.length){
+    parts.push('Watch ' + segs.map(w=>acadFmtClock(acadToSec(w.start))+'\u2013'+acadFmtClock(acadToSec(w.end))).join(' \u00b7 '));
+  }
+  if(ref.locator){ parts.push((segs.length?'':'Read: ') + ref.locator); }
+  if(ref.note){ parts.push(ref.note); }
+  return parts.join('. ');
+}
+function acadRefDuration(src, ref){
+  const segs = acadSegments(ref);
+  if(segs.length){
+    const tot = acadFmtClock(acadSegTotal(ref));
+    return src && src.duration ? `${tot} of ${src.duration}` : tot;
+  }
+  return (src && src.duration) || '';
+}
+function acadPrereqLabel(p, deg){
+  const mod = moduleById(p);
+  if(!mod) return p;
+  const idx = deg ? (deg.modules||[]).indexOf(p)+1 : 0;
+  return idx ? `Module ${acadRoman(idx)} \u2014 ${mod.title}` : mod.title;
+}
+function acadWatched(modId, ref){ return A.completed.has(acadAssignKey(modId, ref)); }
 function degreeProgress(deg){
   let done=0, total=0;
   (deg.modules||[]).forEach(mid=>{
     const m = moduleById(mid); if(!m) return;
     (m.requiredMedia||[]).concat(m.optionalMedia||[]).forEach(r=>{
-      if(r && r.source_id){ total++; if(A.completed.has(r.source_id)) done++; }
+      if(r && r.source_id){ total++; if(A.completed.has(acadAssignKey(mid, r))) done++; }
     });
   });
   return {done,total};
@@ -22038,9 +22102,13 @@ function renderModuleCard(mod,num){
     groups[lvl].forEach(m=>{
       const src = sourceById(m.source_id);
       if(!src) return;
-      body.appendChild(renderMediaRow(src,null));
+      body.appendChild(renderMediaRow(src,null,m,mod.id));
     });
   });
+  if(mod.drawsOnPriorModules){
+    body.appendChild(el('div','acad-body-h','Draws on earlier modules'));
+    body.appendChild(el('p','acad-draws-note',mod.drawsOnPriorModules));
+  }
 
   if((mod.gaps||[]).length){
     body.appendChild(el('div','acad-limitation',`Gap: ${mod.gaps[0]}`));
@@ -22062,10 +22130,12 @@ function renderModuleCard(mod,num){
 }
 
 /* ---------- Media row ---------- */
-function renderMediaRow(src,level){
+function renderMediaRow(src,level,ref,modId){
+  ref = ref ? acadRef(ref) : null;
+  const key = ref && modId ? acadAssignKey(modId, ref) : src.source_id;
   const row = el('div','acad-media-row'); row.tabIndex=0; row.setAttribute('role','button'); row.setAttribute('aria-label','Open media: ' + (src.title||''));
-  if (src.source_id) { row.dataset.srcId = src.source_id; }
-  const isWatched = !!(src.source_id && A.completed.has(src.source_id));
+  if (key) { row.dataset.srcId = src.source_id || ''; row.dataset.assignKey = key; }
+  const isWatched = !!(key && A.completed.has(key));
   if (isWatched) row.classList.add('watched');
   if(level){
     const lv = el('span',`acad-media-level${(level||'').toLowerCase()==='mastery'?' mastery':''}${(level||'').toLowerCase()==='advanced'?' advanced':''}`, level);
@@ -22074,27 +22144,38 @@ function renderMediaRow(src,level){
     row.classList.add('no-level');
   }
   const info = el('div','acad-media-info');
-  info.appendChild(el('div','acad-media-title',src.title||'untitled'));
+  const role = ref && ref.role && ACAD_ROLE_LABEL[ref.role];
+  const titleEl = el('div','acad-media-title',src.title||'untitled');
+  info.appendChild(titleEl);
   info.appendChild(el('div','acad-media-host',[src.presenter,src.host].filter(Boolean).join(' · ')||''));
+  const at = ref ? acadAssignmentText(src, ref) : '';
+  if(role || at){
+    const line = el('div','acad-media-assign');
+    if(role) line.appendChild(el('span','acad-assign-role',role));
+    if(at) line.appendChild(document.createTextNode((role?' ':'') + at));
+    info.appendChild(line);
+  }
   row.appendChild(info);
-  if(src.duration){ row.appendChild(el('span','acad-media-duration',src.duration)); }
+  const dur = ref ? acadRefDuration(src, ref) : (src.duration||'');
+  if(dur){ row.appendChild(el('span','acad-media-duration',dur)); }
   if (isWatched) row.appendChild(el('span','acad-watched-badge','✓ Watched'));
-  row.onclick = (e)=>{ e.stopPropagation(); openSource(src); };
+  const open = ()=>openSource(src, ref, modId);
+  row.onclick = (e)=>{ e.stopPropagation(); open(); };
   row.onkeydown = (e)=>{
     if(e.key==='Enter' || e.key===' '){
-      e.preventDefault(); e.stopPropagation(); openSource(src);
+      e.preventDefault(); e.stopPropagation(); open();
     }
   };
   return row;
 }
 
-function openSource(src){
+function openSource(src, ref, modId){
   if(!src) return;
   const url = src.canonical_url || (src.youtube_id_or_url && /^https?:/.test(src.youtube_id_or_url) ? src.youtube_id_or_url : `https://www.youtube.com/watch?v=${src.youtube_id_or_url}`);
-  if(url) openEmbeddedPlayer(src, url);
+  if(url) openEmbeddedPlayer(src, url, ref ? acadRef(ref) : null, modId);
 }
 
-function openEmbeddedPlayer(src, url){
+function openEmbeddedPlayer(src, url, ref, modId){
   // Create an overlay with the embedded player, keeping the user inside the site
   closeModal();
   const overlay = el('div','acad-player-overlay');
@@ -22109,7 +22190,17 @@ function openEmbeddedPlayer(src, url){
   if(src.presenter || src.host){
     head.appendChild(el('div','acad-player-host',[src.presenter,src.host].filter(Boolean).join(' · ')));
   }
-  if(src.duration){ head.appendChild(el('span','acad-player-duration',src.duration)); }
+  const playDur = ref ? acadRefDuration(src, ref) : (src.duration||'');
+  if(playDur){ head.appendChild(el('span','acad-player-duration',playDur)); }
+  const playKey = ref && modId ? acadAssignKey(modId, ref) : src.source_id;
+  const playSegs = ref ? acadSegments(ref) : [];
+  const playAssign = ref ? acadAssignmentText(src, ref) : '';
+  if(ref && (ref.role && ACAD_ROLE_LABEL[ref.role] || playAssign)){
+    const al = el('div','acad-player-assign');
+    if(ref.role && ACAD_ROLE_LABEL[ref.role]) al.appendChild(el('span','acad-assign-role',ACAD_ROLE_LABEL[ref.role]));
+    if(playAssign) al.appendChild(document.createTextNode((ref.role && ACAD_ROLE_LABEL[ref.role] ? ' ' : '') + playAssign));
+    head.appendChild(al);
+  }
   box.appendChild(head);
   const frame = el('div','acad-player-frame');
   const ytId = extractYouTubeId(url);
@@ -22130,12 +22221,23 @@ function openEmbeddedPlayer(src, url){
     frame.appendChild(msg);
   } else if(ytId){
     const iframe = document.createElement('iframe');
-    iframe.src = `https://www.youtube.com/embed/${ytId}?autoplay=1&rel=0&modestbranding=1`;
+    const embedFor = (w)=> `https://www.youtube.com/embed/${ytId}?autoplay=1&rel=0&modestbranding=1` + (w ? `&start=${acadToSec(w.start)}&end=${acadToSec(w.end)}` : '');
+    iframe.src = embedFor(playSegs[0]);
     iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
     iframe.allowFullscreen = true;
     iframe.referrerPolicy = 'strict-origin-when-cross-origin';
     iframe.title = src.title||'Video player';
     frame.appendChild(iframe);
+    if(playSegs.length>1){
+      const jump = el('div','acad-player-segments');
+      jump.appendChild(el('span','acad-player-segments-label','Assigned segments'));
+      playSegs.forEach((w,i)=>{
+        const b = el('button','acad-btn ghost acad-seg-btn',`${i+1}. ${acadFmtClock(acadToSec(w.start))}\u2013${acadFmtClock(acadToSec(w.end))}`);
+        b.onclick = ()=>{ iframe.src = embedFor(w); };
+        jump.appendChild(b);
+      });
+      frame.appendChild(jump);
+    }
   } else {
     const msg = el('div','acad-player-fallback','This source is hosted on an external site.');
     const extBtn = el('button','acad-btn primary','Open in new tab');
@@ -22146,14 +22248,15 @@ function openEmbeddedPlayer(src, url){
   box.appendChild(frame);
   const foot = el('div','acad-player-foot');
   // 'Open in new tab' removed — redundant with the YouTube fallback's 'Play on YouTube' button
-  const doneBtn = el('button','acad-btn primary', A.completed.has(src.source_id)?'✓ Watched':'Mark as watched');
+  const doneBtn = el('button','acad-btn primary', A.completed.has(playKey)?'✓ Watched':'Mark as watched');
   doneBtn.onclick = ()=>{
-    if(A.completed.has(src.source_id)) A.completed.delete(src.source_id);
-    else A.completed.add(src.source_id);
-    doneBtn.textContent = A.completed.has(src.source_id)?'✓ Watched':'Mark as watched';
+    if(A.completed.has(playKey)) A.completed.delete(playKey);
+    else A.completed.add(playKey);
+    const on = A.completed.has(playKey);
+    doneBtn.textContent = on?'✓ Watched':'Mark as watched';
     // reflect the change on the media rows in the list behind the player
-    document.querySelectorAll('.acad-media-row[data-src-id="' + src.source_id + '"]').forEach(function(r){
-      const on = A.completed.has(src.source_id);
+    document.querySelectorAll('.acad-media-row').forEach(function(r){
+      if((r.dataset.assignKey || r.dataset.srcId) !== playKey) return;
       r.classList.toggle('watched', on);
       let b = r.querySelector('.acad-watched-badge');
       if (on && !b) {
@@ -22202,7 +22305,7 @@ function renderModuleDetail(modId){
   back.onclick = ()=>{ A.view='degreeDetail'; A.degree=mod.degree_id; renderAcademy(); };
   wrap.appendChild(back);
   if(deg && modIdx){
-    wrap.appendChild(el('div','acad-modpage-kicker',`Module ${acadRoman(modIdx)} of ${acadRoman(modTotal)} · ${deg.title}`));
+    wrap.appendChild(el('div','acad-modpage-kicker',`Module ${acadRoman(modIdx)} of ${acadRoman(modTotal)} · ${deg.title}` + (mod.kicker ? ` · ${mod.kicker}` : '')));
   }
   wrap.appendChild(el('h2','acad-modpage-title',mod.title));
   if(mod.question){ wrap.appendChild(el('p','acad-module-question',mod.question)); }
@@ -22245,7 +22348,7 @@ function renderModuleDetail(modId){
     'mod-cap-wellbeing': 'Synthesis: apply PERMA to one real situation from your own life.',
     'mod-cap-therapeutic': 'Synthesis: contrast two therapeutic approaches on the same condition.'
   };
-  const prompt = MOD_PROMPTS[modId];
+  const prompt = MOD_PROMPTS[modId] || mod.reflectionPrompt;
   if(prompt){
     const card = el('div','acad-module-prompt');
     card.appendChild(el('div','acad-module-prompt-label','Reflect as you go'));
@@ -22268,7 +22371,7 @@ function renderModuleDetail(modId){
     const sec = el('div','acad-section');
     sec.appendChild(el('div','acad-body-h','Before you begin'));
     const ol = el('ul','acad-outcomes');
-    mod.prerequisites.forEach(p=>ol.appendChild(el('li',null,p)));
+    mod.prerequisites.forEach(p=>ol.appendChild(el('li',null,acadPrereqLabel(p, deg))));
     sec.appendChild(ol);
     wrap.appendChild(sec);
   }
@@ -22285,9 +22388,12 @@ function renderModuleDetail(modId){
     if(lvl) sec.appendChild(el('div','acad-viewgroup-label',lvl));
     groups[lvl].forEach(m=>{
       const src = sourceById(m.source_id);
-      if(src) sec.appendChild(renderMediaRow(src,null));
+      if(src) sec.appendChild(renderMediaRow(src,null,m,mod.id));
     });
   });
+  if(mod.drawsOnPriorModules){
+    sec.appendChild(el('p','acad-draws-note',mod.drawsOnPriorModules));
+  }
   wrap.appendChild(sec);
 
   // Optional extensions
@@ -22303,7 +22409,7 @@ function renderModuleDetail(modId){
       if(lvl) sec2.appendChild(el('div','acad-viewgroup-label',lvl));
       groups2[lvl].forEach(m=>{
         const src = sourceById(m.source_id);
-        if(src) sec2.appendChild(renderMediaRow(src,null));
+        if(src) sec2.appendChild(renderMediaRow(src,null,m,mod.id));
       });
     });
     wrap.appendChild(sec2);
