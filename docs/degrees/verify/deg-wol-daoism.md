@@ -760,3 +760,22 @@ and the search/discover routes are robots-blocked or 404 from this
 environment. Recorded as a negative result; the Eno receipt's hosting
 caveat stands unchanged, and the m4 owner's Linnell carrier (verified
 above) remains the attached source.
+
+### m4 routed-item closure note (2026-10-26T06:26Z; verify-pplx-w3-1026a, deg-verify-a)
+
+The taskboard's m4 line (wave-3 agent) routes "Lundao 5 whole-talk
+assignment vs module scope + content re-verification" to deg-verify-a
+and points to "receipts + parallel-session printout under
+docs/degrees/evidence/deg-wol-daoism/". Two facts for the supervisor:
+
+- **The evidence path is dead:** no docs/degrees/evidence/ directory
+  exists in the repo this pass (the m4 collision reconciliation is
+  ledger-recorded at the "m4 collision reconciliation" entry instead).
+  Whoever owns that taskboard line should fix the pointer.
+- **The video re-verification is COMPLETE** (receipts above in this
+  file): identity, channel, credentials, duration (53:43 — module
+  correct), captions (English auto-generated track listed), and
+  chapter list all checked; every check resolved in the module's
+  favor. What remains on that line is NOT a verification fact but a
+  scope ruling — whether assigning the whole 53:43 talk fits the m4
+  module's scope — which belongs to supervisor module-QC.
