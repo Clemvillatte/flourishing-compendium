@@ -32,8 +32,10 @@ become wiser, and genuinely flourish even when uncertain or overwhelmed.
 2. Apply the five precepts to two concrete situations, one straightforward and
    one conflicted, explaining your reasoning and naming where the precepts
    leave the judgment to you.
-3. Execute a 10-minute goodwill sitting guided by the Metta Sutta
-   instructions, twice, and describe in a sentence what you noticed across the
+3. Execute a 10-minute goodwill sitting guided by the module's written
+   five-stage guide (its method from the opened practice page, its
+   orientation from the Metta Sutta), twice, and describe in a sentence
+   what you noticed across the
    two sittings ("no discernible difference" is an acceptable finding).
 4. State what the walk covers (the practical schools: Secular, Zen,
    Insight/Vipassana, Theravada, Thai Forest) and what it excludes (rebirth
@@ -50,7 +52,8 @@ own practice and case work.
 ### Step 1 — Buddhist values, modelled (~55 min, video, whole talk, two viewing stops)
 
 **Ajahn Brahm, "Buddhist Values" (Buddhist Society of Western Australia
-channel), 54:16.** Ajahn Brahm talks about the core Buddhist values of
+channel), 54:16:
+https://www.youtube.com/watch?v=TpbWVaXBV4c.** Ajahn Brahm talks about the core Buddhist values of
 goodness, peace and kindness, and how these form the basis for skilful
 interaction with others and are the guiding principles to everything he does
 in life.
@@ -70,7 +73,8 @@ reuse these notes in the assessment.
 ### Step 2 — The five precepts, named and deepened (~14 min, video, whole talk)
 
 **Thanissaro Bhikkhu, "The Five Precepts for the Mind" (Dhamma Talks by
-Thanissaro Bhikkhu channel), 13:16.** The talk introduces the familiar five
+Thanissaro Bhikkhu channel), 13:16:
+https://www.youtube.com/watch?v=Nq7YmbYFJkA.** The talk introduces the familiar five
 precepts concerning killing, stealing, illicit sex, lying and intoxicants,
 then turns to their dimension in the mind: not destroying the settled mood
 built in meditation, not dwelling on others' bad qualities, avoiding pleasures
@@ -81,19 +85,22 @@ Activity: write the five precepts as the talk names them, one line each.
 ### Step 3 — The precepts and the goodwill instructions in the canon (~15 min, reading)
 
 **AN 5.179 Gihisutta (Sujato translation, SuttaCentral), 213 measured
-words.** Read the bounded excerpt, not the whole discourse: from the opening
+words: https://suttacentral.net/an5.179/en/sujato.** Read the bounded excerpt, not the whole discourse: from the opening
 ("Then the householder Anāthapiṇḍika...") through the five-precepts passage
 ("...These are the five precepts in which their actions are restrained."),
 plus the four precept verses ending "...as they confuse the mind." The rest
 of the discourse (verses on hells, gods and fields of merit) is optional
-context. The excerpt's opening carries the discourse's traditional frame: a
-lay follower who keeps the precepts may declare themselves a stream-enterer,
-"assured, destined for awakening," free of rebirth in places of loss. You are
+context. The excerpt's opening carries the discourse's traditional frame in its
+full conditional: a noble disciple who possesses five things —
+accomplished faith, ethics, learning, generosity and wisdom — may, while
+living in their own home, declare themselves a stream-enterer, not
+destined for the underworld, destined for awakening. The precepts you
+read are the ethics portion of those five. You are
 not asked to believe or refute this; notice that the frame is there, and
 that the walk marks it as context rather than teaching it as cosmology.
 
 **Metta Sutta, Khp 9 (Sujato translation, SuttaCentral), 236 measured
-words.** The canonical instructions for goodwill, in the discourse's own
+words: https://suttacentral.net/kp9/en/sujato.** The canonical instructions for goodwill, in the discourse's own
 order: "May all beings be happy!" and, later, "With love for the whole
 world, unfold a boundless heart." The sutta closes with "they never return
 to a womb again" — the same traditional frame, kept visible, not taught.
@@ -104,7 +111,8 @@ difficult day, and say why in a sentence.
 ### Step 4 — The four immeasurables, taught (~58 min, video, two bounded segments)
 
 **Bhante Dhammadipa, "The Four Immeasurable Minds: practising true love for the
-world" (Metta Centre channel), 2:09:06 total.** The four immeasurables, also called
+world" (Metta Centre channel), 2:09:06 total:
+https://www.youtube.com/watch?v=svWaWFOpxXw.** The four immeasurables, also called
 the divine abodes: loving kindness, compassion, joy and
 equanimity. The speaker was trained in Theravada, Zen and Chinese traditions, ordained 1985,
 a student of the Burmese master Pa Auk Sayadaw (credentials opened on the
@@ -173,7 +181,10 @@ One written piece, about 300 words, plus your practice record and walk-map
 statement:
 
 0. State the walk's map in three lines: the schools it covers, what it
-   excludes, and the reason the exclusions serve a walking learner (outcome 4).
+   excludes, and the reason the exclusions serve a walking learner (outcome
+   4). As you draft it, check your two cases against the map: name any
+   question a case raised that the walk excludes, and state where that
+   question lives instead (a school's own doctrine, or outside the walk).
 
 Then:
 

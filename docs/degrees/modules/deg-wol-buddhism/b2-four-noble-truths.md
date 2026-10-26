@@ -35,7 +35,9 @@ claim that craving has ended.
 1. State the four truths and the task the discourse assigns to each, in
    your own words.
 2. Run the four tasks on one concrete difficulty in your life: name the
-   suffering as you experience it, trace the craving that feeds it,
+   suffering as you experience it, trace the craving that feeds it ("craving
+   not established here" is a legitimate finding if your honest tracing
+   finds none, recorded as such without penalty),
    describe what its ending would actually be, and list three path
    factors (from the discourse's path list) you could develop toward
    that ending.
@@ -53,12 +55,8 @@ claim that craving has ended.
 **SN 56.11, Dhammacakkappavattana Sutta, "Setting the Wheel of Dhamma in
 Motion," Thanissaro Bhikkhu translation on Access to Insight**
 (https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html;
-verified receipt B-T01; the page states the CC BY-NC 4.0 license and lists
-alternate translations by Ñanamoli, Harvey and Piyadassi — correction
-2026-10-26, worker-pplx-buddhism-1026b: an independent re-open of the page
-found Ñanomoli/Harvey/Piyadassi listed, not the Sujato/Bodhi alternates the
-earlier draft named; the Sujato translation remains independently verified
-on SuttaCentral, where this discourse is the one b1 cites). Read the whole
+free, CC BY-NC 4.0 stated on the page; alternate translations are listed
+there — see the source table for which). Read the whole
 discourse. Mark
 four places: each truth stated, and the task attached to it ("to be
 comprehended... to be abandoned... to be directly experienced... to be
@@ -135,7 +133,9 @@ below runs this same sequence on your own case.
 actually face this month. For each truth, one paragraph:
 - The dukkha: how this difficulty is suffering for you, in plain words.
 - The tanha: what demanding craving feeds it, and one chanda (wholesome
-  desire to act) you hold in the same situation, named as such.
+  desire to act) you hold in the same situation, named as such. If your
+  honest tracing finds no craving, record "craving not established here"
+  and say what you looked at; that is a legitimate finding.
 - The nirodha: what the ending of that craving would concretely be (not
   the problem vanishing; the craving's grip releasing).
 - The magga: three path factors from the discourse's list (right view,
@@ -155,10 +155,10 @@ Rubric (observable):
 | criterion | exemplar of strong work | rejection example |
 |---|---|---|
 | four tasks stated correctly | each truth paired with its task in the learner's own words | truths recited with no tasks, or tasks swapped |
-| case work is real and specific | names an actual difficulty with a concrete craving and a named chanda | a hypothetical with no craving traced |
+| case work is real and specific | names an actual difficulty with a concrete craving and a named chanda, or an explicit honest "craving not established here" with what was examined | a hypothetical with no craving traced, or an invented craving to fill the slot |
 | ending described as cessation of craving | describes the grip releasing, distinguishes it from the problem disappearing | "I will stop suffering" with no mechanism |
 | path factors chosen with reasons | three factors with one action each, matched to the case | the full eight listed with no actions |
-| rebirth frame placed | two sentences naming where the discourse assumes rebirth and why the walk marks it as passing mention | silence, or a defense or refutation of rebirth |
+| rebirth frame placed | two sentences naming where the discourse assumes rebirth and why the walk marks it as passing mention | silence, or no statement of where the material lives |
 
 Self-assessment: one line on which of the four tasks you found hardest
 to run on your case, and why. That line is part of the module.

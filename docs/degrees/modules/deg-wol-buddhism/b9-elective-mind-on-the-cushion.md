@@ -100,14 +100,20 @@ Monastery, first published on ATI 2002, last revised 30 November 2013;
 the page states a Creative Commons Attribution-NonCommercial 4.0
 International license),
 https://www.accesstoinsight.org/lib/study/khandha.html.** Read two
-sections: the Introduction (about 2,300 words, from "The Buddha's
+sections: the Introduction (about 2,600 measured words, from "The Buddha's
 Awakening gave him, among other things, a new perspective on the uses
 and limitations of words." to "As long as you're still alive, you can
 employ the khandhas as needed for whatever skillful uses you see
-fit.") and "The Questions" (about 600 words). The guide's framing is the
+fit.") and "The Questions" (about 600 measured words, from "There are
+some cases in which a person overcome with pain, his mind exhausted,
+grieves, mourns, laments, beats his breast, & becomes bewildered." to
+"Precisely this Noble Eightfold Path: right view, right resolve, right
+speech, right action, right livelihood, right effort, right
+mindfulness, right concentration."). The guide's framing is the
 one this module keeps: the aggregates are analyzed as activities —
 what the tradition's own questions ask is "What is suffering? How is
-it caused? What can be done?" — not as a definition of a person. The
+it caused? What can be done to bring those causes to an end?" — not
+as a definition of a person. The
 remaining sections (Constructing the Aggregates, Constructing a Self,
 Constructing the Path, Deconstruction) are optional for the curious.
 
@@ -157,9 +163,9 @@ optional further reading.
 - Estimated: Nyanaponika sections ~2,500 words at 130 words per minute
   ~25 m; log reread and pattern statement ~30 m; countermeasure work
   and experiment sittings ~45 m across the week; aggregates guide
-  sections ~2,900 words ~22 m plus the matching line ~10 m. Estimates
-  labelled as estimates.
-- Module total: about 2 h 35 m across a week of sittings.
+  sections ~3,230 measured words ~25 m plus the matching line ~10 m.
+  Estimates labelled as estimates.
+- Module total: about 2 h 40 m across a week of sittings.
 
 ## Sources (verification status)
 
@@ -167,7 +173,7 @@ optional further reading.
 |---|---|---|---|
 | Thanissaro Bhikkhu, "Hindrances", https://www.youtube.com/watch?v=PcR_fI6p9k8 | verified-metadata | 2026-10-26 (this session; corroborated by deg-verify-a B-V12) | duration 0:25:00 on the watch page; CC BY-NC 3.0 stated; CONTENT NOT YET INSPECTED beyond the watch page's stated description, so content claims are bounded to it (the five hindrances, recognizing them, their drawbacks, comfortable breathing); credentials opened on buddho.org (b1) |
 | Nyanaponika Thera, The Five Mental Hindrances and Their Conquest, https://accesstoinsight.org/lib/authors/nyanaponika/wheel026.html | verified (text) | 2026-10-26 (this session) | The Wheel No. 26, BPS 1993, © 1994; free redistribution license stated on the opened page; selected Pali canon texts and commentaries on each hindrance with countermeasures |
-| Thanissaro Bhikkhu, "The Five Aggregates: A Study Guide", https://www.accesstoinsight.org/lib/study/khandha.html | verified (text) | 2026-10-26 (opened this pass by worker-pplx-buddhism-1026b; content coverage pre-verified in the degree ledger 2026-10-26) | ©2010 Metta Forest Monastery, first published on ATI 2002, last revised 30 November 2013; CC BY-NC 4.0 stated on the page; assigned sections read this pass: Introduction (~2,300 words) and The Questions (~600 words), first/last sentences stated in Step 4; section structure and word counts measured on the opened page |
+| Thanissaro Bhikkhu, "The Five Aggregates: A Study Guide", https://www.accesstoinsight.org/lib/study/khandha.html | verified (text) | 2026-10-26 (full page pulled and both assigned sections read in full this pass by worker-pplx-buddhism-1026b; content coverage pre-verified in the degree ledger 2026-10-26) | ©2010 Metta Forest Monastery, first published on ATI 2002, last revised 30 November 2013; CC BY-NC 4.0 stated on the page; assigned sections read this pass: Introduction (2,619 words) and The Questions (609 words), first/last sentences stated in Step 4; word counts measured locally on the pulled page text |
 
 No paywalled or app-gated content. Video-first policy applied: the
 talk is the primary recording (verified metadata; its content claims

@@ -78,7 +78,7 @@ practice standard), then two named teachings, selected from the volume
 this module actually opens:
 
 - **"Making the Heart Good"** (Chapter Eleven, printed pp. 125-132,
-  about 2,720 measured words): the tradition's practice-first ethos in
+  about 3,050 measured words): the tradition's practice-first ethos in
   its plainest form — people hunting merit while skipping the one
   teaching the Buddha's line names first, refraining from wrongdoing.
   Read from "These days people are going all over the place looking for
@@ -86,27 +86,22 @@ this module actually opens:
   imperishable, it's there for good. And you don't have to waste money
   on batteries."
 - **"Our Real Home"** (Chapter Thirteen, printed pp. 145-156, about
-  4,500 measured words): a talk given in a time of illness — the
-  tradition's teaching on facing pain, aging and death with the
-  contemplative frame rather than fear (the talk closes with the wish
-  that the gift of Dhamma "give you the strength to deal with your
-  pain"). Read from "Now determine in
-  your mind to listen respectfully to the Dhamma." to "...I am happy
+  4,490 measured words): a talk to a family nursing an aged, ill
+  parent — the tradition's teaching on facing pain, aging and death
+  with the contemplative frame rather than fear. Read from "Now determine
+  in your mind to listen respectfully to the Dhamma." to "...I am happy
   to have been able to give you this gift of Dhamma and hope it will
   give you the strength to deal with your pain."
 
-ASSIGNMENT UNBLOCKED (2026-10-26, worker-pplx-buddhism-1026b): the
-round-4 block is discharged. The monastery's page had shown only
-an introduction excerpt and the raw-HTML refetch had returned 403; the
-full volume is carried on the monastery's own CDN (receipt B-V16,
-deg-verify-a, corroborated and consumed this pass: the PDF opened and
-read in the text portions named above). The back cover prints
-"Published for free distribution by" the monastery and a Creative
-Commons Attribution-NonCommercial-NoDerivs 2.0 UK licence statement;
-the volume states the third edition 2011. The volume's printed page
-numbers above are from the opened PDF. The block's history is preserved
-in the QC trail (ledger round-4 entry); the introduction excerpt the
-page showed is part of the assignment.
+The volume is the monastery's own free distribution: the front matter
+prints "Published for free distribution by Aruna Publications", the
+copyright line "Copyright © 2011 Harnham Buddhist Monastery Trust",
+"Third edition, 2,000 copies, printed in Malaysia – 2011", and a
+Creative Commons Attribution-NonCommercial-NoDerivs 2.0 UK licence
+statement. (The earlier draft of this step carried an access-failure
+block on this assignment; the full volume is now verified open and
+free, and the block is discharged — the record lives in the degree
+ledger.)
 
 The tradition's emphasis, as the introduction frames it, is following
 the spirit and standards of the Buddha's way in forest practice rather
@@ -164,13 +159,13 @@ school.
 - Measured media: Sumedho talk 1:01:36 (whole recording assigned, in
   two viewing stops).
 - Estimated: Ajahn Chah introduction excerpt and the two teachings
-  (about 7,220 measured words for the two teachings at 130 words per
-  minute, new register, ~56 m, plus the introduction excerpt ~8 m);
+  (about 7,540 measured words for the two teachings at 130 words per
+  minute, new register, ~58 m, plus the introduction excerpt ~8 m);
   canon re-skim
   ~10 m; written work (statement, precis, records, placement) ~70 m;
   two logged sittings 20 m. Estimates labelled as estimates.
-- Module total: about 3 h 45 m (1:01:36 measured media + about 2 h
-  44 m of estimated work: 56 m teachings + 8 m introduction + 10 m
+- Module total: about 3 h 50 m (1:01:36 measured media + about 2 h
+  46 m of estimated work: 58 m teachings + 8 m introduction + 10 m
   re-skim + 70 m written work + 20 m sittings).
 
 ## Sources (verification status)
@@ -178,7 +173,7 @@ school.
 | resource | status | verified | notes |
 |---|---|---|---|
 | Ajahn Sumedho, "Mindfulness and Wisdom", https://www.youtube.com/watch?v=SElyOzgkxjo (Amaravati channel) | verified-metadata | 2026-10-26 (this session) | duration 1:01:36 on the watch page; talk dated 13 May 2017, uploaded 14 July 2017; free MP3 also on amaravati.org; no chapter list printed, whole talk assigned with two viewing stops; CONTENT NOT YET INSPECTED beyond the watch page's stated description, so content claims are bounded to it; credentials opened on https://amaravati.org/biographies/ajahn-sumedho/ (USA-born; bhikkhu 1967; nine years under Ajahn Chah at Wat Pah Pong; established Amaravati 1984) |
-| The Collected Teachings of Ajahn Chah, free PDF https://cdn.amaravati.org/wp-content/uploads/2014/09/The-Collected-Teachings-of-Ajahn-Chah-Single-Volume-Ajahn-Chah.pdf (book page https://amaravati.org/dhamma-books/the-collected-teachings-of-ajahn-chah/) | verified (full volume PDF opened 2026-10-26; assigned portions read) | 2026-10-26 (this pass; B-V16 corroborated) | single volume, third edition 2011; back cover prints free distribution and a Creative Commons Attribution-NonCommercial-NoDerivs 2.0 UK licence; assigned portions read this pass: introduction excerpt plus "Making the Heart Good" (~2,720 words) and "Our Real Home" (~4,500 words), first/last sentences stated in Step 2; the monastery page remains the human-readable index; rebirth material in the volume's wider text handled per the exclusion rule stated in the module |
+| The Collected Teachings of Ajahn Chah, free PDF https://cdn.amaravati.org/wp-content/uploads/2014/09/The-Collected-Teachings-of-Ajahn-Chah-Single-Volume-Ajahn-Chah.pdf (book page https://amaravati.org/dhamma-books/the-collected-teachings-of-ajahn-chah/) | verified (full volume PDF opened 2026-10-26; both assigned teachings read in full) | 2026-10-26 (this pass; B-V16 corroborated) | single volume, third edition 2011 ("Third edition, 2,000 copies, printed in Malaysia – 2011"); front matter prints free distribution (Aruna Publications) and CC BY-NC-ND 2.0 UK licence; assigned portions read this pass: introduction excerpt plus "Making the Heart Good" (~3,050 words) and "Our Real Home" (~4,490 words), first/last sentences stated in Step 2; the monastery page remains the human-readable index; rebirth material in the volume's wider text handled per the exclusion rule stated in the module |
 | AN 5.179 and SN 56.11 | verified | 2026-10-26 (b1, b2 and receipts) | see b1-b3 source tables |
 
 No paywalled or app-gated content. Video-first policy applied: the
