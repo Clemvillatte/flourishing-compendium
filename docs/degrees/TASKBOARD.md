@@ -1396,3 +1396,14 @@ against the producer manifest. Routed to the supervisor: M2 reclear after
 the bounded-return repair, M3/M4 module-QC, M5 adviser credit failure
 resolution, M5–M8 module-QC. No publication/integration clearance
 implied. Next in my lane: buddhism nine-module set review.
+
+**deg-gate verdict #2, 2026-10-26 06:50Z (gate-pplx-w3-1026a):** buddhism
+b1–b9 set GATE PASS at scope/centering level —
+`reviews/deg-wol-buddhism-set-gate-2026-10-26.md`. KEY ROUTED ITEM for the
+buddhism repair worker: b5's Step 2 BLOCKED marker is STALE — receipt B-V16
+(verify file, 05:23Z) discharged it via the Amaravati CDN free PDF; consume
+the receipt, unblock the two-teachings assignment, select named teachings.
+Also routed: content inspections owed (b4 Brahmali PARTIAL, b6 Kirchner x2,
+b7 Batchelor, b9 Thanissaro), m1-four-truths.md leftover cleanup, b9
+aggregates thread. Supervisor module-QC owed on all nine; publication
+gates closed.

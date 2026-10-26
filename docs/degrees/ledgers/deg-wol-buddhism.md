@@ -777,3 +777,20 @@ production baton (read-only pass; no module files touched):
    ethics/sitting/one-real-life integration, value proposition as the
    explicit measure, defended synthesis against a serious objection.
    b2–b7, b9 Gate review still owed to the next deg-gate session.
+
+### deg-gate full set review, 2026-10-26 06:50Z (gate-pplx-w3-1026a, deg-gate baton)
+
+Complete Gate review of the b1–b9 set:
+`reviews/deg-wol-buddhism-set-gate-2026-10-26.md`. Verdict: GATE PASS
+at scope/centering level. b2–b9 read in full; b1 head read (coverage
+documented in the review file). The set is a coherent walk with the
+exclusion rule applied consistently; no paywalled content. Routed:
+(1) b5's BLOCKED marker is STALE — B-V16 discharged it (Amaravati CDN
+free PDF, named teachings verified); the repair worker should consume
+the receipt and unblock the two-teachings assignment; (2) content
+inspection owed on b4 Brahmali (PARTIAL), b6 Kirchner x2, b7 Batchelor,
+b9 Thanissaro (verified-metadata only, claims bounded in the modules);
+(3) m1-four-truths.md leftover archive/delete; (4) b9 aggregates thread
+owed. Supervisor module-QC owed on all nine; publication gates remain
+closed. This entry supersedes the 06:34Z interim entry's item 3 (b2–b9
+owed) — now complete.
