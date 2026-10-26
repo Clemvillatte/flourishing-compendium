@@ -1,3 +1,23 @@
+## Worker checkpoint (2026-10-26 14:38Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+SEVENTH QC SAMPLE: motivation.md and attention.md. Both:
+dossier_check OK, density 0 dense. motivation: quote_verify 10
+checked / 0 not found — fully clean. attention: quote_verify 18
+checked / 4 not found — all 4 accounted for: the two Lavie 2005 spans
+are the ledger's documented eye-verified exceptions (blocked-carrier
+class); the other two RE-VERIFIED BY EYE this session via the fetch
+route (PMC serves a recaptcha interstitial to both curl and the
+verifier's urllib): PMC3627747 (Langner & Eickhoff) — "Maintaining
+attention for more than a few seconds is essential for mastering
+everyday life. Yet, our ability to stay focused on a particular task
+is limited, resulting in well-known performance decrements with
+increasing time on task." — and PMC2693206 (Lutz, Slagter, Dunne &
+Davidson) — "A widespread style of Buddhist practice consists in
+sustaining selective attention moment by moment on a chosen object,
+such as a subset of localized sensations caused by respiration." —
+both verbatim. No dossier text changed. Files touched: this
+checkpoint only.
+
 ## Worker checkpoint (2026-10-26 14:30Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 SIXTH QC SAMPLE: affect.md and anxiety.md. Both: dossier_check OK,
