@@ -560,3 +560,15 @@ exact (matches owner's claim), published 2014-07-16, description
 carries "Copyright 2014, Thanissaro Bhikkhu... Creative Commons
 Attribution-NonCommercial 3.0" (matches owner's license claim). b9
 video fully corroborated.
+
+**B-V07 addendum — Kirchner Lecture 3 re-check (2026-10-26T05:13Z):** watch page
+opened this pass: title and channel confirmed ("Thoughts on Meditation
+by Thomas Yuho Kirchner Lecture 3. on Zen Buddhism 3rd July 2024",
+The Buddhist Society, published 2025-03-25, lecture held 3 July 2024).
+Duration: player shows **1:40:16** this fetch (owner's earlier watch-page
+reading 1:40:17; one-second display variance, not a defect); the page
+ALSO displays **1:18:54** in a secondary element — unexplained, likely a
+non-total figure (clip/segment); flagged for the owner to ignore
+non-player totals. Transcript section present. b6's use of both lectures
+remains corroborated; the video-page caveat from this lane's earlier
+receipt is discharged.
