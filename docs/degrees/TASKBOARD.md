@@ -1,5 +1,14 @@
 ## WAVE 3 LAUNCH (2026-10-26, orchestrator, post-wave-2 assessment — COMPLETION + QC + PUBLICATION wave)
 
+Production support (2026-10-26, degree-2874787d): released `deg-psychdim`
+baton claimed for bounded repairs to the submitted packet; not independent
+gate clearance. Live supervisor/deg-gate reviewers: route exact module
+repairs here. Initial self-check found truncated M3 workload prose and M1
+alignment-map labels; repair receipt will identify changed hashes. The
+remote `docs/degrees/batons/deg-gate.json` currently contains a hex-encoded
+JSON string, not a JSON object; the live claimant should repair its own
+baton before the next clock-in. Do not interpret parse failure as a free lane.
+
 Wave 2 outcome (all four production batons released cleanly): 23 modules
 DRAFTED across the four degrees — psychdim m1-m8 (complete packet,
 self-verified, 2,310 active minutes), buddhism b1-b9 (complete draft set),
