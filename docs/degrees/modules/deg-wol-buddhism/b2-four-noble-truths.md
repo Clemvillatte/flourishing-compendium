@@ -104,13 +104,13 @@ teach.
 **Peter Harvey's "Craving" glossary entry** (his SN 56.11 translation and
 commentary on Access to Insight,
 https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.harv.html).
-Harvey distinguishes taṇhā, demanding craving, from chanda, desire in the
-sense of the desire to act, which can be wholesome. The second truth
-targets the first. Keep Harvey's exact qualification in mind: chanda is
-not automatically wholesome; it is a capacity that can be turned to
-wholesome ends. The learner who takes "end craving" as "stop wanting
-anything" has misread the task; the worksheet asks you to show you have
-not.
+In the glossary entry "Craving" (a 30-word gloss on that page), Harvey
+writes that taṇhā "is not just any kind of 'desire,' but demanding desire.
+Chanda, the 'desire to do,' for example, can have wholesome forms which are
+part of the path." So the second truth targets demanding desire, and the
+desire to act is a separate thing that can serve the path. The learner who
+takes "end craving" as "stop wanting anything" has misread the task; the
+worksheet asks you to show you have not.
 
 ### Step 4: Continue the sitting practice
 
@@ -186,9 +186,9 @@ ritual remain excluded.
 
 - Measured media: Dreyfus session 1, 1:20:34 (whole teaching assigned,
   with its coverage boundary stated above).
-- Estimated: SN 56.11 (~1,100 words) at 130 words per minute with
-  re-reading, ~20 m; Harvey entry (~300 words), ~10 m (matching the
-  Step 3 allowance); four-tasks
+- Estimated: SN 56.11 (~1,000 words) at 130 words per minute with
+  re-reading, ~20 m; Harvey glossary entry (30 words) with the commentary on the page and your own
+  reflection, ~10 m (matching the Step 3 allowance); four-tasks
   worksheet ~45 m; one metta sitting 10 m; study overhead on the video
   ~40 m. Estimates labelled as estimates.
 - Module total: about 3 h 25 m (1:20:34 measured media + 2 h 05 m of

@@ -218,7 +218,7 @@ coefficients simply by checking whether their separate intervals overlap
 Keep the [American Statistical Association's
 statement](https://www.stat.berkeley.edu/~aldous/Real_World/ASA_statement.pdf)
 beside you: read only "What is a p-Value?" and principles 2 and 5 with
-their explanations (about 300 words). These distinguish the conditional
+their explanations (about 235 words). These distinguish the conditional
 probability from the probability a hypothesis is true, and statistical
 significance from the size or practical importance of an effect.
 The precise definition matters when you meet a striking claim about
@@ -514,7 +514,7 @@ learner can self-check.
 ## Workload arithmetic
 
 - Required readings: selected Noba spans about 3,200 words; ASA
-  definition and two principles about 300 words. At 180 words per
+  definition and two principles about 235 words. At 180 words per
   minute for introductory Noba and 130 for ASA, raw reading is about
   20 minutes. Three times raw for annotation and rereading gives
   **about 60 minutes** of reading study.
