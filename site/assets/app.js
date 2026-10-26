@@ -6190,7 +6190,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The question runs through several domains at once. What an emotion is made of, how the feelings are structured, how they behave over time, what they do to thinking, how they are shaped and regulated, and how they move between people are aspects of one material. The specific states — anger, anxiety, fear, sadness, happiness — are each treated on their own; what belongs here are the questions that cut across all of them."
+          "x": "The question runs through several domains at once. What an emotion is made of, how the feelings are structured, how they behave over time, what they do to thinking, how they are shaped and regulated, and how they move between people are aspects of one material. The specific states (anger, anxiety, fear, sadness, happiness) are each treated on their own; what belongs here are the questions that cut across all of them."
         },
         {
           "t": "h2",
@@ -6198,7 +6198,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Affect and emotion: [Affects](card:Affects) is Spinoza's name for the family — a state of the body's power of acting, together with the idea of that state. Psychologists tend to reserve affect for the raw, dimension-level feeling and emotion for the categorised episode; the boundary is drawn differently by [Basic emotion theory](card:Basic%20emotion%20theory), the [Circumplex model of affect](card:Circumplex%20model%20of%20affect) and the [Theory of constructed emotion](card:Theory%20of%20constructed%20emotion)."
+          "x": "Affect and emotion: [Affects](card:Affects) is Spinoza's name for the family: a state of the body's power of acting, together with the idea of that state. Psychologists tend to reserve affect for the raw, dimension-level feeling and emotion for the categorised episode; the boundary is drawn differently by [Basic emotion theory](card:Basic%20emotion%20theory), the [Circumplex model of affect](card:Circumplex%20model%20of%20affect) and the [Theory of constructed emotion](card:Theory%20of%20constructed%20emotion)."
         },
         {
           "t": "p",
@@ -6210,7 +6210,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The contribution of feeling to a life going well is treated in the flourishing dossiers — see [Common flourishing](card:Common%20flourishing) and [Eudaimonic well-being](card:Eudaimonic%20well-being). Feeling well and living well are different questions, kept different here."
+          "x": "The contribution of feeling to a life going well is treated in the flourishing dossiers; see [Common flourishing](card:Common%20flourishing) and [Eudaimonic well-being](card:Eudaimonic%20well-being). Feeling well and living well are different questions, kept different here."
         },
         {
           "t": "h",
@@ -6222,7 +6222,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "James's 1884 proposal is the [James-Lange theory of emotion](card:James-Lange%20theory%20of%20emotion). Common sense, he says, has the order backwards: we do not cry because we are sorry, or strike because we are angry — the bodily change comes first, and the emotion is the feeling of that change:"
+          "x": "James's 1884 proposal is the [James-Lange theory of emotion](card:James-Lange%20theory%20of%20emotion). Common sense, he says, has the order backwards: we do not cry because we are sorry, or strike because we are angry; the bodily change comes first, and the emotion is the feeling of that change:"
         },
         {
           "t": "q",
@@ -6240,11 +6240,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "If James is right, the practical target of emotional work is partly the body, which is why [Action precedes feeling](card:Action%20precedes%20feeling) and [Action before feeling](card:Action%20before%20feeling) pair his proposal with Aristotle's observation that we become just by doing just acts. The Stoic-cognitivist line pushes the other way: on the view the Stanford Encyclopedia follows through Solomon, Neu and Nussbaum, my anger at someone is the judgment that I have been wronged by that person — see [Emotions as judgments](card:Emotions%20as%20judgments). Where James locates the emotion in the body's change, the judgment tradition locates it in an evaluation the person can in principle examine and revise."
+          "x": "If James is right, the practical target of emotional work is partly the body, which is why [Action precedes feeling](card:Action%20precedes%20feeling) and [Action before feeling](card:Action%20before%20feeling) pair his proposal with Aristotle's observation that we become just by doing just acts. The Stoic-cognitivist line pushes the other way: on the view the Stanford Encyclopedia follows through Solomon, Neu and Nussbaum, my anger at someone is the judgment that I have been wronged by that person; see [Emotions as judgments](card:Emotions%20as%20judgments). Where James locates the emotion in the body's change, the judgment tradition locates it in an evaluation the person can in principle examine and revise."
         },
         {
           "t": "p",
-          "x": "Between those poles, other accounts spread the material across body, idea and practice. [Affects](card:Affects) gives Spinoza's version: an affect is a state of the body's power of acting, increased or lessened, together with the idea of that state — the feeling as a fact about capacity, which is why [Joy](card:Joy) for him is a transition to greater perfection rather than a static state. [Emotion as construction](card:Emotion%20as%20construction) reads Nietzsche's art of giving style to character as applying to feeling itself: emotional life as material re-fitted by long practice. [Fellow feeling](card:Fellow%20feeling) carries Hume's sympathy, the eighteenth-century mechanism by which others' emotions become ours. Each account implies a different job for the person feeling: attend to the body, examine the judgment, or practise the material."
+          "x": "Between those poles, other accounts spread the material across body, idea and practice. [Affects](card:Affects) gives Spinoza's version: an affect is a state of the body's power of acting, increased or lessened, together with the idea of that state, the feeling as a fact about capacity, which is why [Joy](card:Joy) for him is a transition to greater perfection rather than a static state. [Emotion as construction](card:Emotion%20as%20construction) reads Nietzsche's art of giving style to character as applying to feeling itself: emotional life as material re-fitted by long practice. [Fellow feeling](card:Fellow%20feeling) carries Hume's sympathy, the eighteenth-century mechanism by which others' emotions become ours. Each account implies a different job for the person feeling: attend to the body, examine the judgment, or practise the material."
         },
         {
           "t": "h2",
@@ -6252,11 +6252,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Whatever an emotion is made of, a life contains recognisable kinds. The families are there to be told apart. [Fear](card:Fear) is the defense-mobilising emotion, Öhman and Mineka's evolved module for threat. The [Self-conscious emotions](card:Self-conscious%20emotions) — embarrassment, guilt, pride, shame — are grouped by their entry requirement, the involvement of the self, since they differ less in feel than in what it takes to have one at all."
+          "x": "Whatever an emotion is made of, a life contains recognisable kinds. The families are there to be told apart. [Fear](card:Fear) is the defense-mobilising emotion, Öhman and Mineka's evolved module for threat. The [Self-conscious emotions](card:Self-conscious%20emotions) (embarrassment, guilt, pride, shame) are grouped by their entry requirement, the involvement of the self, since they differ less in feel than in what it takes to have one at all."
         },
         {
           "t": "p",
-          "x": "Within that family the distinctions carry weight. [Shame](card:Shame) judges the whole self; [Guilt](card:Guilt) attaches to a specific act, which is why [Guilt motivates reparative behaviour](card:Guilt%20motivates%20reparative%20behaviour) — its adaptive job is to move the person who did the harm toward undoing it."
+          "x": "Within that family the distinctions carry weight. [Shame](card:Shame) judges the whole self; [Guilt](card:Guilt) attaches to a specific act, which is why [Guilt motivates reparative behaviour](card:Guilt%20motivates%20reparative%20behaviour): its adaptive job is to move the person who did the harm toward undoing it."
         },
         {
           "t": "p",
@@ -6268,7 +6268,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The [Self-transcendent emotions](card:Self-transcendent%20emotions) — awe, gratitude, love, peace — sort by their fit to religious and spiritual life, and [Mudita (sympathetic joy)](card:Mudita%20%28sympathetic%20joy%29), the third brahmavihara, is gladness at another's good fortune as if it were one's own — the emotional answer to envy's question."
+          "x": "The [Self-transcendent emotions](card:Self-transcendent%20emotions) (awe, gratitude, love, peace) sort by their fit to religious and spiritual life, and [Mudita (sympathetic joy)](card:Mudita%20%28sympathetic%20joy%29), the third brahmavihara, is gladness at another's good fortune as if it were one's own, the emotional answer to envy's question."
         },
         {
           "t": "h2",
@@ -6276,7 +6276,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The older traditions treated this whole territory as the passions, and asked a further question: can the crowd be ordered? Spinoza's Ethics Part III is [The taxonomy of passions](card:The%20taxonomy%20of%20passions) — the crowd reduced to three primary affects, the rest derived by combination with objects. Part III opens with the complaint, recorded under [Naming the passions](card:Naming%20the%20passions), that no one has determined the emotions' definitions."
+          "x": "The older traditions treated this whole territory as the passions, and asked a further question: can the crowd be ordered? Spinoza's Ethics Part III is [The taxonomy of passions](card:The%20taxonomy%20of%20passions): the crowd reduced to three primary affects, the rest derived by combination with objects. Part III opens with the complaint, recorded under [Naming the passions](card:Naming%20the%20passions), that no one has determined the emotions' definitions."
         },
         {
           "t": "p",
@@ -6288,7 +6288,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "How many kinds of feeling there are is a live scientific question, and the answer shapes everything downstream — measurement, regulation, even what counts as an emotional disorder. Three structures compete here. [Basic emotion theory](card:Basic%20emotion%20theory) holds a small number of emotions — anger, fear, disgust, sadness, enjoyment — to be universal, biologically grounded, distinct in expression and function; Ekman's families of related states. The [Circumplex model of affect](card:Circumplex%20model%20of%20affect), Russell's 1980 alternative, drops the list for two axes, valence and arousal, every state a point in the plane; the [Pleasure-Arousal-Dominance Model](card:Pleasure-Arousal-Dominance%20Model) of Mehrabian and Russell adds a third."
+          "x": "How many kinds of feeling there are is a live scientific question, and the answer shapes everything downstream: measurement, regulation, even what counts as an emotional disorder. Three structures compete here. [Basic emotion theory](card:Basic%20emotion%20theory) holds a small number of emotions (anger, fear, disgust, sadness, enjoyment) to be universal, biologically grounded, distinct in expression and function; Ekman's families of related states. The [Circumplex model of affect](card:Circumplex%20model%20of%20affect), Russell's 1980 alternative, drops the list for two axes, valence and arousal, every state a point in the plane; the [Pleasure-Arousal-Dominance Model](card:Pleasure-Arousal-Dominance%20Model) of Mehrabian and Russell adds a third."
         },
         {
           "t": "p",
@@ -6296,7 +6296,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Barrett's [Theory of constructed emotion](card:Theory%20of%20constructed%20emotion) goes further: emotions are built from affect, concepts and social reality, with no pre-wired circuit for each basic emotion. [Embodied emotion theory](card:Embodied%20emotion%20theory) grounds the construction in re-enactments of affective, sensory and motor states. And a fourth family asks a different question altogether: [Functional accounts of emotion](card:Functional%20accounts%20of%20emotion) — Keltner and Gross framing — explain emotions by what they do."
+          "x": "Barrett's [Theory of constructed emotion](card:Theory%20of%20constructed%20emotion) goes further: emotions are built from affect, concepts and social reality, with no pre-wired circuit for each basic emotion. [Embodied emotion theory](card:Embodied%20emotion%20theory) grounds the construction in re-enactments of affective, sensory and motor states. And a fourth family asks a different question altogether: [Functional accounts of emotion](card:Functional%20accounts%20of%20emotion) (Keltner and Gross framing) explain emotions by what they do."
         },
         {
           "t": "p",
@@ -6316,7 +6316,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "A feeling has a trajectory: it rises, lasts and fades. [Affective chronometry](card:Affective%20chronometry), Davidson's term, studies that temporal profile — how fast an emotion rises, how long it lasts. The [Affective dynamics framework](card:Affective%20dynamics%20framework) treats emotion as a time series in which the fluctuation matters as much as the average, and [Emotional inertia theory](card:Emotional%20inertia%20theory) names the resistance to change: how strongly earlier states predict later ones. The felt difference between having a feeling and being stuck in one turns out to be a measurable property."
+          "x": "A feeling has a trajectory: it rises, lasts and fades. [Affective chronometry](card:Affective%20chronometry), Davidson's term, studies that temporal profile: how fast an emotion rises, how long it lasts. The [Affective dynamics framework](card:Affective%20dynamics%20framework) treats emotion as a time series in which the fluctuation matters as much as the average, and [Emotional inertia theory](card:Emotional%20inertia%20theory) names the resistance to change: how strongly earlier states predict later ones. The felt difference between having a feeling and being stuck in one turns out to be a measurable property."
         },
         {
           "t": "p",
@@ -6332,15 +6332,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The simplest statement of the intrusion is Schwarz's: [Affect as information](card:Affect%20as%20information) — people consult their current feelings when judging, as in the sunny-day life-satisfaction result. The [Affect heuristic](card:Affect%20heuristic), Finucane, Alhakami, Slovic and Johnson's term, extends it to risk: positive or negative feelings about an object drive judgments of its risk and benefit, a puzzle for the mind's bookkeeping, since the world's risks and benefits are positively correlated."
+          "x": "The simplest statement of the intrusion is Schwarz's [Affect as information](card:Affect%20as%20information): people consult their current feelings when judging, as in the sunny-day life-satisfaction result. The [Affect heuristic](card:Affect%20heuristic), Finucane, Alhakami, Slovic and Johnson's term, extends it to risk: positive or negative feelings about an object drive judgments of its risk and benefit, a puzzle for the mind's bookkeeping, since the world's risks and benefits are positively correlated."
         },
         {
           "t": "p",
-          "x": "Feeling also enters reasoning as its substrate. The [Somatic marker hypothesis (Damasio)](card:Somatic%20marker%20hypothesis%20%28Damasio%29) has decision-making steered by marker signals arising in the body's bioregulatory processes — emotion as a condition of good reasoning rather than its enemy."
+          "x": "Feeling also enters reasoning as its substrate. The [Somatic marker hypothesis (Damasio)](card:Somatic%20marker%20hypothesis%20%28Damasio%29) has decision-making steered by marker signals arising in the body's bioregulatory processes, emotion as a condition of good reasoning rather than its enemy."
         },
         {
           "t": "p",
-          "x": "[Moral emotions](card:Moral%20emotions), Tangney's review, link moral standards to moral behaviour. [Affective disposition theory](card:Affective%20disposition%20theory), Zillmann and Cantor's account of media enjoyment — we like seeing liked characters succeed and disliked ones suffer — and the [Reinforcement-Affect Theory](card:Reinforcement-Affect%20Theory) of Byrne and Clore — we come to like stimuli and people associated with positive affect — show the same mechanism at work in liking itself."
+          "x": "[Moral emotions](card:Moral%20emotions), Tangney's review, link moral standards to moral behaviour. [Affective disposition theory](card:Affective%20disposition%20theory), Zillmann and Cantor's account of media enjoyment (we like seeing liked characters succeed and disliked ones suffer) and the [Reinforcement-Affect Theory](card:Reinforcement-Affect%20Theory) of Byrne and Clore (we come to like stimuli and people associated with positive affect) show the same mechanism at work in liking itself."
         },
         {
           "t": "p",
@@ -6352,7 +6352,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "If feelings inform thought, the next question is whether they can be worked with. Gross's answer is a definition and a map: [Emotion regulation](card:Emotion%20regulation) is the processes by which we influence which emotions we have, when we have them, and how we experience and express them. The [Process model of emotion regulation Gross](card:Process%20model%20of%20emotion%20regulation%20Gross) gives five points of intervention — situation selection, situation modification, attentional deployment, cognitive change, response modulation."
+          "x": "If feelings inform thought, the next question is whether they can be worked with. Gross's answer is a definition and a map: [Emotion regulation](card:Emotion%20regulation) is the processes by which we influence which emotions we have, when we have them, and how we experience and express them. The [Process model of emotion regulation Gross](card:Process%20model%20of%20emotion%20regulation%20Gross) gives five points of intervention: situation selection, situation modification, attentional deployment, cognitive change, response modulation."
         },
         {
           "t": "p",
@@ -6360,11 +6360,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The best-studied contrast inside the map is reappraisal against suppression. [Cognitive reappraisal](card:Cognitive%20reappraisal) changes an emotional event's meaning, so that the feeling that follows changes; the [Expressive suppression versus reappraisal](card:Expressive%20suppression%20versus%20reappraisal), Gross and John's 2003 comparison, sets the conscious inhibition of expression against it; and the [Emotional suppression theory Butler Gross](card:Emotional%20suppression%20theory%20Butler%20Gross) adds that instructed suppression raises blood pressure in regulators and partners — suppression as a cost paid socially."
+          "x": "The best-studied contrast inside the map is reappraisal against suppression. [Cognitive reappraisal](card:Cognitive%20reappraisal) changes an emotional event's meaning, so that the feeling that follows changes; the [Expressive suppression versus reappraisal](card:Expressive%20suppression%20versus%20reappraisal), Gross and John's 2003 comparison, sets the conscious inhibition of expression against it; and the [Emotional suppression theory Butler Gross](card:Emotional%20suppression%20theory%20Butler%20Gross) adds that instructed suppression raises blood pressure in regulators and partners, suppression as a cost paid socially."
         },
         {
           "t": "p",
-          "x": "One limit matters: [Reappraisal's effectiveness depends on separating the feeling from the appraisal](card:Reappraisal%27s%20effectiveness%20depends%20on%20separating%20the%20feeling%20from%20the%20appraisal) — it works by changing the appraisal, so the person has to be able to tell the two apart."
+          "x": "One limit matters: [Reappraisal's effectiveness depends on separating the feeling from the appraisal](card:Reappraisal%27s%20effectiveness%20depends%20on%20separating%20the%20feeling%20from%20the%20appraisal): it works by changing the appraisal, so the person has to be able to tell the two apart."
         },
         {
           "t": "p",
@@ -6380,7 +6380,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Two older strategies survive inside the modern material. [Pre-commitment as wisdom](card:Pre-commitment%20as%20wisdom) is Seneca's counsel for dealing with emotion by timing — arranging in advance what the emotion would otherwise undo. And the pursuit itself can misfire: [The paradox of valuing a goal excessively](card:The%20paradox%20of%20valuing%20a%20goal%20excessively) carries Mauss and colleagues' finding on wanting something too much."
+          "x": "Two older strategies survive inside the modern material. [Pre-commitment as wisdom](card:Pre-commitment%20as%20wisdom) is Seneca's counsel for dealing with emotion by timing, arranging in advance what the emotion would otherwise undo. And the pursuit itself can misfire: [The paradox of valuing a goal excessively](card:The%20paradox%20of%20valuing%20a%20goal%20excessively) carries Mauss and colleagues' finding on wanting something too much."
         },
         {
           "t": "p",
@@ -6396,11 +6396,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The positive side of the transmission has its own tradition. [Empathy](card:Empathy) is the felt understanding of another's experience — a family of capacities running from Buddhist compassion through Confucian shu to Levinas; [Sympathy](card:Sympathy) is Adam Smith's account of the resonance by which others' joy and misery become in some measure ours; [Compassion](card:Compassion) is being moved by suffering and motivated to act."
+          "x": "The positive side of the transmission has its own tradition. [Empathy](card:Empathy) is the felt understanding of another's experience: a family of capacities running from Buddhist compassion through Confucian shu to Levinas; [Sympathy](card:Sympathy) is Adam Smith's account of the resonance by which others' joy and misery become in some measure ours; [Compassion](card:Compassion) is being moved by suffering and motivated to act."
         },
         {
           "t": "p",
-          "x": "Between people who know each other well, transmission becomes regulation. [Co-regulation of affect in relationships](card:Co-regulation%20of%20affect%20in%20relationships), Butler and Randall's dyadic system, and [Co-regulation in relationships](card:Co-regulation%20in%20relationships), Butler's 2011 TIES framework, describe partners regulating each other's affect. When that loop turns negative it is [Conflict spirals](card:Conflict%20spirals), Gottman's pattern in which one partner's negative affect is met with the other's. The feeling between people is the same material as the feeling within — with the added fact that each person's response is the other person's stimulus."
+          "x": "Between people who know each other well, transmission becomes regulation. [Co-regulation of affect in relationships](card:Co-regulation%20of%20affect%20in%20relationships), Butler and Randall's dyadic system, and [Co-regulation in relationships](card:Co-regulation%20in%20relationships), Butler's 2011 TIES framework, describe partners regulating each other's affect. When that loop turns negative it is [Conflict spirals](card:Conflict%20spirals), Gottman's pattern in which one partner's negative affect is met with the other's. The feeling between people is the same material as the feeling within, with the added fact that each person's response is the other person's stimulus."
         },
         {
           "t": "h",
@@ -6439,7 +6439,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The circumplex model takes the dimensional position Ekman names as the rival hypothesis — that what varies is valence and arousal, not category membership. Its authors state the contrast themselves:"
+          "x": "The circumplex model takes the dimensional position Ekman names as the rival hypothesis: that what varies is valence and arousal, not category membership. Its authors state the contrast themselves:"
         },
         {
           "t": "q",
@@ -6466,7 +6466,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The incompatibility is stated by the circumplex authors themselves: affective states arising from common, overlapping systems against the discrete and independent neural system they attribute to theories of basic emotions. Ekman's own passage argues from cross-cultural agreement in reading expressions; the neural-systems framing of his side is his rivals' characterization, and I do not attribute it to him beyond that. Where the causal structure sits — in separate systems each owning an emotion, or in shared systems whose combinations produce them — is what the disagreement turns on."
+          "x": "The incompatibility is stated by the circumplex authors themselves: affective states arising from common, overlapping systems against the discrete and independent neural system they attribute to theories of basic emotions. Ekman's own passage argues from cross-cultural agreement in reading expressions; the neural-systems framing of his side is his rivals' characterization, and I do not attribute it to him beyond that. Where the causal structure sits (in separate systems each owning an emotion, or in shared systems whose combinations produce them) is what the disagreement turns on."
         },
         {
           "t": "h2",
@@ -6492,7 +6492,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Where one locates the emotion decides where the work is applied. If the emotion is the feeling of bodily change, the work addresses the body — what James's line implies for practice is spelled out by the action-precedes-feeling pairing above. If the emotion is a judgment, the work examines the evaluation — the reappraisal material above takes exactly that opening. The two passages state the identifications; they do not settle which is right, and a reader of the affect material has to choose where to work first."
+          "x": "Where one locates the emotion decides where the work is applied. If the emotion is the feeling of bodily change, the work addresses the body: what James's line implies for practice is spelled out by the action-precedes-feeling pairing above. If the emotion is a judgment, the work examines the evaluation: the reappraisal material above takes exactly that opening. The two passages state the identifications; they do not settle which is right, and a reader of the affect material has to choose where to work first."
         },
         {
           "t": "h2",
@@ -6526,7 +6526,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 1,
-          "x": "[Affect labeling](card:K159%20%E2%80%94%20Affect%20labeling): name the emotion precisely — not \"stressed\" but \"tight chest, dread, buzzing\". Notice whether the intensity changes once it has a name."
+          "x": "[Affect labeling](card:K159%20%E2%80%94%20Affect%20labeling): name the emotion precisely, not \"stressed\" but \"tight chest, dread, buzzing\". Notice whether the intensity changes once it has a name."
         },
         {
           "t": "n",
@@ -6541,7 +6541,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 4,
-          "x": "[Body-first emotion work](card:K172%20%E2%80%94%20Body-first%20emotion%20work): when an emotion is hard to locate or name, start with the body — where is the tension, what is the temperature, what is the texture. Notice whether the feeling becomes nameable from the body up."
+          "x": "[Body-first emotion work](card:K172%20%E2%80%94%20Body-first%20emotion%20work): when an emotion is hard to locate or name, start with the body: where is the tension, what is the temperature, what is the texture. Notice whether the feeling becomes nameable from the body up."
         },
         {
           "t": "n",
@@ -6550,7 +6550,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Evidence limits: the outcome language above is the kernels' own text, compressed. The labeling kernel rests on the affect-labeling study cited on its card, the writing kernel on the expressive-writing literature cited on its card, the DBT module on the treatment literature for its clinical population — each cited at second hand, with no claim about study sizes or designs. The feeling-tone and low-response practices carry no outcome claim. The categorical-versus-dimensional disagreement is a live theoretical dispute; no practice selection follows from either side alone."
+          "x": "Evidence limits: the outcome language above is the kernels' own text, compressed. The labeling kernel rests on the affect-labeling study cited on its card, the writing kernel on the expressive-writing literature cited on its card, the DBT module on the treatment literature for its clinical population, each cited at second hand, with no claim about study sizes or designs. The feeling-tone and low-response practices carry no outcome claim. The categorical-versus-dimensional disagreement is a live theoretical dispute; no practice selection follows from either side alone."
         },
         {
           "t": "vs",
