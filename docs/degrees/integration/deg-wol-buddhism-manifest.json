@@ -54,7 +54,7 @@
         "role": "teach",
         "assignment": "SN 56.11 (Thanissaro) - whole discourse (about 1,000 words)",
         "kind": "reading",
-        "note": "Word-count label corrected 2026-10-26 (deg-fix-content) per the recount receipt docs/degrees/verify/deg-wol-buddhism-locator-recount-1026c.md: the page body up to the Notes section is 994 words, so 'about 1,000 words' is the accurate label (the earlier '~1,100' estimate was about 10 percent high). The b2 module doc still carries the old label and should be corrected by its owner; app.js needs the assignments re-applied."
+        "note": "Word-count label corrected 2026-10-26 (deg-fix-content) per the recount receipt docs/degrees/verify/deg-wol-buddhism-locator-recount-1026c.md: the page body up to the Notes section is 994 words, so 'about 1,000 words' is the accurate label (the earlier '~1,100' estimate was about 10 percent high). The b2 module doc still carries the old label and should be corrected by its owner. app.js WAS re-applied and verified (fix-list item 5, 2026-10-26): both published BUD-B2-02 locators carry about 1,000 (mod-bud-2) and the lineage-re-read wording (mod-bud-5)."
       },
       {
         "source_id": "BUD-B2-03",
@@ -130,7 +130,7 @@
         "role": "revisit",
         "assignment": "SN 56.11 Dhammacakkappavattana Sutta (Thanissaro) - revisit in b5: re-read the discourse as the lineage's source basis (the b2 whole-discourse reading, about 1,000 words)",
         "kind": "reading",
-        "note": "Word-count label corrected 2026-10-26 (deg-fix-content) per the recount receipt docs/degrees/verify/deg-wol-buddhism-locator-recount-1026c.md: the page body up to the Notes section is 994 words, so 'about 1,000 words' is the accurate label (the earlier '~1,100' estimate was about 10 percent high). The b2 module doc still carries the old label and should be corrected by its owner; app.js needs the assignments re-applied."
+        "note": "Word-count label corrected 2026-10-26 (deg-fix-content) per the recount receipt docs/degrees/verify/deg-wol-buddhism-locator-recount-1026c.md: the page body up to the Notes section is 994 words, so 'about 1,000 words' is the accurate label (the earlier '~1,100' estimate was about 10 percent high). The b2 module doc still carries the old label and should be corrected by its owner. app.js WAS re-applied and verified (fix-list item 5, 2026-10-26): both published BUD-B2-02 locators carry about 1,000 (mod-bud-2) and the lineage-re-read wording (mod-bud-5)."
       }
     ],
     "mod-bud-6": [
