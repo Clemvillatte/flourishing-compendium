@@ -29,12 +29,13 @@ Every item below was opened on the live page on 2026-10-26 unless stated.
 
 ## Duration sweep of all 40 YouTube videos in the four degrees (2026-10-26, uncached reads)
 
-35 of 40 match the data block within one second. Exceptions:
+36 of 40 match the data block within one second. Exceptions:
 
 - BUD-B4-01: wrong (see above), corrected in the buddhism assignments file.
-- PD-M3-01 (Yale lecture 4): data 58:47; two fresh reads say 48:58 and the Open Yale chapter list ends its last chapter start at 46:44. Corrected to 48:58 in deg-psychdim-assignments.json with evidence; the assigned windows sit inside both lengths.
+- PD-M3-01 (Yale lecture 4): RETRACTED. Two fetch reads said 48:58, but a video-search listing shows 48:58 is the duration of lecture 5 (a neighbouring video that appears on the lecture 4 watch page), and the same listing gives lecture 4 as 58:47 (YaleCourses, https://www.youtube.com/watch?v=rCKK6r15fro). The data block's 58:47 is correct and no change is needed. The psychdim assignments file was briefly patched to 48:58 and is reverted.
 - PD-M5-01 (Yale lecture 13): the player readout "0:02 / 1:05:49" confirms 1:05:49; an earlier extraction that said 52:48 was wrong.
 - BUD-B1-01: player readout "0:02 / 54:15" against the data block's 54:16; one second, no action.
-- BUD-B2-01 (Dreyfus): one extraction read 1:25:04 against 1:20:34 in the data block; the retry was blocked by a crawl error, so this is UNRESOLVED. The assigned window (00:40:17 to the end) and the whole-teaching label should be checked in a browser.
-- Not readable by the fetch tool on this pass (crawl error), left as receipted: M06-AF07, PD-M4-01, DAO-M1-03, BUD-B1-02.
+- BUD-B2-01 (Dreyfus): one extraction read 1:25:04, but a video-search listing gives 1:20:35 for the same video (Shantideva Center, FPMT, session #1), so the data block's 1:20:34 stands. The 1:25:04 reading was a page-scrape error.
+- Not readable by the fetch tool on this pass (crawl error): M06-AF07, PD-M4-01, BUD-B1-02 (left as receipted); DAO-M1-03 confirmed at 53:36 by a video-search listing.
+- Method lesson: the fetch tool's page extraction can pick up the duration of a related video on the page; confirm odd values against a video-search listing or the player readout.
 - PRAG-M1-01 confirmed by player readout "0:00 / 49:24".

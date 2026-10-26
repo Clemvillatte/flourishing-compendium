@@ -562,12 +562,6 @@
   },
   "PD-M7-03": {
    "duration": "1:19:48"
-  },
-  "PD-M3-01": {
-   "duration": "48:58"
   }
- },
- "source_correction_evidence": {
-  "PD-M3-01": "Receipt value 58:47 conflicts with two fresh uncached reads on 2026-10-26 of https://www.youtube.com/watch?v=rCKK6r15fro (page text 48:58; extraction 48:58) and with the Open Yale chapter list for lecture 4, whose last chapter (7, Controversies and Criticisms on Behaviorism) starts at 00:46:44, which fits a 48:58 recording and not a 58:47 one. The assigned windows (14:25-17:44 and 31:18-36:11) fall inside both lengths. Re-check in a browser if the exact total matters."
  }
 }
