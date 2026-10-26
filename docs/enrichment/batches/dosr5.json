@@ -1,0 +1,15 @@
+{
+ "batch": "dosr5",
+ "done": [
+  "2026-10-26 00:24Z STEP 0 scope check (sup-1026b-worker): all four assigned dossiers are ALREADY AT the 3-5 bar (3 substantiated questions each) — QC-7 list stale for this band; no disagreement repairs; band closed. dossier_check exit 0 all four (affect/attention card links already re-pointed to kept ST copies this session)."
+ ],
+ "detail": {
+  "affect": "3 questions (emotions as discrete categories; bodily change vs judgment; Iowa gambling guidance) — published.",
+  "attention": "3 questions (early vs late selection; wandering-mind cost; switch vs scale) — published.",
+  "motivation": "3 questions (rewards vs intrinsic motivation; need hierarchy; reason as mover) — published.",
+  "overload-overwhelm": "3 questions (ego depletion as limited resource; choice overload; rest vs work) — published."
+ },
+ "note": "STEP 0 rule applied per PIPELINE Lane 2; same stale-list finding as dosr1/dosr3/dosr4.",
+ "in_progress": "none — band complete",
+ "flagged": {}
+}
