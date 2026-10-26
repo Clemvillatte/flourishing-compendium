@@ -668,6 +668,49 @@ the live article page (https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/);
 same source, link repaired only.
 
 
+### M5 preparation (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:31Z measured; no module prose — gated)
+
+Three of the four M5 sources opened this pass against raw curl-fetched
+text (Maitland 2024 is already verified and was measured for M1). All
+passages below confirmed on the raw text.
+
+- Manchiraju 2026, Self-concept clarity: a comprehensive and integrative
+  review (Front Psychol, PMC13350471): the SCC definition verbatim
+  ("Self-concept clarity (SCC) refers to the extent to which
+  individuals' self-beliefs are clearly and confidently defined,
+  internally consistent, and stable over time (Campbell et al., 1996).")
+  and the title verbatim. Raw page 8,847 words on the tag-stripped
+  basis (review; the writing session should measure the assigned
+  excerpt on a stated basis). The integrative-framework sentence from
+  the abstract (SCC as outcome, predictor, mediator and moderator) was
+  captured by extraction but is NOT recorded as verbatim-confirmed
+  (not checked character-for-character this pass; re-verify if used).
+- Branje, de Moor, Spitzer and Becht 2021, Dynamics of Identity
+  Development in Adolescence: A Decade in Review (J Res Adolesc,
+  PMC9298910): title verbatim and the key abstract sentence verbatim
+  ("identity development during adolescence and early adulthood is
+  characterized by both systematic maturation and substantial
+  stability."). Raw page 16,565 words on the tag-stripped basis (a long
+  review; the writing session should measure the assigned excerpt).
+- Diener and Lucas, Personality Traits (Noba): teaching body measured
+  at 3,708 words on the tag-stripped basis (module description through
+  the final teaching paragraph ending "...such as those studied by
+  Walter Mischel.", before the Mini-IPIP Appendix section). The span
+  including the Mini-IPIP scale appendix and its norm tables, through
+  to the Outside Resources section, measures 4,212 words on the same
+  basis. The module description's first sentence is verbatim
+  ("Personality traits reflect people's characteristic patterns of
+  thoughts, feelings, and behaviors."); the teaching body's final
+  sentence is verbatim ("Most modern personality researchers agree
+  that there is a place for broad personality traits and for the
+  narrower units such as those studied by Walter Mischel."). NOTE: the
+  module has no section titled "Conclusion"; the teaching body ends
+  with the traits-versus-situations material. First delimiter unique;
+  the Appendix boundary identified by its section heading ("Appendix
+  The Mini-IPIP Scale"), not the earlier in-body reference to the
+  appendix.
+
+
 Supervisor Phase 0 ruling (ledger section of the same name): M1 repairs
 applied and ACCEPTED by the verifier's re-review (all three findings
 CLOSED, module SHA 99e5abbe...; disposition ready for supervisor
