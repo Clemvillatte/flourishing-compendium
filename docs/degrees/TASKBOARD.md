@@ -2386,3 +2386,19 @@ foregrounding alliance, expectations and therapist differences
 trials, 3 to 10 percent in naturalistic settings). Content
 classification: evidence-and-limits, direct. The transcript has no
 timestamps and covers the talk through the audience Q&A.
+
+Addendum to the positive-psychology gap note above: a
+positive-psychology-specific effect-size candidate, verified to the
+skill standard's first three checks with duration printed on the watch
+page. "Two Talks at Twelve from the Center for Integrative
+Developmental Science", Bronfenbrenner Center channel (BCTR Talks at
+Twelve series), 43:09, free (https://www.youtube.com/watch?v=a2AJznBzvkI).
+Speaker for Talk 1 ("Integrative Data Analysis of Positive Psychology
+Interventions"): Kenneth Tyler Wilcox, Postdoctoral Associate (stated
+on the watch page). The talk's own abstract frames the effect-size
+literacy directly: PPI studies are "generally underpowered", evidence
+"regarding their efficacy and for whom, when, and how they work remains
+limited", with meta-analysis and integrative data analysis proposed to
+synthesise small-to-moderate effects. Caveat: this video contains two
+talks; the PPI talk is the first, so the owning band should note the
+talk boundary when checking the recording.
