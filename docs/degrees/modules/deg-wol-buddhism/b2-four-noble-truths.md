@@ -174,7 +174,9 @@ ritual remain excluded.
   re-reading, ~20 m; Harvey entry (~300 words), ~5 m; four-tasks
   worksheet ~45 m; one metta sitting 10 m; study overhead on the video
   ~40 m. Estimates labelled as estimates.
-- Module total: about 3 h 25 m.
+- Module total: about 3 h 20 m (1:20:34 measured media + 2 h 00 m of
+  estimated work; corrected 2026-10-26 QC round 8: the previously
+  stated 3 h 25 m did not sum the components).
 
 ## Sources (verification status)
 
