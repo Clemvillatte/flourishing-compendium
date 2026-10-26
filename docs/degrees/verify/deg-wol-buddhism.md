@@ -717,3 +717,37 @@ Ajahn Chah (single volume) free full text (2026-10-26T05:23Z)
 - Flag CLOSED for the supervisor: b2/b7 task-frames resting on the
   Fronsdal course evidence are corroborated by a live, free series
   page; the dead 24652 id needs no repair (not cited).
+
+### B-V18 — b6 Kirchner Lecture 1 content inspection: FULL transcript
+obtained (2026-10-26T05:25Z)
+
+- The QC note above (05:22Z) recorded the caption route as quota-
+  blocked; a second route (downsub.com subtitle extraction) then
+  returned the recording's FULL English auto-caption text (~11,500
+  words, whole 1:28:04 including the Q&A). Auto-generated captions:
+  used for subject classification only, NOT as a verbatim quotation
+  carrier.
+- Content confirmed from the recording itself: the lecture is the
+  Buddhist Society's 100th-anniversary series talk on "Zen and the
+  question of suffering". The speaker frames Zen in its broad sense
+  of meditation (dhyana, Chan, Zen — "the word zen... does mean
+  meditation"), treats suffering as central to Buddhism and as what
+  drove the historical Buddha to practice, recounts his own path
+  (Shibayama Zenji, Nanzen-ji, going to Japan), discusses Dogen's
+  fukan zazengi instruction ("think of non-thinking... the essential
+  art of zazen"), contrasts the active and contemplative lives, and
+  closes with a Q&A touching Rinzai's "great doubt", the
+  prajna/karuna balance in Japanese Zen, and a compassionate answer
+  to a grieving mother. The Rinzai/Soto material lives in Lecture 3
+  (as the B-V07 receipt and series description state); Lecture 1's
+  transcript mentions Rinzai only in the Q&A.
+- The module's bounded claims hold: the lecture's stated subject
+  (dukkha as the motivation for practice; suffering engaged
+  constructively) is the lecture's actual content, and the whole-
+  lecture assignment with structural viewing stops is appropriate
+  (no chapter list; the talk plus Q&A is one continuous arc).
+- Status: **verified-video, content-inspected** — identity, free
+  access, watch-page duration (1:28:04), credentials (prior
+  receipts) and now content classification from the full recording
+  text. ROUTE owner: b6's Lecture-1 source-table row can drop
+  "CONTENT NOT YET INSPECTED".
