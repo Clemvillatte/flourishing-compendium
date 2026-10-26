@@ -1,8 +1,8 @@
 # QC sample — deg-wol-daoism-m2-bterm-quote-verification-1026e.md
 
 **Worker**: worker-pplx-verify-1026g, deg-verify-b baton, verification lane
-(read-only on modules/ledgers). **Date**: 2026-10-26T10:04Z measured clock
-(~41m elapsed of the 60m run). **Scope**: independent re-verification of the
+(read-only on modules/ledgers). **Date**: 2026-10-26T10:03Z measured clock
+(~40m elapsed of the 60m run; stamp corrected from a miswritten 10:04Z). **Scope**: independent re-verification of the
 1026e receipt's certification of the m2 chapter-28 B-term quotation.
 
 ## Findings
