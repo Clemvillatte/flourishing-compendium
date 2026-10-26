@@ -1,9 +1,3 @@
-## Worker checkpoint (2026-10-26 02:38:21Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
-
-QC SAMPLE — body dossier (1 quoted span): the SEP Husserl Leib/Körper span is present verbatim on the plato.stanford.edu page (the automated miss was the K&ouml;rper HTML entity). No defects found.
-
-## Worker checkpoint (2026-10-26 02:38:10Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
-QC SAMPLE — behaviour dossier (2 quoted spans, both freshly opened): Wood-Neal 2007 habit-formation abstract span VERBATIM via the ERIC record (eric.ed.gov serves a JS shell to direct fetch; the platform fetcher retrieves the abstract text); Aristotle NE II.1 Chase "builders... by building" span VERBATIM on the Gutenberg 8438 carrier. No defects found.
 ## Worker checkpoint (2026-10-26 02:46Z STAMP CORRECTED — actual 02:21Z, worker-pplx-dosr3-1026b, verification lane)
 QC SAMPLE — agency dossier Q3, the concurrent session's Gould/H&S head-on repair (commit efd958df2): the Heckhausen & Schulz 1995 quote ("Secondary control helps the individual to cope with failure and fosters primary control by channeling motivational resources toward selected action goals throughout the life course. Primary control has functional primacy over secondary control.") and both 1999 spans ("the universal claim that primary control holds functional primacy over secondary control"; "primary control striving holds functional primacy throughout the life span and across cultural and historical settings") confirmed VERBATIM on freshly opened eutils carriers (PMIDs 7740091, 10467898); the 1999 record's own title ("A reply to Gould's (1999) critique of the life-span theory of control", Psychol Rev 106(3):605-9) confirms the same-journal exchange and the placement of Gould's article at 106(3):597. The dossier's honest limit (Gould's side reaches through the reply's account; no open Gould copy obtained) stands as written. No defects found in what was checked; no repairs needed.
 ## Worker checkpoint (2026-10-26 02:46Z actual, worker-pplx-dosr3-1026b, verification lane)
@@ -12,6 +6,29 @@ QC SAMPLE — agency dossier Q3, the concurrent session's Gould/H&S head-on repa
 QC SAMPLE — right-effort dossier, the newly republished certified dispute section (sup-1026d repair, 02:16Z): all six quoted spans in the two new questions verified VERBATIM against freshly opened carriers — Oaten & Cheng 2006 both spans (eutils 17032494, incl. the CONCLUSIONS sentence); Miles et al. 2016 both spans (whiterose eprints 107549 abstract page, incl. "Despite high levels of adherence to the training tasks, there was no effect of training on any measure of self-control"); Baumeister et al. 1998 both quotes (eutils 9599441); Hagger et al. 2016 both quotes (eutils 27474142, incl. "Although a meta-analysis... identified instances of possible bias" and the d = 0.04, 95% CI [-0.07, 0.15] span). No defects found in what was checked; no repairs needed. Also this session (dosr3 lane): STEP 0 full audit merged with the concurrent session's close (batches/dosr3.json), raw-verification addenda appended to the anger/cognition/goals ledgers, and the committed OWNER-BOARD conflict markers cleaned (all log entries preserved).
 ## Worker checkpoint (2026-10-26 02:42Z STAMP CORRECTED — actual 02:19Z, worker-pplx-dosr3-1026b, verification lane)
 QC SAMPLE — right-effort dossier, the newly republished certified dispute section (sup-1026d repair, 02:16Z): all six quoted spans in the two new questions verified VERBATIM against freshly opened carriers — Oaten & Cheng 2006 both spans (eutils 17032494, incl. the CONCLUSIONS sentence); Miles et al. 2016 both spans (whiterose eprints 107549 abstract page, incl. "Despite high levels of adherence to the training tasks, there was no effect of training on any measure of self-control"); Baumeister et al. 1998 both quotes (eutils 9599441); Hagger et al. 2016 both quotes (eutils 27474142, incl. "Although a meta-analysis... identified instances of possible bias" and the d = 0.04, 95% CI [-0.07, 0.15] span). No defects found in what was checked; no repairs needed. CORRECTION NOTE (fresh date -u readings): both stamps above were written from estimated elapsed time, not clock readings (the 02:42Z/02:46Z stamps were future-dated; actual 02:19Z/02:21Z, measured 1792981164/1792981268 epoch). Content verified unaffected; all later stamps use fresh date -u readings. Also this session (dosr3 lane): STEP 0 full audit merged with the concurrent session's close (batches/dosr3.json), raw-verification addenda appended to the anger/cognition/goals ledgers, and the committed OWNER-BOARD conflict markers cleaned (all log entries preserved).
+## Worker checkpoint (2026-10-26 02:38:21Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
+
+QC SAMPLE — body dossier (1 quoted span): the SEP Husserl Leib/Körper span is present verbatim on the plato.stanford.edu page (the automated miss was the K&ouml;rper HTML entity). No defects found.
+
+## Worker checkpoint (2026-10-26 02:38:10Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
+QC SAMPLE — behaviour dossier (2 quoted spans, both freshly opened): Wood-Neal 2007 habit-formation abstract span VERBATIM via the ERIC record (eric.ed.gov serves a JS shell to direct fetch; the platform fetcher retrieves the abstract text); Aristotle NE II.1 Chase "builders... by building" span VERBATIM on the Gutenberg 8438 carrier. No defects found.
+## Worker checkpoint (2026-10-26 02:38Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
+QC SAMPLE — concept page Pathē (complete: all quoted spans checked):
+the four SEP Stoicism §4.7 spans — the passion definition ("They [the
+Stoics] say that passion is impulse which is excessive and disobedient
+to the dictates of reason, or a movement of soul which is irrational and
+contrary to nature; and that all passions belong to the soul's
+commanding-faculty."), the four-genera list ("distress, a present
+perceived bad; fear, a future perceived bad; appetite, a future
+perceived good; delight (or pleasure), a present perceived good."), the
+judgment-description span ("can be described as an opinion or judgment
+or weak supposition"), and the Sage's-good-feelings span — all
+confirmed VERBATIM on the opened
+[SEP Stoicism entry](https://plato.stanford.edu/entries/stoicism/)
+(section 4.7; the carrier itself uses the bracketed "[the Stoics]").
+No defects; no repairs needed.
+
 ## Worker checkpoint (2026-10-26 02:37:54Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
 
 QC SAMPLE — others dossier (5 quoted spans, all freshly opened): Beckes-Coan 2011 social-baseline span VERBATIM in the squarespace PDF; Cacioppo-Hawkley 2009 loneliness-as-social-pain span VERBATIM in the PMC full text; Klimecki et al. 2014 compassion-training abstract span VERBATIM via eutils; Karaṇīya Metta Sutta Sn 1.8 Thanissaro "limitless heart" span VERBATIM on accesstoinsight; Aristotle NE IX.10 Ross friendship span VERBATIM on the MIT carrier. No defects found.
