@@ -209,10 +209,14 @@ same.
 Deliverable A, the four-truths mapping (about 60 minutes, 400 to 600
 words). Take one difficulty from your three journal entries, or your
 hypothetical case, and map it onto the four truths. Name the suffering
-concretely. Name the craving at its root (which of the wanting,
-resisting or blaming was it?). Describe what an everyday easing of
-that craving would mean here, in the language of letting go rather than
-of victory. Name the action that fits, including protective action where
+concretely. Name the craving at its root where you can identify one
+(which of the wanting, resisting or blaming was it?); if you cannot
+identify a craving in this case, say so plainly and map the rest,
+because an honest "craving not established here" is a legitimate
+finding, not a failure. Describe what an everyday easing of that craving
+would mean here, in the language of letting go rather than of victory;
+if no craving was established, describe what you would look for next
+time instead. Name the action that fits, including protective action where
 the difficulty is a harm from outside. The path factors are named in
 this module and taught in m2 and m3, so your mapping names them where
 relevant without needing to apply their meanings yet. Then add a short
@@ -248,7 +252,7 @@ itself.
 | Criterion | Pass looks like | Outcome |
 |---|---|---|
 | 1. Canonical accuracy | All four truths stated with the task each carries; all eight path factors named; the two extremes named with a sentence on why each fails; Koṇḍañña's insight stated and connected to the learner's mapped difficulty | 1, 2, 5 |
-| 2. Application | The mapping uses a real or hypothetical case; situation, response, craving and action are kept as separate parts; the craving is identified in the learner's own wanting, resisting or blaming; the action can be protective or outward-facing where the difficulty is an outside harm; letting go is described as everyday easing, without claims of realization | 3 |
+| 2. Application | The mapping uses a real or hypothetical case; situation, response, craving and action are kept as separate parts; where a craving is identified it is located in the learner's own wanting, resisting or blaming, and where none is identified the learner says so plainly without penalty; the action can be protective or outward-facing where the difficulty is an outside harm; letting go is described as everyday easing, without claims of realization | 3 |
 | 3. Source distinction | At least one specific difference each way between SN 56.11 and Ajahn Brahm's talk (for example: the discourse gives the middle way, the three rounds and the eight factors; the talk gives the happiness reframing, the Rāhula ethics and the itch-and-scratch image) | 4 |
 | 4. Practice honesty | Three journal entries present, each with the four parts, written in the learner's own voice, with outside-harm cases allowed to stay outside-harm cases | 3 |
 
