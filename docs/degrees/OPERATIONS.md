@@ -262,3 +262,22 @@ gate still blocks module production.
   labelled proposed). Benchmarks remain draft groundwork; Gate 1
   remains open; independent review required; no gate cleared or
   signed.
+- 2026-10-26 supervisor-pplx-1026h (T0 07:32:43Z; supervisor baton conceded
+  to 1026a after a 24-second race, session continued as reviewer/worker):
+  deg-psychdim M4 window flag CLOSED by verification decision
+  (verify/deg-psychdim-m4-window-supervisor-decision-1026h.md; independent
+  snippets-reader retrieval of the official record's ts 3166 and 3293
+  passages plus mirror-transcript sequence; continuous coverage adopted
+  from the producer receipt, bounded accordingly); M5/M6 supervisor delta
+  reviews pass 2 issued at unchanged hashes c38a8d6d/b2674a0a; whole-degree
+  QC PASS (reviews/deg-psychdim-whole-degree-qc-1026h.md). Advisor QC round
+  then required corrections, all pushed: my own whole-degree gate draft
+  retracted to PENDING input and superseded by the independent deg-gate
+  refresh verdict (GATE PASS re-affirmed at current hashes,
+  reviews/deg-psychdim-whole-degree-gate-refresh-2026-10-26.md); M5/M6
+  review inaccuracies fixed (scoring-rule wording, specimen-row count);
+  M4 decision bounded to retrieved excerpts; future-stamped timestamps
+  corrected. State: all eight modules QC PASS, gate refresh PASS;
+  integration NOT started (module data blocks and the verified recordings'
+  source entries are absent from site/assets/app.js; publication flip is
+  the supervisor sign-off after integration). Deg-gate baton released.
