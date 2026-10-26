@@ -705,3 +705,26 @@ session — 43 false positives confirmed, 2 genuine deviations repaired and
 pushed (Hayes semicolon; Goyal "reductions in"; registry rebuilt both
 times), 0 items unconfirmable, 0 known outstanding deviations. The band
 quote map's remaining eye-check queue for the dosr bands is exhausted.
+
+# QC sample 24: the map's "others 4" row — others.md (2026-10-26 02:54:59Z, measured in-command)
+
+Correction to samples 12-13 and 23 and the handoff: the band quote map's
+by-file list includes an "others 4" row for a file the later sweep did
+not name — docs/enrichment/dossiers/others.md, which IS one of the 28
+dosr-band dossiers (the named-plus-clean accounting in samples 12-13
+missed it; 14 named + 13 clean + others = 28). Its four automated NOT
+FOUNDs, re-run this session, are all ctext.org carriers (Analects Xian Wen
+x2 — the injury/kindness exchange; Mencius Teng-wen-gong I — the "one
+root" passage; Mencius Teng-wen-gong II — Mo's principle and the father):
+
+- ctext.org is on the map's blocked-hosts list (403 confirmed by eye when
+  the map was made) and blocks this environment's fetchers.
+- These four are therefore NOT adjudicated this session: classified as
+  blocked-host items, not visually confirmed, flagged for any future
+  eye-check. No repair implied; the dosr bands' owners' close records did
+  not depend on them.
+
+The samples 12-13 and 23 claims that the eye-check queue was "exhausted"
+are WITHDRAWN: the correct state is 45 of 49 items adjudicated (43 false
+positives confirmed, 2 repairs), 4 items (others.md, ctext.org) flagged
+and not confirmable from this environment this session.
