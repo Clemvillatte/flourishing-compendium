@@ -333,3 +333,27 @@ fall to the verification lane.
    the map, but no visual confirmation was possible this session; the earlier
    suttacentral fetches this session (MN 60, right-view sample) did succeed
    intermittently, so the block is partial rather than total.
+
+# QC sample 9: dosr1 unadjudicated map items — gratitude (2026-10-26 02:42:48Z, measured in-command)
+
+The band quote map's remaining gratitude NOT FOUNDs (7), adjudicated:
+
+1. Emmons & McCullough 2003 abstract ("The gratitude-outlook groups
+   exhibited heightened well-being..."): FALSE POSITIVE, confirmed — verbatim
+   in the emmons.faculty.ucdavis.edu PDF (direct download; the host blocks
+   the script's fetcher per the map).
+2. "Counting Blessings Versus Burdens" title: FALSE POSITIVE, confirmed —
+   printed verbatim on the same PDF's title page.
+3. Kant, Metaphysics of Morals §32 ("gratitude must also be considered, in
+   particular, a sacred duty... the recipient can never win away from the
+   benefactor his priority of merit"): FALSE POSITIVE, confirmed — verbatim
+   in the debracollege.dspaces.org PDF; its text layer interleaves spaced
+   letters ("f r o m"), which defeats exact matching.
+4. Trungpa, Training the Mind slogan 13 ("the idea here is to feel grateful
+   that others are presenting us with tremendous obstacles..."): FALSE
+   POSITIVE, confirmed — verbatim in the terebess.hu PDF (direct download).
+5-7. The three Algoe quotes (2012 find-remind-and-bind; 2010 relationship
+   connection, twice): Wiley-hosted abstracts; onlinelibrary.wiley.com is on
+   the map's blocked-hosts list and was not reachable from this environment,
+   so these remain classified as blocked-fetch false positives per the map,
+   not visually confirmed this session. Flagged for any future eye-check.
