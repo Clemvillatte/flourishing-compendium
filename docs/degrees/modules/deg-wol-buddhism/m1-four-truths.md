@@ -1,5 +1,13 @@
 # m1-four-truths: The Buddha's First Teaching and the Four Tasks (deg-wol-buddhism)
 
+> NONCANONICAL EVIDENCE (supervisor collision ruling, 2026-10-26 04:52Z,
+> applied 2026-10-26 by worker-pplx-buddhism-1026b): the first-landed b1/b2
+> sequence is this degree's canonical production path. This alternative draft
+> is kept as noncanonical evidence per the ruling (no destructive deletion);
+> it is not the learner-facing module and its cross-references use the old m1-m8
+> numbering (b3 is now the ethics deepening, b4 the meditations). Reconciliation
+> decision sits with the supervisor.
+
 Welcome to the first module of A Walk of Life: Buddhism. This degree walks
 the Buddhist path the way living communities walk it: ethics first,
 practice in the body, and doctrine as a map you check against your own

@@ -4,7 +4,7 @@
 - **kind**: degree-module
 - **level**: L2 Guided application
 - **module id**: deg-wol-buddhism-b5
-- **status**: draft v1.2 (QC round 4 2026-10-26: book assignment BLOCKED pending text access; production session 2026-10-26, worker-pplx-buddhism-1026a)
+- **status**: draft v1.3 (book assignment UNBLOCKED 2026-10-26, worker-pplx-buddhism-1026b: full volume opened on the Amaravati CDN, free distribution and license confirmed, two teachings selected with measured boundaries; QC rounds 1-5 2026-10-26, worker-pplx-buddhism-1026a)
 - **prerequisites**: b1-b4 exit criteria (precepts stated and applied; four tasks run; a two-week sitting log exists)
 
 ## Walk context
@@ -66,39 +66,53 @@ recording in two timestamped VIEWING STOPS (viewing stops, not content
 claims): 00:00:00-00:30:00 and 00:30:00-01:01:36. Activity: after each
 sitting, one line on the thread of the teaching as you heard it.
 
-### Step 2 — The lineage's book (~40 min, reading, assigned sections)
+### Step 2 — The lineage's book (~70 min, reading, assigned sections)
 
-**The Collected Teachings of Ajahn Chah (single volume), on Amaravati
-Buddhist Monastery's site (the opened page's free-distribution claim
-could not be confirmed in extraction; see the BLOCKED note below),
-https://amaravati.org/dhamma-books/the-collected-teachings-of-ajahn-chah/.**
+**The Collected Teachings of Ajahn Chah (single volume, third edition
+2011), free PDF on Amaravati Buddhist Monastery's CDN
+(https://cdn.amaravati.org/wp-content/uploads/2014/09/The-Collected-Teachings-of-Ajahn-Chah-Single-Volume-Ajahn-Chah.pdf;
+book page https://amaravati.org/dhamma-books/the-collected-teachings-of-ajahn-chah/).**
 Read: the introduction on the Thai Forest tradition and the Theravada
 lineage ("the way of the elders", the Southern School, the forest
-practice standard). THE TWO-TEACHINGS ASSIGNMENT IS BLOCKED; see the
-note below; it cannot be assigned until the actual text is opened
-and named teachings selected. The tradition's
-emphasis, as the introduction frames it, is following the spirit and
-standards of the Buddha's way in forest practice rather than
-scholastic commentary.
+practice standard), then two named teachings, selected from the volume
+this module actually opens:
 
-ASSIGNMENT BLOCKED (marked 2026-10-26, QC round 4): the monastery's
-opened page shows only an introductory excerpt of the volume and does
-not, on the content the production session could open, provide or link
-the full text, name the volume's teaching sections, or print a
-free-distribution statement the extraction could confirm. The
-two-teachings assignment therefore cannot be verified as accessible
-and is BLOCKED pending a worker or supervisor opening the actual
-text (or the monastery's stated download), selecting named teachings,
-and confirming free access. Evidence: the cleaned extraction showed
-only the introduction excerpt; a refetch with raw HTML returned
-HTTP 403 this session, so no download link could be inspected. The
-block is recorded as an access failure, and as a claim about this
-session's fetches, and as no claim about the page itself. Until unblocked, this module's outcome 3
-cannot be completed as written; the rest of the module (Steps 1 and
-3, outcomes 1-2) stands. The introduction excerpt the page DOES show
-is assigned as the lineage-reading portion of Step 2.
+- **"Making the Heart Good"** (Chapter Eleven, printed pp. 125-132,
+  about 2,720 measured words): the tradition's practice-first ethos in
+  its plainest form — people hunting merit while skipping the one
+  teaching the Buddha's line names first, refraining from wrongdoing.
+  Read from "These days people are going all over the place looking for
+  merit." to "...if the Dhamma really reaches the mind it's
+  imperishable, it's there for good. And you don't have to waste money
+  on batteries."
+- **"Our Real Home"** (Chapter Thirteen, printed pp. 145-156, about
+  4,500 measured words): a talk given in a time of illness — the
+  tradition's teaching on facing pain, aging and death with the
+  contemplative frame rather than fear (the talk closes with the wish
+  that the gift of Dhamma "give you the strength to deal with your
+  pain"). Read from "Now determine in
+  your mind to listen respectfully to the Dhamma." to "...I am happy
+  to have been able to give you this gift of Dhamma and hope it will
+  give you the strength to deal with your pain."
 
-Activity (this item is BLOCKED with the assignment above; it becomes live when the assignment is unblocked): for each teaching, the one-line record named in outcome 3.
+ASSIGNMENT UNBLOCKED (2026-10-26, worker-pplx-buddhism-1026b): the
+round-4 block is discharged. The monastery's page had shown only
+an introduction excerpt and the raw-HTML refetch had returned 403; the
+full volume is carried on the monastery's own CDN (receipt B-V16,
+deg-verify-a, corroborated and consumed this pass: the PDF opened and
+read in the text portions named above). The back cover prints
+"Published for free distribution by" the monastery and a Creative
+Commons Attribution-NonCommercial-NoDerivs 2.0 UK licence statement;
+the volume states the third edition 2011. The volume's printed page
+numbers above are from the opened PDF. The block's history is preserved
+in the QC trail (ledger round-4 entry); the introduction excerpt the
+page showed is part of the assignment.
+
+The tradition's emphasis, as the introduction frames it, is following
+the spirit and standards of the Buddha's way in forest practice rather
+than scholastic commentary.
+
+Activity: for each teaching, the one-line record named in outcome 3.
 
 ### Step 3 — Tie it to the canon you already hold
 
@@ -119,7 +133,7 @@ the walk keeps you honest about that.
 1. The tradition statement (outcome 1, ~200 words, with citations to
    the pages and talk).
 2. The Sumedho precis (outcome 2, 150 words plus the surprise line).
-3. The two Ajahn Chah teaching records (outcome 3; BLOCKED with the Step 2 assignment).
+3. The two Ajahn Chah teaching records (outcome 3).
 4. The school-map placement (outcome 4, ~150 words).
 
 Rubric (observable):
@@ -128,7 +142,7 @@ Rubric (observable):
 |---|---|---|
 | tradition statement | lineage, practice-first ethos and Theravada frame each named with a source | generic "forest monks meditate" |
 | precis | the talk's central teaching stated in the learner's words with the surprise named | a topic list with no teaching identified |
-| Chah records (BLOCKED) | situation, instruction and application each named for the chosen teaching | a quotation with no application; the block itself is not a rejection ground |
+| Chah records | situation, instruction and application each named for the chosen teaching | a quotation with no application |
 | map placement | canon continuity and distinct-school marks both named | "it is the same as Theravada" with nothing added |
 
 Self-assessment: one line on whether the tradition's practice-first
@@ -150,21 +164,21 @@ school.
 - Measured media: Sumedho talk 1:01:36 (whole recording assigned, in
   two viewing stops).
 - Estimated: Ajahn Chah introduction excerpt and the two teachings
-  IF UNBLOCKED (~4,000 words at 130 words per minute, new register)
-  ~45 m, of which only the introduction excerpt (~8 m) is currently
-  assignable; canon re-skim
+  (about 7,220 measured words for the two teachings at 130 words per
+  minute, new register, ~56 m, plus the introduction excerpt ~8 m);
+  canon re-skim
   ~10 m; written work (statement, precis, records, placement) ~70 m;
   two logged sittings 20 m. Estimates labelled as estimates.
-- Module total: about 3 h 30 m if the Step 2 assignment is unblocked
-  as written; about 2 h 50 m with only the introduction excerpt
-  assignable (1:01:36 + 8 m + 10 m + 70 m + 20 m).
+- Module total: about 3 h 45 m (1:01:36 measured media + about 2 h
+  44 m of estimated work: 56 m teachings + 8 m introduction + 10 m
+  re-skim + 70 m written work + 20 m sittings).
 
 ## Sources (verification status)
 
 | resource | status | verified | notes |
 |---|---|---|---|
 | Ajahn Sumedho, "Mindfulness and Wisdom", https://www.youtube.com/watch?v=SElyOzgkxjo (Amaravati channel) | verified-metadata | 2026-10-26 (this session) | duration 1:01:36 on the watch page; talk dated 13 May 2017, uploaded 14 July 2017; free MP3 also on amaravati.org; no chapter list printed, whole talk assigned with two viewing stops; CONTENT NOT YET INSPECTED beyond the watch page's stated description, so content claims are bounded to it; credentials opened on https://amaravati.org/biographies/ajahn-sumedho/ (USA-born; bhikkhu 1967; nine years under Ajahn Chah at Wat Pah Pong; established Amaravati 1984) |
-| The Collected Teachings of Ajahn Chah, https://amaravati.org/dhamma-books/the-collected-teachings-of-ajahn-chah/ | verified (book page; text NOT page-by-page inspected) | 2026-10-26 (this session) | single volume on the monastery's site; the opened page's free-distribution statement could NOT be confirmed in extraction; the two-teachings assignment is BLOCKED (see Step 2) because the page shows only the introduction excerpt and a raw-HTML refetch returned 403; the introduction excerpt is the assigned portion; the volume's printed publisher/date/word count not established and not claimed |
+| The Collected Teachings of Ajahn Chah, free PDF https://cdn.amaravati.org/wp-content/uploads/2014/09/The-Collected-Teachings-of-Ajahn-Chah-Single-Volume-Ajahn-Chah.pdf (book page https://amaravati.org/dhamma-books/the-collected-teachings-of-ajahn-chah/) | verified (full volume PDF opened 2026-10-26; assigned portions read) | 2026-10-26 (this pass; B-V16 corroborated) | single volume, third edition 2011; back cover prints free distribution and a Creative Commons Attribution-NonCommercial-NoDerivs 2.0 UK licence; assigned portions read this pass: introduction excerpt plus "Making the Heart Good" (~2,720 words) and "Our Real Home" (~4,500 words), first/last sentences stated in Step 2; the monastery page remains the human-readable index; rebirth material in the volume's wider text handled per the exclusion rule stated in the module |
 | AN 5.179 and SN 56.11 | verified | 2026-10-26 (b1, b2 and receipts) | see b1-b3 source tables |
 
 No paywalled or app-gated content. Video-first policy applied: the

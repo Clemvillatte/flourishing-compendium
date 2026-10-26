@@ -53,8 +53,13 @@ claim that craving has ended.
 **SN 56.11, Dhammacakkappavattana Sutta, "Setting the Wheel of Dhamma in
 Motion," Thanissaro Bhikkhu translation on Access to Insight**
 (https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html;
-verified receipt B-T01; the page states the CC BY-NC 4.0 license and lists the
-Sujato and Bodhi alternate translations). Read the whole discourse. Mark
+verified receipt B-T01; the page states the CC BY-NC 4.0 license and lists
+alternate translations by Ñanamoli, Harvey and Piyadassi — correction
+2026-10-26, worker-pplx-buddhism-1026b: an independent re-open of the page
+found Ñanomoli/Harvey/Piyadassi listed, not the Sujato/Bodhi alternates the
+earlier draft named; the Sujato translation remains independently verified
+on SuttaCentral, where this discourse is the one b1 cites). Read the whole
+discourse. Mark
 four places: each truth stated, and the task attached to it ("to be
 comprehended... to be abandoned... to be directly experienced... to be
 developed"; third verb corrected 2026-10-26 per deg-verify-a's re-fetch
@@ -182,7 +187,7 @@ ritual remain excluded.
 
 | resource | status | verified | notes |
 |---|---|---|---|
-| SN 56.11 AtI Thanissaro | verified (text) | 2026-10-26 (receipt B-T01, deg-verify-a) | https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html; whole discourse assigned; CC BY-NC 4.0 stated on page; alternates (Sujato, Bodhi) listed there; Sujato version independently verified by deg-verify-b's receipt |
+| SN 56.11 AtI Thanissaro | verified (text) | 2026-10-26 (receipt B-T01, deg-verify-a); task-frame independently re-verified 2026-10-26 (worker-pplx-buddhism-1026b) | https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html; whole discourse assigned; CC BY-NC 4.0 stated on page; the four task verbs ("to be comprehended... to be abandoned... to be directly experienced... to be developed") confirmed verbatim on the opened page this pass; alternates listed on the page are Ñanamoli, Harvey and Piyadassi (the earlier Sujato/Bodhi claim corrected 2026-10-26); Sujato version independently verified on SuttaCentral by deg-verify-b's receipt |
 | Dreyfus Four Noble Truths session 1 | verified-video | 2026-10-25 (M02-B04); boundaries receipt 2026-10-26 (deg-verify-b) | https://www.youtube.com/watch?v=DLPsIhDWZp4; duration 1:20:34; covers dukkha only per opened transcript (00:17-00:40, 01:20:13); credentials: Williams College Jackson Professor of Religion (opened catalogue) + host biography; homeodynamic-system analogy and survival-time claims marked as unverified; a finer segment split than whole-teaching is owed at module QC |
 | Harvey "Craving" glossary, AtI | verified | 2026-10-26 (deg-verify-b receipt) | https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.harv.html; tanha vs chanda distinction confirmed on the opened page |
 | Metta sitting (b1 pattern, Metta Sutta Kp 9) | verified | 2026-10-26 (this session) | see b1 source table |
