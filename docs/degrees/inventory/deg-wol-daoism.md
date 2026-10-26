@@ -2,7 +2,7 @@
 
 **Owner**: worker-pplx-degarchinv-1026a (baton `deg-arch-inventory-wolx5`)
 **Built**: 2026-10-26 (T0 13:00:46 UTC; corrective pass T+20:04 UTC — earlier reconstructed per-file elapsed readings withdrawn)
-**Status**: D1 topic map — DRAFT, evidence audit pending (advisor QC round 1 flagged corpus and status issues; corrections being applied). D2 resource pool — NOT STARTED (checkpoint required before D3).
+**Status**: D1 topic map — DRAFT with the advisor QC rounds applied (evidence tiers, withdrawn unmeasured readings, paywall reframing); the Kroll body-gods clause RESOLVED at D2 per the v3 correction receipt. D2 resource pool — CREATED and RETARGETED per the owner's 2026-10-27 rulings (bad5c55b8/622a7eca3) by the parallel deg-arch-d2-wolx6 holder (their file at deg-wol-daoism-d2-pool.md supersedes this lane's earlier draft at commit d2efbb1a7); the mandatory checkpoint is owed before D3.
 **Scope**: per docs/degrees/CURRICULUM-ARCHITECTURE-1026.md — a degree means exhaustive foundational coverage of the discipline (the Daoist walk of life), ≥100 measured hours, ≥10 modules, each module ≥6h with ≥3 distinct sources, teaching layer binding on every primary text.
 
 ## Centering clause (owner 2026-10-26)
