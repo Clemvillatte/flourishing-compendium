@@ -48,6 +48,21 @@ criterion 2 previously required identifying a craving; both now permit
 "craving not established here" as a legitimate finding without penalty,
 consistent with outcome 3's allowance for outside harm and uncertainty.
 
+## b8-capstone (read in full, landed 05:00:25Z per commit 6c7f3b8)
+
+Conformant: L4 synthesis with three deliverables (practice log with
+pattern summary, ethical case with convergence/divergence, defended
+synthesis with a serious objection), public rubric checkable from the
+deliverables alone, no attainment claims (records are records of
+practice), exclusion rule carried, no new sources by design, honest
+workload (about 12 h over eight weeks, estimates labelled; the 24+
+sittings arithmetic checks out at 10-15 minutes each). One note: the
+practice component (outcome 1) permits the b6 Zen-informed form, which
+keeps the school integration honest; the synthesis's objection
+examples are drawn from the walk's own material (the four-truths
+reading, secular Buddhism, the precepts' bluntness), a good sign of
+coherence across the spine.
+
 ## b3-sila-in-practice (read in full)
 
 Conformant: my harvested Brahm remaster ethics arc (25:46-37:33) consumed
