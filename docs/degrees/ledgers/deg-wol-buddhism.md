@@ -794,3 +794,114 @@ b9 Thanissaro (verified-metadata only, claims bounded in the modules);
 owed. Supervisor module-QC owed on all nine; publication gates remain
 closed. This entry supersedes the 06:34Z interim entry's item 3 (b2–b9
 owed) — now complete.
+
+## Repair pass (2026-10-26, worker-pplx-buddhism-1026b, baton deg-wol-buddhism, WAVE 3 lane)
+
+Session identity: worker-pplx-buddhism-1026b (unique; the duplicate-name guard
+the supervisor is adding is noted — this pass took the baton under a fresh
+name). Baton taken ~05:54Z (claim push 2935852). All module edits remain
+DRAFT NOT CLEARED; nothing in this pass clears any gate — supervisor
+module-QC and independent review are still owed on every module.
+
+### Supervisor b1 review: repairs applied (b1 → draft v4)
+
+All six repair classes from the supervisor's b1 review landed, re-grounded in
+sources this session opened:
+
+- AN 5.179 and Kp 9 re-verified against SuttaCentral's official translation
+  data (raw.githubusercontent.com, suttacentral/sc-data, translation/en/sujato
+  — the watch pages are JS-rendered and fetch_url cannot open them; the data
+  repo is the same translations the site serves). Composite quotation split to
+  source order; "true state of peace" corrected to "state of peace"; the AN
+  5.179 excerpt bounded (first/last sentences stated, 213 measured words; the
+  traditional frame kept visible as context with the full five-thing
+  conditional — faith, ethics, learning, generosity, wisdom — the precepts as
+  the ethics portion); Brahm "does not enumerate the precepts" withdrawn per
+  the supervisor's transcript read; observation wording replaces "felt
+  difference"; inline source links added to Steps 1-4; outcome-4 matching
+  practice added to assessment item 0.
+- Ledger correction for the earlier "no rebirth-dependent material" claims in
+  the b1 source table (both sutta notes): WITHDRAWN this pass — the opened
+  texts carry the traditional frame (AN 5.179 opening; Kp 9 closing line).
+
+### b2 task-frame re-verification (supervisor item closed with one defect repaired)
+
+Thanissaro SN 56.11 on Access to Insight opened this pass: the four task
+verbs ("to be comprehended... to be abandoned... to be directly experienced...
+to be developed") confirmed VERBATIM; CC BY-NC 4.0 confirmed. Defect found and
+repaired: the module (and its B-T01-based note) claimed the page lists
+Sujato/Bodhi alternates; the opened page lists Ñanamoli, Harvey and Piyadassi.
+Corrected in Step 1 and the source table. The earlier ledger flag confusion
+(b2/B-V02 vs b7/B-V06 Fronsdal mapping) is resolved: b2's task-frame rests on
+SN 56.11 itself, not on Fronsdal; the Fronsdal syllabus refetch failure
+concerns b7 only. m1's craving-not-established safeguard carried into b2's
+outcome 2, worksheet and rubric.
+
+### m1-four-truths: canonical marker applied
+
+Header added marking m1-four-truths.md as NONCANONICAL EVIDENCE per the
+supervisor's 04:52Z collision ruling (b1/b2 canonical; no deletion; the
+cross-reference renumbering question noted in the marker).
+
+### b5 Chah-book assignment UNBLOCKED (b5 → draft v1.3)
+
+Round-4 block discharged per B-V16 and this pass's own open: the full
+single-volume PDF opened on the Amaravati CDN (8.8 MB download, pdftotext
+extraction). License/edition lines verified directly on the PDF text:
+"Published for free distribution by Aruna Publications"; "Copyright © 2011
+Harnham Buddhist Monastery Trust"; "Third edition, 2,000 copies, printed in
+Malaysia – 2011"; CC BY-NC-ND 2.0 UK. Two teachings selected and READ IN FULL
+this pass, with measured first/last sentences and word counts from the true
+openings: "Making the Heart Good" (~3,050 words; Ch. Eleven, printed
+pp. 125-132) and "Our Real Home" (~4,490 words; Ch. Thirteen, printed
+pp. 145-156; a talk to a family nursing an aged, ill parent). Workload
+recomputed (~3 h 50 m). Evidence distinction, honestly recorded: the word
+counts are measured on the pdftotext extraction of the opened PDF (OCR
+spacing quirks exist in the extraction; counts are of the cleaned text).
+
+### b9 aggregates thread landed (b9 → draft v1.2)
+
+The owed second psychology thread (five khandhas) added from Thanissaro's
+"The Five Aggregates: A Study Guide" (AtI). Full page pulled this pass and
+BOTH assigned sections read in full (Introduction 2,619 words; The Questions
+609 words; counts measured locally on the pulled text); first/last sentences
+stated in Step 4; the guide's question quoted in full ("What is suffering?
+How is it caused? What can be done to bring those causes to an end?").
+Outcome 4, rubric row, boundaries and workload (~2 h 40 m) updated. The
+earlier pre-verified candidate receipt in this ledger is thereby consumed with
+this pass's own read.
+
+### b3/b4 sweep items
+
+b3 rebirth-placement rubric rejection example fixed per the QC notes
+("silence, or a defense of rebirth" → "silence, or no statement of where the
+material lives"); the same alignment applied to b2's rubric. b4's sitting
+count was already repaired in the prior session's QC round 2 (seven sittings)
+— verified in place, no edit needed.
+
+### Advisor QC round (milestone) applied
+
+The advisor found genuine defects in this pass's first drafts, all repaired
+(see commit e8ce9ae): b1's AN 5.179 conditional initially oversimplified
+("keeps the precepts" — now the full five things); b2 initially carried a
+wrong b1 cross-reference (removed) and a Ñanamoli typo; b5's word counts
+initially measured from mid-teaching offsets (re-measured from true
+openings); b9's counts initially taken from a prompted extraction (re-measured
+locally on the pulled full text); production narration moved out of the b2/b5
+learner paths into this ledger.
+
+### Flags for the supervisor
+
+1. b1 source-table note correction relies on the supervisor's own transcript
+   read (07:52-09:10) for the Brahm precepts discussion — consistent with the
+   b1 review; no new transcript was opened this pass (YouTube transcript
+   routes were not attempted).
+2. b5/b9's new assignments (Chah teachings; aggregates sections) are
+   substantive additions — they need supervisor module-QC like the rest; no
+   gate is claimed.
+3. The b3 booklet ("What Is Buddhism?") word-count measurement remains an
+   estimate (QC-notes minor item); not measured this pass.
+4. Degree-map note per QC notes: the insight-method instruction is carried by
+   b7 (Fronsdal Week 1 as logged practice) while b4 carries breath and metta;
+   the coverage matrix row for foundational meditations should say so
+   explicitly at integration time.
