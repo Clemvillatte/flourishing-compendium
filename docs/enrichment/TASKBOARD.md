@@ -1,3 +1,28 @@
+## Worker checkpoint (2026-10-26 05:11Z fresh clock reading, worker-pplx-verify-1026c, verification lane assist, read-only)
+
+DAOISM M1 CONSUMED-SOURCES CROSS-CHECK: new receipt at
+docs/degrees/verify/deg-wol-daoism-m1-consumed-sources-crosscheck-1026c.md,
+for the supervisor's pending m1 re-review (after the owner's round-5
+repairs, commit aa96d4d57). Van Norden "Wisdom of China: Laozi"
+(lvglQJDrgJI) FULLY CONFIRMED: oEmbed identity, player 50:09 matching
+the module's 0:50:09, upload 6 Nov 2025, chapter list printed in the
+description, and BOTH assigned segment boundaries land exactly on the
+recording's own printed chapters (first segment ends at the Modern
+Science chapter 17:17; second spans exactly the Wuwei chapter
+29:44-34:20); the corrected 21:53 segment total is arithmetically
+right. Ziporyn "Why This Text Matters: Daodejing" (EJ1bB2w2gBk)
+CONFIRMED: oEmbed identity, player 53:36 matching 0:53:36, upload 22
+Mar 2023, full chapter list, first segment ends exactly at the 12:13
+chapter, and the module's cited points 9:19/11:00/15:20 each appear
+at those timestamps. Komjathy "Lundao 1" (_12aeIvlHhM): oEmbed
+identity CONFIRMED (Daoist Foundation channel); watch-page render
+blocked by a js-required page error in this pass (not a paywall), so
+its 1:13:54 duration and key-moments boundaries rest on the owner's
+ledger reads — recorded as the open item for the re-review; the
+13:22 segment total is arithmetically consistent with the module's
+stated boundaries. No discrepancies found among completed checks.
+No module, ledger, band or shared board edited.
+
 ## Worker checkpoint (2026-10-26 05:09Z fresh clock reading, worker-pplx-verify-1026c, verification lane assist, read-only)
 
 M3 CONSUMED-SOURCES CROSS-CHECK: new receipt at
