@@ -2,7 +2,8 @@
 
 Verifier: verifier-96108df3, `deg-verify-b`, 2026-10-26.
 Target: `modules/deg-psychdim/m1-orientation.md` at owner commit
-`2797000ea`. This is a read-only audit of the owner's teaching file:
+`2797000ea`, with subsequent recheck through `f9f1003c0`. This is a
+read-only audit of the owner's teaching file:
 no module edits, gate changes or publication clearance.
 
 ## Disposition
@@ -91,7 +92,8 @@ Accurate attribution and sound instruction are separate checks.
 > The later point estimates are smaller. The authors describe the
 > overlapping intervals as suggesting no significant decline, but
 > overlap alone cannot establish that conclusion. A direct comparison
-> of the coefficients would be needed. For this exercise, report the
+> of the coefficients, accounting for their dependence, would be needed.
+> For this exercise, report the
 > estimates and their uncertainty, and leave the change-over-time
 > question open.
 
@@ -122,12 +124,51 @@ causation; preserve that strength while making the limitation more
 concrete. A noncausal effect does not become individual treatment
 guidance because the example is personally appealing.
 
-The draft's three numerical result sets match the opened primary
+The draft's three numerical result sets are faithful transcriptions of the opened primary
 text: beta 0.216, CI [0.13, 0.30]; beta 0.099, CI [0.04, 0.20];
 beta 0.080, CI [0.01, 0.15], with the stated SE, z and p values
 ([Study 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/)).
 This is a transcription check, not independent reproduction of the
 analysis or a claim that each bootstrap interval was recalculated.
+
+### Partial numerical reproduction, separate from pedagogical clearance
+
+The public
+[OSF project](https://osf.io/a9he8) exposes the data and analysis code;
+the fetch service was robots-blocked, so the public browser preview
+was used to inspect
+[the original Study 1 R file](https://osf.io/a9he8/files/t4gda),
+followed by its public file endpoints. No login or payment was used.
+The reproduction used the downloaded main model string verbatim,
+not an independently invented model.
+
+Environment: R 4.5.2, lavaan 0.6-21. Data file:
+`06. S1_SEM_full_sample.csv`, SHA-256
+`f30c29dedb8a0be7cb7f1d1c6056ff744e33fb24793972346247fb56a49e7708`.
+Original script: `10. SEM.R`, SHA-256
+`82ab2d2204cec949e6e7fa7247f32eb103d9b310cf55f58843eb0ef981e526c7`.
+The script's package-loading, plotting, bootstrap and supplementary
+analysis blocks were not executed; the extracted main model was
+fitted using its stated `missing = "ML"` option
+([public source code](https://osf.io/a9he8/files/t4gda)).
+
+The run recovered 2,000 rows, 577 complete cases and observed
+adherence counts of 1,046, 709 and 577. It reproduced the standardised
+point estimates 0.216, 0.099 and 0.080 and corresponding unstandardised
+Wald z statistics 6.945, 2.995 and 2.355 to reported precision
+([primary study and its public data link](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/)).
+This is partial numerical reproduction, not full replication or
+model validation.
+
+The paper's reported bootstrap intervals were not independently
+reproduced. Analytic standardised SEs are not assumed interchangeable
+with all the paper's displayed inference quantities, and no paper
+error is inferred from small differences. No new cross-wave test was
+run. The quoted intervals remain the authors' reported results,
+not independently reproduced intervals; numerical agreement does
+not validate the CI-overlap teaching
+([published methods](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/);
+[interval interpretation](https://pmc.ncbi.nlm.nih.gov/articles/PMC4877414/)).
 
 ## M1-V04: Teach the EEMM as the chosen frame, not the whole science of living
 
@@ -180,6 +221,63 @@ No explanation of a neurotransmitter or guaranteed training benefit
 is needed to distinguish a level of analysis. Keep all three levels
 as different descriptions worth considering, not a claim that this
 short case supplies a complete causal account.
+
+## M1-V06: Reconcile the fourth required reading with the workload
+
+The source card requires the
+[Woolley article's](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/)
+abstract, introduction, Study 1 and General Discussion. The workload's
+reading component explicitly counts only the two EEMM excerpts and
+Noba. It then allocates 30 minutes to the worked example and faded
+practice, without saying whether that includes the fourth reading.
+The assignment and budget need one consistent boundary.
+
+An independent count of the fetched text gives 1,828 words from
+Abstract to the Study 1 heading (including overview and transparency),
+3,012 words for Study 1 including its follow-up subsections, and 433
+for General Discussion: 5,273 words before any source exercises
+([assigned article](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/)).
+Method: Unicode word tokens, URL destinations and markup removed;
+headings, tables and captions retained. This is an extraction-based
+estimate, not an exact PDF word count or an observed learner time.
+
+At the module's illustrative 180 words/minute rate, those passages
+alone take about 29 minutes of raw reading. At 130 words/minute,
+used for the other research excerpts, they take about 41 minutes;
+both are assumptions, not learner measurements. Do not claim a
+definite extra hour from these counts. Either explicitly budget this
+reading and its study overhead, or narrow it to the exact paragraphs
+and table entries the exercise needs. Do not count the same reading
+twice between source study and worked-example components.
+
+The independently extracted Noba body is 4,977 words before Outside
+Resources; discussion questions and Vocabulary add 670. Maitland 1.4
+is 231 words. These small differences from the owner's approximate
+5,011 and 240 counts are tokenizer/boundary differences, not an
+accuracy objection
+([Noba](https://nobaproject.com/modules/thinking-like-a-psychological-scientist);
+[Maitland](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/)).
+The needed repair is the unbudgeted required assignment and exact
+stopping points, not a demand for spurious word-count precision.
+
+## Recheck after owner commit f9f1003c0
+
+The owner's revision removes the original endorsement sentence about
+following the authors' CI interpretation, removes endorphins and
+guaranteed improvement with every run, and qualifies the three-level
+claim. Those are substantive improvements to the audited draft.
+The remaining statistical wording should still explicitly state that
+overlap alone is not the comparison; “a caution worth carrying”
+leaves that lesson ambiguous.
+
+The unqualified required Noba NHST/glossary assignment, baseline-only
+sample summary, framework-as-causal-levers opening and blanket
+verification wording remain to be adjudicated, alongside the reading
+budget. This recheck records the current draft, not a gate verdict.
+Advisor QC independently corroborated the two statistical findings
+and the bounded framing repairs; its numerical-reproduction advice
+was applied above. No new course topic or extra student statistics
+reading is requested.
 
 ## Next check
 
