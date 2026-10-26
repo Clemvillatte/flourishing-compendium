@@ -1,4 +1,13 @@
 
+## VERIFICATION CHECKPOINT (2026-10-26 01:08Z, sup-1026b — frustration dossier cross-check)
+
+2/2 verbatim on independent re-verification of a dosr1-sampled dossier:
+Seneca De Ira II.III (Stewart trans., Gutenberg — the anger-definition
+span exact; the dossier quotes mid-sentence after "Wherefore") and Wicks,
+SEP Schopenhauer (the Buddhism/desires passage exact). Agent-reported
+results reproduced. Session total 52 verbatim spans across 33 sampled
+pages.
+
 ## VERIFICATION CHECKPOINT (2026-10-26 01:06Z, sup-1026b — gratitude dossier cross-check)
 
 2/2 verbatim on independent re-verification of a dosr1-sampled dossier:
