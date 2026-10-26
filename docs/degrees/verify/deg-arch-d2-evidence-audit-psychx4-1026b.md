@@ -14,7 +14,7 @@ An earlier version of this receipt carried a guessed completion time
 ("13:33Z / T+32"); a fresh clock reading gave 13:24:36Z (T+23:57); corrected
 in place.
 
-## Liveness: 32/36 returned HTTP 200; 2 returned 404; 2 returned other failures
+## Liveness: 32/36 returned HTTP 200; 3 returned 404; 1 request failed (no HTTP status)
 
 - **HTTP 404: http://www.crvp.org/book/Series02/II-1/contents.htm**
   (deg-relational pool — Council for Research in Values and Philosophy volume
@@ -23,10 +23,11 @@ in place.
   (deg-wellbeing pool). Returned 404 during this check; no claim is made
   about the course's status beyond that. Flagged to lane owner for
   substitution.
-- **SCHEME DEFECT (live over HTTPS in this check): the SciELO South Africa
-  article** (deg-relational pool) is cited with http://, which failed this
-  session; the same article URL returned 200 over https:// this session.
-  Recommend the https scheme at the next touch.
+- **SCHEME DEFECT: the SciELO South Africa article** (deg-relational pool)
+  is cited with http:// (and a trailing period); the http requests failed
+  this session; the article URL over https:// returned 200 this session.
+  Recommend the https scheme (and dropping the trailing period) at the
+  next touch.
 - **PATH MIGRATION (status-checked replacement): UCLA MARC mindfulness
   program** (deg-contemplative pool) — cited URL /programs/ucla-marc returned
   404; https://www.uclahealth.org/programs/marc returned 200 this session.
@@ -46,9 +47,9 @@ Four did not return 200 in the original request set:
 - http://www.crvp.org/book/Series02/II-1/contents.htm — HTTP 404
 - https://www.coursera.org/learn/living-with-balance-and-ease — HTTP 404
 - https://www.uclahealth.org/programs/ucla-marc — HTTP 404
-- http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S1015-60462017000200001 — request failed over the http scheme (000)
+- http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S1015-60462017000200001. (the URL exactly as cited in the D2 pool, including its trailing period) — request failed, no HTTP status returned
 
-Follow-up cross-checks (separate from the 36): https://www.uclahealth.org/programs/marc — HTTP 200 (replacement path); the same SciELO article URL over the https scheme — HTTP 200.
+Follow-up cross-checks (separate from the 36 original requests): https://www.uclahealth.org/programs/marc — HTTP 200 (replacement path); the SciELO article URL without the trailing period over http — failed again; the same article URL over the https scheme — HTTP 200.
 
 ## Ruling compliance (owner ruling 622a7eca3 — no encyclopedic reference
 material as degree content)
