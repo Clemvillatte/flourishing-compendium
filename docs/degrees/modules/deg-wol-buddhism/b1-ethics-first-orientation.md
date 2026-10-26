@@ -105,11 +105,11 @@ pages, not the recording).
 
 Assigned segments (from the uploader-set chapter list on the watch page; the
 talk's full transcript was read by the verification lane, receipt B-V04):
-- 27:11-1:01:49, the four-brahmaviharas teaching arc ("4 Brahmaviharas" at
-  27:11 through "Metta to all phenomena, method of Kumarajiva" at 1:01:49),
+- 00:27:11-01:01:49, the four-brahmaviharas teaching arc ("4 Brahmaviharas" at
+  00:27:11 through "Metta to all phenomena, method of Kumarajiva" at 01:01:49),
   about 34 minutes 38 seconds. This is the teaching.
-- 1:09:42-1:33:04, the guided metta practice ("Meditation practice (metta)"
-  at 1:09:42 through "No room for hate" at 1:33:04), about 23 minutes 22
+- 01:09:42-01:33:04, the guided metta practice ("Meditation practice (metta)"
+  at 01:09:42 through "No room for hate" at 01:33:04), about 23 minutes 22
   seconds. Sit with it, or listen once before sitting with it.
 
 The remaining chapters (Q&A from 1:43:12, the Kumarajiva-method and
@@ -220,8 +220,8 @@ where ethics or practice requires a passing mention.
 | resource | status | verified | notes |
 |---|---|---|---|
 | Ajahn Brahm, "Buddhist Values", https://www.youtube.com/watch?v=TpbWVaXBV4c (BSWA channel) | verified-video | 2026-10-26 | duration read 54:16 on this session's watch-page extraction (player-total convention); a second extraction by the verification lane read 54:15, a 1-second discrepancy recorded rather than adjudicated (B-V05); transcript section present on the watch page; talk dated 08-01-2010; content classification from the opened transcript: no rebirth, kamma or cosmology; teaches values from a mindful heart, does not enumerate the precepts |
-| Thanissaro Bhikkhu, "The Five Precepts for the Mind", https://www.youtube.com/watch?v=Nq7YmbYFJkA | verified-video | 2026-10-26 | duration 13:16 (lengthSeconds 796, watch page); introduces the five lay precepts then their mind dimension; credentials opened on the buddho.org biography page (Thai forest kammatthana tradition; student of Ajahn Fuang Jotiko; ordained 1976; Abbot of Metta Forest Monastery since 1993; main AccessToInsight translator); free, CC BY-NC license stated in description |
-| Bhante Dhammadipa, "The Four Immeasurable Minds", https://www.youtube.com/watch?v=svWaWFOpxXw (Metta Centre channel) | verified-video | 2026-10-26 (this session; content upgraded to transcript-read by receipt B-V04, deg-verify-a) | duration 2:09:06 on watch page; upload 2023-03-04; credentials opened on the buddha-haus.de biography page (born Prague 1949; university studies in Slavic studies, Sinology, Indology; ordained 1985 with training in Zen, Theravada and Chinese traditions; monastic stays incl. Burma; associated with Pa Auk Sayadaw; teaching since 1997); full transcript read by the verification lane (B-V04); assigned segments 27:11-1:01:49 and 1:09:42-1:33:04; transcript present on the watch page |
+| Thanissaro Bhikkhu, "The Five Precepts for the Mind", https://www.youtube.com/watch?v=Nq7YmbYFJkA | verified-metadata | 2026-10-26 | duration 13:16 (lengthSeconds 796, watch page); introduces the five lay precepts then their mind dimension; credentials opened on the buddho.org biography page (Thai forest kammatthana tradition; student of Ajahn Fuang Jotiko; ordained 1976; Abbot of Metta Forest Monastery since 1993; main AccessToInsight translator); free, CC BY-NC license stated in description |
+| Bhante Dhammadipa, "The Four Immeasurable Minds", https://www.youtube.com/watch?v=svWaWFOpxXw (Metta Centre channel) | verified-video | 2026-10-26 (this session; content upgraded to transcript-read by receipt B-V04, deg-verify-a) | duration 2:09:06 on watch page; upload 2023-03-04; credentials opened on the buddha-haus.de biography page (born Prague 1949; university studies in Slavic studies, Sinology, Indology; ordained 1985 with training in Zen, Theravada and Chinese traditions; monastic stays incl. Burma; associated with Pa Auk Sayadaw; teaching since 1997); full transcript read by the verification lane (B-V04); assigned segments 00:27:11-01:01:49 and 01:09:42-01:33:04; transcript present on the watch page |
 | AN 5.179 Gihisutta, Sujato translation, https://suttacentral.net/an5.179/en/sujato | verified | 2026-10-26 | the five precepts passage quoted on the opened page; free, anonymous access |
 | Metta Sutta Khp 9, Sujato translation, https://suttacentral.net/kp9/en/sujato | verified | 2026-10-26 | goodwill instructions confirmed on the opened page ("May all beings be happy!"; "With love for the whole world, unfold a boundless heart"); the opened extraction shows no rebirth-dependent material; free, anonymous access |
 | Five-stage loving-kindness method, https://thebuddhistcentre.com/text/loving-kindness-meditation | verified | 2026-10-26 | opened anonymously; the five stages read on the opened page (yourself, good friend, neutral person, someone you dislike, everyone); publisher: the Buddhist Centre (Triratna); the b1 sitting guide is this module's timed application of that method |
