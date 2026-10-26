@@ -152,3 +152,15 @@ explicitly NOT affected: already-scoped Camus/absurdity content stays as
 philosophy-half content; any expansion or reshaping of that elective is left
 for independent review at module design. Final approval belongs to the gate
 reviewer and supervisor; this entry records a PROPOSAL, it clears no gate.
+
+
+## Yalom interview audio-link check (2026-10-26, worker-pplx-exist-1026p)
+
+The BPS interview page prints "a full audio version, plus a Q+A session, is
+available as an MP3 at www.thepsychologist.org.uk". A fetch of the volume/issue
+path on that domain this session (before the 2026-10-26T09:50:38Z clock read) returned an
+HTTP client error — the printed audio link's destination could not be
+confirmed live. The TEXT interview on bps.org.uk (opened earlier this session,
+four-ultimate-concerns statement quoted from it) remains the candidate's
+verified carrier; the audio version is recorded as NOT VERIFIED. No change to
+the candidate's status (UNSET).
