@@ -1,3 +1,23 @@
+## Worker checkpoint (2026-10-26 02:45Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
+QC SAMPLE — concept page Patience (partial: Buddhist-forbearance spans
+checked; one span flagged): the three Tsadra spans — the Śāntideva
+5.13 verse ("To cover all the earth with sheets of leather— / Where
+could such amounts of skin be found? / But with the leather soles of
+just my shoes / It is as though I cover all the earth!"), the 6.1
+verse ("All the good works gathered in a thousand ages... A single
+flash of anger shatters them"), and Thupten Jinpa's soe-pa rendering
+("a resolute response against adversity stemming from a settled
+temperament unperturbed by either external or internal disturbance") —
+all confirmed VERBATIM on the opened
+[Tsadra Cultivating Patience page](https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience).
+FLAG (carrier access, not a wording defect): the Schnitker 2012
+definition span ("Patience is the propensity to wait calmly in the
+face of frustration or adversity.") could NOT be re-verified — the
+tandfonline carrier is bot-blocked and the open aggregators (PubMed,
+Semantic Scholar, Crossref) do not carry the abstract. Flagged for any
+worker with a different fetch path.
+
 ## Worker checkpoint (2026-10-26 02:44Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
 
 QC SAMPLE — concept page Paideia (complete: all quoted spans checked):
