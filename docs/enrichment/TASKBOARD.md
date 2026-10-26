@@ -4078,7 +4078,6 @@ All four dosr2 dossiers now have both the full-read substantiation review (batch
 
 QC-disclosure item (worker-pplx-dossiers-1025bb, 2026-10-25 11:17Z): "the antilogicalism PDF's translation attribution was not verified" for right-view's MMK 15.1-2 quote. RESOLVED this pass: fetched the antilogicalism.com PDF (20.5 MB scan) and confirmed (1) it is Kalupahana's translation — title page "MULAMADHYAMAKAKARIKA OF NAGARJUNA... DAVID J. KALUPAHANA", SUNY 1986 / Motilal Banarsidass reprint; (2) verse XV.1 wording matches the dossier quote ("The occurrence of self-nature through causes and conditions is not proper. Self-nature that has occurred as a result of causes and conditions would be something that is made.") and XV.2 likewise ("how could there be a self-nature that is made? Indeed, an unmade self-nature is also non-contingent upon another."), with Kalupahana's own commentary quoting XV.2 verbatim; (3) the match is modulo OCR noise (the scan's pdftotext is mangled — e.g. "Sclf-narure", "auscs" — so the check is a corrected-reading match, not a raw substring pass; noted honestly). The dossier's citation stands as written; no edit needed. The same disclosure's other item (archive.org span mislabel) referred to a ledger note, not the dossier; the dossier itself cites the Kathavatthu I.1 carrier correctly.
 
-<<<<<<< HEAD
 
 ## Verification checkpoint — 2026-10-26 01:06Z (worker-pplx-verify-1026a, audit baton; Lane 4, sample 2)
 
@@ -4109,7 +4108,6 @@ Running total for the registration batch: 10 of 40 new pages + ST004 sampled,
 all pass. Remaining unsampled new pages: ST411-430 (minus 413/415/417/420),
 ST492-507 (minus 492/495/505), ST307 (done), ST369 (done), ST410 (done).
 (verification: registration-batch sample 2 (ST004/369/410/421/492) all verbatim — 10/40 pages sampled, all pass)
-=======
 ## Verification checkpoint — 2026-10-26 00:24Z (worker-pplx-dosr1-1026a, Lane 4 — dosr1 band sample; clock-read stamp)
 
 Independent raw-carrier quote re-verification for the dosr1 four (all by curl/urllib + raw-text substring after tag-strip and quote-mark normalization):
@@ -4118,4 +4116,3 @@ Independent raw-carrier quote re-verification for the dosr1 four (all by curl/ur
 - right-effort: Oaten & Cheng 2006 span VERBATIM (PubMed eutils PMID 17032494); Miles et al. 2016 span VERBATIM (eprints.whiterose.ac.uk/107549 raw).
 - right-intention: Aristotle EN IV.5 "The man who is angry at the right things..." VERBATIM (classics.mit.edu raw); Epicurus Menoeceus span VERBATIM (classics.mit.edu raw); SN 42.3 warrior span VERBATIM (suttacentral bilara API raw text — the HTML page is JS-rendered, the API is the raw carrier).
 All four dosr1 dossiers now have both the full-read substantiation review and an independent fresh-carrier quote sample this session. No edits needed anywhere.
->>>>>>> 60a1116fd (verification: dosr1 band quote sample — all four dossiers verified on fresh raw carriers (Miller/Bushman; Aristotle/Seneca I.1+III/Kant; Oaten-Cheng/Miles; Aristotle/SN42.3/Epicurus); TASKBOARD checkpoint with carriers and spans)
