@@ -115,10 +115,12 @@ your own notes.
 ## Practice
 
 **Goodwill sitting, 10 minutes, twice, following this written guide.** The
-guide is the module's own timed sequence, adapted from the Metta Sutta's
-instructions; the sutta supplies the orientation ("With love for the whole
-world, unfold a boundless heart"), and the sequence below is the module's
-application of it:
+guide follows the five-stage loving-kindness method published on the
+Buddhist Centre's opened practice page
+(https://thebuddhistcentre.com/text/loving-kindness-meditation: yourself,
+a good friend, a neutral person, someone you dislike, everyone); the Metta
+Sutta supplies the orientation ("With love for the whole world, unfold a
+boundless heart"), and the timings below are this module's application:
 
 1. (0:00-1:00) Sit comfortably, settle the breath, and let the body arrive.
 2. (1:00-3:00) Yourself: "May I be happy. May I be at ease."
@@ -127,7 +129,7 @@ application of it:
    same phrases.
 5. (7:00-9:00) One person you find difficult, same phrases, at whatever
    honesty you can manage. A mechanical repetition is acceptable here.
-6. (9:00-10:00) All beings: "May all beings be happy."
+6. (9:00-10:00) Everyone: "May all beings be happy."
 
 A second sitting is required, ideally a day or two after the first. The record
 asks you to note whether you followed the sequence and what you observed;
@@ -212,6 +214,7 @@ where ethics or practice requires a passing mention.
 | Bhante Dhammadipa, "The Four Immeasurable Minds", https://www.youtube.com/watch?v=svWaWFOpxXw (Metta Centre channel) | verified-video, content classification INCOMPLETE | 2026-10-26 | duration 2:09:06 on watch page; upload 2023-03-04; credentials opened on the buddha-haus.de biography page (born Prague 1949; university studies in Slavic studies, Sinology, Indology; ordained 1985 with training in Zen, Theravada and Chinese traditions; monastic stays incl. Burma; associated with Pa Auk Sayadaw; teaching since 1997); the four-immeasurables classification currently rests on the recording's own description and awaits transcript inspection; segmentation owed |
 | AN 5.179 Gihisutta, Sujato translation, https://suttacentral.net/an5.179/en/sujato | verified | 2026-10-26 | the five precepts passage quoted on the opened page; free, anonymous access |
 | Metta Sutta Khp 9, Sujato translation, https://suttacentral.net/kp9/en/sujato | verified | 2026-10-26 | goodwill instructions confirmed on the opened page ("May all beings be happy!"; "With love for the whole world, unfold a boundless heart"); the opened extraction shows no rebirth-dependent material; free, anonymous access |
+| Five-stage loving-kindness method, https://thebuddhistcentre.com/text/loving-kindness-meditation | verified | 2026-10-26 | opened anonymously; the five stages read on the opened page (yourself, good friend, neutral person, someone you dislike, everyone); publisher: the Buddhist Centre (Triratna); the b1 sitting guide is this module's timed application of that method |
 
 All links resolve for an anonymous visitor. No paywalled or app-gated content.
 Video-first policy applied: the module's teaching spine is three verified

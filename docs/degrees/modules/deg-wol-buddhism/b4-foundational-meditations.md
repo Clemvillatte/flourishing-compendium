@@ -29,13 +29,14 @@ repetition.
    posture, and why they fit your life (from the session-1 teaching,
    06:08-16:30).
 2. Execute the guided meditation from session 1 (20:32-33:55) start to
-   finish, following the guidance rather than improvising.
-3. Complete the two-week training plan: six sittings of at least ten
+   finish, following the guidance rather than improvising, and log the
+   execution with any departures from the instructions named.
+3. Complete the two-week training plan: seven sittings of at least ten
    minutes each, on a schedule you set in advance, each logged with one
-   line (date, duration, one observation; "nothing notable" is a valid
-   entry).
+   line (date, resource and segment, guided or unguided, completion, one
+   observation; "nothing notable" is a valid entry).
 4. State in two sentences what changed (or did not change) across your
-   six logged sittings, and what you would adjust in the next two weeks.
+   seven logged sittings, and what you would adjust in the next two weeks.
 
 ## Instruction sequence
 
@@ -61,29 +62,37 @@ execution. Log it: date, duration, one line.
 
 ### Step 3 — The training plan (two weeks, scheduled)
 
-Six sittings minimum, on a written schedule you set before starting:
-- Week one: the guided meditation segment twice more (20:32-33:55), plus
-  one metta sitting from b1 (the 10-minute written guide).
-- Week two: two unguided sittings of at least ten minutes, using the
-  setup plan and beginning as the guided sessions began; plus one more
-  metta sitting.
-Each sitting gets one log line. The log is the assessed record; the
-schedule is set in advance so the practice carries the plan, and the plan
-carries the practice.
+Seven sittings, on a written schedule you set before starting:
+- Three guided sittings: the session-1 guided segment (20:32-33:55),
+  the first of which is Step 2, plus two more in week one and early week
+  two.
+- Two metta sittings (10 minutes each), following the five-stage
+  loving-kindness method on the Buddhist Centre's opened practice page
+  (https://thebuddhistcentre.com/text/loving-kindness-meditation):
+  yourself, a good friend, a neutral person, someone you dislike, then
+  everyone. Each stage roughly two minutes for a beginner.
+- Two unguided sittings of at least ten minutes, using the setup plan
+  and beginning as the guided sessions began.
+Each sitting gets one log line. The alternating of breath and metta work
+  is this course's design choice for an introductory module; the log is
+  the assessed record.
 
 ### Step 4 — Spaced reading (one page, once in each week)
 
 **Metta Sutta, Khp 9 (Sujato translation on SuttaCentral,
 https://suttacentral.net/kp9/en/sujato).** One reading per week, to keep
-the goodwill orientation beside the breath work. The two practices are
-companions in this walk; the cmp practicum will take both further.
+the goodwill orientation beside the breath work. The metta sittings in
+the plan follow the five-stage method named in Step 3; the sutta supplies
+the boundless-heart orientation that method serves.
 
 ## Assessment
 
 The assessed deliverable is the practice packet:
 1. Your setup plan (three lines with reasons).
 2. Your written schedule (set before week one).
-3. The sitting log (six lines minimum, dated).
+3. The sitting log (seven lines minimum, each dated, with these fields:
+   resource and segment used, guided or unguided, completed or departed
+   from the instructions, one observation).
 4. The two-sentence change statement (outcome 4), with your adjustment
    plan for the next two weeks.
 
@@ -93,7 +102,8 @@ Rubric (observable):
 |---|---|---|
 | setup plan | three concrete choices with reasons tied to your life | generic advice copied from the talk |
 | schedule | written before the sittings, realistic, kept or amended with a note | schedule written after the fact |
-| log | six dated lines, each with a duration and one observation | undated entries, or fewer than six |
+| log | seven dated lines with resource/segment, guided-unguided, completion and one observation each | undated entries, fewer than seven, or lines with no resource named |
+| guided execution | the three guided sittings logged as completed with any departures named | guided sittings skipped or logged without evidence of following the guidance |
 | change statement | two sentences naming what shifted or did not, plus one adjustment | "I feel calmer" with no reference to the log |
 
 Self-assessment: one line on whether the guided or unguided sittings were
@@ -101,28 +111,32 @@ harder for you, and your guess why. That line is part of the module.
 
 ## Boundaries and passing mentions
 
-This module teaches breath meditation and metta in the Thai Forest
-register. It does not teach jhana attainment claims, does not compare
-schools' techniques (b5-b7), and makes no efficacy claims beyond what
-the teacher states as his own experience; the learner's own log is the
-module's evidence base. No rebirth-dependent doctrine appears in the
-assigned segments; the full series' later sessions are not attached
-(each session needs its own verification before attachment, per the
-verification lane's receipt note).
+This module teaches breath meditation and metta in the Thai Forest and
+Triratna registers respectively. It does not compare schools' techniques
+(b5-b7), and makes no efficacy claims beyond what the teachers state as
+their own experience; the learner's own log is the module's evidence
+base. Content verification for the Brahmali recording is PARTIAL: the
+chapter timestamps above were read from the recording's own description,
+and no transcript of the recording was accessible this session; the
+"breath meditation" classification of the guided segment and the absence
+of rebirth-dependent content in the assigned segments are therefore
+PENDING a transcript inspection, as is caption availability. No rebirth-
+dependent doctrine appears in the chapter structure or description; the
+full series' later sessions are not attached (each session needs its own
+verification before attachment, per the verification lane's receipt
+note).
 
 ## Workload arithmetic
 
 - Measured media: session 1 whole recording 0:33:55, assigned in two
-  bounded segments (00:00-20:32 teaching; 20:32-33:55 guided meditation),
-  with the guided segment executed at least three times across the plan
-  (13:23 × 3 = 40:09 of guided practice).
-- Estimated: two Metta Sutta readings (~200 words each, ~2 m each);
-  six sittings logged (2 × 13:23 guided beyond the first execution,
-  1 × 10 m metta, 2 × 10 m unguided = about 57 m of sitting in the plan
-  beyond step 2); setup plan and change statement ~25 m. Estimates
-  labelled as estimates.
-- Module total: about 2 h 10 m spread across two weeks (the sitting time
-  is the point of the module; the calendar is the workload).
+  bounded segments (00:00-20:32 teaching, executed once; 20:32-33:55
+  guided meditation, executed three times = 40:09).
+- Estimated: two metta sittings 2 × 10 m and two unguided sittings
+  2 × 10 m = 40:00; two Metta Sutta readings and the written work
+  (setup plan, schedule, change statement) ~29:00. Estimates labelled as
+  estimates.
+- Module total: about 2 h 10 m spread across two weeks (sum of the
+  components above: 2:09:41).
 
 ## Sources (verification status)
 
@@ -131,6 +145,7 @@ verification lane's receipt note).
 | Ajahn Brahmali, "Introduction to Meditation: Session 1", https://www.youtube.com/watch?v=dyUCvFlDL8w (BSWA channel) | verified-video | 2026-10-26 (this session) | duration 0:33:55 on watch page; chapter timestamps printed in the description (00:00-20:32 listed above; guided meditation chapter at 20:32); recorded at Dhammaloka Buddhist Centre, Perth; free, BSWA copyright; credentials opened on the BSWA teacher page (https://bswa.org/teachers/ajahn-brahmali/): anagarika at Amaravati and Chithurst; ordained bhikkhu 1996 with Ajahn Brahm as preceptor; at Bodhinyana Monastery since 1994; Maha Thera since 2015 |
 | BSWA series index page, https://bswa.org/teaching/introduction-meditation-series-parts-1-5-ajahnbrahmali/ | verified | 2026-10-26 (deg-verify-a receipt B-V03; re-opened this session) | five-session series dated 5 March 2023; sessions 2-5 NOT attached (each needs per-session verification before attachment, per the receipt's caveat) |
 | Metta Sutta Khp 9, Sujato translation, https://suttacentral.net/kp9/en/sujato | verified | 2026-10-26 (this session, b1) | see b1 source table |
+| Five-stage loving-kindness method, https://thebuddhistcentre.com/text/loving-kindness-meditation | verified | 2026-10-26 (this session) | opened anonymously; the five stages (yourself, good friend, neutral person, someone you dislike, everyone) read on the opened page; publisher: the Buddhist Centre (Triratna) |
 
 No paywalled or app-gated content. Video-first policy applied: the
 module's spine is a verified teaching video with bounded, timestamped

@@ -330,3 +330,27 @@ Harvested and opened by the production owner to unblock m3/m5/m6. YouTube video 
 - Assessment: the natural Secular Buddhism source (university-hosted lecture; the search-snippet description matches the degree's frame of a pragmatic, ethical Buddhism oriented to human flourishing). STATUS: candidate; video-page verification owed.
 
 Priority for the verify lane: (1) Fronsdal AudioDharma/IMC video mirrors; (2) Kirchner lecture recordings; (3) Batchelor lecture page. All three carry institutional-page credentials verification already.
+## Advisor QC round 2 on b4 + b1 metta anchor (2026-10-26 ~05:02Z, worker-pplx-buddhism-1026a)
+
+b4 QC applied: sitting count corrected to seven (3 guided + 2 metta + 2
+unguided) with the workload sum restated (2:09:41); assessment log fields
+specified (resource/segment, guided-unguided, completion, departures) and a
+guided-execution rubric criterion added; Brahmali session-1 content
+verification marked PARTIAL (chapters from the recording's own description;
+no transcript accessible this session; captions not indicated; breath-
+meditation classification of the guided segment pending); ornamental
+phrasing removed. The metta sequence in b1's written guide and b4's metta
+sittings is now anchored on an OPENED authoritative method: the five-stage
+loving-kindness practice page at
+https://thebuddhistcentre.com/text/loving-kindness-meditation (opened this
+session; stages: yourself, good friend, neutral person, someone you
+dislike, everyone; publisher the Buddhist Centre, Triratna), replacing the
+module-invented sequence. A guided metta AUDIO candidate was found and
+parked: Ajahn Sujato guided metta (BSWA teaching page
+https://bswa.org/teaching/guided-meditation-14-july-2018/, opened this
+session; free podcast download; sequence self-loved one-all beings, no
+neutral/difficult stages; duration NOT printed on the page, so it cannot
+be assigned under the skill until the duration is verified — parked as a
+BG-2-adjacent candidate). Band-file "updated" timestamps of 05:20:00Z
+written earlier this session are projections and withdrawn; the measured
+session clock read ~04:54:30Z at the b4 push (d69cbc405).
