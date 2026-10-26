@@ -350,9 +350,10 @@ text, assigned excerpt opened and read on 2026-10-26, word count
 measured), Maitland 2024 (verified text, section 1.4 read on
 2026-10-26, word count measured), the Noba module (opened on
 2026-10-26; byline Erin I. Smith confirmed on the module page; the
-scientific-versus-everyday-reasoning section read this pass; the
-remaining sections' topic coverage rests on the ledger's 2026-10-25
-batch-2 verification), and
+scientific-versus-everyday-reasoning, falsifiability, hypothesis-
+testing design, NHST and Type I and II error sections read this pass;
+the remaining sections' topic coverage rests on the ledger's
+2026-10-25 batch-2 verification), and
 Woolley, Giurge and Fishbach 2025 (verified text; all quoted statistics
 read on the opened PMC page on 2026-10-26). All are free to access with no paywall. No video resources are attached to this module,
 so no segment durations apply. No imported labels remain on attached
