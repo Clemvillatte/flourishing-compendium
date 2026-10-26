@@ -81,7 +81,25 @@ A university teaches an entire course on the Zhuangzi alone; our current "The Zh
 
 ---
 
-## Status & routing
+## Status & routing — ALL degrees, no exceptions
 
-- Measured against the real standard (owner correction, 2026-10-26): deg-wol-daoism = 110 min of assigned video across 12 assignments + unscaffolded primary texts; deg-wol-pragmatism = 101 min; deg-psychdim = 195 min; deg-wol-buddhism = 613 min. All four are structurally sound (0 gate defects) but **under-scale and under-taught**: they are curated reading lists with a video garnish, not degrees. They stay published (publish-then-review) but are flagged in their data blocks: `"scale": "pilot — curriculum-architecture rebuild pending"`.
-- Next wave (owner launches): `deg-arch-inventory` (Phase D1 per degree, 4 parallel workers), then `deg-arch-build` (D2–D4). Schema/text/content lanes from AUDIT-2026-10-26 remain available but are secondary.
+Owner clarification (2026-10-27): Daoism was an EXAMPLE. The standard applies to every degree in the compendium. Measured real instruction hours per degree (2026-10-27 gate run):
+
+| Degree | Modules | Measured hours |
+|---|---|---|
+| deg-philosophy | 6 | 0.0 |
+| deg-contemplative | 6 | 1.0 |
+| deg-relational | 4 | 2.5 |
+| deg-mind | 5 | 0.0 |
+| deg-wellbeing | 4 | 2.0 |
+| deg-therapeutic | 4 | 3.0 |
+| deg-psychology-101 | 1 | 0.0 |
+| deg-qigong | 12 | 1.5 |
+| deg-cmp | 12 | 3.5 |
+| deg-psychdim | 8 | 3.8 |
+| deg-wol-daoism | 5 | 2.1 |
+| deg-wol-buddhism | 9 | 11.2 |
+| deg-wol-pragmatism | 5 | 3.1 |
+| deg-wol-greek / existentialism / positive | 0 | (in development — build to this standard from the start) |
+
+No degree currently meets the standard. The rebuild wave covers ALL of them: `deg-arch-inventory` (Phase D1 per degree — batch by lane, e.g. wol-x5, psych-x4, well-x3, remaining), then the D2 checkpoint, then `deg-arch-build` (D2–D4). Degrees that cannot reach the floors with reputable on-matrix verified material are DROPPED per owner ruling — reported to the owner with the specific unfillable rows, not padded.

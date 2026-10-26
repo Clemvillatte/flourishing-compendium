@@ -2,9 +2,10 @@
 
 The structural repair wave above is CLOSED (all six fix-list items verified,
 gate at 0 defects). The owner then ruled (2026-10-26) that a **degree = full
-exhaustive foundational coverage of a discipline** — the current four are
-pilot-scale reading lists, not degrees (Daoism: ~2 h of measured instruction
-plus unscaffolded primary texts). The binding standard, workflow, and
+exhaustive foundational coverage of a discipline** — and clarified
+(2026-10-27) that **Daoism was an example only: the rebuild covers ALL 16
+degrees** (measured 0.0–11.2 h each; see the spec's status table), not just
+the four audited ones. The binding standard, workflow, and
 anti-gaming safeguards live in
 **docs/degrees/CURRICULUM-ARCHITECTURE-1026.md** — read it before touching
 any degree. Key points:
@@ -19,8 +20,9 @@ any degree. Key points:
 - **D2 CHECKPOINT IS MANDATORY**: the D1 topic map and filled D2 matrix must
   be reviewed (owner or degrees-strategist) BEFORE any Phase D3 mass
   integration. No exceptions.
-- Suggested lanes: `deg-arch-inventory` (Phase D1 per degree, 4 parallel:
-  topic map from ≥3 university syllabi + coverage matrix), then
+- Suggested lanes: `deg-arch-inventory` (Phase D1 per degree — ALL 16 degrees,
+  batched by lane, e.g. wol-x5, psych-x4, well-x3, remaining; the three
+  in-development degrees are built to this standard from the start), then
   `deg-arch-build` (D2 resource pool + D3 modules, only after checkpoint).
 - A degree that cannot reach the floors with reputable on-matrix verified
   material is DROPPED per owner ruling — reported, not padded.
