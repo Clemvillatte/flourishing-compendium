@@ -619,3 +619,30 @@ this session — 37 false positives confirmed (the Craftsmanship span, the
 two scispace spans and the two suttacentral spans remain blocked), 2
 genuine deviations repaired and pushed (Hayes semicolon; Goyal
 "reductions in"), 0 known outstanding deviations.
+
+# Final tally correction (governs all earlier tallies) (2026-10-26 02:48:36Z, measured in-command)
+
+The running tallies in samples 16-20 drifted as later confirmations landed
+and must be disregarded; this entry is the authoritative recount, itemised
+from the samples above.
+
+Automated NOT FOUNDs adjudicated this session, counted by verifier item
+(45 items in total):
+
+- Earlier pass (samples 1-5 and the cognition/attention/right-view/
+  right-mindfulness adjudications): 10 items — 8 false positives, 2
+  genuine deviations repaired and pushed (Hayes semicolon; Goyal
+  "reductions in"), 0 blocked.
+- This pass (samples 8-20): 35 items — 30 false positives confirmed
+  (right-intention 2; gratitude 7, including the three Algoe spans via
+  Wiley abstract text; right-effort 4; sadness-and-grief 1; creativity 8;
+  creation 5, including the Conner span via the APA PsycNET record;
+  procrastination 3, including the Davidson and Chowdhury spans), 5 items
+  not confirmable from this environment (SN 42.3; Milindapanha 3.1.1; the
+  two scispace spans; the Craftsmanship span — all on hosts that block
+  automated fetchers, none known or suspected deviations).
+
+Session totals: 45 items — 38 false positives confirmed, 2 genuine
+deviations repaired and pushed (registry rebuilt both times), 5
+adjudication gaps on blocked hosts flagged for any future eye-check,
+0 known outstanding deviations.
