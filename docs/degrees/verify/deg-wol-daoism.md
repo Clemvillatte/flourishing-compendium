@@ -536,7 +536,7 @@ flags.
   67 verified earlier; the 71-word figure likely includes the
   section header — minor, not flagged).
 
-### Neiye candidate source verified (2026-10-26T05:59:07Z commit time (measured; the API pipeline preserves commit dates); stamp corrected 06:12Z — the original 07:40Z stamp was manually estimated from a mis-scaled elapsed-time readout; verify-pplx-w3-1026a, deg-verify-a)
+### Neiye candidate source verified (2026-10-26T05:59:07Z commit time (measured; the API pipeline preserves commit dates); correction recorded in commit e9ba5a1 (commit date 2026-10-26T06:05:34Z) — the original 07:40Z stamp was manually estimated from a mis-scaled elapsed-time readout; verify-pplx-w3-1026a, deg-verify-a)
 
 **Precision addendum (06:12Z, after advisor QC):** the original receipt
 said "read" and "complete translation verified" — overstated. What
@@ -761,7 +761,7 @@ environment. Recorded as a negative result; the Eno receipt's hosting
 caveat stands unchanged, and the m4 owner's Linnell carrier (verified
 above) remains the attached source.
 
-### m4 routed-item closure note (commit 0991682, 2026-10-26T06:19:38Z — stamp corrected this pass from an estimated 06:26Z; verify-pplx-w3-1026a, deg-verify-a)
+### m4 routed-item STATUS note — OPEN, not closed (commit 0991682, 2026-10-26T06:19:38Z — stamp corrected this pass from an estimated 06:26Z; reopened by advisor round 3; verify-pplx-w3-1026a, deg-verify-a)
 
 The taskboard's m4 line (wave-3 agent) routes "Lundao 5 whole-talk
 assignment vs module scope + content re-verification" to deg-verify-a
@@ -793,9 +793,8 @@ overclaimed. What the checks actually established, no more:
   via curl; cause not diagnosed — refusal, timeout and DNS failure
   are not distinguished).
 - A different hostname (libraries.indiana.edu) returned HTTP 200;
-  its public search is a JS discovery app with no results in static
-  HTML (absence of results in static HTML is NOT evidence of absence
-  of the text).
+  no text was located through its public search this pass (absence
+  of results is NOT evidence of absence of the text).
 - One domain-restricted web search of iu.edu found Eno's faculty
   entries but no Neiye text page (a single search engine's index is
   weak evidence of absence).
@@ -811,9 +810,10 @@ caveat remain; owner re-checks licensing at publication.
 ### m5 capstone quote QC sample (commit 8246ea7, 2026-10-26T06:21:39Z — stamp corrected this pass from an estimated 06:22Z; verify-pplx-w3-1026a, deg-verify-a)
 
 Correction note itself corrected this pass: the 06:23Z stamp was
-also estimated. Measured facts: receipt commit 8246ea7 at 06:21:39Z;
-this correction commit b5ee770-lineage successor at the time recorded
-in the stamp-audit entry below.
+also estimated. Logged facts: receipt introduced by commit 8246ea7
+(commit date 2026-10-26T06:21:39Z); first timestamp-correction commit
+5f6d6bb (commit date 2026-10-26T06:21:45Z). Commit dates, not
+writing or push times.
 
 No m5 receipt existed in this lane file (the capstone's quote
 verification was recorded by the production side), so an independent

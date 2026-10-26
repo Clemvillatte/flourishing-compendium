@@ -877,7 +877,7 @@ retrieved (2026-10-26T05:26Z; corrected 05:31Z per advisor QC)
   PRIMARY-SOURCES.md, a human-checked print or broadcast transcript)
   — not an auto-caption track.
 
-### B-V23 — independent corroboration pass + two findings (2026-10-26T05:57:53Z commit time (measured; the API pipeline preserves commit dates); stamp corrected 06:10Z — the original 07:25Z stamp was manually estimated from a mis-scaled elapsed-time readout; verify-pplx-w3-1026a, deg-verify-a)
+### B-V23 — independent corroboration pass + two findings (2026-10-26T05:57:53Z commit time (measured; the API pipeline preserves commit dates); correction recorded in commit e9ba5a1 (commit date 2026-10-26T06:05:34Z) — the original 07:25Z stamp was manually estimated from a mis-scaled elapsed-time readout; verify-pplx-w3-1026a, deg-verify-a)
 
 **FINDING-DOWNGRADE addendum (06:10Z, after advisor QC):** the two
 "NEW FINDING" items below were downgraded on re-review — (1) the
