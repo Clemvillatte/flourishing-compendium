@@ -589,3 +589,12 @@ Sources (the hyphenated line break at "oak-tree" and the page number "21"
 inside the "great size that I am" sentence) — the printed text is
 continuous. story_check --context published: 0 errors (temp-copy method,
 live page untouched).
+
+2026-10-26 ~00:31Z storyteller-pplx-s1a-1026b: FIFTH RUNG-4 UPGRADE PREPARED AND
+ROUTED — s1a-080-upgrade-ST009.md (ST009 legacy page, no verbatim quotes, no
+Sources). Five verbatim quotes from Zhuangzi, Enjoyment in Untroubled Ease
+(Book I) §6, Legge 1891 (opened METIS ETH Zurich PDF, 2026-10-26);
+mapping-honesty pattern applied: D019/D020/D021 and D059 left unjustified —
+retain/remove decisions requested; P019 justified from the salve story's
+consequence test. story_check --context published: 0 errors (temp-copy
+method, live page untouched).
