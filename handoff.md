@@ -1,3 +1,7 @@
+## 2026-10-26 (deg-fix-schema 1026b): item 2 retracted, item 6 applied, receipts
+
+PRAG-M4-01 keeps one 778-word passage (the 476-word passage is PRAG-M4-02, per m4 doc Step 2), now corrected in both the module locator and the source record. PD-M1-07 restored to psychdim m8 as capstone-return. After any rebase conflict on site/assets/app.js, take upstream and re-run scripts/degrees_apply_assignments.py for all four degrees. Receipt: docs/degrees/integration/receipt-1026b-schema-lane-2026-10-26.md.
+
 ## 2026-10-26 ~11:50Z (timestamp corrected from an earlier 12:40Z estimate) — supervisor-1026z: PHASE A/D DATA PASS + DURATIONS LANDED; AUDIT 159 -> 4 (only wiki_readings left)
 
 Replayed the deg-fix-schema assignment-schema pass on the merged worker state
