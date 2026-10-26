@@ -1515,14 +1515,14 @@ democracy, L3) and m5 (the L4 capstone, written defended synthesis).
 Both DRAFT, NOT CLEARED; routed to supervisor module-QC. The
 deg-verify-b receipt confirms m4's three sources, passage boundaries
 and the HNC TOC ruling; the word-count delta it notes (A 774 vs the
-module's 778) is a small discrepancy between the reported counting
-methods, since explained by the lane (plain text 778 as the module
-states, HTML-cleaned methods spread 757-780, boundaries identical;
-ledger entry 2026-10-26). Later same session: the lane ran
-whole-band verification passes, all pushed with ledger entries
-(quote spans m1-m5 re-verified verbatim on opened sources; reading
-counts and workload arithmetic re-verified; m1 advisor round 3
-applied; cited links all live); m4/m5 verification sections now cite
+module's 778) stands unresolved: the plain-text 778 was reproduced by
+the lane, the verifier's 774 was not, and the cause is unestablished
+(ledger, 2026-10-26). Later same session: the lane ran verification
+passes over the whole band, pushed with ledger entries, and an
+advisor-corrected record narrows their claims (specific spans
+checked, not all quotes; reproduced figures with unresolved
+differences, no cause claims; links narrowed to the HTTP-checked
+set); m1 advisor round 3 applied; m4/m5 verification sections cite
 their deg-verify-b receipts. m1's pending media items (Philosophy
 Talk playback/captions, Misak playback/captions) remain with the
 supervisor per the deg-gate verdict #4 routing; nothing blocks QC

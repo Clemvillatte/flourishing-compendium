@@ -96,7 +96,7 @@ measured on the same rendered text, page-split words joined and
 verified joined). Finally read Reading B3 from
 [Lecture VI, "Pragmatism's Conception of
 Truth"](https://en.wikisource.org/wiki/Pragmatism:_A_New_Name_for_Some_Old_Ways_of_Thinking/Lecture_VI)
-of the same book: the five selections quoted in full in the Step 2
+of the same book: the four selections quoted in full in the Step 2
 teaching below (157 words measured on the printed selections; the
 selections are noncontiguous passages of the lecture), which carry the
 fuller account Lecture II explicitly defers ("To answer this
@@ -119,7 +119,7 @@ supplies what that qualifier comes to. First, the process:
 Truth happens to an idea. It becomes true, is made true by events",
 and "True ideas are those that we can assimilate, validate, corroborate
 and verify. False ideas are those that we can not." Second, the
-long-run constraint: "The true, to put it very briefly, is only the
+long-run constraint: "'The true,' to put it very briefly, is only the
 expedient in the way of our thinking... expedient in the long run and
 on the whole of course; for what meets expediently all the experience
 in sight won't necessarily meet all farther experiences equally
@@ -358,7 +358,7 @@ The module attaches three sources:
   passages measured on it (Lecture II: 952 and 264 words between the
   pinned boundaries; the zero-width-space marks were inspected: B1's
   sit between complete words and are read as separators, B2's single
-  mark splits "sup posed" and is joined; Lecture VI: the five printed
+  mark splits "sup posed" and is joined; Lecture VI: the four printed
   selections, 157 words); the quoted passages were
   confirmed verbatim on the extracted text.
 - Misak, Cambridge Pragmatism (Royal Institute of Philosophy lecture,

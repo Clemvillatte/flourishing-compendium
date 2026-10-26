@@ -435,9 +435,16 @@ only up to its ellipsis, as in m1.
 Video-first check: a focused search for a credentialed lecture video
 covering this module's material found candidate groups recorded in the
 ledger (Bernstein on Dewey; Sprintzen on Dewey; UCSC PHIL 112 on
-Dewey), none of which is verified to the media standard: identity and
-presenter credentials were confirmed for the candidates, but playback,
-captions, coverage and measured durations remain uninspected. The
+Dewey), none of which is verified to the media standard: identity is
+confirmed for the candidates and presenter credentials for Bernstein
+and Sprintzen, but the UCSC instructor's institutional verification
+remains open, and playback, captions and measured durations remain
+uninspected for all of them. Coverage: the deg-verify-b coverage
+receipt records strong transcript-level evidence for the Bernstein
+candidate on this module's topics (inquiry, democracy,
+deliberation, quoted as ASR text in the receipt) and no coverage
+evidence for the other three; the receipt offers that evidence for a
+module decision, and no such decision has been taken. The
 third-party transcript route used for the m1 and m3 videos was
 attempted twice this session on the Bernstein candidate only, and
 failed both times with server errors. No video carries an outcome;
@@ -448,12 +455,13 @@ ledger for the verifier lane with the exact missing checks named
 Independent corroboration: the deg-verify-b lane's receipt
 (docs/degrees/verify/deg-wol-pragmatism-m4-sources-1026f.md, 2026-10-26)
 confirmed the three sources and the assigned passages' boundaries
-independently, and its Reading A count (774, on a cleaned HTML
-extraction) against this module's 778 (on the downloaded plain text,
-as stated) is explained in the ledger: the boundaries are identical
-and the spread across counting methods is 757 to 780, so the module's
-figure stands per its stated method. The same receipt corroborates
-the blocked-playback limit on the video candidates.
+independently. Its Reading A count is 774 on a cleaned HTML
+extraction against this module's 778 on the downloaded plain text,
+as stated: the plain-text 778 was reproduced by the lane this
+session, the verifier's 774 was not, and the exact cause of that
+four-word difference is unresolved; the boundaries are identical. The
+same receipt corroborates the blocked-playback limit on the video
+candidates.
 
 ## Alignment map
 

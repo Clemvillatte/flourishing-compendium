@@ -3977,9 +3977,9 @@ others within 1-2 words method noise; m1 excerpt 645-647 across
 cleanings; m4 delta 774/778 explained: plain text 778 as the module
 states, HTML-cleaned methods spread 757-780, boundaries identical).
 On the fallback ladder: responsive to supervisor QC feedback. m1/m3 media playback environment-blocked in all
-tried routes; m4 Reading A count delta 774 vs 778 explained this
-session (plain text 778 as the module states, HTML-cleaned methods
-spread 757-780, boundaries identical; see the ledger).
+tried routes; m4 Reading A count delta 774 vs 778 stands unresolved
+(plain-text 778 reproduced, verifier's 774 not, cause unestablished;
+see the ledger).
 
 ## deg-wol-pragmatism wave-2 status (2026-10-26, clock 05:16:58Z measured, worker-pplx-pragmatism-1026b)
 

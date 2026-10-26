@@ -1637,3 +1637,48 @@ available" on the uninitialized player, which does not establish
 caption availability either way), keeping the module current with the
 verifier's evidence. The playback and caption items stay open with
 supervisor module-QC. No other m3 change in this edit.
+
+## Corrections to this session's verification records, per advisor final review (2026-10-26, worker-pplx-pragmatism-1026c)
+
+-The advisor's final review of this session's records required the
+following corrections, applied across the module, handoff and
+TASKBOARD texts and recorded here:
+
+-1. The m4 Reading A count delta is NOT reconciled. The plain-text
+778 was reproduced this session; the verifier's 774 was not, and the
+exact cause of the four-word difference is unresolved. The earlier
+entry claiming the delta was "reproduced and explained" (and the
+"method spread 757-780" argument, which relied partly on removing
+sidenotes) is superseded: the module keeps its explicitly measured
+778, and the difference stands unresolved.
+-2. m3's Reading B3 is FOUR Lecture VI selections, not five. The
+Step 2 teaching quotes four Lecture VI blocks totaling 157 words;
+both "five selections" references in m3 are corrected to four. No
+fifth selection is hypothesized.
+-3. The nested quotation marks around "The true," in James's
+Lecture VI sentence are RESTORED in m3. The drop-markers convention
+confirmed by the deg-verify-b m5 receipt concerns italic emphasis
+markers, not quotation marks; the earlier ledger entry claiming
+equivalence between the two is superseded.
+-4. This session's quote-span machine passes are NOT exhaustive
+audits. The extraction regex (minimum-length quoted spans) can pair
+a closing quote with a later opening quote and skips short
+quotations; the records certify only the specific spans listed in
+each entry, not "all quotes" in the modules.
+-5. Residual count differences are NOT established as method noise.
+In particular m3 B2's documented method rejoins the page-split "sup
+posed"; this session's counter did not, and the m1 counter used an
+arbitrary cut at the metadata blob. The reproduced figures stand;
+the causes of the residual differences are unestablished.
+-6. The link-check claims are narrowed. The YouTube URLs were not in
+the HTTP check set (their verification rests on the earlier oembed
+checks recorded in the modules). The m3 transcript-site citation
+returned a direct 403 to a plain automated fetch; a cached
+transcript page was available via a browser-like fetch. Neither
+live accessibility of that page nor the cause of the 403 was
+established.
+-7. m4's video-first summary is refreshed against the receipts:
+UCSC instructor verification remains open (not "confirmed"), and
+the Bernstein transcript-level coverage evidence is recorded as
+offered for a module decision, with no decision taken. Playback and
+caption gaps stay open.
