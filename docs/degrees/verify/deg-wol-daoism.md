@@ -435,3 +435,16 @@ checks against the Eno text:
   the king of all under heaven" where the v1.3 mirror reads "is the
   king of the world" in ch. 78b. If the module ever quotes ch. 78b
   verbatim, quote from the carrier, not the mirror.
+
+### m2 flag closure (2026-10-26T05:11Z)
+
+The owner's m2 round-1 repairs (commit adc1bcee5) consumed this lane's
+flags. Re-checked on the pulled file: ch. 36 closing lines now quoted
+verbatim ("fish must not emerge from the deeps; the vital tools of a
+state must not be revealed" — matches the Eno text); ch. 11/36/78 word
+count corrected to 228 (matches my mirror count exactly); workload
+re-stated 2h20m. Flag CLOSED. The ch. 28 verbatim quote, ch. 16/44
+quotes and Ziporyn attributions were already verified above; the
+round-1 repairs' Ziporyn rewording ("great structuring carves but does
+not sever") was not re-checked against the transcript this pass —
+owner's in-session reading stands.
