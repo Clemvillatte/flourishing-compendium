@@ -4424,11 +4424,37 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The definitions differ. Frankl makes self-forgetting the condition of being fully human. Yeager and colleagues define purpose as a goal motivated by benefit to the self and by connection to the world beyond it, and test that mixed motive. Steger's definition asks only that goals be long-term, highly motivating and strongly committed, with no requirement that they reach anyone else."
+          "x": "Damon and Malin, who built the best-known definition in the youth literature, say yes. Looking back on how they arrived at it, they write:"
+        },
+        {
+          "t": "q",
+          "x": "\"purpose, in addition to having the component of meaningfulness, also must have the component of engagement in the world beyond the self.\" ([William Damon and Heather Malin, The Development of Purpose: An International Perspective, 2020](https://coa.stanford.edu/sites/default/files/devel_purpose_intl_persp.pdf))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "These are different claims. Frankl is making a claim about what a person is, Yeager one about what sustains effort, and Steger one about how to measure purpose. The evidence on beyond-self motives comes mostly from learning, in the young, so it cannot decide the question for a whole life. I lean toward Yeager's mixed definition. It is the only one of the three that was tested against a real behaviour, and it does not ask a person to be nobody in order to matter."
+          "x": "They add that this engagement is \"often, though not always, oriented to serving other people\", and that some purposes are driven by \"discovery, aesthetic, and/or cosmic motives\". The condition is about reach, so it does not demand altruism."
+        },
+        {
+          "t": "p",
+          "x": "Other researchers object to making it a condition. A review in the Journal of Happiness Studies reports the dispute this way:"
+        },
+        {
+          "t": "q",
+          "x": "\"In fact, some researchers suggest that if one's purpose in life is not \\\"beyond the self,\\\" then they cannot be classified as having a purpose at all (Damon et al., 2003). However, this definition is fairly contentious, as some state that it should not be in the hands of the researchers to determine whether individuals' purposes are worthy (Burrow et al., 2021), and others have noted that the vast literature focusing on the benefits of purpose has used sense of purpose measures agnostic to an individual's specific purpose orientation (Hill & Pfund, 2022).\" ([Pfund, Applying an Allportian Trait Perspective to Sense of Purpose, 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10081294/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Hill and Burrow press the same objection with a finding attached. The abstract of their paper says that \"the prevailing sentiment of some researchers holds that few adolescents have a purpose in life, perhaps reifying negative beliefs about their capacity\", and offers \"an alternative view that focuses on sense of purpose\", which \"relies on abundant evidence that adolescents generally perceive themselves to be purposeful\" ([Hill and Burrow, Child Development Perspectives 2021, abstract](https://academic.oup.com/cdpers/article/15/4/281/8222299))."
+        },
+        {
+          "t": "p",
+          "x": "Two definitions met earlier in this dossier sit between the camps. Yeager and colleagues define purpose as a goal motivated by benefit to the self and by connection to the world beyond it, and test that mixed motive. Steger's definition asks only that goals be long-term, highly motivating and strongly committed, with no requirement that they reach anyone else."
+        },
+        {
+          "t": "p",
+          "x": "The two sides give opposite answers to one question: does a long-term aim that stays inside a person's own life count as a purpose? On the first view it does not, and the count of purposeful young people stays low. On the second it does, and the count rises. I have not opened the full text of Hill and Burrow, so I do not say how they reply to Damon's reasons, and the Pfund review is my only description of how the two camps relate. What the dispute shows me is that a definition of purpose decides who is allowed to have one. For an essay on suffering and flourishing, that matters: a person whose aim is quiet and close to home should not be counted out by a measuring rule."
         },
         {
           "t": "h2",
