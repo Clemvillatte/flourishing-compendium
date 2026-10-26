@@ -190,3 +190,80 @@ to the supervisor or the degree owner to resolve and re-push. Note
 also the module-id coexistence (b1-ethics-first-orientation and
 b2-four-noble-truths alongside m1-four-truths) — presumably a
 supersession the owner will reconcile at module-QC.
+
+## m2-m4 candidate pre-verification (2026-10-26, clock 06:15-06:35Z)
+
+The owner's ledger flags BSWA candidates "verification required before
+assignment". All opened and verified this session.
+
+### B-T03: "What Is Buddhism?" booklet (Ajahn Brahm, BSWA)
+
+- URLs: https://bswa.org/practices/buddhism-ajahn-brahm/ and
+  https://bswa.org/teaching/buddhism-ajahn-brahm/ (both opened this
+  session; they carry the same booklet in different page renderings,
+  the teaching/ page with the fuller contents table).
+- Identity: booklet by Ajahn Brahmavamso, dated Perth, January 2016,
+  marked FOR FREE DISTRIBUTION, © Ajahn Brahmavamso, Abbot of
+  Bodhinyana Buddhist Monastery and Spiritual Director of BSWA.
+- Accessibility: free, anonymous, no paywall; PDF downloads (plain and
+  large font, plus translations) on the pages.
+- Content coverage: Buddha's life and awakening; the way of inquiry;
+  the four noble truths (all four stated); the Middle Way/Eightfold
+  Path (Right View through Right Stillness); the five precepts (the
+  same five as AN 5.179); practice of the path; karma; rebirth; no
+  creator God; the illusion of a "soul"; types of Buddhism
+  (Theravada/Mahayana/Vajrayana, Zen named); relevance today.
+  CAVEAT for module design: the rebirth and karma sections present
+  rebirth cosmology matter-of-factly — the walk's rebirth
+  passing-mention rule applies if assigned; the meditation section is
+  an overview WITHOUT step-by-step instructions.
+- Instructor credentials: the booklet's own authorship line names the
+  abbot role; the BSWA teacher page (bswa.org/teachers/ajahn-brahm/)
+  is the biography carrier the owner already used (B-V02).
+- Status: verified (text). Strong m2-m4 candidate: the ethics and
+  four-truths summary carrier.
+
+### B-T04: "Joy At Last To Know There Is No Happiness In The World"
+(Ajahn Brahm, 1999)
+
+- URL: https://bswa.org/bswp/wp-content/uploads/1999/08/Ajahn_Brahm_Joy-At-Last-To-Know-There-Is-No-Happiness-In-The-World-layout-1.pdf
+  (teaching page https://bswa.org/teaching/joy-last-know-no-happiness-world/;
+  both opened/located this session).
+- Identity: edited version of a talk given during the 1999 Rains
+  Retreat at Bodhinyana Monastery; subtitled "A Talk on the First
+  Three Noble Truths"; text taken from Dhamma Journal, BSWA, July
+  2001 (source noted as budsas.org).
+- Accessibility: free PDF, no paywall, no login; 10 numbered pages.
+- Content coverage: first truth (dukkha), second truth (cause,
+  craving), third truth (ending through letting go) in order; the
+  fourth truth appears only briefly near the end (sila, samadhi,
+  panna) — a module assigning this should pair it with a fourth-truth
+  carrier.
+- Status: verified (text). Complements SN 56.11 for the
+  truths sequence in Ajahn Brahm's accessible register.
+
+### B-V03 (BG-2 lead, index verified): Introduction to Meditation
+Series, Parts 1 to 5 (Ajahn Brahmali)
+
+- URL: https://bswa.org/teaching/introduction-meditation-series-parts-1-5-ajahnbrahmali/
+  (also listed at /practices/introduction-meditation-series-parts-1-5-ajahn-brahmali/).
+- Identity: five-session series put together by Ajahn Brahmali, dated
+  Sunday 5 March 2023: (1) setting yourself up + guided meditation,
+  (2) present awareness + guided meditation, (3) breath meditation +
+  guided meditation, (4) overcoming obstacles + guided meditation,
+  (5) other meditations + guided meditation. Page states
+  "approximately 30-40 minutes each".
+- Accessibility: page free, no paywall; audio via BSWA Podbean
+  channels, video via BSWA YouTube playlists (per the page).
+- CAVEAT: this verifies the INDEX page only. If the owner attaches
+  specific sessions, each session's media link, exact duration,
+  Brahmali's credential page and the guided-meditation segment
+  boundaries need per-session verification (the page itself gives no
+  per-session durations). Brahmali's standing: BSWA teacher pages
+  (not re-opened this session).
+- Status: verified (index page); per-session verification owed on
+  attachment. Second BG-2 lead on the same site: Ajahn Brahm's older
+  audio "Introduction to Meditation Parts 1 to 4"
+  (bswa.org/practices/introduction-meditation-series-parts-1-4-ajahn-brahm/)
+  — the page itself apologises for audio quality on parts 2-3; lower
+  priority than the Brahmali series.
