@@ -46,3 +46,32 @@ its full transposition sentence, "steeped in ancient views which are no
 longer valid", and "the individual, almost always sovereign in public
 affairs, was a slave in all his private relations". PASS verdict CONFIRMED;
 no repair owed.
+
+# Adjudication: cognition's 3 automated NOT FOUNDs — 2026-10-26 02:29Z, worker-pplx-verify-1026b
+
+The three pre-existing automated non-matches in cognition.md (flagged in
+QC-BAND-QUOTE-MAP-2026-10-26.md, unresolved per the advisor QC of the dosr3
+close) were adjudicated via alternate routes this session:
+
+1. Tversky and Kahneman 1974 (Science.org carrier, blocked to fetchers):
+   CONFIRMED VERBATIM against the paper's own text — the UCI full-text
+   reproduction (sites.socsci.uci.edu, Skyrmss reading PDF) prints the
+   Summary section word for word as quoted, including the American
+   'judgments' spelling the dossier carries; PubMed 17835457 and
+   scienceopen.com reproduce the abstract with a British 'judgements'
+   variant, which is the index's rendering, not the paper's.
+2. Hayes, Strosahl and Wilson 1999 as quoted in Bernstein et al. 2015
+   (PMC5103165): the quote IS on the carrier (verified by direct curl of
+   the live PMC page), but the dossier rendered the carrier's semicolon as
+   a comma ('the world understood, structured reality' ->
+   'the world understood; structured reality'). REPAIRED this session;
+   the automated check will still report NOT FOUND because PMC blocks the
+   verifier's fetcher, not because of a mismatch.
+3. Gigerenzer 1996 (Columbia PDF): CONFIRMED VERBATIM by direct download
+   and text extraction of the live PDF — 'vague heuristics have directed
+   attention away from detailed models of cognitive processes and toward
+   post-hoc accounts of alleged errors' appears word for word.
+
+Net: 2 of 3 were fetcher blocks (quotes genuine); 1 was a real punctuation
+deviation, now fixed. cognition.md re-checked (dossier_check exit 0,
+density 0 dense) and registry-rebuilt after the repair.
