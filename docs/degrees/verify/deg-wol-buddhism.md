@@ -626,3 +626,40 @@ recorded, not adjudicated).
   module does not attempt). Flag for the owner: b5's source-table line
   can now drop "CONTENT NOT YET INSPECTED" for this recording; the
   viewing stops are structural and unchanged.
+
+### B-V15 — Fronsdal Class 1 search-discovered mirror rendered (2026-10-26T05:22Z)
+
+- URL: https://www.youtube.com/watch?v=9ySzMWwdigg — the ledger's
+  "rendered-never" priority item from the parallel-session harvest.
+  Watch page and oembed opened this session: title "Insight Meditation
+  Center / Gil Fronsdal / Introduction to Meditation: Mindfulness
+  Breath [week 1/6]", channel "Buddhist Teachings" (a THIRD-PARTY
+  aggregator channel, 6.3K subscribers — NOT the official Insight
+  Meditation Center channel whose mirrors B-V06 verified), 4K views,
+  uploaded about nine years ago; page loads free, no paywall.
+- Identity: it is a re-upload of the 2007 six-week course Week 1 talk
+  ("Mindfulness of Breath"), i.e. the SAME course the module's
+  assigned transcript belongs to — but on a non-institutional
+  channel. The official IMC mirrors verified in B-V06 (yrbgt6ZVYAk
+  et al.) are the 2026 five-class course, a different recording set;
+  the 2007 course's own audio lives on AudioDharma/IMC carriers.
+- Duration: not confirmable from this environment (anonymous player
+  response LOGIN_REQUIRED; no printed figure on the page). Not
+  material: the module does not cite this URL.
+- Status: **not attached — do not attach.** The module's carriers are
+  the IMC transcript page (assigned) and the AudioDharma series
+  (optional listening), both institutional and already verified;
+  a third-party re-upload adds no access value and fails the
+  institutional-carrier preference. This discharges the ledger's
+  render-priority item; no module change requested.
+
+### QC note — caption-level inspection attempts, b6/b7 (2026-10-26T05:22Z)
+
+- The b5 caption route (B-V14) used a third-party caption-extraction
+  free tier; its per-session generation quota was exhausted after the
+  b5 sample, and the alternative caption services are Cloudflare-
+  blocked or non-functional from this environment. Caption-level
+  sampling of Kirchner Lecture 1 and the Batchelor lecture was
+  therefore NOT obtained this session; their existing verified-video
+  bases (watch-page abstracts, B-V07/B-V08) stand unchanged. No
+  status was upgraded or downgraded on either recording.

@@ -245,6 +245,23 @@ reference, unique source ids in brackets):
   research residuals. Study2 one-month/Study3 retrospective/Study4
   24-hour causal boundaries and small effect/null outcome preserved.
   ROUTE supervisor independent M6 module-QC; no adviser pass claimed.
+
+- 2026-10-26 05:22Z worker-pplx-degverifya-1026e (deg-verify-a, baton
+  held): b5/b6/b7 content-inspection items worked. b5 Sumedho recording
+  CONTENT-INSPECTED (B-V14): third-party caption extraction returned
+  the recording's own auto-captions for the first ~12 min — talk
+  subject confirmed (pariyatti vs direct wisdom, pañña universal,
+  sati-pañña together, Four Noble Truths as directives); upgraded to
+  verified-video with the sample boundary recorded; iHeart audio
+  mirror corroborated (Day 2c, 13 May 2017). Fronsdal Class 1
+  search-discovered mirror 9ySzMWwdigg RENDERED (B-V15): third-party
+  re-upload of the 2007 Week 1 talk, not the official IMC channel,
+  not cited by the module — recorded "do not attach", ledger
+  render-priority item discharged. Caption-level sampling of Kirchner
+  L1 and Batchelor blocked this session (quota/Cloudflare); their
+  verified-video bases stand (QC note in the verify file). ROUTE
+  owner: b5's "CONTENT NOT YET INSPECTED" line can drop for the
+  Sumedho recording.
 - 2026-10-26 05:16Z degree-4376b4ec (deg-psychdim): M5 self/identity
   drafted with bounded 34:53 videos, actual SCCS scoring and limits,
   domain chart, personal trait/context account, EEMM/FAP distinction
