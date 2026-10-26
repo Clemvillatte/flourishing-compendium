@@ -1300,6 +1300,69 @@ scope clearance does not clear it.
 
 — worker-pplx-deg-gate-1026a, deg-gate baton held, 2026-10-26.
 
+## Coverage-gate review (2026-10-26, worker-pplx-deg-gate-1026a, deg-gate baton)
+
+Review basis: the binding standard (docs/degrees/skill/curriculum-design/
+Skill.md — every essential row taught, practised and assessed, with sources
+verified) and the band state's routing ("Coverage gate awaits the deg-gate
+reviewer"). The post-round-2 matrix was re-read in full.
+
+Matrix completeness: PASS. Every essential dimension is covered — framework
+(EEMM dimensions, variation-selection-retention-context, levels of
+analysis, research literacy), affective (emotion functions, generation vs
+regulation, constructed emotion, difficulties/flexibility), cognitive
+(conditioning and learning, memory, judgment and decision making,
+perception as inference, rumination/RNT, evidence appraisal), attentional
+(three networks, selective attention and limits, ANT and disorder/affect
+links, contemplative training as attentional evidence), self (self-concept
+clarity, identity development, personality traits, self-evaluation and
+justification, self-other attribution, self as EEMM dimension),
+motivational (SDT continuum and needs, goals of regulation, goal pursuit
+and adherence), overt behavioural (habit formation, conditioning basis,
+self-control evidence, behaviour as EEMM dimension), and the integrative
+capstone (all dimension sources). Every row names teaching, practice and
+assessment; the excluded rows (interpersonal branch, group perception,
+language, affective neuroscience, computational psychiatry) carry explicit
+decisions with retained verification records.
+
+Source verification inventory (independent routes):
+- Gate-1 openings (this session, worker-pplx-deg-gate-1026a): Hofmann and
+  Hayes 2024, Maitland 2024, Barrett et al. 2025, Woolley et al. 2025,
+  Manchiraju 2026, Yale 2026 syllabus.
+- Supervisor independent confirmation (2026-10-25): the four
+  self-regulation sources (Werner and Berkman 2024, Reed et al. 2020,
+  Dang 2018, Alarcon-Espinoza et al. 2022).
+- deg-verify-b evidence (docs/degrees/verify/deg-psychdim.md, PD-V01 to
+  PD-V10): the EEMM orientation, goal-adherence, self-control, habit
+  formation, self-concept clarity, constructed-emotion, attention,
+  rumination, SDT and emotion-regulation-goal strands.
+- Coverage-gate spot-checks (this session, worker-pplx-deg-gate-1026a,
+  all opened and confirmed as cited): [Lippelt, Hommel and Colzato 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/pdf/fpsyg-05-01083.pdf)
+  (focused attention / open monitoring / loving-kindness classification,
+  attentional scope and blink effects; CC BY), [Branje et al. 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC9298910/)
+  (identity 2010-2020, dual-cycle models, domains, daily processes,
+  narrative identity, adjustment; CC BY-NC), [Hwang and Matsumoto, Noba Functions of Emotions](https://nobaproject.com/modules/functions-of-emotions),
+  [Bouton, Noba Conditioning and Learning](https://nobaproject.com/modules/conditioning-and-learning),
+  [McDermott and Roediger, Noba Memory](https://nobaproject.com/modules/memory-encoding-storage-retrieval),
+  [Bazerman, Noba Judgment and Decision Making](https://nobaproject.com/modules/judgment-and-decision-making),
+  [Diener and Lucas, Noba Personality Traits](https://nobaproject.com/modules/personality-traits),
+  [Smith, Noba Thinking Like a Psychological Scientist](https://nobaproject.com/modules/thinking-like-a-psychological-scientist)
+  — all open, all matching their matrix descriptions.
+
+VERDICT: COVERAGE GATE CLEARED. Every essential row is grounded in at
+least one independently verified open source, and the load-bearing
+anchors are all verified. Standing notes (not gate-blocking): (a) the
+Carden and Wood 2018 habits anchor predates 2021 and was already flagged
+for refresh during production — the row also carries the verified recent
+habit-formation evidence (PD-V04); (b) the OYC lecture segments' content
+verification is recorded in the ledger (video route, per the standard);
+(c) this clearance covers the coverage gate only — module production
+remains formally closed behind the Phase 0 pilot stop-gate until the
+owner rules, and the pedagogical gates (pilot, module-level QC) are
+separate.
+
+— worker-pplx-deg-gate-1026a, deg-gate baton held, 2026-10-26.
+
 ## Gate decisions
 
 | gate | decision | by | date |
@@ -1308,6 +1371,7 @@ scope clearance does not clear it.
 | scope (Gate-1 independent review) | RETURNED WITH REPAIRS — Gate 1 NOT CLEARED: benchmark/recency claims spot-verified open and accurate; centering repair + full-test elective justification/exclusion owed per the owner's 2026-10-26 clause; pilot stop-gate recorded as unresolved production prerequisite | worker-pplx-deg-gate-1026a (deg-gate) | 2026-10-26 |
 | scope (Gate-1 re-review) | NOT CLEARED — one small repair outstanding: the M3 language elective is admitted on curricular presence (topical fit), not a learner need; needs a bounded learner-need case or exclusion (advisor QC caught this after the initial clearance draft); both original blocking repairs verified applied in 4959e093; no content expansion; pilot stop-gate prerequisite and the separate coverage gate remain open outside this gate | worker-pplx-deg-gate-1026a (deg-gate) | 2026-10-26 |
 | scope (Gate-1 re-review round 2) | CLEARED: language elective excluded in d275389 (and affective neuroscience also excluded — "Elective branches: none", stricter than required); all blocking items resolved; pilot stop-gate production prerequisite and the separate coverage gate remain open outside this gate | worker-pplx-deg-gate-1026a (deg-gate) | 2026-10-26 |
+| coverage | CLEARED: every essential row taught/practised/assessed and grounded in independently verified open sources (verification inventory in the review section: Gate-1 openings, supervisor confirmation, PD-V01-V10, eight coverage spot-checks incl. Lippelt 2014, Branje 2021 and five Noba modules); Carden-Wood 2018 refresh note stands; module production still closed behind the pilot stop-gate | worker-pplx-deg-gate-1026a (deg-gate) | 2026-10-26 |
 | scope (repairs applied) | CENTERING + ELECTIVE REPAIRS APPLIED per the Gate-1 verdict: scope doc intended learner and exit capabilities restated to the Walk-of-Life value proposition (dimensions as levers on the learner's own suffering, wisdom and flourishing); interpersonal/attraction and group-perception electives EXCLUDED with the affected segments; computational psychiatry EXCLUDED; affective neuroscience RETAINED as bounded elective with a stated learner need; progression spine exits carry the own-life orientation; matrix EXCLUDED row records the removal; re-review requested from the deg-gate reviewer | supervisor-e03fed44-degpsychdim (degree owner) | 2026-10-26 |
 | scope (re-review outstanding item resolved) | The Gate-1 re-review's one outstanding repair (the M3 language elective admitted on topical fit, not a learner need) is RESOLVED by EXCLUSION in d275389: language (psycholinguistics) elective EXCLUDED under the when-in-doubt-exclude rule; scope doc compact matrix synced ("Elective branches: none"); affected OYC lecture 7 chapters 1 to 3 excluded with it; matrix row marked EXCLUDED with verification records retained. Affective neuroscience also EXCLUDED in the same round 2 (advisor QC; superseding the round-1 retention). Final confirmation from the deg-gate reviewer requested | supervisor-e03fed44-degpsychdim (degree owner) | 2026-10-26 |
 | coverage | milestone delivered; independently reviewed through advisor rounds 1 to 7; the adult self-regulation gap is now grounded (Werner and Berkman 2024, Reed et al. 2020, Dang 2018, Alarcon-Espinoza et al. 2022; see the gap register), but the coverage gate is NOT cleared by the degree owner: it awaits independent confirmation at the next advisor or reviewer pass; module production also blocked by the Phase 0 pilot stop-gate | worker-pplx-psychdim-1 | 2026-10-25 |

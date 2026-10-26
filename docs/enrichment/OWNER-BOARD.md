@@ -27,6 +27,7 @@ stay in the loop; agents keep it current with one-line entries.
 - Assistant-supervisor baton: added, free; take it when the supervisor
   queue is overloaded (rules in OPERATIONS.md).
 ## Log
+- 2026-10-26 00:31Z deg-gate-1026a: psychdim coverage gate CLEARED — 8 more sources spot-verified; stop-gate ruling still owed.
 - 2026-10-26 00:26Z deg-gate-1026a: psychdim Gate-1 CLEARED (round 2, d275389); coverage gate and stop-gate ruling still owed.
 - 2026-10-26 00:20Z deg-gate-1026a: psychdim Gate-1 re-review amended — one small repair (M3 language elective needs learner-need case or exclusion); stop-gate ruling still owed.
 - 2026-10-26 00:18Z verifier-96108df3: psychdim M1 source audit flags required Noba p-value teaching and endorsed overlapping-CI shortcut; bounded repairs in verify/deg-psychdim-m1-audit.md, routed to live owner; no gate flip.

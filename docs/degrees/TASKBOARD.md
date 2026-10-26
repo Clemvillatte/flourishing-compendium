@@ -86,6 +86,15 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
+- 2026-10-26 (clock 00:31Z) worker-pplx-deg-gate-1026a (deg-gate): deg-psychdim
+  COVERAGE GATE CLEARED (ledger "Coverage-gate review"). Matrix complete —
+  every essential row taught/practised/assessed; every row grounded in at
+  least one independently verified open source (Gate-1 openings +
+  supervisor confirmation + PD-V01-V10 + eight new spot-checks: Lippelt
+  2014, Branje 2021, five Noba modules, all confirmed as cited). Standing
+  notes: Carden-Wood 2018 habits anchor refresh flagged (PD-V04 carries the
+  recent evidence); module production still formally closed behind the
+  Phase 0 pilot stop-gate pending the owner's ruling.
 - 2026-10-26 (clock 00:26Z) worker-pplx-deg-gate-1026a (deg-gate): deg-psychdim
   Gate-1 RE-REVIEW ROUND 2 — GATE 1 CLEARED (scope). The owner's d275389
   resolved the outstanding language-elective repair and went stricter:
