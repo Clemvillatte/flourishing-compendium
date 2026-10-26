@@ -461,6 +461,75 @@ production, per the supervisor's Phase 0 ruling item 4:
   assignments as substitutions not accumulation) are recorded as design
   constraints for the eventual module review.
 
+### M3 preparation (2026-10-26, worker-pplx-degpsychdim-1026a; no module prose written — M2-M8 module production gated per the supervisor's Phase 0 ruling)
+
+Both M3 sources re-opened and re-verified against the raw fetched page
+text this session (curl + tag-strip; the same verification behaviour as
+the M2 pass). No new sources adopted; both were already verified (batch
+1 and the readiness refresh). All passages below were confirmed
+character-for-character on the raw page.
+
+Ehring 2021 (Thinking too much: rumination and psychopathology, World
+Psychiatry, PMC8429319), the commentary-appraisal source for the M3 exit:
+
+- The experimental-evidence passage, verbatim: "Converging evidence
+  comes from experimental research showing that induced rumination leads
+  to negative thinking, poor problem solving, inhibition of
+  instrumental behavior, biased information processing, and impaired
+  interpersonal functioning" (citation tokens 1, 2, 4 follow; the raw
+  text continues " 1 , 2 , 4 ." immediately after "functioning").
+  Measured at 28 words. It sits immediately after the
+  longitudinal-research paragraph, not under a named section heading.
+- The preceding longitudinal passage (59 words measured): "There is now
+  extensive longitudinal research showing that rumination assessed in
+  this way: a) predicts the onset of new episodes of depression; b)
+  predicts the maintenance of already existing depressive symptoms; c)
+  is a mediator between other known risk factors (e.g., negative
+  cognitive styles, childhood adversity, psychosocial stress) and
+  depression, and d) is related to reduced response to treatment"
+  (citation tokens 1, 2, 3, 4 follow in the raw text).
+- Whole commentary: 1,641 words on the tag-stripped raw-page basis
+  (includes site chrome and references; the commentary proper is the
+  two-page synthesis the M3 packet describes). The commentary is short
+  enough that the whole main text is a candidate assigned excerpt; the
+  writing session should measure the assigned span on a stated basis.
+- Design note: the appraisal exercise centres on the experimental-
+  evidence passage with the longitudinal paragraph as its contrast; the
+  learner distinguishes the synthesis from a primary experiment report
+  and names the missing information (participants and setting;
+  assignment and comparison conditions; how rumination and outcomes
+  were measured; effect estimates and uncertainty; limitations), per
+  the M3 packet's proposed answer frame (already adopted in the
+  progression exit).
+
+Bouton, Conditioning and Learning (Noba), the mechanism-teaching source:
+
+- The overview passage, verbatim: "This module discusses the two most
+  fundamental forms of learning -- classical (Pavlovian) and
+  instrumental (operant) conditioning. Through them, we respectively
+  learn to associate 1) stimuli in the environment, or 2) our own
+  behaviors, with significant events, such as rewards and punishments."
+- The conclusion passage, verbatim (candidate for the faded practice):
+  "Or maybe you are now always on time with your assignments, because
+  you saw how others were punished when they were late (observational
+  learning). Regardless of the activity, behavior, or response, there’s
+  a good chance your “decision” to do it can be explained based on one
+  of the theories presented in this module." (The raw page uses a
+  typographic apostrophe in “there’s” and curly double quotes around
+  “decision”; the text above matches the raw page character for
+  character.)
+- Measured body count: 7,088 words on the tag-stripped basis (the span
+  from the module description through the Conclusion, before the
+  Outside Resources section). This supplies the measured count the
+  readiness refresh owed ("a measured count is owed if assigned at
+  production"); the refresh's ~5,000 estimate is superseded. Raw
+  stripped page including site chrome: 9,289 words.
+
+Remaining M3 sources (memory, judgment and decision making, perception
+as inference OYC lecture 7 chapter 4) are verified per the readiness
+refreshes and the coverage gate; their passage measurement is left to
+the writing session, which should state each count's basis.
+
 Supervisor Phase 0 ruling (ledger section of the same name): M1 repairs
 applied and ACCEPTED by the verifier's re-review (all three findings
 CLOSED, module SHA 99e5abbe...; disposition ready for supervisor
