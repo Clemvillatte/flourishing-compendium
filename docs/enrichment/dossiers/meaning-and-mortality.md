@@ -36,9 +36,9 @@ In [E043 — Practise being-toward-death (Sein-zum-Tode)](https://clemvillatte.g
 
 That analysis makes death the shaper of choice, but it does not settle whether the ending is a benefit or a loss, and the traditions split on that too. Bernard Williams says a life without death would be meaningless, using Karel Čapek's play about Elina Makropulos, who has lived 342 years on an elixir:
 
-> "Immortality, or a state without death, would be meaningless, I shall suggest; so, in a sense, death gives the meaning to life." ([Williams, "The Makropulos Case: Reflections on the Tedium of Immortality"](https://123philosophy.wordpress.com/wp-content/uploads/2019/08/williams-immortality.pdf))
+> "Immortality, or a state without death, would be meaningless, I shall suggest; so, in a sense, death gives the meaning to life." ([Williams, "The Makropulos Case: Reflections on the Tedium of Immortality"](https://123philosophy.wordpress.com/wp-content/uploads/2019/08/williams-immortality.pdf); [readable copy](https://wmit-pages-prod.s3.amazonaws.com/wp-content/uploads/sites/283/2022/06/12152936/williams.pdf))
 
-His diagnosis of her state is boredom, "a boredom connected with the fact that everything that could happen and make sense to one particular human being of 42 had already happened to her" ([Williams, "The Makropulos Case"](https://123philosophy.wordpress.com/wp-content/uploads/2019/08/williams-immortality.pdf)). Thomas Nagel reads the loss from the other side:
+His diagnosis of her state is boredom, "a boredom connected with the fact that everything that could happen and make sense to one particular human being of 42 had already happened to her" ([Williams, "The Makropulos Case"](https://123philosophy.wordpress.com/wp-content/uploads/2019/08/williams-immortality.pdf); [readable copy](https://wmit-pages-prod.s3.amazonaws.com/wp-content/uploads/sites/283/2022/06/12152936/williams.pdf)). Thomas Nagel reads the loss from the other side:
 
 > "Viewed in this way, death, no matter how inevitable, is an abrupt cancellation of indefinitely extensive possible goods." ([Nagel, "Death"](https://rintintin.colorado.edu/~vancecd/phil150/Nagel.pdf))
 

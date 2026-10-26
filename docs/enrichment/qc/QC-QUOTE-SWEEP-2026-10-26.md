@@ -21,14 +21,24 @@ Automated result: 281 quotes checked, 37 NOT FOUND across 7 files (anxiety,
 body, decision-making, fear, genuine-flourishing, impermanence, leisure clean).
 37/281 is the automated non-match rate, not an error rate.
 
+Round 3 (same session): the last 3 unresolved items were closed. The two
+Williams items are confirmed verbatim on a readable open copy of the essay
+(wmit-pages-prod.s3.amazonaws.com williams.pdf), which was added to
+meaning-and-mortality.md as a secondary carrier for both quotes (dossier_check
+exit 0 re-run). The Steger item was confirmed verbatim on the OUP chapter
+abstract page — the dossier's cited URL was correct all along (an earlier
+fetch in this session had mistyped it). Final tally: 37/37 confirmed verbatim,
+0 mismatches.
+
 ## Verdict (quotation-only check; NOT publication clearance)
 
-Of the 37 automated non-matches, 34 were confirmed VERBATIM on their carriers
-via an alternate access route. No mismatch was confirmed anywhere. The
-remaining 3 are unresolved for access/extraction reasons only (below). No
-dossier text was changed; the published non-band dossiers stand.
+Of the 37 automated non-matches, ALL 37 were confirmed VERBATIM on their
+carriers via an alternate access route. No mismatch was found anywhere. No
+substantive dossier text was changed; the only edit is the addition of a
+readable secondary carrier to two quotes in meaning-and-mortality.md (the
+cited scan stays primary). The published non-band dossiers stand.
 
-## Confirmed verbatim (34)
+## Confirmed verbatim (37)
 
 - behaviour (2): "Habits emerge from the gradual learning of associations…"
   and "A New Look at Habits and the Habit-Goal Interface" — eric.ed.gov
@@ -73,25 +83,25 @@ dossier text was changed; the published non-band dossiers stand.
   virtue and practical wisdom comprise the end of neo-Aristotelian moral
   development…" (T&F 03057240.2018.1497952).
 
-## Unresolved (3) — access/extraction limited, mismatch NOT established
+## Unresolved (0)
+
+All three previously-unresolved items were closed in round 3:
 
 1. lifes-purpose: "Comprehension encompasses people's ability to find
-   patterns…" — OUP Oxford Handbook of Positive Psychology chapter page
-   (academic.oup.com/edited-volume/28153/chapter-abstract/21297712) does not
-   render the chapter abstract; sentence not confirmable from this carrier.
-   ROUTE: find an open carrier for the Steger "Meaning in Life" chapter text.
-2. meaning-and-mortality: the essay title "The Makropulos Case: Reflections on
-   the Tedium of Immortality" — the 123philosophy PDF is a scan whose OCR text
-   layer renders it corrupted ("reflectionson the tedium of immortaliry");
-   verbatim confirmation from this copy is not possible.
+   patterns…" — CONFIRMED VERBATIM on the OUP chapter abstract page
+   (academic.oup.com/edited-volume/28153/chapter-abstract/212977120). The
+   dossier's cited URL was correct; an earlier fetch in this session had
+   mistyped it (missing trailing digit), which produced the false UNRESOLVED.
+2. meaning-and-mortality: the essay title "The Makropulos Case: Reflections
+   on the Tedium of Immortality" — CONFIRMED VERBATIM on the readable open
+   copy (S3-hosted williams.pdf), added to the dossier as a secondary carrier.
 3. meaning-and-mortality: "a boredom connected with the fact that everything
-   that could happen and make sense to one particular human being…" — same
-   scanned PDF; the passage is not recoverable from the OCR text layer.
+   that could happen and make sense to one particular human being of 42 had
+   already happened to her" — CONFIRMED VERBATIM on the same readable copy;
+   secondary carrier added.
 
-None of the three is evidence of a misquote; they are cases where the only
-cited carrier cannot be read verbatim by any available route. Do not remove the
-quotes on this basis; a supervisor decision on replacement carriers is
-suggested.
+No replacement carriers are needed; the ROUTE suggested in round 2 is
+withdrawn.
 
 ## Flag for the supervisor — verifier behavior (from reading the script)
 

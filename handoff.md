@@ -40,11 +40,12 @@ verifying motivation sources. The 7-agent wave is live and pushing.
 
 Published-dossier quote sweep, non-band dossiers only (14 files, 281 quotes,
 37 NOT FOUND automated non-matches): ALL 37 adjudicated via alternate routes
-(curl/pdftotext/platform fetcher) — 34 confirmed VERBATIM on their carriers,
-0 mismatches found, 3 UNRESOLVED for access/extraction reasons only (1 OUP
-chapter page that does not render the abstract; 2 inside a scanned PDF whose
-OCR layer cannot support verbatim confirmation) — details + ROUTE for a
-supervisor decision on replacement carriers + verifier-behavior flags
+(curl/pdftotext/platform fetcher) and ALL 37 confirmed VERBATIM on their
+carriers — 0 mismatches found, 0 unresolved (the last 3 closed in round 3:
+Steger confirmed on the correct OUP URL; both Williams quotes confirmed on a
+readable open copy of the essay, added to meaning-and-mortality.md as a
+secondary carrier, dossier_check exit 0 re-run) — details + verifier-behavior
+flags
 (failed fetches are cached; blocked fetches indistinguishable from
 mismatches): docs/enrichment/qc/QC-QUOTE-SWEEP-2026-10-26.md. INCIDENT: this session's
 network blocks git receive-pack; pushes went via scripts/api_push.sh (REST
