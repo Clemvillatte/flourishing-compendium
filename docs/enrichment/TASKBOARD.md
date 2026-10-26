@@ -6349,3 +6349,5 @@ same pass; see its RETRACTION note.)
   [T+38:46] verify lane (no baton): QC sample completed -- Vartanian 2023 SCCS usage passage also confirmed via indexed cited PDF (5-pt student / 7-pt community, reverse-coded means, midpoint grouping); all 3 sampled claims pass. Receipt updated: docs/degrees/verify/deg-psychdim-m5-sccs-receipt-qc-sample-1026c.md
 
   [T+39:05] verify lane (no baton): m3 Ehring quote re-verification -- RNT five-feature definition and abstract/concrete processing distinction both confirmed verbatim from World Psychiatry source. Receipt: docs/degrees/verify/deg-psychdim-m3-ehring-quote-reverification-1026c.md
+
+  [T+39:48] verify lane (no baton): m5 Branje reading-boundary re-verification -- start and end markers both confirmed verbatim; one trivial note (end phrase truncates before trailing citation). Receipt: docs/degrees/verify/deg-psychdim-m5-branje-boundary-reverification-1026c.md
