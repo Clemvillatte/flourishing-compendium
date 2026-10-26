@@ -35,7 +35,7 @@ The three syllabi agree on the same skeleton: (a) what is contemplative science 
 
 ### B. The core contemplative practices
 - Mindfulness meditation — attention-based practice and open monitoring [UO PSY 407 Class Project section explicitly names "attention-based practice, open monitoring practice, and compassion meditation" — VERIFIED this session by re-fetching the UO syllabus WITHOUT an extraction prompt; Brown M&C (secular meditation exercises, centering meditation, home practice)]
-- Compassion meditation [Brown M&C (kindness, compassion, forgiveness, sympathetic joy named explicitly); loving-kindness PENDING — not named in the Brown syllabus; tonglen PENDING — not in any of the three opened documents]
+- Compassion meditation [Brown M&C (kindness, compassion, forgiveness, sympathetic joy named explicitly; the Learning Portfolio section also names empathy, loving-kindness, gratitude, generosity, and forgiveness); tonglen PENDING — not in any of the three opened documents]
 - Gratitude, forgiveness and sympathetic joy [Brown M&C course description]
 - Formal and informal practice — "working with" vs "taking into life" [Brown Flourishing syllabus]
 
