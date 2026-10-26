@@ -1,3 +1,14 @@
+## Worker checkpoint (2026-10-26 15:34Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+EIGHTEENTH QC SAMPLE (taper window): right-view.md and wisdom.md.
+Both: dossier_check OK. right-view: 20 checked / 2 not found — the
+one shown is on the antilogicalism Mulamadhyamakakarika PDF (PDF-
+extraction class suspected, unconfirmed); both left flagged for the
+next pass. wisdom: 39 checked / 14 not found — fourteen left flagged
+for the next verification pass (taper time-box; not re-opened this
+session). No dossier text changed. Files touched: this checkpoint
+only.
+
 ## Worker checkpoint (2026-10-26 15:30Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 SEVENTEENTH QC SAMPLE (taper window): lifes-purpose.md — dossier_check
