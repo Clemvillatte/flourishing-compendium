@@ -177,3 +177,38 @@ Updated session totals: 59 flagged spans eye-verified verbatim across the
 four receipts this session; 0 repairs needed; 0 confirmed wording
 deviations; 3 spans (philarchive) still open; 1 minor citation re-anchoring
 flag (scispace -> publisher DOI).
+
+## ADDENDUM 2 (2026-10-26, clock reading 09:58:10Z at commit) — cognition
+philarchive x3 RESOLVED VERBATIM; session flags all closed
+
+The three HEMC spans in cognition are Rupert 2004 ("Challenges to the
+Hypothesis of Extended Cognition", Journal of Philosophy 101(8)). The
+philarchive and wayback carriers stayed blocked, but the paper's public
+full text is hosted by the author's institution
+([home.cs.colorado.edu PDF](https://home.cs.colorado.edu/~mozer/Teaching/syllabi/3702/readings/Rupert2004.pdf));
+it was downloaded and text-extracted this pass and all three flagged
+spans are word-for-word: "According to HEMC, we can properly understand
+the traditional subject's cognitive processes only by taking into account
+how the agent exploits the surrounding environment to carry out her
+cognitive work."; "adopting the past-endorsement criterion undercuts HEC's
+motivation, by offering a picture of cognition that seems to fit better
+into the explanatory framework offered by HEMC." (the PDF's text layer
+drops the hyphen in "past-endorsement" and prints a typographic
+apostrophe); "adopting HEC results in a significant loss of explanatory
+power or, at the very best, yields only an unmotivated reinterpretation
+of results that can, at little cost, be systematically accounted for
+within a more conservative framework." Two of the three were also
+independently visible in opened search-result content from the same PDF.
+
+Note for the degrees verifiers: this also opens a public full-text
+carrier of Rupert 2004 — relevant to the standing deg-verify-b handoff
+finding that the Rupert 2004 primary was unreachable on every route
+tried (their routes hit a Cloudflare challenge; the Colorado PDF is a
+different, open carrier).
+
+FINAL SESSION TALLY (audit lane, worker-pplx-audit-1026a): 62 flagged
+spans eye-verified verbatim across five receipts; 0 repairs needed; 0
+confirmed wording deviations; 0 open span checks; 1 minor citation
+re-anchoring flag kept for the next pass (creativity scispace index ->
+publisher DOI); 1 duplicate-OWNER-BOARD-line removal disclosed (rebase
+conflict cleanup, identical copy).

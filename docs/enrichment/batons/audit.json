@@ -1,7 +1,7 @@
 {
  "baton": "audit",
  "agent": "worker-pplx-audit-1026a",
- "clocked_in": "2026-10-26T09:31:10+00:00",
+ "clocked_in": "2026-10-26T09:56:24+00:00",
  "takeovers": [
   {
    "by": "auditor-pplx-b9c3e4a1",
@@ -32,6 +32,13 @@
    "at": "2026-10-26T09:31:10+00:00",
    "from": "worker-pplx-verify-1026b",
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-audit-1026a",
+   "at": "2026-10-26T09:56:24+00:00",
+   "from": "worker-pplx-audit-1026a",
+   "reason": "stale (25 min)"
   }
- ]
+ ],
+ "released": false
 }
