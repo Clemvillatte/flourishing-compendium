@@ -60,12 +60,16 @@ All candidates are DRAFT until D2 verification (open-access check + instructor c
 - **Behrens's Journal of Global Ethics article** — open-access check at D2.
 
 ### mod-rel-14 — Levinas — phenomenological context (Husserl, Heidegger)
+- **Toronto Metropolitan University PH8121 syllabus (Prof. John Caruana)** — https://www.torontomu.ca/content/dam/philosophy/courses/PH8121-Recent-Continental-Philosophy.pdf — week 1: the phenomenological context. D1 curriculum evidence, not a teaching resource itself.
+- **Stanford Encyclopedia of Philosophy — Levinas** — https://plato.stanford.edu/entries/levinas/ — open access. Covers the Husserl/Heidegger background. **Verify at D2: SEP editorial policy.**
 
 ### mod-rel-15 — Totality and Infinity I-IV (the face, exteriority, dwelling, eros)
 - **Toronto Metropolitan University PH8121 syllabus (Prof. John Caruana)** — https://www.torontomu.ca/content/dam/philosophy/courses/PH8121-Recent-Continental-Philosophy.pdf — open access (the syllabus PDF itself is on the university's site). Covers: Levinas's phenomenological context, Totality and Infinity I-IV with exact TI page ranges. **CREDENTIALS-VERIFIED (this session): Caruana's TMU faculty page (https://www.torontomu.ca/philosophy/faculty-staff/caruana-john/) was successfully fetched — Associate Professor, Department of Philosophy, BA McGill, MA, PhD York University. NOTE: the TMU graduate-courses page's Fall 2026 attribution is from a search snippet, not a successful fetch — removed. This verifies credentials and the syllabus's openness, NOT the primary text's openness (Totality and Infinity, Duquesne UP, is a paid book) and NOT the course's own accessibility as a teaching resource (the syllabus is a PDF, not a video course).**
 - **Stanford Encyclopedia of Philosophy — Levinas** — https://plato.stanford.edu/entries/levinas/ — open access. **Verify at D2: SEP editorial policy.**
 
 ### mod-rel-16 — Derrida's critique (Violence and Metaphysics); later Levinas (God and Philosophy, Substitution)
+- **Toronto Metropolitan University PH8121 syllabus (Caruana)** — week 6: Derrida's "Violence and Metaphysics"; week 7: later Levinas ("God and Philosophy", "Substitution"). D1 curriculum evidence, not a teaching resource itself.
+- **Stanford Encyclopedia of Philosophy — Derrida** — https://plato.stanford.edu/entries/derrida/ — open access. **Verify at D2: SEP editorial policy.**
 
 ### mod-rel-17 — Derrida on justice, hospitality, ethical singularity, forgiveness
 - **Toronto Metropolitan University PH8121 syllabus (Caruana)** — weeks 6-12 (Derrida's "Violence and Metaphysics", later Levinas, Derrida on justice, hospitality, ethical singularity and forgiveness).
@@ -78,6 +82,9 @@ All candidates are DRAFT until D2 verification (open-access check + instructor c
 
 ### mod-rel-20 — Walker's Moral Understandings; future directions
 - **Toronto Metropolitan University PH8112 syllabus (Schwartz)** — weeks 10-12 (Walker's Moral Understandings with page counts).
+
+### mod-rel-21 — Capstone — relational ethics for the walk of life
+- **No dedicated open capstone found this session.** The capstone must be built from the degree's own material per the spec's capstone rule — it is NOT filled by any syllabus; the PH8121 and PH8112 syllabi are D1 curriculum evidence only.
 
 ## Hours arithmetic (candidate estimate — NOT a measured instruction-time claim)
 

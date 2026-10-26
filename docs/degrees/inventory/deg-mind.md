@@ -23,52 +23,56 @@ A fourth syllabus was searched (RPI PHIL/PSYC 2120, Bram van Heuveln) and opened
 The three syllabi agree on the same skeleton: (a) what is cognitive science (the mind as a natural, information-processing system), (b) attention, perception and the neural substrate, (c) learning, memory and knowledge representation, (d) language, reasoning and decision-making, (e) development, evolution and the nature/nurture question, (f) AI, neural networks and the philosophy-of-mind questions the field raises (free will, consciousness, morality), (g) computational and embodied approaches, (h) applications. Where they diverge — Columbia/Barnard (Baldassano/Morrison) leans into the interdisciplinary breadth with a Marr's-levels spine and an explicit AI-and-philosophy close, UT Dallas (O'Toole) is a brain-and-behavior survey organized around Scientific American readings with no assigned book, Dartmouth (Callaway/Phillips) is a 22-lecture topic survey that closes with the free-will/consciousness big questions and a Dartmouth-AI-history module — the D1 map below keeps a levels-and-topics spine and folds each course's emphasis into the module where it belongs, per the centering clause.
 
 ### A. Orientation — what is cognitive science?
-- What is cognitive science; the mind as an information-processing system [Columbia wk 1; UT Dallas wk 1; Dartmouth wk 1]
-- Marr's three levels of analysis: computational, algorithmic, implementational [Columbia wk 2 "Explanation" — the actual reading is Marr (1982) "The Philosophy and the Approach"; the earlier Dartmouth five-levels claim was a hallucination and is retracted]
-- History of cognitive science: behaviorism → cognitive revolution → present [UT Dallas wk 2; Dartmouth wk 2]
-- Interdisciplinary roots (psychology, linguistics, philosophy, neuroscience, AI, anthropology) [Columbia wk 1; UT Dallas wk 1]
+- What is cognitive science; the mind as an information-processing system [Columbia 9/5 "What is Cognitive Science?"; UT Dallas Jan 20 "Business and Introduction"; Dartmouth wk1 lec1 "Introduction to Cognitive Science"]
+- Marr's three levels of analysis: computational, algorithmic, implementational [Columbia 9/12 "Explanation" — the required reading is Marr (1982) "The Philosophy and the Approach"; also Dartmouth wk3 lec6 "How you see the world" (Marr (1982) required)]
+- History of cognitive science: behaviorism → cognitive revolution → present [UT Dallas Jan 22 "History of Cognitive Science"; also UT Dallas Jan 27 R1 Hogan "The forgotten era of brain"]
+- Interdisciplinary roots (psychology, linguistics, philosophy, neuroscience, AI, anthropology) [Columbia course description; Dartmouth wk1 lec1]
 
 ### B. Mind and brain — the neural substrate
-- The nervous system; neuroanatomy overview [Columbia wk 2]
-- Neurons, synapses and chemical neurotransmission [Dartmouth wk 2 lab]
-- Neural network models; connectionism and learning [UT Dallas wk 3; Columbia wk 3]
-- Brain-computer interfaces and neurotechnology [Dartmouth wk 10]
+- The nervous system; neuroanatomy overview [Columbia 10/12 "The Brain" (Churchland selection); UT Dallas Feb 3 "Brain Structure"; Dartmouth wk2 lec5 "What does your brain have to do with it?"]
+- Methods in neuroscience; measuring the brain [Columbia 10/17 "Studying the Mind by Measuring the Brain" (Coltheart, Fodor); UT Dallas Jan 29 "Methods in Neuroscience"]
+- Neurons and neural computation [Dartmouth wk2 lec4 "Computation in Cognitive Science" (Carandini, Crane, Turing machines, Cobb)]
+- Neural network models; connectionism and learning [UT Dallas Feb 17 "Real & Artificial Neural Networks"]
+- Brain-computer interfaces and neurotechnology [Dartmouth wk2 lec2 "What happens when minds break?" (Rafal Balint's syndrome, Sacks "Speed", Clive and amnesia)]
 
 ### C. Attention, perception and consciousness
-- The mind-body problem and consciousness [Columbia wk 12]
-- Perception; how we build a world [Columbia wk 13; Dartmouth wk 3]
-- Selective attention and cognitive control [Columbia wk 4]
-- Mindfulness and the science of present-moment awareness [REMOVED from Columbia-backed material — the extraction-prompt summary's "Raffone wk 14 mindfulness" claim was a hallucination; the actual 2023 syllabus has no mindfulness lecture. The row remains in the map only because it directly serves the centering clause and has independent open candidates (see the D2 pool).]
-- Consciousness — the neural correlates and the hard question [Columbia wk 12; UT Dallas wk 9]
+- The mind-body problem and consciousness [Columbia 11/21 "Consciousness" (Jackson "Epiphenomenal Qualia")]
+- Perception; how we build a world [Columbia 10/26 "Attention" context; Dartmouth wk3 lec6 "How you see the world" (Marr, Sacks "Stereo Sue"); UT Dallas Feb 24 "Seeing and perceiving"]
+- Selective attention and cognitive control [Columbia 10/26 "Attention" (Simons & Levin, Jiang et al.); Dartmouth wk3 lec7 "Limited capacities, attention and memory" (Hyman et al. inattentional blindness, Simons & Lev(1998) video)]
+- Mindfulness and the science of present-moment awareness [NOT in any of the three syllabi — the earlier "Raffone wk 14 mindfulness" claim was a hallucination; the row remains only because it directly serves the centering clause and has independent open candidates (see the D2 pool)]
+- Consciousness and free will [Dartmouth wk9 lec20 "Big questions and final frontiers" (Soon et al. unconscious determinants, Roskies neuroscientific challenges to free will, Owen detecting awareness in the vegetative state, Nagel "What is it like to be a bat?")]
 
 ### D. Learning, memory and knowledge
-- Learning and conditioning [UT Dallas wk 5; Dartmouth wk 4]
-- Working memory and executive function [Columbia wk 4]
-- Long-term memory, consolidation, semantic networks [Columbia wk 4; Dartmouth wk 4]
-- Knowledge representation, concepts and categories [Columbia wk 4; UT Dallas wk 6]
+- Learning and conditioning [Columbia 11/16 "Reinforcement Learning" (Botvinick et al. "Reinforcement Learning, Fast and Slow")]
+- Working memory and executive function [Columbia 10/31 "Memory" (Averbach and Sperling, Baddeley "Working Memory")]
+- Long-term memory, consolidation [Columbia 11/2 "Memory" (Gallistel and King); UT Dallas Mar 31 "Memory"; UT Dallas Apr 7 R8 Paller and Uudiette "Sleep learning gets real"; Dartmouth wk3 lec7 "Limited capacities, attention and memory"]
+- Knowledge representation, concepts and categories [Columbia 9/19 "Representation" (Koslyn, Thompson, Ganis The Case for Mental Imagery Ch 1); Dartmouth wk4 lec9 "Concepts and conceptual development" (Carey origin of concepts Ch 4, Feigenson/Carey/Hauser)]
 
 ### E. Language and thought
-- Language acquisition and development [Columbia wk 6; Dartmouth wk 5]
-- Language comprehension and production [Columbia wk 6]
-- Reasoning, problem solving and judgment [Columbia wk 7; UT Dallas wk 7]
-- Decision-making under uncertainty; heuristics and biases [Columbia wk 7]
+- Language acquisition and development [Columbia 10/10 "Language learning" (Jackendoff Patterns in the Mind Ch 3, 10); Dartmouth wk4 lec10 "Learning (a language)" (Friedmann & Rusou critical period, Kuhl)]
+- Language comprehension and production [Columbia 10/5 "Basic Principles of Linguistics" (Pinker The Language Instinct Ch 1-2); Dartmouth wk5 lec11 "Understanding (a language)" (Adger Language Unlimited, Hofstadter on Google Translate, Chomsky on ChatGPT)]
+- Reasoning, problem solving and judgment [Columbia 11/9 "Probabilistic Reasoning" (Tversky and Kahneman); Dartmouth wk6 lec12 "Inference" (Groopman, Griffiths & Tenenbaum, Gopnik TED)]
+- Decision-making under uncertainty; heuristics and biases [Dartmouth wk8 lec17 "Decision Making" (Kahneman Thinking fast and slow Ch 26 prospect theory, Gigerenzer TEDx, Ariely); UT Dallas Apr 14 "Judgment, decision-making"]
 
 ### F. Self, emotion and social cognition
-- Self and identity through a cognitive lens [Columbia wk 9]
-- Emotion, affect and appraisal [Columbia wk 10]
-- Social cognition — how we think about other minds [Columbia wk 11]
-- Cognitive development across the lifespan [Columbia wk 11]
+- Self and identity through a cognitive lens [Columbia 11/28 "Belief" (Gendler "Belief and Alief")]
+- Emotion, affect and appraisal [Dartmouth wk6 lec14 "Emotion" (Frank Passions within Reason, Barrett TEDx, Aviezer body cues, Saxe Bayesian emotion model); UT Dallas Apr 28 "Emotion"]
+- Social cognition — how we think about other minds [Dartmouth wk6 lec13 "Theory of Mind" (Dennett intentional strategy, Jara-Ettinger naïve utility calculus)]
+- Cooperation, morality and prosocial behaviour [Dartmouth wk7 lec15 "Cooperation" (Rand & Nowak, ncase.me/trust); Dartmouth wk7 lec16 "Morality" (Greene fMRI moral judgment, Bloom moral life of babies)]
+- Cognitive development across the lifespan [Columbia 9/26 "Development" (Wynn addition/subtraction by infants); Dartmouth wk2 lec3 "Evolution and the nature vs. nurture debate" (Turkheimer SES modifies heritability of IQ)]
 
 ### G. AI, intelligence and the future of mind
-- Artificial intelligence — symbolic and connectionist approaches [UT Dallas wk 4; Columbia wk 3]
-- Is the mind a computer? Computationalism, functionalism, embodiment [UT Dallas wk 4; Dartmouth wk 6]
-- Cognitive robotics; embodied and situated cognition [UT Dallas wk 13; Dartmouth wk 7]
-- Cognitive science in the age of large-language models; the alignment question [UT Dallas wk 14]
+- Artificial intelligence — symbolic and connectionist approaches [Columbia 12/5 "Artificial Intelligence" (Russell and Norvig Ch 1, Wolchover); UT Dallas Feb 10 "Mind and machine"]
+- Is the mind a computer? Computationalism and its critics [Columbia 11/30 "Challenges to Cognitive Science" (Searle "Minds, Brains, and Computers"); Dartmouth wk2 lec4 (Cobb "Why your brain is not a computer")]
+- Embodied and situated cognition [Columbia 11/14 "Robotics and Embodied Cognition" (Clark "An embodied cognitive science")]
+- Cognitive science in the age of large-language models; the alignment question [Dartmouth wk5 lec11 (Hofstadter on Google Translate, Chomsky on ChatGPT); Dartmouth wk9 lec19 "Artificial intelligence" (The Dark Secret at the Heart of AI)]
+- Cognitive science at Dartmouth; the history of AI [Dartmouth wk9 lec21 (Kemeny "Man Viewed as a Machine", the Dartmouth AI proposal)]
 
 ### H. Individual differences and application
-- Intelligence; individual differences in cognition [Columbia wk 11; UT Dallas wk 11]
-- Cognitive science applications — education, health, usability, wellbeing [Columbia wk 13; UT Dallas wk 14]
-- Cognitive science, wellbeing and the walk of life (capstone synthesis) [Columbia wk 14; per centering clause]
+- Intelligence; individual differences in cognition [Columbia 9/28 "Nature and Nurture" (Bouchard "Genes and Human Psychological Traits"); Dartmouth wk2 lec3 (Turkheimer)]
+- Evolution and the nature/nurture question [Columbia 10/3 "Evolution" (Darwin Descent of Man Ch 21, Cosmides and Tooby evolutionary psychology primer)]
+- Cognitive science applications — design, education, health [Dartmouth wk4 lec8 "Cognitive Science of Design" (Oviatt human-centered design meets cognitive load theory)]
+- Cognitive science, wellbeing and the walk of life (capstone synthesis) [Dartmouth wk10 lec22 "Wrap up — What have we learned? Where do we go next?"]
 
 ## Coverage matrix (topic → module that will teach it)
 

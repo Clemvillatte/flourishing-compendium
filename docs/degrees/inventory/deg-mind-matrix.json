@@ -49,49 +49,245 @@
       "topic": "What is cognitive science; Marr's three levels (computational, algorithmic, implementational)",
       "module": "mod-mind-1",
       "status": "design-existing, under-scaled",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec01 Introduction (79:55)"
+        }
+      ]
     },
     {
       "topic": "History of cognitive science (behaviorism \u2192 cognitive revolution)",
       "module": "mod-mind-1",
       "status": "PARTIAL",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec01 Introduction (79:55)"
+        }
+      ]
     },
     {
       "topic": "Interdisciplinary roots (psychology, linguistics, philosophy, neuroscience, AI, anthropology)",
       "module": "mod-mind-1",
       "status": "MISSING",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec01 Introduction (79:55)"
+        }
+      ]
     },
     {
       "topic": "Neuroanatomy and the nervous system",
       "module": "mod-mind-2",
       "status": "PARTIAL",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec02 Neuroanatomy (50:18)"
+        }
+      ]
     },
     {
       "topic": "Neural network / connectionist models",
       "module": "mod-mind-3",
       "status": "MISSING",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec01"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec02"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec03"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec04"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec05"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec06"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec07"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec08"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec09"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec10"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec11"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec12"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec13"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec14"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec15"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec16"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec17"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec18"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec19"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec20"
+        }
+      ]
     },
     {
       "topic": "Brain-computer interfaces and neurotechnology",
       "module": "mod-mind-3",
       "status": "OPTIONAL",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec01"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec02"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec03"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec04"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec05"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec06"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec07"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec08"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec09"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec10"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec11"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec12"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec13"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec14"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec15"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec16"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec17"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec18"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec19"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.40_lec20"
+        }
+      ]
     },
     {
       "topic": "Attention and cognitive control",
       "module": "mod-mind-4",
       "status": "PARTIAL",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec24 Attention and Awareness (56:42)"
+        }
+      ]
     },
     {
       "topic": "Perception (predictive, top-down)",
       "module": "mod-mind-5",
       "status": "MISSING",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec04 Cognitive Neuroscience Methods I (60:38)"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec05 Cognitive Neuroscience Methods II (71:51)"
+        }
+      ]
     },
     {
       "topic": "Consciousness (neural correlates + the hard question)",
@@ -109,91 +305,362 @@
       "topic": "Learning and conditioning",
       "module": "mod-mind-8",
       "status": "MISSING",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec01 The Brain: An Introduction to Psychology"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec02 Development I"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec03 Development II"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec04"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec05"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec09"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec10"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec13"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec14"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec15"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec16"
+        }
+      ]
     },
     {
       "topic": "Working memory and executive function",
       "module": "mod-mind-8",
       "status": "PARTIAL",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec01 The Brain: An Introduction to Psychology"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec02 Development I"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec03 Development II"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec04"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec05"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec09"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec10"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec13"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec14"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec15"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec16"
+        }
+      ]
     },
     {
       "topic": "Long-term memory (consolidation, sleep, retrieval practice)",
       "module": "mod-mind-9",
       "status": "MISSING",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec06 Memory I"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec07 Memory II"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec08 Memory III"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec17"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec18"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec19"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec20"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec21"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec22"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec23"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec24"
+        }
+      ]
     },
     {
       "topic": "Knowledge representation and concepts",
       "module": "mod-mind-9",
       "status": "MISSING",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec06 Memory I"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec07 Memory II"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec08 Memory III"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec17"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec18"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec19"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec20"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec21"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec22"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec23"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec24"
+        }
+      ]
     },
     {
       "topic": "Language acquisition",
       "module": "mod-mind-10",
       "status": "MISSING",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec18 Language I (68:58)"
+        }
+      ]
     },
     {
       "topic": "Language comprehension",
       "module": "mod-mind-10",
       "status": "MISSING",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec18 Language I (68:58)"
+        }
+      ]
     },
     {
       "topic": "Reasoning and problem solving",
       "module": "mod-mind-11",
       "status": "MISSING",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec11 Language I"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec12 Language II"
+        }
+      ]
     },
     {
       "topic": "Judgment and decision-making (heuristics, biases, dual-process)",
       "module": "mod-mind-11",
       "status": "MISSING",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec11 Language I"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.00SC_lec12 Language II"
+        }
+      ]
     },
     {
       "topic": "Self and identity (cognitive science of the self)",
       "module": "mod-mind-12",
       "status": "MISSING",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec20 Mentalizing and Theory of Mind (76:01)"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec21 Brain Networks (83:22)"
+        }
+      ]
     },
     {
       "topic": "Emotion and affect (affective neuroscience)",
       "module": "mod-mind-12",
       "status": "MISSING",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec20 Mentalizing and Theory of Mind (76:01)"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec21 Brain Networks (83:22)"
+        }
+      ]
     },
     {
       "topic": "Social cognition (theory of mind, empathy)",
       "module": "mod-mind-12",
       "status": "MISSING",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec20 Mentalizing and Theory of Mind (76:01)"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec21 Brain Networks (83:22)"
+        }
+      ]
     },
     {
       "topic": "Cognitive development across the lifespan",
       "module": "mod-mind-13",
       "status": "MISSING",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec10 Development, Nature & Nurture I (81:07)"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec11 Development, Nature & Nurture II (77:48)"
+        }
+      ]
     },
     {
       "topic": "Intelligence and individual differences",
       "module": "mod-mind-13",
       "status": "OPTIONAL",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec10 Development, Nature & Nurture I (81:07)"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec11 Development, Nature & Nurture II (77:48)"
+        }
+      ]
     },
     {
       "topic": "AI \u2014 symbolic and connectionist approaches",
       "module": "mod-mind-14",
       "status": "MISSING",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec06 Experimental Design (56:47)"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec07 Category Selectivity, Controversies, and MVPA (69:22)"
+        }
+      ]
     },
     {
       "topic": "Embodied, extended and predictive cognition",
       "module": "mod-mind-14",
       "status": "MISSING",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec06 Experimental Design (56:47)"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec07 Category Selectivity, Controversies, and MVPA (69:22)"
+        }
+      ]
     },
     {
       "topic": "Cognitive science in the LLM age; alignment",
@@ -205,7 +672,28 @@
       "topic": "Cognitive-science applications (education, health, wellbeing)",
       "module": "mod-mind-16",
       "status": "MISSING",
-      "sources": []
+      "sources": [
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec08 Navigation I (83:09)"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec09 Navigation II (71:49)"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec13 Number (70:22)"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec15 Hearing and Speech (78:30)"
+        },
+        {
+          "type": "mit_ocw_lesson",
+          "id": "9.13_lec16 Music (72:23)"
+        }
+      ]
     },
     {
       "topic": "Capstone \u2014 cognition for the walk of life",
@@ -238,5 +726,6 @@
     "retraction": "the earlier 92.30h figure double-counted 9.40's duplicated files and counted 3 sixteen-second track derivatives in 9.00SC; the corrected total is 67.73h from 61 unique lessons \u2014 a ~32h gap to the 100h floor",
     "caveat": "measured VIDEO time only; 17 proposed modules x 6h minimum = >=102h required; on-scope filtering of the 61 lessons against the coverage matrix is NOT yet done; the D2 checkpoint must rule on whether video-only counts as measured instruction time"
   },
-  "d1_syllabus_evidence_correction": "the Columbia COGS1001.pdf was re-fetched WITHOUT an extraction prompt this session and read verbatim \u2014 the actual syllabus is 'Introduction to Cognitive Science (COGS 1001), Fall 2023' by Christopher Baldassano (Columbia Psychology, CREDENTIALS-VERIFIED) and John Morrison (Barnard Philosophy, founding director of the Cognitive Science program, CREDENTIALS-VERIFIED); the earlier 'PSYC UN2410, Spring 2025, Raffone & Bondi' attribution and the 'wk 14 mindfulness' lecture were hallucinations and are retracted"
+  "d1_syllabus_evidence_correction": "the Columbia COGS1001.pdf was re-fetched WITHOUT an extraction prompt this session and read verbatim \u2014 the actual syllabus is 'Introduction to Cognitive Science (COGS 1001), Fall 2023' by Christopher Baldassano (Columbia Psychology, CREDENTIALS-VERIFIED) and John Morrison (Barnard Philosophy, founding director of the Cognitive Science program, CREDENTIALS-VERIFIED); the earlier 'PSYC UN2410, Spring 2025, Raffone & Bondi' attribution and the 'wk 14 mindfulness' lecture were hallucinations and are retracted",
+  "allocation_note": "the topics[].sources arrays now carry the proposed MIT OCW lesson allocation (each lesson assigned to exactly one module, no double-counting). NOTE: the 9.40 allocation to mod-mind-3 (all 20 lessons) is PENDING the on-scope filter \u2014 counting the entire Neural Computation course conflicts with the finite-scope exclusions unless each lesson has a specific on-matrix justification. Modules 6, 7, 15 and 17 have NO MIT OCW lesson mapped \u2014 these rows need additional resources at D2."
 }
