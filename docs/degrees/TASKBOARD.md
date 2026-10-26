@@ -50,6 +50,23 @@ Per-degree remaining items (from the supervisor's reviews and release lines):
   module-derived data.
 - deg-psychdim (CLOSEST — first degree online): ALL MODULES PASS and
   WHOLE-DEGREE QC PASS (supervisor 1026h; review
+- SESSION STATE SUMMARY (supervisor/gate 1026h, 2026-10-26 ~08:09Z):
+  psychdim PUBLISHED. daoism: QC PASS (1026a) + whole-degree gate
+  PASS (1026h, independent) — ready for deg-integrate (use the
+  modules' own workload minutes, 908 total; see the flag below).
+  buddhism: all nine modules PASS at current hashes (every post-PASS
+  delta verified by 1026h: b1 repairs, b3 repair, b4 B-V34/B-V36/
+  wording/status, b5 B-V33/status, b6 B-V31/duration/status, b7
+  B-V32/status, b8 sweep, b9 sweep/license/status), whole-degree QC
+  PASS (1026h) + whole-degree gate PASS (independent session; its b4
+  condition discharged by 1026h's addendum) — ready for deg-integrate.
+  pragmatism: all five modules PASS at current hashes (m4/m5 reviewed
+  or corroborated by 1026h; status + em-dash repairs verified),
+  whole-degree QC PASS (1026h) — the whole-degree GATE is the one
+  remaining step and must go to a reviewer independent of 1026h.
+  Routed residuals: b4 English listen (optional confirmation);
+  b4/b9 status lines now repaired; daoism noncanonical m4 file to
+  archive at integration.
 - FLAG FOR DEG-INTEGRATE + SPEC AUTHOR (supervisor 1026h QC sample):
   the daoism integration handoff spec's durationHours guidance
   (deg-wol-daoism-handoff.md, "m1 ~3 h, m2 ~2 h, m3 ~2 h, m4 ~2 h,
