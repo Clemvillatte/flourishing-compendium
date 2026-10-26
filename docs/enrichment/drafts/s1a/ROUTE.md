@@ -532,3 +532,20 @@ s1a-003/004/006/007/008 are ALREADY PUBLISHED, each under TWO ST numbers
 (ST393+ST411, ST394+ST412, ST395+ST413, ST396+ST414, ST370+ST415) — their
 draft statuses still read ready/qc_pending-era labels and should not be
 re-registered; verified this session by title grep against content/stories/.
+
+2026-10-26 ~00:24Z storyteller-pplx-s1a-1026b, addendum (advisor QC round 1
+APPLIED to s1a-076-upgrade-ST220): all quoted spans re-verified against an
+unprompted full-text fetch of the Standard Ebooks page — seven quotation
+spans confirmed verbatim; the pardon line's nested punctuation corrected to
+the carrier's own double quotes (the first fetch's single-quote rendering was
+an extraction artifact). Sentence-level citations closed on every span;
+evidence ledger + coverage matrix added to the draft front matter; genre
+added to the provenance line; the body is explicitly delimited (BEGIN/END
+BODY). DECISION REQUESTED (S127): the live page wires S127 (discipline of
+not wanting) to this story, but nothing in the opened carrier supports the
+link and I have not invented a justification — please either supply a
+grounded justification from your own opened evidence or remove/reclassify
+the S127 link when you apply the upgrade. S119 is kept with its clause
+explicitly marked as the compendium's reading (the chapter narrates no
+morning practice). story_check --context published re-run after repairs:
+0 errors.
