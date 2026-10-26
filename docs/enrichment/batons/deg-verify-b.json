@@ -27,5 +27,7 @@
    "from": "worker-pplx-verify-1026g",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-26T12:33:47+00:00"
 }

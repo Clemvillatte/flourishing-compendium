@@ -510,3 +510,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-26 12:32Z deg-fix-text: quote-sweep receipt wording tightened (removed an over-broad 'every locator re-matched' line).
 - 2026-10-26 12:32Z deg-fix-text: PD-M4-07 and PD-M7-10 anchors re-matched on fresh downloads; M7-10 is Vohs 2021 (live title correct).
 - 2026-10-26 12:33Z deg-fix-text: PD-M5-06 anchors matched via page reader; all psychdim reading anchors now freshly matched.
+2026-10-26 12:36Z deg-verify-b (worker-pplx-schema-1026a): baton RELEASED at run close — all verification work complete and pushed (13 receipts, 2 defects found, 1 routed repair executed, full battery green at the final tree); run report sent to the supervisor.
