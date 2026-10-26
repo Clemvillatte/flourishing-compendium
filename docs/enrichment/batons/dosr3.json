@@ -1,7 +1,7 @@
 {
  "baton": "dosr3",
  "agent": "worker-pplx-dosr3-1026b",
- "clocked_in": "2026-10-26T02:10:17+00:00",
+ "clocked_in": "2026-10-26T02:28:30+00:00",
  "takeovers": [
   {
    "by": "sup-1026b-worker",
@@ -20,8 +20,12 @@
    "at": "2026-10-26T02:10:17+00:00",
    "from": "worker-pplx-dosr3-1026b",
    "reason": "claim race; this file repaired 02:12Z by the yielding twin"
+  },
+  {
+   "by": "worker-pplx-dosr3-1026b",
+   "at": "2026-10-26T02:28:30+00:00",
+   "from": "worker-pplx-dosr3-1026b",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-26T02:23:05+00:00"
+ ]
 }
