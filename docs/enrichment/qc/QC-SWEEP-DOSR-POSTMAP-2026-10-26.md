@@ -178,7 +178,8 @@ four receipts this session; 0 repairs needed; 0 confirmed wording
 deviations; 3 spans (philarchive) still open; 1 minor citation re-anchoring
 flag (scispace -> publisher DOI).
 
-## ADDENDUM 2 (2026-10-26, clock reading 09:58:10Z at commit) — cognition
+## ADDENDUM 2 (2026-10-26; measured clock reading 09:57:18Z immediately
+before the save, which committed within ~30s) — cognition
 philarchive x3 RESOLVED VERBATIM; session flags all closed
 
 The three HEMC spans in cognition are Rupert 2004 ("Challenges to the
