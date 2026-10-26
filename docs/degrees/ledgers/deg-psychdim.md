@@ -2980,6 +2980,19 @@ module-QC pass; M2–M8 still need independent module review, then
 whole-degree final review/advisor QC. M5 adviser credit failure remains
 explicitly open; no self-clearance or integration/publication request.
 
+### Bounded self-review, 05:28Z
+
+Approved-matrix cross-check of all eight drafts: M3's final alignment
+table still described its pre-adviser perception/learning/RNT tasks,
+although the repaired teaching and assessments were present. Table
+now mirrors the actual depth-cue task, same-question comparison and
+five-feature mapping. M5 explicitly requires own private/redacted SCC
+reflection while fictional responses remain valid for arithmetic;
+M7 explicitly maps all three measurement families to the same own
+episode and marks uncollected task/physiological information. No
+new sources, outcome families, time blocks or clearance. Existing
+reflection/assessment allowances cover these clarifications.
+
 M1 independent supervisor decision consumed at 05:02Z:
 `reviews/deg-psychdim-m1-supervisor-2026-10-26.md` records **MODULE-QC
 PASS** on production commit **cdb8f0939**, module SHA-256

@@ -290,6 +290,9 @@ For final assessment, write 700–900 words plus the private/redacted diary:
 - **Process and measures:** map one own goal conflict through all
   four stages; distinguish diary observations from the three study
   measures, and state the older-adult/under-18 population limits.
+  For that same episode, say what subjective, executive-task and
+  physiological information would each contribute and which you
+  did not collect. Do not invent task results or HRV recordings.
 - **Evidence comparison:** include the two-row depletion card,
   preserving numbers, adjustments, planned/exploratory status and
   what neither establishes about your own exhaustion.

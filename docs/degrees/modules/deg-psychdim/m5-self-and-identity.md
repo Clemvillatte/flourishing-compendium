@@ -275,6 +275,13 @@ a complete 12-item score. If you privately complete the full form,
 retain the answers and any summary yourself; a fictional complete
 response set is an equally valid way to demonstrate scoring.
 
+Separately, reflect privately on your own self-concept clarity:
+how clear, consistent and stable do your self-beliefs seem in one
+ordinary domain, and what supports or complicates that impression?
+Use the form as a prompt if helpful. You may keep every answer and
+score private; the educational evidence is a redacted account of
+your reasoning and its limits.
+
 Manchiraju's review warns about self-report/common-method dependence,
 limited cross-national invariance evidence and unresolved causal ordering.
 It also warns that clearer self-beliefs need not be accurate or flexibly
@@ -340,6 +347,8 @@ Plan and write an 800–1,000-word inquiry note:
 - **Measurement:** show the three fictional keyed responses above
   and the procedure for a complete mean; explain two measurement
   limitations and why no diagnostic or improvement conclusion follows.
+  Include the private/redacted reflection on your own clarity, using
+  one ordinary domain and acknowledging uncertain or conflicting evidence.
 - **Transfer:** for each outcome family, add a private/redactable
   instance, a useful understanding or choice, and a remaining uncertainty.
   The same ordinary episode may serve several families.

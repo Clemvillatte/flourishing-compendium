@@ -389,8 +389,8 @@ minutes. These are estimates; optional wider reading is not counted.
 
 | Outcome | Teaching | Feedback-bearing practice | Evidence in final task |
 |---|---|---|---|
-| Learning | Lecture 4; Bouton; notification example | Café/queue classification | Two relations and inference boundary |
-| Perception | Lecture 7; text analogy | Tomorrow-message completion | Saved words, interpretation and check |
+| Learning | Lecture 4; Bouton; notification example | Café/queue classification and same-question model comparison | Relations, inference boundary and pairing/prediction-error disagreement |
+| Perception | Lecture 7; depth-cue example; text analogy | Perspective illusion plus descriptive access route and feedback | Perspective cue, size inference and interpretation check |
 | Memory | Bounded Noba; lecture 8; worked term | M2 term cues; three classifications | Kinds, stages and retrieval plan |
 | Judgment | Lecture 10; worked equivalent frames | Study-routine countercheck | Equivalence and disconfirming check |
-| RNT/source appraisal | Ehring; worked limited appraisal | Missing-detail completion with feedback | Process distinction and three justified unknowns |
+| RNT/source appraisal | Ehring; worked limited appraisal | Feature-to-evidence mapping and missing-detail feedback | Five features with justified unknowns, process distinction and limited appraisal |
