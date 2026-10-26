@@ -93,175 +93,15 @@
       "topic": "Neural network / connectionist models",
       "module": "mod-mind-3",
       "status": "MISSING",
-      "sources": [
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec01"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec02"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec03"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec04"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec05"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec06"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec07"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec08"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec09"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec10"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec11"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec12"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec13"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec14"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec15"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec16"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec17"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec18"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec19"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec20"
-        }
-      ]
+      "sources": [],
+      "note": "9.40 Neural Computation EXCLUDED per on-scope filter (mathematical methodology with no Walk-of-Life layer); this module needs a different resource at D2."
     },
     {
       "topic": "Brain-computer interfaces and neurotechnology",
       "module": "mod-mind-3",
       "status": "OPTIONAL",
-      "sources": [
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec01"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec02"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec03"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec04"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec05"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec06"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec07"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec08"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec09"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec10"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec11"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec12"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec13"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec14"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec15"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec16"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec17"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec18"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec19"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.40_lec20"
-        }
-      ]
+      "sources": [],
+      "note": "9.40 Neural Computation EXCLUDED per on-scope filter (mathematical methodology with no Walk-of-Life layer); this module needs a different resource at D2."
     },
     {
       "topic": "Attention and cognitive control",
@@ -727,5 +567,5 @@
     "caveat": "measured VIDEO time only; 17 proposed modules x 6h minimum = >=102h required; on-scope filtering of the 61 lessons against the coverage matrix is NOT yet done; the D2 checkpoint must rule on whether video-only counts as measured instruction time"
   },
   "d1_syllabus_evidence_correction": "the Columbia COGS1001.pdf was re-fetched WITHOUT an extraction prompt this session and read verbatim \u2014 the actual syllabus is 'Introduction to Cognitive Science (COGS 1001), Fall 2023' by Christopher Baldassano (Columbia Psychology, CREDENTIALS-VERIFIED) and John Morrison (Barnard Philosophy, founding director of the Cognitive Science program, CREDENTIALS-VERIFIED); the earlier 'PSYC UN2410, Spring 2025, Raffone & Bondi' attribution and the 'wk 14 mindfulness' lecture were hallucinations and are retracted",
-  "allocation_note": "the topics[].sources arrays now carry the proposed MIT OCW lesson allocation (each lesson assigned to exactly one module, no double-counting). NOTE: the 9.40 allocation to mod-mind-3 (all 20 lessons) is PENDING the on-scope filter \u2014 counting the entire Neural Computation course conflicts with the finite-scope exclusions unless each lesson has a specific on-matrix justification. Modules 6, 7, 15 and 17 have NO MIT OCW lesson mapped \u2014 these rows need additional resources at D2."
+  "allocation_note": "the topics[].sources arrays carry the MIT OCW lesson allocation (each lesson assigned to exactly one module, no double-counting). The 9.40 Neural Computation course (20 lessons, 24.56h) is EXCLUDED per the on-scope filter \u2014 mathematical methodology with no Walk-of-Life teaching layer. The corrected spine is 9.13 (20.15h) + 9.00SC (23.02h) = 43.17h from 41 unique lessons, against a >=100h floor \u2014 a ~57h gap. Modules 3, 6, 7, 15 and 17 have NO MIT OCW lesson mapped and need additional resources at D2."
 }
