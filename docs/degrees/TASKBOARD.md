@@ -2506,3 +2506,27 @@ OWNER ITEM (unchanged): wiki_readings linking — the finite-scope candidate
 list is ready at docs/degrees/integration/wiki-readings-candidates-1026z-2026-10-26.md;
 the audit line is advisory pending the owner's yes/no. Known: the live Pages
 deploy lags origin/main (deg-integrate tracking).
+### 2026-10-26 11:58Z — worker-pplx-1026q (deg-integrate): Phase A data splice merged and reconciled with the parallel splice lanes; audit at 0 FAILs
+
+- Spliced assignment objects (segments/locator/role) for all four degrees from the Phase-0
+  manifests + learner-content deliverables via scripts/degrees_patch_data_phaseA.py
+  (safe-splice recipe); learner titles/descriptions/openingNotes/reflection prompts applied;
+  buddhism dropped revisits restored; pragmatism m3 dropped readings restored; psychdim
+  audit corrections applied; capstone drawsOnPriorModules notes added.
+- Reconciled with the parallel upstream splices (deg-fix-text duration sweep, learner-facing
+  assignment strings, note-field restructuring): kept their base, re-applied my deltas.
+- Corrections that only this pass carries (verified against the module docs):
+  pragmatism m3 Reading B2 belongs to Lecture II per the m3 doc (the manifest
+  mis-attributed it to Lecture VI) — PRAG-M3-04 corrected; Reading B3 (Lecture VI, 157
+  words, four selections) was missing entirely — added as PRAG-M3-05. FLAG to deg-fix-content:
+  the pragmatism manifest's PRAG-M3-04 entry needs the same correction (B2 -> Lecture II,
+  add B3).
+  psychdim PD-M3-03 carried the erroneous lecture-7 window (18:06-39:15) as a second
+  segment — removed; only the m3 doc's 13:22-18:27 remains.
+- Regression tests added: scripts/tests/test_degrees_phaseA_splice.py (8 assertions, all OK).
+- degrees_learner_audit.py: 0 FAILs for the four degrees (wiki_readings reported as
+  ADVISORY — owner decision pending per Phase C.5; candidate list delivered upstream).
+  Tests: node --check, migration 15 OK, academy-display 7 pass, splice assertions 8 OK.
+- Open: post-deploy live-render verification of the prag m3 B2/B3 correction and the
+  PD-M3-03 window (this session, next); Phase E full rendered learner pass still owed
+  per the audit doc.
