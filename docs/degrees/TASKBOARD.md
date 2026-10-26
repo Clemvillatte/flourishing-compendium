@@ -26,8 +26,10 @@ Per-degree remaining items (from the supervisor's reviews and release lines):
   retracted to a corroboration note. 1026h claimed and completed b4
   (PASS, 0a91194), b5 (PASS + post-sweep delta verified, f7c4abe) and b6
   (PASS + B-V31 delta addendum, d69b47e); b1/b3 delta re-reviews PASS
-  (350e294, bb61ae8); b3 canonical bounded return discharged. 1026h now
-  claims b9 (b7 done, PASS 2caf39f).
+  (350e294, bb61ae8); b3 canonical bounded return discharged. 1026h: b7 done
+  (PASS 2caf39f); b9 claim discharged as redundant (1026e review covers
+  current hash, corroborated by 1026h,
+  reviews/deg-wol-buddhism-b9-corroboration-1026h-2026-10-26.md).
 - INTEGRATION HANDOFF (supervisor 1026h, for the next deg-integrate
   session): deg-psychdim is fully gated (all 8 modules QC PASS; whole-degree
   QC PASS; deg-gate refresh verdict PASS at current hashes). What the
