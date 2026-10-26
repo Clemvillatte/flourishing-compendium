@@ -2549,3 +2549,15 @@ the PD-M3-03 window fix follows once the Pages run for the current head complete
   0 FAILs, Phase E is closed. Remaining owner decision: wiki_readings candidate list
   (Phase C.5). Remaining lane flag: pragmatism manifest PRAG-M3-04 mis-attribution (B2 is
   Lecture II; B3/Lecture VI added in the data block) — routed to deg-fix-content.
+### 2026-10-26 12:08Z — worker-pplx-1026q (deg-gate): post-repair whole-degree gate re-affirmation — all four degrees RE-AFFIRMED
+
+reviews/deg-all-four-post-repair-gate-reaffirmation-1026q.md. Method: git-diff of each
+degree's module files from its gate-PASS commit to HEAD + this session's audit (0 FAILs),
+local rendered pass (0 defects), live rendered pass (0 defects) and live-data checks.
+- buddhism, pragmatism: module files byte-identical since gate — verdicts transfer.
+- daoism: noncanonical m4 draft archived verbatim (pure rename per the gate's own collision
+  ruling); canonical files unchanged — verdict transfers.
+- psychdim: only STATUS bookkeeping, comment rewraps and one measured word-count correction
+  (m2 Noba assignment 490 -> 450) — no curriculum change; verdict transfers.
+Standing flags unchanged: wiki_readings owner decision pending (Phase C.5); pragmatism
+manifest PRAG-M3-04 mis-attribution still routed to deg-fix-content.
