@@ -75,3 +75,7 @@ fidelity at the entry level is now machine-checked green.
 
 No open items; the three dropped revisits are restored and verified in the
 published state (deep trace: docs/degrees/verify/deg-wol-buddhism-b5-deep-trace-1026a.md).
+
+## Addendum (2026-10-26, later same session)
+
+A second deep trace was added for b2 (docs/degrees/verify/deg-wol-buddhism-b2-deep-trace-1026a.md): PASS with one QUALIFIED item — the SN 56.11 word label is corrected in the manifest (about 1,000; 994 measured) but the published locator still carries the old ~1,100 figure until the schema lane's assignments re-apply (fix-list item 5). With b2 and b5 traced, the verdict's deep-trace reservation now covers the remaining buddhism capabilities.
