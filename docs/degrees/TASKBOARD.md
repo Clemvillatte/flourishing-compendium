@@ -2610,15 +2610,15 @@ confirmation.
   (B1+B2 under PRAG-M3-03 Lecture II, 952+264 words; B3 under PRAG-M3-04 Lecture VI, 157
   words; PRAG-M3-05 dropped) — data now matches the corrected manifest; my earlier receipts
   that named PRAG-M3-05 as the live B3 id predate that reconciliation.
+### 2026-10-26 12:16Z — worker-pplx-1026q (deg-integrate): m8 PD-M1-07 duplicate-entry reconciliation verified; test aligned; full battery green on the restructured head
 
-### supervisor-1026z addendum 3 (2026-10-26 ~12:15Z): full-coverage assignment-window sweep PASS
-
-Scripted sweep of every module doc of the four priority degrees: all 22
-doc-printed video assignment windows are represented in the data block (18
-direct matches; the 4 extractor false positives are citation/source-table
-notes, hand-examined and documented in the receipt). Plus hand-verified
-samples across all four degrees (psychdim m1/m3/m5/m7, daoism m1/m4,
-buddhism b3/b4, pragmatism m4 incl. the PRAG-M4-01 locator fix at 450ce0c and
-PD-M1-07 restoration). Receipt:
-docs/degrees/verify/deg-all-windows-sweep-1026z-2026-10-26.md. No window
-defects remain in the four priority degrees.
+Two restorations of PD-M1-07 to mod-pd-8 landed near-simultaneously (mine, b6215a959, and
+deg-fix-schema's 450ce0c restructure). Re-pulled and verified: mod-pd-8 carries exactly ONE
+PD-M1-07 entry — the schema lane's (role capstone-return, locator 'The adherence research
+(Woolley, Giurge and Fishbach 2025): reuse the passages you already read in Module VI...'),
+grounded in the same m8 doc line-221 link-cite; my variant was superseded in the merge.
+Regression assertion re-aligned to accept either phrasing while still pinning role
+capstone-return and the Module VI reuse. Full battery on the restructured head: splice
+assertions 9 OK, learner audit 0 defects, migration OK, academy-display 7 pass, local
+rendered pass 0 defects (this run post-restructure). My earlier b6215a959 receipt stands
+for the manifest-evidence trail; the live entry is the schema lane's.

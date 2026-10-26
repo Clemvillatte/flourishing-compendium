@@ -90,11 +90,16 @@ class PhaseASpliceTests(unittest.TestCase):
         # deg-fix-content corrected the manifest (commit 04a96cedc): the m8 doc
         # cites Woolley et al. 2025 in prose by LINK (line 221, 'original
         # adherence research', PMC13428958). PD-M1-07 must stay in m8 as a
-        # capstone-return entry (re-add b6215a959); the splice script must not
-        # strip it on rerun.
+        # capstone-return entry. Two restorations landed near-simultaneously
+        # (this lane's b6215a959, then deg-fix-schema's restructure at 450ce0c
+        # whose entry is the one now on main); either phrasing of the reuse
+        # locator is acceptable, but the entry must never be stripped again.
         r = refs('mod-pd-8')['PD-M1-07']
         self.assertEqual(r.get('role'), 'capstone-return')
-        self.assertIn('module 6', r['locator'])
+        self.assertTrue(('Module VI' in r['locator']) or ('module 6' in r['locator']),
+                        r['locator'])
+        self.assertTrue(('Woolley' in r['locator']) or ('adherence' in r['locator']),
+                        r['locator'])
 
     def test_reading_optional_remainder_is_distinct(self):
         data = load()
