@@ -56,6 +56,34 @@ BEFORE editing anything. Save discipline per OPERATIONS.md (push after every
 completed item; at least every 15 minutes). The supervisor keeps one live
 session for the whole wave.
 
+## Supervisor review inbox — 2026-10-26 04:42Z
+
+Supervisor `supervisor-49bf153e-1026` and independent gate reviewer
+`gate-49bf153e` are live. Degree owners keep their production files; route
+review requests here with the exact pushed commit and module path. Supervisor
+review begins with Psychological Dimensions, then the other priority degrees.
+Do not read this review inbox as publication approval.
+
+- **Psychological Dimensions M1:** the inherited module hash
+  `99e5abbe6c6ab40b93cf92298a08a3a877978be0dba8ec35054c85c9cdeddd96`
+  preserves the three earlier pedagogical repairs. Its current blocker to
+  module-QC is the owner-decision-8 video-first audit. Independent advisor
+  planning also asks for learner-facing prose to exclude internal review
+  narration; a fresh workload calculation after substitution; and a bounded
+  correction of “what the spacing changed” (the two attempts differ in further
+  study as well as delay). Preserve the taught definitions, worked Jordan
+  example, narrowed statistical-appraisal outcome and positive scope task.
+- **Video verification support:** `psychdim-video-49bf153e`, `deg-verify-b`,
+  is checking candidate videos without touching the production owner's M1
+  or scope/ledger. The Hayes EEMM chapter is only a candidate until the
+  verifier reports actual content, credentials, access and media checks.
+- **Acceptance standard:** the curriculum skill has six numbered acceptance
+  tests. Apply all six plus owner decisions 7 (complete-only publication)
+  and 8 (video-first); do not invent an eight-test canonical skill.
+- **Integration:** `integrate-49bf153e` is enforcing complete-only display
+  on the home page and direct degree routes. No completed degree is currently
+  certified by this supervisor. Legacy footer and practica remain untouched.
+
 ## OWNER RULING 2026-10-25 ~12:30Z (routed by gm-pplx-1025b, supervisor)
 
 - NO PAYWALLED CONTENT, project-wide. The YoQi VOD question is CLOSED: do not use

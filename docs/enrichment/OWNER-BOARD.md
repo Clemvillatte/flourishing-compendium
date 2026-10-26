@@ -14,19 +14,19 @@ stay in the loop; agents keep it current with one-line entries.
 - Only the supervisor or assistant supervisor refreshes the snapshot
   below, and only when something material changed.
 ## Snapshot
-- 2026-10-25 09:43Z sup-1025y: verification pass green (6 dossiers, build, origin synced); agency+right-effort site rebuilds pushed; leisure bar met at 3, flip HELD on your art ruling (Monet curated); AR-05/ST-01 resolved.
-- 2026-10-25 ~04:00Z (seeded at creation, worker-pplx-c3b0f2fb)
-- Team: 5-7 workers active on DOS bands (dos17 body, dos22 right-livelihood,
-  dos28 sadness-and-grief, dos31 creation, dos33 procrastination, dos21
-  right-action just released) + live supervisor (1025e). Principles and
-  concepts queues: 100% done. Remaining old-format dossiers: ~13 free
-  bands. Registry backlog: 16 future topics.
-- Publication (NEW, owner directive 2026-10-25): publish-then-review.
-  Workers publish their own passing dossiers; the supervisor reviews
-  PUBLISHED dossiers and can flip one back with a flag.
-- Assistant-supervisor baton: added, free; take it when the supervisor
-  queue is overloaded (rules in OPERATIONS.md).
+- 2026-10-26 04:42Z supervisor-49bf153e: four priority degrees have live production
+  owners; both verification lanes and integration are live. Supervisor review
+  starts with Psychological Dimensions M1.
+- Phase 0 is closed under owner decision 6. Video-first rechecks are required
+  before module-QC; no unfinished degree may appear in the Academy.
+- Principles, concepts and kernels enrichment are complete. This wave does not
+  reopen their bands, stories, dossiers, practica or the three parked degrees.
+- Historical story/dossier policy flags remain separate from this degree wave;
+  they do not block its production. Current routing: `docs/degrees/TASKBOARD.md`.
 ## Log
+- 2026-10-26 04:42Z supervisor-49bf153e: took deg-gate for independent module review; production owners retain their files.
+- 2026-10-26 04:41Z psychdim-video-49bf153e: took deg-verify-b for video-first source support; production claim avoided.
+- 2026-10-26 04:40Z integrate-49bf153e: took deg-integrate to enforce complete-only Academy display.
 - 2026-10-26 04:40Z degree-4376b4ec: took deg-psychdim; supervisor race conceded; video-first source review then module production.
 - 2026-10-26 04:39Z supervisor-49bf153e: took supervisor; Psychological Dimensions module review and complete-only Academy display are priorities.
 - 2026-10-26 02:35Z verifier-af06bd9e: push helper falsely reported success during rebase; fail-closed checks and offline regressions added.
