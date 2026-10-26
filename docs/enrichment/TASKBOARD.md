@@ -6361,3 +6361,5 @@ same pass; see its RETRACTION note.)
   [T+41:54] verify lane (no baton): buddhism b6 Kirchner cross-check -- identity, durations (1:28:04, 1:40:17 exact), event dates, series attribution, and all description-bounded content claims confirmed; spoken content beyond descriptions still uninspected (module status stands). Receipt: docs/degrees/verify/deg-wol-buddhism-b6-kirchner-crosscheck-1026c.md
 
   [T+42:23] verify lane (no baton): buddhism b7 Batchelor cross-check -- identity, duration 1:26:35 exact, lecture date 9 July 2018, channel, and description-bounded frame (ethical/pragmatic/human-flourishing) all confirmed. Receipt: docs/degrees/verify/deg-wol-buddhism-b7-batchelor-crosscheck-1026c.md
+
+  [T+42:49] verify lane (no baton): buddhism b7 Fronsdal cross-check -- Class 1 duration 1:26:55 exact + 'freely offered' verbatim confirmed on AudioDharma series page; 5-class audio series vs 6-week transcript series distinction noted. Receipt: docs/degrees/verify/deg-wol-buddhism-b7-fronsdal-crosscheck-1026c.md
