@@ -384,3 +384,18 @@ willing is not a direct indication of causal influence, Sharlow
 argues the evidence does not establish inefficacy; both can be true.
 Q2 stays a documented critique. Corrected tally: agency 0 certified +
 3 unresolved (Q1, Q2, Q3).
+
+Q3 Gould 1999 primary search (2026-10-26 09:59:40Z, fresh clock read,
+supervisor-pplx-1026p): attempted to open Gould's own text this
+session ("A critique of Heckhausen and Schulz's (1995) life-span
+theory of control from a cross-cultural perspective", Psychological
+Review 106(3), 597-604, DOI 10.1037/0033-295X.106.3.597). Routes
+tried, all without an open abstract or full text: OpenAlex (record,
+no abstract), PubMed esearch (only the reply is indexed),
+Europe PMC (not held), SciSpace (paywall stub), Wayback of the APA
+PsycNet record (JS shell, no content), Semantic Scholar (no
+abstract), Crossref (no abstract). The paper is paywalled at APA
+with no open carrier. Q3 REMAINS A CANDIDATE: the Heckhausen/Schulz
+1999 reply is opened (eutils), but Gould's side still reaches the
+dossier only through the reply's account. Do not certify without
+Gould's own words.
