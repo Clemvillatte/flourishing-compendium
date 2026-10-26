@@ -13,7 +13,7 @@ Every topic and every resource below must serve the value proposition — allevi
 
 1. **Yale Summer Session, "PHIL S125E Intro to Ancient Philosophy, Summer 2024"** — https://summer.yale.edu/sites/default/files/uploaded-files/syllabi/phil-s125e-updated.pdf — 5-week intensive survey with RAGP (Readings in Ancient Greek Philosophy) as the spine; covers Sophists/Socrates, Plato (Gorgias, Protagoras, Republic, Phaedo, Meno, Theaetetus-adjacent, Parmenides, Timaeus), Aristotle (Physics, De Anima, Metaphysics, Categories, NE), and the Presocratics/Epicureans/Stoics. Full week-by-week table read this session.
 2. **University of Utah, "Philosophy 3100: Ancient Greek Philosophy, Fall 2025"** — https://class-tools.app.utah.edu/syllabus/1258/19424/3100+Fall+2025+Syllabus.pdf — 16-week course: Presocratics (Heraclitus, Parmenides), Socratic psychology and virtue, Plato (Theaetetus, Phaedo, Republic, Parmenides, Symposium), Aristotle (Physics, Metaphysics, De Anima, Nicomachean Ethics), Epicurean/Stoic ethics and physics, and ancient skepticism. Full week-by-week table read this session.
-3. **Moravian College, "PHIL 241 Ancient Philosophy, Spring 2015, Instructor: Leon Niemoczynski"** — https://amos.moravian.edu/syllabiproject/pdfs/201570/phil241.pdf — 3-unit course (Presocratics+Socrates / Plato / Aristotle) with Stoics and Epicureans as stretch topics. Full week-by-week table read this session.
+3. **Moravian College, "PHIL 241 Ancient Philosophy, Spring 2016, Instructor: Leon Niemoczynski"** — https://amos.moravian.edu/syllabiproject/pdfs/201570/phil241.pdf — 3-unit course (Presocratics+Socrates / Plato / Aristotle) with Stoics and Epicureans as stretch topics. Full week-by-week table read this session. [Term corrected from Spring 2015 to Spring 2016 per the deep-audit receipt deg-arch-d1-greek-deep-audit-archpsych-1027a.md — the document states Spring 2016]
 
 ## Topic map (union of the three syllabi, organized as a coherent walk)
 
@@ -27,7 +27,7 @@ The three syllabi agree on the classical skeleton: Presocratics → Sophists and
 
 ### B. Sophists and Socrates
 - The Sophists: Protagoras, Gorgias, relativism vs rhetoric [Yale wk 1; Moravian]
-- The life and death of Socrates: Apology, Euthyphro, Crito [Yale wk 1; Moravian wk 1/25-2/1; Utah wk 2]
+- The life and death of Socrates: Apology, Euthyphro, Crito [Yale wk 1; Moravian wk 1/25-2/1 — the "1/2" bracket in the v1 version was a transposed typo, corrected per the deep-audit receipt deg-arch-d1-greek-deep-audit-archpsych-1027a.md; Utah wk 2]
 - Socratic method and Socratic psychology (Protagoras 351B-358E) [Utah wk 2]
 - Socratic views of virtue (Laches) [Utah wk 3]
 - Socratic ethics: virtue is knowledge; the unexamined life [Moravian objectives]
@@ -35,7 +35,7 @@ The three syllabi agree on the classical skeleton: Presocratics → Sophists and
 ### C. Plato
 - Early dialogues: Euthyphro, Apology, Crito, Meno [Yale wk 1-2; Moravian; Utah wk 3-5]
 - Phaedo: soul, forms, recollection, immortality [Yale wk 3; Utah wk 4-5; Moravian]
-- Republic: justice (Book I-III), psychology (Book IV), philosopher-kings (Book V), Sun/Line/Cave (Books VI-VII), critique of poetry (Book X) [Yale wk 2; Utah wk 5-7; Moravian wk 2/22-3/21]
+- Republic: justice (Book I-III), psychology (Book IV), philosopher-kings (Book V), Sun/Line/Cave (Books VI-VII), critique of poetry (Book X) [Yale wk 2; Utah wk 5-7; Moravian wk 2/22, 2/29 and 3/14 — the week of 3/21 is Re-enactments/Review for Test Unit Two, corrected per the deep-audit receipt deg-arch-d1-greek-deep-audit-archpsych-1027a.md]
 - Theaetetus: knowledge [Utah wk 3-4]
 - Symposium and Phaedrus: love, beauty, rhetoric [Utah wk 9; Moravian stretch]
 - Parmenides: problems for the Forms in late Plato [Yale wk 4; Utah wk 9]
