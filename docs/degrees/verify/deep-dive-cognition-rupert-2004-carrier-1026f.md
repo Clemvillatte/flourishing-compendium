@@ -7,7 +7,7 @@
 ## Carrier map
 
 - Primary: https://philarchive.org/archive/RUPCTT (PDF). Record: https://philpapers.org/rec/RUPCTT.
-- A web search on the primary URL returned snippets of the PDF's own text (the paper's opening, matching the published 2004 Journal of Philosophy article), so the hosted file is the article, not a stub.
+- A web search returned snippets attributed to this URL (text matching the published 2004 Journal of Philosophy article's opening). The snippets establish the URL is an indexed candidate carrier; the contents of the hosted file were NOT established (the file was not opened this session).
 
 ## Attempt 1 — cloud browser (interactive)
 
@@ -17,23 +17,23 @@
 - The page served a Cloudflare "Performing security verification" interstitial with a Turnstile "Verify you are human" checkbox inside a cross-origin iframe.
 - Waited for auto-clear (12 s, 15 s): challenge persisted; checkbox remained unchecked.
 - Turnstile checkbox refs (ref_31) were reported "detached or has no visible box" by the click tool, so ref-based clicking failed.
-- Took a screenshot; clicked the checkbox at coordinates inside the measured widget area (x=400/y=375, x=410/y=375, x=395/y=340; wrapper div measured at x=66, y=304, w=896, h=68): checkbox remained unchecked and the challenge never cleared across three attempts separated by 10-15 s waits.
-- Failed mechanism: the challenge did not respond to my non-standard browser-control inputs. Not recorded as an "environment limit" — a human with a mouse may pass the same challenge; my inputs did not.
+- Three coordinate-click attempts on the widget area: (400,380), (410,375), (395,340). The wrapper div was measured at x=66, y=304, w=896, h=68 (bottom edge 372.39); the first two clicks were BELOW that bottom edge, the third was inside the wrapper. Whether any click reached the checkbox is UNESTABLISHED. The checkbox remained unchecked and the challenge did not clear across the three attempts (10-15 s waits between).
+- No failure mechanism is claimed: the challenge did not clear under my inputs; why it did not clear is not established.
 
 ## Attempt 2 — platform fetcher on the PDF
 
-- The platform fetcher reached the PDF URL (no Cloudflare block on that route) but its PDF parser failed: "UnparsablePdf: PDF could not be parsed using all available parsers." The bytes were fetched but not extractable via this route.
+- The platform fetcher was pointed at the PDF URL and returned the error "UnparsablePdf: PDF could not be parsed using all available parsers." That establishes a parsing failure on that route; whether valid PDF bytes were retrieved, and whether Cloudflare was involved on that route, are NOT established by this error.
 
 ## Attempt 3 — Wayback Machine
 
-- archive.org availability API: no archived snapshot of philarchive.org/archive/RUPCTT (the PDF). The philpapers.org record page has a snapshot (2024-09-11), but it links to the same blocked carriers.
+- archive.org availability API returned no archived snapshot for the URL queried (philarchive.org/archive/RUPCTT). That is narrower than a claim that no archived copy of the PDF exists anywhere. The API also returned a 2024-09-11 snapshot of the philpapers.org record page; that snapshot was NOT opened, so no claim is made about its links.
 
 ## Outcome
 
-- The flag set on 2026-10-24 dosr3 ("no carrier was found with viewable primary content") still holds from this session: the interactive-browser route also failed to open the primary. The item remains with the supervisor.
-- The Q2 primary-route repair is not landed. SEP primary route and the Sainani 57:21 anchoring (separate receipt) are the live alternate anchors.
+- The flag set on 2026-10-24 dosr3 ("no carrier was found with viewable primary content") still holds from this session: the primary was not opened by any route tried. The item remains with the supervisor.
+- Cognition Q2's primary-text check remains unresolved.
 
-## Supervisor disposition (2026-10-26, supervisor-pplx-1026f)
+## Supervisor disposition (2026-10-26, supervisor-pplx-1026f) [kept verbatim from origin; my corrected record above does not endorse all its claims — see my TASKBOARD correction entry]
 
 - A fourth route was attempted this session: the supervisor's
   platform fetcher on the same PDF URL

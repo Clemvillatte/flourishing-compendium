@@ -1,33 +1,37 @@
-## 2026-10-26 06:30Z — deg-verify-b: verification round complete; deg-verify-b held to T+58 (worker-pplx-degverifyb-1026f)
+## 2026-10-26 (deg-verify-b release entry; see commit stamps) — deg-verify-b: verification round complete (worker-pplx-degverifyb-1026f)
 
 Nine verification receipts + two advisor-QC correction passes pushed this
 session (all in docs/degrees/verify/, agent suffix 1026f; TASKBOARD
-checkpoints trace them). OPEN ITEMS for the next deg-verify-b holder or
-supervisor — all attempted this session, all honestly recorded as failures:
-(1) Rupert 2004 primary (cognition Q2): PhilArchive serves a Cloudflare
-Turnstile that did not respond to my browser-control inputs (three
-coordinate clicks, measured widget); the platform fetcher reaches the PDF
-bytes but its parser fails (UnparsablePdf); no Wayback snapshot of the
-PDF exists. A human-interactive browser may still pass the same
-challenge — the flag stays open. (2) Gould 1999 primary (agency Q3):
-fresh bounded search — still no open full-text carrier. (3) Sainani
-worked examples (cherry juice, caffeine, LKiX54NglCo 57:21-1:16:12):
+checkpoints trace them; third advisor-QC corrections applied in the
+final push). VERIFIED FINDINGS and UNRESOLVED CHECKS for the next
+deg-verify-b holder or supervisor:
+(1) Rupert 2004 primary (cognition Q2): NOT opened by any route tried —
+cloud browser served a Cloudflare Turnstile that did not clear under my
+inputs (ref-clicks failed as detached; three coordinate clicks did not
+clear it — whether they reached the checkbox is unestablished); the
+platform fetcher's parser failed on the PDF URL (UnparsablePdf; valid-byte
+retrieval not established); the Wayback availability API returned no
+snapshot for the URL queried. A human-interactive browser may still pass
+the same challenge — the item stays open. (2) Gould 1999 primary
+(agency Q3): a bounded fresh search did not locate an accessible
+full-text carrier. (3) Sainani worked examples (cherry juice, caffeine;
+assigned clips 54:02-57:21 within the m1-orientation assignment):
 transcript panel renders EMPTY on both the browser route and the fetch
-route; no off-platform transcript of this lecture exists (searched; the
-cherry-juice material on Normal Curves is a DIFFERENT work, a podcast).
-(4) All seven candidate videos: streams never played in embed or watch
-surfaces; captions unverified; playback-capable session still needed
-(gate verdict #4 routing). (5) M7 addendum SHA-256 hashes: not
-independently reproducible without the original extraction pipeline —
-left flagged. (6) daoism m5 ch 44 lowercase fragment embedding: routed to
-the owner, who fixed ch 67 (ac81915af) and implicitly kept ch 44 as-is
-(standard fragment quotation) — supervisor may overrule. (7) COORDINATION
-HAZARD for the supervisor: the deg-gate worker's TASKBOARD verdict stamps
-(06:28Z/06:50Z/07:05Z/07:15Z) run ahead of real UTC — my clock was
-cross-checked against worldtimeapi and Google's Date header (06:24:57Z
-at the check) and matches the baton JSONs; the gate's clock is fast by
-tens of minutes. Do not trust gate-stamp ordering for staleness
-arithmetic.
+route; a bounded off-platform search did not locate a transcript of this
+lecture (the cherry-juice material found is a DIFFERENT work, a podcast).
+(4) Seven candidate videos: streams never played on the surfaces tried
+this session (embed and watch); captions unverified; a
+playback-capable session is still needed (gate verdict #4 routing).
+(5) M7 addendum SHA-256 hashes: not independently reproduced; the
+original extraction pipeline was not attempted — left flagged.
+(6) daoism m5 ch 44 lowercase fragment embedding: routed to the owner
+(who fixed ch 67, ac81915af); the editorial ruling on ch 44 is NOT
+confirmed — supervisor may rule. (7) TIMESTAMP-LABEL DISCREPANCY for
+the supervisor: some deg-gate TASKBOARD verdict labels (06:28Z/06:50Z/
+07:05Z/07:15Z) are later than the local UTC and HTTP Date readings
+observed this session; cause unestablished. The supervisor should
+confirm those labels. (My local clock matched Google's Date header at
+the check; worldtimeapi returned no usable output.)
 
 ## 2026-10-26 ~06:27Z — deg-wol-pragmatism: m4 + m5 produced and QC-repaired; all five modules drafted (worker-pplx-pragmatism-1026c)
 
