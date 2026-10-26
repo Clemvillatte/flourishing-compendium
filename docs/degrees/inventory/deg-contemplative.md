@@ -12,7 +12,7 @@ Every topic and every resource below must serve the value proposition — allevi
 
 ## University syllabi opened (the D1 corpus — 3, all fetched and read this session)
 
-1. **Brown University / University of Virginia, "NUIP/RELB 3030 Mindfulness and Compassion, Instructor: Juliet Trail"** — https://contemplative-studies.brown.edu/sites/default/files/documents/mindfulnesscompassion.pdf — a mindfulness-and-compassion course modelled on MBSR, with a mandatory daylong retreat. Syllabus (course design, objectives, practices, reading list) read this session; the weekly schedule is on the course Collab site, not in the PDF.
+1. **University of Virginia, "NUIP/RELB 3030 Mindfulness and Compassion, Instructor: Juliet Trail, PhD (Managing Director of the UVA Contemplative Sciences Center)"** — https://contemplative-studies.brown.edu/sites/default/files/documents/mindfulnesscompassion.pdf (PDF hosted by Brown; this is a UVA course) — Tuesdays 3:45-6:15pm in McLeod 2010, capped at 20 students, mandatory daylong retreat Saturday March 31 9:30am-3pm. The course is explicitly modeled on the University of Massachusetts MBSR Program. Required book Monteiro & Musten (2013) Mindfulness Starts Here; optional Kabat-Zinn (2012) and Bauer-Wu (2011). Specifications Grading with three levels (Cultivating Wisdom A / Advanced Practitioner B / Practitioner C). Research reflections due Feb 24 and Mar 24. Home practice recommended 45 min/day, minimum 25 min varying by grading pathway. The full syllabus (course design, objectives, practices, reading list, grading) read this session WITHOUT an extraction prompt; the weekly schedule is on the course Collab site, not in the PDF.
 2. **University of Oregon, "PSY 407 Contemplative Science, Spring 2018, Instructor: Robin Hertz"** — https://pages.uoregon.edu/psychit/Syllabi_Archive/2010s/2018/Spring_2018/407-Hertz-Sp18.pdf — a contemplative-science course with attention-based practice, open monitoring and compassion meditation, plus a class project in which students design and run an empirical self-study. Course design and weekly structure read this session; readings are on Canvas, not in the syllabus.
 3. **Brown University / University of Virginia, "The Science and Art of Human Flourishing"** — https://contemplative-studies.brown.edu/sites/default/files/documents/Syllabus%20-%20Flourishing%20Course%20-%20UVA.pdf — a 14-quality flourishing course across five dimensions (Awareness, Wellbeing, Connection, Wisdom, Integration), with a flipped format, a weekly contemplative lab and 120 min/week of personal practice. Full five-dimension model, weekly-quality structure, readings and practices read this session.
 
@@ -29,8 +29,8 @@ The three syllabi agree on the same skeleton: (a) what is contemplative science 
 - Contemplative education — the pedagogy of the contemplative classroom [Brown, UO]
 
 ### B. The core contemplative practices
-- Mindfulness meditation — focused attention and open monitoring [UO PSY 407 practices; Brown M&C]
-- Compassion meditation — loving-kindness and tonglen [UO PSY 407 practices; Brown M&C]
+- Mindfulness meditation [Brown M&C (secular meditation exercises, centering meditation, home practice); focused attention and open monitoring PENDING — these specific categories are not established by the Brown syllabus; the UO PSY 407 document needs to be checked for them]
+- Compassion meditation [Brown M&C (kindness, compassion, forgiveness, sympathetic joy named explicitly); loving-kindness PENDING — not named in the Brown syllabus; tonglen PENDING — not in any of the three opened documents]
 - Self-compassion practice [Brown M&C WAS opened; Stanford CHPR 233 SEARCH-RESULT-SOURCED — not opened]
 - Gratitude, forgiveness and sympathetic joy [Brown M&C course description]
 - Formal and informal practice — "working with" vs "taking into life" [Brown Flourishing syllabus]
@@ -58,7 +58,7 @@ The three syllabi agree on the same skeleton: (a) what is contemplative science 
 - Integration — courage, performance [Brown Flourishing Integration dimension]
 
 ### F. Applications of contemplative practice
-- Clinical applications — MBSR, MBCT and related interventions [Brown M&C WAS opened; Harvard RELI E-1702 SEARCH-RESULT-SOURCED — not opened]
+- Clinical applications — MBSR [Brown M&C (the course is explicitly modeled on the University of Massachusetts MBSR Program)]; MBCT and related interventions PENDING — not in any of the three opened documents
 - Contemplative practice in education [BOTH SEARCH-RESULT-SOURCED — not opened this session]
 - Contemplative practice, burnout and compassion fatigue [BOTH SEARCH-RESULT-SOURCED — not opened this session]
 - Contemplative practice and social justice / global citizenship [BOTH SEARCH-RESULT-SOURCED — not opened this session]
