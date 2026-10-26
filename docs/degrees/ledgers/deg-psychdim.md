@@ -330,7 +330,7 @@ word counts measured for the assigned segments):
 | https://nobaproject.com/modules/memory-encoding-storage-retrieval | supervisor-e03fed44-degpsychdim | M3 readiness refresh: Noba Memory (Encoding, Storage, Retrieval) opened on 2026-10-26; byline Kathleen B. McDermott and Henry L. Roediger III, Washington University in St. Louis, confirmed on the module page; section structure read via page extraction (varieties of memory; three stages of the learning/memory process: encoding, storage, retrieval; putting it together: improving your memory); the three-process sentence confirmed verbatim (encoding = learning by perceiving and relating to past knowledge; storing = maintaining over time; retrieving = accessing when needed); working memory covered (holding information briefly and working with it); memory failures covered (forgetting, misremembering, false memories, interference, retrieval failures); body about 5,500 words per the page extraction (estimate; a measured count is owed if assigned at production); free access, no paywall |
 | https://nobaproject.com/modules/personality-traits | supervisor-e03fed44-degpsychdim | M5 readiness refresh: Noba Personality Traits opened on 2026-10-26; byline Edward Diener and Richard E. Lucas, confirmed on the module page; section structure read via page extraction (Five-Factor Model; facets; traits beyond the five; the person-situation debate and alternatives to the trait perspective; appendix with the Mini-IPIP scale); Big Five/OCEAN coverage confirmed, and the person-situation debate section directly serves the M5 trait-account deliverable's person-situation caveat; the Mini-IPIP scale in the appendix is a free self-assessment instrument, noted here as an unadopted production proposal for the M5 trait exercise only (it is not an instrument for self-concept-clarity assessment, which the M5 row rests on Manchiraju 2026 for); total module length about 5,000 words per the page extraction, and that figure includes the appendix, vocabulary and references, so the main-body-only count is smaller and a measured count with stated boundaries is owed if assigned at production; free access, no paywall |
 
-### M2 preparation (2026-10-26, worker-pplx-degpsychdim-1026a; no module prose written — written while the stop-gate ruling was pending; the ruling has since been delivered, see the sections below)
+### M2 preparation (2026-10-26, worker-pplx-degpsychdim-1026a; no module prose written; written while the stop-gate ruling was pending (the ruling has since been delivered, see the sections below)
 
 Advisor planner round 1 (2026-10-26) reviewed the M2 plan and BLOCKED module
 drafting until the Phase 0 stop-gate conflict is resolved by an authorized
@@ -512,8 +512,11 @@ this session's own opened evidence:
   paragraph "I distinguish five sets of emotion regulatory
   processes..." through the end of the model limitations "...the
   interdependences among behavioral, experiential, and physiological
-  response tendencies.") measures 690 words on a
-  hyphenation-and-whitespace-normalised extraction basis; the writing
+  response tendencies.") measures 618 words on a
+  hyphenation-and-whitespace-normalised extraction basis WITH the APA
+  copyright footer notice and the running page headers removed (690
+  words on the same basis if those extraction artifacts are included;
+  618 is the candidate reading count); the writing
   session should re-measure the final assigned span on a stated
   basis. The limitations passage directly supports the packet's
   caution that the five families are working distinctions, not proven
@@ -840,10 +843,14 @@ M8 is the integrative capstone and adds no new sources.
 
 ### Quotation audit (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:40Z measured)
 
-Every quotation recorded in this session's preparation sections was
-audited against the raw saved page text with an explicit
+Every quotation recorded in this session's preparation sections
+(including the M2 preparation block and the M7 records) was audited
+against the raw saved page text with an explicit
 quotation-to-source list (whitespace normalization only; ellipsis
-segments checked individually). Result: all quotations verified.
+segments checked individually). Result: all quotations verified
+(M3, M4, M5, M6, M7 and the M2 boundaries records in full; the M2
+preparation block's Noba response-choice and Barrett sidebar
+openings re-confirmed against the saved raw pages).
 Two disclosures apply (both recorded inline above): the Gross
 five-family quotation spans a printed page break where the pdftotext
 extraction inserts an APA copyright footer notice (the quotation is
@@ -852,7 +859,9 @@ Posner three-networks quotation's citation token renders as
 "[ 1 ]" with bracket spacing on the raw page. The van Heijst
 quotations were verified against the van Heijst response page
 (PMC12575812). No quotation in this session's records is unresolved;
-no "verbatim" label rests on a paraphrase.
+no "verbatim" label rests on a paraphrase. The Gross five-family
+quotation's proposed-excerpt count was re-measured with the
+extraction artifacts removed (618 words; see the correction above).
 
 
 Supervisor Phase 0 ruling (ledger section of the same name): M1 repairs
