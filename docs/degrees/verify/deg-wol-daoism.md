@@ -779,3 +779,22 @@ docs/degrees/evidence/deg-wol-daoism/". Two facts for the supervisor:
   favor. What remains on that line is NOT a verification fact but a
   scope ruling — whether assigning the whole 53:43 talk fits the m4
   module's scope — which belongs to supervisor module-QC.
+
+### Neiye hosting follow-up (2026-10-26T06:31Z; verify-pplx-w3-1026a, deg-verify-a)
+
+Closing the canonical-hosting question with better evidence this pass:
+- The OLD canonical host pattern (www.libraries.iub.edu) is a DEAD
+  HOSTNAME (connection refused; the libraries site has migrated to
+  libraries.indiana.edu, whose public search is a Serials Solutions
+  discovery app with no faculty-text pages in static HTML).
+- A domain-restricted search of iu.edu finds Robert Eno's CURRENT
+  faculty entries (EAST Asian Studies Center people directory; IU
+  Academic Bulletins Philosophy faculty — Professor Emeritus) but NO
+  Neiye / "Inner Enterprise" text page anywhere on iu.edu.
+- ScholarWorks remains negative for a Neiye item (re-checked this
+  pass; the earlier search URL now 301-redirects).
+Conclusion: the module's dyhr.com fallback is well-grounded — no
+live iu.edu URL for the Neiye text is findable by search this pass.
+This does not change the standing recommendation (owner re-checks
+licensing at publication); it removes the "canonical host merely
+unreachable" possibility in favor of "not findable".
