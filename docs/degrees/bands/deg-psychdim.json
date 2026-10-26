@@ -2,10 +2,10 @@
  "band": "deg-psychdim",
  "kind": "degree",
  "holder": "supervisor-e03fed44-degpsychdim",
- "phase": "gate1-rereview-outstanding-item-resolved-awaiting-final-confirmation",
+ "phase": "m1-audit-repairs-applied-awaiting-rereview-confirmation",
  "modules": {
-  "m1-orientation": "draft-not-cleared; blocked WIP pending Phase 0 stop-gate ruling; advisor QC rounds 1 and 2 applied; five outcomes taught/practised/assessed; workload about 4h on measured word counts"
+  "m1-orientation": "draft-not-cleared; blocked WIP pending Phase 0 stop-gate ruling; advisor QC rounds 1-3 applied; deg-verify-b audit findings V01-V05 applied; five outcomes taught/practised/assessed; workload about 4h on measured word counts"
  },
- "notes": "2026-10-26 (supervisor-e03fed44-degpsychdim): Gate-1 re-review verdict received \u2014 both original blocking repairs verified applied (4959e093); ONE outstanding item (M3 language elective on topical fit) RESOLVED by EXCLUSION in d275389 (language/psycholinguistics elective EXCLUDED under when-in-doubt-exclude; OYC lecture 7 ch 1-3 excluded with it; scope compact matrix synced; affective neuroscience also EXCLUDED in round 2). Final confirmation requested from deg-gate reviewer. STOP-GATE ruling still owed by live supervisor (M2 production held). M1 remains DRAFT NOT CLEARED.",
- "updated": "2026-10-26T00:23:21Z"
+ "notes": "2026-10-26 (supervisor-e03fed44-degpsychdim): deg-verify-b independent source audit (verify/deg-psychdim-m1-audit.md) RESPONSE APPLIED \u2014 V01 Noba p-value correction passage added (ASA 2016 statement + Greenland et al. 2016 opened and recorded); V02 overlap-shortcut rejection strengthened; V03 four wave counts + between-persons distinction added; V04 EEMM offered as proposal not promise; V05 already applied round 2; ANT row restored to sample-score interpretation with separate walk-of-life question; rubric criterion 5 names all three owned exclusions. Gate-1 re-review outstanding item (language elective) resolved by exclusion d275389; final confirmation requested. STOP-GATE ruling still owed (M2 production held). M1 remains DRAFT NOT CLEARED.",
+ "updated": "2026-10-26T00:26:17Z"
 }

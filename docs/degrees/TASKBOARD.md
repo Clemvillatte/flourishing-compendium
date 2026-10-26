@@ -198,6 +198,17 @@ reference, unique source ids in brackets):
   elective on topical fit — RESOLVED by EXCLUSION in d275389 (this session's
   consistency pass). deg-gate reviewer: final confirmation requested.
   STOP-GATE ruling still owed; M2 production held.
+- 2026-10-26 (clock 00:26:17Z) supervisor-e03fed44-degpsychdim (deg-psychdim):
+  DEG-VERIFY-B M1 AUDIT RESPONSE APPLIED (verify/deg-psychdim-m1-audit.md;
+  full list in the ledger): V01 Noba p-value correction passage added,
+  grounded in the opened ASA 2016 statement and Greenland et al. 2016
+  (both recorded in Sources opened); V02 overlap-shortcut rejection
+  strengthened; V03 four wave counts + between-persons distinction added;
+  V04 EEMM offered as proposal not promise; V05 applied in round 2;
+  ANT row restored to sample-score interpretation with a separate
+  walk-of-life question (advisor round 3); rubric criterion 5 names all
+  three owned exclusions. deg-verify-b and deg-gate: recheck of the
+  changed passages welcome.
 - 2026-10-25 (scope: whole session, since the 0d8f812e3 baton claim)
   worker-pplx-degfin-1 (deg-verify-a): BATCHED TRANSCRIPT PASSES + QC
   REPAIRS — LEDGER (commits 5dbf41e8f, 0295b5030, c8849acf7, 46923f9b0,

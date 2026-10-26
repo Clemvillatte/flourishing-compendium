@@ -106,6 +106,57 @@ it); stale benchmark and exclusion-review bullets superseded in both the scope
 doc and this ledger; M1 is not marked complete. Re-review was requested
 from the deg-gate reviewer after round 2 (TASKBOARD, 2026-10-26).
 
+INDEPENDENT SOURCE AUDIT RESPONSE (2026-10-26, deg-verify-b audit at
+verify/deg-psychdim-m1-audit.md, findings M1-V01 to V05; repairs this
+session, sources opened where grounding was needed):
+- M1-V01 (Noba p-value teaching) APPLIED: a correction passage now sits
+  immediately after the required-reading list and before the worked
+  example; it names the module's repetition-gloss sentence and its
+  vocabulary-list NHST gloss as loose, states the ASA definition
+  (p-value = probability under a specified statistical model of a
+  summary equal to or more extreme than observed) and the ASA's
+  principles 2 and 5 in plain terms (not the probability the hypothesis
+  is true or that chance produced the data; not effect size or
+  importance), and tells the learner to carry the correction while
+  reading. Grounded in the opened ASA 2016 statement (Berkeley PDF) and
+  Greenland et al. 2016 (PMC4877414, misinterpretation list read,
+  including the chance-alone misinterpretation). The Noba source stays
+  required; its nonstatistical distinctions are unaffected.
+- M1-V02 (overlap shortcut) APPLIED in round 2 and strengthened this
+  pass: the faded appraisal now states that overlap alone cannot
+  establish the no-difference conclusion because separate intervals are
+  not a test of the difference (Greenland et al. 2016 misinterpretation
+  21), directs the learner to report estimates and uncertainty and
+  leave the change-over-time question open, and the rubric's rejection
+  example now rejects deference to the author shortcut.
+- M1-V03 (attrition and inference unit) APPLIED: the worked example now
+  carries the four wave counts (2,000; 1,046; 709; 577), the all-
+  available-data estimation method, and the authors' own drop-out check
+  (completers less motivated, if anything); the first appraisal now
+  quotes the paper's between-persons finding and distinguishes
+  prediction among surveyed people from a promise about the learner's
+  own adherence.
+- M1-V04 (EEMM as proposal, not promise) APPLIED: the module's opening
+  now offers the map as a proposal that may help the learner notice an
+  influence or option, not a diagnosis, exhaustive account or
+  guarantee, with the usefulness test on the learner's own material
+  named. No affiliation inferences were found in this ledger's Maitland
+  records (checked; no repair needed).
+- M1-V05 (physiology decoration) APPLIED in round 2 (Jordan labelled
+  fictional; only observable bodily states, no mechanism asserted).
+- Reviewer note on the ANT row (advisor QC round 3) APPLIED: the M4
+  matrix row's practice cell is restored to interpreting supplied
+  sample network scores, with a separate walk-of-life question about
+  what the framework does and does not say about one recurring everyday
+  attention situation; no informal diary is presented as ANT
+  measurement.
+- Rubric criterion 5's Strong example now names all three owned
+  exclusions (wellbeing outcomes to the Positive Psychology walk;
+  treatment protocols to the legacy therapeutic material; contemplative
+  doctrine to the contemplative practica).
+Workload note: the added correction passage is module prose, not new
+required reading; the about-4-hour estimate stands.
+
 STOP-GATE CONFLICT (flagged to the live supervisor for a documented
 ruling, 2026-10-26): the Gap register below still records that the
 Phase 0 pilot stop-gate blocks module production; the owner's 2026-10-26
@@ -129,6 +180,8 @@ word counts measured for the assigned segments):
 | https://nobaproject.com/modules/thinking-like-a-psychological-scientist | supervisor-e03fed44-degpsychdim | Noba module re-opened; byline Erin I. Smith, California Baptist University, confirmed on the module page; body measured at about 5,011 words; scientific-versus-everyday-reasoning section read, and in a second pass the falsifiability (Popper), hypothesis-testing design, NHST (null and alternative hypotheses) and Type I and II error sections (with the maturity-and-grades running example) read from the same fetched copy; the remaining sections' topic coverage rests on the ledger's 2026-10-25 batch-2 verification |
 | https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/ | supervisor-e03fed44-degpsychdim | Woolley, Giurge and Fishbach 2025 re-opened; Study 1 statistics confirmed on the live page (beta 0.216 SE 0.03 z 6.95 p < .001 CI [0.13, 0.30]; beta 0.099 SE 0.03 z 3.00 p = .003 CI [0.04, 0.20]; beta 0.080 SE 0.03 z 2.36 p = .019 CI [0.01, 0.15]; N 2,000 MTurk US; n 577 completers; cross-lagged panel models within multilevel structural equation modeling); the authors' overlapping-CI interpretation confirmed |
 | https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta.pdf | supervisor-e03fed44-degpsychdim | Ryan, Duineveld, Di Domenico, Ryan, Steward and Bradshaw 2023 (Psychological Bulletin 148(11-12) 813-842) opened as a free PDF from the theory's official site; abstract and key results read (60 meta-analyses of SDT's six mini-theories; support for the motivational taxonomy and for need satisfaction and frustration effects on well-being and ill-being; applied evidence in organizations, health care, parenting and education; methodological limits stated); caveat: this PDF is the accepted manuscript, not the copy of record |
+| https://www.stat.berkeley.edu/~aldous/Real_World/ASA_statement.pdf | supervisor-e03fed44-degpsychdim | ASA 2016 statement on p-values opened; definition and principles 1, 2 and 5 read verbatim (p-value = probability under a specified statistical model of a summary at least as extreme than observed; not the probability the hypothesis is true or that chance produced the data; not effect size or importance) |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC4877414/ | supervisor-e03fed44-degpsychdim | Greenland, Senn, Rothman, Carlin, Poole, Goodman and Altman 2016 (European Journal of Epidemiology) opened; misinterpretation list read, including the chance-alone misinterpretation and misinterpretation 21 on overlapping confidence intervals (overlap is not a test that two estimates do not differ; comparison requires statistics that directly test the difference) |
 
 ## Sources opened
 
@@ -971,7 +1024,7 @@ blocking gaps on the register, not quiet omissions.
 | cognitive | Appraisal of experimental evidence: rumination induction studies (essential: trains the owner's critical-reading exit capability) | [Ehring 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/) | M3 | reading plus study appraisal | appraisal of a rumination induction study | appraisal rubric |
 | attentional | The three attention networks with anatomy and modulators (essential: the three-network framework used by the opened attention reviews) | [Posner et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/); [Posner 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/) | M4 | reading | network-to-symptom mapping exercise | mapping rubric |
 | attentional | Selective attention and its limits: spotlight, Stroop, inattentional blindness, change blindness (essential: the classic phenomena of attentional selection, grounded in a verified lecture segment; supplementary to the network framework, not a substitute for it) | verified OYC lecture 7 chapter 5 (00:39:15 to 00:58:04) | M4 | lecture segment with demonstrations | explain one blindness phenomenon by the attention window | explanation rubric |
-| attentional | Attention measurement (ANT), development, links to disorders and affect regulation (essential: connects the dimension to evidence and to affect) | [Posner et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/); [Posner 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/) | M4 | reading | take an ANT-style self-observation of the learner's own attention in one recurring situation (for example where attention goes across an hour of their day), read what the network framework does and does not say about that pattern, and state what the scores cannot settle (including that research measures of the same construct may not fit the learner's own data) | interpretation exercise with walk-of-life clause |
+| attentional | Attention measurement (ANT), development, links to disorders and affect regulation (essential: connects the dimension to evidence and to affect) | [Posner et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/); [Posner 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/) | M4 | reading | interpret supplied sample network scores (which network is doing what in the reported data, and what the scores cannot settle); then, as a separate question, take one recurring attention situation from the learner's own day and state what the network framework does and does not say about it | interpretation exercise with walk-of-life question |
 | attentional | Contemplative training as attentional evidence (essential: one attentional training paradigm among others; doctrine stays in the practica) | [Lippelt et al. 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/pdf/fpsyg-05-01083.pdf) | M4 | reading | compare practice types by attentional mechanism | comparison table |
 | self | Self-concept clarity: definition, measurement, development, evidence limits (essential: a comprehensive recent review of a well-defined structural account of the self, selected as the self-dimension anchor) | [Manchiraju 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/) | M5 | reading | self-assessment with the SCCS framing and limits discussion | reflective write-up |
 | self | Identity development: exploration and commitment, identity domains, narrative identity (essential: how the self develops over time) | [Branje et al. 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC9298910/) | M5 | reading | chart an identity domain over time | domain-chart rubric |

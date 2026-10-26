@@ -3,10 +3,15 @@
 First module of Psychological Dimensions. The degree follows one question
 through eight modules: what do psychologists currently know about the
 processes that carry a life, and how can you read that research well enough
-to use it? This module installs the map and the reading habits. The map
-matters because the six dimensions are levers on your own walk of life:
-knowing which process is doing the work is where alleviating suffering,
-choosing more wisely and flourishing under uncertainty start. Source
+to use it? This module installs the map and the reading habits. We will
+use six dimensions to describe one ordinary difficulty, and the map is
+offered as a proposal, not a promise: it may help you notice an influence
+or an option you had missed, and knowing which process is doing the work
+is where alleviating suffering, choosing more wisely and flourishing
+under uncertainty can start. It is not a diagnosis, not an exhaustive
+account of the mind, and not a guarantee that your circumstances will be
+easy to change; you will test its usefulness on your own material as the
+degree proceeds. Source
 verification evidence is in ledgers/deg-psychdim.md. STATUS: DRAFT, NOT
 CLEARED; blocked WIP (module production is routed for this degree by the
 supervisor-authored PIPELINE-2026-10-26 per the owner's 2026-10-26 priority
@@ -152,6 +157,23 @@ versus everyday reasoning, falsifiability, induction and deduction,
 research design, null hypothesis significance testing, Type I and Type II
 errors, replication, and what a scientific theory is.
 
+One passage in that module needs a correction before you use its
+statistics. When the module says a finding "significant at a p < .05
+level" means the result would occur by chance fewer than five times in
+100 repetitions of the study, read that with care: a p-value is not the
+probability that chance produced the result, that a study would
+reproduce, or that the hypothesis is true. As the American Statistical
+Association's statement puts it, a p-value is the probability under a
+specified statistical model that a statistical summary of the data would
+equal or be more extreme than its observed value; it does not measure
+the probability that the studied hypothesis is true or the probability
+that the data were produced by random chance alone, and it does not
+measure the size or importance of an effect. The module's vocabulary
+list gives its null-hypothesis significance testing entry the same loose
+gloss; treat both passages with this correction in view. The rest of the
+module's distinctions (observations versus theories, falsifiability,
+replication, research quality) stand as useful.
+
 Then study the worked appraisal in Step 4 before attempting the faded
 practice in the graded activity.
 
@@ -171,9 +193,14 @@ States participants recruited through Amazon Mechanical Turk (mean age
 38.12, standard deviation 12.02; 47.9 percent female, 52.1 percent male)
 about their resolutions four times throughout a year, measuring how
 intrinsic and how extrinsic each person rated their motivation, and how
-well they were adhering. The analysis uses cross-lagged panel models,
-which test whether a measure at one survey predicts a later outcome while
-accounting for earlier levels of that outcome.
+well they were adhering. Not everyone stayed: 1,046 completed the second
+survey, 709 the third, and 577 the fourth, and the analysis handled the
+missing responses with an estimation method that uses all available data.
+The authors checked whether the drop-outs differed from the stayers and
+report that completers were, if anything, less motivated, a check on the
+worry that only keen people remained. The analysis uses cross-lagged
+panel models, which test whether a measure at one survey predicts a later
+outcome while accounting for earlier levels of that outcome.
 
 1. Fully worked (demonstrated). Appraisal of the first result. What was
    found: adherence at the second survey was predicted by intrinsic
@@ -188,8 +215,12 @@ accounting for earlier levels of that outcome.
    adherence; it shows that people who rated their resolutions as more
    intrinsic at one survey were adhering better at the next. What the
    study can support: that prediction, in this population, over this
-   year. What it cannot support: a causal claim. (The authors know this;
-   later studies in the paper manipulate motivation.)
+   year. The paper itself reports the association was primarily between
+people: those who were generally more intrinsically motivated adhered
+better. That is a statement about differences among surveyed people,
+not a promise that raising your own enjoyment will improve your own
+adherence. What it cannot support: a causal claim. (The authors know
+this; later studies in the paper manipulate motivation.)
 2. Steps named (partially worked). Appraisal of the second result. What
    was found: adherence at the third survey was predicted by intrinsic
    motivation at the second, beta = 0.099, standard error 0.03, z = 3.00,
@@ -202,9 +233,12 @@ accounting for earlier levels of that outcome.
    what would establish that: a comparison between the coefficients, with
    its own uncertainty. The paper's authors read the overlapping
    intervals as suggesting the effect did not diminish significantly
-   over time; a caution worth carrying, and whether the association
-   genuinely weakened is a question the results you have inspected do not
-   settle.
+   over time; a caution worth carrying. Overlap alone cannot establish
+that conclusion, because the separate intervals are not a test of the
+difference between the coefficients; a direct comparison would be
+needed. For this exercise, report the estimates and their uncertainty,
+and leave the change-over-time question open: whether the association
+   genuinely weakened is not settled by the results you have inspected.
 3. Independent (the graded deliverable). Appraisal of the third result
    and a robustness note. What was found: adherence at the fourth survey
    was predicted by intrinsic motivation at the third, beta = 0.080,
@@ -307,16 +341,20 @@ learner can self-check.
    is a sensitivity check on drop-out, which is a different question
    from causation." Rejection: "The study proves intrinsic motivation
    works because p < .05" (no design named, p value read as proof,
-   causal claim from a correlational design), or "the effect is small"
-   with no stated basis for the magnitude claim.
-5. The scope statement names the three owned exclusions with their owners,
+   causal claim from a correlational design), "the effect is small" with
+   no stated basis for the magnitude claim, or "the authors said the
+   intervals overlap so there is no difference" (deferring to a
+   shortcut that is not a test of the difference).
+5. The scope statement names the three owned exclusions with their owners
    and states the admission test for the rest, in the learner's own
    words. Strong: "This degree stops at wellbeing outcomes, which the
-   Positive Psychology walk owns; treatment protocols stay with the legacy
-   therapeutic material; and anything that merely fits the topic, like
-   the attraction material, is out unless a learner need is stated."
-   Rejection: "This degree covers everything about psychology" (no
-   exclusions named).
+   Positive Psychology walk owns; treatment protocols stay with the
+   legacy therapeutic material; contemplative doctrine stays with the
+   contemplative practica; and anything that merely fits the topic,
+   like the attraction material, is out unless a learner need is
+   stated." Rejection: "This degree covers everything about psychology"
+   (no exclusions named), or naming only one or two of the three owned
+   exclusions.
 
 ## Workload arithmetic
 
@@ -355,7 +393,14 @@ testing design, NHST and Type I and II error sections read this pass;
 the remaining sections' topic coverage rests on the ledger's
 2026-10-25 batch-2 verification), and
 Woolley, Giurge and Fishbach 2025 (verified text; all quoted statistics
-read on the opened PMC page on 2026-10-26). All are free to access with no paywall. No video resources are attached to this module,
+read on the opened PMC page on 2026-10-26; the four wave counts and
+the between-persons finding read on the opened page this session). Two
+supporting sources opened on 2026-10-26 for the statistics correction
+in Step 3: the American Statistical Association's 2016 statement on
+p-values (definition and principles 1, 2 and 5 read; free PDF) and
+Greenland et al. 2016 in the European Journal of Epidemiology (the
+misinterpretation list read, including the overlapping-intervals
+misinterpretation; free on PMC). All are free to access with no paywall. No video resources are attached to this module,
 so no segment durations apply. No imported labels remain on attached
 sources.
 
