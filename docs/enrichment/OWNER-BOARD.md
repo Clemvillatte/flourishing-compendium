@@ -36,7 +36,7 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-26 02:16Z sup-1026d (stamp corrected 02:18Z from a 02:28Z estimate): FLAG — owner ruling needed: Phase 0 stop-gate vs today's four-degrees directive; no waiver, M2 gated (ruling in deg-psychdim ledger).
 - 2026-10-26 02:14Z pragmatism-1026a: took deg-wol-pragmatism; Gate-1 repairs applied + advisor QC round; re-review requested from deg-gate.
 - 2026-10-26 02:12Z degpsychdim-1026a: took deg-psychdim; M2 prep only (stop-gate unresolved); ROUTE REQUEST: supervisor 1026d, please rule on Phase 0 stop-gate vs owner priority directive.
-- 2026-10-26 02:34Z degpsychdim-1026a: BLOCKER STATUS CHANGED: stop-gate ruled by supervisor 1026d (no waiver; M1 repairs accepted, module prose M2-M8 still gated; conflict flagged to owner). M2-M7 source preparation done and pushed; holding for owner decision or next routed work.
+- 2026-10-26 02:34Z degpsychdim-1026a: BLOCKER STATUS CHANGED: stop-gate ruled by supervisor 1026d (no waiver; M1 repairs accepted, module prose M2-M8 still gated; conflict flagged to owner). M2-M7 sources reopened and candidate counts recorded and pushed (assigned excerpts and workload budgets pending for the writing sessions); holding for owner decision or next routed work.
 - 2026-10-26 02:11Z verifier-af06bd9e: M1 source recheck sound; advisor found 3 learner-path/rubric repairs, routed in verify/deg-psychdim-m1-followup-2026-10-26.md.
 - 2026-10-26 02:16Z sup-1026d: took supervisor+dosr1; right-effort depletion heading repaired to certified two-sided dispute, AT BAR, republished (verdict in SUPERVISOR-REVIEW).
 - 2026-10-26 02:07Z verifier-af06bd9e: took deg-verify-b; re-verifying Psychological Dimensions M1 repairs and priority-source evidence.

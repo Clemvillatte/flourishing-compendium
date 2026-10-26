@@ -482,7 +482,12 @@ this session's own opened evidence:
   distinction I have offered previously between antecedent-focused
   emotion regulation, which occurs before the emotion is generated, and
   response-focused emotion regulation, which occurs after the emotion
-  is generated"), the family definitions (situation selection defined
+  is generated"). EXTRACTION DISCLOSURE: the pdftotext extraction
+  inserts an APA copyright footer notice mid-passage at the printed
+  page break (between "previ-" and "ously"); the quotation is verbatim
+  against the printed text with that footer notice excluded, and the
+  passage on either side of the notice was each verified contiguously
+  on the extraction), the family definitions (situation selection defined
   as "approaching or avoiding certain people, places, or objects in
   order to regulate emotions"), the Figure 4 references, and the
   limitations passage ("The process model of emotion regulation shown
@@ -495,11 +500,12 @@ this session's own opened evidence:
   shows the process model with the four antecedent-focused families
   (situation selection, situation modification, attentional
   deployment, cognitive change) bracketed as "Antecedent-Focused
-  Emotion Regulation" and response modulation bracketed as
-  "Response-Focused Emotion Regulation", feeding the emotional
-  response tendencies box (behavioral, experiential, physiological)
-  — i.e. the figure itself carries the antecedent/response
-  distinction the M2 exercise teaches. Measured at
+  Emotion Regulation" occurring BEFORE the emotional response
+  tendencies box (behavioral, experiential, physiological), and
+  response modulation bracketed as "Response-Focused Emotion
+  Regulation" occurring AFTER that box; i.e. the figure itself
+  carries the antecedent/response timing distinction the M2
+  exercise teaches. Measured at
   1,919 words on the raw pdftotext basis for the WHOLE three PDF
   pages (printed pp. 281-283; includes material beyond the proposed
   excerpt). The PROPOSED EXCERPT ITSELF (from the five-family
@@ -524,7 +530,7 @@ this session's own opened evidence:
   provide is ultimately the way forward."). Raw page 3,650 words on
   the tag-stripped basis. The counterpoint option stands as recorded.
 
-### M3 preparation (2026-10-26, worker-pplx-degpsychdim-1026a; no module prose written — M2-M8 module production gated per the supervisor's Phase 0 ruling)
+### M3 preparation (2026-10-26, worker-pplx-degpsychdim-1026a; no module prose written; M2-M8 module production gated per the supervisor's Phase 0 ruling)
 
 The two central M3 sources (the commentary-appraisal source and the
 mechanism-teaching source) were re-opened and re-verified against the
@@ -634,7 +640,7 @@ tag-strip, same verification behaviour as above):
   assigned excerpts and workload budgets remain pending for the
   writing session.
 
-### M4 preparation (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:30Z measured; no module prose — gated)
+### M4 preparation (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:30Z measured; no module prose; gated)
 
 All four M4 sources opened this pass against raw curl-fetched text (same
 verification behaviour as the M3 pass). All passages below confirmed on
@@ -644,12 +650,12 @@ the raw text.
   ([Yale J Biol Med](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/)): the three-networks
   passage, quoted with elisions marked by ellipses (each quoted segment
   verbatim on the raw page): ("In our previous work we have identified three different brain
-  networks related to the functions of attention [1]. These are: (i)
+  networks related to the functions of attention [ 1 ]. These are: (i)
   Obtaining and maintaining the alert state... (ii) Orienting to
   sensory stimuli... (iii) The executive attention network that
   controls voluntary responses..."). Raw page 3,699 words on the
   tag-stripped basis. SOURCE-BOUNDARY FINDING: the disorders-and-affect
-  content lives HERE, not in Posner 2023 — the 2019 abstract states
+  content lives HERE, not in Posner 2023: the 2019 abstract states
   "deficits of attention accompany many neurological and psychiatric
   conditions", and the body carries the ADHD, anxiety, depression and
   schizophrenia material.
@@ -672,7 +678,7 @@ the raw text.
   should draw its disorders and affect material from Posner 2019, with
   Posner 2023 supplying the ANT and development content. Also caught this pass: one LLM-extracted
   "quote" from this page was a paraphrase, not verbatim ("The ANT was
-  developed to provide separate scores..." — NOT present on the raw
+  developed to provide separate scores..." not present on the raw
   page); it is excluded from this record.
 - Lippelt, Hommel and Colzato 2014, Focused attention, open monitoring
   and loving kindness meditation: effects on attention, conflict
@@ -694,12 +700,13 @@ the raw text.
   watch. Already content-verified via the batch-24 transcript fetch.
 
 Scope-doc repair applied in the same pass: the Lippelt row URL in
-docs/degrees/scope/deg-psychdim.md updated from the dead PDF link to
-the live article page (https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/);
+docs/degrees/scope/deg-psychdim.md updated from the PDF URL (which
+returned an HTML page on retrieval this pass) to the live article
+page (https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/);
 same source, link repaired only.
 
 
-### M5 preparation (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:31Z measured; no module prose — gated)
+### M5 preparation (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:31Z measured; no module prose; gated)
 
 Three of the four M5 sources opened this pass against raw curl-fetched
 text (Maitland 2024 is already verified and was measured for M1). All
@@ -741,7 +748,7 @@ passages below confirmed on the raw text.
   appendix.
 
 
-### M6 preparation (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:31Z measured; no module prose — gated)
+### M6 preparation (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:31Z measured; no module prose; gated)
 
 The one previously-unopened M6 source opened this pass; the other two
 were already opened and measured this session (Martinez-Priego et al.
@@ -763,7 +770,7 @@ status and the M2 boundaries packet).
   competence to perform, or lack of value or interest. Amotivation has
   been a strong negative predictor of engagement, learning, and
   wellness."). The passage also carries the SDT caution that most
-  intentional behaviors are multiply motivated — relevant to the M6
+  intentional behaviors are multiply motivated, relevant to the M6
   continuum-classification exercise design.
 - Martinez-Priego et al. 2024: see the M2 preparation above (opened,
   passages verbatim-confirmed, dual-basis counts recorded).
@@ -772,7 +779,7 @@ status and the M2 boundaries packet).
   verification status section).
 
 
-### M7 preparation (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:31Z measured; no module prose — gated)
+### M7 preparation (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:31Z measured; no module prose; gated)
 
 All five previously-openable M7 sources opened this pass against raw
 curl-fetched text (the Noba conditioning module was measured in the M3
@@ -794,7 +801,7 @@ openings below were read on the cleaned raw text of each page.
 - [Singh et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/), a systematic review of the time
   required for developing health-related habits: 10,509 words on the
   tag-stripped raw-page basis (includes site chrome; systematic
-  review — the writing session should measure the assigned excerpt).
+  review; the writing session should measure the assigned excerpt).
   Abstract opening verbatim on the cleaned page ("Healthy lifestyles
   depend on forming crucial habits through the process of habit
   formation, emphasising the need to establish positive habits and
@@ -821,7 +828,7 @@ openings below were read on the cleaned raw text of each page.
   effects by using a newly developed method called PET-PEESE, the
   ego depletion effect was indistinguishable from zero. However, it
   is too early to draw such rushing conclusion because of the
-  inappropriate usage of PET-PEESE.") — note the paper's own caution
+  inappropriate usage of PET-PEESE.") Note the paper's own caution
   against premature conclusions, which is the pedagogically relevant
   feature for the M7 meta-analysis-appraisal exercise.
 

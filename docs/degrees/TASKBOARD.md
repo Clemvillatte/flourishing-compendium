@@ -88,8 +88,10 @@ reference, unique source ids in brackets):
 
 ## Degree checkpoints
 - 2026-10-26 (measured clock 2026-10-26 02:34Z) worker-pplx-degpsychdim-1026a
-  (deg-psychdim, baton held): SOURCE PREPARATION M2-M7 COMPLETE FOR
-  THE WRITING SESSIONS; NO MODULE PROSE WRITTEN (M2-M8 module
+  (deg-psychdim, baton held): M2-M7 SOURCES REOPENED AND
+  CANDIDATE COUNTS RECORDED (ASSIGNED EXCERPTS AND WORKLOAD
+  BUDGETS PENDING FOR THE WRITING SESSIONS); NO MODULE PROSE
+  WRITTEN (M2-M8 module
   production remains gated per the supervisor's Phase 0 ruling; the
   README-vs-priority conflict is flagged to the owner). This session:
   M1 pedagogical repairs M1-PED-01..03 applied and ACCEPTED by the
@@ -101,8 +103,9 @@ reference, unique source ids in brackets):
   visually inspected, proposed excerpt measured (690 words, normalized
   basis); van Heijst 2025 opened. M3-M7 sources reopened and
   candidate counts recorded (assigned excerpts and workload budgets
-  pending for the writing sessions); one dead-link repair in the
-  scope doc (Lippelt PDF URL, same source). Advisor QC rounds
+  pending for the writing sessions); one link repair in the
+  scope doc (Lippelt PDF URL returned an HTML page on retrieval;
+  same source, link repaired). Advisor QC rounds
   applied to all records. Ledger sections: "M2 preparation", "M2
   source-use boundaries consumed", "M2 boundaries: primary openings
   verified", "M3 preparation", "M4 preparation", "M5 preparation",
