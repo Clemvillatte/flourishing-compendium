@@ -8,8 +8,7 @@ you keep having with someone you live with. You will read Dewey's account
 of where thinking starts, his account of what deliberation is, and his
 account of what discussion does for shared problems, then run all three on
 one recurring disagreement of your own. Source verification evidence is
-in ledgers/deg-wol-pragmatism.md. STATUS: DRAFT, NOT CLEARED; awaits
-supervisor module-QC and advisor review.
+in ledgers/deg-wol-pragmatism.md. STATUS: QC PASS (supervisor module-QC 1026e, 2026-10-26, review reviews/deg-wol-pragmatism-m4-supervisor-1026e.md).
 
 ## Level and placement
 

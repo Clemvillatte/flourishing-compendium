@@ -5,7 +5,7 @@ through five modules: what does it mean to treat your beliefs as instruments
 you test in experience, and what does that change about how you live when you
 feel uncertain or overwhelmed? This module installs the core idea and the
 method that carries the whole walk. Source verification evidence is in
-ledgers/deg-wol-pragmatism.md. STATUS: DRAFT, NOT CLEARED; module production
+ledgers/deg-wol-pragmatism.md. STATUS: QC PASS (supervisor module-QC 1026e, 2026-10-26, review reviews/deg-wol-pragmatism-m1-supervisor-1026e.md); module production
 per the wave-2 launch (docs/degrees/TASKBOARD.md, WAVE 2 LAUNCH); advisor QC
 round 1 returned the module with five bounded repairs (maxim application
 rebuild, primary-source grounding for the three-figure map, video transcript
@@ -15,7 +15,7 @@ ADDRESSED; round 3 (2026-10-26) confirmed the four non-video findings
 applied and returned one wording blocker (the video-first paragraph called
 the episode a verified lecture video), now fixed; the video's playback
 inspection, timestamped segmentation and caption status remain open and
-routed to supervisor module-QC. Awaits supervisor module-QC.
+routed to supervisor module-QC. Supervisor module-QC passed 2026-10-26 (1026e).
 
 ## Level and placement
 

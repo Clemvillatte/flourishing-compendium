@@ -12,8 +12,7 @@ uncertainty in your own life with a method you can name, show and
 repeat, defend a provisional judgment against its strongest
 objection, and name the responsible next step, including the step
 of waiting. Source
-verification evidence is in ledgers/deg-wol-pragmatism.md. STATUS:
-DRAFT, NOT CLEARED; awaits supervisor module-QC and advisor review.
+verification evidence is in ledgers/deg-wol-pragmatism.md. STATUS: QC PASS (supervisor module-QC 1026e, 2026-10-26, review reviews/deg-wol-pragmatism-m5-supervisor-1026e.md).
 
 ## Level and placement
 

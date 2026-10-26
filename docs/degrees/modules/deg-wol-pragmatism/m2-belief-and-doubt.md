@@ -11,8 +11,7 @@ suffering and becoming wiser meet in this tradition: a belief fixed by
 tenacity, authority or taste can look solid while quietly running your
 life, and learning to notice how it was fixed is the first move in
 testing it. Source verification evidence is in
-ledgers/deg-wol-pragmatism.md. STATUS: DRAFT, NOT CLEARED; awaits
-supervisor module-QC and advisor review.
+ledgers/deg-wol-pragmatism.md. STATUS: QC PASS (supervisor module-QC 1026e, 2026-10-26, review reviews/deg-wol-pragmatism-m2-supervisor-1026e.md).
 
 ## Level and placement
 

@@ -8,8 +8,7 @@ lawfully decide a belief the intellect cannot settle. The question for
 a walk of life is direct: which of your own choices are genuine
 options in James's sense, and what does his view of truth let you do
 with them? Source verification evidence is in
-ledgers/deg-wol-pragmatism.md. STATUS: DRAFT, NOT CLEARED; awaits
-supervisor module-QC and advisor review.
+ledgers/deg-wol-pragmatism.md. STATUS: QC PASS (supervisor module-QC 1026e, 2026-10-26, review reviews/deg-wol-pragmatism-m3-supervisor-1026e.md).
 
 ## Level and placement
 
