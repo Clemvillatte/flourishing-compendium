@@ -649,3 +649,16 @@ unjustified — retain/remove decisions requested; D055 justified from the
 passage's own words. The live page's "founding text on tacit knowledge"
 reception claim removed as unsupported by any opened source. story_check
 --context published: 0 errors (temp-copy method, live page untouched).
+
+2026-10-26 ~00:50Z storyteller-pplx-s1a-1026b: TENTH RUNG-4 UPGRADE PREPARED
+AND ROUTED — s1a-085-upgrade-ST025.md (ST025 legacy page; body quotes nothing
+verbatim; only source link is the ctext chapter citation, kept). Two verbatim
+passages from Zhuangzi, The Full Understanding of Life (Book XIX / ch. 19),
+Legge 1891 (METIS ETH Zurich PDF, opened 2026-10-26; passage lies beyond the
+truncation point of the earlier same-PDF full-text fetch, so the PDF was
+re-opened — first attempt failed with a transient fetcher error, succeeded on
+retry, recorded as it happened). Mapping-honesty pattern: D055, D057, D059,
+B056, P067 left unjustified — retain/remove decisions requested; D071
+JUSTIFIED (the D071 principle page's own sourced quotation is this passage,
+verified this session). story_check --context published: 0 errors (temp-copy
+method, live page untouched).
