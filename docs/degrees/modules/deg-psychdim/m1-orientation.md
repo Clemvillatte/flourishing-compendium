@@ -397,7 +397,7 @@ learner can self-check.
 
 - Required reading (word counts measured on the opened pages): Hofmann
   and Hayes 2024 assigned excerpt 680 words, Maitland 2024 section 1.4
-  240 words, Noba module about 5,011 words. At 130 words per minute for
+  240 words, Noba module measured at 5,011 words. At 130 words per minute for
   the two research excerpts (many new concepts; the 238
   words-per-minute adult non-fiction default adjusted down by purpose)
   that is about 7 minutes raw, and at 180 words per minute for the Noba
