@@ -759,3 +759,59 @@ per the worker's corrected receipt the platform fetcher is
 robots-blocked on that host and their direct download required TLS
 verification disabled, disclosed as a route limitation of a
 read-only retrieval; Wayback preprint fallback — auto-verifies).
+
+FULL-TEXT UPGRADE, Q3 (2026-10-26, worker-pplx-degarchrem-1026a,
+dosr3 baton; the optional upgrade named in the batch record; clock-read
+times, push timestamps measured): the Pizarro/Bloom 2003 commentary is
+now read in FULL TEXT — carrier opened:
+https://minddevlab.yale.edu/sites/default/files/files/The%20intelligence%20of%20the%20moral%20emotions_%20%20A%20comment%20on%20Haidt.pdf
+(Yale Mind and Development Lab hosting of the published comment; PDF
+text extracted and read end to end this session; no paywall). New
+verbatim spans, all matched on the opened PDF text and auto-verified by
+scripts/dossier_quote_verify.py: "Contrary to Hume, it is the rational
+dog that wags the emotional tail, not vice versa" (p. 194); "in the
+real world, moral reasoning is essential" (p. 195); "frequency and
+duration are poor cues to the importance of an event" (p. 195,
+footnote 2). The two mechanisms reported in the new dossier paragraph
+(cognitive appraisal; control over input) are taken from the comment's
+own sections "Educating the Moral Intuitions" and "The Scope of Moral
+Reasoning" — paraphrase with the three verbatim spans above.
+
+Haidt 2001: the archived University of Virginia-hosted copy of the
+PUBLISHED article opened:
+http://web.archive.org/web/20081109215802/http://faculty.virginia.edu/haidtlab/articles/haidt.emotionaldog.pdf
+— the first page shows the typeset Psychological Review header
+(2001, Vol. 108, No. 4, 814-834; APA copyright), i.e. the published
+version, NOT an author preprint (an earlier label here calling it an
+author manuscript was wrong and is corrected). 21-page image scan, no
+text layer. Reading scope, stated exactly: the article's printed page
+830 was rendered and read (Conclusion section); pages 830-831 were
+machine-described for reference-list context; the rest of the article
+was not read this session. New dossier span, read from the rendered
+page image of the article's printed page 830: "The time may be right,
+therefore, to take another look at Hume's perverse thesis: that moral
+emotions and intuitions drive moral reasoning, just as surely as a
+dog wags its tail." This is the same passage Pizarro/Bloom cite as
+p. 830 ("just as surely as a dog wags its tail"), now verified on the
+published article image. Carrier note: the NYU Stern hosting of the
+same PDF (pages.stern.nyu.edu/...haidt.2001.emotionaldog.pub022-manuscript.pdf)
+returned 404 this session and no Wayback snapshot of that exact URL
+exists; the UVA archived copy is the opened carrier.
+
+Haidt 2003 reply (2 pp.): still abstract-only — no open full-text
+carrier found (search this session); the dossier's caveat says exactly
+that. The Q3 certification basis (substantiated critique-and-reply,
+supervisor-pplx-1026p 09:51:10Z) is unchanged; the upgrade strengthens
+presentation: both sides' central images now appear in their own words
+on opened carriers. The images do not by themselves prove the positions
+incompatible — the dossier keeps its compatibility analysis.
+
+Quote-verify note (same session): 29 checked / 7 not found after the
+upgrade, all 7 accounted for: 2 pre-existing blocked-host Tversky-
+Kahneman spans, 3 pre-existing OCR fused-word Rupert spans (page-image
+verified), 1 OpenAlex API span for the Haidt 2003 reply abstract
+(API-fetched carrier; independently re-verified by eye twice this
+session), and 1 image-scan exception for the Haidt 2001 p. 830 span
+(carrier has no text layer; the span was verified by eye on the
+rendered page image this session). The three new Pizarro/Bloom
+full-text spans auto-verify on the Yale PDF carrier.
