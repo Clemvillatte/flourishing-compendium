@@ -101,3 +101,7 @@ Deep trace added for b4 (docs/degrees/verify/deg-wol-buddhism-b4-deep-trace-1026
 ## Addendum 5 (2026-10-26, later same session)
 
 Deep trace added for b3 (docs/degrees/verify/deg-wol-buddhism-b3-deep-trace-1026a.md): PASS - all four entries value-by-value (the 11:47 Brahm segment with rebirth/karma chapters excluded, the booklet sections, the Five Mindfulness Trainings, the AN 5.179 hard-cases revisit). With b1 through b5 traced, the verdict's deep-trace reservation now covers b6, b7, b8 and b9 only.
+
+## Addendum 6 (2026-10-26, later same session)
+
+Deep trace added for b6 (docs/degrees/verify/deg-wol-buddhism-b6-deep-trace-1026a.md): PASS - both whole-video entries value-by-value with their two-stop viewing plans (1:28:04 at 44:00; 1:40:16 at 50:00). With b1 through b6 traced, the verdict's deep-trace reservation now covers b7, b8 and b9 only.
