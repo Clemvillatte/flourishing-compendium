@@ -21281,9 +21281,8 @@ function renderGallery(){
     return card;
   }
 
-  function render(){
-    list.innerHTML = '';
-    const visible = data.filter(d => {
+  function visibleItems(){
+    return data.filter(d => {
       if(host && d.host !== host) return false;
       if(theme && d.theme !== theme) return false;
       if(q) {
@@ -21292,6 +21291,11 @@ function renderGallery(){
       }
       return true;
     });
+  }
+
+  function render(){
+    list.innerHTML = '';
+    const visible = visibleItems();
 
     if(!visible.length){
       list.appendChild(el('div','acad-empty','No results.'));
@@ -21321,9 +21325,22 @@ function renderGallery(){
   hostSel.onchange = () => { host = hostSel.value; pageSize = 120; render(); };
   themeSel.onchange = () => { theme = themeSel.value; pageSize = 120; render(); };
 
+  // RANDOM PICK — opens a random source from the currently filtered list
+  const randomBtn = el('button','acad-btn','Random pick');
+  randomBtn.type='button';
+  randomBtn.setAttribute('aria-label','Open a random source from the current list');
+  randomBtn.title = 'Open a random source from the current list';
+  randomBtn.onclick = ()=>{
+    const visible = visibleItems();
+    if(!visible.length) return;
+    const d = visible[Math.floor(Math.random()*visible.length)];
+    if(d.url) window.open(d.url,'_blank','noopener');
+  };
+
   fbar.appendChild(search);
   fbar.appendChild(hostSel);
   fbar.appendChild(themeSel);
+  fbar.appendChild(randomBtn);
   wrap.appendChild(fbar);
   wrap.appendChild(list);
   root.appendChild(wrap);
@@ -22228,6 +22245,18 @@ function renderSourceExplorer(){
   levelSel.value = A.filters.level || '';
   levelSel.onchange = ()=>{ A.filters.level = levelSel.value; renderSourceList(); };
   fbar.appendChild(levelSel);
+
+  // RANDOM PICK — opens a random source from the currently filtered list
+  const randomBtn = el('button','acad-btn','Random pick');
+  randomBtn.type='button';
+  randomBtn.setAttribute('aria-label','Open a random source from the current list');
+  randomBtn.title = 'Open a random source from the current list';
+  randomBtn.onclick = ()=>{
+    const matches = explorerMatches();
+    if(!matches.length) return;
+    openSource(matches[Math.floor(Math.random()*matches.length)]);
+  };
+  fbar.appendChild(randomBtn);
   wrap.appendChild(fbar);
 
   // Grid
@@ -22237,11 +22266,9 @@ function renderSourceExplorer(){
   const empty = el('div','acad-empty'); empty.id='acadSourceEmpty'; empty.hidden=true;
   wrap.appendChild(empty);
 
-  function renderSourceList(){
-    const grid2 = $('acadSourceGrid'); if(!grid2) return;
-    grid2.innerHTML='';
+  function explorerMatches(){
     const q=A.filters.q, topic=A.filters.topic, level=A.filters.level;
-    const matches = window.fcAcademyData.sources.filter(s=>{
+    return window.fcAcademyData.sources.filter(s=>{
       if(q){
         const hay=[s.title,s.presenter,s.host,(s.topic_ids||'')].join(' ').toLowerCase();
         if(!hay.includes(q)) return false;
@@ -22253,6 +22280,12 @@ function renderSourceExplorer(){
       if(level && (s.level||'')!==level) return false;
       return true;
     });
+  }
+
+  function renderSourceList(){
+    const grid2 = $('acadSourceGrid'); if(!grid2) return;
+    grid2.innerHTML='';
+    const matches = explorerMatches();
     if(!matches.length){
       $('acadSourceEmpty').hidden=false;
       $('acadSourceEmpty').textContent='No sources match your filters. Clear a filter or search a different term.';
