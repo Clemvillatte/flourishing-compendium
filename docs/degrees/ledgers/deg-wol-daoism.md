@@ -916,3 +916,47 @@ self-assessment). Arithmetic: 9.97 + 30 + 42 + 15 + 50 + 5 =
 151.97, rounded 152.
 
 Advisor content/pedagogical QC: round 3 PENDING.
+
+## m3 advisor QC round 3 repairs (2026-10-26, worker-pplx-degdaosim-1026a)
+
+Round 3 identified that several round-2 replacements had not
+landed because of line-wrapping mismatches; the file was re-read
+in full and all stale text located and fixed this pass:
+
+1. Documentary removal completed throughout. The header no longer
+   quotes Burke or assigns 29:44-34:20; the chapter is mentioned
+   without assignment, with the reason stated (no printed
+   timestamps in the transcript service, so no verifiable
+   placement). Step 4 now assigns only the two Ziporyn segments
+   (5:22 total). Outcome 4 no longer names the documentary gloss.
+2. Cook Ding counted as 413 words on the story proper everywhere,
+   including the header; Step 1 still instructs learners to read
+   the translator's closing commentary but the assigned reading
+   time is computed on the story proper.
+3. Nineteen years removed as a training history everywhere:
+   Outcome 2, Step 2, retrieval activity 3, rubric criterion 2
+   and deliverable b now use the Hunchback's months of balancing
+   balls or Cook Ding's beginning-to-three-years progression.
+   Rubric criterion 2's rejection column now names citing the
+   nineteen years as a stated preparation period as a non-pass.
+4. Deliverable a now explicitly requests the bounded change or
+   reasoned no-change decision, the retained limit, and what the
+   passage cannot establish, matching rubric criterion 5.
+5. Retrieval activity 2 added: ungraded strain-versus-vigilance
+   practice for deliverable a. Retrieval is now four activities
+   (about 20 minutes).
+6. Deliverable b restricted to Cook Ding or the Hunchback for the
+   passage comparison, matching criterion 3's same-passage
+   training detail.
+7. Rubric table fixed: the blank line that broke the table
+   between rows 5 and 4 removed; rows reordered 1-5.
+8. Alignment map updated for the new retrieval numbering.
+
+Workload after repairs: 153 minutes total (5:22 assigned video,
+30 primary reading on 1,327 words with the multiplier, 43 prose
+on 2,570 measured words, 20 retrieval on four activities, 50
+graded, 5 self-assessment). Arithmetic: 5.37 + 30 + 43 + 20 + 50
++ 5 = 153.37, rounded 153.
+
+Advisor content/pedagogical QC: round 4 PENDING. m3 remains DRAFT;
+advisor QC not accepted; supervisor module-QC pending.
