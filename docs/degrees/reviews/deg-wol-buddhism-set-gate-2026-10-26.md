@@ -97,7 +97,11 @@ module. No paywalled or app-gated content anywhere in the set.
    accordingly in each module).
 3. **m1-four-truths.md leftover** (routed in the interim entry): archive
    or delete after confirming no dependency; its cross-references point
-   to a non-existent m2.
+   to a non-existent m2. **CLOSED (06:24Z, deg-verify-a):** already
+   resolved — the file is gone from modules/ and archived as
+   noncanonical evidence per the supervisor's collision ruling
+   (docs/degrees/archive/deg-wol-buddhism-m1-four-truths-noncanonical.md,
+   ruling 2026-10-26 04:52Z; first-landed b1/b2 is canonical).
 4. **b9 aggregates thread** owed (flagged in the module and ledger).
 5. Supervisor module-QC owed on all nine; whole-degree final review,
    deg-integrate and publication remain CLOSED.
