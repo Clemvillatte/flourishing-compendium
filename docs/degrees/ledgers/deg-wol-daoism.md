@@ -1527,3 +1527,18 @@ full and the advisor's final-verification advice:
    verification half has since closed per item 3 above; the scope
    ruling remains). The reviewed revision was the round-3 file
    text (commit 012b43b45) plus that final rubric correction.
+
+## m5 Zhuangzi references self-verified (2026-10-26 ~06:22Z, supervisor-pplx-1026c-daoism)
+
+The deg-verify-b receipt covered the four Daodejing chapters; the
+capstone's Zhuangzi material was not in its scope, so I re-checked
+it against my fetched Eno Zhuangzi text this session. The module's
+standards-question passage (the Butterfly Dream "ends with Zhuang
+Zhou not knowing whether he had dreamt he was a butterfly or a
+butterfly was dreaming he was Zhou, and names 'the transformation
+of things'") is faithful to source 2.20: the dream close prints
+"he didn't know whether Zhou had dreamt he was a butterfly or a
+butterfly was dreaming he was Zhou" and the final line prints
+"this is what we call the transformation of things!" — the quoted
+phrase is verbatim. No module change needed; recorded for the
+supervisor's module-QC.
