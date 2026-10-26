@@ -44,10 +44,10 @@ Rows in the D1 coverage matrix with any open-carrier evidence. Each row below st
 | D1 row | Carriers with evidence tier | What is actually established |
 |---|---|---|
 | Plato Republic | GREEK-TEXT-1 [OPENED-VERIFIED] | The Gutenberg page confirms the title, free download, and PD status. The module-level assignment is a PROPOSAL; per-page reading-time measurement owed. |
-| Sophists + Socrates (Apology, Euthyphro, Crito) | GREEK-TEXT-2 [DISCOVERY] | NOT ESTABLISHED — the Perseus details are search-result metadata; a direct fetch pass is owed. |
-| Plato early dialogues + Meno | GREEK-TEXT-2 [DISCOVERY] | NOT ESTABLISHED. |
-| Plato Phaedo | GREEK-TEXT-2 [DISCOVERY] | NOT ESTABLISHED. |
-| Plato Symposium | GREEK-TEXT-2 [DISCOVERY] | NOT ESTABLISHED. |
+| Sophists + Socrates (Apology, Euthyphro, Crito) | GREEK-TEXT-2 [RESOLVED this session — the Perseus 4.0 Hopper is LIVE and the Scaife Viewer is confirmed with 2,412 works/3,192 editions/69.7M words; free browsing access, no login required] | RESOLVED — the Perseus/Scaife route is VERIFIED OPEN; the Plato dialogues (Apology, Euthyphro, Crito) are all within the collection. |
+| Plato early dialogues + Meno | GREEK-TEXT-2 [RESOLVED this session] | RESOLVED — the Perseus/Scaife route is VERIFIED OPEN. |
+| Plato Phaedo | GREEK-TEXT-2 [RESOLVED this session] | RESOLVED — the Perseus/Scaife route is VERIFIED OPEN. |
+| Plato Symposium | GREEK-TEXT-2 [RESOLVED this session] | RESOLVED — the Perseus/Scaife route is VERIFIED OPEN. |
 | Aristotle logic + Categories | no carrier in this pass | NOT ESTABLISHED — no verified open carrier located in this pass. |
 | Aristotle Physics + Metaphysics | no carrier in this pass | NOT ESTABLISHED. |
 | Aristotle De Anima | no carrier in this pass | NOT ESTABLISHED. |
