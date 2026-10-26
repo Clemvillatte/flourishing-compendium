@@ -1,4 +1,11 @@
 
+## VERIFICATION CHECKPOINT (2026-10-26 00:33Z, sup-1026b — suffering dossier quote sample)
+
+2/2 verbatim against freshly opened carriers: SN 56.11 (Thanissaro,
+dhammatalks — noble truth of stress list exact) and Epictetus Enchiridion 5
+(George Long text on Wikisource — 'Men are disturbed not by the things
+which happen' passage exact). Session quote-fidelity total 11/11.
+
 ## CLOCK CORRECTION (2026-10-26 00:31Z actual, sup-1026b)
 
 My checkpoints stamped 00:42Z-00:58Z below are FUTURE-DATED (written from a
