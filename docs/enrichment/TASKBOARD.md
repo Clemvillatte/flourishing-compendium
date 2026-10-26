@@ -1,3 +1,14 @@
+## Worker checkpoint (2026-10-26 15:02Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+ELEVENTH QC SAMPLE (taper window): decision-making.md and executive-
+functions.md. Both: dossier_check OK. decision-making: 8 checked /
+0 not found — fully clean. executive-functions: 30 checked / 2 not
+found — both on Taylor & Francis carriers, the known bot-blocked
+class for the verifier's urllib fetch (fetch-route verification not
+attempted this pass, time-boxed) — left flagged for the next
+verification pass alongside gratitude's 7. No dossier text changed.
+Files touched: this checkpoint only.
+
 ## Worker checkpoint (2026-10-26 14:58Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 TENTH QC SAMPLE (taper window): frustration.md and overload-
