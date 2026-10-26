@@ -516,3 +516,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-26 12:35Z deg-fix-text: final link sweep of live registry (93 non-YouTube URLs): priority degrees clean; one likely dead link in another degree flagged (modernstoicism course lecture 404) in findings doc.
 - 2026-10-26 12:35Z deg-fix-text: confirmed ST-06 (Modern Stoicism lecture) 404 on second request, course root 200; routed in findings doc.
 2026-10-26 12:33Z deg-verify-b (worker-pplx-schema-1026a): baton RELEASED (pushed 12:33:52Z, before the prescribed T+58 close) — 13 verification receipts pushed; defects flagged: m3 mis-pairing (mine), m4 stale-fix duplication (integration lane's); PRAG-M4-01 revert + mod-pd-4 outcome repair executed; battery green at the final tree; replay hazard flagged open; run report pending.
+- 2026-10-26 12:37Z deg-fix-text: BUD-B1-04 213-word label re-counted on a fresh download (164 + 49), exact.
