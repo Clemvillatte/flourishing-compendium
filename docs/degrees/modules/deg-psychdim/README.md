@@ -63,9 +63,11 @@ under `docs/degrees/verify/`. Current module states are mirrored in
 `docs/degrees/TASKBOARD.md`.
 
 M2's required private lived transfer and criterion-specific exemplars
-have supervisor changed-hash confirmation. M4's teaching review stands,
-but its recording-window requirement remains open. M5's alignment,
-source-navigation and specimen repairs have a bounded production adviser
-pass; its McAdams recording boundary is still unverified. M6–M8 must
-not be represented as having a production adviser pass. Integration
-and public visibility remain closed.
+have supervisor changed-hash confirmation. M5's alignment, source-navigation
+and specimen repairs have a bounded production adviser pass. New indexed
+transcript evidence covers M4's and M5's original recording windows through
+locally unellipsed overlaps; independent decisions on those requirements
+are still pending. The evidence and reproduction queries are in
+`verify/deg-psychdim-m4-m5-indexed-window-evidence-2874787d.md`.
+M6's production adviser verdict remains pending; no M6–M8 production
+adviser pass is claimed here. Integration and public visibility remain closed.

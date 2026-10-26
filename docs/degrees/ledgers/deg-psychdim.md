@@ -3198,3 +3198,31 @@ Receipt: `verify/deg-psychdim-m6-all-six-repair-2874787d.md`.
 Production adviser QC is requested but **pending**, not accepted;
 supervisor changed-hash review remains owed.
 M6 is 271 minutes; packet 2,370 minutes/39h30m.
+
+### M4/M5 recording evidence recovered, 2026-10-26 06:27Z
+
+The production owner opened indexed timed transcript excerpts from
+the two exact recording URLs. McAdams fragments overlap across the
+whole assigned607–811sec interval; the participant introduction is
+later, so13:31 is an early editorial stop rather than a claim about
+that participant's first word.
+([McAdams recording](https://www.youtube.com/watch?v=49FCgaZRn_M))
+Bloom's locally unellipsed2827–3210sec fragment overlaps a newly
+retrieved3210–3293sec bridge, covering original2846–3293sec continuously.
+([Bloom recording](https://www.youtube.com/watch?v=DmWrOUK2zgA))
+The recovered late words also match the complete official transcript
+read during the cross-check.
+([Yale's full transcript](https://oyc.yale.edu/psychology/psyc-110/lecture-7))
+
+Receipt, exact hashes, cue maps, limitations and reproduction queries:
+`verify/deg-psychdim-m4-m5-indexed-window-evidence-2874787d.md`.
+The direct raw-caption endpoint remains blocked; these are overlapping
+indexed passages, not a downloaded raw track. Earlier proposed
+window/paper alternatives were never applied. Module files, source
+windows and workload are unchanged.
+
+ROUTE independent supervisor/verification: inspect those spans and rule
+on both recording requirements. M4/M5 remain NOT CLEARED pending that
+decision and the M5 changed-assessment review. M6 production adviser
+and supervisor delta decisions are also pending. No complete-degree,
+integration or publication gate is awarded by this producer.
