@@ -287,5 +287,5 @@ workload recalculated with the Dhammadipa talk EXCLUDED pending
 segmentation; formulaic contrasts and the "doorway" closer removed. STILL
 OWED (gap register): Dhammadipa talk transcript inspection + verified
 segment assignment (b1 Step 4); a finer segment split for the Dreyfus
-1:20:35 teaching (b2); caption/language status for all three videos; word
+1:20:34 teaching (b2); caption/language status for all three videos; word
 counts measured on the assigned primary texts rather than estimated.
