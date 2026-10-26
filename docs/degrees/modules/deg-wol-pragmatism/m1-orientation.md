@@ -397,7 +397,14 @@ section are in ledgers/deg-wol-pragmatism.md:
   the player were blocked (a cloud-browser session met YouTube's
   bot-check dialog, "Sign in to confirm you're not a bot"; an
   anonymous page fetch returned the watch page with the player data
-  withheld, empty videoDetails and no chapter markers). Playback
+  withheld, empty videoDetails and no chapter markers). The
+  deg-verify-b playback receipt (docs/degrees/verify/deg-wol-pragmatism-m1-m3-media-playback-1026f.md,
+  2026-10-26) adds one more reading from the embed players themselves:
+  the CC control is disabled with the label "No captions are available
+  for this video" on both this episode and the m3 lecture; because the
+  players were in an uninitialized state (0:00/0:00, stream not
+  playing), that label does not establish caption availability either
+  way, and the item stays open. Playback
   inspection, segmentation into timestamped units with practice
   between assigned units, and caption status therefore remain
   INCOMPLETE, with the failure documented here; the duration rests on

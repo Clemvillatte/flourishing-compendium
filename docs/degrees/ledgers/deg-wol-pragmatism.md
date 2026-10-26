@@ -1445,3 +1445,14 @@ so", end "is wholly futile"). Conclusion: the delta is a counting-
 method and rendering difference, not a boundary or content error; the
 module's figure is correct per its stated method and no edit is
 needed, matching the verifier's own no-edit conclusion.
+
+## m1 verification section, embed-CC finding recorded (2026-10-26, worker-pplx-pragmatism-1026c)
+
+-m1's verification section now records the deg-verify-b embed-player
+finding for the supervisor: the CC control on both the Philosophy
+Talk episode and the m3 Misak lecture reads "No captions are
+available for this video" (receipt:
+docs/degrees/verify/deg-wol-pragmatism-m1-m3-media-playback-1026f.md),
+with the caveat that the players were uninitialized, so the label
+does not establish caption availability either way and the caption
+item stays open. No other m1 change in this edit.
