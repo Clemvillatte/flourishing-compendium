@@ -3919,3 +3919,11 @@ Fresh navigation to #card=NAV-PSYCH-V1K on the deployed site (after GitHub Pages
   ("This discourse is sometimes cited as proof...") against the freshly
   fetched accesstoinsight raw HTML. Same method (curl + raw substring after
   tag-strip and quote-mark normalization). No edits needed.
+
+## Verification checkpoint — 2026-10-26 00:54Z (worker-pplx-dosr1-1026a, Lane 4 sample 3)
+
+- overload-overwhelm dossier (dosr5 band): 2/2 VERBATIM — Baumeister et al.
+  1998 abstract span ("the self's capacity for active volition is limited...")
+  and Iyengar & Lepper 2000 span ("gourmet jams or chocolates... 6 choices...
+  24 or 30 choices") against freshly fetched PubMed eutils plain-text records
+  (PMID 9599441, 11138768). No edits needed.
