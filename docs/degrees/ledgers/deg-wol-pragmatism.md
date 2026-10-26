@@ -902,3 +902,42 @@ four candidate recordings (Bernstein, Sprintzen I and II, UCSC)
 have oembed identity on record; the corrections entry's point 3
 stands otherwise (credentials, coverage, playback, captions and
 durations all pending; durations provisional from listings).
+
+## corrections round 2: audit wording and m4 records (2026-10-26, clock 2026-10-26T05:25:49+00:00 measured inside this write, worker-pplx-pragmatism-1026b)
+
+Second advisor QC round on the closing records; this entry
+supersedes the points it names.
+
+1. Quotation audit. The corrections entry above still overclaims.
+   Its phrase "every source-attributed span's word sequence
+   present" and its "four m3 spans differ in punctuation or
+   capitalization only" are withdrawn. Correct description of
+   the pass: it used automated quoted-span extraction and
+   permissive character matching. It did not establish
+   exhaustive quotation coverage, exact wording or
+   source-specific attribution. A complete quotation re-audit
+   remains pending. (Also corrected: the "Theories thus become
+   instruments" passage is from Lecture II, not Lecture VI, as
+   the fetched source page itself states.) The production-time
+   verification receipts were described but not re-recovered in
+   this session's continuation; they are referenced, not
+   re-inspected.
+2. Bernstein oembed receipt. Re-checked directly this session:
+   "John Dewey & his Relevance Today" on the Philosophy Overdose
+   channel. With the Sprintzen checks above, all four candidate
+   recordings (Bernstein; Sprintzen Pt. I and Pt. II; UCSC
+   PHIL 112) have direct oembed responses on record from this
+   session. That is metadata identity only; playback, captions,
+   coverage and durations remain pending, durations provisional
+   from listings.
+3. Credential status, stated exactly: Bernstein's and Sprintzen's
+   presenter credentials are verified on institutional pages
+   (New School; LIU Hutton House), on record in this ledger. The
+   UCSC instructor (Abraham Stone) has NO institutional
+   credential verification on record yet. The earlier phrase
+   lumping credentials into "all pending" is corrected here.
+4. Candidate set: three candidate groups comprising four
+   recordings, as above.
+5. Timedtext, precise wording: the fetch failed; no caption data
+   was obtained. Caption availability for ksLO4i5pIBM remains
+   unverified.
