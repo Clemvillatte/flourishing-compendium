@@ -1,3 +1,11 @@
+## Worker checkpoint (2026-10-26 02:25:47Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
+
+QC SAMPLES — right-concentration (dosr2 band) and the concurrent session's new repairs (goals Q3, cognition Q2):
+- right-concentration, all four questions: all three sampled quoted spans verified VERBATIM — Wikipedia Samadhi definition span, PMC3627747 fatigue/resource-depletion span, SN 12.70 Thanissaro span (each on freshly opened carriers).
+- goals Q3, the new Taylor-Brown-vs-Colvin-Block exchange: all three quotes verified VERBATIM on freshly opened carriers — Taylor-Brown 1988 MIT PDF ("Moreover, these illusions appear to promote other criteria of mental health..."), Taylor-Brown 1994 reply taylorlab.psych.ucla.edu PDF ("To summarize, we asked two questions... buttressed, not challenged..."), and the Colvin-Block abstract was re-verified earlier this session on eutils. The Oettingen-Mayer abstract span was verified earlier via eutils in the same audit.
+- cognition Q2: the Clark-Chalmers parity-criterion quote verified VERBATIM on the consc.net carrier; the Rupert side still reaches through the SEP exposition with the dossier's honest "could not open it this session" note standing (my 403 attempts recorded in the ledger).
+No defects found in what was checked; no repairs needed.
+
 ## Worker checkpoint (2026-10-26 02:25:12Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
 
 QC SAMPLES — right-view and right-mindfulness dossiers (dosr2 band):
