@@ -36,6 +36,9 @@ The overfilled vessel and the over-sharpened point carry the same warning: keepi
 
 - [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt): chapter 9
 
+## Stories
+- [[ST419 — Fan Li Takes the Boat|419. Fan Li Takes the Boat]]
+
 ## Psychology parallels
 
 - **[[Harmonious versus obsessive passion|Harmonious versus obsessive passion]]**, harmonious passion allows disengagement after activity (Vallerand, 2010)

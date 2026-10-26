@@ -52,6 +52,7 @@ The famous scene is in chapter 18. Zhuangzi's wife has died and he is found drum
 - [[ST035 — Ivan Ilyich's Question|35. Ivan Ilyich's Question]]
 - [[ST036 — Frankl Chooses the Attitude|36. Frankl Chooses the Attitude]]
 - [[ST403 — Two Friends Sing Beside the Corpse of Sang Hu|403. Two Friends Sing Beside the Corpse of Sang Hu]]
+- [[ST495 — Mengsun Cai Wails Without Tears|495. Mengsun Cai Wails Without Tears]]
 ## Practice kernels
 
 - [[K151 — Eulogy exercise|K151 Eulogy exercise]]

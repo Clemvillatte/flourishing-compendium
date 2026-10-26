@@ -32,6 +32,9 @@ The cosmology is ancient and I do not rely on it. What I take from the passage i
 
 - [[T013 — Seneca]]: the premeditatio malorum teaching (Letters) the page lists.
 
+## Stories
+- [[ST497 — Ziyu Brings Rice to Zisang After Ten Days of Rain|497. Ziyu Brings Rice to Zisang After Ten Days of Rain]]
+
 ## Psychology parallels
 
 - **[[Intolerance of uncertainty|Intolerance of uncertainty]]** (Dugas et al., 1998), predicts worry and GAD

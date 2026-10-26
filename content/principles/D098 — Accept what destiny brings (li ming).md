@@ -25,6 +25,8 @@ The key move is the last line. Destiny does not claim credit either — "when we
 ## Stories
 
 - [[ST377 — Ziyu Looks at His Reflection in the Well|377. Ziyu Looks at His Reflection in the Well]]
+- [[ST492 — Shentu Jia Will Not Wait for the Minister|492. Shentu Jia Will Not Wait for the Minister]]
+- [[ST497 — Ziyu Brings Rice to Zisang After Ten Days of Rain|497. Ziyu Brings Rice to Zisang After Ten Days of Rain]]
 ## Psychology parallels
 
 - **[[Secondary control|Secondary control]]**, adjusting the self rather than the world buffers distress (Rothbaum et al., 1982)

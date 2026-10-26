@@ -29,6 +29,9 @@ The sutta's unit of effort is tuning, not pushing. There is a pitch at which the
 
 - [Sona Sutta, AN 6.55 (Thanissaro), Access to Insight](https://www.accesstoinsight.org/tipitaka/an/an06/an06.055.than.html) — the vina parable
 
+## Stories
+- [[ST500 — The Vina Player Who Bled Through His Feet|500. The Vina Player Who Bled Through His Feet]]
+
 ## Psychology parallels
 
 - **[[Optimal arousal|The inverted-U]]**

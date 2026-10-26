@@ -35,7 +35,7 @@ The things that take longest to build show the least while they are being built.
 
 ## Stories
 - [[ST489 — The Slowest Vessel|489. The Slowest Vessel]]
-
+- [[ST412 — 36. The Slowest Vessel|412. 36. The Slowest Vessel]]
 ## Psychology parallels
 
 - **[[Identity development|Identity development]]** (Erikson, 1968), a decades-long process

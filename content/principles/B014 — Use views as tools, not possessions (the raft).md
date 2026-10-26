@@ -33,6 +33,9 @@ As a compendium exercise, choose a view you rely on and describe what it helps y
 
 - [Alagaddupama Sutta, MN 22 (Thanissaro), Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.022.than.html) — the raft simile
 
+## Stories
+- [[ST501 — The Man Who Carried His Raft|501. The Man Who Carried His Raft]]
+
 ## Psychology parallels
 
 - **[[Cognitive defusion|Cognitive defusion]]**

@@ -35,6 +35,9 @@ Someone posts about every donation they make. Another gives quietly and mentions
 
 - Laozi, *Daodejing* (*Tao Teh King*), trans. James Legge: [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 
+## Stories
+- [[ST494 — Shushan the Toeless Walks In on Confucius|494. Shushan the Toeless Walks In on Confucius]]
+
 ## Psychology parallels
 
 - **[[Moral licensing|Moral licensing]]**, advertised virtue licenses subsequent transgression (Monin and Miller, 2001)

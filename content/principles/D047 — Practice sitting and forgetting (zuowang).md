@@ -32,6 +32,9 @@ Confucius's response names what the forgetting is for: "One (with that Pervader)
 
 - [Zhuangzi, trans. James Legge, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Book VI, section 9, the Yan Hui dialogue (PDF p. 35)
 
+## Stories
+- [[ST415 — Yan Hui Forgets Everything|415. Yan Hui Forgets Everything]]
+
 ## Psychology parallels
 
 - **Meditation and default-mode network**, experienced meditators show reduced DMN activity and self-referential processing (Brewer et al., 2011)

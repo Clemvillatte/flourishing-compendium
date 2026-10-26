@@ -37,6 +37,9 @@ Take "I have a good heart". List the conceivable practical differences between i
 - [[K132 — The pragmatic maxim|K132 The pragmatic maxim]]
 - [[K135 — Workability check|K135 Workability check]]
 - [[K135 — Workability check|K158 The workability question]]
+## Stories
+- [[ST416 — The Squirrel|416. The Squirrel]]
+- [[ST499 — The Diamond That Was Never Scratched|499. The Diamond That Was Never Scratched]]
 ## Psychology parallels
 
 - **[[Functional analysis|Functional analysis]]** — the Hayes group's process-based renewal of functional analysis: organizing case information in terms of behavioural principles to identify the causal relationships that might be changed (Hayes et al., 2020)

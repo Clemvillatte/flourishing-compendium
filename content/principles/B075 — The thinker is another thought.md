@@ -38,6 +38,9 @@ The exercise is to run the search yourself. When a worry shows up, look for the 
 - [Anattalakkhana Sutta (SN 22.59), Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html) — the aggregates examination
 - [Milindapanha 3.1.1, Rhys Davids translation, SuttaCentral](https://suttacentral.net/mil3.1.1/en/tw_rhysdavids) — the chariot simile and Vajira's verse
 
+## Stories
+- [[ST504 — The Search for the One Who Dies|504. The Search for the One Who Dies]]
+
 ## Psychology parallels
 
 - **The self as "center of narrative gravity"**, a useful fiction (Dennett, 1991)

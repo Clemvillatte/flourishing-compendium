@@ -29,7 +29,6 @@ The chapter adds an observation about reversal: "So it is that some things are i
 ## Stories
 
 - [[ST004 — The Empty Boat|4. The Empty Boat]]
-
 ## Psychology parallels
 
 - **[[Dialectical thinking|Dialectical thinking]]**, tolerance of contradiction predicts lower distress and better coping in East Asian and bicultural samples (Peng and Nisbett, 1999; Spencer-Rodgers et al., 2010)

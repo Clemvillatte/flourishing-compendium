@@ -27,7 +27,7 @@ He closes the essay with the same marriage: "The solid meaning of life is always
 - [[ST346 — The Boy from Grass Valley|346. The Boy from Grass Valley]]
 
 - [[ST345 — The Army Enlisted Against Nature|345. The Army Enlisted Against Nature]]
-
+- [[ST493 — James Leaves the Chautauqua Assembly and Sees a Workman on the Iron|493. James Leaves the Chautauqua Assembly and Sees a Workman on the Iron]]
 ## Psychology parallels
 
 - **Purpose in life and well-being**, having a direction predicts flourishing (conceptual parallel; Ryff, 1989; Steger et al., 2006)

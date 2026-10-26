@@ -37,6 +37,9 @@ For example: Someone eats the same breakfast on two mornings, once over a keyboa
 
 - [[Interbeing]] — attending to the conditions, living beings and labour that make a meal possible.
 - [[T035 — Thich Nhat Hanh]]: the mindful-meal lines the page quotes, eating in touch with abundance.
+## Stories
+- [[ST427 — A Bucketful of Rice|427. A Bucketful of Rice]]
+
 ## Psychology parallels
 
 - **Mindful eating interventions** (Warren et al., 2017)

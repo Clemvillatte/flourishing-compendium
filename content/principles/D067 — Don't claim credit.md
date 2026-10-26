@@ -34,6 +34,9 @@ Chapter 24 names the failure: "he who vaunts himself does not find his merit ack
 
 - [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt): chapters 2, 24, 77
 
+## Stories
+- [[ST498 — Yi Erzi Asks Xu You to Take Him In|498. Yi Erzi Asks Xu You to Take Him In]]
+
 ## Psychology parallels
 
 - **[[Leader humility|Leader humility]]**, expressed humility improves team performance and engagement (Owens et al., 2013)

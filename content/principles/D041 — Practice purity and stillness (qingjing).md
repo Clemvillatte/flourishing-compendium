@@ -45,6 +45,8 @@ Before drafting a difficult email, leave the phone in another room. Notice wheth
 ## Stories
 - [[ST478 — The Carver's Fast|478. The Carver's Fast]]
 - [[ST488 — The Painter Who Kept the Water Still|488. The Painter Who Kept the Water Still]]
+- [[ST411 — 35. The Painter Who Kept the Water Still|411. 35. The Painter Who Kept the Water Still]]
+- [[ST503 — An Infinite Ocean of Light and Love|503. An Infinite Ocean of Light and Love]]
 ## Psychology parallels
 
 - **[[Deautomatization|Deautomatization]]**, meditation dismantles automatic thought-perception links (Deikman, 1966)

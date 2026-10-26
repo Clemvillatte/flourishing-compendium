@@ -33,7 +33,7 @@ For example: Before a presentation, someone compares two preparations: rehearsin
 
 ## Stories
 - [[ST491 — The Letter Written for After|491. The Letter Written for After]]
-
+- [[ST417 — 39. The Letter Written for After|417. 39. The Letter Written for After]]
 ## Psychology parallels
 
 - **Fear learning and reconsolidation** (Schiller et al., 2010)

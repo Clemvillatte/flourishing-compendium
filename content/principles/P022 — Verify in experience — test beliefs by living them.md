@@ -31,6 +31,9 @@ Choose a specific, ordinary action you doubt you can perform. Decide what would 
 
 - [William James, "Is Life Worth Living?" excerpt (Ethics of Suicide Digital Archive, University of Utah)](https://ethicsofsuicide.lib.utah.edu/selections/william-james/)
 
+## Stories
+- [[ST422 — Marshall Drinks the Broth|422. Marshall Drinks the Broth]]
+
 ## Psychology parallels
 
 - **[[Behavioral experiments in CBT|Behavioral experiments in CBT]]**

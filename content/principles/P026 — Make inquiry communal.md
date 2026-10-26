@@ -26,6 +26,9 @@ That is why the community of inquiry is not a social nicety bolted on to the sci
 
 - [[K122 — Sitting with uncertainty|K122 Sitting with uncertainty]]
 - [[K236 — Community of inquiry|K236 Community of inquiry]]
+## Stories
+- [[ST426 — Darwin Asks Lyell Whether He Can Publish Honourably|426. Darwin Asks Lyell Whether He Can Publish Honourably]]
+
 ## Psychology parallels
 
 - **Transactive memory and collective intelligence**, groups outperform individuals on complex problems (Woolley et al., 2010)

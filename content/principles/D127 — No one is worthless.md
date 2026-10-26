@@ -37,6 +37,9 @@ The chapter refuses two moves at once: writing someone off, and treating them as
 
 - [The Tao Teh King, Legge translation (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 27
 
+## Stories
+- [[ST429 — Wang Tai Has as Many Followers as Confucius|429. Wang Tai Has as Many Followers as Confucius]]
+
 ## Psychology parallels
 
 - **[[Stigma research|Stigma research]]**, dehumanization worsens outcomes

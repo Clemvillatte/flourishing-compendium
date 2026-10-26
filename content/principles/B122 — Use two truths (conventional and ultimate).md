@@ -40,7 +40,7 @@ Garfield's commentary on the chapter reads the relation this way: understanding 
 - [[K138 — Multiple versioning|K138 Multiple versioning]]
 ## Stories
 - [[ST465 — Xuanzang Loses His Water|465. Xuanzang Loses His Water]]
-
+- [[ST414 — Milinda's Chariot|414. Milinda's Chariot]]
 ## Psychology parallels
 
 - **[[Construal-level theory|Construal-level theory]]**, the same event is processed at near and far levels (Trope and Liberman, 2010)

@@ -37,6 +37,9 @@ The test for a good death is a settled life. Accounts kept current, amends made 
 - [The Tao Teh King, Legge translation (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 33, 50
 - [Zhuangzi, Legge translation (ETH Zurich PDF)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 6, True men of old
 
+## Stories
+- [[ST421 — Kwang-dze Refuses the Grand Burial|421. Kwang-dze Refuses the Grand Burial]]
+
 ## Psychology parallels
 
 - **[[Meaning|Meaning in life]]** (Steger; Iverach and Menzies, 2019), buffers death anxiety

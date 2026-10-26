@@ -35,7 +35,6 @@ The old masters are described in the same register — "unpretentious like wood 
 ## Stories
 
 - [[ST004 — The Empty Boat|4. The Empty Boat]]
-
 ## Psychology parallels
 
 - **[[Authenticity|Authenticity and the "true self"]]** (Schlegel and Hicks, 2011), feeling one knows one's true self predicts meaning and well-being

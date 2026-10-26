@@ -31,6 +31,9 @@ Play is doing something for the sake of the doing, with room to change course. K
 
 - [Democracy and Education, John Dewey, Project Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt) — chapter 15, "Play and Work in the Curriculum"
 
+## Stories
+- [[ST424 — Feynman and the Wobbling Plate|424. Feynman and the Wobbling Plate]]
+
 ## Psychology parallels
 
 - **Playfulness as a character strength predicting well-being** (Proyer, 2011)

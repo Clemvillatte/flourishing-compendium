@@ -34,7 +34,7 @@ The discipline that makes the claim usable is in the tea instruction: "Drink you
 
 ## Stories
 - [[ST432 — Jim Forest Washes the Dishes|432. Jim Forest Washes the Dishes]]
-
+- [[ST502 — The Noise and Clatter of the Kitchen|502. The Noise and Clatter of the Kitchen]]
 ## Psychology parallels
 
 - **[[Savoring|Savoring]]**, attending to and appreciating present experience (Bryant and Veroff, 2007)

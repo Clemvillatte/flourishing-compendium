@@ -44,6 +44,7 @@ Before you start, ask how much of your attention is on the task and how much is 
 - [[ST182 — Massimo Bottura's Thousands of Iterations|182. Massimo Bottura's Thousands of Iterations]]
 - [[ST308 — Deliberate Practice|308. Deliberate Practice]]
 - [[ST309 — Jiro Makes Sushi|309. Jiro Makes Sushi]]
+- [[ST425 — Ji Xingzi Trains a Fighting Cock|425. Ji Xingzi Trains a Fighting Cock]]
 ## Practice kernels
 
 - [[K109 — Quiet eye|K109 Quiet eye]]

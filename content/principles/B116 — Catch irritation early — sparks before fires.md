@@ -29,6 +29,9 @@ For example: a text message arrives that reads as a slight. The reader notices a
 
 - [[T013 — Seneca]]: the anger-examined-early teaching (On Anger) the page lists.
 
+## Stories
+- [[ST428 — Kali Tests the Gentle Housewife|428. Kali Tests the Gentle Housewife]]
+
 ## Psychology parallels
 
 - **[[Emotion regulation|Emotion-regulation timing]]** (Gross, 1998; 2015)

@@ -29,6 +29,9 @@ Something can hold your attention for an hour without becoming something you car
 
 - [Nakamura and Csikszentmihalyi, The Construction of Meaning Through Vital Engagement, archived chapter](https://web.archive.org/web/20240415024146id_/https://timothydavidson.com/Library/Books/Keyes-2003-Flourishing-Positive%20Psychology%20and%20the%20life%20well-lived/04-Nakamura-The%20construction%20of%20meaning%20through%20vital%20engagement.pdf) — definition and retrospective-data limits, p. 87; crossword and developing meaning, pp. 94-97
 
+## Stories
+- [[ST493 — James Leaves the Chautauqua Assembly and Sees a Workman on the Iron|493. James Leaves the Chautauqua Assembly and Sees a Workman on the Iron]]
+
 ## Psychology parallels
 
 - **[[Calling orientation|Calling orientation research]]** (Wrzesniewski et al., 1997)

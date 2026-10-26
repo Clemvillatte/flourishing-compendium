@@ -40,6 +40,7 @@ Imagine leaving a demanding meeting with another task waiting. Pause to notice w
 ## Stories
 - [[ST409 — Eighty Years of Two Preludes and Fugues|409. Eighty Years of Two Preludes and Fugues]]
 - [[ST438 — The Jewel Bound in the Robe|438. The Jewel Bound in the Robe]]
+- [[ST307 — The Tenth Picture Is a Market|307. The Tenth Picture Is a Market]]
 ## Psychology parallels
 
 - **[[Limits of introspection|Limits of introspection]]** (Nisbett and Wilson, 1977)

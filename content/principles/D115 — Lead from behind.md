@@ -38,7 +38,7 @@ A manager agrees a spending limit for routine purchases with her team: colleague
 
 ## Stories
 - [[ST481 — The Empty Podium|481. The Empty Podium]]
-
+- [[ST507 — The School With No Substitutes|507. The School With No Substitutes]]
 ## Psychology parallels
 
 - **[[Leader humility|Leader humility]]**, expressed humility improves team performance and psychological safety (Owens and Hekman, 2016)

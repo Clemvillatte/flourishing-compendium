@@ -39,7 +39,7 @@ A good meal is pleasure. Watching a child ride a bike alone for the first time i
 
 ## Stories
 - [[ST487 — Wiles Fixes His Proof|487. Wiles Fixes His Proof]]
-
+- [[ST506 — September 19, and the Thing Was Still There|506. September 19, and the Thing Was Still There]]
 ## Sources
 
 - Bergson, H., "Life and Consciousness" (Huxley Lecture, University of Birmingham, May 24, 1911; text as reproduced by [Anthologia](https://www.anthologialitt.com/post/henri-bergson-life-and-consciousness); the lecture was later collected in Mind-Energy) — the reproduction consulted; all quotations from this carrier

@@ -29,6 +29,9 @@ I apply this image to keeping some steadiness while taking part in a busy situat
 
 - [Daodejing 26, translated by James Legge, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm): stillness and the prince's baggage waggons.
 
+## Stories
+- [[ST425 — Ji Xingzi Trains a Fighting Cock|425. Ji Xingzi Trains a Fighting Cock]]
+
 ## Psychology parallels
 
 - **[[Equanimity|Equanimity under stress]]** (Desbordes et al., 2012)

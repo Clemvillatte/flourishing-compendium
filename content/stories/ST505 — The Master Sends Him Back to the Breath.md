@@ -1,0 +1,27 @@
+---
+schema: 0
+id: "ST505"
+type: "story"
+title: "505.  The Master Sends Him Back to the Breath"
+file: "ST505 — The Master Sends Him Back to the Breath"
+navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.04 — II.4 Working with the Mind", "parent": ""}
+---
+
+Biographical account · Eugen Herrigel (1884-1955), German philosopher, from his memoir of six years learning kyudo, Japanese archery, from the master Awa Kenzo.
+
+A professor of philosophy arrives at the archery hall with a will, and the will is the problem. He cannot draw the bow "in the manner prescribed," and the master's diagnosis is not about the arms: "'You cannot do it,' explained the Master, 'because you do not breathe right'" ([Herrigel, 1953](https://users.wfu.edu/moran/PDFs/eugen-herrigel-zen-in-the-art-of-archery.pdf)). The cure is a gathering before it is a shooting: "'Concentrate entirely on your breathing, as if you had nothing else to do!'" ([Herrigel, 1953](https://users.wfu.edu/moran/PDFs/eugen-herrigel-zen-in-the-art-of-archery.pdf)). The instruction has the shape of the training intention in the Anapanasati sequence: the mind collected on one thing, before anything is done with it.
+
+The master's account of the breath parallels B095's psychology. "The breathing in, the Master once said, binds and combines, by holding your breath you make everything go right, and the breathing out loosens and completes by overcoming all limitations" ([Herrigel, 1953](https://users.wfu.edu/moran/PDFs/eugen-herrigel-zen-in-the-art-of-archery.pdf)). And the collected state is described exactly: "The more one concentrates on breathing, the more the external stimuli fade into the background... one soon feels oneself shut in by impermeable layers of silence. One only knows and feels that one breathes" ([Herrigel, 1953](https://users.wfu.edu/moran/PDFs/eugen-herrigel-zen-in-the-art-of-archery.pdf)).
+
+The consequence is the collected mind, and it arrives as his report of what happened. "I learned to lose myself so effortlessly in the breathing that I sometimes had the feeling that I myself was not breathing but − strange as this may sound − was being breathed" ([Herrigel, 1953](https://users.wfu.edu/moran/PDFs/eugen-herrigel-zen-in-the-art-of-archery.pdf)). On the day the release finally came, the master broke off the lesson and bowed: "You remained this time absolutely self-oblivious and without purpose in the highest tension, so that the shot fell from you like a ripe fruit" ([Herrigel, 1953](https://users.wfu.edu/moran/PDFs/eugen-herrigel-zen-in-the-art-of-archery.pdf)). That is B095's arc: the gathering trained for its own sake, until the task falls out of it.
+
+Not carried: the Anapanasati loop of noticing drift and deliberately returning to the breath as a narrated episode; the passages carry the gathered state, and the return lives inside the standing instruction to concentrate on the breath. Also not carried: the book frames kyudo as Zen training; Yamada Shoji's study argues that Awa Kenzo never practiced Zen and that the famous "It shoots" may have grown from a mistranslation of "that's it" ([Yamada, 2001](https://archive.org/stream/YamadaShojiTheMythOfZenInTheArtOfArchery/Yamada-Shoji-The-Myth-of-Zen-in-the-Art-of-Archery_djvu.txt)). The breath passages this story uses are Herrigel's plain report of instruction; the Zen frame is the author's, and the story carries it as such.
+
+**Principles:**
+- [[B095 — Collect the mind (samadhi as gathering)]]: the master treated the scattered professor's breath as the collection point — bind on the in-breath, loosen on the out, the stimuli fading as attention holds — until the mind was gathered and the shot fell like a ripe fruit.
+
+## Sources
+- [Eugen Herrigel, Zen in the Art of Archery (1953), full text (Wake Forest University PDF)](https://users.wfu.edu/moran/PDFs/eugen-herrigel-zen-in-the-art-of-archery.pdf).
+- [Yamada Shoji, "The Myth of Zen in the Art of Archery" (2001), full text (archive.org)](https://archive.org/stream/YamadaShojiTheMythOfZenInTheArtOfArchery/Yamada-Shoji-The-Myth-of-Zen-in-the-Art-of-Archery_djvu.txt).
+- 2026-10-25 re-verification (s1e holder, taper pass): the Herrigel PDF was re-extracted and the Yamada djvu text re-read; all six Herrigel quotations and all three Yamada quotations confirmed. The PDF's text layer introduces extraction artifacts (spaces inside quotation marks, backtick apostrophes, a missing space in "That'sjust", minus-sign hyphens in "self−oblivious") — the draft's quotations are the cleaned readings of those passages, content verbatim; the draft's single-quoted dialogue follows the nested-quote convention over the book's double quotes; the breathing-instruction quotation correctly ends with an ellipsis where the book's sentence continues ("and, after a short pause, draw a quick breath of air again..."); Yamada's "it shoots" sentence and Nishio Kanji citation confirmed (the djvu OCR prints a brace where the print has an opening parenthesis). No changes needed.

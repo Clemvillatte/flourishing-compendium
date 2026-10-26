@@ -45,6 +45,9 @@ And his description of what the a priori method does to inquiry:
 - [Sextus Empiricus, Outlines of Pyrrhonism I, Bury trans., selection](https://users.manchester.edu/Facstaff/SSNaragon/Online/texts/316/Sextus%20Empiricus,%20Pyrrhonism.pdf)
 - [Peirce, The Essential Peirce vol. 1, owner's library PDF](https://drive.google.com/file/d/1L3jvBMstbqfeNxOVCmm-z1ZRB56qw7ko/view) — "The Fixation of Belief" (1877)
 
+## Stories
+- [[ST422 — Marshall Drinks the Broth|422. Marshall Drinks the Broth]]
+
 ## Psychology parallels
 
 - **[[Tolerance of uncertainty|Tolerance of uncertainty]]** (Dugas et al., 1998)

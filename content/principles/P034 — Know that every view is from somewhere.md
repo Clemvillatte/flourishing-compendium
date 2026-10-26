@@ -23,6 +23,9 @@ What follows is narrower than relativism. If consciousness is built for communic
 
 *For example:* When a company publishes a study showing its own product is safe, the useful first question is not whether the study is fake. It is who funded it, which questions it left out, and what a group with different incentives would have asked.
 
+## Stories
+- [[ST496 — Zhuangzi and Huizi on the Bridge over the Hao|496. Zhuangzi and Huizi on the Bridge over the Hao]]
+
 ## Psychology parallels
 
 - **[[Bias blind spot|Bias blind spot]]**, we see others' positions but not our own (Pronin, 2002)

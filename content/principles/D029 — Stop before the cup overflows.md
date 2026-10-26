@@ -33,6 +33,9 @@ A vessel filled to the brim cannot be carried without spilling, and neither can 
 
 - [The Tao Teh King, Legge translation (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 9
 
+## Stories
+- [[ST420 — The Vessel in the Zhou Temple|420. The Vessel in the Zhou Temple]]
+
 ## Psychology parallels
 
 - **[[Overtraining|Overtraining and allostatic overload]]**, performance and health collapse past the recovery threshold (McEwen, 1998)

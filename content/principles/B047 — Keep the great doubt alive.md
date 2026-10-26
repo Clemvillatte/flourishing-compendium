@@ -33,7 +33,7 @@ Other English renderings of the same teaching exist. The book *Great Doubt: Prac
 ## Stories
 
 - [[ST070 — Dōgen Just Sits|70. Dōgen Just Sits]]
-
+- [[ST418 — Hakuin on the Ice Sheet|418. Hakuin on the Ice Sheet]]
 ## Psychology parallels
 
 - **Tolerance of ambiguity and openness to experience**, predict creativity and growth (Kashdan, 2009)

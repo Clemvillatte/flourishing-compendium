@@ -26,6 +26,9 @@ I suggest being clear about what you intend to attend to. When you notice that a
 
 Imagine revising a paragraph with both the draft and its reference text open. Read the relevant passage, make the correction, and notice when you have drifted into unrelated browsing. Returning to the paragraph serves the task; closing the necessary reference would not.
 
+## Stories
+- [[ST505 — The Master Sends Him Back to the Breath|505. The Master Sends Him Back to the Breath]]
+
 ## Psychology parallels
 
 - **[[Focused-attention meditation|Focused-attention meditation]]**: Lutz and colleagues distinguish maintaining a focus from monitoring the stream of experience, and frame both as subjects for further research ([2008, abstract and Box 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/)).

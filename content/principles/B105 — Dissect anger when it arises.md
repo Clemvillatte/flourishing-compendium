@@ -38,6 +38,9 @@ Take a live anger and sort it into event and account. Write the event as a camer
 
 - [[K169 — Anger dissection|K169 Anger dissection]]
 
+## Stories
+- [[ST428 — Kali Tests the Gentle Housewife|428. Kali Tests the Gentle Housewife]]
+
 ## Psychology parallels
 
 - **[[Anger reappraisal|Anger reappraisal]]**, changing the interpretation reduces anger and aggression (Bushman, 2002; Gross, 2015)

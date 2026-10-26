@@ -29,6 +29,9 @@ When an old disagreement comes to mind, ask which details you are relying on and
 
 - [Matter and Memory, Henri Bergson (1911 translation by Nancy Margaret Paul and W. Scott Palmer), Wikisource](https://en.wikisource.org/wiki/Matter_and_Memory/Chapter_3) — chapter 3
 
+## Stories
+- [[ST423 — A Ghost Story Passes Through Nine Cambridge Heads|423. A Ghost Story Passes Through Nine Cambridge Heads]]
+
 ## Psychology parallels
 
 - **[[Memory reconsolidation|Memory reconsolidation]]**, memories become labile and modifiable when reactivated (Schiller et al., 2010)

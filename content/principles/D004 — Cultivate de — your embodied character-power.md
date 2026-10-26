@@ -53,6 +53,7 @@ Someone who has genuinely practised honesty for years does not agonize over whet
 
 - [[ST001 — Cook Ding and the Ox|1. Cook Ding and the Ox]]
 - [[ST007 — Bruce Lee and the Water|7. Bruce Lee and the Water]]
+- [[ST429 — Wang Tai Has as Many Followers as Confucius|429. Wang Tai Has as Many Followers as Confucius]]
 ## Psychology parallels
 
 - **Character-strengths interventions**, identifying and using signature strengths raises well-being (Peterson and Seligman, 2004; Seligman et al., 2005)

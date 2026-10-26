@@ -36,6 +36,9 @@ I read these passages as a consistent preference: the chapter's advice is to dwe
 
 - [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 38, 41
 
+## Stories
+- [[ST494 — Shushan the Toeless Walks In on Confucius|494. Shushan the Toeless Walks In on Confucius]]
+
 ## Psychology parallels
 
 - **[[Authenticity|Authenticity]]** (Kernis and Goldman, 2006)

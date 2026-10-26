@@ -28,6 +28,9 @@ The paradox is spelled out in the same chapter: the enterprise was "to create wi
 
 *For example (my illustration, not Bergson's):* a pianist is bound by the piano's mechanism, the score's structure and the hand's anatomy, and still plays differently each time. The aim is to find the fissure in the rock and not to escape it.
 
+## Stories
+- [[ST410 — Django Relearns the Guitar|410. Django Relearns the Guitar]]
+
 ## Sources
 
 - [Creative Evolution, Bergson (Mitchell trans.), Project Gutenberg](https://www.gutenberg.org/files/26163/26163-h/26163-h.htm) — chapter III passages

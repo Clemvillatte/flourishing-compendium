@@ -45,6 +45,9 @@ Bringing these passages together is my practical comparison.
 - [Plato, Theaetetus, Jowett trans., full text](https://genius.com/Plato-theaetetus-full-text-annotated) — 152a-b
 - [James, A Pluralistic Universe, Standard Ebooks edition](https://standardebooks.org/ebooks/william-james/a-pluralistic-universe/text/chapter-1) — Lecture I
 
+## Stories
+- [[ST496 — Zhuangzi and Huizi on the Bridge over the Hao|496. Zhuangzi and Huizi on the Bridge over the Hao]]
+
 ## Psychology parallels
 
 - **[[Perspective-taking|Perspective-taking and perspective-getting]]** (Epley et al., 2007)

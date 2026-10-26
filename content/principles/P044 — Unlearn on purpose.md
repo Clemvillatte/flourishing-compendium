@@ -35,6 +35,9 @@ Every strategy you run was once the answer to a real situation. Situations chang
 
 - [[K136 — The raft check|K136 The raft check]]
 - [[K181 — Deimplementation|K181 Deimplementation]]
+## Stories
+- [[ST498 — Yi Erzi Asks Xu You to Take Him In|498. Yi Erzi Asks Xu You to Take Him In]]
+
 ## Psychology parallels
 
 - **[[Habit discontinuity|Habit discontinuity]]**

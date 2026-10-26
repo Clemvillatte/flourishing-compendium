@@ -28,6 +28,7 @@ The chapter opens by saying its words are very easy to know and very easy to pra
 - [[ST049 — The Pipes of Heaven|49. The Pipes of Heaven]]
 - [[ST051 — Monet Paints the Same Pond for Twenty-Seven Years|51. Monet Paints the Same Pond for Twenty-Seven Years]]
 - [[ST053 — Bashō Walks North|53. Bashō Walks North]]
+- [[ST430 — The Ugly Man Duke Ai Could Not Forget|430. The Ugly Man Duke Ai Could Not Forget]]
 ## Psychology parallels
 
 - **[[Authenticity|Authenticity versus signaling]]**, self-presentation effort predicts lower well-being (Kernis and Goldman, 2006)

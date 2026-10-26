@@ -42,6 +42,9 @@ Applied to present-day choices, this contrast invites a question about attention
 
 - [[K111 — Interoceptive awareness|K111 Interoceptive awareness]]
 - [[K172 — Body-first emotion work|K172 Body-first emotion work]]
+## Stories
+- [[ST430 — The Ugly Man Duke Ai Could Not Forget|430. The Ugly Man Duke Ai Could Not Forget]]
+- [[ST492 — Shentu Jia Will Not Wait for the Minister|492. Shentu Jia Will Not Wait for the Minister]]
 ## Psychology parallels
 
 - **[[Locus of evaluation|Locus of evaluation]]**, well-being depends on internal rather than external reference frames (Rogers, 1961)

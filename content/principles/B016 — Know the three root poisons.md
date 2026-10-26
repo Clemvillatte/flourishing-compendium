@@ -28,7 +28,7 @@ This is a diagnostic system. If you can identify which root is operating in a gi
 
 ## Stories
 - [[ST486 — Devadatta Wants the Sangha|486. Devadatta Wants the Sangha]]
-
+- [[ST369 — The All Is Aflame|369. The All Is Aflame]]
 ## Psychology parallels
 
 - **[[The wanting/liking dissociation|The wanting/liking dissociation]]**, craving and enjoyment run on separable systems (Berridge)

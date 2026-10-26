@@ -29,6 +29,9 @@ An autotelic activity provides its own reason to continue: set the external bene
 
 - [Flow: The Psychology of Optimal Experience, Mihaly Csikszentmihalyi (HarperPerennial; Internet Archive text)](https://ia801906.us.archive.org/4/items/Csikszenthmihalyi1990/Csikszenthmihalyi-1990_text.pdf) — the Chuang Tzu / Yu passage (p. 150) and the "Work as Flow" chapter (pp. 152-153)
 
+## Stories
+- [[ST424 — Feynman and the Wobbling Plate|424. Feynman and the Wobbling Plate]]
+
 ## Psychology parallels
 
 - **[[Intrinsic motivation|Intrinsic motivation]]**, autonomous activity is self-sustaining (Deci and Ryan, 2000)
