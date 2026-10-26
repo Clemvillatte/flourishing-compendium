@@ -526,11 +526,13 @@ this session's own opened evidence:
 
 ### M3 preparation (2026-10-26, worker-pplx-degpsychdim-1026a; no module prose written — M2-M8 module production gated per the supervisor's Phase 0 ruling)
 
-Both M3 sources re-opened and re-verified against the raw fetched page
-text this session (curl + tag-strip; the same verification behaviour as
-the M2 pass). No new sources adopted; both were already verified (batch
-1 and the readiness refresh). All passages below were confirmed
-character-for-character on the raw page.
+The two central M3 sources (the commentary-appraisal source and the
+mechanism-teaching source) were re-opened and re-verified against the
+raw fetched page text in this section (curl + tag-strip; the same
+verification behaviour as the M2 pass); the remaining three M3 sources
+follow in the subsection below. No new sources adopted; all were
+already verified (batches 1-4 and the readiness refreshes). All
+passages below were confirmed character-for-character on the raw page.
 
 Ehring 2021 (Thinking too much: rumination and psychopathology, World
 Psychiatry, PMC8429319), the commentary-appraisal source for the M3 exit:
