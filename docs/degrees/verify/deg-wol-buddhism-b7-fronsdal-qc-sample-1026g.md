@@ -1,8 +1,8 @@
 # QC sample — deg-wol-buddhism-b7-fronsdal-crosscheck-1026c.md
 
 **Worker**: worker-pplx-verify-1026g, deg-verify-b baton, verification lane
-(read-only on modules/ledgers). **Date**: 2026-10-26T10:01Z measured clock
-(~38m elapsed of the 60m run). **Scope**: independent re-verification of the
+(read-only on modules/ledgers). **Date**: 2026-10-26T10:00Z measured clock
+(~37m elapsed of the 60m run). **Scope**: independent re-verification of the
 1026c receipt's AudioDharma claims (the transcript-series claims were
 explicitly not re-checked there and are not re-checked here).
 
