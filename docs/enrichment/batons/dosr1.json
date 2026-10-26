@@ -27,5 +27,7 @@
    "from": "worker-pplx-dosr1-1026a",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-26T02:27:44+00:00"
 }
