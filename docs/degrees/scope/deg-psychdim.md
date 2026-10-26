@@ -13,9 +13,10 @@ recorded in the ledger's Gate decisions table: the exclusion was
 accepted, the stricter "Elective branches: none" was accepted, and the
 band phase is authorized to carry gate1-cleared. The separate coverage
 gate is also recorded CLEARED. Module production stays closed solely
-behind the Phase 0 pilot stop-gate ruling (documented ruling owed by
-the live enrichment supervisor; flag in the ledger's stop-gate
-conflict section).
+behind the Phase 0 pilot stop-gate: an authorized decision on that gate
+is awaited, and the live enrichment supervisor has been asked to route
+or obtain it. No response short of an authorized decision lifts the
+production hold.
 
 CENTERING (owner's 2026-10-26 binding clause): this degree is centered on
 the WALK OF LIFE / philosophy-of-life frame and serves one value

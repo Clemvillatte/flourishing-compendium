@@ -216,30 +216,36 @@ db2633a recorded in verify/deg-psychdim-m1-audit.md; M1-V03, M1-V04
 and M1-V06 confirmed repaired by the verifier). Residuals from that
 recheck applied this pass as production owner:
 - M1-V07 (first-path baseline exception): the general model
-  explanation now states that the panel models include the previous
-  measure of an outcome when one exists, that the first prediction
-  (baseline motivation to second-survey adherence) cannot adjust for
-  baseline adherence because adherence was not measured at the first
-  survey, that the later adherence paths do include the previous
-  survey's adherence, and that checking what a model actually adjusts
-  for is part of appraising it. Evidence caveat: the OSF syntax file
-  (osf.io/a9he8/files/t4gda, "10. SEM.R", Study 1 folder) could not be
-  independently opened this session (files.osf.io returned 502 to
-  direct download attempts; the crawler is disallowed by robots; the
-  file page is a JavaScript shell); the OSF API confirmed the file
-  exists and its name and location, but not its contents. The module
-  wording therefore rests on the deg-verify-b audit's verbatim
-  quotation of the syntax (success_Wave2 ~ IM_Wave1 + EM_Wave1 with no
-  earlier adherence term; later equations include success_Wave2 or
-  success_Wave3), which is the source of record in
-  verify/deg-psychdim-m1-audit.md. FLAGGED for the supervisor and
-  reviewers: the syntax file should be independently opened at M2
-  production or by a reviewer to confirm the quotation first-hand.
-  The module cites the OSF link inline as the primary source.
+  explanation now states that the panel models are described by the
+  authors as stationary autoregressive cross-lagged panel models, that
+  the first prediction (first survey's motivation to second survey's
+  adherence) cannot adjust for earlier adherence because adherence
+  was not measured at the first survey, and that checking what a model
+  actually adjusts for is part of appraising it. Evidence status
+  RESOLVED this session: the module now cites the paper's own Method
+  section (T1 survey measured the resolution and its motivation; the
+  T2-T4 follow-up surveys measured adherence), read first-hand in the
+  fetched Woolley 2025 copy — the paper's measurement schedule itself
+  establishes the baseline exception, and the paper's description of
+  the models as autoregressive supports the later-paths wording. The
+  OSF syntax link was REMOVED from the module: the file could not be
+  independently opened (files.osf.io 502; crawler robots-blocked;
+  page is a JavaScript shell; the OSF API confirms only the file's
+  existence, name and location, not its contents). The deg-verify-b
+  audit's verbatim quotation of the syntax remains in the audit file
+  as corroborating material, not module-cited. Related repairs in the
+  same pass: the design description now states the measurement
+  schedule accurately (first survey: resolution and motivation;
+  follow-up surveys: motivation and adherence), the faded practice no
+  longer says only the numbers have changed — it now identifies the
+  structural difference between the first and second predictions — and
+  the beta-scale caution says regression coefficients, dropping
+  standardised, which the paper does not state.
 - Beta-scale safeguard added before the faded practice: the betas are
-  standardised regression coefficients, neither percentage
-  improvements nor individual success probabilities nor treatment
-  benefits.
+  regression coefficients, neither percentage improvements nor
+  individual success probabilities nor treatment benefits (the word
+  standardised was dropped after checking the paper, which does not
+  state it).
 - Workload arithmetic residual: the labelled components sum to 240
   minutes (105 + 15 + 30 + 30 + 60), and the total now reads about
   240 minutes, replacing the earlier about-245 figure; the earlier
@@ -269,8 +275,12 @@ measurement (PD-V14) is also recorded by the verifier for M3; my
 refresh of the conditioning module this session independently
 confirms its habit coverage serves the row.
 
-WAITING ON (2026-10-26, updated 00:44Z): stop-gate ruling (enrichment
-supervisor supervisor-pplx-1026c, baton FRESH); pedagogical reviewer
+WAITING ON (2026-10-26, updated 00:44Z): an authorized decision on the
+Phase 0 pilot stop-gate (the reviewer's record says an owner ruling is
+owed; the live enrichment supervisor, supervisor-pplx-1026c, has been
+asked to route or obtain it — the README states the gate condition but
+names no delegate, so no response short of an authorized decision is
+treated as authorization); pedagogical reviewer
 recheck of the changed M1 passages. RESOLVED since the previous note:
 the deg-gate final confirmation has arrived and is recorded in the Gate
 decisions table (round-2 clearance CONFIRMED; the owner's stricter
@@ -287,7 +297,14 @@ psychdim first) and the supervisor-authored PIPELINE-2026-10-26 route
 module production for this degree now. Per degrees/OPERATIONS.md the
 conflict is flagged here and in commit messages, never resolved
 silently; the degree owner's production work is WIP that does not
-gate-clear anything. The theory pilot mod-phil-1 has passed its advisor
+gate-clear anything. DELEGATION NOTE (2026-10-26): the degrees README
+states the gate condition (production stays closed until the pilots
+pass independent review) but names no delegate for lifting it; the
+deg-gate reviewer's record words it as an owner ruling owed. The lane
+therefore treats only an authorized decision as lifting the hold, and
+the live supervisor is asked to route or obtain that decision; a
+supervisor response is not by itself assumed to be the authorization.
+The theory pilot mod-phil-1 has passed its advisor
 final review; the practice pilot is parked by the owner (no Qi Gong
 work today). The coverage gate still awaits independent confirmation
 (the deg-gate reviewer holds that review as of 2026-10-26).

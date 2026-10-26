@@ -197,23 +197,28 @@ itself is enjoyable) or extrinsic (the pursuit is a means to an end)?
 Design: a longitudinal survey. The researchers surveyed 2,000 United
 States participants recruited through Amazon Mechanical Turk (mean age
 38.12, standard deviation 12.02; 47.9 percent female, 52.1 percent male)
-about their resolutions four times throughout a year, measuring how
-intrinsic and how extrinsic each person rated their motivation, and how
-well they were adhering. Not everyone stayed: 1,046 completed the second
+four times throughout a year. In the first survey, participants listed
+the resolution they had set for the upcoming year and rated how
+intrinsic and how extrinsic their motivation for it was; the three
+follow-up surveys, at roughly four-month intervals, repeated those
+ratings and asked how successful participants had been at sticking
+with their resolution. Not everyone stayed: 1,046 completed the second
 survey, 709 the third, and 577 the fourth. The analysis used
 full-information maximum likelihood for the missing responses, and the
 authors reported a similar completer-only analysis; these checks do not
 establish that attrition could not affect the result. The analysis uses
-cross-lagged panel models. These models include the previous measure of
-an outcome when one exists. The first prediction, from baseline
-motivation to the second survey's adherence, cannot adjust for baseline
-adherence because adherence was not measured at the first survey; the
-later adherence paths do include the previous survey's adherence.
+cross-lagged panel models, which the authors describe as stationary
+autoregressive cross-lagged panel models: motivation at one survey
+predicts adherence at the next, and each variable's earlier measure
+predicts its later measure where one exists. The first prediction,
+from the first survey's motivation to the second survey's adherence,
+cannot adjust for earlier adherence, because adherence was not
+measured at the first survey: participants were asked about it only in
+the follow-up surveys, after some months of pursuit had happened.
 Checking what a model actually adjusts for is part of appraising it, and
 neither the word longitudinal nor the phrase cross-lagged panel is by
-itself a guarantee of causal control. ([Study 1 methods and analytic
-strategy](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/);
-[public model syntax](https://osf.io/a9he8/files/t4gda).)
+itself a guarantee of causal control. ([Study 1 method: the first
+survey and the follow-up surveys](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/).)
 
 1. Fully worked (demonstrated). Appraisal of the first result. What was
    found: adherence at the second survey was predicted by intrinsic
@@ -245,13 +250,16 @@ later.)
    motivation at the second, beta = 0.099, standard error 0.03, z = 3.00,
    p = .003, 95 percent confidence interval [0.04, 0.20]. Before you
    begin the faded practice, one caution about the scale of these
-   numbers: the betas are standardised regression coefficients, so they
+   numbers: the betas are regression coefficients, so they
    are neither percentage improvements nor individual success
    probabilities nor treatment benefits. Your task in
    the faded practice: name the design, the evidence type, the effect size
    and its interval, and what this result can and cannot support. The
-   moves are the four you just watched; only the numbers have changed.
-   One new wrinkle to notice: this coefficient is smaller than the
+   moves are the four you just watched. One difference beyond the
+   numbers: the first prediction had no earlier adherence to adjust
+   for, because adherence was not measured at the first survey; this
+   second prediction sits in a model that also carries the previous
+   survey's adherence measure. One new wrinkle to notice: this coefficient is smaller than the
    first. Before concluding the association weakened across waves, ask
    what would establish that: a comparison between the coefficients, with
    its own uncertainty. The paper's authors read the overlapping
