@@ -1079,3 +1079,34 @@ The extraction reached the relevant sections but was truncated later;
 no whole-paper completeness claim is made. These are two versions of
 one work, not independent corroborating studies, and the source recheck
 does not authorize M6 prose or change the M2–M8 hold.
+
+### M7 excerpt measurement and a source inconsistency
+
+The continuation reopened the
+[2024 habit-formation review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)
+and checked PD-V04's proposed boundaries: Results 3.2–3.5 plus the
+first Discussion paragraph beginning “Despite its strengths.”
+The saved native extraction yields 1,570 word-like tokens for those
+Results sections and 334 for the limitations paragraph, using
+letter/number tokens with internal apostrophes or hyphens retained.
+Counts include headings, citation numbers and the Figure 2 caption.
+The respective extracted-text SHA-256 values are
+`87e89623ccfc717093c8654c3fb715a87fe6552b1414ae61e3a19ea18f677202`
+and
+`346bc1352969ded80f5f33757c882b353f58443112b9ea96fe3f1a41db968cde`.
+These preparation counts bound the candidate reading more usefully
+than the full raw-page count; final rendered wording and learning
+activities still need their own workload calculation.
+
+A separate check found an internal count discrepancy outside that
+proposed excerpt. Results 3.1 says 11 studies have a high risk of bias
+and five a low risk; Table 1 prints 20 study rows, with nine labelled
+High quality and 11 Low quality.
+([Review, Results 3.1 and Table 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/).)
+The table-label count was independently computed from all 20 rows.
+It does not reappraise the studies' methods or establish why the
+narrative differs. Do not repeat the five-high-quality count as an
+uncontested fact or silently repair the source's classification.
+PD-V04's existing limits on automaticity times and pre/post effect
+sizes remain supported; no new reading, module prose or gate action
+follows from this check.

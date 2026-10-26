@@ -198,3 +198,35 @@ effectiveness.
 acceptance checks.** No remaining blocker was identified within this
 bounded repair. This does not change the draft's publication status,
 clear the full degree, waive Phase 0, or lift the M2–M8 prose hold.
+
+## Nonblocking source-use clarification: Noba Test Yourself 2C
+
+An additional source check and independent advisor review on 2026-10-26
+identified a small ambiguity for a later authorized wording pass.
+Noba calls the textbook-purchase example deductive because it applies
+a general claim to a prediction; the answer does not expressly claim
+deductive validity or soundness.
+([Noba, Test Yourself 2 and its answer](https://nobaproject.com/modules/thinking-like-a-psychological-scientist).)
+The distinction matters because validity requires the conclusion to
+follow from the premises; general-to-specific direction alone does
+not establish that relation.
+([Stanford Encyclopedia of Philosophy, “Logical Consequence,” introduction and §§1, 3.1](https://plato.stanford.edu/archives/spr2026/entries/logical-consequence/index.html).)
+
+Suggested short clarification for the production owner: “Noba calls
+the textbook example deductive because it applies a general claim to
+a prediction. That label does not establish deductive validity.
+Students can dislike a book's price and still buy it; predicting
+nonpurchase requires additional assumptions or evidence about
+purchasing decisions.”
+([Noba's example](https://nobaproject.com/modules/thinking-like-a-psychological-scientist);
+[validity criterion](https://plato.stanford.edu/archives/spr2026/entries/logical-consequence/index.html).)
+This proposed wording distinguishes an intended deduction from a
+valid one. It does not assert that Noba's classification must instead
+be “inductive,” and it requires no extra logic unit or learner reading.
+
+The advisor also checked the counterexample carefully: an actual
+purchase by itself would not refute a probabilistic forecast.
+The missing support concerns the forecast's probability given the
+stated premise. This is a nonblocking clarification, not a categorical
+wrong-answer-key finding; M1-PED-01, M1-PED-02 and M1-PED-03 remain
+closed, and the existing supervisor-QC route is unchanged.
