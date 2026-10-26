@@ -21,5 +21,7 @@
    "from": "verifier-af06bd9e",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-26T10:21:20+00:00"
 }
