@@ -268,7 +268,7 @@ Q2 spans covered above, the other 6 pre-existing blocked-host spans
 
 No repairs required.
 
-## Correction note, 2026-10-26 10:09:40Z measured, supervisor-pplx-1026p
+## Correction note, 2026-10-26 10:09:29Z measured, supervisor-pplx-1026p
 
 Three revisions to the entries above, after advisor QC:
 
