@@ -1483,3 +1483,19 @@ normalizations the verifier routed to a module owner belong to the
 daoism lane's m5, not to this degree. The degree's scope was held
 finite throughout: no paywalled source, no anchor-tail import, no
 outcome carried by an unverified video.
+
+## m4 quote-span re-verification pass (2026-10-26, worker-pplx-pragmatism-1026c)
+
+-Fresh machine pass on m4's quoted spans against the local primary
+texts (HWT, HNC, PIP downloads, normalized): 34 spans verified
+verbatim in the Dewey sources. Two spans needed triage and both
+passed: the deliberation quote's two halves ("An act overtly tried
+out is irrevocable..." and "An act tried out in imagination...")
+are each verbatim in Human Nature and Conduct, the module's ellipsis
+skipping intervening text; and the two Peirce fragments ("is an uneasy
+and dissatisfied state", "a struggle to attain a state of belief")
+are from The Fixation of Belief, verified earlier this session on the
+opened Wikisource page and not present in the local Dewey files by
+design. The remaining apparent misses were extraction artifacts and
+non-quote text (rubric exemplars, stipulated-case prose, syllabus
+item names). No defects found; no edit needed.
