@@ -1218,7 +1218,7 @@ to the primary text; Dewey primary links added inline in Step 5.
 m4 remains DRAFT, NOT CLEARED, and is with the supervisor for
 module-QC.
 
-## m5 produced: the capstone (2026-10-26, clock 2026-10-26T06:14:32+00:00 measured from epoch 1792994872, worker-pplx-pragmatism-1026c)
+## m5 produced: the capstone (2026-10-26, clock 2026-10-26T06:07:52+00:00 measured from epoch 1792994872 (stamp corrected from 06:14:32), worker-pplx-pragmatism-1026c)
 
 The L4 capstone, produced to the advisor's bounded design
 (advisor pre-cleared the shape in the m4 second-pass call): single
@@ -1254,3 +1254,41 @@ ledger unverified with missing checks routed to the verifier lane.
 STATUS: DRAFT, NOT CLEARED; awaits supervisor module-QC and advisor
 review. With m5 drafted, all five modules of the degree exist in
 draft; the remaining degree work is QC, repair and integration.
+
+## m5 advisor-QC repairs applied (2026-10-26, worker-pplx-pragmatism-1026c)
+
+The advisor's m5 QC named six blockers; all repaired: (1) tool-fit
+teaching corrected (the maxim can clarify a concept inside a
+factual question though it cannot establish the answer; incomplete
+evidence alone does not establish James's permission; m3's
+forced-action/forced-belief distinction preserved; the
+demonstration's verdicts softened to "not established on these
+facts"; the rubric exemplar's "the deadline makes it forced"
+replaced with a conditional assessment). (2) The demonstration's
+evidence aligned to its claim: invoices issued distinguished from
+income in hand and from income after costs; a three-month record
+distinguished from a twelve-month forecast (it can weaken or
+trigger a changed plan, not declare the belief false); the record
+restated as a proposed monthly test against the named figure and
+horizon, with the belief not declared false until the stated
+criterion fails at the stated horizon. (3) Selective tool use made
+assessable: Outcome 2, the demonstration and rubric criterion 2
+now require justified applications AND justified omissions; an
+accurately explained non-application passes, a tool asserted
+without the work fails. (4) Self-assessment aligned to the packet:
+criteria 1 and 2 cited in deliverables a and b, criterion 3 in c,
+criterion 4 demonstrated by the self-assessment lines and change
+note after the revision; the circular instruction removed. (5)
+Workload corrected to 310 minutes (about 5 hours 10 minutes), the
+Step 2 working notes distinguished from the 30-minute clean-up of
+deliverable b so nothing is double-counted. (6) Verification record
+corrected: the maxim's absence from The Fixation of Belief is
+attributed to the separately opened Fixation page; the m5 ledger
+stamp corrected to the programmatic conversion of epoch
+1792994872 = 2026-10-26T06:07:52+00:00. Centering: the opening
+promise restated as a capability claim (examine an uncertainty,
+defend a provisional judgment, name the responsible next step
+including waiting; suspension can be a successful capstone
+outcome). Quote re-check after repairs: all four quoted passages
+present and verified as before; no em dashes, no AI tells. m5
+remains DRAFT, NOT CLEARED; ready for supervisor module-QC.

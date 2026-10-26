@@ -7,8 +7,11 @@ deliberation and shared problems. This one hands you the whole toolkit
 and one job: take one live belief or decision of your own, run the
 tools that fit it, and write a synthesis that defends where you land,
 against the strongest objection to it. The walk's promise is on the
-table here: you finish able to alleviate a real uncertainty in your
-own life with a method you can name, show and repeat. Source
+table here in a precise form: you finish able to examine an
+uncertainty in your own life with a method you can name, show and
+repeat, defend a provisional judgment against its strongest
+objection, and name the responsible next step, including the step
+of waiting. Source
 verification evidence is in ledgers/deg-wol-pragmatism.md. STATUS:
 DRAFT, NOT CLEARED; awaits supervisor module-QC and advisor review.
 
@@ -27,11 +30,14 @@ capstone on your own material.
 1. Frame one live belief or decision of your own as a bounded
    question, name the evidence you actually have, and name which tools
    from the walk fit it and which fail their own tests on it.
-2. Apply the selected tools to your case, showing the work: the
-   forked-road question, the maxim where a conception's meaning is in
-   dispute, the genuine-option tests where a decision is live, forced
-   and momentous, the rehearsal where action is blocked, the
-   consultation where others are affected.
+2. Apply the tools your question justifies to your case, showing
+   the work and the verdicts: the forked-road question, the maxim
+   where a conception's meaning is in dispute, the genuine-option
+   tests where a decision may be live, forced and momentous, the
+   rehearsal where action is blocked, the consultation where others
+   are affected. You apply only the tools that fit, and you explain
+   each omission; an accurately explained non-application is a
+   result, not a gap.
 3. Write the synthesis: your position (which may be qualified
    commitment, suspension or revision), the strongest objection to
    it, your answer to that objection, and what would change your
@@ -60,8 +66,10 @@ you commit to it:
   of these effects is the whole of our conception of the object"
   (Peirce, [How to Make Our Ideas
   Clear](https://en.wikisource.org/wiki/How_to_Make_Our_Ideas_Clear),
-  the m1 assignment). If your question is about facts, the maxim is
-  the wrong tool and evidence work is the right one.
+  the m1 assignment). If your question is about facts, the
+  maxim cannot establish the answer by itself; it can still clarify
+  a concept inside the factual question ("what would count as
+  'established' here?"), and evidence work carries the question.
 - The forked road fits where a real perplexity blocks you: thinking
   "begins in what may fairly enough be called a forked-road
   situation" (Dewey, [How We
@@ -69,9 +77,12 @@ you commit to it:
   the m4 Reading A). If nothing actually blocks you, you have a
   preference, not an inquiry.
 - The genuine-option tests fit where a decision must be made on
-  incomplete evidence and both branches are live (m3). If the
-  evidence can settle it, or the option is avoidable, the tests do
-  not apply and you should gather evidence instead.
+  incomplete evidence and both branches are live (m3). Incomplete
+  evidence alone does not establish the permission: the tests are
+  what decide it, and m3's distinction holds, that a deadline can
+  force an action without forcing the belief. If the tests are not
+  met, the decision belongs to the evidence, and you should gather
+  it instead.
 - The rehearsal and consultation fit where action is blocked by a
   conflict of habits, or where others share the consequences (m4).
 
@@ -94,22 +105,34 @@ and note that not all of them are needed:
    many consecutive months). Until the figure is named, "support
    myself" means nothing checkable, and the belief cannot succeed
    or fail.
-3. The genuine-option tests: leaving now is live but not forced
-   (staying is a standing place) and not momentous (the market for
-   this work recurs), so the passional permission does not apply;
-   the decision belongs to the evidence. This is a worked failed
-   application, and failing the tests is a result: it tells you the
-   question is not the kind James's permission is for.
-4. The record: three months of invoices is the verifying. James's
-   constraint runs the case: "True ideas are those that we can
-   assimilate, validate, corroborate and verify. False ideas are
-   those that we can not" (Lecture VI of [Pragmatism: A New Name for
+3. The genuine-option tests: on the stipulated facts, live is
+   plausibly met, but forced and momentous are not established
+   (staying is one of the two alternatives, which does not by
+   itself show the option avoidable; the market's recurring does
+   not by itself show this person's opportunity trivial). The
+   honest verdict is "not established on these facts", so the
+   permission is not shown to apply and the decision belongs to
+   the evidence. This is a worked unresolved application, and an
+   unresolved verdict is a result: it tells you what to check next,
+   not that the tests condemn the question.
+4. The record, and its limits: the available record is three
+   months of invoices, and it must be read carefully before it
+   verifies anything. Invoices issued are not yet income in hand;
+   gross revenue is not yet income after business costs; and three
+   months cannot settle a twelve-month forecast, though they can
+   weaken it or trigger a changed plan. James's constraint marks
+   the horizon: "True ideas are those that we can assimilate,
+   validate, corroborate and verify. False ideas are those that we
+   can not" (Lecture VI of [Pragmatism: A New Name for
    Some Old Ways of
    Thinking](https://en.wikisource.org/wiki/Pragmatism:_A_New_Name_for_Some_Old_Ways_of_Thinking/Lecture_VI),
-   the m3 Reading B3). If the months boil over, "Experience, as we
-   know, has ways of boiling over, and making us correct our present
-   formulas" (same lecture), and the belief is false on its own
-   terms, at the named figure.
+   the m3 Reading B3), and "Experience, as we know, has ways of
+   boiling over, and making us correct our present formulas" (same
+   lecture). So the record is a proposed test, run monthly against
+   the named figure and month count, and the belief is not
+   declared false until the stated criterion has actually failed
+   at the stated horizon; adverse months before that revise the
+   forecast and the plan, and name the revision trigger.
 
 Now your run: apply the tools you kept to your own case, and write
 the working notes (not the synthesis yet). The notes are not graded
@@ -148,12 +171,15 @@ c. The synthesis (Outcome 3): 800 to 1,200 words, the four
 
 ### Step 4: self-assess and revise once (Outcome 4)
 
-Read your synthesis against each rubric criterion below. For each
-criterion, write one line naming the passage that meets it (quote
-yourself, a few words) or stating that no passage does. Then revise
-the synthesis once, in response to what the self-assessment found.
-Deliverable d is the self-assessment lines and the revision, with a
-short note on what changed and why. The revision is part of the
+Read the whole capstone packet, not just the synthesis, against
+each rubric criterion: criteria 1 and 2 are met in the proposal and
+the tool work (deliverables a and b), criterion 3 in the synthesis
+(deliverable c). For each of those three, write one line quoting
+the passage that meets it, or stating that no passage does. Then
+revise the synthesis once, in response to what those lines found.
+Criterion 4 is met by the self-assessment itself: after the
+revision, write the change note (what changed and why), and the
+lines plus the note are deliverable d. The revision is part of the
 capstone; a synthesis submitted without its self-assessment is
 incomplete.
 
@@ -174,17 +200,23 @@ not qualify; the module admits only what serves your own synthesis.
    question with named evidence and named tools. Strong: "Question:
    do I take the regional job or stay? Evidence: the offer letter,
    two years of city expenses, one conversation with someone who
-   made the move. Tools: the tests (the deadline makes it forced),
-   the maxim on 'better life'; the maxim may fail if 'better' names
-   nothing checkable. Dropped: the consultation, no one else is
-   affected." Rejection: a topic with no question, or a tool list
+   made the move. Tools: the maxim on 'better life' (it may
+   find that 'better' names nothing checkable), the tests (forced
+   is not established by the deadline alone: the deadline forces
+   an action, and the belief is about the move's worth, so I check
+   whether the belief can rest on evidence I can gather). Dropped:
+   the consultation, no one else is affected." Rejection: a topic with no question, or a tool list
    with no fit reasons.
-2. The tool work shows each tool's verdict on the case, including
-   failed applications. Strong: the maxim run on "support myself"
-   down to a monthly figure and a month count; the tests run with
-   the momentous verdict honestly reported as not met; the
-   rehearsal's rebuff named. Rejection: tool names with no work, or
-   every tool applied with no verdicts.
+2. The tool work shows justified verdicts for the tools your
+   question fits, and justified omissions for the rest. Strong:
+   the maxim run on "support myself" down to a monthly figure and
+   a month count; the tests run with the forced and momentous
+   verdicts honestly reported as not established; the rehearsal's
+   rebuff named; the consultation omitted with the reason that no
+   one else shares the consequences. Rejection: tool names with no
+   verdicts, or a tool asserted to apply without the work (a
+   genuine option asserted without the three tests run fails
+   here; an accurately explained non-application passes).
 3. The synthesis takes a position in one of the three honest forms,
    answers its strongest objection, and states what would change
    the judgment. Strong: a qualified commitment with a dated
@@ -210,11 +242,14 @@ not qualify; the module admits only what serves your own synthesis.
 - Step 4 self-assessment and revision: about 40 minutes (estimate).
 - Re-reading your own m1 to m4 notes: about 30 minutes (estimate).
 
-Total: about 5 hours (280 minutes of labelled components: 30
-proposal, 60 tool work, 150 deliverable writing, 40 self-assessment
-and revision). The only reading is your own notes and the passages
-already assigned in m1 to m4; no new reading is assigned, and the
-quoted passages are verified in the ledger.
+Total: about 5 hours 10 minutes (310 minutes of labelled
+components: 30 proposal, 60 demonstration study and own run with
+the working notes made during it, 30 cleaning the notes into
+deliverable b, 120 the synthesis, 40 self-assessment and revision,
+30 re-reading your own m1 to m4 notes). The only reading is your
+own notes and the passages already assigned in m1 to m4; no new
+reading is assigned, and the quoted passages are verified in the
+ledger.
 
 ## Verification status of attached sources
 
@@ -226,9 +261,10 @@ primary source:
   have practical bearings...", verified verbatim on the opened [How
   to Make Our Ideas
   Clear](https://en.wikisource.org/wiki/How_to_Make_Our_Ideas_Clear)
-  page this session (the m1 assignment; the page also confirms the
-  maxim does not appear in The Fixation of Belief, which is why the
-  m5 attribution follows m1).
+  page this session (the m1 assignment). The maxim's absence from
+  The Fixation of Belief was confirmed on the separately opened
+  Fixation page this session, which is why the attribution follows
+  m1.
 - Dewey's forked-road sentence, verified verbatim on the Project
   Gutenberg #37423 download this session (the m4 Reading A).
 - James's Lecture VI sentences ("True ideas are those that we can
