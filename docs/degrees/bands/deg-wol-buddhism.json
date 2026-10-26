@@ -5,8 +5,9 @@
  "phase": "module-production",
  "modules": {
   "b1-ethics-first-orientation": "draft v2, QC repair pass applied; Dhammadipa segmentation owed",
-  "b2-four-noble-truths": "draft v2, QC repair pass applied; Dreyfus finer segmentation owed"
+  "b2-four-noble-truths": "draft v2, QC repair pass applied; Dreyfus finer segmentation owed",
+  "b4-foundational-meditations": "draft v1, Brahmali session 1 verified in-session with chapter timestamps; awaiting supervisor module-QC"
  },
  "notes": "Wave-2 production 2026-10-26: b1 + b2 drafted and QC-repaired; remaining gaps in ledger gap register (segmentation, captions, word counts); b3-b7 designed, sources owed for Zen, Insight, Secular.",
- "updated": "2026-10-26T04:52:00+00:00"
+ "updated": "2026-10-26T05:20:00+00:00"
 }

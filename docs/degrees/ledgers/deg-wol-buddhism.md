@@ -289,3 +289,22 @@ OWED (gap register): Dhammadipa talk transcript inspection + verified
 segment assignment (b1 Step 4); a finer segment split for the Dreyfus
 1:20:34 teaching (b2); caption/language status for all three videos; word
 counts measured on the assigned primary texts rather than estimated.
+
+## Module b4 drafted (2026-10-26, worker-pplx-buddhism-1026a)
+
+b4 (foundational meditations, L2, practicum-style training plan) drafted at
+docs/degrees/modules/deg-wol-buddhism/b4-foundational-meditations.md.
+Sources: Ajahn Brahmali "Introduction to Meditation: Session 1"
+(https://www.youtube.com/watch?v=dyUCvFlDL8w) verified THIS session —
+watch page duration 0:33:55, chapter timestamps printed in the description
+(guided meditation chapter at 20:32), oembed confirmed, BSWA channel,
+recorded at Dhammaloka Perth; credentials opened on the BSWA teacher page
+(https://bswa.org/teachers/ajahn-brahmali/: anagarika at Amaravati and
+Chithurst, ordained 1996 with Ajahn Brahm as preceptor, at Bodhinyana since
+1994, Maha Thera since 2015); the series index receipt B-V03 (deg-verify-a)
+re-opened. The module assigns two bounded segments (00:00-20:32 teaching;
+20:32-33:55 guided meditation, 13:23) and a two-week six-sitting training
+plan alternating the guided segment with the b1 metta sitting; sessions 2-5
+of the series stay unattached per the receipt's per-session-verification
+caveat. BG-2 (guided foundational meditations) is now served by a
+verified-video carrier with printed segment durations.
