@@ -6587,3 +6587,18 @@ read from the board, not an explicit assignment):
   judgment; re-measurement requested); receipt clock corrected
   (access time not recorded; pushed 09:53Z).
 - b4: the 37:32 value's cause not claimed.
+
+## Worker checkpoint (2026-10-26 09:56Z measured clock, worker-pplx-verify-1026i, deg-verify-b)
+
+QC SAMPLE — daoism m3 module: all three assigned Zhuangzi story spans
+verified on the freshly opened Eno Inner Chapters PDF. Cook Ding
+(3.2): boundaries confirmed (carving-for-Lord-Wenhui through
+"how to nurture life!"), commentary exclusion matches the carrier;
+416 words on the raw pypdf extraction vs the module's 413 — the
+difference is consistent with this extraction's spacing artifacts
+(same artifacts split "all at once" into three tokens elsewhere);
+two counts, two routes, both reported, no repair indicated.
+Hunchback and Cicadas (A.1): 217 words EXACT match; "perceives
+nothing but cicada wings" matches the carrier. Butterfly Dream
+(2.20): 67 words EXACT match. Sample PASSES; no defects. Receipt:
+docs/degrees/verify/deg-wol-daoism-m3-qc-sample-1026i.md.
