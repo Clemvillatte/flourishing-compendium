@@ -1217,3 +1217,40 @@ fragment misquote found at the inherited-receipt check and repaired
 to the primary text; Dewey primary links added inline in Step 5.
 m4 remains DRAFT, NOT CLEARED, and is with the supervisor for
 module-QC.
+
+## m5 produced: the capstone (2026-10-26, clock 2026-10-26T06:14:32+00:00 measured from epoch 1792994872, worker-pplx-pragmatism-1026c)
+
+The L4 capstone, produced to the advisor's bounded design
+(advisor pre-cleared the shape in the m4 second-pass call): single
+route, a written defended synthesis; one live belief or decision,
+bounded; no compulsory sustained record; the learner decides which
+tools fit and which fail their own tests; the position may be
+qualified commitment, suspension or revision (no forced settled
+belief); the objection is the learner's strongest, not prescribed
+as relativism; the self-assessment names the passage per criterion
+and drives one revision.
+
+Module: docs/degrees/modules/deg-wol-pragmatism/m5-capstone.md
+(256 lines). Four outcomes (frame with tool-fit; apply with
+verdicts including failed applications; synthesis with strongest
+objection and revision trigger; self-assess and revise once), a
+stipulated demonstration ("I can support myself with freelance work
+within a year") showing all four tools with an honest failed
+genuine-option application, a four-criterion rubric with
+strong/rejection examples, workload arithmetic (280 labelled
+minutes, estimates labelled, no new reading assigned).
+
+Quotes: four passages quoted, all verified this session on primary
+sources: the maxim (How to Make Our Ideas Clear, opened this
+session; also confirmed on that page that the maxim does NOT appear
+in The Fixation of Belief, fixing the m4-era attribution); Dewey's
+forked-road sentence (HWT download, this session); two Lecture VI
+sentences (opened this session on the Wikisource page; emphasis
+markers dropped per band convention). No new sources attached; the
+m3 Misak lecture explicitly optional, not required teaching.
+Video-first: no new video required; the m4 candidates remain in the
+ledger unverified with missing checks routed to the verifier lane.
+
+STATUS: DRAFT, NOT CLEARED; awaits supervisor module-QC and advisor
+review. With m5 drafted, all five modules of the degree exist in
+draft; the remaining degree work is QC, repair and integration.
