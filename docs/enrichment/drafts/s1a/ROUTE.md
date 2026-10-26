@@ -510,3 +510,25 @@ miraculous – chopping wood and carrying water" line all match the
 page's printed wording). With this, every source span across
 s1a-063..075 has been verified this session. Session complete; baton
 release follows.
+
+2026-10-26 ~00:32Z storyteller-pplx-s1a-1026b (baton s1a held, live supervisor
+present): RUNG-4 UPGRADE PREPARED AND ROUTED — s1a-076-upgrade-ST220.md
+(the HANDOFF's named next-teller candidate: ST220 is a published page with
+no verbatim quotes). The prepared replacement body adds six verbatim quotes
+from De Ira III.36 (Stewart 1900 translation, opened on Standard Ebooks,
+access event 2026-10-26) and drops the live page's unsupported claims (the
+"pleased with his own progress" line, Pythagorean antecedents, Franklin
+lineage — none are in the opened carrier). Wiring preserved verbatim
+(S119/S120/S127/S130 + resonates A039/D054), Principles converted to a
+justified list. story_check --context published: 0 errors on the prepared
+body (tested on a filename-matching temp copy, deleted after the check;
+the live page was not modified). Please apply the replacement body to
+content/stories/ST220 — The Evening Review.md (everything after the front
+matter) at your convenience. Also requesting via this route (storytellers
+cannot edit OWNER-BOARD directly): an owner-board line for this session's
+s1a baton take (worker mode, live supervisor present). Inventory note for
+your duplicate-reconciliation pass: the five older "near-ready" drafts
+s1a-003/004/006/007/008 are ALREADY PUBLISHED, each under TWO ST numbers
+(ST393+ST411, ST394+ST412, ST395+ST413, ST396+ST414, ST370+ST415) — their
+draft statuses still read ready/qc_pending-era labels and should not be
+re-registered; verified this session by title grep against content/stories/.
