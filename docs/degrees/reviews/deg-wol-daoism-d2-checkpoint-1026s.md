@@ -46,3 +46,9 @@ The walk's core carrier set: Eno's Daodejing (81 chapters, primary text), the ow
 - The reviewer flagged to the supervisor: the D2 pool's hours arithmetic is the checkpoint's central open question and the answer is a real gap, not a bookkeeping item. Recorded in the commit message.
 - The SEP entry's bibliography is the open route to the named scholars (Csikszentmihalyi, Roth) the D1 file listed as open-scholarship candidates; the D1 row was mis-scoped as a single-scholar row and is now corrected to the entry's bibliography.
 - Pregadio's site URL is goldenelixir.com; the D2 pool's flag named pregadio.com. Both resolve to the same site and the content is confirmed.
+
+---
+
+## SUPPLEMENTARY NOTE (owner ruling 2026-10-27, applied by gate-1026s after the fact)
+
+The owner's 2026-10-27 rulings (commits bad5c55b8 and 622a7eca3) re-targeted D2 acquisition to TEACHING CONTENT ONLY — no primary-text link-hunting and no encyclopedic reference material (SEP/Wikipedia/IEP/Britannica) as degree content. This receipt predates that ruling. The SEP carrier references in this receipt (the Daoism entry's use as the open scholarship carrier) are RETAINED as historical verification of what was opened, but the SEP entry is NOT to be cited as an assignment or matrix row going forward — the acquisition effort now goes only to teaching-layer rows. The receipt's verdict (PASS CONDITIONALLY, hours floor ~50-55h, the honest-failure risks) stands as a record; the D3 agent must apply the teaching-content-only re-target before module construction.

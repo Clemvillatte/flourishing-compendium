@@ -53,3 +53,9 @@ The walk's core carrier set: Kierkegaard's Fear and Trembling (PD, Gutenberg), D
 
 - The reviewer flagged to the supervisor: the existentialism degree's hours floor is the second-hardest case of the batch (after positive psychology). The verified floor is ~34-43h; the remaining hours must come from the applied half's carrier passes and a verified open teaching-layer MOOC. The owner must rule on whether the degree proceeds at this floor or whether the hours gap must be closed first. Recorded in the commit message.
 - The D1 and D2 were both authored by this reviewer (the deg-gate holder). This is disclosed for transparency and is not a violation of the spec — the spec's anti-gaming safeguard 6 requires the checkpoint review to be a review of the D1+D2 against the spec's floors, which this document is. The dedicated deg-arch-d2 lane's holder was consumed by the other five WoL degrees at the time the existentialism D2 was needed.
+
+---
+
+## SUPPLEMENTARY NOTE (owner ruling 2026-10-27, applied by gate-1026s after the fact)
+
+The owner's 2026-10-27 rulings (commits bad5c55b8 and 622a7eca3) re-targeted D2 acquisition to TEACHING CONTENT ONLY — no primary-text link-hunting and no encyclopedic reference material (SEP/Wikipedia/IEP/Britannica) as degree content. This receipt predates that ruling. The SEP Existentialism entry (Aho 2023) references in this receipt are RETAINED as historical verification of what was opened, but the SEP entry is NOT to be cited as an assignment or matrix row going forward. The receipt's verdict (PASS CONDITIONALLY, hours floor ~34-43h, the honest-failure risks for Heidegger B&T, Beauvoir, Sartre B&N) stands as a record; the D3 agent must apply the teaching-content-only re-target before module construction — the primary texts are in the owner's library (docs/PRIMARY-SOURCES.md) and the acquisition effort now goes only to teaching-layer rows.
