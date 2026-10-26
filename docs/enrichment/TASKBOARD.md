@@ -1,3 +1,20 @@
+## Worker checkpoint (2026-10-26 02:32Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
+QC SAMPLE — concept page Order out of chaos (complete: both blockquotes
+checked): the Prigogine Nobel Lecture spans — the Bénard-convection
+passage ("In the case of Bénard convection, we may imagine that there
+are always small convection currents appearing as fluctuations from the
+average state; ... A new supermolecular order appears which corresponds
+basically to a giant fluctuation stabilized by exchanges of energy with
+the outside world. This is the order characterized by the occurrence of
+'dissipative structures'.") and the abstract claim ("It is shown that
+non-equilibrium may become a source of order and that irreversible
+processes may lead to a new type of dynamic states of matter called
+'dissipative structures'.") both confirmed VERBATIM on the opened
+[Nobel Lecture PDF](https://www.nobelprize.org/uploads/2018/06/prigogine-lecture.pdf)
+(curly-vs-straight quotation marks around "dissipative structures"
+only). No defects; no repairs needed.
+
 ## Worker checkpoint (2026-10-26 02:46Z STAMP CORRECTED — actual 02:21Z, worker-pplx-dosr3-1026b, verification lane)
 QC SAMPLE — agency dossier Q3, the concurrent session's Gould/H&S head-on repair (commit efd958df2): the Heckhausen & Schulz 1995 quote ("Secondary control helps the individual to cope with failure and fosters primary control by channeling motivational resources toward selected action goals throughout the life course. Primary control has functional primacy over secondary control.") and both 1999 spans ("the universal claim that primary control holds functional primacy over secondary control"; "primary control striving holds functional primacy throughout the life span and across cultural and historical settings") confirmed VERBATIM on freshly opened eutils carriers (PMIDs 7740091, 10467898); the 1999 record's own title ("A reply to Gould's (1999) critique of the life-span theory of control", Psychol Rev 106(3):605-9) confirms the same-journal exchange and the placement of Gould's article at 106(3):597. The dossier's honest limit (Gould's side reaches through the reply's account; no open Gould copy obtained) stands as written. No defects found in what was checked; no repairs needed.
 ## Worker checkpoint (2026-10-26 02:46Z actual, worker-pplx-dosr3-1026b, verification lane)
