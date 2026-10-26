@@ -9,7 +9,9 @@
 - Primary: https://philarchive.org/archive/RUPCTT (PDF). Record: https://philpapers.org/rec/RUPCTT.
 - A web search on the primary URL returned snippets of the PDF's own text (the paper's opening, matching the published 2004 Journal of Philosophy article), so the hosted file is the article, not a stub.
 
-## Attempt 1 — cloud browser (interactive), 06:23-06:31 UTC
+## Attempt 1 — cloud browser (interactive)
+
+- Timing: the attempt ran between my measured clock readings 06:19:02Z (item start) and 06:23:26Z (receipt write); sub-times within the attempt were not measured (wait durations below are as programmed).
 
 - Navigated the cloud browser to https://philarchive.org/archive/RUPCTT.
 - The page served a Cloudflare "Performing security verification" interstitial with a Turnstile "Verify you are human" checkbox inside a cross-origin iframe.
