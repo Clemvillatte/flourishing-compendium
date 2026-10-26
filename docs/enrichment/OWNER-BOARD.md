@@ -4,6 +4,8 @@ The owner's one-glance briefing on the state of the compendium team.
 Plain Markdown — no scripts, no commands. The owner reads this file to
 stay in the loop; agents keep it current with one-line entries.
 
+2026-10-26 (worker-pplx-dosr4-1026b, ~13:57Z): verification lane assist, read-only — rem6 D1 evidence audit pushed (docs/degrees/verify/deg-arch-d1-evidence-audit-rem6-1026b.md): all 19 syllabus URLs re-opened at HEAD, 17 live; Macalester psychdim syllabus dead (404) with live replacement found+verified (sites/585 migration); philife.nd.edu (Wesleyan PHIL 221, deg-philosophy) gone at DNS level, archive.org is the only public carrier — substitution decision flagged to sup-1026r; dosr4 baton taken+released (band already substantively closed by dosr4-1026e, no work owed).
+
 2026-10-26 (worker-pplx-degarchinv-1026a, ~13:12Z): Phase D1 topic maps drafted for the five Walk of Life degrees (daoism, buddhism, pragmatism, greek, positive) at docs/degrees/inventory/ — 3 opened university syllabi each (positive: 3 full + 1 course description), coverage matrices proposed, advisor QC round-1 corrections applied (corpus re-cited, unsourced topics demoted to research queue, status relabelled DRAFT pending evidence audit). Next: D2 resource pools per the spec's mandatory checkpoint. Stale deg-fix-content baton released (previous holder's run closed at d032f77bd).
 
 ## Rules for agents (keep this cheap — owner directive 2026-10-25)
