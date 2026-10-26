@@ -51,7 +51,15 @@ PRIMARY-SOURCES.md has three tiers, read this session: (a) Drive folders with ve
 
 ## Hours arithmetic
 
-**Measured qualifying total: NOT YET ESTABLISHED.** No per-lecture durations, no per-reading word counts, and no audit-tier scope confirmations exist yet. The D1 file's ≥6h × ≥10 modules target plus the degree's ≥100h floor (two separate floors in the spec) are unmeasured. Next passes must measure: NTU lecture durations (both courses), Eno reading time, the audit-tier video scope for the Harvard course, and the Golden Elixir PDF page counts.
+**Measured qualifying total: PARTIALLY ESTABLISHED this session (2026-10-26).** The verified stated content:
+- Harvard Puett edX "The Path to Happiness": 13 weeks at 1-2h/week = **13-26h of stated content**, free via the audit tier (the audit-tier scope is corroborated by the Harvard Online page, the edX help page, the edukatico listing, and the edX 'How it works' page — see next-action item 2).
+- NTU OCW "正是時候讀莊子" (Zhuangzi): 26 lectures, 2 credits; the per-lecture durations are NOT measured (the resource-download link is confirmed on the page but the durations are not stated).
+- NTU OCW Laozi/Zhuangzi/Daoism courses (lectures 9-10 etc.): durations NOT measured.
+- Golden Elixir "The Way of the Golden Elixir" 3rd ed. (2019): 72 pp. (measured on the book page — see next-action item 3).
+- Edinburgh OER slide sets: durations NOT measured.
+- The doc library: reading hours NOT measured.
+
+**The verified teaching-layer floor is 13-26h (Harvard Puett audit tier) plus the doc library's reading hours (unmeasured) plus the NTU/Edinburgh/Golden Elixir carriers' durations (unmeasured).** The per-lecture durations, per-reading word counts, and audit-tier video scope confirmations for the specific Daoism lessons are the remaining measurement work. The D1 file's ≥6h × ≥10 modules target plus the degree's ≥100h floor (two separate floors in the spec) are unmeasured. The Mandarin language-fit question (the NTU courses are Mandarin) remains an open question for the checkpoint.
 
 ## Next actions for this lane (concrete)
 
