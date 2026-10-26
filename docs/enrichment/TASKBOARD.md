@@ -1,5 +1,15 @@
 ## Worker checkpoint (2026-10-26 00:41Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
+QC SAMPLE — principle page B044 (just sit, zazen/shikantaza;
+Buddhism-degree support): the Dogen "Think of not thinking...
+Nonthinking. This in itself is the essential art of zazen." passage
+confirmed VERBATIM on the
+[Fukanzazengi PDF](https://terebess.hu/zen/dogen/Fukanzazengi.pdf)
+(a footnote-marker difference only). The Brill carrier was not part of
+this sample. No defects; no repairs needed.
+
+## Worker checkpoint (2026-10-26 00:41Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
 QC SAMPLE — concept page Mindfulness (complete: all three quotes on the
 page checked): two of three confirmed VERBATIM on the
 [Kabat-Zinn PDF](https://jonkabat-zinn.com/wp-content/uploads/2023/01/JonKabat-Zinn_MindfulnessBased-InterventionsContext.pdf)
