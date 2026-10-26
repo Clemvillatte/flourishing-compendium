@@ -3867,7 +3867,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The two sides answer the same question in opposite ways, and what they dispute is who counts as wise. Shane Ryan's argument is that a requirement in academic subjects would rule out people of earlier centuries from being wise, which he takes to give the wrong extension of wisdom ([Shane Ryan, Wisdom, Intellectual Virtue, and Epistemology, 2025](https://link.springer.com/article/10.1007/s44204-025-00242-6)). Whitcomb's argument, as that same paper reports it, rests on an intuition: if two people live equally well but one knows more chemistry, the second is a little wiser. I side with the practical-only view for the purposes of this wiki, because the essays are about living, but I cannot call that settled by what I have opened. Intuitions about chemistry carry the whole weight on both sides."
+          "x": "The two sides answer the same question in opposite ways, and what they dispute is who counts as wise. Shane Ryan's argument is that a requirement in academic subjects would rule out people of earlier centuries from being wise, which he takes to give the wrong extension of wisdom ([Shane Ryan, Wisdom, Intellectual Virtue, and Epistemology, 2025](https://link.springer.com/article/10.1007/s44204-025-00242-6)). Whitcomb's argument, as that same paper reports it, rests on an intuition: if two people live equally well but one knows more chemistry, the one who knows more is a little wiser. I side with the practical-only view for the purposes of this wiki, because the essays are about living, but I cannot call that settled by what I have opened. Intuitions about chemistry carry the whole weight on both sides."
         },
         {
           "t": "p",
