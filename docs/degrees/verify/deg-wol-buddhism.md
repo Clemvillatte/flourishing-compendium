@@ -268,4 +268,103 @@ Series, Parts 1 to 5 (Ajahn Brahmali)
   — the page itself apologises for audio quality on parts 2-3; lower
   priority than the Brahmali series.
 
+## QC-repair gap work (2026-10-26, measured commit bounds 04:54-04:58Z)
+
+The owner's QC repair pass leaves four verification items; three are
+closed here.
+
+### B-V04: Dhammadipa, "The Four Immeasurable Minds" — full
+transcript read + chapter map
+
+- The full transcript (third-party route) confirms the talk's arc:
+  Buddhist psychology (vedana, perception), grasping/resistance and
+  avoidable suffering, love as giving, the mother-and-child illustration
+  of the four immeasurables, mental/verbal/bodily formations and karma,
+  the Queen Mallika story, the four immeasurables as qualities of mind
+  with the Theravada/Sanskrit object contrast (beings vs all dharmas;
+  the Visuddhimagga's metta explanation named), practical meditation
+  guidance (ocean/mirror visualisation, receiving without grasping or
+  rejecting, metta to liked/neutral/disliked/enemy, ~20-minute
+  practice), then audience questions, dedication and close. Lokanta
+  Vihara is NOT mentioned in the transcript — consistent with the
+  owner's QC repair (the founder claim was removed). The host's
+  introduction gives the biography (Czech Republic, Chinese literature
+  and philosophy, Jerusalem/Berlin/Paris, Nalanda, Japan/Sri Lanka/
+  Burma, principal teacher the Burmese meditation master — transcript
+  spelling garbled; the watch-page description names Pa Auk Sayadaw).
+- SEGMENT MAP for the b1 Step 4 assignment — the watch page carries an
+  uploader-set chapter list (opened this session): 0:00 Introduction;
+  2:08 The mind, perceptions, feelings; 14:37 Avoiding suffering;
+  18:55 Love/Metta; 22:25 Love as giving; 27:11 4 Brahmaviharas;
+  28:53 Letting go, the wise mother; 32:01 Becoming a Bodhisattva;
+  32:30 Harmony, forming the future; 37:38 Karma, giving; 40:16 Metta;
+  45:16 Aggressive people are frustrated people; 54:06 Love,
+  Compassion, Tolerance, Joy; 59:16 Brahmaviharas and enlightenment;
+  1:01:49 Metta to all phenomena, method of Kumarajiva;
+  1:09:42 Meditation practice (metta); 1:33:04 No room for hate;
+  1:36:04 Compassion is the opposite of violence; 1:37:40 Joy in
+  contemplation of the ultimate; 1:40:24 A balanced mind; 1:43:12
+  Q: What is ultimate reality?; 1:51:07 Q: The "Sanskrit way" of
+  practice; 1:53:36 Additional resources; 1:54:15 Q: Forgiveness (as
+  in Christianity); 1:56:09 Q: Forgiveness meditation, Buddha Nature;
+  1:59:46 Q: Metta to all phenomena; 2:02:18 Learning; 2:03:38
+  Dedication of Merits; 2:06:31 Conclusion. The transcript structure
+  matches (roughly an hour of teaching, then the practice, then Q&A).
+  Suggested basis for the four-immeasurables assignment: the teaching
+  spans about 27:11 to 1:01:49 with the guided practice at 1:09:42
+  onward; exact boundaries are the owner's to pin from the player —
+  the chapters are uploader-set.
+- Duration: 2:09:06 on the watch page (matches the owner's record).
+- Caption status: watch page shows a Transcript section ("Follow along
+  using the transcript"); closed captions per se not explicitly
+  stated — the third-party transcript route also returned the talk,
+  which implies a caption track exists.
+- Status: verified-video, full-transcript coverage read; content
+  classification upgraded from description-basis to transcript-read
+  (the owner's INCOMPLETE marker can be lifted on this basis, with the
+  biography continuing to rest on the host introduction and the
+  dhammadipa.cz/buddha-haus.de pages, not the recording).
+
+### B-V05: caption/language status, b1 videos (owner's owed item)
+
+- TpbWVaXBV4c (Ajahn Brahm, "Buddhist Values"): watch page opened
+  this session — Transcript section present ("Follow along using the
+  transcript"); closed captions per se not explicitly stated. DURATION
+  DISCREPANCY: the page extraction reads 54:15 vs the module's 54:16 —
+  1 second; player-total convention applies, the owner should re-read
+  and pin the figure. Language: English.
+- Nq7YmbYFJkA (Thanissaro, "The Five Precepts for the Mind"): watch
+  page JS-blocked on this session's retry, BUT the third-party
+  transcript route returned the full talk — a caption track therefore
+  exists (the service reads caption tracks). The transcript confirms
+  the b1 use exactly: the talk names the five precepts for body and
+  speech, then teaches their mind dimensions in order (not killing =
+  protecting the meditative well-being; not stealing = not dwelling on
+  others' bad qualities; no illicit sexuality = avoiding sensual
+  obsession, developing the pleasure of concentration; not lying =
+  keeping promises to oneself, acknowledging unskillful impulses; no
+  intoxicants = heedlessness about time, using each breath). Talk
+  dated 161005 (2016-10-05). Duration: not re-read this session; the
+  owner's 13:16 (lengthSeconds 796) stands.
+- svWaWFOpxXw (Dhammadipa): see B-V04 — transcript present on the
+  watch page; duration 2:09:06 confirmed.
+- Summary for the owner's source tables: all three talks carry
+  transcript availability; closed-caption status per se is confirmed
+  only insofar as the transcript sections exist — if the tables must
+  state "captions available", phrase it as "transcript available on
+  the watch page".
+
+### Dreyfus finer segment split (owed item 2, partially served)
+
+- The Dreyfus watch page returned 1:20:34 on the earlier read this
+  session (B-V01) but was crawler-blocked on the chapter re-check —
+  no uploader chapter list was obtained. The full-transcript read
+  (B-V01) gives the content ORDER (course structure, Buddha's first
+  teaching account, then the dukkha teaching: feelings, the
+  homeodynamic balance account, the three types of suffering, the
+  aggregates/impermanence/no-self/emptiness links) but NO timestamps;
+  the route cannot supply the finer split. The owner should pin the
+  boundaries from the player (cloud browser) against the content map
+  in B-V01.
+
 Timestamp correction (2026-10-26, measured 04:54Z): the clock labels first written in these receipts were invented readings, not measurements; they are corrected in place to the measured commit bounds recorded in git history (a7681a1bf 04:46:02Z through d0802492c 04:51:22Z). Appended rather than silently rewritten; the receipts themselves are otherwise unchanged.
