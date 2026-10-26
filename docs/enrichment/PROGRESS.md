@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-25 12:30 UTC (input revision `afd28a2cd`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 13:30 UTC.
+As of 2026-10-26 00:08 UTC (input revision `1568de884`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 01:08 UTC.
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -18,13 +18,13 @@ Published story pages (content/stories/ST*.md): 491. The per-lane rows below are
 
 | Lane | Published (lane-reported) | Ready (lane-reported) | QC pending | Other |
 |---|---|---|---|---|
-| s1a | 0 | 39 | 20 | 3 |
+| s1a | 0 | 56 | 16 | 3 |
 | s1b | 0 | 33 | 0 | 5 |
 | s1c | 0 | 38 | 1 | 0 |
-| s1d | 3 | 7 | 0 | 0 |
-| s1e | 2 | 0 | 6 | 0 |
+| s1d | 3 | 5 | 2 | 0 |
+| s1e | 2 | 6 | 0 | 0 |
 | s1f | 0 | 10 | 0 | 0 |
-| **All lanes** | **5** | **127** | **27** | **8** |
+| **All lanes** | **5** | **148** | **19** | **8** |
 
 ## Kernels and thinkers (enrichment programs)
 
@@ -32,11 +32,11 @@ Kernel pages live in `content/kernels/`; thinker pages in `content/thinkers/`. R
 
 | Program | Pages | Done entries (bands) | Distinct done K-IDs | Done K-IDs with a page | Recorded-done coverage of pages | Queue (raw) | Queued IDs not in done |
 |---|---|---|---|---|---|---|---|
-| Kernels | 316 | 1646 (cmp, k1a, k1b, k1c, k1d, k1e, k1f, kpr, maintenance, t2a, t2b, t2c) | 316 | 316 | 100.0% | 216 | 0 |
+| Kernels | 316 | 1761 (cmp, k1a, k1b, k1c, k1d, k1e, k1f, kpr, maintenance, t2a, t2b, t2c) | 316 | 316 | 100.0% | 216 | 0 |
 | Thinkers | 60 | N/A (no done-count percentage; see note) | — | — | N/A: no defined completion denominator | 59 | — |
 
 - Thinker reconciliation: 60 thinker page(s) exist (T001, T002, T003, T004, T005…); the thinker queue holds 59 entries; thinkers band t1a minted 2026-10-22 with 12 thinkers assigned, 12 recorded done. No completion percentage is computed: the program has no defined completion denominator.
-- Kernel reconciliation: 132 kernel IDs are recorded in more than one done entry (duplicate records, counted once; the current overlap is ['K109', 'K112', 'K115', 'K118', 'K119', 'K123', 'K124', 'K128', 'K129', 'K130', 'K133', 'K134', 'K137', 'K138', 'K143', 'K145', 'K147', 'K155', 'K157', 'K159', 'K160', 'K162', 'K166', 'K169', 'K170', 'K171', 'K173', 'K175', 'K176', 'K181', 'K183', 'K185', 'K186', 'K187', 'K188', 'K189', 'K190', 'K191', 'K197', 'K198', 'K202', 'K203', 'K206', 'K207', 'K208', 'K209', 'K210', 'K212', 'K214', 'K217', 'K218', 'K219', 'K220', 'K224', 'K225', 'K226', 'K228', 'K232', 'K233', 'K235', 'K238', 'K240', 'K241', 'K243', 'K244', 'K247', 'K248', 'K249', 'K250', 'K251', 'K252', 'K253', 'K258', 'K259', 'K260', 'K265', 'K266', 'K268', 'K269', 'K270', 'K274', 'K276', 'K277', 'K279', 'K286', 'K291', 'K292', 'K293', 'K294', 'K295', 'K296', 'K297', 'K298', 'K303', 'K320', 'K322', 'K324', 'K327', 'K329', 'K348', 'K350', 'K360', 'K366', 'K367', 'K368', 'K369', 'K370', 'K371', 'K372', 'K373', 'K374', 'K375', 'K376', 'K377', 'K380', 'K381', 'K383', 'K385', 'K386', 'K387', 'K390', 'K391', 'K392', 'K393', 'K396', 'K398', 'K400', 'K411', 'K414', 'K415', 'K417', 'K419'] — recorded both by K-ID and by title); 4 done entries are recorded by title rather than K-ID (matched to their K-pages by title); 0 recorded-done kernel IDs have no current page; 0 kernel pages are not recorded done; 0 queued IDs are absent from the done set (a queue-set figure, not a page count — the queue is not trimmed of done items and needs reconciliation).
+- Kernel reconciliation: 206 kernel IDs are recorded in more than one done entry (duplicate records, counted once; the current overlap is ['K109', 'K112', 'K115', 'K117', 'K118', 'K119', 'K123', 'K124', 'K126', 'K128', 'K129', 'K130', 'K132', 'K133', 'K134', 'K137', 'K138', 'K139', 'K142', 'K143', 'K145', 'K147', 'K148', 'K149', 'K155', 'K157', 'K159', 'K160', 'K162', 'K166', 'K169', 'K170', 'K171', 'K173', 'K174', 'K175', 'K176', 'K179', 'K181', 'K183', 'K185', 'K186', 'K187', 'K188', 'K189', 'K190', 'K191', 'K197', 'K198', 'K202', 'K203', 'K205', 'K206', 'K207', 'K208', 'K209', 'K210', 'K212', 'K213', 'K214', 'K217', 'K218', 'K219', 'K220', 'K224', 'K225', 'K226', 'K228', 'K231', 'K232', 'K233', 'K235', 'K238', 'K240', 'K241', 'K243', 'K244', 'K247', 'K248', 'K249', 'K250', 'K251', 'K252', 'K253', 'K254', 'K257', 'K258', 'K259', 'K260', 'K261', 'K262', 'K263', 'K264', 'K265', 'K266', 'K267', 'K268', 'K269', 'K270', 'K271', 'K272', 'K273', 'K274', 'K276', 'K277', 'K278', 'K279', 'K280', 'K281', 'K282', 'K283', 'K284', 'K285', 'K286', 'K287', 'K288', 'K290', 'K291', 'K292', 'K293', 'K294', 'K295', 'K296', 'K297', 'K298', 'K303', 'K304', 'K305', 'K309', 'K310', 'K311', 'K312', 'K313', 'K314', 'K315', 'K317', 'K318', 'K320', 'K321', 'K322', 'K324', 'K327', 'K328', 'K329', 'K330', 'K333', 'K336', 'K337', 'K342', 'K348', 'K350', 'K351', 'K355', 'K356', 'K357', 'K358', 'K359', 'K360', 'K361', 'K362', 'K363', 'K364', 'K365', 'K366', 'K367', 'K368', 'K369', 'K370', 'K371', 'K372', 'K373', 'K374', 'K375', 'K376', 'K377', 'K380', 'K381', 'K383', 'K385', 'K386', 'K387', 'K388', 'K389', 'K390', 'K391', 'K392', 'K393', 'K394', 'K395', 'K396', 'K397', 'K398', 'K399', 'K400', 'K401', 'K402', 'K403', 'K404', 'K405', 'K407', 'K408', 'K411', 'K414', 'K415', 'K417', 'K419'] — recorded both by K-ID and by title); 4 done entries are recorded by title rather than K-ID (matched to their K-pages by title); 0 recorded-done kernel IDs have no current page; 0 kernel pages are not recorded done; 0 queued IDs are absent from the done set (a queue-set figure, not a page count — the queue is not trimmed of done items and needs reconciliation).
 - Stories carry no completion denominator in their registry; the Stories section above reports counts only.
 
 ## Principles by forest
