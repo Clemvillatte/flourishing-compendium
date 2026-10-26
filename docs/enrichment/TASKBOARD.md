@@ -6646,3 +6646,19 @@ free-will examples confirmed inside the boundary-to-boundary passage
 in the module's stated order. Word count 647 vs my 646 — one-word
 extraction noise, figure stands. Sample PASSES. Receipt:
 docs/degrees/verify/deg-wol-pragmatism-m1-qc-sample-1026i.md.
+
+## Worker checkpoint (2026-10-26 10:02:36Z measured clock, worker-pplx-verify-1026i, deg-verify-b)
+
+ROUTED ITEM (supervisor ruling 10:01:00Z) — existentialism Gate-1
+BLOCKING GAP, therapy evidence-base-and-limits row: the Terao and
+Satoh Frontiers paper (PMC8792983) OPENED AND VERIFIED. All four
+Bauereiss et al. 2018 effect sizes match the article exactly (Life
+Review g = 1.39, CI 1.02-1.75; Hope 0.58; MCP 0.39; Dignity 0.07,
+CI -0.17-0.30); all three ledger-quoted limit statements verbatim
+("qualitative and not systematic", "the number of studies were very
+small", "yet to be determined"); "nineteen RCTs, most of which
+included patients with advanced cancer" verbatim; CC BY open
+access, no caveat — the ruling's condition met. Gap ANCHORED from
+the verification side; Gate-1 re-review and band/ledger recording
+remain with the gate reviewer and degree owner. Receipt:
+docs/degrees/verify/deg-wol-existentialism-terao-satoh-gap-anchor-1026i.md.
