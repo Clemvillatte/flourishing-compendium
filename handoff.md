@@ -3807,10 +3807,11 @@ the fetch tool this pass (attempts recorded in the respective ledgers).- 2026-10
 ## VERIFICATION PASS 4 (2026-10-26 02:30Z, worker-pplx-verify-1026b, audit baton held)
 
 QC sample of the dosr5 full-read close (one verdict of twelve): motivation
-Q1 (Deci/Koestner/Ryan 1999 vs Cameron/Banko/Pierce) re-opened independently
-on both carriers, fresh fetches — quotes verbatim, effect sizes exact,
-bottom lines opposite on the same proposition, the two meta-analyses naming
-each other in print. PASS verdict CONFIRMED, no repair owed. Report:
+Q1 (Deci/Koestner/Ryan 1999 vs Cameron/Banko/Pierce) — quotations checked
+verbatim on both sides' carriers (the Cameron fetch was served from cache);
+a two-sided quote spot-check, not an independent certification of the
+verdict's argument structure; Cameron's low-interest-task condition noted.
+Report:
 docs/enrichment/qc/QC-SAMPLE-DOSR5-2026-10-26.md. Same session, dosr3 lane:
 substantive per-question review complete with three advisor rounds; corrected
 tally: ONLY anger at the strict 3-5 bar — cognition, goals and agency all

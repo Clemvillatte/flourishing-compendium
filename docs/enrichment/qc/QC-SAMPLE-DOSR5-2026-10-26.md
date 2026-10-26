@@ -61,8 +61,8 @@ close) were adjudicated via alternate routes this session:
    scienceopen.com reproduce the abstract with a British 'judgements'
    variant, which is the index's rendering, not the paper's.
 2. Hayes, Strosahl and Wilson 1999 as quoted in Bernstein et al. 2015
-   (PMC5103165): the quote IS on the carrier (verified by direct curl of
-   the live PMC page), but the dossier rendered the carrier's semicolon as
+   (https://pmc.ncbi.nlm.nih.gov/articles/PMC5103165/): the quote IS on the
+   carrier (verified by direct curl of the live PMC page), but the dossier rendered the carrier's semicolon as
    a comma ('the world understood, structured reality' ->
    'the world understood; structured reality'). REPAIRED this session;
    the automated check will still report NOT FOUND because PMC blocks the
@@ -82,12 +82,12 @@ The four automated non-matches in attention.md (per QC-BAND-QUOTE-MAP-2026-10-26
 the map's count of 2 was per-file, the script reports 4 spans) were adjudicated
 by direct fetch of each carrier (curl with browser UA; pdftotext for the PDF):
 
-1. Langner and Eickhoff 2012 (PMC3627747): full quoted span confirmed verbatim
-   on the live page.
-2. Lutz et al. 2008 (PMC2693206): full quoted span confirmed verbatim on the
-   live page.
-3. Lavie 2005 (labs.wsu.edu PDF): both quoted spans confirmed verbatim in the
-   downloaded PDF. The automated check fails because labs.wsu.edu blocks the
+1. Langner and Eickhoff 2012 (https://pmc.ncbi.nlm.nih.gov/articles/PMC3627747/):
+   full quoted span confirmed verbatim on the live page.
+2. Lutz et al. 2008 (https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/):
+   full quoted span confirmed verbatim on the live page.
+3. Lavie 2005 (https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf):
+   both quoted spans confirmed verbatim in the downloaded PDF. The automated check fails because labs.wsu.edu blocks the
    verifier's fetcher; the extraction shows 'earlyand late-selection' and
    'taskrelevant' only because pdftotext drops hyphens at line breaks — the
    published text carries 'early- and late-selection' and 'task-relevant' as
@@ -121,7 +121,8 @@ The three remaining automated non-matches in the released dosr2-band files
 (per QC-BAND-QUOTE-MAP-2026-10-26.md) were adjudicated by direct fetch:
 
 1. right-view, Kathāvatthu I.1 "Nay, that cannot truly be said." —
-   CONFIRMED VERBATIM in the archive.org djvu plain text of the Aung/Rhys
+   CONFIRMED VERBATIM in the archive.org djvu plain text
+   (https://archive.org/download/pointsofcontrove00mogg/pointsofcontrove00mogg_djvu.txt) of the Aung/Rhys
    Davids scan ("P. — Nay, that cannot truly be said."). The automated
    failure is the fragment-in-narrative pattern the map predicted.
 2. right-view, MMK 15.1-2 (Kalupahana) — CONFIRMED against the
@@ -129,7 +130,8 @@ The three remaining automated non-matches in the released dosr2-band files
    noise ("self-oatnre through auscs") but the wording matches the dossier's
    rendering, and "Indeed, an unmade self-nature is also non-contingent upon
    another" prints clean. False positive.
-3. right-mindfulness, Goyal et al. 2014 (PMC4142584) — REAL DEVIATION found
+3. right-mindfulness, Goyal et al. 2014
+   (https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/) — REAL DEVIATION found
    and REPAIRED: the live PMC page prints "small to moderate reductions IN
    multiple negative dimensions of psychological stress"; the dossier had
    "reductions of". One word repaired to match the carrier
@@ -143,7 +145,7 @@ gratitude/right-effort/right-intention remain for the supervisor holding
 dosr1, and the dosr4/dosr6/dosr7 owners adjudicate their own during their
 passes.
 
-# CORRECTIONS (final verification round, 2026-10-26 02:34Z measured) — supersedes errors above
+# CORRECTIONS (final verification round; header time was estimated, not measured — governing times are the commit timestamps of the corresponding pushes) — supersedes errors above
 
 An advisor audit of this report found reporting errors and over-certifications.
 The corrections below are the accurate record; where an entry above disagrees,
@@ -255,7 +257,7 @@ Tversky and Kahneman 1974 is now CERTIFIED against the paper's own text. The
 open full-text reproduction at
 https://sites.socsci.uci.edu/~bskyrms/bio/readings/tversky_k_heuristics_biases.pdf
 was downloaded this session and the boxed Summary on the paper's last page
-(Science page 1130, PDF page 9) was rendered to an image and read directly:
+(Science page 1131, footer inspected directly; PDF page 9 of the reproduction) was rendered to an image and read directly:
 it prints, word for word, the dossier's quoted span — 'This article described
 three heuristics that are employed in making judgments under uncertainty:
 (i) representativeness... (iii) adjustment from an anchor... These heuristics
