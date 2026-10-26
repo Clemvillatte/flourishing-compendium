@@ -581,3 +581,48 @@ segments 34:38 (00:27:11-01:01:49) + 23:22 (01:09:42-01:33:04) =
 2:05:32 exactly. Arithmetic CONSISTENT with the receipts (with this
 lane's 54:15 it would be 2:05:31 — the one-second flag remains
 recorded, not adjudicated).
+
+### B-V14 — b5 spine recording content inspection: Ajahn Sumedho,
+"Mindfulness and Wisdom" (2026-10-26T05:17Z)
+
+- URL: https://www.youtube.com/watch?v=SElyOzgkxjo — watch page re-opened
+  this session in a cloud browser (description and metadata readable;
+  no paywall; title matches the oembed receipt B-V09). The player
+  response is LOGIN_REQUIRED for anonymous playback from this
+  environment, so the page's own transcript panel exposes no caption
+  tracks here; that is a playback limitation, not an access defect for
+  learners (the video page is freely reachable and the monastery also
+  distributes the talk audio free: the iHeart "Meditation Retreat 2017
+  by Ajahn Sumedho" podcast carries the same retreat series, its Day 2c
+  episode "Mindfulness and Wisdom" dated 13 May 2017, 59 min — 2.5
+  min under the 1:01:36 watch-page figure, consistent with podcast
+  trimming; the module assigns the YouTube recording, so its 1:01:36
+  figure stands).
+- CONTENT INSPECTION (the owed item): third-party caption extraction
+  (notegpt.io caption route, opened this session) returned the
+  recording's own auto-captions for roughly the first 12 minutes. The
+  spoken content confirms the talk's actual subject: it opens "this is
+  the second evening of this Retreat", frames pariyatti (scriptural,
+  acquired) knowledge against direct wisdom, renders pañña as universal
+  rather than personal or even "Buddhist", pairs sati and pañña
+  ("mindfulness, wisdom go together"), points to awakening to reality
+  ("wake up"), and treats the Four Noble Truths as directives rather
+  than doctrines. Sample boundary: the first ~12 minutes only; caption
+  text is auto-generated (used for subject classification, NOT as a
+  verbatim quotation carrier — no wording in this receipt is offered as
+  verbatim).
+- Classification from the recording itself: a Theravada/Thai Forest
+  Dhamma talk on mindfulness and wisdom, matching the module's bounded
+  claims (talk given 13 May 2017, second evening of the 12-19 May open
+  retreat; retreat context and series corroborated by the thaiforest
+  wisdom series listing, talk 2 of 7). The talk's own content supports
+  the module's use of it as the Thai Forest lineage's voice on
+  mindfulness-and-wisdom.
+- Status: **verified-video** (identity, free access, duration,
+  content classification from the recording's own captions for the
+  opening; the remaining ~49 minutes rest on the description and the
+  corroborated series identity — any future verbatim quotation from this
+  talk must still be checked against a full transcript, which the
+  module does not attempt). Flag for the owner: b5's source-table line
+  can now drop "CONTENT NOT YET INSPECTED" for this recording; the
+  viewing stops are structural and unchanged.
