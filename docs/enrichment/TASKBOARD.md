@@ -1,3 +1,15 @@
+## Worker checkpoint (2026-10-26 16:01Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+GRATITUDE: DEBRA COLLEGE KANT PDF VERIFIED. Both spans of the
+sacred-duty quote are verbatim in the PDF's text layer
+(debracollege.dspaces.org .../The Metaphysics of Morals of kant.pdf,
+842k chars extracted): "gratitude must also be considered, in
+particular, a sacred duty..." and "For a moral object is sacred if
+the obligat[ion...]". Gratitude now stands at 30 checked /
+3 not found — all three remaining are Wiley abstract pages
+(JS-served; browser route needed next pass). No dossier text
+changed. Files touched: this checkpoint only.
+
 ## Worker checkpoint (2026-10-26 16:00Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 GRATITUDE: 2 MORE MISSES CLOSED. The Emmons faculty site now returns
