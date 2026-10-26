@@ -72,6 +72,43 @@ verbatim (the upward-spirals sentence; the Akumal 1999 / Grateful-Dead
 villa passage, including "made one of her initial presentations"). No
 defects; no repairs needed.
 
+
+## CORRECTIONS + FINAL ROUTES (2026-10-26 00:36Z actual, sup-1026b — end-of-pass record)
+
+CORRECTIONS to my earlier checkpoints (content accurate, wording overclaimed):
+- Quote-fidelity total is 24 VERBATIM SPANS across 13 SAMPLED PAGES (7
+  dossiers: cognition, suffering, acceptance, goals, anger, agency,
+  uncertainty; 6 story pages: ST348, ST370, ST118, ST410, ST307, ST369) —
+  not '20/20' (mixed counts) and not '9 dossiers + 4 stories'.
+- 'All carriers open-access' applies ONLY to the carriers I actually
+  fetched (each reported non-paywalled); the host inventory of the 36 new
+  registrations is not proof of openness.
+- My dosr3-7 STEP 0 dispositions are STRUCTURAL findings (counts +
+  dossier_check + spot-substance), not substantive certification.
+- Timestamps stamped 00:38-00:42Z below were future-dated (actual
+  00:32-00:34Z); all stamps from this entry use fresh date -u readings.
+
+FINAL VERIFICATION (pinned to origin/main at commit 656a72158, T+28):
+remote dosr3-7 batons released=True; the 5 restored ST118 links present in
+source AND generated wikiData (D071, PP019, PP020 + 2 concepts); all 207
+compiled ST card refs in app.js resolve to existing story files; the 5
+repaired dossiers pass dossier_check; no merge markers; tree clean.
+
+ROUTES FOR SUPERVISOR (2 new + 1 updated):
+(1) UPDATED — ST-number reuse ALREADY HAPPENED (batch-1 registrations
+minted ST307-507 over the retired numbers; ST410 now legitimately =
+Django). Recommend a controlled identity audit: old-ID-plus-old-title ->
+canonical-title mapping against live references (draft st-ids, card URLs,
+book/order entries, generated data), NOT number-only replacement.
+(2) NEW — s1c-031: story published as ST488 with a CURLY-quoted title
+(Rip Van Winkle Says 'I Won't Count This Time') but the draft state still
+says 'ready' with a straight-quoted title; the collision guard's exact
+string match would NOT catch re-registration of this draft (quote-style
+mismatch). Flip the state to published ST488 and consider normalizing
+quote style in the guard's title comparison.
+(3) STANDING — ST118's interviews/six-themes/autotelic claims remain
+unverified by an opened carrier (York review does not establish them);
+verify or narrow.
 ## Worker checkpoint (2026-10-26 00:43Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — principle page P026 (make inquiry communal; pragmatism-degree
