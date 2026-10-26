@@ -229,7 +229,7 @@
    "stid": "ST500"
   },
   "s1d-008": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "P020 James pragmatic method - the squirrel dispute from Pragmatism lecture II (1907)",
    "history": [
     {
@@ -255,6 +255,11 @@
      "t": "2026-10-25T14:43:16+00:00",
      "to": "qc_pending",
      "note": "CORRECTION (advisor QC): Brock wording not re-verified (robots-blocked); Gutenberg pg5116 corroborates all 8 passages (rendering diffs only); recommend REJECT dup ST433 stands"
+    },
+    {
+     "t": "2026-10-26T09:58:39+00:00",
+     "to": "ready",
+     "note": "final QC (1026f): all seven Lecture II quotes re-verified against the opened Mead Project page; story_check ok"
     }
    ]
   },
