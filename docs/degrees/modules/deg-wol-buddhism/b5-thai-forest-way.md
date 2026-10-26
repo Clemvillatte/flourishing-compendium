@@ -156,8 +156,8 @@ school.
   ~10 m; written work (statement, precis, records, placement) ~70 m;
   two logged sittings 20 m. Estimates labelled as estimates.
 - Module total: about 3 h 30 m if the Step 2 assignment is unblocked
-  as written; about 2 h 53 m with only the introduction excerpt
-  assignable.
+  as written; about 2 h 50 m with only the introduction excerpt
+  assignable (1:01:36 + 8 m + 10 m + 70 m + 20 m).
 
 ## Sources (verification status)
 
