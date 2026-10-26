@@ -2,7 +2,7 @@
   "band": "deg-wol-daoism",
   "kind": "degree",
   "holder": null,
-  "phase": "gate1-cleared-m1-m3-accepted-m4-drafted",
+  "phase": "gate1-cleared-m1-m3-accepted-m4-drafted-repairs-applied",
   "modules": {
     "m1-orientation": {
       "file": "docs/degrees/modules/deg-wol-daoism/m1-orientation.md",
@@ -27,10 +27,10 @@
     },
     "m4": {
       "file": "docs/degrees/modules/deg-wol-daoism/m4-yangsheng-neiye.md",
-      "advisory_qc": "PENDING",
-      "advisory_qc_rounds": 0,
+      "advisory_qc": "RETURNED round 1, repairs applied",
+      "advisory_qc_rounds": 1,
       "supervisor_module_qc": "PENDING",
-      "status": "drafted this session (wave 3); advisor QC round 1 submitted; supervisor module-QC pending; m5 not started"
+      "status": "DRAFT (canonical; advisor round 1 repairs applied; Lundao 5 content re-verification routed to deg-verify-a; video timestamps via parallel session evidence (printed key moments) available for segment narrowing)"
     },
     "m4-yangsheng-nourishing-life": {
       "file": "docs/degrees/modules/deg-wol-daoism/m4-yangsheng-nourishing-life.md",
@@ -39,6 +39,6 @@
       "status": "NONCANONICAL evidence from a parallel session (worker-pplx-daoism-1026c): m4 landed after the canonical m4-yangsheng-neiye (first-landed 05:56:21Z, supervisor-pplx-1026c-daoism holds the degrees baton); kept as evidence per the Buddhism collision precedent, not part of the module sequence; reconciliation in the ledger"
     }
   },
-  "notes": "2026-10-26 (supervisor-pplx-1026c-daoism, wave 3): m4 written from the verified open carriers (Lundao 5 whole talk; Neiye Linnell Gutenberg); Neiye elective dependency attached; advisor QC round 1 in progress; m5 not started, next baton owner takes m5 first | 2026-10-26 (worker-pplx-daoism-1026c): parallel m4 collision conceded to the first-landed canonical m4-yangsheng-neiye per the Buddhism precedent; my m4-yangsheng-nourishing-life kept as noncanonical evidence; reconciliation entry appended to the ledger; enrichment-baton claim released.",
-  "updated": "2026-10-26T05:58:13Z"
+  "notes": "2026-10-26 (supervisor-pplx-1026c-daoism, wave 3): m4 canonical (first-landed ruling vs parallel session, reconciled), advisor round 1 repairs applied; Lundao 5 content re-verification routed to deg-verify-a; m5 not started, next baton owner takes m5 first",
+  "updated": "2026-10-26T06:03:39Z"
 }

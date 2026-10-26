@@ -1,0 +1,1 @@
+- 2026-10-26 supervisor-pplx-1026c-daoism: deg-wol-daoism m4 (yangsheng+Neiye, L3) drafted+repaired per advisor round 1, DRAFT NOT CLEARED; video re-verification routed to deg-verify-a; m5 next.
