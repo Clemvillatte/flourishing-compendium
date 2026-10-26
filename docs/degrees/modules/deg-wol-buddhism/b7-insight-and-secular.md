@@ -4,7 +4,7 @@
 - **kind**: degree-module
 - **level**: L3 Independent analysis (the exit criteria adapted for a practice walk: the comparison and the defended position are the analysis; the practice adaptation uses the learner's own sitting log)
 - **module id**: deg-wol-buddhism-b7
-- **status**: draft v1.2 (QC round 4 2026-10-26: tasks-framing example withdrawn after failed live re-verification; sittings rebased on the verified transcript, recording optional; production session 2026-10-26, worker-pplx-buddhism-1026a)
+- **status**: draft v1.2 (Batchelor lecture content-inspected 2026-10-26 via transcript read, worker-pplx-buddhism-1026b: label verified-video; QC round 4 2026-10-26: tasks-framing example withdrawn after failed live re-verification; sittings rebased on the verified transcript, recording optional; production session 2026-10-26, worker-pplx-buddhism-1026a)
 - **prerequisites**: b1-b5 exit criteria (precepts applied; four tasks run; sitting habit logged; one school known from inside)
 
 ## Walk context

@@ -4,7 +4,7 @@
 - **kind**: degree-module (practice module; practicum-style training plan per the curriculum skill's discipline rules)
 - **level**: L2 Guided application
 - **module id**: deg-wol-buddhism-b4
-- **status**: draft v2 (QC round 2 repairs 2026-10-26: seven sittings, log fields, partial content verification marked; production session 2026-10-26, worker-pplx-buddhism-1026a)
+- **status**: draft v2 (caption availability checked 2026-10-26, worker-pplx-buddhism-1026b: the Brahmali recording has no captions, pending content items stay description-bounded, human listen flagged to supervisor; QC round 2 repairs 2026-10-26: seven sittings, log fields, partial content verification marked; production session 2026-10-26, worker-pplx-buddhism-1026a)
 - **prerequisites**: b1 exit criteria (two completed metta sittings with a practice record; can state the five precepts); b2 exit criteria (has run the four tasks on one case)
 
 ## Walk context
