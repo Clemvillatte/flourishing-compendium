@@ -1496,7 +1496,8 @@ democracy, L3) and m5 (the L4 capstone, written defended synthesis).
 Both DRAFT, NOT CLEARED; routed to supervisor module-QC. The
 deg-verify-b receipt confirms m4's three sources, passage boundaries
 and the HNC TOC ruling; the word-count delta it notes (A 774 vs the
-module's 778) is tokenizer difference, methods recorded on both
+module's 778) is a small discrepancy between the reported counting
+methods, cause unestablished; methods recorded on both
 sides, boundaries identical. m1's pending media items (Philosophy
 Talk playback/captions, Misak playback/captions) remain with the
 supervisor per the deg-gate verdict #4 routing; nothing blocks QC

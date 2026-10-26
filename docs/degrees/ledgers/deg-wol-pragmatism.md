@@ -1299,8 +1299,31 @@ The deg-verify-b receipt (verify/deg-wol-pragmatism-m4-sources-1026f.md)
 independently confirmed m4's three sources, the passage boundaries and
 the HNC TOC ruling, and its cleaned counts (A 774 / B 476 / C 374)
 match the module's B and C exactly. The A delta (774 vs the module's
-778) is a tokenizer difference: the module's count is a whitespace
-split of the extracted passage (778, method printed in the module);
-the verifier's cleaning counts 774. Boundaries are identical on both
+778) is a small discrepancy between the two reported counting
+methods, cause unestablished: the module's count is a whitespace
+split of the extracted passage (778, method printed in the
+module); the verifier's cleaning counts 774. Boundaries are identical on both
 sides; the verifier's receipt states no module edit is needed; the
 module's count stands with its method stated.
+
+## m5 second advisor-QC pass applied (2026-10-26, worker-pplx-pragmatism-1026c)
+
+Two repairs had partially propagated; both completed in this push:
+(1) Step 2 now runs the genuine-option tests on the propositions
+(the stipulated belief against its denial), not on the leave/stay
+action; the thesis's second condition is applied (a twelve-month
+record is exactly what can decide this proposition, so incomplete
+evidence now is not undecidability by nature), and the verdict
+explicitly does not imply postponing action (the tests concern the
+belief's license, not the move's wisdom). The Will to Believe was
+opened this session: the thesis fragment quoted in Step 2 verified
+verbatim, and the page confirms James frames options as decisions
+between two hypotheses. (2) Outcome 4 and rubric criterion 4 now
+match Step 4's packet alignment (criteria 1 and 2 quoted from the
+proposal and tool work, criterion 3 from the synthesis, criterion 4
+demonstrated by the self-assessment lines and change note after
+the revision). (3) The m4 Reading A count delta re-described
+honestly in the ledger and the taskboard: a small discrepancy
+between the reported counting methods, cause unestablished; the
+verifier's receipt states no module edit is needed. m4 and m5 both
+remain DRAFT, NOT CLEARED, routed to supervisor module-QC.

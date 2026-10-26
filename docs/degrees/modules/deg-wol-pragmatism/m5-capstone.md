@@ -42,8 +42,11 @@ capstone on your own material.
    commitment, suspension or revision), the strongest objection to
    it, your answer to that objection, and what would change your
    judgment.
-4. Self-assess your synthesis against the rubric, naming the passage
-   that meets each criterion, and revise it once in response.
+4. Self-assess the capstone packet against the rubric: criteria 1
+   and 2 in the proposal and the tool work, criterion 3 in the
+   synthesis, each with the passage named, then revise the synthesis
+   once and demonstrate criterion 4 through the self-assessment lines
+   and the change note.
 
 Every outcome is taught, practised and assessed below; the alignment
 map at the end shows where.
@@ -97,24 +100,37 @@ myself with freelance work within a year." Watch what each tool does,
 and note that not all of them are needed:
 
 1. The forked-road question: the perplexity is whether to leave
-   salaried work. The question is not "is freelancing good" but
-   "what would have to be true of my next twelve months for this
-   belief to be working". That is a question a record can answer.
+   salaried work, and the belief at stake is the proposition "I can
+   support myself with freelance work within a year" against its
+   denial; the tests and the record run on the propositions, not on
+   the move. The question is not "is freelancing good" but "what
+   would have to be true of my next twelve months for this belief
+   to be working". That is a question a record can answer.
 2. The maxim on "support myself": the effects are specific (rent
    paid, food bought, no new debt, at what monthly figure, for how
    many consecutive months). Until the figure is named, "support
    myself" means nothing checkable, and the belief cannot succeed
    or fail.
-3. The genuine-option tests: on the stipulated facts, live is
-   plausibly met, but forced and momentous are not established
-   (staying is one of the two alternatives, which does not by
-   itself show the option avoidable; the market's recurring does
-   not by itself show this person's opportunity trivial). The
-   honest verdict is "not established on these facts", so the
-   permission is not shown to apply and the decision belongs to
-   the evidence. This is a worked unresolved application, and an
-   unresolved verdict is a result: it tells you what to check next,
-   not that the tests condemn the question.
+3. The genuine-option tests, run on the propositions: live is
+   plausibly met (the proposition and its denial both appeal as
+   real possibilities to this person). Forced is not established on
+   these facts (the stipulated case names no standing place that
+   vanishes if the belief is suspended, and a departure deadline
+   can force an action without forcing the belief, as m3 read
+   James). Momentous is not established (the stipulated facts name
+   no unique, non-repeatable stake). And the thesis's second
+   condition fails on its face: James's permission covers only "a
+   genuine option that cannot by its nature be decided on
+   intellectual grounds" (The Will to Believe, the m3 Reading A),
+   and this proposition is exactly the kind a twelve-month record
+   can decide; incomplete evidence now is not undecidability by
+   nature. Verdict: the permission is not shown to apply, and the
+   belief belongs to the evidence. Note what this verdict does not
+   say: it does not say the person must postpone leaving. Acting
+   has its own reasons; the tests are about the belief's license,
+   not the move's wisdom. This is a worked unresolved application,
+   and an unresolved verdict is a result: it tells you what to check
+   next, not that the tests condemn the question.
 4. The record, and its limits: the available record is three
    months of invoices, and it must be read carefully before it
    verifies anything. Invoices issued are not yet income in hand;
@@ -225,11 +241,14 @@ not qualify; the module admits only what serves your own synthesis.
    self-deception. Rejection: a position with no objection, an
    objection answered by assertion, or a "whatever works for me"
    close with no check named.
-4. The self-assessment names a passage for each criterion and the
-   revision responds to it. Strong: four lines quoting the
-   synthesis, one revision that changes the objection answer, and a
-   note on why. Rejection: "all criteria met", or a revision that
-   changes nothing.
+4. The self-assessment cites the packet, not just the synthesis:
+   criteria 1 and 2 quoted from the proposal and the tool work,
+   criterion 3 from the synthesis, and the revision responds to
+   what the lines found. Strong: three quoted lines (one per
+   deliverable), one revision that changes the objection answer,
+   and a change note naming what changed and why; the lines and the
+   note are what meet this criterion. Rejection: "all criteria
+   met", or a revision that changes nothing.
 
 ## Workload arithmetic
 
@@ -274,6 +293,13 @@ primary source:
   verified verbatim this session on the opened Lecture VI page
   (the m3 Reading B3 source; emphasis markers on the page are
   dropped in the quotation, per the band's convention).
+- James's thesis fragment from The Will to Believe, "a genuine
+  option that cannot by its nature be decided on intellectual
+  grounds", quoted in Step 2, verified verbatim this session on
+  the opened [Will to
+  Believe](https://en.wikisource.org/wiki/The_Will_to_Believe)
+  page (the m3 Reading A source), which also confirms that James
+  frames options as decisions between two hypotheses.
 
 Video-first check: no new lecture video is required for the
 capstone, and none is attached; the m3 Misak lecture remains an
