@@ -523,3 +523,14 @@ Timestamp correction (2026-10-26, measured 04:54Z): the clock labels first writt
 - Content: sections Introduction / The Questions / Constructing the Aggregates / Constructing a Self / Constructing the Path / Deconstruction / Glossary / Abbreviations; the five aggregates as activities (feeling feels, perception labels, consciousness cognizes); clinging-aggregates distinction (clingable, sustenance, fermentation; the burden) confirmed.
 - Status: **verified (text)** — corroborates the owner's pre-verified candidate for the owed aggregates elective thread.
 
+
+**B-V10 reconciliation (owner round-4 blocker, 2026-10-26T05:09Z):** the producing
+owner's round-4 QC BLOCKED b5's Ajahn Chah volume assignment because
+the opened page shows only an introductory excerpt and neither provides
+nor links the full text. This is CONSISTENT with B-V10 above: B-V10's
+"CONFIRMED on content" refers to the introduction excerpt's content
+(Thai Forest/Theravada framing) only; it never established full-text
+access, and the 403 on the second fetch is the same instability the
+owner hit. B-V10 should not be read as full-text confirmation; the
+owner's blocker supersedes the b5 book assignment. The introduction
+excerpt assignment stands per the owner's note.
