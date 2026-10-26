@@ -131,8 +131,8 @@ Actual queries:
   less explanation than the selected 4:07 professor excerpt; do not
   stack both compulsory assignments.
   [Opened short introduction](https://www.youtube.com/watch?v=_b0TQzVbzXE).
-- “The Psychology of NOT KNOWING What You Want,” Psyche Core,
-  **10:37**, was read in full. It blends identity, clarity and purpose
+- “The Psychology of Not Knowing What You Want,” Core Psychology,
+  **16:53**, was read in full. It blends identity, clarity and purpose
   with broad self-help recommendations; no identifiable psychology
   faculty instructor was established. **Not selected** as the
   scientific SCC/measurement authority.

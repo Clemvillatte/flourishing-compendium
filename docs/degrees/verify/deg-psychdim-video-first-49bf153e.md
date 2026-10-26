@@ -126,7 +126,9 @@ M1 Step 1, and recalculate workload as a substitution. No module,
 ledger, band, shared board or site file was edited in this verification
 pass. Supervisor module-QC remains required.
 
-The research-literacy reading has not received a complete independent
-video-first search in this bounded check. No “no suitable video exists”
-claim is made for that material. M2 and later modules also retain their
-own video-first audit work.
+**Continuation update:** research literacy now has its own checked
+replacement plan in `deg-psychdim-m1-literacy-video-49bf153e.md`;
+M2–M7 have separate `deg-psychdim-mN-video-audit-49bf153e.md` receipts.
+The earlier search-gap note is superseded by those follow-up checks,
+not a live stop gate. Production owner/supervisor still own consumption,
+workload and independent module review; this verifier clears nothing.

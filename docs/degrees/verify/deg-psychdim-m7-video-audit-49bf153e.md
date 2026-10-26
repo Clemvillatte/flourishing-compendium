@@ -20,7 +20,7 @@ Arithmetic: 293 + 199 + 293 + 83 + 498 = **1366 seconds**.
 
 ## Identity, access, transcript and authority receipts
 
-- **Wood:** full **6:18**, published **15 May 2023**, The Well.
+- **Wood:** full **6:18**, published **26 May 2022**, The Well.
   Independent USC page identifies her as Provost Professor Emerita
   of Psychology and Business and describes her habit research.
   Selected and unassigned transcript read; no paywall/login.
@@ -42,7 +42,8 @@ Arithmetic: 293 + 199 + 293 + 83 + 498 = **1366 seconds**.
   [Watch](https://www.youtube.com/watch?v=EXrmKkpJ2Gk),
   [faculty biography](https://cas.uoregon.edu/directory/psychology/all/berkman).
 - **Inzlicht:** The Dissenter interview, recorded **10 December
-  2019** as stated in the upload description. Independent Toronto
+  2019** as stated in the upload description, published **21 February
+  2020**, full **1:19:48**. Independent Toronto
   profile establishes psychology professorship, Brown experimental
   psychology PhD and self-control/replication research.
   Selected English timed text opened/read without payment/login;

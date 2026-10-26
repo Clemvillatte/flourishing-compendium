@@ -126,3 +126,86 @@ compulsory instruction.
 Parent/degree owner still owns production substitution, workload
 recalculation and module-QC routing. No ledger, module, band or shared
 board was edited by this verifier.
+
+## Non-statistical follow-up: theory, induction/deduction and designs
+
+**A verified-video option now covers the remaining introductory
+theory/induction/deduction/design categories.** Daniel Kaplin,
+*Introduction to Psychology: Scientific Method and Observational
+Research Strategies*, **00:00–03:39 = 3:39**, then **08:43–13:18 =
+4:35**; combined **8:14**. The first clip distinguishes theory,
+testable hypothesis and data and names deductive/inductive reasoning.
+The second resolves the intervening class question, explains their
+complementary use, then introduces descriptive, correlational and
+experimental research. Continuous transcript read from the start
+through the assigned end, with the rest opened/read as context.
+([Public recording](https://www.youtube.com/watch?v=O5oMCeZTSJg).)
+
+Recording: Understanding Psychology with Dr. Daniel Kaplin channel,
+full **32:07**, published **3 January 2024**. An independently opened
+College of Staten Island institutional news article identifies him
+as Adjunct Professor in Psychology in 2019; this is a **historical
+credential check**, not a claim about his present rank. Public video
+and English timed text opened without payment/login; caption type
+manual/automatic not established. No playback or slide check claimed.
+([Watch metadata/transcript](https://www.youtube.com/watch?v=O5oMCeZTSJg),
+[independent CUNY institutional article](https://csitoday.com/2019/01/kaplin-elected-president-of-nyspa/).)
+
+Use this **instead of** overlapping Smith theory/induction/deduction
+and design exposition if the owner needs those categories. Do not
+add it to the entire reading or imply the clip teaches experimental
+control, random assignment or a full causal-identification framework:
+it only introduces design categories. M1's worked observational
+appraisal and explicit causal limits remain necessary. The speaker's
+“both equally valid” means both reasoning directions have uses, not
+that any inductive conclusion is as strong as any deductive argument.
+([Assigned explanation](https://www.youtube.com/watch?v=O5oMCeZTSJg),
+[Smith's broader text](https://nobaproject.com/modules/thinking-like-a-psychological-scientist).)
+
+Do not assign the remainder wholesale: it includes personal class
+discussion, a child-abuse case, “everybody lies” survey wording,
+a puppy-killing question and an overbroad account of stratified
+sampling. Those examples and claims are unnecessary for the
+bounded replacement.
+([Complete opened transcript](https://www.youtube.com/watch?v=O5oMCeZTSJg).)
+
+This follow-up complements, rather than independently re-verifies,
+the Vanman scientific-reasoning/replication candidates in the separate
+1026c receipt. That receipt's independently reported evidence remains
+its verifier's work; the present note makes no fresh content claim
+about recordings not opened by this verifier.
+
+### Actual follow-up search and finite exclusions
+
+Queries: `psychology scientific method research methods professor lecture
+video`; `psychology scientific thinking falsifiability replication
+lecture university`; `Daniel Kaplin psychology professor faculty`;
+`Brian Stone Boise State psychology faculty`; `Nestor Matthews
+experimental research methods video`; `Daniel Kaplin experimental
+research strategies video`.
+
+- Nestor Matthews, *Introduction to Research Methods*, **40:31**,
+  published **6 August 2013**, complete transcript opened/read:
+  **not selected**. At 31:06 onward it calls a p-value the probability
+  of a Type I error, the exact confusion M1 must repair. It also
+  contains substantial legal/sexual-violence examples not needed
+  for this short foundation. Do not switch to this lecture merely
+  because the uploader mentions Denison.
+  [Opened lecture](https://www.youtube.com/watch?v=YHOQEqWruOA).
+- Brian Stone, *Research Methods — Overview Pt1 — Science and
+  Pseudoscience*, **41:27**, published **6 January 2024**, complete
+  transcript opened/read. Independently credentialed professor
+  per Boise State faculty search; the opened faculty-page extract
+  itself ended before his entry. **Not selected**: it includes
+  lengthy paranormal-TV examples, is less direct for the remaining
+  induction/deduction gap, and its introductory self-esteem claim
+  is not needed for this scope. Full lecturer credentials were
+  therefore not promoted from the truncated fetch.
+  [Opened lecture](https://www.youtube.com/watch?v=D9VROG5H8j0),
+  [opened faculty page](https://www.boisestate.edu/psychology/faculty/).
+
+The formerly provisional reading fallback is now narrower: only an
+explicitly uncovered **assessed** feature can justify additional text.
+There is no remaining warrant to assign all of Smith as the default
+merely because the first video search was bounded. This does not
+clear M1 or approve a final watch-list workload.
