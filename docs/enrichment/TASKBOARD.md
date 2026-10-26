@@ -1,4 +1,12 @@
 
+## VERIFICATION CHECKPOINT (2026-10-26 01:10Z, sup-1026b — right-effort dossier cross-check)
+
+2/2 verbatim on independent re-verification of a dosr1-sampled dossier:
+SN 45.8 (Thanissaro — the four right-effort directions exact) and AN 6.55
+Sona (Thanissaro — the lute-string tuning passage exact; footnote-marker
+spacing only). Agent-reported results reproduced. Session total 54
+verbatim spans across 34 sampled pages.
+
 ## VERIFICATION CHECKPOINT (2026-10-26 01:08Z, sup-1026b — frustration dossier cross-check)
 
 2/2 verbatim on independent re-verification of a dosr1-sampled dossier:
