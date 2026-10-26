@@ -455,3 +455,22 @@ The owner's reworded Ziporyn attribution ("great structuring carves
 but does not sever") matches the transcript read this session
 (D-V03-TR summary: "the line about carving without severing" in the
 chapter 28 discussion). Corroborated; no further check owed.
+
+### m1 quote QC addendum (2026-10-26T05:12Z)
+
+- m1's ch. 8 "in full" quote (101 words): count on the module's quoted
+  text is exactly 101 — matches the owner's measurement claim. The
+  v1.3 terebess mirror carries only ch. 8 section a ("Highest good is
+  like water: water benefits the things of the world and does not
+  contend. Dwell in places that the masses of men despise.") — its
+  omission of sections b/c (the qualities list, "Hence it comes close
+  to the Dao...") is CONSISTENT with this lane's D-T05 receipt note
+  that v1.4 corrected a prior omission of chapter 8 sections b and c.
+  The m1 quote therefore reflects the carrier's (v1.4) full text;
+  section a's opening wording matches the mirror verbatim.
+- m1's ch. 76 word claim (85 words): mirror (v1.3) count is 84 —
+  one-word difference, attributable to the v1.3/v1.4 text or counting
+  convention; consistent, not flagged.
+- m1's ch. 1 description ("the famous opening on the unnameable"):
+  consistent with the mirror's ch. 1 text ("A dao that may be spoken
+  is not the enduring Dao...").
