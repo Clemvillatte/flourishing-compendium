@@ -14,11 +14,9 @@ account of the mind, and not a guarantee that your circumstances will be
 easy to change; you will test its usefulness on your own material as the
 degree proceeds. Source
 verification evidence is in ledgers/deg-psychdim.md. STATUS: DRAFT, NOT
-CLEARED; blocked WIP (module production is routed for this degree by the
-supervisor-authored PIPELINE-2026-10-26 per the owner's 2026-10-26 priority
-directive; the ledger's Phase 0 stop-gate note conflicts with that routing
-and is flagged to the live supervisor for a documented ruling; the module
-also awaits independent review). The independent pedagogical follow-up
+CLEARED; production is authorized by owner decision 6. Video-first review
+under decision 8 and independent module review remain outstanding.
+The independent pedagogical follow-up
 (verify/deg-psychdim-m1-followup-2026-10-26.md) returned three bounded
 repairs, M1-PED-01 to M1-PED-03; this revision applies them.
 

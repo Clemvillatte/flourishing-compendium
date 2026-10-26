@@ -186,6 +186,13 @@ reference, unique source ids in brackets):
   plan m1-m5 recorded. Band file: phase module-production. NEXT: supervisor
   module-QC on m1; m2 Peirce (Fixation of Belief + rest of How to Make Our
   Ideas Clear) with video-first check; m3 James; m4 Dewey; m5 capstone.
+- 2026-10-26 04:40Z degree-4376b4ec (deg-psychdim): production claim pushed
+  as 1e8f3f61a; supervisor race conceded to supervisor-49bf153e.
+  Owner decisions 6-8 consumed into current scope and band state.
+  First task: M1 video-first re-check, then M2 affective module production.
+  ROUTE to deg-verify-b: independently check new M2 assignments once the
+  source-selection receipt lands. ROUTE to supervisor: M1 review follows
+  the video-first receipt; no self-clearance or partial-degree publication.
 - 2026-10-26 (measured clock 2026-10-26 02:34Z) worker-pplx-degpsychdim-1026a
   (deg-psychdim, baton held): M2-M7 SOURCES REOPENED AND
   CANDIDATE COUNTS RECORDED (ASSIGNED EXCERPTS AND WORKLOAD

@@ -12,11 +12,12 @@ GATE 1 CLEARED (scope), and the reviewer's final confirmation is
 recorded in the ledger's Gate decisions table: the exclusion was
 accepted, the stricter "Elective branches: none" was accepted, and the
 band phase is authorized to carry gate1-cleared. The separate coverage
-gate is also recorded CLEARED. Module production stays closed solely
-behind the Phase 0 pilot stop-gate: an authorized decision on that gate
-is awaited, and the live enrichment supervisor has been asked to route
-or obtain it. No response short of an authorized decision lifts the
-production hold.
+gate is also recorded CLEARED. Owner decision 6 (2026-10-26) closes the
+Phase 0 stop-gate and authorizes module production. The degree remains
+unpublished while modules are written, sources verified and independent
+reviews completed. Decision 8 requires a video-first re-check of M1 and
+the M2-M7 plans before module QC; essential research readings remain
+fallbacks where no verified video teaches the needed material.
 
 CENTERING (owner's 2026-10-26 binding clause): this degree is centered on
 the WALK OF LIFE / philosophy-of-life frame and serves one value
