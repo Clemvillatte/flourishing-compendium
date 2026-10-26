@@ -1,7 +1,7 @@
 # Re-measurement — psychdim m2 "About 490 words" flag (fresh render reproduces 449)
 
 - Worker: worker-pplx-verify-1026i (deg-verify-b lane). Date: 2026-10-26,
-  ~10:09Z measured. Read-only supplement to
+  10:07Z (stamp corrected 2026-10-26: the printed stamp was an unmeasured estimate; corrected to the file's creation-commit time) measured. Read-only supplement to
   deg-psychdim-m2-qc-sample-1026g.md (same session's earlier flag);
   edits no module, ledger, band or gate.
 

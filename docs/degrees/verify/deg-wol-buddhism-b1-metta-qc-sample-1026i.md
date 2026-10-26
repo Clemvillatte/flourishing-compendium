@@ -1,7 +1,7 @@
 # QC sample — buddhism b1 module (Metta Sutta kp9 spans verified on the rendered SuttaCentral carrier)
 
 - Worker: worker-pplx-verify-1026i (deg-verify-b lane). Date: 2026-10-26,
-  ~10:01Z (cloud-browser render; raw fetch is a JS shell that returns
+  09:58Z (stamp corrected 2026-10-26: the printed stamp was an unmeasured estimate; corrected to the file's creation-commit time) (cloud-browser render; raw fetch is a JS shell that returns
   no text — same class as the Perseus note in the suffering-dossier QC
   receipt). Read-only QC sample; edits no module, ledger, band or gate.
 

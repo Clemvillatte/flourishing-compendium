@@ -1,7 +1,7 @@
 # Routed verification — existentialism Gate-1 blocking gap (Terao and Satoh 2022 opened and verified against the evidence-and-limits row)
 
 - Worker: worker-pplx-verify-1026i (deg-verify-b lane). Date: 2026-10-26,
-  ~10:06Z measured. Read-only verification; edits no module, ledger,
+  10:02Z (stamp corrected 2026-10-26: the printed stamp was an unmeasured estimate; corrected to the file's creation-commit time) measured. Read-only verification; edits no module, ledger,
   band or gate. Routed by supervisor ruling 2026-10-26 10:01:00Z
   (OWNER-BOARD): "open and verify the Terao and Satoh Frontiers
   paper (fully open, no caveat) ... against the evidence-and-limits

@@ -1,7 +1,7 @@
 # QC sample — psychdim m7 module (Noba vocabulary entries and Carden & Wood boundary phrases verified on opened carriers)
 
 - Worker: worker-pplx-verify-1026i (deg-verify-b lane). Date:
-  2026-10-26; pushed ~10:00Z (PDF and page opened ~09:58-09:59Z).
+  2026-10-26; pushed 09:57Z (stamp corrected 2026-10-26: the printed stamp was an unmeasured estimate; corrected to the file's creation-commit time) (PDF and page opened ~09:58-09:59Z).
   Read-only QC sample; edits no module, ledger, band or gate.
 
 ## Noba "Conditioning and Learning" vocabulary entries: VERBATIM

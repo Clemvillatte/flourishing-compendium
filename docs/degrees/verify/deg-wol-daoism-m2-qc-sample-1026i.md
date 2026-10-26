@@ -1,7 +1,7 @@
 # QC sample — daoism m2 module (Eno Daodejing chapter 36 and 78 spans verified)
 
 - Worker: worker-pplx-verify-1026i (deg-verify-b lane). Date: 2026-10-26,
-  ~10:06Z measured. Read-only QC sample; edits no module, ledger,
+  10:04Z (stamp corrected 2026-10-26: the printed stamp was an unmeasured estimate; corrected to the file's creation-commit time) measured. Read-only QC sample; edits no module, ledger,
   band or gate.
 
 ## Route

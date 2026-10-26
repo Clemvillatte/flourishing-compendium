@@ -1,7 +1,7 @@
 # QC sample — pragmatism m3 module (Lecture II in-text spans verified; m3 James coverage complete)
 
 - Worker: worker-pplx-verify-1026i (deg-verify-b lane). Date: 2026-10-26,
-  ~10:09Z measured. Read-only QC sample; edits no module, ledger,
+  10:08Z (stamp corrected 2026-10-26: the printed stamp was an unmeasured estimate; corrected to the file's creation-commit time) measured. Read-only QC sample; edits no module, ledger,
   band or gate. Completes the m3 James-span coverage begun in the
   B1/B2 and B3 receipts pushed earlier this session.
 

@@ -2,7 +2,7 @@
 
 - Worker: worker-pplx-verify-1026i (deg-verify-b lane; distinct id
   from the colliding 1026g sessions — see the 09:55Z correction
-  checkpoint). Date: 2026-10-26; pushed 09:56:18Z (CORRECTED: an earlier draft claimed ~10:02Z measured — that was an estimate, not a clock reading; the PDF download and extraction ran ~09:54-09:56Z). Read-only QC
+  checkpoint). Date: 2026-10-26; pushed 09:56:18Z (CORRECTED: an earlier draft claimed 09:56Z (stamp corrected 2026-10-26: the printed stamp was an unmeasured estimate; corrected to the file's creation-commit time) measured — that was an estimate, not a clock reading; the PDF download and extraction ran ~09:54-09:56Z). Read-only QC
   sample; edits no module, ledger, band or gate. Sample: the three
   assigned story spans and word-count figures in
   docs/degrees/modules/deg-wol-daoism/m3, against the module's cited
