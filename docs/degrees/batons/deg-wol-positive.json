@@ -1,0 +1,13 @@
+{
+ "baton": "deg-wol-positive",
+ "agent": "worker-pplx-positive-1026p",
+ "clocked_in": "2026-10-26T09:33:53+00:00",
+ "takeovers": [
+  {
+   "by": "worker-pplx-positive-1026p",
+   "at": "2026-10-26T09:33:53+00:00",
+   "from": null,
+   "reason": "free"
+  }
+ ]
+}
