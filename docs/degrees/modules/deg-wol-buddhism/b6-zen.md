@@ -89,9 +89,9 @@ Buddhists are not interested in meditating; the Pure Land traditions
 offer devotional practice, and the Shingon and Tendai schools focus
 far more on esoteric ritual — said in the talk's opening). Its
 treatment of the Rinzai and Soto approaches is framed through
-individual teachers' views of koan practice (which the lecturer ties
-to Rinzai monks) and zazen and shikantaza (which the lecturer calls
-the Soto practice) — the talk's own examples are Yamada Mumon Roshi,
+individual teachers' views of koan practice and zazen — the lecturer
+ties koan work to Rinzai monks and identifies shikantaza as a Soto
+practice — the talk's own examples are Yamada Mumon Roshi,
 Harada Shodo Roshi, and a Rinzai master who spent decades as a Soto
 monk — rather than a systematic school-by-school comparison, so the
 two-lines-each activity draws the distinction from those examples.

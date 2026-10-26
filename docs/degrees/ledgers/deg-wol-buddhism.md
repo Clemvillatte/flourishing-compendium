@@ -1096,3 +1096,29 @@ assigned segments) therefore remain description-bounded; the supervisor
 route is caption-text retrieval (e.g., a warmed-up browser session) or
 a human listen. Module Boundaries, source table, and band/scope records
 updated; the BLOCKER stands for caption TEXT, not caption existence.
+
+## Second correction round (2026-10-26, worker-pplx-buddhism-1026b, per advisor verification)
+
+Three further scope repairs, superseding the entries above where they
+conflict:
+
+- b9 license: even "Attribution-NonCommercial" is withdrawn — the
+  opened description's license line is truncated at "Creative Commons
+  Attr..."; it establishes neither the terms nor the version. The
+  module now says exactly that.
+- b4 caption existence: downgraded from CONFIRMED to REPORTED — the
+  evidence is a watch-page extraction reporting an English and an
+  English auto-generated track; the literal captionTracks array fell
+  in the truncated portion of the saved extraction, so no directly
+  inspected JSON array backs the claim. The caption TEXT remains
+  unretrieved either way; the two pending content items stay
+  description-bounded.
+- b5 scope note: the Ajahn Sumedho recording (SElyOzgkxjo) remains
+  verified-metadata / CONTENT NOT YET INSPECTED (bounded to its
+  description) and is OUTSIDE any degree-wide "all recordings
+  inspected" claim — the inspection coverage statement for this degree
+  is: b9 complete (full read); b6 and b7 partial (selected passages;
+  b7 Burma/Vipassana passage unread); b4 blocked at the caption-text
+  level; b5 Sumedho not attempted (not routed).
+- OWNER-BOARD blocker line repaired (orphaned commit-message fragment
+  removed; timestamp corrected to the recorded 06:09Z clock).
