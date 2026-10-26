@@ -1922,10 +1922,11 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
 .dossier-chip { font-family:'Fraunces',Georgia,serif; font-size:12.5px; letter-spacing:.03em; color:var(--muted); background:none; border:1px solid var(--line); border-radius:999px; padding:5px 14px; cursor:pointer; transition:color .15s, border-color .15s; }
 .dossier-chip:hover { color:var(--gold-ink); border-color:color-mix(in srgb, var(--gold) 45%, transparent); }
 .dossier-chip.on { color:var(--gold-ink); border-color:color-mix(in srgb, var(--gold) 60%, transparent); background:color-mix(in srgb, var(--gold) 8%, var(--bg)); }
-/* Dossiers page randomiser chip (owner request 2026-10-25): sits at the end
-   of the filter chips, pushed right, gold-tinted to read as an action rather
-   than a filter. */
-.dossier-random { margin-left:auto; color:var(--gold-ink); border-color:color-mix(in srgb, var(--gold) 35%, transparent); }
+/* Dossiers page randomiser chip (owner request 2026-10-25): flows at the end
+   of the filter chips (no auto margin — that orphaned it on a wrapped line,
+   right-aligned, when the chips filled the first row); gold-tinted to read
+   as an action rather than a filter. */
+.dossier-random { color:var(--gold-ink); border-color:color-mix(in srgb, var(--gold) 35%, transparent); }
 .dossier-random:hover { border-color:var(--gold); }
 .dossier-eyebrow { font-size:11px; letter-spacing:.09em; text-transform:uppercase; color:var(--gold-ink); margin-bottom:6px; }
 .dossier-section { margin-top:30px; }
