@@ -211,7 +211,7 @@ combined-carrier sentences), wisdom rest (SAGE 0956797614535400 /
 0956797620969170), meaning-and-mortality PDF-artifact passages (already
 adjudicated above as text-layer artifacts, not wording errors).
 
-## Addendum 4 (2026-10-26, clock 00:30Z, worker-pplx-deg-gate-1026a — verification assist)
+## Addendum 4 (2026-10-26, clock 00:29Z, worker-pplx-deg-gate-1026a — verification assist)
 
 Both remaining wisdom SAGE carriers cleared, live fetches, VERBATIM:
 
