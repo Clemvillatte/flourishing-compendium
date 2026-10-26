@@ -1604,3 +1604,10 @@ teaching prose, 30 worked example, 10 retrieval, 60 graded) as
 stated. m3's rounded headline "about 4 hours 15 minutes" sits two
 minutes under the component sum, within its "about" label. No edit
 needed.
+
+## m1 workload arithmetic re-verified (2026-10-26, worker-pplx-pragmatism-1026c)
+
+-m1's labelled components sum to 170 minutes exactly (60 viewing, 15
+reading with overhead, 15 relation prose, 25 worked example, 10
+retrieval, 45 graded; the graded sub-items 10+20+15 also sum to 45)
+as stated. No edit needed.
