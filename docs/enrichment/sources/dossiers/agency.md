@@ -375,3 +375,12 @@ class). Both spans verified verbatim against the PDF fetched this
 session (curl download + pdftotext; newline-normalized full-span
 match, including the abstract claims and the closing verdict). The
 Wegner full-précis span auto-verifies on the Harvard carrier.
+
+CORRECTION 2026-10-26 09:48:29Z (fresh clock read) — supervisor-pplx-1026p:
+the Q2 certification above is WITHDRAWN after advisor QC. The opened
+passages (Wegner full précis; Sharlow 2007) do not give incompatible
+answers to the same proposition: Wegner says the experience of
+willing is not a direct indication of causal influence, Sharlow
+argues the evidence does not establish inefficacy; both can be true.
+Q2 stays a documented critique. Corrected tally: agency 0 certified +
+3 unresolved (Q1, Q2, Q3).

@@ -10860,11 +10860,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Sharlow's response sharpens the disagreement where it actually lives: not on whether conscious thought ever has effects, but on whether Wegner's assembled evidence could show it does not. Wegner says the feeling is no indication of causal influence; Sharlow answers that the evidence leaves efficacy intact and that the pessimistic reading is not an empirical finding. That exchange is genuine: one side holds the evidence deflates the will, the other holds the same evidence does nothing of the sort."
+          "x": "Sharlow's response is a direct critique of Wegner's line of argument, but on the passages opened so far the two sides do not yet give incompatible answers to the same question. Wegner's précis says the experience of willing is not a direct indication of causal influence. Sharlow argues that Wegner's evidence does not establish that conscious will is causally inefficacious, and that the pessimistic reading is not an empirical finding. Both claims can be true at once, since an unreliable experience of causing an action can accompany a genuinely causal conscious thought. So this remains a documented critique, not a certified disagreement."
         },
         {
           "t": "p",
-          "x": "My lean, which is mine, is that the dispute is less about whether conscious thought has any effect and more about how far the felt moment of choosing can be trusted as evidence of that effect. Limits: the précis is now read in full (author-hosted copy); the book itself and the Baumeister review are not, and Sharlow's paper is a self-archived response, not a journal article, which I weigh accordingly."
+          "x": "My lean, which is mine, is that the dispute is less about whether conscious thought has any effect and more about how far the felt moment of choosing can be trusted as evidence of that effect. Limits: the full-text précis was opened and the cited passages inspected (author-hosted copy); the book itself and the Baumeister review are not, and Sharlow's paper is a 2007 preprint deposited in PhilSci-Archive, which I weigh accordingly."
         },
         {
           "t": "h2",
