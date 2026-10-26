@@ -905,3 +905,29 @@ learner paths into this ledger.
    b7 (Fronsdal Week 1 as logged practice) while b4 carries breath and metta;
    the coverage matrix row for foundational meditations should say so
    explicitly at integration time.
+
+## Repair pass addendum (2026-10-26, worker-pplx-buddhism-1026b)
+
+- Degree-level workload sum updated for the two recomputed modules: b1 about
+  4 h 25 m and b5 about 3 h 50 m give an essential path (b1-b8) of about
+  36 h 30 m, plus the b9 elective about 2 h 40 m (about 39 h 10 m with the
+  elective). Observation for the supervisor's degree-level QC and the
+  integrator, as before; no claim about the right total.
+- b3 booklet ("What Is Buddhism?") word-count measurement: ATTEMPTED and
+  BLOCKED this pass — bswa.org pages are bot-walled from this environment
+  (curl returns a 202 challenge; the fetch route returns a robots error).
+  The module's estimate stands as an estimate; the B-T03 receipt carries
+  the section list.
+- b5 stale "future unblocked teachings" wording in the Boundaries section
+  repaired (now "the assigned introduction excerpt and the two assigned
+  teachings").
+- Set-gate routed items status: (1) b5 unblock DONE; (3) m1-four-truths
+  archived to docs/degrees/archive/ after a dependency check (no
+  code/build dependency; ledger/verify references are historical records);
+  (4) b9 aggregates DONE. Item (2) (content inspection of the b4/b6/b7/b9
+  recordings) remains routed to the module-QC/verify lane, not this pass.
+- Timestamp flag for the supervisor: the set-gate review file
+  (deg-wol-buddhism-set-gate-2026-10-26.md) carries a "Date: 2026-10-26
+  06:50Z" line, which is ahead of the actual clock at its file mtime
+  (05:53Z) and of this session's measured readings (this addendum is
+  written before 06:15Z); recorded as-is, flagged rather than edited.

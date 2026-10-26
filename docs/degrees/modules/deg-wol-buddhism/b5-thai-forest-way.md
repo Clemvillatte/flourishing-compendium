@@ -147,8 +147,8 @@ of the module.
 ## Boundaries and passing mentions
 
 The Ajahn Chah collection contains material on rebirth and karma in the
-Thai Forest register; the assigned introduction excerpt (and any
-future unblocked teachings) handles it as the tradition's own frame, and the walk's exclusion rule still applies (passing
+Thai Forest register; the assigned introduction excerpt and the two
+assigned teachings handle it as the tradition's own frame, and the walk's exclusion rule still applies (passing
 mention, no cosmology unit). The module teaches one school from
 inside; the comparative work (Zen, Insight, Secular) is b6-b7, and no
 claim is made here that the Thai Forest way is the walk's preferred
