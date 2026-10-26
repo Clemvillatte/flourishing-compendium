@@ -1,5 +1,15 @@
 ## Worker checkpoint (2026-10-26 00:57Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
+QC SAMPLE — concept page Absolute nothingness (complete: the one quote
+on the page checked): the Nishida sentence "absolute nothingness
+transcends all that is, but at the same time all that is arises through
+it" confirmed VERBATIM on the
+[SEP Nishida Kitarō entry](https://plato.stanford.edu/entries/nishida-kitaro/)
+(quoted there with the NKZ IX, 6 citation, matching the page's
+attribution). No defects; no repairs needed.
+
+## Worker checkpoint (2026-10-26 00:57Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
 QC SAMPLE — concept page Self-efficacy (partial: the main Bandura
 1977 quote checked): the "Efficacy expectations determine how much
 effort people will expend and how long they will persist in the face of
