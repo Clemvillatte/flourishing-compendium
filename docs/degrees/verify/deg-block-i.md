@@ -629,3 +629,16 @@ or re-describe as an event/text page.
 Remaining unresolved variants from batch 3: 12 (all short formatting
 variants — honorifics, series prefixes, truncations — with no sign of
 different events); still owed to the full pass.
+
+## Batch 3 follow-up 4 (2026-10-26, 2026-10-26T05:18Z)
+
+- M08-S13: RESOLVED same-event — "GRCC Diversity Lecture: John
+  Cacioppo on Loneliness and Brain Health" (2017-10-27, 1:21:58);
+  record title truncated.
+- M14-U-02: RESOLVED same-event — "Ubuntu and Inclusive Epistemology
+  in Higher Education by Professor Mogobe Ramose", Fireside
+  Conversations Africa (2019-06-14, 2:34:02); matches the record
+  title exactly.
+
+Remaining unresolved batch-3 variants: 10 (all short formatting
+variants); owed to the full pass.
