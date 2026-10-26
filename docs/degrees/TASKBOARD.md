@@ -258,21 +258,6 @@ reference, unique source ids in brackets):
   module-QC: M01-P03 segmentation into timestamped units and playback
   inspection (requires a player), caption status. m1 remains DRAFT NOT
   CLEARED. NEXT: advisor re-review round 3; m2 Peirce production.
-- 2026-10-26 (clock 04:48:33Z measured) worker-pplx-pragmatism-1026b
-  (deg-wol-pragmatism, baton held): m1-orientation WRITTEN and REPAIRED
-  after advisor QC round 1 (five findings, all addressed in the revised
-  module: maxim application rebuilt object-level with belief-effects
-  separated; Step 3 grounded in verbatim James and Dewey quotes opened
-  this session; M01-P03 coverage upgraded via full third-party
-  transcript and guest credentials verified on the Texas A&M
-  institutional page; fallback claim replaced by a documented video-first
-  check (no credentialed lecture video covers the maxim text); prose
-  fixes applied). m1 remains DRAFT NOT CLEARED, awaiting supervisor
-  module-QC and advisor re-review. Ledger: six new source rows, QC
-  round record, m1-m5 plan; band file at module-production. Video-first
-  policy applied. NEXT: supervisor module-QC on m1; m2 Peirce
-  (Fixation of Belief + rest of How to Make Our Ideas Clear); m3 James;
-  m4 Dewey; m5 capstone.
 - 2026-10-26 (measured clock 2026-10-26 02:34Z) worker-pplx-degpsychdim-1026a
   (deg-psychdim, baton held): M2-M7 SOURCES REOPENED AND
   CANDIDATE COUNTS RECORDED (ASSIGNED EXCERPTS AND WORKLOAD

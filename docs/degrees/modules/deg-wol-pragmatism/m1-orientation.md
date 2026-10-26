@@ -97,12 +97,16 @@ paragraphs, with each figure's own words where the walk has opened them.
 Test it against your notes from the video.
 
 Peirce, a logician working on the sciences, asked where beliefs come
-from and how they settle. Doubt is an unsettled state that experience
-disrupts us with, belief is a settled habit of expectation, and inquiry
-is the process that moves us from one to the other (the frame of his
-[How to Make Our Ideas
+from and how they settle. In the essay you read, the action of thought
+"is excited by the irritation of doubt, and ceases when belief is
+attained", so that "the production of belief is the sole function of
+thought"; belief itself "involves the establishment in our nature of a
+rule of action, or, say for short, a habit", and "the essence of
+belief is the establishment of a habit"; and because belief is a rule
+for action, it is "also a new starting-place for thought" ([How to
+Make Our Ideas
 clear](https://en.wikisource.org/wiki/How_to_Make_Our_Ideas_Clear),
-whose maxim you read in Step 2); the maxim is his instrument for making
+whose maxim you read in Step 2). The maxim is his instrument for making
 ideas clear enough to be tested. On the
 [episode](https://www.youtube.com/watch?v=ksLO4i5pIBM), McDermott puts
 Peirce's view of truth this way: it is
@@ -347,8 +351,18 @@ counted.
 
 ## Verification status of attached sources
 
-Both attached sources are verified to the skill's section-4 standard
-with evidence and dates in ledgers/deg-wol-pragmatism.md:
+The two attached sources carry different verification states. The
+Peirce text is verified to the skill's section-4 standard. The
+Philosophy Talk video is a CANDIDATE WITH VERIFICATION INCOMPLETE:
+the 2026-10-25 verification in
+docs/degrees/verify/deg-philosophy.md stands as historical evidence (identity and access by oembed, duration
+49:24 from the watch page), and this session's upgrades are recorded
+below, but three items remain open and are named here: playback
+inspection, segmentation into timestamped units with practice between
+assigned units, and caption status. The whole-episode assignment is
+PROVISIONAL, standing until segmentation is done; it is not an
+accepted substitute for it. Evidence and dates for everything in this
+section are in ledgers/deg-wol-pragmatism.md:
 
 - Philosophy Talk, American Pragmatism (YouTube, ksLO4i5pIBM): the
   episode was verified 2026-10-25 in
@@ -375,11 +389,13 @@ with evidence and dates in ledgers/deg-wol-pragmatism.md:
   bot-check dialog, "Sign in to confirm you're not a bot"; an
   anonymous page fetch returned the watch page with the player data
   withheld, empty videoDetails and no chapter markers). Playback
-  inspection and segmentation into timestamped units therefore remain
-  PENDING, with the failure documented here; the duration rests on the
-  2026-10-25 watch-page measurement, and the whole-episode assignment
-  stands. Status: verified-video with those items incomplete and
-  routed to the supervisor module-QC.
+  inspection, segmentation into timestamped units with practice
+  between assigned units, and caption status therefore remain
+  INCOMPLETE, with the failure documented here; the duration rests on
+  the 2026-10-25 watch-page measurement, and the whole-episode
+  assignment is provisional as above. Status: candidate with
+  verification incomplete on those items, routed to the supervisor
+  module-QC.
 - Peirce, How to Make Our Ideas Clear (Wikisource, public domain,
   1878): opened this session (2026-10-26); the assigned excerpt was
   read on the opened page, the maxim sentence confirmed verbatim, the

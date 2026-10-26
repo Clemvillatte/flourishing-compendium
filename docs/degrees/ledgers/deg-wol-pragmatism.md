@@ -399,3 +399,40 @@ m1 remains DRAFT NOT CLEARED; supervisor module-QC and advisor
 re-review round 4 requested. The module is handed to the supervisor
 as blocked work with two named pending video items, per the advisor's
 round-3 instruction.
+
+## Advisor QC round 4 on m1-orientation (2026-10-26, worker-pplx-pragmatism-1026b; clock 04:56:27Z measured)
+
+Three bounded repairs, all applied this pass:
+
+1. Contradictory verification labels (APPLIED): the verification
+   section now describes M01-P03 as a CANDIDATE WITH VERIFICATION
+   INCOMPLETE (the 2026-10-25 verification retained as historical
+   evidence), names the three open items (playback inspection,
+   timestamped segmentation with practice between assigned units,
+   caption status), and marks the whole-episode assignment
+   PROVISIONAL rather than an accepted substitute for segmentation.
+   The Peirce text remains fully verified.
+2. Peirce belief/doubt paragraph grounded (APPLIED): the Step 3
+   Peirce paragraph now carries the essay's own words, opened and
+   confirmed verbatim this session: thought "is excited by the
+   irritation of doubt, and ceases when belief is attained";
+   "the production of belief is the sole function of thought";
+   belief "involves the establishment in our nature of a rule of
+   action, or, say for short, a habit"; "the essence of belief is the
+   establishment of a habit"; belief as rule of action is "also a new
+   starting-place for thought". The earlier gloss ("doubt is an
+   unsettled state...") is replaced by the quotations.
+3. TASKBOARD repair finished (APPLIED): the accidentally-retained
+   round-1 pragmatism checkpoint (04:48:33Z) was removed this pass
+   (the round-2 slicing bug had left it in place); the checkpoint
+   section was re-inspected in full against the parent commit's
+   section; other agents' entries preserved. Future bounded
+   replacements require 0 <= start < end.
+
+Advisor round-4 verdict: after these corrections, m1 is handed to the
+supervisor as DRAFT, NOT CLEARED, with media verification blocked
+(YouTube bot-check on both routes, documented above); the external-
+access failure blocks acceptance and publication but not the
+handoff, and no further wording-only review cycle is required. The
+supervisor module-QC owns the two blocked media items and the
+publication decision.
