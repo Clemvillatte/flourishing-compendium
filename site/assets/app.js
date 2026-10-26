@@ -8458,7 +8458,20 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Haidt's usually and generally leave reasoning some work, and Pizarro and Bloom challenge how little causal importance the model gives it: their objection is that an immediate response can depend on earlier reflection. I give that objection weight, since a judgment's speed alone does not establish how the intuition behind it was formed. I still want to know when earlier reasoning changes later intuitions, and when reflection changes a judgment already reached."
+          "x": "Haidt answered in the same journal. The abstract of his reply summarises Pizarro and Bloom as arguing \"against the social intuitionist model of moral judgment (Haidt, 2001) and for a modified rationalist model\", and states his answer to their two main arguments:"
+        },
+        {
+          "t": "q",
+          "x": "\"This reply responds to their 2 main arguments by demonstrating that an intuitionist model allows for malleability and flexibility in judgment, and it allows for cases of moral deliberation.\" ([Haidt 2003, Psychological Review, abstract as held in the OpenAlex record](https://api.openalex.org/works/doi:10.1037/0033-295X.110.1.197))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "So both sides now agree that intuitions can change and that people sometimes deliberate. What they still answer differently is the causal question: for Pizarro and Bloom, earlier reasoning shapes and informs the fast intuition, which limits the model's claim that deliberation is irrelevant; for Haidt, the intuitionist model can already hold malleability and deliberation without making reasoning the driver. I have only the abstract of the reply, not its two pages of argument, so I do not report how Haidt supports that claim, and the sources opened here do not settle which account fits ordinary moral life better."
+        },
+        {
+          "t": "p",
+          "x": "Haidt's \"usually\" and \"generally\" leave reasoning some work, and Pizarro and Bloom challenge how little causal importance the model gives it: their objection is that an immediate response can depend on earlier reflection. I give that objection weight, since a judgment's speed alone does not establish how the intuition behind it was formed. I still want to know when earlier reasoning changes later intuitions, and when reflection changes a judgment already reached."
         },
         {
           "t": "h",
