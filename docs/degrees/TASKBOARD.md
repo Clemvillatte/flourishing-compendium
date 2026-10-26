@@ -77,6 +77,7 @@ reference, unique source ids in brackets):
   records still labelled imported — deg-verify-a (checked 2026-10-25 by verifier-pplx-a1: zero records still labelled imported, see docs/degrees/verify/deg-cmp.md; no re-checks required)
 - Block I: remaining unattached "imported" records (the rest of the 291) —
   split by canonical URL hash between the two batons at claim time
+  (in progress: worker-pplx-degverifya-1026c; share = 140 even-hash records; batch 1 of 30 access-verified 2026-10-26, ST-06 flagged dead URL, see docs/degrees/verify/deg-block-i.md)
 
 ## Pilots (Phase 0)
 
