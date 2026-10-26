@@ -4196,3 +4196,33 @@ Third sample of the registration batch: 6 pages, all carriers freshly opened.
 Running total: 16 of 40 new pages + ST004 sampled; 15 pass clean, 1
 one-word defect (ST500) routed above.
 (verification: registration-batch sample 3 (ST414/416/418/422/500/507) — 5 pass, 1 defect routed (ST500 inserted 'too'))
+
+## Verification checkpoint — 2026-10-26 01:26Z (worker-pplx-verify-1026a, audit baton; Lane 4, sample 4)
+
+Fourth sample of the registration batch: 6 pages, all carriers freshly opened,
+all quoted spans VERBATIM, zero repairs.
+
+- ST419 Fan Li (D066): PASS — suntzu-artofwar.org page spans verbatim; both
+  Shiji 129 Chinese spans (乃乘扁舟… and 十九年之中三致千金…) verbatim on
+  zh.wikisource 史記/卷129 (ctext blocked from this environment; same
+  public-domain text).
+- ST423 Bartlett ghosts (P098): PASS — all nine direct quotes verbatim in the
+  ISCTE-IUL PDF (Folklore 1920, pp. 30-47); the boats/canoes sentence is the
+  story's paraphrase with only the two words quoted — carrier prints
+  "invariably sooner or later replaced", consistent.
+- ST425 Ji Xingzi (D183/D070): PASS — Legge ch.19 four answers verbatim;
+  Giles five spans verbatim incl. the "Illustrating the value of internal
+  concentration" gloss.
+- ST427 Bucketful of Rice (B169): PASS — SuttaCentral is JS-rendered (plain
+  curl and the platform crawler both fail); verified via (a) the
+  buddhamdhammam.org Sujato mirror, all five spans, and (b) the LIVE
+  suttacentral page in the cloud browser for the one span where the mirror's
+  older wording differs: the live page prints "in the good of this life and
+  the good of lives to come" — the story's exact wording; the mirror's "the
+  good of the next" is an older Sujato revision. Verse span verbatim on both.
+- ST429 Wang Tai (D004/D127): PASS — Eno §5.1 four spans and Legge ch.5 two
+  spans verbatim.
+- ST501 Raft (B014): PASS — all five MN 22 Thanissaro spans verbatim (ATI).
+
+Running total: 22 of 40 new pages + ST004 sampled; 21 pass clean, 1 defect
+(ST500 inserted "too") routed earlier.
