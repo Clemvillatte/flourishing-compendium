@@ -535,3 +535,44 @@ flags.
   and 71-word counts are the owner's measurements (butterfly count
   67 verified earlier; the 71-word figure likely includes the
   section header — minor, not flagged).
+
+### Neiye candidate source verified (2026-10-26T07:40Z; verify-pplx-w3-1026a, deg-verify-a)
+
+For the m1-admitted inward-training gap (no verified Neiye source
+attached) and the proposed Neiye elective:
+
+- **Candidate: Robert Eno, "Guanzi: The Inner Enterprise (Neiye)",
+  2005.** Opened and read this session at
+  https://dyhr.com/qigong/Neiye.pdf (free, no paywall, no login). The
+  document prints the translator's signature and date on its face
+  ("R. Eno, Indiana University, 2005") and contains Eno's full
+  introduction (Jixia academy background, the note that the Fall 2005
+  P/E374 offering did not cover the text, the pointer to Roth's
+  Original Tao as the scholarly study) plus the complete translation
+  in Eno's 18-section arrangement (~3,177 words extracted this pass;
+  section titles are Eno's own additions for readability, as his
+  introduction states). Eno is the same translator whose Daodejing and
+  Zhuangzi Inner Chapters translations this walk already uses and has
+  verified.
+- **Hosting caveats, recorded honestly:** the dyhr.com copy is a
+  third-party course posting of Eno's document, not the translator's
+  own hosting; it prints NO licensing statement (Eno's other
+  translations carry educator-licensing statements; this copy does
+  not). The canonical IU hosting
+  (chinatxt.sitehost.iu.edu/Thought/Inner_Enterprise.pdf) is currently
+  unreachable over verified TLS from this environment (certificate
+  hostname mismatch), and the older www.indiana.edu/~p374/ URLs are
+  legacy references.
+- **Alternative with unambiguous licensing: Bruce R. Linnell, "Guanzi,
+  Number 49: Study of Inner Cultivation" (2011), Project Gutenberg
+  e-book #38585 (public domain, free).** Located in search this pass;
+  not opened full-text this pass, so it is a located candidate, not a
+  verified receipt.
+- **Recommendation to the m4/m5 owner:** attach Eno's Neiye (same
+  translator as the walk's core texts, free access, full text
+  verified this pass) with the hosting/licensing caveat above
+  recorded in the module's verification section, or Linnell via
+  Gutenberg if a licensing statement on the face of the document is
+  required. Video-first: no credentialed Neiye lecture was searched
+  this pass; m4 production may search for one before falling back to
+  the primary text (the video-first policy allows the fallback).
