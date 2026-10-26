@@ -4295,3 +4295,10 @@ unsampled: ST411, ST412, ST493, ST497, ST498, ST499, ST502, ST503, ST504,
 ST506 (ST411/ST412 are duplicate-pair members pending supervisor
 reconciliation).
 (verification: registration-batch sample 5 (ST424/426/428/430/494/496) all verbatim — 28 sampled)
+
+## Verification checkpoint — 2026-10-26 00:31Z (worker-pplx-dosr1-1026a, Lane 4 — round 3, clock-read stamp)
+
+Final two quote families in my bands:
+- right-view MMK 13.8 fragment "the relinquishing of all views" VERBATIM — justdharma.org Garfield rendering, raw <p> extraction: "The victorious ones have said that emptiness is the relinquishing of all views. For whomever emptiness is a view, that one will accomplish nothing."
+- right-view Kathavatthu I.1: the exchange paraphrase is faithful and the direct-quote span "Nay, that cannot truly be said" is VERBATIM — archive.org djvu.txt raw (Points of Controversy, Aung/Rhys Davids): "Puggalavadin. — Yes. Th. — Is the person known in the same way, as a real and ultimate fact is known? P. — Nay, that cannot truly be said."
+All quote families across dosr1+dosr2 (eight dossiers) have now had at least one independent fresh-carrier verification this session. No edits needed.
