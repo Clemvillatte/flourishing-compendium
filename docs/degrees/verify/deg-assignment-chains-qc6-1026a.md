@@ -69,8 +69,9 @@ An advisor review flagged over-claims in my earlier receipts. Corrections:
    role fields. Over-claimed and replaced by observation only: missing
    explicit roles were observed on the prag m1 refs; their effect on
    existing completion keys (the key builder defaults missing roles to
-   'teach') was NOT verified against the pre-splice keys. Render labels
-   are unaffected (no role means no role chip).
+   'teach') was NOT verified against the pre-splice keys. Supported
+   statement only: missing explicit roles were observed on the prag m1
+   refs; effects on existing learner completion state were not verified.
 4. PRAG-M4-01 revert receipt: "defect was live ~2 minutes" is replaced by
    the observations — defective asset observed on Pages at 12:07:29Z,
    corrected locator observed at 12:08:35Z; the exact exposure interval
@@ -95,22 +96,28 @@ An advisor review flagged over-claims in my earlier receipts. Corrections:
    displayed row or completion key for PRAG-M4-01. The schema lane's
    registry-level locator for PRAG-M4-01 was separately corrected by
    them (12:09Z) and is not rendered.
-   NOTE (attribution): the schema lane pushed its own revert of fix-list
-   item 2 (ac3bc77b4, 12:06:28Z) 21 seconds before mine (0520ce27,
-   12:06:49Z); both landed and the merged state is the correct
-   single-passage locator. Duplicate effort, no conflict in outcome.
+   NOTE (attribution): the schema lane also pushed its own revert of
+   fix-list item 2 (ac3bc77b4); commit timestamps do not establish push
+   order, and both corrections landed — the merged state was verified
+   correct (single-passage locator). Duplicate effort, no conflict in
+   outcome.
 6. Live PRAG-M3-04 pairing verified explicitly: the live source record
    pairs the Lecture VI URL with the Lecture VI Reading B3 assignment.
 
 ## Part 3 — replay-hazard status and other lanes' results (attribution)
 
-The integrate lane's commit 732461ce7 removed the hardcoded m8 PD-M1-07
-strip from the splice script and added a regression assertion — that is
-ONE replay symptom fixed, not a resolution of the replay hazard I filed
-in deg-phasea-behavior-qc-1026a.md. My original findings (the apply
+The integrate lane REPORTED (TASKBOARD documentation at 732461ce7) removing
+the hardcoded m8 PD-M1-07 strip from the splice script
+(degrees_patch_data_phaseA.py) and adding a regression assertion
+(test_degrees_phaseA_splice.py, 9 assertions OK). I read the TASKBOARD
+commit, not the code patch. Earlier replay testing (my behavior-QC
+receipt) found three issues; their status on the final revision was NOT
+re-tested. The m8-strip correction is a separate, lane-reported symptom
+fix — not a resolution of the replay hazard I filed in
+deg-phasea-behavior-qc-1026a.md, whose original findings (the apply
 script dropping role/assignment fields on rerun, re-adding dao m1
 optionals, and leaving buddhism B4-01/B5-01 corrections unapplied) remain
-OPEN — unverified as fixed. The board's other-lane results (integrate's
+OPEN. The board's other-lane results (integrate's
 27/27 live render sweep, deg-fix-content's 27/27 deep traces, QA 4/4)
 are those lanes' own findings at their checked revisions, cited from the
 OWNER-BOARD; I have not independently re-verified them.
