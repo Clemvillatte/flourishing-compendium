@@ -2,14 +2,15 @@
  "band": "deg-psychdim",
  "kind": "degree",
  "holder": "degree-4376b4ec",
- "phase": "gate1-and-coverage-cleared-m1-module-pass-m2-m5-drafted",
+ "phase": "gate1-and-coverage-cleared-m1-module-pass-m2-m6-drafted",
  "modules": {
   "m1-orientation": "independent supervisor MODULE-QC PASS at cdb8f0939; three nonblocking alignment labels fixed. 249 estimated minutes. Not complete-degree/publication clearance.",
   "m2-affective": "draft-not-cleared; adviser repairs and supervisor cultural-functions return repaired in 6bf08d3cb; rereview owed; 274 estimated minutes",
   "m3-cognitive": "draft-not-cleared; four adviser repair groups applied in c13977b41; supervisor review owed; 290 estimated minutes",
   "m4-attentional": "draft-not-cleared; incorrect draft recording identities withdrawn/corrected against raw watch pages in 4210b197e; adviser reading/navigation/assessment fixes applied; supervisor review owed; 265 estimated minutes",
-  "m5-self-and-identity": "draft-not-cleared; finite video substitutions, SCCS scoring, domain chart, lived trait account, independent inquiry and EEMM/FAP distinction; adviser QC commissioned; 300 estimated minutes"
+  "m5-self-and-identity": "draft-not-cleared; SCCS/domain chart/lived trait inquiry/EEMM; adviser failed for credits, independent review owed; 300 estimated minutes",
+  "m6-motivational": "draft-not-cleared; 20:20 outcome-specific clips, six-form SDT, regulation goals/control-value, actual 2025 designs/effect/sample/horizon limits and own-goal plan; independent review owed; 256 estimated minutes"
  },
- "notes": "2026-10-26 05:15Z degree-4376b4ec: M1 module-QC passed; M2-M5 are drafts at the stated review/repair stages. M6-M8 unwritten. Scope and coverage clearances unchanged. No integration or publication request until the complete degree passes independent review.",
- "updated": "2026-10-26T05:15:00Z"
+ "notes": "2026-10-26 05:19Z degree-4376b4ec: M1 module-QC passed; M2-M6 are drafts at the stated review/repair stages. M7-M8 unwritten. Scope and coverage clearances unchanged. No integration or publication request until the complete degree passes independent review.",
+ "updated": "2026-10-26T05:19:00Z"
 }

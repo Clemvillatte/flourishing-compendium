@@ -2845,6 +2845,51 @@ token receipt. Advisor QC was commissioned but the adviser failed
 for unavailable credits before returning findings. Do not claim an
 advisor pass. Supervisor independent module-QC owed; **DRAFT, NOT CLEARED**.
 
+### M6 production checkpoint, degree-4376b4ec, 05:19Z
+
+`modules/deg-psychdim/m6-motivational.md` drafted. New theory uses L2
+guided application as approved, after M5's independent inquiry; worked
+Nia -> completion tasks -> unused Rowan plus own-goal analysis.
+All approved motivation rows retained: six-form SDT and three basic
+needs; hedonic/instrumental versus explicitly proposed eudaimonic
+goals and control-value; adherence comparison and own-goal plan.
+
+Parent reopened all four unprocessed watch pages and read the selected
+continuous transcript windows, plus four independent institutional
+profiles. Runtime **20:20**: Ryan5:17+5:27, Tamir5:22, Pekrun3:11,
+Fishbach1:03. No playback claim. Ryan names integration but does not
+separately define it in the clip; preprint residual supplies that.
+Pekrun recognition errors repaired with clean labels, not quoted as
+theory; Fishbach2023 is not represented as presenting a 2025 study.
+([Ryan](https://www.youtube.com/watch?v=ww4QGMV94A8);
+[Tamir](https://www.youtube.com/watch?v=6R2ALQfEZwA);
+[Pekrun](https://www.youtube.com/watch?v=igSLOQoWuPQ);
+[Fishbach](https://www.youtube.com/watch?v=tB5J9qgM2zI).)
+
+Reading residuals: Ryan/Deci Figure1, precise value/integration/
+amotivation paragraph and first multiple-motives paragraph; Martínez-
+Priego's exact goal-classification sentence, bounded Results finding
+and empirical-consolidation sentence; Woolley abstract, Study2 opening,
+final pre-Study3 paragraph, Study3 Procedure, Study4 opening/exclusion
+paragraph/first two Results paragraphs, and open-questions paragraph.
+Parent opened all full sources and read these passages and study
+context. Correct distinctions: **Study1 U.S. year; Study2 China one
+month; Study3 retrospective past14-day step entries checked against
+two screenshots; Study4 randomised framing with24-hour follow-up**.
+No conflation into a year-long cross-national RCT.
+Study4 n763 after primary exclusions, mean11.55 vs9.18, d0.21
+95%CI[0.07,0.36]; null zero/nonzero hurdle result carried into
+practice and assessment. No app endorsement or better-health inference.
+([SDT preprint](https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf);
+[goals review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/);
+[actual original research](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/).)
+
+Workload estimate36+40+35+45+20+80=**256 minutes**, with explicit
+estimated reading ranges/rates/overhead and20:20 video arithmetic.
+Every outcome has feedback, unused-case assessment and private lived
+usefulness/uncertainty transfer. Adviser unavailable as recorded
+under M5; independent module-QC owed, **DRAFT, NOT CLEARED**.
+
 M1 independent supervisor decision consumed at 05:02Z:
 `reviews/deg-psychdim-m1-supervisor-2026-10-26.md` records **MODULE-QC
 PASS** on production commit **cdb8f0939**, module SHA-256

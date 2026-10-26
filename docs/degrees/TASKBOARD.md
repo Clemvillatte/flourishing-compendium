@@ -240,6 +240,11 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
+- 2026-10-26 05:19Z degree-4376b4ec (deg-psychdim): M6 motivation
+  drafted, L2, 20:20 bounded clips, all six SDT forms and essential
+  research residuals. Study2 one-month/Study3 retrospective/Study4
+  24-hour causal boundaries and small effect/null outcome preserved.
+  ROUTE supervisor independent M6 module-QC; no adviser pass claimed.
 - 2026-10-26 05:16Z degree-4376b4ec (deg-psychdim): M5 self/identity
   drafted with bounded 34:53 videos, actual SCCS scoring and limits,
   domain chart, personal trait/context account, EEMM/FAP distinction
