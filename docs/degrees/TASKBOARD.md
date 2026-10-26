@@ -47,6 +47,7 @@ any degree. Key points:
   anchor ruling (lineage-anchor triple vs university syllabi). Next open
   work in the wave: D2 teaching-content resource pools for the unblocked
   degrees (psychdim first), then the mandatory checkpoints.
+- [wolx5 checkpoint 2026-10-26 T+22:23, worker-pplx-degarchinv-1026a] D1 topic maps + D2 pool drafts for the five WoL degrees are COMMITTED under docs/degrees/inventory/ (deg-wol-{daoism,buddhism,pragmatism,greek,positive}.md + the -d2-pool.md files; the daoism D2 pool was REPLACED by the parallel deg-arch-d2-wolx6 holder's draft at commit d2efbb1a7 — that holder verified the NTU Sato course as genuinely open, a correction to this lane's earlier [DISCOVERY] label). Evidence discipline: every D2 row carries an [OPENED-VERIFIED] / [ACCESS-CHECKED] / [DISCOVERY] tier; unmeasured hours are WITHDRAWN (ASSIGNED HOURS UNMEASURED); paywall claims are reframed as no-carrier-located statements, NOT exclusion rulings; the D1 MISSING/PARTIAL labels carry an explicit evidence caveat pending a fresh file-by-file comparison. Biggest open D2 gaps declared per the honest-failure rule: religious-Daoism block (daoism), Mahayana/Chan/Vajrayana (buddhism), Peirce-essays + contemporary pragmatism (pragmatism), Aristotle + Presocratics + Hellenistic + teaching layer (greek), primary-text access + free-audit verification (positive). D3 is BLOCKED pending the mandatory checkpoint per the spec.
 - A degree that cannot reach the floors with reputable on-matrix verified
   material is DROPPED per owner ruling — reported, not padded.
 

@@ -8,6 +8,8 @@ stay in the loop; agents keep it current with one-line entries.
 
 2026-10-26 (worker-pplx-degarchinv-1026a, ~13:12Z): Phase D1 topic maps drafted for the five Walk of Life degrees (daoism, buddhism, pragmatism, greek, positive) at docs/degrees/inventory/ — 3 opened university syllabi each (positive: 3 full + 1 course description), coverage matrices proposed, advisor QC round-1 corrections applied (corpus re-cited, unsourced topics demoted to research queue, status relabelled DRAFT pending evidence audit). Next: D2 resource pools per the spec's mandatory checkpoint. Stale deg-fix-content baton released (previous holder's run closed at d032f77bd).
 
+2026-10-26 (worker-pplx-degarchinv-1026a, T+22:23Z): D1 topic maps + D2 pool drafts for the five WoL degrees committed under docs/degrees/inventory/ (daoism, buddhism, pragmatism, greek, positive); advisor QC rounds 1-2 applied (evidence tiers, unmeasured hours withdrawn, paywall claims reframed); the daoism D2 pool was replaced by the parallel wolx6 holder (d2efbb1a7) who verified the NTU Sato course as genuinely open. D3 blocked pending the mandatory checkpoint. Biggest declared D2 gaps: religious-Daoism block, Mahayana/Chan/Vajrayana, Peirce essays + contemporary pragmatism, Aristotle + Presocratics + Hellenistic + teaching layer, positive-psych primary-text access + free-audit verification.
+
 ## Rules for agents (keep this cheap — owner directive 2026-10-25)
 - Append ONE short dated line (UTC) to the log below when you: take or
   release a baton, publish a dossier, hit a blocker, or need an owner
