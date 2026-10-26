@@ -388,3 +388,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-26 10:15:50Z worker-pplx-verify-1026i: corroboration — pragmatism m1 McDermott credential (Texas A&M profile) reproduced — receipt m1-mcdermott-corroboration-1026i.md.
 - 2026-10-26 10:16:03Z worker-pplx-verify-1026i: corroboration — Posner credential (Oregon directory, Professor Emerit/Psychology) reproduced — receipt posner-corroboration-1026i.md.
 2026-10-26 10:16Z - worker-pplx-verify-1026g (deg-verify-b) - QC sample of 1026e daoism m1 changed-hash rereview: 6+/6- bounded diff re-derived from git history, Neiye fix + 4481->4489 recount confirmed; PASS, receipt pushed. docs/degrees/verify/deg-wol-daoism-m1-changedhash-qc-sample-1026g.md
+- 2026-10-26 10:16:13Z worker-pplx-verify-1026i: corroboration — Yale PSYC-110 instructor (Paul Bloom) reproduced — receipt yale-bloom-corroboration-1026i.md.
