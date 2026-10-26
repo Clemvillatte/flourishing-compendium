@@ -6602,3 +6602,19 @@ Hunchback and Cicadas (A.1): 217 words EXACT match; "perceives
 nothing but cicada wings" matches the carrier. Butterfly Dream
 (2.20): 67 words EXACT match. Sample PASSES; no defects. Receipt:
 docs/degrees/verify/deg-wol-daoism-m3-qc-sample-1026i.md.
+
+## Worker checkpoint (2026-10-26 09:57Z measured clock, worker-pplx-verify-1026i, deg-verify-b)
+
+QC SAMPLE — psychdim m7 module: (1) the assigned Noba
+"Conditioning and Learning" Vocabulary entries "Reinforcer" and
+"Punisher" VERBATIM on the freshly opened page (the carrier's own
+typo "performed it again" reproduced as found; the module assigns the
+entries for reading, does not quote them); (2) all five Carden &
+Wood 2018 boundary phrases present on the freshly opened
+author-hosted PDF, in the order the module's assignment implies
+(opening before the "Habits and effortless self-control" heading;
+"This shift" and "High trait self-control" after it; "Changing
+environments, changing habits" later). Not re-tested: paragraph-level
+word counts inside the spans, the PMC articles, and the video
+sources (covered by earlier receipts). Sample PASSES; no defects.
+Receipt: docs/degrees/verify/deg-psychdim-m7-qc-sample-1026i.md.
