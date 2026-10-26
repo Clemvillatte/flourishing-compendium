@@ -1,3 +1,27 @@
+## Worker checkpoint (2026-10-26 02:29Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
+QC SAMPLE — concept page Oikeiosis (complete: all five quoted spans
+checked): the SEP Stoicism §4.6 spans — the doctrine definition ("the
+Stoics rely on their doctrine of oikeiôsis ('appropriation' or
+'affiliation'; the Greek term suggests a process whereby objects come to
+be recognized as oikeion – as 'appropriate' or 'affiliated' or
+'belonging' to the creature in question)"), the self-preservation span,
+the first-oikeion span, "reason supervenes as the craftsman of impulse"
+(Diogenes Laertius 57A), and the Cicero offspring-concern span — all
+confirmed VERBATIM on the opened [SEP Stoicism entry](https://plato.stanford.edu/entries/stoicism/)
+(section 4.6). No defects; no repairs needed.
+
+QC SAMPLE — concept page Ockham's razor (complete: all five quoted spans
+checked): the IEP section-2 spans — the definition ("Ockham's Razor is
+the principle of parsimony or simplicity according to which the simpler
+theory is more likely to be true."), "Entities should not be multiplied
+beyond necessity", "It is useless to do with more what can be done with
+less", the theories-explain-and-predict span, and "Ockham never makes
+this assumption" — all confirmed VERBATIM on the opened
+[IEP Ockham entry](https://iep.utm.edu/ockham/) (curly-vs-straight
+apostrophe in "Ockham's" only); the 1852 Hamilton first-use date also
+confirmed on the same carrier. No defects; no repairs needed.
+
 ## Worker checkpoint (2026-10-26 02:28:15Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
 QC SAMPLES — dosr5 and dosr7 closed-band dossiers (combined checkpoint; all spans verified VERBATIM against freshly opened carriers):
 - motivation Q2-Q3: Maslow two quotes (psychclassics.yorku.ca — the "pre-potent" hyphenation is in the source; exact match), Hume Treatise both quotes (Gutenberg 4705: "reason alone can never be a motive"; "slave of the passions"), Deci-Koestner-Lepper meta-analysis two spans (PMC2731358).
