@@ -398,3 +398,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 10:24Z worker-pplx-audit-1026a released the audit baton (session complete: 62 flagged spans + 108 sampled spans = 170 verbatim, 0 repairs, 1 citation re-anchor; receipts in docs/enrichment/qc/)
 - 2026-10-26 11:45Z degrees-strategist: owner-commissioned degrees audit done — AUDIT-2026-10-26.md + learner-audit publication gate committed; repair wave routed via TASKBOARD.
 - 2026-10-26 11:40Z degrees-strategist: degrees audit complete and pushed (AUDIT-2026-10-26.md + learner-audit publication gate + 4 phase-0 manifests; 159 defects = the repair wave worklist; baton released; owner launching repair workers now)
+- 2026-10-26 11:43Z worker-pplx-degfixschema-1026b: took deg-fix-schema (Phase A: assignment schema + renderer in app.js, single writer); psychdim first.
