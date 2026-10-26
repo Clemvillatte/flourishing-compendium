@@ -21417,11 +21417,13 @@ const ACAD_NEW_DEGREE_ORDER = ['deg-psychdim','deg-wol-daoism','deg-wol-buddhism
 function acadDegreeVisible(deg){
   if(!deg) return false;
   if(deg.legacy || deg.kind==='practicum') return true;
-  return deg.kind==='degree' && deg.status==='complete' &&
+  return deg.kind==='degree' && typeof deg.id==='string' && deg.id.length>0 &&
+    deg.status==='complete' &&
     Array.isArray(deg.modules) && deg.modules.length>0 &&
+    new Set(deg.modules).size===deg.modules.length &&
     deg.modules.every(function(mid){
       const mod = moduleById(mid);
-      return !!mod && mod.degree_id===deg.id;
+      return typeof mid==='string' && !!mod && mod.id===mid && mod.degree_id===deg.id;
     });
 }
 function acadModuleVisible(mod){

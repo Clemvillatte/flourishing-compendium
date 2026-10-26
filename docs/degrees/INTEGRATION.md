@@ -38,6 +38,8 @@ The shared `acadDegreeVisible` predicate gates both the home and direct
 degree/practice addresses. Missing, draft, in-development and unknown status
 values fail closed. Even a signed-off degree stays hidden if its syllabus is
 empty or references missing modules or modules owned by another degree.
+Duplicate module ids, non-string ids and mismatched module self-ids also
+fail closed.
 `acadModuleVisible` also blocks direct module addresses for hidden degrees
 and unlisted new-degree modules. Detail renderers repeat these checks so a
 stale internal state cannot bypass the route gate.
@@ -52,6 +54,20 @@ publication predicate against real data and isolated synthetic fixtures;
 `BASE_URL=http://127.0.0.1:8771/ node scripts/tests/academy-display.qa.cjs`
 checks rendered home, fresh routes, hash changes, modules, legacy access,
 practica and viewport/console regressions. Fixtures live only in test memory.
+`BASE_URL=http://127.0.0.1:8771/ node scripts/tests/academy-storage-search.qa.cjs`
+also checks source/discovery search, indirect addresses and normal, denied,
+quota-full, malformed and stale-progress storage at desktop/mobile widths.
+Learner progress never grants publication permission.
+
+Browser functional tests isolate **external decorative images only** using
+`qa-image-network.cjs`; local editorial images and all application content
+remain live. Set `QA_LIVE_IMAGES=1` for an unmodified live-network image run.
+Pre-existing live-network diagnostics are logged, never silently discarded:
+the Editor iframe's missing `assets/prompts.js` and two Google favicon 404s
+for existing Qi Gong domains. `qa-baseline-errors.cjs` matches only these
+specific 404s; page errors and every other console error still fail.
+Some existing remote video thumbnails can also be unavailable; the live
+image mode deliberately fails on those rather than expanding its baseline.
 
 The renderer orders the sections explicitly (practica: qigong, cmp,
 psychology-101; degrees: the owner's README order), so array position in

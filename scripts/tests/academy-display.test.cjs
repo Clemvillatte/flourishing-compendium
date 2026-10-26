@@ -53,7 +53,7 @@ test('explicit completion with a valid integrated syllabus permits degree and mo
   assert.equal(moduleVisible({ id: 'unlisted', degree_id: deg.id }), false);
 });
 test('complete label cannot publish an empty, malformed, dangling or mis-owned syllabus', () => {
-  for (const modules of [[], null, 'test-module', ['missing'], ['test-module', 'missing']]) {
+  for (const modules of [[], null, 'test-module', ['missing'], ['test-module', 'missing'], ['test-module', 'test-module'], [null]]) {
     const { academy, visible } = setup();
     assert.equal(visible(fixture(academy, 'complete', modules)), false, JSON.stringify(modules));
   }
@@ -62,10 +62,30 @@ test('complete label cannot publish an empty, malformed, dangling or mis-owned s
   academy.modules['test-module'].degree_id = 'other-degree';
   assert.equal(visible(deg), false);
   assert.equal(moduleVisible(academy.modules['test-module']), false);
+  academy.modules['test-module'].degree_id = deg.id;
+  academy.modules['test-module'].id = 'wrong-self-id';
+  assert.equal(visible(deg), false);
 });
 test('unknown kinds do not acquire degree publication access', () => {
   const { academy, visible } = setup();
   const deg = fixture(academy);
   delete deg.kind;
   assert.equal(visible(deg), false);
+});
+test('mixed verified/unverified module work cannot promote an unfinished degree', () => {
+  const { academy, visible, moduleVisible } = setup();
+  const deg = fixture(academy, 'in-development', ['test-module', 'test-unverified']);
+  academy.modules['test-module'].status = 'verified';
+  academy.modules['test-unverified'] = { id: 'test-unverified', degree_id: deg.id, status: 'unverified' };
+  assert.equal(visible(deg), false);
+  assert.equal(moduleVisible(academy.modules['test-module']), false);
+  assert.equal(moduleVisible(academy.modules['test-unverified']), false);
+});
+test('reserved Greek, existentialism and positive psychology remain unpublished', () => {
+  const { academy, visible } = setup();
+  for (const id of ['deg-wol-greek', 'deg-wol-existentialism', 'deg-wol-positive']) {
+    const deg = academy.degrees.find(d => d.id === id);
+    assert.ok(deg, id);
+    if (deg.status !== 'complete') assert.equal(visible(deg), false, id);
+  }
 });

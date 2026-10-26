@@ -3,6 +3,8 @@
    BASE_URL=http://127.0.0.1:8771/ node scripts/tests/academy-display.qa.cjs */
 const { chromium } = require('playwright');
 const assert = require('node:assert/strict');
+const knownBaselineNetwork = require('./qa-baseline-errors.cjs');
+const isolateRemoteImages = require('./qa-image-network.cjs');
 const BASE = process.env.BASE_URL || 'http://127.0.0.1:8765/';
 const SHOTS = process.env.QA_SCREENSHOT_DIR;
 
@@ -11,10 +13,20 @@ const SHOTS = process.env.QA_SCREENSHOT_DIR;
   try {
     for (const width of [1280, 375]) {
       const ctx = await browser.newContext({ viewport: { width, height: 900 } });
+      await isolateRemoteImages(ctx, BASE);
       const page = await ctx.newPage();
       const errors = [];
+      const baselineNetwork = [];
       page.on('pageerror', e => errors.push(e.message));
-      page.on('console', m => { if (m.type() === 'error') errors.push(m.text() + ' ' + m.location().url); });
+      page.on('console', m => {
+        if (m.type() !== 'error') return;
+        const url = m.location().url;
+        // Unchanged Qi Gong decorative favicons return 404 on live Google.
+        // Keep this exact baseline visible; do not suppress any other error.
+        if (knownBaselineNetwork(m, BASE)) {
+          baselineNetwork.push(url);
+        } else errors.push(m.text() + ' ' + url);
+      });
       let load = 0;
       async function go(hash, selector) {
         // Different hashes alone are same-document navigation, not fresh loads.
@@ -38,7 +50,7 @@ const SHOTS = process.env.QA_SCREENSHOT_DIR;
       assert.equal(await page.locator('#academyRoot').getByText(/degrees now in development|seven degrees above/).count(), 0);
       assert.deepEqual(await page.locator('.acad-section-title').allTextContents(), ['Practicum', 'Degrees']);
       assert.match((await page.locator('.acad-hall-title').allTextContents())[0], /Qi Gong/);
-      assert.equal(await page.locator('a.acad-hall').getAttribute('href'), 'https://the-psychology-lab.vercel.app/');
+      assert.equal(await page.locator('.acad-hall-bridge a').getAttribute('href'), 'https://the-psychology-lab.vercel.app/');
       assert.equal(await page.locator('.acad-colophon a').getAttribute('href'), '#view=legacy');
       if (SHOTS) await page.screenshot({ path: `${SHOTS}/academy-home-${width}.png`, fullPage: true });
       await page.locator('.acad-colophon a').click();
@@ -90,6 +102,7 @@ const SHOTS = process.env.QA_SCREENSHOT_DIR;
       assert.equal(await page.locator('.acad-band-title').innerText(), 'QA complete fixture');
       assert.equal(await page.evaluate(() => window.__fcAcademyRoute.module('qa-only-module')), true);
       await page.waitForSelector('.acad-modpage-title');
+      await page.locator('.acad-complete-toggle input').check();
       // Stale module page: demotion before the back button must not expose
       // the degree through the renderer, even without passing the route API.
       await page.evaluate(() => { window.fcAcademyData.degrees.find(d => d.id === 'qa-only').status = 'draft'; });
@@ -116,7 +129,9 @@ window.fcAcademyData.modules['qa-hidden-mod']={id:'qa-hidden-mod',degree_id:'qa-
       assert.equal(await page.locator('#academyRoot .acad-modpage-title').count(), 0);
       await page.unroute('**/assets/app.js*');
       assert.deepEqual(errors, [], `${width}px browser errors`);
-      console.log(`PASS ${width}px: complete-only home, unpublished degree/practice/module routes, hash navigation, completion fixture, stale-render guard, legacy/practica/Library, no console errors`);
+      console.log(`PASS ${width}px: complete-only home, unpublished degree/practice/module routes, hash navigation, completion fixture, stale-render guard, legacy/practica/Library, no application console errors`);
+      if (process.env.QA_LIVE_IMAGES !== '1') console.log('NETWORK FIXTURE: external decorative images only; local artwork and all application content remain live');
+      if (baselineNetwork.length) console.log(`BASELINE NETWORK ${width}px: ${JSON.stringify(baselineNetwork)}`);
       await ctx.close();
     }
   } finally {
