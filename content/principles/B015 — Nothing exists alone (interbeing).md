@@ -28,6 +28,9 @@ The paper is made of its conditions, and the cloud and the logger are among them
 
 - [Thich Nhat Hanh, "Clouds In Each Paper", Awakin.org](https://www.awakin.org/v2/read/view.php?tid=222): all quotations on this page. The page does not name the book it comes from.
 
+## Stories
+- [[ST513 — The Willows and the Wolves|513. The Willows and the Wolves]]
+
 ## Psychology parallels
 
 - **[[Social baseline|Social baseline theory]]**, the human brain assumes a social economy of effort (Coan, 2011)

@@ -137,6 +137,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST063 — Scrooge's Three Ghosts]]
     - [[ST501 — The Man Who Carried His Raft]]
     - [[ST369 — The All Is Aflame]]
+    - [[ST513 — The Willows and the Wolves]]
   - [[ST-S02.02 — II.2 The Training — Ethics, Concentration, Wisdom]]
     - [[ST064 — The Lute String]]
     - [[ST065 — Nagasena and the Chariot]]
