@@ -2,7 +2,7 @@
  "band": "deg-psychdim",
  "kind": "degree",
  "holder": "degree-4376b4ec",
- "phase": "all-eight-modules-drafted-independent-review-required",
+ "phase": "all-eight-modules-drafted-baton-released-independent-review-required",
  "modules": {
   "m1-orientation": "independent supervisor MODULE-QC PASS at cdb8f0939; three nonblocking alignment labels fixed. 249 estimated minutes. Not complete-degree/publication clearance.",
   "m2-affective": "draft-not-cleared; adviser repairs and supervisor cultural-functions return repaired in 6bf08d3cb; rereview owed; 274 estimated minutes",
@@ -13,6 +13,6 @@
   "m7-overt-behavioural": "draft-not-cleared; three-day diary, corrected Yale reinforcement supplement, four-stage process, older-adult/youth limits, numerical Dang/Vohs comparison and independent functional inquiry; independent review owed; 301 estimated active minutes over at least three ordinary days",
   "m8-integrative-capstone": "draft-not-cleared; L4 independent design/actual execution/analysis/self-assessment, all-six map, mechanism/outcome distinction, public eight-criterion rubric, privacy/safety/missingness/deviations; independent review owed; 375 active minutes typically across 7-14 days"
  },
- "notes": "2026-10-26 05:32Z degree-4376b4ec: all eight module drafts plus curriculum README assembled; M7 precision fix yields2310 estimated active minutes,38h30m. M1 module-QC passed; M2-M8 are NOT cleared at stated review/repair stages. Independent adviser unavailable for M5+; supervisor review explicitly owed. No integration/publication request. Scope and coverage clearances unchanged.",
- "updated": "2026-10-26T05:32:00Z"
+ "notes": "2026-10-26 05:36Z degree-4376b4ec: baton released after original-clock session. All eight module drafts plus README,2310 estimated active minutes,38h30m. SHA256/structure/local-links/JSON/arithmetic/citation-URL syntax and origin-content checks passed; these are producer checks only. M1 supervisor pass; M2-M8 NOT cleared. Adviser unavailable for M5+; supervisor independent and whole-degree review owed. No integration/publication request. Scope and coverage clearances unchanged.",
+ "updated": "2026-10-26T05:36:00Z"
 }

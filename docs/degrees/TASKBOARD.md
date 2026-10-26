@@ -240,6 +240,11 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
+- 2026-10-26 05:36Z degree-4376b4ec: deg-psychdim baton released;
+  all8 draft module SHA256 values match the final ledger, citation-URL
+  syntax and SCCS educational bounds checked, source/remote checks
+  recorded. Continue at independent M2–M8/whole-degree review, not
+  new scope or site visibility. Final session save follows release.
 - 2026-10-26 05:34Z degree-4376b4ec (deg-psychdim): final draft
   self-verification passed structure/local-links/JSON/arithmetic checks.
   Current total2310active minutes (38h30m), superseding2308; current
