@@ -86,3 +86,41 @@ scope as section 1: substring probes on opened carriers. With this,
 every flagged boundary from the advisor review has been either closed
 or documented as unverified (Chowdhury 2016; Lavie 2005; ctext.org
 block; Hofmann 2008 paywall).
+
+## 8. Carrier index (audit aid)
+
+Carriers opened for the probes recorded in this session's receipts.
+Search-excerpt corroboration is marked; everything else was opened in
+this environment.
+
+- cognition: classics.mit.edu nicomachaen.3.iii + 4.iv; Gutenberg
+  64576 (Seneca, On Anger); eutils 9599441.
+- attention: PMC (Lavie 2005 — 403 both routes, unverified); search
+  snippet for one span.
+- goals: ebible.org JOB08.htm; accesstoinsight AN 5.57 (apex route);
+  eutils abstracts.
+- affect: Gutenberg texts (Epictetus epicench, Ecclesiastes hwt);
+  classics.mit.edu Enchiridion; eutils.
+- anger: umich-hosted Bushman 2002 PDF; Gutenberg 64576.
+- motivation: eutils 10589297; PMC2731358;
+  psychclassics.yorku.ca Maslow; Gutenberg 4705, 5682.
+- overload-overwhelm: eutils 9599441, 27474142, 11138768; author-copy
+  PDFs (scheibehenne.com, chernesov.com).
+- uncertainty: Gutenberg 35698-h; PMC5088195; MIT epicench;
+  econlib.org knRUP7; fitelson.org ramsey.pdf.
+- sadness-and-grief: uu.nl Stroebe 2012 PDF; archive.org Freud PDF;
+  wendyvanmieghem.com DPM PDF; Gutenberg 14988.
+- right-action: accesstoinsight SN 45.8; newadvent.org 3040;
+  Gutenberg 8438; iep.utm.edu; afe.easia.columbia.edu.
+- creation: antilogicalism.com Frankl PDF; marxists.org Sartre;
+  Gutenberg 1998-h; archive.org Skinner PDF + Camus djvu.txt.
+- creativity: uga.edu Hennessey-Amabile PDF; rider.edu Baer PDF;
+  homepages.se.edu Eisenberger-Cameron PDF; eutils 22941876;
+  Plucker — search-excerpt corroborated (T&F abstract page not
+  opened); scispace 403.
+- procrastination: standardebooks.org Protagoras; MIT nicomachaen.7;
+  eprints.whiterose.ac.uk Sirois-Pychyl PDF; eutils 15959999;
+  psychologicalscience.org Tice-Baumeister; web.archive.org Holton
+  abstract page + Weakness.pdf; Davidson — search-excerpt
+  corroborated (OUP page not opened); Chowdhury — blocked.
+- right-livelihood: sourcebooks.web.fordham.edu; Gutenberg 46333.
