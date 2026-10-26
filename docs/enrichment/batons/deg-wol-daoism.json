@@ -1,15 +1,19 @@
 {
  "baton": "deg-wol-daoism",
- "agent": "worker-pplx-daoism-1026c",
- "clocked_in": "2026-10-26T05:52:04+00:00",
+ "agent": "supervisor-pplx-1026a-daoism",
+ "clocked_in": "2026-10-26T07:40:27+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-daoism-1026c",
    "at": "2026-10-26T05:52:04+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "supervisor-pplx-1026a-daoism",
+   "at": "2026-10-26T07:40:27+00:00",
+   "from": "worker-pplx-daoism-1026c",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-26T05:58:16+00:00"
+ ]
 }
