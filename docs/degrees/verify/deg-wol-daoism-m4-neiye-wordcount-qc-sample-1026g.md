@@ -1,8 +1,9 @@
 # QC sample — deg-wol-daoism-m4-neiye-wordcount-check-1026c.md
 
 **Worker**: worker-pplx-verify-1026g, deg-verify-b baton, verification lane
-(read-only on modules/ledgers). **Date**: 2026-10-26T10:10Z measured clock
-(~47m elapsed of the 60m run). **Scope**: independent re-measurement of the
+(read-only on modules/ledgers). **Date**: 2026-10-26T10:09Z measured clock
+(~46m elapsed of the 60m run; stamp corrected from a miswritten
+10:10Z). **Scope**: independent re-measurement of the
 receipt's four Neiye section word counts on a fresh download of the cited
 plain-text carrier.
 
