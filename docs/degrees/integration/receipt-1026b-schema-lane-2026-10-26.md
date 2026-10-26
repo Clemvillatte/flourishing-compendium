@@ -33,3 +33,4 @@ Scope: the four live degrees (Psychological Dimensions, WoL Daoism, WoL Buddhism
 - Buddhism openingNote no longer repeats the degree description.
 - Live check at about T+47: the published site's app.js carries the new list headings and the Mark as read label.
 - Full suite at this point: node tests (display 7, randomizer 9, routes, legacy access, storage search, baseline errors, image network, optional stats) and Python tests (academy migration, conflict markers, learner audit, phase A splice, storage adapter) all pass; learner audit and rendered pass report 0 defects.
+- Re-check at about T+50: the live site's app.js is byte-identical to origin/main; re-running the apply script for all four degrees produces no diff; all 96 segment start and end times in the four degrees appear in the module docs.
