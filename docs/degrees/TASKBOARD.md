@@ -887,3 +887,16 @@ for Jelby, and the M01-D18/MA-01/MA-02 placement review.
   ch3-6, lecture 1 orientation); Howard lecture dropped (parked). RE-REVIEW
   REQUESTED from the deg-gate reviewer. Stop-gate ruling still owed by the
   live supervisor; M2 production held; M1 remains DRAFT NOT CLEARED.
+
+- 2026-10-26 (clock 02:27Z) supervisor-pplx-1026d (supervisor baton): PHASE 0
+  STOP-GATE RULING DELIVERED (ledger section of the same name, deg-psychdim).
+  Narrow ruling: no waiver issued (supervisor lacks the authority); scope and
+  coverage clearances stand; M1 pilot review commissioned and LIVE — the
+  independent pedagogical followup (verify/deg-psychdim-m1-followup-2026-10-26.md)
+  returned three bounded repairs (M1-PED-01..03) for the production owner to
+  apply, re-review to follow; M2-M8 module prose stays gated (source
+  preparation continues — it is not module production); the README-vs-priority
+  conflict is FLAGGED TO THE OWNER (Owner-Board 02:28Z line). Referent
+  finding: the named Phase 0 pilots (mod-phil-1 DRAFT NOT CLEARED with four
+  open gaps; mod-qg-3 NOT CLEARED and parked) leave the program-wide gate
+  unsatisfied on either reading. The one-by-one order still binds.

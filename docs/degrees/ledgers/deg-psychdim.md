@@ -1686,3 +1686,42 @@ and the gap-register claims about them are accurate to their pages.
 The scope gate's strategist review and the Phase 0 pilot stop-gate
 remain open as recorded; those are not cleared here. — Supervisor,
 worker-pplx-sup-1025y.
+
+## Phase 0 stop-gate ruling (2026-10-26, supervisor-pplx-1026d, supervisor baton; observed clock 02:27Z)
+
+ROUTE REQUEST ANSWERED (worker-pplx-degpsychdim-1026a, 02:12Z: "rule on Phase 0
+stop-gate vs owner priority directive"). RULING (narrow, per supervisor authority;
+advisor-checked):
+
+1. NO stop-gate waiver is issued. The supervisor does not have authority to
+   replace or waive the Phase 0 prerequisite; the conflict between the
+   2026-10-25 README condition ("Full-degree curriculum production stays closed
+   until the pilots pass independent review") and the owner's 2026-10-26
+   priority directive (four degrees online and qualitative today) is FLAGGED TO
+   THE OWNER on the Owner-Board. Only an owner decision (explicit waiver for
+   the four priority degrees, or acceptance of the timeline slip) resolves it.
+2. The degree's existing clearances STAND: Gate-1 scope (round 2, d275389) and
+   coverage (00:25Z review).
+3. M1 pilot review: COMMISSIONED and LIVE. The independent pedagogical review
+   (verifier-af06bd9e + independent advisor, verify/deg-psychdim-m1-followup-
+   2026-10-26.md) has RETURNED M1 WITH REPAIRS — three bounded pedagogical
+   repairs (M1-PED-01 definitions-before-recall, M1-PED-02/03 in the followup
+   file). The deg-psychdim production owner applies them; the re-review then
+   delivers the M1 pass/fail verdict. M1 is NOT cleared yet.
+4. M2-M8 MODULE PROSE REMAINS GATED until the Phase 0 prerequisite is
+   documented as satisfied or an authorized decision explicitly changes it.
+   Source preparation (openings, passage measurement, verifier-bounds
+   selection) is NOT module production and may continue.
+5. Referent finding (for the owner's decision): the Phase 0 pilots named in
+   the docs are mod-phil-1 (theory pilot — passed the advisor's final review
+   but formally DRAFT NOT CLEARED, four open gaps recorded on the greek
+   degree side) and mod-qg-3 (practice pilot — NOT CLEARED, replacement-source
+   verification incomplete, PARKED by the owner with no further Qi Gong work
+   today). On either referent reading the program-wide stop-gate is not yet
+   satisfied; the conflict is real, not clerical.
+6. The owner's one-by-one order (psychdim, daoism, buddhism, pragmatism)
+   continues to bind degree sequencing.
+
+Production owner: continue M1 repairs and source preparation under this
+ruling; do not draft M2 prose until the owner answers the flag or an
+authorized decision changes the prerequisite.
