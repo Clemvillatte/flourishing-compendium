@@ -1,0 +1,13 @@
+{
+ "baton": "deg-wol-greek",
+ "agent": "worker-pplx-greek-1026g",
+ "clocked_in": "2026-10-26T09:32:34+00:00",
+ "takeovers": [
+  {
+   "by": "worker-pplx-greek-1026g",
+   "at": "2026-10-26T09:32:34+00:00",
+   "from": null,
+   "reason": "free"
+  }
+ ]
+}

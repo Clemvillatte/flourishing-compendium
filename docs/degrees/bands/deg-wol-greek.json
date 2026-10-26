@@ -1,8 +1,8 @@
 {
  "band": "deg-wol-greek",
  "kind": "degree",
- "holder": "worker-pplx-greek-1025y",
- "phase": "phase-0-pilot-repair (advisor final review passed; formal gates and Phase 0 stop-gate remain)",
+ "holder": "worker-pplx-greek-1026g",
+ "phase": "module production (Phase 0 stop-gate CLOSED by owner decision 6, 2026-10-25; production unblocked; owner decision 7: degree stays off the Academy until finished)",
  "modules": {
   "mod-phil-1": "rebuilt and repaired through advisor rounds 2-4; final advisor review passed the pedagogical design (positive independent design review recorded in pilots/mod-phil-1.md); status DRAFT NOT CLEARED pending the formal gate sequence; workload 5h06m",
   "mod-phil-1s": "PREPARATORY INVENTORY ONLY (not a completed design; supervisor decision on Phase 0 stop-gate pending): wiki reading basis measured (T011 reader-facing sections 635 w, three Socratic-method sayings 44 w, ST155 175 w, K236 523 w; 1377 w total), two Sadler lectures verified and transcript-classified earlier (Apology 1:06:20, Crito 59:39), workload arithmetic drafted (23 min reading with 3x overhead + 2:05:59 video + 60 min writing = 3h29m estimate). A module draft exists at docs/degrees/modules/deg-wol-greek/mod-phil-1s.md but is WITHDRAWN as a design deliverable pending the stop-gate ruling; see ledger corrections. Advisor QC flagged: gate authorization, source provenance (no fresh fetches this session), alignment-map overstatement, and worked-example inference error. Flagged for supervisor: whether module design behind the Phase 0 stop-gate is permitted, and the pre-Socratics ruling (carried forward)."
