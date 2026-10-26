@@ -68,7 +68,10 @@ Per-degree remaining items (from the supervisor's reviews and release lines):
   qc_complete. NEXT for the deg-gate session: independent whole-degree
   gate review — 1026h ran the supervisor QC and must NOT run the gate.
   Then deg-integrate: attach + publish. Routed residuals: em dashes in
-  m2/m4 (humanizer); stale draft-status headers; Bernstein
+  m2/m4 (humanizer); stale draft-status headers DONE (1026e comment-only
+  repair 2026-10-26, receipt verify/deg-wol-pragmatism-m1-m5-status-repair-1026e.md,
+  new hashes m1 030c89f8 m2 a3b098b6 m3 463b679b m4 8708bb51 m5 48cd0d29);
+  Bernstein
   playback/captions/duration checks (verifier lane, removal condition
   stated in the module).
 - BUDDHISM DEGREE GATED (supervisor 1026h, commit 334d401): all nine
