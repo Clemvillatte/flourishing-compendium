@@ -1,3 +1,11 @@
+## Worker checkpoint (2026-10-26 15:30Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+SEVENTEENTH QC SAMPLE (taper window): lifes-purpose.md — dossier_check
+OK (71 card links, 31 headers, 37 carriers); 36 checked / 11 not
+found — all eleven left flagged for the next verification pass
+(taper time-box; not re-opened this session). No dossier text
+changed. Files touched: this checkpoint only.
+
 ## Worker checkpoint (2026-10-26 15:26Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 SIXTEENTH QC SAMPLE (taper window): genuine-flourishing.md and
