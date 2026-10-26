@@ -6327,3 +6327,5 @@ recorded for all lanes: always extract the exact cited URL from the
 content file before testing a link — verifier output displays can
 truncate. (The SUPERVISOR-REVIEW adjudication entry is corrected in the
 same pass; see its RETRACTION note.)
+
+  [T+29:56] verify lane (no baton): pragmatism m1 orientation video segment anchors -- producer page prints seek markers (4:46, 49:30) + listening notes; timestamped transcript offsets surfaced; segmentation-evidence gap closed, caption kind still open, playback still blocked. Receipt: docs/degrees/verify/deg-wol-pragmatism-m1-orientation-video-1026c.md
