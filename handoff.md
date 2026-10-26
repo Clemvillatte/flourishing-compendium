@@ -3886,3 +3886,29 @@ docs/enrichment/qc/QC-SAMPLE-DOSR5-2026-10-26.md samples 8-17.
   creativity Kim 2005 threshold spans, ERIC full text; dosr6 uncertainty
   Cicero/Arcesilaus spans, Attalus) — all verbatim.
 - No dossier files were edited this pass; no registry rebuilds needed.
+
+## deg-wol-pragmatism wave-2 status (2026-10-26, clock 05:16:58Z measured, worker-pplx-pragmatism-1026b)
+
+- m1-orientation: DRAFT NOT CLEARED (advisor rounds 1-4 done); two
+  blocked media items (Philosophy Talk video playback/captions,
+  YouTube bot-check, both routes documented) are with supervisor
+  module-QC, which owns the publication decision.
+- m2-belief-and-doubt (Peirce, Fixation of Belief): written to skill
+  standard, quotes verified verbatim against the fetched text, segments
+  measured (834/1,368/2,371 words), advisor QC round 1 applied (7
+  findings). DRAFT NOT CLEARED; supervisor module-QC next.
+- m3-truth-and-the-will-to-believe (James): written to skill standard,
+  advisor QC rounds 1-4 all applied; measurement substantiated from
+  the local texts (Reading A 2,532 raw-span inspected; B1 952 with the
+  ZWSP separators enumerated; B2 264 with the true split joined;
+  total 3,905 words, 257 minutes). Misak Royal Institute of
+  Philosophy lecture attached as candidate with verification
+  incomplete (playback/captions uninspected; duration 51:57
+  provisional from the search listing; content verified on the
+  third-party transcript route). DRAFT NOT CLEARED; supervisor
+  module-QC next.
+- Next for this band: m4 Dewey (public-domain texts; M01-P08 Hicks is
+  NOT a candidate, education register dropped); m5 capstone. The
+  module plan m1-m5 is in the ledger. The Misak lecture's
+  playback/caption checks need an environment where YouTube playback
+  is not bot-walled.
