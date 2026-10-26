@@ -4,7 +4,7 @@
 - **kind**: degree-module
 - **level**: L1 Orientation (exit criteria adapted for a practice walk: the L2 element is the guided metta sitting and the precepts case, both fully guided here)
 - **module id**: deg-wol-buddhism-b1
-- **status**: draft v3 (segmentation landed from receipt B-V04; production session 2026-10-26, worker-pplx-buddhism-1026a)
+- **status**: draft v4 (supervisor b1 review repairs applied 2026-10-26, worker-pplx-buddhism-1026b: traditional frame placed honestly, quotation order repaired, AN excerpt bounded with measured boundaries, observation wording; segmentation from the earlier pass retained)
 - **prerequisites**: none (entry module; open to any learner, no Buddhist background assumed)
 
 ## Walk context
@@ -33,8 +33,8 @@ become wiser, and genuinely flourish even when uncertain or overwhelmed.
    one conflicted, explaining your reasoning and naming where the precepts
    leave the judgment to you.
 3. Execute a 10-minute goodwill sitting guided by the Metta Sutta
-   instructions, twice, and describe in a sentence the felt difference between
-   the first and second sitting.
+   instructions, twice, and describe in a sentence what you noticed across the
+   two sittings ("no discernible difference" is an acceptable finding).
 4. State what the walk covers (the practical schools: Secular, Zen,
    Insight/Vipassana, Theravada, Thai Forest) and what it excludes (rebirth
    cosmology, abhidharma scholastics, tantric ritual, except passing mentions
@@ -59,10 +59,9 @@ Watch in two stops (viewing stops, not content claims, since the
 page prints no chapter list): 00:00:00-00:27:00 and
 00:27:00-00:54:16.
 
-The talk's transcript was opened for content classification: it contains no
-rebirth, kamma or cosmological doctrine; its teachings are honesty and
-questioning as foundational, values arising from a mindful and peaceful
-heart, and ethical judgment that weighs harm.
+The talk contains no rebirth, kamma or cosmological doctrine; its teachings
+are honesty and questioning as foundational, values arising from a mindful
+and peaceful heart, and ethical judgment that weighs harm.
 
 Activity while watching: keep a one-line note per value (goodness, peace,
 kindness) on the moment in the talk where it is most alive for you. You will
@@ -81,14 +80,23 @@ Activity: write the five precepts as the talk names them, one line each.
 
 ### Step 3 — The precepts and the goodwill instructions in the canon (~15 min, reading)
 
-**AN 5.179 Gihisutta (Sujato translation, SuttaCentral), about 300 words.**
-A lay follower is defined by restraint in five precepts: not killing living
-creatures, not stealing, not committing sexual misconduct, not lying, not
-consuming intoxicants.
+**AN 5.179 Gihisutta (Sujato translation, SuttaCentral), 213 measured
+words.** Read the bounded excerpt, not the whole discourse: from the opening
+("Then the householder Anāthapiṇḍika...") through the five-precepts passage
+("...These are the five precepts in which their actions are restrained."),
+plus the four precept verses ending "...as they confuse the mind." The rest
+of the discourse (verses on hells, gods and fields of merit) is optional
+context. The excerpt's opening carries the discourse's traditional frame: a
+lay follower who keeps the precepts may declare themselves a stream-enterer,
+"assured, destined for awakening," free of rebirth in places of loss. You are
+not asked to believe or refute this; notice that the frame is there, and
+that the walk marks it as context rather than teaching it as cosmology.
 
-**Metta Sutta, Khp 9 (Sujato translation, SuttaCentral), about 200 words.**
-The canonical instructions for goodwill: "With love for the whole world,
-unfold a boundless heart... May all beings be happy!"
+**Metta Sutta, Khp 9 (Sujato translation, SuttaCentral), 236 measured
+words.** The canonical instructions for goodwill, in the discourse's own
+order: "May all beings be happy!" and, later, "With love for the whole
+world, unfold a boundless heart." The sutta closes with "they never return
+to a womb again" — the same traditional frame, kept visible, not taught.
 
 Activity: mark the one instruction in the Metta Sutta you would need most on a
 difficult day, and say why in a sentence.
@@ -103,8 +111,8 @@ a student of the Burmese master Pa Auk Sayadaw (credentials opened on the
 buddha-haus.de biography page; the biography rests on the institutional
 pages, not the recording).
 
-Assigned segments (from the uploader-set chapter list on the watch page; the
-talk's full transcript was read by the verification lane, receipt B-V04):
+Assigned segments (from the uploader-set chapter list printed on the watch
+page):
 - 00:27:11-01:01:49, the four-brahmaviharas teaching arc ("4 Brahmaviharas" at
   00:27:11 through "Metta to all phenomena, method of Kumarajiva" at 01:01:49),
   about 34 minutes 38 seconds. This is the teaching.
@@ -175,7 +183,8 @@ Then:
    bench; (b) a conflicted one, for example a friend asking you to confirm a
    small lie that protects someone's feelings. For each, state what the
    precepts direct, and name where the precepts leave the judgment to you.
-3. Your two metta sitting records with the felt-difference sentence.
+3. Your two metta sitting records with the observation sentence (what you
+   noticed across them; "no discernible difference" is acceptable).
 4. One line on which values from the Brahm talk (goodness, peace, kindness)
    your case reasoning actually used.
 
@@ -196,20 +205,25 @@ the module; it is how the walk teaches honest self-reading.
 
 ## Boundaries and passing mentions
 
-This module's set carries no rebirth-dependent doctrine. The Metta Sutta's
-"true state of peace" and the precepts stand on their own. Where later
-modules touch rebirth (the bodhisattva vow's multi-life reading), the passing
-mention will be marked and placed in its traditional frame, per the scope's
-recorded tradeoff. Abhidharma scholastics and tantric ritual stay out except
-where ethics or practice requires a passing mention.
+The assigned texts carry the tradition's own frame, and the module says so
+plainly: AN 5.179's opening declares a precept-keeping lay follower a
+stream-enterer destined for awakening, and the Metta Sutta closes with no
+return to a womb. These passages are kept visible as context, not taught as
+cosmology, and neither argued for nor against. The Metta Sutta's "state of
+peace" and the precepts stand on their own. Where later modules touch rebirth
+(the bodhisattva vow's multi-life reading), the passing mention will be
+marked and placed in its traditional frame, per the scope's recorded
+tradeoff. Abhidharma scholastics and tantric ritual stay out except where
+ethics or practice requires a passing mention.
 
 ## Workload arithmetic
 
 - Measured media: 54:16 + 13:16 + 34:38 + 23:22 = 2 h 5 m 32 s (durations
   read from the source pages; the Dhammadipa segments are bounded by the
   uploader-set chapter marks, receipt B-V04).
-- Estimated: primary texts ~500 words at 130 words per minute (new concepts
-  dense) with re-reading, ~15 m; two metta sittings 2 × 10 m = 20 m; assessment
+- Estimated: primary texts 449 measured words (AN excerpt 213 + Metta Sutta
+  236) at 130 words per minute (new concepts dense) with re-reading, ~15 m;
+  two metta sittings 2 × 10 m = 20 m; assessment
   write-up ~45 m; study overhead on the videos (notes, re-watch of segments)
   ~60 m. Estimates labelled as estimates.
 - Module total: about 4 h 25 m with all four assigned segments
@@ -222,11 +236,11 @@ where ethics or practice requires a passing mention.
 
 | resource | status | verified | notes |
 |---|---|---|---|
-| Ajahn Brahm, "Buddhist Values", https://www.youtube.com/watch?v=TpbWVaXBV4c (BSWA channel) | verified-video | 2026-10-26 | duration read 54:16 on this session's watch-page extraction (player-total convention); a second extraction by the verification lane read 54:15, a 1-second discrepancy recorded rather than adjudicated (B-V05); transcript section present on the watch page; talk dated 08-01-2010; content classification from the opened transcript: no rebirth, kamma or cosmology; teaches values from a mindful heart, does not enumerate the precepts |
+| Ajahn Brahm, "Buddhist Values", https://www.youtube.com/watch?v=TpbWVaXBV4c (BSWA channel) | verified-video | 2026-10-26 | duration read 54:16 on this session's watch-page extraction (player-total convention); a second extraction by the verification lane read 54:15, a 1-second discrepancy recorded rather than adjudicated (B-V05); transcript section present on the watch page; talk dated 08-01-2010; content classification from the opened transcript: no rebirth, kamma or cosmology; teaches values from a mindful heart. CORRECTION (supervisor's independent transcript read, 2026-10-26): the talk's ethics segment does discuss the precepts (lying, stealing, alcohol, killing, adultery, around 07:52-09:10); the earlier "does not enumerate the precepts" note is withdrawn as a false negative claim. The module still anchors the precepts outcome on the Thanissaro talk because it names all five and deepens their mind dimension |
 | Thanissaro Bhikkhu, "The Five Precepts for the Mind", https://www.youtube.com/watch?v=Nq7YmbYFJkA | verified-metadata | 2026-10-26 | duration 13:16 (lengthSeconds 796, watch page); introduces the five lay precepts then their mind dimension; credentials opened on the buddho.org biography page (Thai forest kammatthana tradition; student of Ajahn Fuang Jotiko; ordained 1976; Abbot of Metta Forest Monastery since 1993; main AccessToInsight translator); free, CC BY-NC license stated in description |
 | Bhante Dhammadipa, "The Four Immeasurable Minds", https://www.youtube.com/watch?v=svWaWFOpxXw (Metta Centre channel) | verified-video | 2026-10-26 (this session; content upgraded to transcript-read by receipt B-V04, deg-verify-a) | duration 2:09:06 on watch page; upload 2023-03-04; credentials opened on the buddha-haus.de biography page (born Prague 1949; university studies in Slavic studies, Sinology, Indology; ordained 1985 with training in Zen, Theravada and Chinese traditions; monastic stays incl. Burma; associated with Pa Auk Sayadaw; teaching since 1997); full transcript read by the verification lane (B-V04); assigned segments 00:27:11-01:01:49 and 01:09:42-01:33:04; transcript present on the watch page |
-| AN 5.179 Gihisutta, Sujato translation, https://suttacentral.net/an5.179/en/sujato | verified | 2026-10-26 | the five precepts passage quoted on the opened page; free, anonymous access |
-| Metta Sutta Khp 9, Sujato translation, https://suttacentral.net/kp9/en/sujato | verified | 2026-10-26 | goodwill instructions confirmed on the opened page ("May all beings be happy!"; "With love for the whole world, unfold a boundless heart"); the opened extraction shows no rebirth-dependent material; free, anonymous access |
+| AN 5.179 Gihisutta, Sujato translation, https://suttacentral.net/an5.179/en/sujato | verified | 2026-10-26 | the five precepts passage quoted on the opened page; free, anonymous access; excerpt re-verified 2026-10-26 against SuttaCentral's official translation data (sc_bilara_data, translation/en/sujato): opening stream-enterer declaration and precepts passage verbatim as the module quotes them; 213-word bounded excerpt defined in Step 3 |
+| Metta Sutta Khp 9, Sujato translation, https://suttacentral.net/kp9/en/sujato | verified | 2026-10-26 | goodwill instructions confirmed on the opened page ("May all beings be happy!"; "With love for the whole world, unfold a boundless heart"); re-verified 2026-10-26 against SuttaCentral's official translation data: the two quoted lines verbatim, in the order the module now quotes them, and the closing "they never return to a womb again" present — the traditional frame recorded in the Boundaries section; free, anonymous access |
 | Five-stage loving-kindness method, https://thebuddhistcentre.com/text/loving-kindness-meditation | verified | 2026-10-26 | opened anonymously; the five stages read on the opened page (yourself, good friend, neutral person, someone you dislike, everyone); publisher: the Buddhist Centre (Triratna); the b1 sitting guide is this module's timed application of that method |
 
 All links resolve for an anonymous visitor. No paywalled or app-gated content.
