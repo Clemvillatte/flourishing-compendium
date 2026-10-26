@@ -367,4 +367,114 @@ transcript read + chapter map
   boundaries from the player (cloud browser) against the content map
   in B-V01.
 
+## BG-2/BG-3/BG-4 harvest verification (2026-10-26; this receipt was
+written after commit 8c0eda160 — the exact push bound is the commit
+that carries this text, per git history)
+
+The owner's harvest receipts ask the verify lane to verify the video
+pages before module attachment. All three verified.
+
+### B-V06: Gil Fronsdal, Introduction to Mindfulness Meditation
+(2026 course, Insight Meditation Center)
+
+- The AudioDharma series page (audiodharma.org/series/24654) re-opened
+  independently: five classes by Gil Fronsdal, 2026.01.14-02.11,
+  printed durations 1:26:55 / 1:32:46 / 1:28:39 / 1:28:28 / 1:13:20,
+  "Freely offered by Insight Meditation Center", Creative Commons
+  BY-NC-ND 4.0 (confirmed on the class pages). Audio download and
+  transcript PDFs per class (e.g. class 3 transcript at
+  audiodharma.us-east-1.linodeobjects.com/transcripts/24393/...pdf).
+- VIDEO MIRRORS verified: each class page carries a Watch Video link,
+  and the five YouTube livestream recordings were extracted from the
+  series page HTML and verified individually (oembed + watch pages,
+  all on the IMC's official channel "Insight Meditation Center",
+  all with transcript sections indicated):
+  - Class 1: yrbgt6ZVYAk "(1 of 5)" — video duration 1:34:19
+    (published 2026-01-15)
+  - Class 2: 85G_0Ay4IXo "(2 of 5)" — 1:32:23
+  - Class 3: ZJO35R65fBw "(3 of 5) Emotions" — 1:28:28
+  - Class 4: GY4yGhXVCiQ "(4 of 5) Thinking" — 1:27:28
+  - Class 5: QXXpSV5zYWw "(5 of 5) Sitting Well and Doing Nothing" —
+    1:13:11
+- DURATION CAVEAT for module arithmetic: the VIDEO durations exceed
+  the AUDIO archive durations (class 1: 1:34:19 vs 1:26:55;
+  class 3: 1:28:28 vs 1:28:39 — mixed; class 4: 1:27:28 vs 1:28:28 —
+  video SHORTER; class 5: 1:13:11 vs 1:13:20 — 1s apart). The two
+  carriers are different edits of the same recordings; the module
+  must assign ONE carrier per class and use THAT carrier's printed
+  duration, stated in the source table. Do not mix the audio figures
+  with the video figures.
+- Content mapping: the 2026 five-class course (Breath-intro, Body,
+  Emotions, Thinking, Sit Well and Do Nothing) is NOT the same
+  sequence as the IMC transcripts page's six-week course (Breath,
+  Body, Emotions, Thinking, The Mind, Practicing in Daily Life —
+  the 2007 course by the same teacher; the owner's receipt mixes the
+  two). If the module pairs audio with transcripts, note which weeks
+  map (1-4 map cleanly; week 5 "The Mind" and week 6 "Daily Life"
+  have no 2026-class equivalent; class 5 "Sit Well and Do Nothing"
+  has no transcript equivalent in the six-week set).
+- Instructor credentials: the owner verified the AudioDharma speaker
+  page (audiodharma.org/speakers/1: senior guiding co-teacher IMC,
+  practice since 1975, teaching since 1990, Insight lineage and Soto
+  Zen authorization, PhD Buddhist Studies Stanford) — not re-opened
+  this session, stands.
+- Status: verified-video (all five classes: identity, access,
+  duration, transcript availability on the watch pages); the video
+  mirrors are on the teacher's own institutional channel, which also
+  satisfies the credentials clause beyond the speaker page.
+
+### B-V07: Thomas Yuhō Kirchner, Zen lectures (Buddhist Society,
+London)
+
+- Lecture 1 "Buddhism, Zen, and the Question of Suffering":
+  https://www.youtube.com/watch?v=UVXpdAavGgQ — verified via oembed
+  and the watch page (The Buddhist Society channel; 1:28:04;
+  published 2025-03-25; recording of the 27 June 2024 lecture;
+  transcript section indicated). The description carries the full
+  lecture abstract (dukkha as the motivation for meditation
+  practice; suffering as a positive force for growth) and the
+  speaker biography matching the Society's institutional page the
+  owner opened (Waseda, Shōfuku-ji under Yamada Mumon Roshi,
+  ordained 1974, Kenchō-ji and Kennin-ji training, Otani MA, Nanzan
+  Institute, International Research Institute for Zen Buddhism,
+  Tenryū-ji; publications The Record of Linji, Entangling Vines,
+  Dialogues in a Dream).
+- Lecture 3 "Thoughts on Meditation":
+  https://www.youtube.com/watch?v=jPxuvitdsRI — oembed-verified on
+  the same channel (1:40:17 per the search listing; watch page not
+  re-opened). Covers Zen meditation including the Rinzai/Soto
+  difference and the place of meditation in Buddhism — the m5 Zen
+  module's likely companion lecture.
+- Lecture 2 ("What Can Christianity Offer Zen?", 2 July) exists in
+  the series but is outside the walk's scope (Christianity dialogue);
+  not verified.
+- Status: Lecture 1 verified-video (identity, access, duration,
+  transcript indicated, credentials via the institutional page and
+  the description's biography — the credentials basis is the
+  Society's own page, already opened by the owner); Lecture 3
+  candidate with oembed identity only, watch-page verification owed
+  if attached.
+
+### B-V08: Stephen Batchelor, "A Secular Buddhism" (Radboud
+Reflects, 2018)
+
+- URL: https://www.youtube.com/watch?v=Hhlj_SU9SAE — verified via the
+  watch page (Radboud Reflects channel; 1:26:35; published
+  2018-07-10; recording of the 9 July 2018 lecture at Radboud
+  University; transcript section indicated; free, no paywall). The
+  description matches the degree's frame verbatim in substance
+  (Buddhism as a secular, pragmatic, ethical basis for human
+  flourishing) and links the university review page and podcast.
+- The owner verified Batchelor's credentials on his official
+  biography page (stephenbatchelor.org: eight years Tibetan Buddhist,
+  four years Son (Zen) training in South Korea under Kusan Sunim)
+  — not re-opened this session, stands.
+- Status: verified-video (identity, access, duration, transcript
+  indicated); the search-snippet 1:26:35 figure is now watch-page
+  confirmed.
+
+All three harvests are cleared for module attachment subject to the
+owner's segment assignment and workload arithmetic on the verified
+figures above.
+
 Timestamp correction (2026-10-26, measured 04:54Z): the clock labels first written in these receipts were invented readings, not measurements; they are corrected in place to the measured commit bounds recorded in git history (a7681a1bf 04:46:02Z through d0802492c 04:51:22Z). Appended rather than silently rewritten; the receipts themselves are otherwise unchanged.
