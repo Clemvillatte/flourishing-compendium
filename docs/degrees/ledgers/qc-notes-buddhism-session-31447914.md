@@ -48,6 +48,37 @@ criterion 2 previously required identifying a craving; both now permit
 "craving not established here" as a legitimate finding without penalty,
 consistent with outcome 3's allowance for outside harm and uncertainty.
 
+## b3-sila-in-practice (read in full)
+
+Conformant: my harvested Brahm remaster ethics arc (25:46-37:33) consumed
+with exact chapter boundaries, paraphrase rule for the AI transcript,
+rebirth sections deliberately unassigned with an outcome that asks the
+learner to state the placement, honest workload arithmetic (11 m 47 s
+measured segment; total about 2 h 20 m recomputed and consistent).
+Minor items only:
+
+1. Rubric "rejection example" for the rebirth placement reads "silence,
+   or a defense of rebirth"; a learner personally affirming rebirth is
+   not a failure of the outcome, which is stating where the material
+   lives. Suggest "silence, or no statement of where the material
+   lives".
+2. The booklet reading estimate (~2,000 words at 130 wpm) is an
+   estimate; the receipt (B-T03) carries the section list, so the word
+   count could be measured from the PDF for exactness.
+
+## b5/b6/b7 scope-conformity scan (source tables and boundaries read)
+
+All three school modules handle the rebirth exclusion explicitly
+(passing mention, no cosmology unit; b7 uses Batchelor's explicit
+setting-aside of rebirth as the Secular frame). The video-page
+verification my receipts left outstanding was completed by the
+producing session (Kirchner Lecture 1 at 1:28:04 and Thoughts on
+Meditation at 1:40:17 on the Society's channel; Batchelor 1:26:35 on
+the watch page), and the receipts' caveats were respected. Workloads
+are labelled (b5 about 3 h 30 m; b6 about 4 h 20 m; b7 about 4 h 40
+m); b6 and b7 sit at the heavy end for L2 (two full lectures each), a
+candidate segmentation question for the supervisor's module-QC pass.
+
 ## Receipt corrections applied to the main ledger this pass
 
 - The Kirchner Buddhist Society series receipt was upgraded from
