@@ -711,6 +711,38 @@ passages below confirmed on the raw text.
   appendix.
 
 
+### M6 preparation (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:31Z measured; no module prose — gated)
+
+The one previously-unopened M6 source opened this pass; the other two
+were already opened and measured this session (Martinez-Priego et al.
+2024 in the M2 preparation; Woolley et al. 2025 in the M1 verification
+status and the M2 boundaries packet).
+
+- Ryan and Deci 2020, Intrinsic and extrinsic motivation from a
+  self-determination theory perspective: Definitions, theory,
+  practices, and future directions (Contemp Educ Psychol, preprint PDF
+  hosted at selfdeterminationtheory.org): downloaded without
+  authentication; title page confirms the journal, DOI and authors.
+  Full paper 13,095 words on the raw pdftotext basis (includes
+  references; the writing session should measure the assigned excerpt
+  on a stated basis). Verbatim-confirmed on the extracted text: the
+  continuum sentence ("these varied forms of motivation or regulatory
+  styles are arranged in Figure 1 along a continuum reflecting their
+  relative autonomy"), and the surrounding definitions of identified
+  and integrated regulation, intrinsic motivation's interest basis,
+  and amotivation ("Amotivation... can result from either lack of felt
+  competence to perform, or lack of value or interest. Amotivation has
+  been a strong negative predictor of engagement, learning, and
+  wellness."). The passage also carries the SDT caution that most
+  intentional behaviors are multiply motivated — relevant to the M6
+  continuum-classification exercise design.
+- Martinez-Priego et al. 2024: see the M2 preparation above (opened,
+  passages verbatim-confirmed, dual-basis counts recorded).
+- Woolley et al. 2025: opened and quoted in M1's appraisal exercises;
+  all quoted statistics verified on the opened PMC page (ledger
+  verification status section).
+
+
 Supervisor Phase 0 ruling (ledger section of the same name): M1 repairs
 applied and ACCEPTED by the verifier's re-review (all three findings
 CLOSED, module SHA 99e5abbe...; disposition ready for supervisor
