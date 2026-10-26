@@ -25,3 +25,11 @@ Scope: the four live degrees (Psychological Dimensions, WoL Daoism, WoL Buddhism
 - Module list heading now reads Reading list, Viewing list, or Viewing and reading list according to what the module assigns.
 - Daoism and pragmatism activity lines no longer use em dashes; psychdim m3, m4, m5 activity lines expand RNT, ANT and SCCS on first use (expansions taken from the module docs and the source titles).
 - Degree descriptions for Daoism and pragmatism are plain-language one-sentence summaries; the owner-written Buddhism and psychdim descriptions were left unchanged (psychdim still contains "PBT EEMM").
+
+## Later in the pass (about T+47)
+- Completion labels follow the source type: Mark as read and Read for readings, Mark as watched and Watched for videos; the degree progress chip says watched, read, or done. The rendered pass now fails if the reading-only pragmatism degree says watched.
+- The tab title now follows the academy view (flagged by deg-integrate).
+- Registry locators BUD-B2-02 (about 1,000 words) and BUD-B2-03 (about 30 words) corrected, as measured and recorded in docs/degrees/verify/deg-fix-text-count-corrections-1026c.md.
+- Buddhism openingNote no longer repeats the degree description.
+- Live check at about T+47: the published site's app.js carries the new list headings and the Mark as read label.
+- Full suite at this point: node tests (display 7, randomizer 9, routes, legacy access, storage search, baseline errors, image network, optional stats) and Python tests (academy migration, conflict markers, learner audit, phase A splice, storage adapter) all pass; learner audit and rendered pass report 0 defects.
