@@ -306,8 +306,11 @@ the live supervisor is asked to route or obtain that decision; a
 supervisor response is not by itself assumed to be the authorization.
 The theory pilot mod-phil-1 has passed its advisor
 final review; the practice pilot is parked by the owner (no Qi Gong
-work today). The coverage gate still awaits independent confirmation
-(the deg-gate reviewer holds that review as of 2026-10-26).
+work today). STATUS CORRECTION (2026-10-26, later the same day): the
+coverage gate recorded in this section as awaiting confirmation has
+since been recorded CLEARED by the deg-gate reviewer, and Gate 1 is
+cleared and confirmed (see the Gate decisions table); the passage
+above is preserved as the historical record of the flag as written.
 
 Sources opened this session (2026-10-26, all raw fetches, free access;
 word counts measured for the assigned segments):
@@ -1144,7 +1147,8 @@ what the framework helps the learner understand or choose in that case
 and what the evidence leaves uncertain. Rows whose assessments test recall
 or terminology only are noncompliant. Taught, practised and assessed
 refer to the planned module design; M1 is written (DRAFT NOT
-CLEARED, blocked on the Phase 0 stop-gate ruling and Gate-1 re-review)
+CLEARED; Gate-1 scope and coverage are cleared, and the module itself
+awaits its own review and the authorized stop-gate decision)
 and the other modules are not built, so every row's delivery status is
 planned, not built. Gaps named below are
 blocking gaps on the register, not quiet omissions.
