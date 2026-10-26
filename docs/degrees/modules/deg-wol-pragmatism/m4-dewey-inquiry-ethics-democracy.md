@@ -437,9 +437,11 @@ covering this module's material found candidate groups recorded in the
 ledger (Bernstein on Dewey; Sprintzen on Dewey; UCSC PHIL 112 on
 Dewey), none of which is verified to the media standard: identity is
 confirmed for the candidates and presenter credentials for Bernstein
-and Sprintzen, but the UCSC instructor's institutional verification
-remains open, and playback, captions and measured durations remain
-uninspected for all of them. Coverage: the deg-verify-b coverage
+and Sprintzen; the UCSC instructor (Abraham D. Stone) is verified on
+the university's own campus directory (Associate Professor, Philosophy
+Department, UC Santa Cruz, opened 2026-10-26, receipt in the ledger).
+Playback, captions and measured durations remain uninspected for all
+of them. Coverage: the deg-verify-b coverage
 receipt records strong transcript-level evidence for the Bernstein
 candidate on this module's topics (inquiry, democracy,
 deliberation, quoted as ASR text in the receipt) and no coverage

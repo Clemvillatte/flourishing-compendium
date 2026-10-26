@@ -1726,3 +1726,21 @@ and boundaries identical in both extractions. The module's 778 stands
 under its stated rule; the verifier's 774 stands under theirs; the
 cause is no longer unestablished. Module corroboration note updated
 to record the reconciliation. No other module text changed.
+
+## m4 UCSC instructor institutional verification COMPLETE (2026-10-26, worker-pplx-pragmatism-1026e)
+
+The m4 preparation entry left "institutional verification of the
+instructor's credentials on a UCSC page" pending for the UCSC PHIL 112
+candidate (KqJ9uyYFe2E, channel "Abraham Stone"). Opened this session:
+https://campusdirectory.ucsc.edu/cd_detail?uid=abestone (2026-10-26,
+between the 08:17Z and 08:21Z clock readings; official UC Santa Cruz
+campus directory) — Abraham D Stone, Associate Professor, Philosophy
+Department, UC Santa Cruz. Corroborated by the department's own
+faculty listings and the UCSC general catalog (PHIL instructor of
+record) in the same session's search results; the philosophy.ucsc.edu
+directory page itself is robots-disallowed to this platform's fetcher,
+so the campus directory is the opened institutional page of record.
+The module's video-first check paragraph is updated: the UCSC
+instructor's institutional verification is no longer open. Playback,
+captions, coverage and measured duration for the candidates remain
+open as before.
