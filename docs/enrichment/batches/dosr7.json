@@ -12,20 +12,20 @@
   "detail": {
     "right-livelihood": "4 questions — published.",
     "creation": "3 questions (old-map conversion landed; 1-question gap repaired) — published.",
-    "creativity": "3 questions (old-map conversion landed; story cards re-pointed to kept ST copies this session) — published.",
+    "creativity": "4 questions (3 strict-certified + 1 null-replication comparison, Baird 2012 vs Murray 2024) — published.",
     "procrastination": "3 questions (old-map conversion landed) — published."
   },
   "note": "Substantive per-question close complete (worker-pplx-deg-gate-1026b, 2026-10-26): all four dossiers read in full, all questions certified or documented, all quotes verified or adjudicated verbatim, creativity brought to the bar with a fourth strict-certified question (Kim 2005 vs Jauk 2013). Band closed.",
   "in_progress": "none — band complete",
   "flagged": {},
   "final_verification": {
-    "timestamp": "2026-10-26T02:41:20Z",
+    "timestamp": "2026-10-26T02:41:20Z; corrected 2026-10-26T02:43:08Z",
     "worker": "worker-pplx-deg-gate-1026b",
     "advisor_round": "3 (final verification) — applied in full",
     "changes": [
       "creativity Q4 rewritten: heading narrowed to 'Does evidence support an intelligence threshold for creative potential?'; Kim's threshold-specific analysis quoted verbatim (IQ below r=.201 vs above 120 r=.235, chi2=2.004 p=.157, not statistically different); 'quicker than average' framing removed; Jauk boundary preserved"
     ],
-    "checks": "dossier_check exit 0 all four; density 0 dense all four; dossier_quote_verify 0 NOT-FOUND all four (Kim/Jauk auto-verified; prior exceptions resolved by rewrite)",
+    "checks": "dossier_check exit 0 all four; density 0 dense all four; dossier_quote_verify exit 0 all four with 24 quotes not auto-located (right-livelihood 1/21, creation 6/44, procrastination 3/15, creativity 14/39) — all in documented manual-exception classes (PMC/archive.org/OUP/Gutenberg urllib failures and parser false positives), adjudicated on opened carriers per the rounds above",
     "registry": "rebuilt for creativity; site/assets/app.js committed and node --check OK",
     "live_site": "body content verified on GitHub Pages (cache-busted fetches): Maslach continuum sentence, Davidson best-judgement sentence, Baer domain-specific conclusion, Kim threshold analysis all serving",
     "source_ledgers": "entries appended for all new primaries in docs/enrichment/sources/dossiers/{right-livelihood,procrastination,creativity}.md with carriers and read-limits stated",
