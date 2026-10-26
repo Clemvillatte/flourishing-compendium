@@ -65,8 +65,11 @@ current strength of evidence for every regulation strategy.
 
 Martínez-Priego, Poveda García-Noblejas and Roca describe a systematic
 review and conceptual analysis of emotion-regulation models, strategies
-and goals. Their methods searched literature from 2019 through 2023 and
-classified models through their stated conceptual framework.
+and goals. Their electronic search took place in November 2023; eligible
+articles were published in 2019–2023, while referenced models and theories
+had no date restriction. The team also searched reference lists and
+consulted key informants. Older foundational models therefore remained
+eligible for identification through the selected articles.
 ([Review, Methods](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/).)
 
 The introduction explicitly cautions against a simple correspondence
@@ -153,3 +156,11 @@ No exact source quotation is introduced here, and none of these sources
 is added to the ledger by this verifier. All cited source texts were
 opened; the Wisconsin PDF was read through the documented fallback
 after native fetch failed. No paywalled source is recommended.
+
+## Independent milestone review
+
+The read-only advisor found no blocking source-fidelity, finite-scope or
+new-gate defect on 2026-10-26. The Methods clarification above incorporates
+the advisor's remaining precision suggestion after a fresh source opening.
+This review concerns source preparation; assignments, workload, rubrics
+and M2–M8 prose retain their existing holds.
