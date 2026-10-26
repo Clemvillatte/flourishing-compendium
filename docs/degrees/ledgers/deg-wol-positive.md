@@ -185,3 +185,24 @@ Donaldson 2025) are both open-access full texts, opened and recorded. The
 pair gives the criticisms-and-overreach exit capability both sides of the
 debate. Module attachment, reading windows and how the walk stages the
 debate remain the degree owner's decisions after Gate 1. Status UNSET.
+
+
+## Strengths-row film candidate (2026-10-26, worker-pplx-positive-1026p)
+
+Fetch-time bound: the oembed check below ran before the 2026-10-26T09:42:21Z clock read
+this entry was written against.
+
+| URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
+| https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=U3nT2KDAGOc | 2026-10-26, before 2026-10-26T09:42:21Z | worker-pplx-positive-1026p | oembed confirms "The Science of Character" on the official Tiffany Shlain channel (metadata only — playback not tested) |
+
+Candidate note: The Science of Character (Tiffany Shlain and Let It Ripple
+Studio, 2014, an 8-minute popular-science film on the character-strengths
+framework; the search-visible secondary record includes an APA classroom
+lesson plan built around it). It is a POPULAR-SCIENCE film, not an academic
+lecture: the degree owner should decide whether it carries the strengths row
+directly, serves as supplementary material, or is excluded under the
+finite-scope clause (the row's teaching core may be better served by the
+Santos course's strengths content or a dedicated Seligman lecture —
+unverified). Playback, duration measurement, captions and content
+classification from the film itself are OUTSTANDING. Status UNSET.
