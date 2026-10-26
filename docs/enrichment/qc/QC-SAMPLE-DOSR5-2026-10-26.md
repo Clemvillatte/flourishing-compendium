@@ -462,3 +462,28 @@ direct download of the archive.org PDF:
 Remaining unadjudicated from the dosr7 files: 10 items (tandfonline x4,
 thaleszp.com, rider.edu, scispace x2, semanticscholar, academic.oup,
 web.archive.org — all on hosts that block automated fetchers).
+
+# QC sample 15: dosr7 creativity — Schumpeter and Baer (2026-10-26 02:46:47Z, measured in-command)
+
+Two more FALSE POSITIVES, confirmed — both defeated by PDF text-layer
+artifacts rather than wording deviations:
+
+1. Schumpeter, Capitalism, Socialism and Democracy ch. VII (thaleszp.com
+   PDF): "incessantly revolutionizes the economic structure from within,
+   incessantly destroying the old one, incessantly creating a new one" is
+   printed verbatim except the carrier attaches a footnote marker to
+   "revolutionizes" ("revolutionizes2"), which breaks exact matching. The
+   companion span ("process of Creative Destruction is the essential fact
+   about capitalism") matches exactly.
+2. Baer, The Case for Domain Specificity of Creativity (rider.edu PDF):
+   "A growing body of evidence suggests that creative performance is domain
+   specific" is printed verbatim except the PDF text layer carries soft
+   hyphens inside words ("evi-dence"), which breaks exact matching. The
+   companion span ("The correlations among the creativity ratings of
+   products made by the same person in these studies have been quite low")
+   matches exactly.
+
+Remaining unadjudicated from the dosr7 files: 8 items (scispace x2,
+tandfonline x4, semanticscholar, academic.oup, web.archive.org — one
+tandfonline item is the doi.org redirect — all on hosts that block
+automated fetchers).
