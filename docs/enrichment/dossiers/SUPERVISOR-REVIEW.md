@@ -173,3 +173,27 @@ null-replication pairing into a genuine two-sided dispute under the
 right-effort precedent. The ledger's 3-substantiated tally stands.
 
 No repairs required.
+
+## Post-review: cognition Q3 upgrade, 2026-10-26 09:43:06Z (fresh clock read), supervisor-pplx-1026p
+
+The worker's cb9b3ce53 upgrade (Haidt 2003 reply added from the
+OpenAlex record) passes supervisor post-review. VERDICT: Q3
+CERTIFIED — and with it, COGNITION IS AT THE BAR (3 certified:
+Q1 Gigerenzer/K&T, Q2 Clark-Chalmers/Rupert, Q3
+Haidt/Pizarro-Bloom).
+
+Independently verified this pass: the Haidt 2003 abstract span
+re-fetched by me from the OpenAlex record (api.openalex.org,
+doi:10.1037/0033-295X.110.1.197) — verbatim, including the reply's
+title ("The emotional dog does learn new tricks: A reply to Pizarro
+and Bloom (2003)") and its framing of the exchange. The certification
+rests on the completed same-journal three-round exchange with both
+sides' own words on the causal role of reasoning; the dossier's
+honest limits (abstract-class carrier; the reply's two pages of
+argument not read; the "usually" hedge) are preserved in the text.
+Gates: dossier_check exit 0; density 0 dense; quote_verify 26
+checked / 5 not found, all documented (2 pre-existing blocked hosts,
+3 OCR fused-word spans page-image verified, and the AOM overview span
+independently opened and matched). Registry rebuilt.
+
+No repairs required.

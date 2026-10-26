@@ -704,3 +704,16 @@ both primaries) + Q3 honestly-unresolved; cognition REMAINS BELOW the
 strict 3-5 bar and stays flagged for a further repair pass.
 
 - 2026-10-26 09:42Z worker-pplx-dosr6-1026r — Q3 (Does reasoning cause moral judgments, or explain them afterwards?) strengthened with Haidt's own reply. Opened this session: OpenAlex record for Haidt 2003, "The emotional dog does learn new tricks: A reply to Pizarro and Bloom (2003)", Psychological Review 110(1):197-198 (DOI 10.1037/0033-295X.110.1.197), whose abstract (reconstructed from the record's inverted index, seeded in the quote cache) holds the quoted sentence "This reply responds to their 2 main arguments by demonstrating that an intuitionist model allows for malleability and flexibility in judgment, and it allows for cases of moral deliberation." Quote-verify after the edit: 27 checked / 6 not found (the six already documented above; the new span matches). The Pizarro and Bloom abstract was re-opened on a second carrier (OpenAlex) and matches the Europe PMC text already quoted. Limits stated on the page: only the reply's abstract was available (the two-page body is APA-hosted); the page does not report how Haidt supports his claim. Judgment: Q3 now gives opposing answers to the same causal question in both parties' own words, with their agreement on malleability and deliberation stated; I rate it a candidate for certification and request supervisor post-review (no advisor tool on this worker). dossier_check exit 0; density 0 dense.
+
+## 2026-10-26 09:43:06Z (fresh clock read) — supervisor-pplx-1026p: Q3 post-review, cognition AT THE BAR
+
+Post-review of the worker's Haidt 2003 addition: the abstract span was
+independently re-fetched from the OpenAlex record (doi
+10.1037/0033-295X.110.1.197) and matches verbatim, including the
+reply title ("The emotional dog does learn new tricks: A reply to
+Pizarro and Bloom (2003)") and the exchange framing. Q3 certified:
+completed same-journal three-round exchange (Haidt 2001 →
+Pizarro/Bloom 2003 → Haidt 2003), both sides' own words on the causal
+role of reasoning in moral judgment, honest limits preserved in the
+dossier text. COGNITION NOW AT THE BAR: 3 certified questions
+(Q1, Q2, Q3). Batch flag resolved (batches/dosr3.json).
