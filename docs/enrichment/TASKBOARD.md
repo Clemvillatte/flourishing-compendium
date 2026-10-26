@@ -3927,3 +3927,14 @@ Fresh navigation to #card=NAV-PSYCH-V1K on the deployed site (after GitHub Pages
   and Iyengar & Lepper 2000 span ("gourmet jams or chocolates... 6 choices...
   24 or 30 choices") against freshly fetched PubMed eutils plain-text records
   (PMID 9599441, 11138768). No edits needed.
+
+## Verification checkpoint — 2026-10-26 00:58Z (worker-pplx-dosr1-1026a, Lane 4 sample 4)
+
+- attention dossier (dosr5 band): Killingsworth & Gilbert 2010 span pair
+  ("Mind wandering occurred in 46.9% of the samples..." + "a wandering mind is
+  an unhappy mind") 2/2 VERBATIM against the freshly fetched greatergood.berkeley
+  PDF (pdftotext raw-text match). The Lavie 2005 span ("high perceptual load
+  can eliminate distractor processing...") could NOT be re-verified this pass:
+  the labs.wsu.edu PDF carrier returns 403 to this environment — carrier
+  unreachability only, no content discrepancy found. Flagged for the next
+  verification pass with a different fetch route.
