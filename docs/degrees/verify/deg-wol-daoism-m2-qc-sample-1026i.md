@@ -32,7 +32,8 @@ Chapter 78:
    that he who receives the derision of the state is the lord of
    the state altars; he who receives the misfortune of the state is
    the king of the world." — the module's paraphrase tracks it
-   faithfully (its only compression is the "that" after "says").
+   faithfully (its compressions are the dropped "Thus" and the
+   "that" after "says").
 
 The module's chapter-11 paraphrase (wheel/vessel/room, "that which
 is constitutes what is valuable, but that which is not constitutes

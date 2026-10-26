@@ -26,17 +26,28 @@ timestamped transcript rendered (13,193 characters of page text).
 2. The bathroom-lead-in disclosure ("a brief bathroom lead-in
    begins before the printed stop"): the men's-room sentence ("I
    sometimes go to the men's room to escape the slings and arrows
-   of outrageous extroverts") sits between the printed timestamps
-   13:27 and 14:04 — i.e., it begins before the module's printed
-   stop at 13:59. CONFIRMED; the module's warning is accurate and
-   useful.
+   of outrageous extroverts") sits inside the transcript block
+   printed at timestamp 13:27 (the block runs to the next printed
+   timestamp, 14:04). The sentence's own start time is not printed;
+   what is established is that it begins somewhere in 13:27-14:04,
+   which is consistent with the module's "begins before the
+   printed stop" (13:59) but does not by itself pin the start
+   before 13:59. CORRECTION of this receipt's earlier "i.e."
+   phrasing: "between 13:27 and 14:04" does not entail "before
+   13:59"; the module's claim is CONSISTENT with the printed
+   timestamps and is the natural reading of the block, but the
+   receipt records it as consistent-with rather than
+   timestamp-proven.
 3. The extended later cubicle anecdote not assigned: the cubicle
    anecdote runs at timestamps 14:05-14:51, after the printed stop
    — outside the assigned window, as the module states. CONFIRMED.
 
 ## Disposition
 
-- All three disclosures PASS: accurate against the rendered
-  official transcript.
+- Disclosures 1 and 3 PASS: accurate against the rendered official
+  transcript. Disclosure 2 is CONSISTENT with the printed
+  timestamps and the natural reading of the block, but is recorded
+  as consistent-with rather than timestamp-proven (see the
+  correction above).
 - No defects found in this sample. No module, ledger, band or
   shared board was edited by this receipt.
