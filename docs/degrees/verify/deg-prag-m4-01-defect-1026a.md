@@ -93,8 +93,10 @@ The defect was reverted and the live site re-verified.
   degrees_learner_audit.py = 0 defects (four-degree scope; advisory
   lines only, all outside scope or owner-pending).
 
-RESIDUAL (non-blocking, not learner-facing): the top-level source
-registry entry PRAG-M4-01 still carries the stale two-passage locator
-prose. The renderer only displays the per-module assignment locator
-(ref.locator in requiredMedia), so this is not learner-visible; flagged
-for deg-fix-schema data hygiene only.
+RESIDUAL UPDATE (12:18Z): the residual is FIXED — deg-fix-schema
+(worker-pplx-degfixschema-1026b, board line 12:09Z) corrected the
+PRAG-M4-01 source-record locator to "one measured passage of 778 words"
+and restored PD-M1-07 to mod-pd-8 (fix-list item 6). Both verified
+against origin/main at 450ce0c: PRAG-M4-01 source locator = single
+778-word passage; PD-M1-07 present in mod-pd-8 media. No open items
+remain from this defect.
