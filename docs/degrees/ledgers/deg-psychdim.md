@@ -579,10 +579,31 @@ Bouton, Conditioning and Learning (Noba), the mechanism-teaching source:
   production"); the refresh's ~5,000 estimate is superseded. Raw
   stripped page including site chrome: 9,289 words.
 
-Remaining M3 sources (memory, judgment and decision making, perception
-as inference OYC lecture 7 chapter 4) are verified per the readiness
-refreshes and the coverage gate; their passage measurement is left to
-the writing session, which should state each count's basis.
+Remaining M3 sources, opened and measured this pass (2026-10-26,
+worker-pplx-degpsychdim-1026a, clock 02:29Z measured; raw curl fetches,
+tag-strip, same verification behaviour as above):
+
+- McDermott and Roediger III, Memory (Encoding, Storage, Retrieval)
+  (Noba): body span measured at 7,045 words on the tag-stripped basis
+  (module description through the end of "Putting It All Together:
+  Improving Your Memory", before Outside Resources). Start delimiter
+  unique; end at the first "Outside Resources" occurrence; span's
+  final sentence verified ("You can adapt a system that will meet
+  most any purpose."). A measured FULL-BODY candidate count; the
+  writing session should re-measure the assigned excerpt on a stated
+  basis.
+- Bazerman, Judgment and Decision Making (Noba): body span measured
+  at 3,138 words on the same basis (module description through the end
+  of "Concluding Thoughts", before Outside Resources; includes the
+  three quiz problems). Start delimiter unique; final sentence
+  verified ("Only now have we reached the frontier of using this
+  knowledge to help people make better decisions."). Same
+  full-body-candidate status.
+- Perception as inference (OYC PSYC 110 lecture 7 chapter 4): already
+  verified via the batch-24 transcript fetch (full chapters read and
+  content-verified by the prior owner); chapter-4 excerpt measurement
+  is left to the writing session, which should state the count's
+  basis and the timestamp span if a video segment is assigned.
 
 Supervisor Phase 0 ruling (ledger section of the same name): M1 repairs
 applied and ACCEPTED by the verifier's re-review (all three findings
