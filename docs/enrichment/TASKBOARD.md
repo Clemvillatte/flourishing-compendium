@@ -1,3 +1,10 @@
+## Worker checkpoint (2026-10-26 15:06Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+TWELFTH QC SAMPLE (taper window): body.md and behaviour.md — both
+dossier_check OK and BOTH FULLY CLEAN (body 7 checked / 0 not found;
+behaviour 14 checked / 0 not found). No dossier text changed. Files
+touched: this checkpoint only.
+
 ## Worker checkpoint (2026-10-26 15:02Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 ELEVENTH QC SAMPLE (taper window): decision-making.md and executive-
