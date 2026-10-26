@@ -17,7 +17,7 @@ The pool names "Pigliucci's Stoicism course" without a URL, so the check first i
 
 ### 2. Free Stoicism teaching-layer alternative surfaced (for gap #7)
 
-While surveying, a genuinely free academic-run Stoicism course family surfaced and was corroborated by multiple sources read this session: **Modern Stoicism's free online courses — Stoic Week (7-day) and Stoic Mindfulness and Resilience Training (SMRT, 4-week)**, run by the non-profit Modern Stoicism (Christopher Gill, Tim LeBon, Donald Robertson, Eve Riches). These are free structured courses with daily Stoic exercises; the Dantes.io resource page read this session lists them as free. This is a candidate for the greek pool's teaching-layer gap (#7) if the lane wants a verified-free Stoicism practice course. (Note: Modern Stoicism courses are practice-oriented; whether they satisfy the "teaching content" bar for mod-greek-10 is the owning lane's call.)
+While surveying, a genuinely free academic-run Stoicism course was directly opened this session (v2 upgrade): **Modern Stoicism's Stoic Week** — https://learn.modernstoicism.com/p/stoic-week lists "Stoic Week 2026 – Stoicism and Wellbeing", marked **FREE**, "Live Like a Stoic for a Week", beginning Monday, October 26, 2026; instructors Eve Riches & Tim LeBon (both directly read on the page; the page does not state registration requirements or material formats). This is a candidate for the greek pool's teaching-layer gap (#7) if the lane wants a verified-free Stoicism practice course. (Note: practice-oriented; whether it satisfies the "teaching content" bar for mod-greek-10 is the owning lane's call.)
 
 ## Status for the lane
 
