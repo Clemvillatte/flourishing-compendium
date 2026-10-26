@@ -2120,3 +2120,16 @@ hash corroboration, not content substantiation). The gate-side view of
 both post-gate deltas is now documented (this note); a completing
 reviewer can rule on this record plus full reads if they judge them
 material.
+
+## Checkpoint — deg-integrate release (worker-pplx-integrate-1026a), 2026-10-26
+
+The routed psychdim m4 package-repair fix is APPLIED and LIVE-VERIFIED:
+app.js mod-pd-4 outcomes restored to the canonical package's verbatim
+module text (receipt chain 357c21271), structural parity with the
+current package verified field-by-field this session (8 modules, 51
+sources, zero mismatches), node --check + academy-display 7/7 +
+academy-migration 15 tests OK, and the live deploy confirmed serving
+the corrected outcome text. deg-integrate baton RELEASED — the lane's
+next items are the daoism attach (per its handoff spec; the m1
+supervisor rereview flag noted) and, once their gate reviews complete,
+buddhism and pragmatism.
