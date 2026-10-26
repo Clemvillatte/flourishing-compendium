@@ -105,3 +105,7 @@ Deep trace added for b3 (docs/degrees/verify/deg-wol-buddhism-b3-deep-trace-1026
 ## Addendum 6 (2026-10-26, later same session)
 
 Deep trace added for b6 (docs/degrees/verify/deg-wol-buddhism-b6-deep-trace-1026a.md): PASS - both whole-video entries value-by-value with their two-stop viewing plans (1:28:04 at 44:00; 1:40:16 at 50:00). With b1 through b6 traced, the verdict's deep-trace reservation now covers b7, b8 and b9 only.
+
+## Addendum 7 (2026-10-26, later same session)
+
+Deep trace added for b7 (docs/degrees/verify/deg-wol-buddhism-b7-deep-trace-1026a.md): PASS - all three entries value-by-value (whole Batchelor lecture with two stops; the Week 1 transcript with two sittings; the Class 1 recording as optional, matching the schema lane's same-day correction). With b1 through b7 traced, the verdict's deep-trace reservation now covers b8 and b9 only.
