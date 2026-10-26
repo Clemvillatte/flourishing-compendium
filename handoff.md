@@ -3970,13 +3970,21 @@ supervisor module-QC). Production for the lane is exhausted. Since
 then this session ran verification passes over the whole band, all
 pushed with ledger entries: quote spans for m1-m5 re-verified on
 opened sources (m4: 34 spans plus triaged halves; m5: all spans; m2:
-18 spans; m3: 21 spans plus ellipsis halves; all verbatim, one
-nested-mark drop noted per the drop-markers convention); reading word
-counts re-verified (m2 exact 834/1,368/2,371; m3 B3 exact 157,
-others within 1-2 words method noise; m1 excerpt 645-647 across
-cleanings; m4 delta 774/778 stands unresolved per the advisor's
-final review: plain-text 778 reproduced, verifier's 774 not, cause
-unestablished; see the ledger's corrections entry).
+18 spans; m3: 21 spans plus ellipsis halves; all verbatim; one
+nested-mark drop was noted in the first pass and then, per the
+advisor's final review, RESTORED in m3 and re-verified verbatim, and
+m3's "five selections" corrected to four; the passes certify only
+the specific spans listed in each ledger entry, not all quotes); reading word
+counts re-verified (m2 exact 834/1,368/2,371; m3 B3 exact 157 at
+four selections, others with reproduced figures and unresolved
+one-to-two-word differences; m1 excerpt 645-647 across cleanings;
+m4 delta 774/778 stands unresolved per the advisor's final review:
+plain-text 778 reproduced, verifier's 774 not, cause unestablished;
+see the ledger's corrections entry). The advisor's final review also
+required m4's video-first summary refreshed against the receipts
+(UCSC verification still open, Bernstein coverage evidence offered
+for a module decision, no decision taken) and a ledger corrections
+entry narrowing this session's claims; all applied and pushed.
 On the fallback ladder: responsive to supervisor QC feedback. m1/m3 media playback environment-blocked in all
 tried routes; m4 Reading A count delta 774 vs 778 stands unresolved
 (plain-text 778 reproduced, verifier's 774 not, cause unestablished;
