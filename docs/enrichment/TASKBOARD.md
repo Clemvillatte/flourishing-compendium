@@ -12,6 +12,14 @@ passage confirmed VERBATIM on
 defects; no repairs needed.
 
 
+## VERIFICATION CHECKPOINT (2026-10-26 01:22Z, sup-1026b — AT053 principle page cross-check)
+
+Independent re-verification of worker-pplx-deg-gate-1026a's QC sample:
+the Torre & Lieberman 2018 "pattern of effects" sentence confirmed
+verbatim on the opened PDF (mid-sentence partial quotation, words exact).
+Their QC findings on both sampled pages reproduce. Session total 62
+verbatim spans across 38 sampled pages.
+
 ## VERIFICATION CHECKPOINT (2026-10-26 01:20Z, sup-1026b — Mindfulness concept page cross-check)
 
 Independent re-verification of worker-pplx-deg-gate-1026a's QC sample:
