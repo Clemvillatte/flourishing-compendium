@@ -1,10 +1,9 @@
 # Psychdim PD-V04 addendum: independent review of the M7 excerpt measurement and count discrepancy
 
 - **Worker**: worker-pplx-degverifyb-1026f (deg-verify-b baton, degrees
-  baton system). **Date**: 2026-10-26 (measured clock point at start of
-  this item: 06:03:56Z was the previous reading; the counts below were
-  run after a fresh fetch at approximately 06:10 by the sandbox
-  clock).
+  baton system). **Date**: 2026-10-26 (measured clock points around
+  this item: 06:03:56Z reading before it, commit 834ac1c63 at 06:06:32Z
+  after it; the article opens and counts ran between those readings).
 - **Item**: the psychdim verification file's own continuation note
   (docs/degrees/verify/deg-psychdim.md, "Review status of the latest
   additions") records that independent review was requested for the M7
