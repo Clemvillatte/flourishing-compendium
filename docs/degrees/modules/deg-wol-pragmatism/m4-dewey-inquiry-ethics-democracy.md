@@ -30,10 +30,14 @@ The exit criteria below are the entry competencies of m5, the capstone.
    action in a case, showing what imagination tries out and what would
    count as the rehearsal failing.
 3. Apply the whole pattern to one recurring disagreement of your own
-   without a template, and appraise which parts of it evidence could
-   settle and which belong to values or to joint inquiry.
+   without a template, and appraise the case: separate what you
+   observed, what you recall, what you assume and what you only
+   imagined; name what evidence supports each proposed explanation;
+   adapt your proposed action to your constraints with reasons; and
+   state what evidence or feedback would change your judgment.
 4. Compare Dewey with Peirce on the same question, where inquiry starts
-   and what ends it, naming where they disagree.
+   and what ends it, naming what each account emphasizes and where
+   each reaches its limit.
 5. Explain Dewey's account of what discussion does for shared problems,
    and teach the pattern back to the person in your disagreement.
 
@@ -84,8 +88,11 @@ Read Reading B from [Human Nature and Conduct](https://www.gutenberg.org/files/4
 (Dewey 1922, Project Gutenberg #41386, public domain), Part Three, the
 section "The Nature of Deliberation": the contiguous passage that begins
 "Our first problem is then to investigate the nature of ordinary
-judgments" and ends "the object is that which objects" (449 words
-measured on the downloaded plain text, same method as Reading A).
+judgments" and ends "the object is that which objects" (476 words
+measured on the downloaded plain text by pinned opening and closing
+strings, whitespace-normalized; an earlier line-number count of this
+passage returned 449 and was found wrong at the string check,
+corrected here).
 
 Deliberation, in his words: "deliberation is a dramatic rehearsal (in
 imagination) of various competing possible lines of action." It starts
@@ -115,9 +122,9 @@ Read Reading C from [The Public and Its Problems](https://www.gutenberg.org/eboo
 (Dewey 1927, Project Gutenberg #71000, public domain), Chapter VI: the
 contiguous passage that begins "The strongest point to be made in behalf
 of even such rudimentary political forms" and ends "it may be successful
-in becoming a majority" (375 words measured on the downloaded plain
-text, same method as Reading A; the passage ends at that sentence inside
-the source's final line).
+in becoming a majority" (374 words measured on the downloaded plain
+text by pinned opening and closing strings; the passage ends at that
+sentence inside the source's final printed line).
 
 The passage, in his words: the asset of even "rudimentary political
 forms as democracy has already attained" is "that to some extent they
@@ -130,12 +137,18 @@ means by which a majority comes to be a majority is the more important
 thing", and the important thing is "antecedent debates, modification of
 views to meet the opinions of minorities, the relative satisfaction given
 the latter by the fact that it has had a chance and that next time it
-may be successful in becoming a majority." The chapter also states
-the concept that makes a shared problem public: "The public consists of
+may be successful in becoming a majority." Earlier in the book,
+Chapter I defines the concept that makes a shared problem public: "The
+public consists of
 all those who are affected by the indirect consequences of transactions
 to such an extent that it is deemed necessary to have those consequences
 systematically cared for" (Chapter I; the sentence is quoted from the
-same downloaded text, verified verbatim).
+same downloaded text, verified verbatim). Note the boundary: A and B
+are direct parties to their own transactions, not bystanders hit by
+indirect consequences, so the flat is not a Deweyan public. The flat
+meeting borrows the same idea at small scale: those who live inside
+the friction know where it pinches, and the settlement comes from
+consultation and modification rather than from one side's verdict.
 
 Hold the two ideas together for the graded work: the person inside the
 friction knows where it pinches, and the settlement is what the
@@ -174,8 +187,14 @@ irritated. Call them A and B.
    clause, proposed as an experiment rather than a verdict). The
    appraisal: whether the rota gets chores done is testable (a two-week
    trial with a record); what each counts as fair is not settled by
-   evidence, and the democratic move applies there, consultation that
-   uncovers what the friction actually is for each person.
+   the chore log alone, but it is not beyond inquiry either: reasons,
+   circumstances and consequences still bear on it, and the democratic
+   move applies there, consultation that uncovers what the friction
+   actually is for each person. The rehearsal of B's reaction is an
+   assumption until checked: A imagines B hearing the proposal as a
+   verdict, and checking that assumption, by asking or by watching the
+   next episode, belongs to the inquiry, not to the imagination
+   alone.
 2. Steps named (partially worked). Take the stipulated next episode: B
    skipped the shared-costs reconciliation again. Write the forked-road
    question for this episode, one suggestion from each person's past
@@ -184,7 +203,8 @@ irritated. Call them A and B.
    have written yours: a strong piece names the forked road as a
    question, gives each person's suggestion from their own experience,
    runs the rehearsal until it meets an object that rebuffs it, and
-   separates the testable part from the value part.
+   separates what a record could settle from what reasons,
+   circumstances and consequences bear on.
 3. Independent (the graded deliverable). Take one recurring
    disagreement of your own, with a partner, a parent, a colleague or
    a flatmate. Write the full pattern: forked-road question, suggestions,
@@ -195,18 +215,25 @@ irritated. Call them A and B.
 
 Re-read your m2 notes on Peirce (doubt disrupts the habit of belief;
 inquiry is the struggle to settle belief; the maxim traces a
-conception's meaning through its conceivable practical effects). Write
-the comparison on the same question: where inquiry starts, and what
-ends it. Where they agree: both refuse to start from universal doubt;
-inquiry begins from a real disruption, Peirce's doubt or Dewey's
-forked road. Where they disagree: Peirce's disruption is to a habit of
-belief and its settlement is a new stable belief, while Dewey's is a
-blocked course of action and its settlement is a redirected activity,
-a new way of going on; for Dewey the perplexity is not first a
-cognitive lack but a trouble in living, which is why his account
-reaches deliberation and shared problems where Peirce's reaches the
-logic of belief. Take your own position on which account you would use
-on your case, and why. Deliverable d is this piece.
+conception's meaning through its conceivable practical effects;
+m2-belief-and-doubt.md in this walk's modules). Write the comparison
+on the same question: where inquiry starts, and what ends it. Ground
+both sides in what you were assigned: for Peirce, the m2 passages
+(doubt as an uneasy and dissatisfied state, belief as a habit that
+guides action, inquiry as the struggle to settle opinion); for Dewey,
+the three readings of this module. Where they agree, on the evidence
+of both assignments: inquiry starts from a real disruption, not from
+a general duty to reflect, and it ends in a settled habit, since
+Peirce's belief already is an action-guiding habit. What each
+emphasizes: Peirce gives the logical test, the maxim, for what a
+conception means; Dewey starts from the disruption as a trouble in
+living, a blocked course of activity, and follows the settlement
+into deliberation among competing goods and into shared problems.
+Where each reaches its limit: the m2 passages stop at the logic of
+belief and do not follow inquiry into deliberation or shared
+problems; Dewey's passages in this module supply no logical test like
+the maxim. Take your own position on which account you would use on
+your case, and why. Deliverable d is this piece.
 
 ### Step 6: practice and assessment (all outcomes)
 
@@ -223,8 +250,10 @@ on your case, and why. Deliverable d is this piece.
   b. The rehearsal (Outcome 2): the Step 2 piece, 150 to 250 words,
      ending with what would count as the rehearsal failing.
   c. The independent application (Outcome 3): the Step 4 item 3 piece,
-     300 to 450 words, ending with the appraisal of what evidence
-     could settle and what belongs to values or joint inquiry.
+     300 to 450 words, ending with the appraisal: what you observed
+     against what you assumed, the evidence for each proposed
+     explanation, your adaptation with reasons, and what would change
+     your judgment.
   d. The comparison (Outcome 4): the Step 5 piece, 150 to 250 words,
      ending with your position.
   e. The teach-back (Outcome 5): explain the pattern to the person in
@@ -264,37 +293,46 @@ admits only what serves learning to run the pattern on your own case.
    clause." Rejection: a description of the action with no imagined
    run, or a rehearsal that meets no object and foresees nothing.
 3. The independent application runs the whole pattern on the learner's
-   own case and separates the testable from the value question.
-   Strong: the forked-road question is stated as a question about the
-   case, each side's suggestion comes from their own experience, the
-   rehearsal meets a specific rebuff, and the appraisal says which
-   part a two-week trial could settle and which part belongs to what
-   each person counts as fair. Rejection: an application that stays
-   abstract, or one that treats the whole disagreement as a factual
-   question with no value part.
-4. The comparison names where Peirce and Dewey disagree on the same
-   question. Strong: "Both start inquiry from a real disruption, but
-   Peirce's doubt is to a habit of belief and settles into a new
-   belief, while Dewey's forked road is a blocked activity and settles
-   into a redirected way of going on; on my case I would use Dewey,
-   because the trouble is in the living, not first in the believing."
-   Rejection: two biographies side by side, or a claim that they say
-   the same thing with no disagreement named.
-5. The teach-back piece reports what the explanation to the other
-   person surfaced. Strong: "When I explained the forked-road idea to
-   my flatmate she said the fight was never about the rota, which
-   moved my appraisal: most of it is the value question; the trial only
-   settles the small part." Rejection: a report that the talk went
-   well, with nothing surfaced.
+   own case and appraises it. Strong: the forked-road question is
+   stated as a question about the case, each side's suggestion comes
+   from their own experience, the rehearsal meets a specific rebuff,
+   and the appraisal separates what the learner observed from what
+   they assumed, names the evidence for each proposed explanation,
+   adapts the proposed action to their constraints with reasons, and
+   states what record or feedback would change their judgment.
+   Rejection: an application that stays abstract, or one whose
+   appraisal offers no observation-assumption separation and no
+   evidence for its explanation of the case.
+4. The comparison names what each account emphasizes and where each
+   reaches its limit, on the same question. Strong: "Both start
+   inquiry from a real disruption and end in settled habits, since
+   Peirce's belief already guides action; Peirce gives the maxim, the
+   logical test of what a conception means, and Dewey follows the
+   trouble into deliberation and shared problems, where the m2
+   passages stop; on my case I would use Dewey first, because the
+   trouble is in the living, and the maxim for what 'fair share'
+   means." Rejection: two biographies side by side, or a claim that
+   they simply disagree with nothing grounded in either assignment.
+5. The teach-back piece states Dewey's account of what discussion does
+   accurately and reports what the explanation to the other person
+   surfaced. Strong: "Dewey's point is that consultation uncovers
+   needs the other side cannot see from outside, and the settlement
+   is the modification, not the vote; when I explained this to my
+   flatmate she said the fight was never about the rota, which moved
+   my appraisal of what a trial could settle." Rejection: a report
+   that the talk went well with nothing surfaced, or a piece that
+   misstates the account (for example, that Dewey says the majority
+   should just outvote the minority).
 
 ## Workload arithmetic
 
 - Required reading (word counts measured on the downloaded plain
-  texts of the ebooks): Reading A 778 words, Reading B 449 words,
-  Reading C 375 words; 1,602 words total. At 130 words per minute (new
+  texts of the ebooks, passages extracted by pinned opening and
+  closing strings): Reading A 778 words, Reading B 476 words,
+  Reading C 374 words; 1,628 words total. At 130 words per minute (new
   concepts; the 238 words-per-minute adult default adjusted down by
-  purpose) about 12 minutes raw; with study overhead at three times
-  raw, about 37 minutes (estimate, labelled).
+  purpose) about 13 minutes raw; with study overhead at three times
+  raw, about 38 minutes (estimate, labelled).
 - Teaching prose across the steps: about 15 minutes (estimate).
 - Worked example study and faded practice: about 30 minutes
   (estimate).
@@ -304,7 +342,7 @@ admits only what serves learning to run the pattern on your own case.
   about 15 minutes, c about 30 minutes, d about 10 minutes, e about
   10 minutes including the talk.
 
-Total: about 3 hours (177 minutes of labelled components: 37 reading
+Total: about 3 hours (178 minutes of labelled components: 38 reading
 with overhead, 15 teaching prose, 30 worked example and faded
 practice, 15 retrieval and practice, 80 graded). Optional further
 reading (the rest of the three books) is not counted. No lecture video
@@ -318,40 +356,52 @@ session:
 
 - Dewey, How We Think (1910), Project Gutenberg #37423, public domain:
   the plain text was downloaded this session and the assigned passage
-  extracted by pinned line boundaries (beginning "Another instance,
-  commonplace also" through "is wholly futile", 778 words counted on
-  the extracted passage); every quoted sentence was confirmed verbatim
-  on the downloaded text. The reflective-thought definition quoted in
-  m1 ("Active, persistent, and careful consideration...") was
-  re-verified verbatim on the same download.
+  extracted by pinned opening and closing strings (beginning "Another
+  instance, commonplace also" through "is wholly futile", 778 words
+  counted on the extracted passage); the reflective-thought definition
+  quoted in m1 ("Active, persistent, and careful consideration...")
+  was re-verified verbatim on the same download.
 - Dewey, Human Nature and Conduct (1922), Project Gutenberg #41386,
   public domain: the plain text was downloaded this session; the
   assigned passage is Part Three, the section "The Nature of
   Deliberation", from "Our first problem is then to investigate"
-  through "the object is that which objects" (449 words counted on the
-  extracted passage); every quoted sentence was confirmed verbatim on
-  the downloaded text. The section title was verified on the book's
-  own table of contents; the phrase "The Construction of the Good",
-  which one benchmarked syllabus lists as a Dewey ethics reading, is
-  not a part or section title of this book, and the assignment was
-  corrected accordingly.
+  through "the object is that which objects" (476 words counted on
+  the passage extracted by pinned strings; an earlier line-number
+  count of 449 was found wrong at the string check and corrected);
+  the section title was verified on the book's own table of
+  contents; the phrase "The Construction of the Good", which one
+  benchmarked syllabus lists as a Dewey ethics reading, is not a part
+  or section title of this book, and the assignment was corrected
+  accordingly.
 - Dewey, The Public and Its Problems (1927), Project Gutenberg #71000,
   public domain: the plain text was downloaded this session; the
   assigned passage is Chapter VI, from "The strongest point to be made
   in behalf" through "it may be successful in becoming a majority"
-  (375 words counted on the extracted passage, which ends at that
-  sentence inside the source's final printed line); every quoted
-  sentence, including the Chapter I sentence defining the public, was
-  confirmed verbatim on the downloaded text.
+  (374 words counted on the passage extracted by pinned strings, which
+  ends at that sentence inside the source's final printed line); the
+  Chapter I sentence defining the public was confirmed verbatim on
+  the downloaded text.
+
+Quote control, actual result: every Dewey-attributed quotation in this
+module was checked as an explicit list against its named source
+download, with italic underscores read as emphasis markers and
+stripped, and whitespace normalized. All source-attributed spans match
+their sources; three inaccuracies were found and repaired at earlier
+checks (a misquoted verb in the boot-straps sentence, a colon and
+attribution boundary in the Tilden sentence, and a mid-sentence quote
+stop). The rubric's model responses and the worked example's
+constructed case are the learner's or the module's own words, not
+Dewey's, and are exempt.
 
 Video-first check: a focused search for a credentialed lecture video
 covering this module's material found candidate groups recorded in the
 ledger (Bernstein on Dewey; Sprintzen on Dewey; UCSC PHIL 112 on
 Dewey), none of which is verified to the media standard: identity and
 presenter credentials were confirmed for the candidates, but playback,
-captions, coverage and measured durations remain uninspected, and the
-third-party transcript route used for the m1 and m3 videos failed
-twice this session with server errors. No video carries an outcome;
+captions, coverage and measured durations remain uninspected. The
+third-party transcript route used for the m1 and m3 videos was
+attempted twice this session on the Bernstein candidate only, and
+failed both times with server errors. No video carries an outcome;
 the primary texts carry the module, and the candidates stay in the
 ledger for the verifier lane with the exact missing checks named
 (playback, captions, coverage, measured duration for each candidate).

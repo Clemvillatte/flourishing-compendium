@@ -1106,3 +1106,52 @@ from measured components (1,602 assigned words at 130 wpm,
 177 labelled minutes total, arithmetic checked). STATUS:
 DRAFT, NOT CLEARED; awaits supervisor module-QC and advisor
 review, per the m1-m3 sequence.
+
+## m4 advisor-QC repairs applied (2026-10-26, clock 2026-10-26T06:08:40+00:00 measured, worker-pplx-pragmatism-1026c)
+
+Advisor QC round on the m4 draft returned "not yet a QC pass" with
+specific repairs; all applied before this push:
+
+- Word counts corrected by string extraction (pinned opening and
+  closing strings, whitespace-normalized): Reading B is 476 words
+  (an earlier line-number count of 449 was wrong; the passage runs
+  "Our first problem is then to investigate" through "the object is
+  that which objects"); Reading C is 374 words (the source's final
+  line continues past the boundary sentence; the earlier 375
+  miscounted the tail). Totals now 1,628 assigned words, 13 raw
+  minutes at 130 wpm, 38 minutes with overhead, 178 labelled
+  minutes; component arithmetic re-checked (38+15+30+15+80=178).
+- Step 5 comparison rewritten: no longer asserts a disagreement
+  between Peirce and Dewey. It now teaches agreement on the
+  evidence of both assignments (inquiry starts from real
+  disruption, ends in settled habits; Peirce's belief already is an
+  action-guiding habit per the m2 passages), what each emphasizes
+  (Peirce's maxim as logical test; Dewey's trouble-in-living
+  starting point reaching deliberation and shared problems), and
+  where each reaches its limit; Outcome 4 and rubric criterion 4
+  updated to match (emphasis and limits, not invented
+  disagreement).
+- L3 claim made substantive: Outcome 3, Step 4 and rubric criterion
+  3 now require the appraisal to separate observed/recalled/
+  assumed/imagined material, name the evidence for each proposed
+  explanation, adapt the proposed action to constraints with
+  reasons, and state what would change the judgment.
+- Rubric criterion 5 now requires an accurate statement of Dewey's
+  account of what discussion does, not only a report of what the
+  teach-back surfaced.
+- Conceptual repairs: the flat is explicitly NOT a Deweyan public
+  (direct parties, not indirect consequences; the flat meeting is a
+  small-scale application); the facts/values divide softened (what
+  each counts as fair is not settled by the chore log alone but is
+  not beyond inquiry; reasons, circumstances and consequences bear
+  on it); the rehearsal's picture of the other person marked as an
+  assumption to be checked by asking or observing, not a finding.
+- Audit record corrected: the transcript-route attempts this
+  session were on the Bernstein candidate only (not all candidate
+  groups); the hard-coded clock stamp in the earlier entry is
+  superseded by measured stamps (this entry's stamp is the measured
+  reading at write time).
+- Quote control re-run on the repaired module: every Dewey-attributed
+  span checked against its named download with emphasis markers
+  stripped; all match; rubric model responses and the constructed
+  case are exempt as module-authored text.
