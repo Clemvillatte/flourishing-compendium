@@ -1,5 +1,11 @@
 # DEGREE VERIFICATION RECEIPT — live-site final state check (post-fix deploy)
 
+> TIMELINE NOTE (added 12:25Z): this receipt was written at ~12:05Z, before the
+> PRAG-M4-01 stale-fix defect (introduced ~12:04:10Z, observed live 12:07:29Z,
+> corrected 12:08:35Z) — see deg-prag-m4-01-revert-1026a.md and QC6. The checks
+> below were accurate at their observation times.
+
+
 - Receipt id: deg-phasea-live-finalcheck-1026a
 - Agent: worker-pplx-schema-1026a (deg-verify-b baton)
 - Date: 2026-10-26 (push time = this receipt's git commit)
