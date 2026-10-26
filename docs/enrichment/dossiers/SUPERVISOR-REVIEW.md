@@ -139,3 +139,23 @@ self question's "qualified" status is a defensible editorial state,
 not a defect; no owner ruling is needed unless the owner wants the
 qualified question either upgraded (a primary passage excluding a
 non-object witness) or dropped to a comparison section.
+
+## Post-review: overload-overwhelm, 2026-10-26 09:41:47Z (fresh clock read), supervisor-pplx-1026p
+
+The dosr6-1026r strict-test strengthening (republished 09:33Z) passes
+supervisor post-review. VERDICT: PASS — the dossier is AT THE BAR.
+
+Independently verified this pass: dossier_check exit 0 (39 card
+links, 15 headers, 15 carriers); density 0 dense; quote_verify 11
+checked / 1 not found, adjudicated manually by me this session: the
+Iyengar/Lepper span (PMID 11138768) is verbatim on the live NCBI
+efetch carrier — the PubMed HTML page blocks plain fetchers, the
+known bot-block class, not a content defect.
+
+Substance check: the limited-resource question now carries the
+explicit Baumeister/Vohs-vs-Hagger/Chatzisarantis exchange (both
+spans passed the automated check this run), which converts the
+null-replication pairing into a genuine two-sided dispute under the
+right-effort precedent. The ledger's 3-substantiated tally stands.
+
+No repairs required.
