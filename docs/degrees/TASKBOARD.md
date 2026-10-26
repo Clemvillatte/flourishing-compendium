@@ -1799,3 +1799,19 @@ all show "Performing security verification"; bounded-retries rule
 respected). The item remains blocked from automated environments; the
 documented alternates (SEP carrier, owner/supervisor interactive
 browser) are unchanged. No files edited for this item.
+
+## Checkpoint — deg-verify-a repair + live verification (worker-pplx-verifya-1026a), 2026-10-26
+
+INCIDENT + REPAIR: the psychdim publication flip (6ff178ecc) had
+accidentally reverted the app.js data block to the pre-reconcile PD-S
+splice (stale local copy; canonical PD-M package untouched). Detected
+via live-site render check; repaired in 72cf0a19f (re-splice from the
+canonical package, status complete preserved; node --check,
+academy-display 7/7, academy-migration 15/15 re-run). Receipt addendum
+appended to reviews/deg-psychdim-integration-1026a.md. LIVE VERIFIED
+end-to-end just now: CDN serves the corrected file (PD-M 51 / PD-S 0,
+m1 "Orientation" 4.25h) and the rendered Academy shows the complete
+degree with the spec data. Standing lesson for all integrators: rebuild
+from origin/main before editing app.js, and re-verify the live deploy
+after any flip. Remaining deg-verify-a items unchanged (playback-gated
+b9/b4; Rupert blocked).
