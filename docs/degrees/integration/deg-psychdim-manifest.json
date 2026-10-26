@@ -33,25 +33,25 @@
    {
     "source_id": "PD-M1-05",
     "role": "optional",
-    "assignment": "Hofmann and Hayes 2024 opening overview - OPTIONAL text reference in m1 doc (\"optional text references, not additional compulsory readings\"); NOT required. Data block wrongly lists it as required.",
+    "assignment": "Hofmann and Hayes 2024 opening overview - OPTIONAL text reference in m1 doc; data block correctly lists it in optionalMedia",
     "kind": "reading"
    },
    {
     "source_id": "PD-M1-06",
     "role": "optional",
-    "assignment": "Maitland 2024, section 1.4 only - OPTIONAL text reference in m1 doc; NOT required. Data block wrongly lists it as required.",
+    "assignment": "Maitland 2024, section 1.4 only - OPTIONAL text reference in m1 doc; data block correctly lists it in optionalMedia",
     "kind": "reading"
    },
    {
     "source_id": "PD-M1-07",
     "role": "optional",
-    "assignment": "Woolley, Giurge and Fishbach 2025 - NOT required reading per m1 doc workload section (\"the learner reads the paper itself only as optional further reading; no Woolley excerpt is part of the required reading budget\"). Data block wrongly lists it as required.",
+    "assignment": "Woolley, Giurge and Fishbach 2025 - optional further reading per m1 doc; data block correctly lists it in optionalMedia",
     "kind": "reading"
    },
    {
     "source_id": "PD-M1-08",
-    "role": "reference",
-    "assignment": "Greenland et al. 2016 - cited in teaching prose (misinterpretation 21), not in the m1 required-reading budget (Noba spans + ASA only). Treat as prose reference, not required media.",
+    "role": "optional",
+    "assignment": "Greenland et al. 2016 - cited in teaching prose (misinterpretation 21), not in the m1 required-reading budget; data block lists it in optionalMedia (acceptable)",
     "kind": "reading"
    }
   ],
