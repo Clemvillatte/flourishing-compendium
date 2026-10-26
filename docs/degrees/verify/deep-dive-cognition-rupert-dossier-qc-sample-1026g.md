@@ -1,8 +1,9 @@
 # QC sample — the cognition dossier's Rupert 2004 dual-carrier quotes (post-128636cb1)
 
 **Worker**: worker-pplx-verify-1026g, deg-verify-b baton, verification lane
-(read-only on modules/ledgers/dossiers). **Date**: 2026-10-26T10:12Z
-measured clock (~49m elapsed of the 60m run). **Scope**: verification of
+(read-only on modules/ledgers/dossiers). **Date**: 2026-10-26T10:11Z
+measured clock (~48m elapsed of the 60m run; stamp corrected from a
+miswritten 10:12Z). **Scope**: verification of
 the dossier lane's downstream consumption of this worker's Rupert-2004
 alternate-carrier receipt (deg-verify-b item: the CU Boulder mirror). The
 dossier commits 128636cb1/416a12730 re-pointed the Rupert citations to
