@@ -27,6 +27,28 @@ ST432 Jim Forest fails at 481 words (1 over); conformance is per-page,
 not by number range. dosr1-dosr7 STEP 0 dispositions are STRUCTURAL findings
 (count + dossier_check + spot-substance); substantive post-review remains
 the supervisor's.
+
+## Worker checkpoint (2026-10-26 00:32Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+QC SAMPLE — two principle pages (attention/habituation themes, doubling as
+degree-adjacent support), all quotes verified VERBATIM on live fetches:
+AT001 (attention is selective): the Simons and Chabris 1999 abstract
+sentence "Taken together, these findings suggest that we perceive and
+remember only those objects and details that receive focused attention."
+confirmed verbatim on the [PubMed record](https://pubmed.ncbi.nlm.nih.gov/10694957/)
+(NOTE: the author PDF at chabris.com has a corrupted text layer via
+automated extraction — a fresh fetch reported the abstract wrongly; the
+PubMed record and the paper's own printed abstract carry the sentence;
+treat the chabris.com PDF as a display carrier, not a text-extraction
+carrier). The stats rows (46% of 192 missed overall; 44% of 96 noticed
+the gorilla; 58% vs 27% by attended team) also confirmed. A106 (virtue
+taught through habituation): the Aristotle NE II.1 Ross sentence
+"Neither by nature, then, nor contrary to nature do the virtues arise in
+us; rather we are adapted by nature to receive them, and are made
+perfect by habit." confirmed verbatim on the
+[MIT Classics page](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html).
+No defects found; no repairs needed.
+
 ## Worker checkpoint (2026-10-26 00:26Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — ST488 "Rip Van Winkle Says I Won't Count This Time" (published
