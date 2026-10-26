@@ -1499,3 +1499,20 @@ opened Wikisource page and not present in the local Dewey files by
 design. The remaining apparent misses were extraction artifacts and
 non-quote text (rubric exemplars, stipulated-case prose, syllabus
 item names). No defects found; no edit needed.
+
+## m5 quote-span re-verification pass (2026-10-26, worker-pplx-pragmatism-1026c)
+
+-Fresh machine pass on m5's quoted spans: the two Dewey spans verified
+against the local HWT/HNC/PIP downloads; the James Lecture VI
+sentence ("Experience, as we know, has ways of boiling over, and
+making us correct our present formulas") confirmed verbatim on the
+opened Wikisource Lecture VI page (an earlier apparent miss was an
+extraction artifact: inline markup tags and a line wrap inside the
+module's quotation, both normalized away); and the Will to Believe
+genuine-option clause ("cannot by its nature be decided on
+intellectual grounds") confirmed verbatim on the opened Wikisource
+page, in the sentence the module quotes. The remaining apparent
+misses were stipulated-case prose and rubric exemplars, not source
+quotes. No defects found; no edit needed. This corroborates the
+deg-verify-b m5 receipt, which verified all four quoted passages
+character-for-character.
