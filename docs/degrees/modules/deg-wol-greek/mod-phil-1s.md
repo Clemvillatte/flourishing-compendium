@@ -1,50 +1,90 @@
 # mod-phil-1s Socrates and the Examined Life (deg-wol-greek)
 
 STATUS: DRAFT, NOT CLEARED (rebuilt 2026-10-26, worker-pplx-greek-1026g;
-supersedes the withdrawn draft of 2026-10-25, which is retained in git
-history). The advisor's four withdrawal reasons are addressed in this
-rebuild: (i) authorisation — the Phase 0 stop-gate is CLOSED by owner
-decision 6 (2026-10-25); module production is unblocked and this session
-was directed to degree work; (ii) fresh source fetches were made this
-session (see the verification record below); (iii) the worked example is
-redesigned as an elenchus run against the learner's own commitments,
-with the converse error repaired and the missing premise made explicit;
-(iv) the alignment map states what each assessment criterion actually
-tests. The degree's formal gates (the strategist-owned scope gate,
-resource-verification, coverage, workload, and independent module QC)
-remain uncleared; no gate is awarded by this file.
+two advisor QC rounds this session; this version applies the round-2
+blocking repairs). ROUTING AUTHORIZATION PENDING: the owner directed
+this session to degree work (2026-10-26, in-session message); the
+launch routing had parked the Greek degree, and that parking is not
+explicitly rescinded by the directive, so the live supervisor's
+confirmation of the reopening is requested (flagged in the band file
+and the ledger). No gate is awarded by this file.
+
+Round-2 repairs applied here: the worked example is replaced with a
+commitments-based contradiction example (both of its limits stated
+explicitly); each outcome now has its own observable assessed task and
+the criteria are distinct; the workload is recomputed from the final
+assignment (4 hours, estimate); Step 4 is presented as a modern
+companion exercise rather than the elenchus's core; the
+claim-commitments-conflict-revision sequence is labelled a pedagogical
+adaptation; the lecture-content claims are grounded in transcripts read
+fresh this session; the primary-text quotations are verified verbatim
+on the MIT Classics page (whose fetched text prints no section
+markers, so the 20d-e and 38a locators remain carried by the wiki and
+flagged); the SEP quotation is restored to its exact fetched wording.
 
 ## Verification record (this session, 2026-10-26)
 
 - Sadler, "Plato's dialogue, the Apology — Introduction to Philosophy"
-  (https://www.youtube.com/watch?v=orVFra9rPYo): watch page fetched fresh
-  this session — title, channel (Gregory B. Sadler — That Philosophy
-  Guy), duration 1:06:20 and free access confirmed on the live page; the
-  channel description identifies it as the Fall 2011 Introduction to
-  Philosophy class at Marist College discussing Plato's Apology, "who is
-  wise?" and "what kind of wisdom do they have?".
+  (https://www.youtube.com/watch?v=orVFra9rPYo): watch page fetched
+  fresh — title, channel (Gregory B. Sadler — That Philosophy Guy),
+  duration 1:06:20, and a page showing playback controls with no price
+  stated; the channel description identifies it as the Fall 2011
+  Introduction to Philosophy class at Marist College discussing Plato's
+  Apology. Transcript read fresh this session via
+  https://youtubetotranscript.com/transcript?v=orVFra9rPYo (rendered
+  page; quoted passages in the ledger entry). The transcript grounds
+  every Step 2 content claim about this lecture: the official charges
+  ("Atheism... corrupting the youth"), the oracle and Socratic wisdom
+  ("He is really wise because he knows he's not wise and doesn't know
+  anything"), the examined life ("living what Socrates called the
+  examined life"), and the gadfly ("I'm the gadfly. I get to poke the
+  city and make it jump when I need to"). The transcript's closing
+  preview of the Crito confirms the lecture's bridge.
 - Sadler, "Plato's dialogue, the Crito — Introduction to Philosophy"
-  (https://www.youtube.com/watch?v=3OCF_qGT-dA): watch page fetched fresh
-  this session — duration 59:39 and free access confirmed; the channel
-  description identifies it as the Fall 2011 Marist class on the Crito.
+  (https://www.youtube.com/watch?v=3OCF_qGT-dA): watch page fetched
+  fresh — duration 59:39, same checks. Transcript read fresh this
+  session via
+  https://youtubetotranscript.com/transcript?v=3OCF_qGT-dA (quoted
+  passages in the ledger entry). The transcript grounds the Step 2
+  claims: Crito's escape plan ("he's got a breakout of jail plan"),
+  deciding on what is right rather than the opinions of the many
+  ("Crito is too concerned about what the many think"), the Laws'
+  arguments from education ("the laws are sort of like super parents"),
+  agreement ("what was our agreement with you when you entered into
+  the courtroom") and the state's survival ("do you imagine a state can
+  subsist... in which the decisions of law have no power"), and the
+  good life as worth more than life itself ("a good life is to be
+  valued... not just life by itself but a good life").
+- Plato, Apology, trans. Benjamin Jowett, Internet Classics Archive
+  (https://classics.mit.edu/Plato/apology.html): fetched fresh this
+  session. Three passages verified verbatim: "He, O men, is the wisest,
+  who, like Socrates, knows that his wisdom is in truth worth
+  nothing"; "the life which is unexamined is not worth living"; the
+  gadfly passage ("I am that gadfly which God has given the state").
+  The fetched page text prints no section markers, so the 20d-e and
+  38a locators are not confirmed by this fetch and remain carried by
+  the wiki page (flag carried forward).
 - Stanford Encyclopedia of Philosophy, "Socrates" (Nails and Monoson,
   https://plato.stanford.edu/entries/socrates/): fetched fresh this
-  session. The entry grounds the elenchus account used below: Socrates'
-  "question-and-answer mode of probing serious matters"; the dialogues of
-  the Socratic period are "elenctic dialogues" "for Socrates's preferred
-  method of questioning"; in some dialogues (e.g. Laches) "Socrates only
-  weeds the garden of its inconsistencies and false beliefs"; partners
-  were "confusing, stinging, and stunning... into the unpleasant
-  experience of realizing their own ignorance"; "the unexamined life is
-  not worth living for a human being" (Apology 38a).
+  session. Exact wording used below: Socrates conversed with people he
+  could persuade to join him "in his question-and-answer mode of
+  probing serious matters"; the dialogues of Plato's Socratic period
+  are "elenctic dialogues" "for Socrates's preferred method of
+  questioning"; "in some dialogues (e.g. Laches), Socrates only weeds
+  the garden of its inconsistencies and false beliefs, but in other
+  dialogues (e.g. Phaedrus), he is a planter as well"; he was known
+  for "confusing, stinging, and stunning his conversation partners
+  into the unpleasant experience of realizing their own ignorance";
+  "the unexamined life is not worth living for a human being"
+  (Apology 38a).
 - Wiki reading basis re-read this session: T011 (Socrates) carries the
   Socratic problem, the trial of 399 BCE, the oracle story, and the
-  gadfly, "wisdom is worth nothing" (Apology 20d-e) and "life which is
-  unexamined" (Apology 38a) passages verbatim in the Jowett translation;
-  the three Socratic-method sayings, ST155 and K236 exist and carry the
-  content the module uses. Word counts below are the prior session's
-  measurements (2026-10-25), re-confirmed for existence and content fit
-  this session; they are not fresh measurements.
+  gadfly, "wisdom is worth nothing" and "life which is unexamined"
+  passages verbatim in Jowett (checked against the MIT Classics page
+  above); the three Socratic-method sayings, ST155 and K236 exist and
+  carry the content the module uses. Word counts below are the prior
+  session's measurements (2026-10-25), re-confirmed for existence and
+  content fit this session; they are not fresh measurements.
 
 ## Level and placement
 
@@ -57,31 +97,32 @@ modern) takes the exit criteria below as its entry competencies.
 
 ## Outcomes
 
-1. Explain, in a paragraph a peer could follow, what Socratic questioning
-   (the elenchus) is and what the "unexamined life" charge amounts to:
-   the oracle, Socratic wisdom as knowing the limits of one's knowledge,
-   and the gadfly's effect on the city.
+1. Explain, in a paragraph a peer could follow, what Socratic
+   questioning (the elenchus) is and what the "unexamined life" charge
+   amounts to: the oracle, Socratic wisdom as knowing the limits of
+   one's knowledge, and the gadfly's effect on the city.
 2. Take one inherited belief you actually hold (a family, cultural or
-   professional default), and run it against your own other commitments:
-   state the claim, state what follows from it (and what does not), find
-   the conflict with commitments you also hold, and either revise the
-   claim (qualify or abandon it) or record honestly that it survived.
-3. Run one Socratic exchange on yourself or another person: name the
-   claim, elicit the commitments it must answer to, show the conflict,
-   and record what the exchange exposed — agreement, tension or a
-   genuinely open question you now hold differently.
+   professional default), read it together with your own other
+   commitments, derive correctly what follows from them together, and
+   either name the conflict and the revision it forces or record
+   honestly that the beliefs all survived the reading.
+3. Run one Socratic exchange with another person (or, if no partner is
+   available, one structured self-questioning session): ask real
+   questions you do not know the answers to, record the answers as
+   received, and record what the exchange exposed.
 
-Every outcome is taught, practised and assessed below; the alignment map
-at the end states what each assessment criterion actually tests.
+Every outcome is taught, practised and assessed below; the alignment
+map states what each assessment criterion actually tests.
 
 ## Instruction (the sequence a learner follows)
 
 ### Step 1: the figure and the practice from the wiki reading (Outcome 1)
 
-Read the Socrates thinker page in full, then the three Socratic-method
-sayings and the two supporting pieces (all links below resolve to pages on
-this site; the thinker page quotes Plato's Apology in the Jowett
-translation and the Crito via SEP):
+Read four sections of the Socrates thinker page (Personal story /
+context, Their why, Their position, Core ideas), then the three
+Socratic-method sayings and the two supporting pieces (all links below
+resolve to pages on this site; the thinker page quotes Plato's Apology
+in the Jowett translation and the Crito via SEP):
 
 - [T011 Socrates](../../../../content/thinkers/T011%20%E2%80%94%20Socrates.md)
   — the Socratic problem (we have him only second-hand, from
@@ -101,164 +142,173 @@ translation and the Crito via SEP):
   truth) and Aristotle's later answer (you learn to recognise what you
   cannot define, the way you learn to judge wine by drinking it).
 - [K236 Community of inquiry](../../../../content/kernels/K236%20%E2%80%94%20Community%20of%20inquiry.md)
-  — the modern form (Lipman's Philosophy for Children) and why running
-  reasoning past other minds is the practical core of the elenchus: the
-  protocol, and the honest scale note (two other people and one honest
-  question are a working minimum).
+  — a modern practice descended from Lipman's Philosophy for Children:
+  the protocol, and the honest scale note (two other people and one
+  honest question are a working minimum). Step 4 uses it as a companion
+  exercise.
 
 Before your second pass through these pages, do Retrieval activity 1
-(below): free recall first, then re-read to check yourself. The three terms
-the module uses the way the wiki uses them: the elenchus is the
-cross-examination that exposes false beliefs by testing a claim against
-the other beliefs the speaker already holds; Socratic ignorance is the
-wisdom of knowing your wisdom is worth nothing (Apology 20d-e, trans.
-Jowett); the examined life is daily converse about virtue — the life which
-is unexamined is not worth living (Apology 38a, trans. Jowett).
+(below): free recall first, then re-read to check yourself. The three
+terms the module uses the way the wiki uses them: the elenchus is
+cross-examination that reads a claim together with the speaker's other
+beliefs and finds what has to give; Socratic ignorance is the wisdom of
+knowing your wisdom is worth nothing (Apology, trans. Jowett); the
+examined life is daily converse about virtue, the life which is
+unexamined being not worth living (Apology, trans. Jowett).
 
 ### Step 2: the two lectures (Outcomes 1 and 2)
 
 Watch in segments with the retrieval activities between them, so no long
-stretch passes without practice. Both lectures are from the same Fall 2011
-Marist Introduction to Philosophy series (Gregory B. Sadler; credentials
-verified in the ledger, PhD Philosophy, SIU Carbondale 2002, Marist
-instructor 2011-2018; both recordings' transcripts were read and are the
-basis of the content classifications below; the watch pages were fetched
-fresh this session — see the verification record):
+stretch passes without practice. Both lectures are from the same Fall
+2011 Marist Introduction to Philosophy series (Gregory B. Sadler;
+credentials verified in the ledger, PhD Philosophy, SIU Carbondale
+2002, Marist instructor 2011-2018; both transcripts were read fresh
+this session and ground every content claim below — see the
+verification record):
 
 - Sadler, "Plato's dialogue, the Apology — Introduction to Philosophy",
   whole lecture, 1:06:20
-  (https://www.youtube.com/watch?v=orVFra9rPYo; free, no paywall). Watch in
-  two segments: first the official charges (atheism, corrupting the youth)
-  and the older accusations, then the oracle and Socratic wisdom as knowing
-  the limits of one's knowledge, the questioning of politicians, poets and
-  artisans, and the examined life; the lecture closes by previewing the
-  Crito. After the second segment do Retrieval activity 2.
+  (https://www.youtube.com/watch?v=orVFra9rPYo; free, no paywall). Watch
+  in two segments: first the official charges (atheism, corrupting the
+  youth) and the older accusations, then the oracle and Socratic wisdom
+  as knowing the limits of one's knowledge, the questioning of
+  politicians, poets and artisans, and the examined life; the lecture
+  closes by previewing the Crito. After the second segment do
+  Retrieval activity 2.
 - Sadler, "Plato's dialogue, the Crito — Introduction to Philosophy",
   whole lecture, 59:39
   (https://www.youtube.com/watch?v=3OCF_qGT-dA; free, no paywall). Same
-  series; the transcript confirms it covers Crito's practical escape plan,
-  Socrates' insistence on deciding on what is right rather than the
-  opinions of the many, the Laws' arguments from education, agreement and
-  the state's survival, and the good life as worth more than life itself.
-  After it do Retrieval activity 3.
+  series; covers Crito's practical escape plan, Socrates' insistence on
+  deciding on what is right rather than the opinions of the many, the
+  Laws' arguments from education, agreement and the state's survival,
+  and the good life as worth more than life itself. After it do
+  Retrieval activity 3.
 
 Optional reading for learners who want the primary text itself: the
 Apology and the Crito in the Jowett translation, both free at the MIT
 Classics Archive (Apology: https://classics.mit.edu/Plato/apology.html;
-the thinker page quotes the gadfly passage, the "wisdom is worth nothing"
-passage and the "life which is unexamined" passage from this
-translation).
+the three passages the module uses were verified verbatim on this page
+this session — see the verification record).
 
 ### Step 3: worked example with fading (Outcomes 2 and 3)
 
 The module page itself carries the teaching for the Socratic exchange.
-What the elenchus tests is the fit between a claim and the OTHER claims
-the speaker already holds — the SEP account has Socrates "we[ed] the
-garden of its inconsistencies and false beliefs" — not a poll of
-acquaintances. The skill is demonstrated three times with the guidance
-faded:
+A note on the formulation: the sequence below (state a claim, read it
+together with the speaker's other commitments, find what has to give)
+is this module's pedagogical adaptation, grounded in the SEP's
+characterisation of the elenctic dialogues — Socrates "only weeds the
+garden of its inconsistencies and false beliefs" — and in the
+question-and-answer mode the entry describes; the SEP does not itself
+prescribe this sequence, and the module claims no more than that
+grounding.
 
-1. Fully worked (demonstrated). The inherited default: "the people who
-   succeed are the ones who work hardest." Name the claim, then ask
-   what follows from it. What follows: where two people you know differ
-   in how hard they work, that difference explains who is more
-   successful. What does NOT follow: that the hardest-working people are
-   the most successful. That is the converse, and a claim can hold while
-   its converse fails — hard work can be common among the successful and
-   the unsuccessful alike. For the claim to carry its weight it needs an
-   extra premise the learner must supply and own: that hard work is the
-   only (or main) differentiator — no luck, timing, health or birth.
-   Notice that this premise is itself a belief that can be examined.
-   Now the elenchus move: write down two other things you actually
-   believe about success — say, "timing and luck decide a lot" and "my
-   health matters more than any job." Hold them together with the
-   claim. If hard work alone produces success, the luck belief is doing
-   no work, and the hour that protects health is an hour spent falling
-   behind. The conflict is between your own beliefs, not between the
-   claim and the world. The honest revisions: qualify the claim (hard
-   work is necessary but not sufficient — and the qualifier is now a
-   belief you hold and can examine in turn) or give the claim up. If no
-   conflict appears, say so: a belief that survives its first
-   examination survived it, which is a result too. Corroboration, which
-   is NOT part of the elenchus and is optional: check the claim against
-   two people you actually know, and note that a sample of two is an
-   anecdote, not a test.
+The skill is demonstrated three times with the guidance faded:
+
+1. Fully worked (demonstrated). Three things one person might say in
+   the same week: "A good friend always agrees with me." "Pat is a
+   good friend." "Pat sometimes disagrees with me." Read the first two
+   together: they imply that Pat always agrees with you. The third
+   says Pat sometimes does not. The three cannot all stand; something
+   has to give. The elenchus move is the question that follows: which
+   of the three would you reconsider, and why? Two limits, stated
+   plainly. First, the contradiction shows the three commitments cannot
+   all be true together; it does not show that the first one alone is
+   false. You could keep the first claim and instead reconsider
+   whether Pat is a good friend, or whether Pat really disagrees.
+   Second, if you read a set of beliefs together and no contradiction
+   appears, the beliefs survived that reading; that is not proof that
+   they are true.
 2. Faded (the learner fills the middle move). The claim: "you cannot
    change after thirty." Name it, then [the learner supplies the middle
-   move: what else do you believe about people changing — habits,
-   therapy, careers restarted at fifty? Which of those commitments does
-   the claim conflict with?], then state the revision the conflict
-   forces: qualify the claim or abandon it — or record that no conflict
-   appeared.
+   move: write down two other beliefs you actually hold about people
+   changing — habits, therapy, careers restarted at fifty — and read
+   them together with the claim: what has to give?], then state the
+   revision the conflict forces, or record honestly that nothing gave.
 3. Independent (the learner runs the whole move). Take one inherited
-   belief you actually hold from one of these areas — how you should treat
-   money, what a good career looks like, what you owe your family, how
-   relationships should work. Name the claim, elicit the commitments it
-   must answer to, find the conflict (or record its absence), and record
-   what the exchange exposed. This is Retrieval activity 4 and doubles as
-   the assessed artefact.
+   belief you actually hold from one of these areas — how you should
+   treat money, what a good career looks like, what you owe your
+   family, how relationships should work. Name the claim, elicit the
+   commitments it must be read with, read them together, and record
+   what gave (or that nothing did). This is Retrieval activity 4 and
+   doubles as the assessed artefact.
 
-### Step 4: the community-of-inquiry check (Outcome 3)
+A note on what this move is and is not: checking how things turned out
+for people you know is evidence-gathering, a different tool with its
+own uses; it is not the elenchus and is not assigned here.
 
-The elenchus is not only an internal move; the wiki's kernel is explicit
-that running reasoning past other minds is the practical core. For one
-decision in the coming week where the alternatives have stopped coming,
-run the two-other-minds check from K236: two other people and one honest
-question, listening for the assumption the other person spots that you
-did not. Note honestly whether the scale (two people, one question)
-actually produced a new alternative or only confirmed what you already
-thought; the kernel's own scale note says the sources do not test it at
-this scale, so your observation is data, not proof.
+### Step 4: the community-of-inquiry check (Outcome 3, companion exercise)
+
+Historically the elenchus ran in conversation. This step uses a modern
+descendant of that conversational practice, the community of inquiry
+as K236 presents it (Lipman's Philosophy for Children protocol), as a
+companion exercise: for one decision in the coming week where the
+alternatives have stopped coming, run the two-other-minds check — two
+other people and one honest question, listening for the assumption the
+other person spots that you did not. Note honestly whether the scale
+(two people, one question) actually produced a new alternative or only
+confirmed what you already thought; the kernel's own scale note says
+the sources do not test it at this scale, so your observation is data,
+not proof.
 
 ## Assessment
 
-One artefact, three criteria (all three outcomes), written to the learner's
-own notes and shared with the cohort forum:
+One artefact in three parts, one criterion per part (all three
+outcomes), written to the learner's own notes and shared with the
+cohort forum:
 
-The learner writes one page: (i) a paragraph explaining the elenchus and
-the examined life in their own words (Outcome 1); (ii) the inherited
-belief they took from Step 3.3, the commitments it had to answer to, the
-conflict (or its absence), and the revision it forced (Outcomes 2 and
-3); (iii) one sentence on whether the two-other-minds check produced a
-new alternative or only confirmed a prior view (Outcome 3).
+(i) A paragraph, in the learner's own words, explaining what the
+elenchus is (a claim read together with one's own other commitments)
+and what the examined-life charge amounts to (the oracle, Socratic
+wisdom, the gadfly) (Outcome 1).
+
+(ii) The elenchus record from Step 3.3: the inherited belief with its
+provenance stated, the commitments written down, what follows from
+reading them together, and what gave (or the honest record that
+nothing did) (Outcome 2).
+
+(iii) The exchange record from Step 3.3's move run with another
+person, or as structured self-questioning: the actual questions asked
+(three at minimum, each one the asker did not know the answer to) and
+the answers as received, plus one sentence on whether the
+two-other-minds check produced a new alternative or only confirmed a
+prior view (Outcome 3).
 
 Criteria:
 
-1. The paragraph (i) states the oracle, Socratic wisdom and the gadfly
-   accurately in the learner's own words, without merely repeating the
-   wiki's phrasing.
-2. The belief in (ii) is genuinely inherited (a default the learner
-   actually held before the module, and the page says where it came
-   from), the commitments it had to answer to are the learner's own and
-   are written down, and the conflict (or its honest absence) is named —
-   a survey of acquaintances presented as the elenchus does not meet
-   this criterion.
-3. The record in (ii) names the specific conflict and the revision it
-   forced (or states honestly that no conflict appeared), and the
-   sentence in (iii) is an observation, not a summary of the method.
+1. The paragraph (i) states the method and the three narrative
+   elements accurately in the learner's own words, without merely
+   repeating the wiki's phrasing.
+2. The record (ii) derives what follows from the claim together with
+   the commitments (not from the claim alone), names the conflict and
+   the revision it forced or records its honest absence, and states
+   where the belief came from.
+3. The record (iii) contains real questions with answers as received
+   (questions the asker did not know the answers to), and the closing
+   sentence reports an observed outcome rather than summarising the
+   method.
 
 A peer reads the page and answers one question of their own; the learner
-replies. The reply is not graded, but a page that draws no peer question is
-returned for revision.
+replies. The reply is not graded, but a page that draws no peer question
+is returned for revision.
 
 ## Retrieval activities
 
-1. Free recall (after the wiki reading, before the second pass): close the
-   pages, write down the oracle story, the two charges of 399 BCE, and the
-   three moves of the Socratic method (assume nothing, test through
-   experience, elicit don't impose). Re-read to check yourself.
-2. After the Apology lecture segment on the oracle and the questioning of
-   politicians, poets and artisans: write down what Socratic wisdom is, in
-   one sentence, without looking at the page.
-3. After the Crito lecture: write down the one thing Socrates refuses to
-   do and why, in two sentences.
-4. The Step 3.3 exchange, recorded in writing; doubles as the assessed
-   artefact.
+1. Free recall (after the wiki reading, before the second pass): close
+   the pages, write down the oracle story, the two charges of 399 BCE,
+   and the three moves of the Socratic method (assume nothing, test
+   through experience, elicit don't impose). Re-read to check yourself.
+2. After the Apology lecture segment on the oracle and the questioning
+   of politicians, poets and artisans: write down what Socratic wisdom
+   is, in one sentence, without looking at the page.
+3. After the Crito lecture: write down the one thing Socrates refuses
+   to do and why, in two sentences.
+4. The Step 3.3 record, written out in full; doubles as the assessed
+   artefact (parts ii and iii).
 
 ## Prerequisite map
 
-- Entry competencies: mod-phil-1's exit criteria (the four virtue terms;
-  the three-framework comparison). No other prerequisites.
+- Entry competencies: mod-phil-1's exit criteria (the four virtue
+  terms; the three-framework comparison). No other prerequisites.
 - Exit competencies (this module's outcomes 1-3) feed the next module,
   Stoicism, ancient and modern, whose opening move is the Socratic
   inheritance the Stoics claimed (Socrates as the Stoic before the
@@ -268,55 +318,61 @@ returned for revision.
 
 - Wiki reading (measured 2026-10-25 by the prior session, re-confirmed
   for existence and content fit 2026-10-26; reader-facing words as
-  counted on the pages, front matter and the "Everything connected here"
-  reference inventory excluded): T011 sections Personal story / context,
-  Their why, Their position, Core ideas (635 words); three
+  counted on the pages, front matter and the "Everything connected
+  here" reference inventory excluded): T011 sections Personal story /
+  context, Their why, Their position, Core ideas (635 words); three
   Socratic-method sayings (44 words); ST155 Meno's Paradox (175 words);
-  K236 Community of inquiry (523 words). Total 1377 words.
-- Reading rate 180 words per minute (text with some new concepts; Brysbaert
-  2019 default 238 wpm adjusted down by purpose, per
-  ledgers/design-research.md) = 7.65 minutes raw reading.
-- Study overhead 3x raw reading time, labelled as estimate = 23 minutes
+  K236 Community of inquiry (523 words). Total 1377 words. Reading rate
+  180 words per minute (text with some new concepts; Brysbaert 2019
+  default 238 wpm adjusted down by purpose, per
+  ledgers/design-research.md) = 7.65 minutes raw reading. Study
+  overhead 3x raw reading time, labelled as estimate = 23 minutes
+  (estimate).
+- Module page reading (this instruction, measured on the page):
+  about 3,300 words at 180 words per minute = about 18 minutes
   (estimate).
 - Required video (durations re-confirmed on the live watch pages this
   session, 2026-10-26): Sadler Apology 1:06:20 + Sadler Crito 59:39 =
   2:05:59.
+- Retrieval activities 1 to 3 (free recall and two short writes):
+  15 minutes (estimate).
+- Writing, the exchange and the assessment artefact (Step 3.3 record,
+  Step 4 check, the one-page artefact, one peer reply): 60 minutes
+  (estimate).
 - Optional primary reading (not counted in the required total): the
   Apology and Crito in Jowett's translation (MIT Classics Archive).
-- Writing and the Socratic exchange (Steps 3 and 4 and the assessment
-  artefact): 60 minutes (estimate; one written page plus one real
-  exchange plus one peer reply).
-- Total: 23 minutes reading with study overhead + 2:05:59 video + 60
-  minutes writing and exchange = 3 hours 29 minutes (estimate).
+- Total: 23 minutes reading with study overhead + 18 minutes module
+  page + 2:05:59 video + 15 minutes retrieval + 60 minutes writing and
+  exchange = 242 minutes, about 4 hours (estimate).
 
 ## Alignment map
 
 | Outcome | Taught in | Practised in | Assessed in — what the criterion actually tests |
 |---|---|---|---|
-| 1 (the elenchus; the examined life) | Step 1 wiki reading; Step 2 both lectures | Retrievals 1, 2 | Criterion 1: whether the learner can state, in their own words, the oracle story, Socratic wisdom (knowing one's wisdom is worth little) and the gadfly charge — comprehension of those three specific elements, not vocabulary or phrasing recall. |
-| 2 (inherited belief run against one's own commitments) | Step 3 worked example 1 (demonstrated: converse error, missing premise, conflict between own beliefs) | Step 3 worked examples 2 and 3; Retrieval 4 | Criterion 2: whether the chosen belief is genuinely inherited (provenance stated) and whether the exchange ran against the learner's own written commitments — an acquaintance-survey presented as the elenchus fails this. |
-| 3 (one Socratic exchange run) | Step 3 worked example 1; Step 4 | Step 4 two-other-minds check; peer question in the assessment | Criterion 3: whether the record names the specific conflict and the revision it forced (or honestly states none appeared), and whether (iii) reports an observed outcome rather than summarising the method. |
+| 1 (the elenchus; the examined life) | Step 1 wiki reading; Step 2 both lectures | Retrievals 1, 2 | Criterion 1 (part i): whether the learner can explain the method (a claim read together with one's own commitments) and the examined-life charge (oracle, wisdom worth little, gadfly) in their own words. |
+| 2 (inherited belief read against one's own commitments) | Step 3 worked example 1 (demonstrated, with both limits) | Step 3 worked examples 2 and 3; Retrieval 4 | Criterion 2 (part ii): whether the learner derives what follows from claim and commitments together, names the conflict and the revision (or its honest absence), and states the belief's provenance. |
+| 3 (one exchange run and recorded) | Step 3 worked example 1; Step 4 | Step 4 two-other-minds check; peer question in the assessment | Criterion 3 (part iii): whether the exchange record contains real questions with answers as received, and whether the closing sentence reports an observed outcome. |
 
 ## Design notes (for the integrator band)
 
-- The module does not teach the pre-Socratics; the strategist's exclusion
-  ruling is now recorded in the scope doc (2026-10-25), so that flag is
-  closed.
-- The two lectures are the only verified video basis for this gap. Both
-  are classified from their transcripts (see the ledger) and their watch
-  pages were fetched fresh this session (2026-10-26). The three Rosenfeld
-  PHI 251 sessions recommended by deg-verify-b (2026-10-26) remain
-  UNATTACHED candidates: standard per-video verification has not been run
-  on them, and optional-but-assigned resources still require it; they are
+- The module does not teach the pre-Socratics; the strategist's
+  exclusion ruling is recorded in the scope doc (2026-10-25), so that
+  flag is closed.
+- The two lectures are the only verified video basis for this gap.
+  Both transcripts were read fresh this session (2026-10-26) and ground
+  the Step 2 content claims; the watch pages were fetched fresh (the
+  pages show playback controls and state no price; fresh playback
+  verification is not claimed beyond that). The three Rosenfeld PHI 251
+  sessions recommended by deg-verify-b (2026-10-26) remain UNATTACHED
+  candidates: standard per-video verification has not been run on
+  them, and optional-but-assigned resources still require it; they are
   recorded in the ledger only.
-- The elenchus is taught as a practice, not a doctrine: the module never
-  claims Socrates held a single theory of virtue; the wiki's own thinker
-  page is explicit that we have him only second-hand and disputed (the
-  Socratic problem), and the module says so in Step 1.
-- The SEP entry does not itself set out the claim-commitments-conflict-
-  revision sequence; the module's formulation is the wiki's own working
-  definition (a claim tested against the other beliefs the speaker
-  holds), grounded in the SEP's elenctic-dialogues and
-  weeding-inconsistencies passages quoted in the verification record.
-  The worked example therefore shows the move concretely rather than
-  citing a doctrine.
+- The elenchus is taught as a practice, not a doctrine: the module
+  never claims Socrates held a single theory of virtue; the wiki's own
+  thinker page is explicit that we have him only second-hand and
+  disputed (the Socratic problem), and the module says so in Step 1.
+- The claim-commitments-conflict-revision sequence is labelled a
+  pedagogical adaptation grounded in the SEP's elenctic passages; the
+  SEP is not cited as prescribing it (see Step 3's note).
+- Step 4 is a modern companion exercise (Lipman-derived, per K236) and
+  is presented as such, not as the historical core of the elenchus.

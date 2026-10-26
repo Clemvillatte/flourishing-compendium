@@ -1005,3 +1005,82 @@ resources still require it.
 Module status: DRAFT, NOT CLEARED. No gate awarded by this session; the
 strategist-owned scope gate, resource-verification, coverage, workload
 and independent module QC gates remain. Supervisor QC requested.
+
+## mod-phil-1s advisor round 2 applied — blocking repairs (2026-10-26, worker-pplx-greek-1026g)
+
+The rebuild entry above claimed all four withdrawal findings were
+addressed; the advisor's round-2 review corrected that: the worked
+example was still invalid, the content verification was incomplete, the
+alignment still overstated assessment, the workload did not match the
+assignment, and the community-of-inquiry framing misattributed a modern
+practice to the historical elenchus. This entry supersedes the rebuild
+entry's "addressed" claims. Repairs applied this session (round 2):
+
+1. Worked example REPLACED (the hard-work example is dropped; patching
+   it again was rejected). The new fully-worked example is the
+   commitments-based contradiction: "A good friend always agrees with
+   me" + "Pat is a good friend" + "Pat sometimes disagrees with me";
+   the first two imply Pat always agrees, the third conflicts. The
+   module states both limits explicitly: the contradiction shows the
+   commitments cannot all stand together (it does not show the first
+   claim alone is false — the learner may reconsider either
+   commitment instead), and the absence of a contradiction is not
+   proof of truth.
+2. Content verification extended with FRESH TRANSCRIPT READS (both
+   lectures, 2026-10-26, via the transcript rendering service; quoted
+   passages below). The watch-page fetches alone had substantiated
+   titles, durations and descriptions, and the module now says so.
+   Apology transcript passages grounding Step 2: the official charges
+   ("What are the official charges against Socrates?... Atheism...
+   corrupting the youth"); the oracle and Socratic wisdom ("So Oracle
+   says nobody wiser... He is really wise because he knows he's not
+   wise and doesn't know anything"); the examined life ("living what
+   Socrates called the examined life"); the gadfly ("I'm the gadfly. I
+   get to poke the city and make it jump when I need to"); the Crito
+   preview. Crito transcript passages grounding Step 2: the escape
+   plan ("he's got a breakout of jail plan"); the many ("Crito is too
+   concerned about what the many think"); the Laws ("the laws are sort
+   of like super parents"; "what was our agreement with you when you
+   entered into the courtroom"; "do you imagine a state can subsist...
+   in which the decisions of law have no power"); the good life ("a
+   good life is to be valued... not just life by itself but a good
+   life").
+3. Primary text verified fresh: the MIT Classics Apology (Jowett) was
+   fetched this session and the three passages ("wisdom is in truth
+   worth nothing"; "the life which is unexamined is not worth living";
+   the gadfly passage) are verified VERBATIM on the live page. The
+   fetched page text prints no section markers, so the 20d-e and 38a
+   locators remain unconfirmed by this fetch and stay flagged (carried
+   from the earlier ledger flag).
+4. The SEP quotation restored to its exact fetched wording ("was
+   known for 'confusing, stinging, and stunning his conversation
+   partners into the unpleasant experience of realizing their own
+   ignorance'"); the module's earlier compression had changed the
+   grammar. The claim-commitments-conflict-revision sequence is now
+   labelled a pedagogical adaptation grounded in the SEP's elenctic
+   passages, with the SEP not cited as prescribing it.
+5. Alignment repaired: each outcome now has its own observable
+   assessed task (explanation paragraph / elenchus record / exchange
+   record with real questions and answers as received) and the three
+   criteria are distinct; the exchange record requires three questions
+   minimum that the asker did not know the answers to.
+6. Workload recomputed from the final assignment: Step 1 now assigns
+   the four named T011 sections (matching the arithmetic; the "read in
+   full" mismatch is removed); the module page reading (~3,000 words at
+   180 wpm = 17 min), retrieval activities (15 min) and the exchange
+   are added; total 242 minutes, about 4 hours (estimate), replacing
+   the carried-forward 3h29m.
+7. Step 4 reframed as a MODERN COMPANION EXERCISE (Lipman-derived
+   community of inquiry per K236), no longer called the practical core
+   of the elenchus.
+8. Playback wording corrected: the watch pages show playback controls
+   and state no price; fresh playback verification is not claimed.
+9. Band timestamp replaced with measured UTC (see band file).
+
+Routing authorization is PENDING: the owner directed this session to
+degree work (2026-10-26, in-session); the launch routing had parked the
+Greek degree and the directive does not explicitly rescind that parking,
+so the live supervisor's confirmation of the reopening is requested.
+Module status: DRAFT, NOT CLEARED; no gate awarded; supervisor module
+QC requested. Round-2 advisor verdict: the draft is repaired pending
+re-review; it is not yet ready for a clearance request.
