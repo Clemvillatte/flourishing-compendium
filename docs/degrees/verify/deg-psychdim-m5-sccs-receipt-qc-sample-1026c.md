@@ -42,9 +42,35 @@ stability of self-beliefs rather than their specific content or
 positivity" — and Table 1 is titled "Self-concept clarity compared with
 related self-constructs". **Confirmed.**
 
+## Claim 3 (added same session): the Vartanian et al. 2023 SCCS usage
+
+The receipt states Vartanian, Hayward and Carter's article (published
+online 2022, in a 2023 issue) uses the same 12-item SCCS with five
+response points for its student sample and seven for its community
+sample, computes mean scores after reverse coding, and uses each
+scale's midpoint to group participants. The direct PDF fetch failed
+(fetcher_error on the URL's encoding), but a web search returned the
+indexed text of the exact cited PDF
+(https://www2.psy.unsw.edu.au/Users/lvartanian/Publications/Vartanian,%20Hayward,%20&%20Carter%20(2023).pdf):
+"Incorporating physical appearance into one's sense of self:
+Self-concept clarity, thin-ideal internalization, and
+appearance-self integration", Self and Identity 22:2, 181–196,
+published online 25 April 2022; Study 1 (162 female students; 262
+female community members); "For the student sample, items were rated on
+a 5-point scale (1 = Strongly disagree, 5 = Strongly agree); for the
+community sample, the scale was increased to 7 points"; "Some items
+were reverse-coded and higher mean scores indicate higher self-concept
+clarity"; "participants were classified as being relatively high in
+self-concept clarity if they scored at or above the mid-point of the
+scale... relatively low... below the mid-point". **Confirmed** —
+every element of the receipt's passage matches, including the
+receipt's caution that the midpoint grouping is an analytic choice in
+that study, which the article's own "for ease of presentation"
+wording supports.
+
 ## Result
 
-Both sampled claims pass against the primary sources. No defects
-found in the sampled portions of the receipt. Claims not sampled here
-(the Vartanian et al. 2023 study-details passage, and the receipt's
-scope discipline statements) were not re-checked.
+All three sampled claims pass against the primary sources (the
+instrument structure and arithmetic consequences, the Manchiraju
+review distinctions, and the Vartanian et al. usage passage). No
+defects found in the sampled portions of the receipt.

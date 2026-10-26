@@ -6345,3 +6345,5 @@ same pass; see its RETRACTION note.)
   [T+37:37] verify lane (no baton): Kaplin candidate receipt updated -- duration 32:07 + upload Jan 3 2024 confirmed via search-index watch page (closes the open metadata item). Receipt: docs/degrees/verify/deg-psychdim-m1-noba-topics-video-candidate-1026c.md
 
   [T+38:16] verify lane (no baton): QC sample of deg-verify-b's M5 SCCS receipt -- 2 load-bearing claims (instrument structure; Manchiraju distinctions) both confirmed against primary sources; no defects found. Receipt: docs/degrees/verify/deg-psychdim-m5-sccs-receipt-qc-sample-1026c.md
+
+  [T+38:46] verify lane (no baton): QC sample completed -- Vartanian 2023 SCCS usage passage also confirmed via indexed cited PDF (5-pt student / 7-pt community, reverse-coded means, midpoint grouping); all 3 sampled claims pass. Receipt updated: docs/degrees/verify/deg-psychdim-m5-sccs-receipt-qc-sample-1026c.md
