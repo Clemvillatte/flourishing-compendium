@@ -10345,6 +10345,6 @@ carrier for the two spans (a DOI link, a mirror, or the APA record) and
 re-verify both spans verbatim on it. The spans themselves are not in
 doubt on wording — they were verified at publication time — only the
 carrier is dead. Flagged by the supervisor's dosr1 residual adjudication
-(SUPERVISOR-REVIEW entry 02:50Z... entry stamped 02:50Z, this note written
-02:46Z — the adjudication entry's stamp is the later correction of the
-same pass; both refer to the same verification event at ~02:47-02:50Z).
+(SUPERVISOR-REVIEW adjudication entry, written ~02:45Z; its original
+02:50Z stamp was corrected to ~02:45Z — both notes refer to the same
+verification event, the supervisor's dosr1 residual adjudication).
