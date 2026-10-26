@@ -1,22 +1,3 @@
-{
-<<<<<<< HEAD
- "band": "deg-psychdim",
- "kind": "degree",
- "holder": null,
- "phase": "production-handoff-independent-review-required",
- "modules": {
-  "m1-orientation": "independent supervisor MODULE-QC PASS at cdb8f0939; three nonblocking alignment labels fixed. 249 estimated minutes. Not complete-degree/publication clearance.",
-  "m2-affective": "independent supervisor MODULE-QC PASS at b1f5533f after changed-hash rereview of the assessment-only delta (review deg-psychdim-m2-supervisor-2026-10-26.md, changed-hash section). 304 estimated minutes. Not complete-degree/publication clearance.",
-  "m3-cognitive": "independent supervisor MODULE-QC PASS at 9ff7b598b (review deg-psychdim-m3-supervisor-2026-10-26.md); three nonblocking notes (M1 exit wording, lecture-4 watch-page duration 58:46 vs ledger 58:47, humanizer functional negations). 290 estimated minutes. Not complete-degree/publication clearance.",
-  "m4-attentional": "VERIFICATION OPEN; MODULE NOT CLEARED. New indexed timed transcript evidence continuously covers original2846-3293sec window through overlapping2827-3210 and3210-3293 fragments; exact hash68acd6f12985c39b2d728b93d567db596fae1605912697ba6816c9d8735eedd3 unchanged. Independent decision pending; see verify/deg-psychdim-m4-m5-indexed-window-evidence-2874787d.md. Teaching/alignment/arithmetic/source-identity findings stand.265 estimated minutes.",
-  "m5-self-and-identity": "NOT CLEARED: alignment/navigation and7criterion-specimen repairs have bounded production adviser ACCEPT at c38a8d6d48eb81e44d00aff28ca942c1ba5df2fe0ad4e046840ff3c90a600fad. New indexed timed transcript evidence continuously covers original607-811sec window through overlaps; 13:31 is an editorial early stop, not participant first-word claim. Independent recording decision and supervisor delta rereview still owed.315 estimated minutes. Receipts verify/deg-psychdim-m5-alignment-repair-2874787d.md and verify/deg-psychdim-m4-m5-indexed-window-evidence-2874787d.md.",
-  "m6-motivational": "production repair checkpoint, NOT CLEARED: amotivation/intentional-action feedback and unused barrier contrast added; five criterion specimens and observable rubric at b2674a0ad5b04186ddc3e61a33a4af8130b2adc34468f7bf0b98644a1c3f8f85 (hash re-verified unchanged). Production-adviser round RETRIED 07:41Z by worker-pplx-psychdim-1026d: ACCEPT, all five supervisor items PASS, arithmetic and safety PASS (receipt verify/deg-psychdim-m6-adviser-accept-1026d.md). Supervisor changed-hash review still owed.271 estimated minutes. Existing source-chain/Study4 findings preserved. Receipt verify/deg-psychdim-m6-all-six-repair-2874787d.md.",
-  "m7-overt-behavioural": "independent supervisor MODULE-QC PASS at 97857e98 (review deg-psychdim-m7-supervisor-2026-10-26.md); all four numerical claims verified verbatim against opened sources; M3/M7 clip split confirmed disjoint. Two nonblocking notes. 301 estimated active minutes over at least three ordinary days. Not complete-degree/publication clearance.",
-  "m8-integrative-capstone": "independent supervisor MODULE-QC PASS (capstone specification) at f26f84ce (review deg-psychdim-m8-supervisor-2026-10-26.md); not evidence of learner execution; not complete-degree/publication clearance. 375 active minutes typically across 7-14 days."
- },
- "notes": "2026-10-26 degree-2874787d: production baton released06:45Z after final producer checks. Packet2370 estimated active minutes,39h30m. Independent supervisor passes M1/M2/M3/M7/M8 preserved. M4/M5 original recording windows have continuously overlapping indexed timed evidence, independent decisions pending. M5 bounded production adviser ACCEPT. M6 alignment/specimen repair implemented; adviser unavailable after explicit credit exhaustion. Supervisor acknowledged handoff and routed remaining decisions to next session. No integration/publication request or self-awarded gate.",
- "updated": "2026-10-26T06:45:51Z"
-=======
   "band": "deg-psychdim",
   "kind": "degree",
   "holder": null,
@@ -34,5 +15,3 @@
   "notes": "2026-10-26 supervisor 1026h (T0 07:32:43Z): M4 window flag closed by verification decision; M5/M6 delta reviews pass 2 issued; all eight modules QC PASS at unchanged hashes; packet 249+304+290+265+315+271+301+375 = 2370 estimated active minutes (39h30m) recomputed. Whole-degree gate review and deg-integrate attachment remain before publication. Prior degree-2874787d production handoff notes preserved below in history.",
   "updated": "2026-10-26T07:52:00Z",
   "status": "qc_complete"
->>>>>>> 47f0df7 (supervisor 1026h: psychdim M4/M5/M6 reviews complete, all modules PASS, band qc_complete; supervisor baton race conceded to 1026a)
-}
