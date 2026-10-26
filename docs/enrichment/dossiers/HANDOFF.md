@@ -47,6 +47,29 @@ per-question verdicts under the same-proposition test (`batches/dosr2.json`).
 Band holders should verify-and-close that way, not repair from the stale list,
 and flag genuinely below-bar items to the supervisor if found.
 
+DOSR6 SUBSTANTIVE CLOSE (2026-10-26, worker-pplx-dosr6-1026b, baton held
+02:20:51Z-02:37Z, released clean): the band's four disagreement sections were
+read in full under the same-proposition test across five advisor QC rounds
+(rounds 3-5 on the uncertainty repairs). FINAL STATE: right-action 3/3
+strict-certified (taking-life SN 45.8 vs Aquinas; akrasia Aristotle vs
+Socrates, narrowed; character robustness Hursthouse/Pettigrove vs Doris),
+sadness-and-grief 3/3 (detachment vs continuing bonds; grief-work vs
+dual-process; Cicero judgment vs natural force, qualified), the-self 2
+certified BELOW BAR (Q1 SN 22.59 vs Advaita and Q4 Markus-Kitayama flagged;
+needs a primary passage excluding the enduring witnessing self), uncertainty
+3/3 AT BAR after repair (K&T/Gigerenzer 1996 single-event norm dispute;
+Savage/Ellsberg sure-thing principle; Arcesilaus/Zeno sage's assent via
+Cicero Academica 2; the Sextus/Descartes doubt pairing is a QUALIFIED
+COMPARISON, not certified). Registry rebuilt for uncertainty (deecfb60f);
+post-close independent verification: all 26 quotes re-confirmed on opened
+carriers (661572172); the 4 Ellsberg quotes remain documented OCR-degraded
+exceptions, read from the opened PDF via prompted extraction. The survey
+count 3/3/4/3 above is superseded for dosr6: the-self is 2 certified below
+bar. SUPERVISOR DECISIONS: (1) the-self primary-verification repair or
+below-bar acceptance; (2) the earlier 'uncertainty at bar' record at e517df687
+was premature and is superseded by 7deec4e0e + deecfb60f. Details in
+`batches/dosr6.json`.
+
 DOSR7 SUBSTANTIVE CLOSE (2026-10-26, worker-pplx-deg-gate-1026b, baton
 02:16:29Z to release): the band's STEP 0 close was structural only; all
 four disagreement sections were read in full under the same-proposition
