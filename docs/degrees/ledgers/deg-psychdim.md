@@ -2666,6 +2666,79 @@ and revision 70. Total **260 minutes**. Transcript substitutes for the
 same video segments. Optional wider source exploration excluded.
 Independent advisor review commissioned; supervisor module-QC owed.
 
+## Wave 2 production: M4 attentional, 2026-10-26 05:09Z
+
+`modules/deg-psychdim/m4-attentional.md`, L2 guided application, **DRAFT,
+NOT CLEARED**. Consumed independent video audit and measurement-boundaries
+receipt; parent freshly opened and read all four continuous video windows,
+the required review passages and the added original ANT Results paragraphs.
+No personal ANT administration, diagnostic threshold, neurochemical
+inference or treatment claim is assigned.
+
+- **Three networks:** Posner **03:06–14:52 = 11:46**, parent read the
+  continuous transcript; preserved 2023 section-4 qualification of
+  complete independence. The rejected old Oregon profile redirected to
+  a general department homepage; it is not used as credential evidence.
+  Actual current directory opened and read: professor emerit, attention/
+  self-regulation research.
+  ([Recording](https://www.youtube.com/watch?v=uYUdwS7-WvA);
+  [current Oregon profile](https://cas.uoregon.edu/directory/psychology/all/mposner);
+  [2023 qualification](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/).)
+- **Task illustration:** Gaul **05:24–07:42 = 2:18**, complete continuous
+  transcript reopened; accurately labelled student explainer, not a
+  clinical authority. The research source supports the calculations.
+  ([Public clip](https://www.youtube.com/watch?v=y-fQywP6qa8).)
+- **Selective attention:** narrowed Bloom assignment to **47:26–54:53 =
+  7:27** after reading all of the previously verified chapter. Removes
+  the earlier clinical/memory digression and later categorical anecdotes;
+  retains spotlight, Stroop and inattentional/change demonstrations.
+  Verbal equivalent tasks need no normal colour vision or reported
+  personal illusion, and assess the same distinction.
+  ([Actual chapter recording](https://www.youtube.com/watch?v=DmWrOUK2zgA);
+  [institutional text](https://oyc.yale.edu/psychology/psyc-110/lecture-7).)
+- **Practice comparison:** Jha **02:08–04:17 = 2:09**, full assigned
+  transcript and boundary context reopened; Miami institutional biography
+  opened. FA/OM definitions only, not the talk's broader effects claims.
+  Lippelt abstract and methodological paragraph supply the evidence
+  boundary, actual current passages reopened. One-minute safe observation
+  can be replaced by a fictional description; no efficacy inference.
+  ([Recording](https://www.youtube.com/watch?v=n_3MVEo9fx4);
+  [Miami](https://people.miami.edu/profile/a.jha@miami.edu);
+  [2014 review](https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/).)
+- **Anatomy, development, affect and associations:** 2019 review opened
+  for Table 1 (distributed structures/modulators), Table 2 and adjoining
+  first pathology paragraph, plus development/affect passages. All
+  claims attributed, no one-to-one inference. The Table-1 lookup does
+  not become an anatomy memorisation examination. Group associations
+  and developmental shifts cannot diagnose Dev or a learner.
+  ([2019 review](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/).)
+- **New primary measurement reference:** actual search for ANT cue
+  subtraction definitions found Fan, McCandliss, Sommer, Raz and Posner
+  **2002, Testing the Efficiency and Independence of Attentional
+  Networks**, free full university-hosted PDF. Opened full article;
+  read all three Results definition paragraphs and Discussion's
+  speed–accuracy paragraph. Assigned only the three Results paragraphs;
+  no original normative study values used as personal standards.
+  No open licence asserted merely because full text is freely readable.
+  ([Actual full PDF](https://w3.ual.es/personal/tdaza/Fan%20y%20cols.pdf).)
+
+All five outcomes have teaching, worked/completion practice and feedback,
+and an unused Dev-case assessment. Network independence versus interaction
+is the same-question L2 comparison; each family has lived/real-claim
+transfer with useful choice and uncertainty, private/redactable.
+ANT values are explicitly fictional didactic contrasts, not a coherent
+participant trial dataset or a scale. Assessment calculations:
+700−640 = 60, 670−630 = 40, 740−660 = 80 milliseconds.
+
+Workload: 706 + 138 + 447 + 129 = **1,420 seconds = 23:40**,
+plus 16 pause/notes minutes, round **40**. External passage/table
+reading is an **estimated 1,100–1,400 words**, not a measured count;
+at 130 wpm and triple raw study, 25–32 minutes, rounded up with
+table/reference navigation to **35**. Teaching 40, guided practice 50,
+delayed retrieval 20, final/transfer/revision 80 = **265 minutes**.
+Optional and substitute activities do not add duplicate requirements.
+Read-only advisor QC commissioned; independent module-QC still owed.
+
 M1 independent supervisor decision consumed at 05:02Z:
 `reviews/deg-psychdim-m1-supervisor-2026-10-26.md` records **MODULE-QC
 PASS** on production commit **cdb8f0939**, module SHA-256

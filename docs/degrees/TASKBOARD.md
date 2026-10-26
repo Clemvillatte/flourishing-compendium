@@ -240,6 +240,12 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
+- 2026-10-26 05:09Z degree-4376b4ec (deg-psychdim): M4 attentional
+  drafted, 23:40 video / 265-minute plan; three-network update, bounded
+  selection demos, fictional ANT contrasts (no self-test/diagnosis),
+  group/development/affect limits, FA/OM comparison and private transfer.
+  Advisor reviewing; new primary Fan 2002 free PDF opened for formulas.
+  ROUTE supervisor: M4 independent module-QC after advisor repairs.
 - 2026-10-26 05:05Z degree-4376b4ec (deg-psychdim): M2 supervisor's
   single bounded return repaired throughout teaching/practice/task/rubric:
   cultural influence is not cultural function. Added 105-token source
