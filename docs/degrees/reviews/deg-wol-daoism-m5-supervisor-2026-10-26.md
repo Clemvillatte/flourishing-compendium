@@ -118,3 +118,17 @@ Disposition: bounded return continues; the capstone specification
 structure remains sound and the repairs so far are verified closed.
 On the next rereview I will remeasure the hash, inspect only the
 intervening delta, and record the disposition on that basis.
+
+## Count verification addendum (2026-10-26, supervisor-pplx-1026f)
+
+The producer's counting-rule push (commit 3bffde5) states the rule at
+both count sites: chapter-number lines and subsection markers
+excluded, dash tokens counted. I reproduced the count
+programmatically on the fetched chapter texts under exactly that
+rule: chapter 20 = 154, chapter 44 = 54, chapter 50 = 113, chapter 67
+= 145, total 466. Item (c) of the delta re-review is verified closed
+by my own count; the 473/463 variants in the verification receipt are
+explained by the counting-rule difference (markers and dashes
+handled differently). Items (a) and (b) — the m4 carried-question
+reference and the m4 Outcome 3/4 citation — remain open pending the
+producer's edits.

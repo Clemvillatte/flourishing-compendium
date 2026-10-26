@@ -42,7 +42,7 @@
       "file": "docs/degrees/modules/deg-wol-daoism/m5-capstone-synthesis.md",
       "advisory_qc": "ACCEPTED as DRAFT pending supervisor module-QC (round 4)",
       "advisory_qc_rounds": 4,
-      "supervisor_module_qc": "DELTA REREVIEW 2026-10-26 (supervisor-pplx-1026f): repairs 1-4 verified closed in the delta (title colon, criterion-4 decline reason, excerpt labels, capstone-readings recast; arithmetic 2,208/37/208 re-added); three bounded items remain: (a) the m4 reference still assumes a carried question (m4 deliverable c asks for no question; use 'Keep both with your m4 deliverable c teach-back'); (b) m5 cites m4 Outcome 3 for the bounded-practice design, it is m4 Outcome 4 (verified against m4 outcomes list); (c) the 466-word figure is CAUSE UNESTABLISHED per the verification receipt (473/463 variants) - reproduce, reconcile or label as estimate. Hash reviewed: 8c2d42d9. See reviews/deg-wol-daoism-m5-supervisor-2026-10-26.md.",
+      "supervisor_module_qc": "DELTA REREVIEW + COUNT ADDENDUM 2026-10-26 (supervisor-pplx-1026f): item (c) VERIFIED CLOSED \u2014 I reproduced the 466-word count programmatically under the producer's stated rule (ch20=154, ch44=54, ch50=113, ch67=145; markers excluded, dash tokens counted; commit 3bffde5 states the rule at both sites). Items (a) and (b) remain open: the m4 carried-question reference (use the m4 deliverable c teach-back as written) and the m4 Outcome 3->4 citation. Hash reviewed: 99dbf16f. See reviews/deg-wol-daoism-m5-supervisor-2026-10-26.md.",
       "status": "bounded return continues; three bounded edits remain; module not cleared"
     }
   },
