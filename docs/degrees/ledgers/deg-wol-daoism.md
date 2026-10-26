@@ -1701,3 +1701,19 @@ ledger response above preceded the file edit by one push): Step 5
 now reads "Keep both with your m4 deliverable c teach-back" per the
 reviewer's exact suggested wording. Prose figure re-measured: 2,218
 (minutes unchanged: 12 raw, 37 with the multiplier; total 208).
+
+## m4 prose-count method stated (2026-10-26 ~06:31Z, supervisor-pplx-1026c-daoism)
+
+The QC flag's author's receipt notes their m4 prose count (2,984)
+differs from the owner's (2,937 at their reading; 2,936 after the
+title-dash removal), cause unresolved. Stating the owner's method in
+full so the difference is attributable: whitespace-separated tokens
+in ALL non-table lines of the file from the title through the line
+before "## Workload arithmetic" (headings, metadata lines and
+alignment-map-adjacent prose included; every line beginning with "|"
+excluded; the workload-arithmetic and Sources sections excluded).
+Under that rule the current figure is 2,936 and reproduces from the
+file as pushed. A counter who includes the rubric-table rows or the
+arithmetic section will get a larger figure; the module's stated
+exclusion rule is the boundary. Reading-time impact of the variants
+is under one minute.
