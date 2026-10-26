@@ -1,9 +1,13 @@
 {
  "baton": "dosr2",
- "agent": null,
- "clocked_in": "2026-10-25T23:48:59+00:00",
- "takeovers": [],
- "released": true,
- "released_at": "2026-10-25T23:48:59+00:00",
- "note": "minted 2026-10-25/26 by strategist-pplx-1026a \u2014 dossier repair band, see docs/enrichment/PIPELINE-2026-10-26.md"
+ "agent": "worker-pplx-dosr2-1026a",
+ "clocked_in": "2026-10-26T00:17:24+00:00",
+ "takeovers": [
+  {
+   "by": "worker-pplx-dosr2-1026a",
+   "at": "2026-10-26T00:17:24+00:00",
+   "from": null,
+   "reason": "released"
+  }
+ ]
 }
