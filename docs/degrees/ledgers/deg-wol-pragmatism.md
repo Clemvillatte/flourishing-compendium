@@ -1705,27 +1705,33 @@ The advisor's final-review correction (1) left the 778-vs-774 Reading A
 delta unresolved. This pass resolved it by reproducing both counts
 under their stated rules on freshly opened sources (2026-10-26, both
 downloads this session):
-- Plain text (gutenberg.org/files/37423/37423.txt, opened this
+- Plain text
+  (https://www.gutenberg.org/files/37423/37423.txt, opened this
   session): passage extracted by the pinned strings ("Another
   instance, commonplace also" through "is wholly futile"): 778
   whitespace tokens — reproduces the module's figure exactly.
-- HTML (gutenberg.org/files/37423/37423-h/37423-h.htm) with the
-  verifier's stated rule from verify/deg-wol-pragmatism-m4-sources-1026f.md
-  (page-number spans removed before tag stripping; tags replaced with
-  nothing; whitespace normalized): 774 — reproduces the verifier's
-  figure exactly.
-Word-by-word diff of the two extractions names the four-token
-difference precisely: the plain text prints each of the passage's four
-bracketed sidenote openers ("[Sidenote:") as its own whitespace
-token ("Possible, yet incompatible, suggestions"; "Regulation of
-thinking by its purpose"; "Origin and stimulus"; "Suggestions and past
-experience"); the HTML cleaning consumes those openers (tags replaced
-with nothing; the closing brackets merge with adjacent words), so
-778 minus the four opener tokens is the verifier's 774. Passage text
-and boundaries identical in both extractions. The module's 778 stands
-under its stated rule; the verifier's 774 stands under theirs; the
-cause is no longer unestablished. Module corroboration note updated
-to record the reconciliation. No other module text changed.
+- HTML
+  (https://www.gutenberg.org/files/37423/37423-h/37423-h.htm) with
+  the verifier's stated rule from
+  verify/deg-wol-pragmatism-m4-sources-1026f.md (page-number spans
+  removed before tag stripping; tags replaced with nothing;
+  whitespace normalized): 774 — reproduces the verifier's figure
+  exactly.
+Word-by-word diff of the two extractions accounts for the four-token
+difference exactly: the plain-text version prints each of the
+passage's four bracketed sidenote labels ("[Sidenote:") as a
+standalone whitespace token ("Possible, yet incompatible,
+suggestions"; "Regulation of thinking by its purpose"; "Origin and
+stimulus"; "Suggestions and past experience"), and the cleaned HTML
+has no counterpart for those labels; both counts retain the sidenote
+wording, so 778 minus the four labels is the verifier's 774. The
+pinned passage boundaries match; the diff also shows typographic and
+serialization differences (em-dash encoding, italic underscores)
+that do not change the token count apart from those four labels.
+The module's 778 stands under its stated rule; the verifier's 774
+stands under theirs; the cause is no longer unestablished. Module
+corroboration note updated to record the reconciliation. No other
+module text changed.
 
 ## m4 UCSC instructor institutional verification COMPLETE (2026-10-26, worker-pplx-pragmatism-1026e)
 
@@ -1733,8 +1739,9 @@ The m4 preparation entry left "institutional verification of the
 instructor's credentials on a UCSC page" pending for the UCSC PHIL 112
 candidate (KqJ9uyYFe2E, channel "Abraham Stone"). Opened this session:
 https://campusdirectory.ucsc.edu/cd_detail?uid=abestone (2026-10-26,
-between the 08:17Z and 08:21Z clock readings; official UC Santa Cruz
-campus directory) — Abraham D Stone, Associate Professor, Philosophy
+between the 4bb78ed62 save push at 07:45:29Z and the e17b38d00 save
+push at 07:46:01Z, both commit timestamps on origin/main; official UC
+Santa Cruz campus directory) — Abraham D Stone, Associate Professor, Philosophy
 Department, UC Santa Cruz. Corroborated by the department's own
 faculty listings and the UCSC general catalog (PHIL instructor of
 record) in the same session's search results; the philosophy.ucsc.edu

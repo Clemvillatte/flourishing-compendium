@@ -437,9 +437,11 @@ covering this module's material found candidate groups recorded in the
 ledger (Bernstein on Dewey; Sprintzen on Dewey; UCSC PHIL 112 on
 Dewey), none of which is verified to the media standard: identity is
 confirmed for the candidates and presenter credentials for Bernstein
-and Sprintzen; the UCSC instructor (Abraham D. Stone) is verified on
-the university's own campus directory (Associate Professor, Philosophy
-Department, UC Santa Cruz, opened 2026-10-26, receipt in the ledger).
+and Sprintzen; the UCSC instructor's institutional credentials are
+verified on the university's own
+[campus directory](https://campusdirectory.ucsc.edu/cd_detail?uid=abestone)
+(Abraham D. Stone, Associate Professor, Philosophy Department,
+opened 2026-10-26, receipt in the ledger).
 Playback, captions and measured durations remain uninspected for all
 of them. Coverage: the deg-verify-b coverage
 receipt records strong transcript-level evidence for the Bernstein
@@ -460,13 +462,14 @@ confirmed the three sources and the assigned passages' boundaries
 independently. Its Reading A count is 774 on a cleaned HTML
 extraction against this module's 778 on the downloaded plain text;
 both counts are now reproduced under their stated rules, and the
-four-word difference is identified exactly: the plain text prints
-each of the passage's four bracketed sidenote openers ("[Sidenote:")
-as its own whitespace token, and the verifier's HTML cleaning
-consumes them (tags replaced with nothing; the closing brackets
-merge with adjacent words), so the plain-text count minus those
-four opener tokens is the verifier's 774; the passage text and
-boundaries are identical. The same receipt corroborates the
+four-token difference is accounted for exactly: the plain-text
+version prints each of the passage's four bracketed sidenote labels
+("[Sidenote:") as a standalone whitespace token, and the cleaned
+HTML has no counterpart for those labels; both counts retain the
+sidenote wording. The pinned passage boundaries match; the word-by-
+word diff also shows typographic and serialization differences
+(em-dash encoding, italic underscores) that do not change the
+token count apart from those four labels. The same receipt corroborates the
 blocked-playback limit on the video candidates.
 
 ## Alignment map
