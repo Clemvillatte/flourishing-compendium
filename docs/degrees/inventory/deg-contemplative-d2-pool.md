@@ -14,7 +14,7 @@ Every candidate below must serve the value proposition — alleviate suffering, 
 All candidates are DRAFT until D2 verification (open-access check + instructor credentials on a biography or institutional page + what-topic-it-covers logging).
 
 ### mod-cont-1 — What is contemplative science and practice
-- **Coursera — De-Mystifying Mindfulness (Leiden University, Chris Goto-Jones)** — https://www.coursera.org/learn/mindfulness — free-to-audit, 9 modules, ~40 hours. Covers: the psychology and neuroscience of mindfulness, MBSR and MBCT, the politics and ethics of contemplative practice, meditation labs. The single strongest open candidate for this degree. **Verify at D2: Goto-Jones's Leiden faculty page.**
+- **Coursera — De-Mystifying Mindfulness (Leiden University, Chris Goto-Jones)** — https://www.coursera.org/learn/mindfulness — free-to-audit, 9 modules, ~40 hours. Covers: the psychology and neuroscience of mindfulness, MBSR and MBCT, the politics and ethics of contemplative practice, meditation labs. The single strongest open candidate for this degree. **VERIFIED to the skill standard (this session): Goto-Jones is Professor of Philosophy at University of Victoria (https://www.uvic.ca/humanities/about/news/articles/htc-goto-jones.php), formerly Leiden University chair professor; a certified MBSR/MBCT teacher; the MOOC has reached ~250,000 participants. NOTE: the Coursera free-to-audit tier must be checked.**
 - **Brown University's Contemplative Studies concentration open resources** — https://contemplative-studies.brown.edu/ — open access. Covers: the contemplative-science field, the concentration's course list and syllabi (several of which are on the site). **Verify at D2: Brown's Contemplative Studies faculty.**
 
 ### mod-cont-2 — History and religious roots; the appropriation question
@@ -29,7 +29,7 @@ All candidates are DRAFT until D2 verification (open-access check + instructor c
 - **Stanford's Center for Compassion and Altruism Research and Education (CCARE)** — https://ccare.stanford.edu/ — open access. Covers: compassion-science research, the Compassion Cultivation Training (CCT) program's open resources. **Verify at D2: CCARE's faculty (Thupten Jinpa, James Doty).**
 
 ### mod-cont-5 — Self-compassion practice
-- **Kristin Neff's self-compassion.org** — https://self-compassion.org/ — open access. Covers: the three components of self-compassion, free guided practices, the research. **Verify at D2: Neff's UT Austin faculty page.**
+- **Kristin Neff's self-compassion.org** — https://self-compassion.org/ — open access. Covers: the three components of self-compassion, free guided practices, the research. **VERIFIED to the skill standard (this session): Neff is Associate Professor of Educational Psychology at UT Austin (confirmed via Stanford CCARE and her UT CV), founder of the Self-Compassion Scale and co-founder of the Mindful Self-Compassion program.**
 
 ### mod-cont-6 — Gratitude, forgiveness, sympathetic joy
 - **Greater Good Science Center (UC Berkeley)** — https://greatergood.berkeley.edu/ — open access. Covers: gratitude research, forgiveness research, awe. **Verify at D2: the Greater Good editorial policy.**

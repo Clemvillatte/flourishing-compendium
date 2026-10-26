@@ -58,7 +58,7 @@ All candidates are DRAFT until D2 verification (open-access check + instructor c
 
 ### mod-well-12 — Gratitude, self-compassion, savoring
 - **Greater Good Science Center (UC Berkeley)** — the gratitude and self-compassion sections (Emmons's and Neff's research summaries).
-- **Kristin Neff's self-compassion.org** — https://self-compassion.org/ — open access. Covers: the three components of self-compassion, free guided practices. **Verify at D2: Neff's UT Austin faculty page.**
+- **Kristin Neff's self-compassion.org** — https://self-compassion.org/ — open access. Covers: the three components of self-compassion, free guided practices. **VERIFIED to the skill standard (this session): Neff is Associate Professor of Educational Psychology at UT Austin (confirmed via Stanford CCARE at https://ccare.stanford.edu/people/kristen-neff-phd/ and her UT CV), founder of the Self-Compassion Scale and co-founder of the Mindful Self-Compassion program.**
 - **Coursera — The Science of Well-Being (Yale, Santos)** — the gratitude-intervention module.
 
 ### mod-well-13 — Positive interventions; positive psychology in education, health, workplace
