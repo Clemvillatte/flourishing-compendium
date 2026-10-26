@@ -21,6 +21,6 @@ Bounded Phase-D2 verification assist for two lanes: psychdim (baton dosr3 / dega
 
 ## Status for the lanes
 
-- psychdim: Coursera row 2 upgraded at page level (free route corroborated; per-item unlock still unverified).
+- psychdim: Coursera row 2 remains access-unverified at course level (page live with syllabus visible; "Enroll for free" + generic FAQ do not establish a no-payment route for this course — see the corrected verdict in section 1).
 - positive: POS-TEX-1 search extended with two open candidates (APA TOPSS high-school unit; UFSN college classroom case).
 - Neither pool file was edited (no batons held); receipts only.
