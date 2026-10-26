@@ -40,21 +40,21 @@
   "next_phase_owner": "The D2 agent fills this matrix with verified open resources and presents the D1 map + filled D2 matrix at the mandatory checkpoint.",
   "topics": [
     {
-      "topic": "What is positive psychology; PERMA",
+      "topic": "What is positive psychology; the shift from pathology to wellbeing",
       "module": "mod-well-1",
-      "status": "design-existing, under-scaled",
+      "status": "PENDING \u2014 PERMA (Seligman 2011 Flourish) is NOT explicitly in any of the three opened documents; the Haidt syllabus predates it (2004) and uses Authentic Happiness-era language; needs its own evidence at D2",
       "sources": []
     },
     {
       "topic": "Hedonic vs eudaimonic wellbeing",
       "module": "mod-well-1",
-      "status": "PARTIAL",
+      "status": "PARTIAL \u2014 supported by Haidt C1 9/1 (Keyes & Haidt Flourishing required book) and CPP outline section A (Western versus Eastern Perspectives)",
       "sources": []
     },
     {
       "topic": "Positive emotions; broaden-and-build",
       "module": "mod-well-2",
-      "status": "design-existing, under-scaled",
+      "status": "design-existing, under-scaled \u2014 supported by Haidt C7 10/13 Being Nice (Fredrickson broaden-and-build)",
       "sources": []
     },
     {
@@ -189,5 +189,6 @@
       "status": "MISSING",
       "sources": []
     }
-  ]
+  ],
+  "reconciliation_note": "Reconciled with the corrected deg-wellbeing.md this session (QC pass 5): Haidt is Fall 2004 Psychology 403 with C1-C14 classes; UT Tyler is Kristie Allen (Happiness Lab podcast, W1-W15); CPP is a curriculum proposal with lettered outline A-K. PERMA and positivity ratio are PENDING (not in any of the three opened documents). NOTE: the three-syllabus requirement \u2014 the CPP document is a CURRICULUM PROPOSAL not a week-by-week syllabus; if the D1 rule requires three actual syllabi, CPP cannot silently count as the third and a qualifying third syllabus is needed."
 }
