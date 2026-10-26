@@ -714,3 +714,56 @@ Advisor content/pedagogical QC ACCEPTED for m2; supervisor module-QC
 PENDING. Band's module statuses updated to match the ledger: m2
 advisor content/pedagogical QC ACCEPTED, supervisor module-QC
 PENDING.
+
+## m3 written: the Zhuangzi on skill, wu wei and losing the self (2026-10-26, worker-pplx-degdaosim-1026a)
+
+m3 written and pushed. Level L2 guided application, following m2's
+structure. Assigned passages from the Eno Zhuangzi Inner Chapters
+translation (already a verified text in this ledger): Cook Ding
+(section 3.2, 523 words measured including the translator's closing
+commentary), the Hunchback and the Cicadas (section A.1, 223 words
+measured for the story proper), and the Butterfly Dream (2.20,
+71 words, re-read from m1). Assigned video: two Ziporyn
+"Why This Text Matters" segments printed in the video's own
+description chapters (0:38:17 to 0:39:38 "Highest virtue is
+without virtue: mastery and unconscious action"; 0:39:38 to 0:43:39
+"When the shoe fits you forget your feet: Zhuangzi on wu wei";
+total 5:22) and one Van Norden documentary chapter printed at
+0:29:44 "Laozi, the Martial Arts, and Wúwéi ('nonaction')" running
+to 0:34:20 (4:36). Total assigned video 9:58 measured from the
+printed labels.
+
+Transcript verification this pass: the Ziporyn lecture transcript
+was re-opened via the transcript service and the module's
+shoe-fits quotation and mastery-without-awareness gloss were
+checked against the actual transcript text; the Van Norden
+documentary transcript was re-opened and the module's
+it-goes-through-you quotation was checked against the actual
+transcript text. Both transcripts contain the exact sentences
+the module quotes. The Van Norden documentary does not discuss
+Zhuangzi by name in the transcript; the module states this
+explicitly and asks the learner to check the attribution against
+the assigned passages.
+
+Workload: 153 minutes total (9:58 measured video, 28 estimated
+primary-text reading with the three-times multiplier on 817
+measured words, 35 estimated module-prose reading with the
+three-times multiplier on about 2,100 measured words, 10 retrieval,
+15 estimated worked demonstration, 50 graded, 5 self-assessment).
+Arithmetic checked: 9:58 + 28 + 35 + 10 + 15 + 50 + 5 = 153.
+
+Outcomes: (1) read a skill story and locate its claim with
+passage-versus-application distinction; (2) distinguish skill as
+story from skill as advice; (3) apply the losing-the-self
+description to one concrete situation; (4) check an interpretation
+against the text. All four outcomes taught in the steps, practised
+in the retrieval activities and worked demonstration, assessed in
+the rubric-scored deliverables.
+
+One correction applied during writing: the Van Norden chapter was
+initially cited at 0:28:55 with the wrong chapter label; re-opening
+the video's own description showed the correct chapter is at
+0:29:44 "Laozi, the Martial Arts, and Wúwéi ('nonaction')" running
+to 0:34:20. Fixed before pushing.
+
+Advisor content/pedagogical QC: PENDING.
