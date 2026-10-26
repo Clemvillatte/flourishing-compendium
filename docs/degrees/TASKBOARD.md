@@ -168,6 +168,12 @@ reference, unique source ids in brackets):
   scope review of deg-psychdim against the repaired scope doc, matrix and
   M1; the stop-gate ruling is still owed by the live supervisor and M2
   production remains held.
+- 2026-10-26 (round 2 consistency pass, clock 00:23Z) supervisor-e03fed44-degpsychdim
+  (deg-psychdim): language (psycholinguistics) elective also EXCLUDED
+  (same when-in-doubt-exclude rule; scope doc "Elective branches: none";
+  affected OYC lecture 7 ch 1-3 excluded with it; ledger matrix row marked
+  EXCLUDED, verification records retained). Scope compact matrix synced
+  (affective-neuroscience and language electives removed).
 - 2026-10-25 (scope: whole session, since the 0d8f812e3 baton claim)
   worker-pplx-degfin-1 (deg-verify-a): BATCHED TRANSCRIPT PASSES + QC
   REPAIRS — LEDGER (commits 5dbf41e8f, 0295b5030, c8849acf7, 46923f9b0,

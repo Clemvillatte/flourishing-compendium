@@ -99,9 +99,12 @@ carries a binding walk-of-life assessment clause and the three
 knowledge-framed rows the ruling named (M3 illusion, M4 attention-score
 interpretation, M5 trait account) are re-centred; the affective
 neuroscience elective is EXCLUDED under the when-in-doubt-exclude rule;
-stale benchmark and exclusion-review bullets superseded in both the scope
-doc and this ledger; M1 is not marked complete and Gate-1 re-review has
-not been requested yet.
+the language (psycholinguistics) elective is EXCLUDED on the same rule
+(round 2 consistency pass: the scope doc now states "Elective branches:
+none", and the affected OYC lecture 7 chapters 1 to 3 are excluded with
+it); stale benchmark and exclusion-review bullets superseded in both the scope
+doc and this ledger; M1 is not marked complete. Re-review was requested
+from the deg-gate reviewer after round 2 (TASKBOARD, 2026-10-26).
 
 STOP-GATE CONFLICT (flagged to the live supervisor for a documented
 ruling, 2026-10-26): the Gap register below still records that the
@@ -961,7 +964,7 @@ blocking gaps on the register, not quiet omissions.
 | affective | Difficulties in emotion regulation and regulatory flexibility (essential: links affect to adaptation) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M2 | reading | compare rigid versus flexible regulation in a case | written comparison |
 | EXCLUDED (2026-10-26 centering repair, round 2) | Affective neuroscience as a standalone elective — EXCLUDED under the when-in-doubt-exclude rule (advisor round 2): background relevance to the constructed-emotion anchor does not establish a necessary contribution beyond the core, and the core source itself carries the brain-level claims it needs; neuroscience already necessary to explain a core source stays with that source | [Harmon-Jones and Harmon-Jones](https://nobaproject.com/modules/affective-neuroscience) (verification record retained) | none | none | not assessed | none |
 | cognitive | Core cognitive families: conditioning and learning, memory, judgment and decision making (essential: the cognitive dimension's standard families per the Yale syllabus and OpenStax contents) | [Bouton](https://nobaproject.com/modules/conditioning-and-learning); [McDermott and Roediger](https://nobaproject.com/modules/memory-encoding-storage-retrieval); [Bazerman](https://nobaproject.com/modules/judgment-and-decision-making) | M3 | reading plus worked examples | apply each family to a personal example | application rubric |
-| cognitive | Language (elective: psycholinguistics is a distinct field with its own curricula; the Yale syllabus covers it in one introductory class and the OYC lecture 7 candidate covers it at introductory level) | [Yale 2026 syllabus](https://summer.yale.edu/sites/default/files/uploaded-files/syllabi/2026/psyc-s1100.pdf) | M3 | optional content-verified OYC lecture 7 chapters 1 to 3 (00:00:00 to 00:18:06) | optional | not assessed unless elected |
+| EXCLUDED (2026-10-26 centering repair, round 2) | Language (psycholinguistics) as an elective — EXCLUDED under the when-in-doubt-exclude rule for consistency with the scope doc's "Elective branches: none": the stated reason (psycholinguistics is a distinct field with its own curricula, covered only at introductory level here) argues against, not for, an elective; no learner need on record beyond topical fit; re-admission possible later on a stated learner need. The affected segment (verified OYC lecture 7 chapters 1 to 3, 00:00:00 to 00:18:06) becomes unassigned and is excluded with the elective. | [Yale 2026 syllabus](https://summer.yale.edu/sites/default/files/uploaded-files/syllabi/2026/psyc-s1100.pdf); OYC lecture 7 chapters 1 to 3 (verification records retained) | none | none | not assessed | none |
 | cognitive | Perception as educated unconscious inference: constancy, Gestalt segmentation, depth cues and illusions (essential: the standard introductory treatment of perception, grounded in a verified lecture segment) | verified OYC lecture 7 chapter 4 (00:18:06 to 00:39:15) | M3 | lecture segment with illusions demonstrated | choose one illusion from the learner's own visual experience, name the conditions that produced it there, and state what the Gestalt account helps them notice versus what remains uncertain | analysis rubric with walk-of-life clause |
 | self | Self-esteem: definition and its distinction from self-concept clarity (essential: a core self-evaluation construct explicitly distinguished in the opened SCC review) | [Manchiraju 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/) | M5 | reading | distinction exercise between SCC and self-esteem | short written distinction |
 | cognitive | Rumination and repetitive negative thinking: features, transdiagnostic evidence (essential: a current transdiagnostic literature grounded in an opened World Psychiatry review) | [Ehring 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/) | M3 | reading | analyse an RNT episode against the defining features | rubric-checked analysis |
@@ -1017,9 +1020,16 @@ feeding the next module's entry:
   background relevance to the constructed-emotion anchor does not
   establish a necessary contribution beyond the core, and the core
   source itself carries the brain-level claims it needs; neuroscience
-  already necessary to explain a core source stays with that source. The affected verified
+  already necessary to explain a core source stays with that source. The
+  language (psycholinguistics) elective is EXCLUDED on the same rule in
+  round 2: the scope doc now states "Elective branches: none", the row's
+  own stated reason (a distinct field with its own curricula, covered
+  here only at introductory level) argues against an elective, and no
+  learner need is on record beyond topical fit; re-admission possible
+  later on a stated learner need. The affected verified
   segments (OYC lecture 16 chapter 6 and chapter 1 remainder; lecture 17
-  chapters 3 to 5) become unassigned and are excluded with the branch.
+  chapters 3 to 5; lecture 7 chapters 1 to 3) become unassigned and are
+  excluded with their branches.
 - Clinical protocols as treatment: excluded as training in treatment
   delivery (that belongs to legacy deg-therapeutic material). Clinical
   studies that test psychological mechanisms stay in as evidence about the
@@ -1063,7 +1073,9 @@ feeding the next module's entry:
   clause): EXCLUDED; no value-proposition case on record; re-admission
   possible later on a stated learner need. Lecture 17 chapters 6 to 8
   (sleep, dreams, laughter) and the lecture 1 orientation chapter are
-  EXCLUDED on the same basis. The Howard lecture is DROPPED from the
+  EXCLUDED on the same basis. Lecture 7 chapters 1 to 3 (language) are
+  EXCLUDED with the language-elective decision above. The Howard lecture
+  is DROPPED from the
   plan (stays a parked candidate with no retrievable transcript;
   re-admission only if a transcript route opens and a learner need is
   stated).
