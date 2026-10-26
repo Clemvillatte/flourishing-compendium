@@ -1,52 +1,67 @@
-# deg-wol-daoism — Phase D2 resource pool (candidate rows for the coverage matrix)
+# deg-wol-daoism — Phase D2 discovery ledger (PARTIAL — NOT CHECKPOINT READY)
 
-**Owner**: worker-pplx-archinv-core4-1026a (baton `deg-arch-d2-wolx6`)
-**Built**: 2026-10-26 (T0 13:05:36 UTC; first save ~T+25)
-**Status**: D2 candidate pool — DRAFT, verification IN PROGRESS. Every row below is logged with what was actually opened this session; rows marked VERIFIED were fetched and read; rows marked CANDIDATE still need their access/credentials check before the checkpoint. The mandatory D2 checkpoint (owner or degrees-strategist review of the D1 map + filled D2 matrix) must approve this pool before any Phase D3 work.
-**Scope**: per docs/degrees/CURRICULUM-ARCHITECTURE-1026.md — the D2 pool must fill the D1 coverage matrix (docs/degrees/inventory/deg-wol-daoism.md) with verified open resources; the hours arithmetic must support ≥6h × ≥10 modules of real instruction.
+**Owner**: worker-pplx-archinv-core4-1026a (baton `deg-arch-d2-wolx6`, enrichment namespace; degree-namespace batons checked once this session — no D2/build lane exists there)
+**Built**: 2026-10-26, T0 13:05:36 UTC (measured clock readings: first draft pushed at T+13, 13:18:47Z, commit d2efbb1a7; this repaired version at the next measured reading)
+**Status**: PARTIAL D2 DISCOVERY LEDGER — NOT CHECKPOINT READY. Per advisor QC (2026-10-26): evidence levels below are strictly separated — OPENED means the page/PDF was fetched and read this session; SEARCH-SNIPPET means only search-result excerpts were read; LEAD means a repository assertion or citation route not yet opened. "No qualifying carrier verified in this pass" never means "does not exist". The mandatory D2 checkpoint must NOT consume this file yet.
+**Scope**: fill the D1 coverage matrix (docs/degrees/inventory/deg-wol-daoism.md) with open resources; no paywalled content; hours measured, not nominal. The D1 file's own EVIDENCE CAVEAT applies: its MISSING/PARTIAL labels describe the drafted-module state, not a fresh file-by-file comparison — that comparison is owed before the checkpoint.
 
 ## Centering clause (owner 2026-10-26)
 
-Every candidate below must serve the value proposition — alleviate suffering, become wiser, genuinely flourish even when uncertain or overwhelmed — through the Walk of Life / Philosophy of Life frame. Topical fit alone does NOT qualify; when in doubt, exclude. The pool below is organized around the learner's walk (text → practice → living tradition), per the D1 map's spine.
+Every candidate must serve the value proposition — alleviate suffering, become wiser, genuinely flourish even when uncertain or overwhelmed — through the Walk of Life / Philosophy of Life frame. Topical fit alone does NOT qualify; when in doubt, exclude.
 
-## Candidate pool — organized by proposed module
+## Row-by-row coverage ledger
 
-### mod-dao-1 — Orientation: what is Daoism; Warring States context
-- **Harvard Online / edX, "The Path to Happiness: What Chinese Philosophy Teaches us about the Good Life" (Michael Puett)** — https://harvardonline.harvard.edu/course/path-happiness-what-chinese-philosophy-teaches-us-about-good-life — VERIFIED OPEN this session (course page fetched and read): free AUDIT tier ("access to select course materials, activities, tests, and forums"), $149 verified track optional. 13 weeks, 1–2 h/week, on demand; lectures, animations, discussions, reflection diaries; all texts in translation. Covers Confucius, Mozi, Mencius, Laozi, Zhuangzi, Xunzi, Han Feizi and the good-life question — fills the orientation row AND the against-the-other-schools contrast row. Instructor credentials: page states Michael Puett, Walter C. Klein Professor of Chinese History and Anthropology at Harvard University. Hours contribution: ~13–26 h audit-tier material (checkpoint must confirm how much video the audit tier unlocks).
-- **NTU OpenCourseWare, "Introduction to Classical Chinese Philosophy / 中國古典哲學導論" (Masayuki Sato 佐藤將之)** — https://ocw.aca.ntu.edu.tw/courses/100S109 — VERIFIED OPEN this session (course page fetched and read): 14 lectures, Sept 2011, downloadable resources under CC BY-NC-SA 3.0 Taiwan. Lecture 9 = The Book of Laozi ("The Crystallization of the Concept of the Way"), Lecture 10 = The Book of Zhuangzi ("Philosophy of Transformation and Oneness"), plus Confucius/Mozi/Mencius/Jixia/Xunzi/Hanfeizi lectures that supply the Warring States contrast. Fills the Warring-States-context row with real lecture hours.
-- **Stanford Encyclopedia of Philosophy, "Daoism" entry** — CANDIDATE (not yet fetched): https://plato.stanford.edu/entries/daoism/ — open-access peer-reviewed scholarly overview; would fill the "what is Daoism" row's secondary-scholarship layer. Verify at next pass.
+Legend: OPENED = fetched and read this session; SEARCH-SNIPPET = search excerpts only; LEAD = not opened. Access = learner-availability evidence. Cred = instructor credentials to skill section 4 (biography/institutional page, not host descriptions).
 
-### mod-dao-2 — The Daodejing (full text + secondary scholarship)
-- **Robert Eno, "Daodejing: An online teaching translation, Version 1.4 (2010–2025)"** — https://www.arsinoelibrary.org/publications/daodejing/ (also archived at IU ScholarWorks) — VERIFIED OPEN this session (page fetched and read): free for personal use and not-for-profit educational settings; the 81 chapters with Chinese text alongside English translation, extended introduction, glossary of key terms. This is the primary-text row's open carrier (the D1 file already named it). Credentials note: the page itself does not state Eno's affiliation; the KU library guide and IU ScholarWorks record identify him as Professor Robert Eno, Indiana University — record this as the credentials evidence for the checkpoint.
-- **Eno's companion teaching translations (Analects, Mencius, Zhuangzi selections)** — http://www.indiana.edu/~p374/Resources.html (legacy URL; current home chinatxt.sitehost.iu.edu / Arsinoe Library) — CANDIDATE: the Edinburgh course guide confirms the collection exists freely online; verify the live URL at the next pass.
-- **Daodejing secondary scholarship row (Csikszentmihalyi, Roth, Robinet, Van Norden, Liu Xiaogan)** — NO OPEN CARRIER FOUND YET. Candidate routes to check: SEP Daoism entry (open), open-access journal articles, the owner's Drive library. If none qualifies, this row is reported to the owner per the honest-failure rule — not padded.
+| # | D1 topic row | Candidates found | Evidence | Access | Cred | Hours |
+|---|---|---|---|---|---|---|
+| 1 | What is Daoism; dao concept | SEP "Daoism" (Chad Hansen), https://plato.stanford.edu/entries/daoism/ | OPENED | open access (page states worldwide funding initiative) | Hansen named as author; institutional bio not yet opened | unknown |
+| 2 | Warring States context | NTU OCW "Introduction to Classical Chinese Philosophy" (Masayuki Sato), https://ocw.aca.ntu.edu.tw/courses/100S109 | OPENED (course page; lecture list + CC BY-NC-SA 3.0 TW stated) | course page read; lecture-file download not yet tested | Sato named on course page; institutional bio not yet opened | 14 lectures listed; per-lecture minutes unknown |
+| 3 | Daodejing full text + key concepts | Eno, "Daodejing: an online teaching translation v1.4", https://www.arsinoelibrary.org/publications/daodejing/ | OPENED | free for personal + not-for-profit educational use (stated) | page names translator only; Eno's IU affiliation recorded on KU library guide + IU ScholarWorks — institutional route noted, not yet opened | reading time unmeasured |
+| 4 | Daodejing secondary scholarship | SEP Hansen entry; IEP "Daoist Philosophy" (Ronnie Littlejohn), https://iep.utm.edu/daoism/ | both OPENED | both open access | Littlejohn named (Belmont University); institutional bio not yet opened | unknown; overview-level only — checkpoint must rule whether this satisfies the teaching-layer rule |
+| 5 | Zhuangzi Inner Chapters | NTU OCW "正是時候讀莊子" (蔡璧名), https://ocw.aca.ntu.edu.tw/courses/103S123 | OPENED (course page; 26 lectures; CC BY-NC-SA stated) | course page read; download not yet tested; MANDARIN instruction — language-fit ruling owed | instructor named; institutional bio not yet opened | OPEN QUESTION: lecture list read covers 逍遙遊/齊物論/養生主/人間世/德充符 (Inner Ch. 1–5); coverage of 大宗師 (6) and 應帝王 (7) NOT established |
+| 6 | Zhuangzi secondary scholarship | SEP + IEP entries; Harvard Puett course (Zhuangzi in good-life frame) | OPENED (entries); OPENED (course page) | see rows 1/4; audit tier | see rows 1/4; Puett = Walter C. Klein Professor (stated on course page) | overview-level only; see row 7 flag |
+| 7 | Zhuangzi Outer/Mixed selections | no open carrier verified in this pass | — | — | — | reported, not padded |
+| 8 | Neiye + Guanzi inner cultivation | Roth "Original Tao" — LEAD: owner LOCAL library (All-Books.pdf listing; upload on request), NOT in the Drive | NOT OPENED (library index excerpt only) | owner-local copy — not a learner-accessible open route | Roth's scholarly identity not verified this session | unknown |
+| 9 | Chuci / mystical excursion | no qualifying carrier verified in this pass | — | — | — | reported |
+| 10 | Daoist body + hygiene/medicine | Kohn "Chinese Healing Exercises" + "Sitting in Oblivion" — owner Drive folder (PRIMARY-SOURCES.md folder map, verified 2026-10-19) | NOT OPENED (index only) | owner-provided Drive PDFs — redistribution/assignment rights unestablished | Kohn credentials not verified this session | unknown |
+| 11 | Neidan (inner alchemy) | Golden Elixir Press (Fabrizio Pregadio), https://www.goldenelixir.com/ — site OPENED; free PDFs "The Way of the Golden Elixir" + "The Longmen Lineage" listed on site | site OPENED; the PDFs themselves NOT yet opened | PDFs labeled free on the site | Pregadio institutional bio not yet opened | unknown |
+| 12 | Taijiquan (OPTIONAL row) | no qualifying carrier verified in this pass | — | — | — | reported; D2 reviewer rules the OPTIONAL call |
+| 13 | Han + Celestial Masters | no qualifying carrier verified in this pass (IEP entry touches historical movements — overview only) | — | — | — | reported |
+| 14 | Shangqing | no qualifying carrier verified in this pass | — | — | — | reported |
+| 15 | Lingbao + Buddhism interaction | no qualifying carrier verified in this pass | — | — | — | reported |
+| 16 | Daoist ethics/community texts | no qualifying carrier verified in this pass | — | — | — | reported |
+| 17 | Tang/Song; Daoist Canon | Kohn "Daoism Handbook" (owner Drive, index only); HarvardX ChinaX — SEARCH-SNIPPET only | NOT OPENED | ChinaX audit tier claimed in search snippets; not verified | Bol's professorship from search snippet only | unknown |
+| 18 | Quanzhen | Longmen Lineage free PDF (Golden Elixir) — listed, not opened | SEARCH-SNIPPET (site) | see row 11 | see row 11 | unknown |
+| 19 | Zhengyi + modern clergy (OPTIONAL) | no qualifying carrier verified in this pass | — | — | — | reported |
+| 20 | Daoist ritual | no qualifying carrier verified in this pass | — | — | — | reported |
+| 21 | Sacred geography + art (OPTIONAL) | no qualifying carrier verified in this pass | — | — | — | reported |
+| 22 | Modern Daoism + contemporary | no qualifying carrier verified in this pass | — | — | — | reported |
+| 23 | Capstone (walk-of-life synthesis) | per-degree capstone rule — built from the degree's own material | — | — | — | n/a |
 
-### mod-dao-3 — The Zhuangzi (Inner Chapters + secondary scholarship)
-- **NTU OpenCourseWare, "正是時候讀莊子 / Zhuangzi: Posture, Awareness, and Sentiment" (蔡璧名 Tsai Pi-ming)** — https://ocw.aca.ntu.edu.tw/courses/103S123 — VERIFIED OPEN this session (course page fetched and read): 26 lectures under CC BY-NC-SA 3.0 Taiwan, walking the Inner Chapters word by word (逍遙遊, 齊物論 incl. 莊周夢蝶, 養生主 incl. 庖丁解牛, 人間世, 德充符) through posture/awareness/sentiment — a genuine chapter-level teaching layer, and its framing (the person at the bottom of the pyramid facing a dangerous age; 心不煩、不亂、不痛) is directly on the centering clause. Chinese-language instruction — the checkpoint must rule on language fit for the walk (see flags).
-- **Owner library (docs/PRIMARY-SOURCES.md, Daoism folder)**: Ziporyn, "Zhuangzi: The Complete Writings" (epub) — VERIFIED PRESENT in the library listing this session; owner-provided teaching-quality translation for the full corpus. Plus Roth "Original Tao", Slingerland "Trying Not to Try" (wu-wei for modern learners) — both listed in the library inventory.
-- **Zhuangzi secondary scholarship row (Cook, Goldin, Puett, Graham)** — NO OPEN CARRIER FOUND YET; same honest-failure rule as the Daodejing scholarship row.
+Additional candidates recorded at lower evidence levels (NOT rows of the table until opened):
+- Harvard edX "The Path to Happiness" (Michael Puett) — course page OPENED: free audit tier ("access to select course materials"), $149 verified optional; 13 weeks × 1–2 h/week; covers Laozi/Zhuangzi within the Chinese-philosophy good-life survey. WHICH materials the audit tier unlocks is NOT verified — the specific Daoism lessons' availability is an open question. Cred: Puett's professorship stated on the page. Relevant to rows 1/2/6.
+- Coursera Xi'an Jiaotong "中国哲学经典著作导读" (Yan Lianfu) — SEARCH-SNIPPET only: ten topics incl. Daodejing + Zhuangzi; icourse163/smartedu mirrors claimed in snippets; instructor title from snippets. Not opened; do not use until fetched.
+- UBC Slingerland "Chinese Thought" — the UBC continuing-education offering OPENED and RECORDED AS PAID ($165/$300) — disqualified as that offering; a free YouTube-archive claim exists (SEARCH-SNIPPET) and is a separate unverified candidate.
+- Stanford Lewis "Chinese Philosophical Texts"; Edinburgh OER "Introduction to Chinese Philosophy"; ctext.org / sacred-texts.com — LEADS carried in the spec's worked example (strategist-verified 2026-10-26); not re-opened this session.
 
-### mod-dao-4 — Inner cultivation: Neiye, Guanzi, Chuci
-- **Owner library**: Roth, "Original Tao: The Nei-yeh and the Early Taoist Mystics" — VERIFIED PRESENT in the library listing this session. The D1 matrix names Roth's "inner cultivation tradition" as the open scholarship for this row; the library copy is the owner-provided carrier.
-- **Kohn, "Sitting in Oblivion" (Daoist meditation) + "Chinese Healing Exercises" (Daoyin)** — owner library, VERIFIED PRESENT in the listing. Fill the body/hygiene and meditation practice rows.
+## Owner-library rows — tier separation (per advisor QC)
 
-### mod-dao-5/6 — Daoist body, hygiene, neidan, taijiquan
-- Owner library Kohn books (above) carry the body-practice layer. Neidan (inner alchemy) teaching layer: NO OPEN CARRIER FOUND YET — candidate: Fabrizio Pregadio's open "Golden Elixir" resources (pregadio.com) — CANDIDATE, not yet verified. Taijiquan: OPTIONAL row per D1; no open university teaching course verified yet.
+PRIMARY-SOURCES.md has three tiers, read this session: (a) Drive folders with verified contents (2026-10-19) — the four Kohn Daoism PDFs are Drive FILES; (b) the owner's LOCAL library (All-Books.pdf) — Ziporyn "Zhuangzi: The Complete Writings", Roth "Original Tao", Slingerland "Trying Not to Try" are local-library LEADS ("ask the owner to upload to Drive when a quote is needed"), NOT currently accessible files; (c) acquisition notes. None of these is by itself a learner-accessible open assignment route — even the Drive files need a rights/assignment ruling at the checkpoint. Rows 8, 10, 17 above are downgraded accordingly.
 
-### mod-dao-7..12 — Religious-institutional Daoism (Celestial Masters, Shangqing, Lingbao, canon, Quanzhen, Zhengyi, ritual, modern)
-- NO OPEN CARRIERS FOUND YET. The D1 file already declares this block heavy in paywalled scholarship. Candidate routes to check: SEP "Daoism" entry's religious sections, Livia Kohn "Daoism: A Contemporary Philosophical Investigation" and "Daoism Handbook" (owner library — VERIFIED PRESENT in the listing), Goossaert/Eskildsen (paywalled, likely), NTU OCW Daoism-specific courses (search pending). Rows that cannot be filled openly are REPORTED, not padded.
+## Hours arithmetic
 
-## Hours arithmetic (draft, honest)
+**Measured qualifying total: NOT YET ESTABLISHED.** No per-lecture durations, no per-reading word counts, and no audit-tier scope confirmations exist yet. The D1 file's ≥6h × ≥10 modules target plus the degree's ≥100h floor (two separate floors in the spec) are unmeasured. Next passes must measure: NTU lecture durations (both courses), Eno reading time, the audit-tier video scope for the Harvard course, and the Golden Elixir PDF page counts.
 
-Verified-so-far open video instruction: NTU Classical Chinese Philosophy (14 lectures ≈ 14–23 h), NTU Zhuangzi (26 lectures ≈ 26–39 h), Harvard Puett audit tier (13–26 h, audit-tier scope unconfirmed). Taught reading: Eno's Daodejing (81 chapters + introduction), the NTU Zhuangzi lectures' text, owner-library Roth/Kohn/Ziporyn books. This already sketches ≥6h × ≥10 modules of assignable material IF the audit-tier and language questions resolve well — but the arithmetic is NOT yet confirmed and the religious-institutional block has no verified carriers. The D2 checkpoint's core question stands: can the E-block rows be filled openly at all?
+## Next actions for this lane (concrete)
 
-## Honest-failure flags (declared, not hidden)
-
-- **UBC Slingerland "Chinese Thought: Ancient Wisdom Meets Modern Science"** — the UBC continuing-education version is PAID ($165/course, $300 bundle) — RECORDED AS DISQUALIFIED this session (page fetched and read). Free route claim ("MOOCs now archived on his YouTube channel", per edwardslingerland.com) is a CANDIDATE to verify; if the archive is genuinely public it may re-qualify.
-- **Coursera free-tier ambiguity** (per the deg-mind pool's flag): any Coursera candidate must confirm the audit tier actually unlocks the lectures.
-- **Language fit**: the NTU Zhuangzi course (26 lectures) is taught in Mandarin. The checkpoint must rule whether Mandarin-language instruction serves the walk; if not, that row's teaching layer falls back to Ziporyn + English secondary scholarship.
-- **Daodejing/Zhuangzi secondary scholarship rows** and the **religious-institutional block**: no open carriers found yet — the honest-failure rule applies at the checkpoint.
+1. Open one NTU lecture file to confirm download access and measure duration (row 2/5 access field).
+2. Fetch the Harvard course's syllabus/audit scope page to establish which weeks the audit tier unlocks (Puett row).
+3. Open one Golden Elixir free PDF (row 11) and record topic-level coverage.
+4. Investigate ONE blocking religious-institutional row properly (suggested: Han + Celestial Masters, row 13): search the topic separately, follow institutional repositories and scholarly teaching resources, record unsuccessful routes — do not declare the block unbuildable from this pass.
+5. Resolve the NTU Zhuangzi Inner-Chapters coverage question (rows 5): confirm whether lectures beyond 德充符 exist.
+6. Measure hours for every confirmed row; only then re-present the arithmetic.
 
 ## D2 checkpoint handoff
 
-The checkpoint (owner or degrees-strategist) reviews this pool against the D1 coverage matrix in `deg-wol-daoism.md` and rules on: (a) open-access confirmation for each VERIFIED row (done this session) and disposition of each CANDIDATE row, (b) instructor credentials to the skill standard (section 4) for each row, (c) whether the hours arithmetic supports the ≥100h floor, (d) the language-fit question for the NTU Zhuangzi lectures, (e) the honest-failure rows above. Only after the checkpoint approves may Phase D3 begin. This file is the deg-wol-daoism D2 deliverable; the remaining five WoL degrees' pools follow in this lane (buddhism next).
+The checkpoint (owner or degrees-strategist) must NOT be requested on this file yet. When the ledger's rows reach OPENED status with access + credentials + measured hours, the pool becomes checkpoint-ready and the checkpoint rules on: (a) open-access confirmations, (b) credentials to skill section 4, (c) measured hours vs the two floors, (d) the Mandarin language-fit question, (e) the OPTIONAL rows, (f) the honest-failure rows (reported, not padded). The remaining five WoL degrees' ledgers follow in this lane after Daoism reaches this bar.
