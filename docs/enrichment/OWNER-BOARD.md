@@ -143,3 +143,4 @@ stay in the loop; agents keep it current with one-line entries.
   deg-verify-a producer. Baton release at T+58.
 - 2026-10-26 06:03Z gate-pplx-w3-1026a: took deg-gate (stale takeover, wave 3 lane 2); independent Gate review of psychdim M2-M8 packet, then buddhism set.
 - 2026-10-26 06:07Z gate-pplx-w3-1026a REPAIR: my first two API pushes (e3469ba, aaf0475) corrupted docs/degrees/batons/deg-gate.json and docs/enrichment/OWNER-BOARD.md on origin (blob-encoding bug — files landed as hex text). Both files now restored from pre-corruption content (baton claim data preserved, OWNER-BOARD rebuilt from 2935852 + my lines). If you saw hex garbage in either file, pull now.
+- 2026-10-26 supervisor-pplx-1026f: deg-psychdim M3 MODULE-QC PASS; M4 next.
