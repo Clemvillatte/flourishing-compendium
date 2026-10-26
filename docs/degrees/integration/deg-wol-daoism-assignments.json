@@ -1,0 +1,173 @@
+{
+ "degree_id": "deg-wol-daoism",
+ "built": "2026-10-26",
+ "built_by": "worker-pplx-degfixschema-1026b (baton deg-fix-schema)",
+ "provenance": "Windows and spans transcribed from deg-wol-daoism-manifest.json and the module docs (m1 to m5); nothing here is invented.",
+ "modules": {
+  "mod-dao-1": {
+   "refs": [
+    {
+     "source_id": "DAO-M1-01",
+     "section": "required",
+     "segments": [
+      {
+       "start": "0:01:17",
+       "end": "0:10:35"
+      },
+      {
+       "start": "0:20:02",
+       "end": "0:24:06"
+      }
+     ]
+    },
+    {
+     "source_id": "DAO-M1-02",
+     "section": "required",
+     "segments": [
+      {
+       "start": "0:00:00",
+       "end": "0:17:17"
+      },
+      {
+       "start": "0:29:44",
+       "end": "0:34:20"
+      }
+     ]
+    },
+    {
+     "source_id": "DAO-M1-03",
+     "section": "required",
+     "segments": [
+      {
+       "start": "0:00:00",
+       "end": "0:12:13"
+      },
+      {
+       "start": "0:15:20",
+       "end": "0:17:00"
+      },
+      {
+       "start": "0:26:15",
+       "end": "0:33:56"
+      }
+     ]
+    },
+    {
+     "source_id": "DAO-M1-04",
+     "section": "required",
+     "locator": "Chapters 1, 8 and 76 in full (288 words in all); chapter 8 is read with you first as the guided example"
+    },
+    {
+     "source_id": "DAO-M1-05",
+     "section": "required",
+     "locator": "Passage 2.20, the Butterfly Dream, which closes chapter 2 of the Inner Chapters (about 67 words)"
+    },
+    {
+     "source_id": "DAO-M1-01",
+     "section": "optional",
+     "note": "Optional further viewing: the talk’s remaining key moments"
+    },
+    {
+     "source_id": "DAO-M1-02",
+     "section": "optional",
+     "note": "Optional further viewing: the documentary’s remaining chapters"
+    },
+    {
+     "source_id": "DAO-M1-03",
+     "section": "optional",
+     "note": "Optional further viewing: the lecture’s remaining chapters"
+    }
+   ]
+  },
+  "mod-dao-2": {
+   "refs": [
+    {
+     "source_id": "DAO-M1-03",
+     "section": "required",
+     "role": "revisit",
+     "segments": [
+      {
+       "start": "0:00:00",
+       "end": "0:12:13"
+      },
+      {
+       "start": "0:15:20",
+       "end": "0:17:00"
+      },
+      {
+       "start": "0:26:15",
+       "end": "0:33:56"
+      }
+     ],
+     "note": "If you finished Module I recently, rewatch only what you want to revisit"
+    },
+    {
+     "source_id": "DAO-M1-04",
+     "section": "required",
+     "locator": "Chapters 11, 36 and 78 in full, twice each (228 words in all); chapter 28 re-read for the two-account comparison (119 words); then chapters 16 and 44 on your own (165 words in all)"
+    }
+   ]
+  },
+  "mod-dao-3": {
+   "refs": [
+    {
+     "source_id": "DAO-M1-03",
+     "section": "required",
+     "segments": [
+      {
+       "start": "0:38:17",
+       "end": "0:43:39"
+      }
+     ],
+     "note": "A different segment from Modules I and II: the shoe-fits passage on the Zhuangzi"
+    },
+    {
+     "source_id": "DAO-M1-05",
+     "section": "required",
+     "locator": "Three passages: Cook Ding (413 words), the Hunchback and the Cicadas (Appendix A.1, 217 words) and the Butterfly Dream (chapter 2, section 20, 67 words)"
+    }
+   ]
+  },
+  "mod-dao-4": {
+   "refs": [
+    {
+     "source_id": "DAO-M4-01",
+     "section": "required",
+     "segments": [
+      {
+       "start": "0:00:00",
+       "end": "0:26:22"
+      }
+     ],
+     "note": "To the talk’s Chapter 2 marker"
+    },
+    {
+     "source_id": "DAO-M4-02",
+     "section": "required",
+     "locator": "Sections 1, 2, 3 and 12 of Linnell’s translation (550 words in all); the translation prints no section numbers, so find each section by its opening words"
+    },
+    {
+     "source_id": "DAO-M4-01",
+     "section": "optional",
+     "segments": [
+      {
+       "start": "0:26:22",
+       "end": "0:53:43"
+      }
+     ],
+     "note": "Optional: the rest of the talk"
+    }
+   ]
+  },
+  "mod-dao-5": {
+   "refs": [
+    {
+     "source_id": "DAO-M1-04",
+     "section": "required",
+     "role": "capstone-return",
+     "locator": "Chapters 20, 44, 50 and 67 (466 words in all); you met chapter 44 in Module II. No new video is assigned"
+    }
+   ]
+  }
+ }
+}

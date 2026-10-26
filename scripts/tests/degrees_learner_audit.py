@@ -62,7 +62,10 @@ def ref(r):
 
 def seg_key(r):
     segs = r.get('segments')
-    return json.dumps(segs, sort_keys=True) if segs else None
+    if segs:
+        return json.dumps(segs, sort_keys=True)
+    # text assignments are distinguished by their locator (passage / chapters / sections)
+    return ('loc:' + r['locator'].strip()) if (r.get('locator') or '').strip() else None
 
 
 def alias_key(s):
