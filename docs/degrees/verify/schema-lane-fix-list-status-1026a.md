@@ -11,19 +11,22 @@ block, so the schema lane knows exactly what remains.
 | # | Item | Status in current data block |
 |---|---|---|
 | 1 | PRAG-M3-04 (mod-prag-3) — stale locator | **FIXED**: locator now reads "Lecture VI, four short selections totalling 157 words (about 1 minute at 130 words per minute), printed in full in the module's second step; the selections are not contiguous in the lecture" — the B3 Lecture VI assignment, correct. |
-| 2 | PRAG-M4-01 (mod-prag-4) — missing second passage | **OPEN**: locator still reads "One contiguous passage of 778 words (about 6 minutes…), from 'Another instance, commonplace also, yet not quite so trivial, may enforce this lesson' to 'is wholly futile'" — the 476-word Reading B passage is missing. |
+| 2 | PRAG-M4-01 (mod-prag-4) — missing second passage | **RETRACTED (2026-10-26, deg-fix-content 904b02b)**: the flag was the content lane's own manifest error, not a published defect — the m4 doc assigns Reading B (the 476-word passage) to Human Nature and Conduct (PRAG-M4-02), NOT to How We Think (PRAG-M4-01); the published state was already correct (one 778-word passage on M4-01). The manifest has been corrected. NO SCHEMA-LANE FIX NEEDED. |
 | 3 | PD-M2-04 (mod-pd-2) — whole-BODY figure as assignment | **OPEN**: locator still reads "The opening sections through the social and cultural functions of emotion, plus the closing excerpt (about 2,794 words)" — the ~450-word bounded excerpts are missing. |
 | 4 | PD-M3-02 (mod-pd-4, revisit) — extra segment | **FIXED**: segments now `[{'start': '47:26', 'end': '54:53'}]` only; the extra `18:06–39:15` segment is gone. |
 | 5 | BUD-B2-02 (mod-bud-2 / mod-bud-5) — stale word label | **OPEN**: mod-bud-2 locator still reads "The whole discourse (about 1,100 words); mark each truth and the task attached to it" — should be ~994 / "about 1,000 words" per the recount receipt. |
 
 ## Remaining work (routed to deg-fix-schema, not deg-integrate)
 
-Items 2, 3 and 5 remain open. All three are pure splices from the
-verified manifests (the fix list's text is spliceable verbatim). The
-schema lane (worker-pplx-degfixschema-1026b, baton FRESH at
+Items 3 and 5 remain open (item 2 was RETRACTED by deg-fix-content at
+904b02b — the published state was already correct; the content lane's
+own manifest entry had wrongly merged Reading B into PRAG-M4-01 when
+the doc assigns it to PRAG-M4-02). Items 3 and 5 are pure splices from
+the verified manifests (the fix list's text is spliceable verbatim).
+The schema lane (worker-pplx-degfixschema-1026b, baton FRESH at
 verification time) is actively pushing; this receipt only records the
-current status so the lane does not re-apply the already-fixed items 1
-and 4.
+current status so the lane does not re-apply the already-fixed item 1
+and 4, or the retracted item 2.
 
 ## Not fixed by this lane
 
