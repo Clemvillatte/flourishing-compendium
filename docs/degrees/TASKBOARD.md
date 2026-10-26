@@ -13,6 +13,12 @@ Earlier untimed-only bridge limit superseded; proposed narrowing withdrawn
 without ever being applied. Both original windows/hashes/workloads unchanged.
 Independent recording decisions still owed; no source-gate flip.
 
+M6 ADVISER LIMIT,06:36Z: original adviser returned no M6 verdict;
+a bounded replacement stopped with explicit credit exhaustion.
+No production ACCEPT is claimed. Supervisor acknowledgement at
+`c7a31ee09` routes M5/M6 delta reviews and M4/M5 window decisions
+to the next supervisor session. Current source/teaching gates stay open.
+
 M6 production checkpoint (2026-10-26 06:18Z, degree-2874787d): all-six
 return implemented with amotivation/intentional-action feedback, unused
 barrier contrast and concrete criterion specimens. SHA-256

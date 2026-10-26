@@ -69,5 +69,6 @@ transcript evidence covers M4's and M5's original recording windows through
 locally unellipsed overlaps; independent decisions on those requirements
 are still pending. The evidence and reproduction queries are in
 `verify/deg-psychdim-m4-m5-indexed-window-evidence-2874787d.md`.
-M6's production adviser verdict remains pending; no M6–M8 production
+M6's production adviser verdict is unavailable after a credit-exhaustion
+failure; its supervisor delta review remains required. No M6–M8 production
 adviser pass is claimed here. Integration and public visibility remain closed.

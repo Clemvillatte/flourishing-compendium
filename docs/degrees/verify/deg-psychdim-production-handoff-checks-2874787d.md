@@ -49,7 +49,8 @@ estimates, not measured learner completion times.
 
 At this checkpoint M2 has supervisor changed-hash confirmation.
 M5 has bounded production adviser acceptance; M6's adviser verdict
-is pending. M4/M5's newly recovered original recording windows need
+is unavailable after a bounded replacement stopped with an explicit
+credit-exhaustion error at 06:36Z. M4/M5's newly recovered original recording windows need
 independent decisions at the hashes in the evidence packet; M5/M6
 also need supervisor production-delta review.
 

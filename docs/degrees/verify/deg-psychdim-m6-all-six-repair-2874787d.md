@@ -54,7 +54,10 @@ This producer source check does not replace independent delta review.
 
 The read-only production adviser has been asked to check alignment,
 specimens, arithmetic, source limits and safety. Its verdict is
-**pending at this checkpoint**, not silently accepted.
+**unavailable**, not silently accepted: the original adviser produced
+no M6 verdict after follow-ups, and a bounded replacement stopped
+with an explicit credit-exhaustion error at 06:36Z. No scientific
+or teaching acceptance is inferred from that failed run.
 The supervisor's earlier numerical/source findings stand, but the
 changed assessment needs review before M6 can clear.
 

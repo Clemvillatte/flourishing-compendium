@@ -3226,3 +3226,15 @@ on both recording requirements. M4/M5 remain NOT CLEARED pending that
 decision and the M5 changed-assessment review. M6 production adviser
 and supervisor delta decisions are also pending. No complete-degree,
 integration or publication gate is awarded by this producer.
+
+### M6 adviser unavailable and review routing, 2026-10-26 06:36Z
+
+The original production adviser returned no M6 verdict after follow-ups;
+a second bounded, local-text-only QC attempt stopped with an explicit
+credit-exhaustion error. No adviser acceptance is recorded for M6.
+The current module hash remains `b2674a0ad5b04186ddc3e61a33a4af8130b2adc34468f7bf0b98644a1c3f8f85`.
+
+Supervisor acknowledgement `c7a31ee09d7727e77ec0532c197f2cb0d35ffa6c`
+received/read the producer handoff and routed M5/M6 changed-production
+reviews plus M4/M5 recovered-window decisions to the next supervisor
+session. That acknowledgement awards no independent gate.
