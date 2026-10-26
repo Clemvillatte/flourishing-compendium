@@ -103,54 +103,50 @@
    {
     "source_id": "PD-M3-01",
     "role": "teach",
-    "assignment": "Bloom, PSYC 110 lecture 4, Learning - assigned windows 14:25-17:39 and 31:18-33:49",
+    "assignment": "Bloom, PSYC 110 lecture 4, Learning - assigned windows 14:25-17:39 and 31:18-33:49 (VERIFIED)",
     "kind": "video"
    },
    {
     "source_id": "PD-M3-02",
     "role": "teach",
-    "assignment": "Bloom, PSYC 110 lecture 7, Perception - assigned window 18:06-39:15 (m3 doc)",
+    "assignment": "Bloom, PSYC 110 lecture 7, Perception - assigned window 18:06-39:15 (21:09) (VERIFIED)",
     "kind": "video"
    },
    {
     "source_id": "PD-M3-03",
     "role": "teach",
-    "assignment": "Bloom, PSYC 110 lecture 8, Memory - assigned 18:06-39:15 per integration title; m3 doc link t=802 (13:22) and regex window 13:22-18:27 — RECONCILE doc windows vs title (integration title may be wrong)",
+    "assignment": "Bloom, PSYC 110 lecture 8, Memory - assigned window 13:22-18:27 (5:05, meaning and organisation) (VERIFIED). DATA-BLOCK ERROR: integration title wrongly prints 18:06-39:15 (lecture 7 window) - fix in Phase B/D",
     "kind": "video"
    },
    {
     "source_id": "PD-M3-04",
     "role": "teach",
-    "assignment": "Bloom, PSYC 110 lecture 10, Judgment - assigned window 39:43-47:25 (m3 doc regex)",
+    "assignment": "Bloom, PSYC 110 lecture 10, Judgment - assigned windows 39:43-47:25 (7:42) AND 54:59-59:22 (4:23); intervening base-rate/availability examples NOT assigned (VERIFIED - manifest previously omitted the second window)",
     "kind": "video"
    },
    {
     "source_id": "PD-M3-05",
     "role": "teach",
-    "assignment": "Bouton, Conditioning and Learning (Noba) - assigned selections (verify against m3 doc)",
-    "kind": "reading",
-    "verify_reading_assignment": true
+    "assignment": "Bouton, Conditioning and Learning (Noba) - VERIFIED bounded companion: opening summary from \"Basic principles of learning\" to \"classical and operant conditioning\" + the one paragraph beginning \"Learning depends on such a surprise\"",
+    "kind": "reading"
    },
    {
     "source_id": "PD-M3-06",
     "role": "teach",
-    "assignment": "McDermott and Roediger, Memory: Encoding, Storage, Retrieval (Noba) - assigned selections (verify against m3 doc)",
-    "kind": "reading",
-    "verify_reading_assignment": true
+    "assignment": "McDermott and Roediger, Memory (Noba) - VERIFIED bounded companion: opening summary from \"\"Memory\" is a single term\" through \"among other types\" + \"Three Stages of the Learning/Memory Process\" stopping before \"Encoding\"; no clinical survey or full chapter",
+    "kind": "reading"
    },
    {
     "source_id": "PD-M3-07",
     "role": "teach",
-    "assignment": "Bazerman, Judgment and Decision Making (Noba) - assigned selections (verify against m3 doc)",
-    "kind": "reading",
-    "verify_reading_assignment": true
+    "assignment": "Bazerman, Judgment and Decision Making (Noba) - bounded companion per m3 doc (verify exact span against the m3 companion list; the doc lists Bouton/McDermott-Roediger/Ehring explicitly - confirm whether Bazerman is assigned in m3 or is a data-block extra)",
+    "kind": "reading"
    },
    {
     "source_id": "PD-M3-08",
     "role": "teach",
-    "assignment": "Ehring 2021, rumination and repetitive negative thinking - assigned span (verify against m3 doc)",
-    "kind": "reading",
-    "verify_reading_assignment": true
+    "assignment": "Ehring 2021, Thinking too much - VERIFIED bounded companion: from the opening paragraph to the end (see m3 doc for the closing boundary)",
+    "kind": "reading"
    }
   ],
   "mod-pd-4": [
