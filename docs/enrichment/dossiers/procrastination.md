@@ -108,7 +108,7 @@ Expected harm is part of the research definition: an unexpectedly good outcome d
 
 ### When judgment and action part, what gives way?
 
-Is weakness of will action against one's current better judgment, or an over-ready revision of an intention? Davidson characterizes incontinent action in terms of the first; Holton argues that weakness of will is a different phenomenon.
+Is weakness of will action against one's current better judgment, or an over-ready revision of an intention? Davidson characterizes incontinent action in terms of the first; Holton argues that weakness of will is a different phenomenon. Davidson's own opening sentence puts the two together: "An agent's will is weak if he acts, and acts intentionally, counter to his own best judgement; in such cases we sometimes say he lacks the willpower to do what he knows, or at any rate believes, would, everything considered, be better" ([Davidson, How is Weakness of the Will Possible?, The Essential Davidson, OUP chapter page](https://academic.oup.com/book/49874/chapter-abstract/422039790)).
 
 > "In doing b an agent acts incontinently if and only if: (a) the agent does b intentionally; (b) the agent believes there is an alternative action a open to him; and (c) the agent judges that, all things considered, it would be better to do a than to do b." (Davidson 1970, quoted in the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/weakness-will/))
 
