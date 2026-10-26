@@ -42,13 +42,13 @@
     {
       "topic": "What is contemplative science and practice",
       "module": "mod-cont-1",
-      "status": "design-existing, under-scaled",
+      "status": "PARTIAL \u2014 Brown M&C RECOMMENDS 45 min/day with pathway-specific minimums (C 20 min 3 days/week, A/B 25 min 4 days/week)",
       "sources": []
     },
     {
       "topic": "History and religious roots of contemplative practice",
       "module": "mod-cont-2",
-      "status": "MISSING",
+      "status": "PARTIAL \u2014 Brown M&C RECOMMENDS 45 min/day with pathway-specific minimums (C 20 min 3 days/week, A/B 25 min 4 days/week)",
       "sources": []
     },
     {
@@ -72,7 +72,7 @@
     {
       "topic": "Self-compassion practice",
       "module": "mod-cont-5",
-      "status": "MISSING",
+      "status": "PARTIAL \u2014 Brown M&C RECOMMENDS 45 min/day with pathway-specific minimums (C 20 min 3 days/week, A/B 25 min 4 days/week)",
       "sources": []
     },
     {
@@ -84,7 +84,7 @@
     {
       "topic": "Yoga and body-based contemplative practice",
       "module": "mod-cont-7",
-      "status": "MISSING",
+      "status": "PARTIAL \u2014 Brown M&C RECOMMENDS 45 min/day with pathway-specific minimums (C 20 min 3 days/week, A/B 25 min 4 days/week)",
       "sources": []
     },
     {
@@ -96,13 +96,13 @@
     {
       "topic": "Emotion regulation and contemplative practice",
       "module": "mod-cont-9",
-      "status": "MISSING",
+      "status": "PARTIAL \u2014 Brown M&C RECOMMENDS 45 min/day with pathway-specific minimums (C 20 min 3 days/week, A/B 25 min 4 days/week)",
       "sources": []
     },
     {
       "topic": "Contemplative practice and wellbeing",
       "module": "mod-cont-10",
-      "status": "MISSING",
+      "status": "PARTIAL \u2014 Brown M&C RECOMMENDS 45 min/day with pathway-specific minimums (C 20 min 3 days/week, A/B 25 min 4 days/week)",
       "sources": []
     },
     {
@@ -126,13 +126,13 @@
     {
       "topic": "The daily practice \u2014 establishing and sustaining",
       "module": "mod-cont-13",
-      "status": "MISSING",
+      "status": "PARTIAL \u2014 Brown M&C RECOMMENDS 45 min/day with pathway-specific minimums (C 20 min 3 days/week, A/B 25 min 4 days/week)",
       "sources": []
     },
     {
       "topic": "Retreat \u2014 the intensive practice experience",
       "module": "mod-cont-13",
-      "status": "OPTIONAL",
+      "status": "PARTIAL \u2014 Brown M&C RECOMMENDS 45 min/day with pathway-specific minimums (C 20 min 3 days/week, A/B 25 min 4 days/week)",
       "sources": []
     },
     {
@@ -180,33 +180,34 @@
     {
       "topic": "Contemplative practice in education",
       "module": "mod-cont-16",
-      "status": "MISSING",
+      "status": "PARTIAL \u2014 Brown M&C RECOMMENDS 45 min/day with pathway-specific minimums (C 20 min 3 days/week, A/B 25 min 4 days/week)",
       "sources": []
     },
     {
       "topic": "Contemplative practice, burnout and compassion fatigue",
       "module": "mod-cont-17",
-      "status": "MISSING",
+      "status": "PARTIAL \u2014 Brown M&C RECOMMENDS 45 min/day with pathway-specific minimums (C 20 min 3 days/week, A/B 25 min 4 days/week)",
       "sources": []
     },
     {
       "topic": "Contemplative practice and social justice",
       "module": "mod-cont-17",
-      "status": "OPTIONAL",
+      "status": "PARTIAL \u2014 Brown M&C RECOMMENDS 45 min/day with pathway-specific minimums (C 20 min 3 days/week, A/B 25 min 4 days/week)",
       "sources": []
     },
     {
       "topic": "Contemplative practice and sustainability",
       "module": "mod-cont-17",
-      "status": "OPTIONAL",
+      "status": "PARTIAL \u2014 Brown M&C RECOMMENDS 45 min/day with pathway-specific minimums (C 20 min 3 days/week, A/B 25 min 4 days/week)",
       "sources": []
     },
     {
       "topic": "Capstone \u2014 contemplative practice for the walk of life",
       "module": "mod-cont-18",
-      "status": "MISSING",
+      "status": "PARTIAL \u2014 Brown M&C RECOMMENDS 45 min/day with pathway-specific minimums (C 20 min 3 days/week, A/B 25 min 4 days/week)",
       "sources": []
     }
   ],
-  "reconciliation_note": "Reconciled with the corrected deg-contemplative.md this session (QC pass 7): tonglen and loving-kindness removed from the compassion meditation row (not in the opened Brown syllabus); focused attention/open monitoring verified against the UO PSY 407 Class Project section; MBCT removed from clinical applications (the Brown syllabus establishes MBSR only); 45 min/day corrected to a recommendation with pathway-specific minimums; institutional framing fixed (UVA courses with PDFs hosted by Brown); SEARCH-RESULT-SOURCED rows moved to UNVERIFIED CANDIDATES."
+  "reconciliation_note": "Reconciled with the corrected deg-contemplative.md this session (QC pass 7): tonglen and loving-kindness removed from the compassion meditation row (not in the opened Brown syllabus); focused attention/open monitoring verified against the UO PSY 407 Class Project section; MBCT removed from clinical applications (the Brown syllabus establishes MBSR only); 45 min/day corrected to a recommendation with pathway-specific minimums; institutional framing fixed (UVA courses with PDFs hosted by Brown); SEARCH-RESULT-SOURCED rows moved to UNVERIFIED CANDIDATES.",
+  "unverified_candidates_note": "The SEARCH-RESULT-SOURCED rows (Harvard, Stanford, UCEAP, COA, CSRE, CHPR) are in the UNVERIFIED CANDIDATES section of the markdown and are NOT counted as evidence-backed coverage."
 }
