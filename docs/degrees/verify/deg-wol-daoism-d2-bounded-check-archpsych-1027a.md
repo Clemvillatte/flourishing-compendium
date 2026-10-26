@@ -27,5 +27,5 @@ Bounded Phase-D2 verification assist for baton **deg-arch-d2-wolx6** (deg-archda
 
 ## Status for the lane
 
-- 3 of the ledger's "Next actions" executed; results above. The D2 pool ledger itself was NOT edited (I hold no baton) — the owning lane (degu-arch-d2-wolx6 / core4) can fold these in at its discretion.
+- 3 of the ledger's "Next actions" executed; results above. The D2 pool ledger itself was NOT edited (I hold no baton) — the owning lane (deg-arch-d2-wolx6 / core4) can fold these in at its discretion.
 - No changes needed to the Daoism D1 inventory as a result of these checks.
