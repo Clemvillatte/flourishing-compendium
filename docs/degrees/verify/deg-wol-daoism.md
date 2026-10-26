@@ -416,3 +416,22 @@ checks against the Eno text:
 - Word-count claim for ch. 16+44 (165 words) not independently
   re-counted (mirror text retrieved without layout); owner's
   full-download measurement stands unrefuted.
+
+### m2 QC addendum 3 — word-count flag (2026-10-26T05:11Z)
+
+- m2's Step 1 claim "chapters 11, 36 and 78 (about 290 words measured
+  across the three, on the downloaded full text)": my independent count
+  on the terebess mirror of Eno's translation (v1.3; 2010 text
+  unchanged) is ch. 11 = 77, ch. 36 = 61, ch. 78 = 90, total 228
+  (224 excluding standalone dash tokens). This is 60+ words below the
+  module's figure. CAVEAT: my count is mirror-based (v1.3) while the
+  owner's is carrier-based (v1.4); if the discrepancy is real it is a
+  minor workload-arithmetic overstatement (reading-time effect
+  negligible at a 3x multiplier), but the owner should re-count or
+  state the counting convention. Flagged as a CHECK, not a confirmed
+  error.
+- Version note for any future ch. 78 quotation: the indexed carrier
+  text (as quoted by factsanddetails from the Eno source) reads "is
+  the king of all under heaven" where the v1.3 mirror reads "is the
+  king of the world" in ch. 78b. If the module ever quotes ch. 78b
+  verbatim, quote from the carrier, not the mirror.
