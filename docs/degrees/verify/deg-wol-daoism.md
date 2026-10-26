@@ -105,3 +105,104 @@ Daodejing; Van Norden) are already re-checked by deg-verify-b in
 verify/deg-wol-daoism-two-anchor-recheck.md (2026-10-26) — not
 re-verified here; consume that receipt. New video harvests by the
 production owner are appended below as they are verified.
+
+## m1-orientation harvest (verified 2026-10-26, clock 05:20-05:35Z)
+
+The owner's m1 (commit 22a282b53) attaches four sources beyond the
+Ziporyn video already covered. All four opened and verified this
+session.
+
+### D-V01: Lundao 1: The Daoist Tradition 道統 (Louis Komjathy)
+
+- URL: https://www.youtube.com/watch?v=_12aeIvlHhM
+- Identity: oembed confirms the video on the Daoist Foundation
+  channel, title "Lundao 1: The Daoist Tradition 道統"; watch page
+  opened anonymously, no paywall or login.
+- Duration: DUAL FIGURE on the watch page (player total 1:13:53 vs
+  1:10:55 in the video details block); the module prints 1:13:54 —
+  one second off the player total. House convention is player total
+  authoritative: the module's figure needs a 1-second correction or
+  an explicit basis.
+- Content coverage: the description states the talk introduces Daoism
+  "as an indigenous and global religion"; the uploader-set chapters
+  cover Global Taoism, ordination and lineage, indigenous Chinese
+  names for Daoism, classical Daoism, inner cultivation lineages —
+  consistent with the module's assigned use (distinguishing Daoism as
+  an indigenous Chinese tradition from its global receptions). CAVEAT:
+  classification rests on the description and uploader chapters; the
+  transcript is indicated available on the watch page but was NOT read
+  this session. Playback not attempted (environment limitation).
+- Instructor credentials: Komjathy's lineage, training and role are
+  documented on the Daoist Foundation's own About page
+  (http://www.daoistfoundation.org/about, opened this session): PhD
+  Religious Studies (Boston University, 2005), ordained Daoist priest
+  of the Huashan lineage of Quanzhen Daoism (ordination 2006, Chengdu
+  training), founding Co-director and senior teacher of the Daoist
+  Foundation — a biography/institutional page separate from the
+  recording's description; section 4 satisfied on lineage and teacher
+  training.
+- Language: English; transcript indicated on the watch page (the
+  module's "captions available" wording is broader than the evidence
+  read this session — transcript confirmed, captions per se not).
+- Status: verified-video (identity, access, duration dual-figure
+  flagged, credentials); coverage basis description+chapters, transcript
+  not read.
+
+### D-V02: Wisdom of China: Laozi (hosted by Bryan Van Norden)
+
+- URL: https://www.youtube.com/watch?v=lvglQJDrgJI
+- Identity: oembed confirms the video on Bryan Van Norden's own
+  channel, title "Wisdom of China: Laozi"; watch page opened
+  anonymously, no paywall. Upload published 2025-11-06.
+- Duration: 0:50:09 printed on the watch page — matches the module's
+  figure exactly.
+- Content coverage: the description states the documentary
+  introduces Laozi, the historical evidence about him and the meaning
+  of the Daodejing, plus its influence (science, politics, martial
+  arts, translations, counterculture); interviews named in the
+  description include Michael Puett and Misha Tadd (as the module
+  claims); chapters list the Laozi-history, science, politics, wuwei
+  and counterculture segments. The description also carries the
+  producer credit (Homework Productions for China Central Television)
+  and an errata note. CAVEAT: classification rests on description and
+  chapters; transcript indicated but not read this session; playback
+  not attempted.
+- Instructor credentials: Van Norden's institutional standing
+  verified on the Vassar faculty page
+  (https://www.vassar.edu/faculty/brvannorden, opened this session):
+  Professor of Philosophy on the James Monroe Taylor Chair. He is the
+  host/interviewer of the documentary, not its sole instructor.
+- Language: English; transcript indicated on the watch page.
+- Status: verified-video (identity, access, duration, credentials);
+  coverage basis description+chapters, transcript not read.
+
+### D-T05: Daodejing, translated by Robert Eno (IU ScholarWorks)
+
+- URL: https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content
+- Identity: Eno's English translation of the Daodejing, Version 1.4
+  (2010-2025), opened anonymously; full 81 chapters present (v1.4
+  corrects a prior omission of chapter 8 sections b and c); translator
+  and version stated on the first page, © Robert Eno.
+- License: "freely available for use in not for profit educational
+  settings and for personal use"; for other purposes copyright is not
+  waived. No paywall, no login. The module's "educator-licensed"
+  wording is a fair paraphrase of this statement.
+- Content coverage: chapters individually addressable; the module
+  assigns chapters 1, 8 and 76 (about 300 words) — present.
+- Status: verified (text). This SUPERSEDES the D-T04 finding's "no
+  first-party open carrier for Eno": the dead indiana.edu/~p374
+  location has a live institutional successor at IU ScholarWorks for
+  the Daodejing (and the Zhuangzi Inner Chapters, D-T06).
+
+### D-T06: Zhuangzi: The Inner Chapters, translated by Robert Eno (IU ScholarWorks)
+
+- URL: https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/5dc89a23-c6bf-4190-a1e4-6762dc5359cc/content
+- Identity: Eno's translation of Zhuangzi Inner Chapters 1-7 of the
+  33-chapter received text, Version 1.1 (2019), with added selections
+  from other portions appended where indicated; opened anonymously.
+- License: same statement as D-T05 (free for not-for-profit
+  educational settings and personal use; © 2010, 2016, 2019 Robert
+  Eno).
+- Content coverage: the Butterfly Dream passage the module assigns
+  closes chapter 2 (Treatise on Making Things Equal) — present.
+- Status: verified (text).
