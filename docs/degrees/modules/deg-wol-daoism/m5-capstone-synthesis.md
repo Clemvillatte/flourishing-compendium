@@ -7,11 +7,11 @@ defends a position you actually hold against one serious objection.
 **Prerequisites**: completion of m1 through m4. The observable
 competencies required: you can quote an assigned passage exactly and
 separate what it says from your application of it (m2 Outcome 2,
-m3 Outcomes 1 and 4, m4 Outcome 2), you can distinguish a training
+m3 Outcomes 1 and 4, m4 Outcome 2, if you took the elective track), you can distinguish a training
 history from the state it produces (m3 Outcome 2), and you can
 design a bounded practice with a reason, a limit and evidence
 criteria (m4 Outcome 3).
-**Total time budget**: about 3 hours 17 minutes (about 197 minutes of
+**Total time budget**: about 3 hours 27 minutes (about 207 minutes of
 labelled components; arithmetic below).
 **Primary text**: four newly assigned Daodejing chapters in the [Eno
 translation](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content)
@@ -19,7 +19,7 @@ translation](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-
 chapters; free, educator-licensed, no paywall), plus re-reads of the
 passages you already hold from m2 (Daodejing 11, 36, 78), m3 (Cook
 Ding, the Hunchback, the Butterfly Dream) and m4 (Neiye sections 1,
-2, 3, 12; elective track). No new video is assigned.
+2, 3, 12; elective track). No new video is assigned; the primary text carries the objection material.
 
 ## What this module is for
 
@@ -41,8 +41,13 @@ synthesis honest: you will state an objection the tradition's own
 materials supply, at full strength, and answer it from those same
 materials.
 
-The three candidate objections, each grounded in the assigned
-chapters:
+The three candidate objections below are this module's reading
+prompts: each is grounded in the assigned chapters, and each is the
+kind of question a reader presses after finishing a walk like this
+one. You may also propose your own objection, if you can ground it
+in an assigned passage. The strong versions here are the module's
+constructions of the chapters, and you should check them against the
+chapters as you write:
 
 1. **The withdrawal objection.** The sage of chapter 20 stands apart
    from the banqueting, brilliant, perceptive crowd; a life guided
@@ -54,12 +59,15 @@ chapters:
    protecting your life; m4 taught yangsheng, nourishing life. A
    life guided by these texts can look like refined self-interest:
    tending your own vitality while the world's needs go unanswered.
-3. **The no-standards objection.** Chapter 20 dissolves the assent
-   and objection of ordinary judgment, and the m3 Butterfly Dream
-   left you a puzzle about which state is real rather than an
-   answer. A reader can take from this walk the idea that all
-   distinctions are dissolved, all judgments "baseless" as chapter
-   20 says of ordinary fears, and so nothing is worth defending.
+3. **The standards question.** The Butterfly Dream ends with
+   Zhuang Zhou not knowing whether he had dreamt he was a butterfly
+   or a butterfly was dreaming he was Zhou, and names "the
+   transformation of things" without saying which state is real. The
+   walk has repeatedly let questions stand unresolved. A reader can
+   take that comfort with open questions as a refusal to commit to
+   any standard; whether the passages teach that refusal or simply
+   refuse to close questions they cannot close is your call to
+   argue.
 
 Choose the one that actually presses on you. The synthesis is yours,
 and the module grades the quality of the engagement, not the
@@ -78,10 +86,13 @@ On completing this module the learner can:
 2. **Write a personal synthesis of the walk that answers the
    objection.** The learner can write 1,200 to 1,800 words that:
    state what they take from the walk (naming at least one thing
-   they keep, one thing they decline, with reasons); quote at least
-   three assigned passages from at least two of the walk's modules
-   exactly, citing each; answer the chosen objection using those
-   passages; and mark every application of a passage as an
+   they keep, one thing they decline, with reasons); address one
+   concrete situation from their own life involving suffering,
+   uncertainty or responsibility, name one practical implication the
+   walk's material has for it, and name one limit they keep; quote
+   at least three assigned passages from at least two of the walk's
+   modules exactly, citing each; answer the chosen objection using
+   those passages; and mark every application of a passage as an
    application.
 
 3. **Self-assess the synthesis against the rubric.** The learner can
@@ -140,13 +151,23 @@ serves your argument:
   applied as an application. For the withdrawal objection, the
   walk's own materials include Cook Ding, whose absorbed skill is
   engaged work rather than retreat, and chapter 67's compassion,
-  which the chapter links to valor. For the self-preservation
-  objection, Neiye section 12 links a whole and complete center to
-  a whole and complete form, and chapter 67 ranks compassion above
-  valor. For the no-standards objection, the
+  which the chapter links to valor and says cannot be traded away for
+  it. For the self-preservation
+  objection, chapter 67 links
+  compassion to valor, and chapter 44's own questions already rank
+  the body against reputation rather than against other people; if
+  you took the m4 elective, the Neiye's whole-and-complete-center
+  picture is also material. For chapter 67 links compassion to
+  valor and says that discarding compassion in favor of valor brings
+  death. For the no-standards objection, the
   Butterfly Dream's ending leaves the question open rather than
   dissolving judgment. These pointers are material you may use or
   decline; the synthesis is yours.
+- One concrete situation. Address one situation from your own life
+  involving suffering, uncertainty or responsibility; name one
+  practical implication the walk's material has for it; and name
+  one limit you keep. The situation is yours, so the passages
+  cannot settle it, and the synthesis should say so where true.
 - What you cannot settle. Name at least one thing the passages do
   not resolve for you, stated honestly. A synthesis that resolves
   everything has not met the material.
@@ -176,7 +197,7 @@ Graded by rubric. Each criterion is scored Pass or Revise.
 | 1. The objection is stated at full strength, grounded and unanswered | The learner states one objection in 300 words or fewer, quotes at least one assigned chapter exactly, writes it as a holder of the objection would, and does not answer it in this deliverable. | The learner states a weakened or caricatured objection, quotes nothing, or smuggles the answer in early. |
 | 2. The synthesis quotes and cites at least three passages from at least two modules, and marks applications as applications | The learner quotes at least three passages exactly with citations spanning at least two modules of the walk, and separates each passage's claim from their application of it. | The learner paraphrases passages as their own reasoning, quotes loosely, or draws every passage from a single module. |
 | 3. The synthesis answers the objection using the passages | The learner's answer engages the objection as stated in deliverable a, uses the quoted passages as its substance, and does not merely assert that the objection is mistaken. | The learner ignores the objection as stated, answers a different one, or answers by assertion without passages. |
-| 4. The synthesis takes a personal position with keeps and declines | The learner names at least one thing kept and one declined, each with a reason touching the passages, and names at least one thing the passages do not resolve for them. | The learner offers a summary of the walk with no personal position, or a position with no passages behind it, or resolves everything. |
+| 4. The synthesis takes a personal position with keeps and declines, on a concrete situation | The learner names at least one thing kept and one declined, each with a reason touching the passages; addresses one concrete situation involving suffering, uncertainty or responsibility with a practical implication and a limit they keep; and names at least one thing the passages do not resolve for them. | The learner offers a summary of the walk with no personal position, or a position with no passages behind it, or keeps the whole thing literary with no concrete situation, or resolves everything. |
 | 5. The self-assessment scores the draft and drives one revision | The learner scores each criterion, names the weakest with a reason, makes one revision, and records what changed. | The learner claims all criteria pass with no reason, or makes no revision. |
 
 Strong example for criterion 2: "Chapter 67 prints, 'Compassionate,
@@ -191,6 +212,57 @@ about not forcing things, which I have definitely found true in my
 life." This does not pass: it quotes nothing, cites nothing, and
 turns the passage's claim and the learner's biography into one
 claim.
+
+Strong example for criterion 1: "The withdrawal objection, at full
+strength: chapter 20's sage says 'I alone am still, without visible
+sign... like one with no home,' stands apart from people who are
+'as if banqueting,' and wishes to be different from others. If the
+walk's ideal is this apartness, then the harder my circumstances get,
+the more this teaching pays me to disengage, and the people who need
+me are the price. (Held at strength; not answered here.)"
+
+Rejection example for criterion 1: "The Daoist sage is basically an
+escapist, which is obviously wrong." This does not pass: it quotes
+nothing from the assigned chapters, states the objection at a slogan
+level rather than full strength, and answers itself with "obviously
+wrong" in the same breath.
+
+Strong example for criterion 3: "The objection says the sage
+withdraws. Cook Ding's answer is that his absorbed skill is work:
+'Cook Ding was carving an ox carcass for Lord Wenhui,' and his
+knife moves 'in rhythm.' The passage's claim is that the highest
+skill is engaged and responsive; my application is that this
+answers the withdrawal charge for work one is competent at, and
+chapter 67's 'Compassionate, thus I can have valor' extends it:
+compassion is not apartness from others but the condition of
+courage."
+
+Rejection example for criterion 3: "Obviously Daoists care about
+others, so the objection fails." This does not pass: it dismisses
+the objection by assertion and uses no passage to do it.
+
+Strong example for criterion 4: "What I keep: the passage-versus-
+application discipline; on my current uncertainty about my father's
+care, chapter 44's questions put the body first in a way that gives
+me one practical implication: his rest matters more than my
+reputation for coping alone, so I will ask for help this week. The
+limit I keep: the chapter cannot tell me what to do when rest and
+reputation pull the same way. What I decline: treating the seasonal
+rules as rules. Unresolved: whether wu wei scales to decisions I
+fear."
+
+Rejection example for criterion 4: "I keep everything the walk
+taught me and feel much wiser now." This does not pass: no keeps
+and declines with reasons, no concrete situation, no limit, nothing
+unresolved.
+
+Strong example for criterion 5: "Weakest criterion: 1, because my
+objection was 380 words and still answered itself in the last
+sentence. Revision: cut to 290 words, deleted the answer. What
+changed: the objection now stands at full strength unanswered."
+
+Rejection example for criterion 5: "All criteria pass strongly."
+This does not pass: no scoring, no reason, no revision recorded.
 
 ## Workload arithmetic
 
@@ -207,16 +279,16 @@ claim.
   passage re-reads inside it).
 - Self-assessment and revision: about 20 minutes.
 - Teach-back close: about 10 minutes.
-- Module teaching prose on this page (1,464 words measured,
+- Module teaching prose on this page (2,096 words measured,
   excluding the rubric table rows and this arithmetic section): at
-  180 words per minute about 8 minutes raw; with study overhead as
-  a three-times multiplier, about 25 minutes (estimate, labelled).
+  180 words per minute about 12 minutes raw; with study overhead as
+  a three-times multiplier, about 35 minutes (estimate, labelled).
 
-Total: about 3 hours 17 minutes (about 197 minutes of labelled
+Total: about 3 hours 27 minutes (about 207 minutes of labelled
 components: 22 estimated new-chapter reading with the three-times
 study multiplier, 30 objection writing, 90 drafting with passage
 re-reads inside it, 20 self-assessment and revision, 10 teach-back
-close, 25 estimated module-prose reading with the three-times study
+close, 35 estimated module-prose reading with the three-times study
 multiplier).
 
 ## Sources
@@ -227,11 +299,8 @@ multiplier).
 - Re-reads only of passages already assigned in m2 (Eno Daodejing
   chapters 11, 36, 78), m3 (Eno Zhuangzi: Cook Ding, the Hunchback,
   the Butterfly Dream) and m4 (the Neiye in the Linnell
-  translation, and Komjathy's Lundao 5 material where the learner
-  took it).
+  translation, for learners who took the elective track).
 
-The verification records for these sources, including dates and
-evidence, are in the degree's verification files.
 
 ## Alignment map
 

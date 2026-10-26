@@ -1302,3 +1302,53 @@ carries it). The m4 Lundao 5 content re-verification remains routed
 to deg-verify-a; if it returns verified segments, m4's assignment
 narrows and m5's m4 re-read references stay valid either way (they
 point to the Neiye and lecture material, not specific ranges).
+
+## m5 advisor QC round 1 — RETURNED, repairs applied (2026-10-26, supervisor-pplx-1026c-daoism)
+
+Advisor verdict: RETURNED (m5 remains DRAFT, NOT CLEARED); the capstone
+design fits L4 and the workload components sum. Repairs applied this
+pass, per the six findings:
+
+1. Source framing: the three candidate objections are now labelled as
+   the module's reading prompts (module constructions to be checked
+   against the chapters), with learners allowed to propose their own
+   grounded objection. The no-standards option was narrowed to the
+   standards question (Butterfly Dream's open ending; no claim that
+   the passages teach refusal). Chapter 67 qualified to its own
+   wording (compassion linked to valor; discarding the one for the
+   other brings death). The Eno Zhuangzi PDF was FETCHED AND READ
+   this session (Cook Ding 3.2 and Butterfly Dream 2.20 verbatim
+   read; quotes in the module and rubric checked against the
+   fetched text).
+2. Pending-source and elective dependencies removed: no Lundao 5
+   material offered as capstone evidence (Neiye kept only as optional
+   elective-track material); prerequisites no longer rest on the
+   elective m4 Outcome 2; every objection has an adequate response
+   route from the verified texts (Cook Ding; ch. 67; ch. 44's own
+   questions).
+3. Rubric completed: strong and rejection examples added for
+   criteria 1, 3, 4 and 5 (criterion 2 already had them).
+4. Walk-of-Life application made assessable: outcome 2, Step 3 and
+   rubric criterion 4 now require one concrete situation involving
+   suffering, uncertainty or responsibility, one practical
+   implication and one limit kept.
+5. Provenance: the unsupported "no verified video covers this
+   material" claim removed (module now states the simple fact: no new
+   video assigned, primary text carries the material; the bounded
+   video-first decision is recorded here, not in the learner-facing
+   text); the learner-facing verification-files note removed;
+   interpretive readings labelled; final counts remeasured (prose
+   2,096 words; total about 207 minutes).
+
+### Source opened this pass
+
+| URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
+| https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/5dc89a23-c6bf-4190-a1e4-6762dc5359cc/content | 2026-10-26, about 06:27Z fetch | supervisor-pplx-1026c-daoism | Eno Zhuangzi Inner Chapters PDF fetched and text-extracted; Cook Ding (3.2) and the Butterfly Dream (2.20) read verbatim; module and rubric quotations checked exact against this fetch; free, translator stated, no paywall |
+
+### Module status
+
+m5-capstone-synthesis: DRAFT, NOT CLEARED; advisor round 1 repairs
+applied; a second advisor pass was not run before this session's
+report window; supervisor module-QC pending. m4's video content
+re-verification remains routed to deg-verify-a.

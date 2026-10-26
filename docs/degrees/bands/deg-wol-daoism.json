@@ -40,12 +40,12 @@
     },
     "m5": {
       "file": "docs/degrees/modules/deg-wol-daoism/m5-capstone-synthesis.md",
-      "advisory_qc": "PENDING",
-      "advisory_qc_rounds": 0,
+      "advisory_qc": "RETURNED round 1, repairs applied",
+      "advisory_qc_rounds": 1,
       "supervisor_module_qc": "PENDING",
       "status": "drafted this session (wave 3); advisor QC round 1 submitted"
     }
   },
-  "notes": "2026-10-26 (supervisor-pplx-1026c-daoism, wave 3): m5 capstone drafted (L4 synthesis vs one serious objection, Daodejing 20/44/50/67 read firsthand); five-module set drafted end to end; m4 video re-verification routed to deg-verify-a; supervisor module-QC owed on m1-m5",
-  "updated": "2026-10-26T06:07:30Z"
+  "notes": "2026-10-26 (supervisor-pplx-1026c-daoism, wave 3): m5 capstone drafted and round-1 repairs applied (Zhuangzi passages read firsthand; objections reframed; rubric completed; walk-of-life situation required); m4+m5 DRAFT pending supervisor module-QC; m4 video re-verification routed to deg-verify-a",
+  "updated": "2026-10-26T06:10:01Z"
 }
