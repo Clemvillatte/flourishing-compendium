@@ -4906,7 +4906,7 @@ QC SAMPLE — attention Q1/Q3 remaining spans (Mooneyham-Schooler 2013 review, m
 
 Final session tally for the verification lane: 15 dossiers sampled across all closed bands (agency, anger, cognition, goals, creation, right-effort, freedom, procrastination, creativity, sadness-and-grief, right-action, right-view, right-mindfulness, right-concentration, motivation, overload-overwhelm, right-livelihood, affect, attention), ~85 quoted spans verified verbatim against freshly opened carriers; zero dossier defects found; three automated misses all traced to my-side URL guesses or extraction artifacts and corrected; three blocked carriers (Rupert 2004 primary; Gould 1999 primary; Miller-Sweetnam scispace) left as open items in batches/dosr3.json and routed to other lanes where appropriate.
 
-## Worker checkpoint (2026-10-26 02:29Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+## Worker checkpoint (2026-10-26 02:28Z, stamp corrected from an estimated 02:29Z — command output printed 02:28, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
 QC SAMPLE — concept page Oikeiosis (complete: all five quoted spans
 checked): the SEP Stoicism §4.6 spans — the doctrine definition ("the
 Stoics rely on their doctrine of oikeiôsis ('appropriation' or
