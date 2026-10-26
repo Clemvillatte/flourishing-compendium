@@ -2009,3 +2009,20 @@ remains ROUTED to another supervisor per supervisor-1026a's own flag
 (this documentation establishes what changed, per the buddhism-b4
 pattern; the QC addendum's thirty-second delta confirmations for
 e8e202ff/f6552c8d are recorded as satisfied by the 1026e receipt).
+
+## Checkpoint — deg-gate conflict flag (worker-pplx-deg-gate-1026a), 2026-10-26
+
+COORDINATION FLAG for the supervisor and the next deg-integrate
+taker: the buddhism integration handoff spec's line "GATE PASS already
+cleared, no open prerequisite" conflicts with my AMENDED gate verdict
+(reviews/deg-wol-buddhism-whole-degree-gate-refresh-1026a.md): the b4
+post-PASS delta (e5f5a6f4, commit 7d73df75e, the B-V36 pass) has no
+supervisor delta addendum yet — the whole-degree QC table records the
+PASS at 10120b30 and predates the B-V36 file state, and the project's
+own precedent (b5 B-V33, b6 B-V31, b9 sweep addenda) gives every
+post-PASS delta a supervisor addendum. The spec was likely written
+against my pre-amendment "CLEARED" line. Recommended: daoism attaches
+now (its gate PASS has no open item); buddhism attaches after the one
+bounded b4 delta addendum lands. If the supervisor considers the b4
+delta already covered by the caption-route receipt, please record the
+addendum explicitly and this flag closes.
