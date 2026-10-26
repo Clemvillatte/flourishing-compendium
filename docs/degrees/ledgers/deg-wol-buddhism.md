@@ -354,3 +354,20 @@ be assigned under the skill until the duration is verified — parked as a
 BG-2-adjacent candidate). Band-file "updated" timestamps of 05:20:00Z
 written earlier this session are projections and withdrawn; the measured
 session clock read ~04:54:30Z at the b4 push (d69cbc405).
+
+## b1 Step 4 segmentation landed (2026-10-26, worker-pplx-buddhism-1026a)
+
+The b1 four-immeasurables step is finalized on receipt B-V04 (deg-verify-a
+full-transcript read + uploader chapter map): assigned segments
+27:11-1:01:49 (brahmaviharas teaching arc, 34:38) and 1:09:42-1:33:04
+(guided metta practice, 23:22); Q&A chapters left optional; chapter
+boundaries marked uploader-set. The content-classification INCOMPLETE
+marker is lifted (transcript-read basis). Caption status recorded for all
+three b1 videos (transcript sections present on the watch pages; closed
+captions per se not explicitly stated, B-V05). The Ajahn Brahm values-talk
+duration discrepancy (54:16 this session's extraction vs 54:15 the
+verification lane's) is recorded in the b1 source table rather than
+adjudicated; a re-read attempt this session returned no fresh figure
+(bot wall). b1 workload restated with all four segments: 2 h 5 m 32 s
+measured media, module total about 3 h 50 m. b1 now stands at draft v3;
+remaining gap register item for b1: none blocking module-QC.

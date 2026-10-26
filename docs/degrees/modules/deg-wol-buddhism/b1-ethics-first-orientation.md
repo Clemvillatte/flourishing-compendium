@@ -4,7 +4,7 @@
 - **kind**: degree-module
 - **level**: L1 Orientation (exit criteria adapted for a practice walk: the L2 element is the guided metta sitting and the precepts case, both fully guided here)
 - **module id**: deg-wol-buddhism-b1
-- **status**: draft v2 (QC repair pass 2026-10-26, worker-pplx-buddhism-1026a; segmentation of the long video still owed, see ledger)
+- **status**: draft v3 (segmentation landed from receipt B-V04; production session 2026-10-26, worker-pplx-buddhism-1026a)
 - **prerequisites**: none (entry module; open to any learner, no Buddhist background assumed)
 
 ## Walk context
@@ -89,26 +89,33 @@ unfold a boundless heart... May all beings be happy!"
 Activity: mark the one instruction in the Metta Sutta you would need most on a
 difficult day, and say why in a sentence.
 
-### Step 4 — The four immeasurables, taught (video; segmentation owed before this step is final)
+### Step 4 — The four immeasurables, taught (~58 min, video, two bounded segments)
 
 **Bhante Dhammadipa, "The Four Immeasurable Minds: practising true love for the
-world" (Metta Centre channel), 2:09:06.** The four immeasurables, also called
-the divine abodes: loving kindness, compassion, joy and equanimity. The
-speaker was trained in Theravada, Zen and Chinese traditions, ordained 1985,
+world" (Metta Centre channel), 2:09:06 total.** The four immeasurables, also called
+the divine abodes: loving kindness, compassion, joy and
+equanimity. The speaker was trained in Theravada, Zen and Chinese traditions, ordained 1985,
 a student of the Burmese master Pa Auk Sayadaw (credentials opened on the
-buddha-haus.de biography page).
+buddha-haus.de biography page; the biography rests on the institutional
+pages, not the recording).
 
-Content classification for this recording is incomplete: the current
-classification rests on the recording's own description, which the verification
-standard does not accept on its own, and the talk has not yet been segmented
-into a bounded novice assignment. Until a transcript inspection lands, treat
-this step as provisional: the module will assign a finite excerpt with
-verified timestamps. The module's b1 claim on the four immeasurables is
-taught-through-video pending that repair; the practice and assessment below
-carry the outcome meanwhile.
+Assigned segments (from the uploader-set chapter list on the watch page; the
+talk's full transcript was read by the verification lane, receipt B-V04):
+- 27:11-1:01:49, the four-brahmaviharas teaching arc ("4 Brahmaviharas" at
+  27:11 through "Metta to all phenomena, method of Kumarajiva" at 1:01:49),
+  about 34 minutes 38 seconds. This is the teaching.
+- 1:09:42-1:33:04, the guided metta practice ("Meditation practice (metta)"
+  at 1:09:42 through "No room for hate" at 1:33:04), about 23 minutes 22
+  seconds. Sit with it, or listen once before sitting with it.
 
-Activity (carried regardless of the video assignment): after your metta
-sittings, write one line for each of the four immeasurables naming where it
+The remaining chapters (Q&A from 1:43:12, the Kumarajiva-method and
+Buddha-nature questions) are optional for the curious; the Queen Mallika
+story and the Theravada/Sanskrit object contrast inside the assigned arc are
+mentioned for context. Chapter boundaries are uploader-set; the practice
+segment is bounded by the next chapter mark.
+
+Activity (after the teaching segment): write one line for each of the four
+immeasurables naming where it
 showed up (or failed to show up) in your week. One line each, observable from
 your own notes.
 
@@ -194,24 +201,23 @@ where ethics or practice requires a passing mention.
 
 ## Workload arithmetic
 
-- Measured media: 54:16 + 13:16 = 1 h 7 m assigned as bounded whole talks; the
-  2:09:06 Dhammadipa talk is NOT yet counted in the learner workload
-  because its segment assignment is owed (see Step 4). Workload will be
-  finalized when the segment lands.
+- Measured media: 54:16 + 13:16 + 34:38 + 23:22 = 2 h 5 m 32 s (durations
+  read from the source pages; the Dhammadipa segments are bounded by the
+  uploader-set chapter marks, receipt B-V04).
 - Estimated: primary texts ~500 words at 130 words per minute (new concepts
   dense) with re-reading, ~15 m; two metta sittings 2 × 10 m = 20 m; assessment
   write-up ~45 m; study overhead on the videos (notes, re-watch of segments)
   ~60 m. Estimates labelled as estimates.
-- Module total: about 3 h 00 m with the two assigned videos, plus the Dhammadipa
-  segment when its assignment lands (estimates labelled as estimates).
+- Module total: about 3 h 50 m with all four assigned segments (estimates
+  labelled as estimates; the earlier draft's provisional total is superseded).
 
 ## Sources (verification status)
 
 | resource | status | verified | notes |
 |---|---|---|---|
-| Ajahn Brahm, "Buddhist Values", https://www.youtube.com/watch?v=TpbWVaXBV4c (BSWA channel) | verified-video | 2026-10-26 | duration 54:16 on watch page; credentials: Abbot of Bodhinyana Monastery (BSWA institutional booklet); talk dated 08-01-2010; content classification from the opened transcript: no rebirth, kamma or cosmology; teaches values from a mindful heart, does not enumerate the precepts |
+| Ajahn Brahm, "Buddhist Values", https://www.youtube.com/watch?v=TpbWVaXBV4c (BSWA channel) | verified-video | 2026-10-26 | duration read 54:16 on this session's watch-page extraction (player-total convention); a second extraction by the verification lane read 54:15, a 1-second discrepancy recorded rather than adjudicated (B-V05); transcript section present on the watch page; talk dated 08-01-2010; content classification from the opened transcript: no rebirth, kamma or cosmology; teaches values from a mindful heart, does not enumerate the precepts |
 | Thanissaro Bhikkhu, "The Five Precepts for the Mind", https://www.youtube.com/watch?v=Nq7YmbYFJkA | verified-video | 2026-10-26 | duration 13:16 (lengthSeconds 796, watch page); introduces the five lay precepts then their mind dimension; credentials opened on the buddho.org biography page (Thai forest kammatthana tradition; student of Ajahn Fuang Jotiko; ordained 1976; Abbot of Metta Forest Monastery since 1993; main AccessToInsight translator); free, CC BY-NC license stated in description |
-| Bhante Dhammadipa, "The Four Immeasurable Minds", https://www.youtube.com/watch?v=svWaWFOpxXw (Metta Centre channel) | verified-video, content classification INCOMPLETE | 2026-10-26 | duration 2:09:06 on watch page; upload 2023-03-04; credentials opened on the buddha-haus.de biography page (born Prague 1949; university studies in Slavic studies, Sinology, Indology; ordained 1985 with training in Zen, Theravada and Chinese traditions; monastic stays incl. Burma; associated with Pa Auk Sayadaw; teaching since 1997); the four-immeasurables classification currently rests on the recording's own description and awaits transcript inspection; segmentation owed |
+| Bhante Dhammadipa, "The Four Immeasurable Minds", https://www.youtube.com/watch?v=svWaWFOpxXw (Metta Centre channel) | verified-video | 2026-10-26 (this session; content upgraded to transcript-read by receipt B-V04, deg-verify-a) | duration 2:09:06 on watch page; upload 2023-03-04; credentials opened on the buddha-haus.de biography page (born Prague 1949; university studies in Slavic studies, Sinology, Indology; ordained 1985 with training in Zen, Theravada and Chinese traditions; monastic stays incl. Burma; associated with Pa Auk Sayadaw; teaching since 1997); full transcript read by the verification lane (B-V04); assigned segments 27:11-1:01:49 and 1:09:42-1:33:04; transcript present on the watch page |
 | AN 5.179 Gihisutta, Sujato translation, https://suttacentral.net/an5.179/en/sujato | verified | 2026-10-26 | the five precepts passage quoted on the opened page; free, anonymous access |
 | Metta Sutta Khp 9, Sujato translation, https://suttacentral.net/kp9/en/sujato | verified | 2026-10-26 | goodwill instructions confirmed on the opened page ("May all beings be happy!"; "With love for the whole world, unfold a boundless heart"); the opened extraction shows no rebirth-dependent material; free, anonymous access |
 | Five-stage loving-kindness method, https://thebuddhistcentre.com/text/loving-kindness-meditation | verified | 2026-10-26 | opened anonymously; the five stages read on the opened page (yourself, good friend, neutral person, someone you dislike, everyone); publisher: the Buddhist Centre (Triratna); the b1 sitting guide is this module's timed application of that method |
