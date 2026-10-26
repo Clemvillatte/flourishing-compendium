@@ -1,0 +1,15 @@
+{
+ "batch": "dosr2",
+ "done": [
+  "2026-10-26 ~00:24Z FULL-READ STEP 0 close (worker-pplx-dosr2-1026a): all four dossiers read in section full, not just counted — every question under 'Where the traditions genuinely disagree' is a genuine affirm/deny dispute on primary carriers with honest limits notes. Band closed, no repairs needed; baton released."
+ ],
+ "detail": {
+  "right-mindfulness": "3 substantiated: (1) bare/non-conceptual awareness — Gunaratana affirms, Bodhi denies; (2) sati present-moment vs remembering — Kabat-Zinn affirms present-moment (2003 operational definition), Thanissaro affirms remembering (SN 48.10), Bodhi between; (3) nonjudgmental — clinical wording affirms, Bodhi (MN 117 argument) and Thanissaro deny. Carriers: MN 10 Thanissaro, Bodhi canonical paper, Kabat-Zinn 2003/2011 PDFs, Nyanaponika.",
+  "right-view": "3 substantiated: (1) next world — MN 60 affirms vs Ajita Kesakambali DN 2 denies; (2) person as real ultimate fact — Puggalavadin affirms vs Theravadin denies (Kathavatthu I.1); (3) causally produced intrinsic nature — Abhidharmikas affirm vs Nagarjuna denies (MMK 15.1-2 Kalupahana). Plus an honest 'Related questions' pair explicitly NOT counted as disagreements.",
+  "freedom": "4 questions present (Seneca-only views; are there two selves; what a liberated person can promise; Rousseau social contract), quote sample 4/4 verbatim re-verified this session (Rousseau Gutenberg raw, Beauvoir marxists.org raw, Sartre via SEP) — TASKBOARD checkpoint 00:14:34Z.",
+  "right-concentration": "3 substantiated: jhana rediscovery; liberation without jhana — sutta reading affirms vs Thanissaro translator note denies; open-eyes/fabrication. Quote sample 2/2 verbatim (Langner-Eickhoff PMC raw, Thanissaro SN 12.70 note) — TASKBOARD checkpoint 00:15:02Z."
+ },
+ "in_progress": "none — band complete",
+ "flagged": {},
+ "notes": "Method note: substantiation verified by full section reads (affirm/deny test applied per question), plus independent raw-carrier quote re-verification for two of the four dossiers this session. Structure conforms to the GF model throughout."
+}
