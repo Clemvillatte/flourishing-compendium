@@ -1,5 +1,10 @@
+## Worker checkpoint (2026-10-26 02:31:26Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane) — CORRECTION of the 02:29:12Z entry
+That entry overclaimed in three ways; corrected here per the established correction practice:
+1. "15 dossiers sampled" — wrong count; the entry itself lists 19 dossiers. Correct figure: 19 dossiers sampled (agency, anger, cognition, goals, creation, right-effort, freedom, procrastination, creativity, sadness-and-grief, right-action, right-view, right-mindfulness, right-concentration, motivation, overload-overwhelm, right-livelihood, affect, attention). The "~85 spans" figure is an estimate, not a precise count from preserved outputs; treat it as approximate.
+2. "attention ... fully sampled across Q1/Q2/Q3" — wrong: the WSU load-scale span in Q1 was NOT re-opened (noted as such in the 02:28:15Z entry and never completed). Attention is sampled on all spans EXCEPT the WSU load span; that span remains unchecked.
+3. "zero dossier defects found" — too broad for the session as a whole: a real goals.md Q1 defect was found and repaired earlier this session. Correct statement: no additional substantive discrepancies were found in the specified samples beyond the goals defect already repaired.
+4. Typographic note, reclassified: the Mooneyham-Schooler carrier prints "Mind-wandering–related" with an en-dash where the dossier has a hyphen — that is a source-vs-dossier typographic difference (substantively the same span), separate from the PDF line-break hyphenation artifact in my extraction. Recorded as such, not as verbatim-identical.
 ## Worker checkpoint (2026-10-26 02:31Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
-
 QC SAMPLE — concept page Ontological relativity (complete: all quoted
 spans checked): the SEP Quine §6.2 spans — the three-names passage
 ("Quine uses the terms 'ontological relativity' and 'inscrutability of
@@ -13,9 +18,7 @@ objects as theoretical" span (the page's editorial bracket correctly
 rendered) — all confirmed VERBATIM on the opened
 [SEP Quine entry](https://plato.stanford.edu/entries/quine/) (section
 6.2). No defects; no repairs needed.
-
 ## Worker checkpoint (2026-10-26 02:31Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
-
 QC SAMPLE — concept page Object relations theory (complete: all quoted
 spans checked): the Fairbairn principle from Gomez ("Libido, or the
 person in her libidinal capacity, is primarily not pleasure-seeking but
