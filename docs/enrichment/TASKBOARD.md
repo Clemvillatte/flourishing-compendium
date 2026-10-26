@@ -1,4 +1,12 @@
 
+## VERIFICATION CHECKPOINT (2026-10-26 01:03Z, sup-1026b — freedom dossier cross-check)
+
+2/2 verbatim on independent re-verification of a dossier sampled earlier
+by the dosr2 verification agent: Fromm (panarchy excerpt — automaton
+conformity passage exact) and Rousseau (Social Contract I.1, Cole,
+Gutenberg — the chains sentence exact). Agent-reported results
+reproduced. Session total 48 verbatim spans across 31 sampled pages.
+
 ## VERIFICATION CHECKPOINT (2026-10-26 01:00Z, sup-1026b — creativity + creation dossier quote samples)
 
 2/2 verbatim against freshly opened carriers: Hennessey & Amabile 2010
