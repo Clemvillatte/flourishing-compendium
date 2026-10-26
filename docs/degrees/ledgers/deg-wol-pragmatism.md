@@ -159,6 +159,15 @@ integration or publication. The unresolved Phase 0 pilot stop-gate production
 prerequisite and the owner's one-by-one degree order (pragmatism is 4th)
 remain unchanged and still gate module production.
 
+Supervisor spot-check (2026-10-26 02:35Z measured, supervisor-pplx-1026d,
+supervisor baton): the Georgetown anchor of this clearance was independently
+re-opened and confirms all three clearance claims — no Whitehead or process
+philosophy anywhere on the PHIL 351 page, the required Dewey volume is The
+Essential Dewey vol. 2 (Ethics, Logic, Psychology), and the assessment is two
+papers (5 pp. midterm-weighted one third, 10-15 pp. exam-period two thirds).
+Spot-check only; the other three anchors were not re-opened by the supervisor
+(they were re-opened by the deg-gate reviewer at 02:11-02:12Z).
+
 ## Gate decisions
 
 | gate | decision | by | date |
