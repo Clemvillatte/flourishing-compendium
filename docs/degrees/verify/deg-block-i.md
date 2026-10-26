@@ -504,3 +504,45 @@ Aggregate: 74 oembed responses, 0 failures; 54 consistent on normalized
 comparison, 20 title variants recorded above, 0 clear identity mismatches
 (no record's platform title names a different event).
 
+
+## Batch 3 addendum: non-YouTube records (2026-10-26, 2026-10-26T05:06Z, worker-pplx-degverifya-1026d, 7 records)
+
+All seven opened this pass. Playback conditions only partially
+establishable from page text; no record flipped to verified.
+
+- SRC-M07-001 (oyc.yale.edu PSYC 110 lecture-16): page opens anonymously;
+  it is Lecture 16 "A Person in the World of People: Self and Other,
+  Part I" — the record's truncated title ("A Person in the World of...")
+  is consistent with this lecture; HTML transcript and audio offered on
+  the page; video presence not stated in the extracted text.
+- SRC-M07-010 (Huberman Lab, Master Your Sleep): episode page opens,
+  matches the record; published 2021-01-11; transcript displayed on the
+  page (noted as under human review, may contain errors); timestamped
+  sections listed (0:00 through 1:20:00 Office Hours); premium membership
+  promoted separately but no login demanded for the opened page.
+- SRC-M07-015 (Greater Good, Neff Self-Compassion for Educators Part 1):
+  page opens, matches the record; described as Part 1 of a workshop by
+  Kristin Neff given 2013-07-02 at the GGSC Summer Institute for
+  Educators; video playability not stated in the extracted text.
+- SRC-M07-017 (Huberman Lab Essentials, Tools for Managing Stress &
+  Anxiety): episode page opens, matches the record; timestamped sections
+  listed (00:00:00 through 00:31:19 Recap); premium membership promoted
+  but no login demanded for the opened page.
+- SRC-M07-019 (Yale online, The Science of Well-Being): course page
+  opens; free access paths stated explicitly — free Coursera (full
+  course, no certificate), free YouTube (videos only), paid Coursera
+  with certificate ($49, variable by location).
+- M08-S27 (Michigan Ross positiveorgs, Belonging): URL is under /videos/
+  but the opened page presents the title as Geoffrey L. Cohen's BOOK
+  "Belonging" with no visible player in the extracted text; video
+  presence UNRESOLVED — check by browser in the full pass or replace.
+- PSY-101 (the-psychology-lab.vercel.app): site opens; self-describes as
+  an interactive companion aligned with Psychology: Themes and
+  Variations 12e (Weiten & Gurung 2027), 15 chapters plus Appendix A;
+  free-access statement absent; no login wall encountered in the fetch.
+
+Batch 3 totals: 81 of the 81 remaining even-parity records triaged this
+pass (74 YouTube oembed + 7 non-YouTube opened). Even-parity share now
+fully covered at metadata-triage depth; the full skill-section-4 pass
+(playback, duration, credentials, coverage) remains owed for all 141
+even-parity records as before.
