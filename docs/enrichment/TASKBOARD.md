@@ -6335,3 +6335,5 @@ same pass; see its RETRACTION note.)
   [T+30:41] verify lane (no baton): psychdim M4 video cross-check -- 3 recordings confirmed (2 one-second + 1 one-day render disagreements recorded; Davidson window exactly marker-anchored per reported markers; APS window sub-section). Receipt: docs/degrees/verify/deg-psychdim-m4-consumed-sources-crosscheck-1026c.md
 
   [T+33:13] verify lane (no baton): advisor QC found defects in 3 pushed receipts; all repaired in place with dated correction notes -- pragmatism m1 (withdrew timestamps misattributed from a different 52:59 upload of the same episode; segmentation closure downgraded to partial), video re-check (withdrew the 57:21 chapter-anchor claim and the topic-absence claim), M4 (narrowed marker-vs-chapter claims, named APS snippet provenance, removed playback/adjudication overclaims; Bloom M4 window now stated unchecked).
+
+  [T+34:02] verify lane (no baton): M1 Noba-remaining-topics video search -- Kaplin lecture candidate verified (identity+credentials+all 3 topics via transcript excerpts; duration/date open, watch page blocked). Receipt: docs/degrees/verify/deg-psychdim-m1-noba-topics-video-candidate-1026c.md
