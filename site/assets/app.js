@@ -7287,7 +7287,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The finding that how people rate their own lives depends heavily on the social conditions around them, and not only on their own traits or income, is [social determinants of well-being](card:Social%20determinants%20of%20well-being). Ryff's 1989 question of what psychological well-being actually is is [holistic well-being](card:Holistic%20well-being), and Joshanloo's review of Western and Eastern accounts of happiness, identifying six fundamental differences in conceptions of the good life, is [cross-cultural variations in conceptions of happiness](card:Cross-cultural%20variations%20in%20conceptions%20of%20happiness)."
+          "x": "The finding that how people rate their own lives depends heavily on the social conditions around them, and not only on their own traits or income, is [social determinants of well-being](card:Social%20determinants%20of%20well-being). Ryff's 1989 question of what psychological well-being actually consists of is [holistic well-being](card:Holistic%20well-being), and Joshanloo's review of Western and Eastern accounts of happiness, identifying six fundamental differences in conceptions of the good life, is [cross-cultural variations in conceptions of happiness](card:Cross-cultural%20variations%20in%20conceptions%20of%20happiness)."
         },
         {
           "t": "h2",
