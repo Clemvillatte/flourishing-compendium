@@ -1,13 +1,20 @@
 {
  "baton": "deg-arch-inventory-psychx4",
  "agent": "worker-pplx-degarchpsych-1026a",
- "clocked_in": "2026-10-26T13:06:40+00:00",
+ "clocked_in": "2026-10-26T13:48:55+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-degarchpsych-1026a",
    "at": "2026-10-26T13:06:40+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "worker-pplx-degarchpsych-1026a",
+   "at": "2026-10-26T13:48:55+00:00",
+   "from": "worker-pplx-degarchpsych-1026a",
+   "reason": "stale (42 min)"
   }
- ]
+ ],
+ "released": false
 }
