@@ -8515,7 +8515,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "So both sides now agree that intuitions can change and that people sometimes deliberate. What they still answer differently is the causal question: for Pizarro and Bloom, earlier reasoning shapes and informs the fast intuition, which limits the model's claim that deliberation is irrelevant; for Haidt, the intuitionist model can already hold malleability and deliberation without making reasoning the driver. I have only the abstract of the reply, not its two pages of argument, so I do not report how Haidt supports that claim, and the sources opened here do not settle which account fits ordinary moral life better."
+          "x": "So both sides now agree that intuitions can change and that people sometimes deliberate. What the exchange disputes is the adequacy of the model's treatment of reasoning: Pizarro and Bloom argue that evidence of prior reasoning shaping intuitions limits the social intuitionist model's strong claims about conscious deliberation, and Haidt replies that an intuitionist model allows malleability, flexibility and cases of moral deliberation. These abstracts do not establish that Haidt denies every causal contribution from earlier reasoning, and the two positions are not simply incompatible: earlier reasoning could shape an intuition while the reasoning offered after a judgment merely justifies it. I have only the abstract of the reply, not its two pages of argument, so I do not report how Haidt supports that claim, and the sources opened here do not settle which account fits ordinary moral life better."
         },
         {
           "t": "p",

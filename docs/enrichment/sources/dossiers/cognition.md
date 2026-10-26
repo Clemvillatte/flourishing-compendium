@@ -717,3 +717,16 @@ Pizarro/Bloom 2003 → Haidt 2003), both sides' own words on the causal
 role of reasoning in moral judgment, honest limits preserved in the
 dossier text. COGNITION NOW AT THE BAR: 3 certified questions
 (Q1, Q2, Q3). Batch flag resolved (batches/dosr3.json).
+
+RATIONALE REVISION 2026-10-26 09:52:40Z (fresh clock read) —
+supervisor-pplx-1026p, after advisor QC tie-break: Q3's certification
+basis is restated. The earlier framing ('incompatible answers to the
+causal question') is withdrawn — the two positions are not simply
+incompatible (earlier reasoning could shape an intuition while
+post-judgment reasoning merely justifies it). Q3 is retained as a
+substantiated critique-and-reply over the adequacy of the social
+intuitionist model's treatment of reasoning, which meets the
+DOSSIER-MODEL.md criterion ('disagreements the sources support',
+item 5: state each side faithfully and what the disagreement turns
+on). Dossier paragraph revised accordingly; the reply's two pages of
+argument remain unread (abstract only), as recorded.
