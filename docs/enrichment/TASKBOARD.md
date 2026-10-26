@@ -1,3 +1,5 @@
+## Worker checkpoint (2026-10-26 02:32:19Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
+QC SAMPLE — attention Q1 WSU/Lavie 2005 spans (the gap left open in the 02:28:15Z entry, now closed): the Lavie PDF at labs.wsu.edu was opened (note: plain curl gets 403 from that host; a browser user-agent retrieves it fine — carrier-access note for whoever re-verifies). All three quoted spans are present and substantively verbatim: the automated misses are typographic only — the PDF prints curly quotes ('early') where the dossier has straight quotes, and the raw extraction splits "task-relevant" and "processing" across line breaks. No dossier defects. The attention dossier is now fully sampled across Q1/Q2/Q3.
 ## Worker checkpoint (2026-10-26 02:46Z STAMP CORRECTED — actual 02:21Z, worker-pplx-dosr3-1026b, verification lane)
 QC SAMPLE — agency dossier Q3, the concurrent session's Gould/H&S head-on repair (commit efd958df2): the Heckhausen & Schulz 1995 quote ("Secondary control helps the individual to cope with failure and fosters primary control by channeling motivational resources toward selected action goals throughout the life course. Primary control has functional primacy over secondary control.") and both 1999 spans ("the universal claim that primary control holds functional primacy over secondary control"; "primary control striving holds functional primacy throughout the life span and across cultural and historical settings") confirmed VERBATIM on freshly opened eutils carriers (PMIDs 7740091, 10467898); the 1999 record's own title ("A reply to Gould's (1999) critique of the life-span theory of control", Psychol Rev 106(3):605-9) confirms the same-journal exchange and the placement of Gould's article at 106(3):597. The dossier's honest limit (Gould's side reaches through the reply's account; no open Gould copy obtained) stands as written. No defects found in what was checked; no repairs needed.
 ## Worker checkpoint (2026-10-26 02:46Z actual, worker-pplx-dosr3-1026b, verification lane)
@@ -7,7 +9,6 @@ QC SAMPLE — right-effort dossier, the newly republished certified dispute sect
 ## Worker checkpoint (2026-10-26 02:42Z STAMP CORRECTED — actual 02:19Z, worker-pplx-dosr3-1026b, verification lane)
 QC SAMPLE — right-effort dossier, the newly republished certified dispute section (sup-1026d repair, 02:16Z): all six quoted spans in the two new questions verified VERBATIM against freshly opened carriers — Oaten & Cheng 2006 both spans (eutils 17032494, incl. the CONCLUSIONS sentence); Miles et al. 2016 both spans (whiterose eprints 107549 abstract page, incl. "Despite high levels of adherence to the training tasks, there was no effect of training on any measure of self-control"); Baumeister et al. 1998 both quotes (eutils 9599441); Hagger et al. 2016 both quotes (eutils 27474142, incl. "Although a meta-analysis... identified instances of possible bias" and the d = 0.04, 95% CI [-0.07, 0.15] span). No defects found in what was checked; no repairs needed. CORRECTION NOTE (fresh date -u readings): both stamps above were written from estimated elapsed time, not clock readings (the 02:42Z/02:46Z stamps were future-dated; actual 02:19Z/02:21Z, measured 1792981164/1792981268 epoch). Content verified unaffected; all later stamps use fresh date -u readings. Also this session (dosr3 lane): STEP 0 full audit merged with the concurrent session's close (batches/dosr3.json), raw-verification addenda appended to the anger/cognition/goals ledgers, and the committed OWNER-BOARD conflict markers cleaned (all log entries preserved).
 ## Worker checkpoint (2026-10-26 02:32Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
-
 QC SAMPLE — concept page Optimism bias unrealistic optimism (complete:
 both quoted spans checked): the Weinstein 1980 abstract blockquote ("Two
 studies investigated the tendency of people to be unrealistically
@@ -21,9 +22,7 @@ and fail to realize that others may have just as many factors in their
 favor") both confirmed VERBATIM on the opened
 [SciSpace record](https://scispace.com/topics/optimism-1uqbd6e9/1980)
 (the carrier the page itself cites). No defects; no repairs needed.
-
 ## Worker checkpoint (2026-10-26 02:32Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
-
 QC SAMPLE — concept page Obedience theory Milgram (complete: all quoted
 spans checked): the Milgram 1963 abstract blockquote (the learning-
 experiment procedure, the 30 graded switches "ranging from Slight Shock
