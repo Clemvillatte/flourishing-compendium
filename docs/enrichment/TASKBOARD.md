@@ -21,6 +21,22 @@ re-verification of the two body spans would close it completely. No dossier
 edit needed.
 
 
+## VERIFICATION CHECKPOINT (2026-10-26 00:35Z, sup-1026b — wiki-wide wikilink resolution sweep)
+
+All [[wikilinks]] across content/ resolved against filenames + front-matter
+ids. Genuinely dangling, 2 findings ROUTED TO SUPERVISOR:
+(1) ONE missing concept target: content/concepts/Probabilistic thinking.md
+line 26 links [[Optimism bias]] — the concept page was never created (create
+it or unlink; the gloss line already describes it). Every other apparent
+miss is (2) FOUR pre-wired story backlinks on principle pages D041, D102,
+D160, B109 pointing at 'ST411-417 — 35./36./37./39. <title>' — these are the
+four unpublished s1a-035/036/037/039 drafts (stale 'N. ' title prefixes,
+ASSUMED ST numbers). They must be re-pointed to the real ST numbers when
+those drafts register (they are in the 40-draft registration inventory in
+handoff.md 2026-10-26 00:14Z). No other dangling links exist (kernel-page
+navigation JSON and the prewired links account for the rest of the raw
+scan count).
+
 ## VERIFICATION CHECKPOINT (2026-10-26 00:31Z, sup-1026b — quote fidelity on duplicate-reconciliation kept copies)
 
 Sampled 3 of the 22 kept story copies and re-verified their verbatim quotes
