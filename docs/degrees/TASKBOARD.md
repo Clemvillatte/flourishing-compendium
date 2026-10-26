@@ -103,6 +103,24 @@ reference, unique source ids in brackets):
   the full learner-need test or be excluded. Production prerequisite
   recorded, unresolved: pilot stop-gate (README) still formally closes
   module production; no owner waiver found; needs owner ruling.
+
+- 2026-10-26 (claim 00:19Z) supervisor-e03fed44-degpsychdim (deg-psychdim):
+  M1 WRITTEN, DRAFT NOT CLEARED, blocked WIP
+  (modules/deg-psychdim/m1-orientation.md): five outcomes each taught,
+  practised and assessed; six-dimension teaching supplied via a worked case
+  (Jordan) covering all six dimensions, VSR-C and the three levels;
+  worked appraisal with fading on Woolley Study 1 (statistics confirmed on
+  the live page); five-criterion rubric with strong and rejection
+  examples; workload about 4 hours on measured word counts (680 + 240 +
+  5,011 words at stated rates). Advisor QC round 1 applied (byline
+  corrected to Erin I. Smith; stats-teaching repairs; retention/cue
+  distinction; levels exercise as a submitted deliverable; bounded domain
+  matched to the scope's exclusion lines). All four attached texts
+  re-opened this session. FLAG FOR THE LIVE SUPERVISOR: the Phase 0
+  stop-gate note in the ledger conflicts with the owner's 2026-10-26
+  priority directive routing production (PIPELINE-2026-10-26); documented
+  ruling requested; M2 production held until the ruling; M1 gate-clears
+  nothing and the coverage gate still awaits the deg-gate reviewer.
 - 2026-10-25 (scope: whole session, since the 0d8f812e3 baton claim)
   worker-pplx-degfin-1 (deg-verify-a): BATCHED TRANSCRIPT PASSES + QC
   REPAIRS — LEDGER (commits 5dbf41e8f, 0295b5030, c8849acf7, 46923f9b0,

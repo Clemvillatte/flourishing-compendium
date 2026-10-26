@@ -49,6 +49,55 @@ v1 (commit 428a86b0), v2 and the v2.1 addendum (commits a7b746478 and
   perception row was synchronized with the scope summary and the M3
   exit capability.
 
+## Module production (2026-10-26)
+
+m1-orientation (docs/degrees/modules/deg-psychdim/m1-orientation.md) is
+WRITTEN and pushed as DRAFT, NOT CLEARED; blocked WIP. Constructive
+alignment per the skill: five outcomes, each taught, practised and
+assessed; worked appraisal with fading on Woolley Study 1; rubric with
+strong and rejection examples per criterion; workload arithmetic on
+measured word counts (assigned excerpt 680 words Hofmann and Hayes 2024,
+section 1.4 240 words Maitland 2024, Noba about 5,011 words; total about
+4 hours). Advisor QC round 1 applied (full ruling recorded in the session
+log): byline corrected to Erin I. Smith (confirmed on the module page);
+the p-value/sample-size teaching error and the unsupported "small to
+medium" effect gloss removed (the coefficients are cross-lagged panel
+coefficients from the paper's multilevel structural equation model, and
+the module now says so); the CI-overlap teaching replaced with the
+authors' own interpretation, attributed; the 577-completers analysis now
+described as a sensitivity check on drop-out; the six-dimension teaching
+supplied via a fully worked case (the Jordan case) covering all six
+dimensions, VSR-C and the three levels, so the module no longer assesses
+what it does not teach; retention/cue distinction fixed in the worked
+example and rubric; levels exercise made a submitted deliverable with its
+own criterion; the bounded-domain paragraph matched to the scope doc's
+exclusion lines (contemplative science admissible for affect, self and
+motivation where an opened source speaks to them); workflow language
+moved off the learner-facing prose where the pilot format allowed.
+
+STOP-GATE CONFLICT (flagged to the live supervisor for a documented
+ruling, 2026-10-26): the Gap register below still records that the
+Phase 0 pilot stop-gate blocks module production; the owner's 2026-10-26
+priority directive (four degrees online and qualitative, one by one,
+psychdim first) and the supervisor-authored PIPELINE-2026-10-26 route
+module production for this degree now. Per degrees/OPERATIONS.md the
+conflict is flagged here and in commit messages, never resolved
+silently; the degree owner's production work is WIP that does not
+gate-clear anything. The theory pilot mod-phil-1 has passed its advisor
+final review; the practice pilot is parked by the owner (no Qi Gong
+work today). The coverage gate still awaits independent confirmation
+(the deg-gate reviewer holds that review as of 2026-10-26).
+
+Sources opened this session (2026-10-26, all raw fetches, free access;
+word counts measured for the assigned segments):
+
+| URL | by | what it verified |
+|---|---|---|
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC11303929/ | supervisor-e03fed44-degpsychdim | Hofmann and Hayes 2024 re-opened; assigned excerpt (opening highlights through the EEMM paragraph end) measured at 680 words; EEMM six-dimension passage confirmed verbatim on the live page |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/ | supervisor-e03fed44-degpsychdim | Maitland 2024 section 1.4 re-opened and re-read; 240 words measured; VSR-C passage confirmed |
+| https://nobaproject.com/modules/thinking-like-a-psychological-scientist | supervisor-e03fed44-degpsychdim | Noba module re-opened; byline Erin I. Smith, California Baptist University, confirmed on the module page; body measured at about 5,011 words; scientific-versus-everyday-reasoning section read |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/ | supervisor-e03fed44-degpsychdim | Woolley, Giurge and Fishbach 2025 re-opened; Study 1 statistics confirmed on the live page (beta 0.216 SE 0.03 z 6.95 p < .001 CI [0.13, 0.30]; beta 0.099 SE 0.03 z 3.00 p = .003 CI [0.04, 0.20]; beta 0.080 SE 0.03 z 2.36 p = .019 CI [0.01, 0.15]; N 2,000 MTurk US; n 577 completers; cross-lagged panel models within multilevel structural equation modeling); the authors' overlapping-CI interpretation confirmed |
+
 ## Sources opened
 
 All URLs opened in-session on 2026-10-25 by worker-pplx-psychdim-1 unless
