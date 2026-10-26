@@ -1168,7 +1168,6 @@ production ruling (first-landed sequence is canonical):
   (3) the transcript service remains bot-walled from fetcher,
   sandbox and cloud browser (detail above), corroborating the
   canonical m4's decision to rest on standing receipts.
-=======
 
 ## m4 advisor QC round 1 — RETURNED, repairs applied (2026-10-26, supervisor-pplx-1026c-daoism)
 
