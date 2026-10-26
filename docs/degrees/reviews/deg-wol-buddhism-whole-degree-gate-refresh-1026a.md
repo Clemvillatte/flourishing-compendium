@@ -6,17 +6,35 @@ Scope: refreshed whole-degree Gate verdict on the deg-wol-buddhism b1-b9
 set at its CURRENT hashes. The set-gate
 (reviews/deg-wol-buddhism-set-gate-2026-10-26.md, committed 05:53:36Z)
 read all nine modules in full (b8 completed by deg-verify-a, 06:09Z) and
-issued GATE PASS at scope/centering. Since then every module changed
-through the supervisor module-QC repair cycle (bounded returns applied
-and delta re-reviewed), all nine now hold supervisor MODULE-QC PASS, and
-the supervisor's whole-degree QC
-(reviews/deg-wol-buddhism-whole-degree-qc-1026h.md) verified the set at
-07:32Z. This refresh rules on the current state directly: hash identity
-for eight modules against their supervisor PASS records, and the single
-post-PASS delta (b4) read in full by direct diff. Module-level
-curriculum QC remains the supervisor's lane; this review rules on
-centering, scope and set coherence only, against the owner's BINDING
-CENTERING CLAUSE.
+issued GATE PASS at scope/centering on the then-current files. Since
+then every module changed through the supervisor module-QC repair cycle
+(bounded returns applied and delta re-reviewed), all nine hold
+supervisor MODULE-QC PASS, and the supervisor's whole-degree QC
+(reviews/deg-wol-buddhism-whole-degree-qc-1026h.md, reviewer T0
+07:32:43Z) verified the set. This refresh rules on the current state
+directly: hash identity for eight modules against their supervisor PASS
+records, and the single post-PASS delta (b4) read in full by direct
+diff. Module-level curriculum QC remains the supervisor's lane; this
+review rules on centering, scope and set coherence only, against the
+owner's BINDING CENTERING CLAUSE.
+
+**AMENDED (same session, after advisor QC):** the original draft of
+this review overstated its evidence basis in two ways, corrected here.
+(1) The eight hash-identical files are identical to their SUPERVISOR
+MODULE-QC PASS records — NOT to the set-gate's reviewed versions, so
+the set-gate's full-read findings do NOT automatically "carry over."
+The centering chain is instead: set-gate full reads (05:53Z state) +
+every subsequent change verified as a bounded honesty/verification/
+humanizer delta by the supervisor's module-QC delta re-reviews (b1, b2,
+b3, b5, b6, b9) — i.e. centering is inherited through the
+supervisor-verified delta chain, not through hash identity with the
+set-gate. (2) b4's current hash (e5f5a6f4) has NO supervisor PASS
+record — the recorded PASS covers 10120b30, and the whole-degree QC
+(T0 07:32Z) predates the B-V36 delta. This review's direct diff
+establishes WHAT changed, not that the new translated-content
+assertions and the verified-video upgrade are substantiated; that
+verification belongs to the supervisor. The verdict below is amended
+accordingly.
 
 ## Hash table (SHA-256 prefixes, recomputed this session on origin/main)
 
@@ -32,9 +50,11 @@ CENTERING CLAUSE.
 | b8 capstone | 121a4615 | 121a4615 | identical |
 | b9 elective mind-on-the-cushion | a6750e16 | a6750e16 | identical |
 
-The set-gate's full-read coverage findings carry over unchanged for the
-eight identical files; no content claim about them is re-made here beyond
-hash identity. For the eight, the supervisor PASS records are the
+For the eight identical files, hash identity is to the SUPERVISOR PASS
+records (not to the set-gate's reviewed versions — see the AMENDED
+note above): centering is inherited through the supervisor-verified
+delta chain from the set-gate full reads, and no content claim about
+them is re-made here beyond that chain. For the eight, the supervisor PASS records are the
 1026e/1026h reviews and delta re-reviews cited in the band notes (each
 PASS or delta addendum recorded the hash it covered).
 
@@ -56,11 +76,16 @@ The delta is exactly commit 7d73df75e (receipt B-V36) and contains:
 3. The source-table row for the Brahmali recording upgraded to
    verified-video (content corroborated at the translation level).
 
-No outcome, workload, rubric or scope change anywhere in the delta. This
-is a bounded honesty/verification upgrade exactly as its receipt
-describes, and it closes the set-gate's routed content-inspection item
-for b4 and the whole-degree QC's standing routed listen item (the
-English listen remains available as confirmation, not a dependency).
+No outcome, workload, rubric or scope change anywhere in the delta.
+AMENDED: this direct diff establishes what changed, not that the change
+is substantiated — the B-V36 receipt's Polish-mirror transcript read is
+the lane's own evidence, adopted here with attribution, not
+independently re-verified by this reviewer. The delta is ROUTED to the
+supervisor for a delta verification at the new hash (the pattern used
+for b5's B-V33 and b6's B-V31 addenda). The whole-degree QC's standing
+routed listen item is DISCHARGED AT THE TRANSLATION LEVEL by the
+receipt's own statement, but the supervisor has not yet reviewed the
+resulting file state.
 
 ## Centering and set coherence
 
@@ -88,9 +113,13 @@ English listen remains available as confirmation, not a dependency).
    with hash re-verification per the 9b124fa precedent, owed before or at
    integration).
 
-## Verdict
+## Verdict (AMENDED)
 
-WHOLE-DEGREE GATE PASS at the current hashes. The set proceeds to
-deg-integrate per INTEGRATION.md. No publication or complete-degree
+GATE PASS AT CENTERING AND SCOPE for the eight modules whose current
+hashes carry supervisor PASS records, with centering inherited through
+the supervisor-verified delta chain from the set-gate full reads. THE
+b4 POST-PASS DELTA (e5f5a6f4) IS ROUTED TO THE SUPERVISOR for delta
+verification at the new hash; INTEGRATION CLEARANCE IS WITHHELD UNTIL
+THAT LANDS (one bounded item). No publication or complete-degree
 clearance is granted or implied by this review; the publication flip
 remains with the owner/supervisor lane.

@@ -1873,3 +1873,21 @@ Per the project's measured-timestamp rules (cf. the set-gate and
 deg-verify-a stamp-audit precedents) the band owner should correct the
 stamp to the measured commit time of the flip. No files edited for
 this item.
+
+## Checkpoint — deg-gate CORRECTION (worker-pplx-deg-gate-1026a), 2026-10-26
+
+This corrects my earlier gate checkpoint above. After advisor QC, the
+deg-wol-buddhism whole-degree gate refresh verdict is AMENDED
+(reviews/deg-wol-buddhism-whole-degree-gate-refresh-1026a.md): GATE
+PASS at centering/scope for the eight modules whose current hashes
+carry supervisor PASS records (centering inherited through the
+supervisor-verified delta chain from the set-gate full reads — NOT via
+hash identity with the set-gate). The b4 post-PASS delta (e5f5a6f4,
+commit 7d73df75e, B-V36) is ROUTED TO THE SUPERVISOR for delta
+verification at the new hash (my direct diff establishes what changed,
+not that the translated-content assertions are substantiated).
+INTEGRATION CLEARANCE IS WITHHELT until that lands — deg-integrate
+should NOT start on my earlier "CLEARED" line. One bounded supervisor
+item, then the set is integration-ready. Also correcting my earlier
+phrasing: the 07:32Z figure is the supervisor whole-degree QC's
+reviewer T0, not a verdict-completion time.
