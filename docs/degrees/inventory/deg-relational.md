@@ -22,7 +22,7 @@ Supplementary (searched, not opened as syllabi): a Bennington College "From the 
 
 ## Topic map (union of the five syllabi, organized as a coherent walk)
 
-The five syllabi (three Ubuntu/African-relational + two Levinas/care-ethics) agree on a shared spine: morality begins in the encounter with the other person, not in abstract rules. The Ubuntu syllabi (SOAS, Oakton, St. Gallen) provide the African-relational core; the Toronto Metropolitan PH8121 (Levinas/Derrida) and PH8112 (care ethics) provide the European-continental and feminist-relational cores. The D1 map below integrates all three traditions as one coherent relational-ethics walk, per the centering clause.
+**PROPOSED CURRICULUM SYNTHESIS (not a claim that the five syllabi agree):** the Ubuntu syllabi (SOAS, Oakton, St. Gallen) provide the African-relational core; the Toronto Metropolitan PH8121 (Levinas/Derrida) and PH8112 (care ethics) provide the European-continental and feminist-relational cores. The D1 map below is a PROPOSED synthesis that integrates these three traditions into one coherent relational-ethics walk — the syllabi do not themselves state this synthesis, and the differences among the three traditions (Ubuntu's communal personhood, Levinas's asymmetric face-to-face obligation, care ethics' critique of abstract principle) are real and are taught, not erased. The D2 checkpoint must rule on whether this synthesis is the right degree shape.
 
 ### A. Orientation — what is relational philosophy?
 - Is there African philosophy? (the colonial question) [Oakton topic 1-2]

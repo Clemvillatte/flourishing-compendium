@@ -4,7 +4,6 @@
 **Built**: 2026-10-26 (T0 13:04:18 UTC)
 **Status**: D2 candidate pool — **DRAFT / QC PENDING** (advisor QC found defects; corrections landing). The hours arithmetic below is a candidate estimate, NOT a measured instruction-time claim — HOURS NOT YET ESTABLISHED. The mandatory D2 checkpoint must approve this pool before any Phase D3 work.
 **VERIFICATION-STATUS KEY** (narrowed per advisor QC): DRAFT (no credential page opened), CREDENTIALS-VERIFIED (an institutional biography page was successfully fetched and credentials logged — verifies credentials ONLY), or FULLY-VERIFIED (credentials + open access + coverage + duration all checked). No candidate in this pool is FULLY-VERIFIED yet.
-**Status**: D2 candidate pool — DRAFT. Every row below is a CANDIDATE for D2 verification, not yet verified to the skill standard. The mandatory D2 checkpoint must approve this pool before any Phase D3 work.
 **Scope**: per docs/degrees/CURRICULUM-ARCHITECTURE-1026.md — the D2 pool must fill the D1 coverage matrix with verified open resources; the hours arithmetic must support ≥6h × ≥10 modules.
 
 ## Centering clause (owner 2026-10-26)

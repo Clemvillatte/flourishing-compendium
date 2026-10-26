@@ -4,7 +4,6 @@
 **Built**: 2026-10-26 (T0 13:04:18 UTC)
 **Status**: D2 candidate pool — **DRAFT / QC PENDING** (advisor QC found defects; corrections landing). The hours arithmetic below is a candidate estimate, NOT a measured instruction-time claim — HOURS NOT YET ESTABLISHED. The mandatory D2 checkpoint must approve this pool before any Phase D3 work.
 **VERIFICATION-STATUS KEY** (narrowed per advisor QC): DRAFT (no credential page opened), CREDENTIALS-VERIFIED (an institutional biography page was successfully fetched and credentials logged — verifies credentials ONLY), or FULLY-VERIFIED (credentials + open access + coverage + duration all checked). No candidate in this pool is FULLY-VERIFIED yet.
-**Status**: D2 candidate pool — DRAFT. Every row below is a CANDIDATE for D2 verification, not yet verified to the skill standard. The mandatory D2 checkpoint must approve this pool before any Phase D3 work.
 **Scope**: per docs/degrees/CURRICULUM-ARCHITECTURE-1026.md — the D2 pool must fill the D1 coverage matrix with verified open resources; the hours arithmetic must support ≥6h × ≥10 modules.
 
 ## Centering clause (owner 2026-10-26)
@@ -60,18 +59,19 @@ All candidates are DRAFT until D2 verification (open-access check + instructor c
 ### mod-rel-13 — Ubuntu and intergenerational justice, migration
 - **Behrens's Journal of Global Ethics article** — open-access check at D2.
 
-### mod-rel-14 — Capstone
-- **No dedicated open capstone found this session.** The capstone must be built from the degree's own material per the spec's capstone rule.
+### mod-rel-14 — Levinas — phenomenological context (Husserl, Heidegger)
 
-### mod-rel-15 — Levinas — phenomenological context; Totality and Infinity
-- **Toronto Metropolitan University PH8121 syllabus (Prof. John Caruana)** — https://www.torontomu.ca/content/dam/philosophy/courses/PH8121-Recent-Continental-Philosophy.pdf — open access (the syllabus PDF itself is on the university's site). Covers: Levinas's phenomenological context, Totality and Infinity I-IV with exact TI page ranges. **CREDENTIALS-VERIFIED (this session): Caruana's TMU faculty page (https://www.torontomu.ca/philosophy/faculty-staff/caruana-john/) was successfully fetched — Associate Professor, Department of Philosophy, BA McGill, MA, PhD York University; the TMU graduate-courses page confirms he teaches PH8121 in Fall 2026. NOTE: this verifies credentials and the syllabus's openness, NOT the primary text's openness — Totality and Infinity (Duquesne UP) is a paid book.**
+### mod-rel-15 — Totality and Infinity I-IV (the face, exteriority, dwelling, eros)
+- **Toronto Metropolitan University PH8121 syllabus (Prof. John Caruana)** — https://www.torontomu.ca/content/dam/philosophy/courses/PH8121-Recent-Continental-Philosophy.pdf — open access (the syllabus PDF itself is on the university's site). Covers: Levinas's phenomenological context, Totality and Infinity I-IV with exact TI page ranges. **CREDENTIALS-VERIFIED (this session): Caruana's TMU faculty page (https://www.torontomu.ca/philosophy/faculty-staff/caruana-john/) was successfully fetched — Associate Professor, Department of Philosophy, BA McGill, MA, PhD York University. NOTE: the TMU graduate-courses page's Fall 2026 attribution is from a search snippet, not a successful fetch — removed. This verifies credentials and the syllabus's openness, NOT the primary text's openness (Totality and Infinity, Duquesne UP, is a paid book) and NOT the course's own accessibility as a teaching resource (the syllabus is a PDF, not a video course).**
 - **Stanford Encyclopedia of Philosophy — Levinas** — https://plato.stanford.edu/entries/levinas/ — open access. **Verify at D2: SEP editorial policy.**
 
-### mod-rel-16 — Derrida's critique; later Levinas; Derrida on justice, hospitality, forgiveness
+### mod-rel-16 — Derrida's critique (Violence and Metaphysics); later Levinas (God and Philosophy, Substitution)
+
+### mod-rel-17 — Derrida on justice, hospitality, ethical singularity, forgiveness
 - **Toronto Metropolitan University PH8121 syllabus (Caruana)** — weeks 6-12 (Derrida's "Violence and Metaphysics", later Levinas, Derrida on justice, hospitality, ethical singularity and forgiveness).
 
 ### mod-rel-18 — Gilligan, Noddings, Ruddick (care ethics foundations)
-- **Toronto Metropolitan University PH8112 syllabus (Meredith Schwartz)** — https://www.torontomu.ca/content/dam/philosophy/courses/PH8112-Feminist-Philosophy.pdf — open access (the syllabus PDF is on the university's site). Covers: Gilligan's In a Different Voice, Noddings's Caring, Ruddick's Maternal Thinking, with page counts. **CREDENTIALS-VERIFIED (this session): Schwartz's Trudeau Foundation profile (https://www.trudeaufoundation.ca/directory/meredith-schwartz/) was successfully fetched — Assistant Professor, Philosophy, Toronto Metropolitan University (Ryerson University); PhD Dalhousie 2011 (per Dalhousie's PhD alumni page). NOTE: the PH8112 syllabus is from Winter 2012, when Schwartz was on the Ryerson faculty; the degree must cite the syllabus's date accurately. Gilligan's In a Different Voice, Noddings's Caring and Ruddick's Maternal Thinking are all paid books — open alternatives must be found at D2.**
+- **Toronto Metropolitan University PH8112 syllabus (Meredith Schwartz)** — https://www.torontomu.ca/content/dam/philosophy/courses/PH8112-Feminist-Philosophy.pdf — open access (the syllabus PDF is on the university's site). Covers: Gilligan's In a Different Voice, Noddings's Caring, Ruddick's Maternal Thinking, with page counts. **CREDENTIALS-VERIFIED (this session): Schwartz's Trudeau Foundation profile (https://www.trudeaufoundation.ca/directory/meredith-schwartz/) was successfully fetched — Assistant Professor, Philosophy, Toronto Metropolitan University (Ryerson University). (The Dalhousie-PhD-2011 attribution was removed — it came from a search snippet, not a successful fetch of Dalhousie's page.) NOTE: the PH8112 syllabus is from Winter 2012, when Schwartz was on the Ryerson faculty; the degree must cite the syllabus's date accurately. Gilligan's In a Different Voice, Noddings's Caring and Ruddick's Maternal Thinking are all paid books — open alternatives must be found at D2.**
 
 ### mod-rel-19 — Critics of care ethics; Tronto's Moral Boundaries
 - **Toronto Metropolitan University PH8112 syllabus (Schwartz)** — weeks 3-9 (Card, Hoagland, Moody-Adams, Narayan, Levin; Tronto's Moral Boundaries with page counts).
@@ -87,7 +87,7 @@ All candidates are DRAFT until D2 verification (open-access check + instructor c
 
 - **The canonical primary texts are paid books**: Ramose's African Philosophy through Ubuntu (Mond Books, 1999), Shutte's Ubuntu (Cluster Publications, 2001), Tutu's No Future Without Forgiveness (Random House, 1999), Gade's Discourse on African Philosophy (Lexington Books, 2017), Gyekye's Essay on African Philosophical Thought (Temple UP, 1995). The D2 pool must lean on open-access journal articles (Metz, Ratele, Nwoye, Behrens), the CRVP open book, the SEP entry, and open repositories (UWC Scholar, scielo.org.za, polylog.org). Any row that cannot be filled openly is reported, not padded.
 - **The mod-rel-6 Yorùbá row** may be hard to fill openly; Hallen and Sodipo's primary texts are paid. Report if unfillable.
-- **The mod-rel-14 capstone row**: must be built from the degree's own material.
+- **The mod-rel-21 capstone row**: must be built from the degree's own material.
 
 ## D2 checkpoint handoff
 
