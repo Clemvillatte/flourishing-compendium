@@ -21,7 +21,7 @@ coverage-matrix:
     carried-by: "para 1, first sentence (still-water quote)"
     supported-by: "Zhuangzi V, Legge"
   - facet: "the mirror-mind defined (D037)"
-    carried-by: "para 1, second sentence (perfect-man-mirror quote, including "a pure vacancy (of all purpose)")"
+    carried-by: "para 1, second sentence (perfect-man-mirror quote, including 'a pure vacancy (of all purpose)')"
     supported-by: "Zhuangzi VII §6, Legge"
   - facet: "NOT CARRIED: fasting of the mind (D046) and the empty room (D049) — these belong to other passages (s1a-081's chapter); retain/remove ROUTED"
     carried-by: "none"

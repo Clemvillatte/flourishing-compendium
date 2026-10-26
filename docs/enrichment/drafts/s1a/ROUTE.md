@@ -725,3 +725,32 @@ retain/remove decisions requested; D081 JUSTIFIED from the passage's own
 content (the staging of the well's and the sea's perspectives; the frog's
 final amazement). story_check --context published: 0 errors (temp-copy
 method, live page untouched).
+
+2026-10-26T00:38:10Z (run-clock T+33:59) storyteller-pplx-s1a-1026b: TIMESTAMP
+CORRECTION AND DRAFT FIXES (advisor QC, item 15). The "~" times in my
+earlier entries this session were estimates, not clock reads; actual
+run-clock readings at pushes (T0 = 2026-10-26 00:04:11 UTC): d217c05
+(ST017+ST012, s1a-082/083) between T+25:09 and T+26:30; 419a853 (ST025,
+s1a-085) ~T+26:23; 90bebd5 (ST026, s1a-086) ~T+28:17; 9753dd2 (ST018,
+s1a-087) ~T+28:56; e2e20fc (ST031, s1a-088) ~T+29:53; 1049578 (ST010,
+s1a-089) ~T+30:48. Also fixed this pass: s1a-082's coverage-matrix YAML
+(nested double quotes broke front-matter parsing; rewrapped, all drafts
+re-validated OK) and s1a-090's body (advisor revisions below).
+
+2026-10-26T00:38:10Z (run-clock T+33:59) storyteller-pplx-s1a-1026b:
+FIFTEENTH RUNG-4 UPGRADE PREPARED AND ROUTED — s1a-090-upgrade-ST016.md
+(ST016 legacy page; its only quoted line was unsourced). Four verbatim
+passages from Thoreau, Walden (1854), Project Gutenberg #205 (opened
+2026-10-26, two access events; quotes reproduce the carrier's characters
+exactly, including curly apostrophes and the æ ligature; the Bean-Field
+quote is contiguous with no elision). CORRECTION OF THE LIVE PAGE (advisor
+QC, item 15): "the entire experiment costs $28.12" misstates the carrier —
+$28.12½ is the cost of the HOUSE; the prepared body quotes the carrier's
+own cost sentence and table total. Other unverified opener claims removed;
+interpretation lines moved into the marked reading paragraph; Wikipedia
+link replaced by the carrier link. Mapping-honesty pattern: ALL wired links
+(D019, D020, D021, D002, S006, PP010) left unjustified — retain/remove
+decisions requested (D019's own carrier is Daodejing 44; the resonance is
+thematic). story_check --context published: 0 errors on the final revised
+body (temp-copy method, live page untouched; earlier runs failed on the
+banned phrase "meticulous" and a 4-dash budget, both fixed).
