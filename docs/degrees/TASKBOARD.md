@@ -21,14 +21,15 @@ integrate, publish. THIS IS THE CLOSING WAVE.
 
 Per-degree remaining items (from the supervisor's reviews and release lines):
 
-- deg-psychdim (CLOSEST — first degree online): ALL MODULES PASS (supervisor
-  1026h, T0 07:32:43Z). M4 window flag closed by verification decision
-  (verify/deg-psychdim-m4-window-supervisor-decision-1026h.md, independent
-  snippets-reader retrieval, continuous 2846-3293s confirmed); M5/M6 delta
-  reviews pass 2 issued (reviews/deg-psychdim-m5-delta-supervisor-2026-10-26.md,
-  reviews/deg-psychdim-m6-delta-supervisor-2026-10-26.md; M6 supervisor review
-  is the QC of record per the documented adviser-credit precedent). Band flipped
-  to qc_complete. Whole-degree QC next, then publication via deg-integrate.
+- deg-psychdim (CLOSEST — first degree online): ALL MODULES PASS and
+  WHOLE-DEGREE QC PASS (supervisor 1026h; review
+  deg-psychdim-whole-degree-qc-1026h.md). Band qc_complete; module README
+  updated to qc-complete state (ee6d7b9); module files untouched at QC
+  hashes. REMAINING: deg-gate whole-degree gate review (scope/centering;
+  independent of the module-QC chain), then deg-integrate attach + tests +
+  deploy QA, then supervisor publication flip. Nonblocking flag: stale
+  DRAFT-NOT-CLEARED STATUS comments in m2-m8 need a routed metadata repair
+  with hash re-verification (do not edit ad hoc).
 - deg-wol-daoism: m5 PASS; m1-m3 bounded returns (4 repairs each, lists in the
   band file); m4 two open items (whole-talk-vs-scope ruling, lecture-content
   re-verification via transcript route — the video re-verification
