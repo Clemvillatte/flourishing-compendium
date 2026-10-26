@@ -129,7 +129,10 @@ degree ledger.
 | Nyanaponika Thera, The Five Mental Hindrances and Their Conquest, https://accesstoinsight.org/lib/authors/nyanaponika/wheel026.html | verified (text) | 2026-10-26 (this session) | The Wheel No. 26, BPS 1993, © 1994; free redistribution license stated on the opened page; selected Pali canon texts and commentaries on each hindrance with countermeasures |
 
 No paywalled or app-gated content. Video-first policy applied: the
-talk carries the teaching; the BPS text is the canonical anchor.
+talk is the primary recording (verified metadata; its content claims
+bounded to the opened description); the BPS text, read in full this
+session, is the module's content-verified anchor — the hindrances
+list and countermeasures are carried by it.
 
 ## What this module does not do
 
