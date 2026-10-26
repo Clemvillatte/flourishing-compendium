@@ -1,0 +1,168 @@
+{
+  "degree": "deg-wellbeing",
+  "lane": "deg-arch-inventory-psychx4",
+  "owner": "worker-pplx-degarchpsych-1026a",
+  "built": "2026-10-26T13:20:00Z",
+  "phase": "D1 topic map \u2014 COMPLETE. D2 pool drafted (see the degree's -d2-pool.md); D2 checkpoint required before D3.",
+  "centering_clause": "Every topic must serve the value proposition \u2014 alleviate suffering, become wiser, genuinely flourish even when uncertain or overwhelmed \u2014 through the Walk of Life frame. When in doubt, exclude.",
+  "source_syllabi": [
+    {
+      "course": "PSYC 403 Flourishing (Positive Psychology)",
+      "institution": "University of Virginia (hosted at UPenn Positive Psychology Center)",
+      "instructor": "Jon Haidt",
+      "term": "Spring 2024",
+      "url": "https://ppc.sas.upenn.edu/sites/default/files/flourishingsyllabushaidt.pdf",
+      "opened_this_session": true
+    },
+    {
+      "course": "PSYC 3315 Positive Psychology",
+      "institution": "The University of Texas at Tyler",
+      "instructor": "Kristy Allen",
+      "term": "Spring 2026",
+      "url": "https://www.uttyler.edu/archive/syllabi/school-of-health-professions/psychology-and-counseling/spring-2026/psyc-3315-001-allen-spring2026.pdf",
+      "opened_this_session": true
+    },
+    {
+      "course": "PSY 2230 Positive Psychology: The Science of the Good Life",
+      "institution": "Cal Poly Pomona",
+      "instructor": "Course outline",
+      "term": "Current",
+      "url": "https://academic.cpp.edu/senate/docs/GE004189ref_2.pdf",
+      "opened_this_session": true
+    }
+  ],
+  "coverage_matrix": [
+    {
+      "topic": "What is positive psychology; PERMA",
+      "module": "mod-well-1",
+      "status": "design-existing, under-scaled"
+    },
+    {
+      "topic": "Hedonic vs eudaimonic wellbeing",
+      "module": "mod-well-1",
+      "status": "PARTIAL"
+    },
+    {
+      "topic": "Positive emotions; broaden-and-build",
+      "module": "mod-well-2",
+      "status": "design-existing, under-scaled"
+    },
+    {
+      "topic": "Positivity ratio; upward spirals",
+      "module": "mod-well-2",
+      "status": "MISSING"
+    },
+    {
+      "topic": "Neuroscience of positive affect",
+      "module": "mod-well-3",
+      "status": "MISSING"
+    },
+    {
+      "topic": "Flow and optimal experience",
+      "module": "mod-well-4",
+      "status": "MISSING"
+    },
+    {
+      "topic": "Character strengths and virtues (VIA)",
+      "module": "mod-well-5",
+      "status": "MISSING"
+    },
+    {
+      "topic": "Positive relationships; attachment and love",
+      "module": "mod-well-6",
+      "status": "MISSING"
+    },
+    {
+      "topic": "Empathy, compassion, altruism",
+      "module": "mod-well-6",
+      "status": "MISSING"
+    },
+    {
+      "topic": "Forgiveness and reconciliation",
+      "module": "mod-well-7",
+      "status": "MISSING"
+    },
+    {
+      "topic": "Meaning in life (coherence, purpose, significance)",
+      "module": "mod-well-8",
+      "status": "MISSING"
+    },
+    {
+      "topic": "Purpose \u2014 finding and following it",
+      "module": "mod-well-8",
+      "status": "MISSING"
+    },
+    {
+      "topic": "Wisdom and ancient traditions",
+      "module": "mod-well-9",
+      "status": "MISSING"
+    },
+    {
+      "topic": "Spiritual wellbeing and transcendence",
+      "module": "mod-well-9",
+      "status": "OPTIONAL"
+    },
+    {
+      "topic": "Resilience",
+      "module": "mod-well-10",
+      "status": "MISSING"
+    },
+    {
+      "topic": "Post-traumatic growth",
+      "module": "mod-well-10",
+      "status": "MISSING"
+    },
+    {
+      "topic": "Growth mindset",
+      "module": "mod-well-10",
+      "status": "PARTIAL"
+    },
+    {
+      "topic": "Mindfulness and MBSR",
+      "module": "mod-well-11",
+      "status": "MISSING"
+    },
+    {
+      "topic": "Gratitude practice",
+      "module": "mod-well-12",
+      "status": "MISSING"
+    },
+    {
+      "topic": "Self-compassion",
+      "module": "mod-well-12",
+      "status": "MISSING"
+    },
+    {
+      "topic": "Savoring",
+      "module": "mod-well-12",
+      "status": "OPTIONAL"
+    },
+    {
+      "topic": "Positive psychology in education, health, workplace",
+      "module": "mod-well-13",
+      "status": "MISSING"
+    },
+    {
+      "topic": "Positive interventions \u2014 what works",
+      "module": "mod-well-13",
+      "status": "MISSING"
+    },
+    {
+      "topic": "Science of Well-Being synthesis (Santos)",
+      "module": "mod-well-14",
+      "status": "MISSING"
+    },
+    {
+      "topic": "Capstone \u2014 designing your flourishing life",
+      "module": "mod-well-15",
+      "status": "MISSING"
+    }
+  ],
+  "known_gaps": [
+    "Csikszentmihalyi's Flow primary text is a paid book; mod-well-4 needs an open alternative.",
+    "Coursera free-to-audit tier must be checked; the genuinely-open spine is Greater Good Science Center, Greater Good in Action, VIA, self-compassion.org and SEP.",
+    "Hours arithmetic: existing ~2.0 measured hours vs a >=100 floor."
+  ],
+  "d2_checkpoint_required": true,
+  "next_phase_owner": "The D2 agent fills this matrix with verified open resources and presents the D1 map + filled D2 matrix at the mandatory checkpoint."
+}
