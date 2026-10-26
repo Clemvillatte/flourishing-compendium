@@ -12438,7 +12438,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The Puggalavāda schools — the Vātsīputrīyas and Sammitīyas named in that record — affirmed a person that a modern account of the school describes as neither identical with the aggregates nor separate from them ([Wikipedia, Pudgalavāda](https://en.wikipedia.org/wiki/Pudgalavada)). The Theravādin's refutation concludes that the affirmation must be withdrawn: the person is not known as a real and ultimate fact. The disagreement is recorded as worth a whole chapter of the Abhidhamma's dispute book. The chariot story below (Nagasena and the chariot) carries the same issue in narrative form."
+          "x": "The Puggalavāda schools (the Vātsīputrīyas and Sammitīyas named in that record) affirmed a person that a modern account of the school describes as neither identical with the aggregates nor separate from them ([Wikipedia, Pudgalavāda](https://en.wikipedia.org/wiki/Pudgalavada)). The Theravādin's refutation concludes that the affirmation must be withdrawn: the person is not known as a real and ultimate fact. The disagreement is recorded as worth a whole chapter of the Abhidhamma's dispute book. The chariot story below (Nagasena and the chariot) carries the same issue in narrative form."
         },
         {
           "t": "p",
@@ -12463,11 +12463,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The logic is that anything produced is made, and a made self-nature is a contradiction in terms; Kalupahana's commentary on the chapter notes that in refuting substance Nāgārjuna relies on the Buddha's middle position, dependent arising — the same SN 12.15 middle quoted in the body above. Westerhoff's entry puts the Madhyamaka view of truth this way: \"there can be no such thing as ultimate truth, a theory describing how things really are, independent of our interests and conceptual resources employed in describing it\" ([SEP, Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/))."
+          "x": "The logic is that anything produced is made, and a made self-nature is a contradiction in terms; Kalupahana's commentary on the chapter notes that in refuting substance Nāgārjuna relies on the Buddha's middle position, dependent arising, the same SN 12.15 middle quoted in the body above. Westerhoff's entry puts the Madhyamaka view of truth this way: \"there can be no such thing as ultimate truth, a theory describing how things really are, independent of our interests and conceptual resources employed in describing it\" ([SEP, Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/))."
         },
         {
           "t": "p",
-          "x": "What the disagreement turns on is whether being produced by conditions excludes having a nature of one's own. The two sides answer with opposite verdicts, and the MMK's verses are addressed to the Abhidharma position as the entry records it. What remains unresolved is which side the sutta's own test — watching stress arise and pass — presupposes. The passages quoted here do not settle it."
+          "x": "What the disagreement turns on is whether being produced by conditions excludes having a nature of one's own. The two sides answer with opposite verdicts, and the MMK's verses are addressed to the Abhidharma position as the entry records it. What remains unresolved is which side the sutta's own test (watching stress arise and pass) presupposes. The passages quoted here do not settle it."
         },
         {
           "t": "h",
