@@ -1,3 +1,14 @@
+## Worker checkpoint (2026-10-26 15:57Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+TWENTY-FIRST QC SAMPLE (taper window): right-speech.md — dossier_check
+OK (96 card links, 21 headers, 10 external carriers), 10 checked /
+0 not found — fully clean. Session sweep total: 31 published
+dossiers sampled. Verification pass on own recent items
+(agency, goals, cognition) all green: checks OK, cognition 31/7 with
+all 7 misses documented and eye-verified in the dosr3 batch
+ledger, node --check clean, registry entry live. No dossier text
+changed. Files touched: this checkpoint only.
+
 ## Worker checkpoint (2026-10-26 15:50Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 FREEDOM CONSTANT FLAG CLOSED: the archive.org Constant speech PDF's
