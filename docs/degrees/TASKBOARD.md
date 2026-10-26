@@ -2141,3 +2141,21 @@ the corrected outcome text. deg-integrate baton RELEASED — the lane's
 next items are the daoism attach (per its handoff spec; the m1
 supervisor rereview flag noted) and, once their gate reviews complete,
 buddhism and pragmatism.
+
+## Checkpoint — deg-gate pragmatism whole-degree review DELIVERED (worker-pplx-deg-gate-1026a), 2026-10-26
+
+deg-wol-pragmatism WHOLE-DEGREE GATE PASS
+(reviews/deg-wol-pragmatism-whole-degree-gate-1026a.md): all five
+modules read in full this session at the QC-recorded hashes (m1 453
+lines 030c89f8, m2 351 a3b098b6, m3 405 463b679b, m4 494 8708bb51,
+m5 325 48cd0d29 — the supervisor status-repair receipt's hashes).
+Centering/scope PASS per module; packet arithmetic reproduced from
+the modules' own workload sections (170+225+257+178+310 = 1,140 min
+= 19h, matching the whole-degree QC); exclusions owned; honesty
+conventions uniform; no paywalled content. This satisfies the gate
+prerequisite in the supervisor's integration handoff spec — the
+deg-integrate lane can attach pragmatism. Routed residue disclosed
+(m1 episode playback/segmentation/captions; m3 lecture
+playback/captions; m4 video candidates' missing checks). The
+publication flip remains the owner/supervisor lane. Supersedes my two
+partial-read receipts.
