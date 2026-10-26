@@ -309,6 +309,12 @@ optional revisit, not required teaching. The m4 video candidates
 remain in the ledger, unverified, with the missing checks routed to
 the verifier lane.
 
+Independent corroboration: the deg-verify-b lane's receipt
+(docs/degrees/verify/deg-wol-pragmatism-m5-quotes-1026f.md, 2026-10-26)
+independently verified all four quoted passages character-for-character
+on sources it opened itself, and confirmed the maxim's absence from
+The Fixation of Belief; no defects were found.
+
 ## Alignment map
 
 | Outcome | Taught in | Practised in | Assessed in |

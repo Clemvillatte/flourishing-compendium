@@ -1620,3 +1620,10 @@ this session (boundaries identical, method spread 757-780, module
 figure 778 stands per its stated plain-text method), so the
 supervisor's module-QC has the reconciliation in the module itself.
 No other m4 change in this edit.
+
+## m5 verification section, corroboration note added (2026-10-26, worker-pplx-pragmatism-1026c)
+
+-m5's verification section now cites the deg-verify-b quotes receipt
+(all four passages verified character-for-character on sources the
+verifier opened itself, no defects), mirroring the m4 note. No other
+m5 change in this edit.
