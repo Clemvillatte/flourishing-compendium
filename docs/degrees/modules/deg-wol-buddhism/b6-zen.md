@@ -72,7 +72,7 @@ Linji, Entangling Vines and Dialogues in a Dream; resides at Tenryū-ji,
 Kyoto (credentials opened on the Society's series page).
 
 Watch in two stops (viewing stops, not content claims, since the
-page prints no chapter list): 0:00-0:44 and 0:44-1:28:04. Activity:
+page prints no chapter list): 00:00:00-00:44:00 and 00:44:00-01:28:04. Activity:
 one line per stop on the thread of the argument.
 
 ### Step 2 — Zen meditation, examined (~1 h 40 min, video, whole lecture, two viewing stops)
@@ -85,7 +85,7 @@ of meditation in Buddhism, which it describes as less extensive than
 one might expect.
 
 Watch in two stops (viewing stops, not content claims, since the page
-prints no chapter list): 0:00-0:50 and 0:50-1:40:17. Activity: after
+prints no chapter list): 00:00:00-00:50:00 and 00:50:00-01:40:17. Activity: after
 the Rinzai-Soto discussion, write the two approaches in two lines each,
 in your own words.
 
@@ -107,9 +107,10 @@ your log carries the reflection.
 ## Assessment
 
 1. The two-lines-each Rinzai/Soto statement (outcome 2).
-2. The test of the lecture's claim about meditation's place in
-   Buddhism against your own walk (outcome 3, ~200 words, citing your
-   own log entries).
+2. The claim-and-reflection piece (outcome 3, ~200 words): the
+   lecture's claim stated with the lecturer's evidence, then a
+   separate reflection paragraph citing two of your own log entries
+   as reflection, not as proof of the historical point.
 3. The Zen-informed sitting log line (outcome 4).
 4. A 200-word answer to outcome 1's suffering question as you now
    hold it (after the lecture, in your own terms).

@@ -13,12 +13,16 @@ The walk's school map ends with the two schools that rewrote Buddhism for
 the modern West: Insight Meditation (Vipassana as taught in the American
 Insight lineage) and Secular Buddhism. Each account is held to what its
 opened sources actually state: Fronsdal's course teaches mindfulness of
-breath and frames the four truths as tasks (the course's own transcripts
-and syllabus pages); Batchelor's lecture presents Buddhism as primarily
-an ethical, pragmatic project for human flourishing (the lecture's
-description on the opened page) and his official biography frames his
-teaching as tasks rather than beliefs. This module teaches both, then
-asks where you stand — comparing only positions each source states.
+breath (the Week 1 transcript, opened: talk of 10/3/07, CC BY-NC-ND
+3.0); Batchelor's lecture is presented on its opened page as primarily
+an ethical, pragmatic project for human flourishing (the lecture
+description), and his opened biography states his Tibetan monastic
+years and Son training under Kusan Sunim. This module teaches both,
+then asks where you stand — comparing only positions each opened
+source states. NOTE: an earlier draft used a four-truths-as-tasks
+comparison example; it was WITHDRAWN in verification (2026-10-26):
+neither the opened transcripts page nor Batchelor's opened biography
+states the tasks framing, so no such example is offered.
 
 ## Objectives
 
@@ -34,17 +38,16 @@ asks where you stand — comparing only positions each source states.
    instructions (transcript read, audio followed), for two logged
    sittings.
 2. State Batchelor's lecture in 200 words: what a secular Buddhism
-   keeps (ethics, meditation, the four truths as tasks), what it sets
-   aside, and what human flourishing has to do with it.
+   keeps, what it sets aside, and what human flourishing has to do
+   with it — each item stated from the lecture you watched, not from
+   this module's summary.
 3. Compare the two accounts on ONE named question that BOTH opened
-   sources actually address, for example the four-truths-as-tasks
-   frame (Fronsdal's course transcripts; Batchelor's biography). Any
-   other question (rebirth, awakening, the tradition's ultimate
-   purpose) may be used ONLY if you can cite the specific place in
-   each source where that position is stated; if a source does not
-   state it, the comparison question is not available. State where
-   they agree, where they disagree, and what turns on the
-   disagreement.
+   sources actually address, citing the specific place in each source
+   where the position is stated; if a source does not state it, the
+   comparison question is not available. No example question is
+   offered, because the earlier four-truths-as-tasks example failed
+   verification (see Walk context). State where they agree, where
+   they disagree, and what turns on the disagreement.
 4. Defend your own position in the comparison's terms (which account you
    would practice by, and why), against the strongest objection you can
    name from the other side.
@@ -95,7 +98,7 @@ South Korea under Kusan Sunim (credentials opened on his official
 biography page, https://stephenbatchelor.org/).
 
 Watch in two stops (viewing stops, not content claims, since the page
-prints no chapter list): 0:00-0:43 and 0:43-1:26:35. Activity: one line
+prints no chapter list): 00:00:00-00:43:00 and 00:43:00-01:26:35. Activity: one line
 per stop on the thread of the argument as you heard it.
 
 ### Step 3 — The comparison (the module's core, ~45 min)
@@ -109,9 +112,10 @@ answer to it.
 ## Practice
 
 Two logged Insight-course sittings (Step 1) continue the b4 habit; the
-comparison work is the module's analysis. If the four-truths-as-tasks
-question is chosen, return to your b2 worksheet: your own four-tasks run
-is evidence in this comparison.
+comparison work is the module's analysis. If your chosen comparison
+question touches the four truths, return to your b2 worksheet: your own
+four-tasks run is reflection material for your side of the comparison,
+carried by the sources you cite under outcome 3's rule.
 
 ## Assessment
 

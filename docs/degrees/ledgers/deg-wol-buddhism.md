@@ -546,3 +546,54 @@ the moment of repair, not projected):
   bound their content claims to the opened descriptions accordingly.
   Content inspection is owed to the supervisor's module-QC.
 b9's boundary section flags the five khandhas as owed (second elective thread or a b2/b5 extension). Candidate harvested and opened by this session: **Thanissaro Bhikkhu, "The Five Aggregates: A Study Guide"**, https://www.accesstoinsight.org/lib/study/khandha.html — opened this pass (a prompted extraction of the page's title, author, dates, structure, introduction summary and license statement; the guide's full section texts were NOT read, and segment selection still requires reading the assigned sections): Access to Insight (BCBS Edition), ©2010 Metta Forest Monastery, first published on ATI 2002, last revised 30 November 2013; Creative Commons Attribution-NonCommercial 4.0 license stated on the page; free to access. Structure read: Introduction, The Questions, Constructing the Aggregates, Constructing a Self, Constructing the Path, Deconstruction, Glossary, Abbreviations. Coverage confirmed: the five aggregates (form, feeling, perception, fabrications, consciousness) as activities rather than objects; the distinction between aggregates and clinging-aggregates ("clingable, offer sustenance, accompanied with fermentation"); the aggregates as tools for addressing suffering ("What is suffering? How is it caused? What can be done?") rather than a definition of a person; the practice sequence (use the aggregates to develop the path, contemplate their drawbacks, incline toward dispassion). Author credentials already receipted in this degree's earlier modules (Thanissaro: Metta Forest Monastery abbot, ATI translations). STATUS: pre-verified candidate for the aggregates thread; segment selection and workload measurement owed by whichever session takes that thread.
+
+## Advisor QC round 4 (final verification) — additional repairs and two blockers (2026-10-26, worker-pplx-buddhism-1026a)
+
+CORRECTION to the round-3 entry above: it closed with "all were
+repaired", which was premature. Round 4 (final verification) found and
+repaired more, and left two items explicitly BLOCKED. This entry is
+written at the moment of repair from the actual UTC clock; see the
+commit timestamps.
+
+Repairs applied in round 4:
+- b6: Assessment item 2 rewritten to the claim-and-reflection split
+  (the lecturer's evidence carries the claim; the log carries the
+  reflection); closing "verified lecture videos" claim corrected to
+  "lecture videos with verified metadata; content inspection owed".
+- b8: outcome 2 aligned with the rubric (readings from at least TWO
+  named schools, was "one named school's").
+- b5, b6, b7: viewing/listening stops rewritten in unambiguous
+  HH:MM:SS form (0:44 reads as 44 seconds); b5's Sumedho talk given
+  two timestamped viewing stops (00:00:00-00:30:00,
+  00:30:00-01:01:36), replacing "spread across at least two
+  sittings".
+- b5: closing "verified talk video" claim corrected to verified
+  metadata.
+
+BLOCKED (round 4):
+- b5 Step 2 (the Ajahn Chah volume assignment): the monastery's
+  opened page shows only an introductory excerpt; on the content the
+  production session could open it neither provides nor links the
+  full text, does not name the volume's teaching sections, and no
+  free-distribution statement could be confirmed in the extraction.
+  The two-teachings assignment is marked BLOCKED in the module;
+  outcome 3 cannot be completed until a worker or supervisor opens
+  the actual text (or the monastery's stated download), selects
+  named teachings, and confirms free access. The introduction excerpt
+  the page does show remains assigned.
+- b7: the four-truths-as-tasks comparison example was WITHDRAWN after
+  live re-verification failed on BOTH sides — the opened IMC
+  transcripts page does not state the tasks framing, and Batchelor's
+  opened biography does not use "tasks not beliefs" language. The
+  module now offers no example question and requires citations from
+  both opened sources. Batchelor's opened biography DOES verify his
+  Tibetan monastic years and four years of Son training under Kusan
+  Sunim (quoted in the module's credential basis).
+- Related flag for the supervisor: the Fronsdal course SYLLABUS page
+  (audiodharma.org/series/24652) could not be re-opened in this
+  session (fetch error), so b2's task-frame rests on the deg-verify-a
+  receipt (B-V02) as ledger-recorded; supervisor re-verification
+  recommended.
+
+Ledger and board wording corrected: release is recorded only when it
+actually happens, with the actual date and time.

@@ -34,9 +34,9 @@ wiser, flourishing even when uncertain or overwhelmed.
    including the weeks it shows nothing).
 2. Work one real ethical difficulty from your life through the full
    toolkit: the five precepts as training rules (b1, b3), the four
-   tasks (b2), and one named school's specific reading of the case
-   (Thai Forest b5, Zen b6, or Insight/Secular b7), stating where the
-   readings converge and where they diverge on your case, and what you
+   tasks (b2), and readings from at least two named schools (Thai Forest b5, Zen b6,
+   or Insight/Secular b7 — use two), stating where the readings
+   converge and where they diverge on your case, and what you
    actually did.
 3. Write a 1,200-word synthesis in your own voice: what the Buddhist
    path you have walked amounts to in the walk's own terms (alleviating

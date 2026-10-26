@@ -62,7 +62,8 @@ https://amaravati.org/biographies/ajahn-sumedho/). The same audio is
 freely downloadable from the monastery's site.
 
 No chapter list is printed for this talk; the assignment is the whole
-recording, spread across at least two sittings. Activity: after each
+recording in two timestamped VIEWING STOPS (viewing stops, not content
+claims): 00:00:00-00:30:00 and 00:30:00-01:01:36. Activity: after each
 sitting, one line on the thread of the teaching as you heard it.
 
 ### Step 2 — The lineage's book (~40 min, reading, assigned sections)
@@ -79,13 +80,18 @@ emphasis, as the introduction frames it, is following the spirit and
 standards of the Buddha's way in forest practice rather than
 scholastic commentary.
 
-Honest boundary: the assignment is bounded to the sections the
-monastery's opened page names. The book text itself was not opened
-page-by-page in production, so the module claims no printed publisher,
-edition date or word count beyond what the page states; the page states
-free distribution. If a teaching you choose carries rebirth or
-cosmology, the walk's exclusion rule governs: read it as lineage story,
-take no cosmology unit from it, and say so in one line.
+ASSIGNMENT BLOCKED (marked 2026-10-26, QC round 4): the monastery's
+opened page shows only an introductory excerpt of the volume and does
+not, on the content the production session could open, provide or link
+the full text, name the volume's teaching sections, or print a
+free-distribution statement the extraction could confirm. The
+two-teachings assignment therefore cannot be verified as accessible
+and is BLOCKED pending a worker or supervisor opening the actual
+text (or the monastery's stated download), selecting named teachings,
+and confirming free access. Until unblocked, this module's outcome 3
+cannot be completed as written; the rest of the module (Steps 1 and
+3, outcomes 1-2) stands. The introduction excerpt the page DOES show
+is assigned as the lineage-reading portion of Step 2.
 
 Activity: for each teaching, the one-line record named in outcome 3.
 
@@ -148,7 +154,7 @@ school.
 
 | resource | status | verified | notes |
 |---|---|---|---|
-| Ajahn Sumedho, "Mindfulness and Wisdom", https://www.youtube.com/watch?v=SElyOzgkxjo (Amaravati channel) | verified-metadata | 2026-10-26 (this session) | duration 1:01:36 on the watch page; talk dated 13 May 2017, uploaded 14 July 2017; free MP3 also on amaravati.org; no chapter list printed, whole talk assigned with spread note; CONTENT NOT YET INSPECTED beyond the watch page's stated description, so content claims are bounded to it; credentials opened on https://amaravati.org/biographies/ajahn-sumedho/ (USA-born; bhikkhu 1967; nine years under Ajahn Chah at Wat Pah Pong; established Amaravati 1984) |
+| Ajahn Sumedho, "Mindfulness and Wisdom", https://www.youtube.com/watch?v=SElyOzgkxjo (Amaravati channel) | verified-metadata | 2026-10-26 (this session) | duration 1:01:36 on the watch page; talk dated 13 May 2017, uploaded 14 July 2017; free MP3 also on amaravati.org; no chapter list printed, whole talk assigned with two viewing stops; CONTENT NOT YET INSPECTED beyond the watch page's stated description, so content claims are bounded to it; credentials opened on https://amaravati.org/biographies/ajahn-sumedho/ (USA-born; bhikkhu 1967; nine years under Ajahn Chah at Wat Pah Pong; established Amaravati 1984) |
 | The Collected Teachings of Ajahn Chah, https://amaravati.org/dhamma-books/the-collected-teachings-of-ajahn-chah/ | verified (book page; text NOT page-by-page inspected) | 2026-10-26 (this session) | free-distribution single volume on the monastery's site; the page's stated contents bound the assignment; introduction covers the Thai Forest tradition, the Theravada lineage ("way of the elders", Southern School) and the forest practice standard; assigned sections named in Step 2; the volume's printed publisher/date/word count not established and not claimed |
 | AN 5.179 and SN 56.11 | verified | 2026-10-26 (b1, b2 and receipts) | see b1-b3 source tables |
 
