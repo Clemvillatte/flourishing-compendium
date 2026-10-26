@@ -519,3 +519,19 @@ flags.
   the closing attribution are consistent with the carrier's text.
 - The 523-word count (story plus translator's closing paragraph) was
   not independently re-counted; owner's measurement stands unrefuted.
+
+### m3 Hunchback QC (2026-10-26T05:24Z)
+
+- m3's Hunchback and Cicadas elements (A.1) verified against Eno's
+  text as quoted from the Eno source (factsanddetails/scribd, opened
+  via search this pass): "I hold my body like a twisted tree and
+  raise my arm like a withered limb" ✓; "No matter how huge heaven
+  and earth or how numerous the myriad things, I perceive nothing
+  but cicada wings" ✓; Confucius's closing "'His will undivided,
+  his spirit coalesced' – would that not describe this venerable
+  hunchback?" ✓. All three marked sentences consistent with the
+  carrier's text. The Butterfly Dream (2.20) was verified earlier
+  (m1 QC). m3's primary-text claims are fully verified; the 223-word
+  and 71-word counts are the owner's measurements (butterfly count
+  67 verified earlier; the 71-word figure likely includes the
+  section header — minor, not flagged).
