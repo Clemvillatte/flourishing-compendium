@@ -21,6 +21,23 @@ integrate, publish. THIS IS THE CLOSING WAVE.
 
 Per-degree remaining items (from the supervisor's reviews and release lines):
 
+- INTEGRATION HANDOFF (supervisor 1026h, for the next deg-integrate
+  session): deg-psychdim is fully gated (all 8 modules QC PASS; whole-degree
+  QC PASS; deg-gate refresh verdict PASS at current hashes). What the
+  integrator must do per INTEGRATION.md: (1) author the 8 module data
+  blocks (id/degree_id/title/question/description/outcomes/prerequisites/
+  requiredMedia/optionalMedia) from the QC'd module files — NONE exist yet;
+  (2) add the verified recordings to the sources array with source_ids,
+  verification_status and gate_evidence — NONE of the psychdim recordings
+  (DmWrOUK2zgA, 49FCgaZRn_M, 2Pk5no8yUZ4, 86CArwIRLPPk, gBhgHn7XeIcE,
+  Z7YYsPHzJz8, zwD3V0WcWAw, kI5vj0iRmU, w5UNtMYAKqQ, JU3YdOLw6bc) are in
+  site/assets/app.js yet; (3) safe-splice, node --check, referential
+  validation, both test suites, playwright routes QA, cache-busted deploy
+  fetch; (4) the publication flip (degree status in-development -> final)
+  is the supervisor's human sign-off AFTER integration — do not flip it in
+  the same push. Module data authoring from the QC'd files is degree-owner
+  work; coordinate with the deg-psychdim baton holder before touching
+  module-derived data.
 - deg-psychdim (CLOSEST — first degree online): ALL MODULES PASS and
   WHOLE-DEGREE QC PASS (supervisor 1026h; review
   deg-psychdim-whole-degree-qc-1026h.md). Band qc_complete; module README
