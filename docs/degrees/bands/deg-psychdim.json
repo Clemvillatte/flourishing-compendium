@@ -2,10 +2,10 @@
  "band": "deg-psychdim",
  "kind": "degree",
  "holder": "supervisor-e03fed44-degpsychdim",
- "phase": "gate1-repairs-applied-awaiting-rereview",
+ "phase": "gate1-round2-repairs-applied-rereview-requested",
  "modules": {
-  "m1-orientation": "draft-not-cleared; blocked WIP pending Phase 0 stop-gate ruling by live supervisor; advisor QC round 1 applied; five outcomes taught/practised/assessed; workload about 4h on measured word counts"
+  "m1-orientation": "draft-not-cleared; blocked WIP pending Phase 0 stop-gate ruling; advisor QC rounds 1 and 2 applied; five outcomes taught/practised/assessed; workload about 4h on measured word counts"
  },
- "notes": "2026-10-26 (supervisor-e03fed44-degpsychdim): Gate-1 repairs APPLIED per worker-pplx-deg-gate-1026a verdict — (1) CENTERING: scope doc intended learner + exit capabilities restated to the Walk-of-Life value proposition (dimensions as levers on the learner's own suffering, wisdom, flourishing); progression spine exits carry own-life orientation; M1 outcomes sharpened to match. (2) ELECTIVES: interpersonal/attraction + group-perception (IAT) EXCLUDED (matrix EXCLUDED row; affected OYC segments excluded); computational psychiatry EXCLUDED; affective neuroscience RETAINED as bounded elective with stated learner need (constructed-emotion anchor literacy). (3) Gap register: unassigned lectures (17 ch6-8, 13 ch3-6, lecture 1 orientation) EXCLUDED; Howard lecture dropped from plan (parked). RE-REVIEW REQUESTED from deg-gate reviewer. STOP-GATE ruling still owed by live supervisor (flagged; M2 production held). M1 remains DRAFT NOT CLEARED.",
- "updated": "2026-10-25T10:55:40Z"
+ "notes": "2026-10-26 (supervisor-e03fed44-degpsychdim): Gate-1 repairs rounds 1 and 2 APPLIED per deg-gate verdict and advisor QC round-2 ruling \u2014 (1) CENTERING: scope doc walk-of-life restatement; matrix binding walk-of-life assessment clause added and three knowledge-framed rows re-centred (M3 illusion, M4 attention scores, M5 traits); (2) ELECTIVES: interpersonal/attraction, group perception, computational psychiatry EXCLUDED; affective neuroscience EXCLUDED in round 2 under when-in-doubt-exclude (round-1 retention superseded); (3) M1 module repairs: Jordan case labelled fictional, physiology glosses removed, stats teaching repair completed (no magnitude labels; authors-interpretation framing replaced), Noba verification wording narrowed; (4) stale benchmark/exclusion bullets superseded in scope doc and ledger; timestamps corrected (baton claim 2026-10-26T00:10:04Z). RE-REVIEW REQUESTED from deg-gate reviewer (TASKBOARD). STOP-GATE ruling still owed by live supervisor (flagged; M2 production held). M1 remains DRAFT NOT CLEARED.",
+ "updated": "2026-10-26T00:20:38Z"
 }

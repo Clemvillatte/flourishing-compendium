@@ -78,12 +78,13 @@ open to challenge at the coverage gate):
 - Computational psychiatry primers: excluded under the same repair; no
   matrix rows and no learner-need case.
 
-Elective branches:
-- Affective neuroscience, bounded: one Noba module whose learner need is
-  stated in the matrix row (reading literacy for the constructed-emotion
-  core anchor, whose claims are brain-level, and for appraising popular
-  brain claims about emotion); explicitly not assessed and not a
-  second core.
+Elective branches: none. (Affective neuroscience was considered for
+retention during the 2026-10-26 repair and EXCLUDED under the
+when-in-doubt-exclude rule: background relevance to the constructed-emotion
+anchor does not establish a necessary contribution beyond the core, and the
+core source itself carries the brain-level claims it needs. Neuroscience
+already necessary to explain a core source stays with that source; a
+standalone elective does not.)
 
 ## Raw material available (measured 2026-10-25)
 
@@ -110,8 +111,9 @@ Findings:
   behaviour. The previous "five" wording in this doc was a counting error;
   corrected. The EEMM also names socio-cultural and biophysiological levels
   of analysis; the proposal is to teach them as M1 orientation context
-  (grounded in Hofmann and Hayes 2024) and keep deeper interpersonal study
-  as the existing elective branch, with the owner free to rule otherwise.
+  (grounded in Hofmann and Hayes 2024); deeper interpersonal study is
+  EXCLUDED under the 2026-10-26 centering repair (no learner need on
+  record; re-admission possible later on a stated learner need).
 - Curriculum anchor fit. The Yale 2026 syllabus and OpenStax contents give
   the current introductory topic families (learning, memory, thinking,
   emotion, motivation, personality, social context); they anchor entry-level
@@ -129,6 +131,11 @@ Findings:
   ([Woolley et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/)).
   The SDT (2020) and habits (2018) anchors predate 2021; refresh during
   module production.
+
+SUPERSESSION NOTE (2026-10-26): this Benchmark section records the
+2026-10-25 benchmarking round and is preserved as history; where it
+describes elective branches, the Bounded domain section above is the
+current state.
 
 ## Coverage summary (compact matrix; full version with marks and reasons in the ledger)
 

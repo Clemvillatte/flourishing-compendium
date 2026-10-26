@@ -36,8 +36,8 @@ affective dimension).
    level.
 4. Appraise one study's design, evidence type and effect size using a
    worked model, stating what the study can and cannot support.
-5. State what this degree covers and excludes, and where each excluded
-   topic is owned instead.
+5. State what this degree covers and excludes, and for the excluded
+   territories that are owned elsewhere, name the owner.
 
 Every outcome is taught, practised and assessed below; the alignment map at
 the end shows where.
@@ -95,12 +95,15 @@ these working senses are enough for orientation.
 - Motivation: what energises and directs behaviour: needs, goals, wants.
 - Overt behaviour: the actions other people could see you take.
 
-Now see all six at once in one everyday case. The case: Jordan wants to
-start running again after two years off. Affect: running feels bad at first
-(heavy legs, embarrassment when seen), while the evening couch feels good;
-those feelings steer more than Jordan admits. Cognition: Jordan remembers
-being "a runner" from university, and believes people who exercise are
-disciplined, a belief that makes every skipped day feel like evidence
+Now see all six at once in one everyday case. The case is fictional
+(Jordan is not a real person; the details are constructed for teaching,
+and you should test them against your own experience rather than take
+them as findings). Jordan wants to start running again after two years
+off. Affect: running feels bad at first (heavy legs, embarrassment when
+seen), while the evening couch feels good; those feelings steer more
+than Jordan admits. Cognition: Jordan remembers being "a runner" from
+university, and believes people who exercise are disciplined, a belief
+that makes every skipped day feel like evidence
 about character. Attention: the phone's lights and buzzes pull attention
 away from the running shoes by the door. Self: "I'm not a gym person" has
 become part of how Jordan answers "who am I". Motivation: the doctor's
@@ -123,12 +126,16 @@ unhealthy apart from the life it sits in.
 
 Finally, place the case at the three levels of analysis the model names.
 Psychological: the dread, the self-belief, the attentional pull, the
-motives; everything in the paragraph above. Biophysiological: the fitness
-that improves with each run, the endorphins that follow, the arousal that
-makes the couch restful after a stressful day. Sociocultural: the friend
-who expects Tuesday company, the workplace culture where "busy" is worn as
-a badge, the medical system whose warning carried weight. One behaviour,
-three levels, and a complete account needs all three.
+motives; everything in the paragraph above. Biophysiological: what
+Jordan's body does in and around the runs, the breath and heart rate
+that rise with effort, the fatigue that follows, the restfulness of the
+couch after a stressful day; observations a person could notice without
+claiming to know their mechanism. Sociocultural: the friend who expects
+Tuesday company, the workplace culture where "busy" is worn as a badge,
+the medical system whose warning carried weight. One behaviour, three
+levels; an account that wants to explain or change the pattern will
+usually need more than one of them, and which ones depends on the
+question being asked.
 
 ### Step 3: research literacy (Outcome 4)
 
@@ -190,12 +197,14 @@ accounting for earlier levels of that outcome.
    the faded practice: name the design, the evidence type, the effect size
    and its interval, and what this result can and cannot support. The
    moves are the four you just watched; only the numbers have changed.
-   One new wrinkle to notice: this coefficient is smaller than the first.
-   Before concluding the association weakened, note what the authors say
-   about the two intervals: they read the overlapping confidence
-   intervals as suggesting the effect did not diminish significantly over
-   time. An overlap is a caution, a reason not to over-read a difference;
-   the authors' own interpretation is the model to follow.
+   One new wrinkle to notice: this coefficient is smaller than the
+   first. Before concluding the association weakened across waves, ask
+   what would establish that: a comparison between the coefficients, with
+   its own uncertainty. The paper's authors read the overlapping
+   intervals as suggesting the effect did not diminish significantly
+   over time; a caution worth carrying, and whether the association
+   genuinely weakened is a question the results you have inspected do not
+   settle.
 3. Independent (the graded deliverable). Appraisal of the third result
    and a robustness note. What was found: adherence at the fourth survey
    was predicted by intrinsic motivation at the third, beta = 0.080,
@@ -236,25 +245,30 @@ accounting for earlier levels of that outcome.
   b. The appraisal (Outcome 4): the independent appraisal from Step 4,
      item 3, in 150 to 300 words.
   c. The scope statement (Outcome 5): one paragraph stating what this
-     degree covers and excludes, in your own words, naming where each
-     excluded topic is owned instead. Use the bounded-domain statement
-     below as your checklist.
+     degree covers and excludes, in your own words, naming the owner of
+     each excluded territory that is owned elsewhere. Use the
+     bounded-domain statement below as your checklist.
 
 ### The bounded domain, in plain terms
 
 This degree covers what is currently known about the six dimensions and
 how to read the research behind that knowledge. Three neighbouring
-territories sit outside it. Clinical treatment protocols are excluded as
-training in delivering treatment; clinical studies that test
-psychological mechanisms still count as dimension evidence here.
-Wellbeing as an outcome science is owned by the Positive Psychology
+territories sit outside it, each owned elsewhere. Clinical treatment
+protocols are excluded as training in delivering treatment (that
+territory stays with the legacy therapeutic material); clinical studies
+that test psychological mechanisms still count as dimension evidence
+here. Wellbeing as an outcome science is owned by the Positive Psychology
 walk; outcome evidence still counts here wherever an opened dimension
 source uses it. Contemplative doctrine is owned by the contemplative
 practica; contemplative science appears here as attentional evidence,
 and where an opened contemplative-science source speaks to affect, self
-or motivation it may serve those dimensions too. If you want any of the
-excluded territories, this degree points you to them and stays in its
-lane.
+or motivation it may serve those dimensions too. Beyond those, material
+is admitted only where it serves the six dimensions for this degree's
+learner: the interpersonal and attraction material and the group
+perception material are excluded (no learner need on record), and the
+same test applies to anything else that merely fits the topic. If you
+want an excluded territory, this degree points you to it and stays in
+its lane.
 
 ## Rubric (observable criteria)
 
@@ -288,18 +302,21 @@ learner can self-check.
 4. The appraisal names design, evidence type, effect size and limits,
    and states what the result can and cannot support. Strong: "This is a
    longitudinal correlational prediction; the coefficient is 0.080 with
-   an interval from 0.01 to 0.15, so a small association on this sample;
-   it cannot show causation because nothing was manipulated, and the
-   completer analysis is a sensitivity check on drop-out, which is a
-   different question from causation." Rejection: "The study proves
-   intrinsic motivation works because p < .05" (no design named, p value
-   read as proof, causal claim from a correlational design).
-5. The scope statement names the three exclusions and their owners, in
-   the learner's own words. Strong: "This degree stops at wellbeing
-   outcomes, which the Positive Psychology walk owns; treatment
-   protocols live with the practica and the legacy therapeutic
-   material." Rejection: "This degree covers everything about
-   psychology" (no exclusions named).
+   an interval from 0.01 to 0.15, on this sample; it cannot show
+   causation because nothing was manipulated, and the completer analysis
+   is a sensitivity check on drop-out, which is a different question
+   from causation." Rejection: "The study proves intrinsic motivation
+   works because p < .05" (no design named, p value read as proof,
+   causal claim from a correlational design), or "the effect is small"
+   with no stated basis for the magnitude claim.
+5. The scope statement names the three owned exclusions with their owners,
+   and states the admission test for the rest, in the learner's own
+   words. Strong: "This degree stops at wellbeing outcomes, which the
+   Positive Psychology walk owns; treatment protocols stay with the legacy
+   therapeutic material; and anything that merely fits the topic, like
+   the attraction material, is out unless a learner need is stated."
+   Rejection: "This degree covers everything about psychology" (no
+   exclusions named).
 
 ## Workload arithmetic
 
@@ -331,11 +348,13 @@ All attached sources are verified to the skill's standard with evidence
 and dates in ledgers/deg-psychdim.md: Hofmann and Hayes 2024 (verified
 text, assigned excerpt opened and read on 2026-10-26, word count
 measured), Maitland 2024 (verified text, section 1.4 read on
-2026-10-26, word count measured), the Noba module (verified text,
-opened on 2026-10-26, byline Erin I. Smith confirmed on the module
-page), and Woolley, Giurge and Fishbach 2025 (verified text; all quoted
-statistics read on the opened PMC page on 2026-10-26). All are free to
-access with no paywall. No video resources are attached to this module,
+2026-10-26, word count measured), the Noba module (opened on
+2026-10-26; byline Erin I. Smith confirmed on the module page; the
+scientific-versus-everyday-reasoning section read this pass; the
+remaining sections' topic coverage rests on the ledger's 2026-10-25
+batch-2 verification), and
+Woolley, Giurge and Fishbach 2025 (verified text; all quoted statistics
+read on the opened PMC page on 2026-10-26). All are free to access with no paywall. No video resources are attached to this module,
 so no segment durations apply. No imported labels remain on attached
 sources.
 

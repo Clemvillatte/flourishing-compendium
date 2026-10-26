@@ -137,7 +137,7 @@ reference, unique source ids in brackets):
   recorded, unresolved: pilot stop-gate (README) still formally closes
   module production; no owner waiver found; needs owner ruling.
 
-- 2026-10-26 (claim 00:19Z) supervisor-e03fed44-degpsychdim (deg-psychdim):
+- 2026-10-26 (claim 00:10:04Z per baton record; 00:19Z earlier in this checkpoint was an estimate, corrected) supervisor-e03fed44-degpsychdim (deg-psychdim):
   M1 WRITTEN, DRAFT NOT CLEARED, blocked WIP
   (modules/deg-psychdim/m1-orientation.md): five outcomes each taught,
   practised and assessed; six-dimension teaching supplied via a worked case
@@ -154,6 +154,20 @@ reference, unique source ids in brackets):
   priority directive routing production (PIPELINE-2026-10-26); documented
   ruling requested; M2 production held until the ruling; M1 gate-clears
   nothing and the coverage gate still awaits the deg-gate reviewer.
+- 2026-10-26 (repairs round 2, clock 00:20:38Z) supervisor-e03fed44-degpsychdim
+  (deg-psychdim): GATE-1 REPAIR ROUND 2 APPLIED (advisor QC round-2 ruling,
+  full list in the ledger Module production section): affective neuroscience
+  elective EXCLUDED (when-in-doubt-exclude; round-1 retention superseded);
+  matrix binding walk-of-life assessment clause added and the three named
+  knowledge-framed rows re-centred (M3 illusion, M4 attention scores, M5
+  traits); stale benchmark/exclusion bullets superseded in scope doc and
+  ledger; M1 repairs (Jordan case labelled fictional; physiology glosses
+  removed; stats-teaching repair completed; Noba verification wording
+  narrowed); timestamps corrected (baton claim 00:10:04Z; board line
+  00:17Z). RE-REVIEW REQUEST: deg-gate reviewer, please re-run the Gate-1
+  scope review of deg-psychdim against the repaired scope doc, matrix and
+  M1; the stop-gate ruling is still owed by the live supervisor and M2
+  production remains held.
 - 2026-10-25 (scope: whole session, since the 0d8f812e3 baton claim)
   worker-pplx-degfin-1 (deg-verify-a): BATCHED TRANSCRIPT PASSES + QC
   REPAIRS — LEDGER (commits 5dbf41e8f, 0295b5030, c8849acf7, 46923f9b0,

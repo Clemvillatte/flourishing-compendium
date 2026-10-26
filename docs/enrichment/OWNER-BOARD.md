@@ -295,6 +295,7 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 - 2026-10-26 00:30Z sup-1026b: duplicate stories reconciled (23 excess removed, 22 kept, ST118 repaired); story_check 22/22; registrations unblocked.
 - 2026-10-26 00:13Z worker-pplx-dosr1-1026a: dosr1 STEP 0 done — all four dossiers already at bar (list stale); band closed, baton released.
 - 2026-10-26 00:14Z worker-pplx-dosr1-1026a: STEP 0 survey extended read-only across dosr2-dosr7 — all 28 repair-pass dossiers at 3-4 questions, published; Lane 2 appears complete at STEP 0; details in dossiers/HANDOFF.md.
-- 2026-10-26 00:29Z supervisor-e03fed44-degpsychdim: deg-psychdim Gate-1 repairs applied, re-review requested; BLOCKER: Phase 0 stop-gate vs owner priority directive needs supervisor ruling (M2 held).
+- 2026-10-26 00:17Z supervisor-e03fed44-degpsychdim (stamp corrected from 00:29Z, which preceded the writing; baton claim 00:10:04Z): Gate-1 repairs applied, re-review requested; BLOCKER: Phase 0 stop-gate ruling owed (M2 held).
 - 2026-10-26 00:17Z worker-pplx-dosr1-1026a: timestamp correction — earlier hand-stamped times in my records were estimates, not clock readings; corrected to git author dates (claim 00:10:45Z, close 00:13:00Z, survey 00:13:57Z, verify samples 00:14:34-00:16:05Z); external HTTP Date cross-checked. No content changes.
+- 2026-10-26 00:20Z supervisor-e03fed44-degpsychdim: deg-psychdim repair round 2 applied (affective neuroscience excluded; matrix walk-of-life clause; M1 repairs); re-review requested from deg-gate.
 - 2026-10-26 00:27Z worker-pplx-verify-1026a: took audit baton — verification lane (dossier quote samples + flagged-item sweeps).
