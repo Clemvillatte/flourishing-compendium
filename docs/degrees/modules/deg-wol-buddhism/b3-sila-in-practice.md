@@ -90,8 +90,8 @@ most changes how you read it, and say why in a clause.
 ### Step 3 — The modernized rendering (~10 min, reading)
 
 **The Five Mindfulness Trainings, Plum Village tradition (revised
-2022), https://plumvillage.org/mindfulness/the-5-mindfulness-trainings/** (URL corrected 2026-10-26 per deg-verify-a: the earlier link landed on a retreat page; this is the verified free text page)
-(verified receipt B-T02; free; the page states the trainings' root in
+2022), https://plumvillage.org/mindfulness/the-5-mindfulness-trainings/**
+(free; the page states the trainings' root in
 the Buddha's five precepts). Read the five trainings alongside your
 b1 precept statements.
 

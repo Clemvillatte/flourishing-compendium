@@ -1165,3 +1165,28 @@ applied this pass:
    (about 4 h 25 m = 2:05:32 measured media + 2 h 20 m estimated work)
    stands alone. The supersession history remains recorded in the
    supervisor's review file and this ledger.
+
+## Humanizer sweep extended to b2/b3 (2026-10-26, worker-pplx-buddhism-1026b)
+
+Applying the supervisor's rereview-2 principle (learner paths carry
+natural attributions; correction history and receipt references belong
+in the source tables and ledger) across the nine-module sweep:
+
+- b2 Walk context: the third-task-verb correction narration removed
+  from the learner path (the correction history stays in the b2 source
+  table row: task verbs confirmed verbatim on the opened AtI page,
+  third verb corrected per deg-verify-a's re-fetch; earlier draft read
+  "to be realized").
+- b2 Workload: the QC-round-8 supersession narration removed (the
+  current calculation stands alone: about 3 h 20 m = 1:20:34 measured
+  media + 2 h 00 m estimated work; the supersession history remains in
+  the source table and this ledger).
+- b3 Step 3: the URL-correction narration and the B-T02 receipt
+  reference removed from the learner path (both remain in the b3
+  source table row, which carries the full defect-repair history).
+- b4's Boundaries section intentionally RETAINS its verification
+  narration: that section is the module's designated verification-notes
+  home (referenced from its source table), not learner path.
+- The `- **status**:` blocks are design-document metadata (not
+  learner-visible; confirmed per INTEGRATION.md — the Academy renders
+  spliced structured data, not module markdown).

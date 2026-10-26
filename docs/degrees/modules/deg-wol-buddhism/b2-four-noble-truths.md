@@ -13,9 +13,7 @@ The Buddha's first teaching frames the whole walk: suffering, where it
 comes from, the fact that it can end, and the path of practice that ends
 it. The walk treats the four truths as four tasks, the way the discourse
 itself assigns them: something to understand, something to give up,
-something to directly experience, something to develop (third verb
-corrected 2026-10-26 per deg-verify-a's re-fetch of Thanissaro's
-translation). This module takes one real
+something to directly experience, something to develop. This module takes one real
 difficulty in your own life and runs the four tasks on it, as an
 exploratory application: the worksheet is practice in the method, not a
 claim that craving has ended.
@@ -60,8 +58,7 @@ there — see the source table for which). Read the whole
 discourse. Mark
 four places: each truth stated, and the task attached to it ("to be
 comprehended... to be abandoned... to be directly experienced... to be
-developed"; third verb corrected 2026-10-26 per deg-verify-a's re-fetch
-of Thanissaro's SN 56.11; the earlier draft read "to be realized").
+developed").
 
 The discourse's religious frame stays visible on purpose: its account of
 craving reaches for future lives, and its closing narrative includes
@@ -180,8 +177,7 @@ ritual remain excluded.
   worksheet ~45 m; one metta sitting 10 m; study overhead on the video
   ~40 m. Estimates labelled as estimates.
 - Module total: about 3 h 20 m (1:20:34 measured media + 2 h 00 m of
-  estimated work; corrected 2026-10-26 QC round 8: the previously
-  stated 3 h 25 m did not sum the components).
+  estimated work).
 
 ## Sources (verification status)
 
