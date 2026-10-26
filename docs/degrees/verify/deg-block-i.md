@@ -733,3 +733,25 @@ pass.
 
 Remaining unresolved variants: 3 (formatting only); owed to the full
 pass.
+
+## Batch 3 follow-up 11 (2026-10-26T05:22Z, worker-pplx-degverifya-1026e)
+
+- SRC-M07-003: RESOLVED same-event — oembed re-fetched: "Social
+  Psychology Lecture, UCLA, Matthew Lieberman, Ph.D. (Psych 135),
+  10.29.09" (UCLACourses channel); the record's "Social Psychology
+  Lecture (Psych 135) — Matthew Lieberman" is the shortened form of
+  the same UCLA Psych 135 lecture. Same event.
+- M08-P16: RESOLVED same-event — oembed re-fetched: "The Power of
+  Purpose, Kendall Cotton Bronk, PhD" (Claremont Flourishing Center
+  channel); the record's "(Kendall Cotton Bronk, Claremont)" names
+  the same speaker and host institution. Same event.
+- SRC-M18-K02: RESOLVED same-event — oembed re-fetched: "Special
+  Lecture on: 'Rebirth: A Guide to mind, Karma, Cosmos in the
+  Buddhist World'" (Tibet House, New Delhi channel, matching the
+  record's host); the record title is the same lecture on Roger R.
+  Jackson's book. Same event.
+
+Variant list CLOSED: 0 unresolved variants remain from the batch-3
+flagged set. The full pass's remaining scope (playback/content
+verification, M08-S27 video presence, the 20 resolved variants'
+watch-page durations) is unchanged by this entry.
