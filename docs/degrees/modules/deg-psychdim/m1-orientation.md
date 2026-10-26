@@ -3,7 +3,10 @@
 First module of Psychological Dimensions. The degree follows one question
 through eight modules: what do psychologists currently know about the
 processes that carry a life, and how can you read that research well enough
-to use it? This module installs the map and the reading habits. Source
+to use it? This module installs the map and the reading habits. The map
+matters because the six dimensions are levers on your own walk of life:
+knowing which process is doing the work is where alleviating suffering,
+choosing more wisely and flourishing under uncertainty start. Source
 verification evidence is in ledgers/deg-psychdim.md. STATUS: DRAFT, NOT
 CLEARED; blocked WIP (module production is routed for this degree by the
 supervisor-authored PIPELINE-2026-10-26 per the owner's 2026-10-26 priority
@@ -22,7 +25,8 @@ affective dimension).
 1. Define the six psychological dimensions of the extended evolutionary
    meta-model (affect, cognition, self, attention, motivation, overt
    behaviour) in your own words, giving one example of each from your own
-   life.
+   life, so the dimensions work as levers you can locate rather than
+   categories to memorise.
 2. Explain the variation-selection-retention-context frame in your own
    words and apply it to one behaviour of your own, naming which part is
    the variation, which the selection, which the retention, and what in

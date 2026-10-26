@@ -1,12 +1,30 @@
 # Scope: deg-psychdim — Psychological Dimensions (PBT EEMM)
 
 WALK OF LIFE series (owner directive, 2026-10-25). Status: PROPOSAL by the
-strategist, benchmarked by the degree owner on 2026-10-25 (see the
-Benchmark section); independent scope-gate review still required.
+strategist, benchmarked by the degree owner on 2026-10-25; Gate-1 review
+2026-10-26 returned it with two blocking repairs (centering; elective
+branches), applied by the degree owner on 2026-10-26 — see the ledger's
+Gate-1 section. Re-review pending.
+
+CENTERING (owner's 2026-10-26 binding clause): this degree is centered on
+the WALK OF LIFE / philosophy-of-life frame and serves one value
+proposition: guiding the learner to alleviate suffering, become wiser,
+and genuinely flourish even when uncertain or overwhelmed. Every dimension
+is taught as a lever on the learner's own life. The scope is finite by
+design: topical fit alone does not qualify a source or module; when in
+doubt, exclude.
 
 ## Intended learner
 
-A learner who wants a deep, evidence-based understanding of what we currently know about the mind across the six Process-Based Therapy EEMM dimensions, and who values recency because the field moves fast. (Wording corrected from "five" on 2026-10-25: the owner's degree list and the opened EEMM papers both give six dimensions; see the ledger.)
+Someone carrying an ordinary life: moods that sometimes run them,
+attention that gets pulled, habits that resist change, goals that slip,
+an identity story that may or may not help. They want what psychology
+actually knows about the processes that carry a life, and they want it
+as levers, not trivia: to suffer less when things go wrong, choose more
+wisely, and keep functioning when life is uncertain or overwhelming.
+They value recency because the field moves fast and yesterday's popular
+claims (fixed brain types, ego depletion as settled fact, the 21-day
+habit) often mislead exactly the people trying to change.
 
 ## Entry competencies
 
@@ -14,16 +32,29 @@ A learner who wants a deep, evidence-based understanding of what we currently kn
 
 ## Exit capabilities
 
-- Can explain state-of-the-art knowledge on each dimension: affective, cognitive, attentional, self, motivational and overt behavioural.
-- Can read current research critically (design, evidence type, effect size, replication status) and knows which findings are stable and which are moving.
-- Can apply the dimensions to real cases and behaviour, distinguishing mechanisms from outcomes.
+- Can read an episode of their own suffering or flourishing across the
+  six EEMM dimensions (affect, cognition, attention, self, motivation,
+  overt behaviour) and name which process is doing the work, so the
+  dimensions function as levers on their own walk of life rather than
+  as exam categories.
+- Can read current research critically (design, evidence type, effect
+  size, replication status), tell stable findings from moving ones, and
+  use that judgment on claims that reach their own life, from headlines
+  to self-help advice.
+- Can run the extended evolutionary meta-model on a real behavioural
+  pattern of their own (variation, selection, retention, context; levels
+  of analysis), distinguishing mechanisms from outcomes, and can use it
+  to choose where to intervene in a pattern they want to change.
+- Capstone: can design, execute and self-assess a change to one real
+  pattern of their own using all six dimensions, with honest evidence
+  about whether it worked and what that evidence can and cannot support.
 
 ## Bounded domain
 
 Covers:
-- The six owner-named dimensions of the EEMM: affective, cognitive, attentional, self, motivational, overt behavioural.
+- The six owner-named dimensions of the EEMM: affective, cognitive, attentional, self, motivational, overt behavioural, each taught toward the learner's own decisions, suffering and flourishing.
 - State-of-the-art reviews and current debates per dimension.
-- A capstone integrating the dimensions on one real behavioural pattern.
+- A capstone integrating the dimensions on one real behavioural pattern of the learner's own.
 
 Excludes (proposed; see the ledger's Exclusion review for the reasoning,
 open to challenge at the coverage gate):
@@ -36,10 +67,23 @@ open to challenge at the coverage gate):
 - Contemplative doctrine (practica); contemplative science appears as
   attentional evidence, and where an opened contemplative-science source
   speaks to affect, self or motivation it may serve those dimensions too.
+- Interpersonal and attraction material (liking, proximity, mere
+  exposure): excluded under the 2026-10-26 centering repair — no learner
+  need on record beyond topical fit, and deeper relationships study is
+  not a six-dimension core outcome. Re-admission possible later on a
+  stated learner need.
+- Group perception material (stereotypes, stereotype threat, implicit
+  attitudes and the IAT): excluded under the same repair; the row was
+  already proposed-pending and fails the learner-need test.
+- Computational psychiatry primers: excluded under the same repair; no
+  matrix rows and no learner-need case.
 
 Elective branches:
-- Interpersonal dimension material; computational psychiatry primers;
-  affective neuroscience.
+- Affective neuroscience, bounded: one Noba module whose learner need is
+  stated in the matrix row (reading literacy for the constructed-emotion
+  core anchor, whose claims are brain-level, and for appraising popular
+  brain claims about emotion); explicitly not assessed and not a
+  second core.
 
 ## Raw material available (measured 2026-10-25)
 

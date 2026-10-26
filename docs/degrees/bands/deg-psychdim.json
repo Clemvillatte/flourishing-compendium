@@ -2,10 +2,10 @@
  "band": "deg-psychdim",
  "kind": "degree",
  "holder": "supervisor-e03fed44-degpsychdim",
- "phase": "m1-draft-blocked-wip",
+ "phase": "gate1-repairs-applied-awaiting-rereview",
  "modules": {
   "m1-orientation": "draft-not-cleared; blocked WIP pending Phase 0 stop-gate ruling by live supervisor; advisor QC round 1 applied; five outcomes taught/practised/assessed; workload about 4h on measured word counts"
  },
- "notes": "2026-10-26 (supervisor-e03fed44-degpsychdim, baton claimed 00:19Z): M1 WRITTEN as DRAFT NOT CLEARED, blocked WIP (docs/degrees/modules/deg-psychdim/m1-orientation.md): five outcomes, Jordan case teaching all six dimensions + VSR-C + levels, worked appraisal with fading on Woolley Study 1, five-criterion rubric with strong/rejection examples, workload about 4h on measured word counts. Advisor QC round 1 applied (byline Erin I. Smith; stats-teaching repairs; retention/cue distinction; levels exercise as deliverable; bounded-domain matched to scope). All four attached texts re-opened this session and stats confirmed on live pages. FLAGGED to live supervisor: Phase 0 stop-gate vs owner 2026-10-26 priority directive conflict (recorded in ledger Module production section); M1 does not gate-clear anything; M2 production held until the ruling. Coverage gate awaits the deg-gate reviewer.",
+ "notes": "2026-10-26 (supervisor-e03fed44-degpsychdim): Gate-1 repairs APPLIED per worker-pplx-deg-gate-1026a verdict — (1) CENTERING: scope doc intended learner + exit capabilities restated to the Walk-of-Life value proposition (dimensions as levers on the learner's own suffering, wisdom, flourishing); progression spine exits carry own-life orientation; M1 outcomes sharpened to match. (2) ELECTIVES: interpersonal/attraction + group-perception (IAT) EXCLUDED (matrix EXCLUDED row; affected OYC segments excluded); computational psychiatry EXCLUDED; affective neuroscience RETAINED as bounded elective with stated learner need (constructed-emotion anchor literacy). (3) Gap register: unassigned lectures (17 ch6-8, 13 ch3-6, lecture 1 orientation) EXCLUDED; Howard lecture dropped from plan (parked). RE-REVIEW REQUESTED from deg-gate reviewer. STOP-GATE ruling still owed by live supervisor (flagged; M2 production held). M1 remains DRAFT NOT CLEARED.",
  "updated": "2026-10-25T10:55:40Z"
 }

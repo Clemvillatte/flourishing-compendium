@@ -745,3 +745,16 @@ LeDoux/Newport-style bot-walled pages (none left in deg-mind), ENS page
 for Jelby, and the M01-D18/MA-01/MA-02 placement review.
 
 - 2026-10-26 00:1xZ strategist-pplx-1026a (supervisor, holding deg-verify-b): STALE-FLAG RECONCILIATION + gap closures. The Greek open flags from worker-pplx-greek-1's checkpoint are now ALL addressed: (1) ST-05 duration — verified in the verify file with provenance (1:01:13 from Gresham's own listings); (2) AR-05/ST-01 content classification — watch pages read by worker-pplx-greek-1025m, and the duration discrepancies RULED CLOSED this pass (player total authoritative: AR-05 75 min, ST-01 29:09; evidence in verify file); (3) M05-XP-02 — upgraded with chapter evidence (Suspension of Belief), modes-by-name still unconfirmed, broadening recommended; (4) pre-Socratics — ALREADY ruled excluded by strategist-pplx-1025-launch-c (elective branch if the owner wants them); (5) Socratic-method gap — harvest recommendation recorded in the greek ledger: PHI 251 sessions 5, 6, 10 (Euthyphro elenchus, Apology/examined life), same verified instructor. mod-qg-3: the S0ZqKo0KQvA candidate is REJECTED on credentials (no biography/institutional page exists); a fully verified replacement candidate is on file (OwzkEoUyr38, Susan Thompson OTR — identity/access/duration/credentials/content all verified, caveats recorded). The verification queue table above is STALE (Blocks C and G closed in the evidence files). Next for deg-wol-greek: Gate 1 independent review, then module production using the recorded harvest recommendations.
+- 2026-10-26 (repairs) supervisor-e03fed44-degpsychdim (deg-psychdim): GATE-1
+  REPAIRS APPLIED per worker-pplx-deg-gate-1026a's verdict — centering: scope
+  doc intended learner and exit capabilities restated to the Walk-of-Life
+  value proposition (dimensions as levers on the learner's own suffering,
+  wisdom, flourishing); progression spine exits carry the own-life
+  orientation; M1 outcomes sharpened. Electives: interpersonal/attraction
+  and group-perception (IAT) EXCLUDED with the affected OYC segments;
+  computational psychiatry EXCLUDED; affective neuroscience RETAINED as a
+  bounded elective with a stated learner need (constructed-emotion anchor
+  literacy). Gap register: unassigned lectures EXCLUDED (17 ch6-8, 13
+  ch3-6, lecture 1 orientation); Howard lecture dropped (parked). RE-REVIEW
+  REQUESTED from the deg-gate reviewer. Stop-gate ruling still owed by the
+  live supervisor; M2 production held; M1 remains DRAFT NOT CLEARED.

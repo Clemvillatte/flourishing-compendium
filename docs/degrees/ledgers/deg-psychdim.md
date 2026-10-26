@@ -922,7 +922,7 @@ blocking gaps on the register, not quiet omissions.
 | affective | Emotion generation versus regulation; strategy families and goals of regulation (essential: the current debate the opened 2024 review maps) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M2 | reading (the regulation-models strand rests on the review; OYC lectures 11 and 12 are candidates for support segments) | apply the process model to a personal episode | case analysis rubric |
 | affective | Theories of emotion construction: allostasis, constructed emotion, the prediction debate (essential: how emotions arise is the dimension's foundational question) | [Barrett et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12164598/); verified TED talk segment (Barrett, December 2017, 18:29, content-verified from the TED transcript; see the ledger batch 25 entry; note the talk presents the construction and prediction claims directly and does not use the word allostasis) | M2 | reading | compare constructionist and basic-emotion accounts | comparison essay |
 | affective | Difficulties in emotion regulation and regulatory flexibility (essential: links affect to adaptation) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M2 | reading | compare rigid versus flexible regulation in a case | written comparison |
-| affective | Affective neuroscience (elective: the degree aims at process knowledge at the psychological level; neural evidence is supporting depth, offered as an elective branch) | [Harmon-Jones and Harmon-Jones](https://nobaproject.com/modules/affective-neuroscience) | M2 | reading | map emotional systems to the dimension's processes | mapping exercise |
+| affective | Affective neuroscience (elective, retained under the 2026-10-26 centering repair with a stated learner need: reading literacy for the constructed-emotion core anchor, whose claims are brain-level, and for appraising popular brain claims about emotion; explicitly not assessed and not a second core) | [Harmon-Jones and Harmon-Jones](https://nobaproject.com/modules/affective-neuroscience) | M2 | reading (elective) | map emotional systems to the dimension's processes | not assessed (elective) |
 | cognitive | Core cognitive families: conditioning and learning, memory, judgment and decision making (essential: the cognitive dimension's standard families per the Yale syllabus and OpenStax contents) | [Bouton](https://nobaproject.com/modules/conditioning-and-learning); [McDermott and Roediger](https://nobaproject.com/modules/memory-encoding-storage-retrieval); [Bazerman](https://nobaproject.com/modules/judgment-and-decision-making) | M3 | reading plus worked examples | apply each family to a personal example | application rubric |
 | cognitive | Language (elective: psycholinguistics is a distinct field with its own curricula; the Yale syllabus covers it in one introductory class and the OYC lecture 7 candidate covers it at introductory level) | [Yale 2026 syllabus](https://summer.yale.edu/sites/default/files/uploaded-files/syllabi/2026/psyc-s1100.pdf) | M3 | optional content-verified OYC lecture 7 chapters 1 to 3 (00:00:00 to 00:18:06) | optional | not assessed unless elected |
 | cognitive | Perception as educated unconscious inference: constancy, Gestalt segmentation, depth cues and illusions (essential: the standard introductory treatment of perception, grounded in a verified lecture segment) | verified OYC lecture 7 chapter 4 (00:18:06 to 00:39:15) | M3 | lecture segment with illusions demonstrated | explain one illusion by its depth cue | explanation rubric |
@@ -938,8 +938,7 @@ blocking gaps on the register, not quiet omissions.
 | self | Personality and traits: Five-Factor Model, person-situation debate (essential: stable individual differences in self and behaviour) | [Diener and Lucas](https://nobaproject.com/modules/personality-traits); verified OYC lecture 13 chapter 1 (personality-test reliability and validity, the Rorschach critique, Allport, Eysenck, Cattell) and chapter 2 (00:13:53 to 00:19:47, Big Five), lecture 16 chapter 2 (00:15:56 to 00:22:40, spotlight and transparency effects) and lecture 17 chapter 2 (00:01:39 to 00:11:15, impression formation and Pygmalion effect) | M5 | reading | trait-description exercise with the person-situation caveat | written trait account |
 | self | Self-evaluation and self-justification: better-than-average effect, self-serving bias, cognitive dissonance (essential: how the self is judged and defended; added 2026-10-25 from the batch 19 verification) | verified OYC lecture 16 chapters 3 and 4 (00:22:40 to 00:40:00) | M5 | lecture segments | spot the biases in a written self-account | short written analysis |
 | self | Self versus other in attribution: the fundamental attribution error, actor-role confusion, cross-cultural limits (essential: the self-other asymmetry in explaining behaviour; added 2026-10-25 from the batch 19 verification) | verified OYC lecture 16 chapter 5 (00:40:00 to 00:50:03) | M5 | lecture segment | attribution exercise on one own versus another's behaviour | exercise rubric |
-| self | Liking and interpersonal attraction: proximity, mere exposure, similarity, attractiveness (elective: the scope's interpersonal elective branch; added 2026-10-25 from the batch 19 verification) | verified OYC lecture 16 chapter 6 (00:50:03 to 00:58:15) and chapter 1 remainder (Milgram small-world, connectors) | M5 | lecture segment (elective) | optional: map one own relationship to the four factors | not assessed unless elected |
-| self | How we think about groups: stereotypes' uses and errors, stereotype threat, implicit attitudes and the IAT (elective, PROPOSED pending the scope decision: the scope's interpersonal elective branch and its exclusion review name group perception as an open question; added 2026-10-25 from the batch 20 verification) | verified OYC lecture 17 chapters 3 to 5 (00:11:15 to 00:38:09) | M5 | lecture segments (elective) | optional: take the IAT and write what it does and does not show | not assessed unless elected |
+| EXCLUDED (2026-10-26 centering repair) | Liking and interpersonal attraction, and group perception (stereotypes, stereotype threat, implicit attitudes and the IAT): the interpersonal elective branch — REMOVED from the matrix under the Gate-1 verdict; no learner need on record beyond topical fit; re-admission possible later on a stated learner need. The affected segments (OYC lecture 16 chapter 6 and chapter 1 remainder; lecture 17 chapters 3 to 5) become unassigned and are excluded with the branch. | [Gate-1 scope review](#gate-1-scope-review-2026-10-26-worker-pplx-deg-gate-1026a-deg-gate-baton--independent-review-per-pipeline-2026-10-26md) | none | none | none | none |
 | self | Self as an EEMM dimension; the FAP target (specification of the stimuli controlling the verbal response "I") as one FAP-specific application (essential: ties the dimension back to the framework) | [Maitland 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/) Table 1 | M5 | reading | apply the EEMM self dimension to one personal pattern | written synthesis |
 | motivational | Intrinsic and extrinsic motivation; the autonomy continuum and basic needs (essential: a comprehensive recent statement of the field's major motivation framework, selected as the motivational anchor) | [Ryan and Deci 2020](https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf) | M6 | reading (content check done: OYC lecture 14 covers sex and gender, not SDT, so it is not a segment for this row) | classify personal motivations on the continuum | classification with reasons |
 | motivational | Goals of regulation and motivation: hedonic, instrumental, eudaimonic; control-value theory (essential: links motivation to affect) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M6 | reading | link emotion-regulation goals to motivational states in a case | written link analysis |
@@ -959,16 +958,29 @@ feeding the next module's entry:
 | Module | Exit capabilities (observable) | Feeds |
 |---|---|---|
 | M1 (L1) | can define the six dimensions and the variation-selection-retention-context frame in their own words; can name the levels of analysis; can appraise a simple study's design and evidence type using a worked model; can state what the degree covers and excludes | M2 entry |
-| M2 (L2) | can apply the process model of emotion regulation to a case not used in the materials; can spot emotion functions in a personal episode; can compare two accounts of emotion naming where they disagree | M3 entry |
-| M3 (L2) | can apply conditioning, memory and judgment frameworks to a new case; can explain one visual illusion by its depth cue; can analyse an RNT episode against its defining features; can appraise a rumination induction study | M4 entry |
-| M4 (L2) | can map symptoms to attention networks; can interpret network scores; can compare two attentional training mechanisms; can explain one attentional blindness phenomenon by the attention window | M5 entry |
-| M5 (L2 to L3) | can assess self-concept clarity with its limits; can chart an identity domain over time; can write a trait account with the person-situation caveat | M6 entry |
-| M6 (L2) | can classify motivations on the autonomy continuum; can analyse a goal's adherence with intrinsic and extrinsic reasons | M7 entry |
-| M7 (L2 to L3) | can keep a habit diary with cue analysis; can appraise the ego depletion meta-analysis against the replication literature; can run a functional analysis of one behaviour pattern | M8 entry |
-| M8 (L4) | can design, execute and self-assess an integrative capstone applying all six dimensions to one real behavioural pattern, distinguishing mechanisms from outcomes | capstone |
+| M2 (L2) | can apply the process model of emotion regulation to an own episode of suffering or flourishing as well as a case not used in the materials; can spot emotion functions in a personal episode; can compare two accounts of emotion naming where they disagree | M3 entry |
+| M3 (L2) | can apply conditioning, memory and judgment frameworks to a new case; can explain one visual illusion by its depth cue; can analyse an RNT episode (own or given) against its defining features; can appraise a rumination induction study | M4 entry |
+| M4 (L2) | can map symptoms or own attentional struggles to attention networks; can interpret network scores; can compare two attentional training mechanisms; can explain one attentional blindness phenomenon by the attention window | M5 entry |
+| M5 (L2 to L3) | can assess their own self-concept clarity with its limits; can chart an identity domain over time; can write a trait account with the person-situation caveat | M6 entry |
+| M6 (L2) | can classify their own motivations on the autonomy continuum; can analyse one of their own goals' adherence with intrinsic and extrinsic reasons | M7 entry |
+| M7 (L2 to L3) | can keep a habit diary with cue analysis on one own pattern; can appraise the ego depletion meta-analysis against the replication literature; can run a functional analysis of one own behaviour pattern | M8 entry |
+| M8 (L4) | can design, execute and self-assess an integrative capstone applying all six dimensions to one real behavioural pattern of their own, distinguishing mechanisms from outcomes, with honest evidence about whether the change worked | capstone |
 
 ## Exclusion review (proposed, for independent challenge at the coverage gate)
 
+- CENTERING REPAIR DECISIONS (2026-10-26, degree owner, applying the
+  Gate-1 verdict): the interpersonal/attraction branch and the group
+  perception (stereotypes, stereotype threat, IAT) material are EXCLUDED —
+  no learner need on record beyond topical fit, which the owner's
+  2026-10-26 centering clause disqualifies; re-admission possible later
+  on a stated learner need. Computational psychiatry primers are EXCLUDED
+  (no matrix rows, no learner-need case). Affective neuroscience is
+  RETAINED as a bounded elective with a stated learner need: reading
+  literacy for the constructed-emotion core anchor (whose claims are
+  brain-level) and for appraising popular brain claims about emotion;
+  explicitly not assessed and not a second core. The affected verified
+  segments (OYC lecture 16 chapter 6 and chapter 1 remainder; lecture 17
+  chapters 3 to 5) become unassigned and are excluded with the branch.
 - Clinical protocols as treatment: excluded as training in treatment
   delivery (that belongs to legacy deg-therapeutic material). Clinical
   studies that test psychological mechanisms stay in as evidence about the
@@ -1007,11 +1019,15 @@ feeding the next module's entry:
   no transcript retrieved through the routes tried (batch 27 documents the blocked
   routes); flagged for the supervisor.
 - Intelligence and behavioral genetics (lecture 13 chapters 3 to 6):
-  content-verified but unassigned — intelligence is not an established
-  matrix row, and the assignment decision is flagged for the strategist
-  or an independent review; the personality row keeps its personality
-  segments only. Lecture 17 chapters 6 to 8 (sleep, dreams, laughter)
-  have the same status: verified, no current matrix outcome mapped.
+  content-verified but unassigned — DEGREE-OWNER DECISION (2026-10-26,
+  applying the Gate-1 reviewer's recommendation and the finite-scope
+  clause): EXCLUDED; no value-proposition case on record; re-admission
+  possible later on a stated learner need. Lecture 17 chapters 6 to 8
+  (sleep, dreams, laughter) and the lecture 1 orientation chapter are
+  EXCLUDED on the same basis. The Howard lecture is DROPPED from the
+  plan (stays a parked candidate with no retrievable transcript;
+  re-admission only if a transcript route opens and a learner need is
+  stated).
 - Self-regulation breadth (essential, RESOLVED this session): the M7
   row is grounded by Werner and Berkman 2024 (a current conceptual review
   of self-control as a dynamic motivational process, covering adults
@@ -1144,6 +1160,7 @@ verdict — production prerequisite, not a scope question):
 |---|---|---|---|
 | scope | benchmark delivered against opened curricula (see scope doc Benchmark and Exclusion review sections); wording fix from "five" to "six" dimensions; strategist review still required | worker-pplx-psychdim-1 (degree owner) | 2026-10-25 |
 | scope (Gate-1 independent review) | RETURNED WITH REPAIRS — Gate 1 NOT CLEARED: benchmark/recency claims spot-verified open and accurate; centering repair + full-test elective justification/exclusion owed per the owner's 2026-10-26 clause; pilot stop-gate recorded as unresolved production prerequisite | worker-pplx-deg-gate-1026a (deg-gate) | 2026-10-26 |
+| scope (repairs applied) | CENTERING + ELECTIVE REPAIRS APPLIED per the Gate-1 verdict: scope doc intended learner and exit capabilities restated to the Walk-of-Life value proposition (dimensions as levers on the learner's own suffering, wisdom and flourishing); interpersonal/attraction and group-perception electives EXCLUDED with the affected segments; computational psychiatry EXCLUDED; affective neuroscience RETAINED as bounded elective with a stated learner need; progression spine exits carry the own-life orientation; matrix EXCLUDED row records the removal; re-review requested from the deg-gate reviewer | supervisor-e03fed44-degpsychdim (degree owner) | 2026-10-26 |
 | coverage | milestone delivered; independently reviewed through advisor rounds 1 to 7; the adult self-regulation gap is now grounded (Werner and Berkman 2024, Reed et al. 2020, Dang 2018, Alarcon-Espinoza et al. 2022; see the gap register), but the coverage gate is NOT cleared by the degree owner: it awaits independent confirmation at the next advisor or reviewer pass; module production also blocked by the Phase 0 pilot stop-gate | worker-pplx-psychdim-1 | 2026-10-25 |
 
 ## Independent confirmation pass (2026-10-25 09:26Z, worker-pplx-sup-1025y, supervisor baton)
