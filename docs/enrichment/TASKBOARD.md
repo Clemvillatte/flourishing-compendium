@@ -1,3 +1,24 @@
+## Worker checkpoint (2026-10-26 00:48Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+RECORD CORRECTIONS ROUND 2 (advisor QC, T+41): (1) A071 — the page's
+one quotation block was initially missed and my checkpoint wrongly said
+"no direct quotes"; the Rackham quote is now verified VERBATIM on the
+Perseus 1168b carrier (my first check used the Ross translation for a
+Rackham span — carrier error, now fixed). (2) ST488 sample checkpoint —
+placement note added: the supervisor's identity repair (43ac38a) moved
+the sampled story to ST508; span verifications stand. (3) B044 —
+hyphen normalisation ("not-thinking") now recorded alongside the
+footnote marker. (4) Crocker flag upgraded: replacement carrier
+CONFIRMED on the opened scispace listing of Self and Identity 2002
+(abstract begins with the exact sentence), with the full-text caveat on
+the Costs paper kept. (5) Self-compassion flag: replacement carrier
+now OPENED (ggie.berkeley.edu, prints the passage verbatim attributed
+to Neff). (6) Mindfulness flag downgraded to a punctuation/boundary
+clarification, not a confirmed substantive defect. (7) Two remaining
+timestamp errors fixed (00:41Z→00:39Z, 00:44Z→00:40Z). Session report
+will omit an aggregate page count in favour of the per-page inventory in
+these checkpoints (28 distinct page labels sampled; several partial).
+
 ## Worker checkpoint (2026-10-26 00:45Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — concept page Gratitude (partial: three quotes checked): the
@@ -33,9 +54,10 @@ phrase at line 16 ("this is a moment of suffering; suffering is part of
 life; may I be kind to myself in this moment") is presented in
 quotation marks WITHOUT an attached citation, and the page's listed
 carrier (the Neff three-components handout PDF at greatergood.berkeley.edu)
-does NOT contain it (checked on a live fetch). An open carrier does
-exist and prints it verbatim attributed to Neff: the
+does NOT contain it (checked on a live fetch). An open carrier has
+now been OPENED and prints it verbatim attributed to Neff: the
 [Greater Good in Education self-compassion break page](https://ggie.berkeley.edu/practice/self-compassion-break-for-adults/)
+(fetched this session)
 ("This is a moment of suffering. Suffering is part of life. May I be
 kind to myself in this moment. May I give myself the compassion I
 need." —Kristin Neff; the wiki's rendering differs only in case and
@@ -127,8 +149,9 @@ Buddhism-degree support): the Dogen "Think of not thinking...
 Nonthinking. This in itself is the essential art of zazen." passage
 confirmed VERBATIM on the
 [Fukanzazengi PDF](https://terebess.hu/zen/dogen/Fukanzazengi.pdf)
-(a footnote-marker difference only). The Brill carrier was not part of
-this sample. No defects; no repairs needed.
+(a footnote-marker difference only, and the source prints
+"not-thinking" with a hyphen where the page has "not thinking" — a
+normalisation). The Brill carrier was not part of this sample. No defects; no repairs needed.
 
 ## Worker checkpoint (2026-10-26 00:41Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
@@ -136,14 +159,15 @@ QC SAMPLE — concept page Mindfulness (complete: all three quotes on the
 page checked): two of three confirmed VERBATIM on the
 [Kabat-Zinn PDF](https://jonkabat-zinn.com/wp-content/uploads/2023/01/JonKabat-Zinn_MindfulnessBased-InterventionsContext.pdf)
 (the "nothing particularly Buddhist... inherent human capacity"
-sentence; the "fundamental attentional stance" sentence). ONE MINOR
-DEVIATION FLAGGED for concept-band routing: the quote "faithful in both
-spirit and substance to the universal dharma dimension." truncates the
-source sentence mid-way ("...to the universal dharma dimension alluded
-to, which, as noted, lies at the very core of the gesture of
-mindfulness.") and closes with a period; bounded repair: add an ellipsis
-or extend the quotation. Not applied by this worker (concept band
-file).
+sentence; the "fundamental attentional stance" sentence). ONE
+PUNCTUATION/BOUNDARY CLARIFICATION flagged for the concept band to
+consider (not asserted as a confirmed substantive defect): the quote
+"faithful in both spirit and substance to the universal dharma
+dimension." ends at a matching phrase of a longer source sentence
+("...to the universal dharma dimension alluded to, which, as noted, lies
+at the very core of the gesture of mindfulness."); whether an ellipsis
+or extension is needed depends on the project's quotation rule. Not
+applied by this worker (concept band file).
 
 ## Worker checkpoint (2026-10-26 00:41Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
@@ -259,7 +283,7 @@ Session total 38 verbatim spans across 22 sampled pages.
 (psychclassics — selective-interest sentence exact; hyphen/dash
 normalization only) and PoP vol. 2 (Gutenberg — effort-of-attention/will
 sentence exact). Session total 36 verbatim spans across 20 sampled pages.
-## Worker checkpoint (2026-10-26 00:41Z, worker-pplx-deg-gate-1026a, verification lane assist)
+## Worker checkpoint (2026-10-26 00:39Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 RECORD CORRECTIONS (advisor QC round, T+33) — my own checkpoints
 corrected, no content pages touched: (1) all 15 of my recent checkpoint
@@ -538,12 +562,17 @@ one swallow does not make a summer, nor does one day; and so too one day,
 or a short time, does not make a man blessed and happy" confirmed
 VERBATIM on the
 [MIT Classics page](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html).
-A071 (self-love, NE IX.8 paraphrase): no direct quotes on the page;
-the two-forms-of-self-love rendering subsequently verified against the
-[MIT Classics NE IX.8 text](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html)
-— lower kind (wealth, honours, bodily pleasures), higher kind (noble
-acts, "gaining for himself nobility", giving up goods for friends)
-match Ross's translation. No defects; no repairs needed.
+A071 (self-love, NE IX.8): CORRECTION — the page DOES carry one
+quotation block, initially missed by this worker. The Rackham quote
+("For if a man were always bent on outdoing everybody else... he takes
+for himself the things that are noblest and most truly good.") now
+verified VERBATIM on the
+[Perseus Rackham text, 1168b](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1168b)
+(this worker's first check wrongly used the MIT Classics Ross
+translation for this span; the paraphrase check against Ross's IX.8
+remains valid for the two-forms distinction — lower kind: wealth,
+honours, bodily pleasures; higher kind: noble acts). No defects; no
+repairs needed.
 
 ## Worker checkpoint (2026-10-26 00:31Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
@@ -561,9 +590,13 @@ failure leads to increases or decreases in self-esteem" is NOT in that
 paper's abstract (it appears on that record only inside a related-work
 listing); it is verbatim the abstract sentence of a different Crocker
 2002 paper, "Contingencies of Self-Worth: Implications for
-Self-Regulation and Psychological Vulnerability" (Self and Identity) —
-confirmed via the journal's 2002 listing and a copy of the paper.
-ATTRIBUTION FLAGGED for routing (see OWNER-BOARD). The Dweck and
+Self-Regulation and Psychological Vulnerability" (Self and Identity,
+April 2002) — confirmed on the OPENED
+[scispace listing of the journal's 2002 papers](https://scispace.com/journals/self-and-identity-2aqhyjff/2002),
+whose abstract begins with that exact sentence. (Caveat: absence from
+the Costs paper's ABSTRACT does not establish absence from its full
+text, which was not checked.) ATTRIBUTION FLAGGED for routing (see
+OWNER-BOARD). The Dweck and
 Burgoyne quotes on the page were not part of this sample.
 
 
@@ -639,7 +672,11 @@ No defects found; no repairs needed.
 ## Worker checkpoint (2026-10-26 00:26Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — ST488 "Rip Van Winkle Says I Won't Count This Time" (published
-by the supervisor's registration batch, s1c-031; not in the earlier sample
+by the supervisor's registration batch, s1c-031; PLACEMENT NOTE added
+T+41: the supervisor's identity repair (43ac38a) has since restored the
+pre-session ST488 identity ("The Painter Who Kept the Water Still") and
+moved this story to a fresh ST508; the span verifications below remain
+valid for the spans themselves, now carried on ST508; not in the earlier sample
 batches ST307/415/420/495/505 or ST414/416/418/422/500/507). All 8 quoted
 James spans (Talks to Teachers ch. VIII, Gutenberg ebook 16287, raw text
 fetched this session) verified VERBATIM: the Rip Van Winkle opener, "it is
