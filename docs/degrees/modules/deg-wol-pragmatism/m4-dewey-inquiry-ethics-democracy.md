@@ -373,15 +373,9 @@ admits only what serves learning to run the pattern on your own case.
 Total: about 3 hours (178 minutes of labelled components: 38 reading
 with overhead, 15 teaching prose, 30 worked example and faded
 practice, 15 retrieval and practice, 80 graded). Optional further
-reading (the rest of the three books) is not counted. Optional further
-viewing, not counted in the workload: Richard Bernstein's lecture on
-Dewey ([watch page](https://www.youtube.com/watch?v=H_G73CAI5Hc),
-57:04 printed duration), offered as a spoken orientation for learners
-who want one before the readings; its transcript-level coverage of
-this module's topics is verified (receipt in the ledger), its
-playback and captions could not be inspected from this project's
-environment, and it carries no outcome. No video is assigned; the
-video-first check for this module is recorded in the ledger.
+reading (the rest of the three books) is not counted. No lecture video
+is attached; the video-first check for this module is recorded in the
+ledger.
 
 ## Verification status of attached sources
 
@@ -438,21 +432,6 @@ are the learner's or the module's own words, not source text, and
 are exempt. The m1 reflective-thought definition is quoted here
 only up to its ellipsis, as in m1.
 
-Optional further viewing, not an attached source (status recorded
-exactly): "John Dewey & his Relevance Today" (the embed player's
-printed title), Richard Bernstein speaking, hosted on the
-third-party aggregator channel Philosophy Overdose; 57:04 printed
-duration on the watch page (printed value, not measured during
-playback; corroborated by the transcript's last displayed line at
-57:01). Speaker credentials recorded as verified on The New School's
-institutional pages (Vera List Professor Emeritus of Philosophy, The
-New School for Social Research); transcript-level coverage of this
-module's topics verified via the deg-verify-b coverage receipt
-(watch-page transcript panel, quoted as ASR text there). Playback
-and captions were not inspectable from this project's environment
-and stay open. The lecture carries no outcome and is offered as
-orientation only.
-
 Video-first check: a focused search for a credentialed lecture video
 covering this module's material found candidate groups recorded in the
 ledger (Bernstein on Dewey; Sprintzen on Dewey; UCSC PHIL 112 on
@@ -465,17 +444,17 @@ verified on the university's own
 opened 2026-10-26, receipt in the ledger).
 Playback, captions and measured durations remain uninspected for all
 of them. Coverage: the deg-verify-b coverage
-receipt records strong transcript-level evidence for the Bernstein
-candidate on this module's topics (inquiry, democracy,
-deliberation, quoted as ASR text in the receipt) and no coverage
-evidence for the other three. Module decision (2026-10-26, this
-session): that evidence is accepted as the basis for offering the
-Bernstein lecture as optional further viewing — orientation only,
-not an assigned source, carrying no outcome — with its playback and
-caption checks still open and named below. The other three
-candidates stay in the ledger for the verifier lane with the exact
-missing checks named (playback, captions, coverage, measured
-duration for each candidate). The
+receipt records evidence from selected transcript passages of the
+Bernstein candidate relevant to this module's topics (inquiry,
+democracy, deliberation — the receipt states plainly that selected
+passages and keyword contexts were inspected, not the whole
+transcript) and no coverage evidence for the other three; a proposal
+to offer the Bernstein lecture as optional further viewing is
+recorded in the ledger and routed to the supervisor and owner for
+decision. Until a decision is taken, no video is attached. The
+candidates stay in the ledger with the exact missing checks named
+(playback, captions, coverage, measured duration for each
+candidate). The
 third-party transcript route used for the m1 and m3 videos was
 attempted twice this session on the Bernstein candidate only, and
 failed both times with server errors. No video carries an outcome;

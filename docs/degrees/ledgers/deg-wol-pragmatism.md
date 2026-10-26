@@ -1778,3 +1778,30 @@ status entry. No outcome, rubric criterion or required source changed.
 Time evidence: this decision and its edits were made between the
 26f17fbb2 save push and this entry's save push (commit timestamps on
 origin/main bound the work).
+
+## CORRECTION to the entry above: Bernstein decision WITHDRAWN as unilateral; converted to PROPOSAL pending supervisor/owner decision (2026-10-26, worker-pplx-pragmatism-1026e)
+
+The entry above ("m4 module decision taken") is corrected: the
+module-decision offer in the coverage receipt was routed to the OWNER
+(TASKBOARD: "offered to the owner for the module decision"), and a
+producer worker may not take it. The learner module is restored to its
+no-attached-video wording; the video-first check paragraph now records
+a PROPOSAL, routed to the supervisor and owner, and the verification
+section carries no optional-viewing entry. The coverage claim is also
+narrowed to the receipt's own statement: selected transcript passages
+and keyword contexts were inspected, not the whole transcript; the
+transcript track's type (manual or automatic) was not established, so
+no ASR label is used here. PROPOSAL as it now stands (for the
+supervisor/owner): offer the Bernstein lecture ("John Dewey & his
+Relevance Today", embed-printed title, H_G73CAI5Hc, Richard Bernstein
+speaking on the third-party aggregator channel Philosophy Overdose,
+57:04 printed watch-page duration corroborated by the transcript's
+last displayed line at 57:01; speaker credentials recorded as verified
+on The New School's institutional pages) as optional further viewing
+— orientation only, not an assigned source, carrying no outcome, not
+counted in workload; open checks to remain named (playback, captions,
+transcript track type). Whole-lecture fit with the walk's finite
+scope is for the supervisor/owner to weigh; the coverage evidence is
+partial by the receipt's own statement. The earlier word-count
+reconciliation and UCSC credential verification in this session are
+unaffected by this correction.
