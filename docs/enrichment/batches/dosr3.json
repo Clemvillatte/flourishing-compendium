@@ -3,7 +3,8 @@
  "done": [
   "2026-10-26 00:20Z STEP 0 scope check (sup-1026b-worker): all four assigned dossiers are ALREADY AT the 3-5 bar — the QC-7 below-bar list is STALE for this band too; no disagreement repairs needed. Incidental repair landed: story-card links re-pointed from the 23 removed duplicate ST copies to the kept first-registration copies (commit 424c8b9d9) after the supervisor duplicate reconciliation; dossier_check exit 0 for all four after the re-point; app.js data rebuilt.",
   "2026-10-26 02:10Z baton re-claimed (worker-pplx-dosr3-1026b): SUBSTANTIVE per-question review opened per the narrowed HANDOFF conclusion (STEP 0 verified counts and headings only; dosr2 is the model close). All four disagreement sections read in full, unfiltered. Provisional verdicts below use the same-proposition/same-conditions test; advisor-routed source re-opens in progress.",
-  "2026-10-26 02:17Z substantive per-question review COMPLETE + repairs landed (commit efd958d): anger and cognition certified AT the 3-5 bar; agency and goals flagged BELOW bar with documented repair leads routed to the supervisor per the dosr2 model (right-mindfulness precedent)."
+  "2026-10-26 02:17Z substantive per-question review COMPLETE + repairs landed (commit efd958d): anger and cognition certified AT the 3-5 bar; agency and goals flagged BELOW bar with documented repair leads routed to the supervisor per the dosr2 model (right-mindfulness precedent).",
+  "2026-10-26 02:21Z advisor QC round 2 corrections applied: agency Q3 downgraded to candidate (one-sided evidence), Rupert located-not-read documented, goals Q1 unsupported claim removed, goals Q3 made two-sided with the T&B evidential-defense quote (opened verbatim), cognition Q3 qualified with Haidt's hedge. Registry rebuilt for the three edited dossiers (agency 87 blocks, cognition 117, goals 88; app.js spliced, 42 published entries). All checks re-run: dossier_check exit 0 x3, density 0 dense x3, quote verification goals 0 / agency 0 / cognition 3 pre-existing unresolved (blocked hosts)."
  ],
  "in_progress": "",
  "flagged": {
@@ -22,7 +23,7 @@
    },
    {
     "q": "Is bringing the self into line a form of control or a lesser one? (Rothbaum/Weisz/Snyder 1982 vs Heckhausen/Schulz 1995)",
-    "verdict": "PASS — REPAIRED this session: the genuine head-on is Gould 1999 vs Heckhausen/Schulz 1999 in the same journal. The reply's abstract (re-opened verbatim via eutils) names 'the universal claim that primary control holds functional primacy over secondary control' as the first contested issue and defends it; Gould contested it (cross-cultural critique, Psychological Review 106(3), not openly accessible - reached through the reply's account). Dossier updated with the exchange; quote verification 0 not found. Agency now sits at 1 certified + 2 unresolved — still BELOW the strict 3-5 bar; flagged to supervisor."
+    "verdict": "CANDIDATE (downgraded from provisional PASS after advisor QC): the Gould 1999 vs Heckhausen/Schulz 1999 same-journal exchange is documented, but only the reply's side was opened (verbatim via eutils); Gould's text was not obtained, so his side reaches the dossier through the reply's account — one-sided evidence does not certify a two-sided disagreement. Dossier wording corrected to 'I did not obtain an open copy of his text'. Repair lead for a future pass: obtain Gould 1999 (Psychological Review 106(3), 597-604) or an equivalent primary statement of the cross-cultural objection before certifying."
    }
   ],
   "anger": [
@@ -46,17 +47,17 @@
    },
    {
     "q": "Does cognition extend into the world, or only embed itself in it? (Clark/Chalmers vs Rupert)",
-    "verdict": "PASS — Rupert primary located and cited in the dossier this session (Journal of Philosophy 101(8), 2004, open on PhilArchive); the opposition (extended vs embedded) is genuine and now carried by the primary plus the SEP exposition. PhilArchive PDF not machine-parseable by the verifier; title citation reworded so quote check is clean."
+    "verdict": "PASS — Rupert's 2004 primary LOCATED but NOT READ this session (philarchive fetch returned 403; checker cache confirms FETCHFAIL). The genuine opposition (extended vs embedded cognition) is carried by the SEP exposition of both sides, which the dossier quotes and attributes transparently; the primary is now cited with an honest 'located but could not open' note. Do not treat this as an opened-primary upgrade."
    },
    {
     "q": "Does reasoning cause moral judgments, or explain them afterwards? (Haidt 2001 vs Pizarro/Bloom 2003)",
-    "verdict": "PASS — Pizarro/Bloom abstract re-opened verbatim via eutils: 'Conscious deliberations play little causal role' (Haidt's model, as they state it) vs 'moral intuitions are actually shaped and informed by prior reasoning' (their evidence). Same-journal commentary; direct."
+    "verdict": "PASS with qualification — Haidt's own position is in the dossier (verbatim, previously verified: 'moral reasoning does not cause moral judgment; rather, moral reasoning is usually a post hoc construction'); Pizarro/Bloom's abstract (re-opened verbatim) states the model's claim that 'Conscious deliberations play little causal role' and presents evidence that 'moral intuitions are actually shaped and informed by prior reasoning'. Haidt's 'usually' hedge and P&B's attack on the STRONG claim mean the sources do not fully exclude each other; the dossier records this honestly ('Haidt's usually and generally leave reasoning some work'). Recorded as a genuine same-journal challenge with the hedge noted, not a knock-down."
    }
   ],
   "goals": [
    {
     "q": "Does the criticism of goal-setting make its case? (Ordonez et al. vs Locke/Latham)",
-    "verdict": "PASS — founders' reply confirmed against the published text (title, journal, pages named in the dossier; the quoted 'axe to grind' line matches the published wording). Exchange is real and same-issue."
+    "verdict": "PASS with carrier caveat — the exchange is real and same-issue; the founders' rejoinder is closed access and its quoted line reaches the dossier through CBS News's report (dossier wording corrected: the 'matches the published text' claim was removed as unsupported — the mirror text was seen only via search results)."
    },
    {
     "q": "Should an aim be set on the outcome or on the attempt? (Locke/Latham vs Cicero's Stoic archer)",
@@ -64,9 +65,9 @@
    },
    {
     "q": "Does picturing the aim help the one who pursues it? (Taylor/Brown 1988 vs Oettingen/Mayer 2002; Colvin/Block 1994)",
-    "verdict": "PASS — REPAIRED this session: reframed around the same-journal 1994 exchange. Colvin/Block abstract re-opened verbatim via eutils ('failed to substantiate Taylor and Brown's thesis... it remains unproven that positive illusions foster mental health'); Taylor/Brown 1994 reply opened (ucla.edu PDF: 'we reaffirm the basic principles... these illusions foster the criteria normally associated with mental health'). Dossier updated with both verbatim quotes; verification 0 not found. The T&B-1988 vs Oettingen/Mayer axis stays honestly recorded as a non-contradiction (different constructs)."
+    "verdict": "PASS — REPAIRED and now TWO-SIDED on opened sources: Colvin/Block 1994 abstract (eutils, verbatim: 'failed to substantiate... remains unproven') vs Taylor/Brown 1994 reply (ucla.edu PDF, verbatim: 'we believe our 1988 assertions are buttressed, not challenged, by subsequent evidence' + the reaffirmation close). Both sides' evidential positions opened; quote verification 0 not found. The T&B-1988 vs Oettingen/Mayer axis stays honestly recorded as a non-contradiction (different constructs)."
    }
   ]
  },
- "reconciliation": "FINAL TALLY (2026-10-26 02:18Z): anger 3 PASS (at bar); cognition 3 PASS (at bar); goals 2 PASS + 1 unresolved (BELOW bar, flagged); agency 1 PASS + 2 unresolved (BELOW bar, flagged). Repairs landed this session: agency Q3 (Gould/H&S exchange), goals Q3 (T&B vs C&B 1994 exchange), goals Q1 (founders' reply named/confirmed), cognition Q2 (Rupert primary carrier). All checks: dossier_check exit 0 x4, quote verification agency 0 / goals 0 / cognition 3 pre-existing blocked-host NOT FOUNDs (Science.org T&K 1974, PMC Hayes, Columbia Gigerenzer PDF - all present before this session, eyeball-confirmed by prior QC), density 0 dense x4."
+ "reconciliation": "FINAL TALLY after advisor QC round 2 (2026-10-26 02:21Z, corrections applied): anger 3 PASS (at bar; certification via direct re-opens of Seneca De Ira I.9 and Aristotle NE III.8); cognition 3 PASS (Q2 carrier caveat documented, Q3 qualified); goals 2 PASS + 1 unresolved (BELOW bar, flagged); agency 0 certified + 2 unresolved + 1 candidate (BELOW bar, flagged). CORRECTIONS from advisor audit: (a) agency Q3 downgraded to candidate — Gould's side not opened; (b) Rupert primary located but not read (403), dossier note corrected; (c) goals Q1 'matches published text' claim removed; (d) check counts corrected — dossier_check/density/quote_verify ran on the THREE edited dossiers (agency, cognition, goals); anger was not edited so no re-checks were needed; (e) cognition's 3 NOT FOUND quotes are UNRESOLVED checks on blocked hosts (Science.org, PMC, Columbia PDF), not verified this session; (f) timestamps corrected: the provisional record's 02:25Z/02:27Z entries were estimates — actual commit times were 92dbbce ~02:14Z and efd958d 02:17Z; use commit times, not estimates."
 }
