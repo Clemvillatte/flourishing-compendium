@@ -43,6 +43,8 @@ Produce `docs/degrees/inventory/<degree-slug>.md`:
 
 **Do NOT spend agent time sourcing primary texts.** The books are ALREADY IN THE COMPENDIUM: the owner's library (docs/PRIMARY-SOURCES.md — Drive folders with the Daodejing/Zhuangzi corpus, Kohn's Daoism Handbook, Buddhist philosophy texts, Csikszentmihalyi, Epictetus, etc.) and the enriched wiki docs. A corpus row in the coverage matrix is filled by pointing at the existing library entry or wiki doc — that is minutes of work, not hours of Gutenberg/PDF link-hunting. The owner does not care about links to books they already have.
 
+**Do NOT put encyclopedic reference material in the degree (owner ruling 2026-10-27).** SEP, Wikipedia, IEP, Britannica and the like are NOT teaching content and never appear as assignments or coverage-matrix rows. A worker may read them privately to orient themselves while building the topic map — that is all they are for. Learners get lectures and courses, not encyclopedia links.
+
 **What the acquisition effort goes to — the ONLY thing it goes to — is teaching content:**
 - university open courseware and recorded lecture series (NTU OCW, Harvard Open Learning, Yale OYC),
 - free-audit MOOCs with real lecture content (HarvardX/edX, Coursera free tier),

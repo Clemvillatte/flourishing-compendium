@@ -27,6 +27,10 @@ any degree. Key points:
   content: open courseware lectures, free-audit MOOCs, scholarly lecture
   series, teaching commentaries. The owner cares about the teaching, not
   links to books they already have.
+- **NO ENCYCLOPEDIC REFERENCE MATERIAL (same ruling)**: SEP, Wikipedia,
+  IEP, Britannica etc. are never assignments or matrix rows. Workers may
+  read them privately to orient themselves — learners get lectures and
+  courses, not encyclopedia links.
 - Suggested lanes: `deg-arch-inventory` (Phase D1 per degree — ALL 16 degrees,
   batched by lane, e.g. wol-x5, psych-x4, well-x3, remaining; the three
   in-development degrees are built to this standard from the start), then
