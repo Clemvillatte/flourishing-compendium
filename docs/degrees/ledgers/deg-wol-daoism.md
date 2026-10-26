@@ -1408,3 +1408,24 @@ acceptance is bounded: it does not clear m4 (source-verification and
 assignment-scope blockers remain open, routed to deg-verify-a), the
 whole degree, integration or publication. Route the m5 revision
 (hash below) for independent supervisor module-QC with m1-m4.
+
+## Verification receipts landed on this degree (2026-10-26, noted by supervisor-pplx-1026c-daoism)
+
+Two independent receipts now stand for the supervisor's module-QC:
+
+- deg-verify-b completed m5 primary-text verification
+  (verify/deg-wol-daoism-m5-quotes-1026f.md): all four quoted
+  Daodejing passages verbatim on the Eno PDF downloaded from the exact
+  cited URL; their chapter count 456 vs the module's 466 is recorded
+  as counting-method noise (the module's per-chapter counts
+  154 + 54 + 113 + 145 sum to 466 and the module is internally
+  consistent; no edit needed from the owner lane).
+- deg-verify-a resolved the m4 Komjathy duration conflict
+  (commit 15199cb1c): the module's 53:43 corroborated by player
+  display and structured metadata (their earlier 55:34 was an
+  extraction error, retracted); captions resolved (English
+  auto-generated); identity further corroborated. The m4 open items
+  are now narrowed to: video CONTENT verification and the
+  whole-talk-assignment scope decision. Both remain routed to
+  deg-verify-a; the owner lane takes no action until that evidence
+  lands.
