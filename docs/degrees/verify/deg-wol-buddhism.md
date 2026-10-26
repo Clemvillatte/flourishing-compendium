@@ -1085,3 +1085,14 @@ Attempted to resolve b4's open caption question (the module's honest
   a browser-visible check of the transcript panel. No change
   required to the module; the item stays open as a bounded
   uncertainty, not a defect.
+
+**B-V25 recount addendum (06:23Z):** the Introduction was recounted
+this pass on the pulled page text from its first sentence through
+the section's TRUE last sentence ("...to describe that freedom to
+yourself or to anyone else."): **2,619 words — exactly the figure in
+the ledger**. This confirms the ledger's measurement covers the full
+section, and the module's quoted end boundary ("...see fit.") is the
+item to correct (it stops one sentence short of the measured span).
+The Questions recounted at 584 words on the same extraction (module
+prints ~609; the delta is consistent with tag-stripping losses in
+this recount, not a defect finding). No other change to B-V25.
