@@ -699,3 +699,21 @@ Ajahn Chah (single volume) free full text (2026-10-26T05:23Z)
   owner: the b5 BLOCKED note can be lifted; outcome 3's two-teachings
   assignment can be written against the named teachings above (the
   teaching selection is the owner's module decision, not this lane's).
+
+### B-V17 — AudioDharma series-URL flag closed (2026-10-26T05:23Z)
+
+- The buddhism ledger's standing flag ("the Fronsdal course SYLLABUS
+  page (audiodharma.org/series/24652) could not be re-opened;
+  supervisor re-verification recommended") is now answered:
+  series 24652 returns the site's own 404 page ("the requested page
+  could not be found") both via the fetcher and a real browser — it
+  is a dead/nonexistent series id, not a bot wall; and no module
+  cites it (grep: ledger mentions only).
+- The live series page 24654 was re-opened this session and confirms
+  the B-V06 receipt in full: five classes (2026.01.14-02.11),
+  durations 1:26:55 / 1:32:46 / 1:28:39 / 1:28:28 / 1:13:20,
+  "Freely offered by Insight Meditation Center", Creative Commons
+  BY-NC-ND 4.0, audio downloads and Watch Video links per class.
+- Flag CLOSED for the supervisor: b2/b7 task-frames resting on the
+  Fronsdal course evidence are corroborated by a live, free series
+  page; the dead 24652 id needs no repair (not cited).
