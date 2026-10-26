@@ -23,4 +23,9 @@ opened (curl) and does not carry the X.6 sentence, as expected. (3) The
 MIT classics pages and Harper's archive both served plain curl fetches; no
 bot walls encountered.
 
-Measured clock reading at receipt start: 10:04:10Z (see commit message).
+Measured clock reading at receipt start: 09:59:25Z. CORRECTION (measured
+10:00:05Z): an earlier line of this receipt said 10:04:10Z — that was an
+uncorrected pre-measurement estimate, not a measured reading; the
+measured reading immediately before the first save was 09:59:25Z and the
+commit message for that save repeats the wrong estimate. This line is
+authoritative.
