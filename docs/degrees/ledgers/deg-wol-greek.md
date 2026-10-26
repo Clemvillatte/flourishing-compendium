@@ -173,7 +173,7 @@ calendar and Stanford description do not establish the point).
 
 | Topic (anchor-grounded) | Status | Taught in / practised in / assessed in |
 |---|---|---|
-| Socrates and the examined life; Socratic method | essential | GAP: no module yet; mod-phil-1 does not cover it (it teaches Aristotelian definitions and the three-framework comparison) |
+| Socrates and the examined life; Socratic method | essential | mod-phil-1s DRAFT REBUILT (2026-10-26, worker-pplx-greek-1026g): Sadler Apology + Crito required video, wiki reading basis, elenchus worked example; formal gates and independent module QC pending |
 | Plato's practical dialogues (why be moral, justice) | essential | module pending (legacy harvest + design) |
 | Aristotle: eudaimonia, virtue, phronesis | essential | mod-phil-1 (taught: wiki principles + AR-04; practised: definitions exercise, retrieval 2; assessed: criteria 1 and 2) |
 | Deontology and consequentialism as comparison points | essential (service topic) | mod-phil-1 (taught: SEP sections, worked examples; practised: faded practice; assessed: criteria 3 and 4) |
@@ -182,7 +182,7 @@ calendar and Stanford description do not establish the point).
 | Epicureanism (morality, death) | essential | module pending (legacy mod-phil-3 harvest) |
 | Skepticism as practical rival | essential | module pending |
 | Cynics | elective | pending |
-| Pre-Socratics | open question | scope question for strategist/owner (Yale includes them; scope excludes without stated reason) |
+| Pre-Socratics | excluded (reason stated) | strategist ruling recorded in the scope doc (2026-10-25): a curricular prioritization, not a historical claim; the Cynics elective remains the walk's radical alternative |
 | Formal logic; academic metaphysics/epistemology | excluded (reason stated in scope) | none |
 
 Module 1 workload figures of record: 4h41m superseded by 4h50m superseded
@@ -931,3 +931,77 @@ confirmed via the channel's own listing; the deg-wol-greek owner should still
 run the standard per-video verification (transcript vs module checkpoints)
 before attaching. This closes the last "essential" coverage gap named in the
 benchmark matrix.
+
+## mod-phil-1s rebuilt — withdrawal reasons addressed (2026-10-26, worker-pplx-greek-1026g)
+
+Session context: owner directive this session — move the Degrees program
+forward (the four priority degrees are published); the Phase 0 stop-gate
+is CLOSED by owner decision 6 (2026-10-25), so module production is
+unblocked; owner decision 7 keeps the degree off the Academy until
+finished. Band baton claimed via the degree baton system (the enrichment
+lane mint was released as a duplicate; the accidental assistant-supervisor
+baton from a rebase race was released to the live supervisor).
+
+The four advisor withdrawal reasons, addressed:
+
+1. Authorisation (was: design deliverable not authorised behind the
+   stop-gate): the stop-gate is closed by owner decision 6 and this
+   session was directed to degree work. The band file phase is updated
+   to module production.
+2. Source provenance (was: no fresh fetches at draft time): fresh
+   fetches this session —
+   - Sadler Apology watch page (https://www.youtube.com/watch?v=orVFra9rPYo):
+     title, channel (Gregory B. Sadler — That Philosophy Guy), duration
+     1:06:20, free access, and the channel description's Fall 2011
+     Marist Introduction to Philosophy identification all confirmed on
+     the live page (2026-10-26).
+   - Sadler Crito watch page (https://www.youtube.com/watch?v=3OCF_qGT-dA):
+     same checks passed, duration 59:39 (2026-10-26).
+   - SEP "Socrates" (Nails and Monoson,
+     https://plato.stanford.edu/entries/socrates/): fetched fresh
+     (2026-10-26); the elenctic-dialogues, weeding-inconsistencies
+     (Laches), question-and-answer mode and Apology 38a passages are
+     quoted verbatim in the module's verification record. The entry does
+     NOT set out the claim-commitments-conflict-revision sequence; the
+     module says so and presents that formulation as the wiki's own
+     working definition rather than an SEP doctrine.
+   - Wiki reading basis re-read this session: T011 confirmed to carry
+     the Socratic problem, the 399 BCE trial, the oracle story and the
+     gadfly / 20d-e / 38a passages verbatim in Jowett; the three
+     Socratic-method sayings, ST155 and K236 confirmed present with the
+     content the module uses. The word counts stay labelled as the prior
+     session's measurements (2026-10-25); they were re-confirmed for
+     existence and content fit, not re-measured.
+3. Worked-example inference error (was: the converse "successful people
+   work hardest" was tested as "the hardest-working are the most
+   successful", and empirical acquaintance-checking was taught as the
+   elenchus): rebuilt. Example 1 now separates the claim's consequence
+   from its converse, makes the missing premise explicit (hard work as
+   the only differentiator) and names it as itself an examinable
+   belief, runs the test against the learner's OWN written commitments
+   (the luck belief, the health belief) as the elenchus move, and
+   demotes the two-acquaintance check to explicitly optional
+   corroboration labelled as outside the elenchus. The faded example 2
+   and independent example 3 follow the same shape (commitments
+   elicited, conflict or its honest absence recorded).
+4. Alignment-map overstatement (was: the map named topics, not tests):
+   the map's fourth column now states what each criterion actually
+   tests (comprehension of three specific elements; provenance plus
+   commitments-vs-survey; conflict-and-revision naming plus observation
+   vs summary).
+
+Coverage matrix updated: the Socratic-method row moves from GAP to
+DRAFT REBUILT (gates and independent module QC pending); the
+pre-Socratics row moves from open question to excluded (reason stated,
+strategist ruling recorded in the scope doc). Workload arithmetic
+unchanged in total (3h29m estimate) with the video durations re-confirmed
+fresh and the reading measurements explicitly labelled prior-session.
+
+The three Rosenfeld PHI 251 sessions recommended by deg-verify-b
+(2026-10-26) remain UNATTACHED candidates — standard per-video
+verification has not been run on them and optional-but-assigned
+resources still require it.
+
+Module status: DRAFT, NOT CLEARED. No gate awarded by this session; the
+strategist-owned scope gate, resource-verification, coverage, workload
+and independent module QC gates remain. Supervisor QC requested.
