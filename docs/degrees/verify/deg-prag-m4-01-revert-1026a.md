@@ -44,16 +44,20 @@ specified, to beat the next Pages run.
 
 Note for the schema lane: the revert intentionally goes through both the
 assignments JSON and the data block so the next apply-script replay
-preserves the correct state; the fix-list annotation blocks the stale item.
+starts from the corrected input; the fix-list item is marked retracted,
+but a Markdown annotation does not enforce replay safety (the replay
+hazard filed in deg-phasea-behavior-qc-1026a.md stands).
 
 No modules, ledgers, band files or shared boards edited by this receipt
 beyond the appended OWNER-BOARD line.
 
-## Addendum (same agent, 2026-10-26 12:08Z)
+## Addendum (same agent, 2026-10-26 12:08Z; wording corrected 12:24Z)
 
-Live-site closure: the defective PRAG-M4-01 state was deployed (live check at
-12:07:29Z still showed "Two measured passages"; the revert landed on Pages by
-the 12:08:35Z check, now serving the correct single 778-word Reading A
-passage). Defect was live to learners for roughly two minutes. Both the
-assignments JSON and the data block were reverted, and the fix-list item is
-annotated on origin, so replays cannot reintroduce it.
+Live-site closure: the defective PRAG-M4-01 state was deployed — the live
+check at 12:07:29Z still showed "Two measured passages", and the revert
+had landed on Pages by the 12:08:35Z check, serving the correct single
+778-word Reading A passage. The exact exposure interval is unknown (only
+the two observation times are established). Both the assignments JSON and
+the data block were reverted; the fix-list item is marked retracted on
+origin (replay safety is not enforced by annotation — see the note
+above).
