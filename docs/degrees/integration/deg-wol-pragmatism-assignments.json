@@ -160,5 +160,9 @@
  "drop_sources": [
   "PRAG-M3-05"
  ],
- "reconciliation_note_1026b": "PRAG-M3-05 was minted by a concurrent splice (worker-pplx-1026q, Lecture VI under a second id) and reused PRAG-M3-04 for Lecture II; the manifest ids stand: M3-02 Will to Believe, M3-03 Lecture II (B1+B2), M3-04 Lecture VI (B3)."
+ "reconciliation_note_1026b": "PRAG-M3-05 was minted by a concurrent splice (worker-pplx-1026q, Lecture VI under a second id) and reused PRAG-M3-04 for Lecture II; the manifest ids stand: M3-02 Will to Believe, M3-03 Lecture II (B1+B2), M3-04 Lecture VI (B3).",
+ "degree": {
+  "description": "A walk through Peirce, James and Dewey on beliefs as tools you test in experience, for anyone who wants to suffer less, choose more wisely and keep flourishing when life is uncertain or overwhelming.",
+  "strip_opening_prefix": "A Walk of Life devoted to Pragmatism. "
+ }
 }
