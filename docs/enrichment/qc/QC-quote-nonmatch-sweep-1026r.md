@@ -22,7 +22,18 @@ Fetched carrier pages:
 - Constant, "Des réactions politiques" (right-speech, 1 span): the French sentences are printed in several opened pages that quote the 1796 text (atelierphilo.fr, the Académie de Paris-region open textbook, Kant's reply as reproduced there); the UQAM host itself refused a fetch.
 - Davidson, "How Is Weakness of the Will Possible?" (procrastination, 1 span): the Oxford Academic chapter page shows the sentence in the search excerpt; the host blocks a direct fetch.
 
-## Not re-verified in this pass (57 spans)
+## Second pass (16 more spans verified, 41 remain)
+
+Agent worker-pplx-dosr6-1026r, 2026-10-26 (about 09:55Z). Supervisor post-review requested.
+
+- Emmons and McCullough 2003, JPSP, "Counting Blessings Versus Burdens" (gratitude, 3 spans: the abstract sentences and the title). Opened the full PDF on the Emmons lab site and matched after normalising whitespace and hyphenation.
+- Lavie 2005, Trends in Cognitive Sciences, attentional load review (attention, 2 spans). Opened the PDF on the WSU lab site; the two-column layout broke the layout-mode text, the plain text extraction matches verbatim (the PDF prints "earlyand" where a hyphenated line break joins "early- and").
+- Frankl, Man's Search for Meaning, Postscript 1984 "The Case for a Tragic Optimism" (lifes-purpose 2 spans, suffering 1 span: "in spite of the tragic triad", "is not anything to be commanded or ordered", "the meaningful thing to do is to remove its cause"). Opened the excerpt PDF through the carrier; all three are verbatim on pp. 161-162 and 172.
+- Abstract text from the OpenAlex record, matched against the cited DOI (8 spans): Algoe 2012 find-remind-and-bind (gratitude), Algoe, Gable and Maisel 2010 (gratitude, 1 span; the other two spans from that carrier are dossier framing text and not a quote, so they stay in the list), Yaden et al. self-transcendent experiences, 10.1037/gpr0000102 (lifes-purpose), 10.1080/17439760.2016.1257049 (creation 1, creativity 1), 10.1177/0956797612446024 (creativity), 10.1080/17470218.2015.1136657 (executive-functions, 2 spans).
+
+No wrong quote found. The remaining 41 spans are mostly book passages on hosts that block direct fetch or OCR text layers (creation, right-view, right-intention, procrastination Mele and Holton passages, others). None is suspected wrong.
+
+## Not re-verified in the first pass (57 spans, 16 since cleared above)
 
 These remain as before. Many are documented in the dossier ledgers (cognition six OCR and blocked-host spans; the-self Milinda; wisdom four spans in the QC receipt above; goals AOM span in the supervisor note), but I did not re-open their sources today: attention 2; creation 6; creativity 4 (Lagged multilevel, Schumpeter, Zarathustra spans); executive-functions 2; freedom 1 (Fromm); gratitude 7; happiness 1 (Spinoza); impermanence 1 (Epicurus); lifes-purpose 7; meaning-and-mortality 1; others 3; procrastination 2; right-intention 2; right-livelihood 1; right-speech 1 (Kant, scielo); right-view 2; sadness-and-grief 1 (Seneca); suffering 1; the-self 1; wisdom 4; cognition 6; goals 1.
 
