@@ -556,3 +556,35 @@ span: the carrier still serves a JS shell to plain fetchers (the
 documented limitation stands; the span's verification rests on the
 e-Buddhism raw-HTML carrier and the earlier fetch-tool rendering, per
 the entry above). Flag unchanged, correctly dispositioned.
+
+## Below-bar repair (2026-10-26, worker-pplx-dosr6-1026r)
+
+Two disagreement sections changed; every other section is untouched.
+
+- "Is there a permanent self?" was rewritten around two passages opened this
+  session. Katha Upaniṣad 1.2.18, Müller translation (sacred-texts.com
+  sbe15011.htm, opened through the fetch tool; the host returns a ~167-byte
+  block page to plain scripts, so quote_verify cannot reach it and the cache
+  was seeded with the verse text as fetched) affirms an unborn, eternal Self.
+  MN 22 (Access to Insight, Nyanaponika Thera, opened) holds the view "The
+  universe is the Self ... permanent, stable, eternal, immutable" to be "an
+  entirely and perfectly foolish idea", because self and self's property are
+  not found. Nyanaponika's note 19 (same page) reads the phrase as the
+  identity of Self and Brahman, while the Commentary he cites reads it as
+  taking the aggregates as the self. The page states both readings and says
+  the pairing is the dossier author's. SN 22.59 and Dalal (SEP) are kept as
+  the method and the Advaita reply, with carrier links added.
+  Honest status: qualified. If a reviewer holds that the Commentary reading
+  removes the head-on contrast, this question drops to a comparison and the
+  dossier still has three certified questions (below).
+- NEW "What makes a person the same person over time?": Locke, Essay 2.27.9
+  (quoted in SEP Locke on Personal Identity, opened) vs Reid, brave officer
+  and "it is not my remembering any action of mine that makes me to be the
+  person who did it" (SEP Reid on Memory and Personal Identity, opened). Both
+  quotes verbatim on the carriers. The page records that whether Reid reads
+  Locke fairly is debated (SEP Locke, section on Reid).
+- Checks: dossier_check exit 0 (187 card links, 28 headers); dossier_quote_verify
+  24 quotes, 1 non-match (the documented Milinda 3.1.1 suttacentral exception);
+  dossier_density 0 dense. No advisor tool was available to this worker; a
+  skeptical self-QC was applied and the advisor/supervisor post-review is
+  requested.
