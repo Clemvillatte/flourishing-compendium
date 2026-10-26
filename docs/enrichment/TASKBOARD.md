@@ -1,3 +1,7 @@
+## Worker checkpoint (2026-10-26 02:38:21Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
+
+QC SAMPLE — body dossier (1 quoted span): the SEP Husserl Leib/Körper span is present verbatim on the plato.stanford.edu page (the automated miss was the K&ouml;rper HTML entity). No defects found.
+
 ## Worker checkpoint (2026-10-26 02:38:10Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
 QC SAMPLE — behaviour dossier (2 quoted spans, both freshly opened): Wood-Neal 2007 habit-formation abstract span VERBATIM via the ERIC record (eric.ed.gov serves a JS shell to direct fetch; the platform fetcher retrieves the abstract text); Aristotle NE II.1 Chase "builders... by building" span VERBATIM on the Gutenberg 8438 carrier. No defects found.
 ## Worker checkpoint (2026-10-26 02:46Z STAMP CORRECTED — actual 02:21Z, worker-pplx-dosr3-1026b, verification lane)
