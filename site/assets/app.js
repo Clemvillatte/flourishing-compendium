@@ -3898,11 +3898,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "If wisdom matters, what builds it? The neo-Aristotelian answer starts with character, as quoted above. The experimental answer is that a brief, structured practice can raise wise reasoning. In two preregistered experiments (total N = 555), people who reflected in the third person in a month-long diary showed \"a significant increase in wise reasoning about interpersonal challenges\" ([Grossmann and colleagues, Psychological Science 2021, abstract](https://journals.sagepub.com/doi/abs/10.1177/0956797620969170)). An earlier two-experiment study found that cueing people to reason about personal issues from a distanced perspective enhanced wise reasoning, attitudes and behavior ([Kross and Grossmann, JEP: General 2012, abstract](https://pubmed.ncbi.nlm.nih.gov/21728454/))."
+          "x": "The oldest argument on this is in Plato, between a man who sold practical wisdom and the man who doubted it could be sold. In the *Protagoras*, the sophist says what a pupil will get from him: \"prudence in affairs private as well as public; he will learn to order his own house in the best manner, and he will be able to speak and act for the best in the affairs of the state.\" Asked whether that means he promises to make men good citizens, he answers, \"That, Socrates, is exactly the profession which I make.\""
         },
         {
           "t": "p",
-          "x": "The two claims are about different things. One concerns how character forms over years; the other concerns scores on a reasoning measure after a short practice. Neither abstract says the other is wrong."
+          "x": "Socrates, looking at the sons of good statesmen, replies: \"Now I, Protagoras, having these examples before me, am inclined to think that virtue cannot be taught\" ([Plato, Protagoras, Jowett translation](https://classics.mit.edu/Plato/protagoras.html)). In the *Meno* he draws the consequence that \"if virtue is not taught, neither is virtue knowledge\" ([Plato, Meno, Jowett translation](https://classics.mit.edu/Plato/meno.html)). These are Plato's characters and not the historical Protagoras's own words, and Socrates wavers in the same dialogue, so the exchange shows the two positions and not a final verdict."
+        },
+        {
+          "t": "p",
+          "x": "Modern research gives a different kind of answer. In two preregistered experiments (total N = 555), people who reflected in the third person in a month-long diary showed \"a significant increase in wise reasoning about interpersonal challenges\" ([Grossmann and colleagues, Psychological Science 2021, abstract](https://journals.sagepub.com/doi/abs/10.1177/0956797620969170)). An earlier two-experiment study found that cueing people to reason about personal issues from a distanced perspective enhanced wise reasoning, attitudes and behavior ([Kross and Grossmann, JEP: General 2012, abstract](https://pubmed.ncbi.nlm.nih.gov/21728454/))."
+        },
+        {
+          "t": "p",
+          "x": "The two kinds of claim do not meet head-on. Plato asks whether the whole excellence can be handed from teacher to pupil; the experiments measure scores on a reasoning task after a short practice. Neither abstract says Socrates was wrong, and neither dialogue could have measured what the diaries measure. I lean toward the experiments being evidence for a trainable part of wisdom, and toward Socrates being right that no short course produces the whole of it."
         },
         {
           "t": "h2",
