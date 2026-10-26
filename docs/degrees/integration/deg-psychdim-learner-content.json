@@ -1,0 +1,109 @@
+{
+ "degree_id": "deg-psychdim",
+ "built": "2026-10-26",
+ "built_by": "worker-pplx-degfixcontent-1026a (baton deg-fix-content)",
+ "provenance": "Per docs/degrees/AUDIT-2026-10-26.md Phase B rule 3 (psychdim titles) and Phase C (openingNote, capstone note, MOD_PROMPTS). Titles are the module docs' own H1 subtitles; descriptions condense each doc's intro paragraph; prompts are drawn from each module's framing question. Nothing is invented here. Consumed by the deg-fix-schema/deg-fix-text lanes when splicing site/assets/app.js; the assignment contract stays in deg-psychdim-manifest.json (verified this session).",
+ "openingNote": "Psychological Dimensions follows one question through eight modules: what do psychologists currently know about the processes that carry a life, and how can you read that research well enough to use it? Six dimensions, from affect to overt behaviour, describe one ordinary difficulty at a time, and the map is offered as a proposal rather than a promise: it may help you notice an influence or an option you had missed, which is where alleviating suffering and flourishing under uncertainty can start.",
+ "modules": {
+  "mod-pd-1": {
+   "title": "The Mind Across Six Dimensions",
+   "kicker": "Orientation",
+   "description": "The entry module. You install the map of six dimensions and the reading habits the whole degree uses, then describe one ordinary difficulty of your own across the dimensions. The map is a proposal, not a diagnosis.",
+   "prerequisite_display": [],
+   "mod_prompt": "As you study each source, ask: which processes and circumstances may be involved here, and what would count as evidence?",
+   "source_basis": "m1-orientation.md: intro paragraph and H1"
+  },
+  "mod-pd-2": {
+   "title": "Understanding Emotion Without Fighting Yourself",
+   "kicker": "Affective",
+   "description": "An uneasy feeling arrives before you know what it means. You learn ways to describe the feeling, ask what it is doing, and choose a response without treating discomfort as a personal failure. The aim is a wiser next step, not permanent calm.",
+   "prerequisite_display": [
+    "Module I — The Mind Across Six Dimensions"
+   ],
+   "mod_prompt": "For each source, ask: what may this feeling be doing, and what would a wiser next step be?",
+   "source_basis": "m2-affective.md: intro paragraph"
+  },
+  "mod-pd-3": {
+   "title": "Thinking More Clearly When the Mind Fills Gaps",
+   "kicker": "Cognitive",
+   "description": "You leave a conversation certain you heard a criticism; later the message on your phone does not match the version in your head. You examine perception, learning, memory and judgment without deciding that either your mind is broken or every confident thought must be true.",
+   "prerequisite_display": [
+    "Module I — The Mind Across Six Dimensions",
+    "Module II — Understanding Emotion Without Fighting Yourself"
+   ],
+   "mod_prompt": "For each source, ask: where might my mind be filling a gap, and what would check it?",
+   "source_basis": "m3-cognitive.md: intro paragraph"
+  },
+  "mod-pd-4": {
+   "title": "Giving Attention a Useful Direction",
+   "kicker": "Attentional",
+   "description": "When demands pile up, paying attention can sound like an accusation rather than help. You replace that instruction with smaller questions, ready for what, directed where, and in conflict with which other demand, and use the answers to understand an ordinary task and evaluate attention claims.",
+   "prerequisite_display": [
+    "Module I — The Mind Across Six Dimensions",
+    "Module II — Understanding Emotion Without Fighting Yourself",
+    "Module III — Thinking More Clearly When the Mind Fills Gaps"
+   ],
+   "mod_prompt": "For each source, ask: ready for what, directed where, and in conflict with which other demand?",
+   "source_basis": "m4-attentional.md: intro paragraph"
+  },
+  "mod-pd-5": {
+   "title": "Self-Concept and Identity",
+   "kicker": "Self and identity",
+   "description": "Saying you are not that kind of person can protect a boundary or close a door before you have examined it. You learn to ask which description you are using, a trait tendency, a role, a value, a judgment of worth or a story about your life, and use the distinctions to examine a self-question.",
+   "prerequisite_display": [
+    "Module I — The Mind Across Six Dimensions",
+    "Module II — Understanding Emotion Without Fighting Yourself",
+    "Module III — Thinking More Clearly When the Mind Fills Gaps",
+    "Module IV — Giving Attention a Useful Direction"
+   ],
+   "mod_prompt": "For each source, ask: which description am I using, a trait, a role, a value, a worth judgment or a story?",
+   "source_basis": "m5-self-and-identity.md: intro paragraph"
+  },
+  "mod-pd-6": {
+   "title": "Motivation and Following Through",
+   "kicker": "Motivational",
+   "description": "A goal can matter deeply and still be difficult to pursue. You separate the reasons behind your pursuing, some endorsed, some pressed, some simply enjoyable, without deciding that struggle shows a defective character.",
+   "prerequisite_display": [
+    "Module I — The Mind Across Six Dimensions",
+    "Module II — Understanding Emotion Without Fighting Yourself",
+    "Module III — Thinking More Clearly When the Mind Fills Gaps",
+    "Module IV — Giving Attention a Useful Direction",
+    "Module V — Self-Concept and Identity"
+   ],
+   "mod_prompt": "For each source, ask: which of my reasons are endorsed, and which feel pressed on me?",
+   "source_basis": "m6-motivational.md: intro paragraph"
+  },
+  "mod-pd-7": {
+   "title": "Understanding a Repeated Behaviour",
+   "kicker": "Overt behavioural",
+   "description": "You put a book where you will see it, then reach for your phone anyway. A label such as weak leaves the sequence unexplained; you examine a modest behaviour in context, distinguish a learned tendency from an intention, and ask what the evidence actually supports.",
+   "prerequisite_display": [
+    "Module I — The Mind Across Six Dimensions",
+    "Module II — Understanding Emotion Without Fighting Yourself",
+    "Module III — Thinking More Clearly When the Mind Fills Gaps",
+    "Module IV — Giving Attention a Useful Direction",
+    "Module V — Self-Concept and Identity",
+    "Module VI — Motivation and Following Through"
+   ],
+   "mod_prompt": "For each source, ask: what happens just before and after the behaviour, and what does the evidence support?",
+   "source_basis": "m7-overt-behavioural.md: intro paragraph"
+  },
+  "mod-pd-8": {
+   "title": "Psychological Dimensions in Daily Life",
+   "kicker": "Integrative capstone",
+   "description": "You choose one ordinary pattern you would like to understand more wisely, complete a bounded inquiry, try one safe adjustment, and use the record to decide what to do next. The capstone is a specification for your own inquiry, not a claim that any particular learner has run it.",
+   "prerequisite_display": [
+    "Modules I through VII"
+   ],
+   "mod_prompt": "For each lens you use, ask: what would show this account wrong, and what is the wiser next step?",
+   "drawsOnPriorModules": "No new reading or video is required. Retrieve and reuse the exact sources and activities already studied; this capstone creates an opportunity to apply them, not another source hunt.",
+   "source_basis": "m8-integrative-capstone.md: intro paragraph and the 'No new reading or video is required' instruction"
+  }
+ },
+ "repair_notes": {
+  "PD-M7-10_mislabel": "retitle to 'Vohs et al. 2021 author manuscript' with its bounded locator (Abstract and Methods' 'Participants' subsection only) - recorded in deg-psychdim-manifest.json; schema/text lane applies it",
+  "window_errors": "PD-M3-03 prints lecture 7's window; PD-M3-04's second assigned window (54:59-59:22) was dropped - both recorded in the manifest entries; schema lane applies them",
+  "data_block_extras": "PD-M3-07 Bazerman: remove from mod-pd-3 required. PD-M1-07 Woolley in m8: no m8 prose cite, recommend removal from mod-pd-8 required (keep in m6). Both confirmed this session in the manifest",
+  "wiki_readings": "opportunity flagged in the audit; owner decision required (finite-scope rule), not taken here"
+ }
+}
