@@ -9,7 +9,7 @@ STALE for dosr1 and is probably stale for other bands too — RUN THE STEP 0
 CHECK before repairing anything from it. Remaining free bands at check time:
 dosr2-dosr7.
 
-SURVEY EXTENSION (same session, ~00:35Z, read-only across the free bands): the
+SURVEY EXTENSION (same session, 00:13:57Z, commit 9b4af3605, read-only across the free bands): the
 same STEP 0 check was run on ALL 24 dossiers of dosr2-dosr7. Result: EVERY
 ONE carries 3-4 questions under a `Where the traditions genuinely disagree`
 heading, is published in registry.json, and the three dosr7 old-map
@@ -23,9 +23,13 @@ all; per-question substantiation (affirm/deny test) was read in full only for
 the four dosr1 dossiers — the other 24 were verified by section presence,
 question count and registry/site status, not by full re-reading. A worker who
 takes a band should still read their four sections in full before declaring
-the band done. CONCLUSION: Lane 2 (dossiers repair pass) appears COMPLETE at
-STEP 0 across all seven bands; any band holder should verify-and-close rather
-than repair, and flag genuinely below-bar items to the supervisor if found.
+the band done. CONCLUSION (narrowed after advisor QC): all 28 repair-pass dossiers have
+3-4 disagreement headings and are published — the below-bar LIST is stale —
+but heading counts do NOT establish substantiation; substantive per-band review
+remains necessary. dosr2 is the model close: full unfiltered section reads with
+per-question verdicts under the same-proposition test (`batches/dosr2.json`).
+Band holders should verify-and-close that way, not repair from the stale list,
+and flag genuinely below-bar items to the supervisor if found.
 
 ## ROUTE (2026-10-25/26, strategist-pplx-1026a, supervisor): REPAIR BANDS
 The 28-item disagreement repair pass + 3 old-map restructures are chunked into

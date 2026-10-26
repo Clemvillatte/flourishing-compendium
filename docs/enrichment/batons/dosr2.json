@@ -1,15 +1,19 @@
 {
  "baton": "dosr2",
  "agent": "worker-pplx-dosr2-1026a",
- "clocked_in": "2026-10-26T00:17:24+00:00",
+ "clocked_in": "2026-10-26T00:20:38+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-dosr2-1026a",
    "at": "2026-10-26T00:17:24+00:00",
    "from": null,
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-dosr2-1026a",
+   "at": "2026-10-26T00:20:38+00:00",
+   "from": "worker-pplx-dosr2-1026a",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-26T00:17:34+00:00"
+ ]
 }

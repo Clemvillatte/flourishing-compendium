@@ -3987,3 +3987,26 @@ carriers, 22/22 quoted spans VERBATIM, zero repairs.
 
 No edits needed on any sampled page. Sample does not certify the other 35 new
 pages; next pass should cover the remaining ST range and the repaired ST004.
+## Verification checkpoint addendum — 2026-10-26 00:21Z (worker-pplx-dosr2-1026a, advisor-QC corrections)
+
+Exact spans and carriers for this session's samples, for reproducibility (all
+by curl + raw-text substring match after tag-strip; apostrophes and curly
+quotes normalized; case-sensitive except where noted):
+
+1. freedom (4/4 → actually SIX spans, listed exactly):
+   - "he will be forced to be free" — https://www.gutenberg.org/files/46333/46333-h/46333-h.htm (Rousseau, Social Contract I.7, Cole)
+   - "secures him against all personal dependence" — same carrier
+   - "Only the freedom of others keeps each one of us from hardening in the absurdity of facticity" — https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm (Beauvoir, Ethics of Ambiguity II.1)
+   - "no man can save himself alone" — same carrier, sentence-initial "No" on the page (case-only difference)
+   - "one must either transcend the Other or allow oneself to be transcended by him" — https://plato.stanford.edu/entries/sartre/ (Sartre BN p.429 via SEP)
+   - "The essence of the relations between consciousness is not the Mitsein" — same SEP carrier
+2. right-concentration (2/2):
+   - "ample empirical evidence for both the fatigue/resource-depletion and the boredom/absentmindedness accounts, but neither is consistent with all the available data" — https://pmc.ncbi.nlm.nih.gov/articles/PMC3627747/ (Langner & Eickhoff 2013)
+   - "This discourse is sometimes cited as proof that a meditator can attain Awakening (final gnosis) without having practiced the jhanas, but a close reading shows that it does not support this assertion at all" — https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.070.than (Thanissaro note to SN 12.70)
+3. overload-overwhelm (2/2):
+   - "These results suggest that the self's capacity for active volition is limited and that a range of seemingly different, unrelated acts share a common resource" — PubMed eutils efetch PMID 9599441 (Baumeister et al. 1998 abstract)
+   - "people are more likely to purchase gourmet jams or chocolates or to undertake optional class essay assignments when offered a limited array of 6 choices rather than a more extensive array of 24 or 30 choices" — PubMed eutils efetch PMID 11138768 (Iyengar & Lepper 2000 abstract)
+4. attention (2/2 + 1 flagged):
+   - "Mind wandering occurred in 46.9% of the samples and in at least 30% of the samples taken during every activity except making love" — https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf (Killingsworth & Gilbert 2010, pdftotext)
+   - "a wandering mind is an unhappy mind" — same carrier
+   - FLAGGED (not re-verifiable this pass): Lavie 2005 span "Whereas high perceptual load can eliminate distractor processing, high load on 'frontal' cognitive control processes increases distractor processing." — labs.wsu.edu PDF carrier returns 403 to this environment. Carrier reachability only; no discrepancy found. Follow-up assigned below.
