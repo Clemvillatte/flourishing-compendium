@@ -799,7 +799,10 @@ This does not change the standing recommendation (owner re-checks
 licensing at publication); it removes the "canonical host merely
 unreachable" possibility in favor of "not findable".
 
-### m5 capstone quote QC sample (2026-10-26T06:40Z; verify-pplx-w3-1026a, deg-verify-a)
+### m5 capstone quote QC sample (2026-10-26T06:22Z; verify-pplx-w3-1026a, deg-verify-a)
+
+Stamp corrected 06:23Z: the initial save carried a mis-typed
+06:40Z header; the receipt was written at 06:21:42Z (measured).
 
 No m5 receipt existed in this lane file (the capstone's quote
 verification was recorded by the production side), so an independent
