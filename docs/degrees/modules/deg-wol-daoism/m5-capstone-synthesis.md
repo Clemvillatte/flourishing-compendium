@@ -16,7 +16,9 @@ labelled components; arithmetic below).
 **Primary text**: the four capstone readings, Daodejing chapters 20,
 44, 50 and 67 in the [Eno translation](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content)
 (chapter 44 you met in m2 and re-read here; 466 words measured on the four
-chapters, subsection markers excluded; free, educator-licensed, no paywall), plus re-reads of the
+chapters: whitespace-separated tokens with the chapter-number lines and
+the subsection markers (a>, b>, c>, d>) excluded and dash tokens
+counted; free, educator-licensed, no paywall), plus re-reads of the
 passages you already hold from m2 (Daodejing 11, 36, 78), m3 (Cook
 Ding, the Hunchback, the Butterfly Dream) and m4 (Neiye sections 1,
 2, 3, 12; elective track). No new video is assigned; the primary text carries the objection material.
@@ -276,7 +278,8 @@ This does not pass: no scoring, no reason, no revision recorded.
 
 - Primary-text reading on the four capstone readings (chapters
   20, 44, 50 and 67: 154 + 54 + 113 + 145 = 466 words measured on
-  the chapters, subsection markers excluded): two readings, 932
+  the chapters, chapter-number lines and subsection markers (a>, b>,
+  c>, d>) excluded, dash tokens counted): two readings, 932
   words; at 130 words per minute (poetic text with new concepts)
   about 7 minutes raw; with study overhead as a three-times
   multiplier, about 21 minutes (estimate, labelled). Re-reads of already-held passages are counted inside
@@ -287,7 +290,7 @@ This does not pass: no scoring, no reason, no revision recorded.
   passage re-reads inside it).
 - Self-assessment and revision: about 20 minutes.
 - Teach-back close: about 10 minutes.
-- Module teaching prose on this page (2,208 words measured,
+- Module teaching prose on this page (2,224 words measured,
   excluding the rubric table rows and this arithmetic section): at
   180 words per minute about 12 minutes raw; with study overhead as
   a three-times multiplier, about 37 minutes (estimate, labelled).

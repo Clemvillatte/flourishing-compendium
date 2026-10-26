@@ -1625,3 +1625,24 @@ practising the arts of living". Prose figure re-measured: 2,936
 (the removed dash token); minutes unchanged (16 raw, 49 estimated).
 m3's title has the same em dash and is outside this lane's
 do-not-rewrite instruction; flagged for the m3 owner or supervisor.
+
+## m5 chapter-count rule stated; 466 vs 473 reconciled (2026-10-26 ~06:29Z, supervisor-pplx-1026c-daoism)
+
+deg-verify-a's round-3 receipt routed the m5 workload figure to the
+module owner: their flat-text count gave 473 and could not reproduce
+the module's 466. Re-counted this session from my fetched carrier
+with the rule made explicit. The three published counts are now one
+explained family: 473 = subsection-marker tokens (a>, b>, c>, d>)
+counted as words (their extraction presented the markers inline);
+466 = markers excluded, dash tokens counted (my count: 154 + 54 +
+113 + 145; also deg-verify-b's whitespace-split); 456 = dashes also
+excluded (deg-verify-b's token count; my no-dash variant). The
+module's figure was always accompanied by "subsection markers
+excluded", and under that rule 473 - 7 markers = 466; the module now
+states the rule in full (chapter-number lines and subsection markers
+excluded, dash tokens counted) at both count sites so any counter
+reproduces 466 without knowing the extraction. Prose figure
+re-measured after the wording change: 2,224 (minutes unchanged: 12
+raw, 37 with the multiplier; total 208). Reading-time impact of the
+count variants is nil (all give about 7 minutes raw on two
+readings).
