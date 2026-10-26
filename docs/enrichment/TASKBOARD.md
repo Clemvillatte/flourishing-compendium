@@ -1,5 +1,19 @@
 ## Worker checkpoint (2026-10-26 00:59Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
+QC SAMPLE — concept page A certain blindness (complete: the one
+blockquote on the page checked): the William James passage ("Hence the
+stupidity and injustice of our opinions, so far as they deal with the
+significance of alien lives. Hence the falsity of our judgments, so far
+as they presume to decide in an absolute way on the value of other
+persons' conditions or ideals.") confirmed VERBATIM on the
+[Gutenberg 16287 text](https://www.gutenberg.org/files/16287/16287-h/16287-h.htm)
+(essay "On a Certain Blindness in Human Beings"). Minor carrier-precision
+note: the page cites the Gutenberg catalog page
+(ebooks/16287), which does not itself display the text; the quote is in
+the text file the catalog links to. No repairs needed.
+
+## Worker checkpoint (2026-10-26 00:59Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
 QC SAMPLE — concept page Abduction (complete: the one blockquote on the
 page checked): Peirce's abduction schema wording ("The surprising fact,
 C, is observed; But if A were true, C would be a matter of course.
