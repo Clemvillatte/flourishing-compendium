@@ -171,3 +171,158 @@ credentials are checked separately from article affiliations.
   selected sections and independent credential checked. Supplemental
   placement only if it supplies a learning task not already met by
   PD-V02; do not add it merely because it is relevant.
+
+## PD-V04: Habit formation without a universal deadline
+
+- **Opened:** 2026-10-26, verifier-96108df3. Search and unprompted
+  [PMC full-text fetch](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/);
+  checked Methods, Results, Discussion, Conclusions and disclosures.
+- **Identity and access:** Ben Singh, Andrew Murphy, Carol Maher and
+  Ashleigh E. Smith, *Time to Form a Habit: A Systematic Review and
+  Meta-Analysis of Health Behaviour Habit Formation and Its
+  Determinants*, Healthcare 12(23), 2488; 9 December 2024, DOI
+  10.3390/healthcare12232488, CC BY 4.0
+  ([article](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)).
+- **Credentials:** the separately opened
+  [Adelaide University profile](https://researchers.adelaide.edu.au/profile/carol.maher)
+  identifies co-author Carol Maher as Research Professor of Population
+  and Digital Health, with health-behaviour interventions among her
+  research interests.
+- **Exact proposed assignment:** Results sections 3.2–3.5 and the
+  Discussion paragraph beginning “Despite its strengths”. These expose
+  the sample, measures, variable timelines and evidential limits before
+  the learner encounters the stronger advice in Implications
+  ([selected reading](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)).
+- **Evidence that matters:** the review includes 20 studies and 2,601
+  participants; just four studies report time to automaticity, and
+  their designs are too varied for a pooled estimate of that time.
+  Section 3.3 reports study medians of 59 and 66 days, study means of
+  91, 106 and 154 days, and individual ranges as wide as 4–335 days;
+  these are different summaries of different studies, not one common
+  clock
+  ([Results and Discussion](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)).
+- **Effect-size caution:** section 3.4 pools pre-to-post change from
+  12 studies, 19 intervention conditions: SMD 0.69, 95% CI
+  [0.49, 0.88], I² = 87%. It is not a pooled randomised
+  between-group treatment effect. The Discussion also gives 0.67 in
+  one paragraph; use the specified Results estimate rather than
+  smoothing over that internal inconsistency
+  ([Results 3.4 and Discussion](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)).
+- **Walk of Life fit:** retain as the bounded M7 behaviour reading
+  if the learner task is to design a modest, revisable practice and
+  notice what helps it recur. A learner's slow progress need not be
+  narrated as a character failure. This compassionate framing is an
+  editorial choice, not an outcome measured by the review.
+- **Do not teach:** “a habit takes 66 days”, a guaranteed two-to-five
+  month deadline, or that repeated behaviour is necessarily wise.
+  The evidence concerns selected health behaviours and mostly
+  self-reported automaticity, not wisdom, virtue or whole-life
+  flourishing
+  ([study characteristics and limitations](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)).
+- **Status:** verified reading, English; anonymous access, identity,
+  selected content and independent co-author credential checked.
+  Retain the variability and design cautions alongside any headline
+  number.
+
+## PD-V05: A clearer self-description need not be a rigid identity
+
+- **Opened:** 2026-10-26, verifier-96108df3. Search and unprompted
+  [PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/);
+  inspected conceptual definitions, measurement appraisal, cultural
+  perspectives, intervention cautions, limitations and disclosures.
+- **Identity and access:** Srikant Manchiraju, *Self-concept clarity:
+  a comprehensive and integrative review*, Frontiers in Psychology
+  17, 1822881; 26 June 2026, DOI 10.3389/fpsyg.2026.1822881,
+  CC BY
+  ([article header](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/)).
+- **Credentials:** the independently opened
+  [Florida State faculty page](https://jimmorancollege.fsu.edu/about/faculty-staff/faculty-srikant-manchiraju)
+  identifies the author as an Associate Professor in the Jim Moran
+  College of Entrepreneurship, researching consumer psychology,
+  well-being and construct validation. It lists a PhD in Apparel,
+  Events, and Hospitality Management; do not relabel him as a clinical
+  psychologist or professor of psychology.
+- **Exact proposed assignment:** *Definition and core components*,
+  *Distinguishing self-concept clarity from related constructs*, *A
+  critical appraisal of self-concept clarity measurement*, *Cultural
+  perspectives on self-concept clarity* and *Interventions, change,
+  and optimal self-concept clarity*
+  ([selected sections](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/)).
+- **What is supported:** the review distinguishes the perceived
+  clarity, consistency and stability of self-beliefs from their
+  positive or negative evaluation. It highlights self-report
+  dependence, uncertain causal direction and cultural limits of a
+  scale rewarding consistency
+  ([definitions, measurement and cultural discussion](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/)).
+- **What is not supported:** the paper is an integrative review,
+  not a new trial or meta-analysis of a clarity intervention. It
+  explicitly calls intervention evidence mostly indirect and warns
+  that clarity attached to inaccurate or rigid self-beliefs need not
+  be adaptive
+  ([intervention section](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/)).
+- **Walk of Life fit:** conditional M4 self reading. A useful
+  proposed task distinguishes a present observation, a sweeping
+  self-judgement and a commitment the learner can revise. Do not use
+  the SCC scale as a diagnosis, prescribe a fixed authentic identity,
+  or treat consistency across every relationship as a universal
+  ideal. These safeguards follow the degree's educational purpose;
+  the paper does not test this task.
+- **Disclosure and verification boundary:** the author declares
+  Grammarly, Copilot and Scite assistance with literature search,
+  source verification and language editing. This record verifies
+  what the review says, not every primary study it cites; any
+  study-level finding or quotation reused in a lesson still needs
+  the original opened
+  ([generative AI statement](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/)).
+- **Status:** verified reading, English; anonymous access, identity,
+  bounded sections and independent credential checked. Keep only if
+  the production owner can justify its self-dimension task without
+  broadening into identity theory for its own sake.
+
+## PD-V06: Constructed emotion is a position, not an efficacy result
+
+- **Opened:** 2026-10-26, verifier-96108df3. Search and two unprompted
+  [PMC fetches](https://pmc.ncbi.nlm.nih.gov/articles/PMC12164598/);
+  the second raised the extraction limit to inspect the complete
+  main text, including the comparison and conclusion.
+- **Identity and access:** Lisa Feldman Barrett and 15 co-authors,
+  *The Theory of Constructed Emotion: More Than a Feeling*,
+  Perspectives on Psychological Science 20(3), 392–420;
+  13 May 2025, DOI 10.1177/17456916251319045; anonymous PMC
+  text under CC BY-NC
+  ([article header](https://pmc.ncbi.nlm.nih.gov/articles/PMC12164598/)).
+- **Credentials:** the independent
+  [Northeastern institutional profile](https://nubic.northeastern.edu/profile/barrett-lisa/)
+  identifies Barrett as University Distinguished Professor of
+  Psychology and co-director of the Interdisciplinary Affective
+  Science Laboratory. The profile contains older career references;
+  no present office or presidency is inferred from them.
+- **Content checked:** the abstract frames this as a response to
+  van Heijst and colleagues; *The theory of constructed emotion in
+  brief* sets out the authors' hypotheses, and *Both Theories Rest
+  on Irreconcilable Assumptions* and Table 3 explicitly compare
+  competing positions
+  ([full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC12164598/)).
+- **Evidence type and limit:** theoretical argument, commentary
+  and synthesis of earlier research, not an intervention study.
+  Claims about allostasis, categorisation and variation must be
+  attributed to the theory or its authors; this article cannot
+  prove that relabelling an emotion improves well-being
+  ([theory outline](https://pmc.ncbi.nlm.nih.gov/articles/PMC12164598/)).
+- **Scope recommendation:** exclude the full 29-page debate from
+  the core. It is technically demanding and its dispute over
+  emotion theories does not itself teach a proportionate
+  everyday response. If the owner retains a short M2 epistemic
+  sidebar, limit it to *The theory of constructed emotion in
+  brief* and the competing-assumptions table, label it as a
+  position and explain why uncertainty matters for interpreting
+  one's experience. Do not turn this into a neuroscience survey.
+- **Do not teach:** that basic-emotion theories are disproved by
+  this commentary, that emotions are imaginary, or that sufferers
+  can simply choose different feelings. Those are not results
+  established by this paper
+  ([argument and conclusion](https://pmc.ncbi.nlm.nih.gov/articles/PMC12164598/)).
+- **Status:** access, identity, bounded content and independent
+  credential verified; full-paper core placement not recommended.
+  Verification is not an instruction to include the source or a
+  means of satisfying recency by padding the curriculum.
