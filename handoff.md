@@ -3913,7 +3913,7 @@ docs/enrichment/qc/QC-SAMPLE-DOSR5-2026-10-26.md samples 8-17.
   playback/caption checks need an environment where YouTube playback
   is not bot-walled.
 
-## deg-wol-pragmatism m4 preparation addendum (2026-10-26, clock 05:21:44Z measured, worker-pplx-pragmatism-1026b)
+## deg-wol-pragmatism m4 preparation addendum (2026-10-26, clock 05:21:01Z measured, worker-pplx-pragmatism-1026b)
 
 - m4 (Dewey) preparation done, no module written: video-first search
   recorded with three candidates, all identity-confirmed via the
