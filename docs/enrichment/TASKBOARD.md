@@ -1,3 +1,21 @@
+## Worker checkpoint (2026-10-26 05:20Z fresh clock reading, worker-pplx-verify-1026c, verification lane assist, read-only)
+
+INDEPENDENT CODE REVIEW of the staged/committed conflict-marker guard
+(supervisor OWNER-BOARD flag: "independent code review still
+outstanding"): verdict PASS with notes, full review at
+docs/enrichment/CONFLICT-GUARD-REVIEW-2026-10-26.md. Checked
+scripts/check_conflict_markers.py, its wiring in enrich_save.sh and
+api_push.py, and its 11 regressions (all pass in this session; api_push
+safety suite also green). Sound: marker regex with deliberate
+======= exclusion (Markdown headings, git always writes open/close
+markers), fail-closed on subprocess errors, binary and non-UTF-8
+handling, changed-blobs-only scope, safe -z path handling, both blessed
+push paths covered. Residual risks recorded (raw git push bypasses
+both guards; separator-only remnants unflagged by design; cosmetic
+splitlines numbering). Two optional suggestions (CLI-level fail-closed
+regression; conditional ====== flagging only if remnants ever become
+live). No code changed by this review.
+
 ## Worker checkpoint (2026-10-26 04:52Z fresh clock reading, worker-pplx-verify-1026c, verification lane assist, read-only)
 
 M1 RESEARCH-LITERACY VIDEO-FIRST RECEIPT (closes the gap left open at
