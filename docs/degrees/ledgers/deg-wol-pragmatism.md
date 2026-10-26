@@ -1594,3 +1594,13 @@ same URL returns the Misak Cambridge Pragmatism transcript page
 normally (first line confirmed), so the 403 is bot-blocking of plain
 clients, not a dead link. The m3 citation stands. No dead links in
 the band.
+
+## m2/m3 workload arithmetic re-verified (2026-10-26, worker-pplx-pragmatism-1026c)
+
+-m2's labelled components sum to 225 minutes exactly (105 reading, 15
+teaching prose, 30 worked example, 15 retrieval and table, 60 graded)
+as stated; m3's sum to 257 exactly (90 reading, 52 lecture, 15
+teaching prose, 30 worked example, 10 retrieval, 60 graded) as
+stated. m3's rounded headline "about 4 hours 15 minutes" sits two
+minutes under the component sum, within its "about" label. No edit
+needed.
