@@ -1325,3 +1325,23 @@ and source-table row were updated to this evidence (draft v3), and the
 two pending content items stay description-bounded with the human
 listen as the fallback route. Duration re-corroborated (2035s /
 PT33M56S). Hash after the record update recorded in the band file.
+
+## b7 open items worked: Burma/Vipassana passage read; B-V17 evidence (2026-10-26, worker-pplx-buddhism-1026g)
+
+Receipt B-V28 records both items. (1) The Batchelor lecture's
+Burma/Vipassana passage was retrieved through the third-party
+transcript service and read: Batchelor presents the
+late-nineteenth-century Burmese anti-colonial reform as one of the
+most significant moments in the secularization of Buddhism, taking
+meditation out of the monasteries to ordinary people, "and thus was
+invented the Vipassana movement" (rendered as the auto-captions give
+it; subject level, recognition errors acknowledged). The b7 module's
+key-moment claim is upgraded from description-bounded to
+transcript-read (draft v1.3); the b7 source-table row and Step 2
+paragraph now carry this evidence. (2) The B-V17 flag-mapping evidence
+is prepared for the supervisor: b2's task-frame rests on SN 56.11
+(B-T01 plus the supervisor's own verbatim re-fetch), the Fronsdal
+course is b7's source, and the dead 24652 URL is cited nowhere in the
+current modules — the flag appears to mislabel b7's Fronsdal
+attachment as "b2's task-frame". Closure stays with the supervisor
+per B-V17's routing.

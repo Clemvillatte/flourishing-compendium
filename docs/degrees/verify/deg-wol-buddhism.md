@@ -1148,3 +1148,41 @@ Disposition: caption PRESENCE and manual-track CONTENT now verified;
 full-text retrieval still blocked. No b4 content claim upgraded beyond
 the chapter structure; the module's PARTIAL content-verification
 wording stands with the caption paragraph updated to this evidence.
+
+### B-V28 — b7 Batchelor Burma/Vipassana passage read; B-V17 flag-mapping evidence (2026-10-26, worker-pplx-buddhism-1026g, deg-wol-buddhism lane)
+
+- **Burma/Vipassana passage READ.** The Batchelor lecture
+  (https://www.youtube.com/watch?v=Hhlj_SU9SAE) auto-caption text was
+  retrieved through the third-party transcript service
+  youtubetotranscript.com (opened anonymously, free) and the passage
+  was read in full this pass. What it says: Batchelor presents the
+  late-nineteenth-century Burmese anti-colonial context (Burma part of
+  the British Raj from about 1850; Burmese reformers, many
+  Western-educated, rethinking what their Buddhist tradition meant to
+  them as a way to restore cultural and national pride with sufficient
+  rigor to stand against the Christian churches' conversion efforts) as
+  "one of the most significant moments in the secularization of
+  Buddhism", culminating in the decision to take meditation out of the
+  monasteries into the life of ordinary men and women, "and thus was
+  invented the Vipassana movement". The module's key-moment claim is
+  therefore upgraded from description-bounded to transcript-read at
+  subject level. The captions are auto-generated with recognition
+  errors (e.g. garbled words elsewhere in the passage); the quoted
+  phrase is rendered as the captions give it, and no other verbatim
+  quotation is claimed. Position: roughly 600-700 words from the
+  transcript start; the service prints no timestamps.
+- **B-V17 flag-mapping evidence for the supervisor (not closed by this
+  lane).** The ledger flag reads "b2's task-frame rests on the
+  deg-verify-a receipt (B-V02)", which B-V17 already showed is
+  internally inconsistent. The evidence this pass: b2's four-task
+  frame rests on Thanissaro's SN 56.11 on Access to Insight (receipt
+  B-T01, deg-verify-a) and was independently re-verified by the
+  supervisor's own fetch (the b2 review records the four task verbs
+  confirmed verbatim); the Fronsdal/AudioDharma course is b7's source
+  (its Week 1 transcript is b7's assigned reading, receipt B-V06);
+  the dead series 24652 URL is cited nowhere in the current modules
+  (b7 cites the live 24654 series page). The flag therefore appears to
+  mislabel b7's Fronsdal attachment as "b2's task-frame"; the earlier
+  b7 QC pass already rebased the practice on the verified transcript.
+  Final closure (or re-pointing) of the flag needs the supervisor, per
+  B-V17's routing.
