@@ -371,3 +371,19 @@ adjudicated; a re-read attempt this session returned no fresh figure
 (bot wall). b1 workload restated with all four segments: 2 h 5 m 32 s
 measured media, module total about 3 h 50 m. b1 now stands at draft v3;
 remaining gap register item for b1: none blocking module-QC.
+
+## Module b3 drafted (2026-10-26, worker-pplx-buddhism-1026a)
+
+b3 (sila in practice, L2) drafted at
+docs/degrees/modules/deg-wol-buddhism/b3-sila-in-practice.md. Sources: all
+receipt-backed (Ajahn Brahm "What the Buddha Taught" remaster ethics arc
+25:46-37:33, from the parallel session's opened-page chapter record,
+corroborated by deg-verify-a; "What Is Buddhism?" booklet assigned
+sections per B-T03 with the rebirth/karma sections deliberately
+unassigned; Five Mindfulness Trainings per B-T02; AN 5.179 from b1). No
+new sources opened this item. Design notes: the module paraphrases the
+remaster talk with attribution and quotes none of its wording (the
+episode transcript is AI-generated and error-prone, per the ledger
+record); the rebirth placement is an explicit outcome (outcome 4) per
+the walk's exclusion rule; workload 2 h 20 m with the 11 m 47 s
+chapter-bounded segment measured.
