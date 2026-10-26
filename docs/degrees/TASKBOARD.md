@@ -49,6 +49,18 @@ Per-degree remaining items (from the supervisor's reviews and release lines):
   module-derived data.
 - deg-psychdim (CLOSEST — first degree online): ALL MODULES PASS and
   WHOLE-DEGREE QC PASS (supervisor 1026h; review
+- BUDDHISM DEGREE GATED (supervisor 1026h, commit 334d401): all nine
+  modules hold supervisor module-QC PASS at current hashes (b4 combined
+  post-PASS delta verified this session incl. B-V34 fetch; b5/b6/b7
+  deltas verified; b9 corroborated); whole-degree QC PASS
+  (reviews/deg-wol-buddhism-whole-degree-qc-1026h.md); band qc_complete.
+  NEXT for the deg-gate session: independent whole-degree gate review
+  (scope/centering) per the standing independence rule — 1026h ran the
+  supervisor QC and must NOT run the gate. Then deg-integrate: attach +
+  publish per INTEGRATION.md. Routed residuals (non-blocking): b4
+  Session-1 guided-segment listen (playback-capable); stale draft-status
+  headers comment-only repair (lane, hash re-verification owed); b9
+  license-line polish note (1026e).
   deg-psychdim-whole-degree-qc-1026h.md). Band qc_complete; module README
   updated to qc-complete state (ee6d7b9); module files untouched at QC
   hashes. REMAINING: deg-gate whole-degree gate review (scope/centering;
