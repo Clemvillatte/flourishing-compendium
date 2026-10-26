@@ -12,7 +12,7 @@ Every topic and every resource below must serve the value proposition — allevi
 ## University syllabi opened (the D1 corpus — 3, all fetched and read this session)
 
 1. **University of Virginia, "Psychology 403 Flourishing, Professor Jon Haidt, Fall 2004"** — https://ppc.sas.upenn.edu/sites/default/files/flourishingsyllabushaidt.pdf — the raw PDF was fetched WITHOUT an extraction prompt this session and the full C1-C14 schedule read verbatim. 14 classes from 9/1 to 12/8, each with a "Sage" (ancient-wisdom) reading and "Scientists" (modern-research) readings. Required books: Seligman Authentic Happiness, Keyes & Haidt Flourishing, Franklin Autobiography, Buddha Dhammapada (Byrom trans.), Burns Feeling Good, Maslow Religions, Values and Peak Experiences. **CORRECTION (this session): the earlier extraction-prompt summary described this as "Spring 2024" with a three-part structure (Foundational Positive Psychology / Positive States and Positive Self / Positive Interpersonal Relationships including Gottman Love) — WRONG. The actual syllabus is Fall 2004, is organized as 14 classes each pairing a Sage reading with Scientists readings, and does NOT mention Gottman's Love (that attribution is retracted).**
-2. **The University of Texas at Tyler, "PSYC 3315 Positive Psychology, Spring 2026, Instructor: Kristy Allen"** — https://www.uttyler.edu/archive/syllabi/school-of-health-professions/psychology-and-counseling/spring-2026/psyc-3315-001-allen-spring2026.pdf — 16-week positive-psychology course built around the Greater Good Greater Good News Podcast series and The Science of Well-Being (Yale, Santos). Full weekly topic and assignment table read this session.
+2. **The University of Texas at Tyler, "PSYC 3315 Positive Psychology, Spring 2026, Instructor: Kristie Allen, M.A."** — https://www.uttyler.edu/archive/syllabi/school-of-health-professions/psychology-and-counseling/spring-2026/psyc-3315-001-allen-spring2026.pdf — the raw PDF was re-fetched WITHOUT an extraction prompt this session and the full Week 1-15 schedule read verbatim. NO TEXTBOOK — built entirely on The Happiness Lab podcast (Santos) with guest lectures (Bock on philosophy, Acuna on playfulness, McGuire on moral elevation). 2 in-person open-note exams (Week 8 and Week 15), 6 in-class activities, 12 pop quizzes, and a podcast-interview capstone ("In Search of the Good Life: Your Very Own Podcast Episode"). **CORRECTION (this session): the instructor is Kristie Allen (not Kristy); the course does NOT use "Greater Good Greater Good News Podcast" — it uses The Happiness Lab (Santos, Yale); the week structure is W1 Jan 12/14 through W15 Apr 20/22 with specific dates.**
 3. **Cal Poly Pomona, "PSY 2230 Positive Psychology: The Science of the Good Life"** — https://academic.cpp.edu/senate/docs/GE004189ref_2.pdf — 14-course-outline introduction to positive psychology. Full topic outline and reading list read this session.
 
 A fourth syllabus was searched and opened (UVa Positive Psychology course) but did not carry a weekly schedule — not required; the three above are sufficient per the ≥3 syllabi rule.
@@ -22,13 +22,13 @@ A fourth syllabus was searched and opened (UVa Positive Psychology course) but d
 The three syllabi agree on the same skeleton: (a) what is positive psychology and the PERMA / wellbeing framework, (b) positive emotions and the broaden-and-build theory, (c) flow and engagement, (d) relationships and prosocial behaviour, (e) meaning, purpose and character strengths, (f) accomplishment, resilience and post-traumatic growth, (g) mindfulness, gratitude and contemplative practice, (h) applications to health, education and the workplace, (i) the science-of-well-being synthesis. Where they diverge — Haidt leans into the ancient-wisdom-and-modern-science dialogue (The Happiness Hypothesis), UT Tyler leans into the podcast-and-audio-course format (Greater Good, Santos), Cal Poly leans into a formal 14-topic outline — the D1 map below keeps the PERMA spine and files each instructor's emphasis where it belongs, per the centering clause.
 
 ### A. Orientation — what is positive psychology?
-- What is positive psychology; the shift from pathology to wellbeing [Haidt C1 9/1 Introduction and Great Truths; UT Tyler wk 1; CPP topic 1]
+- What is positive psychology; the shift from pathology to wellbeing [Haidt C1 9/1 Introduction and Great Truths; UT Tyler W1 Jan 14 An Introduction to Positive Psychology (Happiness Lab: The Man Who Invented Happiness Science Marty Seligman); CPP topic 1]
 - The PERMA framework; subjective and eudaimonic wellbeing [Haidt C1 9/1 Marcus Aurelius Meditations Bk II + strengths self-test; CPP topic 2]
 - Hedonic and eudaimonic happiness; the ancient question [Haidt C2 9/8 Positive Psychology and Self-Improvement; C3 9/15 Getting the Right Appraisals]
-- Positive psychology's origins and scope; the APA and Seligman [UT Tyler wk 1; CPP topic 2]
+- Positive psychology's origins and scope; the APA and Seligman [UT Tyler W1 Jan 14 (Happiness Lab Marty Seligman); CPP topic 2]
 
 ### B. Positive emotions
-- Positive emotions; broaden-and-build theory [Haidt C7 10/13 Being Nice with Fredrickson broaden-and-build; UT Tyler wk 3; CPP topic 3]
+- Positive emotions; broaden-and-build theory [Haidt C7 10/13 Being Nice with Fredrickson broaden-and-build; UT Tyler W2 Jan 21 Optimism (Happiness Lab: Can You Become a Practical Optimist); CPP topic 3]
 - The positivity ratio; upward spirals [UT Tyler wk 3]
 - The science of happiness — set points and adaptation [Haidt C6 10/6 Hedonics and the Setpoint (Kahneman Objective happiness); CPP topic 4]
 - The neuroscience of positive affect [Haidt C7 10/13 Being Nice (Fredrickson broaden-and-build; Emmons Gratitude; McCullough Forgiveness)]
@@ -36,36 +36,36 @@ The three syllabi agree on the same skeleton: (a) what is positive psychology an
 ### C. Flow and engagement
 - Flow — the psychology of optimal experience (Csikszentmihalyi) [Haidt C9 10/27 Work and engagement with Nakamura & Czikszentmihalyi Vital Engagement; UT Tyler wk 4; CPP topic 5]
 - Character strengths and virtues (Peterson, Seligman) [Haidt C13 12/1 Strengths (Seligman AH Ch 8-10, 13) and VIA; CPP topic 6]
-- The VIA classification; strengths-based living [UT Tyler wk 4; CPP topic 6]
+- The VIA classification; strengths-based living [UT Tyler W4 Feb 4 Mindset and Positive Thinking (Happiness Lab: How to Adopt a Growth Mindset); CPP topic 6]
 
 ### D. Relationships and prosocial behaviour
-- Positive relationships; attachment and love [Haidt C8 10/20 Love and social support (Baumeister & Leary need to belong; Reis & Gable); UT Tyler wk 9; CPP topic 7]
+- Positive relationships; attachment and love [Haidt C8 10/20 Love and social support (Baumeister & Leary need to belong; Reis & Gable); UT Tyler W6 Feb 18 Friendship (Happiness Lab: The Secret to Making Friends as an Adult; How to Make Friends and Compliment People); CPP topic 7]
 - Empathy, compassion and altruism [Haidt C7 10/13 Being Nice (reciprocal altruism; Fredrickson broaden-and-build); CPP topic 8]
 - Positive psychology of relationships; the need to belong [Haidt C8 10/20 Love and social support (Baumeister & Leary need to belong; Reis & Gable positive psychology of relationships; Seligman AH ch.11 love; Sternberg triangular theory of love)] — NOTE: the earlier "Gottman's science of love; the five-to-one ratio" attribution is RETRACTED; the Haidt syllabus does not mention Gottman
-- Forgiveness and reconciliation [UT Tyler wk 10; CPP topic 9]
+- Forgiveness and reconciliation [UT Tyler W7 Feb 23 Romance (Happiness Lab: Why the Good Enough Relationship Beats the Perfect Partner; Date Like a Scientist); CPP topic 9]
 
 ### E. Meaning, purpose and wisdom
-- Meaning in life; the three levels (coherence, purpose, significance) [UT Tyler wk 11; CPP topic 10]
+- Meaning in life; the three levels (coherence, purpose, significance) [UT Tyler W12 Mar 30 Living an Awe-Some Life (Happiness Lab: The Power of Awe); CPP topic 10]
 - Purpose — how to find and follow it [Haidt C9 10/27 Work and engagement with Emmons Personal goals; CPP topic 11]
 - Wisdom and the ancient traditions (Haidt's Happiness Hypothesis dialogue with Buddhism, Stoicism, etc.) [Haidt C1 9/1 Marcus Aurelius Meditations; C3 9/15 Epictetus Manual for Living; C12 11/17 Aristotle Nichomachean Ethics Book II]
 - Spiritual wellbeing and transcendence [Haidt C11 11/10 Growth by awe and beauty (Bhagavad Gita Bk 11; Haidt Elevation); CPP topic 12]
 
 ### F. Resilience, growth and post-traumatic growth
 - Resilience; the capacity to recover [Haidt C10 11/3 Growth by adversity (Ryff & Singer Flourishing under fire; Updegraff & Taylor From vulnerability to growth); UT Tyler wk 12; CPP topic 13]
-- Post-traumatic growth; the paradox of suffering [UT Tyler wk 12; CPP topic 14]
-- Mindset and growth (Dweck) [UT Tyler wk 6]
+- Post-traumatic growth; the paradox of suffering [UT Tyler W5 Feb 9 Self-Compassion (Happiness Lab: How to Grow After Adversity; How to Embrace Imperfection); CPP topic 14]
+- Mindset and growth (Dweck) [UT Tyler W4 Feb 4 Mindset and Positive Thinking (Happiness Lab: How to Adopt a Growth Mindset; Don't Accentuate the Positive)]
 
 ### G. Contemplative practice and mindfulness
-- Mindfulness meditation; MBSR [Haidt C5 9/29 Calming the mind meditation and prozac (Buddha Dhammapada whole book; Shapiro Schwartz Santerre); UT Tyler wk 7; CPP topic 15]
-- Gratitude practice; the gratitude journal [Haidt C7 10/13 Being Nice (Emmons Gratitude); UT Tyler wk 8; CPP topic 15]
-- Self-compassion (Neff) [UT Tyler wk 8; CPP topic 15]
+- Mindfulness meditation; MBSR [Haidt C5 9/29 Calming the mind meditation and prozac (Buddha Dhammapada whole book; Shapiro Schwartz Santerre); UT Tyler W5 Feb 11 Emotions as Data (Happiness Lab: Emotions are Data So Listen to Them; Stop Stressing About Stress); CPP topic 15]
+- Gratitude practice; the gratitude journal [Haidt C7 10/13 Being Nice (Emmons Gratitude); UT Tyler W14 Apr 13 Gratitude (Happiness Lab: Grateful Expectations); CPP topic 15]
+- Self-compassion (Neff) [UT Tyler W5 Feb 9 Self-Compassion (Happiness Lab: How to Grow After Adversity; How to Embrace Imperfection); CPP topic 15]
 - Savoring and positive reminiscence [CPP topic 15]
 
 ### H. Applications and the science-of-well-being synthesis
 - Positive psychology in education, health and the workplace [Haidt C13 12/1 Strengths Choice Wisdom (Schwartz maximizing vs satisficing; Sternberg balance theory of wisdom); CPP topic 16]
-- Positive interventions — what works, what doesn't [UT Tyler wk 13; CPP topic 16]
-- The Science of Well-Being synthesis (Santos) [UT Tyler wk 14]
-- Capstone — designing your own flourishing life (per-degree capstone rule) [Haidt C14 12/8 Class presentations final paper due 12/9; UT Tyler wk 16]
+- Positive interventions — what works, what doesn't [UT Tyler W14 Apr 15 Happiness at Work (Happiness Lab: How to Thrive at Work; Five Tips to be Happier at Work); CPP topic 16]
+- The Science of Well-Being synthesis (Santos) [UT Tyler W3 Jan 26/28 The Philosophy of Happiness Parts 1-2 (Happiness Lab: Happiness Lessons of the Ancients Aristotle; Plato; The Buddha; Symons & VanderWeele Aristotelian flourishing J Happiness Studies 2024); W11 Mar 25 Altruism and Prosocial Behavior (Happiness Lab: Psychopaths and Superheroes; Ask for Help And Spread Happiness)]
+- Capstone — designing your own flourishing life (per-degree capstone rule) [Haidt C14 12/8 Class presentations final paper due 12/9; UT Tyler W15 Apr 22 Exam 2 (the podcast-interview capstone In Search of the Good Life is due W13 Apr 8)]
 
 ## Coverage matrix (topic → module that will teach it)
 
