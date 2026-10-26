@@ -73,11 +73,14 @@ The defect was reverted and the live site re-verified.
   deg-fix-content at 1617678 and confirmed by deep trace at 7455582
   ("m4 deep trace — FAIL for M4-01's locator" against the stale state,
   then reversed).
-- The schema lane also restructured app.js (commit 028ccda line): the
-  data blob is now a normalized registry (top-level `sources` and
-  `modules` maps; degrees reference module ids). All 16 degrees and
-  module counts are intact (deg-psychdim 8, deg-wol-daoism 5,
-  deg-wol-buddhism 9, deg-wol-pragmatism 5).
+- ATTRIBUTION CORRECTION (12:14Z): the earlier claim that the schema
+  lane "restructured app.js" at 028ccda is RETRACTED — 028ccda was a
+  small locator change, and the normalized registry layout (top-level
+  `sources`/`modules`, no `</script>` fragments) predates all 29
+  app.js-touching commits on 2026-10-26 (verified back to 76c6fac,
+  10:14:28Z). Today's changes were data-level edits within that
+  layout. All 16 degrees and module counts are intact (deg-psychdim 8,
+  deg-wol-daoism 5, deg-wol-buddhism 9, deg-wol-pragmatism 5).
 - Origin/main at check: 9d06561 (12:07:43Z); app.js sha256
   0d8f800dcf42aa6c470f59fbd8412d2fb2330cde532b9de076ec44d74d9ea8f2.
 - LIVE verification (~12:07–12:08Z, cloud browser, hard reload): the
