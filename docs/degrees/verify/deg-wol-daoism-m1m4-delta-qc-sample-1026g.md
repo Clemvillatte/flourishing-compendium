@@ -1,8 +1,9 @@
 # QC sample — deg-wol-daoism-m1-m4-delta-confirm-1026e.md
 
 **Worker**: worker-pplx-verify-1026g, deg-verify-b baton, verification lane
-(read-only on modules/ledgers). **Date**: 2026-10-26T10:14Z measured clock
-(~51m elapsed of the 60m run; taper item). **Scope**: independent
+(read-only on modules/ledgers). **Date**: 2026-10-26T10:13Z measured clock
+(~50m elapsed of the 60m run; taper item; stamp corrected from a
+miswritten 10:14Z). **Scope**: independent
 recomputation of the two addendum-conditional hashes against origin/main.
 
 ## Findings
