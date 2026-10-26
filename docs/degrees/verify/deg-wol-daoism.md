@@ -724,3 +724,24 @@ Neiye precision addendum and m4 Linnell carrier receipt 06:05:34Z;
 m4 Komjathy re-verification receipt 06:06:52Z; m4 Linnell
 limit-resolution 06:07:22Z. All work described was performed in the
 05:47:11Z-06:09:28Z session window; content above is unchanged.
+
+### m4 Komjathy duration conflict RESOLVED — module CORROBORATED (2026-10-26T06:18Z; verify-pplx-w3-1026a, deg-verify-a)
+
+The duration conflict routed above is WITHDRAWN after a raw-page
+fetch: the player displays **53:43**, and the structured page metadata
+gives **53:44 (3,223 and 3,224 seconds respectively)** — m4's printed
+"53 minutes 43 seconds" is CORROBORATED; the earlier 55:34
+(lengthSeconds 3334) reading in this receipt was an extraction error
+on this side, now retracted. No module change is needed; the routed
+item closes.
+
+The same raw fetch resolves the receipt's other open points:
+- **Captions:** the player response lists an **English
+  (auto-generated)** caption track — the receipt's "inconclusive" is
+  resolved; an auto-caption track exists (consistent with m4's
+  transcript receipt and its no-verbatim-quotation rule).
+- **Identity further corroborated:** channel Daoist Foundation,
+  handle @daoistfoundation1793, channel ID UCKQVSe24qwwr6fVdiR2LARw;
+  speaker and credentials as in the module's citation.
+- **Chapter/key-moment list** prints on the page (authorship still
+  not established — the earlier note stands).
