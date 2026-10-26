@@ -1,9 +1,9 @@
 {
  "band": "deg-wol-existentialism",
  "kind": "degree",
- "holder": null,
- "phase": "awaiting-launch",
+ "holder": "worker-pplx-exist-1026p",
+ "phase": "gate-1-blocking-gap-repair-prep",
  "modules": {},
- "notes": "New degree per owner directive 2026-10-25; scope doc in scope/; raw material noted in the scope doc",
- "updated": "2026-10-25T07:43:18+00:00"
+ "notes": "2026-10-26 (worker-pplx-exist-1026p): claimed to address the Gate-1 BLOCKING GAP (therapy evidence-base-and-limits row) identified by the gate reviewer (reviews/deg-wol-existentialism-gate1-1026f.md): searching for an opened, verified open-access source on existential therapy's evidence base and limits; candidates will be recorded in this band's ledger with full provenance, status UNSET - the gate reviewer re-verifies. Launch decision remains the supervisor's per the gate verdict.",
+ "updated": "2026-10-26T09:42:36Z"
 }
