@@ -422,7 +422,7 @@ subject to the stop-gate ruling and advisor verifier rounds):
   module-writing session should state which basis (raw or cleaned) each
   count uses.
 
-### M2 source-use boundaries consumed (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:30Z)
+### M2 source-use boundaries consumed (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:25Z measured at save; an earlier draft of this heading said 02:30Z, corrected on advisor QC)
 
 The deg-verify-b source-use boundaries packet
 (verify/deg-psychdim-m2-source-use-boundaries.md, verifier-af06bd9e) is
@@ -436,12 +436,14 @@ production, per the supervisor's Phase 0 ruling item 4:
   authentication after a robots-error fallback). Candidate excerpt for
   the process-model exercise: printed pp. 281-283 (PDF pages 11-13),
   the five-family paragraph, the brief definitions and Figure 4, ending
-  after the model limitations. This MEETS the condition recorded above
+  after the model limitations. At the time of the boundary consumption this rested on the
+  verifier's receipt; this session then OPENED THE PRIMARY ITSELF
+  (see the verification note below), so the condition recorded above
   ("the five stage names must not be taught unless a further verified
-  source supplies them"): the writing session may adopt Gross 1998 as a
-  primary definition anchor for the antecedent/response process-model
-  exercise, as a SUBSTITUTION or reference anchor, not an added
-  required resource. The packet's caution stands: the five families are
+  source supplies them") is now met by this session's own opening: the
+  writing session may adopt Gross 1998 as a primary definition anchor
+  for the antecedent/response process-model exercise, as a SUBSTITUTION
+  or reference anchor, not an added required resource. The packet's caution stands: the five families are
   working distinctions by their place in the emotion-generative process,
   not five proven treatment effects; a process-family label is not
   proof that an action is beneficial.
@@ -460,6 +462,50 @@ production, per the supervisor's Phase 0 ruling item 4:
   eudaimonic proposal attributed; disagreement authorship visible; finite
   assignments as substitutions not accumulation) are recorded as design
   constraints for the eventual module review.
+
+### M2 boundaries: primary openings verified (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:28Z measured)
+
+Per advisor QC, the two receipt-based items above were converted into
+this session's own opened evidence:
+
+- GROSS 1998 PRIMARY OPENED (university-hosted PDF downloaded without
+  authentication, 2.2 MB; pdftotext extraction): title page confirms
+  Review of General Psychology, 1998, Vol. 2, No. 5, 271-299, James J.
+  Gross, Stanford University. The candidate excerpt (printed pp. 281-283
+  = PDF pages 11-13) contains, verbatim-confirmed on the extracted
+  text: the five-family passage ("processes: situation selection,
+  situation modification, attention deployment, cognitive change, and
+  response modulation. This is an elaboration of the two-way
+  distinction I have offered previously between antecedent-focused
+  emotion regulation, which occurs before the emotion is generated, and
+  response-focused emotion regulation, which occurs after the emotion
+  is generated"), the family definitions (situation selection defined
+  as "approaching or avoiding certain people, places, or objects in
+  order to regulate emotions"), the Figure 4 references, and the
+  limitations passage ("The process model of emotion regulation shown
+  in Figure 4 has clear limitations. First, situations, aspects, and
+  meanings are terms that have proven notoriously resistant to
+  definition. What is offered is a set of working distinctions among
+  regulatory processes that I have found useful in navigating the
+  tangled literatures relevant to emotion regulation"). Measured at
+  1,919 words on the raw pdftotext basis for the three PDF pages
+  (includes column-layout artefacts, figure labels and running
+  headers; a cleaned basis would be smaller; the writing session
+  should re-measure the final assigned span on a stated basis). The
+  limitations passage directly supports the packet's caution that the
+  five families are working distinctions, not proven treatment
+  effects.
+- VAN HEIJST ET AL. 2025 OPENED (PMC12575812): "Beyond Right and
+  Wrong: Fostering Connection in Emotion Theory Debates", van Heijst,
+  Ploeger and Kret, Perspectives on Psychological Science, 2025; a
+  response to Barrett et al. 2025. Verbatim-confirmed on the raw page:
+  the title, and the conclusion's final sentences ("BETs inspire a
+  detailed investigation of the bioregulatory responses of emotion
+  that, especially when studied comparatively, can lead to new
+  functional insights." and "Striving to be open to the nuances in
+  different views and curious about the types of evidence they can
+  provide is ultimately the way forward."). Raw page 3,650 words on
+  the tag-stripped basis. The counterpoint option stands as recorded.
 
 ### M3 preparation (2026-10-26, worker-pplx-degpsychdim-1026a; no module prose written — M2-M8 module production gated per the supervisor's Phase 0 ruling)
 
@@ -518,9 +564,17 @@ Bouton, Conditioning and Learning (Noba), the mechanism-teaching source:
   typographic apostrophe in “there’s” and curly double quotes around
   “decision”; the text above matches the raw page character for
   character.)
-- Measured body count: 7,088 words on the tag-stripped basis (the span
-  from the module description through the Conclusion, before the
-  Outside Resources section). This supplies the measured count the
+- Measured body count: 7,088 words on the tag-stripped basis. Span
+  boundary check (advisor QC): the start delimiter ("Basic principles
+  of learning are always operating") is unique in the page; the end
+  delimiter takes the FIRST occurrence of "Outside Resources" (the
+  section heading after the Conclusion; the phrase occurs twice on the
+  page, the second in site chrome); start precedes end; the span's
+  first sentence is the module description and its last sentence is
+  the Conclusion's final sentence ("...based on one of the theories
+  presented in this module."). This is a measured FULL-BODY candidate
+  count, not the final assigned-reading budget; the writing session
+  should re-measure the final assigned excerpt on a stated basis. This supplies the measured count the
   readiness refresh owed ("a measured count is owed if assigned at
   production"); the refresh's ~5,000 estimate is superseded. Raw
   stripped page including site chrome: 9,289 words.
