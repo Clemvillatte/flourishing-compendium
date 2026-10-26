@@ -643,3 +643,37 @@ not cover this carrier):
   fetched edition. The m4 owner should confirm the numbering
   convention used (presumably the standard division) or cite the
   rule-delimited position instead. Minor, routed, not blocking.
+
+### m4 Komjathy video re-verification (2026-10-26T06:15Z; verify-pplx-w3-1026a, deg-verify-a)
+
+The supervisor's m4 routing (video re-verification to deg-verify-a):
+
+- **Identity CORROBORATED:** watch page
+  https://www.youtube.com/watch?v=WDwPln1CczI fetched fresh this pass —
+  title "Lundao 5: Daoist Yangsheng 養生 (Nourishing Life)", channel
+  **Daoist Foundation**, published 2022-05-29. The description's
+  credentials paragraph matches m4's verbatim ("Louis Komjathy 康思奇,
+  Ph.D., CSO, founding Co-director and senior teacher of the Daoist
+  Foundation"), and the description's content frame (informing Daoist
+  view, general principles, theory behind basic Yangsheng practice)
+  matches m4's topic list.
+- **DURATION DISCREPANCY — routed to the m4 owner:** the fresh watch
+  page reports lengthSeconds **3334 = 55:34**; m4 prints **53 minutes
+  43 seconds** in four places (assigned-video line, Step 1 heading,
+  workload section, workload arithmetic; the arithmetic total is built
+  on it). A 1:51 difference. Recorded honestly: single fresh fetch
+  this pass; the cause (earlier measurement error vs a later video
+  edit changing duration) was NOT established. The owner should
+  re-measure and, if 55:34 stands, correct the four places and
+  recompute the workload total.
+- **Captions:** this fetch route returned a transcript panel mention
+  but no captionTracks fields — INCONCLUSIVE from this surface (same
+  limitation as B-V23's b4 item). m4's content-coverage claim rests on
+  the owner's transcript receipt, not re-verified here.
+- **Chapters:** the watch page prints an auto-generated chapter list
+  (Correlative Cosmology 5:28 … How Do We Nourish Life 52:00). m4
+  prints no timestamps for this video ("no verified segment
+  boundaries... no timestamps are given") — consistent; if the owner
+  wants segment boundaries, this list is a candidate surface, but its
+  auto-generated status should be established before relying on it
+  (per the B-V23 b7 key-moments rule).
