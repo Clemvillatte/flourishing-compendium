@@ -1168,3 +1168,71 @@ production ruling (first-landed sequence is canonical):
   (3) the transcript service remains bot-walled from fetcher,
   sandbox and cloud browser (detail above), corroborating the
   canonical m4's decision to rest on standing receipts.
+=======
+
+## m4 advisor QC round 1 — RETURNED, repairs applied (2026-10-26, supervisor-pplx-1026c-daoism)
+
+Advisor verdict: RETURNED for repairs (not ACCEPTED); m4 remains
+DRAFT, NOT CLEARED. The six blocking findings and their disposition in
+the rewritten module (commit follows this entry):
+
+1. Source-opening requirement: attempted this session through every
+   accessible route (fetch tool 503 twice; direct fetch 403; YouTube
+   timedtext and innertube 429/403; kome 429; youtubetotranscript.com
+   Cloudflare-walled in the cloud browser; tactiq tool page rendered
+   but its transcript backend returned 401 and the embedded YouTube
+   player is bot-walled). Branch B taken: the module now claims no
+   quotation beyond the project's standing verbatim receipts, and the
+   Lundao 5 content re-verification is EXPLICITLY PENDING, routed to
+   deg-verify-a (live). Unsupported claims removed: "the oldest layer"
+   dating claim, the whole-chapter "does not give a schedule" claim
+   (rescoped to the assigned sections), and "the lecture does not cite
+   studies" (replaced with module-scope statements about what the
+   module assigns and claims).
+2. Whole-talk assignment vs scope: the module now states the recording
+   prints no chapter divisions, assigns the talk with named topics,
+   and marks the whole-talk assignment as provisional: if the
+   verification lane supplies verified ranges, the assignment narrows
+   and the workload arithmetic is revised (stated in the arithmetic).
+   The scope-excluded cosmology material is not among the assigned
+   topics.
+3. Neiye as elective: Step 2 and the Neiye variant of deliverable a
+   are now marked as the elective deep-dive track with a required
+   lecture-based variant for learners not taking it; outcome 2 is
+   tagged elective. Editorial numbering is defined with opening-line
+   locators for every assigned section, and quotation wording was
+   checked against the fetched text.
+4. Outcome/assignment alignment: deliverable c now requires the
+   yangsheng definition, two general principles and the Dao connection
+   (fixing the outcome 1 assessment gap); deliverable b now requires
+   the learner's own constraint and the lecture-sourced reason; Step 3
+   now points to deliverable a (was b); a hypothetical worked design
+   (walking) with constraint, reason, limit and evidence criteria was
+   added to Step 3 plus a brief ungraded practice attempt (retrieval
+   activity 4); strong and rejection examples added for rubric
+   criteria 1, 2 and 4 (criterion 3 already had them).
+5. Workload: Step 1 now orders ONE viewing (the draft's two-viewing
+   instruction contradicted its one-viewing budget); the sleep exemplar
+   is labelled hypothetical and the invented "not as downtime" lecture
+   rationale removed (the kept rationale is the lecture's listed
+   principle only).
+6. Humanizer: the verification-status narration and the elective
+   gap-closure paragraph moved to this ledger (module now has a plain
+   Sources section); "not X but Y" constructions rewritten; em dashes
+   removed from headings (the single em dash left is the m1-m3 file
+   title convention); source links attached to the retained factual
+   claims.
+
+Small correction applied: prerequisites now cite m1 Outcome 2 (the
+four working terms), not Outcome 3.
+
+Clock note (per the timing directive): session clock verified against
+GitHub's HTTP Date headers at 05:59Z (T0 05:46:59Z); the deg-gate
+ledger entry stamped 07:05Z conflicts with verified external UTC and
+is recorded here without assuming a cause.
+
+ROUTE TO deg-verify-a: please re-open Lundao 5 (WDwPln1CczI) for
+content verification to the section-4 standard and, if the recording's
+captions yield timestamps, supply the yangsheng-relevant ranges
+(definition; general principles; four postures; seasonal material) so
+the m4 assignment can narrow from whole-talk to verified segments.
