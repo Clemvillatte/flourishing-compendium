@@ -106,7 +106,7 @@ verify/deg-wol-daoism-two-anchor-recheck.md (2026-10-26) — not
 re-verified here; consume that receipt. New video harvests by the
 production owner are appended below as they are verified.
 
-## m1-orientation harvest (verified 2026-10-26, clock 05:20-05:35Z)
+## m1-orientation harvest (verified 2026-10-26, clock 04:46-04:47:30Z, measured commit bounds)
 
 The owner's m1 (commit 22a282b53) attaches four sources beyond the
 Ziporyn video already covered. All four opened and verified this
@@ -207,7 +207,7 @@ session.
   closes chapter 2 (Treatise on Making Things Equal) — present.
 - Status: verified (text).
 
-## Full-transcript coverage reads, m1 videos (2026-10-26, clock 06:40-07:00Z)
+## Full-transcript coverage reads, m1 videos (2026-10-26, clock 04:51-04:53:43Z, measured commit bounds)
 
 The m1 advisor-QC repair record leaves content coverage for the three
 full-length videos on printed chapter labels and the visible opening
@@ -293,3 +293,5 @@ were cross-checked against opened pages.
   not be re-verified this session; the CONTENT each segment is meant
   to carry (chapter 1, doubleness, wu wei) is confirmed present in
   the talk as a whole.
+
+Timestamp correction (2026-10-26, measured 04:54Z): the clock labels first written in these receipts were invented readings, not measurements; they are corrected in place to the measured commit bounds recorded in git history (5f0749ff2 04:41:59Z through 513ae872f 04:53:43Z). Appended rather than silently rewritten; the receipts themselves are otherwise unchanged.

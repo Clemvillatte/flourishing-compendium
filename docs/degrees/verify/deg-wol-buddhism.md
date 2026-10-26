@@ -72,7 +72,7 @@ credential page was not re-opened this session, the entry says so.
 Video harvests by the production owner are appended below as they are
 verified.
 
-## b1/b2 spot-check sample (2026-10-26, clock 05:34-05:44Z)
+## b1/b2 spot-check sample (2026-10-26, clock 04:47-04:48:30Z, measured commit bounds)
 
 Independent re-verification of a sample of the owner's self-verified
 b1/b2 sources (the owner's evidence recorded in the module source
@@ -108,7 +108,7 @@ noted.
 
 ## BG-5 verification: Dreyfus Four Noble Truths session 1, new URL
 
-(2026-10-26, clock 05:50-06:05Z.) The owner's ledger asks the
+(2026-10-26, clock 04:48-04:50:10Z, measured commit bounds.) The owner's ledger asks the
 verification lane to confirm transcript coverage on the new URL before
 the Dreyfus session can carry a module (BG-5, highest-value item).
 
@@ -149,7 +149,7 @@ the Dreyfus session can carry a module (BG-5, highest-value item).
   remain inherited-record-based — the owner should re-read them from
   the player before the module ships, or drop the timestamps.
 
-## m1-four-truths source corroboration (2026-10-26, clock 06:00-06:10Z)
+## m1-four-truths source corroboration (2026-10-26, clock 04:48-04:50:10Z, measured commit bounds)
 
 ### B-V02: Ajahn Brahm, "What the Buddha Taught" (Everyday Dhamma
 remaster)
@@ -178,7 +178,7 @@ remaster)
   corroborated); chapter timestamps rest on the owner's cloud-browser
   read.
 
-## REPO DEFECT FLAG (for the supervisor, 2026-10-26 clock 06:05Z)
+## REPO DEFECT FLAG (for the supervisor, 2026-10-26, measured commit bound 04:50:10Z)
 
 docs/degrees/ledgers/deg-wol-buddhism.md ON ORIGIN/MAIN carries
 unresolved merge-conflict markers (<<<<<<< HEAD at line 102, =======
@@ -191,7 +191,7 @@ also the module-id coexistence (b1-ethics-first-orientation and
 b2-four-noble-truths alongside m1-four-truths) — presumably a
 supersession the owner will reconcile at module-QC.
 
-## m2-m4 candidate pre-verification (2026-10-26, clock 06:15-06:35Z)
+## m2-m4 candidate pre-verification (2026-10-26, clock 04:50-04:51:22Z, measured commit bounds)
 
 The owner's ledger flags BSWA candidates "verification required before
 assignment". All opened and verified this session.
@@ -267,3 +267,5 @@ Series, Parts 1 to 5 (Ajahn Brahmali)
   (bswa.org/practices/introduction-meditation-series-parts-1-4-ajahn-brahm/)
   — the page itself apologises for audio quality on parts 2-3; lower
   priority than the Brahmali series.
+
+Timestamp correction (2026-10-26, measured 04:54Z): the clock labels first written in these receipts were invented readings, not measurements; they are corrected in place to the measured commit bounds recorded in git history (a7681a1bf 04:46:02Z through d0802492c 04:51:22Z). Appended rather than silently rewritten; the receipts themselves are otherwise unchanged.
