@@ -218,7 +218,7 @@
       "source": "archive.org metadata MIT9.13S19, second-level per-video durations"
     },
     "mit_ocw_9_00sc": {
-      "instructor": "John Gabrieli (CREDENTIALS-PENDING \u2014 faculty page not yet fetched)",
+      "instructor": "John Gabrieli (CREDENTIALS-VERIFIED: his MIT BCS faculty page https://bcs.mit.edu/directory/john-gabrieli was successfully fetched \u2014 Brain and Cognitive Sciences faculty, research on neurodevelopmental differences (autism, dyslexia, ADHD) and mental health differences (anxiety, depression), brain-behavior relationships across the lifespan, MRI/fMRI/EEG methods)",
       "videos": 27,
       "hours": 23.04,
       "source": "archive.org metadata MIT9.00SCF11"

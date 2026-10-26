@@ -52,7 +52,7 @@ The pool below maps each proposed module from the D1 coverage matrix to the open
 - **Coursera — Biohacking Your Brain's Health (Karima Benameur, MD)** — https://www.coursera.org/learn/biohacking-your-brains-health — free-to-audit, 4 modules, Module 3 "Meditation and the Brain". **Verify at D2: Benameur's University of Maryland faculty page.**
 
 ### mod-mind-8 — Learning, conditioning, working memory, executive function
-- **MIT OCW 9.00SC Introduction to Psychology (John Gabrieli, Fall 2011)** — https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/ — free, full video lectures, independent-study format with a free online textbook. Covers: learning, memory, cognition, perception, emotion, child development, personality, psychopathology, social interaction. The single broadest free resource found this session. **Verify at D2: Gabrieli's MIT faculty page.**
+- **MIT OCW 9.00SC Introduction to Psychology (John Gabrieli, Fall 2011)** — https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/ — free, full video lectures, independent-study format with a free online textbook. Covers: learning, memory, cognition, perception, emotion, child development, personality, psychopathology, social interaction. The single broadest free resource found this session. **CREDENTIALS-VERIFIED (this session): Gabrieli's MIT BCS faculty page (https://bcs.mit.edu/directory/john-gabrieli) was successfully fetched — Brain and Cognitive Sciences faculty, research on neurodevelopmental differences (autism, dyslexia, ADHD) and mental health differences (anxiety, depression), MRI/fMRI/EEG methods.**
 - **MIT OCW 9.01 Introduction to Neuroscience (Bear, Seung)** — the learning and memory module.
 
 ### mod-mind-9 — Long-term memory; knowledge representation
@@ -98,7 +98,7 @@ The pool below maps each proposed module from the D1 coverage matrix to the open
 | MIT OCW course | Instructor | Videos | Measured video hours | Notes |
 |---|---|---|---|---|
 | 9.13 The Human Brain (Spring 2019) | Nancy Kanwisher (CREDENTIALS-VERIFIED) | 17 | **20.15 h** (72,552 sec) | Lectures 1, 2, 4-11, 13, 15, 16, 18, 20, 21, 24 — durations per file, e.g. lec01 79:55, lec02 50:18, lec08 83:09, lec21 83:22, lec24 56:42 |
-| 9.00SC Introduction to Psychology (Fall 2011) | John Gabrieli | 27 | **23.04 h** | independent-study format with full video |
+| 9.00SC Introduction to Psychology (Fall 2011) | John Gabrieli (CREDENTIALS-VERIFIED) | 27 | **23.04 h** | independent-study format with full video |
 | 9.40 Introduction to Neural Computation (Spring 2018) | Michale Fee (CREDENTIALS-VERIFIED) | 40 | **49.11 h** | neural computation, statistical inference |
 | **Subtotal (three MIT OCW courses, deduplicated)** | | 84 | **92.30 h** | near the ≥100h floor from MIT OCW alone |
 
