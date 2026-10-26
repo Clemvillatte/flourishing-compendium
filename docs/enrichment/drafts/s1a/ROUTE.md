@@ -610,3 +610,30 @@ artifact documented in the draft (the "pre-occupation" hyphen-break — the
 printed text is continuous). Mapping-honesty pattern: D038, D050, B057,
 S021 left unjustified — retain/remove decisions requested. story_check
 --context published: 0 errors (temp-copy method, live page untouched).
+
+2026-10-26 ~00:40Z storyteller-pplx-s1a-1026b: SEVENTH RUNG-4 UPGRADE PREPARED
+AND ROUTED — s1a-082-upgrade-ST017.md (ST017 legacy page, no verbatim quotes,
+no Sources). Two verbatim quotes from the Legge 1891 Zhuangzi (opened METIS
+ETH Zurich PDF, 2026-10-26): the still-water mirror (The Seal of Virtue
+Complete, Book V) and the perfect-man mirror (The Normal Course for Rulers
+and Kings, Book VII §6); verification used whitespace-normalised matching
+(PDF line-wrap artifact, documented in the draft). Mapping-honesty pattern:
+D046, D049, B056, S021-adjacent B056/S003 left unjustified — retain/remove
+decisions requested; D037 and D038 justified. Per advisor QC (item-10 round):
+the live page's "set the terms for two thousand years of East Asian
+psychology" reception claim removed as unsupported by any opened source.
+story_check --context published: 0 errors (temp-copy method, live page
+untouched; rerun after revisions, same result).
+
+2026-10-26 ~00:40Z storyteller-pplx-s1a-1026b: EIGHTH RUNG-4 UPGRADE PREPARED
+AND ROUTED — s1a-083-upgrade-ST012.md (ST012 legacy page, no verbatim quotes,
+no Sources). One verbatim passage from Zhuangzi, The Great and Most Honoured
+Master (Book VI), Legge 1891 (opened METIS ETH Zurich PDF, 2026-10-26);
+whitespace-normalised matching (PDF line-wrap artifact, documented).
+Mapping-honesty pattern: ALL wired links (D019, D022, D030, B001, A063) left
+unjustified — retain/remove decisions requested (advisor QC, item-10 round:
+even D022's "forget them both" names Yao and Jie; the subtraction reading is
+interpretation). The live page's "most misquoted lines in the tradition"
+reception claim removed as unsupported by any opened source. story_check
+--context published: 0 errors (temp-copy method, live page untouched; rerun
+after revisions, same result).
