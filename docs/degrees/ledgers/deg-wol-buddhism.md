@@ -1359,3 +1359,59 @@ dashes were explicitly allowed to remain by the earlier QC pass
 ("heading separators and URL annotations in tables remain") and stay.
 Per-module hashes after the sweep are recorded in the band file for
 the supervisor's delta measurement.
+
+## Advisor round-2 corrections applied; timestamp audit (2026-10-26, worker-pplx-buddhism-1026g, measured clock bounds 07:32Z-07:48Z)
+
+The second advisor QC round on this session's lane work found five
+defects; all repaired this pass:
+
+- b7: the Burma/Vipassana paragraph contradicted its own
+  no-verbatim-quotation restriction by quoting "thus was invented the
+  Vipassana movement" from error-prone auto-captions. The quote is
+  removed; the passage is now Batchelor's account paraphrased with
+  attribution, and the paragraph marks the talk as the account's
+  carrier, not an independent historical verification. The receipt ID
+  and verification-process narration were removed from the
+  instructional paragraph (they stay here and in the receipt).
+- b4: the caption-availability wording overclaimed ("directly
+  inspected the captionTracks data"; the manual track's content
+  "consists exactly of the seven chapter titles"). Narrowed to the
+  observations actually made: the watch-page fetch returned
+  caption-track data via a player-data extraction (not a raw
+  captionTracks-array inspection), and the third-party service
+  returned seven timestamped chapter headings matching the description
+  verbatim, which may be chapter metadata rather than the manual
+  track's complete content; recorded as corroboration of the chapter
+  structure, not a retrieved transcript (receipt B-V27 corrected
+  inline).
+- b5: the B-V29 page-range "correction" (125 to 124, 145 to 144) was
+  withdrawn: it rested on an inference from the linear pdftotext flow,
+  and direct inspection of the PDF pages shows the chapter-start pages
+  print 125 and 145 at their feet. The module's original printed
+  ranges are restored; the B-V29 receipt carries the correction
+  inline. The word-count difference (4,549 re-measured vs 4,490
+  recorded, on an extraction including headers and footnote markers)
+  is noted without a claimed cause.
+- b3: the self-assessment line presupposed avoidance ("which case you
+  avoided deciding"); now allows "neither, I decided both", matching
+  the honest no-change/no-craving allowances the supervisor enforced
+  in b1/b2.
+- b9: the B-V25-routed Introduction boundary was verified CONSUMED (a
+  later pass already extended the quoted end boundary to the section's
+  true last sentence, "...to describe that freedom to yourself or to
+  anyone else."; checked directly against the B-V25 receipt this
+  pass; no edit needed).
+
+Timestamp audit: the "updated" stamps of 07:45Z and 07:55Z written
+into the band file in an earlier entry this session were hard-coded
+projections (documented then); this pass additionally introduced
+projected stamps 08:05Z, 08:20Z, 08:30Z, 08:35Z (TASKBOARD), 08:50Z
+and 09:10Z in the band file's "updated" field and receipt entries —
+all replaced or corrected this pass. Measured bounds for the whole
+session so far: 07:32:30Z (first command) to 07:47:53Z (the clock
+reading taken for the band rewrite). The band file's "updated" field
+now carries the measured 07:47:53Z reading, and all nine module
+hashes in the band file were re-measured after this pass's edits
+(b1 and b2 at their supervisor-PASS hashes 817e8010 and c6c6f4810,
+unchanged; b3, b4, b5 and b7 changed with this pass's corrections;
+b6, b8 and b9 at their post-trim hashes).

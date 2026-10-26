@@ -77,7 +77,7 @@ lineage ("the way of the elders", the Southern School, the forest
 practice standard), then two named teachings, selected from the volume
 this module actually opens:
 
-- **"Making the Heart Good"** (Chapter Eleven, printed pp. 124-132,
+- **"Making the Heart Good"** (Chapter Eleven, printed pp. 125-132,
   about 3,050 measured words): the tradition's practice-first ethos in
   its plainest form — people hunting merit while skipping the one
   teaching the Buddha's line names first, refraining from wrongdoing.
@@ -85,7 +85,7 @@ this module actually opens:
   merit." to "...if the Dhamma really reaches the mind it's
   imperishable, it's there for good. And you don't have to waste money
   on batteries."
-- **"Our Real Home"** (Chapter Thirteen, printed pp. 144-156, about
+- **"Our Real Home"** (Chapter Thirteen, printed pp. 145-156, about
   4,490 measured words): a talk to a family nursing an aged, ill
   parent — the tradition's teaching on facing pain, aging and death
   with the contemplative frame rather than fear. Read from "Now determine

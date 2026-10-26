@@ -4,7 +4,7 @@
 - **kind**: degree-module
 - **level**: L3 Independent analysis (the exit criteria adapted for a practice walk: the comparison and the defended position are the analysis; the practice adaptation uses the learner's own sitting log)
 - **module id**: deg-wol-buddhism-b7
-- **status**: draft v1.3; not cleared (Burma/Vipassana passage READ this pass, receipt B-V28: the lecture's key-moment claim is now transcript-confirmed at subject level, not verbatim-quotable from auto-captions; repair history in the ledger)
+- **status**: draft v1.3; not cleared (Burma/Vipassana passage checked against the caption text 2026-10-26; repair history in the ledger)
 - **prerequisites**: b1-b5 exit criteria (precepts applied; four tasks run; sitting habit logged; one school known from inside)
 
 ## Walk context
@@ -99,15 +99,11 @@ page's description frames it: Buddhism as primarily an ethical
 perspective for overcoming human problems, a secular, pragmatic basis
 for human flourishing; the key moments include the historical
 secularization of Buddhism in Burma and the Vipassana movement, and
-Buddhist approaches to suffering. The Burma/Vipassana moment was read
-this pass from the recording's auto-generated caption text (subject
-level; the captions carry recognition errors, so no verbatim
-quotation): Batchelor presents the late-nineteenth-century Burmese
-anti-colonial reform as one of the most significant moments in the
-secularization of Buddhism, including taking meditation out of the
-monasteries into the life of ordinary people, at which point, in his
-words as the captions render them, "thus was invented the Vipassana
-movement". The speaker: eight years as a Tibetan
+Buddhist approaches to suffering. That Burma/Vipassana moment is
+covered in the lecture itself, in Batchelor's own account of it (the
+passage was checked against the recording's caption text; the talk is
+the account's carrier, not an independent historical verification of
+it). The speaker: eight years as a Tibetan
 Buddhist monk, then four years training in Son (Zen) meditation in
 South Korea under Kusan Sunim (credentials opened on his official
 biography page, https://stephenbatchelor.org/).
@@ -183,7 +179,7 @@ module (b6) is separate.
 |---|---|---|---|
 | Fronsdal, Introduction to Mindfulness Meditation, Week 1 transcript, https://www.insightmeditationcenter.org/books-articles/introduction-to-meditation-transcripts/ | verified (text) | 2026-10-26 (parallel session harvest receipt, ledger-recorded) | six-week course transcripts, free, CC BY-NC-ND 3.0; Week 1 "Mindfulness of Breath" assigned |
 | Fronsdal, Class 1 recording, https://www.audiodharma.org/series/24654 | verified (audio, series page) | 2026-10-26 (parallel session harvest receipt, ledger-recorded) | AudioDharma series page, "freely offered by Insight Meditation Center"; Class 1 measured 1:26:55; credentials on https://www.audiodharma.org/speakers/1 (IMC senior guiding co-teacher; practice since 1975; teaching since 1990; Insight Meditation lineage and Soto Zen authorization; PhD Stanford) |
-| Batchelor, "A Secular Buddhism", https://www.youtube.com/watch?v=Hhlj_SU9SAE | verified-video (selected auto-caption passages inspected; playback blocked) | 2026-10-26 (content inspected this pass) | duration 1:26:35 on the watch page; Radboud Reflects channel; dated on the description as given 9 July 2018 at Radboud University; passages read: the host's introduction (which states the secular-Buddhism frame — keeping the ethical treasures, letting go of the metaphysics and dogmatism), the lecture's Reformation/secularization opening, the lecture's closing passage, and panel excerpts (mindfulness in psychiatry; engagement versus passivity); the Burma/Vipassana secularization passage READ 2026-10-26 (receipt B-V28): Batchelor presents the late-nineteenth-century Burmese anti-colonial reform as one of the most significant moments in the secularization of Buddhism, taking meditation out of the monasteries to ordinary people, "thus was invented the Vipassana movement" (subject level; captions auto-generated with recognition errors — no verbatim quotation beyond that rendered phrase); captions AUTO-GENERATED with recognition errors — no other verbatim quotation from them; credentials on https://stephenbatchelor.org/ (eight years Tibetan monastic life; four years Son/Zen training under Kusan Sunim) |
+| Batchelor, "A Secular Buddhism", https://www.youtube.com/watch?v=Hhlj_SU9SAE | verified-video (selected auto-caption passages inspected; playback blocked) | 2026-10-26 (content inspected this pass) | duration 1:26:35 on the watch page; Radboud Reflects channel; dated on the description as given 9 July 2018 at Radboud University; passages read: the host's introduction (which states the secular-Buddhism frame — keeping the ethical treasures, letting go of the metaphysics and dogmatism), the lecture's Reformation/secularization opening, the lecture's closing passage, and panel excerpts (mindfulness in psychiatry; engagement versus passivity); the Burma/Vipassana secularization passage READ 2026-10-26 (receipt B-V28): Batchelor's account presents the late-nineteenth-century Burmese anti-colonial reform as one of the most significant moments in the secularization of Buddhism, taking meditation out of the monasteries to ordinary people, where, on his account, the Vipassana movement began (paraphrase with attribution; captions auto-generated with recognition errors, so no verbatim quotation is claimed); captions AUTO-GENERATED with recognition errors — no other verbatim quotation from them; credentials on https://stephenbatchelor.org/ (eight years Tibetan monastic life; four years Son/Zen training under Kusan Sunim) |
 
 No paywalled or app-gated content. Video-first policy applied: the
 secular case arrives as a university lecture video with verified

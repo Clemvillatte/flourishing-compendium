@@ -4,7 +4,7 @@
 - **kind**: degree-module (practice module; practicum-style training plan per the curriculum skill's discipline rules)
 - **level**: L2 Guided application
 - **module id**: deg-wol-buddhism-b4
-- **status**: draft v3; not cleared (caption tracks directly inspected and manual-track content verified 2026-10-26, receipt B-V27; full-text retrieval still blocked, content items stay description-bounded; repair history in the ledger)
+- **status**: draft v4; not cleared (caption-track presence evidenced via a player-data extraction and chapter headings corroborated via a third-party service, limits stated in Boundaries; full-text retrieval still blocked; repair history in the ledger)
 - **prerequisites**: b1 exit criteria (two completed metta sittings with a practice record; can state the five precepts); b2 exit criteria (has run the four tasks on one case)
 
 ## Walk context
@@ -123,14 +123,17 @@ was accessible this session; the
 "breath meditation" classification of the guided segment and the absence
 of rebirth-dependent content in the assigned segments are therefore
 PENDING a transcript inspection. Caption availability is now
-VERIFIED AT THE TRACK LEVEL: this pass directly inspected the watch
-page's captionTracks data (a manual English track and an English
-auto-generated track), and retrieved the manual track's content
-through a third-party transcript service: it consists exactly of the
-seven chapter titles with their timestamps (0:30, 2:11, 3:59, 6:08,
-16:30, 19:13, 20:32), matching the description's chapter list
-verbatim. That track is therefore a chapter list, not a transcript of
-the talk. The auto-generated track's full
+EVIDENCED AT TWO REMOVED LEVELS, each with its limit stated: a fresh
+watch-page fetch this pass returned caption-track data reporting two
+tracks (a manual English track and an English auto-generated track;
+this was an extraction of the page's player data, not a raw inspection
+of the captionTracks array itself), and a third-party transcript
+service returned seven timestamped chapter headings matching the
+description's chapter list verbatim (0:30, 2:11, 3:59, 6:08, 16:30,
+19:13, 20:32). What that service returned may be chapter metadata
+rather than the manual track's complete content, so it is recorded
+as corroboration of the chapter structure, not as a retrieved
+transcript. The auto-generated track's full
 TEXT was not retrievable this session (the timedtext endpoint is
 bot-walled from this environment and returned empty through every
 route tried: direct curl, the crawler's robots rules, an Invidious
@@ -161,7 +164,7 @@ note).
 
 | resource | status | verified | notes |
 |---|---|---|---|
-| Ajahn Brahmali, "Introduction to Meditation: Session 1", https://www.youtube.com/watch?v=dyUCvFlDL8w (BSWA channel) | verified-metadata (content PARTIAL — see Boundaries) | 2026-10-26 (this session; captions verified this pass) | duration 0:33:55 on watch page; chapter timestamps printed in the description (00:00-20:32 listed above; guided meditation chapter at 20:32); recorded at Dhammaloka Buddhist Centre, Perth; free, BSWA copyright; captions VERIFIED THIS PASS: the watch page's captionTracks data directly inspected (manual English track + English auto-generated track), and the manual track's content retrieved through a third-party transcript service — exactly the seven chapter titles with timestamps (0:30, 2:11, 3:59, 6:08, 16:30, 19:13, 20:32), matching the description's chapter list verbatim; the manual track is a chapter list, not a transcript of the talk; the auto-generated full text was not retrievable (timedtext returned empty through every route tried: direct curl, crawler robots rules, Invidious proxy, Piped, reader proxy), so content claims stay bounded to the description and chapter structure; credentials opened on the BSWA teacher page (https://bswa.org/teachers/ajahn-brahmali/): anagarika at Amaravati and Chithurst; ordained bhikkhu 1996 with Ajahn Brahm as preceptor; at Bodhinyana Monastery since 1994; Maha Thera since 2015 |
+| Ajahn Brahmali, "Introduction to Meditation: Session 1", https://www.youtube.com/watch?v=dyUCvFlDL8w (BSWA channel) | verified-metadata (content PARTIAL — see Boundaries) | 2026-10-26 (this session; caption evidence gathered this pass, limits stated) | duration 0:33:55 on watch page; chapter timestamps printed in the description (00:00-20:32 listed above; guided meditation chapter at 20:32); recorded at Dhammaloka Buddhist Centre, Perth; free, BSWA copyright; caption evidence this pass: a fresh watch-page fetch returned caption-track data reporting a manual English track and an English auto-generated track (an extraction of the page's player data, not a raw captionTracks-array inspection), and a third-party transcript service returned seven timestamped chapter headings matching the description's chapter list verbatim (0:30, 2:11, 3:59, 6:08, 16:30, 19:13, 20:32) — what the service returned may be chapter metadata rather than the manual track's complete content, so it corroborates the chapter structure without establishing a retrieved transcript; the auto-generated full text was not retrievable (timedtext returned empty through every route tried: direct curl, crawler robots rules, Invidious proxy, Piped, reader proxy), so content claims stay bounded to the description and chapter structure; credentials opened on the BSWA teacher page (https://bswa.org/teachers/ajahn-brahmali/): anagarika at Amaravati and Chithurst; ordained bhikkhu 1996 with Ajahn Brahm as preceptor; at Bodhinyana Monastery since 1994; Maha Thera since 2015 |
 | BSWA series index page, https://bswa.org/teaching/introduction-meditation-series-parts-1-5-ajahnbrahmali/ | verified | 2026-10-26 (deg-verify-a receipt B-V03; re-opened this session) | five-session series dated 5 March 2023; sessions 2-5 NOT attached (each needs per-session verification before attachment, per the receipt's caveat) |
 | Metta Sutta Khp 9, Sujato translation, https://suttacentral.net/kp9/en/sujato | verified | 2026-10-26 (this session, b1) | see b1 source table |
 | Five-stage loving-kindness method, https://thebuddhistcentre.com/text/loving-kindness-meditation | verified | 2026-10-26 (this session) | opened anonymously; the five stages (yourself, good friend, neutral person, someone you dislike, everyone) read on the opened page; publisher: the Buddhist Centre (Triratna) |

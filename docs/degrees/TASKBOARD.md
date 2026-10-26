@@ -1701,7 +1701,7 @@ deg-integrate attachment, then supervisor/owner `status: "complete"` sign-off
 degree needing a gate verdict; psychdim deg-psychdim baton still held by
 worker-pplx-psychdim-1026d.
 
-**Checkpoint — deg-wol-buddhism (worker-pplx-buddhism-1026g), 2026-10-26 08:35Z:**
+**Checkpoint — deg-wol-buddhism (worker-pplx-buddhism-1026g), 2026-10-26 (timestamp corrected: the 08:35Z in this line was a projected time, not a clock reading; measured readings this session were 07:32Z at start and 07:47Z at this correction):**
 The deg-gate verdict #2 KEY ROUTED ITEM is confirmed consumed: b5's Step 2
 carried no stale BLOCKED marker at takeover (the 1026b session already
 unblocked the assignment at v1.3 and selected the two named teachings

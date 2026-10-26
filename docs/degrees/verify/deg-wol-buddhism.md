@@ -1256,3 +1256,22 @@ page-range correction recorded in the band file.
   module total 11 m 47 s measured media + 2 h 15 m = about 2 h 25 m
   (was "about 2 h 20 m"). Hash after both repairs recorded in the
   band file.
+
+### B-V29 correction (2026-10-26, worker-pplx-buddhism-1026g; advisor QC round 2)
+
+The B-V29 page-range "correction" is WITHDRAWN. The 124/144 inference
+came from the linear pdftotext flow (footer tokens "123" and "143"
+preceding the chapter headings), which does not establish a printed
+page number. Direct inspection of the PDF pages settles it: the
+"Making the Heart Good" chapter starts on the PDF page whose foot
+prints 125, and the "Our Real Home" chapter starts on the PDF page
+whose foot prints 145. The module's original printed ranges
+(pp. 125-132 and pp. 145-156) were correct all along and are restored;
+the module was edited back to them this pass. All other B-V29
+findings stand (the four boundary quotations verbatim, the front
+matter, the chapter attributions). The word-count re-measurements are
+also stated more carefully: MHG re-measured at 3,043 words from its
+quoted opening through its quoted close (the module's "about 3,050"
+stands); ORH re-measured at 4,549 words on an extraction that includes
+running headers and footnote markers, against the module's "about
+4,490" — the difference is noted without a claimed cause.
