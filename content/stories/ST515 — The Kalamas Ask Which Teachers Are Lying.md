@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], 
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.01 — II.1 First Principles — The Axioms", "parent": ""}
 ---
 
-Sutta narrative from the Kalama Sutta (AN 3.65), Pali Canon, in the translations of Thanissaro Bhikkhu and Soma Thera, with the principle file in the compendium working tree
+Sutta narrative · from the Kalama Sutta (AN 3.65), Pali Canon, in the translations of Thanissaro Bhikkhu and Soma Thera
 
 Confused by visiting teachers who praised their own doctrines and attacked others', the Kalamas of Kesaputta asked the Buddha who was telling the truth. He guided them to examine qualities through their consequences, blamelessness and the judgment of the wise. Their question as they put it: "They leave us absolutely uncertain & in doubt: Which of these venerable brahmans & contemplatives are speaking the truth, and which ones are lying?" ([AN 3.65, Thanissaro](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html)).
 
