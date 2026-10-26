@@ -19,4 +19,5 @@ fetcher and the cloud browser both (documented in earlier receipts); the
 span was last verified in a prior session's QC. Flagged only as a
 coverage note, not a defect.
 
-Measured clock reading at receipt start: see the correction line below.
+Measured clock reading at receipt start: 10:00:51Z (matches the save's
+commit message; the `date` echo in the same command read the same).
