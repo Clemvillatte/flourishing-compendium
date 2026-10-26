@@ -14,7 +14,7 @@ As of 2026-10-26 00:31 UTC (input revision `5854a44`). Scope: principles and con
 
 ## Stories (separate pipeline)
 
-Published story pages (content/stories/ST*.md): 504 (41 added 2026-10-26 by the supervisor registration batch; 4 cross-lane duplicates removed; lane states now reconciled to pages). The per-lane rows below are LANE-REPORTED statuses from the lane state files, NOT reconciled against actual registrations (a lane may report "ready" for a story already published; the published-page count above is the reconciled figure). qc_pending = awaiting lane QC; other = returned or backlinks pending. Lanes are listed in STORIES-TASKBOARD.md; storytellers never touch concept/principle pages.
+Published story pages (content/stories/ST*.md): 504 (net +36 on 2026-10-26: 40 new pages — 39 new ST numbers plus ST488 reused after its duplicate copy was removed — minus 4 removed duplicate copies; exact git reconciliation in STORIES-TASKBOARD; lane states now reconciled to pages). The per-lane rows below are LANE-REPORTED statuses from the lane state files, NOT reconciled against actual registrations (a lane may report "ready" for a story already published; the published-page count above is the reconciled figure). qc_pending = awaiting lane QC; other = returned or backlinks pending. Lanes are listed in STORIES-TASKBOARD.md; storytellers never touch concept/principle pages.
 
 | Lane | Published/integrated (lane-reported) | Ready (lane-reported) | QC pending | Other |
 |---|---|---|---|---|
