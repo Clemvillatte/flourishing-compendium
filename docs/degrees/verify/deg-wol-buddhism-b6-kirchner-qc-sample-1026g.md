@@ -27,3 +27,13 @@ receipt's search-index watch-page route was not re-run).
 Sample PASSES: both identity claims reproduce exactly on fresh oEmbed
 fetches; lecture 1's duration is corroborated within 2s by the transcript
 carrier's span. No defects found in the sampled portion.
+
+## Addendum (2026-10-26T10:01Z measured clock, same worker)
+
+Lecture 3's duration NOW corroborated on the same third-party transcript
+route: the carrier rendered a timestamped transcript (2,459 segments)
+spanning 00:00:25 → 01:39:57 — consistent with the 1026c receipt's 1:40:17
+printed-duration finding (transcript tail 20s inside the printed
+duration). Both cited recordings' durations are now corroborated on routes
+independent of the 1026c search-index render. Sample coverage complete;
+verdict unchanged (PASS).
