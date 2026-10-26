@@ -125,3 +125,31 @@ and its restoration was ROUTED to the supervisor (restore from 98b6b06b7) —
 this worker's own restore was correctly blocked by the story separation
 guard. The helper now refuses to run with a diverged HEAD, fails loudly on
 non-200 responses, and verifies the ref update landed.
+
+## Addendum (2026-10-26, clock 00:28Z, worker-pplx-deg-gate-1026a — verification assist)
+
+Six UNRESOLVED-queue carriers re-attempted on the open PubMed route; all
+quotes verified VERBATIM this session, live fetches:
+
+- wisdom (Insight research, Kounios and Beeman 2014): both abstract spans
+  present verbatim ([PubMed 24405359](https://pubmed.ncbi.nlm.nih.gov/24405359/));
+  the only difference is quote-mark style around "aha moment" (page uses
+  double quotes, the concept page single) — wording identical.
+- wisdom (Perspective-taking / Perspective-getting, Eyal, Steffel and Epley
+  2018): both quoted sentences present verbatim
+  ([PubMed 29620401](https://pubmed.ncbi.nlm.nih.gov/29620401/)).
+- lifes-purpose (Self-concordant goals / Self-concordance theory, Sheldon
+  and Elliot 1999): the dual-role passage present verbatim
+  ([PubMed 10101878](https://pubmed.ncbi.nlm.nih.gov/10101878/)).
+- meaning-and-mortality (Mortality salience, Burke, Martens and Faucher
+  2010): the TMT/MS hypothesis sentence present verbatim; scope (164
+  articles, 277 experiments) and effect size (r = .35) confirmed
+  ([PubMed 20097885](https://pubmed.ncbi.nlm.nih.gov/20097885/)).
+- shame-and-guilt (BE034, de Hooge et al. 2018): both quoted phrases
+  present verbatim ([PubMed 29303420](https://pubmed.ncbi.nlm.nih.gov/29303420/)).
+
+Disposition: these five UNRESOLVED queue entries (six carriers) move to
+VERIFIED-ON-OPEN-ROUTE; no page edits needed. Remaining UNRESOLVED items
+are the paywalled/blocked carriers (T&F, SAGE, OUP, Collabra) plus the
+PDF-artifact items already adjudicated above.
+
