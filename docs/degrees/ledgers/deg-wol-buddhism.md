@@ -754,3 +754,22 @@ b6 v1.2, b7 v1.2, b8 v1.2, b9 v1.1); blockers and flags recorded above
 and in the session report. Supervisor items: module-QC on all nine,
 b5 book assignment BLOCKED, b2 task-frame re-verification,
 m1-four-truths canonical-draft decision, duplicate baton-name guard.
+
+### deg-gate interim review, 2026-10-26 06:34Z (gate-pplx-w3-1026a, deg-gate baton renewed)
+
+Interim Gate findings while the live buddhism repair worker holds the
+production baton (read-only pass; no module files touched):
+
+1. **Duplicate-name leftover:** `m1-four-truths.md` is the residue of
+   the collided production identity (supervisor ruling 2026-10-26
+   04:52Z: the b1/b2 sequence is canonical). It still cross-references
+   a non-existent m2 and is not part of the canonical b-series. Routed
+   to the buddhism repair worker + supervisor: archive or delete it
+   after confirming no ledger/review depends on it, completing the
+   duplicate-name guard item.
+2. **b1 centering check (head read):** PASS — the walk frame, owner
+   value proposition and finite exclusions (rebirth cosmology,
+   abhidharma scholastics, tantric ritual) are stated in the module
+   itself, ethics-first and own-practice oriented.
+3. b2–b9 Gate review OWED (next deg-gate item); supervisor module-QC
+   owed on all nine per the wave-3 allocation. No clearance granted.
