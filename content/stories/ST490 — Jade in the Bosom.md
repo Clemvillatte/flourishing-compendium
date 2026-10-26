@@ -1,14 +1,14 @@
 ---
 schema: 0
-id: "ST413"
+id: "ST490"
 type: "story"
-title: "413. Jade in the Bosom"
-file: "ST413 — Jade in the Bosom"
+title: "490.  Jade in the Bosom"
+file: "ST490 — Jade in the Bosom"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.05 — I.5 Psychological Freedom — Identity, Emotion, Death, Meaning", "parent": ""}
 ---
 
-Biographical account · Hilma af Klint, Swedish painter, early 20th century · [Guggenheim exhibition](https://www.guggenheim.org/exhibition/hilma-af-klint)
+Twentieth-century life, documented · Hilma af Klint's Paintings for the Temple and their long concealment, from the Guggenheim education resource and the Moderna Museet exhibition.
 
 Between 1906 and 1915, Hilma af Klint produced The Paintings for the Temple, which eventually comprised 193 works ([Guggenheim education resource](https://www.guggenheim.org/wp-content/uploads/2018/10/guggenheim-education-hilma-af-klint-teacher-resource-unit-10-5.pdf)). According to the Guggenheim, she kept her experimental paintings largely private and rarely exhibited them ([Guggenheim](https://www.guggenheim.org/exhibition/hilma-af-klint)). In 1932 she wrote in one of her notebooks that she did not want her work to be seen for twenty years after her death ([Guggenheim education resource](https://www.guggenheim.org/wp-content/uploads/2018/10/guggenheim-education-hilma-af-klint-teacher-resource-unit-10-5.pdf)). The Guggenheim's account says she was "convinced the world was not yet ready to understand her work", and that the work was all but unseen until 1986 ([Guggenheim](https://www.guggenheim.org/exhibition/hilma-af-klint)).
 

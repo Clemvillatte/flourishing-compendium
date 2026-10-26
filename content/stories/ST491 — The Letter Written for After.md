@@ -1,14 +1,14 @@
 ---
 schema: 0
-id: "ST417"
+id: "ST491"
 type: "story"
-title: "417. The Letter Written for After"
-file: "ST417 — The Letter Written for After"
+title: "491.  The Letter Written for After"
+file: "ST491 — The Letter Written for After"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.05 — II.5 The Heart — Emotions and Immeasurables", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.07 — II.7 Ethics and Relations", "parent": ""}
 ---
 
-Biographical account · Ludwig van Beethoven, 1802 Heiligenstadt letter · [Beethoven's Letters, trans. Lady Wallace](https://www.gutenberg.org/files/13065/13065-h/13065-h.htm)
+Early nineteenth-century life, documented · Beethoven's Heiligenstadt letter to his brothers in Lady Wallace's translation, with the 1801 Wegeler defiance from the Beethoven-Haus Bonn record.
 
 In October 1802, writing from Heiligenstadt, Beethoven described his hearing loss in a letter to his brothers ([Beethoven's Letters, trans. Lady Wallace](https://www.gutenberg.org/files/13065/13065-h/13065-h.htm)). The letter was written to be read after his death, with instructions that his physician describe his malady and add these pages to it ([Beethoven's Letters](https://www.gutenberg.org/files/13065/13065-h/13065-h.htm)).
 

@@ -5,7 +5,7 @@ type: "story"
 title: "374.  Poincare Leaves the Problem and Returns to Check It"
 file: "ST374 — Poincare Leaves the Problem and Returns to Check It"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.03", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.01", "parent": ""}
 ---
 
 Autobiographical narrative · Henri Poincare, “Mathematical Creation” (1908)

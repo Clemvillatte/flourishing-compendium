@@ -5,7 +5,7 @@ type: "story"
 title: "478.  The Carver's Fast"
 file: "ST478 — The Carver's Fast"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.03", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.04", "parent": ""}
 ---
 
 Warring States China · [[T009 — Zhuangzi|Zhuangzi]], Book XIX · a canonical anecdote, James Legge translation

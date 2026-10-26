@@ -1,14 +1,14 @@
 ---
 schema: 0
-id: "ST412"
+id: "ST489"
 type: "story"
-title: "412. The Slowest Vessel"
-file: "ST412 — The Slowest Vessel"
+title: "489.  The Slowest Vessel"
+file: "ST489 — The Slowest Vessel"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.07 — I.7 Body, Breath, and Vitality (Yangsheng)", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.05 — I.5 Psychological Freedom — Identity, Emotion, Death, Meaning", "parent": ""}
 ---
 
-Biographical account · Henri Matisse, French painter, late work from 1941 · [Grand Palais](https://www.grandpalais.fr/en/node/2336)
+Twentieth-century life, documented · Matisse's late work and confinement, from the Grand Palais retrospective account and his own letters.
 
 In 1941, Henri Matisse underwent a serious operation ([Grand Palais](https://www.grandpalais.fr/en/node/2336)). In 1942 he wrote: "J'avais tellement préparé ma sortie de la vie, qu'il me semble être dans une seconde vie." Translated here: "I had so prepared my departure from life that I seem to be in a second life." ([Grand Palais](https://www.grandpalais.fr/en/node/2336)) A museum exhibition later took his phrase as its name for the years that followed, and they were years of "immense energy and productivity" despite "physical weakness and advanced age" ([Louisiana Museum](https://www.absolutearts.com/artsnews/2005/08/12/33222.html)).
 

@@ -1,9 +1,9 @@
 ---
 schema: 0
-id: "ST488"
+id: "ST508"
 type: "story"
 title: "488.  Rip Van Winkle Says “I Won’t Count This Time”"
-file: "ST488 — Rip Van Winkle Says “I Won’t Count This Time”"
+file: "ST508 — Rip Van Winkle Says “I Won’t Count This Time”"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.05 — III.5 Habit, Conduct, and Intelligent Action", "parent": ""}
 ---

@@ -1,14 +1,14 @@
 ---
 schema: 0
-id: "ST411"
+id: "ST488"
 type: "story"
-title: "411. The Painter Who Kept the Water Still"
-file: "ST411 — The Painter Who Kept the Water Still"
+title: "488.  The Painter Who Kept the Water Still"
+file: "ST488 — The Painter Who Kept the Water Still"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.03 — I.3 The Heart-Mind — Stillness, Emptiness, Clarity", "parent": ""}
 ---
 
-Biographical account · Agnes Martin, American painter, 20th century · [Art Canada Institute biography](https://artbooks.artcanada.com/agnes-martin/biography)
+Twentieth-century life, documented · Agnes Martin's 1967 departure from New York, the camping years and the return to painting, from the Art Canada Institute biography and her Writings (ed. Dieter Schwarz).
 
 In late 1967, Agnes Martin burned all of the art left in her New York studio, gave away her art supplies, and left ([Art Canada Institute](https://artbooks.artcanada.com/agnes-martin/biography)). She had finally established the career she had pursued for two decades ([Art Canada Institute](https://artbooks.artcanada.com/agnes-martin/biography)). Later, she offered different explanations for going, including: "I thought I would experiment in solitude, you know. Simple living." ([Art Canada Institute](https://artbooks.artcanada.com/agnes-martin/biography)) She also wrote, "I left New York in 1967 because every day I suddenly felt I wanted to die and it was connected with painting. It took me several years to find out that the cause was an overdeveloped sense of responsibility." ([Art Canada Institute](https://artbooks.artcanada.com/agnes-martin/biography))
 
