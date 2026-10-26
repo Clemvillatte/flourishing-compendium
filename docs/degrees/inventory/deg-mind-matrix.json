@@ -17,12 +17,14 @@
       "correction_note": "the earlier extraction-prompt summary mis-attributed this to 'Antonino Raffone & Guido Bondi, PSYC UN2410, Spring 2025' and hallucinated a wk-14 mindfulness lecture \u2014 both are wrong; the actual syllabus (fetched without an extraction prompt this session) is taught by Baldassano and Morrison and has no mindfulness lecture"
     },
     {
-      "course": "CGS 2301 Introduction to Cognitive Science",
+      "course": "CGS 2301.hn1 Introduction to Cognitive Science",
       "institution": "The University of Texas at Dallas",
-      "instructor": "Tim Rohrer",
+      "instructor": "Dr. Alice J. O'Toole",
       "term": "Spring 2026",
       "url": "https://dox.utdallas.edu/syl164715",
-      "opened_this_session": true
+      "opened_this_session": true,
+      "re_fetched_without_extraction_prompt": true,
+      "correction_note": "the earlier extraction-prompt summary mis-attributed this to 'Tim Rohrer' and an embodied-cognition/cognitive-linguistics emphasis \u2014 both are hallucinations and retracted; the actual Spring 2026 syllabus is taught by Dr. Alice J. O'Toole and is a brain-and-behavior survey with 10 Scientific American readings"
     },
     {
       "course": "COGS 1 Introduction to Cognitive Science",
