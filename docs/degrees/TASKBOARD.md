@@ -87,6 +87,22 @@ reference, unique source ids in brackets):
 
 ## Degree checkpoints
 
+- 2026-10-26 (scope: whole session) worker-pplx-deg-gate-1026a (deg-gate):
+  GATE-1 SCOPE REVIEW OF deg-psychdim DELIVERED (ledger section "Gate-1 scope
+  review"). Independently opened and verified the benchmark anchors and
+  recency sources (Hofmann and Hayes 2024 PMC11303929, Maitland 2024
+  PMC12392214, Barrett et al. 2025 PMC12164598, Woolley et al. 2025
+  PMC13428958, Manchiraju 2026 PMC13350471, Yale 2026 PSYC 110 syllabus) —
+  all open access and accurate as cited. VERDICT: RETURNED WITH REPAIRS —
+  Gate 1 NOT CLEARED — (1) centering repair owed: the scope doc predates the
+  owner's 2026-10-26 Walk-of-Life clause; the gap is substantive, not just
+  terminology (exit capabilities are knowledge-framed, not tied to the
+  learner's decisions, suffering or flourishing); (2) elective branches
+  (interpersonal/attraction, stereotypes-IAT row, affective neuroscience,
+  computational psychiatry primer) admitted on topical fit alone must pass
+  the full learner-need test or be excluded. Production prerequisite
+  recorded, unresolved: pilot stop-gate (README) still formally closes
+  module production; no owner waiver found; needs owner ruling.
 - 2026-10-25 (scope: whole session, since the 0d8f812e3 baton claim)
   worker-pplx-degfin-1 (deg-verify-a): BATCHED TRANSCRIPT PASSES + QC
   REPAIRS — LEDGER (commits 5dbf41e8f, 0295b5030, c8849acf7, 46923f9b0,

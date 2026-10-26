@@ -981,11 +981,120 @@ feeding the next module's entry:
 - The Phase 0 pilot stop-gate (README.md) blocks module production until
   the pilots pass independent review.
 
+## Gate-1 scope review (2026-10-26, worker-pplx-deg-gate-1026a, deg-gate baton — independent review per PIPELINE-2026-10-26.md)
+
+Review basis: the owner's 2026-10-26 binding centering clause (every degree
+centered on "WALK OF LIFE / Philosophy of Life" and aligned to the value
+proposition — alleviating suffering, becoming wiser, genuinely flourishing
+even when uncertain or overwhelmed; scope finite by design, topical fit alone
+does not qualify, when in doubt EXCLUDE). The scope doc and the ledger's
+matrix v3, progression spine, exclusion review, gap register and gate
+decisions were read in full. Benchmark anchors and recency sources were
+independently opened this session (2026-10-26, deg-gate):
+
+- [Hofmann and Hayes 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11303929/)
+  ("A Process-Based Approach to Transtheoretical Clinical Research and
+  Training", Clinical Psychology in Europe, CC BY, open): the six
+  psychological dimensions are named by the paper exactly as the scope doc
+  lists them — affect, cognition, self, attention, motivation, overt
+  behavior — with the paper itself noting these are examples among other
+  dimensions.
+- [Maitland 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/)
+  ("The extended evolutionary meta-model and process-based therapy…", Journal
+  of Contextual Behavioral Science, open): Table 1 "Expanded evolutionary
+  meta model (EEMM) dimensions and linked FAP targets" confirmed; the
+  variation-selection-retention-context change processes confirmed. The
+  matrix's relabelling of the Table 1 descriptions as FAP targets (see
+  Corrections) is accurate.
+- [Barrett et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12164598/)
+  ("The Theory of Constructed Emotion: More Than a Feeling", Perspectives
+  on Psychological Science, CC BY-NC, open): constructed-emotion theory
+  paper as described; 2025 recency claim holds.
+- [Woolley et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/)
+  ("Adherence to Personal Resolutions Across Time, Culture, and Goal
+  Domains", Psychological Science, CC BY-NC, open): studies what predicts
+  long-term goal adherence (intrinsic vs extrinsic motivation; year-long
+  resolutions, Chinese New Year resolutions, step counts, health app),
+  matching the bounded ledger description.
+- [Manchiraju 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/)
+  ("Self-concept clarity: a comprehensive and integrative review", Frontiers
+  in Psychology, CC BY, open): confirmed as the self-dimension anchor.
+- [Yale 2026 PSYC 110 syllabus](https://summer.yale.edu/sites/default/files/uploaded-files/syllabi/2026/psyc-s1100.pdf):
+  confirmed freely accessible; its topic families (learning/conditioning,
+  memory, thinking/judgment/decision-making, emotion, personality,
+  social/groups, development, language) match the benchmark row's claim.
+  Curriculum benchmark only: the syllabus's own course materials are
+  enrollment-gated, so nothing is taken from the course content itself.
+
+VERDICT: RETURN WITH REPAIRS — Gate 1 NOT CLEARED. The scope is finite in
+its core — six dimensions plus an integrative capstone, M1 to M8, with
+reasoned and challengeable exclusions, an honest gap register and a
+well-formed matrix (every essential row taught, practised and assessed; the
+supervisor's independent confirmation of the self-regulation grounding
+stands). The six spot-checks above verify the specific benchmark and
+recency claims they cite; they are not a certification of the whole degree,
+and the separate coverage gate remains uncleared by this review. Two
+repairs are owed before the scope gate can clear; both follow from the
+centering clause, which postdates this scope doc:
+
+1. CENTERING REPAIR (blocking). The scope doc never mentions the Walk of
+   Life frame or the value proposition, and the gap is substantive, not
+   terminological. The intended learner and the exit capabilities are
+   knowledge-framed ("a deep, evidence-based understanding of what we
+   currently know about the mind"): the capabilities ask the learner to
+   classify, describe, use vocabulary and explain — none of them connect the
+   six dimensions to the learner's own decisions, suffering or flourishing.
+   The M8 capstone (all six dimensions applied to one real behavioural
+   pattern) has the right bones, but the outcomes and assessments around it
+   do not carry that orientation back into M1-M7. Repair may touch framing,
+   exit capabilities and assessment design (not just wording): restate the
+   intended learner and exit capabilities so each dimension serves the
+   learner's own walk of life — one's affect, cognition, attention, self,
+   motivation and behaviour as levers for alleviating suffering, choosing
+   more wisely, and flourishing under uncertainty — and adjust module
+   outcomes/assessments accordingly. No new topics may be added by this
+   repair.
+2. ELECTIVE-BRANCH JUSTIFICATION OR EXCLUSION (blocking). The interpersonal
+   branch (liking/attraction; the proposed stereotypes/IAT row), the
+   affective-neuroscience elective and the computational-psychiatry primer
+   elective are currently admitted on topical fit alone, which the centering
+   clause explicitly disqualifies. A justification sentence is not enough:
+   each kept elective needs a specific learner need, its contribution beyond
+   the six-dimension core, and a bounded place in the curriculum. Absent
+   that, exclude it. Recommendation: exclude the computational-psychiatry
+   primer (no matrix rows, no learner-need case) and the stereotypes/IAT row
+   (already PROPOSED pending this decision); the attraction and
+   affective-neuroscience electives must meet the full test above or go.
+
+Routed to the owner/supervisor (recorded separately from this Gate-1
+verdict — production prerequisite, not a scope question):
+
+- PRODUCTION PREREQUISITE UNRESOLVED: docs/degrees/README.md (Status of
+  this rework, 2026-10-25) is binding — "Full-degree curriculum production
+  stays closed until the pilots pass independent review." No owner waiver
+  of that prerequisite appears in OWNER-DECISIONS.md, and today's priority
+  update (PIPELINE-2026-10-26.md) supersedes only the degree ORDER. Module
+  production for psychdim therefore remains formally closed until the
+  owners either clear the pilots or explicitly waive the stop-gate; this
+  review records the prerequisite, it does not resolve it.
+- UNASSIGNED VERIFIED LECTURES: OYC lecture 17 chapters 6-8 (sleep, dreams,
+  laughter), lecture 13 chapters 3-6 (intelligence, behavioral genetics)
+  and the lecture 1 orientation chapter sit in the gap register as
+  unassigned. That is not an exclusion decision; the degree owner should
+  make one explicitly. This reviewer's recommendation under the
+  finite-scope clause: exclude (no value-proposition case on record), with
+  re-admission possible later on a stated learner need.
+- The Howard lecture stays a candidate with no retrievable transcript
+  (batch 27); keep it parked or drop it from the plan.
+
+— worker-pplx-deg-gate-1026a, deg-gate baton held, 2026-10-26.
+
 ## Gate decisions
 
 | gate | decision | by | date |
 |---|---|---|---|
 | scope | benchmark delivered against opened curricula (see scope doc Benchmark and Exclusion review sections); wording fix from "five" to "six" dimensions; strategist review still required | worker-pplx-psychdim-1 (degree owner) | 2026-10-25 |
+| scope (Gate-1 independent review) | RETURNED WITH REPAIRS — Gate 1 NOT CLEARED: benchmark/recency claims spot-verified open and accurate; centering repair + full-test elective justification/exclusion owed per the owner's 2026-10-26 clause; pilot stop-gate recorded as unresolved production prerequisite | worker-pplx-deg-gate-1026a (deg-gate) | 2026-10-26 |
 | coverage | milestone delivered; independently reviewed through advisor rounds 1 to 7; the adult self-regulation gap is now grounded (Werner and Berkman 2024, Reed et al. 2020, Dang 2018, Alarcon-Espinoza et al. 2022; see the gap register), but the coverage gate is NOT cleared by the degree owner: it awaits independent confirmation at the next advisor or reviewer pass; module production also blocked by the Phase 0 pilot stop-gate | worker-pplx-psychdim-1 | 2026-10-25 |
 
 ## Independent confirmation pass (2026-10-25 09:26Z, worker-pplx-sup-1025y, supervisor baton)
