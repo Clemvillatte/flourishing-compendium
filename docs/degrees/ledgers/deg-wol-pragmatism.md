@@ -1478,8 +1478,8 @@ session or a supervisor decision resolves them; (2) m4's and m5's
 DRAFT status is unchanged and awaits module-QC; (3) the m4 Reading A
 count delta is explained this session (plain text 778 as the module
 states; HTML-cleaned methods spread 757-780; boundaries identical),
-so it should cost the supervisor no further time; (4) the two m4
-quotes the verifier routed as normalizations (ch67/ch44 punctuation)
-belong to the daoism lane, not this one. The degree's scope was held
+so it should cost the supervisor no further time; (4) the ch67/ch44 punctuation
+normalizations the verifier routed to a module owner belong to the
+daoism lane's m5, not to this degree. The degree's scope was held
 finite throughout: no paywalled source, no anchor-tail import, no
 outcome carried by an unverified video.
