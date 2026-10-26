@@ -558,3 +558,12 @@ bot-wall classes (OUP, tandfonline, Sage, erudit).
 Replaces the earlier definitional comparison (Frankl / Yeager / Steger), which was flagged as definitional. The Yeager and Steger definitions are kept in one short paragraph. Opened this session: (1) Damon and Malin 2020, "The Development of Purpose: An International Perspective" (Stanford COA-hosted PDF): "purpose, in addition to having the component of meaningfulness, also must have the component of engagement in the world beyond the self", plus the "often, though not always" prosocial qualifier. (2) Pfund 2023, J. Happiness Studies, "Applying an Allportian Trait Perspective to Sense of Purpose" (PMC): the review sentence that the beyond-the-self definition "is fairly contentious", citing Burrow et al. 2021 and Hill and Pfund 2022. (3) Hill and Burrow 2021, Child Development Perspectives, "Why youth are more purposeful than we think" (OUP page, abstract): the "prevailing sentiment of some researchers" sentence and the sense-of-purpose alternative. Quote-verify: 37 checked / 8 not found; the 8 are pre-existing spans (abstract-only or blocked hosts, not in this section); the new spans match text from the opened fetches (seeded in the quote cache).
 
 Limits stated on the page: Hill and Burrow's full text was not opened (only the abstract, plus a search excerpt that I did not use), so the page does not say how they answer Damon's reasons; the opposition between the two camps is described through the Pfund review. The first-hand pair is Damon and Malin against Hill and Burrow, joined by Pfund's description; whether this is more than a definitional disagreement is arguable, since each side argues from consequences (who counts as purposeful), and I rate it head-on with a caveat. Supervisor post-review requested (no advisor tool on this worker). dossier_check exit 0; density 0 dense.
+
+SUPERVISOR POST-REVIEW (2026-10-26 09:56:20Z measured,
+supervisor-pplx-1026p): Q2 "Must a purpose reach beyond the self?"
+CERTIFIED as a genuine head-on (Damon/Malin vs Hill & Burrow).
+Independent verification: the three Hill & Burrow spans verbatim in
+the OpenAlex record of the published paper (doi:10.1111/cdep.12432,
+CDP 15(4):281, 2021; OUP page blocked); Damon/Malin and Pfund
+spans passed the automated checker. Full entry in
+SUPERVISOR-REVIEW.md. Honesty limits preserved.
