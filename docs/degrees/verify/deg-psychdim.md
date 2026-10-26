@@ -1058,4 +1058,24 @@ verifier, not to the preceding worker's bounded audit.
   needs a later authorized alignment pass.
 - [M5 SCCS instrument receipt](deg-psychdim-m5-sccs-instrument-receipt.md):
   archived item key and anchors, version differences and limits on
-  interpreting research groupings. Source preparation only.
+  interpreting research groupings. Independently reviewed; source
+  preparation only.
+
+### M6 no-change source recheck
+
+This continuation reopened both the
+[Ryan and Deci author preprint](https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf)
+and the
+[published author-hosted version](https://selfdeterminationtheory.org/wp-content/uploads/2020/06/2020_RyanDeci_IntrinsicandExtrinsic.pdf).
+The published introduction and sections 2.1–2.2.1 support PD-V09's
+distinctions between enjoyment and instrumental reasons, and between
+controlled and autonomous extrinsic motivation. Section 3.2.1 explicitly
+distinguishes autonomy support from permissiveness and lack of structure.
+These points are already covered in PD-V09; this recheck found no reason
+to create a duplicate receipt or expand the learner's reading.
+([Ryan and Deci, published version](https://selfdeterminationtheory.org/wp-content/uploads/2020/06/2020_RyanDeci_IntrinsicandExtrinsic.pdf).)
+
+The extraction reached the relevant sections but was truncated later;
+no whole-paper completeness claim is made. These are two versions of
+one work, not independent corroborating studies, and the source recheck
+does not authorize M6 prose or change the M2–M8 hold.

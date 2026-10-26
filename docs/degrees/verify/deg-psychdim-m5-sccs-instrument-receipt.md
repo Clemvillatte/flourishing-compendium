@@ -76,3 +76,14 @@ paywall. The archived instrument was readable in full; the UNSW PDF
 extraction included the required Methods and table note but was
 truncated later in the references. Permission to redistribute the
 complete instrument was not established by this check.
+
+## Independent review
+
+The read-only advisor independently opened all three documents and
+recomputed the complete-response endpoints on 2026-10-26. No blocking
+metadata, arithmetic, version-boundary, construct-interpretation or
+finite-scope defect was found in the reviewed content, SHA-256
+`cebbc005a9a7dcdb0ca1150c191f049f4f5af1bfc836b039f48f0a4263bf814c`.
+The review did not open the full 1996 validation paper or establish
+instrument-redistribution rights. It clears this source-preparation
+receipt, not a questionnaire assignment, module prose or degree gate.
