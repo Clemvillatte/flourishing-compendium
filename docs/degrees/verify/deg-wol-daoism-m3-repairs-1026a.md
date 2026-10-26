@@ -22,11 +22,12 @@ Final SHA-256: fc961902ee5ab980cce92b5ff017495372f85e8fb1988acb1059e76a713244cc
    Outcome 2 (was m1 Outcome 3) for where the learner has met wu
    wei at the orientation level.
 4. Workload measurement transparency: the teaching-prose count now
-   states its rule and boundary: 2,670 words, whitespace tokens from
+   states its rule and boundary: 2,694 words, whitespace tokens from
    "What this module is for" through the end of the Rubric, table
-   rows excluded (re-measured programmatically after the edits;
-   this equals the reviewer's own independent count for that
-   boundary). Raw 14 minutes 50 seconds at 180 wpm; three-times
+   rows excluded (re-measured programmatically after the edits and
+   after the Outcome 3 prompt additions; the pre-prompt count at the
+   same boundary was 2,670, which equals the reviewer's own
+   independent count). Raw about 15 minutes at 180 wpm; three-times
    study multiplier 45 minutes. Total recomputed: 155 minutes,
    about 2 hours 35 minutes.
 5. Naming drift fixed: the workload line now names deliverable a as

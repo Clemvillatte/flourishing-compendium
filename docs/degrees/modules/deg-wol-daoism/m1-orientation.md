@@ -216,9 +216,11 @@ submitted.
 
 Ziporyn's lecture is the walk's most concentrated piece of teaching,
 and the segments above are the ones that carry the module's outcomes.
-Two of his claims are worth holding in your own words. He says the
-Daodejing can be read as "a coherent anthology" rather than a random
-compilation, and he treats the text's ambiguity as something with a
+Two of his claims are worth holding in your own words. He says
+"we can read it as a coherent text", though "more as something like
+a collection or an anthology, almost a best-of collection, around a
+certain set of key themes", than as one book with one voice; and he
+treats the text's ambiguity as something with a
 function: "I've come to see that as a feature and not a bug of the
 text" ([Ziporyn, Why This Text Matters](https://youtubetotranscript.com/transcript?v=EJ1bB2w2gBk&current_language_code=en),
 passage beginning "There is a huge degree of ambiguity in here").
@@ -499,9 +501,10 @@ learner can self-check.
    teaches the Daoist core texts as practice manuals, the ethics of
    the sage and the basic arts of living, for a person who wants to
    suffer less and choose more wisely; it excludes arcane cosmology
-   by the owner's practical rule, ritual and liturgy by scope
-   decision, political Daodejing readings because they belong to a
-   political-philosophy student, and formal contemplative doctrine,
+   as belief-systems rather than usable ideas, ritual and liturgy
+   as a deliberate scope choice, political Daodejing readings
+   because they belong to a political-philosophy student, and
+   formal contemplative doctrine,
    which the contemplative practica own; anything that is merely
    about Daoism is out unless it serves the walk's learner."
    Rejection: "This walk covers Daoism" (no positive coverage
@@ -533,7 +536,7 @@ learner can self-check.
 - Module teaching prose on this page (measured as whitespace tokens
   from "Level and placement" through the end of the Rubric, table
   rows excluded, including the worked chapter-8 demonstration and the
-  two scaffolded attempts: 4456 words): at 180 words per minute
+  two scaffolded attempts: 4481 words): at 180 words per minute
   (some new concepts) about 25 minutes raw; with study overhead as
   a three-times multiplier, about 75 minutes (estimate, labelled).
 - Retrieval activities and pauses 1, 2, A and B: about 20 minutes

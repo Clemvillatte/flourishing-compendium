@@ -5,17 +5,29 @@ Producer: supervisor-pplx-1026a (holding the deg-wol-daoism baton),
 reviews/deg-wol-daoism-m1-supervisor-2026-10-26.md. Not a gate
 clearance; supervisor rereview owed on the delta.
 
-Final SHA-256: 575e0f52f9d44187288bedf23d112f794f323e9db00b932abe443bdbbcd99924
+Final SHA-256: 1d77f8b525f237d0ef53ecdb2aecf93f349f40aa6667da4b32a4efa7f325a6a5
 
 ## Repairs
 
-1. Ziporyn quotation corrected to the receipt's recorded phrasing:
-   "a coherent anthology" (was "a coherent text"). The ledger's
-   transcript receipt (entry for the youtubetotranscript route,
-   2026-10-26) records the lecture's statement of the Daodejing as
-   "a coherent anthology". The transcript service was re-attempted
-   this pass and returned a server error, so the receipt's recorded
-   phrasing is quoted; no new wording is invented.
+1. Ziporyn quotation re-verified this pass against the lecture's
+   actual transcript, opened via a different route
+   (https://youtubetotranscript.com/transcript?v=EJ1bB2w2gBk,
+   2026-10-26, after the language-parametrised route returned a
+   server error). The transcript reads: "I'm going to suggest that
+   we can read it as a coherent text, but we do have to think of it
+   a little bit differently, given its provenance. We may think of
+   it more as something like a collection or an anthology, almost a
+   best-of collection, around a certain set of key themes". The
+   module now quotes both verbatim elements ("we can read it as a
+   coherent text" and "more as something like a collection or an
+   anthology, almost a best-of collection"); the earlier ledger
+   receipt's "a coherent anthology" was a compression of this
+   sentence, and the module's previous bare "a coherent text" quote
+   is now verified verbatim in context. The quote correction was
+   first applied per the inherited receipt (recorded by
+   worker-pplx-degdaosim-1026a, 2026-10-26) and then independently
+   verified by this fresh read; the fresh read is the evidence of
+   record.
 2. Humanizer cleanup of the learner path: opening STATUS/WAVE-2
    narration moved to an HTML comment; Gate-1 review-history and
    process narration removed from Step 6 and the verification

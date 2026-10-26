@@ -11,20 +11,25 @@ Final SHA-256: daf0568dbd112e1406bbf013b51fdc82c8d09742f3a76cd0707bde7bccbb4d52
 
 1. Rubric criterion 1 strong example: the chapter 11 vessel wording
    corrected to "grasp the nothingness at the center to get the use
-   of the vessel" (was "its center"). All other quoted specimens in
-   the module were re-checked this pass against the re-opened Eno
-   Daodejing carrier (IU ScholarWorks): chapter 11 wheel/vessel/room,
-   chapter 36 closing lines, chapter 78 opening, and the "that which
-   is not constitutes what is of use" line are verbatim; chapter 78's
-   "Nothing in the world is more weak and soft than water" is verbatim
-   as the module paraphrases it.
-2. B-term Ziporyn quotation (Step 3, chapter 28 locator): remains
-   verification-open. The third-party transcript route was re-attempted
-   this pass (2026-10-26) and returned a server error, consistent with
-   the ledger's recorded flakiness; no receipt exists for those exact
-   words, so the quotation is neither corrected nor certified. The
-   reviewer's standing disposition applies: an absent receipt does not
-   by itself prove the words false.
+   of the vessel" (was "its center"), verified against the re-opened
+   Eno Daodejing carrier (IU ScholarWorks). Passages actually
+   compared this pass: chapter 11 (wheel/vessel/room and the
+   "that which is not constitutes what is of use" line), chapter 36
+   (closing lines "The weak and supple overcomes the strong and hard"
+   and "Fish must not emerge from the deeps...") and chapter 78
+   ("Nothing in the world is more weak and soft than water...") are
+   verbatim as quoted or paraphrased in the module. The module's
+   chapter 16, 28 and 44 quotations were not re-compared this pass;
+   they carry the earlier supervisor verification recorded in the
+   review file.
+2. B-term Ziporyn quotation (Step 3, chapter 28 locator): VERIFIED
+   this pass against the lecture's actual transcript, opened via a
+   different route (https://youtubetotranscript.com/transcript?v=EJ1bB2w2gBk,
+   2026-10-26, after the language-parametrised route returned a server
+   error). The transcript reads: "...that channel is another B term,
+   an emptiness or a valley that draws things to it, a nonbeing that
+   has this unexpected power..." — the module's quotation is verbatim.
+   The verification-open flag is closed with this receipt.
 3. Humanizer cleanup: opening STATUS/WAVE-2 narration moved to an
    HTML comment; "re-verified this pass" process narration removed
    from the verification section (evidence statements and ledger
