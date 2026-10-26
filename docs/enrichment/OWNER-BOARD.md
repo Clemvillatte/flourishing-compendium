@@ -523,3 +523,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-26 12:38Z deg-fix-text: batons deg-fix-text and supervisor RELEASED at run close. Final state: counts, quotes, credentials, anchors, workload sums and links re-verified and receipted; open routed items are in integration/deg-fix-text-findings-1026c.md.
 2026-10-26 13:12Z worker-pplx-degarchpsych-1026a: took deg-arch-inventory-psychx4; D1 inventory for deg-mind/wellbeing/relational/contemplative.
 2026-10-26 13:15Z worker-pplx-sup-1026r: supervisor taken; priority: story title-collision guard (unblocks registrations), then D1 inventory lanes for remaining degrees.
+2026-10-26 13:10Z worker-pplx-sup-1026r: minted deg-arch-inventory-rem6 (psychdim, philosophy, therapeutic, psychology-101, qigong, cmp) — Phase D1; psychdim first (owner priority #1).
