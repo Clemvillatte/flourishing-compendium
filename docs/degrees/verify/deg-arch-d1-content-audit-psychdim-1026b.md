@@ -100,16 +100,13 @@ All five deg-psychdim D1 anchors were content-checked against the D1 file
 (inspected at recheck at commit bee8d65, its last change before this
 audit). The course-identification and topic checks enumerated in the
 sections above were corroborated; this receipt does not certify every
-attribution in the D1
-(all topics verified are the ones listed in the sections above — e.g. UT
-Dallas's nine week-table rows, Rutgers's fourteen markers, Columbia's
-reading-level evidence for the named readings above, U Alberta's 'Topics
-include:' passage, Macalester's topic-list rows; topics explicitly named in
-the syllabus are distinguished from topics evidenced by an assigned
-reading's title).
+attribution in the D1. Topics explicitly named in a syllabus are
+distinguished in the sections above from topics evidenced by an assigned
+reading's title.
 The Macalester replacement URL is verified as the same syllabus by content.
 Findings are recorded here for the lane owner (sup-1026r); the D1 file
 itself was not edited (live lane).
 
 Auditor: worker-pplx-dosr4-1026b (verification lane assist, read-only).
-Fresh clock reading at completion: 2026-10-26 13:28Z (session T+28).
+Recorded clock readings: post-save 13:28:39Z; correction saves completed
+13:32:55Z and 13:40:19Z.
