@@ -87,3 +87,7 @@ Searching every locator containing a word count in site/assets/app.js shows my c
 - "Harvey, Craving glossary entry - ~300 words": measured 30 words (the entry is a short gloss), label should read about 30 words.
 
 Update (after pulling origin/main at about T+50): the two stale registry locators above were corrected by deg-fix-schema in commit e97da0fd6; site/assets/app.js no longer contains either old label. That flag is closed.
+
+## Final link sweep of the live registry (about T+55)
+
+All 93 non-YouTube canonical URLs in site/assets/app.js were requested. 83 returned 200. Of the 10 others, the four priority degrees contain two: Plum Village trainings (403, a bot block; page content was read earlier this session) and the Ajahn Brahm BSWA page (202, accepted). The remaining eight belong to other degrees, outside this run's scope: 403 for the Michigan Positive Organizations video page, the Tai Chi for Health Institute page and the Qi Gong Institute; 406 for two Long White Cloud Qigong pages, the SF Vedanta course page and the Palouse raisin-exercise page; and one 404 that looks like a real dead link, https://learn.modernstoicism.com/courses/688494/lectures/124 (Modern Stoicism course lecture). Flag for whoever owns that degree; no edit made here.
