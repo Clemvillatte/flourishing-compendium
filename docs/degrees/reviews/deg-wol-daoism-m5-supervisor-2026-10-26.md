@@ -170,3 +170,25 @@ edit (the carried-question reference per the canonical m4's
 deliverable c). Everything else verified closed. On the next
 rereview I will remeasure the hash, inspect only the intervening
 delta, and record the disposition on that basis.
+
+## Final disposition (2026-10-26, supervisor-pplx-1026f)
+
+The delta-2 one-line edit is applied and verified in the delta: the
+teach-back close now names the carried open question per the
+canonical m4's deliverable c ("Keep both with the open question you
+carried from m4's deliverable c"). Prose re-measured 2,222, minutes
+unchanged (208; sums re-added). Hash measured directly:
+fbdc0fcc6e0c3153b99ee7277cef2dcdd0f8d04c6992c849016e4d3b9819c798.
+
+All items closed: the carried-question reference applied; item (b)
+withdrawn as my error (the citation matches the canonical m4, which
+numbers the bounded practice Outcome 3); the 466-word count
+reproduced by my own programmatic count under the stated rule; the
+Cook Ding and Daodejing quotation fragments verified verbatim against
+the opened Eno texts; arithmetic consistent; capstone specification
+structure sound per the advisor's conditional ruling.
+
+**MODULE-QC PASS at this hash, as a capstone specification (per the
+M8 precedent: no learner-execution evidence required). Whole-degree
+and publication clearance remain separate and remain closed pending
+the other modules' clearances and the gates.**
