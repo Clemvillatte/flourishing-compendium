@@ -3,7 +3,7 @@
   "lane": "deg-arch-inventory-psychx4",
   "owner": "worker-pplx-degarchpsych-1026a",
   "built": "2026-10-26T13:20:00Z",
-  "phase": "D1 topic map \u2014 DRAFT / QC PENDING (advisor review found defects; do not consume as COMPLETE). D2 pool drafted (see the degree's -d2-pool.md); D2 checkpoint required before D3. NOTE: the topics[].sources arrays are EMPTY because no resource has been assigned yet \u2014 the matrix rows point at PROPOSED module names, not live assignments. The degrees_learner_audit.py bidirectional check (assigned source appears on a matrix row; matrix-row source is assigned) will FAIL on any of these files until D2 assigns real source_ids.",
+  "phase": "D1 topic map \u2014 DRAFT / QC PENDING, SCOPE REPAIR IN PROGRESS (two additional syllabi opened: Toronto Metropolitan PH8121 Levinas/Derrida and PH8112 care ethics \u2014 the Levinas and care-ethics rows below are built from those two opened syllabi). D2 pool drafted; D2 checkpoint required before D3. NOTE: the topics[].sources arrays are EMPTY because no resource has been assigned yet \u2014 the matrix rows point at PROPOSED module names, not live assignments. The degrees_learner_audit.py bidirectional check will FAIL on any of these files until D2 assigns real source_ids.",
   "centering_clause": "Every topic must serve the value proposition \u2014 alleviate suffering, become wiser, genuinely flourish even when uncertain or overwhelmed \u2014 through the Walk of Life frame. When in doubt, exclude.",
   "source_syllabi": [
     {
@@ -29,6 +29,24 @@
       "term": "Spring Semester 2025",
       "url": "https://tools.unisg.ch/handlers/Public/CourseInformationSheet.ashx/semester/FS25/eventnumber/8,756,1.00.pdf",
       "opened_this_session": true
+    },
+    {
+      "course": "PH8121 Recent Continental Philosophy (Levinas and Derrida)",
+      "institution": "Toronto Metropolitan University",
+      "instructor": "John Caruana",
+      "term": "Graduate seminar",
+      "url": "https://www.torontomu.ca/content/dam/philosophy/courses/PH8121-Recent-Continental-Philosophy.pdf",
+      "opened_this_session": true,
+      "purpose": "repair the Levinas scope gap (advisor QC)"
+    },
+    {
+      "course": "PH8112 Feminist Philosophy (care ethics focus)",
+      "institution": "Toronto Metropolitan University",
+      "instructor": "Meredith Schwartz",
+      "term": "Current",
+      "url": "https://www.torontomu.ca/content/dam/philosophy/courses/PH8112-Feminist-Philosophy.pdf",
+      "opened_this_session": true,
+      "purpose": "repair the care-ethics scope gap (advisor QC)"
     }
   ],
   "known_gaps": [
@@ -143,7 +161,61 @@
     },
     {
       "topic": "Capstone \u2014 relational ethics for the walk of life",
+      "module": "mod-rel-21",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Levinas \u2014 phenomenological context (Husserl, Heidegger)",
       "module": "mod-rel-14",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Totality and Infinity \u2014 the face, exteriority, dwelling",
+      "module": "mod-rel-15",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Derrida's critique \u2014 Violence and Metaphysics",
+      "module": "mod-rel-16",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Later Levinas \u2014 God and Philosophy, Substitution",
+      "module": "mod-rel-16",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Derrida \u2014 justice, hospitality, ethical singularity, forgiveness",
+      "module": "mod-rel-17",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Gilligan \u2014 In a Different Voice; Noddings \u2014 Caring; Ruddick \u2014 Maternal Thinking",
+      "module": "mod-rel-18",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Critics of care ethics \u2014 Card, Hoagland, Moody-Adams, Narayan, Levin",
+      "module": "mod-rel-19",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Tronto \u2014 Moral Boundaries, care ethics as political",
+      "module": "mod-rel-19",
+      "status": "MISSING",
+      "sources": []
+    },
+    {
+      "topic": "Walker \u2014 Moral Understandings, ethics of responsibility",
+      "module": "mod-rel-20",
       "status": "MISSING",
       "sources": []
     }

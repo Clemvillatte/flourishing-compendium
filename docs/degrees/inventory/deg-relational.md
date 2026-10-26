@@ -2,10 +2,9 @@
 
 **Owner**: worker-pplx-degarchpsych-1026a (baton `deg-arch-inventory-psychx4`)
 **Built**: 2026-10-26 (T0 13:04:18 UTC)
-**Status**: **DRAFT / QC PENDING** — an advisor QC review found a scope defect: the degree is declared as covering Ubuntu, Levinas and care ethics, but the three opened syllabi cover only Ubuntu and African relational thought. **The Levinas and care-ethics coverage is MISSING from this map and must be repaired before the D1 is signed off** — either with additional opened syllabi or with a documented scope change. The topic map below is a candidate for the Ubuntu/African-relational core only. D2 resource pool — drafted but NOT verified to the skill standard.
+**Status**: **DRAFT / QC PENDING — SCOPE REPAIR IN PROGRESS.** An advisor QC review found a scope defect: the degree is declared as covering Ubuntu, Levinas and care ethics, but the original three opened syllabi covered only Ubuntu and African relational thought. **REPAIR (this session): two additional syllabi opened and read** — Toronto Metropolitan University PH8121 Recent Continental Philosophy (Levinas and Derrida, Prof. John Caruana) and Toronto Metropolitan University PH8112 Feminist Philosophy (care ethics, Meredith Schwartz). The Levinas and care-ethics sections below are built from these two opened syllabi. The Ubuntu/African-relational core from the original three syllabi is retained. D2 resource pool — drafted but NOT verified to the skill standard.
 **Scope**: per docs/degrees/CURRICULUM-ARCHITECTURE-1026.md — a degree means exhaustive foundational coverage of the discipline (relational ethics), ≥100 measured hours, ≥10 modules, each module ≥6h with ≥3 distinct sources, teaching layer binding on every primary text.
 **HOURS NOT YET ESTABLISHED**: the D2 pool's hours arithmetic below is a candidate estimate, not a measured instruction-time claim.
-**SCOPE DEFECT (declared)**: the degree's declared scope includes Levinas and care ethics; the current topic map covers only Ubuntu and African relational thought. This is a known gap, not a silent exclusion — repair at D2 with additional opened Levinas and care-ethics syllabi, or obtain a documented scope change.
 
 ## Centering clause (owner 2026-10-26)
 
@@ -16,12 +15,14 @@ Every topic and every resource below must serve the value proposition — allevi
 1. **SOAS University of London, "Afrophone Philosophies, Instructor: Alena Rettová"** — https://cdn.ymaws.com/www.apaonline.org/resource/resmgr/Inclusiveness_Syllabi/afrophonephilosophies_rettov.pdf — 11-week course on philosophy in African languages, with Week 5 devoted entirely to Ubuntu (Ramose, Shutte, Yali-Manisi, Tutu). Full weekly topic, assigned-reading and bibliography table read this session.
 2. **Oakton Community College, "African Psychology, Instructor: Michelle James"** — https://www.oakton.edu/_pdfs/list-of-programs/african-psychology-syllabus-michelle-james.pdf — 8-topic course covering African psychology, Ubuntu, personhood, mental health and indigenization. Full topic schedule and recommended-reading list (Ratele, Menkiti, Mkhize, Nobles, etc.) read this session.
 3. **University of St. Gallen, "8,756 Verantwortung/Responsibility: Ubuntu, Ethics and Human Rights, Spring Semester 2025, Instructor: Ngosso Mathieu Thierry"** — https://tools.unisg.ch/handlers/Public/CourseInformationSheet.ashx/semester/FS25/eventnumber/8,756,1.00.pdf — two-part course on Ubuntu's meaning, personhood and communalism, transitional justice, human rights and contemporary applications (business ethics, environmental ethics, intergenerational justice, migration). Full topic structure and course literature (Gade, Behrens, Metz, Molefe, Lutz, Nussbaum, etc.) read this session.
+4. **Toronto Metropolitan University, "PH8121 Recent Continental Philosophy (Levinas and Derrida), Prof. John Caruana"** — https://www.torontomu.ca/content/dam/philosophy/courses/PH8121-Recent-Continental-Philosophy.pdf — 12-week graduate seminar on Levinas's Totality and Infinity (weeks 2-5, with exact page ranges), Derrida's critique ("Violence and Metaphysics", week 6), later Levinas ("God and Philosophy", "Substitution", week 7), Derrida on justice, hospitality, ethical singularity and forgiveness (weeks 8-12). Full week-by-week topic and reading table with page counts read this session. **Opened and read this session to repair the Levinas scope gap.**
+5. **Toronto Metropolitan University, "PH8112 Feminist Philosophy (care ethics focus), Instructor: Meredith Schwartz"** — https://www.torontomu.ca/content/dam/philosophy/courses/PH8112-Feminist-Philosophy.pdf — 13-week course on care ethics: Gilligan's In a Different Voice, Noddings's Caring, Ruddick's Maternal Thinking (week 2), the critics (Card, Hoagland, Moody-Adams, Narayan, Levin, week 3), Tronto's Moral Boundaries as political care ethics (weeks 3-9), Walker's Moral Understandings as ethics of responsibility (weeks 10-12). Full week-by-week topic and reading table with page counts read this session. **Opened and read this session to repair the care-ethics scope gap.**
 
 Supplementary (searched, not opened as syllabi): a Bennington College "From the Stoics to Ubuntu" course page and a DePauw University Ubuntu reading-course description were surfaced but did not carry weekly schedules; the three above are sufficient per the ≥3 syllabi rule.
 
-## Topic map (union of the three syllabi, organized as a coherent walk)
+## Topic map (union of the five syllabi, organized as a coherent walk)
 
-The three syllabi agree on the same skeleton: (a) what is African / relational philosophy and why it matters, (b) Ubuntu — the relational concept of personhood and communalism, (c) Ubuntu's moral and political applications — human rights, transitional justice, reconciliation, (d) the person and community in African thought (Menkiti, Gyekye, Wiredu), (e) African psychology and indigenous knowledge, (f) Ubuntu and contemporary debates — business, environment, intergenerational justice, migration. Where they diverge — SOAS leans into language-and-literature as philosophy (Rettová's philological interest), Oakton leans into African psychology (James's clinical-psychology interest), St. Gallen leans into applied political ethics (Ngosso's human-rights interest) — the D1 map below keeps the relational-ethics spine (Ubuntu → personhood → moral life → political applications) and files each instructor's emphasis where it belongs, per the centering clause.
+The five syllabi (three Ubuntu/African-relational + two Levinas/care-ethics) agree on a shared spine: morality begins in the encounter with the other person, not in abstract rules. The Ubuntu syllabi (SOAS, Oakton, St. Gallen) provide the African-relational core; the Toronto Metropolitan PH8121 (Levinas/Derrida) and PH8112 (care ethics) provide the European-continental and feminist-relational cores. The D1 map below integrates all three traditions as one coherent relational-ethics walk, per the centering clause.
 
 ### A. Orientation — what is relational philosophy?
 - Is there African philosophy? (the colonial question) [Oakton topic 1-2]
@@ -63,6 +64,24 @@ The three syllabi agree on the same skeleton: (a) what is African / relational p
 - Ubuntu and intergenerational justice [St. Gallen Part II; Behrens]
 - Ubuntu, hospitality and migration crises [St. Gallen Part II]
 
+### G. Levinas — ethics as first philosophy (from Toronto Metropolitan PH8121)
+- Introduction: Levinas's phenomenological context (Husserl, Heidegger) [PH8121 wk 1; PH8121 course description]
+- Totality and Infinity I — the face of the Other, exteriority [PH8121 wk 2, TI pp. 109-142]
+- Totality and Infinity II — dwelling, habitation, the feminine [PH8121 wk 3, TI pp. 143-162, 33-52]
+- Totality and Infinity III — the face, ethics and the Other [PH8121 wk 4, TI pp. 53-90, 194-201; "The Face" in Ethics and Infinity optional]
+- Totality and Infinity IV — eros, fecundity, the child, the future [PH8121 wk 5, TI pp. 154-156, 168-174, 180-183, 201-219, 267-269]
+- Derrida's critique — "Violence and Metaphysics" [PH8121 wk 6]
+- Later Levinas — "God and Philosophy", "Substitution" [PH8121 wk 7]
+- Derrida on justice, hospitality, ethical singularity and forgiveness [PH8121 wks 8-12]
+
+### H. Care ethics — the feminist-relational tradition (from Toronto Metropolitan PH8112)
+- Is moral theory gendered? — the historical canon's treatment of women [PH8112 wk 1]
+- Gilligan's In a Different Voice; Noddings's Caring; Ruddick's Maternal Thinking [PH8112 wk 2]
+- Critics of care ethics — Card's "Caring and Evil", Hoagland, Moody-Adams, Narayan, Levin [PH8112 wk 3]
+- Tronto's Moral Boundaries — care ethics as political [PH8112 wks 3-9]
+- Walker's Moral Understandings — ethics of responsibility [PH8112 wks 10-12]
+- Future directions for care ethics [PH8112 wk 12]
+
 ## Coverage matrix (topic → module that will teach it)
 
 The module numbering below is PROPOSED for the D2 checkpoint review; the existing deg-relational module set (m1-m4, ~2.5 measured hours) will be re-cut and expanded against this matrix, not preserved as-is.
@@ -86,9 +105,18 @@ The module numbering below is PROPOSED for the D2 checkpoint review; the existin
 | Ubuntu and environmental justice | mod-rel-12 | MISSING | Behrens' relational environmentalism |
 | Ubuntu and intergenerational justice | mod-rel-13 (new) | MISSING | Behrens, Gade |
 | Ubuntu, hospitality and migration | mod-rel-13 | OPTIONAL | St. Gallen Part II |
-| Capstone — relational ethics for the walk of life | mod-rel-14 (new) | MISSING | per-degree capstone rule |
+| Levinas — phenomenological context (Husserl, Heidegger) | mod-rel-14 (new) | MISSING | PH8121 wk 1 |
+| Totality and Infinity — the face, exteriority, dwelling | mod-rel-15 (new) | MISSING | PH8121 wks 2-5, TI page ranges |
+| Derrida's critique — Violence and Metaphysics | mod-rel-16 (new) | MISSING | PH8121 wk 6 |
+| Later Levinas — God and Philosophy, Substitution | mod-rel-16 | MISSING | PH8121 wk 7 |
+| Derrida — justice, hospitality, ethical singularity, forgiveness | mod-rel-17 (new) | MISSING | PH8121 wks 8-12 |
+| Gilligan — In a Different Voice; Noddings — Caring; Ruddick — Maternal Thinking | mod-rel-18 (new) | MISSING | PH8112 wk 2 |
+| Critics of care ethics — Card, Hoagland, Moody-Adams, Narayan, Levin | mod-rel-19 (new) | MISSING | PH8112 wk 3 |
+| Tronto — Moral Boundaries, care ethics as political | mod-rel-19 | MISSING | PH8112 wks 3-9 |
+| Walker — Moral Understandings, ethics of responsibility | mod-rel-20 (new) | MISSING | PH8112 wks 10-12 |
+| Capstone — relational ethics for the walk of life | mod-rel-21 (new) | MISSING | per-degree capstone rule |
 
-The proposed module count (14) is above the ≥10 floor; hours per module must land ≥6h with ≥3 sources each at the D2 checkpoint. The "OPTIONAL" rows are the finite-scope calls for the D2 reviewer to rule on, not silent exclusions — the spec's honest-failure rule applies: any row that cannot be filled with on-matrix verified reputable material is reported to the owner, not dropped.
+The proposed module count (21) is above the ≥10 floor; hours per module must land ≥6h with ≥3 sources each at the D2 checkpoint. The "OPTIONAL" rows are the finite-scope calls for the D2 reviewer to rule on, not silent exclusions — the spec's honest-failure rule applies: any row that cannot be filled with on-matrix verified reputable material is reported to the owner, not dropped.
 
 ## Known gaps (declared, not hidden)
 
