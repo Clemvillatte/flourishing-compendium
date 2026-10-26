@@ -10,7 +10,7 @@ competencies required: the learner has already read the Daodejing
 in a guided way (m2), can quote a chapter and distinguish what a
 passage says from an application they propose (m2 Outcome 2), and
 has met the term wu wei at the orientation level (m1 Outcome 3).
-**Total time budget**: about 2 hours 37 minutes (157 minutes of
+**Total time budget**: about 2 hours 32 minutes (152 minutes of
 labelled components; arithmetic below).
 **Primary text**: the [Eno Zhuangzi Inner Chapters
 translation](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/5dc89a23-c6bf-4190-a1e4-6762dc5359cc/content)
@@ -21,8 +21,8 @@ Ding story (chapter 3, section 2 of the Inner Chapters, 523
 words measured including the translator's closing commentary), the
 Hunchback and Cicadas story (an appendix selection in the Eno
 translation, printed as section A.1 and marked "from Chapter 19",
-223 words measured for the story
-proper), and the Butterfly Dream (chapter 2, section 20, 72 words
+217 words measured on the story
+proper), and the Butterfly Dream (chapter 2, section 20, 67 words
 measured on the story proper, already read in m1). Assigned video:
 [Ziporyn's "Why This Text Matters:
 Daodejing"](https://www.youtube.com/watch?v=EJ1bB2w2gBk) segments
@@ -64,28 +64,27 @@ question differently, as a puzzle about which state is the real
 one, and the passage does not itself say whether the loss of a
 divided perspective is a gain, a problem or neither.
 
-Ziporyn's lecture, on the assigned segment, gives the Daodejing's
-version of the same point before quoting the Zhuangzi: the
-highest form of a capacity is the one you do not notice yourself
-doing, like the beating of your own heart. Then he introduces the
-Zhuangzi line that is this module's spine: when the shoe fits you
-forget your feet. Ziporyn explicitly names Zhuangzi as the source
-of the shoe line, so the videos are not equal on this point: one
-gloss is attributed to Zhuangzi by the speaker, the other is
-offered as a practitioner's description. Keep the difference in
-mind when you do the checking in deliverable b.
+[Ziporyn's lecture](https://www.youtube.com/watch?v=EJ1bB2w2gBk),
+on the assigned segment, gives the Daodejing's version of the
+same point before quoting the Zhuangzi: the highest form of a
+capacity is the one you do not notice yourself doing, like the
+beating of your own heart ([transcript](https://youtubetotranscript.com/transcript?v=EJ1bB2w2gBk&current_language_code=en)).
+Then he introduces the Zhuangzi line that is this module's spine:
+when the shoe fits you forget your feet. Ziporyn explicitly names
+Zhuangzi as the source of the shoe line, so the videos are not
+equal on this point: one gloss is attributed to Zhuangzi by the
+speaker, the other is offered as a practitioner's description.
+Keep the difference in mind when you do the checking in
+deliverable b.
 
-The documentary, on its assigned chapter, gives the point in a
-practitioner's first-person register: a Tai Chi practitioner and
-musician named Raymond Burke, speaking in the chapter on martial
-arts and wu wei, says that as the balance deepens you feel
-connected to everything around you, and that it is not you doing
-the thing but that it goes through you. The documentary does not
-attribute this to the Zhuangzi or to any text; it is a speaker
-describing his own practice. The module therefore does not claim
-it as a Zhuangzi teaching. It presents it as one modern
-description of a state the assigned passages also describe, and
-asks you to check how close the match actually is.
+The documentary chapter on martial arts and wu wei gives a
+practitioner's first-person description of a similar state. The
+module does not use that description in the graded work, because
+the transcript service does not print timestamps beside the
+speaker's words and the module will not claim a verified
+placement it cannot show. The graded comparison in deliverable b
+uses Ziporyn's gloss, which is printed in his lecture segment
+with its own chapter label.
 
 ## Outcomes
 
@@ -110,14 +109,16 @@ On completing this module the learner can:
    state the training produces. The learner can explain why this
    distinction matters for how they use the text.
 
-3. **Apply the "losing the self" description to one concrete
-   situation.** The learner can select one situation from their
-   own life, describe what the activity is, identify the moment
-   at which the supervising self disappears (or state that it
-   does not disappear and why), and state in one sentence what
-   the Zhuangzi's shoe-fits line would say about that situation,
-   distinguishing the line's own claim (the fit is forgotten when
-   it works) from the learner's application of it.
+3. **Test the "losing the self" interpretation against one
+   concrete situation.** The learner can select one situation
+   from their own life, describe what the activity is, describe
+   any change in their self-monitoring during it (including no
+   change, if that is what they find), state whether the
+   "loss of self" reading is warranted for that situation or
+   not, and make a reasoned call on whether self-monitoring
+   there is avoidable strain or useful vigilance, naming any
+   bounded change they would make or a reasoned decision not to
+   change, and any limit they would keep.
 
 4. **Check an interpretation against the text.** Given a modern
    paraphrase of a Zhuangzi theme (the module supplies Ziporyn's
@@ -130,14 +131,15 @@ On completing this module the learner can:
 
 ## Steps
 
-### Step 1 — Read Cook Ding (about 24 minutes estimated on the
-primary text with the three-times study multiplier; about 8 minutes
-raw on two readings)
+### Step 1 — Read Cook Ding (about 19 minutes estimated on the
+primary text with the three-times study multiplier; about 6 minutes
+20 seconds raw on two readings)
 
-Read the Cook Ding story (Inner Chapters, section 3.2). It is 523
-words including the translator's closing paragraph; the story
-proper is shorter. Read it once straight through, then a second
-time with a pencil. On the second reading, mark:
+Read the Cook Ding story ([Inner Chapters, section
+3.2](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/5dc89a23-c6bf-4190-a1e4-6762dc5359cc/content)).
+It is 413 words measured on the story proper, excluding the
+translator's closing paragraph. Read it once straight through,
+then a second time with a pencil. On the second reading, mark:
 
 - The sentence in which Cook Ding says he no longer sees the
   carcass whole and meets it with his spirit rather than his eyes.
@@ -156,7 +158,8 @@ also read, names the set of stories this one belongs to and calls
 them the "knack passages."
 
 ### Step 2 — Worked demonstration: what the story says versus what
-it does not (about 15 minutes)
+it does not (reading time included in the module-prose allowance
+above, not additional)
 
 This is a worked example the module performs in front of you so
 you can see the passage-versus-application distinction applied to
@@ -178,15 +181,18 @@ arrives without the nineteen years.
 
 Notice that the two passages describe two different kinds of
 attention. In the knot sentence Cook Ding's noticing, slowing and
-focusing are all responses to a difficulty: attention sharpens
-because something has gone wrong. In the spirit sentence the
-opposite is described: perception and understanding cease and the
-spirit moves. The module's proposed interpretation, which is yours
-to check and not a settled reading, is that the first kind of
-attention is a response to difficulty and the second is what
-skilled performance looks like when it is going well. The story
-does not state this distinction itself; it narrates both states
-and leaves the comparison to the reader.
+focusing are all task-directed responses to a difficult knot:
+vigilance aimed at the job, not at himself. The story does not
+say this attention is a failure or that something has gone wrong
+with him; it says he spots the challenge and slows down. In the
+spirit sentence the opposite is described: perception and
+understanding cease and the spirit moves. The module's proposed
+interpretation, which is yours to check and not a settled
+reading, is that the first kind of attention is task-directed
+vigilance and the second is what skilled performance looks like
+when it is going well. The story does not state this distinction
+itself; it narrates both states and leaves the comparison to the
+reader.
 
 For the Walk-of-Life question, which is the reason this module
 exists: self-monitoring is not free. Watching yourself perform
@@ -205,7 +211,8 @@ multiplier; about 4 minutes raw on two readings of the Hunchback
 plus one reading of the Butterfly Dream)
 
 Read the Hunchback and Cicadas story (Inner Chapters translation,
-section A.1, printed as from chapter 19). It is 223 words. Mark:
+section A.1, printed as from chapter 19) twice. It is 217 words
+on the story proper. On the second reading, mark:
 
 - The sentence in which the hunchback describes holding his body
   like a twisted tree and his arm like a withered limb.
@@ -214,7 +221,7 @@ section A.1, printed as from chapter 19). It is 223 words. Mark:
 - Confucius's closing comment, "His will undivided, his spirit
   coalesced."
 
-Then re-read the Butterfly Dream (chapter 2, section 20; 72 words
+Then re-read the Butterfly Dream (chapter 2, section 20; 67 words
 measured on the story proper; you read it in m1). Notice that the
 two readings describe different things. The Hunchback describes an
 absorbed skill from the inside, from the point of view of the
@@ -256,16 +263,15 @@ about 5 minutes each)
    anything about jobs, motivation or self-improvement.
 
 2. Name one training detail from an assigned story (the
-   Hunchback's months of balancing balls, or Cook Ding's nineteen
-   years with the same knife) and, in one sentence, state how the
-   story distinguishes that training history from the description
-   of the state the training produces. Then check your answer
-   against the passage.
+   Hunchback's months of balancing balls, or Cook Ding's
+   beginning-to-three-years progression) and, in one sentence,
+   state how the story distinguishes that training history from
+   the description of the state the training produces. Then check
+   your answer against the passage.
 
-3. Ungraded practice for deliverable b: pick one gloss, either
-   Ziporyn's mastery-without-awareness line or the practitioner's
-   it-goes-through-you description. Find the closest sentence in
-   an assigned passage. Write one sentence saying whether the gloss
+3. Ungraded practice for deliverable b: take Ziporyn's
+   mastery-without-awareness line. Find the closest sentence in an
+   assigned passage. Write one sentence saying whether the gloss
    adds something the passage does not say. You will do this
    again, graded, in deliverable b.
 
@@ -275,9 +281,8 @@ about 5 minutes each)
 your own life in which you are competent. Describe the activity.
 Then:
 
-- Identify the moment, or state that there is no such moment, at
-  which the supervising self disappears. Describe what the
-  activity is like from the inside at that moment.
+- Describe any change in your self-monitoring during the
+  activity, including no change if that is what you find.
 - Quote the sentence from one assigned Zhuangzi passage (Cook
   Ding or the Hunchback) that describes the closest thing to that
   moment in the story's own words. Cite the passage by its
@@ -290,22 +295,23 @@ Then:
   situation, and distinguish the line's own claim from your
   application of it.
 
-**Deliverable b (about 15 minutes).** Compare one modern gloss
-with its source. Take either Ziporyn's statement that the highest
+**Deliverable b (about 15 minutes).** Compare a modern gloss
+with its source. Take Ziporyn's statement that the highest
 virtuosity is the things we do without realising we are doing
-them, or Raymond Burke's description in the documentary that it
-feels like it is not you doing the thing but that it goes through
-you. Then:
+them. Then:
 
 - Find the sentence in an assigned Zhuangzi passage that comes
   closest to supporting the gloss. Quote it and cite the passage.
-- Identify one training detail in the same passage (the
-  Hunchback's months of balancing balls, or Cook Ding's nineteen
-  years with the same knife) and state how the story
-  distinguishes that training history from the description of
-  the resulting state. Say why the distinction matters: neither
-  the story nor the gloss supplies a universal training
-  prescription.
+- Identify one training detail in that passage (the Hunchback's
+  months of balancing balls, or Cook Ding's account of his
+  progression from seeing the whole carcass at the beginning to
+  no longer seeing it whole after three years) and state how the
+  story distinguishes that training history from the description
+  of the resulting state. Say why the distinction matters:
+  neither the story nor the gloss supplies a universal training
+  prescription. Note that Cook Ding's nineteen years with the
+  same knife is evidence of the state, not a stated preparation
+  period.
 - State whether the gloss is faithful to that sentence, adds
   something the sentence does not say, or both. Name the specific
   addition.
@@ -313,13 +319,16 @@ you. Then:
   Hunchback, to the Butterfly Dream, or to none of them, and say
   why.
 
-**Deliverable c (about 10 minutes).** Chapter check. In two or
-three sentences, explain why the module asked you to notice the
-difference between the Hunchback story, which describes the
-absorbed skill from the inside, and the Butterfly Dream, which
-describes it as a puzzle about which state is real. Then state
-which framing you find more useful for thinking about your own
-situation in deliverable a, and why.
+**Deliverable c (about 10 minutes).** Chapter check. The module
+has described the Hunchback story as showing the absorbed skill
+from the performer's point of view and the Butterfly Dream as
+framing the same territory as a puzzle about which state is real.
+Support that comparison with evidence from both passages, or
+challenge it with evidence from either passage if you think it is
+the wrong description. Then state which framing you find more
+useful for thinking about your own situation in deliverable a,
+and why. Agreement with the module's description is not the pass
+condition; evidence is.
 
 ### Step 7 — Self-assessment and feedback (about 5 minutes)
 
@@ -335,8 +344,10 @@ Graded by rubric. Each criterion is scored Pass or Revise.
 |---|---|---|
 | 1. The learner quotes an assigned Zhuangzi passage and cites it, and distinguishes what the passage says from what they propose about their own situation | The learner names the passage (Cook Ding section 3.2, or the Hunchback section A.1, or the Butterfly Dream 2.20), quotes the sentence that describes the absorbed moment, and states in their own words what the passage itself claims before applying it. A generic reflection about flow or being in the zone that never quotes or cites an assigned passage does not pass. | The learner describes their own experience vividly but never quotes or cites an assigned passage, or quotes it without distinguishing the passage's claim from their application. |
 | 2. The learner identifies the training detail in the story as distinct from the state it produces | The learner points to the Hunchback's months of balancing balls or Cook Ding's nineteen years with the same knife, and states that the story gives both a training history and a description of the resulting state, and that these are different things. | The learner treats the story as though it prescribed effortlessness directly, or as though the state it describes could be had without the training. |
-| 3. The learner checks a modern gloss against an assigned passage | The learner takes one specific gloss (Ziporyn's mastery-without-awareness line, or Raymond Burke's it-goes-through-you line), finds the closest sentence in an assigned passage, quotes it, and states whether the gloss adds something the sentence does not say. The learner also identifies a training detail in the same passage, distinguishes the training history from the resulting state, and explains why neither supplies a universal training prescription. The learner names the addition rather than saying vaguely that the gloss "captures the spirit." | The learner accepts the gloss without checking it against a passage, or checks it but does not name what the gloss adds, or treats the story as prescribing effortlessness directly. |
-| 4. The learner distinguishes the Hunchback's inside view from the Butterfly Dream's outside view | The learner states that the Hunchback describes the absorbed state from the performer's point of view while the Butterfly Dream frames it as a puzzle about which state is the real one, and says which framing they find more useful and why. | The learner treats the two passages as interchangeable, or describes only one of them. |
+| 3. The learner checks Ziporyn's gloss against an assigned passage | The learner takes Ziporyn's mastery-without-awareness line, finds the closest sentence in an assigned passage (Cook Ding or the Hunchback), quotes it, and states whether the gloss adds something the sentence does not say. The learner also identifies a training detail in that passage, distinguishes the training history from the resulting state, and explains why neither supplies a universal training prescription. The learner names the addition rather than saying vaguely that the gloss "captures the spirit." | The learner accepts the gloss without checking it against a passage, or checks it but does not name what the gloss adds, or treats the story as prescribing effortlessness directly. |
+| 5. The learner makes a reasoned application to their own situation | The learner describes a concrete situation from their own life, describes any change in self-monitoring (including no change), gives a reason for calling that self-monitoring avoidable strain or useful vigilance in that situation, and either proposes a bounded change or gives a reasoned decision not to change, naming a limit they would keep. The learner also states what the passage cannot establish about their situation. | The learner quotes a passage and separates it from their application but never makes the strain-versus-vigilance call, or makes the call without a reason, or proposes a change with no limit. |
+
+| 4. The learner engages the inside-view versus puzzle-frame comparison with passage evidence | The learner supports or challenges the module's comparison of the Hunchback (performer's inside view) and the Butterfly Dream (puzzle about which state is real) with quoted evidence from both passages, and says which framing they find more useful and why. Agreement with the module's description is not required; evidence is. | The learner treats the two passages as interchangeable, or describes only one of them, or asserts the comparison without quoting either passage. |
 
 Strong example for criterion 1: "The Hunchback says, 'No matter
 how huge heaven and earth or how numerous the myriad things, I
@@ -367,32 +378,32 @@ teaching the assigned passages do not state in those words.
   on the videos' own descriptions; the total is 5 minutes 22
   seconds on the Ziporyn segments and 4 minutes 36 seconds on the
   Van Norden chapter).
-- Primary-text reading on the assigned passages: Cook Ding 523
-  words including commentary, Hunchback 223 words, Butterfly
-  Dream 72 words; two readings of the two new passages (Cook Ding
-  and the Hunchback) plus one reading of the Butterfly Dream (a
-  re-read from m1): 2 x 523 + 2 x 223 + 72 = 1,564 words; at 130
-  words per minute (narrative with new concepts) about 12
-  minutes raw; with study overhead as a three-times multiplier,
-  about 36 minutes (estimate, labelled).
-- Module teaching prose on this page (2,470 words measured,
+- Primary-text reading on the assigned passages, counted on the
+  story proper with headings excluded: Cook Ding 413 words,
+  Hunchback 217 words, Butterfly Dream 67 words; two readings of
+  the two new passages (Cook Ding and the Hunchback) plus one
+  reading of the Butterfly Dream (a re-read from m1): 2 x 413 +
+  2 x 217 + 67 = 1,327 words; at 130 words per minute (narrative
+  with new concepts) about 10 minutes raw; with study overhead
+  as a three-times multiplier, about 30 minutes (estimate,
+  labelled).
+- Module teaching prose on this page (2,500 words measured,
   excluding the rubric table rows, counting the step text and the
   worked demonstration the learner reads): at 180 words per minute
   about 14 minutes raw; with study overhead as a three-times
-  multiplier, about 41 minutes (estimate, labelled).
+  multiplier, about 42 minutes (estimate, labelled).
 - Retrieval activities 1, 2 and 3: about 15 minutes (estimate;
   about 5 minutes each).
-- Graded deliverables including the self-assessment step: about
-  50 minutes (per-deliverable allowances above: contrast-and-
+- Graded deliverables: about 50 minutes (per-deliverable allowances above: contrast-and-
   application deliverable about 25 minutes, gloss-check
   deliverable about 15 minutes, chapter-check deliverable about
   10 minutes).
 - Self-assessment and feedback step: about 5 minutes.
 
-Total: about 2 hours 37 minutes (about 157 minutes of labelled
+Total: about 2 hours 32 minutes (about 152 minutes of labelled
 components: about 9 minutes 58 seconds measured assigned video,
-36 estimated primary-text reading with the three-times study
-multiplier, 41 estimated module-prose reading with the three-times
+30 estimated primary-text reading with the three-times study
+multiplier, 42 estimated module-prose reading with the three-times
 study multiplier, 15 retrieval, 50 graded, 5 self-assessment).
 
 ## Verification status of attached sources
@@ -415,7 +426,7 @@ locator in the ledger. No attachment in this module carries an
 |---|---|---|---|
 | 1. Read a skill story and locate its claim | Step 1, Step 3 | Step 2 worked demonstration | Deliverable a, rubric criterion 1 |
 | 2. Distinguish skill as story from skill as advice | Step 1, Step 2 | Retrieval activity 2 | Deliverable b, rubric criterion 2 |
-| 3. Apply the losing-the-self description to one situation | Step 2, Step 4 | Retrieval activity 1 | Deliverable a, rubric criterion 1 and 3 |
+| 3. Test the losing-the-self interpretation against one situation | Step 2, Step 4 | Retrieval activity 1 | Deliverable a, rubric criterion 1 and 5 |
 | 4. Check an interpretation against the text | Step 4 | Retrieval activity 3 (ungraded practice) | Deliverable b, rubric criterion 3 |
 
 The fourth criterion (inside view versus outside view) is taught in

@@ -844,3 +844,75 @@ reading, 41 prose, 15 retrieval, 50 graded, 5 self-assessment).
 Arithmetic: 9.97 + 36 + 41 + 15 + 50 + 5 = 156.97, rounded 157.
 
 Advisor content/pedagogical QC: round 2 PENDING.
+
+## m3 advisor QC round 2 repairs (2026-10-26, worker-pplx-degdaosim-1026a)
+
+Round 2 returned further bounded repairs; all applied this pass:
+
+1. The documentary quotation (Burke's it-goes-through-you line)
+   was removed from the assessed comparison because the
+   transcript service does not print timestamps beside the
+   speaker's words and the module cannot show a verified
+   placement within the assigned chapter. The graded comparison
+   in deliverable b now uses Ziporyn's gloss only, which is
+   printed in his lecture segment with its own chapter label.
+   The module still mentions the documentary chapter but does not
+   use its quotation in any graded work. The premature
+   "verified within 29:44-34:20" ledger claim is corrected by
+   this entry.
+
+2. Counting boundaries corrected. The Butterfly Dream is 67 words
+   on the story proper (excluding the heading "2.20: The
+   butterfly dream" and the footnote marker), not 72. The
+   Hunchback is 217 words on the story proper (excluding its
+   heading), not 223. Cook Ding is 413 words on the story proper
+   (excluding the translator's closing commentary), not 523. The
+   workload section now states the boundary: story proper,
+   headings excluded.
+
+3. Workload labels reconciled. Step 2 now states its reading
+   time is included in the module-prose allowance, not
+   additional. The graded line no longer says "including the
+   self-assessment step"; self-assessment is a separate 5-minute
+   allowance. Step 3 now explicitly requests two readings of the
+   Hunchback, matching its calculation.
+
+4. Outcome 3 and deliverable a no longer frame the task around a
+   supervising self that "disappears." The learner now describes
+   any change in self-monitoring, including no change, and tests
+   whether the loss-of-self reading is warranted. The worked
+   demonstration now calls Cook Ding's knot-sentence attention
+   task-directed vigilance aimed at the job, not evidence of
+   failure, and states the story does not say something has gone
+   wrong with him.
+
+5. Deliverable c and rubric criterion 4 no longer prescribe the
+   inside-view versus puzzle-frame reading as the pass
+   condition. The learner now supports or challenges the
+   comparison with quoted evidence; agreement with the module is
+   not required, evidence is.
+
+6. Cook Ding's nineteen years with the same knife is no longer
+   presented as a training history. The training details are now
+   the Hunchback's months of balancing balls and Cook Ding's
+   explicit beginning-to-three-years progression. Deliverable b
+   and retrieval activity 2 updated accordingly.
+
+7. Rubric criterion 5 added: a reasoned application to the
+   learner's own situation, requiring a concrete situation, a
+   reason for the strain-versus-vigilance call, a bounded change
+   or a reasoned decision not to change, a retained limit, and
+   acknowledgement of what the passage cannot establish.
+   Outcome 3 and its alignment row updated to match.
+
+8. Nearby citations added: the Ziporyn transcript link beside
+   his gloss and shoe quotation, the Eno translation link with
+   section locator beside the Step 1 primary-text discussion.
+
+Workload after repairs: 152 minutes total (9:58 video, 30
+primary reading on 1,327 words with the multiplier, 42 prose on
+2,505 measured words, 15 retrieval, 50 graded, 5
+self-assessment). Arithmetic: 9.97 + 30 + 42 + 15 + 50 + 5 =
+151.97, rounded 152.
+
+Advisor content/pedagogical QC: round 3 PENDING.
