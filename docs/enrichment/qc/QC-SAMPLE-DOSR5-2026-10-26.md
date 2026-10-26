@@ -75,3 +75,28 @@ close) were adjudicated via alternate routes this session:
 Net: 2 of 3 were fetcher blocks (quotes genuine); 1 was a real punctuation
 deviation, now fixed. cognition.md re-checked (dossier_check exit 0,
 density 0 dense) and registry-rebuilt after the repair.
+
+# Adjudication: attention's 4 automated NOT FOUNDs — 2026-10-26 02:28Z, worker-pplx-verify-1026b
+
+The four automated non-matches in attention.md (per QC-BAND-QUOTE-MAP-2026-10-26.md;
+the map's count of 2 was per-file, the script reports 4 spans) were adjudicated
+by direct fetch of each carrier (curl with browser UA; pdftotext for the PDF):
+
+1. Langner and Eickhoff 2012 (PMC3627747): full quoted span confirmed verbatim
+   on the live page.
+2. Lutz et al. 2008 (PMC2693206): full quoted span confirmed verbatim on the
+   live page.
+3. Lavie 2005 (labs.wsu.edu PDF): both quoted spans confirmed verbatim in the
+   downloaded PDF. The automated check fails because labs.wsu.edu blocks the
+   verifier's fetcher; the extraction shows 'earlyand late-selection' and
+   'taskrelevant' only because pdftotext drops hyphens at line breaks — the
+   published text carries 'early- and late-selection' and 'task-relevant' as
+   the dossier quotes them.
+
+Result: all four are blocked-fetch false positives; the quotes are genuine; no
+repair owed. motivation.md re-ran clean (0 of 10) this session as well. With
+cognition's three adjudicated above, dosr3 and dosr5 — the two closed bands
+not held by a live baton — are now fully adjudicated. dosr1's twelve
+(gratitude 7, right-effort 2, right-intention 3) remain for the supervisor,
+who holds that baton; dosr4/dosr6/dosr7 owners adjudicate their own during
+their passes.
