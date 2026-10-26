@@ -15,8 +15,8 @@ italicized _we_ is corrected — the page renders plain "we". (3) Peak
 experiences: the Sefaria confirmation was obtained via a prompted
 fetch, not unprompted content; wording corrected. (4) Paradigm
 shifts: the printed "gesalt" (verified in the rendered page image) vs
-the page's "gestalt" observation stands; how to handle it (sic,
-edition note, or silent correction) is left to the quotation protocol
+the page's "gestalt" observation stands; the observed discrepancy is
+left to the quotation protocol
 and repair lane. (5) Carrier-failure wording standardized: the
 Patience/Schnitker, Sokolov/Springer, and Opponent-Process/Springer
 spans were "not re-verified through the attempted routes" (not
@@ -46,6 +46,18 @@ spell of the perspective that makes the closest and commonest seem
 immensely large and like reality in itself) is consistent with the
 carrier's aphorism 78 wording (page's paraphrase uses "that" where the
 carrier has "which"; not a quoted span). No defects; no repairs needed.
+
+AUDIT ADDENDUM (same entry, added after the final taskboard audit):
+the accidental duplicate-file restoration (7d0706cc) and its repair
+(d37183d4) were compared line-by-line at the byte level: the repair's
+removal is exactly identical to the restore's insertion (4355 lines,
+cmp-identical), so no other content was lost or altered by the episode.
+Current state: 119 checkpoint blocks, 118 unique, zero conflict markers;
+the one exact-duplicate group and one near-duplicate group both belong
+to another worker's entries and are left for that worker/supervisor to
+review rather than removed by me. Earlier wording in a prior entry
+claiming a "full-body audit" overstated the then-available evidence;
+this addendum records the completed byte-level proof.
 
 ## Worker checkpoint (2026-10-26 02:46Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
 
@@ -153,8 +165,8 @@ this worker; future conflicts will use full-body comparison. (3) Claim
 corrections on my own QC entries — Paradigm shifts: I withdraw the
 "canonical" wording claim; the carrier's PRINTED page (rendered and
 inspected) says "gesalt switch" and the page renders "gestalt", a
-silent correction of the carrier typo — noted for the repair lane (add
-[sic] or note the edition). Peak experiences: the Sefaria second part
+silent correction of the carrier typo — the observed discrepancy is
+left to the quotation protocol. Peak experiences: the Sefaria second part
 ("there is tremendous concentration of a kind which does not normally
 occur") is now confirmed verbatim in unprompted page content; the
 whole-span claim stands. Online disinhibition effect: NEW DEFECT
