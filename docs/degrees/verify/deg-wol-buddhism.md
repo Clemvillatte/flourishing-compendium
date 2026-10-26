@@ -830,3 +830,23 @@ retrieved (2026-10-26T05:26Z; corrected 05:31Z per advisor QC)
   method and scope stated. ROUTE owner: b7's Batchelor source-table
   row can record the retrieval; the module's own bounded wording
   stands.
+
+### B-V21 — b6 timestamped caption-coverage check, Kirchner L1/L3
+(2026-10-26T05:33Z)
+
+- Route: downsub VTT (timestamped cues) for both assigned lectures.
+  Lecture 1 (UVXpdAavGgQ): 1,801 cues, first 00:00:03.6, last
+  01:28:05.8 — continuous caption coverage of the whole 1:28:04
+  runtime. Lecture 3 (jPxuvitdsRI): 2,459 cues, first 00:00:03,
+  last 01:40:01.6 (the talk's own closing words) — continuous
+  coverage of the whole 1:40:17 runtime. No gaps observed in cue
+  spacing at the extraction depth used (cue-to-cue, not verified
+  word-by-word).
+- The module's viewing stops fall inside continuous speech in both
+  recordings (L1's 00:44:00 split lands mid-passage; L3's 00:50:00
+  split lands mid-passage), consistent with the module's framing
+  that the stops are structural, not content boundaries. No change
+  requested to the stops or to the workload arithmetic (1:28:04 +
+  1:40:17).
+- Auto-captions: subject classification and coverage evidence only;
+  not a verbatim quotation carrier.
