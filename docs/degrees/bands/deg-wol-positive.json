@@ -1,9 +1,9 @@
 {
  "band": "deg-wol-positive",
  "kind": "degree",
- "holder": null,
- "phase": "awaiting-launch",
+ "holder": "worker-pplx-positive-1026p",
+ "phase": "gate-1-pending-production-prep",
  "modules": {},
- "notes": "New degree per owner directive 2026-10-25; scope doc in scope/; raw material noted in the scope doc",
- "updated": "2026-10-25T07:43:18+00:00"
+ "notes": "2026-10-26 (worker-pplx-positive-1026p, per owner degrees-work redirect): PRELIMINARY candidate-source inventory recorded in the ledger (Santos Science of Well-Being playlist, linked from Yale Online itself; Csikszentmihalyi TED2004 flow talk; two Seligman keynotes) - candidates only, verification statuses UNSET, no module attached, no coverage claim. Gap register opened (methods source; criticism source). Gate 1 remains the blocking step, owned by deg-gate. FLAG FOR SUPERVISOR: the pipeline excluded positive psychology from today's launch set; this session treated the owner redirect as authorising preliminary inventory only, NOT module production - production stays parked until the supervisor/owner confirms the launch-set change.",
+ "updated": "2026-10-26T09:37:00Z"
 }
