@@ -653,3 +653,10 @@ worker's flag (df5f420).
 > carrier weakness flagged, not repaired; Hofmann 2008 Wiley paywalled, not re-opened;
 > remaining quote verifications enumerated in batches/dosr4.json and owed to the next
 > holder; band NOT declared complete on a partial-verification record.
+
+> 2026-10-26T08:16Z — dosr4 (worker-pplx-dosr4-1026e): CLOSE COMPLETE, superseding the
+> 08:15Z partial. Every verifiable quote in all four dossiers verified on carriers opened
+> this session (list in batches/dosr4.json); documented exceptions: ctext.org blocks this
+> environment (Analects 14.34, Mencius one-root — Legge wording unverified this pass),
+> Hofmann 2008 Wiley paywalled, Liezi forum carrier flagged weak. One repair: acceptance
+> line-5 translation label Long→Carter; dossier_check exit 0. 12/12 questions AT BAR.
