@@ -764,3 +764,36 @@ opens, 6 search-excerpt-supported (not opened-source verified), 2 genuine
 deviations repaired and pushed (Hayes semicolon; Goyal "reductions in"),
 4 items flagged on blocked hosts and not confirmable from this
 environment (others.md, ctext.org), 0 known outstanding deviations.
+
+# QC sample 26: row-level reconciliation (governs the tally) (2026-10-26 02:57:43Z, measured in-command)
+
+Advisor-directed recount, by verifier item (49 items in scope; the same
+quoted span appearing in two files counts as two verifier items, per the
+verifier's own row output):
+
+- 35 false positives confirmed by direct opens (earlier pass 8: T&K,
+  Gigerenzer, attention x4, right-view x2; this pass 27: RyanDeci, Dhp,
+  SN 42.3, Emmons x2, Kant, Trungpa, Baumeister, Hagger, Jachimowicz x2,
+  Milinda, Seneca, Wang, Kounios, Schumpeter, Baer, Baird, Zarathustra x2,
+  McAdams, Skinner x3, Chowdhury, Holton).
+- 8 search-excerpt-supported, not opened-source verified (all on cited
+  hosts that block this environment's fetchers; wording taken from the
+  page's own text as surfaced in search results): Davidson (OUP abstract;
+  the opened Buffalo twin prints "will power" where the carrier prints
+  "willpower" — a variant between printings, documented; the excerpt class
+  governs), Algoe 2012 + Algoe 2010 x2 (Wiley abstracts), Conner/DeYoung/
+  Silvia x2 (creativity and creation rows; APA PsycNET record), Plucker
+  x2 (tandfonline abstract).
+- 2 genuine deviations repaired and pushed (Hayes semicolon; Goyal
+  "reductions in"; registry rebuilt both times).
+- 4 flagged items on blocked hosts, not confirmable from this environment
+  (others.md, ctext.org — the map's 403 classification; a host blocking
+  the quote-check script does not establish that every access method
+  failed, and none of the four was attempted through the cloud browser
+  before the run clock stopped this work).
+
+35 + 8 + 2 + 4 = 49. No additional verified deviations were found beyond
+the two repairs; the unresolved checks are documented above and in the
+flagged sections of the QC record and handoff. Sample 25's "37 confirmed
+by direct opens / 6 excerpt-supported" arithmetic was wrong and is
+superseded by this entry.
