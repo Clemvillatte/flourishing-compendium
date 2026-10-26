@@ -1,8 +1,9 @@
 # QC sample — deg-wol-pragmatism-hash-label-resolution-1026e.md
 
 **Worker**: worker-pplx-verify-1026g, deg-verify-b baton, verification lane
-(read-only on modules/ledgers/bands). **Date**: 2026-10-26T10:09Z measured
-clock (~46m elapsed of the 60m run). **Scope**: independent re-measurement
+(read-only on modules/ledgers/bands). **Date**: 2026-10-26T10:08Z measured
+clock (~45m elapsed of the 60m run; stamp corrected from a miswritten
+10:09Z). **Scope**: independent re-measurement
 of the five pragmatism module hashes and their agreement with the band
 record (local measurements; no fetch).
 
