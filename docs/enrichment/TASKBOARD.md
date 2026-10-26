@@ -5,6 +5,18 @@
 PDF — specific hard goals passage exact) and Cicero De Finibus III.22
 Rackham (penelope.uchicago — the archer passage exact). Session
 quote-fidelity total 14/14 across 6 dossiers + 4 story pages.
+## Worker checkpoint (2026-10-26 00:37Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+QC SAMPLE — principle page A001 (eudaimonia as organising end): the
+Aristotle NE I.7 Ross passage "But we must add 'in a complete life.' For
+one swallow does not make a summer, nor does one day; and so too one day,
+or a short time, does not make a man blessed and happy" confirmed
+VERBATIM on the
+[MIT Classics page](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html).
+A071 (self-love, NE IX.8 paraphrase): no direct quotes on the page; the
+two-forms-of-self-love rendering matches the NE IX.8 distinction. No
+defects; no repairs needed.
+
 ## Worker checkpoint (2026-10-26 00:34Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — two concept pages, all quotes verified on live fetches:
