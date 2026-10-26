@@ -49,13 +49,14 @@ precepts as tools rather than slogans.
 **Ajahn Brahm, "What the Buddha Taught" (Everyday Dhamma Network
 remaster of a talk recorded at Dhammaloka, Perth, 2003),
 https://www.youtube.com/watch?v=W6pGAvtBmCw, 49:44 total; assigned
-segment 25:46-37:33.** The chapters read on the opened video page: The
+segment 00:25:46-00:37:33.** The chapters read on the opened video page: The
 night of enlightenment 0:00; Understanding rebirth 2:29; Consequences of
-rebirth 12:46; The law of karma 19:44; Ethics and tolerance 25:46;
-Making ethical decisions 31:32; The Four Noble Truths 37:33. This module
-assigns the ethics arc only: 25:46 (Ethics and tolerance) through
-31:32 (Making ethical decisions), and the decision-making teaching
-31:32 to 37:33 where the four-truths chapter begins. The first 25:46
+rebirth 12:46; The law of karma 19:44; Ethics and tolerance 00:25:46;
+Making ethical decisions 00:31:32; The Four Noble Truths 00:37:33.
+This module assigns the ethics arc only: 00:25:46 (Ethics and
+tolerance) through 00:31:32 (Making ethical decisions), and the
+decision-making teaching 00:31:32 to 00:37:33 where the four-truths
+chapter begins. The first 00:25:46
 (rebirth and kamma cosmology) is outside this degree's scope and stays
 unassigned; the four-truths arc belongs to b2.
 
@@ -70,7 +71,7 @@ as the position of every Buddhist tradition. The transcript is
 AI-generated and error-prone, so this module paraphrases the talk
 with attribution and quotes none of its wording.
 
-Activity: one line per chapter mark you cross (25:46, 31:32), naming
+Activity: one line per chapter mark you cross (00:25:46, 00:31:32), naming
 the shift in the teaching.
 
 ### Step 2 — The precepts in the booklet (~30 min, reading)
@@ -139,14 +140,14 @@ you think you avoided it. That line is part of the module.
 
 The rebirth-dependent material in this module's sources is deliberately
 unassigned (the booklet's rebirth and karma sections; the talk's first
-25:46), and outcome 4 asks you to state that placement plainly. The
+00:25:46), and outcome 4 asks you to state that placement plainly. The
 module makes no claim about rebirth's truth or falsity; it marks where
 the walk's boundary runs and why. The Four Noble Truths segment of the
-talk (37:33 onward) is b2's territory and is not assigned here.
+talk (00:37:33 onward) is b2's territory and is not assigned here.
 
 ## Workload arithmetic
 
-- Measured media: assigned video segment 25:46-37:33 = 11 m 47 s
+- Measured media: assigned video segment 00:25:46-00:37:33 = 11 m 47 s
   (chapter-bounded; durations read from the opened pages, receipts
   B-T03 and the remaster corroboration in the degree ledger).
 - Estimated: booklet sections (~2,000 words at 130 words per minute,
@@ -159,7 +160,7 @@ talk (37:33 onward) is b2's territory and is not assigned here.
 
 | resource | status | verified | notes |
 |---|---|---|---|
-| Ajahn Brahm, "What the Buddha Taught" (remaster), https://www.youtube.com/watch?v=W6pGAvtBmCw | verified-video | 2026-10-26 (parallel session, ledger-recorded; corroborated by deg-verify-a) | 49:44 on the opened video page and the Everyday Dhamma episode page (https://everydaydhamma.net/podcast/ajahn-brahm-podcast/episode/what-the-buddha-taught-ajahn-brahm); chapters read on the video page; ethics arc 25:46-37:33 assigned; transcript is AI-generated and error-prone, so the module paraphrases and quotes nothing; credentials on https://bswa.org/teachers/ajahn-brahm/ (Cambridge theoretical physics; ordained 1974, Forest Tradition of north-east Thailand under Ajahn Chah; abbot of Bodhinyana) |
+| Ajahn Brahm, "What the Buddha Taught" (remaster), https://www.youtube.com/watch?v=W6pGAvtBmCw | verified-video | 2026-10-26 (parallel session, ledger-recorded; corroborated by deg-verify-a) | 49:44 on the opened video page and the Everyday Dhamma episode page (https://everydaydhamma.net/podcast/ajahn-brahm-podcast/episode/what-the-buddha-taught-ajahn-brahm); chapters read on the video page; ethics arc 00:25:46-00:37:33 assigned; transcript is AI-generated and error-prone, so the module paraphrases and quotes nothing; credentials on https://bswa.org/teachers/ajahn-brahm/ (Cambridge theoretical physics; ordained 1974, Forest Tradition of north-east Thailand under Ajahn Chah; abbot of Bodhinyana) |
 | "What Is Buddhism?" booklet, https://bswa.org/teaching/buddhism-ajahn-brahm/ | verified (text) | 2026-10-26 (receipt B-T03, deg-verify-a) | free distribution PDF; the five precepts, Middle Way and practice sections assigned; rebirth/karma sections deliberately unassigned (receipt caveat); credentials on the BSWA teacher page |
 | Five Mindfulness Trainings, https://plumvillage.org/mindfulness/the-5-mindfulness-trainings | verified (text) | 2026-10-26 (receipt B-T02 and defect repair 2026-10-26, deg-verify-a) | revised 2022; free; root in the Buddha's five precepts stated on the page; URL corrected this session per deg-verify-a's defect flag (the earlier mindfulness-practice URL lands on a retreat page); Thich Nhat Hanh biography page to be attached if the module later leans on his life (receipt note) |
 | AN 5.179 Gihisutta, https://suttacentral.net/an5.179/en/sujato | verified | 2026-10-26 (b1) | see b1 source table |
