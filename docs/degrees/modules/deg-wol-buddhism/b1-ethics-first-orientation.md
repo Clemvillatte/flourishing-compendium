@@ -133,14 +133,14 @@ a good friend, a neutral person, someone you dislike, everyone); the Metta
 Sutta supplies the orientation ("With love for the whole world, unfold a
 boundless heart"), and the timings below are this module's application:
 
-1. (0:00-1:00) Sit comfortably, settle the breath, and let the body arrive.
-2. (1:00-3:00) Yourself: "May I be happy. May I be at ease."
-3. (3:00-5:00) One person you love, same phrases.
-4. (5:00-7:00) One person who is neutral to you (a shopkeeper, a neighbour),
+1. (00:00-01:00) Sit comfortably, settle the breath, and let the body arrive.
+2. (01:00-03:00) Yourself: "May I be happy. May I be at ease."
+3. (03:00-05:00) One person you love, same phrases.
+4. (05:00-07:00) One person who is neutral to you (a shopkeeper, a neighbour),
    same phrases.
-5. (7:00-9:00) One person you find difficult, same phrases, at whatever
+5. (07:00-09:00) One person you find difficult, same phrases, at whatever
    honesty you can manage. A mechanical repetition is acceptable here.
-6. (9:00-10:00) Everyone: "May all beings be happy."
+6. (09:00-10:00) Everyone: "May all beings be happy."
 
 A second sitting is required, ideally a day or two after the first. The record
 asks you to note whether you followed the sequence and what you observed;

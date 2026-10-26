@@ -54,7 +54,7 @@ Watch through the guided-meditation chapter mark, then stop.
 Activity: write your setup plan (time of day, place, posture) in three
 lines, with one reason per line. You will use it in the training plan.
 
-### Step 2 — First guided sitting (~14 min, video segment 20:32-33:55)
+### Step 2 — First guided sitting (~14 min, video segment 00:20:32-00:33:55)
 
 The same session's guided meditation chapter, 00:20:32-00:33:55 (13 minutes 23
 seconds). Sit with it, following the guidance. This is outcome 2's first
