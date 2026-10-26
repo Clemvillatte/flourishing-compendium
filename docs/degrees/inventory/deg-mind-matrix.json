@@ -61,24 +61,14 @@
       "topic": "History of cognitive science (behaviorism \u2192 cognitive revolution)",
       "module": "mod-mind-1",
       "status": "PARTIAL",
-      "sources": [
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.13_lec01 Introduction (79:55)"
-        }
-      ],
+      "sources": [],
       "note": "PENDING on-scope check \u2014 the individual lesson titles were not retrievable from the OCW course page; each lesson needs a specific on-matrix Walk-of-Life justification before counting as verified hours."
     },
     {
       "topic": "Interdisciplinary roots (psychology, linguistics, philosophy, neuroscience, AI, anthropology)",
       "module": "mod-mind-1",
       "status": "MISSING",
-      "sources": [
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.13_lec01 Introduction (79:55)"
-        }
-      ],
+      "sources": [],
       "note": "PENDING on-scope check \u2014 the individual lesson titles were not retrievable from the OCW course page; each lesson needs a specific on-matrix Walk-of-Life justification before counting as verified hours."
     },
     {
@@ -191,12 +181,7 @@
       "topic": "Language comprehension",
       "module": "mod-mind-10",
       "status": "MISSING",
-      "sources": [
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.13_lec18 Language I (68:58)"
-        }
-      ],
+      "sources": [],
       "note": "PENDING on-scope check \u2014 the individual lesson titles were not retrievable from the OCW course page; each lesson needs a specific on-matrix Walk-of-Life justification before counting as verified hours."
     },
     {
@@ -233,32 +218,14 @@
       "topic": "Emotion and affect (affective neuroscience)",
       "module": "mod-mind-12",
       "status": "MISSING",
-      "sources": [
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.13_lec20 Mentalizing and Theory of Mind (76:01)"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.13_lec21 Brain Networks (83:22)"
-        }
-      ],
+      "sources": [],
       "note": "PENDING on-scope check \u2014 the individual lesson titles were not retrievable from the OCW course page; each lesson needs a specific on-matrix Walk-of-Life justification before counting as verified hours."
     },
     {
       "topic": "Social cognition (theory of mind, empathy)",
       "module": "mod-mind-12",
       "status": "MISSING",
-      "sources": [
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.13_lec20 Mentalizing and Theory of Mind (76:01)"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.13_lec21 Brain Networks (83:22)"
-        }
-      ],
+      "sources": [],
       "note": "PENDING on-scope check \u2014 the individual lesson titles were not retrievable from the OCW course page; each lesson needs a specific on-matrix Walk-of-Life justification before counting as verified hours."
     },
     {
@@ -281,16 +248,7 @@
       "topic": "Intelligence and individual differences",
       "module": "mod-mind-13",
       "status": "OPTIONAL",
-      "sources": [
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.13_lec10 Development, Nature & Nurture I (81:07)"
-        },
-        {
-          "type": "mit_ocw_lesson",
-          "id": "9.13_lec11 Development, Nature & Nurture II (77:48)"
-        }
-      ],
+      "sources": [],
       "note": "PENDING on-scope check \u2014 the individual lesson titles were not retrievable from the OCW course page; each lesson needs a specific on-matrix Walk-of-Life justification before counting as verified hours."
     },
     {
@@ -373,5 +331,5 @@
     "caveat": "measured VIDEO time only; 17 proposed modules x 6h minimum = >=102h required; on-scope filtering of the 61 lessons against the coverage matrix is NOT yet done; the D2 checkpoint must rule on whether video-only counts as measured instruction time"
   },
   "d1_syllabus_evidence_correction": "the Columbia COGS1001.pdf was re-fetched WITHOUT an extraction prompt this session and read verbatim \u2014 the actual syllabus is 'Introduction to Cognitive Science (COGS 1001), Fall 2023' by Christopher Baldassano (Columbia Psychology, CREDENTIALS-VERIFIED) and John Morrison (Barnard Philosophy, founding director of the Cognitive Science program, CREDENTIALS-VERIFIED); the earlier 'PSYC UN2410, Spring 2025, Raffone & Bondi' attribution and the 'wk 14 mindfulness' lecture were hallucinations and are retracted",
-  "allocation_note": "the topics[].sources arrays carry the MIT OCW lesson allocation. The 9.40 Neural Computation course (20 lessons, 24.56h) is EXCLUDED per the on-scope filter. The corrected spine is 9.13 (20.15h) + 9.00SC (23.02h) = 43.17h from 41 unique lessons \u2014 but this is RETAINED CATALOG RUNTIME, not verified qualifying instruction time; the per-lesson on-scope check is NOT done. Modules 3, 6, 7, 8, 9, 11, 14, 15 and 17 have no verified allocation and need additional resources at D2. The 17-modules-x-6h = >=102h requirement stands; the shortfall against 43.17h catalog runtime is ~58.83h, not 57h."
+  "allocation_note": "the topics[].sources arrays carry the MIT OCW lesson allocation with each lesson assigned to EXACTLY ONE topic (globally deduplicated this session \u2014 the previous version had 6 lessons assigned to multiple topics). The 9.40 Neural Computation course (20 lessons, 24.56h) is EXCLUDED per the on-scope filter. The 9.13 + 9.00SC material is 43.17h of RETAINED CATALOG RUNTIME \u2014 NOT verified qualifying instruction time; the per-lesson on-scope check is NOT done and the lesson titles were not retrievable from the OCW course pages. Modules with no allocation need additional resources at D2. The 17-modules-x-6h = >=102h requirement stands; the shortfall is ~58.83h."
 }
