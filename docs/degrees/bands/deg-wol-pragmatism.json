@@ -2,7 +2,7 @@
  "band": "deg-wol-pragmatism",
  "kind": "degree",
  "holder": null,
- "phase": "module-production",
+ "phase": "qc_complete",
  "modules": {
   "m1-orientation": "independent supervisor MODULE-QC PASS at 91105ac8 (review reviews/deg-wol-pragmatism-m1-supervisor-1026e.md): Philosophy Talk episode content coverage independently corroborated via the indexed-transcript route (identity, duration, discussion shape); the three named open items adjudicated bounded (playback a human-session residue, segmentation routed to production as optional refinement, caption status established: auto-generated with recognition errors, no verbatim claims). Advisor rounds 1-4 accepted. Not complete-degree/publication clearance.",
   "m2-belief-and-doubt": "independent supervisor MODULE-QC PASS at 39aafd24 (review reviews/deg-wol-pragmatism-m2-supervisor-1026e.md): advisor round-1 repairs confirmed applied; three quoted passages spot-verified verbatim against the opened Wikisource text; workload arithmetic 225 labelled minutes consistent; video-first fallback properly documented. Not complete-degree/publication clearance.",
@@ -11,5 +11,5 @@
   "m5-capstone": "independent supervisor MODULE-QC PASS at 30ae9638 (review reviews/deg-wol-pragmatism-m5-supervisor-1026e.md): Peirce maxim spot-verified verbatim against the opened Wikisource page (third independent confirmation after the producer and deg-verify-b); workload arithmetic 310 labelled minutes consistent; no new sources, capstone reuses m1-m4 assignments. Not complete-degree/publication clearance. || 1026h corroboration (reviews/deg-wol-pragmatism-m5-supervisor-1026h-2026-10-26.md): all five quoted passages fresh-verified verbatim this session (Peirce maxim, Dewey forked-road on the m4-review download, James Lecture VI x2, Will to Believe thesis fragment); arithmetic 310 min recomputed; zero em dashes; verdict CORROBORATES the canonical 1026e PASS at the same hash 30ae9638 (1026h's claim postdated the canonical review; no new defects)."
  },
  "notes": "Wave-2/4 production complete for all five modules (m1-m3 by 1026b, m4/m5 by 1026c). m1-m3 handed to supervisor module-QC; m4/m5 draft-not-cleared awaiting supervisor module-QC. Open items on m4: video playback/captions/measured durations uninspected for all candidates; Bernstein transcript-level coverage evidence offered for a module decision, none taken. UCSC instructor institutional verification COMPLETE (campus directory, 2026-10-26, receipt in ledger). m4 Reading A 778-vs-774 delta RECONCILED 2026-10-26 (four sidenote labels; receipt in ledger). Next: supervisor module-QC on m1-m5; then integration steps per OPERATIONS.md. 2026-10-26 1026e: m4 Bernstein edit applied (baton taken, production lane was free); m1-m5 all PASS. Next: whole-degree QC + gate + integrate + flip.",
- "updated": "2026-10-26T08:03:00Z"
+ "updated": "2026-10-26T08:10:00Z"
 }

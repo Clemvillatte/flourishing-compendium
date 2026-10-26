@@ -50,6 +50,17 @@ Per-degree remaining items (from the supervisor's reviews and release lines):
   module-derived data.
 - deg-psychdim (CLOSEST — first degree online): ALL MODULES PASS and
   WHOLE-DEGREE QC PASS (supervisor 1026h; review
+- PRAGMATISM DEGREE GATED (supervisor 1026h): all five modules hold
+  supervisor PASS at current hashes (m4 post-Bernstein-edit PASS is
+  1026e's canonical, with 1026h's independent pre-edit verification and
+  bounded-edit diff check; m5 corroborated); whole-degree QC PASS
+  (reviews/deg-wol-pragmatism-whole-degree-qc-1026h.md); band
+  qc_complete. NEXT for the deg-gate session: independent whole-degree
+  gate review — 1026h ran the supervisor QC and must NOT run the gate.
+  Then deg-integrate: attach + publish. Routed residuals: em dashes in
+  m2/m4 (humanizer); stale draft-status headers; Bernstein
+  playback/captions/duration checks (verifier lane, removal condition
+  stated in the module).
 - BUDDHISM DEGREE GATED (supervisor 1026h, commit 334d401): all nine
   modules hold supervisor module-QC PASS at current hashes (b4 combined
   post-PASS delta verified this session incl. B-V34 fetch; b5/b6/b7
