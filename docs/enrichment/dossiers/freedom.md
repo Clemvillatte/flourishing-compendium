@@ -68,7 +68,7 @@ The disagreement turns on what the binding law is. For Rousseau the self-prescri
 
 ### Is choice an explanatory starting point?
 
-Skinner's behaviorism is the strongest opposition the exercise wing faces, and its target is precise: not the existence of persons but the treating of choice as an uncaused cause, a place where explanation stops.
+Skinner's behaviorism is the strongest opposition the exercise wing faces, and its target is narrow. It leaves the existence of persons alone and goes after the treatment of choice as an uncaused cause, a place where explanation stops.
 
 > "What is being abolished is autonomous man – the inner man, the homunculus, the possessing demon, the man defended by the literatures of freedom and dignity. His abolition has long been overdue. Autonomous man is a device used to explain what we cannot explain in any other way. He has been constructed from our ignorance, and as our understanding increases, the very stuff of which he is composed vanishes. Science does not dehumanize man, it de-homunculizes him." ([Skinner, Beyond Freedom and Dignity, pp. 199-200, quoted in the Cambridge University Press excerpt](https://assets.cambridge.org/97811089/27628/excerpt/9781108927628_excerpt.pdf))
 

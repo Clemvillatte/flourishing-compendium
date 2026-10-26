@@ -17156,7 +17156,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Then the diagnosis runs out. Some of what happens cannot be traced to opinions about it, and pretending otherwise is its own cruelty: telling someone whose child has died that their grief is a judgment problem. Jaspers called the remaining territory [limit situations (Grenzsituationen)](card:Limit%20situations%20%28Grenzsituationen%29), and his account of the response is not a solution but a new self-consciousness beyond the old forms ([SEP, Karl Jaspers](https://plato.stanford.edu/entries/jaspers/)). [ST289 — Jaspers's Shipwreck](card:ST289%20%E2%80%94%20Jaspers%27s%20Shipwreck) gives Jaspers's own metaphor: we are always in situations, we cannot live without struggling against them, and we cannot fundamentally change them."
+          "x": "Then the diagnosis runs out. Some of what happens cannot be traced to opinions about it, and pretending otherwise is its own cruelty: telling someone whose child has died that their grief is a judgment problem. Jaspers called the remaining territory [limit situations (Grenzsituationen)](card:Limit%20situations%20%28Grenzsituationen%29), and his account of the response offers no solution; it describes a new self-consciousness beyond the old forms ([SEP, Karl Jaspers](https://plato.stanford.edu/entries/jaspers/)). [ST289 — Jaspers's Shipwreck](card:ST289%20%E2%80%94%20Jaspers%27s%20Shipwreck) gives Jaspers's own metaphor: we are always in situations, we cannot live without struggling against them, and we cannot fundamentally change them."
         },
         {
           "t": "p",
@@ -18061,7 +18061,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Skinner's behaviorism is the strongest opposition the exercise wing faces, and its target is precise: not the existence of persons but the treating of choice as an uncaused cause, a place where explanation stops."
+          "x": "Skinner's behaviorism is the strongest opposition the exercise wing faces, and its target is narrow. It leaves the existence of persons alone and goes after the treatment of choice as an uncaused cause, a place where explanation stops."
         },
         {
           "t": "q",
