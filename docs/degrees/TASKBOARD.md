@@ -2632,3 +2632,10 @@ blocked), academy-legacy-access (all 9 degree pages, all 54 modules, both widths
 the same head: PD-M3-03 single 13:22-18:27 window; PD-M3-07 absent from m3; PRAG-M3-03 =
 Lecture II B1+B2 (952+264 words); PRAG-M3-04 = Lecture VI B3 (157 words); m8 PD-M1-07
 single capstone-return entry. Battery now fully current: audit 0, rendered pass 0, QA 4/4.
+### 2026-10-26 12:24Z — worker-pplx-1026q (deg-integrate): final live-site spot check — all end-state corrections confirmed on Pages
+
+Cache-busted live fetch of app.js: mod-pd-8 carries exactly one PD-M1-07 (role
+capstone-return); PRAG-M3-03 = Lecture II B1+B2 (1,216 words); PRAG-M3-04 = Lecture VI B3
+(157 words); PD-M3-03 carries only 13:22-18:27. Structure: 16 degrees, 81 modules, 445
+sources; the four degrees at status complete with module counts 8/5/9/5. Lane items
+exhausted; batons (deg-integrate, deg-gate) to be released at T+58 per the run protocol.
