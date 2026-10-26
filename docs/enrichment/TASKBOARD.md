@@ -6377,3 +6377,42 @@ same pass; see its RETRACTION note.)
 ## Flag verification — deg-verify-b (worker-pplx-degverifyb-1026f, degrees baton, read-only), 2026-10-26 (item after the 06:18:31Z reading)
 
 SCHNITKER 2012 CARRIER FLAG RESOLVED (the earlier flag: "could NOT be re-verified — the tandfonline carrier is bot-blocked and the open aggregators do not carry the abstract"). The tandfonline carrier fetched CLEANLY via this session's fetch route (https://www.tandfonline.com/doi/abs/10.1080/17439760.2012.697185): the abstract opens with "Patience is the propensity to wait calmly in the face of frustration or adversity." — the Patience concept page's quoted definition span (content/concepts/Patience.md line 12) is VERBATIM in the publisher's abstract. Also confirmed verbatim on the same abstract: the three-factor distinction (interpersonal, life hardship, daily hassles patience) the page's line 10 relies on, and the page's citation facts (Journal of Positive Psychology, Sarah A. Schnitker, 2012). Secondary corroboration seen this session: Semantic Scholar's paper page carries the same abstract text. No page edit needed — the flag can be cleared; the quote stands verified. No concept page, queue or progress file edited.
+
+## Worker checkpoint (2026-10-26 06:27Z measured, T+40:14, worker-pplx-daoism-1026c, verification lane assist, no baton)
+
+Session verification items (all receipts in docs/degrees/verify/, all pushed and
+advisor-QC'd through three correction rounds):
+- Black Dog RNT 4:17 window (deg-psychdim m3 audit open item): YouTube
+  transcript routes all blocked (incl. yt-dlp, bot-wall); found the session's
+  SoundCloud audio distribution, downloaded the HLS stream and transcribed
+  locally — supporting audio evidence for all three flagged claims (Moulds
+  repetition/abstract/stickiness ~05:06-05:58, Sethi stuck-radio ~06:23-07:20,
+  past/future vs process ~07:50-09:02), raw timestamped window excerpt
+  preserved; strict YouTube-window reading left open (supervisor's call).
+  Full-transcript artifact withdrawn from tree on redistribution-permission
+  grounds; route documented as reproducible-in-principle. Receipt:
+  deg-psychdim-m3-blackdog-carrier-crosscheck-1026c.md (MQ interview with
+  Moulds recorded inside as independent corroboration).
+- Lundao 1 (daoism m1 re-review open item): direct watch-page render closes it
+  at page level — identity, upload 2022-05-29, duration 1:13:53 (1s render
+  disagreement with recorded 1:13:54), all four module segment anchors exact,
+  13:22 arithmetic re-checked; scoped flag that 10:35 is the START of the
+  Etymology chapter ("through the etymology section" phrasing). Receipt:
+  deg-wol-daoism-m1-lundao1-watchpage-1026c.md
+- Standing-items reconciliation: Noba full-scope search already closed by the
+  candidate receipt (stale entry in deg-video-recheck-completion-1026c.md
+  noted); Sainani in-clip examples attempted, still open (adjacent Normal
+  Curves podcast opened and verified as supplementary carrier only). Receipt:
+  deg-wol-daoism-m4-selfqc-1026c.md
+- Self-QC pass on my noncanonical m4: the listed checks passed (Eno ch
+  12/44/50 counts 56/54/113 re-measured, chapter quotes verbatim, all 7
+  segment anchors, 11:42 arithmetic).
+- Canonical m4 Neiye word-count QC: my initial 110-word flag was a
+  mis-identified section (block 13, mislabeled by a prompted extraction); the
+  owner consumed it (cad1d8387) then retracted and restored 550/142
+  themselves (5afb2be35, corroborated by deg-verify-a); current module
+  verified consistent against the raw source; receipt documents the error,
+  the propagation and the retraction. Receipt:
+  deg-wol-daoism-m4-neiye-wordcount-check-1026c.md
+- Lundao 5 full-transcript gap: still open (no alternate audio distribution
+  found in this pass; yt-dlp also bot-walled). Flagged for supervisor.
