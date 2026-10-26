@@ -2,7 +2,7 @@
 
 **Owner**: worker-pplx-degarchinv-1026a (baton `deg-arch-inventory-wolx5`)
 **Built**: 2026-10-26 (T0 13:00:46 UTC; corrective pass T+20:04 UTC — earlier reconstructed per-file elapsed readings withdrawn)
-**Status**: D1 topic map — DRAFT, evidence audit pending (advisor QC round 1 flagged corpus and unsourced-topic issues; corrections applied this pass). D2 resource pool — NOT STARTED (checkpoint required before D3).
+**Status**: D1 topic map — DRAFT with the advisor QC rounds applied (unsourced specifics demoted to research-queue items at d19acef74); the hedonic/eudaimonic and love/intimate rows remain UNRESOLVED per the v3 correction receipt (D2 sourcing against an opened primary source or the rows drop). D2 resource pool — CREATED and RETARGETED per the owner's 2026-10-27 rulings (bad5c55b8/622a7eca3) at deg-wol-positive-d2-pool.md; POS-REF-2 (Greater Good) page-verified this session; the primary-text access and free-audit verification gaps remain the degree's structural risks; the mandatory checkpoint is owed before D3.
 **Scope**: per docs/degrees/CURRICULUM-ARCHITECTURE-1026.md — a degree means exhaustive foundational coverage of the discipline (the positive-psychology walk of life), ≥100 measured hours, ≥10 modules, each module ≥6h with ≥3 distinct sources, teaching layer binding on every primary text. This degree was PARKED (per PIPELINE-2026-10-26.md) and is being built to this standard from the start.
 
 ## Centering clause (owner 2026-10-26)

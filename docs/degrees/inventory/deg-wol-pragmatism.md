@@ -2,7 +2,7 @@
 
 **Owner**: worker-pplx-degarchinv-1026a (baton `deg-arch-inventory-wolx5`)
 **Built**: 2026-10-26 (T0 13:00:46 UTC; corrective pass T+20:04 UTC — earlier reconstructed per-file elapsed readings withdrawn)
-**Status**: D1 topic map — DRAFT, evidence audit pending (advisor QC round 1 flagged instructor-metadata and status issues; corrections applied this pass). D2 resource pool — NOT STARTED (checkpoint required before D3).
+**Status**: D1 topic map — DRAFT with the advisor QC rounds applied (instructor metadata removed, evidence tiers added); the gate-1026s D2 checkpoint verdict (1a781d335) is the authoritative record — PASS CONDITIONALLY with the contemporary-pragmatism row excluded on finite scope and the hours floor re-measured at ~104h. D2 resource pool — CREATED and RETARGETED per the owner's 2026-10-27 rulings (bad5c55b8/622a7eca3) at deg-wol-pragmatism-d2-pool.md; the mandatory checkpoint is owed before D3.
 **Scope**: per docs/degrees/CURRICULUM-ARCHITECTURE-1026.md — a degree means exhaustive foundational coverage of the discipline (the pragmatist walk of life), ≥100 measured hours, ≥10 modules, each module ≥6h with ≥3 distinct sources, teaching layer binding on every primary text.
 
 ## Centering clause (owner 2026-10-26)
