@@ -1,15 +1,106 @@
 {
- "batch": "dosr6",
- "done": [
-  "2026-10-26 00:25Z STEP 0 scope check (sup-1026b-worker): all four assigned dossiers are ALREADY AT the 3-5 bar (3-4 substantiated questions each; the-self carries 4) — QC-7 list stale for this band; no disagreement repairs; band closed. dossier_check exit 0 all four."
- ],
- "detail": {
-  "right-action": "3 questions (taking life; knowledge without action; character robustness) — published.",
-  "sadness-and-grief": "3 questions (mourning as detachment or continuing bonds; confrontation vs avoidance; grief as judgment) — published.",
-  "the-self": "4 questions (permanent self; introspection; cogito; separate vs relational) — published.",
-  "uncertainty": "3 questions (dwelling in not-knowing; response to the unknowable; one-off unknowns and number) — published."
+ "band": "dosr6",
+ "agent": "worker-pplx-dosr6-1026b",
+ "model": "full-read verification close per the dosr2 model, with advisor QC rounds 1-2 applied (2026-10-26): a question counts only if the opened passages give incompatible answers to the SAME question in the same setting; the dossier's own limits notes are decisive; a shared question heading cannot turn compatible claims into opposing answers",
+ "verdicts": {
+  "right-action": {
+   "n_questions": 3,
+   "certified": 3,
+   "status": "AT BAR",
+   "questions": [
+    {
+     "q": "May taking life ever be right action?",
+     "v": "PASS \u2014 SN 45.8 abstention floor vs Aquinas just-war conditions: incompatible answers to the same question; dossier holds both without reconciling, honestly.",
+     "mark": null
+    },
+    {
+     "q": "Can knowledge coexist with failure to act?",
+     "v": "PASS, narrowed per advisor ruling to the Aristotle-Socrates exchange: Socrates (as Aristotle reports) denies the state of imperfect self-control exists; Aristotle explicitly calls the account 'at variance with plain facts'. One side rejects what the other affirms about the same state, in the same text. The Wang Yangming material is corroborating, not an independently certified contradiction; the dossier's convergence note over 'Knowledge proper' is preserved.",
+     "mark": null
+    },
+    {
+     "q": "How robust is moral character across situations?",
+     "v": "PASS \u2014 Hursthouse/Pettigrove virtue as well-entrenched disposition vs Doris situationism: direct dispute about what the studies show; the open question (weight of character vs room) is honestly stated.",
+     "mark": null
+    }
+   ],
+   "notes": "Automated quote verification clean on this file (dossier_quote_verify.py, band quote map 2026-10-26)."
+  },
+  "sadness-and-grief": {
+   "n_questions": 3,
+   "certified": 3,
+   "status": "AT BAR",
+   "questions": [
+    {
+     "q": "Is successful mourning detachment or continued relationship?",
+     "v": "PASS \u2014 Freud/Stroebe detachment vs Klass et al. continuing bonds; live dispute, complications recorded in the same paper (Field et al. 2003; the unexpected-bereavement moderator); the dossier's interpretive boundary is honestly marked as interpretation, not measurement.",
+     "mark": null
+    },
+    {
+     "q": "Must grief be confronted, or is avoidance part of the work?",
+     "v": "PASS \u2014 grief-work hypothesis vs dual-process model: the model was built against the hypothesis, with stated grounds; both sides' own words quoted from the opened papers.",
+     "mark": null
+    },
+    {
+     "q": "Is grief a judgment that can change, or a force that presses on us?",
+     "v": "PASS with qualification \u2014 Cicero's 'grief is owing more to opinion than nature' vs the objectors' 'pain proceeds from nature... cannot possibly be resisted'; opposite answers to the same question. Qualifications preserved: the opposing position is known only through Cicero's report (not independently through Crantor), and the dossier separates first pang from added grief and leans only on the added part.",
+     "mark": null
+    }
+   ],
+   "notes": "Automated quote verification: 1 non-match (Seneca Letter 63) already adjudicated verbatim in the band quote map (2026-10-26, worker-pplx-dosr6-1026a eye-check)."
+  },
+  "the-self": {
+   "n_questions": 4,
+   "certified": 2,
+   "status": "BELOW BAR PENDING PRIMARY VERIFICATION (2 of minimum 3)",
+   "questions": [
+    {
+     "q": "Is there a permanent self?",
+     "v": "NOT CERTIFIED THIS PASS \u2014 advisor ruling applied: SN 22.59 tests the five aggregates (including the consciousness aggregate) and grants none owner status, but Advaita's consciousness is posited as a NON-OBJECT field, not an aggregate; the quoted passages do not establish that the sutta excludes what Advaita asserts. The dossier's own unresolved note ('whether the observing position... is a final referent or one more event') permits the compatible reading. Certification needs a primary passage that excludes the enduring witnessing self (or a repair).",
+     "mark": "flagged"
+    },
+    {
+     "q": "Does introspection find a self?",
+     "v": "PASS \u2014 Descartes ('I am, I exist... only a thinking thing') vs Hume ('I never can catch myself at any time without a perception'): opposite findings from the same search; each side's consequence stated in its own words.",
+     "mark": null
+    },
+    {
+     "q": "Does the cogito establish knowledge of a thinking substance?",
+     "v": "PASS \u2014 Descartes (essence = thinking substance, known with certitude) vs Kant (the 'I think' delivers only a formal unity of consciousness; mistaking it for substance-cognition is the dialectical illusion): one side claims the knowledge the other denies is possible.",
+     "mark": null
+    },
+    {
+     "q": "Is the self separate or relational?",
+     "v": "DOWNGRADED per advisor ruling \u2014 the Markus-Kitayama 1991 passage is a descriptive taxonomy of two cultural construals in one paper, not rival truth claims between sides; the dossier's own unresolved note (whether the construals describe selves or situations) is preserved as an open question, not a certified disagreement.",
+     "mark": "flagged"
+    }
+   ],
+   "notes": "Automated quote verification: 1 non-match (Milindapanha chariot passage, suttacentral blocked carrier) adjudicated VERBATIM this session by this worker on an alternate opened carrier (Sacred Texts SBE35 Book II ch. 1, Rhys Davids)."
+  },
+  "uncertainty": {
+   "n_questions": 3,
+   "certified": 0,
+   "status": "BELOW BAR (0 of minimum 3)",
+   "questions": [
+    {
+     "q": "Is not knowing something to dwell in, or a weakness to treat?",
+     "v": "NOT CERTIFIED \u2014 complementary pairing; the dossier's own note: 'The two do not contradict each other as much as they look... Both treat the capacity as the thing at stake.' Keats values the tolerance the clinical model finds missing; no incompatibility.",
+     "mark": "flagged"
+    },
+    {
+     "q": "What is the right response to what cannot be foreseen?",
+     "v": "NOT CERTIFIED \u2014 the dossier's own note: 'A reader can take them as answering different questions... and I keep both.' Effort allocation and holding-of-the-unsettled coexist.",
+     "mark": "flagged"
+    },
+    {
+     "q": "Can a one-off unknown be given a number?",
+     "v": "NOT CERTIFIED THIS PASS \u2014 advisor ruling applied: Knight's 'no known distribution for unique cases' does not by itself deny Ramsey's measurable subjective degree of belief; the unsupported step is moving from the former to 'no number can be assigned'. The dossier's own lean treats them as complementary tools and its limits note says the pairing is the dossier's framing. Kept as a qualified comparison.",
+     "mark": "flagged"
+    }
+   ],
+   "notes": "BELOW BAR. Repair route per advisor: bounded repair attempt, not an exception request \u2014 investigate the Gigerenzer vs Kahneman/Tversky primary exchange for a genuinely head-on disagreement (one side must reject what the other affirms about the same judgment task and normative criterion); never manufacture. Search record to be appended."
+  }
  },
- "note": "STEP 0 rule applied per PIPELINE Lane 2; same stale-list finding as dosr1/dosr3/dosr4/dosr5.",
- "in_progress": "none — band complete",
- "flagged": {}
+ "advisor_qc": "Two advisor rounds (2026-10-26): round 1 flagged the complementary-pairing risk and the blocking checks; round 2 issued row rulings (right-action Q2 certified narrowed; sadness-and-grief Q3 certified with qualification; the-self Q1 not certified pending primary exclusion evidence; the-self Q4 downgraded as taxonomy; uncertainty Q1-Q3 not certified) and ordered the dosr4 corrective note and a bounded repair attempt for uncertainty.",
+ "outcome": "PROVISIONAL \u2014 right-action and sadness-and-grief AT BAR (3 certified each); the-self BELOW BAR PENDING PRIMARY VERIFICATION (2 certified; Q1 and Q4 flagged); uncertainty BELOW BAR (0 certified; all three flagged). Both below-bar dossiers routed for repair; no dossier text edited this pass; no publish actions (all four already published)."
 }
