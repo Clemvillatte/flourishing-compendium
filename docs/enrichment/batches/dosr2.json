@@ -5,30 +5,100 @@
  ],
  "per_dossier": {
   "right-mindfulness": [
-   {"q": "Is mindfulness bare, non-conceptual awareness?", "affirm": "Gunaratana (Mindfulness in Plain English, via Bodhi's paper)", "deny": "Bodhi (What Does Mindfulness Really Mean?)", "verdict": "PASS — direct affirm/deny on whether sati is by nature non-conceptual; Bodhi explicitly denies the claim Gunaratana affirms."},
-   {"q": "Is sati awareness of the present moment, or remembering?", "affirm_present": "Kabat-Zinn 2003 operational definition", "affirm_remembering": "Thanissaro (SN 48.10); Bodhi between", "verdict": "PASS with qualification — opposite verdicts on sati's core (present-moment attending vs retention); dossier honestly notes Kabat-Zinn's 2011 reply that his was an operational definition and the sources leave open whether one capacity or two."},
-   {"q": "Is mindfulness a nonjudgmental awareness?", "affirm": "clinical definition (nonjudgmentally)", "deny": "Bodhi (MN 117 argument) and Thanissaro", "verdict": "PASS — Bodhi calls the intrinsic-nonjudgmental reading 'problematic'; Thanissaro says judgment is trained, not abandoned. The dossier's 'both sides right about their own settings' is an editorial lean, not a dissolution; the propositions conflict about what mindfulness intrinsically includes."}
+   {
+    "q": "Is mindfulness bare, non-conceptual awareness?",
+    "affirm": "Gunaratana (Mindfulness in Plain English, via Bodhi's paper)",
+    "deny": "Bodhi (What Does Mindfulness Really Mean?)",
+    "verdict": "PASS \u2014 direct affirm/deny on whether sati is by nature non-conceptual; Bodhi explicitly denies the claim Gunaratana affirms."
+   },
+   {
+    "q": "Is sati awareness of the present moment, or remembering?",
+    "affirm_present": "Kabat-Zinn 2003 operational definition",
+    "affirm_remembering": "Thanissaro (SN 48.10); Bodhi between",
+    "verdict": "UNRESOLVED on the strict same-conditions test \u2014 the two definitions give opposite answers on sati's core (present-moment attending vs retention), but the dossier itself notes Kabat-Zinn's 2011 reply that his was an operational definition for a clinical setting and that whether one capacity or two is left open by the sources; whether the authors exclude each other's account WITHIN THE SAME SETTING is not established by the opened passages. Recorded as a live definitional dispute, not a certified head-on denial."
+   },
+   {
+    "q": "Is mindfulness a nonjudgmental awareness?",
+    "affirm": "clinical definition (nonjudgmentally)",
+    "deny": "Bodhi (MN 117 argument) and Thanissaro",
+    "verdict": "UNRESOLVED on the strict test \u2014 Bodhi calls the intrinsic-nonjudgmental reading problematic and Thanissaro says judgment is trained, but the dossier itself allows that both sides may be right about their own settings (clinical stance vs path evaluation); the opened passages do not establish that either side denies the other's claim under the same conditions. Recorded as a live dispute with the qualification preserved."
+   }
   ],
   "right-view": [
-   {"q": "Is there a next world?", "affirm": "MN 60 (Thanissaro trans.)", "deny": "Ajita Kesakambali in DN 2", "verdict": "PASS — no middle ground; MN 60's safe-bet wager noted as practical argument, not verification."},
-   {"q": "Is the person known as a real and ultimate fact?", "affirm": "Puggalavadin (Kathavatthu I.1)", "deny": "Theravadin (Kathavatthu I.1)", "verdict": "PASS — recorded debate with both sides in the same text; dossier honestly notes the Puggalavadin side comes through a Theravadin debate text."},
-   {"q": "Can a causally produced thing have an intrinsic nature?", "affirm": "Abhidharmikas (Vasubandhu AKB 1.2/1.4 via GRETIL + SEP Abhidharma)", "deny": "Nagarjuna (MMK 15.1-2, Kalupahana trans.)", "verdict": "PASS — opposite verdicts; dossier notes the sutta's own test does not settle which side."}
+   {
+    "q": "Is there a next world?",
+    "affirm": "MN 60 (Thanissaro trans.)",
+    "deny": "Ajita Kesakambali in DN 2",
+    "verdict": "PASS \u2014 no middle ground; MN 60's safe-bet wager noted as practical argument, not verification."
+   },
+   {
+    "q": "Is the person known as a real and ultimate fact?",
+    "affirm": "Puggalavadin (Kathavatthu I.1)",
+    "deny": "Theravadin (Kathavatthu I.1)",
+    "verdict": "PASS \u2014 recorded debate with both sides in the same text; dossier honestly notes the Puggalavadin side comes through a Theravadin debate text."
+   },
+   {
+    "q": "Can a causally produced thing have an intrinsic nature?",
+    "affirm": "Abhidharmikas (Vasubandhu AKB 1.2/1.4 via GRETIL + SEP Abhidharma)",
+    "deny": "Nagarjuna (MMK 15.1-2, Kalupahana trans.)",
+    "verdict": "PASS \u2014 opposite verdicts; dossier notes the sutta's own test does not settle which side."
+   }
   ],
   "freedom": [
-   {"q": "Is the liberty that binds still liberty?", "affirm": "Rousseau (Social Contract I.7)", "deny": "Constant (Liberty of Ancients/Moderns, 1819)", "verdict": "PASS — Constant explicitly reads Rousseau's transposition as furnishing 'deadly pretexts for more than one kind of tyranny'."},
-   {"q": "Is choice an explanatory starting point?", "affirm": "Sartre (via SEP) and Frankl (via Wikipedia)", "deny": "Skinner (Beyond Freedom and Dignity, CUP excerpt)", "verdict": "PASS — Skinner rejects the autonomous chooser as explanatory; dossier notes the causal question stays open (not a dissolution of the propositions)."},
-   {"q": "Is the other's freedom a threat or the medium of mine?", "affirm_threat": "Sartre (BN p.429 via SEP)", "affirm_medium": "Beauvoir (Ethics of Ambiguity II.1)", "verdict": "PASS with qualification — dossier itself cites Kirkpatrick's caution that reading Beauvoir vs Sartre as disagreeing remains disputable; recorded as a live interpretive dispute, not a settled head-on denial."},
-   {"q": "Does a free act have to escape the causal chain?", "affirm_escape": "Kant (CPrR, Abbott trans.)", "deny": "Hume (EHU 'Of Liberty and Necessity')", "verdict": "PASS — Kant calls the comparative notion 'a wretched subterfuge'; the pairing is the dossier's own (Kant does not name Hume), honestly flagged."}
+   {
+    "q": "Is the liberty that binds still liberty?",
+    "affirm": "Rousseau (Social Contract I.7)",
+    "deny": "Constant (Liberty of Ancients/Moderns, 1819)",
+    "verdict": "PASS \u2014 Constant explicitly reads Rousseau's transposition as furnishing 'deadly pretexts for more than one kind of tyranny'."
+   },
+   {
+    "q": "Is choice an explanatory starting point?",
+    "affirm": "Sartre (via SEP) and Frankl (via Wikipedia)",
+    "deny": "Skinner (Beyond Freedom and Dignity, CUP excerpt)",
+    "verdict": "PASS \u2014 Skinner rejects the autonomous chooser as explanatory; dossier notes the causal question stays open (not a dissolution of the propositions)."
+   },
+   {
+    "q": "Is the other's freedom a threat or the medium of mine?",
+    "affirm_threat": "Sartre (BN p.429 via SEP)",
+    "affirm_medium": "Beauvoir (Ethics of Ambiguity II.1)",
+    "verdict": "PASS with qualification \u2014 dossier itself cites Kirkpatrick's caution that reading Beauvoir vs Sartre as disagreeing remains disputable; recorded as a live interpretive dispute, not a settled head-on denial."
+   },
+   {
+    "q": "Does a free act have to escape the causal chain?",
+    "affirm_escape": "Kant (CPrR, Abbott trans.)",
+    "deny": "Hume (EHU 'Of Liberty and Necessity')",
+    "verdict": "PASS \u2014 Kant calls the comparative notion 'a wretched subterfuge'; the pairing is the dossier's own (Kant does not name Hume), honestly flagged."
+   }
   ],
   "right-concentration": [
-   {"q": "Is the collected mind fixed on one point or gathered into a whole field?", "affirm": "Buddhaghosa one-pointedness (Visuddhimagga, via Wikipedia Samadhi, checked against raw HTML)", "deny": "Shankman wide-field reading (same carrier)", "verdict": "PASS — the dossier notes the article's Criticism section reports the one-pointed interpretation 'has become a matter of debate'; live dispute."},
-   {"q": "Does the mind fade with use, or drift from boredom?", "affirm_depletion": "resource-depletion account (as reported in Langner & Eickhoff 2013)", "affirm_boredom": "boredom/absentmindedness account (same review)", "verdict": "PASS with qualification — a genuine live empirical dispute between two accounts, but the review itself takes no side (neither account consistent with all data); recorded as unresolved-in-the-sources rather than a head-on affirm/deny between two named authors."},
-   {"q": "Is concentration for stilling the mind or for seeing what it does?", "affirm_stilling": "Patanjali (Yoga Sutras I.2-3, Sacred Texts)", "deny": "SN 22.5 (Sujato trans.) — immersion for knowing arising and ending", "verdict": "PASS — opposite endpoints (seer abiding in own nature vs knowledge of arising/ending); dossier honestly notes the contrast may be sharper than the full Yoga text supports."},
-   {"q": "Can liberation come without jhana?", "affirm": "Gunaratana (The Jhanas in Theravada Buddhist Meditation; Visuddhimagga dry-insight admission)", "deny": "Thanissaro (SN 12.70 note; Wings to Awakening part 3)", "verdict": "PASS — opposite answers on whether awakening requires the absorptions; dossier notes part of the gap is term scope (mundane vs supramundane jhana)."}
+   {
+    "q": "Is the collected mind fixed on one point or gathered into a whole field?",
+    "affirm": "Buddhaghosa one-pointedness (Visuddhimagga, via Wikipedia Samadhi, checked against raw HTML)",
+    "deny": "Shankman wide-field reading (same carrier)",
+    "verdict": "PASS \u2014 the dossier notes the article's Criticism section reports the one-pointed interpretation 'has become a matter of debate'; live dispute."
+   },
+   {
+    "q": "Does the mind fade with use, or drift from boredom?",
+    "affirm_depletion": "resource-depletion account (as reported in Langner & Eickhoff 2013)",
+    "affirm_boredom": "boredom/absentmindedness account (same review)",
+    "verdict": "PASS with qualification \u2014 a genuine live empirical dispute between two accounts, but the review itself takes no side (neither account consistent with all data); recorded as unresolved-in-the-sources rather than a head-on affirm/deny between two named authors."
+   },
+   {
+    "q": "Is concentration for stilling the mind or for seeing what it does?",
+    "affirm_stilling": "Patanjali (Yoga Sutras I.2-3, Sacred Texts)",
+    "deny": "SN 22.5 (Sujato trans.) \u2014 immersion for knowing arising and ending",
+    "verdict": "UNRESOLVED on the strict test \u2014 Patanjali's endpoint (the seer abiding in his own nature) and SN 22.5's endpoint (knowledge of arising and ending) are different aims, but the dossier itself warns the contrast may be sharper than the full Yoga text supports (discernment appears as a stage in I.17) and neither quoted passage establishes that the two endpoints cannot coexist in one practitioner. Recorded as an open comparison, not a certified head-on denial."
+   },
+   {
+    "q": "Can liberation come without jhana?",
+    "affirm": "Gunaratana (The Jhanas in Theravada Buddhist Meditation; Visuddhimagga dry-insight admission)",
+    "deny": "Thanissaro (SN 12.70 note; Wings to Awakening part 3)",
+    "verdict": "PASS \u2014 opposite answers on whether awakening requires the absorptions; dossier notes part of the gap is term scope (mundane vs supramundane jhana)."
+   }
   ]
  },
- "count_note": "right-concentration has FOUR questions, not three as an earlier draft of this file said; freedom has FOUR (the count-based survey also said 4). The survey script's counts happened to match; the earlier error was mine in drafting the detail text from filtered extracts.",
- "in_progress": "none — band complete",
+ "count_note": "right-concentration has FOUR questions, not three as an earlier draft of this file said; freedom has FOUR (the count-based survey also said 4). The survey script's counts happened to match; the earlier error was mine in drafting the detail text from filtered extracts. Advisor-QC revision 2026-10-26: right-mindfulness Q2/Q3 and right-concentration Q3 downgraded to UNRESOLVED under the same-proposition/same-conditions test; dosr2 therefore certifies 3 substantiated for right-view and freedom, 1 substantiated + 2 unresolved for right-mindfulness, 3 substantiated + 1 unresolved for right-concentration. On the strict test right-mindfulness sits below the 3-5 bar (1 accepted) and right-concentration at 3 accepted. ROUTED to the supervisor: right-mindfulness needs either a future pass finding genuine head-on disputes or an owner ruling that the qualified disputes count. Quote-fidelity sampling does not establish same-conditions incompatibility; several quotes are accessed via Wikipedia/SEP summaries rather than primary texts.",
+ "in_progress": "none \u2014 band complete",
  "flagged": {},
- "notes": "Advisor QC corrections applied: full unfiltered section reads; per-question verdicts with the same-proposition test; qualifications preserved rather than counted away. Two of the four dossiers additionally had independent raw-carrier quote re-verification this session (TASKBOARD checkpoints). No dossier text edited — the pages already carry these qualifications in their own limits notes."
+ "notes": "Advisor QC corrections applied: full unfiltered section reads; per-question verdicts with the same-proposition test; qualifications preserved rather than counted away. Two of the four dossiers additionally had independent raw-carrier quote re-verification this session (TASKBOARD checkpoints). No dossier text edited \u2014 the pages already carry these qualifications in their own limits notes."
 }
