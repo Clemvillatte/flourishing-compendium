@@ -289,3 +289,54 @@ proposal" removed; "levers you can locate" and "value proposition"
 replaced with plain phrasings), and the yangsheng entry no longer
 carries an unverified introduction claim (the term is now introduced
 by name only, with its verified source assigned in module 4, not here).
+
+## m1 advisor QC round 3 repairs (2026-10-26, worker-pplx-degdaosim-1026a)
+
+Round 3 returned four targeted repairs. All four applied and pushed
+this pass:
+
+1. Chapter-76 rubric criterion 2 repaired: the unstated assumption
+   that chapter 76 assumes the reader's trouble is stiffness was
+   removed; the strong example now frames the limitation as a
+   limitation of the proposed application ("does not establish that
+   yielding is the appropriate response in my situation; I would have
+   to explain why flexibility, rather than firmness, fits this
+   case"), not as a claim about the chapter's intended reader.
+2. Yangsheng sourced-teaching gap closed: the actual Komjathy
+   definition was opened this pass in the Lundao 5 transcript (URL
+   below) and quoted with attribution and locator into Step 2; the
+   "introduced by name only" disclaimer was removed. The full lecture
+   remains assigned in module 4, not here.
+3. Transcript verification made inspectable: the three transcript
+   URLs used for the coverage verification are recorded in the
+   sources-opened table below with passage locators. The transcripts
+   are the actual spoken text of the recordings as served by the
+   third-party transcript service the prior verifiers used; they are
+   auto-generated and contain transcription errors (noted below),
+   and the module does not quote from them except for the yangsheng
+   definition, which is quoted with its locator.
+4. The two long recordings are now segmented: both the Komjathy talk
+   and the Van Norden documentary are assigned with two viewing
+   stops matched to the talk's and the documentary's own topic
+   transitions (identified from the transcripts) and a recall pause
+   between them (Retrieval pauses A and B, new this pass). The
+   Step 1 promise to restate the indigenous/global-reception
+   distinction is now kept by Retrieval pause A.
+
+### Sources opened this pass (round 3, 2026-10-26)
+
+| URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
+| https://youtubetotranscript.com/transcript?v=WDwPln1CczI&current_language_code=en | 2026-10-26, between the 05:03Z clock reading and this save push | worker-pplx-degdaosim-1026a | Komjathy Lundao 5 Daoist Yangsheng actual transcript; Komjathy defines yangsheng as "the traditional Chinese and Daoist name for health and longevity techniques", qualifies it as "more complicated", "a fuller sense of what we do to nourish life, to tend to our foundational vitality and our core aliveness", and "caring for or tending to life"; the definition is quoted into Step 2 of m1 with this locator |
+| https://youtubetotranscript.com/transcript?v=_12aeIvlHhM&current_language_code=en | 2026-10-26, between the 05:03Z clock reading and this save push (re-opened for structure) | worker-pplx-degdaosim-1026a | Komjathy Lundao 1 actual transcript; the talk's topic transitions identified for the two viewing stops (opening and framing through the tradition's origins, then the remainder through identity, practice models and the closing); the indigenous/global distinction confirmed in the talk's framing language |
+| https://youtubetotranscript.com/transcript?v=lvglQJDrgJI&current_language_code=en | 2026-10-26, between the 05:03Z clock reading and this save push (re-opened for structure) | worker-pplx-degdaosim-1026a | Van Norden Wisdom of China Laozi documentary actual transcript; the documentary's topic transitions identified for the two viewing stops (opening through Laozi as a legendary figure, the Daodejing's textual history and the earliest meaning of dao, then the remainder through Daoist ideas, wu wei and the closing) |
+
+Note on the transcripts: the third-party service serves auto-generated
+transcripts with transcription errors (for example "Laza" for Laozi
+and "dallas" for Daoist in the served text); the module does not rely
+on the transcripts for exact wording except where a quotation is
+explicitly attributed to the transcript with its locator, and the
+wording of the yangsheng definition quoted in m1 Step 2 was checked
+against the served transcript text as quoted above. The primary-text
+quotations in the module (Daodejing chapters 8 and the Butterfly
+Dream) come from the downloaded Eno PDFs, not from the transcripts.

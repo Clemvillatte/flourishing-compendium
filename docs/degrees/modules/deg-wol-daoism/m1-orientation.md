@@ -59,12 +59,17 @@ the tradition rather than about scholarship about the tradition.
 
 1. [Lundao 1: The Daoist Tradition 道 統](https://www.youtube.com/watch?v=_12aeIvlHhM),
    by Louis Komjathy (1:13:54; Daoist Foundation channel; captions
-   available on the watch page). Watch the whole talk once. As you
-   watch, mark the passages where Komjathy distinguishes Daoism as an
-   indigenous Chinese tradition from its later global receptions; you
-   will restate that distinction from memory in the retrieval
-   activity. Do not worry yet about every name or date; the talk is for
-   orientation, and the degree's later modules take up the details.
+   available on the watch page). The talk is not segmented on the watch
+   page, so this module assigns two viewing stops with a recall pause
+   between them, matched to the talk's own topic transitions as
+   confirmed in its transcript: watch from the start through Komjathy's
+   framing of Daoism as an indigenous Chinese and now global
+   tradition and his account of the tradition's origins (the talk's
+   early sections on the tradition's religious character, its
+   historical periods, and its core terms dao jia and dao jiao),
+   then pause and do Retrieval pause A below before watching the
+   remainder. Do not worry yet about every name or date; the talk is
+   for orientation, and the degree's later modules take up the details.
 
 The talk introduces Daoism as an indigenous and global tradition.
 Komjathy is a scholar-practitioner: he studies the tradition
@@ -73,6 +78,14 @@ Huashan lineage of Quanzhen Daoism. That doubleness, study and
 practice held together, is worth noticing as you watch; it is the
 posture this whole walk asks of you too, reading with your life
 attached rather than only your mind.
+
+Retrieval pause A (after the first viewing stop, before watching the
+remainder): from memory, write two or three sentences restating the
+distinction Komjathy draws between the source tradition (Chinese
+Taoism, an indigenous Chinese religious tradition) and global
+Taoism, and one thing about that distinction you are not yet sure
+you understand. Keep what you write; it is practice and is not
+submitted.
 
 ### Step 2: the four working terms, taught (Outcome 2)
 
@@ -97,11 +110,15 @@ teaches it; the videos in Step 3 take each one up in full.
   It does not mean doing nothing; it means acting without the forcing
   that defeats the action.
 - **Yangsheng** (nourishing life). The term names the Daoist body of
-  practice concerned with caring for life, health and longevity; it is
-  the tradition's own name for the arts of living this degree teaches
-  in module 4. The term is introduced here by name only; its verified
-  teaching source, Komjathy's Lundao 5 lecture on Daoist yangsheng,
-  is assigned in module 4, not here.
+  practice concerned with caring for life. Komjathy defines the term
+  in his lecture on Daoist yangsheng as "the traditional Chinese and
+  Daoist name for health and longevity techniques", and immediately
+  qualifies it as "more complicated" than techniques alone: "it's a
+  fuller sense of what we do to nourish life, to tend to our
+  foundational vitality and our core aliveness", and "caring for or
+  tending to life" ([Lundao 5, Komjathy](https://www.youtube.com/watch?v=WDwPln1CczI),
+  assigned in full in module 4; here the definition is used with
+  its locator, the full lecture is not assigned in this module).
 
 Each term gets one example from ordinary life, so you can see how the
 term works in practice. These examples are illustrations, not findings;
@@ -151,10 +168,17 @@ lecture (it gives you the concepts in their strongest form).
    a documentary hosted by Bryan Van Norden (0:50:09; Van Norden's
    own channel; produced by Homework Productions for China Central
    Television, with interviews including Michael Puett and Misha
-   Tadd). Watch the whole documentary once. As you watch, note the
-   questions the documentary raises about who Laozi was and how the
-   Daodejing came to exist; the next reading takes up those questions
-   more analytically.
+   Tadd; chapter timestamps from 0:00:00 to 0:46:28 printed in the
+   description). Watch the documentary in two assigned stops matched
+   to its own topic transitions as confirmed in its transcript: first
+   the sections from the opening through the discussion of Laozi as
+   a legendary figure, the Daodejing's textual history and the
+   earliest meaning of dao, then pause and do Retrieval pause B
+   below before watching the remainder through the sections on
+   Daoist ideas, wu wei and the documentary's closing. As you watch,
+   note the questions the documentary raises about who Laozi was
+   and how the Daodejing came to exist; the next reading takes up
+   those questions more analytically.
 3. [Why This Text Matters: Daodejing](https://www.youtube.com/watch?v=EJ1bB2w2gBk),
    by Brook Ziporyn (0:53:36 total; University of Chicago Divinity
    School channel; full chapter timestamps printed on the watch page).
@@ -170,6 +194,13 @@ lecture (it gives you the concepts in their strongest form).
      of the useless; How the unnamed sustains the named; Flowers and
      dirt).
    The remaining chapters are optional further viewing.
+
+Retrieval pause B (after the first documentary stop, before watching
+the remainder): from memory, write two or three sentences restating
+what the documentary says about whether Laozi existed and what the
+Daodejing is, and one thing the documentary raises that you would
+want to check before believing it. Keep what you write; it is
+practice and is not submitted.
 
 Ziporyn's lecture is the walk's most concentrated piece of teaching,
 and the segments above are the ones that carry the module's outcomes.
@@ -417,19 +448,21 @@ learner can self-check.
    things.
 2. The chapter-reading deliverable names a real move in a real
    assigned chapter, uses one image from the chapter, gives a
-   defensible interpretation, and names one limitation. Strong:
-   "Chapter 76 is built on a contrast between the pliant and the
-   hard: when born, people are pliant and weak; when they die they
-   are stiff and strong, and the chapter draws the conclusion that
-   the hard and strong are followers of death while the pliant and
-   weak are followers of life; read as a practice manual it asks me
-   to notice where I am being stiff in a situation that wants
-   suppleness; the limitation is that the chapter assumes my trouble
-   is stiffness, and it is silent about a reader whose trouble is
-   passivity." Rejection: "Chapter 76 is about being soft and soft
-   is good" (contrast named but no move, no interpretation, no
-   limitation), or a paragraph about Daoism in general that never
-   names a chapter or an image from one.
+   defensible interpretation, and names one limitation of the
+   proposed application. Strong: "Chapter 76 is built on a contrast
+   between the pliant and the hard: when born, people are pliant
+   and weak; when they die they are stiff and strong, and the
+   chapter draws the conclusion that the hard and strong are
+   followers of death while the pliant and weak are followers of
+   life; the proposed application is to notice where I am being
+   stiff in a situation that wants suppleness, and the limitation of
+   that application is that it does not establish that yielding is
+   the appropriate response in my situation; I would have to
+   explain why flexibility, rather than firmness, fits this case."
+   Rejection: "Chapter 76 is about being soft and soft is good"
+   (contrast named but no move, no interpretation, no limitation), or
+   a paragraph about Daoism in general that never names a chapter
+   or an image from one.
 3. The two-texts deliverable names both texts, locates one assigned
    passage in each, and says how each can inform a way of living.
    Strong: "The Daodejing, chapter 8, the water chapter: water
@@ -480,20 +513,21 @@ learner can self-check.
   attempts): at 180 words per minute (some new concepts) about 20
   minutes raw; with study overhead as a three-times multiplier,
   about 59 minutes (estimate, labelled).
-- Retrieval activities 1 and 2: about 20 minutes (estimate).
+- Retrieval activities and pauses 1, 2, A and B: about 25 minutes
+  (estimate; about 5 minutes each).
 - Graded deliverables including the self-assessment step that is
   part of each: about 60 minutes total (estimate, labelled per
   deliverable): four-terms deliverable about 15 minutes,
   chapter-reading deliverable about 20 minutes, two-texts
   deliverable about 10 minutes, scope statement about 15 minutes.
 
-Total: about 5 hours 5 minutes (about 303 minutes of labelled
+Total: about 5 hours 10 minutes (about 308 minutes of labelled
 components: 146 measured video, 18 estimated primary-text reading
 with the three-times study multiplier, 59 estimated module-prose
-reading with the three-times study multiplier, 20 retrieval, 60
-graded with per-deliverable allowances above). Optional further
-viewing (the remaining Ziporyn chapters, about 32 minutes) is not
-counted.
+reading with the three-times study multiplier, 25 retrieval and
+pauses, 60 graded with per-deliverable allowances above). Optional
+further viewing (the remaining Ziporyn chapters, about 32 minutes)
+is not counted.
 
 ## Verification status of attached sources
 
