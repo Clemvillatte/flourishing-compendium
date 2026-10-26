@@ -27,3 +27,29 @@ work, but each item blocks the gate named beside it.
    teaching available online. (Also: a legacy link in the footer keeps the
    present degrees reachable; the owner will decide their fate when the
    rework is done.)
+6. RESOLVED (owner, 2026-10-26): PHASE 0 PILOT STOP-GATE CLOSED. The
+   theory pilot (mod-phil-1) already passed the advisor's final review; the
+   practice-pilot requirement (mod-qg-3, Qi Gong Standing) is VOID under
+   decision 4 (practica untouched, no rework, no gates). No pilot, gate or
+   stop-gate condition blocks module production any further. The four
+   priority degrees (deg-psychdim, deg-wol-daoism, deg-wol-buddhism,
+   deg-wol-pragmatism) go into production NOW, one accountable owner per
+   degree, in parallel. Publication order when each completes:
+   psychdim, daoism, buddhism, pragmatism.
+7. RESOLVED (owner, 2026-10-26): SITE DISPLAY RULE — a new degree appears
+   in the Academy ONLY when complete (all modules written, verified,
+   independently reviewed and integrated). Unfinished degrees are never
+   present on the website. The legacy degrees keep the footer legacy
+   link (decision 2). The practica presentation order stands (decision 4:
+   practica first, then a divider, then the degrees). The Greek,
+   existentialism and positive degrees stay OFF the site until they are
+   finished in a later wave.
+8. RESOLVED (owner, 2026-10-26): VIDEO-FIRST SOURCE POLICY for all degree
+   modules — prefer a verified lecture video wherever one exists for the
+   content; readings and article excerpts are a FALLBACK only where no
+   verified video covers the material. The deg-psychdim owner must
+   re-check M1 (drafted with article-excerpt framework readings) and the
+   M2-M7 source plans against this policy and substitute verified lecture
+   videos where they exist, keeping short readings only where the needed
+   material has no verified video. The WoL degrees are already
+   lecture-video based.

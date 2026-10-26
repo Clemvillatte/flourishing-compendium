@@ -1,4 +1,32 @@
 
+## 2026-10-26 04:20Z — orchestrator ground prep (no baton held): OWNER RULINGS RECORDED, WAVE 2 (degrees) READY TO LAUNCH
+
+The owner settled the three routed decisions. All are recorded in the repo —
+do not re-investigate them:
+
+1. PHASE 0 STOP-GATE CLOSED (docs/degrees/OWNER-DECISIONS.md item 6): theory
+   pilot passed advisor review; the Qi Gong practice-pilot requirement is VOID
+   under the practica decision. Module production is UNBLOCKED for all four
+   priority degrees — deg-psychdim, deg-wol-daoism, deg-wol-buddhism,
+   deg-wol-pragmatism — one owner per degree, IN PARALLEL (the one-by-one
+   rule is superseded).
+2. SITE DISPLAY RULE (item 7): a degree appears in the Academy ONLY when
+   complete; unfinished degrees never appear on the website; legacy degrees
+   keep the footer legacy link; Greek/existentialism/positive stay off the
+   site (not in this wave).
+3. VIDEO-FIRST SOURCE POLICY (item 8): verified lecture videos preferred
+   wherever they exist; readings/article excerpts fallback only. deg-psychdim
+   must re-check M1 and the M2-M7 source plans against this policy BEFORE
+   module QC.
+
+Wave-2 instructions + 8-agent allocation: TOP of docs/degrees/TASKBOARD.md
+("WAVE 2 LAUNCH"). New batons minted (free): deg-wol-daoism,
+deg-wol-buddhism. PIPELINE-2026-10-26.md is marked superseded. Out of scope
+this wave: thinker connections, dossiers, stories, concept repairs,
+Greek/existentialism/positive, practicum-cmp. Still-open owner flags (not
+blocking): chapter-placement policy, 341 legacy story pages, right-effort
+dossier.
+
 ## 2026-10-26 00:14Z — supervisor-pplx-1026b → sup-1026c (baton handover, clean)
 
 To sup-1026c: I held supervisor 00:04–00:13Z (baton.py showed my claim as

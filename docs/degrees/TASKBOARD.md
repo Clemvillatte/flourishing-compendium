@@ -1,3 +1,61 @@
+## WAVE 2 LAUNCH (2026-10-26, orchestrator, ground prep complete — owner rulings recorded in OWNER-DECISIONS.md items 6-8)
+
+The Phase 0 pilot stop-gate is CLOSED (owner ruling 2026-10-26, decision 6):
+the theory pilot passed advisor review, the Qi Gong practice-pilot requirement
+is void under decision 4. NOTHING blocks module production. Do not re-investigate
+the stop-gate; it is settled.
+
+Target: the FOUR priority degrees COMPLETE, VISIBLE IN THE ACADEMY —
+deg-psychdim, deg-wol-daoism, deg-wol-buddhism, deg-wol-pragmatism. One
+accountable owner per degree, production in PARALLEL (the earlier one-by-one
+rule is superseded); a degree is published when it is complete, in the order
+psychdim, daoism, buddhism, pragmatism.
+
+BINDING RULES for this wave:
+
+1. VIDEO-FIRST (decision 8): every module prefers a verified lecture video
+   where one exists for the content; readings/article excerpts are fallback
+   only where no verified video covers the material. deg-psychdim owner:
+   re-check M1 and the M2-M7 source plans against this policy BEFORE module
+   QC — substitute verified lecture videos where they exist.
+2. SITE DISPLAY (decision 7): a degree appears in the Academy ONLY when
+   complete (all modules written, verified, independently reviewed,
+   integrated). Unfinished degrees never appear on the site. Legacy degrees
+   keep the footer legacy link. Greek, existentialism and positive stay off
+   the site entirely — NOT in this wave.
+3. Practica: UNTOUCHED (decision 4). No Qi Gong work, no practicum gates,
+   no pilot completions. If a doc still routes Qi Gong work, that route is
+   stale under decision 6 — ignore it and note it in your checkpoint.
+4. Definition of DONE per degree: every module written to the skill standard
+   (docs/degrees/skill/), every source verified to the skill's section-4
+   standard (instructor credentials on a biography or institutional page;
+   NO paywalled content), independent review passed at every gate (never
+   clear your own degree's gates — use advisor QC rounds + supervisor
+   module-QC), integrated into fcAcademyData by deg-integrate, and visible
+   in the Academy.
+5. Out of scope this wave: thinker connections, dossiers, stories, concept
+   repairs, the Greek/existentialism/positive degrees, practicum-cmp. If
+   your session drifts onto those, return to your degree.
+
+Wave allocation (8 agents):
+
+| Agent | Baton | Work |
+|-------|-------|------|
+| 1 | deg-psychdim | Production owner: M1 video-first re-check, then M1 to supervisor module-QC; then M2-M8 module production from the prepared sources (ledger sections M2-M7 preparation; Gross 1998 and van Heijst 2025 stay only where no verified video covers them). |
+| 2 | deg-wol-daoism (baton minted, free) | Production owner: walk production from the verified sources; benchmarks and ledgers already written by the strategist. |
+| 3 | deg-wol-buddhism (baton minted, free) | Production owner: walk production from the verified sources. |
+| 4 | deg-wol-pragmatism | Production owner: walk production from the verified sources; Gate-1 repairs already applied and cleared. |
+| 5 | deg-verify-a | Verification lane: verify each source the daoism and buddhism owners harvest (skill standard section 4; no paywalled content). |
+| 6 | deg-verify-b | Verification lane: same for pragmatism and psychdim. |
+| 7 | deg-integrate | Attach each degree's completed module data to fcAcademyData as it completes (schemaVersion 2; docs/degrees/INTEGRATION.md); enforce the site display rule; keep the legacy footer link; practica first, then divider, then degrees. |
+| 8 | (enrichment supervisor baton) | Supervisor: module-QC, publication flips per completed degree, gate sign-offs with advisor rounds, PROGRESS refresh, mint later bands as sessions end. |
+
+Baton mechanics: `python3 scripts/degree_baton.py clock-in <band> <agent-id>`
+then push the claim via scripts/enrich_save.sh and confirm it reached origin
+BEFORE editing anything. Save discipline per OPERATIONS.md (push after every
+completed item; at least every 15 minutes). The supervisor keeps one live
+session for the whole wave.
+
 ## OWNER RULING 2026-10-25 ~12:30Z (routed by gm-pplx-1025b, supervisor)
 
 - NO PAYWALLED CONTENT, project-wide. The YoQi VOD question is CLOSED: do not use
