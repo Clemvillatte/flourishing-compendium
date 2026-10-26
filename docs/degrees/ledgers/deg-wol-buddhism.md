@@ -1488,3 +1488,12 @@ file.
   Burma/Vipassana/suffering entries are a page-level feature.
   Module repaired: key-moments list no longer attributed to the
   description. Receipt B-V32.
+
+- 07:53 UTC (measured) - b5 routed item closed: Sumedho talk
+  full auto-caption text retrieved and read (receipt B-V33); content
+  matches the module's task premise; source-table row upgraded to
+  full-transcript-read. b6 routed item 1 closed: lecture 3 duration
+  display variance confirmed (1:40:16 on two reads incl. the
+  supervisor's; 1:40:17 on one earlier read); module updated to
+  1:40:16 with the variance stated. No verbatim quotes from the
+  error-prone captions.

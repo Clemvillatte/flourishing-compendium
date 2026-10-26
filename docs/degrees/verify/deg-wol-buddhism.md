@@ -1333,3 +1333,29 @@ file.
 Routed item (from deg-verify-a's flag sweep, still-open list): does
 the b7 watch page's "key moments" list come from the uploader's
 description? Answer: NO. A fresh watch-page fetch (https://www.youtube.com/watch?v=Hhlj_SU9SAE) returned the description verbatim: it contains the title, date/venue, the "Buddhism is not only about rituals and meditation" framing, the flourishing sentence, review/podcast/newsletter links — and NO key-moments list. The key-moments entries (Burma secularization, Vipassana movement, suffering) are a page-level feature displayed separately from the description text. Repair applied to b7: the sentence no longer attributes the key-moments list to the description; the list is marked as a page-level feature, and the description's own framing is marked checked. The Burma/Vipassana moment itself remains lecture-verified (B-V28). This closes the b7 half of the routed item; the b9 boundary-sentence half still needs the assigned video's transcript (all remote routes unavailable to this worker class, same inventory as B-V27).
+
+## B-V33 — b5 Sumedho talk full-text verification (2026-10-26, 07:53Z, worker 1026g)
+
+The b5 supervisor review's routed item 2 (Sumedho talk content
+inspection; the module's own disclosed bound) is now closed without
+playback. Route: youtubetotranscript.com/transcript?v=SElyOzgkxjo
+returned the talk's full auto-caption text (the same route that
+yielded the b6 and b7 transcripts). The talk's content: mindfulness
+(sati) and wisdom (paññā) taught as recognizing present-moment
+reality; the four truths worked through with suffering, origin and
+letting go; desire and grasping; impermanence and changing feelings;
+ideals versus lived experience; faith balanced with wisdom; personal
+reflections (early interest in Zen, U.S. Navy, travels in India).
+This confirms the module's Step-3 task premise (a precis of the talk's
+central teaching on mindfulness and wisdom) and the description-level
+claims. The captions are error-prone ("the barti dhama" for
+pariyatti-dhamma), so no verbatim quotation was taken. Module
+repaired: the source-table row upgraded from verified-metadata /
+CONTENT NOT YET INSPECTED to full-transcript-read with content
+summary; the task wording needed no change (already matches).
+Second item this pass: the b6 supervisor review's routed item 1
+(lecture 3 duration display variance). A fresh watch-page fetch of
+jPxuvitdsRI reads 1:40:16; an earlier read this session printed
+1:40:17; the supervisor's read printed 1:40:16. Module repaired to the
+working figure 1:40:16 with the variance stated (totals shift by one
+second, inside the "about" tolerance).

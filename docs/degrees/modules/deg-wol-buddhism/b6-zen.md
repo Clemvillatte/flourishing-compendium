@@ -81,7 +81,7 @@ one line per stop on the thread of the argument.
 ### Step 2: Zen meditation, examined (~1 h 40 min, video, whole lecture, two viewing stops)
 
 **Thomas Yuhō Kirchner, "Thoughts on Meditation", Lecture 3 of the same
-series, https://www.youtube.com/watch?v=jPxuvitdsRI, 1:40:17** (3 July
+series, https://www.youtube.com/watch?v=jPxuvitdsRI, 1:40:16** (3 July
 2024, same series and channel). The lecture discusses Zen meditation
 and the place of meditation in Buddhism, which it describes as less
 extensive than one might expect (in Kirchner's account most
@@ -102,7 +102,7 @@ school-by-school comparison, so the
 two-lines-each activity draws the distinction from those examples.
 
 Watch in two stops (viewing stops, not content claims, since the page
-prints no chapter list): 00:00:00-00:50:00 and 00:50:00-01:40:17. Activity: after
+prints no chapter list): 00:00:00-00:50:00 and 00:50:00-01:40:16. Activity: after
 the Rinzai-Soto discussion, write the two approaches in two lines each,
 in your own words.
 
@@ -156,11 +156,16 @@ No rebirth-dependent content is assigned.
 ## Workload arithmetic
 
 - Measured media: Lecture 1, 1:28:04 (whole, two viewing stops);
-  Lecture 3, 1:40:17 (whole, two viewing stops); total 3 h 8 m 21 s.
+  Lecture 3, 1:40:16 (whole, two viewing stops); total 3 h 8 m 20 s.
+  (Duration reads have varied by one second between fetches: one
+  earlier watch-page read printed 1:40:17, and two later reads,
+  the supervisor's and this pass's, print 1:40:16; the working figure
+  is 1:40:16, and the total workload printed below shifts by one second
+  either way, inside the "about" tolerance.)
 - Estimated: written work (distinctions, claim-and-reflection,
   answers) ~90 m; two logged sittings 20 m. Estimates labelled as
   estimates.
-- Module total: about 4 h 58 m (3:08:21 + 1:30 + 0:20) across at
+- Module total: about 4 h 58 m (3:08:20 + 1:30 + 0:20) across at
   least a week (the two long lectures make this a heavy module; the
   spread is by design).
 
@@ -169,7 +174,7 @@ No rebirth-dependent content is assigned.
 | resource | status | verified | notes |
 |---|---|---|---|
 | Kirchner, "Buddhism, Zen, and the Question of Suffering", https://www.youtube.com/watch?v=UVXpdAavGgQ | verified-video (full auto-caption text retrieved and claims checked 2026-10-26, receipt B-V31; playback blocked) | 2026-10-26 (full text this pass) | duration 1:28:04 on the watch page; The Buddhist Society channel; lecture held 27 June 2024 (100th-anniversary series, Numata Foundation-supported); passages read: host introduction (recites the speaker's credentials: Otani University, Shofuku-ji under Yamada Mumon Roshi, ordained 1974, seven years at Kencho-in and Kennin-ji, translator of The Record of Linji, Entangling Vines and In a Dream, resides Tenryu-ji), talk opening, and middle and closing samples with the Q&A; suffering as central to Buddhism and what drove Shakyamuni to his practice confirmed in the read body passage; no chapter list printed, whole lecture assigned with viewing stops; captions AUTO-GENERATED with recognition errors, no verbatim quotation from them |
-| Kirchner, "Thoughts on Meditation", https://www.youtube.com/watch?v=jPxuvitdsRI | verified-video (full auto-caption text retrieved and claims checked 2026-10-26, receipt B-V31; playback blocked) | 2026-10-26 (full text this pass) | duration 1:40:17 on the watch page; same series, 3 July 2024; passages read: opening (the place-of-meditation thesis: Buddhism's meditation image called misleading; most Buddhists said not interested in meditating; Pure Land devotional and Shingon/Tendai esoteric-ritual focus), a middle passage, the koan passage, the shikantaza passage, and panel excerpts; koan vs zazen/shikantaza material present, framed through individual teachers, not a systematic Rinzai/Soto comparison; captions AUTO-GENERATED (school names garbled as "rinai"/"SoDo"), no verbatim quotation from them |
+| Kirchner, "Thoughts on Meditation", https://www.youtube.com/watch?v=jPxuvitdsRI | verified-video (full auto-caption text retrieved and claims checked 2026-10-26, receipt B-V31; playback blocked) | 2026-10-26 (full text this pass) | duration 1:40:16 on the watch page (one earlier read printed 1:40:17; one-second display variance between fetches, noted in the workload arithmetic); same series, 3 July 2024; passages read: opening (the place-of-meditation thesis: Buddhism's meditation image called misleading; most Buddhists said not interested in meditating; Pure Land devotional and Shingon/Tendai esoteric-ritual focus), a middle passage, the koan passage, the shikantaza passage, and panel excerpts; koan vs zazen/shikantaza material present, framed through individual teachers, not a systematic Rinzai/Soto comparison; captions AUTO-GENERATED (school names garbled as "rinai"/"SoDo"), no verbatim quotation from them |
 | Kirchner credentials | verified | 2026-10-26 (parallel session harvest receipt, ledger-recorded; the Society's series page) | Maryland 1949; Waseda; Shōfuku-ji under Yamada Mumon Roshi; ordained 1974; Kenchō-ji and Kennin-ji training; MA Otani; Nanzan Institute; resides at Tenryū-ji, Kyoto |
 
 No paywalled or app-gated content (both lectures free on the Society's
