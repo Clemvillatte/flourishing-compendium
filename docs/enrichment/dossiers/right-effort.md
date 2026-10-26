@@ -79,7 +79,7 @@ The strength model that the [Self-control](https://clemvillatte.github.io/flouri
 
 > "Choice, active response, self-regulation, and other volition may all draw on a common inner resource." ([Baumeister et al. 1998, Journal of Personality and Social Psychology](https://pubmed.ncbi.nlm.nih.gov/9599441/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=9599441&rettype=abstract&retmode=text))
 
-Its four experiments — radishes resisted against chocolates, choices made, emotion suppressed, each followed by a harder task — ended in the paper's own summary:
+Its four experiments — radishes resisted against chocolates, choices made, emotion suppressed, each followed by a further test of persistence or performance — ended in the paper's own summary:
 
 > "These results suggest that the self's capacity for active volition is limited and that a range of seemingly different, unrelated acts share a common resource." ([Baumeister et al. 1998](https://pubmed.ncbi.nlm.nih.gov/9599441/))
 
@@ -91,9 +91,9 @@ Twenty-three laboratories with 2,141 participants, preregistered and running a s
 
 > "Meta-analysis of the studies revealed that the size of the ego-depletion effect was small with 95% confidence intervals (CIs) that encompassed zero (d = 0.04, 95% CI [-0.07, 0.15]." ([Hagger et al. 2016, Perspectives on Psychological Science](https://pubmed.ncbi.nlm.nih.gov/27474142/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27474142&rettype=abstract&retmode=text))
 
-The two papers do not literally rerun each other: the replication tested a standardized paradigm built for the purpose rather than the 1998 procedures, so what stands disputed is the model's central prediction, not the original experiments themselves. I have read the abstracts only and cannot judge the statistics.
+The two papers do not literally rerun each other: the replication tested a standardized paradigm built for the purpose rather than the 1998 procedures, so what stands disputed is the model's central prediction, not the original experiments themselves. And the replication's verdict is an absence — the standardized protocol did not detect the predicted depletion effect — which is not the same as a demonstration that there is nothing to detect. I have read the abstracts only and cannot judge the statistics.
 
-For the factor's own text, nothing here changes the four directions either. What this dispute questions is the metaphor of the budget: whether effort is spent down from a reservoir or generated as it is aimed. The lute string sits oddly between the two camps, since the sutta treats persistence as something tuned rather than spent, and I would not claim the sutta settles what the laboratories have not.
+For the factor's own text, nothing here changes the four directions either. What this dispute questions is the evidence for depletion: whether exerting self-control leaves less of it for what follows. The lute string sits oddly between the two camps, since the sutta treats persistence as something tuned rather than spent, and I would not claim the sutta settles what the laboratories have not.
 
 ### Is grit anything more than conscientiousness?
 

@@ -13909,7 +13909,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Its four experiments — radishes resisted against chocolates, choices made, emotion suppressed, each followed by a harder task — ended in the paper's own summary:"
+          "x": "Its four experiments — radishes resisted against chocolates, choices made, emotion suppressed, each followed by a further test of persistence or performance — ended in the paper's own summary:"
         },
         {
           "t": "q",
@@ -13936,11 +13936,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The two papers do not literally rerun each other: the replication tested a standardized paradigm built for the purpose rather than the 1998 procedures, so what stands disputed is the model's central prediction, not the original experiments themselves. I have read the abstracts only and cannot judge the statistics."
+          "x": "The two papers do not literally rerun each other: the replication tested a standardized paradigm built for the purpose rather than the 1998 procedures, so what stands disputed is the model's central prediction, not the original experiments themselves. And the replication's verdict is an absence — the standardized protocol did not detect the predicted depletion effect — which is not the same as a demonstration that there is nothing to detect. I have read the abstracts only and cannot judge the statistics."
         },
         {
           "t": "p",
-          "x": "For the factor's own text, nothing here changes the four directions either. What this dispute questions is the metaphor of the budget: whether effort is spent down from a reservoir or generated as it is aimed. The lute string sits oddly between the two camps, since the sutta treats persistence as something tuned rather than spent, and I would not claim the sutta settles what the laboratories have not."
+          "x": "For the factor's own text, nothing here changes the four directions either. What this dispute questions is the evidence for depletion: whether exerting self-control leaves less of it for what follows. The lute string sits oddly between the two camps, since the sutta treats persistence as something tuned rather than spent, and I would not claim the sutta settles what the laboratories have not."
         },
         {
           "t": "h2",

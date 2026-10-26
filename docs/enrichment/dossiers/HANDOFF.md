@@ -4,21 +4,26 @@
 
 dosr1 checked and CLOSED (claim 00:10:45Z, close 00:13:00Z): all four of its dossiers (frustration, gratitude,
 right-effort, right-intention) are ALREADY at the 3-5 bar with repairs landed
-2026-10-25 (details in `batches/dosr1.json`). The QC-entry-7 below-bar list is
+2026-10-25 (details in `batches/dosr1.json`). [SUPERSEDED 2026-10-26: the "already at bar"
+assessment for right-effort was later overturned by advisor QC under the strict
+same-proposition test — see the DOSR1 REPAIR note below and the current
+`batches/dosr1.json`.] The QC-entry-7 below-bar list is
 STALE for dosr1 and is probably stale for other bands too — RUN THE STEP 0
 CHECK before repairing anything from it. Remaining free bands at check time:
 dosr2-dosr7.
 
-DOSR1 REPAIR (2026-10-26 00:38Z, worker-pplx-dosr1-1026a, same session): advisor QC
-had downgraded right-effort to 2 substantiated + 1 unresolved comparison (below the
-strict bar). Repaired: a fourth heading, "Is willpower a reservoir that effort drains?",
+DOSR1 REPAIR CANDIDATE (2026-10-26, worker-pplx-dosr1-1026a, same session; certification PENDING supervisor QC): advisor QC
+had downgraded right-effort to 2 certified + 1 unresolved comparison (below the
+strict bar). A fourth heading, "Is willpower a reservoir that effort drains?",
 was added to right-effort.md — Baumeister et al. 1998 (JPSP) affirming the limited
-shared-resource model vs Hagger et al. 2016 multilab RRR (23 labs, N=2,141) finding
-the ego-depletion effect indistinguishable from zero; all four quotes verbatim on
-eutils carriers (PMIDs 9599441, 27474142). right-effort now at 3 substantiated + 1
-qualified comparison. Remaining supervisor decision: whether the qualified
-Buddhist/Daoist comparison ("Is trying the road or the obstacle?") stays or is
-replaced by a stronger head-on pairing. Details in `batches/dosr1.json`.
+shared-resource model vs Hagger et al. 2016 multilab RRR (23 labs, N=2,141) whose
+result is NULL-COMPATIBLE (d = 0.04, CI [-0.07, 0.15]) — an absence of detection,
+not an explicit denial. All four quotes verbatim on
+eutils carriers (PMIDs 9599441, 27474142); the section carries an honest-limits
+paragraph to this effect. The advisor's final review RESTORED the below-bar flag as
+PENDING: 2 certified + 1 candidate + 1 qualified comparison. SUPERVISOR DECISIONS:
+(1) certify or reject the depletion candidate; (2) whether the qualified
+Buddhist/Daoist comparison stays or is replaced. Details in `batches/dosr1.json`.
 
 SURVEY EXTENSION (same session, 00:13:57Z, commit 9b4af3605, read-only across the free bands): the
 same STEP 0 check was run on ALL 24 dossiers of dosr2-dosr7. Result: EVERY
