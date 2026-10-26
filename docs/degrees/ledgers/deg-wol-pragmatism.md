@@ -1563,3 +1563,17 @@ my extraction artifact from that metadata, not a module error) and
 excluding standalone zero-width-space tokens; the residual
 one-word deltas are counting-method noise. Stated total 3,905
 reproduces as 3,909. No boundary or content error; no edit needed.
+
+## m1 Peirce excerpt count re-verified (2026-10-26, worker-pplx-pragmatism-1026c)
+
+-m1's assigned Peirce excerpt (647 words stated, pinned boundaries
+"the rule for attaining the third grade of clearness" through "this
+question is perfectly solved in the manner which I have indicated")
+re-verified on the opened How to Make Our Ideas Clear page: the
+rendered span carries the same proofreading-metadata JSON chain seen
+on the Lecture II page (16 template records); with that metadata
+removed the excerpt counts 646, or 645 excluding the two standalone
+zero-width-space tokens (an initial naive count of 722 was my
+extraction artifact from the metadata, not a module error). The
+stated 647 is within one to two words of every reasonable cleaning;
+boundaries exact. No edit needed.
