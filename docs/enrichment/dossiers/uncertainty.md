@@ -116,7 +116,7 @@ My lean, which is mine, is to check how a question was framed before treating my
 
 ### Can doubt be answered, or only suspended?
 
-The shared question: when everything can be doubted, does inquiry end in one truth the doubt cannot touch, or in giving up the search for one? The Pyrrhonian answer and Descartes's answer are opposites, and each was written with the other kind of position in view.
+The shared question: when everything can be doubted, does inquiry end in one truth the doubt cannot touch, or in suspension? The Pyrrhonian answer and Descartes's answer point in opposite directions, and each was written with the other kind of position in view.
 
 Sextus states the skeptic's end state:
 
@@ -124,7 +124,7 @@ Sextus states the skeptic's end state:
 
 > "For the Pyrrhonean philosopher assents to nothing that is non-evident." ([Sextus Empiricus, Outlines of Pyrrhonism, Book 1](https://users.manchester.edu/Facstaff/SSNaragon/Online/texts/316/Sextus%20Empiricus,%20Pyrrhonism.pdf))
 
-The quietude comes from ceasing to expect certainty, and the life that follows runs on appearances:
+The life that follows runs on appearances:
 
 > "Adhering, then, to appearances we live in accordance with the normal rules of life, undogmatically, seeing that we cannot remain wholly inactive." ([Sextus Empiricus, Outlines of Pyrrhonism, Book 1](https://users.manchester.edu/Facstaff/SSNaragon/Online/texts/316/Sextus%20Empiricus,%20Pyrrhonism.pdf))
 
@@ -134,7 +134,7 @@ Descartes ran the same doubt as a one-time demolition and reports that something
 
 > "But immediately upon this I observed that, whilst I thus wished to think that all was false, it was absolutely necessary that I, who thus thought, should be somewhat; and as I observed that this truth, I think, therefore I am (COGITO ERGO SUM), was so certain and of such evidence that no ground of doubt, however extravagant, could be alleged by the sceptics capable of shaking it, I concluded that I might, without scruple, accept it as the first principle of the philosophy of which I was in search." ([Descartes, Discourse on the Method, Part 4](https://www.gutenberg.org/files/59/59-h/59-h.htm))
 
-The clash: Sextus holds that assent to anything non-evident is never forced, and that the mind comes to rest in suspension; Descartes holds that one truth survives every doubt, that the skeptics' own most extravagant doubts cannot shake it, and that it is the foundation inquiry was seeking. Limits: Descartes names "the sceptics" and not Sextus, and the pairing of these two texts is the dossier's framing; I read Book 1 of the Outlines and Parts 2 and 4 of the Discourse, and not the later literature on whether the Pyrrhonian and Cartesian programs can be reconciled.
+The comparison: Sextus holds that assent to anything non-evident is never forced, and that the mind comes to rest in suspension; Descartes holds that one truth survives every doubt and is the foundation inquiry was seeking. Whether the Pyrrhonist could accept the cogito as evident rather than non-evident is not settled by these passages, so I keep this pairing as a qualified comparison rather than a certified clash. Limits: Descartes names "the sceptics" and not Sextus, and the pairing of these two texts is the dossier's framing; I read Book 1 of the Outlines and Parts 2 and 4 of the Discourse, and not the later literature on whether the Pyrrhonian and Cartesian programs can be reconciled.
 
 My lean, which is mine, is that the cogito tells me what my doubt cannot touch and the Pyrrhonian quietude tells me how to live with everything else.
 
@@ -162,7 +162,7 @@ And he denies the irrationality charge for those cases:
 
 > "It would seem incautious to rule peremptorily that the people in question should not allow their perception of ambiguity, their unease with their best estimates of probability, to influence their decision" ([Ellsberg, Risk, Ambiguity, and the Savage Axioms, 1961](https://sites.socsci.uci.edu/~bskyrms/bio/readings/ellsberg.pdf)).
 
-The clash: Savage holds the sure-thing principle to be a postulate of rational decision with ready acceptance; Ellsberg holds that in situations of ambiguity many reasonable people neither wish nor tend to conform to it and are not thereby irrational. One side takes the principle as binding on rational choice; the other denies its authority in exactly those situations. Limits: Savage's book predates Ellsberg's paper, so the reply runs one way only; I read the principle's statement and Ellsberg's challenge, and not the later literature that grows from the paradox.
+The clash: Savage holds the sure-thing principle to be a postulate of rational decision with ready acceptance; Ellsberg does not claim to have refuted the principle, but he challenges its unrestricted normative authority, holding that in situations of ambiguity many reasonable people neither wish nor tend to conform to it and are not thereby irrational. Limits: I read the 1972 edition of Savage's book, which postdates Ellsberg's 1961 paper, and I did not check whether that edition adds any response to it; I read the principle's statement and Ellsberg's challenge, and not the later literature that grows from the paradox.
 
 My lean, which is mine, is that Ellsberg is right that known odds and unknown odds are different situations, and that acting on the difference has a price Savage's principle exists to count.
 
