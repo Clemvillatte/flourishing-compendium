@@ -1972,3 +1972,20 @@ m4-yangsheng-neiye.md (supervisor PASS), and m4-yangsheng-nourishing
 Buddhism collision precedent (reconciliation in the daoism ledger,
 line 1144). No new ruling needed; the gate taker reviews the
 canonical file only.
+
+SECOND CORRECTION to the pre-verification note (daoism): a daoism
+whole-degree GATE REVIEW ALREADY EXISTS —
+reviews/deg-wol-daoism-whole-degree-gate-1026h.md (gate-pplx-1026h,
+WHOLE-DEGREE GATE PASS, extending the m1-m3 gate full reads), so NO
+full-read gate review is owed for daoism. Current state vs that
+verdict: m2 daf0568d, m3 4e9b0bf2, m5 fbdc0fcc still match the
+gate/QC-recorded hashes; m4 drifted 5bbb8e6c -> f6552c8d (PASS
+extended to f6552c8d by the supervisor delta-verification note, 6df524
+a); m1 drifted 1d77f8b5 -> e8e202ff (supervisor-1026a repair pass,
+changed-hash rereview ROUTED to another supervisor — supervisor lane).
+So daoism needs only: (1) the m1 supervisor rereview to land, then
+(2) a small gate REFRESH (hash table + m1 delta read, the buddhism
+pattern). PRAGMATISM remains the only degree with NO prior gate read
+(full reads owed, 2,023 lines across 5 modules). The "no set-gate
+precedent" wording in my earlier handoff note applies to pragmatism
+only.
