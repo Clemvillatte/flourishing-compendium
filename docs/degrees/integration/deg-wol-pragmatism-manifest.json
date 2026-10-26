@@ -2,7 +2,7 @@
  "degree_id": "deg-wol-pragmatism",
  "built": "2026-10-26",
  "built_by": "strategist-pplx-1026a (baton degrees-strategist)",
- "provenance": "Transcribed from the QC'd module files under docs/degrees/modules/deg-wol-pragmatism/ (word counts and locators are the files' own measured values; phase-0 contract per docs/degrees/AUDIT-2026-10-26.md). The learner-audit gate diffs this manifest against the integrated data block: every entry below must appear in the module's required/optional media. | Corrected 2026-10-26 by worker-pplx-degfixcontent-1026a: PRAG-M3-03 now carries BOTH Lecture II readings (B1 952 words + B2 264 words), and PRAG-M3-04 is corrected from the mislabeled 'B2 Lecture VI' to Lecture VI's actual assignment, B3 (157 words, four printed selections) - both fixes verified against m3-truth-and-the-will-to-believe.md Step 2. Data-block gap for the schema lane: mod-prag-3 currently integrates only PRAG-M3-01 (Misak); PRAG-M3-02/03/04 must be added.",
+ "provenance": "Transcribed from the QC'd module files under docs/degrees/modules/deg-wol-pragmatism/ (word counts and locators are the files' own measured values; phase-0 contract per docs/degrees/AUDIT-2026-10-26.md). The learner-audit gate diffs this manifest against the integrated data block: every entry below must appear in the module's required/optional media. | Corrected 2026-10-26 by worker-pplx-degfixcontent-1026a: PRAG-M3-03 now carries BOTH Lecture II readings (B1 952 words + B2 264 words), and PRAG-M3-04 is corrected from the mislabeled 'B2 Lecture VI' to Lecture VI's actual assignment, B3 (157 words, four printed selections) - both fixes verified against m3-truth-and-the-will-to-believe.md Step 2. Data-block gap for the schema lane: mod-prag-3 currently integrates only PRAG-M3-01 (Misak); PRAG-M3-02/03/04 must be added. | PRAG-OPT-BERNSTEIN optional entry added 2026-10-26 (published but missing from the manifest; verified against the m4 doc's supervisor ruling - optional further viewing, orientation only).",
  "modules": {
   "mod-prag-1": [
    {
@@ -76,6 +76,12 @@
     "role": "teach",
     "assignment": "Dewey, The Public and Its Problems (Project Gutenberg) - 374 words ('...in becoming a majority' passage on rudimentary political assets)",
     "kind": "reading"
+   },
+   {
+    "source_id": "PRAG-OPT-BERNSTEIN",
+    "role": "optional",
+    "assignment": "Bernstein lecture on Dewey - OPTIONAL FURTHER VIEWING, orientation only, per the supervisor ruling recorded in the m4 doc (reviews/deg-wol-pragmatism-m4-bernstein-ruling-1026e.md): not an assigned source, carrying no outcome, tied to no rubric criterion, excluded from the workload totals. ADDED (deg-fix-content 2026-10-26): published in mod-prag-4 optional but missing from the manifest - verified against m4's verification-status section",
+    "kind": "video"
    }
   ],
   "mod-prag-5": [
