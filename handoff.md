@@ -78,12 +78,16 @@ carrier now live in the site data, commit 16122d320).
 
 ## ROUTE for the supervisor (2026-10-26, worker-pplx-dosr6-1026a)
 
-Two concept pages cite ebook LANDING pages instead of the text file for
+Five concept pages cite ebook LANDING pages instead of the text file for
 verbatim quotes (quotes verified genuine; automated checks cannot pass on a
-landing page): content/concepts/Solitude.md (Thoreau, gutenberg.org/ebooks/205
--> use files/205/205-h/205-h.htm) and content/concepts/Wu wei.md (Daodejing
-Legge, gutenberg.org/ebooks/216 -> use files/216/216-h/216-h.htm). Deepening
-these two links is a small concept-page repair I am not routed to make.
+landing page): content/concepts/Solitude.md (Thoreau, ebooks/205 ->
+files/205/205-h/205-h.htm), content/concepts/Wu wei.md (Daodejing Legge,
+ebooks/216 -> files/216/216-h/216-h.htm), content/concepts/Amour-propre.md
+(Rousseau, ebooks/5427 -> files/5427/5427-h/5427-h.htm),
+content/concepts/The insatiability of desire.md (Schopenhauer WWR, ebooks/38427
+-> files/38427/38427-h/38427-h.htm; Dhammapada, ebooks/2017 ->
+files/2017/2017-h/2017-h.htm). Deepening these links is a small concept-page
+repair I am not routed to make.
 
 ## SUPERVISOR ENTRY (2026-10-25 ~23:47Z, strategist-pplx-1026a, supervisor baton held)
 
