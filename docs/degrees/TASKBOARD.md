@@ -1964,3 +1964,11 @@ against an external HTTP Date header (the set-gate precedent's
 method). The psychdim band's "updated": 08:35:00Z and supervisor
 lines stamped 08:20Z (daoism repairs) are future-projected. Stamps
 should be measured commit times per the project's standing rule.
+
+CORRECTION to the pre-verification note above: the daoism dual-m4
+question is ALREADY RULED — band key "m4" is the canonical
+m4-yangsheng-neiye.md (supervisor PASS), and m4-yangsheng-nourishing
+-life.md is NONCANONICAL parallel-session evidence kept per the
+Buddhism collision precedent (reconciliation in the daoism ledger,
+line 1144). No new ruling needed; the gate taker reviews the
+canonical file only.
