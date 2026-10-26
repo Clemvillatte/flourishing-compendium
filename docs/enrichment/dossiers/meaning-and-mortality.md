@@ -72,7 +72,7 @@ Death reflection, the construct on my [Death reflection](https://clemvillatte.gi
 
 The pattern of means in that study followed the same order: the death-reflection induction showed the greatest increase in state gratitude, followed by the traditional mortality-salience treatment and the controls ([Frias et al. 2011](https://greatergood.berkeley.edu/images/uploads/Frias-DeathGratitude.pdf)). So the gratitude result is not an alternative to the defensive findings; it is a result about a different outcome, and the two records sit side by side here rather than in a contest.
 
-The [Death acceptance](https://clemvillatte.github.io/flourishing-compendium/#card=Death%20acceptance) card holds Wong's DAP-R, which rounds out the stances toward death with a measure rather than a practice: fear of death and death avoidance on one side, and three acceptance types on the other, each making death acceptable for a different reason — its status as biology, a belief about what follows it, or relief from suffering ([Wong et al., as listed in Jansen et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6740004/)).
+The [Death acceptance](https://clemvillatte.github.io/flourishing-compendium/#card=Death%20acceptance) card holds Wong's DAP-R, which rounds out the stances toward death with a measure rather than a practice: fear of death and death avoidance on one side, and three acceptance types on the other, each making death acceptable for a different reason: its status as biology, a belief about what follows it, or relief from suffering ([Wong et al., as listed in Jansen et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6740004/)).
 
 ### Wisdom as meditation on life
 

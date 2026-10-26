@@ -13110,7 +13110,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Both writers would choose freedom from pain. Their disagreement concerns what makes that choice worthwhile. Epicurus counts the absence of pain part of pleasure, his first and kindred good; Seneca denies the painless condition that standing — what is good, he says, is choosing it well. Agreement about what to seek does not amount to agreement about what is good."
+          "x": "Both writers would choose freedom from pain. Their disagreement concerns what makes that choice worthwhile. Epicurus counts the absence of pain part of pleasure, his first and kindred good; Seneca denies the painless condition that standing; what is good, he says, is choosing it well. Agreement about what to seek does not amount to agreement about what is good."
         },
         {
           "t": "p",
@@ -16756,7 +16756,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The noble morality Nietzsche describes in Beyond Good and Evil answers the other way: \"one has duties only to one's equals; that one may act towards beings of a lower rank... just as seems good to one... 'beyond good and evil'\" and \"the ability and obligation to exercise prolonged gratitude and prolonged revenge—both only within the circle of equals\" ([Nietzsche, BGE 260, Zimmern trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/4363/pg4363.txt)). On the same question — whether a benefit received from someone of lower rank creates a claim — the two texts give incompatible answers."
+          "x": "The noble morality Nietzsche describes in Beyond Good and Evil answers the other way: \"one has duties only to one's equals; that one may act towards beings of a lower rank... just as seems good to one... 'beyond good and evil'\" and \"the ability and obligation to exercise prolonged gratitude and prolonged revenge—both only within the circle of equals\" ([Nietzsche, BGE 260, Zimmern trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/4363/pg4363.txt)). On the same question, whether a benefit received from someone of lower rank creates a claim, the two texts give incompatible answers."
         },
         {
           "t": "p",
@@ -20822,7 +20822,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The [Death acceptance](card:Death%20acceptance) card holds Wong's DAP-R, which rounds out the stances toward death with a measure rather than a practice: fear of death and death avoidance on one side, and three acceptance types on the other, each making death acceptable for a different reason — its status as biology, a belief about what follows it, or relief from suffering ([Wong et al., as listed in Jansen et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6740004/))."
+          "x": "The [Death acceptance](card:Death%20acceptance) card holds Wong's DAP-R, which rounds out the stances toward death with a measure rather than a practice: fear of death and death avoidance on one side, and three acceptance types on the other, each making death acceptable for a different reason: its status as biology, a belief about what follows it, or relief from suffering ([Wong et al., as listed in Jansen et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6740004/))."
         },
         {
           "t": "h2",
