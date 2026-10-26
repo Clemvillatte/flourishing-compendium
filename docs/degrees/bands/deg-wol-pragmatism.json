@@ -2,7 +2,7 @@
  "band": "deg-wol-pragmatism",
  "kind": "degree",
  "holder": null,
- "phase": "gate_complete",
+ "phase": "integrated",
  "modules": {
   "m1-orientation": "independent supervisor MODULE-QC PASS at 030c89f8 (review reviews/deg-wol-pragmatism-m1-supervisor-1026e.md): Philosophy Talk episode content coverage independently corroborated via the indexed-transcript route (identity, duration, discussion shape); the three named open items adjudicated bounded (playback a human-session residue, segmentation routed to production as optional refinement, caption status established: auto-generated with recognition errors, no verbatim claims). Advisor rounds 1-4 accepted. Not complete-degree/publication clearance.",
   "m2-belief-and-doubt": "independent supervisor MODULE-QC PASS at a3b098b6 (review reviews/deg-wol-pragmatism-m2-supervisor-1026e.md): advisor round-1 repairs confirmed applied; three quoted passages spot-verified verbatim against the opened Wikisource text; workload arithmetic 225 labelled minutes consistent; video-first fallback properly documented. Not complete-degree/publication clearance.",
