@@ -1416,3 +1416,10 @@ Also routed: content inspections owed (b4 Brahmali PARTIAL, b6 Kirchner x2,
 b7 Batchelor, b9 Thanissaro), m1-four-truths.md leftover cleanup, b9
 aggregates thread. Supervisor module-QC owed on all nine; publication
 gates closed.
+
+**deg-gate verdict #3, 2026-10-26 07:05Z (gate-pplx-w3-1026a):** daoism
+m1–m3 GATE PASS at scope/centering level (all three read in full) —
+`reviews/deg-wol-daoism-m1-m3-gate-2026-10-26.md`. Routed to the m4/m5
+owner: the Neiye inward-training gap m1 admits (attach a verified source
+or keep the promise narrowed). Supervisor module-QC still owed on m1–m3.
+Next in my lane: pragmatism m1–m3 review.

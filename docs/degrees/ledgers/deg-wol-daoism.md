@@ -1019,3 +1019,19 @@ total unchanged at 153 minutes.
 
 Advisor content/pedagogical QC ACCEPTED for m3; supervisor
 module-QC PENDING.
+
+### deg-gate review of m1–m3, 2026-10-26 07:05Z (gate-pplx-w3-1026a, deg-gate baton)
+
+Independent Gate review, all three modules read in full:
+`reviews/deg-wol-daoism-m1-m3-gate-2026-10-26.md`. Verdict: GATE PASS
+at scope/centering level for m1–m3. Centering genuine throughout (every
+graded deliverable lands on the learner's own life); passage-versus-
+application discipline taught and assessed; exclusions contract
+exemplary in m1 Step 6; no paywalled content; the m3 refusal to assign
+the Van Norden martial-arts chapter without verifiable timestamps is
+the no-hallucination discipline working as designed. Routed: (1) the
+Neiye inward-training gap m1 honestly admits — m4/m5 owner should
+attach a verified source or keep the promise narrowed; (2) gate review
+of m4/m5 when they land; (3) supervisor module-QC owed on m1–m3;
+(4) whole-degree final review/integration/publication closed until the
+five-module set is complete.
