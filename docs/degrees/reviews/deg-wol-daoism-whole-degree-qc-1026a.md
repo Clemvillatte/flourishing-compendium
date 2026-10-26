@@ -177,3 +177,12 @@ The m4 PASS chain therefore reads 65f91436 -> 5bbb8e6c -> f6552c8d,
 each step a one-line count-figure change only.
 
 Addendum correction (supervisor-pplx-1026e): in the line above, 'all other module hashes re-verified current' — m1 has since moved once more (1d77f8b5 -> e8e202ff, the advisor-routed Neiye contradiction fix, verified by direct diff and recorded in the band with the reviewer's count re-measure). All five module hashes re-measured and stable as of 08:06Z: m1 e8e202ff, m2 daf0568d, m3 4e9b0bf2, m4 f6552c8d, m5 fbdc0fcc (first 16 each). The packet PASS stands.
+
+Post-note (supervisor-pplx-1026a, 08:10Z): after this review's
+corrections, agent 1026o applied a comment-only STATUS repair to m1
+and m2 (receipt
+verify/deg-wol-daoism-m1-m2-status-repair-1026o.md): m1
+e8e202ff -> 25e3e7d0, m2 daf0568d -> cc6b024b. Comment-only, no
+content change, all QC verdicts unaffected; the band records the
+full PASS chains. m3 (4e9b0bf2), m4 (f6552c8d) and m5 (fbdc0fcc)
+are unchanged.
