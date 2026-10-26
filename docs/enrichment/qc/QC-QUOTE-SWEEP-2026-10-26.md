@@ -4,10 +4,11 @@ Worker: worker-pplx-dosr6-1026a (verification lane; no baton held — dosr3 clai
 conceded to sup-1026b-worker, all dosr bands held by the supervisor at sweep
 time; the 28 dosr-band dossiers were excluded because their bands are live).
 
-Corrected 2026-10-26 after advisor QC: this report previously claimed every
-NOT FOUND item was a verified false positive. That overstated the check. The
-corrected verdict below supersedes the earlier wording (also in the handoff
-entry and the commit message of 954831ba9).
+Round 2 (same session, after advisor QC): the earlier draft of this report
+overstated the check ("every failure a verified false positive"). All 37
+automated non-matches were then adjudicated through alternate access routes
+(curl with a browser user-agent, pdftotext on downloaded PDFs, or the platform
+fetcher). Corrected final verdict below.
 
 ## Scope
 
@@ -18,55 +19,84 @@ meaning-and-mortality, shame-and-guilt, wisdom.
 
 Automated result: 281 quotes checked, 37 NOT FOUND across 7 files (anxiety,
 body, decision-making, fear, genuine-flourishing, impermanence, leisure clean).
-37/281 is the automated non-match rate, not a confirmed error rate.
+37/281 is the automated non-match rate, not an error rate.
 
 ## Verdict (quotation-only check; NOT publication clearance)
 
-Selected failures were rechecked through alternate access routes (curl with a
-browser user-agent, pdftotext on downloaded PDFs, or the platform fetcher), and
-matching passages were recovered for a subset. No mismatch was confirmed in
-that subset. The remaining failures are unresolved; access or extraction
-problems are suspected, not established. No dossier text was changed.
+Of the 37 automated non-matches, 34 were confirmed VERBATIM on their carriers
+via an alternate access route. No mismatch was confirmed anywhere. The
+remaining 3 are unresolved for access/extraction reasons only (below). No
+dossier text was changed; the published non-band dossiers stand.
 
-## Per-failure disposition
+## Confirmed verbatim (34)
 
-MATCHED (passage recovered by eye on the live carrier via an alternate route):
+- behaviour (2): "Habits emerge from the gradual learning of associations…"
+  and "A New Look at Habits and the Habit-Goal Interface" — eric.ed.gov
+  EJ776723 page (title tag and meta description, live fetch).
+- executive-functions (2): "the concept of an executive controller begs the
+  question…" and "executive control might arise from the interaction among
+  multiple different functions…" — Logie, "Retiring the central executive",
+  T&F 17470218.2015.1136657 (page text via alternate fetch).
+- happiness (1): Spinoza "Pleasure is the transition of a man from a less to a
+  greater perfection." — sacred-texts.com eth03.htm (full page, alternate fetch).
+- lifes-purpose (5): McAdams "what Erikson called an identity is really an inner
+  story or personal myth…" (erudit 1108951ar.pdf, pdftotext); Sheldon & Elliot
+  "put more sustained effort into achieving those goals…" (PubMed 10101878);
+  Yaden et al. "transient mental states marked by decreased self-salience…"
+  (SAGE gpr0000102); Ostafin et al. mattering "their existence is of
+  significance, importance, and value to the world" (T&F 10615806.2021.1994556);
+  Wrzesniewski et al. "as either a Job (focus on financial rewards…)"
+  (semanticscholar abstract).
+- meaning-and-mortality (3): Williams "Immortality, or a state without death,
+  would be meaningless, I shall suggest…" (123philosophy PDF, pdftotext — text
+  layer has spacing artifacts, wording recoverable); Burke, Martens & Faucher
+  "MS yielded moderate effects (r = .35)…" (PubMed 20097885); Many-Labs team
+  "Our results were non-diagnostic of whether original author involvement
+  improves replicability…" (Collabra/ucpress, alternate fetch).
+- shame-and-guilt (10): all confirmed — Tangney, Stuewig & Mashek "Moral
+  Emotions and Moral Behavior" (PMC3083636: the Lewis (1971) sentence, the
+  "Oh, look at what a horrible thing I have done" / "… and aren't I a horrible
+  person" fusion passage, "shame corresponds with attempts to deny, hide, or
+  escape…" / "guilt corresponds with reparative actions…") and de Hooge et al.
+  "The social side of shame" (PubMed 29303420: "Whereas psychology literature
+  typically portrays shame…", "Two studies (N = 148 and N = 133)…", the
+  social-approach findings sentence).
+- wisdom (11): all confirmed — Baltes & Staudinger, five quotes from the
+  PubMed 11392856 abstract; the Erikson definition "an informed and detached
+  concern with life itself in the face of death itself" (MDPI 2499-6564/71/2/109);
+  Eyal, Steffel & Epley "Understanding the mind of another person is therefore
+  enabled by getting perspective…" (PubMed 29620401); Kounios & Beeman "Insight
+  occurs when a person suddenly reinterprets…" (PubMed 24405359); Grossmann et
+  al. "a significant increase in wise reasoning about interpersonal challenges"
+  (SAGE 0956797620969170); Grossmann & Kross "no age differences in wise
+  reasoning about personal conflicts" (SAGE 0956797614535400); Sanderse "Full
+  virtue and practical wisdom comprise the end of neo-Aristotelian moral
+  development…" (T&F 03057240.2018.1497952).
 
-| Dossier | Quote (abbrev.) | Carrier | Evidence inspected |
-|---------|-----------------|---------|-------------------|
-| behaviour | "Habits emerge from the gradual learning of associations…" | eric.ed.gov EJ776723 | page meta description, live fetch |
-| behaviour | "A New Look at Habits and the Habit-Goal Interface" | eric.ed.gov EJ776723 | page title tag, live fetch |
-| happiness | Spinoza "Pleasure is the transition of a man from a less to a greater perfection." | sacred-texts.com eth03.htm | full page text, alternate fetch |
-| lifes-purpose | McAdams "what Erikson called an identity is really an inner story or personal myth that integrates a person's life…" | erudit 1108951ar.pdf | pdftotext of the downloaded PDF |
-| meaning-and-mortality | Williams "Immortality, or a state without death, would be meaningless, I shall suggest…" | 123philosophy williams-immortality.pdf | pdftotext (text layer has spacing artifacts; wording recoverable) |
-| shame-and-guilt | "shame involves a negative evaluation of the global self" / "deny, hide, or escape" phrases | PMC3083636 | live fetch, phrases present |
-| shame-and-guilt | "Oh, look at what a horrible thing I have done" | PMC3083636 | live fetch, present with inline emphasis markup |
-| wisdom | all five Baltes & Staudinger abstract quotes | PubMed 11392856 | full abstract, alternate fetch |
-| wisdom | Erikson definition "an informed and detached concern with life itself in the face of death itself" | MDPI 2499-6564/71/2/109 | full page, alternate fetch |
+## Unresolved (3) — access/extraction limited, mismatch NOT established
 
-UNRESOLVED (not opened on an alternate route; access problem suspected, not
-established — do not treat as errors, do not remove the quotes):
+1. lifes-purpose: "Comprehension encompasses people's ability to find
+   patterns…" — OUP Oxford Handbook of Positive Psychology chapter page
+   (academic.oup.com/edited-volume/28153/chapter-abstract/21297712) does not
+   render the chapter abstract; sentence not confirmable from this carrier.
+   ROUTE: find an open carrier for the Steger "Meaning in Life" chapter text.
+2. meaning-and-mortality: the essay title "The Makropulos Case: Reflections on
+   the Tedium of Immortality" — the 123philosophy PDF is a scan whose OCR text
+   layer renders it corrupted ("reflectionson the tedium of immortaliry");
+   verbatim confirmation from this copy is not possible.
+3. meaning-and-mortality: "a boredom connected with the fact that everything
+   that could happen and make sense to one particular human being…" — same
+   scanned PDF; the passage is not recoverable from the OCR text layer.
 
-- executive-functions (2): both quotes, T&F 17470218.2015.1136657 (T&F blocked
-  both fetchers used).
-- lifes-purpose (5): OUP chapter abstract; T&F 10615806.2021.1994556;
-  semanticscholar Wrzesniewski page; PubMed 10101878; SAGE gpr0000102.
-- meaning-and-mortality (4): the Makropulos essay title (the PDF text layer
-  renders it corrupted — "reflectionson the tedium of immortaliry" — so verbatim
-  confirmation from this copy was not possible); the "boredom connected with…"
-  passage (not recovered from the extraction); PubMed 20097885; Collabra
-  ucpress article.
-- shame-and-guilt (rest): the full Lewis-1971 sentences beyond the phrases
-  confirmed above; "… and aren't I a horrible person" (the page shows related
-  wording, exact sentence not confirmed); the PubMed 29303420 social-approach
-  study quotes; the combined-carrier sentences.
-- wisdom (rest): PubMed 29620401 and 24405359; T&F 03057240.2018.1497952; SAGE
-  0956797614535400 and 0956797620969170; PubMed 21728454.
+None of the three is evidence of a misquote; they are cases where the only
+cited carrier cannot be read verbatim by any available route. Do not remove the
+quotes on this basis; a supervisor decision on replacement carriers is
+suggested.
 
 ## Flag for the supervisor — verifier behavior (from reading the script)
 
 `dossier_quote_verify.py` already parses PDFs (pdftotext) and strips HTML tags
-in its normalizer, so those are not the gap. From reading scripts/dossier_quote_verify.py:
+in its normalizer. From reading scripts/dossier_quote_verify.py:
 
 1. Failed fetches are cached: `fetch()` writes the `FETCHFAIL …` marker to the
    cache and later runs return the cached failure without retrying — a
@@ -74,13 +104,13 @@ in its normalizer, so those are not the gap. From reading scripts/dossier_quote_
    cleared.
 2. A blocked or challenge-page fetch is reported identically to a genuine
    wording mismatch ("NOT FOUND"), with no BLOCKED/PDF/MARKUP distinction.
-3. Exact substring matching after normalization is defeated by PDF text-layer
-   artifacts (e.g. "immortaliry", lost spaces inside words), even when the
-   wording is recoverable by eye.
+3. Exact substring matching after normalization is defeated by scanned-PDF OCR
+   artifacts (e.g. "immortaliry", lost spaces), even when a human can read the
+   wording.
 
 Suggested supervisor decision: classify blocked/challenge fetches in the
-output, don't cache failures, and consider normalized/fuzzy matching for PDF
-extractions — so real mismatches are not buried in access failures.
+output, don't cache failures, and consider normalized/fuzzy matching for
+scanned PDFs — so real mismatches are not buried in access failures.
 
 ## Session incident note (transparency)
 

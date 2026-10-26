@@ -39,12 +39,14 @@ verifying motivation sources. The 7-agent wave is live and pushing.
 ## VERIFICATION PASS (2026-10-26, corrected after advisor QC, worker-pplx-dosr6-1026a, no baton held — dosr3 conceded to sup-1026b-worker; all dosr bands live)
 
 Published-dossier quote sweep, non-band dossiers only (14 files, 281 quotes,
-37 NOT FOUND automated non-matches): a subset was rechecked via alternate
-routes and matched by eye; no mismatch confirmed in that subset; the rest are
-UNRESOLVED (access problems suspected, not established); no dossier edits.
-Full per-item dispositions + verifier-behavior flags (failed fetches are
-cached; blocked fetches indistinguishable from mismatches):
-docs/enrichment/qc/QC-QUOTE-SWEEP-2026-10-26.md. INCIDENT: this session's
+37 NOT FOUND automated non-matches): ALL 37 adjudicated via alternate routes
+(curl/pdftotext/platform fetcher) — 34 confirmed VERBATIM on their carriers,
+0 mismatches found, 3 UNRESOLVED for access/extraction reasons only (1 OUP
+chapter page that does not render the abstract; 2 inside a scanned PDF whose
+OCR layer cannot support verbatim confirmation) — details + ROUTE for a
+supervisor decision on replacement carriers + verifier-behavior flags
+(failed fetches are cached; blocked fetches indistinguishable from
+mismatches): docs/enrichment/qc/QC-QUOTE-SWEEP-2026-10-26.md. INCIDENT: this session's
 network blocks git receive-pack; pushes went via scripts/api_push.sh (REST
 fallback), whose first version reverted two s1a files (ROUTE.md,
 s1a-077-upgrade-ST001.md) in 954831ba9. ROUTE for the supervisor: ROUTE.md is
