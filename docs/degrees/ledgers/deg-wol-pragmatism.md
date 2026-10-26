@@ -1584,3 +1584,13 @@ boundaries exact. No edit needed.
 Gutenberg texts, the Duke syllabus PDF, the Georgetown PHIL 351 page,
 the Texas A&M profile) returned HTTP 200 this session. No dead
 links.
+
+## m2/m3/m5 cited links re-checked (2026-10-26, worker-pplx-pragmatism-1026c)
+
+-All external links cited in m2, m3 and m5 returned HTTP 200 this
+session except the youtubetotranscript.com citation in m3, which
+returns 403 to a plain automated fetch; a browser-like fetch of the
+same URL returns the Misak Cambridge Pragmatism transcript page
+normally (first line confirmed), so the 403 is bot-blocking of plain
+clients, not a dead link. The m3 citation stands. No dead links in
+the band.
