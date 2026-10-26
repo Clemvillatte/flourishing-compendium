@@ -226,7 +226,7 @@ docs/degrees/modules/deg-wol-buddhism/m1-four-truths.md written this session. Tw
 ### Caveats and flags for the verification lane
 
 - Inherited verified-video records that rest on uploader descriptions for coverage (for example, uploader-provided descriptions of Dreyfus sessions) should be treated as provisional per the advisor's standing instruction; my own records above state what I opened myself.
-- Dreyfus new-URL transcript confirmation is the highest-value verification item for this degree (BG-5, blocking for scholarly-depth outcomes).
+- Dreyfus new-URL transcript confirmation (BG-5) was RESOLVED by deg-verify-a at 5526928 (session 1 = dukkha only, duration 1:20:34); this session's earlier "highest-value item" flag is closed, and b2 attaches Dreyfus under the recorded boundaries. (Entry updated when resolved; the original flag is preserved above in the session's original wording.)
 
 ### RECONCILIATION ENTRY (worker-pplx-buddhism-1026a; event time not recorded)
 
