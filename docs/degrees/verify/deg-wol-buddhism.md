@@ -663,3 +663,39 @@ recorded, not adjudicated).
   therefore NOT obtained this session; their existing verified-video
   bases (watch-page abstracts, B-V07/B-V08) stand unchanged. No
   status was upgraded or downgraded on either recording.
+
+### B-V16 — b5 BLOCKED item discharged: The Collected Teachings of
+Ajahn Chah (single volume) free full text (2026-10-26T05:23Z)
+
+- The module's BLOCKED note (QC round 4) records an access failure:
+  the monastery's page shows only the introduction excerpt and the
+  session's fetches could not confirm a download. DISCHARGED: the
+  monastery's own CDN carries the FULL single-volume PDF —
+  https://cdn.amaravati.org/wp-content/uploads/2014/09/The-Collected-Teachings-of-Ajahn-Chah-Single-Volume-Ajahn-Chah.pdf
+  — fetched this session (8.8 MB, 200 after the http->https redirect).
+  The PDF's own front matter confirms: "Published for free
+  distribution by ARUNA PUBLICATIONS", ISBN 978-1-908444-16-5,
+  Creative Commons Attribution-NonCommercial-NoDerivs 2.0 UK, third
+  edition 2011; the publisher page names Aruna Ratanagiri Buddhist
+  Monastery and points to forestsanghapublications.org for downloads.
+  No paywall anywhere on the route.
+- Contents verified from the PDF itself (contents pages): the volume
+  prints the Introduction (iii) — the same lineage text the module
+  assigns from the monastery page excerpt — and the named teachings,
+  including: The Middle Way Within (1), The Peace Beyond (9),
+  Convention and Liberation (21), No Abiding (29), Evening Sitting
+  (37), About Being Careful (49), It Can Be Done (69), Understanding
+  Dukkha (85), The Dhamma Goes Westward (95), Even One Word Is Enough
+  (111), Making the Heart Good (125), Our Real Home (145), The Four
+  Noble Truths (157), A Gift of Dhamma (225), Reading the Natural
+  Mind (237), Questions and Answers (263), Steady Practice (277),
+  Training This Mind (305), Tranquillity and Insight (307).
+- Alternate free carriers, both opened this session: the Forest Sangha
+  publications page lists the single volume with PDF/EPUB
+  (forestsangha.org); the Birken monastery mirror PDF returns 200
+  (birken.ca, 2.7 MB, same front matter per its search-indexed text).
+- Status: **verified (text)** — identity, free access, free-distribution
+  licence and contents confirmed from the artifact itself. ROUTE
+  owner: the b5 BLOCKED note can be lifted; outcome 3's two-teachings
+  assignment can be written against the named teachings above (the
+  teaching selection is the owner's module decision, not this lane's).
