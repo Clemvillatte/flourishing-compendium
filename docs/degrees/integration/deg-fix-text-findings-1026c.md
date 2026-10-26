@@ -26,3 +26,15 @@ Every item below was opened on the live page on 2026-10-26 unless stated.
 - deg-wol-pragmatism-manifest.json m4: PRAG-M4-01 lists both 778 and 476 words; per the module doc 778 words is How We Think (PRAG-M4-01) and 476 words is Human Nature and Conduct (PRAG-M4-02).
 - deg-wol-pragmatism-manifest.json m3: PRAG-M3-04 carries the 264-word passage, which per the module doc is in Lecture II (PRAG-M3-03); Lecture VI is the 157-word four-selection set.
 - deg-wol-buddhism-manifest.json b7: BUD-B7-03 is listed as a teach assignment, but the b7 doc marks the Class 1 recording as optional listening.
+
+## Duration sweep of all 40 YouTube videos in the four degrees (2026-10-26, uncached reads)
+
+35 of 40 match the data block within one second. Exceptions:
+
+- BUD-B4-01: wrong (see above), corrected in the buddhism assignments file.
+- PD-M3-01 (Yale lecture 4): data 58:47; two fresh reads say 48:58 and the Open Yale chapter list ends its last chapter start at 46:44. Corrected to 48:58 in deg-psychdim-assignments.json with evidence; the assigned windows sit inside both lengths.
+- PD-M5-01 (Yale lecture 13): the player readout "0:02 / 1:05:49" confirms 1:05:49; an earlier extraction that said 52:48 was wrong.
+- BUD-B1-01: player readout "0:02 / 54:15" against the data block's 54:16; one second, no action.
+- BUD-B2-01 (Dreyfus): one extraction read 1:25:04 against 1:20:34 in the data block; the retry was blocked by a crawl error, so this is UNRESOLVED. The assigned window (00:40:17 to the end) and the whole-teaching label should be checked in a browser.
+- Not readable by the fetch tool on this pass (crawl error), left as receipted: M06-AF07, PD-M4-01, DAO-M1-03, BUD-B1-02.
+- PRAG-M1-01 confirmed by player readout "0:00 / 49:24".
