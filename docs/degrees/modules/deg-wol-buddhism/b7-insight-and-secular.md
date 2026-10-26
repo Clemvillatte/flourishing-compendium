@@ -156,14 +156,16 @@ module (b6) is separate.
 
 ## Workload arithmetic
 
-- Measured media: Batchelor lecture 1:26:35 (whole, two viewing
-  stops); Fronsdal Class 1 recording 1:26:55 (whole, two listening
-  stops). The two logged sittings happen INSIDE the Class 1 recording,
-  so they are not counted twice.
+- Measured media (REQUIRED): Batchelor lecture 1:26:35 (whole, two
+  viewing stops). OPTIONAL listening: Fronsdal Class 1 recording
+  1:26:55 (whole, two listening stops), not counted in the module
+  total. The two required sittings follow the Week 1 transcript and
+  are counted below.
 - Estimated: transcript reading at 130 words per minute ~25 m; written
   work (statement, table, position) ~75 m. Estimates labelled as
   estimates.
-- Module total: about 4 h 35 m (2:53:30 media + 25 m + 75 m) spread
+- Module total: about 3 h 05 m required (1:26:35 lecture + 25 m
+  transcript + 75 m written work + 20 m sittings) spread
   across a week or more (the two long recordings make this a heavy
   module; the spread is by design).
 
@@ -178,8 +180,9 @@ module (b6) is separate.
 No paywalled or app-gated content. Video-first policy applied: the
 secular case arrives as a university lecture video with verified
 metadata (content inspection owed); the
-Insight practice arrives as a verified audio series plus its free
-transcript.
+Insight practice arrives as the course's free CC BY-NC-ND 3.0
+transcript; the recorded class series is optional supplementary
+listening with verified metadata.
 
 ## What this module does not do
 

@@ -160,11 +160,12 @@ school.
 | resource | status | verified | notes |
 |---|---|---|---|
 | Ajahn Sumedho, "Mindfulness and Wisdom", https://www.youtube.com/watch?v=SElyOzgkxjo (Amaravati channel) | verified-metadata | 2026-10-26 (this session) | duration 1:01:36 on the watch page; talk dated 13 May 2017, uploaded 14 July 2017; free MP3 also on amaravati.org; no chapter list printed, whole talk assigned with two viewing stops; CONTENT NOT YET INSPECTED beyond the watch page's stated description, so content claims are bounded to it; credentials opened on https://amaravati.org/biographies/ajahn-sumedho/ (USA-born; bhikkhu 1967; nine years under Ajahn Chah at Wat Pah Pong; established Amaravati 1984) |
-| The Collected Teachings of Ajahn Chah, https://amaravati.org/dhamma-books/the-collected-teachings-of-ajahn-chah/ | verified (book page; text NOT page-by-page inspected) | 2026-10-26 (this session) | free-distribution single volume on the monastery's site; the page's stated contents bound the assignment; introduction covers the Thai Forest tradition, the Theravada lineage ("way of the elders", Southern School) and the forest practice standard; assigned sections named in Step 2; the volume's printed publisher/date/word count not established and not claimed |
+| The Collected Teachings of Ajahn Chah, https://amaravati.org/dhamma-books/the-collected-teachings-of-ajahn-chah/ | verified (book page; text NOT page-by-page inspected) | 2026-10-26 (this session) | single volume on the monastery's site; the opened page's free-distribution statement could NOT be confirmed in extraction; the two-teachings assignment is BLOCKED (see Step 2) because the page shows only the introduction excerpt and a raw-HTML refetch returned 403; the introduction excerpt is the assigned portion; the volume's printed publisher/date/word count not established and not claimed |
 | AN 5.179 and SN 56.11 | verified | 2026-10-26 (b1, b2 and receipts) | see b1-b3 source tables |
 
 No paywalled or app-gated content. Video-first policy applied: the
-module's spine is a verified talk video; the book carries the lineage
+module's spine is a talk video with verified metadata (content
+inspection owed); the book carries the lineage
 reading.
 
 ## What this module does not do

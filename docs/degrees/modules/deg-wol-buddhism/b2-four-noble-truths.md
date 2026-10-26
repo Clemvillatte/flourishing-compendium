@@ -54,7 +54,9 @@ Motion," Thanissaro Bhikkhu translation on Access to Insight**
 verified receipt B-T01; the page states the CC BY-NC 4.0 license and lists the
 Sujato and Bodhi alternate translations). Read the whole discourse. Mark
 four places: each truth stated, and the task attached to it ("to be
-comprehended... to be abandoned... to be realized... to be developed").
+comprehended... to be abandoned... to be directly experienced... to be
+developed"; third verb corrected 2026-10-26 per deg-verify-a's re-fetch
+of Thanissaro's SN 56.11 — the earlier draft read "to be realized").
 
 The discourse's religious frame stays visible on purpose: its account of
 craving reaches for future lives, and its closing narrative includes

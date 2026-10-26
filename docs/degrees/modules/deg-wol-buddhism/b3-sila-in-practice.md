@@ -89,7 +89,7 @@ most changes how you read it, and say why in a clause.
 ### Step 3 — The modernized rendering (~10 min, reading)
 
 **The Five Mindfulness Trainings, Plum Village tradition (revised
-2022), https://plumvillage.org/mindfulness-practice/the-five-mindfulness-trainings/**
+2022), https://plumvillage.org/mindfulness/the-5-mindfulness-trainings/** (URL corrected 2026-10-26 per deg-verify-a: the earlier link landed on a retreat page; this is the verified free text page)
 (verified receipt B-T02; free; the page states the trainings' root in
 the Buddha's five precepts). Read the five trainings alongside your
 b1 precept statements.
@@ -161,7 +161,7 @@ talk (37:33 onward) is b2's territory and is not assigned here.
 |---|---|---|---|
 | Ajahn Brahm, "What the Buddha Taught" (remaster), https://www.youtube.com/watch?v=W6pGAvtBmCw | verified-video | 2026-10-26 (parallel session, ledger-recorded; corroborated by deg-verify-a) | 49:44 on the opened video page and the Everyday Dhamma episode page (https://everydaydhamma.net/podcast/ajahn-brahm-podcast/episode/what-the-buddha-taught-ajahn-brahm); chapters read on the video page; ethics arc 25:46-37:33 assigned; transcript is AI-generated and error-prone, so the module paraphrases and quotes nothing; credentials on https://bswa.org/teachers/ajahn-brahm/ (Cambridge theoretical physics; ordained 1974, Forest Tradition of north-east Thailand under Ajahn Chah; abbot of Bodhinyana) |
 | "What Is Buddhism?" booklet, https://bswa.org/teaching/buddhism-ajahn-brahm/ | verified (text) | 2026-10-26 (receipt B-T03, deg-verify-a) | free distribution PDF; the five precepts, Middle Way and practice sections assigned; rebirth/karma sections deliberately unassigned (receipt caveat); credentials on the BSWA teacher page |
-| Five Mindfulness Trainings, https://plumvillage.org/mindfulness-practice/the-five-mindfulness-trainings/ | verified (text) | 2026-10-26 (receipt B-T02, deg-verify-a) | revised 2022; free; root in the Buddha's five precepts stated on the page; Thich Nhat Hanh biography page to be attached if the module later leans on his life (receipt note) |
+| Five Mindfulness Trainings, https://plumvillage.org/mindfulness/the-5-mindfulness-trainings | verified (text) | 2026-10-26 (receipt B-T02 and defect repair 2026-10-26, deg-verify-a) | revised 2022; free; root in the Buddha's five precepts stated on the page; URL corrected this session per deg-verify-a's defect flag (the earlier mindfulness-practice URL lands on a retreat page); Thich Nhat Hanh biography page to be attached if the module later leans on his life (receipt note) |
 | AN 5.179 Gihisutta, https://suttacentral.net/an5.179/en/sujato | verified | 2026-10-26 (b1) | see b1 source table |
 
 No paywalled or app-gated content. Video-first policy applied within

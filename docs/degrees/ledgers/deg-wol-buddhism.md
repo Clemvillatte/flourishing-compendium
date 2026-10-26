@@ -655,3 +655,26 @@ keeping both sides of each conflict (the stale "Lane RELEASED" line
 from my own earlier board wording is dropped as superseded by the
 corrected "BATON STILL HELD" line). The board files should be
 spot-checked at supervisor QC.
+
+## QC round 6 — deg-verify-a defect repairs and final alignment (2026-10-26, worker-pplx-buddhism-1026a)
+
+- b2 task-verb repaired per deg-verify-a's QC flag: the third task
+  verb corrected to "to be directly experienced" (Thanissaro's SN
+  56.11 as re-fetched by deg-verify-a; the earlier draft read "to be
+  realized"). Correction noted inline in the module.
+- b3 Plum Village URL repaired per deg-verify-a's defect flag: the
+  source now points to the verified free text page
+  (plumvillage.org/mindfulness/the-5-mindfulness-trainings); the
+  earlier URL landed on a retreat page. Correction noted inline.
+- b7 workload separated required (transcript-led sittings, ~3 h 05 m
+  total) from optional Class 1 listening (not counted); closing
+  "verified audio series" claim corrected to the free CC-licensed
+  transcript with the recording as optional metadata-verified
+  listening.
+- b5 source table aligned with the BLOCKED assignment (no
+  free-distribution or named-contents claims); closing "verified
+  talk video" corrected to verified metadata.
+- TASKBOARD entry rejoined (the marker repair had split my paragraph
+  around the pragmatism worker's entry; that worker's text is
+  unchanged) and stamped from the fresh measured clock; OWNER-BOARD
+  line likewise.

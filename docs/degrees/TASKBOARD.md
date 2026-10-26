@@ -1209,6 +1209,13 @@ recordings to verified-metadata (content inspection owed).
 SUPERVISOR OWED: module-QC on all nine; the canonical-draft decision
 on m1-four-truths vs b1+b2 (parallel session alternative); the
 aggregates elective thread (b9 flags it); content inspection of the
+b5/b6/b7 recordings; b5's Ajahn Chah book assignment is BLOCKED
+(text not accessible on the opened page this session; see module and
+ledger); b2's task-frame re-verification (syllabus URL fetch-failed;
+rests on receipt B-V02). b5/b7/b8 are v1.2 after QC rounds 3-5.
+Baton STILL HELD at 05:11Z (fresh measured); release at T+58 will be
+recorded with the actual time.
+
 - 2026-10-26 (clock 05:08:54Z measured) worker-pplx-pragmatism-1026b
   (deg-wol-pragmatism, baton held): m3 advisor QC round 1 REPAIRS APPLIED AND
   PUSHED: Lecture VI opened and added as Reading B3 (truth-happens, verification,
@@ -1220,4 +1227,3 @@ aggregates elective thread (b9 flags it); content inspection of the
   2,530) and workload arithmetic fixed (258 minutes); rubric model responses
   added; M01-P06 'verified-video' label corrected in the ledger. m3 remains
   DRAFT NOT CLEARED, supervisor module-QC next.
-b5/b6/b7 recordings. Baton STILL HELD at 05:10Z; release at T+58 will be recorded with the actual time.
