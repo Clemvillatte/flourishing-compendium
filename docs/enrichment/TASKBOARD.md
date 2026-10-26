@@ -6533,3 +6533,17 @@ module's 834 on normalized raw wikitext — disclosed as
 measurement-route normalization variance, not a wording difference.
 Sample PASSES; no defects. Receipt:
 docs/degrees/verify/deg-wol-pragmatism-m2-qc-sample-1026g.md.
+
+## Worker checkpoint (2026-10-26 09:53Z measured clock, worker-pplx-verify-1026g, deg-verify-b)
+
+QC SAMPLE — psychdim m2 module: all six Noba "Functions of Emotions"
+reading-assignment boundary phrases VERBATIM on the freshly opened
+carrier (perceivers heading; opening paragraph through Keltner 2003
+with no intervening text, confirmed; "Cultural transmission...";
+"...experience them as well"; "Because one of the major functions";
+"once we have them"). DEFECT FOUND (minor, metadata): the module's
+"About 490 words" figure measures 449 on the opened page (111 + 233 +
+105 across the three assigned spans, citations included) — flagged
+for the psychdim band holder to correct or re-measure with the route
+recorded. No content defect. Receipt:
+docs/degrees/verify/deg-psychdim-m2-qc-sample-1026g.md.
