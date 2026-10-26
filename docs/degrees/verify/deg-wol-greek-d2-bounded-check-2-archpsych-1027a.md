@@ -14,9 +14,9 @@ From the Project Gutenberg catalogue (opened this session; the Politics full tex
 
 | Text | Open carrier | Notes |
 |---|---|---|
-| Nicomachean Ethics | Gutenberg **#8438** (Chase translation, "The Nicomachean Ethics of Aristotle") | full text read-opened this session |
+| Nicomachean Ethics | Gutenberg **#8438** ("The Nicomachean Ethics of Aristotle"; translator not shown on the page) | catalogue page directly fetched this session (v2): PD in USA, free EPUB3/text/HTML |
 | Politics | Gutenberg **#6762** (Ellis, "Politics: A Treatise on Government") | full text opened and read this session |
-| Poetics | Gutenberg **#1974** (Butcher, "The Poetics of Aristotle"); also **#6763** (Bywater, "Aristotle on the art of poetry") and **#20685** ("Poetics", translator not shown in the catalogue entry read) | catalogue entries read via search results this session |
+| Poetics | Gutenberg **#1974** (Butcher, "The Poetics of Aristotle") — catalogue page directly fetched this session (v2): PD, free downloads; also **#6763** (Bywater, "Aristotle on the art of poetry") and **#20685** ("Poetics", translator not shown) listed via search | |
 | Athenian Constitution | Gutenberg (in the Aristotle author list) | catalogue entry opened |
 
 The Perseus Digital Library (catalogued via the CUA research guide read this session) also carries Greek + English of Athenian Constitution, Eudemian Ethics, Metaphysics, Nicomachean Ethics, Poetics, Politics, Rhetoric, Virtues and Vices — consistent with the pool's Perseus route.
