@@ -203,3 +203,21 @@ registrations; content diffs against the kept copies show phrasing variants
 only. Chapter policy for new registrations still needs an owner ruling
 (primary-principle layer vs thematic placement) — flagged. Book TOC now
 504/504 pages with lines, no duplicates, no orphans; build green.
+
+## QC ROUND 2 — REMAINING ITEMS CLOSED (2026-10-26 ~00:40Z, supervisor-pplx-1026c)
+- Exact-target backlink validation: all 4097 story wikilinks outside
+  content/stories resolve to existing files with exact title match; zero
+  dangling IDs. (Pipe-alias links compare by target text; pass.)
+- Real text diffs of the four duplicate pairs (removed ST488-491 vs kept
+  ST411/412/413/417): same story, same sources, same verbatim quotes;
+  only the opening framing line differs (old template style vs current).
+  Removed copies recoverable at commit 0c97994 if the owner prefers the
+  earlier numbers.
+- Count reconciliation (git, pre-batch 0c97994^ vs HEAD): 468 -> 504
+  pages = +39 new numbers (ST307, ST369, ST410-430, ST492-507) - 3
+  removed numbers (ST489-491); ST488 reused for Rip Van Winkle (s1c-031).
+  Batch records corrected: "41 registrations" = 40 new pages (39 new
+  numbers + ST488) + 1 upgrade-flag registration undone in favour of the
+  ST004 upgrade.
+- Cosmetic: ST411/412/413/417 ran the framing line into the first
+  paragraph (register-tool template); blank line inserted, build green.

@@ -9,6 +9,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST 
 ---
 
 Biographical account · Henri Matisse, French painter, late work from 1941 · [Grand Palais](https://www.grandpalais.fr/en/node/2336)
+
 In 1941, Henri Matisse underwent a serious operation ([Grand Palais](https://www.grandpalais.fr/en/node/2336)). In 1942 he wrote: "J'avais tellement préparé ma sortie de la vie, qu'il me semble être dans une seconde vie." Translated here: "I had so prepared my departure from life that I seem to be in a second life." ([Grand Palais](https://www.grandpalais.fr/en/node/2336)) A museum exhibition later took his phrase as its name for the years that followed, and they were years of "immense energy and productivity" despite "physical weakness and advanced age" ([Louisiana Museum](https://www.absolutearts.com/artsnews/2005/08/12/33222.html)).
 
 In the late 1940s he turned almost exclusively to cut paper as his primary medium ([MoMA](https://www.moma.org/calendar/exhibitions/1429)). In *Jazz* (1947), he described the process: "Drawing with scissors. Cutting directly into vivid colour reminds me of the direct carving of sculptors" ([Christie's](https://www.christies.com/zh-cn/lot/lot-5650351)).
