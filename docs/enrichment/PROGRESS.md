@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-26 04:40 UTC (input revision `de47151f2`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 05:40 UTC.
+As of 2026-10-26 10:17 UTC (input revision `0106f95d1`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 11:17 UTC.
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -14,17 +14,17 @@ As of 2026-10-26 04:40 UTC (input revision `de47151f2`). Scope: principles and c
 
 ## Stories (separate pipeline)
 
-Published story pages (content/stories/ST*.md): 504. The per-lane rows below are LANE-REPORTED statuses from the lane state files, NOT reconciled against actual registrations (a lane may report "ready" for a story already published; the published-page count above is the reconciled figure). qc_pending = awaiting lane QC; other = returned or backlinks pending. Lanes are listed in STORIES-TASKBOARD.md; storytellers never touch concept/principle pages.
+Published story pages (content/stories/ST*.md): 511. The per-lane rows below are LANE-REPORTED statuses from the lane state files, NOT reconciled against actual registrations (a lane may report "ready" for a story already published; the published-page count above is the reconciled figure). qc_pending = awaiting lane QC; other = returned or backlinks pending. Lanes are listed in STORIES-TASKBOARD.md; storytellers never touch concept/principle pages.
 
 | Lane | Published (lane-reported) | Ready (lane-reported) | QC pending | Other |
 |---|---|---|---|---|
-| s1a | 0 | 0 | 16 | 59 |
+| s1a | 0 | 5 | 11 | 59 |
 | s1b | 0 | 0 | 0 | 38 |
 | s1c | 0 | 0 | 1 | 38 |
-| s1d | 2 | 0 | 2 | 6 |
+| s1d | 2 | 2 | 0 | 6 |
 | s1e | 0 | 0 | 0 | 8 |
 | s1f | 0 | 0 | 0 | 10 |
-| **All lanes** | **2** | **0** | **19** | **159** |
+| **All lanes** | **2** | **7** | **12** | **159** |
 
 ## Kernels and thinkers (enrichment programs)
 
@@ -68,7 +68,7 @@ Kernel pages live in `content/kernels/`; thinker pages in `content/thinkers/`. R
 ## Reconciliation notes
 
 - Recorded-done principle IDs with no current page: 16 (K115 Willingness practice, K159 Affect labeling, K371 Importance and confidence rulers, K373 Notice the fixing reflex, K374 What happened to you, K375 Setback not relapse, K376 Give complex affirmations, K377 Offer two or three options, K380 The Two Teachers, K381 Compassionate Thinking…)
-- Recorded-done concept titles with no current page (even after normalizing punctuation): 39 (2026-10-25 publish-then-review pass: advisor QC fixes applied (unsupported opposition removed, resource-account framing neutralized, Logie 2016 original opened and quoted, 5 on-theme cards linked), checks green, published, 2026-10-26 00:10:45-00:13:00Z (baton claim e87c116d5 to close b7203461d) STEP 0 scope check (worker-pplx-dosr1-1026a): all four assigned dossiers are ALREADY AT the 3-5 bar — the below-bar list in PIPELINE-2026-10-26.md (from OPERATIONS.md supervisor QC entry 7, 2026-10-25) is STALE for this band; the repairs landed 2026-10-25 via the dos19/dos23/dos26/dos30 lanes. No repair needed; band closed with no page edits., 2026-10-26 00:20Z STEP 0 scope check (sup-1026b-worker): all four assigned dossiers are ALREADY AT the 3-5 bar — the QC-7 below-bar list is STALE for this band too; no disagreement repairs needed. Incidental repair landed: story-card links re-pointed from the 23 removed duplicate ST copies to the kept first-registration copies (commit 424c8b9d9) after the supervisor duplicate reconciliation; dossier_check exit 0 for all four after the re-point; app.js data rebuilt., 2026-10-26 00:24Z STEP 0 scope check (sup-1026b-worker): all four assigned dossiers are ALREADY AT the 3-5 bar (3 substantiated questions each) — QC-7 list stale for this band; no disagreement repairs; band closed. dossier_check exit 0 all four (affect/attention card links already re-pointed to kept ST copies this session)., 2026-10-26 00:27Z STEP 0 scope check (sup-1026b-worker): all four assigned dossiers are ALREADY AT the 3-5 bar (3-4 substantiated questions each; right-livelihood carries 4) and the OLD-MAP CONVERSIONS ARE LANDED — no map-format bodies remain (creation 3, creativity 3, procrastination 3; creation's 1-question gap repaired). QC-7 list stale for this band; no edits; band closed. dossier_check exit 0 all four; registry published all four.…)
+- Recorded-done concept titles with no current page (even after normalizing punctuation): 43 (2026-10-25 publish-then-review pass: advisor QC fixes applied (unsupported opposition removed, resource-account framing neutralized, Logie 2016 original opened and quoted, 5 on-theme cards linked), checks green, published, 2026-10-26 00:10:45-00:13:00Z (baton claim e87c116d5 to close b7203461d) STEP 0 scope check (worker-pplx-dosr1-1026a): all four assigned dossiers are ALREADY AT the 3-5 bar — the below-bar list in PIPELINE-2026-10-26.md (from OPERATIONS.md supervisor QC entry 7, 2026-10-25) is STALE for this band; the repairs landed 2026-10-25 via the dos19/dos23/dos26/dos30 lanes. No repair needed; band closed with no page edits., 2026-10-26 00:20Z STEP 0 scope check (sup-1026b-worker): all four assigned dossiers are ALREADY AT the 3-5 bar — the QC-7 below-bar list is STALE for this band too; no disagreement repairs needed. Incidental repair landed: story-card links re-pointed from the 23 removed duplicate ST copies to the kept first-registration copies (commit 424c8b9d9) after the supervisor duplicate reconciliation; dossier_check exit 0 for all four after the re-point; app.js data rebuilt., 2026-10-26 00:24Z STEP 0 scope check (sup-1026b-worker): all four assigned dossiers are ALREADY AT the 3-5 bar (3 substantiated questions each) — QC-7 list stale for this band; no disagreement repairs; band closed. dossier_check exit 0 all four (affect/attention card links already re-pointed to kept ST copies this session)., 2026-10-26 00:27Z STEP 0 scope check (sup-1026b-worker): all four assigned dossiers are ALREADY AT the 3-5 bar (3-4 substantiated questions each; right-livelihood carries 4) and the OLD-MAP CONVERSIONS ARE LANDED — no map-format bodies remain (creation 3, creativity 3, procrastination 3; creation's 1-question gap repaired). QC-7 list stale for this band; no edits; band closed. dossier_check exit 0 all four; registry published all four.…)
 - Concept records are matched to pages on alphanumeric-normalized titles, so renames between colon and dash forms do not show as unmatched; true renames or deletions appear above and are counted as done, not as backlog.
 
 Generated by `python3 scripts/enrich_progress_report.py` — read-only; never touches the queues.
