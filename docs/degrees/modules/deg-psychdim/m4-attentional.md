@@ -1,9 +1,12 @@
 # m4-attentional: Giving Attention a Useful Direction
 
-<!-- STATUS: DRAFT, NOT CLEARED. Degree deg-psychdim.
-Owner degree-4376b4ec. Current source evidence: degree ledger,
-verify/deg-psychdim-m4-video-audit-49bf153e.md and attention-measurement
-boundaries receipt. Independent module-QC owed. -->
+<!-- STATUS: MODULE-QC PASS, supervisor, 2026-10-26. Independent decision at
+68acd6f1 (reviews reviews/deg-psychdim-m4-window-closure-supervisor-1026e.md and
+verify/deg-psychdim-m4-window-supervisor-decision-1026h.md: exact-window evidence
+independently reproduced); whole-degree QC PASS and gate PASS refreshed;
+integration/publication per INTEGRATION.md. Current source evidence: degree
+ledger, verify/deg-psychdim-m4-video-audit-49bf153e.md and attention-measurement
+boundaries receipt. -->
 
 When demands pile up, "pay attention" can sound like an accusation rather
 than help. This module replaces that instruction with smaller questions:

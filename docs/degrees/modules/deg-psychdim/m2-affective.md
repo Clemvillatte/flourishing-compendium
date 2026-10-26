@@ -1,9 +1,11 @@
 # m2-affective: Understanding Emotion Without Fighting Yourself
 
-<!-- STATUS: DRAFT, NOT CLEARED. Degree: deg-psychdim.
-Production owner: degree-4376b4ec. Source receipts and exact counts:
-ledgers/deg-psychdim.md; verify/deg-psychdim-m2-video-audit-49bf153e.md.
-Independent module review and complete-degree publication gates owed. -->
+<!-- STATUS: MODULE-QC PASS, supervisor, 2026-10-26. Independent decision at
+b1f5533f (review reviews/deg-psychdim-m2-supervisor-2026-10-26.md, changed-hash
+section: assessment-only delta rereview); whole-degree QC PASS and gate PASS
+refreshed; integration/publication per INTEGRATION.md. Source receipts and exact
+counts: ledgers/deg-psychdim.md;
+verify/deg-psychdim-m2-video-audit-49bf153e.md. -->
 
 An uneasy feeling arrives before you know what it means. Perhaps a message
 seems dismissive, a deadline suddenly matters, or you wake already tired.

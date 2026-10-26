@@ -1,7 +1,9 @@
 # m7-overt-behavioural: Understanding a Repeated Behaviour
 
-<!-- STATUS: DRAFT, NOT CLEARED. Owner degree-4376b4ec.
-Independent module-QC owed. Bounded source/video preparation in
+<!-- STATUS: MODULE-QC PASS, supervisor, 2026-10-26. Independent decision at
+97857e98 (review reviews/deg-psychdim-m7-supervisor-2026-10-26.md; two
+nonblocking notes); whole-degree QC PASS and gate PASS refreshed;
+integration/publication per INTEGRATION.md. Bounded source/video preparation in
 verify/deg-psychdim-m7-video-audit-49bf153e.md. -->
 
 You put a book where you will see it, then discover that the first

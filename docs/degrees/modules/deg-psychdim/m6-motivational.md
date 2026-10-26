@@ -1,8 +1,11 @@
 # m6-motivational: Motivation and Following Through
 
-<!-- STATUS: DRAFT, NOT CLEARED. Owner degree-4376b4ec.
-Outcome-specific video receipts: verify/deg-psychdim-m6-video-audit-49bf153e.md.
-Independent adviser/module-QC owed; no publication clearance. -->
+<!-- STATUS: MODULE-QC PASS, supervisor, 2026-10-26. Independent decision at
+b2674a0a (reviews reviews/deg-psychdim-m6-delta-supervisor-1026e.md and the
+1026h delta review: amotivation repair verified; production-adviser ACCEPT
+recorded in verify/deg-psychdim-m6-adviser-accept-1026d.md); whole-degree QC
+PASS and gate PASS refreshed; integration/publication per INTEGRATION.md.
+Outcome-specific video receipts: verify/deg-psychdim-m6-video-audit-49bf153e.md. -->
 
 A goal can matter deeply and still be difficult to pursue. You might
 value a friendship yet find arranging a call exhausting, or enjoy

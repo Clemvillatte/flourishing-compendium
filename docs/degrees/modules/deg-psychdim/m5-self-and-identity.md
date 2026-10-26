@@ -1,9 +1,12 @@
 # m5-self-and-identity: Self-Concept and Identity
 
-<!-- STATUS: DRAFT, NOT CLEARED. Degree deg-psychdim.
-Owner degree-4376b4ec. Source evidence in degree ledger and
+<!-- STATUS: MODULE-QC PASS, supervisor, 2026-10-26. Independent decision at
+c38a8d6d (reviews reviews/deg-psychdim-m5-delta-supervisor-1026e.md and the
+1026h delta review: alignment repairs verified, McAdams window closed);
+whole-degree QC PASS and gate PASS refreshed; integration/publication per
+INTEGRATION.md. Source evidence in degree ledger and
 verify/deg-psychdim-m5-video-audit-49bf153e.md, plus the SCCS instrument
-receipt. Independent module-QC owed; no degree publication clearance. -->
+receipt. -->
 
 "I'm just not that kind of person" can protect an important boundary,
 or close a door before you have examined it. This module helps you ask

@@ -1,8 +1,11 @@
 # m8-integrative-capstone: Psychological Dimensions in Daily Life
 
-<!-- STATUS: DRAFT, NOT CLEARED. Owner degree-4376b4ec.
-L4 capstone specification, not a claim that any learner has executed it.
-Independent module/whole-degree review owed. No integration clearance. -->
+<!-- STATUS: MODULE-QC PASS (capstone specification), supervisor, 2026-10-26.
+Independent decision at f26f84ce (review
+reviews/deg-psychdim-m8-supervisor-2026-10-26.md; not evidence of learner
+execution); whole-degree QC PASS and gate PASS refreshed; integration/publication
+per INTEGRATION.md. L4 capstone specification, not a claim that any learner has
+executed it. -->
 
 Choose one ordinary pattern you would like to understand more wisely.
 Perhaps you postpone a message you care about, lose the first few

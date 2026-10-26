@@ -1,9 +1,10 @@
 # m3-cognitive: Thinking More Clearly When the Mind Fills Gaps
 
-<!-- STATUS: DRAFT, NOT CLEARED. Degree deg-psychdim.
-Owner degree-4376b4ec. Evidence and source boundaries in the degree
-ledger and verify/deg-psychdim-m3-video-audit-49bf153e.md.
-Independent source/module review remains owed. -->
+<!-- STATUS: MODULE-QC PASS, supervisor, 2026-10-26. Independent decision at
+9ff7b598 (review reviews/deg-psychdim-m3-supervisor-2026-10-26.md; three
+nonblocking notes); whole-degree QC PASS and gate PASS refreshed;
+integration/publication per INTEGRATION.md. Evidence and source boundaries in the
+degree ledger and verify/deg-psychdim-m3-video-audit-49bf153e.md. -->
 
 You leave a conversation certain you heard a criticism. Later, the
 message on your phone does not quite match the version in your head.
