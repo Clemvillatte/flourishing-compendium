@@ -80,6 +80,14 @@ No SEP/Wikipedia/IEP/Britannica URLs were found in the five rem6 D1 files
 (rg sweep: no occurrences of those domains as rows or assignments).
 Syllabus-anchored topic maps are unaffected by the teaching-content re-target.
 
+## Exact tested URLs and recorded outcomes
+
+- deg-psychdim: https://dox.utdallas.edu/syl166067 (200); https://sasn.rutgers.edu/sites/default/files/2025-02/Spring.2025_psych.of_.emotions.syllabus.pdf (200); https://psychology.columbia.edu/sites/psychology.columbia.edu/files/content/Motivation%20Syllabus%20.pdf (200); https://sites.psych.ualberta.ca/upa/wordpress/wp-content/uploads/2021/06/PSYCO-447_505-Jennifer-Passey.pdf (200); https://www.macalester.edu/psychology/wp-content/uploads/sites/46/2022/11/Health-Psych-syllabus-F2022.pdf (404); replacement https://www.macalester.edu/psychology/wp-content/uploads/sites/585/2022/11/Health-Psych-syllabus-F2022.pdf (200)
+- deg-psychology-101 (voided practicum, record only): https://apps.tamusa.edu/course-information/syllabi/Spring2026/PSYC-2301-General-Psychology-Syllabus-2026-Spring.pdf (200); https://www.redwoods.edu/fs/syllabi/psych/2024S-PSYCH-1-V6001-Herrera.pdf (200); https://ruoncampus.rutgers.edu/sites/default/files/general-psychology-syllabus---fall-2023.pdf (200)
+- deg-philosophy: https://philife.nd.edu/assets/317166/fullsize/phil_221_fall11_unified_syllabus.pdf (DNS resolution failure from this environment); https://classics.ufl.edu/wp-content/uploads/sites/209/Stoicism_syllabus.pdf (200); https://webapp4.asu.edu/bookstore/viewsyllabus/2231/17163/pdf (200; JS app shell — see the philosophy content-audit receipt); https://www.ocf.berkeley.edu/~rwl/lib/attachments/teaching/161/course-syllabus.pdf (200); follow-up https://wesfiles.wesleyan.edu/courses/syllabi/1119-sangle-013195-321.pdf (DNS resolution failure from this environment)
+- deg-therapeutic: https://myjcu.johncabot.edu/syllabus/syllabus_print.aspx?IDS=25820 (200); https://www.abct.org/wp-content/uploads/2021/04/Cognitive_Behavioral_Therapy_with_Adults_I_Renshaw_George_Mason_University.pdf (200); https://utdirect.utexas.edu/apps/student/coursedocs/courses/nlogon/download/6125981/ (200)
+- deg-qigong (voided practicum, record only): https://syllabus.stanford.edu/syllabus/downloadSyllabus?courseId=Sp26-FAMMED-213-01 (200); https://www.nqa.org/certification (200); https://instituteofintegralqigongandtaichi.org/qigong_taichi_training/25-006PTO_TCEPL.html (200)
+
 ## Flagged to the rem6 lane owner (sup-1026r) — not repaired here (read-only)
 1. deg-psychdim: Macalester syllabus URL returned 404 at HEAD; live
    replacement candidate found and status-checked (above).

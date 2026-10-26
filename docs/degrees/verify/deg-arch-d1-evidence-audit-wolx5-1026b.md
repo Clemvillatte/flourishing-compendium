@@ -19,21 +19,14 @@ own citation list and is authoritative.
 
 ## Results: 21/21 URLs returned HTTP 200 at HEAD
 
-Per-degree URL assignment (regenerated from each D1 file; the bracketed
-counts are the counts in each file, all of which were tested):
-- daoism (3): Wabash Center Daoism-Fischer, DePauw Taoism goble-290b,
-  UF CHT3513 Taoism and Chinese Culture — all HTTP 200
-- buddhism (3): UF REL 2341 Intro to Buddhism, UCF REL3340W, UVic
-  PHIL 312 Goto-Jones Buddhist Philosophy — all HTTP 200
-- greek (3): Yale PHIL S125E (summer.yale.edu), Utah PHIL 3100, Moravian
-  PHIL 241 — all HTTP 200
-- pragmatism (3): Georgetown Blattner prag index, Duke ReadingList.htm,
-  UC San Diego PHIL 232 Epistemology — all HTTP 200
-- existentialism (5): UCLA PHILOS 177A, Stanford jsabol readings,
-  UVic PHIL 211 Belmonte, UCCS Existentialism Fall 2022, UNO download —
-  all HTTP 200
-- positive (4): Sydney PSYC4730, Charter Oak PSY 340, Metro State PSYC 347,
-  Aberystwyth applied positive psychology — all HTTP 200
+Exact tested URLs and recorded outcomes (all HTTP 200 at HEAD):
+
+- daoism: https://wabashcenter.wabash.edu/storage/assets/syllabi/Daoism-Fischer.pdf (200); https://www.depauw.edu/files/resources/goble-290b-taoism-syl-sp-2012.pdf (200); https://languages.ufl.edu/wp-content/uploads/sites/119/CHT3513-085H-wang.pdf (200)
+- buddhism: https://religion.ufl.edu/wp-content/uploads/sites/194/REL-2341-Intro-to-Buddhism-Fall-2025-Poceski.pdf (200); https://apps.cah.ucf.edu/common/files/syllabi/REL33400W60Spring2023.pdf (200); https://www.uvic.ca/humanities/philosophy/assets/docs/c.goto-jonesphil312_buddhist-phil_spring2026.pdf (200)
+- greek: https://summer.yale.edu/sites/default/files/uploaded-files/syllabi/phil-s125e-updated.pdf (200); https://class-tools.app.utah.edu/syllabus/1258/19424/3100+Fall+2025+Syllabus.pdf (200); https://amos.moravian.edu/syllabiproject/pdfs/201570/phil241.pdf (200)
+- pragmatism: https://faculty.georgetown.edu/blattnew/prag/index.shtml (200); https://public.econ.duke.edu/~kdh9/Courses/Pragmatism/ReadingList.htm (200); https://hh-philosophy.ucsd.edu/_files/courses/25spring/Sher_Gila_SP25_Phil%20232_Epistemology.pdf (200)
+- existentialism: https://philosophy.ucla.edu/wp-content/uploads/2026/03/PHILOS-177A-Syllabus-Molina-Alonso.pdf (200); https://web.stanford.edu/~jsabol/existentialism/readings.html (200); https://www.uvic.ca/humanities/philosophy/assets/docs/courseoutlines/2023_fall/phil-211-belmonte.pdf (200); https://philosophy.uccs.edu/sites/default/files/inline-files/Syllabus.Existentialism.Fall2022.docx (200); https://www.uno.edu/media/39046/download (200)
+- positive: https://www.sydney.edu.au/units/PSYC4730/2026-S1C-OL-CC (200); https://www.charteroak.edu/bb/syllabi/psy/psy_340_syllabus.php (200); https://www.metrostate.edu/academics/courses/psyc-347 (200); https://www.aber.ac.uk/en/lifelong-learning/psychologyandphilosophy/psychology-and-philosophy-courses/applied-positive-psychology-part-1-xn16710/ (200)
 
 Repository revisions inspected at recheck (via git log -1; the original
 audit revision was not recorded): deg-wol-daoism @ 9699744,
