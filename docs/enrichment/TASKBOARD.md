@@ -1,3 +1,18 @@
+## Worker checkpoint (2026-10-26 14:52Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+NINTH QC SAMPLE (taper window, bounded): gratitude.md and
+leisure.md. Both: dossier_check OK. leisure: 47 checked / 2 not found
+— the PMC10071223 span RE-VERIFIED BY EYE this session via the fetch
+route (PMC serves recaptcha to curl/urllib): "seeks to widen the
+scope of the study of leisure from the simple work-leisure binary
+to encompass eleven categories of time-use" verbatim (Veal, Everyday
+life and Everyday Leisure, 2023). The second leisure miss and ALL 7
+gratitude misses were NOT re-verified this session (time-boxed; the
+gratitude misses include at least one apparent embedded-quote-
+fragment of the verifier's extraction class, unconfirmed) — both
+left flagged for the next verification pass. No dossier text changed.
+Files touched: this checkpoint only.
+
 ## Worker checkpoint (2026-10-26 14:45Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 EIGHTH QC SAMPLE: fear.md and happiness.md. Both: dossier_check OK.
