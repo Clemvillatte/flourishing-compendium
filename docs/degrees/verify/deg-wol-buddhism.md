@@ -512,3 +512,7 @@ Timestamp correction (2026-10-26, measured 04:54Z): the clock labels first writt
 
 **QC — b2 task-verb quote vs Thanissaro (checked 2026-10-26T05:02Z):** b2 line ~56 presents the four tasks in quotes as "to be comprehended... to be abandoned... to be realized... to be developed" citing Thanissaro's SN 56.11. In Thanissaro's translation (re-fetched, AtI sn56.011.than), the third task reads "This noble truth of the cessation of stress is **to be directly experienced**" — not "to be realized" ("realized" is Sujato's/other translations' verb). Minor quote-accuracy defect: fix by changing the third verb to "directly experienced" or adjusting the citation. Flagged for the owner; first three truths' opening structure and the other three verbs confirmed verbatim on the opened page.
 
+**B-V12 — b9 sources corroborated (2026-10-26T05:02Z):**
+- Thanissaro "101008 Hindrances" PcR_fI6p9k8: oembed title matches ("101008 Hindrances — Thanissaro Bhikkhu — Dhamma Talks", uploader "Dhamma Talks by Thanissaro Bhikkhu"); 25:00 watch-page total per owner (b1 oembed pair; credentials buddho.org already verified in B-T01 family).
+- Nyanaponika Thera, *The Five Mental Hindrances and Their Conquest* (Wheel No. 26, BPS; AtI wheel026): full text free on opened page; © 1994 Nyanaponika Thera, BPS 1993; free-of-charge redistribution license with 50-copy reprint limit; five hindrances with Pali names and countermeasures confirmed. Corroborates owner's b9 table. No paywall.
+
