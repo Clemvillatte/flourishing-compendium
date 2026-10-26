@@ -254,6 +254,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST496 — Zhuangzi and Huizi on the Bridge over the Hao]]
     - [[ST426 — Darwin Asks Lyell Whether He Can Publish Honourably]]
     - [[ST422 — Marshall Drinks the Broth]]
+    - [[ST514 — The Squirrel and the Camping Party]]
   - [[ST-S03.03 — III.3 Inquiry and Experimental Living]]
     - [[ST361 — Darwin Pictures the Sofa and the Smoky London House]]
     - [[ST112 — Edison Burns the Filaments]]

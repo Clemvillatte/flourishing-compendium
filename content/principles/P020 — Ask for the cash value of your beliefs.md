@@ -44,7 +44,7 @@ And gives the working definition:
 
 ## Stories
 - [[ST433 — The Squirrel at the Camp|433. The Squirrel at the Camp]]
-
+- [[ST514 — The Squirrel and the Camping Party|514. The Squirrel and the Camping Party]]
 ## Psychology parallels
 
 - **[[Belief evaluation in CBT|Belief evaluation in CBT]]** (Beck; Hayes et al., 2011)
