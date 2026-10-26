@@ -1,3 +1,22 @@
+## 2026-10-26 ~12:40Z — supervisor-1026z: PHASE A/D DATA PASS + DURATIONS LANDED; AUDIT 159 -> 4 (only wiki_readings left)
+
+Replayed the deg-fix-schema assignment-schema pass on the merged worker state
+(manifest-driven roles/segments/locators, integrated revisits and capstone
+returns, demoted extras, band-title strips, 27 module-doc prose descriptions,
+4 Walk-of-Life openingNotes, PRAG-M3-02/03/04 source records, BUD-B5-02
+duration) and backfilled the 7 missing psychdim video durations from live
+YouTube pages (receipt: verify/deg-psychdim-video-durations-1026z-2026-10-26.md;
+titles cross-checked, windows verified inside totals, PD-M3-03 corrected to
+0:59:43). Three rebase rounds reconciled the parallel worker pushes; no
+worker's application lost. Evidence: node --check OK, academy-display 7/7,
+degrees_learner_audit 159 FAILs at session start -> 4 at push (all four are
+the wiki_readings owner decision, Phase C.5; the finite-scope candidate check
+is the next concrete step). Receipt:
+docs/degrees/integration/receipt-1026z-schema-reconciliation-2026-10-26.md.
+Note: daoism m2/m3 manifest entries say role 'teach' for the Eno re-reads; the
+published refs carry role 'revisit' per the audit's reuse rule — manifests may
+want the one-word correction.
+
 ## 2026-10-26 ~11:30Z — degrees-strategist: OWNER-COMMISSIONED LEARNER-EXPERIENCE AUDIT + REPAIR PLAN (start here)
 
 The owner reviewed the four published degrees and found the learner experience
