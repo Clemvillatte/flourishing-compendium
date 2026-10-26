@@ -16,8 +16,10 @@ schema gap is a missing assignment/segment field (module files print precise
 windows and word counts, the data block cannot express them, so integrators
 repeated full videos or dropped readings); pragmatism m3's primary texts
 (James, The Will to Believe; Pragmatism Lectures II/VI) are missing from the
-data block entirely; psychdim's PD-M7-10 (Heidbreder) is not traced to an
-approved assignment — trace or remove with evidence. Repair order:
+data block entirely; psychdim's PD-M7-10 is RESOLVED: it is the Vohs 2021
+author manuscript, doc-assigned with a bounded reading — the integration
+mislabeled its title ("Heidbreder, consciousness review") and dropped the
+locator; retitle + attach the locator. Repair order:
 0 coverage matrix + manifests → A segments schema → B title/description
 hygiene → C content completion (capstone notes, openingNotes, MOD_PROMPTS) →
 D durations/locators → E learner-view pass + receipts. Suggested lanes:

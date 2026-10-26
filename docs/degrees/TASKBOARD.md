@@ -18,7 +18,7 @@ Binding for this wave:
   the defect is in the app.js data block and renderer. Repair order:
   **Phase 0 (curriculum coverage matrix + per-degree manifests)** →
   A (assignment/segments schema + renderer) → B (title/description hygiene) →
-  C (content completion: pragmatism m3 readings, PD-M7-10 provenance trace,
+  C (content completion: pragmatism m3 readings, PD-M7-10 retitle (resolved: Vohs 2021 mislabeled),
   capstone notes, openingNotes, MOD_PROMPTS) →
   D (duration/locator backfill) → E (learner-view pass + receipts).
 - Suggested lanes: `deg-fix-schema` (A), `deg-fix-text` (B+D),
