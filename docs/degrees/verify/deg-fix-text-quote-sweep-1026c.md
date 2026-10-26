@@ -12,3 +12,17 @@ Method: every double-quoted span of five or more words in the module docs of the
 | Buddhism b2 | Harvey "Craving" gloss | Doc paraphrase did not match the source; replaced with the exact wording (see deg-fix-text-count-corrections-1026c.md) |
 
 Not re-checked here: quotations from the lecture videos in the Daoism m1 and m4 docs (Komjathy, Ziporyn) and Pragmatism m3 (Misak), which depend on transcripts earlier lanes read.
+
+## Numerical claims in psychdim module docs
+
+Each figure below was read on the live source page or its downloaded full text in this session and matches the doc.
+
+| Doc location | Claim | Source and result |
+|---|---|---|
+| m1 worked and faded examples | Intrinsic motivation predicting adherence: beta 0.216 [0.13, 0.30]; 0.099 [0.04, 0.20]; 0.080 [0.01, 0.15]; 577 participants completed all four surveys; adherence first asked in the follow-up surveys; association primarily between persons | [Woolley, Giurge and Fishbach](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/): all figures and the quoted between-persons sentence match; the Method text puts motivation and expected duration in the first survey and the adherence measure in follow-ups |
+| m6 | Study 4: 933 invited back, 763 after exclusions, 11.55 vs 9.18 products, d = 0.21 [0.07, 0.36], zero scanners excluded | Same article: all match |
+| m7 | Dang: g = 0.38 [0.31, 0.45]; trim-and-fill 0.24 [0.16, 0.32] | [Dang 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6013521/) Table 2: match; heterogeneity Q(141) = 358.87, I2 = 60.67 percent |
+| m7 | Vohs and colleagues: 36 laboratories, 3,531 people, 1,068 excluded, d = 0.06 not significant, full sample d = 0.08 significant | [Brunel full text](https://bura.brunel.ac.uk/bitstream/2438/28246/1/FullText.pdf): "k = 36; N = 3531", "n = 1068", "d = 0.06", "d = 0.08": match |
+| m7 | Singh and colleagues: 20 studies, 2,601 participants, 11 high risk of bias, four reported formation time, pooled pre/post standardised difference | [Singh et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/): match (SMD = 0.69, 95% CI 0.49 to 0.88) |
+
+One wrinkle: the PMC identifier PMC7250393 is the Reed, Combs and Segerstrom article on self-regulation structure, which is correctly used for PD-M7-07; the Vohs et al. figures come from the Brunel PDF (PD-M7-10), as the doc links.
