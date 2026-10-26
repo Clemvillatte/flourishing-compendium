@@ -2,7 +2,7 @@
   "band": "deg-wol-daoism",
   "kind": "degree",
   "holder": null,
-  "phase": "gate1-cleared-m1-m2-m3-written-advisor-qc-accepted-supervisor-module-qc-pending",
+  "phase": "gate1-cleared-m1-m3-accepted-m4-drafted",
   "modules": {
     "m1-orientation": {
       "file": "docs/degrees/modules/deg-wol-daoism/m1-orientation.md",
@@ -24,8 +24,15 @@
       "advisory_qc_rounds": 5,
       "supervisor_module_qc": "PENDING",
       "status": "drafted and accepted; advisor content/pedagogical QC accepted in round 5; supervisor module-QC pending"
+    },
+    "m4": {
+      "file": "docs/degrees/modules/deg-wol-daoism/m4-yangsheng-neiye.md",
+      "advisory_qc": "PENDING",
+      "advisory_qc_rounds": 0,
+      "supervisor_module_qc": "PENDING",
+      "status": "drafted this session (wave 3); advisor QC round 1 submitted; supervisor module-QC pending; m5 not started"
     }
   },
-  "notes": "2026-10-26 (worker-pplx-degdaosim-1026a): m1 accepted by advisor QC in round 6; m2 accepted by advisor QC in round 5; m3 accepted by advisor QC in round 5; supervisor module-QC pending on all three; m4 and m5 not started",
-  "updated": "2026-10-26T05:35:29Z"
+  "notes": "2026-10-26 (supervisor-pplx-1026c-daoism, wave 3): m4 written from the verified open carriers (Lundao 5 whole talk; Neiye Linnell Gutenberg); Neiye elective dependency attached; advisor QC round 1 in progress; m5 not started, next baton owner takes m5 first",
+  "updated": "2026-10-26T05:56:19Z"
 }

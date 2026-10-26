@@ -1035,3 +1035,51 @@ attach a verified source or keep the promise narrowed; (2) gate review
 of m4/m5 when they land; (3) supervisor module-QC owed on m1–m3;
 (4) whole-degree final review/integration/publication closed until the
 five-module set is complete.
+## m4 production (2026-10-26, supervisor-pplx-1026c-daoism, deg-wol-daoism baton)
+
+WAVE 3 per the TASKBOARD allocation (agent 3: write m4 and m5; m1-m3
+not rewritten). Module m4-yangsheng-neiye.md written to the
+curriculum-design skill standard: L3 Independent analysis; four
+outcomes each taught, practised and assessed; one worked demonstration
+on Neiye section 12 with the scaffolding faded relative to m3; rubric
+with strong and rejection examples per criterion; workload arithmetic
+from measured components (video 53:43 whole-talk on the standing
+verified record; 550 assigned Neiye words measured on the fetched
+text; 2,142 words module prose measured after the edit; total about
+185 minutes); no paywalled content; prose written against the
+humanizer skill.
+
+### Sources opened this session (2026-10-26, UTC times as fetch bounds)
+
+| URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
+| https://www.gutenberg.org/cache/epub/38585/pg38585-images.html | 2026-10-26, about 06:14Z fetch | supervisor-pplx-1026c-daoism | Project Gutenberg #38585 "Study of Inner Cultivation", Linnell translation of Guanzi ch. 49: fetched and read; assigned sections 1, 2, 3 and 12 read verbatim (word counts measured 170, 135, 103, 142); translator Bruce R. Linnell, PhD stated on the page; CC BY-NC-ND 3.0 license stated; no paywall, no login; confirms the D-T04 carrier record |
+| https://youtubetotranscript.com/transcript?v=WDwPln1CczI | attempted 2026-10-26, about 06:15Z; service unreachable (fetch 503, direct fetch 403) | supervisor-pplx-1026c-daoism | no new read; recorded so the module's lecture quotations are transparently grounded: every lecture quotation in m4 rests verbatim on the project's standing transcript receipts (verify/deg-contemplative.md M01-D08 coverage confirmation and the m1 ledger round-3 entry) and no quotation beyond those records is used |
+| https://www.youtube.com/watch?v=WDwPln1CczI | 2026-10-26, about 06:16Z fetch | supervisor-pplx-1026c-daoism | watch page fetched from this environment; the served page is a JS shell and the duration is not extractable from it; the 53:43 printed duration stands on the standing verified record (watch page, 2026-10-25); no new duration claim made |
+
+### Verification outcomes
+
+| source_id | status | evidence | date |
+|---|---|---|---|
+| Neiye, Linnell translation (Gutenberg #38585) | verified text | this session's fetch: full translation present, translator stated, license stated, free access; assigned sections read and quoted as printed; the no-derivatives license limit is respected (quotation only, no adapted excerpting) | 2026-10-26 |
+| M01-D08 Lundao 5 | verified-video (standing record; unchanged) | identity, access, duration and content coverage per the standing records; credentials on the Daoist Foundation institutional page (m1 pass); this session added no new content claim | 2026-10-26 |
+
+### Gap register update
+
+- The m1 gap register's Neiye elective dependency is now ATTACHED: m4
+  assigns the Linnell Gutenberg carrier (verified open, no paywall),
+  and the scope doc's elective deep dive is delivered as the module's
+  primary text. The Roth Original Tao dependency (owner library,
+  copyrighted) is no longer needed for the walk's practice-side
+  promise; m4 quotes Linnell's wording, not Roth's, per the D-T04
+  carrier note's instruction.
+- Lundao 5 transcript timestamps: the standing coverage receipts carry
+  no timestamps; m4 therefore assigns the whole talk (53:43) and makes
+  no segment-placement claim, the same honesty convention as m3.
+
+### Module status
+
+m4-yangsheng-neiye: DRAFT, NOT CLEARED; advisor QC pending (this
+session's advisor round below); supervisor module-QC pending per
+WAVE 3. m5 (L4 capstone) NOT STARTED this session; the next owner
+of this baton takes m5 first.
