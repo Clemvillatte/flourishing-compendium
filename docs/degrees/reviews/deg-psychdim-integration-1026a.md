@@ -101,3 +101,20 @@ Flags for the supervisor (spec says flag, not guess):
 4. Browser-based QA suites time out in this sandbox on the unmodified
    baseline (verified by stashing); re-run them in a Playwright-capable
    environment.
+
+## Post-publication repair (same session)
+
+The publication flip (commit 6ff178ecc, supervisor) accidentally replaced
+the app.js data block with the EARLIER pre-reconcile PD-S splice (a
+stale local copy), while the canonical package
+(docs/degrees/integration/deg-psychdim-data.json, PD-M ids) on main was
+untouched — leaving app.js and the package inconsistent, and the live
+deploy serving the old ids/titles/durations. Detected by a live-site
+render check in the cloud browser (module cards showed the old titles
+and durations). Repaired in commit 72cf0a19f: data block re-spliced
+from the canonical PD-M package (idempotent strip of PD-S and PD-M,
+re-apply), degree status "complete" preserved, node --check,
+academy-display.test.cjs (7/7) and test_academy_migration.py (15/15)
+re-run on the repaired file. Lesson recorded for all integrators: after
+any concurrent push, rebuild from origin/main before editing app.js,
+and re-verify the live deploy after any flip.
