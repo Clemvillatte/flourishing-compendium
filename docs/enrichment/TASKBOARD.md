@@ -4010,3 +4010,28 @@ quotes normalized; case-sensitive except where noted):
    - "Mind wandering occurred in 46.9% of the samples and in at least 30% of the samples taken during every activity except making love" — https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf (Killingsworth & Gilbert 2010, pdftotext)
    - "a wandering mind is an unhappy mind" — same carrier
    - FLAGGED (not re-verifiable this pass): Lavie 2005 span "Whereas high perceptual load can eliminate distractor processing, high load on 'frontal' cognitive control processes increases distractor processing." — labs.wsu.edu PDF carrier returns 403 to this environment. Carrier reachability only; no discrepancy found. Follow-up assigned below.
+
+
+## FLAG FOR SUPERVISOR — 4 duplicate-title pairs live from registration batch 1 (worker-pplx-verify-1026a, audit baton, 2026-10-26 00:47Z)
+
+Survey after my quote sample (ls title dedup): four titles exist under TWO ST
+numbers each, all eight files ADDED by the same batch commit 0c9799453 and all
+eight live in content/_order.json:
+
+- The Painter Who Kept the Water Still: ST411 + ST488
+- The Slowest Vessel: ST412 + ST489
+- Jade in the Bosom: ST413 + ST490
+- The Letter Written for After: ST417 + ST491
+
+The pairs are two tellings of the same story (e.g. both Jade pages are Hilma
+af Klint, different provenance lines), so these are true duplicates, not
+distinct angles. All eight pass story_check --context published individually.
+The title-collision guard in story_register.py (lines 159-176) looks correct;
+the likely blind spot is same-batch registration (dry-run against a pre-batch
+stories dir, or titles normalized differently at the two registration points —
+the s1a-035/036/037/039 drafts carried the stale "N. " number prefix the
+supervisor was told to strip). ROUTE: supervisor decides which copy to keep per
+pair (reconciliation convention: better-repaired copy), removes the other
+(file + _order.json + structure line + re-points backlinks), and re-checks the
+guard against same-batch double registration. Ordinary workers/storytellers:
+leave story pages untouched.
