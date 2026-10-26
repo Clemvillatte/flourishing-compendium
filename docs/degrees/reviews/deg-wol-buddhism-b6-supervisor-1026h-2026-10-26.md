@@ -63,3 +63,22 @@
 MODULE-QC PASS (module level; content claims receipt-backed and bounded
 as disclosed). Complete-degree/publication gates owed as for the rest of
 the set.
+
+## Delta addendum (same session, post-B-V31)
+
+The production lane's B-V31 full-text pass (commit ed9ec6b) landed after
+the review above and (1) upgraded the source-table status of both
+lectures from selected auto-caption passages to full auto-caption text
+retrieved and claims checked, receipt B-V31, and (2) repaired the one
+misattributed third-teacher example: the module's earlier "a Rinzai
+master who spent decades as a Soto monk" example is not in either
+transcript and was replaced with the actual example, an early teacher of
+the lecturer who regarded deep samadhi practice as more important than
+koan work, with the caption-spelling caveat stated. Verified by direct
+diff of the module between the pre-repair and post-repair commits: the
+change is exactly the example replacement plus the source-table upgrade,
+nothing else. Current module hash:
+f6fcf71e (f6fcf71e followed by the full sha in the band record;
+measured locally this pass). The verdict stands at the post-B-V31 hash;
+the full-text verification also closes this review's routed item 2
+(full transcript inspection) for both lectures.
