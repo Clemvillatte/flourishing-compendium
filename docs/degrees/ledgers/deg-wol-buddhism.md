@@ -407,3 +407,23 @@ canon continuity with AN 5.179/SN 56.11), with the scope's Thai Forest
 lineage-stories elective folded into the Chah collection assignment.
 Rebirth/karma material in the collection handled per the exclusion
 rule (the tradition's own frame, passing mention).
+
+## Module b7 drafted (2026-10-26, worker-pplx-buddhism-1026a)
+
+b7 (Insight and Secular, L3) drafted at
+docs/degrees/modules/deg-wol-buddhism/b7-insight-and-secular.md. Sources:
+Fronsdal Week 1 transcript + Class 1 audio (parallel session harvest
+receipt, ledger-recorded: IMC transcripts page CC BY-NC-ND 3.0;
+AudioDharma series page with Class 1 measured 1:26:55; credentials on
+the AudioDharma speaker page) and Stephen Batchelor "A Secular Buddhism"
+(Radboud Reflects, https://www.youtube.com/watch?v=Hhlj_SU9SAE) verified
+THIS session: watch page duration 1:26:35, lecture 9 July 2018 at
+Radboud University, description frames the secular-pragmatic-flourishing
+case, key moments cover the Burma secularization and Vipassana movement;
+credentials opened on stephenbatchelor.org by the parallel session
+(eight years Tibetan monastic; four years Son training under Kusan
+Sunim). The module's design: two Western-facing adaptations taught,
+then compared on one learner-chosen question with a defended position
+(L3). b6 (Zen) remains the unproduced map item: the Kirchner lecture
+video page was not locatable this session (only the Society's series
+page); the verify lane's video-page pass is still owed for it.
