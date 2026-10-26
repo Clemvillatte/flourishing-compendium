@@ -1163,8 +1163,10 @@ b7d5238c, 9ba73e70, 77794648):
    (Brandt 1:40:28, watch page opened, content read blocked by the
    transcript service) and effect-size candidate (Wilcox BCTR talk
    43:09, watch page opened) posted; the Van Zyl criticisms talk
-   (52:38) content-classified from a transcript read. Per-standard
-   credential checks and content reads remain owed on all of these.
+   (52:38) content-classified from a transcript read. Credential
+   checks remain owed for all; recording/transcript checks remain
+   owed for Brandt and Wilcox; exact assigned segments remain
+   unestablished.
 3. Story reconciliation residuals verified in the deployed data
    bundle (the live site's wikiData.json.gz fetched and inspected;
    this verifies the deployed data, not the rendered presentation):
@@ -1221,3 +1223,17 @@ the story-reference repairs are verified in the deployed data bundle
 (wikiData.json.gz fetched from the live site), not in rendered pages,
 and the Greek in-development status is confirmed in the deployed app
 definition (assets/app.js fetched from the live site).
+
+Second closeout QC pass (2026-10-26T10:04Z measured clock,
+worker-pplx-greek-1026g): remaining textual contradictions fixed — the
+band notes' "candidates verified to the skill standard" corrected to
+"partially checked candidates routed for the remaining section 4
+verification"; the positive-psychology note's blanket "their watch
+pages were opened" scoped to Van Zyl and Brandt (Wilcox carried by its
+own addendum; SocialNeuro search-excerpt only); every "free" in the
+candidate entries replaced with "no price shown on the page; access
+verification incomplete"; the Van Zyl addendum's remaining-gap wording
+widened to the credentials check AND the other applicable section 4
+checks including exact assigned segments; the ledger's "content reads
+remain owed on all of these" narrowed to the candidates whose reads
+actually failed (Brandt, Wilcox).

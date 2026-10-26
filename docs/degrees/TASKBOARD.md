@@ -2310,20 +2310,21 @@ opened this session (titles, channels and durations printed on the
 pages, no price shown). This is NOT a completed verification under
 skill section 4: instructor credentials were taken only from the
 recordings' own descriptions, which the standard excludes
-(institutional or biography pages remain unopened), free playback in a
-player was not tested, and content classification and
-recording/transcript reads are owed by the owning band before any
-attachment:
+(institutional or biography pages remain unopened), and content
+classification and recording/transcript reads are owed by the owning
+band before any attachment:
 
 1. Bruce Wampold, "The Great Psychotherapy Debate: Models, Methods, and
    Findings", 2014 Lewis Stone Memorial Lecture, Augustana College
-   channel, 1:02:38, free (https://www.youtube.com/watch?v=s_Pz2duIiO8).
+   channel, 1:02:38, no price shown on the page; access verification
+   incomplete (https://www.youtube.com/watch?v=s_Pz2duIiO8).
    Speaker: Dr Bruce Wampold, University of Wisconsin-Madison (stated on
    the watch page; not yet confirmed on an institutional page). The
    talk "discusses two models of how psychotherapy works" (channel
    description), which is the evidence-and-limits question itself.
 2. John Norcross on Psychotherapy Research and Integration (2016),
-   Psychotherapy Expert Talks series (sponsored by SEPI), 33:57, free
+   Psychotherapy Expert Talks series (sponsored by SEPI), 33:57, no
+   price shown on the page; access verification incomplete
    (https://www.youtube.com/watch?v=GKepw4nDmwQ). Speaker: John C.
    Norcross, PhD, Distinguished Professor of Psychology, University of
    Scranton; Adjunct Professor of Psychiatry, SUNY Upstate Medical
@@ -2342,17 +2343,20 @@ transcript) remains owed before either carries module instruction.
 
 The deg-gate Gate-1 review of deg-wol-positive (this date) names two
 unresolved coverage gaps: criticisms-of-the-field and effect-size
-literacy. Candidates; their watch pages were opened this session
-(titles, channels and durations printed on the pages, no price shown).
-This is NOT a completed verification under skill section 4: instructor
+literacy. Candidates; the Van Zyl and Brandt watch pages were opened
+this session (titles, channels and durations printed on the pages, no
+price shown); the Wilcox addendum below records its own watch-page
+check; the SocialNeuro entry is search-excerpt only. This is NOT a
+completed verification under skill section 4: instructor
 credentials were taken only from the recordings' own descriptions,
 which the standard excludes (institutional or biography pages remain
-unopened), free playback in a player was not tested, and content
+unopened), and content
 classification and recording/transcript reads are owed by the owning
 band before any attachment:
 
 1. "The Critiques and Criticisms of Positive Psychology: Reflections
-   and Solutions", Llewellyn Ellardus Van Zyl, 52:38, free
+   and Solutions", Llewellyn Ellardus Van Zyl, 52:38, no price shown
+   on the page; access verification incomplete
    (https://www.youtube.com/watch?v=5X4nvPlGc7c). Presentation
    "introduces the different waves of positive psychological research
    and highlights the 117 critiques and criticisms of contemporary
@@ -2363,7 +2367,8 @@ band before any attachment:
    before attachment.
 2. "Positive psychology from critical perspective", Dr Senta Brandt,
    Positive Psychotherapy channel (World Association for Positive and
-   Transcultural Psychotherapy), 1:40:28, free
+   Transcultural Psychotherapy), 1:40:28, no price shown on the page;
+   access verification incomplete
    (https://www.youtube.com/watch?v=eSmuklef9mI). Speaker stated on the
    page as a psychologist and social scientist who wrote her PhD on
    Critique of Positive Psychology, published as a book (stated on the
@@ -2413,7 +2418,8 @@ which is not a completed verification under skill section 4
 (credentials were taken only from the watch page's own description).
 "Two Talks at Twelve from the Center for Integrative
 Developmental Science", Bronfenbrenner Center channel (BCTR Talks at
-Twelve series), 43:09, free (https://www.youtube.com/watch?v=a2AJznBzvkI).
+Twelve series), 43:09, no price shown on the page; access
+verification incomplete (https://www.youtube.com/watch?v=a2AJznBzvkI).
 Speaker for Talk 1 ("Integrative Data Analysis of Positive Psychology
 Interventions"): Kenneth Tyler Wilcox, Postdoctoral Associate (stated
 on the watch page). The talk's own abstract frames the effect-size
@@ -2426,24 +2432,24 @@ talk boundary when checking the recording.
 
 Second addendum to the positive-psychology gap note: a transcript read
 of the Van Zyl presentation (https://youtubetotranscript.com/transcript?v=5X4nvPlGc7c)
-confirms its fit for the criticisms-of-the-field gap. It organises the
-critiques into six broad categories drawn from a systematic review
-said to contain 117 specific criticisms: pseudoscience and weak
+confirms its fit for the criticisms-of-the-field gap. It covers
+criticisms including pseudoscience and weak
 replication (confirmation bias, overstatement of evidence), the
 falsified Losada ratio (2.95 positive experiences per negative),
 overclaiming (small correlations turned into sweeping claims about
 cancer risk or longevity, and interventions such as gratitude visits
-that can increase distress for some people), poorly defined theory,
-measurement and methodology problems, and decontextualised or
+that can increase distress for some people), measurement and
+methodology problems, and decontextualised or
 neoliberal assumptions and commercialisation. The treatment is fair
 rather than a blanket endorsement: the presenter accepts some
 criticisms are valid ("there are elements here that are true", "we do
 sometimes make false claims about the benefits") while cautioning that
 not all apply uniquely to positive psychology. Content classification:
 criticisms-of-the-field, direct. The transcript has no timestamps.
-The remaining gap on this candidate is the credentials check (none
+The remaining gaps on this candidate are the credentials check (none
 stated on the watch page; the owning band must establish them from an
-institutional page).
+institutional page) and the other applicable section 4 checks,
+including exact assigned segments.
 
 ## deg-verify-b worker checkpoint (2026-10-26T09:56Z measured clock (stamp corrected from a miswritten 09:57Z), worker-pplx-verify-1026g)
 
