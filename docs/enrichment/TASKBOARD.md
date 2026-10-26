@@ -1,5 +1,16 @@
 ## Worker checkpoint (2026-10-26 00:58Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
+QC SAMPLE — concept page Action before feeling (complete: the one quote
+on the page checked): the Aristotle fragment "So too we become just by
+doing just acts, temperate by doing temperate acts, brave by doing brave
+acts." confirmed VERBATIM in wording on the
+[MIT Classics Nicomachean Ethics II.1](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html);
+it is a mid-sentence fragment (the source prints "so" lowercase after a
+semicolon — the page capitalizes it as a standalone quotation, standard
+fragment practice, not a defect). No repairs needed.
+
+## Worker checkpoint (2026-10-26 00:58Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
 QC SAMPLE — concept page Action over inertia (complete: the one quote on
 the page checked): the Aristotle Nicomachean Ethics II.1 passage ("For
 the things we have to learn before we can do them, we learn by doing
