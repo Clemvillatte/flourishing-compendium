@@ -33,8 +33,9 @@ By the end, you can:
   by goal, timing and circumstances.
 - **Flexibility:** compare a rigid rule with a context-sensitive plan,
   including a reason to revise the plan and one limit of the evidence.
-- **Reflection:** describe affect in a low-stakes or fictional episode
-  while separating bodily sensation, interpretation, action and unknowns.
+- **Reflection:** describe affect in a safely chosen, ordinary episode
+  from your own life while separating bodily sensation, interpretation,
+  action and unknowns; personal details may remain private.
 
 ## Your source route
 
@@ -359,6 +360,32 @@ fictional case with equally explicit circumstances. Include:
 - **Evidence:** one limit of the 2024 review and a distinction between
   its classification or proposal and proof that your plan will help.
 
+Then make a **private lived-transfer note of 150–220 words** about one
+ordinary, low-stakes episode you actually experienced. It need not concern
+illness, trauma or a relationship you do not want to discuss. A delayed
+reply, an interrupted task or an enjoyable conversation is enough.
+Include:
+
+- **Description:** reuse the four-line scaffold: bodily sensation
+  (“not noticed” or “not recalled” is acceptable), a provisional emotion
+  label, interpretation with an unknown, and actual or possible action.
+  Do not fill a missing observation by guessing.
+- **Function:** separate what you noticed from your interpretation,
+  propose one possible emotion function and name a possible cost.
+- **Choice:** identify two process-model families you could consider.
+  Say what matters to you, which option might serve it, and one reason
+  to revise that choice.
+- **Accounts and uncertainty:** explain the different questions the two
+  assigned accounts invite about this episode. Link affect to one other
+  dimension and name something your recollection cannot establish.
+
+Keep identifying details in your private learning record. For feedback,
+you may submit a redacted outline and confirm that it concerns an actual
+episode; no intimate disclosure is required. The fictional Jo analysis
+alone does not complete this transfer requirement. If no episode feels
+safe to consider, defer the transfer rather than revisit distressing
+material merely to finish the module.
+
 Check your draft with the criteria below, then revise one weak point.
 Use the source links when making a research claim. You may paraphrase;
 no memorised quotation is required.
@@ -369,7 +396,64 @@ no memorised quotation is required.
 | Accounts | Distinguishes the explanations; accurately defines allostasis as anticipatory regulation in TCE; attributes the controversy. | "Biology versus imagination," allostasis as only return to a fixed set point, or a settled-theory claim. |
 | Regulation | Names all five families and classifies examples; choice fits timing, goal and stated circumstances. | Only "think positively," no distinction between feeling and behaviour, or a universal best-family rule. |
 | Flexibility and evidence | Names a specific revision condition and an actual review limit; does not infer personal efficacy. | "Depends on context" without a condition, or a claim that the review tests this plan. |
-| Reflection | Separates sensation, interpretation, action and unknowns; links affect to another dimension without a causal diagnosis. | Mind-reading, diagnostic certainty, or treating lack of improved mood as failure. |
+| Reflection and lived transfer | Uses a safely chosen actual episode, with details kept private if preferred; separates sensation, interpretation, action and unknowns; connects functions, accounts and a revisable choice to what matters, and links affect to another dimension without a causal diagnosis. | Offers only fiction or theory labels, assumes another person's inner state, makes a causal diagnosis, or treats lack of improved mood as failure. |
+
+### Calibrate your self-review
+
+These invented responses illustrate the criteria, not study findings,
+source quotations or answers to copy.
+
+- **Functions:** “Jo's anger may focus attention on recognition
+  (intrapersonal); a sarcastic message might signal resentment to others
+  (interpersonal). The private-discussion rule influences expression.
+  A shared pattern of private discussion might coordinate concerns, but
+  could also make unfairness less visible: a proposed cultural function
+  and cost.” Rejection example:
+  “The group has a rule, so I have explained its cultural function and
+  proved the rule is good.”
+- **Accounts:** “An adaptive-function account asks what recurring
+  challenge the response might address. In Barrett's account, prediction
+  and context contribute to this particular experience; allostasis means
+  anticipating bodily needs, not only correcting a deviation afterwards.
+  Jo's story cannot decide between the explanations.” Check this
+  attribution against the
+  [assigned allostasis paragraph](https://pmc.ncbi.nlm.nih.gov/articles/PMC12164598/).
+  Rejection example: “One theory is biology and the other is imaginary;
+  Jo's story proves which is true.”
+- **Regulation:** “Choosing whether to attend a later debrief is situation
+  selection; agreeing a credit-checking procedure is situation
+  modification; focusing on the event's immediate task is attentional
+  deployment; considering a clerical error is cognitive change; delaying
+  a sarcastic reply is response modulation. I would ask a factual question
+  privately, but reconsider if an urgent public error needs correcting.”
+  Rejection example: “Jo should hide
+  the feeling; that is both situation modification and cognitive change.”
+  Check the distinctions against the
+  [assigned process model](https://emotion.wisc.edu/wp-content/uploads/sites/1353/2024/11/gross-1998-the-emerging-field-of-emotion-regulation-an-integrative-review.pdf).
+- **Flexibility and evidence:** “I would reconsider a private question
+  if the omission were an urgent public factual error. The review's
+  database and year restrictions limit its coverage; its theoretical
+  classification does not test whether my proposed plan would help Jo.”
+  Compare this with the
+  [assigned limitations paragraph](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/).
+  Rejection example: “Context matters,
+  so this strategy is scientifically guaranteed to work.”
+- **Reflection and lived transfer:** this hypothetical specimen models
+  reasoning, not a genuine learner record: “My private episode A concerns
+  a delayed reply. Bodily sensation not recalled; disappointment,
+  provisionally; ‘I do not matter’ was my interpretation; I checked my
+  phone repeatedly. The feeling may flag valued contact, but checking
+  displaced attention from my task. An adaptive-function question concerns
+  threatened connection; a construction question concerns how past
+  experience and context shaped that interpretation. I cannot establish
+  the sender's intention or either theory from this memory. I could
+  redirect attention to the task or reconsider the delay's meaning:
+  attentional deployment or cognitive change. Because contact matters,
+  I would ask about availability later, revising the timing if the message
+  were urgent.” A learner must supply their own actual episode, not
+  relabel this invented specimen as lived evidence.
+  Rejection example: “I invented another person like Jo; therefore I have
+  shown that these ideas fit my own life.”
 
 All five criteria must pass; revise only the parts that do not.
 For example, "They cancelled because they dislike me, so I will always
@@ -391,16 +475,17 @@ or more emotional disclosure.
 - **Assigned external reading:** about 1,700 words across the short
   selections. At 130 words per minute and three times raw reading for
   annotation, allow about **39 minutes**.
-- **This lesson's teaching:** allow **35 minutes** to read the
+- **This lesson's teaching:** allow **45 minutes** to read the
   explanations and tables carefully; the separate activities below are
   not part of that allowance.
 - **Worked case and completion practice:** **30 minutes**.
 - **Function, account and flexibility checks, plus reflection:**
   **35 minutes**.
 - **Delayed retrieval and correction:** **20 minutes**.
-- **Assessment, self-check and one revision:** **65 minutes**.
+- **Assessment, private lived transfer, self-check and one revision:**
+  **85 minutes**.
 
-Total: **about 4 hours 35 minutes** (274 estimated minutes). Transcript
+Total: **about 5 hours 5 minutes** (304 estimated minutes). Transcript
 reading substitutes for watching the same assigned window; it is not
 an additional compulsory task. Optional wider reading is outside this
 total. None of these planning estimates is a measured completion time.
@@ -413,4 +498,4 @@ total. None of these planning estimates is a measured completion time.
 | Accounts | Barrett; scholarly allostasis anchor; attributed historical framing | Racing-heart completion with feedback | Accounts criterion |
 | Regulation | Gross; five-family table; worked decision | Dinner-cancellation completion with feedback | Regulation criterion |
 | Flexibility | Review excerpts; rigid/flexible comparison | Two-sentence comparison with revision condition | Flexibility and evidence criterion |
-| Reflection | Sensation/interpretation/action/unknown scaffold | Amira completion and private/fictional option | Reflection criterion |
+| Reflection | Sensation/interpretation/action/unknown scaffold | Amira completion; fictional practice remains available | Required private/redacted actual-episode transfer and Reflection criterion |

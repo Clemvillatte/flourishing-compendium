@@ -1,8 +1,9 @@
 # Psychological Dimensions: A Walk of Life
 
 Curriculum draft for independent review, not cleared for Academy
-visibility. M1 has an independent supervisor module-QC pass; M2–M8
-still require module review and the complete degree requires its
+visibility. M1, M3 and M4 have independent supervisor module-QC passes.
+M2's prior pass is recorded; a subsequent assessment-only repair needs
+changed-hash confirmation. M5–M8 and the complete degree require their
 own final gate. No partial publication is requested.
 
 This degree uses six psychological lenses to examine ordinary life:
@@ -17,7 +18,7 @@ training or a comprehensive introductory psychology survey.
 | Module | Level | Central capability | Estimated active time |
 |---|---|---|---|
 | [M1: Orientation](m1-orientation.md) | L1 | Use the framework and appraise research without statistical overclaims. | 249 min |
-| [M2: Affective](m2-affective.md) | L2 | Compare emotion accounts and make a context-sensitive regulation analysis. | 274 min |
+| [M2: Affective](m2-affective.md) | L2 | Compare emotion accounts and make a context-sensitive regulation analysis, including private lived transfer. | 304 min |
 | [M3: Cognitive](m3-cognitive.md) | L2 | Apply learning, perception, memory, judgment and RNT distinctions. | 290 min |
 | [M4: Attentional](m4-attentional.md) | L2 | Interpret attentional phenomena, laboratory contrasts and training evidence cautiously. | 265 min |
 | [M5: Self and identity](m5-self-and-identity.md) | L2 to L3 | Investigate a self-question, chart an identity domain and qualify measurement/trait accounts. | 300 min |
@@ -25,7 +26,7 @@ training or a comprehensive introductory psychology survey.
 | [M7: Overt behavioural](m7-overt-behavioural.md) | L2 to L3 | Keep a diary, compare contested findings and develop a revisable functional account. | 301 min |
 | [M8: Integrative capstone](m8-integrative-capstone.md) | L4 | Design, execute and self-assess one safe real-life inquiry across all six dimensions. | 375 min |
 
-Total estimated active workload: **2,310 minutes, 38 hours 30 minutes**.
+Total estimated active workload: **2,340 minutes, 39 hours**.
 M7 includes records over at least three ordinary days; M8 usually
 spans 7–14 calendar days, but those days are not added to active
 workload. Prior observations and viewing are not counted twice.
@@ -60,8 +61,11 @@ under `docs/degrees/verify/`. Current module states are mirrored in
 `docs/degrees/bands/deg-psychdim.json` and review requests in
 `docs/degrees/TASKBOARD.md`.
 
-M2's cultural-function return and M3/M4 advisor returns have been
-repaired, but that is not independent clearance. M5's commissioned
+M2's cultural-function return and M4 advisor returns received independent
+supervisor review. M2's subsequently added required private
+lived transfer and criterion-specific exemplars have a bounded production
+adviser pass; that changed assessment still needs supervisor confirmation.
+M5's commissioned
 advisor failed for credits; M5–M8 must not be represented as having
 an advisor pass. The packet is available for supervisor review;
 integration and public visibility remain closed.

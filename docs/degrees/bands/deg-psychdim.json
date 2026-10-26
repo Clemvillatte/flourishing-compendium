@@ -1,11 +1,11 @@
 {
  "band": "deg-psychdim",
  "kind": "degree",
- "holder": "degree-4376b4ec",
- "phase": "all-eight-modules-drafted-baton-released-independent-review-required",
+ "holder": "degree-2874787d",
+ "phase": "bounded-production-repairs-independent-review-required",
  "modules": {
   "m1-orientation": "independent supervisor MODULE-QC PASS at cdb8f0939; three nonblocking alignment labels fixed. 249 estimated minutes. Not complete-degree/publication clearance.",
-  "m2-affective": "independent supervisor MODULE-QC PASS at d9b938b96 after bounded repair rereview (review deg-psychdim-m2-supervisor-2026-10-26.md rereview section). 274 estimated minutes. Not complete-degree/publication clearance.",
+  "m2-affective": "prior independent supervisor MODULE-QC PASS at d9b938b96 preserved as historical decision; subsequent mandatory private actual-episode transfer and per-criterion specimens added by degree-2874787d with bounded production adviser ACCEPT; changed-hash assessment-delta supervisor rereview owed (b1f5533f532b4d7e259aeb7202e6500b45c04d9b0e318bfac9736ce3558276ad); 304 estimated minutes. Not complete-degree/publication clearance.",
   "m3-cognitive": "independent supervisor MODULE-QC PASS at 9ff7b598b (review deg-psychdim-m3-supervisor-2026-10-26.md); three nonblocking notes (M1 exit wording, lecture-4 watch-page duration 58:46 vs ledger 58:47, humanizer functional negations). 290 estimated minutes. Not complete-degree/publication clearance.",
   "m4-attentional": "independent supervisor MODULE-QC PASS at 68acd6f12 (review deg-psychdim-m4-supervisor-2026-10-26.md); ONE OPEN VERIFICATION FLAG: exact-second window boundary (47:26-54:53) unverifiable from environment (YouTube caption bot-wall, documented; routed to verification lane; no printed number affected). 265 estimated minutes. Not complete-degree/publication clearance.",
   "m5-self-and-identity": "BOUNDED RETURN (review deg-psychdim-m5-supervisor-2026-10-26.md): two alignment repairs routed to production owner (transparency application exercise; trait/project comparison must be assessed), McAdams 13:31 boundary documentation note; arithmetic, SCCS handling, privacy and progression verified. 300 estimated minutes.",
@@ -13,6 +13,6 @@
   "m7-overt-behavioural": "draft-not-cleared; three-day diary, corrected Yale reinforcement supplement, four-stage process, older-adult/youth limits, numerical Dang/Vohs comparison and independent functional inquiry; independent review owed; 301 estimated active minutes over at least three ordinary days",
   "m8-integrative-capstone": "draft-not-cleared; L4 independent design/actual execution/analysis/self-assessment, all-six map, mechanism/outcome distinction, public eight-criterion rubric, privacy/safety/missingness/deviations; independent review owed; 375 active minutes typically across 7-14 days"
  },
- "notes": "2026-10-26 05:36Z degree-4376b4ec: baton released after original-clock session. All eight module drafts plus README,2310 estimated active minutes,38h30m. SHA256/structure/local-links/JSON/arithmetic/citation-URL syntax and origin-content checks passed; these are producer checks only. M1 supervisor pass; M3 supervisor MODULE-QC PASS (supervisor-pplx-1026f, 2026-10-26); M2 bounded repair applied in 6bf08d3cb, rereview owed; M4-M8 NOT cleared. Adviser unavailable for M5+; supervisor independent and whole-degree review owed. No integration/publication request. Scope and coverage clearances unchanged.",
+ "notes": "2026-10-26 degree-2874787d: production repair baton active. Packet now2340 estimated active minutes,39h. M1/M3/M4 supervisor passes preserved; M4 exact-second media flag remains open. M2 prior pass at d9b938b96 remains recorded; subsequent assessment-only delta has bounded production adviser ACCEPT and needs supervisor changed-hash confirmation. M5 bounded alignment return consumed next; M6-M8 independent module reviews and M5+ adviser gap remain. No integration/publication request; scope/coverage clearances unchanged. Exact M2 hash and source-opening limits in verify/deg-psychdim-m2-transfer-rubric-repair-2874787d.md.",
  "updated": "2026-10-26T06:00:33Z"
 }

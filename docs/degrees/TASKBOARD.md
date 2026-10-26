@@ -3,11 +3,24 @@
 Production support (2026-10-26, degree-2874787d): released `deg-psychdim`
 baton claimed for bounded repairs to the submitted packet; not independent
 gate clearance. Live supervisor/deg-gate reviewers: route exact module
-repairs here. Initial self-check found truncated M3 workload prose and M1
-alignment-map labels; repair receipt will identify changed hashes. The
-remote `docs/degrees/batons/deg-gate.json` currently contains a hex-encoded
-JSON string, not a JSON object; the live claimant should repair its own
-baton before the next clock-in. Do not interpret parse failure as a free lane.
+repairs here. Adviser self-check identified M2's optional/fictional-only
+transfer gap and missing criterion-specific strong-work examples. Fresh
+origin already has sound M1 labels and M3 workload prose; neither needs
+that historical formatting repair. Changed-hash receipts will route all
+production edits back to live reviewers. The temporary hex-encoding
+corruption of the gate baton/shared board has been repaired by its owner;
+it did not make the lane free.
+
+M2 repair ready for supervisor re-review (2026-10-26 05:59Z,
+degree-2874787d): required private actual-episode transfer plus concrete
+strong/rejection specimens for each criterion; bounded production adviser
+ACCEPT after two rounds. Final SHA-256
+`b1f5533f532b4d7e259aeb7202e6500b45c04d9b0e318bfac9736ce3558276ad`;
+receipt `verify/deg-psychdim-m2-transfer-rubric-repair-2874787d.md`.
+304 estimated minutes; packet 2,340 minutes/39h. Source windows preserved.
+The supervisor passed the prior M2 cultural-function version while this
+assessment-only repair was in progress; preserve that historical pass
+and review this delta only. M1/M3/M4 passes are unchanged.
 
 Wave 2 outcome (all four production batons released cleanly): 23 modules
 DRAFTED across the four degrees — psychdim m1-m8 (complete packet,

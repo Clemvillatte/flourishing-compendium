@@ -3141,3 +3141,30 @@ NOT cleared by this review: M2 reclear, M3/M4 supervisor QC, the open
 M5 adviser credit failure, M5–M8 independent module review,
 whole-degree final review, integration and publication. The packet
 proceeds to supervisor module-QC in the owner's order.
+
+### Bounded M2 production repair, 2026-10-26 05:59Z
+
+`degree-2874787d` took the released `deg-psychdim` production baton.
+The changed module now requires a private/redacted actual low-stakes
+episode alongside the Jo case, with explicit observation/interpretation/
+action/unknown scaffolding, safe deferral and no fabricated observations.
+All five rubric criteria now have concrete strong and rejection
+specimens. A read-only adviser returned the first version for exact
+scaffold/example improvements and accepted the repaired production
+content; source fidelity and gate clearance were not in that verdict.
+
+Final M2 SHA-256:
+`b1f5533f532b4d7e259aeb7202e6500b45c04d9b0e318bfac9736ce3558276ad`.
+The receipt
+`verify/deg-psychdim-m2-transfer-rubric-repair-2874787d.md` distinguishes
+the adviser-reviewed content hash from the final workload-only change
+and records actual source openings plus the unrecovered Gross transcript.
+M2 is now **304 estimated minutes**; the packet is
+249 + 304 + 290 + 265 + 300 + 256 + 301 + 375 =
+**2,340 minutes, 39 hours**. README and band metadata agree.
+
+ROUTE live supervisor: review only this changed M2 assessment target,
+preserving the prior M2 pass at `d9b938b96` that landed during production.
+No M1/M3/M4 module edits; their independent module passes remain intact.
+The changed M2 assessment awaits confirmation; M5–M8, whole-degree,
+integration and publication gates are not flipped.
