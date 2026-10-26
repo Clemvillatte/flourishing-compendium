@@ -14,13 +14,15 @@ bounded check."
 **A short, public, content-checked university lecture covers the
 null-hypothesis-testing portion of the M1 Step 3 reading, and it
 teaches the p-value the way the module's own correction passage does.**
-The Noba module's remaining topics (scientific versus everyday
-reasoning, falsifiability, induction and deduction, research design,
-replication, what a scientific theory is) are not covered by this
-recording, and no verified video covering that full remaining scope was
-found in this bounded search. The Noba reading therefore remains the
-fallback for those topics under owner decision 8, and this receipt
-supplies a verified video for the portion it does cover.
+A second recording from the same instructor covers the reading's
+replication topic (second receipt section below). The Noba module's
+remaining topics (scientific versus everyday reasoning, falsifiability,
+induction and deduction, research design, what a scientific theory is)
+are not covered by either recording, and no verified video covering
+that full remaining scope was found in this bounded search. The Noba
+reading therefore remains the fallback for those topics under owner
+decision 8, and this receipt supplies verified videos for the portions
+covered.
 ([Vanman, PSYC1040 Week 9A](https://www.youtube.com/watch?v=DgMtRFRoHeM).)
 
 Recommendation for the owner to weigh: either assign the recording
@@ -61,7 +63,7 @@ Read as transcript text for the whole recording.
 | Falsifiability | No | Not addressed in this recording. |
 | Induction and deduction | No | Not addressed in this recording. |
 | Research design | No | Not addressed in this recording. |
-| Replication | No | Not addressed in this recording. |
+| Replication | Not in Week 9A | Not addressed in Week 9A; covered by the separately verified Week 13A recording (second receipt section below). |
 | What a scientific theory is | No | Not addressed in this recording. |
 
 ### Boundaries to carry into the lesson
@@ -77,11 +79,13 @@ I/Type II power tradeoff compactly; the module's own faded-practice
 appraisal still supplies the applied training.
 
 The transcript states that the ASA's 2016 statement "we'll engage with
-directly in the next lecture": a Week 9B recording on the ASA statement
-appears to exist on the same channel and has NOT been checked here.
-The M1 module already cites the ASA statement PDF directly, so this
-matters only if the owner wants a video companion for that source; it
-would need its own bounded check.
+directly in the next lecture". A later search of the channel shows the
+actual Week 9B is a t-tests lecture (single-sample and paired), so the
+promised ASA engagement is not Week 9B's topic; if an ASA-statement
+engagement exists elsewhere in the series it was not located in this
+bounded pass. The M1 module already cites the ASA statement PDF
+directly, so this matters only if the owner wants a video companion
+for that source.
 
 ## Search record for the full remaining scope
 
@@ -92,6 +96,39 @@ search results:
 |---|---|
 | Flourish with Diane Planidin, Thinking like a Psychological Scientist, Psych-100 Chapter 3 ([recording](https://www.youtube.com/watch?v=SgrR-T955x0)) | **rejected on instructor credentials**. The recording is public (33:52, published 13 June 2022) and its chapter list matches the Noba module's scope closely (science versus everyday thought, features of scientific theories, falsifiability, null hypothesis testing, science as a social activity). But its own description states "I am a student and not a teacher", and no biography or institutional page establishing teaching credentials for the presenter was found. The skill's media standard requires instructor credentials verified on a biography or institutional page; the recording fails that check. A second defect: the description's CC-attribution link, noba.to/ymcbwrx4, resolves to a different Noba module (Evolutionary Theories in Psychology by David M. Buss), so the recording's own attribution chain to this specific module's text cannot be confirmed from its description. [Opened watch page](https://www.youtube.com/watch?v=SgrR-T955x0), [opened attribution target](https://noba.to/ymcbwrx4). |
 | Other results from the same bounded search (A-level revision channels, animated summaries, individual explainer videos) | **not promoted**. None combined an institutional instructor with the module's beginner scope; most cover only one topic each. No "no suitable video exists" claim is made beyond what this search covered; the remaining-scope search was bounded to one session and one search pass. |
+
+## Second verified recording: replication
+
+A follow-up bounded check in the same session verified a second
+recording from the same series, covering the reading's replication
+topic.
+
+| Check | Evidence and disposition |
+|---|---|
+| Identity | **The Replication Crisis: Why Studies Fail and How Psychology Is Fixing Itself \| PSYC1040 Week 13A**, channel SocialNeuro; the [opened oEmbed response](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=YpizifCQ96Y&format=json) confirms the exact title and the @socialneuro channel, the same instructor's channel as Week 9A. [Watch page](https://www.youtube.com/watch?v=YpizifCQ96Y). |
+| Access | The anonymous fetch returned the public watch page and a full transcript with no access error or paywall. [Public recording](https://www.youtube.com/watch?v=YpizifCQ96Y). |
+| Credentials | Same instructor and same institutional grounding as Week 9A: Professor Eric Vanman, course coordinator and lecturer of PSYC1040 per the [UQ course profile](https://course-profiles.uq.edu.au/course-profiles/PSYC1040-21039-7620) and his [UQ lab page](http://socialneuro.com/our-crew). |
+| Full duration | The opened watch page prints two values: **19:36** on the player and **30:09** in the video details listing. Both recorded; neither guessed. The description's own chapter list ends at 20:00, which suggests the listing figure may include appended material; the owner should measure the player before assigning a bounded segment. [Watch page](https://www.youtube.com/watch?v=YpizifCQ96Y). |
+| Date | Watch page: **16 May 2026**. |
+| Assignment | Bounded by the owner if used; the description's chapters: Bem's precognition study 0:00; Open Science Collaboration 39% replication rate 2:30; the power problem 6:00; researcher degrees of freedom 8:00; publication bias 10:30; winner's curse 12:30; system failure not fraud 14:30; pre-registration, open data, registered reports 16:00; what the crisis does and doesn't mean 19:00; quick check 20:00. |
+| Language and captions | English transcript available; caption type, manual versus automatic, not established. [Transcript used](https://youtubetotranscript.com/transcript?v=YpizifCQ96Y). |
+| Verification mode | Transcript-based content verification plus opened watch metadata, matching the Week 9A mode. |
+| Status | **verified-video**, for the bounded Step 3 replication use. |
+
+Transcript checks: the 2015 Open Science Collaboration is described as
+"about a hundred psychology researchers" who took "100 findings from
+the psychological literature" and found "only about 39% of the original
+findings replicated", with the lecturer explicitly qualifying that a
+failed replication is not proof the original was false. Bem's 2011
+"Feeling the Future" paper is described as nine experiments with
+no-fraud framing: "Bem wasn't being dishonest. The data he reported
+were real." The reforms section covers pre-registration ("specifying
+your hypotheses and your analysis plan before you collect data") and
+publishing raw data and materials. The winner's curse is explained
+with the small-sample inflation mechanism. This aligns with the reading's
+replication and research-quality topics and adds replication-crisis
+context beyond the reading, which serves the degree's research-literacy
+outcome.
 
 ## Routing and remaining review
 
