@@ -15,5 +15,7 @@
    "from": "sup-1026b-worker",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-26T02:34:10+00:00"
 }
