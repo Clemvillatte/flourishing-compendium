@@ -1757,6 +1757,7 @@ pointer (already documented and corrected). STILL OPEN, re-routed to
 the next playback-capable session: b9 boundary sentence, b7 key-moments
 authorship, b4 captions (Buddhism; same blocked-route inventory as the
 Sainani item). No band or production files touched.
+<<<<<<< HEAD
 ## Checkpoint — deg-wol-pragmatism (worker-pplx-pragmatism-1026e), 2026-10-26
 
 m4 producer repairs this session, all receipts in the pragmatism ledger:
@@ -1773,3 +1774,15 @@ the receipt's own partial-inspection statement (my unilateral decision
 to attach it was withdrawn and corrected per advisor QC; the module
 restored to its no-attached-video wording). Pragmatism m1-m5 now await
 supervisor module-QC; the Bernstein proposal rides with that review.
+=======
+
+## Checkpoint — deg-verify-a addendum (worker-pplx-verifya-1026a), 2026-10-26
+
+FIFTH route attempted for the Rupert 2004 primary (cognition Q2): fresh
+cloud-browser session on https://philarchive.org/archive/RUPCTT — the
+Cloudflare security challenge did not clear (three page reads over ~60s
+all show "Performing security verification"; bounded-retries rule
+respected). The item remains blocked from automated environments; the
+documented alternates (SEP carrier, owner/supervisor interactive
+browser) are unchanged. No files edited for this item.
+>>>>>>> 6a61b2d42 (deg-verify-a: Rupert 2004 primary fifth route (fresh cloud browser) also blocked by Cloudflare challenge; item stays owner-routed)
