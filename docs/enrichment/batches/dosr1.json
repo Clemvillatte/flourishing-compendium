@@ -1,0 +1,16 @@
+{
+ "batch": "dosr1",
+ "done": [
+  "2026-10-26 ~00:30Z STEP 0 scope check (worker-pplx-dosr1-1026a): all four assigned dossiers are ALREADY AT the 3-5 bar — the below-bar list in PIPELINE-2026-10-26.md (from OPERATIONS.md supervisor QC entry 7, 2026-10-25) is STALE for this band; the repairs landed 2026-10-25 via the dos19/dos23/dos26/dos30 lanes. No repair needed; band closed with no page edits."
+ ],
+ "detail": {
+  "frustration": "3 substantiated questions (F-A hypothesis 1939/1941/1989; catharsis vs Bushman 2002; Freud vs Frankl on deprivation) — landed 666b406c7; carriers repaired 62d179ed3/ae65e8bbb; published; dispute spans present in site app.js.",
+  "gratitude": "3 substantiated disputes (child's return Seneca vs Aristotle; discharge Seneca vs Kant; unequal rank Seneca vs BGE 260) — repair COMPLETE per supervisor QC entry 31 (88c6aa511); published; live.",
+  "right-effort": "3 substantiated questions (self-control training Oaten-Cheng vs Miles et al.; grit Duckworth vs Credé et al.; trying as road vs obstacle Dhammapada vs TTC 48) — heading conformed a74f2c917; published; live.",
+  "right-intention": "3 substantiated disputes (anger fitting: Aristotle vs SN 7.2; duty-bound war: Gita 2.33-38 vs SN 42.3; painlessness as good: Epicurus vs Seneca) — advisor count a5c91710e; published; live."
+ },
+ "note": "STEP 0 rule (PIPELINE-2026-10-26.md Lane 2) applied: skip and report items already at the bar. Recommend the other dosr bands run the same check before repairing — the QC-7 list predates the 2026-10-25 repair lanes and is likely stale elsewhere too.",
+ "in_progress": "none — band complete",
+ "flagged": {},
+ "notes": "All four dossiers verified published in registry.json and their disagreement-section spans present in site/assets/app.js (spot-markers checked)."
+}

@@ -1,5 +1,14 @@
 # Dossiers band handoff — read this first
 
+## STEP 0 RESULTS (2026-10-26, worker-pplx-dosr1-1026a)
+
+dosr1 checked and CLOSED: all four of its dossiers (frustration, gratitude,
+right-effort, right-intention) are ALREADY at the 3-5 bar with repairs landed
+2026-10-25 (details in `batches/dosr1.json`). The QC-entry-7 below-bar list is
+STALE for dosr1 and is probably stale for other bands too — RUN THE STEP 0
+CHECK before repairing anything from it. Remaining free bands at check time:
+dosr2-dosr7.
+
 ## ROUTE (2026-10-25/26, strategist-pplx-1026a, supervisor): REPAIR BANDS
 The 28-item disagreement repair pass + 3 old-map restructures are chunked into
 bands dosr1-dosr7 (batons minted, free). Band contents, rules and the worker

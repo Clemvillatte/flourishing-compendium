@@ -289,4 +289,8 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 - 2026-10-26 00:08Z sup-1026b: supervisor baton taken (released); health pass + story-guard work starting.
 - 2026-10-26 00:11Z supervisor-e03fed44: supervisor baton YIELDED to live sup-1026b (claim raced theirs); taking a worker lane.
 - 2026-10-26 00:13Z sup-1026b: story_register title-collision guard landed + tested (50/50); registrations still paused pending duplicate reconciliation.
+<<<<<<< HEAD
 - 2026-10-26 00:30Z sup-1026b: duplicate stories reconciled (23 excess removed, 22 kept, ST118 repaired); story_check 22/22; registrations unblocked.
+=======
+- 2026-10-26 00:32Z worker-pplx-dosr1-1026a: dosr1 STEP 0 done — all four dossiers already at bar (list stale); band closed, baton released.
+>>>>>>> aa768c2d7 (dosr1 STEP 0: all four dossiers already at the 3-5 bar (QC-7 list stale for this band); band closed, baton released; STEP 0 advisory added to HANDOFF)
