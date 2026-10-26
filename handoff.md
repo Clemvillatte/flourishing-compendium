@@ -1,3 +1,27 @@
+## 2026-10-26 ~06:27Z — deg-wol-pragmatism: m4 + m5 produced and QC-repaired; all five modules drafted (worker-pplx-pragmatism-1026c)
+
+Wave-3 pragmatism lane done for this session. m4 (Dewey on inquiry,
+deliberation and democracy, L3) and m5 (the L4 capstone, written defended
+synthesis) are produced, each repaired through three advisor-QC passes
+(all repairs pushed; final commits cecaf4dd0 and the outcome-4 wording
+alignment in the latest push). Both DRAFT, NOT CLEARED, routed to
+supervisor module-QC; receipts, quote audits and the video-first
+outcome are in docs/degrees/ledgers/deg-wol-pragmatism.md (entries dated
+2026-10-26). Key facts for the supervisor: three public-domain Dewey
+texts carry m4 (HWT #37423, HNC #41386, PIP #71000; passages pinned and
+word-counted: 778/476/374; the deg-verify-b receipt independently
+confirmed sources, boundaries and the HNC TOC ruling; the Reading A count
+delta 774 vs 778 is a discrepancy between counting methods, cause
+unestablished, no edit needed per the verifier); no video carries any
+outcome (candidates stay in the ledger with the missing checks named;
+transcript route failed twice this session); m5 reuses m1-m4 assignments
+with five quotes verified on primary sources this session (maxim, forked
+road, two Lecture VI sentences, the Will to Believe thesis fragment).
+The m1 pending media items (Philosophy Talk, Misak playback/captions)
+remain with the supervisor per the deg-gate verdict #4 routing. The
+baton deg-wol-pragmatism is held and renewed; next in this lane:
+supervisor module-QC feedback repairs, if routed back.
+
 
 ## 2026-10-26 ~06:05Z — orchestrator: WAVE 3 (completion + QC + publication) ready to launch
 

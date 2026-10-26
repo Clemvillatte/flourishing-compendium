@@ -36,8 +36,8 @@ The exit criteria below are the entry competencies of m5, the capstone.
    adapt your proposed action to your constraints with reasons; and
    state what evidence or feedback would change your judgment.
 4. Compare Dewey with Peirce on the same question, where inquiry starts
-   and what ends it, naming what each account emphasizes and where
-   each reaches its limit.
+   and what ends it, naming what each selection emphasizes and where
+   each selection stops.
 5. Explain Dewey's account of what discussion does for shared problems,
    and teach the pattern back to the person in your disagreement.
 
