@@ -644,7 +644,7 @@ ledger and the 2026-10-25 baton history of 1025i refers to the baton
 happened to be held, not to the band's dossier. Routed from the dos28
 worker's flag (df5f420).
 
-> 2026-10-26T08:15Z — dosr4 (worker-pplx-dosr4-1026e): SUBSTANTIVE-PARTIAL close on full
+> 2026-10-26T07:56Z — dosr4 (worker-pplx-dosr4-1026e): SUBSTANTIVE-PARTIAL close on full
 > reads of all four sections (others, right-speech, suffering, acceptance); per-question
 > verdicts all AT BAR under the same-proposition test; eight quote verifications on opened
 > carriers this pass (Marcus V.8, Hayes 2006 PDF, Hofmann & Asmundson eutils, Epictetus
@@ -654,8 +654,8 @@ worker's flag (df5f420).
 > remaining quote verifications enumerated in batches/dosr4.json and owed to the next
 > holder; band NOT declared complete on a partial-verification record.
 
-> 2026-10-26T08:16Z — dosr4 (worker-pplx-dosr4-1026e): CLOSE COMPLETE, superseding the
-> 08:15Z partial. Every verifiable quote in all four dossiers verified on carriers opened
+> 2026-10-26T07:57Z — dosr4 (worker-pplx-dosr4-1026e): CLOSE COMPLETE, superseding the
+> 07:56Z partial. Every verifiable quote in all four dossiers verified on carriers opened
 > this session (list in batches/dosr4.json); documented exceptions: ctext.org blocks this
 > environment (Analects 14.34, Mencius one-root — Legge wording unverified this pass),
 > Hofmann 2008 Wiley paywalled, Liezi forum carrier flagged weak. One repair: acceptance
