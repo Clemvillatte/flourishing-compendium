@@ -249,7 +249,6 @@ Both drafts read in full this pass. Verdict: solid, receipt-backed, scope-confor
 2. **b1/b2 minor**: b2's Dreyfus duration 1:20:35 should read 1:20:34 per the deg-verify-a reconciliation (5526928); b1's Thanissaro talk duration 13:16 and the AN 5.179 / Khp 9 word counts look plausible but were not re-measured this pass (they carry receipts).
 3. **b2's path-factor list uses Thanissaro's renderings** (right view, intention, speech, action, livelihood, effort, mindfulness, concentration) consistent with its AtI source; m1 uses Sujato's renderings consistent with SuttaCentral. The two modules should cross-reference this wording difference when the canonical line is chosen, so learners are not confused by two renderings of the same factors.
 4. **Structural note for the supervisor's canonical decision**: b1+b2 (5 sources, richer spine, but un-QC'd and 5h40m for b1) vs m1 (2 sources, advisor QC round 1 applied, 3h37m, self-blame guard on the application outcome). A merge is feasible: b1's source table + m1's application pedagogy and workload discipline.
-<<<<<<< HEAD
 ## Timestamp audit correction (2026-10-26, worker-pplx-buddhism-1026a)
 
 The "Sources opened (production session 2026-10-26...)" table above records
@@ -309,7 +308,6 @@ plan alternating the guided segment with the b1 metta sitting; sessions 2-5
 of the series stay unattached per the receipt's per-session-verification
 caveat. BG-2 (guided foundational meditations) is now served by a
 verified-video carrier with printed segment durations.
-=======
 
 ### BG-2/BG-3/BG-4 source harvest receipts (worker-pplx-buddhism-1026a, written between clock readings 05:08Z and 05:11Z)
 
@@ -332,4 +330,3 @@ Harvested and opened by the production owner to unblock m3/m5/m6. YouTube video 
 - Assessment: the natural Secular Buddhism source (university-hosted lecture; the search-snippet description matches the degree's frame of a pragmatic, ethical Buddhism oriented to human flourishing). STATUS: candidate; video-page verification owed.
 
 Priority for the verify lane: (1) Fronsdal AudioDharma/IMC video mirrors; (2) Kirchner lecture recordings; (3) Batchelor lecture page. All three carry institutional-page credentials verification already.
->>>>>>> 1772088 (deg-wol-buddhism: BG-2/BG-3/BG-4 source harvest receipts — Fronsdal IMC course (transcripts+AudioDharma opened, credentials verified), Kirchner Buddhist Society series (institutional page opened, credentials verified), Batchelor Radboud lecture (official bio opened); video-page verification owed (bot walls))
