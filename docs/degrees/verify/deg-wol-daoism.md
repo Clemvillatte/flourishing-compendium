@@ -448,3 +448,10 @@ quotes and Ziporyn attributions were already verified above; the
 round-1 repairs' Ziporyn rewording ("great structuring carves but does
 not sever") was not re-checked against the transcript this pass —
 owner's in-session reading stands.
+
+### m2 round-1 Ziporyn rewording corroboration (2026-10-26T05:11Z)
+
+The owner's reworded Ziporyn attribution ("great structuring carves
+but does not sever") matches the transcript read this session
+(D-V03-TR summary: "the line about carving without severing" in the
+chapter 28 discussion). Corroborated; no further check owed.

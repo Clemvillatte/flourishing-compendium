@@ -534,3 +534,16 @@ access, and the 403 on the second fetch is the same instability the
 owner hit. B-V10 should not be read as full-text confirmation; the
 owner's blocker supersedes the b5 book assignment. The introduction
 excerpt assignment stands per the owner's note.
+
+**QC — old-spine m1-four-truths Koṇḍañña quote vs Sujato (2026-10-26T05:11Z):** m1
+(outcome 5 and line 144) quotes Koṇḍañña's insight as "Everything that is
+liable to arise is liable to cease" citing Sujato's SN 56.11 on
+SuttaCentral. SuttaCentral remains unreachable from this environment
+(standing limitation); the same Sujato translation is mirrored on an
+independent canon site (buddhistcanon.ru, "Rolling Forth the Wheel of
+Dhamma", opened via search this pass) and reads verbatim: "Everything
+that is liable to arise is liable to cease." QUOTE VERIFIED. The task
+phrasing prefix ("this noble truth should be...") is also consistent
+with Sujato's task formulations. The b2 task-verb flag above is
+unaffected (b2 cites Thanissaro, whose cessation task reads "to be
+directly experienced").
