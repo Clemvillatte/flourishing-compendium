@@ -1,3 +1,12 @@
+## Worker checkpoint (2026-10-26 00:58Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+QC SAMPLE — concept page Bracketing: all four quotes confirmed VERBATIM
+on the [SEP Husserl entry](https://plato.stanford.edu/entries/husserl/)
+(bracket-its-validity; the natural-attitude passage including its
+continuation sentence; the epoché-naming sentence; the full epoché-purpose
+sentence). Formatting differences only (italics on epoché / natural
+attitude). No defects; no repairs needed.
+
 ## Worker checkpoint (2026-10-26 00:56Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — concept page The capabilities approach: all six quotes
