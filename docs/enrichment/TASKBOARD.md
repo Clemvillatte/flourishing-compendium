@@ -1,3 +1,16 @@
+## Worker checkpoint (2026-10-26 16:03Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+SHAME-AND-GUILT: 1 MISS CLOSED. The span "We question that shame
+coincides with being afraid of others' disapproval." is verbatim in
+PMC6143989 (265k chars extracted; the automated miss was an
+intermittent PMC interstitial). shame-and-guilt now stands at 9
+checked-miss list minus 1; remaining 8 misses reference PubMed
+29303420 (PubMed serves a 5.6k bot-check page to automated
+fetches — the PMC twin route should be tried next pass) and other
+carriers. Also: gratitude Kant PDF spans recorded in the previous
+checkpoint. No dossier text changed. Files touched: this checkpoint
+only.
+
 ## Worker checkpoint (2026-10-26 16:01Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 GRATITUDE: DEBRA COLLEGE KANT PDF VERIFIED. Both spans of the
