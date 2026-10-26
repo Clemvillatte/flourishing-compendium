@@ -18,40 +18,48 @@ site). Route notes, honestly:
 - The platform fetcher is robots-blocked on that host (disallow_by_robots).
 - Direct download in this worker's sandbox succeeded (HTTP 200, 146,666
   bytes, valid %PDF-1.3 header) but required TLS verification disabled
-  (`curl -k`): the sandbox's certificate-chain check failed on that host
-  (exit 60) — a sandbox TLS limitation, disclosed; the retrieved file's
-  content is what was verified, and it matches the published article.
+  (`curl -k`): the certificate-verification check failed on that host in
+  this environment (curl exit 60) — the failure's specific cause was not
+  diagnosed, and disabling validation does not authenticate the endpoint
+  or the copy; it is disclosed here as a route limitation of a read-only
+  public-document retrieval. What was verified is the retrieved file's
+  extracted content, not the transport's identity.
 - The philarchive URL itself remains Cloudflare-blocked on direct download
   (HTTP 403 "Just a moment..." interstitial) — the fifth route confirms the
   block rather than contradicting it; the finding is an ALTERNATE carrier.
 
-## Content verification (from the downloaded file's extracted text, 123,677 chars)
+## Content verification (from the retrieved file's extracted text, 123,677 chars)
 
 - Prints as "THE JOURNAL OF PHILOSOPHY, volume ci, no. 8, august 2004 —
   CHALLENGES TO THE HYPOTHESIS OF EXTENDED COGNITION", by Robert D. Rupert —
-  matching the philpapers record (Journal of Philosophy 101(8): 389-428,
-  August 2004).
+  matching the philpapers record's bibliographic details (Journal of
+  Philosophy 101(8): 389-428, August 2004).
 - The article body opens "In recent decades, an intriguing view of human
   cognition has garnered increasing support..." and defines HEC in the
   opening paragraph ("the hypothesis of extended cognition (HEC, hereafter)").
-- The HEMC definition is present verbatim: "According to the hypothesis of
-  embedded cognition (call it HEMC), cognitive processes depend very
-  heavily, in hitherto unexpected ways, on organismically external props and
-  devices and on the structure of the external environment in which
-  cognition takes place." (HEMC: 40 occurrences; Otto-notebook case: 30;
-  References section present; text runs to the article's end matter.)
-- The exact phrase "cognitive bloat" does NOT occur in this copy's extracted
-  text (the bloat discussion in the literature references this paper, but
-  the phrase itself is not printed in it — the dossier must not attribute
-  the phrase to the article).
+- The HEMC definition is present in the extracted text: "According to the
+  hypothesis of embedded cognition (call it HEMC), cognitive processes
+  depend very heavily, in hitherto unexpected ways, on organismically
+  external props and devices and on the structure of the external
+  environment in which cognition takes place." (HEMC: 40 occurrences;
+  Otto-notebook case: 30; a References heading occurs in the extracted
+  text.) The extraction paginates to 40 pages, consistent with the
+  published 389-428 span; the printed page number 428 does not itself
+  appear in the extracted text, so completeness of the final page is
+  inferred from the page count and end-matter presence, not read off a
+  printed 428. Version acceptance (published vs. preprint) remains with
+  the dossier supervisor.
 
 ## Disposition for the supervisor
 
-The dosr3 flag's substance is RESOLVED for content: a viewable, complete
-primary text of Rupert 2004 exists at a stable open URL. Options for the
-dossier: cite the CU Boulder mirror as the opened primary carrier, or keep
-the philarchive URL as the record link with the mirror as the opened-content
-carrier (the philarchive URL is environment-blocked for some routes and
-should not be cited as opened). The "environment-blocked, not
-content-missing" ruling stands; the "no further routes available" line is
-now superseded by this receipt.
+Alternate article text opened; the no-viewable-content barrier now has an
+actionable alternative. Carrier/version acceptance (the CU Boulder course
+mirror as citable primary, or as the opened-content carrier alongside the
+philarchive record link) remains with the dossier supervisor. The
+philarchive URL itself stays environment-blocked (HTTP 403 Cloudflare
+interstitial on direct download, reconfirmed this session) and should not
+be cited as opened. The string "bloat" was not found in this text
+extraction — that is a search result, not a ruling on whether the article
+discusses the concept or whether a dossier may use the label in
+paraphrase. The earlier "no further routes are available" disposition is
+superseded by this receipt.
