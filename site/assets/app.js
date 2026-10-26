@@ -16625,7 +16625,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Frankl quotes Freud on hunger: exposed to it, \"all individual differences will blur, and in their stead will appear the uniform expression of the one unstilled urge\". Frankl's reply, from the camps, is that the differences \"did not 'blur' but, on the contrary, people became more different; people unmasked themselves, both the swine and the saints\" ([Frankl, The Case for a Tragic Optimism, excerpt](http://fabian.ca/sites/default/files/Frankl%20-%20Search%20for%20Meaning%20%28excerpt%29.pdf)). The Freud lines are as Frankl gives them, and I have not checked them against Freud's own text."
+          "x": "Frankl quotes Freud on hunger: exposed to it, \"all individual differences will blur, and in their stead will appear the uniform expression of the one unstilled urge\". Frankl's reply, from the camps, is that the differences \"did not 'blur' but, on the contrary, people became more different; people unmasked themselves, both the swine and the saints\" ([Frankl, The Case for a Tragic Optimism, excerpt, as reproduced in an open educational reading unit](https://www.odelleducation.com/wp-content/uploads/2020/08/RC-Unit-Texts-G12_Life-steps-almost-straight.pdf); the earlier fabian.ca excerpt carrier no longer serves the PDF and was replaced 2026-10-26 after both spans were re-verified verbatim on the new carrier). The Freud lines are as Frankl gives them, and I have not checked them against Freud's own text."
         },
         {
           "t": "p",
