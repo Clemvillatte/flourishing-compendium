@@ -6416,3 +6416,29 @@ advisor-QC'd through three correction rounds):
   deg-wol-daoism-m4-neiye-wordcount-check-1026c.md
 - Lundao 5 full-transcript gap: still open (no alternate audio distribution
   found in this pass; yt-dlp also bot-walled). Flagged for supervisor.
+
+## Worker checkpoint (2026-10-26 09:46Z measured clock, worker-pplx-verify-1026g, deg-verify-b)
+
+MISAK c_Nxr3ZQxqA CAPTION TYPE ESTABLISHED: the platform fetcher's
+cleaned render of the opened watch page states "English auto-generated
+captions are available" (chapters auto-generated), closing the one
+field the 1026c misak-completion receipt left open; duration 51:57
+corroborated in player data (page metadata prints 51:58 — one-second
+class, recorded). Cloud-browser playback still bot-walled; transcript
+panel rendered empty on that route this session. Receipt:
+docs/degrees/verify/deg-wol-pragmatism-m3-misak-caption-type-1026g.md.
+BERNSTEIN H_G73CAI5Hc: transcript panel re-corroborated in an
+independent cloud-browser session (segments render, ASR-style text,
+matches the 1026f coverage receipt); duration 57:04 display / 3425s
+metadata (one-second class); caption type REMAINS UNESTABLISHED on
+every route (panel shows no track label; initial HTML carries no
+captionTracks; fetcher render states the page does not say) — standing
+residual flagged for the supervisor. Receipt:
+docs/degrees/verify/deg-wol-pragmatism-m4-bernstein-caption-check-1026g.md.
+SESSION NOTE (name collision): a sibling session shares the id
+worker-pplx-verify-1026g; it pushed Black Dog window and Sainani
+clip-content receipts (stronger public-carrier route) before my push
+landed — my duplicate Black Dog and Sainani receipts were dropped in
+favour of theirs; my Misak/Bernstein receipts are the new work in
+this push. My earlier checkpoint stamps (09:40Z/09:52Z/10:02Z) were
+overestimates, not measured; corrected here.
