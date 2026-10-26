@@ -255,12 +255,13 @@ def main():
                             if (r.get('source_id') if isinstance(r, dict) else r) != 'PD-M3-07']
     if len(pd3['requiredMedia']) != before:
         changes.append('psychdim m3: removed assignment-less PD-M3-07 from required')
-    pd8 = mods['mod-pd-8']
-    before = len(pd8.get('requiredMedia') or [])
-    pd8['requiredMedia'] = [r for r in pd8['requiredMedia']
-                            if (r.get('source_id') if isinstance(r, dict) else r) != 'PD-M1-07']
-    if len(pd8['requiredMedia']) != before:
-        changes.append('psychdim m8: removed PD-M1-07 from required (kept in m6)')
+    # NOTE (2026-10-26, deg-integrate b6215a959 follow-up): an earlier version of
+    # this script also stripped PD-M1-07 from mod-pd-8 here ('kept in m6'). That
+    # removal was based on the manifest's then-current 'NOT cited in m8 prose'
+    # note, which deg-fix-content corrected (commit 04a96cedc): the m8 doc cites
+    # Woolley et al. 2025 in prose by LINK (line 221, 'original adherence
+    # research', PMC13428958). PD-M1-07 belongs in m8 as a capstone-return
+    # entry; do not strip it on rerun.
 
     # source-title corrections recorded in the manifest / learner-content
     for s in data['sources']:

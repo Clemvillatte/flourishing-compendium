@@ -86,6 +86,16 @@ class PhaseASpliceTests(unittest.TestCase):
             deg = next(d for d in data['degrees'] if d['id'] == did)
             self.assertTrue((deg.get('openingNote') or '').strip(), did)
 
+    def test_m8_carries_pd_m1_07_capstone_return(self):
+        # deg-fix-content corrected the manifest (commit 04a96cedc): the m8 doc
+        # cites Woolley et al. 2025 in prose by LINK (line 221, 'original
+        # adherence research', PMC13428958). PD-M1-07 must stay in m8 as a
+        # capstone-return entry (re-add b6215a959); the splice script must not
+        # strip it on rerun.
+        r = refs('mod-pd-8')['PD-M1-07']
+        self.assertEqual(r.get('role'), 'capstone-return')
+        self.assertIn('module 6', r['locator'])
+
     def test_reading_optional_remainder_is_distinct(self):
         data = load()
         opt = [x for x in data['modules']['mod-prag-1']['optionalMedia']
