@@ -22202,6 +22202,7 @@ function openEmbeddedPlayer(src, url, ref, modId){
     head.appendChild(al);
   }
   box.appendChild(head);
+  let segBar = null;
   const frame = el('div','acad-player-frame');
   const ytId = extractYouTubeId(url);
   const hasWebOrigin = (location.protocol === 'http:' || location.protocol === 'https:') && location.origin && location.origin !== 'null';
@@ -22236,7 +22237,7 @@ function openEmbeddedPlayer(src, url, ref, modId){
         b.onclick = ()=>{ iframe.src = embedFor(w); };
         jump.appendChild(b);
       });
-      frame.appendChild(jump);
+      segBar = jump;
     }
   } else {
     const msg = el('div','acad-player-fallback','This source is hosted on an external site.');
@@ -22246,6 +22247,7 @@ function openEmbeddedPlayer(src, url, ref, modId){
     frame.appendChild(msg);
   }
   box.appendChild(frame);
+  if(segBar) box.appendChild(segBar);
   const foot = el('div','acad-player-foot');
   // 'Open in new tab' removed — redundant with the YouTube fallback's 'Play on YouTube' button
   const doneBtn = el('button','acad-btn primary', A.completed.has(playKey)?'✓ Watched':'Mark as watched');
