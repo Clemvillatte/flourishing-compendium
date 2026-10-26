@@ -1,7 +1,7 @@
 {
  "baton": "deg-gate",
- "agent": "gate-pplx-w3-1026a",
- "clocked_in": "2026-10-26T05:54:08+00:00",
+ "agent": "worker-pplx-deg-gate-1026a",
+ "clocked_in": "2026-10-26T07:40:05+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-deg-gate-1026a",
@@ -26,8 +26,12 @@
    "at": "2026-10-26T05:49:30+00:00",
    "from": "gate-49bf153e",
    "reason": "stale (50 min)"
+  },
+  {
+   "by": "worker-pplx-deg-gate-1026a",
+   "at": "2026-10-26T07:40:05+00:00",
+   "from": "gate-pplx-w3-1026a",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-26T05:54:57+00:00"
+ ]
 }
