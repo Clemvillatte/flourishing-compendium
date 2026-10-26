@@ -2479,7 +2479,7 @@
    ]
   },
   "s1a-066": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "D110: the Huainanzi horse parable \u2014 the father's three replies",
    "history": [
     {
@@ -2495,6 +2495,11 @@
      "t": "2026-10-25T15:25:48+00:00",
      "to": "qc_pending",
      "note": "ledger paraphrase replaced with page's own sentence; quotes re-verified; story_check ok"
+    },
+    {
+     "t": "2026-10-26T09:56:42+00:00",
+     "to": "ready",
+     "note": "final QC (1026f): quotes and facts re-verified against the opened Wikipedia page (Larre et al. rendering, chengyu, ch.18/2nd c. BCE dating); story_check ok"
     }
    ]
   },
