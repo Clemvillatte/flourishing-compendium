@@ -38,7 +38,12 @@ Notes:
   second pass. Plausible for consecutive lectures in the same Yale series.
 - BUD-B5-02 (Sumedho talk) was backfilled earlier at 1:01:36 from the buddhism
   Phase-0 manifest, which prints the whole-video duration in the assignment text;
-  no page fetch was needed.
+  no page fetch was needed. Post-QC live check (~12:10Z): the watch page
+  (SElyOzgkxjo, Amaravati Buddhist Monastery) was opened — title, host and
+  talk date (13 May 2017) match the ledger, and the page's displayed video
+  length is 1:01:36, confirming the manifest value against the live page.
+  (The page's embedded lengthSeconds field was not extractable on this fetch;
+  the displayed length is the confirmation.)
 - PD-M7-10 locator set from the m7 module doc: "Vohs and colleagues, 2021:
   Abstract and Methods' 'Participants' subsection only" (m7-overt-behavioural.md,
   reading list). The title had already been corrected to the Vohs author
