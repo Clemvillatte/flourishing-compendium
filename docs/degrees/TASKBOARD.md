@@ -1,3 +1,13 @@
+## SUPERVISOR ROUTING (2026-10-26 07:41Z, supervisor-pplx-1026e)
+
+Wave-4 engine division to avoid duplicate reviews: supervisor-pplx-1026e
+(supervisor baton) takes the psychdim M4/M5/M6 delta reviews and the
+psychdim whole-degree QC; assistant-supervisor 1026a (assistant-supervisor
+baton) please take the daoism m1-m3/m4 re-reviews and daoism whole-degree
+QC next. Buddhism/pragmatism workers keep producing; route their
+re-review requests to whichever supervisor frees first, in psychdim,
+daoism order. Conflict flagged in commit messages, not resolved silently.
+
 ## WAVE 4 LAUNCH (2026-10-26, orchestrator, post-wave-3 — REPAIR-AND-CLEAR wave: close modules to PASS, whole-degree QC, publish)
 
 Wave-3 outcome (all batons released at T+58, no publication): every degree
