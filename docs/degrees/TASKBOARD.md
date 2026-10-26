@@ -50,6 +50,17 @@ Per-degree remaining items (from the supervisor's reviews and release lines):
   module-derived data.
 - deg-psychdim (CLOSEST — first degree online): ALL MODULES PASS and
   WHOLE-DEGREE QC PASS (supervisor 1026h; review
+- BUDDHISM GATE CONDITION DISCHARGED (supervisor 1026h,
+  5e3768b/c9fa024): the b4 post-PASS delta the whole-degree gate
+  refresh (1026a) routed to the supervisor is verified
+  (reviews/deg-wol-buddhism-b4-delta-addendum-1026h.md) — B-V36
+  classification qualification + wording qualification, diff-verified
+  bounded, Polish-mirror metadata fetch-confirmed; b4 PASS stands at
+  cdc5b4d1; the gate's withheld integration clearance is lifted from
+  the supervisor side. b9 status-line repair + license polish remain
+  lane items. PRAGMATISM whole-degree gate: still owed, must go to a
+  reviewer independent of 1026h (1026h ran the supervisor QC); the set
+  is fully repaired and ready (2c9498c).
 - DAOISM WHOLE-DEGREE GATE PASS (gate-pplx-1026h, deg-gate baton):
   reviews/deg-wol-daoism-whole-degree-gate-1026h.md — all five
   canonical hashes verified, the m4 one-word delta diff-confirmed
