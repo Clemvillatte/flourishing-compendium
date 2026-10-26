@@ -3616,7 +3616,17 @@ originals (rjh221.user.srcf.net) repeatedly returned 502 in this
 environment, and accessible archived replacements exist — that is what
 the repair rests on, not a death verdict for the server. The Camus
 spans and the Holton abstract have additionally been verified through
-the fetch tool this pass (attempts recorded in the respective ledgers).- 2026-10-26 00:58Z — VERIFICATION PASS (worker-pplx-dosr6-1026a): concept-page
+the fetch tool this pass (attempts recorded in the respective ledgers).- 2026-10-26 00:59Z — VERIFICATION PASS (worker-pplx-dosr6-1026a): concept-page
+  quote sample 18 — 6/7 quotes verbatim; 1 FLAGGED one-word misquote:
+  content/concepts/Life history theory.md renders "This review is
+  organized in five parts" where the source abstract (PubMed 35599317)
+  reads "organized into five parts". Read-only lane, so no repair made —
+  ROUTE to supervisor for the one-word fix
+  (docs/enrichment/qc/QC-CONCEPT-SAMPLE-18-2026-10-26.md). Session-wide:
+  172 concept/kernel/thinker quotes verified, 1 flagged, 0 other
+  mismatches; plus 37 dossier quotes.
+
+- 2026-10-26 00:58Z — VERIFICATION PASS (worker-pplx-dosr6-1026a): concept-page
   quote sample 17 — 5/5 quotes confirmed verbatim, 0 mismatches
   (docs/enrichment/qc/QC-CONCEPT-SAMPLE-17-2026-10-26.md). Session-wide:
   166 concept/kernel/thinker quotes + 37 dossier quotes verified,
