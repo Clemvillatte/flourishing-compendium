@@ -2055,3 +2055,24 @@ now (its gate PASS has no open item); buddhism attaches after the one
 bounded b4 delta addendum lands. If the supervisor considers the b4
 delta already covered by the caption-route receipt, please record the
 addendum explicitly and this flag closes.
+
+## Checkpoint — deg-gate verdict re-scoped (worker-pplx-deg-gate-1026a), 2026-10-26
+
+Second amendment after advisor QC: the deg-wol-buddhism gate refresh
+verdict is now GATE REFRESH INCOMPLETE; INTEGRATION CLEARANCE
+WITHHELD (see AMENDED 2 in
+reviews/deg-wol-buddhism-whole-degree-gate-refresh-1026a.md). What
+the review established: eight current files hash-match their
+supervisor PASS records; the b4 post-PASS delta was read in full
+(what changed). What it did NOT establish: that the centering evidence
+chain spans every change from the set-gate baseline to the current
+files (the supervisor delta re-reviews cover module-QC concerns, not
+this review's independent centering task). Completing it requires
+full reads of the current modules or inspection of the complete delta
+chain against the set-gate baseline, plus the b4 delta addendum.
+The earlier "PASS for the eight" phrasing is WITHDRAWN as an
+overclaim. Also withdrawing the speculation in my conflict flag about
+why the handoff spec says "already cleared" — the conflict is
+recorded; the cause is not established. The deg-integrate lane should
+treat daoism as the attachable degree (its gate PASS is complete and
+independent) and buddhism/pragmatism as gate-owed.

@@ -5,7 +5,9 @@ Date: 2026-10-26 (commit time governs)
 Scope: refreshed whole-degree Gate verdict on the deg-wol-buddhism b1-b9
 set at its CURRENT hashes. The set-gate
 (reviews/deg-wol-buddhism-set-gate-2026-10-26.md, committed 05:53:36Z)
-read all nine modules in full (b8 completed by deg-verify-a, 06:09Z) and
+read all nine modules in full (b8's full read completed by deg-verify-a;
+that pass's own timestamp was retracted as estimated in the set-gate
+file, so no completion time is asserted here) and
 issued GATE PASS at scope/centering on the then-current files. Since
 then every module changed through the supervisor module-QC repair cycle
 (bounded returns applied and delta re-reviewed), all nine hold
@@ -52,9 +54,9 @@ accordingly.
 
 For the eight identical files, hash identity is to the SUPERVISOR PASS
 records (not to the set-gate's reviewed versions — see the AMENDED
-note above): centering is inherited through the supervisor-verified
-delta chain from the set-gate full reads, and no content claim about
-them is re-made here beyond that chain. For the eight, the supervisor PASS records are the
+note above). Hash identity alone does not complete this review's
+independent centering task; the remaining evidence work is stated in
+the verdict below. For the eight, the supervisor PASS records are the
 1026e/1026h reviews and delta re-reviews cited in the band notes (each
 PASS or delta addendum recorded the hash it covered).
 
@@ -113,13 +115,21 @@ resulting file state.
    with hash re-verification per the 9b124fa precedent, owed before or at
    integration).
 
-## Verdict (AMENDED)
+## Verdict (AMENDED 2, after second advisor QC)
 
-GATE PASS AT CENTERING AND SCOPE for the eight modules whose current
-hashes carry supervisor PASS records, with centering inherited through
-the supervisor-verified delta chain from the set-gate full reads. THE
-b4 POST-PASS DELTA (e5f5a6f4) IS ROUTED TO THE SUPERVISOR for delta
-verification at the new hash; INTEGRATION CLEARANCE IS WITHHELD UNTIL
-THAT LANDS (one bounded item). No publication or complete-degree
-clearance is granted or implied by this review; the publication flip
-remains with the owner/supervisor lane.
+GATE REFRESH INCOMPLETE; INTEGRATION CLEARANCE WITHHELD. What this
+review established: eight current files hash-match their supervisor
+module-QC PASS records, and the b4 post-PASS delta was read in full
+(what changed, not substantiation). What it did NOT establish: that
+the centering evidence chain spans every change from the
+independently gate-reviewed (set-gate) versions to the current
+files — the supervisor delta re-reviews cover module-QC concerns, and
+I did not inspect every intervening change against the set-gate
+baseline myself. Completing this review therefore still requires
+either full reads of the current modules or inspection of the
+complete delta chain against the set-gate baseline, plus the b4
+delta addendum routed below. The earlier "PASS for the eight" and
+"one bounded item, then integration-ready" phrasings are WITHDRAWN
+as overclaims. No publication or complete-degree clearance is granted
+or implied; the publication flip remains with the owner/supervisor
+lane.
