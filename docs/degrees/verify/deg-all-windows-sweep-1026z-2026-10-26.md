@@ -50,3 +50,10 @@ docs is represented in the data block; no window mismatches found. Residual
 known items (owner/worker routed, not window defects): the wiki_readings
 owner decision; daoism m2/m3 manifest role one-worders; the PD-M2-07 Gross
 bounded-span decision.
+
+## Quote re-verification sample (added ~12:16Z)
+
+- pragmatism m2 quotes Peirce verbatim: "The irritation of doubt causes a
+  struggle to attain a state of belief." — confirmed word-for-word on the live
+  Wikisource text (en.wikisource.org/wiki/The_Fixation_of_Belief), matching
+  the module doc's quotation. PASS.
