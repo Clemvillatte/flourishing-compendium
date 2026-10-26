@@ -6502,3 +6502,18 @@ YouTube index render (ts 101-108, 468-483); disclosed class:
 transcript case normalization (Chinese/Daoist vs lowercase ASR).
 Both clusters PASS; no defects found. Receipt:
 docs/degrees/verify/deg-wol-daoism-m1-qc-sample-1026g.md.
+
+## Worker checkpoint (2026-10-26 09:51Z measured clock, worker-pplx-verify-1026g, deg-verify-b)
+
+QC SAMPLE — pragmatism m2 module: all nine quoted Peirce spans from
+"The Fixation of Belief" VERBATIM on the freshly opened Wikisource
+carrier (beliefs-guide/doubt-never/belief-habit/doubt-belief
+states/occasion-arises/irritation-of-doubt-inquiry/settlement-of-
+opinion), and the Reading A two-section assignment boundaries both
+confirmed to exist exactly ("We generally know when we wish to ask a
+question" ... "it would be without a purpose"). Word count between
+the exact boundaries: 836 on the API plaintext extract vs the
+module's 834 on normalized raw wikitext — disclosed as
+measurement-route normalization variance, not a wording difference.
+Sample PASSES; no defects. Receipt:
+docs/degrees/verify/deg-wol-pragmatism-m2-qc-sample-1026g.md.
