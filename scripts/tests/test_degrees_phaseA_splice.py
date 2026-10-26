@@ -56,17 +56,19 @@ class PhaseASpliceTests(unittest.TestCase):
         data = load()
         srcs = {s['source_id']: s for s in data['sources']}
         r = refs('mod-prag-3')
+        # Manifest ids (docs/degrees/integration/deg-wol-pragmatism-manifest.json) are the contract:
+        # M3-02 Reading A, M3-03 Readings B1+B2 (two Lecture II passages, one source), M3-04 Reading B3.
         self.assertIn('PRAG-M3-02', r)   # Reading A: The Will to Believe
-        self.assertIn('PRAG-M3-03', r)   # Reading B1: Lecture II
-        self.assertIn('PRAG-M3-04', r)   # Reading B2: Lecture II
-        self.assertIn('PRAG-M3-05', r)   # Reading B3: Lecture VI
+        self.assertIn('PRAG-M3-03', r)   # Readings B1 and B2: Lecture II (two passages, one row)
+        self.assertIn('PRAG-M3-04', r)   # Reading B3: Lecture VI
+        self.assertNotIn('PRAG-M3-05', r)
         lec2 = 'Pragmatism:_A_New_Name_for_Some_Old_Ways_of_Thinking/Lecture_II'
         lec6 = 'Pragmatism:_A_New_Name_for_Some_Old_Ways_of_Thinking/Lecture_VI'
         self.assertIn(lec2, srcs['PRAG-M3-03']['canonical_url'])
-        self.assertIn(lec2, srcs['PRAG-M3-04']['canonical_url'])
-        self.assertIn(lec6, srcs['PRAG-M3-05']['canonical_url'])
-        self.assertIn('264 words', r['PRAG-M3-04']['locator'])
-        self.assertIn('157 words', r['PRAG-M3-05']['locator'])
+        self.assertIn(lec6, srcs['PRAG-M3-04']['canonical_url'])
+        self.assertIn('952 words', r['PRAG-M3-03']['locator'])
+        self.assertIn('264 words', r['PRAG-M3-03']['locator'])
+        self.assertIn('157 words', r['PRAG-M3-04']['locator'])
 
     def test_m7_bouton_locator_is_m7_assignment(self):
         r = refs('mod-pd-7')['PD-M3-05']
