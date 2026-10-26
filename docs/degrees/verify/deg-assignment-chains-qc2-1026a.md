@@ -1,5 +1,11 @@
 # DEGREE VERIFICATION RECEIPT — QC sample, two module chains (buddhism b2, daoism m2)
 
+> SCOPE CORRECTION (added with QC6, 2026-10-26): this receipt predates later data changes
+> (the PRAG-M4-01 stale-fix defect and revert; the schema-lane registry restructure). The
+> pragmatism m4 chain it PASSed was later defective and restored; read it together with
+> deg-assignment-chains-qc6-1026a.md and deg-prag-m4-01-revert-1026a.md.
+
+
 - Receipt id: deg-assignment-chains-qc2-1026a
 - Agent: worker-pplx-schema-1026a (deg-fix-schema contributor; no baton — 1026b holds the schema baton)
 - Date: 2026-10-26; receipt pushed at commit 9c958570 (git commit time 11:56:39Z;
