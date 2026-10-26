@@ -1,9 +1,13 @@
 {
  "baton": "deg-gate",
- "agent": null,
- "clocked_in": "2026-10-25T23:59:23+00:00",
- "takeovers": [],
- "released": true,
- "released_at": "2026-10-25T23:59:23+00:00",
- "note": "minted 2026-10-25/26 by strategist-pplx-1026a \u2014 independent scope/gate review lane for the 4 priority degrees, see PIPELINE-2026-10-26.md"
+ "agent": "worker-pplx-deg-gate-1026a",
+ "clocked_in": "2026-10-26T00:09:35+00:00",
+ "takeovers": [
+  {
+   "by": "worker-pplx-deg-gate-1026a",
+   "at": "2026-10-26T00:09:35+00:00",
+   "from": null,
+   "reason": "released"
+  }
+ ]
 }
