@@ -398,3 +398,21 @@ checks against the Eno text:
   Religion, Philosophy, and Comparative Thought; also in the College",
   PhD University of Michigan. Corroborates m2's credential claim and
   the m1 receipt's credentials basis.
+
+### m2 QC addendum 2 (2026-10-26T05:10Z)
+
+- m2's ch. 16 opening quote ("Reaching the ultimate of emptiness,
+  deeply guarding stillness, the things of the world arise together;
+  thereby do I watch their return"): VERIFIED VERBATIM — matches the
+  Eno text as indexed from the carrier (factsanddetails quotation of
+  the Eno source, opened via search this pass) and consistent with the
+  mirror.
+- m2's ch. 44 opening quote ("One's reputation or one's body: which is
+  dearer? One's body or one's goods: which is worth more?") and its
+  summary gloss (knowing what is enough escapes shame; knowing when to
+  stop escapes danger): VERIFIED VERBATIM against the terebess mirror
+  of Eno's translation (v1.3, 2010 text unchanged; third-party
+  corroborating mirror, carrier re-open blocked for this environment).
+- Word-count claim for ch. 16+44 (165 words) not independently
+  re-counted (mirror text retrieved without layout); owner's
+  full-download measurement stands unrefuted.
