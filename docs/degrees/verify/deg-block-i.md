@@ -597,3 +597,21 @@ Remaining batch-3 variants (16 of 20) are shorter formatting variants
   the attachment with a URL that actually carries the Rick Warren
   sermon, or re-describe the record. This is the first clear identity
   mismatch in the batch-3 set.
+
+## M08-S27 resolution (2026-10-26T05:16Z)
+
+Raw HTML of the positiveorgs page opened: NO embedded player (no
+iframe, no video element, no YouTube/Vimeo/Wistia embed) — the page
+is the Positive Links Speaker Series event page for the 2023-10-30
+fireside chat (Cohen with Ethan Kross) about the book; the site's own
+oEmbed alternate declares the canonical URL to be the /book/ page. As
+attached, the record's URL does NOT carry a playable video.
+
+Replacement candidate found (not attached, owner decision): the
+Library of Congress 2022 National Book Festival recording "Creating
+Connection and Bridging Divides with Geoffrey L. Cohen"
+(loc.gov/item/2024698203, video, recorded 2022-09-03, free official
+carrier). Alternatively the Fetzer Institute event page (2023-04-12,
+Cohen with Beverly Daniel Tatum) states it carries video and
+transcript. Owner action: re-point M08-S27 to a carrier with a player
+or re-describe as an event/text page.
