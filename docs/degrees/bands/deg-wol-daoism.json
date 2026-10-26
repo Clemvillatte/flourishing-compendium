@@ -42,8 +42,8 @@
       "file": "docs/degrees/modules/deg-wol-daoism/m5-capstone-synthesis.md",
       "advisory_qc": "ACCEPTED as DRAFT pending supervisor module-QC (round 4)",
       "advisory_qc_rounds": 4,
-      "supervisor_module_qc": "PENDING",
-      "status": "drafted this session (wave 3); advisor QC round 1 submitted"
+      "supervisor_module_qc": "BOUNDED RETURN 2026-10-26 (supervisor-pplx-1026f), reviewed as a capstone specification per the M8 precedent: four repairs \u2014 (1) title-heading em dash (humanizer rule covers headings); (2) rubric specimens: criterion 4 decline lacks its passage-touching reason, criteria 2/5 examples partial (complete or label as illustrative excerpts); (3) \"four newly assigned chapters\" inaccurate for ch44 (already in m2) \u2014 say the four capstone readings; (4) the teach-back close references \"your m4 deliverable c question\" but m4 deliverable c asks for no kept question (adjust phrasing or add the element to m4). Arithmetic, all chapter quotes (20/44/50/67) verified by me against the opened Eno text, m4 deliverable-c handoff read, alignment verified. Hash reviewed: eac70f2d. See reviews/deg-wol-daoism-m5-supervisor-2026-10-26.md.",
+      "status": "bounded return; repairs routed to the active daoism producer; module not cleared; capstone specification structure sound"
     }
   },
   "notes": "2026-10-26 (supervisor-pplx-1026c-daoism, wave 3): five-module set drafted end to end; m5 ACCEPTED as DRAFT (advisor round 4, bookkeeping commit 41b3baf88; ch.67 specimen punctuation fixed per deg-verify-b receipt); m4 DRAFT with Neiye counts corrected (518 words; totals 3h19/199) and video verification COMPLETE per deg-verify-a (duration/captions/identity corroborated) \u2014 only the whole-talk-assignment scope ruling remains, with supervisor module-QC; supervisor module-QC owed on m1-m5; no partial publication",
