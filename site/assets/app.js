@@ -8510,6 +8510,10 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
+          "x": "The full text of that commentary, opened this session, sharpens the reply into a direct reversal of Haidt's image: \"Contrary to Hume, it is the rational dog that wags the emotional tail, not vice versa\" ([Pizarro and Bloom 2003, full text held at the Yale Mind and Development Lab](https://minddevlab.yale.edu/sites/default/files/files/The%20intelligence%20of%20the%20moral%20emotions_%20%20A%20comment%20on%20Haidt.pdf)). Haidt's own closing words state the thesis being reversed at its boldest: \"The time may be right, therefore, to take another look at Hume's perverse thesis: that moral emotions and intuitions drive moral reasoning, just as surely as a dog wags its tail\" ([Haidt 2001, Psychological Review, p. 830, archived University of Virginia-hosted copy of the published article](https://web.archive.org/web/20081109215802/http://faculty.virginia.edu/haidtlab/articles/haidt.emotionaldog.pdf))."
+        },
+        {
+          "t": "p",
           "x": "Haidt answered in the same journal. The abstract of his reply summarises Pizarro and Bloom as arguing \"against the social intuitionist model of moral judgment (Haidt, 2001) and for a modified rationalist model\", and states his answer to their two main arguments:"
         },
         {
@@ -8519,7 +8523,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "So both sides now agree that intuitions can change and that people sometimes deliberate. What the exchange disputes is the adequacy of the model's treatment of reasoning: Pizarro and Bloom argue that evidence of prior reasoning shaping intuitions limits the social intuitionist model's strong claims about conscious deliberation, and Haidt replies that an intuitionist model allows malleability, flexibility and cases of moral deliberation. These abstracts do not establish that Haidt denies every causal contribution from earlier reasoning, and the two positions are not simply incompatible: earlier reasoning could shape an intuition while the reasoning offered after a judgment merely justifies it. I have only the abstract of the reply, not its two pages of argument, so I do not report how Haidt supports that claim, and the sources opened here do not settle which account fits ordinary moral life better."
+          "x": "So both sides now agree that intuitions can change and that people sometimes deliberate. What the exchange disputes is the adequacy of the model's treatment of reasoning: Pizarro and Bloom argue that evidence of prior reasoning shaping intuitions limits the social intuitionist model's strong claims about conscious deliberation, and Haidt replies that an intuitionist model allows malleability, flexibility and cases of moral deliberation. These sources do not establish that Haidt denies every causal contribution from earlier reasoning, and the two positions are not simply incompatible: earlier reasoning could shape an intuition while the reasoning offered after a judgment merely justifies it. I have now read the commentary's full text; Haidt's two-page reply is still open to me only through its abstract, so I do not report how he supports his answer beyond that summary, and the sources opened here do not settle which account fits ordinary moral life better."
+        },
+        {
+          "t": "p",
+          "x": "The commentary's own argument names two channels by which reasoning gets into the intuition before the judgment ([Pizarro and Bloom 2003, full text](https://minddevlab.yale.edu/sites/default/files/files/The%20intelligence%20of%20the%20moral%20emotions_%20%20A%20comment%20on%20Haidt.pdf)). Reasoning changes appraisals — the same telephone number found in a spouse's pocket can spark jealousy or mere curiosity depending on how the situation is construed. And reasoning chooses the inputs: people pick the environments and examples that train their automatic reactions, as dieters stay out of the ice-cream aisle. Beyond the laboratory, the authors argue, people face questions with no off-the-shelf gut answer — how much to give, what one owes one's friends — so that \"in the real world, moral reasoning is essential.\" In footnote 2 they acknowledge that deliberative reasoning may be statistically rare, but \"frequency and duration are poor cues to the importance of an event.\""
         },
         {
           "t": "p",
