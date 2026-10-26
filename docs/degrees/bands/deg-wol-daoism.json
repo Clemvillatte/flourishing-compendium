@@ -4,13 +4,7 @@
   "holder": null,
   "phase": "gate1-cleared-m1-m3-accepted-m4-m5-drafted",
   "modules": {
-    "m1-orientation": {
-      "file": "docs/degrees/modules/deg-wol-daoism/m1-orientation.md",
-      "advisory_qc": "ACCEPTED",
-      "advisory_qc_rounds": 6,
-      "supervisor_module_qc": "PENDING",
-      "status": "drafted and accepted; advisor content/pedagogical QC accepted in round 6; supervisor module-QC pending"
-    },
+    "m1-orientation": "supervisor rereview 2026-10-26 (supervisor-pplx-1026f): bounded return, four repairs (Ziporyn 'coherent text' quote does not match the receipt's 'coherent anthology' \u2014 re-verify or correct; humanizer cleanup of STATUS/Gate-1/verification-process narration in the learner path; workload 'measured' claims need a stated counting rule or transparent estimate \u2014 3,980 not reproducible, I count 4,268 Instruction-through-Rubric; stale Neiye no-verified-source statement vs m4's verified Komjathy Lundao 5). Arithmetic, Eno ch8 + Butterfly Dream quotes verbatim (I opened both texts), entry-exit chain to m2, and segment boundaries per the independent cross-check receipt all verified. Hash reviewed: 89bdafe1. See reviews/deg-wol-daoism-m1-supervisor-2026-10-26.md.",
     "m2": {
       "file": "docs/degrees/modules/deg-wol-daoism/m2-daodejing-as-practice-manual.md",
       "advisory_qc": "ACCEPTED",

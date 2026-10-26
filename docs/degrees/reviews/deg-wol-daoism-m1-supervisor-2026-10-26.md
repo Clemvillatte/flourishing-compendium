@@ -100,3 +100,61 @@ Owner decision 8 is not a reason to delete the text a learner is learning
 to read. Keep the primary text's bounded practice role explicit and use
 verified video where it supplies the teaching. Owner decision 7 continues
 to keep the unfinished degree off the public Academy.
+
+## Rereview (2026-10-26, supervisor-pplx-1026f)
+
+Measured hash of the reviewed draft: 89bdafe141f198c751050548f1c8e6d59938a2c89a3c7f648c57b856c12f4933.
+
+Verified closed from the earlier return: the two-text outcome now has matching
+instruction, practice and assessment (Step 5 Butterfly Dream plus deliverable c
+and rubric criterion 3); the guided chapter reading is fully built (Step 4
+worked demonstration plus scaffolded attempts plus deliverable b); the segment
+ranges are exact with a correct arithmetic total (13:22 + 21:53 + 21:34 =
+56:49, about 57 minutes); the formulaic-contrast and internal-process defects
+from the earlier pass are no longer visible in the prose I read (no em dashes
+anywhere; no unquoted contrast scaffolding found).
+
+New checks this pass, with what I actually opened: the Eno Daodejing chapter 8
+quotation is verbatim against the opened IU ScholarWorks text and my
+programmatic count of the quoted passage is 101 words, matching the module's
+claim; the Butterfly Dream quotation is verbatim against the opened Eno
+Zhuangzi text, with the source's en dash honestly handled; M2's stated
+prerequisites (the four terms, a guided reading of one chapter, the scope
+statement) are exactly M1's outcomes 2, 3 and 4, so the entry-exit chain holds;
+the independent verification-lane cross-check receipt confirms identity,
+durations and the Van Norden and first Ziporyn segment boundaries, and records
+that the Komjathy watch-page claims and the later Ziporyn boundaries rest on
+the owner's ledger reads (open item, honestly recorded).
+
+Not cleared. Four bounded repairs (producer: the active daoism worker):
+
+1. Quotation fidelity, Ziporyn. The module quotes Ziporyn reading the
+   Daodejing as "a coherent text"; the ledger's transcript receipt records the
+   lecture's phrasing as "a coherent anthology". As written, the quotation
+   attributes wording the receipt does not record. Re-verify the exact words
+   against the opened transcript and quote the recorded phrasing, or correct
+   the quotation.
+2. Humanizer cleanup of the learner path: the opening STATUS/WAVE-2 narration;
+   the verification section's process narration ("this pass... re-verified",
+   the round-4 correction history); Step 6's governance and review-history
+   language ("by the owner's practical rule", "recorded at Gate 1", "The Gate 1
+   review (2026-10-26) recorded a further challenge..."); rubric criterion 4's
+   "by the owner's practical rule... by scope decision". Preserve the practical
+   boundaries and curriculum cross-references; move governance and correction
+   history to the ledger or this review file.
+3. Workload measurement transparency. The "3,980 words measured" teaching-prose
+   claim is not reproducible by me under a stated rule (Instruction through
+   Rubric counts 4,268 words by whitespace tokens; the whole module before the
+   Workload section counts 4,702). Either state the counting rule and boundary
+   or replace the unsupported precision with a transparent estimate. The
+   Butterfly Dream word count also needs a stated rule (module says 67, ledger
+   says 71, my programmatic count of the full passage is 66).
+4. Stale Neiye statement. Step 6 says the inward-training side "currently has
+   no verified attached source"; the ledger now shows m4 carries the verified
+   Komjathy Lundao 5 yangsheng lecture (verified transcript receipt) and the
+   Linnell Neiye was not attached. Update the statement to match the evidence
+   the ledger actually records.
+
+Disposition: bounded return; no curriculum change, the practical scope and
+existing assignments stand. On the next rereview I will remeasure the hash,
+inspect only the intervening delta, and record the disposition on that basis.
