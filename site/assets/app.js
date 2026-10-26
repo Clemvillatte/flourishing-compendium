@@ -22384,7 +22384,10 @@ function renderModuleDetail(modId){
 
   // Viewing list — level label once per group (matches the degree syllabus)
   const sec = el('div','acad-section');
-  sec.appendChild(el('div','acad-body-h','Viewing list'));
+  const _isVid = m => { const sr=sourceById(m.source_id)||{}; const u=String(sr.youtube_id_or_url||'').trim(); return /^[A-Za-z0-9_-]{11}$/.test(u) || /youtu\.?be/.test(u) || (m.segments||[]).length>0; };
+  const _all = (mod.requiredMedia||[]);
+  const _nv = _all.filter(_isVid).length;
+  sec.appendChild(el('div','acad-body-h', _nv===0 ? 'Reading list' : (_nv===_all.length ? 'Viewing list' : 'Viewing and reading list')));
   const groups = {};
   (mod.requiredMedia||[]).forEach(m=>{
     const lvl = (m.level||'').trim();
