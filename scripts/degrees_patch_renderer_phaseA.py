@@ -1,3 +1,5 @@
+# ONE-SHOT, already applied on 2026-10-26. Do not re-run. For data changes use
+# scripts/degrees_apply_assignments.py <degree_id> --write (idempotent).
 import re,sys
 P='site/assets/app.js'
 s=open(P,encoding='utf-8').read()

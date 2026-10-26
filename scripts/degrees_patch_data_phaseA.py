@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 """Phase A data splice (degrees repair 2026-10-26) — deg-integrate lane.
 
+SUPERSEDED: do not re-run on the current app.js. It carries older decisions
+(for example it removes PD-M1-07 from psychdim m8 and mints PRAG-M3-05, both
+later reversed). Use scripts/degrees_apply_assignments.py <degree_id> --write.
+
 Consumes the Phase 0 manifests and the learner-content deliverables under
 docs/degrees/integration/ and splices assignment objects (segments, locator,
 role, note), learner-facing titles/descriptions/openingNotes/reflection
