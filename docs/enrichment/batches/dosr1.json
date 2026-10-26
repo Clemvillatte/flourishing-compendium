@@ -11,7 +11,9 @@
   "right-intention": "3 substantiated disputes (anger fitting: Aristotle vs SN 7.2; duty-bound war: Gita 2.33-38 vs SN 42.3; painlessness as good: Epicurus vs Seneca) \u2014 advisor count a5c91710e; published; live."
  },
  "note": "Advisor-QC revision (2026-10-26): 'primary carriers' wording replaced \u2014 several quotes are accessed via Wikipedia, SEP or other authors' discussions rather than primary texts; verification this session was raw-carrier SUBSTRING SAMPLING, not a complete inventory. dosr1 remains closed as 'at the bar' for frustration/gratitude/right-intention; right-effort flagged to the supervisor as 2 substantiated + 1 unresolved.",
- "in_progress": "none \u2014 band complete",
- "flagged": {},
+ "in_progress": "none \u2014 band closed; right-effort finding routed",
+ "flagged": {
+  "right-effort": "BELOW BAR on the strict same-proposition test: 2 substantiated + 1 unresolved (the Dhammapada/TTC comparison the dossier itself says does not meet head-on). ROUTED to supervisor 2026-10-26 00:36Z: future pass to find a genuine third head-on dispute or owner ruling that the qualified comparison counts."
+ },
  "notes": "All four dossiers verified published in registry.json and their disagreement-section spans present in site/assets/app.js (spot-markers checked)."
 }
