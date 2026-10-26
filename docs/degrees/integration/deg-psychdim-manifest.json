@@ -1,432 +1,432 @@
 {
- "degree_id": "deg-psychdim",
- "built": "2026-10-26",
- "built_by": "strategist-pplx-1026a (baton degrees-strategist)",
- "status": "Verified 2026-10-26 (deg-fix-content, worker-pplx-degfixcontent-1026a): all video windows and all reading assignments transcribed and checked against the module docs; every earlier verify flag is resolved in the entries (m2's three papers, m4's four papers, m7's five papers, m8's capstone roles), and three of this manifest's own earlier 'NOT found' entries were corrected as accent-blind grep misses (PD-M4-05, PD-M4-07, PD-M7-09 are assigned; NOT data-block extras). STILL UNRESOLVED, routed: (1) PD-M2-07 Gross 1998 has a doc basis but no printed bounded span (UNRESOLVED-LOCATOR); (2) the m8 requiredness of PD-M1-07 (Woolley) and PD-M7-10 (Vohs) is unresolved - neither is cited in m8 prose, both are assigned in their own modules, and the m8 doc's general reuse instruction does not discriminate; owner or schema lane decides. Confirmed genuine data-block extra: PD-M3-07 (Bazerman Noba - no assignment in any psychdim module doc). The PD-M7-10 'Heidbreder' mislabel and the PD-M3-03/M3-04 window errors are recorded in their entries. This manifest is consumable by Phase A subject to the three routed items above.",
- "provenance": "Per docs/degrees/AUDIT-2026-10-26.md phase 0. The learner-audit gate diffs this manifest against the integrated data block. | Three missing reuse entries added 2026-10-26 (PD-M1-06 in mod-pd-5, PD-M1-07 in mod-pd-6, PD-M3-05 in mod-pd-7) after a full published-vs-manifest sweep; all verified against the module docs' Read sections. The mod-bud-5 BUD-B2-02 split and the PRAG-OPT-BERNSTEIN optional entry are schema-lane applications consistent with the design (SN 56.11's correct source id; the m4 Bernstein ruling, optional orientation-only viewing).",
- "modules": {
-  "mod-pd-1": [
-   {
-    "source_id": "PD-M1-01",
-    "role": "teach",
-    "assignment": "Hayes, An Introduction to Process-Based Therapy - assigned window 01:03:17-01:09:12 (5:55)",
-    "kind": "video"
-   },
-   {
-    "source_id": "PD-M1-02",
-    "role": "teach",
-    "assignment": "Sainani, Statistics Fundamentals - assigned windows 25:46-44:11 (18:25) and 54:02-57:21 (3:19); 03:29-09:21 (5:52) is the OPTIONAL remedial clip",
-    "kind": "video"
-   },
-   {
-    "source_id": "PD-M1-03",
-    "role": "teach",
-    "assignment": "Smith, Thinking like a Psychological Scientist (Noba) - VERIFIED required: selected spans, ~3,200 words (parts named in m1 doc Step)",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PD-M1-04",
-    "role": "teach",
-    "assignment": "ASA Statement on p-Values - VERIFIED required: definition and two principles, ~300 words",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PD-M1-05",
-    "role": "optional",
-    "assignment": "Hofmann and Hayes 2024 opening overview - OPTIONAL text reference in m1 doc; data block correctly lists it in optionalMedia",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PD-M1-06",
-    "role": "optional",
-    "assignment": "Maitland 2024, section 1.4 only - OPTIONAL text reference in m1 doc; data block correctly lists it in optionalMedia",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PD-M1-07",
-    "role": "optional",
-    "assignment": "Woolley, Giurge and Fishbach 2025 - optional further reading per m1 doc; data block correctly lists it in optionalMedia",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PD-M1-08",
-    "role": "optional",
-    "assignment": "Greenland et al. 2016 - cited in teaching prose (misinterpretation 21), not in the m1 required-reading budget; data block lists it in optionalMedia (acceptable)",
-    "kind": "reading"
-   }
-  ],
-  "mod-pd-2": [
-   {
-    "source_id": "PD-M2-01",
-    "role": "teach",
-    "assignment": "Bloom, PSYC 110 lecture 11 - assigned 00:00-09:06",
-    "kind": "video"
-   },
-   {
-    "source_id": "PD-M2-02",
-    "role": "teach",
-    "assignment": "Barrett, You are not at the mercy of your emotions (TED) - assigned 00:00-18:29",
-    "kind": "video"
-   },
-   {
-    "source_id": "M06-AF07",
-    "role": "teach",
-    "assignment": "Gross, Making the Most of Our Emotions - VERIFIED assigned 19:22-26:14 (6:52); stop at the boundary (later lab demonstration with surgical footage NOT assigned); prose sub-citation 19:22-23:23 is inside this window",
-    "kind": "video"
-   },
-   {
-    "source_id": "PD-M2-04",
-    "role": "teach",
-    "assignment": "Hwang and Matsumoto, Functions of Emotions (Noba)",
-    "kind": "reading",
-    "note": "CORRECTED assignment per the m2 doc's Read section (deg-fix-content 2026-10-26): read the opening paragraph of 'Interpersonal Functions of Emotion,' stopping before 'Emotional Expressions Facilitate Specific Behaviors in Perceivers'; then from 'Cultural transmission of the meaning and information system' through 'culture also influences how people experience them as well' in 'Social and Cultural Functions of Emotion'; also the next paragraph's first three sentences, from 'Because one of the major functions' through 'once we have them.' About 450 words, NOT the whole module. (The earlier '~2,794 words' figure is the ledger's whole-BODY measurement, Introduction through the end of the social/cultural functions section - it is not the assignment.) SCHEMA LANE: the published mod-pd-2 locator still carries the 2,794-word body figure and must be replaced with this 450-word bounded assignment"
-   },
-   {
-    "source_id": "PD-M2-05",
-    "role": "teach",
-    "assignment": "Barrett and colleagues, 2025 - VERIFIED m2 doc assignment (Read section): read the Abstract and the single paragraph under 'A brain regulates and coordinates the systems of its body'; tables and remaining neuroscience discussion not assigned [PMC12164598]",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PD-M2-06",
-    "role": "teach",
-    "assignment": "Martinez-Priego et al. 2024 - VERIFIED m2 doc assignment (Read section): in the Introduction the two paragraphs from 'Over the years, different models of ER' to 'ER goals are not static.'; the first paragraph under 'Theoretical framework' (ending with emotion's phylogenesis); the first limitations paragraph in the Conclusion from 'While this review fulfills' to 'across different contexts' [PMC11479914]",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PD-M2-07",
-    "role": "teach",
-    "assignment": "Gross 1998, The Emerging Field of Emotion Regulation - VERIFIED m2 doc basis: the doc's 'assigned process model' - the learner checks the five-family distinctions against it (m2 'Find a point of choice' and the Regulation rubric both link it); no printed span - support reference for the process model, not a whole-paper assignment | UNRESOLVED-LOCATOR: the m2 doc assigns the paper as the 'assigned process model' but prints no bounded span; the missing boundary is routed to the schema lane/owner for a bounded-span decision before Phase A",
-    "kind": "reading"
-   }
-  ],
-  "mod-pd-3": [
-   {
-    "source_id": "PD-M3-01",
-    "role": "teach",
-    "assignment": "Bloom, PSYC 110 lecture 4, Learning - assigned windows 14:25-17:39 and 31:18-33:49 (VERIFIED)",
-    "kind": "video"
-   },
-   {
-    "source_id": "PD-M3-02",
-    "role": "teach",
-    "assignment": "Bloom, PSYC 110 lecture 7, Perception - assigned window 18:06-39:15 (21:09) (VERIFIED)",
-    "kind": "video"
-   },
-   {
-    "source_id": "PD-M3-03",
-    "role": "teach",
-    "assignment": "Bloom, PSYC 110 lecture 8, Memory - assigned window 13:22-18:27 (5:05, meaning and organisation) (VERIFIED). DATA-BLOCK ERROR: integration title wrongly prints 18:06-39:15 (lecture 7 window) - fix in Phase B/D",
-    "kind": "video"
-   },
-   {
-    "source_id": "PD-M3-04",
-    "role": "teach",
-    "assignment": "Bloom, PSYC 110 lecture 10, Judgment - assigned windows 39:43-47:25 (7:42) AND 54:59-59:22 (4:23); intervening base-rate/availability examples NOT assigned (VERIFIED - manifest previously omitted the second window)",
-    "kind": "video"
-   },
-   {
-    "source_id": "PD-M3-05",
-    "role": "teach",
-    "assignment": "Bouton, Conditioning and Learning (Noba) - VERIFIED bounded companion: opening summary from \"Basic principles of learning\" to \"classical and operant conditioning\" + the one paragraph beginning \"Learning depends on such a surprise\"",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PD-M3-06",
-    "role": "teach",
-    "assignment": "McDermott and Roediger, Memory (Noba) - VERIFIED bounded companion: opening summary from \"\"Memory\" is a single term\" through \"among other types\" + \"Three Stages of the Learning/Memory Process\" stopping before \"Encoding\"; no clinical survey or full chapter",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PD-M3-07",
-    "role": "data-block-extra",
-    "assignment": "Bazerman, Judgment and Decision Making (Noba) - no assignment in any psychdim module doc (not published)",
-    "kind": "reading",
-    "note_only": true,
-    "note": "CONFIRMED data-block extra (deg-fix-content 2026-10-26): no Bazerman assignment in any psychdim module doc (checked all eight; the m3 doc's Noba links are conditioning-and-learning and memory-encoding-storage-retrieval only). Remove from the mod-pd-3 required list, or route an owner decision if a judgment reading is wanted"
-   },
-   {
-    "source_id": "PD-M3-08",
-    "role": "teach",
-    "assignment": "Ehring 2021, Thinking too much - VERIFIED bounded companion: from the opening paragraph to the end (see m3 doc for the closing boundary)",
-    "kind": "reading"
-   }
-  ],
-  "mod-pd-4": [
-   {
-    "source_id": "PD-M4-01",
-    "role": "teach",
-    "assignment": "Posner on the anatomy of attentional networks (gocognitive) - assigned 03:06-14:52",
-    "kind": "video"
-   },
-   {
-    "source_id": "PD-M4-02",
-    "role": "teach",
-    "assignment": "Posner, Fostering Attention for Human Needs (APS) - assigned 05:24-07:42",
-    "kind": "video"
-   },
-   {
-    "source_id": "PD-M3-02",
-    "role": "revisit",
-    "assignment": "Bloom lecture 7 - RETRIEVAL reuse in m4: assigned 47:26-54:53 ONLY (7:27, the narrowed selection/spotlight + blindness-demonstrations window)",
-    "kind": "video",
-    "note": "CLARIFIED (deg-fix-content 2026-10-26): this entry previously read 'different window from m3's 18:06-39:15' in parentheses, and the published mod-pd-4 entry then carried BOTH windows as segments - m3's 18:06-39:15 window is NOT assigned in m4 (the m4 doc explicitly narrows away from the memory/clinical survey covered by that window); the schema lane should drop the 18:06-39:15 segment from the mod-pd-4 entry, keeping only 47:26-54:53"
-   },
-   {
-    "source_id": "PD-M4-03",
-    "role": "teach",
-    "assignment": "Davidson with Huberman, When and How to Practice Effective Meditation - assigned 02:08-04:17",
-    "kind": "video"
-   },
-   {
-    "source_id": "PD-M4-04",
-    "role": "teach",
-    "assignment": "Posner, Rothbart and Ghassemzadeh 2019 - VERIFIED m4 doc assignment: Table 1 as a reference; then Table 2 with its caption; then the first paragraph under 'Attentional Pathologies' [PMC6430178]",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PD-M4-05",
-    "role": "teach",
-    "assignment": "Posner 2023, evolution and future of attention networks - VERIFIED m4 doc assignment: section 4 'Interaction of Networks,' first paragraph only, through 'largely different functions' [PMC10301152]",
-    "kind": "reading",
-    "note": "CORRECTION of this manifest's earlier entry: the source IS assigned in the m4 doc ('Posner, 2023' in the Read section) - the earlier 'NOT found' was a grep miss; NOT a data-block extra"
-   },
-   {
-    "source_id": "PD-M4-06",
-    "role": "teach",
-    "assignment": "Lippelt, Hommel and Colzato 2014 - VERIFIED m4 doc assignment: the Abstract; then the single Introduction paragraph from 'Even though numerous studies' through 'attentional control, conflict monitoring, and creativity'; later brain-region claims not assigned [PMC4171985]",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PD-M4-07",
-    "role": "teach",
-    "assignment": "Fan and colleagues 2002, Attention Network Test - VERIFIED m4 doc assignment: journal pages 342-343, the three complete Results paragraphs beginning 'The alerting effect was calculated,' 'The orienting effect was calculated' and 'The conflict (executive control) effect was calculated'; skip intervening tables/figure, stop before 'Correlation Analyses' (university-hosted PDF)",
-    "kind": "reading",
-    "note": "CORRECTION of this manifest's earlier entry: the source IS assigned in the m4 doc ('Fan and colleagues, 2002') - the earlier 'NOT found' was a grep miss; NOT a data-block extra"
-   }
-  ],
-  "mod-pd-5": [
-   {
-    "source_id": "PD-M5-01",
-    "role": "teach",
-    "assignment": "Bloom, PSYC 110 lecture 13 - assigned 13:53-19:47",
-    "kind": "video"
-   },
-   {
-    "source_id": "PD-M5-02",
-    "role": "teach",
-    "assignment": "Bloom, PSYC 110 lecture 16 - assigned 15:56-28:41 and 40:00-50:03 (self-evaluation and cultural-qualification windows are inside/outside these; see m5 doc t=1359, t=2833)",
-    "kind": "video"
-   },
-   {
-    "source_id": "PD-M5-03",
-    "role": "teach",
-    "assignment": "McAdams, Authoring a Life - assigned 10:07-13:31 (assigned definition)",
-    "kind": "video"
-   },
-   {
-    "source_id": "PD-M5-04",
-    "role": "teach",
-    "assignment": "Little, The puzzle of personality (TED) - assigned from 11:12 (project/cost window 11:12-13:59)",
-    "kind": "video"
-   },
-   {
-    "source_id": "PD-M5-07",
-    "role": "teach",
-    "assignment": "Diener and Lucas, Personality Traits (Noba) - VERIFIED present: person/situation qualification and stability/variation selections assigned",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PD-M5-05",
-    "role": "teach",
-    "assignment": "Manchiraju 2026 SCC review - VERIFIED: \"Definition and core components\"; first two paragraphs of \"Distinguishing self-concept clarity from related constructs\" + Table 1; the single critical-appraisal paragraph from \"These strengths notwithstanding...\"",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PD-M5-06",
-    "role": "teach",
-    "assignment": "Branje et al. 2021 - VERIFIED: first four introductory paragraphs, from \"In the current review, we discuss progress\" through the domain-specific identity paragraph ending \"one or multiple life domains.\"",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PD-M5-08",
-    "role": "teach",
-    "assignment": "Campbell et al. 1996 SCCS - VERIFIED: inspect the 12-item form, response anchors and reverse-keying note; no submission, no diagnostic cutoff",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PD-M1-06",
-    "role": "teach",
-    "assignment": "Maitland 2024 - TEACH reuse in m5 (optional text reference in m1): Table 1's Self row and the table note only, for the narrow framework/application distinction (open article PMC12392214)",
-    "kind": "reading",
-    "note": "ADDED (deg-fix-content 2026-10-26): this reuse was published in mod-pd-5 but missing from the manifest - verified against m5-self-and-identity.md's Read section"
-   }
-  ],
-  "mod-pd-6": [
-   {
-    "source_id": "PD-M6-01",
-    "role": "teach",
-    "assignment": "Tamir, Yale Experts in Emotion 2013 - assigned 09:21-14:43 (selected interview)",
-    "kind": "video"
-   },
-   {
-    "source_id": "M08-P09",
-    "role": "teach",
-    "assignment": "Ryan, Aalto University 2025 - assigned 08:38-13:55 (needs and distinctions)",
-    "kind": "video"
-   },
-   {
-    "source_id": "PD-M6-02",
-    "role": "teach",
-    "assignment": "Pekrun, IPPE 2023 - assigned 15:51-19:02 (selected model)",
-    "kind": "video"
-   },
-   {
-    "source_id": "PD-M6-03",
-    "role": "teach",
-    "assignment": "Fishbach, TED 2023 - assigned 03:33-04:36",
-    "kind": "video"
-   },
-   {
-    "source_id": "PD-M6-04",
-    "role": "teach",
-    "assignment": "Ryan and Deci 2020 - VERIFIED: Figure 1 and the paragraph beginning \"Whereas both external regulation and introjection\" (incl. identified/integrated regulation and amotivation definitions); then the first paragraph under \"Multiple motives and relative autonomy\"; skip the later classroom-policy review",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PD-M1-07",
-    "role": "teach",
-    "assignment": "Woolley, Giurge and Fishbach 2025 - TEACH reuse in m6 (optional further reading in m1): the Abstract; the paragraph immediately before the main Study 3 heading (not 'Study 3 disclosures'); Study 2's opening paragraph and Study 3's Procedure paragraph; Study 4's opening paragraph, its Method paragraph beginning 'Of the 933 participants invited back,' and its first two Results paragraphs; then the General Discussion paragraph beginning 'Several open questions remain.'",
-    "kind": "reading",
-    "note": "ADDED (deg-fix-content 2026-10-26): published in mod-pd-6 but missing from the manifest - verified against m6-motivational.md's Read section"
-   }
-  ],
-  "mod-pd-7": [
-   {
-    "source_id": "PD-M7-02",
-    "role": "teach",
-    "assignment": "Wood, Big Think/The Well - assigned 01:16-04:53",
-    "kind": "video"
-   },
-   {
-    "source_id": "PD-M7-01",
-    "role": "teach",
-    "assignment": "Berkman, University of Oregon - assigned 01:12-02:35",
-    "kind": "video"
-   },
-   {
-    "source_id": "PD-M7-03",
-    "role": "teach",
-    "assignment": "Inzlicht, The Dissenter episode 298 - assigned 49:52-58:10 (historical interview window)",
-    "kind": "video"
-   },
-   {
-    "source_id": "PD-M3-01",
-    "role": "revisit",
-    "assignment": "Bloom lecture 4 - RETRIEVAL reuse in m7: assigned 33:49-36:11 (different window from m3)",
-    "kind": "video"
-   },
-   {
-    "source_id": "PD-M7-08",
-    "role": "teach",
-    "assignment": "Dang 2018, ego depletion meta-analysis - Table 2 with its note; first two Discussion paragraphs; final 'Does ego depletion exist?' paragraph from 'Therefore, taken together'",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PD-M7-10",
-    "role": "teach",
-    "assignment": "Vohs et al. 2021 author manuscript (mislabeled 'Heidbreder' in the data block) - Abstract and Methods' 'Participants' subsection only",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PD-M7-09",
-    "role": "teach",
-    "assignment": "Alarcon-Espinoza et al. 2022 - VERIFIED m7 doc assignment: Abstract and Methods' inclusion criterion (d) only, to compare natural-context measurement with its explicit under-18 population [PMC9171140]",
-    "kind": "reading",
-    "note": "CORRECTION of this manifest's earlier entry: the source IS assigned in the m7 doc ('Alarcon-Espinoza and colleagues, 2022' with accents) - the earlier 'grep count 0' was an accent miss; NOT a data-block extra"
-   },
-   {
-    "source_id": "PD-M7-04",
-    "role": "teach",
-    "assignment": "Carden and Wood 2018 - VERIFIED m7 doc assignment: the opening three paragraphs beginning 'Habits form as people pursue goals'; under 'Habits and effortless self-control' the two paragraphs beginning 'This shift' and 'High trait self-control'; the first paragraph under 'Changing environments, changing habits' (author-hosted PDF)",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PD-M7-05",
-    "role": "teach",
-    "assignment": "Singh et al. 2024 - VERIFIED m7 doc assignment: Abstract only, for the evidence base, variability and the pre/post outcome distinction [PMC11641623]",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PD-M7-06",
-    "role": "teach",
-    "assignment": "Werner and Berkman 2024 - VERIFIED m7 doc assignment: the four paragraphs from 'Exactly how and when does motivation influence self-control?' through the monitoring explanation, stopping before the next heading [PMC11423838]",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PD-M7-07",
-    "role": "teach",
-    "assignment": "Reed et al. 2020 - VERIFIED m7 doc assignment: Abstract and 'Participants' only, distinguishing measurement families and the selected older-adult population [PMC7250393]",
-    "kind": "reading"
-   },
-   {
-    "source_id": "PD-M3-05",
-    "role": "revisit",
-    "assignment": "Bouton, Noba conditioning-and-learning - REVISIT in m7: the Vocabulary entries 'Reinforcer' and 'Punisher' only, to check the increase/decrease definitions, not the full module",
-    "kind": "reading",
-    "note": "ADDED (deg-fix-content 2026-10-26): published in mod-pd-7 as role=revisit but missing from the manifest - verified against m7-overt-behavioural.md's Read section"
-   }
-  ],
-  "mod-pd-8": [
-   {
-    "source_id": "PD-M1-05",
-    "role": "capstone-return",
-    "assignment": "Hofmann and Hayes 2024 - m8 prose reference; capstone-return per data block (m8 doc: \"No new reading or video is required. Retrieve and reuse...\")"
-   },
-   {
-    "source_id": "PD-M1-06",
-    "role": "capstone-return",
-    "assignment": "Maitland 2024 - m8 prose reference; capstone-return per data block (m8 doc: \"No new reading or video is required. Retrieve and reuse...\")"
-   },
-   {
-    "source_id": "PD-M2-06",
-    "role": "capstone-return",
-    "assignment": "Martinez-Priego et al. 2024 - the m8 doc cites \"the emotion-goal review\" in prose; capstone-return (m8 doc: \"No new reading or video is required. Retrieve and reuse...\")"
-   },
-   {
-    "source_id": "PD-M7-05",
-    "role": "capstone-return",
-    "assignment": "Singh et al. 2024 - the m8 doc cites duration-evidence limits (PMC11641623) in prose; capstone-return (m8 doc: \"No new reading or video is required. Retrieve and reuse...\")"
-   },
-   {
-    "source_id": "PD-M5-05",
-    "role": "capstone-return",
-    "assignment": "Manchiraju 2026 - the m8 doc cites \"the SCC review\" in prose; capstone-return (m8 doc: \"No new reading or video is required. Retrieve and reuse...\")"
-   },
-   {
-    "source_id": "PD-M1-07",
-    "role": "capstone-return",
-    "assignment": "Woolley et al. 2025 - NOT cited in m8 prose (checked; the m8 doc names the emotion-goal review, the SCC review and the ANT paper in prose, and permits general reuse of previously studied sources without naming per-source). Assigned in m6 (Abstract; one paragraph) - keep there. m8 requiredness UNRESOLVED, not a confirmed extra: the general capstone-reuse instruction does not discriminate; owner or schema lane decides whether the m8 listing stays | RESOLVED 2026-10-26 by deg-fix-schema: removed from this module in the data block.",
-    "note_only": true
-   },
-   {
-    "source_id": "PD-M7-04",
-    "role": "capstone-return",
-    "assignment": "Carden and Wood 2018 - VERIFIED m8 prose cite (habit mechanism and measurement caution) (m8 doc: \"No new reading or video is required. Retrieve and reuse...\")"
-   },
-   {
-    "source_id": "PD-M4-07",
-    "role": "capstone-return",
-    "assignment": "Fan et al. ANT paper - VERIFIED m8 prose cite: 'the original ANT paper defines laboratory contrasts rather than everyday diagnostic tests' with the ANT definitions link; capstone-return role confirmed"
-   },
-   {
-    "source_id": "PD-M7-10",
-    "role": "capstone-return",
-    "assignment": "Vohs et al. 2021 author manuscript (the data block mislabels it 'Heidbreder, consciousness review article') - NOT cited in m8 prose (checked); it IS assigned in m7 (Abstract and Methods' 'Participants' subsection only, verified in the m7 entry). The m8 doc's general 'retrieve and reuse' instruction does not name it, so m8 requiredness is UNRESOLVED: the schema lane or owner must decide whether to keep it in mod-pd-8 required or drop the m8 listing (the m7 assignment stands either way) | RESOLVED 2026-10-26 by deg-fix-schema: dropped from mod-pd-8 (not cited in the m8 doc); the m7 assignment stands.",
-    "kind": "reading",
-    "note_only": true
-   }
-  ]
- },
- "verified_by": "2026-10-26 worker-pplx-degfixcontent-1026a (baton deg-fix-content)"
+  "degree_id": "deg-psychdim",
+  "built": "2026-10-26",
+  "built_by": "strategist-pplx-1026a (baton degrees-strategist)",
+  "status": "Verified 2026-10-26 (deg-fix-content, worker-pplx-degfixcontent-1026a): all video windows and all reading assignments transcribed and checked against the module docs; every earlier verify flag is resolved in the entries (m2's three papers, m4's four papers, m7's five papers, m8's capstone roles), and three of this manifest's own earlier 'NOT found' entries were corrected as accent-blind grep misses (PD-M4-05, PD-M4-07, PD-M7-09 are assigned; NOT data-block extras). STILL UNRESOLVED, routed: (1) PD-M2-07 Gross 1998 has a doc basis but no printed bounded span (UNRESOLVED-LOCATOR); (2) the m8 requiredness of PD-M1-07 (Woolley) and PD-M7-10 (Vohs) is unresolved - neither is cited in m8 prose, both are assigned in their own modules, and the m8 doc's general reuse instruction does not discriminate; owner or schema lane decides. Confirmed genuine data-block extra: PD-M3-07 (Bazerman Noba - no assignment in any psychdim module doc). The PD-M7-10 'Heidbreder' mislabel and the PD-M3-03/M3-04 window errors are recorded in their entries. This manifest is consumable by Phase A subject to the three routed items above.",
+  "provenance": "Per docs/degrees/AUDIT-2026-10-26.md phase 0. The learner-audit gate diffs this manifest against the integrated data block. | Three missing reuse entries added 2026-10-26 (PD-M1-06 in mod-pd-5, PD-M1-07 in mod-pd-6, PD-M3-05 in mod-pd-7) after a full published-vs-manifest sweep; all verified against the module docs' Read sections. The mod-bud-5 BUD-B2-02 split and the PRAG-OPT-BERNSTEIN optional entry are schema-lane applications consistent with the design (SN 56.11's correct source id; the m4 Bernstein ruling, optional orientation-only viewing).",
+  "modules": {
+    "mod-pd-1": [
+      {
+        "source_id": "PD-M1-01",
+        "role": "teach",
+        "assignment": "Hayes, An Introduction to Process-Based Therapy - assigned window 01:03:17-01:09:12 (5:55)",
+        "kind": "video"
+      },
+      {
+        "source_id": "PD-M1-02",
+        "role": "teach",
+        "assignment": "Sainani, Statistics Fundamentals - assigned windows 25:46-44:11 (18:25) and 54:02-57:21 (3:19); 03:29-09:21 (5:52) is the OPTIONAL remedial clip",
+        "kind": "video"
+      },
+      {
+        "source_id": "PD-M1-03",
+        "role": "teach",
+        "assignment": "Smith, Thinking like a Psychological Scientist (Noba) - VERIFIED required: selected spans, ~3,200 words (parts named in m1 doc Step)",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PD-M1-04",
+        "role": "teach",
+        "assignment": "ASA Statement on p-Values - VERIFIED required: definition and two principles, ~300 words",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PD-M1-05",
+        "role": "optional",
+        "assignment": "Hofmann and Hayes 2024 opening overview - OPTIONAL text reference in m1 doc; data block correctly lists it in optionalMedia",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PD-M1-06",
+        "role": "optional",
+        "assignment": "Maitland 2024, section 1.4 only - OPTIONAL text reference in m1 doc; data block correctly lists it in optionalMedia",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PD-M1-07",
+        "role": "optional",
+        "assignment": "Woolley, Giurge and Fishbach 2025 - optional further reading per m1 doc; data block correctly lists it in optionalMedia",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PD-M1-08",
+        "role": "optional",
+        "assignment": "Greenland et al. 2016 - cited in teaching prose (misinterpretation 21), not in the m1 required-reading budget; data block lists it in optionalMedia (acceptable)",
+        "kind": "reading"
+      }
+    ],
+    "mod-pd-2": [
+      {
+        "source_id": "PD-M2-01",
+        "role": "teach",
+        "assignment": "Bloom, PSYC 110 lecture 11 - assigned 00:00-09:06",
+        "kind": "video"
+      },
+      {
+        "source_id": "PD-M2-02",
+        "role": "teach",
+        "assignment": "Barrett, You are not at the mercy of your emotions (TED) - assigned 00:00-18:29",
+        "kind": "video"
+      },
+      {
+        "source_id": "M06-AF07",
+        "role": "teach",
+        "assignment": "Gross, Making the Most of Our Emotions - VERIFIED assigned 19:22-26:14 (6:52); stop at the boundary (later lab demonstration with surgical footage NOT assigned); prose sub-citation 19:22-23:23 is inside this window",
+        "kind": "video"
+      },
+      {
+        "source_id": "PD-M2-04",
+        "role": "teach",
+        "assignment": "Hwang and Matsumoto, Functions of Emotions (Noba) - bounded excerpts: the opening paragraph of 'Interpersonal Functions of Emotion' (stopping before 'Emotional Expressions Facilitate Specific Behaviors in Perceivers'); from 'Cultural transmission of the meaning and information system' through 'culture also influences how people experience them as well' in 'Social and Cultural Functions of Emotion'; and the next paragraph's first three sentences, from 'Because one of the major functions' through 'once we have them' (about 450 words total)",
+        "kind": "reading",
+        "note": "CORRECTED assignment per the m2 doc's Read section (deg-fix-content 2026-10-26): read the opening paragraph of 'Interpersonal Functions of Emotion,' stopping before 'Emotional Expressions Facilitate Specific Behaviors in Perceivers'; then from 'Cultural transmission of the meaning and information system' through 'culture also influences how people experience them as well' in 'Social and Cultural Functions of Emotion'; also the next paragraph's first three sentences, from 'Because one of the major functions' through 'once we have them.' About 450 words, NOT the whole module. (The earlier '~2,794 words' figure is the ledger's whole-BODY measurement, Introduction through the end of the social/cultural functions section - it is not the assignment.) SCHEMA LANE: the published mod-pd-2 locator still carries the 2,794-word body figure and must be replaced with this 450-word bounded assignment"
+      },
+      {
+        "source_id": "PD-M2-05",
+        "role": "teach",
+        "assignment": "Barrett and colleagues, 2025 - VERIFIED m2 doc assignment (Read section): read the Abstract and the single paragraph under 'A brain regulates and coordinates the systems of its body'; tables and remaining neuroscience discussion not assigned [PMC12164598]",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PD-M2-06",
+        "role": "teach",
+        "assignment": "Martinez-Priego et al. 2024 - VERIFIED m2 doc assignment (Read section): in the Introduction the two paragraphs from 'Over the years, different models of ER' to 'ER goals are not static.'; the first paragraph under 'Theoretical framework' (ending with emotion's phylogenesis); the first limitations paragraph in the Conclusion from 'While this review fulfills' to 'across different contexts' [PMC11479914]",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PD-M2-07",
+        "role": "teach",
+        "assignment": "Gross 1998, The Emerging Field of Emotion Regulation - VERIFIED m2 doc basis: the doc's 'assigned process model' - the learner checks the five-family distinctions against it (m2 'Find a point of choice' and the Regulation rubric both link it); no printed span - support reference for the process model, not a whole-paper assignment | UNRESOLVED-LOCATOR: the m2 doc assigns the paper as the 'assigned process model' but prints no bounded span; the missing boundary is routed to the schema lane/owner for a bounded-span decision before Phase A",
+        "kind": "reading"
+      }
+    ],
+    "mod-pd-3": [
+      {
+        "source_id": "PD-M3-01",
+        "role": "teach",
+        "assignment": "Bloom, PSYC 110 lecture 4, Learning - assigned windows 14:25-17:39 and 31:18-33:49 (VERIFIED)",
+        "kind": "video"
+      },
+      {
+        "source_id": "PD-M3-02",
+        "role": "teach",
+        "assignment": "Bloom, PSYC 110 lecture 7, Perception - assigned window 18:06-39:15 (21:09) (VERIFIED)",
+        "kind": "video"
+      },
+      {
+        "source_id": "PD-M3-03",
+        "role": "teach",
+        "assignment": "Bloom, PSYC 110 lecture 8, Memory - assigned window 13:22-18:27 (5:05, meaning and organisation) (VERIFIED). DATA-BLOCK ERROR: integration title wrongly prints 18:06-39:15 (lecture 7 window) - fix in Phase B/D",
+        "kind": "video"
+      },
+      {
+        "source_id": "PD-M3-04",
+        "role": "teach",
+        "assignment": "Bloom, PSYC 110 lecture 10, Judgment - assigned windows 39:43-47:25 (7:42) AND 54:59-59:22 (4:23); intervening base-rate/availability examples NOT assigned (VERIFIED - manifest previously omitted the second window)",
+        "kind": "video"
+      },
+      {
+        "source_id": "PD-M3-05",
+        "role": "teach",
+        "assignment": "Bouton, Conditioning and Learning (Noba) - VERIFIED bounded companion: opening summary from \"Basic principles of learning\" to \"classical and operant conditioning\" + the one paragraph beginning \"Learning depends on such a surprise\"",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PD-M3-06",
+        "role": "teach",
+        "assignment": "McDermott and Roediger, Memory (Noba) - VERIFIED bounded companion: opening summary from \"\"Memory\" is a single term\" through \"among other types\" + \"Three Stages of the Learning/Memory Process\" stopping before \"Encoding\"; no clinical survey or full chapter",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PD-M3-07",
+        "role": "data-block-extra",
+        "assignment": "Bazerman, Judgment and Decision Making (Noba) - no assignment in any psychdim module doc (not published)",
+        "kind": "reading",
+        "note_only": true,
+        "note": "CONFIRMED data-block extra (deg-fix-content 2026-10-26): no Bazerman assignment in any psychdim module doc (checked all eight; the m3 doc's Noba links are conditioning-and-learning and memory-encoding-storage-retrieval only). Remove from the mod-pd-3 required list, or route an owner decision if a judgment reading is wanted"
+      },
+      {
+        "source_id": "PD-M3-08",
+        "role": "teach",
+        "assignment": "Ehring 2021, Thinking too much - VERIFIED bounded companion: from the opening paragraph to the end (see m3 doc for the closing boundary)",
+        "kind": "reading"
+      }
+    ],
+    "mod-pd-4": [
+      {
+        "source_id": "PD-M4-01",
+        "role": "teach",
+        "assignment": "Posner on the anatomy of attentional networks (gocognitive) - assigned 03:06-14:52",
+        "kind": "video"
+      },
+      {
+        "source_id": "PD-M4-02",
+        "role": "teach",
+        "assignment": "Posner, Fostering Attention for Human Needs (APS) - assigned 05:24-07:42",
+        "kind": "video"
+      },
+      {
+        "source_id": "PD-M3-02",
+        "role": "revisit",
+        "assignment": "Bloom lecture 7 - RETRIEVAL reuse in m4: assigned 47:26-54:53 ONLY (7:27, the narrowed selection/spotlight + blindness-demonstrations window)",
+        "kind": "video",
+        "note": "CLARIFIED (deg-fix-content 2026-10-26): this entry previously read 'different window from m3's 18:06-39:15' in parentheses, and the published mod-pd-4 entry then carried BOTH windows as segments - m3's 18:06-39:15 window is NOT assigned in m4 (the m4 doc explicitly narrows away from the memory/clinical survey covered by that window); the schema lane should drop the 18:06-39:15 segment from the mod-pd-4 entry, keeping only 47:26-54:53"
+      },
+      {
+        "source_id": "PD-M4-03",
+        "role": "teach",
+        "assignment": "Davidson with Huberman, When and How to Practice Effective Meditation - assigned 02:08-04:17",
+        "kind": "video"
+      },
+      {
+        "source_id": "PD-M4-04",
+        "role": "teach",
+        "assignment": "Posner, Rothbart and Ghassemzadeh 2019 - VERIFIED m4 doc assignment: Table 1 as a reference; then Table 2 with its caption; then the first paragraph under 'Attentional Pathologies' [PMC6430178]",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PD-M4-05",
+        "role": "teach",
+        "assignment": "Posner 2023, evolution and future of attention networks - VERIFIED m4 doc assignment: section 4 'Interaction of Networks,' first paragraph only, through 'largely different functions' [PMC10301152]",
+        "kind": "reading",
+        "note": "CORRECTION of this manifest's earlier entry: the source IS assigned in the m4 doc ('Posner, 2023' in the Read section) - the earlier 'NOT found' was a grep miss; NOT a data-block extra"
+      },
+      {
+        "source_id": "PD-M4-06",
+        "role": "teach",
+        "assignment": "Lippelt, Hommel and Colzato 2014 - VERIFIED m4 doc assignment: the Abstract; then the single Introduction paragraph from 'Even though numerous studies' through 'attentional control, conflict monitoring, and creativity'; later brain-region claims not assigned [PMC4171985]",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PD-M4-07",
+        "role": "teach",
+        "assignment": "Fan and colleagues 2002, Attention Network Test - VERIFIED m4 doc assignment: journal pages 342-343, the three complete Results paragraphs beginning 'The alerting effect was calculated,' 'The orienting effect was calculated' and 'The conflict (executive control) effect was calculated'; skip intervening tables/figure, stop before 'Correlation Analyses' (university-hosted PDF)",
+        "kind": "reading",
+        "note": "CORRECTION of this manifest's earlier entry: the source IS assigned in the m4 doc ('Fan and colleagues, 2002') - the earlier 'NOT found' was a grep miss; NOT a data-block extra"
+      }
+    ],
+    "mod-pd-5": [
+      {
+        "source_id": "PD-M5-01",
+        "role": "teach",
+        "assignment": "Bloom, PSYC 110 lecture 13 - assigned 13:53-19:47",
+        "kind": "video"
+      },
+      {
+        "source_id": "PD-M5-02",
+        "role": "teach",
+        "assignment": "Bloom, PSYC 110 lecture 16 - assigned 15:56-28:41 and 40:00-50:03 (self-evaluation and cultural-qualification windows are inside/outside these; see m5 doc t=1359, t=2833)",
+        "kind": "video"
+      },
+      {
+        "source_id": "PD-M5-03",
+        "role": "teach",
+        "assignment": "McAdams, Authoring a Life - assigned 10:07-13:31 (assigned definition)",
+        "kind": "video"
+      },
+      {
+        "source_id": "PD-M5-04",
+        "role": "teach",
+        "assignment": "Little, The puzzle of personality (TED) - assigned from 11:12 (project/cost window 11:12-13:59)",
+        "kind": "video"
+      },
+      {
+        "source_id": "PD-M5-07",
+        "role": "teach",
+        "assignment": "Diener and Lucas, Personality Traits (Noba) - VERIFIED present: person/situation qualification and stability/variation selections assigned",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PD-M5-05",
+        "role": "teach",
+        "assignment": "Manchiraju 2026 SCC review - VERIFIED: \"Definition and core components\"; first two paragraphs of \"Distinguishing self-concept clarity from related constructs\" + Table 1; the single critical-appraisal paragraph from \"These strengths notwithstanding...\"",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PD-M5-06",
+        "role": "teach",
+        "assignment": "Branje et al. 2021 - VERIFIED: first four introductory paragraphs, from \"In the current review, we discuss progress\" through the domain-specific identity paragraph ending \"one or multiple life domains.\"",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PD-M5-08",
+        "role": "teach",
+        "assignment": "Campbell et al. 1996 SCCS - VERIFIED: inspect the 12-item form, response anchors and reverse-keying note; no submission, no diagnostic cutoff",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PD-M1-06",
+        "role": "teach",
+        "assignment": "Maitland 2024 - TEACH reuse in m5 (optional text reference in m1): Table 1's Self row and the table note only, for the narrow framework/application distinction (open article PMC12392214)",
+        "kind": "reading",
+        "note": "ADDED (deg-fix-content 2026-10-26): this reuse was published in mod-pd-5 but missing from the manifest - verified against m5-self-and-identity.md's Read section"
+      }
+    ],
+    "mod-pd-6": [
+      {
+        "source_id": "PD-M6-01",
+        "role": "teach",
+        "assignment": "Tamir, Yale Experts in Emotion 2013 - assigned 09:21-14:43 (selected interview)",
+        "kind": "video"
+      },
+      {
+        "source_id": "M08-P09",
+        "role": "teach",
+        "assignment": "Ryan, Aalto University 2025 - assigned 08:38-13:55 (needs and distinctions)",
+        "kind": "video"
+      },
+      {
+        "source_id": "PD-M6-02",
+        "role": "teach",
+        "assignment": "Pekrun, IPPE 2023 - assigned 15:51-19:02 (selected model)",
+        "kind": "video"
+      },
+      {
+        "source_id": "PD-M6-03",
+        "role": "teach",
+        "assignment": "Fishbach, TED 2023 - assigned 03:33-04:36",
+        "kind": "video"
+      },
+      {
+        "source_id": "PD-M6-04",
+        "role": "teach",
+        "assignment": "Ryan and Deci 2020 - VERIFIED: Figure 1 and the paragraph beginning \"Whereas both external regulation and introjection\" (incl. identified/integrated regulation and amotivation definitions); then the first paragraph under \"Multiple motives and relative autonomy\"; skip the later classroom-policy review",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PD-M1-07",
+        "role": "teach",
+        "assignment": "Woolley, Giurge and Fishbach 2025 - TEACH reuse in m6 (optional further reading in m1): the Abstract; the paragraph immediately before the main Study 3 heading (not 'Study 3 disclosures'); Study 2's opening paragraph and Study 3's Procedure paragraph; Study 4's opening paragraph, its Method paragraph beginning 'Of the 933 participants invited back,' and its first two Results paragraphs; then the General Discussion paragraph beginning 'Several open questions remain.'",
+        "kind": "reading",
+        "note": "ADDED (deg-fix-content 2026-10-26): published in mod-pd-6 but missing from the manifest - verified against m6-motivational.md's Read section"
+      }
+    ],
+    "mod-pd-7": [
+      {
+        "source_id": "PD-M7-02",
+        "role": "teach",
+        "assignment": "Wood, Big Think/The Well - assigned 01:16-04:53",
+        "kind": "video"
+      },
+      {
+        "source_id": "PD-M7-01",
+        "role": "teach",
+        "assignment": "Berkman, University of Oregon - assigned 01:12-02:35",
+        "kind": "video"
+      },
+      {
+        "source_id": "PD-M7-03",
+        "role": "teach",
+        "assignment": "Inzlicht, The Dissenter episode 298 - assigned 49:52-58:10 (historical interview window)",
+        "kind": "video"
+      },
+      {
+        "source_id": "PD-M3-01",
+        "role": "revisit",
+        "assignment": "Bloom lecture 4 - RETRIEVAL reuse in m7: assigned 33:49-36:11 (different window from m3)",
+        "kind": "video"
+      },
+      {
+        "source_id": "PD-M7-08",
+        "role": "teach",
+        "assignment": "Dang 2018, ego depletion meta-analysis - Table 2 with its note; first two Discussion paragraphs; final 'Does ego depletion exist?' paragraph from 'Therefore, taken together'",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PD-M7-10",
+        "role": "teach",
+        "assignment": "Vohs et al. 2021 author manuscript (mislabeled 'Heidbreder' in the data block) - Abstract and Methods' 'Participants' subsection only",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PD-M7-09",
+        "role": "teach",
+        "assignment": "Alarcon-Espinoza et al. 2022 - VERIFIED m7 doc assignment: Abstract and Methods' inclusion criterion (d) only, to compare natural-context measurement with its explicit under-18 population [PMC9171140]",
+        "kind": "reading",
+        "note": "CORRECTION of this manifest's earlier entry: the source IS assigned in the m7 doc ('Alarcon-Espinoza and colleagues, 2022' with accents) - the earlier 'grep count 0' was an accent miss; NOT a data-block extra"
+      },
+      {
+        "source_id": "PD-M7-04",
+        "role": "teach",
+        "assignment": "Carden and Wood 2018 - VERIFIED m7 doc assignment: the opening three paragraphs beginning 'Habits form as people pursue goals'; under 'Habits and effortless self-control' the two paragraphs beginning 'This shift' and 'High trait self-control'; the first paragraph under 'Changing environments, changing habits' (author-hosted PDF)",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PD-M7-05",
+        "role": "teach",
+        "assignment": "Singh et al. 2024 - VERIFIED m7 doc assignment: Abstract only, for the evidence base, variability and the pre/post outcome distinction [PMC11641623]",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PD-M7-06",
+        "role": "teach",
+        "assignment": "Werner and Berkman 2024 - VERIFIED m7 doc assignment: the four paragraphs from 'Exactly how and when does motivation influence self-control?' through the monitoring explanation, stopping before the next heading [PMC11423838]",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PD-M7-07",
+        "role": "teach",
+        "assignment": "Reed et al. 2020 - VERIFIED m7 doc assignment: Abstract and 'Participants' only, distinguishing measurement families and the selected older-adult population [PMC7250393]",
+        "kind": "reading"
+      },
+      {
+        "source_id": "PD-M3-05",
+        "role": "revisit",
+        "assignment": "Bouton, Noba conditioning-and-learning - REVISIT in m7: the Vocabulary entries 'Reinforcer' and 'Punisher' only, to check the increase/decrease definitions, not the full module",
+        "kind": "reading",
+        "note": "ADDED (deg-fix-content 2026-10-26): published in mod-pd-7 as role=revisit but missing from the manifest - verified against m7-overt-behavioural.md's Read section"
+      }
+    ],
+    "mod-pd-8": [
+      {
+        "source_id": "PD-M1-05",
+        "role": "capstone-return",
+        "assignment": "Hofmann and Hayes 2024 - m8 prose reference; capstone-return per data block (m8 doc: \"No new reading or video is required. Retrieve and reuse...\")"
+      },
+      {
+        "source_id": "PD-M1-06",
+        "role": "capstone-return",
+        "assignment": "Maitland 2024 - m8 prose reference; capstone-return per data block (m8 doc: \"No new reading or video is required. Retrieve and reuse...\")"
+      },
+      {
+        "source_id": "PD-M2-06",
+        "role": "capstone-return",
+        "assignment": "Martinez-Priego et al. 2024 - the m8 doc cites \"the emotion-goal review\" in prose; capstone-return (m8 doc: \"No new reading or video is required. Retrieve and reuse...\")"
+      },
+      {
+        "source_id": "PD-M7-05",
+        "role": "capstone-return",
+        "assignment": "Singh et al. 2024 - the m8 doc cites duration-evidence limits (PMC11641623) in prose; capstone-return (m8 doc: \"No new reading or video is required. Retrieve and reuse...\")"
+      },
+      {
+        "source_id": "PD-M5-05",
+        "role": "capstone-return",
+        "assignment": "Manchiraju 2026 - the m8 doc cites \"the SCC review\" in prose; capstone-return (m8 doc: \"No new reading or video is required. Retrieve and reuse...\")"
+      },
+      {
+        "source_id": "PD-M1-07",
+        "role": "capstone-return",
+        "assignment": "Woolley et al. 2025 - NOT cited in m8 prose (checked; the m8 doc names the emotion-goal review, the SCC review and the ANT paper in prose, and permits general reuse of previously studied sources without naming per-source). Assigned in m6 (Abstract; one paragraph) - keep there. m8 requiredness UNRESOLVED, not a confirmed extra: the general capstone-reuse instruction does not discriminate; owner or schema lane decides whether the m8 listing stays | RESOLVED 2026-10-26 by deg-fix-schema: removed from this module in the data block.",
+        "note_only": true
+      },
+      {
+        "source_id": "PD-M7-04",
+        "role": "capstone-return",
+        "assignment": "Carden and Wood 2018 - VERIFIED m8 prose cite (habit mechanism and measurement caution) (m8 doc: \"No new reading or video is required. Retrieve and reuse...\")"
+      },
+      {
+        "source_id": "PD-M4-07",
+        "role": "capstone-return",
+        "assignment": "Fan et al. ANT paper - VERIFIED m8 prose cite: 'the original ANT paper defines laboratory contrasts rather than everyday diagnostic tests' with the ANT definitions link; capstone-return role confirmed"
+      },
+      {
+        "source_id": "PD-M7-10",
+        "role": "capstone-return",
+        "assignment": "Vohs et al. 2021 author manuscript (the data block mislabels it 'Heidbreder, consciousness review article') - NOT cited in m8 prose (checked); it IS assigned in m7 (Abstract and Methods' 'Participants' subsection only, verified in the m7 entry). The m8 doc's general 'retrieve and reuse' instruction does not name it, so m8 requiredness is UNRESOLVED: the schema lane or owner must decide whether to keep it in mod-pd-8 required or drop the m8 listing (the m7 assignment stands either way) | RESOLVED 2026-10-26 by deg-fix-schema: dropped from mod-pd-8 (not cited in the m8 doc); the m7 assignment stands.",
+        "kind": "reading",
+        "note_only": true
+      }
+    ]
+  },
+  "verified_by": "2026-10-26 worker-pplx-degfixcontent-1026a (baton deg-fix-content)"
 }
