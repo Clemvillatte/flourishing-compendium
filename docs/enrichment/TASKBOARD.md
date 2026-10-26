@@ -1,3 +1,27 @@
+## Worker checkpoint (2026-10-26 02:31Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
+QC SAMPLE — concept page Object relations theory (complete: all quoted
+spans checked): the Fairbairn principle from Gomez ("Libido, or the
+person in her libidinal capacity, is primarily not pleasure-seeking but
+object-seeking. Fairbairn is suggesting that our deepest motivation is
+for contact with others and that this need overrides our wish for
+physical gratification.") and the 1943 resistance span ("lay in the
+patient's loyalty to her internal objects") confirmed VERBATIM in the
+opened [Gomez chapter PDF](https://tcf-website-media-library.s3.eu-west-2.amazonaws.com/wp-content/uploads/2014/10/20131935/An-Introduction-To-Object-Relations-1997-Chap-3.pdf)
+(downloaded and text-extracted directly; the fetcher is robots-blocked on
+this S3 carrier); the Sutherland JAPA 1980 Winnicott span ("suggested
+more specifically how the infant's relationships at the earliest stages
+patterned its whole subsequent personal development") confirmed
+VERBATIM via the opened
+[eutils abstract record](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7009698&rettype=abstract&retmode=text);
+the Mitchell 1981 Klein/Fairbairn contrast spans ("a natural, inevitable
+and continual accompaniment of all experience" and "internal objects
+are neither primary nor inevitable (theoretically). They are
+compensatory substitutes for unsatisfactory relations with real,
+external objects") confirmed VERBATIM on the opened
+[Mitchell PDF](https://archive.wawhite.org/uploads/PDF/Mitchell-Origin_of_Nature.pdf).
+No defects; no repairs needed.
+
 ## Worker checkpoint (2026-10-26 02:32Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
 
 QC SAMPLE — concept page Obedience theory Milgram (complete: all quoted
