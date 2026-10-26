@@ -1,0 +1,23 @@
+---
+schema: 0
+id: "ST512"
+type: "story"
+title: "512.  The Bishop and the Silver"
+file: "ST512 — The Bishop and the Silver"
+navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.06 — I.6 Relationships, Speech, and Leadership", "parent": ""}
+---
+
+Literary narrative · a scene from Victor Hugo's Les Misérables (1862), via the Hapgood translation (Project Gutenberg ebook #135).
+
+Jean Valjean, the released convict who has stolen his host's silver, is brought back by gendarmes, and the bishop greets him first: "Ah! here you are! ... I am glad to see you. Well, but how is this? I gave you the candlesticks too, which are of silver like the rest, and for which you can certainly get two hundred francs. Why did you not carry them away with your forks and spoons?" ([Hugo, Gutenberg #135](https://www.gutenberg.org/cache/epub/135/pg135.txt)). To the gendarmes he supplies the cover the thief had already told, "that it had been given to him by a kind old fellow of a priest with whom he had passed the night? I see how the matter stands. And you have brought him back here? It is a mistake" ([Hugo, Gutenberg #135](https://www.gutenberg.org/cache/epub/135/pg135.txt)), and the man is released. Then the gift is put into his hands: "My friend... before you go, here are your candlesticks. Take them" ([Hugo, Gutenberg #135](https://www.gutenberg.org/cache/epub/135/pg135.txt)).
+
+The scene does not stop at the kindness. The bishop adds a charge, "Do not forget, never forget, that you have promised to use this money in becoming an honest man", and the narrator reports that "Jean Valjean, who had no recollection of ever having promised anything, remained speechless" ([Hugo, Gutenberg #135](https://www.gutenberg.org/cache/epub/135/pg135.txt)). The reason follows: "Jean Valjean, my brother, you no longer belong to evil, but to good. It is your soul that I buy from you; I withdraw it from black thoughts and the spirit of perdition, and I give it to God" ([Hugo, Gutenberg #135](https://www.gutenberg.org/cache/epub/135/pg135.txt)).
+
+The connection with D125 is the kindness arriving first and surviving the theft. The bishop's goodness meets the man before any deserving, continues past the stealing, and then, with the gift already given and the charge stated in invented words, points at what he might become. I read it as the DDJ 49 policy with the moral expectation kept in: the goodness is not conditioned on the man's response, and the scene's own text gives no evidence that it was. What Valjean becomes is Hugo's invention, and the draft claims nothing from it about the world.
+
+**Principles:**
+- [[D125 — Be good to the good and the not-good]]: the bishop's kindness to the thief, first and unwithdrawn, with the scene's explicit moral charge kept in and the outcome named as the novelist's.
+
+## Sources
+- [Victor Hugo, Les Misérables, Hapgood translation, Project Gutenberg ebook #135](https://www.gutenberg.org/cache/epub/135/pg135.txt) — the greeting with the candlesticks, the gendarme scene, the handing over, the honest-man charge and Valjean's non-recollection, the soul speech, verbatim.

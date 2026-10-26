@@ -33,6 +33,9 @@ Two teachers share a difficult student. One keeps her patience whatever the stud
 
 - Laozi, *Tao Teh King*, trans. James Legge: [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 
+## Stories
+- [[ST512 — The Bishop and the Silver|512. The Bishop and the Silver]]
+
 ## Psychology parallels
 
 - **[[Unconditional positive regard|Unconditional positive regard]]**, non-contingent regard enables change (Rogers, 1957)

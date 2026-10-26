@@ -103,6 +103,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST038 — Three Friends and the Creator]]
     - [[ST507 — The School With No Substitutes]]
     - [[ST511 — The Flower and the Smile]]
+    - [[ST512 — The Bishop and the Silver]]
   - [[ST-S01.07 — I.7 Body, Breath, and Vitality (Yangsheng)]]
     - [[ST044 — The Tortoise in the Mud]]
     - [[ST045 — The True Man Breathes from His Heels]]
