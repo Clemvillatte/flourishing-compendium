@@ -13,7 +13,7 @@ The mechanism: the three components are the antidotes to the three amplifiers of
 
 The distinction to hold: self-compassion is not self-pity (which isolates), not self-indulgence (which avoids), and, against the strongest folk objection, not soft on motivation: self-compassionate people are *more* motivated to improve after failure, not less. The folk belief that self-criticism is necessary for discipline is what the kin pages' evidence contradicts.
 
-An example at its smallest: hand on chest, "this is a moment of suffering; suffering is part of life; may I be kind to myself in this moment".
+An example at its smallest: hand on chest, "This is a moment of suffering. Suffering is part of life. May I be kind to myself in this moment. May I give myself the compassion I need." ([Neff, self-compassion break, Greater Good in Education](https://ggie.berkeley.edu/practices/self-compassion-break/)).
 
 Its contemplative cognates are [[Metta (loving-kindness)]] turned inward and [[Compassion]] (karuna), the Buddhist insight that the self-other boundary in kindness is itself soft.
 
@@ -70,6 +70,7 @@ self-kindness versus harsh self-judgment predicts resilience (Neff, 2003; MacBet
 ## Sources
 
 - [Neff, the three components of self-compassion (handout PDF)](https://greatergood.berkeley.edu/images/uploads/Neff_Handouts_(1).pdf)
+- [Neff, self-compassion break (Greater Good in Education)](https://ggie.berkeley.edu/practices/self-compassion-break/)
 - Neff, 2003
 - MacBeth and Gumley, 2012
 - Neff, 2003, 2011

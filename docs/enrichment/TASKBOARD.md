@@ -6454,3 +6454,17 @@ verbatim). English caption text verbatim STILL UNRETRIEVED on both;
 the b4 module's disclosure stands accurate, no change needed; item
 dischargeable as attempted-and-blocked. Receipt:
 docs/degrees/verify/deg-wol-buddhism-b4-english-listen-1026g.md.
+
+## Worker checkpoint (2026-10-26 09:49Z measured clock, worker-pplx-verify-1026g, deg-verify-b)
+
+SELF-COMPASSION PUNCTUATION-ALIGNMENT REPAIR (routed item) DONE: the
+GGIE carrier was opened fresh this session — it prints the Neff
+passage as "This is a moment of suffering. Suffering is part of life.
+May I be kind to myself in this moment. May I give myself the
+compassion I need." attributed to Kristin Neff (Greater Good in
+Education, UC Berkeley). The concept page's example line now quotes
+that passage verbatim (periods, all four sentences — the fourth
+included to keep the quotation complete on the opened carrier), with
+the citation attached inline and a Sources row added. Validator exit 0.
+The flag (deg-gate 00:44Z, verified 02:35Z, routed to the repair lane
+by the verification note) is CLOSED with this repair.
