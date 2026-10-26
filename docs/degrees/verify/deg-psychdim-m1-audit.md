@@ -261,6 +261,64 @@ accuracy objection
 The needed repair is the unbudgeted required assignment and exact
 stopping points, not a demand for spurious word-count precision.
 
+## M1-V07: The first path cannot adjust for an unmeasured earlier outcome
+
+The draft's general explanation says the panel models predict a later
+outcome while accounting for its earlier levels. That applies to the
+later adherence paths, but not to the first worked path. Adherence was
+not measured at T1, and the
+[public main-model syntax](https://osf.io/a9he8/files/t4gda)
+specifies `success_Wave2 ~ IM_Wave1 + EM_Wave1`, with no earlier
+adherence term. Later equations explicitly include `success_Wave2`
+or `success_Wave3`, respectively
+([source code](https://osf.io/a9he8/files/t4gda);
+[Study 1 measures and Figure 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/)).
+
+**Proposed bounded replacement:** “The panel models include the
+previous adherence measure when one exists. The first prediction,
+from baseline motivation to the second survey's adherence, cannot
+adjust for baseline adherence because it was not measured. The later
+adherence paths include the previous survey's adherence.”
+
+This is a qualification of the explanation, not an allegation that
+the paper omitted a measured control or that the coefficient is
+wrong. It gives the learner a concrete example of checking what a
+model actually adjusts for instead of treating “longitudinal” or
+“cross-lagged” as a guarantee of causal control.
+The differing adjustment sets also make the three numbers unsuitable
+for a simple like-for-like demonstration that a single relationship
+weakens across time.
+
+### Small novice-reading safeguard
+
+The supplied code's standardised estimates match the paper's three
+displayed beta values. Add one sentence before the faded exercise
+explaining that these are regression coefficients, not percentage
+improvements, individual success probabilities or treatment benefits
+([analysis code](https://osf.io/a9he8/files/t4gda);
+[reported paths](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/)).
+Do not require a novice to infer a percentage or a universal
+small/medium/large label from beta 0.080.
+
+For the first path, a proposed plain-language explanation is:
+“Beta is a standardised regression coefficient. In this fitted
+model, one standard deviation higher baseline intrinsic motivation
+is associated with about 0.216 standard deviations higher
+subsequent adherence, holding the included extrinsic-motivation
+measure constant. This is an observational, model-dependent
+association; 0.216 does not mean a 21.6% increase or a causal
+benefit”
+([published model and results](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/)).
+
+One proposed test response is: “This predicts an eight-per-cent
+improvement for me.” The existing causal-inference rule should reject
+it, and the added scale sentence would explain why the numeric
+interpretation is also wrong. A response that reports the positive
+model-estimated association and interval while declining a
+personal-benefit claim should pass this aspect of the appraisal.
+These are synthetic assessment cases, not observed learner results
+or a new grading rule imposed by the verifier.
+
 ## Recheck after owner commit f9f1003c0
 
 The owner's revision removes the original endorsement sentence about

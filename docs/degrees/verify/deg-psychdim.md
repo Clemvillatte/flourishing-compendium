@@ -357,13 +357,17 @@ credentials are checked separately from article affiliations.
   ([article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/)).
 - **Credentials:** the independent
   [University of Oregon directory](https://cas.uoregon.edu/directory/psychology/all/mposner)
-  lists Posner as Professor Emeritus in Psychology, with a
-  University of Michigan PhD.
-- **Exact proposed assignment:** Abstract, section 3.2 *Human
-  Development* and section 4 *Interaction of Networks*, excluding
-  section 4.1's animal-memory detail. Section 4 explicitly revises
-  the picture of complete independence toward interacting,
-  semi-independent networks
+  lists Posner as emeritus in Psychology and describes research
+  on attention and self-regulation. No doctoral institution is
+  claimed here because that opened profile does not establish it.
+- **Exact proposed assignment:** Abstract and only the first
+  paragraph of section 4 *Interaction of Networks*, ending
+  “performing largely different functions.” This paragraph
+  describes interacting, semi-independent networks. Section 3.2
+  *Human Development* and the remainder of section 4 are optional
+  technical background; substantial mouse-memory material occurs
+  before the *Molecular Level* subsection and is excluded from
+  the assignment
   ([selected sections](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/)).
 - **Evidence type and boundary:** a review of cognitive,
   developmental and neurobiological work, with proposals for
@@ -373,13 +377,15 @@ credentials are checked separately from article affiliations.
   from an everyday distraction, a literal three-switch metaphor,
   or promises that practice will improve an entire life
   ([review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/)).
-- **Walk of Life fit:** conditional M4 attention background only.
-  A proposed learner task notices whether a difficult moment
-  involved readiness, a competing cue or response conflict,
-  while allowing more than one description. The learner should
-  not infer a deficient brain network. The full article's
-  evolutionary, genetic and animal-learning sections are outside
-  this degree's everyday purpose.
+- **Walk of Life fit:** conditional M4 background for recognising
+  that functions can be distinguished while still interacting.
+  These excerpts alone do not adequately teach every functional
+  definition for an assessment. If the owner proposes an everyday
+  attention exercise, keep it at the level of the situation and
+  the learner's possible response; do not score it as a network
+  identification test or claim that it trains a network. The full
+  article's evolutionary, genetic and animal-learning sections
+  are outside this degree's everyday purpose.
 - **Status:** verified reading, English; anonymous access,
   identity, selected content and independent credential checked.
   Exclude the whole paper as a compulsory neuroscience survey;
@@ -613,3 +619,88 @@ credentials are checked separately from article affiliations.
   credential checked. Conditional existing candidate,
   not a new core requirement; no claim-level endorsement
   of every underlying meta-analysis and no gate clearance.
+
+## PD-V12: Existing ego-depletion reading needs limits, not a willpower law
+
+- **Opened:** 2026-10-26, verifier-96108df3. Search and complete,
+  unprompted
+  [Dang full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC6013521/),
+  with two later replication reports opened to check the limits
+  of using this existing M7 candidate as a settled explanation:
+  [Dang and colleagues](https://journals.sagepub.com/doi/10.1177/1948550619887702)
+  and
+  [Vohs and colleagues](https://pmc.ncbi.nlm.nih.gov/articles/PMC12422598/).
+  These contextual checks are not three new core assignments.
+- **Identity and access:** Junhua Dang, *An updated meta-analysis
+  of the ego depletion effect*, Psychological Research 82(4),
+  645–651, DOI 10.1007/s00426-017-0862-x. The opened header
+  gives online publication 8 April 2017 and issue date 2018;
+  the independent
+  [Lund record](https://www.lu.se/publikation/4680ef86-62b4-485c-a77f-b88d734a34e3)
+  confirms the 2018 issue citation. Anonymous full text,
+  CC BY 4.0
+  ([article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6013521/)).
+- **Credential boundary:** the separately opened publisher
+  biography for
+  [Dang's later replication paper](https://journals.sagepub.com/doi/10.1177/1948550619887702)
+  describes a Uppsala neuroscience researcher working on
+  self-control, intergroup relations and decision-making.
+  This supports relevant historical research expertise, not a
+  newly verified present faculty rank; the attempted Lund
+  person page was unavailable.
+- **What the existing source reports:** 142 effect sizes,
+  overall g = 0.38, CI [0.31, 0.45], I² = 60.67%; the
+  trim-and-fill estimate is g = 0.24, CI [0.16, 0.32].
+  Task-specific and post-hoc restrictions materially affect
+  the result. The author explicitly warns against treating
+  the tentative restricted analysis as conclusive, and
+  says the strength/resource model is not supported by
+  the current analysis
+  ([Results and Discussion](https://pmc.ncbi.nlm.nih.gov/articles/PMC6013521/)).
+- **Later evidence is not one uniform verdict:** the
+  [Dang multilab report](https://journals.sagepub.com/doi/10.1177/1948550619887702),
+  first online April 2020 and issued January 2021,
+  reports N = 1,775 and a small d = 0.10 under its
+  protocol; the
+  [2021 Vohs report](https://pmc.ncbi.nlm.nih.gov/articles/PMC12422598/)
+  uses 36 laboratories and 3,531 participants, excluding
+  1,068 under preregistered criteria for its confirmatory
+  analyses, and reports d = 0.06, CI [−0.02, 0.14].
+  Neither result licenses a universal daily willpower
+  budget.
+- **Confirmatory/exploratory boundary:** Vohs and colleagues'
+  confirmatory result did not find the hypothesised
+  depletion effect; an exploratory full-sample analysis
+  gave d = 0.08. The authors distinguish these analyses
+  and discuss multiple interpretations. Do not present
+  either a nonsignificant result as proof of exact zero,
+  or the exploratory result as a confirmatory rescue
+  ([Results and Discussion](https://pmc.ncbi.nlm.nih.gov/articles/PMC12422598/)).
+- **Independent contextual credential:** the
+  [Minnesota institutional profile](https://twin-cities.umn.edu/news-events/expert/kathleen-vohs)
+  confirms Vohs's relevant self-control research and
+  Distinguished McKnight University Professor role.
+  Author expertise does not turn competing laboratory
+  protocols into settled advice for an individual.
+- **Finite scope recommendation:** default to excluding
+  the depletion debate from core M7. PD-V03 and PD-V04
+  already support a more direct task about flexible
+  response and revisable practice. If the owner retains
+  a short research-literacy contrast, assign only
+  Dang's *Does ego depletion exist?* subsection and
+  the Vohs abstract and discussion's alternative
+  interpretations, without adding the entire history.
+- **Walk of Life safeguard:** neither fatigue nor a
+  difficult evening proves that a finite resource has
+  been exhausted. Learners should not be told their
+  willpower is an empty fuel tank, that food restores
+  a proved psychological resource, or that laboratory
+  nulls make their exhaustion unreal. These are
+  instructional boundaries, not a diagnosis or a
+  new clinical recommendation.
+- **Status:** existing candidate's content, access,
+  publication dates and limits checked; contextual
+  replications independently opened. Recommend exclusion
+  from core unless a unique bounded learner need is
+  demonstrated. No new required resources or gate
+  clearance.
