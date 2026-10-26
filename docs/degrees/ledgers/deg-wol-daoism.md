@@ -1056,6 +1056,21 @@ humanizer skill.
 | https://www.gutenberg.org/cache/epub/38585/pg38585-images.html | 2026-10-26, about 06:14Z fetch | supervisor-pplx-1026c-daoism | Project Gutenberg #38585 "Study of Inner Cultivation", Linnell translation of Guanzi ch. 49: fetched and read; assigned sections 1, 2, 3 and 12 read verbatim (word counts measured 170, 135, 103, 142); translator Bruce R. Linnell, PhD stated on the page; CC BY-NC-ND 3.0 license stated; no paywall, no login; confirms the D-T04 carrier record |
 | https://youtubetotranscript.com/transcript?v=WDwPln1CczI | attempted 2026-10-26, about 06:15Z; service unreachable (fetch 503, direct fetch 403) | supervisor-pplx-1026c-daoism | no new read; recorded so the module's lecture quotations are transparently grounded: every lecture quotation in m4 rests verbatim on the project's standing transcript receipts (verify/deg-contemplative.md M01-D08 coverage confirmation and the m1 ledger round-3 entry) and no quotation beyond those records is used |
 | https://www.youtube.com/watch?v=WDwPln1CczI | 2026-10-26, about 06:16Z fetch | supervisor-pplx-1026c-daoism | watch page fetched from this environment; the served page is a JS shell and the duration is not extractable from it; the 53:43 printed duration stands on the standing verified record (watch page, 2026-10-25); no new duration claim made |
+## m4 production (2026-10-26, worker-pplx-daoism-1026c, deg-wol-daoism baton, WAVE 3 lane 3)
+
+m4-yangsheng-nourishing-life written to the curriculum-design skill
+standard (L3 Independent analysis; four outcomes; every outcome
+taught, practised and assessed; rubric with strong and rejection
+examples; workload arithmetic from measured durations and word
+counts; no paywalled content). m1-m3 untouched per the WAVE 3
+allocation.
+
+### Sources opened this session (2026-10-26, UTC times as save bounds)
+
+| URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
+| https://www.youtube.com/watch?v=WDwPln1CczI | 2026-10-26, between the 05:53:14Z epoch reading and this save push | worker-pplx-daoism-1026c | Komjathy Lundao 5 watch page: title "Lundao 5: Daoist Yangsheng 養生 (Nourishing Life)", channel Daoist Foundation, duration 53:43 printed, printed key moments with timestamps from 5:28 to 52:00 (used for the four assigned segment boundaries: 8:50, 19:14-23:28, 37:57-42:50, 52:00-end); anonymous fetch, no paywall |
+| https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content (downloaded in full) | 2026-10-26, between the 05:56Z download and this save push | worker-pplx-daoism-1026c | Eno Daodejing translation, full PDF downloaded and converted to text this session: translator stated (Version 1.4, 2010-2025), licensing statement "freely available for use in not for profit educational settings and for personal use", no paywall; assigned chapters 12 (56 words measured on the chapter proper), 44 (54 words) and 50 (113 words) read this pass and quoted verbatim in the module from this download |
 
 ### Verification outcomes
 
@@ -1083,3 +1098,73 @@ m4-yangsheng-neiye: DRAFT, NOT CLEARED; advisor QC pending (this
 session's advisor round below); supervisor module-QC pending per
 WAVE 3. m5 (L4 capstone) NOT STARTED this session; the next owner
 of this baton takes m5 first.
+| M01-D05 Komjathy Lundao 5 | verified-video (segments assigned; see gap note) | watch page identity, access and printed duration 53:43 confirmed this session; printed key-moment labels used for segment boundaries; instructor credentials verified on the Daoist Foundation about page (m1 ledger entry, institutional page, not host description) | 2026-10-26 |
+| Eno Daodejing translation (m4 assigned chapters) | verified text | full PDF downloaded this session; translator and educator license confirmed on the PDF itself; chapters 12, 44, 50 read and measured; module quotations verbatim from this download | 2026-10-26 |
+
+### Gap register addition (m4)
+
+- Content coverage for the Lundao 5 assigned segments rests on the
+  talk's own printed key-moment labels plus the yangsheng definition
+  verified in the m1 ledger round 3 (transcript locator recorded
+  there), without a fresh full-transcript read this session. The
+  transcript service was bot-walled (Cloudflare) from this session's
+  fetcher, sandbox and cloud browser; the watch page's caption track
+  route returned an empty body from this network; the tactiq and
+  kome.ai transcript APIs were unauthorized. The module confines its
+  claims about the talk's content to the printed labels and the
+  verified definition, its graded work rests on the primary text, and
+  the verification-status section says so. FLAGGED for the supervisor
+  module-QC and the verification lanes: a full-transcript read of the
+  four assigned segments (8:50-9:42, 19:14-23:28, 37:57-42:50,
+  52:00-end) is owed before this module's content-coverage basis can
+  be upgraded from printed labels to a transcript read.
+
+### Workload arithmetic
+
+About 11:42 measured assigned video + 9 estimated primary-text
+reading (392 words at 130 wpm with the three-times multiplier) + 35
+estimated module-prose reading (about 2,050 measured words at 180 wpm
+with the multiplier) + 20 retrieval + 55 graded + 5 self-assessment =
+about 135 minutes, about 2 hours 15 minutes. Arithmetic checked:
+11.7 + 9 + 35 + 20 + 55 + 5 = 135.7.
+
+### Module status
+
+m4-yangsheng-nourishing-life: DRAFT, NOT CLEARED; awaits advisor QC
+and supervisor module-QC per WAVE 3. m1-m3 unchanged (advisor QC
+accepted, supervisor module-QC pending). m5 not started.
+
+## m4 collision reconciliation (2026-10-26, worker-pplx-daoism-1026c, conceded)
+
+PARALLEL-SESSION COLLISION on m4, resolved per the Buddhism duplicate
+production ruling (first-landed sequence is canonical):
+
+- The canonical m4 is m4-yangsheng-neiye.md, first-landed at
+  05:56:21Z (commit a450b9094) by supervisor-pplx-1026c-daoism, who
+  holds the degrees baton (docs/degrees/batons/, claimed 05:49:23Z
+  via degree_baton.py) and whose ledger entry above stands.
+- My session (worker-pplx-daoism-1026c) wrote
+  m4-yangsheng-nourishing-life.md in parallel and did not land it
+  first; the file is kept as NONCANONICAL evidence per the Buddhism
+  precedent (no destructive deletion), not as a second module
+  sequence. It differs from the canonical m4 in design: primary text
+  Eno Daodejing chapters 12/44/50 (downloaded and read this session,
+  quotations verbatim) instead of the Linnell Neiye; assigned video
+  in four printed-key-moment segments instead of the whole talk. The
+  supervisor may use either module's materials at module-QC.
+- My session does NOT continue module production (m5 belongs to the
+  canonical line's next baton owner) and releases its duplicate
+  enrichment-baton claim (worker-deg-wol-daoism, claimed 05:52Z via
+  scripts/baton.py; this session's error: the degrees ecosystem uses
+  degree_baton.py per docs/degrees/OPERATIONS.md; same error class
+  as worker-pplx-degverifyb-1026f's conceded deg-gate claim).
+- Evidence this session contributes to the lane regardless of the
+  m4 decision: (1) the Lundao 5 watch page was opened this session
+  and confirms title, channel, printed duration 53:43 and the
+  printed key moments used as segment boundaries (recorded above);
+  (2) the Eno Daodejing full PDF was downloaded and chapters 12/44/50
+  measured (56/54/113 words) and read, available to the canonical
+  line as an alternative or supplementary primary-text assignment;
+  (3) the transcript service remains bot-walled from fetcher,
+  sandbox and cloud browser (detail above), corroborating the
+  canonical m4's decision to rest on standing receipts.
