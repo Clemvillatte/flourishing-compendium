@@ -36,3 +36,7 @@ One wrinkle: the PMC identifier PMC7250393 is the Reed, Combs and Segerstrom art
 | Ziporyn: Mircea Eliade Professor of Chinese Religion, Philosophy, and Comparative Thought; translator of the Zhuangzi | [UChicago Divinity directory](https://divinity.uchicago.edu/directory/brook-ziporyn) | Matches (Hackett, 2020 translation listed). |
 | Komjathy: PhD Religious Studies, Boston University, 2005; ordination in the Huashan lineage | [Daoist Foundation about page](http://www.daoistfoundation.org/about) | Matches. The page text retrieved here does not itself contain the word Quanzhen. |
 | Dreyfus: Jackson Professor of Religion, Williams College | [Williams catalog](https://catalog.williams.edu/faculty/) | Matches. |
+
+## Link sweep (non-YouTube URLs in the four degrees' module docs)
+
+101 distinct URLs were requested. 82 returned 200 and 5 returned 202 (bswa.org, a slow page that serves content). Four 404s came from trailing punctuation or a dollar sign dropped when the URLs were extracted from the Markdown; with the exact URL each returns 200 (Duke American Philosophy syllabus, UBC Self-Concept Clarity instrument, thebuddhistcentre.com loving-kindness text, Access to Insight khandha page). Ten returned 403 to a plain request (amaravati.org, plumvillage.org, two ACU researcher pages, the Northeastern profile page, three youtubetotranscript.com pages); these are bot-check blocks, and the Amaravati biography and book-landing pages were opened through the fetch tool in this session or earlier lanes. No dead links found.
