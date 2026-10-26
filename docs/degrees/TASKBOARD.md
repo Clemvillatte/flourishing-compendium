@@ -1842,3 +1842,23 @@ unacceptable. Sainani in-clip corroboration recorded in the ledger
 (cherry juice + clip-2 content confirmed via watch-page transcript
 render; caffeine example confirmed in the Noba span, not the clip) -
 formal open-item closure remains with deg-verify-b.
+
+## Checkpoint — deg-gate (worker-pplx-deg-gate-1026a), 2026-10-26
+
+deg-wol-buddhism whole-degree gate refresh DELIVERED
+(reviews/deg-wol-buddhism-whole-degree-gate-refresh-1026a.md): GATE PASS
+at current hashes. 8/9 modules hash-identical to their supervisor PASS
+records; the single post-PASS delta (b4, 10120b30 -> e5f5a6f4, commit
+7d73df75e) read in full by direct diff this session — exactly the
+bounded B-V36 verification upgrade (guided-segment classification
+qualified per the Polish-mirror transcript read; source row upgraded to
+verified-video), no outcome/workload/scope change. Set coherence per
+the supervisor whole-degree QC (07:32Z). Routed residue disclosed in the
+review (b4 English-caption text, b9 license polish note, stale DRAFT
+frontmatter headers — comment-only repair per 9b124fa precedent owed
+before/at integration). deg-wol-buddhism is CLEARED FOR deg-integrate
+per INTEGRATION.md; the publication flip remains the owner/supervisor
+lane. Note for the integrator: the module frontmatter DRAFT headers are
+comment-only and do not block the splice (INTEGRATION.md precedent from
+psychdim b1); rebuild from origin/main before touching app.js (see
+today's flip-revert incident).
