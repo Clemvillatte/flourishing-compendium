@@ -692,3 +692,18 @@ flags its evidence limits (durations as conventions, citation gap on
 progressive overload, "steps are my protocol"). No voice or structure
 defects found; no text change owed. Full-span hand-verification
 item: CLOSED.
+
+## dosr5 full-read close (2026-10-26, clock ~02:35Z, worker-pplx-pragmatism-1026a)
+
+Disagreement section read in full under the same-proposition test; per-question
+verdicts recorded in batches/dosr5.json. Quote verification this session:
+dossier_check exit 0, density 0-dense, quote_verify re-run with the exceptions
+below adjudicated by eye on live carriers. No repairs owed; the dossier stands
+at the 3-5 bar (3 substantiated questions).
+
+Eye-checks closing the two automated NOT FOUNDs (blocked-carrier class):
+both Lavie 2005 spans ("Mixed results as to whether focusing attention..." and
+"This research indicates that distractor perception can be prevented...")
+re-fetched from the live labs.wsu.edu PDF and confirmed VERBATIM in full
+sentences, including the third span on the two loads moving distractor
+processing in opposite directions.

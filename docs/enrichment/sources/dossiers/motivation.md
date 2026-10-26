@@ -450,3 +450,11 @@ feeling received through influence, but is self-wrought" — verbatim
 quote, must stay). Checks: dossier_check exit 0 (51 card links, 25
 headers, 11 carriers); voice audit 5 -> 4 candidates, all reviewed
 keeps. No external carriers opened in this pass.
+
+## dosr5 full-read close (2026-10-26, clock ~02:35Z, worker-pplx-pragmatism-1026a)
+
+Disagreement section read in full under the same-proposition test; per-question
+verdicts recorded in batches/dosr5.json. Quote verification this session:
+dossier_check exit 0, density 0-dense, quote_verify re-run with the exceptions
+below adjudicated by eye on live carriers. No repairs owed; the dossier stands
+at the 3-5 bar (3 substantiated questions).

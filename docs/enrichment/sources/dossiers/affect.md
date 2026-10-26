@@ -435,3 +435,17 @@ CHECKS: dossier_check exit 0 (102 card links, 20 headers, 8
 carriers); quote_verify 13 checked / 0 not found (both new spans
 verify against the Europe PMC carrier); density 0; app.js rebuilt
 via --rebuild=affect, node --check OK.
+
+## dosr5 full-read close (2026-10-26, clock ~02:35Z, worker-pplx-pragmatism-1026a)
+
+Disagreement section read in full under the same-proposition test; per-question
+verdicts recorded in batches/dosr5.json. Quote verification this session:
+dossier_check exit 0, density 0-dense, quote_verify re-run with the exceptions
+below adjudicated by eye on live carriers. No repairs owed; the dossier stands
+at the 3-5 bar (3 substantiated questions).
+
+Eye-checks closing the three transient automated NOT FOUNDs (PMC rate-limit
+class): all three Posner/Russell/Peterson 2005 spans ("This model stands in
+contrast...", "We propose that clinicians and researchers...", "all affective
+states arise from two independent neurophysiological systems...") re-fetched
+from the live PMC2367156 page and confirmed VERBATIM in full sentences.

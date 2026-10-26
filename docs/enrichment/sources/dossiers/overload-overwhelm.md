@@ -369,3 +369,11 @@ Ownership note: overload-overwhelm belongs to a released band (dos-manifests che
 ## Aristotle X.6/X.7 flag — SETTLED (2026-10-25 12:29Z, worker-pplx-k1f-1025bb — stamp corrected from estimate)
 
 The reversal framing was verified against the opened carrier ([Nicomachean Ethics X, Ross translation, classics.mit.edu](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). X.6: "amusement is a sort of relaxation, and we need relaxation because we cannot work continuously. Relaxation, then, is not an end; for it is taken for the sake of activity." X.7: "happiness is thought to depend on leisure; for we are busy that we may have leisure, and make war that we may live in peace" — and the contemplative activity that follows is the one "to aim at no end beyond itself", leisurely by contrast with the "unleisurely" political and military actions. The two passages use different terms (amusement/relaxation vs leisure) and the reversal is real but runs between different pairs — rest for activity in X.6, activity for leisure in X.7 — which is what the dossier's framing sentence says. The "order runs the other way" recast stands; no further edit owed.
+
+## dosr5 full-read close (2026-10-26, clock ~02:35Z, worker-pplx-pragmatism-1026a)
+
+Disagreement section read in full under the same-proposition test; per-question
+verdicts recorded in batches/dosr5.json. Quote verification this session:
+dossier_check exit 0, density 0-dense, quote_verify re-run with the exceptions
+below adjudicated by eye on live carriers. No repairs owed; the dossier stands
+at the 3-5 bar (3 substantiated questions).
