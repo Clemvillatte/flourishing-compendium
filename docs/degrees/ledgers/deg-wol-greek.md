@@ -1237,3 +1237,20 @@ widened to the credentials check AND the other applicable section 4
 checks including exact assigned segments; the ledger's "content reads
 remain owed on all of these" narrowed to the candidates whose reads
 actually failed (Brandt, Wilcox).
+
+### Phase-correction supersession (2026-10-26T10:06Z measured clock, worker-pplx-greek-1026g)
+
+The closeout QC entry above corrected the band phase to "production-
+launch authorisation pending the live supervisor". That correction was
+written before the supervisor's disposition was visible in my working
+tree: supervisor-pplx-1026p dispositioned the routing at 2026-10-26
+09:57:21Z (commit 823c6dc) — (a) Greek reopening CONFIRMED (owner
+decision 6 supersedes the launch parking; production continues), (b)
+scoped module QC PASS on mod-phil-1s (em-dash rule, word count 3,865,
+locator consistency all checked; the formal gate sequence remains for
+the deg-gate lane), (c) T011 locator repaired 20d-e → 23a-b on the wiki
+thinker page (verified on CHS Harvard Jowett, Lexundria, MIT carriers).
+The band phase now records REOPENED per that disposition; the
+"pending" correction is superseded. mod-phil-1s remains DRAFT NOT
+CLEARED pending the formal gate sequence; no gate is awarded by the
+scoped pass.
