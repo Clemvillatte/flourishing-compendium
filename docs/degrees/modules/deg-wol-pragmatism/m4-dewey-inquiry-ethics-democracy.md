@@ -193,24 +193,25 @@ irritated. Call them A and B.
    verdict, and checking that assumption, by asking or by watching the
    next episode, belongs to the inquiry, not to the imagination
    alone. The worked appraisal, run on the constructed case:
-   observed, the rota has failed to be raised in three of the last
-   six weekly reconciliations, and both people were present at each
-   missed one; recalled, A's previous flat kept a rota for two years
-   without a missed week; assumed, that B hears the rota as a verdict
-   on B's effort (this is an assumption until checked, and the next
+   observed, the shared-costs reconciliation was missed in three of
+   the last six weeks, and both people were in the flat at each
+   missed one; recalled, A's previous flat kept a rota for two
+   years without a missed week; assumed, that B hears the rota as a
+   verdict on B's effort (an assumption until checked, and the next
    conversation can check it); imagined only, that a strict rota
    would end the friction. Evidence judgment: the observed record
-   supports the explanation that the friction follows the missed
-   reconciliations rather than the rota question itself, but the
-   sample is six weeks and the recall is from a different flat with
-different people, so the explanation stays provisional. Adaptation
-   with reasons: A adapts the proposal to the constraint that B
-   works irregular shifts, proposing the rota with a swap clause
-   and a two-week trial, because the observed record shows the
-   misses cluster where shifts change. Revision trigger: if the
-   trial record shows misses continuing at shift changes under the
-   rota, the explanation and the proposal are both revised, and
-   the forked-road question is reopened.
+   shows only that the misses happened; it does not by itself show
+   why, so any explanation of the misses stays provisional.
+   Adaptation with reasons: B's irregular shifts are a stipulated
+   constraint of the case, not something the record shows, and A
+   adapts the proposal to that constraint with a swap clause and a
+   two-week trial, because the constraint makes a fixed rota
+   unrealistic whatever the misses' cause. Revision trigger: the
+   trial must record, each week, whether the reconciliation
+   happened and what changed near it (shifts, travel, workload);
+   if the misses continue under the trial with the same pattern,
+   the explanation and the proposal are both revised, and the
+   forked-road question is reopened.
 2. Steps named (partially worked). Take the stipulated next episode: B
    skipped the shared-costs reconciliation again. Write the forked-road
    question for this episode, one suggestion from each person's past
@@ -232,10 +233,10 @@ different people, so the explanation stays provisional. Adaptation
 
 ### Step 5: the comparison (Outcome 4)
 
-Re-read your m2 notes on Peirce (doubt disrupts the habit of belief;
-inquiry is the struggle to settle belief; the maxim traces a
-conception's meaning through its conceivable practical effects),
-from [The Fixation of
+Re-read your m1 and m2 notes on Peirce: the maxim, from [How to Make
+Our Ideas Clear](https://en.wikisource.org/wiki/How_to_Make_Our_Ideas_Clear)
+as assigned in m1, and the doubt-belief-inquiry passages from
+[The Fixation of
 Belief](https://en.wikisource.org/wiki/The_Fixation_of_Belief) as
 assigned in m2-belief-and-doubt.md. Write the comparison on the same
 question: where inquiry starts, and what ends it. Ground both sides
@@ -243,11 +244,15 @@ in the selections you were actually assigned, and compare those
 selections directly: for Peirce, the m2 passages (doubt "is an uneasy
 and dissatisfied state", belief a habit that guides action, inquiry
 "a struggle to attain a state of belief"); for Dewey, the three
-readings of this module (the forked road, the dramatic rehearsal,
-the consultation that uncovers needs). Where the selections agree:
+readings of this module: the [forked
+road](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm), the
+[dramatic
+rehearsal](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm),
+the [consultation that uncovers
+needs](https://www.gutenberg.org/ebooks/71000). Where the selections agree:
 inquiry starts from a real disruption, not from a general duty to
 reflect. What each selection emphasizes: Peirce's gives the logical
-shape of how belief settles and, with the maxim from m2, a test for
+shape of how belief settles and, with the maxim from m1, a test for
 what a conception means; Dewey's starts from the disruption as a
 trouble in living, a blocked course of activity, and follows the
 settlement into deliberation among competing goods and into shared
@@ -325,16 +330,17 @@ admits only what serves learning to run the pattern on your own case.
    Rejection: an application that stays abstract, or one whose
    appraisal offers no observation-assumption separation and no
    evidence for its explanation of the case.
-4. The comparison names what each account emphasizes and where each
-   reaches its limit, on the same question. Strong: "Both start
-   inquiry from a real disruption and end in settled habits, since
-   Peirce's belief already guides action; Peirce gives the maxim, the
-   logical test of what a conception means, and Dewey follows the
-   trouble into deliberation and shared problems, where the m2
-   passages stop; on my case I would use Dewey first, because the
-   trouble is in the living, and the maxim for what 'fair share'
-   means." Rejection: two biographies side by side, or a claim that
-   they simply disagree with nothing grounded in either assignment.
+4. The comparison names what each selection emphasizes and where
+   each selection stops, on the same question. Strong: "Both
+   selections start inquiry from a real disruption, not from a duty
+   to reflect; Peirce's gives the logical shape of how belief
+   settles and the m1 maxim as a test of what a conception means,
+   while Dewey's follows the disruption into deliberation and shared
+   problems, which is where the m2 passages stop; on my case I
+   would start with Dewey's forked road, because my trouble is in
+   the living, and use the maxim on what 'fair share' means."
+   Rejection: two biographies side by side, or a claim that they
+   simply disagree with nothing grounded in either assignment.
 5. The teach-back piece states Dewey's account of what discussion does
    accurately and reports what the explanation to the other person
    surfaced. Strong: "Dewey's point is that consultation uncovers

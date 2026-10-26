@@ -1189,3 +1189,31 @@ repair entry); the deliverable-c cross-reference corrected to
 Step 6. Counts stand at 778/476/374, total 1,628 words, 178
 labelled minutes. m4 remains DRAFT, NOT CLEARED; ready for
 supervisor module-QC.
+
+## m4 third advisor-QC pass applied (2026-10-26, worker-pplx-pragmatism-1026c)
+
+The advisor's third pass named three defects; all repaired in this
+push: (1) rubric criterion 4's exemplar no longer carries the
+unsupported "end in settled habits" conclusion; it compares the
+assigned selections (Peirce's doubt-belief-inquiry passages with the
+m1 maxim; Dewey's forked road, rehearsal, consultation) and where
+each selection stops. (2) The worked appraisal no longer infers
+patterns the observations do not supply: the misses are stated as
+observed without a cause, B's irregular shifts are marked as a
+stipulated constraint rather than an observed correlation, the swap
+clause is justified by the constraint, the trial's recording duty is
+specified (each week: happened or not, and what changed near it),
+and one consistent event (the missed shared-costs reconciliation)
+runs through the example. (3) The audit record now states the actual
+full-list result: 33 Dewey spans (teaching quotes, fragments and
+assignment-boundary phrases) checked against the three downloads,
+33 matched, 0 failures; the two Peirce fragments verified directly
+on the opened Fixation of Belief page this session (doubt "is an
+uneasy and dissatisfied state"; "The irritation of doubt causes a
+struggle to attain a state of belief"); the maxim's attribution
+corrected to How to Make Our Ideas Clear (m1's assignment), which
+the opened Fixation page confirms does not contain it; one Peirce
+fragment misquote found at the inherited-receipt check and repaired
+to the primary text; Dewey primary links added inline in Step 5.
+m4 remains DRAFT, NOT CLEARED, and is with the supervisor for
+module-QC.
