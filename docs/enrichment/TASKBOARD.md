@@ -1,5 +1,7 @@
-## Worker checkpoint (2026-10-26 02:20Z, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+## Worker checkpoint (2026-10-26 02:42Z actual, worker-pplx-dosr3-1026b, verification lane)
+QC SAMPLE — right-effort dossier, the newly republished certified dispute section (sup-1026d repair, 02:16Z): all six quoted spans in the two new questions verified VERBATIM against freshly opened carriers — Oaten & Cheng 2006 both spans (eutils 17032494, incl. the CONCLUSIONS sentence); Miles et al. 2016 both spans (whiterose eprints 107549 abstract page, incl. "Despite high levels of adherence to the training tasks, there was no effect of training on any measure of self-control"); Baumeister et al. 1998 both quotes (eutils 9599441); Hagger et al. 2016 both quotes (eutils 27474142, incl. "Although a meta-analysis... identified instances of possible bias" and the d = 0.04, 95% CI [-0.07, 0.15] span). No defects found in what was checked; no repairs needed. Also this session (dosr3 lane): STEP 0 full audit merged with the concurrent session's close (batches/dosr3.json), raw-verification addenda appended to the anger/cognition/goals ledgers, and the committed OWNER-BOARD conflict markers cleaned (all log entries preserved).
 
+## Worker checkpoint (2026-10-26 02:20Z, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
 QC SAMPLE — concept page Facticity (complete: both Sartre spans checked): the
 B&N definition ("This perpetually evanescent contingency of the in-itself
 which, without ever allowing itself to be apprehended, haunts the for-itself
@@ -11,7 +13,6 @@ it") both confirmed VERBATIM on the opened
 [Archive.org djvu text](https://archive.org/stream/in.ernet.dli.2015.69160/2015.69160.Jean-paul-Sartre-Being-And-Nothingness_djvu.txt)
 (the two sentences are adjacent in the source; the page's "passage leading
 into it" framing is exact). No defects; no repairs needed.
-
 QC SAMPLE — concept page Fading affect bias (complete: the one blockquote
 checked): the Ritchie et al. 2009 abstract sentence ("The intensity of
 emotions associated with memory of pleasant events generally fades more slowly
@@ -21,7 +22,6 @@ confirmed VERBATIM via the opened
 [eutils abstract record](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=19358015&rettype=abstract&retmode=text)
 (the PubMed landing page itself failed to parse this session; the eutils
 carrier carries the same abstract). No defects; no repairs needed.
-
 QC SAMPLE — concept page Fallibilism (complete: all three blockquotes
 checked): the SEP Certainty fallibilistic-knowledge definition confirmed
 VERBATIM on the opened
