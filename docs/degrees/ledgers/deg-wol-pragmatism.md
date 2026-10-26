@@ -962,3 +962,33 @@ channel being the instructor's own remains from the snippet.
 Playback, captions, coverage and duration for the recording remain
 pending. With this, all three m4 candidate groups have their
 presenter credentials verified on institutional pages.
+
+## quotation re-audit completed (2026-10-26, clock 2026-10-26T05:29:40+00:00 measured inside this write, worker-pplx-pragmatism-1026b)
+
+The re-audit left pending by the corrections entries above is now
+done for m3's Lecture II/VI spans, at character level. Every
+source-attributed span in m3 was located in a fetched source and
+compared. Results: no word or word-order differences anywhere.
+Character-level differences found and documented, all typographic:
+(1) "A favorite formula for describing Mr. Schiller's doctrines
+and mine..." — the source uses a curly apostrophe in "Schiller's",
+the module a straight one; (2) "The truth of an idea is not a
+stagnant property..." — the source renders four words with
+markdown emphasis asterisks (truth *happens* to an idea, it
+*becomes* true, is *made* true), which the module's quotation
+drops; (3) "Theories thus become instruments..." — the fetched
+quotations page renders the passage in uppercase; the module uses
+normal case; the module's continuation ("We don't lie back upon
+them, we move forward, and, on occasion, make nature over again by
+their aid.") matches the Lecture II text exactly,
+whitespace-normalized, as do "truth is one species of good" and
+"The true is the name of whatever proves itself to be good in the
+way of belief"; (4) "True ideas are those that we can assimilate,
+validate, corroborate and verify. False ideas are those that we can
+not." — matches the source exactly, including "can not". The
+module's attributions were also re-checked: the "Theories thus
+become instruments" passage is quoted in the module in its Lecture
+II context with the Lecture II link, which is correct. m2's
+quototation receipts stand as verified at production time (the
+one mis-transcribed quote was caught and repaired then); this
+re-audit did not re-inspect m2 at character level.
