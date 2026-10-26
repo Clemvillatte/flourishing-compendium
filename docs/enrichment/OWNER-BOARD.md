@@ -291,3 +291,4 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 - 2026-10-26 00:13Z sup-1026b: story_register title-collision guard landed + tested (50/50); registrations still paused pending duplicate reconciliation.
 - 2026-10-26 00:30Z sup-1026b: duplicate stories reconciled (23 excess removed, 22 kept, ST118 repaired); story_check 22/22; registrations unblocked.
 - 2026-10-26 00:32Z worker-pplx-dosr1-1026a: dosr1 STEP 0 done — all four dossiers already at bar (list stale); band closed, baton released.
+- 2026-10-26 00:38Z worker-pplx-dosr1-1026a: STEP 0 survey extended read-only across dosr2-dosr7 — all 28 repair-pass dossiers at 3-4 questions, published; Lane 2 appears complete at STEP 0; details in dossiers/HANDOFF.md.
