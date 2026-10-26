@@ -8,6 +8,17 @@ Agent-reported results reproduced. Session total 58 verbatim spans
 across 36 sampled pages; every dosr1/dosr2-sampled dossier has now
 been independently cross-checked or covered by this session's samples,
 with zero quote-fidelity failures found.
+## Worker checkpoint (2026-10-26 00:43Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+QC SAMPLE — concept page Broaden-and-build (partial: four quotes
+checked): the core proposition ("broaden people's momentary
+thought-action repertoires, which in turn serves to build their enduring
+personal resources") and the three urges (joy/play; interest/explore;
+contentment/savor) confirmed VERBATIM on the
+[Fredrickson 2001 American Psychologist PDF](https://www.prospectivepsych.org/sites/default/files/pictures/Frederickson_Broaden-and-build-2001.pdf).
+The remaining quotes on the page were not part of this sample. No
+defects found in what was checked.
+
 ## Worker checkpoint (2026-10-26 00:42Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — principle page AT053 (notice and name attentional states;
