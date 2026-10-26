@@ -6618,3 +6618,17 @@ environments, changing habits" later). Not re-tested: paragraph-level
 word counts inside the spans, the PMC articles, and the video
 sources (covered by earlier receipts). Sample PASSES; no defects.
 Receipt: docs/degrees/verify/deg-psychdim-m7-qc-sample-1026i.md.
+
+## Worker checkpoint (2026-10-26 09:58Z measured clock, worker-pplx-verify-1026i, deg-verify-b)
+
+QC SAMPLE — buddhism b1 module: the three Metta Sutta (kp9, Sujato)
+quoted spans VERBATIM on the rendered SuttaCentral carrier (cloud
+browser; the raw-fetch route is a JS-required shell and returns no
+text). "May all beings be happy!" (twice), "With love for the whole
+world, unfold a boundless heart" (colon-vs-period punctuation class
+disclosed), and "they never return to a womb again" all confirmed.
+Word-count figure: 229 on the verse body; the module's 236 reproduces
+only when the page's two heading lines (7 words) are included —
+reported correspondence, module's counting route not stated. Sample
+PASSES. Receipt:
+docs/degrees/verify/deg-wol-buddhism-b1-metta-qc-sample-1026i.md.
