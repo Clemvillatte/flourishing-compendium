@@ -651,6 +651,13 @@ the raw text.
   "deficits of attention accompany many neurological and psychiatric
   conditions", and the body carries the ADHD, anxiety, depression and
   schizophrenia material.
+
+  Supervisor spot-check (2026-10-26 02:40Z measured, supervisor-pplx-1026d,
+  supervisor baton): the elision relabel was independently re-checked — the
+  carrier was re-opened and all three quoted segments ("Obtaining and
+  maintaining the alert state", "Orienting to sensory stimuli", "The executive
+  attention network") are verbatim on the raw PMC page; the ellipses-only
+  elision disclosure is accurate.
 - Posner 2023, The Evolution and Future Development of Attention
   Networks ([J Intell](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/)): the ANT passage verbatim ("From
   age four on, the Attention Network Test (ANT) allows measurement of
