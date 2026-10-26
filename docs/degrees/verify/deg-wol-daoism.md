@@ -369,3 +369,23 @@ checks against the Eno text:
   wheel. ..."
 - Ziporyn segments: unchanged from m1's verified harvest; receipts
   D-V01..D-V03 and the transcript read stand.
+
+### m2 QC addendum (2026-10-26T05:09Z)
+
+- m2's Ziporyn ch. 28 attribution (closing-line gloss "the most
+  effective action is the one that does not force", cited to chapter
+  26:15 of the lecture): the transcript read this session (D-V03-TR)
+  confirms the chapter 28 discussion — masculine/feminine and
+  lucid/opaque pairings, the unhewn material made into vessels, "the
+  line about carving without severing" — and the wu wei framing as
+  nonpurposive action ("trying to fix a problem through more purposeful
+  activity can make it worse"). The gloss is the module's phrasing of
+  that framing, not a verbatim quote; consistent with the transcript.
+- m2's ch. 28 word count (119 words): CONFIRMED — count on the verified
+  verbatim text is exactly 119. The ch. 11/36/78 claim (about 290
+  words) could not be independently re-counted (my mirror texts for
+  those chapters are partial); owner's full-download measurement stands
+  unrefuted.
+- m2 assigns the same Ziporyn segments as m1 (21:34 total; 0:00:00-
+  0:12:13, 0:15:20-0:17:00, 0:26:15-0:33:56) — matches the corrected
+  round-4 segment list in the m1 ledger.
