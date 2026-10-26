@@ -1275,3 +1275,55 @@ quoted opening through its quoted close (the module's "about 3,050"
 stands); ORH re-measured at 4,549 words on an extraction that includes
 running headers and footnote markers, against the module's "about
 4,490" — the difference is noted without a claimed cause.
+
+### B-V31 — b6 both Kirchner lectures: full caption text retrieved and claims checked (2026-10-26, worker-pplx-buddhism-1026g, deg-wol-buddhism lane)
+
+The full auto-generated caption text of both assigned Kirchner
+lectures was retrieved this pass through the third-party transcript
+service youtubetotranscript.com (the same service that returned the
+b4 chapter headings and the b7 Burma/Vipassana passage; opened
+anonymously, free):
+
+- Lecture 3, "Thoughts on Meditation"
+  (https://www.youtube.com/watch?v=jPxuvitdsRI): the module's Step 2
+  claims were checked against the retrieved text. CONFIRMED: the
+  place-of-meditation thesis (meditation not the main practice for
+  many Buddhists, in Kirchner's account); the koan material framed
+  through individual teachers; koan work tied to the Rinzai
+  tradition ("the central practice of the Rinzai traditions of Zen
+  Buddhism"); shikantaza identified as Soto ("I would characterize,
+  for example, Soto what Soto Shikantaza is trying to be... basically
+  choiceless awareness with curiosity as Krishnamurti says"); the
+  named examples Yamada Mumon Roshi (loved the koans) and Harada
+  Shodo Roshi (Kirchner's own teacher, "without koan work, it's very
+  difficult to cultivate the wisdom facility"). NOT FOUND in the
+  retrieved text: the module's third example, "a Rinzai master who
+  spent decades as a Soto monk" — the talk's actual third teacher
+  example is an early teacher of the lecturer's who "had quite a
+  different view of the koans" and regarded "maintaining and
+  continuing a deep samadhi practice" as far more important (his
+  name is rendered "Kato Kohzan Roshi" in the error-prone captions).
+  The module's Step 2 was REPAIRED this pass: the third example now
+  states the teacher's position (deep samadhi practice over koan
+  work) without the unverifiable "Rinzai master who spent decades as
+  a Soto monk" description and without relying on the caption's
+  uncertain name spelling.
+- Lecture 1, "Buddhism, Zen, and the Question of Suffering"
+  (https://www.youtube.com/watch?v=UVXpdAavGgQ): the module's Step 1
+  claims were checked against the retrieved text. CONFIRMED: the
+  speaker's biography as the introduction gives it (Maryland,
+  Waseda, Yamada Mumon Roshi, ordained 1974, seven years at the
+  Kamakura and Kyoto monasteries, Otani University); suffering as
+  central to Buddhism; no Rinzai/Soto comparison is claimed by the
+  module for this lecture (the comparison lives in Lecture 3), and
+  none is present in Lecture 1's text beyond incidental mentions.
+  No repair needed for Step 1.
+
+Disposition: both lectures' caption text is now retrieved and the
+module's claims about them are verified against it, with one
+misattributed example repaired (the same class of defect the
+supervisor's canonical b3 review flagged: claims about what a source
+says must be verified against the source). The captions remain
+auto-generated with recognition errors, so the module's no-verbatim-
+quotation policy stands. Hashes after the repair recorded in the band
+file.

@@ -1460,3 +1460,24 @@ verbatim quotations. b8 checked clean (also arithmetic: 24+ sittings
 at 10-15 minutes = 4-6 h, plus ~2 h case work and ~4 h synthesis,
 summing to the printed "about 12 h"; outcome/rubric consistency
 verified). Hashes after this pass recorded in the band file.
+
+## b6 both lectures full-text verified; one misattribution repaired (2026-10-26, worker-pplx-buddhism-1026g)
+
+Receipt B-V31 records the pass: the full auto-generated caption text
+of both assigned Kirchner lectures was retrieved through the
+third-party transcript service, and the module's claims were checked
+against it. All Step 1 (Lecture 1) claims confirmed (biography,
+suffering-centrality, no Rinzai/Soto comparison claimed or present).
+Step 2 (Lecture 3): the place-of-meditation thesis, the
+teachers-framed koan material, koan work tied to Rinzai, shikantaza
+identified as Soto, and the Yamada Mumon and Harada Shodo examples
+all confirmed. One misattribution found and repaired: the module's
+third example, "a Rinzai master who spent decades as a Soto monk",
+appears in neither retrieved transcript; the talk's actual third
+teacher example is an early teacher of the lecturer's who regarded
+deep samadhi practice as more important than koan work (name
+rendered "Kato Kohzan Roshi" in the error-prone captions, not relied
+on). The Step 2 example now states the teacher's position without the
+unverifiable description. The module's no-verbatim-quotation policy
+for these talks stands. Hashes after the repair recorded in the band
+file.

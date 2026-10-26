@@ -91,9 +91,14 @@ far more on esoteric ritual, said in the talk's opening). Its
 treatment of the Rinzai and Soto approaches is framed through
 individual teachers' views of koan practice and zazen: the lecturer
 ties koan work to Rinzai monks and identifies shikantaza as a Soto
-practice, the talk's own examples being Yamada Mumon Roshi,
-Harada Shodo Roshi, and a Rinzai master who spent decades as a Soto
-monk, rather than a systematic school-by-school comparison, so the
+practice, the talk's own examples being Yamada Mumon Roshi (who
+loved the koans as a practice tool), Harada Shodo Roshi (who held
+koan work necessary for cultivating wisdom), and an early teacher of
+the lecturer's who regarded deep samadhi practice as more important
+than koan work (his name is rendered uncertainly in the talk's
+error-prone captions, so the module names his position rather than
+relying on the caption's spelling), rather than a systematic
+school-by-school comparison, so the
 two-lines-each activity draws the distinction from those examples.
 
 Watch in two stops (viewing stops, not content claims, since the page
@@ -163,8 +168,8 @@ No rebirth-dependent content is assigned.
 
 | resource | status | verified | notes |
 |---|---|---|---|
-| Kirchner, "Buddhism, Zen, and the Question of Suffering", https://www.youtube.com/watch?v=UVXpdAavGgQ | verified-video (selected auto-caption passages inspected; playback blocked) | 2026-10-26 (content inspected this pass) | duration 1:28:04 on the watch page; The Buddhist Society channel; lecture held 27 June 2024 (100th-anniversary series, Numata Foundation-supported); passages read: host introduction (recites the speaker's credentials: Otani University, Shofuku-ji under Yamada Mumon Roshi, ordained 1974, seven years at Kencho-in and Kennin-ji, translator of The Record of Linji, Entangling Vines and In a Dream, resides Tenryu-ji), talk opening, and middle and closing samples with the Q&A; suffering as central to Buddhism and what drove Shakyamuni to his practice confirmed in the read body passage; no chapter list printed, whole lecture assigned with viewing stops; captions AUTO-GENERATED with recognition errors, no verbatim quotation from them |
-| Kirchner, "Thoughts on Meditation", https://www.youtube.com/watch?v=jPxuvitdsRI | verified-video (selected auto-caption passages inspected; playback blocked) | 2026-10-26 (content inspected this pass) | duration 1:40:17 on the watch page; same series, 3 July 2024; passages read: opening (the place-of-meditation thesis: Buddhism's meditation image called misleading; most Buddhists said not interested in meditating; Pure Land devotional and Shingon/Tendai esoteric-ritual focus), a middle passage, the koan passage, the shikantaza passage, and panel excerpts; koan vs zazen/shikantaza material present, framed through individual teachers, not a systematic Rinzai/Soto comparison; captions AUTO-GENERATED (school names garbled as "rinai"/"SoDo"), no verbatim quotation from them |
+| Kirchner, "Buddhism, Zen, and the Question of Suffering", https://www.youtube.com/watch?v=UVXpdAavGgQ | verified-video (full auto-caption text retrieved and claims checked 2026-10-26, receipt B-V31; playback blocked) | 2026-10-26 (full text this pass) | duration 1:28:04 on the watch page; The Buddhist Society channel; lecture held 27 June 2024 (100th-anniversary series, Numata Foundation-supported); passages read: host introduction (recites the speaker's credentials: Otani University, Shofuku-ji under Yamada Mumon Roshi, ordained 1974, seven years at Kencho-in and Kennin-ji, translator of The Record of Linji, Entangling Vines and In a Dream, resides Tenryu-ji), talk opening, and middle and closing samples with the Q&A; suffering as central to Buddhism and what drove Shakyamuni to his practice confirmed in the read body passage; no chapter list printed, whole lecture assigned with viewing stops; captions AUTO-GENERATED with recognition errors, no verbatim quotation from them |
+| Kirchner, "Thoughts on Meditation", https://www.youtube.com/watch?v=jPxuvitdsRI | verified-video (full auto-caption text retrieved and claims checked 2026-10-26, receipt B-V31; playback blocked) | 2026-10-26 (full text this pass) | duration 1:40:17 on the watch page; same series, 3 July 2024; passages read: opening (the place-of-meditation thesis: Buddhism's meditation image called misleading; most Buddhists said not interested in meditating; Pure Land devotional and Shingon/Tendai esoteric-ritual focus), a middle passage, the koan passage, the shikantaza passage, and panel excerpts; koan vs zazen/shikantaza material present, framed through individual teachers, not a systematic Rinzai/Soto comparison; captions AUTO-GENERATED (school names garbled as "rinai"/"SoDo"), no verbatim quotation from them |
 | Kirchner credentials | verified | 2026-10-26 (parallel session harvest receipt, ledger-recorded; the Society's series page) | Maryland 1949; Waseda; Shōfuku-ji under Yamada Mumon Roshi; ordained 1974; Kenchō-ji and Kennin-ji training; MA Otani; Nanzan Institute; resides at Tenryū-ji, Kyoto |
 
 No paywalled or app-gated content (both lectures free on the Society's
