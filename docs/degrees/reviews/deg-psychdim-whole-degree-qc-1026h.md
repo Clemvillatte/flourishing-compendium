@@ -71,5 +71,8 @@ this session (commit ee6d7b9).
 
 ## Grade
 
-WHOLE-DEGREE QC: PASS at the packet level. The degree is ready for the
-deg-gate review and the deg-integrate attachment.
+WHOLE-DEGREE QC: PASS at the packet level (supervisor QC of the packet;
+not a gate verdict). The degree proceeds to the deg-gate reviewer's
+whole-degree refresh (pending, see
+deg-psychdim-whole-degree-gate-1026h.md) and, only after that verdict,
+the deg-integrate attachment.

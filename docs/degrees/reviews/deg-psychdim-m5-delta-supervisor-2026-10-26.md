@@ -43,14 +43,14 @@
    candid-appraisal sentence sits inside a longer paragraph rather than
    opening one, exactly as the alignment repair receipt describes; no
    misattributed paragraph openings remain.
-4. Specimens (rubric table): every criterion row, including the new
-   "Social interpretation" and "Inquiry/measurement" rows, now shows a
-   Concrete/Pass specimen and a Contrast/Revise specimen, so no criterion
-   requires the grader to invent the marking contrast.
+4. Specimens (rubric table and the "What sufficient work looks like"
+   section): every rubric row shows a Pass side and a Revise side, and the
+   specimen section pairs a strong example with a rejection example for
+   each criterion, so no criterion requires the grader to invent the
+   marking contrast.
 5. Scoring rule: the text now states that the asterisked raw-1 response is
    re-reversed to 5, the forward items 6 and 11 remain 4 and 3, and the
-   module-span complete mean cannot be computed from three responses, only
-   the nine response-family scores.
+   complete mean cannot be computed from only those three responses.
 
 ## Arithmetic and boundary checks (recomputed this session)
 
@@ -66,9 +66,15 @@
   Indiana hometown account (ts 651-660), the honors program passage (ts 736),
   and, after the printed stop, the participant example beginning at ts
   843-846 ("this is when we ask a 57 year old woman about a negative
-  childhood scene"). The 13:31 stop is therefore an editorial early stop, not
-  the participant's first word; the assigned window covers the definition
-  and the speaker's own narrative illustration only.
+  childhood scene"). These retrievals independently confirm the window's
+  start (607) and the participant example's later start (843-846), so the
+  13:31 stop is an editorial early stop, not the participant's first word.
+  Continuous coverage of the intermediate 766-811 closing span is adopted
+  from the producer's indexed-window receipt (overlapping fragments
+  607-665, 651-736, 707-776, 766-806, 793-823 in
+  verify/deg-psychdim-m4-m5-indexed-window-evidence-2874787d.md), which my
+  endpoint retrievals corroborate; the closing span itself was not
+  independently re-retrieved this session.
 - Em-dash scan of the module: zero.
 
 ## Grade

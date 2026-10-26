@@ -39,12 +39,40 @@ outputs:
 
 ## Decision
 
-The indexed timed-transcript evidence now covers 2846-3293 s continuously. The
-demonstrations close by ts 3274 with the attribution sentence completing at ts
-3293, and the post-stop content is outside-lab anecdote material, so the
-unassigned final 3:11 contains no fourth demonstration that the stop would
-have excluded. The M4 open flag is CLOSED and the M4 verification item
-(Supervisor review `deg-psychdim-m4-supervisor-2026-10-26.md`) is DISCHARGED.
+Separating what this session verified directly from what is adopted from
+the producer's receipt:
+
+- Independently retrieved this session (target watch URL
+  https://www.youtube.com/watch?v=DmWrOUK2zgA, native snippets reader):
+  the change-blindness explanation excerpt at ts 3166, the summary passage
+  beginning "And this demonstration..." at ts 3293, the contiguous
+  demonstration sequence in mirror uploads of the same recording (spotlight
+  and letters demo around ts 2854-2863, Stroop explanation ts 2898-3001,
+  basketball counting ts 3050-3124, scarf/plates/food movie ts 3131-3166,
+  flickering-image task with "put you out of your misery" around ts
+  3179-3274, Simons attribution ts 3274), and the outside-lab anecdotes
+  ("Dan Simons is also famous for having brought this outside of the
+  laboratory...") immediately after the attribution.
+- Adopted from the producer's receipt
+  (verify/deg-psychdim-m4-m5-indexed-window-evidence-2874787d.md): the
+  continuous coverage of the full 2846-3293 s window through overlapping
+  indexed fragments (2827-3210 and 3210-3293), which my endpoint and
+  content retrievals above corroborate but which I did not independently
+  re-retrieve span by span.
+
+On that combined record: the indexed excerpts place the classroom
+demonstrations closing around ts 3274 with the change-blindness summary
+passage at ts 3293, and the content recorded immediately after is
+outside-lab anecdote material (door-study anecdotes), not a fourth
+classroom demonstration. The remaining final minutes before the Q&A
+chapter (which begins at 58:04) therefore contain no assigned
+demonstration that the 54:53 stop would have excluded, on the evidence
+described above; the claim is bounded to the excerpts cited, not a
+continuous read of the final 3:11.
+
+The M4 open flag is CLOSED and the M4 verification item (Supervisor
+review `deg-psychdim-m4-supervisor-2026-10-26.md`) is DISCHARGED on
+that record.
 
 M4 grade: PASS. All eight modules of deg-psychdim have now cleared their
 module-QC and verification gates.

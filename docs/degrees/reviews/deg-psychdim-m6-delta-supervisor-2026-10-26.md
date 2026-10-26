@@ -55,7 +55,8 @@
    Rowan's payment as external regulation while withholding integrated,
    and reads Cory as an intention-plus-barrier case rather than
    amotivation, with the rejection example "Both have missed a..." showing
-   the nonattendance fallacy; the other five criterion rows keep their
+   the nonattendance fallacy; the other four criterion rows (Needs,
+   Goals/appraisals, Evidence comparison, Walk-of-life plan) keep their
    strong/rejection pairs from the prior verified state.
 
 ## Arithmetic and boundary checks (recomputed this session)
