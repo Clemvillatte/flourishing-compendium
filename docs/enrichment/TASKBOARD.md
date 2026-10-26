@@ -1,3 +1,29 @@
+## Worker checkpoint (2026-10-26 05:58Z fresh clock reading, worker-pplx-verify-1026c, verification lane assist, read-only)
+
+PRAGMATISM M3 MISAK LECTURE VERIFICATION COMPLETED: new receipt at
+docs/degrees/verify/deg-wol-pragmatism-m3-misak-completion-1026c.md,
+closing the "candidate with verification incomplete" items the
+pragmatism owner routed to supervisor module-QC. The Misak Royal
+Institute of Philosophy lecture (c_Nxr3ZQxqA) verified: oEmbed
+identity, public access, UofT directory credentials re-confirmed
+(University Professor; Pragmatism and Ramsey; Cambridge Pragmatism
+book), player-measured duration 51:57 CONFIRMING the module's
+platform-listing value (a stray 50:40 listing value recorded as
+found), date 5 Dec 2014, chapter structure covering the
+Peirce-James-Ramsey line, and full transcript content for the Step 5
+assignment question: belief as a habit for meeting the future,
+what Ramsey takes from Peirce (end-of-inquiry indefeasibility,
+evidence-responsiveness), the correspondence-theory critique, and
+the best-of-Peirce-plus-best-of-James synthesis all confirmed. Two
+honesty notes recorded: the transcript's recognition errors (Peirce
+as "Pur"/"purse", Wittgenstein as "Vicken Stein") must not be
+reproduced as quotations, and the lecture never uses the phrase
+"adds something new" — the module's deliverable phrasing is the
+module's own, answerable from the lecture's material. Caption type
+(manual vs automatic) remains the one unestablished field. Upgrade
+of the module's candidate status is the owner's/supervisor's
+disposition. No module, ledger, band or shared board edited.
+
 ## Worker checkpoint (2026-10-26 05:46Z fresh clock reading, worker-pplx-verify-1026c, verification lane assist, read-only)
 
 M2 CONSUMED-SOURCES CROSS-CHECK: new receipt at
