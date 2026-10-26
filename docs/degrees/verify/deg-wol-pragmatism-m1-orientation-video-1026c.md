@@ -12,10 +12,12 @@
   worker-pplx-degverifya-1026d (worker), supervisor-49bf153e-1026
   (m1 QC pending); this file does not edit the m1 record, the m1
   gate row, or any gate.
-- **Date**: 2026-10-26, verified via oembed, the producer's own episode
-  page, a web search whose index returned the watch-page metadata and a
-  timestamped third-party transcript for this exact video ID, and the
-  UQ module site (below). No route reached a playback-capable surface:
+- **Date**: 2026-10-26 (corrected same day after advisor QC; see the
+  correction note at the bottom), verified via oembed, the producer's
+  own episode page, and a web search whose index returned the watch-page
+  metadata plus transcript excerpts for this video ID and for a second,
+  different upload of the same episode (see the correction note). No
+  route reached a playback-capable surface:
   the watch page returned broken_content_js_required and the transcript
   service returned http_code_server_error on both attempts (the
   same flakiness pattern recorded in the m1 receipt; retry again later).
@@ -63,47 +65,61 @@
     difference between empiricism and pragmatism amounts to, and
     McDermott describes James and Dewey's response to empiricist
     arguments."
-  This printed structure confirms the m1 recorded distribution (Peirce
-  from the opening onward, James at length in the middle, Dewey in the
-  middle and again near the end — the closing segment, per the
-  timestamped transcript below, is where the biographies of James,
-  Dewey, Holmes and Peirce are given).
-- **NEW: a timestamped third-party transcript for this exact video ID
-  surfaced via web search** (the search index returned watch-page
-  transcript excerpts with second offsets for ksLO4i5pIBM). Directly
-  evidenced anchors: {ts:8} opening hosts; {ts:46-76} the
-  double-meaning framing and "The truth is what's useful. So your
-  statements aren't meaningful unless they have consequences for
-  action"; {ts:260-335} the man-on-the-street segment (matches the
-  official "Roving Philosophical Report (Seek to 4:46)"); {ts:479-553}
-  McDermott introduced, pragmatism as "an attitude... a Sensibility",
-  "consequences lurk everywhere"; {ts:604-610} fallibilism, "never
-  assumed that you've got the whole truth or the final truth"; {ts:751-833}
-  empiricism vs pragmatism, "I'm speaking of James and [Dewey]"; {ts:833-842}
-  the mid-episode pivot "We've been talking about the main tenants of
-  pragmatism... in the next segment we're gonna take a critical look";
-  {ts:1119-1170} meaning vs truth, James's view; {ts:2230} "Dewy's a
-  pragmatic naturalist", the "crucible of experience"; {ts:2898-2949}
-  the closing biographies segment (James, Dewey, Holmes, Peirce). All
-  offsets are inside 49:24 (2964 s). Provenance caveat, stated plainly:
-  this is a third-party extraction surfaced in a search index, not a
-  line-by-line read by this worker; the official seek markers (4:46,
-  49:30) and the printed Listening Notes are the episode's own record
-  and are the stronger anchors.
+  This printed structure supports the m1 recorded distribution (Peirce
+  from the opening onward, James at length in the middle, James and
+  Dewey together in the middle). CORRECTION 2026-10-26: the earlier
+  draft of this receipt also claimed the closing-biographies segment as
+  transcript-anchored; that support came from a different upload's
+  transcript (see the correction note) and is withdrawn. The "Dewey
+  again near the end" part of the m1 distribution is supported by the
+  printed Listening Notes only insofar as the notes' final paragraphs
+  describe the closing discussion and callers; no printed timestamp
+  anchors it.
+- **Transcript excerpts surfaced via web search, for TWO uploads.**
+  CORRECTION 2026-10-26: the search returned transcript excerpts with
+  second offsets for the cited video ksLO4i5pIBM AND for a different
+  upload of the same episode (5dWV62R8h0c, labelled "Episode 111",
+  duration 52:59). The earlier draft of this receipt transferred the
+  fuller anchor list from that second upload to the cited 49:24 cut;
+  that transfer was an error and is withdrawn — timestamps do not
+  transfer between different cuts of an episode. Anchors evidenced for
+  the EXACT video ksLO4i5pIBM, all inside 49:24 (2964 s): {ts:8} the
+  opening "questions everything except your intelligence"; {ts:66-73}
+  the double-meaning framing, "pragmatism, the philosophy, says, well,
+  right, be concerned with results, with getting things done. The truth
+  is what's useful. So your statements aren't meaningful unless they
+  have consequences for action"; {ts:833-838} the mid-episode pivot
+  (~13:53), "American pragmatism. Our guest is John McDermott from Texas
+  A&M University. We've been talking about the main tenants of
+  pragmatism"; {ts:1892} (~31:32) "We're discussing American pragmatism
+  with John McDermott from Texas A&M University"; {ts:2230} (~37:10)
+  "everything is basically ad hoc and that it has to submit itself to
+  the crucible of experience... Dewy's [Dewey's] a pragmatic
+  naturalist". The anchors at ts:46-76 (street interviews), ts:479-610
+  (McDermott introduction, fallibilism), ts:751-833, ts:1119-1170
+  (meaning vs truth) and ts:2898-2949 (closing biographies) belong to
+  the 52:59 upload and are NOT anchors for the cited cut. Provenance
+  caveat, stated plainly: these are third-party extractions surfaced in
+  a search index, not a line-by-line read by this worker; the official
+  seek markers and the printed Listening Notes are the episode's own
+  record and are the stronger anchors.
 - **Closure status of the three named items**:
-  1. Segmentation into timestamped units: the evidence gap is CLOSED in
-     substance — printed anchors now exist (official seek markers +
-     producer's printed structure + timestamped transcript offsets), so
-     the premise of the PROVISIONAL whole-episode assignment ("no
-     printed timestamps") no longer holds. Choosing unit boundaries and
-     the practice-between-units design remains the m1 owner's
-     editorial act; a suggested skeleton from the evidence above: intro
-     and double meaning (0:00-4:20), Roving Report (4:46-5:35),
-     McDermott introduction and fallibilism (~8:00-10:10), empiricism
-     vs pragmatism with James and Dewey (~12:31-13:53), meaning vs
-     truth (~18:39-19:30), Dewey the pragmatic naturalist (~37:10),
-     closing biographies (~48:18-49:09), Sixty-Second Philosopher
-     (49:30 marker).
+  1. Segmentation into timestamped units: PARTIALLY closed, downgraded
+     after the correction — printed anchors now exist (the producer's
+     two official seek markers, the printed Listening Notes structure,
+     and the five exact-video transcript offsets listed above), so the
+     premise of the PROVISIONAL whole-episode assignment ("no printed
+     timestamps") no longer holds in its original form. But the fuller
+     timestamp skeleton this receipt first offered was withdrawn (see
+     the correction note), and the official 49:30 marker exceeds the
+     49:24 YouTube player duration, so it cannot anchor the YouTube
+     cut without first establishing alignment between the radio cut and
+     the YouTube cut. Choosing unit boundaries and the
+     practice-between-units design remains the m1 owner's editorial
+     act; the exact-video anchors available are ts:8 (opening), ts:66-73
+     (double meaning), ts:833-838 (~13:53 pivot), ts:1892 (~31:32),
+     ts:2230 (~37:10, Dewey the pragmatic naturalist), plus the official
+     4:46 Roving Report marker.
   2. Caption status: PARTIALLY closed — a transcript exists on the
      watch page (the search index surfaced its content), but whether
      the captions are human-made or automatic was NOT established
@@ -118,3 +134,13 @@
   recorded only as context. All quoted material above comes from
   sources this worker opened (oembed, the fetched producer page, and
   the search results); nothing is quoted from memory.
+- **Correction note (2026-10-26, after advisor QC)**: the first pushed
+  version of this receipt attributed the fuller timestamped anchor list
+  (street interviews, McDermott introduction, fallibilism, meaning vs
+  truth, closing biographies) to the cited video; those anchors came
+  from the search result for 5dWV62R8h0c, a different 52:59 upload of
+  the same episode, and the attribution was wrong. All affected claims
+  and the suggested segmentation skeleton were corrected above. The
+  correction does not change the receipt's other findings (identity,
+  duration, official seek markers, printed Listening Notes, caption and
+  playback status).

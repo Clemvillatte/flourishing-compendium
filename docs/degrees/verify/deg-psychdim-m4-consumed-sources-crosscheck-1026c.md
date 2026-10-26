@@ -6,9 +6,10 @@
   fourth M4 video (Bloom lecture 7, DmWrOUK2zgA) was already verified in
   my M2 and M3 cross-check receipts
   (deg-psychdim-m2-consumed-sources-crosscheck-1026c.md,
-  deg-psychdim-m3-consumed-sources-crosscheck-1026c.md); the M4 window
-  47:26–54:53 (t=2846) lies inside that verified recording and needs no
-  new check.
+  deg-psychdim-m3-consumed-sources-crosscheck-1026c.md): that recording's
+  identity and runtime are reused from those checks, but the
+  M4-specific window 47:26–54:53 (t=2846) and its content were NOT
+  independently checked here.
 - **Worker**: pplx-verify-1026c (no baton; verification-assist lane).
   **Date**: 2026-10-26. This receipt does not edit the module, the
   audit receipt, the ledger, or any gate.
@@ -27,8 +28,8 @@
   as found, not adjudicated: the audit receipt records **12 November
   2011**; this render prints 11 November. One-day upload-date renders
   have occurred before in this project (the Black Dog receipt's 21 vs
-  22 October); either render may be right and a playback surface would
-  settle it.
+  22 October); both displayed dates are recorded as found, without
+  proposing which is correct.
 - The description confirms the audit receipt's framing claims: "In this
   first part of our interview with Dr. Michael Posner from the
   University of Oregon... a brief historical account of the study of
@@ -38,9 +39,9 @@
   graduate student in cognitive neuroscience at the U of O." This
   independently confirms the interview location, the named interviewer,
   the three-network model, and the "attentional organs" phrasing.
-- No chapter or key-moments list prints on this watch page, so the
+- No chapter or key-moments markers were returned by this fetch, so the
   03:06–14:52 window cannot be checked against printed markers; the
-  window is inside the verified 19:49 runtime (14:52 < 19:49), and the
+  window is inside the reported 19:49 runtime (14:52 < 19:49), and the
   description's content (historical account, three networks) is
   consistent with the audit receipt's content claims. Verbatim
   passage-level confirmation of the window (alert-state experiments,
@@ -63,23 +64,27 @@
   recorded as found: the audit receipt records **42:05**; this render
   prints 42:04. One second, same pattern as the Barrett and Bloom
   one-second disagreements in the M2 cross-check.
-- The watch page prints a full chapter list. The assigned window
-  **05:24–07:42 does NOT coincide with chapter boundaries**: it falls
-  inside the printed "Measuring Network Efficiency" chapter
-  (**5:10–9:25** in this render; next chapter "Effortful Control" at
-  9:25), starting 14 seconds after that chapter's start. The window is a
-  sub-chapter selection, not a chapter-anchored one — worth knowing for
+- The fetched extraction reported a full list of timestamp markers
+  (labelled "Chapters / key moments"). The assigned window
+  **05:24–07:42 does NOT coincide with the reported marker boundaries**:
+  it falls
+  inside the reported "Measuring Network Efficiency" section
+  (**5:10–9:25** in this render; next marker "Effortful Control" at
+  9:25), starting 14 seconds after that section's start. The window is a
+  sub-section selection, not a marker-anchored one — worth knowing for
   any future boundary repair, though the audit receipt never claimed
-  chapter anchoring for it. The chapter title is topically consistent
+  chapter anchoring for it. The section title is topically consistent
   with the receipt's content claim (target/flanker conflict,
   reaction-time differences, temporal/spatial cues for alerting and
-  orienting — i.e., how the ANT measures network efficiency).
-- The APS website independently confirms the event context: the
-  [APS video page](https://www.psychologicalscience.org/video/fostering-attention-for-human-needs.html)
-  identifies the recording as Posner's Fred Kavli Keynote Address at the
-  27th APS Annual Convention (May 2015), and the watch-page description
-  says the same ("In his Fred Kavli Keynote Address at the 2015 APS
-  Annual Convention...").
+  orienting — i.e., how the ANT measures network efficiency); topical
+  consistency is not confirmation of the spoken passages.
+- Event context: the fetched watch-page description identifies the
+  recording as Posner's "Fred Kavli Keynote Address at the 2015 APS
+  Annual Convention". The further details "27th APS Annual Convention"
+  and "May 2015" come from APS-website pages surfaced as search-result
+  snippets (the APS video page snippet and the APS teaching-playlist
+  snippet), not from a page this worker fetched; they are recorded with
+  that provenance and not independently opened.
 
 ## 3. Davidson/Huberman (n_3MVEo9fx4)
 
@@ -92,27 +97,41 @@
   21 March 2026) and duration **12:29**. Render-level disagreement,
   recorded as found: the audit receipt records **12:30**; this render
   prints 12:29. One second, same pattern as above.
-- Chapter-anchoring CONFIRMED: the watch page prints "2:08 — Categories
-  of Meditation Practices" and "4:17 — Shifting From Doing to Being",
+- Marker anchoring supported: the fetched extraction reported timestamp
+  markers at "2:08 — Categories of Meditation Practices" and
+  "4:17 — Shifting From Doing to Being",
   so the assigned window **02:08–04:17 coincides exactly with the
-  printed "Categories of Meditation Practices" chapter**. The module's
-  t=128 citation equals 02:08.
-- The description confirms the content claim: "Dr. Richard Davidson and
+  reported "Categories of Meditation Practices" markers**. This render
+  labels the list "Chapters / key moments"; whether the underlying page
+  publishes them as official chapters was not separately established,
+  so this is marker support rather than a claim of official chapter
+  status. The module's t=128 citation equals 02:08.
+- The description supports the topic: "Dr. Richard Davidson and
   Dr. Andrew Huberman discuss the scientific classification of
   meditation into focused attention and open monitoring practices..." —
   matching the audit receipt's focused-attention vs. open-monitoring
-  definitions claim for this window.
+  topic for this window. A description naming the classification does
+  not independently establish the spoken definitions or the rejection
+  of thought elimination within the window; those passages were not
+  verbatim-checked here.
 
 ## Summary
 
-All three recordings exist, are public, and are correctly identified;
-all upload dates and durations match the audit receipt except for three
-render-level disagreements recorded above (one day on the gocognitive
-upload date; one second each on the APS and Huberman durations). One
-window is exactly chapter-anchored (Davidson), one falls inside a
-single printed chapter (APS), and one has no printed chapters to check
-against (gocognitive). No contradiction of any audit-receipt claim was
-found; the two one-second and one one-day disagreements are recorded
-for a future playback-surface adjudication, following the project's
-standing practice of recording rather than adjudicating render-level
-measurement differences.
+All three recordings exist and are correctly identified by oEmbed;
+  their pages are retrievable and present no paywall in these renders
+  (playback and caption status were not independently inspected). The
+  upload dates and durations match the audit receipt except for three
+  render-level disagreements recorded above (one day on the gocognitive
+  upload date; one second each on the APS and Huberman durations); the
+  two displayed dates on the gocognitive upload are recorded as found,
+  without proposing a resolution. One
+  window coincides exactly with reported timestamp markers (Davidson),
+  one falls inside a single reported section (APS), and one had no
+  markers returned to check against (gocognitive). No additional
+  mismatch was found within the identity and metadata fields checked;
+  assigned spoken content, playback, caption status, and the Bloom M4
+  window were not independently verified here. The three render-level
+  disagreements are recorded for any future check that can inspect a
+  playback surface, following the project's standing practice of
+  recording rather than adjudicating render-level measurement
+  differences.

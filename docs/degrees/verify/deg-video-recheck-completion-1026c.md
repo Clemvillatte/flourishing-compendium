@@ -19,12 +19,12 @@
   correct spelling is taken from the institutional pages already
   verified in the earlier receipts.
 
-## 1. Sainani clip content (LKiX54NglCo) — CLOSED
+## 1. Sainani clip content (LKiX54NglCo) — BOUNDARIES MOSTLY CONFIRMED (one correction)
 
 The m1-orientation.md assigned segments are **25:46–44:11** and
 **54:02–57:21**, plus the optional prerequisite **03:29–09:21**. The
-search-index watch page prints the video's own chapter list, and every
-assigned boundary coincides exactly with a printed chapter marker:
+search-index watch page prints the video's own chapter list, and all
+assigned boundaries except one coincide with printed chapter markers:
 - 03:29 "What is Statistical Inference?" (prerequisite start) and 09:21
   "Simulating Study Results" (prerequisite end);
 - 25:46 "What is a Confidence Interval?" (first clip start);
@@ -32,21 +32,29 @@ assigned boundary coincides exactly with a printed chapter marker:
   42:17 "What is a Hypothesis Test?" (inside the first clip);
 - 44:11 "What is an Alpha (Significance Level)?" (first clip end);
 - 54:02 "Misinterpretations of P-Values" (second clip start).
+CORRECTION 2026-10-26 (after advisor QC): the second clip's END at
+**57:21** was NOT present in the returned chapter list, which was
+truncated at the 54:02 entry in the index render. The claim that
+every assigned boundary is chapter-anchored is therefore withdrawn for
+57:21; the other five boundaries are anchored as listed. A render that
+shows the chapters past 54:02 could still anchor 57:21.
 The index render also prints the lecture description: "a 'nuts and
 bolts' lecture, explaining fundamental concepts in statistics. This
 includes standard error, confidence intervals, p-values, hypothesis
 testing, and minimal effects testing" — matching the module's content
 claims for the clips (intervals, p-values, hypothesis testing,
-misinterpretations) and confirming that the lecture does NOT cover
-descriptive statistics or study design (those Noba-reading topics were
-never claimed for this video; the separate full-scope video search for
-them remains the open item named in the M1 receipt). Title in the
+misinterpretations). The description names those topics; it does not by
+itself establish that other topics are absent, and the returned chapter
+list was truncated, so no absence claim is made here (the Noba-reading
+descriptive-statistics and study-design topics were never claimed for
+this video; the separate full-scope video search for them remains the
+open item named in the M1 receipt). Title in the
 index: "Statistics Fundamentals | Dr Kristin Sainani", channel Stuart
 McErlain-Naylor (Sports Biomechanics Lecture Series, guest lecture 20).
 Still not verbatim-confirmed: the in-clip worked examples (cherry
-juice, caffeine) — the content claim is confirmed at the level of the
-video's own printed chapters and description, which is the level the
-boundary claims were already recorded at.
+juice, caffeine) — the topical content claim is supported at the level
+of the video's printed description and visible chapters; the boundary
+claims are anchored as listed above except 57:21 (correction).
 
 ## 2. Black Dog RNT content (qoojT_BSqR4) — PARTIALLY CLOSED (narrowed)
 
@@ -116,8 +124,9 @@ The Daoism m1 cross-check confirmed identity and content via other
 ## Standing open items (unchanged)
 
 - Sainani in-clip worked examples (cherry juice, caffeine) verbatim
-  confirmation — low priority, boundaries and topical content now
-  confirmed at the printed-chapter level.
+  confirmation — low priority; boundaries and topical content now
+  supported at the printed-chapter level, except the 57:21 boundary
+  (correction above).
 - Black Dog assigned 4:17 window verbatim passages (narrowed above).
 - Full-scope single-video search for the Noba reading's remaining
   topics (induction/deduction, research design, what a scientific
