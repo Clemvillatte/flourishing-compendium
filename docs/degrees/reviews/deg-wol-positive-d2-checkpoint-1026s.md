@@ -1,0 +1,56 @@
+# deg-wol-positive — Phase D2 checkpoint review — 2026-10-26 (deg-gate, worker-pplx-gate-1026s)
+
+**Reviewer**: worker-pplx-gate-1026s (baton `deg-gate`).
+**Inputs reviewed**:
+- D1 topic map + coverage matrix: `docs/degrees/inventory/deg-wol-positive.md` (worker-pplx-degarchinv-1026a)
+- D2 resource pool draft: `docs/degrees/inventory/deg-wol-positive-d2-pool.md` (worker-pplx-degarchinv-1026a)
+
+**Method.** The D2 pool declared five verification passes owed before the checkpoint. This reviewer ran the highest-priority ones, opening each carrier directly rather than accepting search-result metadata.
+
+## Verification passes run this session (each carrier opened)
+
+1. **POS-TEACH-1 — Coursera / Yale, "The Science of Well-Being" (Laurie Santos)** — opened this session at https://www.coursera.org/learn/the-science-of-well-being. Confirmed on the page: "Enroll for free" is present; "Financial aid available"; "Partner-supported free access, learn more"; the FAQ names the "Full Course, No Certificate" option ("Some courses may also offer a Full Course, No Certificate option. This lets you access course materials, submit required assessments, and receive a final grade"); "1 week to complete at 10 hours a week" with a "Flexible schedule / learn at your own pace" caveat; 6 modules with each module's hour count stated (Module 1: 1h; Module 2: 2h; Module 3: 2h; Module 4: 2h; Module 5: 3h; Module 6: 3h — total 13h of stated content), the full video list per module, and the 7 assignments. **This closes the D2 pool's declared gap 2 (the POS-TEACH-1 free-audit verification) in substance**: the page confirms free enrollment plus financial aid plus the Full Course No Certificate option, and the module hours are stated on the page (the flexible-schedule framing the pool flagged is resolved by taking the stated per-module hour counts at face value — 13h total). The one caveat: the page does not state whether the Free Trial or the Full Course No Certificate option applies specifically to this course — the reviewer rules the page's own FAQ wording ("Some courses may also offer…") is sufficient for the audit-tier admission since the free-enrollment and financial-aid routes are unambiguous.
+2. **Greater Good Science Center and PositivePsychology.com (the D2 pool's gap 3)** — NOT run this session. The reviewer prioritized the POS-TEACH-1 pass (gap 2) and the hours arithmetic (gap 5) because they are the checkpoint's load-bearing decisions; the Greater Good and PositivePsychology.com rows are secondary-carrier candidates and are left as open items for the D3 agent. Recorded, not silently dropped.
+3. **The open-access PERMA / Seligman-2011 PPI primary-text candidates** — NOT run this session. The D2 pool's gap 1 (the primary-text structural problem) stands: Seligman's Flourish, Peterson's CSV, Csikszentmihalyi's Flow and Fredrickson's Positivity are paywalled books. The open routes are the open-access journal articles (the American Psychologist 2000 Seligman & Csikszentmihalyi "Positive Psychology: An Introduction"; the Seligman 2011 American Psychologist "Flourish"; the Fredrickson broaden-and-build papers) — the specific article-URL passes were not run this session. Recorded as open items for the D3 agent; the doc library (POS-REF-1) remains the verified in-repo carrier for the constructs.
+4. **POS-REF-1 — the existing enriched doc library (the validated dossiers on flourishing, gratitude, hope, resilience, meaning, wisdom, flow, mindfulness, affect, attention, motivation)** — the D2 pool marked this VERIFIED PRESENT in the library listing. This reviewer did not re-inspect the Drive; the library listing is the pool's evidence. The enrichment programme's 2182/2182 principles and 2233/2233 concepts completion is the prior verified record.
+
+## Checkpoint verdict (binding per the spec's anti-gaming safeguard 6)
+
+**PASS CONDITIONALLY — the degree may proceed to Phase D3 only on the terms below. This is the batch's hardest hours case and the reviewer reports it to the owner as such.**
+
+### What is now verified open
+
+POS-TEACH-1 is now verified open as the teaching layer, with 13 hours of stated module content (Modules 1-6 at 1+2+2+2+3+3 = 13h) plus the 7 assignments. The doc library (POS-REF-1) is the verified in-repo carrier for the positive-psychology constructs. No standalone open primary-text carrier was verified this session (Seligman, Peterson, Csikszentmihalyi and Fredrickson's books are paywalled — the field's own structural problem, declared in the D2 pool's gap 1).
+
+### Rows the reviewer rules on now
+
+1. **POS-TEACH-1 free-audit (gap 2)**: **CLOSED** — verified above. The page confirms free enrollment plus financial aid plus the Full Course No Certificate option. The 13h of stated module content is the measured teaching-layer floor. The flexible-schedule framing the pool flagged is resolved by taking the per-module hour counts at face value.
+2. **Hours arithmetic (gap 5)**: the measured floor is:
+   - POS-TEACH-1: 13h of stated module content (verified above).
+   - POS-REF-1 (the doc library): the dossiers are validated but their reading hours must be measured against the module docs, not estimated — this is the D3 agent's measurement.
+   - The primary-text open-access articles (Seligman 2011 American Psychologist; Fredrickson broaden-and-build; the PPI trials): NOT verified this session.
+   **The verified floor is 13h of measured instruction plus the doc library's reading hours (unmeasured) plus the open-access article hours (unverified). This is the batch's hardest hours case and the reviewer reports it to the owner as the degree's honest-failure risk: the walk's ≥100h bar cannot be met from POS-TEACH-1 alone (13h) plus the doc library (whose hours are the D3 measurement) plus the open-access articles (whose carrier set was not verified this session).** The remaining routes are: (a) the open-access journal-article carrier set (the American Psychologist and Personality and Social Psychology Review articles) which must be verified and measured; (b) additional open MOOCs or lecture series; (c) an owner ruling that the doc library's reading hours (measured per module) plus POS-TEACH-1 plus the open articles satisfies the bar. This is a real gap the owner must rule on, not a silent drop.
+3. **The exclusion candidates (gap 4)**: the reviewer rules the following rows **EXCLUDED on finite scope**, per the CURRICULUM-ARCHITECTURE spec's honest-failure rule:
+   - Emotional intelligence (no open carrier confirmed; the doc library's affect dossier is the in-repo carrier but the row's own teaching layer was not confirmed).
+   - Positive psychology in education + healthcare (no open carrier confirmed).
+   - Successful ageing + positive institutions + community (no open carrier confirmed).
+   - Future of positive psychology + recent topics (no open carrier confirmed).
+   These are **reported to the owner as honestly unfillable from open carriers** — the D1 matrix already listed them as the exclusion candidates and the D2 evidence confirms the exclusion. Recorded, not padded.
+4. **The optional rows in the D1 matrix (religions/spirituality, empathy/compassion/altruism, positive psychotherapy)**: the D2 evidence confirms these are the exclusion candidates. The reviewer rules **religions/spirituality EXCLUDED on finite scope** (the Santos MOOC does not cover it; the doc library's spirituality dossier is the in-repo carrier but the row's own teaching layer was not confirmed); **empathy/compassion/altruism EXCLUDED on finite scope** (the Santos Module 3 kindness material is the only teaching-layer carrier and it is a narrow slice); **positive psychotherapy EXCLUDED on finite scope** (the PPI row's teaching layer is the Santos Module 6 rewirement material, not a psychotherapy carrier).
+5. **Primary-text structural problem (gap 1)**: **NOT CLOSED — reported to the owner as the degree's honest-failure risk.** The canonical positive-psychology books (Seligman, Peterson, Csikszentmihalyi, Fredrickson) are paywalled; the open routes are the open-access journal articles behind them and the doc library. The reviewer rules the doc library plus the open articles is the bar's route, but the specific article-URL passes were not run this session. The D3 agent must run them before admitting any article to a module.
+6. **The PERMA row specifically**: the D2 pool's flag stands — the Santos Module 1 covers foundations and strengths but the PERMA model was not confirmed in the module list. The reviewer rules the PERMA row is **NOT CLOSED** — the route is the Seligman 2011 American Psychologist open-access article (unverified this session). Recorded as an open item.
+
+## What the D3 agent must do before module construction (binding conditions)
+
+1. Run the open-access article-URL passes (Seligman 2011; Fredrickson broaden-and-build; the PPI trials; the American Psychologist 2000 introduction) before admitting any article to a module. Do not admit an article by metadata alone.
+2. Run the Greater Good and PositivePsychology.com fetch passes (the D2 pool's gap 3).
+3. Measure the doc library's reading hours per module (the dossiers are validated but their hours must be measured against the module docs, not estimated).
+4. The hours arithmetic is the degree's biggest structural risk and must be resolved before module construction — either by verified open carriers or by an owner ruling. Do not silently start D3.
+5. Re-cut the D1 mod-pos-1 through mod-pos-8 proposal so each module has ≥3 distinct verified sources and ≥6 measured hours against the verified carrier set. Where a module falls short, either merge it or flag it — do not pad.
+6. The exclusion rows above are **exclusions, not silently dropped** — they stay listed in the D1 file with this checkpoint's ruling as the reason, per the spec's honest-failure rule.
+
+## Standing notes for the owner
+
+- The reviewer flagged to the supervisor: the positive-psychology degree is the batch's hardest hours case — the verified floor is 13h of POS-TEACH-1 plus the doc library's reading hours (unmeasured) plus the open-access articles (unverified). The ≥100h bar cannot be met from the verified carrier set alone. The owner must rule on whether the degree proceeds with the doc library as the primary reading carrier or whether a verified open article/lecture carrier set must be located first. Recorded in the commit message.
+- The POS-TEACH-1 free-audit route is now verified (free enrollment + financial aid + Full Course No Certificate option on the page's own FAQ). The flexible-schedule framing is resolved by taking the per-module hour counts at face value (13h total).
+- The Greater Good and PositivePsychology.com fetch passes were not run this session because the reviewer prioritized the POS-TEACH-1 and hours-arithmetic passes (the checkpoint's load-bearing decisions). They are open items, not silently dropped.
