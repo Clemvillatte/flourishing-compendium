@@ -58,8 +58,14 @@ Per-degree remaining items (from the supervisor's reviews and release lines):
   delta verified by 1026h: b1 repairs, b3 repair, b4 B-V34/B-V36/
   wording/status, b5 B-V33/status, b6 B-V31/duration/status, b7
   B-V32/status, b8 sweep, b9 sweep/license/status), whole-degree QC
-  PASS (1026h) + whole-degree gate PASS (independent session; its b4
-  condition discharged by 1026h's addendum) — ready for deg-integrate.
+  PASS (1026h). CORRECTION (supersedes the earlier line in this
+  summary): the buddhism whole-degree GATE PASS was WITHDRAWN (commit
+  7de0869, gate refresh incomplete: centering delta chain not inspected
+  against the set-gate baseline; b4 addendum also owed). The b4
+  addendum is DELIVERED (1026h, 5e3768b); the centering-delta-chain
+  inspection remains owed to the deg-gate lane (independent reviewer,
+  NOT 1026h) — buddhism is NOT ready for deg-integrate until a
+  complete gate verdict issues.
   pragmatism: all five modules PASS at current hashes (m4/m5 reviewed
   or corroborated by 1026h; status + em-dash repairs verified),
   whole-degree QC PASS (1026h) — the whole-degree GATE is the one
