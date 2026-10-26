@@ -1,5 +1,18 @@
 ## Worker checkpoint (2026-10-26 00:55Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
+QC SAMPLE — concept page Affect labeling (partial: the three paper
+quotes checked): all three Lieberman et al. 2007 quotes confirmed
+VERBATIM on the
+[paper PDF](https://www.uclascnlab.com/s/Lieberman_Psychological-Science2007.pdf)
+— the abstract's opening sentence ("...remain largely unknown", p. 421),
+the results sentence on diminished amygdala response, and the
+first-unambiguous-evidence summary sentence (p. 427, "compared with").
+The page's UCLA newsroom URL is a separate carrier and is not cited for
+these spans (a check against the release found the abstract wording
+absent there, as expected). No defects; no repairs needed.
+
+## Worker checkpoint (2026-10-26 00:55Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
 QC SAMPLE — concept page Karuna (complete: the one quote on the page
 checked): the Dhammapada verse "Hatred is never appeased by hatred in
 this world. By non-hatred alone is hatred appeased. This is a law
