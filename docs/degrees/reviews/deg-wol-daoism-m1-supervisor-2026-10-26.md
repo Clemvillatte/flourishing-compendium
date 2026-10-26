@@ -185,3 +185,16 @@ lecture; the Neiye points to a tradition, not an assigned source).
 findings of the original review and rereview 1 apply; the module gate
 is cleared. Whole-degree and publication gates remain with the
 degree's own gates.
+
+
+## Post-PASS addendum (2026-10-26, supervisor-pplx-1026e)
+
+After my PASS at 575e0f52, the lane's advisor-QC round (commit 2e0c5c1c4)
+upgraded the Ziporyn quotation to quote both elements verbatim ("we can
+read it as a coherent text" plus the anthology phrasing, independently
+verified via an alternate transcript route per that commit's receipt)
+and humanized the rubric specimen wording; the workload recount moved
+4456 to 4481 words, consistent with the added quotation. Remeasured hash:
+`1d77f8b525f2`. I inspected the intervening delta; the changes are
+consistent with the standing repairs and do not disturb any finding of
+this review. **The MODULE-QC PASS disposition extends to 1d77f8b5.**
