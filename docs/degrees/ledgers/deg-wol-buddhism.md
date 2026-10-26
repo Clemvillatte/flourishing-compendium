@@ -99,7 +99,6 @@ readings are already-published project content. The production owner
 still owes module-level mapping against the cleared scope before the
 coverage gate can be requested.
 
-<<<<<<< HEAD
 ## Sources opened (production session 2026-10-26, worker-pplx-buddhism-1026a, baton deg-wol-buddhism)
 
 | URL | opened (UTC) | by | what it verified |
@@ -184,24 +183,41 @@ unverified (11:15-11:21); the SN 56.11 rebirth frame handled as the owed
 passing mention (outcome 4 of the module); the tanha/chanda boundary taught
 via Harvey. No new sources opened this item (all four carry receipts);
 statuses in the module's source table reference the receipts.
-=======
-## Production session log — worker-pplx-buddhism-1026a, 2026-10-26 (~04:49Z start)
+## Production session log — worker-pplx-buddhism-1026a, 2026-10-26
+
+Session start 04:38:11Z (run-clock T0; two UTC readings taken at the session's first command). This entry was written between clock readings 04:41Z and 04:43Z; the earlier OWNER-BOARD line stamped 04:49Z was an estimate and is corrected here. Fresh monotonic baseline recorded at the 05:14Z clock reading: elapsed 35 minutes 45 seconds against T0 (1792989491).
 
 ### Ledger 1: sources opened and verified this session (supersession record)
 
 1. **SN 56.11, Sujato translation, SuttaCentral** — https://suttacentral.net/sn56.11/en/sujato
-   Opened 2026-10-26 in the cloud browser (fetch_url cannot render the JS page; same limitation the earlier verifier documented). Full article text read: two extremes, middle way, the four truths with the three rounds and twelve aspects, Koṇḍañña's insight, the closing verses. Word count measured on the opened page: 2,009 (translation with Sujato's notes). Free, no paywall. Supersedes nothing (M-15-001 stands; this is an independent confirmation of the same source).
+   Opened 2026-10-26 in the cloud browser (fetch_url cannot render the JS page; same limitation the earlier verifier documented). Full article text read in two extractions: the opening narrative through the closing sentiment, including the final lines ("Koṇḍañña has really understood! ... Koṇḍañña Who Understood"). Two extremes, middle way, the four truths with the three rounds and twelve aspects, Koṇḍañña's insight ("Everything that is liable to arise is liable to cease"), all present and read. Word count measured on the opened page: 2,009 (translation with Sujato's notes). Free, no paywall. Supersedes nothing (M-15-001 stands; this is an independent confirmation of the same source).
 
 2. **Ajahn Brahm, "What the Buddha Taught"** — current URL https://www.youtube.com/watch?v=W6pGAvtBmCw (Everyday Dhamma Network remaster; talk recorded 21 November 2003 at Dhammaloka, Perth; page published 2023-11-05). Duration 49:44 confirmed on the opened video page and the Everyday Dhamma episode page (https://everydaydhamma.net/podcast/ajahn-brahm-podcast/episode/what-the-buddha-taught-ajahn-brahm). Chapters read on the video page: The night of enlightenment 0:00; Understanding rebirth 2:29; Consequences of rebirth 12:46; The law of karma 19:44; Ethics and tolerance 25:46; Making ethical decisions 31:32; The Four Noble Truths 37:33. Transcript excerpts of the ethics and four-truths segments read on the Everyday Dhamma episode page (Rāhula ethics, guilt-has-no-part, acknowledge-forgive-learn, the happiness/unhappiness reframing, the itch-and-scratch passage). Credentials verified on the BSWA institutional page https://bswa.org/teachers/ajahn-brahm/ (Cambridge theoretical physics degree; ordained 1974, Forest Tradition of north-east Thailand under Ajahn Chah; abbot of the largest Buddhist monastery in the Southern Hemisphere). Free, Creative Commons per BSWA distribution.
-   **SUPERSESSION**: the inherited record's YouTube ID 2Kh6sS-5uvA no longer plays ("This video isn't available anymore", opened in the cloud browser 2026-10-26). The remaster W6pGAvtBmCw is the same talk at the same duration. Coverage note: the talk's four-truths treatment is Ajahn Brahm's own happiness/unhappiness reframing and does not enumerate the eightfold path; the ethics segment carries the ethics-first design. The first 25:46 (rebirth and kamma cosmology) is outside the degree scope and left unassigned.
+   **SUPERSESSION**: the inherited record's YouTube ID 2Kh6sS-5uvA was unavailable in this session's browser ("This video isn't available anymore", opened 2026-10-26); it may be region- or session-specific rather than globally removed. The remaster W6pGAvtBmCw is the same talk at the same duration. Coverage note: the talk's four-truths treatment is Ajahn Brahm's own happiness/unhappiness reframing and does not enumerate the eightfold path; the ethics segment carries the ethics-first design. The first 25:46 (rebirth and kamma cosmology) is outside the degree scope and left unassigned. The episode page's transcript is AI-generated and visibly error-prone, so the module paraphrases the talk with attribution and quotes none of its wording; precise verbatim quotation from this talk would need audio-checked evidence.
 
-3. **Dreyfus Four Noble Truths course, session 1** — inherited ID j_CrHKF9ngY no longer plays (cloud browser, 2026-10-26). Course session 1 found live at https://www.youtube.com/watch?v=DLPsIhDWZp4 (Shantideva Center, FPMT; page title "[#1: Apr 23, 2024] The Four Noble Truths - Georges Dreyfus"; duration 1:25:04 observed on the opened page; note: the inherited record said 1:20:35, and the search snippet's "(1:20:35)" disagrees with the page's own 1:25:04). A YouTube bot wall ("Sign in to confirm you're not a bot") blocked transcript access this session. **STATUS: held out of all modules until the verification lane confirms transcript coverage on the new URL.**
+3. **Dreyfus Four Noble Truths course, session 1** — inherited ID j_CrHKF9ngY was unavailable in this session's browser (region- or session-specific; not established as globally removed). Course session 1 found live at https://www.youtube.com/watch?v=DLPsIhDWZp4 (Shantideva Center, FPMT; page title "[#1: Apr 23, 2024] The Four Noble Truths - Georges Dreyfus"; description confirmed as the same course text as the inherited record, including the three-phases language). Duration NOT confirmed this session: the 1:25:04 figure visible on the opened page sat next to the session-2 recommendation and cannot be attributed to session 1; the inherited 1:20:35 stands as the prior measurement. A YouTube bot wall ("Sign in to confirm you're not a bot") blocked transcript access this session. **STATUS: held out of all modules until the verification lane confirms transcript coverage on the new URL. Deprioritized relative to BG-1 to BG-4: it blocks no essential m1-m6 outcome.**
 
 4. **BSWA "What Is Buddhism?" pamphlet pages** (bswa.org/practices/buddhism-ajahn-brahm/, bswa.org/teaching/buddhism-ajahn-brahm/) and the **"Joy At Last To Know There Is No Happiness In The World"** PDF (bswa.org, 1999 Rains Retreat talk on the first three noble truths) surfaced in search with substantive snippets (four noble truths summary; investigate-or-escape teaching) but were not fully opened this session. **Candidates for m2-m4; verification required before assignment.**
 
 ### Module map and coverage matrix
 
-Written into docs/degrees/scope/deg-wol-buddhism.md (section "Module map and coverage matrix, 2026-10-26") and mirrored here in short: essential path m1 → m2 → m3 → m4 → m5 → m6 → m8, elective m7 (no capstone dependency); L3 school-comparison work sits inside m8 before its independent analysis. Blocking source gaps: BG-1 five precepts and four immeasurables teaching (m2); BG-2 guided foundational meditations (m3); BG-3 Zen teaching video (m5); BG-4 Insight/Vipassana and Secular Buddhism sources (m6). Verified and available: Ajahn Brahm, Hallisey, Halifax, Dalai Lama Nature of Mind, Obeyesekere (from the inherited verify files, several with the uploader-description caveat noted below).
+Written into docs/degrees/scope/deg-wol-buddhism.md (section "Module map and coverage matrix, 2026-10-26") and mirrored here in full. Essential path: m1 → m2 → m3 → m4 → m5 → m6 → m8, elective m7 (no capstone dependency). Levels: m1 L1, m2 L2, m3 L1/L2, m4-m6 L2, m7 L3 elective, m8 L4 capstone. The essential school-comparison work reaches L3 inside m6 (taught, practised) and m8 (assessed) before the capstone's independent analysis.
+
+| Exit capability / topic | Status | Taught | Practised | Assessed | Blocking gap |
+|---|---|---|---|---|---|
+| Ethical core: sila, five precepts, four immeasurables (all four) | essential | m2 | m2 | m2, m8 | BG-1 (source needed) |
+| Practical path per school: Secular, Zen, Insight/Vipassana, Theravada, Thai Forest | essential | m4, m5, m6 | m4-m6 | m8 | BG-3, BG-4 |
+| Foundational meditations: calm, insight, metta, guided | essential | m3 | m3 | m3, m8 | BG-2 (guided-practice sources) |
+| Applied ethics, hard cases; where schools disagree on practice | essential | m2, m4-m6 | m2, m4-m6 | m8 | (follows BG-1) |
+| School comparison at L3 | essential | m6 (taught and practised) | m6 | m8 | (follows BG-3, BG-4) |
+| Buddhist psychology, practical portions | elective (m7) | m7 | m7 | m7 | none (two sources verified) |
+| Thai Forest lineage stories | elective (inside m4) | m4 | m4 | m4 | candidate episode unverified |
+| Integrative capstone: sustained practice with records, written synthesis | essential | m8 | m8 | m8 | designed after m2-m6 |
+| Rebirth cosmology, abhidharma scholastics, tantric ritual | excluded everywhere (passing mention only where ethics or practice requires) | | | | |
+
+Inherited verify-file records for sources not yet attached to a produced module (Hallisey, Halifax, Dalai Lama, Obeyesekere, Bhikkhu Bodhi, Lopez, Gethin, Cianciosi, Jackson) are inherited evidence pending attachment checks: any module that attaches them must re-open the source and record its own evidence, per the standing instruction that uploader-description-based labels are provisional.
+
+Blocking gaps in priority order: BG-1 five precepts and four immeasurables teaching (m2); BG-2 guided foundational meditations (m3); BG-3 Zen teaching video (m5); BG-4 Insight/Vipassana and Secular Buddhism sources (m6); BG-5 (deprioritized) Dreyfus new-URL transcript confirmation.
 
 ### m1-four-truths: PRODUCED
 
@@ -211,4 +227,16 @@ docs/degrees/modules/deg-wol-buddhism/m1-four-truths.md written this session. Tw
 
 - Inherited verified-video records that rest on uploader descriptions for coverage (for example, uploader-provided descriptions of Dreyfus sessions) should be treated as provisional per the advisor's standing instruction; my own records above state what I opened myself.
 - Dreyfus new-URL transcript confirmation is the highest-value verification item for this degree (BG-5, blocking for scholarly-depth outcomes).
->>>>>>> 173fd91 (deg-wol-buddhism: module map + coverage matrix into scope doc; m1-four-truths PRODUCED (SN 56.11 + Ajahn Brahm remaster, both opened in-session); ledger evidence written; Dreyfus held out pending new-URL transcript verification)
+
+### RECONCILIATION ENTRY (worker-pplx-buddhism-1026a, written between clock readings 04:52Z and 04:54Z)
+
+**Parallel-session collision detected.** A second live session is producing under the same baton name (worker-pplx-buddhism-1026a; baton clocked_in 04:42:53, takeovers list shows only the 04:40:53 claim). That session committed b1-ethics-first-orientation.md (d6efda0) and b2-four-noble-truths.md (9462998) plus a b1-b7 module map, while this session produced m1-four-truths.md and an m1-m8 map. Result: two overlapping module drafts and two competing maps, plus merge-conflict markers committed to this ledger (flagged by deg-verify-a at 5526928). This session removed the markers this pass (3 marker lines deleted; both sides' content kept).
+
+**Single canonical map (merged this pass, supersedes both earlier maps for routing purposes; supervisor to confirm):**
+
+- b1 ethics-first orientation (their draft, receipt-backed: Buddhist Values video, AN 5.179, Metta Sutta Kp 9) = the canonical entry module. My m1's unique verified assets to fold in: the Ajahn Brahm "What the Buddha Taught" remaster URL (corroborated by deg-verify-a at 5526928) with the in-scope segment boundary 25:46-49:44, the everydaydhamma.net transcript location (AI-generated, paraphrase only), and the BSWA institutional credentials receipt.
+- b2 four noble truths (their draft, receipt-backed: SN 56.11 AtI Thanissaro, Dreyfus session 1 with boundaries, Harvey tanha/chanda) = the canonical truths module. My m1-four-truths is an alternate draft with two advantages: advisor QC round 1 applied (self-blame guard on the application outcome, workload arithmetic corrected to 3h37 from measured components, AI-transcript paraphrase rule, Dreyfus held out pending confirmation). Dreyfus is now CONFIRMED by deg-verify-a (5526928: session 1 = dukkha only, duration 1:20:34), so b2's Dreyfus use stands; my m1's caution is resolved.
+- m2 (their b3-equivalent): five precepts / four immeasurables deepening. deg-verify-a verified candidates at d080249 (What Is Buddhism booklet, Joy At Last first-three-truths PDF, Brahmali meditation series index as BG-2 lead). BG-1 and BG-2 are now unblocked with verified candidates.
+- Remaining map from the merged spine: ethics-first entry (b1), four truths (b2), sila/precepts+immeasurables (b3/m2), foundational meditations (b4/m3, Brahmali series lead), Theravada+Thai Forest (b5/m4), Zen (b6/m5), Insight/Vipassana+Secular (b7/m6), Buddhist psychology elective, capstone.
+
+**This session's disposition:** to avoid two live producers writing the same files, this session yields module production to the parallel line and limits itself to reconciliation, ledger repair, and verification passes. Flagged for the supervisor: (1) the duplicate baton-name allocation needs a guard, as with the story ST-number collisions; (2) decide which of m1-four-truths vs b1+b2 survives as canonical (advisor QC favors m1's pedagogy; b1/b2 have richer receipt-backed source tables; a merge is feasible).
