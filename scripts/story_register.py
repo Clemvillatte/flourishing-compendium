@@ -68,17 +68,33 @@ def principle_bands(env):
     return m
 
 
-def next_free_id(env):
+def scan_used_ids(env):
+    """Set of ST numbers currently present as story files (\d+ — ST1000+ safe)."""
     used = set()
     if os.path.isdir(env.stories):
         for f in os.listdir(env.stories):
-            mm = re.match(r'ST(\d{3}) — ', f)
+            mm = re.match(r'ST(\d+) — ', f)
             if mm:
                 used.add(int(mm.group(1)))
-    n = 1
-    while n in used:
-        n += 1
-    return n
+    return used
+
+
+def next_free_id(env):
+    """2026-10-26 retired-number guard: mint ABOVE the high-water mark.
+
+    The duplicate reconciliation left free holes below the high-water mark
+    (411/412/413/417 at the time of the fix) whose numbers still live in
+    lane-state files, backlinks and historical records under the OLD titles.
+    Filling the lowest free number would mint one of those holes for an
+    unrelated new story and re-create the ST-number-reuse bug
+    (STORIES-TASKBOARD urgent route 2026-10-26 00:42Z). Automatic
+    allocation never fills a hole below the CURRENT maximum — note this
+    is not a durable historical high-water mark (deleting the
+    highest-numbered story would re-expose its number); deliberate reuse
+    of a retired hole requires an explicit --id AND --use-retired-id.
+    """
+    used = scan_used_ids(env)
+    return max(used) + 1 if used else 1
 
 
 def chapter_insert_line(lines, chapter, fname):
@@ -120,6 +136,9 @@ def main():
     ap.add_argument('--id', type=int, help='ST number (default: next free)')
     ap.add_argument('--chapter', help='structure chapter id, e.g. ST-S03.01 (required with --write)')
     ap.add_argument('--agent', help='supervisor name for the ledger note')
+    ap.add_argument('--use-retired-id', action='store_true',
+                    help='deliberately claim an unused ST number below the high-water mark '
+                         '(retired hole from the 2026-10-26 duplicate reconciliation)')
     ap.add_argument('--root', default=os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
                     help='repo root (tests use a fixture tree)')
     args = ap.parse_args()
@@ -146,6 +165,19 @@ def main():
 
     n = args.id or next_free_id(env)
     stid = f'ST{n:03d}'
+    # retired-hole guard (2026-10-26): an EXPLICIT id may not silently claim an
+    # unused number below the high-water mark — those holes are retired numbers
+    # whose lane-state/backlink records may still carry old titles.
+    used = scan_used_ids(env)
+    high_water = max(used) if used else 0
+    if args.id is not None and args.id < 1:
+        errs.append(f'invalid --id {args.id}: ST numbers start at 1')
+    if args.id and n <= high_water and n not in used and not args.use_retired_id:
+        errs.append(f'ST{n:03d} is an unused number at or below the high-water mark '
+                    f'(ST{high_water:03d}) — a retired hole from the duplicate '
+                    'reconciliation; lane-state and backlink records may still '
+                    'carry it under an old title. Register at an id above '
+                    f'ST{high_water:03d}, or pass --use-retired-id to claim it deliberately.')
     fname = f'{stid} — {title}'
     fpath = os.path.join(env.stories, fname + '.md')
     if os.path.exists(fpath):
@@ -169,7 +201,7 @@ def main():
     if os.path.isdir(env.stories):
         collisions = []
         for existing in os.listdir(env.stories):
-            mm = re.match(r'ST(\d{3}) — (.*)\.md$', existing)
+            mm = re.match(r'ST(\d+) — (.*)\.md$', existing)
             if not mm or int(mm.group(1)) == n:
                 continue
             if _norm(mm.group(2)) == _norm(title):

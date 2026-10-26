@@ -304,6 +304,55 @@ def main():
           r.returncode == 1 and 'TITLE ALREADY PUBLISHED' in r.stdout, r.stdout + r.stderr)
     check('numbering-prefix refusal makes no write',
           not os.path.exists(os.path.join(fx, 'content', 'stories', 'ST005 — 35. A Different Story.md')))
+    # 2026-10-26 retired-number guard: after the duplicate reconciliation, free
+    # holes below the high-water mark must never be minted by default.
+    # Simulate a reconciled-away copy: delete ST003, leaving a hole below ST004.
+    os.remove(os.path.join(fx, 'content', 'stories', 'ST003 — A Test Story.md'))
+    third = draft.replace('title: A Test Story', 'title: A Third Story')
+    open(os.path.join(fx, 'third.md'), 'w').write(third)
+    # (a) explicit --id claiming the hole -> refused without the deliberate flag
+    r = subprocess.run([sys.executable, os.path.join(ROOT, 'scripts', 'story_register.py'),
+                        os.path.join(fx, 'third.md'), '--root', fx, '--write',
+                        '--chapter', 'ST-S01.01', '--id', '3'], capture_output=True, text=True)
+    check('retired hole refused without --use-retired-id',
+          r.returncode == 1 and 'retired hole' in r.stdout, r.stdout + r.stderr)
+    check('retired-hole refusal makes no write',
+          not os.path.exists(os.path.join(fx, 'content', 'stories', 'ST003 — A Third Story.md')))
+    # (b) deliberate reuse WITH the flag -> allowed
+    r = subprocess.run([sys.executable, os.path.join(ROOT, 'scripts', 'story_register.py'),
+                        os.path.join(fx, 'third.md'), '--root', fx, '--write',
+                        '--chapter', 'ST-S01.01', '--id', '3', '--use-retired-id'],
+                       capture_output=True, text=True)
+    check('retired hole claimable with --use-retired-id',
+          r.returncode == 0 and os.path.exists(os.path.join(fx, 'content', 'stories', 'ST003 — A Third Story.md')),
+          r.stdout + r.stderr)
+    # (c) default (no --id) mints ABOVE the high-water mark, never the hole
+    os.remove(os.path.join(fx, 'content', 'stories', 'ST003 — A Third Story.md'))
+    fourth = draft.replace('title: A Test Story', 'title: A Fourth Story')
+    open(os.path.join(fx, 'fourth.md'), 'w').write(fourth)
+    r = subprocess.run([sys.executable, os.path.join(ROOT, 'scripts', 'story_register.py'),
+                        os.path.join(fx, 'fourth.md'), '--root', fx],
+                       capture_output=True, text=True)
+    check('default id mints above high-water mark',
+          r.returncode == 0 and 'id ST005' in r.stdout, r.stdout + r.stderr)
+    # 2026-10-26 advisor-QC boundaries: invalid explicit ids rejected outright
+    for bad in ('0', '-5'):
+        r = subprocess.run([sys.executable, os.path.join(ROOT, 'scripts', 'story_register.py'),
+                            os.path.join(fx, 'fourth.md'), '--root', fx, '--id', bad],
+                           capture_output=True, text=True)
+        check(f'invalid --id {bad} refused',
+              r.returncode == 1 and 'invalid --id' in r.stdout, r.stdout + r.stderr)
+    # four-digit safety: ST999 -> ST1000 -> next free 1001 (regex \d+ scans)
+    shutil.rmtree(os.path.join(fx, 'content', 'stories'))
+    os.makedirs(os.path.join(fx, 'content', 'stories'))
+    open(os.path.join(fx, 'content', '_order.json'), 'w').write('[]')
+    for num, ttl in ((999, 'Nine Ninety Nine'), (1000, 'One Thousand')):
+        open(os.path.join(fx, 'content', 'stories', f'ST{num} — {ttl}.md'), 'w').write('x')
+    r = subprocess.run([sys.executable, os.path.join(ROOT, 'scripts', 'story_register.py'),
+                        os.path.join(fx, 'fourth.md'), '--root', fx],
+                       capture_output=True, text=True)
+    check('four-digit ids scanned, next free 1001',
+          r.returncode == 0 and 'id ST1001' in r.stdout, r.stdout + r.stderr)
     shutil.rmtree(fx)
 
     print('save-path guard (isolated git fixture):')
@@ -313,6 +362,7 @@ def main():
     subprocess.run(['git', 'clone', '-q', bare, fxg], check=True)
     os.makedirs(os.path.join(fxg, 'scripts'))
     shutil.copy(os.path.join(ROOT, 'scripts', 'story_guard.py'), os.path.join(fxg, 'scripts'))
+    shutil.copy(os.path.join(ROOT, 'scripts', 'check_conflict_markers.py'), os.path.join(fxg, 'scripts'))
     shutil.copy(os.path.join(ROOT, 'scripts', 'enrich_save.sh'), os.path.join(fxg, 'scripts'))
     open(os.path.join(fxg, 'handoff.md'), 'w').write('x')
     # populate dirs that enrich_save.sh's `git add -A content docs scripts sources handoff.md`
