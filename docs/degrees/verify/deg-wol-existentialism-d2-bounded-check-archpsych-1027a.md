@@ -2,7 +2,7 @@
 
 Bounded Phase-D2 verification assist for the existentialism lane (deg-arch-inventory-wolx5 / degarchinv-1026a). Read-only: the D2 pool ledger was not edited. Gap #3 / EXIS-REF-1 ("the Hebrew University 3975 and USFQ PSI 3114E syllabi are the anchors... Neither was opened this session; one more pass each owed") was executed — both anchors' syllabi were read this session (USFQ directly fetched; HU 3975 via a search excerpt quoting the full syllabus text — the catalog site serves only a JS shell to static fetches; see the evidence note in section 2).
 
-## Verification events (both syllabi opened this session)
+## Verification events (both syllabi read this session — USFQ directly fetched; HU 3975 via search excerpt)
 
 ### 1. Hebrew University 3975 — "The basics of existential therapy" — OPENED and CORROBORATED
 
@@ -20,6 +20,6 @@ Bounded Phase-D2 verification assist for the existentialism lane (deg-arch-inven
 
 ## Status for the lane
 
-- EXIS-REF-1's "one more pass each owed" is discharged for both anchors: both syllabi opened, both corroborate the D1 map's attributions. The existential-therapy rows (m8) now have opened syllabus-level anchors.
+- EXIS-REF-1's "one more pass each owed" is discharged for both anchors: both syllabi read (USFQ directly fetched; HU 3975 via search excerpt), both corroborate the D1 map's attributions. The existential-therapy rows (m8) now have syllabus-level anchors with the evidence routes stated.
 - Two caveats to record when the lane folds this in: HU 3975 is Hebrew-medium (open syllabus, but language-limited as teaching content); the USFQ syllabus PDF is hosted on a GMU export mirror rather than USFQ's own site (the USFQ course-guide page corroborates the course exists and is English-taught, 3 credits).
 - No changes needed to the existentialism D1 inventory beyond these caveats; the pool ledger was NOT edited (no baton held).
