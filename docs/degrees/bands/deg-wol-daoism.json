@@ -46,6 +46,6 @@
       "status": "drafted this session (wave 3); advisor QC round 1 submitted"
     }
   },
-  "notes": "2026-10-26 (supervisor-pplx-1026c-daoism, wave 3): m5 ACCEPTED as DRAFT (advisor round 4); five-module set drafted end to end (m1-m3 accepted earlier, m4 DRAFT with video re-verification routed to deg-verify-a, m5 accepted-as-DRAFT); supervisor module-QC owed on m1-m5; no partial publication",
-  "updated": "2026-10-26T06:16:01Z"
+  "notes": "2026-10-26 (supervisor-pplx-1026c-daoism, wave 3): five-module set drafted end to end; m5 ACCEPTED as DRAFT (advisor round 4, bookkeeping commit 41b3baf88; ch.67 specimen punctuation fixed per deg-verify-b receipt); m4 DRAFT with Neiye counts corrected (518 words; totals 3h19/199) and video verification COMPLETE per deg-verify-a (duration/captions/identity corroborated) \u2014 only the whole-talk-assignment scope ruling remains, with supervisor module-QC; supervisor module-QC owed on m1-m5; no partial publication",
+  "updated": "2026-10-26T06:20:35Z"
 }

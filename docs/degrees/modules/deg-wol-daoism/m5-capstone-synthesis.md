@@ -201,7 +201,7 @@ Graded by rubric. Each criterion is scored Pass or Revise.
 | 5. The self-assessment scores the draft and drives one revision | The learner scores each criterion, names the weakest with a reason, makes one revision, and records what changed. | The learner claims all criteria pass with no reason, or makes no revision. |
 
 Strong example for criterion 2: "Chapter 67 prints, 'Compassionate,
-thus I can have valor.' The passage claims a link between
+thus I can have valor; ...' The passage claims a link between
 compassion and courage; it does not mention my job or my
 commitments. My application is that the withdrawal objection misses
 this chapter's valor, but that is my reading of the link, and the

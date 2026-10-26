@@ -1460,3 +1460,70 @@ module; the derived minutes are unchanged (2,937 / 180 = about 16
 raw; x3 about 49). m5's printed prose count re-checked the same way:
 2,141 exact, no change. m5 quote figures unchanged (verify-b
 receipt). No other numbers in either module changed this pass.
+
+## Corrections and reconciliation pass (2026-10-26 ~06:20Z, supervisor-pplx-1026c-daoism)
+
+Four records corrected after reading the verification receipts in
+full and the advisor's final-verification advice:
+
+1. m5 chapter-67 specimen punctuation (receipt-routed fix, applied).
+   The deg-verify-b receipt routed to the module owner that the
+   source prints a semicolon at the truncation boundary
+   ("Compassionate, thus I can have valor; frugal...") while the
+   module's criterion-2 strong example closed the quotation with a
+   period. Fixed: the specimen now reads "Compassionate, thus I can
+   have valor; ..." with the truncation marked. The receipt's
+   chapter-44 note (the phrases "know what is enough" / "know when
+   to stop" embedded lowercase mid-sentence) is recorded for the
+   supervisor's annotation; left as written, since embedding a
+   quoted fragment lowercase mid-sentence is standard practice and
+   the words are verbatim.
+
+2. m5 word-count reconciliation (replaces my earlier
+   "counting-method noise" characterization). The deg-verify-b
+   receipt's own two methods give 456 (letter/number token-count,
+   em-dash tokens excluded) and 466 (whitespace-split of the same
+   spans) — the module's printed 466 is reproduced EXACTLY by the
+   receipt's whitespace-split method. The receipt's statement that
+   "the module prints 464" does not match the current module (which
+   prints 466 in all three places); 464 was the round-2 revision's
+   figure, and the cause of the receipt's baseline reference is
+   unestablished on my side. Which counting rule the project
+   prefers stays with the supervisor's module-QC; the reading-time
+   estimate is unchanged either way.
+
+3. m4 video verification is COMPLETE (supersedes my earlier note
+   that content verification "remains routed to deg-verify-a").
+   Per deg-verify-a's 06:18Z-06:26Z receipt updates
+   (docs/degrees/verify/deg-wol-daoism.md, commit 15199cb1c and
+   follow-ups): duration 53:43 corroborated by the player display
+   and structured metadata (their earlier 55:34 was their
+   extraction error, retracted by them); captions resolved (an
+   English auto-generated track is listed); identity, channel and
+   credentials corroborated; chapter/key-moment list prints on the
+   page (authorship not established). What remains on the m4 line
+   is a scope ruling — whether assigning the whole 53:43 talk fits
+   the module's scope — which per that receipt belongs to
+   supervisor module-QC, not to a verification lane.
+
+4. Unsupported explanations withdrawn; only observed recounts
+   stand. (a) My earlier entry said the original 142-word section-12
+   count was "a boundary error on my part" — the cause of the
+   original figure is unestablished; what stands is the observed
+   re-measurement: 110 words on the cited source (my own fetch this
+   session, agreeing with the receipt's both-renders check).
+   (b) My earlier entry said the prose count grew "in the QC
+   repairs" — unestablished; what stands is the observed recount:
+   2,937 words by the module's stated method, made explicit here as
+   whitespace-separated tokens in all non-table lines before the
+   workload-arithmetic section. (c) Acceptance provenance repaired:
+   my round-4 entry's "hash below" refers to commit 41b3baf88, in
+   which the final criterion-1 rubric correction and the acceptance
+   bookkeeping were saved. The round-4 advisor verdict, preserved in
+   the session record: m5 ACCEPTED as DRAFT pending supervisor
+   module-QC; this does not clear m4, the whole degree,
+   integration or publication; m4's source-verification and
+   assignment-scope blockers remained open at that verdict (the
+   verification half has since closed per item 3 above; the scope
+   ruling remains). The reviewed revision was the round-3 file
+   text (commit 012b43b45) plus that final rubric correction.
