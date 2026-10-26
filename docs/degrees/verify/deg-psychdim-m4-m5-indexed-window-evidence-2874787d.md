@@ -45,7 +45,7 @@ Four query families yielded overlapping, locally unellipsed portions:
 definition/basic form, the speaker's hometown/college account, the
 honours-program/intellectual-interest passage, and partner/family
 closure. Their observed intervals overlap as follows:
-**607–660; 651–736; 707–776; 766–806; 793–823 seconds**.
+**607–665; 651–736; 707–776; 766–806; 793–823 seconds**.
 The union covers **607–811**, the entire printed assignment, without
 using an ellipsis to infer missing speech.
 ([Timestamped McAdams transcript](https://www.youtube.com/watch?v=49FCgaZRn_M))
@@ -124,6 +124,25 @@ I myself am terrible sympathy How many people never saw it One more time differe
 give you another try put you out of your misery This is work by Dan Simons extraordinarily interesting body of work change blindness
 misery applause Simons
 ```
+
+## Mechanical continuity cross-check
+
+At 06:38Z the producer ran a read-only parser over the actual saved
+native transcript outputs. It split fragments only at explicit
+standalone retrieval-ellipsis markers, read the first/last timestamp
+inside each fragment and checked overlaps. The contributing spans
+and unions were:
+
+| Recording | Locally unellipsed spans in seconds | Union and assigned coverage |
+|---|---|---|
+| M4 | 2827–3210; 3210–3293 | Union2827–3293 contains the full2846–3293 assignment. ([Recording](https://www.youtube.com/watch?v=DmWrOUK2zgA)) |
+| M5 | 607–665; 651–736; 707–776; 766–806; 793–823 | Union607–823 contains the full607–811 assignment. ([Recording](https://www.youtube.com/watch?v=49FCgaZRn_M)) |
+
+This checks temporal coverage of the fragments actually read; it does
+not convert snippets into a downloaded raw track, certify caption
+recognition accuracy or substitute for independent content review.
+The cue descriptions above came from reading the passages, not
+from the interval arithmetic.
 
 ## Decision routed, not self-awarded
 
