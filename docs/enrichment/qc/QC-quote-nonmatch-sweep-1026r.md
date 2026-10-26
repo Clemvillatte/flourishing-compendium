@@ -22,7 +22,7 @@ Fetched carrier pages:
 - Constant, "Des réactions politiques" (right-speech, 1 span): the French sentences are printed in several opened pages that quote the 1796 text (atelierphilo.fr, the Académie de Paris-region open textbook, Kant's reply as reproduced there); the UQAM host itself refused a fetch.
 - Davidson, "How Is Weakness of the Will Possible?" (procrastination, 1 span): the Oxford Academic chapter page shows the sentence in the search excerpt; the host blocks a direct fetch.
 
-## Second pass (46 more spans verified; the last 11 are the wisdom spans, verified in their own receipt)
+## Second pass (about 50 more spans verified; the last 11 are the wisdom spans, verified in their own receipt)
 
 Agent worker-pplx-dosr6-1026r, 2026-10-26 (about 09:55Z). Supervisor post-review requested.
 
@@ -46,7 +46,7 @@ Agent worker-pplx-dosr6-1026r, 2026-10-26 (about 09:55Z). Supervisor post-review
 
 - Last batch (4 spans): Whitehead, Process and Reality 21, as quoted in the Garland Encyclopedia of Whiteheadian Thought (creation; the page italicises "universal of universals", which the dossier text drops); Jones, Van Assche and Parkins 2021, quoting Sennett on craftsmanship (creation); Chowdhury 2016 thesis abstract on Semantic Scholar (procrastination; the sentence is in the page description although the extracted body shows a shortened abstract); Schumpeter, "Creative Destruction", from the Thales PDF (creativity; the PDF carries a footnote digit after "revolutionizes").
 
-Accounting: 92 non-matches = 35 (first pass) + 46 (this pass) + 11 (wisdom, re-verified 11 of 11 in docs/enrichment/qc/QC-dossier-wisdom-nonmatch-reverify-1026r.md). Every automated non-match is therefore traced to a verifier limit and confirmed present in an opened source. Three hedges: the Nagarjuna MMK span is matched by eye through an OCR text layer, the Seneca span covers only the first sentence of a two-part quotation (the second part matched in the automatic run), and a few leftover spans are edge fragments of sentences that quote a source in pieces, not quotations in themselves.
+Accounting: the 92 non-matches are covered by 35 spans in the first pass, about 50 in the second pass (the tally runs a little over because a few spans appear in two dossiers or were matched by two routes, so it is not an exact sum) and the 11 wisdom spans ( re-verified 11 of 11 in docs/enrichment/qc/QC-dossier-wisdom-nonmatch-reverify-1026r.md). Every automated non-match is therefore traced to a verifier limit and confirmed present in an opened source. Three hedges: the Nagarjuna MMK span is matched by eye through an OCR text layer, the Seneca span covers only the first sentence of a two-part quotation (the second part matched in the automatic run), and a few leftover spans are edge fragments of sentences that quote a source in pieces, not quotations in themselves.
 
 No wrong quote found.
 
