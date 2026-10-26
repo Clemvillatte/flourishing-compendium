@@ -1,0 +1,15 @@
+{
+ "batch": "dosr3",
+ "done": [
+  "2026-10-26 00:20Z STEP 0 scope check (sup-1026b-worker): all four assigned dossiers are ALREADY AT the 3-5 bar — the QC-7 below-bar list is STALE for this band too; no disagreement repairs needed. Incidental repair landed: story-card links re-pointed from the 23 removed duplicate ST copies to the kept first-registration copies (commit 424c8b9d9) after the supervisor duplicate reconciliation; dossier_check exit 0 for all four after the re-point; app.js data rebuilt."
+ ],
+ "detail": {
+  "agency": "3 substantiated questions (say-coverage; feeling-of-choosing vs the act; self-alignment as control) — published; dossier_check OK (60 card links).",
+  "anger": "3 substantiated questions (fitting anger Aristotle NE IV.5 vs Seneca De Ira; courage needing passion; venting vs time) — published; dossier_check OK (61 card links).",
+  "cognition": "3 substantiated questions (representativeness definition; cognition extending into the world; reasoning vs post-hoc moral judgment) — published; dossier_check OK after card re-point (92 card links).",
+  "goals": "3 substantiated questions (goal-setting criticism; outcome vs attempt aims; picturing the aim) — published; dossier_check OK (52 card links)."
+ },
+ "note": "STEP 0 rule applied per PIPELINE Lane 2. Count + structure + spot-substance (anger section carries verbatim Aristotle NE IV.5 quote with carrier link) verified against the files; registry status published for all four.",
+ "in_progress": "none — band complete",
+ "flagged": {}
+}
