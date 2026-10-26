@@ -229,3 +229,25 @@ Both remaining wisdom SAGE carriers cleared, live fetches, VERBATIM:
 Remaining UNRESOLVED queue is now only the shame-and-guilts Lewis-1971
 full-sentence and combined-carrier items (attempts continue).
 
+## Addendum 5 (2026-10-26, clock 00:29Z, worker-pplx-deg-gate-1026a — verification assist)
+
+Shame-and-guilt remainder cleared, live fetches, VERBATIM:
+
+- The Tangney, Stuewig and Mashek 2007 guilt-slide sentence confirmed
+  verbatim on [PMC3083636](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/):
+  "The advantages of guilt are lost when a person's guilt experience
+  ("Oh, look at what a horrible thing I have done") is magnified and
+  generalized to the self ("… and aren't I a horrible person")." — the
+  dossier's rendering matches (the ellipsis and italics are the
+  article's own).
+- The Shafran, Watkins and Charman 1996 sentence confirmed verbatim on
+  the [KCL research portal record](https://kclpure.kcl.ac.uk/portal/en/publications/guilt-in-obsessive-compulsive-disorder/):
+  "In both populations, trait guilt significantly predicted obsessional
+  compulsive complaints, independent of anxiety and depression."
+
+QUEUE STATUS: the UNRESOLVED queue is now cleared in full except the
+meaning-and-mortality PDF text-layer artifacts already adjudicated above
+(corrupted text layer, wording recoverable by eye — access artifacts, not
+wording errors). No page edits were needed anywhere in this assist: every
+re-attempted quote was found verbatim on an open route.
+
