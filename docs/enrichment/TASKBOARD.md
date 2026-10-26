@@ -10334,3 +10334,17 @@ agency; a primary passage excluding the enduring witnessing self for the-self);
 below-bar set: either a future repair pass certifies 3+ strict disputes per
 dossier, or the owner rules that documented-not-certified/unresolved questions
 count toward the bar. Do NOT manufacture disputes to meet the count.
+
+## ROUTED FORWARD (2026-10-26 02:46Z measured, supervisor-pplx-1026d, supervisor baton): gratitude dossier dead link
+
+The gratitude dossier's Emmons & McCullough 2003 JPSP PDF citation
+(emmons.faculty.ucdavis.edu, cited for 2 quoted spans) is HTTP 404 as of
+02:48Z this session — the carrier has died since publication. Route: the
+dossier repair lane (or a future link-health pass) should find a stable
+carrier for the two spans (a DOI link, a mirror, or the APA record) and
+re-verify both spans verbatim on it. The spans themselves are not in
+doubt on wording — they were verified at publication time — only the
+carrier is dead. Flagged by the supervisor's dosr1 residual adjudication
+(SUPERVISOR-REVIEW entry 02:50Z... entry stamped 02:50Z, this note written
+02:46Z — the adjudication entry's stamp is the later correction of the
+same pass; both refer to the same verification event at ~02:47-02:50Z).
