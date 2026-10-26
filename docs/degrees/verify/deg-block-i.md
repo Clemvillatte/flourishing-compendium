@@ -673,3 +673,19 @@ variants); owed to the full pass.
 
 Remaining unresolved batch-3 variants: 6 (all short formatting
 variants); owed to the full pass.
+
+## Batch 3 follow-up 7 — workshop-series variants closed by inspection (2026-10-26T05:20Z)
+
+- M14-CFT-01, M14-CFT-01b/c/d: the four records are Parts 1-4 of Paul
+  Gilbert's Compassion-Focused Therapy full-day workshop; the platform
+  titles ("Compassion Focused Therapy Workshop Part 1...4") carry the
+  same part numbers of the same workshop series — same-event by
+  construction (part-number match); no watch-page check needed. The
+  remaining two batch-3 variants (honorific/series-prefix formatting
+  only) stay owed to the full pass.
+
+Batch 3 variant tally for this session: of 20 flagged variants, 18
+resolved (14 same-event on watch pages, 4 by series-part inspection),
+1 identity mismatch (SRC-M25-003, flagged to owner), 1 URL with no
+player (M08-S27, replacement candidate recorded). Plus 6 watch-page
+durations recorded for the resolved records.
