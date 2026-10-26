@@ -322,3 +322,17 @@ wisdom what you have, or knowing that you lack it?" compare a tradition with
 the Berlin definition and the page itself says they agree on the core, so they
 do not count toward the disagreement bar. No advisor tool was available to
 this worker; supervisor post-review requested.
+
+Second repair, same session: "Is wisdom what you have, or knowing that you
+lack it?" The old section said the traditions and the research "agree", so it
+was not a disagreement. Rebuilt as Socrates (Apology: "God only is wise", "the
+wisdom of men is little or nothing", "knows that his wisdom is in truth worth
+nothing") against Aristotle (NE VI.7, Ross: wisdom "the most finished of the
+forms of knowledge"; the wise man "must also possess truth about the first
+principles"; philosophic wisdom is "scientific knowledge, combined with
+intuitive reason, of the things that are highest by nature"). Both MIT
+Internet Classics Archive pages opened this session. The Berlin criterion
+sentence is kept as the modern middle position. quote_verify: 34 checked, the
+same 11 pre-existing abstract-only non-matches, none on the classics carriers.
+Still open for the supervisor: "Is there one wisdom, or two?" names no
+opposing party. Post-review requested.
