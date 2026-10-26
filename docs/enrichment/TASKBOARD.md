@@ -1,3 +1,17 @@
+## Worker checkpoint (2026-10-26 15:22Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+FIFTEENTH QC SAMPLE (taper window): right-intention.md and right-
+concentration.md. Both: dossier_check OK. right-concentration: 13
+checked / 1 not found — the PMC3627747 span RE-VERIFIED BY EYE via
+the fetch route: "There is ample empirical evidence for both the
+fatigue/resource-depletion and the boredom/absentmindedness
+accounts, but neither is consistent with all the available data."
+verbatim (Langner & Eickhoff 2012). right-intention: 36 checked / 3
+not found — at least one is an embedded-quote-fragment of the
+verifier's extraction class; all three left flagged for the next
+verification pass (taper time-box). No dossier text changed. Files
+touched: this checkpoint only.
+
 ## Worker checkpoint (2026-10-26 15:16Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 FOURTEENTH QC SAMPLE (taper window): meaning-and-mortality.md and
