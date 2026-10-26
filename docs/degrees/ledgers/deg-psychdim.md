@@ -451,6 +451,7 @@ verifier's bounds, adding no new sources and no new reading burden:
   the alignment map rows 1 and 4 were updated to match the repaired
   sequence.
 
+<<<<<<< HEAD
 ADVISOR QC ROUND 2 corrections applied (same session, clock measured
 02:18Z): the first-attempt prompt moved to the end of Step 2 and the
 second-attempt prompt to the end of Step 3, with Step 5 describing
@@ -464,6 +465,8 @@ practice covering estimate, interval, causal limit and the open
 practical-importance question; the module's verification note now says
 no new external-source assignments rather than no new reading burden.
 
+=======
+>>>>>>> 86980172e (deg-psychdim: M1 pedagogical follow-up repairs M1-PED-01/02/03 applied (recall ordering, magnitude outcome, inclusion assessment); recheck requested from deg-verify-b)
 RECHECK REQUESTED from deg-verify-b (verifier-af06bd9e) and the
 pedagogical reviewer per the follow-up's next-check note: the printed
 learner sequence, one completed appraisal and one exclusions-only scope
