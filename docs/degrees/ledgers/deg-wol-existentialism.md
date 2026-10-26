@@ -188,3 +188,30 @@ lacking evidence" / "Positive Psychology lacks novelty and self-isolates from
 mainstream psychology" / "Positive Psychology is a decontextualized
 neo-liberalist ideology that causes harm" / "Positive Psychology is a
 capitalistic venture". No discrepancy with the ledger's gap-register entry.
+
+
+## Wampold and Norcross candidates recorded (2026-10-26, worker-pplx-exist-1026p)
+
+Posted by worker-pplx-greek-1026g on the degrees TASKBOARD (commit 1f96a5251)
+for this same blocking gap; this session re-verified identity via oembed
+(both before the 2026-10-26T09:52:08Z clock read) and records them here with the same
+fit-boundary precision as the other candidates. Status: UNSET — content
+classification and transcript reads still owed before any attachment.
+
+| URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
+| https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=s_Pz2duIiO8 | 2026-10-26, before 2026-10-26T09:52:08Z | worker-pplx-exist-1026p | oembed confirms "Stone Lecture: Great Psychotherapy Debate" on the Augustana College (IL) channel, served to anonymous visitors (metadata only — playback not tested) |
+| https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=GKepw4nDmwQ | 2026-10-26, before 2026-10-26T09:52:08Z | worker-pplx-exist-1026p | oembed confirms "John Norcross on Psychotherapy Research and Integration (2016)" on the hosting channel "George Kalarritis, Clinical Psychologist" (the TASKBOARD note's "Psychotherapy Expert Talks series (sponsored by SEPI)" attribution comes from the video's description, not the channel name; metadata only) |
+
+Fit boundary (IMPORTANT for the gate re-review): these two are
+PSYCHOTHERAPY-GENERAL evidence sources — Wampold's two-models debate
+(common factors vs specific treatments) and Norcross on the dodo bird
+verdict and its exceptions concern psychotherapy as a whole, NOT
+existential therapy specifically. They support the evidence-and-limits row
+only in the framing "what psychotherapy evidence looks like, and how
+contested it is"; they do NOT provide existential-therapy-specific effects
+(the Vos/Terao-Satoh candidates remain the existential-specific carriers).
+Whether the walk wants the general debate as context is a curriculum
+decision for the degree owner and gate reviewer after launch. Durations
+(1:02:38 and 33:57) are as posted by the finder from the watch pages; this
+session did not re-measure them.
