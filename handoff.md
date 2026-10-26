@@ -1,3 +1,19 @@
+## 2026-10-26 ~07:00Z — orchestrator: WAVE 4 (repair-and-clear) ready to launch
+
+Wave 3 finished the drafts — every degree is drafted end to end (psychdim
+m1-m8, daoism m1-m5, buddhism b1-b9, pragmatism m1-m5) and the supervisor
+issued module-QC verdicts across the sets, but the T+58 sessions ended
+mid-cycle: most modules sit at BOUNDED RETURN with repair lists applied-
+and-awaiting-re-review, so no degree has all modules at PASS and nothing is
+published. WAVE 4 instructions + 8-agent allocation: TOP of
+docs/degrees/TASKBOARD.md ("WAVE 4 LAUNCH") — a bounded repair-and-clear
+wave (apply repairs, re-review to PASS, whole-degree QC, integrate,
+publish). Priority: the supervisor lane clears psychdim M4/M5/M6 first —
+it is the closest degree to online (5 of 8 modules already PASS). One owner
+item routed (not blocking): Rupert 2004 primary unreachable on four routes;
+wave-4 proceeds with the SEP/Sainani alternates unless the owner rules
+otherwise.
+
 ## 2026-10-26 (deg-verify-b verification handoff; commit stamps in history) — deg-verify-b: verification round complete (worker-pplx-degverifyb-1026f)
 
 Nine verification receipts + two advisor-QC correction passes pushed this

@@ -1,3 +1,54 @@
+## WAVE 4 LAUNCH (2026-10-26, orchestrator, post-wave-3 — REPAIR-AND-CLEAR wave: close modules to PASS, whole-degree QC, publish)
+
+Wave-3 outcome (all batons released at T+58, no publication): every degree
+is drafted END TO END — psychdim m1-m8, daoism m1-m5, buddhism b1-b9,
+pragmatism m1-m5 — and the supervisor ran module-QC across the sets, but
+sessions ended mid-cycle leaving modules at BOUNDED RETURN (repair lists
+issued, repairs not yet applied/re-reviewed) rather than PASS. Nothing is
+online because no degree has all modules at PASS yet. The remaining work is
+bounded and enumerated — apply repairs, re-review to PASS, whole-degree QC,
+integrate, publish. THIS IS THE CLOSING WAVE.
+
+Per-degree remaining items (from the supervisor's reviews and release lines):
+
+- deg-psychdim (CLOSEST — first degree online): m1/m2/m3/m7/m8 PASS;
+  M4 verification decision owed (indexed timed-transcript evidence covers the
+  original window — read the evidence receipt and rule); M5/M6 supervisor
+  delta reviews owed (bounded production adviser ACCEPTs recorded, hashes in
+  the band); M6 adviser verdict pending (credit exhaustion — retry).
+- deg-wol-daoism: m5 PASS; m1-m3 bounded returns (4 repairs each, lists in the
+  band file); m4 two open items (whole-talk-vs-scope ruling, lecture-content
+  re-verification via transcript route — the video re-verification
+  supersession notice at 06:31Z is the live state).
+- deg-wol-buddhism: b1-b9 drafted; per-module bounded-return repair lists in
+  the band file (b1 two narrow items, b2 six, etc.); b3 booklet measurement
+  documented-blocked (not a stopper).
+- deg-wol-pragmatism: m1-m5 drafted; m1 handed to supervisor module-QC with
+  media-verification limits documented; m4 word-count delta flagged for QC.
+
+Wave-4 allocation (8 agents):
+
+| Agent | Baton | Work |
+|-------|-------|------|
+| 1 | (enrichment supervisor baton — free) | THE ENGINE: re-review to PASS in priority order — psychdim M4/M5/M6 delta reviews FIRST (puts the first degree online), then daoism m1-m3 re-reviews, buddhism b1-b9, pragmatism m1-m5; whole-degree QC per completed set; publication flips with deg-integrate. |
+| 2 | deg-psychdim | Small repair lane: apply the M4/M5/M6 pending items with the supervisor; retry the M6 adviser round. |
+| 3 | deg-wol-daoism | Apply the m1-m3 bounded-return repairs; close the m4 two open items (scope ruling with the supervisor; lecture-content recheck via transcript route). |
+| 4 | deg-wol-buddhism | Apply the b1-b9 repair lists; per-module re-review requests to the supervisor. |
+| 5 | deg-wol-pragmatism | Address QC findings on m1-m5 (m4 word-count delta; m1 media limits already documented). |
+| 6 | deg-verify-a (or fresh) | Surviving verification flags: b9 boundary sentence, b7 key-moments authorship, m5 word-count 466-vs-473 (supervisor already verified 466 by own count), b4 captions, Neiye hosting/licensing, dead taskboard evidence pointer. |
+| 7 | deg-integrate | Attach + publish per degree as whole-degree QC passes — psychdim first, then daoism, buddhism, pragmatism. |
+| 8 | deg-gate (takeover — free) | Whole-degree gate review per completed set (scope/centering), supporting the supervisor's publication flips. |
+
+OWNER ITEM (routed by the supervisor, not blocking the wave): Rupert 2004
+cognition-Q2 primary is unreachable across four documented routes; the SEP
+primary route and Sainani 57:21 alternates are live — wave-4 proceeds with
+the alternates unless the owner rules otherwise.
+
+Rules carried over unchanged: owner decisions 6-8 (stop-gate closed;
+complete-only site display; video-first), no paywalled content, skill
+standard, independent review at every gate, save discipline. A degree goes
+online ONLY when every module passes and deg-integrate has attached it.
+
 ## WAVE 3 LAUNCH (2026-10-26, orchestrator, post-wave-2 assessment — COMPLETION + QC + PUBLICATION wave)
 
 PRODUCTION HANDOFF06:45Z: degree-2874787d released deg-psychdim after
