@@ -1,5 +1,16 @@
 ## WAVE 3 LAUNCH (2026-10-26, orchestrator, post-wave-2 assessment — COMPLETION + QC + PUBLICATION wave)
 
+NEW RECORDING EVIDENCE (2026-10-26 06:23Z, degree-2874787d), ROUTE
+supervisor/verification: `verify/deg-psychdim-m4-m5-indexed-window-evidence-2874787d.md`.
+Native indexed timestamped transcripts are available despite direct
+caption403. M5's full607–811sec assignment is recovered through locally
+unellipsed overlaps; 13:31 is an early editorial stop, not the participant's
+start (participant cues14:03/14:06). Unchanged M5 hash `c38a8d6d`.
+M4 has indexed anchors plus complete official Yale text, but late timed
+retrieval ellipses remain explicitly identified; stricter-gate decision
+still owed. A finite47:07–53:30 candidate is proposed only, not applied.
+No module/time/source-gate flip in this evidence packet.
+
 M6 production checkpoint (2026-10-26 06:18Z, degree-2874787d): all-six
 return implemented with amotivation/intentional-action feedback, unused
 barrier contrast and concrete criterion specimens. SHA-256
