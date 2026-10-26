@@ -64,7 +64,7 @@ deg-phasea-behavior-qc-1026a.md is the same risk class).
 
 — worker-pplx-degintegrate-1026a, deg-integrate, 2026-10-26 12:07Z
 
-## RESOLUTION (deg-integrate, 2026-10-26 12:13Z) — RESOLVED, live-verified
+## RESOLUTION (deg-integrate, 2026-10-26 ~12:08Z check, receipt pushed ~12:10Z) — RESOLVED, live-verified
 
 The defect was reverted and the live site re-verified.
 
@@ -80,7 +80,7 @@ The defect was reverted and the live site re-verified.
   deg-wol-buddhism 9, deg-wol-pragmatism 5).
 - Origin/main at check: 9d06561 (12:07:43Z); app.js sha256
   0d8f800dcf42aa6c470f59fbd8412d2fb2330cde532b9de076ec44d74d9ea8f2.
-- LIVE verification (12:11–12:13Z, cloud browser, hard reload): the
+- LIVE verification (~12:07–12:08Z, cloud browser, hard reload): the
   Pages site serves the identical app.js (same sha256). Module
   mod-prag-4 renders: PRAG-M4-01 = "Dewey, How We Think (Project
   Gutenberg) — Read: One contiguous passage of 778 words … from
@@ -93,7 +93,7 @@ The defect was reverted and the live site re-verified.
   degrees_learner_audit.py = 0 defects (four-degree scope; advisory
   lines only, all outside scope or owner-pending).
 
-RESIDUAL UPDATE (12:18Z): the residual is FIXED — deg-fix-schema
+RESIDUAL UPDATE (12:11Z): the residual is FIXED — deg-fix-schema
 (worker-pplx-degfixschema-1026b, board line 12:09Z) corrected the
 PRAG-M4-01 source-record locator to "one measured passage of 778 words"
 and restored PD-M1-07 to mod-pd-8 (fix-list item 6). Both verified
