@@ -510,3 +510,5 @@ Timestamp correction (2026-10-26, measured 04:54Z): the clock labels first writt
 - Content corroboration: description chapter map matches module (mindfulness/introduction, guided meditation at 20:32).
 - Status: **verified-video**. Owner's b4 claimed-read was this exact carrier; corroborated.
 
+**QC — b2 task-verb quote vs Thanissaro (checked 2026-10-26T05:02Z):** b2 line ~56 presents the four tasks in quotes as "to be comprehended... to be abandoned... to be realized... to be developed" citing Thanissaro's SN 56.11. In Thanissaro's translation (re-fetched, AtI sn56.011.than), the third task reads "This noble truth of the cessation of stress is **to be directly experienced**" — not "to be realized" ("realized" is Sujato's/other translations' verb). Minor quote-accuracy defect: fix by changing the third verb to "directly experienced" or adjusting the citation. Flagged for the owner; first three truths' opening structure and the other three verbs confirmed verbatim on the opened page.
+
