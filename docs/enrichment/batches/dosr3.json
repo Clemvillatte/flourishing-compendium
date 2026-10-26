@@ -1,7 +1,7 @@
 {
  "batch": "dosr3",
  "done": [
-  "2026-10-26 00:20Z STEP 0 scope check (sup-1026b-worker): all four assigned dossiers are ALREADY AT the 3-5 bar — the QC-7 below-bar list is STALE for this band too; no disagreement repairs needed. Incidental repair landed: story-card links re-pointed from the 23 removed duplicate ST copies to the kept first-registration copies (commit 424c8b9d9) after the supervisor duplicate reconciliation; dossier_check exit 0 for all four after the re-point; app.js data rebuilt.",
+  "2026-10-26 00:20Z STEP 0 scope check (sup-1026b-worker): all four assigned dossiers are ALREADY AT the 3-5 bar \u2014 the QC-7 below-bar list is STALE for this band too; no disagreement repairs needed. Incidental repair landed: story-card links re-pointed from the 23 removed duplicate ST copies to the kept first-registration copies (commit 424c8b9d9) after the supervisor duplicate reconciliation; dossier_check exit 0 for all four after the re-point; app.js data rebuilt.",
   "2026-10-26 02:10Z baton re-claimed (worker-pplx-dosr3-1026b): SUBSTANTIVE per-question review opened per the narrowed HANDOFF conclusion (STEP 0 verified counts and headings only; dosr2 is the model close). All four disagreement sections read in full, unfiltered. Provisional verdicts below use the same-proposition/same-conditions test; advisor-routed source re-opens in progress.",
   "2026-10-26 02:17Z substantive per-question review COMPLETE + repairs landed (commit efd958d): anger and cognition certified AT the 3-5 bar; agency and goals flagged BELOW bar with documented repair leads routed to the supervisor per the dosr2 model (right-mindfulness precedent).",
   "2026-10-26 02:21Z advisor QC round 2 corrections applied: agency Q3 downgraded to candidate (one-sided evidence), Rupert located-not-read documented, goals Q1 unsupported claim removed, goals Q3 made two-sided with the T&B evidential-defense quote (opened verbatim), cognition Q3 qualified with Haidt's hedge. Registry rebuilt for the three edited dossiers (agency 87 blocks, cognition 117, goals 88; app.js spliced, 42 published entries). All checks re-run: dossier_check exit 0 x3, density 0 dense x3, quote verification goals 0 / agency 0 / cognition 3 pre-existing unresolved (blocked hosts)."
@@ -15,59 +15,64 @@
   "agency": [
    {
     "q": "What the person's say covers (Epictetus control division vs Rotter locus / Bandura outcome-vs-efficacy)",
-    "verdict": "UNRESOLVED — Epictetus's normative division (act vs outcome) and Rotter's perception construct do not exclude each other; the Bandura mapping is the dossier's own parallel ('the Stoic line drawn in psychological dress'), not a denial. No opened passage denies the other side's claim under the same conditions."
+    "verdict": "UNRESOLVED \u2014 Epictetus's normative division (act vs outcome) and Rotter's perception construct do not exclude each other; the Bandura mapping is the dossier's own parallel ('the Stoic line drawn in psychological dress'), not a denial. No opened passage denies the other side's claim under the same conditions."
    },
    {
     "q": "Does the feeling of choosing cause the act? (Wegner vs Baumeister/Masicampo/Vohs 2011)",
-    "verdict": "UNRESOLVED — the dossier itself states the two abstracts 'do not contradict each other as sharply as the titles suggest' and 'both can be true': Wegner denies the feeling reveals the causal chain; Baumeister et al. affirm conscious thoughts move behavior indirectly. Different propositions (feeling vs thought), both may hold. Repair lead for a future pass: the full texts (Wegner 2002 book; Baumeister et al. 2011) may contain a genuine head-on on causal efficacy; not opened this session."
+    "verdict": "UNRESOLVED \u2014 the dossier itself states the two abstracts 'do not contradict each other as sharply as the titles suggest' and 'both can be true': Wegner denies the feeling reveals the causal chain; Baumeister et al. affirm conscious thoughts move behavior indirectly. Different propositions (feeling vs thought), both may hold. Repair lead for a future pass: the full texts (Wegner 2002 book; Baumeister et al. 2011) may contain a genuine head-on on causal efficacy; not opened this session."
    },
    {
     "q": "Is bringing the self into line a form of control or a lesser one? (Rothbaum/Weisz/Snyder 1982 vs Heckhausen/Schulz 1995)",
-    "verdict": "CANDIDATE (downgraded from provisional PASS after advisor QC): the Gould 1999 vs Heckhausen/Schulz 1999 same-journal exchange is documented, but only the reply's side was opened (verbatim via eutils); Gould's text was not obtained, so his side reaches the dossier through the reply's account — one-sided evidence does not certify a two-sided disagreement. Dossier wording corrected to 'I did not obtain an open copy of his text'. Repair lead for a future pass: obtain Gould 1999 (Psychological Review 106(3), 597-604) or an equivalent primary statement of the cross-cultural objection before certifying."
+    "verdict": "CANDIDATE (downgraded from provisional PASS after advisor QC): the Gould 1999 vs Heckhausen/Schulz 1999 same-journal exchange is documented, but only the reply's side was opened (verbatim via eutils); Gould's text was not obtained, so his side reaches the dossier through the reply's account \u2014 one-sided evidence does not certify a two-sided disagreement. Dossier wording corrected to 'I did not obtain an open copy of his text'. Repair lead for a future pass: obtain Gould 1999 (Psychological Review 106(3), 597-604) or an equivalent primary statement of the cross-cultural objection before certifying."
    }
   ],
   "anger": [
    {
     "q": "Is anger ever fitting? (Aristotle NE IV.5 vs Seneca De Ira)",
-    "verdict": "PASS — direct head-on: Aristotle praises anger at the right things/people/times; Seneca denies the fitting case exists (anger is by definition a mistake). Same proposition, opposite answers."
+    "verdict": "PASS \u2014 direct head-on: Aristotle praises anger at the right things/people/times; Seneca denies the fitting case exists (anger is by definition a mistake). Same proposition, opposite answers."
    },
    {
     "q": "Does courage need anger? (Aristotle NE III.8 vs Seneca On Anger I.9)",
-    "verdict": "PASS — certified by direct source re-open this session: Seneca De Ira I.9 (Gutenberg) reports the Aristotelian soldier view and attacks it with the dilemma ('if it listens to reason... it is no longer anger... if... disobedient... useless... either anger is not anger, or it is useless'); Aristotle NE III.8 (MIT Classics) affirms 'brave men act for honour's sake, but passion aids them' and courage-from-passion 'is courage if choice and motive be added'. Head-on on whether anger can aid courageous action under reason's direction."
+    "verdict": "PASS \u2014 certified by direct source re-open this session: Seneca De Ira I.9 (Gutenberg) reports the Aristotelian soldier view and attacks it with the dilemma ('if it listens to reason... it is no longer anger... if... disobedient... useless... either anger is not anger, or it is useless'); Aristotle NE III.8 (MIT Classics) affirms 'brave men act for honour's sake, but passion aids them' and courage-from-passion 'is courage if choice and motive be added'. Head-on on whether anger can aid courageous action under reason's direction."
    },
    {
     "q": "Does venting discharge anger, or does time? (catharsis theory vs Bushman 2002)",
-    "verdict": "PASS — Bushman's controlled experiment directly tests and refutes the catharsis claim it states; the Seneca delay advice is a convergent practical conclusion, honestly flagged as a different kind of claim (advice vs controlled comparison)."
+    "verdict": "PASS \u2014 Bushman's controlled experiment directly tests and refutes the catharsis claim it states; the Seneca delay advice is a convergent practical conclusion, honestly flagged as a different kind of claim (advice vs controlled comparison)."
    }
   ],
   "cognition": [
    {
     "q": "Must representativeness be defined before it can explain judgments? (Gigerenzer 1996 vs Kahneman/Tversky 1996)",
-    "verdict": "PASS — same-journal exchange; K&T explicitly answer Gigerenzer's objection ('This objection misses the point...') and Gigerenzer explicitly denies the label-based program. Direct."
+    "verdict": "PASS \u2014 same-journal exchange; K&T explicitly answer Gigerenzer's objection ('This objection misses the point...') and Gigerenzer explicitly denies the label-based program. Direct."
    },
    {
     "q": "Does cognition extend into the world, or only embed itself in it? (Clark/Chalmers vs Rupert)",
-    "verdict": "PASS — Rupert's 2004 primary LOCATED but NOT READ this session (philarchive fetch returned 403; checker cache confirms FETCHFAIL). The genuine opposition (extended vs embedded cognition) is carried by the SEP exposition of both sides, which the dossier quotes and attributes transparently; the primary is now cited with an honest 'located but could not open' note. Do not treat this as an opened-primary upgrade."
+    "verdict": "PASS \u2014 Rupert's 2004 primary LOCATED but NOT READ this session (philarchive fetch returned 403; checker cache confirms FETCHFAIL). The genuine opposition (extended vs embedded cognition) is carried by the SEP exposition of both sides, which the dossier quotes and attributes transparently; the primary is now cited with an honest 'located but could not open' note. Do not treat this as an opened-primary upgrade."
    },
    {
     "q": "Does reasoning cause moral judgments, or explain them afterwards? (Haidt 2001 vs Pizarro/Bloom 2003)",
-    "verdict": "PASS with qualification — Haidt's own position is in the dossier (verbatim, previously verified: 'moral reasoning does not cause moral judgment; rather, moral reasoning is usually a post hoc construction'); Pizarro/Bloom's abstract (re-opened verbatim) states the model's claim that 'Conscious deliberations play little causal role' and presents evidence that 'moral intuitions are actually shaped and informed by prior reasoning'. Haidt's 'usually' hedge and P&B's attack on the STRONG claim mean the sources do not fully exclude each other; the dossier records this honestly ('Haidt's usually and generally leave reasoning some work'). Recorded as a genuine same-journal challenge with the hedge noted, not a knock-down."
+    "verdict": "PASS with qualification \u2014 Haidt's own position is in the dossier (verbatim, previously verified: 'moral reasoning does not cause moral judgment; rather, moral reasoning is usually a post hoc construction'); Pizarro/Bloom's abstract (re-opened verbatim) states the model's claim that 'Conscious deliberations play little causal role' and presents evidence that 'moral intuitions are actually shaped and informed by prior reasoning'. Haidt's 'usually' hedge and P&B's attack on the STRONG claim mean the sources do not fully exclude each other; the dossier records this honestly ('Haidt's usually and generally leave reasoning some work'). Recorded as a genuine same-journal challenge with the hedge noted, not a knock-down."
    }
   ],
   "goals": [
    {
     "q": "Does the criticism of goal-setting make its case? (Ordonez et al. vs Locke/Latham)",
-    "verdict": "PASS with carrier caveat — the exchange is real and same-issue; the founders' rejoinder is closed access and its quoted line reaches the dossier through CBS News's report (dossier wording corrected: the 'matches the published text' claim was removed as unsupported — the mirror text was seen only via search results)."
+    "verdict": "PASS with carrier caveat \u2014 the exchange is real and same-issue; the founders' rejoinder is closed access and its quoted line reaches the dossier through CBS News's report (dossier wording corrected: the 'matches the published text' claim was removed as unsupported \u2014 the mirror text was seen only via search results)."
    },
    {
     "q": "Should an aim be set on the outcome or on the attempt? (Locke/Latham vs Cicero's Stoic archer)",
-    "verdict": "UNRESOLVED — the dossier itself says 'the two stances answer different questions, so I do not call either of them refuted' (empirical performance vs where the good of a life sits). A structured comparison, not a head-on denial."
+    "verdict": "UNRESOLVED \u2014 the dossier itself says 'the two stances answer different questions, so I do not call either of them refuted' (empirical performance vs where the good of a life sits). A structured comparison, not a head-on denial."
    },
    {
     "q": "Does picturing the aim help the one who pursues it? (Taylor/Brown 1988 vs Oettingen/Mayer 2002; Colvin/Block 1994)",
-    "verdict": "PASS — REPAIRED and now TWO-SIDED on opened sources: Colvin/Block 1994 abstract (eutils, verbatim: 'failed to substantiate... remains unproven') vs Taylor/Brown 1994 reply (ucla.edu PDF, verbatim: 'we believe our 1988 assertions are buttressed, not challenged, by subsequent evidence' + the reaffirmation close). Both sides' evidential positions opened; quote verification 0 not found. The T&B-1988 vs Oettingen/Mayer axis stays honestly recorded as a non-contradiction (different constructs)."
+    "verdict": "PASS \u2014 REPAIRED and now TWO-SIDED on opened sources: Colvin/Block 1994 abstract (eutils, verbatim: 'failed to substantiate... remains unproven') vs Taylor/Brown 1994 reply (ucla.edu PDF, verbatim: 'we believe our 1988 assertions are buttressed, not challenged, by subsequent evidence' + the reaffirmation close). Both sides' evidential positions opened; quote verification 0 not found. The T&B-1988 vs Oettingen/Mayer axis stays honestly recorded as a non-contradiction (different constructs)."
    }
   ]
  },
- "reconciliation": "FINAL TALLY after advisor QC round 2 (2026-10-26 02:21Z, corrections applied): anger 3 PASS (at bar; certification via direct re-opens of Seneca De Ira I.9 and Aristotle NE III.8); cognition 3 PASS (Q2 carrier caveat documented, Q3 qualified); goals 2 PASS + 1 unresolved (BELOW bar, flagged); agency 0 certified + 2 unresolved + 1 candidate (BELOW bar, flagged). CORRECTIONS from advisor audit: (a) agency Q3 downgraded to candidate — Gould's side not opened; (b) Rupert primary located but not read (403), dossier note corrected; (c) goals Q1 'matches published text' claim removed; (d) check counts corrected — dossier_check/density/quote_verify ran on the THREE edited dossiers (agency, cognition, goals); anger was not edited so no re-checks were needed; (e) cognition's 3 NOT FOUND quotes are UNRESOLVED checks on blocked hosts (Science.org, PMC, Columbia PDF), not verified this session; (f) timestamps corrected: the provisional record's 02:25Z/02:27Z entries were estimates — actual commit times were 92dbbce ~02:14Z and efd958d 02:17Z; use commit times, not estimates."
+ "reconciliation": "FINAL TALLY after advisor QC round 2 (2026-10-26 02:21Z, corrections applied): anger 3 PASS (at bar; certification via direct re-opens of Seneca De Ira I.9 and Aristotle NE III.8); cognition 3 PASS (Q2 carrier caveat documented, Q3 qualified); goals 2 PASS + 1 unresolved (BELOW bar, flagged); agency 0 certified + 2 unresolved + 1 candidate (BELOW bar, flagged). CORRECTIONS from advisor audit: (a) agency Q3 downgraded to candidate \u2014 Gould's side not opened; (b) Rupert primary located but not read (403), dossier note corrected; (c) goals Q1 'matches published text' claim removed; (d) check counts corrected \u2014 dossier_check/density/quote_verify ran on the THREE edited dossiers (agency, cognition, goals); anger was not edited so no re-checks were needed; (e) cognition's 3 NOT FOUND quotes are UNRESOLVED checks on blocked hosts (Science.org, PMC, Columbia PDF), not verified this session; (f) timestamps corrected: the provisional record's 02:25Z/02:27Z entries were estimates \u2014 actual commit times were 92dbbce ~02:14Z and efd958d 02:17Z; use commit times, not estimates.",
+ "audit_close_2026_10_26": {
+  "post_close_verifications": {
+   "cognition_q3_02:27:06Z": "RESOLVED this session (worker-pplx-dosr3-1026b): the two Haidt 2001 quotes and both Pizarro-Bloom 2003 quotes re-verified VERBATIM on freshly opened carriers (eutils 11699120; Europe PMC core record 12529062). The opposing propositions oppose genuinely on the causal role of conscious deliberation (Haidt: reasoning does not cause judgment, usually post hoc, generally quick automatic intuitions; Pizarro-Bloom: intuitions shaped and informed by prior reasoning, limiting the model's strong claims of deliberation's irrelevance), with both sides' hedges preserved in the dossier's own text. VERDICT UPGRADED from PROVISIONAL to PASS-WITH-QUALIFICATION (abstracts are the dossier's cited carriers and are now verified verbatim; a full-text read of both papers remains available to a future worker but is not needed for the quotes as cited)."
+  }
+ }
 }

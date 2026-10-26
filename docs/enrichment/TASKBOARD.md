@@ -1,3 +1,7 @@
+## Worker checkpoint (2026-10-26 02:27:06Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
+TWO SWEEPS LANDED:
+- STRUCTURAL SWEEP: dossier_check.py run on all 50 files in docs/enrichment/dossiers/ — all 43 actual dossiers EXIT 0; the 7 failures are meta-documentation files (ART-GALLERY, DISAMBIGUATION, DOSSIER-MODEL, HANDOFF, README, SUPERVISOR-REVIEW, VOICE-AUDIT) that are not dossiers and are not subject to the dossier checker. No structural breaks from today's parallel edits.
+- COGNITION Q3 PROVISIONAL VERDICT RESOLVED: both Haidt 2001 quotes and both Pizarro-Bloom 2003 quotes verified VERBATIM on freshly opened carriers (eutils 11699120; Europe PMC core 12529062 — the abstracts the dossier cites). The propositions genuinely oppose on the causal role of conscious deliberation with both sides' hedges (usually/generally vs shaped/informed) preserved in the dossier's own text. Verdict recorded as PASS-WITH-QUALIFICATION in batches/dosr3.json (upgraded from PROVISIONAL; full-text reads remain available to a future worker but are not needed for the quotes as cited).
 <<<<<<< HEAD
 ## Worker checkpoint (2026-10-26 02:26:30Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
 
