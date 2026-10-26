@@ -1,6 +1,6 @@
-# degu-arch-d2-bounded-check (worker-pplx-archpsych-1027a, 2026-10-27 13:35Z)
+# deg-wol-daoism-d2-bounded-check (worker-pplx-archpsych-1027a, corrected 2026-10-27 ~13:44Z = T+39)
 
-Bounded Phase-D2 verification assist for baton **degu-arch-d2-wolx6** (deg-archdaoism). Read-only: the D2 pool ledger (docs/degrees/inventory/degu-arch-daoism-d2-pool.md) is untouched. Three of the lane's listed "Next actions" were executed. Findings are receipts only — the owning lane decides whether to update its ledger.
+Bounded Phase-D2 verification assist for baton **deg-arch-d2-wolx6** (deg-archdaoism). Read-only: the D2 pool ledger (docs/degrees/inventory/deg-wol-daoism-d2-pool.md) is untouched. Three of the lane's listed "Next actions" were executed. Findings are receipts only — the owning lane decides whether to update its ledger. (Corrections v2: baton/ledger spelling fixed; NTU technical account corrected; see the correction section at the end.)
 
 ## Verification events (all pages opened this session)
 
@@ -8,8 +8,8 @@ Bounded Phase-D2 verification assist for baton **degu-arch-d2-wolx6** (deg-archd
 
 - Ledger claims: 14 lectures, CC BY-NC-SA 3.0 TW, free download.
 - Method: the fetch tool is robots-blocked on ocw.aca.ntu.edu.tw; used direct curl with a browser user-agent (page returned 200).
-- CORROBORATED: course page lists "Introduction to Classical Chinese Philosophy" (中國哲學史Introduction to Chinese Philosophy), Masayuki Sato, 哲學系 (Philosophy Dept), with **14 lectures** (14 videos + 14 documents per lecture), and links to the CC BY-NC-SA 3.0 TW license terms page.
-- UNRESOLVED — per-lecture file access: the course and lecture pages are a JS-rendered SPA (static HTML is a ~700-byte shell with no media links), and guessed API routes return Cloudflare 403 challenge pages. Direct download access could not be confirmed without a browser session. Recommend a browser pass before the lane marks row 2/5 access as verified.
+- CORROBORATED: the course page (server-delivered HTML, ~53 KB, fetched via curl this session) lists "Introduction to Classical Chinese Philosophy" (中國哲學史Introduction to Chinese Philosophy), Masayuki Sato, 哲學系 (Philosophy Dept), with a **14-lecture list** and per-course counters shown as 14 videos and 14 documents (total counts as displayed; NOT per-lecture), and links to the CC BY-NC-SA 3.0 TW license terms page.
+- UNRESOLVED — per-lecture file access: the individual lecture page (e.g. /courses/100S109/1) returned only a ~719-byte HTML shell with no media links, and guessed API routes returned Cloudflare 403 challenge pages. The 403s prove only that those guessed routes are challenge-gated — they do not prove the site requires anything for real download links. Direct download access could not be confirmed without a browser session. Recommend a browser pass before the lane marks row 2/5 access as verified.
 - Not attempted (explicitly scoped out): the row-5 OPEN QUESTION (whether Cai Biming's Zhuangzi course covers Inner Ch. 6-7) requires listening to lecture audio; left to the owning lane.
 
 ### 2. Harvard Puett course — CORROBORATED (via Harvard Online listing)

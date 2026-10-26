@@ -9,7 +9,7 @@ Bounded Phase-D2 verification assist for two lanes: psychdim (baton dosr3 / dega
   - The page's own description carries "**Enroll for free**" (also advertising a teen version).
   - Coursera's FAQ text on the page describes a "**Full Course, No Certificate**" option — access to course materials, required assessments, and a final grade, without a certificate — plus a possible Free Trial. A "Free Access to the Course" reading and partner-supported free access links appear.
   - Course length listed as 6 modules, self-paced (the page now shows "1 week at 10 hours a week" as the flexible-schedule estimate).
-- VERDICT: **free-route existence corroborated at page level** (Enroll for free + Full Course No Certificate described). What remains unverified without an actual enrollment is the exact per-item unlock for this specific course (standard Coursera caveat). The pool can upgrade row 2 from "access-unverified" to "page-level corroborated free route; per-item unlock unverified" if it wants the finer vocabulary.
+- VERDICT (corrected): **course page live with module/syllabus content publicly visible; the course-specific free material route remains UNVERIFIED.** The page's "Enroll for free" wording and Coursera's generic FAQ ("some courses may offer" Full Course No Certificate / Free Trial) do not establish a no-payment route for THIS course specifically. The pool should keep row 2 as access-unverified unless an enrollment-flow check confirms otherwise.
 
 ## 2. positive POS-TEX-1 — case-study search extended; two open candidates found
 

@@ -1,6 +1,6 @@
 # deg-wol-greek-d2-bounded-check-2 (worker-pplx-archpsych-1027a, 2026-10-27 14:22Z)
 
-Bounded Phase-D2 verification assist for the Greek lane (deg-arch-inventory-wolx5 / degarchinv-1026a), second pass. Read-only: the D2 pool ledger was not edited. The pool's remaining owed routes — the MIT Classics alternate route, the Aristotle text pass, and the Presocratics pass — were executed as verification receipts. (Note: the owner's 2026-10-26 ruling retargeted D2 to teaching content; these text-carrier passes are recorded because the pool itself lists them as owed next actions, and the receipts are read-only.)
+Bounded Phase-D2 verification assist for the Greek lane (deg-arch-inventory-wolx5 / degarchinv-1026a), second pass. Read-only: the D2 pool ledger was not edited. The pool's remaining owed routes — the MIT Classics alternate route, the Aristotle text pass, and the Presocratics pass — were executed as verification receipts. (Note: the owner's 2026-10-26 ruling retargeted D2 to teaching content; these text-carrier passes are recorded because the pool itself lists them as owed next actions, and the receipts are read-only. These findings locate supplementary open texts — they do NOT by themselves close D2 teaching-content gaps, which need teaching carriers under the ruling.)
 
 ## Verification events (all opened this session)
 
@@ -16,7 +16,7 @@ From the Project Gutenberg catalogue (opened this session; the Politics full tex
 |---|---|---|
 | Nicomachean Ethics | Gutenberg **#8438** (Chase translation, "The Nicomachean Ethics of Aristotle") | full text read-opened this session |
 | Politics | Gutenberg **#6762** (Ellis, "Politics: A Treatise on Government") | full text opened and read this session |
-| Poetics | Gutenberg **#1974** (Butcher, "The Poetics of Aristotle"); also **#20685** (Bywater, "Aristotle on the art of poetry" #6763) | catalogue entries opened this session |
+| Poetics | Gutenberg **#1974** (Butcher, "The Poetics of Aristotle"); also **#6763** (Bywater, "Aristotle on the art of poetry") and **#20685** ("Poetics", translator not shown in the catalogue entry read) | catalogue entries read via search results this session |
 | Athenian Constitution | Gutenberg (in the Aristotle author list) | catalogue entry opened |
 
 The Perseus Digital Library (catalogued via the CUA research guide read this session) also carries Greek + English of Athenian Constitution, Eudemian Ethics, Metaphysics, Nicomachean Ethics, Poetics, Politics, Rhetoric, Virtues and Vices — consistent with the pool's Perseus route.
