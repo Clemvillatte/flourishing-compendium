@@ -32,9 +32,10 @@ of m3 (the Zhuangzi on skill, wu wei and losing the self).
    case in your own life, naming what matters in the case, what the
    reversal helps you understand or choose there, and one thing the
    case leaves uncertain.
-3. Compare two readings of the same Daodejing chapter and name
-   where they disagree, saying which reading you find more useful
-   for your own life and why.
+3. Compare two accounts of the same Daodejing chapter, naming where
+   they agree, where they differ in emphasis, and any genuine
+   tension, then saying which account you find more useful for your
+   own life and why.
 4. Execute a complete guided reading sequence of a Daodejing chapter
    from start to finish, with the primary text in front of you,
    without the module's worked demonstration.
@@ -46,13 +47,14 @@ map at the end shows where.
 
 ### Step 1: the reversal move, taught (Outcome 2)
 
-The Daodejing's most frequent move is reversal: the text says the
-source of what you value is the thing you dismiss. The low is the
-high; the dark is the light; the formless gives form; the unnamed
-names. This is not a paradox for the sake of being difficult; it is
-a teaching about where value actually comes from, and the module's
-first job is to make sure you can see the move in a chapter before
-you try to use it.
+The recurring contrast this module examines is reversal: the chapters
+assigned here say the source of what you value is the thing you
+dismiss. The low is the high; the dark is the light; the formless
+gives form; the unnamed names. This is not a paradox for the sake of
+being difficult; it is a teaching about where value comes from in
+the chapters examined in this module, and the module's first job
+is to make sure you can see the move in a chapter before you try
+to use it.
 
 Watch the assigned Ziporyn segments first; they teach the move in
 its strongest form.
@@ -76,67 +78,74 @@ Here are three more chapters that make the same move in different
 registers, so you can see it is not a one-off trick.
 
 2. [Daodejing, translated by Robert Eno](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content).
-   Read chapters 11, 36 and 78 in full (about 290 words measured
+   Read chapters 11, 36 and 78 in full, twice each (228 words measured
    across the three, on the downloaded full text).
 
-Chapter 11 makes the move on emptiness: thirty spokes share one
-hub, but it is the hole in the middle that makes the wheel useful;
-clay is shaped into a vessel, but it is the hollow inside that
-makes the vessel useful; doors and windows are cut for a room, but
-it is the empty space that makes the room livable. The chapter ends
-by naming the reversal directly: the existent (the named, the
-formed) gives benefit, the nonexistent (the unnamed, the formless)
-gives use.
+Chapter 11 makes the move on emptiness: thirty spokes share a
+single hub, but grasp the nothingness at its center to get the use
+of the wheel; clay is fashioned to make a vessel, but grasp the
+nothingness at its center to get the use of the vessel; bore
+windows and doors to create a room, but grasp the nothingness of
+the interior to get the use of the room. The chapter ends by naming
+the reversal directly: that which is constitutes what is valuable,
+but that which is not constitutes what is of use.
+([Eno, Daodejing, chapter 11](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content).)
 
-Chapter 36 makes the move on strategy: what you would shrink you
-must first stretch; what you would weaken you must first strengthen;
-what you would take you must first give. The chapter reads as a
-manual for acting against the obvious direction, and its closing
-line, "the fish should not leave the deep; the state's sharp
-weapons should not be shown to people", names the same reversal
-applied to power.
+Chapter 36 makes the move on strategy: to shrink it you must
+stretch it; to weaken it you must strengthen it; to discard it you
+must raise it up; to seize it you must bestow it. The chapter reads
+as a manual for acting against the obvious direction, and its
+closing lines, "the weak and supple overcomes the strong and hard"
+and "fish must not emerge from the deeps; the vital tools of a state
+must not be revealed", name the same reversal applied to power.
+([Eno, Daodejing, chapter 36](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content).)
 
 Chapter 78 makes the move on softness: nothing in the world is
-softer than water, yet nothing is better at overcoming the hard and
-the strong; this is because nothing can substitute for it. The
-chapter then says everyone in the world knows this but no one can
-put it into practice, and closes with the reversal stated in its
-plainest form: the sage says accepting the humiliation of the state
-is being the ruler of the altar to soil and grain; accepting the
-misfortune of the state is being the king of the world.
+more weak and soft than water, yet nothing surpasses it in
+conquering the hard and strong. The chapter then says all know
+that the weak conquers the strong and the soft conquers the hard,
+but none are able to act on this, and closes with the reversal
+stated in its plainest form: the sage says he who receives the
+derision of the state is the lord of the state altars; he who
+receives the misfortune of the state is the king of the world.
+([Eno, Daodejing, chapter 78](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content).)
 
 ### Step 2: applying the reversal to your own case (Outcome 2)
 
 Now take the reversal move and apply it to a case in your own life.
 The worked demonstration uses the same three-part reflection you
-learned in m1, applied to a case where the reversal is the useful
-move rather than the obvious one.
+learned in m1, applied to a case where the reversal is one possible
+contribution rather than the whole story. The case is hypothetical,
+written for this module; it is not a finding about anyone, and you
+should test it against your own experience rather than treat it as
+a diagnosis.
 
 The case: a person is stuck in a job they dislike and is trying to
 force themselves to feel motivated about it, believing that if they
 could just find the right motivation the work would become
-bearable. The forcing is itself the problem, and the harder they
-force the more the work resists.
+bearable.
 
-What matters in the case: the person's actual difficulty is not the
-job's content but the forcing; the job is a container for the
-forcing, and the forcing is what makes the container feel
-unbearable.
+What matters in the case: the forcing is one possible contributor to
+how unbearable the work feels; the case does not establish that the
+forcing is the only or even the main contributor, and the job's
+actual content, the person's circumstances outside work, or the fit
+between the two could each be doing more of the work.
 
 What the reversal helps with: the Daodejing's reversal says the
-source of what you value is the thing you dismiss. Applied here, the
-dismissed thing is not the job's pleasantness but the person's
-exhaustion, and the move is to stop treating the exhaustion as an
-obstacle to be forced past and start treating it as information
-about what is actually happening. The reversal does not tell the
-person to quit or to stay; it tells them to stop pretending the
-exhaustion is not there.
+source of what you value is the thing you dismiss. Applied here, one
+dismissed thing is the person's exhaustion, and one possible move is
+to stop treating the exhaustion as an obstacle to be forced past
+and start treating it as information about what is happening. The
+reversal does not tell the person to quit or to stay, and it does
+not establish that the response to circumstances is the real
+problem; it offers a way of noticing what the forcing was hiding.
 
 What the case leaves uncertain: whether the exhaustion is a signal
-that the job is wrong for this person, or a signal that the person
-is tired for reasons that have nothing to do with the job. The
-reversal does not answer that; it only stops the forcing that was
-making the question unanswerable.
+that the job is wrong for this person, a signal that the person is
+tired for reasons that have nothing to do with the job, or a signal
+that the job and the person's circumstances need to change together.
+The reversal does not answer that; it only stops the forcing that was
+making the question hard to examine.
 
 Retrieval activity 1 (closed book, now): from memory, write your
 own three-part reflection on a case in your life where you are
@@ -173,31 +182,39 @@ become the leader of the officers of state. Thus the greatest
 carving never cuts."
 ([Eno, Daodejing, chapter 28](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content).)
 
-Ziporyn's lecture reads this chapter as being about the unnamed
-sustaining the named: the sage knows the carved (the
-differentiated, the useful, the named) but preserves the uncarved
-block (the undifferentiated, the useless, the unnamed), and the
-chapter's closing line, "the greatest carving never cuts", is the
-reversal stated as a practice: the most effective action is the one
-that does not force ([Ziporyn, Why This Text Matters, chapter
-26:15](https://www.youtube.com/watch?v=EJ1bB2w2gBk&t=1575s)).
+Ziporyn's lecture reads this chapter through the A/B structure he
+traces through the whole text: to know the masculine while also
+maintaining the feminine is to be a channel for all the world, and
+that channel is what he calls "another B term, an emptiness or a
+valley that draws things to it, a nonbeing that has this unexpected
+power". On the closing line, his translation reads "The great
+structuring carves, but it does not sever", and he explains it as
+"a base relief, rather than actually carving things out and
+separating them off from that background"
+([Ziporyn, Why This Text Matters, transcript passage beginning "I
+would now turn you to chapter 28"](https://youtubetotranscript.com/transcript?v=EJ1bB2w2gBk&current_language_code=en)).
 
-Now compare the two readings. Eno's translation presents the
-chapter as a series of parallel statements: one who knows the male
-but preserves the female, one who knows white but preserves black,
-one who knows glory but preserves shame. The lecture's reading
-presents the chapter as a single sustained argument about the
-relationship between the carved and the uncarved block. The two
-readings do not disagree about the text's content; they disagree
-about what the chapter is doing. Eno's parallel statements read the
-chapter as three variations on one move; the lecture's reading
-treats the variations as one argument about the uncarved block
-sustaining the carved vessels, so the chapter is not three
-instructions but one claim about where use comes from.
+Now compare the two accounts. Eno's translation and the lecture's
+translation agree on the chapter's content: know the one, preserve
+the other, become the valley or the standard or the ravine, and the
+closing line is about carving without severing. They differ in
+emphasis. Eno's translation renders the closing line "Thus the
+greatest carving never cuts"; the lecture renders it "The great
+structuring carves, but it does not sever" and builds its whole
+A/B reading of the text around the hewn and the unhewn, treating
+chapter 28 as the place where that structure becomes explicit. The
+difference is not a disagreement about what the chapter says; it is
+a difference in how much weight each account puts on the closing
+line as a key to the whole text. Eno's translation presents the
+chapter as one of eighty-one chapters, translated plainly; the
+lecture presents the chapter as the text's own statement of its
+governing structure.
 
 Write a short comparison (100 to 200 words) naming where the two
-readings disagree and which you find more useful for your own life,
-with a reason. That is the draft of graded deliverable b.
+accounts agree, where they differ in emphasis, and any genuine
+tension you see between them, and say which account you find more
+useful for your own life, with a reason. That is the draft of
+graded deliverable b.
 
 ### Step 4: your own guided reading (Outcome 4)
 
@@ -246,9 +263,11 @@ against the primary text before you finalise.
      something. 200 to 400 words. The rubric's criterion 1 governs
      this.
   b. The comparison deliverable (Outcome 3): your comparison of the
-     two readings of chapter 28, naming where they disagree and
-     which you find more useful for your own life, with a reason.
-     100 to 200 words. The rubric's criterion 2 governs this.
+     two accounts of chapter 28, naming where they agree, where
+     they differ in emphasis, any genuine tension you see, and which
+     account you find more useful for your own life, with a
+     reason. 100 to 200 words. The rubric's criterion 2 governs
+     this.
   c. The chapter-reading deliverable (Outcomes 1 and 4): your
      five-part reading of chapter 16 or 44: the exact passage, the
      image, the move, a defensible interpretation, and one
@@ -259,60 +278,73 @@ against the primary text before you finalise.
 ## Rubric (observable criteria)
 
 1. The reversal-application deliverable names a real case in the
-   learner's life, applies the reversal rather than the obvious
-   move, and names what matters, what the reversal helps with, and
-   one thing the case leaves uncertain. Strong: "What mattered in
-   my case was that I kept trying to make my book club read the
-   books I wanted to read and the forcing was itself the problem;
-   the reversal helps me see that the thing I dismissed, the members'
-   actual boredom with my choices, was the information I needed, and
-   the move was to stop presenting and start asking what they
-   wanted; what it leaves uncertain is whether the club is worth
-   saving at all, and the reversal does not answer that."
-   Rejection: "Wu wei means going with the flow and I should relax"
-   (everyday usage, no reversal applied, no three parts named).
-2. The comparison deliverable names a real disagreement between two
-   readings of chapter 28, says which reading the learner finds more
-   useful for their own life, and gives a reason. Strong: "Eno's
-   imperatives read the chapter as instructions to know the male
-   and keep to the female; the lecture reads the same lines as one
-   move repeated across three domains, so the chapter is not three
-   instructions but one argument about the hewn and the unhewn; I
-   find the lecture's reading more useful because I do not need
-   three separate rules, I need one move I can apply to any domain,
-   and the lecture gives me that." Rejection: "The two readings are
-   different but both are valid" (no disagreement named, no
-   preference, no reason).
+   learner's life, applies the reversal as one possible
+   contribution rather than as the whole story, and names what
+   matters, what the reversal helps with, and one thing the case
+   leaves uncertain. Strong: "What mattered in my case was that I
+   kept trying to make my book club read the books I wanted to
+   read; the case does not establish that the forcing was the only
+   or the main contributor to how bad the meetings felt, and the
+   book club's actual fit with the members could have been doing
+   more of the work; the reversal helps me see that the thing I
+   dismissed, the members' actual boredom with my choices, was
+   information I needed, and one possible move was to stop
+   presenting and start asking what they wanted; what it leaves
+   uncertain is whether the club is worth saving at all, and the
+   reversal does not answer that." Rejection: "Wu wei means going
+   with the flow and I should relax" (everyday usage, no reversal
+   applied, no three parts named).
+2. The comparison deliverable names where the two accounts of
+   chapter 28 agree, where they differ in emphasis, and any genuine
+   tension, then says which account the learner finds more useful
+   for their own life, with a reason. Strong: "Both accounts agree
+   the chapter is about knowing one thing and preserving its
+   opposite, and both translate the closing line as carving
+   without severing; they differ in emphasis because Eno translates
+   it as one chapter among eighty-one while the lecture treats it as
+   the text's own statement of its governing structure; I find the
+   lecture's account more useful because it gives me one frame
+   (the A/B structure) I can carry to the other chapters, and Eno's
+   plain translation does not do that work for me." Rejection:
+   "The two readings are different but both are valid" (no
+   agreement, no difference in emphasis, no tension, no preference,
+   no reason).
 3. The chapter-reading deliverable does the five-part work on a
    real assigned chapter, with the primary text in front of the
    learner, without the module's demonstration. Strong: a
    five-part reading of chapter 44 that names the passage, the
-   image (the question about name and self), the move (a series of
-   questions that reverse the reader's priorities), a defensible
-   interpretation (the chapter asks which of the things you are
-   chasing is actually yours), and one limitation (the chapter
-   assumes the reader is over-attached to name and gain, and it is
-   silent about a reader who is under-attached and avoiding
-   commitment). Rejection: "Chapter 44 is about knowing when to
-   stop" (no image, no move, no interpretation, no limitation).
+   image (the question about reputation and body), the move (a
+   series of questions that reverse the reader's priorities), a
+   defensible interpretation (the chapter asks which of the things
+   you are chasing is actually worth the cost), and one limitation
+   of the proposed application (knowing when to stop does not
+   establish whether this particular commitment should be abandoned
+   or sustained; the chapter does not answer that, and the
+   application would have to). Rejection: "Chapter 44 is about
+   knowing when to stop" (no image, no move, no interpretation,
+   no limitation).
 
 ## Workload arithmetic
 
-- Video time (measured durations on the opened watch pages, assigned
-  segments only): Ziporyn assigned segments, 21:34. The Komjathy and
-  Van Norden recordings are not assigned in this module. Total
-  measured assigned video time: about 22 minutes.
+- Video time (the full assigned-viewing path for a learner new to
+  this material; measured durations on the opened watch pages,
+  assigned segments only): Ziporyn assigned segments, 21:34.
+  Learners returning from m1 may skip segments they have watched
+  recently; the allowance here covers the full path. The Komjathy
+  and Van Norden recordings are not assigned in this module.
+  Total measured assigned video time: about 22 minutes.
 - Primary-text reading (Eno Daodejing chapters 11, 36 and 78 in
-  Step 1, chapter 28 in Step 3, and chapters 16 and 44 in Step 4,
+  Step 1, chapter 28 in Step 3, and chapters 16 and 44 in Step 4;
   512 words measured across the assigned set on the downloaded full
   text; the learner reads both Step 4 chapters to pick one, so both
-  are counted): at 130 words per minute (many new concepts) about 4
-  minutes raw; with two readings of each chapter, about 8 minutes
-  raw; with study overhead as a three-times multiplier, about 24
-  minutes (estimate, labelled).
-- Module teaching prose on this page (about 2,100 words measured):
-  at 180 words per minute about 12 minutes raw; with study overhead
-  as a three-times multiplier, about 35 minutes (estimate,
+  are counted; the module instructs two readings of each assigned
+  chapter): at 130 words per minute (many new concepts) about 4
+  minutes raw per full reading of the set; with two readings of
+  each chapter, about 8 minutes raw; with study overhead as a
+  three-times multiplier, about 24 minutes (estimate, labelled).
+- Module teaching prose on this page (about 2,300 words measured):
+  at 180 words per minute about 13 minutes raw; with study overhead
+  as a three-times multiplier, about 38 minutes (estimate,
   labelled).
 - Retrieval activities 1 and 2: about 10 minutes (estimate; about 5
   minutes each).
@@ -322,12 +354,12 @@ against the primary text before you finalise.
   deliverable about 10 minutes, chapter-reading deliverable about 15
   minutes.
 
-Total: about 2 hours 15 minutes (about 136 minutes of labelled
-components: about 22 measured assigned video, 24 estimated
-primary-text reading with the three-times study multiplier, 35
-estimated module-prose reading with the three-times study
-multiplier, 10 retrieval, 45 graded with per-deliverable allowances
-above).
+Total: about 2 hours 20 minutes (about 139 minutes of labelled
+components: about 22 measured assigned video on the full
+assigned-viewing path, 24 estimated primary-text reading with the
+three-times study multiplier, 38 estimated module-prose reading with
+the three-times study multiplier, 10 retrieval, 45 graded with
+per-deliverable allowances above).
 
 ## Verification status of attached sources
 

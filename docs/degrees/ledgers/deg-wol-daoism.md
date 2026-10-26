@@ -525,3 +525,66 @@ m2-daodejing-as-practice-manual: DRAFT, NOT CLEARED; awaits advisor
 QC and supervisor module-QC per WAVE 2. m1 remains DRAFT NOT
 CLEARED pending supervisor module-QC (advisor content/pedagogical QC
 accepted, round 6).
+
+## m2 advisor QC round 1 repairs (2026-10-26, worker-pplx-degdaosim-1026a)
+
+Round 1 returned five blockers. All five applied and pushed this
+pass:
+
+1. Chapter-36 quotation repaired with the verbatim Eno text: the
+   earlier version ("what you would shrink you must first stretch")
+   was a paraphrase and did not match the source text; the module now
+   quotes the actual Eno wording ("to shrink it you must stretch it")
+   and cites the chapter. All three Step 1 chapter summaries (11, 36,
+   78) now carry their verbatim Eno wording and a per-chapter
+   citation; the earlier version's chapter-11 and chapter-78
+   paraphrases were also replaced with the verbatim text.
+2. The manufactured disagreement in Step 3 removed: the two accounts
+   were made to disagree about what the chapter is doing (imperatives
+   vs one argument), which the sources do not say. The Step 3
+   comparison now states where the two accounts AGREE (the chapter's
+   content, the closing line), where they DIFFER IN EMPHASIS (Eno
+   translates it as one chapter among eighty-one; the lecture treats
+   it as the text's own statement of its governing structure), and
+   asks the learner to name any genuine tension they see rather than
+   inventing one. The Ziporyn attribution was also corrected: the
+   earlier claim that he reads the closing line as "the most
+   effective action is the one that does not force" is withdrawn;
+   the transcript's actual reading is "The great structuring carves,
+   but it does not sever", explained as "a base relief, rather than
+   actually carving things out and separating them off from that
+   background", and the module now quotes that. Outcome 3 and rubric
+   criterion 2 were rewritten to match (agreement, emphasis,
+   tension, preference, reason).
+3. Chapter-44 rubric assumption removed: the strong example no longer
+   says the chapter assumes the reader is over-attached; the
+   limitation is now framed as a limitation of the proposed
+   application (knowing when to stop does not establish whether this
+   commitment should be abandoned or sustained).
+4. The job-case diagnosis repaired: the case is now labelled
+   hypothetical, the forcing is framed as one possible contributor
+   rather than as the whole story, and the rubric's criterion 1
+   strong example was rewritten to match (the reversal as one
+   possible contribution, not as the whole story). The Outcome 2
+   statement already said "helps you understand or choose", so no
+   change was needed there.
+5. Template language softened: "the Daodejing's most frequent move"
+   and "where value actually comes from" replaced with the
+   chapters-examined framing; the reversal-application rubric
+   criterion softened to match.
+
+Also applied: the Step 1 word count corrected to 228 (the earlier
+"about 290" counted a different set); the two-readings instruction
+made explicit in Step 1 and in the workload note; the video label
+corrected to say the allowance covers the full assigned-viewing path
+with a note that returning learners may skip; the workload
+recomputed (prose recounted at 2,300 words; total about 2 hours 20
+minutes, about 139 minutes).
+
+### Sources opened this pass (m2 round 1, 2026-10-26)
+
+| URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
+| https://youtubetotranscript.com/transcript?v=EJ1bB2w2gBk&current_language_code=en (re-opened) | 2026-10-26, between the 05:08:00Z clock reading and this save push | worker-pplx-degdaosim-1026a | Ziporyn Why This Text Matters actual transcript, re-opened to verify the chapter-28 attribution; the transcript's actual reading of the closing line is "The great structuring carves, but it does not sever", explained as "a base relief, rather than actually carving things out and separating them off from that background"; the earlier claim that he reads it as "the most effective action is the one that does not force" is withdrawn and the module now quotes the actual reading |
+
+Prose recounted after the round-1 edits: 2,313 words measured.
