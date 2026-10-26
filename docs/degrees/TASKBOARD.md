@@ -58,6 +58,15 @@ session for the whole wave.
 
 ## Supervisor review inbox — 2026-10-26 04:42Z
 
+**Psychological Dimensions M1 MODULE-QC PASS, 2026-10-26 04:58:27Z:**
+independent supervisor re-review of production commit `cdb8f0939`,
+SHA-256 `0c9682e9947e70323ef6f095a86f6e94ab984df7f90bed95e2ff24bb8fb40439`,
+passes the six curriculum tests and bounded video-first route. Full
+decision: `reviews/deg-psychdim-m1-supervisor-2026-10-26.md`. Owner may
+record that module decision; do not infer complete-degree/publication
+clearance. Nonblocking before integration: three alignment-map rows still
+say “Step 1 readings”; change those labels to the video/Step 2 route.
+M2 is the next independent review priority.
 **Buddhism production collision ruling, 2026-10-26 04:52Z:** two
 production histories use the identical string `worker-pplx-buddhism-1026a`:
 first claim `b8e0dfcd2` (04:40:53Z) and same-string renewal `4a63e4ef8`

@@ -1,5 +1,9 @@
 # Psychological Dimensions M1: independent supervisor review
 
+**Latest disposition: MODULE-QC PASS at the revised hash below.**
+This is an independent module review, not a complete-degree or public
+publication clearance. Initial findings are retained for audit history.
+
 Reviewer: `supervisor-49bf153e-1026`, also holding `deg-gate` as
 `gate-49bf153e`. Review opened 2026-10-26 04:44Z. The reviewer does not
 own this module and has made no production-content edits.
@@ -12,7 +16,7 @@ SHA-256
 This hash was measured locally against fetched repository history, not
 inferred from a prior worker's report.
 
-**Disposition: review remains open; no module or publication gate cleared.**
+**Initial disposition: review remained open; no gate was cleared at the initial hash.**
 Owner decision 8 requires the video-first substitution/fallback audit.
 Phase 0 is closed under decision 6 and is not a blocker. The earlier
 three pedagogical repairs are present; a revision should preserve them.
@@ -133,3 +137,42 @@ scientific consensus. Retain beginner-friendly definitions and the
 between-person/within-person appraisal distinction when revising M1.
 ([Hayes transcript](https://www.youtube.com/watch?v=sDGpXQLHLfY);
 [worked Study 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/))
+
+## Revised-module review: 2026-10-26 04:58:27Z
+
+Re-reviewed the complete changed path and its preserved teaching against
+production commit `cdb8f0939`. The measured SHA-256 is
+`0c9682e9947e70323ef6f095a86f6e94ab984df7f90bed95e2ff24bb8fb40439`.
+The reviewed working tree had no uncommitted production changes.
+
+**Decision: MODULE-QC PASS at this hash.** The producer may record this
+decision in its own ledger/band. Do not convert it into degree completion:
+M2 onward and the complete-degree/integration checks remain separate.
+
+| Curriculum test | Revised finding |
+|---|---|
+| Alignment | Pass: the video names the framework; beginner definitions and Jordan still precede the six-sentence retrieval; the appraisal teaches magnitude without pretending to establish personal practical importance; the scope task requires positive inclusion as well as exclusions. |
+| Resource verification | Pass for this bounded route: actual Hayes/Sainani transcripts and credentials independently reopened; retained source claims checked above; optional papers are no longer compulsory duplicates. The source receipts record the replacement boundaries, access and language/transcript limitations. |
+| Workload | Pass as an estimate: 27:39 required video plus 16 minutes overhead rounds to 44; roughly 3,500 selected reading words support about 60 minutes with stated density/overhead assumptions; all components sum to 249 minutes. Optional remedial clip and wider papers are excluded from the core total. |
+| Entry/progression | Pass for M1: no prior psychology is assumed, and definitions, context, observational appraisal and scope are observable exits. M2's stated prerequisites reuse those exits without requiring diagnostic skill or calculation. |
+| Humanizer | Pass for the revised learner path: internal workflow narration is now a non-rendered comment; the spacing-effect overclaim and unclear “second pass” reference are repaired. Necessary scientific distinctions remain clear. |
+| Independent review | Pass: this supervisor is independent of the production owner; the initial planning and video-source checks also received a separate read-only advisor round. This decision follows the actual revised module, not an unseen future revision. |
+
+Owner decision 8 is met for the bounded substitution route reviewed here.
+Hayes replaces the framework articles, Sainani replaces the problematic
+NHST exposition, and the remaining readings have finite jobs and explicit
+boundaries. The ASA anchor preserves precise inference language;
+Noba's unassigned statistics/glossary no longer form the required path.
+([Hayes](https://www.youtube.com/watch?v=sDGpXQLHLfY);
+[Sainani](https://www.youtube.com/watch?v=LKiX54NglCo);
+[ASA](https://www.stat.berkeley.edu/~aldous/Real_World/ASA_statement.pdf);
+[bounded Noba carrier](https://nobaproject.com/modules/thinking-like-a-psychological-scientist))
+
+### Nonblocking editorial follow-up
+
+Alignment-map rows 1–3 still say “Step 1 readings.” The owner should
+change those three labels to “Step 1 video; Step 2 teaching” as
+appropriate before final integration. The actual teaching sequence is
+already correct; this is a stale table label, not missing instruction.
+The revision may be reviewed as an editorial-only delta if it changes
+nothing else.

@@ -14,6 +14,7 @@ stay in the loop; agents keep it current with one-line entries.
 - Only the supervisor or assistant supervisor refreshes the snapshot
   below, and only when something material changed.
 ## Snapshot
+- 2026-10-26 04:58Z supervisor-49bf153e: Psychological Dimensions M1 passed independent module QC; all complete-degree/publication gates remain closed.
 - 2026-10-26 04:42Z supervisor-49bf153e: four priority degrees have live production
   owners; both verification lanes and integration are live. Supervisor review
   starts with Psychological Dimensions M1.
@@ -26,6 +27,7 @@ stay in the loop; agents keep it current with one-line entries.
 ## Log
 - 2026-10-26 05:21Z worker-pplx-verify-1026c: conflict-guard independent code review done (PASS with notes, docs/enrichment/CONFLICT-GUARD-REVIEW-2026-10-26.md); supervisor flag closable.
 - 2026-10-26 05:00Z worker-pplx-verify-1026c: read-only verification assist, no baton; M1 research-literacy video-first receipt (3 Vanman PSYC1040 recordings verified) pushed and QC-repaired; owner disposition + supervisor routing requested.
+- 2026-10-26 04:52Z worker-pplx-verify-1026c: read-only verification assist, no baton; Vanman Week 9A verified; Planidin candidate rejected on credentials.
 - 2026-10-26 04:55Z supervisor-49bf153e: Daoism M1/Buddhism b1 returned with bounded repairs; staged/committed conflict guard tested, independent code review still outstanding.
 - 2026-10-26 04:52Z supervisor-49bf153e: Buddhism duplicate worker identity/maps found; first b1/b2 path canonical, later m1 path routed to repair support.
 - 2026-10-26 04:48Z supervisor-49bf153e: Pragmatism M1 returned for four bounded source/teaching repairs; no module gate cleared.
