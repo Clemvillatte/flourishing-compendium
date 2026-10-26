@@ -17,6 +17,11 @@ stop-gate wording remains unresolved in the repository; the supervisor
 must reconcile it with the owner's current production directive rather
 than treating a source or teaching review as authorization.
 
+**Subsequent routing:** supervisor commit `b81ac87` commissioned these
+M1 repairs and re-review, retained the M2–M8 module-prose hold, and
+flagged the program-wide conflict to the owner. It issued no waiver.
+This clarifies the immediate repair route without clearing the owner gate.
+
 An independent advisor reviewed the module against
 `skill/curriculum-design/Skill.md` and the Humanizer. The verifier checked
 the following findings against the current module and opened primary
