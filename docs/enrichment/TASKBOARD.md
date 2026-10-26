@@ -1,3 +1,22 @@
+## Worker checkpoint (2026-10-26 16:00Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+GRATITUDE: 2 MORE MISSES CLOSED. The Emmons faculty site now returns
+403 to automated fetches (root cause of the automated misses), but
+the Wayback snapshot of the Emmons & McCullough 2003 JPSP PDF
+(web.archive.org/web/20260625070227/...2003_2-Emmons_McCullough_
+2003_JPSP.pdf) contains both spans verbatim: "The gratitude-outlook
+groups exhibited heightened well-being across several, though not
+all, of the outcome measures..." and the study title "Counting
+Blessings Versus Burdens". Gratitude now stands at 30 checked /
+5 not found on the automated run (down from 7); remaining: 3 Wiley
+abstract pages (JS-served, need browser route) and 1 Debra College
+PDF (sacred-duty span). Live-site receipt also recorded: the
+deployed GitHub Pages app.js contains the cognition registry entry,
+passes node --check, and the creativity-band "opened this session"
+workflow-language flag is still present on the live file (flagged
+for the supervisor; not edited by this lane). No dossier text
+changed. Files touched: this checkpoint only.
+
 ## Worker checkpoint (2026-10-26 15:57Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 TWENTY-FIRST QC SAMPLE (taper window): right-speech.md — dossier_check
