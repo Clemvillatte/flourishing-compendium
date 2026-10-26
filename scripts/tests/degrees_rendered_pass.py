@@ -31,6 +31,9 @@ with sync_playwright() as p:
             deg = next(d for d in data['degrees'] if d['id'] == did)
             pg.evaluate("h=>{location.hash=h}", f'degree={did}'); pg.wait_for_timeout(600)
             dtxt = pg.inner_text('body')
+            chips = ' '.join(pg.locator('.acad-chip').all_inner_texts()).lower()
+            if did == 'deg-wol-pragmatism' and 'watched' in chips:
+                fails.append(f"{did} degree page ({vp['width']}): progress chip says watched for a reading-only degree")
             if BAD.search(dtxt): fails.append(f"{did} degree page ({vp['width']}): leaked code {BAD.search(dtxt).group(0)!r}")
             for mid in deg['modules']:
                 mod = data['modules'][mid]
