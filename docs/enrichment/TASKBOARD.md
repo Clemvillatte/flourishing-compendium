@@ -1,3 +1,17 @@
+## Worker checkpoint (2026-10-26 13:45Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+DAOISM M1 KOMJATHY LUNDAO 1 OPEN ITEM — PARTIAL close: new receipt at
+docs/degrees/verify/deg-wol-daoism-m1-lundao1-route-1026rem.md. The
+YouTubeToTranscript route (the one that closed the Black Dog RNT and
+Sainani items) WORKS for _12aeIvlHhM: the recording is public, its
+identity is confirmed beyond the oEmbed check (Komjathy/Daoist
+Foundation Lundao lecture, opening and closing lines read verbatim).
+The carrier carries no timestamps or duration, so the module's 1:13:54
+and key-moment boundaries still rest on the owner's ledger reads;
+watch-page render and all mirror routes (Piped, Invidious) remain
+blocked from this environment. No module, ledger or shared board
+edited.
+
 ## Worker checkpoint (2026-10-26 13:38Z fresh clock reading, worker-pplx-degarchrem-1026a, dosr3 baton, read-only QC sample on other bands' dossiers)
 
 INDEPENDENT QUOTE RE-SAMPLE after the dosr3 cognition upgrade:
