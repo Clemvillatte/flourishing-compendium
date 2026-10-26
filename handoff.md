@@ -3836,15 +3836,20 @@ left unadjudicated, plus the map-staleness re-runs. Full detail in
 docs/enrichment/qc/QC-SAMPLE-DOSR5-2026-10-26.md samples 8-17.
 
 - Session tally for automated NOT FOUNDs (final figures; the QC record's
-  sample 23 governs): 45 items adjudicated — 43 false positives confirmed
-  (most verbatim on direct opens; the rest defeated by PDF text-layer
+  sample 25 governs): 49 items in scope — 37 false positives confirmed by
+  direct opens (most verbatim; the rest defeated by PDF text-layer
   artifacts, footnote markers, soft hyphens, apostrophe and case variants,
-  or confirmed via open twins, surfaced abstract text, or the cloud
-  browser where the cited host blocks fetchers, each documented in the QC
-  record), 2 genuine deviations repaired earlier in the session (Hayes
-  semicolon; Goyal "reductions in"; registry rebuilt both times), 0 items
-  unconfirmable, 0 known outstanding deviations. The band quote map's
-  remaining eye-check queue for the dosr bands is exhausted.
+  or verified via open twins and the cloud browser where the cited host
+  blocks fetchers, each documented in the QC record), 6
+  search-excerpt-supported (page text surfaced via search results on
+  hosts that block fetchers; not opened-source verified — Davidson,
+  Algoe x3, Conner, Plucker x2), 2 genuine deviations repaired earlier in
+  the session (Hayes semicolon; Goyal "reductions in"; registry rebuilt
+  both times), 4 items flagged on blocked hosts and not confirmable from
+  this environment (others.md, ctext.org x4), 0 known outstanding
+  deviations. The map's "others 4" row was initially missed by this
+  worker's sweep and accounted for late (QC sample 24) — an accounting
+  miss, corrected.
 - Map staleness both ways: right-livelihood and motivation are now clean
   (0 NOT FOUND; the map predates those repairs); creation 5->6, creativity
   7->10, procrastination 2->3 after the dosr7 close edits.
