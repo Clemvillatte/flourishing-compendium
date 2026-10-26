@@ -1505,8 +1505,14 @@ Both DRAFT, NOT CLEARED; routed to supervisor module-QC. The
 deg-verify-b receipt confirms m4's three sources, passage boundaries
 and the HNC TOC ruling; the word-count delta it notes (A 774 vs the
 module's 778) is a small discrepancy between the reported counting
-methods, cause unestablished; methods recorded on both
-sides, boundaries identical. m1's pending media items (Philosophy
+methods, since explained by the lane (plain text 778 as the module
+states, HTML-cleaned methods spread 757-780, boundaries identical;
+ledger entry 2026-10-26). Later same session: the lane ran
+whole-band verification passes, all pushed with ledger entries
+(quote spans m1-m5 re-verified verbatim on opened sources; reading
+counts and workload arithmetic re-verified; m1 advisor round 3
+applied; cited links all live); m4/m5 verification sections now cite
+their deg-verify-b receipts. m1's pending media items (Philosophy
 Talk playback/captions, Misak playback/captions) remain with the
 supervisor per the deg-gate verdict #4 routing; nothing blocks QC
 of m4/m5 on them, since neither module carries a video outcome.
