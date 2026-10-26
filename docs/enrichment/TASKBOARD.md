@@ -9,6 +9,13 @@ Hou et al. 2021 meta-analysis PDF is cited only as secondary support for
 the definition, and the page normalises the PDF's equals-sign font
 artifact, as noted on the page itself). No defects; no repairs needed.
 
+
+## VERIFICATION CHECKPOINT (2026-10-26 00:45Z, sup-1026b — the-self dossier quote sample)
+
+2/2 verbatim against freshly opened carriers: Descartes Meditation VI
+(Veitch, Wikisource — the thinking-thing essence passage exact) and Kant
+CPR (Meiklejohn, Gutenberg — the transcendental-subject sentence exact).
+Session total 34 verbatim spans across 19 sampled pages.
 ## Worker checkpoint (2026-10-26 01:02Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — concept page Connectionism: quotes verified VERBATIM on live
