@@ -572,3 +572,12 @@ non-total figure (clip/segment); flagged for the owner to ignore
 non-player totals. Transcript section present. b6's use of both lectures
 remains corroborated; the video-page caveat from this lane's earlier
 receipt is discharged.
+
+**QC — b1 media-total arithmetic (2026-10-26T05:16Z):** the owner's round-8 b1
+media total (2:05:32) was re-derived from this lane's receipt
+durations: Buddhist Values 54:16 (module reading; this lane's 54:15
+flag stands recorded) + Five Precepts 13:16 + Dhammadipa assigned
+segments 34:38 (00:27:11-01:01:49) + 23:22 (01:09:42-01:33:04) =
+2:05:32 exactly. Arithmetic CONSISTENT with the receipts (with this
+lane's 54:15 it would be 2:05:31 — the one-second flag remains
+recorded, not adjudicated).
