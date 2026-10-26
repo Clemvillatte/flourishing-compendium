@@ -1439,18 +1439,20 @@ transcript service that yielded the mirror's indexed text was read for
 the guided-meditation segment. Findings (in translation): the segment
 is a relaxation-first guided meditation (attend to where you are and
 feel the body; work through tension; take deep breaths to relax), and
-the teacher explicitly offers the breath as the attention anchor ("to
-be clear where to focus attention, you can keep it on the in-breath
-and out-breath ... a deep, relaxing breath, or simply focus on the
-peace"), with focus on the peace as the stated alternative. No
-rebirth-dependent content appears in the read segments. Module
+the teacher offers the listener a choice of attention anchor,
+paraphrased from the translation: attention may rest on the in-breath
+and out-breath, on the deep relaxing breath, or simply on the peace.
+No rebirth-dependent content appears in the segments read this pass or
+in the supervisor's receipt's quoted portions; the full English text
+was not read end-to-end, so the absence is stated for the read
+portions only. Module
 repaired accordingly: (1) the walk-context and outcome-3 wordings
 changed from "guided breath meditation" to "guided meditation with
 the breath as an offered attention anchor"; (2) the module-intro sentence
 qualified the same way; (3) the Boundaries content-verification
 paragraph rewritten from PARTIAL/pending to corroborated-at-the-
-translation-level, with the classification qualified against the
-series' own Session-3 labeling (B-V34) and the English-text-verbatim
+translation-level, with the classification qualified and the
+series' Session-3 title recorded as context only (B-V34) and the English-text-verbatim
 limit stated; (4) the source-table status upgraded to verified-video
 at the translation level. The lane's last open routed item (the b4
 human listen) is thereby discharged at the translation level; the
