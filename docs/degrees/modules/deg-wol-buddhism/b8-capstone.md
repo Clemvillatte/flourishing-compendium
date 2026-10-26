@@ -4,7 +4,7 @@
 - **kind**: degree-module (integrative capstone)
 - **level**: L4 Synthesis
 - **module id**: deg-wol-buddhism-b8
-- **status**: draft v1.2; not cleared (QC round-4 repairs applied 2026-10-26; repair history in the ledger)
+- **status**: MODULE-QC PASS, supervisor, 2026-10-26 (decision at 121a4615; review reviews/deg-wol-buddhism-b8-supervisor-2026-10-26.md; whole-degree gate PASS refreshed; integration/publication per INTEGRATION.md; repair history in the ledger)
 - **prerequisites**: b1-b7 exit criteria (all prior modules' outcomes, including the sitting log, the four-tasks worksheet, the school placements and the b7 defended comparison)
 
 ## Walk context

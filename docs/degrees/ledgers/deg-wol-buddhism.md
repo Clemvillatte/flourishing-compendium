@@ -1527,3 +1527,11 @@ file.
   Bhikkhu); module body and source table updated. PASS was issued
   at a6750e16; this repair postdates that hash; changed-hash delta
   check requested in the band.
+
+- 08:02 UTC (measured) - STATUS metadata repair applied to
+  b1/b2/b3/b5/b6/b7/b8 per the 9b124fa precedent (routed by the
+  deg-gate refresh review): stale DRAFT-NOT-CLEARED status lines
+  updated to the QC-passed state; one line per file, verified by
+  diff. Receipt: verify/deg-wol-buddhism-status-repair-1026g.md.
+  b4/b9 deliberately not touched (post-PASS deltas pending supervisor
+  verification); their status lines follow after those land.

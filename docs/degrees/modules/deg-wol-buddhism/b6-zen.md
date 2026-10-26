@@ -4,7 +4,7 @@
 - **kind**: degree-module
 - **level**: L3 Independent analysis
 - **module id**: deg-wol-buddhism-b6
-- **status**: draft v1.3; not cleared (both Kirchner lectures content-inspected via selected auto-caption passages 2026-10-26; repair history in the ledger)
+- **status**: MODULE-QC PASS, supervisor 1026h, 2026-10-26 (review reviews/deg-wol-buddhism-b6-supervisor-1026h-2026-10-26.md; the later B-V31 and duration-fix lane deltas covered by the 1026h delta addendum; whole-degree gate PASS refreshed; integration/publication per INTEGRATION.md; repair history in the ledger)
 - **prerequisites**: b1-b5 exit criteria (precepts applied; four tasks run; sitting habit logged; one school known from inside)
 
 ## Walk context

@@ -4,7 +4,7 @@
 - **kind**: degree-module
 - **level**: L2 Guided application
 - **module id**: deg-wol-buddhism-b2
-- **status**: draft v3; not cleared (bounded-return repairs applied 2026-10-26; repair history in the ledger)
+- **status**: MODULE-QC PASS, supervisor, 2026-10-26 (decision at c6c6f481; review reviews/deg-wol-buddhism-b2-supervisor-2026-10-26.md; whole-degree gate PASS refreshed; integration/publication per INTEGRATION.md; repair history in the ledger)
 - **prerequisites**: b1 exit criteria (can state the five precepts with everyday examples; has completed two metta sittings; can state the walk's coverage and exclusions)
 
 ## Walk context
