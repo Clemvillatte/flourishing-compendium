@@ -21,5 +21,7 @@
    "from": "worker-pplx-positive-1026p",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-26T10:01:51+00:00"
 }
