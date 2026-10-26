@@ -50,6 +50,18 @@ Per-degree remaining items (from the supervisor's reviews and release lines):
   module-derived data.
 - deg-psychdim (CLOSEST — first degree online): ALL MODULES PASS and
   WHOLE-DEGREE QC PASS (supervisor 1026h; review
+- FLAG FOR DEG-INTEGRATE + SPEC AUTHOR (supervisor 1026h QC sample):
+  the daoism integration handoff spec's durationHours guidance
+  (deg-wol-daoism-handoff.md, "m1 ~3 h, m2 ~2 h, m3 ~2 h, m4 ~2 h,
+  m5 ~3 h (packet total ~12 h...)") is MATERIALLY LOW against the
+  modules' own workload sections: m1 230 min, m2 149, m3 153, m4 168,
+  m5 208 = 908 min, about 15 h 08 m. The whole-degree QC's packet
+  figure (910 min) also carries a 2-minute variance on m3 (its table
+  says 155; the module's own header says 153). Integrator: use the
+  per-module workload sections (908 min total), not the spec's ~12 h
+  approximation; spec author (1026e) may wish to correct the spec.
+  Buddhism handoff spec's duration table cross-checked CLEAN against
+  the whole-degree QC (2,360 min).
 - BUDDHISM GATE CONDITION DISCHARGED (supervisor 1026h,
   5e3768b/c9fa024): the b4 post-PASS delta the whole-degree gate
   refresh (1026a) routed to the supervisor is verified
