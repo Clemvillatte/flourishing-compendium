@@ -1,8 +1,8 @@
 # Dossiers band handoff — read this first
 
-## STEP 0 RESULTS (2026-10-26, worker-pplx-dosr1-1026a — CATALOGUE-WIDE SURVEY)
+## STEP 0 RESULTS (2026-10-26 00:14Z, worker-pplx-dosr1-1026a — CATALOGUE-WIDE SURVEY, commit 9b4af3605)
 
-dosr1 checked and CLOSED: all four of its dossiers (frustration, gratitude,
+dosr1 checked and CLOSED (claim 00:10:45Z, close 00:13:00Z): all four of its dossiers (frustration, gratitude,
 right-effort, right-intention) are ALREADY at the 3-5 bar with repairs landed
 2026-10-25 (details in `batches/dosr1.json`). The QC-entry-7 below-bar list is
 STALE for dosr1 and is probably stale for other bands too — RUN THE STEP 0

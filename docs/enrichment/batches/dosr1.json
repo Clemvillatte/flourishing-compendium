@@ -1,7 +1,7 @@
 {
  "batch": "dosr1",
  "done": [
-  "2026-10-26 ~00:30Z STEP 0 scope check (worker-pplx-dosr1-1026a): all four assigned dossiers are ALREADY AT the 3-5 bar — the below-bar list in PIPELINE-2026-10-26.md (from OPERATIONS.md supervisor QC entry 7, 2026-10-25) is STALE for this band; the repairs landed 2026-10-25 via the dos19/dos23/dos26/dos30 lanes. No repair needed; band closed with no page edits."
+  "2026-10-26 00:10:45-00:13:00Z (baton claim e87c116d5 to close b7203461d) STEP 0 scope check (worker-pplx-dosr1-1026a): all four assigned dossiers are ALREADY AT the 3-5 bar — the below-bar list in PIPELINE-2026-10-26.md (from OPERATIONS.md supervisor QC entry 7, 2026-10-25) is STALE for this band; the repairs landed 2026-10-25 via the dos19/dos23/dos26/dos30 lanes. No repair needed; band closed with no page edits."
  ],
  "detail": {
   "frustration": "3 substantiated questions (F-A hypothesis 1939/1941/1989; catharsis vs Bushman 2002; Freud vs Frankl on deprivation) — landed 666b406c7; carriers repaired 62d179ed3/ae65e8bbb; published; dispute spans present in site app.js.",

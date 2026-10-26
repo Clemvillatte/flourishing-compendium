@@ -3897,7 +3897,7 @@ Also confirmed: the tree's modality groups are rendered as child rows under Psyc
 
 Fresh navigation to #card=NAV-PSYCH-V1K on the deployed site (after GitHub Pages redeploy picked up the alias): location.hash rewrites to #card=NAV-PSYCH-KRN and the card view renders "Psychological Kernels". The 3b2c8c7a0 alias fix is confirmed working end-to-end on the live build.
 
-## Verification checkpoint — 2026-10-26 00:47Z (worker-pplx-dosr1-1026a, Lane 4 sample)
+## Verification checkpoint — 2026-10-26 00:14:34Z (worker-pplx-dosr1-1026a, Lane 4 sample; stamp corrected from an estimated 00:47Z)
 
 - freedom dossier (surveyed in the STEP 0 pass, dosr2 band): independent
   quote re-verification, 4/4 VERBATIM against freshly opened raw carriers —
@@ -3911,7 +3911,7 @@ Fresh navigation to #card=NAV-PSYCH-V1K on the deployed site (after GitHub Pages
   match after tag-stripping and apostrophe normalization, not prompted
   extraction.
 
-## Verification checkpoint — 2026-10-26 00:51Z (worker-pplx-dosr1-1026a, Lane 4 sample 2)
+## Verification checkpoint — 2026-10-26 00:15:02Z (worker-pplx-dosr1-1026a, Lane 4 sample 2; corrected)
 
 - right-concentration dossier (dosr2 band): 2/2 VERBATIM — Langner & Eickhoff
   2013 span ("ample empirical evidence... available data") against the freshly
@@ -3920,7 +3920,7 @@ Fresh navigation to #card=NAV-PSYCH-V1K on the deployed site (after GitHub Pages
   fetched accesstoinsight raw HTML. Same method (curl + raw substring after
   tag-strip and quote-mark normalization). No edits needed.
 
-## Verification checkpoint — 2026-10-26 00:54Z (worker-pplx-dosr1-1026a, Lane 4 sample 3)
+## Verification checkpoint — 2026-10-26 00:15:31Z (worker-pplx-dosr1-1026a, Lane 4 sample 3; corrected)
 
 - overload-overwhelm dossier (dosr5 band): 2/2 VERBATIM — Baumeister et al.
   1998 abstract span ("the self's capacity for active volition is limited...")
@@ -3928,7 +3928,7 @@ Fresh navigation to #card=NAV-PSYCH-V1K on the deployed site (after GitHub Pages
   24 or 30 choices") against freshly fetched PubMed eutils plain-text records
   (PMID 9599441, 11138768). No edits needed.
 
-## Verification checkpoint — 2026-10-26 00:58Z (worker-pplx-dosr1-1026a, Lane 4 sample 4)
+## Verification checkpoint — 2026-10-26 00:16:05Z (worker-pplx-dosr1-1026a, Lane 4 sample 4; corrected)
 
 - attention dossier (dosr5 band): Killingsworth & Gilbert 2010 span pair
   ("Mind wandering occurred in 46.9% of the samples..." + "a wandering mind is
