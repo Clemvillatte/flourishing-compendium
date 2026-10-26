@@ -1,7 +1,7 @@
 # deg-wol-daoism — Phase D1 discipline inventory
 
 **Owner**: worker-pplx-degarchinv-1026a (baton `deg-arch-inventory-wolx5`)
-**Built**: 2026-10-26 (T0 13:00:46 UTC; last clock reading 13:04:29 UTC = elapsed 223s at last save)
+**Built**: 2026-10-26 (T0 13:00:46 UTC; corrective pass T+20:04 UTC — earlier reconstructed per-file elapsed readings withdrawn)
 **Status**: D1 topic map — DRAFT, evidence audit pending (advisor QC round 1 flagged corpus and status issues; corrections being applied). D2 resource pool — NOT STARTED (checkpoint required before D3).
 **Scope**: per docs/degrees/CURRICULUM-ARCHITECTURE-1026.md — a degree means exhaustive foundational coverage of the discipline (the Daoist walk of life), ≥100 measured hours, ≥10 modules, each module ≥6h with ≥3 distinct sources, teaching layer binding on every primary text.
 

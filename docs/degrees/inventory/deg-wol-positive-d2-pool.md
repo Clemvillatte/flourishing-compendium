@@ -1,9 +1,8 @@
 # deg-wol-positive — Phase D2 resource pool
 
 **Owner**: worker-pplx-degarchinv-1026a (baton `deg-arch-inventory-wolx5`)
-**Built**: 2026-10-26 (T0 13:00:46 UTC)
-**Status**: D2 resource pool — DRAFT (in progress; each entry verified against an opened primary source this session; the D1 file at deg-wol-positive.md is the topic map this pool fills).
-**Scope**: per docs/degrees/CURRICULUM-ARCHITECTURE-1026.md Phase D2 — source verification and selection. Each entry below is verified: (a) it was actually opened (URL fetched, page read) this session, (b) open-access / free-audit status confirmed on the page, (c) what topics it carries is logged against the D1 matrix.
+**Built**: 2026-10-26 (T0 13:00:46 UTC; corrective pass T+20:04 UTC)
+**Status**: D2 resource pool — DRAFT, evidence-discipline corrections applied (advisor QC round 2). Each entry below carries an explicit EVIDENCE-TIER label: [OPENED-VERIFIED] = the URL was fetched and the page content was actually read this session; [ACCESS-CHECKED] = the access statement was confirmed on the page but the content itself was not read in full; [DISCOVERY] = surfaced via search results or a syllabus cross-reference only, NOT opened. No entry is treated as established unless it is at least ACCESS-CHECKED. Hours arithmetic: ASSIGNED HOURS UNMEASURED — no verified total is established in this pass.
 
 ## Verified resource pool (Positive psychology)
 
@@ -15,7 +14,7 @@ The positive-psychology primary texts (Seligman's Flourish, Peterson's CSV, Csik
 
 | ID | Resource | Open status (verified on the page) | Covers | D1 module |
 |---|---|---|---|---|
-| POS-TEACH-1 | Coursera / Yale, "The Science of Well-Being" (Laurie Santos) — https://www.coursera.org/learn/the-science-of-well-being | "Enroll for free" is on the page; the page does NOT explicitly confirm a free-audit option (it names certificate purchase, free trial, and a possible "Full Course, No Certificate" option without confirming availability for this course); 6 modules, ~10 h/week for 1 week (flexible); a "Free Access to the Course" reading is listed without details | Module 1 Introduction (measuring well-being, personal strengths, reflective + practical activities); Module 2 Misconceptions About Happiness (money, achievement, possessions; gratitude and savoring); Module 3 Why Our Expectations are so Bad (cognitive biases, annoying features of the mind, intuition, comparison, adaptation, affective forecasting; kindness and social connection); Module 4 How Can We Overcome Our Biases (countering biases; experiential purchases; intentional mood-improving activities; exercise, sleep); Module 5 Stuff that Really Makes Us Happy (kindness, social connection, time affluence, mindfulness, sleep, exercise; achievement-related goals vs values); Module 6 Putting Strategies into Practice (environments, goal-setting, rewirement challenge, habit formation, intentional living) | mod-pos-1 (foundations + well-being); mod-pos-2 (positive emotions + SWB + savoring); mod-pos-3 (gratitude + savoring + mindfulness); mod-pos-4 (character strengths); mod-pos-6 (meaning + values + goals); mod-pos-7 (positive relationships + kindness + social connection); mod-pos-8 (PPIs + habit formation + intentional living) |
+| POS-TEACH-1 | Coursera / Yale, "The Science of Well-Being" (Laurie Santos) — https://www.coursera.org/learn/the-science-of-well-being | [OPENED-VERIFIED] (the course page was fetched and read this session) | "Enroll for free" is on the page; the page does NOT explicitly confirm a free-audit option (it names certificate purchase, free trial, and a possible "Full Course, No Certificate" option without confirming availability for this course); 6 modules; the "10 h/week for 1 week" figure is the page's own flexible-schedule framing and is NOT a measured instruction total | The page's own module list: Module 1 Introduction; Module 2 Misconceptions About Happiness; Module 3 Why Our Expectations are so Bad; Module 4 How Can We Overcome Our Biases; Module 5 Stuff that Really Makes Us Happy; Module 6 Putting Strategies into Practice — the specific sub-topics (gratitude, savoring, mindfulness, kindness, social connection, time affluence, sleep, exercise) are named within these modules | mod-pos-1 through mod-pos-8 — PROPOSED; the free-audit verification and per-module hour measurement are owed |
 
 ### C. Reference / secondary
 
@@ -27,35 +26,35 @@ The positive-psychology primary texts (Seligman's Flourish, Peterson's CSV, Csik
 
 ## Coverage-matrix update (D2 → D1 matrix)
 
-Rows in the D1 coverage matrix now backed by an on-matrix verified open resource:
+Rows in the D1 coverage matrix with any open-carrier evidence. Each row below states what is actually established — no row is "VERIFIED OPEN" at module granularity; the strongest evidence in this pass is [OPENED-VERIFIED] carrier + a PROPOSED module assignment that still requires per-lecture / per-chapter measurement.
 
-| D1 row | Now backed by | Status |
+| D1 row | Carriers with evidence tier | What is actually established |
 |---|---|---|
-| Foundations + history of well-being + PERMA | POS-TEACH-1 (Module 1: measuring well-being, strengths) + POS-REF-1 (the flourishing dossier) | PARTIALLY VERIFIED — Santos's Module 1 covers the foundations; the PERMA model specifically was not confirmed in the Santos module list |
-| Positive emotions + intrinsic motivation + Broaden-and-Build | POS-TEACH-1 (Module 3: affective forecasting, adaptation, biases) + POS-REF-1 (the affect dossier) | PARTIALLY VERIFIED — Broaden-and-Build specifically was not confirmed |
-| Subjective well-being + happiness measurement | POS-TEACH-1 (Module 1: measuring current well-being; Module 2: misconceptions about happiness) | PARTIALLY VERIFIED |
-| Savoring + flow + mindfulness + motivation | POS-TEACH-1 (Module 2: gratitude and savoring; Module 5: mindfulness, time affluence) + POS-REF-1 (the flow and mindfulness dossiers) | PARTIALLY VERIFIED |
-| Gratitude + hope + optimism | POS-TEACH-1 (Module 2: gratitude) + POS-REF-1 (the gratitude and hope dossiers) | PARTIALLY VERIFIED |
-| Emotional intelligence | NOT YET VERIFIED — no open carrier confirmed this session | GAP — flagged |
-| VIA character strengths + goals | POS-TEACH-1 (Module 1: identifying personal strengths) + POS-REF-1 | PARTIALLY VERIFIED |
-| Creativity + giftedness + wisdom (positive self) | POS-REF-1 (the wisdom dossier) | PARTIALLY VERIFIED |
-| Positive mental health: thriving and flourishing | POS-REF-1 (the flourishing dossier) + POS-TEACH-1 (Module 5) | PARTIALLY VERIFIED |
-| Resilience + post-traumatic growth | POS-REF-1 (the resilience dossier) — but no open MOOC/lecture carrier was confirmed | PARTIALLY VERIFIED |
-| Meaning + purpose + eudaimonic well-being | POS-TEACH-1 (Module 5: achievement-related goals considered in relation to broader values) + POS-REF-1 (the meaning dossier) | PARTIALLY VERIFIED |
-| Values + motivation + life goals | POS-TEACH-1 (Module 6: goal-setting techniques) | PARTIALLY VERIFIED |
-| Positive relationships I/II + love + engaged living | POS-TEACH-1 (Module 3: kindness and social connection; Module 5: social connection) | PARTIALLY VERIFIED — the "engaged living" and love/intimate-relationship specific material was not confirmed in the Santos module list |
-| PPIs + positive psychotherapy + coaching | POS-TEACH-1 (Module 6: rewirement challenge, habit formation) | PARTIALLY VERIFIED — the positive-psychotherapy and coaching specific material was not confirmed |
-| Positive psychology in education + healthcare | NOT YET VERIFIED — no open carrier confirmed | GAP — flagged |
-| Successful ageing + positive institutions + community | NOT YET VERIFIED | GAP — flagged |
-| Future of positive psychology + recent topics | NOT YET VERIFIED | GAP — flagged |
+| Foundations + history of well-being + PERMA | POS-TEACH-1 [OPENED-VERIFIED] (Module 1) + POS-REF-1 (in-repo dossier) | The Santos Module 1 title is "Introduction". The PERMA model specifically was NOT confirmed in the module list. The dossier is in-repo but its hours are unmeasured. |
+| Positive emotions + intrinsic motivation + Broaden-and-Build | POS-TEACH-1 [OPENED-VERIFIED] (Module 3) | The Santos Module 3 title is "Why Our Expectations are so Bad" — the affective-forecasting and adaptation material is named within it. The Broaden-and-Build theory and intrinsic motivation specifically were NOT confirmed in the module list. |
+| Subjective well-being + happiness measurement | POS-TEACH-1 [OPENED-VERIFIED] (Modules 1-2) | The module titles name well-being measurement and misconceptions about happiness. The specific SWB-measurement content is NOT established. |
+| Savoring + flow + mindfulness + motivation | POS-TEACH-1 [OPENED-VERIFIED] (Module 2 names gratitude and savoring; Module 5 names mindfulness) + POS-REF-1 (in-repo dossiers) | The module titles name savoring and mindfulness. The flow and motivation specifics are NOT established from this carrier alone. |
+| Gratitude + hope + optimism | POS-TEACH-1 [OPENED-VERIFIED] (Module 2 names gratitude) + POS-REF-1 (in-repo dossiers) | The module title names gratitude. The hope and optimism specifics are NOT established from this carrier alone. |
+| Emotional intelligence | no carrier in this pass | NOT ESTABLISHED. |
+| VIA character strengths + goals | POS-TEACH-1 [OPENED-VERIFIED] (Module 1 names personal strengths) + POS-REF-1 | The module title names strengths. The VIA classification specifically was NOT confirmed. |
+| Creativity + giftedness + wisdom (positive self) | POS-REF-1 (in-repo dossier) | The wisdom dossier is in-repo; the hours and module assignment are NOT established. |
+| Positive mental health: thriving and flourishing | POS-REF-1 (in-repo dossier) | The dossier is in-repo; the hours and module assignment are NOT established. |
+| Resilience + post-traumatic growth | POS-REF-1 (in-repo dossier) | The dossier is in-repo; the hours and module assignment are NOT established. |
+| Meaning + purpose + eudaimonic well-being | POS-TEACH-1 [OPENED-VERIFIED] (Module 5) + POS-REF-1 | The Santos Module 5 title is "Stuff that Really Makes Us Happy". The eudaimonic-well-being specifics are NOT established. |
+| Values + motivation + life goals | POS-TEACH-1 [OPENED-VERIFIED] (Module 6 names goal-setting) | The module title names goal-setting techniques. |
+| Positive relationships I/II + love + engaged living | POS-TEACH-1 [OPENED-VERIFIED] (Modules 3 and 5 name kindness and social connection) | The module titles name social connection. The love / engaged-living specifics are NOT established. |
+| PPIs + positive psychotherapy + coaching | POS-TEACH-1 [OPENED-VERIFIED] (Module 6) | The module title names rewirement challenge and habit formation. The positive-psychotherapy and coaching specifics are NOT established. |
+| Positive psychology in education + healthcare | no carrier in this pass | NOT ESTABLISHED. |
+| Successful ageing + positive institutions + community | no carrier in this pass | NOT ESTABLISHED. |
+| Future of positive psychology + recent topics | no carrier in this pass | NOT ESTABLISHED. |
 
 ## Declared gaps (per the spec's honest-failure rule — these are flagged, not hidden)
 
-1. **Primary texts**: Seligman's Flourish, Peterson's CSV, Csikszentmihalyi's Flow, Fredrickson's Positivity are paywalled. The open routes are the open-access journal articles behind them and the existing validated doc library. No standalone open primary-text carrier was verified this session — declared as the field's own structural problem.
-2. **POS-TEACH-1 free-audit status**: the Coursera page says "Enroll for free" but does NOT explicitly confirm a free-audit option (the page names certificate purchase, free trial, and a possible "Full Course, No Certificate" option without confirming availability). One more route (a direct enrollment check or a different Coursera page) is owed before this is admitted as fully established.
-3. **Greater Good Science Center and PositivePsychology.com**: surfaced but not directly fetched; one more pass each owed.
-4. **Emotional intelligence, education/healthcare applications, ageing/institutions, future topics**: no open carriers confirmed. These are the exclusion candidates on the finite-scope rule.
-5. **Hours arithmetic**: POS-TEACH-1 is ~10 h/week for 1 week (6 modules) — roughly 10 h of verified instruction (the flexible-schedule framing makes the total ambiguous; a measured number is owed) + POS-REF-1 (the doc library — the dossiers are validated but their reading hours must be measured against the module docs, not estimated). The current verified floor is roughly 10 h of MOOC instruction — well BELOW the ≥100h spec total. The remaining ~90 h must come from: (a) more open MOOCs; (b) the doc library's reading hours (measured); (c) open-access journal articles; (d) a verified open lecture series. This is the biggest hours gap of the batch — declared, not hidden.
+1. **Primary texts**: no standalone open primary-text carrier was verified in this pass — this is a "no carrier located" statement, NOT an exclusion ruling. The open routes (open-access journal articles, the in-repo doc library) are candidates that need verification.
+2. **POS-TEACH-1 free-audit status**: the Coursera page says "Enroll for free" but does NOT explicitly confirm a free-audit option. One more route is owed.
+3. **POS-REF-2 and POS-REF-3**: not directly fetched; one more pass each owed.
+4. **Emotional intelligence, education/healthcare applications, ageing/institutions, future topics**: no verified open carrier located in this pass. These are "no carrier located" statements, NOT exclusion rulings.
+5. **Hours arithmetic**: ASSIGNED HOURS UNMEASURED — no verified total is established in this pass. The earlier "~10 h" figure was the Coursera page's own flexible-schedule framing, NOT a measured instruction total, and is WITHDRAWN as a verified number. The doc-library reading hours are also unmeasured. The spec's method (selected on-scope passages, measured against the module docs) is the only valid calculation and has NOT been performed yet.
 
 ## D2 checkpoint (owed before D3)
 

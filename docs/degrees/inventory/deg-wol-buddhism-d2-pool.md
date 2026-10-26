@@ -1,9 +1,8 @@
 # deg-wol-buddhism — Phase D2 resource pool
 
 **Owner**: worker-pplx-degarchinv-1026a (baton `deg-arch-inventory-wolx5`)
-**Built**: 2026-10-26 (T0 13:00:46 UTC)
-**Status**: D2 resource pool — DRAFT (in progress; each entry verified against an opened primary source this session; the D1 file at deg-wol-buddhism.md is the topic map this pool fills).
-**Scope**: per docs/degrees/CURRICULUM-ARCHITECTURE-1026.md Phase D2 — source verification and selection. Each entry below is verified: (a) it was actually opened (URL fetched, page read) this session, (b) open-access / free-audit status confirmed on the page, (c) what topics it carries is logged against the D1 matrix.
+**Built**: 2026-10-26 (T0 13:00:46 UTC; corrective pass T+20:04 UTC)
+**Status**: D2 resource pool — DRAFT, evidence-discipline corrections applied (advisor QC round 2). Each entry below carries an explicit EVIDENCE-TIER label: [OPENED-VERIFIED] = the URL was fetched and the page content was actually read this session; [ACCESS-CHECKED] = the access statement was confirmed on the page but the content itself was not read in full; [DISCOVERY] = surfaced via search results or a syllabus cross-reference only, NOT opened. No entry is treated as established unless it is at least ACCESS-CHECKED. Hours arithmetic: ASSIGNED HOURS UNMEASURED — no verified total is established in this pass.
 
 ## Verified resource pool (Buddhism)
 
@@ -31,29 +30,29 @@
 
 ## Coverage-matrix update (D2 → D1 matrix)
 
-Rows in the D1 coverage matrix now backed by an on-matrix verified open resource:
+Rows in the D1 coverage matrix with any open-carrier evidence. Each row below states what is actually established — no row is "VERIFIED OPEN" at module granularity; the strongest evidence in this pass is [OPENED-VERIFIED] carrier + a PROPOSED module assignment that still requires per-lecture / per-chapter measurement.
 
-| D1 row | Now backed by | Status |
+| D1 row | Carriers with evidence tier | What is actually established |
 |---|---|---|
-| What is Buddhism; Indian context; Buddha's life | BUD-TEACH-1 (Buddhism Through Its Scriptures, Hallisey) | VERIFIED OPEN |
-| Four Noble Truths + Eightfold Path | BUD-TEACH-2 (module 5) + BUD-TEXT-1 (the Nikaya suttas) + BUD-TEACH-3 | VERIFIED OPEN |
-| Karma, rebirth, three marks, dependent origination | BUD-TEACH-2 (modules 7, 9) + BUD-TEXT-1 | VERIFIED OPEN |
-| Five precepts, refuges, lay + monastic life | BUD-TEACH-2 (module 3) + BUD-TEXT-1 (Vinaya Pitaka link on ATI) | VERIFIED OPEN |
-| Abhidhamma / early Buddhist psychology | BUD-TEXT-1 (Abhidhamma Pitaka link on ATI) — but the free-distribution terms for Abhidhamma texts specifically were not confirmed on the page | PARTIALLY VERIFIED — the Abhidhamma carrier needs a per-text licence check |
-| Mahayana + bodhisattva ideal | NOT YET VERIFIED — the BUD-TEACH-1 course covers scriptural interpretation but the Mahayana-specific content was not confirmed on the page; the Perfection of Wisdom sutras (Heart, Diamond) are on the D1 matrix with no verified open carrier yet | GAP — flagged |
-| Nagarjuna / Madhyamaka | NOT YET VERIFIED — the Nagarjuna MMK paywalled-translation problem is the D1-known gap; no open carrier confirmed this session | GAP — flagged |
-| Chan / Zen | NOT YET VERIFIED — no open carrier confirmed this session | GAP — flagged |
-| Meditation: samatha + vipassana + mindfulness | BUD-TEACH-2 (modules 2, 8) + BUD-TEXT-1 (the Satipatthana Sutta and related suttas in the Nikayas) | PARTIALLY VERIFIED — the specific suttas (Satipatthana, Anapanasati) must be named and licence-checked at the next pass |
-| Buddhism in the West + modernism + mindfulness-psychology | BUD-TEACH-2 (modules 10-14: facing problems, integrating the path, living well, creating a better tomorrow) | PARTIALLY VERIFIED — the modernism/West-specific material is thin in the 14 modules; the D1 row may need a dedicated open carrier or a finite-scope exclusion |
+| What is Buddhism; Indian context; Buddha's life | BUD-TEACH-1 [OPENED-VERIFIED] | The Harvard page's own description confirms the free audit tier and the course's coverage of Buddhist scriptures and practices. The specific lecture assignments are NOT yet established. |
+| Four Noble Truths + Eightfold Path | BUD-TEACH-2 [OPENED-VERIFIED] (module 5 is "Seeing the Four Noble Truths"; module 6 "Entering the Path") + BUD-TEXT-1 [OPENED-VERIFIED] (the ATI page confirms 1,000+ sutta translations and the Nikaya structure) | The OBU module titles name the Four Noble Truths and the Path; the ATI page confirms the Nikaya divisions exist on the site. The specific suttas and lecture windows are NOT yet assigned. |
+| Karma, rebirth, three marks, dependent origination | BUD-TEACH-2 [OPENED-VERIFIED] (module 7 "Understanding Karma") | The OBU module title names karma. The three-marks and dependent-origination specifics are NOT established from this carrier alone. |
+| Five precepts, refuges, lay + monastic life | BUD-TEACH-2 [OPENED-VERIFIED] (module 3 "Taking Refuge in the Triple Gem") | The OBU module title names refuge. The precepts and monastic-life specifics are NOT established from this carrier alone. |
+| Abhidhamma / early Buddhist psychology | BUD-TEXT-1 [OPENED-VERIFIED] (the ATI page lists the five Nikayas; Abhidhamma Pitaka is NOT in the five Nikayas listed) | NOT ESTABLISHED — the ATI Tipitaka page lists the Sutta Pitaka Nikayas; the Abhidhamma carrier was NOT verified in this pass. |
+| Mahayana + bodhisattva ideal | no carrier in this pass | NOT ESTABLISHED — no verified open carrier located in this pass. |
+| Nagarjuna / Madhyamaka | no carrier in this pass | NOT ESTABLISHED — no verified open carrier located in this pass. |
+| Chan / Zen | no carrier in this pass | NOT ESTABLISHED — no verified open carrier located in this pass. |
+| Meditation: samatha + vipassana + mindfulness | BUD-TEACH-2 [OPENED-VERIFIED] (module 2 "Arousing Mindfulness"; module 8 "Refining the Mind") | The OBU module titles name mindfulness and mind-refinement. The specific Satipatthana / Anapanasati suttas are NOT yet named or licence-checked. |
+| Buddhism in the West + modernism + mindfulness-psychology | BUD-TEACH-2 [OPENED-VERIFIED] (modules 10-14) | The OBU module titles name facing-problems, integrating-the-path, living-well. The modernism/West-specific material is NOT established from this carrier alone. |
 
 ## Declared gaps (per the spec's honest-failure rule — these are flagged, not hidden)
 
-1. **Mahayana block (mod-bud-6, mod-bud-7, mod-bud-8)**: no on-matrix verified open carrier yet. The Heart/Diamond Sutras, Nagarjuna's MMK, Vasubandhu's Yogacara, and the Huayan Avatamsaka are all in paywalled academic translations (Wisdom, Oxford). The 84000 translation project (free) covers Tibetan Mahayana; the Heart/Diamond Sutras have public-domain Legge/Goddard translations on sacred-texts — these must be verified as a separate pass before the Mahayana block is admitted.
-2. **Chan/Zen block (mod-bud-10, mod-bud-11)**: no open carrier confirmed. The Platform Sutra has public-domain translations; Dogen's Shobogenzo is paywalled in the scholarly translations; the Kyoto School is paywalled.
-3. **Abhidhamma licence**: the Access to Insight Tipitaka page confirms CC BY 4.0 for the page text but not for the linked sutta documents — the per-sutta licence must be checked before specific suttas are named in modules.
-4. **SuttaCentral** (BUD-REF-1) was surfaced and corroborated by multiple independent sources but NOT directly fetched this session — one more verification pass is owed before it is admitted to the pool as an established primary-text carrier.
-5. **Vajrayana / Tibetan block (mod-bud-9)**: no open carrier confirmed this session. The FPMT free courses and Rangjung Yeshe are candidates that need verification.
-6. **Hours arithmetic**: BUD-TEACH-1 (4 weeks × ~2-4 h ≈ 8-16 h) + BUD-TEACH-2 (14 modules, the page does not state hours; a rough estimate of 30-40 h of reading across the 14 modules is an assumption that must be verified against the module docs) + BUD-TEXT-1 (the suttas — 1,000+ texts, effectively unlimited reading time) + BUD-TEACH-3 (the Majjhima Nikaya course — hours not stated on the page) gives a plausible but UNVERIFIED floor of roughly 40-80 hours. The specific per-course hours must be measured against the module docs (not estimated) at the D2 checkpoint, per the spec's "real (not nominal) hours" rule. The current pool does NOT yet satisfy the ≥100h bar with verified numbers.
+1. **Mahayana block (mod-bud-6, mod-bud-7, mod-bud-8)**: no verified open carrier located in this pass. The Heart/Diamond Sutras, Nagarjuna's MMK, Vasubandhu's Yogacara, and the Huayan Avatamsaka — no open carrier was located and fetched. The 84000 translation project and the public-domain Legge/Goddard routes are candidates that need one dedicated pass each.
+2. **Chan/Zen block (mod-bud-10, mod-bud-11)**: no verified open carrier located in this pass. The Platform Sutra and Dogen's Shobogenzo — no open carrier was located and fetched.
+3. **Abhidhamma licence**: the ATI Tipitaka page confirms CC BY 4.0 for the PAGE TEXT only, not for the linked sutta documents — the per-sutta licence must be checked before specific suttas are named in modules. The Abhidhamma Pitaka was NOT verified as a carrier in this pass at all.
+4. **SuttaCentral** (BUD-REF-1): surfaced and corroborated but NOT directly fetched this session — one more verification pass is owed.
+5. **Vajrayana / Tibetan block (mod-bud-9)**: no verified open carrier located in this pass. The FPMT free courses and Rangjung Yeshe are candidates that need verification.
+6. **Hours arithmetic**: ASSIGNED HOURS UNMEASURED — no verified total is established in this pass. The earlier "40–80h" range was an estimate built from broad-course workload and unverified module hours, NOT a measured figure, and is WITHDRAWN. The spec's method (selected on-scope passages and lecture windows, measured against the module docs) is the only valid calculation and has NOT been performed yet.
 
 ## D2 checkpoint (owed before D3)
 
