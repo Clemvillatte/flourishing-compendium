@@ -1,6 +1,6 @@
 ## Worker checkpoint (2026-10-26 00:48Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
-RECORD CORRECTIONS ROUND 2 (advisor QC, T+41): (1) A071 — the page's
+RECORD CORRECTIONS ROUND 2 (advisor QC, T+43): (1) A071 — the page's
 one quotation block was initially missed and my checkpoint wrongly said
 "no direct quotes"; the Rackham quote is now verified VERBATIM on the
 Perseus 1168b carrier (my first check used the Ross translation for a
