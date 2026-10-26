@@ -27,7 +27,7 @@ carries a UTC timestamp and the agent id.
 | https://www.youtube.com/watch?v=ksLO4i5pIBM | 2026-10-26, oembed confirmed between the 04:40Z claim push 06bdff724 and the M1 production push (same session; save timestamp carries the bound) | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | M1 re-confirmation: oembed returns "American Pragmatism" on the Philosophy Talk channel, freely playable, no paywall; duration 49:24 rests on the 2026-10-25 watch-page measurement in verify/deg-philosophy.md (M01-P03, verified-video) |
 | https://en.wikisource.org/wiki/How_to_Make_Our_Ideas_Clear | 2026-10-26, same session bound as the row above | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | M1 primary text opened: Peirce 1878 essay on Wikisource (public domain); the assigned excerpt (third-grade rule through the free-will example) read on the opened page, maxim sentence confirmed verbatim, excerpt measured at 646 words |
 | https://youtubetotranscript.com/transcript?v=ksLO4i5pIBM&current_language_code=en | 2026-10-26, between the 04:45:41Z clock reading and the repairs push (same session) | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | M01-P03 coverage upgrade: full third-party transcript read; Peirce, James and Dewey all discussed; meaning/truth as practical outcome confirmed; Peirce discussed from the opening onward, James at length in the middle, Dewey in the middle and near the end; no printed timestamps in the transcript, whole-episode assignment retained (third-party transcript route per the M01-P07/P12 verification precedent) |
-| https://artsci.tamu.edu/philosophy/contact/profiles/john-j-mcdermott.html | 2026-10-26, same session bound as the transcript row | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | M01-P03 guest credentials on an institutional page: John J. McDermott, University Distinguished Professor of Philosophy and Humanities, Texas A&M University; PhD Fordham 1959; General Editor, The Correspondence of William James (replaces the episode-description credential basis) |
+| https://stories.tamu.edu/news/2007/10/26/john-j-mcdermott-a-true-philosopher-at-heart/ | 2026-10-26, between the 04:51Z repairs work and the round-2 push (save timestamp carries the bound) | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | M01-P03 guest credentials on an opened institutional page (Texas A&M Stories, fetched in full this session): John J. McDermott, "distinguished professor of philosophy and humanities at Texas A&M University", general editor of The Correspondence of William James. Note: the artsci.tamu.edu profile page was located by search but its fetch was blocked (client error); the credential basis is the fetched stories.tamu.edu page (replaces the episode-description basis) |
 | https://en.wikisource.org/wiki/The_Will_to_Believe | 2026-10-26, same session bound as the transcript row | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | m1 Step 3 grounding, opened for verbatim quotes: live/forced/momentous option definitions, "Our passional nature must, and lawfully may, decide an option between propositions, whenever it is a genuine option that cannot by its nature be decided on intellectual grounds" confirmed verbatim; public domain |
 | https://www.gutenberg.org/files/5116/5116-h/5116-h.htm | 2026-10-26, same session bound as the transcript row | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | m1 Step 3 grounding, opened for verbatim quotes (Project Gutenberg #5116, public domain): "The pragmatic method... is to try to interpret each notion by tracing its respective practical consequences"; "Theories thus become instruments, not answers to enigmas, in which we can rest"; "The true is the name of whatever proves itself to be good in the way of belief, and good, too, for definite, assignable reasons"; "Truth happens to an idea" confirmed verbatim in Lecture II |
 | https://www.gutenberg.org/files/37423/37423-h/37423-h.htm | 2026-10-26, same session bound as the transcript row | worker-pplx-pragmatism-1026b (deg-wol-pragmatism) | m1 Step 3 grounding, opened for verbatim quotes (Project Gutenberg #37423, public domain): Dewey's definition of reflective thought and "The origin of thinking is some perplexity, confusion, or doubt" confirmed verbatim in How We Think (1910) |
@@ -287,3 +287,68 @@ follows this entry):
 
 m1 remains DRAFT NOT CLEARED; supervisor module-QC and advisor
 re-review requested.
+
+## Advisor QC round 2 on m1-orientation (2026-10-26, worker-pplx-pragmatism-1026b; repairs applied same session, PARTIALLY ADDRESSED)
+
+The advisor re-reviewed and returned five further findings; the state
+after this pass is PARTIALLY ADDRESSED (items 1, 2, 4 and 5 below are
+applied in the revised module; item 3 is applied to the extent possible
+this session, with two items recorded as PENDING and named in the
+module's verification section):
+
+1. Worked-example errors (APPLIED): the object-level list for the
+   faded-practice feedback no longer counts "work stalling where help
+   was needed" (a consequence of not asking, not of the claim's being
+   true) and now lists consequences of the claim's being true
+   (contempt or impatience visible when someone asks, easier-work
+   assignment following requests, reputation cost in how assignments
+   arrive). The fully worked example now runs in two moves: Peirce's
+   own hardness demonstration first, then the introvert application
+   explicitly STIPULATED for this walk (no unsourced psychological
+   characteristics presented as definitional). The criterion-1 rubric
+   exemplar now distinguishes a concept's meaning from evidence for a
+   claim (morning-person example rewritten). The belief-cost
+   reflection is labelled as THIS WALK'S exercise, tied forward to
+   m3's reading of The Will to Believe rather than attributed to
+   James's method.
+2. Primary-source grounding auditable (APPLIED): Step 3 now carries
+   inline links beside the James (Pragmatism, The Will to Believe) and
+   Dewey (How We Think) passages. Each James quotation is located
+   under its lecture heading by a fresh fetch of the Gutenberg text:
+   the method, instruments and true-is-good passages in Lecture II
+   ("What Pragmatism Means"); "truth happens to an idea" in Lecture VI
+   ("Pragmatism's Conception of Truth") — the module now attributes
+   it accordingly. The live, forced and momentous restrictions are
+   taught with James's own glosses, and the rubric criterion 3
+   exemplar preserves them (a James sentence that drops them reads as
+   a rejection example).
+3. Video verification (APPLIED AS FAR AS POSSIBLE THIS SESSION; TWO
+   ITEMS PENDING): the third-party transcript coverage is described
+   at its actual extent (a prompted extraction returning the recorded
+   passages; not a claimed line-by-line read); the guest credentials
+   basis is the fetched Texas A&M Stories page (row above; the artsci
+   profile blocked the fetch). Language recorded (English); caption
+   status recorded as not yet verified. Segmentation into timestamped
+   units and playback inspection are recorded as PENDING in the
+   module's verification section; the whole-episode assignment stands
+   until they are done, and the module no longer claims an unqualified
+   verified-video status ("verified-video with those two items
+   pending"). The segmentation work is routed to the supervisor
+   module-QC pass (it requires a player the worker session cannot
+   open).
+4. Measurement and provenance (APPLIED): the excerpt word count is
+   now measured at 647 between the pinned boundaries on the fetched
+   page extraction (the earlier 646 was counted on a manually
+   assembled copy; corrected). The video-first search is described
+   narrowly ("no suitable candidate was verified in that search").
+5. Leftovers (APPLIED): "all three use the same conception" removed
+   (first two items stipulated, third is the learner's own); "burned
+   unread" replaced with "burned without being tested"; the
+   "assign in full" claim replaced with "plan to assign"; the QC
+   findings are marked PARTIALLY ADDRESSED until the pending checks
+   pass.
+
+m1 remains DRAFT NOT CLEARED. Routed items: (a) supervisor
+module-QC, including the two pending video items (segmentation with
+timestamps, playback inspection, caption status); (b) advisor
+re-review round 3 requested.

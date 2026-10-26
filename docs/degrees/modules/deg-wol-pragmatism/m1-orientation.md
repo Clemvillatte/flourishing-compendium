@@ -67,15 +67,15 @@ on Wikisource (public domain). The assigned excerpt opens with the words
 "It appears, then, that the rule for attaining the third grade of
 clearness of apprehension is as follows" and closes with the words "this
 question is perfectly solved in the manner which I have indicated"; it
-runs through the diamond and free-will examples and measures 646 words
-on the opened page. This is the text the whole walk keeps returning to.
+runs through the diamond and free-will examples and measures 647 words
+between those boundaries on the opened page extraction. This is the text the whole walk keeps returning to.
 As you read, watch what the maxim asks about: the object of a
 conception, and the effects that object would conceivably have. Peirce
 demonstrates on hardness: the meaning of calling a thing hard lies in
 its not being scratched by many other substances, and there is no
 further difference between a hard thing and a soft thing while they stay
-untested. The diamond crystallized in soft cotton and burned unread
-carries his point: whether to call it soft is a question about which
+untested. The diamond crystallized in soft cotton and burned without
+being tested carries his point: whether to call it soft is a question about which
 arrangement of the facts is most perspicuous, and the maxim tells you
 where the meaning lives.
 
@@ -102,7 +102,9 @@ what works at the limit of inquiry, with convergence among all rational
 inquirers.
 
 James, a psychologist and philosopher, took the same method and made it
-a philosophy for living. In Pragmatism he states the method as trying
+a philosophy for living. In [Pragmatism
+(1907)](https://www.gutenberg.org/files/5116/5116-h/5116-h.htm)
+(Lecture II, "What Pragmatism Means") he states the method as trying
 "to interpret each notion by tracing its respective practical
 consequences", and he draws the consequences for theories: "Theories
 thus become instruments, not answers to enigmas, in which we can rest.
@@ -110,17 +112,24 @@ We don't lie back upon them, we move forward, and, on occasion, make
 nature over again by their aid." His account of truth carries a
 qualifier worth memorizing: "The true is the name of whatever proves
 itself to be good in the way of belief, and good, too, for definite,
-assignable reasons"; truth, he writes, "happens to an idea". In The
-Will to Believe he faces the situations where evidence runs out: our
-passional nature "must, and lawfully may, decide an option between
-propositions, whenever it is a genuine option that cannot by its nature
-be decided on intellectual grounds", and a genuine option is one that is
-live, forced and momentous. That is a bounded permission, and m3 reads
-the whole argument.
+assignable reasons" (Lecture II); and in Lecture VI, "Pragmatism's
+Conception of Truth", he writes that truth "happens to an idea". In
+[The Will to
+Believe](https://en.wikisource.org/wiki/The_Will_to_Believe) he faces
+the situations where evidence runs out: our passional nature "must,
+and lawfully may, decide an option between propositions, whenever it
+is a genuine option that cannot by its nature be decided on
+intellectual grounds", and a genuine option, in his terms, is one that
+is live (both hypotheses appeal as real possibilities), forced (there
+is no standing place outside the alternative) and momentous (a unique
+opportunity, where refusing to choose loses the prize as surely as
+trying and failing). That is a bounded permission, and m3 reads the
+whole argument.
 
 Dewey, who spent decades on education and public life, widened the
-method into a general account of inquiry and growth. In How We Think
-he defines reflective thought as "active, persistent, and careful
+method into a general account of inquiry and growth. In [How We Think
+(1910)](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm) he
+defines reflective thought as "active, persistent, and careful
 consideration of any belief or supposed form of knowledge in the light
 of the grounds that support it and the further conclusions to which it
 tends", and he locates its origin: "The origin of thinking is some
@@ -128,8 +137,8 @@ perplexity, confusion, or doubt." The university curricula this walk
 was benchmarked against teach his ethics and his democracy texts side
 by side with the classics (Duke's syllabus assigns Dewey's
 Construction of the Good and Philosophy and Democracy; Georgetown's
-required Dewey volume is the ethics one), and m4 reads Dewey on
-inquiry, ethics and democracy in that company.
+required Dewey volume is the ethics one), and m4 is planned to read
+Dewey on inquiry, ethics and democracy in that company.
 
 You will restate this relation from memory in the graded work. One
 caution while you take notes in Step 1: the episode's coverage of the
@@ -140,38 +149,47 @@ reads those texts themselves.
 ### Step 4: worked example with fading (Outcome 2)
 
 The maxim applied to a conception, demonstrated three times with the
-guidance faded. All three use the same conception so you can watch the
-moves without new content. The case is constructed for teaching; test
-it against your own material rather than take it as a finding.
+guidance faded. The first two items use one stipulated conception so
+you can watch the moves without new content; the third moves to your
+own. The stipulated case is constructed for teaching; test it against
+your own material rather than take it as a finding.
 
 The conception: "I am an introvert."
 
-1. Fully worked (demonstrated). What the maxim asks first: the effects
-   the object of the conception would conceivably have in practice.
-   Being an introvert, as a conception of a person, shows itself in a
-   pattern of effects: energy that holds through an evening of one or
-   two close conversations and drains across a long party; a
-   preference for depth with a few people over breadth with many; a
-   working style that seeks quiet rooms for hard thinking; recovery
-   after heavy socializing that seeks solitude. Those effects, and
-   others like them, are the whole of the conception. There is no
-   further fact about being "really" an introvert that sits behind
-   them, which is the lesson of Peirce's diamond: the question of
-   whether the person who never attends parties is "really" an
-   introvert is a question about which arrangement of facts is most
-   perspicuous for the inquiry at hand, and the meaning lives in the
-   effects either way. Now the separate step the maxim does not ask
-   about: what holding the belief does. Believing "I am an introvert"
-   can close options before any test (declining invitations, reading
-   every tired evening as confirmation), can spare the awkwardness of
-   being a beginner at social skills, and can shape what counts as
-   evidence, since a lively evening would be explained away as a
-   fluke. Those are effects of believing, and they matter to a
-   different inquiry, the one James pursues in The Will to Believe:
-   when you may let your passional nature decide. They tell you what
-   the belief costs and protects; they do not add to or subtract from
-   the conception's meaning. Keep the two lists apart in your own
-   work; the graded rubric checks that you can.
+1. Fully worked (demonstrated, in two moves). First move: Peirce's own
+   demonstration, from the excerpt. The conception "hard": its
+   conceivable practical effects are resistance to scratching by many
+   other substances; that is the whole of the conception, and while a
+   hard thing and a soft thing stay untested there is no difference
+   between them. The question about the diamond burned without being
+   tested, whether it was "really" hard, is a question about which
+   arrangement of facts is most perspicuous; the meaning stays put in
+   the effects either way. Second move: the same pattern, stipulated
+   for this walk. Take "introvert" as naming a pattern of effects:
+   energy that holds through an evening of one or two close
+   conversations and drains across a long party; a preference for
+   depth with a few people over breadth with many; recovery after
+   heavy socializing that seeks solitude. Stipulate those as the
+   effects the conception tracks; the maxim's verdict then matches
+   Peirce's on hardness: those effects, and others like them, are the
+   whole of the conception, and the question of whether someone who
+   never attends parties is "really" an introvert is a question about
+   which arrangement of facts serves the inquiry, with the meaning
+   living in the effects either way. Now the separate step, which the
+   maxim does not ask about: what holding the belief does.
+   Believing "I am an introvert" can close options before any test
+   (declining invitations, reading every tired evening as
+   confirmation), can spare the awkwardness of being a beginner at
+   social skills, and can shape what counts as evidence, since a
+   lively evening would be explained away as a fluke. Those are
+   effects of believing. This walk's exercise asks you to name them
+   separately because they matter to a question the walk takes up
+   through James's The Will to Believe in m3: when our passional
+   nature may lawfully decide an option that cannot by its nature be
+   decided on intellectual grounds. The belief-cost list tells you
+   what the belief costs and protects; it does not add to or
+   subtract from the conception's meaning. Keep the two lists apart in
+   your own work; the graded rubric checks that you can.
 2. Steps named (partially worked). Take the conception: "asking for
    help at work makes me look incompetent." First task: name the
    effects the claim's object would conceivably have in practice if
@@ -184,9 +202,10 @@ The conception: "I am an introvert."
    so the belief generates its own apparent confirmation. Complete
    the rest. Feedback to check against once you have written yours:
    a strong answer names observable consequences of the claim's
-   being true (visible contempt or impatience from colleagues, work
-   stalling where help was needed, a reputation cost that shows up in
-   how assignments come to you), then states that those effects are
+   being true (colleagues visibly reacting with contempt or
+   impatience when someone asks for help, requests being followed by
+   assignment of easier work, a reputation cost that shows up in how
+   assignments come to the person), then states that those effects are
    the whole of the conception, then separately lists effects of
    holding the belief (avoiding requests, rehearsing worst readings,
    guardedness), labelled as such.
@@ -242,13 +261,16 @@ only what serves learning to test beliefs in experience.
 
 1. The core idea statement matches the tradition's usage and carries a
    life example. Strong: "A belief is a tool for living: what a concept
-   means is the practical effects its object would have, and the test
-   of an idea is what acting on it does; my idea of being 'not a
-   morning person' turned out to name a set of arrangements, and when I
-   changed the arrangements the idea's meaning was the only thing that
-   changed." Rejection: "Pragmatism means being practical" (an
-   everyday gloss with no instrument idea and no example), or a correct
-   statement with an example that never touches the learner's life.
+   means is the practical effects its object would have; whether a
+   claim using the concept holds is a separate question of evidence.
+   My concept of being 'not a morning person' names a pattern of
+   effects (alertness, energy at certain hours); whether that pattern
+   holds for me is something my mornings can tell me, and the
+   concept's meaning stays the same either way." Rejection: "Pragmatism
+   means being practical" (an everyday gloss with no instrument idea
+   and no example), a correct statement with an example that never
+   touches the learner's life, or an example that treats evidence for
+   a claim as if it changed the concept's meaning.
 2. The maxim application names at least three conceivable practical
    effects of the object, states the verdict sentence, and keeps the
    belief-effects list separate and labelled. Strong: for "asking for
@@ -264,12 +286,15 @@ only what serves learning to test beliefs in experience.
    without collapsing them into one another. Strong: "Peirce supplied
    the logic: doubt disrupts, belief is settled habit, the maxim makes
    ideas testable. James turned it on living: theories are instruments,
-   truth happens to an idea, and some choices must be made before the
-   evidence is in. Dewey widened it: thinking begins in perplexity and
-   works by considering beliefs in the light of their grounds and
-   tendencies." Rejection: three biographical paragraphs with no
-   relation between them; or all three figures merged into "the
-   pragmatists said truth is what works".
+   truth happens to an idea, and for him our passional nature may
+   lawfully decide only a live, forced, momentous option that cannot
+   be decided on intellectual grounds. Dewey widened it: thinking
+   begins in perplexity and works by considering beliefs in the light
+   of their grounds and tendencies." Rejection: three biographical
+   paragraphs with no relation between them; all three figures merged
+   into "the pragmatists said truth is what works"; or a James
+   sentence that drops his restrictions and reads as permission to
+   believe whatever is useful.
 4. The scope statement names the walk's coverage in the learner's own
    words and each exclusion with its owner or branch. Strong: an answer
    that states the method-and-application coverage, names
@@ -285,7 +310,7 @@ only what serves learning to test beliefs in experience.
   measured from the watch page (2026-10-25) and confirmed accessible by
   oembed this session (2026-10-26). With note-taking: about 60 minutes
   (estimate).
-- Required reading: the Peirce excerpt, 646 words measured on the
+- Required reading: the Peirce excerpt, 647 words measured on the
   opened page. At 130 words per minute (many new concepts; the 238
   words-per-minute adult default adjusted down by purpose) about 5
   minutes raw; with study overhead at three times raw, about 15 minutes
@@ -302,7 +327,8 @@ Total: about 2 hours 50 minutes (about 170 minutes of labelled
 components: 60 viewing, 15 reading with overhead, 15 relation prose, 25
 worked example and faded practice, 10 retrieval, 45 graded). Optional
 further reading (the rest of Peirce's essay; the James and Dewey texts
-quoted in Step 3, which m3 and m4 assign in full) is not counted.
+quoted in Step 3, which the walk's later modules plan to assign) is not
+counted.
 
 ## Verification status of attached sources
 
@@ -314,35 +340,47 @@ with evidence and dates in ledgers/deg-wol-pragmatism.md:
   docs/degrees/verify/deg-philosophy.md (identity and access by oembed,
   duration 49:24 from the watch page, coverage basis the episode
   description); this session (2026-10-26) re-confirmed existence and
-  free access by oembed, upgraded the coverage basis by reading the
-  full third-party transcript (Peirce, James and Dewey all discussed;
-  meaning and truth as practical outcome confirmed; no printed
-  timestamps in the transcript, so the whole episode is assigned and
-  the discussion distribution is recorded from the transcript), and
-  verified the guest's credentials on an institutional page (John J.
-  McDermott, University Distinguished Professor of Philosophy and
-  Humanities, Texas A&M University; Texas A&M College of Arts and
-  Sciences profile). Verified-video.
+  free access by oembed, upgraded the coverage basis by a prompted
+  extraction of the full third-party transcript (the passages it
+  returned confirm Peirce, James and Dewey all discussed and meaning
+  and truth as practical outcome; the extraction did not establish a
+  line-by-line read of the whole transcript, and the recorded
+  distribution stands as what the returned passages support: Peirce
+  from the opening onward, James at length in the middle, Dewey in
+  the middle and near the end; no printed timestamps in the
+  transcript, so the whole episode is assigned), and verified the
+  guest's credentials on an institutional page: the Texas A&M
+  Stories profile (stories.tamu.edu), fetched this session, states
+  John J. McDermott is "distinguished professor of philosophy and
+  humanities at Texas A&M University" and general editor of The
+  Correspondence of William James. Language: English. Caption
+  status on the player: not yet verified; segmentation into
+  timestamped units and playback inspection remain PENDING, and the
+  module's whole-episode assignment stands until they are done.
+  Verified-video with those two items pending.
 - Peirce, How to Make Our Ideas Clear (Wikisource, public domain,
   1878): opened this session (2026-10-26); the assigned excerpt was
   read on the opened page, the maxim sentence confirmed verbatim, the
-  excerpt's opening and closing words pinned, and the excerpt word
-  count measured at 646 on the page extraction. Author identity rests
-  on the essay itself (signed C. S. Peirce in the January 1878
-  Popular Science Monthly, per the page header). Verified text.
+  excerpt's opening and closing words pinned, and the word count
+  measured at 647 between the pinned boundaries on the fetched page
+  extraction. Author identity rests on the essay itself (signed C. S.
+  Peirce in the January 1878 Popular Science Monthly, per the page
+  header). Verified text.
 
 Three further texts were opened this session to ground the Step 3
 teaching prose (read for verbatim quotes, not assigned as m1 reading):
 James, Pragmatism (Project Gutenberg #5116, public domain); James,
 The Will to Believe (Wikisource, public domain); Dewey, How We Think
 (Project Gutenberg #37423, public domain). All quotes in Step 3 were
-confirmed verbatim on the opened pages; evidence rows are in the
-ledger. No paywall stands in front of any source. No imported labels
-remain on attached sources.
+confirmed verbatim on the opened pages, with each James quotation
+located under its lecture heading (Lecture II for the method,
+instruments and true-is-good passages; Lecture VI for "truth happens
+to an idea"); evidence rows are in the ledger. No paywall stands in
+front of any source. No imported labels remain on attached sources.
 
 Video-first check (owner decision 8): a focused search for a
 credentialed lecture video covering the maxim text itself found no
-candidate meeting the section-4 standard (search recorded in the
+suitable candidate verified in that search (search recorded in the
 ledger, 2026-10-26); the orientation content is carried by the
 verified lecture video above, and the maxim text is carried by the
 primary-text reading, which is the fallback the video-first policy

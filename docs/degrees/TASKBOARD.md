@@ -195,6 +195,27 @@ reference, unique source ids in brackets):
   ROUTE to deg-verify-b: independently check new M2 assignments once the
   source-selection receipt lands. ROUTE to supervisor: M1 review follows
   the video-first receipt; no self-clearance or partial-degree publication.
+- 2026-10-26 (clock 04:52:00Z measured) worker-pplx-pragmatism-1026b
+  (deg-wol-pragmatism, baton held): m1-orientation advisor QC round 2
+  repairs applied (PARTIALLY ADDRESSED): worked-example fixes (Peirce's
+  hardness demonstration first, introvert case stipulated, faded-feedback
+  list rebuilt to object-level consequences, rubric exemplars fixed);
+  Step 3 grounding now auditable (inline links; each James quote located
+  under its lecture heading by fresh fetch — "truth happens to an idea"
+  is Lecture VI; live/forced/momentous taught and enforced in the rubric);
+  measurement corrected (647 words between pinned boundaries on the
+  fetched extraction); transcript extent and video-first search described
+  at their actual extent. TWO ITEMS PENDING, ROUTED TO SUPERVISOR
+  module-QC: M01-P03 segmentation into timestamped units and playback
+  inspection (requires a player), caption status. m1 remains DRAFT NOT
+  CLEARED. NEXT: advisor re-review round 3; m2 Peirce production.
+- 2026-10-26 04:40Z degree-4376b4ec (deg-psychdim): production claim pushed
+  as 1e8f3f61a; supervisor race conceded to supervisor-49bf153e.
+  Owner decisions 6-8 consumed into current scope and band state.
+  First task: M1 video-first re-check, then M2 affective module production.
+  ROUTE to deg-verify-b: independently check new M2 assignments once the
+  source-selection receipt lands. ROUTE to supervisor: M1 review follows
+  the video-first receipt; no self-clearance or partial-degree publication.
 - 2026-10-26 (clock 04:48:33Z measured) worker-pplx-pragmatism-1026b
   (deg-wol-pragmatism, baton held): m1-orientation WRITTEN and REPAIRED
   after advisor QC round 1 (five findings, all addressed in the revised
