@@ -251,6 +251,29 @@ recheck applied this pass as production owner:
   title is supplied in the audit file. No module change made for
   this item.
 
+DEG-VERIFY-B M3 SOURCE-TO-TASK FLAG APPLIED (2026-10-26, flag c814f6e):
+the verifier flagged that the Ehring 2021 rumination source is a
+commentary/synthesis, not a primary experiment report, so the M3
+exercise must not ask learners to treat it as a primary study or
+invent experimental details. Applied at planning level (module text
+stays held with M3 production): the full-matrix row and the scope
+doc's M3 exercise list now read commentary appraisal, the row states
+that the exercise distinguishes what a commentary can and cannot
+support and identifies the information a primary report would add, and
+the exercise description includes crediting not reported or cannot
+assess where appropriate, matching the verifier's bounded proposal.
+The verifier's suggested short paragraph for the module (beginning
+Converging evidence comes from experimental research) is recorded for
+M3 production, not adopted now. The conditioning-excerpt boundary
+measurement (PD-V14) is also recorded by the verifier for M3; my
+refresh of the conditioning module this session independently
+confirms its habit coverage serves the row.
+
+WAITING ON (2026-10-26, 00:41Z): stop-gate ruling (enrichment
+supervisor supervisor-pplx-1026c, baton FRESH); deg-gate final
+confirmation of the re-review outcome (reviewer baton STALE, 32+
+minutes); pedagogical reviewer recheck of the changed M1 passages.
+
 STOP-GATE CONFLICT (flagged to the live supervisor for a documented
 ruling, 2026-10-26): the Gap register below still records that the
 Phase 0 pilot stop-gate blocks module production; the owner's 2026-10-26
@@ -1120,7 +1143,7 @@ blocking gaps on the register, not quiet omissions.
 | cognitive | Perception as educated unconscious inference: constancy, Gestalt segmentation, depth cues and illusions (essential: the standard introductory treatment of perception, grounded in a verified lecture segment) | verified OYC lecture 7 chapter 4 (00:18:06 to 00:39:15) | M3 | lecture segment with illusions demonstrated | choose one illusion from the learner's own visual experience, name the conditions that produced it there, and state what the Gestalt account helps them notice versus what remains uncertain | analysis rubric with walk-of-life clause |
 | self | Self-esteem: definition and its distinction from self-concept clarity (essential: a core self-evaluation construct explicitly distinguished in the opened SCC review) | [Manchiraju 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/) | M5 | reading | distinction exercise between SCC and self-esteem | short written distinction |
 | cognitive | Rumination and repetitive negative thinking: features, transdiagnostic evidence (essential: a current transdiagnostic literature grounded in an opened World Psychiatry review) | [Ehring 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/) | M3 | reading | analyse an RNT episode against the defining features | rubric-checked analysis |
-| cognitive | Appraisal of experimental evidence: rumination induction studies (essential: trains the owner's critical-reading exit capability) | [Ehring 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/) | M3 | reading plus study appraisal | appraisal of a rumination induction study | appraisal rubric |
+| cognitive | Appraisal of a commentary's claims about experimental evidence: rumination and RNT (essential: trains the owner's critical-reading exit capability; the Ehring 2021 source is a synthesis, not a primary experiment report, and the exercise distinguishes what a commentary can and cannot support and identifies the information a primary report would add — per deg-verify-b's source-to-task alignment flag c814f6e) | [Ehring 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/) | M3 | reading plus commentary appraisal | appraising the commentary's claims about experimental evidence, crediting not reported or cannot assess where appropriate | appraisal rubric |
 | attentional | The three attention networks with anatomy and modulators (essential: the three-network framework used by the opened attention reviews) | [Posner et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/); [Posner 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/) | M4 | reading | network-to-symptom mapping exercise | mapping rubric |
 | attentional | Selective attention and its limits: spotlight, Stroop, inattentional blindness, change blindness (essential: the classic phenomena of attentional selection, grounded in a verified lecture segment; supplementary to the network framework, not a substitute for it) | verified OYC lecture 7 chapter 5 (00:39:15 to 00:58:04) | M4 | lecture segment with demonstrations | explain one blindness phenomenon by the attention window | explanation rubric |
 | attentional | Attention measurement (ANT), development, links to disorders and affect regulation (essential: connects the dimension to evidence and to affect) | [Posner et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/); [Posner 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/) | M4 | reading | interpret supplied sample network scores (which network is doing what in the reported data, and what the scores cannot settle); then, as a separate question, take one recurring attention situation from the learner's own day and state what the network framework does and does not say about it | interpretation exercise with walk-of-life question |
