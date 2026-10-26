@@ -18760,7 +18760,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Bergson's [Creative evolution](card:Creative%20evolution) makes life itself genuinely new, carried by the élan vital, a shared thrust. Mechanism and finalism both make real creation impossible — mechanism reads an impulse of thought backward into inherited suppositions, finalism assumes a conceptual arrangement of means to ends — and both, he says, fail for the same reason."
+          "x": "Bergson's [Creative evolution](card:Creative%20evolution) makes life itself genuinely new, carried by the élan vital, a shared thrust. Mechanism and finalism both make real creation impossible: mechanism reads an impulse of thought backward into inherited suppositions, finalism assumes a conceptual arrangement of means to ends; and both, he says, fail for the same reason."
         },
         {
           "t": "p",
@@ -18781,7 +18781,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The Nahua [Flower and song](card:Flower%20and%20song) — the difrasismo in xochitl in cuicatl — puts art and metaphor as the world's own activity, on a metaphysics in which the cosmos is the ongoing self-expression of teotl, nature and art the same activity. One entry marks the boundary of the person-level claim: [Creative destruction](card:Creative%20destruction) is Schumpeter's term for capitalism renewing itself by displacing the old from within — renewal that destroys, and the creation there is the system's, not the person's."
+          "x": "The Nahua [Flower and song](card:Flower%20and%20song) (the difrasismo in xochitl in cuicatl) puts art and metaphor as the world's own activity, on a metaphysics in which the cosmos is the ongoing self-expression of teotl, nature and art the same activity. One entry marks the boundary of the person-level claim: [Creative destruction](card:Creative%20destruction) is Schumpeter's term for capitalism renewing itself by displacing the old from within: renewal that destroys, and the creation there is the system's, not the person's."
         },
         {
           "t": "h",
@@ -18798,7 +18798,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Vico's [Verum factum](card:Verum%20factum) makes the knowledge claim: the true and the made are one, verum et factum convertuntur — we know the human world fully because we made it, and the mind does not make itself as it gets to know itself. The [pontifex, bridge-maker](card:The%20pontifex%2C%20bridge-maker) holds the sociology of mediation: the Roman high priest's title, pons plus facere, the one who makes the bridge between the community and the gods, connection as something built with a social status to go with it — though ancient scholars contested the etymology from the start."
+          "x": "Vico's [Verum factum](card:Verum%20factum) makes the knowledge claim: the true and the made are one, verum et factum convertuntur: we know the human world fully because we made it, and the mind does not make itself as it gets to know itself. The [pontifex, bridge-maker](card:The%20pontifex%2C%20bridge-maker) holds the sociology of mediation: the Roman high priest's title, pons plus facere, the one who makes the bridge between the community and the gods, connection as something built with a social status to go with it, though ancient scholars contested the etymology from the start."
         },
         {
           "t": "p",
@@ -18810,7 +18810,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The Stoic [interconnected good](card:The%20interconnected%20good) is the boundary to this cluster: Marcus Aurelius's sympatheia holds that all things are implicated with one another and the bond is holy — a connection the world already has rather than one a person makes."
+          "x": "The Stoic [interconnected good](card:The%20interconnected%20good) is the boundary to this cluster: Marcus Aurelius's sympatheia holds that all things are implicated with one another and the bond is holy: a connection the world already has rather than one a person makes."
         },
         {
           "t": "p",
@@ -18836,7 +18836,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Sennett extends the impulse well past skilled manual labour, to programming, medicine and parenting, and holds that in all these domains craftsmanship focuses on objective standards, on the thing itself. I group Zhuangzi's [quiet craftsman's life](card:The%20quiet%20craftsman%27s%20life) — Qing's bell-stands look like the work of spirits because his fasting loses thought of reward by the third day, praise by the fifth, and his own body by the seventh — with Weil's [craft of attention](card:The%20craft%20of%20attention), attention as the trained suspension of one's own thought so the thing or person in front of one can appear, as an editorial comparison: kindred focus, contemplative registers."
+          "x": "Sennett extends the impulse well past skilled manual labour, to programming, medicine and parenting, and holds that in all these domains craftsmanship focuses on objective standards, on the thing itself. I group Zhuangzi's [quiet craftsman's life](card:The%20quiet%20craftsman%27s%20life) (Qing's bell-stands look like the work of spirits because his fasting loses thought of reward by the third day, praise by the fifth, and his own body by the seventh) with Weil's [craft of attention](card:The%20craft%20of%20attention), attention as the trained suspension of one's own thought so the thing or person in front of one can appear, as an editorial comparison: kindred focus, contemplative registers."
         },
         {
           "t": "p",
@@ -18866,7 +18866,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Erikson's generativity — the adult concern for guiding and providing for the next generation, set against stagnation — became a measurable research programme. [Generativity theory](card:Generativity%20theory) records the arrangement:"
+          "x": "Erikson's generativity, the adult concern for guiding and providing for the next generation, set against stagnation, became a measurable research programme. [Generativity theory](card:Generativity%20theory) records the arrangement:"
         },
         {
           "t": "q",
@@ -18929,15 +18929,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Maslow and Frankl give the maker's fulfilment different directions. Maslow, naming the need he called self-actualization in 1943, gives the maker's own completion as the stake — \"A musician must make music, an artist must paint, a poet must write, if he is to be ultimately happy. What a man can be, he must be.\" ([Maslow, \"A Theory of Human Motivation\", 1943](https://psychclassics.yorku.ca/Maslow/motivation.htm))"
+          "x": "Maslow and Frankl give the maker's fulfilment different directions. Maslow, naming the need he called self-actualization in 1943, gives the maker's own completion as the stake: \"A musician must make music, an artist must paint, a poet must write, if he is to be ultimately happy. What a man can be, he must be.\" ([Maslow, \"A Theory of Human Motivation\", 1943](https://psychclassics.yorku.ca/Maslow/motivation.htm))"
         },
         {
           "t": "p",
-          "x": "Frankl reads the attainment differently — \"In other words, self-actualization is possible only as a side-effect of self-transcendence.\" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)) An artist could need to paint, as Maslow says, while finding the fulfilment Frankl describes, by attending to the work rather than the self; Maslow's own satisfaction condition, doing what one is fitted for, already puts the work in the foreground. I read the two as different angles on one restlessness, and the sources do not settle it."
+          "x": "Frankl reads the attainment differently: \"In other words, self-actualization is possible only as a side-effect of self-transcendence.\" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)) An artist could need to paint, as Maslow says, while finding the fulfilment Frankl describes, by attending to the work rather than the self; Maslow's own satisfaction condition, doing what one is fitted for, already puts the work in the foreground. I read the two as different angles on one restlessness, and the sources do not settle it."
         },
         {
           "t": "p",
-          "x": "Freud and Frankl read the maker's motive differently. Freud, in his 1908 essay on creative writers and day-dreaming, explains how a writer's wishes can take literary form — \"The motive forces of phantasies are unsatisfied wishes, and every single phantasy is the fulfilment of a wish, a correction of unsatisfying reality.\" — and the work itself, he says, runs from \"a wish which finds its fulfilment in the creative work\" ([Freud, \"Creative Writers and Day-Dreaming\", 1908](https://archive.org/download/the-adolescent-fyodor-dostoevsky-novel/Creative%20Writers%20and%20Daydreaming%20%28Sigmund%20Freud%20Essay%29.pdf)). The account reaches the reader's side too: the pleasure the work affords is, on his account, a fore-pleasure, and \"our actual enjoyment of an imaginative work proceeds from a liberation of tensions in our minds.\" ([Freud, \"Creative Writers and Day-Dreaming\", 1908](https://archive.org/download/the-adolescent-fyodor-dostoevsky-novel/Creative%20Writers%20and%20Daydreaming%20%28Sigmund%20Freud%20Essay%29.pdf))"
+          "x": "Freud and Frankl read the maker's motive differently. Freud, in his 1908 essay on creative writers and day-dreaming, explains how a writer's wishes can take literary form: \"The motive forces of phantasies are unsatisfied wishes, and every single phantasy is the fulfilment of a wish, a correction of unsatisfying reality.\" The work itself, he says, runs from \"a wish which finds its fulfilment in the creative work\" ([Freud, \"Creative Writers and Day-Dreaming\", 1908](https://archive.org/download/the-adolescent-fyodor-dostoevsky-novel/Creative%20Writers%20and%20Daydreaming%20%28Sigmund%20Freud%20Essay%29.pdf)). The account reaches the reader's side too: the pleasure the work affords is, on his account, a fore-pleasure, and \"our actual enjoyment of an imaginative work proceeds from a liberation of tensions in our minds.\" ([Freud, \"Creative Writers and Day-Dreaming\", 1908](https://archive.org/download/the-adolescent-fyodor-dostoevsky-novel/Creative%20Writers%20and%20Daydreaming%20%28Sigmund%20Freud%20Essay%29.pdf))"
         },
         {
           "t": "p",
@@ -18945,7 +18945,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "These claims need not conflict: a work could fulfil a wish and still answer a meaning beyond its author. Freud offers the wish formula as a first approach — the essay says so itself — and gives the account for the day-dream-like work. I find Frankl's emphasis the more useful one when deciding what to make, and that preference is mine; it does not show Freud's account of wish-fulfilment false. The sources do not settle how much of any maker's work is one or the other."
+          "x": "These claims need not conflict: a work could fulfil a wish and still answer a meaning beyond its author. Freud offers the wish formula as a first approach (the essay says so itself) and gives the account for the day-dream-like work. I find Frankl's emphasis the more useful one when deciding what to make, and that preference is mine; it does not show Freud's account of wish-fulfilment false. The sources do not settle how much of any maker's work is one or the other."
         },
         {
           "t": "p",
@@ -18953,11 +18953,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Arendt and Bergson differ in what they watch making for: Arendt's toolmaker \"invented tools and implements in order to erect a world, not—at least, not primarily—to help the human life process\" ([Arendt, The Human Condition, excerpt](https://kortina.nyc/notes/the-human-condition/)), while Bergson's creation runs on the vital side of that line — joy \"always announces that life has succeeded, gained ground, conquered\", and his example of a creator is the mother beholding her child ([Bergson, Life and Consciousness](https://www.anthologialitt.com/post/henri-bergson-life-and-consciousness))."
+          "x": "Arendt and Bergson differ in what they watch making for: Arendt's toolmaker \"invented tools and implements in order to erect a world, not—at least, not primarily—to help the human life process\" ([Arendt, The Human Condition, excerpt](https://kortina.nyc/notes/the-human-condition/)), while Bergson's creation runs on the vital side of that line: joy \"always announces that life has succeeded, gained ground, conquered\", and his example of a creator is the mother beholding her child ([Bergson, Life and Consciousness](https://www.anthologialitt.com/post/henri-bergson-life-and-consciousness))."
         },
         {
           "t": "p",
-          "x": "The two lives named here are not the same thing — Arendt's life process is the biological cycle of labour, Bergson's life is the creative thrust — and neither passage denies what the other affirms. I read it as a difference of emphasis about the same making: the thing may serve a durable world and still be, for the maker, one more form that life takes."
+          "x": "The two lives named here are not the same thing: Arendt's life process is the biological cycle of labour, Bergson's life is the creative thrust — and neither passage denies what the other affirms. I read it as a difference of emphasis about the same making: the thing may serve a durable world and still be, for the maker, one more form that life takes."
         },
         {
           "t": "p",
@@ -19053,7 +19053,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The third disagreement is about what the making has to work with. Sartre denies a pre-given human essence: \"there is no human nature, because there is no God to have a conception of it\", and every man is \"condemned at every instant to invent man\" — \"without any support or help whatever\". He does not deny shared circumstances, or responsibility toward others, or the weight of conditions on a choice; what he denies is a pre-given essence, a definition of the person that precedes what the person makes of themselves. ([Sartre, Existentialism is a Humanism, 1946](https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm))"
+          "x": "The third disagreement is about what the making has to work with. Sartre denies a pre-given human essence: \"there is no human nature, because there is no God to have a conception of it\", and every man is \"condemned at every instant to invent man\", \"without any support or help whatever\". He does not deny shared circumstances, or responsibility toward others, or the weight of conditions on a choice; what he denies is a pre-given essence, a definition of the person that precedes what the person makes of themselves. ([Sartre, Existentialism is a Humanism, 1946](https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm))"
         },
         {
           "t": "p",
