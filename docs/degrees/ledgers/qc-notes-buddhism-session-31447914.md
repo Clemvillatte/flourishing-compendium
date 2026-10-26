@@ -94,6 +94,19 @@ are labelled (b5 about 3 h 30 m; b6 about 4 h 20 m; b7 about 4 h 40
 m); b6 and b7 sit at the heavy end for L2 (two full lectures each), a
 candidate segmentation question for the supervisor's module-QC pass.
 
+## Cross-spine consistency note (applies to m1 if it survives as canonical)
+
+m1's prose references module numbers from my original m1-m8 map ("m2
+develops the ethical core", "the meanings of the individual factors are
+taught in m2 and m3", "meditation method (m3)", "the schools (m4-m6)",
+"Buddhist psychology (m7)"). The producing session's spine, now fully
+drafted, is b1-b8, where the ethical core is b3, the meditations b4,
+the schools b5-b7 and the capstone b8. Whichever draft survives the
+supervisor's canonical decision, these cross-references need renumbering
+to the surviving spine before module-QC can pass the module. (Noted
+here rather than edited into m1, because the canonical decision is
+pending and the producing session owns the b-spine.)
+
 ## Receipt corrections applied to the main ledger this pass
 
 - The Kirchner Buddhist Society series receipt was upgraded from
