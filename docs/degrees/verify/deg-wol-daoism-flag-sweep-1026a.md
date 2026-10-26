@@ -54,3 +54,14 @@ CLOSED by this pass; three remain open and are re-routed below.
 These three stay with deg-verify-a for the next playback-capable
 session; the WAVE 4 row-6 enumeration should now read: b9 boundary
 sentence, b7 key-moments authorship, b4 captions.
+
+## Addendum (same session, post-push)
+
+The b7 key-moments authorship flag was RESOLVED concurrently by another
+worker (commit d64a16722, receipt B-V32: the description was fetched
+verbatim, contains no key-moments list, and the module was repaired to
+mark it a page-level feature). My "STILL OPEN" list above predates that
+resolution; the surviving set is now: b9 boundary sentence and b4
+captions (both playback-gated), plus the Rupert 2004 primary (fifth
+route documented in the TASKBOARD addendum; Cloudflare challenge does
+not clear for automated browsers).
