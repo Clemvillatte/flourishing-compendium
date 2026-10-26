@@ -29,7 +29,7 @@ The three syllabi agree on the same skeleton: (a) what is contemplative science 
 - Contemplative education — the pedagogy of the contemplative classroom [Brown, UO]
 
 ### B. The core contemplative practices
-- Mindfulness meditation [Brown M&C (secular meditation exercises, centering meditation, home practice); focused attention and open monitoring PENDING — these specific categories are not established by the Brown syllabus; the UO PSY 407 document needs to be checked for them]
+- Mindfulness meditation — attention-based practice and open monitoring [UO PSY 407 Class Project section explicitly names "attention-based practice, open monitoring practice, and compassion meditation" — VERIFIED this session by re-fetching the UO syllabus WITHOUT an extraction prompt; Brown M&C (secular meditation exercises, centering meditation, home practice)]
 - Compassion meditation [Brown M&C (kindness, compassion, forgiveness, sympathetic joy named explicitly); loving-kindness PENDING — not named in the Brown syllabus; tonglen PENDING — not in any of the three opened documents]
 - Self-compassion practice [Brown M&C WAS opened; Stanford CHPR 233 SEARCH-RESULT-SOURCED — not opened]
 - Gratitude, forgiveness and sympathetic joy [Brown M&C course description]
