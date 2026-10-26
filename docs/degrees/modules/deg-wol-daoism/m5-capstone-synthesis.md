@@ -15,7 +15,7 @@ criteria (m4 Outcome 3).
 labelled components; arithmetic below).
 **Primary text**: four newly assigned Daodejing chapters in the [Eno
 translation](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content)
-(chapters 20, 44, 50 and 67; 464 words measured on the four
+(chapters 20, 44, 50 and 67; 466 words measured on the four
 chapters, subsection markers excluded; free, educator-licensed, no paywall), plus re-reads of the
 passages you already hold from m2 (Daodejing 11, 36, 78), m3 (Cook
 Ding, the Hunchback, the Butterfly Dream) and m4 (Neiye sections 1,
@@ -31,8 +31,9 @@ The four new chapters carry sharp material for objections to this
 walk. Chapter 20 has
 the sage saying "I alone am still, without visible sign... like one
 with no home... I alone wish to be different from others". Chapter 44
-ranks the body above reputation and goods and tells the reader to
-"know what is enough". Chapter 50 describes one "good at protecting
+asks the reader to weigh the body against reputation and goods, and
+on this module's reading the weighing lands on the body; it tells
+the reader to "know what is enough". Chapter 50 describes one "good at protecting
 his life" who "has no death place in him". Chapter 67 names the
 three treasures: compassion, frugality, and not daring to take the
 lead. Read together with what you already hold, these chapters supply the
@@ -55,8 +56,8 @@ chapters as you write:
    by this text can look like a retreat from responsibility, a
    refusal to take part. If wu wei and non-forcing are the center,
    what happens to the work the world needs done?
-2. **The self-preservation objection.** Chapter 44 ranks your body
-   above your reputation and your goods; chapter 50 centers
+2. **The self-preservation objection.** Chapter 44 asks you to
+   weigh your body against your reputation and your goods; chapter 50 centers
    protecting your life; m4 taught yangsheng, nourishing life. A
    life guided by these texts can look like refined self-interest:
    tending your own vitality while the world's needs go unanswered.
@@ -103,9 +104,9 @@ On completing this module the learner can:
 
 ## Steps
 
-### Step 1: Read the four new chapters (about 22 minutes estimated
+### Step 1: Read the four new chapters (about 21 minutes estimated
 on the primary text with the three-times study multiplier; about 7
-minutes raw on two readings of the 464 assigned words)
+minutes raw on two readings of the 466 assigned words)
 
 Read [Daodejing chapters 20, 44, 50 and
 67](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/7031cb99-72c3-4e59-8ced-9d9783638945/content)
@@ -132,8 +133,9 @@ will use is enough; you are not re-reading whole modules.
 ### Step 2: Write the objection at full strength (about 30 minutes)
 
 Write 300 words or fewer stating the objection as strongly as you
-can. Requirements: quote at least one assigned chapter (20, 44, 50
-or 67) exactly; write it as a person who holds the objection would
+can. Requirements: quote at least one assigned primary passage exactly
+(one of chapters 20, 44, 50 or 67, or, for the standards question,
+the Butterfly Dream); write it as a person who holds the objection would
 write it, not as a straw man; do not answer it yet. If you cannot
 write it at full strength, you have not understood it; re-read the
 grounding chapters before continuing.
@@ -154,9 +156,9 @@ serves your argument:
   absorbed skill, which the story shows at work carving an ox for a
   lord, and chapter 67's compassion, which the chapter links to
   valor and says cannot be traded away for it; for the
-  self-preservation objection, chapter 44's questions, which rank
-  the body against reputation and goods rather than against other
-  people, and chapter 67's compassion and frugality; for the
+  self-preservation objection, chapter 44's questions, which ask
+  the reader to weigh the body against reputation and goods rather
+  than against other people, and chapter 67's compassion and frugality; for the
   standards question, the Butterfly Dream's open ending. These
   pointers are material you may use or decline, and how you read
   them is part of what the synthesis argues; the synthesis is
@@ -267,8 +269,8 @@ This does not pass: no scoring, no reason, no revision recorded.
 ## Workload arithmetic
 
 - Primary-text reading on the four newly assigned chapters (chapters
-  20, 44, 50 and 67: 153 + 54 + 113 + 144 = 464 words measured on
-  the chapters, subsection markers excluded): two readings, 928
+  20, 44, 50 and 67: 154 + 54 + 113 + 145 = 466 words measured on
+  the chapters, subsection markers excluded): two readings, 932
   words; at 130 words per minute (poetic text with new concepts)
   about 7 minutes raw; with study overhead as a three-times
   multiplier, about 21 minutes (estimate, labelled). Re-reads of already-held passages are counted inside
@@ -279,7 +281,7 @@ This does not pass: no scoring, no reason, no revision recorded.
   passage re-reads inside it).
 - Self-assessment and revision: about 20 minutes.
 - Teach-back close: about 10 minutes.
-- Module teaching prose on this page (2,113 words measured,
+- Module teaching prose on this page (2,141 words measured,
   excluding the rubric table rows and this arithmetic section): at
   180 words per minute about 12 minutes raw; with study overhead as
   a three-times multiplier, about 35 minutes (estimate, labelled).

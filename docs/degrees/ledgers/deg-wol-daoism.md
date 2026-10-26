@@ -1374,3 +1374,24 @@ the module remeasured after repairs (prose 2,113 words; total about
 206 minutes; components sum). The final file was re-read end to end
 before the next verification request; the next advisor pass carries
 the file text itself, not a repair summary.
+
+## m5 advisor QC round 3 — RETURNED, repairs applied (2026-10-26, supervisor-pplx-1026c-daoism)
+
+Advisor verdict: RETURNED for one bounded consistency pass; structure,
+rubric and concrete-life requirement judged substantially improved;
+no further transcript hunting or capstone redesign requested. Three
+file repairs applied: (1) Step 2 and rubric criterion 1 now allow
+the objection statement to quote any assigned primary passage,
+including the Butterfly Dream for the standards question (the
+three-passage, two-module synthesis requirement unchanged);
+(2) chapter 44's "ranks the body above" phrasing recast as the
+module's reading of the chapter's own weighing questions in all
+three places (intro, objection 2, Step 3 pointer); (3) word counts
+redone with the counter bug fixed (markers replaced with whitespace,
+chapter heading stripped before counting): chapters 466 words
+(154 + 54 + 113 + 145), prose 2,141 words, Step 1 label synced to
+21 minutes, all workload labels synchronized (total unchanged, about
+206 minutes). The "Zhu" spelling flagged by the advisor was a typo
+in the round-3 request text, not in the file; the file was not
+changed for it. Next verification request to carry the file text
+verbatim from disk.
