@@ -7,8 +7,8 @@ Bounded Phase-D2 verification assist for the pragmatism lane (deg-arch-inventory
 ### 1. "The Construction of the Good" — RESOLVED
 
 - The text is **chapter XI ("The Construction of Good") of Dewey's The Quest for Certainty (1929)** — confirmed by the book's chapter list read this session (archive.org item questforcertaint00dewe).
-- Open carrier verified: https://archive.org/details/questforcertaint00dewe — the item page was opened this session and lists a **FULL TEXT download** (plus EPUB, PDF, TEXT, OCR options; not lending-only). A 1929 US publication is public domain as of 2025, consistent with the unrestricted download options shown.
-- The pool can close its Construction-of-the-Good row with this carrier.
+- Open carrier located: https://archive.org/details/questforcertaint00dewe — the item page was fetched this session and lists **FULL TEXT / EPUB / PDF / TEXT download options** (not lending-only on its face). DOWNGRADE per advisor QC: unrestricted access was NOT established — the item description anomalously reads "4 pages", and download-option labels alone do not prove a complete, freely downloadable book. Treat as "download options listed; unrestricted access unverified" until a download is actually attempted.
+- The pool can treat this as a located candidate carrier for the Construction-of-the-Good row — NOT a verified gap closure.
 
 ### 2. "Philosophy and Democracy" (1918/1919) — RESOLVED
 
@@ -18,6 +18,6 @@ Bounded Phase-D2 verification assist for the pragmatism lane (deg-arch-inventory
 
 ## Status for the lane
 
-- Pragmatism gap #3 is discharged: both named Dewey texts now have verified open carriers (Quest for Certainty via archive.org FULL TEXT; Philosophy and Democracy via the teaching-site PDF).
-- Combined with the Will to Believe carrier (Gutenberg #26659, receipt deg-wol-pragmatism-positive-d2-bounded-check-archpsych-1027a.md), the pool's declared text-carrier gaps #2 and #3 are both closed pending the lane's own folding-in.
+- Pragmatism gap #3 (carrier-location side): both named Dewey texts have located open carriers (Quest for Certainty via archive.org — download options listed, unrestricted access unverified; Philosophy and Democracy via the teaching-site PDF, fully verified by direct download and text extraction).
+- Combined with the Will to Believe carrier (Gutenberg #26659, directly fetched, receipt deg-wol-pragmatism-positive-d2-bounded-check-archpsych-1027a.md), the pool's declared text-carrier gaps #2 and #3 are closed ON THE CARRIER-LOCATION SIDE pending the lane's own folding-in. NOTE per the owner's teaching-only ruling: these are supplementary open-text locations, not D2 teaching-content gap closures.
 - No changes needed to the pragmatism D1 inventory; the pool ledger was NOT edited (no baton held).
