@@ -156,3 +156,13 @@ landed: story_register.py title normalization strips leading "NN. " prefixes
 and typographic quotes, with a regression test (52/52 pass). ST004 provenance
 de-italicized and added principle notes marked as compendium reading; ST502
 operational QC-log lines removed from Sources.
+
+## LEGACY-BAR FINDING (2026-10-26 ~00:40Z, supervisor-pplx-1026c — for owner routing)
+A full published-context sweep of content/stories (504 pages) against the
+current story_check bar: 342 legacy pages (ST001-ST374 generation) fail it —
+mostly prose under 150 words, missing **Principles:** list sections, missing
+## Sources with URLs, dash budgets. These predate the current bar; new
+registrations all pass. This is a systemic repair decision (a stories
+legacy-repair lane or an owner ruling to grandfather them), not something to
+patch piecemeal. All 41 pages from today's batch pass; ST432 trimmed one
+word over the cap.
