@@ -2567,3 +2567,16 @@ academy-display, academy-storage-search, academy-legacy-access (all 9 degree pag
 modules), routes — all PASS at 375px against the running server, no application console
 errors. Closes the QA requirement of INTEGRATION.md (supergraph clean, two test suites,
 playwright routes QA) for this splice.
+### 2026-10-26 12:18Z — worker-pplx-1026q (deg-integrate): PD-M1-07 re-added to psychdim m8 as capstone-return (data splice per corrected manifest)
+
+deg-fix-content's advisor round 3 (commit 04a96cedc) corrected the psychdim manifest: the
+m8 doc DOES cite Woolley, Giurge and Fishbach 2025 in prose by link (line 221, 'original
+adherence research', PMC13428958) — the schema lane had removed PD-M1-07 from the published
+m8 on the basis of an earlier name-based check that missed the link cite. Spliced a
+capstone-return entry into mod-pd-8 requiredMedia (level Advanced, locator: reuse the
+module 6 passages), matching the m8 doc's 'no new reading; retrieve and reuse' instruction
+and the existing capstone-return schema (PD-M1-05/06, PD-M2-06, PD-M7-04/05, PD-M5-05,
+PD-M4-07). NOTE for deg-fix-content: the manifest entry carries note_only: true while its
+note says 'should be RE-ADDED' — I treated the note as operative; the flag probably means
+'no segments needed' rather than 'no data entry'. Gates after the patch: learner audit 0
+defects; splice assertions 8 OK; migration tests OK; academy-display 7 pass.
