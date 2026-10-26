@@ -6503,7 +6503,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST425 — Duchenne's Two Kinds of Smile](card:ST425%20%E2%80%94%20Duchenne%27s%20Two%20Kinds%20of%20Smile): a doctor holds electrodes to the face of his old patient and photographs the muscles of expression raised one at a time; the distinction he draws turns on the will, the muscle that pulls the mouth into a smile obeys it, and the muscle around the eyes, which he names the muscle of benevolence, does not."
+          "x": "[ST386 — Duchenne's Two Kinds of Smile](card:ST386%20%E2%80%94%20Duchenne%27s%20Two%20Kinds%20of%20Smile): a doctor holds electrodes to the face of his old patient and photographs the muscles of expression raised one at a time; the distinction he draws turns on the will, the muscle that pulls the mouth into a smile obeys it, and the muscle around the eyes, which he names the muscle of benevolence, does not."
         },
         {
           "t": "p",
@@ -6531,7 +6531,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST429 — Backsliding into Abundance](card:ST429%20%E2%80%94%20Backsliding%20into%20Abundance): the Buddha's retrospective on his pre-awakening efforts: clenching his teeth and pressing his tongue against the roof of his mouth, he beat down, constrained and crushed his mind with his awareness, and the force failed."
+          "x": "[ST391 — Backsliding into Abundance](card:ST391%20%E2%80%94%20Backsliding%20into%20Abundance): the Buddha's retrospective on his pre-awakening efforts: clenching his teeth and pressing his tongue against the roof of his mouth, he beat down, constrained and crushed his mind with his awareness, and the force failed."
         }
       ],
       "group": "eemm",
@@ -7024,7 +7024,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST421 — Meghiya Finds the Right Grove and the Wrong Thoughts](card:ST421%20%E2%80%94%20Meghiya%20Finds%20the%20Right%20Grove%20and%20the%20Wrong%20Thoughts): Meghiya finds a mango grove that looks ideal for meditation and repeatedly asks to practise there; alone beneath the tree he is troubled by thoughts of sensuality, ill will and harm, and returns to the Buddha."
+          "x": "[ST376 — Meghiya Finds the Right Grove and the Wrong Thoughts](card:ST376%20%E2%80%94%20Meghiya%20Finds%20the%20Right%20Grove%20and%20the%20Wrong%20Thoughts): Meghiya finds a mango grove that looks ideal for meditation and repeatedly asks to practise there; alone beneath the tree he is troubled by thoughts of sensuality, ill will and harm, and returns to the Buddha."
         },
         {
           "t": "h2",
@@ -8529,15 +8529,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST427 — The Ladder for Unskillful Thoughts](card:ST427%20%E2%80%94%20The%20Ladder%20for%20Unskillful%20Thoughts): the Vitakkasanthana Sutta addresses a monk in whom thoughts imbued with desire, aversion or delusion arise, and offers a ladder of responses for relaxing such thoughts."
+          "x": "[ST389 — The Ladder for Unskillful Thoughts](card:ST389%20%E2%80%94%20The%20Ladder%20for%20Unskillful%20Thoughts): the Vitakkasanthana Sutta addresses a monk in whom thoughts imbued with desire, aversion or delusion arise, and offers a ladder of responses for relaxing such thoughts."
         },
         {
           "t": "p",
-          "x": "[ST419 — Poincare Leaves the Problem and Returns to Check It](card:ST419%20%E2%80%94%20Poincare%20Leaves%20the%20Problem%20and%20Returns%20to%20Check%20It): Poincare's mathematical investigation is repeatedly interrupted; the ideas arrive while he is travelling or walking, and he returns to deliberate work to check and finish them."
+          "x": "[ST374 — Poincare Leaves the Problem and Returns to Check It](card:ST374%20%E2%80%94%20Poincare%20Leaves%20the%20Problem%20and%20Returns%20to%20Check%20It): Poincare's mathematical investigation is repeatedly interrupted; the ideas arrive while he is travelling or walking, and he returns to deliberate work to check and finish them."
         },
         {
           "t": "p",
-          "x": "[ST415 — The Blind Men and the Elephant](card:ST415%20%E2%80%94%20The%20Blind%20Men%20and%20the%20Elephant): after monks report sectarians quarrelling, the Buddha tells of a king who has people blind from birth shown different parts of an elephant; each group describes the whole animal from the part it was shown."
+          "x": "[ST370 — The Blind Men and the Elephant](card:ST370%20%E2%80%94%20The%20Blind%20Men%20and%20the%20Elephant): after monks report sectarians quarrelling, the Buddha tells of a king who has people blind from birth shown different parts of an elephant; each group describes the whole animal from the part it was shown."
         },
         {
           "t": "p",
@@ -15997,7 +15997,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST307 — The Rock Climbers' Absorption](card:ST307%20%E2%80%94%20The%20Rock%20Climbers%27%20Absorption): the original studies began with climbers, chess players, surgeons and dancers; the phenomenology held, with complete absorption, loss of self-consciousness, distorted time, and the activity an end in itself."
+          "x": "[ST118 — The Rock Climbers' Absorption](card:ST118%20%E2%80%94%20The%20Rock%20Climbers%27%20Absorption): the original studies began with climbers, chess players, surgeons and dancers; the phenomenology held, with complete absorption, loss of self-consciousness, distorted time, and the activity an end in itself."
         },
         {
           "t": "h2",
@@ -17958,7 +17958,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The bet has an experimental record. Two experiments found that constraints imposed on a common writing task yielded more creative outputs, and suggested a carryover effect, that mere practice with constraints can stimulate creativity; the model's namesake is Dr. Seuss's bestseller written using only 50 words ([Haught-Tromp 2017](https://www.cct.umb.edu/630/files/HaughtTromp2017-GreenEggsandHam.pdf)). The exercise remains a bet rather than a tested rule for the long project: the studies measured two-line rhymes, and the Dr. Seuss story is an illustration. When starting feels difficult, try one concrete limit and notice whether it gives a useful starting point, and change it if it does not."
+          "x": "The bet has an experimental record. Two experiments found that constraints imposed on a common writing task yielded more creative outputs, and suggested a carryover effect, that mere practice with constraints can stimulate creativity; the model's namesake is Dr. Seuss's bestseller written using only 50 words ([Haught-Tromp 2017](https://web.archive.org/web/20260824144015/https://www.cct.umb.edu/630/files/HaughtTromp2017-GreenEggsandHam.pdf)). The exercise remains a bet rather than a tested rule for the long project: the studies measured two-line rhymes, and the Dr. Seuss story is an illustration. When starting feels difficult, try one concrete limit and notice whether it gives a useful starting point, and change it if it does not."
         },
         {
           "t": "h",
@@ -18157,7 +18157,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[The Rock Climbers' Absorption](card:ST307%20%E2%80%94%20The%20Rock%20Climbers%27%20Absorption): the flow concept grew out of interviews in which Csikszentmihalyi and his team asked rock climbers, chess players, surgeons and dancers to describe their most absorbing experiences."
+          "x": "[The Rock Climbers' Absorption](card:ST118%20%E2%80%94%20The%20Rock%20Climbers%27%20Absorption): the flow concept grew out of interviews in which Csikszentmihalyi and his team asked rock climbers, chess players, surgeons and dancers to describe their most absorbing experiences."
         },
         {
           "t": "h2",
@@ -18165,7 +18165,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[The Three Metamorphoses](card:ST293%20%E2%80%94%20The%20Three%20Metamorphoses): Zarathustra's camel, laden, hastens into the wilderness; the spirit becomes a lion that says \"I will\" and wrestles freedom from the dragon \"Thou shalt\", though the lion cannot yet create new values; the child, \"Innocence is the child, and forgetfulness, a new beginning, a game, a self-rolling wheel\", is the creator ([Thus Spake Zarathustra, Thomas Common translation, Gutenberg](https://www.gutenberg.org/files/1998/1998-0.txt))."
+          "x": "[The Three Metamorphoses](card:ST293%20%E2%80%94%20The%20Three%20Metamorphoses): Zarathustra's camel, laden, hastens into the wilderness; the spirit becomes a lion whose \"I will\" answers the dragon called \"Thou shalt\", taking freedom for new creating though it cannot yet create new values; the child, \"Innocence is the child, and forgetfulness, a new beginning, a game, a self-rolling wheel\", is the creator ([Thus Spake Zarathustra, Thomas Common translation, Gutenberg](https://www.gutenberg.org/files/1998/1998-0.txt))."
         }
       ],
       "group": "minds-life",
