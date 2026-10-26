@@ -17,6 +17,10 @@ carries a UTC timestamp and the agent id.
 | https://www.uh.edu/~cfreelan/courses/americanphil/american.html | 2026-10-26, between the 00:12:18Z save push and the 00:15:19Z clock reading | worker-pplx-deg-gate-1026a (deg-gate) | independent re-open for Gate 1: UH American Philosophy (Freelan) confirmed; Emerson/Thoreau roots through Peirce, James, Dewey, structured by West's genealogy, ending in prophetic pragmatism; West/Thayer/Goodman texts confirmed |
 | https://www.csun.edu/~lmchenry/WhiteheadsMetaphysics.html | 2026-10-26, between the 00:12:18Z save push and the 00:15:19Z clock reading | worker-pplx-deg-gate-1026a (deg-gate) | independent re-open for Gate 1: Edinburgh Honours Option Whitehead's Metaphysics (McHenry, Spring 2009) confirmed; 11 weeks, event ontology from relativity-era physics to Process and Reality, evaluation against Aristotle/Strawson and comparison with Russell/Quine/Davidson |
 | https://cobb.institute/wp-content/uploads/2022/08/Introduction-to-Process-Thought-and-Practice-Syllabus.pdf | 2026-10-26, between the 00:12:18Z save push and the 00:15:19Z clock reading | worker-pplx-deg-gate-1026a (deg-gate) | independent re-open for Gate 1: Cobb Institute syllabus confirmed; roots/trunk/branches applying process ideas to personal life and community development, reflection-paper or creative-localization project |
+| https://faculty.georgetown.edu/blattnew/prag/index.shtml | 2026-10-26, ~02:14Z fetch, pre-02:16Z save | worker-pplx-deg-gate-1026b (deg-gate) | re-review re-open: PHIL 351 Blattner confirmed again; no Whitehead or process philosophy anywhere on the page; required Dewey volume is The Essential Dewey vol. 2 (Ethics, Logic, Psychology) — the ethics half of the Dewey elective is anchor-supported; two-paper assessment confirmed |
+| https://public.econ.duke.edu/~kdh9/Courses/Pragmatism/$American%20Philosophy%20Syllabus%20Fall%202016.pdf | 2026-10-26, ~02:14Z fetch, pre-02:16Z save | worker-pplx-deg-gate-1026b (deg-gate) | re-review re-open: PHIL 333 Fall 2016 Hoover confirmed again; full Peirce-James-Dewey-Rorty schedule; no Whitehead or process philosophy anywhere; no Dewey education text in the reading schedule (course-description prose only) |
+| https://www.uh.edu/~cfreelan/courses/americanphil/american.html | 2026-10-26, ~02:14Z fetch, pre-02:16Z save | worker-pplx-deg-gate-1026b (deg-gate) | re-review re-open: UH Freelan American Philosophy confirmed again; no Whitehead or process philosophy anywhere; no Dewey education texts; page leaves further scheduling undetermined — supports the narrowed "none of the three published curricula lists it" wording |
+| https://cobb.institute/wp-content/uploads/2022/08/Introduction-to-Process-Thought-and-Practice-Syllabus.pdf | 2026-10-26, ~02:14Z fetch, pre-02:16Z save | worker-pplx-deg-gate-1026b (deg-gate) | re-review re-open: Cobb Institute syllabus confirmed again; branches = process ideas applied to daily life and community development; reflection paper or creative-localization project — carries the elective's lived-experience cap as described in the repaired scope |
 | https://faculty.georgetown.edu/blattnew/prag/index.shtml | 2026-10-26, clock 02:14Z | worker-pplx-pragmatism-1026a (deg-wol-pragmatism) | repair-check re-open: PHIL 351 page re-read in full; no Whitehead or process-philosophy text anywhere on the page; themes and required texts as previously recorded |
 | https://public.econ.duke.edu/~kdh9/Courses/Pragmatism/$American%20Philosophy%20Syllabus%20Fall%202016.pdf | 2026-10-26, clock 02:14Z | worker-pplx-pragmatism-1026a (deg-wol-pragmatism) | repair-check re-open: Duke PHIL 333 Fall 2016 syllabus re-read; no Whitehead or process-philosophy reading in the schedule or recommendations |
 | https://www.uh.edu/~cfreelan/courses/americanphil/american.html | 2026-10-26, clock 02:14Z | worker-pplx-pragmatism-1026a (deg-wol-pragmatism) | repair-check re-open: UH American Philosophy page re-read; no Whitehead or process-philosophy mention; authors and texts as previously recorded |
@@ -123,6 +127,38 @@ pre-repair state and stand as the record; a dated repair note is appended
 there. Re-review requested from the deg-gate reviewer; the production
 prerequisite (pilot stop-gate) remains unresolved for all degrees.
 
+## Gate-1 re-review and clearance (2026-10-26, clock 02:16Z, worker-pplx-deg-gate-1026b, deg-gate baton)
+
+Re-review of the repaired scope (a5ffce4dc repairs + the owner's advisor-QC
+round 55181ab85). Four anchors independently re-opened this session (rows
+above): Georgetown, Duke, UH and the Cobb syllabus — the three pragmatism
+anchors list no Whitehead or process philosophy anywhere on their published
+curricula (UH's page leaves further scheduling undetermined, so the claim is
+bounded to the published records, as the repaired exclusion line now reads);
+Georgetown's required Dewey volume is the Ethics one (Essential Dewey vol. 2),
+so the ethics half of the Dewey elective is anchor-supported; the Cobb
+syllabus's branches carry the elective's lived-experience cap. The Edinburgh
+Whitehead option stands as the strand's verification record from the prior
+review, not a walk component.
+
+Both owed repairs verified applied: process thought demoted to a Cobb-line
+elective capped at lived experience and removed from the core exit
+capability; Dewey elective trimmed to the ethics half. The owner's advisor-QC
+round additionally marked the coverage-matrix row ELECTIVE per skill section
+1.3 and narrowed the exclusion line to the published curricula — both
+verified in the current files. Centering: intended learner walks the pragmatist
+path; exit capabilities applied to the learner's own beliefs and habits —
+walk-of-life centered and value-proposition aligned; scope finite with
+reasoned exclusions; the Rorty elective divergence stands as recorded and
+defensible.
+
+VERDICT: GATE 1 CLEARED for the repaired pragmatism scope. Process thought
+is elective and outside the essential core; the Dewey elective is limited to
+ethics. This decision does not clear coverage, pedagogy, technical
+integration or publication. The unresolved Phase 0 pilot stop-gate production
+prerequisite and the owner's one-by-one degree order (pragmatism is 4th)
+remain unchanged and still gate module production.
+
 ## Gate decisions
 
 | gate | decision | by | date |
@@ -130,6 +166,7 @@ prerequisite (pilot stop-gate) remains unresolved for all degrees.
 | Gate 1 (scope benchmark) | superseding entry: five anchors opened (three pragmatism, two process); process thought anchor-verified as a strand, its placement beside the pragmatists remains the scope's own choice; Rorty-elective divergence flagged; Gate 1 remains open, independent review required (no gate-1 assignment located in the repo instructions this session); groundwork only, no gate cleared | strategist-pplx-1025-launch-c | 2026-10-25 |
 | Gate 1 (scope, independent review) | RETURNED WITH REPAIRS — Gate 1 NOT CLEARED: all five anchors re-opened and verified; classical core and centering pass; two bounded edits owed — bound process thought to the Cobb practice line as an elective and remove it from the core exit capability, and trim the Dewey elective to its anchor-supported ethics half | worker-pplx-deg-gate-1026a (deg-gate) | 2026-10-26 |
 | Gate 1 (scope, repairs) | both bounded edits APPLIED — process thought demoted to a Cobb-practice-line elective capped at lived experience and removed from the core exit capability; Dewey elective trimmed to the ethics half; re-review requested from deg-gate | worker-pplx-pragmatism-1026a (deg-wol-pragmatism) | 2026-10-26 |
+| Gate 1 (scope, re-review) | CLEARED — both repairs verified applied and independently anchor-checked (four anchors re-opened 02:14Z; matrix row marked ELECTIVE per skill 1.3; exclusion claim bounded to the published curricula); process thought elective and outside the essential core, Dewey elective limited to ethics; does not clear coverage, pedagogy, technical integration or publication; pilot stop-gate and one-by-one order (4th) still gate module production | worker-pplx-deg-gate-1026b (deg-gate) | 2026-10-26 |
 
 ## Raw material verification status (recorded by deg-gate, 2026-10-26)
 

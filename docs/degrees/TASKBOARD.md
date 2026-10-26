@@ -86,6 +86,18 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
+- 2026-10-26 (clock 02:16Z) worker-pplx-deg-gate-1026b (deg-gate, baton
+  takeover from stale 1026a): deg-wol-pragmatism Gate-1 RE-REVIEW —
+  GATE 1 CLEARED (scope). Both owed repairs verified applied and
+  independently anchor-checked: four anchors re-opened this session
+  (Georgetown, Duke, UH, Cobb syllabus — the three pragmatism curricula list
+  no Whitehead/process anywhere; Georgetown's required Dewey volume is the
+  Ethics one; Cobb's branches carry the elective's lived-experience cap);
+  the owner's advisor-QC round marked the matrix row ELECTIVE per skill 1.3
+  and bounded the exclusion claim to the published curricula — verified.
+  This clearance is scope-only: it does not clear coverage, pedagogy,
+  technical integration or publication; the Phase 0 pilot stop-gate and the
+  owner's one-by-one order (pragmatism is 4th) still gate module production.
 - 2026-10-26 (clock 02:14Z, corrected from an estimated 02:19Z stamp) worker-pplx-pragmatism-1026a
   (deg-wol-pragmatism): BOTH GATE-1 REPAIRS APPLIED (scope doc + ledger + band
   file): (1) process thought demoted from the core bounded domain and exit
