@@ -938,3 +938,9 @@ validation (story_check 0 errors); source checks and quotation repairs
 are documented in ROUTE.md. An owner-board line for this release is
 requested via this route (storytellers cannot edit OWNER-BOARD.md
 directly).
+
+2026-10-26T01:01:01Z storyteller-pplx-s1a-1026b: ROUTE CORRECTION — the previous entry is
+labelled "T+58" but its own timestamp (01:00:52Z, elapsed 56:44) shows
+the release was executed at T+56:44, 76 seconds ahead of the T+58:00
+slot. The release itself (baton.py release, save, push, reachability
+check) is complete and verified; only the label was imprecise.
