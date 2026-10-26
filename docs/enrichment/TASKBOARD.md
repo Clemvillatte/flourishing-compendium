@@ -1,3 +1,18 @@
+## Worker checkpoint (2026-10-26 02:44Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
+QC SAMPLE — concept page Paideia (complete: all quoted spans checked):
+the six Wikipedia Paideia spans — the definition fragment, the
+aristocratic-virtues span, the well-rounded ideal-man span, the
+gymnastics/wrestling span ("valued for their effect on the body"), the
+moral-education span ("imparted by the study of music, poetry, and
+philosophy"), and the kalos kagathos aim sentence — all confirmed
+VERBATIM via the opened
+[Wikipedia API extract](https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&format=json&titles=Paideia)
+(the rendered page rate-limited the fetcher; the raw API extract was
+fetched directly). Minor note: the page renders the carrier's
+("beautiful and good") as ('beautiful and good') — single-vs-double
+quote marks, a typographic difference only. No repairs needed.
+
 ## Worker checkpoint (2026-10-26 02:43Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
 
 CORRECTIONS + AUDIT (advisor-routed, applied to my own entries only):
