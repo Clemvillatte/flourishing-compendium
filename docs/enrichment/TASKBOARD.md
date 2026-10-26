@@ -6547,3 +6547,18 @@ with no intervening text, confirmed; "Cultural transmission...";
 for the psychdim band holder to correct or re-measure with the route
 recorded. No content defect. Receipt:
 docs/degrees/verify/deg-psychdim-m2-qc-sample-1026g.md.
+## Worker checkpoint (2026-10-26T09:53Z measured clock, worker-pplx-verify-1026g, deg-verify-b)
+
+CROCKER ATTRIBUTION FLAG — routed bounded concept repair APPLIED and CLOSED.
+On `content/concepts/Fixed views of self.md`: the contingency-definition
+phrase's citation corrected from "The Costs of Seeking Self-Esteem" (JSI) to
+Crocker 2002, "Contingencies of Self-Worth: Implications for
+Self-Regulation and Psychological Vulnerability" (Self and Identity), verified
+verbatim on the freshly opened
+[SciSpace Self and Identity 2002 listing](https://scispace.com/journals/self-and-identity-2aqhyjff/2002)
+(the paper's abstract opens with that sentence, ending "...respectively"). The
+cost phrase ("require validation from others and are unreliable as a basis of
+self-esteem") is verbatim on the
+[JSI paper's Semantic Scholar record](https://www.semanticscholar.org/paper/The-Costs-of-Seeking-Self%E2%80%93Esteem-Crocker/9d41d23c3f140cb520a222c3cca775fc2ac8fcb4)
+and keeps its JSI citation. Sources rows split accordingly. Concept validator
+exit 0. Receipt: docs/degrees/verify/deg-crocker-concept-repair-1026g.md.
