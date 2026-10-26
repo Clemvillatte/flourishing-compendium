@@ -35,7 +35,7 @@ Rows in the D1 coverage matrix with any open-carrier evidence. Each row below st
 | Positive emotions + intrinsic motivation + Broaden-and-Build | POS-TEACH-1 [OPENED-VERIFIED] (Module 3) | The Santos Module 3 title is "Why Our Expectations are so Bad" — the affective-forecasting and adaptation material is named within it. The Broaden-and-Build theory and intrinsic motivation specifically were NOT confirmed in the module list. |
 | Subjective well-being + happiness measurement | POS-TEACH-1 [OPENED-VERIFIED] (Modules 1-2) | The module titles name well-being measurement and misconceptions about happiness. The specific SWB-measurement content is NOT established. |
 | Savoring + flow + mindfulness + motivation | POS-TEACH-1 [OPENED-VERIFIED] (Module 2 names gratitude and savoring; Module 5 names mindfulness) + POS-REF-1 (in-repo dossiers) | The module titles name savoring and mindfulness. The flow and motivation specifics are NOT established from this carrier alone. |
-| Gratitude + hope + optimism | POS-TEACH-1 [OPENED-VERIFIED] (Module 2 names gratitude) + POS-REF-1 (in-repo dossiers) | The module title names gratitude. The hope and optimism specifics are NOT established from this carrier alone. |
+| Gratitude + hope + optimism | POS-TEACH-1 [OPENED-VERIFIED] (Module 2 names gratitude) + POS-REF-2 [OPENED-VERIFIED] (the Greater Good page names gratitude among its Keys to Well-Being topics) + POS-REF-1 (in-repo dossiers) | The module title and the Greater Good page name gratitude. The hope and optimism specifics are NOT established from these carriers alone. |
 | Emotional intelligence | no carrier in this pass | NOT ESTABLISHED. |
 | VIA character strengths + goals | POS-TEACH-1 [OPENED-VERIFIED] (Module 1 names personal strengths) + POS-REF-1 | The module title names strengths. The VIA classification specifically was NOT confirmed. |
 | Creativity + giftedness + wisdom (positive self) | POS-REF-1 (in-repo dossier) | The wisdom dossier is in-repo; the hours and module assignment are NOT established. |
@@ -66,7 +66,7 @@ The spec's mandatory checkpoint: the D1 map + this D2 matrix go to the reviewer 
 3. The exclusion candidates (emotional intelligence, education/healthcare, ageing/institutions, future topics — gap 4).
 4. The primary-text structural problem (gap 1) — whether the degree is buildable at all from open carriers without the paywalled books, or whether the doc library + open articles satisfy the bar.
 5. The hours arithmetic (gap 5) — the biggest structural risk of the batch; measured, not estimated.
-6. The optional rows in the D1 matrix (religions/spirituality, empathy/compassion/altruism, positive psychotherapy) — the D2 evidence makes these the exclusion candidates.
+6. The optional rows in the D1 matrix (religions/spirituality, empathy/compassion/altruism, positive psychotherapy) — the D2 evidence makes these the exclusion candidates. DATA POINT for the reviewer (not a coverage claim): POS-REF-2's homepage names empathy, compassion, and altruism among its Keys to Well-Being topics.
 
 ## D2 handoff
 
