@@ -1013,3 +1013,25 @@ the coverage gate or authorise production.
   and performance differences versus a psychological-fuel explanation
   ([existing meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC6013521/);
   [later replication](https://pmc.ncbi.nlm.nih.gov/articles/PMC12422598/)).
+
+## Verification closeout, 2026-10-26
+
+The 14 records retain their individual evidence-type, access, credential,
+excerpt and scope limits. Advisory feedback was applied through PD-V14,
+including the attention-excerpt repair, commentary-appraisal boundary,
+depletion estimands and descriptive-only devaluation example. The final
+conditional exit checks remain source-use advice, not a new gate ruling.
+
+The closeout pass checked all 14 record identifiers and status fields,
+Markdown code-fence balance and `git diff --check`. The exact R block
+embedded in the M1 audit was executed against the recorded file bytes
+after formatting cleanup and returned the same bounded results. The
+current repository regression run passed 76 Python tests and 11 Node
+tests; those software checks are not tests of instructional effectiveness.
+
+Own commits were checked with anchored verifier commit-message
+prefixes, not a broad search that would accidentally include owner
+commits mentioning this verifier. Their changes are confined to the two
+verification files, the authorised `deg-verify-b` baton and the required
+OWNER-BOARD entries. No principle, concept, story, kernel, production
+module, queue or gate file was edited by this worker.
