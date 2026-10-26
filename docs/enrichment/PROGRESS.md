@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-26 00:11 UTC (input revision `7c4b3190f`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 01:11 UTC.
+As of 2026-10-26 00:31 UTC (input revision `5854a44`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 01:31 UTC.
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -14,17 +14,17 @@ As of 2026-10-26 00:11 UTC (input revision `7c4b3190f`). Scope: principles and c
 
 ## Stories (separate pipeline)
 
-Published story pages (content/stories/ST*.md): 468. The per-lane rows below are LANE-REPORTED statuses from the lane state files, NOT reconciled against actual registrations (a lane may report "ready" for a story already published; the published-page count above is the reconciled figure). qc_pending = awaiting lane QC; other = returned or backlinks pending. Lanes are listed in STORIES-TASKBOARD.md; storytellers never touch concept/principle pages.
+Published story pages (content/stories/ST*.md): 504 (41 added 2026-10-26 by the supervisor registration batch; 4 cross-lane duplicates removed; lane states now reconciled to pages). The per-lane rows below are LANE-REPORTED statuses from the lane state files, NOT reconciled against actual registrations (a lane may report "ready" for a story already published; the published-page count above is the reconciled figure). qc_pending = awaiting lane QC; other = returned or backlinks pending. Lanes are listed in STORIES-TASKBOARD.md; storytellers never touch concept/principle pages.
 
-| Lane | Published (lane-reported) | Ready (lane-reported) | QC pending | Other |
+| Lane | Published/integrated (lane-reported) | Ready (lane-reported) | QC pending | Other |
 |---|---|---|---|---|
-| s1a | 0 | 56 | 16 | 3 |
-| s1b | 0 | 33 | 0 | 5 |
-| s1c | 0 | 38 | 1 | 0 |
-| s1d | 3 | 5 | 2 | 0 |
-| s1e | 2 | 6 | 0 | 0 |
-| s1f | 0 | 10 | 0 | 0 |
-| **All lanes** | **5** | **148** | **19** | **8** |
+| s1a | 57 | 0 | 16 | 2 |
+| s1b | 36 | 0 | 0 | 2 |
+| s1c | 38 | 0 | 1 | 0 |
+| s1d | 8 | 0 | 2 | 0 |
+| s1e | 8 | 0 | 0 | 0 |
+| s1f | 10 | 0 | 0 | 0 |
+| **All lanes** | **157** | **0** | **19** | **4** |
 
 ## Kernels and thinkers (enrichment programs)
 
