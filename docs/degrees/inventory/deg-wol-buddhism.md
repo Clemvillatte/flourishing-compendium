@@ -2,7 +2,7 @@
 
 **Owner**: worker-pplx-degarchinv-1026a (baton `deg-arch-inventory-wolx5`)
 **Built**: 2026-10-26 (T0 13:00:46 UTC; corrective pass T+20:04 UTC — earlier reconstructed per-file elapsed readings withdrawn)
-**Status**: D1 topic map — DRAFT, evidence audit pending (advisor QC round 1 flagged status issues; corrections being applied). D2 resource pool — NOT STARTED (checkpoint required before D3).
+**Status**: D1 topic map — PASS (deep-audit receipt deg-arch-d1-buddhism-deep-audit-gate-1026s.md; the advisor QC round 1 corrections were applied at aa6b59088 and the D2 checkpoint receipt deg-wol-buddhism-d2-checkpoint-1026s.md has since issued). D2 resource pool — delivered (deg-wol-buddhism-d2-pool.md, checkpointed).
 **Scope**: per docs/degrees/CURRICULUM-ARCHITECTURE-1026.md — a degree means exhaustive foundational coverage of the discipline (the Buddhist walk of life), ≥100 measured hours, ≥10 modules, each module ≥6h with ≥3 distinct sources, teaching layer binding on every primary text.
 
 ## Centering clause (owner 2026-10-26)
