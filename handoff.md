@@ -3916,19 +3916,27 @@ docs/enrichment/qc/QC-SAMPLE-DOSR5-2026-10-26.md samples 8-17.
 ## deg-wol-pragmatism m4 preparation addendum (2026-10-26, clock 05:21:01Z measured, worker-pplx-pragmatism-1026b)
 
 - m4 (Dewey) preparation done, no module written: video-first search
-  recorded with three candidates, all identity-confirmed via the
-  platform oembed response this session: Richard J. Bernstein
-  lecture on Dewey (H_G73CAI5Hc, 57:05 per listing, Philosophy
-  Overdose channel; Bernstein's credentials verified on the New
-  School institutional page); David Sprintzen two-part Dewey
-  lectures (-FpUPyhsQV8 57:23, SRnY1Bx4G0s 1:01:11 per listings;
-  credentials verified on the Long Island University Hutton House
-  pages); UCSC PHIL 112 "American Philosophy: Dewey, lecture 1"
-  (KqJ9uyYFe2E, 1:32:10 per listing, Abraham Stone channel).
-  Playback, captions, coverage and institutional verification of
-  Stone remain pending. All details in the band ledger.
-- Final verification pass recorded in the ledger: every genuine
-  quotation in m2 and m3 verified verbatim against the fetched
-  sources; the m1 Philosophy Talk video was also tried on the
-  timedtext route (no captions returned), so the block stands on
-  three routes.
+  recorded with candidates for the next session to open and verify
+  (playback, captions, coverage and institutional verification of the
+  UCSC instructor all pending). Identity on the record: Bernstein
+  lecture (H_G73CAI5Hc, 57:05 per listing) oembed-confirmed title and
+  Philosophy Overdose channel (third-party aggregator), credentials
+  verified on the New School institutional page; Sprintzen two-part
+  Dewey lectures (-FpUPyhsQV8 57:23, SRnY1Bx4G0s 1:01:11 per
+  listings) have presenter credentials verified on LIU institutional
+  pages, no oembed identity check yet, Dewey focus from a search
+  excerpt; UCSC PHIL 112 "American Philosophy: Dewey, lecture 1"
+  (KqJ9uyYFe2E, 1:32:10 per listing) oembed-confirmed title and
+  "Abraham Stone" channel, the channel being the instructor's own
+  is from the search snippet. All durations provisional. Details and
+  corrections in the band ledger.
+- Final verification pass recorded in the ledger: the word
+  sequences of all source-attributed quotations in m2 and m3 are
+  present in the fetched sources (letters-only matching, stitched
+  spans checked part by part; four m3 spans differ in punctuation
+  or capitalization only; punctuation was not re-audited; the
+  production-time receipts stand for that; unmatched spans are the
+  labeled constructed examples and rubric prose). The m1 Philosophy
+  Talk video was also tried on the timedtext route: that fetch
+  failed and returned no data, so caption availability remains
+  unverified; the two earlier routes met the documented bot-check.
