@@ -409,7 +409,7 @@
         "role": "capstone-return",
         "assignment": "Woolley et al. 2025 - VERIFIED m8 prose cite (line 221, 'original adherence research' link = PMC13428958, the same adherence paper m1 and m6 assign); capstone-return per the m8 doc's 'No new reading or video is required. Retrieve and reuse...' instruction",
         "note_only": true,
-        "note": "CORRECTED 2026-10-26 (deg-fix-content): an earlier version of this entry wrongly said 'NOT cited in m8 prose (checked)'. The m8 doc cites the paper in prose by LINK, not by name (line 221), which the earlier name-based check missed. The schema lane removed PD-M1-07 from the published m8 on the basis of that error; it should be RE-ADDED as a capstone-return entry."
+        "note": "CORRECTED 2026-10-26 (deg-fix-content): an earlier version of this entry wrongly said 'NOT cited in m8 prose (checked)'. The m8 doc cites the paper in prose by LINK, not by name (line 221), which the earlier name-based check missed. The schema lane removed PD-M1-07 from the published m8 on the basis of that error; it was RE-ADDED as a capstone-return entry (fix-list item 6, verified on origin/main at b5a5031 and still present since). note_only: true means 'no segments or word-count spec needed', not 'no data entry' (semantics confirmed by the schema lane's 2026-10-26 application, per the deg-integrate 12:18Z owner-board note)."
       },
       {
         "source_id": "PD-M7-04",
