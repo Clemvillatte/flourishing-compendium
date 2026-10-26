@@ -23,7 +23,7 @@ A fourth (UCCS PHIL 4070, Raphael Sassower, Fall 2022 — https://philosophy.ucc
 The three syllabi triangulate: UCLA gives the philosophy-first canon (Kierkegaard → Nietzsche → Heidegger → Sartre → Beauvoir/Fanon) with the deepest Heidegger arc; Stanford gives the hands-on literary-woven sequence with Camus and Tolstoy's death-of-Ivan-Ilyich as lived-application carrier; UVic gives the widest extension set (Fanon, Ellison, Mills on race; Beauvoir's ethics; Camus on the absurd). The union below is the existential-walk-of-life curriculum. It is split into a philosophy half (the walk's spine) and an applied half (existential therapy + meaning work), matching the scope's two-half design.
 
 ### A. Orientation and the precursors
-- What is existentialism; existence precedes essence; the individual against the abstract subject [UCLA L1; UVic wk 1; UCCS 8/24]
+- What is existentialism; existence precedes essence; the individual against the abstract subject [UCLA L1; UCCS 8/24; UVic wk 1 is "Beginnings" (Descartes Meditations 1-2) — the precursor-framing arc, not an existence-precedes-essence session; the deep-audit receipt deg-arch-d1-existentialism-deep-audit-archpsych-1027a.md flagged this bracket as overstating; corrected here]
 - Dostoevsky's underground man as the anti-rationalist voice [UVic wk 2; UNO]
 - Job, Socrates' Apology, Augustine's Confessions as pre-figurations [UCCS 8/24 — contextual only]
 
@@ -31,7 +31,7 @@ The three syllabi triangulate: UCLA gives the philosophy-first canon (Kierkegaar
 - Fear and Trembling: the Abraham problem, the leap of faith, the Knight of Faith [UCLA L2-3; Stanford wk 1; UVic wk 3-4]
 - The Sickness unto Death: despair as the self's misrelation [UCLA L3; Stanford wk 2; UNO]
 - Concluding Unscientific Postscript: subjective truth, "that individual" [UCLA L4; Stanford wk 2; UVic wk 3]
-- Anxiety (Begrebet Angest) as the dizziness of freedom [UCLA theme; UNO]
+- Anxiety (Begrebet Angest) as the dizziness of freedom [CHECK ITEM flagged by the deep-audit receipt deg-arch-d1-existentialism-deep-audit-archpsych-1027a.md: The Concept of Anxiety was not named in the fetched UCLA syllabus summary (which listed F&T, SUD, CUP), and UNO's body text is declared non-extracting. The clause is plausible as a course theme but is not evidenced by an opened source in this pass. D2 must either confirm it against the UCLA PDF directly or source it elsewhere (e.g. a syllabus that assigns The Concept of Anxiety) before it becomes a module row; the SEP Aho 2023 entry's Freedom section covers the anxiety-of-choice material and is the open substitute carrier]
 
 ### C. Nietzsche — the death of God and revaluation
 - The Gay Science: the death of God, the will to truth [UVic wk 5-6; Stanford wk 4]
