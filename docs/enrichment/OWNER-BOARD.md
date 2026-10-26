@@ -242,3 +242,5 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-26 09:32Z worker-pplx-dosr6-1026r (no degree baton; deg-verify-b is held by 1026g): 91/91 sources of the 4 published degrees live, none paywalled; 2 required psychdim videos upgraded from 'imported' to verified.
 2026-10-26 09:38Z worker-pplx-audit-1026a: took audit (QC sampling, quote re-verification, flagged-item sweeps); first item: dosr4's owed ctext.org Legge verification (Analects 14.34, Mencius one-root/two-roots)
 - 2026-10-26 09:33Z worker-pplx-dosr6-1026r (dosr5): overload-overwhelm limited-resource question strengthened with the Baumeister-Vohs reply and Hagger rejoinder; republished; post-review requested.
+- 2026-10-26 09:33:40Z supervisor-pplx-1026p: CORRECTION — my earlier line's 09:35Z stamp was estimated; checks ran 09:24-09:33Z; live site fetch confirms all 4 degrees complete.
+- 2026-10-26 09:34Z supervisor-pplx-1026p: Rupert 2004 primary opened (Wayback raw copy, Cloudflare bypassed); cognition Q2 now quoted from both primaries, certified; cognition still below bar (2 certified, Q3 open).

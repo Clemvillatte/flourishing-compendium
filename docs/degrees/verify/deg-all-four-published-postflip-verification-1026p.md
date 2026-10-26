@@ -1,7 +1,9 @@
 # Post-publication verification — all four priority degrees (supervisor pass)
 
-Executed by `supervisor-pplx-1026p` (supervisor baton), 2026-10-26
-~09:35Z, on a fresh clone of origin/main at b28c51caf. Purpose:
+Executed by `supervisor-pplx-1026p` (supervisor baton), 2026-10-26,
+checks run between clock readings 09:24:30Z and 09:33:12Z (the
+"~09:35Z" stamp on the first version of this receipt was an estimate
+and is withdrawn). Purpose:
 supervisor post-review of the four publication flips (psychdim 07:52Z,
 daoism/buddhism/pragmatism by 08:20Z, session 1026o) per the
 publish-then-review directive.
@@ -31,16 +33,22 @@ publish-then-review directive.
 The four publication flips are consistent with the repository state:
 data intact, build green, referential integrity clean. No repair needed.
 
+## Live-site check (added 09:33:12Z measured)
+
+The production URL IS recorded in the repo (docs/degrees/OPERATIONS.md
+carries it; my first-draft "no production URL recorded" note was
+wrong). A cache-bypassing fetch of the live GitHub Pages deployment
+(clemvillatte.github.io/flourishing-compendium/assets/app.js, fetched
+09:33Z) confirms all four degrees are LIVE with status `complete`:
+deg-psychdim, deg-wol-daoism, deg-wol-buddhism, deg-wol-pragmatism.
+
 ## Notes / residuals for the owner or next supervisor
 
-- No production URL is recorded in the repo for the deployed site, so a
-  live-deploy fetch could not be run this pass; the flip receipts for
-  daoism/buddhism/pragmatism record local-data verification only (the
-  psychdim integration receipt records a live deploy QA). If the owner
-  shares the deploy URL, a cache-busted fetch of the four degree pages
-  would close the loop.
 - deg-verify-b open items (Rupert 2004 primary unreachable on four
   routes; Sainani worked-example locations; seven candidate videos)
-  remain owner-routed, unchanged by this pass.
+  remain owner-routed — EXCEPT the Rupert 2004 item, which this same
+  session resolved via a fifth route (Wayback raw-content copy; see
+  the cognition dossier repair and ledger entry, and the dosr3 batch
+  record).
 
 — supervisor-pplx-1026p, 2026-10-26

@@ -654,3 +654,51 @@ disagreement section closes with the writer's own position stated as
 preference plus an open question, not adjudication; the practice and
 story lists carry their evidence limits honestly. No voice or structure
 defects found. Full-span hand-verification item: CLOSED.
+
+## 2026-10-26 09:33Z (fresh clock read before this entry) — supervisor-pplx-1026p: Rupert 2004 PRIMARY OPENED; boundary-dispute Q2 upgraded from SEP-carried to primary-carried
+
+Primary recovery, fourth route (resolves the deg-verify-b/dosr3 blocker
+this dossier inherited): philarchive.org/archive/RUPCTT is
+Cloudflare-blocked on the direct route (verified again this session —
+challenge page HTML returned). The Wayback Machine holds a snapshot
+(web.archive.org/web/20250515152345/https://philarchive.org/archive/RUPCTT);
+its raw-content form (.../20250515152345id_/...) serves the archived
+PDF itself. Two retrieval routes (plain and id_ URL) returned files
+with identical MD5 c57cc151db4fe0ff410cbe02a3996183 (4,673,180 bytes,
+%PDF-1.4, JSTOR scan of Journal of Philosophy 101(8), pp. 389-428 —
+this also corrects the batch record's earlier 407-432 page-range).
+pdftotext extraction clean except known OCR fusions.
+
+Dossier changes: the Q2 section's Rupert material now quotes the
+primary directly — the HEMC/HEC statement (p. 395), the competing-
+explanations framing (p. 395), the past-endorsement dilemma (p. 402),
+the conservative-framework verdict (p. 390). The SEP-exposition
+placeholder quotes (axe/notebook; Clark-would-deny) are removed; the
+SEP entry remains a linked carrier in the sources list, no longer the
+attributing carrier for Rupert. The honesty note "located but could
+not open" is replaced by the opened state. The Clark & Chalmers side
+was re-opened this session: consc.net/papers/extended.html fetched —
+parity criterion and the fourth (past-endorsement) condition both
+verbatim as quoted in the dossier.
+
+Visual verification: the three OCR-fused-word quotes were verified
+against rendered page images (pdftoppm p. 390, 395, 402) — all four
+Rupert spans match the printed text exactly, including punctuation;
+the fused words ('carryout', 'pastendorsement',
+'systematicallyaccounted') are OCR-text-layer artifacts only, the
+printed text reads 'carry out', 'past-endorsement', 'systematically
+accounted'. Quote-verify after the repair: 26 checked / 5 not found —
+2 pre-existing documented blocked hosts (Science 1974,
+Gigerenzer 1996 columbia PDF — both verified on mirrors per the
+entries above) and 3 new OCR fused-word exceptions (de-spaced
+character match confirms full wording; page-image check above).
+26/26 effective. The auto-matched Rupert spans: the competing-
+explanations quote and the article title (citation text).
+
+Gates re-run at repair time: dossier_check exit 0; density 0 dense;
+registry rebuilt (cognition 120 blocks). Corrections applied from the
+advisor QC round: the earlier batch/record wording claiming 'cognition
+now at the strict bar' is WITHDRAWN — the tally after this repair is
+2 certified (Q1 Gigerenzer/K&T; Q2 Clark-Chalmers/Rupert, now from
+both primaries) + Q3 honestly-unresolved; cognition REMAINS BELOW the
+strict 3-5 bar and stays flagged for a further repair pass.
