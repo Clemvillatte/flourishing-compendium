@@ -579,3 +579,21 @@ description):
 
 Remaining batch-3 variants (16 of 20) are shorter formatting variants
 (e.g. added honorifics or series prefixes); still owed to the full pass.
+
+## Batch 3 follow-up 2 (2026-10-26, 2026-10-26T05:16Z)
+
+- SRC-M12-004: RESOLVED same-event — the video is the double lecture
+  "Travelling Concepts: Ubuntu as a Particular Universal" (Shabane) +
+  "Nepantla as a Transitional Space" (Grigoletto), Universität
+  Hildesheim, 2026-04-28; the record title is the Grigoletto half;
+  platform title's "Neplanta" is a typo for Nepantla (description
+  spells it correctly).
+- SRC-M25-003: **IDENTITY MISMATCH — record flagged.** The record
+  ("Rick Warren, The Purpose Driven Life | Sermon on the Mount, Part
+  1") points to j5QVMN2chOI, which is "Philosophy Masterclass 2023
+  Professor James Warren" (Cambridge, "Stoics and Broics", 2023-07-26,
+  1:02:57) — a different person and topic. The record's canonical URL
+  does not carry the described content; owner action needed: replace
+  the attachment with a URL that actually carries the Rick Warren
+  sermon, or re-describe the record. This is the first clear identity
+  mismatch in the batch-3 set.
