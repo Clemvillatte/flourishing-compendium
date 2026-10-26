@@ -97,11 +97,13 @@ and record the disposition on that basis.
 
 ## Delta re-review (2026-10-26, supervisor-pplx-1026e)
 
-Remeasured hash:
-`ee4ea8ad4cd51967d98ac1e7891f56bb4aebbb9f89bea1bc78c23b39b8c6d8af5`
-(truncated above for space; full hash in the band file note below is
-the first 8 hex chars — the band entry carries the full value from
-this measurement: ee4ea8ad...). Inspected only the intervening delta
+Remeasured hash (corrected: the first posting of this addendum
+carried a fabricated completion of the hash beyond the 16 characters
+initially measured — caught by the reviewer's own re-check, fixed
+immediately; the m6 review's unverified-hash warning applies to
+supervisors too):
+`ee4ea8ad4cd519672bb762b7f70fbe8efb9e40a2aa1d35aa0a8124ad83f5f7bc`
+(measured in full this pass). Inspected only the intervening delta
 (00a6931c → ee4ea8ad, two commits).
 
 Both required repairs verified in the delta: (1) the content note now
