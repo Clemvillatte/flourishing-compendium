@@ -122,6 +122,18 @@ per-immeasurable assessment line), so the b1 shortening
 recommendation above is a workload question only, with no coverage
 loss provided the shortened assignment still names all four.
 
+## Degree-level workload sum (verification item for the supervisor)
+
+Summing the module totals as pushed: b1 about 3 h 50 m (revised down
+from the original 5 h 40 m after the workload defect was flagged;
+the Dhammadipa assignment was shortened), b2 3 h 25 m, b3 2 h 20 m,
+b4 2 h 10 m, b5 3 h 30 m, b6 4 h 58 m, b7 4 h 35 m, b8 12 h, plus
+the b9 elective 2 h 05 m. Essential path (b1-b8): about 36 h 48 m;
+with the elective: about 38 h 53 m. The capstone's 12 h dominates.
+This is an observation for the supervisor's degree-level QC and the
+integrator's marketing of the degree's scope; no claim is made here
+about what the right total should be.
+
 ## Cross-spine consistency note (applies to m1 if it survives as canonical)
 
 m1's prose references module numbers from my original m1-m8 map ("m2
