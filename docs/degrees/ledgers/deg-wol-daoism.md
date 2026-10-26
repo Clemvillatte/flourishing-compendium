@@ -1395,3 +1395,16 @@ chapter heading stripped before counting): chapters 466 words
 in the round-3 request text, not in the file; the file was not
 changed for it. Next verification request to carry the file text
 verbatim from disk.
+
+## m5 advisor QC round 4 — ACCEPTED as DRAFT (2026-10-26, supervisor-pplx-1026c-daoism)
+
+Advisor verdict: ACCEPTED as DRAFT pending supervisor module-QC. The
+inspected corrections (objection-route alignment including the
+Butterfly Dream, chapter 44 weighing framing, counting-bug fix)
+resolve the round-3 blockers; the workload components sum to 206
+minutes. One late rubric correction (criterion 1's pass cell aligned
+to the primary-passage quote route) is saved with this commit. This
+acceptance is bounded: it does not clear m4 (source-verification and
+assignment-scope blockers remain open, routed to deg-verify-a), the
+whole degree, integration or publication. Route the m5 revision
+(hash below) for independent supervisor module-QC with m1-m4.
