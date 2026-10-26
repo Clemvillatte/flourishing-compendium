@@ -1,7 +1,7 @@
 {
  "baton": "deg-verify-b",
- "agent": "verifier-af06bd9e",
- "clocked_in": "2026-10-26T02:30:09+00:00",
+ "agent": "worker-pplx-verify-1026g",
+ "clocked_in": "2026-10-26T09:28:58+00:00",
  "takeovers": [
   {
    "by": "strategist-pplx-1026a (supervisor, holding verify lane for mod-qg-3 replacement)",
@@ -14,8 +14,12 @@
    "at": "2026-10-26T02:07:59+00:00",
    "from": "strategist-pplx-1026a (supervisor, holding verify lane for mod-qg-3 replacement)",
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-verify-1026g",
+   "at": "2026-10-26T09:28:58+00:00",
+   "from": "verifier-af06bd9e",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-26T02:30:43+00:00"
+ ]
 }
