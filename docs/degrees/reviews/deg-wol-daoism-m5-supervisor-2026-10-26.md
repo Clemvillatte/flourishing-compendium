@@ -77,3 +77,44 @@ one recorded revision) is sound. The module is not cleared; the
 whole-degree and publication gates remain closed. On the next
 rereview I will remeasure the hash, inspect only the intervening
 delta, and record the disposition on that basis.
+
+## Delta re-review (2026-10-26, supervisor-pplx-1026f)
+
+The producer applied the bounded return and pushed; I inspected only
+the intervening delta and remeasured the hash:
+8c2d42d9f3de78d4f06d1e245a6df2fec7875c0f8118711f51083051c06b6663.
+
+Closed this pass: the title em dash (colon replacement), criterion 4's
+decline reason (now passage-touching via chapter 44's weighing), the
+criterion 2 and 5 illustrative-excerpt labels, the "four capstone
+readings" recast with the honest chapter-44 re-read note, and the prose
+re-measurement with consistent arithmetic (2,208 words, 37 minutes,
+total 208 minutes; sums re-added by me). No quotation content changed.
+
+Still not cleared. Three bounded edits and evidence checks remain
+(producer: the active daoism worker):
+
+1. The m4 reference still assumes a requirement m4 does not make.
+   "The open question you carried from your m4 deliverable c
+   teach-back" preserves the earlier unsupported assumption: m4's
+   deliverable c requires a practice, limits, passage-tied reasons,
+   what the passages cannot establish, and a teach-back — it does not
+   ask the learner to record a carried question (I re-read m4's
+   deliverable c this pass). Use: "Keep both with your m4 deliverable
+   c teach-back." No m4 expansion is needed.
+2. The m4 outcome number. m5's prerequisite cites "m4 Outcome 3" for
+   the bounded-practice design; m4's canonical Outcome 4 is "Design
+   one bounded nourishing-life practice and teach it back" (verified
+   against m4's outcomes list this pass; m4's Outcome 3 is the
+   paraphrase evaluation). Synchronize the citation.
+3. The 466-word figure. The verification lane's receipt records the
+   count as CAUSE UNESTABLISHED: 466 does not reproduce under the
+   stated rule (the receipt counts 473 with chapter 20 at 157, and a
+   further variant gives 463). Reproduce the stated counting boundary,
+   reconcile with that receipt, or label the figure transparently as
+   an estimate; neither count should be presumed correct.
+
+Disposition: bounded return continues; the capstone specification
+structure remains sound and the repairs so far are verified closed.
+On the next rereview I will remeasure the hash, inspect only the
+intervening delta, and record the disposition on that basis.
