@@ -15,9 +15,16 @@ qc_complete. The assigned m4 is `m4-yangsheng-neiye.md` (the
 `m4-yangsheng-nourishing-life.md` file is the superseded draft per
 the addendum's Neiye-source correction — do not attach it). The degree
 entry exists in `fcAcademyData.degrees` as a placeholder — verify its
-current state before the splice. PREREQUISITE still open: the
-independent whole-degree gate review (deg-gate lane) — the integrator
-attaches only after that verdict lands.
+current state before the splice. PREREQUISITE CLOSED (2026-10-26,
+1026h's taskboard update): the independent whole-degree gate review
+has LANDED — DAOISM WHOLE-DEGREE GATE PASS (gate-pplx-1026h, deg-gate
+baton, reviews/deg-wol-daoism-whole-degree-gate-1026h.md): all five
+canonical hashes verified, the m4 one-word delta diff-confirmed
+(2618 to 2656), the Neiye source fetch-verified (Gutenberg #38585,
+Linnell, CC BY-NC-ND 3.0, free), centering/scope checked
+independently of the 1026a QC. Daoism proceeds to deg-integrate; the
+publication flip is the supervisor's sign-off. No open prerequisite —
+the integrator can attach on this spec directly.
 
 ## 1. Where the values come from (no field is invented)
 
@@ -76,11 +83,12 @@ resolvable, then write the integration receipt under
 `docs/degrees/verify/` naming the commit hash and what was checked.
 The supervisor does the publication flip after reviewing the receipt.
 
-## 4. Open prerequisite (flagged, not blocking the spec)
+## 4. Prerequisite state (updated 2026-10-26 ~08:03Z)
 
-The independent whole-degree gate review (deg-gate lane) has not yet
-been issued for daoism. The chain per the wave-4 engine flow is
-whole-degree QC -> gate review -> integration -> flip. The integrator
-should attach only after that verdict lands; if the gate review
-returns findings, the repairs route back through the daoism
-supervisor lane (1026a) before the attachment.
+The independent whole-degree gate review has LANDED (see the
+preamble): DAOISM WHOLE-DEGREE GATE PASS, reviews/deg-wol-daoism-
+whole-degree-gate-1026h.md. The chain is complete through the gate —
+whole-degree QC PASS + conditional satisfied + gate PASS. The
+integrator can attach on this spec directly; if the attachment or the
+QA surfaces findings, the repairs route back through the daoism
+supervisor lane (1026a) before the flip.
