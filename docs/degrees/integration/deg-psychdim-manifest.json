@@ -27,8 +27,9 @@
       {
         "source_id": "PD-M1-04",
         "role": "teach",
-        "assignment": "ASA Statement on p-Values - VERIFIED required: definition and two principles, ~300 words",
-        "kind": "reading"
+        "assignment": "ASA Statement on p-Values - VERIFIED required: definition and two principles, about 235 words",
+        "kind": "reading",
+        "note": "Word-count label corrected 2026-10-26 (deg-fix-content) per the recount receipt docs/degrees/verify/deg-fix-text-count-corrections-1026c.md: the three assigned spans total 234 words, so the label is about 235 (the earlier ~300 was about 28 percent high). Published locator already carries about 235."
       },
       {
         "source_id": "PD-M1-05",

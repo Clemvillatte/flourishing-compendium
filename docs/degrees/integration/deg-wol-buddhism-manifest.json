@@ -59,8 +59,9 @@
       {
         "source_id": "BUD-B2-03",
         "role": "teach",
-        "assignment": "Harvey, Craving glossary entry - ~300 words",
-        "kind": "reading"
+        "assignment": "Harvey, Craving glossary entry - about 30 words",
+        "kind": "reading",
+        "note": "Word-count label corrected 2026-10-26 (deg-fix-content) per the recount receipt docs/degrees/verify/deg-fix-text-count-corrections-1026c.md: the glossary entry measures 30 words (the earlier ~300 was a 10x overestimate). Published locator already carries about 30."
       }
     ],
     "mod-bud-3": [
@@ -73,8 +74,9 @@
       {
         "source_id": "BUD-B3-02",
         "role": "teach",
-        "assignment": "What Is Buddhism? booklet - assigned sections (rebirth and karma sections unassigned)",
-        "kind": "reading"
+        "assignment": "What Is Buddhism? booklet - the Middle Way or Eightfold Path section (five precepts and practice-of-the-path paragraphs, about 289 words); rebirth and karma sections unassigned",
+        "kind": "reading",
+        "note": "Assignment made section-specific 2026-10-26 (deg-fix-content) per the recount receipt docs/degrees/verify/deg-fix-text-count-corrections-1026c.md: the booklet has no separate precepts or practice sections - the named section contains them and measures 289 words. Published locator already carries the section-based wording (verified by deg-integrate 2026-10-26 12:20Z)."
       },
       {
         "source_id": "BUD-B3-03",
