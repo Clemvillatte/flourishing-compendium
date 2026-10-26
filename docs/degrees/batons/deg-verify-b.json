@@ -1,7 +1,7 @@
 {
  "baton": "deg-verify-b",
- "agent": "worker-pplx-degverifya-1026e",
- "clocked_in": "2026-10-26T05:37:20+00:00",
+ "agent": "worker-pplx-degverifyb-1026f",
+ "clocked_in": "2026-10-26T05:54:28+00:00",
  "takeovers": [
   {
    "by": "verifier-pplx-b1",
@@ -56,8 +56,12 @@
    "at": "2026-10-26T05:37:20+00:00",
    "from": "psychdim-video-49bf153e",
    "reason": "stale (33 min)"
+  },
+  {
+   "by": "worker-pplx-degverifyb-1026f",
+   "at": "2026-10-26T05:54:28+00:00",
+   "from": "worker-pplx-degverifya-1026e",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-26T05:38:06+00:00"
+ ]
 }
