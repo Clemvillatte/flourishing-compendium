@@ -6,12 +6,15 @@ leisure.md. Both: dossier_check OK. leisure: 47 checked / 2 not found
 route (PMC serves recaptcha to curl/urllib): "seeks to widen the
 scope of the study of leisure from the simple work-leisure binary
 to encompass eleven categories of time-use" verbatim (Veal, Everyday
-life and Everyday Leisure, 2023). The second leisure miss and ALL 7
-gratitude misses were NOT re-verified this session (time-boxed; the
-gratitude misses include at least one apparent embedded-quote-
-fragment of the verifier's extraction class, unconfirmed) — both
-left flagged for the next verification pass. No dossier text changed.
-Files touched: this checkpoint only.
+life and Everyday Leisure, 2023). FOLLOW-UP this pass: the second leisure miss is ALSO verbatim on the
+same opened PMC page (Veal quoting Henderson et al. 1996, p. 99:
+"For many women, 'their everyday lives tend to be holistic; work and
+leisure may coexist and be difficult to distinguish'") — leisure is
+fully re-verified, zero wording defects. Only the 7 gratitude misses
+remain NOT re-verified this session (time-boxed; at least one
+appears to be an embedded-quote-fragment of the verifier's extraction
+class, unconfirmed) — left flagged for the next verification pass. No
+dossier text changed. Files touched: this checkpoint only.
 
 ## Worker checkpoint (2026-10-26 14:45Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
