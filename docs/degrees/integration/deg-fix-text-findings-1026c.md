@@ -62,3 +62,19 @@ The owner's humanizer directive names the "not X, it is Y" construction as a pro
 | deg-wol-pragmatism/m4-dewey-inquiry-ethics-democracy.md | "what each counts as fair is not settled by the chore log alone, but it is not beyond inquiry either..." | "The chore log does not settle what each counts as fair; reasons, circumstances and consequences still bear on it..." (a worked-example evidence limit, so a rewrite is optional) |
 
 Limit: this is a pattern scan, not a full read. Per the owner's own note, a clean scan does not certify human prose; an editorial read of the lesson docs remains open.
+
+## Humanizer scan of learner-visible descriptions: "X, not Y" closers (flagged for deg-fix-content, not edited)
+
+The four *-learner-content.json files (about 750 to 1,100 words each) are the text a learner reads on module cards. A scan of every sentence containing a negation found the closing-contrast habit below. Each item states the idea correctly; the point is only the recognisable rhythm the owner's directive names. All are in deg-fix-content's files, so none was edited here.
+
+| Module | Current wording | Direct alternative |
+|---|---|---|
+| mod-pd-1 | "The map is a proposal, not a diagnosis." | "The map is a proposal you can revise." |
+| mod-pd-2 | "The aim is a wiser next step, not permanent calm." | "The aim is a wiser next step." |
+| mod-pd-8 | "The capstone is a specification for your own inquiry, not a claim that any particular l..." | End after "specification for your own inquiry" and state the limit once in a plain sentence. |
+| mod-pd-8 and mod-prag-5 (drawsOnPriorModules) | "...creates an opportunity to apply them, not another source hunt." | "...creates an opportunity to apply them." The next sentence already says no new reading is required. |
+| mod-bud-2 | "The worksheet is practice in the method, not a claim that craving..." | "The worksheet is practice in the method; it makes no claim about craving beyond what the discourse says." |
+| mod-bud-9 | "...as experienced in your own sitting practice, not as scholastics." | "...as experienced in your own sitting practice." |
+| mod-dao-2 | "a practice manual for living, not only a piece of literature." | "a practice manual for living as well as a piece of literature." |
+
+Count: 7 module cards out of 27. The rest of the learner text passed the scan, but the owner has said a clean scan does not certify human prose.
