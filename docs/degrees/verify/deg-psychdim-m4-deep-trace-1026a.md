@@ -47,7 +47,8 @@ block/manifest/…) found zero leaks.
 
 ## Verdict
 
-PASS. All seven mod-pd-4 sources trace value-by-value across the three
+PASS. All EIGHT mod-pd-4 sources (the seven primary papers/videos plus
+the PD-M3-02 retrieval revisit) trace value-by-value across the three
 layers. Fix-list item 4 (the extra m3 segment on PD-M3-02) is RESOLVED in
 the published state; the fix list has been updated. The remaining open
 schema-lane items are 3 (PD-M2-04 locator), 5 (BUD-B2-02 word label) and

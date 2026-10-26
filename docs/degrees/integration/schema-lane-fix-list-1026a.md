@@ -123,4 +123,8 @@ Item 6 verified RESOLVED: mod-pd-8's published set now carries all EIGHT capston
 
 A second link-based citation in the m8 doc was found after the item-6 closure: line 226 cites the 'preregistered and exploratory distinction' via the Brunel PDF (bura.brunel.ac.uk/.../2438/28246) — which the m7 doc and the degree ledger both identify as Vohs and colleagues, 2021 (the paper m7 assigns for the planned/exploratory distinction). The m8 doc's 'Use M7's planned/exploratory distinction' instruction reuses that paper, so PD-M7-10 IS m8-prose-cited.
 
-- FIX: re-add PD-M7-10 to mod-pd-8 as a capstone-return entry, e.g. locator: `The planned/exploratory distinction from the adherence research you already read: reuse the passages you read in Module VII`. (PD-M1-07 was re-added as item 6; this completes the set to NINE capstone-return entries, matching the doc's eight link-based citations plus the Carden & Wood habit-mechanism link.)
+- FIX: re-add PD-M7-10 to mod-pd-8 as a capstone-return entry, e.g. locator: `Reuse Module VII's planned-versus-exploratory distinction from the passages you already read`. (PD-M1-07 was re-added as item 6; this completes the set to NINE capstone-return entries, matching the doc's eight link-based citations plus the Carden & Wood habit-mechanism link.)
+
+## Snapshot verification (2026-10-26, origin/main dfd3d05)
+
+All items verified against `git show origin/main:site/assets/app.js` (not the working tree): item 1 (PRAG-M3-04 B3 157-word locator, no B2 text), item 2 (PRAG-M4-01 778 words only), item 3 (PD-M2-04 'about 480 words' with all three excerpt boundaries), item 4 (PD-M3-02 single segment), item 5 (BUD-B2-02 'about 1,000 words'), item 6 (PD-M1-07 present in m8) - ALL APPLIED. Item 7 (PD-M7-10 re-add): NOT yet applied; m8 carries 8 of the 9 doc-cited entries. Item 7's proposed locator wording has been corrected to the doc's own phrasing (Reuse Module VII's planned-versus-exploratory distinction).

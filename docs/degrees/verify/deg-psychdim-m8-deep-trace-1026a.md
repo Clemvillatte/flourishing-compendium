@@ -76,3 +76,7 @@ Every link in the m8 doc is now mapped (grep of all http references, excluding t
 9. Brunel PDF (line 226) = Vohs = PD-M7-10 - NOT yet re-added (item 7, OPEN)
 The published m8 carries eight of the nine; the ninth is fix-list item 7.
 No other link-based citations exist in the doc (verified by exhaustive grep), so the item-7 re-add completes the m8 set.
+
+## Verdict status (per advisor QC, 2026-10-26)
+
+m8 is QUALIFIED/OPEN, not PASS-with-an-addition: a doc-cited source (Vohs, line 226) is missing from the published set (fix-list item 7). The 26 other module receipts are clean PASSes. If item 7 lands, verify it on origin/main before lifting this qualification.
