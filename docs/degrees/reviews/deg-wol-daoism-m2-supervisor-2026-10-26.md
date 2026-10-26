@@ -42,14 +42,15 @@ module-QC. Bounded return; module not cleared.
 
 ## Bounded return: four repairs (producer: the active daoism worker)
 
-1. Quotation wording, chapter 11 vessel. The module quotes "grasp the
-   nothingness at its center to get the use of the vessel" (Step 1 and
-   rubric criterion 1's strong example). The opened Eno text reads
-   "grasp the nothingness at the center to get the use of the vessel"
-   for the vessel; "its center" is the source's wording for the wheel
-   only. Correct the quoted wording in both places and re-check every
-   quoted specimen against the opened text, not only the teaching
-   sections.
+1. Quotation wording, chapter 11 vessel. The rubric criterion 1 strong
+   example quotes "grasp the nothingness at its center to get the use
+   of the vessel"; the opened Eno text reads "grasp the nothingness at
+   the center to get the use of the vessel" for the vessel ("its
+   center" is the source's wording for the wheel only). Correct the
+   quoted wording in the rubric specimen and re-check every quoted
+   specimen against the opened text. Step 1's occurrence is an unquoted
+   paraphrase, so it carries no quotation defect; this repair is
+   confirmed against the rubric specimen only.
 2. B-term quotation, verification-open. The module quotes Ziporyn: "another
    B term, an emptiness or a valley that draws things to it, a nonbeing
    that has this unexpected power" (Step 3, with the transcript link and

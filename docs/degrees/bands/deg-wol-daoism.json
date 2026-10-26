@@ -22,8 +22,8 @@
       "file": "docs/degrees/modules/deg-wol-daoism/m3-zhuangzi-skill-wuwei-self.md",
       "advisory_qc": "ACCEPTED",
       "advisory_qc_rounds": 5,
-      "supervisor_module_qc": "PENDING",
-      "status": "drafted and accepted; advisor content/pedagogical QC accepted in round 5; supervisor module-QC pending"
+      "supervisor_module_qc": "BOUNDED RETURN 2026-10-26 (supervisor-pplx-1026f): four repairs \u2014 (1) eight em-dash heading separators (humanizer rule covers headings; use colons); (2) prose word-count claim 2,570 not reproducible under stated boundaries (I count 2,670 on What-this-module-is-for through Workload excluding table rows; ledger round-5 recount says 2,580) \u2014 re-measure with the boundary stated or label as estimate; (3) Outcome 3's loss-of-self-warranted judgment not explicitly required by deliverable a or rubric criterion 5 \u2014 add a prompt and rubric phrase or narrow the outcome; (4) header cites wu wei as m1 Outcome 3, it is m1 Outcome 2. All Zhuangzi quotes verified verbatim by me against the opened Eno text; arithmetic, receipts and entry-exit chains verified. Hash reviewed: 16a36428. See reviews/deg-wol-daoism-m3-supervisor-2026-10-26.md.",
+      "status": "bounded return; repairs routed to the active daoism producer; module not cleared"
     },
     "m4": {
       "file": "docs/degrees/modules/deg-wol-daoism/m4-yangsheng-neiye.md",
