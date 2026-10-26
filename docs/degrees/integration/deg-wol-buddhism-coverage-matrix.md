@@ -97,3 +97,7 @@ Deep trace added for b1 (docs/degrees/verify/deg-wol-buddhism-b1-deep-trace-1026
 ## Addendum 4 (2026-10-26, later same session)
 
 Deep trace added for b4 (docs/degrees/verify/deg-wol-buddhism-b4-deep-trace-1026a.md): PASS - both entries value-by-value (the two-segment Brahmali assignment correctly split into two published entries; the Metta Sutta weekly revisit). With b1, b2, b4 and b5 traced, the verdict's deep-trace reservation now covers b3, b6, b7, b8 and b9.
+
+## Addendum 5 (2026-10-26, later same session)
+
+Deep trace added for b3 (docs/degrees/verify/deg-wol-buddhism-b3-deep-trace-1026a.md): PASS - all four entries value-by-value (the 11:47 Brahm segment with rebirth/karma chapters excluded, the booklet sections, the Five Mindfulness Trainings, the AN 5.179 hard-cases revisit). With b1 through b5 traced, the verdict's deep-trace reservation now covers b6, b7, b8 and b9 only.
