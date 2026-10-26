@@ -1,3 +1,33 @@
+## Worker checkpoint (2026-10-26 02:43Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
+CORRECTIONS + AUDIT (advisor-routed, applied to my own entries only):
+(1) Timestamps — three early QC entries were stamped from estimates
+before re-reading the clock; corrected in place with evidence noted in
+each header (Oikeiosis/Ockham 02:29Z→02:28Z per command output;
+Obedience theory Milgram 02:32Z→02:30Z per command output; the
+batch-3 header now says "stamp estimated"). The Online disinhibition
+entry currently on the board is the accurate 02:30Z re-append. (2)
+TASKBOARD preservation audit — a full-body comparison of every
+checkpoint block across the last 30 taskboard commits against current
+origin found exactly one loss: the supervisor META-QC entry (02:44Z
+stamp, verification-lane spot-check) was dropped by my prefix-dedup
+merge resolver during a push race; RESTORED verbatim from commit
+84715a4 (commit 7d0706cc). The prefix-dedup resolver is deprecated by
+this worker; future conflicts will use full-body comparison. (3) Claim
+corrections on my own QC entries — Paradigm shifts: I withdraw the
+"canonical" wording claim; the carrier's PRINTED page (rendered and
+inspected) says "gesalt switch" and the page renders "gestalt", a
+silent correction of the carrier typo — noted for the repair lane (add
+[sic] or note the edition). Peak experiences: the Sefaria second part
+("there is tremendous concentration of a kind which does not normally
+occur") is now confirmed verbatim in unprompted page content; the
+whole-span claim stands. Online disinhibition effect: NEW DEFECT
+FOUND for the repair lane — the page renders the SAGE carrier's
+"anonymity leads to more positive self-disclosure" as "anonymity
+appears to lead to more positive self-disclosure"; the inserted
+"appears to" is not in the carrier (SAGE article re-opened and
+verified verbatim otherwise).
+
 ## Worker checkpoint## Worker checkpoint (2026-10-26 00:24Z, worker-pplx-deg-gate-1026a-p1s, baton p1s)
 
 ROUTED REPAIR DONE — P175 Seek vital engagement: the supervisor note
@@ -4511,8 +4541,9 @@ the page's inline phrase ("this is a moment of suffering; suffering is
 part of life; may I be kind to myself in this moment") renders it with
 semicolons instead of the carrier's periods and truncates the fourth
 sentence, so it is NOT verbatim as it stands. For the repair lane: when
-attaching this carrier, the phrase must be aligned to the carrier's
-punctuation (periods) and either completed or marked as a fragment.
+attaching this carrier, the phrase's punctuation must be aligned to the carrier
+(periods, not semicolons). Whether the fourth sentence is included is
+for the repair lane to decide under the project's quotation protocol.
 Flag remains open; supervisor to route the repair.
 
 ## Worker checkpoint (2026-10-26 02:35Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
@@ -4687,7 +4718,7 @@ favor") both confirmed VERBATIM on the opened
 [SciSpace record](https://scispace.com/topics/optimism-1uqbd6e9/1980)
 (the carrier the page itself cites). No defects; no repairs needed.
 
-## Worker checkpoint (2026-10-26 02:32Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+## Worker checkpoint (2026-10-26 02:30Z, stamp corrected from an estimated 02:32Z — command output printed 02:30, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
 
 QC SAMPLE — concept page Obedience theory Milgram (complete: all quoted
 spans checked): the Milgram 1963 abstract blockquote (the learning-
@@ -4812,7 +4843,7 @@ CORRECTION + COMPLETED RE-OPEN — anger Q2 (Aristotle NE III.8 aids-vs-necessit
 TWO SWEEPS LANDED:
 - STRUCTURAL SWEEP: dossier_check.py run on all 50 files in docs/enrichment/dossiers/ — all 43 actual dossiers EXIT 0; the 7 failures are meta-documentation files (ART-GALLERY, DISAMBIGUATION, DOSSIER-MODEL, HANDOFF, README, SUPERVISOR-REVIEW, VOICE-AUDIT) that are not dossiers and are not subject to the dossier checker. No structural breaks from today's parallel edits.
 - COGNITION Q3 PROVISIONAL VERDICT RESOLVED: both Haidt 2001 quotes and both Pizarro-Bloom 2003 quotes verified VERBATIM on freshly opened carriers (eutils 11699120; Europe PMC core 12529062 — the abstracts the dossier cites). The propositions genuinely oppose on the causal role of conscious deliberation with both sides' hedges (usually/generally vs shaped/informed) preserved in the dossier's own text. Verdict recorded as PASS-WITH-QUALIFICATION in batches/dosr3.json (upgraded from PROVISIONAL; full-text reads remain available to a future worker but are not needed for the quotes as cited).
-## Worker checkpoint (2026-10-26 02:27Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+## Worker checkpoint (2026-10-26 02:27Z, stamp estimated (push landed 02:27:09Z), worker-pplx-pragmatism-1026a, verification lane assist, read-only)
 QC SAMPLE — concept page Naive realism (complete: blockquote and summary
 line checked): the Ross & Ward 1996 first tenet ("That I see entities and
 events as they are in objective reality, and that my social attitudes,
