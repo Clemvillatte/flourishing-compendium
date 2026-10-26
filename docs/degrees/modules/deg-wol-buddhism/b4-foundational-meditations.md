@@ -122,7 +122,15 @@ caption track (see the source table); no transcript of the recording
 was accessible this session; the
 "breath meditation" classification of the guided segment and the absence
 of rebirth-dependent content in the assigned segments are therefore
-PENDING a transcript inspection. Caption availability is now
+PENDING a transcript inspection. New context this pass (receipt
+B-V34): the BSWA series page for this five-session series
+(https://bswa.org/practices/introduction-meditation-series-parts-1-5-ajahn-brahmali/)
+lists the session titles, and its own labeling reserves "Breath
+meditation + guided meditation" for Session 3, while Session 1 is
+"Setting yourself up + guided meditation"; the series page gives no
+per-session content descriptions. So the module's classification of
+the Session-1 guided segment as breath meditation is NOT assumed by
+the series' own titles and stays pending the listen. Caption availability is now
 EVIDENCED AT TWO REMOVED LEVELS, each with its limit stated: a fresh
 watch-page fetch this pass returned caption-track data reporting two
 tracks (a manual English track and an English auto-generated track;

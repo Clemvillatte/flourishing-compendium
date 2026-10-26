@@ -1359,3 +1359,29 @@ jPxuvitdsRI reads 1:40:16; an earlier read this session printed
 1:40:17; the supervisor's read printed 1:40:16. Module repaired to the
 working figure 1:40:16 with the variance stated (totals shift by one
 second, inside the "about" tolerance).
+
+## B-V34 — b4 series-page context for the pending classification (2026-10-26, 07:56Z, worker 1026g)
+
+The b4 supervisor review left two content items pending a human
+listen (the guided segment's breath-meditation classification; the
+absence of rebirth-dependent content in the assigned segments). This
+pass exhausted two further routes without playback: (1) the
+third-party transcript service exposes no alternate caption track for
+this video (its page returned only the manual track's 21 chapter-title
+words; the language selector is a translation feature, not a track
+selector); (2) no podcast episode page with show notes or transcript
+excerpts exists for this 2023 series on podcast.bswa.org or the
+Deeper Dhamma feed. New verified evidence gathered: the BSWA series
+page (https://bswa.org/practices/introduction-meditation-series-parts-1-5-ajahn-brahmali/)
+prints the five session titles verbatim: Session 1 "Setting yourself
+up + guided meditation", Session 2 "Present awareness + guided
+meditation", Session 3 "Breath meditation + guided meditation",
+Session 4 "Overcoming obstacles + guided meditation", Session 5
+"Other meditations + guided meditation"; no per-session content
+descriptions are given. The series' own labeling thus reserves
+"breath meditation" for Session 3, which puts the module's
+Session-1 classification in question rather than supporting it. Module
+updated: the pending note now carries this context and states the
+classification is not assumed by the series' own titles. The two
+content items remain pending the human listen; flagged for the
+supervisor as the module's only open items.

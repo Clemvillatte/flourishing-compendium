@@ -1497,3 +1497,11 @@ file.
   supervisor's; 1:40:17 on one earlier read); module updated to
   1:40:16 with the variance stated. No verbatim quotes from the
   error-prone captions.
+
+- 07:56 UTC (measured) - b4 pending-classification context added
+  (receipt B-V34): BSWA series page session titles opened; the series'
+  own labeling reserves "breath meditation" for Session 3. Module's
+  pending note updated accordingly; the two content items stay pending
+  the human listen. Two further routes confirmed exhausted (no
+  alternate track on the transcript service; no podcast episode page
+  for the series).
