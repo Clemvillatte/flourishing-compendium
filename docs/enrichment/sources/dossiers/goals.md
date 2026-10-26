@@ -854,3 +854,19 @@ quoted overview was independently opened and matched this session
 through the fetch tool (publisher-served overview text, exact match).
 No technical claim is made about the host's blocking behavior;
 documented exception, not a content defect.
+Quote-verify note for this pass: 18 checked / 1 not found — the
+founders' overview span on journals.aom.org; the host blocks plain
+script fetches (same class as sacred-texts). The span was opened and
+verified verbatim through the fetch tool this session (the publisher's
+served overview text, single span, exact match); documented exception,
+not a content defect.
+
+## 2026-10-26 09:43Z — worker-pplx-dosr6-1026r: third-dispute lead (Wood/Mento/Locke 1987 vs Earley/Connolly/Ekegren 1989) investigated; NOT LANDED
+
+Read-only investigation for the supervisor; goals.md itself is unchanged and no baton on this band was taken. Opened this session:
+
+- Earley, Connolly and Ekegren 1989, J. Appl. Psychol. 74(1):24-33 (University of Arizona research record, abstract opened): "Specific, difficult goals enhance performance in many tasks. We hypothesize, however, that this effect disappears or reverses for novel tasks that allow multiple alternative strategies." Three stock-prediction experiments (n = 34, 88, 30) "supported the hypothesis that specific, difficult goals (prediction accuracy) increase an individual's strategy search activity and reduce prediction accuracy".
+- Wood, Mento and Locke 1987, J. Appl. Psychol. 72(3):416-425 (Macquarie University research record, abstract opened): goal-setting effects "strongest for easy tasks (reaction time, brainstorming), d = .76, and weakest for more complex tasks (business game simulations, scientific and engineering work, faculty research productivity), d = .42." The meta-analysis reports a weaker positive effect on complex tasks, not a reversal.
+- Locke and Latham 2002, American Psychologist, "Building a Practically Useful Theory of Goal Setting and Task Motivation: A 35-Year Odyssey" (Stanford-hosted PDF, opened): "When people are confronted with a task that is complex for them, urging them to do their best sometimes leads to better strategies (Earley, Connolly, & Ekegren, 1989) than setting a specific difficult performance goal." The founders then recommend specific learning goals as "the antidote".
+
+Verdict: not a certifiable dispute under the strict test. Wood/Mento/Locke find a smaller positive effect on complex tasks while Earley et al. find a reversal on a narrower class of novel multi-strategy tasks, so the two are not incompatible answers to one question, and the founders themselves absorb Earley as a boundary condition in 2002. This confirms the supervisor's reading of the Seijts/Latham lead (the same program conceding a boundary). If goals needs a third question, the material here supports a practice or limits note on complex tasks and learning goals, not a head-on clash. Needs a different opposing pair. Supervisor decision requested.
