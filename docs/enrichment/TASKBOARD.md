@@ -1,4 +1,12 @@
 
+## VERIFICATION CHECKPOINT (2026-10-26 00:53Z, sup-1026b — new-registration quote sample)
+
+Sampled 2 of the 40 newly registered stories, 5/5 quotes verbatim against
+freshly opened carriers: ST410 Django Relearns the Guitar (Givan ch.1,
+umich PDF — recovery-period and technique passages exact) and ST307 The
+Tenth Picture Is a Market (Terebess Ten Ox-herding — ninth-picture verse,
+Hotei passage, commentary line exact). Session quote-fidelity total 8/8.
+
 ## ROUTED REPAIR — APPLIED (2026-10-26 00:48Z, sup-1026b, from the 00:42Z relationship-audit route)
 
 Restored the ST118 relationship lost with the ST307 removal (only group
