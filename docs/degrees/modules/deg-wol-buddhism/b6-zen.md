@@ -4,7 +4,7 @@
 - **kind**: degree-module
 - **level**: L3 Independent analysis
 - **module id**: deg-wol-buddhism-b6
-- **status**: draft v1.3 (both Kirchner lectures content-inspected 2026-10-26 via transcript reads, worker-pplx-buddhism-1026b: labels verified-video, Lecture 3 Step-2 wording tightened to the teacher-framed Rinzai/Soto material; QC rounds 3-4 repairs 2026-10-26: untaught practice outcome replaced, viewing stops, workload corrected, claim/reflection split through assessment; production session 2026-10-26, worker-pplx-buddhism-1026a)
+- **status**: draft v1.3 (both Kirchner lectures content-inspected 2026-10-26 via selected auto-caption passages, worker-pplx-buddhism-1026b: labels verified-video with playback-blocked qualifier, Lecture 3 Step-2 wording tightened to the teacher-framed Rinzai/Soto material; QC rounds 3-4 repairs 2026-10-26: untaught practice outcome replaced, viewing stops, workload corrected, claim/reflection split through assessment; production session 2026-10-26, worker-pplx-buddhism-1026a)
 - **prerequisites**: b1-b5 exit criteria (precepts applied; four tasks run; sitting habit logged; one school known from inside)
 
 ## Walk context
