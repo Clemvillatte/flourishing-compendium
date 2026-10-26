@@ -1062,3 +1062,26 @@ this pass):
   sentence or state the exclusion explicitly (and recheck the ~2,600
   word count, which the ledger records as 2,619 measured — not
   recounted this pass).
+
+### B-V26 — b4 caption-presence check (2026-10-26T06:19Z; verify-pplx-w3-1026a, deg-verify-a)
+
+Attempted to resolve b4's open caption question (the module's honest
+"REPORTED to exist ... not a directly inspected JSON array"):
+
+- **Duration corroborated at player level:** the raw watch-page fetch
+  reports the player displaying 33:55 and the player response length
+  **2035 seconds** (structured metadata PT33M56S) — matching the
+  module's 0:33:55 exactly.
+- **Identity corroborated:** BSWA channel (@BuddhistSocietyWA), title
+  "Introduction to Meditation: Session 1 - Setting yourself up +
+  guided meditation | Ajahn Brahmali", chapters as printed in the
+  module (guided meditation chapter at 20:32 ✓).
+- **CaptionTracks: NOT RESOLVED from available routes** — the
+  extraction layer did not return the captionTracks array for this
+  page (the raw HTML exceeds the fetch storage limit and the saved
+  portion truncates before the player JSON; the sandbox route is
+  bot-walled). The module's bounded "REPORTED ... extraction report"
+  wording is accurate as it stands; resolving caption presence needs
+  a browser-visible check of the transcript panel. No change
+  required to the module; the item stays open as a bounded
+  uncertainty, not a defect.
