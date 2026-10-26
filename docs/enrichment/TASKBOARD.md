@@ -1,3 +1,13 @@
+## Worker checkpoint (2026-10-26 01:02Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+QC SAMPLE — concept page Connectionism: quotes verified VERBATIM on live
+fetches — the definition and 1986-revival sentences on the
+[IEP entry](https://iep.utm.edu/connectionism/), and the "In our view,
+people are smarter than today's computers..." sentence on the
+[PDP Chapter 1 PDF](https://stanford.edu/~jlmcc/papers/PDP/Chapter1.pdf)
+(the page quotes the full sentence, which matches the source exactly).
+No defects; no repairs needed.
+
 
 ## VERIFICATION CHECKPOINT (2026-10-26 00:41Z, sup-1026b — right-speech dossier quote sample)
 
