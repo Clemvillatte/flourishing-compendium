@@ -614,6 +614,60 @@ tag-strip, same verification behaviour as above):
   is now COMPLETE: all five M3 sources opened and measured this
   session.
 
+### M4 preparation (2026-10-26, worker-pplx-degpsychdim-1026a, clock 02:30Z measured; no module prose — gated)
+
+All four M4 sources opened this pass against raw curl-fetched text (same
+verification behaviour as the M3 pass). All passages below confirmed on
+the raw text.
+
+- Posner, Rothbart and Ghassemzadeh 2019, Restoring Attention Networks
+  (Yale J Biol Med, PMC6430178): the three-networks passage verbatim
+  ("In our previous work we have identified three different brain
+  networks related to the functions of attention [1]. These are: (i)
+  Obtaining and maintaining the alert state... (ii) Orienting to
+  sensory stimuli... (iii) The executive attention network that
+  controls voluntary responses..."). Raw page 3,699 words on the
+  tag-stripped basis. SOURCE-BOUNDARY FINDING: the disorders-and-affect
+  content lives HERE, not in Posner 2023 — the 2019 abstract states
+  "deficits of attention accompany many neurological and psychiatric
+  conditions", and the body carries the ADHD, anxiety, depression and
+  schizophrenia material.
+- Posner 2023, The Evolution and Future Development of Attention
+  Networks (J Intell, PMC10301152): the ANT passage verbatim ("From
+  age four on, the Attention Network Test (ANT) allows measurement of
+  individual differences in the alerting, orienting and executive
+  networks."). Raw page 5,193 words. CHECK RESULT: the full raw page
+  contains NO disorder or affect content (zero hits for disorder,
+  depression, anxiety, ADHD, affect, emotion); the scope row's "ANT and
+  links to disorders and affect" must therefore draw its disorders and
+  affect material from Posner 2019, with Posner 2023 supplying the ANT
+  and development content. Also caught this pass: one LLM-extracted
+  "quote" from this page was a paraphrase, not verbatim ("The ANT was
+  developed to provide separate scores..." — NOT present on the raw
+  page); it is excluded from this record.
+- Lippelt, Hommel and Colzato 2014, Focused attention, open monitoring
+  and loving kindness meditation: effects on attention, conflict
+  monitoring, and creativity — A review (Front Psychol, PMC4171985):
+  title and abstract verbatim-verified on the article page (the
+  abstract distinguishes focused attention, open monitoring and loving
+  kindness meditation and their differential effects on attentional
+  selection and conflict monitoring). Raw page 5,643 words. LINK
+  REPAIR NEEDED: the PDF URL in the scope matrix
+  (PMC4171985/pdf/fpsyg-05-01083.pdf) is DEAD (returns an HTML error
+  page, not a PDF); the article page URL works. Fixed in the scope doc
+  this pass (see below).
+- OYC PSYC 110 lecture 7 chapter 5 (Linking Attention and Memory,
+  [00:39:15] to Chapter 6 at [00:58:04]): span measured at 2,619
+  words on the transcript basis (both delimiters unique and ordered);
+  a video segment of about 18 minutes 49 seconds if assigned as a
+  watch. Already content-verified via the batch-24 transcript fetch.
+
+Scope-doc repair applied in the same pass: the Lippelt row URL in
+docs/degrees/scope/deg-psychdim.md updated from the dead PDF link to
+the live article page (https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/);
+same source, link repaired only.
+
+
 Supervisor Phase 0 ruling (ledger section of the same name): M1 repairs
 applied and ACCEPTED by the verifier's re-review (all three findings
 CLOSED, module SHA 99e5abbe...; disposition ready for supervisor
