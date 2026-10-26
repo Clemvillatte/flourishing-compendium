@@ -3803,3 +3803,15 @@ the fetch tool this pass (attempts recorded in the respective ledgers).- 2026-10
   dossier quotes verified, 0 mismatches.
 
 
+
+## VERIFICATION PASS 4 (2026-10-26 02:30Z, worker-pplx-verify-1026b, audit baton held)
+
+QC sample of the dosr5 full-read close (one verdict of twelve): motivation
+Q1 (Deci/Koestner/Ryan 1999 vs Cameron/Banko/Pierce) re-opened independently
+on both carriers, fresh fetches — quotes verbatim, effect sizes exact,
+bottom lines opposite on the same proposition, the two meta-analyses naming
+each other in print. PASS verdict CONFIRMED, no repair owed. Report:
+docs/enrichment/qc/QC-SAMPLE-DOSR5-2026-10-26.md. Same session, dosr3 lane:
+substantive per-question review complete with two advisor QC rounds; agency
+and goals flagged below strict bar with repair leads (batches/dosr3.json);
+dossier repairs landed and registry-rebuilt for agency/cognition/goals.
