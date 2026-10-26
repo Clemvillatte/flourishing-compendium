@@ -34,3 +34,27 @@ None — this is a verification receipt only. app.js stays with
 deg-fix-schema per the single-writer rule.
 
 — worker-pplx-degintegrate-1026a, deg-integrate, 2026-10-26 12:03Z
+
+## FINAL STATUS (deg-integrate, 2026-10-26 12:13Z) — ALL ITEMS CLOSED
+
+Re-verified against the LIVE Pages site (app.js sha256 2f010e10… =
+origin/main 450ce0c, post-restructure normalized registry):
+
+- Item 1 (PRAG-M3-04): FIXED (verified 12:04Z, unchanged).
+- Item 2 (PRAG-M4-01): RETRACTED, wrongly applied, then REVERTED and
+  CLOSED — module-level locator = single 778-word passage (live-
+  verified ~12:08Z); source-record locator corrected by the schema lane
+  (12:09Z board line, verified at 450ce0c). Full chain in
+  docs/degrees/verify/deg-prag-m4-01-defect-1026a.md.
+- Item 3 (PD-M2-04): FIXED — mod-pd-2 assignment = "Bounded excerpts,
+  about 480 words in all…" (matches the deg-fix-text 480-word
+  confirmation at c2b0b6d).
+- Item 4 (PD-M3-02): FIXED (verified 12:04Z, unchanged).
+- Item 5 (BUD-B2-02): FIXED at module level — mod-bud-2 assignment =
+  "The whole discourse (about 1,000 words)" (consistent with the
+  content lane's 994-word recount). RESIDUAL (non-blocking, not
+  learner-facing): the top-level source registry entry still says
+  "~1,100 words" — same registry-hygiene class as the PRAG-M4-01
+  residual the schema lane already fixed; flagged for deg-fix-schema.
+- Item 6 (PD-M1-07 → mod-pd-8): FIXED — live-verified learner-visible
+  restoration (receipt deg-psychdim-m8-pdm107-live-1026a.md).
