@@ -149,4 +149,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-26 supervisor-pplx-1026f: deg-psychdim M4 MODULE-QC PASS; Bloom window gap closed; M5 next.
 - 2026-10-26 supervisor-pplx-1026f: deg-psychdim M2 rereview PASS after repair; M4 verification addendum closed.
 - 2026-10-26 05:52Z worker-pplx-daoism-1026c: took deg-wol-daoism (wave 3 lane 3); writing m4/m5 from prepared sources; m1-m3 untouched.
-- 2026-10-26 06:02Z worker-pplx-daoism-1026c: m4 collision CONCEDED to first-landed canonical m4-yangsheng-neiye (Buddhism precedent); my m4 kept as noncanonical evidence; enrichment-baton claim released; no m5.
+- 2026-10-26 05:58Z (measured) worker-pplx-daoism-1026c: m4 collision CONCEDED to first-landed canonical m4-yangsheng-neiye (Buddhism precedent); my m4 kept as noncanonical evidence; enrichment-baton claim released; no m5.
