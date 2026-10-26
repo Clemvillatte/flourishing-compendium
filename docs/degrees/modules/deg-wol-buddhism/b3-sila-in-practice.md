@@ -4,7 +4,7 @@
 - **kind**: degree-module
 - **level**: L2 Guided application
 - **module id**: deg-wol-buddhism-b3
-- **status**: draft v1.1; not cleared (QC round-3 repairs applied 2026-10-26; repair history in the ledger)
+- **status**: draft v1.2; not cleared (canonical bounded-return content-note repair applied 2026-10-26: the Rahula instruction restated as the talk's harm/happiness weighing, the before/during/after shape marked as the module's own organization, the four-truths happiness reframing marked outside the assigned arc; repair history in the ledger)
 - **prerequisites**: b1 exit criteria (can state the five precepts with everyday examples; two metta sittings logged); b2 exit criteria (has run the four tasks on one case)
 
 ## Walk context
@@ -62,14 +62,19 @@ unassigned; the four-truths arc belongs to b2.
 
 Content note (from the opened episode page's transcript excerpts): the
 ethics teaching, as Brahm presents it, includes the Rāhula ethics
-instruction (reflect before, during and after an action), his
-treatment of guilt in ethics, the acknowledge-forgive-learn sequence
-for mistakes, and the happiness/unhappiness reframing of the four
-truths. These are Brahm's positions as the talk states them; the
-module attributes them to his presentation and does not assert them
-as the position of every Buddhist tradition. The transcript is
-AI-generated and error-prone, so this module paraphrases the talk
-with attribution and quotes none of its wording.
+instruction as the talk gives it: an action is weighed by whom it
+hurts and whom it helps (harm to yourself or others, happiness to
+yourself or others), his treatment of guilt in ethics, and the
+acknowledge-forgive-learn sequence for mistakes. These are Brahm's
+positions as the talk states them; the module attributes them to his
+presentation and does not assert them as the position of every
+Buddhist tradition. The talk's closing four-truths material, which
+reframes the truths as happiness and unhappiness, sits at and after
+the 37:33 chapter boundary, outside this module's assigned arc (it
+is b2's territory and is not claimed as part of this module's
+teaching). The transcript is AI-generated and error-prone, so this
+module paraphrases the talk with attribution and quotes none of its
+wording.
 
 Activity: one line per chapter mark you cross (00:25:46, 00:31:32), naming
 the shift in the teaching.
@@ -104,16 +109,20 @@ rendering differs most from the classical rule.
 **One worked case, then two of your own.** Worked example (a model,
 not a case you decide): a colleague asks whether you saw the email
 they sent; you did, and have not answered it. Precepts in play: honest
-speech (the fourth). Run the teaching: before (who is harmed by each
+speech (the fourth). Run the weighing: before (who is harmed by each
 answer; what tolerance requires of the answer), during (say the true
-thing kindly), after (review: was anyone misled?). If it went wrong
+thing kindly), after (review: was anyone misled?). The
+before/during/after shape is this module's own organization of the
+talk's harm-weighing instruction, not a structure the talk itself sets
+out. If it went wrong
 (the answer misled), the acknowledge-forgive-learn sequence: own the
 error, ask forgiveness, take the training forward. Now choose two
 situations from your own life where a precept is genuinely hard to
 apply (a workplace honesty case, a relationship case, a consumption
-case). For each: name the precepts in play, run the talk's decision
-teaching (before, during, after; who is harmed; what tolerance
-requires; the talk's treatment of guilt), state your decision, and
+case). For each: name the precepts in play, run the module's
+weighing sequence (before, during, after; who is harmed; what
+tolerance requires; the talk's treatment of guilt), state your
+decision, and
 name what you would do if it went wrong. About 250 words per case.
 
 ## Assessment

@@ -1420,3 +1420,28 @@ hashes in the band file were re-measured after this pass's edits
 (b1 and b2 at their supervisor-PASS hashes 817e8010 and c6c6f4810,
 unchanged; b3, b4, b5 and b7 changed with this pass's corrections;
 b6, b8 and b9 at their post-trim hashes).
+
+## b3 canonical bounded-return repair applied (2026-10-26, worker-pplx-buddhism-1026g)
+
+The canonical b3 review (supervisor-pplx-1026e, BOUNDED RETURN at
+00a6931c) required one content-note repair; applied this pass: (1) the
+Rāhula instruction is now stated as the talk gives it (an action
+weighed by whom it hurts and whom it helps — the harm/happiness
+weighing the supervisor verified on two transcript routes at ts
+1880-1919), replacing the "reflect before, during and after" phrasing
+the talk does not carry; (2) the before/during/after shape is
+explicitly marked as this module's own organization of the talk's
+harm-weighing instruction, in both the worked case and the practice
+section; (3) the happiness/unhappiness four-truths reframing is
+marked as the talk's closing material at and after the 37:33 chapter
+boundary, outside this module's assigned arc (b2's territory), no
+longer listed as part of this module's ethics teaching. No curriculum
+change: outcomes, cases, comparison and rebirth placement stand as
+reviewed. Hash after repair recorded in the band file. Also this pass:
+the supervisor's B-V17 adjudication was consumed — the ledger's
+mislabelled flag line is marked superseded with the adjudication's
+finding (b2's task-frame rests on SN 56.11 itself, B-T01; no b2
+defect), and the 1026h retracted-PASS corroboration was noted (its
+independent checks — chapter list, segment arithmetic, workload sum
+135 min = 2 h 15 m inside the "about 2 h 25 m" tolerance, zero em
+dashes — all corroborate the reviewed state).
