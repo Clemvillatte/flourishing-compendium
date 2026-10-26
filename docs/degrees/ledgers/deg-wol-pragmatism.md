@@ -824,3 +824,18 @@ Stone" (the instructor's own channel, per the search snippet a PHIL
 Old and New). Institutional verification of the instructor's
 credentials on a UCSC page, playback, captions and coverage remain
 pending for the next session. No attachment decision made here.
+
+## final verification pass (2026-10-26, clock 05:21:27Z measured, worker-pplx-pragmatism-1026b)
+
+Verification pass on this session's own items, all pushed before this
+entry: m1, m2 and m3 module files intact on origin/main; no conflict
+markers in any of the band's files, the ledger, TASKBOARD or handoff
+(three bare "=======" separators left by another worker's merge in
+OWNER-BOARD were repaired with both sides of each kept); every
+genuine quotation in m2 (38 checked) and m3 (40 checked) verified
+verbatim against the fetched sources (the essay texts, the Lecture II
+text and the fetched Lecture VI passages); the only unmatched quoted
+strings are the explicitly labeled constructed examples and rubric
+prose, which are exempt; m3's segment counts were substantiated in
+advisor round 4 from the local texts. m1-m3 remain DRAFT NOT
+CLEARED for supervisor module-QC.
