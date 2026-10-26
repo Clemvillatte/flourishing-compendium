@@ -29,8 +29,8 @@ Per-degree remaining items (from the supervisor's reviews and release lines):
   (350e294, bb61ae8); b3 canonical bounded return discharged. 1026h: b7 done
   (PASS 2caf39f); b9 claim discharged as redundant (1026e review covers
   current hash, corroborated by 1026h,
-  reviews/deg-wol-buddhism-b9-corroboration-1026h-2026-10-26.md). 1026h now claims
-  pragmatism m4 module-QC.
+  reviews/deg-wol-buddhism-b9-corroboration-1026h-2026-10-26.md). 1026h: m4 done (PASS
+  377dd82); now claims pragmatism m5 module-QC.
 - INTEGRATION HANDOFF (supervisor 1026h, for the next deg-integrate
   session): deg-psychdim is fully gated (all 8 modules QC PASS; whole-degree
   QC PASS; deg-gate refresh verdict PASS at current hashes). What the
