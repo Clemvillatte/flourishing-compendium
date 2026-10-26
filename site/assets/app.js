@@ -4454,11 +4454,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The two sides give opposing answers to one question: must a purpose reach beyond the self? On the first view it must. On the second it should not be gated on that requirement: Hill and Burrow's abstract offers a more inclusive portrayal built on sense of purpose, and the Pfund review characterizes this camp's measures as agnostic to an individual's specific purpose orientation."
+          "x": "The two sides turn on one question: must a purpose reach beyond the self? On the first view it must. On the second side, the opened text offers a more inclusive portrayal built on sense of purpose, and the Pfund review characterizes this camp's measures as agnostic to an individual's specific purpose orientation."
         },
         {
           "t": "p",
-          "x": "What the opened passages do not establish is whether this camp would count an aim that stays entirely inside a person's own life as a purpose. The inclusiveness claim and the orientation-agnostic characterization carry the opposition, but that explicit proposition is not in the opened text. I have not opened the full text of Hill and Burrow, so I do not say how they reply to Damon's reasons, and the Pfund review is my only description of how the two camps relate. What the dispute shows me is that a definition of purpose decides who is allowed to have one. For an essay on suffering and flourishing, that matters: a person whose aim is quiet and close to home should not be counted out by a measuring rule."
+          "x": "What the opened passages do not establish is whether Hill and Burrow reject the beyond-self requirement, or would count an aim that stays entirely inside a person's own life as a purpose. That opposing position remains unverified in the opened text, so this section records a documented definitional controversy rather than a certified disagreement. I have not opened the full text of Hill and Burrow, so I do not say how they reply to Damon's reasons, and the Pfund review is my only description of how the two camps relate. What the dispute shows me is that a definition of purpose decides who is allowed to have one. For an essay on suffering and flourishing, that matters: a person whose aim is quiet and close to home should not be counted out by a measuring rule."
         },
         {
           "t": "h2",

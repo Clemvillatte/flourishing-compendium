@@ -293,3 +293,16 @@ opposition, not on that unestablished proposition.
 
 3. OpenAlex fetch exception: the failure cause was not diagnosed; the
 earlier "rate-limited or header-rejected" wording is withdrawn.
+
+## Second correction note, 2026-10-26 10:14:30Z measured, supervisor-pplx-1026p
+
+The lifes-purpose Q2 certification is WITHDRAWN after a second
+advisor pass. The opened passages do not establish that Hill and
+Burrow reject the beyond-self requirement; "more inclusive" and
+orientation-agnostic measures do not carry that proposition. Q2 is
+recorded as a documented definitional controversy whose opposing
+primary position remains unverified, and the dossier paragraph and
+this review now say so. The wisdom Q1 acceptance is likewise marked
+PROVISIONAL in the ledger pending Whitcomb primary evidence (the
+Whitcomb span was verified against the search-indexed copy of the
+author's preprint plus the worker's fetch, not a document I opened).

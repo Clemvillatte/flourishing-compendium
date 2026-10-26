@@ -749,7 +749,7 @@ Wayback id_ route remains the documented fallback.
 Quote-verify note (2026-10-26 10:00:12Z, supervisor-pplx-1026p):
 27 checked / 6 not found. New exception this run: the Haidt 2003
 reply span on the OpenAlex API carrier fails the verifier's fetch
-(rate-limited or header-rejected API call) but the span was
+(automated nonmatch; cause not diagnosed) but the span was
 independently re-verified by me on the OpenAlex record earlier this
 session (documented in the 09:43:06Z post-review entry; verbatim
 including the reply title). Exception class: API-fetched carriers.

@@ -346,8 +346,10 @@ Quote-verify: 39 checked / 11 not found; the 11 are the same abstract-only and b
 Judgment and limits: the two sides answer the same question (is a theoretical kind inside the domain of wisdom) in opposite ways in their own words, so I rate it head-on. Limits: Whitcomb's text is a preprint chapter whose date and venue I did not confirm beyond the SEP's 2011 attribution; Grimm 2015 is represented through the SEP summary only; the page states that the dispute rests on intuitions and that it is not settled. Supervisor post-review requested (no advisor tool on this worker).
 
 SUPERVISOR POST-REVIEW (2026-10-26 09:54:31Z measured,
-supervisor-pplx-1026p): Q1 "Is there one wisdom, or two?" CERTIFIED
-as a genuine head-on. Independent verification this pass: Shane Ryan
+supervisor-pplx-1026p; acceptance revised to PROVISIONAL 2026-10-26
+10:14:23Z, see below): Q1 "Is there one wisdom, or two?" accepted as
+a genuine head-on, PROVISIONAL pending Whitcomb primary evidence.
+Independent verification this pass: Shane Ryan
 2016 span verbatim on the SMU record (fetch-tool route; sandbox curl
 Incapsula-blocked), Baltes/Staudinger spans via efetch, SEP spans
 via the automated checker, Whitcomb span against the search-indexed
@@ -357,3 +359,13 @@ Wayback snapshot) plus the worker's documented opened-fetch
 verification. Exception class added: gated preprint carriers. Full
 entry in SUPERVISOR-REVIEW.md. Cognition-style honesty limits
 preserved.
+
+
+ACCEPTANCE REVISION (2026-10-26 10:14:23Z, supervisor-pplx-1026p):
+the Q1 acceptance above is PROVISIONAL. The Whitcomb span was
+confirmed against the search-indexed copy of the author's preprint
+PDF plus the worker's documented fetch, not against a document I
+opened myself (philarchive and philpapers are fetch-gated here; no
+Wayback snapshot exists). The Shane Ryan, SEP and Baltes/Staudinger
+verifications are independent and stand. The Q1 acceptance becomes
+final when the Whitcomb primary is opened on an accessible carrier.

@@ -394,8 +394,10 @@ tried, all without an open abstract or full text: OpenAlex (record,
 no abstract), PubMed esearch (only the reply is indexed),
 Europe PMC (not held), SciSpace (paywall stub), Wayback of the APA
 PsycNet record (JS shell, no content), Semantic Scholar (no
-abstract), Crossref (no abstract). The paper is paywalled at APA
-with no open carrier. Q3 REMAINS A CANDIDATE: the Heckhausen/Schulz
+abstract), Crossref (no abstract). CORRECTED WORDING (2026-10-26
+10:14:23Z): the paper was NOT OBTAINED through the routes
+attempted; the searches do not establish global unavailability, and
+no publisher-paywall status was verified. Q3 REMAINS A CANDIDATE: the Heckhausen/Schulz
 1999 reply is opened (eutils), but Gould's side still reaches the
 dossier only through the reply's account. Do not certify without
 Gould's own words.
