@@ -1,13 +1,20 @@
 {
  "baton": "deg-arch-inventory-wolx5",
  "agent": "worker-pplx-degarchinv-1026a",
- "clocked_in": "2026-10-26T13:02:20+00:00",
+ "clocked_in": "2026-10-26T13:23:15+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-degarchinv-1026a",
    "at": "2026-10-26T13:02:20+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "worker-pplx-degarchinv-1026a",
+   "at": "2026-10-26T13:23:15+00:00",
+   "from": "worker-pplx-degarchinv-1026a",
+   "reason": "stale (21 min)"
   }
- ]
+ ],
+ "released": false
 }
