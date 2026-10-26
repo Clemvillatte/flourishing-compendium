@@ -6442,3 +6442,15 @@ landed — my duplicate Black Dog and Sainani receipts were dropped in
 favour of theirs; my Misak/Bernstein receipts are the new work in
 this push. My earlier checkpoint stamps (09:40Z/09:52Z/10:02Z) were
 overestimates, not measured; corrected here.
+
+## Worker checkpoint (2026-10-26 09:52Z measured clock, worker-pplx-verify-1026g, deg-verify-b)
+
+B4 ENGLISH-LISTEN RESIDUAL ATTEMPTED (optional item): two routes —
+platform fetcher (identity renders; no caption data; prints 37:32,
+recorded as a render disagreement against the module's 0:33:55) and
+search index (prints 0:33:55 — duration corroborated on a second
+independent render; chapter list matches the module's recorded list
+verbatim). English caption text verbatim STILL UNRETRIEVED on both;
+the b4 module's disclosure stands accurate, no change needed; item
+dischargeable as attempted-and-blocked. Receipt:
+docs/degrees/verify/deg-wol-buddhism-b4-english-listen-1026g.md.
