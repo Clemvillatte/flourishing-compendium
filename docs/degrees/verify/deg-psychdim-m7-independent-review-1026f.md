@@ -41,22 +41,24 @@ memory or from the previous receipt.
    letter/number tokens with internal apostrophes/hyphens retained,
    headings, citation numbers and the Figure 2 caption included)**:
    - Results 3.2–3.5: my count **1,575** tokens (the M7 addendum
-     records 1,570). The 5-token delta is consistent with
-     extraction-method differences (my tag-stripping leaves artifacts
-     such as "Table S3 ." as an extra token; italic markup collapses
-     differently). Both counts sit at the same magnitude and the
-     boundary text is identical — I corroborate the addendum's
-     measurement within method noise.
+     records 1,570). The boundaries and approximate reading length are
+     corroborated; the exact reported token count was not reproduced,
+     and the cause of the 5-token difference was not established (my
+     extraction pipeline differs from the addendum's, but no specific
+     cause was demonstrated).
    - Limitations paragraph: my count **334 tokens** — exact match with
      the addendum's 334.
 4. **Source inconsistency (independently confirmed)**: Results 3.1
    prints "Most studies had a high risk of bias rating (i.e., low
    quality, n = 11), while five had a low risk of bias rating (i.e.,
-   high quality)." while Table 1 ("Study quality assessments using the
-   PEDro scale (n = 20)") prints 20 study rows of which 9 are labelled
-   "High" and 11 "Low" in the Overall Score column. The discrepancy
-   the addendum flagged is real and is present in the article as
-   published — confirmed on both routes this session.
+   high quality)." — this sentence was read on BOTH routes this
+   session (the fetch-tool page read and the text of my direct HTML
+   download). Table 1 ("Study quality assessments using the PEDro
+   scale") was enumerated directly from my downloaded HTML: the
+   table has 21 rows (1 header + 20 study rows), with 9 rows labelled
+   "High" and 11 labelled "Low" in the Overall Score column — matching
+   the fetch-route extraction's 20/9/11. The discrepancy the addendum
+   flagged is real and is present in the article as published.
 5. **Caveats check**: the addendum's recorded caveats match what I
    see — the Results 3.2–3.5 span contains collapsed subheadings
    (Stage 1 / Stage 2 / Developing automaticity / Time to
@@ -67,9 +69,9 @@ memory or from the previous receipt.
 
 - The addendum's SHA-256 values were computed on its own extraction;
   a byte-identical reproduction requires the identical extraction
-  pipeline, which I did not attempt. My review corroborates the
-  boundaries, counts (within the stated noise) and the discrepancy
-  claim; the hashes stand on the original addendum's own computation.
+  pipeline, which I did not attempt. Those hashes remain UNCHECKED by
+  this review — my corroboration of boundaries, counts-within-method
+  and the discrepancy claim does not verify the hashes.
 - The M4 alignment proposal (the other addition awaiting review in
   the same note) is a module-alignment matter and is NOT reviewed
   here; it remains for the gate/supervisor, or a reviewer with the
@@ -78,6 +80,7 @@ memory or from the previous receipt.
 
 **Result**: the M7 count/excerpt check by the previous deg-verify-b
 holder is corroborated by this independent session — boundaries,
-counts and the flagged source inconsistency all reproduce within the
-stated method noise. I record acceptance of that addition here for
-the gate/supervisor to consume; no defects found.
+counts (within the stated method limits) and the flagged source
+inconsistency all reproduce. This corroboration is submitted for
+supervisor/gate review; this receipt does not itself grant formal
+acceptance to the addition. No defects found in the checked portions.

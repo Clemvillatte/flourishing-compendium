@@ -31,38 +31,55 @@ come from that file.
    a>/b>/c>), chapter 44 (undivided), chapter 50, and chapter 67
    (subsectioned), located at their chapter-number lines in the
    translation.
-3. **Quoted passages — all verified verbatim in the Eno text**:
+3. **Quoted passages — all quoted WORDS verified present in the Eno
+   text; two boundary normalizations noted for the owner**:
    - Chapter 20: "I alone am still, without visible sign, like a new
      born baby yet to smile" — present verbatim; and the module's
      quoted close "I alone wish to be different from others" — present
      verbatim ("I alone wish to be different from others, and value
      feeding from the mother.").
-   - Chapter 44: "know what is enough" — present ("Know what is enough
-     and escape shame"); "know when to stop" — present ("know when to
-     stop and escape danger").
+   - Chapter 44: "know what is enough" — the source sentence prints
+     "Know what is enough and escape shame" (sentence-initial
+     capital); the module embeds the phrase lowercase mid-sentence — a
+     case normalization inside the module's own prose, not a
+     character-for-character quotation. "know when to stop" — same
+     pattern (source: "know when to stop and escape danger").
    - Chapter 50: "good at protecting his life" — present verbatim ("I
      have heard that one good at protecting his life walks in the
      hills..."); "no death place in him" — present verbatim (the
      chapter's close: "Because he has no death place in him.").
-   - Chapter 67: "Compassionate, thus I can have valor" — present
-     verbatim ("Compassionate, thus I can have valor; frugal, thus I
-     can extend my territory...").
-4. **Word count (independent recount)**: counting letter/number tokens
+   - Chapter 67: "Compassionate, thus I can have valor" — the WORDS are
+     present verbatim, but the source prints a SEMICOLON at the quoted
+     boundary ("Compassionate, thus I can have valor; frugal, thus I
+     can extend my territory...") while the module's specimen closes
+     the quotation with a period ('Compassionate, thus I can have
+     valor.'). ROUTED TO THE MODULE OWNER: whether the project's
+     quotation rules permit terminal-punctuation normalization at a
+     truncated boundary; if not, the specimen needs the boundary
+     marked (e.g. "Compassionate, thus I can have valor; ...") or the
+     punctuation preserved.
+4. **Word count (independent recount — an unresolved methodological
+   difference, not an explained one)**: counting letter/number tokens
    over the four chapters with the a>/b>/c> subsection markers excluded
    and each chapter bounded by its number line and the next chapter
    number: chapter 20 = 146, chapter 44 = 53, chapter 50 = 112,
-   chapter 67 = 145 — **total 456**. The module prints 464. The 8-word
-   delta (1.7%) is within counting-method noise (em-dash and
-   hyphenation handling differ between extractors); the chapter
-   boundaries themselves are unambiguous. No hanzi or front-matter
-   contamination in the counted spans.
+   chapter 67 = 145 — **total 456 by token-counting**. A whitespace-split
+   count of the same spans (which counts standalone em-dash tokens as
+   words) gives **466**. The module prints 464; that figure was not
+   exactly reproduced by either of my two methods, and I did not
+   establish which counting rule the producer used. The chapter
+   boundaries themselves are unambiguous, and no hanzi or front-matter
+   contamination entered the counted spans. For the supervisor's
+   module-QC to reconcile or annotate.
 
 ## Honest limits
 
-- The word-count delta is recorded for the supervisor's module-QC to
-  reconcile or annotate; it does not affect any quoted passage, all of
-  which are verbatim.
+- The word-count difference is recorded for the supervisor's module-QC
+  to reconcile or annotate; it does not affect any quoted passage's
+  words, all of which are present in the source.
+- The chapter-67 specimen's terminal punctuation (period vs the
+  source's semicolon) is ROUTED to the module owner as above — this
+  receipt does not judge the project's normalization rules.
 - This receipt covers the primary-text and quote verification only;
   the capstone's design, rubric and workload arithmetic are the
   supervisor's module-QC territory.
-- No defects found in the checked passages.
