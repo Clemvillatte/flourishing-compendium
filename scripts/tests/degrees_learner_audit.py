@@ -159,10 +159,19 @@ def main():
 
             for sid in req_ids | opt_ids:
                 s = srcs.get(sid)
+                refs_here = [r for r in req + opt if r['source_id'] == sid]
                 if s and is_video(s) and not (s.get('duration') or '').strip():
                     fail(mid, f'video source {sid} has no printed duration')
-                if s and not is_video(s) and not (s.get('locator') or '').strip() and not (s.get('duration') or '').strip():
+                if s and is_video(s) and (s.get('duration') or '').strip() and TIME.match(s['duration'].strip()):
+                    full = to_seconds(s['duration'].strip())
+                    for r in refs_here:
+                        for w in (r.get('segments') or []):
+                            if to_seconds(w['end']) > full:
+                                fail(mid, f'source {sid}: window {w} ends after the printed full duration {s["duration"]}')
+                if s and not is_video(s) and not (s.get('locator') or '').strip() and not (s.get('duration') or '').strip() \
+                        and not any((r.get('locator') or '').strip() for r in refs_here):
                     fail(mid, f'text source {sid} has neither a locator (chapter/passage/word count) nor a reading-time label')
+                # an assigned window on a video must exist: required videos without segments are whole-video assignments
 
         # manifest diff (Phase 0 contract): every manifest assignment must be integrated
         mpath = os.path.join(MANIFEST_DIR, f'{did}-manifest.json')

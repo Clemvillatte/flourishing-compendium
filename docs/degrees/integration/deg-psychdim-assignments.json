@@ -1,0 +1,546 @@
+{
+ "degree_id": "deg-psychdim",
+ "built": "2026-10-26",
+ "built_by": "worker-pplx-degfixschema-1026b (baton deg-fix-schema)",
+ "provenance": "Windows and spans transcribed from deg-psychdim-manifest.json (verified by the deg-fix-content lane) and the module docs; nothing here is invented. See docs/degrees/AUDIT-2026-10-26.md Phase A.",
+ "modules": {
+  "mod-pd-1": {
+   "refs": [
+    {
+     "source_id": "PD-M1-01",
+     "section": "required",
+     "segments": [
+      {
+       "start": "01:03:17",
+       "end": "01:09:12"
+      }
+     ]
+    },
+    {
+     "source_id": "PD-M1-02",
+     "section": "required",
+     "segments": [
+      {
+       "start": "25:46",
+       "end": "44:11"
+      },
+      {
+       "start": "54:02",
+       "end": "57:21"
+      }
+     ]
+    },
+    {
+     "source_id": "PD-M1-02",
+     "section": "optional",
+     "segments": [
+      {
+       "start": "03:29",
+       "end": "09:21"
+      }
+     ],
+     "note": "Optional remedial clip for learners new to statistics"
+    },
+    {
+     "source_id": "PD-M1-03",
+     "section": "required",
+     "locator": "Selected sections, about 3,200 words"
+    },
+    {
+     "source_id": "PD-M1-04",
+     "section": "required",
+     "locator": "The definition and the two principles, about 300 words"
+    },
+    {
+     "source_id": "PD-M1-05",
+     "section": "optional",
+     "locator": "Opening overview"
+    },
+    {
+     "source_id": "PD-M1-06",
+     "section": "optional",
+     "locator": "Section 1.4 only"
+    },
+    {
+     "source_id": "PD-M1-07",
+     "section": "optional",
+     "locator": "Optional further reading"
+    },
+    {
+     "source_id": "PD-M1-08",
+     "section": "optional",
+     "locator": "Optional; cited in the module’s teaching prose on p-value misinterpretation"
+    }
+   ]
+  },
+  "mod-pd-2": {
+   "refs": [
+    {
+     "source_id": "PD-M2-01",
+     "section": "required",
+     "segments": [
+      {
+       "start": "00:00",
+       "end": "09:06"
+      }
+     ]
+    },
+    {
+     "source_id": "PD-M2-02",
+     "section": "required",
+     "segments": [
+      {
+       "start": "00:00",
+       "end": "18:29"
+      }
+     ]
+    },
+    {
+     "source_id": "M06-AF07",
+     "section": "required",
+     "segments": [
+      {
+       "start": "19:22",
+       "end": "26:14"
+      }
+     ],
+     "note": "Stop at 26:14; the later lab demonstration is not assigned"
+    },
+    {
+     "source_id": "PD-M2-04",
+     "section": "required",
+     "locator": "The opening sections through the social and cultural functions of emotion, plus the closing excerpt (about 2,794 words)"
+    },
+    {
+     "source_id": "PD-M2-05",
+     "section": "required",
+     "locator": "The Abstract and the single paragraph under ‘A brain regulates and coordinates the systems of its body’; the tables and the remaining neuroscience discussion are not assigned"
+    },
+    {
+     "source_id": "PD-M2-06",
+     "section": "required",
+     "locator": "Introduction: the two paragraphs from ‘Over the years, different models of ER’ to ‘ER goals are not static.’; the first paragraph under ‘Theoretical framework’; and the first limitations paragraph in the Conclusion, from ‘While this review fulfills’ to ‘across different contexts’"
+    },
+    {
+     "source_id": "PD-M2-07",
+     "section": "required",
+     "locator": "Reference for the process model of emotion regulation: check the module’s five families of regulation against it; not a whole-paper assignment"
+    }
+   ]
+  },
+  "mod-pd-3": {
+   "remove": [
+    "PD-M3-07"
+   ],
+   "refs": [
+    {
+     "source_id": "PD-M3-01",
+     "section": "required",
+     "segments": [
+      {
+       "start": "14:25",
+       "end": "17:39"
+      },
+      {
+       "start": "31:18",
+       "end": "33:49"
+      }
+     ]
+    },
+    {
+     "source_id": "PD-M3-02",
+     "section": "required",
+     "segments": [
+      {
+       "start": "18:06",
+       "end": "39:15"
+      }
+     ]
+    },
+    {
+     "source_id": "PD-M3-03",
+     "section": "required",
+     "segments": [
+      {
+       "start": "13:22",
+       "end": "18:27"
+      }
+     ],
+     "note": "Meaning and organisation in memory"
+    },
+    {
+     "source_id": "PD-M3-04",
+     "section": "required",
+     "segments": [
+      {
+       "start": "39:43",
+       "end": "47:25"
+      },
+      {
+       "start": "54:59",
+       "end": "59:22"
+      }
+     ],
+     "note": "The base-rate and availability examples between the two windows are not assigned"
+    },
+    {
+     "source_id": "PD-M3-05",
+     "section": "required",
+     "locator": "The opening summary, from ‘Basic principles of learning’ to ‘classical and operant conditioning’, plus the one paragraph beginning ‘Learning depends on such a surprise’"
+    },
+    {
+     "source_id": "PD-M3-06",
+     "section": "required",
+     "locator": "The opening summary, from ‘“Memory” is a single term’ through ‘among other types’, plus ‘Three Stages of the Learning/Memory Process’, stopping before ‘Encoding’"
+    },
+    {
+     "source_id": "PD-M3-08",
+     "section": "required",
+     "locator": "From the opening paragraph to the end of ‘Importantly, RNT is characterized by its process features, not its content’, then the paragraph beginning ‘In his influential theoretical model, Watkins’; stop before the intervention discussion"
+    }
+   ]
+  },
+  "mod-pd-4": {
+   "refs": [
+    {
+     "source_id": "PD-M4-01",
+     "section": "required",
+     "segments": [
+      {
+       "start": "03:06",
+       "end": "14:52"
+      }
+     ]
+    },
+    {
+     "source_id": "PD-M4-02",
+     "section": "required",
+     "segments": [
+      {
+       "start": "05:24",
+       "end": "07:42"
+      }
+     ]
+    },
+    {
+     "source_id": "PD-M3-02",
+     "section": "required",
+     "role": "retrieval",
+     "segments": [
+      {
+       "start": "47:26",
+       "end": "54:53"
+      }
+     ],
+     "note": "Attention demonstrations from the same lecture you used in Module III"
+    },
+    {
+     "source_id": "PD-M4-03",
+     "section": "required",
+     "segments": [
+      {
+       "start": "02:08",
+       "end": "04:17"
+      }
+     ]
+    },
+    {
+     "source_id": "PD-M4-04",
+     "section": "required",
+     "locator": "Table 1 as a reference; then Table 2 with its caption; then the first paragraph under ‘Attentional Pathologies’"
+    },
+    {
+     "source_id": "PD-M4-05",
+     "section": "required",
+     "locator": "Section 4, ‘Interaction of Networks’: the first paragraph only, through ‘largely different functions’"
+    },
+    {
+     "source_id": "PD-M4-06",
+     "section": "required",
+     "locator": "The Abstract; then the single Introduction paragraph from ‘Even though numerous studies’ through ‘attentional control, conflict monitoring, and creativity’; later brain-region claims are not assigned"
+    },
+    {
+     "source_id": "PD-M4-07",
+     "section": "required",
+     "locator": "Journal pages 342–343: the three complete Results paragraphs beginning ‘The alerting effect was calculated,’ ‘The orienting effect was calculated’ and ‘The conflict (executive control) effect was calculated’; skip the intervening tables and figure and stop before ‘Correlation Analyses’"
+    }
+   ]
+  },
+  "mod-pd-5": {
+   "refs": [
+    {
+     "source_id": "PD-M5-01",
+     "section": "required",
+     "segments": [
+      {
+       "start": "13:53",
+       "end": "19:47"
+      }
+     ]
+    },
+    {
+     "source_id": "PD-M5-02",
+     "section": "required",
+     "segments": [
+      {
+       "start": "15:56",
+       "end": "28:41"
+      },
+      {
+       "start": "40:00",
+       "end": "50:03"
+      }
+     ]
+    },
+    {
+     "source_id": "PD-M5-03",
+     "section": "required",
+     "segments": [
+      {
+       "start": "10:07",
+       "end": "13:31"
+      }
+     ],
+     "note": "The assigned definition of narrative identity"
+    },
+    {
+     "source_id": "PD-M5-04",
+     "section": "required",
+     "segments": [
+      {
+       "start": "11:12",
+       "end": "13:59"
+      }
+     ],
+     "note": "The project and its cost"
+    },
+    {
+     "source_id": "PD-M5-07",
+     "section": "required",
+     "locator": "The person–situation qualification and the selections on stability and variation"
+    },
+    {
+     "source_id": "PD-M5-05",
+     "section": "required",
+     "locator": "‘Definition and core components’; the first two paragraphs of ‘Distinguishing self-concept clarity from related constructs’ plus Table 1; and the critical-appraisal paragraph beginning ‘These strengths notwithstanding’"
+    },
+    {
+     "source_id": "PD-M5-06",
+     "section": "required",
+     "locator": "The first four introductory paragraphs, from ‘In the current review, we discuss progress’ through the domain-specific identity paragraph ending ‘one or multiple life domains.’"
+    },
+    {
+     "source_id": "PD-M5-08",
+     "section": "required",
+     "locator": "Inspect the 12-item form, its response anchors and the reverse-keying note; do not submit it and do not apply a diagnostic cutoff"
+    },
+    {
+     "source_id": "PD-M1-06",
+     "section": "required",
+     "locator": "Table 1’s Self row and the table note only"
+    }
+   ]
+  },
+  "mod-pd-6": {
+   "refs": [
+    {
+     "source_id": "PD-M6-01",
+     "section": "required",
+     "segments": [
+      {
+       "start": "09:21",
+       "end": "14:43"
+      }
+     ],
+     "note": "Selected interview"
+    },
+    {
+     "source_id": "M08-P09",
+     "section": "required",
+     "segments": [
+      {
+       "start": "08:38",
+       "end": "13:55"
+      }
+     ],
+     "note": "Needs and the distinctions between motives"
+    },
+    {
+     "source_id": "PD-M6-02",
+     "section": "required",
+     "segments": [
+      {
+       "start": "15:51",
+       "end": "19:02"
+      }
+     ],
+     "note": "The selected model"
+    },
+    {
+     "source_id": "PD-M6-03",
+     "section": "required",
+     "segments": [
+      {
+       "start": "03:33",
+       "end": "04:36"
+      }
+     ]
+    },
+    {
+     "source_id": "PD-M6-04",
+     "section": "required",
+     "locator": "Figure 1 and the paragraph beginning ‘Whereas both external regulation and introjection’ (with the identified and integrated regulation and amotivation definitions); then the first paragraph under ‘Multiple motives and relative autonomy’; skip the later classroom-policy review"
+    },
+    {
+     "source_id": "PD-M1-07",
+     "section": "required",
+     "locator": "The Abstract; the paragraph immediately before the main Study 3 heading; Study 2’s opening paragraph and Study 3’s Procedure paragraph; Study 4’s opening paragraph, its Method paragraph beginning ‘Of the 933 participants invited back,’ and its first two Results paragraphs; then the General Discussion paragraph beginning ‘Several open questions remain.’"
+    }
+   ]
+  },
+  "mod-pd-7": {
+   "refs": [
+    {
+     "source_id": "PD-M7-02",
+     "section": "required",
+     "segments": [
+      {
+       "start": "01:16",
+       "end": "04:53"
+      }
+     ]
+    },
+    {
+     "source_id": "PD-M7-01",
+     "section": "required",
+     "segments": [
+      {
+       "start": "01:12",
+       "end": "02:35"
+      }
+     ]
+    },
+    {
+     "source_id": "PD-M7-03",
+     "section": "required",
+     "segments": [
+      {
+       "start": "49:52",
+       "end": "58:10"
+      }
+     ],
+     "note": "Historical interview window"
+    },
+    {
+     "source_id": "PD-M3-01",
+     "section": "required",
+     "role": "retrieval",
+     "segments": [
+      {
+       "start": "33:49",
+       "end": "36:11"
+      }
+     ],
+     "note": "Return to Bloom’s lecture on learning, a different window from Module III"
+    },
+    {
+     "source_id": "PD-M7-08",
+     "section": "required",
+     "locator": "Table 2 with its note; the first two Discussion paragraphs; and the final ‘Does ego depletion exist?’ paragraph from ‘Therefore, taken together’"
+    },
+    {
+     "source_id": "PD-M7-10",
+     "section": "required",
+     "locator": "The Abstract and the Methods ‘Participants’ subsection only"
+    },
+    {
+     "source_id": "PD-M7-09",
+     "section": "required",
+     "locator": "The Abstract and the Methods inclusion criterion (d) only, to compare natural-context measurement with its explicit under-18 population"
+    },
+    {
+     "source_id": "PD-M7-04",
+     "section": "required",
+     "locator": "The opening three paragraphs beginning ‘Habits form as people pursue goals’; under ‘Habits and effortless self-control’ the two paragraphs beginning ‘This shift’ and ‘High trait self-control’; and the first paragraph under ‘Changing environments, changing habits’"
+    },
+    {
+     "source_id": "PD-M7-05",
+     "section": "required",
+     "locator": "The Abstract only, for the evidence base, its variability and the pre/post outcome distinction"
+    },
+    {
+     "source_id": "PD-M7-06",
+     "section": "required",
+     "locator": "The four paragraphs from ‘Exactly how and when does motivation influence self-control?’ through the monitoring explanation, stopping before the next heading"
+    },
+    {
+     "source_id": "PD-M7-07",
+     "section": "required",
+     "locator": "The Abstract and ‘Participants’ only, to distinguish the measurement families and the selected older-adult population"
+    },
+    {
+     "source_id": "PD-M3-05",
+     "section": "required",
+     "locator": "Precision supplement: the Vocabulary entries “Reinforcer” and “Punisher”, to check the increase/decrease definitions",
+     "role": "revisit"
+    }
+   ]
+  },
+  "mod-pd-8": {
+   "remove": [
+    "PD-M1-07",
+    "PD-M7-10"
+   ],
+   "refs": [
+    {
+     "source_id": "PD-M1-05",
+     "section": "required",
+     "role": "capstone-return",
+     "locator": "Hofmann and Hayes 2024: reuse the passage you already read"
+    },
+    {
+     "source_id": "PD-M1-06",
+     "section": "required",
+     "role": "capstone-return",
+     "locator": "Maitland 2024: reuse the section you already read"
+    },
+    {
+     "source_id": "PD-M2-06",
+     "section": "required",
+     "role": "capstone-return",
+     "locator": "The emotion-goal review: reuse the passages you already read"
+    },
+    {
+     "source_id": "PD-M7-05",
+     "section": "required",
+     "role": "capstone-return",
+     "locator": "The Abstract, for the limits on duration evidence"
+    },
+    {
+     "source_id": "PD-M5-05",
+     "section": "required",
+     "role": "capstone-return",
+     "locator": "The self-concept clarity review: reuse the passages you already read"
+    },
+    {
+     "source_id": "PD-M7-04",
+     "section": "required",
+     "role": "capstone-return",
+     "locator": "The habit mechanism and the measurement caution you already read"
+    },
+    {
+     "source_id": "PD-M4-07",
+     "section": "required",
+     "role": "capstone-return",
+     "locator": "The original ANT paper defines laboratory contrasts, not everyday diagnostic tests"
+    }
+   ]
+  }
+ },
+ "sources": {
+  "PD-M7-10": {
+   "title": "Vohs et al. 2021, author manuscript (Brunel repository PDF)",
+   "presenter": "Vohs et al."
+  }
+ }
+}

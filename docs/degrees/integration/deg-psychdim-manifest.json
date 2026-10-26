@@ -139,8 +139,9 @@
    {
     "source_id": "PD-M3-07",
     "role": "data-block-extra",
-    "assignment": "Bazerman, Judgment and Decision Making (Noba) - CONFIRMED data-block extra (deg-fix-content 2026-10-26): no Bazerman assignment in any psychdim module doc (checked all eight; the m3 doc's Noba links are conditioning-and-learning and memory-encoding-storage-retrieval only). Remove from the mod-pd-3 required list in the data block, or route an owner decision if a judgment reading is wanted",
-    "kind": "reading"
+    "assignment": "Bazerman, Judgment and Decision Making (Noba) - CONFIRMED data-block extra (deg-fix-content 2026-10-26): no Bazerman assignment in any psychdim module doc (checked all eight; the m3 doc's Noba links are conditioning-and-learning and memory-encoding-storage-retrieval only). Remove from the mod-pd-3 required list in the data block, or route an owner decision if a judgment reading is wanted | RESOLVED 2026-10-26 by deg-fix-schema: removed from this module in the data block.",
+    "kind": "reading",
+    "note_only": true
    },
    {
     "source_id": "PD-M3-08",
@@ -378,7 +379,8 @@
    {
     "source_id": "PD-M1-07",
     "role": "capstone-return",
-    "assignment": "Woolley et al. 2025 - NOT cited in m8 prose (checked; the m8 doc names the emotion-goal review, the SCC review and the ANT paper in prose, and permits general reuse of previously studied sources without naming per-source). Assigned in m6 (Abstract; one paragraph) - keep there. m8 requiredness UNRESOLVED, not a confirmed extra: the general capstone-reuse instruction does not discriminate; owner or schema lane decides whether the m8 listing stays"
+    "assignment": "Woolley et al. 2025 - NOT cited in m8 prose (checked; the m8 doc names the emotion-goal review, the SCC review and the ANT paper in prose, and permits general reuse of previously studied sources without naming per-source). Assigned in m6 (Abstract; one paragraph) - keep there. m8 requiredness UNRESOLVED, not a confirmed extra: the general capstone-reuse instruction does not discriminate; owner or schema lane decides whether the m8 listing stays | RESOLVED 2026-10-26 by deg-fix-schema: removed from this module in the data block.",
+    "note_only": true
    },
    {
     "source_id": "PD-M7-04",
