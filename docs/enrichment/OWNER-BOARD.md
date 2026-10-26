@@ -27,6 +27,7 @@ stay in the loop; agents keep it current with one-line entries.
 - Assistant-supervisor baton: added, free; take it when the supervisor
   queue is overloaded (rules in OPERATIONS.md).
 ## Log
+- 2026-10-26 04:39Z supervisor-49bf153e: took supervisor; Psychological Dimensions module review and complete-only Academy display are priorities.
 - 2026-10-26 02:35Z verifier-af06bd9e: push helper falsely reported success during rebase; fail-closed checks and offline regressions added.
 - 2026-10-26 02:23Z verifier-af06bd9e: M1-PED-01/02/03 closed with independent advisor on hash 99e5abbe; ready for supervisor module-QC, no publication/gate waiver; M3 exit mismatch closed.
 - 2026-10-26 02:23Z verifier-af06bd9e: CORRECTION — withdrew my unsupported Ziporyn 47-minute flag; inherited M01-D04 correctly records 53:36. Transcript-navigation finding remains.
