@@ -36,6 +36,12 @@ Notes:
 - PD-M3-02 and PD-M3-03 report the same total (0:59:43 / 3583); both pages were
   fetched independently, and PD-M3-03's own player metadata was re-read on the
   second pass. Plausible for consecutive lectures in the same Yale series.
+- PD-M5-02 variance (~12:18Z, third fetch): the same page returned
+  lengthSeconds 3494 on a later fetch vs 3495 on the first pass — the same
+  1-second page-report variance pattern as PD-M3-03. The ledger keeps 3495
+  (0:58:15); the third fetch also returned the page title ("16. A Person in
+  the World of People: Self and Other, Part I", YaleCourses), closing the
+  second-pass extraction gap noted in the method paragraph.
 - BUD-B5-02 (Sumedho talk) was backfilled earlier at 1:01:36 from the buddhism
   Phase-0 manifest, which prints the whole-video duration in the assignment text;
   no page fetch was needed. Post-QC live check (~12:10Z): the watch page
