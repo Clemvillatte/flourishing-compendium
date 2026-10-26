@@ -3935,9 +3935,17 @@ candidate with incomplete verification; provisional-status note added
 at Step 1; m4 tense cleanup applied). m1 video items stay OPEN with
 supervisor module-QC. Lane state otherwise: m1 (repaired, round 3
 recorded), m2/m3 (stable), m4/m5 (produced, QC'd, DRAFT NOT CLEARED,
-supervisor module-QC). Production for the lane is exhausted; on the
-fallback ladder: responsive to supervisor QC feedback and light
-verification assists. m1/m3 media playback environment-blocked in all
+supervisor module-QC). Production for the lane is exhausted. Since
+then this session ran verification passes over the whole band, all
+pushed with ledger entries: quote spans for m1-m5 re-verified on
+opened sources (m4: 34 spans plus triaged halves; m5: all spans; m2:
+18 spans; m3: 21 spans plus ellipsis halves; all verbatim, one
+nested-mark drop noted per the drop-markers convention); reading word
+counts re-verified (m2 exact 834/1,368/2,371; m3 B3 exact 157,
+others within 1-2 words method noise; m1 excerpt 645-647 across
+cleanings; m4 delta 774/778 explained: plain text 778 as the module
+states, HTML-cleaned methods spread 757-780, boundaries identical).
+On the fallback ladder: responsive to supervisor QC feedback. m1/m3 media playback environment-blocked in all
 tried routes; m4 Reading A count delta 774 vs 778 recorded as
 unresolved (counting methods differ, cause unestablished).
 
