@@ -83,7 +83,11 @@ Its four experiments — radishes resisted against chocolates, choices made, emo
 
 > "These results suggest that the self's capacity for active volition is limited and that a range of seemingly different, unrelated acts share a common resource." ([Baumeister et al. 1998](https://pubmed.ncbi.nlm.nih.gov/9599441/))
 
-Two decades later, twenty-three laboratories with 2,141 participants, preregistered and running a standardized version of the same sequential-task test, could not find the drain:
+Two decades later, the evidence base itself had already been questioned, and the replication report's abstract says so in one sentence:
+
+> "Although a meta-analysis of ego-depletion experiments found a medium-sized effect, subsequent meta-analyses have questioned the size and existence of the effect and identified instances of possible bias." ([Hagger et al. 2016](https://pubmed.ncbi.nlm.nih.gov/27474142/))
+
+Twenty-three laboratories with 2,141 participants, preregistered and running a standardized version of the same sequential-task test, could not find the drain:
 
 > "Meta-analysis of the studies revealed that the size of the ego-depletion effect was small with 95% confidence intervals (CIs) that encompassed zero (d = 0.04, 95% CI [-0.07, 0.15]." ([Hagger et al. 2016, Perspectives on Psychological Science](https://pubmed.ncbi.nlm.nih.gov/27474142/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27474142&rettype=abstract&retmode=text))
 
