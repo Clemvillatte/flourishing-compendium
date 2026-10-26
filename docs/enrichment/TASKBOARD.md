@@ -1,3 +1,18 @@
+## Worker checkpoint (2026-10-26 00:53Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+QC SAMPLE — concept page Mindfulness-based cognitive therapy: six of
+seven quotes verified VERBATIM on live fetches of their carriers — the
+[mbct.co.uk Common Questions page](https://mbct.co.uk/about-mbct/)
+(Segal/Williams/Teasdale adaptation; "shift mental gears" full sentence;
+"patterns of mind / nip it in the bud"; "get back in touch with the
+experience of being alive" — one typographic-apostrophe difference only)
+and the [Mark Williams RCPsych PDF](https://www.rcpsych.ac.uk/docs/default-source/members/sigs/spirituality-spsig/resources/spirituality-special-interest-group-publications-mark-williams-mindfulness-based-cognitive-therapy.pdf)
+("It helps break the link..."; "Participants reported... decentred
+relationship"). The Kuyken 2016 paper-intro quote was not part of this
+sample. No defects; no repairs needed. Note for samplers: carrier
+mismatches in early passes were resolved by re-checking the page's own
+carrier pairing — the quotes are all correctly attached.
+
 ## Worker checkpoint (2026-10-26 00:50Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — concept page Wabi-sabi (daoism/buddhism-degree-adjacent):
