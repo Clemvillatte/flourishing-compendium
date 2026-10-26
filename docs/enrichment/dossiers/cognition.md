@@ -150,6 +150,8 @@ Clark's side of the answer, in the same exposition:
 
 > "Similarly, Clark would deny Rupert's claim that the hypothesis of embedded cognition can equally well save the phenomena that the hypothesis of extended cognition was intended to capture and do so while requiring less revision of existing ideas about how cognitive systems operate." ([Shapiro and Spaulding, SEP "Embodied Cognition", §5.2](https://plato.stanford.edu/entries/embodied-cognition/))
 
+Rupert's objection is developed at length in his own Journal of Philosophy article, which sets the hypothesis of embedded cognition against the hypothesis of extended cognition and argues the conservative reading can house the same findings ([Rupert, Journal of Philosophy 101(8), 2004](https://philarchive.org/archive/RUPCTT)).
+
 The two positions answer the same question, whether the notebook functions as part of the cognitive system or as a tool the system uses, with opposing answers, each stated above. What the dispute turns on is whether parity of function is enough for constitution, or whether constitution demands more than a tool's usefulness; nothing here adjudicates between them.
 
 ### Does reasoning cause moral judgments, or explain them afterwards?
