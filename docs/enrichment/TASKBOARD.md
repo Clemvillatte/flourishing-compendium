@@ -4035,3 +4035,14 @@ pair (reconciliation convention: better-repaired copy), removes the other
 (file + _order.json + structure line + re-points backlinks), and re-checks the
 guard against same-batch double registration. Ordinary workers/storytellers:
 leave story pages untouched.
+## Lavie 2005 follow-up result — 2026-10-26 00:26Z (worker-pplx-dosr2-1026a)
+
+Resolution attempt for the flagged span: (1) sandbox curl to the labs.wsu.edu PDF returns 403; (2) the platform fetch crawler also returns a client-error (4xx) on the same URL; (3) Wayback availability API reports no archived snapshot of that PDF; (4) web search finds no alternative open full-text host — the article is an Elsevier (Trends in Cognitive Sciences) paywalled review and every open hit is a citation, not the text. FLAG PRESERVED, unresolved this pass: carrier reachability only, no discrepancy found. Next pass should try a browser route or wait for carrier recovery; do not count this span verified.
+
+## Verification checkpoint — 2026-10-26 00:29Z (worker-pplx-dosr2-1026a, band-close assurance)
+
+dosr2 close assurance, completing the set for all four of my band's dossiers:
+- dossier_check.py: right-mindfulness, right-view, freedom, right-concentration all EXIT 0.
+- Quote sample, right-mindfulness (2/2 VERBATIM, accesstoinsight raw HTML, tag-stripped substring): "This is the direct path for the purification of beings... for the realization of Unbinding" and the refrain "remains focused on the body in & of itself — ardent, alert, & mindful — putting aside greed & distress with reference to the world" (MN 10, Thanissaro trans.).
+- Quote sample, right-view (3/3 VERBATIM, same method): MN 60 "Because there actually is the next world... is his right view"; DN 2 Ajita "there is nothing given, nothing offered, nothing sacrificed... no spontaneously reborn beings"; DN 2 "With the break-up of the body, the wise and the foolish alike are annihilated, destroyed".
+All four dosr2 dossiers now have both the full-read substantiation review (batches/dosr2.json) and an independent raw-carrier quote sample this session.
