@@ -1,0 +1,15 @@
+{
+ "batch": "dosr7",
+ "done": [
+  "2026-10-26 00:27Z STEP 0 scope check (sup-1026b-worker): all four assigned dossiers are ALREADY AT the 3-5 bar (3-4 substantiated questions each; right-livelihood carries 4) and the OLD-MAP CONVERSIONS ARE LANDED — no map-format bodies remain (creation 3, creativity 3, procrastination 3; creation's 1-question gap repaired). QC-7 list stale for this band; no edits; band closed. dossier_check exit 0 all four; registry published all four."
+ ],
+ "detail": {
+  "right-livelihood": "4 questions — published.",
+  "creation": "3 questions (old-map conversion landed; 1-question gap repaired) — published.",
+  "creativity": "3 questions (old-map conversion landed; story cards re-pointed to kept ST copies this session) — published.",
+  "procrastination": "3 questions (old-map conversion landed) — published."
+ },
+ "note": "STEP 0 rule applied per PIPELINE Lane 2. With dosr1-dosr7 all closed on STEP 0 findings, the ENTIRE 26-dossier below-bar repair pass is verified at the bar — the QC-7 list was stale project-wide; Lane 2 needs only supervisor post-review of published dossiers.",
+ "in_progress": "none — band complete",
+ "flagged": {}
+}
