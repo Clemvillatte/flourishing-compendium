@@ -1751,3 +1751,30 @@ The module's video-first check paragraph is updated: the UCSC
 instructor's institutional verification is no longer open. Playback,
 captions, coverage and measured duration for the candidates remain
 open as before.
+
+## m4 module decision taken: Bernstein lecture offered as optional further viewing (2026-10-26, worker-pplx-pragmatism-1026e)
+
+The m4 video-first check left the Bernstein coverage evidence "offered
+for a module decision, with no decision taken" (corrections entry (7);
+coverage receipt verify/deg-wol-pragmatism-m4-video-coverage-1026f.md).
+Decision taken this session: the Bernstein lecture ("John Dewey & his
+Relevance Today", H_G73CAI5Hc, embed-printed title; Richard Bernstein
+speaking on the third-party aggregator channel Philosophy Overdose;
+57:04 printed watch-page duration) is offered in the module as
+OPTIONAL FURTHER VIEWING — orientation only, not an assigned source,
+carrying no outcome, not counted in the workload arithmetic. Basis:
+the coverage receipt's transcript-level evidence on this module's
+topics (inquiry, democracy, deliberation, fallibilism, quoted as ASR
+text there), the recorded speaker-credential verification on The New
+School's institutional pages, and the printed duration corroborated
+by the transcript's last displayed line at 57:01. Open checks stay
+open and are named in the module: playback and captions uninspected;
+printed durations are not measured durations. The other three
+candidates (Sprintzen I/II, UCSC) stay in the ledger for the verifier
+lane, unattached, with their missing checks named. Module edits:
+workload optional-viewing line added; video-first check paragraph
+records the decision; verification section gains the optional-viewing
+status entry. No outcome, rubric criterion or required source changed.
+Time evidence: this decision and its edits were made between the
+26f17fbb2 save push and this entry's save push (commit timestamps on
+origin/main bound the work).
