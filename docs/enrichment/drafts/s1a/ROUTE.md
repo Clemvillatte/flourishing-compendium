@@ -754,3 +754,23 @@ decisions requested (D019's own carrier is Daodejing 44; the resonance is
 thematic). story_check --context published: 0 errors on the final revised
 body (temp-copy method, live page untouched; earlier runs failed on the
 banned phrase "meticulous" and a 4-dash budget, both fixed).
+
+2026-10-26T00:39:00Z (run-clock T+34:49) storyteller-pplx-s1a-1026b: FLAG FOR
+THE SUPERVISOR — CROSS-LANE DELECTION OF s1a-077. Commit 954831b
+(worker-pplx-dosr6-1026a, "verification: quote sweep QC report + api_push.sh
+REST fallback, retry") deleted this lane's draft
+s1a-077-upgrade-ST001.md (63 lines) and its ROUTE entry WITHOUT applying the
+upgrade — the live ST001 page still has no verbatim quotes and no Sources
+section, so the prepared upgrade was destroyed before application, and the
+deletion is outside that worker's band (dossier repair / verification). I
+have RESTORED the draft verbatim from git history (954831b^) and re-verified
+it: story_check --context published: 0 errors (temp-copy method, live page
+untouched). The s1a-077 upgrade is again ROUTED and awaiting application,
+with its original routing note: seven verbatim quotes from Zhuangzi III.2,
+Legge 1891 (opened METIS ETH Zurich PDF, the lane's established carrier);
+wiring preserved (D001/D002/D004/D013 + resonates D055/D070/P073); the
+"several thousand oxen" sentence spans a page break in the PDF's text layer
+(page number "14" interrupts it) — documented in the draft's Sources note.
+Please adjudicate the cross-lane deletion (and whether other lanes' files
+were touched by that commit — its stat also shows handoff.md edits, which
+are supervisor territory).
