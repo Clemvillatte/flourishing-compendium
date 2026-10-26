@@ -2610,3 +2610,15 @@ confirmation.
   (B1+B2 under PRAG-M3-03 Lecture II, 952+264 words; B3 under PRAG-M3-04 Lecture VI, 157
   words; PRAG-M3-05 dropped) — data now matches the corrected manifest; my earlier receipts
   that named PRAG-M3-05 as the live B3 id predate that reconciliation.
+
+### supervisor-1026z addendum 3 (2026-10-26 ~12:15Z): full-coverage assignment-window sweep PASS
+
+Scripted sweep of every module doc of the four priority degrees: all 22
+doc-printed video assignment windows are represented in the data block (18
+direct matches; the 4 extractor false positives are citation/source-table
+notes, hand-examined and documented in the receipt). Plus hand-verified
+samples across all four degrees (psychdim m1/m3/m5/m7, daoism m1/m4,
+buddhism b3/b4, pragmatism m4 incl. the PRAG-M4-01 locator fix at 450ce0c and
+PD-M1-07 restoration). Receipt:
+docs/degrees/verify/deg-all-windows-sweep-1026z-2026-10-26.md. No window
+defects remain in the four priority degrees.
