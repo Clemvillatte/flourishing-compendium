@@ -5,10 +5,11 @@ values diffed against the doc-verified manifests). The learner audit
 checks presence, not wording, so it cannot catch these. Each fix is a pure
 splice from the verified manifests — no judgement calls needed.
 
-STATUS (checked against app.js at commit ff28ea8, 2026-10-26): items 1-6
-RESOLVED. Item 7 is NEWLY OPEN (a second link-based m8 citation this lane's
-name-based check missed). The learner audit reports 0 defects (advisory
-wiki_readings lines only, owner decision pending).
+STATUS (checked against origin/main dfd3d05, 2026-10-26): items 1-6 RESOLVED
+and verified on origin. Item 7 is OPEN (a second link-based m8 citation this
+lane's name-based check missed; see the item for the required re-add). The
+learner audit reports 0 defects, with four wiki_readings advisories (one per
+degree, owner decision pending).
 
 ## 1. PRAG-M3-04 (mod-prag-3, requiredMedia) — RESOLVED, no action
 
@@ -44,8 +45,8 @@ Think and duplicated on PRAG-M4-02 (which correctly carries it as HNC).
 - CURRENT assignment: `Hwang and Matsumoto, Functions of Emotions (Noba) - opening sections through social/cultural functions; closing excerpt (~2,794 words)`
 - CURRENT locator: `The opening sections through the social and cultural functions of emotion, plus the closing excerpt (about 2,794 words)`
 - WHY WRONG: the ~2,794-word figure is the ledger's whole-BODY measurement;
-  the m2 doc's Read section assigns about 450 words of specific excerpts
-  ("not the whole module"). The manifest's assignment field now carries the
+  the m2 doc's Read section assigns about 480 words of specific excerpts
+  ("not the whole module"; the doc line 80 measured figure is 480). The manifest's assignment field now carries the
   full spliceable bounded text.
 - FIX (UPDATED): the published entries no longer carry an `assignment` field (the ef654d0
   restructure made `locator` the operative learner-visible field for text
@@ -55,7 +56,7 @@ Think and duplicated on PRAG-M4-02 (which correctly carries it as HNC).
   meaning and information system' through 'culture also influences how
   people experience them as well'; the next paragraph's first three
   sentences from 'Because one of the major functions' through 'once we
-  have them'; about 450 words total).
+  have them'; about 480 words).
 
 ## 4. PD-M3-02 (mod-pd-4, requiredMedia, revisit) — RESOLVED, no action
 
@@ -108,16 +109,19 @@ Think and duplicated on PRAG-M4-02 (which correctly carries it as HNC).
   assign).
 - FIX: re-add PD-M1-07 to mod-pd-8 as a capstone-return entry, e.g.
   locator: `The adherence research: reuse the passages you already read`.
-  (PD-M7-10 / Vohs is NOT cited in the m8 doc in any form - its removal
-  stands.)
+  (CORRECTION, later the same session: the parenthetical that originally
+  stood here - 'Vohs is NOT cited in the m8 doc in any form' - was WRONG,
+  the same link-based-citation miss as item 6's; see item 7.)
 
 ## Resolution check (2026-10-26, commit a0ee345)
 
-Re-checked against the published state: item 2 (PRAG-M4-01 back to the 778-word How We Think passage only), item 3 (PD-M2-04 locator now the 450-word bounded excerpts, matching the manifest verbatim) and item 5 (BUD-B2-02 'about 1,000 words') are all fixed. Item 6 (PD-M1-07 absent from mod-pd-8) remains open.
+Re-checked against the published state: item 2 (PRAG-M4-01 back to the 778-word How We Think passage only), item 3 (PD-M2-04 locator now the bounded excerpts, matching the manifest; the published word label 'about 480 words' matches the doc's line-80 figure) and item 5 (BUD-B2-02 'about 1,000 words') are all fixed. Item 6 (PD-M1-07 absent from mod-pd-8) remained open at that check and was applied later (see the Final closure).
 
 ## Final closure (2026-10-26, commit b5a5031)
 
-Item 6 verified RESOLVED: mod-pd-8's published set now carries all EIGHT capstone-return entries (PD-M1-05, PD-M1-06, PD-M2-06, PD-M7-05, PD-M5-05, PD-M7-04, PD-M4-07, PD-M1-07), matching the m8 doc's link-based citations. Every item on this list is closed. The learner audit is green.
+Item 6 verified RESOLVED: mod-pd-8's published set now carries all EIGHT capstone-return entries (PD-M1-05, PD-M1-06, PD-M2-06, PD-M7-05, PD-M5-05, PD-M7-04, PD-M4-07, PD-M1-07), matching the m8 doc's link-based citations then known. At the time this was
+written it looked like every item was closed; item 7 (a ninth, link-based
+citation) was found afterwards - see below. The learner audit is green.
 
 ## 7. PD-M7-10 (mod-pd-8) — REMOVED in error, re-add (NEW, 2026-10-26)
 
