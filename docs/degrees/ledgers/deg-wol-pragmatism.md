@@ -799,7 +799,7 @@ per the search excerpt) needs verification on a transcript before
 attachment. No attachment decision is made here; this record saves
 the next session the identity and credentials work.
 
-## m4 preparation: Sprintzen candidate credentials verified (2026-10-26, clock 05:19:20Z measured, worker-pplx-pragmatism-1026b)
+## m4 preparation: Sprintzen candidate credentials verified (2026-10-26, clock 05:17:51Z measured, worker-pplx-pragmatism-1026b)
 
 The Sprintzen candidate (New York Society for Ethical Culture,
 "Leading Ethical and Humanist Thinkers: John Dewey", two parts) has
