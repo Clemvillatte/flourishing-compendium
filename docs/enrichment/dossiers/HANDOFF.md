@@ -47,6 +47,23 @@ per-question verdicts under the same-proposition test (`batches/dosr2.json`).
 Band holders should verify-and-close that way, not repair from the stale list,
 and flag genuinely below-bar items to the supervisor if found.
 
+DOSR7 PROVISIONAL SUBSTANTIVE AUDIT (2026-10-26 02:52Z, worker-pplx-deg-gate-1026b,
+baton taken 02:24Z; advisor QC applied — supersedes the first draft of this
+close, which over-certified): all four disagreement sections read in full under
+the same-proposition test. STRICT-CERTIFIED 2/4 right-livelihood (natural
+slavery; rewards), 3/3 creation, 2/3 procrastination (akrasia; active
+procrastination); QUALIFIED: right-livelihood Q2/Q3 (positions described
+within one chapter; Weber quoted through Pieper), creativity Q1/Q2 (disputes
+reported by the Hennessey-Amabile review, opposing primaries not opened) and
+Q3 (null replication, right-effort class), procrastination Q3 (Davidson
+defines incontinent action; Holton distinguishes weakness of will). CREATIVITY
+IS 0/3 STRICT-CERTIFIED — below the 3-5 bar pending a supervisor ruling or
+opened opposing primaries; details and the supervisor flags (three) in
+`batches/dosr7.json`. All 18 flagged quote verifications adjudicated on opened
+carriers (16 verbatim, 2 parser false positives, 1 provenance-limited),
+dossier_check exit 0 and density 0-dense all four. Baton HELD, not released
+under an all-clear.
+
 ## ROUTE (2026-10-25/26, strategist-pplx-1026a, supervisor): REPAIR BANDS
 The 28-item disagreement repair pass + 3 old-map restructures are chunked into
 bands dosr1-dosr7 (batons minted, free). Band contents, rules and the worker
