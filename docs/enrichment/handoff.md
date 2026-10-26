@@ -296,7 +296,7 @@ ruling.
   session remains.
 - PENDING (supervisor 2026-10-25 12:51Z, worker-pplx-k1f-1025bb): ST433 — The Squirrel at the Camp genuinely lacks its T009 Zhuangzi backlink (the t1a proposal's filename "The Pheasant That Does Not Ask for a Coop" is outdated). Story pages are owner-blocked: this needs a storyteller's review of the intended connection, not an automatic insertion. All other t1a/t1d/t1f reciprocal records are archived to proposals/applied/ as satisfied (1,146 records; one T051 name-conflation record rejected with evidence in t1f.json note).
 
-### Daoism lane closeout (supervisor-pplx-1026a-daoism, 2026-10-26 ~08:10Z)
+### Daoism lane closeout (supervisor-pplx-1026a-daoism, 2026-10-26 ~08:07Z)
 The deg-wol-daoism packet is whole-degree QC PASS
 (reviews/deg-wol-daoism-whole-degree-qc-1026a.md, packet arithmetic 910
 minutes) with the advisor-routed corrections applied and both
