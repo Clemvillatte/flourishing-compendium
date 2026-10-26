@@ -267,3 +267,29 @@ Q2 spans covered above, the other 6 pre-existing blocked-host spans
 (semanticscholar, PubMed 10101878, Sage, Erudit/Purdue).
 
 No repairs required.
+
+## Correction note, 2026-10-26 10:09:40Z measured, supervisor-pplx-1026p
+
+Three revisions to the entries above, after advisor QC:
+
+1. Wisdom Q1: the Whitcomb span verification is marked PROVISIONAL, not
+"independently verified". The span was confirmed against the
+search-indexed copy of the author's preprint PDF
+(philpapers.org/archive/WHIW.pdf) and the worker's documented
+opened-fetch verification; philarchive and philpapers are both
+fetch-gated in this environment and no Wayback snapshot exists, so I
+did not open the document myself. The Shane Ryan, SEP and
+Baltes/Staudinger verifications stand as independent.
+
+2. Lifes-purpose Q2: the certification basis is restated. The opened
+passages establish opposing answers to the gating question (must a
+purpose reach beyond the self?): Damon/Malin require it; Hill/Burrow
+offer a more inclusive portrayal and the Pfund review characterizes
+their camp's measures as agnostic to purpose orientation. What the
+opened text does NOT establish is whether the Hill/Burrow camp would
+count an exclusively self-directed aim as a purpose; the dossier
+paragraph now says so and the certification rests on the explicit
+opposition, not on that unestablished proposition.
+
+3. OpenAlex fetch exception: the failure cause was not diagnosed; the
+earlier "rate-limited or header-rejected" wording is withdrawn.
