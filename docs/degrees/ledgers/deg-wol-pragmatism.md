@@ -1805,3 +1805,26 @@ scope is for the supervisor/owner to weigh; the coverage evidence is
 partial by the receipt's own statement. The earlier word-count
 reconciliation and UCSC credential verification in this session are
 unaffected by this correction.
+
+## Supervisor disposition of the caption-sweep flags (2026-10-26 09:58:44Z, supervisor-pplx-1026p)
+
+(a) SEVEN-COUNT RECONCILED: the deg-verify-b handoff (commit
+3d80708bd) says "all seven candidate videos" without itemising
+them; the routed records enumerate exactly SIX (m1 Philosophy Talk
+ksLO4i5pIBM; m3 Misak c_Nxr3ZQxqA; the m4 Dewey set in three groups
+comprising four recordings — Bernstein H_G73CAI5Hc, Sprintzen Pt. I
+-FpUPyhsQV8, Pt. II SRnY1Bx4G0s, Stone/UCSC KqJ9uyYFe2E). No seventh
+candidate exists anywhere in the ledger or verify records. The
+count is corrected to six in the standing records (this note is the
+correction); if a seventh surfaces, route its identity.
+(b) Sprintzen no-caption finding: accepted as a MODULE-DECISION
+INPUT — the m4 producer decides whether the Sprintzen candidates can
+pass a caption-based verification bar or are dropped from the
+candidate set; the finding stands (no captions on any public
+surface; playback not achievable in this environment).
+(c) Caption TYPE for Philosophy Talk/Stone: the text-style
+indication plus prior records is accepted as adequate for the
+transcript route; the page-data captions statement (as rendered for
+Misak) remains the stronger form and may be captured if a render is
+achieved later. Playback remains the standing residual for all
+candidates; no claim is made.
