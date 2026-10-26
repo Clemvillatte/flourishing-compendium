@@ -134,3 +134,14 @@ quoted spans come from the paper's body, not the abstract, and the
 full-text PDF carriers remain 403 to this environment. The flag
 STANDS: quotes 1 and 3 unverified this pass; the paper's topic and
 thesis are corroborated by the open PubMed record.
+
+## 10. Taper addendum — ctext.org block re-checked
+
+The ctext.org block (Analects 14.34, Mencius one-root quotes) was
+re-checked in the taper window: both pages return a ~4KB block page
+(not the text) to this environment. The flag STANDS: those quotes
+remain unverified this pass. Alternative carriers (e.g. the Chinese
+Text Project mirror ctext.org mirrors, or Legge/Jowett translations
+on Gutenberg) could be used in a future sweep, though the wording
+will differ by translation — the dossier's specific wording needs the
+carrier it cites.
