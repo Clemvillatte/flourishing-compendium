@@ -49,7 +49,7 @@ named; the Sumedho talk is the school's senior Western voice.
 
 ## Instruction sequence
 
-### Step 1 — The senior teacher (~1 h 2 min, video, whole talk; spread over two sittings)
+### Step 1 — The senior teacher (~1 h 2 min, video, whole talk, two viewing stops)
 
 **Ajahn Sumedho, "Mindfulness and Wisdom", Amaravati Buddhist Monastery
 channel, https://www.youtube.com/watch?v=SElyOzgkxjo, 1:01:36.** A Dhamma
@@ -98,7 +98,7 @@ cannot be completed as written; the rest of the module (Steps 1 and
 3, outcomes 1-2) stands. The introduction excerpt the page DOES show
 is assigned as the lineage-reading portion of Step 2.
 
-Activity: for each teaching, the one-line record named in outcome 3.
+Activity (this item is BLOCKED with the assignment above; it becomes live when the assignment is unblocked): for each teaching, the one-line record named in outcome 3.
 
 ### Step 3 — Tie it to the canon you already hold
 
@@ -119,7 +119,7 @@ the walk keeps you honest about that.
 1. The tradition statement (outcome 1, ~200 words, with citations to
    the pages and talk).
 2. The Sumedho precis (outcome 2, 150 words plus the surprise line).
-3. The two Ajahn Chah teaching records (outcome 3).
+3. The two Ajahn Chah teaching records (outcome 3; BLOCKED with the Step 2 assignment).
 4. The school-map placement (outcome 4, ~150 words).
 
 Rubric (observable):
@@ -128,7 +128,7 @@ Rubric (observable):
 |---|---|---|
 | tradition statement | lineage, practice-first ethos and Theravada frame each named with a source | generic "forest monks meditate" |
 | precis | the talk's central teaching stated in the learner's words with the surprise named | a topic list with no teaching identified |
-| Chah records | situation, instruction and application each named for the chosen teaching | a quotation with no application |
+| Chah records (BLOCKED) | situation, instruction and application each named for the chosen teaching | a quotation with no application; the block itself is not a rejection ground |
 | map placement | canon continuity and distinct-school marks both named | "it is the same as Theravada" with nothing added |
 
 Self-assessment: one line on whether the tradition's practice-first
@@ -138,8 +138,8 @@ of the module.
 ## Boundaries and passing mentions
 
 The Ajahn Chah collection contains material on rebirth and karma in the
-Thai Forest register; the assigned sections handle it as the tradition's
-own frame, and the walk's exclusion rule still applies (passing
+Thai Forest register; the assigned introduction excerpt (and any
+future unblocked teachings) handles it as the tradition's own frame, and the walk's exclusion rule still applies (passing
 mention, no cosmology unit). The module teaches one school from
 inside; the comparative work (Zen, Insight, Secular) is b6-b7, and no
 claim is made here that the Thai Forest way is the walk's preferred
@@ -147,13 +147,17 @@ school.
 
 ## Workload arithmetic
 
-- Measured media: Sumedho talk 1:01:36 (whole recording assigned,
-  spread across at least two sittings).
-- Estimated: Ajahn Chah assigned sections and two teachings (~4,000
-  words at 130 words per minute, new register) ~45 m; canon re-skim
+- Measured media: Sumedho talk 1:01:36 (whole recording assigned, in
+  two viewing stops).
+- Estimated: Ajahn Chah introduction excerpt and the two teachings
+  IF UNBLOCKED (~4,000 words at 130 words per minute, new register)
+  ~45 m, of which only the introduction excerpt (~8 m) is currently
+  assignable; canon re-skim
   ~10 m; written work (statement, precis, records, placement) ~70 m;
   two logged sittings 20 m. Estimates labelled as estimates.
-- Module total: about 3 h 30 m.
+- Module total: about 3 h 30 m if the Step 2 assignment is unblocked
+  as written; about 2 h 53 m with only the introduction excerpt
+  assignable.
 
 ## Sources (verification status)
 
