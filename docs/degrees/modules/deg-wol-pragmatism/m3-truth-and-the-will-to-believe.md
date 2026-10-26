@@ -64,8 +64,8 @@ failed". An option is genuine
 "Our passional nature must, and lawfully may, decide an option between
 propositions, whenever it is a genuine option that cannot by its
 nature be decided on intellectual grounds" ([The Will to
-Believe](https://en.wikisource.org/wiki/The_Will_to_Believe), Section
-II). Note the permission's boundaries before the worked example: it
+Believe](https://en.wikisource.org/wiki/The_Will_to_Believe)). Note the
+permission's boundaries before the worked example: it
 applies only where the option is genuine AND the intellect cannot
 settle it. Where evidence decides, or the option is avoidable or
 trivial, the permission does not apply.
@@ -84,15 +84,16 @@ contiguous passage that begins "To take in the importance of Peirce's
 principle" and ends "make nature over again by their aid" (957 words
 measured on the page's rendered text). Then read Reading B2 from the
 same lecture: the passage that begins "I am well aware how odd it must
-seem" and ends "our duty would be to shun truth, rather" (266 words
-measured on the same rendered text). Finally read Reading B3 from
+seem" and ends "our duty would be to shun truth, rather" (265 words
+measured on the same rendered text, a page-split word join repaired). Finally read Reading B3 from
 [Lecture VI, "Pragmatism's Conception of
 Truth"](https://en.wikisource.org/wiki/Pragmatism:_A_New_Name_for_Some_Old_Ways_of_Thinking/Lecture_VI)
-of the same book: the two passages quoted in full below (203 words
-measured on the fetched extraction), which carry the fuller account
-Lecture II explicitly defers ("To answer this difficulty fully is
-impossible at this stage of my account... I can not discuss with
-detail until my sixth lecture").
+of the same book: the five selections quoted in full in the Step 2
+teaching below (157 words measured on the printed selections; the
+selections are noncontiguous passages of the lecture), which carry the
+fuller account Lecture II explicitly defers ("To answer this
+difficulty fully is impossible at this stage of my account... I can
+not discuss with detail until my sixth lecture").
 
 The method, in his words: pragmatism is "to interpret each notion by
 tracing its respective practical consequences", and "Theories thus
@@ -104,7 +105,8 @@ of good", and "The true is the name of whatever proves itself to be
 good in the way of belief, and good, too, for definite, assignable
 reasons" (Lecture II, [Pragmatism: A New Name for Some Old Ways of
 Thinking](https://en.wikisource.org/wiki/Pragmatism:_A_New_Name_for_Some_Old_Ways_of_Thinking)).
-Lecture VI supplies what that qualifier comes to. First, the process:
+[Lecture VI](https://en.wikisource.org/wiki/Pragmatism:_A_New_Name_for_Some_Old_Ways_of_Thinking/Lecture_VI)
+supplies what that qualifier comes to. First, the process:
 "The truth of an idea is not a stagnant property inherent in it.
 Truth happens to an idea. It becomes true, is made true by events",
 and "True ideas are those that we can assimilate, validate, corroborate
@@ -150,14 +152,19 @@ tests run on the propositions.
    met; it is met only if something in the situation is non-repeatable
    (a funding window that does not reopen, an age-bound requirement),
    and a strong application names that thing or reports that the test
-   fails. Genuine: only if all three hold, and the momentous line is
-   the one most likely to fail. Passional permission: the thesis
-   governs options that "cannot by its nature be decided on
-   intellectual grounds". The admissions, finance and job-market
-   evidence bears on the proposition's truth, so the permission does
-   not reach what that evidence settles; it reaches only what no
-   prospectus can settle (for example, whether you will hold up under
-   two years of the work), and the application names what that is.
+   fails. Genuine: on the stated facts, NOT ESTABLISHED. Live: yes.
+   Forced: not established for the propositions; suspension of
+   judgment remains a standing place, and an enrolment deadline can
+   force an action without forcing the belief that you can complete
+   the course. Momentous: not established (the cycle establishes
+   delay, not loss). This is a worked failed application, and that is
+   the point: on these facts the diagnosis cannot show a genuine
+   option, so the passional permission is not shown to apply. A real
+   application succeeds or fails on its own facts: it either
+   supplies the missing conditions (a forced frame with no standing
+   place, a non-repeatable stake, and a question the evidence cannot
+   settle by its nature) or reports, as this one does, that the test
+   fails and the decision belongs to the evidence.
 2. Steps named (partially worked). Take the stipulated decision:
    whether to tell a friend a hard truth about their drinking (both
    friendship and honesty feel live). Write the three tests, each with
@@ -224,15 +231,19 @@ does he add (in the lecture, the test that "the belief that P will be
 useful only if P", his answer to reading James as making a belief's
 truth rest on its usefulness to the believer)? Use the notes for
 deliverable d. The lecture's content on this question has been checked
-on the transcript route (see the verification section), so the module's
-model answer matches what the recording contains.
+on the [transcript
+route](https://youtubetotranscript.com/transcript?v=c_Nxr3ZQxqA&current_language_code=en)
+(see the verification section), so the module's model answer matches
+what the recording contains.
 
 Video verification status: candidate with verification incomplete.
 Identity and channel confirmed by the platform's oembed response this
-session; the duration is from the platform listing; playback and
-caption inspection are blocked by the same YouTube bot-check
-documented in the m1 record (both routes), so those two items are
-open and routed to supervisor module-QC with the m1 media items.
+session; the duration (51:57) is from the search listing and stays
+provisional until measured at playback; playback and captions for this
+recording have not been inspected (earlier inspection attempts on a
+different YouTube recording, in the m1 work, were blocked by the
+bot-check), so those two items are open and routed to supervisor
+module-QC with the m1 media items.
 
 ### The bounded domain, in plain terms
 
@@ -269,9 +280,10 @@ test and to state the objection-and-constraint pattern on truth.
    the denial. Forced: the propositions leave no standing place
    between them; going without the belief is the alternative.
    Momentous: the funding window closes this year and does not reopen;
-   refusing loses it as surely as failing. Permission: the prospectus
-   settles what the course is; it cannot settle whether I will hold
-   up in it."
+   refusing loses it as surely as failing. Permission: not
+   established; the deadline forces an action, and the prospectus and
+   my record settle most of what the belief is about, so the
+   application says the decision belongs to the evidence."
 3. The objection-and-constraint piece states a real objection and runs
    the text's constraint against it, ending in a position. Strong: the
    objection is stated in its strongest form, the constraint (definite,
@@ -298,12 +310,13 @@ test and to state the objection-and-constraint pattern on truth.
 
 ## Workload arithmetic
 
-- Required reading (word counts measured on the page texts): Reading A
-  2,530 words, Reading B1 957 words, Reading B2 266 words, Reading B3
-  203 words; 3,956 words total. At 130 words per minute (new concepts;
-  the 238 words-per-minute adult default adjusted down by purpose)
-  about 30 minutes raw; with study overhead at three times raw, about
-  91 minutes (estimate, labelled).
+- Required reading (word counts measured on the page texts; Reading B3
+  counted on its printed selections): Reading A 2,530 words, Reading
+  B1 957 words, Reading B2 265 words, Reading B3 157 words; 3,909
+  words total. At 130 words per minute (new concepts; the 238
+  words-per-minute adult default adjusted down by purpose) about 30
+  minutes raw; with study overhead at three times raw, about 90
+  minutes (estimate, labelled).
 - The lecture: 51:57 per the platform listing, watched once with notes
   (about 52 minutes).
 - Step 1 and Step 2 teaching prose: about 15 minutes (estimate).
@@ -315,8 +328,8 @@ test and to state the objection-and-constraint pattern on truth.
   about 20 minutes, c about 20 minutes, d about 5 minutes after the
   watch.
 
-Total: about 4 hours 20 minutes (258 minutes of labelled
-components: 91 reading with overhead, 52 lecture, 15 teaching prose, 30
+Total: about 4 hours 15 minutes (257 minutes of labelled
+components: 90 reading with overhead, 52 lecture, 15 teaching prose, 30
 worked example and faded practice, 10 retrieval and practice, 60
 graded). Optional further reading (the rest of the texts) is not
 counted.
@@ -331,10 +344,12 @@ The module attaches three sources:
   entities resolved and markup residue removed); the quoted passages
   were confirmed verbatim on the fetched text.
 - James, Pragmatism: A New Name for Some Old Ways of Thinking
-  (Wikisource, public domain, 1907), Lecture II: opened this session;
-  the page's rendered text was extracted and the two assigned passages
-  measured on it (957 and 266 words between the pinned boundaries);
-  the quoted passages were confirmed verbatim on the extracted text.
+  (Wikisource, public domain, 1907), Lectures II and VI: opened this
+  session; the pages' rendered text was extracted and the assigned
+  passages measured on it (Lecture II: 957 and 265 words between the
+  pinned boundaries, a page-split word join repaired; Lecture VI: the
+  five printed selections, 157 words); the quoted passages were
+  confirmed verbatim on the extracted text.
 - Misak, Cambridge Pragmatism (Royal Institute of Philosophy lecture,
   YouTube): candidate with verification incomplete, as stated in Step
   5. Identity and channel confirmed by the platform's oembed response

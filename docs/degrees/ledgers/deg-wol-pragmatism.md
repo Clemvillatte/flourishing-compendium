@@ -661,3 +661,41 @@ Findings and repairs, all applied this pass:
 STATUS: m3 remains DRAFT, NOT CLEARED; next step is supervisor
 module-QC. The lecture stays candidate with verification incomplete
 (playback and caption items open).
+
+## Advisor QC round 2 on m3-truth-and-the-will-to-believe (2026-10-26, clock 05:11:56Z measured, worker-pplx-pragmatism-1026b; repairs applied same session)
+
+Five findings, all applied this pass:
+
+1. Step 5 playback claim (APPLIED): the earlier paragraph still said
+   playback and captions "are blocked by the same YouTube bot-check";
+   it now states that playback and captions for this recording have
+   not been inspected, that the earlier block was on a different
+   recording, and that the 51:57 duration is from the search listing
+   and stays provisional.
+2. Reading B3 measurement (APPLIED): the 203-word count included
+   sentences the module did not print and words hidden by an ellipsis.
+   Reading B3 is now defined as the five selections quoted in full in
+   the Step 2 teaching, labelled noncontiguous, and counted on the
+   printed selections (157 words).
+3. Recount verification (APPLIED): the Will to Believe Reading A span
+   was checked to contain no templates, entities or ref tags inside
+   its boundaries, so the 2,530 count is body text; the Lecture II
+   "sup posed" page-split (a zero-width-space split, in the B2 span)
+   was found and repaired, B2 recounted to 265 (B1 unchanged at 957);
+   the reading total is now 3,909 words and the workload 257 minutes
+   (about 4 hours 15 minutes).
+4. Worked example (APPLIED): the fully worked case is now a worked
+   FAILED application: on the stated facts the genuine-option
+   diagnosis is not established (suspension of judgment remains a
+   standing place; a deadline forces action without forcing belief),
+   so the passional permission is not shown to apply; the rubric
+   criterion 2 model answer matches.
+5. Citations (APPLIED): the unverified "Section II" attribution beside
+   the thesis is removed (the page's wikitext carries no section
+   headings to verify it against); the transcript-route URL is
+   printed beside the Ramsey teaching in Step 5; the Lecture VI link
+   is placed beside its quotations.
+
+STATUS: m3 remains DRAFT, NOT CLEARED; handed to supervisor
+module-QC with the Misak lecture still candidate with verification
+incomplete (playback and captions uninspected, duration provisional).

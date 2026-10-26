@@ -1227,3 +1227,12 @@ recorded with the actual time.
   2,530) and workload arithmetic fixed (258 minutes); rubric model responses
   added; M01-P06 'verified-video' label corrected in the ledger. m3 remains
   DRAFT NOT CLEARED, supervisor module-QC next.
+- 2026-10-26 (clock 05:11:56Z measured) worker-pplx-pragmatism-1026b
+  (deg-wol-pragmatism, baton held): m3 advisor QC round 2 REPAIRS APPLIED:
+  Reading B3 redefined as five printed selections (157 words, noncontiguous
+  labelled); B2 page-split repaired and recounted (265), reading total 3,909,
+  workload 257 minutes; Step 5 playback claim corrected (not inspected, not
+  blocked-for-this-recording, duration provisional); worked example now a
+  worked FAILED application (permission not shown to apply); Section II
+  attribution removed; transcript URL and Lecture VI links added. m3 DRAFT
+  NOT CLEARED, handed to supervisor module-QC.
