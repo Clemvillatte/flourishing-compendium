@@ -133,3 +133,7 @@ Deep traces added for m4 (docs/degrees/verify/deg-psychdim-m4-deep-trace-1026a.m
 ## Addendum 3 (2026-10-26, later same session)
 
 Deep trace added for m3 (docs/degrees/verify/deg-psychdim-m3-deep-trace-1026a.md): PASS - all eight entries value-by-value across the three layers, including both formerly-wrong video windows (PD-M3-03, PD-M3-04), now correct in the published state. With m2, m3, m4, m7 and m8 traced, the verdict's deep-trace reservation now covers m1, m5 and m6 only.
+
+## Addendum 4 (2026-10-26, later same session)
+
+Deep trace added for m1 (docs/degrees/verify/deg-psychdim-m1-deep-trace-1026a.md): PASS - all eight entries value-by-value across the three layers, including the optional remedial clip split and the four optional text references. With m1 through m4 and m7/m8 traced, the verdict's deep-trace reservation now covers m5 and m6 only.
