@@ -74,6 +74,14 @@ symbol alone. Statistical significance is not a measure of practical
 importance. ([Woolley, Giurge and Fishbach, Study 1 measures and results](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/);
 [ASA statement, principle 5](https://www.stat.berkeley.edu/~aldous/Real_World/ASA_statement.pdf).)
 
+The earlier `deg-psychdim-m1-audit.md` records a bounded numerical check
+that recovered the standardised point estimates; it did not independently
+reproduce the reported bootstrap intervals. This follow-up concerns what
+the novice is taught and required to demonstrate, not a claim that all
+standardisation evidence is unresolved. This pass reopened the authors'
+main R script and checked its SHA-256 against that record, but did not
+rerun its model or bootstrap. ([Authors' Study 1 analysis script](https://osf.io/download/t4gda/).)
+
 **Bounded repair:** either teach a magnitude interpretation whose scale is
 verified from the study's materials, or narrow the L1 outcome to reporting
 the estimate and uncertainty and explaining what further information
@@ -94,7 +102,7 @@ claim to have appraised magnitude.
 Outcome 5 and the assignment ask what the degree covers and excludes.
 Criterion 5 and its strong example can pass an answer that gives only
 exclusions, their owners and the admission test. That leaves the positive
-half of the outcome unassessed.
+coverage requested by the task absent from the pass criterion.
 
 **Bounded repair:** require the six-dimension process focus and reading the
 evidence behind it, as well as exclusions and their owners. Start the
