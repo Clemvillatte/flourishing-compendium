@@ -1,18 +1,20 @@
 # deg-wol-greek — Phase D2 resource pool
 
 **Owner**: worker-pplx-degarchinv-1026a (baton `deg-arch-inventory-wolx5`)
-**Built**: 2026-10-26 (T0 13:00:46 UTC; corrective pass T+20:04 UTC)
-**Status**: D2 resource pool — DRAFT, evidence-discipline corrections applied (advisor QC round 2). Each entry below carries an explicit EVIDENCE-TIER label: [OPENED-VERIFIED] = the URL was fetched and the page content was actually read this session; [ACCESS-CHECKED] = the access statement was confirmed on the page but the content itself was not read in full; [DISCOVERY] = surfaced via search results or a syllabus cross-reference only, NOT opened. No entry is treated as established unless it is at least ACCESS-CHECKED. Hours arithmetic: ASSIGNED HOURS UNMEASURED — no verified total is established in this pass.
+**Built**: 2026-10-26 (T0 13:00:46 UTC; corrective pass T+20:04 UTC; owner-ruling re-target T+26:00)
+**Status**: D2 resource pool — DRAFT, RETARGETED per the owner's 2026-10-27 rulings (commits bad5c55b8 and 622a7eca3): D2 acquisition goes to TEACHING CONTENT ONLY — no primary-text link-hunting (the corpus is already in the owner's library at docs/PRIMARY-SOURCES.md), and no encyclopedic reference material (SEP/Wikipedia/IEP/Britannica) as degree content. The primary-text rows below are retained as OWNER-LIBRARY POINTERS, not as hunting results; the acquisition effort now goes only to the teaching-layer rows. Each entry carries an explicit EVIDENCE-TIER label. Hours arithmetic: ASSIGNED HOURS UNMEASURED — no verified total is established in this pass.
 
 ## Verified resource pool (Greek philosophy)
 
-### A. Primary texts
+### A. Corpus rows (OWNER-LIBRARY POINTERS per the 2026-10-27 ruling — NOT hunting results; the books are already in the compendium)
 
-| ID | Resource | Open status (verified) | Covers | D1 module |
+The owner's library (docs/PRIMARY-SOURCES.md) is the corpus of record; the rows below are retained as CITABLE WEB EDITION fallbacks per that file's own note, not as acquisition work.
+
+| ID | Resource | Evidence tier | Notes | D1 module |
 |---|---|---|---|---|
-| GREEK-TEXT-1 | Project Gutenberg, *The Republic* by Plato, eBook #1497 — https://www.gutenberg.org/ebooks/1497 | [OPENED-VERIFIED] (the page was fetched and read this session) | Freely downloadable (EPUB3, plain text, EPUB, Kindle, zipped HTML); public domain in the USA confirmed on the page | Plato's *The Republic* (per the page title; the Jowett translator attribution was in the search results, not confirmed on the page) | mod-greek-5 — PROPOSED; per-page reading-time measurement owed |
-| GREEK-TEXT-2 | Perseus Digital Library, Plato — the Scaife ATLAS / catalog pages | [DISCOVERY] (the Perseus catalog and Scaife ATLAS pages were NOT fetched this session; the edition, identifier and licensing details below are from search-result metadata, NOT from an opened page) | NOT ESTABLISHED — the specific edition/licence claims (Burnet OCT PD, Fowler/Lamb/Bury English, CC BY-SA 4.0 TEI) are search-result metadata that must be confirmed on an opened page at the next pass | The Plato corpus per the search results | NOT ADMITTED as established — one direct fetch pass is owed |
-| GREEK-TEXT-3 | MIT Internet Classics Archive — https://classics.mit.edu/ | The direct dialogue pages were bot-blocked (http_code_client_error) on fetch, but the archive's existence and Jowett translations are confirmed via multiple independent sources in the search results (the plato-dialogues.org links page names Jowett's translations at MIT as a standard open route) | Jowett's English translations of the Plato dialogues | alternative open route (flagged — needs one more fetch pass) |
+| GREEK-TEXT-1 | Project Gutenberg, *The Republic* by Plato, eBook #1497 — https://www.gutenberg.org/ebooks/1497 | [OPENED-VERIFIED] (the page was fetched and read this session) | Retained as a citable web edition; the primary acquisition is the owner's library | mod-greek-5 — PROPOSED |
+| GREEK-TEXT-2 | Perseus Digital Library, Plato — the Scaife ATLAS / catalog pages | [DISCOVERY] (NOT fetched this session; the edition/licence claims are search-result metadata and are WITHDRAWN) | NOT ESTABLISHED; one direct fetch pass is owed if this route is needed as a fallback | NOT ADMITTED as established |
+| GREEK-TEXT-3 | MIT Internet Classics Archive — https://classics.mit.edu/ | [DISCOVERY] (the direct dialogue pages were bot-blocked on fetch) | NOT ESTABLISHED; one more route owed | alternative open route (flagged) |
 
 ### B. Teaching layers (MOOCs, open courses)
 

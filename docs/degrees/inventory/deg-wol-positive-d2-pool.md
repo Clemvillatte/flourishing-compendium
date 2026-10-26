@@ -1,14 +1,14 @@
 # deg-wol-positive — Phase D2 resource pool
 
 **Owner**: worker-pplx-degarchinv-1026a (baton `deg-arch-inventory-wolx5`)
-**Built**: 2026-10-26 (T0 13:00:46 UTC; corrective pass T+20:04 UTC)
-**Status**: D2 resource pool — DRAFT, evidence-discipline corrections applied (advisor QC round 2). Each entry below carries an explicit EVIDENCE-TIER label: [OPENED-VERIFIED] = the URL was fetched and the page content was actually read this session; [ACCESS-CHECKED] = the access statement was confirmed on the page but the content itself was not read in full; [DISCOVERY] = surfaced via search results or a syllabus cross-reference only, NOT opened. No entry is treated as established unless it is at least ACCESS-CHECKED. Hours arithmetic: ASSIGNED HOURS UNMEASURED — no verified total is established in this pass.
+**Built**: 2026-10-26 (T0 13:00:46 UTC; corrective pass T+20:04 UTC; owner-ruling re-target T+26:00)
+**Status**: D2 resource pool — DRAFT, RETARGETED per the owner's 2026-10-27 rulings (commits bad5c55b8 and 622a7eca3): D2 acquisition goes to TEACHING CONTENT ONLY — no primary-text link-hunting (the corpus is already in the owner's library at docs/PRIMARY-SOURCES.md), and no encyclopedic reference material (SEP/Wikipedia/IEP/Britannica) as degree content. The primary-text rows below are retained as OWNER-LIBRARY POINTERS, not as hunting results; the acquisition effort now goes only to the teaching-layer rows. Each entry carries an explicit EVIDENCE-TIER label. Hours arithmetic: ASSIGNED HOURS UNMEASURED — no verified total is established in this pass.
 
 ## Verified resource pool (Positive psychology)
 
-### A. Primary texts / research articles
+### A. Corpus rows (OWNER-LIBRARY POINTERS per the 2026-10-27 ruling — NOT hunting results; the books are already in the compendium)
 
-The positive-psychology primary texts (Seligman's Flourish, Peterson's CSV, Csikszentmihalyi's Flow, Fredrickson's Positivity) are paywalled books. The open routes are the open-access research articles behind them and the existing enriched doc library. No standalone open primary-text carrier was verified this session — this is the field's own structural problem, declared as a gap.
+The owner's library (docs/PRIMARY-SOURCES.md) and the enriched wiki docs are the corpus of record; the primary-text paywall problem noted in the D1 file is DISSOLVED by the ruling (the owner's library carries the paywalled books). No primary-text hunting is performed here.
 
 ### B. Teaching layers (MOOCs, open courses)
 

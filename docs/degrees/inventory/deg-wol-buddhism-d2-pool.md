@@ -1,17 +1,19 @@
 # deg-wol-buddhism — Phase D2 resource pool
 
 **Owner**: worker-pplx-degarchinv-1026a (baton `deg-arch-inventory-wolx5`)
-**Built**: 2026-10-26 (T0 13:00:46 UTC; corrective pass T+20:04 UTC)
-**Status**: D2 resource pool — DRAFT, evidence-discipline corrections applied (advisor QC round 2). Each entry below carries an explicit EVIDENCE-TIER label: [OPENED-VERIFIED] = the URL was fetched and the page content was actually read this session; [ACCESS-CHECKED] = the access statement was confirmed on the page but the content itself was not read in full; [DISCOVERY] = surfaced via search results or a syllabus cross-reference only, NOT opened. No entry is treated as established unless it is at least ACCESS-CHECKED. Hours arithmetic: ASSIGNED HOURS UNMEASURED — no verified total is established in this pass.
+**Built**: 2026-10-26 (T0 13:00:46 UTC; corrective pass T+20:04 UTC; owner-ruling re-target T+26:00)
+**Status**: D2 resource pool — DRAFT, RETARGETED per the owner's 2026-10-27 rulings (commits bad5c55b8 and 622a7eca3): D2 acquisition goes to TEACHING CONTENT ONLY — no primary-text link-hunting (the corpus is already in the owner's library at docs/PRIMARY-SOURCES.md, which includes a Buddhism Drive folder), and no encyclopedic reference material (SEP/Wikipedia/IEP/Britannica) as degree content. The primary-text rows below are retained as OWNER-LIBRARY POINTERS, not as hunting results; the acquisition effort now goes only to the teaching-layer rows. Each entry carries an explicit EVIDENCE-TIER label. Hours arithmetic: ASSIGNED HOURS UNMEASURED — no verified total is established in this pass.
 
 ## Verified resource pool (Buddhism)
 
-### A. Primary texts
+### A. Corpus rows (OWNER-LIBRARY POINTERS per the 2026-10-27 ruling — NOT hunting results; the books are already in the compendium)
 
-| ID | Resource | Open status (verified on the page) | Covers | D1 module |
+The owner's library (docs/PRIMARY-SOURCES.md) includes a Buddhism Drive folder: https://drive.google.com/drive/folders/1g3ZBYHF5aIjBdOPFy79UgKy32YpLnFn5?usp=sharing — the corpus rows in the D1 coverage matrix are filled by pointing at this library entry and the enriched wiki docs, per the ruling. The rows below are retained as pointers, not as acquisition work.
+
+| ID | Resource | Evidence tier | Notes | D1 module |
 |---|---|---|---|---|
-| BUD-TEXT-1 | Access to Insight, "Tipitaka: The Pali Canon" — https://accesstoinsight.org/tipitaka/ | [OPENED-VERIFIED] (the page was fetched and read this session) | More than 1,000 sutta translations on the website; the page text itself is licensed Creative Commons Attribution 4.0 International (the linked documents carry their own terms — a per-sutta licence check is owed at the next pass before any specific sutta is admitted to a module); the site is a curated English-language archive of Theravada Buddhist texts | The Sutta Pitaka Nikayas — Digha (long), Majjhima (middle-length), Samyutta (grouped), Anguttara (further-factored), Khuddaka (little texts) — per the page's own descriptions; the page does NOT establish which specific doctrines (Four Noble Truths, Eightfold Path, dependent origination) are carried by which Nikaya | mod-bud-1 through mod-bud-5 — PROPOSED; the specific per-sutta doctrine mappings are NOT established from this page |
-| BUD-TEXT-2 | The Open Buddhist University, "The Majjhima Nikāya" course reading — https://buddhistuniversity.net/courses/mn | [OPENED-VERIFIED] (the page was fetched and read this session) | *Selections from the Majjhima Nikāya* (Ñāṇamoli + Bodhi) is Creative Commons-licensed and represents about one-third of Wisdom's full translation; Bhante Sujato's **complete free translation** of the Middle Discourses is named as the alternative for suttas not in the free selection | The Majjhima Nikaya suttas (per the page's own description: "the most readable and important of the Early Buddhist Texts") | mod-bud-2 — PROPOSED; the mod-bud-5 (Abhidhamma) and mod-bud-12 (meditation) mappings in the earlier draft were NOT supported by the page content and are WITHDRAWN |
+| BUD-TEXT-1 | Access to Insight, "Tipitaka: The Pali Canon" — https://accesstoinsight.org/tipitaka/ | [OPENED-VERIFIED] (the page was fetched and read this session) | Retained as a CITABLE WEB EDITION fallback per docs/PRIMARY-SOURCES.md's own note ("if a file will not open for an agent, fall back to a citable web edition (Perseus, MIT Classics, accesstoinsight, etc.)"); the primary acquisition is the owner's Drive library, not this hunting | mod-bud-1 through mod-bud-5 — PROPOSED |
+| BUD-TEXT-2 | The Open Buddhist University, "The Majjhima Nikāya" course reading — https://buddhistuniversity.net/courses/mn | [OPENED-VERIFIED] (the page was fetched and read this session) | The CC-licensed selections and Sujato's complete free translation are named on the page; this is a teaching-adjacent carrier | mod-bud-2 — PROPOSED |
 
 ### B. Teaching layers (MOOCs, open courses)
 
