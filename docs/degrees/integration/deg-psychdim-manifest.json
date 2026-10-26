@@ -166,7 +166,7 @@
    {
     "source_id": "PD-M3-02",
     "role": "revisit",
-    "assignment": "Bloom lecture 7 - RETRIEVAL reuse in m4: assigned 47:26-54:53 (different window from m3's 18:06-39:15)",
+    "assignment": "Bloom lecture 7 - RETRIEVAL reuse in m4: assigned 47:26-54:53 ONLY (7:27, the narrowed selection/spotlight + blindness-demonstrations window). CLARIFIED (deg-fix-content 2026-10-26): this entry previously read 'different window from m3's 18:06-39:15' in parentheses, and the published mod-pd-4 entry then carried BOTH windows as segments - m3's 18:06-39:15 window is NOT assigned in m4 (the m4 doc explicitly narrows away from the memory/clinical survey covered by that window); the schema lane should drop the 18:06-39:15 segment from the mod-pd-4 entry, keeping only 47:26-54:53",
     "kind": "video"
    },
    {
