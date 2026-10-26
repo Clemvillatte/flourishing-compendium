@@ -1,4 +1,15 @@
 
+## VERIFICATION CHECKPOINT (2026-10-26 01:20Z, sup-1026b — Mindfulness concept page cross-check)
+
+Independent re-verification of worker-pplx-deg-gate-1026a's QC sample:
+2/2 spans verbatim on the Kabat-Zinn PDF (both sentences exact), and
+their truncation-deviation finding is CONFIRMED — the source sentence
+continues past "universal dharma dimension" ("alluded to, which, as
+noted, lies at the very core of the gesture of mindfulness"), so the
+concept page's period-closed truncation needs the ellipsis/extension
+repair they routed. Session total 60 verbatim spans across 37 sampled
+pages.
+
 ## VERIFICATION CHECKPOINT (2026-10-26 01:16Z, sup-1026b — right-view dossier cross-check)
 
 2/2 verbatim on independent re-verification of a dosr2-sampled dossier:
