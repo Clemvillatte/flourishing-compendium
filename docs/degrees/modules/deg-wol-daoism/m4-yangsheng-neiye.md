@@ -4,7 +4,7 @@
 new to you, and this module asks you to work with them with less
 scaffolding than m2 and m3 gave: one worked demonstration, then your
 own passage reading, your own practice design and your own teach-back.
-**Position**: Fourth module of the deg-wol-daoism band.
+**Position**: Fourth module of the Daoism walk.
 **Prerequisites**: completion of m1, m2 and m3. The observable
 competencies required: you can define yangsheng in the orientation
 sense given in m1 (m1 Outcome 2, the four working terms), you can read
@@ -12,7 +12,7 @@ a short primary-text passage, quote it exactly and distinguish what it
 says from an application you propose (m2 Outcome 2, m3 Outcome 1), and
 you can distinguish a training history from the state the training
 produces (m3 Outcome 2).
-**Total time budget**: about 3 hours 18 minutes (about 198 minutes of
+**Total time budget**: about 3 hours 20 minutes (about 200 minutes of
 labelled components; arithmetic below).
 **Primary text**: assigned sections of the Neiye (the "Inward
 Training" chapter of the Guanzi) in the [Study of Inner Cultivation
@@ -28,9 +28,9 @@ section 1 begins "Always : the essence of creatures", section 2 begins
 section begins "Where essence exists, there is naturally life".
 **Assigned video**: [Komjathy's "Lundao 5: Daoist Yangsheng (Nourishing
 Life)"](https://www.youtube.com/watch?v=WDwPln1CczI), 53 minutes 43
-seconds. The recording prints no chapter divisions, so this module
-cannot hand you timestamps; watch it once with a notebook and attend
-to the topics named in Step 1.
+seconds. This module has no verified segment boundaries for it, so no
+timestamps are given; the assigned use is the topics named in Step
+1. Watch it once with a notebook.
 
 ## What this module is for
 
@@ -118,8 +118,8 @@ On completing this module the learner can:
 ### Step 1: Watch the lecture (53 minutes 43 seconds measured)
 
 Watch Komjathy's Lundao 5 talk once through with a notebook, pausing
-as you need to. The recording prints no chapter divisions, so no
-timestamps can be given; keep your notes on these topics:
+as you need to. No verified segment boundaries are available to this module, so
+no timestamps are given; keep your notes on these topics:
 
 - The sentences where he defines yangsheng and says it is more
   complicated than a techniques list.
@@ -204,8 +204,8 @@ walk improves health outcomes; the module assigns no clinical
 evidence. In the graded deliverable you will do this same work on an
 element of your own choosing.
 
-### Step 4: Retrieval activities (about 15 minutes; about 5 minutes
-each)
+### Step 4: Retrieval activities (about 17 minutes; activities 1,
+2 and 3 at about 5 minutes each, activity 4 about 2 minutes)
 
 1. Without looking back, write Komjathy's one-line definition of
    yangsheng as near to his words as you can recall. Check it against
@@ -348,11 +348,9 @@ no evidence criteria.
 ## Workload arithmetic
 
 - Assigned video: 53 minutes 43 seconds measured (duration printed on
-  the video's source page; the recording prints no chapter divisions,
-  so the assignment is the whole talk with the topics of Step 1; a
-  later narrowing to verified ranges, if the verification lane
-  supplies them, reduces this budget and is a revision to this
-  arithmetic).
+  the video's source page). The assigned use is the Step 1 topics;
+  the assignment is being confirmed against the recording itself and
+  may narrow, in which case this arithmetic is revised.
 - Primary-text reading on the assigned Neiye sections (sections 1, 2,
   3 and 12: 170 + 135 + 103 + 142 = 550 words measured on the
   assigned sections, translator's notes excluded; elective track):
@@ -363,21 +361,22 @@ no evidence criteria.
   the rubric table rows and this arithmetic section): at 180 words
   per minute about 16 minutes raw; with study overhead as a
   three-times multiplier, about 49 minutes (estimate, labelled).
-- Retrieval activities 1 to 4: about 15 minutes (estimate; about 5
-  minutes each).
+- Retrieval activities 1 to 4: about 17 minutes (estimate;
+  activities 1, 2 and 3 about 5 minutes each, activity 4 about 2
+  minutes).
 - Graded deliverables: about 50 minutes (per-deliverable allowances
   above: passage reading about 20 minutes, practice design about 15
   minutes, teach-back about 15 minutes).
 - Self-assessment and feedback step: about 5 minutes.
 
-Total: about 3 hours 18 minutes (about 198 minutes of labelled
+Total: about 3 hours 20 minutes (about 200 minutes of labelled
 components: 53 minutes 43 seconds measured assigned video, 25
 estimated primary-text reading with the three-times study multiplier,
 49 estimated module-prose reading with the three-times study
-multiplier, 15 retrieval, 50 graded, 5 self-assessment). Learners not
+multiplier, 17 retrieval, 50 graded, 5 self-assessment). Learners not
 taking the elective track subtract the 25-minute reading component
-and take the lecture variant of deliverable a: about 2 hours 53
-minutes.
+and the elective retrieval activity 2, and take the lecture variant
+of deliverable a: about 2 hours 50 minutes.
 
 ## Sources
 
@@ -387,10 +386,6 @@ minutes.
   Linnell's translation of Guanzi chapter 49, Project Gutenberg
   eBook #38585](https://www.gutenberg.org/cache/epub/38585/pg38585-images.html)
   (free, CC BY-NC-ND 3.0, quoted as printed).
-
-The verification records for both sources, including the dates and
-evidence, are in the degree ledger
-(docs/degrees/ledgers/deg-wol-daoism.md).
 
 ## Alignment map
 

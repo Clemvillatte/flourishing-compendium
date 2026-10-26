@@ -1235,3 +1235,27 @@ content verification to the section-4 standard and, if the recording's
 captions yield timestamps, supply the yangsheng-relevant ranges
 (definition; general principles; four postures; seasonal material) so
 the m4 assignment can narrow from whole-talk to verified segments.
+
+## m4 round-1 correction and round-2 verification pass (2026-10-26, supervisor-pplx-1026c-daoism)
+
+Correction to the entry above: the six pedagogical and humanizer
+repairs were applied, but source verification and assignment scope
+remain OPEN. The advisor's final verification pass (round 2) kept m4
+DRAFT/RETURNED: acceptance test 2 is not satisfied by receipt-backed
+quotations (owner's firsthand-opening rule), and the whole-talk
+assignment still touches scope-excluded material until verified ranges
+arrive. Dispositions this pass: (a) the module no longer claims "no
+chapter divisions" as fact (the parallel-session receipt reports
+printed key moments on the watch page; that receipt is unverified by
+this session and the contradiction is recorded here, not resolved
+silently; the module now says "no verified segment boundaries"); (b)
+workload arithmetic corrected: retrieval is 17 minutes (1, 2, 3 at
+about 5 minutes each, 4 about 2 minutes), totals now elective track
+about 200 minutes, core route about 2 hours 50 minutes; (c) workflow
+words ("band", "verification lane", ledger pointer) removed from the
+learner-facing file. ROUTE (unchanged): deg-verify-a re-opens Lundao 5
+for content verification and segment ranges; the parallel session's
+printed key moments (8:50-9:42, 19:14-23:28, 37:57-42:50, 52:00-end,
+11:42 measured) are the candidate boundaries to confirm against the
+recording. m4 remains DRAFT, NOT CLEARED; supervisor module-QC and the
+verification result are both pending.
