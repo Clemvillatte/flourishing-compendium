@@ -17,7 +17,7 @@ to Neff). (6) Mindfulness flag downgraded to a punctuation/boundary
 clarification, not a confirmed substantive defect. (7) Two remaining
 timestamp errors fixed (00:41Z→00:39Z, 00:44Z→00:40Z). Session report
 will omit an aggregate page count in favour of the per-page inventory in
-these checkpoints (28 distinct page labels sampled; several partial).
+these checkpoints (each scoped within its checkpoint; several are partial samples).
 
 ## Worker checkpoint (2026-10-26 00:45Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
@@ -680,11 +680,9 @@ by the supervisor's registration batch, s1c-031; PLACEMENT NOTE added
 T+41: the supervisor's identity repair (43ac38a) has since restored the
 pre-session ST488 identity ("The Painter Who Kept the Water Still") and
 moved this story to a fresh ST508; the span verifications below remain
-valid for the spans themselves, now carried on ST508 (all eight audited
-span markers confirmed present on ST508 this session; a full verbatim
-re-comparison against the sampled page version was NOT performed — the
-sample stands as historical verification of the spans, with current
-placement confirmed at marker level); not in the earlier sample
+valid for the version of the page that was sampled (then-ST488); the
+story is now titled ST508, but transfer fidelity was NOT revalidated —
+no additional transfer investigation was performed; not in the earlier sample
 batches ST307/415/420/495/505 or ST414/416/418/422/500/507). All 8 quoted
 James spans (Talks to Teachers ch. VIII, Gutenberg ebook 16287, raw text
 fetched this session) verified VERBATIM: the Rip Van Winkle opener, "it is
