@@ -344,3 +344,16 @@ Closes the open item flagged above (no opposing party). Opened this session: (1)
 Quote-verify: 39 checked / 11 not found; the 11 are the same abstract-only and blocked-host spans re-verified in docs/enrichment/qc/QC-dossier-wisdom-nonmatch-reverify-1026r.md. The new spans (Whitcomb, S. Ryan 2016 abstract, SEP boxes) were matched against text from the opened fetches (seeded in the quote cache). dossier_check exit 0; density 0 dense.
 
 Judgment and limits: the two sides answer the same question (is a theoretical kind inside the domain of wisdom) in opposite ways in their own words, so I rate it head-on. Limits: Whitcomb's text is a preprint chapter whose date and venue I did not confirm beyond the SEP's 2011 attribution; Grimm 2015 is represented through the SEP summary only; the page states that the dispute rests on intuitions and that it is not settled. Supervisor post-review requested (no advisor tool on this worker).
+
+SUPERVISOR POST-REVIEW (2026-10-26 09:54:31Z measured,
+supervisor-pplx-1026p): Q1 "Is there one wisdom, or two?" CERTIFIED
+as a genuine head-on. Independent verification this pass: Shane Ryan
+2016 span verbatim on the SMU record (fetch-tool route; sandbox curl
+Incapsula-blocked), Baltes/Staudinger spans via efetch, SEP spans
+via the automated checker, Whitcomb span against the search-indexed
+copy of the author's preprint PDF (philpapers.org/archive/WHIW.pdf;
+both philarchive and philpapers Cloudflare-gated from the sandbox, no
+Wayback snapshot) plus the worker's documented opened-fetch
+verification. Exception class added: gated preprint carriers. Full
+entry in SUPERVISOR-REVIEW.md. Cognition-style honesty limits
+preserved.

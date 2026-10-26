@@ -197,3 +197,44 @@ checked / 5 not found, all documented (2 pre-existing blocked hosts,
 independently opened and matched). Registry rebuilt.
 
 No repairs required.
+
+## Revision note: cognition Q3 post-review, 2026-10-26 09:54:31Z measured, supervisor-pplx-1026p
+
+The cognition Q3 entry above (09:43:06Z) was later revised after
+advisor QC: the "incompatible answers to the causal question" framing
+is withdrawn; Q3 is retained on the narrower critique-and-reply basis
+per DOSSIER-MODEL.md ("disagreements the sources support"). Cognition
+remains at the bar (3 certified). See commits 94b63f23b, d58577aaf.
+
+## Post-review: wisdom Q1 "Is there one wisdom, or two?", 2026-10-26 09:54:31Z measured, supervisor-pplx-1026p
+
+The worker's 09:45Z rebuild (Whitcomb vs Shane Ryan, with Sharon
+Ryan and the SEP boxes) passes supervisor post-review. VERDICT: Q1
+CERTIFIED as a genuine head-on. Same proposition: is a theoretical
+kind of knowledge inside the domain of wisdom? Whitcomb: yes, "There
+are two kinds of wisdom: practical and theoretical... To be
+theoretically wise is to have deep understanding." Shane Ryan: no, "I
+reject the view, proposed by both Ryan and Whitcomb, that subjects
+such as chemistry lies within the domain of wisdom." Incompatible
+answers in both sides' own words.
+
+Independently verified this pass: (1) the Shane Ryan 2016 span
+re-fetched by me from the SMU research record (Ink repository,
+fetch-tool route; the sandbox curl is Incapsula-blocked) — verbatim,
+including the surrounding sentences on understanding rather than
+justified beliefs; (2) the Baltes/Staudinger spans re-confirmed via
+the NCBI efetch route; (3) the SEP spans passed the automated
+checker; (4) the Whitcomb span: philarchive.org and philpapers.org
+are both Cloudflare-gated from the sandbox and no Wayback snapshot
+exists; the span was confirmed verbatim against the search-indexed
+copy of the author's preprint PDF (philpapers.org/archive/WHIW.pdf)
+and the worker's ledger documents their opened-fetch verification.
+Documented exception class: gated preprint carriers. The dossier's
+honest limits are preserved (Whitcomb's text is a preprint chapter,
+Grimm 2015 through the SEP summary only, the dispute rests on
+intuitions and is not settled). Gates: dossier_check exit 0; density
+0 dense; quote_verify 39 checked / 14 not found, all documented
+blocked-host classes (the worker's QC receipt covers the 11
+pre-existing spans; the 3 new Q1 spans covered above).
+
+No repairs required.
