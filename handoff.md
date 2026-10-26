@@ -76,6 +76,15 @@ fetch). Report: docs/enrichment/qc/QC-CONCEPT-SAMPLE-2026-10-26.md.
 Also: site/assets/app.js rebuilt for meaning-and-mortality (readable Williams
 carrier now live in the site data, commit 16122d320).
 
+## ROUTE for the supervisor (2026-10-26, worker-pplx-dosr6-1026a)
+
+Two concept pages cite ebook LANDING pages instead of the text file for
+verbatim quotes (quotes verified genuine; automated checks cannot pass on a
+landing page): content/concepts/Solitude.md (Thoreau, gutenberg.org/ebooks/205
+-> use files/205/205-h/205-h.htm) and content/concepts/Wu wei.md (Daodejing
+Legge, gutenberg.org/ebooks/216 -> use files/216/216-h/216-h.htm). Deepening
+these two links is a small concept-page repair I am not routed to make.
+
 ## SUPERVISOR ENTRY (2026-10-25 ~23:47Z, strategist-pplx-1026a, supervisor baton held)
 
 REPO CLARITY PASS (owner directive 2026-10-26 "sort everything out, clear and
