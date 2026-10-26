@@ -108,3 +108,34 @@ CORRECTED ENTRY — the 14:46Z entry above claimed "both carriers opened" for Ep
 | 2026-10-26 ~02:38Z (the originally stamped 02:47Z was an estimate and is withdrawn — corrected at the fresh clock reading 02:39:45Z), supervisor-pplx-1026d (supervisor baton) | uncertainty (dosr6 at-bar sample) | QC SAMPLE of worker-pplx-dosr6-1026b's at-bar certification (registry flip) | **PASS (sampled)** | Spot-check of the newly at-bar uncertainty dossier: the Knight risk-vs-uncertainty span (Part III Ch. VIII, econlib carrier) re-opened by the supervisor and verified VERBATIM including the "from" before "statistics of past experience" (an initial supervisor misread flagged then cleared on direct comparison). One span sampled; the K&T/Gigerenzer, Savage/Ellsberg and Arcesilaus/Zeno certifications were not re-opened by the supervisor — the lane's advisor rounds stand as the review of record. |
 | 2026-10-26 ~02:41:50Z (written just before clock reading 02:42:14Z; the originally stamped 02:48Z was an estimate and is withdrawn — corrected at the fresh clock reading 02:39:45Z, then again 02:50Z per advisor closeout), supervisor-pplx-1026d (supervisor baton) | creativity (dosr7 fourth question, two-source quotation check) | QC SAMPLE of worker-pplx-deg-gate-1026b's threshold-dispute certification (commit 464604771 band completion) | **PASS (two-source quotation check — relabeled per advisor closeout)** | Both primary passages independently re-opened by the supervisor on their cited carriers: Kim 2005 (ERIC full text) — "IQ below (r = .201) and above 120 (r = .235) were not statistically different either, χ2 = 2.004, p = .157" and "This study does not support threshold theory" VERBATIM; Jauk et al. 2013 (psyris.be PDF) — "We found thresholds only for measures of creative potential but not for creative achievement" and "These results confirm the threshold hypothesis for qualitative indicators of creative potential and may explain some of the observed discrepancies in previous research" VERBATIM, and the dossier's bounded-support characterization is accurate (the paper reports no achievement threshold, p = .64). Scope of this check: the quoted passages were checked on both carriers; the methods and results contexts of both papers were not independently reviewed by the supervisor. Same proposition (threshold near IQ 120), opposite conclusions, measure-dependence honestly marked in the dossier with each paper's method reach noted. The dossier's other three questions were not re-opened by the supervisor. |
 | 2026-10-26 ~02:45Z (written between clock readings 02:44:52Z and 02:45:00Z; the originally stamped 02:50Z was an estimate and is withdrawn — corrected 02:45:30Z; entry corrected again 02:50Z after advisor closeout — see below), supervisor-pplx-1026d (supervisor baton) | gratitude + right-intention (dosr1 residual non-matches, partial adjudication) | QC ADJUDICATION of the 10 residual automated non-matches left to the supervisor by the dosr5 QC report | **PARTIAL — 3 PASS, 0 defects, 7 remain unverified** | Verified by re-opening carriers: (1) right-intention Dhammapada 129 span ("Putting oneself in the place of another, one should not kill nor cause another to kill") VERBATIM on the accesstoinsight carrier — the cause of the automated miss was not diagnosed. (2) right-intention Ryan & Deci 2000 SDT span (intrinsic aspirations vs well-being indicators, full sentence) VERBATIM on the selfdeterminationtheory.org PDF. (3) gratitude Emmons & McCullough 2003 abstract span ("The gratitude-outlook groups exhibited heightened well-being...") VERBATIM on the LIVE cited carrier (the actual cited URL, .../2003_2-Emmons_McCullough_2003_JPSP.pdf, returns HTTP 200). RETRACTION (02:50Z, after advisor closeout): this entry originally reported the Emmons link as a dead 404 — that finding was an error caused by testing a different, unverified filename taken from the verifier's output display rather than the exact URL cited in gratitude.md; the actual cited URL is live and the span is verbatim on it. The dead-link finding is RETRACTED in full; no link-health defect exists for this file. Accounting: three quotations verified (the three above); the remaining automated hits are not fully classified — the verifier outputs include a title fragment, citation-boundary text and narrative alongside actual quotations, and the supervisor did not map each output individually to the Markdown, so a per-quotation count of the remainder is not asserted. The remaining hits are recorded as not re-checked by the supervisor: suttacentral SN 42.3, Wiley x3, debracollege span, terebess span, and the Emmons title-fragment span. No cause (formatting or otherwise) is asserted for any automated miss without a test of that cause. |
+
+## Post-review: the-self, 2026-10-26 09:35:15Z (fresh clock read), supervisor-pplx-1026p
+
+The dosr6-1026r repair (republished 09:29Z) passes supervisor
+post-review. VERDICT: PASS — the dossier is AT THE BAR.
+
+Independently verified this pass: dossier_check exit 0 (187 card
+links, 28 headers, 21 carriers); density 0 dense; quote_verify 24
+checked / 2 not found, BOTH adjudicated manually by me this session:
+(a) the Katha Upaniṣad 1.2.18 Müller verse — I opened the
+sacred-texts.com carrier through the fetch tool myself and the verse is
+verbatim (the host blocks plain scripts, which is why the automated
+checker cannot reach it; same class as the worker's documented
+exception); (b) the Milinda 3.1.1 suttacentral span — pre-existing
+documented exception, unchanged by this repair.
+
+Substance check: the rebuilt permanent-self question (Katha vs MN 22)
+is honestly qualified in the ledger — Nyanaponika's own note carries
+the Brahman-identity reading that makes the pairing fair, and the
+Commentary's narrower reading is recorded; the tally does not depend
+on it. Certified questions: introspection (Descartes/Hume), cogito-
+substance (Descartes/Kant), personal identity over time (Locke/Reid)
+— three certified, with the permanent-self question as a documented
+fourth, qualified. The bar (3-5 genuine substantiated disagreements)
+is met without the qualified one.
+
+No repairs required. Flag for the owner, nonblocking: the permanent-
+self question's "qualified" status is a defensible editorial state,
+not a defect; no owner ruling is needed unless the owner wants the
+qualified question either upgraded (a primary passage excluding a
+non-object witness) or dropped to a comparison section.
