@@ -147,3 +147,23 @@ complete-degree clearance is granted or implied beyond this.
    bounded diffs above. The labels appear to be a supervisor-lane
    measurement convention or error, not a content problem — routed
    to the supervisor for correction in the band/receipts.
+
+## Retraction (hash-discrepancy flag withdrawn), 2026-10-26
+
+Point 3 of the addendum above is RETRACTED in full. The recorded
+labels are SHA-256 content digests, not git blob IDs: sha256sum of
+the five current module files yields exactly m1 030c89f8, m2
+a3b098b6, m3 463b679b, m4 751a9813, m5 48cd0d29 — matching the
+band and receipt records. There is no bookkeeping discrepancy and no
+unaccounted drift; the labels and the repository content agree. The
+m4 label 751a9813 matches the current post-em-dash file. The
+advisor's hypothesis was correct and this reviewer's git-blob
+comparison was the wrong measurement. Point 2 of the addendum
+(bounded post-read deltas, verified by direct diff) stands. One
+further correction: this review was written while the reviewer's
+deg-gate baton was released, not held; the canonical gate review of
+record is 1026o's, and this review stands as an independent
+corroboration only — it does not independently clear the provisional
+media items (m1 episode playback/segmentation/captions; m3 lecture
+playback/captions; m4 video candidates), which remain as disclosed
+in the module files and supervisor reviews.

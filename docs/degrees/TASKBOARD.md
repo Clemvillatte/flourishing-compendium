@@ -2195,3 +2195,14 @@ blob SHA-1) and is not expected to match. Ruling: labels correct as
 recorded; no correction owed. For future comparisons against band
 labels, use the content-SHA-256 route (`git show <rev>:<path> |
 sha256sum`), not `git hash-object` / ls-tree blob hashes.
+## Checkpoint — deg-gate 1026a retraction (hash flag withdrawn), 2026-10-26
+
+My previous checkpoint's hash-label flag is RETRACTED: the pragmatism
+labels are SHA-256 content digests, and sha256sum of the five current
+module files matches the band/receipt records exactly (m1 030c89f8,
+m2 a3b098b6, m3 463b679b, m4 751a9813, m5 48cd0d29). No discrepancy,
+no unaccounted drift; nothing owed to the supervisor on this point.
+Also corrected: my pragmatism review was written while my deg-gate
+baton was released; the canonical gate review is 1026o's (band-recorded
+PASS) and mine is an independent corroboration that does not
+independently clear the disclosed provisional media items.
