@@ -18124,11 +18124,19 @@ window.fcDossiersData = {
         },
         {
           "t": "h2",
-          "x": "Do divergent-thinking tests measure a general creative capacity?"
+          "x": "Is creativity one general capacity or many domain skills?"
         },
         {
           "t": "p",
           "x": "The dispute over the tests is recorded by the review itself: Baer concluded that creativity is best conceptualized as domain specific, which he argued explains why divergent-thinking tests have not met with more success, and Mumford and colleagues questioned their validity; other researchers defended divergent-thinking measures, such as those in the Wallach-Kogan Creativity Tests ([Hennessey and Amabile 2010, p. 573](https://site.caes.uga.edu/sandlin/files/2023/10/Hennessey-Amabile-2010.pdf)). The same review opens its assessment section with the field's own admission: \"Debates surrounding definition and measurement continue to loom large\" ([Hennessey and Amabile 2010, p. 572](https://site.caes.uga.edu/sandlin/files/2023/10/Hennessey-Amabile-2010.pdf))."
+        },
+        {
+          "t": "p",
+          "x": "The two sides of that debate also printed a point-counterpoint pair in the same journal issue. Baer's side: \"The correlations among the creativity ratings of products made by the same person in these studies have been quite low\", and the general conclusion \"A growing body of evidence suggests that creative performance is domain specific\" ([Baer, The Case for Domain Specificity of Creativity, Creativity Research Journal 1998](https://www.rider.edu/sites/default/files/2024-05/CaseforSpecificity.pdf))."
+        },
+        {
+          "t": "p",
+          "x": "Plucker's answer in the paired article: the domain-specificity research \"suffers from conceptual, methodological, or logical oversights\", and \"The debate about the content general or specific nature of creativity is far from settled\" ([Plucker, Beware of Simple Conclusions: The Case for Content Generality of Creativity, Creativity Research Journal 1998, abstract](https://scispace.com/journals/creativity-research-journal-38y50hb2/1998)). The passage from Plucker is his abstract, reproduced on the journal-index page; the full paper was not opened. What the tests measure turns on which side of that dispute holds, and the camps state it in their own words."
         },
         {
           "t": "p",
@@ -18145,6 +18153,10 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "At the core of the debate, the review says, were important differences in the definitions of creativity driving the investigations, the algorithmic or heuristic nature of the experimental tasks employed, and the instructions given to study participants ([Hennessey and Amabile 2010, p. 582](https://site.caes.uga.edu/sandlin/files/2023/10/Hennessey-Amabile-2010.pdf)). Studies in the behaviorist tradition typically used measures that equate creativity with novelty, and often instructed participants to be creative; other findings suggest those studies demonstrate positive effects of instructions rather than positive effects of expected rewards ([Hennessey and Amabile 2010, p. 582](https://site.caes.uga.edu/sandlin/files/2023/10/Hennessey-Amabile-2010.pdf))."
+        },
+        {
+          "t": "p",
+          "x": "The behaviorist side's own paper takes the opposite position on how general the harm is: \"detrimental effects of reward occur under highly restricted, easily avoidable conditions\", while \"positive effects of reward on generalized creativity are easily attainable using procedures derived from behavior theory\" ([Eisenberger and Cameron 1996, American Psychologist, abstract; university-hosted copy](http://homepages.se.edu/cvonbergen/files/2021/01/Detrimental_Effects_of_Reward_Reality_or_Myth.pdf)). That is the position the review calls reward-specific: creativity can be easily increased by reward and is seldom undermined. The conflict between the two camps is about the reach of the harm: generally detrimental to creativity, or confined to particular conditions and avoidable in practice."
         },
         {
           "t": "p",
@@ -19032,7 +19044,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "On one account, described by [Schaufeli](https://www.wilmarschaufeli.nl/publications/Schaufeli/414.pdf) as Maslach and Leiter's, the two are the positive and negative endpoints of a single continuum: engagement's energy, involvement and efficacy are the direct opposites of burnout's exhaustion, cynicism and lack of accomplishment, so a person high on engagement is inevitably low on burnout, and vice versa. On the other account, engagement is a distinct concept negatively related to burnout: a positive, fulfilling work-related state of mind characterised by vigour, dedication and absorption, defined in its own right rather than as burnout's mere absence."
+          "x": "On one account, described by [Schaufeli](https://www.wilmarschaufeli.nl/publications/Schaufeli/414.pdf) as Maslach and Leiter's, the two are the positive and negative endpoints of a single continuum: engagement's energy, involvement and efficacy are the direct opposites of burnout's exhaustion, cynicism and lack of accomplishment, so a person high on engagement is inevitably low on burnout, and vice versa. The account's own authors say it in print: \"engagement is characterized by energy, involvement, and efficacy—the direct opposites of the three burnout dimensions. By implication, engagement is assessed by the opposite pattern of scores on the three MBI dimensions\" ([Maslach, Schaufeli and Leiter 2001, Job Burnout, Annual Review of Psychology](https://www.wilmarschaufeli.nl/publications/Schaufeli/154.pdf)). On the other account, engagement is a distinct concept negatively related to burnout: a positive, fulfilling work-related state of mind characterised by vigour, dedication and absorption, defined in its own right rather than as burnout's mere absence."
         },
         {
           "t": "p",
@@ -19048,7 +19060,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Pieper calls that outlook an inversion and sets Aristotle's \"We work in order to be at leisure\", his rendering of the ancient claim, against it, noting that the modern valuation of work differs so sharply from Antiquity and the Middle Ages that the ancient statement is hard to hear as anything but an attack on the basic principles of society ([Pieper, Leisure: The Basis of Culture](https://iwcinsb.org/studygroups/2024%20readings/Leisure.pdf)). The disagreement turns on whether work is life's governing end or serves something valuable beyond itself. For Pieper, leisure involves stillness, receptive understanding and affirmation; its value extends beyond preparing someone for another shift."
+          "x": "Pieper calls that outlook an inversion and sets Aristotle's \"We work in order to be at leisure\", his rendering of the ancient claim, against it, noting that the modern valuation of work differs so sharply from Antiquity and the Middle Ages that the ancient statement is hard to hear as anything but an attack on the basic principles of society ([Pieper, Leisure: The Basis of Culture](https://iwcinsb.org/studygroups/2024%20readings/Leisure.pdf))."
+        },
+        {
+          "t": "p",
+          "x": "The sentence Pieper borrows is carried by Weber's own text, where it prints as a note to the chapter on asceticism: \"Even Zinzendorf says at one point: 'One does not only work in order to live, but one lives for the sake of one's work, and if there is no more work to do one suffers or goes to sleep'\" ([Weber, The Protestant Ethic and the Spirit of Capitalism, note 24 to Chapter V, Parsons translation, open CUNY Manifold edition](https://cuny.manifoldapp.org/read/the-protestant-ethic-and-the-spirit-of-capitalism/section/8fe950e8-33df-4c24-9f0f-45d8b2a13c4e)). The maxim is Zinzendorf's, reported by Weber citing Plitt; Weber's book is the opened carrier, and the outlook it documents is the culture of total work Pieper attacks."
+        },
+        {
+          "t": "p",
+          "x": "The disagreement turns on whether work is life's governing end or serves something valuable beyond itself. For Pieper, leisure involves stillness, receptive understanding and affirmation; its value extends beyond preparing someone for another shift."
         },
         {
           "t": "p",
@@ -19423,7 +19443,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Is weakness of will action against one's current better judgment, or an over-ready revision of an intention? Davidson characterizes incontinent action in terms of the first; Holton argues that weakness of will is a different phenomenon."
+          "x": "Is weakness of will action against one's current better judgment, or an over-ready revision of an intention? Davidson characterizes incontinent action in terms of the first; Holton argues that weakness of will is a different phenomenon. Davidson's own opening sentence puts the two together: \"An agent's will is weak if he acts, and acts intentionally, counter to his own best judgement; in such cases we sometimes say he lacks the willpower to do what he knows, or at any rate believes, would, everything considered, be better\" ([Davidson, How is Weakness of the Will Possible?, The Essential Davidson, OUP chapter page](https://academic.oup.com/book/49874/chapter-abstract/422039790))."
         },
         {
           "t": "q",
@@ -19436,12 +19456,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Philosophical orthodoxy identifies weakness of will with akrasia: the weak willed person is someone who intentionally acts against their better judgement. It is argued that this is a mistake. Weakness of will consists in a quite different failing, namely an over-ready revision of one's intentions.\" ([Holton 1999, abstract](https://rjh221.user.srcf.net/bibliography/))",
+          "x": "\"Philosophical orthodoxy identifies weakness of will with akrasia: the weak willed person is someone who intentionally acts against their better judgement. It is argued that this is a mistake. Weakness of will consists in a quite different failing, namely an over-ready revision of one's intentions.\" ([Holton 1999, abstract](https://web.archive.org/web/20251008071239/https://rjh221.user.srcf.net/bibliography/))",
           "s": null
         },
         {
           "t": "q",
-          "x": "\"Weakness of will arises, I shall suggest, when agents are too ready to reconsider their intentions.\" ([Holton 1999, author-hosted paper](https://rjh221.user.srcf.net/bibliography/pubs/Weakness.pdf))",
+          "x": "\"Weakness of will arises, I shall suggest, when agents are too ready to reconsider their intentions.\" ([Holton 1999, author-hosted paper](https://web.archive.org/web/20210804160248/http://rjh221.user.srcf.net/bibliography/pubs/Weakness.pdf))",
           "s": null
         },
         {
