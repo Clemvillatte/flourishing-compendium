@@ -515,3 +515,24 @@ noted above), 2 genuine deviations repaired earlier in the session (Hayes
 semicolon, Goyal "reductions in"), 7 items not confirmable from this
 environment (suttacentral x2, Wiley/Algoe x3, semanticscholar, plus the
 blocked-host tail listed above), 0 known outstanding deviations.
+
+# Correction to sample 16's session tally (2026-10-26 02:47:18Z, measured in-command)
+
+The tally paragraph in sample 16 undercounts. Recounted from the samples
+above, this entry governs. Automated NOT FOUNDs adjudicated this session
+across the released bands: 38 items in total —
+
+- 31 false positives confirmed by opening the carrier or an open twin
+  (26 verbatim; plus variant artifacts: the Skinner initial capital, the
+  Schumpeter footnote marker, the Baer soft hyphens, the Jachimowicz
+  typographic apostrophe, and the Ryan & Deci / Kant PDF text-layer
+  interleavings, each noted where found);
+- 2 genuine deviations, both repaired and pushed earlier in the session
+  (Hayes semicolon; Goyal "reductions in");
+- 12 items not confirmable from this environment, all on hosts that block
+  automated fetchers, none known or suspected deviations: suttacentral x2
+  (SN 42.3; Milindapañha 3.1.1), Wiley/Algoe x3, tandfonline x3 (the
+  17439760 span via tandfonline and its doi.org redirect, and the
+  Craftsmanship span), scispace x2, semanticscholar (Chowdhury), and
+  academic.oup (Davidson);
+- 0 known outstanding deviations; no repairs implied for the 12.
