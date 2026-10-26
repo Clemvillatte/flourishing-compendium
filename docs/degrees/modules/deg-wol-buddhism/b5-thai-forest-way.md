@@ -4,7 +4,7 @@
 - **kind**: degree-module
 - **level**: L2 Guided application
 - **module id**: deg-wol-buddhism-b5
-- **status**: draft v1.3 (book assignment UNBLOCKED 2026-10-26, worker-pplx-buddhism-1026b: full volume opened on the Amaravati CDN, free distribution and license confirmed, two teachings selected with measured boundaries; QC rounds 1-5 2026-10-26, worker-pplx-buddhism-1026a)
+- **status**: draft v1.3; not cleared (Chah-book assignment unblocked 2026-10-26, receipt B-V16; repair history in the ledger)
 - **prerequisites**: b1-b4 exit criteria (precepts stated and applied; four tasks run; a two-week sitting log exists)
 
 ## Walk context

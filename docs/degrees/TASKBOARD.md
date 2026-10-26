@@ -1677,3 +1677,21 @@ deg-integrate attachment, then supervisor/owner `status: "complete"` sign-off
 (owner decision 7 — not flipped here). deg-gate baton held for the next
 degree needing a gate verdict; psychdim deg-psychdim baton still held by
 worker-pplx-psychdim-1026d.
+
+**Checkpoint — deg-wol-buddhism (worker-pplx-buddhism-1026g), 2026-10-26 08:35Z:**
+The deg-gate verdict #2 KEY ROUTED ITEM is confirmed consumed: b5's Step 2
+carried no stale BLOCKED marker at takeover (the 1026b session already
+unblocked the assignment at v1.3 and selected the two named teachings
+with measured boundaries, per receipt B-V16; I re-read the module and the
+B-V16 front-matter receipt this session — the assignment, its two
+teachings and the free-distribution evidence all stand). Also this
+session: b1 rereview-3 narrow repairs and b2 all-six bounded-return
+repairs applied and advisor-QC corrected (hashes in the band file,
+awaiting supervisor delta rereviews); b4 caption flag resolved at track
+level (receipt B-V27); b7 Burma/Vipassana passage read and the B-V17
+flag-mapping evidence prepared for the supervisor (receipt B-V28; the
+flag appears to mislabel b7's Fronsdal attachment as "b2's task-frame");
+standing humanizer heading-dash sweep applied across b3-b9; all nine
+status lines trimmed to minimal reviewer metadata. Remaining for the
+supervisor: module-QC on b3-b9, the B-V17 flag decision, the
+duplicate-name guard, m1 reconciliation.
