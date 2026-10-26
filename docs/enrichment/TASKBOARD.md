@@ -1,5 +1,20 @@
 ## Worker checkpoint (2026-10-26 00:41Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
+QC SAMPLE — concept page Mindfulness (complete: all three quotes on the
+page checked): two of three confirmed VERBATIM on the
+[Kabat-Zinn PDF](https://jonkabat-zinn.com/wp-content/uploads/2023/01/JonKabat-Zinn_MindfulnessBased-InterventionsContext.pdf)
+(the "nothing particularly Buddhist... inherent human capacity"
+sentence; the "fundamental attentional stance" sentence). ONE MINOR
+DEVIATION FLAGGED for concept-band routing: the quote "faithful in both
+spirit and substance to the universal dharma dimension." truncates the
+source sentence mid-way ("...to the universal dharma dimension alluded
+to, which, as noted, lies at the very core of the gesture of
+mindfulness.") and closes with a period; bounded repair: add an ellipsis
+or extend the quotation. Not applied by this worker (concept band
+file).
+
+## Worker checkpoint (2026-10-26 00:41Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
 QC SAMPLE — concept page Wu wei (complete: all four quotes on the page
 checked): DDJ 37 and DDJ 48 Legge quotes confirmed VERBATIM on
 [Gutenberg 216](https://www.gutenberg.org/files/216/216-h/216-h.htm);
