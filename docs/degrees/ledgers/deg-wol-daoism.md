@@ -1745,3 +1745,16 @@ verbatim; arithmetic 208 minutes consistent). Whole-degree and
 publication clearance remain closed pending the other modules and
 the gates. Band notes updated (module-QC now owed on m1-m4 only).
 No further m5 edits planned this session.
+
+## Final-session correction note (2026-10-26 ~06:45Z, supervisor-pplx-1026c-daoism)
+
+Two explanations in my recent entries are withdrawn as unsupported:
+(1) the m4 prose-count entry said the QC author's 2,984-word figure
+is "attributable to boundary choice" — I did not reproduce their
+count, so the discrepancy's cause stays unresolved; my 2,936 figure
+stands as reproducible under the module's stated rule only.
+(2) the m5 re-repair entry's "total words 2,688; reading minutes 9"
+uses a different model from the module's displayed workload (180
+wpm with a three-times study multiplier; displayed components total
+208 minutes) — withdrawn; the module's displayed arithmetic is the
+record and needs no edit.
