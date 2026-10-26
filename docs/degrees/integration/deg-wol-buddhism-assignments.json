@@ -234,5 +234,8 @@
  },
  "source_correction_evidence": {
   "BUD-B5-01": "The data block titled this source 'Food for the Heart' and linked the Amaravati collection landing page, which the fetch tool cannot read (robots block). The module assigns The Collected Teachings of Ajahn Chah, and the single-volume PDF opened on 2026-10-26 shows chapter 11 'Making the Heart Good' at printed p. 125, chapter 12 at p. 133, chapter 13 'Our Real Home' at p. 145, chapter 14 at p. 157, 'Third edition, 2,000 copies, printed in Malaysia - 2011', and the CC BY-NC-ND 2.0 UK licence line, so the assigned page ranges 125-132 and 145-156 are right for that book. Food for the Heart is a different book with different chapter numbers (a search shows it as a 1992 collection, and a Wisdom Publications edition listing 'Making the Heart Good' on p. 61), so the old title would send a learner to the wrong pages."
+ },
+ "degree": {
+  "strip_opening_prefix": "A Walk of Life devoted to Buddhism, ethics first. "
  }
 }
