@@ -1,3 +1,23 @@
+## Worker checkpoint (2026-10-26 15:42Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+TWENTIETH QC SAMPLE (taper window): suffering.md — dossier_check OK,
+22 checked / 0 not found — fully clean. With this, the session's
+verification sweep has touched 30 published dossiers; fully clean on
+automated runs: anger, right-action, motivation, anxiety, fear,
+frustration, overload-overwhelm, decision-making, body, behaviour,
+genuine-flourishing, right-mindfulness, suffering, acceptance (7/0)
+and psychdim-band cognition (after the upgrade); misses re-verified
+by eye this session on: cognition (4 spans), creation (5),
+sadness-and-grief (1), uncertainty (4 Ellsberg), creativity (3 of
+11), the-self (1 Katha), right-livelihood (1 Zinzendorf), affect (3
+PMC), attention (2 PMC), happiness (1 Spinoza), leisure (2 Veal),
+impermanence (1 DAP-R), right-concentration (1 PMC3627747). Misses
+left flagged for the next pass (documented in the checkpoints
+above): gratitude 7, executive-functions 2, meaning-and-mortality 2,
+right-effort 2, right-intention 3, others 6, lifes-purpose 11,
+right-view 2, wisdom 14, shame-and-guilt 9. No dossier text changed
+by the sweep. Files touched: these checkpoints only.
+
 ## Worker checkpoint (2026-10-26 15:38Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 NINETEENTH QC SAMPLE (taper window): right-mindfulness.md and
