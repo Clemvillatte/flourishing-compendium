@@ -11,7 +11,7 @@ evidence:
     accessed: 2026-10-26
     quotes:
       - "I enter and go down with the water in the very centre of its whirl, and come up again with it when it whirls the other way. I follow the way of the water, and do nothing contrary to it of myself - this is how I tread it."
-      - "I was born among these hills and lived contented among them - that is why I say that I have trod this water from my earliest time. I grew up by it, and have been happy treading it - that is why I said that to tread it had become natural to me. I know not how I do it, and yet I do it - that is why I say that my success is as sure as fate."
+      - "I was born among these hills and lived contented among them - that was why I say that I have trod this water from my earliest time. I grew up by it, and have been happy treading it - that is why I said that to tread it had become natural to me. I know not how I do it, and yet I do it - that is why I say that my success is as sure as fate."
 coverage-matrix:
   - facet: "the falls and the rescue scene; the swimmer walking and singing"
     carried-by: "para 1 (narrative summary of the passage's opening)"
@@ -33,9 +33,9 @@ Zhuangzi parable · Warring States China · [Zhuangzi, The Full Understanding of
 
 Confucius watches a man dive into the torrent at Lüliang, where the water drops a height of 240 cubits and the spray flies forty li — a turbulence in which, as Legge has it, "no tortoise, gavial, fish, or turtle could play." The man surfaces, walks along the bank singing, his hair dishevelled. Asked how, he says he has no particular way.
 
-His answer, in Legge's translation: "I enter and go down with the water in the very centre of its whirl, and come up again with it when it whirls the other way. I follow the way of the water, and do nothing contrary to it of myself - this is how I tread it" ([Zhuangzi, The Full Understanding of Life, Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). And to Confucius's follow-up: "I was born among these hills and lived contented among them - that is why I say that I have trod this water from my earliest time. I grew up by it, and have been happy treading it - that is why I said that to tread it had become natural to me. I know not how I do it, and yet I do it - that is why I say that my success is as sure as fate" ([Zhuangzi, The Full Understanding of Life, Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
+His answer, in Legge's translation: "I enter and go down with the water in the very centre of its whirl, and come up again with it when it whirls the other way. I follow the way of the water, and do nothing contrary to it of myself - this is how I tread it" ([Zhuangzi, The Full Understanding of Life, Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). And to Confucius's follow-up: "I was born among these hills and lived contented among them - that was why I say that I have trod this water from my earliest time. I grew up by it, and have been happy treading it - that is why I said that to tread it had become natural to me. I know not how I do it, and yet I do it - that is why I say that my success is as sure as fate" ([Zhuangzi, The Full Understanding of Life, Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
 
-My reading: the swimmer does not fight the fall or cling to the bank. His skill is a relationship with a force that would kill anyone who opposed it — "I follow the way of the water, and do nothing contrary to it of myself."
+My reading: the swimmer does not fight the fall or cling to the bank. His skill is a relationship with a force that would kill anyone who opposed it — "I follow the way of the water, and do nothing contrary to it of myself - this is how I tread it."
 
 **Principles:**
 - [[D037 — Empty the heart-mind (xuxin)|D037 Empty the heart-mind (xuxin)]]: no justification — the passage does not speak of emptying the heart-mind; retain/remove routed to the supervisor.

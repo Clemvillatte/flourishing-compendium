@@ -34,7 +34,7 @@ In Legge's translation: "When Zhongni was on his way to Chu, as he issued from a
 
 And Confucius's summary: "Confucius looked round, and said to his disciples, '"Where the will is not diverted from its object, the spirit is concentrated" - this might have been spoken of this hunchback gentleman'" ([Zhuangzi, The Full Understanding of Life, Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
 
-My reading: the story links stillness and skill directly. What looks like a talent for catching is described, in the hunchback's own account, as the absence of everything irrelevant: "Great as heaven and earth are, and multitudinous as things are, I take no notice of them, but only of the wings of my cicadas."
+My reading: the story links stillness and skill directly. What looks like a talent for catching is described, in the hunchback's own account, as the absence of everything irrelevant: "Great as heaven and earth are, and multitudinous as things are, I take no notice of them, but only of the wings of my cicadas; neither turning nor inclining to one side."
 
 **Principles:**
 - [[D055 — Don't force|D055 Don't force]]: no justification — the passage's method is graded practice, not the avoidance of forcing; retain/remove routed to the supervisor.

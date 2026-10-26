@@ -874,3 +874,23 @@ this and future entries are generated directly from date -u at write time,
 and the earlier "~"-estimated times in this file should be treated as
 unreliable (see the correction entry at T+33:59 with the actual clock
 readings).
+
+2026-10-26T00:51:58Z storyteller-pplx-s1a-1026b: T+47 VERIFICATION PASS (quote-vs-carrier audit)
+re-downloaded the METIS Legge PDF and extracted its text layer locally
+(pdftotext), then diffed every Zhuangzi quote in s1a-076..095 against the
+carrier with page-number lines removed. Found and fixed 9 divergences:
+ST018 (s1a-087) "that is why" -> carrier "that was why" (first instance),
+and its My-reading fragment extended to the full clause "- this is how I
+tread it."; ST010 (s1a-089) My-reading fragment extended to the sentence
+end "...see it for yourself?"; ST024 (s1a-084) missing final period
+restored; ST003 (s1a-079) "oak-tree" -> carrier "oaktree", missing final
+periods restored (2); ST025 (s1a-085) My-reading quote extended past the
+semicolon to "neither turning nor inclining to one side."; ST019 (s1a-081)
+"pre-occupation" -> carrier "preoccupation" (that instance); ST026 (s1a-086)
+"Heaven-given" -> carrier "Heavengiven" (text-layer artifact, matched as
+opened), missing final period restored. All other quotes verified verbatim.
+story_check re-run on all 20 drafts: 0 errors. QC note: the earlier
+in-session quote verifications relied on fetch results that were not
+persisted; this pass re-established every Zhuangzi quote against a fresh
+download, so the QC notes' "verified against the PDF as opened" claims now
+have a persisted basis.
