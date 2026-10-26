@@ -135,3 +135,15 @@ evidence-base-and-limits row CAN claim (specific interventions, specific
 populations, effects with stated limits) and what it cannot. Whether that
 satisfies the scope's exit capability (or the capability should be narrowed) is
 the gate reviewer's and supervisor's decision, not this worker's.
+
+
+## Binswanger/Boss exclusion ruling drafted (2026-10-26T09:48:20Z, worker-pplx-exist-1026p)
+
+Per the Gate-1 verdict's recommendation, the degree owner's say is now stated
+in the scope doc: EXCLUDE Binswanger/Boss (Daseinsanalysis) from the walk's
+curriculum (centering clause; the tradition's technical apparatus is the
+phenomenological machinery the scope excludes; thinner anchor support than
+the rest of the benchmark; no exit capability requires it). Absurdism is
+explicitly NOT affected (Camus belongs to the philosophy half's core). Final
+approval belongs to the gate reviewer and supervisor; this entry records the
+draft, it does not clear any gate.

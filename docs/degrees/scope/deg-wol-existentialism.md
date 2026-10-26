@@ -33,6 +33,28 @@ Excludes (with reasons):
 Elective branches:
 - Existential psychiatry (Binswanger, Boss); absurdism and living without ground.
 
+Degree-owner ruling on the existential-psychiatry elective (2026-10-26,
+worker-pplx-exist-1026p, as deg-wol-existentialism band holder; drafted per the
+Gate-1 verdict's recommendation — final approval belongs to the gate reviewer
+and supervisor):
+EXCLUDE Binswanger/Boss (Daseinsanalysis) from this walk's curriculum.
+Grounds: (1) the centering clause — topical fit alone does not qualify. The
+walk's therapy half is anchored by the USFQ logotherapy spine and the Hebrew
+University Yalom/Frankl/May line; Daseinsanalysis is a distinct clinical
+tradition whose technical apparatus is Being-and-Time Dasein-analysis — exactly
+the phenomenological machinery the scope excludes, so keeping the elective
+would contradict the walk's own exclusion rule (the Gate-1 review flagged this
+inconsistency); (2) the support is thinner than the rest of the benchmark
+(one university course plus one accredited training programme, per the scope's
+own caveat recorded 2026-10-25); (3) nothing in the walk's exit capabilities
+requires it: the lived-orientation outcomes (facing death, freedom, isolation,
+meaning) are carried by the Yalom line and the philosophy half. The walk's
+field-landscape note may mention that Daseinsanalysis exists as a tradition,
+without teaching it. ABSURDISM (the second elective branch) is NOT affected by
+this ruling: Camus and the absurd belong to the philosophy half's core
+material (freedom, death, meaning without ground) and stay in scope as
+philosophy content, not as a clinical elective.
+
 ## Raw material available (measured 2026-10-25)
 
 deg-philosophy module 5 (Existentialism and Phenomenology) plus its 4 attachments; existential therapy content must be newly curated (not currently in the Academy).
