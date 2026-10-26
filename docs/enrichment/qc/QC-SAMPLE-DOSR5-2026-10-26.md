@@ -205,3 +205,46 @@ this section governs.
    documented/not-certified — see docs/enrichment/batches/dosr3.json), and
    the agency dossier paragraph now presents the Gould exchange as the
    reply's account rather than certifying Gould's side.
+
+# CORRECTIONS ROUND 2 (written 2026-10-26 02:34:58Z, measured in-command) — supersedes the round-1 corrections above where they disagree
+
+1. FINAL TALLY of the session's 10 examined automated quote checks: 7 confirmed
+   false positives, 2 real deviations repaired, 1 still outstanding.
+   - The round-1 '8 false positives' count is corrected: MMK 15.1-2 has since
+     been RESOLVED as a false positive by direct visual inspection — PDF
+     page 246 of the antilogicalism.com scan
+     (https://antilogicalism.com/wp-content/uploads/2017/07/mulamadhyamakakarika.pdf)
+     prints verse 1 exactly as quoted, and page 247 prints verse 2 exactly as
+     quoted ('Again, how could there be a self-nature that is made? Indeed, an
+     unmade self-nature is also non-contingent upon another.'). Both pages
+     were rendered to images and read this session.
+   - The outstanding check is Tversky and Kahneman 1974
+     (https://www.science.org/doi/10.1126/science.185.4157.1124): verified
+     against PubMed's abstract rendering (PMID 17835457,
+     https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=17835457&rettype=abstract&retmode=text),
+     which prints 'judgements' where the dossier carries 'judgments'; the
+     paper's own text was not opened. Remains outstanding, not certified.
+2. The three verdict samples (motivation Q1, freedom Q1, right-view Q1) are
+   TWO-SIDED QUOTE SPOT-CHECKS: quotations verified verbatim on both sides'
+   carriers (DKR https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=10589297&rettype=abstract&retmode=text
+   and Cameron https://pmc.ncbi.nlm.nih.gov/articles/PMC2731358/; Constant
+   https://archive.org/download/benjamin-constant-the-liberty-of-the-ancients-compared-with-that-of-the-moderns-1820/Benjamin%20Constant%20-%20The%20Liberty%20of%20the%20Ancients%20compared%20with%20that%20of%20the%20Moderns%20%5B1820%5D_djvu.txt
+   and Rousseau https://www.gutenberg.org/files/46333/46333-h/46333-h.htm;
+   MN 60 https://www.accesstoinsight.org/tipitaka/mn/mn.060.than.html and DN 2
+   https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html). They are
+   NOT independent certifications of the verdicts' argument structure, and
+   the earlier 'PASS CONFIRMED' phrasing in this report is superseded by
+   this wording. On motivation, Cameron's 'not harmful' conclusion carries
+   the low-interest-task condition; whether the two meta-analyses' conditions
+   fully overlap was not reconciled this session.
+3. Superseded by this section: the round-1 corrections' count in item 1
+   ('8 false positives'), the sample entries' 'PASS verdict CONFIRMED'
+   phrasing, and the original entries' broad confirmations, which readers
+   should not take as current findings. Round-1 items 2, 3 (T&K withdrawal),
+   5 (Lavie visual certification), 6 (sample scope + motivation nuance) and 7
+   (commit-time references) remain in force.
+4. No-paywall resolution: the Gould DOI link in agency.md redirected to the
+   paywalled doi.apa.org destination (verified by header inspection this
+   session), so it was removed from the published paragraph and retained as
+   a bibliographic record in docs/enrichment/batches/dosr3.json; the open
+   reply carrier remains cited in the dossier.
