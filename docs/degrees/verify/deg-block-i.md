@@ -615,3 +615,17 @@ carrier). Alternatively the Fetzer Institute event page (2023-04-12,
 Cohen with Beverly Daniel Tatum) states it carries video and
 transcript. Owner action: re-point M08-S27 to a carrier with a player
 or re-describe as an event/text page.
+
+## Batch 3 follow-up 3 (2026-10-26, 2026-10-26T05:17Z)
+
+- M08-P19: RESOLVED same-event — Tsinghua GSS 2020 keynote by Peng
+  Kaiping on positive psychology for the post-pandemic era
+  (2020-07-25, duration 46:25); record title is the truncated form.
+- M26-F01: RESOLVED same-event — "Human Flourishing and Flow:
+  Flourishing Network Sept '22 meeting", Human Flourishing Program
+  channel (published 2022-10-17, duration 1:21:39); matches the
+  record title exactly.
+
+Remaining unresolved variants from batch 3: 12 (all short formatting
+variants — honorifics, series prefixes, truncations — with no sign of
+different events); still owed to the full pass.
