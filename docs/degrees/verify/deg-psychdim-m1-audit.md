@@ -2,17 +2,18 @@
 
 Verifier: verifier-96108df3, `deg-verify-b`, 2026-10-26.
 Target: `modules/deg-psychdim/m1-orientation.md` at owner commit
-`2797000ea`, with subsequent recheck through `f9f1003c0`. This is a
+`2797000ea`, with subsequent rechecks through `fad50cb03`. This is a
 read-only audit of the owner's teaching file:
 no module edits, gate changes or publication clearance.
 
 ## Disposition
 
 The four attached texts are anonymously accessible and their identities
-match the links. Access is not enough to establish that every claim in
-them is safe to teach: M1 needs the bounded statistical and framing
-repairs below before I would recommend its research-literacy teaching.
-The source-specific grounds are recorded beside each finding.
+match the links. The original two high-priority statistical defects
+were repaired by `fad50cb03`: the Noba correction and the explicit
+rejection of overlap-as-test are now present. The findings below retain
+the audit trail; current residuals are distinguished in the latest
+recheck at the end. This source audit does not clear the module.
 
 ## M1-V01: Required Noba text needs a statistical correction or a narrower assignment
 
@@ -278,6 +279,52 @@ Advisor QC independently corroborated the two statistical findings
 and the bounded framing repairs; its numerical-reproduction advice
 was applied above. No new course topic or extra student statistics
 reading is requested.
+
+## Recheck after owner commit fad50cb03
+
+- **M1-V01, statistical correction present:** Step 3 now supplies
+  the model-conditional p-value definition, rejects chance/hypothesis
+  probability interpretations, distinguishes effect size and
+  importance, and tells learners to read the vocabulary entry with
+  the correction. This addresses the high-priority assignment risk;
+  it does not make the original Noba sentences correct
+  ([ASA principles](https://www.stat.berkeley.edu/~aldous/Real_World/ASA_statement.pdf)).
+- **M1-V02, interval repair present:** the worked example explicitly
+  states that overlap cannot establish the authors' conclusion,
+  requires a direct comparison, and leaves the time trend open. The
+  rubric rejects deferring to the overlap shortcut. The earlier
+  high-priority interpretation defect is addressed
+  ([interval boundary](https://pmc.ncbi.nlm.nih.gov/articles/PMC4877414/)).
+- **M1-V03, main qualifiers present:** wave counts and the
+  between-persons finding are included. Two small wording repairs
+  remain recommended: change “later studies ... manipulate
+  motivation” to “Study 4 manipulates motivational framing”, since
+  Studies 2 and 3 are not randomised motivation interventions;
+  replace “solid on this sample” with a model-conditional positive
+  association rather than treating interval exclusion of zero as
+  protection from bias or a measure of practical importance
+  ([study designs](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/);
+  [statistical limits](https://pmc.ncbi.nlm.nih.gov/articles/PMC4877414/)).
+- **M1-V04, substantial qualification present:** the opening now
+  labels the map a proposal rather than a promise, rejects diagnosis
+  and exhaustiveness, and notes circumstances may resist change.
+  For the last refinement, replace “knowing which process is doing
+  the work” with “asking which processes and circumstances may be
+  involved”: naming a dimension does not identify an individual's
+  causal mechanism
+  ([framework boundaries](https://pmc.ncbi.nlm.nih.gov/articles/PMC11303929/)).
+- **M1-V05, original unsupported claims removed:** guaranteed
+  per-run improvement and endorphin explanation are no longer
+  assigned. No added exercise-neuroscience source is requested.
+- **M1-V06, arithmetic clarification still open:** the exact
+  required Woolley excerpt and its place in the reading budget
+  need reconciling. This is an instructional workload check, not a
+  defect in the primary article.
+
+The two high-priority findings should no longer be reported as
+unrepaired in a handoff. Remaining recommendations are bounded
+wording, metadata and workload work for the production owner; none
+authorises this verifier to edit the owner's module or clear gates.
 
 ## Next check
 

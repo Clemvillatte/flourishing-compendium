@@ -532,3 +532,84 @@ credentials are checked separately from article affiliations.
   identity, bounded content and independent co-author
   credential checked. Conditional replacement for a weaker
   affect reading, not an instruction to add another one.
+
+## PD-V11: Existing M6 meta-review candidate, not sixty independent causal confirmations
+
+- **Opened:** 2026-10-26, verifier-96108df3. This is verification
+  of the owner's proposed M6 addition in the ledger, not a newly
+  expanded resource pool. Search, complete unprompted fetch of
+  the publicly hosted
+  [accepted manuscript](https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta.pdf),
+  then separate checks of the
+  [publisher's DOI page](https://doi.org/10.1037/bul0000385),
+  [Crossref metadata](https://api.crossref.org/works/10.1037/bul0000385)
+  and
+  [ANU publication record](https://researchportalplus.anu.edu.au/en/publications/we-know-this-much-is-meta-analytically-true-a-meta-review-of-meta/).
+- **Identity and year repair:** Richard M. Ryan, Jasper J.
+  Duineveld, Stefano I. Di Domenico, William S. Ryan, Ben A.
+  Steward and Emma L. Bradshaw, *We know this much is
+  (meta-analytically) true: A meta-review of meta-analytic findings
+  evaluating self-determination theory*, Psychological Bulletin
+  148(11–12), 813–842, DOI 10.1037/bul0000385. The publisher,
+  Crossref and ANU cite **2022**; the ACU repository labels
+  its record 2023. Use the publisher's 2022 citation for the
+  curriculum and explain the discrepancy if retaining an
+  alternate date. A 2023 PDF filename is not publication
+  evidence
+  ([publisher](https://doi.org/10.1037/bul0000385);
+  [Crossref](https://api.crossref.org/works/10.1037/bul0000385);
+  [ACU record](https://acuresearchbank.acu.edu.au/items/a009bba3-50a8-45cf-9698-8e657612a34f)).
+- **Access and version:** the full accepted manuscript is
+  public without login or payment, but is expressly not the
+  copy of record. Do not label the PDF as the published
+  version or rehost it as though it carried a permissive
+  licence. Link the author-hosted copy and cite the published
+  article; this record reproduces no long passages
+  ([manuscript header](https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta.pdf)).
+- **Credentials:** Richard Ryan's independent
+  [Rochester profile](https://www.sas.rochester.edu/psy/people/faculty/ryan_richard/index.html)
+  was opened for PD-V09. His role as co-developer of SDT
+  gives relevant expertise; it does not make a review of
+  his own framework an independent adjudication of every
+  competing theory.
+- **Content checked:** Method's search, eligibility,
+  extraction and transparency sections; Summary and
+  Conclusions, including *Heterogeneity in Effect Sizes*
+  and *Additional Limitations*. The authors identify 60
+  eligible review articles, 58 published, and describe a
+  narrative synthesis of their meta-analytic findings;
+  the review was not preregistered
+  ([methods and conclusions](https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta.pdf)).
+- **Key boundary:** this is not one new pooled causal effect
+  of SDT on flourishing. The conclusions explicitly note the
+  typical reliance on cross-sectional datasets, alongside a
+  smaller intervention and longitudinal literature, substantial
+  heterogeneity, English-only eligibility and regional gaps.
+  A recent synthesis does not make all its primary data recent
+  ([limitations](https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta.pdf)).
+- **Counting caution:** 60 review articles are not 60
+  independent experiments or 60 nonoverlapping primary
+  datasets. The article notes repeated entries across its
+  theory/domain tables. Do not sum review sample sizes
+  or describe every proposition as separately confirmed
+  without inspecting the underlying overlaps
+  ([study selection and tables discussion](https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta.pdf)).
+- **Finite assignment recommendation:** if the owner keeps
+  this candidate, use the opening three paragraphs of
+  *Summary and Conclusions*, then *Heterogeneity in Effect
+  Sizes* and *Additional Limitations*. Do not assign the
+  full 30-page published review or all six mini-theory
+  catalogues merely to add research weight
+  ([selected material](https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta.pdf)).
+- **Walk of Life fit:** a bounded proposed task asks what a
+  general association between need support and wellness
+  can suggest about one constrained commitment, and what
+  it cannot establish about this person's next choice.
+  Keep social support and circumstances visible rather
+  than turning autonomy into another duty to self-optimise.
+  This is an instructional proposal, not a tested exercise.
+- **Status:** identity, public accepted-version access,
+  specified content, date discrepancy and independent
+  credential checked. Conditional existing candidate,
+  not a new core requirement; no claim-level endorsement
+  of every underlying meta-analysis and no gate clearance.
