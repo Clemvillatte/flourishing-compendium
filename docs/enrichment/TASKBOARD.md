@@ -4062,11 +4062,11 @@ pair (reconciliation convention: better-repaired copy), removes the other
 (file + _order.json + structure line + re-points backlinks), and re-checks the
 guard against same-batch double registration. Ordinary workers/storytellers:
 leave story pages untouched.
-## Lavie 2005 follow-up result — 2026-10-26 00:26Z (worker-pplx-dosr2-1026a)
+## Lavie 2005 follow-up result — 2026-10-26 00:21Z (worker-pplx-dosr2-1026a; corrected to commit time)
 
 Resolution attempt for the flagged span: (1) sandbox curl to the labs.wsu.edu PDF returns 403; (2) the platform fetch crawler also returns a client-error (4xx) on the same URL; (3) Wayback availability API reports no archived snapshot of that PDF; (4) web search finds no alternative open full-text host — the article is an Elsevier (Trends in Cognitive Sciences) paywalled review and every open hit is a citation, not the text. FLAG PRESERVED, unresolved this pass: carrier reachability only, no discrepancy found. Next pass should try a browser route or wait for carrier recovery; do not count this span verified.
 
-## Verification checkpoint — 2026-10-26 00:29Z (worker-pplx-dosr2-1026a, band-close assurance)
+## Verification checkpoint — 2026-10-26 00:22Z (worker-pplx-dosr2-1026a, band-close assurance; corrected to commit time)
 
 dosr2 close assurance, completing the set for all four of my band's dossiers:
 - dossier_check.py: right-mindfulness, right-view, freedom, right-concentration all EXIT 0.
@@ -4074,10 +4074,11 @@ dosr2 close assurance, completing the set for all four of my band's dossiers:
 - Quote sample, right-view (3/3 VERBATIM, same method): MN 60 "Because there actually is the next world... is his right view"; DN 2 Ajita "there is nothing given, nothing offered, nothing sacrificed... no spontaneously reborn beings"; DN 2 "With the break-up of the body, the wise and the foolish alike are annihilated, destroyed".
 All four dosr2 dossiers now have both the full-read substantiation review (batches/dosr2.json) and an independent raw-carrier quote sample this session.
 
-## Routed flag resolved — 2026-10-26 00:33Z (worker-pplx-dosr2-1026a)
+## Routed flag resolved — 2026-10-26 00:23Z (worker-pplx-dosr2-1026a; corrected to commit time)
 
 QC-disclosure item (worker-pplx-dossiers-1025bb, 2026-10-25 11:17Z): "the antilogicalism PDF's translation attribution was not verified" for right-view's MMK 15.1-2 quote. RESOLVED this pass: fetched the antilogicalism.com PDF (20.5 MB scan) and confirmed (1) it is Kalupahana's translation — title page "MULAMADHYAMAKAKARIKA OF NAGARJUNA... DAVID J. KALUPAHANA", SUNY 1986 / Motilal Banarsidass reprint; (2) verse XV.1 wording matches the dossier quote ("The occurrence of self-nature through causes and conditions is not proper. Self-nature that has occurred as a result of causes and conditions would be something that is made.") and XV.2 likewise ("how could there be a self-nature that is made? Indeed, an unmade self-nature is also non-contingent upon another."), with Kalupahana's own commentary quoting XV.2 verbatim; (3) the match is modulo OCR noise (the scan's pdftotext is mangled — e.g. "Sclf-narure", "auscs" — so the check is a corrected-reading match, not a raw substring pass; noted honestly). The dossier's citation stands as written; no edit needed. The same disclosure's other item (archive.org span mislabel) referred to a ledger note, not the dossier; the dossier itself cites the Kathavatthu I.1 carrier correctly.
 
+<<<<<<< HEAD
 
 ## Verification checkpoint — 2026-10-26 01:06Z (worker-pplx-verify-1026a, audit baton; Lane 4, sample 2)
 
@@ -4108,3 +4109,13 @@ Running total for the registration batch: 10 of 40 new pages + ST004 sampled,
 all pass. Remaining unsampled new pages: ST411-430 (minus 413/415/417/420),
 ST492-507 (minus 492/495/505), ST307 (done), ST369 (done), ST410 (done).
 (verification: registration-batch sample 2 (ST004/369/410/421/492) all verbatim — 10/40 pages sampled, all pass)
+=======
+## Verification checkpoint — 2026-10-26 00:24Z (worker-pplx-dosr1-1026a, Lane 4 — dosr1 band sample; clock-read stamp)
+
+Independent raw-carrier quote re-verification for the dosr1 four (all by curl/urllib + raw-text substring after tag-strip and quote-mark normalization):
+- frustration: Miller et al. 1941 span VERBATIM (psychclassics.yorku.ca raw); Bushman 2002 "doing nothing at all was more effective than venting anger" VERBATIM, sentence-initial capital on the carrier (umich PDF raw).
+- gratitude: Aristotle NE VIII.14 "no one could ever return to them the equivalent of what he gets" VERBATIM (classics.mit.edu raw); Seneca On Benefits I.1 discharge span and III.18 slave span and III.29/33 father-return spans VERBATIM (en.wikisource.org raw); Kant MM §32 both spans VERBATIM (debracollege.dspaces.org PDF — the second span needs letter-spacing normalization on that scan's extraction, wording exact).
+- right-effort: Oaten & Cheng 2006 span VERBATIM (PubMed eutils PMID 17032494); Miles et al. 2016 span VERBATIM (eprints.whiterose.ac.uk/107549 raw).
+- right-intention: Aristotle EN IV.5 "The man who is angry at the right things..." VERBATIM (classics.mit.edu raw); Epicurus Menoeceus span VERBATIM (classics.mit.edu raw); SN 42.3 warrior span VERBATIM (suttacentral bilara API raw text — the HTML page is JS-rendered, the API is the raw carrier).
+All four dosr1 dossiers now have both the full-read substantiation review and an independent fresh-carrier quote sample this session. No edits needed anywhere.
+>>>>>>> 60a1116fd (verification: dosr1 band quote sample — all four dossiers verified on fresh raw carriers (Miller/Bushman; Aristotle/Seneca I.1+III/Kant; Oaten-Cheng/Miles; Aristotle/SN42.3/Epicurus); TASKBOARD checkpoint with carriers and spans)
