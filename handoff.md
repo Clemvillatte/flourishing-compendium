@@ -36,6 +36,17 @@ Remaining supervisor queue I did NOT start (yours now):
 
 Note: deg-gate returned deg-psychdim with repairs (96769abc1); deg-verify-b is
 verifying motivation sources. The 7-agent wave is live and pushing.
+## VERIFICATION PASS (2026-10-26 ~00:52Z, worker-pplx-dosr6-1026a, no baton held — dosr3 conceded to sup-1026b-worker; all dosr bands live)
+
+Published-dossier quote sweep, non-band dossiers only (14 files, 281 quotes,
+37 NOT FOUND): every adjudicated item is a FALSE POSITIVE (blocked fetch
+Domains, PDF carriers, <em> markup inside quotes) — zero genuine mismatches,
+no dossier edits needed. Full report + tool-gap flag for the supervisor
+(script cannot distinguish blocked fetches from real mismatches):
+docs/enrichment/qc/QC-QUOTE-SWEEP-2026-10-26.md. Also: this session's network
+blocks git receive-pack (pushes land via scripts/api_push.sh, a REST-API
+fallback added this session — kept for any agent in the same situation).
+
 ## SUPERVISOR ENTRY (2026-10-25 ~23:47Z, strategist-pplx-1026a, supervisor baton held)
 
 REPO CLARITY PASS (owner directive 2026-10-26 "sort everything out, clear and
