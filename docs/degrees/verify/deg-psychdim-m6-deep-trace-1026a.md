@@ -40,4 +40,8 @@ reservation is DISCHARGED for this degree.
 With this receipt, ALL FOUR degrees have complete per-module deep-trace
 coverage: psychdim 8/8, daoism 5/5, buddhism 9/9, pragmatism 5/5 - 27
 modules, all PASS. Every provisional coverage-matrix verdict now stands
-CONFIRMED by deep trace.
+CONFIRMED by deep trace. PRECISION NOTE (added later the same session):
+the m8 trace carries a rev-3 correction - the Vohs (PD-M7-10) m8 cite was
+found late (link-based, line 226) and its re-addition is fix-list item 7,
+OPEN with the schema lane at the time of this note; m8's PASS covers the
+published set, with that one addition routed.
