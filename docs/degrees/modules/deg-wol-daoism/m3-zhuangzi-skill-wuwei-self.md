@@ -1,4 +1,4 @@
-# m3 — The Zhuangzi: skill, wu wei and losing the self
+# m3: The Zhuangzi: skill, wu wei and losing the self
 
 **Level**: L2 Guided application (same level as m2; the Zhuangzi
 readings are harder than the Daodejing readings but the module keeps
@@ -9,7 +9,7 @@ demonstration, and rubric-scored deliverables).
 competencies required: the learner has already read the Daodejing
 in a guided way (m2), can quote a chapter and distinguish what a
 passage says from an application they propose (m2 Outcome 2), and
-has met the term wu wei at the orientation level (m1 Outcome 3).
+has met the term wu wei at the orientation level (m1 Outcome 2).
 **Total time budget**: about 2 hours 33 minutes (153 minutes of
 labelled components; arithmetic below).
 **Primary text**: the [Eno Zhuangzi Inner Chapters
@@ -129,7 +129,7 @@ On completing this module the learner can:
 
 ## Steps
 
-### Step 1 — Read Cook Ding (about 19 minutes estimated on the
+### Step 1: Read Cook Ding (about 19 minutes estimated on the
 primary text with the three-times study multiplier; about 6 minutes
 20 seconds raw on two readings of the 413-word story)
 
@@ -157,7 +157,7 @@ this one belongs to and calls them the "knack passages," is
 available in the same document but is not part of the assigned
 reading time.
 
-### Step 2 — Worked demonstration: what the story says versus what
+### Step 2: Worked demonstration: what the story says versus what
 it does not (reading time included in the module-prose allowance
 above, not additional)
 
@@ -206,7 +206,7 @@ Not every moment of self-monitoring should be reduced. In the
 graded deliverable you will make this call on one situation of
 your own, with a limit you would keep.
 
-### Step 3 — Read the Hunchback and the Butterfly Dream (about 12
+### Step 3: Read the Hunchback and the Butterfly Dream (about 12
 minutes estimated on the primary text with the three-times study
 multiplier; about 4 minutes raw on two readings of the Hunchback
 plus one reading of the Butterfly Dream)
@@ -234,7 +234,7 @@ divided perspective is a gain, a problem or neither. That
 question is yours to answer in deliverable c, with the passage in
 front of you.
 
-### Step 4 — Watch the assigned video segments (about 5
+### Step 4: Watch the assigned video segments (about 5
 minutes 22 seconds measured on the assigned segments)
 
 Watch Ziporyn's segment "Highest virtue is without virtue:
@@ -251,7 +251,7 @@ of mastery and effortlessness match what the assigned Zhuangzi
 passages actually say? You will answer this in the graded
 deliverable.
 
-### Step 5 — Retrieval activities (about 20 minutes, estimate;
+### Step 5: Retrieval activities (about 20 minutes, estimate;
 about 5 minutes each)
 
 1. Without looking back at the module page, write the Zhuangzi
@@ -280,7 +280,7 @@ about 5 minutes each)
    passage does not say. You will do this again, graded, in
    deliverable b.
 
-### Step 6 — Graded deliverables (about 50 minutes)
+### Step 6: Graded deliverables (about 50 minutes)
 
 **Deliverable a (about 25 minutes).** Choose one situation from
 your own life in which you are competent. Describe the activity.
@@ -295,6 +295,9 @@ Then:
 - State whether self-monitoring in this situation creates
   avoidable strain, or whether it is doing necessary work. Give
   your reason.
+- State whether a "loss of self" reading of the story is warranted
+  for your situation or not, with your reason; the outcome is the
+  stated judgment, not a particular answer.
 - Either propose one bounded change you would make to the
   self-monitoring, or state a reasoned decision not to change
   it. Name any limit you would keep either way.
@@ -340,7 +343,7 @@ your situation in deliverable a and why. Agreement with the
 module's description is not the pass condition; passage-based
 reasoning is.
 
-### Step 7 — Self-assessment and feedback (about 5 minutes)
+### Step 7: Self-assessment and feedback (about 5 minutes)
 
 Before submitting, re-read the rubric below. Check each
 criterion against your own draft. Revise anything you find weak.
@@ -356,7 +359,7 @@ Graded by rubric. Each criterion is scored Pass or Revise.
 | 2. The learner identifies the training detail in the story as distinct from the state it produces | The learner points to the Hunchback's months of balancing balls or Cook Ding's account of his progression from seeing the whole carcass at the beginning to no longer seeing it whole after three years, and states that the story gives both a training history and a description of the resulting state, and that these are different things. | The learner treats the story as though it prescribed effortlessness directly, or as though the state it describes could be had without the training, or cites Cook Ding's nineteen years with the knife as a stated preparation period. |
 | 3. The learner checks Ziporyn's gloss against Cook Ding or the Hunchback | The learner takes Ziporyn's mastery-without-awareness line, finds the closest sentence in Cook Ding (section 3.2) or the Hunchback (section A.1), quotes it, and states whether the gloss adds something the sentence does not say. The learner also identifies a training detail in that same passage, distinguishes the training history from the resulting state, and explains why neither supplies a universal training prescription. The learner names the addition rather than saying vaguely that the gloss "captures the spirit." | The learner accepts the gloss without checking it against a passage, or checks it but does not name what the gloss adds, or treats the story as prescribing effortlessness directly. |
 | 4. The learner engages the inside-view versus puzzle-frame comparison with passage evidence | The learner supports or challenges the module's comparison of the Hunchback (performer's inside view) and the Butterfly Dream (puzzle about which state is real) with quoted evidence from both passages, and says which framing they find more useful and why. Agreement with the module's description is not required; evidence is. | The learner treats the two passages as interchangeable, or describes only one of them, or asserts the comparison without quoting either passage. |
-| 5. The learner makes a reasoned application to their own situation | The learner describes a concrete situation from their own life, describes any change in self-monitoring (including no change), gives a reason for calling that self-monitoring avoidable strain or useful vigilance in that situation, and either proposes a bounded change or gives a reasoned decision not to change, naming a limit they would keep. The learner also states what the passage cannot establish about their situation. | The learner quotes a passage and separates it from their application but never makes the strain-versus-vigilance call, or makes the call without a reason, or proposes a change with no limit. |
+| 5. The learner makes a reasoned application to their own situation | The learner describes a concrete situation from their own life, describes any change in self-monitoring (including no change), gives a reason for calling that self-monitoring avoidable strain or useful vigilance in that situation, states whether a "loss of self" reading of the story is warranted for that situation or not, and either proposes a bounded change or gives a reasoned decision not to change, naming a limit they would keep. The learner also states what the passage cannot establish about their situation. | The learner quotes a passage and separates it from their application but never makes the strain-versus-vigilance call, or makes the call without a reason, or proposes a change with no limit. |
 
 Strong example for criterion 1: "The Hunchback says, 'No matter
 how huge heaven and earth or how numerous the myriad things, I
@@ -394,23 +397,23 @@ teaching the assigned passages do not state in those words.
   with new concepts) about 10 minutes raw; with study overhead
   as a three-times multiplier, about 30 minutes (estimate,
   labelled).
-- Module teaching prose on this page (2,570 words measured,
-  excluding the rubric table rows, counting the step text and the
-  worked demonstration the learner reads): at 180 words per minute
-  about 14 minutes 20 seconds raw; with study overhead as a
-  three-times multiplier, about 43 minutes (estimate, labelled).
+- Module teaching prose on this page (measured as whitespace tokens
+  from "What this module is for" through the end of the Rubric,
+  table rows excluded: 2670 words): at 180 words per minute
+  about 14 minutes 50 seconds raw; with study overhead as a
+  three-times multiplier, about 45 minutes (estimate, labelled).
 - Retrieval activities 1, 2, 3 and 4: about 20 minutes (estimate;
   about 5 minutes each).
-- Graded deliverables: about 50 minutes (per-deliverable allowances above: contrast-and-
-  application deliverable about 25 minutes, gloss-check
+- Graded deliverables: about 50 minutes (per-deliverable allowances above: deliverable a
+  about 25 minutes, gloss-check
   deliverable about 15 minutes, chapter-check deliverable about
   10 minutes).
 - Self-assessment and feedback step: about 5 minutes.
 
-Total: about 2 hours 33 minutes (about 153 minutes of labelled
+Total: about 2 hours 35 minutes (about 155 minutes of labelled
 components: about 5 minutes 22 seconds measured assigned video,
 30 estimated primary-text reading with the three-times study
-multiplier, 43 estimated module-prose reading with the three-times
+multiplier, 45 estimated module-prose reading with the three-times
 study multiplier, 20 retrieval, 50 graded, 5 self-assessment).
 
 ## Verification status of attached sources
