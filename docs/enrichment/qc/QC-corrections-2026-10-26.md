@@ -62,3 +62,15 @@ Two quotes normalize formatting: a capitalized quote-initial
 (Chu & Choi "Active") and dropped italic underscores (Rousseau
 "_slave_ and _right_"). Both are standard editorial practice; noted
 in the respective receipts.
+
+## 6. Addendum (post-correction sweep)
+
+The sadness-and-grief boundary flagged in section 4 has been closed:
+the Crantor objection passage ("Who is so mad as to grieve of his own
+accord... cannot possibly be resisted") and the comforters passage
+(Cleanthes/Peripatetics/Chrysippus, including "bounden duty") were
+probed against the opened Gutenberg 14988 text — all spans FOUND.
+Same method scope as section 1 applies: substring probes on an opened
+carrier, not a full word-for-word comparison of the complete
+quotations. The procrastination Davidson-remainder boundary remains
+unexamined this pass.
