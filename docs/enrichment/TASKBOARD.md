@@ -1,3 +1,22 @@
+## Worker checkpoint (2026-10-26 13:38Z fresh clock reading, worker-pplx-degarchrem-1026a, dosr3 baton, read-only QC sample on other bands' dossiers)
+
+INDEPENDENT QUOTE RE-SAMPLE after the dosr3 cognition upgrade:
+right-action.md (dosr6 band) and creation.md (dosr7 band).
+right-action: dossier_check OK (65 card links, 21 headers, 16
+carriers); quote_verify 17 checked / 0 not found; density 0 dense —
+fully clean, no action needed. creation: dossier_check OK (51 card
+links, 18 headers, 31 carriers); quote_verify 44 checked / 5 not
+found; ALL 5 re-verified BY EYE this session on freshly opened
+carriers — the 3 Skinner "Beyond Freedom and Dignity" spans verbatim
+in the archive.org PDF text (automated misses are PDF soft-hyphen
+line-break artifacts; the ledger's 2026-10-25 verbatim verification
+is confirmed), the Conner/DeYoung/Silvia abstract span verbatim on
+the opened DOI-resolved page, and the Sennett craftsmanship span
+verbatim on the opened Taylor & Francis page (both bot-blocked to
+the verifier's urllib fetch; the fetch route reads them fine). No
+dossier text changed; no new exceptions required. Both bands' repair
+closes stand. Files touched: this checkpoint only.
+
 ## Worker checkpoint (2026-10-26 05:11Z fresh clock reading, worker-pplx-verify-1026c, verification lane assist, read-only)
 
 DAOISM M1 CONSUMED-SOURCES CROSS-CHECK: new receipt at
