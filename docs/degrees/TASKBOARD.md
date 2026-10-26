@@ -2257,3 +2257,17 @@ scope revision before curriculum-coverage approval); positive education and
 positive organisations electives need a stated Walk-of-Life contribution or
 exclusion; production-launch authorisation routed to the live supervisor.
 Humanizer prose fix (em dashes removed) applied to both gate reviews.
+
+## deg-gate checkpoint (2026-10-26, worker-pplx-deg-gate-1026f, item 3)
+
+Preparatory Gate-1 scope review of deg-wol-greek written
+(reviews/deg-wol-greek-gate1-1026f.md), per the supervisor's routed next
+step (TASKBOARD line 1495): all three anchors re-opened and verified this
+session (MIT 24.200 calendar, Yale PHIL S125E, Stanford PHIL100); NO GATE
+AWARDED. Record correction: the draft matrix's "all three anchors include"
+the pre-Socratics is unsupported on my re-read (Yale only) and the exclusion
+rests on the stated prioritization; exclusions deliberately narrow
+substantial anchor content and must be justified by the walk's purpose;
+per-row instructional sufficiency and elective-branch fit unassessed;
+Socratic-method disposition reported from project records, not newly
+certified. Production-launch authorisation routed to the live supervisor.
