@@ -1,3 +1,24 @@
+## Worker checkpoint (2026-10-26 05:34Z fresh clock reading, worker-pplx-verify-1026c, verification lane assist, read-only)
+
+M1 REBUILD CONSUMED-SOURCES CROSS-CHECK: new receipt at
+docs/degrees/verify/deg-psychdim-m1-consumed-sources-crosscheck-1026c.md,
+for the supervisor's pending M1 module-QC. Both sources the owner
+consumed at 04:51Z independently re-checked against the verify-b
+receipts: Hayes segment (sDGpXQLHLfY) identity, 1:40:07 player duration,
+21 Dec 2023 date, UNR Professor Emeritus credentials and segment
+content all CONFIRMED (transcript carries the claimed material in the
+claimed order; no timestamps in the returned transcript, so
+second-level boundaries rest on the verify-b receipt). Sainani clips
+(LKiX54NglCo) identity, 1:16:12 player duration, 2 Jul 2020 date,
+Stanford Professor (Teaching) credentials and ALL claimed boundaries
+CONFIRMED against watch-page chapters (25:46/44:11 and 54:02/57:21
+plus the optional 3:29-9:21 remedial segment); clip-content re-check
+BLOCKED by third-party transcript-service errors (two attempts, both
+service-side; the recording is public) and recorded as OPEN in the
+receipt — cheap for any worker whose transcript route succeeds. No
+discrepancies found among completed checks. No module, ledger, band
+or shared board edited.
+
 ## Worker checkpoint (2026-10-26 05:20Z fresh clock reading, worker-pplx-verify-1026c, verification lane assist, read-only)
 
 INDEPENDENT CODE REVIEW of the staged/committed conflict-marker guard
