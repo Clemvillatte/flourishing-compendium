@@ -16668,7 +16668,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Aristotle asks a different question — what the return should be — and splits the answer by relationship: \"It is disputable whether we ought to measure a service by its utility to the receiver and make the return with a view to that, or by the benevolence of the giver.\" In friendships of utility, \"the advantage to the receiver is the measure\"; in friendships of virtue, \"the purpose of the doer\" is \"a sort of measure\" ([Aristotle, NE VIII.13, Ross trans.](http://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)). Seneca's measure is the giver's will; Aristotle's is the kind of relationship the exchange sits inside. Where the relationship is a friendship of virtue the two measures converge; where it is a friendship of utility the receiver's advantage governs. Whether the two measures can give opposed verdicts on the same act is a question the texts do not settle, and one an essay can take up."
+          "x": "Aristotle asks a different question, namely what the return should be, and splits the answer by relationship: \"It is disputable whether we ought to measure a service by its utility to the receiver and make the return with a view to that, or by the benevolence of the giver.\" In friendships of utility, \"the advantage to the receiver is the measure\"; in friendships of virtue, \"the purpose of the doer\" is \"a sort of measure\" ([Aristotle, NE VIII.13, Ross trans.](http://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)). Seneca's measure is the giver's will; Aristotle's is the kind of relationship the exchange sits inside. Where the relationship is a friendship of virtue the two measures converge; where it is a friendship of utility the receiver's advantage governs. Whether the two measures can give opposed verdicts on the same act is a question the texts do not settle, and one an essay can take up."
         },
         {
           "t": "h2",
@@ -16684,7 +16684,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The two accounts pull different parts of the act to the center. Seneca puts the acknowledgment at the heart of repayment — the benefit is honored by being owned and seen as goodwill. Aquinas puts the excess there — an equal return gives back what was received and adds nothing gratis. A grateful person can practice both, and the texts differ in which part each treats as the repayment itself."
+          "x": "The two accounts pull different parts of the act to the center. Seneca puts the acknowledgment at the heart of repayment: the benefit is honored by being owned and seen as goodwill. Aquinas puts the excess there: an equal return gives back what was received and adds nothing gratis. A grateful person can practice both, and the texts differ in which part each treats as the repayment itself."
         },
         {
           "t": "h2",
@@ -16716,7 +16716,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Aristotle denies that a child can return an equivalent for parental beneficence: toward gods and parents \"no one could ever return to them the equivalent of what he gets\" ([Aristotle, NE VIII.14, Ross trans.](http://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)). Seneca: \"The question arises, whether children can ever bestow upon their parents greater benefits than those which they have received from them,\" and his answer runs past equivalence to surplus — \"A father gives life to his son; there is something better than life; therefore a father may be outdone\" ([Seneca, On Benefits III.29, III.35, Stewart trans., Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_III))."
+          "x": "Aristotle denies that a child can return an equivalent for parental beneficence: toward gods and parents \"no one could ever return to them the equivalent of what he gets\" ([Aristotle, NE VIII.14, Ross trans.](http://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)). Seneca: \"The question arises, whether children can ever bestow upon their parents greater benefits than those which they have received from them,\" and his answer runs past equivalence to surplus: \"A father gives life to his son; there is something better than life; therefore a father may be outdone\" ([Seneca, On Benefits III.29, III.35, Stewart trans., Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_III))."
         },
         {
           "t": "p",
@@ -16752,11 +16752,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Seneca answers no: \"he who affirms that a slave does not sometimes confer a benefit upon his master is ignorant of the rights of man; for the question is, not what the station in life of the giver may be, but what his intentions are. The path of virtue is closed to no one... whether they be free-born men, slaves or freed-men, kings or exiles\" — therefore \"slaves can bestow benefits upon their masters\" ([Seneca, On Benefits III.18, Stewart trans., Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_III))."
+          "x": "Seneca answers no: \"he who affirms that a slave does not sometimes confer a benefit upon his master is ignorant of the rights of man; for the question is, not what the station in life of the giver may be, but what his intentions are. The path of virtue is closed to no one... whether they be free-born men, slaves or freed-men, kings or exiles\" and so \"slaves can bestow benefits upon their masters\" ([Seneca, On Benefits III.18, Stewart trans., Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_III))."
         },
         {
           "t": "p",
-          "x": "The noble morality Nietzsche describes in Beyond Good and Evil answers the other way: \"one has duties only to one's equals; that one may act towards beings of a lower rank... just as seems good to one... 'beyond good and evil'\" — \"the ability and obligation to exercise prolonged gratitude and prolonged revenge—both only within the circle of equals\" ([Nietzsche, BGE 260, Zimmern trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/4363/pg4363.txt)). On the same question — whether a benefit received from someone of lower rank creates a claim — the two texts give incompatible answers."
+          "x": "The noble morality Nietzsche describes in Beyond Good and Evil answers the other way: \"one has duties only to one's equals; that one may act towards beings of a lower rank... just as seems good to one... 'beyond good and evil'\" and \"the ability and obligation to exercise prolonged gratitude and prolonged revenge—both only within the circle of equals\" ([Nietzsche, BGE 260, Zimmern trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/4363/pg4363.txt)). On the same question — whether a benefit received from someone of lower rank creates a claim — the two texts give incompatible answers."
         },
         {
           "t": "p",
