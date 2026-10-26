@@ -3006,6 +3006,38 @@ consistent with the actual worked/completion/independent sequence.
 This is a bounded editorial pass, not an assertion of zero AI tells
 or a substitute for independent content/pedagogical review.
 
+### Source-navigation and precision audit, 05:32Z
+
+Reopened8sources and exact-string tested20reading locators across
+M4–M7: all tested current locators present, including SCC review
+headings, identity domain ending, SDT paragraph, regulation goals,
+Woolley exclusion/open-question paragraphs, Carden/Wood headings,
+four-stage opening and Lippelt boundary. Rechecked actual Table2
+PTSD/orienting association and under18 eligibility, both correct.
+Parent read the actual Wood/Berkman selected continuous transcripts,
+not merely metadata.
+
+One additional problem found: the drafted Bouton "Operant Conditioning"
+precision paragraph and negative-reinforcement locator are absent
+from that source. **Withdrawn**, replaced with actual Reinforcer/
+Punisher vocabulary entries plus the verifier's already checked
+Yale4 **33:49–36:11=2:22** supplement, after M3's stop. Parent
+reopened/read official Chapter5 transcript paragraph "There's two"
+through "remove the heavy collar." It supports the positive/negative
+reinforcement distinction. Negative-punishment example removed;
+new completion contrasts positive/negative reinforcement and
+increase/decrease punishment definition. No guess at additional timing.
+([Actual Bouton](https://nobaproject.com/modules/conditioning-and-learning);
+[official Yale transcript](https://oyc.yale.edu/psychology/psyc-110/lecture-4);
+[recording](https://www.youtube.com/watch?v=rCKK6r15fro).)
+
+Current watch-page fetch does not expose timed transcript lines;
+earlier independent verifier's timed receipt is retained, not
+misrepresented as a fresh parent timing/playback check. M7 current
+video total **15:40**, rounded study26min instead24; current M7
+**301min**; whole packet **2310min,38h30m**. README and band updated;
+earlier13:18/299/2308 totals superseded. Supervisor review still owed.
+
 M1 independent supervisor decision consumed at 05:02Z:
 `reviews/deg-psychdim-m1-supervisor-2026-10-26.md` records **MODULE-QC
 PASS** on production commit **cdb8f0939**, module SHA-256

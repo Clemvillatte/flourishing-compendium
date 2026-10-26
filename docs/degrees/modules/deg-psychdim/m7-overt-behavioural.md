@@ -38,7 +38,7 @@ By completion, you can:
 
 ## The finite source route
 
-Use these three windows, or their English transcripts:
+Use these four windows, or their English transcripts:
 
 - **Wendy Wood, Big Think/The Well:** [01:16–04:53](https://www.youtube.com/watch?v=Ywec1MbeQDk&t=76),
   **3:37**, friction, repetition and environment. The opening comments
@@ -55,6 +55,15 @@ Use these three windows, or their English transcripts:
   **8:18**, a historical expert account of ego depletion, publication
   selection and replication uncertainty. Recorded December 2019,
   it predates the 2021 test assigned below and is not a final verdict.
+- **Bloom, Yale lecture 4 supplement:**
+  [33:49–36:11](https://www.youtube.com/watch?v=rCKK6r15fro&t=2029),
+  **2:22**, the reinforcement distinctions beyond M3's earlier
+  31:18–33:49 introduction. Use the
+  [official Chapter 5 transcript](https://oyc.yale.edu/psychology/psyc-110/lecture-4)
+  as an alternative, concentrating on the paragraph beginning
+  "There's two" through "remove the heavy collar." Animal-training
+  examples illustrate terms; they do not prescribe what learners
+  should do to animals or people.
 
 USC identifies Wood's habit research, Oregon identifies Berkman's
 self-regulation research and Toronto identifies Inzlicht's self-control
@@ -66,12 +75,10 @@ do not replace the research reports
 
 Do not watch M3's introductory conditioning clips again as a requirement.
 Retrieve the stimulus/action distinction, check your answer in M3,
-and use this short precision reading:
+and use the precision supplement above. Keep these short companions:
 
-- **Bouton:** in "Operant Conditioning," the reinforcement/punishment
-  explanation and its positive/negative distinction only, not the full
-  module. Use the nearby examples to check whether behaviour increases
-  or decreases and whether an event is added or removed
+- **Bouton:** the Vocabulary entries "Reinforcer" and "Punisher,"
+  to check increase/decrease definitions, rather than the full module
   ([Noba](https://nobaproject.com/modules/conditioning-and-learning)).
 - **Carden and Wood, 2018:** the opening three paragraphs beginning
   "Habits form as people pursue goals"; under "Habits and effortless
@@ -153,9 +160,10 @@ course can illuminate context, not certify a newly established habit.
 Classical conditioning concerns learning relations between stimuli;
 operant conditioning concerns learning relations between action
 and consequences. Reinforcement increases subsequent behaviour;
-punishment decreases it. Positive/negative refer to adding/removing
-an event, not good/bad character
-([Bouton's explanation](https://nobaproject.com/modules/conditioning-and-learning)).
+punishment decreases it. For reinforcement, positive/negative refer
+to adding/removing an event, not good/bad character
+([Bouton's definitions](https://nobaproject.com/modules/conditioning-and-learning);
+[Bloom's positive/negative distinction](https://oyc.yale.edu/psychology/psyc-110/lecture-4)).
 
 Worked example: if silencing an irritating notification by opening an
 app makes that opening more frequent, removing the irritation is
@@ -165,8 +173,10 @@ and the contingency would need evidence.
 
 For completion practice, a pleasant acknowledgement follows a small
 task and the task becomes more frequent; in another fictional case,
-losing a privilege after an action makes that action less frequent.
-Feedback: possible positive reinforcement and negative punishment.
+removing an irritating sound after an action makes that action more
+frequent. Feedback: possible positive and negative reinforcement,
+respectively. If a consequence instead makes the action less frequent,
+the relevant definition is punishment.
 If frequency does not change as specified, the function cannot
 be inferred from the pleasantness of the event or the organiser's intent.
 Do not create punishment experiments for this course.
@@ -317,8 +327,8 @@ have acquired a "good habit" or demonstrated superior self-control.
 
 ## Workload and alignment
 
-Video: **3:37 +1:23 +8:18 = 13:18**; with ten minutes of pauses,
-allow **24 minutes** rounded up. Earlier M3 clips are retrieval,
+Video: **3:37 +1:23 +8:18 +2:22 = 15:40**; with ten minutes of pauses,
+allow **26 minutes** rounded up. Earlier M3 clips are retrieval,
 not a duplicate viewing requirement. Required reading is estimated
 **1,800–2,300 words** including tables/notes, at 130 words per minute
 with threefold study and navigation: **60 minutes**. Allow **40
@@ -326,7 +336,7 @@ minutes** for this lesson's teaching (about 2,200 words at 180 words
 per minute plus rereading), **40 minutes** guided practice/evidence
 cards, **30 minutes** diary time over three days, **15 minutes**
 delayed retrieval and **90 minutes** independent analysis/self-review.
-Total: **299 estimated active minutes**, about five hours, spread
+Total: **301 estimated active minutes**, about five hours, spread
 over at least three ordinary days. Missing observations are data
 limits, not a reason to invent entries.
 

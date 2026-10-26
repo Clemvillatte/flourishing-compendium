@@ -22,10 +22,10 @@ training or a comprehensive introductory psychology survey.
 | [M4: Attentional](m4-attentional.md) | L2 | Interpret attentional phenomena, laboratory contrasts and training evidence cautiously. | 265 min |
 | [M5: Self and identity](m5-self-and-identity.md) | L2 to L3 | Investigate a self-question, chart an identity domain and qualify measurement/trait accounts. | 300 min |
 | [M6: Motivational](m6-motivational.md) | L2 | Analyse own mixed motives, emotional aims and adherence evidence. | 256 min |
-| [M7: Overt behavioural](m7-overt-behavioural.md) | L2 to L3 | Keep a diary, compare contested findings and develop a revisable functional account. | 299 min |
+| [M7: Overt behavioural](m7-overt-behavioural.md) | L2 to L3 | Keep a diary, compare contested findings and develop a revisable functional account. | 301 min |
 | [M8: Integrative capstone](m8-integrative-capstone.md) | L4 | Design, execute and self-assess one safe real-life inquiry across all six dimensions. | 375 min |
 
-Total estimated active workload: **2,308 minutes, 38 hours 28 minutes**.
+Total estimated active workload: **2,310 minutes, 38 hours 30 minutes**.
 M7 includes records over at least three ordinary days; M8 usually
 spans 7–14 calendar days, but those days are not added to active
 workload. Prior observations and viewing are not counted twice.
