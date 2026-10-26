@@ -58,6 +58,10 @@ practica and viewport/console regressions. Fixtures live only in test memory.
 also checks source/discovery search, indirect addresses and normal, denied,
 quota-full, malformed and stale-progress storage at desktop/mobile widths.
 Learner progress never grants publication permission.
+`BASE_URL=http://127.0.0.1:8771/ node scripts/tests/academy-legacy-access.qa.cjs`
+exhaustively checks every existing legacy/practicum degree and module page,
+each module's back-to-degree control and the preserved legacy destination
+at desktop/mobile widths.
 
 Browser functional tests isolate **external decorative images only** using
 `qa-image-network.cjs`; local editorial images and all application content
