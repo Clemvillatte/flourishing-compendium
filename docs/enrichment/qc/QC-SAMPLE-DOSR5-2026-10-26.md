@@ -599,3 +599,23 @@ and pushed (Hayes semicolon; Goyal "reductions in"), 0 known outstanding
 deviations, 7 items not confirmable from this environment (suttacentral x2,
 tandfonline x3, scispace x2 — all blocked hosts, none known or suspected
 deviations).
+
+# QC sample 20: creation/creativity — Conner, DeYoung and Silvia 2018 (2026-10-26 02:48:26Z, measured in-command)
+
+The "Lagged multilevel models" span (tandfonline, and its doi.org redirect
+twin — the same quoted block appears in both creation.md and creativity.md)
+is CONFIRMED VERBATIM. A fresh web search surfaced the APA PsycNET record
+(psycnet.apa.org/record/2018-01905-009) printing the abstract's two
+sentences exactly as the dossiers quote them: "Lagged multilevel models
+revealed that people felt higher activated PA and flourishing following
+days when they reported more creative activity than usual. The other
+direction – PA predicting next-day creative activity – was not supported,
+suggesting that the cross-day effect was specific to creative activity
+predicting well-being." FALSE POSITIVE (tandfonline and doi.org block
+automated fetchers; the APA record settles the wording).
+
+Updated tally (this entry governs): 38 automated NOT FOUNDs adjudicated
+this session — 37 false positives confirmed (the Craftsmanship span, the
+two scispace spans and the two suttacentral spans remain blocked), 2
+genuine deviations repaired and pushed (Hayes semicolon; Goyal
+"reductions in"), 0 known outstanding deviations.
