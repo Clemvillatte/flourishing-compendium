@@ -129,3 +129,7 @@ A sixth deep trace was added for m8 (docs/degrees/verify/deg-psychdim-m8-deep-tr
 ## Addendum 2 (2026-10-26, later same session)
 
 Deep traces added for m4 (docs/degrees/verify/deg-psychdim-m4-deep-trace-1026a.md, PASS - all seven sources value-by-value; the PD-M3-02 extra-segment flag is RESOLVED) and m8 (rev 2 - see the correction above). The renderer was inspected directly: acadAssignmentText renders segments, locator and note, never the assignment field, confirming that the fix list targets the learner-visible fields. A sweep of published note/locator strings for internal review language found zero leaks.
+
+## Addendum 3 (2026-10-26, later same session)
+
+Deep trace added for m3 (docs/degrees/verify/deg-psychdim-m3-deep-trace-1026a.md): PASS - all eight entries value-by-value across the three layers, including both formerly-wrong video windows (PD-M3-03, PD-M3-04), now correct in the published state. With m2, m3, m4, m7 and m8 traced, the verdict's deep-trace reservation now covers m1, m5 and m6 only.
