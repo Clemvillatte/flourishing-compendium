@@ -42,9 +42,12 @@ credentials are checked separately from article affiliations.
   ([full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11303929/)).
 - **Exact proposed assignment:** the introductory paragraphs beginning
   “PBT has a characteristic target” through the paragraph immediately
-  before Figure 1, then the section *Functional Analysis in an Idionomic
-  Approach*. These passages explain how a person's goals, circumstances
-  and interacting processes guide an analysis
+  before Figure 1, then only the first two paragraphs of *Functional
+  Analysis in an Idionomic Approach*, ending at the client/goal/situation
+  question. Omit the subsequent clinical monitoring, network-analysis
+  methods and claims about universal mediator coverage. These excerpts
+  explain how goals, circumstances and interacting processes guide
+  the authors' analysis
   ([assigned text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11303929/)).
 - **Walk of Life fit:** retain as a short M1 orientation anchor. A
   production exercise can ask the learner to describe one recurring
@@ -86,12 +89,15 @@ credentials are checked separately from article affiliations.
 - **Exact proposed assignment:** *Research Overview*, then *Study 4:
   Motivating Engagement With a Health App*, including Method, Procedure
   and Results, through the heading *General Discussion*. Read the final
-  discussion paragraph about generalisability beyond online
-  participant pools as well
+  discussion paragraph beginning “Several open questions remain”,
+  which addresses generalisability beyond online participant pools
   ([assigned text](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/)).
 - **Evidence that matters:** Studies 1–3 examine prediction rather than
   randomly assigning long-term motivation; Study 1 follows resolutions
-  across a year and Study 3 tracks walking over two weeks. Study 4
+  across a year. Study 3 assesses current motivation alongside
+  participant-transcribed app step counts for the preceding 14 days,
+  with a subset checked against two uploaded screenshots. It is not
+  prospective two-week tracking. Study 4
   randomly assigns intrinsic-versus-extrinsic framing and measures
   reported product scans after 24 hours; its main analysis reports
   means of 11.55 versus 9.18 scans and Cohen's d = 0.21, 95% CI
@@ -100,8 +106,13 @@ credentials are checked separately from article affiliations.
 - **Selection and uncertainty:** Study 4's final sample is 763, from
   933 invited to follow-up and 803 follow-up respondents, after
   excluding zero scans and one extreme report. The authors also
-  report nonpreregistered robustness analyses; the main result is not
-  an all-randomised-participants estimate of taking up the activity
+  report nonpreregistered robustness analyses: including zero scans
+  retains the scan-count effect (d = 0.20, 95% CI [0.06, 0.33]), while
+  a hurdle model finds no significant difference in the probability
+  of any scan. This is not a demonstrated uptake effect; the
+  nonsignificant result does not establish equivalence. The main
+  result is not an all-randomised-participants estimate of taking up
+  the activity
   ([Study 4](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/)).
 - **Walk of Life fit:** retain as the one recent empirical M6
   motivation reading, not a general goal-optimisation course. A proposed
@@ -196,8 +207,10 @@ credentials are checked separately from article affiliations.
 - **Evidence that matters:** the review includes 20 studies and 2,601
   participants; just four studies report time to automaticity, and
   their designs are too varied for a pooled estimate of that time.
-  Section 3.3 reports study medians of 59 and 66 days, study means of
-  91, 106 and 154 days, and individual ranges as wide as 4–335 days;
+  Section 3.3 reports a 59-day median in a study where only 23% reached
+  its predetermined threshold, and a 66-day median in another study
+  using 95% automaticity. It also gives study means of 91, 106 and
+  154 days, and individual ranges as wide as 4–335 days;
   these are different summaries of different studies, not one common
   clock
   ([Results and Discussion](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/)).
@@ -254,8 +267,9 @@ credentials are checked separately from article affiliations.
   dependence, uncertain causal direction and cultural limits of a
   scale rewarding consistency
   ([definitions, measurement and cultural discussion](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/)).
-- **What is not supported:** the paper is an integrative review,
-  not a new trial or meta-analysis of a clarity intervention. It
+- **What is not supported:** the paper is a narrative/integrative
+  review, not a systematic or independently verified exhaustive
+  synthesis, new trial or meta-analysis of a clarity intervention. It
   explicitly calls intervention evidence mostly indirect and warns
   that clarity attached to inaccurate or rigid self-beliefs need not
   be adaptive
@@ -269,7 +283,8 @@ credentials are checked separately from article affiliations.
   the paper does not test this task.
 - **Disclosure and verification boundary:** the author declares
   Grammarly, Copilot and Scite assistance with literature search,
-  source verification and language editing. This record verifies
+  source verification and language editing. AI assistance alone is not
+  a rejection criterion. As with every review here, this record verifies
   what the review says, not every primary study it cites; any
   study-level finding or quotation reused in a lesson still needs
   the original opened
@@ -313,10 +328,12 @@ credentials are checked separately from article affiliations.
   the core. It is technically demanding and its dispute over
   emotion theories does not itself teach a proportionate
   everyday response. If the owner retains a short M2 epistemic
-  sidebar, limit it to *The theory of constructed emotion in
-  brief* and the competing-assumptions table, label it as a
-  position and explain why uncertainty matters for interpreting
-  one's experience. Do not turn this into a neuroscience survey.
+  sidebar, first identify a unique everyday-learning need, then
+  select one precise paragraph or a few attributed table rows.
+  Default to excluding both the full *in brief* section and Table 3
+  from core. The table is the proponents' characterisation of both
+  theories, not an independently balanced comparison. Do not turn
+  this into a neuroscience or debate survey.
 - **Do not teach:** that basic-emotion theories are disproved by
   this commentary, that emotions are imaginary, or that sufferers
   can simply choose different feelings. Those are not results
