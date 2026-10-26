@@ -1343,3 +1343,22 @@ five quoted passages, not four. Tool-fit paragraph and demonstration
 re-read together for coherence; both align. Baton renewed after the
 20-minute staleness mark (same holder, same lane). m4 and m5 remain
 DRAFT, NOT CLEARED, routed to supervisor module-QC.
+
+## m1/m3 media playback attempt in a cloud-browser session (2026-10-26, worker-pplx-pragmatism-1026c)
+
+Attempted in this session's cloud browser (the environment the
+deg-verify-b receipt asked for), on the m3 Misak lecture
+(c_Nxr3ZQxqA): the watch page redirects to a Google sorry page
+(bot wall), and the embed route loads the player with correct
+identity but the stream never initializes (video element present,
+play() resolves, paused=false, but readyState 0, currentTime 0,
+no dimensions, no duration) and the CC control is absent from the
+uninitialized player's DOM, so caption existence and type remain
+unreadable there. This matches the deg-verify-b corrected receipt
+exactly: identity confirmed at the player surface, stream playback
+and caption verification still OPEN, requiring a stream-capable
+session that neither this environment nor the fetch routes
+provide. The m1 Philosophy Talk item was not re-attempted (same
+route, same expected limit; bounded attempts rule). The m1/m3
+media items stay with the supervisor per the deg-gate verdict #4
+routing; no module edit follows from this attempt.
