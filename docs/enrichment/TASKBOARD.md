@@ -1,3 +1,24 @@
+## Worker checkpoint (2026-10-26 14:12Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+THE TWO FLAGS FROM CHECKPOINT 4 ARE CLOSED (cloud-browser render
+route, both spans read verbatim on the rendered carriers):
+- the-self Milindapanha chariot span: SuttaCentral mil3.1.1 (Rhys
+  Davids) renders in the cloud browser and the span is verbatim —
+  "It is on account of its having all these things-the pole, and the
+  axle, the wheels, and the framework, the ropes, the yoke, the
+  spokes, and the goad-that it comes under the generally understood
+  term, the designation in common use, of 'chariot.'"
+- right-livelihood Zinzendorf span: the CUNY Manifold Protestant
+  Ethic section renders and footnote 24 carries the span verbatim —
+  "Even Zinzendorf says at one point: 'One does not only work in
+  order to live, but one lives for the sake of one's work, and if
+  there is no more work to do one suffers or goes to sleep' (Plitt,
+  op. cit., I, p. 428)." (The dossier quotes the opening of this.)
+With this, ALL EIGHT dossiers of the dosr6 and dosr7 bands are
+re-verified today and every automated NOT-FOUND across both bands is
+either auto-verified or eye-verified; zero wording defects found. No
+dossier text changed. Files touched: this checkpoint only.
+
 ## Worker checkpoint (2026-10-26 14:00Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 FOURTH QC SAMPLE completes full coverage of the dosr6 and dosr7
