@@ -99,8 +99,8 @@ page's description frames it: Buddhism as primarily an ethical
 perspective for overcoming human problems, a secular, pragmatic basis
 for human flourishing (checked this pass against the description's
 own text; the "Buddhism is not only about rituals and meditation"
-framing and the flourishing framing are the description's own
-words). The page additionally surfaces a key-moments feature listing
+line appears in the description as a quotation attributed to Batchelor,
+and the flourishing framing is the description's own wording). The page additionally surfaces a key-moments feature listing
 the historical secularization of Buddhism in Burma and the Vipassana
 movement, and Buddhist approaches to suffering; that list is a
 page-level feature, not the description's text. That Burma/Vipassana
