@@ -1,3 +1,24 @@
+## Worker checkpoint (2026-10-26 14:00Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
+
+FOURTH QC SAMPLE completes full coverage of the dosr6 and dosr7
+bands (all eight dossiers re-verified today across checkpoints
+1-4): the-self.md (dosr6) and right-livelihood.md (dosr7). Both:
+dossier_check OK, density 0 dense. the-self: quote_verify 24 checked
+/ 2 not found — the Katha Upanishad span RE-VERIFIED BY EYE this
+session on the freshly opened sacred-texts SBE 15 page ("The knowing
+(Self) is not born, it dies not; it sprang from nothing, nothing
+sprang from it. The Ancient is unborn, eternal, everlasting; he is
+not killed, though the body is killed." — verbatim); the Milindapanha
+chariot span (SuttaCentral carrier) NOT re-verifiable this session —
+SuttaCentral is a JS app blocked from every route tried (direct
+fetch, urllib, archived snapshot returns the app shell); the public-
+domain Rhys Davids mirror on sacred-texts was not located within the
+time budget. FLAG for the next verification pass or any worker with a
+rendering route. right-livelihood: quote_verify 21 checked / 1 not
+found — the Zinzendorf span (CUNY Manifold carrier) NOT re-verifiable
+this session (Manifold is a JS app; same class). FLAG likewise. No
+dossier text changed. Files touched: this checkpoint only.
+
 ## Worker checkpoint (2026-10-26 13:55Z fresh clock reading, worker-pplx-degarchrem-1026a, verification lane assist, read-only)
 
 THIRD QC SAMPLE: uncertainty.md (dosr6) and creativity.md (dosr7).
