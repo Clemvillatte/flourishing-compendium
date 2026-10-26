@@ -3,6 +3,8 @@
 Producer: `degree-2874787d`, 2026-10-26.
 This is a new evidence packet, not a gate clearance.
 Neither module, recording window nor workload changes in this packet.
+Updated 06:26Z: the last M4 timed bridge was subsequently recovered;
+the earlier late-gap limitation is superseded by the evidence below.
 
 ## Exact targets
 
@@ -68,7 +70,7 @@ can discharge the recording requirement.
 Reproduction queries used on the recording URL:
 
 ```text
-narrative identity many different stories basic form stories could all derive basic format
+narrative identity refers to sort of the basic form stories could all derive basic format 10:35 10:50
 Gary Indiana Valparaiso Valpo Rebecca daughters own life story miserable first eighteen years move
 Sigmund Freud civilization discontents wonderful honors program scholars involved mind campus remarkable humanities psychology Rebecca
 10:07 13:31 narrative identity themes participant negative childhood interview life story
@@ -78,7 +80,7 @@ Each request used `max_tokens_per_page: 4096`. Read the overlapping
 passages themselves; do not mistake a retrieval ellipsis for silence
 or rely only on this summary.
 
-## M4: assigned speech checked; stricter artifact limit remains explicit
+## M4: continuous assigned speech recovered through overlap
 
 The first indexed retrieval supplies a locally unellipsed stretch
 through the selection, Stroop, basketball, first change-blindness movie
@@ -95,15 +97,24 @@ demonstration cues.
 | 3254 / 54:14 | Another attempt, applause and the end of the demonstration instructions. ([Recording](https://www.youtube.com/watch?v=DmWrOUK2zgA)) |
 | 3293 / 54:53 | Continuation of the Dan Simons/change-blindness sentence; later broad campus anecdotes begin outside this stop. ([Recording](https://www.youtube.com/watch?v=DmWrOUK2zgA)) |
 
-The indexed retrievals still show an ellipsis between some of the
-late demonstration cues. The producer read the intervening words in
-Yale's complete official transcript: further attempts, audience
-feedback and the attribution to Simons, not an additional clinical
-survey.
-([Official continuous transcript](https://oyc.yale.edu/psychology/psyc-110/lecture-7))
-This is **an indexed-anchor plus continuous-official-text cross-check,
-not a recovered single uninterrupted timed-caption file**. If the
-strict gate requires the latter artifact, M4 must remain open.
+The initial excerpts had a late ellipsis. A further query,
+`misery applause Simons`, subsequently returned **3210–3293 seconds
+without an intervening ellipsis**, including both applause/try
+sequences and the Dan Simons attribution.
+([Newly recovered timed bridge](https://www.youtube.com/watch?v=DmWrOUK2zgA))
+The earlier locally unellipsed **2827–3210** stretch overlaps that
+bridge at 3210, so the combined timed text now covers the entire
+assigned **2846–3293** interval continuously.
+([Same recording's indexed transcript](https://www.youtube.com/watch?v=DmWrOUK2zgA))
+The recovered bridge agrees with the complete official text already
+read.
+([Official Yale transcript](https://oyc.yale.edu/psychology/psyc-110/lecture-7))
+
+This evidence consists of two overlapping indexed fragments, not a
+single downloaded raw-caption file. The direct caption endpoint
+remains blocked; the earlier official-untimed-only bridge is no
+longer needed to fill the assigned speech. Independent reviewers
+must inspect the locally unellipsed spans and decide the gate.
 
 Reproduction queries:
 
@@ -111,22 +122,21 @@ Reproduction queries:
 timestamped transcript 47:00 to 55:10 attention spotlight Stroop inattentional blindness change blindness
 I myself am terrible sympathy How many people never saw it One more time different one Did anybody not see it give another try put you out misery
 give you another try put you out of your misery This is work by Dan Simons extraordinarily interesting body of work change blindness
+misery applause Simons
 ```
 
 ## Decision routed, not self-awarded
 
-ROUTE supervisor/verification: independently reopen M5's overlapping
-timestamped passage at the unchanged hash and decide its recording
-requirement. Review M4's combined evidence against the stricter
-continuous-timestamp condition; do not mark it passed merely because
-the official untimed words are complete.
+ROUTE supervisor/verification: independently reopen the overlapping
+timestamped passages for both modules at their unchanged hashes and
+decide their recording requirements. The original assignments are
+now supported by continuously overlapping timed text. This producer
+does not award either independent gate.
 
-If M4 needs a narrower directly recovered interval, an available
-candidate is **47:07–53:30 (6:23)**: the retrieved stretch includes
-the complete spotlight introduction and all four taught phenomena,
-but ends before the late retrieval ellipsis. This is only a proposal;
-no module, time budget or source gate is changed here. An authorised
-reviewer must approve and verify any adjustment at its resulting hash.
+The earlier proposed M4 narrowing to 47:07–53:30 was never applied
+and is withdrawn from this evidence route. The original 47:26–54:53
+assignment and its workload remain unchanged. Its start is within the
+spotlight explanation, as recorded in the cue table above.
 
 No paper fallback is added, no old recording window is falsely
 certified, and the Academy remains closed until the independent

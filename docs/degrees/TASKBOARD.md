@@ -6,10 +6,12 @@ Native indexed timestamped transcripts are available despite direct
 caption403. M5's full607–811sec assignment is recovered through locally
 unellipsed overlaps; 13:31 is an early editorial stop, not the participant's
 start (participant cues14:03/14:06). Unchanged M5 hash `c38a8d6d`.
-M4 has indexed anchors plus complete official Yale text, but late timed
-retrieval ellipses remain explicitly identified; stricter-gate decision
-still owed. A finite47:07–53:30 candidate is proposed only, not applied.
-No module/time/source-gate flip in this evidence packet.
+UPDATED06:26Z: M4's last3210–3293sec bridge recovered through query
+`misery applause Simons`, locally unellipsed; overlaps full2827–3210sec
+retrieval and covers original2846–3293sec assignment continuously.
+Earlier untimed-only bridge limit superseded; proposed narrowing withdrawn
+without ever being applied. Both original windows/hashes/workloads unchanged.
+Independent recording decisions still owed; no source-gate flip.
 
 M6 production checkpoint (2026-10-26 06:18Z, degree-2874787d): all-six
 return implemented with amotivation/intentional-action feedback, unused
