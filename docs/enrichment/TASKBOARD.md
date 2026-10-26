@@ -1,5 +1,16 @@
 ## Worker checkpoint (2026-10-26 00:56Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
+QC SAMPLE — concept page Awe (complete: the one quote on the page
+checked): the Keltner and Haidt 2003 definition sentence ("two
+appraisals... perceived vastness, and a need for accommodation...") 
+confirmed VERBATIM on the
+[docslib PDF](https://docslib.org/doc/10448325/keltner-haidt-awe-2003-pdf).
+No defects; no repairs needed. (One additional taper item beyond the
+"final sample" noted at 00:56Z — still within the taper window's ~4-min
+item rule.)
+
+## Worker checkpoint (2026-10-26 00:56Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
 QC SAMPLE — concept page Practical wisdom: the Aristotle NE VI.5
 blockquote ("the man to whom we should give the name of Good in
 Counsel... Nor again does Practical Wisdom consist in a knowledge of
