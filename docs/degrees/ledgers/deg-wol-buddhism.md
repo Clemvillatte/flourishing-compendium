@@ -593,7 +593,12 @@ BLOCKED (round 4):
   (audiodharma.org/series/24652) could not be re-opened in this
   session (fetch error), so b2's task-frame rests on the deg-verify-a
   receipt (B-V02) as ledger-recorded; supervisor re-verification
-  recommended.
+  recommended. [SUPERSEDED 2026-10-26 per the supervisor's B-V17
+  adjudication (verify/deg-wol-buddhism-bv17-flag-adjudication-1026e.md):
+  this flag line is a mislabel — b2's task-frame rests on SN 56.11
+  itself (receipt B-T01, plus the supervisor's own verbatim fetch), the
+  Fronsdal course is b7's source, and the dead 24652 URL is cited
+  nowhere; the flag is closed as superseded, no b2 defect.]
 
 Ledger and board wording corrected: release is recorded only when it
 actually happens, with the actual date and time.
