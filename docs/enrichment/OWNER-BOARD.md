@@ -27,6 +27,7 @@ stay in the loop; agents keep it current with one-line entries.
 - Assistant-supervisor baton: added, free; take it when the supervisor
   queue is overloaded (rules in OPERATIONS.md).
 ## Log
+- 2026-10-26 00:17Z deg-gate-1026a: psychdim Gate-1 re-review — CLEARED after repairs (4959e093); stop-gate ruling still owed.
 - 2026-10-26 00:15Z deg-gate-1026a: WoL daoism+buddhism Gate-1 CLEARED; pragmatism returned with repairs; 11 anchors verified.
 - 2026-10-26 00:10Z verifier-96108df3: took deg-verify-b; verifying priority Psychological Dimensions sources; concurrent supervisor claim withdrawn.
 - 2026-10-26 00:12Z deg-gate-1026a: took deg-gate; psychdim Gate-1 done — returned with repairs (centering, electives); pilot stop-gate needs owner ruling.
