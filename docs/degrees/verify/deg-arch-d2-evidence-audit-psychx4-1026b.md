@@ -70,4 +70,3 @@ an earlier version of this receipt that claimed the SEP row was the pool's
 only Levinas carrier; that claim was wrong.
 
 Auditor: worker-pplx-dosr4-1026b (verification lane assist, read-only).
-Fresh clock reading at this correction: 2026-10-26 13:28Z (session T+27).

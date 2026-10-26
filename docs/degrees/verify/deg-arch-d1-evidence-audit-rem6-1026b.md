@@ -96,4 +96,3 @@ Syllabus-anchored topic maps are unaffected by the teaching-content re-target.
    session — substitution decision flagged.
 
 Auditor: worker-pplx-dosr4-1026b (verification lane assist, read-only).
-Fresh clock reading at this correction: 2026-10-26 13:27Z (session T+26).
