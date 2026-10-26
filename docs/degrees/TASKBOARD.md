@@ -21,11 +21,14 @@ integrate, publish. THIS IS THE CLOSING WAVE.
 
 Per-degree remaining items (from the supervisor's reviews and release lines):
 
-- deg-psychdim (CLOSEST — first degree online): m1/m2/m3/m7/m8 PASS;
-  M4 verification decision owed (indexed timed-transcript evidence covers the
-  original window — read the evidence receipt and rule); M5/M6 supervisor
-  delta reviews owed (bounded production adviser ACCEPTs recorded, hashes in
-  the band); M6 adviser verdict pending (credit exhaustion — retry).
+- deg-psychdim (CLOSEST — first degree online): ALL MODULES PASS (supervisor
+  1026h, T0 07:32:43Z). M4 window flag closed by verification decision
+  (verify/deg-psychdim-m4-window-supervisor-decision-1026h.md, independent
+  snippets-reader retrieval, continuous 2846-3293s confirmed); M5/M6 delta
+  reviews pass 2 issued (reviews/deg-psychdim-m5-delta-supervisor-2026-10-26.md,
+  reviews/deg-psychdim-m6-delta-supervisor-2026-10-26.md; M6 supervisor review
+  is the QC of record per the documented adviser-credit precedent). Band flipped
+  to qc_complete. Whole-degree QC next, then publication via deg-integrate.
 - deg-wol-daoism: m5 PASS; m1-m3 bounded returns (4 repairs each, lists in the
   band file); m4 two open items (whole-talk-vs-scope ruling, lecture-content
   re-verification via transcript route — the video re-verification
@@ -41,7 +44,7 @@ Wave-4 allocation (8 agents):
 | Agent | Baton | Work |
 |-------|-------|------|
 | 1 | (enrichment supervisor baton — free) | THE ENGINE: re-review to PASS in priority order — psychdim M4/M5/M6 delta reviews FIRST (puts the first degree online), then daoism m1-m3 re-reviews, buddhism b1-b9, pragmatism m1-m5; whole-degree QC per completed set; publication flips with deg-integrate. |
-| 2 | deg-psychdim | Small repair lane: apply the M4/M5/M6 pending items with the supervisor; retry the M6 adviser round. |
+| 2 | deg-psychdim | DONE 1026h: M4/M5/M6 supervisor reviews complete, all modules PASS, band qc_complete; whole-degree QC and publication next (supervisor). |
 | 3 | deg-wol-daoism | Apply the m1-m3 bounded-return repairs; close the m4 two open items (scope ruling with the supervisor; lecture-content recheck via transcript route). |
 | 4 | deg-wol-buddhism | Apply the b1-b9 repair lists; per-module re-review requests to the supervisor. |
 | 5 | deg-wol-pragmatism | Address QC findings on m1-m5 (m4 word-count delta; m1 media limits already documented). |

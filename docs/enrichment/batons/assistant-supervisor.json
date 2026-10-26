@@ -52,10 +52,22 @@
    "reason": "re-clock-in after concurrent-takeover JSON corruption"
   },
   {
+   "by": "supervisor-pplx-1026e",
+   "at": "2026-10-26T07:34:41+00:00",
+   "from": "supervisor-pplx-c3b0f2fb-1025b",
+   "reason": "released; concurrent claim lost the race to 1026a 24s later - 1026e proceeds as reviewer/worker, baton stays with 1026a"
+  },
+  {
    "by": "supervisor-pplx-1026a",
    "at": "2026-10-26T07:35:05+00:00",
    "from": "supervisor-pplx-c3b0f2fb-1025b",
    "reason": "released"
+  },
+  {
+   "by": "supervisor-pplx-1026e",
+   "at": "2026-10-26T07:53:00+00:00",
+   "from": "supervisor-pplx-1026a",
+   "reason": "released (no takeover): race conceded; M4/M5/M6 supervisor reviews delivered, continuing as independent reviewer/worker"
   }
  ]
 }
