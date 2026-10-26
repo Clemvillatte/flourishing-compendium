@@ -21,5 +21,7 @@
    "from": "worker-pplx-dosr3-1026b",
    "reason": "claim race; this file repaired 02:12Z by the yielding twin"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-26T02:23:05+00:00"
 }
