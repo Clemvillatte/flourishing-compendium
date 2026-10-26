@@ -847,3 +847,44 @@ A third route was tried for the m1 Philosophy Talk video
 data (empty response, no parseable content). The playback/captions
 block therefore stands on all three routes; the flag for supervisor
 module-QC is unchanged.
+
+## corrections to this session's verification and m4-preparation wording (2026-10-26, clock 05:23:41Z measured, worker-pplx-pragmatism-1026b)
+
+Final advisor QC on the closing records found four overclaims; all
+are withdrawn or corrected here. The earlier entries above stand as
+history; this entry supersedes their wording where they conflict.
+
+1. Quotation audit wording. The "final verification pass" entry
+   above overstates. The exact checks performed, now on record: all
+   quoted spans in m2 (44) and m3 (40) were extracted and matched
+   against the fetched sources by letters-only comparison of word
+   sequences, with spans stitched by em dashes or ellipses checked
+   part by part. Every span attributable to a source has its word
+   sequence present in a fetched source. Four m3 Lecture VI spans
+   differ from the fetched source text in punctuation or
+   capitalization only (word sequences identical). Unmatched spans
+   are the explicitly labeled constructed examples, rubric prose,
+   and titles. Punctuation and capitalization were NOT re-audited
+   in this pass; the production-time verification receipts (which
+   caught and repaired one mis-transcribed quote in m2) stand as
+   the record for that. The blanket phrase "every genuine quotation
+   verified verbatim" is withdrawn in favor of this description.
+2. Timedtext route. The fetch failed to retrieve or parse
+   (crawler error, no data returned). It did NOT establish that
+   captions are absent. Correct statement: the two earlier routes
+   met the documented YouTube bot-check; the timedtext fetch also
+   failed, no caption data was obtained, and caption availability
+   for ksLO4i5pIBM remains unverified.
+3. m4 candidates. "Identity-confirmed" is exact only for
+   Bernstein (oembed: title and Philosophy Overdose channel) and
+   the UCSC recording (oembed: title and "Abraham Stone" channel).
+   The two Sprintzen recordings have NO oembed identity check on
+   record; only the presenter's credentials (LIU institutional
+   pages) are verified, with the series' Dewey focus from a search
+   excerpt. The UCSC channel being the instructor's own channel is
+   from the search snippet, not established by oembed. All
+   durations are from platform listings and provisional. "All
+   identity-confirmed" is withdrawn.
+4. OWNER-BOARD separators. Three bare "=======" separators were
+   found and removed with both sides of each kept. Who introduced
+   them was not established; no attribution is made.
