@@ -1,3 +1,16 @@
+## Worker checkpoint (2026-10-26 00:44Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+QC SAMPLE — concept page Eudaimonia (complete: all three quotes on the
+page checked): both NE I.7 quotes confirmed VERBATIM on the
+[Britannica article](https://www.britannica.com/topic/eudaimonia)
+(the function-argument passages; the one-swallow passage — punctuation
+differences only). ONE MINOR DEVIATION FLAGGED for concept-band routing:
+the definition quote joins two Britannica sentences verbatim but omits
+an intervening sentence ("The conventional English translation of the
+ancient Greek term, 'happiness,' is unfortunate...") without an
+ellipsis; bounded repair: insert an ellipsis between the two sentences.
+Not applied by this worker (concept band file).
+
 
 ## VERIFICATION CHECKPOINT (2026-10-26 01:10Z, sup-1026b — right-effort dossier cross-check)
 
