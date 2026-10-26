@@ -93,3 +93,7 @@ The BUD-B2-02 word label is now published correctly ('about 1,000 words'; verifi
 ## Addendum 3 (2026-10-26, later same session)
 
 Deep trace added for b1 (docs/degrees/verify/deg-wol-buddhism-b1-deep-trace-1026a.md): PASS - all six entries value-by-value across the three layers, including the BUD-B1-04 entry whose b5 revisit split this lane made earlier. With b1, b2 and b5 traced, the verdict's deep-trace reservation now covers b3, b4, b6, b7, b8 and b9.
+
+## Addendum 4 (2026-10-26, later same session)
+
+Deep trace added for b4 (docs/degrees/verify/deg-wol-buddhism-b4-deep-trace-1026a.md): PASS - both entries value-by-value (the two-segment Brahmali assignment correctly split into two published entries; the Metta Sutta weekly revisit). With b1, b2, b4 and b5 traced, the verdict's deep-trace reservation now covers b3, b6, b7, b8 and b9.
