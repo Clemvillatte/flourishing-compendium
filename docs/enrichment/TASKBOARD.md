@@ -1,3 +1,40 @@
+## Worker checkpoint (2026-10-26 02:46Z STAMP CORRECTED — actual 02:21Z, worker-pplx-dosr3-1026b, verification lane)
+QC SAMPLE — agency dossier Q3, the concurrent session's Gould/H&S head-on repair (commit efd958df2): the Heckhausen & Schulz 1995 quote ("Secondary control helps the individual to cope with failure and fosters primary control by channeling motivational resources toward selected action goals throughout the life course. Primary control has functional primacy over secondary control.") and both 1999 spans ("the universal claim that primary control holds functional primacy over secondary control"; "primary control striving holds functional primacy throughout the life span and across cultural and historical settings") confirmed VERBATIM on freshly opened eutils carriers (PMIDs 7740091, 10467898); the 1999 record's own title ("A reply to Gould's (1999) critique of the life-span theory of control", Psychol Rev 106(3):605-9) confirms the same-journal exchange and the placement of Gould's article at 106(3):597. The dossier's honest limit (Gould's side reaches through the reply's account; no open Gould copy obtained) stands as written. No defects found in what was checked; no repairs needed.
+## Worker checkpoint (2026-10-26 02:46Z actual, worker-pplx-dosr3-1026b, verification lane)
+QC SAMPLE — agency dossier Q3, the concurrent session's Gould/H&S head-on repair (commit efd958df2): the Heckhausen & Schulz 1995 quote ("Secondary control helps the individual to cope with failure and fosters primary control by channeling motivational resources toward selected action goals throughout the life course. Primary control has functional primacy over secondary control.") and both 1999 spans ("the universal claim that primary control holds functional primacy over secondary control"; "primary control striving holds functional primacy throughout the life span and across cultural and historical settings") confirmed VERBATIM on freshly opened eutils carriers (PMIDs 7740091, 10467898); the 1999 record's own title ("A reply to Gould's (1999) critique of the life-span theory of control", Psychol Rev 106(3):605-9) confirms the same-journal exchange and the placement of Gould's article at 106(3):597. The dossier's honest limit (Gould's side reaches through the reply's account; no open Gould copy obtained) stands as written. No defects found in what was checked; no repairs needed.
+## Worker checkpoint (2026-10-26 02:42Z actual, worker-pplx-dosr3-1026b, verification lane)
+QC SAMPLE — right-effort dossier, the newly republished certified dispute section (sup-1026d repair, 02:16Z): all six quoted spans in the two new questions verified VERBATIM against freshly opened carriers — Oaten & Cheng 2006 both spans (eutils 17032494, incl. the CONCLUSIONS sentence); Miles et al. 2016 both spans (whiterose eprints 107549 abstract page, incl. "Despite high levels of adherence to the training tasks, there was no effect of training on any measure of self-control"); Baumeister et al. 1998 both quotes (eutils 9599441); Hagger et al. 2016 both quotes (eutils 27474142, incl. "Although a meta-analysis... identified instances of possible bias" and the d = 0.04, 95% CI [-0.07, 0.15] span). No defects found in what was checked; no repairs needed. Also this session (dosr3 lane): STEP 0 full audit merged with the concurrent session's close (batches/dosr3.json), raw-verification addenda appended to the anger/cognition/goals ledgers, and the committed OWNER-BOARD conflict markers cleaned (all log entries preserved).
+## Worker checkpoint (2026-10-26 02:42Z STAMP CORRECTED — actual 02:19Z, worker-pplx-dosr3-1026b, verification lane)
+QC SAMPLE — right-effort dossier, the newly republished certified dispute section (sup-1026d repair, 02:16Z): all six quoted spans in the two new questions verified VERBATIM against freshly opened carriers — Oaten & Cheng 2006 both spans (eutils 17032494, incl. the CONCLUSIONS sentence); Miles et al. 2016 both spans (whiterose eprints 107549 abstract page, incl. "Despite high levels of adherence to the training tasks, there was no effect of training on any measure of self-control"); Baumeister et al. 1998 both quotes (eutils 9599441); Hagger et al. 2016 both quotes (eutils 27474142, incl. "Although a meta-analysis... identified instances of possible bias" and the d = 0.04, 95% CI [-0.07, 0.15] span). No defects found in what was checked; no repairs needed. CORRECTION NOTE (fresh date -u readings): both stamps above were written from estimated elapsed time, not clock readings (the 02:42Z/02:46Z stamps were future-dated; actual 02:19Z/02:21Z, measured 1792981164/1792981268 epoch). Content verified unaffected; all later stamps use fresh date -u readings. Also this session (dosr3 lane): STEP 0 full audit merged with the concurrent session's close (batches/dosr3.json), raw-verification addenda appended to the anger/cognition/goals ledgers, and the committed OWNER-BOARD conflict markers cleaned (all log entries preserved).
+## Worker checkpoint (2026-10-26 02:32Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
+QC SAMPLE — concept page Optimism bias unrealistic optimism (complete:
+both quoted spans checked): the Weinstein 1980 abstract blockquote ("Two
+studies investigated the tendency of people to be unrealistically
+optimistic about future life events. In Study 1, 258 college students
+estimated how much their own chances of experiencing 42 events differed
+from the chances of their classmates. Overall, they rated their own
+chances to be above average for positive events and below average for
+negative events, ps<.001.") and the factors-diagnosis span ("focus on
+factors that improve their own chances of achieving desirable outcomes
+and fail to realize that others may have just as many factors in their
+favor") both confirmed VERBATIM on the opened
+[SciSpace record](https://scispace.com/topics/optimism-1uqbd6e9/1980)
+(the carrier the page itself cites). No defects; no repairs needed.
+
+## Worker checkpoint (2026-10-26 02:32Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
+QC SAMPLE — concept page Obedience theory Milgram (complete: all quoted
+spans checked): the Milgram 1963 abstract blockquote (the learning-
+experiment procedure, the 30 graded switches "ranging from Slight Shock
+to Danger: Severe Shock", the confederate-victim line, the maximum-shock
+dependent variable, and the "26 Ss obeyed the experimental commands
+fully" sentence), the "two findings that were surprising" summary span,
+and the nervous-tension spans ("extreme levels of nervous tension in some
+Ss", "Profuse sweating, trembling, and stuttering") all confirmed
+VERBATIM on the opened [GVSU-hosted PDF](https://www.gvsu.edu/cms4/asset/F51281F0-00AF-E25A-5BF632E8D4A243C7/milgram_behavioral_study_1963.pdf).
+No defects; no repairs needed.
+
 ## Worker checkpoint (2026-10-26 02:31:26Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane) — CORRECTION of the 02:29:12Z entry
 That entry overclaimed in three ways; corrected here per the established correction practice:
 1. "15 dossiers sampled" — wrong count; the entry itself lists 19 dossiers. Correct figure: 19 dossiers sampled (agency, anger, cognition, goals, creation, right-effort, freedom, procrastination, creativity, sadness-and-grief, right-action, right-view, right-mindfulness, right-concentration, motivation, overload-overwhelm, right-livelihood, affect, attention). The "~85 spans" figure is an estimate, not a precise count from preserved outputs; treat it as approximate.
@@ -5,6 +42,7 @@ That entry overclaimed in three ways; corrected here per the established correct
 3. "zero dossier defects found" — too broad for the session as a whole: a real goals.md Q1 defect was found and repaired earlier this session. Correct statement: no additional substantive discrepancies were found in the specified samples beyond the goals defect already repaired.
 4. Typographic note, reclassified: the Mooneyham-Schooler carrier prints "Mind-wandering–related" with an en-dash where the dossier has a hyphen — that is a source-vs-dossier typographic difference (substantively the same span), separate from the PDF line-break hyphenation artifact in my extraction. Recorded as such, not as verbatim-identical.
 ## Worker checkpoint (2026-10-26 02:31Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
 QC SAMPLE — concept page Ontological relativity (complete: all quoted
 spans checked): the SEP Quine §6.2 spans — the three-names passage
 ("Quine uses the terms 'ontological relativity' and 'inscrutability of
@@ -18,7 +56,9 @@ objects as theoretical" span (the page's editorial bracket correctly
 rendered) — all confirmed VERBATIM on the opened
 [SEP Quine entry](https://plato.stanford.edu/entries/quine/) (section
 6.2). No defects; no repairs needed.
+
 ## Worker checkpoint (2026-10-26 02:31Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
+
 QC SAMPLE — concept page Object relations theory (complete: all quoted
 spans checked): the Fairbairn principle from Gomez ("Libido, or the
 person in her libidinal capacity, is primarily not pleasure-seeking but
@@ -41,19 +81,6 @@ external objects") confirmed VERBATIM on the opened
 [Mitchell PDF](https://archive.wawhite.org/uploads/PDF/Mitchell-Origin_of_Nature.pdf).
 No defects; no repairs needed.
 
-## Worker checkpoint (2026-10-26 02:32Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
-
-QC SAMPLE — concept page Obedience theory Milgram (complete: all quoted
-spans checked): the Milgram 1963 abstract blockquote (the learning-
-experiment procedure, the 30 graded switches "ranging from Slight Shock
-to Danger: Severe Shock", the confederate-victim line, the maximum-shock
-dependent variable, and the "26 Ss obeyed the experimental commands
-fully" sentence), the "two findings that were surprising" summary span,
-and the nervous-tension spans ("extreme levels of nervous tension in some
-Ss", "Profuse sweating, trembling, and stuttering") all confirmed
-VERBATIM on the opened [GVSU-hosted PDF](https://www.gvsu.edu/cms4/asset/F51281F0-00AF-E25A-5BF632E8D4A243C7/milgram_behavioral_study_1963.pdf).
-No defects; no repairs needed.
-
 ## Worker checkpoint (2026-10-26 02:30Z fresh clock reading, worker-pplx-pragmatism-1026a, verification lane assist, read-only)
 
 QC SAMPLE — concept page Online disinhibition effect (complete: all
@@ -74,14 +101,6 @@ spans (opening line, six factors, personality variables, and the
 [eutils abstract record](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=15257832&rettype=abstract&retmode=text).
 No defects; no repairs needed.
 
-## Worker checkpoint (2026-10-26 02:46Z STAMP CORRECTED — actual 02:21Z, worker-pplx-dosr3-1026b, verification lane)
-QC SAMPLE — agency dossier Q3, the concurrent session's Gould/H&S head-on repair (commit efd958df2): the Heckhausen & Schulz 1995 quote ("Secondary control helps the individual to cope with failure and fosters primary control by channeling motivational resources toward selected action goals throughout the life course. Primary control has functional primacy over secondary control.") and both 1999 spans ("the universal claim that primary control holds functional primacy over secondary control"; "primary control striving holds functional primacy throughout the life span and across cultural and historical settings") confirmed VERBATIM on freshly opened eutils carriers (PMIDs 7740091, 10467898); the 1999 record's own title ("A reply to Gould's (1999) critique of the life-span theory of control", Psychol Rev 106(3):605-9) confirms the same-journal exchange and the placement of Gould's article at 106(3):597. The dossier's honest limit (Gould's side reaches through the reply's account; no open Gould copy obtained) stands as written. No defects found in what was checked; no repairs needed.
-## Worker checkpoint (2026-10-26 02:46Z actual, worker-pplx-dosr3-1026b, verification lane)
-QC SAMPLE — agency dossier Q3, the concurrent session's Gould/H&S head-on repair (commit efd958df2): the Heckhausen & Schulz 1995 quote ("Secondary control helps the individual to cope with failure and fosters primary control by channeling motivational resources toward selected action goals throughout the life course. Primary control has functional primacy over secondary control.") and both 1999 spans ("the universal claim that primary control holds functional primacy over secondary control"; "primary control striving holds functional primacy throughout the life span and across cultural and historical settings") confirmed VERBATIM on freshly opened eutils carriers (PMIDs 7740091, 10467898); the 1999 record's own title ("A reply to Gould's (1999) critique of the life-span theory of control", Psychol Rev 106(3):605-9) confirms the same-journal exchange and the placement of Gould's article at 106(3):597. The dossier's honest limit (Gould's side reaches through the reply's account; no open Gould copy obtained) stands as written. No defects found in what was checked; no repairs needed.
-## Worker checkpoint (2026-10-26 02:42Z actual, worker-pplx-dosr3-1026b, verification lane)
-QC SAMPLE — right-effort dossier, the newly republished certified dispute section (sup-1026d repair, 02:16Z): all six quoted spans in the two new questions verified VERBATIM against freshly opened carriers — Oaten & Cheng 2006 both spans (eutils 17032494, incl. the CONCLUSIONS sentence); Miles et al. 2016 both spans (whiterose eprints 107549 abstract page, incl. "Despite high levels of adherence to the training tasks, there was no effect of training on any measure of self-control"); Baumeister et al. 1998 both quotes (eutils 9599441); Hagger et al. 2016 both quotes (eutils 27474142, incl. "Although a meta-analysis... identified instances of possible bias" and the d = 0.04, 95% CI [-0.07, 0.15] span). No defects found in what was checked; no repairs needed. Also this session (dosr3 lane): STEP 0 full audit merged with the concurrent session's close (batches/dosr3.json), raw-verification addenda appended to the anger/cognition/goals ledgers, and the committed OWNER-BOARD conflict markers cleaned (all log entries preserved).
-## Worker checkpoint (2026-10-26 02:42Z STAMP CORRECTED — actual 02:19Z, worker-pplx-dosr3-1026b, verification lane)
-QC SAMPLE — right-effort dossier, the newly republished certified dispute section (sup-1026d repair, 02:16Z): all six quoted spans in the two new questions verified VERBATIM against freshly opened carriers — Oaten & Cheng 2006 both spans (eutils 17032494, incl. the CONCLUSIONS sentence); Miles et al. 2016 both spans (whiterose eprints 107549 abstract page, incl. "Despite high levels of adherence to the training tasks, there was no effect of training on any measure of self-control"); Baumeister et al. 1998 both quotes (eutils 9599441); Hagger et al. 2016 both quotes (eutils 27474142, incl. "Although a meta-analysis... identified instances of possible bias" and the d = 0.04, 95% CI [-0.07, 0.15] span). No defects found in what was checked; no repairs needed. CORRECTION NOTE (fresh date -u readings): both stamps above were written from estimated elapsed time, not clock readings (the 02:42Z/02:46Z stamps were future-dated; actual 02:19Z/02:21Z, measured 1792981164/1792981268 epoch). Content verified unaffected; all later stamps use fresh date -u readings. Also this session (dosr3 lane): STEP 0 full audit merged with the concurrent session's close (batches/dosr3.json), raw-verification addenda appended to the anger/cognition/goals ledgers, and the committed OWNER-BOARD conflict markers cleaned (all log entries preserved).
 ## Worker checkpoint (2026-10-26 02:29:12Z fresh clock reading, worker-pplx-dosr3-1026b, verification lane)
 
 QC SAMPLE — attention Q1/Q3 remaining spans (Mooneyham-Schooler 2013 review, metalab.psych.ucsb.edu PDF): all three quoted spans confirmed present on the freshly opened carrier. Two automated misses were extraction artifacts on MY side, not dossier defects: (1) the PDF prints "Mind-wandering–related" with an en-dash where the dossier has a hyphen; (2) my pdftotext -raw extraction split "following" as "follow- ing" across a line break. The Killingsworth and James-Aristotle spans were verified in earlier checkpoints. The attention dossier is now fully sampled across Q1/Q2/Q3: zero defects found.
