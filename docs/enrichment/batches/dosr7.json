@@ -19,13 +19,13 @@
   "in_progress": "none — band complete",
   "flagged": {},
   "final_verification": {
-    "timestamp": "2026-10-26T02:41:20Z; corrected 2026-10-26T02:43:08Z",
+    "timestamp": "2026-10-26T02:41:20Z; corrected 2026-10-26T02:46:55Z",
     "worker": "worker-pplx-deg-gate-1026b",
     "advisor_round": "3 (final verification) — applied in full",
     "changes": [
       "creativity Q4 rewritten: heading narrowed to 'Does evidence support an intelligence threshold for creative potential?'; Kim's threshold-specific analysis quoted verbatim (IQ below r=.201 vs above 120 r=.235, chi2=2.004 p=.157, not statistically different); 'quicker than average' framing removed; Jauk boundary preserved"
     ],
-    "checks": "dossier_check exit 0 all four; density 0 dense all four; dossier_quote_verify exit 0 all four with 24 quotes not auto-located (right-livelihood 1/21, creation 6/44, procrastination 3/15, creativity 14/39) — all in documented manual-exception classes (PMC/archive.org/OUP/Gutenberg urllib failures and parser false positives), adjudicated on opened carriers per the rounds above",
+    "checks": "dossier_check exit 0 all four; density 0 dense all four. Automatic quote matching left 24 quotes unmatched (right-livelihood 1/21, creation 6/44, procrastination 3/15, creativity 14/39); each was manually adjudicated and documented: the original 18-item adjudication list (Cameron 2001 PMC; Skinner x3; Guilford 1950; Schumpeter; Whitehead; Sennett-in-Jones 2021; Conner 2018 first sentence, now carried in both creation and creativity; Wang 2017, Kounios-Beeman 2014, Baird 2012 via eutils; Sio-Ormerod 2009 ERIC; Holton 1999; Chowdhury via Semantic Scholar; 2 Zarathustra parser false positives) plus the six new repair-round quotes verified verbatim on opened carriers this session (Baer 1998; Plucker 1998 x2; Eisenberger-Cameron 1996 x2; Davidson), each recorded in the per-dossier source ledger. Registry syntax checked (node --check) and live body content checked on GitHub Pages.",
     "registry": "rebuilt for creativity; site/assets/app.js committed and node --check OK",
     "live_site": "body content verified on GitHub Pages (cache-busted fetches): Maslach continuum sentence, Davidson best-judgement sentence, Baer domain-specific conclusion, Kim threshold analysis all serving",
     "source_ledgers": "entries appended for all new primaries in docs/enrichment/sources/dossiers/{right-livelihood,procrastination,creativity}.md with carriers and read-limits stated",
