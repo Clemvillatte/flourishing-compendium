@@ -25,7 +25,7 @@ So the benefit in this study was tied to choice. The authors do not claim that s
 
 Thoreau's Walden has a chapter titled "Solitude", where he separates solitude from physical distance.
 
-> "I find it wholesome to be alone the greater part of the time. To be in company, even with the best, is soon wearisome and dissipating. I love to be alone. I never found the companion that was so companionable as solitude." (Thoreau, Walden, "Solitude", [Gutenberg #205](https://www.gutenberg.org/ebooks/205))
+> "I find it wholesome to be alone the greater part of the time. To be in company, even with the best, is soon wearisome and dissipating. I love to be alone. I never found the companion that was so companionable as solitude." (Thoreau, Walden, "Solitude", [Gutenberg #205](https://www.gutenberg.org/files/205/205-h/205-h.htm))
 
 A few lines later he adds: "Solitude is not measured by the miles of space that intervene between a man and his fellows."
 
@@ -40,7 +40,7 @@ A few lines later he adds: "Solitude is not measured by the miles of space that 
 ## Sources
 - Wikipedia Solitude: https://en.wikipedia.org/wiki/Solitude
 - [Nguyen, Ryan & Deci (2018), Solitude as an Approach to Affective Self-Regulation, Pers Soc Psychol Bull 44(1):92-106 (PubMed 29072531)](https://pubmed.ncbi.nlm.nih.gov/29072531/) — source (abstract)
-- [Thoreau, Walden, chapter Solitude (Gutenberg #205)](https://www.gutenberg.org/ebooks/205) — source; quotations verified
+- [Thoreau, Walden, chapter Solitude (Gutenberg #205)](https://www.gutenberg.org/files/205/205-h/205-h.htm) — source; quotations verified
 
 ## Cited in philosophy parallels
 

@@ -5514,3 +5514,15 @@ Advisor final review corrections applied and pushed (842228fe7): right-effort fo
   carrier for the definition and the four activities, as before.
 - sup-1026b route (1) STANDS (ST-number identity audit: old-ID-plus-old-title ->
   canonical-title mapping against live references) — not started this pass.
+
+## ROUTED REPAIR DONE (2026-10-26 02:34Z observed, supervisor-pplx-1026d, supervisor baton): concept landing-page citations deepened
+
+The 2026-10-26 worker-pplx-dosr6-1026a route (handoff.md) is complete: the five
+concept pages that cited Gutenberg LANDING pages now cite the actual text
+files, and every quoted span was re-verified by the supervisor on the new
+carrier this session — Solitude (Thoreau, files/205/205-h/205-h.htm), Wu wei
+(Legge DDJ 37+48, files/216/216-h/216-h.htm), Amour-propre (Rousseau Émile Bk
+IV, files/5427/5427-h/5427-h.htm; Discourse Second Part, files/11136/11136-0.txt),
+The insatiability of desire (Schopenhauer WWR vol.1 §38, files/38427/38427-0.txt
+— the span is verbatim once Gutenberg italic markup is stripped; Dhammapada
+338, files/2017/2017-h/2017-h.htm). 13 URL replacements; enrich_validate 4/4 ok.

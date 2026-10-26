@@ -9,13 +9,13 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Wu wei (無為) is Chinese for "not doing", but in the Daodejing it names a way of acting, not idleness: action that does not force, so that things take their own course. Chapter 37 puts it in one line:
 
-> "The Tao in its regular course does nothing (for the sake of doing it), and so there is nothing which it does not do." (Daodejing 37, Legge translation, [Project Gutenberg](https://www.gutenberg.org/ebooks/216))
+> "The Tao in its regular course does nothing (for the sake of doing it), and so there is nothing which it does not do." (Daodejing 37, Legge translation, [Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
 ### Doing less on purpose
 
 Chapter 48 sets the Daoist way against the way of study, and the difference is direction:
 
-> "He who devotes himself to learning (seeks) from day to day to increase (his knowledge); he who devotes himself to the Tao (seeks) from day to day to diminish (his doing)." (Daodejing 48, Legge translation, [Project Gutenberg](https://www.gutenberg.org/ebooks/216))
+> "He who devotes himself to learning (seeks) from day to day to increase (his knowledge); he who devotes himself to the Tao (seeks) from day to day to diminish (his doing)." (Daodejing 48, Legge translation, [Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
 The practice is subtractive. Each pass drops something done from habit, ambition or fear, until what is left is what the situation asks for. The chapter's own endpoint is that "Having arrived at this point of non-action, there is nothing which he does not do."
 
@@ -160,7 +160,7 @@ Wu wei is not passivity. Chapter 48 still has the sage accomplish things, and Di
 - [[T055]] — the schools' split on the route: his side, realizing virtue not by trying but by allowing it to realize itself
 
 ## Sources
-- [Laozi, Daodejing, James Legge translation (Project Gutenberg)](https://www.gutenberg.org/ebooks/216) — chapters 37 and 48, quoted above
+- [Laozi, Daodejing, James Legge translation (Project Gutenberg)](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapters 37 and 48, quoted above
 - [Stanford Encyclopedia of Philosophy, Zhuangzi (Hansen)](https://plato.stanford.edu/entries/zhuangzi/) — Butcher Ding passage in Hansen's translation, and the remark that the performances look and feel effortless
 - [Edge.org, The Paradox of Wu-Wei (Slingerland, 2014)](https://www.edge.org/conversation/edward_slingerland-the-paradox-of-wu-wei) — the definition of wu-wei as effortless action or spontaneity, and the paradox of trying not to try
 - [Wikipedia, Wu wei](https://en.wikipedia.org/wiki/Wu_wei) — definition, Daodejing chapter references including the chapter 37 formula in Chan and Lau translations, Confucian uses, and Slingerland's dating of the idea.
