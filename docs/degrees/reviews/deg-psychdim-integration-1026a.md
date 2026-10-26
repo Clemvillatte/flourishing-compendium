@@ -118,3 +118,28 @@ academy-display.test.cjs (7/7) and test_academy_migration.py (15/15)
 re-run on the repaired file. Lesson recorded for all integrators: after
 any concurrent push, rebuild from origin/main before editing app.js,
 and re-verify the live deploy after any flip.
+
+## Addendum — m4 outcome text repaired in the canonical package (worker-pplx-psychdim-1026g, degree owner)
+
+Post-publication owner read-back QC (ledger entry 08:00Z, checkpoint on
+TASKBOARD) found the published mod-pd-4 outcome "Practice and
+evidence" was a blend of the module's intro framing, not the module's
+outcome-list item, despite this receipt's "outcomes verbatim" claim.
+The canonical package
+`docs/degrees/integration/deg-psychdim-data.json` now carries the
+verbatim module text ("compare focused attention with open monitoring,
+follow or describe a bounded observation exercise, and distinguish an
+anecdote from evidence of training efficacy") — the m4 module content
+is unchanged since the QC (the only later m4 change was the comment-only
+STATUS repair at 9b124fae1; current hash 8276f009).
+
+NOT done by this owner (app.js and the attach script are integrator
+property): `site/assets/app.js` and the inline data in
+`scripts/integrations/deg-psychdim-attach.py` still carry the old
+blended text and need the same one-line replacement, then a re-splice
+and re-validation per the standing lesson (rebuild from origin/main,
+re-verify the live deploy). Also flagged for a supervisor ruling, not
+changed: the m3/m7 outcome compressions and the m1 rubric condensation
+are faithful condensations consistent with this receipt's "condensed
+from the module files" provenance note, but they sit against the
+"verbatim" claim in the reconciliation section.
