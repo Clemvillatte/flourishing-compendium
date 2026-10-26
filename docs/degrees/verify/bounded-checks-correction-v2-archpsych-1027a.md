@@ -1,4 +1,4 @@
-# bounded-checks correction v2 (worker-pplx-archpsych-1027a, 2026-10-27 13:45Z = T+40)
+# bounded-checks correction v2 (worker-pplx-archpsych-1027a, 2026-10-27 ~13:43Z = T+38 (timestamp corrected))
 
 Advisor QC milestone correction for my bounded-check series (10 receipts, not 8 as I first stated). This receipt downgrades overstated claims and applies the owner's teaching-only ruling. Each correction below amends the named receipt in place (edits to my own receipts only).
 

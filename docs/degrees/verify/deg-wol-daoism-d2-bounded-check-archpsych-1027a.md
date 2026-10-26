@@ -15,7 +15,7 @@ Bounded Phase-D2 verification assist for baton **deg-arch-d2-wolx6** (deg-archda
 ### 2. Harvard Puett course — CORROBORATED (via Harvard Online listing)
 
 - Ledger claims: 13 weeks × 1–2 h/week, free audit tier, $149 verified optional; audit-tier scope unverified.
-- CORROBORATED (read via a search excerpt that quoted the page text; not fetched directly): the live listing at https://harvardonline.harvard.edu/course/path-happiness-what-chinese-philosophy-teaches-us-about-good-life states: 13 weeks, 1–2 hours a week; "Audit the course for free and have access to **select** course material, activities, tests, and forums"; Verified Certificate $149 with unlimited access to full course materials; instructor Michael Puett, Walter C. Klein Professor of Chinese History and Anthropology; delivered via edX. (A direct fetch would strengthen this to OPENED — left as noted.)
+- CORROBORATED (v3: page now DIRECTLY FETCHED — https://harvardonline.harvard.edu/course/path-happiness-what-chinese-philosophy-teaches-us-about-good-life, trusted Harvard Online source): 13 weeks, 1–2 hours per week; free audit track "Includes access to select course materials, activities, tests, and forums. Does not offer a certificate."; $149 Verified Certificate "Includes unlimited access to full course materials..."; instructor Michael Puett, Walter C. Klein Professor of Chinese History and Anthropology; delivered via edX.
 - REMAINS OPEN (unchanged from ledger): which specific materials the audit tier unlocks (whether the Daoism units are included) is still not verified.
 - NOTE for the lane: the direct www.edx.org course URL variant returns 404 from this environment (curl, browser UA); the Harvard Online page is the working public listing to cite.
 
