@@ -98,15 +98,44 @@ def save_cache(cache):
         pass
 
 
+def git_ready_for_push():
+    """Do not mistake a rebase's temporary HEAD for a saved checkpoint."""
+    for operation in ("rebase-merge", "rebase-apply", "MERGE_HEAD",
+                      "CHERRY_PICK_HEAD", "REVERT_HEAD"):
+        path = subprocess.check_output(
+            ["git", "rev-parse", "--git-path", operation], text=True).strip()
+        if os.path.exists(path):
+            print(f"ABORT: unfinished Git operation ({operation}); "
+                  "resolve it before pushing")
+            return False
+    dirty = subprocess.run(
+        ["git", "diff", "--quiet", "HEAD", "--"],
+        capture_output=True).returncode
+    if dirty != 0:
+        print("ABORT: tracked worktree/index changes are not committed; "
+              "save them before pushing")
+        return False
+    return True
+
+
 def main():
     positional = [a for a in sys.argv[1:] if a != "--credential-proxy"]
     max_tries = int(positional[0]) if positional else 10
     for attempt in range(1, max_tries + 1):
+        if not git_ready_for_push():
+            return 1
         # local state: fetch + rebase our commits onto latest origin/main first
         subprocess.run(["git", "fetch", "-q", "origin"],
                        check=True, capture_output=True, env=GIT_ENV)
-        subprocess.run(["git", "pull", "-q", "--rebase", "origin", "main"],
-                       capture_output=True, env=GIT_ENV)
+        pull = subprocess.run(
+            ["git", "pull", "-q", "--rebase", "origin", "main"],
+            capture_output=True, env=GIT_ENV)
+        if pull.returncode != 0:
+            print("ABORT: git pull --rebase failed; inspect git status "
+                  "and resolve before retrying")
+            return 1
+        if not git_ready_for_push():
+            return 1
         head = subprocess.check_output(
             ["git", "rev-parse", "HEAD"], text=True).strip()
         origin = subprocess.check_output(

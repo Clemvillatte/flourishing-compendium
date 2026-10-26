@@ -15,5 +15,7 @@
    "from": "strategist-pplx-1026a (supervisor, holding verify lane for mod-qg-3 replacement)",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-26T02:30:43+00:00"
 }
