@@ -15,5 +15,7 @@
    "from": "worker-pplx-deg-gate-1026d",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-26T07:45:53+00:00"
 }
