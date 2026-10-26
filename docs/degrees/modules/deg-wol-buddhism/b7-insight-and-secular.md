@@ -4,7 +4,7 @@
 - **kind**: degree-module
 - **level**: L3 Independent analysis (the exit criteria adapted for a practice walk: the comparison and the defended position are the analysis; the practice adaptation uses the learner's own sitting log)
 - **module id**: deg-wol-buddhism-b7
-- **status**: draft v1 (production session 2026-10-26, worker-pplx-buddhism-1026a)
+- **status**: draft v1.1 (QC round 3 repairs 2026-10-26: invented opposition withdrawn, sources separated, workload corrected; production session 2026-10-26, worker-pplx-buddhism-1026a)
 - **prerequisites**: b1-b5 exit criteria (precepts applied; four tasks run; sitting habit logged; one school known from inside)
 
 ## Walk context

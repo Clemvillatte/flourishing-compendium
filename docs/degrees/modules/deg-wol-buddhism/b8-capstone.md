@@ -4,7 +4,7 @@
 - **kind**: degree-module (integrative capstone)
 - **level**: L4 Synthesis
 - **module id**: deg-wol-buddhism-b8
-- **status**: draft v1 (production session 2026-10-26, worker-pplx-buddhism-1026a)
+- **status**: draft v1.1 (QC round 3 repairs 2026-10-26: revision-required pass rule, cadence and two-schools alignment; production session 2026-10-26, worker-pplx-buddhism-1026a)
 - **prerequisites**: b1-b7 exit criteria (all prior modules' outcomes, including the sitting log, the four-tasks worksheet, the school placements and the b7 defended comparison)
 
 ## Walk context

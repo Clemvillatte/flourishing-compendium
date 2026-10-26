@@ -4,7 +4,7 @@
 - **kind**: degree-module (ELECTIVE; serves the meditating learner's need to understand their own mind in practice, per the scope's elective test — the hindrances as experienced, not as scholastics)
 - **level**: L2 Guided application
 - **module id**: deg-wol-buddhism-b9
-- **status**: draft v1 (production session 2026-10-26, worker-pplx-buddhism-1026a)
+- **status**: draft v1.1 (QC round 3 repairs 2026-10-26: date and bio claims withdrawn, honest not-observed allowed, experiment records required; production session 2026-10-26, worker-pplx-buddhism-1026a)
 - **prerequisites**: b1 and b4 exit criteria (a sitting practice with a log exists; this elective reads that practice)
 
 ## Walk context

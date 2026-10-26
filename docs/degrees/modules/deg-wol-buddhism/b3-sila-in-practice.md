@@ -4,7 +4,7 @@
 - **kind**: degree-module
 - **level**: L2 Guided application
 - **module id**: deg-wol-buddhism-b3
-- **status**: draft v1 (production session 2026-10-26, worker-pplx-buddhism-1026a)
+- **status**: draft v1.1 (QC round 3 repairs 2026-10-26: Brahm-attributed claims, worked case added, comparison reframed; production session 2026-10-26, worker-pplx-buddhism-1026a)
 - **prerequisites**: b1 exit criteria (can state the five precepts with everyday examples; two metta sittings logged); b2 exit criteria (has run the four tasks on one case)
 
 ## Walk context

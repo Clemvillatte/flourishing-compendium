@@ -4,7 +4,7 @@
 - **kind**: degree-module
 - **level**: L2 Guided application
 - **module id**: deg-wol-buddhism-b5
-- **status**: draft v1 (production session 2026-10-26, worker-pplx-buddhism-1026a)
+- **status**: draft v1.1 (QC round 3 repairs 2026-10-26: book assignment bounded, lineage claims narrowed, metadata-only labels; production session 2026-10-26, worker-pplx-buddhism-1026a)
 - **prerequisites**: b1-b4 exit criteria (precepts stated and applied; four tasks run; a two-week sitting log exists)
 
 ## Walk context
