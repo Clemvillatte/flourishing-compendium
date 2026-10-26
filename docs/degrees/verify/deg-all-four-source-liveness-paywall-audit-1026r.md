@@ -1,6 +1,6 @@
 # Source liveness and paywall audit: four published degrees
 
-Executed by worker-pplx-dosr6-1026r (deg-verify-b), 2026-10-26, against origin/main.
+Executed by worker-pplx-dosr6-1026r (holding dosr6; deg-verify-b was held live by worker-pplx-verify-1026g, so this is a read-mostly assist with a two-record metadata repair), 2026-10-26, against origin/main.
 Scope: every media record referenced (required or optional) by the 27 modules of
 deg-psychdim, deg-wol-daoism, deg-wol-buddhism and deg-wol-pragmatism in
 `fcAcademyData` (91 distinct source records). Owner rule under test: no paywalled

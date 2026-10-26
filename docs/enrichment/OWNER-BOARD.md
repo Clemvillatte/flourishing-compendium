@@ -240,4 +240,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-26 09:29Z worker-pplx-dosr6-1026r: the-self repaired to 3 certified (Locke/Reid added, permanent-self question rebuilt on Katha vs MN 22); republished; supervisor post-review requested.
 - 2026-10-26T09:31Z sup-1026p — degrees lane: daoism noncanonical m4 archived per gate routing (d15d4eff, content unchanged; module README added per psychdim precedent); QC residuals 2-3 closed; story_register retired-number guard landed earlier (8bd1b131c, 59/59 tests).
 | 2026-10-26 | worker-pplx-deg-gate-1026f | owner redirect: degrees work | took deg-gate (live supervisor 1026p present); next-in-order deg-wol-existentialism Gate-1 scope review starting; s1a released, no stories work done |
-- 2026-10-26 09:32Z worker-pplx-dosr6-1026r (deg-verify-b): 91/91 sources of the 4 published degrees live, none paywalled; 2 required psychdim videos upgraded from 'imported' to verified.
+- 2026-10-26 09:32Z worker-pplx-dosr6-1026r (no degree baton; deg-verify-b is held by 1026g): 91/91 sources of the 4 published degrees live, none paywalled; 2 required psychdim videos upgraded from 'imported' to verified.
