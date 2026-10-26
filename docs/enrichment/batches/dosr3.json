@@ -1,15 +1,68 @@
 {
  "batch": "dosr3",
  "done": [
-  "2026-10-26 00:20Z STEP 0 scope check (sup-1026b-worker): all four assigned dossiers are ALREADY AT the 3-5 bar — the QC-7 below-bar list is STALE for this band too; no disagreement repairs needed. Incidental repair landed: story-card links re-pointed from the 23 removed duplicate ST copies to the kept first-registration copies (commit 424c8b9d9) after the supervisor duplicate reconciliation; dossier_check exit 0 for all four after the re-point; app.js data rebuilt."
+  "2026-10-26 00:20Z STEP 0 scope check (sup-1026b-worker): all four assigned dossiers are ALREADY AT the 3-5 bar — the QC-7 below-bar list is STALE for this band too; no disagreement repairs needed. Incidental repair landed: story-card links re-pointed from the 23 removed duplicate ST copies to the kept first-registration copies (commit 424c8b9d9) after the supervisor duplicate reconciliation; dossier_check exit 0 for all four after the re-point; app.js data rebuilt.",
+  "2026-10-26 02:10Z baton re-claimed (worker-pplx-dosr3-1026b): SUBSTANTIVE per-question review opened per the narrowed HANDOFF conclusion (STEP 0 verified counts and headings only; dosr2 is the model close). All four disagreement sections read in full, unfiltered. Provisional verdicts below use the same-proposition/same-conditions test; advisor-routed source re-opens in progress."
  ],
- "detail": {
-  "agency": "3 substantiated questions (say-coverage; feeling-of-choosing vs the act; self-alignment as control) — published; dossier_check OK (60 card links).",
-  "anger": "3 substantiated questions (fitting anger Aristotle NE IV.5 vs Seneca De Ira; courage needing passion; venting vs time) — published; dossier_check OK (61 card links).",
-  "cognition": "3 substantiated questions (representativeness definition; cognition extending into the world; reasoning vs post-hoc moral judgment) — published; dossier_check OK after card re-point (92 card links).",
-  "goals": "3 substantiated questions (goal-setting criticism; outcome vs attempt aims; picturing the aim) — published; dossier_check OK (52 card links)."
+ "in_progress": "worker-pplx-dosr3-1026b — advisor-routed source re-opens: (1) Aristotle NE III.8 + Seneca De Ira I.9 for the anger Q2 aids-vs-needs mismatch; (2) Rupert primary for cognition Q2; (3) Pizarro/Bloom full text for cognition Q3; (4) Locke/Latham founders' reply primary for goals Q1; (5) Taylor-Brown 1988/1994 + Colvin-Block 1994 originals for goals Q3 reframe; (6) Gould 1999 critique for agency Q3.",
+ "flagged": {},
+ "per_dossier": {
+  "agency": [
+   {
+    "q": "What the person's say covers (Epictetus control division vs Rotter locus / Bandura outcome-vs-efficacy)",
+    "verdict": "UNRESOLVED (provisional) — Epictetus's normative division (act vs outcome) and Rotter's perception construct do not exclude each other; the Bandura mapping is the dossier's own parallel ('the Stoic line drawn in psychological dress'), not a denial. No opened passage denies the other side's claim under the same conditions."
+   },
+   {
+    "q": "Does the feeling of choosing cause the act? (Wegner vs Baumeister/Masicampo/Vohs 2011)",
+    "verdict": "UNRESOLVED — the dossier itself states the two abstracts 'do not contradict each other as sharply as the titles suggest' and 'both can be true': Wegner denies the feeling reveals the causal chain; Baumeister et al. affirm conscious thoughts move behavior indirectly. Different propositions (feeling vs thought), both may hold."
+   },
+   {
+    "q": "Is bringing the self into line a form of control or a lesser one? (Rothbaum/Weisz/Snyder 1982 vs Heckhausen/Schulz 1995)",
+    "verdict": "UNRESOLVED (provisional) — RWS present secondary control as a second process without ranking; H&S affirm secondary control exists and rank primary functionally above it. Neither denies the other's claim; the genuine head-on primacy dispute (Gould 1999 vs Heckhausen/Schulz 1999) was NOT read — the dossier admits knowing Gould only from the reply's abstract."
+   }
+  ],
+  "anger": [
+   {
+    "q": "Is anger ever fitting? (Aristotle NE IV.5 vs Seneca De Ira)",
+    "verdict": "PASS — direct head-on: Aristotle praises anger at the right things/people/times; Seneca denies the fitting case exists (anger is by definition a mistake). Same proposition, opposite answers."
+   },
+   {
+    "q": "Does courage need anger? (Aristotle NE III.8 vs Seneca On Anger I.9)",
+    "verdict": "PROVISIONAL PASS, mismatch flagged for source re-open — Aristotle's opened passage says passion AIDS the brave (not that it is required); Seneca's 'a virtue... never needs the assistance of a vice' denies necessity. 'Aids' vs 'needs' is not the same proposition; re-opening NE III.8 and De Ira I.9 to test the narrower question 'can anger aid courageous action under reason's direction?' before certifying."
+   },
+   {
+    "q": "Does venting discharge anger, or does time? (catharsis theory vs Bushman 2002)",
+    "verdict": "PASS — Bushman's controlled experiment directly tests and refutes the catharsis claim it states; the Seneca delay advice is a convergent practical conclusion, honestly flagged as a different kind of claim (advice vs controlled comparison)."
+   }
+  ],
+  "cognition": [
+   {
+    "q": "Must representativeness be defined before it can explain judgments? (Gigerenzer 1996 vs Kahneman/Tversky 1996)",
+    "verdict": "PASS — same-journal exchange; K&T explicitly answer Gigerenzer's objection ('This objection misses the point...') and Gigerenzer explicitly denies the label-based program. Direct."
+   },
+   {
+    "q": "Does cognition extend into the world, or only embed itself in it? (Clark/Chalmers vs Rupert)",
+    "verdict": "PROVISIONAL PASS, carrier caveat — the opposition is stated in the dossier from the SEP exposition of both sides; Rupert's original argument not yet opened. Re-open check queued: follow the SEP bibliography to Rupert's primary statement."
+   },
+   {
+    "q": "Does reasoning cause moral judgments, or explain them afterwards? (Haidt 2001 vs Pizarro/Bloom 2003)",
+    "verdict": "PROVISIONAL PASS — same-journal direct commentary; but Haidt's 'usually' leaves room and Pizarro/Bloom's exact denial needs the full text, not the abstract phrase. Re-open check queued."
+   }
+  ],
+  "goals": [
+   {
+    "q": "Does the criticism of goal-setting make its case? (Ordonez et al. vs Locke/Latham)",
+    "verdict": "PROVISIONAL PASS, carrier caveat — the exchange is real and same-issue, but the founders' rejoinder is quoted via CBS News reporting, not an opened primary source. Open copy of the founders' reply queued before certifying."
+   },
+   {
+    "q": "Should an aim be set on the outcome or on the attempt? (Locke/Latham vs Cicero's Stoic archer)",
+    "verdict": "UNRESOLVED — the dossier itself says 'the two stances answer different questions, so I do not call either of them refuted' (empirical performance vs where the good of a life sits). A structured comparison, not a head-on denial."
+   },
+   {
+    "q": "Does picturing the aim help the one who pursues it? (Taylor/Brown 1988 vs Oettingen/Mayer 2002; Colvin/Block 1994)",
+    "verdict": "UNRESOLVED under the current framing (provisional) — the dossier itself says the sources 'measure different things' (illusions/odds vs fantasies/imagining) and it does not read them as a direct contradiction. REPAIR LEAD (advisor): the Taylor-Brown vs Colvin-Block same-journal exchange is a genuine dispute over evidential adequacy; reframe as 'Does the evidence substantiate the positive-illusions thesis?' after opening both originals (T&B's 1994 reply included)."
+   }
+  ]
  },
- "note": "STEP 0 rule applied per PIPELINE Lane 2. Count + structure + spot-substance (anger section carries verbatim Aristotle NE IV.5 quote with carrier link) verified against the files; registry status published for all four.",
- "in_progress": "none — band complete",
- "flagged": {}
+ "reconciliation": "PROVISIONAL TALLY (2026-10-26 02:25Z, source re-opens in progress): anger 2 PASS + 1 provisional; cognition 1 PASS + 2 provisional; goals 1 provisional + 2 unresolved; agency 0 + 3 unresolved. If the re-opens confirm, AGENCY and GOALS sit BELOW the strict 3-5 bar and are flagged for repair or owner ruling; anger and cognition hold at 3 if their re-opens confirm."
 }
