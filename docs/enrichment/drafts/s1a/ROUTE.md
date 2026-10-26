@@ -845,3 +845,32 @@ D144 principle page's own sourced quotation is this passage, verified this
 session). The live page's "centuries before anyone measured heart-rate
 variability" historical claim removed as unsupported. story_check --context
 published: 0 errors (temp-copy method, live page untouched).
+
+2026-10-26T00:46:22Z storyteller-pplx-s1a-1026b: ADVISOR-DRIVEN BATCH REPAIR (item 20 QC round)
+pushed across the lane's prepared drafts — story_check re-run on ALL
+s1a-076..095 temp copies after repairs: 0 errors everywhere. Repairs:
+ST024 (s1a-084) summary corrected to the source's gentle/violent contrast
+(was "chisel too slow/fast") and "seventieth year" restored as his age;
+ST025 (s1a-085) summary corrected to the pellet training (was "balanced
+poles with increasing weights") and the unsupported "caught before it knows
+he is there" line removed; ST011 (s1a-091) opening rewritten to what the
+opened passage supports (storage jar, Athens, "owning almost nothing" and
+"stock stories" claims removed; "plainness of living" per the quote);
+ST049 (s1a-094) body quote's dash corrected to match the extraction exactly
+("bamboo- allow") and the constructed ctext URL removed from the provenance
+line; ST045 (s1a-095) reading narrowed (the inherited "settled nervous
+system" physiology removed as an empirical claim the passage does not
+establish; literal-instruction disclaimer added) and the unestablished §3
+locator omitted; ST032 (s1a-093) the mid-sentence elision replaced with the
+full passage verbatim (and the summary trimmed to fit the prose cap);
+ST010 (s1a-089) the mid-sentence ellipsis replaced with the full text;
+ST023 (s1a-092) the Joë Bousquet attribution removed (not established by
+anything opened; the line is now described only as not verified in the
+inspected carrier); ST018 (s1a-087) and ST019 (s1a-081) flags softened —
+"not in the opened Legge translation" is the established fact, not "has no
+source in any translation". Also: the s1a-095 ROUTE entry's earlier
+claimed T+39:34 was wrong (the push reported T+38:45); all timestamps in
+this and future entries are generated directly from date -u at write time,
+and the earlier "~"-estimated times in this file should be treated as
+unreliable (see the correction entry at T+33:59 with the actual clock
+readings).
