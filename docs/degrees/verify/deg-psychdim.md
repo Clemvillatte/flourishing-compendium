@@ -665,9 +665,18 @@ credentials are checked separately from article affiliations.
   [2021 Vohs report](https://pmc.ncbi.nlm.nih.gov/articles/PMC12422598/)
   uses 36 laboratories and 3,531 participants, excluding
   1,068 under preregistered criteria for its confirmatory
-  analyses, and reports d = 0.06, CI [−0.02, 0.14].
-  Neither result licenses a universal daily willpower
-  budget.
+  analyses. Its Table 4 primary performance estimate uses
+  2,461 participants after additional missing outcomes,
+  and reports d = 0.06, CI [−0.02, 0.14]
+  ([Participants and Table 4](https://pmc.ncbi.nlm.nih.gov/articles/PMC12422598/)).
+- **What those estimates measure:** the experiments compare
+  subsequent laboratory-task performance after different
+  initial-task conditions. They do not measure psychological
+  fuel or a daily willpower budget. Different protocols also
+  prevent reading these estimates as a like-for-like
+  historical trend
+  ([Dang methods](https://pmc.ncbi.nlm.nih.gov/articles/PMC6013521/);
+  [Vohs methods](https://pmc.ncbi.nlm.nih.gov/articles/PMC12422598/)).
 - **Confirmatory/exploratory boundary:** Vohs and colleagues'
   confirmatory result did not find the hypothesised
   depletion effect; an exploratory full-sample analysis
@@ -688,8 +697,13 @@ credentials are checked separately from article affiliations.
   response and revisable practice. If the owner retains
   a short research-literacy contrast, assign only
   Dang's *Does ego depletion exist?* subsection and
-  the Vohs abstract and discussion's alternative
-  interpretations, without adding the entire history.
+  the Vohs abstract plus the three interpretation
+  paragraphs beginning “How do these findings inform
+  an understanding of ego depletion?” and ending
+  “depletion effects may be conditional”
+  ([precise interpretation passage](https://pmc.ncbi.nlm.nih.gov/articles/PMC12422598/)).
+  No whole Discussion or supplementary-analysis
+  assignment is proposed.
 - **Walk of Life safeguard:** neither fatigue nor a
   difficult evening proves that a finite resource has
   been exhausted. Learners should not be told their
@@ -704,3 +718,62 @@ credentials are checked separately from article affiliations.
   from core unless a unique bounded learner need is
   demonstrated. No new required resources or gate
   clearance.
+
+## PD-V13: Existing emotion-functions reading, bounded to response choice
+
+- **Opened:** 2026-10-26, verifier-96108df3. Search for the
+  independent credential and complete, unprompted
+  [Noba text](https://nobaproject.com/modules/functions-of-emotions),
+  including discussion questions, vocabulary, references and
+  author biographies. This checks an existing M2 candidate.
+- **Identity and access:** Hyisung Hwang and David Matsumoto,
+  *Functions of Emotions*, Noba textbook series. Anonymous
+  English full text, CC BY-NC-SA 4.0. The page recommends
+  a 2026 citation but supplies no first-publication date;
+  that year alone does not establish a new 2026 research
+  finding
+  ([byline, licence and citation guidance](https://nobaproject.com/modules/functions-of-emotions)).
+- **Independent credential:** San Francisco State's
+  [departmental concentration page](https://psychology.sfsu.edu/social-personality-and-affective-science-psychology-graduate-concentration)
+  identifies Matsumoto as emeritus, with a Berkeley PhD,
+  and describes culture-and-emotion expertise. Its
+  [news expert page](https://news.sfsu.edu/experts/david-matsumoto)
+  also confirms relevant expertise and the degree.
+  Use the departmental emeritus wording rather than
+  implying a newly checked active appointment. Hwang's
+  positions are stated on Noba itself; no separate
+  institutional appointment check is claimed for her.
+- **Evidence type:** an introductory teaching synthesis
+  organised around intrapersonal, interpersonal and
+  social/cultural functions. It cites earlier research;
+  it reports no new trial testing a personal exercise
+  ([module](https://nobaproject.com/modules/functions-of-emotions)).
+- **Exact proposed assignment:** only the two paragraphs
+  at the end of *Emotions Prepare the Body for Immediate
+  Action*, beginning “One common misunderstanding many
+  people have” and ending “albeit an important one.”
+  The passage distinguishes readiness for action from
+  what a person actually does, with context, consequences
+  and experience among the influences
+  ([selected passage](https://nobaproject.com/modules/functions-of-emotions)).
+- **Finite learner task:** for a fictional, low-stakes
+  annoyance, name the feeling, the action it inclines
+  the character toward, one contextual constraint and
+  two possible responses. This is a proposed educational
+  exercise; the page does not establish its effectiveness.
+  It earns its place only if M2 needs this response-choice
+  distinction alongside the regulation material in PD-V10.
+- **Boundaries:** the selected passage does not teach the
+  whole three-domain taxonomy or every emotion theory.
+  Do not assess those from this excerpt. Exclude the
+  outside training tools, facial-expression demos and
+  extended cultural-survival narrative from this proposed
+  assignment. In particular, do not turn introductory
+  claims about expressive signals into a personal
+  mind-reading test
+  ([full module and outside resources](https://nobaproject.com/modules/functions-of-emotions)).
+- **Status:** existing candidate's identity, anonymous
+  access, complete content and one independent
+  coauthor credential checked. Narrow placement
+  proposal only; no curriculum expansion, recency
+  credit or gate clearance.

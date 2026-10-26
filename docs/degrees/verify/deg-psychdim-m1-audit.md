@@ -2,7 +2,7 @@
 
 Verifier: verifier-96108df3, `deg-verify-b`, 2026-10-26.
 Target: `modules/deg-psychdim/m1-orientation.md` at owner commit
-`2797000ea`, with subsequent rechecks through `fad50cb03`. This is a
+`2797000ea`, with subsequent rechecks through `db2633a17`. This is a
 read-only audit of the owner's teaching file:
 no module edits, gate changes or publication clearance.
 
@@ -390,3 +390,41 @@ This audit is routed to the production owner and independent
 pedagogical reviewer. Recheck the changed paragraphs and revised
 assignment workload after the owner applies or explicitly adjudicates
 these repairs; do not clear gates from this evidence file.
+
+## Recheck after owner commit db2633a17
+
+The revised owner file was read against the earlier findings. The
+following dispositions supersede the corresponding residuals in the
+`fad50cb03` recheck:
+
+- **M1-V03 wording repaired:** the example now names Study 4's
+  randomised framing and uses model-conditional association wording.
+  The wave counts, attrition qualification and between-person
+  distinction remain present.
+- **M1-V04 wording repaired:** the opening now asks which processes
+  and circumstances may be involved. This removes the implication
+  that assigning a dimension identifies the operative cause.
+- **M1-V06 required-reading mismatch repaired:** Woolley is now
+  optional in both Step 4 and the workload explanation. The worked
+  example supplies the relevant numbers, so the 5,273-word source
+  excerpt is no longer an unbudgeted requirement. The counts above
+  describe the earlier assignment, not the revised learner workload.
+- **Minor arithmetic residual:** the listed components
+  105 + 15 + 30 + 30 + 60 sum to 240 minutes, whereas the prose says
+  about 245. The correction passage is explicitly inside the
+  105-minute reading allowance. Use one consistent approximate
+  total; no extra task or reading is requested.
+- **M1-V07 remains for owner adjudication:** the general model
+  explanation still says it accounts for earlier outcome levels
+  without the first-path exception. The beta-scale safeguard above
+  remains a proposed addition. Advisor QC independently checked the
+  wording against the first equation and its standardised estimate.
+- **Bibliographic presentation:** the Maitland link uses a shortened
+  title. Its complete title is supplied above; using a shortened
+  display title is not itself evidence that the wrong paper was
+  linked.
+
+This is a source-audit status update. M1 remains DRAFT NOT CLEARED;
+the stop-gate ruling and independent pedagogical review belong to
+the authorised reviewers. No new statistical analysis, module
+content or gate decision was made by this verifier.
