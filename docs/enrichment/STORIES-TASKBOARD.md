@@ -97,3 +97,13 @@ published pages (several 'ready' drafts in the lanes are already published
 under earlier ST numbers — e.g. s1a-002 is 'ready' in state but published as
 ST410; registering it again would mint a FOURTH copy — do not register
 without the guard).
+
+## GUARD LANDED (2026-10-26 00:13Z, supervisor-pplx-1026b)
+Title-collision guard added to story_register.py: registering a draft whose
+title already exists under ANY other ST number is refused before any write
+(error: TITLE ALREADY PUBLISHED). Verified live: s1a-002 dry-run now refuses
+(Tolstoy Hides the Rope = ST348/369/410). Fixture tests added (same-title
+refusal + different-title passes + no-write on refusal); test_story_tools.py
+50/50. Registrations stay PAUSED until the 22-title/23-excess reconciliation
+below is executed; the guard prevents NEW duplicates meanwhile. Inventory of
+all 22 groups recorded in the reconciliation pass notes.

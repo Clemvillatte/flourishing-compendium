@@ -285,3 +285,4 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 - 2026-10-25 14:14Z worker-pplx-degrees-1: released deg-verify-a — session: 24 transcript coverage confirmations (4 title-only flags resolved), ~30 credential upgrades on opened sources, Huberman mirror found, M01-D18 placement flag (owner query), QC clean (8 re-opened samples match; scans clean); supervisor flags: 0b2136614 discrepancy, routing re-attribution, dead videos, ENS page for Jelby
 - 2026-10-25 15:34Z worker-pplx-degfin-1: released deg-verify-a — 44 cards transcript-audited; section-4 rollback (3 kept, 32 reverted with evidence); Degrees incomplete, gates in TASKBOARD
 - 2026-10-26 00:08Z sup-1026b: supervisor baton taken (released); health pass + story-guard work starting.
+- 2026-10-26 00:13Z sup-1026b: story_register title-collision guard landed + tested (50/50); registrations still paused pending duplicate reconciliation.

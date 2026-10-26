@@ -156,6 +156,24 @@ def main():
             if re.match(rf'ST{n:03d} — ', existing):
                 errs.append(f'ST number {n:03d} already used by {existing}')
                 break
+    # title-collision guard (2026-10-26, duplicate-registration finding): a published
+    # story with the SAME title under ANY other ST number blocks registration —
+    # re-registering an already-published title is what minted the 23 excess copies.
+    def _norm(s):
+        return re.sub(r'\s+', ' ', s).strip()
+    if os.path.isdir(env.stories):
+        collisions = []
+        for existing in os.listdir(env.stories):
+            mm = re.match(r'ST(\d{3}) — (.*)\.md$', existing)
+            if not mm or int(mm.group(1)) == n:
+                continue
+            if _norm(mm.group(2)) == _norm(title):
+                collisions.append(existing)
+        if collisions:
+            errs.append('TITLE ALREADY PUBLISHED under another ST number: ' +
+                        ', '.join(sorted(collisions)) +
+                        ' — re-registering a published title would mint a duplicate '
+                        '(see STORIES-TASKBOARD duplicate-registration finding)')
     order = json.load(open(env.order, encoding='utf-8'))
     entry = f'content/stories/{fname}.md'
     if entry in order:

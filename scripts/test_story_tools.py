@@ -276,6 +276,23 @@ def main():
                         os.path.join(fx, 'draft.md'), '--root', fx, '--write',
                         '--chapter', 'ST-S01.01', '--id', '3'], capture_output=True, text=True)
     check('released band treated as free', r.returncode == 0, r.stdout + r.stderr)
+    # title-collision guard (2026-10-26): same title under ANOTHER ST number -> refused
+    r = subprocess.run([sys.executable, os.path.join(ROOT, 'scripts', 'story_register.py'),
+                        os.path.join(fx, 'draft.md'), '--root', fx, '--write',
+                        '--chapter', 'ST-S01.01', '--id', '4'], capture_output=True, text=True)
+    check('same title under another ST number refused',
+          r.returncode == 1 and 'TITLE ALREADY PUBLISHED' in r.stdout, r.stdout + r.stderr)
+    check('guard refusal makes no write',
+          not os.path.exists(os.path.join(fx, 'content', 'stories', 'ST004 — A Test Story.md')))
+    # a DIFFERENT title still registers cleanly (no false positives)
+    other = draft.replace('title: A Test Story', 'title: A Different Story')
+    open(os.path.join(fx, 'other.md'), 'w').write(other)
+    r = subprocess.run([sys.executable, os.path.join(ROOT, 'scripts', 'story_register.py'),
+                        os.path.join(fx, 'other.md'), '--root', fx, '--write',
+                        '--chapter', 'ST-S01.01', '--id', '4'], capture_output=True, text=True)
+    check('different title registers cleanly',
+          r.returncode == 0 and os.path.exists(os.path.join(fx, 'content', 'stories', 'ST004 — A Different Story.md')),
+          r.stdout + r.stderr)
     shutil.rmtree(fx)
 
     print('save-path guard (isolated git fixture):')
