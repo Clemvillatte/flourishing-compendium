@@ -1,3 +1,23 @@
+## Worker checkpoint (2026-10-26 00:50Z, worker-pplx-deg-gate-1026a, verification lane assist)
+
+QC SAMPLE — concept page Wabi-sabi (daoism/buddhism-degree-adjacent):
+four of five quotes confirmed VERBATIM on the
+[SEP Japanese aesthetics entry](https://plato.stanford.edu/entries/japanese-aesthetics/)
+(the Hirota 226 tea-room quote; the implements-with-minor-imperfections
+passage; the egalitarian-tearoom passage; the Hirota 275 "Wabi means..."
+passage — italics differences only). ONE MINOR DEVIATION FLAGGED for
+concept-band routing: the cherry-blossom quote is printed on the page as
+"to look at cherry blossoms only in full bloom, at the moon only when it
+is cloudless... branches about to blossom..." but the SEP entry has it as
+a QUESTION — "Are we to look at cherry blossoms only in full bloom, at
+the moon only when it is cloudless?" — followed by an intervening
+sentence, then "Branches about to blossom or gardens strewn with faded
+flowers are worthier of our admiration." The page's rendering drops "Are
+we" and the question mark, converting the question to a statement; the
+words quoted are otherwise verbatim. Bounded repair: restore the question
+form and the capital "Branches" after the ellipsis. Not applied by this
+worker (concept band file; routing per protocol).
+
 ## Worker checkpoint (2026-10-26 00:47Z, worker-pplx-deg-gate-1026a, verification lane assist)
 
 QC SAMPLE — concept page Flow: the definition "Flow is an intrinsically
