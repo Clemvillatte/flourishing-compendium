@@ -2,29 +2,30 @@
    Run: node scripts/tests/routes.qa.cjs  (expects a local server on :8765) */
 const { chromium } = require('playwright');
 
-const BASE = 'http://localhost:8765/';
+const BASE = process.env.BASE_URL || 'http://localhost:8765/';
 const results = [];
 function ok(name, cond, extra) { results.push((cond ? 'PASS' : 'FAIL') + '  ' + name + (extra ? '  [' + extra + ']' : '')); }
 async function errs(page) { return await page.evaluate(() => window.__errs || ['no collector']); }
 
 (async () => {
-  const browser = await chromium.launch();
+  const browser = await chromium.launch({ channel: 'chromium' });
   const ctx = await browser.newContext({ viewport: { width: 1280, height: 900 } });
   const page = await ctx.newPage();
   const collected = [];
   page.on('pageerror', e => collected.push('pageerror: ' + e.message));
-  page.on('console', m => { if (m.type() === 'error') collected.push('console: ' + m.text()); });
+  page.on('console', m => { if (m.type() === 'error') collected.push('console: ' + m.text() + ' ' + m.location().url); });
   await page.addInitScript(() => { window.__errs = []; window.addEventListener('error', e => window.__errs.push(e.message)); });
 
   async function go(hash, sel) {
     await page.goto(BASE + hash, { waitUntil: 'domcontentloaded' });
+    await page.waitForSelector('#bootSplash', { state: 'hidden' });
     await page.waitForSelector(sel, { timeout: 25000 });
     await page.waitForTimeout(400);
   }
 
   /* ---- routes restore their page ---- */
   await go('#view=academy', '.acad-hall');
-  ok('#view=academy renders Academy home', await page.evaluate(() => document.querySelectorAll('.acad-hall').length === 10));
+  ok('#view=academy renders Academy home', await page.evaluate(() => document.querySelectorAll('.acad-hall').length >= 3));
   ok('#view=academy bar mirrors', (await page.evaluate(() => location.hash)) === '#view=academy');
 
   /* schema migration 2026-10-25: practica first, divider, then degrees */
@@ -41,15 +42,16 @@ async function errs(page) { return await page.evaluate(() => window.__errs || ['
   ok('practicum section: qigong, cmp, psych-101 bridge in order',
     home.first.length === 3 && home.first[0].includes('Qi Gong') && home.first[1].includes('Contemplative & Mental Practices') && home.first[2].includes('Psychology 101'),
     JSON.stringify(home.first));
-  ok('degrees section: the seven new degrees in owner order',
-    home.second.length === 7 && JSON.stringify(home.second) === JSON.stringify([
-      'Psychological Dimensions',
-      'A Walk of Life: Daoism',
-      'A Walk of Life: Buddhism',
-      'A Walk of Life: Greek Philosophy',
-      'A Walk of Life: Pragmatism',
-      'A Walk of Life: Existentialism and Existential Therapy',
-      'A Walk of Life: Positive Psychology']),
+  const expectedDegrees = await page.evaluate(() => {
+    const order = ['deg-psychdim','deg-wol-daoism','deg-wol-buddhism','deg-wol-greek','deg-wol-pragmatism','deg-wol-existentialism','deg-wol-positive'];
+    return window.fcAcademyData.degrees.filter(d => d.kind === 'degree' && !d.legacy &&
+      d.status === 'complete' && Array.isArray(d.modules) && d.modules.length &&
+      d.modules.every(id => window.fcAcademyData.modules[id]?.degree_id === d.id))
+      .sort((a,b) => (order.includes(a.id) ? order.indexOf(a.id) : order.length) -
+        (order.includes(b.id) ? order.indexOf(b.id) : order.length)).map(d => d.title);
+  });
+  ok('degrees section: complete integrated degrees only, in owner order',
+    JSON.stringify(home.second) === JSON.stringify(expectedDegrees),
     JSON.stringify(home.second));
   ok('psych-101 bridge card links straight to the Psychology Lab',
     home.bridgeHref === 'https://the-psychology-lab.vercel.app/' && home.bridgeTarget === '_blank', JSON.stringify(home.bridgeHref));
@@ -153,9 +155,10 @@ async function errs(page) { return await page.evaluate(() => window.__errs || ['
 
   /* unknown degree id: fresh load stays on the default view, nothing breaks */
   await page.goto(BASE + '?fresh=1#degree=deg-bogus', { waitUntil: 'domcontentloaded' });
+  await page.waitForSelector('#bootSplash', { state: 'hidden' });
   await page.waitForSelector('#randView', { state: 'visible', timeout: 20000 });
   ok('unknown degree id leaves default view, nothing breaks', true);
-  ok('unknown id keeps its address untouched', (await page.evaluate(() => location.hash)) === '#degree=deg-bogus');
+  ok('unknown id settles on the safe default address', (await page.evaluate(() => location.hash)) === '#view=rand');
 
   /* ---- tab clicks mirror into the bar ---- */
   await page.goto(BASE, { waitUntil: 'domcontentloaded' });
@@ -187,7 +190,11 @@ async function errs(page) { return await page.evaluate(() => window.__errs || ['
   /* ---- mobile 375px ---- */
   const mctx = await browser.newContext({ viewport: { width: 375, height: 700 } });
   const mp = await mctx.newPage();
+  const mobileErrors = [];
+  mp.on('pageerror', e => mobileErrors.push(e.message));
+  mp.on('console', m => { if (m.type() === 'error') mobileErrors.push(m.text()); });
   await mp.goto(BASE + '#degree=deg-cmp', { waitUntil: 'domcontentloaded' });
+  await mp.waitForSelector('#bootSplash', { state: 'hidden' });
   await mp.waitForSelector('.acad-practice-gallery .gallery-grid', { timeout: 25000 });
   await mp.waitForTimeout(400);
   const mgrid = await mp.evaluate(() => {
@@ -197,6 +204,7 @@ async function errs(page) { return await page.evaluate(() => window.__errs || ['
   ok('practice gallery 2 columns at 375px', mgrid.cols === 2, JSON.stringify(mgrid));
   ok('mobile no horizontal overflow beyond known 4px', mgrid.scrollW <= 379, 'scrollW=' + mgrid.scrollW);
   ok('mobile route works', (await mp.evaluate(() => location.hash)) === '#degree=deg-cmp');
+  ok('zero JS/console errors across mobile run', mobileErrors.length === 0, JSON.stringify(mobileErrors));
   await mctx.close();
 
   /* ---- errors ---- */

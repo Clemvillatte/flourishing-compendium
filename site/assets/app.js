@@ -21409,6 +21409,27 @@ function acadProgressBar(done,total){
    Psychology Lab. Presentation only: practicum content is untouched.) ---------- */
 const ACAD_PRACTICUM_ORDER = ['deg-qigong','deg-cmp','deg-psychology-101'];
 const ACAD_NEW_DEGREE_ORDER = ['deg-psychdim','deg-wol-daoism','deg-wol-buddhism','deg-wol-greek','deg-wol-pragmatism','deg-wol-existentialism','deg-wol-positive'];
+/* Owner decision 7 (2026-10-26): new degrees are complete-only, including
+   direct addresses. "complete" is the supervisor's publication sign-off
+   after writing, verification, independent review and integration, not a
+   module-count inference. Legacy and practicum content keep their access.
+   Fail closed if that sign-off has no valid integrated syllabus. */
+function acadDegreeVisible(deg){
+  if(!deg) return false;
+  if(deg.legacy || deg.kind==='practicum') return true;
+  return deg.kind==='degree' && deg.status==='complete' &&
+    Array.isArray(deg.modules) && deg.modules.length>0 &&
+    deg.modules.every(function(mid){
+      const mod = moduleById(mid);
+      return !!mod && mod.degree_id===deg.id;
+    });
+}
+function acadModuleVisible(mod){
+  if(!mod) return false;
+  const deg = window.fcAcademyData.degrees.find(d=>d.id===mod.degree_id);
+  return acadDegreeVisible(deg) &&
+    (deg.legacy || deg.kind==='practicum' || deg.modules.includes(mod.id));
+}
 function acadDegreesBy(ids, extra){
   const degs = window.fcAcademyData.degrees;
   const picked = ids.map(function(id){ return degs.find(function(d){ return d.id===id; }); }).filter(Boolean);
@@ -21481,7 +21502,7 @@ function renderAcademyHome(){
   const wrap = el('div');
   const top = el('div','acad-topbar');
   top.appendChild(el('h2','acad-title','The Academy'));
-  top.appendChild(el('p','acad-sub','Self-directed study pathways: practica you can begin today, and degrees now in development. Each module is anchored in curated long-form video by credentialed presenters. Non-accredited; for genuine flourishing.'));
+  top.appendChild(el('p','acad-sub','Self-directed study pathways: practica you can begin today, and completed degrees. Each module is anchored in curated long-form video by credentialed presenters. Non-accredited; for genuine flourishing.'));
 
   const actions = el('div','acad-actions');
 
@@ -21521,14 +21542,15 @@ function renderAcademyHome(){
   wrap.appendChild(rule);
   wrap.appendChild(acadSectionHeading('Degrees'));
   const dgrid = el('div','acad-hall-grid');
-  acadDegreesBy(ACAD_NEW_DEGREE_ORDER, d=>d.kind!=='practicum' && !d.legacy).forEach((deg,i)=>{
+  acadDegreesBy(ACAD_NEW_DEGREE_ORDER, d=>d.kind==='degree' && !d.legacy)
+    .filter(d=>!d.legacy && d.kind==='degree' && acadDegreeVisible(d)).forEach((deg,i)=>{
     dgrid.appendChild(acadHallCard(deg,i,false));
   });
   wrap.appendChild(dgrid);
 
   // About note — colophon, carrying the legacy link (owner decides their fate)
   const about = el('div','acad-colophon');
-  about.textContent = 'The Academy is the instructional sequence over the Learning Library of curated source records. Records carry mission provenance; gate evidence varies by record, and some inherit unresolved host-gate or duration questions. Views/likes do not matter. Curriculum status: draft; the seven degrees above are in development. The degrees from the earlier edition stay reachable here.';
+  about.textContent = 'The Academy is the instructional sequence over the Learning Library of curated source records. Records carry mission provenance; gate evidence varies by record, and some inherit unresolved host-gate or duration questions. Views/likes do not matter. New degrees appear only when complete. The degrees from the earlier edition stay reachable here.';
   const legacyLink = el('a','acad-btn ghost','Legacy degrees');
   legacyLink.href = '#view=legacy';
   legacyLink.style.marginTop = '10px';
@@ -21563,8 +21585,9 @@ function renderLegacyHome(){
 
 /* ---------- Degree detail (Editorial Academy: degree band + syllabus) ---------- */
 function renderDegreeDetail(degId){
+  pendingPracticeGallery = null;
   const deg = window.fcAcademyData.degrees.find(d=>d.id===degId);
-  if(!deg) return el('div','acad-empty','Degree not found');
+  if(!acadDegreeVisible(deg)) return el('div','acad-empty','Degree not found');
 
   const wrap = el('div','acad-detail');
 
@@ -21995,7 +22018,7 @@ function extractYouTubeId(url){
 /* ---------- Module detail ---------- */
 function renderModuleDetail(modId){
   const mod = moduleById(modId);
-  if(!mod) return el('div','acad-empty','Module not found');
+  if(!acadModuleVisible(mod)) return el('div','acad-empty','Module not found');
   const wrap = el('div','acad-detail');
   if(modId) wrap.dataset.mod = modId; // Psychonaute-inspired per-module palette
 
@@ -22414,7 +22437,7 @@ if(document.readyState!=='loading') initGallery();
     home: function(){ A.view='home'; A.degree=null; A.module=null; A.dossier=null; A.__gallery=false; switchView('academy'); },
     degree: function(id, practice){
       var deg = window.fcAcademyData.degrees.find(function(d){ return d.id === id; });
-      if (!deg) return false;
+      if (!acadDegreeVisible(deg)) return false;
       A.view='degreeDetail'; A.degree=id; A.__pg=!!practice; switchView('academy');
       if (practice){
         var target = document.querySelector('.acad-practice-gallery');
@@ -22423,7 +22446,7 @@ if(document.readyState!=='loading') initGallery();
       return true;
     },
     module: function(id){
-      if (!moduleById(id)) return false;
+      if (!acadModuleVisible(moduleById(id))) return false;
       A.view='moduleDetail'; A.module=id; switchView('academy');
       return true;
     },

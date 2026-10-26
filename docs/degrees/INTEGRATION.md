@@ -22,8 +22,36 @@ in the degrees array:
   content is untouched; the owner decides their fate.
 - status: "in-development" on the seven new degrees. Their modules arrays
   are empty on purpose: the degree owners deliver the module content, and
-  no module data may be fabricated by the integrator. Cards and degree
-  pages say so until real modules arrive.
+  no module data may be fabricated by the integrator. These entries remain
+  data-only: unfinished degrees have no Academy cards or accessible degree,
+  practice or module pages (owner decision 7, 2026-10-26).
+
+## Complete-only publication (owner decision 7)
+
+The supervisor sets `status: "complete"` only after **every** module is
+written, verified, independently reviewed and integrated. This is a human
+publication sign-off, not an automatic inference from a nonempty syllabus.
+The integrator must never flip it for a partial degree or attach unfinished
+modules. No new degree is complete at this change.
+
+The shared `acadDegreeVisible` predicate gates both the home and direct
+degree/practice addresses. Missing, draft, in-development and unknown status
+values fail closed. Even a signed-off degree stays hidden if its syllabus is
+empty or references missing modules or modules owned by another degree.
+`acadModuleVisible` also blocks direct module addresses for hidden degrees
+and unlisted new-degree modules. Detail renderers repeat these checks so a
+stale internal state cannot bypass the route gate.
+
+Legacy and practicum entries are explicit exceptions, retaining their
+existing access and content. The footer route stays `#view=legacy`; practica
+retain their order and the divider stays ahead of the Degrees section.
+When none are complete, that section has no degree cards.
+
+Tests: `node --test scripts/tests/academy-display.test.cjs` exercises the
+publication predicate against real data and isolated synthetic fixtures;
+`BASE_URL=http://127.0.0.1:8771/ node scripts/tests/academy-display.qa.cjs`
+checks rendered home, fresh routes, hash changes, modules, legacy access,
+practica and viewport/console regressions. Fixtures live only in test memory.
 
 The renderer orders the sections explicitly (practica: qigong, cmp,
 psychology-101; degrees: the owner's README order), so array position in
