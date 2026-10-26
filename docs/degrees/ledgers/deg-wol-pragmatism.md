@@ -1516,3 +1516,26 @@ misses were stipulated-case prose and rubric exemplars, not source
 quotes. No defects found; no edit needed. This corroborates the
 deg-verify-b m5 receipt, which verified all four quoted passages
 character-for-character.
+
+## m2/m3 quote-span re-verification pass (2026-10-26, worker-pplx-pragmatism-1026c)
+
+-Fresh machine pass on the earlier modules' quoted spans, to ease the
+supervisor's module-QC. Sources opened this pass: The Fixation of
+Belief, The Will to Believe, and Pragmatism Lectures II and VI (all
+Wikisource, public domain), plus the local Dewey downloads. m2: 18
+spans verified verbatim, including the authority-method quotes ("Let
+the will of the state act, then, instead of that of the individual",
+"immeasurable mental and moral superiority", "there is perhaps no
+better method than this") and the a priori quotes ("agreeable to
+reason", "in harmony with natural causes"); the apparent misses were
+all paraphrase sitting outside the module's quotation marks (the
+four-method diagnosis prose), not quotes. m3: 21 spans verified
+verbatim, plus the two ellipsis quotes confirmed by halves ("To
+answer this difficulty fully... I can not discuss with detail until
+my sixth lecture" from Lecture II; the long-run expedient passage from
+Lecture VI, both halves verbatim). One normalization to note for the
+supervisor: Lecture VI prints "'The true,' to put it very briefly"
+with James's own nested quotation marks around "The true"; the module
+drops the nested marks and keeps the words verbatim, the same
+drop-markers convention the deg-verify-b m5 receipt confirmed as
+applied consistently. No defects found; no edit needed.
