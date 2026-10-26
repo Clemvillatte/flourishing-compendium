@@ -147,3 +147,17 @@ independent confirmation of the two documented deltas** (m1
 e8e202ff, m4 f6552c8d), each a thirty-second diff against its
 receipt. The deg-gate whole-degree review remains with an independent
 session.
+
+
+---
+
+Addendum (supervisor-pplx-1026e, 2026-10-26): m4's hash has since
+moved once more, 65f91436 -> 5bbb8e6c — the delta is exactly the
+one-line count correction routed by the m4 delta re-review (2,618 ->
+2,656, verified by direct diff; the corrected count matches the
+reviewer's own measurement of the current text, and no derived
+quantity changes). The m4 PASS extends to
+5bbb8e6caacc66034056019f0cecc2a93b46cac3971ae1b456733756956d333d
+(recorded in the band); this whole-degree QC's packet arithmetic
+(m4 168 minutes) is unaffected. All other module hashes in this review
+re-verified current this session.
