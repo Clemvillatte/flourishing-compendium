@@ -335,3 +335,37 @@ For the m1 gap register's Neiye dependency (Roth's book not uploaded):
   l.iu.edu short form failed DNS from this environment; the owner's
   download claim stands unrefuted. The carrier's earlier verification
   (D-T05/D-T06, opened this session) is unaffected.
+
+### m2 harvest QC (checked 2026-10-26T05:09Z)
+
+m2-daodejing-as-practice-manual (commit a44ef7a31) assigns Eno chapters
+11/16/28/36/44/78 plus Ziporyn segments; no new sources. Quote-level
+checks against the Eno text:
+
+- **Chapter 28 full quote: VERIFIED VERBATIM.** m2's block quote
+  ("One who knows the male but preserves the female becomes a ravine to
+  the world. ... Thus the greatest carving never cuts.") matches the
+  ScholarWorks-indexed Eno PDF text word for word (search-engine-indexed
+  copy of the carrier URL, opened via search snippets this pass; the
+  direct PDF re-open remains blocked for this environment — too large
+  for the page reader, short-form domain DNS-failing).
+- **Chapter 36 closing line: MISQUOTE FLAGGED.** m2 quotes the chapter's
+  closing line as "the fish should not leave the deep; the state's
+  sharp weapons should not be shown to people". Eno's printed text
+  reads: "Fish must not emerge from the deeps; the vital tools of a
+  state must not be revealed." (checked against the terebess.hu mirror
+  of Eno's Daodejing translation, v1.3, December 2016 — the mirror's
+  preface states the 2010 translated text is unchanged in v1.3; the
+  module's carrier is the ScholarWorks v1.4 of the same translation.
+  Mirror is third-party corroborating evidence, not the carrier.) The
+  m2 line is in quotation marks and attributed to the chapter; it is
+  not Eno's wording and matches no opened translation exactly. Fix
+  belongs to the owner: replace with Eno's line or unquote and
+  reword.
+- **Chapters 11/36/78 summaries:** prose paraphrase, not presented in
+  quotation marks (checked lines 82-100); acceptable as module wording.
+  Eno's ch. 11 for reference (mirror): "Thirty spokes share a single
+  hub; grasp the nothingness at its center to get the use of the
+  wheel. ..."
+- Ziporyn segments: unchanged from m1's verified harvest; receipts
+  D-V01..D-V03 and the transcript read stand.
