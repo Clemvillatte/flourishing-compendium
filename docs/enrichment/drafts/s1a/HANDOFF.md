@@ -189,7 +189,7 @@ stays supervisor-only.
 
 Ran scripts/story_check.py --context draft over every s1a and s1d draft file.
 All s1d drafts pass. All s1a-001..075 drafts pass. The upgrade drafts
-s1a-076..s1d-095 are NOT in state.json (not tracked); nine of them fail the
+s1a-076..s1a-095 are NOT in state.json (not tracked); eleven of them fail the
 mechanical bar and will be flagged whenever they enter QC:
 
 - dash budget (4-5 dashes, max 3): 076-ST220, 077-ST001, 079-ST003, 080-ST009,
