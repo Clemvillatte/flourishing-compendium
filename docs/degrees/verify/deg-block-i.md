@@ -713,3 +713,13 @@ remaining formatting variants.
 
 Remaining unresolved variants: 5 (formatting only); owed to the full
 pass.
+
+## Batch 3 follow-up 9 (2026-10-26T05:21Z)
+
+- M23-EX02: RESOLVED same-event — "Dan Zahavi – Self-Consciousness,
+  Self-Knowledge, and Knowledge of and with Others" (DTUdk channel,
+  2026-07-27, 1:13:00; CPKP conference, Berlin); the record title is
+  the truncated form. Same event.
+
+Remaining unresolved variants: 4 (formatting only); owed to the full
+pass.
