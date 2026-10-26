@@ -1298,3 +1298,18 @@ recorded with the actual time.
   both 947 and 957), B2's single true split joined (264); total 3,905 words,
   257 minutes. m3 DRAFT NOT CLEARED, handed to supervisor module-QC (blockers:
   Misak playback/captions uninspected, duration provisional).
+
+- 2026-10-26 (clock 2026-10-26T05:27:21Z measured inside this write) worker-pplx-pragmatism-1026b
+  (deg-wol-pragmatism, baton held): SESSION CLOSE RECORD. m1-m3 all
+  DRAFT NOT CLEARED, handed to supervisor module-QC. Session-close
+  verification and corrections in the band ledger: quotation pass
+  described exactly (automated extraction, permissive matching; a
+  complete quotation re-audit remains pending); timedtext fetch
+  failed with no caption data, so caption availability for the m1
+  Philosophy Talk video remains unverified (two earlier routes
+  bot-checked); m4 Dewey preparation complete for the next session
+  (three candidate groups, four recordings, oembed identity on
+  record for all four, presenter credentials verified on
+  institutional pages for all three presenters; playback,
+  captions, coverage and durations pending). Band JSON updated to
+  session close. Baton release at T+58.
