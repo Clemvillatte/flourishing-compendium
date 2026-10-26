@@ -204,10 +204,16 @@ survey, 709 the third, and 577 the fourth. The analysis used
 full-information maximum likelihood for the missing responses, and the
 authors reported a similar completer-only analysis; these checks do not
 establish that attrition could not affect the result. The analysis uses
-cross-lagged panel models,
-which test whether a measure at one survey predicts a later outcome while
-accounting for earlier levels of that outcome. ([Study 1 methods and
-analytic strategy](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/).)
+cross-lagged panel models. These models include the previous measure of
+an outcome when one exists. The first prediction, from baseline
+motivation to the second survey's adherence, cannot adjust for baseline
+adherence because adherence was not measured at the first survey; the
+later adherence paths do include the previous survey's adherence.
+Checking what a model actually adjusts for is part of appraising it, and
+neither the word longitudinal nor the phrase cross-lagged panel is by
+itself a guarantee of causal control. ([Study 1 methods and analytic
+strategy](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/);
+[public model syntax](https://osf.io/a9he8/files/t4gda).)
 
 1. Fully worked (demonstrated). Appraisal of the first result. What was
    found: adherence at the second survey was predicted by intrinsic
@@ -237,7 +243,11 @@ later.)
 2. Steps named (partially worked). Appraisal of the second result. What
    was found: adherence at the third survey was predicted by intrinsic
    motivation at the second, beta = 0.099, standard error 0.03, z = 3.00,
-   p = .003, 95 percent confidence interval [0.04, 0.20]. Your task in
+   p = .003, 95 percent confidence interval [0.04, 0.20]. Before you
+   begin the faded practice, one caution about the scale of these
+   numbers: the betas are standardised regression coefficients, so they
+   are neither percentage improvements nor individual success
+   probabilities nor treatment benefits. Your task in
    the faded practice: name the design, the evidence type, the effect size
    and its interval, and what this result can and cannot support. The
    moves are the four you just watched; only the numbers have changed.
@@ -406,7 +416,7 @@ learner can self-check.
 - Graded deliverables including self-assessment: about 60 minutes
   (estimate).
 
-Total: about 4 hours (about 245 minutes of labelled components: 105
+Total: about 4 hours (about 240 minutes of labelled components: 105
 reading study including the correction passage, 15 case study, 30 worked
 example and faded practice, 30 retrieval
 and levels, 60 graded). Optional further reading (the rest of Maitland
