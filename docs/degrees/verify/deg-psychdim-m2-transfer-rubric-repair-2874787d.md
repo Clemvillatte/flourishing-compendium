@@ -39,7 +39,8 @@ than adding another psychology topic.
   from 65 to 85 minutes. Components are
   50 + 39 + 45 + 30 + 35 + 20 + 85 = **304 minutes**, or 5h04m,
   rounded to about 5h05m. No additional external reading is assigned.
-  The eight-module packet is now
+  At this M2 checkpoint, before the later M5/M6 production repairs,
+  the eight-module packet was
   249 + 304 + 290 + 265 + 300 + 256 + 301 + 375 =
   **2,340 minutes, 39 hours**.
 
@@ -97,14 +98,23 @@ as identical to it.
 
 ## Handoff
 
-The live supervisor should review the changed M2 assessment at the final
-hash. During production, the supervisor independently passed the prior
-M2 cultural-function version at hash prefix `d9b938b96` and also passed
-M4; those decisions are preserved, not overwritten by this receipt.
-Existing M1, M3 and M4 supervisor passes are preserved. No M1, M3 or M4 module was edited in
-this repair; historical reports of stale labels or a truncated M3 total
-were already resolved on fresh origin.
+At the original repair checkpoint the changed M2 assessment awaited
+confirmation. The supervisor has since read the complete delta and
+recorded **MODULE-QC PASS at the exact final hash above** in
+`reviews/deg-psychdim-m2-supervisor-2026-10-26.md`, under
+“Changed-hash rereview of the assessment-only delta.” That independent
+decision supersedes this receipt's earlier pending state.
 
-The changed M2 assessment awaits supervisor confirmation. M5–M8 independent module checks, the
-remaining adviser gap, complete-degree review, integration and publication
-remain separate gates. This receipt does not flip them.
+The later M4 verification ruling also supersedes the old passed-with-an-
+open-flag snapshot: **M4 is verification-open, not cleared**. No M1, M3
+or M4 module was edited in this repair. M1/M2/M3/M7/M8 have the recorded
+supervisor module decisions; M8's is a specification pass, not evidence
+of learner execution.
+
+After the M5/M6 repairs the current packet is **2,370 estimated active
+minutes, 39h30m**. M4/M5 recovered-window decisions and M5/M6 production
+delta reviews remain assigned to the next supervisor session; M6's
+production adviser is unavailable after a credit-exhaustion failure.
+The current handoff is `verify/deg-psychdim-production-handoff-checks-2874787d.md`.
+Complete-degree review, integration and publication remain separate,
+closed gates. This producer receipt awards none of them.
