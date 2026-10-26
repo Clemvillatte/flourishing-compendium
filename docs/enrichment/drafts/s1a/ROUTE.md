@@ -549,3 +549,17 @@ the S127 link when you apply the upgrade. S119 is kept with its clause
 explicitly marked as the compendium's reading (the chapter narrates no
 morning practice). story_check --context published re-run after repairs:
 0 errors.
+
+2026-10-26 ~00:22Z storyteller-pplx-s1a-1026b: SECOND RUNG-4 UPGRADE PREPARED AND
+ROUTED — s1a-077-upgrade-ST001.md (ST001 is a legacy published page with no
+verbatim quotes and no Sources section). Prepared replacement body adds
+seven verbatim quotes from Zhuangzi III.2 in the Legge 1891 translation
+(opened on the METIS ETH Zurich PDF — the lane's established Zhuangzi
+carrier, 2026-10-26) and adds the Sources section; the "several thousand
+oxen" sentence spans a page break in the PDF's text layer (page number
+"14" interrupts it) — documented in the draft's Sources note, continuous
+in the printed book. Wiring preserved verbatim (D001/D002/D004/D013 +
+resonates D055/D070/P073); Principles converted to a justified list.
+story_check --context published: 0 errors on the prepared body (temp-copy
+method, live page untouched). Please apply at your convenience, same as
+the s1a-076 ST220 upgrade.
