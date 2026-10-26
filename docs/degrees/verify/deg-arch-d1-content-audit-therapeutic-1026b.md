@@ -22,6 +22,7 @@ completed 13:32:55Z. No completion time is asserted beyond these recorded
 readings.
 
 ## Anchor 1 — John Cabot PS 353-1 Clinical Psychology, Spring 2026, Prof. Nicola Petrocchi — CONTENT VERIFIED
+Source URL inspected: https://myjcu.johncabot.edu/syllabus/syllabus_print.aspx?IDS=25820 (HTML page fetched and read)
 HTML page fetched and read. Course ID confirmed (PS 353-1, Spring 2026,
 Petrocchi; prerequisite Intro Psych; Thomas edition 2016 required text —
 consistent with the D1). The D1's claimed 14-week coverage verified in the
@@ -34,6 +35,7 @@ cognitive/CBT, third-wave/mindfulness/Gilbert (compassion-focused,
 health and forensic psychology (3 hits).
 
 ## Anchor 2 — George Mason PSYC 862 Cognitive Behavioral Therapy with Adults I, Renshaw & Gryczkowski — CONTENT VERIFIED
+Source URL inspected: https://www.abct.org/wp-content/uploads/2021/04/Cognitive_Behavioral_Therapy_with_Adults_I_Renshaw_George_Mason_University.pdf (PDF downloaded and text-extracted)
 PDF fetched, extracted and read. Course ID confirmed (PSYCHOLOGY 862,
 Instructors Keith Renshaw and Michelle Gryczkowski). TERM NOT VERIFIED: the
 extracted text does not state the term explicitly, so the D1's Fall 2016
@@ -52,6 +54,7 @@ term explicitly; 2016-dated readings (Dobson 2016a/b, Waltman et al. 2016)
 are consistent with the D1's Fall 2016 dating.
 
 ## Anchor 3 — UT Austin EDP384C Cognitive-Behavioral Therapy, Spring 2016, Stephanie S. Rude — CONTENT VERIFIED
+Source URL inspected: https://utdirect.utexas.edu/apps/student/coursedocs/courses/nlogon/download/6125981/ (PDF downloaded and text-extracted)
 PDF fetched, extracted and read. Course ID confirmed (EDP384C Unique
 #10820, Spring 2016, Rude; updated Jan 18 2016). All attributed topics
 present: thought records, Mind over Mood (3), panic and agoraphobia (4),

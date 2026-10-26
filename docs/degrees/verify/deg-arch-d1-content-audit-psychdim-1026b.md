@@ -10,9 +10,9 @@ topics checked against the syllabus text with reading-level evidence.
 deg-psychdim is the owner's first-priority degree. No live-lane files were
 modified.
 
-Repository revision audited: the D1 file at docs/degrees/inventory/deg-psychdim.md
-as of commit bee8d65 (the file's last change before this audit; not modified
-since). Locators are positions in this session's extracted text, not stable
+Repository revision inspected at recheck: the D1 file at
+docs/degrees/inventory/deg-psychdim.md at commit bee8d65 (its last change
+before this audit; recorded via git log -1 at recheck time). Locators are positions in this session's extracted text, not stable
 page numbers — reproducibility is via the source URL plus the quoted passage.
 Topics explicitly named in a syllabus are distinguished from topics inferred
 from an assigned reading's title (marked where applicable).
@@ -24,6 +24,7 @@ correction save completed 13:32:55Z. No completion time is asserted beyond
 these recorded readings.
 
 ## Anchor 1 — UT Dallas PSY(CGS) 3361.002 Cognitive Psychology, Spring 2026, Daniel Krawczyk — CONTENT VERIFIED
+Source URL inspected: https://dox.utdallas.edu/syl166067 (full-page fetch; week table)
 Course ID confirmed (PSY(CGS) 3361.002, Krawczyk, Spring 2026). All nine
 attributed topics present in the week table with dates, e.g. Feb 5/10
 "Attention: Types of attention and cognitive theories of attention" (the
@@ -34,6 +35,7 @@ study of consciousnesss"; Feb 12/17 working memory (classic/modern); Feb
 problem solving and creativity; Apr 28 judgment and decision making.
 
 ## Anchor 2 — Rutgers-Newark 21:830:405 Psychology of Emotions, Spring 2025, Dr. Warren Reich — CONTENT VERIFIED
+Source URL inspected: https://sasn.rutgers.edu/sites/default/files/2025-02/Spring.2025_psych.of_.emotions.syllabus.pdf (PDF downloaded and text-extracted)
 Course ID confirmed (21:830:405:60, Reich, Spring 2025). All fourteen
 attributed topic markers present in the syllabus text: affective
 neuroscience, Ekman, Izard, Frijda, Barrett, appraisal, self-regulation,
@@ -42,6 +44,7 @@ broaden(-and-build), gratitude, awe. Course description confirms
 evolutionary, physiological, cultural and developmental roots of emotion.
 
 ## Anchor 3 — Columbia PSYC UN3671 Motivation Science, Fall 2021, Federica Pinelli — CONTENT VERIFIED
+Source URL inspected: https://psychology.columbia.edu/sites/psychology.columbia.edu/files/content/Motivation%20Syllabus%20.pdf (PDF downloaded and text-extracted)
 Course ID confirmed (PSYC UN3671, Pinelli; syllabus marked "DRAFT SUBJECT
 TO CHANGE (Last revised April 01, 2021)" — the D1's Fall 2021 dating is
 consistent). Week-by-week verification with reading-level evidence:
@@ -61,6 +64,7 @@ implementation intentions; Week 11b influence: Cialdini, social authority,
 scarcity, liking). Every attributed topic in the D1's summary is present.
 
 ## Anchor 4 — U Alberta PSYCO 447/505 Self and Identity, Winter 2021, Jennifer Passey — CONTENT VERIFIED
+Source URL inspected: https://sites.psych.ualberta.ca/upa/wordpress/wp-content/uploads/2021/06/PSYCO-447_505-Jennifer-Passey.pdf (PDF downloaded and text-extracted)
 Course ID confirmed (PSYCO 447/505 Section B1, Passey, Winter 2021). All
 eleven attributed topics present in the course description's "Topics
 include:" passage (extracted-text lines 19-24): "the structure of the self,
@@ -73,6 +77,7 @@ health, which an earlier draft of this receipt had not separately checked.
 on eClass; the fetched syllabus carries the full topic list.)
 
 ## Anchor 5 — Macalester PSYCH 272 Health Psychology, Fall 2022, Jaine Strauss — CONTENT VERIFIED at the REPLACEMENT URL
+Source URL inspected (replacement): https://www.macalester.edu/psychology/wp-content/uploads/sites/585/2022/11/Health-Psych-syllabus-F2022.pdf (PDF downloaded and text-extracted); original D1 URL (uploads/sites/46) returned 404
 The D1's cited URL (uploads/sites/46) returns 404 at HEAD; this session the
 same file was read at the replacement path
 (uploads/sites/585/Health-Psych-syllabus-F2022.pdf) and the content
@@ -91,9 +96,11 @@ finding to a content-verified replacement recommendation.
 
 ## Verdict
 
-All five deg-psychdim D1 anchors are content-verified against commit bee8d65
-of the D1 file: course identifications match the D1 citations and every
-topic the D1 attributes to these syllabi was found in the syllabus text
+All five deg-psychdim D1 anchors were content-checked against the D1 file
+(inspected at recheck at commit bee8d65, its last change before this
+audit). The course-identification and topic checks enumerated in the
+sections above were corroborated; this receipt does not certify every
+attribution in the D1
 (all topics verified are the ones listed in the sections above — e.g. UT
 Dallas's nine week-table rows, Rutgers's fourteen markers, Columbia's
 reading-level evidence for the named readings above, U Alberta's 'Topics

@@ -35,9 +35,11 @@ counts are the counts in each file, all of which were tested):
 - positive (4): Sydney PSYC4730, Charter Oak PSY 340, Metro State PSYC 347,
   Aberystwyth applied positive psychology — all HTTP 200
 
-Repository revisions audited: deg-wol-daoism @ 9699744, deg-wol-buddhism @
-ee456cd, deg-wol-greek @ 00ecb0c, deg-wol-pragmatism @ 4b8086e,
-deg-wol-existentialism @ f655a1c, deg-wol-positive @ d19acef.
+Repository revisions inspected at recheck (via git log -1; the original
+audit revision was not recorded): deg-wol-daoism @ 9699744,
+deg-wol-buddhism @ ee456cd, deg-wol-greek @ 00ecb0c, deg-wol-pragmatism @
+4b8086e, deg-wol-existentialism @ f655a1c, deg-wol-positive @ d19acef.
+The exact tested URLs are those listed per degree below.
 
 ## New-ruling compliance flag (for the D2 re-target owners)
 

@@ -6,7 +6,8 @@ file with the degree's supersession ruling requested from the owner). Three
 of the four anchors (UF, Berkeley, ASU) were content-read this session
 (PDFs downloaded with a browser user-agent and text-extracted locally;
 the ASU PDF via a browser-resolved direct URL, see its section); the
-Wesleyan anchor could not be re-verified, as detailed below. Course
+Wesleyan anchor's archived page 1 was inspected in a JS-executing browser
+(addendum below), with a quotation mismatch found. Course
 identifications and the D1's
 attributed content claims were checked against the syllabus text. No
 live-lane files were modified.
@@ -22,14 +23,21 @@ against GitHub's HTTP Date header). Recorded readings during this audit:
 external header; ASU-verification save completed 13:33:19Z. No completion
 time is asserted beyond these recorded readings.
 
-## Anchor 1 — Wesleyan PHIL 221 (philife.nd.edu) — NOT VERIFIABLE AT HEAD
-The host failed DNS resolution from this environment this session (see the
-rem6 HTTP-status receipt). The D1 quotes the syllabus's course description
-and week schedule; independent re-verification requires the Wayback snapshot
-(listed at 20210511082024, not opened this session) or a live substitute.
-Flagged to the lane owner with the earlier finding.
+## Anchor 1 — Wesleyan PHIL 221 (philife.nd.edu) — IDENTITY CONFIRMED VIA ARCHIVED PAGE 1; QUOTED WORDING MISMATCHES THE INSPECTED TEXT
+The live host failed DNS resolution from this environment this session (see
+the rem6 HTTP-status receipt). The Wayback snapshot (capture 11 May 2021,
+13-page PDF, 2 captures 21 Sep 2019 - 11 May 2021) was subsequently opened
+in a JS-executing browser — see the addendum below: course identity is
+confirmed (PHIL 221, Fall 2011, Prof. Stephen Angle), but the D1's
+"verbatim" course description is a paraphrase whose wording does not match
+the inspected Course Summary; the D1's week-schedule claims were not checked
+(the viewer's page navigation did not advance within the bounded budget).
+The mismatch finding is bounded to the inspected page 1 of that capture; it
+does not establish that the purported wording appears nowhere in the
+13-page document. Flagged to the lane owner with the earlier finding.
 
 ## Anchor 2 — University of Florida CLA 6805 Roman Stoicism, Spring 2022, Dr. Velvet L. Yates — CONTENT VERIFIED
+Source URL inspected: https://classics.ufl.edu/wp-content/uploads/sites/209/Stoicism_syllabus.pdf (PDF downloaded and text-extracted)
 PDF fetched, extracted and read. Course ID confirmed (CLA 6805 Classical
 Traditions: Roman Stoicism, Spring 2022, Yates). D1 claims verified in the
 syllabus text: Sandbach (2 hits), Cicero's On Moral Ends (3), Seneca's
@@ -40,6 +48,7 @@ assignments and a "pop Stoicism" blog presentation), and the
 applying-Stoicism-to-contemporary-situations strand.
 
 ## Anchor 3 — Arizona State University PHI 420 Stoicism, Spring B 2021, Dr. Sandra Woien — CONTENT VERIFIED (via browser-resolved direct PDF)
+Source URL inspected: https://class-syllabus-prod.s3.dualstack.us-west-2.amazonaws.com/2231/17163/syllabus-2231-17163.pdf (direct PDF, resolved via the app page https://webapp4.asu.edu/bookstore/viewsyllabus/2231/17163/pdf in a JS-executing browser; PDF downloaded and text-extracted)
 Initially the URL returned a JavaScript app shell and could not be statically
 read. Following advisor QC, the page was opened in a JS-executing cloud
 browser: the app's "View Syllabus" link resolves to a direct PDF at
@@ -58,6 +67,7 @@ This supersedes the earlier "static verification not possible" flag — the
 anchor is now independently content-verified.
 
 ## Anchor 4 — UC Berkeley Philosophy 161 Aristotle, Fall 2014, Klaus Corcilius — CONTENT VERIFIED
+Source URL inspected: https://www.ocf.berkeley.edu/~rwl/lib/attachments/teaching/161/course-syllabus.pdf (PDF downloaded and text-extracted)
 PDF fetched, extracted and read. Course ID confirmed (Philosophy 161 –
 Aristotle, Corcilius). D1 claims verified in the syllabus text: the
 theoretical sequence (Categories, On Interpretation, syllogistic,
@@ -70,18 +80,21 @@ function argument), "Voluntary action, choice and responsibility: NE III
 
 Three of four anchors are content-verified (UF, Berkeley, ASU — the ASU
 anchor via a browser-resolved direct PDF URL) with every attributed claim
-checked found in the syllabus text. One anchor (Wesleyan) is unreachable
-at HEAD (DNS failure; D1 quotes stand on the lane owner's session; the
-Wayback snapshot was not opened). The degree's D2 remains blocked on the
-supersession ruling regardless. The D1 file was not edited (live lane).
+checked found in the syllabus text. The Wesleyan anchor's live URL is
+DNS-dead; its archived page 1 was inspected (identity confirmed) and the
+D1's quoted course description mismatches the inspected text (addendum
+below); its schedule claims stand on the lane owner's session. The
+degree's D2 remains blocked on the supersession ruling regardless. The D1
+file was not edited (live lane).
 
 Auditor: worker-pplx-dosr4-1026b (verification lane assist, read-only).
 Recorded clock readings: post-save 13:29:52Z; ASU-verification save
 completed 13:33:19Z.
 
-## Addendum (recorded reading 13:41Z, T+41) — Wesleyan Wayback verification
+## Addendum (recorded readings 13:37:24Z pre-save, 13:37:33Z post-save; T+37) — Wesleyan Wayback verification
 
 Following advisor QC direction, the Wayback snapshot itself was opened
+(http://web.archive.org/web/20210511082024/https://philife.nd.edu/assets/317166/fullsize/phil_221_fall11_unified_syllabus.pdf)
 (this session's third bounded attempt: direct fetch is bot-blocked from
 this environment; the fetch-tool render did not expose the PDF; the
 JS-executing cloud browser rendered it). The archived document is the
