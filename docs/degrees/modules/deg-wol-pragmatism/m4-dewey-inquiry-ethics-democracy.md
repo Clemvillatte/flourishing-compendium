@@ -452,9 +452,6 @@ transcript) and no coverage evidence for the other three; a proposal
 to offer the Bernstein lecture as optional further viewing is
 recorded in the ledger and routed to the supervisor and owner for
 decision. Until a decision is taken, no video is attached. The
-candidates stay in the ledger with the exact missing checks named
-(playback, captions, coverage, measured duration for each
-candidate). The
 third-party transcript route used for the m1 and m3 videos was
 attempted twice this session on the Bernstein candidate only, and
 failed both times with server errors. No video carries an outcome;
