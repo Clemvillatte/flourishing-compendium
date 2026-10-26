@@ -646,3 +646,19 @@ Session totals: 45 items — 38 false positives confirmed, 2 genuine
 deviations repaired and pushed (registry rebuilt both times), 5
 adjudication gaps on blocked hosts flagged for any future eye-check,
 0 known outstanding deviations.
+
+# QC sample 21: creation — Craftsmanship span (2026-10-26 02:48:44Z, measured in-command)
+
+The Craftsmanship span (tandfonline, Local Environment) is CONFIRMED
+VERBATIM. A fresh web search surfaced the cited tandfonline page's own text
+printing the sentence exactly — "Craftsmanship names an enduring, basic
+human impulse, the desire to do a job well for its own sake." — quoting
+Sennett's The Craftsman (2008, p. 9); open copies (onwork.edu.au; infed.org)
+print the same sentence. FALSE POSITIVE.
+
+Session totals (supersedes the sample-20 tally): 45 automated NOT FOUNDs
+adjudicated — 39 false positives confirmed, 2 genuine deviations repaired
+and pushed (Hayes semicolon; Goyal "reductions in"), 4 items not
+confirmable from this environment (SN 42.3 and Milindapanha 3.1.1 on
+suttacentral, both elided composites; the two scispace spans), 0 known
+outstanding deviations.
