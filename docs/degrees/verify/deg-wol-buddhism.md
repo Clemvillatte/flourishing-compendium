@@ -71,3 +71,37 @@ coverage, language and stated license; duration does not apply. Where a
 credential page was not re-opened this session, the entry says so.
 Video harvests by the production owner are appended below as they are
 verified.
+
+## b1/b2 spot-check sample (2026-10-26, clock 05:34-05:44Z)
+
+Independent re-verification of a sample of the owner's self-verified
+b1/b2 sources (the owner's evidence recorded in the module source
+tables is detailed; this pass confirms a sample against opened
+evidence):
+
+- TpbWVaXBV4c (Ajahn Brahm, "Buddhist Values", BSWA channel): oembed
+  re-opened this session — title, channel and 08-01-2010 date match the
+  module table. CONFIRMED (identity, access).
+- Nq7YmbYFJkA (Thanissaro Bhikkhu, "The Five Precepts for the Mind",
+  Dhamma Talks by Thanissaro Bhikkhu channel): oembed re-opened —
+  title and channel match. CONFIRMED (identity, access).
+- svWaWFOpxXw (Bhante Dhammadipa, "The Four Immeasurable Minds", Metta
+  Centre channel): oembed re-opened — title and channel match.
+  CONFIRMED (identity, access).
+- SuttaCentral carriers (AN 5.179 Gihisutta and Khp 9 Metta Sutta,
+  Sujato): could NOT be re-opened from this environment — the project
+  fetcher returns fetcher_error on suttacentral.com and direct sandbox
+  requests fail to connect (two routes, two attempts, bounded).
+  Recorded as an environment limitation, NOT an access finding against
+  the source; the owner's opened-page evidence stands unchallenged.
+  Same limitation recorded for SN 56.11 Sujato in B-T01. The AtI
+  Thanissaro SN 56.11 carrier (B-T01) is open from this environment
+  and carries the same discourse if a fetchable independent twin is
+  needed.
+- The b2 source table's remaining claims (Dreyfus session 1 duration
+  1:20:35 and boundaries; Harvey glossary) are deg-verify-b receipts,
+  not re-opened here (verify-a/verify-b manifest split).
+
+Sample result: no defects found; the three sampled YouTube identities
+match; SuttaCentral left to the owner's evidence with the limitation
+noted.
