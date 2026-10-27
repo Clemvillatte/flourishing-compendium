@@ -89,3 +89,8 @@ The spec's mandatory checkpoint: the D1 map + this D2 matrix go to the reviewer 
 ## D2 handoff
 
 The next agent (baton `deg-arch-build` or the deg-gate reviewer continuing) runs the remaining passes (the Heidegger decision, the Sartre Being-and-Nothingness decision, the applied-half carrier passes, the SEP fetch, the primary-text passes) and then the checkpoint goes to the reviewer. The D1 file at deg-wol-existentialism.md is the topic map; this file is the resource pool; the matrix above is the single point of truth for what is verified open.
+
+### Session update 2026-10-27 (verify-a, receipt `docs/degrees/verify/deg-wol-existentialism-teaching-layer-verifya-1027a.md`)
+
+- **Saylor PHIL304 Existentialism**: corroborated on the course page (32 hours advertised, free certificate, CC BY 3.0). CAVEAT SHARPENED and directly evidenced: an anonymous-fetch test shows the Moodle course view returns 200 but renders ZERO unit/section structure to anonymous visitors (syllabus/FAQ pages do render anonymously) — free certificate + open landing page do NOT establish free access to the instructional units; the 32h figure is ADVERTISED workload, not credited hours.
+- **Coursera Kierkegaard (Copenhagen, Jon Stewart)**: corroborated (8 modules); an anonymous cloud-browser enrollment-flow test found the Enroll click walls at a signup/login modal with NO audit option pre-login — the free-audit route is unverifiable without an account (systemic flag with the Meyer pages; see the Greek pool update). Flag for the owner/verifier.
