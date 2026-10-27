@@ -197,6 +197,30 @@
      "section": "optional",
      "role": "teach",
      "note": "Chan master’s relation to sutra teachings in the Ming — deepens the inheritance theme"
+    },
+    {
+     "source_id": "BUD-D2-49",
+     "section": "optional",
+     "role": "teach",
+     "note": "The Zen founder’s core teaching text, taught by its translator"
+    },
+    {
+     "source_id": "BUD-D2-46",
+     "section": "optional",
+     "role": "teach",
+     "note": "Scholarly Dogen class — casting off body and mind, part 1"
+    },
+    {
+     "source_id": "BUD-D2-47",
+     "section": "optional",
+     "role": "teach",
+     "note": "Scholarly Dogen class — casting off body and mind, part 2"
+    },
+    {
+     "source_id": "BUD-D2-48",
+     "section": "optional",
+     "role": "teach",
+     "note": "Dogen’s poetry as a teaching door"
     }
    ]
   },
@@ -234,6 +258,36 @@
      "section": "optional",
      "role": "teach",
      "note": "Practice-oriented Madhyamaka: emptiness, svabhava, the two truths; PDF is the verified carrier (audio companion unconfirmed)"
+    },
+    {
+     "source_id": "BUD-D2-41",
+     "section": "optional",
+     "role": "teach",
+     "note": "Nagarjuna’s Middle Way taught in a practice community, class 1 of 5 (July 2007); duration page-stated, audio not played"
+    },
+    {
+     "source_id": "BUD-D2-42",
+     "section": "optional",
+     "role": "teach",
+     "note": "Nagarjuna’s Middle Way, class 2 of 5"
+    },
+    {
+     "source_id": "BUD-D2-43",
+     "section": "optional",
+     "role": "teach",
+     "note": "Nagarjuna’s Middle Way, class 3 of 5"
+    },
+    {
+     "source_id": "BUD-D2-44",
+     "section": "optional",
+     "role": "teach",
+     "note": "Nagarjuna’s Middle Way, class 4 of 5"
+    },
+    {
+     "source_id": "BUD-D2-45",
+     "section": "optional",
+     "role": "teach",
+     "note": "Nagarjuna’s Middle Way, class 5 of 5 — series total 7:15:37 (sum of page-stated durations)"
     }
    ]
   },
@@ -398,6 +452,132 @@
    "verification_status": "verified",
    "gate_evidence": "docs/degrees/inventory/deg-wol-buddhism-d2-pool.md entry BUD-TEACH-4 (PDF fetched and read in full: svabhava, interdependence, conventional vs ultimate reality; audio companion unconfirmed and not claimed)",
    "source_id": "BUD-D2-40"
+  },
+  "BUD-D2-41": {
+   "source_id": "BUD-D2-41",
+   "youtube_id_or_url": "https://sfzc.engagewisdom.com/talks/nagarjunas-middle-way-examination-self-class-1-5",
+   "canonical_url": "https://sfzc.engagewisdom.com/talks/nagarjunas-middle-way-examination-self-class-1-5",
+   "title": "Nagarjuna’s Middle Way: Examination of the Self — class 1 of 5 (Kokyo Henkel)",
+   "presenter": "Kokyo (Luminous Owl) Henkel (Santa Cruz Zen Center)",
+   "host": "San Francisco Zen Center recorded study classes (free audio archive)",
+   "duration": "1:28:41",
+   "topic_ids": "BUD-M7",
+   "level": "Intermediate",
+   "mission": "deg-wol-buddhism",
+   "verification_status": "verified",
+   "gate_evidence": "SFZC Recorded Study Classes page (https://www.sfzc.org/offerings/deepening-practice/recorded-study-classes-deepening-practice) fetched and read this session: class titles, teachers and page-stated durations extracted verbatim from the page HTML; audio content not played"
+  },
+  "BUD-D2-42": {
+   "source_id": "BUD-D2-42",
+   "youtube_id_or_url": "https://sfzc.engagewisdom.com/talks/nagarjunas-middle-way-examination-self-class-2-5",
+   "canonical_url": "https://sfzc.engagewisdom.com/talks/nagarjunas-middle-way-examination-self-class-2-5",
+   "title": "Nagarjuna’s Middle Way: Examination of the Self — class 2 of 5 (Kokyo Henkel)",
+   "presenter": "Kokyo (Luminous Owl) Henkel (Santa Cruz Zen Center)",
+   "host": "San Francisco Zen Center recorded study classes (free audio archive)",
+   "duration": "1:28:03",
+   "topic_ids": "BUD-M7",
+   "level": "Intermediate",
+   "mission": "deg-wol-buddhism",
+   "verification_status": "verified",
+   "gate_evidence": "SFZC Recorded Study Classes page (https://www.sfzc.org/offerings/deepening-practice/recorded-study-classes-deepening-practice) fetched and read this session: class titles, teachers and page-stated durations extracted verbatim from the page HTML; audio content not played"
+  },
+  "BUD-D2-43": {
+   "source_id": "BUD-D2-43",
+   "youtube_id_or_url": "https://sfzc.engagewisdom.com/talks/nagarjunas-middle-way-examination-self-class-3-5",
+   "canonical_url": "https://sfzc.engagewisdom.com/talks/nagarjunas-middle-way-examination-self-class-3-5",
+   "title": "Nagarjuna’s Middle Way: Examination of the Self — class 3 of 5 (Kokyo Henkel)",
+   "presenter": "Kokyo (Luminous Owl) Henkel (Santa Cruz Zen Center)",
+   "host": "San Francisco Zen Center recorded study classes (free audio archive)",
+   "duration": "1:21:44",
+   "topic_ids": "BUD-M7",
+   "level": "Intermediate",
+   "mission": "deg-wol-buddhism",
+   "verification_status": "verified",
+   "gate_evidence": "SFZC Recorded Study Classes page (https://www.sfzc.org/offerings/deepening-practice/recorded-study-classes-deepening-practice) fetched and read this session: class titles, teachers and page-stated durations extracted verbatim from the page HTML; audio content not played"
+  },
+  "BUD-D2-44": {
+   "source_id": "BUD-D2-44",
+   "youtube_id_or_url": "https://sfzc.engagewisdom.com/talks/nagarjunas-middle-way-examination-self-class-4-5",
+   "canonical_url": "https://sfzc.engagewisdom.com/talks/nagarjunas-middle-way-examination-self-class-4-5",
+   "title": "Nagarjuna’s Middle Way: Examination of the Self — class 4 of 5 (Kokyo Henkel)",
+   "presenter": "Kokyo (Luminous Owl) Henkel (Santa Cruz Zen Center)",
+   "host": "San Francisco Zen Center recorded study classes (free audio archive)",
+   "duration": "1:26:07",
+   "topic_ids": "BUD-M7",
+   "level": "Intermediate",
+   "mission": "deg-wol-buddhism",
+   "verification_status": "verified",
+   "gate_evidence": "SFZC Recorded Study Classes page (https://www.sfzc.org/offerings/deepening-practice/recorded-study-classes-deepening-practice) fetched and read this session: class titles, teachers and page-stated durations extracted verbatim from the page HTML; audio content not played"
+  },
+  "BUD-D2-45": {
+   "source_id": "BUD-D2-45",
+   "youtube_id_or_url": "https://sfzc.engagewisdom.com/talks/nagarjunas-middle-way-examination-self-class-5-5",
+   "canonical_url": "https://sfzc.engagewisdom.com/talks/nagarjunas-middle-way-examination-self-class-5-5",
+   "title": "Nagarjuna’s Middle Way: Examination of the Self — class 5 of 5 (Kokyo Henkel)",
+   "presenter": "Kokyo (Luminous Owl) Henkel (Santa Cruz Zen Center)",
+   "host": "San Francisco Zen Center recorded study classes (free audio archive)",
+   "duration": "1:31:02",
+   "topic_ids": "BUD-M7",
+   "level": "Intermediate",
+   "mission": "deg-wol-buddhism",
+   "verification_status": "verified",
+   "gate_evidence": "SFZC Recorded Study Classes page (https://www.sfzc.org/offerings/deepening-practice/recorded-study-classes-deepening-practice) fetched and read this session: class titles, teachers and page-stated durations extracted verbatim from the page HTML; audio content not played"
+  },
+  "BUD-D2-46": {
+   "source_id": "BUD-D2-46",
+   "youtube_id_or_url": "https://sfzc.engagewisdom.com/talks/dogens-shinjin-datsuraku-class-1",
+   "canonical_url": "https://sfzc.engagewisdom.com/talks/dogens-shinjin-datsuraku-class-1",
+   "title": "Dogen’s Shinjin Datsuraku (casting off body and mind) 1 — Steve Heine",
+   "presenter": "Steve Heine (Buddhist studies scholar of Dogen)",
+   "host": "San Francisco Zen Center recorded study classes (free audio archive)",
+   "duration": "1:04:53",
+   "topic_ids": "BUD-M6",
+   "level": "Intermediate",
+   "mission": "deg-wol-buddhism",
+   "verification_status": "verified",
+   "gate_evidence": "SFZC Recorded Study Classes page (https://www.sfzc.org/offerings/deepening-practice/recorded-study-classes-deepening-practice) fetched and read this session: class titles, teachers and page-stated durations extracted verbatim from the page HTML; audio content not played"
+  },
+  "BUD-D2-47": {
+   "source_id": "BUD-D2-47",
+   "youtube_id_or_url": "https://sfzc.engagewisdom.com/talks/dogens-shinjin-datsuraku-class-2",
+   "canonical_url": "https://sfzc.engagewisdom.com/talks/dogens-shinjin-datsuraku-class-2",
+   "title": "Dogen’s Shinjin Datsuraku 2 — Steve Heine",
+   "presenter": "Steve Heine (Buddhist studies scholar of Dogen)",
+   "host": "San Francisco Zen Center recorded study classes (free audio archive)",
+   "duration": "1:06:16",
+   "topic_ids": "BUD-M6",
+   "level": "Intermediate",
+   "mission": "deg-wol-buddhism",
+   "verification_status": "verified",
+   "gate_evidence": "SFZC Recorded Study Classes page (https://www.sfzc.org/offerings/deepening-practice/recorded-study-classes-deepening-practice) fetched and read this session: class titles, teachers and page-stated durations extracted verbatim from the page HTML; audio content not played"
+  },
+  "BUD-D2-48": {
+   "source_id": "BUD-D2-48",
+   "youtube_id_or_url": "https://sfzc.engagewisdom.com/talks/dogens-poetry",
+   "canonical_url": "https://sfzc.engagewisdom.com/talks/dogens-poetry",
+   "title": "Dogen’s Poetry — Steve Heine",
+   "presenter": "Steve Heine (Buddhist studies scholar of Dogen)",
+   "host": "San Francisco Zen Center recorded study classes (free audio archive)",
+   "duration": "1:03:54",
+   "topic_ids": "BUD-M6",
+   "level": "Intermediate",
+   "mission": "deg-wol-buddhism",
+   "verification_status": "verified",
+   "gate_evidence": "SFZC Recorded Study Classes page (https://www.sfzc.org/offerings/deepening-practice/recorded-study-classes-deepening-practice) fetched and read this session: class titles, teachers and page-stated durations extracted verbatim from the page HTML; audio content not played"
+  },
+  "BUD-D2-49": {
+   "source_id": "BUD-D2-49",
+   "youtube_id_or_url": "https://sfzc.engagewisdom.com/talks/bodhidharmas-outline-practice",
+   "canonical_url": "https://sfzc.engagewisdom.com/talks/bodhidharmas-outline-practice",
+   "title": "Bodhidharma’s Outline of Practice — Red Pine",
+   "presenter": "Red Pine (Buddhist scholar and translator)",
+   "host": "San Francisco Zen Center recorded study classes (free audio archive)",
+   "duration": "1:01:35",
+   "topic_ids": "BUD-M6",
+   "level": "Intermediate",
+   "mission": "deg-wol-buddhism",
+   "verification_status": "verified",
+   "gate_evidence": "SFZC Recorded Study Classes page (https://www.sfzc.org/offerings/deepening-practice/recorded-study-classes-deepening-practice) fetched and read this session: class titles, teachers and page-stated durations extracted verbatim from the page HTML; audio content not played"
   }
  }
 }
