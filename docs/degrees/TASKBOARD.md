@@ -53,6 +53,25 @@ any degree. Key points:
 - **PRAGMATISM ARITHMETIC (owner ruling 2026-10-27, "Teaching content")**: the
   teaching-content-only re-measurement GOVERNS; the legacy ~104h figure is
   void for checkpoint purposes.
+- **ENGLISH-ONLY CORE (owner ruling 2026-10-27)**: only ENGLISH-language teaching
+  content counts as core degree content (the owner has no Chinese). Non-English
+  (Mandarin/Cantonese/etc.) courses become bonus/supplementary notes at most.
+  AFFECTED POOLS: daoism (NTU Zhuangzi, Xin Yiyun Huang-Lao, CUHK-centre
+  carriers, the Lai Chi-tim AMO recording unless English-delivered) — downgrade
+  to bonus notes on the next pass.
+- **MISSION GATE — THE UNIVERSAL ROW TEST (owner ruling 2026-10-27, verbatim
+  intent)**: every row in every degree must pass ONE gate: "does it fit the
+  mission or not" — alleviation of suffering, wisdom, genuine flourishing,
+  grounded in Psychological Sciences and Philosophy, through the Walk of Life =
+  Philosophy of Life frame (how to live according to X; the insights and
+  teachings of X to guide us in our lives). NO metaphysical content ("no
+  metaphysical woo woo"); at most helpful heuristics (like Qi). Rows that are
+  cultural, institutional, or art history without direct life-guidance value
+  are CUT. Applied immediately to the daoism OPTIONAL rows: Taijiquan KEPT
+  (a moving practice with life-guidance heuristic value, same tier as Qi);
+  Zhengyi/modern-clergy CUT (institutional religious history, no life-guidance);
+  sacred geography/art CUT (cultural history, no life-guidance). All degrees'
+  optional rows must be re-tested against this gate on their next pass.
 - **CHECKPOINT REVIEWS DELEGABLE (owner ruling 2026-10-27)**: D2 checkpoint
   reviews are NO LONGER supervisor-only — any available worker agent may
   perform them. No job in this project requires a supervisor-only role.
