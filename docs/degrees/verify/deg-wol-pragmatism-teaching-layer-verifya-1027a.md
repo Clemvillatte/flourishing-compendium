@@ -81,3 +81,14 @@ The remaining pragmatism-relevant session links on the PHI 556 page were opened 
 | Oct 25 Heft "Ecological Psychology in Context" — Heft-Affordances | **Heft-2021.mp4** | video recording |
 
 Course-level result: **four share pages for pragmatism-adjacent sessions identify mp4 files** (Aug 30 overview; Sep 20 Peirce metaphysics; Sep 26 Stjernfelt Peirce semiotics; Oct 25 Heft ecological psychology). CAVEAT: none has had playback or content verified, and each session's fit to an approved D1 row is unconfirmed — in particular the Heft ecological-psychology session is topically adjacent but NOT yet verified against an approved D1 row (the finite-scope rule governs; topical proximity alone does not qualify). The Rorty session is off-scope for this degree. All durations remain UNMEASURED; no recording's content was played or read (the Box share pages do not expose runtime metadata to a page fetch, and the app shell exposes no direct file URL for download without a browser session — content-level inspection is owed to a browser-capable pass).
+
+## 9. Addendum 5 (~12:01 UTC, browser test) — ONE Buffalo recording: anonymous playback VERIFIED, duration MEASURED
+
+A cloud-browser session (anonymous, no login) loaded the Aug 30 session recording's share page (redirects to buffalo.app.box.com/v/Lecture-1-Introduction):
+
+- The page shows a **Download button and a file-preview player to an anonymous visitor** (Sign up/Log in links present but not required).
+- The HTML5 video element is present and reaches readyState 4 (enough data); **`video.play()` was called and playback advanced in real time (currentTime 0 → 3.0s, paused=false)** — anonymous playback VERIFIED.
+- **Duration measured from the element's own metadata: 9,115.8 seconds = 2 hours 31 minutes 56 seconds.**
+- File: American-Philosophy-Lecture-1.mp4, the Aug 30 "Pragmatism: An Overview" session per the course page's mapping.
+
+Honest limits: this verifies ONE recording (the other three mp4 share pages remain metadata-only candidates); the CONTENT was not listened to beyond confirming playback advances (no content inspection, no mapping to an approved D1 row beyond the session title); the download button's function was not clicked. No extrapolation is made to the other recordings' durations.
