@@ -51,3 +51,18 @@ All four watch pages OPENED this session (public, free):
 2. Catalog Bonevac's channel for further pragmatism-relevant lectures.
 3. Resolve the Sartwell credential question (fetch a current institutional biography page) or keep the caveat on the row.
 4. Read the Bonevac/Sartwell transcripts at content level before any module assignment (watch-page-level verification only here).
+
+## Addendum (same session, ~11:35 UTC) — Buffalo recording links opened one by one
+
+Per the advisor's next-item instruction, the PHI 556 course page's raw HTML was re-fetched and the per-session links extracted; the video links were then opened directly:
+
+| Session | Link label on page | Effective URL | What it resolves to (og:title, fetched directly) |
+|---|---|---|---|
+| Aug 30 "Pragmatism: An Overview" | Slides | https://buffalo.box.com/v/Pragmatism-Introduction | **Pragmatism-Lecture-1.pptx** (slide deck, public) |
+| Aug 30 "Pragmatism: An Overview" | Video (with apologies for poor quality) | https://buffalo.box.com/v/Lecture-1-Introduction | **American-Philosophy-Lecture-1.mp4** — a real video recording, public Box share, no login, page loads with file metadata |
+| Sep 20 "The Metaphysics of C. S. Peirce" | Video | https://buffalo.box.com/v/Pragmatism-Lecture-2 | **Smith-Scotus-Lecture.mp4** — a real video recording, public Box share |
+| Sep 25 weekend course | Video | https://buffalo.box.com/v/Pragmatism-Lecture-3 | **Pragmatism-Lecture-3.pptx** — the link labeled "Video" resolves to SLIDES (wiki-page mislabel; no video found at this link) |
+
+Honest limits: the two mp4 files are identified from the public share pages' own metadata; **durations remain UNMEASURED (the Box pages do not expose runtime metadata to a page fetch, and playback was not tested)**; the recordings' CONTENT was not inspected (no transcript read). The Aug 30 session row also links a reading ("Introducing Pragmatism", Box v/Introducing-Pragmatism) and the course page carries its own quality caveat ("with apologies for poor quality"). The course page's Video href for Aug 30 is malformed on the wiki itself (double `https://https://`); the effective URL is the single-https form recorded above.
+
+Effect: PRAG-TEACH-3's tier upgrades from "video links not yet opened" to "two session videos opened and identified as public mp4 recordings (Aug 30 overview, Sep 20 Peirce); durations unmeasured; content uninspected; one Video label misresolves to slides". Still no hours credit.
