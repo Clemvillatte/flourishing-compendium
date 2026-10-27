@@ -262,6 +262,9 @@ def main():
                     integrated = {ref(r)['source_id'] for r in (mod.get('requiredMedia') or [])} | \
                                  {ref(r)['source_id'] for r in (mod.get('optionalMedia') or [])}
                     for sid in t.get('sources') or []:
+                        if not isinstance(sid, str):
+                            fail(tmid, f"coverage-matrix topic {t.get('topic','?')!r} has a malformed (non-string) source entry: {sid!r} — fix the matrix")
+                            continue
                         matrix_sids.add(sid)
                         if sid not in integrated:
                             fail(tmid, f"coverage-matrix topic {t.get('topic','?')!r}: source {sid} not assigned in this module — matrix row unresolved")

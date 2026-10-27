@@ -159,6 +159,12 @@
       }
      ],
      "note": "Optional: the rest of the talk"
+    },
+    {
+     "source_id": "DAO-D2-25",
+     "section": "optional",
+     "role": "practice",
+     "note": "A gentle yangsheng moving practice — first lesson free"
     }
    ],
    "activity": "Graded, in three parts: the passage reading (Neiye or lecture variant, about 20 minutes), the bounded practice design (about 15 minutes), and the teach-back to a peer (about 15 minutes). A five-minute self-assessment follows."
@@ -177,5 +183,21 @@
  "degree": {
   "description": "A walk through the Daodejing, the Zhuangzi and the Neiye for anyone who wants to suffer less, choose more wisely and keep flourishing when life is uncertain or overwhelming.",
   "strip_opening_prefix": "A Walk of Life devoted to Daoism. "
+ },
+ "new_sources": {
+  "DAO-D2-25": {
+   "source_id": "DAO-D2-25",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=KeB7tZZHiPA",
+   "canonical_url": "https://www.youtube.com/watch?v=KeB7tZZHiPA",
+   "title": "Tai Chi for Beginners — First Lesson (free 44-minute lesson)",
+   "presenter": "Dr Paul Lam (TCHI)",
+   "host": "YouTube (TCHI official)",
+   "duration": "0:44:25",
+   "topic_ids": "DAO-M4",
+   "level": "Foundations",
+   "mission": "deg-wol-daoism",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-wol-daoism-d2-pool.md D2-NEW-25 (page-verified 44:25)"
+  }
  }
 }

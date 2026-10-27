@@ -167,6 +167,12 @@
      "source_id": "BUD-B6-02",
      "section": "required",
      "note": "Watch the whole lecture (1:40:16) in two stops: 0:00–50:00, then 50:00 to the end"
+    },
+    {
+     "source_id": "BUD-D2-20A",
+     "section": "optional",
+     "role": "teach",
+     "note": "Practical guidance on reading Dogen — from SFZC’s free recorded study classes"
     }
    ]
   },
@@ -186,6 +192,12 @@
      "source_id": "BUD-B7-03",
      "section": "optional",
      "note": "Optional listening to the Class 1 recording, in two stops: 0:00–43:00, then 43:00 to the end. It is a separate source from the transcript, and no guided-segment timestamps are claimed"
+    },
+    {
+     "source_id": "BUD-D2-19A",
+     "section": "optional",
+     "role": "teach",
+     "note": "Yogacara/Madhyamaka — Garfield teaching Vasubandhu verse-by-verse"
     }
    ]
   },
@@ -237,5 +249,35 @@
  },
  "degree": {
   "strip_opening_prefix": "A Walk of Life devoted to Buddhism, ethics first. "
+ },
+ "new_sources": {
+  "BUD-D2-20A": {
+   "source_id": "BUD-D2-20A",
+   "youtube_id_or_url": "https://sfzc.engagewisdom.com/talks/how-study-dogen",
+   "canonical_url": "https://sfzc.engagewisdom.com/talks/how-study-dogen",
+   "title": "How To Study Dogen (free recorded study class)",
+   "presenter": "Brad Warner (San Francisco Zen Center)",
+   "host": "SFZC Audio Archive (free of charge)",
+   "duration": "1:03:14",
+   "topic_ids": "BUD-M6",
+   "level": "Intermediate",
+   "mission": "deg-wol-buddhism",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-wol-buddhism-d2-pool.md BUD-TEACH-20 (class page opened, transcript excerpts inspected, free-of-charge on page)"
+  },
+  "BUD-D2-19A": {
+   "source_id": "BUD-D2-19A",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=YJ0AzyLQzwo",
+   "canonical_url": "https://www.youtube.com/watch?v=YJ0AzyLQzwo",
+   "title": "Emptiness and the Mind Perceiving It — Sravasti Abbey course, session 1 (Vasubandhu’s Treatise on the Three Natures)",
+   "presenter": "Jay Garfield (Smith College; Sravasti Abbey)",
+   "host": "YouTube (Sravasti Abbey)",
+   "duration": "1:44:08",
+   "topic_ids": "BUD-M7",
+   "level": "Advanced",
+   "mission": "deg-wol-buddhism",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-wol-buddhism-d2-pool.md BUD-TEACH-19 (video page opened 1:44:08; Smith faculty page fetched)"
+  }
  }
 }

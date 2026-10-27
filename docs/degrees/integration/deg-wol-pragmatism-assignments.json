@@ -21,6 +21,12 @@
      "source_id": "PRAG-M1-02",
      "section": "optional",
      "locator": "Further reading, not counted in the module workload: the rest of the essay beyond the three passages assigned in the next module"
+    },
+    {
+     "source_id": "PRAG-D2-4",
+     "section": "optional",
+     "role": "teach",
+     "note": "A one-lecture orientation to pragmatism as a living method"
     }
    ]
   },
@@ -30,6 +36,12 @@
      "source_id": "PRAG-M1-02",
      "section": "required",
      "locator": "Three passages totalling 4,573 words (about 35 minutes at 130 words per minute): 834 words from ‘We generally know when we wish to ask a question’ to ‘it would be without a purpose’; 1,368 words from ‘If the settlement of opinion is the sole object of inquiry’ to ‘slaves they ought to remain’; and 2,371 words from ‘But no institution can undertake to regulate opinions’ to ‘he is bound to adhere’"
+    },
+    {
+     "source_id": "PRAG-D2-5B",
+     "section": "optional",
+     "role": "teach",
+     "note": "Peirce’s essay on the limits of the Cartesian method, taught"
     }
    ]
   },
@@ -79,6 +91,12 @@
      "source_id": "PRAG-M4-03",
      "section": "required",
      "locator": "Chapter VI: one contiguous passage of 374 words (about 3 minutes at 130 words per minute), from ‘The strongest point to be made in behalf of even such rudimentary political forms’ to ‘it may be successful in becoming a majority’"
+    },
+    {
+     "source_id": "PRAG-D2-5D",
+     "section": "optional",
+     "role": "teach",
+     "note": "Dewey on the quest for certainty and its costs, taught"
     }
    ],
    "activity": "Graded: Dewey's account of reflective inquiry in your own words, the deliberation rehearsal run on a case of your own, the same case with what you observed separated from what you assumed, the comparison of Peirce and Dewey, and the teach-back."
@@ -152,6 +170,48 @@
    "mission": "deg-wol-pragmatism",
    "verification_status": "verified",
    "gate_evidence": "modules/deg-wol-pragmatism/m3-truth-and-the-will-to-believe.md"
+  },
+  "PRAG-D2-4": {
+   "source_id": "PRAG-D2-4",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=td391dFdXPs",
+   "canonical_url": "https://www.youtube.com/watch?v=td391dFdXPs",
+   "title": "Pragmatism (university lecture)",
+   "presenter": "Daniel Bonevac (UT Austin)",
+   "host": "YouTube",
+   "duration": "0:26:50",
+   "topic_ids": "PRAG-M1",
+   "level": "Foundations",
+   "mission": "deg-wol-pragmatism",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-wol-pragmatism-d2-pool.md PRAG-TEACH-4 (three watch-pages opened, durations listed)"
+  },
+  "PRAG-D2-5B": {
+   "source_id": "PRAG-D2-5B",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=Bm1sa3pAXvA",
+   "canonical_url": "https://www.youtube.com/watch?v=Bm1sa3pAXvA",
+   "title": "Peirce’s Four Incapacities (class lecture)",
+   "presenter": "Crispin Sartwell",
+   "host": "YouTube",
+   "duration": "0:35:36",
+   "topic_ids": "PRAG-M2",
+   "level": "Intermediate",
+   "mission": "deg-wol-pragmatism",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-wol-pragmatism-d2-pool.md PRAG-TEACH-5 (watch-pages opened, durations listed)"
+  },
+  "PRAG-D2-5D": {
+   "source_id": "PRAG-D2-5D",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=UkG_QkKPFgY",
+   "canonical_url": "https://www.youtube.com/watch?v=UkG_QkKPFgY",
+   "title": "Dewey’s Quest for Certainty (class lecture)",
+   "presenter": "Crispin Sartwell",
+   "host": "YouTube",
+   "duration": "0:35:06",
+   "topic_ids": "PRAG-M4",
+   "level": "Intermediate",
+   "mission": "deg-wol-pragmatism",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-wol-pragmatism-d2-pool.md PRAG-TEACH-5 (watch-pages opened, durations listed)"
   }
  },
  "manifest_label_corrections_for_content_lane": [

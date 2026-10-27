@@ -125,6 +125,24 @@
      "source_id": "PD-M2-07",
      "section": "required",
      "locator": "Reference for the process model of emotion regulation: check the module’s five families of regulation against it; not a whole-paper assignment"
+    },
+    {
+     "source_id": "PD-D2-52A",
+     "section": "optional",
+     "role": "teach",
+     "note": "Group emotions and emotional contagion — the social dimension of emotion"
+    },
+    {
+     "source_id": "PD-D2-52B",
+     "section": "optional",
+     "role": "teach",
+     "note": "Emotions on behalf of groups — group-based emotions and social identity"
+    },
+    {
+     "source_id": "PD-D2-59",
+     "section": "optional",
+     "role": "teach",
+     "note": "Emotional labor — how emotions are regulated at work (surface/deep/genuine acting)"
     }
    ]
   },
@@ -340,6 +358,13 @@
      "source_id": "PD-M1-06",
      "section": "required",
      "locator": "Table 1’s Self row and the table note only"
+    },
+    {
+     "source_id": "PD-D2-57",
+     "section": "optional",
+     "role": "teach",
+     "locator": "Sections D-E (Introspection; Self-Perception), about 8 of 33 pages",
+     "note": "Sources of self-knowledge — Bem’s self-perception theory and the limits of introspection"
     }
    ],
    "activity": "Graded: a verification sheet with a revision log for the Self-Concept Clarity Scale (SCCS), an identity-domain chart, and a trait account of one behaviour, all on a low-stakes question of your own."
@@ -570,6 +595,64 @@
   },
   "PD-M7-03": {
    "duration": "1:19:48"
+  }
+ },
+ "new_sources": {
+  "PD-D2-52A": {
+   "source_id": "PD-D2-52A",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=sMIahRNCPUY",
+   "canonical_url": "https://www.youtube.com/watch?v=sMIahRNCPUY",
+   "title": "NPTEL Psychology of Emotion — Lec 13: Emotions in Groups 1 (group emotion, Le Bon, Durkheim, emotional contagion)",
+   "presenter": "Prof. Dilwar Hussain (IIT Guwahati)",
+   "host": "YouTube (NPTEL-NOC IITM)",
+   "duration": "1:01:34",
+   "topic_ids": "PD-M2",
+   "level": "Foundations",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-d2-pool-1027b-entry52.md (NPTEL WebVTT transcripts content-read; durations measured from VTT cue timestamps)"
+  },
+  "PD-D2-52B": {
+   "source_id": "PD-D2-52B",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=t4CKo7bG2SE",
+   "canonical_url": "https://www.youtube.com/watch?v=t4CKo7bG2SE",
+   "title": "NPTEL Psychology of Emotion — Lec 14: Emotions in Groups 2 (emotions on behalf of the group, group-based emotions)",
+   "presenter": "Prof. Dilwar Hussain (IIT Guwahati)",
+   "host": "YouTube (NPTEL-NOC IITM)",
+   "duration": "0:47:52",
+   "topic_ids": "PD-M2",
+   "level": "Foundations",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "verify/deg-psychdim-d2-pool-1027b-entry52.md (NPTEL WebVTT transcripts content-read; durations measured from VTT cue timestamps)"
+  },
+  "PD-D2-57": {
+   "source_id": "PD-D2-57",
+   "youtube_id_or_url": "https://faculty.washington.edu/jdb/452/452_chapter_04.pdf",
+   "canonical_url": "https://faculty.washington.edu/jdb/452/452_chapter_04.pdf",
+   "title": "Chapter 4: Self-Knowledge (introspection, self-perception theory, social comparison, reflected appraisals)",
+   "presenter": "University of Washington faculty course materials (Psych 452)",
+   "host": "UW faculty site (free PDF, 33 pages)",
+   "duration": "33 pages",
+   "topic_ids": "PD-M5",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-psychdim-d2-pool.md entry 57 (33-page PDF fetched and read in full; Bem self-perception verbatim quote confirmed)"
+  },
+  "PD-D2-59": {
+   "source_id": "PD-D2-59",
+   "youtube_id_or_url": "https://opened.tesu.edu/umnorganizationalbehavior/chapter/7-5-emotions-at-work/",
+   "canonical_url": "https://opened.tesu.edu/umnorganizationalbehavior/chapter/7-5-emotions-at-work/",
+   "title": "Emotions at Work (emotional labor: surface, deep and genuine acting; Affective Events Theory)",
+   "presenter": "University of Minnesota Open Textbook Library (Organizational Behavior, Ch. 7.5)",
+   "host": "TESU open-textbook mirror (CC BY-NC-SA 4.0)",
+   "duration": "1 chapter",
+   "topic_ids": "PD-M2",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-psychdim-d2-pool.md entry 59 (TESU open-textbook mirror read in full; CC BY-NC-SA 4.0)"
   }
  }
 }
