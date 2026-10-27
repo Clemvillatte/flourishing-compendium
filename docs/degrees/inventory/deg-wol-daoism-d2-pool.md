@@ -136,7 +136,7 @@ VIDEO SUBTOTAL: 599.1 min = 9.99 h candidate runtime.
 
 Reading estimates (house-rate, as stated in the ledger): Edinburgh Daoism I ~8 min + Daoism II ~15 min (slide-text reading estimates, NOT contact time); Golden Elixir "Way of the Golden Elixir" ~1.5 h (20,745 words at 238 wpm) + "Longmen Lineage" ~28 min (6,632 words). READING SUBTOTAL: ~2.35 h.
 
-COMBINED ENGLISH NON-COURSERA CANDIDATE BOUND: ~12.3 h on the 7-entry interim base; ~17.7 h on the final 14-entry set (15 h 19 m listed video runtime per the pass-8 hours note + ~2.35 h reading estimates).
+COMBINED ENGLISH NON-COURSERA CANDIDATE BOUND: ~12.3 h on the 7-entry interim base; ~17.7 h on the final 14-entry set (15 h 19 m listed video runtime per the pass-8 hours note + ~2.35 h reading estimates). CORRECTION (worker-pplx-sup-1027b, 2026-10-27, same session): the pass-8 hours note was subsequently restated to 15:35:19–15:36:02 after D2-NEW-33's duration was page-verified at 15:44 — with the same ~2.35 h reading estimates the final 14-entry bound is ~17.9 h; both figures are discovery bounds, not assigned hours.
 
 Excluded from the floor per the owner rulings: all Mandarin/Cantonese carriers (NTU Zhuangzi and Sato courses, Xin Yiyun, CUHK-centre carriers, Lai Chi-tim AMO lecture — likely Cantonese, delivery unverified), all Coursera carriers (Early China I/II, Song Module 16, Xi'an Jiaotong). Undetermined, not counted: Harvard Puett edX (audit-tier Daoism-lesson scope unverified), Eno's Daodejing teaching translation (text hours unmeasured), Lingnan Chuci podcast (duration unmeasured), Robson decree passage (~0.01 h measured fraction, negligible).
 
