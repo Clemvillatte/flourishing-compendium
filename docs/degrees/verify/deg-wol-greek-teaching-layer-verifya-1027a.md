@@ -73,10 +73,10 @@ The Open Culture page for "Allan Bloom's Lectures on Socrates (Boston College, 1
 - **Four lectures** in the series (Lecture 1-4), delivered at Boston College in 1983 under the series title "Philosophic Perspectives", intended to help teachers of undergraduates teach "those great works that are essential to a liberal education".
 - Subject: the founding of the idea of liberal education; the meaning of the philosophic life as expressed by Socrates; the conflict between philosophy and the city, explored through an interpretation of Plato's Apology of Socrates.
 - The page attributes its description to Archive.org; lecture durations are NOT stated on the page; no license/access terms stated beyond inclusion in Open Culture's free-courses collection.
-- The page's Lecture 1 embed is the same YouTube video verified earlier (yRnzrDpGN5A, 9:49) — so the verified 9:49 segment is the first lecture of this four-lecture series. Lectures 2-4 were NOT opened this session (no provenance beyond the Open Culture page's listing).
+- The page's Lecture 1 embed is the same YouTube video verified earlier (yRnzrDpGN5A, 9:49) — the page ASSOCIATES the 9:49 excerpt with the series, but its identity as part of the Archive.org Lecture 1 audio is NOT verified (no content comparison was made; corrected per QC round 4). Lectures 2-4 were NOT opened this session (no provenance beyond the Open Culture page's listing).
 - Topical fit: PLATO — Greek half (Apology; Socrates; liberal education) — CANDIDATE.
 
-## 7. Addendum 6 (2026-10-27; exact event time not recorded; pushed with this update) — Bloom series UPGRADED: all four lectures live on Archive.org, full durations measured (6.12h)
+## 7. Addendum 6 (2026-10-27; exact event time not recorded; pushed with this update) — Bloom series UPGRADED: all four lectures live on Archive.org, durations measured (3.059h; corrected in QC round 4)
 
 The four lecture embeds on the Open Culture page resolve to Archive.org items (identifiers extracted from the page's raw HTML this session). All four items are LIVE via the archive.org metadata API, with audio files (VBR MP3 + Ogg Vorbis) and durations from the API's file metadata (same method as the Ebrey 25A set):
 
