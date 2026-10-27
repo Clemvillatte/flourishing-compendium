@@ -23,3 +23,7 @@
 
 1. Browser enrollment-flow test for the Coursera audit route (or an owner ruling on treating Coursera audit as verified by platform policy).
 2. The 8-unit Saylor syllabus link is one fetch away if the pool owner wants the unit structure re-confirmed independently.
+
+## 5. Addendum (2026-10-27; exact event time not recorded; pushed with this receipt update) — Saylor PHIL304 unit structure: NOT publicly viewable without enrollment
+
+Follow-up attempt on the receipt's follow-up #2: the Moodle course view (learn.saylor.org/course/view.php?id=83) returns a Notice page to an anonymous visitor — the unit structure is login-gated; the legacy syllabus URL (saylor.org/courses/phil304/) returns 404. RESULT: the PHIL304 unit structure is NOT publicly viewable without enrollment; the open evidence is the landing page (32 hours advertised, free certificate, CC BY 3.0 for Saylor-authored content) — the instructional content's free accessibility beyond that landing page is unestablished by this session's routes (bounded: two routes tried). The pool owner should keep the unit-structure claim (from the pool's earlier session) attributed to that earlier read, not to this one.
