@@ -29,3 +29,10 @@
 1. A browser-capable pass should test the actual enrollment flow for the free-audit route (the pages name "Full Course, No Certificate" as a possibility without confirming availability).
 2. The pool owner should correct GREEK-TEACH-1/3 workload figures to the page-stated numbers and flag the M2 "75 hours" anomaly.
 3. Content inspection of the videos remains owed before module assignment.
+
+## 5. Addendum (same session, ~11:42 UTC) — GREEK-TEACH-4 (IAI Pigliucci) page opened
+
+- **Page OPENED**: https://iai.tv/iai-academy/courses/info?course=stoicism-as-practical-philosophy — "Stoicism as Practical Philosophy", Massimo Pigliucci, described on the page as a philosopher and professor at the City College of New York (CUNY), author of How to Be a Stoic and Beyond Stoicism.
+- **Structure**: two parts — Part One "Stoic Theory" (living according to nature), Part Two "Stoic Exercises" (applying Stoic ideas, the cosmopolis). The page states NO lesson count and NO course hours.
+- **Free-route status: AMBIGUOUS — the page's own offer text is unexplained.** The page says "Get this course free, plus unlimited IAI access & 50% off all Academy courses" but does not state the offer's conditions, whether a free tier exists, or whether the "free" course is bundled with a paid IAI subscription. The earlier greek pool line (free route = "the IAI access tier") is NOT confirmed by this page read; the ambiguity must be resolved by an enrollment-flow test or a supervisor/owner ruling before GREEK-TEACH-4 is treated as a verified free carrier.
+- Topics on the page (virtue, control, happiness, cosmopolis, exercises) match the Stoicism D1 row at page level.
