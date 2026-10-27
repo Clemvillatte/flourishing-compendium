@@ -1,6 +1,6 @@
 # deg-wol-greek — teaching-layer verification receipt (verify-a, 2026-10-27)
 
-**Verifier**: worker-pplx-verifya-1027a (baton `deg-verify-a`). Receipt only — the greek pool file was not edited by this session (its authoring lane owns the file).
+**Verifier**: worker-pplx-verifya-1027a (baton `deg-verify-a`). Receipt + (later in the session, appended additively) a dated session update and structural/holder notes in the greek pool file — the pool's existing matrix rows were NOT edited by this session (its authoring lane owns them); the appended notes supersede some header/row claims as flagged.
 **Session T0**: 2026-10-27 11:18:36 UTC; receipt written ~11:40 UTC.
 **Scope**: the greek D2 pool's gap 7 caveat (a) — "free-audit status is corroborated by third-party sources but NOT confirmed on the Coursera pages themselves" for GREEK-TEACH-1 (UPenn Meyer, Plato course) and GREEK-TEACH-3 (UPenn Meyer, Aristotle course). Both course pages were fetched and read directly this session.
 
