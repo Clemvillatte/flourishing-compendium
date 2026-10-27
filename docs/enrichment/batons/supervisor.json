@@ -1,7 +1,7 @@
 {
  "baton": "supervisor",
- "agent": "worker-pplx-sup-1026r",
- "clocked_in": "2026-10-26T13:49:42+00:00",
+ "agent": "worker-pplx-psychdim-d2-1027a",
+ "clocked_in": "2026-10-27T11:02:07+00:00",
  "takeovers": [
   {
    "by": "supervisor-pplx-1026d",
@@ -68,8 +68,12 @@
    "at": "2026-10-26T13:33:12+00:00",
    "from": "worker-pplx-sup-1026r",
    "reason": "stale (26 min)"
+  },
+  {
+   "by": "worker-pplx-psychdim-d2-1027a",
+   "at": "2026-10-27T11:02:07+00:00",
+   "from": "worker-pplx-sup-1026r",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-26T13:59:48+00:00"
+ ]
 }
