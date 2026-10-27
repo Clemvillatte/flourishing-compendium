@@ -82,6 +82,12 @@
      "section": "optional",
      "role": "teach",
      "note": "The Nine Practices — Daoist conduct guidelines as an ethical way of being in the world"
+    },
+    {
+     "source_id": "DAO-D2-36",
+     "section": "optional",
+     "role": "teach",
+     "note": "The informing Daoist worldview — orientation for the walk; completes the Lundao foundation sequence beside Lundao 1"
     }
    ],
    "activity": "Graded, in four parts: the four-terms reflection (200-400 words), a five-part guided reading of one Daodejing chapter (150-250 words), a two-texts passage location (150-300 words), and the scope statement naming coverage, exclusions with their owners and the admission test (150-250 words)."
@@ -112,6 +118,12 @@
      "source_id": "DAO-M1-04",
      "section": "required",
      "locator": "Chapters 11, 36 and 78 in full, twice each (228 words in all); chapter 28 re-read for the two-account comparison (119 words); then chapters 16 and 44 on your own (165 words in all)"
+    },
+    {
+     "source_id": "DAO-D2-37",
+     "section": "optional",
+     "role": "teach",
+     "note": "Komjathy’s own contemplative reading of the Daodejing, from his bilingual translation — direct teaching on this module’s core text"
     }
    ],
    "activity": "Graded, in three parts: the contrast-application reflection on a case where you are forcing something (200-400 words), the comparison of the two accounts of chapter 28 (100-200 words), and the five-part reading of chapter 16 or 44 without demonstration (150-250 words)."
@@ -177,6 +189,12 @@
      "section": "optional",
      "role": "teach",
      "note": "The inner-cultivation lineages behind the practice tradition"
+    },
+    {
+     "source_id": "DAO-D2-38",
+     "section": "optional",
+     "role": "teach",
+     "note": "The Daoist meditation teaching the Neiye points to — apophatic quiet sitting as wuwei practice"
     }
    ],
    "activity": "Graded, in three parts: the passage reading (Neiye or lecture variant, about 20 minutes), the bounded practice design (about 15 minutes), and the teach-back to a peer (about 15 minutes). A five-minute self-assessment follows.",
@@ -191,6 +209,12 @@
      "section": "required",
      "role": "capstone-return",
      "locator": "Chapters 20, 44, 50 and 67 (466 words in all); you met chapter 44 in Module II. No new video is assigned"
+    },
+    {
+     "source_id": "DAO-D2-39",
+     "section": "optional",
+     "role": "teach",
+     "note": "How to organize one’s own study-practice — a fitting capstone guide for the personal synthesis this module asks for"
     }
    ]
   }
@@ -241,6 +265,62 @@
    "mission": "deg-wol-daoism",
    "verification_status": "verified",
    "gate_evidence": "docs/degrees/inventory/deg-wol-daoism-d2-pool.md D2-NEW-35 (page fetched and confirmed, 1:10:54)"
+  },
+  "DAO-D2-36": {
+   "source_id": "DAO-D2-36",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=Lfn-glQoO4U",
+   "canonical_url": "https://www.youtube.com/watch?v=Lfn-glQoO4U",
+   "title": "Lundao 2: Daoist View — the classical Daoist worldview, commitments, principles and values",
+   "presenter": "Louis Komjathy, Ph.D., CSO (founding Co-director and senior teacher, Daoist Foundation)",
+   "host": "Daoist Foundation channel (free Lundao teaching-talk series)",
+   "duration": "1:03:42",
+   "topic_ids": "DAO-M1",
+   "level": "Introductory",
+   "mission": "deg-wol-daoism",
+   "verification_status": "verified",
+   "gate_evidence": "Daoist Foundation resources page (daoistfoundation.org/resources) fetched this session (talk URL verified from the foundation’s own page); YouTube watch page fetched and read this session — title, channel and displayed duration verified; playback not inspected"
+  },
+  "DAO-D2-37": {
+   "source_id": "DAO-D2-37",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=-vLcYZ1Kt7U",
+   "canonical_url": "https://www.youtube.com/watch?v=-vLcYZ1Kt7U",
+   "title": "Lundao 8: Towards a Radical (Re)Reading of the Dàodé jīng — Komjathy on his bilingual translation and contemplative approach",
+   "presenter": "Louis Komjathy, Ph.D., CSO (founding Co-director and senior teacher, Daoist Foundation)",
+   "host": "Daoist Foundation channel (free Lundao teaching-talk series)",
+   "duration": "1:32:47",
+   "topic_ids": "DAO-M2",
+   "level": "Introductory",
+   "mission": "deg-wol-daoism",
+   "verification_status": "verified",
+   "gate_evidence": "Daoist Foundation resources page (daoistfoundation.org/resources) fetched this session (talk URL verified from the foundation’s own page); YouTube watch page fetched and read this session — title, channel and displayed duration verified; playback not inspected"
+  },
+  "DAO-D2-38": {
+   "source_id": "DAO-D2-38",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=It7dDCqBHNs",
+   "canonical_url": "https://www.youtube.com/watch?v=It7dDCqBHNs",
+   "title": "Lundao 4: Daoist Quiet Sitting — apophatic meditation (shouyi, xinzhai, zuowang) grounded in wuwei",
+   "presenter": "Louis Komjathy, Ph.D., CSO (founding Co-director and senior teacher, Daoist Foundation)",
+   "host": "Daoist Foundation channel (free Lundao teaching-talk series)",
+   "duration": "1:08:44",
+   "topic_ids": "DAO-M4",
+   "level": "Introductory",
+   "mission": "deg-wol-daoism",
+   "verification_status": "verified",
+   "gate_evidence": "Daoist Foundation resources page (daoistfoundation.org/resources) fetched this session (talk URL verified from the foundation’s own page); YouTube watch page fetched and read this session — title, channel and displayed duration verified; playback not inspected"
+  },
+  "DAO-D2-39": {
+   "source_id": "DAO-D2-39",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=gQ7Li0Vyb8Y",
+   "canonical_url": "https://www.youtube.com/watch?v=gQ7Li0Vyb8Y",
+   "title": "Lundao 9: The Daoist Foundation Approach — guidance on engaging the study-practice model",
+   "presenter": "Louis Komjathy, Ph.D., CSO (founding Co-director and senior teacher, Daoist Foundation)",
+   "host": "Daoist Foundation channel (free Lundao teaching-talk series)",
+   "duration": "0:55:33",
+   "topic_ids": "DAO-M5",
+   "level": "Introductory",
+   "mission": "deg-wol-daoism",
+   "verification_status": "verified",
+   "gate_evidence": "Daoist Foundation resources page (daoistfoundation.org/resources) fetched this session (talk URL verified from the foundation’s own page); YouTube watch page fetched and read this session — title, channel and displayed duration verified; playback not inspected"
   }
  },
  "drop_sources": [

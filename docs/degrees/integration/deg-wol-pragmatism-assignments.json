@@ -54,6 +54,12 @@
      "section": "optional",
      "role": "teach",
      "note": "Peirce’s essay on the limits of the Cartesian method, taught"
+    },
+    {
+     "source_id": "PRAG-D2-8",
+     "section": "optional",
+     "role": "teach",
+     "note": "Peirce’s semiotics taught in a recorded graduate course; duration from the player’s own metadata, content uninspected"
     }
    ]
   },
@@ -272,6 +278,20 @@
    "verification_status": "verified",
    "gate_evidence": "docs/degrees/inventory/deg-wol-pragmatism-d2-pool.md entry PRAG-TEACH-3 (course page and four session-video share pages opened; durations recorded from the players’ own metadata)",
    "source_id": "PRAG-D2-7"
+  },
+  "PRAG-D2-8": {
+   "source_id": "PRAG-D2-8",
+   "youtube_id_or_url": "https://buffalo.box.com/v/Peirce-Semiotics-Stjernfelt",
+   "canonical_url": "https://buffalo.box.com/v/Peirce-Semiotics-Stjernfelt",
+   "title": "PHI 556: Peirce’s Semiotics (recorded course session, Sep 26 2021, Stjernfelt)",
+   "presenter": "Frederik Stjernfelt (semiotics scholar; contributing instructor, UB PHI 556)",
+   "host": "NCOR / University at Buffalo — PHI 556 American Philosophy and Its Contemporary Relevance",
+   "duration": "1:35:58",
+   "topic_ids": "PRAG-M2",
+   "level": "Advanced",
+   "mission": "deg-wol-pragmatism",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-wol-pragmatism-d2-pool.md entry PRAG-TEACH-3 (course page and four session-video share pages opened; durations recorded from the players’ own metadata)"
   }
  },
  "manifest_label_corrections_for_content_lane": [
