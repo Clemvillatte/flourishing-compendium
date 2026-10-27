@@ -46,16 +46,16 @@ All candidates are DRAFT until D2 verification (open-access check + instructor c
 - **Stanford Encyclopedia of Philosophy — The Meaning of Life** — https://plato.stanford.edu/entries/meaning-life/ — open access. **Verify at D2: SEP editorial policy.**
 
 ### mod-well-9 — Wisdom and ancient traditions
-- **Coursera — De-Mystifying Mindfulness (Leiden University, Chris Goto-Jones)** — https://www.coursera.org/learn/mindfulness — free-to-audit, 9 modules, ~40 hours. Covers: the psychology and neuroscience of mindfulness, the ethics and politics of contemplative practice. Directly serves the wisdom-and-ancient-traditions row. **Verify at D2: Goto-Jones's Leiden faculty page.**
+- **Coursera — De-Mystifying Mindfulness (Leiden University, Chris Goto-Jones)** — https://www.coursera.org/learn/mindfulness — ACCESS-UNCONFIRMED (course page fetched 2026-10-27, deg-arch-d2-psychx4 pass 1: 9 modules, ~42 h of module estimates, no free-audit tier stated on the page). Covers: the psychology and neuroscience of mindfulness, the ethics and politics of contemplative practice. Directly serves the wisdom-and-ancient-traditions row. **CREDENTIALS-VERIFIED (cross-pool, deg-mind pass 1): Goto-Jones's UVic profile page fetched and read — Professor in Philosophy, UVic; created this MOOC (Leiden/Coursera, 2016-present); certified philosophical counsellor.**
 - **Stanford Encyclopedia of Philosophy** — the Stoicism, Buddhist philosophy and Confucius entries (all open access).
 
 ### mod-well-10 — Resilience, post-traumatic growth, growth mindset
 - **Coursera — The Science of Well-Being (Yale, Santos)** — the resilience module.
-- **Coursera — Mindfulness and Well-being: Living with Balance and Ease (Rice University, Elizabeth Slator)** — https://www.coursera.org/learn/living-with-balance-and-ease — free-to-audit (part of a paid specialization; check the free tier). Covers: resilience, stress, emotion regulation. **Verify at D2: Slator's Rice faculty page.**
+- **Coursera — Mindfulness and Well-being: Living with Balance and Ease (Rice University, Elizabeth Slator)** — https://www.coursera.org/learn/living-with-balance-and-ease — FREE TIER NOT CHECKED (course page not yet fetched; part of a specialization whose free tier is unverified). Covers: resilience, stress, emotion regulation. **Verify at D2: Slator's Rice faculty page.**
 
 ### mod-well-11 — Mindfulness and MBSR
 - **Coursera — De-Mystifying Mindfulness (Leiden, Goto-Jones)** — the MBSR and MBCT module.
-- **Coursera — Mindfulness and Well-being: Foundations (Rice, Slator)** — https://www.coursera.org/learn/foundations-of-mindfulness — free-to-audit (check the free tier). Covers: mindfulness concepts and practices. **Verify at D2: Slator's Rice faculty page.**
+- **Coursera — Mindfulness and Well-being: Foundations (Rice, Slator)** — https://www.coursera.org/learn/foundations-of-mindfulness — FREE TIER NOT CHECKED (course page not yet fetched). Covers: mindfulness concepts and practices. **Verify at D2: Slator's Rice faculty page.**
 
 ### mod-well-12 — Gratitude, self-compassion, savoring
 - **Greater Good Science Center (UC Berkeley)** — the gratitude and self-compassion sections (Emmons's and Neff's research summaries).
