@@ -64,6 +64,18 @@
      "source_id": "BUD-B2-03",
      "section": "required",
      "locator": "The \"Craving\" glossary entry on the same page (about 30 words)"
+    },
+    {
+     "source_id": "BUD-D2-50",
+     "section": "optional",
+     "role": "teach",
+     "note": "The three characteristics (impermanence, unsatisfactoriness, not-self) from the early-Buddhism side of the second truth"
+    },
+    {
+     "source_id": "BUD-D2-51",
+     "section": "optional",
+     "role": "teach",
+     "note": "Dependent arising — the second truth’s causal heart, taught by a teacher authorized in both Zen and Vipassana"
     }
    ]
   },
@@ -221,6 +233,12 @@
      "section": "optional",
      "role": "teach",
      "note": "Dogen’s poetry as a teaching door"
+    },
+    {
+     "source_id": "BUD-D2-52",
+     "section": "optional",
+     "role": "teach",
+     "note": "The Diamond Sutra — core Mahayana text behind the Zen inheritance — taught by its translator"
     }
    ]
   },
@@ -578,6 +596,48 @@
    "mission": "deg-wol-buddhism",
    "verification_status": "verified",
    "gate_evidence": "SFZC Recorded Study Classes page (https://www.sfzc.org/offerings/deepening-practice/recorded-study-classes-deepening-practice) fetched and read this session: class titles, teachers and page-stated durations extracted verbatim from the page HTML; audio content not played"
+  },
+  "BUD-D2-50": {
+   "source_id": "BUD-D2-50",
+   "youtube_id_or_url": "https://sfzc.engagewisdom.com/talks/three-characteristics-perception",
+   "canonical_url": "https://sfzc.engagewisdom.com/talks/three-characteristics-perception",
+   "title": "Three Characteristics of Perception — Gil Fronsdal",
+   "presenter": "Gil Fronsdal (Insight Meditation Center, Redwood City)",
+   "host": "San Francisco Zen Center recorded study classes (free audio archive)",
+   "duration": "59:15",
+   "topic_ids": "BUD-M2",
+   "level": "Introductory",
+   "mission": "deg-wol-buddhism",
+   "verification_status": "verified",
+   "gate_evidence": "SFZC Recorded Study Classes page (https://www.sfzc.org/offerings/deepening-practice/recorded-study-classes-deepening-practice) fetched and read this session — class titles, teachers and page-stated durations extracted verbatim; audio content not played"
+  },
+  "BUD-D2-51": {
+   "source_id": "BUD-D2-51",
+   "youtube_id_or_url": "https://sfzc.engagewisdom.com/talks/principle-dependent-arising",
+   "canonical_url": "https://sfzc.engagewisdom.com/talks/principle-dependent-arising",
+   "title": "Principle of Dependent Arising — Gil Fronsdal",
+   "presenter": "Gil Fronsdal (Insight Meditation Center, Redwood City)",
+   "host": "San Francisco Zen Center recorded study classes (free audio archive)",
+   "duration": "1:04:51",
+   "topic_ids": "BUD-M2",
+   "level": "Introductory",
+   "mission": "deg-wol-buddhism",
+   "verification_status": "verified",
+   "gate_evidence": "SFZC Recorded Study Classes page (https://www.sfzc.org/offerings/deepening-practice/recorded-study-classes-deepening-practice) fetched and read this session — class titles, teachers and page-stated durations extracted verbatim; audio content not played"
+  },
+  "BUD-D2-52": {
+   "source_id": "BUD-D2-52",
+   "youtube_id_or_url": "https://www.sfzc.org/teachings/dharma-talks/diamond-sutra-class-no-3",
+   "canonical_url": "https://www.sfzc.org/teachings/dharma-talks/diamond-sutra-class-no-3",
+   "title": "Diamond Sutra Class — Red Pine",
+   "presenter": "Red Pine (Buddhist scholar and translator)",
+   "host": "San Francisco Zen Center recorded study classes (free audio archive)",
+   "duration": "1:05:08",
+   "topic_ids": "BUD-M6",
+   "level": "Introductory",
+   "mission": "deg-wol-buddhism",
+   "verification_status": "verified",
+   "gate_evidence": "SFZC Recorded Study Classes page (https://www.sfzc.org/offerings/deepening-practice/recorded-study-classes-deepening-practice) fetched and read this session — class titles, teachers and page-stated durations extracted verbatim; audio content not played"
   }
  }
 }

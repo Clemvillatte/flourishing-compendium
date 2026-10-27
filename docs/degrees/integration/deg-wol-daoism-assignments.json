@@ -195,6 +195,24 @@
      "section": "optional",
      "role": "teach",
      "note": "The Daoist meditation teaching the Neiye points to — apophatic quiet sitting as wuwei practice"
+    },
+    {
+     "source_id": "DAO-D2-40",
+     "section": "optional",
+     "role": "practice",
+     "note": "Guided practice session from the same teacher as the module’s Lundao talks — makes the yangsheng module practiceable; video carries the foundation’s own medical-disclaimer"
+    },
+    {
+     "source_id": "DAO-D2-41",
+     "section": "optional",
+     "role": "practice",
+     "note": "Guided practice session from the same teacher as the module’s Lundao talks — makes the yangsheng module practiceable; video carries the foundation’s own medical-disclaimer"
+    },
+    {
+     "source_id": "DAO-D2-42",
+     "section": "optional",
+     "role": "practice",
+     "note": "Guided practice session from the same teacher as the module’s Lundao talks — makes the yangsheng module practiceable; video carries the foundation’s own medical-disclaimer"
     }
    ],
    "activity": "Graded, in three parts: the passage reading (Neiye or lecture variant, about 20 minutes), the bounded practice design (about 15 minutes), and the teach-back to a peer (about 15 minutes). A five-minute self-assessment follows.",
@@ -321,6 +339,48 @@
    "mission": "deg-wol-daoism",
    "verification_status": "verified",
    "gate_evidence": "Daoist Foundation resources page (daoistfoundation.org/resources) fetched this session (talk URL verified from the foundation’s own page); YouTube watch page fetched and read this session — title, channel and displayed duration verified; playback not inspected"
+  },
+  "DAO-D2-40": {
+   "source_id": "DAO-D2-40",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=jUZ2W_Hz6NQ",
+   "canonical_url": "https://www.youtube.com/watch?v=jUZ2W_Hz6NQ",
+   "title": "Practice Session 1: Daoist Quiet Standing — guided standing meditation (emptiness-based)",
+   "presenter": "Louis Komjathy, Ph.D., CSO (founding Co-director and senior teacher, Daoist Foundation)",
+   "host": "Daoist Foundation channel (free guided practice-session series)",
+   "duration": "0:15:33",
+   "topic_ids": "DAO-M4",
+   "level": "Introductory",
+   "mission": "deg-wol-daoism",
+   "verification_status": "verified",
+   "gate_evidence": "Daoist Foundation resources page (daoistfoundation.org/resources) fetched this session (video URL verified from the foundation’s own page); YouTube watch page fetched and read this session — title, channel and displayed duration verified; playback not inspected"
+  },
+  "DAO-D2-41": {
+   "source_id": "DAO-D2-41",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=KmaVm1auZbc",
+   "canonical_url": "https://www.youtube.com/watch?v=KmaVm1auZbc",
+   "title": "Practice Session 2: Basic Daoist Yangsheng — guided Daoist qigong / nourishing-life practice",
+   "presenter": "Louis Komjathy, Ph.D., CSO (founding Co-director and senior teacher, Daoist Foundation)",
+   "host": "Daoist Foundation channel (free guided practice-session series)",
+   "duration": "0:39:16",
+   "topic_ids": "DAO-M4",
+   "level": "Introductory",
+   "mission": "deg-wol-daoism",
+   "verification_status": "verified",
+   "gate_evidence": "Daoist Foundation resources page (daoistfoundation.org/resources) fetched this session (video URL verified from the foundation’s own page); YouTube watch page fetched and read this session — title, channel and displayed duration verified; playback not inspected"
+  },
+  "DAO-D2-42": {
+   "source_id": "DAO-D2-42",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=P1r9gsK9tSc",
+   "canonical_url": "https://www.youtube.com/watch?v=P1r9gsK9tSc",
+   "title": "Practice Session 3: Daoist Quiet Sitting — guided apophatic meditation",
+   "presenter": "Louis Komjathy, Ph.D., CSO (founding Co-director and senior teacher, Daoist Foundation)",
+   "host": "Daoist Foundation channel (free guided practice-session series)",
+   "duration": "0:30:08",
+   "topic_ids": "DAO-M4",
+   "level": "Introductory",
+   "mission": "deg-wol-daoism",
+   "verification_status": "verified",
+   "gate_evidence": "Daoist Foundation resources page (daoistfoundation.org/resources) fetched this session (video URL verified from the foundation’s own page); YouTube watch page fetched and read this session — title, channel and displayed duration verified; playback not inspected"
   }
  },
  "drop_sources": [
