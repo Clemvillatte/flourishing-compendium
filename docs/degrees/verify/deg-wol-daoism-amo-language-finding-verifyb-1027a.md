@@ -1,0 +1,11 @@
+# verify-b: AMO Hong Kong lecture (row 13 candidate) — mirror-transcript corroboration + delivery-language finding
+
+Verify-b session 2026-10-27. Companion to the daoism lane's pass-7 raw-HTML recovery of the AMO recording (https://www.youtube.com/watch?v=hs2oLJLoudQ; claimed 2:05:59, official AMO channel, bilingual title, published 2026-08-26; assignment-level inspection owed; delivery language not stated on the listing).
+
+**What I opened:** the third-party mirror transcript (youtubetotranscript.com) — targeted-passage reading; automatic transcription of Cantonese speech is heavily garbled, so the quotes below are directionally reliable only, not recording-faithful. The lane's 2:05:59 runtime was not re-measured by this worker.
+
+**Topical corroboration (garbled but on-topic):** the transcript carries the claimed subject matter — local immortal shrines grounded in the Liexian zhuan (列仙傳) tradition; local-society worship; the Celestial Masters as a new religious movement in the late Eastern Han (東漢); and the Three Officials registers/confession practice (三官手書) for illness under the Way of the Celestial Masters. No clearly intelligible passage naming 鎮墓瓶 (zhenmuping/tomb jars) was recoverable from the garbled transcript — the topic may be present but is not verifiable at this evidence tier.
+
+**MATERIAL FINDING — delivery language:** the talk is delivered in CANTONESE. The transcript is Cantonese speech rendered in Chinese characters; the English wording appears only in the video's bilingual title. The listing did not state the language; the mirror transcript answers it: this is not an English-language lecture.
+
+**Outcome for the pool owner (daoism):** the AMO recording's topic fit for row 13 (Han + Celestial Masters) is corroborated at the mirror-transcript tier (garbled-Cantonese caveat), and the delivery-language question the lane flagged is now answered: Cantonese. The language-fit ruling the lane requested is now concrete: if the degree standard requires English (or owner-approved language) teaching, this 2:05:59 candidate likely fails it; if Cantonese is acceptable, the assignment-level inspection still owes a cleaner read. The runtime remains candidate-tier either way.
