@@ -21,6 +21,7 @@ Eight waves of source/assignment integration via the standard pipeline
 | 6 | beec6dc19 | UB PHI 556 Peirce's Semiotics (pragmatism m2), Komjathy Lundao 2/4/8/9 (daoism m1/m2/m4/m5) |
 | 7 | 56dead762 | Daoist Foundation guided practice sessions 1-3 (daoism m4), Fronsdal two talks (buddhism m2), Red Pine Diamond Sutra class (buddhism m6) |
 | 8 | 3268f7dc5 | OzZEN "Nagarjuna and the Two Truths" PDF (buddhism m7), Pokorny Five Ranks 1-2 (buddhism m6) |
+| 9 | e9677aa02 | Tao Jiang Zhuangzi personal-freedom talk + Fraser Complete-Writings book talk (daoism m3 — the module's first lecture content) |
 
 ## Verification status
 
@@ -58,8 +59,8 @@ Eight waves of source/assignment integration via the standard pipeline
 
 ## Files touched
 
-- `site/assets/app.js` (fcAcademyData: +53 sources and +53 module refs across the
-  four degrees this session, 92→145 sources and 123→176 refs)
+- `site/assets/app.js` (fcAcademyData: +55 sources and +55 module refs across the
+  four degrees this session, 92→147 sources and 123→178 refs)
 - `docs/degrees/integration/deg-{psychdim,wol-daoism,wol-buddhism,wol-pragmatism}-assignments.json`
 - `scripts/tests/degrees_learner_audit.py` (defensive fix: dict-valued matrix entries
   no longer crash the audit; they fail with a message)
