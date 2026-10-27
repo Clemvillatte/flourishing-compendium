@@ -69,6 +69,12 @@
      "section": "required",
      "level": "Intermediate",
      "locator": "Lecture VI, four short selections totalling 157 words (about 1 minute at 130 words per minute), printed in full in the module’s second step; the selections are not contiguous in the lecture"
+    },
+    {
+     "source_id": "PRAG-D2-5C",
+     "section": "optional",
+     "role": "teach",
+     "note": "James’s “The Will to Believe” taught — genuine options and the right to believe"
     }
    ],
    "remove": [
@@ -212,6 +218,20 @@
    "mission": "deg-wol-pragmatism",
    "verification_status": "verified",
    "gate_evidence": "docs/degrees/inventory/deg-wol-pragmatism-d2-pool.md PRAG-TEACH-5 (watch-pages opened, durations listed)"
+  },
+  "PRAG-D2-5C": {
+   "source_id": "PRAG-D2-5C",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=TZDNzlmCnog",
+   "canonical_url": "https://www.youtube.com/watch?v=TZDNzlmCnog",
+   "title": "James: The Will to Believe (class lecture)",
+   "presenter": "Crispin Sartwell",
+   "host": "YouTube",
+   "duration": "0:30:09",
+   "topic_ids": "PRAG-M3",
+   "level": "Intermediate",
+   "mission": "deg-wol-pragmatism",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-wol-pragmatism-d2-pool.md PRAG-TEACH-5 (watch-page opened, duration listed)"
   }
  },
  "manifest_label_corrections_for_content_lane": [

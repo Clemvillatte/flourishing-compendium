@@ -127,6 +127,12 @@
      "section": "required",
      "role": "revisit",
      "locator": "The Metta Sutta once a week, with two metta sittings on the Module I pattern"
+    },
+    {
+     "source_id": "BUD-D2-11",
+     "section": "optional",
+     "role": "teach",
+     "note": "A full free lecture series on samatha and vipassana — the meditation row’s direct carrier"
     }
    ]
   },
@@ -278,6 +284,20 @@
    "mission": "deg-wol-buddhism",
    "verification_status": "verified",
    "gate_evidence": "docs/degrees/inventory/deg-wol-buddhism-d2-pool.md BUD-TEACH-19 (video page opened 1:44:08; Smith faculty page fetched)"
+  },
+  "BUD-D2-11": {
+   "source_id": "BUD-D2-11",
+   "youtube_id_or_url": "https://buddhistuniversity.net/courses/tranquility-and-insight",
+   "canonical_url": "https://buddhistuniversity.net/courses/tranquility-and-insight",
+   "title": "Tranquility and Insight (samatha and vipassana lecture series with PDF notes)",
+   "presenter": "Bhikkhu Anālayo",
+   "host": "The Open Buddhist University (free, no enrollment)",
+   "duration": "~30 h (course, page-stated)",
+   "topic_ids": "BUD-M4",
+   "level": "Intermediate",
+   "mission": "deg-wol-buddhism",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-wol-buddhism-d2-pool.md BUD-TEACH-11 (course page fetched and read; two sampled mp3s download-verified)"
   }
  }
 }

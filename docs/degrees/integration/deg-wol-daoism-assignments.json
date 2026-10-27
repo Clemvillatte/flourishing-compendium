@@ -171,9 +171,18 @@
      "section": "optional",
      "role": "practice",
      "note": "A gentle yangsheng moving practice — first lesson free"
+    },
+    {
+     "source_id": "DAO-D2-35",
+     "section": "optional",
+     "role": "teach",
+     "note": "The inner-cultivation lineages behind the practice tradition"
     }
    ],
-   "activity": "Graded, in three parts: the passage reading (Neiye or lecture variant, about 20 minutes), the bounded practice design (about 15 minutes), and the teach-back to a peer (about 15 minutes). A five-minute self-assessment follows."
+   "activity": "Graded, in three parts: the passage reading (Neiye or lecture variant, about 20 minutes), the bounded practice design (about 15 minutes), and the teach-back to a peer (about 15 minutes). A five-minute self-assessment follows.",
+   "remove": [
+    "DAO-D2-34"
+   ]
   },
   "mod-dao-5": {
    "refs": [
@@ -218,6 +227,23 @@
    "mission": "deg-wol-daoism",
    "verification_status": "verified",
    "gate_evidence": "docs/degrees/inventory/deg-wol-daoism-d2-pool.md D2-NEW-26 (page-verified 55:21; English content corroborated via same-video transcript snippets)"
+  },
+  "DAO-D2-35": {
+   "source_id": "DAO-D2-35",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=yuiYIaaUtds",
+   "canonical_url": "https://www.youtube.com/watch?v=yuiYIaaUtds",
+   "title": "Lundao 7: The Inner Cultivation Lineages of Classical Daoism",
+   "presenter": "Louis Komjathy (Daoist Foundation)",
+   "host": "YouTube (Daoist Foundation)",
+   "duration": "1:10:54",
+   "topic_ids": "DAO-M4",
+   "level": "Intermediate",
+   "mission": "deg-wol-daoism",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-wol-daoism-d2-pool.md D2-NEW-35 (page fetched and confirmed, 1:10:54)"
   }
- }
+ },
+ "drop_sources": [
+  "DAO-D2-34"
+ ]
 }
