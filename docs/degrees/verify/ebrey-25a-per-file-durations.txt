@@ -1,0 +1,42 @@
+# Ebrey Philosophy 25A (Fall 2008) archive.org per-file duration metadata
+# item: Philosophy_25A_Fall_2008_UC_Berkeley_Ancient_Philosophy, fetched 2026-10-27 ~11:47 UTC
+# format: filename | length field as reported by the Internet Archive metadata API | seconds
+Philosophy_25A-01-Intro.mp3 | 45:50 | 2750
+Philosophy_25A-04-Crito_II.mp3 | 47:40 | 2860
+Philosophy_25A-06-Laches_II.mp3 | 49:50 | 2990
+Philosophy_25A-10-Meno_I.mp3 | 47:32 | 2852
+Philosophy_25A-11-Meno_II.mp3 | 42:27 | 2547
+Philosophy_25A-12-Meno_III.mp3 | 47:37 | 2857
+Philosophy_25A-13-Phaedo_I.mp3 | 41:12 | 2472
+Philosophy_25A-14-Phaedo_II.mp3 | 38:45 | 2325
+Philosophy_25A-15-Phaedo_III.mp3 | 49:05 | 2945
+Philosophy_25A-16-Phaedo_IV.mp3 | 42:57 | 2577
+Philosophy_25A-17-Republic_I.mp3 | 46:41 | 2801
+Philosophy_25A-18-Republic_II.mp3 | 46:45 | 2805
+Philosophy_25A-19-Republic_III.mp3 | 43:14 | 2594
+Philosophy_25A-20-Republic_IV.mp3 | 42:50 | 2570
+Philosophy_25A-21-Republic_V.mp3 | 48:53 | 2933
+Philosophy_25A-22-Republic_VI.mp3 | 40:37 | 2437
+Philosophy_25A-23-Republic_VII.mp3 | 48:30 | 2910
+Philosophy_25A-24-Nichomachean_Ethics_I.mp3 | 49:17 | 2957
+Philosophy_25A-25-Nichomachean_Ethics_II.mp3 | 51:01 | 3061
+Philosophy_25A-26-Nichomachean_Ethics_III.mp3 | 40:51 | 2451
+Philosophy_25A-28-Nichomachean_Ethics_V.mp3 | 48:01 | 2881
+Philosophy_25A-29-Nichomachean_Ethics_VI.mp3 | 48:56 | 2936
+Philosophy_25A-30-Nichomachean_Ethics_VII.mp3 | 47:59 | 2879
+Philosophy_25A-31-Nichomachean_Ethics_VIII.mp3 | 49:02 | 2942
+Philosophy_25A-32-Nichomachean_Ethics_IX.mp3 | 48:59 | 2939
+Philosophy_25A-33-Physics_I.mp3 | 46:40 | 2800
+Philosophy_25A-34-Physics_II.mp3 | 47:10 | 2830
+Philosophy_25A-35-Physics_III.mp3 | 49:58 | 2998
+Philosophy_25A-36-Physics_IV.mp3 | 49:00 | 2940
+Philosophy_25A-37-Physics_V.mp3 | 48:31 | 2911
+Philosophy_25A-38-Physics_VI.mp3 | 49:22 | 2962
+Philosophy_25A-39-Physics_VII.mp3 | 45:16 | 2716
+Philosophy_25A-40-Physics_VIII.mp3 | 47:05 | 2825
+Philosophy_25A-42-Catagories_I.mp3 | 48:34 | 2914
+Philosophy_25A-43-Catagories_II.mp3 | 49:28 | 2968
+Philosophy_25A-44-Prior_and_Posterior_Analytics.mp3 | 45:21 | 2721
+Philosophy_25A-45-Plato_Review_.mp3 | 48:24 | 2904
+Philosophy_25A-46-Aristotle_Review.mp3 | 41:49 | 2509
+# TOTAL: 106269 seconds = 29.519 hours; 38 files, all with valid positive length fields

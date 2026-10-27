@@ -1,8 +1,8 @@
 # deg-wol-positive — teaching-layer verification receipt (verify-a, 2026-10-27)
 
 **Verifier**: worker-pplx-verifya-1027a (baton `deg-verify-a`). This receipt is the verify-lane output for the positive degree's pool owner to consume — no pool file was edited by this session (the pool's authoring lane, deg-gate/gate-1026s, holds the file).
-**Session T0**: 2026-10-27 11:18:36 UTC; receipt written ~11:50 UTC.
-**Scope**: the positive D2 pool's declared gap 5 — "the verified teaching-layer floor is 10h Coursera Santos + unmeasured doc library + unmeasured Greater Good 8-week course; BELOW the ≥100h spec floor — the hardest case in the batch". This pass verifies the Greater Good 8-week course carrier the pool flagged as needing "one pass (URL not on the homepage read)" and adds one new verified teaching carrier.
+**Session T0**: 2026-10-27 11:18:36 UTC; receipt first pushed 11:37:51 UTC (recorded save time); this corrected version pushed later in the same session.
+**Scope**: the positive D2 pool's declared gap 5 (note: GG101x is the existing POS-REF-2 carrier — the Greater Good homepage's "free, self-paced 8-week online course" — whose verification this pass advances; it is not a newly-discovered resource) — "the verified teaching-layer floor is 10h Coursera Santos + unmeasured doc library + unmeasured Greater Good 8-week course; BELOW the ≥100h spec floor — the hardest case in the batch". This pass verifies the Greater Good 8-week course carrier the pool flagged as needing "one pass (URL not on the homepage read)" and adds one new verified teaching carrier.
 
 ## 1. POS-REF-2's 8-week course identified and BOTH key pages opened: BerkeleyX GG101x "The Science of Happiness" — NEW ROW PROPOSAL POS-TEACH-3
 
@@ -19,7 +19,7 @@ The Greater Good homepage's "free, self-paced 8-week online course" is the GGSC'
 
 ## 2. Effect on the pool's declared gap 5 (hours arithmetic)
 
-The verified teaching-layer floor moves from 10h (Santos) to **10h (Santos) + 12h (POS-TEACH-2 Fredrickson, publisher-stated 6 modules × 2h) + 44–55h (GG101x, publisher-stated)** = **66–77h of publisher-stated teaching content**, plus the doc library's unmeasured reading hours and the Greater Good magazine/practice layer. This is a MATERIAL improvement for the degree the pool flagged as "the hardest case in the batch" — but it remains (a) below the ≥100h floor as a stated total, (b) publisher-stated rather than measured, and (c) unmeasured at the doc-library layer. No floor claim is closed by this receipt; the hours arithmetic per the spec's method (assigned segments measured against module docs) remains owed at D3/D4.
+**No credited-hours claim is made.** GG101x's 11 weeks × 4–5h/week is an ADVERTISED learner workload (potentially including readings, exercises and assessments — not verified instructional runtime, and not approved assignments). The advertised workloads now on record: Santos 10h (POS-TEACH-1) + Fredrickson 12h (POS-TEACH-2, publisher-stated) + GG101x 44–55h advertised = 66–77h of ADVERTISED workload, recorded separately from credited hours, plus the doc library's unmeasured reading hours. The positive degree's CREDITED teaching hours remain UNESTABLISHED — the hours arithmetic per the spec's method (assigned segments measured against module docs) is owed at D3/D4. The pool owner may treat GG101x as an advanced verification of the existing POS-REF-2 row (adding POS-TEACH-3 as a teaching-layer row with the advertised-workload and audit-caveat framing is the pool owner's call).
 
 ## 3. Follow-ups owed
 
