@@ -15,7 +15,7 @@ Every candidate below must serve the value proposition — alleviate suffering, 
 All candidates are DRAFT until D2 verification (open-access check + instructor credentials on a biography or institutional page + what-topic-it-covers logging).
 
 ### mod-well-1 — What is positive psychology; PERMA; hedonic vs eudaimonic
-- **Coursera — The Science of Well-Being (Yale University, Laurie Santos)** — https://www.coursera.org/learn/the-science-of-well-being — free-to-audit, 10 modules, ~4 weeks at 10 h/week = ~40 hours. Covers: misconceptions about happiness, PERMA-adjacent wellbeing science, overcoming biases, intentional activities. The single strongest open candidate for this degree. **CREDENTIALS-VERIFIED (this session): Santos's Yale faculty page (https://psychology.yale.edu/people/laurie-santos) was successfully fetched — Chandrika and Ranjan Tandon Professor of Psychology, PhD Harvard 2003. This verifies credentials ONLY; the Coursera free-to-audit tier, coverage and duration are NOT yet checked.**
+- **Coursera — The Science of Well-Being (Yale University, Laurie Santos)** — https://www.coursera.org/learn/the-science-of-well-being — ACCESS-UNCONFIRMED (page fetched 2026-10-27, deg-arch-d2-psychx4 pass 1: no free-audit tier stated on the page; the earlier "10 modules, ~40 hours" claim in this entry was WRONG — the page lists 6 modules and 424 minutes of video ≈ 7 h). Covers: misconceptions about happiness, PERMA-adjacent wellbeing science, overcoming biases, intentional activities. **CREDENTIALS-VERIFIED (this session): Santos's Yale faculty page (https://psychology.yale.edu/people/laurie-santos) was successfully fetched — Chandrika and Ranjan Tandon Professor of Psychology, PhD Harvard 2003. This verifies credentials ONLY; the Coursera free-to-audit tier, coverage and duration are NOT yet checked.**
 - **Coursera — Positive Psychology specialization (University of Michigan / CLIPP)** — https://www.coursera.org/specializations/positivepsychology — free-to-audit. Covers: positive psychology foundations, character strengths, grit, positive relationships. **Verify at D2: the Michigan faculty page for the named instructor.**
 
 ### mod-well-2 — Positive emotions; broaden-and-build
@@ -23,7 +23,7 @@ All candidates are DRAFT until D2 verification (open-access check + instructor c
 - **Coursera — The Science of Well-Being (Yale, Santos)** — the positive-emotions module.
 
 ### mod-well-3 — Neuroscience of positive affect; set points
-- **Coursera — Biohacking Your Brain's Health (Karima Benameur, MD)** — https://www.coursera.org/learn/biohacking-your-brains-health — free-to-audit, Module 3 "Meditation and the Brain". **Verify at D2: Benameur's University of Maryland faculty page.**
+- **Coursera — Biohacking Your Brain's Health (Karima Benameur, MD)** — https://www.coursera.org/learn/biohacking-your-brains-health — ACCESS-UNCONFIRMED (page fetched 2026-10-27, deg-arch-d2-psychx4 pass 1: 4 modules, 180 minutes of video total; offered by EMORY University, not Maryland — Benameur verified on the Emory School of Medicine Neurology faculty index, fetched and read: "Karima Benameur, MD Associate Professor — Neurology Department"); Module 3 "Meditation and the Brain".
 - **Coursera — The Science of Well-Being (Yale, Santos)** — the neuroscience-of-happiness material.
 
 ### mod-well-4 — Flow and optimal experience
@@ -85,3 +85,12 @@ All candidates are DRAFT until D2 verification (open-access check + instructor c
 ## D2 checkpoint handoff
 
 The D2 checkpoint (owner or degrees-strategist) reviews this pool against the D1 coverage matrix in `deg-wellbeing.md` and rules on: (a) each candidate's open-access status, (b) each candidate's instructor credentials, (c) the hours arithmetic against the ≥100-hour floor, (d) the OPTIONAL rows (spiritual wellbeing and transcendence, savoring), and (e) the honest-failure flags above.
+
+## D2 verification pass 1 — 2026-10-27 (worker-pplx-d2psychx4-1027a, baton deg-arch-d2-psychx4)
+
+Cross-pool reuse: two candidate pages were fetched and read this session during the deg-mind pass and apply identically here. Nothing below is logged from memory.
+
+1. **The Science of Well-Being (Yale, Santos)** — course page fetched and read: 6 modules, 424 minutes of listed video (≈7 h); no free-audit tier stated on the page — ACCESS-UNCONFIRMED, no row credit yet. The canonical entry above was corrected accordingly (its earlier "10 modules, ~40 hours" claim contradicted the page). Santos's Yale credentials were verified by an earlier lane session (see the entry).
+2. **Biohacking Your Brain's Health (Benameur)** — course page fetched and read: 4 modules, 180 minutes of video; offered by Emory; Benameur's credentials verified on the Emory School of Medicine Neurology faculty index (fetched and read). ACCESS-UNCONFIRMED, no row credit yet. The canonical entry above was corrected (Maryland → Emory).
+3. **Coursera access general finding (applies to this pool's Coursera candidates):** the public course pages checked this session did not state a free-audit tier; whether an audit option exists per course was NOT established by those checks. Candidates stay uncredited until free access is demonstrated.
+4. Next checks for this pool: the Michigan Positive Psychology specialization page (named instructors + free-tier status); the Greater Good Science Center pages (editorial policy + Fredrickson's UNC faculty page); genuinely-open families for wellbeing teaching (Yale OYC, Noba, university-hosted recordings) to close the hours floor.
