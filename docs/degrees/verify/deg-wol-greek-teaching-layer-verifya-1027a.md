@@ -75,3 +75,19 @@ The Open Culture page for "Allan Bloom's Lectures on Socrates (Boston College, 1
 - The page attributes its description to Archive.org; lecture durations are NOT stated on the page; no license/access terms stated beyond inclusion in Open Culture's free-courses collection.
 - The page's Lecture 1 embed is the same YouTube video verified earlier (yRnzrDpGN5A, 9:49) — so the verified 9:49 segment is the first lecture of this four-lecture series. Lectures 2-4 were NOT opened this session (no provenance beyond the Open Culture page's listing).
 - Topical fit: PLATO — Greek half (Apology; Socrates; liberal education) — CANDIDATE.
+
+## 7. Addendum 6 (2026-10-27; exact event time not recorded; pushed with this update) — Bloom series UPGRADED: all four lectures live on Archive.org, full durations measured (6.12h)
+
+The four lecture embeds on the Open Culture page resolve to Archive.org items (identifiers extracted from the page's raw HTML this session). All four items are LIVE via the archive.org metadata API, with audio files (VBR MP3 + Ogg Vorbis) and durations from the API's file metadata (same method as the Ebrey 25A set):
+
+| Lecture | Archive.org identifier | mp3 | Duration (metadata) |
+|---|---|---|---|
+| 1 | AllanBloomsplatosApologyLecture | BloomSocratesApologybostonCollege1.mp3 | 2,677.19s = 44:37 |
+| 2 | AllanBloomsSocratesLecture2 | BloomSocratesApologybostonCollege2.mp3 | 2,795.7s = 46:36 |
+| 3 | AllanBloomsSocratesLecture3 | BloomSocratesApologybostonCollege3.mp3 | 2,783.32s = 46:23 |
+| 4 | AllanBloomsSocratesLecture4 | BloomSocratesApologybostonCollege4.mp3 | 2,754.72s = 45:55 |
+| **Total** | | | **22,021.76s = 6.117h** |
+
+- Findings: (1) the earlier 9:49 YouTube segment (yRnzrDpGN5A) is a SEGMENT of Lecture 1 — the full lecture is 44:37; (2) the four-lecture series has 6.12h of AVAILABLE RUNTIME (not credited instruction); (3) no license is stated in the Archive.org metadata (license: n/a); (4) the mp3 files' playback was not tested (metadata-only measurement, Ebrey method).
+- Implication for the M1/B1 estimate: the pool's "7h 40m" for the Bloom half is close to but not exactly this measured 6.12h available runtime; the estimate is NOT corroborated as instruction hours.
+- Topical fit: PLATO — Greek half (Plato's Apology; Socrates; liberal education) — CANDIDATE for a module-scale source (~6h, meets the ≥6h/module floor as available runtime; checkpoint ruling needed on available-runtime vs instruction-hours).
