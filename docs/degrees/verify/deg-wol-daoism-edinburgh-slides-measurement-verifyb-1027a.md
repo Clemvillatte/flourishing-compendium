@@ -26,3 +26,14 @@ pdftotext:
 - Rows 4/6's Edinburgh slide-set hours (8 min / 15 min) are independently
   corroborated; the measurement method (word count at the house 238 wpm) is
   reproducible from the open files.
+
+## Addendum — ChinaX SW12.3x Week 12 transcript word count corroborated
+
+- The lane's measured figure for the Week 12 (Cosmopolitan Tang) transcript
+  is "full 6,000 words ≈ 25 min". Independent download
+  (https://studio.edx.org/c4x/HarvardX/SW12.3x/asset/Transcript_for_Week_12_Cosmopolitan_Tang.pdf,
+  anonymous) and pdftotext extraction give **5,994 words** ≈ 25.2 min at
+  238 wpm — corroborated (the lane's figure is accurate to within rounding).
+  The lane's on-matrix Daoism-fraction caveat (≈5 min of the 25) is a
+  content-mapping judgment, not a word count — unchanged, remains the lane's
+  own work.
