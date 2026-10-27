@@ -95,3 +95,11 @@ The four lecture embeds on the Open Culture page resolve to Archive.org items (i
 Addendum 6 supplement: all four mp3 files HEAD-checked live this session (200 audio/mpeg; 42.8-44.7 MB each) — file servability confirmed beyond metadata existence.
 
 Addendum 4 supplement (2026-10-27, pushed with this update; exact event time not recorded): the two further Strauss course pages were re-opened this session and their mp3 links individually HEAD-checked: Plato, Meno spring 1966 — 16 mp3 links, 16 HEAD-200; Plato, Protagoras spring 1965 — 34 mp3 links, 34 HEAD-200 (S3-hosted direct downloads, same pattern as the Gorgias page). Combined Strauss mp3s now verified live: Gorgias 14 + Meno 16 + Protagoras 34 = 64. Durations remain UNMEASURED for all Strauss recordings.
+
+## 8. Addendum 7 (2026-10-27; exact event time not recorded; pushed with this update) — Ebrey credentials CLOSED (institutional corroboration) and current-affiliation note CORRECTED
+
+Two pages opened this session:
+- **UC Berkeley Department of Philosophy course listing** (https://philosophy.berkeley.edu/people/courses/174 — opened): "David Ebrey's Courses" — Fall 2008: PHIL 25A, Ancient Philosophy (also Spring 2009 PHIL 290-2 Plato's Phaedo; Spring 2008 PHIL 290-8 Plato's Meno; Fall 2007 PHIL 160 Plato). This INSTITUTIONALLY corroborates that Ebrey taught the recorded Fall 2008 course — the earlier "search-surfaced, not fetched" caveat on his teaching provenance is now closed by the department's own listing.
+- **His own homepage** (https://www.davidebrey.com/ — opened): current position is **Serra Húnter Fellow at the University of Barcelona**; past positions include Humboldt-University of Berlin, Northwestern University, and UC Berkeley.
+- CORRECTION to the earlier credentials note: the prior "he is now listed at Humboldt University Berlin" statement (search-surfaced) is superseded — per his own opened homepage, Humboldt is a PAST position and his current affiliation is the University of Barcelona.
+- Effect: the Ebrey half's instructor credentials are now page-verified (Berkeley department listing + his own homepage); the 38-recording set's provenance statement on the archive.org item (copied on closure of the UCB podcast site) stands as before.
