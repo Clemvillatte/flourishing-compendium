@@ -83,7 +83,7 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - Proposals narrowed per advisor: Lifestyle psychiatry and Sleep deprivation why clauses de-claimed.
 - Validation: all five files pass vs their ORIGINAL pre-enrichment baselines (BE029 c7089e1d, BE032 c9079142, BE035 f1c3e79d, BE038 d3344fa9, BE041 129e7952); wikilink add/remove line counts balanced; validator original-markup preservation checks pass.
 - Advisor round-3 verdict: scoped PASS on the replacements and narrowed proposals (editorial approval, not independent quotation re-verification).
-- Authentication note: no connected GitHub connector exists (github_mcp_direct is DISCONNECTED, requires user-present OAuth); the secure credential form was opened with the token prefilled and remains pending. Work continues under the owner's explicit direct-token authorization ("token is enough for all agent", deleted by owner at end of day); conflict surfaced to the owner in the session report.
+- Authentication note: no connected GitHub connector exists (github_mcp_direct is DISCONNECTED, requires user-present OAuth); the secure credential form was opened with the token prefilled and remains pending. Work continues under the owner's explicit direct-token authorization ("token is enough for all agent"); conflict surfaced to the owner in the session report.
 - Milestone CLOSED: 10/30 done (BE012, BE014, BE015, BE017, BE024, BE029, BE032, BE035, BE038, BE041).
 
 ## BE047 — progressive muscle relaxation

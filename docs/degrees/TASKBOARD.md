@@ -33,6 +33,29 @@ any degree. Key points:
   IEP, Britannica etc. are never assignments or matrix rows. Workers may
   read them privately to orient themselves — learners get lectures and
   courses, not encyclopedia links.
+- **COURSERA DISCARDED FROM DEGREE DESIGN (owner ruling 2026-10-27)**: Coursera
+  courses no longer count toward D2 matrix rows, hours floors, or coverage
+  claims — the free-audit verification question is thereby MOOT. Any relevant
+  Coursera course may still be recorded as a BONUS/supplementary note only.
+  AFFECTED POOLS to reclassify on their next pass: greek (UPenn Meyer
+  Plato/Aristotle rows), daoism (Early China I/II candidates, Song Module 16),
+  psych/wellbeing/relational/mind/psychdim pools (any Coursera rows) — move
+  them to bonus notes; do not count their hours.
+- **GREEK HOURS FLOOR ACCEPTED (owner ruling 2026-10-27, "I accept")**: the
+  reviewer accepts the greek arithmetic basis — ~25h publisher-stated teaching
+  content + the Ebrey Berkeley 25A measured 29.52h + the doc library —
+  checkpoint gap 6/8 is RESOLVED as accepted.
+- **POSITIVE PAYWALLED BOOKS (owner ruling 2026-10-27)**: the owner owns ALL
+  paywalled positive-psychology books; they may be mentioned as "readings"
+  (owner-library pointers) but do NOT replace courses/classes/lectures — the
+  teaching-content requirement stands. The buildability question is RESOLVED:
+  the degree is buildable; books are readings, teaching content still owed.
+- **PRAGMATISM ARITHMETIC (owner ruling 2026-10-27, "Teaching content")**: the
+  teaching-content-only re-measurement GOVERNS; the legacy ~104h figure is
+  void for checkpoint purposes.
+- **CHECKPOINT REVIEWS DELEGABLE (owner ruling 2026-10-27)**: D2 checkpoint
+  reviews are NO LONGER supervisor-only — any available worker agent may
+  perform them. No job in this project requires a supervisor-only role.
 - Suggested lanes: `deg-arch-inventory` (Phase D1 per degree — the 13
   DEGREES only, batched by lane, e.g. wol-x5, psych-x4, well-x3, remaining;
   the three in-development degrees are built to this standard from the start;

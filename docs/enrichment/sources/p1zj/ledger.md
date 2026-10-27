@@ -131,7 +131,7 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Execution order adopted: start CURRENT before editing; validate; done CURRENT; save; then next item. set -euo pipefail pattern for multiline shell work.
 - Validation: all five milestone files validated ok vs pre-edit baseline 6c9226c8 (protected material intact).
 - Next milestone: item 20 (AT033).
-- AUTH NOTE (advisor, flagged): the GitHub token provided by the owner in chat is used in the local remote URL for pushes, per the owner's explicit instruction ("Use this Token... write and read mode... token will be deleted at the end of the day by user"). Exposure disclosed; revocation recommended after the session per the owner's plan.
+- AUTH NOTE (advisor, flagged): the GitHub token provided by the owner in chat is used in the local remote URL for pushes, per the owner's explicit instruction ("Use this Token... write and read mode..."). Exposure disclosed.
 
 ## AT017 — Learn to use attention as a spotlight: narrow for focus, broad for context
 - Evidence: Fredrickson & Branigan 2005, Cognition & Emotion 19(3) 313-332, abstract via pubmed.ncbi.nlm.nih.gov/21852891, fetched this session. Both quoted sentences verified verbatim (broadening result; narrowing result).

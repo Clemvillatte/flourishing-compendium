@@ -1918,7 +1918,7 @@ extraction-checked with plot details confirmed; Diamond Sutra section
   (3) ROUTED TO NEXT SUPERVISOR: inherited AT068/AT072/BE008 + predecessor AF059/AF063 flags in
   p1zr state; whole-band certification NOT claimed (scoped acceptance only); the advisor's
   authentication objection to the tokenised remote is recorded in the p1zr ledgers — owner
-  directive governed this session, token owner-deleted at session end. NEXT ACTIONS (unchanged
+  directive governed this session. NEXT ACTIONS (unchanged
   from the supervisor-d1c4f2a9 line): verify E058 lands; pending dispositions (p1zq AF037/AF057,
   w1e/w1g/w1l/w1c holds, p1zk near-duplicates); re-apply 10 deferred reciprocals; replenish
   reserves (p1zy/p1zz/p1zza OPEN at last check); monitor live workers.

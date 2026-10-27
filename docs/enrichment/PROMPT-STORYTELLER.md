@@ -14,7 +14,7 @@ Task 1 : Use this Token, it should be sufficient: `[token]`
 
 —
 
-(NO credential and NO connector needed, all agents work with their token and can access all repositories to do the work “write and read” mode activated; token will be deleted at the end of your session by owner)
+(NO credential and NO connector needed, all agents work with their token and can access all repositories to do the work “write and read” mode activated)
 ——
 The wiki feeds my essays on Genuine Flourishing, alleviation of suffering and wisdom development. No hallucination is tolerated: every fact and quote must come from a source you actually opened (web search + fetch; the owner's primary-source library is in docs/PRIMARY-SOURCES.md). Humanise all text per docs/enrichment/HUMANIZER-SKILL.md.
 Setup: Get to the board on GitHub using the token, clone the repo, then read in order: handoff.md, docs/enrichment/OPERATIONS.md, docs/ENRICHMENT-HANDOFF.md, then the protocol for your task type — docs/enrichment/PROTOCOL-PRINCIPLES.md for principles (current priority per the owner: principle bodies are AI-sounding, "Plain words" sections are often broken replicates, verbatim source quotes are a real plus) or docs/enrichment/PROTOCOL.md for concepts — plus EXEMPLARS.md and TASKBOARD.md.
