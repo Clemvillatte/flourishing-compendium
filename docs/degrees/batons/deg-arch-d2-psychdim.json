@@ -1,7 +1,7 @@
 {
  "baton": "deg-arch-d2-psychdim",
- "agent": "worker-pplx-psychdim-d2-1027a",
- "clocked_in": "2026-10-27T11:40:28+00:00",
+ "agent": "worker-pplx-psychdim-d2-1027b",
+ "clocked_in": "2026-10-27T12:38:09+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-psychdim-d2-1027a",
@@ -14,8 +14,12 @@
    "at": "2026-10-27T11:24:48+00:00",
    "from": "worker-pplx-psychdim-d2-1027a",
    "reason": "stale (23 min)"
+  },
+  {
+   "by": "worker-pplx-psychdim-d2-1027b",
+   "at": "2026-10-27T12:38:09+00:00",
+   "from": "worker-pplx-psychdim-d2-1027a",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-27T11:57:40+00:00"
+ ]
 }
