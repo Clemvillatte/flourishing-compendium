@@ -43,3 +43,10 @@ transcript:
   the 0:54:02 runtime remain the lane's own work. Automatic-transcription
   spelling artifacts ("Maan", "dowist", "Laa") are transcription noise, not
   verbatim speech.
+
+## Addendum — Robin Wang "Daoism and Chinese Art" (row 21): mirror route FAILED
+
+- Two bounded attempts at the mirror transcript for btWUIi1CLYM returned a
+  crawler client error both times (the mirror service did not serve this
+  video). No content corroboration for row 21 from this pass — the lane's own
+  page-verified status stands, unchanged. Stopped per bounded-retry rules.
