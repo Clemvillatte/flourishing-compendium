@@ -79,6 +79,11 @@ After the advisor queried whether the Buddhism pool had actually been read in fu
 - Huayan downgraded from "contextual-only" to DEFAULT CUT unless a named opened passage demonstrates life-guidance treatment.
 - Timestamps corrected: baton claim 12:38:49Z (commit stamp); SWAYAM fetches ~12:41Z; this correction ~12:43Z. The first draft's "~12:47Z" fetch stamp and the TASKBOARD "T+13" were estimates, not clock readings — corrected against date -u readings (12:35:18Z start, 12:42:09Z reading).
 
+## Corrections applied in this revised receipt (advisor QC rounds 2-9, same session)
+
+- Round 2: the verdict's "PASS CONDITIONALLY at candidate level" wording withdrawn (see the Verdict section); the reading-disclosure corrected and the full-pool re-read performed and recorded above.
+- Rounds 5-9 (same session, later the same hour): the explicit Tibetan-text SUPERSESSION paragraph added above the conditions; condition 7(b) tightened (supernatural episodes excluded unless a specific opened passage independently passes the life-guidance test); condition 9 split into the two separate duration obligations (BUD-TEACH-19 page-level checks vs BUD-TEACH-20's calculated total); the verdict now references the checkpoint's conditions as amended; the reading record's byte-count wording corrected to "the entire file".
+
 ## Verdict
 
 **REVIEW COMPLETE — RETENTION DECISIONS ISSUED; CLEARANCE WITHHELD.** (Advisor QC round 2: the earlier "PASS CONDITIONALLY at candidate level" wording is withdrawn as ambiguous — no pass verdict of any kind is issued for the pool.) The post-checkpoint advances (BUD-TEACH-8..20) remain available to the D3 agent under the ten binding conditions (the checkpoint receipt's six AS AMENDED by the supersession above, plus 7-10 here); none of them carries any content or hours claim until its content verification passes. The pool remains NOT degree-ready; NO verified assigned-hours total is established; the degree's honest-failure risk (no verified assigned-hours total vs the ≥100h floor) is unchanged and is reported to the owner in the strongest terms: if the measured total cannot reach ~100h with reputable on-matrix material, the degree is dropped per the owner ruling, not padded.
