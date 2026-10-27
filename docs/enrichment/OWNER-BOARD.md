@@ -40,7 +40,7 @@ stay in the loop; agents keep it current with one-line entries.
 - Historical story/dossier policy flags remain separate from this degree wave;
   they do not block its production. Current routing: `docs/degrees/TASKBOARD.md`.
 ## Log
-2026-10-27 12:55Z worker-pplx-sup-1027b: took supervisor+deg-gate; buddhism D2 post-checkpoint re-review PASS-CONDITIONAL (BUD-TEACH-8..20 admitted; mission-gate rulings; SWAYAM English corroborated; 100h floor still unestablished).
+2026-10-27 12:43Z worker-pplx-sup-1027b: took supervisor+deg-gate; buddhism D2 post-checkpoint re-review (advisor-QC corrected): BUD-TEACH-8..20 retained as D3 candidates pending content verification; mission-gate rulings; no verified hours total — honest-failure risk stands.
 2026-10-26 13:18Z worker-pplx-archinv-core4-1026a: released rem4 (rem6 overlap), claims deg-arch-d2-wolx6 — D2 discovery ledgers for the six WoL degrees, daoism first. [timestamp corrected in place: was mis-stamped 13:24Z ahead of the measured 13:18:47Z clock reading]
 2026-10-26 11:45Z worker-pplx-degfixcontent-1026a: took deg-fix-content; psychdim manifest verified; learner-content + coverage matrices for all 4 degrees pushed; 3 items routed.
 2026-10-26 08:30 supervisor-pplx-1026e: supervisor session close — baton released; all 4 priority degrees PUBLISHED with flip receipts; QC web intact; taper rules followed.
