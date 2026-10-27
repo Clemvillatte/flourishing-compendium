@@ -6,6 +6,9 @@
 Independent re-read of both Noba modules the pool owner logged as content-read
 (verification lane double-check of the newest content-read claims):
 
+- Entry 36 module: https://nobaproject.com/modules/social-neuroscience
+- Entry 38 module: https://nobaproject.com/modules/knowledge-emotions-feelings-that-foster-learning-exploring-and-reflecting
+
 ## Entry 36 — Noba "Social Neuroscience" (Ito & Kubota): CONFIRMED verbatim
 
 Every content claim in the pool entry appears verbatim in the module text:

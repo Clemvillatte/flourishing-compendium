@@ -35,9 +35,10 @@ https://open.ed.ac.uk/know-thyself-the-value-and-limits-of-self-knowledge-the-ex
 
 ## Entry 47 — Tilburg Pronk lecture (YouTube): not verifiable this pass
 
-- Same YouTube limitation documented in the entry-33 receipt (stream and
-  transcript routes blocked in this environment). Structure-verified status
-  stands; no new claim.
+- This recording was NOT tested in a browser this pass (only the Dweck video
+  was tested — see the entry-33 receipt); no general claim about YouTube
+  accessibility is made from that test. Structure-verified status stands;
+  no new claim.
 
 ## Outcome for the pool owner
 

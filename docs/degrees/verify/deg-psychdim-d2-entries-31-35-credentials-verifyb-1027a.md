@@ -24,17 +24,21 @@
 
 ## Entry 32 — Gollwitzer & Sheeran chapter: BOTH credentials VERIFIED
 
-- Gollwitzer VERIFIED (Wikipedia route, verification evidence only):
-  "professor of psychology in the Psychology Department at New York
+- Gollwitzer VERIFIED via the WIKIPEDIA route (verification evidence only,
+  NOT a fetched institutional page — the NYU institutional routes are
+  robots-blocked; distinction kept): en.wikipedia.org/wiki/Peter_Gollwitzer
+  — "professor of psychology in the Psychology Department at New York
   University"; University of Konstanz chair of social psychology and
   motivation 1993 — matches the entry's "New York University/Universität
   Konstanz" affiliation.
-- Sheeran VERIFIED via institutional-host CV (sph.unc.edu, University of North
-  Carolina at Chapel Hill, fetched directly): "Professor, Department of
-  Psychology and Neuroscience, University of North Carolina at Chapel Hill";
-  University of Sheffield PhD (1988); BPS Fellow (2016). The entry's
-  "University of Sheffield" affiliation is his past appointment — accurate as
-  of the article, but the owner should note he has since moved to UNC.
+- Sheeran VERIFIED via institutional-host CV (fetched directly):
+  https://sph.unc.edu/wp-content/uploads/sites/112/2022/04/Paschal-Sheeran_CV-2020.pdf
+  (University of North Carolina at Chapel Hill, sph.unc.edu):
+  "Professor, Department of Psychology and Neuroscience, University of North
+  Carolina at Chapel Hill"; University of Sheffield PhD (1988); BPS Fellow
+  (2016). The entry's "University of Sheffield" affiliation is his past
+  appointment — accurate as of the article, but the owner should note he has
+  since moved to UNC.
 
 ## Entry 33 — Dweck talk: unchanged; duration question remains
 
@@ -51,8 +55,8 @@
 - File downloaded in full: 35,623,178 bytes = 33.95 MB — exactly the size the
   page prints. ffprobe duration 4446.76 s = **1:14:07** — confirms the
   page-stated duration.
-- Credentials: University of Oregon institutional directory page
-  (cas.uoregon.edu/directory/natural-sciences/all/pslovic) fetched directly:
+- Slovic VERIFIED (University of Oregon institutional directory page, fetched
+  directly: https://cas.uoregon.edu/directory/natural-sciences/all/pslovic):
   Paul Slovic, "Professor Emerit" [Emeritus], Psychology, University of
   Oregon. (Corrective pass note: the "1,000+ research reports" and "33
   honorary doctorates" details in the first version of this receipt came
@@ -66,10 +70,11 @@
 
 ## Entry 35 — Mackie & Smith review: BOTH credentials VERIFIED
 
-- Mackie VERIFIED (tmp.ucsb.edu institutional page fetched directly):
-  "Professor, Psychological & Brain Sciences", University of California, Santa
-  Barbara.
-- Smith VERIFIED (psych.indiana.edu institutional page fetched directly):
+- Mackie VERIFIED (tmp.ucsb.edu institutional page fetched directly:
+  https://tmp.ucsb.edu/people/diane-mackie): "Professor, Psychological &
+  Brain Sciences", University of California, Santa Barbara.
+- Smith VERIFIED (psych.indiana.edu institutional page fetched directly:
+  https://psych.indiana.edu/directory/faculty/smith-eliot.html):
   "Distinguished and Chancellor's Professor Emeritus, Psychological and Brain
   Sciences", Indiana University Bloomington.
 - The scholarly-review eligibility ruling remains with the owner (same open

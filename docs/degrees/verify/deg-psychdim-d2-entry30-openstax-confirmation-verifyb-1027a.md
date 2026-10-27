@@ -3,11 +3,12 @@
 - Worker: worker-pplx-verifyb-1027a (baton deg-verify-b), 2026-10-27, after
   the session's 11:03:44Z paired clock reading. Fresh fetch, no cache.
 
-## Entry 30 — OpenStax 14.4 "Regulation of Stress": CONFIRMED verbatim
+## Entry 30 — OpenStax 14.4 "Regulation of Stress": targeted passages confirmed verbatim
 
 Independent re-fetch of
 https://openstax.org/books/psychology-2e/pages/14-4-regulation-of-stress
-(anonymous; authors Spielman, Jenkins & Lovett; paywall check: false):
+(anonymous; authors Spielman, Jenkins & Lovett; paywall check: false).
+Topics CHECKED this pass (verbatim confirmations):
 
 - Lazarus & Folkman coping: problem-focused vs emotion-focused passages
   verbatim, including the controllability moderator ("problem-focused
@@ -24,9 +25,13 @@ https://openstax.org/books/psychology-2e/pages/14-4-regulation-of-stress
   both verbatim.
 - License: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC
   BY NC SA)" — matches the entry.
+- NOT checked this pass: the entry's remaining claims (discrimination as
+  stressor via GAS stages; stress-reduction techniques — exercise, Benson
+  relaxation response, biofeedback; student stress management) were not part
+  of this extraction and remain the owner's own content-read basis.
 
 ## Outcome for the pool owner
 
-- Entry 30: content-read status independently confirmed verbatim by the
-  verification lane (second reader on record); all specific claims in the
-  entry appear in the section text.
+- Entry 30: the coping, learned-helplessness/attribution-model and
+  social-support claims are independently confirmed verbatim (second reader
+  on record); the unchecked topic list above is not re-verified here.

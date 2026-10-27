@@ -3,10 +3,12 @@
 - Worker: worker-pplx-verifyb-1027a (baton deg-verify-b), 2026-10-27, after
   the session's 11:03:44Z paired clock reading. Fresh fetch, no cache.
 - Route: third-party transcript mirror (same route and bounds as the psychdim
-  entries 40/41/33 receipt — selected topic passages checked; automatic
-  transcription with spelling artifacts; playback not tested; the 0:54:02
-  duration remains the daoism lane's own page-verified figure, not
-  re-measured here).
+  entries 40/41/33 receipt — selected topic passages checked; playback not
+  tested; the 0:54:02 duration remains the daoism lane's own page-verified
+  figure, not re-measured here). QUOTE FIDELITY: the passages below reproduce
+  the mirror's AUTOMATIC TRANSCRIPTION, including its spelling artifacts —
+  they are evidence of topic coverage, NOT recording-faithful quotation; do
+  not cite them as verbatim speech.
 
 ## Kleeman, "The 86th Morrison Lecture | Daoism as a New Religious Movement"
 
