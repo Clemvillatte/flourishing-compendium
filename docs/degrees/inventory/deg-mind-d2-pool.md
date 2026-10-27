@@ -25,8 +25,8 @@ The pool below maps each proposed module from the D1 coverage matrix to the open
 ### mod-mind-1 — What is cognitive science; five levels; history
 - **MIT OCW 9.13 The Human Brain (Nancy Kanwisher, Spring 2019)** — https://ocw.mit.edu/courses/9-13-the-human-brain-spring-2019/ — free, full video lectures, undergraduate, Kanwisher is a named MIT professor. Covers: the five-levels-of-analysis spine (Kanwisher explicitly applies Marr's levels to color vision in Lecture 4), neuroanatomy, perception, attention and awareness, language, social cognition. The single strongest candidate for the whole degree's spine. **CREDENTIALS-VERIFIED (this session): Kanwisher's MIT faculty page (https://bcs.mit.edu/directory/nancy-kanwisher) was successfully fetched — Walter A. Rosenblith Professor of Cognitive Neuroscience, McGovern Institute investigator, PhD MIT 1986, NAS member, Kavli Prize in Neuroscience 2024. This verifies credentials ONLY; the course's accessibility, coverage and duration are NOT yet checked.**
 - **Coursera — Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences (University of Edinburgh, Michela Massimi et al.)** — https://www.coursera.org/learn/philosophy-cognitive-sciences — ACCESS-UNCONFIRMED (pass 1, 2026-10-27: course page opened; no free-audit tier stated on the page), 5 modules, ~11 h of module estimates. Covers: evolutionary psychology and philosophy of mind, consciousness, intelligent machines, embodied cognition. **Verify at D2: Edinburgh faculty pages (Sprevak, Clark, Carmel, Lavelle). NOTE: the Coursera free-to-audit tier must be checked — Coursera's "free" courses typically give only a first-module preview.**
-- **Stanford Encyclopedia of Philosophy — Embodied Cognition (Wilson and Foglia)** — https://plato.stanford.edu/entries/embodied-cognition/ — open access, peer-reviewed, continuously updated. Covers: the embodied/embedded/enactive/extended-mind debate. **Verify at D2: SEP editorial policy and author credentials (both are named university philosophers).**
-- **Stanford Encyclopedia of Philosophy — Memory** — https://plato.stanford.edu/archives/spr2005/entries/memory/ — open access. Covers: philosophy of memory, the continuity of self.
+- ~~Stanford Encyclopedia of Philosophy — Embodied Cognition (Wilson and Foglia)~~ — DEMOTED to private orientation reading per the owner's 2026-10-27 no-encyclopedic ruling.
+- ~~Stanford Encyclopedia of Philosophy — Memory~~ — DEMOTED to private orientation reading per the owner's 2026-10-27 no-encyclopedic ruling (note: this SEP entry is also archived, not current).
 
 ### mod-mind-2 — Neuroanatomy and the nervous system
 - **MIT OCW 9.13 The Human Brain (Kanwisher)** — Lecture 2 Neuroanatomy; full video lectures, free.
@@ -61,7 +61,7 @@ The pool below maps each proposed module from the D1 coverage matrix to the open
 
 ### mod-mind-9 — Long-term memory; knowledge representation
 - **MIT OCW 9.13 The Human Brain (Kanwisher)** — the recognition and recall material.
-- **Stanford Encyclopedia of Philosophy — Memory** — the philosophy of memory and the continuity of self.
+- ~~Stanford Encyclopedia of Philosophy — Memory~~ — DEMOTED to private orientation reading per the owner's 2026-10-27 no-encyclopedic ruling.
 
 ### mod-mind-10 — Language acquisition and comprehension
 - **MIT OCW 9.13 The Human Brain (Kanwisher)** — Lecture 18-19 Language I and II. Free, full video lectures.
