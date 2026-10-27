@@ -66,3 +66,18 @@ Per the advisor's next-item instruction, the PHI 556 course page's raw HTML was 
 Honest limits: the two mp4 files are identified from the public share pages' own metadata; **durations remain UNMEASURED (the Box pages do not expose runtime metadata to a page fetch, and playback was not tested)**; the recordings' CONTENT was not inspected (no transcript read). The Aug 30 session row also links a reading ("Introducing Pragmatism", Box v/Introducing-Pragmatism) and the course page carries its own quality caveat ("with apologies for poor quality"). The course page's Video href for Aug 30 is malformed on the wiki itself (double `https://https://`); the effective URL is the single-https form recorded above.
 
 Effect: PRAG-TEACH-3's tier upgrades from "video links not yet opened" to "two session videos opened and identified as public mp4 recordings (Aug 30 overview, Sep 20 Peirce); durations unmeasured; content uninspected; one Video label misresolves to slides". Still no hours credit.
+
+## Addendum 2 (same session, ~11:38 UTC) — remaining on-scope session links inventoried
+
+The remaining pragmatism-relevant session links on the PHI 556 page were opened one by one (public Box shares, no login; identification from each share page's own og:title metadata):
+
+| Session / link | Resolves to | Type |
+|---|---|---|
+| Sep 26 "Peirce's Semiotics" (Stjernfelt) — Peirce-Semiotics-Stjernfelt | **Stjernfelt-2021-2.mp4** | video recording |
+| Sep 26 Stjernfelt-Lecture-1 | Stjernfelt-Lecture-1.pptx | slides |
+| Nov 8 "Peirce on Habits" — Peirce-on-Habit | Peirce-Habits-2021.pptx | slides |
+| Nov 15 Sowa "Peirce on Diagrams" — Sowa-Peirce-Diagrams | diagReason (1).pdf | slides |
+| Peirce-as-Truthmaker-Realist | Blityri_2_2020_DEF.pdf | paper |
+| Oct 25 Heft "Ecological Psychology in Context" — Heft-Affordances | **Heft-2021.mp4** | video recording |
+
+Course-level result: at least **four public mp4 recordings** for pragmatism-relevant sessions are now link-verified (Aug 30 overview; Sep 20 Peirce metaphysics; Sep 26 Stjernfelt Peirce semiotics; Oct 25 Heft ecological psychology) plus the Rorty session (off-scope for this degree). All durations remain UNMEASURED; no recording's content was played or read (the Box share pages do not expose runtime metadata to a page fetch, and the app shell exposes no direct file URL for download without a browser session — content-level inspection is owed to a browser-capable pass).
