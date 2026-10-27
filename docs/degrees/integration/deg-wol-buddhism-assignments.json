@@ -239,6 +239,18 @@
      "section": "optional",
      "role": "teach",
      "note": "The Diamond Sutra — core Mahayana text behind the Zen inheritance — taught by its translator"
+    },
+    {
+     "source_id": "BUD-D2-54",
+     "section": "optional",
+     "role": "teach",
+     "note": "The seminal Chinese Zen teaching of the five ranks, class 1 of 2"
+    },
+    {
+     "source_id": "BUD-D2-55",
+     "section": "optional",
+     "role": "teach",
+     "note": "The five ranks, class 2 of 2"
     }
    ]
   },
@@ -306,6 +318,12 @@
      "section": "optional",
      "role": "teach",
      "note": "Nagarjuna’s Middle Way, class 5 of 5 — series total 7:15:37 (sum of page-stated durations)"
+    },
+    {
+     "source_id": "BUD-D2-53",
+     "section": "optional",
+     "role": "teach",
+     "note": "Companion lecture to the emptiness PDF already assigned — the two truths in detail; PDF is the verified carrier"
     }
    ]
   },
@@ -638,6 +656,48 @@
    "mission": "deg-wol-buddhism",
    "verification_status": "verified",
    "gate_evidence": "SFZC Recorded Study Classes page (https://www.sfzc.org/offerings/deepening-practice/recorded-study-classes-deepening-practice) fetched and read this session — class titles, teachers and page-stated durations extracted verbatim; audio content not played"
+  },
+  "BUD-D2-53": {
+   "source_id": "BUD-D2-53",
+   "youtube_id_or_url": "https://ordinarymind.com.au/wp-content/uploads/23.06.24-NAGARJUNA-AND-THE-TWO-TRUTHS.pdf",
+   "canonical_url": "https://ordinarymind.com.au/wp-content/uploads/23.06.24-NAGARJUNA-AND-THE-TWO-TRUTHS.pdf",
+   "title": "Nagarjuna and the Two Truths — lecture note (16 pp: conventional vs ultimate reality, emptiness of emptiness, samsara/nirvana, identity and compassion, guided meditation, Sanskrit glossary)",
+   "presenter": "Ordinary Mind Zen (OzZEN), lecture of 23 June 2024",
+   "host": "Ordinary Mind Zen open lecture PDF",
+   "duration": "16-page lecture PDF",
+   "topic_ids": "BUD-M7",
+   "level": "Intermediate",
+   "mission": "deg-wol-buddhism",
+   "verification_status": "verified",
+   "gate_evidence": "PDF fetched and opened this session (16 pages, two-truths content confirmed)"
+  },
+  "BUD-D2-54": {
+   "source_id": "BUD-D2-54",
+   "youtube_id_or_url": "https://sfzc.engagewisdom.com/talks/five-ranks-1",
+   "canonical_url": "https://sfzc.engagewisdom.com/talks/five-ranks-1",
+   "title": "Five Ranks 1 — Charlie Pokorny on Dongshan’s five ranks",
+   "presenter": "Charlie Pokorny (Stone Creek Zendo)",
+   "host": "San Francisco Zen Center recorded study classes (free audio archive)",
+   "duration": "1:00:34",
+   "topic_ids": "BUD-M6",
+   "level": "Intermediate",
+   "mission": "deg-wol-buddhism",
+   "verification_status": "verified",
+   "gate_evidence": "SFZC Recorded Study Classes page (https://www.sfzc.org/offerings/deepening-practice/recorded-study-classes-deepening-practice) fetched and read this session — titles, teachers and page-stated durations extracted verbatim; audio content not played"
+  },
+  "BUD-D2-55": {
+   "source_id": "BUD-D2-55",
+   "youtube_id_or_url": "https://sfzc.engagewisdom.com/talks/five-ranks-2",
+   "canonical_url": "https://sfzc.engagewisdom.com/talks/five-ranks-2",
+   "title": "Five Ranks 2 — Charlie Pokorny on Dongshan’s five ranks",
+   "presenter": "Charlie Pokorny (Stone Creek Zendo)",
+   "host": "San Francisco Zen Center recorded study classes (free audio archive)",
+   "duration": "59:34",
+   "topic_ids": "BUD-M6",
+   "level": "Intermediate",
+   "mission": "deg-wol-buddhism",
+   "verification_status": "verified",
+   "gate_evidence": "SFZC Recorded Study Classes page (https://www.sfzc.org/offerings/deepening-practice/recorded-study-classes-deepening-practice) fetched and read this session — titles, teachers and page-stated durations extracted verbatim; audio content not played"
   }
  }
 }
