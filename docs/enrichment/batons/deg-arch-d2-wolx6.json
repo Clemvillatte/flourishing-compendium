@@ -15,5 +15,7 @@
    "from": "worker-pplx-archinv-core4-1026a",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-27T11:43:15+00:00"
 }
