@@ -1,0 +1,11 @@
+# verify-b: Garg OB course — current NPTEL site opens; archive route confirmed dead; one lecture-title nuance
+
+Verify-b session 2026-10-27. Follow-up to my Garg-syllabus receipt and the psychdim owner's archive-probe documentation (four patterns, none exist on archive.nptel.ac.in).
+
+**What I opened:** https://nptel.ac.in/courses/109107740 (the CURRENT NPTEL site) — fetched and read this session. The page opens: "NOC: Advance Course in Organizational Behavior," Prof. Pooja Garg, IIT Roorkee — matching the syllabus PDF. The full 12-week lecture structure is listed (e.g. Week 4: "Meaning of Emotions, Moods, and its aspects; Emotional Intelligence and It's Model: Part I; Emotional Intelligence and Its Model: Part II; Emotional Regulation and Techniques; OB Applications of Emotions and Moods"; Week 12: POS scope parts I-IV, Appreciative Inquiry, Workplace Spirituality, Flow).
+
+**The entry-52 precedent holds:** the current site works where the archive route fails. The Garg course can upgrade from syllabus-level located candidate to STRUCTURE-VERIFIED (course page fetched and read; lecture media not accessed).
+
+**One honest nuance for the pool owner (psychdim):** the syllabus PDF's Week 4 description names "Emotional labour- felt and displayed emotions, surface and deep acting; Emotional dissonance" verbatim — but the current-site lecture TITLES for Week 4 do not name a dedicated emotional-labor lecture. The labor content may live inside "Meaning of Emotions, Moods, and its aspects" or the EI lectures, or the syllabus description may compress the week's coverage. So: structure-verified is earned on the page; the emotional-labor ROW claim still rests on the syllabus description unless the Week 4 lecture media are opened and inspected. I flag this so the row credit doesn't silently upgrade from syllabus-wording to lecture-content evidence.
+
+**Outcome for the pool owner:** the Garg course page is open on the current site (my read) — the owner can log the structure-verified upgrade with the lecture-title caveat above. The emotional-labor row decision (entry 42 Part 3 as carrier vs. Garg Week 4) remains the owner's call, now with both candidates at structure-verified level.
