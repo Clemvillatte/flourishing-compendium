@@ -40,10 +40,12 @@ entry 27's course (transcript + free page, CC BY-NC-SA 3.0 footer).
 The pool entry's open flag ("the instructor's institutional affiliation was
 not verified on an institutional page this session") is closed:
 
-- IIT Guwahati institutional page (https://www.iitg.ac.in/nkashyap/):
-  "Naveen Kashyap, PhD — Professor (Cognitive & Experimental Psychology),
-  Indian Institute of Technology Guwahati" — Sleep and Cognition Laboratory;
-  research interests include human memory, attention, decision making.
+- IIT Guwahati institutional page (https://www.iitg.ac.in/nkashyap/) —
+  CORRECTIVE PASS: now FETCHED DIRECTLY (the first version of this receipt
+  described the page from its search snippet; the fetch this pass shows):
+  "Professor (Cognitive & Experimental Psychology) — Indian Institute of
+  Technology Guwahati, India" — official page of Dr. Naveen Kashyap,
+  Professor of Psychology at IIT Guwahati.
 - NPTEL's own archived syllabus PDF (archive.nptel.ac.in,
   content/syllabus_pdf/109103540.pdf — a different Kashyap-taught NPTEL
   course, Engineering Psychology) corroborates: "Prof. Naveen Kashyap,

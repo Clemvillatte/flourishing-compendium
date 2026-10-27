@@ -4,15 +4,16 @@
   the session's 11:03:44Z paired clock reading. Fresh fetches; one cloud-browser
   session (stopped at pass end).
 
-## Entry 33 — the "1:00 vs 9-10 minutes" duration inconsistency: EXPLAINED (not resolved)
+## Entry 33 — the "1:00 vs 9-10 minutes" duration inconsistency: NARROWED (not resolved)
 
 - Michigan Online carrier page re-fetched (raw HTML):
   https://online.umich.edu/collections/entrepreneurship/short/developing-growth/
-  — the page prints "**Article • 1:00**" beside the content type. The "1:00" is
-  the page's own label for the item as an ARTICLE with a ~1-minute read time —
-  it is NOT a video runtime. The pool's inconsistency note can be corrected:
-  the carrier page never stated a video duration; its "1:00" is an
-  article-read-time label.
+  — the page prints "**Article • 1:00**" beside the content type. What this
+  establishes: the page does NOT state a video runtime; the "1:00" is not
+  presented as a video duration. (An interpretation of "1:00" as an article
+  reading-time label is NOT documented on the page and is withdrawn.) The
+  pool's inconsistency note can be corrected only to: "the carrier page
+  prints 'Article • 1:00' and states no video runtime."
 - The talk's true video duration therefore remains UNVERIFIED (the "9-10
   minutes per third-party listings" basis is unchanged).
 
@@ -27,16 +28,17 @@
 - Two bounded attempts per route, then stopped per house rules. This matches
   the known environment limitation previously documented for another YouTube
   source (QC log 2026-10-25, S0ZqKo0KQvA: "cloud-browser stream not loading").
-- Consequence: entries 40 and 41's content verification (reading the
-  Fredrickson and NPTEL transcripts) is also blocked by the same limitation —
-  their "search-surfaced transcript excerpts" remain partial content evidence;
-  upgrade requires either a browser environment where YouTube streams load, or
-  a transcript mirror route.
+- Bound: only THIS video (hiiEeMN7vbQ) was tested in the browser pass; no
+  claim is made about other YouTube recordings' accessibility.
+- Follow-up (same session, transcript-mirror receipt): targeted passages of
+  this talk were later corroborated via a third-party transcript mirror —
+  see the entries 40/41/33 transcript receipt for the bounded status.
 
 ## Outcome for the pool owner
 
-- Entry 33: correct the duration note — the Michigan page's "1:00" is an
-  article-read-time label, not a video runtime; true duration still unverified;
-  no hours counted (unchanged).
-- Entries 40/41: content verification not reachable this pass (blocked
-  routes documented above); structure-verified status stands.
+- Entry 33: correct the duration note — the Michigan page prints "Article •
+  1:00" and states no video runtime (the page does not identify the label's
+  meaning); true duration still unverified; no hours counted (unchanged).
+- Entries 40/41: not tested in the browser pass; their status was later
+  addressed via the transcript-mirror route (separate receipt, bounded
+  status).

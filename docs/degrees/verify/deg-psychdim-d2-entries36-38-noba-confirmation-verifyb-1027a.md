@@ -18,7 +18,14 @@ Every content claim in the pool entry appears verbatim in the module text:
   behaviors would be in a similar situation … we are experts in our own
   feelings, thoughts, and tendencies" (Goldman, 2005).
 - Mitchell, Macrae & Banaji (2005): mentalizing vs facial-symmetry judgment,
-  more mPFC activity for mental judgments.
+  more mPFC activity for mental judgments. CORRECTIVE PASS: the module ALSO
+  carries the similar-others aspect of the same study, which the first
+  extraction missed — "activity in the most ventral part of the mPFC … was
+  particularly active when subjects mentalized about people they rated as
+  similar to themselves" (the musical-taste example in that passage is
+  cited to Srivastava, Guglielmo, & Beer, 2010). The pool entry's "ventral
+  mPFC most active for similar others" claim is therefore CONFIRMED verbatim
+  and correctly attributed by the entry.
 - Vocabulary TPJ: "important in mentalizing and distinguishing between the
   self and others".
 - Author titles: Ito "Professor of Psychology and Neuroscience at the

@@ -52,9 +52,13 @@
   page prints. ffprobe duration 4446.76 s = **1:14:07** — confirms the
   page-stated duration.
 - Credentials: University of Oregon institutional directory page
-  (cas.uoregon.edu) fetched directly: Paul Slovic, "Professor Emerit"
-  [Emeritus], Psychology, University of Oregon; publisher of 1,000+ research
-  reports; 33 honorary doctorates.
+  (cas.uoregon.edu/directory/natural-sciences/all/pslovic) fetched directly:
+  Paul Slovic, "Professor Emerit" [Emeritus], Psychology, University of
+  Oregon. (Corrective pass note: the "1,000+ research reports" and "33
+  honorary doctorates" details in the first version of this receipt came
+  from the SEARCH SNIPPET of that page, not from the fetched page text —
+  struck from the opened-evidence claim; the title line above is what the
+  fetched page displays.)
 - Bound: this closes the DURATION and CREDENTIAL questions; the CONTENT
   (transcript or full listen) remains unread — entry 34's content-verification
   limitation stands. As a public lecture (not a peer-reviewed article), the
@@ -76,7 +80,8 @@
 - Entry 32: both authors' credentials verified; note Sheeran's current UNC
   affiliation.
 - Entry 34: page-stated duration measured and confirmed (1:14:07); anonymous
-  download verified; Slovic credentials verified (Oregon directory).
+  download verified; Slovic credentials verified (Oregon directory — title
+  line only on the fetched page).
 - Entry 35: both authors' credentials verified.
 - Entry 31: Oettingen credentials at SEARCH-SNIPPET tier (Hamburg
   institutional page); NYU and Hamburg direct-fetch routes robots-blocked and

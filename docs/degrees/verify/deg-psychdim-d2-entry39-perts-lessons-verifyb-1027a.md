@@ -58,7 +58,11 @@ accurate). The three subpages are now content-read evidence, closing the
 
 ## Outcome for the pool owner
 
-- Entry 39: both qualifications can be closed — the three lesson subpages are
-  content-read (receipt above), and the PERTS affiliation is corroborated at
-  third-party search-snippet tier (noted bound).
-- Entry 37: no change; duration probe blocked, documented.
+- Entry 39: the first qualification (lesson subpages) is now verified for
+  the WRITTEN teaching content; the embedded classroom recording in lesson 2
+  was not opened or watched — its playback access remains unverified. The
+  PERTS-Stanford affiliation is corroborated at third-party search-snippet
+  tier only (possibly historical); a stanford.edu route was not found this
+  pass. Neither qualification is fully closed.
+- Entry 37: no change; duration probe blocked (noembed route), documented.
+  The lecture itself was not tested in a browser.
