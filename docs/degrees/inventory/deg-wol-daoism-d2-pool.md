@@ -121,7 +121,7 @@ The checkpoint (owner or degrees-strategist) must NOT be requested on this file 
 
 ## Hours arithmetic — RULING 4 RE-MEASUREMENT (2026-10-27, worker-pplx-psychdim-1027b, baton deg-wol-daoism takeover pass; RECONCILED to the final 14-entry Pass-8 set)
 
-Per owner ruling 4 (2026-10-27): the hours floor must be re-measured against ENGLISH, NON-COURSERA carriers only. This block was drafted against the 7-entry interim Pass-8 state and is RECONCILED here to the ledger's final fourteen-entry set (D2-NEW-23..36, minus the D2-NEW-33 lead with no verified duration), whose combined stated duration the ledger's own hours note puts at roughly 18 hours — every figure is a CANDIDATE bound, not a measured assigned hour. The 7-entry video subtotal below (~9.99 h) is retained as the arithmetic base; the final 14-entry set supersedes it at ~18 h stated bounds:
+Per owner ruling 4 (2026-10-27): the hours floor must be re-measured against ENGLISH, NON-COURSERA carriers only. This block was drafted against the 7-entry interim Pass-8 state and is RECONCILED here to the ledger's final fourteen-entry set (D2-NEW-23..36, minus the D2-NEW-33 lead with no verified duration), whose combined LISTED VIDEO RUNTIME the ledger's own hours note puts at 15 hours 19 minutes (≈18 h only when the ~2.35 h reading estimates are added on top) — every figure is a CANDIDATE bound, not a measured assigned hour. The 7-entry video subtotal below (~9.99 h) is retained as the arithmetic base; the final 14-entry set supersedes it at ~18 h stated bounds:
 
 English non-Coursera VIDEO candidates (stated runtimes, 7-entry interim base from the ledger rows/pass-8 entries):
 - Kleeman 86th Morrison Lecture (ANU; rows 13/14/15/16/19/20/22): 0:54:02
@@ -136,11 +136,11 @@ VIDEO SUBTOTAL: 599.1 min = 9.99 h candidate runtime.
 
 Reading estimates (house-rate, as stated in the ledger): Edinburgh Daoism I ~8 min + Daoism II ~15 min (slide-text reading estimates, NOT contact time); Golden Elixir "Way of the Golden Elixir" ~1.5 h (20,745 words at 238 wpm) + "Longmen Lineage" ~28 min (6,632 words). READING SUBTOTAL: ~2.35 h.
 
-COMBINED ENGLISH NON-COURSERA CANDIDATE BOUND: ~12.3 h on the 7-entry interim base; ~20.4 h on the final 14-entry set (18 h video + 2.35 h reading).
+COMBINED ENGLISH NON-COURSERA CANDIDATE BOUND: ~12.3 h on the 7-entry interim base; ~17.7 h on the final 14-entry set (15 h 19 m listed video runtime per the pass-8 hours note + ~2.35 h reading estimates).
 
 Excluded from the floor per the owner rulings: all Mandarin/Cantonese carriers (NTU Zhuangzi and Sato courses, Xin Yiyun, CUHK-centre carriers, Lai Chi-tim AMO lecture — likely Cantonese, delivery unverified), all Coursera carriers (Early China I/II, Song Module 16, Xi'an Jiaotong). Undetermined, not counted: Harvard Puett edX (audit-tier Daoism-lesson scope unverified), Eno's Daodejing teaching translation (text hours unmeasured), Lingnan Chuci podcast (duration unmeasured), Robson decree passage (~0.01 h measured fraction, negligible).
 
-HEADLINE FINDING (for the owner, per the architecture's honest-failure rule): the English-only, non-Coursera pool currently carries a CANDIDATE bound of ~18 h video (final 14-entry set) + ~2.35 h reading estimates ≈ 20.4 h against the 100-hour degree floor — a gap of ~80 h that CANNOT be closed by the current candidate set even if every candidate is assignment-verified. The degree either needs a substantially larger set of English open teaching carriers (the pass-8 hunt rate: 7 candidates ≈ 10 h per pass) or the owner's honest-failure ruling becomes live. This arithmetic is stated to make the gap visible, NOT to pad it; the two floors (hours and module count) both remain unmet on current carriers.
+HEADLINE FINDING (for the owner, per the architecture's honest-failure rule): the English-only, non-Coursera pool currently carries a CANDIDATE bound of ~15 h 19 m listed video runtime (final 14-entry set) + ~2.35 h reading estimates ≈ 17.7 h against the 100-hour degree floor — a gap of ~82 h that CANNOT be closed by the current candidate set even if every candidate is assignment-verified. The degree either needs a substantially larger set of English open teaching carriers (the pass-8 hunt rate: 7 candidates ≈ 10 h per pass) or the owner's honest-failure ruling becomes live. This arithmetic is stated to make the gap visible, NOT to pad it; the two floors (hours and module count) both remain unmet on current carriers.
 
 
 ### D2-NEW-31 credentials verified (2026-10-27, worker-pplx-psychdim-1027b takeover pass)
