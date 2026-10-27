@@ -91,3 +91,5 @@ The four lecture embeds on the Open Culture page resolve to Archive.org items (i
 - Findings: (1) the earlier 9:49 YouTube segment (yRnzrDpGN5A) is a SEGMENT of Lecture 1 — the full lecture is 44:37; (2) the four-lecture series has 6.12h of AVAILABLE RUNTIME (not credited instruction); (3) no license is stated in the Archive.org metadata (license: n/a); (4) the mp3 files' playback was not tested (metadata-only measurement, Ebrey method).
 - Implication for the M1/B1 estimate: the pool's "7h 40m" for the Bloom half is close to but not exactly this measured 6.12h available runtime; the estimate is NOT corroborated as instruction hours.
 - Topical fit: PLATO — Greek half (Plato's Apology; Socrates; liberal education) — CANDIDATE for a module-scale source (~6h, meets the ≥6h/module floor as available runtime; checkpoint ruling needed on available-runtime vs instruction-hours).
+
+Addendum 6 supplement: all four mp3 files HEAD-checked live this session (200 audio/mpeg; 42.8-44.7 MB each) — file servability confirmed beyond metadata existence.
