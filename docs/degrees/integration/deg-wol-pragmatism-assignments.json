@@ -27,6 +27,18 @@
      "section": "optional",
      "role": "teach",
      "note": "A one-lecture orientation to pragmatism as a living method"
+    },
+    {
+     "source_id": "PRAG-D2-7",
+     "section": "optional",
+     "role": "teach",
+     "note": "University course-session overview of pragmatism (page notes poor video quality); duration from the player’s own metadata, content uninspected"
+    },
+    {
+     "source_id": "PRAG-D2-6",
+     "section": "optional",
+     "role": "teach",
+     "note": "Peirce’s metaphysics as taught in a recorded graduate course; duration from the player’s own metadata, content uninspected"
     }
    ]
   },
@@ -232,6 +244,34 @@
    "mission": "deg-wol-pragmatism",
    "verification_status": "verified",
    "gate_evidence": "docs/degrees/inventory/deg-wol-pragmatism-d2-pool.md PRAG-TEACH-5 (watch-page opened, duration listed)"
+  },
+  "PRAG-D2-6": {
+   "youtube_id_or_url": "https://buffalo.box.com/v/Pragmatism-Lecture-2",
+   "canonical_url": "https://buffalo.box.com/v/Pragmatism-Lecture-2",
+   "title": "PHI 556: The Metaphysics of C. S. Peirce (recorded course session, Sep 20 2021)",
+   "presenter": "Barry Smith (SUNY Distinguished Professor of Philosophy, University at Buffalo) et al.",
+   "host": "NCOR / University at Buffalo — PHI 556 American Philosophy and Its Contemporary Relevance",
+   "duration": "1:46:17",
+   "topic_ids": "PRAG-M1",
+   "level": "Advanced",
+   "mission": "deg-wol-pragmatism",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-wol-pragmatism-d2-pool.md entry PRAG-TEACH-3 (course page and four session-video share pages opened; durations recorded from the players’ own metadata)",
+   "source_id": "PRAG-D2-6"
+  },
+  "PRAG-D2-7": {
+   "youtube_id_or_url": "https://buffalo.box.com/v/Lecture-1-Introduction",
+   "canonical_url": "https://buffalo.box.com/v/Lecture-1-Introduction",
+   "title": "PHI 556: Pragmatism — An Overview (recorded course session, Aug 30 2021)",
+   "presenter": "Barry Smith (SUNY Distinguished Professor of Philosophy, University at Buffalo) et al.",
+   "host": "NCOR / University at Buffalo — PHI 556 American Philosophy and Its Contemporary Relevance",
+   "duration": "2:31:56",
+   "topic_ids": "PRAG-M1",
+   "level": "Intermediate",
+   "mission": "deg-wol-pragmatism",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-wol-pragmatism-d2-pool.md entry PRAG-TEACH-3 (course page and four session-video share pages opened; durations recorded from the players’ own metadata)",
+   "source_id": "PRAG-D2-7"
   }
  },
  "manifest_label_corrections_for_content_lane": [
