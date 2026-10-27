@@ -92,3 +92,16 @@ A cloud-browser session (anonymous, no login) loaded the Aug 30 session recordin
 - File: American-Philosophy-Lecture-1.mp4, the Aug 30 "Pragmatism: An Overview" session per the course page's mapping.
 
 Honest limits: this verifies ONE recording (the other three mp4 share pages remain metadata-only candidates); the CONTENT was not listened to beyond confirming playback advances (no content inspection, no mapping to an approved D1 row beyond the session title); the download button's function was not clicked. No extrapolation is made to the other recordings' durations.
+
+## 10. Addendum 6 (~11:54 UTC, browser) — ALL FOUR session recordings measured; anonymous preview players load
+
+The same anonymous browser method was applied to the other three session-video share pages. All four load an HTML5 preview player (readyState 4) without login; durations read from each element's own metadata:
+
+| Session (course-page mapping) | File | Measured duration |
+|---|---|---|
+| Aug 30 — Pragmatism: An Overview | American-Philosophy-Lecture-1.mp4 | 9,115.8s = 2:31:56 |
+| Sep 20 — The Metaphysics of C. S. Peirce | Smith-Scotus-Lecture.mp4 | 6,377.2s = 1:46:17 |
+| Sep 26 — Peirce's Semiotics (Stjernfelt) | Stjernfelt-2021-2.mp4 | 5,758.3s = 1:35:58 |
+| Oct 25 — Ecological Psychology in Context (Heft) | Heft-2021.mp4 | 7,670.4s = 2:07:50 |
+
+**Total available recording runtime across the four measured sessions: 28,921.7s = 8.034 hours.** This is AVAILABLE RECORDING RUNTIME from the players' own metadata (all four anonymously loadable; the Aug 30 recording additionally had real-time playback verified). It is NOT credited instruction hours: content was not listened to, no session has been mapped to an approved D1 row (the Heft session in particular is topically adjacent but unconfirmed against the degree's approved rows — the finite-scope rule governs), and the course carries further unopened links (slides/papers and additional sessions).
