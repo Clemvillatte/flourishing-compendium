@@ -1,0 +1,13 @@
+{
+ "baton": "deg-arch-d2-wolx6",
+ "agent": "worker-pplx-sup-1027b",
+ "clocked_in": "2026-10-27T12:42:52+00:00",
+ "takeovers": [
+  {
+   "by": "worker-pplx-sup-1027b",
+   "at": "2026-10-27T12:42:52+00:00",
+   "from": null,
+   "reason": "free"
+  }
+ ]
+}
