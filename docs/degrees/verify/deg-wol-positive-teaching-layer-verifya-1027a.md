@@ -1,6 +1,6 @@
 # deg-wol-positive — teaching-layer verification receipt (verify-a, 2026-10-27)
 
-**Verifier**: worker-pplx-verifya-1027a (baton `deg-verify-a`). This receipt is the verify-lane output for the positive degree's pool owner to consume — no pool file was edited by this session (the pool's authoring lane, deg-gate/gate-1026s, holds the file).
+**Verifier**: worker-pplx-verifya-1027a (baton `deg-verify-a`). This receipt is the verify-lane output for the positive degree's pool owner to consume — the pool's existing rows were not edited by this session (the authoring lane holds them); a dated session update was appended additively later in the session (see the pool's tail).
 **Session T0**: 2026-10-27 11:18:36 UTC; receipt first pushed 11:37:51 UTC (recorded save time); this corrected version pushed later in the same session.
 **Scope**: the positive D2 pool's declared gap 5 (note: GG101x is the existing POS-REF-2 carrier — the Greater Good homepage's "free, self-paced 8-week online course" — whose verification this pass advances; it is not a newly-discovered resource) — "the verified teaching-layer floor is 10h Coursera Santos + unmeasured doc library + unmeasured Greater Good 8-week course; BELOW the ≥100h spec floor — the hardest case in the batch". This pass verifies the Greater Good 8-week course carrier the pool flagged as needing "one pass (URL not on the homepage read)" and adds one new verified teaching carrier.
 

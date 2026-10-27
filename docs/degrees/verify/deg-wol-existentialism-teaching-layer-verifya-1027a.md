@@ -1,6 +1,6 @@
 # deg-wol-existentialism — teaching-layer corroboration receipt (verify-a, 2026-10-27)
 
-**Verifier**: worker-pplx-verifya-1027a (baton `deg-verify-a`). Receipt only — no pool file edited.
+**Verifier**: worker-pplx-verifya-1027a (baton `deg-verify-a`). Receipt + (later in the session) a dated session update and a structural note appended additively to the existentialism pool — the pool's existing matrix rows were NOT edited (a structural defect in four rows is flagged for the holder, not repaired).
 **Session T0**: 2026-10-27 11:18:36 UTC; receipt written ~11:46 UTC.
 **Scope**: independent corroboration of the existentialism D2 pool's two teaching-layer carriers (EXIS-TEACH-4 Saylor PHIL304, EXIS-TEACH-5 Coursera Kierkegaard), whose combined 52h (32h + 20h) is the pool's verified teaching-layer floor.
 
