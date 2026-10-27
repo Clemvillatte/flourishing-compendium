@@ -88,8 +88,9 @@ The pool below maps each proposed module from the D1 coverage matrix to the open
 - LEAD (not yet fetched): the same Edinburgh YouTube channel likely hosts the rest of the course's weekly videos (including the intelligent-machines/computationalism material for the row's AI half) — a channel listing check is owed.
 
 ### mod-mind-15 — Cognitive science in the LLM age
-- **Coursera — Philosophy and the Sciences (Edinburgh)** — the intelligent-machines module.
-- **No fully open primary resource found this session.** This row may need a D2 exception or a report to the owner per the honest-failure rule.
+- **University of Melbourne, Complex Human Data Hub — "Large language models & human cognition" panel (Prof Simon Dennis, Dr Simon De Deyne, Dr Kat Vylomova)** — https://www.youtube.com/watch?v=8RA5djsBCP4 — OPEN CANDIDATE FOUND (pass 3, 2026-10-27): the watch page was fetched this session — university research-hub channel, 0:55:54, uploaded 2023-10-19, no paywall flag (public viewability not explicitly stated; the description notes part of the panel is audio-only after the video stream was lost). Abstract read on the page: three Melbourne experts on what implications LLM advances have for cognitive science, opening with a 10-minute primer on how LLMs work. Speaker affiliations stated on the page: Dennis (Head, Memory and Language Lab, School of Psychological Sciences, Melbourne), De Deyne (Computational Cognitive Science Lab / Complex Human Data Hub, Melbourne), Vylomova (Lecturer, School of Computing and Information Systems, Melbourne). On the row by its own stated abstract; a viewing check of the recording is still owed before row credit.
+- **Kempner Institute (Harvard) — "Not-Your-Mother's Connectionism: LLMs as Cognitive Models" (Ellie Pavlick, Assistant Professor of Computer Science, Brown)** — https://kempnerinstitute.harvard.edu/events/ellie-pavlick/ — event page fetched this session: title, speaker title/affiliation and abstract read on the page, and the page provides a "Talk Recording" link (2025-02-14 talk, Kempner Seminar Series). Abstract directly on the row: how LLMs differ from the connectionist systems of the classic connectionism-vs-symbolicism debates, and what LLMs can teach us about the structures governing human language and cognition. Also RELEVANT TO mod-mind-3 (connectionism): this is the contemporary bridge between the excluded connectionist course material and the LLM age. Recording not yet opened — candidate, not row credit.
+- **Coursera — Philosophy and the Sciences (Edinburgh)** — the intelligent-machines module. ACCESS-UNCONFIRMED (pass 1).
 
 ### mod-mind-16 — Cognitive-science applications
 - **Coursera — The Science of Well-Being (Yale, Santos)** — the wellbeing applications.
@@ -124,7 +125,7 @@ The pool below maps each proposed module from the D1 coverage matrix to the open
 ## Honest-failure flags (declared, not hidden)
 
 - **Coursera free-to-audit tier**: Coursera courses listed as "free" typically give only a preview of the first module, with a 7-day free trial or a paid upgrade for full access. Pass 1 (2026-10-27) opened five Coursera course pages; none stated a free-audit tier for that course. Whether an audit option exists per course was NOT established by those public-page checks — the candidates stay uncredited either way, and the pool leans on genuinely open families (MIT OCW, Yale OYC, Noba, university-hosted recordings). SEP is fully open but demoted from assignment use by the owner's 2026-10-27 no-encyclopedic ruling.
-- **The mod-mind-15 LLM-age row**: no fully open primary resource found this session. Report to the owner per the honest-failure rule, or find a suitable open resource at D2.
+- **The mod-mind-15 LLM-age row**: RESOLVED AS CANDIDATES (pass 3, 2026-10-27) — two university-hosted open recordings found and page-verified (Melbourne CHDH LLM panel; Harvard Kempner Pavlick talk with recording link). Both still owe a viewing check of the recordings themselves before row credit.
 - **The mod-mind-17 capstone row**: no dedicated open capstone exists; the capstone must be built from the degree's own material per the spec.
 
 ## D2 checkpoint handoff
