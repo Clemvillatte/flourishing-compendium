@@ -1,13 +1,20 @@
 {
  "baton": "deg-wol-pragmatism",
- "agent": "supervisor-pplx-1026e",
- "clocked_in": "2026-10-26T07:57:57+00:00",
+ "agent": "worker-pplx-verifya-1027a",
+ "clocked_in": "2026-10-27T11:28:39+00:00",
  "takeovers": [
   {
    "by": "supervisor-pplx-1026e",
    "at": "2026-10-26T07:57:57+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "worker-pplx-verifya-1027a",
+   "at": "2026-10-27T11:28:39+00:00",
+   "from": "supervisor-pplx-1026e",
+   "reason": "stale (1651 min)"
   }
- ]
+ ],
+ "released": false
 }
