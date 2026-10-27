@@ -86,7 +86,7 @@ The four lecture embeds on the Open Culture page resolve to Archive.org items (i
 | 2 | AllanBloomsSocratesLecture2 | BloomSocratesApologybostonCollege2.mp3 | 2,795.7s = 46:36 |
 | 3 | AllanBloomsSocratesLecture3 | BloomSocratesApologybostonCollege3.mp3 | 2,783.32s = 46:23 |
 | 4 | AllanBloomsSocratesLecture4 | BloomSocratesApologybostonCollege4.mp3 | 2,754.72s = 45:55 |
-| **Total (unique recordings — mp3 only; the API also lists an Ogg copy of each lecture, which must NOT be double-counted) | | | **11,010.93s = 3.059h** |
+| **Total (unique recordings — mp3 only; the API also lists an Ogg copy of each lecture, which must NOT be double-counted)** | | | **11,010.93s = 3.059h** |
 
 - Findings (CORRECTED in QC round 4 — the first version of this addendum double-counted the Ogg copies and claimed 6.117h; the correct unique-recording total is 11,010.93s = 3.059h): (1) the earlier 9:49 YouTube segment (yRnzrDpGN5A) is ASSOCIATED with this series by the Open Culture page, but its identity as part of Archive.org Lecture 1 is NOT verified — no content comparison was made between the YouTube excerpt and the Archive.org audio; (2) the four-lecture series has 3.06h of AVAILABLE RUNTIME (not credited instruction); (3) license UNVERIFIED — only the metadata API's license field was checked (returned n/a); the full item metadata/description was not inspected for other licensing signals, so the absence of a license is not established; (4) the mp3 files' playback was not tested (metadata-only measurement, Ebrey method).
 - Implication for the M1/B1 estimate: the pool's "7h 40m" for the Bloom half is NOT corroborated — the measured available runtime is 3.06h; the estimate is not corroborated as instruction hours either.
