@@ -143,6 +143,24 @@
      "section": "optional",
      "role": "teach",
      "note": "Emotional labor — how emotions are regulated at work (surface/deep/genuine acting)"
+    },
+    {
+     "source_id": "PD-D2-08",
+     "section": "optional",
+     "role": "teach",
+     "note": "Lec 8 — self-evaluative emotions: guilt, shame, embarrassment, pride"
+    },
+    {
+     "source_id": "PD-D2-09",
+     "section": "optional",
+     "role": "teach",
+     "note": "Lec 9 — envy and jealousy: the social-comparison emotions"
+    },
+    {
+     "source_id": "PD-D2-10",
+     "section": "optional",
+     "role": "teach",
+     "note": "Lec 10 — positive emotions"
     }
    ]
   },
@@ -215,6 +233,24 @@
      "source_id": "PD-M3-08",
      "section": "required",
      "locator": "From the opening paragraph to the end of ‘Importantly, RNT is characterized by its process features, not its content’, then the paragraph beginning ‘In his influential theoretical model, Watkins’; stop before the intervention discussion"
+    },
+    {
+     "source_id": "PD-D2-15",
+     "section": "optional",
+     "role": "teach",
+     "note": "Lec 15 — how emotions and cognitions interact"
+    },
+    {
+     "source_id": "PD-D2-16",
+     "section": "optional",
+     "role": "teach",
+     "note": "Lec 16 — emotion and memory"
+    },
+    {
+     "source_id": "PD-D2-17",
+     "section": "optional",
+     "role": "teach",
+     "note": "Lec 17 — emotion, judgment and decision making"
     }
    ],
    "activity": "Graded: family applications across learning, perception, memory and judgment, an illusion explanation, an analysis of repetitive negative thinking (RNT), and an independent appraisal of a commentary's experimental claim."
@@ -511,6 +547,24 @@
      "section": "required",
      "locator": "Precision supplement: the Vocabulary entries “Reinforcer” and “Punisher”, to check the increase/decrease definitions",
      "role": "revisit"
+    },
+    {
+     "source_id": "PD-D2-20",
+     "section": "optional",
+     "role": "teach",
+     "note": "Lec 20 — emotion regulation: what it is and why it matters"
+    },
+    {
+     "source_id": "PD-D2-21",
+     "section": "optional",
+     "role": "teach",
+     "note": "Lec 21 — the ABC model of adaptive emotion regulation"
+    },
+    {
+     "source_id": "PD-D2-22",
+     "section": "optional",
+     "role": "teach",
+     "note": "Lec 22 — mindfulness-based emotion regulation"
     }
    ]
   },
@@ -653,6 +707,132 @@
    "mission": "deg-psychdim",
    "verification_status": "verified",
    "gate_evidence": "docs/degrees/inventory/deg-psychdim-d2-pool.md entry 59 (TESU open-textbook mirror read in full; CC BY-NC-SA 4.0)"
+  },
+  "PD-D2-08": {
+   "source_id": "PD-D2-08",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=Ntc4HCgLK7I",
+   "canonical_url": "https://www.youtube.com/watch?v=Ntc4HCgLK7I",
+   "title": "NPTEL Psychology of Emotion — Lec 8: Self-Evaluative Emotions (guilt, shame, embarrassment, pride)",
+   "presenter": "Prof. Dilwar Hussain (IIT Guwahati)",
+   "host": "YouTube (NPTEL-NOC IITM)",
+   "duration": "1:07:51",
+   "topic_ids": "PD-M2",
+   "level": "Foundations",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-psychdim-d2-pool.md entry 52 unlock (NPTEL noc26_hs33 WebVTT route; durations measured from VTT cue timestamps this pass)"
+  },
+  "PD-D2-09": {
+   "source_id": "PD-D2-09",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=ALB5SgcXF_U",
+   "canonical_url": "https://www.youtube.com/watch?v=ALB5SgcXF_U",
+   "title": "NPTEL Psychology of Emotion — Lec 9: Social Comparison Emotions (envy and jealousy)",
+   "presenter": "Prof. Dilwar Hussain (IIT Guwahati)",
+   "host": "YouTube (NPTEL-NOC IITM)",
+   "duration": "1:05:00",
+   "topic_ids": "PD-M2",
+   "level": "Foundations",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-psychdim-d2-pool.md entry 52 unlock (NPTEL noc26_hs33 WebVTT route; durations measured from VTT cue timestamps this pass)"
+  },
+  "PD-D2-10": {
+   "source_id": "PD-D2-10",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=lRcm5DIwVsQ",
+   "canonical_url": "https://www.youtube.com/watch?v=lRcm5DIwVsQ",
+   "title": "NPTEL Psychology of Emotion — Lec 10: Positive Emotions",
+   "presenter": "Prof. Dilwar Hussain (IIT Guwahati)",
+   "host": "YouTube (NPTEL-NOC IITM)",
+   "duration": "1:03:03",
+   "topic_ids": "PD-M2",
+   "level": "Foundations",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-psychdim-d2-pool.md entry 52 unlock (NPTEL noc26_hs33 WebVTT route; durations measured from VTT cue timestamps this pass)"
+  },
+  "PD-D2-15": {
+   "source_id": "PD-D2-15",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=F1sbb_JPiCY",
+   "canonical_url": "https://www.youtube.com/watch?v=F1sbb_JPiCY",
+   "title": "NPTEL Psychology of Emotion — Lec 15: Emotions and Cognitions (introduction)",
+   "presenter": "Prof. Dilwar Hussain (IIT Guwahati)",
+   "host": "YouTube (NPTEL-NOC IITM)",
+   "duration": "1:05:49",
+   "topic_ids": "PD-M3",
+   "level": "Foundations",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-psychdim-d2-pool.md entry 52 unlock (NPTEL noc26_hs33 WebVTT route; durations measured from VTT cue timestamps this pass)"
+  },
+  "PD-D2-16": {
+   "source_id": "PD-D2-16",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=Pdt1I6GNIVQ",
+   "canonical_url": "https://www.youtube.com/watch?v=Pdt1I6GNIVQ",
+   "title": "NPTEL Psychology of Emotion — Lec 16: Emotion and Memory",
+   "presenter": "Prof. Dilwar Hussain (IIT Guwahati)",
+   "host": "YouTube (NPTEL-NOC IITM)",
+   "duration": "1:06:55",
+   "topic_ids": "PD-M3",
+   "level": "Foundations",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-psychdim-d2-pool.md entry 52 unlock (NPTEL noc26_hs33 WebVTT route; durations measured from VTT cue timestamps this pass)"
+  },
+  "PD-D2-17": {
+   "source_id": "PD-D2-17",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=z-bB5gX6wnY",
+   "canonical_url": "https://www.youtube.com/watch?v=z-bB5gX6wnY",
+   "title": "NPTEL Psychology of Emotion — Lec 17: Emotion and Judgment / Decision Making",
+   "presenter": "Prof. Dilwar Hussain (IIT Guwahati)",
+   "host": "YouTube (NPTEL-NOC IITM)",
+   "duration": "1:12:54",
+   "topic_ids": "PD-M3",
+   "level": "Foundations",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-psychdim-d2-pool.md entry 52 unlock (NPTEL noc26_hs33 WebVTT route; durations measured from VTT cue timestamps this pass)"
+  },
+  "PD-D2-20": {
+   "source_id": "PD-D2-20",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=hb5VAd6csBw",
+   "canonical_url": "https://www.youtube.com/watch?v=hb5VAd6csBw",
+   "title": "NPTEL Psychology of Emotion — Lec 20: Emotion Regulation (introduction)",
+   "presenter": "Prof. Dilwar Hussain (IIT Guwahati)",
+   "host": "YouTube (NPTEL-NOC IITM)",
+   "duration": "1:05:49",
+   "topic_ids": "PD-M7",
+   "level": "Foundations",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-psychdim-d2-pool.md entry 52 unlock (NPTEL noc26_hs33 WebVTT route; durations measured from VTT cue timestamps this pass)"
+  },
+  "PD-D2-21": {
+   "source_id": "PD-D2-21",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=Po00fkDCEPQ",
+   "canonical_url": "https://www.youtube.com/watch?v=Po00fkDCEPQ",
+   "title": "NPTEL Psychology of Emotion — Lec 21: Adaptive Emotion Regulation Using the ABC Model",
+   "presenter": "Prof. Dilwar Hussain (IIT Guwahati)",
+   "host": "YouTube (NPTEL-NOC IITM)",
+   "duration": "0:50:41",
+   "topic_ids": "PD-M7",
+   "level": "Foundations",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-psychdim-d2-pool.md entry 52 unlock (NPTEL noc26_hs33 WebVTT route; durations measured from VTT cue timestamps this pass)"
+  },
+  "PD-D2-22": {
+   "source_id": "PD-D2-22",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=JtdF1feC-mg",
+   "canonical_url": "https://www.youtube.com/watch?v=JtdF1feC-mg",
+   "title": "NPTEL Psychology of Emotion — Lec 22: Adaptive Emotion Regulation Using Mindfulness",
+   "presenter": "Prof. Dilwar Hussain (IIT Guwahati)",
+   "host": "YouTube (NPTEL-NOC IITM)",
+   "duration": "0:55:04",
+   "topic_ids": "PD-M7",
+   "level": "Foundations",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-psychdim-d2-pool.md entry 52 unlock (NPTEL noc26_hs33 WebVTT route; durations measured from VTT cue timestamps this pass)"
   }
  }
 }
