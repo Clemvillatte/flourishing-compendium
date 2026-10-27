@@ -57,6 +57,16 @@ Eight waves of source/assignment integration via the standard pipeline
   draw on the already-verified rows (BUD-TEACH-17, BUD-TEACH-20, BUD-TEACH-4) and on
   pages opened directly this session.
 
+## Publication verification
+
+- The site publishes from origin/main to GitHub Pages
+  (https://clemvillatte.github.io/flourishing-compendium/). Confirmed live by
+  direct fetch: the served app.js contains the wave-9 content (DAO-D2-43 et al.).
+- Browser render check (cloud browser, this session): the Academy view opens, the
+  Buddhism degree lists all 9 modules, and mod-bud-7's module page renders the new
+  optional media (Nagarjuna Middle Way series, OzZEN Two Truths PDF, Fischer
+  lecture) alongside the existing required media. No rendering defects observed.
+
 ## Files touched
 
 - `site/assets/app.js` (fcAcademyData: +55 sources and +55 module refs across the
