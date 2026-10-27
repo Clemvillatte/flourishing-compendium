@@ -145,6 +145,18 @@
      "source_id": "DAO-M1-05",
      "section": "required",
      "locator": "Three passages: Cook Ding (413 words), the Hunchback and the Cicadas (Appendix A.1, 217 words) and the Butterfly Dream (chapter 2, section 20, 67 words)"
+    },
+    {
+     "source_id": "DAO-D2-43",
+     "section": "optional",
+     "role": "teach",
+     "note": "Zhuangzi’s personal freedom — the space to be left alone, ambivalence toward the state — beside the module’s losing-the-self theme; page-verified talk, continuous transcript read still owed"
+    },
+    {
+     "source_id": "DAO-D2-44",
+     "section": "optional",
+     "role": "teach",
+     "note": "A leading Zhuangzi scholar on translating the complete text — context for the Inner Chapters this module reads; page duration displayed 1:27:13–1:27:56 in two places, 1:27:56 on the fresh re-fetch"
     }
    ],
    "activity": "Graded, in three parts: a reasoned application to one situation of your own (about 25 minutes), the gloss-check against Cook Ding or the Hunchback (about 15 minutes), and the chapter check comparing the inside view with the puzzle frame (about 10 minutes). A five-minute self-assessment follows."
@@ -381,6 +393,34 @@
    "mission": "deg-wol-daoism",
    "verification_status": "verified",
    "gate_evidence": "Daoist Foundation resources page (daoistfoundation.org/resources) fetched this session (video URL verified from the foundation’s own page); YouTube watch page fetched and read this session — title, channel and displayed duration verified; playback not inspected"
+  },
+  "DAO-D2-43": {
+   "source_id": "DAO-D2-43",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=av1Pm_zKIVg",
+   "canonical_url": "https://www.youtube.com/watch?v=av1Pm_zKIVg",
+   "title": "Zhuangzi and the Tragedy of Personal Freedom in Chinese History — Tao Jiang",
+   "presenter": "Tao Jiang (Professor of Religion; Director, Center for Chinese Studies, Rutgers; author of the book the talk is based on)",
+   "host": "Department of Classics & Religion, University of Calgary",
+   "duration": "1:42:28",
+   "topic_ids": "DAO-M3",
+   "level": "Intermediate",
+   "mission": "deg-wol-daoism",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-wol-daoism-d2-pool.md entries D2-NEW-29 and D2-NEW-28 (both PAGE-VERIFIED: title, channel, duration, upload date, full speaker credentials in the page description; the pages were fetched and read in the pool’s pass 8; the continuous transcript read remains owed — noted per ref)"
+  },
+  "DAO-D2-44": {
+   "source_id": "DAO-D2-44",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=SqvZ4pj_shw",
+   "canonical_url": "https://www.youtube.com/watch?v=SqvZ4pj_shw",
+   "title": "Book Talk — Zhuangzi: The Complete Writings (Fraser translation, with commentary)",
+   "presenter": "Chris Fraser (Hon-Yin and Suet-Fong Chan Professor, School of Chinese, University of Hong Kong) with Pengbo Liu, Esther Sunkyung Klein, Sera Kong; moderated by Franklin Perkins",
+   "host": "Center for Chinese Studies, University of Hawaiʻi at Mānoa",
+   "duration": "1:27:56",
+   "topic_ids": "DAO-M3",
+   "level": "Advanced",
+   "mission": "deg-wol-daoism",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/inventory/deg-wol-daoism-d2-pool.md entries D2-NEW-29 and D2-NEW-28 (both PAGE-VERIFIED: title, channel, duration, upload date, full speaker credentials in the page description; the pages were fetched and read in the pool’s pass 8; the continuous transcript read remains owed — noted per ref)"
   }
  },
  "drop_sources": [
