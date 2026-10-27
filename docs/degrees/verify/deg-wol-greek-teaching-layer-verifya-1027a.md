@@ -93,3 +93,5 @@ The four lecture embeds on the Open Culture page resolve to Archive.org items (i
 - Topical fit: PLATO — Greek half (Plato's Apology; Socrates; liberal education) — CANDIDATE for a module-scale source (~6h, meets the ≥6h/module floor as available runtime; checkpoint ruling needed on available-runtime vs instruction-hours).
 
 Addendum 6 supplement: all four mp3 files HEAD-checked live this session (200 audio/mpeg; 42.8-44.7 MB each) — file servability confirmed beyond metadata existence.
+
+Addendum 4 supplement (2026-10-27, pushed with this update; exact event time not recorded): the two further Strauss course pages were re-opened this session and their mp3 links individually HEAD-checked: Plato, Meno spring 1966 — 16 mp3 links, 16 HEAD-200; Plato, Protagoras spring 1965 — 34 mp3 links, 34 HEAD-200 (S3-hosted direct downloads, same pattern as the Gorgias page). Combined Strauss mp3s now verified live: Gorgias 14 + Meno 16 + Protagoras 34 = 64. Durations remain UNMEASURED for all Strauss recordings.
