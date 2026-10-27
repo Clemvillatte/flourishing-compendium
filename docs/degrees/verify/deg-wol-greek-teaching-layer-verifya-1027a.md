@@ -36,3 +36,13 @@
 - **Structure**: two parts — Part One "Stoic Theory" (living according to nature), Part Two "Stoic Exercises" (applying Stoic ideas, the cosmopolis). The page states NO lesson count and NO course hours.
 - **Free-route status: AMBIGUOUS — the page's own offer text is unexplained.** The page says "Get this course free, plus unlimited IAI access & 50% off all Academy courses" but does not state the offer's conditions, whether a free tier exists, or whether the "free" course is bundled with a paid IAI subscription. The earlier greek pool line (free route = "the IAI access tier") is NOT confirmed by this page read; the ambiguity must be resolved by an enrollment-flow test or a supervisor/owner ruling before GREEK-TEACH-4 is treated as a verified free carrier.
 - Topics on the page (virtue, control, happiness, cosmopolis, exercises) match the Stoicism D1 row at page level.
+
+## 6. Addendum 2 (same session, ~11:46 UTC) — GREEK-TEACH-6 Strauss half VERIFIED at file level
+
+The Leo Strauss Center pages could not be fetched through the search fetcher (robots-blocked) but were fetched directly via HTTP this session:
+
+- **Courses index OPENED** (https://leostrausscenter.uchicago.edu/audio-transcripts/courses-audio-transcripts/, 65,892 bytes): lists the Plato courses including Meno spring 1966, Protagoras spring 1965, Republic autumn 1961, Republic spring 1957, Gorgias autumn 1963 (and more; 12 Plato course mentions). The license statement is ON THE PAGE: "non-commercial, personal, educational use. Any other use... requires the permission of the Estate of Leo Strauss."
+- **One course page OPENED** (https://leostrausscenter.uchicago.edu/plato-gorgias-autumn-1963/): hosts **14 direct .mp3 files** (S3-hosted direct-download URLs) and **1 PDF transcript**.
+- **File-level verification**: an HTTP HEAD on the first mp3 returns **200, content-type audio/mpeg, 247,120,439 bytes** (~247MB — a full-course-length lecture recording); the PDF transcript returns **200, application/pdf, 3,372,974 bytes**. Both are live, directly downloadable, no login.
+
+**Result**: the Strauss half of GREEK-TEACH-6 upgrades from "corroborated via search excerpts" to **VERIFIED OPEN at file level** (free direct mp3 + transcript downloads; non-commercial educational license on the page). Durations of individual lectures remain unmeasured (14 session files for the Gorgias course; a per-file duration pass is possible from the mp3 metadata but was not run). The Bloom and Ebrey halves remain corroborated-only (direct fetches still owed).
