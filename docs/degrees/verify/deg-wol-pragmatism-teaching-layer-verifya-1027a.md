@@ -109,3 +109,17 @@ The same anonymous browser session was then applied to the other three session-v
 ## 11. Addendum 7 (exact event time not recorded; first pushed at 11:49:15 UTC) — Bonevan lecture content check ATTEMPTED and BLOCKED (recorded honestly)
 
 A cloud-browser attempt to read the Bonevac lecture's transcript: the watch page loaded (title "Pragmatism"), the description's transcript section rendered ("Follow along using the transcript"), and the "Show transcript" control was clicked — but the transcript panel remained empty (cause undetermined; the transcript delivery route could not be completed in this browser context), and the video element loaded without exposing media metadata (duration null). More attempts were made than the browser skill's two-failure cutoff prescribes — recorded as a process note. RESULT: the Bonevac lecture REMAINS at watch-page-level verification (26:50 listed duration from the earlier page fetch; description: "The pragmatism of Charles Sanders Peirce"); content inspection is OWED to a future pass with a working transcript route. No content claim is made from this attempt.
+
+## 12. Addendum 8 (2026-10-27; exact event time not recorded; pushed with this update) — Bonevac channel cataloged for pragmatism-relevant lectures (3 watch pages opened)
+
+Bonevac's channel carries at least three pragmatism-relevant lectures; the two new watch pages were opened this session (public, free, transcript sections on both pages):
+
+| Lecture | Uploaded | Listed duration | Description (page's own) |
+|---|---|---|---|
+| "Pragmatism" (td391dFdXPs — verified earlier) | 2021-03-22 | 26:50 | "The pragmatism of Charles Sanders Peirce." |
+| "Dewey's Ethics" (EqO9oqysb_A) | 2023-09-18 | 15:18 | "The ethical ideas of John Dewey, which underlie his approaches to education and other social and political issues." |
+| "Peirce" (OLxdyUiZbwc) | 2016-11-18 | 15:03 | "C. S. Peirce on Pragmatism, Introduction to Philosophy, Fall 2016." |
+
+- Listed total across the three: 57:11. All are CANDIDATE teaching content — transcripts were not read from the opened pages (the search tooling surfaced a transcript excerpt for the "Pragmatism" lecture showing it teaches the pragmatic maxim ("no difference in meaning without a difference in practice"), cash value, and the pragmatic theory of truth — SEARCH-SURFACED excerpt, weaker tier than an opened transcript, recorded as corroboration only).
+- Context: the "Peirce" lecture is part of Bonevac's Fall 2016 "Introduction to Philosophy" course playlist (full ~45-min lectures on the channel) — the playlist itself was not cataloged this session.
+- Credentials: Bonevac's UT Austin professorship is verified on the institutional page (addendum record above). No further credential caveat.
