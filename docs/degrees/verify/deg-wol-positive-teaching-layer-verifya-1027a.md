@@ -15,7 +15,7 @@ The Greater Good homepage's "free, self-paced 8-week online course" is the GGSC'
 
 **Credential note**: instructor titles are stated on the course pages themselves (GGSC director/founder roles; Keltner's UC Berkeley psychology professorship). The GGSC page is the GGSC's own institutional page; the edX page is the platform page. No separate faculty-directory pass was run this session — the titles on these two opened pages are the evidence of record.
 
-**Coverage mapping (proposed, for the pool owner)**: the GGSC page's topic list maps onto the positive D1 rows the pool already carries via POS-REF-2 (gratitude, compassion, awe, social connection, empathy, mindfulness, purpose) and adds a teaching-layer carrier for them; Fredrickson appears as guest lecturer (ties to POS-TEACH-2's broaden-and-build row).
+**Coverage mapping (proposed, for the pool owner)**: the topics extracted from the two OPENED course pages this session are empathy, mindfulness, gratitude, social connection, compassion (GGSC/edX page text); those map onto positive D1 rows. Any broader topic attribution (awe, purpose, etc.) must come from those pages' own text on a future read — the Greater Good homepage's general topic list is NOT evidence for this course's coverage. Fredrickson appears as guest lecturer (ties to POS-TEACH-2's broaden-and-build row).
 
 ## 2. Effect on the pool's declared gap 5 (hours arithmetic)
 

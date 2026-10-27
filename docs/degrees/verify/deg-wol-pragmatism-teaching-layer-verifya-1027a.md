@@ -82,7 +82,7 @@ The remaining pragmatism-relevant session links on the PHI 556 page were opened 
 
 Course-level result: **four share pages for pragmatism-adjacent sessions identify mp4 files** (Aug 30 overview; Sep 20 Peirce metaphysics; Sep 26 Stjernfelt Peirce semiotics; Oct 25 Heft ecological psychology). CAVEAT: none has had playback or content verified, and each session's fit to an approved D1 row is unconfirmed — in particular the Heft ecological-psychology session is topically adjacent but NOT yet verified against an approved D1 row (the finite-scope rule governs; topical proximity alone does not qualify). The Rorty session is off-scope for this degree. All durations remain UNMEASURED; no recording's content was played or read (the Box share pages do not expose runtime metadata to a page fetch, and the app shell exposes no direct file URL for download without a browser session — content-level inspection is owed to a browser-capable pass).
 
-## 9. Addendum 5 (~12:01 UTC, browser test) — ONE Buffalo recording: anonymous playback VERIFIED, duration MEASURED
+## 9. Addendum 5 (browser test; exact event time not recorded; first pushed at 11:47:27 UTC) — ONE Buffalo recording: anonymous playback VERIFIED, duration MEASURED
 
 A cloud-browser session (anonymous, no login) loaded the Aug 30 session recording's share page (redirects to buffalo.app.box.com/v/Lecture-1-Introduction):
 
@@ -93,9 +93,9 @@ A cloud-browser session (anonymous, no login) loaded the Aug 30 session recordin
 
 Honest limits: this verifies ONE recording (the other three mp4 share pages remain metadata-only candidates); the CONTENT was not listened to beyond confirming playback advances (no content inspection, no mapping to an approved D1 row beyond the session title); the download button's function was not clicked. No extrapolation is made to the other recordings' durations.
 
-## 10. Addendum 6 (~11:54 UTC, browser) — ALL FOUR session recordings measured; anonymous preview players load
+## 10. Addendum 6 (browser; exact event time not recorded; first pushed at 11:48:15 UTC) — ALL FOUR session recordings measured; anonymous preview players load
 
-The same anonymous browser method was applied to the other three session-video share pages. All four load an HTML5 preview player (readyState 4) without login; durations read from each element's own metadata:
+The same anonymous browser session was then applied to the other three session-video share pages. All four pages load an HTML5 preview player (readyState 4) without login; durations read from each element's own metadata. NOTE: only the Aug 30 recording had actual playback advancement tested (addendum 5); the other three are ANONYMOUSLY LOADED PREVIEWS with duration metadata, not playback-tested recordings:
 
 | Session (course-page mapping) | File | Measured duration |
 |---|---|---|
@@ -106,6 +106,6 @@ The same anonymous browser method was applied to the other three session-video s
 
 **Total available recording runtime across the four measured sessions: 28,921.7s = 8.034 hours.** This is AVAILABLE RECORDING RUNTIME from the players' own metadata (all four anonymously loadable; the Aug 30 recording additionally had real-time playback verified). It is NOT credited instruction hours: content was not listened to, no session has been mapped to an approved D1 row (the Heft session in particular is topically adjacent but unconfirmed against the degree's approved rows — the finite-scope rule governs), and the course carries further unopened links (slides/papers and additional sessions).
 
-## 11. Addendum 7 (~11:56 UTC) — Bonevan lecture content check ATTEMPTED and BLOCKED (recorded honestly)
+## 11. Addendum 7 (exact event time not recorded; first pushed at 11:49:15 UTC) — Bonevan lecture content check ATTEMPTED and BLOCKED (recorded honestly)
 
-A cloud-browser attempt to read the Bonevac lecture's transcript: the watch page loaded (title "Pragmatism"), the description's transcript section rendered ("Follow along using the transcript"), and the "Show transcript" control was clicked — but the transcript panel's segments never loaded (three attempts; the panel rendered empty — the transcript delivery route appears blocked in the cloud-browser context), and the video element loaded without exposing media metadata (duration null). RESULT: the Bonevac lecture REMAINS at watch-page-level verification (26:50 listed duration from the earlier page fetch; description: "The pragmatism of Charles Sanders Peirce"); content inspection is OWED to a future pass with a working transcript route. No content claim is made from this attempt.
+A cloud-browser attempt to read the Bonevac lecture's transcript: the watch page loaded (title "Pragmatism"), the description's transcript section rendered ("Follow along using the transcript"), and the "Show transcript" control was clicked — but the transcript panel remained empty (cause undetermined; the transcript delivery route could not be completed in this browser context), and the video element loaded without exposing media metadata (duration null). More attempts were made than the browser skill's two-failure cutoff prescribes — recorded as a process note. RESULT: the Bonevac lecture REMAINS at watch-page-level verification (26:50 listed duration from the earlier page fetch; description: "The pragmatism of Charles Sanders Peirce"); content inspection is OWED to a future pass with a working transcript route. No content claim is made from this attempt.

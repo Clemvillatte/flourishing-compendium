@@ -16,8 +16,8 @@
 
 ## 3. Effect on the existentialism pool
 
-- The 52h teaching-layer floor (32h Saylor + 20h Kierkegaard) is corroborated as PUBLISHER-STATED content with the free-route caveat now sharpened: the Saylor free route is page-evidenced (free certificate, no paywall on page), while the Coursera audit route is NOT confirmed on the page body. The pool owner should carry the sharpened caveat on EXIS-TEACH-5.
-- No hours-floor claim changes (52h + unmeasured doc library vs the ≥100h floor — unchanged).
+- The pool's 52h figure (32h Saylor + 20h Kierkegaard) is corroborated as ADVERTISED/publisher-stated WORKLOAD, not verified instruction totals: the Saylor page states "Time: 32 hours" (with a free certificate and no paywall on the page — though a free certificate and an ungated landing page alone do not establish free access to the instructional content; the Saylor enroll route was not flow-tested), and the Coursera page states "2 weeks at 10 hours a week" (flexible-schedule framing) with the audit route NOT confirmed on the page body. The pool owner should carry the sharpened caveat on EXIS-TEACH-5 and the advertised-workload framing on both rows.
+- No hours-floor claim changes (52h advertised + unmeasured doc library vs the ≥100h floor — unchanged; credited hours remain unestablished).
 
 ## 4. Follow-ups owed
 

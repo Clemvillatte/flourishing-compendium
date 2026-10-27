@@ -1,7 +1,7 @@
 {
  "baton": "deg-verify-a",
  "agent": "worker-pplx-verifya-1027a",
- "clocked_in": "2026-10-27T11:26:38+00:00",
+ "clocked_in": "2026-10-27T11:51:32+00:00",
  "takeovers": [
   {
    "by": "verifier-pplx-a1",
@@ -98,6 +98,13 @@
    "at": "2026-10-27T11:26:38+00:00",
    "from": "worker-pplx-verifya-1026a",
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-verifya-1027a",
+   "at": "2026-10-27T11:51:32+00:00",
+   "from": "worker-pplx-verifya-1027a",
+   "reason": "stale (25 min)"
   }
- ]
+ ],
+ "released": false
 }
