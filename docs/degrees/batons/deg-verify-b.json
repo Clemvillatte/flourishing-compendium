@@ -75,5 +75,7 @@
    "from": "worker-pplx-degverifyb-1026f",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-28T14:11:43+00:00"
 }
