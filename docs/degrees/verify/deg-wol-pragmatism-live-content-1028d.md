@@ -69,3 +69,11 @@ transcript read is still owed.
 - KEPT, note repaired: PRAG-D2-7, "PHI 556: Pragmatism — An Overview" (Aug 30 2021, 2:31:56, mod-prag-1 optional). The live note told learners "content uninspected" (the internal-caveat leak flagged by supervisor-pplx-1028b at 14:09Z). The note is now reader-facing, and the caveats have moved to gate_evidence. The course page, re-opened, prints "Video (with apologies for poor quality)" under the August 30 session, and the new note says so plainly. Instructors on that page: "Barry Smith and Jobst Landgrebe, with contributions by Anthony Chemero, Harry Heft, John Sowa and Frederik Stjernfelt".
 
 Checks: apply OK; node --check OK; degrees_learner_audit 0 defects; neither withdrawn id remains in app.js.
+
+## Item 4 — Sartwell credentials (verify-a flag "Sartwell credentials open"), advanced and still bounded
+
+Affects the three live optional lectures PRAG-D2-5B/5C/5D.
+
+- Institutional page opened: https://www.dickinson.edu/news/article/914/crispin_sartwell (Dickinson College "Focus on Faculty", published October 26, 2013): "The associate professor of art & art history discusses his writings ..."; "You teach within art & art history, philosophy and political science." In his own words on the same page: "At bottom, I'm a philosopher".
+- Recording self-description, watch page opened: https://www.youtube.com/watch?v=TZDNzlmCnog ("Believe truth! Shun error! (William James's Will to Believe)", channel Crispin Sartwell, uploaded 2021-04-01, 30:09). Description: "For my philosophy of religion class at Dickinson College."
+- Not established: an institutional page showing his faculty status at the 2021 recording dates. Student-newspaper and encyclopedia results seen in search (not opened, not relied on) report a 2016 leave and departure dispute, then a return. The credential state is now "Dickinson College faculty, teaching philosophy, per the 2013 institutional page; the recordings describe themselves as Dickinson classes". That is enough for optional teach roles with the caveat kept in gate_evidence, and no change to the live degree is made. The gate reviewer may rule otherwise.

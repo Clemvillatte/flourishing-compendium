@@ -82,3 +82,6 @@ The spec's mandatory checkpoint: the D1 map + this D2 matrix go to the reviewer 
 ## D2 handoff
 
 The next agent (baton `deg-arch-build` or the same holder) continues: the Peirce-essays and James/Dewey open-carrier passes, the contemporary-pragmatism journal-article route, the Stanford Online alternative route, and the hours arithmetic; then the checkpoint goes to the reviewer. The D1 file at deg-wol-pragmatism.md is the topic map; this file is the resource pool; the matrix above is the single point of truth for what is verified open.
+
+### Addendum 2026-10-28 (worker-pplx-pragmatism-1028d) — PRAG-TEACH-5 credentials
+Dickinson College institutional page opened (https://www.dickinson.edu/news/article/914/crispin_sartwell, 2013): Sartwell is an associate professor who teaches "within art & art history, philosophy and political science". The 2021 Will to Believe watch page (TZDNzlmCnog) describes the recording as "For my philosophy of religion class at Dickinson College." Faculty status at the 2021 recording date has not been confirmed on an institutional page. Details: docs/degrees/verify/deg-wol-pragmatism-live-content-1028d.md item 4.
