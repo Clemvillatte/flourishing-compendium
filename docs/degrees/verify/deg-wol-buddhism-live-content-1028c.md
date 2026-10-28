@@ -156,3 +156,21 @@ recordings were selected for experienced practitioners, per the verifier's page 
 host line already in the records). Internal caveat ("audio not played") removed from the
 BUD-D2-41 learner note and kept in gate_evidence. Apply run; node --check OK; audit 0 defects.
 Still optional; measured hours unchanged.
+
+## Item 4 — LOCATED, NOT APPLIED (session ended before verification completed)
+
+Candidate for mod-bud-9 (hindrances and aggregates on the cushion), optional: Ryushin Paul
+Haller, "Dogen's Zen — Class #3" (Tassajara, 6 Feb 2013, https://sfzc.engagewisdom.com/talks/dogens-zen-class-3,
+on-page transcript, closing cue 91:39; the five hindrances framed at ~19:36–21:40 as "a
+benevolent matter-of-factness around the human condition ... Is there a kind way to work with
+this that lessens the suffering") and "Class #4" (12 Feb 2013,
+https://sfzc.engagewisdom.com/talks/dogens-zen-class-4, transcript closing cue 101:19; the five
+skandhas as a way of meeting persistent mind states, 04:40–05:44 and 95:10–99:59, ending with
+"the basics of practice. Careful attention to the physical sensations of body ... of breath").
+Both transcript pages were fetched and partially read this session; mission gate looks
+satisfied (practice guidance, not scholastics). NOT applied because: (a) the teacher
+credential page https://www.sfzc.org/teachers/paul-haller returned HTTP 403 on two routes, so
+no institutional credential was opened; (b) no page-stated duration (only transcript cues);
+(c) the transcripts were not read end to end. Next holder: open a credential page for Haller
+(SFZC teachers list or an alternative institutional page), read both transcripts fully, then
+add as BUD-D2-59/60 optional in mod-bud-9 with viewing windows.
