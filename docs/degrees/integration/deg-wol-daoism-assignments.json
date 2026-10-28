@@ -1,6 +1,6 @@
 {
  "degree_id": "deg-wol-daoism",
- "built": "2026-10-26 ; +DAO-D2-48..50 added 2026-10-28 by worker-pplx-daoism-1028a (baton deg-wol-daoism; renumbered from 45-47 after the supervisor 1028b slide additions took those ids)",
+ "built": "2026-10-26 ; +DAO-D2-48..50 added 2026-10-28 by worker-pplx-daoism-1028a (baton deg-wol-daoism; renumbered from 45-47 after the supervisor 1028b slide additions took those ids) ; +DAO-D2-51 (Lai Lecture 5 -> m5) and practice-note polish 2026-10-28 worker-pplx-daoism-1028a",
  "built_by": "worker-pplx-degfixschema-1026b (baton deg-fix-schema)",
  "provenance": "Windows and spans transcribed from deg-wol-daoism-manifest.json and the module docs (m1 to m5); nothing here is invented.",
  "modules": {
@@ -242,19 +242,19 @@
      "source_id": "DAO-D2-40",
      "section": "optional",
      "role": "practice",
-     "note": "Guided practice session from the same teacher as the module’s Lundao talks — makes the yangsheng module practiceable; video carries the foundation’s own medical-disclaimer"
+     "note": "A guided practice session led by the same teacher as this module’s Lundao talks, so the yangsheng you read about becomes something you do; follow the Daoist Foundation’s own guidance given at the start of the video"
     },
     {
      "source_id": "DAO-D2-41",
      "section": "optional",
      "role": "practice",
-     "note": "Guided practice session from the same teacher as the module’s Lundao talks — makes the yangsheng module practiceable; video carries the foundation’s own medical-disclaimer"
+     "note": "A guided practice session led by the same teacher as this module’s Lundao talks, so the yangsheng you read about becomes something you do; follow the Daoist Foundation’s own guidance given at the start of the video"
     },
     {
      "source_id": "DAO-D2-42",
      "section": "optional",
      "role": "practice",
-     "note": "Guided practice session from the same teacher as the module’s Lundao talks — makes the yangsheng module practiceable; video carries the foundation’s own medical-disclaimer"
+     "note": "A guided practice session led by the same teacher as this module’s Lundao talks, so the yangsheng you read about becomes something you do; follow the Daoist Foundation’s own guidance given at the start of the video"
     }
    ],
    "activity": "Graded, in three parts: the passage reading (Neiye or lecture variant, about 20 minutes), the bounded practice design (about 15 minutes), and the teach-back to a peer (about 15 minutes). A five-minute self-assessment follows.",
@@ -275,6 +275,12 @@
      "section": "optional",
      "role": "teach",
      "note": "How to organize one’s own study-practice — a fitting capstone guide for the personal synthesis this module asks for"
+    },
+    {
+     "source_id": "DAO-D2-51",
+     "section": "optional",
+     "role": "teach",
+     "note": "Before you write your synthesis: Lai on the Zhuangzi’s figures whom convention calls disabled and what they show about a good life — a lecture-length test of the position you are about to defend"
     }
    ]
   }
@@ -521,6 +527,20 @@
    "mission": "deg-wol-daoism",
    "verification_status": "verified",
    "gate_evidence": "Watch page opened 2026-10-28 (worker-pplx-daoism-1028a): title, channel UNSW Community, upload date Apr 5 2023, player length 1:06:51, description names the series (2023 Leverhulme Lectures at the University of Aberdeen), the presenter and her title, and the lecture topic (Lecture 4 — What is dao?); transcript indicated. Credentials on the institutional staff page https://www.unsw.edu.au/staff/karyn-lai (opened: Professor of Philosophy; research on the Zhuangzi's stories about mastery, action, knowledge and agency). Transcript read not performed. Pool row 4 (opened in pass 6)."
+  },
+  "DAO-D2-51": {
+   "source_id": "DAO-D2-51",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=bnOXjuh3NLk",
+   "canonical_url": "https://www.youtube.com/watch?v=bnOXjuh3NLk",
+   "title": "Leverhulme Lectures in Chinese Philosophy, Lecture 5: Disability and a Good Life — Zhuangzi's Philosophy — Karyn Lai",
+   "presenter": "Karyn Lai (Professor of Philosophy, School of Humanities and Languages, UNSW Sydney; 2023 Leverhulme Visiting Professor, University of Aberdeen)",
+   "host": "UNSW Community (official UNSW Sydney channel); lecture presented at the University of Aberdeen, 2023",
+   "duration": "0:52:58",
+   "topic_ids": "DAO-M5",
+   "level": "Advanced",
+   "mission": "deg-wol-daoism",
+   "verification_status": "verified",
+   "gate_evidence": "Watch page opened 2026-10-28 (worker-pplx-daoism-1028a): title, channel UNSW Community, upload date Apr 5 2023, player length 52:58, description: 'Lecture 5 - How can the Zhuangzi help us think about \"dis-ability\"?'; transcript indicated. The series introduction page (https://www.youtube.com/watch?v=vK_Znjz3HUE, 1:24, same channel) frames the five lectures around 'How did Chinese philosophers think about a flourishing life?' and 'agency, disability, and freedom; and reflect on their relevance to us today' (search-surfaced description, not separately opened). Credentials on the institutional staff page https://www.unsw.edu.au/staff/karyn-lai (opened this session). Transcript read not performed."
   }
  },
  "drop_sources": [
