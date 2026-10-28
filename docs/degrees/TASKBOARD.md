@@ -33,6 +33,10 @@ BUD-D2-41 now has a full returned-transcript read:
 `verify/buddhism-nagarjuna-class1-05ceabfb-2026-10-28.md`.
 Useful self/agency and clinging passages are located; the whole class
 needs scope and prerequisite review, and classes 2–5 remain uninspected.
+BUD-D2-50 is now transcript-read through its closing cue:
+`verify/buddhism-fronsdal-perception-05ceabfb-2026-10-28.md`.
+Daily-life and confidence examples have exact locators; review the
+“Introductory” label against SFZC's experienced-practitioner framing.
 
 ## 2026-10-26 DEGREES ARCHITECTURE WAVE (owner rulings — READ FIRST)
 
