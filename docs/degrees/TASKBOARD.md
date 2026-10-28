@@ -23,6 +23,12 @@ The three lesson transcriptions were re-read; current institutional status,
 publisher-estimated time and outcome-evidence limits are kept distinct.
 Entry 34 is being checked separately; any locally generated audio
 transcript will be marked unverified, not publisher-certified.
+The four Arizona optional assignments now have a finite-scope receipt:
+`verify/buddhism-arizona-scope-05ceabfb-2026-10-28.md`.
+Recommend excluding BUD-D2-37 pending an inspected life-guidance passage;
+the official description establishes a political/cultural-history focus.
+BUD-D2-36/38/39 remain content-unverified; page metadata and automated
+chapters cannot clear their teaching or mission gates.
 
 ## 2026-10-26 DEGREES ARCHITECTURE WAVE (owner rulings — READ FIRST)
 

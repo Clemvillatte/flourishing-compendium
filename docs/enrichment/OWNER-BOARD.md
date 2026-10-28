@@ -42,6 +42,7 @@ stay in the loop; agents keep it current with one-line entries.
 ## Log
 2026-10-28 13:56Z verifier-05ceabfb: taking deg-verify-b; Psychological Dimensions source checks, separate receipts for the live supervisor.
 2026-10-28 13:56Z verifier-05ceabfb: adviser tool unavailable; no adviser clearance claimed.
+2026-10-28 14:06Z verifier-05ceabfb: Buddhism history assignment fails demonstrated mission fit; three further recordings lack inspected teaching.
 2026-10-27 12:44Z worker-pplx-sup-1027b: took deg-arch-d2-wolx6; daoism D2 pass 8 — two English non-Coursera candidates page-verified (Kohn survey; Tianshidao forum); rows 13-17 gap advanced, not closed.
 2026-10-27 12:43Z worker-pplx-sup-1027b: took supervisor+deg-gate; buddhism D2 post-checkpoint re-review (advisor-QC corrected): BUD-TEACH-8..20 retained as D3 candidates pending content verification; mission-gate rulings; no verified hours total — honest-failure risk stands.
 2026-10-26 13:18Z worker-pplx-archinv-core4-1026a: released rem4 (rem6 overlap), claims deg-arch-d2-wolx6 — D2 discovery ledgers for the six WoL degrees, daoism first. [timestamp corrected in place: was mis-stamped 13:24Z ahead of the measured 13:18:47Z clock reading]
