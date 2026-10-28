@@ -12,7 +12,7 @@ The producer review inspected here has Git blob `a45f87bab81d62f4187b52e1a20a0e3
 
 ## Transcript check
 
-I reopened the recording page and continuously read the returned transcript from 24:52 through the transition to psychological resources at 44:04, then the social-resources discussion through 47:29. The page reports **1:03:31**, independently corroborating the producer's page-duration correction; this is page metadata, not a measured playback result ([recording and transcript](https://www.youtube.com/watch?v=lRcm5DIwVsQ)).
+I reopened the recording page and initially read the returned transcript from 24:52 through the social-resources discussion at 47:29. The follow-up inspection extended that continuous read through the closing cue at 1:03:01; the page reports **1:03:31**, which is page metadata and has not been checked against playback ([recording and transcript](https://www.youtube.com/watch?v=lRcm5DIwVsQ)).
 
 | Location | What the retrieved text says | Why it affects assignment |
 |---|---|---|
@@ -20,8 +20,17 @@ I reopened the recording page and continuously read the returned transcript from
 | 34:48 to 35:48 | The text moves between reducing, diminishing and completely removing negative emotion, then again says both cannot exist together ([timed transcript](https://www.youtube.com/watch?v=lRcm5DIwVsQ)). | These different claims need to be separated before teaching the proposed undoing effect. |
 | 36:00 to 40:55 | The described experiment concerns recovery of cardiovascular measures after a speech-preparation stressor and different film conditions ([timed transcript](https://www.youtube.com/watch?v=lRcm5DIwVsQ)). | A result about physiological recovery does not by itself establish the impossibility of mixed feelings. |
 | 46:10 to 46:33 | The transcript generalizes that people gradually withdraw from someone who shows negative emotion much of the time ([timed transcript](https://www.youtube.com/watch?v=lRcm5DIwVsQ)). | The passage offers no qualification sufficient for this review to recommend it as personal guidance. |
+| 49:46 to 51:11 | The text presents 2.9:1, rounded to 3:1, as a positive-to-negative emotion ratio required for well-being and flourishing ([timed transcript](https://www.youtube.com/watch?v=lRcm5DIwVsQ)). | The publisher formally withdrew the model and its particular ratio predictions in 2013 ([public correction record](https://psycnet.apa.org/record/2013-32937-001)). |
 
 Audio and video were not played. The finding concerns the retrieved transcript, and the assignment hold should remain until a responsible reviewer checks the recording or a properly qualified replacement is approved.
+
+The closing discussion explicitly recognizes useful functions of negative emotion, rejects treating all negative emotion as bad, and qualifies possible benefits of adversity as possibilities that do not occur for everyone ([lecture, 57:39 onward and 1:02:16 onward](https://www.youtube.com/watch?v=lRcm5DIwVsQ)). That qualification deserves preservation, but it does not correct the earlier coexistence denial or the numerical threshold.
+
+## Additional hold reason: the numerical ratio
+
+The 2013 correction explicitly withdraws the modeling element and the model-based predictions about ratios of 2.9 and 11.6, while leaving other elements of the original article unaffected ([freely readable correction abstract](https://psycnet.apa.org/record/2013-32937-001)). APA's own public account also describes the withdrawal as applying to the modeling portion of the paper ([publisher's explanation](https://www.apa.org/monitor/2013/12/model-emotions)).
+
+A replacement must therefore avoid teaching 3:1 as an established minimum for a worthwhile or flourishing life. This correction does not warrant rejecting all positive-emotion research, and the receipt makes no such claim.
 
 ## Mixed-emotions evidence
 
@@ -46,5 +55,7 @@ I do not recommend rescuing an isolated fragment from the held full lecture in t
 ## Routing
 
 The independent review supports the supervisor's existing assignment-removal request. The integrator remains responsible for applying it and verifying the learner view; M2's existing core lesson, the rest of the course and the instructor's other work are outside this verdict.
+
+The remote log now contains integration commit `79db5ca80`, and the supervisor's 14:27 checkpoint reports that the assignment was detached. I have inspected that coordination record, but have not independently tested the deployed learner view.
 
 No module, degree, coverage or workload gate is cleared. Adviser tooling remains unavailable, and this independent worker receipt is not an adviser endorsement.
