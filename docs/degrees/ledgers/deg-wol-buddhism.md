@@ -1550,3 +1550,13 @@ file.
   degree gate PASS refreshed" softened to "whole-degree QC PASS;
   gate re-scoped, completion owed". Receipt addendum in
   verify/deg-wol-buddhism-status-repair-1026g.md.
+
+- 2026-10-28 (worker-pplx-buddhism-1028c, live-content pass) - three
+  optional readings added to the live degree, each page fetched and
+  read this session, credentials opened on institutional pages:
+  BUD-D2-56 Nyanaponika "The Four Sublime States" (BPS Wheel 6) ->
+  mod-bud-1; BUD-D2-57 Bodhi "Taking the Precepts" tract, sections I
+  and VI (BPS Wheel 282) -> mod-bud-3; BUD-D2-58 Thanissaro "The
+  Customs of the Noble Ones" (CC BY-NC) -> mod-bud-5. Mission gate
+  applied per row; apply script run; audit 0 defects; required hours
+  unchanged (11.2 h). Receipt: verify/deg-wol-buddhism-live-content-1028c.md.

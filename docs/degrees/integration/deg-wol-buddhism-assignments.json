@@ -45,6 +45,12 @@
      "source_id": "BUD-B1-06",
      "section": "required",
      "locator": "The five-stage loving-kindness method: yourself, a good friend, a neutral person, someone you dislike, everyone"
+    },
+    {
+     "source_id": "BUD-D2-56",
+     "section": "optional",
+     "role": "teach",
+     "note": "A classic short commentary on the four immeasurables you meet in the metta talk: each state described as a way of meeting people, and what each guards against (love without partiality, compassion without cold indifference). Reading, not a video"
     }
    ]
   },
@@ -107,6 +113,12 @@
      "section": "required",
      "role": "revisit",
      "locator": "Reapply the discourse you read in Module I to two hard cases of your own choosing"
+    },
+    {
+     "source_id": "BUD-D2-57",
+     "section": "optional",
+     "role": "teach",
+     "note": "Bhikkhu Bodhi on sila as a training: what the precepts train (section I) and what to do when you break one — shame and scrupulousness without guilt and self-contempt, confession to a Dhamma friend, retaking the precepts, a fresh resolve (section VI). Reading, not a video"
     }
    ]
   },
@@ -171,6 +183,12 @@
      "section": "required",
      "role": "revisit",
      "locator": "Re-read the discourse as the lineage’s source basis"
+    },
+    {
+     "source_id": "BUD-D2-58",
+     "section": "optional",
+     "role": "teach",
+     "note": "Thanissaro Bhikkhu tells the Thai Forest story from the inside: how Ajaan Mun came to treat the texts as pointers to be tested in practice, and what that asks of a practitioner today. Reading, not a video; the historical passages are context for the practice ethic"
     }
    ]
   },
@@ -698,6 +716,51 @@
    "mission": "deg-wol-buddhism",
    "verification_status": "verified",
    "gate_evidence": "SFZC Recorded Study Classes page (https://www.sfzc.org/offerings/deepening-practice/recorded-study-classes-deepening-practice) fetched and read this session — titles, teachers and page-stated durations extracted verbatim; audio content not played"
+  },
+  "BUD-D2-56": {
+   "source_id": "BUD-D2-56",
+   "youtube_id_or_url": "https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel006.html",
+   "canonical_url": "https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel006.html",
+   "title": "The Four Sublime States: Contemplations on Love, Compassion, Sympathetic Joy and Equanimity (Nyanaponika Thera, BPS Wheel 6)",
+   "presenter": "Nyanaponika Thera (Buddhist Publication Society co-founder, editor and later president)",
+   "host": "Access to Insight (Barre Center for Buddhist Studies) — BPS Wheel Publication No. 6, free text",
+   "duration": "",
+   "topic_ids": "BUD-M1",
+   "level": "Foundations",
+   "mission": "deg-wol-buddhism",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/verify/deg-wol-buddhism-live-content-1028c.md (page fetched and read in full this session, ~6,150 words incl. page furniture; BPS history page https://bps.lk/history fetched for the author's credential)",
+   "locator": "Read the Introduction and the four Contemplations (Love, Compassion, Sympathetic Joy, Equanimity); the closing section on how the four states guard one another is optional"
+  },
+  "BUD-D2-57": {
+   "source_id": "BUD-D2-57",
+   "youtube_id_or_url": "https://www.accesstoinsight.org/lib/authors/bodhi/wheel282.html",
+   "canonical_url": "https://www.accesstoinsight.org/lib/authors/bodhi/wheel282.html",
+   "title": "Going for Refuge & Taking the Precepts — the Taking the Precepts tract (Bhikkhu Bodhi, BPS Wheel 282)",
+   "presenter": "Bhikkhu Bodhi (PhD Claremont; BPS English editor 1984-2002 and president from 1988; translator of the Majjhima, Samyutta and Anguttara Nikayas)",
+   "host": "Access to Insight (Barre Center for Buddhist Studies) — BPS Wheel Publication No. 282, free text",
+   "duration": "",
+   "topic_ids": "BUD-M3",
+   "level": "Foundations",
+   "mission": "deg-wol-buddhism",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/verify/deg-wol-buddhism-live-content-1028c.md (page fetched and read this session; the Taking the Precepts tract measured at ~10,550 words, section VI at ~640 words; author page https://bps.lk/authors/3 fetched for credentials)",
+   "locator": "Second half of the page, the tract Taking the Precepts: read section I (The Essential Meaning of Sila, ~2,700 words) and section VI (The Breach of Sila, ~640 words); sections II-V and VII are optional depth, and the Going for Refuge tract is outside this module"
+  },
+  "BUD-D2-58": {
+   "source_id": "BUD-D2-58",
+   "youtube_id_or_url": "https://www.accesstoinsight.org/lib/authors/thanissaro/customs.html",
+   "canonical_url": "https://www.accesstoinsight.org/lib/authors/thanissaro/customs.html",
+   "title": "The Customs of the Noble Ones (Thanissaro Bhikkhu, 1999)",
+   "presenter": "Thanissaro Bhikkhu (Geoffrey DeGraff), abbot of Metta Forest Monastery since 1993; ordained 1976, student of Ajaan Fuang Jotiko",
+   "host": "Access to Insight (Barre Center for Buddhist Studies) — essay, CC BY-NC 4.0",
+   "duration": "",
+   "topic_ids": "BUD-M5",
+   "level": "Foundations",
+   "mission": "deg-wol-buddhism",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/verify/deg-wol-buddhism-live-content-1028c.md (essay fetched and read in full this session, ~2,950 words; author credentials from https://www.watmetta.org/about and https://www.dhammatalks.org/)",
+   "locator": "The whole essay (~2,950 words). Hold on to three passages for the module question: the opening list of the qualities of mind the Dhamma's \"home culture\" asks for; the \"warrior knowledge\" passage on testing a teaching in practice (with the Buddha's criterion to his aunt); and the closing paragraphs on reshaping oneself rather than the teaching"
   }
  }
 }
