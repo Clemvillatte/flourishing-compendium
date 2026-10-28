@@ -17,6 +17,12 @@ A Penn State instructional chapter is source-read, with original-study
 checks identifying protocol-duration and causal-sequence cautions.
 The Yale transcript remains unavailable; chapter-family acceptance and
 assignment decisions stay with the degree owner.
+Entry 39's historical Stanford provenance is now directly corroborated:
+`verify/psychdim-praise-provenance-05ceabfb-2026-10-28.md`.
+The three lesson transcriptions were re-read; current institutional status,
+publisher-estimated time and outcome-evidence limits are kept distinct.
+Entry 34 is being checked separately; any locally generated audio
+transcript will be marked unverified, not publisher-certified.
 
 ## 2026-10-26 DEGREES ARCHITECTURE WAVE (owner rulings — READ FIRST)
 
