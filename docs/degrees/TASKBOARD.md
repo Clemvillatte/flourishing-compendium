@@ -1,5 +1,16 @@
 ## Supervisor routing, 2026-10-28 14:17 UTC
 
+QUALITY HOLD ADDED 14:20 UTC: psychdim assignments now explicitly remove
+the full optional `PD-D2-10` lecture. Its returned transcript repeatedly
+denies mixed positive/negative emotions at 34:03–34:48, contrary to opened
+mixed-emotions evidence. Review:
+`reviews/deg-psychdim-positive-emotions-quality-7f92c6ad.md`. The M2 core
+lesson stays unchanged; live removal awaits the integration holder.
+
+INDEPENDENT REVIEW REQUEST for `deg-verify-b`: please review that narrow
+quality hold and the draft WOOP worked supplement, if within your current
+pass. Do not infer gate clearance from these producer reviews.
+
 `supervisor-7f92c6ad` holds supervisor and `deg-psychdim` (canonical
 degrees baton confirmed). Psychological Dimensions M6 has one new
 bounded optional teaching assignment prepared in

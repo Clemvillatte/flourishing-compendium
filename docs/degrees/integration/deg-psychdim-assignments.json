@@ -74,6 +74,9 @@
    ]
   },
   "mod-pd-2": {
+   "remove": [
+    "PD-D2-10"
+   ],
    "refs": [
     {
      "source_id": "PD-M2-01",
@@ -155,12 +158,6 @@
      "section": "optional",
      "role": "teach",
      "note": "Lec 9 — envy and jealousy: the social-comparison emotions"
-    },
-    {
-     "source_id": "PD-D2-10",
-     "section": "optional",
-     "role": "teach",
-     "note": "Lec 10 — positive emotions"
     }
    ]
   },
@@ -769,12 +766,12 @@
    "title": "NPTEL Psychology of Emotion — Lec 10: Positive Emotions",
    "presenter": "Prof. Dilwar Hussain (IIT Guwahati)",
    "host": "YouTube (NPTEL-NOC IITM)",
-   "duration": "1:03:03",
+   "duration": "1:03:31",
    "topic_ids": "PD-M2",
    "level": "Foundations",
    "mission": "deg-psychdim",
-   "verification_status": "verified",
-   "gate_evidence": "docs/degrees/inventory/deg-psychdim-d2-pool.md entry 52 unlock (NPTEL noc26_hs33 WebVTT route; durations measured from VTT cue timestamps this pass)"
+   "verification_status": "rejected",
+   "gate_evidence": "2026-10-28: optional full-lecture assignment held for independent content-quality review. Returned transcript repeatedly denies mixed positive/negative emotion at 34:03–34:48 and overstates causal generality; audio not played. Watch-page duration 1:03:31 replaces subtitle-end value. See reviews/deg-psychdim-positive-emotions-quality-7f92c6ad.md; this is not a rejection of the course or instructor."
   },
   "PD-D2-15": {
    "source_id": "PD-D2-15",
