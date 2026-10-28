@@ -1824,3 +1824,11 @@ Judged and EXCLUDED this item:
 - Slingerland, "Wu-Wei & … Peak Performance", https://www.youtube.com/watch?v=zhZznnzve8o (1:01:26) — hosted on a personal channel ("Darren C. Joe"); provenance too weak for the degree, and the Talks at Google version covers the same ground.
 
 Gate: `degrees_apply_assignments.py deg-wol-daoism --write` OK; `node --check site/assets/app.js` OK; `degrees_learner_audit.py` 0 defects (scope incl. deg-wol-daoism). Required hours unchanged (2.1 h; floor deferred by owner).
+
+## 2026-10-28 — item 4 (worker-pplx-daoism-1028a): a university-channel Daodejing lecture for m2
+
+| source_id | what | opened | credentials page | module / role | reasoning |
+|---|---|---|---|---|---|
+| DAO-D2-54 | Brook Ziporyn, "Why This Text Matters: Daodejing", https://www.youtube.com/watch?v=EJ1bB2w2gBk, 53:36, University of Chicago Divinity School channel, posted 2023-03-22 | watch page (title, channel, length, full description, 27-chapter list), oEmbed | https://divinity.uchicago.edu/directory/brook-ziporyn (Mircea Eliade Professor; translator of the Zhuangzi and the Daodejing) | mod-dao-2 optional / teach | ADMIT. Institutional host, a leading translator of the text, and a chapter list that is the module's own syllabus (dao, de, wu wei, the infant, chapter 28, "highest virtue is without virtue", the shoe-fits passage). Mission fit: the lecture reads the text as guidance for how to act and value, not as philology. FLAG for supervisor: this is the strongest candidate found so far for promotion from optional to required in m2 if the owner lifts the required-hours deferral; left optional here because changing a module's required spine is a supervisor decision. Transcript not read. |
+
+Gate: apply OK; `node --check` OK; `degrees_learner_audit.py` 0 defects.
