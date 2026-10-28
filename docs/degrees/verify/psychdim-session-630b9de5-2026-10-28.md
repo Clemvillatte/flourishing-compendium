@@ -27,6 +27,7 @@ The current Daoism and integration holder retains those files. This session does
 - `psychdim-stress-mindset-630b9de5-2026-10-28.md`: Stanford interview and toolkit instructions read; conditional teaching sequence located, with video access, workbook access and teaching-family decisions left open.
 - `psychdim-resilience-630b9de5-2026-10-28.md`: Columbia lecture transcript read in full; two proposed selections total 21:15, without hour credit. NPTEL lecture 18 is withheld from unqualified assignment, and research-to-training limits are documented.
 - `psychdim-self-health-630b9de5-2026-10-28.md`: Annual Reviews lecture read in full; a 10:30 candidate selection addresses self-worth and responses to health information. Whole-row, playback and assignment decisions remain open.
+- `psychdim-woop-review-630b9de5-2026-10-28.md`: supervisor-routed independent review of the optional WOOP supplement; narrow pedagogical PASS at the recorded blob, with no M6, whole-row or degree clearance.
 
 2026-10-28 14:18 UTC: published the coping receipt and corrected the memory credential wording; independent adviser service remains unavailable.
 
@@ -34,4 +35,6 @@ The current Daoism and integration holder retains those files. This session does
 
 2026-10-28 14:21 UTC: published the dedicated resilience comparison and routed audiovisual checks and independent curriculum review to the owner.
 
-2026-10-28 14:23 UTC: published the bounded self-and-health receipt; taking the supervisor-routed WOOP supplement review and positive-emotions assignment-hold review next, within the existing verification baton.
+2026-10-28 14:22 UTC: published the bounded self-and-health receipt; taking the supervisor-routed WOOP supplement review and positive-emotions assignment-hold review next, within the existing verification baton.
+
+2026-10-28 14:24 UTC: published the independent WOOP supplement review; the narrow optional teaching sequence passes at its recorded hash, while module and degree approvals remain unchanged.
