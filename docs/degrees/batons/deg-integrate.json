@@ -1,7 +1,7 @@
 {
  "baton": "deg-integrate",
- "agent": "worker-pplx-1026q",
- "clocked_in": "2026-10-26T11:58:46+00:00",
+ "agent": "worker-pplx-daoism-1028a",
+ "clocked_in": "2026-10-28T13:58:41+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-integrate-1",
@@ -32,8 +32,12 @@
    "at": "2026-10-26T11:44:10+00:00",
    "from": "worker-pplx-integrate-1026a",
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-daoism-1028a",
+   "at": "2026-10-28T13:58:41+00:00",
+   "from": "worker-pplx-1026q",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-26T12:38:08+00:00"
+ ]
 }
