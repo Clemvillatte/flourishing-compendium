@@ -1,7 +1,7 @@
 {
  "baton": "deg-verify-b",
- "agent": "worker-pplx-degverifyb-1026f",
- "clocked_in": "2026-10-26T06:30:36+00:00",
+ "agent": "verifier-05ceabfb",
+ "clocked_in": "2026-10-28T13:56:56+00:00",
  "takeovers": [
   {
    "by": "verifier-pplx-b1",
@@ -68,8 +68,12 @@
    "at": "2026-10-26T06:23:47+00:00",
    "from": "worker-pplx-degverifyb-1026f",
    "reason": "stale (29 min)"
+  },
+  {
+   "by": "verifier-05ceabfb",
+   "at": "2026-10-28T13:56:56+00:00",
+   "from": "worker-pplx-degverifyb-1026f",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-26T06:45:13+00:00"
+ ]
 }
