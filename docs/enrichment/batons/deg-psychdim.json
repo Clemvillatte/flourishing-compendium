@@ -1,7 +1,7 @@
 {
  "baton": "deg-psychdim",
- "agent": "worker-pplx-psychdim-1027b",
- "clocked_in": "2026-10-27T12:39:46+00:00",
+ "agent": "supervisor-pplx-1028b",
+ "clocked_in": "2026-10-28T13:56:24+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-degpsychdim-1026a",
@@ -20,6 +20,12 @@
    "at": "2026-10-27T12:39:46+00:00",
    "from": "worker-pplx-psychdim-1026d",
    "reason": "stale (1744 min)"
+  },
+  {
+   "by": "supervisor-pplx-1028b",
+   "at": "2026-10-28T13:56:24+00:00",
+   "from": "worker-pplx-psychdim-1027b",
+   "reason": "stale (1517 min)"
   }
  ],
  "released": false
