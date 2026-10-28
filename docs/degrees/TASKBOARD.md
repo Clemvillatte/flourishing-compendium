@@ -21,8 +21,11 @@ Entry 39's historical Stanford provenance is now directly corroborated:
 `verify/psychdim-praise-provenance-05ceabfb-2026-10-28.md`.
 The three lesson transcriptions were re-read; current institutional status,
 publisher-estimated time and outcome-evidence limits are kept distinct.
-Entry 34 is being checked separately; any locally generated audio
-transcript will be marked unverified, not publisher-certified.
+Entry 34's MP3 access/runtime are corroborated, but the local ASR result
+was unusable and rejected; content verification remains open:
+`verify/psychdim-slovic-access-05ceabfb-2026-10-28.md`.
+The receipt offers a separately identified Hidden Brain interview whose
+full returned transcript was read, pending teaching-family review.
 The four Arizona optional assignments now have a finite-scope receipt:
 `verify/buddhism-arizona-scope-05ceabfb-2026-10-28.md`.
 Recommend excluding BUD-D2-37 pending an inspected life-guidance passage;
