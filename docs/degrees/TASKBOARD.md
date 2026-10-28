@@ -7,8 +7,12 @@ opened first-person explanations, with independent institutional
 credential verification:
 `verify/psychdim-woop-mcii-05ceabfb-2026-10-28.md`.
 Curriculum sufficiency, row promotion and adviser clearance remain open.
-Next verification item: the NPTEL reasoning lecture content behind
-psychdim pool entry 43.
+Entry 43 now also has a scoped transcript receipt:
+`verify/psychdim-reasoning-05ceabfb-2026-10-28.md`.
+Both official-linked watch pages supplied transcripts; teaching passages
+are located, and a conditional-logic wording inconsistency is flagged
+before assignment. Next verification item: Fredrickson's Yale interview
+behind pool entry 40.
 
 ## 2026-10-26 DEGREES ARCHITECTURE WAVE (owner rulings — READ FIRST)
 
