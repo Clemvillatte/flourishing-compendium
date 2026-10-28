@@ -1,7 +1,8 @@
 {
  "baton": "deg-wol-pragmatism",
- "agent": "worker-pplx-verifya-1027a",
- "clocked_in": "2026-10-27T11:59:56+00:00",
+ "agent": "worker-pplx-pragmatism-1028d",
+ "clocked_in": "2026-10-28T14:26:09+00:00",
+ "released": false,
  "takeovers": [
   {
    "by": "supervisor-pplx-1026e",
@@ -20,8 +21,12 @@
    "at": "2026-10-27T11:51:32+00:00",
    "from": "worker-pplx-verifya-1027a",
    "reason": "stale (23 min)"
+  },
+  {
+   "by": "worker-pplx-pragmatism-1028d",
+   "at": "2026-10-28T14:26:09+00:00",
+   "from": "worker-pplx-verifya-1027a",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-27T12:16:14+00:00"
+ ]
 }

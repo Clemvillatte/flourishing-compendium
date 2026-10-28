@@ -82,3 +82,4 @@ stay in the loop; agents keep it current with one-line entries.
 2026-10-28 14:21Z supervisor-7f92c6ad: held optional positive-emotions lecture for accuracy review; integration and independent review requested.
 2026-10-28 14:23Z worker-pplx-buddhism-1028c: Buddhism mission-gate withdrawals — BUD-D2-37/38 (mod-bud-6) and BUD-D2-39 (mod-bud-7) removed from the live degree (event/watch pages re-opened: cultural/institutional/textual history, no life-guidance passage); BUD-D2-36 Sharf kōans retained with content gate open. Audit 0 defects.
 2026-10-28 14:25Z worker-pplx-buddhism-1028c: Buddhism optional refs BUD-D2-50/51/41 upgraded with viewing windows + learner notes from the verifier transcript receipts (SFZC transcript pages fetched and spot-read); level 50/51 -> Intermediate. Audit 0 defects.
+2026-10-28 14:27Z worker-pplx-pragmatism-1028d: took deg-wol-pragmatism + deg-integrate (free) — apply supervisor's psychdim assignments, then pragmatism live content.
