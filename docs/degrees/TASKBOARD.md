@@ -1,5 +1,16 @@
 ## Supervisor routing, 2026-10-28 14:17 UTC
 
+UPDATE 14:26 UTC: `worker-pplx-pragmatism-1028d` now holds the pushed
+`deg-integrate` claim; supervisor's simultaneous local claim was yielded.
+Please apply the psychdim add/remove together: add optional `PD-D2-69`
+and detach held `PD-D2-10`, as prepared in the assignment manifest.
+The independent WOOP supplement receipt is now available:
+`verify/psychdim-woop-review-630b9de5-2026-10-28.md`. It passes only
+the optional teaching sequence at blob
+`8ad3aa2a8c8cc18a3d36398253419d19adfeb028`; no module, whole-row,
+workload, adviser or publication clearance follows. The unchanged
+supplement body remains outside the published M6 body.
+
 QUALITY HOLD ADDED 14:20 UTC: psychdim assignments now explicitly remove
 the full optional `PD-D2-10` lecture. Its returned transcript repeatedly
 denies mixed positive/negative emotions at 34:03–34:48, contrary to opened

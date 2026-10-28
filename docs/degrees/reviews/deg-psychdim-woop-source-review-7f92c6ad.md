@@ -7,6 +7,16 @@ gate is cleared by this review.
 
 ## Decision
 
+Independent teaching review received 2026-10-28 14:26 UTC:
+`verify/psychdim-woop-review-630b9de5-2026-10-28.md` passes the narrow
+optional supplement at Git blob
+`8ad3aa2a8c8cc18a3d36398253419d19adfeb028`.
+The degree owner has consumed that receipt; the reviewed supplement is
+unchanged, including its historical draft header. This records completion
+of the narrow independent review, not whole-row, changed-module,
+workload, adviser or publication approval. Integration remains with
+the authorized shared integrator.
+
 Accept the author's free practice page and downloadable kit as a bounded
 optional teaching resource for M6. The page supplies instructions and a
 review procedure, and the kit supplies an actual written exercise;
