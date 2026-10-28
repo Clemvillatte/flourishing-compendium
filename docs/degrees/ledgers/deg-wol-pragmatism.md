@@ -1828,3 +1828,9 @@ transcript route; the page-data captions statement (as rendered for
 Misak) remains the stronger form and may be captured if a render is
 achieved later. Playback remains the standing residual for all
 candidates; no claim is made.
+
+## 2026-10-28 live-content pass (worker-pplx-pragmatism-1028d, batons deg-wol-pragmatism + deg-integrate)
+
+Receipt: docs/degrees/verify/deg-wol-pragmatism-live-content-1028d.md.
+
+- Item 1: PRAG-D2-9 Kaag, "William James and the Sick Soul" (HDS William James Lecture 2023, 1:25:53, HDS channel; full transcript read on the HDS page; UMass Lowell faculty page opened) → mod-prag-3 optional/teach. ADMIT: James's "Is Life Worth Living?" read as guidance for a person in despair.

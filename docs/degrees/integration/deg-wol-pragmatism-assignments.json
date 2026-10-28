@@ -93,6 +93,12 @@
      "section": "optional",
      "role": "teach",
      "note": "James’s “The Will to Believe” taught — genuine options and the right to believe"
+    },
+    {
+     "source_id": "PRAG-D2-9",
+     "section": "optional",
+     "role": "teach",
+     "note": "John Kaag reads James's 1895 talk 'Is Life Worth Living?' as advice for someone in despair: James's answer is 'maybe', and Kaag argues that the maybe is where meaning lives, since the things that keep a life going all carry risk. It shows the will to believe at work on the hardest question a person can face. The talk speaks openly about suicide; the lecture is followed by audience questions."
     }
    ],
    "remove": [
@@ -292,6 +298,20 @@
    "mission": "deg-wol-pragmatism",
    "verification_status": "verified",
    "gate_evidence": "docs/degrees/inventory/deg-wol-pragmatism-d2-pool.md entry PRAG-TEACH-3 (course page and four session-video share pages opened; durations recorded from the players’ own metadata)"
+  },
+  "PRAG-D2-9": {
+   "source_id": "PRAG-D2-9",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=Z80EnEs-4oI",
+   "canonical_url": "https://www.youtube.com/watch?v=Z80EnEs-4oI",
+   "title": "William James and the Sick Soul (Harvard Divinity School William James Lecture, 2023)",
+   "presenter": "John Kaag (University of Massachusetts Lowell)",
+   "host": "Harvard Divinity School (YouTube)",
+   "duration": "1:25:53",
+   "topic_ids": "PRAG-M3",
+   "level": "Foundations",
+   "mission": "deg-wol-pragmatism",
+   "verification_status": "verified",
+   "gate_evidence": "worker-pplx-pragmatism-1028d, 2026-10-28: HDS page https://www.hds.harvard.edu/news/2023/3/3/video-william-james-and-sick-soul opened; it embeds this video (Z80EnEs-4oI) and prints the full transcript, read this session (about 11,400 words: Hempton and Lamberth introductions, Kaag's lecture on James's 1895 'Is Life Worth Living?', then audience questions). oEmbed: title 'William James and the Sick Soul', author Harvard Divinity School. Player length 1:25:53, published 2023-02-08. Credentials: UMass Lowell philosophy faculty page https://www.uml.edu/fahss/philosophy/faculty/kaag-john.aspx opened (John J. Kaag, Ph.D., Professor, Department of Philosophy; PhD Philosophy 2007, University of Oregon; American Philosophy). Mission gate: the lecture treats suicidal despair, meaning under uncertainty and James's answer 'maybe' as a lived choice; the HDS introduction gives the 988 crisis line. Whole recording assigned; no timestamps are printed, so no segment window is claimed. Receipt: docs/degrees/verify/deg-wol-pragmatism-live-content-1028d.md"
   }
  },
  "manifest_label_corrections_for_content_lane": [
