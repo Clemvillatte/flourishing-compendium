@@ -1,6 +1,6 @@
 {
  "degree_id": "deg-wol-daoism",
- "built": "2026-10-26",
+ "built": "2026-10-26 ; +DAO-D2-48..50 added 2026-10-28 by worker-pplx-daoism-1028a (baton deg-wol-daoism; renumbered from 45-47 after the supervisor 1028b slide additions took those ids)",
  "built_by": "worker-pplx-degfixschema-1026b (baton deg-fix-schema)",
  "provenance": "Windows and spans transcribed from deg-wol-daoism-manifest.json and the module docs (m1 to m5); nothing here is invented.",
  "modules": {
@@ -88,6 +88,12 @@
      "section": "optional",
      "role": "teach",
      "note": "The informing Daoist worldview — orientation for the walk; completes the Lundao foundation sequence beside Lundao 1"
+    },
+    {
+     "source_id": "DAO-D2-50",
+     "section": "optional",
+     "role": "teach",
+     "note": "A full scholarly lecture on the walk's root word: what dao is, taught by a leading Zhuangzi scholar whose frame is agency and mastery in a changing life — hear it after the orientation videos, before Module II"
     }
    ],
    "activity": "Graded, in four parts: the four-terms reflection (200-400 words), a five-part guided reading of one Daodejing chapter (150-250 words), a two-texts passage location (150-300 words), and the scope statement naming coverage, exclusions with their owners and the admission test (150-250 words)."
@@ -156,19 +162,31 @@
      "source_id": "DAO-D2-43",
      "section": "optional",
      "role": "teach",
-     "note": "Zhuangzi’s personal freedom — the space to be left alone, ambivalence toward the state — beside the module’s losing-the-self theme; page-verified talk, continuous transcript read still owed"
+     "note": "Zhuangzi’s personal freedom — the space to be left alone, and the text’s ambivalence toward the state — beside this module’s losing-the-self theme"
     },
     {
      "source_id": "DAO-D2-44",
      "section": "optional",
      "role": "teach",
-     "note": "A leading Zhuangzi scholar on translating the complete text — context for the Inner Chapters this module reads; page duration displayed 1:27:13–1:27:56 in two places, 1:27:56 on the fresh re-fetch"
+     "note": "A leading Zhuangzi scholar on translating the complete text — context for the Inner Chapters this module reads"
     },
     {
      "source_id": "DAO-D2-46",
      "section": "optional",
      "role": "teach",
      "note": "Optional study aid: the companion slide set on the Zhuangzi — transformation, wuwei and emptiness, selected passages, and questions on how we are to act (or not) in the world"
+    },
+    {
+     "source_id": "DAO-D2-48",
+     "section": "optional",
+     "role": "teach",
+     "note": "Fraser on how the Zhuangzi's adept treats other people — interpersonal ethics as a special case of using dé to find a fitting way through changing circumstances; the social face of the skill stories you read here"
+    },
+    {
+     "source_id": "DAO-D2-49",
+     "section": "optional",
+     "role": "teach",
+     "note": "Fraser on the Zhuangzi passage that calls benevolence and duty a mutilation — why the Daoists think rule-bound morality can blind us to the Way, with the objections and replies; pairs with the Butterfly Dream and Cook Ding readings"
     }
    ],
    "activity": "Graded, in three parts: a reasoned application to one situation of your own (about 25 minutes), the gloss-check against Cook Ding or the Hunchback (about 15 minutes), and the chapter check comparing the inside view with the puzzle frame (about 10 minutes). A five-minute self-assessment follows."
@@ -418,7 +436,7 @@
    "level": "Intermediate",
    "mission": "deg-wol-daoism",
    "verification_status": "verified",
-   "gate_evidence": "docs/degrees/inventory/deg-wol-daoism-d2-pool.md entries D2-NEW-29 and D2-NEW-28 (both PAGE-VERIFIED: title, channel, duration, upload date, full speaker credentials in the page description; the pages were fetched and read in the pool’s pass 8; the continuous transcript read remains owed — noted per ref)"
+   "gate_evidence": "docs/degrees/inventory/deg-wol-daoism-d2-pool.md entries D2-NEW-29 and D2-NEW-28 (both PAGE-VERIFIED: title, channel, duration, upload date, full speaker credentials in the page description; the pages were fetched and read in the pool’s pass 8; the continuous transcript read remains owed — noted per ref) Learner-facing note caveats moved here 2026-10-28: continuous transcript read still owed (page-verified talk)."
   },
   "DAO-D2-44": {
    "source_id": "DAO-D2-44",
@@ -432,7 +450,7 @@
    "level": "Advanced",
    "mission": "deg-wol-daoism",
    "verification_status": "verified",
-   "gate_evidence": "docs/degrees/inventory/deg-wol-daoism-d2-pool.md entries D2-NEW-29 and D2-NEW-28 (both PAGE-VERIFIED: title, channel, duration, upload date, full speaker credentials in the page description; the pages were fetched and read in the pool’s pass 8; the continuous transcript read remains owed — noted per ref)"
+   "gate_evidence": "docs/degrees/inventory/deg-wol-daoism-d2-pool.md entries D2-NEW-29 and D2-NEW-28 (both PAGE-VERIFIED: title, channel, duration, upload date, full speaker credentials in the page description; the pages were fetched and read in the pool’s pass 8; the continuous transcript read remains owed — noted per ref) Learner-facing note caveats moved here 2026-10-28: page duration displayed 1:27:13–1:27:56 in two places, 1:27:56 on the fresh re-fetch."
   },
   "DAO-D2-45": {
    "source_id": "DAO-D2-45",
@@ -461,6 +479,48 @@
    "mission": "deg-wol-daoism",
    "verification_status": "verified",
    "gate_evidence": "docs/degrees/verify/deg-wol-daoism-live-content-1028b.md (both PDFs downloaded and read in full this session; licence and author line printed on the final slide; course page https://open.ed.ac.uk/chinese-philosophy/ fetched)"
+  },
+  "DAO-D2-48": {
+   "source_id": "DAO-D2-48",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=FAHtqeLPUjc",
+   "canonical_url": "https://www.youtube.com/watch?v=FAHtqeLPUjc",
+   "title": "Finding a Way Together: Interpersonal Ethics in the Zhuāngzǐ — Chris Fraser",
+   "presenter": "Chris Fraser (Richard Charles and Esther Yewpick Lee Chair in Chinese Thought and Culture, University of Toronto, 2021-24, jointly in Philosophy and East Asian Studies; previously Professor and Chair of Philosophy, University of Hong Kong; translator of Zhuangzi: The Complete Writings, Oxford)",
+   "host": "4TH SPACE Concordia University (official university channel)",
+   "duration": "1:46:04",
+   "topic_ids": "DAO-M3",
+   "level": "Intermediate",
+   "mission": "deg-wol-daoism",
+   "verification_status": "verified",
+   "gate_evidence": "Watch page opened 2026-10-28 (worker-pplx-daoism-1028a): title, channel, stream date Oct 1 2022, player length 1:46:04 (pool D2-NEW-30 recorded 1:46:03), full abstract and speaker bio in the description, transcript indicated, English; oEmbed confirms title + channel. Credentials on the institutional page https://www.eas.utoronto.ca/news/welcome-professor-chris-fraser (opened: Lee Chair, joined from HKU 2021, degrees Yale/NTU/HKU, Zhuangzi translation in progress). Continuous transcript read not performed (environment blocks YouTube transcripts). Pool entry docs/degrees/inventory/deg-wol-daoism-d2-pool.md D2-NEW-30."
+  },
+  "DAO-D2-49": {
+   "source_id": "DAO-D2-49",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=tQGKS4dvWTU",
+   "canonical_url": "https://www.youtube.com/watch?v=tQGKS4dvWTU",
+   "title": "A Daoist Critique of Morality — Chris Fraser",
+   "presenter": "Chris Fraser (Lee Chair in Chinese Thought and Culture, University of Toronto, at the time of the talk; previously Professor and Chair of Philosophy, University of Hong Kong)",
+   "host": "Association of Philosophy Students channel (student association; the page does not name its university) — talk given 26 January 2023",
+   "duration": "0:52:21",
+   "topic_ids": "DAO-M3",
+   "level": "Intermediate",
+   "mission": "deg-wol-daoism",
+   "verification_status": "verified",
+   "gate_evidence": "Watch page opened 2026-10-28 (worker-pplx-daoism-1028a): title, channel, upload date Jun 19 2023, player length 52:21, full abstract in the description (the Zhuangzi passage likening benevolence-and-duty to corporal punishments; Daoist critique situated beside Nagel, Wolf, Williams, Nietzsche, James; objections and replies), transcript indicated; oEmbed confirms title + channel. Speaker credentials on the institutional page https://www.eas.utoronto.ca/news/welcome-professor-chris-fraser (opened). Host is a student association whose university is not named on the page — recorded honestly; speaker credentials carry the admission. Transcript read not performed. Pool entry D2-NEW-36."
+  },
+  "DAO-D2-50": {
+   "source_id": "DAO-D2-50",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=4zehW8GSas4",
+   "canonical_url": "https://www.youtube.com/watch?v=4zehW8GSas4",
+   "title": "Leverhulme Lectures in Chinese Philosophy, Lecture 4: Doing it Risky — Daoist Philosophy (What is dao?) — Karyn Lai",
+   "presenter": "Karyn Lai (Professor of Philosophy, School of Humanities and Languages, UNSW Sydney; 2023 Leverhulme Visiting Professor, University of Aberdeen; co-editor of Skill and Mastery: Philosophical Stories from the Zhuangzi)",
+   "host": "UNSW Community (official UNSW Sydney channel); lecture presented at the University of Aberdeen, 2023",
+   "duration": "1:06:51",
+   "topic_ids": "DAO-M1",
+   "level": "Foundations",
+   "mission": "deg-wol-daoism",
+   "verification_status": "verified",
+   "gate_evidence": "Watch page opened 2026-10-28 (worker-pplx-daoism-1028a): title, channel UNSW Community, upload date Apr 5 2023, player length 1:06:51, description names the series (2023 Leverhulme Lectures at the University of Aberdeen), the presenter and her title, and the lecture topic (Lecture 4 — What is dao?); transcript indicated. Credentials on the institutional staff page https://www.unsw.edu.au/staff/karyn-lai (opened: Professor of Philosophy; research on the Zhuangzi's stories about mastery, action, knowledge and agency). Transcript read not performed. Pool row 4 (opened in pass 6)."
   }
  },
  "drop_sources": [
