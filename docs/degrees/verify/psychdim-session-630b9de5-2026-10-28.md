@@ -19,3 +19,7 @@ The current Daoism and integration holder retains those files. This session does
 - Check the live owner's routing before duplicating existing verification.
 - Inspect memory, stress/coping and self/health teaching against the finite Walk-of-Life scope.
 - Supply exact instructional locators and evidence limits for the degree owner.
+
+## Completed verification items
+
+- `psychdim-memory-630b9de5-2026-10-28.md`: Yale lecture 8 institutional transcript read in full; two proposed teaching windows, independent credential check, video/transcript boundary discrepancy, and memory-confidence qualification recorded. No assignment or hour credit claimed.
