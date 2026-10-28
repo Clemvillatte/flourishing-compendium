@@ -133,6 +133,18 @@
       }
      ],
      "note": "Two Dewey scholars read Dewey as a philosopher of a way of life. Experience, for Dewey, is the process of growth: you act, something happens, and when the result is not what you wanted, doubt comes up and your habits have to be rebuilt. The talk then asks what the shared, social version of a personal practice would look like. Watch the talk; the open discussion that follows is optional."
+    },
+    {
+     "source_id": "PRAG-D2-11",
+     "section": "optional",
+     "role": "teach",
+     "segments": [
+      {
+       "start": "00:07:52",
+       "end": "00:30:00"
+      }
+     ],
+     "note": "A pragmatist applies Dewey's question about shared problems to everyday unhappiness. Lachs argues that big institutions split one act into parts: some people plan it, others do it, and others live with the results. That leaves people passive, distant from what they do and unwilling to take responsibility. His remedy is openness: tell people what their work is part of, give your reasons and ask what they think, and treat the person in front of you as an individual rather than hiding behind roles and rules. Watch the lecture; the questions afterwards are optional."
     }
    ],
    "activity": "Graded: Dewey's account of reflective inquiry in your own words, the deliberation rehearsal run on a case of your own, the same case with what you observed separated from what you assumed, the comparison of Peirce and Dewey, and the teach-back."
@@ -304,6 +316,20 @@
    "mission": "deg-wol-pragmatism",
    "verification_status": "verified",
    "gate_evidence": "worker-pplx-pragmatism-1028d, 2026-10-28: watch page opened (title, channel IFILNOVA Universidade Nova de Lisboa, uploaded 2023-05-26, length 1:35:09, description: third session of the PWL International Seminar, held 2023-05-10); oEmbed author IFILNOVA Universidade Nova de Lisboa. Seminar page https://pwl.fcsh.unl.pt/pwl-international-seminar-session-3/ (NOVA FCSH 'Mapping Philosophy as a Way of Life' project) opened: abstract and both bios read (Kramer: Associate Professor, Institute of Philosophy, University of Wrocław, specialising in philosophy as a way of life and Classical American Philosophy; Waks: Professor Emeritus of Educational Leadership, Temple University, past president of the John Dewey Society). Transcript markers returned by the page fetch: talk from the start to about 1:02:12 ('I will just leave it here for our discussion'), discussion after; transcript wording is auto-caption, extraction-based, and only excerpts were returned, so the content check is partial. Receipt: docs/degrees/verify/deg-wol-pragmatism-live-content-1028d.md"
+  },
+  "PRAG-D2-11": {
+   "source_id": "PRAG-D2-11",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=exU2cH6bqaY",
+   "canonical_url": "https://www.youtube.com/watch?v=exU2cH6bqaY",
+   "title": "The Cost of Comfort (Thinking Out of the (Lunch) Box, Nashville Public Library)",
+   "presenter": "John Lachs (Vanderbilt University)",
+   "host": "Vanderbilt University (YouTube)",
+   "duration": "1:01:04",
+   "topic_ids": "PRAG-M4",
+   "level": "Foundations",
+   "mission": "deg-wol-pragmatism",
+   "verification_status": "verified",
+   "gate_evidence": "worker-pplx-pragmatism-1028d, 2026-10-28: watch page opened (title 'John Lachs \"The Cost of Comfort\"', channel Vanderbilt University, uploaded 2012-11-08, length 1:01:04; description: Lachs, Centennial Professor of Philosophy at Vanderbilt, on why people feel unhappy despite longer, healthier lives, institutional life shattering 'the natural unity of human acts', and the growth of passivity and resistance to taking responsibility). oEmbed: author Vanderbilt University. Event page https://news.vanderbilt.edu/2012/01/24/thinking-out-of-the-lunch-box/ opened (Thinking Out of the (Lunch) Box, Nashville Public Library, hosted by David Wood). Credentials: Vanderbilt philosophy bio https://as.vanderbilt.edu/philosophy/bio/john-lachs/ (Centennial Professor of Philosophy, Emeritus; Ph.D. Yale) and Vanderbilt obituary https://as.vanderbilt.edu/news/2023/11/29/lachs-centennial-professor-emeritus-and-beloved-instructor-for-a-half-century-has-died/ opened. Content: transcript passages returned by the page fetch (auto-caption, extraction-based, partial): introduction to about 07:52, lecture to about 30:00 (unity of action, psychic distance, 'I only work here', remedy of openness, rules and roles versus 'the humane thing'), moderated questions after. Mission gate: names a source of everyday suffering (passivity, resentment, impotence) and what a person can do about it; ties to m4 Outcome 5 (what discussion does for shared problems). Segment 00:07:52-00:30:00 assigned. Receipt: docs/degrees/verify/deg-wol-pragmatism-live-content-1028d.md"
   }
  },
  "manifest_label_corrections_for_content_lane": [
