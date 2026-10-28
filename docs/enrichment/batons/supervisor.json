@@ -93,5 +93,7 @@
    "from": "worker-pplx-sup-1027b",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-28T14:09:03+00:00"
 }

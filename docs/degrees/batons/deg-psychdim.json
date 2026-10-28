@@ -75,5 +75,7 @@
    "from": "worker-pplx-psychdim-1026p",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-28T14:09:03+00:00"
 }
