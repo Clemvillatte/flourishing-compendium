@@ -75,13 +75,43 @@
      "source_id": "BUD-D2-50",
      "section": "optional",
      "role": "teach",
-     "note": "The three characteristics (impermanence, unsatisfactoriness, not-self) from the early-Buddhism side of the second truth"
+     "note": "Gil Fronsdal on the three characteristics as insights rather than concepts. Listen first to 8:34–21:27 (what seeing change, unsatisfactoriness and not-self each asks of you and gives back: stability, well-being, confidence), then the two question-and-answer stretches — 32:24–35:46 on bringing a changed sense of perception back to family, commitments and decisions, and 43:11–48:22 on telling confidence from stubbornness, with his story of learning to cook at Tassajara. The transcript on the page lets you read along",
+     "level": "Intermediate",
+     "segments": [
+      {
+       "start": "00:08:34",
+       "end": "00:21:27"
+      },
+      {
+       "start": "00:32:24",
+       "end": "00:35:46"
+      },
+      {
+       "start": "00:43:11",
+       "end": "00:48:22"
+      }
+     ]
     },
     {
      "source_id": "BUD-D2-51",
      "section": "optional",
      "role": "teach",
-     "note": "Dependent arising — the second truth’s causal heart, taught by a teacher authorized in both Zen and Vipassana"
+     "note": "Gil Fronsdal on dependent arising as a way of living rather than a list. 9:46–14:22 shows how surroundings shape wanting (his example of suddenly wanting a newer car); 34:11–39:56 is the heart of it — for people who take too much blame, responsibility shifts from forcing outcomes to putting conditions in place (ethics, generosity, kindness, attention) and then getting out of the way, told through the farmer who cannot pull the corn up faster; 58:27 to the end takes questions on a changing friendship. He says plainly that he leaves out the list of twelve links. Transcript on the page",
+     "level": "Intermediate",
+     "segments": [
+      {
+       "start": "00:09:46",
+       "end": "00:14:22"
+      },
+      {
+       "start": "00:34:11",
+       "end": "00:39:56"
+      },
+      {
+       "start": "00:58:27",
+       "end": "01:04:48"
+      }
+     ]
     }
    ]
   },
@@ -297,7 +327,21 @@
      "source_id": "BUD-D2-41",
      "section": "optional",
      "role": "teach",
-     "note": "Nagarjuna’s Middle Way taught in a practice community, class 1 of 5 (July 2007); duration page-stated, audio not played"
+     "note": "Kokyo Henkel opens a five-class study of Nagarjuna's chapter on the self (Green Gulch, July 2007). The three stretches worth your time: 28:29–49:38 (the exact question — an inherently existing self, not the everyday one — and two ways to work with it: letting self-grasping go as it arises, or bringing the assumed self into view and reasoning it through; why this study is not self-absorption); 1:06:06–1:15:46 (keeping the ordinary conventional self while questioning the inherent one, and the warning against denying too much); 1:24:38–1:26:44 (the five aggregates as tools for noticing where we cling, not a model of what exists). The class refers to handouts you will not have, and the opening retells traditional biographies; treat those parts as background. Transcript on the page",
+     "segments": [
+      {
+       "start": "00:28:29",
+       "end": "00:49:38"
+      },
+      {
+       "start": "01:06:06",
+       "end": "01:15:46"
+      },
+      {
+       "start": "01:24:38",
+       "end": "01:26:44"
+      }
+     ]
     },
     {
      "source_id": "BUD-D2-42",
@@ -466,7 +510,7 @@
    "level": "Intermediate",
    "mission": "deg-wol-buddhism",
    "verification_status": "verified",
-   "gate_evidence": "SFZC Recorded Study Classes page (https://www.sfzc.org/offerings/deepening-practice/recorded-study-classes-deepening-practice) fetched and read this session: class titles, teachers and page-stated durations extracted verbatim from the page HTML; audio content not played"
+   "gate_evidence": "SFZC Recorded Study Classes page (https://www.sfzc.org/offerings/deepening-practice/recorded-study-classes-deepening-practice) fetched and read this session: class titles, teachers and page-stated durations extracted verbatim from the page HTML; audio content not played ; 2026-10-28 worker-pplx-buddhism-1028c: SFZC engagewisdom talk page fetched — on-page English transcript with time cues present; passages at the cited cues spot-read this session; verifier receipt verify/buddhism-nagarjuna-class1-05ceabfb-2026-10-28.md consumed (full transcript read by the verifier; recognition errors in technical terms noted, so no exact spoken quotations are attributed); level raised to Intermediate per SFZC's experienced-practitioner framing"
   },
   "BUD-D2-42": {
    "source_id": "BUD-D2-42",
@@ -589,10 +633,10 @@
    "host": "San Francisco Zen Center recorded study classes (free audio archive)",
    "duration": "59:15",
    "topic_ids": "BUD-M2",
-   "level": "Introductory",
+   "level": "Intermediate",
    "mission": "deg-wol-buddhism",
    "verification_status": "verified",
-   "gate_evidence": "SFZC Recorded Study Classes page (https://www.sfzc.org/offerings/deepening-practice/recorded-study-classes-deepening-practice) fetched and read this session — class titles, teachers and page-stated durations extracted verbatim; audio content not played"
+   "gate_evidence": "SFZC Recorded Study Classes page (https://www.sfzc.org/offerings/deepening-practice/recorded-study-classes-deepening-practice) fetched and read this session — class titles, teachers and page-stated durations extracted verbatim; audio content not played ; 2026-10-28 worker-pplx-buddhism-1028c: SFZC engagewisdom talk page fetched — on-page English transcript with time cues present; passages at the cited cues spot-read this session; verifier receipt verify/buddhism-fronsdal-perception-05ceabfb-2026-10-28.md consumed (full transcript read by the verifier; recognition errors in technical terms noted, so no exact spoken quotations are attributed); level raised to Intermediate per SFZC's experienced-practitioner framing"
   },
   "BUD-D2-51": {
    "source_id": "BUD-D2-51",
@@ -603,10 +647,10 @@
    "host": "San Francisco Zen Center recorded study classes (free audio archive)",
    "duration": "1:04:51",
    "topic_ids": "BUD-M2",
-   "level": "Introductory",
+   "level": "Intermediate",
    "mission": "deg-wol-buddhism",
    "verification_status": "verified",
-   "gate_evidence": "SFZC Recorded Study Classes page (https://www.sfzc.org/offerings/deepening-practice/recorded-study-classes-deepening-practice) fetched and read this session — class titles, teachers and page-stated durations extracted verbatim; audio content not played"
+   "gate_evidence": "SFZC Recorded Study Classes page (https://www.sfzc.org/offerings/deepening-practice/recorded-study-classes-deepening-practice) fetched and read this session — class titles, teachers and page-stated durations extracted verbatim; audio content not played ; 2026-10-28 worker-pplx-buddhism-1028c: SFZC engagewisdom talk page fetched — on-page English transcript with time cues present; passages at the cited cues spot-read this session; verifier receipt verify/buddhism-dependent-arising-05ceabfb-2026-10-28.md consumed (full transcript read by the verifier; recognition errors in technical terms noted, so no exact spoken quotations are attributed); level raised to Intermediate per SFZC's experienced-practitioner framing"
   },
   "BUD-D2-52": {
    "source_id": "BUD-D2-52",

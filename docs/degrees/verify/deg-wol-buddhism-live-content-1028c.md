@@ -135,3 +135,24 @@ Mechanics: new_sources records for 37/38/39 removed, `drop_sources` + per-module
 lists added (the apply script otherwise keeps unspecified refs), a `withdrawn_sources_record`
 block keeps the titles/URLs for any later reinstatement. Apply run; node --check OK; audit 0
 defects; measured hours unchanged (the three were optional).
+
+## Item 3 — three verifier transcript receipts consumed into learner-facing locators
+
+Receipts: verify/buddhism-fronsdal-perception-, buddhism-dependent-arising- and
+buddhism-nagarjuna-class1-05ceabfb-2026-10-28.md (full transcript reads by the verifier). I
+fetched each SFZC engagewisdom talk page myself and confirmed the on-page English transcript
+with time cues, spot-reading the passages the new notes point at (BUD-D2-51 34:11 "for people
+who take too much responsibility or too much blame ... where we take responsibility is to put
+in place the conditions"; 36:20 the farmer and the corn; 39:56 "I spared you the list of 12";
+BUD-D2-50 32:24 the question on families and commitments, 46:20 the chopping-carrots story;
+BUD-D2-41 84:38 "not like an ontological statement ... a teaching about liberation", 85:41 the
+aggregates as "tools for showing where we grasp the self"). Transcripts carry recognition
+errors in technical terms, so no exact spoken quotation is attributed to the speakers in the
+learner notes.
+
+Changes: segments (viewing windows) and plain-language notes on the three optional refs;
+level raised Introductory -> Intermediate for BUD-D2-50/51 (the SFZC class list says the
+recordings were selected for experienced practitioners, per the verifier's page read and the
+host line already in the records). Internal caveat ("audio not played") removed from the
+BUD-D2-41 learner note and kept in gate_evidence. Apply run; node --check OK; audit 0 defects.
+Still optional; measured hours unchanged.

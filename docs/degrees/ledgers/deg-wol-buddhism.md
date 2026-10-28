@@ -1568,3 +1568,8 @@ file.
   institutional history) withdrawn from mod-bud-7. BUD-D2-36 (Sharf,
   kōans) retained, content gate open, learner note de-caveated.
   Audit 0 defects. Receipt: verify/deg-wol-buddhism-live-content-1028c.md.
+
+- 2026-10-28 (worker-pplx-buddhism-1028c) - BUD-D2-50/51 (mod-bud-2)
+  and BUD-D2-41 (mod-bud-7) gain viewing windows and reader-facing
+  notes from the verifier's transcript receipts, spot-read on the
+  fetched SFZC transcript pages; level 50/51 -> Intermediate. Audit 0.
