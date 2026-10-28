@@ -1,6 +1,6 @@
 {
  "degree_id": "deg-wol-daoism",
- "built": "2026-10-26 ; +DAO-D2-48..50 added 2026-10-28 by worker-pplx-daoism-1028a (baton deg-wol-daoism; renumbered from 45-47 after the supervisor 1028b slide additions took those ids) ; +DAO-D2-51 (Lai Lecture 5 -> m5) and practice-note polish 2026-10-28 worker-pplx-daoism-1028a",
+ "built": "2026-10-26 ; +DAO-D2-48..50 added 2026-10-28 by worker-pplx-daoism-1028a (baton deg-wol-daoism; renumbered from 45-47 after the supervisor 1028b slide additions took those ids) ; +DAO-D2-51 (Lai Lecture 5 -> m5) and practice-note polish 2026-10-28 worker-pplx-daoism-1028a ; +DAO-D2-52 (Moeller -> m1) +DAO-D2-53 (Slingerland -> m2) 2026-10-28 worker-pplx-daoism-1028a",
  "built_by": "worker-pplx-degfixschema-1026b (baton deg-fix-schema)",
  "provenance": "Windows and spans transcribed from deg-wol-daoism-manifest.json and the module docs (m1 to m5); nothing here is invented.",
  "modules": {
@@ -94,6 +94,18 @@
      "section": "optional",
      "role": "teach",
      "note": "A full scholarly lecture on the walk's root word: what dao is, taught by a leading Zhuangzi scholar whose frame is agency and mastery in a changing life — hear it after the orientation videos, before Module II"
+    },
+    {
+     "source_id": "DAO-D2-52",
+     "section": "optional",
+     "role": "teach",
+     "segments": [
+      {
+       "start": "0:00:00",
+       "end": "0:52:36"
+      }
+     ],
+     "note": "Moeller’s lecture proper (the Q&A that follows is extra): what Daoist philosophy is for — the Daoist approach to order, the Zhuangzi’s counter-narrative to the demand for sincerity, and his reading of ease and ‘genuine pretending’ as a way of carrying one’s roles lightly"
     }
    ],
    "activity": "Graded, in four parts: the four-terms reflection (200-400 words), a five-part guided reading of one Daodejing chapter (150-250 words), a two-texts passage location (150-300 words), and the scope statement naming coverage, exclusions with their owners and the admission test (150-250 words)."
@@ -136,6 +148,12 @@
      "section": "optional",
      "role": "teach",
      "note": "Optional study aid: a university short-course slide set on the Daodejing — the dao as a way of living one’s life, the uncarved wood and non-action, selected chapters to read, and discussion questions"
+    },
+    {
+     "source_id": "DAO-D2-53",
+     "section": "optional",
+     "role": "teach",
+     "note": "Slingerland on wu wei as effortless action and the paradox of trying not to try — the practice idea behind the Daodejing chapters you read here, with the cognitive science that makes it credible today; a bridge to the skill stories of Module III"
     }
    ],
    "activity": "Graded, in three parts: the contrast-application reflection on a case where you are forcing something (200-400 words), the comparison of the two accounts of chapter 28 (100-200 words), and the five-part reading of chapter 16 or 44 without demonstration (150-250 words)."
@@ -541,6 +559,34 @@
    "mission": "deg-wol-daoism",
    "verification_status": "verified",
    "gate_evidence": "Watch page opened 2026-10-28 (worker-pplx-daoism-1028a): title, channel UNSW Community, upload date Apr 5 2023, player length 52:58, description: 'Lecture 5 - How can the Zhuangzi help us think about \"dis-ability\"?'; transcript indicated. The series introduction page (https://www.youtube.com/watch?v=vK_Znjz3HUE, 1:24, same channel) frames the five lectures around 'How did Chinese philosophers think about a flourishing life?' and 'agency, disability, and freedom; and reflect on their relevance to us today' (search-surfaced description, not separately opened). Credentials on the institutional staff page https://www.unsw.edu.au/staff/karyn-lai (opened this session). Transcript read not performed."
+  },
+  "DAO-D2-52": {
+   "source_id": "DAO-D2-52",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=3l6878MXLaw",
+   "canonical_url": "https://www.youtube.com/watch?v=3l6878MXLaw",
+   "title": "What is Daoist Philosophy? The History and Critical Relevance of Daoist Ideas — Hans-Georg Moeller (lecture)",
+   "presenter": "Hans-Georg Moeller (Full Professor, Department of Philosophy and Religious Studies, University of Macau; author of The Philosophy of the Daodejing, Daodejing: A Complete Translation and Commentary, and Genuine Pretending: On the Philosophy of the Zhuangzi)",
+   "host": "Carefree Wandering (the professor's own philosophy channel); an online lecture recorded for a university audience, posted 2022-07-06",
+   "duration": "1:51:53",
+   "topic_ids": "DAO-M1",
+   "level": "Foundations",
+   "mission": "deg-wol-daoism",
+   "verification_status": "verified",
+   "gate_evidence": "Watch page opened 2026-10-28 (worker-pplx-daoism-1028a): title, channel Carefree Wandering, upload date Jul 6 2022, player length 1:51:53, description ('A lecture on Daoist Philosophy by Professor Moeller' + bio line: professor at the Philosophy and Religious Studies Department, University of Macau), chapter list on the page: Introduction 0:00, Order in philosophy 2:38, Daoist approach to order 5:57, Confucian master narrative 9:33, The regime of sincerity 15:34, Zhuangzi's counter narrative 20:54, The story of Gangster Zhi 23:54, Critique of domestication 29:52, The story of Hundun 36:33, Achieving ease 40:23, Genuine pretending 47:48, Q&A session 52:36; transcript indicated. A search-surfaced transcript opening (not read in full) has the speaker say the recording is of a lecture presented at East China Normal University, Shanghai. Credentials on the institutional page https://fah.um.edu.mo/hans-georg-moeller/ (opened: research focus Chinese and Comparative Philosophy, specifically Daoism; book list) and the FAH staff list (Full Professor). oEmbed confirms title + channel. Transcript read not performed."
+  },
+  "DAO-D2-53": {
+   "source_id": "DAO-D2-53",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=_y7TKr0t0PU",
+   "canonical_url": "https://www.youtube.com/watch?v=_y7TKr0t0PU",
+   "title": "Trying Not to Try: Creativity, Trust and the Paradox of Spontaneity (wu-wei) — Edward Slingerland",
+   "presenter": "Edward Slingerland (Professor of Philosophy and Director of the Database of Religious History, University of British Columbia; at the time of the talk Professor of Asian Studies and Canada Research Chair in Chinese Thought and Embodied Cognition, UBC; PhD Stanford; author of Effortless Action and Trying Not to Try)",
+   "host": "Talks at Google (official channel) — CASBS Stanford fellows series, posted 2017-03-20; a public lecture venue, not a university course",
+   "duration": "0:55:01",
+   "topic_ids": "DAO-M2",
+   "level": "Intermediate",
+   "mission": "deg-wol-daoism",
+   "verification_status": "verified",
+   "gate_evidence": "Watch page opened 2026-10-28 (worker-pplx-daoism-1028a): title, channel Talks at Google, upload date Mar 20 2017, player length 55:01, full description (CASBS fellows series; speaker's UBC appointments and books; talk topic 'Creativity, Trust and the Paradox of Spontaneity' drawing on Trying Not to Try); transcript indicated. Credentials on the institutional page https://philosophy.ubc.ca/profile/edward-slingerland-iii/ (opened: Professor, Director of the Database of Religious History, PhD Stanford, research on Warring States Chinese thought, ethics, moral psychology). oEmbed confirms title + channel. Transcript read not performed."
   }
  },
  "drop_sources": [
