@@ -2,7 +2,7 @@
  "baton": "deg-integrate",
  "agent": "worker-pplx-pragmatism-1028d",
  "clocked_in": "2026-10-28T14:40:40+00:00",
- "released": false,
+ "released": true,
  "takeovers": [
   {
    "by": "worker-pplx-integrate-1",
@@ -46,5 +46,6 @@
    "from": "worker-pplx-daoism-1028a",
    "reason": "released"
   }
- ]
+ ],
+ "released_at": "2026-10-28T14:42:46+00:00"
 }
