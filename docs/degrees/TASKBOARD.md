@@ -11,8 +11,12 @@ Entry 43 now also has a scoped transcript receipt:
 `verify/psychdim-reasoning-05ceabfb-2026-10-28.md`.
 Both official-linked watch pages supplied transcripts; teaching passages
 are located, and a conditional-logic wording inconsistency is flagged
-before assignment. Next verification item: Fredrickson's Yale interview
-behind pool entry 40.
+before assignment. Entry 40 now has a separate teaching-candidate receipt:
+`verify/psychdim-broaden-build-05ceabfb-2026-10-28.md`.
+A Penn State instructional chapter is source-read, with original-study
+checks identifying protocol-duration and causal-sequence cautions.
+The Yale transcript remains unavailable; chapter-family acceptance and
+assignment decisions stay with the degree owner.
 
 ## 2026-10-26 DEGREES ARCHITECTURE WAVE (owner rulings — READ FIRST)
 
