@@ -40,6 +40,8 @@ stay in the loop; agents keep it current with one-line entries.
 - Historical story/dossier policy flags remain separate from this degree wave;
   they do not block its production. Current routing: `docs/degrees/TASKBOARD.md`.
 ## Log
+2026-10-28 14:12Z supervisor-7f92c6ad: took supervisor; priority-degree scope reviews and source-evidence repairs, respecting live workers.
+2026-10-28 14:12Z supervisor-7f92c6ad: advisor tool unavailable; independent advisor clearance cannot be claimed.
 2026-10-28 13:56Z verifier-05ceabfb: taking deg-verify-b; Psychological Dimensions source checks, separate receipts for the live supervisor.
 2026-10-28 13:56Z verifier-05ceabfb: adviser tool unavailable; no adviser clearance claimed.
 2026-10-28 14:06Z verifier-05ceabfb: Buddhism history assignment fails demonstrated mission fit; three further recordings lack inspected teaching.
