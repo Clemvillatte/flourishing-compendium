@@ -128,7 +128,7 @@ Hours below are the module docs' own workload totals (estimated active workload,
 | Ego depletion & self-control evidence | m7 doc | mod-pd-7 | mod-pd-7 | covered |
 | Health behavior models | Macalester (generic label) | NO VERIFIED COVERAGE | mod-pd-16 (new) | the behavior-change science layer |
 | Behavior change in practice (sleep, nutrition, exercise, smoking) | Macalester | NO VERIFIED COVERAGE | mod-pd-16 | |
-| Stress, coping & resilience | Macalester | NO VERIFIED COVERAGE | mod-pd-16 | |
+| Stress, coping & resilience | Macalester | PARTIAL — Bonanno Columbia keynote content-located with two verified teaching windows (pool entry 70, `PD-D2-70`, live m2 optional); no dedicated course carrier yet | mod-pd-16 | |
 | Self-regulation & conscientiousness | Rutgers M5 | PARTIAL — m2's regulation strand is adjacent; no conscientiousness treatment | mod-pd-16 | |
 | Six-lens integration capstone | degree m8 | mod-pd-8, 375 min | mod-pd-8 (rebuild) | passes floor |
 | Emotional intelligence; emotions as moral amplifiers | Rutgers M6 | NO VERIFIED COVERAGE (grep-verified: no EI treatment in any module) | mod-pd-2 extension or mod-pd-11 | D2 grouping call |

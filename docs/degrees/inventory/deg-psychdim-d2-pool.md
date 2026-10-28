@@ -208,3 +208,50 @@ Hours note [QC round 2, 2026-10-27]: final WebVTT caption cues for entry 52 (NPT
     mental-contrasting/planning row remains PARTIAL. Source-family
     decision, archive hashes and recent mixed evidence are recorded
     in `reviews/deg-psychdim-woop-source-review-7f92c6ad.md`.
+
+## Supervisor cut-point resolution, 2026-10-28 (supervisor-pplx-1028e)
+
+70. **George A. Bonanno, "The Resilience Paradox" (Teachers College,
+    Columbia University keynote)** —
+    [recording](https://www.youtube.com/watch?v=_Lp5Q4w-_DU) (34:44,
+    page-stated; uploaded 2025-10-30). PAGE-VERIFIED this session by
+    the supervisor: the watch page was opened (title, channel "Teachers
+    College, Columbia University", 34:44, upload date, description,
+    chapter markers); the [TC newsroom
+    page](https://www.tc.columbia.edu/newsroom/?id=7961) independently
+    embeds this recording (fetched this session); Bonanno's [faculty
+    profile](https://www.tc.columbia.edu/faculty/gab38/) confirms
+    Professor of Clinical Psychology, Ph.D. Yale University, with
+    flexible self-regulation among his stated scholarly interests. The
+    full timed transcript was read by verifier-630b9de5
+    (`verify/psychdim-resilience-630b9de5-2026-10-28.md`), whose cue
+    anchors define the two teaching windows; the supervisor's transcript
+    routes (innertube, timedtext, transcript mirror) were blocked this
+    session, so cue-level wording rests on that receipt, cross-checked
+    at page level against the chapter markers (Axioms of resilience
+    1:39; Evidence and prevalence 7:15; Debunking resilience traits
+    9:24; Adaptation and evolutionary context 12:49; Flexible
+    self-regulation 22:55; Q&A 29:05). CUT-POINT DECISION (resolving
+    the 1028d supervisor flag): adopt the verifier's two windows —
+    01:37–14:39 (the three claims, the outcome-based definition, the
+    trajectory evidence, the trait-prediction critique) and 20:09–28:22
+    (the return to human behaviour, the handsaw/chainsaw example from
+    21:46, the flexibility sequence and summary) — 21:15 of selected
+    teaching; the omitted middle (animal examples, Darwin anecdote)
+    and the post-28:22 acknowledgments and Q&A are unassigned. Teaching
+    role: optional/teach in live mod-pd-2 (affective), whose Regulation
+    and Flexibility outcomes (justify a regulation choice by goal,
+    timing and circumstances; compare a rigid rule with a
+    context-sensitive plan) the lecture teaches directly — Bonanno's
+    flexibility sequence is the research tradition behind
+    context-sensitive regulation; the designed home mod-pd-7
+    (overt-behavioural) sits at the 15-source navigability cap, so the
+    attachment routes to M2 and the D1 row keeps pointing at
+    mod-pd-16. Integrated as `PD-D2-70` (M2 optionalMedia, two
+    segments). Evidence limits carried from the receipt: Bonanno's
+    definition is his research programme's operational definition;
+    population-level findings are not predictions about a learner; the
+    flexibility pathway is proposed, not guaranteed. No D2 row
+    promotion or gate clearance; the two selected windows (21:15) are
+    the assigned span, and the degree's measured real-instruction line
+    is unchanged by this optional item.

@@ -1,7 +1,8 @@
 {
  "baton": "deg-integrate",
- "agent": "worker-pplx-pragmatism-1028d",
- "clocked_in": "2026-10-28T14:40:40+00:00",
+ "agent": "worker-pplx-resume-1028e",
+ "clocked_in": "2026-10-28T23:29:27+00:00",
+ "released": false,
  "takeovers": [
   {
    "by": "supervisor-pplx-1026e",
@@ -32,8 +33,12 @@
    "at": "2026-10-28T14:26:09+00:00",
    "from": "worker-pplx-degintegrate-1026a",
    "reason": "stale (3010 min)"
+  },
+  {
+   "by": "worker-pplx-resume-1028e",
+   "at": "2026-10-28T23:29:27+00:00",
+   "from": "worker-pplx-pragmatism-1028d",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-28T14:42:46+00:00"
+ ]
 }

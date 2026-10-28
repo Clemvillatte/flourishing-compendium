@@ -158,6 +158,23 @@
      "section": "optional",
      "role": "teach",
      "note": "Lec 9 — envy and jealousy: the social-comparison emotions"
+    },
+    {
+     "source_id": "PD-D2-70",
+     "section": "optional",
+     "role": "teach",
+     "level": "Intermediate",
+     "segments": [
+      {
+       "start": "01:37",
+       "end": "14:39"
+      },
+      {
+       "start": "20:09",
+       "end": "28:22"
+      }
+     ],
+     "note": "Two windows from a Columbia keynote. First: how most people stay steady through adversity, why trait tests miss this, and what the trajectories look like. Second: the handsaw and chainsaw example, then the sequence of attending to the situation, choosing a response and checking whether it helps. The animal examples in between and the closing questions are left out."
     }
    ]
   },
@@ -589,6 +606,9 @@
      "role": "teach",
      "note": "Lec 22 — mindfulness-based emotion regulation"
     }
+   ],
+   "remove": [
+    "PD-D2-70"
    ]
   },
   "mod-pd-8": {
@@ -912,6 +932,20 @@
    "mission": "deg-psychdim",
    "verification_status": "verified",
    "gate_evidence": "2026-10-28: independent practice-page receipt by verifier-05ceabfb in verify/psychdim-woop-mcii-05ceabfb-2026-10-28.md; source-family and exact-kit review by supervisor-7f92c6ad in reviews/deg-psychdim-woop-source-review-7f92c6ad.md. No D2 row promotion or full-degree clearance; no hours credited."
+  },
+  "PD-D2-70": {
+   "source_id": "PD-D2-70",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=_Lp5Q4w-_DU",
+   "canonical_url": "https://www.youtube.com/watch?v=_Lp5Q4w-_DU",
+   "title": "The Resilience Paradox (Columbia keynote): resilience, trajectories and flexible self-regulation",
+   "presenter": "George A. Bonanno",
+   "host": "YouTube (Teachers College, Columbia University)",
+   "duration": "34:44",
+   "topic_ids": "PD-M2",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "2026-10-28: full timed-transcript read with cue anchors by verifier-630b9de5 (verify/psychdim-resilience-630b9de5-2026-10-28.md); supervisor-pplx-1028e re-opened the watch page (title, channel, 34:44, upload 2025-10-30, chapter markers), the TC newsroom embed and Bonanno's TC faculty profile, and resolved the cut-point flag by adopting the verifier's two windows cross-checked against page chapters. Optional/teach in live M7; seeds the D1 stress/coping/resilience row; no D2 row promotion, no whole-degree or gate clearance; hours credited only for the two selected windows."
   }
  }
 }
