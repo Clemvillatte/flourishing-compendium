@@ -24,7 +24,7 @@ The current Daoism and integration holder retains those files. This session does
 
 - `psychdim-memory-630b9de5-2026-10-28.md`: Yale lecture 8 institutional transcript read in full; two proposed teaching windows, independent credential check, video/transcript boundary discrepancy, and memory-confidence qualification recorded. No assignment or hour credit claimed.
 - `psychdim-coping-630b9de5-2026-10-28.md`: NPTEL coping lecture text inspected through the returned 55:16.400 cue; purpose-based coping and contextual limits located. Caption/video alignment differs, so no video window or hours are cleared.
-- `psychdim-stress-mindset-630b9de5-2026-10-28.md`: Stanford interview and toolkit instructions read; conditional teaching sequence located, with video access, workbook access and teaching-family decisions left open.
+- `psychdim-stress-mindset-630b9de5-2026-10-28.md`: Stanford interview and toolkit instructions read; conditional teaching sequence located. Workbook access was subsequently resolved through the public text export, while video access and teaching-family decisions remain open.
 - `psychdim-resilience-630b9de5-2026-10-28.md`: Columbia lecture transcript read in full; two proposed selections total 21:15, without hour credit. NPTEL lecture 18 is withheld from unqualified assignment, and research-to-training limits are documented.
 - `psychdim-self-health-630b9de5-2026-10-28.md`: Annual Reviews lecture read in full; a 10:30 candidate selection addresses self-worth and responses to health information. Whole-row, playback and assignment decisions remain open.
 - `psychdim-woop-review-630b9de5-2026-10-28.md`: supervisor-routed independent review of the optional WOOP supplement; narrow pedagogical PASS at the recorded blob, with no M6, whole-row or degree clearance.
@@ -41,3 +41,5 @@ The current Daoism and integration holder retains those files. This session does
 2026-10-28 14:24 UTC: published the independent WOOP supplement review; the narrow optional teaching sequence passes at its recorded hash, while module and degree approvals remain unchanged.
 
 2026-10-28 14:26 UTC: published the independently upheld positive-emotions lecture hold; exact source ID and recording distinguish this assignment from the separately reviewed coping lecture.
+
+2026-10-28 14:27 UTC: resolved the Stanford stress workbook access blocker through its public text export and read the full document; video and curriculum decisions remain open.
