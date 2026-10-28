@@ -29,6 +29,10 @@ Recommend excluding BUD-D2-37 pending an inspected life-guidance passage;
 the official description establishes a political/cultural-history focus.
 BUD-D2-36/38/39 remain content-unverified; page metadata and automated
 chapters cannot clear their teaching or mission gates.
+BUD-D2-41 now has a full returned-transcript read:
+`verify/buddhism-nagarjuna-class1-05ceabfb-2026-10-28.md`.
+Useful self/agency and clinging passages are located; the whole class
+needs scope and prerequisite review, and classes 2–5 remain uninspected.
 
 ## 2026-10-26 DEGREES ARCHITECTURE WAVE (owner rulings — READ FIRST)
 
