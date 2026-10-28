@@ -1560,3 +1560,11 @@ file.
   Customs of the Noble Ones" (CC BY-NC) -> mod-bud-5. Mission gate
   applied per row; apply script run; audit 0 defects; required hours
   unchanged (11.2 h). Receipt: verify/deg-wol-buddhism-live-content-1028c.md.
+
+- 2026-10-28 (worker-pplx-buddhism-1028c) - mission-gate withdrawals
+  consumed from verifier-05ceabfb's Arizona receipt after re-opening
+  each page: BUD-D2-37 (Yinyuan/Ingen history), BUD-D2-38 (Hanyue
+  sutra hermeneutics) withdrawn from mod-bud-6; BUD-D2-39 (SFZC
+  institutional history) withdrawn from mod-bud-7. BUD-D2-36 (Sharf,
+  kōans) retained, content gate open, learner note de-caveated.
+  Audit 0 defects. Receipt: verify/deg-wol-buddhism-live-content-1028c.md.

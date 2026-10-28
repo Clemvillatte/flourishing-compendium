@@ -1,6 +1,6 @@
 {
  "degree_id": "deg-wol-buddhism",
- "built": "2026-10-26",
+ "built": "2026-10-26 ; +BUD-D2-56/57/58 (three optional readings) and BUD-D2-37/38/39 withdrawn under the mission gate 2026-10-28 worker-pplx-buddhism-1028c",
  "built_by": "worker-pplx-degfixschema-1026b (baton deg-fix-schema)",
  "provenance": "Windows, word counts and viewing stops transcribed from deg-wol-buddhism-manifest.json and the module docs b1 to b9 (the files own measured values); BUD-B7-03 moved to optional because the b7 doc marks the Class 1 recording OPTIONAL. Nothing here is invented.",
  "modules": {
@@ -214,19 +214,7 @@
      "source_id": "BUD-D2-36",
      "section": "optional",
      "role": "teach",
-     "note": "Scholarly lecture on kōan practice — pairs with the module’s koan-practice outcome; video page verified, playback not inspected"
-    },
-    {
-     "source_id": "BUD-D2-37",
-     "section": "optional",
-     "role": "teach",
-     "note": "Chan/Zen history lecture (Yinyuan/Ōbaku line, global East Asia)"
-    },
-    {
-     "source_id": "BUD-D2-38",
-     "section": "optional",
-     "role": "teach",
-     "note": "Chan master’s relation to sutra teachings in the Ming — deepens the inheritance theme"
+     "note": "Robert Sharf, a historian of Chan and Zen, on how kōans are meant to be thought through — a scholar's companion to the module's kōan-practice outcome"
     },
     {
      "source_id": "BUD-D2-49",
@@ -270,6 +258,10 @@
      "role": "teach",
      "note": "The five ranks, class 2 of 2"
     }
+   ],
+   "remove": [
+    "BUD-D2-37",
+    "BUD-D2-38"
    ]
   },
   "mod-bud-7": {
@@ -294,12 +286,6 @@
      "section": "optional",
      "role": "teach",
      "note": "Yogacara/Madhyamaka — Garfield teaching Vasubandhu verse-by-verse"
-    },
-    {
-     "source_id": "BUD-D2-39",
-     "section": "optional",
-     "role": "teach",
-     "note": "Zen in America from inside SFZC — fits the Buddhism-rewritten-for-the-West theme"
     },
     {
      "source_id": "BUD-D2-40",
@@ -343,6 +329,9 @@
      "role": "teach",
      "note": "Companion lecture to the emptiness PDF already assigned — the two truths in detail; PDF is the verified carrier"
     }
+   ],
+   "remove": [
+    "BUD-D2-39"
    ]
   },
   "mod-bud-8": {
@@ -448,50 +437,8 @@
    "level": "Intermediate",
    "mission": "deg-wol-buddhism",
    "verification_status": "verified",
-   "gate_evidence": "docs/degrees/inventory/deg-wol-buddhism-d2-pool.md entry BUD-TEACH-17 (each video page opened; titles, durations verified)",
+   "gate_evidence": "docs/degrees/inventory/deg-wol-buddhism-d2-pool.md entry BUD-TEACH-17 (each video page opened; titles, durations verified); 2026-10-28 worker-pplx-buddhism-1028c: watch page re-opened (title, channel UArizona Center for Buddhist Studies, 1:04:05; description is the commemorative-series blurb; no transcript or chapter list returned) — RETAINED under the mission gate on the title's practice focus, content gate still OPEN: no inspected passage; verifier-05ceabfb hold noted; learner note no longer carries the internal caveat",
    "source_id": "BUD-D2-36"
-  },
-  "BUD-D2-37": {
-   "youtube_id_or_url": "https://www.youtube.com/watch?v=dv1yjQFesjw",
-   "canonical_url": "https://www.youtube.com/watch?v=dv1yjQFesjw",
-   "title": "Jiang Wu — Chinese Zen Master Yinyuan/Ingen in Global East Asia (UArizona CBS lecture)",
-   "presenter": "Jiang Wu (Director, Center for Buddhist Studies, University of Arizona)",
-   "host": "University of Arizona Center for Buddhist Studies",
-   "duration": "43:37",
-   "topic_ids": "BUD-M6",
-   "level": "Intermediate",
-   "mission": "deg-wol-buddhism",
-   "verification_status": "verified",
-   "gate_evidence": "docs/degrees/inventory/deg-wol-buddhism-d2-pool.md entry BUD-TEACH-17 (each video page opened; titles, durations verified)",
-   "source_id": "BUD-D2-37"
-  },
-  "BUD-D2-38": {
-   "youtube_id_or_url": "https://www.youtube.com/watch?v=_GZGBR19ztA",
-   "canonical_url": "https://www.youtube.com/watch?v=_GZGBR19ztA",
-   "title": "Yi-Hsun Huang — Chan Master Hanyue’s Attitude Toward Sutra Teachings in the Ming (UArizona CBS lecture)",
-   "presenter": "Yi-Hsun Huang (Department of Buddhist Studies, Fo Guang University, Taiwan)",
-   "host": "University of Arizona Center for Buddhist Studies",
-   "duration": "33:53",
-   "topic_ids": "BUD-M6",
-   "level": "Intermediate",
-   "mission": "deg-wol-buddhism",
-   "verification_status": "verified",
-   "gate_evidence": "docs/degrees/inventory/deg-wol-buddhism-d2-pool.md entry BUD-TEACH-17 (each video page opened; titles, durations verified)",
-   "source_id": "BUD-D2-38"
-  },
-  "BUD-D2-39": {
-   "youtube_id_or_url": "https://www.youtube.com/watch?v=8kXSRv_Xu3E",
-   "canonical_url": "https://www.youtube.com/watch?v=8kXSRv_Xu3E",
-   "title": "Norman Fischer — San Francisco Zen Center and American Buddhism (UArizona CBS lecture)",
-   "presenter": "Zoketsu Norman Fischer (San Francisco Zen Center)",
-   "host": "University of Arizona Center for Buddhist Studies",
-   "duration": "49:44",
-   "topic_ids": "BUD-M7",
-   "level": "Intermediate",
-   "mission": "deg-wol-buddhism",
-   "verification_status": "verified",
-   "gate_evidence": "docs/degrees/inventory/deg-wol-buddhism-d2-pool.md entry BUD-TEACH-17 (each video page opened; titles, durations verified)",
-   "source_id": "BUD-D2-39"
   },
   "BUD-D2-40": {
    "youtube_id_or_url": "https://ordinarymind.com.au/wp-content/uploads/12.05.24-NAGARJUNA-CONTINUED-1.pdf",
@@ -761,6 +708,31 @@
    "verification_status": "verified",
    "gate_evidence": "docs/degrees/verify/deg-wol-buddhism-live-content-1028c.md (essay fetched and read in full this session, ~2,950 words; author credentials from https://www.watmetta.org/about and https://www.dhammatalks.org/)",
    "locator": "The whole essay (~2,950 words). Hold on to three passages for the module question: the opening list of the qualities of mind the Dhamma's \"home culture\" asks for; the \"warrior knowledge\" passage on testing a teaching in practice (with the Buddha's criterion to his aunt); and the closing paragraphs on reshaping oneself rather than the teaching"
+  }
+ },
+ "drop_sources": [
+  "BUD-D2-37",
+  "BUD-D2-38",
+  "BUD-D2-39"
+ ],
+ "withdrawn_sources_record": {
+  "BUD-D2-37": {
+   "title": "Jiang Wu — Chinese Zen Master Yinyuan/Ingen in Global East Asia (UArizona CBS lecture)",
+   "url": "https://www.youtube.com/watch?v=dv1yjQFesjw",
+   "duration": "43:37",
+   "withdrawn": "2026-10-28 worker-pplx-buddhism-1028c — mission gate (owner ruling 2026-10-27): event page / description / auto-chapters establish a historical, institutional or textual-history focus with no inspected life-guidance passage; verifier-05ceabfb receipt verify/buddhism-arizona-scope-05ceabfb-2026-10-28.md; may be reinstated only with an inspected teaching passage tied to a module outcome"
+  },
+  "BUD-D2-38": {
+   "title": "Yi-Hsun Huang — Chan Master Hanyue’s Attitude Toward Sutra Teachings in the Ming (UArizona CBS lecture)",
+   "url": "https://www.youtube.com/watch?v=_GZGBR19ztA",
+   "duration": "33:53",
+   "withdrawn": "2026-10-28 worker-pplx-buddhism-1028c — mission gate (owner ruling 2026-10-27): event page / description / auto-chapters establish a historical, institutional or textual-history focus with no inspected life-guidance passage; verifier-05ceabfb receipt verify/buddhism-arizona-scope-05ceabfb-2026-10-28.md; may be reinstated only with an inspected teaching passage tied to a module outcome"
+  },
+  "BUD-D2-39": {
+   "title": "Norman Fischer — San Francisco Zen Center and American Buddhism (UArizona CBS lecture)",
+   "url": "https://www.youtube.com/watch?v=8kXSRv_Xu3E",
+   "duration": "49:44",
+   "withdrawn": "2026-10-28 worker-pplx-buddhism-1028c — mission gate (owner ruling 2026-10-27): event page / description / auto-chapters establish a historical, institutional or textual-history focus with no inspected life-guidance passage; verifier-05ceabfb receipt verify/buddhism-arizona-scope-05ceabfb-2026-10-28.md; may be reinstated only with an inspected teaching passage tied to a module outcome"
   }
  }
 }

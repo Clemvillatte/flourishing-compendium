@@ -118,3 +118,20 @@ as context.
 - Verifier receipts from verifier-05ceabfb (TASKBOARD 13:57Z) still await degree-owner action:
   BUD-D2-37 (Jiang Wu, Yinyuan/Ingen) recommended for exclusion under the mission gate —
   taken up as the next item in this lane.
+
+## Item 2 — mission-gate withdrawals (verifier receipt consumed)
+
+Verifier receipt: verify/buddhism-arizona-scope-05ceabfb-2026-10-28.md. Degree-owner
+decision after re-opening each page myself:
+
+| ID | What the page establishes | Decision |
+|---|---|---|
+| BUD-D2-37 Jiang Wu, "Chinese Zen Master Yinyuan/Ingen in Global East Asia" (43:37) | UArizona CBS event page (fetched): the talk "tells the story of the tremendous obstacles faced by Yinyuan, drawing parallels between his experiences and the broader political and cultural context"; developments named are "the Ming-Qing dynastic transition in China, the consolidation of early Tokugawa power in Japan, the growth of Nagasaki trade, and rising Japanese interests in Chinese learning and artistic pursuits"; the series "highlight[s] the intersection between religion, art, and culture". | WITHDRAWN from mod-bud-6 — cultural and institutional history, no life-guidance passage (owner mission gate 2026-10-27: such rows are cut). |
+| BUD-D2-38 Yi-Hsun Huang, "Chan Master Hanyue's Attitude Toward Sutra Teachings" (33:53) | Watch page (fetched): "introduces Chan Master Hanyue's (1573–1635) attitude toward sūtra teachings in the late Ming by using a rare book"; auto key moments: "the role of sutra teachings in Chan Buddhism" 13:21, "Hanyue's guideline for using sutra teachings" 19:56; no transcript returned. | WITHDRAWN from mod-bud-6 — textual history of one Ming master's hermeneutics; no inspected life-guidance passage; when in doubt, exclude. |
+| BUD-D2-39 Norman Fischer, "San Francisco Zen Center and American Buddhism" (49:44) | Watch page (fetched): description is event context plus Fischer's biography; auto-generated chapters: "The start of zen center" 9:25, "Cultural shifts" 15:01, "Growth and influence" 25:15, "Leadership transition" 27:30, "Crisis and recovery" 30:36, "Memories of Suzuki" 39:13, "Modern zen" 45:21; no transcript returned. | WITHDRAWN from mod-bud-7 — institutional history of one centre; the module's "rewritten for the West" theme is topical fit only, which the owner ruled does not qualify. |
+| BUD-D2-36 Robert Sharf, "Thinking Through Zen Kōans" (1:04:05) | Watch page (fetched): title and duration confirmed; description is the commemorative-series blurb; no chapter list or transcript returned. | RETAINED as optional in mod-bud-6: the title names a practice the module teaches (kōan practice outcome). Content gate stays OPEN in gate_evidence; the learner note no longer carries the internal "playback not inspected" caveat (1028b flag). If no transcript or playback read lands, the next owner should consider withdrawing it under the same rule. |
+
+Mechanics: new_sources records for 37/38/39 removed, `drop_sources` + per-module `remove`
+lists added (the apply script otherwise keeps unspecified refs), a `withdrawn_sources_record`
+block keeps the titles/URLs for any later reinstatement. Apply run; node --check OK; audit 0
+defects; measured hours unchanged (the three were optional).
