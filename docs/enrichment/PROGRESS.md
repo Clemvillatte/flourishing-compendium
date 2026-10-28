@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-26 10:17 UTC (input revision `0106f95d1`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 11:17 UTC.
+As of 2026-10-28 14:11 UTC (input revision `b9f46cf1f`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 15:11 UTC.
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -54,8 +54,8 @@ Kernel pages live in `content/kernels/`; thinker pages in `content/thinkers/`. R
 | SP — Spinozism Principles | 96 | 96 | 100.0% |
 | AF — Affect | 84 | 84 | 100.0% |
 | CO — Cognition | 83 | 83 | 100.0% |
-| SE — Self | 82 | 82 | 100.0% |
 | PP — Positive Psychology and Wellbeing Science | 82 | 82 | 100.0% |
+| SE — Self | 82 | 82 | 100.0% |
 | AT — Attention | 78 | 78 | 100.0% |
 | BE — Overt Behavior | 78 | 78 | 100.0% |
 | MO — Motivation | 76 | 76 | 100.0% |

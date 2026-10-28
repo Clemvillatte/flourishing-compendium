@@ -66,7 +66,10 @@ def clock_in(baton, agent):
     if st is None or st.get('released') or st.get('agent') is None:
         prev = (st or {}).get('agent')
         reason = 'free' if st is None else ('released' if st.get('released') else 'free')
-        st = {"baton": baton, "agent": agent, "clocked_in": iso(), "takeovers": st.get('takeovers', []) if st else []}
+        # A held state must be explicit: a concurrent upstream release must not
+        # silently remain effective when this claim is rebased.
+        st = {"baton": baton, "agent": agent, "clocked_in": iso(), "released": False,
+              "takeovers": st.get('takeovers', []) if st else []}
         st['takeovers'].append({"by": agent, "at": iso(), "from": prev, "reason": reason})
         local_write(baton, st)
         print(f'CLAIMED {baton} baton (was {reason}). Now push: scripts/enrich_save.sh "baton: {agent} claims {baton}"')
