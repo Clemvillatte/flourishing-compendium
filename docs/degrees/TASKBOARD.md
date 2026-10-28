@@ -1,3 +1,15 @@
+## Verification routing, 2026-10-28 13:57 UTC
+
+`verifier-05ceabfb` holds `deg-verify-b` and writes separate verification
+receipts; the live `deg-psychdim` owner retains the pool and module files.
+The WOOP/MCII terminology blocker in pool entry 63 is resolved by two
+opened first-person explanations, with independent institutional
+credential verification:
+`verify/psychdim-woop-mcii-05ceabfb-2026-10-28.md`.
+Curriculum sufficiency, row promotion and adviser clearance remain open.
+Next verification item: the NPTEL reasoning lecture content behind
+psychdim pool entry 43.
+
 ## 2026-10-26 DEGREES ARCHITECTURE WAVE (owner rulings — READ FIRST)
 
 The structural repair wave above is CLOSED (all six fix-list items verified,
