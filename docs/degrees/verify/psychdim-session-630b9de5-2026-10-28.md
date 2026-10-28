@@ -26,9 +26,12 @@ The current Daoism and integration holder retains those files. This session does
 - `psychdim-coping-630b9de5-2026-10-28.md`: NPTEL coping lecture text inspected through the returned 55:16.400 cue; purpose-based coping and contextual limits located. Caption/video alignment differs, so no video window or hours are cleared.
 - `psychdim-stress-mindset-630b9de5-2026-10-28.md`: Stanford interview and toolkit instructions read; conditional teaching sequence located, with video access, workbook access and teaching-family decisions left open.
 - `psychdim-resilience-630b9de5-2026-10-28.md`: Columbia lecture transcript read in full; two proposed selections total 21:15, without hour credit. NPTEL lecture 18 is withheld from unqualified assignment, and research-to-training limits are documented.
+- `psychdim-self-health-630b9de5-2026-10-28.md`: Annual Reviews lecture read in full; a 10:30 candidate selection addresses self-worth and responses to health information. Whole-row, playback and assignment decisions remain open.
 
 2026-10-28 14:18 UTC: published the coping receipt and corrected the memory credential wording; independent adviser service remains unavailable.
 
 2026-10-28 14:19 UTC: published the conditional Stanford stress-mindset receipt; no media or curriculum gate cleared.
 
 2026-10-28 14:21 UTC: published the dedicated resilience comparison and routed audiovisual checks and independent curriculum review to the owner.
+
+2026-10-28 14:23 UTC: published the bounded self-and-health receipt; taking the supervisor-routed WOOP supplement review and positive-emotions assignment-hold review next, within the existing verification baton.
