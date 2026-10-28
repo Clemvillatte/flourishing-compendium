@@ -1,6 +1,6 @@
 {
  "degree_id": "deg-wol-pragmatism",
- "built": "2026-10-26",
+ "built": "2026-10-26 ; +PRAG-D2-9/10, PRAG-D2-6/8 withdrawn under the mission gate 2026-10-28 worker-pplx-pragmatism-1028d",
  "built_by": "worker-pplx-degfixtext-1026c (baton deg-fix-text)",
  "provenance": "Locators, word counts and openings/closings transcribed from the QC'd module docs under docs/degrees/modules/deg-wol-pragmatism/ (word counts are the docs' own measured values). Reading-time labels are arithmetic: words / 130 words per minute, the module docs' stated rate for new-concept reading, rounded to the nearest minute. Source identities for PRAG-M4-01/02/03 and the Project Gutenberg ebook numbers were re-opened on gutenberg.org on 2026-10-26 (see 'sources'). Format follows deg-psychdim-assignments.json so scripts/degrees_apply_assignments.py reads it.",
  "needs_apply_script_extension": "'new_sources' (PRAG-M3-02/03/04 do not yet exist in the data block's sources array) is not read by scripts/degrees_apply_assignments.py, which only patches existing sources and raises on unknown ids; the schema lane must add each new_sources record to d['sources'] before the module refs are applied.",
@@ -32,14 +32,11 @@
      "source_id": "PRAG-D2-7",
      "section": "optional",
      "role": "teach",
-     "note": "University course-session overview of pragmatism (page notes poor video quality); duration from the player’s own metadata, content uninspected"
-    },
-    {
-     "source_id": "PRAG-D2-6",
-     "section": "optional",
-     "role": "teach",
-     "note": "Peirce’s metaphysics as taught in a recorded graduate course; duration from the player’s own metadata, content uninspected"
+     "note": "The opening session of a University at Buffalo graduate course on American philosophy, giving a long overview of pragmatism and its founders. The course page warns that the video quality is poor, so it works best as audio."
     }
+   ],
+   "remove": [
+    "PRAG-D2-6"
    ]
   },
   "mod-prag-2": {
@@ -54,13 +51,10 @@
      "section": "optional",
      "role": "teach",
      "note": "Peirce’s essay on the limits of the Cartesian method, taught"
-    },
-    {
-     "source_id": "PRAG-D2-8",
-     "section": "optional",
-     "role": "teach",
-     "note": "Peirce’s semiotics taught in a recorded graduate course; duration from the player’s own metadata, content uninspected"
     }
+   ],
+   "remove": [
+    "PRAG-D2-8"
    ]
   },
   "mod-prag-3": {
@@ -269,20 +263,6 @@
    "verification_status": "verified",
    "gate_evidence": "docs/degrees/inventory/deg-wol-pragmatism-d2-pool.md PRAG-TEACH-5 (watch-page opened, duration listed)"
   },
-  "PRAG-D2-6": {
-   "youtube_id_or_url": "https://buffalo.box.com/v/Pragmatism-Lecture-2",
-   "canonical_url": "https://buffalo.box.com/v/Pragmatism-Lecture-2",
-   "title": "PHI 556: The Metaphysics of C. S. Peirce (recorded course session, Sep 20 2021)",
-   "presenter": "Barry Smith (SUNY Distinguished Professor of Philosophy, University at Buffalo) et al.",
-   "host": "NCOR / University at Buffalo — PHI 556 American Philosophy and Its Contemporary Relevance",
-   "duration": "1:46:17",
-   "topic_ids": "PRAG-M1",
-   "level": "Advanced",
-   "mission": "deg-wol-pragmatism",
-   "verification_status": "verified",
-   "gate_evidence": "docs/degrees/inventory/deg-wol-pragmatism-d2-pool.md entry PRAG-TEACH-3 (course page and four session-video share pages opened; durations recorded from the players’ own metadata)",
-   "source_id": "PRAG-D2-6"
-  },
   "PRAG-D2-7": {
    "youtube_id_or_url": "https://buffalo.box.com/v/Lecture-1-Introduction",
    "canonical_url": "https://buffalo.box.com/v/Lecture-1-Introduction",
@@ -294,22 +274,8 @@
    "level": "Intermediate",
    "mission": "deg-wol-pragmatism",
    "verification_status": "verified",
-   "gate_evidence": "docs/degrees/inventory/deg-wol-pragmatism-d2-pool.md entry PRAG-TEACH-3 (course page and four session-video share pages opened; durations recorded from the players’ own metadata)",
+   "gate_evidence": "docs/degrees/inventory/deg-wol-pragmatism-d2-pool.md entry PRAG-TEACH-3 (course page and four session-video share pages opened; durations recorded from the players’ own metadata) | 2026-10-28 worker-pplx-pragmatism-1028d: learner note made reader-facing; internal caveats kept here — the course page notes poor video quality; duration is from the player's own metadata; content not inspected by any worker so far",
    "source_id": "PRAG-D2-7"
-  },
-  "PRAG-D2-8": {
-   "source_id": "PRAG-D2-8",
-   "youtube_id_or_url": "https://buffalo.box.com/v/Peirce-Semiotics-Stjernfelt",
-   "canonical_url": "https://buffalo.box.com/v/Peirce-Semiotics-Stjernfelt",
-   "title": "PHI 556: Peirce’s Semiotics (recorded course session, Sep 26 2021, Stjernfelt)",
-   "presenter": "Frederik Stjernfelt (semiotics scholar; contributing instructor, UB PHI 556)",
-   "host": "NCOR / University at Buffalo — PHI 556 American Philosophy and Its Contemporary Relevance",
-   "duration": "1:35:58",
-   "topic_ids": "PRAG-M2",
-   "level": "Advanced",
-   "mission": "deg-wol-pragmatism",
-   "verification_status": "verified",
-   "gate_evidence": "docs/degrees/inventory/deg-wol-pragmatism-d2-pool.md entry PRAG-TEACH-3 (course page and four session-video share pages opened; durations recorded from the players’ own metadata)"
   },
   "PRAG-D2-9": {
    "source_id": "PRAG-D2-9",
@@ -345,11 +311,27 @@
   "deg-wol-pragmatism-manifest.json m3: PRAG-M3-04 is labelled Lecture VI with the 264-word passage; per the module doc the 264-word passage (Reading B2) is in Lecture II, and Lecture VI (Reading B3) is the 157-word set of four selections. The 952 and 264-word passages share the PRAG-M3-03 (Lecture II) source."
  ],
  "drop_sources": [
-  "PRAG-M3-05"
+  "PRAG-M3-05",
+  "PRAG-D2-6",
+  "PRAG-D2-8"
  ],
  "reconciliation_note_1026b": "PRAG-M3-05 was minted by a concurrent splice (worker-pplx-1026q, Lecture VI under a second id) and reused PRAG-M3-04 for Lecture II; the manifest ids stand: M3-02 Will to Believe, M3-03 Lecture II (B1+B2), M3-04 Lecture VI (B3).",
  "degree": {
   "description": "A walk through Peirce, James and Dewey on beliefs as tools you test in experience, for anyone who wants to suffer less, choose more wisely and keep flourishing when life is uncertain or overwhelming.",
   "strip_opening_prefix": "A Walk of Life devoted to Pragmatism. "
+ },
+ "withdrawn_sources_record": {
+  "PRAG-D2-6": {
+   "title": "PHI 556: The Metaphysics of C. S. Peirce (recorded course session, Sep 20 2021)",
+   "url": "https://buffalo.box.com/v/Pragmatism-Lecture-2",
+   "duration": "1:46:17",
+   "withdrawn": "2026-10-28 worker-pplx-pragmatism-1028d — mission gate (centering clause, owner ruling 2026-10-27; 'when in doubt, exclude'): a graduate-seminar session on technical Peircean theory (session title, course page and pool entry PRAG-TEACH-3 only; recording content never inspected), with no located passage that guides how to live, suffer less or decide under uncertainty; may be reinstated only with an inspected teaching passage tied to a module outcome"
+  },
+  "PRAG-D2-8": {
+   "title": "PHI 556: Peirce’s Semiotics (recorded course session, Sep 26 2021, Stjernfelt)",
+   "url": "https://buffalo.box.com/v/Peirce-Semiotics-Stjernfelt",
+   "duration": "1:35:58",
+   "withdrawn": "2026-10-28 worker-pplx-pragmatism-1028d — mission gate (centering clause, owner ruling 2026-10-27; 'when in doubt, exclude'): a graduate-seminar session on technical Peircean theory (session title, course page and pool entry PRAG-TEACH-3 only; recording content never inspected), with no located passage that guides how to live, suffer less or decide under uncertainty; may be reinstated only with an inspected teaching passage tied to a module outcome"
+  }
  }
 }
