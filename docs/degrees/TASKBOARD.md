@@ -40,6 +40,19 @@ BUD-D2-50 is now transcript-read through its closing cue:
 `verify/buddhism-fronsdal-perception-05ceabfb-2026-10-28.md`.
 Daily-life and confidence examples have exact locators; review the
 “Introductory” label against SFZC's experienced-practitioner framing.
+BUD-D2-51 also has a full returned-transcript receipt:
+`verify/buddhism-dependent-arising-05ceabfb-2026-10-28.md`.
+Conditions, responsibility and relationship passages are located;
+the talk expressly omits detailed teaching of the twelve links.
+
+### Verification handoff, 2026-10-28
+
+`verifier-05ceabfb` is closing the verification pass without claiming a
+degree or integration baton. The supervisor's three Buddhism additions
+listed in OWNER-BOARD at 14:09 UTC remain unimplemented by this worker.
+No owner pools, modules, live assignments, stories or site files were
+edited. All recommendations above still need the responsible degree
+owner's action; no curriculum or adviser gate has been cleared.
 
 ## 2026-10-26 DEGREES ARCHITECTURE WAVE (owner rulings — READ FIRST)
 
