@@ -101,7 +101,7 @@ Hours below are the module docs' own workload totals (estimated active workload,
 | What emotions are; theory families (evolutionary, constructionist, appraisal, dimensional) | Rutgers M3-5 | mod-pd-2, 304 min — m2 doc compares emotion accounts | mod-pd-2 (rebuild) | under floor |
 | Emotion regulation & choice of goal | Rutgers M5; m2 doc | mod-pd-2, 304 min | mod-pd-2 | core walk material |
 | Affective neuroscience & physiological foundations | Rutgers M2 | NO VERIFIED COVERAGE | mod-pd-9 (new) | James, autonomic specificity, embodying emotion, hormones |
-| Positive emotions & well-being (broaden-and-build, gratitude, awe) | Rutgers M11 | NO VERIFIED COVERAGE | mod-pd-10 (new) | directly on-mission |
+| Positive emotions & well-being (broaden-and-build, gratitude, awe) | Rutgers M11 | PARTIAL — broaden-and-build theory content-read (Yarwood Penn State chapter, pool entry 71, `PD-D2-71`, live m2 optional) + awe content-read (Noba Knowledge Emotions, entry 38); gratitude, positive activities, self-views open | mod-pd-10 (new) | directly on-mission |
 | Self-conscious emotions, attachment, emotional development | Rutgers M7 | NO VERIFIED COVERAGE | mod-pd-10 | |
 | Social & intergroup emotions; emotional labor | Rutgers M8-9 | NO VERIFIED COVERAGE | mod-pd-11 (new) | |
 | Negative emotions & psychopathology (burnout, anxiety, emotion goals) | Rutgers M10 | NO VERIFIED COVERAGE | audit row — clinical border | see excluded/deferred audit |

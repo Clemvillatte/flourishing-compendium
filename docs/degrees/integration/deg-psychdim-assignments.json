@@ -175,6 +175,14 @@
       }
      ],
      "note": "Two windows from a Columbia keynote. First: how most people stay steady through adversity, why trait tests miss this, and what the trajectories look like. Second: the handsaw and chainsaw example, then the sequence of attending to the situation, choosing a response and checking whether it helps. The animal examples in between and the closing questions are left out."
+    },
+    {
+     "source_id": "PD-D2-71",
+     "section": "optional",
+     "role": "teach",
+     "level": "Intermediate",
+     "locator": "The section 'Broaden and Build Theory of Positive Emotions' in full: the four-step theory and the Fredrickson and Cohn (2008) definition; Table 25; the 2005 film-clip experiments including Figures 24-26 (broadened processing and the Twenty Statements Test); Table 26; and the 2008 loving-kindness meditation study through Figure 29. Skip the embedded video at the end.",
+     "note": "Read the results as they are reported: the amusement clip broadened attention and behaviour, contentment only trended that way (p = .064 and p = .109), and the fear/anxiety clip did not narrow more than neutral. In the meditation study, positive emotions rose from about week 3, negative emotions did not fall, and no single positive emotion rose on its own. The chapter's causal diagram restates a proposed pathway from self-report data; the original study did not directly measure momentary broadened thinking, and its protocol is described differently in the original paper than in this chapter."
     }
    ]
   },
@@ -946,6 +954,20 @@
    "mission": "deg-psychdim",
    "verification_status": "verified",
    "gate_evidence": "2026-10-28: full timed-transcript read with cue anchors by verifier-630b9de5 (verify/psychdim-resilience-630b9de5-2026-10-28.md); supervisor-pplx-1028e re-opened the watch page (title, channel, 34:44, upload 2025-10-30, chapter markers), the TC newsroom embed and Bonanno's TC faculty profile, and resolved the cut-point flag by adopting the verifier's two windows cross-checked against page chapters. Optional/teach in live M7; seeds the D1 stress/coping/resilience row; no D2 row promotion, no whole-degree or gate clearance; hours credited only for the two selected windows."
+  },
+  "PD-D2-71": {
+   "source_id": "PD-D2-71",
+   "youtube_id_or_url": "https://psu.pb.unizin.org/psych425/chapter/broden-and-build-theory-of-positive-emotions/",
+   "canonical_url": "https://psu.pb.unizin.org/psych425/chapter/broden-and-build-theory-of-positive-emotions/",
+   "title": "Broaden and Build Theory of Positive Emotions (Psychology of Human Emotion, Penn State open textbook)",
+   "presenter": "Michelle Guthrie Yarwood",
+   "host": "Penn State Affordable Course Transformation (Pressbooks)",
+   "duration": "Self-paced reading (one textbook section)",
+   "topic_ids": "PD-M2",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "2026-10-28: independent source-read receipt by verifier-05ceabfb (verify/psychdim-broaden-build-05ceabfb-2026-10-28.md); supervisor-pplx-1028e re-opened the chapter text directly (theory, broaden evidence, build evidence, closing video note, CC BY-NC-SA 4.0 license line) and the author bio on ROAM (Ph.D. Experimental Psychology, Texas Tech; Associate Teaching Professor, Penn State-University Park). Optional/teach in live M2; fills the positive-emotions theory teaching gap left by the PD-D2-10 removal; no D2 row promotion beyond PARTIAL, no whole-degree or gate clearance; corrective notes carried in the locator."
   }
  }
 }

@@ -255,3 +255,55 @@ Hours note [QC round 2, 2026-10-27]: final WebVTT caption cues for entry 52 (NPT
     promotion or gate clearance; the two selected windows (21:15) are
     the assigned span, and the degree's measured real-instruction line
     is unchanged by this optional item.
+
+## Degree-owner admission, 2026-10-28 (supervisor-pplx-1028e)
+
+71. **Michelle Guthrie Yarwood, "Broaden and Build Theory of Positive
+    Emotions" — chapter section in *Psychology of Human Emotion: An
+    Open Access Textbook* (Penn State Affordable Course
+    Transformation, Pressbooks)** —
+    [chapter](https://psu.pb.unizin.org/psych425/chapter/broden-and-build-theory-of-positive-emotions/).
+    CONTENT-READ this session by the supervisor via direct page fetch:
+    the returned instructional text was read in full — the four-step
+    theory and the Fredrickson & Cohn (2008, p. 782) definition quote;
+    Table 25 (joy/interest/contentment/love broadened responses); the
+    2005 film-clip experiments (visual processing task and Twenty
+    Statements Test, Figures 24-26, including the chapter's own
+    trend reporting p = .064 and p = .109 and its statement that
+    negative clips did not narrow more than neutral); Table 26; the
+    2008 loving-kindness meditation study (18 personal resources in
+    four categories, positive emotions rising from about week 3,
+    negative emotions unchanged, no single positive emotion rising
+    alone, mediated resources and life satisfaction, Figure 29); the
+    closing Yale-video recommendation (the chapter's own note,
+    3:00-13:22, not a verified window). Figures were read through
+    their on-page long descriptions, not visually. Licence line on
+    the page: CC BY-NC-SA 4.0, copyright Michelle Yarwood. Author
+    credentials verified on the fetched
+    [ROAM bio](https://roam.libraries.psu.edu/author/michelle-yarwood):
+    Ph.D. in Experimental Psychology (social-psychology
+    specialisation), Texas Tech University; Associate Teaching
+    Professor, Department of Psychology, Penn State-University Park;
+    teaching interests include human emotion (the 2025 Penn State
+    promotion notice lists her promotion to teaching professor —
+    rank wording in the bio lags; non-material here). Independent
+    verifier receipt:
+    `verify/psychdim-broaden-build-05ceabfb-2026-10-28.md` (source
+    read, with opened-research cautions: the 2005 contentment values
+    are one-tailed theory-driven contrasts; the chapter's
+    protocol-duration wording differs from the original 2008 paper's
+    own description; the original study did not directly measure
+    momentary broadened cognition). FAMILY DECISION (degree owner,
+    precedent-based): open-licensed university textbook chapters are
+    already an admitted D2 family in this pool (Noba modules, entries
+    5/6/33/38); this Penn State Pressbooks chapter is the same family
+    — university-published, CC-licensed, open access, no paywall.
+    Teaching role: optional/teach in live mod-pd-2 (affective), the
+    module whose Regulation and Flexibility outcomes and whose
+    positive-emotions teaching lost the held PD-D2-10 lecture;
+    corrective cautions carried in the assignment locator and note.
+    Integrated as `PD-D2-71`. Fills the theory-treatment half of the
+    broaden-and-build row (D1 "Positive emotions & well-being" row
+    moves to PARTIAL: theory + awe content-read; gratitude, positive
+    activities and self-views remain open). No gate clearance; no
+    hours credited (self-paced reading, unmeasured).

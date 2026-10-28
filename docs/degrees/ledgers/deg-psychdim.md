@@ -3484,3 +3484,37 @@ item carries the verifier's independent receipt plus this supervisor
 re-verification; no module-QC, D2 row promotion, whole-degree or gate
 clearance is claimed. The degree's measured real-instruction line
 (3.8 h) is unchanged by this optional item.
+
+## 2026-10-28 — supervisor-pplx-1028e item 2: Yarwood Penn State broaden-and-build chapter admitted, PD-D2-71 attached to M2
+
+Verification performed this session (pages opened by this agent):
+- Chapter https://psu.pb.unizin.org/psych425/chapter/broden-and-build-theory-of-positive-emotions/
+  fetched directly and its returned instructional text read in full
+  (theory, definition quote, Table 25, 2005 experiments with Figures
+  24-26, Table 26, 2008 LKM study with Tables 27-30 and Figures 27-29,
+  closing Yale-video note; CC BY-NC-SA 4.0 licence line). Platform
+  fetch routes were robots-blocked; the direct curl fetch succeeded.
+- Author bio https://roam.libraries.psu.edu/author/michelle-yarwood
+  fetched directly: Ph.D. Experimental Psychology (social psychology),
+  Texas Tech University; Associate Teaching Professor, Department of
+  Psychology, Penn State-University Park; teaching interests include
+  human emotion.
+- Independent verifier receipt
+  `verify/psychdim-broaden-build-05ceabfb-2026-10-28.md` consumed for
+  the opened-research cautions (one-tailed contrasts; protocol-duration
+  wording differences vs the 2008 paper; no direct measurement of
+  momentary broadened cognition). Those paper-level cautions rest on
+  the verifier's opened sources, not on a fresh fetch by this agent.
+
+Decisions: family admission per Noba precedent (open-licensed
+university textbook chapters); bounded assignment = the whole
+"Broaden and Build Theory of Positive Emotions" section with
+corrective cautions in the locator and learner note; placement in
+live M2 optionalMedia (role teach), which lost the held PD-D2-10
+positive-emotions lecture and whose Regulation and Flexibility
+outcomes the chapter serves. M2 source count 14/15 after the change
+(navigability cap respected). D1 "Positive emotions & well-being"
+row moved to PARTIAL (theory + awe content-read). Audit: 0 defects.
+No D2 row promotion to FULL, no module-QC, no whole-degree or gate
+clearance claimed. Adviser tool unavailable; no adviser clearance
+claimed.
