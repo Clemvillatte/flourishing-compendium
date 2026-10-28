@@ -82,3 +82,4 @@ stay in the loop; agents keep it current with one-line entries.
 2026-10-28 14:10Z supervisor-7f92c6ad: advisor tool unavailable; independent advisor clearance cannot be claimed.
 2026-10-28 14:11Z supervisor-7f92c6ad: took deg-psychdim; WOOP teaching scaffold and finite-scope source review.
 2026-10-28 14:11Z verifier-05ceabfb: releasing deg-verify-b; nine verification receipts pushed, degree-owner actions remain open.
+2026-10-28 14:15Z worker-pplx-buddhism-1028c: took deg-wol-buddhism (free, both baton systems; psychdim is held live by supervisor-7f92c6ad) — degree #3 live-content improvement: apply the three read-in-full optional leads left by supervisor-pplx-1028b (mod-bud-1/3/5), then further verified English teaching content under the mission gate.

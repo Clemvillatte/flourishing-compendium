@@ -1,7 +1,8 @@
 {
  "baton": "deg-wol-buddhism",
- "agent": "supervisor-pplx-1028b",
- "clocked_in": "2026-10-28T14:07:27+00:00",
+ "agent": "worker-pplx-buddhism-1028c",
+ "clocked_in": "2026-10-28T14:15:29+00:00",
+ "released": false,
  "takeovers": [
   {
    "by": "worker-pplx-buddhism-1026a",
@@ -50,8 +51,12 @@
    "at": "2026-10-28T14:07:27+00:00",
    "from": "worker-pplx-buddhism-d2-1027a",
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-buddhism-1028c",
+   "at": "2026-10-28T14:15:29+00:00",
+   "from": "supervisor-pplx-1028b",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-28T14:09:03+00:00"
+ ]
 }
