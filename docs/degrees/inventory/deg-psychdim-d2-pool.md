@@ -6,6 +6,27 @@
 
 ## Resource list (three categories)
 
+### Current review addendum, 2026-10-28 (supervisor-7f92c6ad)
+
+The narrow WOOP/MCII nomenclature blocker in entries 63–64 and the
+older gap notes below is closed by an opened first-person explanation:
+Oettingen identifies WOOP as mental contrasting with implementation
+intentions, including both components
+([Oettingen](https://psychwire.com/free-resources/q-and-a/1ux8o97/the-science-of-motivation)).
+The author's actual [English kit](https://woopmylife.org/s/WOOP-kit-EN-PDF.zip)
+has now been downloaded, and the Written Guide, Review, FAQ and Refine
+Your Plans read in full. These supply usable instructional materials;
+the research article's reported lesson scripts are unnecessary for
+this bounded practice route.
+
+The author's practice resource is accepted for an optional M6
+assignment, `PD-D2-69`; the broader D1 row remains PARTIAL and the
+8 FULL / 24 PARTIAL / 0 UNFILLED inventory tally is unchanged.
+See `reviews/deg-psychdim-woop-source-review-7f92c6ad.md` for source
+family reasoning, exact locators, independent-verifier provenance
+and the 2025–2026 evidence cautions. This addendum supersedes only
+the older “no opened source establishes WOOP–MCII” assertions.
+
 CATEGORY A — OPENED AND VERIFIED this session (entries 1, 3-17, 21-26, 29-30): the resource was fetched/opened and its content read on the page. TWO QUALIFICATIONS: entry 27 (Yale OYC PSYC 110) is STRUCTURE-VERIFIED — course page fetched and confirms structure/syllabus, but lecture-video access is provisional (sub-pages seen via search snippet only); entry 28 (edX) is MIXED — the GGSC access statement was directly fetched (quote verbatim), but the edX course-page content was read via search snippet only — its structural details (11 weeks, $169) are snippet-sourced. CATEGORY B — INHERITED MANIFEST RESOURCES, NOT RE-VERIFIED (entries 18-20: Hayes PBT video, Sainani stats video, Ryan SDT video — the manifest ledger is the evidence). CATEGORY C — ACCESS-UNCONFIRMED CANDIDATES (entry 2: Coursera Well-Being — page fetched but course-level free-tier content access unconfirmed). SESSION 2026-10-27 (worker-pplx-psychdim-d2-1027a): entries 31-52 opened across the session's passes, with verification levels differentiated per entry (CONTENT-READ, STRUCTURE-VERIFIED, candidate); after the final advisor QC, entries 40-43 and 47 are LOCATED CANDIDATES ONLY (their instructional content was not read from the pages fetched — see each entry), entry 49 is a located candidate (ownership/playback unconfirmed), entry 52 is a syllabus-level located candidate, and entries 32 and 35 are opened supplementary scholarly readings whose instructional role is unconfirmed. Entry 5 was re-fetched with the full raw module text read; entries 50-51 are content-read with quotes confirmed against genuinely raw text (no extraction prompt). SESSION 2026-10-27 (worker-pplx-psychdim-d2-1027b, continuation): the [1027b] pass cleared the UNFILLED row — entry 53 (Melbourne MCBC if-then planning resource) content-read, logged as the implementation-intentions carrier; entry 54 (Lumen Learning OER chapter) content-read and REJECTED as Wikipedia-derivative; of the later entries: woopmylife.org (55, opened) is a located candidate; the BPL author-talk event (56) and the Happiness Lab episode (61) are UNOPENED leads (search-located only; entry 56 was initially logged as page-read and corrected in QC round 1); the UW Self-Knowledge chapter (57), CUNY reasoning lesson (58), UMN OrgBehavior Ch.7.5 (59) and UMN Extension Ep. 3.11 (60) carry this worker's independent verification addenda (the UW, CUNY and UMN OrgBehavior quotes fully verified; the UMN Extension entry verified with two earlier-draft quotes removed); the KU WOOP guide (63) is raw-PDF verified; Schunk et al. 2022 (64) is content-read with a family flag; entries 2 and 46 re-classified bonus-only per the Coursera ruling.
 
 1. **MIT OpenCourseWare 9.00 Introduction to Psychology (Prof. Jeremy Wolfe, Fall 2004)** — https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/ — course page AND lecture-audio index opened this session. Verified: MIT OCW is freely shared; resource types listed are lecture audio, lecture notes, exams, written assignments. The lecture-audio index (https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/pages/lecture-audio/) lists titled lectures including: 2 "Motivation and Emotion", 3 "Learning: The Power of Association", 4 "Sensing", 5 "Attending: Limiting the Information", 6 "Perceiving: Interpreting the Information", 7 "Memory", 8 "Cognition: How Do You Think?", 9 "Cognitive Development", 11 "Language Development", 12 "Intelligence", 13 "The Battle of the Sexes: Love and Evolution", 14 "Social Exchange", 15 "Attitudes and Behaviors", 16 "Who Are You? The Psychology of the Self", 19 "Sleep and Dreams". **Credited matrix rows** (topic alignment verified from titles; per-lecture durations not yet measured from the audio files): affect strand (L2), motivation strand (L2), overt behaviour/learning (L3), perception (L4, L6), attention (L5), memory (L7), cognition (L8), self (L16). Duration measurement from the audio assets remains open — the lecture-audio page lists FILE SIZES (69-116 MB) but no durations; counting hours from file size would be estimation and is not done. No hours counted.

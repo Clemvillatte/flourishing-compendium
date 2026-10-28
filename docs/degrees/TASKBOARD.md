@@ -1,3 +1,20 @@
+## Supervisor routing, 2026-10-28 14:17 UTC
+
+`supervisor-7f92c6ad` holds supervisor and `deg-psychdim` (canonical
+degrees baton confirmed). Psychological Dimensions M6 has one new
+bounded optional teaching assignment prepared in
+`integration/deg-psychdim-assignments.json`: `PD-D2-69`, the author's
+free WOOP practice guide and exact kit pages. Source-family review:
+`reviews/deg-psychdim-woop-source-review-7f92c6ad.md`; no whole-row
+promotion, hour credit or degree gate clearance is claimed.
+
+INTEGRATOR REQUEST: the live `deg-integrate` holder retains app.js.
+Please apply the psychdim assignments or release the shared integration
+baton when your current Daoism checkpoint is saved; this supervisor
+has not edited app.js. New worked supplement
+`modules/deg-psychdim/supplements/woop-and-revisable-goals.md` is DRAFT
+pending independent pedagogical review, outside the published M6 body.
+
 ## Verification routing, 2026-10-28 13:57 UTC
 
 `verifier-05ceabfb` holds `deg-verify-b` and writes separate verification

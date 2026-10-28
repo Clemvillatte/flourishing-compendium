@@ -477,6 +477,14 @@
      "section": "optional",
      "role": "teach",
      "note": "Lecture 34, whole lecture: life goals, intrinsic versus extrinsic aspirations and their link to well-being, then SMART goals"
+    },
+    {
+     "source_id": "PD-D2-69",
+     "section": "optional",
+     "role": "teach",
+     "level": "Intermediate",
+     "locator": "From the free English WOOP kit: Written WOOP Guide, pages 1–4, then the one-page WOOP Review. On the practice page, read the FAQs 'Can I WOOP any wish I have?' and 'What if my obstacle is in fact insurmountable?'",
+     "note": "Choose a feasible wish, imagine the outcome and an inner obstacle, then make one if-then plan. Use the checklist to review it and consider whether the wish needs adjusting, postponing or letting go. No app or account is needed."
     }
    ]
   },
@@ -893,6 +901,20 @@
    "mission": "deg-psychdim",
    "verification_status": "verified",
    "gate_evidence": "docs/degrees/verify/deg-psychdim-live-content-1028b.md (full NPTEL lecture transcript read; watch page fetched for title, channel and duration; instructor on the IIT Guwahati HSS faculty page)"
+  },
+  "PD-D2-69": {
+   "source_id": "PD-D2-69",
+   "youtube_id_or_url": "https://woopmylife.org/en/practice",
+   "canonical_url": "https://woopmylife.org/en/practice",
+   "title": "WOOP: a guided wish, outcome, obstacle and plan",
+   "presenter": "Gabriele Oettingen",
+   "host": "WOOP My Life",
+   "duration": "Self-paced reading and practice",
+   "topic_ids": "PD-M6",
+   "level": "Intermediate",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "2026-10-28: independent practice-page receipt by verifier-05ceabfb in verify/psychdim-woop-mcii-05ceabfb-2026-10-28.md; source-family and exact-kit review by supervisor-7f92c6ad in reviews/deg-psychdim-woop-source-review-7f92c6ad.md. No D2 row promotion or full-degree clearance; no hours credited."
   }
  }
 }
