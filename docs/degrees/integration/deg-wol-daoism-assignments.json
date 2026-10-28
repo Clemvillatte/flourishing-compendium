@@ -124,6 +124,12 @@
      "section": "optional",
      "role": "teach",
      "note": "Komjathy’s own contemplative reading of the Daodejing, from his bilingual translation — direct teaching on this module’s core text"
+    },
+    {
+     "source_id": "DAO-D2-45",
+     "section": "optional",
+     "role": "teach",
+     "note": "Optional study aid: a university short-course slide set on the Daodejing — the dao as a way of living one’s life, the uncarved wood and non-action, selected chapters to read, and discussion questions"
     }
    ],
    "activity": "Graded, in three parts: the contrast-application reflection on a case where you are forcing something (200-400 words), the comparison of the two accounts of chapter 28 (100-200 words), and the five-part reading of chapter 16 or 44 without demonstration (150-250 words)."
@@ -157,6 +163,12 @@
      "section": "optional",
      "role": "teach",
      "note": "A leading Zhuangzi scholar on translating the complete text — context for the Inner Chapters this module reads; page duration displayed 1:27:13–1:27:56 in two places, 1:27:56 on the fresh re-fetch"
+    },
+    {
+     "source_id": "DAO-D2-46",
+     "section": "optional",
+     "role": "teach",
+     "note": "Optional study aid: the companion slide set on the Zhuangzi — transformation, wuwei and emptiness, selected passages, and questions on how we are to act (or not) in the world"
     }
    ],
    "activity": "Graded, in three parts: a reasoned application to one situation of your own (about 25 minutes), the gloss-check against Cook Ding or the Hunchback (about 15 minutes), and the chapter check comparing the inside view with the puzzle frame (about 10 minutes). A five-minute self-assessment follows."
@@ -421,6 +433,34 @@
    "mission": "deg-wol-daoism",
    "verification_status": "verified",
    "gate_evidence": "docs/degrees/inventory/deg-wol-daoism-d2-pool.md entries D2-NEW-29 and D2-NEW-28 (both PAGE-VERIFIED: title, channel, duration, upload date, full speaker credentials in the page description; the pages were fetched and read in the pool’s pass 8; the continuous transcript read remains owed — noted per ref)"
+  },
+  "DAO-D2-45": {
+   "source_id": "DAO-D2-45",
+   "youtube_id_or_url": "https://open.ed.ac.uk/wp-content/uploads/OER-Intro-to-Chinese-Philo-Daoism-I.pdf",
+   "title": "Introduction to Chinese Philosophy — Daoism I: Daodejing (course slides)",
+   "duration": "25 slides",
+   "topic_ids": "DAO-M2",
+   "canonical_url": "https://open.ed.ac.uk/wp-content/uploads/OER-Intro-to-Chinese-Philo-Daoism-I.pdf",
+   "presenter": "Lee Wilson (University of Edinburgh Centre for Open Learning)",
+   "host": "University of Edinburgh Open Educational Resources (Open.Ed), CC BY-SA 4.0",
+   "level": "Foundations",
+   "mission": "deg-wol-daoism",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/verify/deg-wol-daoism-live-content-1028b.md (both PDFs downloaded and read in full this session; licence and author line printed on the final slide; course page https://open.ed.ac.uk/chinese-philosophy/ fetched)"
+  },
+  "DAO-D2-46": {
+   "source_id": "DAO-D2-46",
+   "youtube_id_or_url": "https://open.ed.ac.uk/wp-content/uploads/OER-Intro-to-Chinese-Philo-Daoism-II.pdf",
+   "title": "Introduction to Chinese Philosophy — Daoism II: Zhuangzi (course slides)",
+   "duration": "32 slides",
+   "topic_ids": "DAO-M3",
+   "canonical_url": "https://open.ed.ac.uk/wp-content/uploads/OER-Intro-to-Chinese-Philo-Daoism-II.pdf",
+   "presenter": "Lee Wilson (University of Edinburgh Centre for Open Learning)",
+   "host": "University of Edinburgh Open Educational Resources (Open.Ed), CC BY-SA 4.0",
+   "level": "Foundations",
+   "mission": "deg-wol-daoism",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/verify/deg-wol-daoism-live-content-1028b.md (both PDFs downloaded and read in full this session; licence and author line printed on the final slide; course page https://open.ed.ac.uk/chinese-philosophy/ fetched)"
   }
  },
  "drop_sources": [
