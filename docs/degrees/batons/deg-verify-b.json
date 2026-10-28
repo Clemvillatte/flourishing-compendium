@@ -2,7 +2,7 @@
  "baton": "deg-verify-b",
  "agent": "verifier-630b9de5",
  "clocked_in": "2026-10-28T14:30:10+00:00",
- "released": false,
+ "released": true,
  "takeovers": [
   {
    "by": "verifier-pplx-b1",
@@ -82,5 +82,6 @@
    "from": "verifier-05ceabfb",
    "reason": "released"
   }
- ]
+ ],
+ "released_at": "2026-10-28T14:30:34+00:00"
 }
