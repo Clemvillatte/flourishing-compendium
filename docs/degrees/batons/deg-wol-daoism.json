@@ -33,5 +33,7 @@
    "from": "worker-pplx-daoism-1026e",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-28T14:19:45+00:00"
 }

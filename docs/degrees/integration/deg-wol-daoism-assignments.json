@@ -1,6 +1,6 @@
 {
  "degree_id": "deg-wol-daoism",
- "built": "2026-10-26 ; +DAO-D2-48..50 added 2026-10-28 by worker-pplx-daoism-1028a (baton deg-wol-daoism; renumbered from 45-47 after the supervisor 1028b slide additions took those ids) ; +DAO-D2-51 (Lai Lecture 5 -> m5) and practice-note polish 2026-10-28 worker-pplx-daoism-1028a ; +DAO-D2-52 (Moeller -> m1) +DAO-D2-53 (Slingerland -> m2) 2026-10-28 worker-pplx-daoism-1028a ; +DAO-D2-54 (Ziporyn -> m2) 2026-10-28 worker-pplx-daoism-1028a",
+ "built": "2026-10-26 ; +DAO-D2-48..50 added 2026-10-28 by worker-pplx-daoism-1028a (baton deg-wol-daoism; renumbered from 45-47 after the supervisor 1028b slide additions took those ids) ; +DAO-D2-51 (Lai Lecture 5 -> m5) and practice-note polish 2026-10-28 worker-pplx-daoism-1028a ; +DAO-D2-52 (Moeller -> m1) +DAO-D2-53 (Slingerland -> m2) 2026-10-28 worker-pplx-daoism-1028a ; DAO-D2-54 withdrawn (duplicate of DAO-M1-03) 2026-10-28 worker-pplx-daoism-1028a",
  "built_by": "worker-pplx-degfixschema-1026b (baton deg-fix-schema)",
  "provenance": "Windows and spans transcribed from deg-wol-daoism-manifest.json and the module docs (m1 to m5); nothing here is invented.",
  "modules": {
@@ -154,12 +154,6 @@
      "section": "optional",
      "role": "teach",
      "note": "Slingerland on wu wei as effortless action and the paradox of trying not to try — the practice idea behind the Daodejing chapters you read here, with the cognitive science that makes it credible today; a bridge to the skill stories of Module III"
-    },
-    {
-     "source_id": "DAO-D2-54",
-     "section": "optional",
-     "role": "teach",
-     "note": "Ziporyn’s full introduction to the Daodejing as a book to live by — dao, de and wu wei explained from the text itself, the infant and the unhewn block, why the low and unnamed sustain what we value, and why the text’s ambiguity is meant to leave the reader room; the best single companion to the chapters you read in this module"
     }
    ],
    "activity": "Graded, in three parts: the contrast-application reflection on a case where you are forcing something (200-400 words), the comparison of the two accounts of chapter 28 (100-200 words), and the five-part reading of chapter 16 or 44 without demonstration (150-250 words)."
@@ -593,20 +587,6 @@
    "mission": "deg-wol-daoism",
    "verification_status": "verified",
    "gate_evidence": "Watch page opened 2026-10-28 (worker-pplx-daoism-1028a): title, channel Talks at Google, upload date Mar 20 2017, player length 55:01, full description (CASBS fellows series; speaker's UBC appointments and books; talk topic 'Creativity, Trust and the Paradox of Spontaneity' drawing on Trying Not to Try); transcript indicated. Credentials on the institutional page https://philosophy.ubc.ca/profile/edward-slingerland-iii/ (opened: Professor, Director of the Database of Religious History, PhD Stanford, research on Warring States Chinese thought, ethics, moral psychology). oEmbed confirms title + channel. Transcript read not performed."
-  },
-  "DAO-D2-54": {
-   "source_id": "DAO-D2-54",
-   "youtube_id_or_url": "https://www.youtube.com/watch?v=EJ1bB2w2gBk",
-   "canonical_url": "https://www.youtube.com/watch?v=EJ1bB2w2gBk",
-   "title": "Why This Text Matters: Daodejing — Brook Ziporyn (University of Chicago Divinity School)",
-   "presenter": "Brook Ziporyn (Mircea Eliade Professor of Chinese Religion, Philosophy, and Comparative Thought, University of Chicago Divinity School; translator of the Zhuangzi (Hackett 2009, 2020) and of the Daodejing (Liveright/Norton Library 2023))",
-   "host": "University of Chicago Divinity School (institutional channel), 'Why This Text Matters' series, posted 2023-03-22",
-   "duration": "0:53:36",
-   "topic_ids": "DAO-M2",
-   "level": "Foundations",
-   "mission": "deg-wol-daoism",
-   "verification_status": "verified",
-   "gate_evidence": "Watch page opened 2026-10-28 (worker-pplx-daoism-1028a): title, channel University of Chicago Divinity School, upload date Mar 22 2023, player length 53:36, full description (series blurb; Ziporyn's chair; the lecture introduces dao, de and wu wei, reads from the text, and treats its ambiguity as deliberate) and the 27-item chapter list (0:00 Introduction … 15:20 Wu wei … 20:13 The infant … 26:15 Chapter 28 … 38:17 Highest virtue is without virtue … 39:38 When the shoe fits you forget your feet … 51:07 Purpose, value, and what the Daodejing leaves open); transcript indicated. oEmbed confirms title + channel. Credentials on the institutional page https://divinity.uchicago.edu/directory/brook-ziporyn (opened: chair title; Zhuangzi and Daodejing translations). Transcript read not performed."
   }
  },
  "drop_sources": [
