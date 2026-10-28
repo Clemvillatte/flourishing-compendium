@@ -318,6 +318,12 @@
      "source_id": "PD-M4-07",
      "section": "required",
      "locator": "Journal pages 342–343: the three complete Results paragraphs beginning ‘The alerting effect was calculated,’ ‘The orienting effect was calculated’ and ‘The conflict (executive control) effect was calculated’; skip the intervening tables and figure and stop before ‘Correlation Analyses’"
+    },
+    {
+     "source_id": "PD-D2-65",
+     "section": "optional",
+     "role": "teach",
+     "note": "Lecture 16, whole lecture: meditation and mindfulness as attention training (intention, attention, attitude), ending with a short listening practice"
     }
    ],
    "activity": "Graded: an independent attention observation with an observation-protocol entry and summary, and an analysis of the Attention Network Test (ANT) with simple contrasts from supplied averages."
@@ -459,6 +465,18 @@
      "source_id": "PD-M1-07",
      "section": "required",
      "locator": "The Abstract; the paragraph immediately before the main Study 3 heading; Study 2’s opening paragraph and Study 3’s Procedure paragraph; Study 4’s opening paragraph, its Method paragraph beginning ‘Of the 933 participants invited back,’ and its first two Results paragraphs; then the General Discussion paragraph beginning ‘Several open questions remain.’"
+    },
+    {
+     "source_id": "PD-D2-66",
+     "section": "optional",
+     "role": "teach",
+     "note": "Lecture 32, whole lecture: self-determination theory, the three basic needs, and how a reason that starts outside you can become your own"
+    },
+    {
+     "source_id": "PD-D2-67",
+     "section": "optional",
+     "role": "teach",
+     "note": "Lecture 34, whole lecture: life goals, intrinsic versus extrinsic aspirations and their link to well-being, then SMART goals"
     }
    ]
   },
@@ -833,6 +851,48 @@
    "mission": "deg-psychdim",
    "verification_status": "verified",
    "gate_evidence": "docs/degrees/inventory/deg-psychdim-d2-pool.md entry 52 unlock (NPTEL noc26_hs33 WebVTT route; durations measured from VTT cue timestamps this pass)"
+  },
+  "PD-D2-65": {
+   "source_id": "PD-D2-65",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=pUCK0q0M2BU",
+   "title": "NPTEL Psychology of Stress, Health and Well-Being — Lec 16: Coping with Meditation and Mindfulness",
+   "duration": "1:04:06",
+   "topic_ids": "PD-M4",
+   "canonical_url": "https://www.youtube.com/watch?v=pUCK0q0M2BU",
+   "presenter": "Prof. Dilwar Hussain (IIT Guwahati)",
+   "host": "YouTube (NPTEL IIT Guwahati)",
+   "level": "Foundations",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/verify/deg-psychdim-live-content-1028b.md (full NPTEL lecture transcript read; watch page fetched for title, channel and duration; instructor on the IIT Guwahati HSS faculty page)"
+  },
+  "PD-D2-66": {
+   "source_id": "PD-D2-66",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=ydw7o1AVmLk",
+   "title": "NPTEL Psychology of Stress, Health and Well-Being — Lec 32: Self-Determination, Motivation and Well-Being",
+   "duration": "1:00:45",
+   "topic_ids": "PD-M6",
+   "canonical_url": "https://www.youtube.com/watch?v=ydw7o1AVmLk",
+   "presenter": "Prof. Dilwar Hussain (IIT Guwahati)",
+   "host": "YouTube (NPTEL IIT Guwahati)",
+   "level": "Foundations",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/verify/deg-psychdim-live-content-1028b.md (full NPTEL lecture transcript read; watch page fetched for title, channel and duration; instructor on the IIT Guwahati HSS faculty page)"
+  },
+  "PD-D2-67": {
+   "source_id": "PD-D2-67",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=Uzre77Qyxug",
+   "title": "NPTEL Psychology of Stress, Health and Well-Being — Lec 34: Life Goals and Well-Being",
+   "duration": "0:40:45",
+   "topic_ids": "PD-M6",
+   "canonical_url": "https://www.youtube.com/watch?v=Uzre77Qyxug",
+   "presenter": "Prof. Dilwar Hussain (IIT Guwahati)",
+   "host": "YouTube (NPTEL IIT Guwahati)",
+   "level": "Foundations",
+   "mission": "deg-psychdim",
+   "verification_status": "verified",
+   "gate_evidence": "docs/degrees/verify/deg-psychdim-live-content-1028b.md (full NPTEL lecture transcript read; watch page fetched for title, channel and duration; instructor on the IIT Guwahati HSS faculty page)"
   }
  }
 }
