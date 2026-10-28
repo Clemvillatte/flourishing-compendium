@@ -1834,3 +1834,4 @@ candidates; no claim is made.
 Receipt: docs/degrees/verify/deg-wol-pragmatism-live-content-1028d.md.
 
 - Item 1: PRAG-D2-9 Kaag, "William James and the Sick Soul" (HDS William James Lecture 2023, 1:25:53, HDS channel; full transcript read on the HDS page; UMass Lowell faculty page opened) → mod-prag-3 optional/teach. ADMIT: James's "Is Life Worth Living?" read as guidance for a person in despair.
+- Item 2: PRAG-D2-10 Kramer & Waks, "Growth Unbound: John Dewey ... Philosophy as a Way of Life" (IFILNOVA/NOVA Lisbon PWL seminar 2023, talk 00:00:00-01:02:12 of 1:35:09; NOVA seminar page abstract + bios read) -> mod-prag-4 optional/teach. ADMIT. Bonevac "Dewey's Ethics" HELD (transcript unread); Putnam founders talk not admitted.

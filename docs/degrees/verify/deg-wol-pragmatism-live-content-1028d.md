@@ -41,3 +41,24 @@ Excluded in the same search: Kaag's two 2022 Circular Congregational Church lect
 podcast interviews with Kaag (interview format, not teaching). Seen in search results only, not opened.
 
 Checks: apply OK; node --check OK; degrees_learner_audit 0 defects.
+
+## Item 2 — PRAG-D2-10, Kramer & Waks, "Growth Unbound: John Dewey on the Socio-Cultural Role of Philosophy as a Way of Life" → mod-prag-4 optional / teach, 00:00:00–01:02:12
+
+| Field | Evidence (opened this session) |
+|---|---|
+| Recording | https://www.youtube.com/watch?v=XBjqwhBbxHY — channel IFILNOVA Universidade Nova de Lisboa (oEmbed author matches), uploaded 2023-05-26, length 1:35:09; description: third session of the PWL International Seminar, 2023-05-10 |
+| Institutional page | https://pwl.fcsh.unl.pt/pwl-international-seminar-session-3/ — abstract and both speaker bios read |
+| Credentials | Same page: "Dr. Eli Kramer is an Associate Professor (Profesor Uczelni) at the Institute of Philosophy of the University of Wrocław. He specialises in metaphilosophy (in particular, philosophy as a way of life) ... Classical American Philosophy"; "Dr. Leonard J. Waks is Professor Emeritus of Educational Leadership at Temple University, USA ... He is a past president of the John Dewey Society" |
+| Content | Abstract (verbatim): "It is such communities and individuals that he thought were best able to help us address the complex problems of life. He provides us the groundwork to talk about the symbiotic relationship between self-cultivation through spiritual exercises and social- reconstruction through enriching modes of humane association." Transcript excerpts were returned by an extraction pass over the watch page (auto-caption wording, partial, weaker tier): at ts 3581-3589, "you do something you don't get the results you want and so a moment of Doubt comes up and your habits have to be reconstructed so experience is the process of growth"; at ts 3732, "I will just leave it here for our discussion" (talk ends; discussion follows) |
+
+Mission gate: ADMIT. The seminar series studies philosophy as a way of life, and this
+session reads Dewey's growth, habit and doubt as a practice of living. That is the
+walk's frame, and it ties the module's inquiry tools to a person's own stuck situations.
+Segment 00:00:00–01:02:12 (talk); discussion optional. The content check is partial
+(extraction-based transcript excerpts plus the institutional abstract); a continuous
+transcript read is still owed.
+
+## Considered and not admitted this pass
+
+- Daniel Bonevac, "Dewey's Ethics" (https://www.youtube.com/watch?v=EqO9oqysb_A, 15:18 on the watch page, oEmbed author Daniel Bonevac). The watch page was opened but the fetch returned no transcript text. Transcript passages appeared only in search-result excerpts, so they were not used for a content claim. HELD as a candidate for mod-prag-4 until a transcript read is possible.
+- Hilary Putnam, "Putnam on Pragmatism & its Founders" (https://www.youtube.com/watch?v=_qj0471vtYY, Harvard Philosophy Department channel per oEmbed; 1:04:23 per search result). Content not opened, and the description lists a survey of topics (free will, the self, truth, meaning, fact and value, philosophy of science) rather than guidance for living. Not admitted ("when in doubt, exclude"). The gate reviewer may reopen it.

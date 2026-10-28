@@ -127,6 +127,18 @@
      "section": "optional",
      "role": "teach",
      "note": "Dewey on the quest for certainty and its costs, taught"
+    },
+    {
+     "source_id": "PRAG-D2-10",
+     "section": "optional",
+     "role": "teach",
+     "segments": [
+      {
+       "start": "00:00:00",
+       "end": "01:02:12"
+      }
+     ],
+     "note": "Two Dewey scholars read Dewey as a philosopher of a way of life. Experience, for Dewey, is the process of growth: you act, something happens, and when the result is not what you wanted, doubt comes up and your habits have to be rebuilt. The talk then asks what the shared, social version of a personal practice would look like. Watch the talk; the open discussion that follows is optional."
     }
    ],
    "activity": "Graded: Dewey's account of reflective inquiry in your own words, the deliberation rehearsal run on a case of your own, the same case with what you observed separated from what you assumed, the comparison of Peirce and Dewey, and the teach-back."
@@ -312,6 +324,20 @@
    "mission": "deg-wol-pragmatism",
    "verification_status": "verified",
    "gate_evidence": "worker-pplx-pragmatism-1028d, 2026-10-28: HDS page https://www.hds.harvard.edu/news/2023/3/3/video-william-james-and-sick-soul opened; it embeds this video (Z80EnEs-4oI) and prints the full transcript, read this session (about 11,400 words: Hempton and Lamberth introductions, Kaag's lecture on James's 1895 'Is Life Worth Living?', then audience questions). oEmbed: title 'William James and the Sick Soul', author Harvard Divinity School. Player length 1:25:53, published 2023-02-08. Credentials: UMass Lowell philosophy faculty page https://www.uml.edu/fahss/philosophy/faculty/kaag-john.aspx opened (John J. Kaag, Ph.D., Professor, Department of Philosophy; PhD Philosophy 2007, University of Oregon; American Philosophy). Mission gate: the lecture treats suicidal despair, meaning under uncertainty and James's answer 'maybe' as a lived choice; the HDS introduction gives the 988 crisis line. Whole recording assigned; no timestamps are printed, so no segment window is claimed. Receipt: docs/degrees/verify/deg-wol-pragmatism-live-content-1028d.md"
+  },
+  "PRAG-D2-10": {
+   "source_id": "PRAG-D2-10",
+   "youtube_id_or_url": "https://www.youtube.com/watch?v=XBjqwhBbxHY",
+   "canonical_url": "https://www.youtube.com/watch?v=XBjqwhBbxHY",
+   "title": "Growth Unbound: John Dewey on the Socio-Cultural Role of Philosophy as a Way of Life (PWL International Seminar, session 3)",
+   "presenter": "Eli Kramer (University of Wrocław) and Leonard J. Waks (Temple University)",
+   "host": "IFILNOVA, NOVA University of Lisbon (YouTube)",
+   "duration": "1:35:09",
+   "topic_ids": "PRAG-M4",
+   "level": "Intermediate",
+   "mission": "deg-wol-pragmatism",
+   "verification_status": "verified",
+   "gate_evidence": "worker-pplx-pragmatism-1028d, 2026-10-28: watch page opened (title, channel IFILNOVA Universidade Nova de Lisboa, uploaded 2023-05-26, length 1:35:09, description: third session of the PWL International Seminar, held 2023-05-10); oEmbed author IFILNOVA Universidade Nova de Lisboa. Seminar page https://pwl.fcsh.unl.pt/pwl-international-seminar-session-3/ (NOVA FCSH 'Mapping Philosophy as a Way of Life' project) opened: abstract and both bios read (Kramer: Associate Professor, Institute of Philosophy, University of Wrocław, specialising in philosophy as a way of life and Classical American Philosophy; Waks: Professor Emeritus of Educational Leadership, Temple University, past president of the John Dewey Society). Transcript markers returned by the page fetch: talk from the start to about 1:02:12 ('I will just leave it here for our discussion'), discussion after; transcript wording is auto-caption, extraction-based, and only excerpts were returned, so the content check is partial. Receipt: docs/degrees/verify/deg-wol-pragmatism-live-content-1028d.md"
   }
  },
  "manifest_label_corrections_for_content_lane": [
