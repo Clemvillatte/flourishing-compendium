@@ -189,3 +189,22 @@ Hours note [QC round 2, 2026-10-27]: final WebVTT caption cues for entry 52 (NPT
 66. **Same course — Lec 32 "Self-determination, motivation, and well-being"** — https://www.youtube.com/watch?v=ydw7o1AVmLk (1:00:45). CONTENT-READ (full transcript). Reinforces the motivation-quality row (live mod-pd-6). Integrated as PD-D2-66.
 67. **Same course — Lec 34 "Life goals and well-being"** — https://www.youtube.com/watch?v=Uzre77Qyxug (40:45). CONTENT-READ (full transcript). Intrinsic vs extrinsic life goals, SMART goals; goals row (live mod-pd-6). Integrated as PD-D2-67.
 68. **NPTEL "Psychology of Emotion" — Lecture 26 "Skills of EI-Self-Motivation"** — https://www.youtube.com/watch?v=NRAT5dS3hp8 (0:56:09). CONTENT-READ via the noc26_hs33 Lec-26 WebVTT. RESERVE only: overlaps entry 66.
+
+## Bounded source admission, 2026-10-28 (supervisor-7f92c6ad)
+
+69. **Gabriele Oettingen, WOOP practice guide and English kit:**
+    [practice page](https://woopmylife.org/en/practice) and
+    [actual English download](https://woopmylife.org/s/WOOP-kit-EN-PDF.zip).
+    The complete Written Guide, Review, FAQ and Refine Your Plans PDFs
+    were read; assign only Written Guide pages 1–4 and the one-page
+    Review, with the practice page's two wish-feasibility FAQs.
+    Oettingen's relevant academic appointment is independently
+    documented by [NYU](https://as.nyu.edu/faculty/gabriele-oettingen.html).
+    Teaching role: optional practice in feasible goal choice,
+    outcome/obstacle imagery and conditional planning, live M6,
+    `PD-D2-69`; no app, account or payment was needed for these
+    materials ([practice guidance](https://woopmylife.org/en/practice)).
+    No duration or qualifying hours claimed; the broader D1
+    mental-contrasting/planning row remains PARTIAL. Source-family
+    decision, archive hashes and recent mixed evidence are recorded
+    in `reviews/deg-psychdim-woop-source-review-7f92c6ad.md`.

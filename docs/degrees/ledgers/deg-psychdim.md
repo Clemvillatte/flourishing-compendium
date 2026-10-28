@@ -3356,3 +3356,81 @@ receipt: the post-57:21 stretch was NOT characterized (the
 lecture/Q&A transition was not located; the earlier Q&A claim was
 withdrawn); the module's assigned windows are all inside the
 carrier's transcript span and unaffected.
+
+## Bounded live-content review, 2026-10-28 (supervisor-7f92c6ad)
+
+The canonical `deg-psychdim` baton was confirmed before editing.
+The approved M2 and M6 core lessons are unchanged; the new worked
+WOOP supplement is a separate draft for independent review.
+No full-row, pedagogical, publication or coverage gate is
+self-cleared, and no hours are added.
+
+### Accepted optional practice
+
+The author's [WOOP practice page](https://woopmylife.org/en/practice)
+and actual linked [English kit](https://woopmylife.org/s/WOOP-kit-EN-PDF.zip)
+were inspected, including the complete Written Guide, Review,
+FAQ and Refine Your Plans PDFs. NYU supplies the independent
+credential check, and the author's Q&A explicitly identifies
+WOOP as the combination of mental contrasting and if-then
+planning ([NYU](https://as.nyu.edu/faculty/gabriele-oettingen.html);
+[Oettingen Q&A](https://psychwire.com/free-resources/q-and-a/1ux8o97/the-science-of-motivation)).
+
+`PD-D2-69` is prepared as optional M6 teaching. Exact locators,
+download hashes, the comparison with the
+[KU worksheet](https://learningandwriting.ku.edu/sites/writingandlearning/files/images/2024/Guides/GoalSetting/WOOP%20METHOD.pdf),
+and source-family reasoning are in
+`reviews/deg-psychdim-woop-source-review-7f92c6ad.md`.
+The nomenclature blocker closes; instructional sufficiency for
+the entire row remains open.
+
+Evidence companions were reopened for scope and limits:
+the [2021 meta-analysis](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.565202/full),
+the [2025 workplace trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC11941803/),
+the [2026 procrastination abstract](https://pubmed.ncbi.nlm.nih.gov/41601124/),
+and the [2026 physical-activity publisher abstract](https://cipp.ug.edu.pl/Does-mental-contrasting-with-implementation-intentions-MCII-help-to-increase-physical,225999,0,2.html).
+These support the limits recorded in the review and draft.
+The last two checks are abstract-level only; no primary-paper
+assignment is introduced.
+
+### Positive-emotions accuracy hold
+
+The existing full optional
+[NPTEL positive-emotions lecture](https://www.youtube.com/watch?v=lRcm5DIwVsQ)
+was returned with a readable transcript and a 1:03:31 watch-page
+duration. Its repeated denial of mixed positive/negative emotion
+at 34:03–34:48 prompted a hold against the opened
+[mixed-emotions meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC4397957/).
+The assignments manifest explicitly removes `PD-D2-10`; this
+review does not claim an audio playback check.
+
+The alternative [Penn State teaching chapter](https://psu.pb.unizin.org/psych425/chapter/broden-and-build-theory-of-positive-emotions/)
+and its [book metadata](https://psu.pb.unizin.org/psych425/) were read,
+with credentials checked on the
+[institutional author biography](https://roam.libraries.psu.edu/author/michelle-yarwood).
+It is an admissible university teaching family, but no replacement
+is assigned without resolving its measurement and causal-language
+qualifications. The [2005 original study](https://pmc.ncbi.nlm.nih.gov/articles/PMC3156609/),
+[2008 original study](https://pmc.ncbi.nlm.nih.gov/articles/PMC3156028/),
+[2016 experimental challenge](https://pmc.ncbi.nlm.nih.gov/articles/PMC5078759/),
+[UNC theory statement](https://peplab.web.unc.edu/research/), and
+[systematic-review opening](https://www.cap-lab.be/files/modules/products/11/Vanlessen_Happymood&Attention_NBR2016.pdf)
+were used for the scoped checks recorded in
+`reviews/deg-psychdim-positive-emotions-quality-7f92c6ad.md`.
+
+The existing reasoning receipt was also reopened:
+[Reasoning 01](https://www.youtube.com/watch?v=LXYw-SGeCLs),
+[Reasoning 02](https://www.youtube.com/watch?v=5qYUqYN8GJ4),
+[official course identity](https://nptel.ac.in/courses/109103134),
+and [instructor credentials](https://www.iitg.ac.in/nkashyap/).
+The returned passages repeatedly blur truth and validity.
+No reasoning assignment is added in this pass; a future bounded
+case needs its own explanatory guide and independent review.
+
+### Routing
+
+`deg-integrate` remains with its live holder; app.js is untouched
+by this producer. TASKBOARD carries the add/remove request and
+an independent review request for the positive-emotions hold
+and the draft WOOP supplement. Adviser tooling is unavailable,
+and no adviser acceptance is claimed.
