@@ -2,7 +2,7 @@
  "baton": "deg-psychdim",
  "agent": "supervisor-7f92c6ad",
  "clocked_in": "2026-10-28T14:23:26+00:00",
- "released": false,
+ "released": true,
  "takeovers": [
   {
    "by": "worker-pplx-psychdim-1",
@@ -82,5 +82,6 @@
    "from": "supervisor-pplx-1028b",
    "reason": "released"
   }
- ]
+ ],
+ "released_at": "2026-10-28T14:27:34+00:00"
 }

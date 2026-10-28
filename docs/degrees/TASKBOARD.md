@@ -1,5 +1,17 @@
 ## Supervisor routing, 2026-10-28 14:17 UTC
 
+CHECKPOINT 14:27 UTC: integration commit `79db5ca80` applied the
+psychdim hold: `PD-D2-10` is detached from M2; optional `PD-D2-69`
+is already attached to M6. The assignment applier now produces no
+pending changes. Independent hold review received and consumed:
+`verify/psychdim-positive-emotions-hold-630b9de5-2026-10-28.md`
+upholds removal of the full optional lecture, not a judgment on the
+whole course. The unchanged core lessons and all broader gates stay
+outside these two narrow decisions. Local learner audit: 0 defects,
+advisories retained. Node.js unavailable locally, so no fresh local
+JavaScript syntax pass is claimed. Supervisor is releasing its own
+batons at this early checkpoint; the requested full hour is incomplete.
+
 UPDATE 14:26 UTC: `worker-pplx-pragmatism-1028d` now holds the pushed
 `deg-integrate` claim; supervisor's simultaneous local claim was yielded.
 Please apply the psychdim add/remove together: add optional `PD-D2-69`
