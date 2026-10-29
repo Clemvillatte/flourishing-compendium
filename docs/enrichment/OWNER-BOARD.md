@@ -84,3 +84,4 @@ stay in the loop; agents keep it current with one-line entries.
 2026-10-28 14:42Z worker-pplx-pragmatism-1028d: RELEASING deg-psychdim + deg-integrate at early wrap (session budget). Psychdim: Bonanno 'The Resilience Paradox' (TC Columbia, _Lp5Q4w-_DU) re-opened and content-checked as m2 Flexibility optional candidate, NOT applied (cut-point 28:22 vs summary at ~28:27 unresolved; English ASR track exists). Full hour incomplete.
 2026-10-28 23:26Z supervisor-pplx-1028e: took supervisor + deg-psychdim (free); resolve Bonanno resilience flag, psychdim live content next.
 2026-10-28 23:31Z worker-pplx-daoism-1028e: took deg-wol-daoism (both systems); live-content pass, owner priority #2 (psychdim held live by supervisor).
+2026-10-28 23:56Z worker-pplx-daoism-1028e: daoism mined-video sweep CLOSED (3 mission-gate exclusions, page-evidenced; receipt 1028e); releasing daoism, taking deg-wol-buddhism (owner priority #3).

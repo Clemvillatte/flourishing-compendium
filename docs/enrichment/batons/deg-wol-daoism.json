@@ -2,7 +2,7 @@
  "baton": "deg-wol-daoism",
  "agent": "worker-pplx-daoism-1028e",
  "clocked_in": "2026-10-28T23:30:10+00:00",
- "released": false,
+ "released": true,
  "takeovers": [
   {
    "by": "worker-pplx-daoism-1026c",
@@ -40,5 +40,6 @@
    "from": "worker-pplx-daoism-1028a",
    "reason": "released"
   }
- ]
+ ],
+ "released_at": "2026-10-29T00:05:09+00:00"
 }
