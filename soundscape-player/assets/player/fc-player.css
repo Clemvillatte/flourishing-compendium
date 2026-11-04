@@ -200,8 +200,8 @@
   background: var(--fcp-gold); border: none; cursor: pointer;
 }
 
-/* timer chips */
-.fcp-timers { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
+/* timer & flow mode chips */
+.fcp-timers, .fcp-modes { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
 .fcp-tlabel { font-size: 11px; text-transform: uppercase; letter-spacing: .12em; color: var(--fcp-muted); margin-right: 2px; }
 .fcp-chip {
   font-family: var(--fcp-font-ui);

@@ -94,9 +94,11 @@
     trimSilence: true,       // schedule only each buffer's audible content
                              // (strips AAC encoder priming/padding)
     normalizeLayers: true,     // scale layer gains by 1/sqrt(N) to avoid clipping
-    backgroundAudio: 'auto'   // iOS lock-screen handover: 'auto' enables it on
+    backgroundAudio: 'auto',  // iOS lock-screen handover: 'auto' enables it on
                              // iPhone/iPad only; true forces it on; false off.
                              // See the background-keeper block below Session.
+    seamlessLoop: false,     // when true (or loopFadeOut=0), loop wrap uses equal-power junction crossfade
+    playbackMode: 'ordered'  // 'ordered' (sequential), 'generative' (Endel Markov walk), 'shuffle'
   };
 
   // rotatePasses note: for a continuous recording the last→first junction is the
@@ -495,9 +497,10 @@
 
   // position/total for the display: per-pass position of the active set,
   // or elapsed session time in layers mode (layers drift, so a single
-  // per-pass position would be meaningless there).
+  // Displayed position: in layered mode or generative flow mode, elapsed
+  // session time (a per-pass position would be meaningless there).
   Session.prototype.displayPosition = function () {
-    if (this.mode === 'layers') {
+    if (this.mode === 'layers' || (this.activeEngine && this.activeEngine.opts.playbackMode === 'generative')) {
       if (this.playingState() !== 'playing' || !this.ctx) return this._elapsedBase;
       return this._elapsedBase + (this.ctx.currentTime - this._playStart);
     }
@@ -505,8 +508,16 @@
   };
 
   Session.prototype.displayTotal = function () {
-    if (this.mode === 'layers') return Infinity;
+    if (this.mode === 'layers' || (this.activeEngine && this.activeEngine.opts.playbackMode === 'generative')) return Infinity;
     return this.activeEngine ? this.activeEngine.totalDuration() : 0;
+  };
+
+  Session.prototype.setPlaybackMode = function (mode) {
+    this.playbackMode = mode;
+    for (var i = 0; i < this.engines.length; i++) {
+      this.engines[i].opts.playbackMode = mode;
+    }
+    if (this.ui) this.ui.updatePlaybackMode(mode);
   };
 
   Session.prototype.play = function () {
@@ -1240,7 +1251,15 @@
       // the first track.
       var n = this._segmentCount();
       var nextIdx;
-      if (idx === (this._schedLoopStart + n - 1) % n) {
+      if (this.opts.playbackMode === 'generative') {
+        nextIdx = this._pickGenerativeNext(idx);
+        this._pendingPassStart = false;
+        this._pendingPassFade = 0.05;
+      } else if (this.opts.playbackMode === 'shuffle') {
+        nextIdx = this._pickShuffleNext(idx);
+        this._pendingPassStart = false;
+        this._pendingPassFade = 0.05;
+      } else if (idx === (this._schedLoopStart + n - 1) % n) {
         var k;
         if (this.opts.rotatePasses) {
           k = Math.floor(Math.random() * n);
@@ -1251,7 +1270,7 @@
         this._schedLoopStart = k;
         this._nextLoopStart = k;
         this._pendingPassStart = true;
-        this._pendingPassFade = 1.2; // gentle fade-in on the new pass
+        this._pendingPassFade = (this.opts.seamlessLoop || this.opts.loopFadeOut === 0) ? 0.05 : 1.2;
         nextIdx = k;
       } else {
         nextIdx = (idx + 1) % n;
@@ -1267,10 +1286,68 @@
     });
   };
 
+  Engine.prototype._pickGenerativeNext = function (currentIdx) {
+    var n = this._segmentCount();
+    if (n <= 1) return 0;
+    if (!this._genHistory) this._genHistory = [];
+    if (this._genHistory.indexOf(currentIdx) < 0) this._genHistory.push(currentIdx);
+    var histLimit = Math.min(Math.max(1, Math.floor(n / 2)), 6);
+    while (this._genHistory.length > histLimit) this._genHistory.shift();
+    var pool = [];
+    for (var i = 0; i < n; i++) {
+      if (this._genHistory.indexOf(i) < 0) pool.push(i);
+    }
+    if (!pool.length) {
+      for (var j = 0; j < n; j++) {
+        if (j !== currentIdx) pool.push(j);
+      }
+    }
+    if (!pool.length) return 0;
+    var weights = [], totalWeight = 0;
+    for (var k = 0; k < pool.length; k++) {
+      var cand = pool[k];
+      var diff = Math.abs(cand - currentIdx);
+      var dist = Math.min(diff, n - diff);
+      var w = 1.0 / (1.0 + dist * 0.5);
+      weights.push(w);
+      totalWeight += w;
+    }
+    var r = Math.random() * totalWeight, acc = 0, chosen = pool[0];
+    for (var m = 0; m < pool.length; m++) {
+      acc += weights[m];
+      if (r <= acc) { chosen = pool[m]; break; }
+    }
+    this._genHistory.push(chosen);
+    while (this._genHistory.length > histLimit) this._genHistory.shift();
+    return chosen;
+  };
+
+  Engine.prototype._pickShuffleNext = function (currentIdx) {
+    var n = this._segmentCount();
+    if (n <= 1) return 0;
+    if (!this._shuffleBag || !this._shuffleBag.length) {
+      var bag = [];
+      for (var i = 0; i < n; i++) bag.push(i);
+      for (var j = bag.length - 1; j > 0; j--) {
+        var r = Math.floor(Math.random() * (j + 1));
+        var tmp = bag[j]; bag[j] = bag[r]; bag[r] = tmp;
+      }
+      if (bag[0] === currentIdx && bag.length > 1) {
+        var swapIdx = 1 + Math.floor(Math.random() * (bag.length - 1));
+        var t = bag[0]; bag[0] = bag[swapIdx]; bag[swapIdx] = t;
+      }
+      this._shuffleBag = bag;
+    }
+    return this._shuffleBag.shift();
+  };
+
   Engine.prototype._scheduleSegment = function (idx, buf, when, offset, fadeIn, passLoopStart) {
     var self = this;
     var src = this.ctx.createBufferSource();
     src.buffer = buf;
+
+    var span = this._spanOf(buf);
+    var dur = span.duration - offset;
 
     if (fadeIn == null) fadeIn = 0.05;
     // a fade-in longer than the segment is meaningless and its ramp would
@@ -1281,9 +1358,7 @@
     if (passLoopStart == null) passLoopStart = this._loopStart;
     // pass-final is judged against the pass this segment BELONGS to (the
     // queued plan's pass while scheduling ahead, not necessarily the audible one)
-    var isPassFinal = idx === (passLoopStart + n - 1) % n;
-    var span = this._spanOf(buf);
-    var dur = span.duration - offset;
+    var isPassFinal = !this.opts.seamlessLoop && (this.opts.loopFadeOut > 0) && (idx === (passLoopStart + n - 1) % n);
 
     // ---- junction-aware fade ----
     // When this segment butt-joins a still-sounding predecessor and no
@@ -1421,7 +1496,11 @@
       // in which case the queued next pass (or a fresh pick) begins
       var n = this._segmentCount();
       var succ = (idx + 1) % n;
-      if (idx === (this._loopStart + n - 1) % n) {
+      if (this.opts.playbackMode === 'generative') {
+        succ = this._pickGenerativeNext(idx);
+      } else if (this.opts.playbackMode === 'shuffle') {
+        succ = this._pickShuffleNext(idx);
+      } else if (idx === (this._loopStart + n - 1) % n) {
         if (this._nextLoopStart == null) {
           if (this.opts.rotatePasses) {
             var kk = Math.floor(Math.random() * n);
@@ -1433,7 +1512,7 @@
         }
         succ = this._nextLoopStart;
         this._pendingPassStart = true;  // that successor begins a new pass
-        this._pendingPassFade = 1.2;
+        this._pendingPassFade = (this.opts.seamlessLoop || this.opts.loopFadeOut === 0) ? 0.05 : 1.2;
         this._schedLoopStart = succ;   // and the scheduler is now filling that pass
       }
       this.segIndex = succ;
@@ -1521,6 +1600,11 @@
     var n = this._segmentCount();
     if (!n) return;
     this.jumpTo(Math.floor(Math.random() * n));
+  };
+
+  Engine.prototype.setPlaybackMode = function (mode) {
+    this.opts.playbackMode = mode;
+    if (this.session && this.session.ui) this.session.ui.updatePlaybackMode(mode);
   };
 
   // Compute the current resume snapshot (segment + offset + per-pass
@@ -1712,6 +1796,12 @@
       '  <button class="fcp-chip" data-min="45">45m</button>',
       '  <button class="fcp-chip" data-min="0">off</button>',
       '</div>',
+      '<div class="fcp-row fcp-modes">',
+      '  <span class="fcp-tlabel">Flow</span>',
+      '  <button type="button" class="fcp-chip fcp-mode-chip on" data-mode="ordered" title="Sequential continuous loop with seamless wrap">Sequential</button>',
+      '  <button type="button" class="fcp-chip fcp-mode-chip" data-mode="generative" title="Endel Generative Flow (non-linear stochastic walk)">Endel Flow</button>',
+      '  <button type="button" class="fcp-chip fcp-mode-chip" data-mode="shuffle" title="Continuous shuffle cycle">Shuffle</button>',
+      '</div>',
       '<label class="fcp-circ">',
       '  <input type="checkbox" checked> <span>Adapt to time of day</span>',
       '</label>',
@@ -1824,13 +1914,22 @@
         } else self.session._applyCircadian();
       }
     });
-    var chips = this.panel.querySelectorAll('.fcp-chip');
+    var chips = this.panel.querySelectorAll('.fcp-timers .fcp-chip');
     for (var i = 0; i < chips.length; i++) {
       chips[i].addEventListener('click', function () {
         var m = parseInt(this.getAttribute('data-min'), 10);
         self.session.setTimer(m);
         for (var j = 0; j < chips.length; j++) chips[j].classList.remove('on');
         if (m > 0) this.classList.add('on');
+      });
+    }
+
+    // flow mode chips (Sequential, Endel Flow, Shuffle)
+    var modeChips = this.panel.querySelectorAll('.fcp-mode-chip');
+    for (var mi = 0; mi < modeChips.length; mi++) {
+      modeChips[mi].addEventListener('click', function () {
+        var m = this.getAttribute('data-mode');
+        if (self.session) self.session.setPlaybackMode(m);
       });
     }
 
@@ -2093,6 +2192,16 @@
     this._highlightLayers();
   };
 
+  UI.prototype.updatePlaybackMode = function (mode) {
+    var modeChips = this.panel.querySelectorAll('.fcp-mode-chip');
+    for (var i = 0; i < modeChips.length; i++) {
+      modeChips[i].classList.toggle('on', modeChips[i].getAttribute('data-mode') === mode);
+    }
+    this.updatePosition();
+    var total = this.session ? this.session.displayTotal() : 0;
+    this.totalEl.textContent = (total === Infinity) ? '∞' : fmtTime(total);
+  };
+
   UI.prototype.updatePosition = function () {
     if (!this.session) return;
     this.posEl.textContent = fmtTime(this.session.displayPosition());
@@ -2156,7 +2265,7 @@
    * they apply to whichever set/layer arrangement is mounted. */
   function makeEngineFacade(session) {
     var SESSION_METHODS = {
-      play: 1, pause: 1, stop: 1, jumpTo: 1, random: 1, setTimer: 1, setVolume: 1
+      play: 1, pause: 1, stop: 1, jumpTo: 1, random: 1, setTimer: 1, setVolume: 1, setPlaybackMode: 1
     };
     return new Proxy({}, {
       get: function (t, prop) {
