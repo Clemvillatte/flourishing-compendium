@@ -1,67 +1,49 @@
-# Soundscape Player Handoff: Scope, Course of Action & Next Steps
+# FCPlayer — Architecture, Implementation & UI Reference
 
 **Repository:** `https://github.com/Clemvillatte/flourishing-compendium`  
 **Host Application:** *The Flourishing Compendium* (GitHub Pages)  
-**Date:** 2026-11-04  
+**Date:** 2026-11-05  
 
 ---
 
-## 1. Core Vision & User Intent (READ FIRST)
+## 1. Vision & User Architecture
 
-The user’s objective for this audio player is simple, focused, and elegant:
-1. **One Button `[♪]` on the Wiki:**  
-   The player is docked in the Wiki header (`#fcLauncher`). The user clicks `[♪]`, the dropdown opens, they hit play or choose a track/soundscape, and then freely navigate the Wiki to find inspiration, learn, or make connections while music plays in the background.
-2. **Smooth, Seamless Playback (NO Abrupt Cuts):**  
-   All audio transitions must be buttery smooth:
-   - Slices of the same continuous master recording ($i \to i+1$) join sample-accurately with 12ms priming-trim crossfade (`junctionFade: 0.012`).
-   - Loop wraps ($N-1 \to 0$), manual track jumps, and non-contiguous changes use a **5.0-second equal-power crossfade** ($\cos$ fade-out, $\sin$ fade-in; constant acoustic energy $\cos^2 \theta + \sin^2 \theta = 1$).
-   - Wrap-around prefetching ensures track 0 is pre-decoded in memory before track $N-1$ finishes.
-3. **Keep All Added Audio Sets:**  
-   Keep all 30 high-quality lyricless soundscapes (felt piano, ambient piano, nylon guitar, baroque lute, still waters handpan, 14Hz beta waves, calm morning, winter piano, brown noise, pink noise, etc.).
-4. **Possibility to Play with a Layer Bed:**  
-   A clean, intuitive acoustic bed option (e.g. blend Brown Noise underneath a felt piano track) without cluttering the player.
-5. **Rework the UI of the Existing Player:**  
-   The previous dropdown was a bit narrow and cluttered. It needs to be reworked into a spacious, elegant, easy-to-navigate interface.
-6. **WHAT WAS REJECTED (DO NOT RE-ADD):**  
-   - **NO separate Studio / Editor page (`studio.html` has been removed).**
-   - **NO cognitive neuroscience text blocks or ADHD essays in the UI.**
-   - **NO complicated presets or multi-editor clutter.**
-
----
-
-## 2. Current Status & What Has Been Done
-
-- **Audio Engine (`fc-player.js`):**
-  - Contiguous sample-accurate slice joining (12ms) implemented.
-  - 5.0-second equal-power crossfade for non-contiguous transitions and loop wrap implemented.
-  - Lookahead window expanded to 12.0s to allow 5s crossfades to pre-schedule without underruns.
-  - Wrap-around prefetching implemented (`(this.segIndex + k) % n`).
-  - Manual track jump micro-crossfade ramp (0.4s) to eliminate clicks.
-  - Real-time Web Audio API acoustic bed (Brown, Pink, White, 14Hz Beta) synthesized in-engine.
-- **Removed Unwanted Items:**
-  - `site/studio.html` deleted.
-  - ADHD / cognitive science essays removed from UI.
-- **Audio Sets in Place:**
-  All 30 audio directories exist in `site/assets/audio/` and `soundscape-player/assets/audio/`.
+The player provides background focus audio for readers and writers navigating *The Flourishing Compendium*:
+1. **Single Entry Point `[♪]`:**
+   - A single docked button in the Wiki topbar (`#fcLauncher`) or floating bottom-right pill.
+   - When playing, a gentle breathing halo pulses on the button.
+   - Clicking opens a spacious, elegant 440px dropdown card directly below `#topbar`.
+2. **Smooth, Seamless Continuous Flow:**
+   - Slices of the same continuous master recording ($i \to i+1$) join sample-accurately with a 12ms priming-trim crossfade (`junctionFade: 0.012`) to eliminate AAC encoder padding.
+   - Loop wrap ($N-1 \to 0$) and track changes execute a **5.0-second equal-power crossfade** ($\cos^2 \theta + \sin^2 \theta = 1$) so acoustic energy never dips, surges, or clicks.
+   - Lookahead window is 12.0s with wrap-around buffer prefetching (`(this.segIndex + k) % n`), ensuring track 0 is pre-decoded in memory before track $N-1$ finishes.
+3. **Soundscape Sets (30 Lyricless Compositions):**
+   - **Ambient:** Flow, Deliberate Practice, Deep Listening, Completing the Cycle, Rhythm of Rest, Completeness of Rest, The Dreaming, Siddhartha and the River, Abgeschiedenheit, Nature’s Rhythm, Thundering Silence, Stimulus Control, Dream of the Butterfly, Flower and Song, The Dark Night, Bare Attention.
+   - **Piano:** Changing Pace (Felt Piano), The World Can Wait (Piano), Winter Meditations (Felt).
+   - **Guitar & Lute:** Dawn (Nylon Guitar), Waves (Ambient Guitar), A Calm Morning (Guitar), London Suite IV (Baroque Lute).
+   - **Handpan & Focus:** Still Waters (Calm Handpan), Nervous Regulation 999Hz, 14Hz Beta Waves (Focus).
+   - **Noise Beds:** Brown Noise (1/f² Bed), Pink Noise (1/f Resonance), White Noise (Full-Spectrum).
+4. **Real-Time Web Audio Acoustic Layer Bed:**
+   - Procedural Web Audio API synthesis (zero network loading, zero file seams):
+     - `Brown`: Continuous Paul Kellet brownian filter ($1/f^2$).
+     - `Pink`: Continuous Paul Kellet pinking filter ($1/f$).
+     - `White`: Full-spectrum uniform white noise.
+     - `14Hz Beta`: Dual stereo sine oscillators (200 Hz Left / 214 Hz Right) producing a sample-accurate 14Hz binaural beat.
+   - Dedicated level slider with percentage readout.
+5. **Clean, Spacious 440px UI:**
+   - Header with Now Playing title, subtitle, and tabular time indicator.
+   - Transport row: Large solid gold Play/Pause button (48px), Random Soundscape Set dice button, Random Track shuffle button, Stop button, and Volume slider.
+   - Soundscapes selector with responsive category tabs (`All`, `Ambient`, `Piano`, `Guitar & Lute`, `Handpan & Focus`, `Noise Beds`) and pill chips with gold active highlights.
+   - Acoustic Layer Bed card with mode selector and bed level slider.
+   - Tracks list with movement numbers, durations, and active track highlight.
+   - Footer with session timers (`15m`, `25m`, `45m`, `off`) and circadian time-of-day filter.
 
 ---
 
-## 3. Course of Action for Next Agent
+## 2. Verification
 
-1. **Rework the Existing Player Dropdown UI (`fc-player.css` & `fc-player.js`):**
-   - **Widen the panel:** The current panel max-width is 340px; widen to ~420px–460px with generous padding and cleaner typography so it feels spacious rather than cramped.
-   - **Simplified Layout:**
-     - Top row: Current track title, subtitle, and play/pause button.
-     - Sets selector: Clean grid or categorized chips (Piano, Strings, Ambient, Focus, Noise) instead of a tall cramped single list.
-     - Acoustic Layer Bed: A clean, minimal toggle/slider row (e.g., `[Bed: Off / Brown / Pink / 14Hz] [Volume Slider]`).
-     - Progress bar + Timer chips (15m, 25m, 45m, Off).
-   - **Preserve Single-Button Trigger:** Keep the docked `[♪]` button (`#fcLauncher`) and dropdown placement below `#topbar`.
-2. **Maintain Strict Parity:**
-   - Any edit to `soundscape-player/assets/player/fc-player.js` MUST be copied byte-identically to `site/assets/player/fc-player.js`.
-   - Any edit to `soundscape-player/assets/player/fc-player.css` MUST be copied byte-identically to `site/assets/player/fc-player.css`.
-   - Verify with: `diff -q soundscape-player/assets/player/fc-player.js site/assets/player/fc-player.js`
-3. **Test Suite Verification:**
-   - Python tests: `python3 -m unittest discover -s scripts/tests -v` (119 tests must pass).
-   - Node tests: `export PATH="/usr/local/bin:$PATH" && node --test scripts/tests/randomizer.test.cjs` (9 tests must pass).
-4. **Git Remote Sync:**
-   - Push to `origin main` using the authenticated PAT URL configured in `git remote -v`.
+- Python unit tests: `119/119 pass` (`python3 -m unittest discover -s scripts/tests -v`).
+- Node tests: `9/9 pass` (`node --test scripts/tests/randomizer.test.cjs`).
+- Syntax verification: `node -c site/assets/player/fc-player.js` (clean, 0 errors).
+- Byte parity: `site/assets/player/fc-player.js` $\equiv$ `soundscape-player/assets/player/fc-player.js` and `.css` $\equiv$ `.css`.
+- Archive: `/Users/clemmy/Downloads/FCPlayer_Audio_Handoff.zip`.
