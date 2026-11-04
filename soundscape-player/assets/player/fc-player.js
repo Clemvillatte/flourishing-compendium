@@ -1191,11 +1191,12 @@
   };
 
   Engine.prototype._prefetch = function () {
-    // keep the next 3 segments decoded (segIndex = next to schedule)
+    // keep the next 3 segments decoded (wrapping around for loop wrap)
     var n = this._segmentCount();
-    for (var k = 0; k < 3; k++) {
-      var idx = this.segIndex + k;
-      if (idx < n) this.loadBuffer(idx).catch(function () {});
+    if (!n) return;
+    for (var k = 0; k < Math.min(3, n); k++) {
+      var idx = (this.segIndex + k) % n;
+      this.loadBuffer(idx).catch(function () {});
     }
   };
 
@@ -1298,42 +1299,6 @@
     this.rafId = requestAnimationFrame(function loop() {
       if (self.state === 'playing') { self.ui.updatePosition(); self.rafId = requestAnimationFrame(loop); }
     });
-  };
-
-  Engine.prototype._pickGenerativeNext = function (currentIdx) {
-    var n = this._segmentCount();
-    if (n <= 1) return 0;
-    if (!this._genHistory) this._genHistory = [];
-    if (this._genHistory.indexOf(currentIdx) < 0) this._genHistory.push(currentIdx);
-    var histLimit = Math.min(Math.max(1, Math.floor(n / 2)), 6);
-    while (this._genHistory.length > histLimit) this._genHistory.shift();
-    var pool = [];
-    for (var i = 0; i < n; i++) {
-      if (this._genHistory.indexOf(i) < 0) pool.push(i);
-    }
-    if (!pool.length) {
-      for (var j = 0; j < n; j++) {
-        if (j !== currentIdx) pool.push(j);
-      }
-    }
-    if (!pool.length) return 0;
-    var weights = [], totalWeight = 0;
-    for (var k = 0; k < pool.length; k++) {
-      var cand = pool[k];
-      var diff = Math.abs(cand - currentIdx);
-      var dist = Math.min(diff, n - diff);
-      var w = 1.0 / (1.0 + dist * 0.5);
-      weights.push(w);
-      totalWeight += w;
-    }
-    var r = Math.random() * totalWeight, acc = 0, chosen = pool[0];
-    for (var m = 0; m < pool.length; m++) {
-      acc += weights[m];
-      if (r <= acc) { chosen = pool[m]; break; }
-    }
-    this._genHistory.push(chosen);
-    while (this._genHistory.length > histLimit) this._genHistory.shift();
-    return chosen;
   };
 
   Engine.prototype._pickShuffleNext = function (currentIdx) {
@@ -1512,9 +1477,7 @@
       // in which case the queued next pass (or a fresh pick) begins
       var n = this._segmentCount();
       var succ = (idx + 1) % n;
-      if (this.opts.playbackMode === 'generative') {
-        succ = this._pickGenerativeNext(idx);
-      } else if (this.opts.playbackMode === 'shuffle') {
+      if (this.opts.playbackMode === 'shuffle') {
         succ = this._pickShuffleNext(idx);
       } else if (idx === (this._loopStart + n - 1) % n) {
         if (this._nextLoopStart == null) {
@@ -1954,7 +1917,7 @@
       });
     }
 
-    // flow mode chips (Sequential, Endel Flow, Shuffle)
+    // playback mode chips (Flow, Sequential, Shuffle)
     var modeChips = this.panel.querySelectorAll('.fcp-mode-chip');
     for (var mi = 0; mi < modeChips.length; mi++) {
       modeChips[mi].addEventListener('click', function () {
