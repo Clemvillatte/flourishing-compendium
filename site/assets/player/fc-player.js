@@ -81,16 +81,17 @@
     files: null,             // array of File objects (local mode)
     sets: null,              // array of set definitions (multi-set mode)
     layers: null,            // array of layer definitions (layered/stems mode)
-    loopFadeOut: 3.0,        // seconds of fade-out on the final segment before looping
-    lookahead: 2.5,          // seconds of scheduling lookahead
+    loopFadeOut: 3.0,        // seconds of fade-out on the final segment before looping (legacy)
+    flowCrossfade: 5.0,      // seconds of lush equal-power crossfade on non-contiguous transitions & loop wrap
+    lookahead: 12.0,         // seconds of scheduling lookahead (must exceed flowCrossfade)
     poll: 200,               // ms between scheduler ticks
     rotatePasses: false,     // QUARANTINED: see note below. Do not enable in
                              // examples unless the junction-fade problem is
                              // solved (docs/ROADMAP.md, HANDOFF.md).
     setCrossfade: 4.0,       // seconds of crossfade when switching sets
     soloFade: 1.5,           // seconds of crossfade when soloing a layer
-    junctionFade: 0.012,     // seconds of equal-power crossfade at every
-                             // segment junction (see contentSpan note below)
+    junctionFade: 0.012,     // seconds of equal-power crossfade at contiguous
+                             // segment junctions (strips priming/padding)
     trimSilence: true,       // schedule only each buffer's audible content
                              // (strips AAC encoder priming/padding)
     normalizeLayers: true,     // scale layer gains by 1/sqrt(N) to avoid clipping
@@ -98,7 +99,7 @@
                              // iPhone/iPad only; true forces it on; false off.
                              // See the background-keeper block below Session.
     seamlessLoop: false,     // when true (or loopFadeOut=0), loop wrap uses equal-power junction crossfade
-    playbackMode: 'ordered'  // 'ordered' (sequential), 'generative' (Endel Markov walk), 'shuffle'
+    playbackMode: 'flow'     // 'flow' (infinite seamless river), 'ordered' (sequential), 'shuffle'
   };
 
   // rotatePasses note: for a continuous recording the last→first junction is the
@@ -497,10 +498,10 @@
 
   // position/total for the display: per-pass position of the active set,
   // or elapsed session time in layers mode (layers drift, so a single
-  // Displayed position: in layered mode or generative flow mode, elapsed
-  // session time (a per-pass position would be meaningless there).
+  // Displayed position: in layered, flow, or shuffle mode, elapsed session time.
   Session.prototype.displayPosition = function () {
-    if (this.mode === 'layers' || (this.activeEngine && this.activeEngine.opts.playbackMode === 'generative')) {
+    var isFlow = this.activeEngine && (this.activeEngine.opts.playbackMode === 'flow' || this.activeEngine.opts.playbackMode === 'generative' || this.activeEngine.opts.playbackMode === 'shuffle');
+    if (this.mode === 'layers' || isFlow) {
       if (this.playingState() !== 'playing' || !this.ctx) return this._elapsedBase;
       return this._elapsedBase + (this.ctx.currentTime - this._playStart);
     }
@@ -508,7 +509,8 @@
   };
 
   Session.prototype.displayTotal = function () {
-    if (this.mode === 'layers' || (this.activeEngine && this.activeEngine.opts.playbackMode === 'generative')) return Infinity;
+    var isFlow = this.activeEngine && (this.activeEngine.opts.playbackMode === 'flow' || this.activeEngine.opts.playbackMode === 'generative' || this.activeEngine.opts.playbackMode === 'shuffle');
+    if (this.mode === 'layers' || isFlow) return Infinity;
     return this.activeEngine ? this.activeEngine.totalDuration() : 0;
   };
 
@@ -1251,10 +1253,22 @@
       // the first track.
       var n = this._segmentCount();
       var nextIdx;
-      if (this.opts.playbackMode === 'generative') {
-        nextIdx = this._pickGenerativeNext(idx);
-        this._pendingPassStart = false;
-        this._pendingPassFade = 0.05;
+      if (this.opts.playbackMode === 'flow' || this.opts.playbackMode === 'generative') {
+        // Flow mode: continuous sequential progression with 5.0s seamless crossfaded loop wrapping
+        if (idx === (this._schedLoopStart + n - 1) % n) {
+          var k = 0;
+          if (this.opts.rotatePasses) {
+            k = Math.floor(Math.random() * n);
+            if (n > 1 && k === this._schedLoopStart) k = (k + 1 + Math.floor(Math.random() * (n - 1))) % n;
+          }
+          this._schedLoopStart = k;
+          this._nextLoopStart = k;
+          this._pendingPassStart = true;
+          this._pendingPassFade = 0.05;
+          nextIdx = k;
+        } else {
+          nextIdx = (idx + 1) % n;
+        }
       } else if (this.opts.playbackMode === 'shuffle') {
         nextIdx = this._pickShuffleNext(idx);
         this._pendingPassStart = false;
@@ -1358,27 +1372,29 @@
     if (passLoopStart == null) passLoopStart = this._loopStart;
     // pass-final is judged against the pass this segment BELONGS to (the
     // queued plan's pass while scheduling ahead, not necessarily the audible one)
-    var isPassFinal = !this.opts.seamlessLoop && (this.opts.loopFadeOut > 0) && (idx === (passLoopStart + n - 1) % n);
+    var isPassFinal = !this.opts.seamlessLoop && (this.opts.playbackMode !== 'flow') && (this.opts.playbackMode !== 'generative') && (this.opts.loopFadeOut > 0) && (idx === (passLoopStart + n - 1) % n);
 
-    // ---- junction-aware fade ----
-    // When this segment butt-joins a still-sounding predecessor and no
-    // designed fade covers the junction, overlap the two by `junctionFade`
-    // seconds with complementary equal-power curves: the predecessor's tail
-    // fades out while this segment fades in over the same window. Any
-    // residual boundary step (encoder artifacts, non-continuous material)
-    // becomes inaudible instead of a click. Designed transitions (pass wrap
-    // fades, jump/resume fade-ins) keep their own curves and skip this.
+    // ---- junction-aware fade & lush musical crossfade ----
+    // Contiguous slices of the same master (idx === prev.idx + 1) use junctionFade
+    // (12ms) with trimSilence to eliminate AAC encoder priming/padding transparently.
+    // Non-contiguous joins (loop wrap N-1 -> 0, Flow transitions, Shuffle) use
+    // flowCrossfade (5.0s equal-power crossfade) so transitions are lush and inaudible.
     var jf = 0;
     var prev = this._jfPrev;
-    if (this.opts.junctionFade > 0 && offset === 0 && fadeIn <= 0.06 && dur > 0.2 &&
+    if (offset === 0 && fadeIn <= 0.06 && dur > 0.2 &&
         prev && prev.src && Math.abs(prev.end - when) < 0.001 &&
         this.sources.indexOf(prev.src) >= 0) {
-      // ≤ 10 % of the shorter side: the overlap window must stay clear of any
-      // fade-in ramp on the predecessor (85 % cap above) on the same param
-      jf = Math.min(this.opts.junctionFade, dur / 10, prev.dur / 10);
+      var isContiguous = (prev.idx != null) && (idx === prev.idx + 1);
+      if (isContiguous) {
+        jf = Math.min(this.opts.junctionFade, dur / 10, prev.dur / 10);
+      } else if (this.opts.seamlessLoop || this.opts.playbackMode === 'flow' || this.opts.playbackMode === 'generative' || this.opts.playbackMode === 'shuffle') {
+        var targetFade = (typeof this.opts.flowCrossfade === 'number') ? this.opts.flowCrossfade : 5.0;
+        jf = Math.min(targetFade, dur * 0.45, prev.dur * 0.45);
+      }
     }
 
     var g = this.ctx.createGain();
+    src._fcpGain = g; // store for gentle track-jump fade-outs
     if (fadeIn > 0.06) {
       // gentle fade-in (new pass after a wrap, or a track jump)
       g.gain.setValueAtTime(0.0001, when);
@@ -1391,11 +1407,11 @@
       // leaving a half-applied crossfade.
       var prevStart = when - jf;
       try {
-        prev.gain.gain.setValueCurveAtTime(fadeCurve(1, 0.0001), prevStart, jf);
+        prev.gain.gain.setValueCurveAtTime(fadeCurve(1, 0.0001, 64), prevStart, jf);
       } catch (e1) { jf = 0; }
       if (jf > 0) {
         try {
-          g.gain.setValueCurveAtTime(fadeCurve(0.0001, 1), prevStart, jf);
+          g.gain.setValueCurveAtTime(fadeCurve(0.0001, 1, 64), prevStart, jf);
           when = prevStart;
           prev.src._fcpTailJf = jf; // the successor starts jf before this source ends
         } catch (e2) {
@@ -1425,7 +1441,7 @@
     src._fcpAdvance = dur - jf; // timeline delta the scheduler advances by
     src._fcpWhen = when; // scheduled start (QA rendering)
     src.start(when, span.offset + offset, dur);
-    this._jfPrev = { src: src, gain: g, end: when + dur, dur: dur };
+    this._jfPrev = { src: src, gain: g, end: when + dur, dur: dur, idx: idx };
     this.sources.push(src);
     src.onended = function () {
       var at = self.sources.indexOf(src);
@@ -1583,14 +1599,14 @@
     this.ensureContext();
     if (this.ctx.state === 'suspended') this.ctx.resume();
     this._playGen++; // invalidate pending starts
-    this._stopSources();
+    this._stopSources(0.4);
     this.segIndex = idx;
     this.segOffset = 0;
     this._frontIdx = idx;
     if (this.opts.rotatePasses) { this._loopStart = idx; this._schedLoopStart = idx; } // jumped-to track anchors a new pass
     this._nextLoopStart = null;
     this._pausedPos = 0;     // position display restarts for the new pass
-    this._resumeFade = 0.8;  // gentle fade-in on the jump
+    this._resumeFade = 0.6;  // gentle fade-in on the jump
     this.state = 'paused'; // resume path will schedule this segment from its start
     this.play();
   };
@@ -1685,11 +1701,25 @@
     this.ui.update();
   };
 
-  Engine.prototype._stopSources = function () {
+  Engine.prototype._stopSources = function (fadeSec) {
     if (this.rafId) cancelAnimationFrame(this.rafId);
     this._jfPrev = null; // no predecessor sounds after a stop — junction fades reset
+    var now = this.ctx ? this.ctx.currentTime : 0;
+    var fade = (typeof fadeSec === 'number' && fadeSec > 0) ? fadeSec : 0;
     for (var i = 0; i < this.sources.length; i++) {
-      try { this.sources[i].stop(); } catch (e) {}
+      var s = this.sources[i];
+      if (fade > 0 && s._fcpGain && this.ctx && s._fcpGain.gain) {
+        try {
+          s._fcpGain.gain.cancelScheduledValues(now);
+          s._fcpGain.gain.setValueAtTime(s._fcpGain.gain.value, now);
+          s._fcpGain.gain.linearRampToValueAtTime(0.0001, now + fade);
+          setTimeout((function (src) { return function () { try { src.stop(); } catch (e) {} }; })(s), Math.round(fade * 1000) + 30);
+        } catch (e) {
+          try { s.stop(); } catch (e2) {}
+        }
+      } else {
+        try { s.stop(); } catch (e) {}
+      }
     }
     this.sources = [];
   };
@@ -1797,10 +1827,10 @@
       '  <button class="fcp-chip" data-min="0">off</button>',
       '</div>',
       '<div class="fcp-row fcp-modes">',
-      '  <span class="fcp-tlabel">Flow</span>',
-      '  <button type="button" class="fcp-chip fcp-mode-chip on" data-mode="ordered" title="Sequential continuous loop with seamless wrap">Sequential</button>',
-      '  <button type="button" class="fcp-chip fcp-mode-chip" data-mode="generative" title="Endel Generative Flow (non-linear stochastic walk)">Endel Flow</button>',
-      '  <button type="button" class="fcp-chip fcp-mode-chip" data-mode="shuffle" title="Continuous shuffle cycle">Shuffle</button>',
+      '  <span class="fcp-tlabel">Mode</span>',
+      '  <button type="button" class="fcp-chip fcp-mode-chip on" data-mode="flow" title="Continuous flow with 5s seamless crossfades">Flow</button>',
+      '  <button type="button" class="fcp-chip fcp-mode-chip" data-mode="ordered" title="Sequential ordered loop">Sequential</button>',
+      '  <button type="button" class="fcp-chip fcp-mode-chip" data-mode="shuffle" title="Continuous shuffle cycle with 5s crossfades">Shuffle</button>',
       '</div>',
       '<label class="fcp-circ">',
       '  <input type="checkbox" checked> <span>Adapt to time of day</span>',
@@ -2193,6 +2223,7 @@
   };
 
   UI.prototype.updatePlaybackMode = function (mode) {
+    if (mode === 'generative') mode = 'flow';
     var modeChips = this.panel.querySelectorAll('.fcp-mode-chip');
     for (var i = 0; i < modeChips.length; i++) {
       modeChips[i].classList.toggle('on', modeChips[i].getAttribute('data-mode') === mode);

@@ -161,8 +161,10 @@
     ];
     var instance = FCPlayer.mount({
       setCrossfade: 4,
+      flowCrossfade: 5,
+      lookahead: 12,
       seamlessLoop: true,
-      playbackMode: 'generative',
+      playbackMode: 'flow',
       sets: SETS.map(function (s) {
         return {
           id: s[0],
