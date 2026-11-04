@@ -1771,34 +1771,36 @@
     this.panel.setAttribute('aria-label', 'Soundscape player');
     this.panel.innerHTML = [
       '<div class="fcp-head">',
-      '  <div class="fcp-title"></div>',
-      '  <div class="fcp-sub"></div>',
-      '</div>',
-      '<div class="fcp-row fcp-controls">',
-      '  <button class="fcp-ctl fcp-setrandom" type="button" hidden aria-label="Launch a random set" title="Launch a random set"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="4"/><circle cx="8" cy="8" r="1.1" fill="currentColor" stroke="none"/><circle cx="16" cy="8" r="1.1" fill="currentColor" stroke="none"/><circle cx="12" cy="12" r="1.1" fill="currentColor" stroke="none"/><circle cx="8" cy="16" r="1.1" fill="currentColor" stroke="none"/><circle cx="16" cy="16" r="1.1" fill="currentColor" stroke="none"/></svg></button>',
-      '  <button class="fcp-ctl fcp-random" aria-label="Jump to a random track" title="Random track"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16 3h5v5"/><path d="M4 20L21 3"/><path d="M21 16v5h-5"/><path d="M15 15l6 6"/><path d="M4 4l5 5"/></svg></button>',
-      '  <button class="fcp-play" aria-label="Play or pause"><svg viewBox="0 0 24 24" aria-hidden="true"><path class="fcp-ic-play" d="M8 5v14l11-7z"/><path class="fcp-ic-pause" d="M6 5h4v14H6zm8 0h4v14h-4z"/></svg></button>',
-      '  <button class="fcp-ctl fcp-stop" aria-label="Stop" title="Stop"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="6" y="6" width="12" height="12" rx="1.5"/></svg></button>',
+      '  <div class="fcp-head-info">',
+      '    <div class="fcp-title"></div>',
+      '    <div class="fcp-sub"></div>',
+      '  </div>',
       '  <div class="fcp-time"><span class="fcp-pos">0:00</span><span class="fcp-sep">/</span><span class="fcp-total">--:--</span></div>',
       '</div>',
-      '<input class="fcp-vol" type="range" min="0" max="100" value="80" aria-label="Volume">',
-      '<div class="fcp-row fcp-timers">',
-      '  <span class="fcp-tlabel">Timer</span>',
-      '  <button class="fcp-chip" data-min="15">15m</button>',
-      '  <button class="fcp-chip" data-min="25">25m</button>',
-      '  <button class="fcp-chip" data-min="45">45m</button>',
-      '  <button class="fcp-chip" data-min="0">off</button>',
+      '<div class="fcp-row fcp-controls">',
+      '  <div class="fcp-btn-group">',
+      '    <button class="fcp-play" aria-label="Play or pause"><svg viewBox="0 0 24 24" aria-hidden="true"><path class="fcp-ic-play" d="M8 5v14l11-7z"/><path class="fcp-ic-pause" d="M6 5h4v14H6zm8 0h4v14h-4z"/></svg></button>',
+      '    <button class="fcp-ctl fcp-setrandom" type="button" hidden aria-label="Launch a random set" title="Random soundscape"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="4"/><circle cx="8" cy="8" r="1.1" fill="currentColor" stroke="none"/><circle cx="16" cy="8" r="1.1" fill="currentColor" stroke="none"/><circle cx="12" cy="12" r="1.1" fill="currentColor" stroke="none"/><circle cx="8" cy="16" r="1.1" fill="currentColor" stroke="none"/><circle cx="16" cy="16" r="1.1" fill="currentColor" stroke="none"/></svg></button>',
+      '    <button class="fcp-ctl fcp-random" aria-label="Jump to a random track" title="Random track"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16 3h5v5"/><path d="M4 20L21 3"/><path d="M21 16v5h-5"/><path d="M15 15l6 6"/><path d="M4 4l5 5"/></svg></button>',
+      '    <button class="fcp-ctl fcp-stop" aria-label="Stop" title="Stop"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="6" y="6" width="12" height="12" rx="1.5"/></svg></button>',
+      '  </div>',
+      '  <div class="fcp-vol-row">',
+      '    <svg class="fcp-vol-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M11 5L6 9H2v6h4l5 4V5z"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/></svg>',
+      '    <input class="fcp-vol" type="range" min="0" max="100" value="80" aria-label="Volume">',
+      '  </div>',
       '</div>',
-      '<div class="fcp-row fcp-modes">',
-      '  <span class="fcp-tlabel">Mode</span>',
-      '  <button type="button" class="fcp-chip fcp-mode-chip on" data-mode="flow" title="Continuous flow with 5s seamless crossfades">Flow</button>',
-      '  <button type="button" class="fcp-chip fcp-mode-chip" data-mode="ordered" title="Sequential ordered loop">Sequential</button>',
-      '  <button type="button" class="fcp-chip fcp-mode-chip" data-mode="shuffle" title="Continuous shuffle cycle with 5s crossfades">Shuffle</button>',
+      '<div class="fcp-sets-wrap" hidden>',
+      '  <div class="fcp-section-head"><span class="fcp-tlabel">Soundscapes</span></div>',
+      '  <div class="fcp-categories" role="tablist" aria-label="Set categories">',
+      '    <button type="button" class="fcp-cattab on" data-cat="all">All</button>',
+      '    <button type="button" class="fcp-cattab" data-cat="ambient">Ambient</button>',
+      '    <button type="button" class="fcp-cattab" data-cat="piano">Piano</button>',
+      '    <button type="button" class="fcp-cattab" data-cat="guitar">Guitar & Lute</button>',
+      '    <button type="button" class="fcp-cattab" data-cat="rest">Handpan & Focus</button>',
+      '    <button type="button" class="fcp-cattab" data-cat="noise">Noise Beds</button>',
+      '  </div>',
+      '  <div class="fcp-sets" role="listbox" aria-label="Sets"></div>',
       '</div>',
-      '<label class="fcp-circ">',
-      '  <input type="checkbox" checked> <span>Adapt to time of day</span>',
-      '</label>',
-      '<div class="fcp-timerdisplay" hidden></div>',
       '<div class="fcp-layerer-wrap">',
       '  <div class="fcp-row fcp-bed-head"><span class="fcp-tlabel">Acoustic Layer Bed</span><span class="fcp-bed-status">Off</span></div>',
       '  <div class="fcp-row fcp-bed-modes">',
@@ -1809,29 +1811,32 @@
       '    <button type="button" class="fcp-bed-btn" data-bed="beta" title="14Hz Beta Binaural Waves (Writing Focus)">14Hz Beta</button>',
       '  </div>',
       '  <div class="fcp-row fcp-bed-vol-row">',
-      '    <span class="fcp-bed-vol-lbl">Bed level</span>',
+      '    <span class="fcp-bed-vol-lbl">Bed Level</span>',
       '    <input class="fcp-bed-vol" type="range" min="0" max="100" value="30" aria-label="Acoustic Bed Volume">',
       '    <span class="fcp-bed-vol-val">30%</span>',
       '  </div>',
-      '</div>',
-      '<div class="fcp-sets-wrap" hidden>',
-      '  <div class="fcp-tlabel">Sets</div>',
-      '  <div class="fcp-categories" role="tablist" aria-label="Set categories">',
-      '    <button type="button" class="fcp-cattab on" data-cat="all">All</button>',
-      '    <button type="button" class="fcp-cattab" data-cat="endel">Endel</button>',
-      '    <button type="button" class="fcp-cattab" data-cat="piano">Piano</button>',
-      '    <button type="button" class="fcp-cattab" data-cat="guitar">Guitar & Lute</button>',
-      '    <button type="button" class="fcp-cattab" data-cat="rest">Handpan & Focus</button>',
-      '    <button type="button" class="fcp-cattab" data-cat="noise">Noise Beds</button>',
-      '  </div>',
-      '  <div class="fcp-sets" role="listbox" aria-label="Sets"></div>',
       '</div>',
       '<div class="fcp-layers-wrap" hidden>',
       '  <div class="fcp-tlabel">Layers</div>',
       '  <div class="fcp-layers"></div>',
       '</div>',
-      '<div class="fcp-tracks-label">Tracks</div>',
-      '<div class="fcp-tracks" role="listbox" aria-label="Tracks"></div>',
+      '<div class="fcp-tracks-wrap">',
+      '  <div class="fcp-tracks-label">Tracks in Set</div>',
+      '  <div class="fcp-tracks" role="listbox" aria-label="Tracks"></div>',
+      '</div>',
+      '<div class="fcp-foot">',
+      '  <div class="fcp-row fcp-timers">',
+      '    <span class="fcp-tlabel">Timer</span>',
+      '    <button class="fcp-chip" data-min="15">15m</button>',
+      '    <button class="fcp-chip" data-min="25">25m</button>',
+      '    <button class="fcp-chip" data-min="45">45m</button>',
+      '    <button class="fcp-chip" data-min="0">off</button>',
+      '  </div>',
+      '  <label class="fcp-circ">',
+      '    <input type="checkbox" checked> <span>Circadian</span>',
+      '  </label>',
+      '</div>',
+      '<div class="fcp-timerdisplay" hidden></div>',
     ].join('');
 
     // panelAnchor: optional selector/element the open panel drops from (its
@@ -1989,9 +1994,11 @@
     if (vw <= 480) {
       this.panel.style.left = '16px';
       this.panel.style.right = '16px';
+      this.panel.style.width = 'auto';
     } else {
       this.panel.style.left = 'auto';
       this.panel.style.right = Math.max(8, Math.round(vw - r.right)) + 'px';
+      this.panel.style.width = '440px';
     }
     var top = Math.max(8, Math.min(Math.round(r.bottom + 8), vh - 60));
     if (this.panelAnchor) {
@@ -2000,7 +2007,7 @@
     }
     this.panel.style.top = Math.min(top, Math.max(8, vh - 60)) + 'px';
     this.panel.style.bottom = 'auto';
-    this.panel.style.maxHeight = Math.max(120, Math.round(vh - top - 12)) + 'px';
+    this.panel.style.maxHeight = Math.max(140, Math.round(vh - top - 16)) + 'px';
   };
 
   UI.prototype.getVolume = function () { return this.volume; };
@@ -2036,8 +2043,8 @@
     }
     var chips = this.setsEl.querySelectorAll('.fcp-setchip');
     for (var j = 0; j < chips.length; j++) {
-      var chipCat = chips[j].getAttribute('data-cat') || 'endel';
-      var show = (cat === 'all' || chipCat === cat);
+      var chipCat = chips[j].getAttribute('data-cat') || 'ambient';
+      var show = (cat === 'all' || chipCat === cat || (cat === 'ambient' && (chipCat === 'endel' || chipCat === 'ambient')));
       chips[j].style.display = show ? '' : 'none';
     }
   };
@@ -2063,8 +2070,9 @@
           else if (id.indexOf('guitar') >= 0 || id.indexOf('lute') >= 0 || id.indexOf('morning') >= 0) cat = 'guitar';
           else if (id.indexOf('waters') >= 0 || id.indexOf('regulation') >= 0 || id.indexOf('beta') >= 0) cat = 'rest';
           else if (id.indexOf('noise') >= 0) cat = 'noise';
-          else cat = 'endel';
+          else cat = 'ambient';
         }
+        if (cat === 'endel') cat = 'ambient';
         chip.setAttribute('data-cat', cat);
         chip.addEventListener('click', function () { self.session.switchSet(eng.setId); });
         frag.appendChild(chip);
